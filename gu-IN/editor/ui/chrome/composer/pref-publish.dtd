@@ -1,0 +1,19 @@
+<!-- extracted from content/pref-publish.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+<!ENTITY  pref.publish.title     "પ્રકાશન">
+<!ENTITY  composerHeader.label "પ્રકાશિત કરો">
+<!ENTITY  maintainCheckbox.label "કડીઓ જાળવો">
+<!ENTITY  keepCheck.label "પાના સાથે ઈમેજો સાચવો">
+
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  adjustDesc.label "પાનાંના સ્થાનેથી કામ કરવા માટે કડીઓ સંતુલિત કરો. (સ્થાનિક પાનાઓની કડીઓ જ્યારે સ્થાનિક આવૃત્તિ અસ્તિત્વમાં હોય ત્યારે કામ કરશે.)           ">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  saveDesc.label "પાાનાંના સ્થાને ઈમેજોની નકલો સંગ્રહો. ઈમેજો હંમેશા પાનાંની સ્થાનિક આવૃત્તિમાં દેખાશે અને જ્યારે પાનું પ્રકાશિત થાય.">
+<!ENTITY  tip.label "મદદ: જો તમે દૂરસ્થ પ્રકાશન વાપરી રહ્યા હોય તો બંને વિકલ્પો ચકાસો.">
+<!ENTITY defaultHeader.label  "મૂળભુત પ્રકાશન સ્થાન">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY  publishFtp.label "જો FTP સાઈટમાં પ્રકાશન કરી રહ્યા હોય, તો બ્રાઉઝ કરવા માટે HTTP સરનામું દાખલ કરો:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY  publishhtp.label "જો FTP સાઈટમાં પ્રકાશન કરી રહ્યા હોય, તો બ્રાઉઝ કરવા માટે HTTP સરનામું દાખલ કરો:">
+

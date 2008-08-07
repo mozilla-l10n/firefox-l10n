@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label        "વિષયસુચી પ્રકાર">
+<!ENTITY  typeColumn.accesskey    "T">
+
+<!ENTITY  actionColumn2.label     "ક્રિયા">
+<!ENTITY  actionColumn2.accesskey "A">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "શોધો:">
+<!ENTITY  filter.accesskey        "S">
+
+<!ENTITY  clear.label             "સાફ કરો">
+<!ENTITY  clear.accesskey         "l">

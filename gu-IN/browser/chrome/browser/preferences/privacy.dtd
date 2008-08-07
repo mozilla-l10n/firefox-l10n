@@ -1,0 +1,55 @@
+<!ENTITY  history.label "ઈતિહાસ">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+<!ENTITY  rememberDaysBefore.label          "છેલ્લા">
+<!ENTITY  rememberDaysBefore.accesskey      "v">
+<!ENTITY  rememberDaysAfter2.label           "દિવસો માટે મુલાકાત લીધેલ પાનાંઓ યાદ રાખો.">
+
+<!ENTITY  rememberForms.label           "હું ફોર્મો અને શોધ પટ્ટીઓમાં જે કંઈપણ દાખલ કરું તે યાદ રાખો">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "મે જે કંઈપણ ડાઉનલોડ કર્યું તે યાદ રાખો">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "કુકીઓ">
+
+<!ENTITY  acceptCookies.label           "સાઈટોમાંથી કુકીઓ સ્વીકારો">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  keepUntil.label               "ત્યાં સુધી રાખો:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "જ્યાં સુધી તેઓની સમયમર્યાદા સમાપ્ત નહિં થાય">
+<!ENTITY  close.label                   "હું &brandShortName; બંધ કરું છું">
+<!ENTITY  askEachTime.label             "મને દર વખતે પૂછો">
+
+<!ENTITY  cookieExceptions.label        "અપવાદો...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "કુકીઓ બતાવો...">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "ખાનગી માહિતી">
+
+<!ENTITY  alwaysClear.label              "જ્યારે હું &brandShortName; બંધ કરું ત્યારે મારી ખાની માહિતી હંમશા સાફ કરો">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  askBeforeClear.label           "ખાનગી માહિતી સાફ કરવા પહેલાં મને પૂછો">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  clearDataSettings.label        "સુયોજનો...">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "હમણાં સાફ કરો...">
+<!ENTITY  clearDataNow.label2            "હમણાં સાફ કરો">
+<!ENTITY  clearDataNow.accesskey         "N">
+
+<!ENTITY  acceptThirdParty.label        "ત્રીજી-વ્યક્તિ કુકીઓ સ્વીકારો">
+<!ENTITY  acceptThirdParty.accesskey    "p">

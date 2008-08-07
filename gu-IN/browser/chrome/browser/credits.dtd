@@ -1,0 +1,11 @@
+<!ENTITY brandMotto "બ્રાઉઝર, રીલોડેડ">
+<!ENTITY credit.thanks "ફાળો આપનારાઓનો">
+
+<!ENTITY credit.thanks2      "અમારા">
+<!ENTITY credit.contributors2 "ખૂબ ખૂબ આભાર" >
+
+<!-- localization credits look like this: -->
+
+<!ENTITY credit.translation "<h3>અનુવાદકો</h3><ul><li>અંકિત પટેલ</li><li>ઉત્કર્ષ ટીમ</li></ul>">
+<!ENTITY credit.memory "યાદમાં">
+<!ENTITY credit.poweredByGeckoReg "Gecko&reg; દ્વારા શક્તિ પ્રદાન થયેલ છે">

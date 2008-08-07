@@ -1,0 +1,13 @@
+<!ENTITY window.title                      "મૂળભુત ક્લાઈન્ટ સુયોજનો">
+<!ENTITY window.width                      "400px">
+<!ENTITY checkNow.label                    "હમણાં ચકાસો">
+<!ENTITY whenStartingCheckFor.label        "જ્યારે શરૂ કરી રહ્યા હોય ત્યારે, &brandShortName; એ તે મૂળભુત કાર્યક્રમ છે કે નહિં તે જોવા માટે ચકાસવું જોઈએ">
+<!ENTITY mailApplication.label             "મેઈલ">
+<!ENTITY mailApplication.accesskey         "M">
+<!ENTITY checkMailNow.accesskey            "C">
+<!ENTITY newsApplication.label             "સમાચાર">
+<!ENTITY newsApplication.accesskey         "N">
+<!ENTITY checkNewsNow.accesskey            "h">
+<!ENTITY rssFeeds.label                    "RSS ફીડ">
+<!ENTITY rssFeeds.accesskey                "R">
+<!ENTITY checkFeedAggregatorNow.accesskey  "e">

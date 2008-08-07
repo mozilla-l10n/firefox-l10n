@@ -1,0 +1,78 @@
+<!-- 
+   - The contents of this file are subject to the Mozilla Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/MPL/
+   - 
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   - 
+   - The Original Code is Mozilla Communicator.
+   - 
+   - The Initial Developer of the Original Code is Netscape
+   - Communications Corp. Portions created by Netscape Communications
+   - Corp. are Copyright (C) 2000 Netscape Communications Corp. All
+   - Rights Reserved.
+   - 
+   - Contributor(s): David Bienvenu <bienvenu@netscape.com>
+   -                 Mohan Bhamidipati <mohanb@netscape.com>
+   -                 Lorenzo Colitti   <lorenzo@colitti.com>
+  --> 
+
+<!ENTITY folderProps.windowtitle.label  "ગુણધર્મો">
+
+<!ENTITY generalInfo.label            "સામાન્ય જાણકારી">
+<!ENTITY folderCharsetTab.label       "મૂળભુત અક્ષર સંગ્રહપદ્ધતિ:">
+<!ENTITY folderCharsetTab.accesskey              "E">
+<!ENTITY folderCharsetOverride.label  "ફોલ્ડરમાં બધા સંદેશાઓને મૂળભુત લાગુ પાડો (અંગત સંદેશા અક્ષર સંગ્રહપદ્ધતિ સુયોજનો અને આપોઆપ-શોધ અવગણાશે)">
+<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderRebuildSummaryFile.label          "અનુક્રમણિકા પુનઃબીલ્ડ કરો">
+<!ENTITY folderRebuildSummaryFile.accesskey      "R">
+<!ENTITY folderRebuildSummaryFileTip.label       "સાર ફાઈલ પુનઃબીલ્ડ કરો">
+
+<!ENTITY retention.label "રીટેન્શન પોલીસી">
+<!ENTITY retentionUseDefault.label  "સર્વર મૂળભુતો વાપરો">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY days.label "દિવસો">
+<!ENTITY daysOld.label "આટલા દિવસો જૂનું">
+<!ENTITY message.label "સંદેશાઓ">
+<!ENTITY retentionCleanup.label "ડિસ્ક જગ્યા પાછી મેળવવા માટે, જૂના સંદેશાઓ કાયમ માટે કાઢી શકાય છે">
+<!ENTITY retentionKeepMsg.label "આના કરતાં વધુ સંદેશાઓ કાઢી નાંખો">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "કોઈપણ સંદેશાઓ કાઢી નાંખશો નહિં">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "બધું કાઢી નાંખો પરંતુ છેલ્લું">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "વંચાયેલ સંદેશાઓને હંમેશા કાઢી નાંખો">
+<!ENTITY retentionKeepUnread.accesskey "r">
+
+<!ENTITY folderOfflineTab.label                             "ઓફલાઈન">
+<!ENTITY folderCheckForNewMessages.label                    "નવા સંદેશાઓ માટે આ ફોલ્ડર ચકાસો">
+<!ENTITY folderCheckForNewMessages.accesskey     "C">
+<!ENTITY offlineFolder.check.label                          "ઓફલાઈન વપરાશ માટે આ ફોલ્ડર પસંદ કરો">
+<!ENTITY offlineFolder.button.label                         "હમણાં ડાઉનલોડ કરો">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY selectofflineNewsgroup.check.label                 "ઓફલાઈન વપરાશ માટે આ સમાચારજૂથ પસંદ કરો">
+<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY UseDefaultofflineNewsgroup.check.label             "ખાતા સુયોજનોમાંથી મૂળભુત વાપરો ">
+<!ENTITY offlineNewsgroup.button.label                      "હમણાં ડાઉનલોડ કરો">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
+
+<!ENTITY folderProps.information.label  "જાણકારી:">
+<!ENTITY folderProps.name.label	        "નામ:">
+<!ENTITY folderProps.name.accesskey              "N">
+
+<!ENTITY folderSharingTab.label                             "વહેંચણી">
+<!ENTITY privilegesDesc.label  "આ અને અન્ય ફોલ્ડરો વહેંચો નેટવર્ક વપરાશકર્તાઓ સાથે અને વપરાશ પૂર્વધારણાઓ સુયોજિત કરો">
+<!ENTITY privileges.button.label                      "વિશેષાધિકારો...">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                            "તમારી પાસે નીચેની પરવાનગીઓ છે:">
+<!ENTITY folderType.label                             "ફોલ્ડર પ્રકાર:">
+
+<!ENTITY folderQuotaTab.label                               "ક્વોટા">
+<!ENTITY folderQuotaRoot.label                              "ક્વોટા રુટ:">
+<!ENTITY folderQuotaUsage.label                             "વપરાશ:">
+<!ENTITY folderQuotaStatus.label                            "પરિસ્થિતી:">

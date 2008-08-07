@@ -1,0 +1,27 @@
+<!ENTITY lHeader                      "જોડાણો">
+
+<!ENTITY askOnSave.label              "જોડાણ ફોલ્ડર">
+<!ENTITY alwaysAsk.label              "દરેક જોડાણ ક્યાં સંગ્રહવું તે મને પૂછો">
+<!ENTITY neverAsk.label               "આ ફોલ્ડરમાં બધા જોડાણો સંગ્રહો:">
+<!ENTITY desktop.label                "ડેસ્કટોપ">
+<!ENTITY downloads.label              "મારા ડાઉનલોડ">
+<!ENTITY choose.label                 "અન્ય...">
+<!ENTITY showFolder.label             "ફોલ્ડર બતાવો">
+
+<!ENTITY downloadManagerWindow.label  "જોડાણ વ્યવસ્થાપક">
+<!ENTITY showWhenStarting.label       "જ્યારે ડાઉનલોડ શરૂ થાય ત્યારે જોડાણ વ્યવસ્થાપક વિન્ડો બતાવો.">
+<!ENTITY closeWhenDone.label          "જ્યારે બધા જોડાણો પૂર્ણ થાય ત્યારે જોડાણ વ્યવસ્થાપક બંધ કરો.">
+
+<!ENTITY fileTypes.label              "ફાઈલ પ્રકારો">
+<!-- XXX this text string could improve --> 
+<!ENTITY fileTypesDescription.label   "નીચેના પ્રકારની ફાઈલોની દરેક સાથે સંકળાયેલ ક્રિયાઓ આપોઆપ કરો:">
+<!ENTITY fileTypeColName.label        "ફાઈલ પ્રકાર">
+<!ENTITY fileHandlerColName.label     "કાર્યક્રમ">
+<!ENTITY editFileHandler.label        "ક્રિયા બદલો...">
+<!ENTITY editFileHandler.accesskey    "a">
+<!ENTITY removeFileHandler.label      "દૂર કરો">
+<!ENTITY removeFileHandler.accesskey  "r">
+
+<!ENTITY plugins.label                "પ્લગ-ઈનો...">
+<!ENTITY plugins.accesskey            "p">
+

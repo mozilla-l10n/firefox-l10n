@@ -1,0 +1,23 @@
+<!ENTITY sanitizeDialog.title         "ખાનગી માહિતી સાફ કરો">
+<!ENTITY sanitizeItems.label          "નીચેની વસ્તુઓ હમણાં સાફ કરો:">
+<!ENTITY clearDataSettings.label      "જ્યારે હું &brandShortName; ને મારી ખાનગી માહિતી સાફ કરવા માટે કહું, ત્યારે તેણે આ બધું ભૂંસી નાંખવું જોઈએ:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "ઈતિહાસ બ્રાઉઝ કરી રહ્યા છીએ">
+<!ENTITY itemHistory.accesskey        "B">
+<!ENTITY itemFormSearchHistory.label  "સંગ્રહાયેલ ફોર્મ અને શોધ ઈતિહાસ">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label          "સંગ્રહાયેલ પાસવર્ડો">
+<!ENTITY itemPasswords.accesskey      "P">
+<!ENTITY itemCookies.label            "કુકીઓ">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "કેશ">
+<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemOfflineApps.label        "ઓફલાઈન વેબસાઈટ માહિતી">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloads.label          "ડાઉનલોડ ઈતિહાસ">
+<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemSessions.label           "સત્તાધિકારીત સત્રો">
+<!ENTITY itemSessions.accesskey       "S">
+<!ENTITY window.width                 "30em">

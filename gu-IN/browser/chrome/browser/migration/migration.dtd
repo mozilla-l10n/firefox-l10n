@@ -1,0 +1,45 @@
+<!ENTITY migrationWizard.title "આયાત વિઝાર્ડ">
+<!ENTITY importFrom.label "વિકલ્પો, બુકમાર્કો, ઇતિહાસ, પાસવર્ડો, અહીંથી આયાત કરો:">
+<!ENTITY importFromUnix.label "પસંદગીઓ, બુકમાર્કો, ઇતિહાસ, પાસવર્ડો, અહીંથી આયાત કરો:">
+<!ENTITY importFromBookmarks.label "બુકમાર્કો આયાત કરો:">
+<!ENTITY importFromIE.label "ઈન્ટરનેટ એક્સપ્લોરર">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "ફાયફોક્સ ૦.૮, ફાયરબર્ડ અથવા ફિનિક્સ">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "કંઇ આયાત ન કરો">
+<!ENTITY importFromNothing.accesskey "D">
+<!ENTITY importFromSeamonkey.label "નેટસ્કેપ ૬, ૭ અથવા મોઝીલા ૧.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "નેટસ્કેપ ૪.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "ઓપેરા">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "કેમિનો">
+<!ENTITY importFromCamino.accesskey "કેમિનો">
+<!ENTITY importFromSafari.label "સફારી">
+<!ENTITY importFromSafari.accesskey "સફારી">
+<!ENTITY importFromOmniWeb.label "ઓમ્નીવેબ">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iકેબ">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "કોન્ક્વેરર">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "એપિફની">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "ગેલન">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label       "HTML ફાઈલમાંથી">
+<!ENTITY importFromHTMLFile.accesskey   "F">
+
+<!ENTITY noMigrationSources.label       "બુકમાર્કો, ઈતિહાસ અથવા પાસવર્ડ માહિતીઓ સમાવતા કોઈ કાર્યક્રમો શોધી શક્યા નહિં.">
+
+
+<!ENTITY importSource.title "સુયોજનો અને માહિતી અહીંથી આયાત કરો">
+<!ENTITY importItems.title "આયાત કરવાની વસ્તુઓ">
+<!ENTITY importItems.label "કઇ વસ્તુઓ આયાત કરવાની છે તે પસંદ કરો:">
+<!ENTITY migrating.title "આયાત કરે છે...">
+<!ENTITY migrating.label "નીચેની વસ્તુઓ અત્યારે આયાત થઇ રહી છે...">
+<!ENTITY selectProfile.title "રુપરેખા પસંદ કરો">
+<!ENTITY selectProfile.label "પોતાના માંથી નિકાસ કરવા માટે નીચેની રુપરેખાઓ પ્રાપ્ત છે:">
+<!ENTITY done.title "આયાત પૂર્ણ">
+<!ENTITY done.label "નીચેની વસ્તુઓ સફળતાપૂર્વક આયાત કરાઇ છે:">

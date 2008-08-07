@@ -1,0 +1,15 @@
+<!ENTITY offlineMenu.label "ઓફલાઈન">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY synchronizeOfflineCmd.label "હમણાં ડાઉનલોડ/સુમેળ કરો...">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd.label "ઓફલાઈન સુયોજનો">
+<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "પસંદિત સંદેશાઓ મેળવો">
+<!ENTITY downloadSelectedCmd.accesskey "M">
+<!ENTITY downloadFlaggedCmd.label "નિશાનીત સંદેશાઓ મેળવો">
+<!ENTITY downloadFlaggedCmd.accesskey "F">
+
+<!ENTITY prefOfflineConnection.label "ઓફલાઈન અને જોડાણ સુયોજનો">
+<!ENTITY prefOfflineDesc.label "ઓફલાઈન સુયોજનોની વ્યવસ્થા કરો.">
+<!ENTITY prefOfflineButton.label "ઓફલાઈન સુયોજનો...">
+<!ENTITY prefOfflineButton.accesskey "O">

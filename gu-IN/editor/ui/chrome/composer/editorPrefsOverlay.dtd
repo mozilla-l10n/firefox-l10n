@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "કમ્પોઝર">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "કમ્પોઝર">
+<!ENTITY editing.label "નવા પાનાનાં સુયોજનો">
+<!ENTITY toolbars.label "સાધનપટ્ટીઓ">
+<!ENTITY publish.label "પ્રકાશન">

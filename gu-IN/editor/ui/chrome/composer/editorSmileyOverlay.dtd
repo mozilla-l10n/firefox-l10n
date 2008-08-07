@@ -1,0 +1,90 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "હસતું મોં">
+<!ENTITY insertSmiley.accesskey "S">
+
+<!ENTITY smiley1Cmd.label "હસો">
+<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "હસતા મોંનો ચહેરો દાખલ કરો">
+<!ENTITY smiley2Cmd.label "નિરાશ છો">
+<!ENTITY smiley2Cmd.accesskey "F">
+<!ENTITY smiley2Cmd.tooltip "નિરાશ ચહેરો દાખલ કરો">
+<!ENTITY smiley3Cmd.label "આંખ મારો">
+<!ENTITY smiley3Cmd.accesskey "W">
+<!ENTITY smiley3Cmd.tooltip "આંખ મારતો ચહેરો દાખલ કરો">
+<!ENTITY smiley4Cmd.label "ચાળા પાડો">
+<!ENTITY smiley4Cmd.accesskey "T">
+<!ENTITY smiley4Cmd.tooltip "ચાળા પાડતો ચહેરો દાખલ કરો">
+<!ENTITY smiley5Cmd.label "મોટેથી હસો">
+<!ENTITY smiley5Cmd.accesskey "L">
+<!ENTITY smiley5Cmd.tooltip "મોટેથી હસતો ચહેરો દાખલ કરો">
+<!ENTITY smiley6Cmd.label "શરમાવો">
+<!ENTITY smiley6Cmd.accesskey "E">
+<!ENTITY smiley6Cmd.tooltip "શરમાતો ચહેરો દાખલ કરો">
+<!ENTITY smiley7Cmd.label "દુવિધામાં">
+<!ENTITY smiley7Cmd.accesskey "U">
+<!ENTITY smiley7Cmd.tooltip "દુવિધાવાળો ચહેરો દાખલ કરો">
+<!ENTITY smiley8Cmd.label "આશ્ચર્યમાં">
+<!ENTITY smiley8Cmd.accesskey "p">
+<!ENTITY smiley8Cmd.tooltip "આશ્ચર્યચકિત ચહેરો દાખલ કરો">
+<!ENTITY smiley9Cmd.label "ચુંબન">
+<!ENTITY smiley9Cmd.accesskey "K">
+<!ENTITY smiley9Cmd.tooltip "ચુંબન મારતો ચહેરો દાખલ કરો">
+<!ENTITY smiley10Cmd.label "મોટેથી રડો">
+<!ENTITY smiley10Cmd.accesskey "Y">
+<!ENTITY smiley10Cmd.tooltip "મોટેથી રડતો દાખલ કરો">
+<!ENTITY smiley11Cmd.label "નિશ્ચિંત">
+<!ENTITY smiley11Cmd.accesskey "C">
+<!ENTITY smiley11Cmd.tooltip "નિશ્ચિંત ચહેરો દાખલ કરો">
+<!ENTITY smiley12Cmd.label "પૈસાકીય-દ્રષ્ટિ">
+<!ENTITY smiley12Cmd.accesskey "M">
+<!ENTITY smiley12Cmd.tooltip "પૈસાકીય-દ્રષ્ટિવાળો ચહેરો દાખલ કરો">
+<!ENTITY smiley13Cmd.label "ગાંડપણ">
+<!ENTITY smiley13Cmd.accesskey "o">
+<!ENTITY smiley13Cmd.tooltip "ગાંડપણવાળો ચહેરો દાખલ કરો">
+<!ENTITY smiley14Cmd.label "નાદાન">
+<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.tooltip "નાદાન ચહેરો દાખલ કરો">
+<!ENTITY smiley15Cmd.label "રડો">
+<!ENTITY smiley15Cmd.accesskey "r">
+<!ENTITY smiley15Cmd.tooltip "રડતો ચહેરો દાખલ કરો">
+<!ENTITY smiley16Cmd.label "મોં સીવી દો">
+<!ENTITY smiley16Cmd.accesskey "a">
+<!ENTITY smiley16Cmd.tooltip "મોં સીવી દેતો ચહેરો દાખલ કરો">
+<!ENTITY SmileButton.tooltip "હસતું મોં દાખલ કરો">

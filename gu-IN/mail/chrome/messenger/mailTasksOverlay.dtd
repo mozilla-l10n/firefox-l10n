@@ -1,0 +1,25 @@
+<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+
+<!ENTITY messengerCmd.label					"મેઈલ &amp; સમાચારજૂથો">
+<!ENTITY messengerCmd.accesskey				"m">
+<!ENTITY messengerCmd.commandkey			"1">
+<!ENTITY addressBookCmd.label				"સરનામા પુસ્તિકા">  
+<!ENTITY addressBookCmd.accesskey			"a">
+<!ENTITY addressBookCmd.commandkey			"2">
+
+<!ENTITY taskMessenger.tooltip  "મેઈલ &amp; સમાચારજૂથો">
+<!ENTITY taskAddressBook.tooltip  "સરનામા પુસ્તિકા">
+
+<!-- searchAddressesCmd is also used by addressbook -->
+<!ENTITY searchAddressesCmd.label                       "સરનામાઓ શોધો...">
+<!ENTITY searchAddressesCmd.accesskey                   "A">
+
+<!ENTITY searchMailCmd.label "સંદેશાઓ શોધો...">
+<!ENTITY searchMailCmd.accesskey "e">
+<!ENTITY searchMailCmd.key "f">
+
+<!ENTITY javaScriptConsoleCmd.label                             "જાવા સ્ક્રિપ્ટ કન્સોલ">
+<!ENTITY javaScriptConsoleCmd.accesskey				"S">
+
+<!ENTITY tasksMenu.label "સાધનો">
+<!ENTITY tasksMenu.accesskey "T"> 

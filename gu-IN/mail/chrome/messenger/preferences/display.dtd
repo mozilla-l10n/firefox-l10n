@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "બંધારણ">
+<!ENTITY itemTags.label                   "ટેગો">
+<!ENTITY itemFonts.label                  "ફોન્ટ">
+
+<!ENTITY textBegin.label                  "અવતરણવાળું સાદું લખાણ દેખાવ">
+<!ENTITY style.label                      "શૈલી:">
+<!ENTITY style.accesskey                  "y">
+<!ENTITY regularStyle.label               "નિયમિત">
+<!ENTITY bold.label                       "ઘાટા">
+<!ENTITY italic.label                     "ત્રાંસા">
+<!ENTITY boldItalic.label                 "ઘાટા ત્રાંસા">
+<!ENTITY size.label                       "માપ:">
+<!ENTITY size.accesskey                   "s">
+<!ENTITY regularSize.label                "નિયમિત">
+<!ENTITY bigger.label                     "મોટા">
+<!ENTITY smaller.label                    "નાના">
+<!ENTITY color.label                      "રંગ:">
+<!ENTITY color.accesskey                  "c">
+<!ENTITY displayWidth.label               "સાદા લખાણ સંદેશાઓ">
+<!ENTITY plainText.label				          "નીચેના ફોન્ટ વાપરો:">
+<!ENTITY displayText.label				        "જ્યારે અવતરણવાળા સાદા લખાણ સંદેશાઓ દર્શાવી રહ્યા હોય:">
+<!ENTITY viewingPlainText.label			      "જ્યારે સાદા લખાણ સંદેશાઓ દર્શાવી રહ્યા હોય:">
+<!ENTITY fixedWidth.label                 "ચોક્કસ પહોળાઈ ફોન્ટ">
+<!ENTITY fixedWidth.accesskey             "x">
+<!ENTITY variableWidth.label              "ચલિત પહોળાઈ ફોન્ટ">
+<!ENTITY variableWidth.accesskey          "V">
+<!ENTITY readingMessagesHeader.label      "આવતા સંદેશાઓ માટે">
+<!ENTITY colors.label                     "રંગો">
+<!ENTITY overrideColors.label             "જ્યારે સંદેશાઓ દર્શાવી રહ્યા હોય, ત્યારે નીચેના રંગો વાપરો:">
+<!ENTITY  textColor.label                 "લખાણ રંગ:">
+<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  backgroundColor.label           "પાશ્વ ભાગ રંગ:">
+<!ENTITY  backgroundColor.accesskey       "b">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "ચિહ્નો ગ્રાફિક્સ તરીકે દર્શાવો">
+<!ENTITY convertEmoticons.accesskey    "D">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label    "તમારા સંદેશાઓ વર્ગીકૃત અને પ્રાધાન્યવાળા કરવા માટે ટેગો વાપરી શકાય છે.">
+<!ENTITY addTagButton.label       "ઉમેરો">
+<!ENTITY addTagButton.accesskey   "A">
+<!ENTITY editTagButton.label      "ફેરફાર">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label    "કાઢી નાંખો">
+<!ENTITY removeTagButton.accesskey "l">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label  "&brandShortName; દ્વારા વાપરવામાં આવતા ફોન્ટ અને સંગ્રહપદ્ધતિઓ રૂપરેખાંકિત કરો">
+<!ENTITY fontsAndEncodingsCaption.label      "ફોન્ટ &amp; સંગ્રહપદ્ધતિઓ">
+<!ENTITY fontOptions.accesskey   "F">
+<!ENTITY fontOptions.label       "ફોન્ટ...">

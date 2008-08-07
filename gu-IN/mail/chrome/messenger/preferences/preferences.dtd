@@ -1,0 +1,14 @@
+
+<!ENTITY  prefWindow.titleWin     "વિકલ્પો">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; પસંદગીઓ">
+<!ENTITY  prefWindow.styleWin     "width: 44em; height: 38em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleUnix    "width: 42em;">
+
+<!ENTITY paneGeneral.title        "સામાન્ય">
+<!ENTITY paneDisplay.title        "ડિસ્પ્લે">
+<!ENTITY paneTags.title           "ટેગો">
+<!ENTITY paneComposition.title    "ભેગું">
+<!ENTITY paneAttachments.title    "જોડાણો">
+<!ENTITY panePrivacy.title        "ખાનગીપણું">
+<!ENTITY paneAdvanced.title       "ઉન્નત">

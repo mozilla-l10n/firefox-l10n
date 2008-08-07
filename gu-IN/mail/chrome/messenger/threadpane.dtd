@@ -1,0 +1,58 @@
+<!--
+The contents of this file are subject to the Netscape Public
+License Version 1.1 (the "License"); you may not use this file
+except in compliance with the License. You may obtain a copy of
+the License at http://www.mozilla.org/NPL/
+
+Software distributed under the License is distributed on an "AS
+IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+implied. See the License for the specific language governing
+rights and limitations under the License.
+
+The Original Code is Mozilla Communicator client code, released
+March 31, 1998.
+
+The Initial Developer of the Original Code is Netscape
+Communications Corporation. Portions created by Netscape are
+ Copyright (C) 1998-1999 Netscape Communications Corporation. All
+Rights Reserved.
+--> 
+
+<!ENTITY threadColumn.label "થ્રેડ">
+<!ENTITY senderColumn.label "મોકલનાર">
+<!ENTITY recipientColumn.label "મેળવનાર">
+<!ENTITY subjectColumn.label "વિષય">
+<!ENTITY dateColumn.label "તારીખ">
+<!ENTITY priorityColumn.label "પ્રાધાન્ય">
+<!ENTITY labelColumn.label "લેબલ">
+<!ENTITY accountColumn.label "ખાતું">
+<!ENTITY statusColumn.label "પરિસ્થિતી">
+<!ENTITY sizeColumn.label "માપ">
+<!ENTITY junkStatusColumn.label "બગડેલ પરિસ્થિતી">
+<!ENTITY linesColumn.label "લીટીઓ">
+<!ENTITY unreadColumn.label "નહિં વંચાયેલ થ્રેડમાં">
+<!ENTITY totalColumn.label "થ્રેડનાં કુલ">
+<!ENTITY readColumn.label "વંચાયેલ">
+<!ENTITY flagColumn.label "નિશાની">
+<!ENTITY locationColumn.label "સ્થાન">
+<!ENTITY idColumn.label "મેળવાયેલ ક્રમ">
+
+<!--Tooltips-->
+<!ENTITY columnChooser.tooltip "પ્રદર્શિત કરવા માટે સ્તંભો પસંદ કરવા ક્લિક કરો">
+<!ENTITY threadColumn.tooltip "સંદેશા થ્રેડો પ્રદર્શિત કરવા માટે ક્લિક કરો"> 
+<!ENTITY senderColumn.tooltip "મોકલનાર પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY recipientColumn.tooltip "મેળવનાર પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY subjectColumn.tooltip "વિષય પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY dateColumn.tooltip "તારીખ પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY priorityColumn.tooltip "પ્રાધાન્ય પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY labelColumn.tooltip "લેબલ પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY accountColumn.tooltip "ખાતા પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY statusColumn.tooltip "પરિસ્થિતી પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY sizeColumn.tooltip "માપ પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY junkStatusColumn.tooltip "બગડેલ પરિસ્થિતી પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY unreadColumn.tooltip "થ્રેડમાં નહિં વંચાયેલ સંદેશાઓની સંખ્યા">
+<!ENTITY totalColumn.tooltip "થ્રેડમાં કુલ સંદેશાઓની સંખ્યા">
+<!ENTITY readColumn.tooltip "વાંચ્યા પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY flagColumn.tooltip "નિશાની પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY locationColumn.tooltip "સ્થાન પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY idColumn.tooltip "મેળવાયેલ ક્રમ પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">

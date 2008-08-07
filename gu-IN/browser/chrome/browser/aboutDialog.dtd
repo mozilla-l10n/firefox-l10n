@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title "&brandFullName; વિશે">
+<!ENTITY copyright "યશ">
+<!ENTITY aboutLink "&lt; &brandFullName; વિશે">
+<!ENTITY aboutVersion "આવૃતિ">
+<!ENTITY copyright.accesskey    "C">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY copyrightInfo          "&#169;1998-2008 ફાળો આપનારાઓ. બધા નિયમો આરક્ષિત છે. Firefox અને Firefox લોગો એ Mozilla ફાઉન્ડેશનના ટ્રેડમાર્કો છે. બધા નિયમો આરક્ષિત છે.">

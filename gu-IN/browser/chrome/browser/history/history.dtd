@@ -1,0 +1,28 @@
+<!ENTITY find.label "શોધો:">
+<!ENTITY find.accesskey "S">
+<!ENTITY expand.label "વિસ્તૃત કરો">
+<!ENTITY expand.accesskey "E">
+<!ENTITY collapse.label "અવિસ્તૃત કરો">
+<!ENTITY collapse.accesskey "C">
+<!ENTITY byDate.label "તારીખ વડે">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "સાઇટ વડે">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "જુઓ">
+<!ENTITY view.accesskey "w">
+<!ENTITY byMostVisited.label "સૌથી વધુ મુલાકાત વડે">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "છેલ્લી મુલાકાત લીધેલ વડે">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "તારીખ અને સાઇટ વડે">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "ખોલો">
+<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openInNewTab.label "નવી ટેબમાં ખોલો">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "નવી વિન્ડોમાં ખોલો">
+<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY bookmarkLink.label "આ કડીને બુકમાર્ક કરો...">
+<!ENTITY bookmarkLink.accesskey "B">
+<!ENTITY copyLink.label "કડીઓની નકલ કરો">
+<!ENTITY copyLink.accesskey "C">

@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML મેઈલ પ્રશ્ન">
+
+<!ENTITY recipient.label "અમુક મેળવનારાઓ HTML મેઈલ મેળવવા માટે સમર્થ નથી એ રીતે યાદી થયેલા છે.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "તમારો સંદેશો સાદા લખાણમાં જાણકારીના ખોવાયા વિના ફેરવી શકાશે.">
+<!ENTITY convertibleAltering.label "તમારો સંદેશો સાદા લખાણમાં મહત્વની જાણકારીના ખોવાયા વિના ફેરવી શકાશે. તેમછતાં પણ, તમે કમ્પોઝરમાં જે જુઓ તે સાદા લખાણની આવૃત્તિમાં અલગ દેખાશે.">
+<!ENTITY convertibleNo.label "તેમછતાં પણ, તમે વાપરેલ બંધારણ (દા.ત. રંગો) કે જે સાદા લખાણમાં ફેરવી શકાશે નહિં.">
+
+<!ENTITY question.label "શું તમે સંદેશાને સાદા લખાણમાં ફેરવવા માગો છો અથવા તેને કોઈપણ રીતે HTML માં મોકલવા માંગો છો?">
+
+<!ENTITY plainTextAndHtml.label "સાદા લખાણ અને HTML માં મોકલો">
+<!ENTITY plainTextOnly.label "માત્ર સાદા લખાણમાં જ મોકલો">
+<!ENTITY htmlOnly.label "માત્ર HTML માં જ મોકલો">
+
+<!ENTITY plainTextAndHtmlRecommended.label "સાદા લખાણ અને HTML માં મોકલો (આગ્રહણીય)">
+<!ENTITY plainTextOnlyRecommended.label "માત્ર સાદા લખાણમાં જ મોકલો (આગ્રહણીય)">
+<!ENTITY htmlOnlyRecommended.label "માત્ર HTML માં જ મોકલો (આગ્રહણીય)">
+<!ENTITY recommended.label "(આગ્રહણીય)">
+
+<!ENTITY send.label "મોકલો">
+<!ENTITY cancel.label "રદ કરો">
+<!ENTITY recipients.label "મેળવનારાઓ...">
+<!ENTITY help.label "મદદ">

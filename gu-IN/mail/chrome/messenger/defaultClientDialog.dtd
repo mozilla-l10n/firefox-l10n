@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "મૂળભૂત ક્લાઈન્ટ">
+<!ENTITY defaultClient.intro  "&brandShortName; ને આના માટે મૂળભૂત ક્લાઈન્ટ તરીકે વાપરો:">
+
+<!ENTITY email.label "ઈ-મેેઈલ">
+<!ENTITY newsgroups.label "સમાચારજૂથો">
+<!ENTITY rss.label "RSS વળતરો">
+
+<!ENTITY checkOnStartup.label "જ્યારે &brandShortName; શરૂ કરી રહ્યા હોય ત્યારે આ ચકાસણી હંમેશા કરો">
+<!ENTITY checkOnStartup.accesskey "A">

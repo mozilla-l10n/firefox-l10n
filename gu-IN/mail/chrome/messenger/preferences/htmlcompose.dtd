@@ -1,0 +1,14 @@
+<!ENTITY dialog.title                 "HTML વિકલ્પો">
+<!ENTITY defaultMessagesHeader.label          "HTML સંદેશા કમ્પોઝ મૂળભુતો">
+<!ENTITY font.label                           "ફોન્ટ:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY size.label                           "માપ:">
+<!ENTITY size.accesskey                       "S">
+<!ENTITY fontColor.label                      "લખાણ:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "પાશ્વ ભાગ:">
+<!ENTITY bgColor.accesskey                    "B">
+
+<!ENTITY restoreDefaultsDescription.label    "મૂળભુતો પુનઃસંગ્રહો:">
+<!ENTITY restoreDefaults.label               "પુનઃસંગ્રહો">
+<!ENTITY restoreDefaults.accesskey           "R">

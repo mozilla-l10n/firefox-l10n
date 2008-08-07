@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "સુરક્ષા">
+<!ENTITY securityHeading.label "સહી કરેલ અથવા એનક્રિપ્ટ થયેલ સંદેશાઓ મોકલવા અને મેળવવા માટે, તમારે બંને ડિજીટલ સહીકરણ પ્રમાણપત્ર અને એનક્રિપ્શન પ્રમાણપત્ર સ્પષ્ટ કરવું જોઈએ.">
+<!ENTITY encryptionGroupTitle.label "એનક્રિપ્શન">
+<!ENTITY encryptionChoiceLabel.label "જ્યારે સંદેશાઓ મોકલી રહ્યા હોય ત્યારના મૂળભુત એનક્રિપ્શન સુયોજનો:">
+<!ENTITY neverEncrypt.label "ક્યારેય નહિં (એનક્રિપ્શન વાપરો નહિં)">
+<!ENTITY alwaysEncryptMessage.label "માંગણી થયેલ (જ્યાં સુધી બધા મેળવનારાઓ પ્રમાણપત્રો ના હોય ત્યાં સુધી સંદેશો મોકલી શકતા નથી)">
+<!ENTITY encryptionCert.message "આ પ્રમાણપત્રને તમે મોકલેલા સંદેશાઓને એનક્રિપ્ટ &amp; ડિક્રિપ્ટ કરવા માટે વાપરો:">
+<!ENTITY encryptionCert.notselected "કોઈ પ્રમાણપત્ર સુયોજિત નથી">
+<!ENTITY certificate.button "પસંદ કરો...">
+<!ENTITY certificate_clear.button "સાફ કરો">
+<!ENTITY signingGroupTitle.label "ડિજીટલ સહીકરણ">
+<!ENTITY signMessage.label "ડિજીટલ રીતે સંદેશાઓને સહી કરો (મૂળભુત રીતે)">
+<!ENTITY signingCert.message "તમે મોકલેલ સંદેશાઓને ડિજીટલ રીતે સહી કરવા માટે આ પ્રમાણપત્ર વાપરો:">
+<!ENTITY signingCert.notselected "કોઈ પ્રમાણપત્ર સુયોજિત નથી">
+
+<!ENTITY certificates.label     "પ્રમાણપત્રો">
+<!ENTITY managecerts.label      "પ્રમાણપત્રો જુઓ">
+<!ENTITY managecerts.accesskey  "M">
+<!ENTITY managedevices.label    "સુરક્ષા ઉપકરણ">
+<!ENTITY managedevices.accesskey   "S">

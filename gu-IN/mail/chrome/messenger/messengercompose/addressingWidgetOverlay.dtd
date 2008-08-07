@@ -1,0 +1,9 @@
+<!-- address labels -->
+<!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
+<!ENTITY toAddr.label   "પ્રતિ:"> 
+<!ENTITY ccAddr.label   "આને પણ:"> 
+<!ENTITY bccAddr.label  "આને પણ ખબર વિના:"> 
+<!ENTITY replyAddr.label   "ને વળતો જવાબ આપો:"> 
+<!ENTITY newsgroupsAddr.label   "સમાચાર જૂથ:"> 
+<!ENTITY followupAddr.label   "ને અનુસરો:"> 
+

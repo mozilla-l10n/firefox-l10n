@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "બદલો ક્રિયા">
+<!ENTITY  window.width                        "36em">
+
+<!ENTITY  whenDownloading.label               "જ્યારે આના જેવી ફાઈલો ડાઉનલોડ કરી રહ્યા હોય:">
+
+<!ENTITY  openDefault.label                   "તેમને મૂળભુત કાર્યક્રમ સાથે ખોલો:">
+<!ENTITY  openDefault.accesskey               "O">
+<!ENTITY  openApplication.label               "તેમને આ કાર્યક્રમ સાથે ખોલો:">
+<!ENTITY  openApplication.accesskey           "e">
+<!ENTITY  changeApp.label                     "બ્રાઉઝ કરો...">
+<!ENTITY  changeApp.accesskey                 "B">
+<!ENTITY  saveToDisk.label                    "તેમને મારા કમ્પ્યૂટર પર સંગ્રહો">
+<!ENTITY  saveToDisk.accesskey                "S">
+<!ENTITY  saveToDefaultFolder.label           "મૂળભુત ડાઉનલોડ ફોલ્ડરમાં">
+<!ENTITY  saveToDefaultFolder.accesskey       "d">
+<!ENTITY  saveToThisFolder.label              "આ ફોલ્ડરમાં:">
+<!ENTITY  saveToThisFolder.accesskey          "h">
+<!ENTITY  chooseFolder.label                  "બ્રાઉઝ કરો...">
+<!ENTITY  chooseFolder.accesskey              "w">
+<!ENTITY  saveToAskMe.label                   "ફાઈલને ક્યાં સંગ્રહવી છે તેના માટે મને પૂછો">
+<!ENTITY  saveToAskMe.accesskey               "a">
+<!ENTITY  usePlugin.label                     "આ પ્લગઈન વાપરો:">
+<!ENTITY  usePlugin.accesskey                 "P">

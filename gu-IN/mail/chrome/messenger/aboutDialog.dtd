@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title      "&brandShortName; વિશે">
+<!ENTITY credits                "યશ">
+<!ENTITY aboutLink              "&lt; &brandShortName; વિશે">
+<!ENTITY aboutVersion           "આવૃત્તિ">
+<!ENTITY copyrightText          "&#169;1998-2004 Contributors. All Rights Reserved. Mozilla Thunderbird and the 
+                                 Thunderbird logos are trademarks of the Mozilla Foundation.  All rights 
+                                 reserved.">

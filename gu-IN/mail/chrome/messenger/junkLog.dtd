@@ -1,0 +1,8 @@
+<!ENTITY junkLog.title "બગડેલ મેઈલ લોગ">
+<!ENTITY junkLogInfo.text "બગડેલ મેઈલ લોગ એ ફાઈલ છે કે જે બગડેલ મેઈલ નિયંત્રણ ક્રિયા પર દસ્તાવેજીકરણ કરે છે.  લોગ કરવાનું સક્રિય કરવા માટે નીચેનો ચકાસણી બોક્સ વાપરો.">
+<!ENTITY clearLog.label "લોગ સાફ કરો">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY enableLog.label "બગડેલ મેઈલ લોગ સક્રિય કરો">
+<!ENTITY enableLog.accesskey "E">
+<!ENTITY closeLog.label "બંધ કરો">
+<!ENTITY closeLog.accesskey "o">

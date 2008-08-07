@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS ઉમેદવારીઓ">
+<!ENTITY subscriptionDesc.label "નોંધ: ફીડ માટે ફોલ્ડરને દૂર કરવાનું અથવા બદલવાનું પહેલાના ડાઉનલોડ થયેલ લેખોને અસર કરશે નહિં.">
+<!ENTITY feedTitle.label "શીર્ષક:">
+<!ENTITY location.label  "સ્થાન:">
+
+<!ENTITY button.addFeed.label       "ઉમેરો">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "ફેરફાર">
+<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.removeFeed.label "દૂર કરો">
+<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.importOPML.label "આયાત કરો">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "નિકાસ કરો">
+<!ENTITY button.exportOPML.accesskey   "X">
+
+<!ENTITY cmd.close.commandKey             "w">

@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "RSS ખાતા સુયોજનો">
+
+<!ENTITY biffStart.label "નવા લેખો માટે આ દરે ચકાસો ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "મિનિટો">
+
+<!ENTITY loginAtStartup.label "નવા લેખો માટે શરૂઆતમાં ચકાસો"> 
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "મૂળભુત રીતે, વેબ પાનું લાવવાની જગ્યાએ લેખ સાર બતાવો"> 
+<!ENTITY useQuickMode.accesskey "B">
+
+<!ENTITY manageSubscriptions.label "ઉમેદવારીઓની વ્યવસ્થા કરો..."> 
+<!ENTITY manageSubscriptions.accesskey "M">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "સમાચાર &amp; બ્લોગ">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "RSS સમાચાર &amp; બ્લોગ">
+<!ENTITY rss.hostName               "સમાચાર &amp; બ્લોગ">

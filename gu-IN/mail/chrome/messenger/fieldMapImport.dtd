@@ -1,0 +1,36 @@
+<!--
+The contents of this file are subject to the Netscape Public
+License Version 1.1 (the "License"); you may not use this file
+except in compliance with the License. You may obtain a copy of
+the License at http://www.mozilla.org/NPL/
+
+Software distributed under the License is distributed on an "AS
+IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+implied. See the License for the specific language governing
+rights and limitations under the License.
+
+The Original Code is Mozilla Communicator client code, released
+March 31, 1998.
+
+The Initial Developer of the Original Code is Netscape
+Communications Corporation. Portions created by Netscape are
+ Copyright (C) 1998-1999 Netscape Communications Corporation. All
+Rights Reserved.
+--> 
+
+<!ENTITY fieldMapImport.title "સરનામા પુસ્તિકા આયાત કરો">
+<!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
+<!ENTITY fieldMapImport.recordNumber "રેકોર્ડ કરવા માટે આયાત થયેલ માહિતી: ">
+<!ENTITY fieldMapImport.next "આગળ">
+<!ENTITY fieldMapImport.next.accesskey "N">
+<!ENTITY fieldMapImport.previous "પાછળ">
+<!ENTITY fieldMapImport.previous.accesskey "P">
+<!ENTITY fieldMapImport.text "ડાબી બાજુના સરનામા પુસ્તિકા ક્ષેત્રોને જમણી બાજુની યોગ્ય માહિતી સાથે આયાત કરવા માટે ઉપર ખસો અને નીચે ખસો વાપરો. તમે જે આયાત કરવા નહિં માંગતા હોય તે વસ્તુઓને અચિહ્નતિ કરો.">
+<!ENTITY fieldMapImport.up "ઉપર ખસો">
+<!ENTITY fieldMapImport.up.accesskey "M">
+<!ENTITY fieldMapImport.down "નીચે ખસો">
+<!ENTITY fieldMapImport.down.accesskey "o">
+<!ENTITY fieldMapImport.fieldListTitle "સરનામા પુસ્તિકા ક્ષેત્રો">
+<!ENTITY fieldMapImport.dataTitle "આયાત કરવા માટે માહિતી આયાત કરો">
+<!ENTITY fieldMapImport.skipFirstRecord "પ્રથમ રેકોર્ડ ક્ષેત્ર નામો સમાવે છ">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">

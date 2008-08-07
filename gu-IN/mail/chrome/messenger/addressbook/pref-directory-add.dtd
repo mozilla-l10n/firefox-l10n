@@ -1,0 +1,58 @@
+<!--
+The contents of this file are subject to the Netscape Public
+License Version 1.1 (the "License"); you may not use this file
+except in compliance with the License. You may obtain a copy of
+the License at http://www.mozilla.org/NPL/
+
+Software distributed under the License is distributed on an "AS
+IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+implied. See the License for the specific language governing
+rights and limitations under the License.
+
+The Original Code is Mozilla Communicator client code, released
+March 31, 1998.
+
+The Initial Developer of the Original Code is Netscape
+Communications Corporation. Portions created by Netscape are
+ Copyright (C) 1998-2002 Netscape Communications Corporation. All
+Rights Reserved.
+--> 
+
+<!ENTITY newDirectoryTitle.label           "ડિરેક્ટરી સર્વર ગુણધર્મો">
+<!ENTITY directoryName.label               "નામ: ">
+<!ENTITY directoryName.accesskey           "n">
+<!ENTITY directoryHostname.label           "યજમાન નામ: ">
+<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryBaseDN.label             "આધાર DN: ">
+<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY findButton.label                  "શોધો">
+<!ENTITY findButton.accesskey              "f">
+<!ENTITY directorySecure.label             "સુરક્ષિત જોડાણ વાપરો (SSL)">
+<!ENTITY directorySecure.accesskey         "U">
+<!ENTITY directoryLogin.label              "બાઈન્ડ DN: ">
+<!ENTITY directoryLogin.accesskey          "i">
+<!ENTITY advancedOptionsButton.label       "ઉન્નત વિકલ્પો">
+<!ENTITY advancedOptionsButton.accesskey   "a">
+<!ENTITY General.tab                       "સામાન્ય">
+<!ENTITY Offline.tab                       "ઓફલાઈન">
+<!ENTITY Advanced.tab                      "ઉન્નત">
+<!ENTITY advancedOptionsTitle.label        "ઉન્નત વિકલ્પો">
+<!ENTITY portNumber.label                  "પોર્ટ નંબર: ">
+<!ENTITY portNumber.accesskey              "p">
+<!ENTITY searchFilter.label                "શોધ ગાળક: ">
+<!ENTITY searchFilter.accesskey            "f">
+<!ENTITY scope.label                       "મર્યાદા: ">
+<!ENTITY scope.accesskey                   "c">
+<!ENTITY scopeOneLevel.label               "એક સ્તર">
+<!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeSubtree.label                "ઉપવૃક્ષ">
+<!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY return.label                      "આના કરતાં વધુ આપો નહિં">
+<!ENTITY return.accesskey                  "r">
+<!ENTITY results.label                     "પરિણામો">
+<!ENTITY offlineText.label                 "તમે આ ડિરેક્ટરીની સ્થાનિક નકલ ડાઉનલોડ કરી શકો છો કે જેથી તે જ્યારે તમે ઓફલાઈન કામ કરી રહ્યા હોય ત્યારે તે વાપરવા માટે ઉપ્લબ્ધ છે.">
+<!-- Localization note: this is here because the width of the dialog 
+     is determined by the width of the base DN box; and that is likely
+     to vary somewhat with the language.
+-->
+<!ENTITY newDirectoryWidth                 "36em">

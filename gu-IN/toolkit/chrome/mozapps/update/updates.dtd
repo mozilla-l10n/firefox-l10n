@@ -1,0 +1,66 @@
+<!ENTITY  updateWizard.title              "સોફ્ટવેર સુધારો">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "સુધારાઓ માટે ચકાસી રહ્યા છીએ">
+<!ENTITY  checking.label                  "&brandShortName; એ હવે સુધારા માટે ચકાસી રહ્યું છે...">
+
+<!ENTITY  cancel.label                    "રદ કરો">
+<!ENTITY  cancel.accesskey                "C">
+
+<!ENTITY  noupdatesfound.title            "કોઈ સુધારાઓ મળ્યા નહિં">
+<!ENTITY  noupdatesfound.intro            "કોઈ નવા સુધારાઓ ઉપલબ્ધ નથી. &brandShortName; કદાચ નવા સુધારાઓ માટે સમયસર ચકાસી શકે છે.">
+
+<!ENTITY  incompatibleChecking.label      "ચકાસી રહ્યા છે કે શું સુધારો તમારા એક્સટેન્સનો અને/અથવા થીમો સાથે સમસ્યાઓ પેદા કરશે...">
+<!ENTITY  clickHere.label                 "અંહિ ક્લિક કરો">
+
+<!ENTITY  incompatible.warning            "આ સુધારો તમારા અમુક એક્સટેન્સનો અને/અથવા થીમોને જ્યાં સુધી તે સુધારાય નહિં ત્યાં સુધી કામ કરતું અટકાવી દેવાનું કારણ બને છે.">
+<!ENTITY  listIncompatible.label          "યાદી બતાવો">
+<!ENTITY  listIncompatible.accesskey      "L">
+
+<!ENTITY  upgrade.evangelism              "એ ખૂબ આગ્રહણીય છે કે તમે  &brandShortName; ને બને એટલું જલદી &#0187; ડાઉનલોડ અને સ્થાપિત કરો પર ક્લિક કરીને સુધારો.">
+
+<!ENTITY  license.instructions            "જો તમે આ મંજૂરીપત્રની શરતો સાથે મંજૂર થઈ જાઓ, તો આ સુધારો સ્થાપિત કરવા સાથે ચાલુ રાખવા માટે હું મંજૂર છું એમ ક્લિક કરો.">
+
+<!ENTITY  license.titleText               "સોફ્ટવેર લાઈસન્સ મંજૂરીપત્ર">
+<!ENTITY  license.introText               "આ સોફ્ટવેર વાપરવાની શરતો અને કાયદાઓ.">
+<!ENTITY  license.instructionText         "મહેરબાની કરીને નીચેનું લાઈસન્સ મંજૂરીપત્ર વાંચો. આ મંજૂરીપત્રની બાકીની વસ્તુઓ જોવા માટે સરકપટ્ટી વાપરો.">
+<!ENTITY  license.accept                  "હું લાઈસન્સ મંજૂરીપત્રની શરતો સ્વીકારું છું">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "હું લાઈસન્સ મંજૂરીપત્રની શરતો સ્વીકારતો નથી">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  downloading.intro               "સુધારાઓ ડાઉનલોડ કરી રહ્યા છીએ:">
+
+<!ENTITY  details.link                    "વિગતો">
+<!ENTITY  pause.label                     "અટકાવો">
+<!ENTITY  pause.accesskey                 "e">
+<!ENTITY  close.label                     "બંધ કરો">
+<!ENTITY  close.accesskey                 "C">
+
+<!ENTITY  error.label                     "આ સુધારો સ્થાપિત કરવા માટે ત્યાં થોડી સમસ્યાઓ હતી. &brandShortName; સુધારી શકાયો નહિં કારણ કે:">
+                                           
+<!ENTITY  errorManual.label               "તમે આ કડી પર ક્લિક કરીને અને તાજેતરની આવૃત્તિ ડાઉનલોડ કરીને &brandShortName; ને સુધારી શકો છો:">
+
+<!ENTITY  installed.title                 "સુધારો સ્થાપિત થઈ ગયો">
+<!ENTITY  errorpatching.title             "સુધારો નિષ્ફળ">
+<!ENTITY  update.installedOn.label        "પર સ્થાપિત થયેલ:">
+<!ENTITY  connecting.label                "સુધારા સર્વર સાથે જોડાઈ રહ્યા છીએ...">
+
+
+
+<!ENTITY  downloading.title               "સુધારો ડાઉનલોડ કરી રહ્યા છીએ">
+<!ENTITY  finished.title                  "ડાઉનલોડ થયેલ સુધારો કરો">
+<!ENTITY  finished.text                   "સુધારો સફળતાપૂર્વક ડાઉનલોડ થઈ ગયો અને ચકાસાઈ ગયો, અને તે આગળ જ્યારે &brandShortName; શરૂ થાય ત્યારે સુધારવામાં આવશે.">
+<!ENTITY  finishedBackground.title        "સુધારો સ્થાપન કરવા માટે તૈયાર">
+<!ENTITY  finishedBackground.text         "&brandShortName; એ મહત્વનો સુધારો ડાઉનલોડ કર્યો અને ખાતરી કરી. વધુ વિગતો માટે નીચેની કડી પર ક્લિક કરો.">
+<!ENTITY  finishedBackground.name         "સુધારો:">
+<!ENTITY  finishedBackground.more1        "સુધારો હમણાં સ્થાપિત કરવા માટે &brandShortName; હમણાં પુનઃશરૂ કરો ક્લિક કરો.">
+<!ENTITY  finishedBackground.textNotNow   "આ સંવાદ બંધ કરવા માટે અને કામ ચાલુ રાખવા માટે પછીથી ક્લિક કરો. &brandShortName; જ્યારે આગળ શરૂ થાય ત્યારે સુધારો સ્થાપિત કરશે.">
+<!ENTITY  update.details.label            "વિગતો">
+<!ENTITY  update.status.label             "પરિસ્થિતિ:">
+<!ENTITY  errorpatching.intro             "અંશતઃ સુધારો લાગુ પાડી શકાયો નહિં. &brandShortName; સંપૂર્ણ સુધારો ડાઉનલોડ કરીને ફરીથી પ્રયત્ન કરશે.">
+<!ENTITY  installed.intro                 "સુધારો સફળતાપૂર્વક સ્થાપિત થઈ ગયો હતો.">
+<!ENTITY  whatsnew.label                  "શું નવું છે એના વિશે વધુ વાંચો...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; એ વધાતા જતા સુધારાની સંકલનતા ચકાસવામાં અસમર્થ હતું કે જે તેણે ડાઉનલોડ કર્યું છે, તેથી તે હવે સંપૂર્ણ સુધારા પેકેજ ડાઉનલોડ કરી રહ્યું છે.">

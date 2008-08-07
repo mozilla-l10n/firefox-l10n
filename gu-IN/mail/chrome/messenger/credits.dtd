@@ -1,0 +1,30 @@
+<!ENTITY credit.title     "&brandFullName; યશો">
+<!ENTITY brandMotto       "Thunderbird હવે જાય છે!">
+<!ENTITY credit.leads     "ઈજનેરી આગેવાનો">
+<!ENTITY credit.core      "મૂળ વિકાસ પોઝ">
+<!ENTITY credit.gecko     "Gecko દેખાવ એંજીન">
+<!ENTITY credit.thanks    "ખાસ આભાર">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>અનુવાદક</h3><ul><li>અંકિત પટેલ</li></ul>">
+
+<!ENTITY credit.visuals     "વિઝ્યુઅલ ડિઝાઈન આગેવાન">
+<!ENTITY credit.theme       "થીમ ડિઝાઈન">
+<!ENTITY credit.brand       "બ્રાન્ડ ઓળખ">
+<!ENTITY credit.web         "વેબ ડિઝાઈન">
+<!ENTITY credit.update      "Mozilla સુધારો">
+<!ENTITY credit.qalead      "ગુણવત્તા આકારણી આગેવાન">
+<!ENTITY credit.qa          "ગુણવત્તા આકારણી">
+<!ENTITY credit.build       "બીલ્ડ અને પ્રકાશન">
+<!ENTITY credit.infra       "ઈન્ફ્રાસ્ટ્રક્ચર આધાર">
+<!ENTITY credit.support     "આધાર સ્રોતો">
+<!ENTITY credit.manage      "પ્રોજેક્ટ વ્યવસ્થાપન">
+<!ENTITY credit.marketleads "માર્કેટીંગ આગેવાન">
+<!ENTITY credit.market      "માર્કેટીંગ">
+<!ENTITY credit.creators    "બનાવનાર">
+<!ENTITY credit.memory      "ની યાદમાં">
+<!ENTITY credit.poweredByGecko "Gecko&trade; દ્વારા શક્તિ પ્રદાન થયેલ છે">

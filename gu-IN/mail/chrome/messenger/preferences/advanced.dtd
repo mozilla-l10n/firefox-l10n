@@ -1,0 +1,80 @@
+<!ENTITY itemGeneral.label       "સામાન્ય">
+<!ENTITY itemUpdate.label        "સુધારો">
+<!ENTITY itemNetworking.label    "નેટવર્ક &amp; ડિસ્ક જગ્યા">
+<!ENTITY itemCertificates.label  "પ્રમાણપત્રો">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "મારી સરનામા પુસ્તિકામાં લોકો માટે માત્ર નામ જ બતાવો">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+<!ENTITY markAsRead.label              "સંદેશાને વાંચ્યો એમ ચિહ્નિત કરવા પહેલાં">
+<!ENTITY markAsRead.accesskey          "W">
+<!ENTITY markAsReadEnd.label           "સેકન્ડો રાહ જુઓ">
+<!ENTITY markAsReadEnd.accesskey       "d">
+<!ENTITY showFolderColumns.label       "ફોલ્ડર તકતીમાં વિસ્તૃત સ્તંભો બતાવો">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY rememberLastMsg.label         "છેલ્લો પસંદ થયેલ સંદેશો યાદ રાખો">
+<!ENTITY rememberLastMsg.accesskey     "b">
+<!ENTITY reuseExp.label                "નવા સંદેશાઓ આમાં ખોલો:">
+<!ENTITY reuseExpRadio0.label          "નવી સંદેશા વિન્ડોમાં">
+<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio1.label          "હાલની સંદેશા વિન્ડોમાં">
+<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY reuseExpRadio2.label          "એક નવી સંદેશા ટેબ">
+<!ENTITY reuseExpRadio2.accesskey      "Z">
+<!ENTITY connectionTimeout.label       "જોડાણ સમયસમાપ્તિ: ">
+<!ENTITY connectionTimeout.accesskey   "C">
+<!ENTITY connectionSeconds.label       "સેકન્ડો">
+<!ENTITY configEditDesc.label          "અદ્યતન રૂપરેખાંકન">
+<!ENTITY configEdit.label              "રૂપરેખા સંપાદક...">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "કેવી રીતે &brandShortName; વળતી રસીદો સંભાળે છે તે નક્કી કરો">
+<!ENTITY showReturnReceipts.label      "વળતી રસીદો...">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "સુધારાઓ માટે આમાં આપોઆપ ચકાસે છે:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "સ્થાપિત ઉમેરાઓ">
+<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY checkNow.label                 "હમણાં ચકાસો...">
+<!ENTITY whenUpdatesFound.label         "જ્યારે &brandShortName; માં સુધારાઓ મળે,">
+<!ENTITY modeAskMe.label                "ત્યારે મને પૂછો કે શું કરવું છે">
+<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAutomatic.label            "સુધારો આપોઆપ ડાઉનલોડ અને સ્થાપિત કરો">
+<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutoAddonWarn.label        "જો આ મારા કોઈપણ ઉમેરાઓને નિષ્ક્રિય કરશે તો મને ચેતવો">
+<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY showUpdates.label              "સુધારા ઈતિહાસ બતાવો">
+<!ENTITY showUpdates.accesskey          "y">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "જોડાણ...">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "કેવી રીતે &brandShortName; ઈન્ટરનેટ સાથે જોડાય છે તે નક્કી કરો.">
+<!ENTITY connectionsInfo.caption       "જોડાણ">
+<!ENTITY offlineInfo.caption           "ઓફલાઈન">
+<!ENTITY offlineInfo.label             "ઓફલાઈન સુયોજનો રૂપરેખાંકિત કરો">
+<!ENTITY showOffline.label             "ઓફલાઈન...">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace "ડિસ્ક જગ્યા">
+<!ENTITY offlineCompact.label "ફોલ્ડરો સંકુચિત કરો જ્યારે તેઓ સંગ્રહાશે">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "KB">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo.label         "પ્રમાણપત્રો, રીવોકેશન યાદીઓ, પ્રમાણપત્ર ખાતરી અને સુરક્ષા ઉપકરણોની વ્યવસ્થા કરો.">
+<!ENTITY viewCertificates.label         "પ્રમાણપત્રો જુઓ">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "રીવોકેશન યાદીઓ">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewOCSP.label                 "ખાતરી">
+<!ENTITY viewOCSP.accesskey             "f">
+<!ENTITY viewSecurityDevices.label      "સુરક્ષા ઉપકરણો">
+<!ENTITY viewSecurityDevices.accesskey  "u">

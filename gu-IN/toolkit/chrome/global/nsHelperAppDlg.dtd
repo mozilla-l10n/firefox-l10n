@@ -1,0 +1,33 @@
+<!ENTITY caption.label "#1 ને ખોલે છે">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+<!ENTITY intro.label "ફાઈલ &quot;#3&quot; એ #2(#1) પ્રકારની છે, અને #4 આ ફાઈલને કેવી રીતે ચલાવવી તે જાણતુ નથી. આ ફાઈલ અહીં સ્થાપિત થયેલી છે">
+<!ENTITY intro.noDesc.label "ફાઈલ &quot;#3&quot; એ #2 પ્રકારની છે, અને #4 એ આ ફાઈલને કેવી રીતે ચલાવવી તે જાણતુ નથી. આ ફાઈલ અહીં સ્થાપિત થયેલી છે:">
+<!ENTITY intro.attachment.label "સાઈટ &quot;#3&quot;ને જોડાણ તરીકે લેવુ તે સૂચન કરે છે. એ #2(#1) પ્રકારની છે અને અહીં સ્થાપિત થયેલી છે.">
+<!ENTITY intro.attachment.noDesc.label "સાઈટ &quot;#3&quot; ને જોડાણ તરીકે લેવુ તે સૂચન કરે છે. એ #2 પ્રકારની છે અને અહીં સ્થાપિત થયેલી છે.">
+<!ENTITY intro.sniffed.label "#4 એ શોધી કાઢ્યું કે ફાઈલ &quot;#3&quot; એ પ્રકાર #2 (#1) ની ફાઈલ છે. ફાઈલ આ જગ્યાએ સ્થિત થયેલી છે:">
+<!ENTITY intro.sniffed.noDesc.label "#4 એ શોધી કાઢ્યું કે ફાઈલ &quot;#3&quot; એ પ્રકાર #2 ની ફાઈલ છે. ફાઈલ આ જગ્યાએ સ્થિત થયેલી છે:">
+
+<!ENTITY prompt.label "#1 એ આ ફાઈલ સાથે શું કરવુ જોઈએ?">
+<!ENTITY alwaysHandle.label "આ પ્રકારની ફાઈલ સાચવતી વખતે હંમેશા આ ક્રિયાઓ કરો.">
+<!ENTITY alwaysHandle.accesskey "A">
+<!ENTITY saveToDisk.label "તેને ડીસ્ક પર સંગ્રહ કરો">
+<!ENTITY saveToDisk.accesskey "S">
+<!ENTITY useSystemDefault.label "તેને મૂળભૂત કાર્યક્રમ સાથે ખોલો (#1)">
+<!ENTITY useSystemDefault.noDesc.label "તેને મૂળભૂત કાર્યક્રમ સાથે ખોલો">
+<!ENTITY useSystemDefault.accesskey "O">
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+<!ENTITY openUsing.label "તેને સાથે ખોલો">
+<!ENTITY openUsing.accesskey "w">
+<!ENTITY chooseApp.label "પસંદ કરો...">
+<!ENTITY chooseApp.accesskey "c">
+<!ENTITY chooseAppFilePickerTitle "મદદકર્તા કાર્યક્રમો પસંદ કરો">
+<!ENTITY badApp "તમે સ્પષ્ટ કરેલો કાર્યક્રમ (&quot;#1&quot;) મળતો નથી. ફાઈલનું નામ ચકાસો અને બીજો કાર્યક્રમ પસંદ કરો.">
+<!ENTITY badApp.title "કાર્યક્રમ મળ્યો નહિ">

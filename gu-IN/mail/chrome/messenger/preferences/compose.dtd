@@ -1,0 +1,64 @@
+<!ENTITY itemGeneral.label                   "સામાન્ય">
+<!ENTITY itemAutoComplete.label              "સરનામાકરણ">
+<!ENTITY itemSpellCheck.label                "જોડણી">
+<!ENTITY itemSendFormat.label                "મોકલો બંધારણ">
+
+<!ENTITY forwardReply.label                   "સંદેશાઓ આગળ ધપાવી રહ્યા છીએ">
+<!ENTITY forwardMsg.label                     "સંદેશાઓ આગળ ધપાવો:">
+<!ENTITY forwardMsg.accesskey                 "f">
+<!ENTITY inline.label                         "લીટીમાં">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.label                   "જોડાણ તરીકે">
+<!ENTITY asAttachment.accesskey               "A">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "ફોન્ટ:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY size.label                           "માપ:">
+<!ENTITY size.accesskey                       "z">
+<!ENTITY fontColor.label                      "લખાણ રંગ:">
+<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY bgColor.label                        "પાશ્વ ભાગ રંગ:">
+<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY restoreHTMLDefaults.label            "પુનઃસંગ્રહો મૂળભૂતો">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
+
+<!ENTITY sendingMessagesHeader.label          "સંદેશાઓ સંકુચિત કરી રહ્યા છીએ">
+<!ENTITY spellCheck.label                     "મોકલતા પહેલાં જોડણી ચકાસો">
+<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheckInline.label               "તમે લખો ત્યારે જોડણી ચકાસવાનું સક્રિય કરો">
+<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY languagePopup.label                  "ભાષા:">
+<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY downloadDictionaries.label           "વધુ શબ્દકોષો ડાઉનલોડ કરો">
+
+<!ENTITY useMIME.label                        "સંદેશાઓ કે જે 8-bit અક્ષરો સમાવે, તેમના માટે 'quoted printable' MIME સંગ્રહપદ્ધતિ વાપરો">
+<!ENTITY useMIME.accesskey                    "o">
+<!ENTITY warnOnSendAccelKey.label             "સંદેશાને મોકલવા માટે જ્યારે કીબોર્ડ ટૂંકાણ વાપરી રહ્યા હોય ત્યારે ખાતરી કરો">
+<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY autoSave.label                       "દર">
+<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSaveEnd.label                    "મિનિટોએ આપોઆપ સંગ્રહો">
+<!ENTITY autoSaveEnd.accesskey                "m">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "સાદા લખાણ સંદેશાઓને">
+<!ENTITY wrapOutMsg.accesskey                 "l">
+<!ENTITY char.label                           "અક્ષરોમાં લપેટો">
+
+<!ENTITY emailCollectionPicker.label           "જતા ઈ-મેઈલ સંદેશાઓને આપોઆપ આમાં ઉમેેરો:">
+<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY addressingTitle.label                 "સરનામા આપોઆપસમાપ્તિ">
+<!ENTITY autocompleteText.label                "જ્યારે સંદેશાઓને સરનામું આપી રહ્યા હોય, ત્યારે આમાં બંધબેસતાત પ્રવેશો માટે જુઓ:">
+<!ENTITY addressingEnable.label                "સ્થાનિક સરનામા પુસ્તિકાઓ">
+<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY directories.label                     "ડિરેક્ટરી સર્વર:">
+<!ENTITY directories.accesskey                 "D">
+<!ENTITY editDirectories.label                 "ડિરેક્ટરીઓમાં ફેરફાર કરો...">
+<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY matchText.label                       "જો તમારી સ્થાનિક સરનામા પુસ્તિકાઓમાં કોઈ જોડણી હોય:">
+<!ENTITY skipDirectory.label                   "ડિરેક્ટરીમાં શોધો નહિં">
+
+<!ENTITY sendOptionsCaption.label              "મોકલો અને HTML વિકલ્પો">
+<!ENTITY sendOptionsDescription.label          "લખાણ બંધારણ વર્તણૂક રૂપરેખાંકિત કરો">
+<!ENTITY sendOptions.label                     "મોકલો વિકલ્પો...">
+<!ENTITY sendOptions.accesskey                 "S">

@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label              "જોડાણોનું ફોલ્ડર">
+<!ENTITY alwaysAsk.label              "દરેક ફાઈલ ક્યાં સંગ્રહવી છે તે મને પૂછો">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY neverAsk.label               "બધા જોડાણો આ ફોલ્ડરમાં સંગ્રહો:">
+<!ENTITY neverAsk.accesskey           "S">
+<!ENTITY desktop.label                "ડેસ્કટોપ">
+<!ENTITY downloads.label              "મારા ડાઉનલોડો">
+<!ENTITY chooseFolderWin.label        "બ્રાઉઝ કરો...">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "પસંદ કરો...">
+<!ENTITY chooseFolderMac.accesskey    "C">
+
+
+<!ENTITY fileTypes.label              "ડાઉનલોડ ક્રિયાઓ">
+<!ENTITY configureActions.label       "જુઓ &amp; ફેરફાર ક્રિયાઓ...">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypesDescription.label   "&brandShortName; આપોઆપ ચોક્કસ પ્રકારના જોડાણો સંગ્રહી અને ખોલી શકે છે.">
+
+<!ENTITY fileTypeColName.label        "ફાઈલ પ્રકાર">
+<!ENTITY fileHandlerColName.label     "કાર્યક્રમ">
+<!ENTITY editFileHandler.label        "ક્રિયા બદલો...">
+<!ENTITY editFileHandler.accesskey    "a">
+<!ENTITY removeFileHandler.label      "દૂર કરો">
+<!ENTITY removeFileHandler.accesskey  "r">

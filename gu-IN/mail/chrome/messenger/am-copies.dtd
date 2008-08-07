@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "નકલો &amp; ફોલ્ડરો">
+<!ENTITY sendingPrefix.label "જ્યારે સંદેશાઓ મોકલી રહ્યા હોય, ત્યારે આપોઆપ: ">
+<!ENTITY fccMailFolder.label "માં નકલ મૂકો:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "પ્રત્યુત્તરોને પ્રત્યુત્તર અપાઈ ગયેલ સંદેશાના ફોલ્ડરમાં મૂકો">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "ફોલ્ડર પસંદ કરો...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "આ સરનામાઓને પણ ખબર વિના મોકલો:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "વિશિષ્ટ ફોલ્ડરો">
+<!ENTITY draftMailFolder.label "આમાં સંદેશા ડ્રાફ્ટ સાચવો:">
+<!ENTITY templateMailFolder.label "આમાં સંદેશા ટેમ્પ્લેટને સાચવો:">
+<!ENTITY saveMessageDlg.label "જ્યારે સંદેશાઓ સંગ્રહાય ત્યારે ખાતરી સંવાદ બતાવો">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): do not translate "Sent" in below line. see bug #64199 -->
+<!ENTITY sentFolderOn.label "&quot;Sent&quot; ફોલ્ડર પર:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "અન્ય:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): do not translate "Drafts" in below line. see bug #64199 -->
+<!ENTITY draftsFolderOn.label "&quot;Drafts&quot; ફોલ્ડર પર:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "અન્ય:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): do not translate "Templates" in below line. see bug #23625 -->
+<!ENTITY templatesFolderOn.label "&quot;Templates&quot; ફોલ્ડર પર:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "અન્ય:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "ડ્રાફ્ટ અને ટેમ્પ્લેટો">
+<!ENTITY keepDrafts.label "સંદેશા ડ્રાફ્ટો આમાં સાચવો:">
+<!ENTITY keepTempltes.label "સંદેશા ટેમ્પ્લેટો આમાં સાચવો:">

@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "પાસવર્ડ વ્યવસ્થાપક">
+<!ENTITY      windowalttitle.label            "ફોર્મ વ્યવસ્થાપક: સાઈટો">
+<!ENTITY      tab.signonsstored.label         "પાસવર્ડો સંગ્રહાયેલ છે">
+<!ENTITY      tab.signonsnotstored.label      "પાસવર્ડો ક્યારેય સંગ્રહાયેલ નથી">
+<!ENTITY      tab.nopreview.label             "ફોર્મનું ક્યારેય પૂર્વદર્શન થયેલ નથી">
+<!ENTITY      tab.nocapture.label             "ફોર્મ ક્યારેય સંગ્રહ થયેલ નથી">
+
+<!ENTITY      spiel.signonsstored.label       "પાસવર્ડ વ્યવસ્થાપકે નીચેની સાઈટો માટે પ્રવેશ જાણકારીનો સંગ્રહ કરેલ છે:">
+<!ENTITY      spiel.signonsnotstored.label    "પાસવર્ડ વ્યવસ્થાપક નીચેની સાઈટો માટે ક્યારેય પ્રવેશ જાણકારીનો સંગ્રહ કરશે નહિં:">
+<!ENTITY      spiel.nopreview.label           "ફોર્મ વ્યવસ્થાપક નીચેની ફાઈલોને તમારા માટે ભર્યા પહેલાં તેમાંથી ક્યારેય ફોર્મનું પૂર્વદર્શન કરશે નહિં:">
+<!ENTITY      spiel.nocapture.label           "ફોર્મ વ્યવસ્થાપક નીચેની સાઈટોમાંથી ફોર્મ સંગ્રહવા માટે ક્યારેય પૂછશે નહિં:">
+
+<!ENTITY      treehead.site.label             "સાઈટ">
+<!ENTITY      treehead.username.label         "વપરાશકર્તા નામ">
+<!ENTITY      treehead.password.label         "પાસવર્ડ">
+<!ENTITY      remove.label                    "દૂર કરો">
+<!ENTITY      removeall.label                 "બધું દૂર કરો">

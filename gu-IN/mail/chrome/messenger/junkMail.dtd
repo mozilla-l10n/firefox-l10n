@@ -1,0 +1,46 @@
+<!ENTITY window.title "બગડેલા મેઈલ નિયંત્રણો">
+<!ENTITY mainDescription.label "&brandShortName; પાસે બગડેલા મેઈલ, અથવા ખરાબ મેઈલ શોધવા માટે ઘણા માર્ગો છે. આ નિયંત્રણો આવતા સંદેશાઓને ઉકેલી શકે છે અને તેઓને ઓળખી શકે છે કે જેઓ મોટે ભાગે બગડેલ મેઈલ જેવા હોય છે. બગડેલું ચિહ્ન પ્રદર્શિત થાય છે જો સંદેશો બગડેલા મેઈલ તરીકે ઓળખાયેલ હોય.">
+
+<!-- Tab titles -->
+<!ENTITY settingsTab.label "સુયોજનો">
+<!ENTITY adaptiveTab.label "એડેપ્ટીવ ગાળક">
+
+<!-- Settings tab -->
+<!ENTITY move.label "આવતા સંદેશાઓ કે જે બગડેલા મેઈલ તરીકે ઓળખાયેલ હોય તેને આમાં ખસેડો:">
+<!ENTITY otherFolder.label "અન્ય:">
+<!ENTITY junkFolderOn.label "&quot;Junk&quot; પર ફોલ્ડર:">
+<!ENTITY purge1.label "કરતાં જૂના સંદેશાઓને આપોઆપ કાઢી નાંખો">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "આ ફોલ્ડરથી દિવસો">
+<!ENTITY manualMark.label "જ્યારે હું જાતે સંદેશાઓને બગડેલા તરીકે ચિહ્નિત કરું:">
+<!ENTITY manualMarkModeMove.label "તેમને &quot;Junk&quot; ફોલ્ડરમાં ખસેડો">
+<!ENTITY manualMarkModeDelete.label "તેમને કાઢી નાંખો">
+<!ENTITY renderWithSafeHtml.label "જ્યારે HTML સંદેશાઓને બગડેલા તરીકે ચિહ્નિત થયેલ હોય તેમ પ્રદર્શિત કરી રહ્યા હોય, તો HTML ને સારા બનાવો">
+<!ENTITY log.label "લોગ કરી રહ્યા છીએ">
+<!ENTITY handling.label "નિયંત્રિત કરી રહ્યા છીએ">
+
+<!ENTITY account.label "માટેના બગડેલા સુયોજનો રૂપરેખાંકિત કરો:">
+<!ENTITY account.accesskey "C">
+<!ENTITY viewLog.label "બગડેલ મેઈલ લોગ">
+<!ENTITY viewLog.accesskey "j">
+
+<!ENTITY loggingDescription.label "બગડેલ મેઈલ લોગ કરવાનું જુઓ અને રૂપરેખાંકિત કરો.">
+
+<!-- Adaptive Filter tab -->
+
+<!ENTITY adaptiveCaption.label "એડેપ્ટીવ ગાળક">
+<!ENTITY trainingWarning.label "જો સક્રિયકૃત હોય, તો તમારે બગડેલ સાધનપટ્ટી બટનની મદદથી બગડેલા મેઈલને ઓળખવા માટે  સંદેશાઓ બગડેલ છે કે નહિં એમ ચિહ્નિત કરવા માટે &brandShortName; ને પ્રથમ પ્રશિક્ષિત કરવાની જરૂર છે જ. તમારે બગડેલા અને નહિં બગડેલા એમ બંને સંદેશાઓ ઓળખવાની જરૂર છે.">
+<!ENTITY level.label "એડેપ્ટીવ બગડેલ મેઈલ શોધને સક્રિય કરો">
+<!ENTITY level.accesskey "E">
+
+<!ENTITY resetTrainingDescription.label "એડેપ્ટીવ ગાળક દ્વારા વપરાતી પ્રશિક્ષણ માહિતીને પુનઃસુયોજિત કરવામાં તમને ગાળક ફરીથી પ્રશિક્ષિત કરવાની જરૂર રહેશે:">
+<!ENTITY resetTrainingData.label "પ્રશિક્ષણ માહિતી પુનઃસુયોજિત કરો">
+<!ENTITY resetTrainingData.accesskey "R">
+
+<!-- White List tab -->
+<!ENTITY whitelist.label "જો મોકલનાર મારી સરનામા પુસ્તિકામાં હોય તો સંદેશાઓને બગડેલા મેઈલ તરીકે ચિહ્નિત કરો નહિં:">
+<!ENTITY whitelist.accesskey "D">
+
+<!-- Black List tab -->
+<!ENTITY ispHeaders.label "આના દ્વારા સુયોજિત થયેલ બગલેડ મેઈલ હેટરો પર વિશ્વાસ કરો: ">
+<!ENTITY ispHeaders.accesskey "T">

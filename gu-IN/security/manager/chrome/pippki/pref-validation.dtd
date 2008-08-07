@@ -1,0 +1,72 @@
+<!-- 
+   - The contents of this file are subject to the Mozilla Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/MPL/
+   - 
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   - 
+   - The Original Code is mozilla.org code.
+   - 
+   - The Initial Developer of the Original Code is Netscape
+   - Communications Corp.  Portions created by Netscape are
+   - Copyright (C) 2001 Netscape Communications Corp.  All
+   - Rights Reserved.
+   - 
+   - Contributor(s):
+   - David P. Drinan (ddrinan@netscape.com)
+  -->
+<!ENTITY  pref.validation.title                   "ચકાસણી">
+
+<!ENTITY  validation.crl.caption                  "CRL">
+<!ENTITY validation.crl.description "પ્રમાણપત્ર(પદવી) રદ કરવાની યાદી કે જે તમારા પ્રમાણપત્ર ડેટાબેઝમાં સંગ્રહિત છે તેનું વ્યવસ્થાપન કરવા CRL મેનેજરને
+વાપરો.">
+<!ENTITY validation.managecrls.button "CRLનું વ્યવસ્થાપન કરો...">
+<!ENTITY validation.managecrls.accesskey "M">
+<!ENTITY validation.crlmanager.label "CRL નું વ્યવસ્થાપન કરો">
+<!ENTITY  validation.crlmanager.description       "આ Certificate Revocation Lists (CRL) તમારા પ્રમાણપત્ર ડેટાબેઝમાં સંગ્રહાય છે:">
+<!ENTITY validation.crlname.label "નામ">
+<!ENTITY validation.crllastupdate.label "છેલ્લા અપડેટ">
+<!ENTITY validation.crlnextupdate.label "હવે પછીનાં અપડેટ">
+<!ENTITY validation.crlautoupdateenabled.label "આપોઆપ અપડેટ">
+<!ENTITY validation.crlautoupdatestatus.label "આપોઆપ અપડેટની સ્થિતિ">
+<!ENTITY validation.deletecrl.label "દૂર કરો">
+<!ENTITY  validation.deletecrl.accesskey          "D">
+<!ENTITY validation.updatecrl.label "અપડેટ">
+<!ENTITY  validation.updatecrl.accesskey          "U">
+<!ENTITY validation.advanced.label "સુયોજનો">
+<!ENTITY  validation.advanced.accesskey           "S">
+
+<!ENTITY validation.crl.autoupdate.title "Automatic CRL Update Preferences">
+<!ENTITY validation.crl.autoupdate.enable.label "આ CRL માટે આપોઆપ અપડેટ ને સક્રિય કરો">
+<!ENTITY validation.crl.autoupdate.time.label1 "અપડેટ">
+<!ENTITY validation.crl.autoupdate.time.label2 "હવે પછીની અપડેટના પહેલાનાં દિવસો">
+<!ENTITY validation.crl.autoupdate.freq.label1 "દરેકને અપડેટ કરો ">
+<!ENTITY validation.crl.autoupdate.freq.label2 "દિવસ(ઓ)">
+<!ENTITY validation.crl.autoupdate.url.label "CRL અહીંયાથી આયાત થશે:">
+<!ENTITY crl.import.status.title "CRLના આયાતની સ્થિતિ">
+<!ENTITY crl.import.success.message "પ્રમાણપત્ર(પદવી) રદ કરવાની યાદી સફળતા પૂર્વક આયાત કરી લેવાઈ છે.">
+<!ENTITY crl.issuer.label "CRL પ્રમાણિત કરનાર:">
+<!ENTITY crl.issuer.org.label "સંસ્થા:">
+<!ENTITY crl.issuer.orgunit.label "એકમ(ભાગ):">
+<!ENTITY crl.import.nextupdate.label "હવે પછીનાં અપડેટ: ">
+<!ENTITY crl.autoupdate.fail.cnt.label "પહેલાનાં ક્રમીક અપડેટની નિષ્ફળતા: ">
+<!ENTITY crl.autoupdate.fail.reason.label "છેલ્લી અપડેટની નિષ્ફળતાની વિગતો: ">
+<!ENTITY edit.button "સુયોજનો">
+
+<!ENTITY validation.ocsp.caption                  "OCSP">
+<!ENTITY enableOCSP.label                         "પ્રમાણપત્રોની વર્તમાન માન્યતાની ખાતરી કરવા માટે Online Certificate Status Protocol (OCSP) વાપરો">
+<!ENTITY enableOCSP.accesskey                     "U">
+<!ENTITY certOCSP2.label                          "પ્રમાણપત્ર માન્ય કરો જો તે OCSP સર્વર સ્પષ્ટ કરે">
+<!ENTITY certOCSP2.accesskey                      "V">
+<!ENTITY proxyOCSP2.label                         "નીચેનું OCSP સર્વર વાપરી રહેલ બધા પ્રમાણપત્રો માન્ય કરો:">
+<!ENTITY proxyOCSP2.accesskey                     "a">
+<!ENTITY serviceURL.label                         "સેવા URL:">
+<!ENTITY serviceURL.accesskey                     "S">
+<!ENTITY signingCA.label                          "પ્રત્યુત્તર સહી કરનાર:">
+<!ENTITY signingCA.accesskey                      "R">
+<!ENTITY validation.requireOCSP.description       "જ્યારે OCSP સર્વરનું જોડાણ નિષ્ફળ જાય, ત્યારે પ્રમાણપત્રને અયોગ્ય સમજો">
+<!ENTITY validation.requireOCSP.accesskey         "W">

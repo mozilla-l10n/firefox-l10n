@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "પ્રમાણપત્રો ડાઉનલોડ કરો">
+<!ENTITY info.message "મેળવનારાના પ્રમાણપત્રો માટે ડિરેક્ટરી શોધી રહ્યા છીએ. આ થોડી ક્ષણો લેશે.">
+<!ENTITY stop.label "શોધવાનું બંધ કરો">

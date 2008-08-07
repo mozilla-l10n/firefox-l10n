@@ -1,0 +1,20 @@
+<!ENTITY charsetMenu.label        "અક્ષર સંગ્રહપદ્ધતિ">
+<!ENTITY charsetMenu.accesskey        "C">
+<!ENTITY charsetMenuAutodet.label     "આપોઆપ-શોધો">
+<!ENTITY charsetMenuAutodet.accesskey     "a">
+<!ENTITY charsetMenuMore.label        "ઘણું">
+<!ENTITY charsetMenuMore.accesskey        "m">
+<!ENTITY charsetMenuMore1.label       "પશ્ચિમ યુરોપીય">
+<!ENTITY charsetMenuMore1.accesskey       "w">
+<!ENTITY charsetMenuMore2.label       "પૂર્વ યુરોપીય">
+<!ENTITY charsetMenuMore2.accesskey       "E">
+<!ENTITY charsetMenuMore3.label       "પૂર્વ એશિયાઈ">
+<!ENTITY charsetMenuMore3.accesskey       "A">
+<!ENTITY charsetMenuMore4.label       "SE &amp; SW એશિયાઈ">
+<!ENTITY charsetMenuMore4.accesskey       "S">
+<!ENTITY charsetMenuMore5.label       "મધ્ય પૂર્વીય">
+<!ENTITY charsetMenuMore5.accesskey       "M">
+<!ENTITY charsetMenuUnicode.label       "યુનિકોડ">
+<!ENTITY charsetMenuUnicode.accesskey       "U">
+<!ENTITY charsetCustomize.label       "કસ્ટમાઈઝ...">
+<!ENTITY charsetCustomize.accesskey       "c">

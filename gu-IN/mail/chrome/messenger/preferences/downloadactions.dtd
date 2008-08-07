@@ -1,0 +1,31 @@
+<!ENTITY  downloadactionsWindow.title         "ડાઉનલોડ ક્રિયાઓ">
+<!ENTITY  window.width                         "480">
+<!ENTITY  window.height                        "310">
+
+<!ENTITY  fileTypesDescription.label          "નીચેના ફાઈલ પ્રકારોમાંની દરેક સાથે સંકળાયેલ ક્રિયા આપોઆપ કરો:">
+
+<!ENTITY  fileHandlerColumn.label             "ક્રિયા">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "ફાઈલ પ્રકાર">
+<!ENTITY  fileTypeColumn.accesskey            "T">
+<!ENTITY  fileMIMETypeColumn.label            "MIME પ્રકાર">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "એક્સટેન્સન">
+<!ENTITY  fileExtensionColumn.accesskey       "E">
+
+<!ENTITY  remove.label                        "ક્રિયા દૂર કરો">
+<!ENTITY  remove.accesskey                    "R">
+<!ENTITY  edit.label                          "ક્રિયા બદલો...">
+<!ENTITY  edit.accesskey                      "C">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "શોધો:">
+<!ENTITY  filter.accesskey                    "S">
+<!ENTITY  clear.label                         "સાફ કરો">
+<!ENTITY  clear.accesskey                     "l">
+
+<!ENTITY  button.close.label                  "બંધ કરો">
+<!ENTITY  button.close.accesskey              "o">

@@ -1,0 +1,45 @@
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "પાછળ">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "એક પાનું પાછળ જાવ">
+<!ENTITY forwardButton.label            "આગળ ધપાવો">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "એક પાનું આગળ ધપાવો">
+<!ENTITY copyCmd.label                  "નકલ કરો">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "બધું પસંદ કરો">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "ઘર">
+<!ENTITY homeButton.tooltip             "મદદ શરૂઆત પાનાં પર જાવ">
+<!ENTITY printButton.label              "છાપો">
+<!ENTITY printButton.tooltip            "આ પાનું છાપો">
+<!ENTITY fullZoomReduceBtn.label 	"લખાણ માપ ઘટાડો">
+<!ENTITY fullZoomReduceBtn.accesskey    "D">
+<!ENTITY fullZoomEnlargeBtn.label 	"લખાણ માપ વધારો">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY searchtab.label    	  	"શોધો">
+<!ENTITY searchtab.accesskey            "S">
+<!ENTITY searchClose.tooltip            "શોધ પરિણામો બંધ કરો">
+<!ENTITY toctab.label       	  	"સમાવિષ્ટો">
+<!ENTITY toctab.accesskey               "C">
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY fullZoomReduceCmd.commandkey	"-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey	"+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY zLevel.label                   "હંમેશા ઉપર રાખો">
+<!ENTITY zLevel.accesskey               "T">

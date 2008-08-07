@@ -1,0 +1,18 @@
+<!ENTITY  untitledTab            "(શીર્ષકવીહિન)">
+<!ENTITY  newTab.label           "નવી ટેબ">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "ટેબ બંધ કરો">
+<!ENTITY  closeTab.accesskey         "c">
+<!ENTITY  closeOtherTabs.accesskey  "o">
+<!ENTITY  closeOtherTabs.label   "અન્ય ટેબો બંધ કરો">
+<!ENTITY  reloadAllTabs.label    "બધી ટેબો બુનઃલાવો">
+<!ENTITY  reloadAllTabs.accesskey         "A">
+<!ENTITY  reloadTab.label        "ટેબ પુનઃલાવો">
+<!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  listAllTabs.label      "બધી ટેબોની યાદી આપો">
+<!ENTITY  bookmarkAllTabs.label       "બધી ટેબો બુકમાર્ક કરો...">
+<!ENTITY  bookmarkAllTabs.accesskey   "T">
+<!ENTITY  bookmarkThisTab.label        "આ ટેબ બુકમાર્ક કરો...">
+<!ENTITY  bookmarkThisTab.accesskey    "B">
+<!ENTITY  undoCloseTab.label          "ટેબ બંધ કરવાનું રદ કરો">
+<!ENTITY  undoCloseTab.accesskey      "U">

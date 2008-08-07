@@ -1,0 +1,67 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Bob Lord <lord@netscape.com>
+   -   Terry Hayes <thayes@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY  SSLProtocolVersions.caption       "SSL પ્રોટોકોલ આવૃત્તિઓ">
+<!ENTITY  SSLWarnings.caption               "SSL ચેતવણીઓ">
+<!ENTITY  SSLClientAuthMethod.caption       "ક્લાઈન્ટ પ્રમાણપત્ર પસંદગી">
+
+<!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
+<!ENTITY enable.ssl3                        "SSL આવૃત્તિ 3 સક્રિય કરો">
+<!ENTITY enable.ssl3.accesskey              "3">
+<!ENTITY enable.tls                         "TLS સક્રિય કરો">
+<!ENTITY enable.tls.accesskey               "T">
+
+<!ENTITY warn.description                   "&brandShortName; તમને તમે જે વેબ પાનું જોઈ રહ્યા હોય તેની સુરક્ષા પરિસ્થિતિ વિશે ચેતવી શકે છે. &brandShortName; ને ચેતવણી બતાવવા માટે અને પરવાનગી પહેલાં પૂછવા માટે સુયોજિત કરો:">
+<!ENTITY warn.enteringsecure                "પાનું લાવી રહ્યા છીએ કે જે એનક્રિપ્શનને આધાર આપે છે">
+<!ENTITY warn.enteringsecure.accesskey      "L">
+<!ENTITY warn.enteringweak                  "પાનું લાવી રહ્યા છીએ કે જે નીચા-સ્તરનું એનક્રિપ્શન વાપરે છે">
+<!ENTITY warn.enteringweak.accesskey        "o">
+<!ENTITY warn.insecurepost                  "ફોર્મ માહિતીને એનક્રિપ્ટ નહિં થયેલ પાનાંમાંથી એનક્રિપ્ટ નહિં થયેલ પાનાંમાં મોકલી રહ્યા છીએ">
+<!ENTITY warn.insecurepost.accesskey        "S">
+<!ENTITY warn.leavingsecure                 "પાનું છોડી રહ્યા છીએ કે જે એનક્રિપ્શનને આધાર આપે છે">
+<!ENTITY warn.leavingsecure.accesskey       "a">
+<!ENTITY warn.secureredirect                "એક એનક્રિપ્ટ થયેલ પાનાંમાંથી અન્યમાં પુનઃદિશામાન કરી રહ્યા છીએ">
+<!ENTITY warn.secureredirecttoinsecure      "એનક્રિપ્ટ થયેલ પાનાંમાંથી નહિં એનક્રિપ્ટ થયેલ પાનાંમાં પુનઃદિશામાન કરી રહ્યા છીએ">
+<!ENTITY warn.viewmixed                     "એનક્રિપ્ટ થયેલ/નહિં થયેલના મિશ્રણ સાથેનું પાનું જોઈ રહ્યા છીએ">
+<!ENTITY warn.viewmixed.accesskey           "V">
+
+<!ENTITY certselect.description             "કેવી રીતે &brandShortName; એ વ્યક્તિથી વેબ સાઈટો માટે સુરક્ષા પ્રમાણપત્ર પસંદ કરે છે કે જરૂરી છે તે નક્કી કરે છે:">
+<!ENTITY certselect.auto                    "આપોઆપ રીતે પસંદ કરો">
+<!ENTITY certselect.auto.accesskey          "A">
+<!ENTITY certselect.ask                     "દર વખતે પૂછો">
+<!ENTITY certselect.ask.accesskey           "E">

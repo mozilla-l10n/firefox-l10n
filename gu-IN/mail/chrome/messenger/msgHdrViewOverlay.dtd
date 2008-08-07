@@ -1,0 +1,59 @@
+<!--
+The contents of this file are subject to the Netscape Public
+License Version 1.1 (the "License"); you may not use this file
+except in compliance with the License. You may obtain a copy of
+the License at http://www.mozilla.org/NPL/
+
+Software distributed under the License is distributed on an "AS
+IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+implied. See the License for the specific language governing
+rights and limitations under the License.
+
+The Original Code is Mozilla Communicator client code, released
+March 31, 1998.
+
+The Initial Developer of the Original Code is Netscape
+Communications Corporation. Portions created by Netscape are
+ Copyright (C) 1998-1999 Netscape Communications Corporation. All
+Rights Reserved.
+--> 
+
+<!ENTITY toField.label "પ્રતિ: ">
+<!ENTITY fromField.label "તરફથી: ">
+<!ENTITY senderField.label "મોકલનાર: ">
+<!ENTITY organizationField.label "સંસ્થા: ">
+<!ENTITY replyToField.label "પ્રતિ-પ્રત્યુત્તર: ">
+
+<!ENTITY subjectField.label "વિષય: ">
+<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
+<!ENTITY ccField.label "આને પણ: ">
+<!ENTITY bccField.label "આને પણ ખબર વિના: ">
+<!ENTITY newsgroupsField.label "સમાચારજૂથો: ">
+<!ENTITY followupToField.label "પ્રતિ-અનુસરો: ">
+<!ENTITY tagsHdr.label "ટેગો: ">
+
+<!ENTITY dateField.label "તારીખ: ">
+<!ENTITY userAgentField.label "વપરાશકર્તા-એજન્ટ: ">
+<!ENTITY originalWebsite.label "વેબસાઈટ: ">
+<!ENTITY saveAll.label "બધું સંગ્રહો..">
+
+<!ENTITY editMessage.label "ડ્રાફ્ટમાં ફેરફાર કરો...">
+<!ENTITY attachmentsTree.label "જોડાણો:">
+
+<!ENTITY openAttachmentCmd.label    "ખોલો">  
+<!ENTITY openAttachmentCmd.accesskey		"O">  
+<!ENTITY saveAsAttachmentCmd.label    "આ રીતે સંગ્રહો...">  
+<!ENTITY saveAsAttachmentCmd.accesskey		"A"> 
+<!ENTITY printAttachmentCmd.label    ".છાપો">  
+<!ENTITY printAttachmentCmd.accesskey		"P">  
+<!ENTITY detachAttachmentCmd.label    "જોડો ...">  
+<!ENTITY deleteAttachmentCmd.label    "કાઢી નાંખો">  
+<!ENTITY saveAllAttachmentsCmd.label    "બધું સંગ્રહો...">  
+<!ENTITY saveAllAttachmentsCmd.accesskey		"S">  
+<!ENTITY detachAllAttachmentsCmd.label    "બધું જોડો...">  
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">  
+<!ENTITY deleteAllAttachmentsCmd.label    "બધું કાઢી નાંખો...">  
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "E">  
+
+<!ENTITY copyLinkCmd.label        "કડીના સ્થાનની નકલ કરો">  
+<!ENTITY copyLinkCmd.accesskey		"C">  

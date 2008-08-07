@@ -1,0 +1,75 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "માં સંદેશાઓ માટે શોધો:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "શોધ ઉપફોલ્ડરો">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY resetButton.label           "સાફ કરો">
+<!ENTITY resetButton.accesskey       "C">
+<!ENTITY optionsButton.label         "વિકલ્પો">
+<!ENTITY closeButton.label           "બંધ કરો">
+<!ENTITY openButton.label            "ખોલો">
+<!ENTITY openButton.accesskey        "n">
+<!ENTITY deleteButton.label          "કાઢી નાંખો">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "સંદેશાઓ શોધો">
+<!ENTITY conditionDesc.label         "સંદેશાઓ માટે શોધો કે જેઓમાં આ બંધબેસે:">
+<!ENTITY conditions.label            "વિચારદ્રષ્ટિ">
+<!ENTITY results.label               "પરિણામો">
+<!ENTITY fileHereMenu.label          "અંહિ ફાઈલ કરો">
+<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileButton.label            "ફાઈલ">
+<!ENTITY fileButton.accesskey        "i">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY goToFolderButton.label      "સંદેશા ફોલ્ડર ખોલો">
+<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY saveAsVFButton.label      "શોધ ફોલ્ડર તરીકે સંગ્રહો">
+<!ENTITY saveAsVFButton.accesskey  "a">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "માં શોધો:">
+<!ENTITY abSearchHeading.accesskey   "S">
+<!ENTITY propertiesButton.label      "ગુણધર્મો">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "લખો">
+<!ENTITY composeButton.accesskey     "W">
+<!ENTITY abSearchDialogTitle.label   "ઉન્નત સરનામા પુસ્તિકા શોધ">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "થ્રેડ">
+<!ENTITY senderColumn.label "મોકલનાર">
+<!ENTITY recipientColumn.label "મેળવનાર">
+<!ENTITY subjectColumn.label "વિષય">
+<!ENTITY dateColumn.label "તારીખ">
+<!ENTITY priorityColumn.label "પ્રાધાન્ય">
+<!ENTITY tagsColumn.label "ટેગો">
+<!ENTITY accountColumn.label "ખાતું">
+<!ENTITY statusColumn.label "પરિસ્થિતી">
+<!ENTITY sizeColumn.label "માપ">
+<!ENTITY junkStatusColumn.label "બગડેલ પરિસ્થિતી">
+<!ENTITY linesColumn.label "લીટીઓ">
+<!ENTITY unreadColumn.label "નહિં વંચાયેલ">
+<!ENTITY totalColumn.label "કુલ">
+<!ENTITY readColumn.label "વંચાયેલ">
+<!ENTITY starredColumn.label "શરૂ કરાયેલ">
+<!ENTITY locationColumn.label "સ્થાન">
+<!ENTITY idColumn.label "મેળવાયેલ ક્રમ">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "પ્રદર્શિત કરવા માટે સ્તંભો પસંદ કરવા માટે ક્લિક કરો">
+<!ENTITY threadColumn.tooltip "સંદેશા થ્રેડો પ્રદર્શિત કરવા માટે ક્લિક કરો"> 
+<!ENTITY senderColumn.tooltip "મોકલનાર પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY recipientColumn.tooltip "મેળવનાર પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY subjectColumn.tooltip "વિષય પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY dateColumn.tooltip "તારીખ પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY priorityColumn.tooltip "પ્રાધાન્ય પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY tagsColumn.tooltip "ટેગો પ્રમાણે ક્રમમાં ગોઠવવા ક્લિક કરો">
+<!ENTITY accountColumn.tooltip "ખાતા પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY statusColumn.tooltip "પરિસ્થિતી પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY sizeColumn.tooltip "માપ પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY junkStatusColumn.tooltip "બગડેલ પરિસ્થિતી પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY unreadColumn.tooltip "થ્રેડમાં નહિં વંચાયેલ સંદેશાઓની સંખ્યા">
+<!ENTITY totalColumn.tooltip "થ્રેડમાં કુલ સંદેશાઓની સંખ્યા">
+<!ENTITY readColumn.tooltip "વાંચ્યા પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY starredColumn.tooltip "તારા પ્રમાણે ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY locationColumn.tooltip "સ્થાન પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">
+<!ENTITY idColumn.tooltip "મેળવાયેલ ક્રમ પ્રમાણે ક્રમમાં ગોઠવવા માટે ક્લિક કરો">

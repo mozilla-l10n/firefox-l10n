@@ -1,0 +1,8 @@
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "સંદેશો">
+<!ENTITY  newMessageCmd.accesskey         "m">
+ 
+<!ENTITY  newCardCmd.label                "સરનામા પુસ્તિકા કાર્ડ...">
+<!ENTITY  newCardCmd.accesskey            "c">
+ 

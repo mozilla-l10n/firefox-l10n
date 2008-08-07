@@ -1,0 +1,59 @@
+<!ENTITY itemGeneral.label       "સામાન્ય">
+<!ENTITY itemJunk.label          "બગડેલ">
+<!ENTITY itemPhishing.label      "ઈ-મેઈલ સ્કેમો">
+<!ENTITY itemPasswords.label     "પાસવર્ડો">
+<!ENTITY itemAntiVirus.label     "એન્ટી-વાયરસ">
+
+<!ENTITY disableImageInMailNews.label  "મેઈલ સંદેશાઓમાં દૂરસ્થ ઈમેજોને લાવવાનું અટકાવો">
+<!ENTITY disableImageInMailNews.accesskey "B">
+<!ENTITY allowRemoteImagesForFriends.label  "જો મોકલનાર મારી યાદીમાં હોય તો દૂરસ્થ ઈમેજોનો પરવાનગી આપો:">
+<!ENTITY allowRemoteImagesForFriends.accesskey "A">
+<!ENTITY enbJsCheckMailNews.label      "મેઈલ સંદેશાઓમાં જાવા સ્ક્રિપ્ટને અટકાવો">
+<!ENTITY enbJsCheckMailNews.accesskey  "J">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "તમારા મૂળભૂત બગડેલ મેઈલ સુયોજનો સુયોજિત કરો. ખાતાને લગતા બગડેલ મેઈલ સુયોજનો ખાતા સુયોજનોમાં રૂપરેખાંકિત કરી શકાય છે.">
+<!ENTITY manualMark.label "જ્યારે હું સંદેશાઓને બગડેલ તરીકે ચિહ્નિત કરું:">
+<!ENTITY manualMarkModeMove.label "તેમને ખાતાના &quot;બગડેલ&quot; ફોલ્ડરમાં ખસેડો">
+<!ENTITY markAsReadOnSpam.label "બગડેલ તરીકે નક્કી કરવામાં આવેલ સંદેશાઓને વાંચ્યા એમ ચિહ્નિત કરો">
+<!ENTITY markAsReadOnSpam.acesskey "k">
+<!ENTITY manualMarkModeDelete.label "તેમને કાઢી નાંખો">
+<!ENTITY enableJunkLogging.label "બગડેલ ગાળક લોગીંગ સક્રિય કરો">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "લોગ બતાવો">
+<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY resetTrainingData.label "પ્રશિક્ષણ માહિતી પુનઃસુયોજિત કરો">
+<!ENTITY resetTrainingData.accesskey "D">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro      "&brandShortName; શંકાસ્પદ ઈમેઈલ સ્કેમો માટે સંદેશાઓનું વિશ્લેષણ કરી શકે છે તમને પરિચિત કરાવવા માટે સામાન્ય ટેકનીકોને વાપરીને.">
+<!ENTITY enablePhishingDetector1.label    "સંદેશો કે જે હું વાચી રહ્યો છે તે જો ઈમેઈલ સ્કેમ શંકાસ્પદ હોય તો મને કહો">
+<!ENTITY enablePhishingDetector1.accesskey  "e">
+<!ENTITY useDownloadedList.label "શંકાસ્પદ ઈમેઈલ સ્કેમોની ડાઉનલોડ થયેલ યાદી વાપરો">
+<!ENTITY useDownloadedList.accesskey "U">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "&brandShortName; તમારા બધા ખાતાઓ માટે પાસવર્ડ જાણકારી યાદ રાખી શકે છે કે જેથી તમારે તમારી પ્રવેશ વિગતો પાછી દાખલ કરવી પડે નહિં.">
+<!ENTITY  encryptEnabled.label        "સંગ્રહિત પાસવર્ડો એનક્રિપ્ટ કરવા માટે મુખ્ય પાસવર્ડ વાપરો">
+<!ENTITY  encryptEnabled.accesskey    "s">
+<!ENTITY  masterPassword.intro        "જ્યારે સુયોજિત થાય, ત્યારે મુખ્ય પાસવર્ડ તમારા બધા પાસવર્ડોની સુરક્ષા કરશે - પરંતુ તેને સત્ર પ્રતિ એક વાર દાખલ કરવો જ પડશે.">
+<!ENTITY  setMasterPassword.label     "મુખ્ય પાસવર્ડ">
+<!ENTITY  setMasterPassword.accesskey "M">
+<!ENTITY  removeMasterPassword.label  "મુખ્ય પાસવર્ડ દૂર કરો...">
+<!ENTITY  removeMasterPassword.accesskey "R">
+<!ENTITY  editPasswords.label         "સંગ્રહાયેલ પાસવર્ડોમાં ફેરફાર કરો">
+<!ENTITY  editPasswords.accesskey     "i">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; એન્ટી-વાયરસ સોફ્ટવેર માટે આવતા સંદેશાઓનું વિશ્લેષણ કરવા માટે સરળ બનાવી શકે છે તેઓ સ્થાનિક રીતે સંગ્રહાય તે પહેલા.">
+<!ENTITY antiVirus.label      "એન્ટી-વાયરસ ક્લાઈન્ટોને વ્યક્તિગત આવતા સંદેશાઓ માટે ક્વારન્ટાઈન કરો">
+<!ENTITY antiVirus.accesskey  "l">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "વાયરસ-વિરોધી">
+<!ENTITY paswords.label         "પાસવર્ડો">
+<!ENTITY emailScams.label       "ઈમેઈલ સ્કેમો">
+<!ENTITY junkMail.label         "બગડેલ મેઈલ">
+<!ENTITY itemIntrusions.label   "સૂચનો">
+<!ENTITY itemIntrusionsAndPasswords.label  "સૂચનો &amp; પાસવર્ડો">
+<!ENTITY itemJunkMail.label     "બગડેલ મેઈલ">

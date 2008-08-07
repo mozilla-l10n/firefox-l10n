@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "આયાત વિઝાર્ડ">
+
+<!ENTITY importFrom.label               "આયાત વિકલ્પો, ખાતા સુયોજનો, સરનામા પુસ્તિકા અને બીજી માહિતીમાંથી:">
+<!ENTITY importFromUnix.label           "પસંદગીઓ, ખાતા સુયોજનો, સરનામા પુસ્તિકા અને માહિતીને આમાંથી આયાત કરો:">
+
+<!ENTITY importFromNothing.label        "કંઈપણ આયાત કરો નહિં">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey.label      "નેટસ્કેપ ૬, ૭ અથવા Mozilla ૧.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "નેટસ્કેપ ૪.x">
+<!ENTITY importFromNetscape4.accesskey  "૪">
+<!ENTITY importFromOExpress.label       "આઉટલુક એક્સપ્રેસ">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "આઉટલુક">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "યુડોરા">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "સુયોજનો અને મેઈલ ફોલ્ડરો આમાંથી આયાત કરો">
+<!ENTITY importItems.title              "આયાત કરવા માટેની વસ્તુઓ">
+<!ENTITY importItems.label              "કઈ વસ્તુઓની આયાત કરવી છે તે પસંદ કરો:">
+
+<!ENTITY migrating.title                "આયાત કરી રહ્યા છીએ...">
+<!ENTITY migrating.label                "નીચેની વસ્તુઓ વર્તમાનમાં આયાત થઈ રહી છે...">
+
+<!ENTITY selectProfile.title            "રુપરેખા પસંદ કરો">
+<!ENTITY selectProfile.label            "નીચેની રુપરેખાઓ આમાંથી આયાત કરવા માટે ઉપ્લબ્ધ છે:">
+
+<!ENTITY done.title                     "આયાત પૂર્ણ">
+<!ENTITY done.label                     "નીચેની વસ્તુઓની સફળતાપૂર્વક આયાત થઈ ગઈ:">

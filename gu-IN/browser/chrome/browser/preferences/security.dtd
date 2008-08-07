@@ -1,0 +1,42 @@
+<!ENTITY  warnAddonInstall.label        "જ્યારે સાઈટો વધારાનું સ્થાપિત કરવાનો પ્રયાસ કરે ત્યારે મને ચેતવો">
+<!ENTITY  warnAddonInstall.accesskey    "W">
+
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label):
+  The methods by which forged (phished) sites will be detected by phishing
+  providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that this string and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+<!ENTITY  tellMaybeAttackSite.label     "મને કહો જો હું સાઈટ કે જેની મુલાકાત લઈ રહ્યો છું તે શંકાસ્પદ હુમલાખોર સાઈટ હોય">
+<!ENTITY  tellMaybeAttackSite.accesskey "k">
+
+<!ENTITY  tellMaybeForgery.label     "મને કહો જો હું સાઈટ કે જેની મુલાકાત લઈ રહ્યો છું તે ખોટી શંકાવાળી હોય">
+<!ENTITY  tellMaybeForgery.accesskey "T">
+
+
+<!ENTITY  addonExceptions.label         "અપવાદો...">
+<!ENTITY  addonExceptions.accesskey     "E">
+
+
+<!ENTITY  passwords.label               "પાસવર્ડો">
+
+<!ENTITY  rememberPasswords.label       "સાઈટો માટે પાસવર્ડો યાદ રાખો">
+<!ENTITY  rememberPasswords.accesskey   "R">
+<!ENTITY  passwordExceptions.label      "અપવાદો...">
+<!ENTITY  passwordExceptions.accesskey  "x">
+
+<!ENTITY  useMasterPassword.label        "મુખ્ય પાસવર્ડ વાપરો">
+<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  changeMasterPassword.label     "મુખ્ય પાસવર્ડ બદલો...">
+<!ENTITY  changeMasterPassword.accesskey "M">
+
+<!ENTITY  savedPasswords.label            "સંગ્રહાયેલ પાસવર્ડો...">
+<!ENTITY  savedPasswords.accesskey        "P">
+
+<!ENTITY  warnings.label                "ચેતવણી સંદેશાઓ">
+
+<!ENTITY  chooseWarnings.label          "વેબ બ્રાઉઝ કરતી વખતે કયા ચેતવણી સંદેશાઓ તમે જોવા માંગો છો તે પસંદ કરો">
+
+<!ENTITY  warningSettings.label         "સુયોજનો...">
+<!ENTITY  warningSettings.accesskey     "S">

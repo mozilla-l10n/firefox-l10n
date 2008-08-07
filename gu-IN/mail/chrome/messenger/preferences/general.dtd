@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label              "સિસ્ટમ મૂળભૂતો">
+<!ENTITY alwaysCheckDefault.label          "શું &brandShortName; એ શરૂઆત કરવા પર મૂળભૂત મેઈલ ક્લાઈન્ટ છે તે જોવા માટે હંમેશા ચકાસો">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "હમણાં ચકાસો">
+<!ENTITY checkNow.accesskey         "N">
+
+<!ENTITY messengerStartPage.label         "&brandShortName; શરૂઆત પાનું">
+<!ENTITY enableStartPage.label            "જ્યારે &brandShortName; લોન્ચ થાય છે, ત્યારે સંદેશા વિસ્તારમાં શરૂઆત પાનું બતાવો">
+<!ENTITY enableStartPage.accesskey        "W">
+<!ENTITY location.label                   "સ્થાન:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "મૂળભૂત પુનઃસંગ્રહો">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "ડોક ચિહ્ન એનીમેટ કરો">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "જ્યારે નવા સંદેશાઓ આવે:">
+<!ENTITY playSound.label                  "ધ્વનિ વગાડો">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "ચેતવણી બતાવો">
+<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY customizeMailAlert.label         "વૈવિધ્યપૂર્ણ બનાવો...">
+<!ENTITY customizeMailAlert.accesskey     "C">
+
+<!ENTITY soundNotification1.caption       "ધ્વનિ">
+<!ENTITY play.label                       "વગાડો">
+<!ENTITY play.accesskey                   "P">
+<!ENTITY systemsound.label                "નવા મેઈલ માટે મૂળભૂત સિસ્ટમ ધ્વનિ">
+<!ENTITY systemsoundMac.label             "સિસ્ટમ ચેતવણી ધ્વનિ">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "નીચેની ધ્વનિ ફાઈલ વાપરો">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "બ્રાઉઝ કરો...">
+<!ENTITY browse.accesskey                 "B">

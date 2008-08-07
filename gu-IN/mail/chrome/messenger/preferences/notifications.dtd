@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title       "નવી મેઈલ ચેતવણી વૈવિધ્યપૂર્ણ બનાવો">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "ચેતવણી સૂચનમાં કયા ક્ષેત્રો બતાવવા તે પસંદ કરો:">
+<!ENTITY previewText.label                "સંદેશા પૂર્વદર્શન લખાણ">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "વિષય">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "મોકલનાર">
+<!ENTITY sender.accesskey                 "e">

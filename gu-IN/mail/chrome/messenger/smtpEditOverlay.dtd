@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "સુયોજનો">
+<!ENTITY security.caption "સુરક્ષા અને સત્તાધિકરણ">
+<!ENTITY serverName.label "સર્વર નામ:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "વર્ણન:">
+<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverPort.label "પોર્ટ:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "નામ અને પાસવર્ડ વાપરો">
+<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY userName.label "વપરાશકર્તા નામ:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY isSecure.label "સુરક્ષિત જોડાણ વાપરો:">
+<!ENTITY neverSecure.label "ના">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, જો ઉપ્લબ્ધ હોય">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP સર્વર">
+<!ENTITY serverPortDefault.label "મૂળભુત:">

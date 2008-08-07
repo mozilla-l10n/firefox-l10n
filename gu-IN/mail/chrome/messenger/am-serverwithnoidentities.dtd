@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "ખાતા સુયોજનો">
+<!ENTITY accountSettingsDesc.label "નીચેનું ખાતુ વિશિષ્ટ છે. ત્યાં તેની સાથે સંકળાયેલ કોઈપણ ઓળખ નથી.">
+<!ENTITY accountName.label "ખાતા નામ:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "સંદેશા સંગ્રહસ્થાન">
+<!ENTITY emptyTrashOnExit.label "બહાર નીકળવા પર કચરાપેટી ખાલી કરો">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY localPath.label "સ્થાનિક ડિરેક્ટરી:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY localFolderPicker.label "સ્થાનિક ડિરેક્ટરી પસંદ કરો">
+<!ENTITY browseFolder.label "શોધો...">
+<!ENTITY browseFolder.accesskey "B">

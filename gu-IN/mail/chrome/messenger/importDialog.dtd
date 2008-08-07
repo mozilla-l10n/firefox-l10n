@@ -1,0 +1,55 @@
+<!--
+The contents of this file are subject to the Netscape Public
+License Version 1.1 (the "License"); you may not use this file
+except in compliance with the License. You may obtain a copy of
+the License at http://www.mozilla.org/NPL/
+
+Software distributed under the License is distributed on an "AS
+IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+implied. See the License for the specific language governing
+rights and limitations under the License.
+
+The Original Code is Mozilla Communicator client code, released
+March 31, 1998.
+
+The Initial Developer of the Original Code is Netscape
+Communications Corporation. Portions created by Netscape are
+Copyright (C) 2001 Netscape Communications Corporation. All
+Rights Reserved.
+
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of Netscape Communicator,
+	Please translate using the brandname in respective languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurances of the word "&brandShortName;" below.
+--> 
+
+<!ENTITY importDialog.windowTitle "આયાત">
+<!ENTITY importDialog.mailTitle   "મેઈલ">
+<!ENTITY importDialog.addressbookTitle "સરનામા પુસ્તિકાઓ">
+<!ENTITY importDialog.settingsTitle "સુયોજનો">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importTitle.label        "&brandShortName; મેઈલ આયાત વિઝાર્ડ">
+<!ENTITY importDesc.label         "અન્ય કાર્યક્રમોમાંથી મેઈલ, સરનામા પુસ્તિકાઓ અને સુયોજનો આયાત કરો">
+
+<!ENTITY importDescription.label  "આ વિઝાર્ડ અન્ય મેઈલ કાર્યક્રમો અને સામાન્ય સરનામા પુસ્તિકા બંધારણોમાંથી મેઈલ સંદેશાઓ, સરનામા પુસ્તિકા પ્રવેશો, અને/અથવા પસંદગીઓ &brandShortName; મેઈલમાં આયાત કરે છે.">
+<!ENTITY importDescription2.label "એકવાર જ્યારે તે આયાત થઈ જાય, ત્યારે તમે તેમને &brandShortName; મેઈલ અને/અથવા સરનામા પુસ્તિકામાંથી આયાત કરવા સમર્થ હશો.">
+
+<!ENTITY selectDescription.label  "કાર્યક્રમ પસંદ કરો કે જેમાંથી તમે આયાત કરવા માંગો છો:">
+
+<!ENTITY back.label               "&lt; પાછળ">
+<!ENTITY forward.label            "આગળ &gt;">
+<!ENTITY finish.label             "સમાપ્ત">
+<!ENTITY cancel.label             "રદ કરો">
+
+<!ENTITY select.label             "આયાત કરવા માટે સામગ્રીનો પ્રકાર પસંદ કરો:">
+
+<!ENTITY title.label              "શીર્ષક">
+<!ENTITY processing.label         "આયાત કરી રહ્યા છીએ...">
+
+<!ENTITY FieldDiscInputText1.label  "નેટસ્કેપ સંદેશાવાહક 4.x પાસે દરેક કાર્ડ માટે એક મેઈલિંગ સરનામું છે, જ્યારે &brandShortName; પાસે બે છે (ઘર અને કાર્યસ્થાન).">
+<!ENTITY FieldDiscInputText2.label  "વર્ગ પસંદ કરો કે જેમાં તમે આયાત થયેલ મેઈલના સરનામાઓ સંગ્રહ કરવા માંગો છો:">
+<!ENTITY FieldDiscWarning.label  "પસંદિત સરનામા પુસ્તિકાના બધા પ્રવેશો માટે આ વર્ગ વપરાશે: ">
+<!ENTITY importDialog.homeTitle  "ઘર">
+<!ENTITY importDialog.workTitle  "કાર્યસ્થાન">

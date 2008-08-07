@@ -1,0 +1,115 @@
+<!--
+The contents of this file are subject to the Netscape Public
+License Version 1.1 (the "License"); you may not use this file
+except in compliance with the License. You may obtain a copy of
+the License at http://www.mozilla.org/NPL/
+
+Software distributed under the License is distributed on an "AS
+IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+implied. See the License for the specific language governing
+rights and limitations under the License.
+
+The Original Code is Mozilla Communicator client code, released
+March 31, 1998.
+
+The Initial Developer of the Original Code is Netscape
+Communications Corporation. Portions created by Netscape are
+ Copyright (C) 1998-1999 Netscape Communications Corporation. All
+Rights Reserved.
+--> 
+
+<!ENTITY chooseAddressBook.label                "માં ઉમેરો: ">
+<!ENTITY chooseAddressBook.accesskey            "A">
+
+<!ENTITY Contact.tab                     "સંપર્ક"> 
+<!ENTITY Name.box                        "નામ"> 
+
+<!-- LOCALIZATION NOTE: 
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "પ્રથમ નામ"> 
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "છેલ્લું નામ"> 
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "ઉચ્ચારાત્મક પ્રથમ નામ"> 
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "ઉચ્ચારાત્મક છેલ્લું નામ"> 
+
+<!ENTITY NameField1.label               "પ્રથમ:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "છેલ્લું:">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "ઉચ્ચારાત્મક:">
+<!ENTITY PhoneticField2.label           "ઉચ્ચારાત્મક:">
+<!ENTITY DisplayName.label              "ડિસ્પ્લે:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY NickName.label                 "લાડકું નામ:">
+<!ENTITY NickName.accesskey             "N">
+
+<!ENTITY Internet.box                   "ઈન્ટરનેટ">
+<!ENTITY PrimaryEmail.label             "ઈમેઈલ:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "વધારાના ઈમેઈલ:">
+<!ENTITY SecondEmail.accesskey          "o">
+<!ENTITY PreferMailFormat.label         "આ રીતે બંધારણ ઘડાયેલ સંદેશાઓને મેળવવાનું પસંદ કરે છે:">
+<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PlainText.label                "સાદું લખાણ">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "અજ્ઞાત">
+<!ENTITY ScreenName.label               "સ્ક્રીન નામ:">
+<!ENTITY ScreenName.accesskey           "S">
+
+<!ENTITY allowRemoteContent.label       "HTML મેઈલમાં દૂરસ્થ ચિત્રોને પરવાનગી આપો.">
+<!ENTITY allowRemoteContent.accesskey   "g">
+
+<!ENTITY Phones.box                     "ફોન">
+<!ENTITY WorkPhone.label                "કામ:">
+<!ENTITY WorkPhone.accesskey            "W">
+<!ENTITY HomePhone.label                "ઘર:">
+<!ENTITY HomePhone.accesskey            "H">
+<!ENTITY FaxNumber.label                "ફેક્સ:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "પેજર:">
+<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY CellularNumber.label           "મોબાઈલ:">
+<!ENTITY CellularNumber.accesskey       "M">
+
+
+<!ENTITY Address.tab                    "સરનામુ"> 
+<!ENTITY Home.box                       "ઘર"> 
+<!ENTITY HomeAddress.label              "સરનામુ:"> 
+<!ENTITY HomeAddress2.label             ""> 
+<!ENTITY HomeCity.label                 "શહેર:"> 
+<!ENTITY HomeState.label                "રાજ્ય/સ્થળ:"> 
+<!ENTITY HomeZipCode.label              "ZIP/પોસ્ટલ કોડ:"> 
+<!ENTITY HomeCountry.label              "દેશ:">
+<!ENTITY HomeWebPage.label              "વેબ પાનું:"> 
+<!ENTITY Work.box                       "કામ"> 
+<!ENTITY JobTitle.label                 "શીર્ષક:"> 
+<!ENTITY Department.label               "વિભાગ:"> 
+<!ENTITY Company.label                  "સંસ્થા:"> 
+<!ENTITY WorkAddress.label              "સરનામુ:"> 
+<!ENTITY WorkAddress2.label             ""> 
+<!ENTITY WorkCity.label                 "શહેર:"> 
+<!ENTITY WorkState.label                "રાજ્ય/સ્થળ:"> 
+<!ENTITY WorkZipCode.label              "ZIP/પોસ્ટલ કોડ:"> 
+<!ENTITY WorkCountry.label              "દેશ:">
+<!ENTITY WorkWebPage.label              "વેબ પાનું:"> 
+
+
+<!ENTITY Other.tab                      "અન્ય">
+<!ENTITY Custom1.label                  "વિવિધ ૧:">
+<!ENTITY Custom1.accesskey              "૧">
+<!ENTITY Custom2.label                  "વિવિધ ૨:">
+<!ENTITY Custom2.accesskey              "૨">
+<!ENTITY Custom3.label                  "વિવિધ ૩:">
+<!ENTITY Custom3.accesskey              "૩">
+<!ENTITY Custom4.label                  "વિવિધ ૪:">
+<!ENTITY Custom4.accesskey              "૪">
+<!ENTITY Notes.box                      "નોંધો">

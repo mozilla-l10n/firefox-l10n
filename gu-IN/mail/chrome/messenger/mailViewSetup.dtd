@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "સંદેશા દર્શન સુયોજન">
+<!ENTITY mailViewHeading.label "સંદેશા દર્શન નામ:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "જ્યારે આ દર્શન પસંદ થાય, ત્યારે માત્ર તે જ સંદેશાઓ પ્રદર્શિત કરો:">
+

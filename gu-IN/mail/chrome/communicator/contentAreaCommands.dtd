@@ -1,0 +1,106 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "આ સાઈટમાંથી પોપઅપ વિન્ડોને અવગણો">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label      "આ સાઈટમાંથી પોપઅપ વિન્ડોને માન્યતા આપો">
+<!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY openLinkCmd.label            "નવી વિન્ડોમાં કડી ખોલો">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInTab.label       "કડીને નવી ટેબમાં ખોલો">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkInWindowCmd.label    "ખોલો">
+<!ENTITY openLinkInWindowCmd.accesskey "p">
+<!ENTITY openFrameCmd.label           "ચોકઠાને નવી વિન્ડોમાં ખોલો">
+<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmdInTab.label      "ચોકઠાને નવી ટેબમાં ખોલો">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY showOnlyThisFrameCmd.label     "માત્ર આ ચોકઠું બતાવો">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY addToBookmarksCmd.label      "આ પાનાને બુકમાર્ક કરો">
+<!ENTITY addToBookmarksCmd.accesskey  "B">
+<!ENTITY goBackCmd.label              "પાછા જાઓ">
+<!ENTITY goBackCmd.accesskey          "B">
+<!ENTITY goForwardCmd.label           "આગળ વધો">
+<!ENTITY goForwardCmd.accesskey       "F">
+<!ENTITY reloadCmd.label              "ફરીથી લાવો">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "અટકાવો">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY reloadFrameCmd.label         "ચોકઠું ફરીથી લાવો">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "પસંદગી સ્રોત જુઓ">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML સ્રોત જુઓ">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "પાનાનો સ્રોત જુઓ">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "ચોકઠાનો સ્રોત જુઓ">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "પાનાની જાણકારી જુઓ">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "ચોકઠાની જાણકારી જુઓ">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY fitImageCmd.label            "ઈમેજને વિન્ડોમાં બંધબેસાડો">
+<!ENTITY fitImageCmd.accesskey        "F">
+<!ENTITY viewImageCmd.label           "ઈમેજ જુઓ">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.label         "પાશ્વ ભાગની ઈમેજ જુઓ">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setWallpaperCmd.label        "વોલપેપર તરીકે સુયોજિત કરો">
+<!ENTITY setWallpaperCmd.accesskey    "S">
+<!ENTITY bookmarkPageCmd.label        "આ પાનાને બુકમાર્ક કરો">
+<!ENTITY bookmarkPageCmd.accesskey    "m">
+<!ENTITY bookmarkLinkCmd.label        "આ કડીને બુકમાર્ક કરો">
+<!ENTITY bookmarkLinkCmd.accesskey    "L">
+<!ENTITY bookmarkFrameCmd.label       "આ ચોકઠાને બુકમાર્ક કરો">
+<!ENTITY bookmarkFrameCmd.accesskey   "m">
+<!ENTITY savePageAsCmd.label          "પાનાને આ રીતે સંગ્રહો...">
+<!ENTITY savePageCmd.label            "પાનાને સંગ્રહો...">
+<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameAsCmd.label         "ચોકઠાને આ રીતે સંગ્રહો...">
+<!ENTITY saveFrameCmd.label           "ચોકઠાને સંગ્રહો...">
+<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY saveLinkAsCmd.label          "લક્ષ્ય કડી આ રીતે સંગ્રહો...">
+<!ENTITY saveLinkCmd.label            "લક્ષ્ય કડી સંગ્રહો">
+<!ENTITY saveLinkCmd.accesskey        "r">
+<!ENTITY saveImageCmd.label           "ઈમેજ સંગ્રહો...">
+<!ENTITY saveImageAsCmd.label         "ઈમેજને આ રીતે સંગ્રહો...">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY copyCmd.label                "નકલ કરો">
+<!ENTITY copyCmd.accesskey            "C">
+<!ENTITY selectAllCmd.label           "બધું પસંદ કરો">
+<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY copyLinkCmd.label            "કડીના સ્થાનની નકલ કરો">
+<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyImageCmd.label           "ઈમેજના સ્થાનની નકલ કરો">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY metadataCmd.label            "ગુણધર્મો">
+<!ENTITY metadataCmd.accesskey        "P">
+<!ENTITY copyEmailCmd.label           "ઈમેઈલ સરનામાની નકલ કરો">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY pasteCmd.label               "ચોંટાડો">
+<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY cutCmd.label                 "કાપો">
+<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY deleteCmd.label              "કાઢી નાંખો">
+<!ENTITY deleteCmd.accesskey          "D">
+<!ENTITY undoCmd.label                "છેલ્લી ક્રિયા રદ કરો">
+<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY redoCmd.label                "ફરીથી કરો">
+<!ENTITY redoCmd.accesskey            "R">
+<!ENTITY thisFrameMenu.label          "આ ચોકઠુ">
+<!ENTITY thisFrameMenu.accesskey      "h">
+<!ENTITY search.accesskey             "W">
+<!ENTITY bidiSwitchPageDirectionItem.label        "પાનાંની દિશા બદલો">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchTextDirectionItem.label        "લખાણ દિશા બદલો">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY spellAddToDictionary.label     "શબ્દકોષમાં ઉમેરો">
+<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellEnable.label              "આ ક્ષેત્રની જોડણી ચકાસો">
+<!ENTITY spellEnable.accesskey          "S">
+<!ENTITY spellNoSuggestions.label       "(કોઈ જોડણી સૂચનો નથી)">
+<!ENTITY spellDictionaries.label        "ભાષાઓ">
+<!ENTITY spellDictionaries.accesskey    "L">
+<!ENTITY spellAddDictionaries.label     "વધુ શબ્દકોષો ડાઉનલોડ કરો...">
+<!ENTITY spellAddDictionaries.accesskey "D">

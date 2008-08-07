@@ -1,0 +1,42 @@
+<!ENTITY  connectionsDialog.title       "જોડાણ સુયોજનો">
+<!ENTITY  window.width                  "37em">
+
+<!ENTITY  proxyTitle.label              "ઈન્ટરનેટ વાપરવા માટે પ્રોક્સીઓ રૂપરેખાંકિત કરો">
+<!ENTITY  directTypeRadio.label         "ઈન્ટરનેટ સાથેનું સીધું જોડાણ">
+<!ENTITY  directTypeRadio.accesskey     "d">
+<!ENTITY  WPADTypeRadio.label           "આ નેટવર્ક માટે પ્રોક્સી સુયોજનો આપોઆપ શોધો">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "જાતે પ્રોક્સી રૂપરેખાંકન:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "આપોઆપ પ્રોક્સી રૂપરેખાંકન URL:">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  configAutoconfigText.label    "રૂપરેખાંકન સ્થાન (URL):">
+<!ENTITY  configAutoconfigText.accesskey "u">
+<!ENTITY  reload.label                  "પાછું લાવો">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  ftp.label                     "FTP પ્રોક્સી:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Gopher પ્રોક્સી:">
+<!ENTITY  gopher.accesskey              "g">
+<!ENTITY  http.label                    "HTTP પ્રોક્સી:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL પ્રોક્સી:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS યજમાન:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "પોર્ટ:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "આના માટે કોઈ પ્રોક્સી નથી:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "ઉદાહરણ: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "બધા પ્રોટોકોલો માટે આ પ્રોક્સી સર્વર વાપરો">
+<!ENTITY  shareproxy.accesskey          "x">
