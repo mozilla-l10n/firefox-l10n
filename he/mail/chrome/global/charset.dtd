@@ -1,0 +1,20 @@
+<!ENTITY charsetMenu.label "קידוד תוים">
+<!ENTITY charsetMenu.accesskey "C">
+<!ENTITY charsetMenuAutodet.label "זיהוי אוטומטי">
+<!ENTITY charsetMenuAutodet.accesskey "a">
+<!ENTITY charsetMenuMore.label "עוד">
+<!ENTITY charsetMenuMore.accesskey "m">
+<!ENTITY charsetMenuMore1.label "מערב אירופי">
+<!ENTITY charsetMenuMore1.accesskey "w">
+<!ENTITY charsetMenuMore2.label "מזרח אירופי">
+<!ENTITY charsetMenuMore2.accesskey "E">
+<!ENTITY charsetMenuMore3.label "מזרח אסיה">
+<!ENTITY charsetMenuMore3.accesskey "A">
+<!ENTITY charsetMenuMore4.label "דר׳ מז׳ ודר׳ מע׳ אסיה">
+<!ENTITY charsetMenuMore4.accesskey "S">
+<!ENTITY charsetMenuMore5.label "מזרח תיכוני">
+<!ENTITY charsetMenuMore5.accesskey "M">
+<!ENTITY charsetMenuUnicode.label "יוניקוד">
+<!ENTITY charsetMenuUnicode.accesskey "U">
+<!ENTITY charsetCustomize.label "התאמה אישית...">
+<!ENTITY charsetCustomize.accesskey "c">

@@ -1,0 +1,14 @@
+<!ENTITY newsblogTitle.label "הגדרות חשבון RSS">
+<!ENTITY biffStart.label "בדוק למאמרים חדשים כל">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "דקות">
+<!ENTITY loginAtStartup.label "בדוק למאמרים חדשים בעת ההפעלה">
+<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY useQuickMode.label "כברירת מחדל, הראה את תמצית המאמר במקום לטעון את דף האינטרנט">
+<!ENTITY useQuickMode.accesskey "B">
+<!ENTITY manageSubscriptions.label "נהל מינויים...">
+<!ENTITY manageSubscriptions.accesskey "M">
+<!ENTITY rss.accountName "חדשות ובלוגים">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "חדשות RSS ובלוגים">
+<!ENTITY rss.hostName "חדשות ובלוגים">

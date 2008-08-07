@@ -1,0 +1,26 @@
+<!ENTITY caption.label "מאפייני מרכיב">
+<!ENTITY image-alt.label "טקסט חלופי:">
+<!ENTITY image-desc.label "תיאור:">
+<!ENTITY image-type.label      "סוג:">
+<!ENTITY image-filesize.label "גודל הקובץ:">
+<!ENTITY image-sec.label "מאפייני תמונה">
+<!ENTITY image-size.label      "מימדי תמונה:">
+<!ENTITY image-url.label "מיקום:">
+<!ENTITY insdel-cite.label "מידע:">
+<!ENTITY insdel-date.label "תאריך:">
+<!ENTITY insdel-sec.label "הכנס/מחק מאפיינים">
+<!ENTITY link-lang.label "שפת מטרה:">
+<!ENTITY link-ping.label "יידע:">
+<!ENTITY link-rel.label "יחס:">
+<!ENTITY link-rev.label "יחס מהופך:">
+<!ENTITY link-sec.label "מאפייני קישור">
+<!ENTITY link-target.label "יפתח ב:">
+<!ENTITY link-type.label "סוג מטרה:">
+<!ENTITY link-url.label "כתובת:">
+<!ENTITY misc-lang.label "שפת טקסט:">
+<!ENTITY misc-sec.label "מאפיינים שונים">
+<!ENTITY misc-tblsummary.label "סיכום טבלה:">
+<!ENTITY misc-title.label "כותרת:">
+<!ENTITY no-properties.label "לא נקבעו מאפיינים.">
+<!ENTITY quote-cite.label "מידע:">
+<!ENTITY quote-sec.label "מאפייני ציטוט">

@@ -1,0 +1,5 @@
+<!ENTITY conflictResolve.label "בחר איזו גרסה לשמור:">
+<!ENTITY conflictWarning.label "דף זה שונה על־ידי תוכנה אחרת, אבל יש לך גם שינויים שלא נשמרו ב־Composer.">
+<!ENTITY keepCurrentPageButton.label "שמור שינויי דף נוכחיים">
+<!ENTITY useOtherPageButton.label "החלף דף נוכחי בשינויים האחרים">
+<!ENTITY windowTitle.label "בחר שינויי עריכה">

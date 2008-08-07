@@ -1,0 +1,24 @@
+<!ENTITY startpage.welcome "ברוכים הבאים ל- &brandFullName;!">
+<!ENTITY startpage.intro "&brandFullName; הוא לקוח דואר אלקטרוני וקבוצות דיון מבוסס קוד פתוח.">
+<!ENTITY startpage.features "תכונות">
+<!ENTITY startpage.junkControl "פקדי דואר זבל ניתנים להתאמה אישית">
+<!ENTITY startpage.rssReader "קורא RSS">
+<!ENTITY startpage.globalInbox "תמיכה בתיבת דואר נכנס גלובלית">
+<!ENTITY startpage.searchFolders "תיקיות חיפוש שמורות">
+<!ENTITY startpage.messageGroups "הקבצת הודעות">
+<!ENTITY startpage.privacyProtect "שמירת פרטיות">
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+<!ENTITY startpage.moreInfo "מידע נוסף">
+<!ENTITY startpage.help "עזרה ל- Thunderbird">
+<!ENTITY startpage.helpInfo "לשאלות נפוצות, טיפים ועזרה כללית, בקר ב">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+<!ENTITY startpage.page "עמוד המוצר של Thunderbird">
+<!ENTITY startpage.pageInfo "למידע על המוצר, בקר ב">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+<!ENTITY startpage.extra "">
+<!ENTITY startpage.poweredByGecko "מופעל על ידי Gecko.">

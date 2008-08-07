@@ -1,0 +1,14 @@
+<!ENTITY junkSettings.label "הגדרות זבל">
+<!ENTITY trainingWarning.label "במידה ומאופשר, אתה חייב ראשית לאמן את &brandShortName; לזהות את דואר הזבל באמצעות כפתור דואר הזבל בסרגל כדי לסמן הודעות כזבל או לא. תצטרך לזהות גם הודעות זבל וגם הודעות שאינן זבל.">
+<!ENTITY level.label "אפשר פקדי דואר זבל מסתגלים לחשבון זה">
+<!ENTITY level.accesskey "א">
+<!ENTITY move.label "העבר דואר זבל חדש אל:">
+<!ENTITY junkFolderOn.label "התיקייה &quot;זבל&quot; על:">
+<!ENTITY otherFolder.label "אחר:">
+<!ENTITY purge1.label "מחק אוטומטית דואר זבל ישן מאשר">
+<!ENTITY purge1.accesskey "א">
+<!ENTITY purge2.label "ימים">
+<!ENTITY whitelist.label "אל תסמן הודעות כזבל במידה והשולח נמצא בתוך: ">
+<!ENTITY whitelist.accesskey "ש">
+<!ENTITY ispHeaders.label "סמוך על כותרי דואר זבל שנוצרו על־ידי:">
+<!ENTITY ispHeaders.accesskey "ס">

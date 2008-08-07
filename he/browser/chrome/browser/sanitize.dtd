@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title "ניקוי נתונים אישיים">
+<!ENTITY sanitizeItems.label "בחר את הפריטים לניקוי:">
+<!ENTITY itemHistory.label "היסטוריית דפדוף">
+<!ENTITY itemHistory.accesskey "ד">
+<!ENTITY itemFormSearchHistory.label "טפסים שמורים והיסטוריית חיפוש">
+<!ENTITY itemFormSearchHistory.accesskey "ש">
+<!ENTITY itemPasswords.label "סיסמאות שמורות">
+<!ENTITY itemPasswords.accesskey "ס">
+<!ENTITY itemCookies.label "עוגיות">
+<!ENTITY itemCookies.accesskey "ע">
+<!ENTITY itemCache.label "מטמון">
+<!ENTITY itemCache.accesskey "מ">
+<!ENTITY itemOfflineApps.label        "נתונים לא מקוונים של אתרים">
+<!ENTITY itemOfflineApps.accesskey    "מ">
+<!ENTITY itemDownloads.label "היסטוריית הורדות">
+<!ENTITY itemDownloads.accesskey "ה">
+<!ENTITY itemSessions.label "חיבורים מאומתים">
+<!ENTITY itemSessions.accesskey "ח">
+<!ENTITY clearDataSettings.label      "כאשר אני מבקש מ־&brandShortName; לנקות את הנתונים האישיים שלי, זה ימחוק את:">
+<!ENTITY window.width                 "30em">

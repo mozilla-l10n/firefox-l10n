@@ -1,0 +1,9 @@
+<!ENTITY setPassword.title "שינוי סיסמה ראשית">
+<!ENTITY setPassword.tokenName.label "התקן אבטחה">
+<!ENTITY setPassword.oldPassword.label "סיסמה נוכחית:">
+<!ENTITY setPassword.newPassword.label "הכנס סיסמה חדשה:">
+<!ENTITY setPassword.reenterPassword.label "הכנס את הסיסמה שוב:">
+<!ENTITY setPassword.meter.label "מד איכות סיסמה">
+<!ENTITY setPassword.meter.loading "טוען">
+<!ENTITY masterPasswordDescription.label "הסיסמה הראשית שלך מגינה על מידע רגיש כמו סיסמאות לאתרים. אם תיצור סיסמה ראשית תתבקש להקליד אותה פעם אחת עבור כל הפעלה כאשר &brandShortName; מוצא נתונים שמורים המוגנים על־ידי הסיסמה.">
+<!ENTITY masterPasswordWarning.label "אנא וודא שאתה זוכר את הסיסמה הראשית שקבעת. אם תשכח את הסיסמה הראשית, לא תוכל לגשת למידע שנשמר באמצעותה.">

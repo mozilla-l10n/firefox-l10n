@@ -1,0 +1,7 @@
+<!ENTITY defaultClient.title "לקוח ברירת מחדל">
+<!ENTITY defaultClient.intro "השתמש ב־&brandShortName; כלקוח ברירת מחדל עבור:">
+<!ENTITY email.label "דוא״ל">
+<!ENTITY newsgroups.label "קבוצות דיון">
+<!ENTITY rss.label "הזנות RSS">
+<!ENTITY checkOnStartup.label "בצע בדיקה זו בכל הפעלה של &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "ב">

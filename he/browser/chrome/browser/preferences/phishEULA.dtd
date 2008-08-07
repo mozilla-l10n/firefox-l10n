@@ -1,0 +1,7 @@
+<!ENTITY phishDlg.title "תנאי שימוש בהגנה מהונאות">
+<!ENTITY phishDlg.height "40em">
+<!ENTITY phishDlg.width "35em">
+<!ENTITY acceptToS.label "אני מקבל את תנאי השימוש בהגנה מהונאות">
+<!ENTITY declineToS.label "אני לא מקבל את תנאי השימוש בהגנה מהונאות">
+<!ENTITY accept.label "קבל והמשך">
+<!ENTITY cancel.label "ביטול">

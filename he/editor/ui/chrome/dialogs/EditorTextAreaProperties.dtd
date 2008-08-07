@@ -1,0 +1,26 @@
+<!ENTITY InitialText.accessKey "T">
+<!ENTITY InitialText.label "טקסט התחלתי:">
+<!ENTITY Settings.label "הגדרות">
+<!ENTITY TextAreaAccessKey.accessKey "K">
+<!ENTITY TextAreaAccessKey.label "מקש גישה:">
+<!ENTITY TextAreaCols.accessKey "C">
+<!ENTITY TextAreaCols.label "עמודות:">
+<!ENTITY TextAreaDisabled.accessKey "D">
+<!ENTITY TextAreaDisabled.label "לא מאופשר">
+<!ENTITY TextAreaName.accessKey "N">
+<!ENTITY TextAreaName.label "שם שדה:">
+<!ENTITY TextAreaReadOnly.accessKey "O">
+<!ENTITY TextAreaReadOnly.label "קריאה בלבד">
+<!ENTITY TextAreaRows.accessKey "R">
+<!ENTITY TextAreaRows.label "שורות:">
+<!ENTITY TextAreaTabIndex.accessKey "I">
+<!ENTITY TextAreaTabIndex.label "מפתח טאב:">
+<!ENTITY TextAreaWrap.accessKey "W">
+<!ENTITY TextAreaWrap.label "מצב גלישת שורות:">
+<!ENTITY WrapDefault.value "ברירת מחדל">
+<!ENTITY WrapHard.value "קשיחה">
+<!ENTITY WrapOff.value "כבוי">
+<!ENTITY WrapPhysical.value "פיזית">
+<!ENTITY WrapSoft.value "רכה">
+<!ENTITY WrapVirtual.value "וירטואלי">
+<!ENTITY windowTitle.label "מאפייני איזור טקסט">

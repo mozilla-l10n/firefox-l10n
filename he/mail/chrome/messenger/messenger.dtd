@@ -1,0 +1,600 @@
+<!ENTITY messengerWindow.title "דואר וקבוצות דיון">
+<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
+<!ENTITY newFolderCmd.label "תיקייה...">
+<!ENTITY newFolderCmd.accesskey "ת">
+<!ENTITY newTabCmd.label "לשונית חדשה">
+<!ENTITY newTabCmd.accesskey "ש">
+<!ENTITY closeTabCmd.label "סגור לשונית">
+<!ENTITY closeTabCmd.accesskey "ג">
+<!ENTITY newVirtualFolderCmd.label "חיפוש שמור...">
+<!ENTITY newVirtualFolderCmd.accesskey "פ">
+<!ENTITY newAccountCmd.label "חשבון...">
+<!ENTITY newAccountCmd.accesskey "ח">
+<!ENTITY openMessageMenu.label "פתיחה">
+<!ENTITY openMessageFileCmd.label "פתח הודעה שמורה...">
+<!ENTITY openMessageFileCmd.accesskey "ת">
+<!ENTITY openAttachmentCmd.label "קבצים מצורפים">
+<!ENTITY openAttachmentCmd.accesskey "פ">
+<!ENTITY saveAsMenu.label "שמור">
+<!ENTITY saveAsMenu.accesskey "מ">
+<!ENTITY saveAsFileCmd.label "כקובץ">
+<!ENTITY saveAsFileCmd.accesskey "כ">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "כתבנית">
+<!ENTITY saveAsTemplateCmd.accesskey "נ">
+<!ENTITY getNewMsgCmd.label "קבל הודעות חדשות">
+<!ENTITY getNewMsgCmd.accesskey "ב">
+<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgForCmd.label "קבל הודעות חדשות עבור">
+<!ENTITY getNewMsgForCmd.accesskey "ב">
+<!ENTITY getAllNewMsgCmd.label "קבל את כל ההודעות החדשות">
+<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getNextNMsgCmd.label "קבל את 500 ההודעות הבאות">
+<!ENTITY getNextNMsgCmd.accesskey "t">
+<!ENTITY sendUnsentCmd.label "שלח הודעות שלא נשלחו">
+<!ENTITY sendUnsentCmd.accesskey "ע">
+<!ENTITY subscribeCmd.label "הירשם כמנוי...">
+<!ENTITY subscribeCmd.accesskey "ר">
+<!ENTITY renameFolder.label "שנה שם תיקייה...">
+<!ENTITY renameFolder.accesskey "ש">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "כווץ תיקיות">
+<!ENTITY compactFolder.accesskey "כ">
+<!ENTITY emptyTrashCmd.label "רוקן אשפה">
+<!ENTITY emptyTrashCmd.accesskey "א">
+<!ENTITY importCmd.label "יבוא...">
+<!ENTITY importCmd.accesskey "י">
+<!ENTITY offlineMenu.label "לא־מקוון">
+<!ENTITY offlineMenu.accesskey "ל">
+<!ENTITY offlineGoOfflineCmd.label "עבוד לא־מקוון">
+<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY synchronizeOfflineCmd.label "הורד/סנכרן כעת...">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd.label "הגדרות לא־מקוון...">
+<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "קבל הודעות מסומנות">
+<!ENTITY downloadSelectedCmd.accesskey "M">
+<!ENTITY downloadStarredCmd.label "קבל הודעות מסומנות בכוכבית">
+<!ENTITY downloadStarredCmd.accesskey "a">
+<!ENTITY printCmd.label "הדפסה...">
+<!ENTITY printCmd.accesskey "ד">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "הצג לפני הדפסה">
+<!ENTITY printPreviewCmd.accesskey "נ">
+<!ENTITY printPreviewCmd.key "v">
+<!ENTITY printSetupCmd.label "הגדרת עמוד...">
+<!ENTITY printSetupCmd.accesskey "ה">
+<!ENTITY deleteMsgCmd.label "מחק הודעה">
+<!ENTITY deleteMsgCmd.accesskey "ח">
+<!ENTITY undeleteMsgCmd.label "בטל מחיקת הודעה">
+<!ENTITY undeleteMsgCmd.accesskey "d">
+<!ENTITY cancelNewsMsgCmd.label "בטל הודעה">
+<!ENTITY cancelNewsMsgCmd.accesskey "M">
+<!ENTITY deleteMsgsCmd.label "מחק הודעות נבחרות">
+<!ENTITY deleteMsgsCmd.accesskey "D">
+<!ENTITY undeleteMsgsCmd.label "בטל מחיקת הודעות נבחרות">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY cancelNewsMsgsCmd.label "חיפוש הודעות מתקדם">
+<!ENTITY cancelNewsMsgsCmd.accesskey "n">
+<!ENTITY deleteFolderCmd.label "מחק תיקייה">
+<!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY unsubscribeNewsgroupCmd.label "בטל מנוי">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY selectMenu.label "בחר">
+<!ENTITY selectMenu.accesskey "ב">
+<!ENTITY all.label "הכל">
+<!ENTITY all.accesskey "ה">
+<!ENTITY selectThreadCmd.label "נושא דיון">
+<!ENTITY selectThreadCmd.accesskey "נ">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY menuFavoriteFolder.label "תיקייה מועדפת">
+<!ENTITY menuFavoriteFolder.accesskey "ע">
+<!ENTITY folderPropsCmd.label "מאפיינים...">
+<!ENTITY folderPropsFolderCmd.label "מאפייני תיקייה...">
+<!ENTITY folderPropsNewsgroupCmd.label "מאפייני קבוצת דיון...">
+<!ENTITY folderPropsCmd.accesskey "א">
+<!ENTITY accountManagerCmd.label "הגדרות חשבון...">
+<!ENTITY accountManagerCmd.accesskey "ה">
+<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY undoDeleteMsgCmd.label "בטל מחיקת הודעה">
+<!ENTITY redoDeleteMsgCmd.label "בצע שוב מחיקת הודעה">
+<!ENTITY undoMoveMsgCmd.label "בטל העברת הודעה">
+<!ENTITY redoMoveMsgCmd.label "בצע שוב העברת הודעה">
+<!ENTITY undoCopyMsgCmd.label "בטל העתקת הודעה">
+<!ENTITY redoCopyMsgCmd.label "בצע שוב העתקת הודעה">
+<!ENTITY undoDefaultCmd.label "בטל">
+<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY redoDefaultCmd.label "בצע שוב">
+<!ENTITY redoDefaultCmd.accesskey "צ">
+<!ENTITY showMessengerToolbarCmd.label "סרגל כלים דואר">
+<!ENTITY showMessengerToolbarCmd.accesskey "ס">
+<!ENTITY customizeToolbar.label "התאמה אישית...">
+<!ENTITY customizeToolbar.accesskey "ה">
+<!ENTITY messagePaneLayoutStyle.label "פריסה">
+<!ENTITY messagePaneLayoutStyle.accesskey "פ">
+<!ENTITY messagePaneClassic.label "תצוגה קלאסית">
+<!ENTITY messagePaneClassic.accesskey "צ">
+<!ENTITY messagePaneWide.label "תצוגה רחבה">
+<!ENTITY messagePaneWide.accesskey "ח">
+<!ENTITY messagePaneVertical.label "תצוגה אנכית">
+<!ENTITY messagePaneVertical.accesskey "א">
+<!ENTITY threadPaneWide.label "תצוגת רשימה רחבה">
+<!ENTITY threadPaneWide.accesskey "ש">
+<!ENTITY showMessageCmd.label "חלונית הודעה">
+<!ENTITY showMessageCmd.accesskey "ה">
+<!ENTITY folderView.label "תיקיות">
+<!ENTITY folderView.accesskey "ת">
+<!ENTITY allFolders.label "הכל">
+<!ENTITY allFolders.accesskey "ה">
+<!ENTITY unreadFolders.label "לא נקרא">
+<!ENTITY unreadFolders.accesskey "נ">
+<!ENTITY favoriteFolders.label "מועדפים">
+<!ENTITY favoriteFolders.accesskey "מ">
+<!ENTITY recentFolders.label "אחרונים">
+<!ENTITY recentFolders.accesskey "א">
+<!ENTITY sortMenu.label "סדר לפי">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortByDateCmd.label "תאריך">
+<!ENTITY sortByDateCmd.accesskey "e">
+<!ENTITY sortByStarCmd.label "כוכבית">
+<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByAttachmentsCmd.label "נספחים">
+<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByPriorityCmd.label "עדיפות">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "גודל">
+<!ENTITY sortBySizeCmd.accesskey "z">
+<!ENTITY sortByStatusCmd.label "מצב">
+<!ENTITY sortByStatusCmd.accesskey "u">
+<!ENTITY sortByTagsCmd.label "תוויות">
+<!ENTITY sortByTagsCmd.accesskey "g">
+<!ENTITY sortByJunkStatusCmd.label "מצב דואר זבל">
+<!ENTITY sortByJunkStatusCmd.accesskey "J">
+<!ENTITY sortBySubjectCmd.label "נושא">
+<!ENTITY sortBySubjectCmd.accesskey "S">
+<!ENTITY sortBySenderCmd.label "שולח">
+<!ENTITY sortBySenderCmd.accesskey "n">
+<!ENTITY sortByRecipientCmd.label "נמען">
+<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByUnreadCmd.label "נקרא">
+<!ENTITY sortByUnreadCmd.accesskey "R">
+<!ENTITY sortByOrderReceivedCmd.label "סדר קבלה">
+<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortAscending.label "עולה">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "יורד">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortThreaded.label "לפי נושא דיון">
+<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortUnthreaded.label "לא לפי נושא דיון">
+<!ENTITY sortUnthreaded.accesskey "h">
+<!ENTITY groupBySort.label "ממוין לפי סיווג">
+<!ENTITY groupBySort.accesskey "G">
+<!ENTITY groupBySortCmd.key "G">
+<!ENTITY msgsMenu.label "הודעות">
+<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY threads.label "נושאי דיון">
+<!ENTITY threads.accesskey "e">
+<!ENTITY allMsgsCmd.label "הכל">
+<!ENTITY allMsgsCmd.accesskey "A">
+<!ENTITY expandOrCollapseMenu.label "הרחב/צמצם">
+<!ENTITY expandOrCollapseMenu.accesskey "x">
+<!ENTITY expandAllThreadsCmd.label "הרחב את כל נושאי הדיון">
+<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "צמצם את כל נושאי הדיון">
+<!ENTITY collapseAllThreadsCmd.accesskey "C">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "שלא נקראו">
+<!ENTITY unreadMsgsCmd.accesskey "U">
+<!ENTITY threadsWithUnreadCmd.label "נושאי דיון עם שלא נקראו">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY watchedThreadsWithUnreadCmd.label "נושאי דיון במעקב עם שלא נקראו">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
+<!ENTITY ignoredThreadsCmd.label "נושאי דיון מהם מתעלמים">
+<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY headersMenu.label "כותרות">
+<!ENTITY headersMenu.accesskey "H">
+<!ENTITY headersAllCmd.label "הכל">
+<!ENTITY headersAllCmd.accesskey "ה">
+<!ENTITY headersNormalCmd.label "רגיל">
+<!ENTITY headersNormalCmd.accesskey "ר">
+<!ENTITY bodyMenu.label "גוף הודעה">
+<!ENTITY bodyMenu.accesskey "B">
+<!ENTITY bodyAllowHTML.label "כ־HTML מקורי">
+<!ENTITY bodyAllowHTML.accesskey "מ">
+<!ENTITY bodySanitized.label "כ־HTML פשוט">
+<!ENTITY bodySanitized.accesskey "פ">
+<!ENTITY bodyAsPlaintext.label "כטקסט פשוט">
+<!ENTITY bodyAsPlaintext.accesskey "ט">
+<!ENTITY viewAttachmentsInlineCmd.label "הצג נספחים בתוך השורה">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY reloadCmd.label "טען מחדש">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY stopCmd.label "עצור">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY textZoomEnlargeCmd.label "הגדל">
+<!ENTITY textZoomEnlargeCmd.accesskey "ג">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomReduceCmd.label "הקטן">
+<!ENTITY textZoomReduceCmd.accesskey "ק">
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY textZoomResetCmd.label "רגיל">
+<!ENTITY textZoomResetCmd.accesskey "ר">
+<!ENTITY textSize.label "גודל טקסט">
+<!ENTITY textSize.accesskey "ט">
+<!ENTITY pageSourceCmd.label "קוד מקור ההודעה">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.key "u">
+<!ENTITY searchMenu.label "חיפוש">
+<!ENTITY searchMenu.accesskey "S">
+<!ENTITY findMenu.label "מצא">
+<!ENTITY findMenu.accesskey "מ">
+<!ENTITY findCmd.label "מצא בהודעה זו...">
+<!ENTITY findCmd.accesskey "מ">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "מצא שוב">
+<!ENTITY findAgainCmd.accesskey "ש">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "חפש בהודעות...">
+<!ENTITY searchMailCmd.accesskey "ה">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "חפש בכתובות...">
+<!ENTITY searchAddressesCmd.accesskey "כ">
+<!ENTITY goMenu.label "עבור">
+<!ENTITY goMenu.accesskey "ב">
+<!ENTITY nextMenu.label "הבא">
+<!ENTITY nextMenu.accesskey "ב">
+<!ENTITY nextMsgCmd.label "הודעה">
+<!ENTITY nextMsgCmd.accesskey "ה">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "הודעה שלא נקראה">
+<!ENTITY nextUnreadMsgCmd.accesskey "ש">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "הודעה מסומנת בכוכבית">
+<!ENTITY nextStarredMsgCmd.accesskey "ס">
+<!ENTITY nextUnreadThread.label "נושא דיון שלא נקרא">
+<!ENTITY nextUnreadThreadCmd.accesskey "נ">
+<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY prevMenu.label "הקודם">
+<!ENTITY prevMenu.accesskey "ה">
+<!ENTITY prevMsgCmd.label "הודעה">
+<!ENTITY prevMsgCmd.accesskey "ה">
+<!ENTITY previousMsgCmd.key "b">
+<!ENTITY previousMsgCmd.accesskey "ה">
+<!ENTITY prevUnreadMsgCmd.label "הודעה שלא נקראה">
+<!ENTITY prevUnreadMsgCmd.accesskey "ש">
+<!ENTITY previousUnreadMsgCmd.key "p">
+<!ENTITY previousUnreadMsgCmd.accesskey "ש">
+<!ENTITY goForwardCmd.label "קדימה">
+<!ENTITY goForwardCmd.accesskey "ד">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "אחורה">
+<!ENTITY goBackCmd.accesskey "א">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevStarredMsgCmd.label "הודעה מסומנת בכוכבית">
+<!ENTITY prevStarredMsgCmd.accesskey "ס">
+<!ENTITY startPageCmd.label "דף הפתיחה">
+<!ENTITY startPageCmd.accesskey "ה">
+<!ENTITY msgMenu.label "הודעה">
+<!ENTITY msgMenu.accesskey "ה">
+<!ENTITY newMsgCmd.label "הודעה חדשה">
+<!ENTITY newMsgCmd.accesskey "ח">
+<!ENTITY newNewMsgCmd.label "הודעה">
+<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY replyMsgCmd.label "השב">
+<!ENTITY replyMsgCmd.accesskey "ש">
+<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replySenderCmd.label "השב לשולח בלבד">
+<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyNewsgroupCmd.label "השב לקבוצת דיון">
+<!ENTITY replyNewsgroupCmd.accesskey "y">
+<!ENTITY replyToAllMsgCmd.label "השב לכולם">
+<!ENTITY replyToAllMsgCmd.accesskey "כ">
+<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY forwardMsgCmd.label "העבר">
+<!ENTITY forwardMsgCmd.accesskey "F">
+<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardAsMenu.label "העבר בתור">
+<!ENTITY forwardAsMenu.accesskey "o">
+<!ENTITY forwardAsInline.label "גוף הודעה">
+<!ENTITY forwardAsInline.accesskey "I">
+<!ENTITY forwardAsAttachmentCmd.label "קובץ מצורף">
+<!ENTITY forwardAsAttachmentCmd.accesskey "A">
+<!ENTITY editMsgAsNewCmd.label "ערוך כהודעה חדשה">
+<!ENTITY editMsgAsNewCmd.accesskey "E">
+<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY createFilter.label "צור מסנן מהודעה...">
+<!ENTITY createFilter.accesskey "צ">
+<!ENTITY moveMsgMenu.label "העבר">
+<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY moveCopyMsgRecentMenu.label "אחרונים">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY copyMessageLocation.label "העתק מיקום הודעה">
+<!ENTITY copyMessageLocation.accesskey "M">
+<!ENTITY copyMsgMenu.label "העתק">
+<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY moveToFolderAgain.label "העבר שוב">
+<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "התעלם מנושא דיון">
+<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "עקוב אחר נושא דיון">
+<!ENTITY watchThreadMenu.accesskey "W">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY fileHereMenu.label "תייק כאן">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY copyHereMenu.label "העתק לכאן">
+<!ENTITY copyHereMenu.accesskey "C">
+<!ENTITY tagMenu.label "תווית">
+<!ENTITY tagMenu.accesskey "g">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "סמן">
+<!ENTITY markMenu.accesskey "ס">
+<!ENTITY markAsReadCmd.label "כנקרא">
+<!ENTITY markAsReadCmd.accesskey "R">
+<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "כלא נקראו">
+<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markThreadAsReadCmd.label "נושא כנקרא">
+<!ENTITY markThreadAsReadCmd.accesskey "T">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "כנקראו מתאריך...">
+<!ENTITY markReadByDateCmd.accesskey "D">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "הכל כנקרא">
+<!ENTITY markAllReadCmd.accesskey "A">
+<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "הוסף כוכבית">
+<!ENTITY markStarredCmd.accesskey "S">
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "כזבל">
+<!ENTITY markAsJunkCmd.accesskey "J">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "כלא־זבל">
+<!ENTITY markAsNotJunkCmd.accesskey "N">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "הפעל פקדי דואר זבל">
+<!ENTITY recalculateJunkScoreCmd.accesskey "C">
+<!ENTITY openMessageWindowCmd.label "פתח הודעה">
+<!ENTITY openMessageWindowCmd.accesskey "O">
+<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY windowMenu.label "חלון">
+<!ENTITY windowMenu.accesskey "W">
+<!ENTITY tasksMenu.label "כלים">
+<!ENTITY tasksMenu.accesskey "כ">
+<!ENTITY addons.label "תוספות">
+<!ENTITY addons.accesskey "ת">
+<!ENTITY messengerCmd.label "דואר וקבוצות דיון">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "פנקס כתובות">
+<!ENTITY addressBookCmd.accesskey "כ">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY junkMailCmd.label "פקדי דואר זבל...">
+<!ENTITY junkMailCmd.accesskey "J">
+<!ENTITY runJunkControls.label "הפעל פקדי דואר זבל על התיקייה">
+<!ENTITY runJunkControls.accesskey "פ">
+<!ENTITY deleteJunk.label "מחק דואר המסומן כזבל בתיקייה">
+<!ENTITY deleteJunk.accesskey "ח">
+<!ENTITY errorConsoleCmd.label "מסוף שגיאות">
+<!ENTITY errorConsoleCmd.accesskey "ש">
+<!ENTITY filtersCmd.label "מסנני הודעות...">
+<!ENTITY filtersCmd.accesskey "ס">
+<!ENTITY filtersApply.label "הפעל מסננים על התיקייה">
+<!ENTITY filtersApply.accesskey "מ">
+<!ENTITY helpMenu.label "עזרה">
+<!ENTITY helpMenu.accesskey "ז">
+<!ENTITY helpMenuWin.label "עזרה">
+<!ENTITY helpMenuWin.accesskey "ז">
+<!ENTITY releaseCmd.label "הערות הפצה">
+<!ENTITY releaseCmd.accesskey "ה">
+<!ENTITY hintsAndTips.label "עזרה של &brandFullName;">
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY hintsAndTips.accesskey "ע">
+<!ENTITY updateCmd.accesskey "כ">
+<!ENTITY updateCmd.label "בדוק אם ישנם עדכונים...">
+<!ENTITY aboutCmd.label "אודות &brandFullName;">
+<!ENTITY aboutCmd.accesskey "א">
+<!ENTITY getMsgButton.label "קבל דואר">
+<!ENTITY newMsgButton.label "כתיבה">
+<!ENTITY replyButton.label "השב">
+<!ENTITY replyAllButton.label "השב לכולם">
+<!ENTITY forwardButton.label "העבר">
+<!ENTITY fileButton.label "תייק">
+<!ENTITY nextButton.label "הבא">
+<!ENTITY previousButton.label "הקודם">
+<!ENTITY backButton1.label "אחורה">
+<!ENTITY goForwardButton1.label "קדימה">
+<!ENTITY deleteButton.label "מחק">
+<!ENTITY markButton.label "סמן">
+<!ENTITY printButton.label "הדפסה">
+<!ENTITY stopButton.label "עצור">
+<!ENTITY throbberItem.title "מחוון פעילות">
+<!ENTITY updatesItem.title "עדכונים">
+<!ENTITY junkButton.label "דואר זבל">
+<!ENTITY notJunkButton.label "לא זבל">
+<!ENTITY addressBookButton.label "פנקס כתובות">
+<!ENTITY searchItem.title "חיפוש מהיר">
+<!ENTITY mailViewsToolbarItem.title "תצוגות דואר">
+<!ENTITY folderLocationToolbarItem.title "מיקום תיקייה">
+<!ENTITY tagButton.label "תווית">
+<!ENTITY advancedButton.tooltip "חיפוש הודעות מתקדם">
+<!ENTITY clearButton.tooltip "נקה את קריטריון החיפוש והראה את כל ההודעות">
+<!ENTITY getMsgButton.tooltip "קבל הודעות חדשות">
+<!ENTITY newMsgButton.tooltip "צור הודעה חדשה">
+<!ENTITY replyButton.tooltip "השב להודעה">
+<!ENTITY replyAllButton.tooltip "השב לשולח ולכל הנמענים">
+<!ENTITY forwardButton.tooltip "העבר הודעה נבחרת">
+<!ENTITY fileButton.tooltip "תייק הודעה נבחרת">
+<!ENTITY nextButton.tooltip "עבור להודעה הבאה שלא נקראה">
+<!ENTITY previousButton.tooltip "עבור אל ההודעה הקודמת שלא נקראה">
+<!ENTITY goForwardButton.tooltip "עבור קדימה הודעה אחת">
+<!ENTITY goBackButton.tooltip "עבור אחורה הודעה אחת">
+<!ENTITY deleteButton.tooltip "מחק הודעה או תיקייה נבחרות">
+<!ENTITY markButton.tooltip "סמן הודעות">
+<!ENTITY printButton.tooltip "הדפס הודעה זו">
+<!ENTITY stopButton.tooltip "הפסק העברה נוכחית">
+<!ENTITY junkButton.tooltip "סמן את ההודעות הנבחרות כזבל">
+<!ENTITY notJunkButton.tooltip "סמן את ההודעות הנבחרות כלא זבל">
+<!ENTITY addressBookButton.tooltip "עבור לפנקס כתובות">
+<!ENTITY tagButton.tooltip "סמן הודעות בתוויות">
+<!ENTITY addNewTag.label "תווית חדשה...">
+<!ENTITY addNewTag.accesskey "ת">
+<!ENTITY folderColumn.label "שם">
+<!ENTITY folderSizeColumn.label "גודל">
+<!ENTITY folderContextOpenNewWindow.label "פתח">
+<!ENTITY folderContextOpenNewWindow.accesskey "פ">
+<!ENTITY folderContextOpenNewTab.label "פתח בלשונית חדשה">
+<!ENTITY folderContextOpenNewTab.accesskey "ש">
+<!ENTITY folderContextNew.label "תת תיקייה חדשה...">
+<!ENTITY folderContextNew.accesskey "ת">
+<!ENTITY folderContextRename.label "שנה שם">
+<!ENTITY folderContextRename.accesskey "ש">
+<!ENTITY folderContextRemove.label "מחק">
+<!ENTITY folderContextRemove.accesskey "ח">
+<!ENTITY folderContextCompact.label "כווץ">
+<!ENTITY folderContextCompact.accesskey "כ">
+<!ENTITY folderContextEmptyTrash.label "רוקן אשפה">
+<!ENTITY folderContextEmptyTrash.accesskey "א">
+<!ENTITY folderContextSendUnsentMessages.label "שלח הודעות שלא נשלחו...">
+<!ENTITY folderContextSendUnsentMessages.accesskey "d">
+<!ENTITY folderContextUnsubscribe.label "בטל מנוי">
+<!ENTITY folderContextUnsubscribe.accesskey "U">
+<!ENTITY folderContextMarkNewsgroupRead.label "סמן קבוצת דיון כנקרא">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "ס">
+<!ENTITY folderContextMarkMailFolderRead.label "סמן תיקייה כנקראה">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "ס">
+<!ENTITY folderContextSubscribe.label "הירשם כמנוי...">
+<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSearchMessages.label "חפש...">
+<!ENTITY folderContextSearchMessages.accesskey "ש">
+<!ENTITY folderContextProperties.label "מאפיינים...">
+<!ENTITY folderContextProperties.accesskey "א">
+<!ENTITY folderContextCopyLocation.label "העתק מיקום תיקייה">
+<!ENTITY folderContextCopyLocation.accesskey "מ">
+<!ENTITY folderContextFavoriteFolder.label "תיקייה מועדפת">
+<!ENTITY folderContextFavoriteFolder.accesskey "ע">
+<!ENTITY SearchNameOrEmail.label "שם או דוא״ל מכילים:">
+<!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY clearButton.label "נקה">
+<!ENTITY clearButton.accesskey "C">
+<!ENTITY searchSubjectMenu.label "נושא">
+<!ENTITY searchSenderMenu.label "שולח">
+<!ENTITY searchSubjectOrSenderMenu.label "נושא או שולח">
+<!ENTITY searchRecipient.label "אל או עותק">
+<!ENTITY searchMessageBody.label "כל ההודעה">
+<!ENTITY saveAsVirtualFolderMenu.label "שמור חיפוש כתיקייה...">
+<!ENTITY threadColumn.label "נושא דיון">
+<!ENTITY senderColumn.label "שולח">
+<!ENTITY recipientColumn.label "נמען">
+<!ENTITY subjectColumn.label "נושא">
+<!ENTITY dateColumn.label "תאריך">
+<!ENTITY priorityColumn.label "עדיפות">
+<!ENTITY tagsColumn.label "תווית">
+<!ENTITY accountColumn.label "חשבון">
+<!ENTITY statusColumn.label "מצב">
+<!ENTITY sizeColumn.label "גודל">
+<!ENTITY junkStatusColumn.label "מצב דואר זבל">
+<!ENTITY linesColumn.label "שורות">
+<!ENTITY unreadColumn.label "לא נקרא">
+<!ENTITY totalColumn.label "סה״כ">
+<!ENTITY readColumn.label "שנקראו">
+<!ENTITY starredColumn.label "מסומנת בכוכבית">
+<!ENTITY locationColumn.label "מיקום">
+<!ENTITY idColumn.label "סדר הגעה">
+<!ENTITY attachmentColumn.label "נספחים">
+<!ENTITY columnChooser.tooltip "לחץ לבחירת עמודות לתצוגה">
+<!ENTITY threadColumn.tooltip "לחץ להצגת נושאי דיון">
+<!ENTITY senderColumn.tooltip "לחץ למיון לפי שולח">
+<!ENTITY recipientColumn.tooltip "לחץ למיון לפי נמען">
+<!ENTITY subjectColumn.tooltip "לחץ למיון לפי נושא">
+<!ENTITY dateColumn.tooltip "לחץ למיון לפי תאריך">
+<!ENTITY priorityColumn.tooltip "לחץ למיון לפי עדיפות">
+<!ENTITY tagsColumn.tooltip "לחץ למיון לפי תוויות">
+<!ENTITY accountColumn.tooltip "לחץ למיון לפי חשבון">
+<!ENTITY statusColumn.tooltip "לחץ למיון לפי מצב">
+<!ENTITY sizeColumn.tooltip "לחץ למיון לפי גודל">
+<!ENTITY junkStatusColumn.tooltip "לחץ למיון לפי מצב זבל">
+<!ENTITY unreadColumn.tooltip "מספר הודעות שלא נקראו בנושא דיון">
+<!ENTITY totalColumn.tooltip "מספר כל ההודעות בנושא דיון">
+<!ENTITY readColumn.tooltip "לחץ למיון לפי הודעות שנקראו">
+<!ENTITY starredColumn.tooltip "לחץ למיון לפי כוכבית">
+<!ENTITY locationColumn.tooltip "לחץ למיון לפי מיקום">
+<!ENTITY idColumn.tooltip "לחץ למיון לפי סדר הקבלה">
+<!ENTITY attachmentColumn.tooltip "לחץ למיון לפי נספח">
+<!ENTITY contextOpenNewWindow.label "פתח הודעה בחלון חדש">
+<!ENTITY contextOpenNewWindow.accesskey "W">
+<!ENTITY contextOpenNewTab.label "פתח הודעה בלשונית חדשה">
+<!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextEditAsNew.label "ערוך כחדש...">
+<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextReplySender.label "השב לשולח בלבד">
+<!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyNewsgroup.label "השב לקבוצת דיון">
+<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyAll.label "השב לכולם">
+<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextForward.label "העבר">
+<!ENTITY contextForward.accesskey "F">
+<!ENTITY contextForwardAsAttachment.label "העבר כקובץ מצורף">
+<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextMoveMsgMenu.label "העבר אל">
+<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "אחרונים">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextCopyMsgMenu.label "העתק אל">
+<!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextSaveAs.label "שמור בשם...">
+<!ENTITY contextSaveAs.accesskey "S">
+<!ENTITY contextPrint.label "הדפסה...">
+<!ENTITY contextPrint.accesskey "P">
+<!ENTITY contextPrintPreview.label "הצג לפני הדפסה">
+<!ENTITY contextPrintPreview.accesskey "v">
+<!ENTITY contextDelete.label "מחק">
+<!ENTITY contextDelete.accesskey "D">
+<!ENTITY contextAddSenderToAddressBook.label "הוסף השולח לפנקס כתובות">
+<!ENTITY contextAddSenderToAddressBook.accesskey "B">
+<!ENTITY contextAddAllToAddressBook.label "הוסף את כולם לפנקס הכתובות">
+<!ENTITY contextAddAllToAddressBook.accesskey "A">
+<!ENTITY junkBarMessage.label "&brandShortName; חושב שהודעה זו היא זבל.">
+<!ENTITY junkBarButton.label "זה לא זבל">
+<!ENTITY junkInfoButton.label "?">
+<!ENTITY remoteContentMessage.label "כדי לשמור על הפרטיות שלך, &brandShortName; חסם תמונות מרוחקות בהודעה זו.">
+<!ENTITY loadRemoteContentButton1.label "טען תמונות">
+<!ENTITY phishingBarMessage.label "&brandShortName; חושב שהודעה זו יכולה להיות תרמית דוא״ל.">
+<!ENTITY removePhishingBarButton.label "לא תרמית">
+<!ENTITY quickSearchCmd.key "k">
+<!ENTITY AddToAddressBook.label "הוסף לפנקס הכתובות...">
+<!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY SendMailTo.label "שלח דואר אל">
+<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY CopyEmailAddress.label "העתק כתובת דוא״ל">
+<!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CreateFilter.label "צור מסנן מהודעה...">
+<!ENTITY CreateFilter.accesskey "F">
+<!ENTITY BlockAddress.label "חסום כתובת">
+<!ENTITY BlockAddress.accesskey "A">
+<!ENTITY reportPhishingURL.label "דווח על הונאת דוא״ל">
+<!ENTITY reportPhishingURL.accesskey "o">
+<!ENTITY statusText.label "הסתיים">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "מזער">
+<!ENTITY bringAllToFront.label "הבא הכל לקידמה">
+<!ENTITY zoomWindow.label "הגדל">

@@ -1,0 +1,5 @@
+<!ENTITY removeInfo.label "עליך להכניס את הסיסמה הנוכחית שלך כדי להמשיך:">
+<!ENTITY removePassword.title "הסרת סיסמה ראשית">
+<!ENTITY removeWarning1.label "הסיסמה הראשית שלך מגינה על מידע רגיש כמו סיסמאות לאתרים. ">
+<!ENTITY removeWarning2.label "אם תסיר את הסיסמה הראשית שלך, המידע שלך לא ישמר אם תהיה לך פריצה למחשב.">
+<!ENTITY setPassword.oldPassword.label "סיסמה נוכחית:">

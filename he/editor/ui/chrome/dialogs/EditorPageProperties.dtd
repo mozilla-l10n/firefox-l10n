@@ -1,0 +1,12 @@
+<!ENTITY EditHEADSource1.label "משתמשים מתקדמים:">
+<!ENTITY EditHEADSource2.label "כדי לערוך תכנים אחרים של איזור ה־&lt;head&gt;, השתמש ב&quot;קוד מקור HTML&quot;  בתפריט תצוגה או סרגל הכלים מצב עריכה.">
+<!ENTITY authorInput.accessKey "A">
+<!ENTITY authorInput.label "מחבר:">
+<!ENTITY descriptionInput.accessKey "D">
+<!ENTITY descriptionInput.label "תיאור:">
+<!ENTITY lastModified.label "שונה לאחרונה:">
+<!ENTITY location.label "מיקום:">
+<!ENTITY locationNewPage.label "[דף חדש, לא נשמר עדיין]">
+<!ENTITY titleInput.accessKey "T">
+<!ENTITY titleInput.label "כותרת:">
+<!ENTITY windowTitle.label "מאפייני דף">

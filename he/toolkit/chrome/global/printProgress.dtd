@@ -1,0 +1,8 @@
+<!ENTITY dialogCancel.label "ביטול">
+<!ENTITY dialogClose.label "סגור">
+<!ENTITY percentPrint "#1&#037;">
+<!ENTITY preparing "מכין...">
+<!ENTITY printComplete "הדפסה הושלמה.">
+<!ENTITY printWindow.title "מדפיס">
+<!ENTITY progress "התקדמות:">
+<!ENTITY title "כותרת:">

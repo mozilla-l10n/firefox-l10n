@@ -1,0 +1,198 @@
+<!ENTITY addressbookWindow.title "פנקס כתובות">
+<!ENTITY fileMenu.label "קובץ">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "חדש">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newCard.label "כרטיס פנקס כתובות...">
+<!ENTITY newCard.accesskey "C">
+<!ENTITY newCard.key "N">
+<!ENTITY newListCmd.label "רשימת דיוור...">
+<!ENTITY newListCmd.accesskey "L">
+<!ENTITY newAddressBookCmd.label "פנקס כתובות...">
+<!ENTITY newAddressBookCmd.accesskey "B">
+<!ENTITY newLDAPDirectoryCmd.label "מדריך LDAP...">
+<!ENTITY newLDAPDirectoryCmd.accesskey "D">
+<!ENTITY newMessageCmd.label "הודעה">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY closeCmd.label "סגור">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "c">
+<!ENTITY printSetupCmd.label "הגדרות עמוד...">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCardViewCmd.label "הצג לפני הדפסה את הכרטיס">
+<!ENTITY printPreviewCardViewCmd.accesskey "v">
+<!ENTITY printPreviewAddressBook.label "הצג לפני הדפסה את פנקס הכתובות">
+<!ENTITY printPreviewAddressBook.accesskey "B">
+<!ENTITY printCardViewCmd.label "הדפס כרטיס...">
+<!ENTITY printCardViewCmd.accesskey "p">
+<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printAddressBook.label "הדפס פנקס כתובות...">
+<!ENTITY printAddressBook.accesskey "A">
+<!ENTITY quitApplicationCmdWin.label "יציאה">
+<!ENTITY quitApplicationCmdWin.accesskey "x">
+<!ENTITY quitApplicationCmd.label "יציאה">
+<!ENTITY quitApplicationCmd.accesskey "Q">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY editMenu.label "עריכה">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "בטל">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "בצע שוב">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "גזור">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "העתק">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "הדבק">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "מחק">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY deleteAbCmd.label "מחק פנקס כתובות">
+<!ENTITY deleteCardCmd.label "מחק כרטיס">
+<!ENTITY deleteCardsCmd.label "מחק כרטיסים נבחרים">
+<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY searchAddressesCmd.key "f">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY swapFirstNameLastNameCmd.label "החלף בין שם פרטי ומשפחה">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "w">
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label "מאפיינים...">
+<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.key "i">
+<!ENTITY viewMenu.label "תצוגה">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenu.label "סרגלי כלים">
+<!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY showAbToolbarCmd.label "סרגל כלים פנקס כתובות">
+<!ENTITY showAbToolbarCmd.accesskey "o">
+<!ENTITY showTaskbarCmd.label "שורת מצב">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "התאמה אישית...">
+<!ENTITY customizeToolbar.accesskey "C">
+<!ENTITY showCardPane.label "חלונית תקציר כרטיס">
+<!ENTITY showCardPane.accesskey "C">
+<!ENTITY menu_ShowNameAs.label "הצג שם בצורה">
+<!ENTITY menu_ShowNameAs.accesskey "n">
+<!ENTITY firstLastCmd.label "ראשון, אחרון">
+<!ENTITY firstLastCmd.accesskey "f">
+<!ENTITY lastFirstCmd.label "משפחה, פרטי">
+<!ENTITY lastFirstCmd.accesskey "l">
+<!ENTITY displayNameCmd.label "שם תצוגה">
+<!ENTITY displayNameCmd.accesskey "d">
+<!ENTITY sortMenu.label "סדר לפי">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY tasksMenu.label "כלים">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "דואר וקבוצות דיון">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY searchAddressesCmd.label "חפש בכתובות...">
+<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY importCmd.label "יבוא...">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "יצוא...">
+<!ENTITY exportCmd.accesskey "E">
+<!ENTITY preferencesCmd.label "אפשרויות...">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "העדפות">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY helpMenu.label "עזרה">
+<!ENTITY helpMenu.accesskey "H">
+<!ENTITY releaseCmd.label "הערות למהדורה">
+<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY hintsAndTips.label "עזרה של &brandShortName;">
+<!ENTITY hintsAndTips.accesskey "h">
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY aboutCmd.label "אודות &brandShortName;">
+<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY newcardButton.label "כרטיס חדש">
+<!ENTITY newcardButton.accesskey "C">
+<!ENTITY newlistButton.label "רשימה חדשה">
+<!ENTITY newlistButton.accesskey "L">
+<!ENTITY editButton.label "מאפיינים">
+<!ENTITY editButton.accesskey "P">
+<!ENTITY newmsgButton.label "כתוב">
+<!ENTITY newmsgButton.accesskey "W">
+<!ENTITY newIM.label "הודעה מיידית">
+<!ENTITY newIM.accesskey "I">
+<!ENTITY deleteButton.label "מחק">
+<!ENTITY deleteButton.accesskey "D">
+<!ENTITY throbberItem.title "מחוון פעילות">
+<!ENTITY newcardButton.tooltip "צור כרטיס פנקס כתובות חדש">
+<!ENTITY newlistButton.tooltip "צור רשימה חדשה">
+<!ENTITY editButton.tooltip "ערוך את הכרטיס הנבחר">
+<!ENTITY newmsgButton.tooltip "שלח הודעת דואר">
+<!ENTITY newIM.tooltip "שלח הודעה מיידית או צ׳אט">
+<!ENTITY deleteButton.tooltip "מחק כרטיס או פנקס כתובות נבחרים">
+<!ENTITY dirTreeHeader.label "פנקסי כתובות">
+<!ENTITY SearchNameOrEmail.label "שם או דוא״ל">
+<!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY advancedButton.tooltip "חיפוש כתובות מתקדם">
+<!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchItem.title "חיפוש מהיר">
+<!ENTITY GeneratedName.label "שם">
+<!ENTITY GeneratedName.accesskey "N">
+<!ENTITY PrimaryEmail.label "דוא״ל">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY ScreenName.label "שם מסך">
+<!ENTITY ScreenName.accesskey "S">
+<!ENTITY Company.label "ארגון">
+<!ENTITY Company.accesskey "z">
+<!ENTITY NickName.label "כינוי">
+<!ENTITY NickName.accesskey "i">
+<!ENTITY SecondEmail.label "דוא״ל נוסף">
+<!ENTITY SecondEmail.accesskey "l">
+<!ENTITY Department.label "מחלקה">
+<!ENTITY Department.accesskey "r">
+<!ENTITY JobTitle.label "תפקיד">
+<!ENTITY JobTitle.accesskey "T">
+<!ENTITY CellularNumber.label "נייד">
+<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY PagerNumber.label "איתורית">
+<!ENTITY PagerNumber.accesskey "P">
+<!ENTITY FaxNumber.label "פקס">
+<!ENTITY FaxNumber.accesskey "F">
+<!ENTITY HomePhone.label "טלפון בבית">
+<!ENTITY HomePhone.accesskey "H">
+<!ENTITY WorkPhone.label "טלפון בעבודה">
+<!ENTITY WorkPhone.accesskey "W">
+<!ENTITY sortAscending.label "עולה">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "יורד">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY _PhoneticName.label "שם פונטי">
+<!ENTITY _PhoneticName.accesskey "o">
+<!ENTITY composeEmail.label "חבר דוא״ל אל">
+<!ENTITY composeEmail.accesskey "C">
+<!ENTITY deleteAddrBookCard.label "מחק">
+<!ENTITY deleteAddrBookCard.accesskey "D">
+<!ENTITY newAddrBookCard.label "כרטיס חדש...">
+<!ENTITY newAddrBookCard.accesskey "N">
+<!ENTITY newAddrBookMailingList.label "רשימת דיוור חדשה...">
+<!ENTITY newAddrBookMailingList.accesskey "M">
+<!ENTITY addrBookCardProperties.label "מאפיינים">
+<!ENTITY addrBookCardProperties.accesskey "P">
+<!ENTITY contact.heading "איש קשר">
+<!ENTITY home.heading "בית">
+<!ENTITY other.heading "אחר">
+<!ENTITY phone.heading "טלפון">
+<!ENTITY work.heading "עבודה">
+<!ENTITY description.heading "תיאור">
+<!ENTITY addresses.heading "כתובות">
+<!ENTITY mapItButton.label "השג מפה">
+<!ENTITY mapIt.tooltip "הצג מפה של כתובת זו מהאינטרנט">
+<!ENTITY statusText.label "">
+<!ENTITY windowMenu.label "חלון">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "מזער חלון">
+<!ENTITY bringAllToFront.label "הבא הכל לקידמה">
+<!ENTITY zoomWindow.label "הגדל חלון">

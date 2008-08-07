@@ -1,0 +1,14 @@
+<!ENTITY advancedJSDialog.title "הגדרות JavaScript מתקדמות">
+<!ENTITY allowScripts.label "אפשר לתסריטים לבצע את הפעולות הבאות:">
+
+<!ENTITY changeStatusBar.accesskey "ש">
+<!ENTITY changeStatusBar.label "שינוי טקסט בשורת המצב">
+<!ENTITY disableContextMenus.accesskey "ב">
+<!ENTITY disableContextMenus.label "ביטול או החלפת תפריטי הקשר">
+<!ENTITY hideStatusBar.accesskey "ס">
+<!ENTITY hideStatusBar.label "הסתרת שורת המצב">
+<!ENTITY moveResizeWindows.accesskey "ה">
+<!ENTITY moveResizeWindows.label "הזזה או שינוי גודל חלונות קיימים">
+<!ENTITY raiseLowerWindows.accesskey "ע">
+<!ENTITY raiseLowerWindows.label "העברת חלון לקידמה או לרקע">
+<!ENTITY window.width "20em">

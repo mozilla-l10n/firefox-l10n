@@ -1,0 +1,15 @@
+<!ENTITY newsBlogSubscriptions.label "מינויי RSS">
+<!ENTITY subscriptionDesc.label "שים לב: הסרה או שינוי התיקייה עבור הזנת נתונים לא ישפיעו על המאמרים שהורדו לפני כן.">
+<!ENTITY feedTitle.label "כותרת:">
+<!ENTITY location.label "מיקום:">
+<!ENTITY button.addFeed.label "הוסף">
+<!ENTITY button.addFeed.accesskey "A">
+<!ENTITY button.editFeed.label "עריכה">
+<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.removeFeed.label "הסר">
+<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.importOPML.label "יבא">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "יצא">
+<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY cmd.close.commandKey "w">

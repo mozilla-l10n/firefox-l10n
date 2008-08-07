@@ -1,0 +1,15 @@
+<!--null-->
+<!ENTITY subscribeDialog.title "הירשם כמנוי">
+<!ENTITY subscribeButton.label "הירשם כמנוי">
+<!ENTITY subscribeButton.accesskey "S">
+<!ENTITY unsubscribeButton.label "בטל מנוי">
+<!ENTITY unsubscribeButton.accesskey "U">
+<!ENTITY refreshButton.label "רענן">
+<!ENTITY refreshButton.accesskey "R">
+<!ENTITY stopButton.label "עצור">
+<!ENTITY stopButton.accesskey "T">
+<!ENTITY server.label "חשבון:">
+<!ENTITY server.accesskey "A">
+<!ENTITY subscribedHeader.label "רישום כמנוי">
+<!ENTITY namefield.label "הראה פריטים המכילים:">
+<!ENTITY namefield.accesskey "O">

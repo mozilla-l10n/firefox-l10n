@@ -1,0 +1,30 @@
+<!ENTITY absolutePosition.label "מיקום אבסולוטי">
+<!ENTITY anchor.label "עוגן">
+<!ENTITY bold.label "מודגש">
+<!ENTITY bullets.label "תבליטים">
+<!ENTITY composition.caption "הראה כפתורים אלו בסרגל העריכה:">
+<!ENTITY copy.label "העתק">
+<!ENTITY cut.label "גזור">
+<!ENTITY decreaseZIndex.label "שלח לרקע">
+<!ENTITY find.label "חפש">
+<!ENTITY formatting.caption "הראה כפתורים אלו בסרגל העיצוב">
+<!ENTITY hline.label "קו אופקי">
+<!ENTITY image.label "תמונה">
+<!ENTITY increaseZIndex.label "הבא לחזית">
+<!ENTITY indent.label "הכנס">
+<!ENTITY italic.label "נטוי">
+<!ENTITY larger.label "גדול יותר">
+<!ENTITY link.label "קישור">
+<!ENTITY new.label "חדש">
+<!ENTITY numbers.label "מספרים">
+<!ENTITY open.label "פתח">
+<!ENTITY outdent.label "הוצא">
+<!ENTITY paste.label "הדבק">
+<!ENTITY pref.toolbars.title "סרגלי כלים">
+<!ENTITY preview.label "דפדף">
+<!ENTITY print.label "הדפס">
+<!ENTITY publish.label "פרסם">
+<!ENTITY save.label "שמור">
+<!ENTITY smaller.label "קטן יותר">
+<!ENTITY table.label "טבלה">
+<!ENTITY underline.label "קו תחתון">

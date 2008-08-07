@@ -1,0 +1,19 @@
+<!ENTITY ab-selectAddressesDialog.title "Internet Appliance Dialog- Select Addresses">
+<!ENTITY ab-selectAddressesDialogAddressTo.label "Address Message To:">
+<!ENTITY ab-selectAddressesDialogBccButton.label "עותק סמוי">
+<!ENTITY ab-selectAddressesDialogCcButton.label "עותק">
+<!ENTITY ab-selectAddressesDialogClearButton.label "Clear">
+<!ENTITY ab-selectAddressesDialogEmailColumn.label 'כתובת דוא"ל'>
+<!ENTITY ab-selectAddressesDialogFor.label "for: ">
+<!ENTITY ab-selectAddressesDialogHeader.label "בחר כתובות">
+<!ENTITY ab-selectAddressesDialogInvite.label "הזמן:">
+<!ENTITY ab-selectAddressesDialogInviteList.label "רשימת מוזמנים:">
+<!ENTITY ab-selectAddressesDialogLookIn.label "ראה ב:">
+<!ENTITY ab-selectAddressesDialogNameColumn.label "שם">
+<!ENTITY ab-selectAddressesDialogNoEmailMessage.label 'אין כתובת דוא"ל'>
+<!ENTITY ab-selectAddressesDialogPrefixBcc.label "עותק סמוי:">
+<!ENTITY ab-selectAddressesDialogPrefixCc.label "עותק:">
+<!ENTITY ab-selectAddressesDialogPrefixTo.label "מען:">
+<!ENTITY ab-selectAddressesDialogRemoveButton.label "הסר">
+<!ENTITY ab-selectAddressesDialogToButton.label "מען">
+<!ENTITY ab-selectAddressesDialogUninvite.label "הסר">

@@ -1,0 +1,13 @@
+<!ENTITY AlignCenter.label "מרכז">
+<!ENTITY AlignDefault.label "ברירת מחדל">
+<!ENTITY AlignLeft.label "שמאל">
+<!ENTITY AlignRight.label "ימין">
+<!ENTITY EditLegendText.accesskey "T">
+<!ENTITY EditLegendText.label "ערוך מקרא:">
+<!ENTITY Legend.accesskey "L">
+<!ENTITY Legend.label "מקרא">
+<!ENTITY LegendAlign.accesskey "A">
+<!ENTITY LegendAlign.label "ישור מקרא:">
+<!ENTITY RemoveFieldSet.accesskey "R">
+<!ENTITY RemoveFieldSet.label "הסר סט שדות">
+<!ENTITY windowTitle.label "מאפייני סט שדות">

@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Sean Umphlet <nosebleed@umphlet.com> (minor bugfixes)
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Sagi Iltus <sagiiltus@gmail.com>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>מקשי הקיצור של &brandFullName;</title>
+  <link rel="stylesheet" type="text/css"
+    href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body dir="rtl">
+
+<h1>מקשי הקיצור של &brandFullName;</h1>
+
+<p>לפניך רשימה של מקשי הקיצור הנפוצים ביותר של &brandFullName;.
+<span class="unix">אם אפשרת מקשי קיצור לעריכת טקסט בסגנון Emacs בGNOME, הם יעבדו גם ב
+  &brandShortName;.  אם מקש קיצור לעריכת טקסט של Emacs
+  מתנגש עם מקשי הקיצור הרגילים conflicts with the default shortcuts (לדוגמא
+  &accelKey;+<kbd>K</kbd>), מקשי הקיצור של Emacs מקבלים עדיפות אם כרגע הסמן נמצא בתוך תיבת טקסט (כולל סרגל המיקום וסרגל החיפוש).  במקרים כאלה, תוכל להשתמש במקשי הקיצור החלופיים, אם כאלה רשומים בטבלה.</span></p>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th style="text-align: right">פקודה</th>
+      <th style="text-align: right">מקש קיצור</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" style="text-align: right">ניווט</th>
+    </tr>
+    <tr>
+      <td>אחורה</td>
+       <td>
+        <span class="win">
+          &altKey;+<kbd>Left Arrow</kbd><br/>
+          <kbd>Backspace</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Left Arrow</kbd><br/>
+
+          <kbd>Backspace</kbd><br/>
+          &accelKey;+<kbd>[</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>[</kbd><br/>
+          &accelKey;+<kbd>Left Arrow</kbd><br/>
+         <kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>קדימה</td>
+     <td>
+        <span class="win">
+          &altKey;+<kbd>Right Arrow</kbd><br/>
+          &shiftKey;+<kbd>Backspace</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Right Arrow</kbd><br/>
+          &shiftKey;+<kbd>Backspace</kbd><br/>
+          &accelKey;+<kbd>]</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>]</kbd><br/>
+          &accelKey;+<kbd>Right Arrow</kbd><br/>
+          &shiftKey;+<kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>לך לאתר הבית</td>
+      <td>&altKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>פתח קובץ</td>
+      <td>&accelKey;+<kbd>O</kbd></td>
+    </tr>
+    <tr>
+      <td>טען מחדש</td>
+      <td><kbd>F5<br/></kbd>
+        &accelKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>טען מחדש (שכתב את המטמון)</td>
+      <td><span class="noMac">&accelKey;+<kbd>F5</kbd><br/></span>
+        &accelKey;+&shiftKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>עצור</td>
+      <td><span class="mac">&accelKey;+<kbd>.</kbd><br/></span>
+        <kbd>Esc</kbd></td>
+    </tr>
+ </tbody>
+ <tbody>
+    <tr>
+      <th colspan="2" style="text-align: right">דף נוכחי</th>
+    </tr>
+    <tr>
+      <td>לך לסוף הדף</td>
+      <td><kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>לך לראש הדף </td>
+      <td><kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>עבור למסגרת הבאה</td>
+      <td><kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>עבור למסגרת הקודמת</td>
+      <td>&shiftKey;+<kbd>F6</kbd></td>
+    </tr>
+    <tr class="noWin">
+      <td>הצג מידע על הדף</td>
+      <td>&accelKey;+<kbd>I</kbd></td>
+    </tr>
+    <tr>
+      <td>הצג את מקור הדף</td>
+      <td>&accelKey;+<kbd>U</kbd></td>
+    </tr>
+    <tr>
+      <td>הדפס</td>
+      <td>&accelKey;+<kbd>P</kbd></td>
+    </tr>
+    <tr>
+      <td>שמור דף בשם</td>
+      <td>&accelKey;+<kbd>S</kbd></td>
+    </tr>
+    <tr>
+      <td>גודל הטקסט: הקטן</td>
+      <td>&accelKey;+<kbd>-</kbd></td>
+    </tr>
+    <tr>
+      <td>גודל הטקסט: הגדל</td>
+      <td>&accelKey;+<kbd>+</kbd></td>
+    </tr>
+    <tr>
+      <td>גודל הטקסט: שחזר</td>
+      <td>&accelKey;+<kbd>0</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+       <th colspan="2" style="text-align: right">עריכה</th>
+    </tr>
+    <tr>
+      <td>העתק</td>
+      <td>&accelKey;+<kbd>C</kbd></td>
+    </tr>
+    <tr>
+      <td>גזור</td>
+      <td>&accelKey;+<kbd>X</kbd></td>
+    </tr>
+    <tr>
+      <td>מחק</td>
+      <td><kbd>Delete</kbd></td>
+    </tr>
+    <tr>
+      <td>הדבק</td>
+      <td>&accelKey;+<kbd>V</kbd></td>
+    </tr>
+    <tr>
+      <td>בצע שוב</td>
+      <td><span class="win">&accelKey;+<kbd>Y</kbd></span>
+        <span class="noWin">&accelKey;+&shiftKey;+<kbd>Z</kbd></span></td>
+    </tr>
+    <tr>
+      <td>בחר הכל</td>
+      <td>&accelKey;+<kbd>A</kbd></td>
+    </tr>
+    <tr>
+      <td>בטל</td>
+      <td>&accelKey;+<kbd>Z</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+       <th colspan="2" style="text-align: right">חיפוש</th>
+    </tr>
+    <tr>
+      <td>מצא בדף זה</td>
+      <td>&accelKey;+<kbd>F</kbd></td>
+    </tr>
+    <tr>
+      <td>מצא שוב</td>
+      <td><kbd>F3</kbd><br/>
+        &accelKey;+<kbd>G</kbd></td>
+    </tr>
+    <tr>
+      <td>מצא קישור תוך כדי הקלדה</td>
+      <td><kbd>'</kbd></td>
+    </tr>
+    <tr>
+      <td>מצא טקסט תוך כדי הקלדה</td>
+      <td><kbd>/</kbd></td>
+    </tr>
+    <tr>
+      <td>מצא את הקודם</td>
+      <td>&shiftKey;+<kbd>F3</kbd></td>
+    </tr>
+    <tr>
+      <td>חיפוש ברשת</td>
+      <td>&accelKey;+<kbd>K</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>E</kbd></span>
+        <span class="unix"><br/>&accelKey;+<kbd>J</kbd></span></td>
+    </tr>
+  </tbody>
+  <tbody id="windows_tabs">
+    <tr>
+       <th colspan="2" style="text-align: right">חלונות ולשוניות</th>
+    </tr>
+    <tr>
+      <td>סגור לשונית</td>
+      <td>&accelKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&ctrlKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>סגור חלון</td>
+      <td>&accelKey;+&shiftKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&altKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <!-- LOCALIZATION NOTE:
+         "Left"/"Up" and "Right"/"Down" might need special treatment
+         for bidi locales, as used in the following two entries.
+         =================
+         Didn't really understand what these two options should do, since they don't work in My Deer Park Alpha 2, but I translated them anyway - Sagi
+    -->
+    <tr>
+      <td>הזז לשונית ימינה (הלשונית הפעילה)</td>
+      <td>&accelKey;+<kbd>Left Arrow</kbd><br/>
+          &accelKey;+<kbd>Up Arrow</kbd></td>
+    </tr>
+    <tr>
+      <td>הזז לשונית שמאלה (הלשונית הפעילה)</td>
+      <td>&accelKey;+<kbd>Right Arrow</kbd><br/>
+          &accelKey;+<kbd>Down Arrow</kbd></td>
+    </tr>
+    <tr>
+      <td> הזז לשונית להתחלה (הלשונית הפעילה)</td>
+      <td>&accelKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>הזז לשונית לסוף (הלשונית הפעילה)</td>
+      <td>&accelKey;+<kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>לשונית חדשה</td>
+      <td>&accelKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>חלון חדש</td>
+      <td>&accelKey;+<kbd>N</kbd></td>
+    </tr>
+    <tr>
+      <td>לשונית הבאה</td>
+      <td><span class="noMac">&ctrlKey;+<kbd>Tab</kbd></span>
+        <span class="mac">&accelKey;+&altKey;+Right Arrow</span><br/>
+        &ctrlKey;+<kbd>Page Down</kbd></td>
+    </tr>
+    <tr>
+      <td>פתח את הכתובת בלשונית חדשה</td>
+      <td>&altKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>לשונית קודמת</td>
+  <td><span class="noMac">&ctrlKey;+&shiftKey;+<kbd>Tab</kbd></span>
+   <span class="mac">&accelKey;+&altKey;+Left Arrow</span><br/>
+      &ctrlKey;+<kbd>Page Up</kbd></td>
+    </tr>
+    <tr>
+      <td>בחר לשונית (1 עד 9)</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+(<kbd>1</kbd> עד<kbd>9</kbd>)</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+       <th colspan="2" style="text-align: right">כלים</th>
+    </tr>
+        <tr class="noUnix">
+      <td>הוספת סימנייה לכל הלשוניות</td>
+      <td>&accelKey;+&shiftKey;+<kbd>D</kbd></td>
+    </tr>
+<tr>
+      <td>הוסף לסימניות</td>
+      <td>&accelKey;+<kbd>D</kbd></td>
+</tr>
+    <tr>
+      <td>סרגל הצד סימניות</td>
+      <td>&accelKey;+<kbd>B</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>I</kbd></span></td>
+    </tr>
+    <tr>
+      <td>דפדוף עם סמן</td>
+      <td><kbd>F7</kbd></td>
+    </tr>
+    <tr>
+      <td>חלון ההורדות</td>
+      <td><span class="noUnix">&accelKey;+<kbd>J</kbd></span>
+        <span class="unix">&accelKey;+<kbd>Y</kbd></span></td>
+    </tr>
+    <tr>
+      <td>סרגל הצד היסטוריה</td>
+      <td><span class="noMac">&accelKey;+<kbd>H</kbd></span>
+        <span class="mac">&accelKey;+&shiftKey;+<kbd>H</kbd></span></td>
+    </tr>
+    <tr>
+      <td>נקה נתונים אישיים</td>
+      <td>&accelKey;+&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+ </tbody>
+  <tbody>
+    <tr>
+       <th colspan="2" style="text-align: right">שונות</th>
+    </tr>
+   <tr>
+      <td>השלם סיומת .com לכתובת</td>
+      <td>&accelKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>השלם סיומת .net לכתובת</td>
+      <td>&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>השלם סיומת .org לכתובת</td>
+      <td>&accelKey;+&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>מחק את פריט ההשלמה האוטומטית הנבחר</td>
+      <td>&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+    <tr class="noMac">
+      <td>מסך מלא</td>
+      <td><kbd>F11</kbd></td>
+    </tr>
+    <tr>
+      <td>הודעת דואר חדשה</td>
+      <td>&accelKey;<span class="mac">+&shiftKey;</span>+<kbd>M</kbd></td>
+    </tr>
+    <tr>
+      <td>בחר את סרגל המיקום</td>
+      <td><span class="noMac">&altKey;+<kbd>D</kbd><br/></span>
+        <kbd>F6</kbd><br />
+        &accelKey;+<kbd>L</kbd></td>
+    </tr>
+    <tr>
+      <td>בחר את מנוע החיפוש הקודם<br/>
+      (כאשר סרגל החיפוש בפוקוס)</td>
+      <td>&accelKey;+<kbd>Up Arrow</kbd></td>
+    </tr>
+    <tr>
+      <td>בחר את מנוע החיפוש הבא<br/>
+      (כאשר סרגל החיפוש בפוקוס)</td>
+      <td>&accelKey;+<kbd>Down</kbd></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="contentsBox"><em>14 באוקטובר 2005</em></div>
+<p>Copyright &copy; 2003-2005 Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

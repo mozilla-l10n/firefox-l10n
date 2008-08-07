@@ -1,0 +1,8 @@
+<!ENTITY aboutDialog.title "&brandFullName; אודות">
+<!ENTITY copyright "תודות">
+<!ENTITY copyright.accesskey    "ת">
+<!ENTITY aboutLink "&lt; אודות &brandFullName;">
+<!ENTITY aboutLink.accesskey    "א">
+<!ENTITY aboutVersion "גרסה">
+<!ENTITY copyrightInfo          "&#169;1998-2008 תורמים. 
+כל הזכויות שמורות. Firefox והסמלים של Firefox הם סימנים מסחריים של קרן Mozilla. כל הזכויות שמורות.">

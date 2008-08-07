@@ -1,0 +1,10 @@
+<!ENTITY adjustDesc.label "התאם קישורים לעבודה ממיקום הדף. (קישורים לדפים מקומיים יפעלו כאשר גרסאות מקומיות קיימות.) ">
+<!ENTITY composerHeader.label "פרסם">
+<!ENTITY defaultHeader.label "מיקום ברירת מחדל של פרסום">
+<!ENTITY keepCheck.label "שמור תמונות עם הדף">
+<!ENTITY maintainCheckbox.label "שמור קישורים">
+<!ENTITY pref.publish.title "פרסם">
+<!ENTITY publishFtp.label "אם אתה מפרסם לאתר FTP, הכנס את כתובת ה־HTTP בה לעיין:">
+<!ENTITY publishhtp.label "אם אתה מפרסם לאתר FTP, הכנס את כתובת ה־HTTP בה לעיין:">
+<!ENTITY saveDesc.label "שמור עותקים של תמונות למיקום הדף. תמונות תמיד תופענה בגרסאות מקומיות של הדף וגם כאשר הדף מפורסם.">
+<!ENTITY tip.label "עצה: סמן את שתי האפשרויות אם בכוונתך להשתמש בפרסום מרוחק.">

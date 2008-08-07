@@ -1,0 +1,8 @@
+<!ENTITY addressbookPicker.label "פנקס כתובות">
+<!ENTITY searchInput.label "חפש את:">
+<!ENTITY SearchNameOrEmail.label 'שם או דוא"ל'>
+<!ENTITY addtoToFieldMenu.label "הוסף לשדה אל:">
+<!ENTITY addtoCcFieldMenu.label "הוסף לשדה עותק">
+<!ENTITY addtoBccFieldMenu.label "הוסף לשדה עותק סמוי">
+<!ENTITY toButton.label "הוסף לשורה אל:">
+<!ENTITY ccButton.label "הוסף לעותק:">

@@ -1,0 +1,66 @@
+<!ENTITY itemGeneral.label "כללי">
+<!ENTITY itemUpdate.label "עדכון">
+<!ENTITY itemNetworking.label "רשת ושטח דיסק">
+<!ENTITY itemCertificates.label "אישורים">
+<!ENTITY showCondensedAddresses.label "הצג רק שמות תצוגה לאנשים שבפנקס הכתובות שלי">
+<!ENTITY showCondensedAddresses.accesskey "צ">
+<!ENTITY markAsRead.label "המתן">
+<!ENTITY markAsRead.accesskey "מ">
+<!ENTITY markAsReadEnd.label "שניות לפני סימון הודעה כנקראה">
+<!ENTITY markAsReadEnd.accesskey "ס">
+<!ENTITY showFolderColumns.label "הצג עמודות מורחבות בחלונית התיקיות">
+<!ENTITY showFolderColumns.accesskey "ה">
+<!ENTITY rememberLastMsg.label "זכור את ההודעה האחרונה שנבחרה">
+<!ENTITY rememberLastMsg.accesskey "כ">
+<!ENTITY reuseExp.label "פתח הודעות חדשות:">
+<!ENTITY reuseExpRadio0.label "בחלון הודעה חדש">
+<!ENTITY reuseExpRadio0.accesskey "ד">
+<!ENTITY reuseExpRadio1.label "בחלון הודעה קיים">
+<!ENTITY reuseExpRadio1.accesskey "ח">
+<!ENTITY reuseExpRadio2.label "לשונית הודעה חדשה">
+<!ENTITY reuseExpRadio2.accesskey "ל">
+<!ENTITY connectionTimeout.label "זמן מוקצב לחיבור:">
+<!ENTITY connectionTimeout.accesskey "פ">
+<!ENTITY connectionSeconds.label "שניות">
+<!ENTITY configEditDesc.label "הגדרות מתקדמות">
+<!ENTITY configEdit.label "עורך הגדרות...">
+<!ENTITY configEdit.accesskey "ע">
+<!ENTITY returnReceiptsInfo.label "קבע כיצד &brandShortName; מטפל בקבלות חוזרות.">
+<!ENTITY showReturnReceipts.label "קבלות חוזרות...">
+<!ENTITY showReturnReceipts.accesskey "ז">
+<!ENTITY autoCheck.label "בדוק אוטומטית אם קיימים עדכונים עבור:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "T">
+<!ENTITY enableAddonsUpdate.label "תוספות מותקנות">
+<!ENTITY enableAddonsUpdate.accesskey "t">
+<!ENTITY checkNow.label "בדוק כעת...">
+<!ENTITY whenUpdatesFound.label "כאשר נמצאים עדכונים עבור &brandShortName;,">
+<!ENTITY modeAskMe.label "שאל אותי מה ברצוני לעשות">
+<!ENTITY modeAskMe.accesskey "A">
+<!ENTITY modeAutomatic.label "הורד והתקן את העדכון באופן אוטומטי">
+<!ENTITY modeAutomatic.accesskey "d">
+<!ENTITY modeAutoAddonWarn.label "הזהר אותי אם הדבר ינטרל חלק מהתוספות שלי">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!ENTITY showUpdates.label "הצג היסטוריית עדכונים">
+<!ENTITY showUpdates.accesskey "U">
+<!ENTITY showConnections.label "חיבור...">
+<!ENTITY showConnections.accesskey "ח">
+<!ENTITY proxiesInfo.label "קבע כיצד &brandShortName; מתחבר לאינטרנט.">
+<!ENTITY connectionsInfo.caption "חיבור">
+<!ENTITY offlineInfo.caption "לא־מקוון">
+<!ENTITY offlineInfo.label "נהל הגדרות לא־מקוון">
+<!ENTITY showOffline.label "לא־מקוון...">
+<!ENTITY showOffline.accesskey "מ">
+<!ENTITY Diskspace "שטח דיסק">
+<!ENTITY offlineCompact.label "דחוס תיקיות כאשר זה יחסוך יותר מאשר">
+<!ENTITY offlineCompact.accesskey "ד">
+<!ENTITY kb.label 'ק"ב'>
+<!ENTITY certificatesInfo.label "נהל אישורים, רשימות ביטולים, אימות אישורים והתקני אבטחה.">
+<!ENTITY viewCertificates.label "הצג אישורים">
+<!ENTITY viewCertificates.accesskey "צ">
+<!ENTITY viewCRLs.label "רשימות ביטולים">
+<!ENTITY viewCRLs.accesskey "ר">
+<!ENTITY viewOCSP.label "אימות">
+<!ENTITY viewOCSP.accesskey "א">
+<!ENTITY viewSecurityDevices.label "התקני אבטחה">
+<!ENTITY viewSecurityDevices.accesskey "ה">

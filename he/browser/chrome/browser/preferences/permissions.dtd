@@ -1,0 +1,19 @@
+
+<!ENTITY address.label "כתובת אתר:">
+<!ENTITY allow.accesskey "ש">
+<!ENTITY allow.label "הרשה">
+<!ENTITY block.accesskey "ח">
+<!ENTITY block.label "חסום">
+<!ENTITY button.close.accesskey "ס">
+<!ENTITY button.close.label "סגור">
+<!ENTITY removeallpermissions.accesskey "כ">
+<!ENTITY removeallpermissions.label "הסר את כל האתרים">
+<!ENTITY removepermission.accesskey "ה">
+<!ENTITY removepermission.label "הסר אתר">
+<!ENTITY session.accesskey "מ">
+<!ENTITY session.label "הרשה למשך ההפעלה">
+<!ENTITY treehead.sitename.label "אתר">
+<!ENTITY treehead.status.label "מצב">
+<!ENTITY window.title "חריגות">
+<!ENTITY window.width "36em">
+<!ENTITY windowClose.key "w">

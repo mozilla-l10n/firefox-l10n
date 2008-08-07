@@ -1,0 +1,38 @@
+<!ENTITY advanced.tab "שוליים וכותרת עילית/תחתית">
+<!ENTITY basic.tab "עיצוב ואפשרויות">
+<!ENTITY customPrompt.prompt "הכנס טקסט מותאם אישית לכותרת עילית/תחתית">
+<!ENTITY customPrompt.title "מותאם אישית...">
+<!ENTITY footerCenter.tip "תחתית אמצעית">
+<!ENTITY footerLeft.tip "תחתית שמאלית">
+<!ENTITY footerRight.tip "תחתית ימנית">
+<!ENTITY formatGroup.label "עיצוב">
+<!ENTITY headerCenter.tip "עליונית מרכזית">
+<!ENTITY headerFooter.label "כותרות עיליות ותחתיות">
+<!ENTITY headerLeft.tip "עליונית שמאלית">
+<!ENTITY headerRight.tip "עליונית ימנית">
+<!ENTITY hfBlank "--ריק--">
+<!ENTITY hfCenter.label "מרכז:">
+<!ENTITY hfCustom "מותאם אישית...">
+<!ENTITY hfDateAndTime "תאריך/שעה">
+<!ENTITY hfLeft.label "שמאל:">
+<!ENTITY hfPage "דף #">
+<!ENTITY hfPageAndTotal "דף # מתוך #">
+<!ENTITY hfRight.label "ימין:">
+<!ENTITY hfTitle "כותרת דף">
+<!ENTITY hfURL "URL">
+<!ENTITY landscape "לרוחב">
+<!ENTITY marginBottom.label "תחתית:">
+<!ENTITY marginGroup.label "שוליים (#1)">
+<!ENTITY marginLeft.label "שמאל:">
+<!ENTITY marginRight.label "ימין:">
+<!ENTITY marginTop.label "ראש:">
+<!ENTITY marginUnits.inches "אינטשים">
+<!ENTITY marginUnits.metric "מילימטרים">
+<!ENTITY optionsGroup.label "אפשרויות">
+<!ENTITY orientation.label "כיוון:">
+<!ENTITY portrait "לאורך">
+<!ENTITY printBG.label "הדפס רקע (צבעים ותמונות)">
+<!ENTITY printSetup.title "הגדרת עמוד">
+<!ENTITY scale.label "קנה מידה:">
+<!ENTITY scalePercent "&#037;">
+<!ENTITY shrinkToFit.label "כווץ להתאמה לרוחב הדף">

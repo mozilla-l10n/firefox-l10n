@@ -1,0 +1,31 @@
+<!ENTITY copyCmd.accesskey "ת">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.label "העתק">
+<!ENTITY cutCmd.accesskey "ג">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.label "גזור">
+<!ENTITY deleteCmd.accesskey "מ">
+<!ENTITY deleteCmd.label "מחק">
+<!ENTITY editMenu.accesskey "ע">
+<!ENTITY editMenu.label "עריכה">
+<!ENTITY findAgainCmd.accesskey "ש">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.label "מצא שוב">
+<!ENTITY findCmd.accesskey "פ">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.label "חפש">
+<!ENTITY findPreviousCmd.accesskey "v">
+<!ENTITY findPreviousCmd.label "מצא את הקודם">
+<!ENTITY pasteCmd.accesskey "ה">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.label "הדבק">
+<!ENTITY redoCmd.accesskey "צ">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.label "בצע שוב">
+<!ENTITY selectAllCmd.accesskey "ב">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY undoCmd.accesskey "ל">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.label "בטל">

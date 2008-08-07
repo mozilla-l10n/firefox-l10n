@@ -1,0 +1,16 @@
+<!ENTITY autoSelect.accesskey "ב">
+<!ENTITY autoSelect.label "אל תשאל בעת ההפעלה">
+<!ENTITY availprofiles.label "פרופילים זמינים">
+<!ENTITY deleteButton.accesskey "ח">
+<!ENTITY deleteButton.label "מחק פרופיל...">
+<!ENTITY exit.label "יציאה">
+<!ENTITY newButton.accesskey "צ">
+<!ENTITY newButton.label "צור פרופיל...">
+<!ENTITY offlineState.accesskey "ע">
+<!ENTITY offlineState.label "עבוד לא־מקוון">
+<!ENTITY pmDescription.label "&brandShortName; מאכסן מידע אודות ההגדרות, ההעדפות, ופריטי משתמש אחרים שלך בפרופיל המשתמש שלך.">
+<!ENTITY profilename.label "שם פרופיל:">
+<!ENTITY renameButton.accesskey "פ">
+<!ENTITY renameButton.label "שנה שם פרופיל...">
+<!ENTITY start.label "הפעל את &brandShortName;">
+<!ENTITY windowtitle.label "&brandShortName; - בחר שם משתמש">

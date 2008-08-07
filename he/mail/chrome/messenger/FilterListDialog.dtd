@@ -1,0 +1,29 @@
+<!ENTITY window.title "מסננים להודעות">
+<!ENTITY nameColumn.label "שם מסנן">
+<!ENTITY activeColumn.label "מאופשר">
+<!ENTITY newButton.label "חדש...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "עריכה...">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "מחק">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderUpButton.label "הזז למעלה">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "הזז למטה">
+<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY filterHeader.label "מסננים מאופשרים יופעלו אוטומטית בסדר הנראה להלן.">
+<!ENTITY filtersForPrefix.label "מסננים עבור:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "יומן מסנן">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "הפעל עכשיו">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "עצור">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "הפעל מסנן(ים) נבחר(ים) על:">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "בחר תיקייה זו">
+<!ENTITY choosethisnewsserver.label "בחר בשרת קבוצות דיון זה">
+<!ENTITY helpButton.label "עזרה">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W">

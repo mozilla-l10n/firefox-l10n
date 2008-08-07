@@ -1,0 +1,23 @@
+<!ENTITY activeLinkText.accesskey "A">
+<!ENTITY activeLinkText.label "טקסט של קישור פעיל">
+<!ENTITY authorName.accesskey "u">
+<!ENTITY authorName.label "מחבר:">
+<!ENTITY background.accesskey "B">
+<!ENTITY background.label "רקע:">
+<!ENTITY backgroundImage.accesskey "m">
+<!ENTITY backgroundImage.label "תמונת רקע:">
+<!ENTITY chooseFile.accesskey "o">
+<!ENTITY chooseFile.label "בחר קובץ...">
+<!ENTITY colon.character ":">
+<!ENTITY customColors.accesskey "c">
+<!ENTITY customColorsRadio.label "השתמש בצבעים מותאמים אישית:">
+<!ENTITY defaultColors.accesskey "d">
+<!ENTITY defaultColorsRadio.label "צבעי ברירת המחדל של הקורא (אל תגדיר צבעים בדף)">
+<!ENTITY linkText.accesskey "L">
+<!ENTITY linkText.label "טקסט קישור">
+<!ENTITY normalText.accesskey "N">
+<!ENTITY normalText.label "טקסט רגיל">
+<!ENTITY pageColorHeader "הופעת ברירת המחדל לדף">
+<!ENTITY pref.editing.title "הגדרות דף חדש">
+<!ENTITY visitedLinkText.accesskey "V">
+<!ENTITY visitedLinkText.label "טקסט של קישור שביקרו בו">

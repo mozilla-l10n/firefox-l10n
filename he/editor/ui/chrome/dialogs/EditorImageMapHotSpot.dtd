@@ -1,0 +1,13 @@
+<!ENTITY altFieldset.label "טקסט חלופי לנקודה חמה:">
+<!ENTITY browseButton.label "עיין...">
+<!ENTITY commonFieldset.label "יעדים נפוצים:">
+<!ENTITY link.label "קישור נקודה חמה">
+<!ENTITY new.value "חלון חדש">
+<!ENTITY none.value "(אין)">
+<!ENTITY parent.value "מסגרת הורה">
+<!ENTITY same.value "אותה מסגרת">
+<!ENTITY target.label "יעד של נקודה חמה">
+<!ENTITY targetFieldset.label "הגדרת יעד">
+<!ENTITY urlFieldset.label "URL של נקודה חמה:">
+<!ENTITY whole.value "דף שלם">
+<!ENTITY windowTitle.label "מאפייני נקודה חמה">

@@ -1,0 +1,9 @@
+<!ENTITY notificationsDialog2.title "התאם אישית התראת דואר חדש">
+<!ENTITY window.width "30em">
+<!ENTITY alertCustomization.intro "בחר אילו שדות יוצגו בחיווי ההתראה:">
+<!ENTITY previewText.label "טקסט תצוגה מקדימה">
+<!ENTITY previewText.accesskey "מ">
+<!ENTITY subject.label "נושא">
+<!ENTITY subject.accesskey "נ">
+<!ENTITY sender.label "שולח">
+<!ENTITY sender.accesskey "ש">

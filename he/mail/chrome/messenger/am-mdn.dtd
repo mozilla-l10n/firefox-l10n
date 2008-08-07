@@ -1,0 +1,26 @@
+<!ENTITY pane.title "קבלות חוזרות">
+<!ENTITY useGlobalPrefs.label "השתמש בהעדפות קבלות חוזרות הכלליות שלי עבור חשבון זה">
+<!ENTITY useGlobalPrefs.accesskey "U">
+<!ENTITY useCustomPrefs.label "התאם אישית קבלות חוזרות עבור חשבון זה">
+<!ENTITY useCustomPrefs.accesskey "C">
+<!ENTITY requestReceipt.label "בעת שליחת הודעות, בקש תמיד קבלה חוזרת">
+<!ENTITY requestReceipt.accesskey "W">
+<!ENTITY receiptArrive.label "כאשר קבלה מגיעה:">
+<!ENTITY leaveIt.label "השאר אותה בתיבת הדואר הנכנס שלי">
+<!ENTITY leaveIt.accesskey "I">
+<!ENTITY moveToSent.label "העבר אותה לתיקיית &quot;נשלח&quot; שלי">
+<!ENTITY moveToSent.accesskey "M">
+<!ENTITY requestMDN.label "כאשר אני מקבל בקשה לקבלה חוזרת:">
+<!ENTITY returnSome.label "הרשה קבלות חוזרות עבור הודעות מסויימות">
+<!ENTITY returnSome.accesskey "e">
+<!ENTITY never.label "לעולם אל תשלח קבלה חוזרת">
+<!ENTITY never.accesskey "N">
+<!ENTITY notInToCc.label "אם אינני נמען או מכותב של ההודעה:">
+<!ENTITY notInToCc.accesskey "T">
+<!ENTITY outsideDomain.label "אם השולח מחוץ למתחם שלי:">
+<!ENTITY outsideDomain.accesskey "s">
+<!ENTITY otherCases.label "בכל המקרים האחרים:">
+<!ENTITY otherCases.accesskey "o">
+<!ENTITY askMe.label "שאל אותי">
+<!ENTITY alwaysSend.label "שלח תמיד">
+<!ENTITY neverSend.label "אל תשלח לעולם">

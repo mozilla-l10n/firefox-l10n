@@ -1,0 +1,14 @@
+<!ENTITY FormAction.accesskey "A">
+<!ENTITY FormAction.label "URL של פעולה:">
+<!ENTITY FormEncType.accesskey "c">
+<!ENTITY FormEncType.label "קידוד:">
+<!ENTITY FormMethod.accesskey "M">
+<!ENTITY FormMethod.label "שיטה:">
+<!ENTITY FormName.accesskey "N">
+<!ENTITY FormName.label "שם טופס:">
+<!ENTITY FormTarget.accesskey "T">
+<!ENTITY FormTarget.label "מסגרת יעד:">
+<!ENTITY RemoveForm.accesskey "R">
+<!ENTITY RemoveForm.label "הסר טופס">
+<!ENTITY Settings.label "הגדרות">
+<!ENTITY windowTitle.label "תכונות טפסים">

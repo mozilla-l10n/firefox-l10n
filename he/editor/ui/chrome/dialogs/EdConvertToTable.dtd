@@ -1,0 +1,9 @@
+<!ENTITY collapseSpaces.label "התעלם מרווחים עודפים">
+<!ENTITY collapseSpaces.tooltip "המר מרווחים סמוכים למפריד אחד">
+<!ENTITY commaRadio.label "פסיק">
+<!ENTITY deleteCharCheck.label "מחק תו מפריד">
+<!ENTITY instructions1.label "Composer יוצר שורת טבלה חדשה לכל פסקה בקטע הנבחר.">
+<!ENTITY instructions2.label "בחר את התו המשמש להפריד את הקטע הנבחר לעמודות:">
+<!ENTITY otherRadio.label "תו אחר:">
+<!ENTITY spaceRadio.label "רווח">
+<!ENTITY windowTitle.label "המר לטבלה">

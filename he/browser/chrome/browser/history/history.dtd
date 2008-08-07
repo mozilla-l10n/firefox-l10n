@@ -1,0 +1,28 @@
+<!ENTITY bookmarkLink.accesskey "ר">
+<!ENTITY bookmarkLink.label "הוסף סימנייה לקישור זה...">
+<!ENTITY byDate.accesskey "ת">
+<!ENTITY byDate.label "לפי תאריך">
+<!ENTITY byDayAndSite.accesskey "ל">
+<!ENTITY byDayAndSite.label "לפי תאריך ואתר">
+<!ENTITY byLastVisited.accesskey "ב">
+<!ENTITY byLastVisited.label "לפי ביקור אחרון">
+<!ENTITY byMostVisited.accesskey "מ">
+<!ENTITY byMostVisited.label "לפי מספר הביקורים">
+<!ENTITY bySite.accesskey "א">
+<!ENTITY bySite.label "לפי אתר">
+<!ENTITY collapse.accesskey "צ">
+<!ENTITY collapse.label "צמצם">
+<!ENTITY copyLink.accesskey "ה">
+<!ENTITY copyLink.label "העתק מיקום קישור">
+<!ENTITY expand.accesskey "ר">
+<!ENTITY expand.label "הרחב">
+<!ENTITY find.accesskey "פ">
+<!ENTITY find.label "חפש:">
+<!ENTITY openInNewTab.accesskey "ל">
+<!ENTITY openInNewTab.label "פתח בלשונית חדשה">
+<!ENTITY openInNewWindow.accesskey "ב">
+<!ENTITY openInNewWindow.label "פתח בחלון חדש">
+<!ENTITY openLinkInWindow.accesskey "פ">
+<!ENTITY openLinkInWindow.label "פתח">
+<!ENTITY view.accesskey "ה">
+<!ENTITY view.label "הצג">

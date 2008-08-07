@@ -1,0 +1,13 @@
+<!ENTITY AddButton.accessKey "A">
+<!ENTITY AddButton.label "הוסף">
+<!ENTITY CloseButton.accessKey "C">
+<!ENTITY CloseButton.label "סגור">
+<!ENTITY DictionaryList.accessKey "W">
+<!ENTITY DictionaryList.label "מילים במילון:">
+<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY RemoveButton.label "הסר">
+<!ENTITY ReplaceButton.accessKey "R">
+<!ENTITY ReplaceButton.label "החלף">
+<!ENTITY windowTitle.label "מילון אישי">
+<!ENTITY wordEditField.accessKey "N">
+<!ENTITY wordEditField.label "מילה חדשה:">

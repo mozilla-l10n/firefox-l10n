@@ -1,0 +1,64 @@
+<!ENTITY fontsAndEncodingsDialog.title "גופנים וקידודים">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+<!ENTITY language.label "גופנים עבור:">
+<!ENTITY language.accesskey "ע">
+<!ENTITY typefaces.label "גופן">
+<!ENTITY sizes.label "גודל (פיקסלים)">
+<!ENTITY proportionalSize.accesskey "e">
+<!ENTITY monospaceSize.accesskey "x">
+<!ENTITY proportional.label "יחסי:">
+<!ENTITY proportional.accesskey "P">
+<!ENTITY serif.label "סריף:">
+<!ENTITY serif.accesskey "ס">
+<!ENTITY sans-serif.label "סאן־סריף:">
+<!ENTITY sans-serif.accesskey "ר">
+<!ENTITY monospace.label "רוחב קבוע:">
+<!ENTITY monospace.accesskey "ב">
+<!ENTITY fontsize.units "פיקסלים">
+<!ENTITY font.langGroup.latin1 "מערבי">
+<!ENTITY font.langGroup.latin2 "מרכז אירופי">
+<!ENTITY font.langGroup.japanese "יפנית">
+<!ENTITY font.langGroup.trad-chinese "סינית מסורתית (טיוואן)">
+<!ENTITY font.langGroup.simpl-chinese "סינית מפושטת">
+<!ENTITY font.langGroup.trad-chinese-hk "סינית מסורתית (הונג־קונג)">
+<!ENTITY font.langGroup.korean "קוריאנית">
+<!ENTITY font.langGroup.cyrillic "קירילי">
+<!ENTITY font.langGroup.baltic "באלטי">
+<!ENTITY font.langGroup.el "יוונית">
+<!ENTITY font.langGroup.turkish "תורכית">
+<!ENTITY font.langGroup.unicode "שפות אחרות">
+<!ENTITY font.langGroup.user-def "מוגדר על־ידי המשתמש">
+<!ENTITY font.langGroup.thai "תאילנדית">
+<!ENTITY font.langGroup.hebrew "עברית">
+<!ENTITY font.langGroup.arabic "ערבית">
+<!ENTITY font.langGroup.devanagari "דוונגרי">
+<!ENTITY font.langGroup.tamil "טמילית">
+<!ENTITY font.langGroup.armenian "ארמנית">
+<!ENTITY font.langGroup.bengali "בנגלית">
+<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
+<!ENTITY font.langGroup.ethiopic "אתיופית">
+<!ENTITY font.langGroup.georgian "גיאורגית">
+<!ENTITY font.langGroup.gujarati "Gujarati">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
+<!ENTITY font.langGroup.khmer "Khmer">
+<!ENTITY font.langGroup.malayalam "Malayalam">
+<!ENTITY minSize.label "גודל גופן מינימלי:">
+<!ENTITY minSize.accesskey "ג">
+<!ENTITY minSize.none "ללא">
+<!ENTITY useDefaultFontSerif.label "סריף">
+<!ENTITY useDefaultFontSansSerif.label "סאן־סריף">
+<!ENTITY newLanguages.label 'ניתן להוסיף שפות חדשות בעזרת הלוח "שפות".'>
+<!ENTITY useDocumentFonts.label "אפשר להודעות לבחור את הגופנים שלהם">
+<!ENTITY useDocumentFonts.accesskey "א">
+<!ENTITY sendDefaultCharset.label "דואר יוצא:">
+<!ENTITY sendDefaultCharset.accesskey "צ">
+<!ENTITY languagesTitle1.label "קידודי תווים">
+<!ENTITY composingDescription.label "קבע את קידוד התווים ברירת המחדל עבור קבלת ושליחת דואר">
+<!ENTITY viewDefaultCharsetList.label "דואר נכנס:">
+<!ENTITY viewDefaultCharsetList.accesskey "נ">
+<!ENTITY forceCharsetOverride.label "החל את קידוד התווים שבברירת המחדל עבור כל ההודעות הנכנסות">
+<!ENTITY forceCharsetOverride.accesskey "ח">
+<!ENTITY replyInDefaultCharset.label "השתמש בקידוד התווים ברירת המחדל בהשבות">
+<!ENTITY replyInDefaultCharset.accesskey "ה">

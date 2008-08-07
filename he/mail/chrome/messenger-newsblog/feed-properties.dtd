@@ -1,0 +1,12 @@
+<!ENTITY window.title "מאפייני הזנת נתונים">
+<!ENTITY feedFolder.label "אחסן מסמכים בתוך:">
+<!ENTITY feedFolder.accesskey "S">
+<!ENTITY feedLocation.label "URL הזנת נתונים:">
+<!ENTITY feedLocation.accesskey "F">
+<!ENTITY choosethisfolder.label "בחר תיקייה זו">
+<!ENTITY quickMode.label "הראה את תמצית המאמר במקום לטעון את דף האינטרנט">
+<!ENTITY quickMode.accesskey "h">
+<!ENTITY copyLinkCmd.label "העתק מיקום קישור">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY pasteLinkCmd.label "הדבק">
+<!ENTITY pasteLinkCmd.accesskey "P">

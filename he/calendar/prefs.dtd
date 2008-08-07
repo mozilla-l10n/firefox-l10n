@@ -1,0 +1,461 @@
+<!ENTITY calendar.accesskey "C">
+<!ENTITY calendar.alarms.label "התראות">
+<!ENTITY calendar.general.label "כללי">
+<!ENTITY calendar.label "יומן">
+<!ENTITY calendar.publish.label "פרסום">
+<!ENTITY calendar.timezone.label "איזור הזמן שלי">
+<!ENTITY calendar.views.label "תצוגות">
+<!ENTITY calendarPanel.label "יומן">
+<!ENTITY pref.alarm.off "מכובה">
+<!ENTITY pref.alarm.on "מופעלת">
+<!ENTITY pref.alarmbox.label "התראות">
+<!ENTITY pref.alarmgoesoff.label "בזמן התבצעות התראה:">
+<!ENTITY pref.calendar.timezone.caption "איזור זמן">
+<!ENTITY pref.calendar.timezone.label "איזור הזמן שלי">
+<!ENTITY pref.calendar.view.allview.caption "כללי">
+<!ENTITY pref.calendar.view.dayview.caption "תצוגת יום">
+<!ENTITY pref.calendar.view.endtime.label "זמן סיום:">
+<!ENTITY pref.calendar.view.monthview.caption "תצוגת חודש">
+<!ENTITY pref.calendar.view.multiweekview.caption "תצוגה רב-שבועית">
+<!ENTITY pref.calendar.view.restrict.label "הגבל תצוגות ל">
+<!ENTITY pref.calendar.view.starttime.label "זמן התחלה:">
+<!ENTITY pref.calendar.view.weekanddayview.caption "תצוגות שבוע ויום">
+<!ENTITY pref.calendar.view.weekview.caption "תצוגת שבוע">
+<!ENTITY pref.categories.add.prompt "הכנס את שם הקטגוריה">
+<!ENTITY pref.categories.add.title "הוסף קטגוריה">
+<!ENTITY pref.categories.edit.title "ערוך קטגוריה">
+<!ENTITY pref.categories.help.description "השתמש בפסיק בין כל קטגוריה שברצונך להוסיף">
+<!ENTITY pref.categories.label "קטגוריות">
+<!ENTITY pref.dateformat.label "תבנית תאריך:">
+<!ENTITY pref.dateformat.long "ארוך">
+<!ENTITY pref.dateformat.short "קצר">
+<!ENTITY pref.dateformat.storeingmt "אחסן תאריכים בזמן אוניברסלי">
+<!ENTITY pref.daysoff.label "יום (ימי) שבתון שבועיים:">
+<!ENTITY pref.defalarm4events.label "הגדרת ברירת מחדל להתראות של אירועים:">
+<!ENTITY pref.defalarm4todos.label "הגדרת ברירת מחדל להתראות של מטלות:">
+<!ENTITY pref.defalarmlen4events.label "זמן ברירת מחדל להתבצעות התראה לפני אירוע:">
+<!ENTITY pref.defalarmlen4todos.label "זמן ברירת מחדל להתבצעות התראה לפני מטלה:">
+<!ENTITY pref.defaultemail.label 'כתובת דוא"ל ברירת מחדל לשליחת התראות:'>
+<!ENTITY pref.defaultlength.label "אורך ברירת מחדל של אירוע:">
+<!ENTITY pref.defaultsnoozelength.label "זמן ברירת מחדל לזמן השהיית התראה:">
+<!ENTITY pref.defaulttext.label "טקסט ברירת מחדל של התרעות:">
+<!ENTITY pref.defaultzone.label "איזור זמן ברירת מחדל:">
+<!ENTITY pref.hour.00 "00:00">
+<!ENTITY pref.hour.01 "01:00">
+<!ENTITY pref.hour.02 "02:00">
+<!ENTITY pref.hour.03 "03:00">
+<!ENTITY pref.hour.04 "04:00">
+<!ENTITY pref.hour.05 "05:00">
+<!ENTITY pref.hour.06 "06:00">
+<!ENTITY pref.hour.07 "07:00">
+<!ENTITY pref.hour.08 "08:00">
+<!ENTITY pref.hour.09 "09:00">
+<!ENTITY pref.hour.10 "10:00">
+<!ENTITY pref.hour.11 "11:00">
+<!ENTITY pref.hour.12 "12:00">
+<!ENTITY pref.hour.13 "13:00">
+<!ENTITY pref.hour.14 "14:00">
+<!ENTITY pref.hour.15 "15:00">
+<!ENTITY pref.hour.16 "16:00">
+<!ENTITY pref.hour.17 "17:00">
+<!ENTITY pref.hour.18 "18:00">
+<!ENTITY pref.hour.19 "19:00">
+<!ENTITY pref.hour.20 "20:00">
+<!ENTITY pref.hour.21 "21:00">
+<!ENTITY pref.hour.22 "22:00">
+<!ENTITY pref.hour.23 "23:00">
+<!ENTITY pref.hour.help.description "התעלם אם אירועים נמצאים מחוץ לזמנים אלה">
+<!ENTITY pref.mainbox.label "הגדרות כלליות">
+<!ENTITY pref.minutes.label "דקות">
+<!ENTITY pref.missedalarms "הצג התראות שהוחמצו">
+<!ENTITY pref.numberofpreviousweeks.label "מספר השבועות הקודמים:">
+<!ENTITY pref.numberofweeks.0 "ללא">
+<!ENTITY pref.numberofweeks.1 "שבוע 1">
+<!ENTITY pref.numberofweeks.2 "2 שבועות">
+<!ENTITY pref.numberofweeks.3 "3 שבועות">
+<!ENTITY pref.numberofweeks.4 "4 שבועות">
+<!ENTITY pref.numberofweeks.5 "5 שבועות">
+<!ENTITY pref.numberofweeks.6 "6 שבועות">
+<!ENTITY pref.numberofweeks.label "מספר ברירת מחדל של שבועות:">
+<!ENTITY pref.playasound "נגן צליל">
+<!ENTITY pref.publish.caption "הגדרות פרסום">
+<!ENTITY pref.publish.path.label "שם ברירת מחדל לקובץ מרוחק">
+<!ENTITY pref.reloadonlaunch "טען מחדש יומנים מרוחקים בהפעלה.">
+<!ENTITY pref.showalarmbox "הצג תיבת התראה.">
+<!ENTITY pref.timezone.Africa.Abidjan "אפריקה/אביג'ן">
+<!ENTITY pref.timezone.Africa.Accra "אפריקה/אקרה">
+<!ENTITY pref.timezone.Africa.Addis_Ababa "אפריקה/אדיס_אבבה">
+<!ENTITY pref.timezone.Africa.Algiers "אפריקה/אלג'יר">
+<!ENTITY pref.timezone.Africa.Asmera "אפרירקה/אסמרה">
+<!ENTITY pref.timezone.Africa.Bamako "אפריקה/באמאקו">
+<!ENTITY pref.timezone.Africa.Bangui "אפריקה/בנגוי">
+<!ENTITY pref.timezone.Africa.Banjul "אפריקה/בנג'ול">
+<!ENTITY pref.timezone.Africa.Bissau "אפריקה/ביסאו">
+<!ENTITY pref.timezone.Africa.Blantyre "אפריקה/בלנטיר">
+<!ENTITY pref.timezone.Africa.Brazzaville "אפריקה/ברזוויל">
+<!ENTITY pref.timezone.Africa.Bujumbura "אפריקה/בוג'ומבורה">
+<!ENTITY pref.timezone.Africa.Cairo "אפריקה/קהיר">
+<!ENTITY pref.timezone.Africa.Casablanca "אפריקה/קזבלנקה">
+<!ENTITY pref.timezone.Africa.Ceuta "אפריקה/קאוטה">
+<!ENTITY pref.timezone.Africa.Conakry "אפריקה/סונקרי">
+<!ENTITY pref.timezone.Africa.Dakar "אפריקה/דקר">
+<!ENTITY pref.timezone.Africa.Dar_es_Salaam "אפריקה/דאר_אל_סאלם">
+<!ENTITY pref.timezone.Africa.Djibouti "אפריקה/דג'יבוטי">
+<!ENTITY pref.timezone.Africa.Douala "אפריקה/דואלה">
+<!ENTITY pref.timezone.Africa.El_Aaiun "אפריקה/אל_עווין">
+<!ENTITY pref.timezone.Africa.Freetown "אפריקה/פריטאון">
+<!ENTITY pref.timezone.Africa.Gaborone "אפריקה/גבורון">
+<!ENTITY pref.timezone.Africa.Harare "אפריקה/הררה">
+<!ENTITY pref.timezone.Africa.Johannesburg "אפריקה/יוהנסבורג">
+<!ENTITY pref.timezone.Africa.Kampala "אפריקה/קמפלה">
+<!ENTITY pref.timezone.Africa.Khartoum "אפריקה/חרטום">
+<!ENTITY pref.timezone.Africa.Kigali "אפריקה/קיגלי">
+<!ENTITY pref.timezone.Africa.Kinshasa "אפריקה/קינשסה">
+<!ENTITY pref.timezone.Africa.Lagos "אפריקה/לאגוס">
+<!ENTITY pref.timezone.Africa.Libreville "אפריקה/ליברוויל">
+<!ENTITY pref.timezone.Africa.Lome "אפריקה/לומה">
+<!ENTITY pref.timezone.Africa.Luanda "אפריקה/לואנדה">
+<!ENTITY pref.timezone.Africa.Lubumbashi "אפריקה/לובומבשי">
+<!ENTITY pref.timezone.Africa.Lusaka "אפריקה/לוסקה">
+<!ENTITY pref.timezone.Africa.Malabo "אפריקה/מאלבו">
+<!ENTITY pref.timezone.Africa.Maputo "אפריקה/מפוטו">
+<!ENTITY pref.timezone.Africa.Maseru "אפריקה/מזרו">
+<!ENTITY pref.timezone.Africa.Mbabane "אפריקה/מבבנה">
+<!ENTITY pref.timezone.Africa.Mogadishu "אפריקה/מוגדישו">
+<!ENTITY pref.timezone.Africa.Monrovia "אפריקה/מונרוביה">
+<!ENTITY pref.timezone.Africa.Nairobi "אפריקה/נאירובי">
+<!ENTITY pref.timezone.Africa.Ndjamena "אפריקה/נדג'מנה">
+<!ENTITY pref.timezone.Africa.Niamey "אפריקה/ניאמיי">
+<!ENTITY pref.timezone.Africa.Nouakchott "אפריקה/נואקשוט">
+<!ENTITY pref.timezone.Africa.Ouagadougou "אפריקה/אוגדוגו">
+<!ENTITY pref.timezone.Africa.Porto-Novo "אפריקה/פורטו-נובו">
+<!ENTITY pref.timezone.Africa.Sao_Tome "אפריקה/סאו_טום">
+<!ENTITY pref.timezone.Africa.Timbuktu "אפריקה/טימבוקטו">
+<!ENTITY pref.timezone.Africa.Tripoli "אפריקה/טריפולי">
+<!ENTITY pref.timezone.Africa.Tunis "אפריקה/תוניס">
+<!ENTITY pref.timezone.Africa.Windhoek "אפריקה/וינדהוק">
+<!ENTITY pref.timezone.America.Adak "אמריקה/אדק">
+<!ENTITY pref.timezone.America.Anchorage "אמריקה/אנקורג'">
+<!ENTITY pref.timezone.America.Anguilla "אמריקה/אנגווילה">
+<!ENTITY pref.timezone.America.Antigua "אמריקה/אנטיגואה">
+<!ENTITY pref.timezone.America.Araguaina "אמריקה/ארגואיינה">
+<!ENTITY pref.timezone.America.Aruba "אמריקה/ארובה">
+<!ENTITY pref.timezone.America.Asuncion "אמריקה/אסונסיון">
+<!ENTITY pref.timezone.America.Barbados "אמריקה/ברבדוס">
+<!ENTITY pref.timezone.America.Belem "אמריקה/בלם">
+<!ENTITY pref.timezone.America.Belize "אמריקה/בליז">
+<!ENTITY pref.timezone.America.Boa_Vista "אמריקה/בואה_ויסטה">
+<!ENTITY pref.timezone.America.Bogota "אמריקה/בוגוטה">
+<!ENTITY pref.timezone.America.Boise "אמריקה/בוייזי">
+<!ENTITY pref.timezone.America.Buenos_Aires "אמריקה/בואנוס_איירס">
+<!ENTITY pref.timezone.America.Cambridge_Bay "אמריקה/קיימברידג'_ביי">
+<!ENTITY pref.timezone.America.Cancun "אמריקה/קנקון">
+<!ENTITY pref.timezone.America.Caracas "אמריקה/קרקס">
+<!ENTITY pref.timezone.America.Catamarca "אמריקה/קטמרקה">
+<!ENTITY pref.timezone.America.Cayenne "אמריקה/קיינה">
+<!ENTITY pref.timezone.America.Cayman "אמריקה/קיימן">
+<!ENTITY pref.timezone.America.Chicago "אמריקה/שיקאגו">
+<!ENTITY pref.timezone.America.Chihuahua "אמריקה/צ'יוואווה">
+<!ENTITY pref.timezone.America.Cordoba "אמריקה/קורדובה">
+<!ENTITY pref.timezone.America.Costa_Rica "אמריקה/קוסטה ריקה">
+<!ENTITY pref.timezone.America.Cuiaba "אמריקה/קויאבה">
+<!ENTITY pref.timezone.America.Curacao "אמריקה/קורסאו">
+<!ENTITY pref.timezone.America.Dawson "אמריקה/דוסון">
+<!ENTITY pref.timezone.America.Dawson_Creek "אמריקה/דוסון_קריק">
+<!ENTITY pref.timezone.America.Denver "אמריקה/דנבר">
+<!ENTITY pref.timezone.America.Detroit "אמריקה/דטרויט">
+<!ENTITY pref.timezone.America.Dominica "אמריקה/דומיניקיה">
+<!ENTITY pref.timezone.America.Edmonton "אמריקה/אדמונטון">
+<!ENTITY pref.timezone.America.Eirunepe "אמריקה/אירונפה">
+<!ENTITY pref.timezone.America.El_Salvador "אמריקה/אל_סלבדור">
+<!ENTITY pref.timezone.America.Fortaleza "אמריקה/פורטלזה">
+<!ENTITY pref.timezone.America.Glace_Bay "אמריקה/גלייס_ביי">
+<!ENTITY pref.timezone.America.Godthab "אמריקה/גודטאב">
+<!ENTITY pref.timezone.America.Goose_Bay "אמריקה/גוס_ביי">
+<!ENTITY pref.timezone.America.Grand_Turk "אמריקה/גרנד_טורק">
+<!ENTITY pref.timezone.America.Grenada "אמריקה/גרנדה">
+<!ENTITY pref.timezone.America.Guadeloupe "אמריקה/גוואדלופ">
+<!ENTITY pref.timezone.America.Guatemala "אמריקה/גואטמלה">
+<!ENTITY pref.timezone.America.Guayaquil "אמריקה/גויאקוויל">
+<!ENTITY pref.timezone.America.Guyana "אמריקה/גיאנה">
+<!ENTITY pref.timezone.America.Halifax "אמריקה/הליפקס">
+<!ENTITY pref.timezone.America.Havana "אמריקה/האוונה">
+<!ENTITY pref.timezone.America.Hermosillo "אמריקה/הרמוסילו">
+<!ENTITY pref.timezone.America.Indiana.Indianapolis "אמריקה/אינדיאנה/אינדיאנפוליס">
+<!ENTITY pref.timezone.America.Indiana.Knox "אמריקה/אינדיאנה/נוקס">
+<!ENTITY pref.timezone.America.Indiana.Marengo "אמריקה/אינדיאנה/מרנגו">
+<!ENTITY pref.timezone.America.Indiana.Vevay "אמריקה/אינדיאנה/וואיי">
+<!ENTITY pref.timezone.America.Indianapolis "אמריקה/אינדיאנפוליס">
+<!ENTITY pref.timezone.America.Inuvik "אמריקה/אינוביק">
+<!ENTITY pref.timezone.America.Iqaluit "אמריקה/איקלויט">
+<!ENTITY pref.timezone.America.Jamaica "אמריקה/ג'מייקה">
+<!ENTITY pref.timezone.America.Jujuy "אמריקה/חוחוי">
+<!ENTITY pref.timezone.America.Juneau "אמריקה/ג'ונו">
+<!ENTITY pref.timezone.America.Kentucky.Louisville "אמריקה/קנטקי/לואיסוויל">
+<!ENTITY pref.timezone.America.Kentucky.Monticello "אמריקה/קנטקי/מונטיסלו">
+<!ENTITY pref.timezone.America.La_Paz "אמריקה/לה_פאס">
+<!ENTITY pref.timezone.America.Lima "אמריקה/לימה">
+<!ENTITY pref.timezone.America.Los_Angeles "אמריקה/לוס_אנג'לס">
+<!ENTITY pref.timezone.America.Louisville "אמריקה/לואיסוויל">
+<!ENTITY pref.timezone.America.Maceio "אמריקה/מסיו">
+<!ENTITY pref.timezone.America.Managua "אמריקה/מנאגואה">
+<!ENTITY pref.timezone.America.Manaus "אמריקה/מנאוס">
+<!ENTITY pref.timezone.America.Martinique "אמריקה/מרטיניק">
+<!ENTITY pref.timezone.America.Mazatlan "אמריקה/מזטלן">
+<!ENTITY pref.timezone.America.Mendoza "אמריקה/מנדוזה">
+<!ENTITY pref.timezone.America.Menominee "אמריקה/מנומיני">
+<!ENTITY pref.timezone.America.Merida "אמריקה/מרידה">
+<!ENTITY pref.timezone.America.Mexico_City "אמריקה/מקסיקו_סיטי">
+<!ENTITY pref.timezone.America.Miquelon "אמריקה/מיקלון">
+<!ENTITY pref.timezone.America.Monterrey "אמריקה/מונטריי">
+<!ENTITY pref.timezone.America.Montevideo "אמריקה/מונטבידאו">
+<!ENTITY pref.timezone.America.Montreal "אמריקה/מונטריאול">
+<!ENTITY pref.timezone.America.Montserrat "אמריקה/מונסראט">
+<!ENTITY pref.timezone.America.Nassau "אמריקה/נסאו">
+<!ENTITY pref.timezone.America.New_York "אמריקה/ניו_יורק">
+<!ENTITY pref.timezone.America.Nipigon "אמריקה/נפיו">
+<!ENTITY pref.timezone.America.Nome "אמריקה/נומה">
+<!ENTITY pref.timezone.America.Noronha "אמריקה/נורוניה">
+<!ENTITY pref.timezone.America.Panama "אמריקה/פנמה">
+<!ENTITY pref.timezone.America.Pangnirtung "אמריקה/פנגנירטונג">
+<!ENTITY pref.timezone.America.Paramaribo "אמריקה/פרמריבו">
+<!ENTITY pref.timezone.America.Phoenix "אמריקה/פיניקס">
+<!ENTITY pref.timezone.America.Port-au-Prince "אמריקה/פורט-או-פרינס">
+<!ENTITY pref.timezone.America.Port_of_Spain "אמריקה/פורט_אוף_ספיין">
+<!ENTITY pref.timezone.America.Porto_Velho "אמריקה/פורט_וליו">
+<!ENTITY pref.timezone.America.Puerto_Rico "אמריקה/פורטו_ריקו">
+<!ENTITY pref.timezone.America.Rainy_River "אמריקה/רייני_ריבר">
+<!ENTITY pref.timezone.America.Rankin_Inlet "אמריקה/רנקין_אינלט">
+<!ENTITY pref.timezone.America.Recife "אמריקה/רציפה">
+<!ENTITY pref.timezone.America.Regina "אמריקה/רג'ינה">
+<!ENTITY pref.timezone.America.Rio_Branco "אמריקה/ריו_ברנקו">
+<!ENTITY pref.timezone.America.Rosario "אמריקה/רוסריו">
+<!ENTITY pref.timezone.America.Santiago "אמריקה/סנטיאגו">
+<!ENTITY pref.timezone.America.Santo_Domingo "אמריקה/סנטו_דומינגו">
+<!ENTITY pref.timezone.America.Sao_Paulo "אמריקה/סאו_פאולו">
+<!ENTITY pref.timezone.America.Scoresbysund "אמריקה/סקורס_סונד">
+<!ENTITY pref.timezone.America.Shiprock "אמריקה/שיפרוק">
+<!ENTITY pref.timezone.America.St_Johns "אמריקה/סנט_ג'ונס">
+<!ENTITY pref.timezone.America.St_Kitts "אמריקה/סנט_קיטס">
+<!ENTITY pref.timezone.America.St_Lucia "אמריקה/סנט_לושיה">
+<!ENTITY pref.timezone.America.St_Thomas "אמריקה/סנט_תומאס">
+<!ENTITY pref.timezone.America.St_Vincent "אמריקה/סנט_וינסנט">
+<!ENTITY pref.timezone.America.Swift_Current "אמריקה/סוויפט_קרנט">
+<!ENTITY pref.timezone.America.Tegucigalpa "אמריקה/טגוצ'יגלפה">
+<!ENTITY pref.timezone.America.Thule "אמריקה/טולה">
+<!ENTITY pref.timezone.America.Thunder_Bay "אמריקה/ת'הנדר_בירד">
+<!ENTITY pref.timezone.America.Tijuana "אמריקה/טיחואנה">
+<!ENTITY pref.timezone.America.Tortola "אמריקה/טורטולה">
+<!ENTITY pref.timezone.America.Vancouver "אמריקה/ונקובר">
+<!ENTITY pref.timezone.America.Whitehorse "אמריקה/וויטהורס">
+<!ENTITY pref.timezone.America.Winnipeg "אמריקה/וויניפג">
+<!ENTITY pref.timezone.America.Yakutat "אמריקה/יאקוטת">
+<!ENTITY pref.timezone.America.Yellowknife "אמריקה/ילונייף">
+<!ENTITY pref.timezone.Antarctica.Casey "אנטרקטיקה/קייסי">
+<!ENTITY pref.timezone.Antarctica.Davis "אנטרקטיקה/דיוויס">
+<!ENTITY pref.timezone.Antarctica.DumontDUrville "אנטרקטיקה/דומונט_ארוויל">
+<!ENTITY pref.timezone.Antarctica.Mawson "אנטרקטיקה/מוסון">
+<!ENTITY pref.timezone.Antarctica.McMurdo "אנטרקטיקה/מקמורדו">
+<!ENTITY pref.timezone.Antarctica.Palmer "אנטרקטיקה/פלמר">
+<!ENTITY pref.timezone.Antarctica.South_Pole "אנטרקטיקה/הקוטב_הדרומי">
+<!ENTITY pref.timezone.Antarctica.Syowa "אנטרקטיקה/סייווה">
+<!ENTITY pref.timezone.Antarctica.Vostok "אנטרקטיקה/ווסטוק">
+<!ENTITY pref.timezone.Arctic.Longyearbyen "ארקטי/לונגיירניין">
+<!ENTITY pref.timezone.Asia.Aden "אסיה/עדן">
+<!ENTITY pref.timezone.Asia.Almaty "אסיה/אלמטי">
+<!ENTITY pref.timezone.Asia.Amman "אסיה/עמאן">
+<!ENTITY pref.timezone.Asia.Anadyr "אסיה/אנדיר">
+<!ENTITY pref.timezone.Asia.Aqtau "אסיה/אקטאו">
+<!ENTITY pref.timezone.Asia.Aqtobe "אסיה/אקטובי">
+<!ENTITY pref.timezone.Asia.Ashgabat "אסיה/אשגבט">
+<!ENTITY pref.timezone.Asia.Baghdad "אסיה/בגדד">
+<!ENTITY pref.timezone.Asia.Bahrain "אסיה/בחריין">
+<!ENTITY pref.timezone.Asia.Baku "אסיה/בקו">
+<!ENTITY pref.timezone.Asia.Bangkok "אסיה/בנקוק">
+<!ENTITY pref.timezone.Asia.Beirut "אסיה/ביירות">
+<!ENTITY pref.timezone.Asia.Bishkek "אסיה/בישקק">
+<!ENTITY pref.timezone.Asia.Brunei "אסיה/ברוניי">
+<!ENTITY pref.timezone.Asia.Calcutta "אסיה/כלכותא">
+<!ENTITY pref.timezone.Asia.Chungking "אסיה/צ'נקינג">
+<!ENTITY pref.timezone.Asia.Colombo "אסיה/קולומבו">
+<!ENTITY pref.timezone.Asia.Damascus "אסיה/דמשק">
+<!ENTITY pref.timezone.Asia.Dhaka "אסיה/דאקה">
+<!ENTITY pref.timezone.Asia.Dili "אסיה/דילי">
+<!ENTITY pref.timezone.Asia.Dubai "אסיה/דובאיי">
+<!ENTITY pref.timezone.Asia.Dushanbe "אסיה/דושנבה">
+<!ENTITY pref.timezone.Asia.Gaza "אסיה/עזה">
+<!ENTITY pref.timezone.Asia.Harbin "אסיה/חרבין">
+<!ENTITY pref.timezone.Asia.Hong_Kong "אסיה/הונג_קונג">
+<!ENTITY pref.timezone.Asia.Hovd "אסיה/הובד">
+<!ENTITY pref.timezone.Asia.Irkutsk "אסיה/אירקוטסק">
+<!ENTITY pref.timezone.Asia.Istanbul "אסיה/איסטנבול">
+<!ENTITY pref.timezone.Asia.Jakarta "אסיה/ג'קרטה">
+<!ENTITY pref.timezone.Asia.Jayapura "אסיה/ג'ייפורה">
+<!ENTITY pref.timezone.Asia.Jerusalem "אסיה/ירושלים">
+<!ENTITY pref.timezone.Asia.Kabul "אסיה/קאבול">
+<!ENTITY pref.timezone.Asia.Kamchatka "אסיה/קמצ'טקה">
+<!ENTITY pref.timezone.Asia.Karachi "אסיה/קראשי">
+<!ENTITY pref.timezone.Asia.Kashgar "אסיה/קשגר">
+<!ENTITY pref.timezone.Asia.Katmandu "אסיה/קטמנדו">
+<!ENTITY pref.timezone.Asia.Krasnoyarsk "אסיה/קרסנויארסק">
+<!ENTITY pref.timezone.Asia.Kuala_Lumpur "אסיה/קואלה_לומפור">
+<!ENTITY pref.timezone.Asia.Kuching "אסיה/קושינג">
+<!ENTITY pref.timezone.Asia.Kuwait "אסיה/כווית">
+<!ENTITY pref.timezone.Asia.Macao "אסיה/מקאו">
+<!ENTITY pref.timezone.Asia.Magadan "אסיה/מגדן">
+<!ENTITY pref.timezone.Asia.Manila "אסיה/מנילה">
+<!ENTITY pref.timezone.Asia.Muscat "אסיה/מוסקט">
+<!ENTITY pref.timezone.Asia.Nicosia "אסיה/ניקוסיה">
+<!ENTITY pref.timezone.Asia.Novosibirsk "אסיה/נובוסיבירסק">
+<!ENTITY pref.timezone.Asia.Omsk "אסיה/אומסק">
+<!ENTITY pref.timezone.Asia.Phnom_Penh "אסיה/פנום_פן">
+<!ENTITY pref.timezone.Asia.Pontianak "אסיה/פונטיאנק">
+<!ENTITY pref.timezone.Asia.Pyongyang "אסיה/פיונגיאנג">
+<!ENTITY pref.timezone.Asia.Qatar "אסיה/קטאר">
+<!ENTITY pref.timezone.Asia.Rangoon "אסיה/רנגון">
+<!ENTITY pref.timezone.Asia.Riyadh "אסיה/ריאד">
+<!ENTITY pref.timezone.Asia.Saigon "אסיה/סייגון">
+<!ENTITY pref.timezone.Asia.Samarkand "אסיה/סמרקנד">
+<!ENTITY pref.timezone.Asia.Seoul "אסיה/סיאול">
+<!ENTITY pref.timezone.Asia.Shanghai "אסיה/שנחאי">
+<!ENTITY pref.timezone.Asia.Singapore "אסיה/סינגפור">
+<!ENTITY pref.timezone.Asia.Taipei "אסיה/טאיפה">
+<!ENTITY pref.timezone.Asia.Tashkent "אסיה/טשקנט">
+<!ENTITY pref.timezone.Asia.Tbilisi "אסיה/טביליסי">
+<!ENTITY pref.timezone.Asia.Tehran "אסיה/טהרן">
+<!ENTITY pref.timezone.Asia.Thimphu "אסיה/טימפו">
+<!ENTITY pref.timezone.Asia.Tokyo "אסיה/טוקיו">
+<!ENTITY pref.timezone.Asia.Ujung_Pandang "אסיה/אוג'ונג_פנדנג">
+<!ENTITY pref.timezone.Asia.Ulaanbaatar "אסיה/אולן_בטאר">
+<!ENTITY pref.timezone.Asia.Urumqi "אסיה/אורומקי">
+<!ENTITY pref.timezone.Asia.Vientiane "אסיה/ויינטיאנה">
+<!ENTITY pref.timezone.Asia.Vladivostok "אסיה/ולדיבוסטוק">
+<!ENTITY pref.timezone.Asia.Yakutsk "אסיה/יאקוטסק">
+<!ENTITY pref.timezone.Asia.Yekaterinburg "אסיה/יקטרינבורג">
+<!ENTITY pref.timezone.Asia.Yerevan "אסיה/ירבאן">
+<!ENTITY pref.timezone.Atlantic.Azores "אטלנטי/אזוריים">
+<!ENTITY pref.timezone.Atlantic.Bermuda "אטלנטי/ברמודה">
+<!ENTITY pref.timezone.Atlantic.Canary "אטלנטי/קנרי">
+<!ENTITY pref.timezone.Atlantic.Cape_Verde "אטלנטי/כף_ורדה">
+<!ENTITY pref.timezone.Atlantic.Faeroe "אטלנטי/פארו">
+<!ENTITY pref.timezone.Atlantic.Jan_Mayen "אטלנטי/ג'אן_מיין">
+<!ENTITY pref.timezone.Atlantic.Madeira "אטלנטי/מדיירה">
+<!ENTITY pref.timezone.Atlantic.Reykjavik "אטלנטי/רייקיאוויק">
+<!ENTITY pref.timezone.Atlantic.South_Georgia "אטלנטי/דרום_ג'ורג'יה">
+<!ENTITY pref.timezone.Atlantic.St_Helena "אטלנטי/סנט_הלנה">
+<!ENTITY pref.timezone.Atlantic.Stanley "אטלנטי/סטנלי">
+<!ENTITY pref.timezone.Australia.Adelaide "אוסטרליה/אדליידה">
+<!ENTITY pref.timezone.Australia.Brisbane "אוסטרליה/בריסבנה">
+<!ENTITY pref.timezone.Australia.Broken_Hill "אוסטרליה/ברוקן_היל">
+<!ENTITY pref.timezone.Australia.Darwin "אוסטרליה/דארווין">
+<!ENTITY pref.timezone.Australia.Hobart "אוסטרליה/הוברט">
+<!ENTITY pref.timezone.Australia.Lindeman "אוסטרליה/לינדמן">
+<!ENTITY pref.timezone.Australia.Lord_Howe "אוסטרליה/לורד_הואו">
+<!ENTITY pref.timezone.Australia.Melbourne "אוסטרליה/מלבורן">
+<!ENTITY pref.timezone.Australia.Perth "אוסטרליה/פרת'">
+<!ENTITY pref.timezone.Australia.Sydney "אוסטרליה/סידני">
+<!ENTITY pref.timezone.Europe.Amsterdam "אירופה/אמסטרדם">
+<!ENTITY pref.timezone.Europe.Andorra "אירופה/אמסטרדם">
+<!ENTITY pref.timezone.Europe.Athens "אירופה/אתונה">
+<!ENTITY pref.timezone.Europe.Belfast "אירופה/בלפסט">
+<!ENTITY pref.timezone.Europe.Belgrade "אירופה/בלגרד">
+<!ENTITY pref.timezone.Europe.Berlin "אירופה/ברלין">
+<!ENTITY pref.timezone.Europe.Bratislava "אירופה/ברטיסלבה">
+<!ENTITY pref.timezone.Europe.Brussels "אירופה/בריסל">
+<!ENTITY pref.timezone.Europe.Bucharest "אירופה/בוקרשט">
+<!ENTITY pref.timezone.Europe.Budapest "אירופה/בודפסט">
+<!ENTITY pref.timezone.Europe.Chisinau "אירופה/קישינב">
+<!ENTITY pref.timezone.Europe.Copenhagen "אירופה/קופנהגן">
+<!ENTITY pref.timezone.Europe.Dublin "אירופה/דאבלין">
+<!ENTITY pref.timezone.Europe.Gibraltar "אירופה/גיברלטר">
+<!ENTITY pref.timezone.Europe.Helsinki "אירופה/הלסינקי">
+<!ENTITY pref.timezone.Europe.Istanbul "אירופה/איסטנבול">
+<!ENTITY pref.timezone.Europe.Kaliningrad "אירופה/קלינינגרד">
+<!ENTITY pref.timezone.Europe.Kiev "אירופה/קייב">
+<!ENTITY pref.timezone.Europe.Lisbon "אירופה/ליסבון">
+<!ENTITY pref.timezone.Europe.Ljubljana "אירופה/לובליאנה">
+<!ENTITY pref.timezone.Europe.London "אירופה/לונדון">
+<!ENTITY pref.timezone.Europe.Luxembourg "אירופה/לוקסמבורג">
+<!ENTITY pref.timezone.Europe.Madrid "אירופה/מדריד">
+<!ENTITY pref.timezone.Europe.Malta "אירופה/מלטה">
+<!ENTITY pref.timezone.Europe.Minsk "אירופה/מינסק">
+<!ENTITY pref.timezone.Europe.Monaco "אירופה/מונקו">
+<!ENTITY pref.timezone.Europe.Moscow "אירופה/מוסקבה">
+<!ENTITY pref.timezone.Europe.Nicosia "אירופה/ניקוסיה">
+<!ENTITY pref.timezone.Europe.Oslo "אירופה/אוסלו">
+<!ENTITY pref.timezone.Europe.Paris "אירופה/פריס">
+<!ENTITY pref.timezone.Europe.Prague "אירופה/פראג">
+<!ENTITY pref.timezone.Europe.Riga "אירופה/ריגה">
+<!ENTITY pref.timezone.Europe.Rome "אירופה/רומא">
+<!ENTITY pref.timezone.Europe.Samara "אירופה/סמרה">
+<!ENTITY pref.timezone.Europe.San_Marino "אירופה/סן_מרינו">
+<!ENTITY pref.timezone.Europe.Sarajevo "אירופה/סרייבו">
+<!ENTITY pref.timezone.Europe.Simferopol "אירופה/סימפרופול">
+<!ENTITY pref.timezone.Europe.Skopje "אירופה/סקופיה">
+<!ENTITY pref.timezone.Europe.Sofia "אירופה/סופיה">
+<!ENTITY pref.timezone.Europe.Stockholm "אירופה/שטוקהולם">
+<!ENTITY pref.timezone.Europe.Tallinn "אירופה/טאלין">
+<!ENTITY pref.timezone.Europe.Tirane "אירופה/טירנה">
+<!ENTITY pref.timezone.Europe.Uzhgorod "אירופה/אוזגורוד">
+<!ENTITY pref.timezone.Europe.Vaduz "אירופה/ואדוז">
+<!ENTITY pref.timezone.Europe.Vatican "אירופה/ותיקן">
+<!ENTITY pref.timezone.Europe.Vienna "אירופה/וינה">
+<!ENTITY pref.timezone.Europe.Vilnius "אירופה/וילנה">
+<!ENTITY pref.timezone.Europe.Warsaw "אירופה/וורשה">
+<!ENTITY pref.timezone.Europe.Zagreb "אירופה/זאגרב">
+<!ENTITY pref.timezone.Europe.Zaporozhye "אירופה/זאפורוז'יה">
+<!ENTITY pref.timezone.Europe.Zurich "אירופה/ציריך">
+<!ENTITY pref.timezone.Indian.Antananarivo "הודי/אנטננריבו">
+<!ENTITY pref.timezone.Indian.Chagos "הודי/שאגוס">
+<!ENTITY pref.timezone.Indian.Christmas "הודי/קריסמס">
+<!ENTITY pref.timezone.Indian.Cocos "הודי/קוקוס">
+<!ENTITY pref.timezone.Indian.Comoro "הודי/קומורו">
+<!ENTITY pref.timezone.Indian.Kerguelen "הודי/קרגואלן">
+<!ENTITY pref.timezone.Indian.Mahe "הודי/מאהה">
+<!ENTITY pref.timezone.Indian.Maldives "הודי/מלדיבס">
+<!ENTITY pref.timezone.Indian.Mauritius "הודי/מאוריציוס">
+<!ENTITY pref.timezone.Indian.Mayotte "הודי/מייבוטה">
+<!ENTITY pref.timezone.Indian.Reunion "הודי/ראוניון">
+<!ENTITY pref.timezone.Pacific.Apia "פסיפי/אפיה">
+<!ENTITY pref.timezone.Pacific.Auckland "פסיפי/אוקלנד">
+<!ENTITY pref.timezone.Pacific.Chatham "פסיפי/צ'טהם">
+<!ENTITY pref.timezone.Pacific.Easter "פסיפי/איסטר">
+<!ENTITY pref.timezone.Pacific.Efate "פסיפי/אפט">
+<!ENTITY pref.timezone.Pacific.Enderbury "פסיפי/אנדרברי">
+<!ENTITY pref.timezone.Pacific.Fakaofo "פסיפי/פקאופו">
+<!ENTITY pref.timezone.Pacific.Fiji "פסיפי/פיג'י">
+<!ENTITY pref.timezone.Pacific.Funafuti "פסיפי/פונפוטי">
+<!ENTITY pref.timezone.Pacific.Galapagos "פסיפי/גלפגוס">
+<!ENTITY pref.timezone.Pacific.Gambier "פסיפי/גמבייר">
+<!ENTITY pref.timezone.Pacific.Guadalcanal "פסיפי/גואדלקנל">
+<!ENTITY pref.timezone.Pacific.Guam "פסיפי/גואם">
+<!ENTITY pref.timezone.Pacific.Honolulu "פסיפי/הונולולו">
+<!ENTITY pref.timezone.Pacific.Johnston "פסיפי/יונסטון">
+<!ENTITY pref.timezone.Pacific.Kiritimati "פסיפי/קיריטימטי">
+<!ENTITY pref.timezone.Pacific.Kosrae "פסיפי/קוסראה">
+<!ENTITY pref.timezone.Pacific.Kwajalein "פסיפי/קוולג'לין">
+<!ENTITY pref.timezone.Pacific.Majuro "פסיפי/מג'ורו">
+<!ENTITY pref.timezone.Pacific.Marquesas "פסיפי/מרקסס">
+<!ENTITY pref.timezone.Pacific.Midway "פסיפי/מידווי">
+<!ENTITY pref.timezone.Pacific.Nauru "פסיפי/נאורו">
+<!ENTITY pref.timezone.Pacific.Niue "פסיפי/ניואה">
+<!ENTITY pref.timezone.Pacific.Norfolk "פסיפי/נורפולק">
+<!ENTITY pref.timezone.Pacific.Noumea "פסיפי/נואמאה">
+<!ENTITY pref.timezone.Pacific.Pago_Pago "פסיפי/פאגו_פאגו">
+<!ENTITY pref.timezone.Pacific.Palau "פסיפי/פלאו">
+<!ENTITY pref.timezone.Pacific.Pitcairn "פסיפי/פיטקאירן">
+<!ENTITY pref.timezone.Pacific.Ponape "פסיפי/פונפה">
+<!ENTITY pref.timezone.Pacific.Port_Moresby "פסיפי/פורט_מורסביי">
+<!ENTITY pref.timezone.Pacific.Rarotonga "פסיפי/רארוטונגה">
+<!ENTITY pref.timezone.Pacific.Saipan "פסיפי/סייפן">
+<!ENTITY pref.timezone.Pacific.Tahiti "פסיפי/טהיטי">
+<!ENTITY pref.timezone.Pacific.Tarawa "פסיפי/טראווה">
+<!ENTITY pref.timezone.Pacific.Tongatapu "פסיפי/טונגטפו">
+<!ENTITY pref.timezone.Pacific.Truk "פסיפי/טרוק">
+<!ENTITY pref.timezone.Pacific.Wake "פסיפי/ווייק">
+<!ENTITY pref.timezone.Pacific.Wallis "פסיפי/ווליס">
+<!ENTITY pref.timezone.Pacific.Yap "פסיפי/יאפ">
+<!ENTITY pref.weekstarts.label "היום הראשון של השבוע:">
+<!ENTITY prefWindow.category "קטגוריה">
+<!ENTITY prefWindow.size "width: 52.3em; height: 41em;">
+<!ENTITY prefWindow.title "אפשרויות יומן">

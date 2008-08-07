@@ -1,0 +1,17 @@
+<!ENTITY bottomInput.label "תחתית:">
+<!ENTITY cmdInput.label "פקודת הדפסה:">
+<!ENTITY colorGroup.label "צבע:">
+<!ENTITY colorRadio.label "צבע">
+<!ENTITY colorspaceInput.label "טווח צבעים:">
+<!ENTITY downloadFonts.label "להוריד גופנים למדפסת?">
+<!ENTITY edgeMarginInput.label "מרווח בין קצה הנייר לשוליים">
+<!ENTITY fontsGroup.label "גופנים:">
+<!ENTITY grayRadio.label "גווני אפור">
+<!ENTITY jobTitleInput.label "כותרת עבודה:">
+<!ENTITY leftInput.label "שמאל:">
+<!ENTITY paperInput.label "גודל נייר:">
+<!ENTITY plexInput.label "מצב Plex:">
+<!ENTITY printJobOptions.title "מאפייני מדפסת">
+<!ENTITY resolutionInput.label "רזולוציה\איכות:">
+<!ENTITY rightInput.label "ימין:">
+<!ENTITY topInput.label "ראש:">

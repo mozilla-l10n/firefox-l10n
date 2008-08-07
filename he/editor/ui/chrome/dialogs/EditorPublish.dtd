@@ -1,0 +1,43 @@
+<!ENTITY browseUrl.label "כתובת HTTP של עמוד הבית שלך (לדוגמה: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.tooltip "כתובת ה־//:HTTP של ספריית הבית שלך (אל תכלול שם קובץ)">
+<!ENTITY chooseDirButton.label "בחר...">
+<!ENTITY docDirList.label "תת־ספרייה באתר עבור דף זה:">
+<!ENTITY filename.label "שם קובץ:">
+<!ENTITY filename.tooltip "הכנס שם עבור קובץ זה, כולל 'html.' עבור דף אינטרנט">
+<!ENTITY filenameExample.label "לדוגמה: &quot;mypage.html&quot;">
+<!ENTITY loginInfo.label "מידע  על ההתחברות">
+<!ENTITY newSiteButton.label "אתר חדש">
+<!ENTITY pageTitle.label "כותרת דף:">
+<!ENTITY pageTitle.tooltip "הכנס כותרת לזיהוי הדף בחלון ובסימניות">
+<!ENTITY pageTitleExample.label "לדוגמה: &quot;האתר שלי&quot;">
+<!ENTITY password.label "סיסמה:">
+<!ENTITY password.tooltip "הסיסמה המקושרת אל שם המשתמש שלך">
+<!ENTITY publishButton.label "פרסום">
+<!ENTITY publishImgCheckbox.label "כלול תמונות וקבצים אחרים">
+<!ENTITY publishImgCheckbox.tooltip "פרסם תמונות וקבצים אחרים המאוזכרים על־ידי דף זה">
+<!ENTITY publishSites.label "אתרי פרסום">
+<!ENTITY publishTab.label "פרסום">
+<!ENTITY relatedDocs.label "קבצים אחרים לפרסום">
+<!ENTITY removeButton.label "הסר אתר">
+<!ENTITY sameLocationRadio.label "השתמש באותו מיקום כשל הדף">
+<!ENTITY sameLocationRadio.tooltip "פרסם קבצים לאותו מיקום כשל הדף">
+<!ENTITY savePassword.label "שמור סיסמה">
+<!ENTITY savePassword.tooltip "בחר זאת כדי לשמור את סיסמתך באופן מאובטח על־ידי מנהל הסיסמאות">
+<!ENTITY serverInfo.label "מידע על השרת">
+<!ENTITY setDefSiteAndDir.label "הגדר כאתר וספריית ברירת מחדל">
+<!ENTITY setDefaultButton.label "הגדר כברירת מחדל">
+<!ENTITY settingsTab.label "הגדרות">
+<!ENTITY siteDirList.label "בחר או הקלד שם ספרייה באתר הפרסום שלך:">
+<!ENTITY siteDirList.tooltip "בחר או הכנס את שם תת־הספרייה המרוחקת שברצונך לפרסם אליה">
+<!ENTITY siteList.label "שם האתר:">
+<!ENTITY siteList.tooltip "בחר את האתר שברצונך לפרסם אליו">
+<!ENTITY siteName.label "שם האתר:">
+<!ENTITY siteName.tooltip "כינוי שישמש כמזהה לאתר פירסום זה (לדוגמה: 'MySite')">
+<!ENTITY siteUrl.label "כתובת פירסום (לדוגמה: 'ftp://ftp.myisp.com/myusername'):">
+<!ENTITY siteUrl.tooltip "כתובת ה־//:FTP או ה־//:HTTP המסופקת על־ידי ספק האינטרנט או שירות איחסון האתרים שלך">
+<!ENTITY useSubdir.tooltip "בחר או הכנס את שם תת־הספרייה המרוחקת שבה יפורסמו הקבצים">
+<!ENTITY useSubdirRadio.label "השתמש בתת־ספרייה זו של האתר:">
+<!ENTITY username.label "שם משתמש:">
+<!ENTITY username.tooltip "שם המשתמש המשמש אותך להתחברות אל ספק הגישה שלך או שירות איחסון האתרים">
+<!ENTITY windowTitle.label "דף פירסום">
+<!ENTITY windowTitleSettings.label "הגדרות פרסום">

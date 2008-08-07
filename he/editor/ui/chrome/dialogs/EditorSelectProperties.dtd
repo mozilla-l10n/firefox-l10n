@@ -1,0 +1,39 @@
+<!ENTITY AddOptGroup.accesskey "G">
+<!ENTITY AddOptGroup.label "הוסף קבוצה">
+<!ENTITY AddOption.accesskey "O">
+<!ENTITY AddOption.label "הוסף אפשרות">
+<!ENTITY MoveElementDown.accesskey "D">
+<!ENTITY MoveElementDown.label "הזז למטה">
+<!ENTITY MoveElementUp.accesskey "U">
+<!ENTITY MoveElementUp.label "הזז למעלה">
+<!ENTITY OptGroup.label "קבוצת אפשרויות">
+<!ENTITY OptGroupDisabled.accesskey "D">
+<!ENTITY OptGroupDisabled.label "לא מאופשר">
+<!ENTITY OptGroupLabel.accesskey "L">
+<!ENTITY OptGroupLabel.label "תוית:">
+<!ENTITY Option.label "אפשרות">
+<!ENTITY OptionDisabled.accesskey "D">
+<!ENTITY OptionDisabled.label "לא מאופשר">
+<!ENTITY OptionSelected.accesskey "S">
+<!ENTITY OptionSelected.label "נבחר מההתחלה">
+<!ENTITY OptionText.accesskey "T">
+<!ENTITY OptionText.label "טקסט:">
+<!ENTITY OptionValue.accesskey "V">
+<!ENTITY OptionValue.label "ערך:">
+<!ENTITY RemoveElement.accesskey "R">
+<!ENTITY RemoveElement.label "הסרה">
+<!ENTITY Select.label "רשימת בחירה">
+<!ENTITY SelectDisabled.accesskey "D">
+<!ENTITY SelectDisabled.label "לא מאופשר">
+<!ENTITY SelectMultiple.accesskey "M">
+<!ENTITY SelectMultiple.label "בחירה מרובה">
+<!ENTITY SelectName.accesskey "N">
+<!ENTITY SelectName.label "שם רשימה:">
+<!ENTITY SelectSize.accesskey "H">
+<!ENTITY SelectSize.label "גובה:">
+<!ENTITY SelectTabIndex.accesskey "I">
+<!ENTITY SelectTabIndex.label "מפתח טאב:">
+<!ENTITY SelectedHeader.label "נבחר">
+<!ENTITY TextHeader.label "טקסט">
+<!ENTITY ValueHeader.label "ערך">
+<!ENTITY windowTitle.label "מאפייני רשימת בחירה">

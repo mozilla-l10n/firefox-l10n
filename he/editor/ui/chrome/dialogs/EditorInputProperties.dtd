@@ -1,0 +1,41 @@
+<!ENTITY Accept.accesskey "A">
+<!ENTITY Accept.label "קבל סוגים:">
+<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.label "מקש גישה:">
+<!ENTITY GroupName.label "שם קבוצה:">
+<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.label "מאפייני תמונה...">
+<!ENTITY InitialValue.label "ערך התחלתי:">
+<!ENTITY InputChecked.accesskey "C">
+<!ENTITY InputChecked.label "מסומן מההתחלה">
+<!ENTITY InputDisabled.accesskey "D">
+<!ENTITY InputDisabled.label "לא מאופשר">
+<!ENTITY InputName.label "שם שדה:">
+<!ENTITY InputReadOnly.accesskey "R">
+<!ENTITY InputReadOnly.label "קריאה בלבד">
+<!ENTITY InputSelected.accesskey "S">
+<!ENTITY InputSelected.label "נבחר מההתחלה">
+<!ENTITY InputSettings.label "הגדרות שדה">
+<!ENTITY InputType.accesskey "T">
+<!ENTITY InputType.label "סוג שדה">
+<!ENTITY InputValue.label "ערך שדה:">
+<!ENTITY Name.accesskey "N">
+<!ENTITY TextLength.accesskey "L">
+<!ENTITY TextLength.label "אורך מקסימלי:">
+<!ENTITY TextSize.accesskey "F">
+<!ENTITY TextSize.label "גודל שדה:">
+<!ENTITY Value.accesskey "V">
+<!ENTITY button.value "כפתור">
+<!ENTITY checkbox.value "תיבת סימון">
+<!ENTITY file.value "קובץ">
+<!ENTITY hidden.value "נסתר">
+<!ENTITY image.value "תמונה">
+<!ENTITY password.value "סיסמה">
+<!ENTITY radio.value "כפתור רדיו">
+<!ENTITY reset.value "כפתור איפוס">
+<!ENTITY submit.value "כפתור שלח">
+<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.label "מפתח טאב:">
+<!ENTITY text.value "טקסט">
+<!ENTITY windowTitle.label "תכונות שדות של טפסים">
+<!ENTITY windowTitleImage.label "תכונות תמונת טופס">

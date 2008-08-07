@@ -1,0 +1,58 @@
+<!ENTITY fileMenu.label "קובץ">
+<!ENTITY fileMenu.accesskey "ק">
+<!ENTITY newMenu.label "חדש">
+<!ENTITY newMenu.accesskey "ח">
+<!ENTITY editMenu.label "עריכה">
+<!ENTITY editMenu.accesskey "ע">
+<!ENTITY undoCmd.label "בטל">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "ט">
+<!ENTITY redoCmd.label "בצע שוב">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "צ">
+<!ENTITY cutCmd.label "גזור">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "ג">
+<!ENTITY copyCmd.label "העתק">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "ת">
+<!ENTITY pasteCmd.label "הדבק">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "ה">
+<!ENTITY deleteCmd.label "מחק">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "ח">
+<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "ב">
+<!ENTITY preferencesCmd.label "אפשרויות...">
+<!ENTITY preferencesCmd.accesskey "א">
+<!ENTITY preferencesCmdUnix.label "העדפות">
+<!ENTITY preferencesCmdUnix.accesskey "ע">
+<!ENTITY findTypeTextCmd.label "מצא טקסט תוך כדי הקלדה">
+<!ENTITY findTypeTextCmd.accesskey "x">
+<!ENTITY viewMenu.label "תצוגה">
+<!ENTITY viewMenu.accesskey "ת">
+<!ENTITY viewToolbarsMenu.label "סרגלי כלים">
+<!ENTITY viewToolbarsMenu.accesskey "ם">
+<!ENTITY showTaskbarCmd.label "שורת מצב">
+<!ENTITY showTaskbarCmd.accesskey "ש">
+<!ENTITY direct.label "מקוון (שרת מתווך: ללא)">
+<!ENTITY direct.accesskey "n">
+<!ENTITY manual.label "מקוון (שרת מתווך: ידני)">
+<!ENTITY manual.accesskey "m">
+<!ENTITY pac.label "מקוון (שרת מתווך: אוטומטי)">
+<!ENTITY pac.accesskey "a">
+<!ENTITY proxy.label "הגדרות שרת מתווך...">
+<!ENTITY proxy.accesskey "C">
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+<!ENTITY closeCmd.label "סגור">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "ג">
+<!ENTITY closeWindow.label "סגור חלון">
+<!ENTITY quitApplicationCmd.label "יציאה">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "צ">
+<!ENTITY quitApplicationCmdUnix.label "יציאה">
+<!ENTITY quitApplicationCmdUnix.accesskey "צ">

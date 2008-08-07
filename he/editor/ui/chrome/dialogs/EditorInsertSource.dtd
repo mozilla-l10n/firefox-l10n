@@ -1,0 +1,8 @@
+<!ENTITY example.label "לדוגמה:">
+<!ENTITY exampleCloseTag.label "&lt;i&gt;">
+<!ENTITY exampleOpenTag.label "&lt;/i&gt;">
+<!ENTITY exampleText.label "שלום עולם!">
+<!ENTITY insertButton.accesskey "I">
+<!ENTITY insertButton.label "הכנס">
+<!ENTITY sourceEditField.label "הכנס תגיות HTML וטקסט:">
+<!ENTITY windowTitle.label "הכנס HTML">

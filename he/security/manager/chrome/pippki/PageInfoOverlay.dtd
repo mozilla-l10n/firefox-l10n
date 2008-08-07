@@ -1,0 +1,5 @@
+<!ENTITY pageInfo.securityTab "אבטחה">
+<!ENTITY pageInfo.securityHeader "מידע על אבטחה עבור דף זה">
+<!ENTITY pageInfo.view.label "תצוגה">
+<!ENTITY pageInfo.view.accesskey "ת">
+<!ENTITY pageInfo.securityTab.accesskey "א">

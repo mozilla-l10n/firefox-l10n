@@ -1,0 +1,11 @@
+<!ENTITY add.accessKey "ס">
+<!ENTITY add.label "הוספה">
+<!ENTITY additional.label "קידודים זמינים של תוים:">
+<!ENTITY current.label "קידודי תוים פעילים:">
+<!ENTITY moveDown.accessKey "מ">
+<!ENTITY moveDown.label "הזז למטה">
+<!ENTITY moveUp.accessKey "ל">
+<!ENTITY moveUp.label "הזז למעלה">
+<!ENTITY remove.accessKey "ה">
+<!ENTITY remove.label "הסרה">
+<!ENTITY title.label "התאמה אישית של קידוד תוים">

@@ -1,0 +1,8 @@
+<!ENTITY closebutton.label "סגור">
+<!ENTITY date.header "תאריך התקנה">
+<!ENTITY history.intro "העדכונים הבאים הותקנו:">
+<!ENTITY history.title "היסטוריית התקנה">
+<!ENTITY name.header "שם עדכון">
+<!ENTITY noupdates.label "עדיין לא הותקנו עדכונים">
+<!ENTITY state.header "מצב">
+<!ENTITY type.header "סוג">

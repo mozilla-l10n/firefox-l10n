@@ -1,0 +1,59 @@
+<!ENTITY allowPagesToUse.accesskey "ל">
+<!ENTITY allowPagesToUse.label "אפשר לדפים לבחור את הגופנים שלהם במקום בחירתי למעלה">
+<!ENTITY font.langGroup.arabic "ערבית">
+<!ENTITY font.langGroup.armenian "ארמנית">
+<!ENTITY font.langGroup.baltic "באלטי">
+<!ENTITY font.langGroup.bengali "בנגלית">
+<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
+<!ENTITY font.langGroup.cyrillic "קירילי">
+<!ENTITY font.langGroup.devanagari "דוונגרי">
+<!ENTITY font.langGroup.el "יוונית">
+<!ENTITY font.langGroup.ethiopic "אתיופית">
+<!ENTITY font.langGroup.georgian "גרוזינית">
+<!ENTITY font.langGroup.gujarati "Gujarati">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
+<!ENTITY font.langGroup.hebrew "עברית">
+<!ENTITY font.langGroup.japanese "יפנית">
+<!ENTITY font.langGroup.khmer "חמר">
+<!ENTITY font.langGroup.korean "קוריאנית">
+<!ENTITY font.langGroup.latin1 "מערבי">
+<!ENTITY font.langGroup.latin2 "מרכז אירופי">
+<!ENTITY font.langGroup.malayalam "מליאלאם">
+<!ENTITY  font.langGroup.oriya                    "אורייה">
+<!ENTITY  font.langGroup.telugu                   "טלוגו">
+<!ENTITY  font.langGroup.kannada                  "קנדית"> 
+<!ENTITY  font.langGroup.sinhala                  "סינהאלית">
+<!ENTITY font.langGroup.simpl-chinese "סינית מפושטת">
+<!ENTITY font.langGroup.tamil "טמילית">
+<!ENTITY font.langGroup.thai "תאילנדית">
+<!ENTITY font.langGroup.trad-chinese "סינית מסורתית (טיוואן)">
+<!ENTITY font.langGroup.trad-chinese-hk "סינית מסורתית (הונג־קונג)">
+<!ENTITY font.langGroup.turkish "תורכית">
+<!ENTITY font.langGroup.unicode "שפות אחרות">
+<!ENTITY font.langGroup.user-def "מוגדר על־ידי המשתמש">
+<!ENTITY fontsDialog.title "גופנים">
+<!ENTITY language.accesskey "ע">
+<!ENTITY language.label "גופנים עבור:">
+<!ENTITY languages.customize.Charset.grouplabel "קידוד תוים">
+<!ENTITY languages.customize.DefaultCharset.accesskey "מ">
+<!ENTITY languages.customize.DefaultCharset.label "ברירת מחדל של קידוד תוים:">
+<!ENTITY minSize.accesskey "פ">
+<!ENTITY minSize.label "גודל גופן מינימלי:">
+<!ENTITY minSize.none "ללא">
+<!ENTITY monospace.accesskey "ב">
+<!ENTITY monospace.label "רוחב קבוע:">
+<!ENTITY proportional.accesskey "ח">
+<!ENTITY proportional.label "יחסי:">
+<!ENTITY sans-serif.accesskey "ר">
+<!ENTITY sans-serif.label "סאן-סריף:">
+<!ENTITY serif.accesskey "ס">
+<!ENTITY serif.label "סריף:">
+<!ENTITY size.label "גודל:">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+<!ENTITY useDefaultFontSerif.label "Serif">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+<!ENTITY window.width "39em">
+
+<!ENTITY  sizeProportional.accesskey              "ג">
+<!ENTITY  sizeMonospace.accesskey                 "ד">

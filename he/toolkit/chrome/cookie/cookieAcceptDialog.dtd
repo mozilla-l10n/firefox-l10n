@@ -1,0 +1,16 @@
+<!ENTITY button.allow.accesskey "ר">
+<!ENTITY button.allow.label "הרשה">
+<!ENTITY button.deny.accesskey "ח">
+<!ENTITY button.deny.label "דחה">
+<!ENTITY button.session.accesskey "מ">
+<!ENTITY button.session.label "הרשה למשך ההפעלה">
+<!ENTITY dialog.remember.accesskey "ה">
+<!ENTITY dialog.remember.label "השתמש בבחירה זו עבור כל העוגיות מאתר זה">
+<!ENTITY dialog.title "אשר קביעת עוגיה">
+<!ENTITY props.domain.label "שרת מארח:">
+<!ENTITY props.expires.label "תאריך תפוגה:">
+<!ENTITY props.name.label "שם:">
+<!ENTITY props.path.label "נתיב:">
+<!ENTITY props.policy.label "מדיניות:">
+<!ENTITY props.secure.label "שלח עבור:">
+<!ENTITY props.value.label "מידע:">

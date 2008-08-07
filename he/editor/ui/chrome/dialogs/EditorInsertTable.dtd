@@ -1,0 +1,12 @@
+<!ENTITY borderEditField.accessKey "B">
+<!ENTITY borderEditField.label "גבול:">
+<!ENTITY borderEditField.tooltip "הקלד מספר לגבול הטבלה, או הקלד אפס (0) להישאר ללא גבול">
+<!ENTITY numColumnsEditField.accessKey "C">
+<!ENTITY numColumnsEditField.label "עמודות:">
+<!ENTITY numRowsEditField.accessKey "R">
+<!ENTITY numRowsEditField.label "שורות:">
+<!ENTITY pixels.label "פיקסלים">
+<!ENTITY size.label "גודל">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY widthEditField.label "רוחב:">
+<!ENTITY windowTitle.label "הכנס טבלה">

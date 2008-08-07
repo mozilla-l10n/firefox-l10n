@@ -1,0 +1,44 @@
+
+<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.label "העתק">
+<!ENTITY copyPref.accesskey "ה">
+
+<!ENTITY boolean.accesskey "ב">
+<!ENTITY boolean.label "בוליאני">
+<!ENTITY columnChooser.tooltip "לחץ לבחירת עמודות לתצוגה">
+<!ENTITY copyName.accesskey "ע">
+<!ENTITY copyName.label "העתק שם">
+<!ENTITY copyValue.accesskey "ר">
+<!ENTITY copyValue.label "העתק ערך">
+<!ENTITY filterPrefs.accesskey "מ">
+<!ENTITY filterPrefs.label "מסנן:">
+<!ENTITY integer.accesskey "ס">
+<!ENTITY integer.label "מספר שלם">
+<!ENTITY lockColumn.label "מצב">
+<!ENTITY modify.accesskey "ש">
+<!ENTITY modify.label "שנה">
+<!ENTITY new.accesskey "ח">
+<!ENTITY new.label "חדש">
+<!ENTITY prefColumn.label "שם העדפה">
+<!ENTITY prefColumnHeader.tooltip "לחץ לסידור">
+<!ENTITY reset.accesskey "א">
+<!ENTITY reset.label "אתחול">
+<!ENTITY showAll.accesskey "ה">
+<!ENTITY showAll.label "הראה הכל">
+<!ENTITY string.accesskey "ח">
+<!ENTITY string.label "מחרוזת">
+<!ENTITY toggle.accesskey "ה">
+<!ENTITY toggle.label "החלף">
+<!ENTITY typeColumn.label "סוג">
+<!ENTITY valueColumn.label "ערך">
+
+
+<!ENTITY window.title "about:config">
+
+<!-- about:config warning page -->
+
+<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+<!ENTITY aboutWarningTitle.label "פעולה זו עשויה לבטל את האחריות!">
+<!ENTITY aboutWarningText.label "שינוי ערכי ברירת המחדל של הגדרות מתקדמות אלו יכול להזיק ליציבות, אבטחה, והביצועים של ישום זה. אתה מתבקש להמשיך רק אם אתה בטוח במה שאתה עושה."> 
+<!ENTITY aboutWarningButton.label "אני אזהר, מבטיח!">
+<!ENTITY aboutWarningCheckbox.label "הצג אזהרה זו בפעם הבאה">

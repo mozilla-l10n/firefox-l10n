@@ -1,0 +1,13 @@
+<!ENTITY closeButton.label "סגור">
+<!ENTITY docSubdir.label "תת־ספרייה של הדף:">
+<!ENTITY failed.label "נכשל">
+<!ENTITY fileList.label "מצב פרסום">
+<!ENTITY filenameHeader.label "שם קובץ">
+<!ENTITY keepOpen "שמור חלון זה פתוח לאחר סיום הפרסום.">
+<!ENTITY otherSubdir.label "תת־ספרייה של התמונה:">
+<!ENTITY siteUrl.label "URL של האתר:">
+<!ENTITY status.label "מפרסם...">
+<!ENTITY statusHeader.label "מצב">
+<!ENTITY succeeded.label "הצליח">
+<!ENTITY troubleshooting.accessKey "T">
+<!ENTITY troubleshooting.label "פיתרון בעיות">

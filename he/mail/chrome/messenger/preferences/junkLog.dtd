@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "יומן דואר זבל">
+<!ENTITY junkLogInfo.label "רישום של פעילות בקר דואר הזבל.">
+<!ENTITY clearLog.label "מחק יומן">
+<!ENTITY clearLog.accesskey "מ">
+<!ENTITY closeLog.label "סגירה">
+<!ENTITY closeLog.accesskey "ס">

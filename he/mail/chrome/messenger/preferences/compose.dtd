@@ -1,0 +1,57 @@
+<!ENTITY itemGeneral.label "כללי">
+<!ENTITY itemAutoComplete.label "מיעון">
+<!ENTITY itemSpellCheck.label "איות">
+<!ENTITY itemSendFormat.label "תבנית שליחה">
+<!ENTITY forwardReply.label "העברת הודעות">
+<!ENTITY forwardMsg.label "הודעות מועברות:">
+<!ENTITY forwardMsg.accesskey "ה">
+<!ENTITY inline.label "בתוך השורה">
+<!ENTITY inline.accesskey "ב">
+<!ENTITY asAttachment.label "כנספח">
+<!ENTITY asAttachment.accesskey "נ">
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "גופן:">
+<!ENTITY font.accesskey "פ">
+<!ENTITY size.label "גודל:">
+<!ENTITY size.accesskey "ג">
+<!ENTITY fontColor.label "צבע טקסט:">
+<!ENTITY fontColor.accesskey "ט">
+<!ENTITY bgColor.label "צבע רקע:">
+<!ENTITY bgColor.accesskey "ר">
+<!ENTITY restoreHTMLDefaults.label "שחזר ברירות מחדל">
+<!ENTITY restoreHTMLDefaults.accesskey "ב">
+<!ENTITY sendingMessagesHeader.label "חיבור הודעות">
+<!ENTITY spellCheck.label "בדוק איות לפני שליחה">
+<!ENTITY spellCheck.accesskey "ב">
+<!ENTITY spellCheckInline.label "אפשר בדיקת איות תוך כדי הקלדה">
+<!ENTITY spellCheckInline1.accesskey "א">
+<!ENTITY languagePopup.label "שפה:">
+<!ENTITY languagePopup.accessKey "ש">
+<!ENTITY downloadDictionaries.label "הורד מילונים נוספים">
+<!ENTITY useMIME.label "בהודעות המכילות תוים בני 8 סיביות, השתמש בקידוד quoted printable' MIME'">
+<!ENTITY useMIME.accesskey "מ">
+<!ENTITY warnOnSendAccelKey.label "אשר בעת שימוש בקיצורי מקלדת לשליחת הודעה">
+<!ENTITY warnOnSendAccelKey.accesskey "ב">
+<!ENTITY autoSave.label "שמור אוטומטית כל">
+<!ENTITY autoSave.accesskey "ט">
+<!ENTITY autoSaveEnd.label "דקות">
+<!ENTITY autoSaveEnd.accesskey "ד">
+<!ENTITY wrapOutMsg.label "אפשר גלישת שורות בהודעות טקסט פשוט אחרי">
+<!ENTITY wrapOutMsg.accesskey "ג">
+<!ENTITY char.label "תווים">
+<!ENTITY emailCollectionPicker.label "הוסף אוטומטית כתובות מדואר אלקטרוני יוצא אל:">
+<!ENTITY emailCollectionPicker.accesskey "כ">
+<!ENTITY addressingTitle.label "השלמת כתובת אוטומטית">
+<!ENTITY autocompleteText.label "כאשר ממענים הודעות, חפש רשומות תואמות בתוך:">
+<!ENTITY addressingEnable.label "פנקסי כתובות מקומיים">
+<!ENTITY addressingEnable.accesskey "פ">
+<!ENTITY directories.label "שרת מדריך:">
+<!ENTITY directories.accesskey "ש">
+<!ENTITY editDirectories.label "ערוך ספריות...">
+<!ENTITY editDirectories.accesskey "ע">
+<!ENTITY matchText.label "אם יש התאמה בפנקסי הכתובות המקומיים שלך:">
+<!ENTITY skipDirectory.label "אל תחפש במדריך">
+<!ENTITY sendOptionsCaption.label "שליחה ואפשרויות HTML">
+<!ENTITY sendOptionsDescription.label "הגדר התנהגות סגנון טקסט">
+<!ENTITY sendOptions.label "אפשרויות שליחה...">
+<!ENTITY sendOptions.accesskey "ל">

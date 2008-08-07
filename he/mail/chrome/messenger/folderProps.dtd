@@ -1,0 +1,89 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -   Tomer Cohen <tomerc@gmail.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY folderProps.windowtitle.label "מאפיינים">
+<!ENTITY generalInfo.label "מידע כללי">
+<!ENTITY folderCharsetTab.label "קידוד תוים ברירת מחדל:">
+<!ENTITY folderCharsetTab.accesskey "E">
+<!ENTITY folderCharsetOverride.label "הפעל ברירת מחדל לכל ההודעות בתיקייה (התעלם מהגדרות קידוד תוים של הודעות פרטניות וזיהוי אוטומטי)">
+<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderRebuildSummaryFile.label "בנה מחדש אינדקס">
+<!ENTITY folderRebuildSummaryFile.accesskey "R">
+<!ENTITY folderRebuildSummaryFileTip.label "בנה מחדש קובץ סיכום">
+<!ENTITY retention.label "מדיניות שמירה">
+<!ENTITY retentionUseDefault.label "השתמש בברירות המחדל של השרת">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY days.label "הימים האחרונים">
+<!ENTITY daysOld.label "הימים האחרונים">
+<!ENTITY message.label "ההודעות האחרונות">
+<!ENTITY retentionCleanup.label "בכדי להשיג שטח דיסק, הודעות ישנות יכולות להמחק לצמיתות">
+<!ENTITY retentionKeepMsg.label "מחק הודעות מלפני">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "מחק הכל מלבד">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "מחק תמיד הודעות שנקראו">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY folderOfflineTab.label "לא־מקוון">
+<!ENTITY folderCheckForNewMessages.label "בדוק אם קיימות הודעות חדשות בתיקייה זו">
+<!ENTITY folderCheckForNewMessages.accesskey "C">
+<!ENTITY offlineFolder.check.label "בחר תיקייה זו לשימוש לא־מקוון">
+<!ENTITY offlineFolder.check.accesskey "S">
+<!ENTITY offlineFolder.button.label "הורד עכשיו">
+<!ENTITY offlineFolder.button.accesskey "D">
+<!ENTITY selectofflineNewsgroup.check.label "בחר קבוצת דיון זו לשימוש לא־מקוון">
+<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "השתמש בברירת המחדל מתוך הגדרות חשבון">
+<!ENTITY offlineNewsgroup.button.label "הורד עכשיו">
+<!ENTITY offlineNewsgroup.button.accesskey "D">
+<!ENTITY folderProps.information.label "מידע:">
+<!ENTITY folderProps.name.label "שם:">
+<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderSharingTab.label "שיתוף">
+<!ENTITY privilegesDesc.label "שתף תיקייה זו ותיקיות אחרות עם משתמשים אחרים ברשת והצג והגדר הרשאות גישה">
+<!ENTITY privileges.button.label "הרשאות...">
+<!ENTITY privileges.button.accesskey "P">
+<!ENTITY permissionsDesc.label "יש לך את ההרשאות הבאות:">
+<!ENTITY folderType.label "סוג תיקייה:">
+<!ENTITY folderQuotaTab.label "מיכסה">
+<!ENTITY folderQuotaRoot.label "שורש (root) ההקצאה:">
+<!ENTITY folderQuotaUsage.label "שימוש:">
+<!ENTITY folderQuotaStatus.label "מצב:">

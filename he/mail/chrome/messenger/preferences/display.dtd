@@ -1,0 +1,45 @@
+<!ENTITY itemFormatting.label "עיצוב">
+<!ENTITY itemTags.label "תוויות">
+<!ENTITY itemFonts.label "גופנים">
+<!ENTITY textBegin.label "הופעת טקסט פשוט מצוטט">
+<!ENTITY style.label "סגנון:">
+<!ENTITY style.accesskey "ס">
+<!ENTITY regularStyle.label "רגיל">
+<!ENTITY bold.label "מודגש">
+<!ENTITY italic.label "נטוי">
+<!ENTITY boldItalic.label "נטוי מודגש">
+<!ENTITY size.label "גודל:">
+<!ENTITY size.accesskey "ד">
+<!ENTITY regularSize.label "רגיל">
+<!ENTITY bigger.label "גדול יותר">
+<!ENTITY smaller.label "קטן יותר">
+<!ENTITY color.label "צבע:">
+<!ENTITY color.accesskey "צ">
+<!ENTITY displayWidth.label "הודעות טקסט פשוט">
+<!ENTITY plainText.label "השתמש בגופן הבא:">
+<!ENTITY displayText.label "בעת הצגת הודעות טקסט פשוט מצוטט:">
+<!ENTITY viewingPlainText.label "בעת הצגת הודעות טקסט פשוט:">
+<!ENTITY fixedWidth.label "גופן בעל רוחב קבוע">
+<!ENTITY fixedWidth.accesskey "ח">
+<!ENTITY variableWidth.label "גופן בעל רוחב משתנה">
+<!ENTITY variableWidth.accesskey "מ">
+<!ENTITY readingMessagesHeader.label "להודעות נכנסות">
+<!ENTITY colors.label "צבעים">
+<!ENTITY overrideColors.label "בהצגת הודעות, השתמש בצבעים הבאים:">
+<!ENTITY textColor.label "צבע טקסט:">
+<!ENTITY textColor.accesskey "ט">
+<!ENTITY backgroundColor.label "צבע רקע:">
+<!ENTITY backgroundColor.accesskey "ר">
+<!ENTITY convertEmoticons.label "הצג פרצופונים בצורה גרפית">
+<!ENTITY convertEmoticons.accesskey "ה">
+<!ENTITY displayTagsText.label "תוויות משמשות לחלוקה לקטגוריות ותיעדוף ההודעות שלך.">
+<!ENTITY addTagButton.label "הוסף">
+<!ENTITY addTagButton.accesskey "ה">
+<!ENTITY editTagButton.label "ערוך">
+<!ENTITY editTagButton.accesskey "ע">
+<!ENTITY removeTagButton.label "מחק">
+<!ENTITY removeTagButton.accesskey "מ">
+<!ENTITY fontAndEncodingsDescription.label "הגדר את הגופנים והקידודים שבשימוש על־ידי &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label "גופנים וקידודים">
+<!ENTITY fontOptions.accesskey "ג">
+<!ENTITY fontOptions.label "גופנים...">

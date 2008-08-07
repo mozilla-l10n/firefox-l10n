@@ -1,0 +1,22 @@
+<!ENTITY alwaysHandle.accesskey "a">
+<!ENTITY alwaysHandle.label "בצע תמיד פעולה זו בעת טיפול בקבצים מסוג זה">
+<!ENTITY badApp "לא ניתן למצוא את היישום אותו ציינת (&quot;#1&quot;). בדוק את שם הקובץ או בחר יישום אחר.">
+<!ENTITY badApp.title "יישום לא נמצא">
+<!ENTITY caption.label "פותח את #1">
+<!ENTITY chooseApp.accesskey "c">
+<!ENTITY chooseApp.label "בחר...">
+<!ENTITY chooseAppFilePickerTitle "בחר יישום סיוע">
+<!ENTITY intro.attachment.label "האתר הציע לטפל בקובץ &quot;#3&quot; כנספח. הוא מסוג #2 ‏(#1) ומיקומו הוא:">
+<!ENTITY intro.attachment.noDesc.label "האתר הציע לטפל בקובץ &quot;#3&quot; כנספח. הוא מסוג #2 ומיקומו הוא:">
+<!ENTITY intro.label "הקובץ &quot;#3&quot; הוא מסוג #2 ‏(#1), ו־ #4 אינו יודע כיצד לטפל בקובץ מסוג זה. מיקום הקובץ הוא:">
+<!ENTITY intro.noDesc.label "הקובץ &quot;#3&quot; הוא מסוג #2, ו־ #4 אינו יודע כיצד לטפל בקובץ מסוג זה. מיקום הקובץ הוא: ">
+<!ENTITY intro.sniffed.label "#4 הבחין שהקובץ &quot;#3&quot; הוא כנראה מסוג #2 (#1). מיקום הקובץ הוא:">
+<!ENTITY intro.sniffed.noDesc.label "#4 הבחין שהקובץ &quot;#3&quot; הוא כנראה מסוג #2. מיקום הקובץ הוא:">
+<!ENTITY openUsing.accesskey "w">
+<!ENTITY openUsing.label "פתח בעזרת">
+<!ENTITY prompt.label "מה על #1 לעשות עם קובץ זה?">
+<!ENTITY saveToDisk.accesskey "s">
+<!ENTITY saveToDisk.label "שמור לדיסק">
+<!ENTITY useSystemDefault.accesskey "o">
+<!ENTITY useSystemDefault.label "האתר הציע לטפל בקובץ &quot;#3&quot; כנספח. הוא מסוג #2 ‏(#1) ומיקומו הוא:">
+<!ENTITY useSystemDefault.noDesc.label "פתח בעזרת יישום ברירת המחדל">

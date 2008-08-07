@@ -1,0 +1,21 @@
+<!ENTITY changeAction.title "שנה פעולה">
+<!ENTITY window.width "36em">
+<!ENTITY whenDownloading.label "בהורדת קבצים כגון אלו:">
+<!ENTITY openDefault.label "פתח אותם בתוכנת ברירת המחדל:">
+<!ENTITY openDefault.accesskey "O">
+<!ENTITY openApplication.label "פתח אותם עם תוכנה זו:">
+<!ENTITY openApplication.accesskey "e">
+<!ENTITY changeApp.label "עיון...">
+<!ENTITY changeApp.accesskey "B">
+<!ENTITY saveToDisk.label "שמור אותם על המחשב שלי">
+<!ENTITY saveToDisk.accesskey "S">
+<!ENTITY saveToDefaultFolder.label "בתיקיית ההורדות ברירת המחדל">
+<!ENTITY saveToDefaultFolder.accesskey "d">
+<!ENTITY saveToThisFolder.label "בתיקייה זו:">
+<!ENTITY saveToThisFolder.accesskey "h">
+<!ENTITY chooseFolder.label "עיון...">
+<!ENTITY chooseFolder.accesskey "w">
+<!ENTITY saveToAskMe.label "שאל אותי היכן לשמור כל קובץ">
+<!ENTITY saveToAskMe.accesskey "a">
+<!ENTITY usePlugin.label "השתמש בתוסף זה:">
+<!ENTITY usePlugin.accesskey "P">

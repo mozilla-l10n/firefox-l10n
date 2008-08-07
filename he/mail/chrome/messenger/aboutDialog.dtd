@@ -1,0 +1,5 @@
+<!ENTITY aboutDialog.title "&brandShortName; אודות">
+<!ENTITY credits "כותבים">
+<!ENTITY aboutLink "&lt; אודות &brandShortName;">
+<!ENTITY aboutVersion "גרסה">
+<!ENTITY copyrightText "©1998-2007 תורמים. כל הזכויות שמורות. Mozilla Thunderbird והסמלים                           של Thunderbird הם סימנים מסחריים של קרן Mozilla. כל הזכויות                           שמורות.">

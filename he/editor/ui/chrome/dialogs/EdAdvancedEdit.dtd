@@ -1,0 +1,13 @@
+<!ENTITY AttName.label "תכונה: ">
+<!ENTITY AttValue.label "ערך: ">
+<!ENTITY PropertyName.label "מאפיין:">
+<!ENTITY WindowTitle.label "עורך מאפיין מתקדם">
+<!ENTITY currentattributesfor.label "תכונות נוכחיות עבור:">
+<!ENTITY editAttribute.label "לחץ על פריט למעלה כדי לשנות את ערכו">
+<!ENTITY removeAttribute.label "הסר">
+<!ENTITY tabCSS.label "סגנון בתוך השורה">
+<!ENTITY tabHTML.label "תכונות HTML">
+<!ENTITY tabJSE.label "אירועי JavaScript">
+<!ENTITY tree.attributeHeader.label "תכונה">
+<!ENTITY tree.propertyHeader.label "מאפיין">
+<!ENTITY tree.valueHeader.label "ערך">

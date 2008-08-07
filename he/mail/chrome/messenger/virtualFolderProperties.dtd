@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "תיקייה חדשה של חיפוש שמור">
+<!ENTITY name.label "שם:">
+<!ENTITY name.accesskey "n">
+<!ENTITY description.label "צור כתת־תיקייה של:">
+<!ENTITY description.accesskey "C">
+<!ENTITY searchCriteriaText.label "שנה את קריטריון החיפוש שבשימוש חיפוש שמור זה:">
+<!ENTITY searchCriteriaButton.label "קריטריון חיפוש...">
+<!ENTITY searchCriteriaButton.accesskey "S">
+<!ENTITY searchTermCaption.label "הגדר את קריטריון החיפוש שבשימוש עבור תיקיית חיפוש זו:">
+<!ENTITY folderSelectionCaption.label "בחר את התיקיות לחיפוש:">
+<!ENTITY chooseFoldersButton.label "בחר...">
+<!ENTITY chooseFoldersButton.accesskey "h">
+<!ENTITY searchOnline.label "חפש באופן מקוון (נותן תוצאות מעודכנות עבור IMAP ותיקיות קבוצות דיון, אולם מגדיל את הזמן הדרוש לפתיחת התיקייה)">
+<!ENTITY searchOnline.accesskey "O">

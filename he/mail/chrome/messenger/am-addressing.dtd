@@ -1,0 +1,23 @@
+<!ENTITY addressing.label "חיבור ומיעון הודעה">
+<!ENTITY addressingGroupTitle.label "מיעון">
+<!ENTITY addressingText.label "בעת חיפוש כתובות:">
+<!ENTITY useGlobal.label "השתמש בהעדפות שרת LDAP הכלליות שלי עבור חשבון זה">
+<!ENTITY useGlobal.accesskey "U">
+<!ENTITY editDirectories.label "ערוך מדריכים...">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY directories.label "השתמש בשרת LDAP אחר:">
+<!ENTITY directories.accesskey "d">
+<!ENTITY compositionGroupTitle.label "חיבור הודעה">
+<!ENTITY useHtml.label "חבר הודעות בתבנית HTML">
+<!ENTITY useHtml.accesskey "C">
+<!ENTITY autoQuote.label "צטט אוטומטית הודעה מקורית בעת מענה">
+<!ENTITY autoQuote.accesskey "q">
+<!ENTITY then.label "ואז,">
+<!ENTITY then.accesskey "t">
+<!ENTITY aboveQuote.label "התחל את תשובתי מעל הציטוט">
+<!ENTITY belowQuote.label "התחל את תשובתי מתחת לציטוט">
+<!ENTITY selectAndQuote.label "בחר את הציטוט">
+<!ENTITY place.label "והוסף את חתימתי">
+<!ENTITY place.accesskey "p">
+<!ENTITY belowText.label "מתחת לציטוט (מומלץ)">
+<!ENTITY aboveText.label "מתחת לתשובתי (מעל הציטוט)">

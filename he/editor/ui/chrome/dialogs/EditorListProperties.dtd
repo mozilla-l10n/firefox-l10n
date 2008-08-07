@@ -1,0 +1,14 @@
+<!ENTITY ListType.label "סוג רשימה">
+<!ENTITY bulletList.value "רשימה מובלטת (לא ממוספרת)">
+<!ENTITY bulletStyle.label "סגנון הבלטה:">
+<!ENTITY changeEntireListRadio.accessKey "C">
+<!ENTITY changeEntireListRadio.label "שנה את כל הרשימה">
+<!ENTITY changeListMsg.label "בעת שינוי סוג רשימה:">
+<!ENTITY changeSelectedRadio.accessKey "I">
+<!ENTITY changeSelectedRadio.label "שנה רק פריטים נבחרים">
+<!ENTITY definitionList.value "רשימת הגדרות">
+<!ENTITY none.value "ללא">
+<!ENTITY numberList.value "רשימה ממוספרת">
+<!ENTITY startingNumber.accessKey "S">
+<!ENTITY startingNumber.label "התחל במספר:">
+<!ENTITY windowTitle.label "מאפייני רשימה">

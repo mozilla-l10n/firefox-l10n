@@ -1,0 +1,60 @@
+<!ENTITY MoreFewerButton.tooltip "הצג יותר או פחות מאפיינים לערוך">
+<!ENTITY actualSize.label "גודל אמיתי:">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.label "גודל אמיתי">
+<!ENTITY actualSizeRadio.tooltip "חזור לגודל אמיתי של התמונה">
+<!ENTITY alignment.label "יישור טקסט ביחס לתמונה">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altText.label "טקסט חלופי:">
+<!ENTITY altTextEditField.tooltip "הקלד טקסט להציג במקום התמונה">
+<!ENTITY borderEditField.accessKey "B">
+<!ENTITY borderEditField.label "גבול עבה:">
+<!ENTITY bottomPopup.value "בתחתית">
+<!ENTITY centerPopup.value "במרכז">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.label "שמור יחס אורך לרוחב">
+<!ENTITY constrainCheckbox.tooltip "שמור על יחס גובה לרוחב של התמונה">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.label "גודל מותאם אישית">
+<!ENTITY customSizeRadio.tooltip "שנה את גודל התמונה כפי שהיא מופיעה בדף">
+<!ENTITY editImageButton.label "ערוך תמונה">
+<!ENTITY editImageButton.tooltip "ערוך קובץ תמונה בתוכנה אחרת">
+<!ENTITY editImageMapButton.label "עריכה...">
+<!ENTITY editImageMapButton.tooltip "צור נקודות חמות שניתן ללחוץ עליהן בתמונה זו">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.label "גובה:">
+<!ENTITY imageAppearanceTab.label "הופעה">
+<!ENTITY imageDimensionsTab.label "מימדים">
+<!ENTITY imageInputTab.label "טופס">
+<!ENTITY imageLinkTab.label "קישור">
+<!ENTITY imageLocationTab.label "מיקום">
+<!ENTITY imagemapBox.label "מיפוי תמונה">
+<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY leftRightEditField.label "שמאל וימין:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.label "מיקום התמונה:">
+<!ENTITY locationEditField.tooltip "הקלד את שם קובץ או מיקום התמונה">
+<!ENTITY makePageBackgroundCheckbox.label "הפוך לרקע לדף">
+<!ENTITY makePageBackgroundCheckbox.tooltip "השתמש בתמונה כרקע לדף שלך">
+<!ENTITY noAltText.accessKey "D">
+<!ENTITY noAltText.label "אל תשתמש בטקסט חלופי">
+<!ENTITY percentPopup.value "אחוז">
+<!ENTITY pixelsPopup.value "פיקסלים">
+<!ENTITY previewBox.label "תצוגה מקדימה של התמונה">
+<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY removeImageMapButton.label "הסרה">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY showImageLinkBorder.label "הראה גבול סביב תמונה מקושרת">
+<!ENTITY spacingBox.label "ריווח">
+<!ENTITY spacingBox.tooltip "הקלד מספר לכמות המרווח סביב התמונה">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.label "תאור כלי:">
+<!ENTITY title.tooltip "תכונת 'title' של HTML המוצגת כתיאור כלי (tooltip)">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY topBottomEditField.label "מעל ומתחת:">
+<!ENTITY topPopup.value "בקצה עליון">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY widthEditField.label "רוחב:">
+<!ENTITY windowTitle.label "מאפייני תמונה">
+<!ENTITY wrapLeftPopup.value "גלישה משמאל">
+<!ENTITY wrapRightPopup.value "גלישה מימין">

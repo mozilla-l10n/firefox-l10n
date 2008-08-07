@@ -1,0 +1,19 @@
+<!ENTITY alignmentBox.label "יישור">
+<!ENTITY centerRadio.accessKey "C">
+<!ENTITY centerRadio.value "מרכז">
+<!ENTITY dimensionsBox.label "מימדים">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.label "גובה:">
+<!ENTITY leftRadio.accessKey "L">
+<!ENTITY leftRadio.value "שמאל">
+<!ENTITY pixelsPopup.value "פיקסלים">
+<!ENTITY rightRadio.accessKey "R">
+<!ENTITY rightRadio.value "ימין">
+<!ENTITY saveSettings.accessKey "D">
+<!ENTITY saveSettings.label "השתמש כברירת מחדל">
+<!ENTITY saveSettings.tooltip "שמור הגדרות אלה לשימוש בעת הכנסת קוים אופקיים חדשים">
+<!ENTITY threeDShading.accessKey "S">
+<!ENTITY threeDShading.label "הצללה תלת מימדית">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY widthEditField.label "רוחב:">
+<!ENTITY windowTitle.label "מאפייני קו אופקי">

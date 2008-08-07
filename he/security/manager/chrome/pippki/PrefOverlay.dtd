@@ -1,0 +1,5 @@
+<!ENTITY certs.label "אישורים">
+<!ENTITY masterpass.label "סיסמאות ראשיות">
+<!ENTITY security.label "פרטיות ואבטחה">
+<!ENTITY ssl.label "SSL">
+<!ENTITY validation.label "בדיקת חוקיות">

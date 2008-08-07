@@ -1,0 +1,20 @@
+<!ENTITY allpagesRadio.label "כל העמודים">
+<!ENTITY aslaidoutRadio.label "כמו הפריסה על המסך">
+<!ENTITY copies.label "עותקים">
+<!ENTITY descText.label "תיאור מדפסת:">
+<!ENTITY eachframesepRadio.label "כל מסגרת בנפרד">
+<!ENTITY fileCheck.label "הדפס לקובץ">
+<!ENTITY fpDialog.title "שמור קובץ">
+<!ENTITY frompageInput.label "מעמוד">
+<!ENTITY numCopies.label "מספר עותקים:">
+<!ENTITY printButton.label "הדפס">
+<!ENTITY printDialog.title "הדפסה">
+<!ENTITY printer.label "מדפסת">
+<!ENTITY printerInput.label "שם מדפסת:">
+<!ENTITY printframeGroup.label "הדפס מסגרות">
+<!ENTITY printrangeGroup.label "טווח הדפסה">
+<!ENTITY propertiesButton.label "מאפיינים...">
+<!ENTITY rangeRadio.label "עמודים">
+<!ENTITY selectedframeRadio.label "המסגרת שנבחרה">
+<!ENTITY selectionRadio.label "קטע נבחר">
+<!ENTITY topageInput.label "עד עמוד">

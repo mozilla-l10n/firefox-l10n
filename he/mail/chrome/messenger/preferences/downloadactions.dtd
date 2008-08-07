@@ -1,0 +1,25 @@
+<!ENTITY downloadactionsWindow.title "פעולות הורדה">
+<!ENTITY window.width "480">
+<!ENTITY window.height "310">
+<!ENTITY fileTypesDescription.label "בצע אוטומטית את הפעולה המשויכת עם כל אחד מסוגי הקבצים הבאים:">
+<!ENTITY fileHandlerColumn.label "פעולה">
+<!ENTITY fileHandlerColumn.accesskey "A">
+<!ENTITY fileTypeColumn.label "סוג קובץ">
+<!ENTITY fileTypeColumn.accesskey "T">
+<!ENTITY fileMIMETypeColumn.label "MIME סוג">
+<!ENTITY fileMIMETypeColumn.accesskey "M">
+<!ENTITY fileExtensionColumn.label "הרחבה">
+<!ENTITY fileExtensionColumn.accesskey "E">
+<!ENTITY remove.label "הסר פעולה">
+<!ENTITY remove.accesskey "ע">
+<!ENTITY edit.label "שנה פעולה...">
+<!ENTITY edit.accesskey "ש">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.label "חפש:">
+<!ENTITY filter.accesskey "ח">
+<!ENTITY clear.label "נקה">
+<!ENTITY clear.accesskey "נ">
+<!ENTITY button.close.label "סגור">
+<!ENTITY button.close.accesskey "ס">

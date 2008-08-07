@@ -1,0 +1,10 @@
+<!ENTITY checkbox.label "סמן">
+<!ENTITY editfield0.label "שם משתמש:">
+<!ENTITY editfield1.label "סיסמה:">
+<!ENTITY editfield2.label "אשר סיסמה:">
+<!ENTITY message.label "טקסט דוגמה בא כאן.">
+<!ENTITY header.label "כותרת מקוצרת">
+<!ENTITY copyCmd.label    "העתק">
+<!ENTITY copyCmd.accesskey "ה">
+<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY selectAllCmd.accesskey "ב">

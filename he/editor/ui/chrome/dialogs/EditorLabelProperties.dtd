@@ -1,0 +1,11 @@
+<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.label "מקש גישה:">
+<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY EditLabelText.label "ערוך טקסט:">
+<!ENTITY LabelFor.accesskey "F">
+<!ENTITY LabelFor.label "עבור בקרה:">
+<!ENTITY RemoveLabel.accesskey "R">
+<!ENTITY RemoveLabel.label "הסר תוית">
+<!ENTITY Settings.accesskey "S">
+<!ENTITY Settings.label "הגדרות">
+<!ENTITY windowTitle.label "תכונות תוית">

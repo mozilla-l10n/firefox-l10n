@@ -1,0 +1,7 @@
+<!ENTITY window.title "התאם אישית כותרות">
+<!ENTITY addButton.label "הוסף">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "הסר">
+<!ENTITY removeButton.accesskey "R">
+<!ENTITY newMsgHeader.label "כותרת חדשה להודעה:">
+<!ENTITY newMsgHeader.accesskey "N">

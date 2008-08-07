@@ -1,0 +1,42 @@
+<!ENTITY history.label "היסטוריה">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY  rememberDaysBefore.label      "שמור את ההיסטוריה שלי לפחות ">
+<!ENTITY  rememberDaysBefore.accesskey  "ה">
+<!ENTITY  rememberDaysAfter2.label      "ימים">
+
+<!ENTITY rememberForms.label "זכור את מה שאני מכניס בטפסים ותיבת החיפוש">
+<!ENTITY rememberForms.accesskey "ט">
+<!ENTITY rememberDownloads.label "זכור את מה שהורדתי">
+<!ENTITY rememberDownloads.accesskey "ז">
+<!ENTITY cookies.label "עוגיות">
+<!ENTITY acceptCookies.label "קבל עוגיות מאתרים">
+<!ENTITY acceptCookies.accesskey "ע">
+<!ENTITY keepUntil.label "שמור עד ש:">
+<!ENTITY keepUntil.accesskey "מ">
+<!ENTITY expire.label "הן פגות">
+<!ENTITY close.label "אני סוגר את &brandShortName;">
+<!ENTITY askEachTime.label "שאל אותי בכל פעם">
+<!ENTITY cookieExceptions.label "חריגות...">
+<!ENTITY cookieExceptions.accesskey "ח">
+<!ENTITY showCookies.label "הצג עוגיות...">
+<!ENTITY showCookies.accesskey "צ">
+<!ENTITY privateData.label "נתונים אישיים">
+<!ENTITY alwaysClear.label "תמיד נקה את הנתונים האישיים שלי כאשר אני סוגר את &brandShortName;">
+<!ENTITY alwaysClear.accesskey "נ">
+<!ENTITY askBeforeClear.label "שאל אותי לפני ניקוי נתונים אישיים">
+<!ENTITY askBeforeClear.accesskey "ש">
+<!ENTITY clearDataSettings.label "הגדרות...">
+<!ENTITY clearDataSettings.accesskey "ה">
+<!ENTITY clearDataNow.label "נקה כעת...">
+<!ENTITY clearDataNow.label2 "נקה כעת">
+<!ENTITY clearDataNow.accesskey "כ">
+
+<!ENTITY  acceptThirdParty.label        "קבל עוגיות צד־שלישי">
+<!ENTITY  acceptThirdParty.accesskey    "ש">

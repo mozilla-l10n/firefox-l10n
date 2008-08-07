@@ -1,0 +1,19 @@
+<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.label "מקש גישה:">
+<!ENTITY ButtonDisabled.accesskey "D">
+<!ENTITY ButtonDisabled.label "לא מאופשר">
+<!ENTITY ButtonName.accesskey "N">
+<!ENTITY ButtonName.label "שם:">
+<!ENTITY ButtonType.accesskey "T">
+<!ENTITY ButtonType.label "סוג">
+<!ENTITY ButtonValue.accesskey "V">
+<!ENTITY ButtonValue.label "ערך:">
+<!ENTITY RemoveButton.accesskey "R">
+<!ENTITY RemoveButton.label "הסר כפתור">
+<!ENTITY Settings.label "הגדרות">
+<!ENTITY button.value "כפתור">
+<!ENTITY reset.value "איפוס">
+<!ENTITY submit.value "שלח">
+<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.label "מפתח טאב:">
+<!ENTITY windowTitle.label "מאפייני כפתור">

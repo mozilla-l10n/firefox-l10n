@@ -1,0 +1,12 @@
+<!ENTITY title.label "אבטחת הודעה">
+<!ENTITY subject.plaintextWarning "אנא שים לב: שורות הנושא של הודעות דוא״ל לעולם אינן מוצפנות.">
+<!ENTITY status.heading "תוכן הודעתך ישלח כדלהלן:">
+<!ENTITY status.signed "חתום דיגיטלית:">
+<!ENTITY status.encrypted "הוצפן:">
+<!ENTITY status.certificates "אישורים:">
+<!ENTITY view.label "הצג">
+<!ENTITY view.accesskey "V">
+<!ENTITY tree.recipient "נמען:">
+<!ENTITY tree.status "מצב:">
+<!ENTITY tree.issuedDate "הונפק:">
+<!ENTITY tree.expiresDate "פג תוקפו:">

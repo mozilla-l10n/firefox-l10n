@@ -1,0 +1,19 @@
+<!ENTITY copyCmd.accesskey "ת">
+<!ENTITY copyCmd.label "העתק">
+<!ENTITY cutCmd.accesskey "ג">
+<!ENTITY cutCmd.label "גזור">
+<!ENTITY deleteCmd.accesskey "ח">
+<!ENTITY deleteCmd.label "מחק">
+<!ENTITY pasteCmd.accesskey "ה">
+<!ENTITY pasteCmd.label "הדבק">
+<!ENTITY selectAllCmd.accesskey "ב">
+<!ENTITY selectAllCmd.label "בחר הכל">
+<!ENTITY undoCmd.accesskey "ט">
+<!ENTITY undoCmd.label "בטל">
+
+<!ENTITY spellAddToDictionary.label "הוסף למילון">
+<!ENTITY spellAddToDictionary.accesskey "מ"><!ENTITY spellNoSuggestions.label "(אין הצעות איות)">
+<!ENTITY spellDictionaries.label "שפות">
+<!ENTITY spellDictionaries.accesskey "ש">
+<!ENTITY spellCheckEnable.label "בדוק איות">
+<!ENTITY spellCheckEnable.accesskey "ב">

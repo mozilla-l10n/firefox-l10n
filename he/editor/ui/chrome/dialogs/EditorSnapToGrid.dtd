@@ -1,0 +1,6 @@
+<!ENTITY enableSnapToGrid.accessKey "e">
+<!ENTITY enableSnapToGrid.label "אפשר הצמדה לרשת">
+<!ENTITY pixelsLabel.value "פיקסלים">
+<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY sizeEditField.label "גודל:">
+<!ENTITY windowTitle.label "הצמד לרשת">

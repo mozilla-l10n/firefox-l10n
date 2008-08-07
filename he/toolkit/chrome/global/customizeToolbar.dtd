@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "התאמה אישית של סרגל כלים">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY instructions.description "ביכולתך להוסיף או להסיר פריטים על ידי גרירה אל או מתוך סרגלי הכלים.">
+<!ENTITY show.label "הצג:">
+<!ENTITY iconsAndText.label "צלמיות וטקסט">
+<!ENTITY icons.label "צלמיות">
+<!ENTITY text.label "טקסט">
+<!ENTITY useSmallIcons.label "השתמש בצלמיות קטנות">
+<!ENTITY restoreDefaultSet.label "שחזר ברירת מחדל">
+<!ENTITY addNewToolbar.label "סרגל כלים חדש">
+<!ENTITY saveChanges.label "סיום">
+<!ENTITY undoChanges.label "בטל שינויים">

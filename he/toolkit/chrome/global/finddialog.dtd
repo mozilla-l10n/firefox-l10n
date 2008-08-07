@@ -1,0 +1,16 @@
+<!ENTITY cancelButton.label "ביטול">
+<!ENTITY caseSensitiveCheckbox.accesskey "ה">
+<!ENTITY caseSensitiveCheckbox.label "התאם אותיות גדולות/קטנות">
+<!ENTITY closeButton.label "סגור">
+<!ENTITY direction.label "כיוון">
+<!ENTITY down.accesskey "ט">
+<!ENTITY down.label "למטה">
+<!ENTITY findButton.accesskey "מ">
+<!ENTITY findButton.label "מצא את הבא">
+<!ENTITY findDialog.title "מצא בדף זה">
+<!ENTITY findField.accesskey "צ">
+<!ENTITY findField.label "מצא את:">
+<!ENTITY up.accesskey "ע">
+<!ENTITY up.label "למעלה">
+<!ENTITY wrapCheckbox.accesskey "ח">
+<!ENTITY wrapCheckbox.label "המשך חיפוש מתחילת הדף">

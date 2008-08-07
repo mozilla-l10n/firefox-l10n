@@ -1,0 +1,29 @@
+<!ENTITY copyAndFolderTitle.label "עותקים ותיקיות">
+<!ENTITY sendingPrefix.label "כאשר שולחים הודעות, אוטומטית:">
+<!ENTITY fccMailFolder.label "שים עותק בתוך:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "שים השבות בתיקייה של ההודעה שהושבה">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "בחר תיקייה...">
+<!ENTITY bccAddress.label "עותק סמוי לכתובות נוספות:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "תיקיות מיוחדות">
+<!ENTITY draftMailFolder.label "שמור טיוטות הודעות בתוך:">
+<!ENTITY templateMailFolder.label "שמור תבניות הודעה בתוך:">
+<!ENTITY saveMessageDlg.label "הצג בקשה לאישור כאשר הודעות נשמרות">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!ENTITY sentFolderOn.label "תיקיית &quot;נשלח&quot; על:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "אחר:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!ENTITY draftsFolderOn.label "תיקיית &quot;טיוטות&quot; על:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "אחר:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY templatesFolderOn.label "תיקיית &quot;תבניות&quot; על:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "אחר:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "טיוטות ותבניות">
+<!ENTITY keepDrafts.label "שמור טיוטות הודעות בתוך:">
+<!ENTITY keepTempltes.label "שמור תבניות הודעה בתוך:">

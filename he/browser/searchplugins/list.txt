@@ -1,0 +1,4 @@
+google
+yahoo
+wikipedia-he
+morfix-dic

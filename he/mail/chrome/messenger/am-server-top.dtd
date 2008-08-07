@@ -1,0 +1,80 @@
+<!ENTITY securitySettings.label "הגדרות אבטחה">
+<!ENTITY serverSettings.label "הגדרות שרת">
+<!ENTITY popServer.label "שרת דואר POP">
+<!ENTITY imapServer.label "שרת דואר IMAP">
+<!ENTITY newsServer.label "שרת קבוצות דיון (NNTP)">
+<!ENTITY webmail.label "חשבון WebMail">
+<!ENTITY serverType.label "סוג שרת:">
+<!ENTITY serverName.label "שם השרת:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "שם משתמש:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "שער:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "ברירת מחדל:">
+<!ENTITY savePassword.label "שמור סיסמה">
+<!ENTITY biffStart.label "בדוק אם קיימות הודעות חדשות כל ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "דקות">
+<!ENTITY isSecure.label "השתמש בקשר מאובטח (SSL)">
+<!ENTITY isSecure.accesskey "U">
+<!ENTITY socketType.label "השתמש בקשר מאובטח:">
+<!ENTITY neverSecure.label "לעולם לא">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, אם זמין">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "השתמש באימות זהות מאובטח">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "השאר הודעות על השרת">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "טען כותרות בלבד">
+<!ENTITY headersOnly.accesskey "f">
+<!ENTITY deleteByAgeFromServer.label "לכל היותר">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "ימים">
+<!ENTITY deleteOnServer2.label "עד שאמחק אותם">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "הורד הודעות חדשות אוטומטית">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "שם השרת המארח">
+<!ENTITY username.label "שם המשתמש שלך">
+<!ENTITY popServerTitle.label "מידע על שרת POP">
+<!ENTITY deleteMessagePrefix.label "כאשר אני מוחק הודעה:">
+<!-- ### ENTITY deleteMessagePrefix.accesskey "כ" -->
+<!ENTITY modelMoveToTrash.label "העבר לתיקיית אשפה">
+<!ENTITY modelMoveToTrash.accesskey "א">
+<!ENTITY modelMarkDeleted.label "סמן כמחוקה">
+<!ENTITY modelMarkDeleted.accesskey "מ">
+<!ENTITY modelDeleteImmediately.label "הסר אותה מיד">
+<!ENTITY modelDeleteImmediately.accesskey "ה">
+<!ENTITY expungeOnExit.label "נקה (&quot;רוקן&quot;) תיבת דואר נכנס ביציאה">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "רוקן אשפה ביציאה">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "בדוק אם יש דואר חדש בעת הפעלה">
+<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY maxMessagesStart.label "שאל אותי לפני הורדת יותר מאשר">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesEnd.label "הודעות">
+<!ENTITY alwaysAuthenticate.label "תמיד בקש אימות בעת התחברות לשרת זה">
+<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY newsrcFilePath.label "קובץ newsrc:‏">
+<!ENTITY newsrcFilePath.accesskey "f">
+<!ENTITY localPath.label "ספרייה מקומית:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY abbreviate.label "הצג שמות קבוצות דיון בחלונית תיקיות הדואר בצורת:">
+<!ENTITY abbreviateOn.label "שמות מלאים (לדוגמה, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "שמות מקוצרים (לדוגמה, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "מתקדם...">
+<!ENTITY serverDefaultCharset.label "קידוד תוים ברירת מחדל:">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY localFolderPicker.label "בחר ספרייה מקומית">
+<!ENTITY browseFolder.label "עיין...">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "בחר קובץ newsrc:‏">
+<!ENTITY browseNewsrc.label "עיין...">
+<!ENTITY browseNewsrc.accesskey "e">

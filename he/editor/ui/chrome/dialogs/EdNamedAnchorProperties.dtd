@@ -1,0 +1,4 @@
+<!ENTITY anchorNameEditField.accessKey "N">
+<!ENTITY anchorNameEditField.label "שם עוגן:">
+<!ENTITY nameInput.tooltip "הכנס שם ייחודי לעוגן (מטרה) זה">
+<!ENTITY windowTitle.label "מאפייני עוגן">

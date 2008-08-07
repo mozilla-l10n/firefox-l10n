@@ -1,0 +1,10 @@
+<!ENTITY matchAll.label "התאם את כל התנאים הבאים">
+<!ENTITY matchAll.accesskey "a">
+<!ENTITY matchAny.label "התאם לפחות לתנאי אחד מהבאים">
+<!ENTITY matchAny.accesskey "o">
+<!ENTITY matchAllMsgs.label "התאם את כל ההודעות">
+<!ENTITY matchAllMsgs.accesskey "m">
+<!ENTITY searchTermListAttributesFlexValue "5">
+<!ENTITY searchTermListOperatorsFlexValue "5">
+<!ENTITY searchTermListValueFlexValue "5">
+<!ENTITY searchTermListButtonsFlexValue "2">

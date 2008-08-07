@@ -1,0 +1,62 @@
+<!ENTITY updateWizard.title "עדכוני תוכנה">
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+<!ENTITY checking.title "בודק אם קיימים עדכונים">
+<!ENTITY checking.label "&brandShortName; בודק כעת אם קיימים עדכונים...">
+<!ENTITY cancel.label "ביטול">
+<!ENTITY cancel.accesskey "ב">
+<!ENTITY noupdatesfound.intro "אין עדכונים חדשים זמינים. &brandShortName; יכול לבדוק מדי פעם אם ישנם עדכונים חדשים.">
+<!ENTITY clickHere.label "הצג מידע נוסף אודות עדכון זה">
+<!ENTITY incompatible.warning "עדכון זה יגרום לחלק מההרחבות ו/או ערכות הנושא שלך 
+                                             להפסיק לעבוד עד שיעודכנו.">
+<!ENTITY listIncompatible.label "הצג רשימה">
+<!ENTITY listIncompatible.accesskey "צ">
+<!ENTITY upgrade.evangelism "מומלץ ביותר שתשדרג את &brandShortName; 
+                                   בהקדם האפשרי.">
+<!ENTITY license.instructions "אם אתה מסכים לתנאי הסכם זה, לחץ על אני מסכים
+                          להלן כדי להמשיך בהתקנת עדכון זה.">
+<!ENTITY license.introText "תנאים לשימוש בתוכנה זו.">
+<!ENTITY license.instructionText "בבקשה קרא את תנאי ההסכם הבאים. השתמש בפס הגלילה כדי לקרוא את המשך ההסכם.">
+<!ENTITY license.accept "אני מקבל את תנאי ההסכם.">
+<!ENTITY license.accept.accesskey "מ">
+<!ENTITY license.decline "אני לא מקבל את תנאי ההסכם">
+<!ENTITY license.decline.accesskey "ל">
+<!ENTITY downloading.title "מוריד עדכון">
+<!ENTITY downloading.intro "מוריד את העדכון...">
+<!ENTITY connecting.label "מתחבר אל שרת העדכון...">
+<!ENTITY verificationFailedText.label "&brandShortName; אינו יכול לאמת את שלמות 
+                                              העדכון שהורד, ולכן הוא מוריד כעת
+                                              את חבילת העדכון השלמה.
+                                       ">
+<!ENTITY details.link "פרטים">
+<!ENTITY pause.label "השהה">
+<!ENTITY pause.accesskey "ה">
+<!ENTITY close.label "סגור">
+<!ENTITY close.accesskey "ס">
+<!ENTITY error.label "נמצאו שגיאות בבדיקה, הורדה או התקנה של
+                 עדכון זה. &brandShortName; אינו יכול להתעדכן משום ש:">
+<!ENTITY errorManual.label "ביכולתך לעדכן את &brandShortName; ידנית על־ידי ביקור בקישור זה
+                                                                    והורדת הגרסה האחרונה:">
+<!ENTITY errorpatching.title "עדכון נכשל">
+<!ENTITY errorpatching.intro "אין אפשרות ליישם את העדכון החלקי.
+&brandShortName; ינסה שוב על־ידי הורדת עדכון שלם.">
+<!ENTITY finished.title "העדכון הורד">
+<!ENTITY finished.text "העדכון הורד בהצלחה ואומת, ויותקן בהפעלה הבאה של &brandShortName;.">
+<!ENTITY finishedBackground.title "העדכון מוכן להתקנה">
+<!ENTITY finishedBackground.text "&brandShortName; הוריד ואימת עדכון חשוב. לחץ על הקישור הבא לפרטים נוספים.">
+<!ENTITY finishedBackground.name "עדכון:">
+<!ENTITY finishedBackground.more1 "לחץ אתחל את &brandShortName; כעת כדי להתקין את העדכונים.">
+<!ENTITY installed.title "העדכון הותקן">
+<!ENTITY installed.intro "העדכון הותקן בהצלחה.">
+<!ENTITY whatsnew.label "קרא עוד אודות מה חדש...">
+<!ENTITY update.details.label "פרטים">
+<!ENTITY update.installedOn.label "הותקן בתאריך:">
+<!ENTITY update.status.label "מצב:">
+
+<!ENTITY  noupdatesfound.title            "לא נמצאו עדכונים">
+<!ENTITY  incompatibleChecking.label      "בודק אם עדכון זה עשוי לגרום לבעיות עם ההרחבות וערכות הנושא שלך...">
+<!ENTITY  license.titleText               "הסכם רישוי תוכנה">
+
+
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "לחץ על לא כעת כדי להמשיך לעבוד. &brandShortName; יתקין את העדכון בהפעלה הבאה.">

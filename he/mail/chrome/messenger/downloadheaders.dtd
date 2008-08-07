@@ -1,0 +1,9 @@
+<!--null-->
+<!ENTITY all.label "הורד את כל הכותרות">
+<!ENTITY all.accesskey "D">
+<!ENTITY download.label "הורד">
+<!ENTITY download.accesskey "o">
+<!ENTITY headers.label "כותרות">
+<!ENTITY headers.accesskey "h">
+<!ENTITY mark.label "סמן את הכותרות הנותרות כנקראו">
+<!ENTITY mark.accesskey "M">

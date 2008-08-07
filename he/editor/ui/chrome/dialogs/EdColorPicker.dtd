@@ -1,0 +1,18 @@
+<!ENTITY background.accessKey "B">
+<!ENTITY background.label "רקע עבור:">
+<!ENTITY cell.accessKey "C">
+<!ENTITY cell.label "תא(ים)">
+<!ENTITY default.accessKey "D">
+<!ENTITY default.label "ברירת מחדל">
+<!ENTITY lastPickedColor.accessKey "L">
+<!ENTITY lastPickedColor.label "צבע שנבחר אחרון">
+<!ENTITY palette.label "טבלת צבעים:">
+<!ENTITY setColor1.label "לחץ על צבע או">
+<!ENTITY setColor2.accessKey "H">
+<!ENTITY setColor2.label "הכנס מחרוזת צבע של HTML">
+<!ENTITY setColorExample.label "(דוגמה: &quot;#0000ff&quot; או &quot;blue&quot;):">
+<!ENTITY standardPalette.label "תקני">
+<!ENTITY table.accessKey "T">
+<!ENTITY table.label "טבלה">
+<!ENTITY webPalette.label "כל צבעי הרשת">
+<!ENTITY windowTitle.label "צבע">

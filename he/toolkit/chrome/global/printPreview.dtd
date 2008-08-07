@@ -1,0 +1,34 @@
+<!ENTITY Custom.label "התאמה אישית...">
+<!ENTITY ShrinkToFit.label "כווץ להתאמה">
+<!ENTITY close.accesskey "ס">
+<!ENTITY close.label "סגור">
+<!ENTITY customPrompt.title "קנה מידה מותאם אישית...">
+<!ENTITY endarrow.tooltip "דף אחרון">
+<!ENTITY homearrow.tooltip "דף ראשון">
+<!ENTITY landscape.accesskey "ר">
+<!ENTITY landscape.label "לרוחב">
+<!ENTITY leftarrow.tooltip "דף הקודם">
+<!ENTITY of.label "מתוך">
+<!ENTITY p100.label "100&#037;">
+<!ENTITY p125.label "125&#037;">
+<!ENTITY p150.label "150&#037;">
+<!ENTITY p175.label "175&#037;">
+<!ENTITY p200.label "200&#037;">
+<!ENTITY p30.label "30&#037;">
+<!ENTITY p40.label "40&#037;">
+<!ENTITY p50.label "50&#037;">
+<!ENTITY p60.label "60&#037;">
+<!ENTITY p70.label "70&#037;">
+<!ENTITY p80.label "80&#037;">
+<!ENTITY p90.label "90&#037;">
+<!ENTITY page.accesskey "ע">
+<!ENTITY page.label "עמוד:">
+<!ENTITY pageSetup.accesskey "ה">
+<!ENTITY pageSetup.label "הגדרות עמוד...">
+<!ENTITY portrait.accesskey "א">
+<!ENTITY portrait.label "לאורך">
+<!ENTITY print.accesskey "ד">
+<!ENTITY print.label "הדפסה...">
+<!ENTITY rightarrow.tooltip "דף הבא">
+<!ENTITY scale.accesskey "מ">
+<!ENTITY scale.label "קנה מידה:">

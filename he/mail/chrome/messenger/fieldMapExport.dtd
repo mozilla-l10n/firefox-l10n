@@ -1,0 +1,5 @@
+<!--null-->
+<!ENTITY fieldMapExport.title "יצוא פנקס כתובות">
+<!ENTITY fieldMapExport.add "הוסף שדה ->">
+<!ENTITY fieldMapExport.addAll "הוסף הכל ->">
+<!ENTITY fieldList.label "שדות כתובת">

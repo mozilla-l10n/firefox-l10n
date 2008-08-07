@@ -1,0 +1,27 @@
+<!ENTITY AutoSaveCheck "שמירה אוטומטית כל">
+<!ENTITY chooseButton.label "בחר">
+<!ENTITY composerEditing.label "עריכה">
+<!ENTITY crInPCreatesNewP.accesskey "R">
+<!ENTITY crInPCreatesNewP.label "מקש 'Return' בפסקה תמיד יוצר פסקה חדשה">
+<!ENTITY documentsInMenu.accesskey "n">
+<!ENTITY documentsInMenu.label "מספר מירבי של דפים רשומים:">
+<!ENTITY exterLegend.label "עורכים חיצוניים">
+<!ENTITY htmlSource "קוד מקור HTML:">
+<!ENTITY imageeditor "תמונות:">
+<!ENTITY maintainStructure.accesskey "M">
+<!ENTITY maintainStructure.label "שמור על מבנה הטבלה בעת הכנסת או מחיקת תאים">
+<!ENTITY maintainStructure.tooltip "שומר על הצורה המלבנית של הטבלה על־ידי הוספה אוטומטית של תאים לאחר הוספה או מחיקה של תאים">
+<!ENTITY minText "דקות">
+<!ENTITY pref.composer.title "Composer">
+<!ENTITY preserveExisting.accesskey "P">
+<!ENTITY preserveExisting.label "שמור על מקור עיצוב מקורי">
+<!ENTITY preserveExisting.tooltip "משמר שבירות שורה ועיצוב מקורי של הדף">
+<!ENTITY recentFiles.title "תפריט דפים אחרונים">
+<!ENTITY saveAssociatedFiles.accesskey "S">
+<!ENTITY saveAssociatedFiles.label "שמור תמונות וקבצים מקושרים אחרים בעת שמירת דפים">
+<!ENTITY saving "שמירה">
+<!ENTITY savingFiles.title "בעת שמירת או פרסום דפים">
+<!ENTITY showPublishDialog.accesskey "A">
+<!ENTITY showPublishDialog.label 'תמיד הראה את תיבת הדו־שיח "פרסם" בעת פרסום דפים'>
+<!ENTITY useCSS.accesskey "U">
+<!ENTITY useCSS.label "השתמש בסגנונות CSS במקום רכיבי ותכונות HTML">

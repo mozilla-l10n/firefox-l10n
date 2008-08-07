@@ -1,0 +1,5 @@
+<!ENTITY documentCharsetDesc.label "בחר את קידוד התוים שבו ברצונך לשמור מסמך:">
+<!ENTITY documentCharsetTitle.label "קידוד תוים">
+<!ENTITY documentExportToText.label "ייצא לטקסט">
+<!ENTITY documentTitleTitle.label "כותרת דף">
+<!ENTITY windowTitle.label "שמור ושנה קידוד תוים">

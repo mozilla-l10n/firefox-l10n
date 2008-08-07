@@ -1,0 +1,122 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#                 Tomer Cohen <tomerc@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "העתק">
+<!ENTITY  copy.accesskey        "ה">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "בחר הכל">
+<!ENTITY  selectall.accesskey   "ב">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "כללי">
+<!ENTITY  generalTab.accesskey  "כ">
+<!ENTITY  generalURL            "כתובת:">
+<!ENTITY  generalType           "סוג:">
+<!ENTITY  generalMode           "מצב ציור:">
+<!ENTITY  generalSize           "גודל:">
+<!ENTITY  generalReferrer       "כתובת קודמת:">
+<!ENTITY  generalSource         "מקור מטמון:">
+<!ENTITY  generalModified       "שינוי אחרון:">
+<!ENTITY  generalEncoding       "קידוד:">
+<!ENTITY  generalMetaName       "שם">
+<!ENTITY  generalMetaContent    "תוכן">
+<!ENTITY  generalSecurityMore   "עוד">
+<!ENTITY  generalSecurityMore.accesskey "ע">
+
+<!ENTITY  mediaTab              "מדיה">
+<!ENTITY  mediaTab.accesskey    "מ">
+<!ENTITY  mediaLocation         "מיקום:">
+<!ENTITY  mediaText             "מלל משוייך:">
+<!ENTITY  mediaAltHeader        "מלל חלופי">
+<!ENTITY  mediaAddress          "כתובת">
+<!ENTITY  mediaType             "סוג">
+<!ENTITY  mediaSize             "גודל">
+<!ENTITY  mediaCount            "כמות">
+<!ENTITY  mediaDimension        "מימדים:"><!ENTITY  mediaLongdesc         "תיאור:">
+<!ENTITY  mediaBlockImage.accesskey "ח">
+<!ENTITY  mediaSaveAs           "שמור בשם...">
+<!ENTITY  mediaSaveAs.accesskey "ש">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "תצוגה מקדימה:">
+
+<!ENTITY  feedTab               "הזנות">
+<!ENTITY  feedTab.accesskey     "ה">
+<!ENTITY  feedSubscribe         "הירשם">
+<!ENTITY  feedSubscribe.accesskey "ה">
+
+<!ENTITY  permTab               "הרשאות">
+<!ENTITY  permTab.accesskey     "ר">
+<!ENTITY  permUseDefault        "ברירת מחדל">
+<!ENTITY  permAllow             "אפשר">
+<!ENTITY  permAllowSession      "אפשר להפעלה זו">
+<!ENTITY  permBlock             "חסום">
+<!ENTITY  permissionsFor        "הרשאות עבור:">
+<!ENTITY  permImage             "טעינת תמונות">
+<!ENTITY  permPopup             "פתיחת חלונות קופצים">
+<!ENTITY  permCookie            "קביעת עוגיות">
+<!ENTITY  permInstall           "התקנת הרחבות או ערכות נושא">
+
+<!ENTITY  securityTab           "אבטחה">
+<!ENTITY  securityTab.accesskey "א">
+<!ENTITY  securityHeader        "מידע אבטחה עבור דף זה">
+<!ENTITY  securityView.certView "הצג אישורים">
+<!ENTITY  securityView.accesskey "ה">
+<!ENTITY  securityView.unknown   "לא ידוע">
+
+
+<!ENTITY  securityView.identity.header   "זהות האתר">
+<!ENTITY  securityView.identity.owner    "בעלים: ">
+<!ENTITY  securityView.identity.domain   "אתר: ">
+<!ENTITY  securityView.identity.verifier "גורם מאמת: ">
+
+<!ENTITY  securityView.privacy.header                   "פרטיות והיסטוריה">
+<!ENTITY  securityView.privacy.history                  "האם ביקרתי באתר זה בעבר?">
+<!ENTITY  securityView.privacy.cookies                  "האם אתר זה שומר מידע (עוגיות) על המחשב שלי?">
+<!ENTITY  securityView.privacy.viewCookies              "הצג עוגיות">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "ע">
+<!ENTITY  securityView.privacy.passwords                "האם שמרתי סיסמאות עבור אתר זה?">
+<!ENTITY  securityView.privacy.viewPasswords            "הצג סיסמאות שמורות">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "ס">
+
+<!ENTITY  securityView.technical.header                 "פירוט טכני">

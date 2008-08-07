@@ -1,0 +1,6 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "הודעה">
+<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY newCardCmd.label "כרטיס פנקס כתובות...">
+<!ENTITY newCardCmd.accesskey "c">

@@ -1,0 +1,24 @@
+<!ENTITY brandMotto '<b style="padding-right: 6em; padding-left: 0em;">לגלות את הרשת מחדש</b>'>
+
+<!ENTITY credit.thanks "תודה מיוחדת ל">
+<!ENTITY credit.thanks2 "תודות מיוחדות גם לכל">
+<!ENTITY credit.contributors2 "תורמים">
+<!ENTITY credit.translation "<h3>תרגום</h3>
+<ul>
+<li>צחי אשר</li>
+<li>ראובן גונן</li>
+<li>שגיא ילטוס</li>
+<li>תומר כהן</li>
+</ul>
+
+<h3>-תודות גם ל</h3>
+<ul>
+<li>אורי ברנשטיין</li>
+<li>סיימון מונטגיו</li>
+<li>שושנה פורבס</li>
+<li>אסף רומנו</li>
+<li>Prog</li>
+</ul>">
+
+<!ENTITY credit.memory "לזכרו של">
+<!ENTITY credit.poweredByGeckoReg "מופעל על־ידי Gecko&reg;">

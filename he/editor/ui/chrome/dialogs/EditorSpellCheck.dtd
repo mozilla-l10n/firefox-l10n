@@ -1,0 +1,32 @@
+<!ENTITY addToUserDictionaryButton.accessKey "d">
+<!ENTITY addToUserDictionaryButton.label "הוסף מילה">
+<!ENTITY checkwordButton.accessKey "k">
+<!ENTITY checkwordButton.label "בדוק מילה">
+<!ENTITY closeButton.accessKey "C">
+<!ENTITY closeButton.label "סגור">
+<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY editUserDictionaryButton.label "עריכה...">
+<!ENTITY ignoreAllButton.accessKey "n">
+<!ENTITY ignoreAllButton.label "התעלם מהכל">
+<!ENTITY ignoreButton.accessKey "I">
+<!ENTITY ignoreButton.label "התעלם">
+<!ENTITY languagePopup.accessKey "L">
+<!ENTITY languagePopup.label "שפה:">
+<!ENTITY misspelledWord.label "שפה:">
+<!ENTITY moreDictionaries.label "הורד עוד">
+<!ENTITY recheckButton.accessKey "P">
+<!ENTITY recheckButton.label "בדוק דף שוב">
+<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY replaceAllButton.label "החלף הכל">
+<!ENTITY replaceButton.accessKey "R">
+<!ENTITY replaceButton.label "החלף">
+<!ENTITY sendButton.accessKey "S">
+<!ENTITY sendButton.label "שלח">
+<!ENTITY stopButton.accessKey "t">
+<!ENTITY stopButton.label "עצור">
+<!ENTITY suggestions.accessKey "u">
+<!ENTITY suggestions.label "הצעות:">
+<!ENTITY userDictionary.label "מילון אישי:">
+<!ENTITY windowTitle.label "בדיקת איות">
+<!ENTITY wordEditField.accessKey "w">
+<!ENTITY wordEditField.label "החלף עם:">

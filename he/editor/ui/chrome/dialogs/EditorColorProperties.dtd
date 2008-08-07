@@ -1,0 +1,22 @@
+<!ENTITY activeLinkText.accessKey "A">
+<!ENTITY activeLinkText.label "טקסט של קישור פעיל">
+<!ENTITY background.accessKey "B">
+<!ENTITY background.label "רקע:">
+<!ENTITY backgroundImage.accessKey "m">
+<!ENTITY backgroundImage.label "תמונת רקע:">
+<!ENTITY backgroundImage.tooltip "השתמש בקובץ תמונה כרקע לדף שלך">
+<!ENTITY colon.character ":">
+<!ENTITY customColorsRadio.accessKey "C">
+<!ENTITY customColorsRadio.label "השתמש בצבעים מותאמים אישית:">
+<!ENTITY customColorsRadio.tooltip "הגדרות צבעים אלו גוברות על הגדרות הדפדפן של הצופה">
+<!ENTITY defaultColorsRadio.accessKey "D">
+<!ENTITY defaultColorsRadio.label "צבעי ברירת המחדל של הקורא (אל תגדיר צבעים בדף)">
+<!ENTITY defaultColorsRadio.tooltip "השתמש בקביעות הצבע של הדפדפן המציג (של הקורא) בלבד">
+<!ENTITY linkText.accessKey "L">
+<!ENTITY linkText.label "טקסט קישור">
+<!ENTITY normalText.accessKey "N">
+<!ENTITY normalText.label "טקסט רגיל">
+<!ENTITY pageColors.label "צבעי הדף">
+<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY visitedLinkText.label "טקסט של קישור שביקרו בו">
+<!ENTITY windowTitle.label "צבע ורקע של הדף">
