@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Gemorspos-staaflêer">
+<!ENTITY junkLogInfo.label "Log of junk mail control activity.">
+<!ENTITY clearLog.label "Maak staaflêer leeg">
+<!ENTITY clearLog.accesskey "M">
+<!ENTITY closeLog.label "Sluit">
+<!ENTITY closeLog.accesskey "u">

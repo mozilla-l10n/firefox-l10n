@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Sekuriteit">
+<!ENTITY securityMenu.accesskey "e">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Enkripteer indien moontlik">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "O">
+
+<!ENTITY menu_securityEncryptRequire.label "Enkripteer dié boodskap">
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
+
+<!ENTITY menu_securityNoEncryption.label "Moenie dié boodskap enkripteer nie">
+<!ENTITY menu_securityNoEncryption.accesskey "N">
+
+<!ENTITY menu_securitySign.label "Onderteken hierdie boodskap digitaal">
+<!ENTITY menu_securitySign.accesskey "D">
+
+<!ENTITY menu_securityStatus.label "Bekyk sekuriteitsinligting">
+<!ENTITY menu_securityStatus.accesskey "I">
+
+<!ENTITY securityButton.label "Sekuriteit">
+<!ENTITY securityButton.tooltip "Bekyk of wysig sekuriteitsopstelling">
+
+<!ENTITY menu_viewSecurityStatus.label "Boodskapsekuriteitsinligting">
+<!ENTITY menu_viewSecurityStatus.accesskey "I">

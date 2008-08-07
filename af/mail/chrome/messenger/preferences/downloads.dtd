@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label "Aanhegselvouer">
+<!ENTITY alwaysAsk.label "Vra vir my waar om elke lêer te stoor">
+<!ENTITY alwaysAsk.accesskey "V">
+<!ENTITY neverAsk.label "Stoor alle aanhegsels in hierdie vouer:">
+<!ENTITY neverAsk.accesskey "S">
+<!ENTITY desktop.label "Werkskerm">
+<!ENTITY downloads.label "My aflaaie">
+<!ENTITY chooseFolderWin.label "Blaai...">
+<!ENTITY chooseFolderWin.accesskey "B">
+<!ENTITY chooseFolderMac.label "Kies...">
+<!ENTITY chooseFolderMac.accesskey "K">
+
+
+<!ENTITY fileTypes.label "Aflaaiaksies">
+<!ENTITY configureActions.label "Bekyk en redigeer aksies...">
+<!ENTITY configureActions.accesskey "B">
+<!ENTITY fileTypesDescription.label "&brandShortName; kan aanhegsels van sekere soorte outomaties stoor op open.">
+
+<!ENTITY fileTypeColName.label "Lêersoort">
+<!ENTITY fileHandlerColName.label "Toepassing">
+<!ENTITY editFileHandler.label "Wysig Aksie...">
+<!ENTITY editFileHandler.accesskey "a">
+<!ENTITY removeFileHandler.label "Verwyder">
+<!ENTITY removeFileHandler.accesskey "v">

@@ -1,0 +1,17 @@
+<!ENTITY junkSettings.label "Junk Settings">
+<!ENTITY trainingWarning.label "Indien geaktiveer, moet jy eers &brandShortName; oplei om gemorspos te herken deur met die Gemorspos-nutsbalkknoppie boodskappe as gemors te merk of nie. Jy kan beide gemors- en niegemors-boodskappe identifiseer.">
+<!ENTITY level.label "Enable adaptive junk mail controls for this account">
+<!ENTITY level.accesskey "E">
+
+<!ENTITY move.label "Move new junk messages to:">
+<!ENTITY junkFolderOn.label "&quot;Gemorspos&quot;-vouer op:">
+<!ENTITY otherFolder.label "Ander:">
+<!ENTITY purge1.label "Automatically delete junk mail older than">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "dae">
+
+<!ENTITY whitelist.label "Do not mark mail as junk if the sender is in: ">
+<!ENTITY whitelist.accesskey "D">
+
+<!ENTITY ispHeaders.label "Vertrou gemorspos-kopskrifte wat opgestel is deur: ">
+<!ENTITY ispHeaders.accesskey "V">

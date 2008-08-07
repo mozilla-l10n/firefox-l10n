@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Identiteite met hierdie rekening geassosieer">
+<!ENTITY identitiesListDesc.label "Steun vir meervoudige identiteite">
+<!ENTITY identitiesListAdd.label "Byvoeg...">
+<!ENTITY identitiesListAdd.accesskey "B">
+<!ENTITY identitiesListEdit.label "Redigeer...">
+<!ENTITY identitiesListEdit.accesskey "R">
+<!ENTITY identitiesListDelete.label "Skrap">
+<!ENTITY identitiesListDelete.accesskey "S">

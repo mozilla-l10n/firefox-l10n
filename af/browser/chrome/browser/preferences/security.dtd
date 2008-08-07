@@ -1,0 +1,42 @@
+<!ENTITY warnAddonInstall.label "Waarsku my wanneer werwe probeer byvoegings installeer">
+<!ENTITY warnAddonInstall.accesskey "W">
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+
+<!ENTITY tellMaybeAttackSite.label "Vertel my as die werf wat ek besoek, daarvan verdink word dat dit 'n aanvalswebwerf is">
+<!ENTITY tellMaybeAttackSite.accesskey "k">
+
+<!ENTITY tellMaybeForgery.label "Vertel my as die werf wat ek besoek, daarvan verdink word dat dit 'n kwaadwillige webnamaaksel is">
+<!ENTITY tellMaybeForgery.accesskey "V">
+
+<!ENTITY addonExceptions.label "Uitsonderings…">
+<!ENTITY addonExceptions.accesskey "U">
+
+
+<!ENTITY passwords.label "Wagwoorde">
+
+<!ENTITY rememberPasswords.label "Onthou wagwoorde vir werwe">
+<!ENTITY rememberPasswords.accesskey "O">
+<!ENTITY passwordExceptions.label "Uitsonderings…">
+<!ENTITY passwordExceptions.accesskey "u">
+
+<!ENTITY useMasterPassword.label "Gebruik 'n meesterwagwoord">
+<!ENTITY useMasterPassword.accesskey "G">
+<!ENTITY changeMasterPassword.label "Wysig meesterwagwoord…">
+<!ENTITY changeMasterPassword.accesskey "M">
+
+<!ENTITY savedPasswords.label "Gestoorde wagwoorde…">
+<!ENTITY savedPasswords.accesskey "W">
+
+
+<!ENTITY warnings.label "Waarskuboodskappe">
+
+<!ENTITY chooseWarnings.label "Kies watter waarskuboodskap u wil sien terwyl u die web deursoek">
+
+<!ENTITY warningSettings.label "Opstelling…">
+<!ENTITY warningSettings.accesskey "O">

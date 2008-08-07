@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Boodskapsekuriteit">
+<!ENTITY subject.plaintextWarning "Let wel: E-posse se onderwerpreëls word nooit geënkripteer nie.">
+<!ENTITY status.heading "Die inhoud van jou boodskap sal as volg versend word:">
+<!ENTITY status.signed "Digitaal onderteken:">
+<!ENTITY status.encrypted "Geënkripteer:">
+<!ENTITY status.certificates "Sertifikate:">
+<!ENTITY view.label "Bekyk">
+<!ENTITY view.accesskey "B">
+<!ENTITY tree.recipient "Ontvanger">
+<!ENTITY tree.status "Status">
+<!ENTITY tree.issuedDate "Uitgereik">
+<!ENTITY tree.expiresDate "Verval">

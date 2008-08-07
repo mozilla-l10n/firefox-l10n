@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Tik die webligging (URL) in of spesifiseer die plaaslike lêer wat u wil open:">
+<!ENTITY chooseFile.label "Kies lêer…">
+<!ENTITY newWindow.label "Nuwe venster">
+<!ENTITY newTab.label "Nuwe oortjie">
+<!ENTITY topWindow.label "Huidige venster">
+<!ENTITY caption.label "Open webligging">
+<!ENTITY openWhere.label "Open in:">
+<!ENTITY openBtn.label "Open">

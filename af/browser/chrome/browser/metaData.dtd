@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label "Geen eienskappe opgestel nie.">
+
+<!ENTITY caption.label "Elementeienskappe">
+<!ENTITY image-sec.label "Prenteienskappe">
+<!ENTITY image-url.label "Ligging:">
+<!ENTITY image-type.label "Soort:">
+<!ENTITY image-desc.label "Beskrywing:">
+<!ENTITY image-alt.label "Alternatiewe teks:">
+<!ENTITY image-size.label "Prentafmetings:">
+<!ENTITY image-filesize.label "Grootte van lêer:">
+<!ENTITY insdel-sec.label "Invoeg/Skrap eienskappe">
+<!ENTITY insdel-cite.label "Info:">
+<!ENTITY insdel-date.label "Datum:">
+<!ENTITY link-sec.label "Skakel-eienskappe">
+<!ENTITY link-url.label "Adres:">
+<!ENTITY link-target.label "Sal open in:">
+<!ENTITY link-type.label "Doelsoort:">
+<!ENTITY link-lang.label "Doeltaal:">
+<!ENTITY link-rel.label "Verhouding:">
+<!ENTITY link-rev.label "Omgekeerde verhouding:">
+<!ENTITY link-ping.label "Sal in kennis stel:">
+<!ENTITY misc-sec.label "Diverse eienskappe">
+<!ENTITY misc-lang.label "Tekstaal:">
+<!ENTITY misc-title.label "Titel:">
+<!ENTITY misc-tblsummary.label "Tabelopsomming:">
+<!ENTITY quote-sec.label "Aanhalingseienskappe">
+<!ENTITY quote-cite.label "Info:">

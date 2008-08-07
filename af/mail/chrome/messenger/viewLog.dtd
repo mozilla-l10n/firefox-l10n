@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Filterstaaflêer">
+<!ENTITY viewLogInfo.text "Die filterstaaflêer teken aan watter filters vir hierdie rekening gebruik is. Merk die blokkie hieronder om boekstawing te aktiveer.">
+<!ENTITY clearLog.label "Maak staaflêer leeg">
+<!ENTITY clearLog.accesskey "M">
+<!ENTITY enableLog.label "Aktiveer die filterstaaflêer">
+<!ENTITY enableLog.accesskey "A">
+<!ENTITY closeLog.label "Sluit">
+<!ENTITY closeLog.accesskey "u">

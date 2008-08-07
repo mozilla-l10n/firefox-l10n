@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Laai sertifikate af">
+<!ENTITY info.message "Deursoek die gids vir ontvangers se sertifikate. Wag 'n rukkie, asseblief.">
+<!ENTITY stop.label "Staak soektog">

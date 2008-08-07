@@ -1,0 +1,88 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "Publiseer bladsy">
+<!ENTITY windowTitleSettings.label "Publiseer-opstelling">
+
+<!ENTITY publishTab.label "Publiseer">
+<!ENTITY settingsTab.label "Opstelling">
+
+<!ENTITY publishButton.label "Publiseer">
+<!-- Publish Tab Panel -->
+
+<!ENTITY siteList.label "Site Name:">
+<!ENTITY siteList.tooltip "Kies die werf waarheen jy wil publiseer">
+<!ENTITY newSiteButton.label "Nuwe werf">
+<!ENTITY siteDirList.label "Kies of tik 'n gidsnaam in jou publiseerwerf in:">
+<!ENTITY siteDirList.tooltip "Kies of tik die naam van die afgeleë subgids waarin gepubliseer moet word, in">
+<!ENTITY docDirList.label "Werfsubgids vir hierdie bladsy:">
+<!ENTITY publishImgCheckbox.label "Sluit prente en ander lêers in">
+<!ENTITY publishImgCheckbox.tooltip "Publiseer prente en ander lêers waarna hierdie bladsy verwys">
+<!ENTITY sameLocationRadio.label "Gebruik dieselfde ligging as bladsy">
+<!ENTITY sameLocationRadio.tooltip "Publiseer lêers na dieselfde ligging as die bladsy">
+<!ENTITY useSubdirRadio.label "Gebruik hierdie werfsubgids:">
+<!ENTITY useSubdir.tooltip "Kies of tik naam van afgeleë subgids in waarin lêers gepubliseer gaan word">
+<!ENTITY chooseDirButton.label "Kies...">
+<!ENTITY pageTitle.label "Bladsytitel:">
+<!ENTITY pageTitle.tooltip "Tik 'n titel in om die bladsy te identifiseer in die venstertitel en boekmerke">
+<!ENTITY pageTitleExample.label "bv: &quot;My webwerf&quot;">
+<!ENTITY filename.label "Lêernaam:">
+<!ENTITY filename.tooltip "Tik 'n naam vir hierdie lêer in, insluitend '.html' vir 'n webwerf">
+<!ENTITY filenameExample.label "bv: &quot;mywerf.html&quot;">
+<!ENTITY relatedDocs.label "Ander lêers om te publiseer">
+<!ENTITY setDefaultButton.label "Kies as verstek">
+<!ENTITY setDefSiteAndDir.label "Stel op as verstek-werf en -subgids">
+<!ENTITY removeButton.label "Verwyder werf">
+<!-- Settings Tab Panel -->
+
+<!ENTITY publishSites.label "Publiseer werwe">
+<!ENTITY serverInfo.label "Bedienerinligting">
+<!ENTITY loginInfo.label "Aanmeldinligting">
+<!ENTITY siteName.label "Site Name:">
+<!ENTITY siteName.tooltip "'n Kennaam wat hierdie publiseerwerf identifiseer (bv: 'MyWerf')">
+<!ENTITY siteUrl.label "Publiseeradres (bv: 'ftp://ftp.myisp.com/mygebruikernaam'):">
+<!ENTITY siteUrl.tooltip "Die FTP://- of HTTP://-adres wat deur jou ISP of webgasheer verskaf is">
+<!ENTITY browseUrl.label "HTTP-adres van jou tuisblad (bv: 'http://www.myisp.com/mygebruikernaam'):">
+<!ENTITY browseUrl.tooltip "Die HTTP://-adres van jou tuissubgids (moenie lêernaam insluit nie)">
+<!ENTITY username.label "Gebruikernaam:">
+<!ENTITY username.tooltip "Die gebruikernaam waarmee jy by jou ISP of webgasheer aanmeld">
+<!ENTITY password.label "Wagwoord:">
+<!ENTITY password.tooltip "Die wagwoord wat by jou gebruikernaam pas">
+<!ENTITY savePassword.label "Stoor wagwoord">
+<!ENTITY savePassword.tooltip "Selekteer dit om jou wagwoord beveilig met die wagwoordbestuurder te stoor">

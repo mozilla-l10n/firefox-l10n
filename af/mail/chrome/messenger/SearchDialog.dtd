@@ -1,0 +1,75 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Soek vir boodskappe in:">
+<!ENTITY searchHeading.accesskey "k">
+<!ENTITY searchSubfolders.label "Deursoek subvouers">
+<!ENTITY searchSubfolders.accesskey "u">
+<!ENTITY resetButton.label "Maak skoon">
+<!ENTITY resetButton.accesskey "M">
+<!ENTITY optionsButton.label "Opsies">
+<!ENTITY closeButton.label "Afsluit">
+<!ENTITY openButton.label "Open">
+<!ENTITY openButton.accesskey "n">
+<!ENTITY deleteButton.label "Skrap">
+<!ENTITY deleteButton.accesskey "S">
+<!ENTITY searchDialogTitle.label "Deursoek boodskappe">
+<!ENTITY conditionDesc.label "Soek vir boodskappe wat pas:">
+<!ENTITY conditions.label "Kriteria">
+<!ENTITY results.label "Resultate">
+<!ENTITY fileHereMenu.label "Liasseer hier">
+<!ENTITY fileHereMenu.accesskey "L">
+<!ENTITY fileButton.label "Lêer">
+<!ENTITY fileButton.accesskey "ê">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Open boodskapvouer">
+<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY saveAsVFButton.label "Stoor as soekvouer">
+<!ENTITY saveAsVFButton.accesskey "t">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "Soek in:">
+<!ENTITY abSearchHeading.accesskey "e">
+<!ENTITY propertiesButton.label "Eienskappe">
+<!ENTITY propertiesButton.accesskey "E">
+<!ENTITY composeButton.label "Skryf">
+<!ENTITY composeButton.accesskey "S">
+<!ENTITY abSearchDialogTitle.label "Gevorderde adresboeksoektog">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Draad">
+<!ENTITY senderColumn.label "Afsender">
+<!ENTITY recipientColumn.label "Ontvanger">
+<!ENTITY subjectColumn.label "Onderwerp">
+<!ENTITY dateColumn.label "Datum">
+<!ENTITY priorityColumn.label "Prioriteit">
+<!ENTITY labelColumn.label "Etiket">
+<!ENTITY accountColumn.label "Rekening">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Grootte">
+<!ENTITY junkStatusColumn.label "Gemors-status">
+<!ENTITY linesColumn.label "Reëls">
+<!ENTITY unreadColumn.label "Ongelees">
+<!ENTITY totalColumn.label "Totaal">
+<!ENTITY readColumn.label "Lees">
+<!ENTITY flagColumn.label "Vlag">
+<!ENTITY locationColumn.label "Ligging">
+<!ENTITY idColumn.label "Volgorde ontvang">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Kliek om kolomme te kies wat vertoon moet word">
+<!ENTITY threadColumn.tooltip "Kliek om die boodskapdrade te vertoon">
+<!ENTITY senderColumn.tooltip "Kliek om volgens afsender te sorteer">
+<!ENTITY recipientColumn.tooltip "Kliek om volgens ontvanger te sorteer">
+<!ENTITY subjectColumn.tooltip "Kliek om te volgens onderwerp sorteer">
+<!ENTITY dateColumn.tooltip "Kliek om volgens datum te sorteer">
+<!ENTITY priorityColumn.tooltip "Kliek om volgens prioriteit te sorteer">
+<!ENTITY labelColumn.tooltip "Kliek om volgens etiket te sorteer">
+<!ENTITY accountColumn.tooltip "Kliek om volgens rekening te sorteer">
+<!ENTITY statusColumn.tooltip "Kliek om volgens status te sorteer">
+<!ENTITY sizeColumn.tooltip "Kliek om volgens grootte te sorteer">
+<!ENTITY junkStatusColumn.tooltip "Kliek om volgens gemors-status te sorteer">
+<!ENTITY unreadColumn.tooltip "Getal ongelese boodskappe in draad">
+<!ENTITY totalColumn.tooltip "Totale getal boodskappe in draad">
+<!ENTITY readColumn.tooltip "Kliek om volgens gelees te sorteer">
+<!ENTITY flagColumn.tooltip "Kliek om volgens vlag te sorteer">
+<!ENTITY locationColumn.tooltip "Kliek om volgens ligging te sorteer">
+<!ENTITY idColumn.tooltip "Kliek om te sorteer volgens volgorde ontvang">

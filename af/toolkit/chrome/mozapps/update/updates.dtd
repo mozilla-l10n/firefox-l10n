@@ -1,0 +1,81 @@
+<!ENTITY updateWizard.title "Sagtewarebywerking">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "Kontroleer vir bywerkings">
+<!ENTITY checking.label "&brandShortName; kontroleer nou vir bywerkings…">
+
+<!ENTITY cancel.label "Kanselleer">
+<!ENTITY cancel.accesskey "K">
+
+<!ENTITY noupdatesfound.title "Geen bywerkings gevind nie">
+<!ENTITY noupdatesfound.intro "Daar is geen bywerkings beskikbaar nie. &brandShortName; kan nou en dan 
+kontroleer vir nuwe bywerkings.">
+
+<!ENTITY incompatibleChecking.label "Kontroleer tans of hierdie bywerking probleme met u uitbreidings en/of temas sal veroorsaak…">
+<!ENTITY clickHere.label "Bekyk meer inligting oor hierdie bywerking">
+
+<!ENTITY incompatible.warning "Hierdie bywerking sal maak dat sommige van u uitbreidings en/of temas ophou 
+werk tot hulle opgedateer is.">
+<!ENTITY listIncompatible.label "Wys lys">
+<!ENTITY listIncompatible.accesskey "L">
+
+<!ENTITY upgrade.evangelism "Daar word sterk aanbeveel dat u &brandShortName; so gou 
+moontlik opgradeer.">
+
+<!ENTITY license.instructions "As u met die bepalings van hierdie ooreenkoms instem, kliek Ek stem in hier 
+onder om hierdie bywerking te installeer.">
+
+<!ENTITY license.titleText "Sagtewarelisensieooreenkoms">
+<!ENTITY license.introText "Bepalings en voorwaardes vir die gebruik van hierdie sagteware.">
+<!ENTITY license.instructionText "Lees asseblief die volgende lisensieooreenkoms. Gebruik die rolbalk om die res van die ooreenkoms te bekyk.">
+<!ENTITY license.accept "Ek aanvaar die bepalings van die lisensieooreenkoms">
+<!ENTITY license.accept.accesskey "s">
+<!ENTITY license.decline "Ek aanvaar nié die bepalings van die lisensieooreenkoms nie">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY downloading.title "Laai bywerking af">
+<!ENTITY downloading.intro "Laai tans die bywerking af…">
+<!ENTITY connecting.label "Koppel tans aan die bywerkingbediener…">
+<!ENTITY verificationFailedText.label "&brandShortName; kon nie die integriteit van die trapsgewyse 
+bywerking wat afgelaai is, verifieer nie, en daarom laai dit 
+nou die volledige pakket af.">
+
+<!ENTITY details.link "Besonderhede">
+<!ENTITY pause.label "Laat wag">
+<!ENTITY pause.accesskey "w">
+<!ENTITY close.label "Sluit">
+<!ENTITY close.accesskey "S">
+
+<!ENTITY error.label "Kon nie vir hierdie bywerking kontroleer, dit aflaai of installeer nie. 
+&brandShortName; kon nie opgedateer word nie, omdat:">
+                                           
+<!ENTITY errorManual.label "U kan &brandShortName; handmatig bywerk deur hierdie skakel te besoek en die 
+jongste weergawe af te laai:">
+                                           
+<!ENTITY errorpatching.title "Bywerking het misluk">
+<!ENTITY errorpatching.intro "Die gedeeltelike bywerking kon nie toegepas word nie. &brandShortName; sal 
+weer probeer om die volledige bywerking af te laai.">
+
+<!ENTITY finished.title "Bywerking afgelaai">
+<!ENTITY finished.text "Die bywerking is suksesvol afgelaai en geverifieer, en dit sal volgende keer 
+geïnstalleer word wanneer &brandShortName; begin.">
+
+<!ENTITY finishedBackground.title "Bywerking gereed om geïnstalleer te word">
+<!ENTITY finishedBackground.text "&brandShortName; het 'n belangrike bywerking afgelaai en geverifieer. Kliek 
+die skakel hier onder vir meer details.">
+<!ENTITY finishedBackground.name "Bywerking:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY finishedBackground.more1 "Kliek Herbegin &brandShortName; om die bywerking nou te installeer.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY finishedBackground.textNotNow "Klik 'Nie nou nie' om hierdie dialoog te sluit en voort te gaan met u werk. &brandShortName; 
+sal die bywerking installeer wanneer dit weer begin.">
+
+<!ENTITY installed.title "Bywerking geïnstalleer">
+<!ENTITY installed.intro "Die bywerking is suksesvol geïnstalleer.">
+<!ENTITY whatsnew.label "Leer meer oor wat nuut is…">
+
+<!ENTITY update.details.label "Besonderhede">
+<!ENTITY update.installedOn.label "Geïnstalleer op:">
+<!ENTITY update.status.label "Status:">

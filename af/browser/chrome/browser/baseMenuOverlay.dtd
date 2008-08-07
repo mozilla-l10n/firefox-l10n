@@ -1,0 +1,48 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Minimeer">
+<!ENTITY bringAllToFront.label "Bring alles na vore">
+<!ENTITY zoomWindow.label "Zoem">
+<!ENTITY windowMenu.label "Venster">
+
+<!ENTITY helpMenu.label "Hulp">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Hulp">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutCmd.label "Aangaande &brandFullName;">
+<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY helpContents.label "Hulpinhoud">
+<!ENTITY helpContents.accesskey "H">
+<!ENTITY helpContentsMac.label "&brandShortName;-hulp">
+<!ENTITY helpForIEUsers.label "Vir Internet Explorer-gebruikers">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey "/">
+<!ENTITY openHelpMac.modifiers "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey "?">
+<!ENTITY openHelpMac.frontendModifiers "accel">
+
+<!ENTITY helpReleaseNotes.label "Vrystellingaantekeninge">
+<!ENTITY helpReleaseNotes.accesskey "A">
+<!ENTITY updateCmd.label "Kontroleer vir bywerkings…">
+<!ENTITY updateCmd.accesskey "v">
+
+<!ENTITY preferencesCmdMac.label "Voorkeure…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+
+<!ENTITY servicesMenuMac.label "Dienste">
+
+<!ENTITY hideThisAppCmdMac.label "Verskuil &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "V">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label "Verskuil ander">
+<!ENTITY hideOtherAppsCmdMac.commandkey "V">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label "Wys alle">

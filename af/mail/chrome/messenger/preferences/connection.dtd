@@ -1,0 +1,42 @@
+<!ENTITY connectionsDialog.title "Koppelingopstelllings">
+<!ENTITY window.width "37em">
+
+<!ENTITY proxyTitle.label "Stel instaanbedieners op vir internettoegang">
+<!ENTITY directTypeRadio.label "Direkte koppeling met die internet">
+<!ENTITY directTypeRadio.accesskey "d">
+<!ENTITY WPADTypeRadio.label "Outospeur instaanbediener-instelllings vir hierdie netwerk">
+<!ENTITY WPADTypeRadio.accesskey "w">
+<!ENTITY manualTypeRadio.label "Handmatige opstelling van instaanbediener:">
+<!ENTITY manualTypeRadio.accesskey "h">
+<!ENTITY autoTypeRadio.label "URL vir outomatiese konfigurasie van instaanbediener:">
+<!ENTITY autoTypeRadio.accesskey "o">
+<!ENTITY configAutoconfigText.label "Ligging van opstelling (URL):">
+<!ENTITY configAutoconfigText.accesskey "u">
+<!ENTITY reload.label "Herlaai">
+<!ENTITY reload.accesskey "l">
+<!ENTITY ftp.label "FTP-instaanbediener:">
+<!ENTITY ftp.accesskey "f">
+<!ENTITY gopher.label "Gopherinstaanbediener:">
+<!ENTITY gopher.accesskey "g">
+<!ENTITY http.label "HTTP-instaanbediener:">
+<!ENTITY http.accesskey "h">
+<!ENTITY ssl.label "SSL-instaanbediener:">
+<!ENTITY ssl.accesskey "s">
+<!ENTITY socks.label "SOCKS-gasheer:">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "k">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY port.label "Poort:">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY FTPport.accesskey "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY gopherPort.accesskey "">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "Geen Instaanbediener vir:">
+<!ENTITY noproxy.accesskey "g">
+<!ENTITY noproxyExplain.label "Byvoorbeeld: .mozilla.org, .org.za, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Gebruik hierdie instaanbediener vir alle protokol maaltye eet">
+<!ENTITY shareproxy.accesskey "i">

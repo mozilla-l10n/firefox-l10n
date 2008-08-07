@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Knip">
+<!ENTITY cutCmd.accesskey "p">
+<!ENTITY copyCmd.label "Kopieer">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Plak">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY undoCmd.label "Ontdoen">
+<!ENTITY undoCmd.accesskey "o">
+<!ENTITY selectAllCmd.label "Merk alles">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "Skrap">
+<!ENTITY deleteCmd.accesskey "s">
+
+<!ENTITY spellAddToDictionary.label "Voeg by woordeboek">
+<!ENTITY spellAddToDictionary.accesskey "b">
+<!ENTITY spellCheckEnable.label "Toets spelling">
+<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(Geen spelvoorstelle nie)">
+<!ENTITY spellDictionaries.label "Tale">
+<!ENTITY spellDictionaries.accesskey "t">

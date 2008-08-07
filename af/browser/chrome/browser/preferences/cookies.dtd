@@ -1,0 +1,30 @@
+<!ENTITY window.width "36em">
+
+<!ENTITY cookiesonsystem.label "Die volgende koekies is op u rekenaar gestoor:">
+<!ENTITY cookiename.label "Koekienaam">
+<!ENTITY cookiedomain.label "Werf">
+<!ENTITY button.removecookie.label "Verwyder koekie">
+<!ENTITY button.removecookie.accesskey "V">
+<!ENTITY button.removeallcookies.label "Verwyder alle koekies">
+<!ENTITY button.removeallcookies.accesskey "A">
+
+<!ENTITY props.name.label "Naam:">
+<!ENTITY props.value.label "Inhoud:">
+<!ENTITY props.domain.label "Gasheer:">
+<!ENTITY props.path.label "Pad:">
+<!ENTITY props.secure.label "Stuur vir:">
+<!ENTITY props.expires.label "Verval:">
+
+<!ENTITY window.title "Koekies">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Soek:">
+<!ENTITY filter.accesskey "S">
+<!ENTITY clear.label "Maak skoon">
+<!ENTITY clear.accesskey "s">
+
+<!ENTITY button.close.label "Sluit">
+<!ENTITY button.close.accesskey "S">
+

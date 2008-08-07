@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Rekeningopstelling">
+<!ENTITY accountSettingsDesc.label "Die volgende is 'n spesiale rekening.  Daar word geen identiteit mee geassosieer nie.">
+<!ENTITY accountName.label "Gebruikernaam:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "Boodskapbewaring">
+<!ENTITY emptyTrashOnExit.label "Maak snippermandjie leeg tydens afsluiting">
+<!ENTITY emptyTrashOnExit.accesskey "f">
+<!ENTITY localPath.label "Plaaslike gids:">
+<!ENTITY localPath.accesskey "P">
+<!ENTITY localFolderPicker.label "Kies plaaslike gids">
+<!ENTITY browseFolder.label "Blaai...">
+<!ENTITY browseFolder.accesskey "B">

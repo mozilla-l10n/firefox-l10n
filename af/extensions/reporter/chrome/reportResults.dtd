@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Werf">
+<!ENTITY reportProblemType "Probleemsoort">
+<!ENTITY reportDecsription "Beskrywing">
+<!ENTITY reportPlatform "Platform">
+<!ENTITY reportProduct "Produk">
+<!ENTITY reportoscpu "BS">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Bou konfig">
+<!ENTITY reportUseragent "Gebruikeragent">
+<!ENTITY reportLanguage "Taal">
+<!ENTITY reportCharset "Karakterstel">
+<!ENTITY reportEmail "E-pos">
+<!ENTITY error "Foutbesonderhede">
+<!ENTITY faultCode "Kode">
+<!ENTITY faultMessage "Boodskap">

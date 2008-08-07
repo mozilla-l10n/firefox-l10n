@@ -1,0 +1,13 @@
+
+<!ENTITY prefWindow.titleWin "Opsies">
+<!ENTITY prefWindow.titleGNOME "&brandShortName;-voorkeure">
+<!ENTITY prefWindow.styleWin "width: 44em; height: 38em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleUnix "width: 42em;">
+
+<!ENTITY paneGeneral.title "Algemeen">
+<!ENTITY paneDisplay.title "Vertoon">
+<!ENTITY paneComposition.title "Opstelling">
+<!ENTITY paneAttachments.title "Aanhegsels">
+<!ENTITY panePrivacy.title "Privaatheid">
+<!ENTITY paneAdvanced.title "Gevorderd">

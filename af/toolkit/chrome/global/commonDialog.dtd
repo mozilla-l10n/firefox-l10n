@@ -1,0 +1,10 @@
+<!ENTITY header.label "Kort titel">
+<!ENTITY message.label "Voorbeeldteks kom hierso.">
+<!ENTITY editfield0.label "Gebruikernaam:">
+<!ENTITY editfield1.label "Wagwoord:">
+<!ENTITY editfield2.label "Bevestig wagwoord:">
+<!ENTITY checkbox.label "merk">
+<!ENTITY copyCmd.label "Kopieer">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Merk alles">
+<!ENTITY selectAllCmd.accesskey "A">

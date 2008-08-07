@@ -1,0 +1,55 @@
+<!ENTITY history.label "Geskiedenis">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Behou my geskiedenis vir ten minste">
+<!ENTITY rememberDaysBefore.accesskey "g">
+<!ENTITY rememberDaysAfter2.label "dae">
+
+<!ENTITY rememberForms.label "Onthou wat ek in vorms in die soekbalk intik">
+<!ENTITY rememberForms.accesskey "v">
+
+<!ENTITY rememberDownloads.label "Onthou wat ek afgelaai het">
+<!ENTITY rememberDownloads.accesskey "a">
+
+
+<!ENTITY cookies.label "Koekies">
+
+<!ENTITY acceptCookies.label "Aanvaar koekies van werwe">
+<!ENTITY acceptCookies.accesskey "a">
+
+<!ENTITY acceptThirdParty.label "Aanvaar koekies van derde partye">
+<!ENTITY acceptThirdParty.accesskey "p">
+
+<!ENTITY keepUntil.label "Hou tot:">
+<!ENTITY keepUntil.accesskey "H">
+
+<!ENTITY expire.label "hulle verval">
+<!ENTITY close.label "ek &brandShortName; afsluit">
+<!ENTITY askEachTime.label "vra elke keer">
+
+<!ENTITY cookieExceptions.label "Uitsonderings…">
+<!ENTITY cookieExceptions.accesskey "U">
+
+<!ENTITY showCookies.label "Wys koekies…">
+<!ENTITY showCookies.accesskey "W">
+
+
+<!ENTITY privateData.label "Private data">
+
+<!ENTITY alwaysClear.label "Skrap altyd my private data wanneer ek &brandShortName; afsluit">
+<!ENTITY alwaysClear.accesskey "s">
+
+<!ENTITY askBeforeClear.label "Vra my voor private data geskrap word">
+<!ENTITY askBeforeClear.accesskey "V">
+
+<!ENTITY clearDataSettings.label "Opstelling…">
+<!ENTITY clearDataSettings.accesskey "p">
+
+<!ENTITY clearDataNow.label "Skrap nou…">
+<!ENTITY clearDataNow.label2 "Skrap nou">
+<!ENTITY clearDataNow.accesskey "N">

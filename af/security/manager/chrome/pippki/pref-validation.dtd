@@ -1,0 +1,87 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David P. Drinan (ddrinan@netscape.com)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.validation.title "Stawing">
+
+<!ENTITY validation.crl.caption "SOL">
+<!ENTITY validation.crl.description "Gebruik die SOL-bestuurder om die sertifikaatopheffingslyste (SOL) te bestuur wat in u sertifikaatdatabasis gestoor is.">
+<!ENTITY validation.managecrls.button "Bestuur SOL'e…">
+<!ENTITY validation.managecrls.accesskey "M">
+<!ENTITY validation.crlmanager.label "Bestuur SOL'e">
+<!ENTITY validation.crlmanager.description "Hierdie sertifikaatopheffingslyste (CRL) word gestoor in u sertifikaatdatabasis:">
+<!ENTITY validation.crlname.label "Naam">
+<!ENTITY validation.crllastupdate.label "Vorige bywerking">
+<!ENTITY validation.crlnextupdate.label "Volgende bywerking">
+<!ENTITY validation.crlautoupdateenabled.label "Outobywerking">
+<!ENTITY validation.crlautoupdatestatus.label "Outobywerking-status">
+<!ENTITY validation.deletecrl.label "Skrap">
+<!ENTITY validation.deletecrl.accesskey "S">
+<!ENTITY validation.updatecrl.label "Werk by">
+<!ENTITY validation.updatecrl.accesskey "W">
+<!ENTITY validation.advanced.label "Opstelling">
+<!ENTITY validation.advanced.accesskey "O">
+
+<!ENTITY validation.crl.autoupdate.title "Voorkeure vir outomatiese SOL-bywerking">
+<!ENTITY validation.crl.autoupdate.enable.label "Aktiveer outomatiese bywerking vir hierdie SOL">
+<!ENTITY validation.crl.autoupdate.time.label1 "Bywerk">
+<!ENTITY validation.crl.autoupdate.time.label2 "Dag(e) voor volgende bywerkingsdatum">
+<!ENTITY validation.crl.autoupdate.freq.label1 "Bywerk elke">
+<!ENTITY validation.crl.autoupdate.freq.label2 "Dag(e)">
+<!ENTITY validation.crl.autoupdate.url.label "SOL sal ingevoer word vanaf:">
+<!ENTITY crl.import.status.title "SOL-invoerstatus">
+<!ENTITY crl.import.success.message "Die sertifikaatopheffingslys (SOL) is suksesvol ingevoer.">
+<!ENTITY crl.issuer.label "SOL uitgereik deur:">
+<!ENTITY crl.issuer.org.label "Organisasie: ">
+<!ENTITY crl.issuer.orgunit.label "Eenheid: ">
+<!ENTITY crl.import.nextupdate.label "Volgende bywerking op: ">
+<!ENTITY crl.autoupdate.fail.cnt.label "Vorige opeenvolgende mislukte bywerkings: ">
+<!ENTITY crl.autoupdate.fail.reason.label "Besonderhede van vorige mislukte bywerking: ">
+<!ENTITY edit.button "Opstelling">
+
+<!ENTITY validation.ocsp.caption "OCSP">
+<!ENTITY enableOCSP.label "Gebruik die protokol vir aanlyn sertifikaatstatus (OCSP) om die huidige geldigheid van sertifikate te bevestig">
+<!ENTITY enableOCSP.accesskey "G">
+<!ENTITY certOCSP2.label "Valideer 'n sertifikaat as dit 'n OCSP-bediener vermeld">
+<!ENTITY certOCSP2.accesskey "V">
+<!ENTITY proxyOCSP2.label "Valideer alle sertifikaat met die volgende OCSP-bediener:">
+<!ENTITY proxyOCSP2.accesskey "v">
+<!ENTITY serviceURL.label "Diens-URL:">
+<!ENTITY serviceURL.accesskey "D">
+<!ENTITY signingCA.label "Responsondertekenaar:">
+<!ENTITY signingCA.accesskey "R">
+<!ENTITY validation.requireOCSP.description "Wanneer 'n OCSP-bedienerverbinding misluk, beskou die sertifikaat as ongeldig">
+<!ENTITY validation.requireOCSP.accesskey "W">

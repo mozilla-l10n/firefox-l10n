@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Opstelling">
+<!ENTITY security.caption "Sekuriteit en magtiging">
+<!ENTITY serverName.label "Bedienernaam:">
+<!ENTITY serverName.accesskey "B">
+<!ENTITY serverDescription.label "Beskrywing:">
+<!ENTITY serverDescription.accesskey "B">
+<!ENTITY serverPort.label "Poort:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Gebruik naam en wagwoord">
+<!ENTITY alwaysUseUsername.accesskey "G">
+<!ENTITY userName.label "Gebruikernaam:">
+<!ENTITY userName.accesskey "a">
+<!ENTITY isSecure.label "Gebruik beveiligde verbinding:">
+<!ENTITY neverSecure.label "Nee">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, indien beskikbaar">
+<!ENTITY sometimesSecure.accesskey "b">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP-bediener">
+<!ENTITY serverPortDefault.label "Verstek:">

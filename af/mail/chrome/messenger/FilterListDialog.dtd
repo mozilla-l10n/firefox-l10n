@@ -1,0 +1,29 @@
+<!ENTITY window.title "Boodskapfilters">
+<!ENTITY nameColumn.label "Filternaam">
+<!ENTITY activeColumn.label "Geaktiveer">
+<!ENTITY newButton.label "Nuwe...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Redigeer...">
+<!ENTITY editButton.accesskey "R">
+<!ENTITY deleteButton.label "Skrap">
+<!ENTITY deleteButton.accesskey "a">
+<!ENTITY reorderUpButton.label "Skuif op">
+<!ENTITY reorderUpButton.accesskey "O">
+<!ENTITY reorderDownButton.label "Skuif af">
+<!ENTITY reorderDownButton.accesskey "A">
+<!ENTITY filterHeader.label "Geaktiveerde filters loop outomaties in die volgorde hieronder.">
+<!ENTITY filtersForPrefix.label "Filters vir:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Filterstaaflêer">
+<!ENTITY viewLogButton.accesskey "S">
+<!ENTITY runFilters.label "Laat loop nou">
+<!ENTITY runFilters.accesskey "L">
+<!ENTITY stopFilters.label "Stop">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Laat gemêrkte filter(s) loop op:">
+<!ENTITY folderPickerPrefix.accesskey "k">
+<!ENTITY choosethis.label "kies hierdie vouer">
+<!ENTITY choosethisnewsserver.label "kies hierdie nuusbediener">
+<!ENTITY helpButton.label "Hulp">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W">

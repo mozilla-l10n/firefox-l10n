@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label "'n Webwerf het probeer om 'n opspringer te open sonder u toestemming. &brandShortName; het outomaties die opspringer gesluit.  Wanneer &brandShortName; hierdie opspringers blokkeer, sal u 'n ikoon op die statusbalk sien.">
+
+<!ENTITY endDescription.label "U kan hierdie ikoon kliek om te sien watter werwe &brandShortName; blokkeer en om toe te laat dat daardie werwe opspringers open indien dit vereis word vir die werf om behoorlik te funksioneer.">
+
+<!ENTITY caption.label "Aangaande opspringerblokkering">
+
+<!ENTITY done.label "Klaar">

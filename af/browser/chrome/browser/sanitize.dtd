@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "Skrap private data">
+
+<!ENTITY sanitizeItems.label "Skrap die volgende items nou:">
+<!ENTITY clearDataSettings.label "Wanneer ek &brandShortName; vra om my private data te skrap, moet dit die volgende skrap:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "Blaaiergeskiedenis">
+<!ENTITY itemHistory.accesskey "B">
+<!ENTITY itemFormSearchHistory.label "Gestoorde vorm- en soekgeskiedenis">
+<!ENTITY itemFormSearchHistory.accesskey "V">
+<!ENTITY itemPasswords.label "Wagwoorde gestoor">
+<!ENTITY itemPasswords.accesskey "W">
+<!ENTITY itemCookies.label "Koekies">
+<!ENTITY itemCookies.accesskey "K">
+<!ENTITY itemCache.label "Kas">
+<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemOfflineApps.label "Vanlyn webwerfdata">
+<!ENTITY itemOfflineApps.accesskey "V">
+<!ENTITY itemDownloads.label "Aflaaigeskiedenis">
+<!ENTITY itemDownloads.accesskey "A">
+<!ENTITY itemSessions.label "Stawingsessies">
+<!ENTITY itemSessions.accesskey "S">
+<!ENTITY window.width "30em">

@@ -1,0 +1,170 @@
+<!ENTITY addons.title "Byvoegings">
+<!-- Default window size for the addon manager in pixels -->
+
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!-- View labels -->
+
+<!ENTITY search.label "Kry byvoegings">
+<!ENTITY extensions.label "Uitbreidings">
+<!ENTITY themes.label "Temas">
+<!ENTITY locales.label "Tale">
+<!ENTITY plugins.label "Inproppe">
+<!ENTITY update.label "Bywerkings">
+<!ENTITY install.label "Installasie">
+<!-- Command Bar items -->
+
+<!ENTITY cmd.checkUpdatesAll.label "Vind bywerkings">
+<!ENTITY cmd.checkUpdatesAll.accesskey "V">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Vind bywerkings vir u byvoegings">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Vind bywerkings vir u temas">
+<!ENTITY cmd.installLocalFile.label "Installeer…">
+<!ENTITY cmd.installLocalFile.accesskey "n">
+<!ENTITY cmd.installFileAddon.tooltip "Installeer 'n byvoegings">
+<!ENTITY cmd.installFileTheme.tooltip "Installeer 'n tema">
+<!ENTITY cmd.installUpdatesAll.label "Installeer bywerkings">
+<!ENTITY cmd.installUpdatesAll.accesskey "I">
+<!ENTITY cmd.installUpdatesAll.tooltip "Installeer die gekose bywerkings">
+<!ENTITY cmd.restartApp2.label "Herbegin &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey "H">
+<!ENTITY cmd.restartApp2.tooltip "Herbegin &brandShortName; om veranderinge toe te pas">
+<!ENTITY cmd.skip.label "Slaan oor">
+<!ENTITY cmd.skip.accesskey "s">
+<!ENTITY cmd.skip.tooltip "Slaan hierdie bywerkings oor">
+<!ENTITY cmd.continue.label "Gaan voort">
+<!ENTITY cmd.continue.accesskey "G">
+<!ENTITY cmd.continue.tooltip "Gaan voort om &brandShortName; te laai">
+
+<!ENTITY cmd.enableAll.label "Aktiveer alle">
+<!ENTITY cmd.enableAll.accesskey "a">
+<!ENTITY cmd.enableAll.tooltip "Aktiveer alle vertoonde byvoegings">
+<!ENTITY cmd.disableAll.label "Deaktiveer alle">
+<!ENTITY cmd.disableAll.accesskey "a">
+<!ENTITY cmd.disableAll.tooltip "Deaktiveer alle vertoonde byvoegings">
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+
+<!ENTITY cmd.useTheme.label "Gebruik tema">
+<!ENTITY cmd.useTheme.accesskey "T">
+<!ENTITY cmd.useTheme.tooltip "Wysig &brandShortName; se tema">
+<!ENTITY cmd.options.label "Opsies">
+<!ENTITY cmd.options.accesskey "O">
+<!ENTITY cmd.options.tooltip "Stel opsies vir die geselekteerde uitbreiding">
+<!ENTITY cmd.optionsUnix.label "Voorkeure">
+<!ENTITY cmd.optionsUnix.accesskey "r">
+<!ENTITY cmd.optionsUnix.tooltip "Wysig voorkeure vir die geselekteerde uitbreiding">
+<!ENTITY cmd.enable.label "Aktiveer">
+<!ENTITY cmd.enable.accesskey "A">
+<!ENTITY cmd.enable.tooltip "Aktiveer hierdie byvoeging wanneer &brandShortName; herbegin word">
+<!ENTITY cmd.disable.label "Deaktiveer">
+<!ENTITY cmd.disable.accesskey "D">
+<!ENTITY cmd.disable.tooltip "Deaktiveer hierdie byvoeging wanneer &brandShortName; herbegin word">
+<!ENTITY cmd.uninstall.label "Deïnstalleer">
+<!ENTITY cmd.uninstall2.accesskey "D">
+<!ENTITY cmd.uninstall2.tooltip "Deïnstalleer hierdie byvoeging wanneer &brandShortName; herbegin word">
+<!ENTITY cmd.cancelUninstall.label "Kanselleer deïnstallering">
+<!ENTITY cmd.cancelUninstall.accesskey "K">
+<!ENTITY cmd.cancelUninstall.tooltip "Kanselleer die deïnstallering van hierdie byvoeging">
+<!ENTITY cmd.cancelInstall.label "Kanselleer installering">
+<!ENTITY cmd.cancelInstall.accesskey "K">
+<!ENTITY cmd.cancelInstall.tooltip "Kanselleer die installering van hierdie byvoeging">
+<!ENTITY cmd.cancelUpgrade.label "Kanselleer opgradering">
+<!ENTITY cmd.cancelUpgrade.accesskey "K">
+<!ENTITY cmd.cancelUpgrade.tooltip "Kanselleer die opgradering van hierdie byvoeging">
+<!ENTITY cmd.installUpdate.label "Installeer bywerking">
+<!ENTITY cmd.installUpdate.accesskey "I">
+<!ENTITY cmd.installUpdate.tooltip "Installeer 'n bywerking vir hierdie byvoeging">
+<!ENTITY cmd.showUpdateInfo.label "Wys inligting">
+<!ENTITY cmd.showUpdateInfo.accesskey "W">
+<!ENTITY cmd.showUpdateInfo.tooltip "Wys meer inligting oor hierdie bywerkings">
+<!ENTITY cmd.hideUpdateInfo.label "Versteek inligting">
+<!ENTITY cmd.hideUpdateInfo.accesskey "V">
+<!ENTITY cmd.hideUpdateInfo.tooltip "Versteek meer inligting oor hierdie bywerkings">
+<!ENTITY cmd.installSearchResult.label "Voeg by &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "V">
+<!ENTITY cmd.installSearchResult.tooltip "Laai af en installeer hierdie byvoeging">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label "Kanselleer">
+<!ENTITY cancel.accesskey "K">
+<!ENTITY cancelInstall.label "Kanselleer">
+<!ENTITY cancelInstall.accesskey "K">
+<!ENTITY cancelUpgrade.label "Kanselleer">
+<!ENTITY cancelUpgrade.accesskey "K">
+<!-- Only displayed in the selected Add-on's context menu -->
+
+<!ENTITY cmd.homepage.label "Besoek tuisblad">
+<!ENTITY cmd.homepage.accesskey "T">
+<!ENTITY cmd.about2.label "Aangaande hierdie byvoeging">
+<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.checkUpdate.label "Vind bywerking">
+<!ENTITY cmd.checkUpdate.accesskey "V">
+
+<!ENTITY cmd.includeUpdate.label "Sluit bywerking in">
+<!ENTITY cmd.includeUpdate.accesskey "l">
+<!ENTITY includeUpdate.label "Sluit hierdie bywerking in">
+<!ENTITY includeUpdate.accesskey "l">
+<!ENTITY includeUpdate.tooltip "Sluit hierdie byvoeging in wanneer die bywerkings geïnstalleer word">
+<!-- Status Messsages -->
+
+<!ENTITY insecureUpdate.label "Bied nie beveiligde bywerkings nie.">
+<!ENTITY needsDependencies.label "Vereis bykomende items.">
+<!ENTITY blocklisted.label "Gedeaktiveer vir u beskerming.">
+<!ENTITY toBeDisabled.label "Hierdie byvoeging sal gedeaktiveer word wanneer &brandShortName; herbegin word.">
+<!ENTITY toBeEnabled.label "Hierdie byvoeging sal geaktiveer word wanneer &brandShortName; herbegin word.">
+<!ENTITY toBeInstalled.label "Hierdie byvoeging sal geïnstalleer word wanneer &brandShortName; herbegin word.">
+<!ENTITY toBeUninstalled.label "Hierdie byvoeging sal gedeïnstalleer word wanneer &brandShortName; herbegin word.">
+<!ENTITY toBeUpdated.label "Hierdie byvoeging sal bygewerk word wanneer &brandShortName; herbegin word.">
+
+<!ENTITY getExtensions.label "Kry uitbreidings">
+<!ENTITY getThemes.label "Kry temas">
+<!ENTITY getPlugins.label "Kry inproppe">
+
+<!ENTITY searchAddons.label "Deursoek alle byvoegings">
+<!ENTITY browseAddons.label "Blaai deur alle byvoegings">
+<!ENTITY searchFailed.label "&brandShortName; kon nie byvoegings verkry nie">
+<!ENTITY recommendedHeader.label "Aanbeveel">
+<!ENTITY recommendedThrobber.label "Verkry aanbevole byvoegings">
+<!ENTITY searchThrobber.label "Deursoek tans byvoegings">
+<!ENTITY resetSearch.label "Maak resultate skoon">
+<!ENTITY noSearchResults.label "Alle resultate is reeds geïnstalleer of is onversoenbaar.">
+<!ENTITY noRecommendedResults.label "Alle aanbevelings is reeds geïnstalleer of is onversoenbaar.">
+<!ENTITY emptySearch.label "Geen passende byvoegings nie">
+<!ENTITY emptySearch.button "OK">
+<!ENTITY cancelSearch.button "Kanselleer">
+<!ENTITY searchFailed.button "OK">
+<!ENTITY searchResultHomepage.value "Leer meer">
+<!ENTITY searchBox.label "Deursoek alle byvoegings">
+<!ENTITY recommendedResults.label "Kyk alle aanbevole byvoegings">
+<!ENTITY searchResultConnecting.label "Verbind tans…">
+<!ENTITY searchResultInstalling.label "Installeer tans…">
+<!ENTITY searchResultFailed.label "Installering het misluk">
+<!ENTITY searchResultInstalled.label "Installering voltooi">
+<!ENTITY addonTypeExtension.label "Uitbreiding">
+<!ENTITY addonTypeTheme.label "Tema">
+<!ENTITY missingThumbnail.label "Geen voorskou nie">
+
+<!ENTITY previewNoThemeSelected.label "Geen tema geselekteer nie">
+<!ENTITY previewNoPreviewImage.label "Hierdie tema het nie 'n voorskouprent nie">
+<!ENTITY moreInfo.label "Meer inligting">
+<!ENTITY infoNoAddonSelected.label "Geen bywerking gekies nie">
+<!ENTITY infoNoUpdateInfo.label "Hierdie opdatering het geen addisionele inligting nie">
+<!ENTITY infoUpdateInfoError.label "Kon nie inligting laai oor hierdie bywerking nie">
+
+<!ENTITY updateSuccess.label "Bywerking suksesvol voltooi.">
+<!ENTITY installSuccess.label "Installering suksesvol afgehandel.">
+<!ENTITY installSuccessRestart.label "Herbegin om die installering te voltooi.">
+<!ENTITY updateSuccessRestart.label "Herbegin om hierdie bywerking te voltooi.">
+<!ENTITY installWaiting.label "Wag tans…">
+<!ENTITY installIncompatibleUpdate.label "Kontroleer vir versoenbaarheid…">
+<!ENTITY installFinishing.label "Installeer tans…">
+<!ENTITY installFailure.label "Installering het misluk.">
+
+<!ENTITY progressStatus.label "Kontrolering vir bywerkings">
+
+<!ENTITY eula.title "Eindgebruiker-lisensieooreenkoms">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Aanvaar en installeer…">

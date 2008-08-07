@@ -1,0 +1,16 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title "Nuusvoer-eienskappe">
+
+<!ENTITY feedFolder.label "Stoor artikels in: ">
+<!ENTITY feedFolder.accesskey "S">
+
+<!ENTITY feedLocation.label "Nuusvoer-URL: ">
+<!ENTITY feedLocation.accesskey "N">
+
+<!ENTITY choosethisfolder.label "kies hierdie vouer">
+
+<!ENTITY quickMode.label "Wys die artikelopsomming in plaas daarvan om die webbladsy te laai">
+<!ENTITY quickMode.accesskey "s">
+
+<!ENTITY copyLinkCmd.label "Kopieer geskakelde adres">
+<!ENTITY copyLinkCmd.accesskey "K">

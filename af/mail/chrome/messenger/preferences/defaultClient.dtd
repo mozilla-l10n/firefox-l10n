@@ -1,0 +1,13 @@
+<!ENTITY window.title "Verstek-kliëntopstelling">
+<!ENTITY window.width "400px">
+<!ENTITY checkNow.label "Kontroleer nou">
+<!ENTITY whenStartingCheckFor.label "&brandShortName; hoort na te gaan of dit as die verstek-blaaier opgestel is wanneer dit gelaai word">
+<!ENTITY mailApplication.label "Pos">
+<!ENTITY mailApplication.accesskey "P">
+<!ENTITY checkMailNow.accesskey "K">
+<!ENTITY newsApplication.label "Nuus">
+<!ENTITY newsApplication.accesskey "N">
+<!ENTITY checkNewsNow.accesskey "o">
+<!ENTITY rssFeeds.label "RSS-nuusvoer">
+<!ENTITY rssFeeds.accesskey "R">
+<!ENTITY checkFeedAggregatorNow.accesskey "n">

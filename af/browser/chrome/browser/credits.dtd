@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Herontdek die web">
+<!ENTITY credit.thanks "Spesiale dank aan">
+
+<!ENTITY credit.thanks2 "Baie dankie aan ons">
+<!ENTITY credit.contributors2 "bydraers">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Vertalers</h3><ul><li>Translate.org.za</li><li>Samuel Murray</li><li>Friedel Wolff</li></ul>">
+
+<!ENTITY credit.memory "Ter nagedagtenis aan">
+<!ENTITY credit.poweredByGeckoReg "Aangedryf deur Gecko&reg;">

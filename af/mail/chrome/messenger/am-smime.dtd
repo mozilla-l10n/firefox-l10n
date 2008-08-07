@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Sekuriteit">
+<!ENTITY securityHeading.label "Om ondertekende of geënkripteerde boodskappe te stuur en te ontvang, moet jy beide 'n digitale sertifikaat en 'n geënkripteerde sertifikaat toon.">
+<!ENTITY encryptionGroupTitle.label "Enkripsie">
+<!ENTITY encryptionChoiceLabel.label "Verstek-enkripsieopstelling vir wanneer boodskappe versend word:">
+<!ENTITY neverEncrypt.label "Nooit (moenie enkripsie gebruik nie)">
+<!ENTITY alwaysEncryptMessage.label "Verlang (kan nie boodskappe versend tensy al die ontvangers sertifikate het nie)">
+<!ENTITY encryptionCert.message "Gebruik hierdie sertifikaat om boodskappe wat aan jou gestuur word, te enkripteer en te dekripteer:">
+<!ENTITY encryptionCert.notselected "No certificate set">
+<!ENTITY certificate.button "Kies...">
+<!ENTITY certificate_clear.button "Maak skoon">
+<!ENTITY signingGroupTitle.label "Digitale ondertekening">
+<!ENTITY signMessage.label "Onderteken boodskappe digitaal (by verstek)">
+<!ENTITY signingCert.message "Gebruik hierdie sertifikaat om boodskappe wat jy versend, digitaal te onderteken:">
+<!ENTITY signingCert.notselected "No certificate set">
+
+<!ENTITY certificates.label "Sertifikate">
+<!ENTITY managecerts.label "Bekyk sertifikate">
+<!ENTITY managecerts.accesskey "B">
+<!ENTITY managedevices.label "Sekuriteitstoestelle">
+<!ENTITY managedevices.accesskey "S">

@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "Aangaande &brandFullName;">
+<!ENTITY copyright "Erkenning">
+<!ENTITY copyright.accesskey "E">
+<!ENTITY aboutLink "&lt; Aangaande &brandFullName;">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "weergawe">
+<!ENTITY copyrightInfo "&#169;1998-2008 Bydraers. Alle regte voorbehou. Firefox en die 
+Firefox-logo's is handelsmerke van die Mozilla Stigting.  Alle regte 
+voorbehou.">

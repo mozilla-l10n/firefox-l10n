@@ -1,0 +1,61 @@
+<!ENTITY itemGeneral.label "Algemeen">
+<!ENTITY itemJunk.label "Junk">
+<!ENTITY itemPhishing.label "E-posswendelary">
+<!ENTITY itemPasswords.label "Wagwoorde">
+<!ENTITY itemAntiVirus.label "Viruswering">
+<!ENTITY itemSecurity.label "Sekuriteit">
+
+<!ENTITY disableImageInMailNews.label "Blokeer afgeleë prente in posboodskappe">
+<!ENTITY disableImageInMailNews.accesskey "B">
+<!ENTITY allowRemoteImagesForFriends.label "Laat afgeleë prente toe indien afsender in die volgende is:">
+<!ENTITY allowRemoteImagesForFriends.accesskey "L">
+<!ENTITY enbJsCheckMailNews.label "Blokeer JavaScript in posboodskappe">
+<!ENTITY enbJsCheckMailNews.accesskey "J">
+<!-- Junk Mail Controls -->
+
+<!ENTITY junkMail.intro "Goto Account Settings to configure account specific junk mail settings.">
+<!ENTITY manualMark.label "When I mark messages as junk:">
+<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.acesskey "k">
+<!ENTITY manualMarkModeDelete.label "Skrap dit">
+<!ENTITY enableJunkLogging.label "Enable junk filter logging">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "Show log">
+<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.accesskey "D">
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector.intro "&brandShortName; kan boodskappe ontleed vir moontlike e-posswendelary deur te let op algemene tegnieke om jou om die bos te lei.">
+<!ENTITY enablePhishingDetector.label "Kontroleer posboodskappe vir e-posswendelary">
+<!ENTITY enablePhishingDetector.accesskey "K">
+<!-- Passwords -->
+
+<!ENTITY savedPasswords.intro "&brandShortName; kan wagwoordinligting vir al jou rekeninge onthou sodat jy nie jou aanmeldbesonderhede hoef in te tik nie.">
+<!ENTITY encryptEnabled.label "Gebruik 'n meesterwagwoord om gestoorde wagwoorde te enkripteer">
+<!ENTITY encryptEnabled.accesskey "g">
+<!ENTITY masterPassword.intro "Die meesterwagwoord sal al jou wagwoorde beskerm, maar jy moet dit een maal per sessie intik.">
+<!ENTITY setMasterPassword.label "Meesterwagwoord">
+<!ENTITY setMasterPassword.accesskey "M">
+<!ENTITY removeMasterPassword.label "Verwyder meesterwagwoord...">
+<!ENTITY removeMasterPassword.accesskey "V">
+<!ENTITY viewPasswords.label "Bekyk gestoorde wagwoordeewaarde Wagwoorde">
+<!ENTITY viewPasswords.accesskey "B">
+<!-- Security -->
+
+<!ENTITY certificates.label "Sertifikate">
+<!ENTITY certificatesInfo.label "Bestuur sertifikate, opheffingslyste, sertifikaatverifiëring en sekuriteitstoestelle.">
+<!ENTITY viewCertificates.label "Bekyk sertifikate">
+<!ENTITY viewCertificates.accesskey "e">
+<!ENTITY viewCRLs.label "Opheffingslyste">
+<!ENTITY viewCRLs.accesskey "p">
+<!ENTITY viewOCSP.label "Verifikasie">
+<!ENTITY viewOCSP.accesskey "e">
+<!ENTITY viewSecurityDevices.label "Sekuriteitstoestelle">
+<!ENTITY viewSecurityDevices.accesskey "k">
+<!-- Anti Virus -->
+
+<!ENTITY antiVirus.intro "&brandShortName; maak dit maklik vir viruswering om inkomende posboodskappe vir virusse te ontleed voor hulle plaaslik gestoor word.">
+<!ENTITY antiVirus.label "Laat viruswering-kliënte toe om individuele inkomende boodskappe in kwarantyn te plaas">
+<!ENTITY antiVirus.accesskey "l">

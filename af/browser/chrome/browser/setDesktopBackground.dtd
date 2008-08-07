@@ -1,0 +1,9 @@
+<!ENTITY position.label "Posisie:">
+<!ENTITY tile.label "Teël">
+<!ENTITY center.label "Sentreer">
+<!ENTITY stretch.label "Rek">
+<!ENTITY preview.label "Voorskou">
+<!ENTITY color.label "Kleur:">
+<!ENTITY setDesktopBackground.title "As werkskermagtergrond">
+<!ENTITY openDesktopPrefs.label "Open werkskermvoorkeure">
+<!ENTITY closeWindow.key "w">

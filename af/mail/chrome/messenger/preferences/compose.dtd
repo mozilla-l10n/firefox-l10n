@@ -1,0 +1,60 @@
+<!ENTITY itemGeneral.label "Algemeen">
+<!ENTITY itemAutoComplete.label "Adresbediener">
+<!ENTITY itemSpellCheck.label "Spelling">
+<!ENTITY itemSendFormat.label "Stuurformaat">
+
+<!ENTITY forwardReply.label "Stuur boodskap aan">
+<!ENTITY forwardMsg.label "Stuur boodskappe aan:">
+<!ENTITY forwardMsg.accesskey "s">
+<!ENTITY inline.label "Inlyn">
+<!ENTITY inline.accesskey "I">
+<!ENTITY asAttachment.label "As aanhangsel">
+<!ENTITY asAttachment.accesskey "A">
+
+<!ENTITY sendingMessagesHeader.label "Skryf van boodskappe">
+<!ENTITY spellCheck.label "Toets spelling voor versending">
+<!ENTITY spellCheck.accesskey "S">
+<!ENTITY spellCheckInline.label "Enable spell check as you type">
+<!ENTITY spellCheckInline.accesskey "n">
+<!ENTITY languagePopup.label "Taal:">
+<!ENTITY languagePopup.accessKey "l">
+<!ENTITY downloadDictionaries.label "Laai nog woordeboeke af">
+
+<!ENTITY useMIME.label "Vir boodskappe wat 8-bit-karakters bevat, gebruik 'quoted printable'-MIME-enkodering">
+<!ENTITY useMIME.accesskey "o">
+<!ENTITY warnOnSendAccelKey.label "Bevestig wanneer snelsleutel gebruik word om boodskap te versend">
+<!ENTITY warnOnSendAccelKey.accesskey "b">
+<!ENTITY autoSave.label "Outostoor elke">
+<!ENTITY autoSave.accesskey "t">
+<!ENTITY autoSaveEnd.label "minute">
+<!ENTITY autoSaveEnd.accesskey "m">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "Vou skoonteks-boodskappe om by">
+<!ENTITY wrapOutMsg.accesskey "o">
+<!ENTITY char.label "karakters">
+
+<!ENTITY emailCollectionPicker.label "Voeg uitgaande e-posadresse outomaties by:">
+<!ENTITY emailCollectionPicker.accesskey "t">
+<!ENTITY addressingTitle.label "Adresoutovoltooiing">
+<!ENTITY autocompleteText.label "Wanneer boodskappe gerig word, soek trefresultate in:">
+<!ENTITY addressingEnable.label "Plaaslike adresboeke">
+<!ENTITY addressingEnable.accesskey "A">
+<!ENTITY directories.label "Gidsbediener:">
+<!ENTITY directories.accesskey "G">
+<!ENTITY editDirectories.label "Redigeer gidse...">
+<!ENTITY editDirectories.accesskey "R">
+<!ENTITY matchText.label "As daar 'n trefresultaat in jou plaaslike adresboek is:">
+<!ENTITY skipDirectory.label "Moenie in die gids soek nie">
+
+<!ENTITY sendOptionsCaption.label "Stuur- en HTML-opsies">
+<!ENTITY sendOptionsDescription.label "Stel teksformaatgedrag op">
+<!ENTITY sendOptions.label "Stuuropsies...">
+<!ENTITY sendOptions.accesskey "S">
+
+<!ENTITY htmlComposeDescription.label "Stel verstek-HTML op">
+<!ENTITY htmlCompose.label "HTML-opsies...">
+<!ENTITY htmlCompose.accesskey "H">
+
+<!ENTITY returnReceiptsInfo.label "Bepaal hoe &brandShortName; antwoordstrokies hanteer">
+<!ENTITY showReturnReceipts.label "Antwoordstrokies...">
+<!ENTITY showReturnReceipts.accesskey "A">

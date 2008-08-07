@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "Boodskapsekuriteit">
+<!ENTITY signatureCert.label "Bekyk ondertekeningsertifikaat">
+<!ENTITY encryptionCert.label "Bekyk enkripsiesertifikaat">
+
+<!ENTITY signer.name "Onderteken deur:">
+<!ENTITY recipient.name "Geënkripteer vir:">
+<!ENTITY email.address "E-posadres:">
+<!ENTITY issuer.name "Sertifikate uitgereik deur:">

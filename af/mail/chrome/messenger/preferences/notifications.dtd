@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title "Klank vir nuwe pos">
+<!ENTITY window.width "30em">
+
+<!ENTITY soundNotification.caption "Stel klank vir nuwe pos op">
+<!ENTITY preview.label "Voorskou die klank">
+<!ENTITY preview.accesskey "s">
+<!ENTITY systemsound.label "Stelselklank vir nuwe pos">
+<!ENTITY systemsoundMac.label "Stelselklank vir waarskuwing">
+<!ENTITY systemsound.accesskey "t">
+<!ENTITY customsound.label "Pasgemaakte .wav-lêer">
+<!ENTITY customsound.accesskey "P">
+<!ENTITY browse.label "Blaai...">
+<!ENTITY browse.accesskey "B">

@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Druk">
+
+<!ENTITY printDialog.title "Druk">
+
+<!ENTITY fpDialog.title "Stoor lêer">
+
+<!ENTITY fileCheck.label "Druk na lêer">
+<!ENTITY propertiesButton.label "Eienskappe…">
+<!ENTITY descText.label "Drukkerbeskrywing:">
+<!ENTITY printer.label "Drukker">
+<!ENTITY printerInput.label "Drukkernaam:">
+
+<!ENTITY printrangeGroup.label "Drukreeks">
+<!ENTITY allpagesRadio.label "Alle bladsye">
+<!ENTITY rangeRadio.label "Bladsye">
+<!ENTITY frompageInput.label "van">
+<!ENTITY topageInput.label "tot">
+<!ENTITY selectionRadio.label "Seleksie">
+
+<!ENTITY copies.label "Kopieë">
+<!ENTITY numCopies.label "Getal kopieë:">
+
+<!ENTITY printframeGroup.label "Druk rame">
+<!ENTITY aslaidoutRadio.label "Soos op die skerm uitgelê">
+<!ENTITY selectedframeRadio.label "Die geselekteerde raam">
+<!ENTITY eachframesepRadio.label "Elke raam apart">

@@ -1,0 +1,79 @@
+<!ENTITY itemGeneral.label "Algemeen">
+<!ENTITY itemUpdate.label "Werk by">
+<!ENTITY itemOffline.label "Aflyn en skyfspasie">
+<!-- General Settings -->
+
+
+<!ENTITY showCondensedAddresses.label "Wys net vertoonnaam vir mense in my adresboek">
+<!ENTITY showCondensedAddresses.accesskey "t">
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+
+<!ENTITY markAsRead.label "Wag">
+<!ENTITY markAsRead.accesskey "W">
+<!ENTITY markAsReadEnd.label "sekondes voor die boodskap as gelees gemerk word">
+<!ENTITY markAsReadEnd.accesskey "e">
+<!ENTITY showFolderColumns.label "Wys uitgevoude kolomme in die vouerpaneel">
+<!ENTITY showFolderColumns.accesskey "v">
+<!ENTITY rememberLastMsg.label "Onthou die vorige gemerkte boodskap">
+<!ENTITY rememberLastMsg.accesskey "h">
+<!ENTITY reuseExp.label "Open nuwe boodskappe in:">
+<!ENTITY reuseExpRadio0.label "'n Nuwe nuwe boodskapvenster">
+<!ENTITY reuseExpRadio0.accesskey "v">
+<!ENTITY reuseExpRadio1.label "'n Bestaande boodskapvenster">
+<!ENTITY reuseExpRadio1.accesskey "e">
+<!ENTITY connectionTimeout.label "Verbinding uitgetel: ">
+<!ENTITY connectionTimeout.accesskey "V">
+<!ENTITY connectionSeconds.label "sekondes">
+<!ENTITY configEditDesc.label "Gevorderde opstelling">
+<!ENTITY configEdit.label "Opstellingredigeerder...">
+<!ENTITY configEdit.accesskey "l">
+<!-- Update -->
+
+<!ENTITY autoCheck.label "Kontroleer outomaties vir bywerkings by:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "T">
+<!ENTITY enableExtensionUpdate.label "Geïnstalleerde uitbreidings en temas">
+<!ENTITY enableExtensionUpdate.accesskey "t">
+<!ENTITY checkNow.label "Kontroleer nou...">
+<!ENTITY appCheckNow.accesskey "k">
+<!ENTITY extensionsCheckNow.accesskey "h">
+<!ENTITY whenUpdatesFound.label "Wanneer bywerkings vir &brandShortName; gevind word,">
+<!ENTITY modeAskMe.label "Vra my wat ek wil doen">
+<!ENTITY modeAskMe.accesskey "R">
+<!ENTITY modeAutomatic.label "Laai die bywerkings outomaties af en installeer dit">
+<!ENTITY modeAutomatic.accesskey "b">
+<!ENTITY modeAutoWarn.label "Waarsku my as dit uitbreidings of temas sal deaktiveer">
+<!ENTITY modeAutoWarn.accesskey "W">
+<!ENTITY showUpdates.label "Wys bywerkingsgeskiedenis">
+<!ENTITY showUpdates.accesskey "B">
+<!-- Offline and Disk Space -->
+
+<!ENTITY offline.label "Aflyn">
+<!ENTITY textStartUp "Wanneer die program begin:">
+<!ENTITY radioRememberPrevState "Onthou vorige aanlynstaat">
+<!ENTITY radioRememberPrevState.accesskey "O">
+<!ENTITY radioAskMe "Vra my vir aanlynstaat aan die begin">
+<!ENTITY radioAskMe.accesskey "i">
+<!ENTITY radioAlwaysOnline "Begin altyd in aanlynmodus">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Stuur ongestuurde boodskappe wanneer jy aanlyn gaan?">
+<!ENTITY radioAutoSend "Ja">
+<!ENTITY radioAutoSend.accesskey "J">
+<!ENTITY radioNotSend "Nee">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Vra my">
+<!ENTITY radioAskUnsent.accesskey "r">
+<!ENTITY textGoingOffline "Laai boodskappe af vir aflyngebruik wanneer jy aflyn gaan?">
+<!ENTITY radioAutoDownload "Ja">
+<!ENTITY radioAutoDownload.accesskey "a">
+<!ENTITY radioNotDownload "Nee">
+<!ENTITY radioNotDownload.accesskey "e">
+<!ENTITY radioAskDownload "Vra my">
+<!ENTITY radioAskDownload.accesskey "r">
+<!ENTITY Diskspace "Skyfspasie">
+<!ENTITY offlineCompact.label "Kompakteer vouers wanneer dit meer as soveel sal bespaar">
+<!ENTITY offlineCompact.accesskey "b">
+<!ENTITY kb.label "KG">

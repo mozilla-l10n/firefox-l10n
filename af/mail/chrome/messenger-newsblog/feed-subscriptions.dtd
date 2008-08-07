@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS-intekeninge">
+<!ENTITY subscriptionDesc.label "Let wel: Om die vouer vir 'n nuusvoer te verwyder of te wysig sal nie voorheen afgelaaide artikels affekteer nie.">
+<!ENTITY feedTitle.label "Titel:">
+<!ENTITY location.label "Ligging:">
+
+<!ENTITY button.addFeed.label "Voeg by">
+<!ENTITY button.addFeed.accesskey "V">
+<!ENTITY button.editFeed.label "Redigeer">
+<!ENTITY button.editFeed.accesskey "R">
+<!ENTITY button.removeFeed.label "Verwyder">
+<!ENTITY button.removeFeed.accesskey "V">
+<!ENTITY button.importOPML.label "Invoer">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "Uitvoer">
+<!ENTITY button.exportOPML.accesskey "I">
+
+<!ENTITY cmd.close.commandKey "w">

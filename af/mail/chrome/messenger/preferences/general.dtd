@@ -1,0 +1,40 @@
+<!ENTITY generalSettings.caption "Verstekopstelling">
+<!ENTITY generalSettings.label "Maak &brandShortName; die verstektoepassing vir:">
+<!ENTITY setDefaultMailClient.label "Pos">
+<!ENTITY setDefaultMailClient.accesskey "P">
+<!ENTITY setDefaultNewsClient.label "Nuus">
+<!ENTITY setDefaultNewsClient.accesskey "N">
+<!ENTITY setDefaultFeedClient.label "RSS-nuusvoer">
+<!ENTITY setDefaultFeedClient.accesskey "U">
+<!ENTITY checkDefaultMailClient.label "&brandShortName; hoort na te gaan of dit die verstek-e-poskliënt is wanneer dit gelaai word">
+<!ENTITY checkDefaultMailClient.accesskey "n">
+<!ENTITY defaultClientAdvanced.label "Gevorderd...">
+<!ENTITY defaultClientAdvanced.accesskey "e">
+
+<!ENTITY windowSettings.label "Vensteropstelling">
+<!ENTITY selectWindowLayout.label "Kies die vensteruitleg wat jy vir pos verkies.">
+<!ENTITY selectWindowLayout.accesskey "K">
+
+<!ENTITY messengerStartPage.label "&brandShortName; se beginbladsy">
+<!ENTITY enableStartPage.label "Wanneer &brandShortName; laat loop word, wys die beginbladsy in die boodskaparea">
+<!ENTITY enableStartPage.accesskey "W">
+<!ENTITY location.label "Ligging:">
+<!ENTITY location.accesskey "L">
+<!ENTITY useDefault.label "Herstel verstek">
+<!ENTITY useDefault.accesskey "H">
+
+<!ENTITY bounceSystemDockIcon.label "Animeer die dokikoon">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+
+<!ENTITY newMessagesArrive.label "Wanneer nuwe boodskappe arriveer:">
+<!ENTITY playSound.label "Speel 'n klank">
+<!ENTITY playSound.accesskey "S">
+<!ENTITY showAnimatedAlert.label "Wys 'n waarskuwing">
+<!ENTITY showAnimatedAlert.accesskey "W">
+<!ENTITY soundbutton.label "Gevorderde...">
+<!ENTITY soundbutton.accesskey "G">
+
+<!ENTITY showConnections.label "Koppellingsinstellings...">
+<!ENTITY showConnections.accesskey "o">
+<!ENTITY proxiesInfo.label "Bepaal hoe &brandShortName; aan die internet koppel.">
+<!ENTITY connectionsInfo.caption "Verbinding">

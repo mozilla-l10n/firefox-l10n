@@ -1,0 +1,14 @@
+<!ENTITY typeColumn.label "Inhoudsoort">
+<!ENTITY typeColumn.accesskey "S">
+
+<!ENTITY actionColumn2.label "Aksie">
+<!ENTITY actionColumn2.accesskey "A">
+
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Soek:">
+<!ENTITY filter.accesskey "S">
+
+<!ENTITY clear.label "Maak skoon">
+<!ENTITY clear.accesskey "s">

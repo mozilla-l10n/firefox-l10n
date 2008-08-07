@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Laai af en sinchroniseer boodskappe">
+<!ENTITY MsgSelect.label "Items vir aflyngebruik">
+<!ENTITY MsgSyncDesc.label "As jy reeds posvouers of nuusgroepe vir aflyngebruik gekies het, kan jy hulle nou aflaai en/of sinchroniseer. Anders kan jy met die &quot;Kies&quot;-knoppie posvouers en nuusgroepe vir aflyngebruik kies.">
+<!ENTITY MsgSyncDirections.label "Laai af en sinchroniseer die volgende:">
+<!ENTITY syncTypeMail.label "Posboodskappe">
+<!ENTITY syncTypeMail.accesskey "P">
+<!ENTITY syncTypeNews.label "Nuusgroepboodskappe">
+<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY sendMessage.label "Stuur ongestuurde boodskappe">
+<!ENTITY sendMessage.accesskey "S">
+<!ENTITY workOffline.label "Werk aflyn sodra aflaai en/of sinchronisering afgehandel is">
+<!ENTITY workOffline.accesskey "W">
+<!ENTITY selectButton.label "Kies...">
+<!ENTITY selectButton.accesskey "I">
+<!ENTITY MsgSelectDesc.label "Kies posvouers en nuusgroepe vir aflyngebruik.">
+<!ENTITY MsgSelectInd.label "Aflaai">
+<!ENTITY MsgSelectItems.label "Vouers en nuusgroepe">

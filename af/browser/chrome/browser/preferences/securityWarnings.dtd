@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title "Sekuriteitswaarskuwings">
+
+<!ENTITY security.warn_when "Wys 'n waarskuwingsdialoog sodra:">
+<!ENTITY security.warn_entering_secure.label "ek 'n geënkripteerde bladsy gaan bekyk.">
+<!ENTITY security.warn_entering_secure.accesskey "b">
+<!ENTITY security.warn_entering_weak.label "ek 'n bladsy wat laegraadse enkripsie gebruik, gaan bekyk.">
+<!ENTITY security.warn_entering_weak.accesskey "d">
+<!ENTITY security.warn_leaving_secure.label "ek van 'n geënkripteerde bladsy gaan na 'n ongeënkripteerde bladsy.">
+<!ENTITY security.warn_leaving_secure.accesskey "o">
+<!ENTITY security.warn_submit_insecure.label "ek inligting indien wat nie geënkripteer is nie.">
+<!ENTITY security.warn_submit_insecure.accesskey "i">
+<!ENTITY security.warn_viewing_mixed.label "ek staan op die punt om 'n geënkripteerde bladsy te bekyk wat ongeënkripteerde inligting bevat.">
+<!ENTITY security.warn_viewing_mixed.accesskey "t">

@@ -1,0 +1,27 @@
+<!ENTITY lHeader "Aanhegsels">
+
+<!ENTITY askOnSave.label "Aanhegselvouer">
+<!ENTITY alwaysAsk.label "Vra vir my waar om elke aanhegsel te stoor">
+<!ENTITY neverAsk.label "Stoor alle aanhegsels in hierdie vouer:">
+<!ENTITY desktop.label "Werkskerm">
+<!ENTITY downloads.label "My aflaaie">
+<!ENTITY choose.label "Ander...">
+<!ENTITY showFolder.label "Vertoon vouer">
+
+<!ENTITY downloadManagerWindow.label "Aanhegselbestuurder">
+<!ENTITY showWhenStarting.label "Toon aanhegselbestuurder0venster wanner 'n aflaai begin.">
+<!ENTITY closeWhenDone.label "Sluit die aanhegselbestuurder wanneer alle aflaaie voltooi is.">
+
+<!ENTITY fileTypes.label "Lêersoorte">
+<!-- XXX this text string could improve --> 
+<!ENTITY fileTypesDescription.label "Voer outomaties die assosieerde aksie uit met elk van die volgende lêertipes:">
+<!ENTITY fileTypeColName.label "Lêersoort">
+<!ENTITY fileHandlerColName.label "Toepassing">
+<!ENTITY editFileHandler.label "Wysig aksie...">
+<!ENTITY editFileHandler.accesskey "a">
+<!ENTITY removeFileHandler.label "Verwyder">
+<!ENTITY removeFileHandler.accesskey "v">
+
+<!ENTITY plugins.label "Inproppe...">
+<!ENTITY plugins.accesskey "i">
+

@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Opstelling vir uitgaande bediener (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "Hoewel jy meer as een uitgaande bediener (SMTP) kan spesifiseer, word dit net vir gevorderde gebruikers aanbeveel. Om meer as een SMTP-bediener op te stel, kan probleme veroorsaak as jy boodskappe stuur.">
+
+<!ENTITY smtpListAdd.label "Voeg by...">
+<!ENTITY smtpListAdd.accesskey "b">
+<!ENTITY smtpListEdit.label "Redigeer...">
+<!ENTITY smtpListEdit.accesskey "R">
+<!ENTITY smtpListDelete.label "Verwyder">
+<!ENTITY smtpListDelete.accesskey "w">
+<!ENTITY smtpListSetDefault.label "Stel verstek op">
+<!ENTITY smtpListSetDefault.accesskey "e">
+
+<!ENTITY serverDescription.label "Beskrywing: ">
+<!ENTITY serverName.label "Bedienernaam: ">
+<!ENTITY serverPort.label "Poort: ">
+<!ENTITY userName.label "Gebruikersnaam: ">
+<!ENTITY useSecureConnection.label "Beveiligde verbinding: ">

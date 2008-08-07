@@ -1,0 +1,33 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Afskrifte en vouers">
+<!ENTITY sendingPrefix.label "Wanneer boodskappe gestuur word, doen dit outomaties: ">
+<!ENTITY fccMailFolder.label "Bêre 'n afskrif in:">
+<!ENTITY fccMailFolder.accesskey "B">
+<!ENTITY chooseFolderButton.label "Kies vouer...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Stuur BCC aan hierdie e-posadresse:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Spesiale vouers">
+<!ENTITY draftMailFolder.label "Keep message drafts in:">
+<!ENTITY templateMailFolder.label "Keep message templates in:">
+<!ENTITY saveMessageDlg.label "Wys bevestigingsdialoog wanneer boodskappe gestoor word">
+<!ENTITY saveMessageDlg.accesskey "W">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Gestuur&quot;-vouer op:">
+<!ENTITY sentFolderOn.accesskey "t">
+<!ENTITY sentInOtherFolder.label "Ander:">
+<!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Onvoltooid&quot;-vouer op:">
+<!ENTITY draftsFolderOn.accesskey "O">
+<!ENTITY draftInOtherFolder.label "Ander:">
+<!ENTITY draftInOtherFolder.accesskey "n">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Sjablone&quot;-vouer op:">
+<!ENTITY templatesFolderOn.accesskey "a">
+<!ENTITY templateInOtherFolder.label "Ander:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "Onvoltooid en sjablone">
+<!ENTITY keepDrafts.label "Keep message drafts in:">
+<!ENTITY keepTempltes.label "Keep message templates in:">

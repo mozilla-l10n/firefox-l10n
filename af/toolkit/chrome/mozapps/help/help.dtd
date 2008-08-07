@@ -1,0 +1,54 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "Terug">
+<!ENTITY backButton.accesskey "T">
+<!ENTITY backButton.tooltip "Gaan een bladsy terug">
+<!ENTITY forwardButton.label "Vorentoe">
+<!ENTITY forwardButton.accesskey "V">
+<!ENTITY forwardButton.tooltip "Gaan een bladsy vorentoe">
+<!ENTITY copyCmd.label "Kopieer">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Merk alles">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "Tuis">
+<!ENTITY homeButton.tooltip "Gaan na die hulpbeginbladsy">
+<!ENTITY printButton.label "Druk">
+<!ENTITY printButton.tooltip "Druk hierdie bladsy">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY searchtab.label "Soek">
+<!ENTITY searchtab.accesskey "S">
+<!ENTITY searchClose.tooltip "Sluit soekresultate af">
+<!ENTITY toctab.label "Inhoud">
+<!ENTITY toctab.accesskey "I">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "Altyd bo-oor">
+<!ENTITY zLevel.accesskey "O">
+
+<!ENTITY fullZoomReduceBtn.label "Zoem uit">
+<!ENTITY fullZoomReduceBtn.accesskey "U">
+<!ENTITY fullZoomEnlargeBtn.label "Zoem in">
+<!ENTITY fullZoomEnlargeBtn.accesskey "I">

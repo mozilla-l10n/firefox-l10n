@@ -1,0 +1,32 @@
+<!ENTITY downloadactionsWindow.title "Aflaaiaksies">
+<!ENTITY window.width "480">
+<!ENTITY window.height "310">
+
+<!ENTITY fileTypesDescription.label "Voer outomaties die geassosieerde aksie uit met elk van die volgende lêersoorte:">
+
+<!ENTITY fileHandlerColumn.label "Aksie">
+<!ENTITY fileHandlerColumn.accesskey "A">
+<!ENTITY fileTypeColumn.label "Lêertipe">
+<!ENTITY fileTypeColumn.accesskey "T">
+<!ENTITY fileMIMETypeColumn.label "MIME-soort">
+<!ENTITY fileMIMETypeColumn.accesskey "M">
+<!ENTITY fileExtensionColumn.label "Uitbreiding">
+<!ENTITY fileExtensionColumn.accesskey "U">
+
+<!ENTITY remove.label "Verwyder aksie">
+<!ENTITY remove.accesskey "V">
+<!ENTITY edit.label "Wysig aksie...">
+<!ENTITY edit.accesskey "W">
+
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Soek:">
+<!ENTITY filter.accesskey "S">
+<!ENTITY clear.label "Maak leeg">
+<!ENTITY clear.accesskey "l">
+
+<!ENTITY button.close.label "Sluit">
+<!ENTITY button.close.accesskey "u">
+

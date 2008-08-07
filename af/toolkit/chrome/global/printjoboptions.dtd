@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Drukkereienskappe">
+
+<!ENTITY paperInput.label "Papiergrootte:">
+
+<!ENTITY plexInput.label "Plexmodus:">
+
+<!ENTITY resolutionInput.label "Resolusie/gehalte:">
+
+<!ENTITY cmdInput.label "Drukbevel:">
+
+<!ENTITY jobTitleInput.label "Taaktitel:">
+
+<!ENTITY colorGroup.label "Kleur:">
+<!ENTITY grayRadio.label "Gryskleur">
+<!ENTITY colorRadio.label "Kleur">
+
+<!ENTITY colorspaceInput.label "Kleurruim:">
+
+<!ENTITY fontsGroup.label "Fonte:">
+<!ENTITY downloadFonts.label "Laai fonte af na drukker?">
+
+<!ENTITY edgeMarginInput.label "Gaping van kant van papier tot kantlyn">
+<!ENTITY topInput.label "Bokant:">
+<!ENTITY bottomInput.label "Onderkant:">
+<!ENTITY leftInput.label "Linkerkant:">
+<!ENTITY rightInput.label "Regterkant:">

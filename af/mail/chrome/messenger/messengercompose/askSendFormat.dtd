@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Vraag oor HTML-pos">
+
+<!ENTITY recipient.label "Sommige van die ontvangers is nie gelys as mense wat HTML-pos kan ontvang nie.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Jou boodskap kan in skoonteks omgeskakel word sonder om inligting te verloor.">
+<!ENTITY convertibleAltering.label "Jou boodskap kan in skoonteks omgeskakel word sonder om belangrike inligting te verloor. Die skoonteks-weergawe mag dalk anders lyk as wat dit in die briefskywer lyk.">
+<!ENTITY convertibleNo.label "Jy het egter formatering (soos kleure) gebruik wat nie in skoonteks omgeskakel kan word nie.">
+
+<!ENTITY question.label "Wil jy die boodskap in skoonteks omskakel of wil jy dit maar as HTML stuur?">
+
+<!ENTITY plainTextAndHtml.label "Stuur in skoonteks en HTML">
+<!ENTITY plainTextOnly.label "Stuur net in skoonteks">
+<!ENTITY htmlOnly.label "Stuur net in HTML">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Stuur in skoonteks en HTML (aanbeveel)">
+<!ENTITY plainTextOnlyRecommended.label "Stuur net in skoonteks (aanbeveel)">
+<!ENTITY htmlOnlyRecommended.label "Stuur net in HTML (aanbeveel)">
+<!ENTITY recommended.label "(aanbeveel)">
+
+<!ENTITY send.label "Stuur">
+<!ENTITY cancel.label "Kanselleer">
+<!ENTITY recipients.label "Ontvangers...">
+<!ENTITY help.label "Hulp">

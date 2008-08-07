@@ -1,0 +1,19 @@
+<!ENTITY about.version "weergawe">
+
+<!ENTITY about.copy.beforeLink "Kopiereg &copy; 1998-2008 deur">
+<!ENTITY about.copy.linkTitle "bydraers">
+<!ENTITY about.copy.afterLink "aan die Mozilla Projek.">
+
+<!ENTITY about.license.beforeLink "Lees die">
+<!ENTITY about.license.linkTitle "lisensiëringinligting">
+<!ENTITY about.license.afterLink "vir hierdie produk.">
+
+<!ENTITY about.relnotes.beforeLink "Lees die">
+<!ENTITY about.relnotes.linkTitle "vrystellingaantekeninge">
+<!ENTITY about.relnotes.afterLink "vir hierdie weergawe.">
+
+<!ENTITY about.buildconfig.beforeLink "Kyk die">
+<!ENTITY about.buildconfig.linkTitle "boukonfigurasie">
+<!ENTITY about.buildconfig.afterLink "wat vir hierdie weergawe gebruik is.">
+
+<!ENTITY about.buildIdentifier "Bou-identifiseerder: ">

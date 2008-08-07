@@ -1,0 +1,59 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Rapporteer 'n gebroke webwerf">
+
+<!ENTITY privacyNotice.label "Privaatheidbeleid">
+<!ENTITY reportWizardPrivacy.description "Hierdie nutsding stel u in staat om die evangeliespan in te lig oor webwerwe wat nie behoorlik in &brandShortName; werk nie of &brandShortName; blokkeer. Op dié manier help u ons om die beste moontlike ervaring vir &brandShortName;-gebruikers te verseker. Neem 'n oomblik en leer hoe ons die inligting wat ons versamel, gebruik, indien u sou kies om deel te neem.">
+<!ENTITY reportWizardMustAgree.description "Om voort te gaan, moet u tot die privaatheidbeleid hierbo toestem.">
+
+<!ENTITY dontShowPrivacyStatement.label "Ek het die bogemelde privaatheidbeleid gelees en ek aanvaar dit.">
+<!ENTITY dontShowPrivacyStatement.accesskey "E">
+
+<!ENTITY reportForm.label "Vul die verslag in">
+
+<!ENTITY reportForm.description "Vertel ons meer oor die probleem wat u teëgekom het:">
+<!ENTITY reportForm.url.title "Webwerf-URL:">
+<!ENTITY reportForm.url.accesskey "U">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Webwerf is wagwoordbeskermd">
+<!ENTITY reportForm.behind_login.accesskey "W">
+
+<!ENTITY reportForm.problem_type.title "Probleemsoort:">
+<!ENTITY reportForm.problem_type.accesskey "S">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Kies een…">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Blaaier nie ondersteun nie">
+<!ENTITY reportForm.problem_type.item2.title "Kan nie aanmeld nie">
+<!ENTITY reportForm.problem_type.item3.title "Inprop wys nie">
+<!ENTITY reportForm.problem_type.item4.title "Ander inhou vermis">
+<!ENTITY reportForm.problem_type.item5.title "Verkeerde gedrag">
+<!ENTITY reportForm.problem_type.item6.title "Lyk verkeerd">
+<!ENTITY reportForm.problem_type.item7.title "Ander probleem">
+<!ENTITY reportForm.problem_type.item8.title "Gestremdheid-toegang">
+<!ENTITY reportForm.problem_type.item9.title "Gedrukte afvoer is verkeerd">
+
+<!ENTITY reportForm.describe.title "Beskryf probleem:">
+<!ENTITY reportForm.describe.accesskey "B">
+
+<!ENTITY reportForm.platform.title "Platform:">
+<!ENTITY reportForm.product.title "Produk:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "Gebruikeragent:">
+<!ENTITY reportForm.language.title "Taal:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "E-pos (opsioneel):">
+<!ENTITY reportForm.email.accesskey "E">
+
+<!ENTITY reportForm.privacyPolicy.title "Privaatheidbeleid">
+<!ENTITY reportForm.privacyPolicy.tooltip "Bekyk privaatheidbeleid">
+
+<!ENTITY reportResults.showDetail.title "Wys besonderhede">
+<!ENTITY reportResults.showDetail.accesskey "W">
+
+<!ENTITY sendReport.label "Stuur verslag">
+<!ENTITY sendReport.description "Stuur tans verslag aan bediener…">
+
+<!ENTITY finish.label "Verslag gestuur">
