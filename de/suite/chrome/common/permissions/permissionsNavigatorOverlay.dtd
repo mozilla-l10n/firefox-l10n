@@ -1,0 +1,45 @@
+<!-- the following is for the task menu overlay -->
+
+<!ENTITY cookieMessageTitle.label "Cookieberechtigungen wurden geändert">
+<!ENTITY cookieDisplayCookiesCmd.label "Gespeicherte Cookies verwalten">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "G">
+<!ENTITY cookieAllowCookiesCmd.label "Cookies von dieser Website erlauben">
+<!ENTITY cookieAllowCookiesCmd.accesskey "C">
+<!ENTITY cookieAllowCookiesMsg.label "Cookies von dieser Website werden immer erlaubt.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Cookies für diese Sitzung (&quot;Session Cookies&quot;) erlauben">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "C">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Diese Website kann nur Cookies setzen, die innerhalb der Sitzung gültig sind.">
+<!ENTITY cookieCookiesDefaultCmd.label "Standard-Cookieberechtigungen verwenden">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "S">
+<!ENTITY cookieCookiesDefaultMsg.label "Cookies von dieser Website werden auf Grund der Standard-Einstellungen angenommen oder abgelehnt.">
+<!ENTITY cookieBlockCookiesCmd.label "Cookies von dieser Website blockieren">
+<!ENTITY cookieBlockCookiesCmd.accesskey "C">
+<!ENTITY cookieBlockCookiesMsg.label "Cookies von dieser Website werden immer abgelehnt.">
+
+<!ENTITY cookieImageMessageTitle.label "Grafikberechtigungen wurden geändert">
+<!ENTITY cookieDisplayImagesCmd.label "Grafik-Berechtigungen verwalten">
+<!ENTITY cookieDisplayImagesCmd.accesskey "G">
+<!ENTITY cookieAllowImagesCmd.label "Grafiken von dieser Website erlauben">
+<!ENTITY cookieAllowImagesCmd.accesskey "G">
+<!ENTITY cookieAllowImagesMsg.label "Grafiken von dieser Website werden immer heruntergeladen.">
+<!ENTITY cookieImagesDefaultCmd.label "Standard-Grafikberechtigungen verwenden">
+<!ENTITY cookieImagesDefaultCmd.accesskey "S">
+<!ENTITY cookieImagesDefaultMsg.label "Grafiken von dieser Website werden auf Grund der Standard-Einstellungen heruntergeladen.">
+<!ENTITY cookieBlockImagesCmd.label "Grafiken von dieser Website blockieren">
+<!ENTITY cookieBlockImagesCmd.accesskey "G">
+<!ENTITY cookieBlockImagesMsg.label "Grafiken von dieser Website werden nie heruntergeladen.">
+
+<!ENTITY cookieAllowPopupsCmd.label                  "Pop-ups von dieser Website erlauben">
+<!ENTITY cookieAllowPopupsCmd.accesskey              "P">
+<!ENTITY cookieManagePopups.label                    "Pop-ups verwalten">
+<!ENTITY cookieManagePopups.accesskey                "P">
+
+<!ENTITY cookieTutorialCmd.label "Erklärungen zum Datenschutz">
+<!ENTITY cookieTutorialCmd.accesskey "E">
+
+<!ENTITY cookieCookieManager.label "Cookie-Manager">
+<!ENTITY cookieCookieManager.accesskey "C">
+<!ENTITY cookieImageManager.label "Grafik-Manager">
+<!ENTITY cookieImageManager.accesskey "G">
+<!ENTITY cookiePopupManager.label "Pop-up-Manager">
+<!ENTITY cookiePopupManager.accesskey "P">

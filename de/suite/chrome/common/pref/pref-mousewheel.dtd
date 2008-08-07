@@ -1,0 +1,28 @@
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
+<!ENTITY pref.mouseWheel.title           "Mausrad">
+<!ENTITY mouseWheelPanel.label           "Mausrad-Verhalten unter Verwendung folgender Zusatztasten:">
+<!ENTITY usingJustTheWheel.label         "Keine Taste">
+<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label           "Vertikales Scrollen">
+<!ENTITY mousewheelHorizGroup.label      "Horizontales Scrollen">
+<!ENTITY scroll.label                    "Dokument scrollen um ">
+<!ENTITY scroll.accesskey                "D">
+<!ENTITY scrollHoriz.accesskey           "o">
+<!ENTITY scrollLines.label               "Zeilen">
+<!ENTITY scrollChars.label               "Buchstaben">
+<!ENTITY useSystemDefault.label          "Systemstandard verwenden.">
+<!ENTITY useSystemDefault.accesskey      "y">
+<!ENTITY useSystemDefaultHoriz.accesskey "t">
+<!ENTITY scrollPgUpPgDn.label            "Eine Seite nach oben oder unten scrollen">
+<!ENTITY scrollPgUpPgDn.accesskey        "E">
+<!ENTITY scrollPgLtPgRt.label            "Eine Seite nach links oder rechts scrollen">
+<!ENTITY scrollPgLtPgRt.accesskey        "n">
+<!ENTITY history.label                   "Vor und zurück in der Browsing History bewegen">
+<!ENTITY history.accesskey               "V">
+<!ENTITY historyHoriz.accesskey          "z">
+<!ENTITY zoom.label                      "Die Seite vergrößern oder verkleinern">
+<!ENTITY zoom.accesskey                  "S">
+<!ENTITY zoomHoriz.accesskey             "g">

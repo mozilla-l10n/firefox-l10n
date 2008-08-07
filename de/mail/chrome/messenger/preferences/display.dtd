@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "Formatierung">
+<!ENTITY itemTags.label                   "Schlagwörter">
+<!ENTITY itemFonts.label                  "Schrift">
+
+<!ENTITY textBegin.label                  "Beim Anzeigen von zitierten Reintext-Nachrichten">
+<!ENTITY style.label                      "Stil:">
+<!ENTITY style.accesskey                  "S">
+<!ENTITY regularStyle.label               "Normal">
+<!ENTITY bold.label                       "Fett">
+<!ENTITY italic.label                     "Kursiv">
+<!ENTITY boldItalic.label                 "Fett kursiv">
+<!ENTITY size.label                       "Größe:">
+<!ENTITY size.accesskey                   "G">
+<!ENTITY regularSize.label                "Normal">
+<!ENTITY bigger.label                     "Größer">
+<!ENTITY smaller.label                    "Kleiner">
+<!ENTITY color.label                      "Farbe:">
+<!ENTITY color.accesskey                  "a">
+<!ENTITY displayWidth.label               "Reintext-Nachrichten">
+<!ENTITY plainText.label				          "Schriftart:">
+<!ENTITY displayText.label				        "Beim Anzeigen von zitierten Reintext-Nachrichten:">
+<!ENTITY viewingPlainText.label			      "Beim Anzeigen von Reintext-Nachrichten:">
+<!ENTITY fixedWidth.label                 "Feste Breite">
+<!ENTITY fixedWidth.accesskey             "F">
+<!ENTITY variableWidth.label              "Variable Breite">
+<!ENTITY variableWidth.accesskey          "V">
+<!ENTITY readingMessagesHeader.label      "Für eingehende Nachrichten">
+<!ENTITY colors.label                     "Farben">
+<!ENTITY overrideColors.label             "Folgende Farben beim Anzeigen von Nachrichten verwenden:">
+<!ENTITY textColor.label                  "Text-Farbe:">
+<!ENTITY textColor.accesskey              "T">
+<!ENTITY backgroundColor.label            "Hintergrund-Farbe:">
+<!ENTITY backgroundColor.accesskey        "H">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Emoticons als Grafiken anzeigen">
+<!ENTITY convertEmoticons.accesskey    "E">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label    "Schlagwörter können beim Sortieren und Erkennen von Nachrichten helfen.">
+<!ENTITY addTagButton.label       "Hinzufügen">
+<!ENTITY addTagButton.accesskey   "H">
+<!ENTITY editTagButton.label      "Bearbeiten">
+<!ENTITY editTagButton.accesskey   "B">
+<!ENTITY removeTagButton.label    "Löschen">
+<!ENTITY removeTagButton.accesskey "L">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label  "Schriftarten und Zeichenkodierungen, die &brandShortName; verwenden soll:">
+<!ENTITY fontsAndEncodingsCaption.label      "Schriftarten und Zeichenkodierungen">
+<!ENTITY fontOptions.accesskey   "c">
+<!ENTITY fontOptions.label       "Schriftarten und Kodierung…">

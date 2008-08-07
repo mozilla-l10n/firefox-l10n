@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "Passwort-Manager">
+<!ENTITY      windowalttitle.label            "Formular-Manager">
+<!ENTITY      tab.signonsstored.label         "Gespeicherte Passwörter">
+<!ENTITY      tab.signonsnotstored.label      "Passwörter nicht speichern">
+<!ENTITY      tab.nopreview.label             "Formulare zuerst ausfüllen">
+<!ENTITY      tab.nocapture.label             "Formulardaten nicht speichern">
+
+<!ENTITY      spiel.signonsstored.label       "Passwort-Manager hat Login-Daten für folgende Adressen gespeichert:">
+<!ENTITY      spiel.signonsnotstored.label    "Passwort-Manager wird keine Login-Daten für die folgenden Adressen speichern:">
+<!ENTITY      spiel.nopreview.label           "Der Formular-Manager wird Formulare der folgenden Seiten erst anzeigen, nachdem er diese für Sie ausgefüllt hat:">
+<!ENTITY      spiel.nocapture.label           "Der Formular-Manager wird keine Daten der folgenden Seiten speichern:">
+
+<!ENTITY      treehead.site.label             "Adresse">
+<!ENTITY      treehead.username.label         "Benutzername">
+<!ENTITY      treehead.password.label         "Passwort">
+<!ENTITY      remove.label                    "Entfernen">
+<!ENTITY      removeall.label                 "Alle entfernen">

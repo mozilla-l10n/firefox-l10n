@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Junk-Filter">
+<!ENTITY trainingWarning.label "Wenn der Junk-Filter aktiviert ist, muss er trainiert werden, sodass unerwünschte Post (Junk) im Laufe der Zeit zuverlässig erkannt wird. Verwenden Sie zum Trainieren die Schaltfläche &quot;Junk&quot; in der Symbolleiste, um jede falsch eingestufte Nachricht korrekt als &quot;Junk&quot; oder &quot;Kein Junk&quot; einzustufen.">
+<!ENTITY level.label "Junk-Filter für dieses Konto aktivieren">
+<!ENTITY level.accesskey "J">
+
+<!ENTITY move.label "Neue Junk-Nachrichten verschieben in:">
+<!ENTITY move.accesskey "N">
+<!ENTITY junkFolderOn.label "Ordner &quot;Junk&quot; in:">
+<!ENTITY junkFolderOn.accesskey "O">
+<!ENTITY otherFolder.label "Anderer Ordner:">
+<!ENTITY otherFolder.accesskey "A">
+<!ENTITY purge1.label "Junk-Nachrichten löschen, die älter sind als">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "Tage">
+
+<!ENTITY whitelist.label "Absendern der gewählten Adressbücher vertrauen:">
+<!ENTITY whitelist.accesskey "b">
+
+<!ENTITY ispHeaders.label "Junk-Kopfzeilen dieses externen Filters vertrauen:">
+<!ENTITY ispHeaders.accesskey "K">

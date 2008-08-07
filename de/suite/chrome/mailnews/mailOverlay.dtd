@@ -1,0 +1,8 @@
+
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Nachricht">
+<!ENTITY  newMessageCmd.accesskey         "N">
+ 
+<!ENTITY  newCardCmd.label                "Adressbuch-Karte…">
+<!ENTITY  newCardCmd.accesskey            "A">
+ 

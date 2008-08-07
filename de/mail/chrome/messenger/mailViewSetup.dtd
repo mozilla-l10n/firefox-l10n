@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Nachrichtenansicht-Einstellungen">
+<!ENTITY mailViewHeading.label "Nachrichtenansicht-Name:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Wenn diese Ansicht ausgewählt ist, nur Nachrichten anzeigen, die:">
+

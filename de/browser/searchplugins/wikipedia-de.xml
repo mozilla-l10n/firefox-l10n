@@ -1,0 +1,12 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Wikipedia (de)</ShortName>
+<Description>Wikipedia, die freie Enzyklopädie</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAEAgQAhIOEAMjHyABIR0gA6ejpAGlqaQCpqKkAKCgoAPz9/AAZGBkAmJiYANjZ2ABXWFcAent6ALm6uQA8OjwAiIiIiIiIiIiIiI4oiL6IiIiIgzuIV4iIiIhndo53KIiIiB/WvXoYiIiIfEZfWBSIiIEGi/foqoiIgzuL84i9iIjpGIoMiEHoiMkos3FojmiLlUipYliEWIF+iDe0GoRa7D6GPbjcu1yIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Image>
+<Url type="text/html" method="GET" template="http://de.wikipedia.org/wiki/Spezial:Search">
+  <Param name="search" value="{searchTerms}"/>
+  <Param name="go" value="Artikel"/>
+  <Param name="sourceid" value="mozilla-20"/>
+</Url>
+<SearchForm>http://de.wikipedia.org/</SearchForm>
+</SearchPlugin>

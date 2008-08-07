@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label            "Eine Website hat ohne Ihre Erlaubnis versucht ein Pop-up-Fenster zu öffnen. &brandShortName; hat das Pop-up-Fenster automatisch geschlossen. Jedes Mal, wenn &brandShortName; solche Pop-ups blockiert, erscheint ein Symbol in der Statusleiste.">
+
+<!ENTITY endDescription.label              "Sie können dieses Symbol anklicken, um zu sehen welche Websites &brandShortName; blockiert und diesen wieder erlauben Pop-ups zu öffnen, falls sie sonst nicht korrekt funktionieren.">
+
+<!ENTITY caption.label                     "Über Pop-up-Blockierung">
+
+<!ENTITY done.label "Fertig">

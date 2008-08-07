@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Tom Veidt <me@bric.de> (Translator)
+  Ronny Perinke <ronny.perinke@gmx.de> (Translator)  
+  Stefan Steck <stefan.steck@web.de> (Translator)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Cookies verwalten</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Cookies verwalten</h1>
+
+<p>Dieses Dokument erklärt, was Cookies sind, wofür sie benutzt werden und wie
+   Sie die auf Ihrem Computer gespeicherten Cookies mit Hilfe des Cookie-Managers in
+  &brandFullName; verwalten können.</p>
+
+<div class="contentsBox">In diesem Abschnitt:
+  <ul>
+    <li><a href="#what_is_a_cookie">Was ist ein Cookie?</a></li>
+    <li><a href="#setting_up_cookie_rules">Cookie-Regeln erstellen</a></li>
+    <li><a href="#accepting_and_blocking_cookies">Cookies akzeptieren und blockieren</a></li>
+    <li><a href="#cookies_exceptions">Die Cookie-Ausnahmen</a></li>
+    <li><a href="#view_cookies">Der Cookie-Manager</a></li>
+  </ul>
+</div>
+
+<h2 id="what_is_a_cookie">Was ist ein Cookie?</h2>
+
+<p>Ein Cookie ist eine Datei, die von einer Website auf dem Computer des Besuchers 
+  gespeichert wird und Informationen wie z.&#160;B. persönliche Einstellungen beinhaltet. 
+  Wenn Sie eine Website besuchen, die Cookies verwendet, kann diese &brandShortName; um Erlaubnis bitten, 
+  ein oder mehrere Cookies auf Ihrer Festplatte zu speichern.</p>
+
+<p>Wenn Sie später diese Website erneut besuchen, übermittelt  &brandShortName; die 
+  gespeicherten Cookie-Informationen an die Seite zurück. Dadurch können
+   individuelle und an Sie angepasste Informationen angezeigt werden.</p>
+
+<p>Cookies können auch Informationen speichern, die den Besucher persönlich 
+  identifizierbar machen. Das sind Daten,  die dazu genutzt werden können, Sie zu kontaktieren, 
+  wie etwa Ihr Name, Ihre E-Mail-Adresse oder Ihre private oder dienstliche Anschrift oder Telefonnummer. 
+  Eine Website hat jedoch nur Zugang zu persönlichen Daten, die Sie bereitstellen. 
+  So kann eine Seite beispielsweise nicht ohne Ihr Zutun Ihre E-Mail-Adresse ermitteln. Eine Website kann auch 
+  nicht auf andere Informationen auf Ihrem Computer zugreifen.</p>
+
+<p>Wenn Sie die Standardeinstellungen für Cookies verwenden, laufen diese Aktivitäten 
+  für Sie unbemerkt ab. Sie werden nicht erfahren, wenn eine Seite
+   ein Cookie abspeichert oder wenn &brandShortName; Cookie-Informationen an eine Website
+   übermittelt. Der Browser kann jedoch so konfiguriert werden, dass Sie vor dem
+   Abspeichern eines Cookies um Erlaubnis hierzu gebeten werden. 
+  Sie können die Lebenszeit von Cookies auch auf Ihre gegenwärtige &brandShortName;-Sitzung beschränken.</p>
+
+<h2 id="setting_up_cookie_rules">Cookie-Regeln erstellen</h2>
+
+<p>Standardmäßig akzeptiert &brandShortName; alle Cookies, einschließlich solcher, 
+  die es Websites ermöglichen, Sie immer wieder zu erkennen. Wenn Sie das nicht möchten, können 
+  Sie &brandShortName; so einstellen, dass alle Cookies gelöscht werden, wenn Sie &brandShortName; beenden:</p>
+
+<ol>
+  <li>Wählen Sie &pref.menuPath; und öffnen Sie das <em>Datenschutz</em>-Fenster.</li>
+  <li>Im Auswahlmenü <em>Behalten, bis:</em> wählen Sie <em>Bis &brandShortName; geschlossen wird</em> aus.</li>
+</ol>
+
+<p>Wenn Sie Websites, denen Sie vertrauen, gestatten wollen, Cookies dauerhaft zu speichern 
+  (z.&#160;B. um sich automatisch auf einer Website anzumelden), klicken Sie auf <a
+  href="#cookies_exceptions"><em>Ausnahmen…</em></a>, geben die Adresse der Website ein 
+  und klicken auf <em>Erlauben</em>.</p>
+
+<h3 id="all_the_settings">Alle Einstellungen</h3>
+
+<p>Diese Einstellungen bestimmen, wie 
+  &brandShortName; Cookies handhaben soll:</p>
+
+<dl>
+  <dt>Cookies akzeptieren</dt>
+  <dd><p>Wenn Sie nicht möchten, dass Websites Cookies setzen können,
+      deaktivieren Sie diese Einstellung. Bitte bedenken Sie, dass manche
+      Seiten unter Umständen nicht mehr richtig funktionieren, wenn Cookies
+      deaktiviert sind. Wenn Sie bestimmten Websites trotzdem die Möglichkeit einräumen wollen, 
+      Cookies zu speichern, öffnen Sie die <a href="#cookies_exceptions">Cookie-Ausnahmen</a> 
+      durch einen Klick auf <em>Ausnahmen…</em>, geben dann die Adresse der Website ein und klicken 
+      auf <em>Erlauben</em> oder <em>Für diese Sitzung erlauben</em>.</p></dd>
+  <dt>Behalten, bis</dt>
+  <dd>
+  <ul>
+    <li><em>sie nicht mehr gültig sind</em><br/>
+      Mit dieser Einstellung wird jedes Cookie zum Ablauf des von der Seite 
+      vorgegebenen Gültigkeitsdatums gelöscht.</li>
+    <li><em>&brandShortName; geschlossen wird</em><br/>
+      Mit dieser Einstellung werden Cookies gelöscht, wenn 
+      &brandShortName; neu gestartet wird. Websites, die Cookies benötigen, 
+      funktionieren weiterhin, aber wenn Sie &brandShortName; neu starten, 
+      werden sie sich so verhalten, als würden Sie die Seite zum ersten Mal besuchen.</li>
+    <li><em>jedes Mal nachfragen</em><br/>
+      Jedes Mal, wenn eine Website versucht, ein Cookie zu speichern, wird ein 
+      Warnhinweis eingeblendet, mit der Frage ob das Cookie zugelassen werden soll.</li>
+  </ul>
+  </dd>
+</dl>
+
+<h2 id="accepting_and_blocking_cookies">Cookies akzeptieren und blockieren</h2>
+
+<p>Wenn Sie im <em>Behalten, bis</em>-Menü <em>jedes Mal nachfragen</em> gewählt haben, 
+  werden Sie immer, wenn eine Seite versucht, ein Cookie zu speichern, einen Dialog mit 
+  folgenden Optionen sehen:</p>
+
+<dl>
+  <dt>Erlauben</dt>
+  <dd>Um dieses Cookie zu akzeptieren, klicken Sie auf <em>Erlauben</em>. Verwenden Sie 
+    diese Option, wenn Sie der Website vertrauen.</dd>
+  <dt>Für diese Sitzung erlauben</dt>
+  <dd>Wenn Sie Cookies zwar für den Moment akzeptieren wollen, diese aber wieder gelöscht werden sollen, 
+    wenn &brandShortName; beendet wird, klicken Sie auf <em>Für diese Sitzung erlauben</em>. 
+    Diese Methode ist empfehlenswert, wenn die Website ohne Cookies nicht korrekt 
+    funktioniert, aber die Cookies nicht dauerhaft gespeichert werden sollen.</dd>
+  <dt>Ablehnen</dt>
+  <dd>Soll das Cookie nicht gespeichert werden, klicken Sie auf <em>Ablehnen</em>. 
+    Verwenden Sie 
+    diese Option, wenn Sie der Website nicht vertrauen oder glauben, Ihre Privatsphäre 
+    könnte verletzt werden.</dd>
+  <dt>Diese Auswahl bei allen Cookies von dieser Website verwenden</dt>
+  <dd>Wählen Sie diese Option, bevor Sie eine der oben genannten Schaltflächen anklicken, 
+    wenn &brandShortName; Ihre Auswahl speichern und Sie nicht mehr fragen soll. 
+    Die Website wird in die Liste der <a href="#cookies_exceptions">Cookie-Ausnahmen</a> 
+    aufgenommen, wo Sie Ihre Entscheidung jederzeit wieder rückgängig machen können.</dd>
+</dl>
+
+<h2 id="cookies_exceptions">Die Cookie-Ausnahmen</h2>
+
+<p>Zu den Ausnahmen für Cookies gelangen Sie über die Schaltfläche <em>Ausnahmen…</em> 
+  bei den Cookie-Einstellungen. Hier können Sie für bestimmte Seiten Ausnahmen 
+  von Ihren allgemeinen Cookie-Einstellungen machen. Sie haben die Wahl, ob 
+  alle Cookies einer Website immer, nie oder nur gespeichert werden sollen, bis 
+  sie &brandShortName; beenden, unabhängig von Ihren anderen Cookie-Einstellungen.</p>
+
+<p>Um eine Website zu dieser Liste hinzuzufügen, geben Sie einfach die Adresse der Website
+  in das Feld mit der Beschreibung <em>Adresse der Website</em> ein. 
+  Klicken Sie anschließend auf <em>Blockieren</em>, um alle Cookies der Seite abzulehnen, 
+  auf <em>Erlauben</em> um Cookies der Seite anzunehmen oder auf <em>Für diese Sitzung erlauben</em>, 
+  um alle Cookies der Seite anzunehmen, aber zu löschen, wenn Sie &brandShortName; beenden.</p>
+
+<p>Sie entfernen eine Website von der Liste, indem Sie sie auswählen und auf 
+  <em>Website entfernen</em> klicken. Wenn Sie für alle Websites die Ausnahmeregelungen 
+  auf einmal löschen wollen, klicken Sie auf <em>Alle Websites entfernen</em>. 
+  Danach gelten für alle Websites die Regeln Ihrer allgemeinen Cookie-Einstellungen.</p>
+
+<h2 id="view_cookies">Der Cookie-Manager</h2>
+
+<p>Benutzen Sie den Cookie-Manager, um Cookies anzusehen oder zu löschen. Er ist über 
+  die Schaltfläche <em>Cookies anzeigen</em> in den Cookies-Einstellungen erreichbar.</p>
+
+<p>Der Cookie-Manager listet alle momentan auf Ihrem PC gespeicherten Cookies, 
+  nach Website sortiert, auf. Sie können den Ordner einer Website erweitern und 
+  sich den Inhalt eines jeden Cookies ansehen. Geben Sie den Namen einer Website 
+  oder eines Cookies in die Suchleiste ein, um nach einem Cookie zu suchen.</p>
+
+<p>Um ein Cookie von der Liste zu entfernen, wählen Sie es aus und klicken 
+   auf <em>Cookie(s) entfernen</em>. Um alle Cookies einer Seite zu entfernen, 
+   markieren Sie die Seite und klicken auf <em>Cookie(s) entfernen</em>. 
+   Um alle Cookies zu entfernen, 
+   klicken Sie auf <em>Alle Cookies entfernen</em>.</p>
+
+<div class="contentsBox"><em>17. September 2006</em></div>
+<p>Copyright &copy; 2003-2006 Mitwirkende des Firefox-Hilfe-Projektes.</p>
+
+</body>
+</html>

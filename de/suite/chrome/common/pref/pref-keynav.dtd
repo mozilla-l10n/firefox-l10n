@@ -1,0 +1,21 @@
+<!ENTITY pref.keyNav.title "Navigation mit der Tastatur">
+<!ENTITY tabNavigationBehavior.label "Navigation mit der Tab-Taste">
+<!ENTITY tabNavigationLinks.label "Links">
+<!ENTITY tabNavigationLinks.accesskey "L">
+<!ENTITY tabNavigationForms.label "Schaltflächen, Auswahlknöpfen, Kästchen und Auswahllisten">
+<!ENTITY tabNavigationForms.accesskey "S">
+<!ENTITY tabNavigationTextboxes.label "Anmerkung: Text-Eingabefelder und scrollbare Bereiche sind immer Teil der Tab-Reihenfolge.">
+<!ENTITY tabNavigationDesc.label "Wenn Tab oder Umschalt+Tab gedrückt werden, bewegen zwischen:">
+<!ENTITY findAsYouTypeBehavior.label "Während der Eingabe suchen">
+<!ENTITY findAsYouTypeTip.label "Tipp: um die Suche beim Eintippen manuell zu starten, tippen Sie / zur Suche von Text oder ' zur Suche von Links ein, gefolgt vom Text, den Sie suchen wollen.">
+<!ENTITY findAsYouTypeTimeout.label "Die aktuelle Suche nach einigen Sekunden Inaktivität beenden">
+<!ENTITY findAsYouTypeTimeout.accesskey "b">
+<!ENTITY findAsYouTypeSound.label "Einen Klang abspielen, wenn der eingetippte Text nicht gefunden wurde">
+<!ENTITY findAsYouTypeSound.accesskey "K">
+<!ENTITY findAsYouTypeEnableAuto.label "Beim Eintippen innerhalb einer Webseite automatisch suchen:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "u">
+<!ENTITY findAsYouTypeAutoText.label "Jeglichen Text auf der Seite">
+<!ENTITY findAsYouTypeAutoText.accesskey "J">
+<!ENTITY findAsYouTypeAutoLinks.label "Nur Links">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "N">
+

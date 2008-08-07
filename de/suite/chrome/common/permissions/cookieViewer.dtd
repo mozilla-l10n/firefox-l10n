@@ -1,0 +1,33 @@
+<!ENTITY     tab.cookiesonsystem.label      "Gespeicherte Cookies">
+<!ENTITY     tab.bannedservers.label        "Cookie-Websites">
+<!ENTITY     div.bannedservers.label        "Websites, die Cookies auf Ihrem Computer speichern dürfen oder nicht, verwalten.">
+<!ENTITY     div.cookiesonsystem.label      "Auf Ihrem Computer gespeicherte Cookies ansehen und löschen.">
+<!ENTITY     treehead.cookiename.label      "Cookie-Name">
+<!ENTITY     treehead.cookiedomain.label    "Website"> 
+<!ENTITY     treehead.cookieexpires.label   "Läuft ab"> 
+<!ENTITY     treehead.infoselected.label    "Information über den ausgewählten Cookie">
+<!ENTITY     button.removecookie.label      "Cookie löschen">
+<!ENTITY     button.removeallcookies.label  "Alle Cookies entfernen">
+
+<!ENTITY     props.name.label               "Name:">
+<!ENTITY     props.value.label              "Inhalt:">
+<!ENTITY     props.domain.label             "Host:">
+<!ENTITY     props.path.label               "Pfad:">
+<!ENTITY     props.secure.label             "Senden für:">
+<!ENTITY     props.expires.label            "Gültig bis:">
+
+<!ENTITY     treehead.sitename.label        "Website">
+<!ENTITY     treehead.status.label          "Status">
+<!ENTITY     windowtitle.label              "Cookie-Manager">
+<!ENTITY     buttonaccept.label             "Schließen">
+
+<!ENTITY     blockSite.label                "Blockieren">
+<!ENTITY     allowSite.label                "Erlauben">
+<!ENTITY     allowSiteSession.label         "Sitzung">
+<!ENTITY     removepermission.label         "Website entfernen">
+<!ENTITY     removeallpermissions.label     "Alle Websites entfernen">
+
+<!ENTITY     canSet.label                   "darf Cookies setzen">
+<!ENTITY     cannotSet.label                "darf keine Cookies setzen">
+
+<!ENTITY     checkbox.label                 "Websites, deren Cookies entfernt wurden, das Setzen neuer Cookies verbieten.">

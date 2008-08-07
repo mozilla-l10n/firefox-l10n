@@ -1,0 +1,22 @@
+
+<!ENTITY  findABookmark.label               "Lesezeichen suchen…">
+<!ENTITY  findABookmark.accesskey           "L">
+<!ENTITY  newBookmark.label                 "Neues Lesezeichen…">
+<!ENTITY  newBookmark.accesskey             "N">
+<!ENTITY  newFolder.label                   "Neuer Ordner…">
+<!ENTITY  newFolder.accesskey               "N">
+<!ENTITY  newSeparator.label                "Neue Trennzeile">
+<!ENTITY  newSeparator.accesskey            "N">
+<!ENTITY  setAsNewBookmarkFolder.label      "Als neuen Lesezeichenordner setzen">
+<!ENTITY  setAsNewBookmarkFolder.accesskey  "A">
+<!ENTITY  setAsNewSearchFolder.label        "Als neuen Suchergebnisordner setzen">
+<!ENTITY  setAsNewSearchFolder.accesskey    "A">
+<!ENTITY  setAsNewToolbarFolder.label       "Als neuen Ordner &quot;Persönliche Symbolleiste&quot; setzen">
+<!ENTITY  setAsNewToolbarFolder.accesskey   "A">
+<!ENTITY  exportBookmarks.label             "Exportieren…">
+<!ENTITY  exportBookmarks.accesskey         "E">
+<!ENTITY  importBookmarks.label             "Importieren…">
+<!ENTITY  importBookmarks.accesskey         "I">
+
+
+

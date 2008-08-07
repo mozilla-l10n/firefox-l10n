@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Diese Grafik an die Nachricht anhängen">
+<!ENTITY attachImageSource.accesskey     "D">
+
+<!ENTITY attachLinkSource.label          "Die Quelle dieses Links an die Nachricht anhängen">
+<!ENTITY attachLinkSource.accesskey      "D">

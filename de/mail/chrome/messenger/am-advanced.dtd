@@ -1,0 +1,24 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Postausgang-Server (SMTP)">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Sie können hier die Postausgang-Server (SMTP) für alle Konten anlegen. In manchen Fällen kann man einen Postausgang-Server (SMTP) für alle Konten verwenden. Meist ist es aber notwendig, dass Sie für jedes Konto getrennte Postausgang-Server (SMTP) anlegen (dies ist auch der Fall, wenn zwar die Serveradresse gleich, aber der Benutzername verschieden ist).">
+
+<!ENTITY smtpListAdd.label  "Hinzufügen…">
+<!ENTITY smtpListAdd.accesskey  "n">
+<!ENTITY smtpListEdit.label "Bearbeiten…">
+<!ENTITY smtpListEdit.accesskey "B">
+<!ENTITY smtpListDelete.label "Entfernen">
+<!ENTITY smtpListDelete.accesskey "E">
+<!ENTITY smtpListSetDefault.label "Standard setzen">
+<!ENTITY smtpListSetDefault.accesskey "S">
+
+<!ENTITY serverDescription.label "Beschreibung: ">
+<!ENTITY serverName.label "Server: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label   "Benutzername: ">
+<!ENTITY useSecureConnection.label   "Sichere Verbindung: ">
+<!ENTITY useSecureAuthentication.label   "Sichere Authentifizierung: ">
+

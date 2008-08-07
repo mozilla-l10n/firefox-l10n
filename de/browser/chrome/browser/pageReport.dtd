@@ -1,0 +1,9 @@
+<!ENTITY caption.label "Blockierte Pop-ups">
+
+<!ENTITY intro.label "Folgende Seiten wurden daran gehindert, ungefragt Pop-up-Fenster anzuzeigen: ">
+
+<!ENTITY done.label "Fertig">
+<!ENTITY done.accesskey "F">
+
+<!ENTITY unblock.label "Website nicht mehr blockieren">
+<!ENTITY unblock.accesskey "n">

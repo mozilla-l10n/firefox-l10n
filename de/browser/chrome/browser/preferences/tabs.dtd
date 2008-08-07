@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "Neue Seiten sollten geöffnet werden in:">
+<!ENTITY inNewWindow.label            "einem neuen Fenster">
+<!ENTITY inNewWindow.accesskey        "F">
+<!ENTITY inNewTab.label               "einem neuen Tab">
+<!ENTITY inNewTab.accesskey           "T">
+
+<!ENTITY warnCloseMultipleTabs.label  "Warnen, wenn ein Fenster mit mehreren Tabs geschlossen werden soll">
+<!ENTITY warnCloseMultipleTabs.accesskey  "W">
+
+<!ENTITY warnOpenManyTabs.label       "Warnen, wenn das gleichzeitige Öffnen mehrerer Tabs &brandShortName; verlangsamen könnte">
+<!ENTITY warnOpenManyTabs.accesskey   "a">
+
+<!ENTITY showTabBar.label             "Tab-Leiste immer anzeigen">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY switchToNewTabs.label        "Tabs im Vordergrund öffnen">
+<!ENTITY switchToNewTabs.accesskey    "s">

@@ -1,0 +1,27 @@
+# Mozilla/Google plug-in by amitp@google.com
+
+<search
+   name="Google.at"
+   description="Google.at-Suche"
+   method="GET"
+   action="http://www.google.at/search"
+   queryEncoding="utf-8"
+   queryCharset="utf-8"
+>
+
+<input name="q" user>
+<input name="sourceid" value="mozilla-search">
+<inputnext name="start" factor="20">
+<inputprev name="start" factor="20">
+<input name="ie" value="utf-8">
+<input name="oe" value="utf-8">
+
+<interpret
+    browserResultType="result"
+    charset="UTF-8"
+    resultListStart="<!--a-->"
+    resultListEnd="<!--z-->"
+    resultItemStart="<!--m-->"
+    resultItemEnd="<!--n-->"
+>
+</search>

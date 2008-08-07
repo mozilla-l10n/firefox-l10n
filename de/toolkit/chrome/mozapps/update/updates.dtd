@@ -1,0 +1,69 @@
+<!ENTITY  updateWizard.title              "Software-Update">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Überprüfe auf verfügbare Updates">
+<!ENTITY  checking.label                  "Es wird nun überprüft, ob Updates für &brandShortName; zur Verfügung stehen…">
+
+<!ENTITY  cancel.label                    "Abbrechen">
+<!ENTITY  cancel.accesskey                "A">
+
+<!ENTITY  noupdatesfound.title            "Keine Updates verfügbar">
+<!ENTITY  noupdatesfound.intro            "Es sind keine neuen Updates verfügbar. Je nach Einstellung wird automatisch überprüft, ob Updates für &brandShortName; zur Verfügung stehen.">
+
+<!ENTITY  incompatibleChecking.label      "Es wird überprüft, ob durch dieses Update Probleme mit Ihren Erweiterungen und/oder Themes entstehen…">
+<!ENTITY  clickHere.label                 "Weitere Informationen zu diesem Update ansehen">
+
+<!ENTITY  incompatible.warning            "Dieses Update führt dazu, dass einige Ihrer Erweiterungen und/oder Themes deaktiviert werden müssen, bis kompatible Versionen verfügbar sind.">
+<!ENTITY  listIncompatible.label          "Liste anzeigen">
+<!ENTITY  listIncompatible.accesskey      "L">
+
+<!ENTITY  upgrade.evangelism              "Es wird dringend empfohlen, dass Sie &brandShortName; schnellstmöglich aktualisieren.">
+
+<!ENTITY  license.instructions            "Falls Sie den Bedingungen der Lizenzvereinbarung zustimmen, klicken Sie unten auf Akzeptieren, um mit der Installation des Updates fortzufahren.">
+
+<!ENTITY  license.titleText               "Lizenzvereinbarung">
+<!ENTITY  license.introText               "Bedingungen, um diese Software zu verwenden">
+<!ENTITY  license.instructionText         "Bitte lesen Sie die folgende Lizenzvereinbarung durch. Verwenden Sie die Scrollleiste, um den Rest der Lizenzvereinbarung zu sehen.">
+<!ENTITY  license.accept                  "Ich akzeptiere die Lizenzvereinbarung.">
+<!ENTITY  license.accept.accesskey        "a">
+<!ENTITY  license.decline                 "Ich lehne die Lizenzvereinbarung ab.">
+<!ENTITY  license.decline.accesskey       "e">
+
+<!ENTITY  downloading.title               "Update herunterladen">
+<!ENTITY  downloading.intro               "Das Update wird heruntergeladen…">
+<!ENTITY  connecting.label                "Mit dem Update-Server verbinden…">
+<!ENTITY  verificationFailedText.label    "Die Integrität des heruntergeladenen, inkrementellen Updates für &brandShortName; konnte nicht sichergestellt werden. Daher wird nun das komplette Update-Paket heruntergeladen.">
+
+<!ENTITY  details.link                    "Details">
+<!ENTITY  pause.label                     "Pause">
+<!ENTITY  pause.accesskey                 "e">
+<!ENTITY  close.label                     "Schließen">
+<!ENTITY  close.accesskey                 "c">
+
+<!ENTITY  error.label                     "Beim Versuch auf Updates zu überprüfen, diese herunterzuladen oder zu installieren sind Probleme aufgetreten. &brandShortName; konnte aus folgendem Grund nicht aktualisiert werden:">
+                                           
+<!ENTITY  errorManual.label               "Sie können &brandShortName; auch manuell aktualisieren. Besuchen Sie dazu den folgenden Link und laden die aktuelle Version herunter:">
+                                           
+<!ENTITY  errorpatching.title             "Update fehlgeschlagen">
+<!ENTITY  errorpatching.intro             "Das inkrementelle Update für &brandShortName; konnte nicht installiert werden. Es wird nun für einen neuen Versuch das komplette Update-Paket heruntergeladen.">
+
+<!ENTITY  finished.title                  "Update erfolgreich heruntergeladen">
+<!ENTITY  finished.text                   "Das Update wurde erfolgreich heruntergeladen und überprüft. Es wird beim nächsten &brandShortName;-Start installiert.">
+
+<!ENTITY  finishedBackground.title        "Update bereit zur Installation">
+<!ENTITY  finishedBackground.text         "&brandShortName; hat ein wichtiges Update heruntergeladen und überprüft. Klicken Sie unten für weitere Details.">
+<!ENTITY  finishedBackground.name         "Update:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Klicken Sie bitte auf '&brandShortName; jetzt neu starten', um das Update jetzt zu installieren.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Klicken Sie auf 'Nicht jetzt', um zunächst weiterzuarbeiten. Das Update wird dann beim nächsten &brandShortName;-Start installiert.">
+
+<!ENTITY  installed.title                 "Update installiert">
+<!ENTITY  installed.intro                 "Das Update wurde erfolgreich installiert.">
+<!ENTITY  whatsnew.label                  "Lesen Sie mehr über die Neuigkeiten…">
+
+<!ENTITY  update.details.label            "Details">
+<!ENTITY  update.installedOn.label        "Installiert am:">
+<!ENTITY  update.status.label             "Status:">

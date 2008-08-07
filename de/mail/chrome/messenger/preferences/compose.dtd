@@ -1,0 +1,66 @@
+<!ENTITY itemGeneral.label                   "Allgemein">
+<!ENTITY itemAutoComplete.label              "Adressieren">
+<!ENTITY itemSpellCheck.label                "Rechtschreibung">
+<!ENTITY itemSendFormat.label                "Sendeformat">
+
+<!ENTITY forwardReply.label                   "Nachrichten weiterleiten">
+<!ENTITY forwardMsg.label                     "Nachrichten weiterleiten:">
+<!ENTITY forwardMsg.accesskey                 "w">
+<!ENTITY inline.label                         "Eingebunden">
+<!ENTITY inline.accesskey                     "E">
+<!ENTITY asAttachment.label                   "Als Anhang">
+<!ENTITY asAttachment.accesskey               "l">
+<!ENTITY addExtension.label                   "Dateinamenserweiterung hinzufügen">
+<!ENTITY addExtension.accesskey               "D">
+
+<!ENTITY htmlComposeHeader.label              "HTML-Optionen">
+<!ENTITY font.label                           "Schriftart:">
+<!ENTITY font.accesskey                       "c">
+<!ENTITY size.label                           "Größe:">
+<!ENTITY size.accesskey                       "G">
+<!ENTITY fontColor.label                      "Text:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "Hintergrund:">
+<!ENTITY bgColor.accesskey                    "H">
+<!ENTITY restoreHTMLDefaults.label            "Standard wiederherstellen">
+<!ENTITY restoreHTMLDefaults.accesskey        "S">
+
+<!ENTITY sendingMessagesHeader.label          "Nachrichten verfassen">
+<!ENTITY spellCheck.label                     "Rechtschreibprüfung vor dem Senden">
+<!ENTITY spellCheck.accesskey                 "v">
+<!ENTITY spellCheckInline.label               "Sofort-Rechtschreibprüfung aktivieren">
+<!ENTITY spellCheckInline1.accesskey          "a">
+<!ENTITY languagePopup.label                  "Sprache:">
+<!ENTITY languagePopup.accessKey              "S">
+<!ENTITY downloadDictionaries.label           "Weitere Wörterbücher herunterladen">
+
+<!ENTITY useMIME.label                        "Bei Nachrichten mit 8-bit-Zeichen &quot;quoted-printable&quot; als MIME-Kodierung verwenden.">
+<!ENTITY useMIME.accesskey                    "Z">
+<!ENTITY warnOnSendAccelKey.label             "Bestätigen, wenn das Tastaturkürzel zum Senden einer Nachricht verwendet wird">
+<!ENTITY warnOnSendAccelKey.accesskey         "B">
+<!ENTITY autoSave.label                       "Alle">
+<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSaveEnd.label                    "Minuten automatisch speichern">
+
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Reintext-Nachrichten nach">
+<!ENTITY wrapOutMsg.accesskey                 "R">
+<!ENTITY char.label                           "Zeichen umbrechen">
+
+<!ENTITY emailCollectionPicker.label           "Adressen beim Senden automatisch hinzufügen zu:">
+<!ENTITY emailCollectionPicker.accesskey       "E">
+<!ENTITY addressingTitle.label                 "Adress-Autovervollständigung">
+<!ENTITY autocompleteText.label                "Beim Adressieren von Nachrichten nach passenden Einträgen suchen in:">
+<!ENTITY addressingEnable.label                "Lokale Adressbücher">
+<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY directories.label                     "LDAP-Verzeichnisserver:">
+<!ENTITY directories.accesskey                 "V">
+<!ENTITY editDirectories.label                 "Bearbeiten…">
+<!ENTITY editDirectories.accesskey             "B">
+<!ENTITY matchText.label                       "Wenn es einen passenden Eintrag in Ihren lokalen Adressbüchern gibt:">
+<!ENTITY skipDirectory.label                   "Verzeichnis nicht durchsuchen">
+
+<!ENTITY sendOptionsCaption.label              "Sende- und HTML-Optionen">
+<!ENTITY sendOptionsDescription.label          "Verhalten beim Senden von HTML-Nachrichten:">
+<!ENTITY sendOptions.label                     "Sende-Optionen…">
+<!ENTITY sendOptions.accesskey                 "O">

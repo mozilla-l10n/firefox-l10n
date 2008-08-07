@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label              "Anhänge speichern unter">
+<!ENTITY alwaysAsk.label              "Jedes Mal nachfragen, wo ein Anhang gespeichert werden soll">
+<!ENTITY alwaysAsk.accesskey          "J">
+<!ENTITY neverAsk.label               "Alle Anhänge in diesem Ordner speichern:">
+<!ENTITY neverAsk.accesskey           "A">
+<!ENTITY desktop.label                "Desktop">
+<!ENTITY downloads.label              "Eigene Downloads">
+<!ENTITY chooseFolderWin.label        "Durchsuchen…">
+<!ENTITY chooseFolderWin.accesskey    "D">
+<!ENTITY chooseFolderMac.label        "Durchsuchen…">
+<!ENTITY chooseFolderMac.accesskey    "D">
+
+
+<!ENTITY fileTypes.label              "Standard-Aktionen">
+<!ENTITY configureActions.label       "Aktionen anzeigen &amp; bearbeiten…">
+<!ENTITY configureActions.accesskey   "b">
+<!ENTITY fileTypesDescription.label   "&brandShortName; kann Anhänge je nach Dateityp automatisch speichern oder öffnen.">
+
+<!ENTITY fileTypeColName.label        "Dateityp">
+<!ENTITY fileHandlerColName.label     "Anwendung">
+<!ENTITY editFileHandler.label        "Aktion ändern">
+<!ENTITY editFileHandler.accesskey    "A">
+<!ENTITY removeFileHandler.label      "Entfernen">
+<!ENTITY removeFileHandler.accesskey  "E">

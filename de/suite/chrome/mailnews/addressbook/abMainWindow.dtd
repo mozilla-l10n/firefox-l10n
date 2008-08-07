@@ -1,0 +1,147 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title                        "Adressbuch">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newCard.label                                  "Adressbuch-Karte…">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newCard.accesskey                              "K">  
+<!ENTITY newListCmd.label                               "Mailing-Liste…">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey                           "M">  
+<!ENTITY newAddressBookCmd.label                        "Adressbuch…"> 
+<!ENTITY newAddressBookCmd.accesskey                    "A">  
+<!ENTITY renameAddressBookCmd.label                     "Adressbuch umbenennen…"> 
+<!ENTITY renameAddressBookCmd.accesskey                 "A">  
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP-Verzeichnis…">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
+<!ENTITY newIM.label                                    "IM">
+<!ENTITY printCardViewCmd.label                         "Drucke Karte…">
+<!ENTITY printCardViewCmd.accesskey                     "D">
+<!ENTITY printPreviewCardViewCmd.label                  "Druckvorschau: Karte">
+<!ENTITY printPreviewCardViewCmd.accesskey              "D">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
+<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printAddressBook.label                         "Drucke Adressbuch…"> 
+<!ENTITY printAddressBook.accesskey                     "D"> 
+<!ENTITY printPreviewAddressBook.label                  "Druckvorschau: Adressbuch"> 
+<!ENTITY printPreviewAddressBook.accesskey              "D">
+<!ENTITY printSetupCmd.label                            "Seite einrichten…">
+<!ENTITY printSetupCmd.accesskey                        "S">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label                              "Adressbuch löschen">  
+<!ENTITY deleteCardCmd.label                            "Lösche Karte">  
+<!ENTITY deleteCardsCmd.label                           "Lösche Ausgewählte Karten">  
+<!ENTITY deleteListCmd.label                            "Liste löschen">
+<!ENTITY deleteListsCmd.label                           "Ausgewählte Listen löschen">
+<!ENTITY deleteItemsCmd.label                           "Ausgewählte Einträge löschen">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Vor-/Nachnamen vertauschen">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "V">  
+<!ENTITY propertiesCmd.label                            "Eigenschaften…">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY propertiesCmd.accesskey                        "E">  
+<!ENTITY propertiesCmd.key                              "i">  
+
+<!-- View Menu -->
+<!ENTITY showAbToolbarCmd.label                         "Adressbuch-Symbolleiste"> 
+<!ENTITY showAbToolbarCmd.accesskey                     "A">  
+
+<!ENTITY showCardPane.label                             "Kartenzusammenfassungsfenster">
+<!ENTITY showCardPane.accesskey                         "K">
+  
+<!ENTITY menu_ShowNameAs.label                          "Namen anzeigen:"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY firstLastCmd.label                             "Vorname Nachname">  
+<!ENTITY firstLastCmd.accesskey                         "V"> 
+<!ENTITY lastFirstCmd.label                             "Nachname, Vorname">  
+<!ENTITY lastFirstCmd.accesskey                         "N"> 
+<!ENTITY displayNameCmd.label                           "Anzeigename">  
+<!ENTITY displayNameCmd.accesskey                       "A"> 
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label                                "Importieren…">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "Exportieren…">
+<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY allowOnlineCheck.label                         "Online-Präsenz überprüfen (AOL)">
+<!ENTITY allowOnlineCheck.accesskey                     "O">
+
+<!ENTITY stopSearchingCmd.label                         ".Suche abbrechen"> 
+
+<!-- Toolbar and Popup items -->  
+<!ENTITY newcardButton.label                            "Neue Karte">  
+<!ENTITY newcardButton.accesskey                        "N">  
+<!ENTITY newlistButton.label                            "Neue Liste">  
+<!ENTITY newlistButton.accesskey                        "N">  
+<!ENTITY editButton.label                               "Eigenschaften">  
+<!ENTITY editButton.accesskey                           "E">  
+<!ENTITY newmsgButton.label                             "Verfassen">  
+<!ENTITY newmsgButton.accesskey                         "V">  
+<!ENTITY deleteButton.label                             "Löschen">  
+<!ENTITY deleteButton.accesskey                         "L">  
+<!ENTITY newimButton.label                              "Instant-Nachricht">  
+<!ENTITY newimButton.accesskey                          "I">  
+<!ENTITY stopButton.label                               ".Stopp">  
+<!ENTITY searchButton.label                             ".Suchen">  
+<!ENTITY showNames.label                                "Namen anzeigen mit:">  
+
+<!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip                     "Adressbuch-Symbolleiste">
+<!ENTITY newcardButton.tooltip                          "Neue Adressbuch-Karte erstellen"> 
+<!ENTITY newlistButton.tooltip                          "Neue Liste erstellen"> 
+<!ENTITY editButton.tooltip                             "Gewählte Karte bearbeiten"> 
+<!ENTITY newmsgButton.tooltip                           "Neue Mail-Nachricht verfassen"> 
+<!ENTITY newIM.tooltip                                  "Neue Sofortnachricht (instant message) oder neuen Chat verfassen"> 
+<!ENTITY deleteButton.tooltip                           "Gewählte Karte oder Adressbuch löschen"> 
+<!ENTITY stopButton.tooltip                             "Aktuelle Übertragung stoppen"> 
+<!ENTITY searchButton.tooltip                           "Gewähltes Adressbuch durchsuchen"> 
+<!ENTITY throbber.tooltip                               "&vendorShortName;-Homepage aufrufen">
+<!ENTITY clearButton.tooltip                            "Suchkriterien leeren und alle Einträge anzeigen">
+<!ENTITY advancedButton.tooltip                         "Erweiterte Adressensuche">
+
+<!-- Status Bar -->  
+<!ENTITY statusText.label                               "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "true">

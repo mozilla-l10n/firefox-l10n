@@ -1,0 +1,43 @@
+<!ENTITY caption.label         "Download von #1">
+
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+<!ENTITY intro.label           "Die Datei &quot;#3&quot; ist vom Typ #2 (#1) und #4 weiß nicht, wie dieser Typ behandelt werden soll. Die Datei befindet sich auf:">
+<!ENTITY intro.noDesc.label    "Die Datei &quot;#3&quot; ist vom Typ #2 und #4 weiß nicht, wie dieser Typ behandelt werden soll. Die Datei befindet sich auf:">
+
+<!ENTITY intro.attachment.label "Die Website hat empfohlen &quot;#3&quot; wie einen Anhang zu behandeln. Es ist vom Typ #2 (#1) und befindet sich auf:">
+<!ENTITY intro.attachment.noDesc.label "Die Website hat empfohlen &quot;#3&quot; wie einen Anhang zu behandeln. Es ist vom Typ #2 und befindet sich auf:">
+
+<!ENTITY intro.sniffed.label "#4 hat entdeckt, dass die Datei &quot;#3&quot; wahrscheinlich vom Typ #2 (#1) ist. Die Datei befindet sich unter:">
+<!ENTITY intro.sniffed.noDesc.label "#4 hat entdeckt, dass die Datei &quot;#3&quot; wahrscheinlich vom Typ #2 ist. Die Datei befindet sich unter:">
+
+<!ENTITY prompt.label          "Was soll #1 mit dieser Datei machen?">
+
+<!ENTITY alwaysHandle.label     "Für Dateien dieses Typs immer diese Aktion ausführen">
+<!ENTITY alwaysHandle.accesskey "F">
+
+<!ENTITY saveToDisk.label      "Auf einem Datenträger speichern">
+<!ENTITY saveToDisk.accesskey  "s">
+
+<!ENTITY useSystemDefault.label        "Mit der Standard-Anwendung öffnen (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Mit der Standard-Anwendung öffnen">
+<!ENTITY useSystemDefault.accesskey    "s">
+
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+<!ENTITY openUsing.label       "Öffnen mit">
+<!ENTITY openUsing.accesskey   "f">
+
+<!ENTITY chooseApp.label       "Durchsuchen…">
+<!ENTITY chooseApp.accesskey   "D">
+
+<!ENTITY chooseAppFilePickerTitle "Hilfsanwendung wählen">
+
+<!ENTITY badApp                 "Die von Ihnen angegebene Anwendung (&quot;#1&quot;) konnte nicht gefunden werden. Überprüfen Sie bitte den Dateinamen oder wählen Sie eine andere Anwendung.">
+<!ENTITY badApp.title           "Anwendung nicht gefunden">

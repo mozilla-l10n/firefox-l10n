@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label          "Verfassen &amp; Adressieren">
+<!ENTITY addressingGroupTitle.label "Adressieren">
+<!ENTITY addressingText.label      "Beim Suchen von Nachrichten:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Globale LDAP-Verzeichnisserver-Einstellungen verwenden">
+<!ENTITY useGlobal.accesskey       "U">
+<!ENTITY editDirectories.label     "Bearbeiten…">
+<!ENTITY editDirectories.accesskey "E">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Einen anderen LDAP-Verzeichnisserver verwenden:">
+<!ENTITY directories.accesskey     "V">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Verfassen">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Nachrichten im HTML-Format verfassen">
+<!ENTITY useHtml.accesskey                    "C">
+<!ENTITY autoQuote.label                      "Original-Nachricht beim Antworten automatisch zitieren">
+<!ENTITY autoQuote.accesskey                  "A">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label                           "Dabei:">
+<!ENTITY then.accesskey                       "D">
+<!ENTITY aboveQuote.label                     "Antwort über dem zitierten Text beginnen">
+<!ENTITY belowQuote.label                     "Antwort unter dem zitierten Text beginnen">
+<!ENTITY selectAndQuote.label                 "zitierten Text auswählen">
+<!ENTITY place.label                          "und platziere meine Signatur:">
+<!ENTITY place.accesskey                      "p">
+<!ENTITY belowText.label                      "unter den zitierten Text (empfohlen)">
+<!ENTITY aboveText.label                      "unter meiner Antwort, aber über den zitierten Text">

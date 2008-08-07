@@ -1,0 +1,45 @@
+<!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
+
+<!ENTITY  languages.customize.prefLangDescript          "Web-Seiten sind manchmal in mehr als einer Sprache verfügbar. Wählen Sie Sprachen für die Darstellung von Webseiten in Ihrer bevorzugten Reihenfolge.">
+<!ENTITY languages.customize.lHeader                    "Sprachen">
+<!ENTITY languages.customize.rHeader                    "Sprachen, in denen Webseiten dargestellt werden">
+<!ENTITY langtitle.label                                "Sprachen für Webseiten">
+<!ENTITY languages.customize.prefAddLangDescript        "Wählen Sie die Sprache(n), die hinzugefügt werden sollen.">
+<!ENTITY languages.customize.engOrder.label             "1">
+<!ENTITY languages.customize.engOption.label            "Englisch">
+<!ENTITY languages.customize.addButton.label            "Hinzufügen…">
+<!ENTITY languages.customize.addButton.accesskey        "H">
+<!ENTITY languages.customize.deleteButton.label         "Entfernen">
+<!ENTITY languages.customize.deleteButton.accesskey     "E">
+<!ENTITY languages.customize.title.label			    "Sprachen anpassen">
+<!ENTITY languages.customize.add.title.label		    "Sprachen hinzufügen">
+<!ENTITY languages.customize.left.header			    "Zeichensatz">
+<!ENTITY charset.customize.right.header		    "Unterstützte Zeichensätze wählen">
+<!ENTITY languages.customize.available.label            "Sprachen:">
+<!ENTITY languages.customize.active.label               "Sprachen in bevorzugter Reihenfolge:">
+<!ENTITY languages.customize.reorder.label              "Umordnen">
+<!ENTITY languages.customize.remove.label               "Entfernen">
+<!ENTITY languages.customize.additional.label           "Verfügbare Zeichensätze">
+<!ENTITY languages.customize.add.label                  "Hinzufügen">
+<!ENTITY languages.customize.others.label               "Andere:">
+<!ENTITY languages.customize.others.accesskey           "A">
+<!ENTITY languages.customize.Charset.grouplabel         "Zeichensatz">
+<!ENTITY languages.customize.DefaultCharset.label       "Standard-Zeichensatz:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "Z">
+<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
+<!ENTITY languages.customize.others.examples            "z.B.: en-bz, ar-jo">
+<!ENTITY languages.customize.cancel.label		            "Abbrechen">
+<!ENTITY languages.customize.save.label                 "Speichern">
+<!ENTITY languages.customize.ok.label                   "OK">
+<!ENTITY languages.customize.save.popup                 "Bitte starten Sie den Browser neu, um die Änderungen zu aktivieren…">
+<!ENTITY languages.customize.moveUp.label               "Nach oben">
+<!ENTITY languages.customize.moveUp.accesskey           "o">
+<!ENTITY languages.customize.moveDown.label             "Nach unten">
+<!ENTITY languages.customize.moveDown.accesskey         "u">
+
+<!ENTITY spelling.label                                 "Rechtschreibung">
+<!ENTITY checkSpelling.label                            "Beim Tippen die Rechtschreibung prüfen:">
+<!ENTITY checkSpelling.accesskey                        "R">
+<!ENTITY dontCheckSpelling.label                        "Nie">
+<!ENTITY multilineCheckSpelling.label                   "In mehrzeiligen Feldern">
+<!ENTITY alwaysCheckSpelling.label                      "Alle Felder">

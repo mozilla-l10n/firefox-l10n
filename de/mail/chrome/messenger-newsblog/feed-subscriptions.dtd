@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS-Abonnements">
+<!ENTITY subscriptionDesc.label "Hinweis: Entfernen oder Ändern des Ordners für einen Feed hat keinen Einfluss auf zuvor abgerufene Artikel.">
+<!ENTITY feedTitle.label "Titel:">
+<!ENTITY location.label  "Adresse:">
+
+<!ENTITY button.addFeed.label       "Hinzufügen">
+<!ENTITY button.addFeed.accesskey   "H">
+<!ENTITY button.editFeed.label      "Bearbeiten">
+<!ENTITY button.editFeed.accesskey  "B">
+<!ENTITY button.removeFeed.label "Entfernen">
+<!ENTITY button.removeFeed.accesskey   "E">
+<!ENTITY button.importOPML.label "Importieren">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Exportieren">
+<!ENTITY button.exportOPML.accesskey   "x">
+
+<!ENTITY cmd.close.commandKey             "w">

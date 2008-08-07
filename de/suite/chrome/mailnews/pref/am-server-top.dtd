@@ -1,0 +1,94 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Sicherheits-Einstellungen">
+<!ENTITY serverSettings.label "Server-Einstellungen">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP Mail-Server">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP Mail-Server">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "News-Server (NNTP)">
+<!ENTITY webmail.label "WebMail-Account">
+<!ENTITY serverType.label "Server-Typ:">
+<!ENTITY serverName.label "Server-Name:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "Benutzername:">
+<!ENTITY userName.accesskey "B">
+<!ENTITY port.label "Port:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Standard:">
+<!ENTITY savePassword.label "Passwort speichern">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Alle ">
+<!ENTITY biffStart.accesskey "A">
+<!ENTITY biffEnd.label "Minuten auf neue Nachrichten prüfen">
+<!ENTITY isSecure.label "Sichere Verbindung (SSL) verwenden">
+<!ENTITY isSecure.accesskey "S">
+<!ENTITY socketType.label "Sichere Verbindung verwenden:">
+<!ENTITY neverSecure.label "Nie">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, wenn verfügbar">
+<!ENTITY sometimesSecure.accesskey "T">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "S">
+<!ENTITY useSecAuth.label "Sichere Authentifikation verwenden">
+<!ENTITY useSecAuth.accesskey "S">
+<!ENTITY leaveOnServer.label "Nachrichten auf dem Server belassen">
+<!ENTITY leaveOnServer.accesskey "N">
+<!ENTITY headersOnly.label "Nur Kopfzeilen holen">
+<!ENTITY headersOnly.accesskey "N">
+<!ENTITY deleteByAgeFromServer.label "Für maximal">
+<!ENTITY deleteByAgeFromServer.accesskey "F">
+<!ENTITY daysEnd.label "Tage.">
+<!ENTITY deleteOnServer2.label "Bis sie gelöscht werden">
+<!ENTITY deleteOnServer2.accesskey "B">
+<!ENTITY downloadOnBiff.label "Neue Nachrichten automatisch herunterladen">
+<!ENTITY downloadOnBiff.accesskey "N">
+<!ENTITY hostname.label "Server-Hostname">
+<!ENTITY username.label "Ihr Benutzername">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "POP-Server Information">
+<!ENTITY deleteMessagePrefix.label "Beim Löschen einer Nachricht:">
+<!ENTITY modelMoveToTrash.label "In diesen Ordner verschieben:">
+<!ENTITY modelMoveToTrash.accesskey "I">
+<!ENTITY modelMarkDeleted.label "Einfach als gelöscht markieren">
+<!ENTITY modelMarkDeleted.accesskey "E">
+<!ENTITY modelDeleteImmediately.label "Sofort entfernen">
+<!ENTITY modelDeleteImmediately.accesskey "S">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Bereinigen (&quot;Expunge&quot;) des Posteingangs beim Verlassen.">
+<!ENTITY expungeOnExit.accesskey "B">
+<!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
+<!ENTITY emptyTrashOnExit.accesskey "P">
+<!ENTITY loginAtStartup.label "Beim Starten auf neue Mail prüfen"> 
+<!ENTITY loginAtStartup.accesskey "B">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Abfrage vor Download von mehr als">
+<!ENTITY maxMessagesStart.accesskey "A">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "Nachrichten">
+<!ENTITY alwaysAuthenticate.label "Beim Verbinden mit diesem Server immer Authentifizierung verlangen">
+<!ENTITY alwaysAuthenticate.accesskey "B">
+<!ENTITY newsrcFilePath.label "newsrc-Datei:">
+<!ENTITY localPath.label "Lokaler Ordner:">
+<!ENTITY abbreviate.label "Newsgroups im Mailordner-Fenster anzeigen mit:">
+<!ENTITY abbreviateOn.label "Vollen Namen (zum Beispiel 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Abgekürzten Namen (zum Beispiel 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Erweitert…">
+<!ENTITY serverDefaultCharset.label "Standard-Zeichensatz:">
+<!ENTITY advancedButton.accesskey "E">
+<!ENTITY localFolderPicker.label "Lokales Verzeichnis wählen">
+<!ENTITY browseFolder.label "Durchsuchen…">
+<!ENTITY browseFolder.accesskey "D">
+<!ENTITY newsrcPicker.label "newsrc-Datei auswählen">
+<!ENTITY browseNewsrc.label "Durchsuchen…">
+<!ENTITY browseNewsrc.accesskey "D">

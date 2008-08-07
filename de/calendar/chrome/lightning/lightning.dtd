@@ -1,0 +1,123 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is calendar views.
+   -
+   - The Initial Developer of the Original Code is
+   - Oracle Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Shaver <shaver@mozilla.org>
+   -   Simon Paquet <bugzilla@babylonsounds.com>           
+   -   Matthew Willis <mattwillis@mac.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>   
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!                      
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),   
+   - your editor isn't using UTF-8 encoding and may munge up the document!      
+  -->                                                                           
+   
+<!-- Tools menu -->
+<!ENTITY lightning.taskLabel "Lightning">
+
+<!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "Termin…">
+<!ENTITY lightning.menupopup.new.task.label     "Aufgabe…">
+<!ENTITY lightning.menupopup.new.calendar.label "Kalender…">
+
+<!-- Open menu popup in File menu -->
+<!ENTITY lightning.menupopup.open.label               "Öffnen">
+<!ENTITY lightning.menupopup.open.accesskey           "Ö">
+<!ENTITY lightning.menupopup.open.message.label       "Gespeicherte Nachricht…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "N">
+<!ENTITY lightning.menupopup.open.calendar.label      "Kalenderdatei…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
+
+<!-- Messenger Sidebar -->
+<!ENTITY lightning.sidebar.invitations.label "Einladungen">
+<!ENTITY lightning.sidebar.invitations.accesskey "E">
+<!ENTITY lightning.calendar.label            "Kalender">
+<!ENTITY lightning.calendar.accesskey        "K"> 
+<!ENTITY lightning.tasks.label               "Aufgaben">
+<!ENTITY lightning.tasks.accesskey           "u">
+
+<!-- Mode Toolbar -->                                                           
+<!ENTITY lightning.toolbar.mail.label      "E-Mail">  
+<!ENTITY lightning.toolbar.mail.accesskey  "E">                            
+<!ENTITY lightning.toolbar.calendar.label  "Kalender"> 
+<!ENTITY lightning.toolbar.calendar.accesskey "K">                         
+<!ENTITY lightning.toolbar.task.label      "Aufgaben">      
+<!ENTITY lightning.toolbar.task.accesskey  "u">                        
+
+<!-- Customize Toolbar Dialog -->                                               
+<!ENTITY customize.toolbar.selector.label    "Symbolleiste:">                        
+<!ENTITY customize.toolbar.selector.mode     "Modus-Symbolleiste">                    
+<!ENTITY customize.toolbar.selector.mail     "Email-Symbolleiste">                    
+<!ENTITY customize.toolbar.selector.calendar "Kalender-Symbolleiste">  
+<!ENTITY customize.toolbar.selector.task     "Aufgaben-Symbolleiste">              
+<!ENTITY customize.toolbar.location.label    "Anordnung:">                       
+<!ENTITY customize.toolbar.location.top      "Oben">                             
+<!ENTITY customize.toolbar.location.bottom   "Unten">                          
+
+<!-- Messenger Toolbar -->
+<!ENTITY lightning.toolbar.day.label     "Tagesansicht">
+<!ENTITY lightning.toolbar.day.accesskey "T">
+<!ENTITY lightning.toolbar.week.label    "Wochenansicht">
+<!ENTITY lightning.toolbar.week.accesskey "W">
+<!ENTITY lightning.toolbar.multiweek.label           "Mehrwöchige Ansicht">               
+<!ENTITY lightning.toolbar.multiweek.accesskey       "h">                       
+<!ENTITY lightning.toolbar.month.label   "Monatsansicht">
+<!ENTITY lightning.toolbar.month.accesskey "M">
+
+<!-- properties dialog, calendar creation wizard -->
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Termine im Tagesplan anzeigen">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Aufgaben in Tagesplan und Aufgabenmodus anzeigen">
+<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
+
+<!-- iMIP Bar (meeting support) -->                                             
+<!ENTITY lightning.imipbar.description "Diese Nachricht enthält eine Termineinladung.">
+
+<!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
+
+<!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Einen neuen Kalender erstellen">
+
+<!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label     "Monatsübersicht anzeigen">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label       "Tagesübersicht anzeigen">
+<!ENTITY todaypane.showMiniday.accesskey   "a">
+<!ENTITY todaypane.showNone.label          "Nichts anzeigen">
+<!ENTITY todaypane.showNone.accesskey      "N">
+<!ENTITY todaypane.showTodayPane.label     "Tagesplan anzeigen">
+<!ENTITY todaypane.showTodayPane.accesskey "T">

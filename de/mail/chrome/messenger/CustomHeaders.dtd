@@ -1,0 +1,7 @@
+<!ENTITY window.title "Kopfzeilen anpassen">
+<!ENTITY addButton.label "Hinzufügen">
+<!ENTITY addButton.accesskey "H">
+<!ENTITY removeButton.label "Entfernen">
+<!ENTITY removeButton.accesskey "E">
+<!ENTITY newMsgHeader.label "Neuer Nachrichtenkopf:">
+<!ENTITY newMsgHeader.accesskey "N">

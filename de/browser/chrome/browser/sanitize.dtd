@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "Private Daten löschen">
+
+<!ENTITY sanitizeItems.label          "Folgende Daten jetzt löschen:">
+<!ENTITY clearDataSettings.label      "Wenn &brandShortName; angewiesen wird, private Daten zu löschen, folgende Daten entfernen:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Chronik">
+<!ENTITY itemHistory.accesskey        "h">
+<!ENTITY itemFormSearchHistory.label  "Gespeicherte Such- und Formulardaten">
+<!ENTITY itemFormSearchHistory.accesskey "G">
+<!ENTITY itemPasswords.label          "Gespeicherte Passwörter">
+<!ENTITY itemPasswords.accesskey      "P">
+<!ENTITY itemCookies.label            "Cookies">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "Cache">
+<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemOfflineApps.label        "Offline-Website-Daten">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloads.label          "Download-Chronik">
+<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemSessions.label           "Gesicherte Verbindungen">
+<!ENTITY itemSessions.accesskey       "s">
+<!ENTITY window.width                 "30em">

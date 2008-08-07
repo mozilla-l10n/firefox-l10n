@@ -1,0 +1,121 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Stephen Lamm <slamm@netscape.com>
+   -   Blake Ross <blakeross@telocity.com>
+   -   Mike Kowalski <mikejk@ameritech.net>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- extracted from ./bookmarks.xul -->
+<!ENTITY menuBar.tooltip               "Menüleiste">
+<!ENTITY bookmarkToolbar.tooltip       "Lesezeichen-Symbolleiste">
+<!ENTITY bookmarksSearch.tooltip       "Lesezeichen-Suchleiste">
+<!ENTITY menuitem.newBookmark.label    "Lesezeichen">
+<!ENTITY command.newBookmark.accesskey "L">
+<!ENTITY menuitem.newFolder.label      "Ordner">
+<!ENTITY button.newFolder.label        "Neuer Ordner">
+<!ENTITY button.newFolder.accesskey    "N">
+<!ENTITY command.newFolder.accesskey   "O">
+<!ENTITY menuitem.newSeparator.label   "Trennzeile">
+<!ENTITY button.newSeparator.label     "Neue Trennzeile">
+<!ENTITY button.newSeparator.accesskey  "N">
+<!ENTITY command.newSeparator.accesskey "T">
+<!ENTITY menuitem.open.label           "Lesezeichendatei öffnen…">
+<!ENTITY menuitem.open.accesskey       "L">
+<!ENTITY menuitem.import.label         "Importieren…">
+<!ENTITY menuitem.import.accesskey     "I">
+<!ENTITY menuitem.export.label         "Exportieren…">
+<!ENTITY menuitem.export.accesskey     "E">
+<!ENTITY menuitem.find.label           "Lesezeichen durchsuchen…">
+<!ENTITY command.findBookmarks.label   "Suchen…">
+<!ENTITY menuitem.find.accesskey       "L">
+<!ENTITY edit.find.keybinding          "f">
+<!ENTITY command.properties.label      "Eigenschaften…">
+<!ENTITY button.properties.accesskey  "i">
+<!ENTITY command.properties.accesskey  "E">
+<!ENTITY edit.properties.keybinding    "i">
+<!ENTITY command.rename.label          "Umbenennen…">
+<!ENTITY button.rename.accesskey      "U">
+<!ENTITY command.delete.label          "Löschen">
+<!ENTITY button.delete.accesskey      "L">
+<!ENTITY command.moveBookmark.label    "Lesezeichen verschieben…">
+<!ENTITY command.moveBookmarkShort.label "Verschieben…">
+<!ENTITY command.moveBookmark.accesskey "L">
+<!ENTITY command.addBookmark.label     "Hinzufügen…">
+<!ENTITY command.manageBookmarks.label "Manager">
+<!ENTITY command.sortFolder.label      "Ordner sortieren…">
+<!ENTITY command.sortFolder.accesskey  "O">
+<!ENTITY edit.sortFolder.keybinding    "S">
+<!ENTITY command.sortFolderByName.label "Ordner nach Namen sortieren">
+<!ENTITY command.sortFolderByName.accesskey "O">
+
+<!ENTITY menuitem.view.command.toolbar.label        "Symbolleiste">
+<!ENTITY menuitem.view.command.toolbar.accesskey    "S">
+<!ENTITY menuitem.view.command.searchbar.label      "Suchleiste">
+<!ENTITY menuitem.view.command.searchbar.accesskey  "S">
+<!ENTITY menuitem.view.show_columns.label           "Spalten anzeigen">
+<!ENTITY menuitem.view.show_columns.accesskey       "S">
+<!ENTITY menuitem.newbookmarkfolder.label           "Als neuen Lesezeichenordner setzen">
+<!ENTITY menuitem.newbookmarkfolder.accesskey       "A">
+<!ENTITY menuitem.newinternetsearchfolder.label     "Als neuen Internet-Such-Ordner setzen">
+<!ENTITY menuitem.newinternetsearchfolder.accesskey "A">
+<!ENTITY menuitem.personaltoolbarfolder.label       "Als Ordner &quot;Persönliche Symbolleiste&quot; setzen">
+<!ENTITY menuitem.personaltoolbarfolder.accesskey   "A">
+
+<!ENTITY treecol.name.label             "Name">
+<!ENTITY treecol.name.accesskey         "N">
+<!ENTITY treecol.name.tooltip           "Klicken, um nach Name zu sortieren">
+<!ENTITY treecol.url.label              "Adresse">
+<!ENTITY treecol.url.accesskey          "A">
+<!ENTITY treecol.url.tooltip            "Klicken, um nach Adresse zu sortieren">
+<!ENTITY treecol.shortcut.label         "Schlüsselwort">
+<!ENTITY treecol.shortcut.accesskey     "S">
+<!ENTITY treecol.shortcut.tooltip       "Klicken, um nach Schlüsselwort zu sortieren">
+<!ENTITY treecol.description.label      "Beschreibung">
+<!ENTITY treecol.description.accesskey  "B">
+<!ENTITY treecol.description.tooltip    "Klicken, um nach Beschreibung zu sortieren">
+<!ENTITY treecol.addedon.label          "Hinzugefügt">
+<!ENTITY treecol.addedon.accesskey      "H">
+<!ENTITY treecol.addedon.tooltip        "Klicken, um nach Hinzufügedatum zu sortieren">
+<!ENTITY treecol.lastmod.label          "Zuletzt geändert">
+<!ENTITY treecol.lastmod.accesskey      "Z">
+<!ENTITY treecol.lastmod.tooltip        "Klicken, um nach letzter Änderung zu sortieren">
+<!ENTITY treecol.lastvisit.label        "Zuletzt besucht">
+<!ENTITY treecol.lastvisit.accesskey    "Z">
+<!ENTITY treecol.lastvisit.tooltip      "Klicken, um nach letztem Besuch zu sortieren">
+
+<!ENTITY bookmarksWindowTitle.label     "Lesezeichen-Manager">
+
+<!ENTITY search.label                     "Suchen">
+<!ENTITY search.accesskey                 "S">

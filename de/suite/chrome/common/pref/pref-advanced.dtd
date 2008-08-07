@@ -1,0 +1,12 @@
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
+<!ENTITY pref.advanced.title        "Erweitert">
+
+<!ENTITY prefEnableJava.caption     "Funktionen, die helfen, Webseiten zu verarbeiten">
+
+<!ENTITY enbJavaCheck.label         "Java aktivieren">
+<!ENTITY enbJavaCheck.accesskey     "j">
+
+<!ENTITY systemPref.caption         "Systemeinstellungen">
+<!ENTITY systemPrefCheck.label      "Einstellungen des Systems verwenden">
+<!ENTITY systemPrefCheck.accesskey  "S">
+<!ENTITY systemPref.desc            "Mit dieser Option übernimmt &brandShortName; Einstellungen vom System. Diese Systemeinstellungen werden statt der &brandShortName;-Einstellungen verwendet.">

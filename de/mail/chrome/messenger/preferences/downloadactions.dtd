@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title         "Standard-Aktionen">
+<!ENTITY  window.width                         "480">
+<!ENTITY  window.height                        "310">
+
+<!ENTITY  fileTypesDescription.label          "Bei den folgenden Dateitypen wird automatisch die zugeordnete Aktion ausgeführt:">
+
+<!ENTITY  fileHandlerColumn.label             "Aktion">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "Dateityp">
+<!ENTITY  fileTypeColumn.accesskey            "D">
+<!ENTITY  fileMIMETypeColumn.label            "MIME-Typ">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "Erweiterung">
+<!ENTITY  fileExtensionColumn.accesskey       "w">
+
+<!ENTITY  remove.label                        "Aktion entfernen">
+<!ENTITY  remove.accesskey                    "e">
+<!ENTITY  edit.label                          "Aktion ändern…">
+<!ENTITY  edit.accesskey                      "n">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "Suchen:">
+<!ENTITY  filter.accesskey                    "S">
+<!ENTITY  clear.label                         "Löschen">
+<!ENTITY  clear.accesskey                     "L">
+
+<!ENTITY  button.close.label                  "Schließen">
+<!ENTITY  button.close.accesskey              "S">
+

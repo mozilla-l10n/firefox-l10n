@@ -1,0 +1,152 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+
+
+
+OK_=&OK
+OK=OK
+CANCEL=Abbrechen
+CANCEL_=&Abbrechen
+NEXT_=&Weiter >
+BACK_=< &Zurück
+IGNORE_=&Ignorieren
+PROXY_MESSAGE=Um für das Herunterladen einen Proxyserver zu konfigurieren, klicken Sie bitte auf Verbindung… 
+PROXY_BUTTON=&Verbindungen…
+PROXYSETTINGS=Proxy Einstellungen:
+PROXYSETTINGS_=&Proxy Einstellungen
+SERVER=Server:
+PORT=Port:
+USERID=Benutzername:
+PASSWORD=Kennwort:
+SELECTDIRECTORY=Bitte Verzeichnis auswählen
+DIRECTORIES_=&Verzeichnisse:
+DRIVES_=&Laufwerke:
+STATUS=Verbleibend:
+FILE=Datei:
+URL=URL:
+TO=Speichern in:
+ACCEPT_=&Annehmen
+DECLINE_=Ablehnen
+PROGRAMFOLDER_=&Programmordner:
+EXISTINGFOLDERS_=&Vorhandene Ordner:
+SETUPMESSAGE=Es wurden alle Dateien auf Ihren Computer kopiert. Bevor Sie $ProductNameInternal$ benutzen können, müssen Sie Windows oder Ihren Computer neu starten. Wählen Sie eine der folgenden Optionen und klicken Sie auf OK, um die Installation zu beenden.
+RESTART=Neustart
+YESRESTART=Ja, Computer jetzt neu starten.
+NORESTART=Nein, Computer wird später neu gestartet.
+ADDITIONALCOMPONENTS_=&Zusätzliche Komponenten:
+DESCRIPTION=Beschreibung
+TOTALDOWNLOADSIZE=Gesamte Downloadgröße:
+SPACEAVAILABLE=Verfügbarer Speicherplatz:
+COMPONENTS_=&Komponenten:
+BROWSEINFO=Wählen Sie das Verzeichnis, in das $ProductName$ installiert werden soll:
+DESTINATIONDIRECTORY=Installationsverzeichnis
+BROWSE_=Ändern…
+DOWNLOADSIZE=Downloadgröße: %u KB
+CURRENTSETTINGS=Aktuelle Einstellungen:
+INSTALLFOLDER=…in folgendes Verzeichnis:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s, und:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Installieren
+DELETE_=&Löschen
+CONTINUE_=&Fortfahren
+SKIP_=&Überspringen
+README=Liesmich-Datei
+PAUSE_=&Anhalten
+RESUME_=&Fortfahren
+CHECKED=Angewählt
+UNCHECKED=Nicht Angewählt
+
+EXTRACTING=Entpacken…
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Konnte Dialog %s nicht erstellen.
+ERROR_FAILED=%s fehlgeschlagen.
+ERROR_FILE_NOT_FOUND=Datei nicht gefunden: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=GetSystemDirectory() fehlgeschlagen.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =GetWindowsDirectory() fehlgeschlagen.
+DLGQUITTITLE=Installation beenden
+DLGQUITMSG=Die Installation von $ProductName$ wurde nicht abgeschlossen. Wenn Sie die Installation jetzt beenden, wird $ProductName$ nicht installiert. Sind Sie sicher, dass Sie die Installation abbrechen möchten?
+DLG_REBOOT_TITLE=Starte Windows neu
+ERROR_GETPROCADDRESS=GetProcAddress() of %s fehlgeschlagen.
+ERROR_WRITEPRIVATEPROFILESTRING=WritePrivateProfileString() fehlgeschlagen für Datei %s
+MSG_RETRIEVE_CONFIGINI=Bitte warten Sie, während die benötigte Datei Config.ini aus dem Web abgerufen wird…
+ERROR_CREATE_TEMP_DIR=Das temporäre Verzeichnis %s konnte nicht erstellt werden.
+DLGBROWSETITLE=Bitte Verzeichnis auswählen
+ERROR_DETERMINING_DISK_SPACE=Konnte verfügbaren Speicherplatz für %s nicht ermitteln
+DLG_DISK_SPACE_CHECK_TITLE=Überprüfe Speicherplatz
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Es ist nicht genügend Speicherplatz für die Installation auf %s im Verzecihnis %s verfügabr. Benötigt: %sVerfügbar: %s Machen Sie Speicherplatz frei und klicken Sie auf 'Wiederholen' oder klicken Sie auf 'Abbrechen', um die Installation zu beenden.
+DLG_DISK_SPACE_CHECK_MSG=Es ist nicht genügend Speicherplatz für die Installation auf %s im Verzeichnis %s verfügbar. Benötigt: %sVerfügbar: %sKlicken Sie auf 'OK', um zurückzugehen und ein anderes Installationsverzeichnis zu wählen.
+ERROR_CREATE_DIRECTORY=Konnte Verzeichnis %s nicht anlegen. Stellen Sie sicher, dass Sie die Berechtigung zum Anlegen des Verzeichnisses haben.
+ERROR_MESSAGE_TITLE=$ProductNameInternal$ Installationsfehler
+STR_FILE_NUMBER=Anzahl der Dateien:
+STR_FILENAME=Dateiname:
+MSG_SMARTUPDATE_START=Bereite Installation vor, bitte warten…
+MSG_CONFIGURING=Konfiguriere %s, bitte warten…
+ERROR_XPI_INSTALL=Während der Installation ist ein Fehler aufgetreten!
+ERROR_SETUP_REQUIREMENT=$ProductName$ benötigt Windows95 oder ein neueres Betriebssystem! Die Installation wird beendet…
+DLG_EXTRACTING_TITLE=$ProductName$ - Installationsfortschritt
+STR_PROCESSINGFILE=Bereite Datei vor: %s 
+STR_INSTALLING=%s wird installiert
+STR_COPYINGFILE=Kopiere Datei: %s
+MB_WARNING_STR=Warnung
+MB_MESSAGE_STR=Meldung
+MB_ATTENTION_STR=Achtung
+MSG_CREATE_DIRECTORY=Das folgende Verzeichnis existiert nicht:%s Möchten Sie es anlegen?
+STR_CREATE_DIRECTORY=Verzeichnis anlegen?
+ERROR_PROGRAM_FOLDER_NAME=Ungültiger Programmordnername eingegeben.
+CB_DEFAULT=Default
+ERROR_DESTINATION_PATH=Sie haben ein ungültiges Installationsverzeichnis eingegeben.
+STR_SETUP_TYPE=Installationsart:
+STR_SELECTED_COMPONENTS=Ausgewählte Komponenten:
+STR_DESTINATION_DIRECTORY=Installationsverzeichnis:
+STR_PROGRAM_FOLDER=Programmordner:
+STR_DELETING_DESTINATION_DIR=Lösche Installationsverzeichnis wegen Programmupdate, bitte warten…
+STR_SETUP=Installation
+STR_DOWNLOAD_SITE=Herunterladen von:
+STR_SAVE_INSTALLER_FILES=Heruntergeladene Dateien speichern in:
+MSG_INIT_SETUP=Initialisiere die Installation, bitte warten…
+STR_MESSAGEBOX_TITLE=Installation von %s
+ERROR_GETVERSION=GetVersionEx() fehlgeschlagen
+DLG_USAGE_TITLE=Benutzung
+
+STATUS_EXTRACTING=Entpacke %s
+STATUS_LAUNCHING_SETUP=Starte die Installation…
+ERROR_FILE_WRITE=Kann Datei %s nicht schreiben.
+TITLE=Installation
+ERROR_OUT_OF_MEMORY=Zu wenig Arbeitsspeicher!
+
+ERROR_DLL_LOAD=Konnte %s nicht laden.
+ERROR_STRING_LOAD=Textressource Nr. %d konnte nicht geladen werden.
+ERROR_STRING_NULL=Nullzeiger angetroffen.
+ERROR_GLOBALALLOC=Speicherzugriffsfehler.
+MSG_FORCE_QUIT_PROCESS=%s (%s) wird immer noch ausgeführt. Klicken Sie auf OK um %s zu beenden und mit der Installation fortzufahren. Alternativ können Sie auch den Windows Task Manager benutzen um %s zu beenden. Klicken Sie anschließend auf OK um mit der Installation fortzufahren.
+MSG_FORCE_QUIT_PROCESS_FAILED=Die Installation wird jetzt beendet. Die Installation kann nicht fortgesetzt werden, weil %s (%s) immer noch ausgeführt wird.Versuchen Sie %s von Hand zu beeden, indem Sie den Windows Task Manager benutzen. Starten Sie die Installation dann erneut.
+ERROR_PATH_WITHIN_WINDIR=$ProductName$ kann nicht in ein Verzeichnis installiert werden, das innerhalb des Windowsverzeichnisses liegt. Bitte wählen Sie ein anderes Verzeichnis aus.
+

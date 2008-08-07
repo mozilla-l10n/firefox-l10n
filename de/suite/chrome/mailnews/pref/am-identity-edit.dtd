@@ -1,0 +1,6 @@
+<!ENTITY identityTitle.label "Identitäts-Einstellungen">
+<!ENTITY identityListDesc.label "Einstellungen für diese Identität konfigurieren:">
+
+<!ENTITY settingsTab.label       "Einstellungen">
+<!ENTITY copiesFoldersTab.label "Kopien &amp; Ordner">
+<!ENTITY addressingTab.label    "Verfassen &amp; Adressieren">

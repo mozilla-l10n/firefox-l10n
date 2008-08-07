@@ -1,0 +1,24 @@
+<!ENTITY securityTitle.label "Sicherheit">
+<!ENTITY securityTab.label "Sicherheit">
+<!ENTITY securityHeading.label "Um verschlüsselte Nachrichten zu senden und zu empfangen, sollten Sie sowohl ein Zertifikat für Verschlüsselung als auch eines für digitale Unterschrift angeben.">
+<!ENTITY encryptionGroupTitle.label "Verschlüsselung">
+<!ENTITY encryptionChoiceLabel.label "Standard-Verschlüsselung beim Senden von Nachrichten:">
+<!ENTITY neverEncrypt.label "Nie (keine Verschlüsselung verwenden)">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label "Notwendig (kann keine Nachricht senden, wenn nicht alle Empfänger ein Zertifikat haben)">
+<!ENTITY alwaysEncryptMessage.accesskey "N">
+<!ENTITY encryptionCert.message "Folgendes persönliches Zertifikat verwenden, um ankommende Nachrichten zu ver- und entschlüsseln:">
+<!ENTITY encryptionCert.notselected "Kein Zertifikat gewählt">
+<!ENTITY digitalSign.certificate.button "Auswählen…">
+<!ENTITY digitalSign.certificate.accesskey "A">
+<!ENTITY digitalSign.certificate_clear.button "Leeren">
+<!ENTITY digitalSign.certificate_clear.accesskey "L">
+<!ENTITY encryption.certificate.button "Auswählen…">
+<!ENTITY encryption.certificate.accesskey "A">
+<!ENTITY encryption.certificate_clear.button "Leeren">
+<!ENTITY encryption.certificate_clear.accesskey "L">
+<!ENTITY signingGroupTitle.label "Digitale Unterschrift">
+<!ENTITY signMessage.label "Nachrichten digital unterschreiben (als Standard)">
+<!ENTITY signMessage.accesskey "N">
+<!ENTITY signingCert.message "Folgendes Zertifikat zum Absenden digital unterschriebener Nachrichten verwenden:">
+<!ENTITY signingCert.notselected "Kein Zertifikat gewählt">

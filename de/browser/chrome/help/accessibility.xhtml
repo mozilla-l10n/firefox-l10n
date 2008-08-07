@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+  Markus Jungblut <mozilla@blumentopferde.info> (translator)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Eingabehilfen von &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Eingabehilfen von &brandFullName;</h1>
+
+  <p>&brandShortName; enthält viele Features, die dazu dienen, den Browser-
+    und Web-Inhalt allen Benutzern zugänglich zu machen,
+    einschließlich jenen mit geringem Sehvermögen, keinem
+    Sehvermögen oder eingeschränkter Befähigung, eine Tastatur
+    oder Maus zu benutzen.</p>
+
+  <div class="contentsBox">In diesem Abschnitt:
+    <ul>
+    <li><a href="#using_a_keyboard">Eine Tastatur benutzen</a></li>
+    <li><a href="#using_a_mouse">Eine Maus benutzen</a></li>
+
+    <li><a href="#fonts_and_colors">Schriftarten und Farben</a></li>
+    <li><a href="#controlling_web_content">Web-Inhalt kontrollieren</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Kompatibilität
+      mit technischen Hilfsmitteln</a></li>
+    <li><a href="#finding_help_online">Hilfe online finden</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Eine Tastatur benutzen</h2>
+
+  <h3 id="keyboard_shortcuts">Tastaturkürzel</h3>
+
+  <p>Eine Liste allgemeiner Tastaturkürzel ist verfügbar in
+    <a href="shortcuts.xhtml">&brandShortName; Tastaturkürzel</a>.
+    Online können Sie <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">eine
+    Vergleichstabelle der Tastaturkürzel</a> finden, die in
+    &brandShortName;, Microsoft Internet Explorer und Opera implementiert
+    sind.</p>
+
+  <h3 id="always_use_cursor_keys">Markieren von Text mit der Tastatur
+    zulassen</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Markieren von Text mit der Tastatur
+    zulassen</a> erlaubt es Ihnen, sich durch Web-Inhalt zu bewegen, als ob Sie
+    einen Nur-Lese-Editor bedienen würden. Sie können die Tastatur
+    benutzen, um Web-Inhalt zu markieren und ihn in die Zwischenablage zu
+    kopieren. Sie können dieses Feature aktivieren, indem Sie
+    &pref.menuPath; auswählen, den <em>Allgemein</em>-Tab im
+    <em>Erweitert</em>-Fenster anklicken und die Einstellung <em>Markieren von Text mit der 
+    Tastatur zulassen</em> markieren.</p>
+
+  <p>Sie können jederzeit <kbd>F7</kbd> drücken, um dieses Feature
+    ein- oder auszuschalten. Wenn Sie <kbd>F7</kbd> drücken,
+    wird &brandShortName; fragen, ob Sie dieses Feature wirklich einschalten
+    wollen. Sie können dieses Dialogfenster deaktivieren, indem Sie
+    <em>Dieses Dialogfenster nicht mehr anzeigen</em> markieren.</p>
+
+  <h3 id="find_as_you_type">Suche bereits beim Eintippen starten</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Suche bereits beim Eintippen starten</a>
+    erlaubt es Ihnen, schnell zu Text oder Hyperlinks auf einer Webseite zu
+    navigieren. Dieses Feature hat zwei Modi. Drücken Sie <abbr
+    title="Schrägstrich"><kbd>/</kbd></abbr> und fangen Sie an zu tippen,
+    um den gesamten Text der aktuellen Seite zu durchsuchen, oder drücken
+    Sie <abbr title="Apostroph"><kbd>'</kbd></abbr> vor Ihrer Zeichenfolge, um
+    nur nach Hyperlinks zu suchen. &brandShortName; wird übereinstimmenden
+    Text oder übereinstimmende Hyperlinks hervorheben, während Sie
+    tippen.</p>
+
+  <p>Die folgenden Tastaturkürzel steuern dieses Feature:</p>
+
+  <ul>
+    <li>Tippen Sie mehr Zeichen, um Ihre Suche einzugrenzen. &brandShortName;
+      wird den nächsten übereinstimmenden Hyperlink oder Text
+      hervorheben oder Sie warnen, dass keine Übereinstimmung gefunden
+      wurde.</li>
+    <li>Drücken Sie &accelKey;+<kbd>G</kbd> oder <kbd>F3</kbd>, um das
+      nächste Vorkommnis ihrer gegenwärtigen Such-Zeichenfolge zu
+      finden.</li>
+
+    <li>Drücken Sie &accelKey;+&shiftKey;+<kbd>G</kbd> oder
+      &shiftKey;+<kbd>F3</kbd>, um das vorherige Vorkommnis Ihrer
+      gegenwärtigen Such-Zeichenfolge zu finden.</li>
+    <li>Drücken Sie <kbd>Backspace</kbd>, um das letzte Zeichen, das Sie
+      eingetippt haben, wieder zu löschen. &brandShortName; wird zum vorher
+      hervorgehobenen Text zurückkehren.</li>
+
+    <li>Drücken Sie <kbd>Esc</kbd>, um eine Suche abzubrechen. Sie
+      können eine Suche außerdem abbrechen, indem Sie den Fokus
+      ändern, die Seite mit der Maus oder Tastatur scrollen oder indem Sie
+      einfach auf die Zeitüberschreitung warten.</li>
+  </ul>
+
+  <p>Sie können das Standard-Verhalten dieses Features ändern, indem
+    Sie &pref.menuPath; auswählen, den <em>Allgemein</em>-Tab im
+    <em>Erweitert</em>-Fenster anklicken und die <em>Suche bereits beim
+    Eintippen starten</em>-Einstellung markieren. Wenn diese Option markiert
+    ist, können Sie jederzeit anfangen zu tippen, um eine Inline-Suche
+    automatisch zu starten. Standardmäßig durchsuchen automatisch
+    gestartete Suchen den gesamten Text auf der Seite. Sie können jedoch
+    explizit <abbr title="Apostroph"><kbd>'</kbd></abbr> oder <abbr
+    title="Schrägstrich"><kbd>/</kbd></abbr> drücken, um eine Suche in
+    einem Modus oder dem anderen zu starten.</p>
+
+  <p>Sie können dieses Feature benutzen, um Schaltflächen, Textfelder
+    und andere Formular-Kontrollelemente zu erreichen. Suchen Sie nach dem Text
+    unmittelbar vor dem Formular-Kontrollelement, das Sie wollen und
+    drücken Sie <kbd>Tab</kbd>. Durch das Drücken von <kbd>Tab</kbd>
+    wird die Suche automatisch beendet und der Fokus auf das nächste
+    Formular-Feld oder die nächste Schaltfläche nach dem
+    hervorgehobenen Text gesetzt.</p>
+
+  <h2 id="using_a_mouse">Eine Maus benutzen</h2>
+
+  <h3 id="common_mouse_shortcuts">Allgemeine Mauskürzel</h3>
+
+  <p>Eine Liste allgemeiner Mauskürzel ist verfügbar in
+    <a href="mouse_shortcuts.xhtml">&brandShortName; Mauskürzel</a>.</p>
+
+  <h2 id="fonts_and_colors">Schriftarten und Farben</h2>
+
+  <h3 id="overriding_page_fonts">Schriftarten einer Seite außer Kraft
+    setzen</h3>
+
+  <p>Manche Webseiten stellen Text in Schriftarten dar, die schwierig zu lesen
+    sind, und andere Seiten verlassen sich auf die Standard-Schriftarten des
+    Browsers. Sie können Ihre Standard-Schriftarten einstellen, indem Sie
+    &pref.menuPath; auswählen, das <em>Inhalt</em>-Fenster anklicken und
+    eine Standard-Schriftart und -Größe in dem <em>Schriftarten &amp;
+    Farben</em>-Abschnitt wählen.</p>
+
+  <p>Sie können Standard-Schriftarten für verschiedene Schriftstile
+    angeben, darunter Serif, Sans Serif und Feste Breite, indem Sie die
+    <em>Erweitert</em>-Schaltfläche anklicken. Viele Webseiten legen jedoch
+    ihre eigenen Schriftarten fest, daher werden Ihre Einstellungen auf solche
+    Seiten keinen Effekt haben. Um die Schriftarten, die von solchen Seiten
+    angegeben wurden, außer Kraft zu setzen, wählen Sie die
+    <em>Seiten das Verwenden von eigenen statt der oben gewählten
+    Schriftarten erlauben</em>-Einstellung ab.</p>
+
+  <p>Beachten Sie, dass, abhängig von Ihrer Wahl einer Standard-Schriftart,
+    manche Webseiten inkorrekt angezeigt werden.</p>
+
+  <h3 id="setting_a_minimum_font_size">Eine minimale Schriftgröße
+    einstellen</h3>
+
+  <p>Manche Webseiten zeigen Text an, der zu klein ist, um bequem gelesen werden
+    zu können. Um solche Seiten leichter lesbar zu machen, können Sie
+    eine minimale Schriftgröße einstellen. Auf Webseiten, die
+    versuchen, Text kleiner als diese Größe darzustellen, wird
+    &brandShortName; den Text bis zu Ihrer gewählten Größe
+    vergrößern.</p>
+
+  <p>Um eine minimale Schriftgröße einzustellen, wählen Sie
+    &pref.menuPath;, wählen Sie dann das <em>Inhalt</em>-Fenster und
+    klicken Sie die <em>Erweitert</em>-Schaltfläche im <em>Schriftarten
+    &amp; Farben</em>-Abschnitt. Sie können eine minimale
+    Schriftgröße in dem Dropdown-Menü angeben.</p>
+
+  <p>Beachten Sie, dass, abhängig von Ihrer Wahl einer minimalen
+    Schriftgröße, manche Webseiten inkorrekt angezeigt werden.</p>
+
+  <h3 id="resizing_page_text">Größe des Seiten-Textes ändern</h3>
+
+  <p>Sie können die Text-Größe jeder Webseite im <span
+    class="menuPath">Ansicht &gt; Schriftgrad</span>-Menü vorübergehend
+    ändern. Die neue Größe wird in Kraft bleiben, bis Sie Ihr
+    Browser-Fenster oder -Tab schließen, sogar dann, wenn Sie zu einer
+    anderen Webseite navigieren.</p>
+
+  <p>Die folgenden Tastaturkürzel steuern die Text-Größe:</p>
+
+  <ul>
+    <li>Drücken Sie &accelKey;+<kbd><abbr title="plus">+</abbr></kbd>, um
+      die Text-Größe zu erhöhen. Dies zoomt den Text auf 120%
+      seiner originalen Größe, dann 150%, 200%, 300%, 450%, 675%,
+      1013% und 1519%.</li>
+    <li>Drücken Sie &accelKey;+<kbd><abbr title="minus">-</abbr></kbd>, um
+      die Text-Größe zu verringern. Dies zoomt den Text auf 90%
+      seiner originalen Größe, dann 50%, 33%, 22%, 15%, 10%, 7%, 4%,
+      3%, 2% und 1%.</li>
+
+    <li>Drücken Sie &accelKey;+<kbd>0</kbd>, um die Text-Größe
+      auf die Standard-Größe der Webseite zurückzusetzen.</li>
+  </ul>
+
+  <p>Beachten Sie, dass manche Webseiten inkorrekt angezeigt werden, wenn Sie
+    die Text-Größe erhöhen oder verringern.</p>
+
+  <h3 id="overriding_page_colors">Farben einer Seite außer Kraft setzen</h3>
+
+  <p>Manche Webseiten stellen Text- und Hintergrund-Farben dar, die schwierig zu
+    lesen sind, und andere Seiten verlassen sich auf die Standard-Farben des
+    Browsers. Sie können Ihre Standard-Farben einstellen, indem Sie
+    &pref.menuPath; auswählen, dann das <em>Inhalt</em>-Fenster wählen
+    und die <em>Farben</em>-Schaltfläche in dem <em>Schriftarten &amp;
+    Farben</em>-Abschnitt anklicken. Sie können Standard-Text- und
+    -Hintergrund-Farben einstellen sowie Standard-Farben für besuchte und
+    nicht besuchte Hyperlinks. Sie können außerdem bestimmen, ob
+    Hyperlinks unterstrichen werden sollen.</p>
+
+  <p>Viele Webseiten bestimmen jedoch ihre eigenen Farben, in so einem Fall
+    werden Ihre Einstellungen ohne Auswirkungen bleiben. Um die von Webseiten
+    definierten Farben außer Kraft zu setzen, wählen Sie die
+    <em>Seiten das Verwenden von eigenen statt der oben gewählten Farben
+    erlauben</em>-Einstellung ab.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Ein Theme mit hohem Kontrast benutzen</h3>
+
+    <p>&brandShortName; stellt automatisch fest, ob Sie ein Theme mit hohem
+      Kontrast benutzen und stellt alles in Ihrem Hoch-Kontrast-Farbschema dar.
+      Dies setzt alle anderen Browser- oder Webseiten-Einstellungen außer
+      Kraft und es beeinflusst das &brandShortName;-Interface selbst (alle
+      Menüs, Fenster und Dialog-Fenster) sowie den Inhalt jeder Webseite,
+      die Sie besuchen.</p>
+
+    <p class="win">Um ein Theme mit hohem Kontrast zu benutzen, wählen Sie
+      <span class="menuPath">Startmenü &gt; Systemsteuerung &gt;
+      Eingabehilfen &gt; Anzeige</span> und klicken Sie dann die
+      <em>Kontrast aktivieren</em>-Einstellung an.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Web-Inhalt kontrollieren</h2>
+
+  <h3 id="blocking_popup_windows">Pop-up-Fenster blockieren</h3>
+
+  <p>Siehe <a href="popup.xhtml">Pop-up-Fenster kontrollieren</a> für
+    Informationen über das Blockieren von Pop-up-Fenstern.</p>
+
+  <h3 id="turning_off_java_applets">Java Applets abschalten</h3>
+
+  <p>Manche Webseiten bieten ein interaktives Erlebnis mit Java&trade;-Applets.
+    Manche Benutzer, die auf Tastatur-Navigation angewiesen sind, können
+    jedoch bei einigen Java-Applets, die automatisch den Fokus auf sich setzen
+    und keine Möglichkeit bieten, aus dem Applet <q>auszubrechen</q> und
+    zum Rest der Webseite zu navigieren, auf Probleme stoßen. Falls dies
+    ein Problem für Sie ist, können Sie Java deaktivieren, indem Sie
+    &pref.menuPath; auswählen, <em>Inhalt</em> anklicken und die <em>Java
+    aktivieren</em>-Einstellung abwählen.</p>
+
+  <h3 id="restricting_javascript_behavior">JavaScript-Verhalten
+    einschränken</h3>
+
+  <p>Sie können JavaScript komplett abschalten, indem Sie &pref.menuPath;
+    auswählen, das <em>Inhalt</em>-Fenster anklicken und <em>JavaScript
+    aktivieren</em> abwählen. Manche Webseiten sind auf JavaScript
+    angewiesen und arbeiten nicht richtig, wenn JavaScript deaktiviert ist.</p>
+
+  <p>Wenn Sie JavaScript nicht gänzlich deaktivieren wollen, gibt es
+    darüberhinaus einige fortgeschrittene JavaScript-Einstellungen, um das
+    Verhalten von Skripten einzuschränken. Klicken Sie unverzüglich
+    nach der <em>JavaScript aktivieren</em>-Checkbox auf die
+    <em>Erweitert</em>-Schaltfläche, um das <em>Erweiterte
+    JavaScript-Einstellungen</em>-Fenster zu öffnen. Sie können
+    steuern, ob es Skripten erlaubt wird, existierende Fenster zu verschieben
+    oder deren Größe zu ändern, Fenster vor oder hinter andere
+    Fenster zu legen, Kontextmenüs zu deaktivieren oder zu ersetzen, die
+    Statusleiste auszublenden oder den Statusleistentext zu ändern.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Kompatibilität mit
+    technischen Hilfsmitteln</h2>
+
+  <p>Die neuesten Informationen über Kompatibilität mit technischen
+    Hilfsmitteln von Drittherstellern ist online unter <a target="_blank"
+    href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Compatibility with assistive technologies</a>.</p>
+
+  <h2 id="finding_help_online">Hilfe online finden</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific führt einige <a target="_blank"
+      href="http://www.freedomscientific.com/fs_support/User_Groups.asp">Mailinglisten
+      für JAWS-Benutzer</a>.</p>
+
+    <p>GW Micro führt einige <a target="_blank"
+      href="http://www.gwmicro.com/Support/Email_Lists/">Mailinglisten für
+      Window Eyes-Benutzer</a>.</p>
+  </div>
+
+  <p>Sie können <span class="win">außerdem</span>
+    Zugänglichkeits-Fragen im <a target="_blank"
+    href="http://forums.mozillazine.org/viewforum.php?f=38">&brandShortName;
+    (englischsprachigen) Support-Forum</a> stellen.</p>
+
+  <div class="contentsBox"><em>16. September 2006</em></div>
+
+  <p>Copyright &copy; 2003-2006 Mitwirkende des Firefox-Hilfe-Projektes.</p>
+
+</body>
+</html>

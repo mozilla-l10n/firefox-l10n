@@ -1,0 +1,213 @@
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY nothingAvailable.label "(Nichts verfügbar)">
+
+<!ENTITY browserCmd.label	"Neues Browser-Fenster">
+<!ENTITY browserCmd.accesskey	"e">
+<!ENTITY tabCmd.label "Browser-Tab">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Web-Adresse öffnen…">
+<!ENTITY openCmd.accesskey "f">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Datei öffnen…">
+<!ENTITY openFileCmd.accesskey "ö">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY recentTabs.label "Zuletzt geschlossene Tabs">
+<!ENTITY recentTabs.accesskey "u">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY editPageCmd.label "Seite bearbeiten">
+<!ENTITY editPageCmd.accesskey "r">
+<!ENTITY editPageCmd.commandkey "e">
+<!ENTITY editFrameCmd.label "Frame bearbeiten">
+<!ENTITY editFrameCmd.accesskey "m">
+<!ENTITY editFrameSetCmd.label "Frameset bearbeiten">
+<!ENTITY editFrameSetCmd.accesskey "t">
+
+<!ENTITY uploadFile.label "Datei hochladen…">
+<!ENTITY uploadFile.accesskey "h">
+
+<!ENTITY printSetupCmd.label "Seite einrichten…">
+<!ENTITY printSetupCmd.accesskey "t">
+<!ENTITY printPreviewCmd.label "Druckvorschau">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Drucken…">
+<!ENTITY printCmd.accesskey "D">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY viewMenu.label "Ansicht">
+<!ENTITY viewMenu.accesskey "A">
+
+<!ENTITY toolbarsCmd.label "Anzeigen/Verstecken">
+<!ENTITY toolbarsCmd.accesskey "g">
+<!ENTITY navbarCmd.label "Navigations-Symbolleiste">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "Persönliche Symbolleiste">
+<!ENTITY personalbarCmd.accesskey "P">
+<!ENTITY tabbarCmd.label "Tab-Leiste">
+<!ENTITY tabbarCmd.accesskey "T">
+<!ENTITY taskbarCmd.label "Statusleiste">
+<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY componentbarCmd.label "Komponentenleiste">
+<!ENTITY componentbarCmd.accesskey "K">
+
+<!ENTITY useStyleSheetMenu.label "Style verwenden">
+<!ENTITY useStyleSheetMenu.accesskey "y">
+<!ENTITY useStyleSheetNone.label "Keinen">
+<!ENTITY useStyleSheetNone.accesskey "K">
+<!ENTITY useStyleSheetPersistentOnly.label "Standard-Style">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "S">
+<!ENTITY pageSourceCmd.label "Seitenquelltext">
+<!ENTITY pageSourceCmd.accesskey "u">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Seiteninformationen">
+<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Vollbild">
+<!ENTITY fullScreenCmd.accesskey "V">
+<!ENTITY translateMenu.label "Seite übersetzen">
+<!ENTITY translateMenu.accesskey "b">
+<!ENTITY translate.commandKey "t">
+
+<!ENTITY closeOtherTabs.label "Andere Tabs schließen">
+<!ENTITY closeOtherTabs.accesskey "T">
+<!ENTITY closeWindow.label "Fenster schließen">
+<!ENTITY closeWindow.accesskey "F">
+
+<!ENTITY minimizeButton.tooltip       "Minimieren">
+<!ENTITY restoreButton.tooltip        "Wiederherstellen">
+
+<!-- I'd like all this to move to an overlay or something -->
+<!ENTITY bidiMenu.label "Bidi-Optionen">
+<!ENTITY directionBidiMenu.label "Standard-Richtung">
+<!ENTITY directionRTLBidiCmd.label "Von rechts nach links">
+<!ENTITY directionLTRBidiCmd.label "Von links nach rechts">
+<!ENTITY texttypeBidiMenu.label "Text-Typ">
+<!ENTITY charsettexttypeBidiCmd.label "Auf Zeichensatz basierend">
+<!ENTITY logicaltexttypeBidiCmd.label "Logisch">
+<!ENTITY visualtexttypeBidiCmd.label "Visuell">
+<!ENTITY numeralBidiMenu.label "Zahlenform">
+<!ENTITY regularcontextnumeralBidiCmd.label "Zusammenhangsgemäß">
+<!ENTITY hindicontextnumeralBidiCmd.label "Hindi-Zahlen auf RTL Dokument-Richtung">
+<!ENTITY arabicnumeralBidiCmd.label "Arabisch">
+<!ENTITY hindinumeralBidiCmd.label "Hindi">
+<!ENTITY controlstextmodeBidiMenu.label "Textmodus in Steuerelementen">
+<!ENTITY logicalcontrolstextmodeBidiCmd.label "Logisch">
+<!ENTITY visiualcontrolstextmodeBidiCmd.label "Visuell">
+<!ENTITY containercontrolstextmodeBidiCmd.label "Wie beinhaltendes Dokument">
+<!ENTITY charactersetBidiMenu.label "Zeichensatz">
+<!ENTITY doccharactersetBidiCmd.label "Vom Dokument angegebenen Zeichensatz verwenden">
+<!ENTITY defaultcharactersetBidiCmd.label "Meinen Standard-Zeichensatz verwenden, im Dokument angegebenen Zeichensatz übergehen">
+
+<!ENTITY webContentMenu.label "Sprachen und Web-Inhalt">
+<!ENTITY webContentMenu.accesskey "i">
+<!ENTITY downloadMore.label "Weitere herunterladen">
+<!ENTITY downloadMore.accesskey "h">
+<!ENTITY applyTheme.label	"Theme anwenden"> 
+<!ENTITY applyTheme.accesskey	"a"> 
+<!ENTITY getNewThemesCmd.label "Neue Themes herunterladen">
+<!ENTITY getNewThemesCmd.accesskey "N">
+<!ENTITY searchMenu.label "Suchen">
+<!ENTITY searchMenu.accesskey "S">
+<!ENTITY findOnCmd.label "Seite durchsuchen…">
+<!ENTITY findOnCmd.accesskey "S">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Weitersuchen">
+<!ENTITY findAgainCmd.accesskey "t">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Vorheriges suchen">
+<!ENTITY findPrevCmd.accesskey "V">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!ENTITY searchInternetCmd.label "Das Web durchsuchen">
+<!ENTITY searchInternetCmd.accesskey "s">
+<!ENTITY searchInternet.commandKey "s">
+
+<!ENTITY clearPrivateDataCmd.label "Private Daten löschen…">
+<!ENTITY clearPrivateDataCmd.accesskey "v">
+
+<!ENTITY goMenu.label "Gehe">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY goHomeCmd.label "Startseite">
+<!ENTITY goHomeCmd.accesskey "a">
+
+<!ENTITY bookmarksMenu.label "Lesezeichen">
+<!ENTITY bookmarksMenu.accesskey "L">
+<!ENTITY addCurPageCmd.label "Lesezeichen für diese Seite hinzufügen">
+<!ENTITY addCurPageCmd.accesskey "L">
+<!ENTITY addCurPageAsCmd.label "Lesezeichen ablegen…">
+<!ENTITY addCurPageAsCmd.accesskey "h">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Lesezeichen für diese Gruppe von Tabs ablegen…">
+<!ENTITY addCurTabsAsCmd.accesskey "G">
+<!ENTITY manBookmarksCmd.label "Lesezeichen bearbeiten…">
+<!ENTITY manBookmarksCmd.accesskey "b">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Diese Seite abonnieren">
+<!ENTITY feedsMenu.accesskey "D">
+<!ENTITY emptyItem.label "(Leer)">
+
+<!ENTITY helpMenuCmd.label "Hilfe">
+<!ENTITY helpMenuCmd.accesskey "H">
+<!ENTITY helpContentsCmd.label "Hilfe-Inhalt">
+<!ENTITY softwareUpdatesCmd.label "Software Updates">
+<!ENTITY technicalSupportCmd.label "Technischer Support">
+<!ENTITY releaseNotesCmd.label "Release Notes">
+
+<!ENTITY menuBar.tooltip                  "Menüleiste">
+<!ENTITY personalToolbar.tooltip          "Persönliche Symbolleiste">
+<!ENTITY navigationToolbar.tooltip        "Navigations-Symbolleiste">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label             "Zurück">
+<!ENTITY backButton.tooltip           "Eine Seite zurück gehen">
+<!ENTITY forwardButton.label          "Vor">
+<!ENTITY forwardButton.tooltip        "Eine Seite vor gehen">
+<!ENTITY reloadButton.label           "Neu laden">
+<!ENTITY reloadButton.tooltip         "Aktuelle Seite neu laden">
+<!ENTITY stopButton.label             "Stopp">
+<!ENTITY stopButton.tooltip           "Laden dieser Seite stoppen">
+<!ENTITY searchButton.label           "Suchen">
+<!ENTITY searchButton.tooltip         "Geben Sie ein Wort in das Feld auf der linken Seite ein, dann klicken Sie &quot;Suchen&quot;">
+<!ENTITY goButton.label               "Gehe zu">
+<!ENTITY goButton.tooltip             "Geben Sie eine Adresse in das Feld auf der linken Seite ein, dann klicken Sie &quot;Gehe zu&quot;">
+<!ENTITY printButton.label            "Drucken">
+<!ENTITY printButton.tooltip          "Diese Seite drucken">
+
+<!ENTITY throbber.tooltip             "&vendorShortName;-Homepage aufrufen">
+
+<!ENTITY locationBar.tooltip          "Geben Sie einen Suchbegriff, ein Schlüsselwort oder eine Web-Adresse ein">
+<!ENTITY locationBar.accesskey        "s">
+<!ENTITY locationBar.title            "Adresse">
+
+<!ENTITY proxyIcon.tooltip            "Ziehen Sie dieses Symbol, um einen Link zu dieser Seite zu erstellen">
+<!ENTITY internetKeyword.tooltip      "Zu vorher gesehener Seite zurückkehren oder Keyword wählen">
+
+<!-- Toolbar items --> 
+<!ENTITY  bookmarksButton.label       "Lesezeichen">
+<!ENTITY  bookmarksButton.tooltip     "Lesezeichen-Liste">
+<!ENTITY  homeButton.label            "Startseite">
+
+<!-- Statusbar -->
+<!ENTITY  statusText.label            "Fertig">
+
+<!ENTITY historyCmd.label           "History">  
+<!ENTITY historyCmd.accesskey       "i">
+<!ENTITY history.commandKey         "h">
+
+<!ENTITY popupIcon.tooltiptext      "Pop-ups von dieser Website nicht mehr blockieren">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Seitenrichtung umschalten">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "u">

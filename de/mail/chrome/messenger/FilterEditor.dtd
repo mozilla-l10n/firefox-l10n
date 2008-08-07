@@ -1,0 +1,37 @@
+<!ENTITY window.title "Filter bearbeiten">
+<!ENTITY filterName.label "Filter-Name:">
+<!ENTITY filterName.accesskey "F">
+
+<!ENTITY junk.label "Junk">
+<!ENTITY notJunk.label "Kein Junk">
+
+<!ENTITY lowestPriorityCmd.label "Sehr niedrig">
+<!ENTITY lowPriorityCmd.label "Niedrig">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY highPriorityCmd.label "Hoch">
+<!ENTITY highestPriorityCmd.label "Sehr hoch">
+
+<!ENTITY conditionDesc.label "Zu erfüllende Bedingungen:">
+<!ENTITY filterActionDesc.label "Auszuführende Aktionen:">
+<!ENTITY filterActionDesc.accesskey "A">
+
+<!ENTITY newFolderButton.label "Neuer Ordner…">
+<!ENTITY newFolderButton.accesskey "N">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Verschiebe Nachricht in:">
+<!ENTITY copyMessage.label "Kopiere Nachricht in:">
+<!ENTITY forwardTo.label "Weiterleiten an:">
+<!ENTITY replyWithTemplate.label "Antworte mit Vorlage:">
+<!ENTITY markMessageRead.label "Markiere als gelesen">
+<!ENTITY markMessageStarred.label "Kennzeichne die Nachricht">
+<!ENTITY setPriority.label "Priorität ändern auf:">
+<!ENTITY addTag.label "Schlagwort hinzufügen:">
+<!ENTITY setJunkScore.label "Setze Junk-Status auf:">
+<!ENTITY deleteMessage.label "Lösche die Nachricht">
+<!ENTITY deleteFromPOP.label "Vom Server löschen">
+<!ENTITY fetchFromPOP.label "Vom Server herunterladen">
+<!ENTITY ignoreThread.label "Thema ignorieren">
+<!ENTITY ignoreSubthread.label "Unterthema ignorieren">
+<!ENTITY watchThread.label "Thema beobachten">
+<!ENTITY stopExecution.label "Filter stoppen">

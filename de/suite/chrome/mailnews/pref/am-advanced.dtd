@@ -1,0 +1,20 @@
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Einstellungen des Servers für ausgehende Nachrichten (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Es muß nur ein Server für ausgehende Nachrichten (SMTP) angegeben werden, auch wenn Sie mehrere Mail-Accounts betreiben. Geben Sie den Namen des Servers für ausgehende Nachrichten an.">
+
+<!ENTITY smtpListAdd.label  "Hinzufügen…">
+<!ENTITY smtpListAdd.accesskey  "H">
+<!ENTITY smtpListEdit.label "Bearbeiten…">
+<!ENTITY smtpListEdit.accesskey "B">
+<!ENTITY smtpListDelete.label "Entfernen">
+<!ENTITY smtpListDelete.accesskey "E">
+<!ENTITY smtpListSetDefault.label "Standard setzen">
+<!ENTITY smtpListSetDefault.accesskey "S">
+
+<!ENTITY serverDescription.label "Beschreibung:">
+<!ENTITY serverName.label "Server-Name:">
+<!ENTITY serverPort.label "Port:">
+<!ENTITY userName.label   "Benutzername:">
+<!ENTITY useSecureConnection.label   "Sichere Verbindung:">
+<!ENTITY useSecureAuthentication.label   "Sichere Authentifikation:">

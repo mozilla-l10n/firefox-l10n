@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Standard-Anwendung">
+<!ENTITY defaultClient.intro  "&brandShortName; als Standard-Anwendung verwenden für:">
+
+<!ENTITY email.label "E-Mail">
+<!ENTITY newsgroups.label "Newsgruppen">
+<!ENTITY rss.label "RSS-Feeds">
+
+<!ENTITY checkOnStartup.label "Bei jedem Start von &brandShortName; überprüfen">
+<!ENTITY checkOnStartup.accesskey "B">

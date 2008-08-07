@@ -1,0 +1,38 @@
+<!ENTITY pref.cookies.title             "Cookies">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label             "Cookie-Akzeptanzregeln">
+
+<!ENTITY accAllCookiesRadio.label       "Alle Cookies akzeptieren">
+<!ENTITY accAllCookiesRadio.accesskey   "A">
+
+<!ENTITY accOrgCookiesRadio.label       "Cookies nur von der Original-Website akzeptieren">
+<!ENTITY accOrgCookiesRadio.accesskey   "C">
+
+<!ENTITY disableCookies.label           "Keine Cookies akzeptieren">
+<!ENTITY disableCookies.accesskey       "K">
+
+<!ENTITY cookieRetentionPolicy.label    "Regeln für Cookie-Lebensdauer">
+
+<!ENTITY acceptNormally.label           "Cookies normal akzeptieren">
+<!ENTITY acceptNormally.accesskey       "n">
+
+<!ENTITY acceptForSession.label         "Nur für aktuelle Session akzeptieren">
+<!ENTITY acceptForSession.accesskey     "S">
+
+<!ENTITY acceptforNDays.label           "Cookies akzeptieren für">
+<!ENTITY acceptforNDays.accesskey       "f">
+<!ENTITY days.label                     "Tage.">
+
+<!ENTITY warnAboutCookies.label         "Bei jedem Cookie fragen">
+<!ENTITY warnAboutCookies.accesskey     "B">
+<!ENTITY forCurrentSession.label        "Außer für &quot;Session Cookies&quot;">
+<!ENTITY forCurrentSession.accesskey    "u">
+
+<!ENTITY manageCookies.label            "Cookies und Websites verwalten">
+<!ENTITY manageCookiesDescription.label "Ermöglicht Ihnen, gespeicherte Cookies und Website-spezifische Einstellungen für das Akzeptieren von Cookies anzusehen und zu verwalten. Website-spezifische Einstellungen übergehen die obigen Einstellungen.">
+
+<!ENTITY viewCookies.label              "Cookie-Manager">
+<!ENTITY viewCookies.accesskey          "M">
+

@@ -1,0 +1,26 @@
+<!ENTITY pref.images.title              "Grafiken">
+
+<!ENTITY imageBlocking.label            "Grafik-Anzeigeregeln">
+
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY imageDetails                   "Geben Sie an, wie &brandShortName; Grafiken behandelt.">
+
+<!ENTITY accAllImagesRadio.label        "Alle Grafiken akzeptieren">
+<!ENTITY accAllImagesRadio.accesskey    "A">
+<!ENTITY accOrgImagesRadio.label        "Nur Grafiken akzeptieren, die vom Ursprungsserver kommen">
+<!ENTITY accOrgImagesRadio.accesskey    "u">
+<!ENTITY disableImages.label            "Keine Grafiken laden">
+<!ENTITY disableImages.accesskey        "K">
+<!ENTITY viewImagesExplanation.label    "Eine Liste von Websites, über die Grafik-Akeptanz-Informationen gespeichert sind">
+<!ENTITY viewImages.label               "Grafik-Berechtigungen verwalten">
+<!ENTITY viewImages.accesskey           "G">
+<!ENTITY animLoopingTitle.label         "Wiederholen von animierten Grafiken">
+<!ENTITY animLoopAsSpecified.label      "So oft, wie in der Grafik angegeben">
+<!ENTITY animLoopAsSpecified.accesskey  "S">
+<!ENTITY animLoopOnce.label             "Ein Mal">
+<!ENTITY animLoopOnce.accesskey         "E">
+<!ENTITY animLoopNever.label            "Nie">
+<!ENTITY animLoopNever.accesskey        "N">

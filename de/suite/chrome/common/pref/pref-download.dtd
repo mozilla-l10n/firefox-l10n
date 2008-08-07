@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title            "Downloads">
+<!ENTITY downloadBehavior.label         "Beim Starten eines Downloads">
+<!ENTITY downloadLocation.label         "Beim Speichern einer Datei">
+<!ENTITY finishedBehavior.label         "Wenn ein Download abgeschlossen wird">
+<!ENTITY openDM.label                   "Download-Manager öffnen">
+<!ENTITY openDM.accesskey               "M">
+<!ENTITY openProgressDialog.label       "Fortschritts-Dialog öffnen">
+<!ENTITY openProgressDialog.accesskey   "F">
+<!ENTITY doNothing.label                "Nichts öffnen">
+<!ENTITY doNothing.accesskey            "N">
+<!ENTITY promptDownload.label           "Nach Download-Ort fragen und Standard vorgeben:">
+<!ENTITY promptDownload.accesskey       "c">
+<!ENTITY lastLocation.label             "Letzter Download-Ordner">
+<!ENTITY lastLocation.accesskey         "L">
+<!ENTITY specifiedLocation.label        "Angegebener Download-Ordner">
+<!ENTITY specifiedLocation.accesskey    "g">
+<!ENTITY autoDownload.label             "Dateien automatisch in angegebenen Download-Ordner herunterladen">
+<!ENTITY autoDownload.accesskey         "a">
+<!ENTITY downloadFolder.label           "Aktueller Download-Ordner:">
+<!ENTITY chooseDownloadFolder.label     "Ordner wählen…">
+<!ENTITY chooseDownloadFolder.accesskey "O">
+<!ENTITY playSound.label                "Einen Klang abspielen">
+<!ENTITY playSound.accesskey            "K">
+<!ENTITY showAlert.label                "Warnung anzeigen">
+<!ENTITY showAlert.accesskey            "W">
+<!ENTITY browse.label                   "Durchsuchen…">
+<!ENTITY browse.accesskey               "D">
+<!ENTITY preview.label                  "Vorschau">
+<!ENTITY preview.accesskey              "V">
+<!ENTITY soundURL.label                 "Klang-URL:">
+<!ENTITY soundURL.accesskey             "U">

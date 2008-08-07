@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
+
+ <html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+ <title>Benutzerprofile verwalten</title>
+ <link rel="stylesheet" href="helpFileLayout.css" type="text/css" />
+ </head>
+ <body> 
+ 
+ <h1 id="managing_profiles">Benutzerprofile verwalten</h1>
+ 
+ <p>Wenn Sie das Internet gesch&#228;ftlich und privat nutzen, m&#246;chten Sie wahrscheinlich 
+ 	unterschiedliche Lesezeichen, Voreinstellungen, Adressb&#252;cher und E-Mail-Einstellungen 
+ 	benutzen. Genauso k&#246;nnen sich alle Mitglieder Ihrer Familie eine Kopie von Mozilla 
+ 	teilen, aber jeder kann seine eigenen Einstellungen f&#252;r das Internet benutzen.</p>
+  
+ <p>Der Profilmanager erlaubt es Ihnen verschiedene Profile zu erstellen. In einem Profil
+ 	werden z.B. Lesezeichen, Voreinstellungen, E-Mail-Einstellungen und so weiter gespeichert. 
+ 	Beim allerersten Start von Mozilla auf Ihrem Computer wird automatisch ein Standardprofil angelegt. 
+ 	Wenn Sie zus&#228;tzliche Profile anlegen, werden Sie bei jedem Start von Mozilla gefragt, 
+ 	welches Profil Sie benutzen m&#246;chten.</p>
+  
+  <div class="contentsBox">In diesem Abschnitt:
+   <ul>
+      <li><a href="#creating_a_new_profile">Ein neues Benutzerprofil erstellen</a></li>
+      <li><a href="#deleting_or_renaming_a_profile">Ein bestehendes Benutzerprofil l&#246;schen 
+      	oder umbenennen</a></li>
+      <li><a href="#roaming_profiles">Externe Benutzerprofile (Roaming)</a></li>
+     <li><a href="#roaming_prefs">Roaming Einstellungen</a></li>
+     <li><a href="#roaming_item_selection">Roaming Eintragsauswahl</a></li>        
+   </ul>
+  </div>
+  
+ <h2 id="creating_a_new_profile">Ein neues Benutzerprofil erstellen</h2>
+ 
+ <p>So erstellen Sie ein neues Benutzerprofil:</p>
+ 
+ <ol>
+     <li>&#214;ffnen Sie den Profilmanager:
+       <ul>
+          <li><strong>Falls &brandShortName; gerade ausgef&#252;hrt wird</strong>: &#214;ffnen Sie das Men&#252; <b>Extras</b>
+            und klicken Sie auf <b>Profil wechseln</b>.</li>
+          <li><strong>Falls &brandShortName; geschlossen ist</strong>:<span class="win">
+            Klicken Sie im Startmen&#252; auf <b>Programme</b>, dann auf <b>&brandShortName;</b>, und auf
+            <b>Profilmanager</b>.</span><span class="mac"> Dr&#252;cken Sie die <kbd>Options</kbd>-Taste w&#228;hrend Sie
+         		&brandShortName; vom Finder oder Dock aus starten.</span>
+         	<span class="unix"> Geben Sie folgendes an der Kommandozeile ein:
+            <kbd>./mozilla -profilemanager</kbd></span></li>
+       </ul>
+    </li>
+    <li>Klicken Sie auf <b>Profile verwalten</b> und dann auf <b>Profil erstellen</b>. Lesen Sie sich die 
+    	angezeigten Informationen durch und klicken Sie auf <b>Weiter</b>.</li>
+    <li>Geben Sie einen Namen f&#252;r das neue Profil ein. Sie k&#246;nnen einen beliebigen Namen 
+    	eingeben, z.B. Ihren richtigen Namen oder einen Namen, der beschreibt f&#252;r was 
+    	Sie das Profil benutzen wollen, z.B.<q>Schule</q>.</li>
+    <li>Akzeptieren Sie das vorgeschlagene Verzeichnis zum Speichern Ihres Profils, oder w&#228;hlen Sie ein 
+    	anderes Verzeichnis mit Hilfe von <b>Ordner ausw&#228;hlen</b> aus.</li>
+    <li>Wenn Sie Sprachpakete installiert haben, klicken Sie auf <b>Sprachauswahl</b>
+    	und w&#228;hlen Ihre Sprache aus.</li>
+    <li>Klicken Sie auf <b>Fertigstellen</b>.</li>
+ </ol>
+ 
+ <p>[<a href="#managing_profiles">Zur&#252;ck zum Beginn des Abschnittes</a>]</p> 
+ 
+ <h2 id="deleting_or_renaming_a_profile">Ein bestehendes Benutzerprofil l&#246;schen 
+      	oder umbenennen</h2>
+
+ <p>Sie m&#246;chten vielleicht Profile l&#246;schen, die sie normalerweise nicht benutzen.
+  So l&#246;schen Sie ein bestehendes Profil oder benennen es um:</p>
+  
+ <ol>
+     <li>&#214;ffnen Sie den Profilmanager:
+       <ul>
+          <li><strong>Falls &brandShortName; gerade ausgef&#252;hrt wird</strong>: &#214;ffnen Sie das Men&#252; <b>Extras</b>
+            und klicken Sie auf <b>Profil wechseln</b>.</li>
+          <li><strong>Falls &brandShortName; geschlossen ist</strong>:<span class="win">
+            Klicken Sie im Startmen&#252; auf <b>Programme</b>, dann auf <b>&brandShortName;</b>, und auf
+            <b>Profilmanager</b>.</span><span class="mac"> Dr&#252;cken Sie die <kbd>Options</kbd>-Taste w&#228;hrend Sie
+         		&brandShortName; vom Finder oder Dock aus starten.</span>
+         	<span class="unix"> Geben Sie folgendes an der Kommandozeile ein:
+            <kbd>./mozilla -profilemanager</kbd></span></li>
+       </ul>
+    </li>
+    <li>Klicken Sie auf <b>Profile verwalten</b>.</li>
+    <li>Zum L&#246;schen eines Profils, markieren Sie seinen Namen und klicken auf <b>Profil l&#246;schen</b>. Im darauffolgenden
+        Best&#228;tigungsdialog, w&#228;hlen Sie eine der folgenden Optionen aus:
+       <ul>
+          <li><strong>Dateien l&#246;schen</strong>: L&#246;scht das komplette Profilverzeichnis inklusive aller
+          	gespeicherten Daten(Bookmarks, Einstellungen, E-Mails, usw.). <em>
+          	Stellen Sie sicher, dass Sie in Zukunft keine Daten mehr von diesem Profil ben&#246;tigen, 
+          	bevor Sie diese Option ausw&#228;hlen.</em></li>
+          <li><strong>Dateien nicht l&#246;schen</strong>: Entfernt das Profil nur aus der Liste der vorhandenen Profile, 
+          	l&#246;scht aber nicht die Daten des Profils. Wenn Sie diese Option w&#228;hlen werden die Daten
+            des Profils nicht von der Festplatte gel&#246;scht.</li>
+      </ul>
+      Um ein Profil umzubenennen markieren Sie seinen Namen und klicken auf <b>Profil umbenennen</b>. Folgen sie anschlie&#223;end den
+      angezeigten Anweisungen.</li>
+ </ol>
+<p>[<a href="#managing_profiles">Zur&#252;ck zum Beginn des Abschnittes</a>]</p>
+
+<h2 id="roaming_profiles">Externe Benutzerprofile (Roaming)</h2>
+
+<p>Externe Benutzerprofile erlauben es Ihnen Ihr Profil und alle zugeh&#246;rigen Einstellungen 
+auf einem zentralem Server oder einer Datei-Freigabe zu speichern. Das erm&#246;glicht es Ihnen, 
+von mehreren Computern aus auf Ihr Profil zuzugreifen. Sie k&#246;nnen damit zum Beispiel 
+dieselben Lesezeichen, Adressb&#252;cher und andere Einstellungen sowohl Zuhause und auf 
+der Arbeit nutzen. Weiters erm&#246;glich dies Firmen, deren Mitarbeitern auf allen Computern 
+immer Ihr pers&#246;nliches &brandShortName; Profil zu nutzen.</p>
+
+<p>Externe Benutzerprofile k&#246;nnen auf einem HTTP oder einem FTP-Server gespeichert werden.
+Sie ben&#246;tigen einen Benutzernamen und ein Passwort auf diesem Server, sodass Sie Schreibrechte
+in dem ausgew&#228;hlten Verzeichnis haben, um Ihr Profil darin zu speichern oder es von dort aufzurufen.
+Alternativ k&#246;nnen Sie in einem Netzwerk Ihr Profil auch auf einer Dateifreigabe speichern und mittels
+der Roaming-Einstellung <q><strong>Datei kopieren</strong></q> von dort laden.</p>
+
+<p>Jedesmal wenn Sie &brandShortName; starten wird Ihr Profil heruntergeladen und sobald Sie &brandShortName;
+beenden wird Ihr Profil wieder am Server aktualisiert.</p>
+
+<p>[<a href="#managing_profiles">Zur&#252;ck zum Beginn des Abschnittes</a>]</p>
+
+<h2 id="roaming_prefs">Roaming Einstellungen</h2>
+
+<p>Dieser Abschnitt erkl&#228;rt die Verwendung der Roaming-Einstellungen. Sollten Sie den Einstellungs-Dialog
+noch nicht vor sich sehn, gehen Sie wie folgt vor:</p>
+
+<ol>
+  <li>&#214;ffnen Sie das Men&#252; <span class="mac">&brandShortName;</span> <span class="noMac">Bearbeiten</span>
+    und w&#228;hlen Sie <q>Einstellungen</q>.</li>
+  <li>Klicken Sie auf die Kategorie <q>Roaming-Benutzer</q>.</li>
+  <li>Aktivieren Sie die Einstellung <strong>Remote-Profilespeicherung aktivieren</strong> um Roaming f&#252;r Ihr aktuelles Benutzerprofil zu nutzen.</li>
+  <li>W&#228;hlen Sie eine der folgenden M&#246;glichkeiten:
+    <ul>
+      <li><strong>HTTP / FTP</strong>: W&#228;hlen Sie diese Einstellungen, wenn Sie Ihr Profil auf einem 
+      HTTP oder FTP-Server speichern wollen.
+        <ul>
+          <li><strong>Basis-URL</strong>: Geben Sie hier die vollst&#228;ndige Adresse an, wo Ihr Profil gespeichert
+          werden soll. Dies kann eine FTP, HTTP oder HTTPS Adresse sein. FTP ist im privaten Umfeld am einfachsten
+          zu realisieren. In allen anderen F&#228;llen, speziell bei der &#220;bertagung &#252;ber 
+          das Internet, empfiehlt es sich HTTPS zu nutzen, da es ansonsten m&#246;glich ist, dass Ihre 
+          gepeicherten Passw&#246;rter oder Lesezeichen (je nachdem welche Teile des Profils Sie &#252;bertragen) 
+          von anderen Personen gelesen werden.
+
+            <p><strong>Beispiele</strong>:<br/>
+            <kbd>&lt;https://user@http-server/dir/&gt;</kbd><br/>
+            <kbd>&lt;ftp://user@ftp-server//home/user/dir/&gt;</kbd><br/> 
+            <kbd>&lt;ftp://user@ftp-server/dir/&gt;</kbd></p>
+
+          </li>
+          <li><strong>Benutzername</strong>: Geben Sie hier den Benutzernamen an, welchen Sie beim Zugriff auf
+          den FTP oder HTTP Server benutzen m&#246;chten.</li>
+          <li><strong>Passwort speichern</strong>: Aktivieren Sie diese Option, wenn Sie m&#246;chten, dass 
+          &brandShortName; sich das Passwort f&#252;r den Roaming-Zugriff merkt.</li>
+          <li><strong>Passwort</strong>: Geben Sie hier das Passwort f&#252;r den oben angegebene Benuternamen
+          ein.</li>
+        </ul>
+      </li>
+      <li><strong>Datei kopieren</strong>: W&#228;hlen Sie diese Option, wenn Sie ihr Profile auf einem lokalem
+      Verzeichnis speichern m&#246;chten.
+        <ul>
+          <li>Klicken Sie auf <strong>Durchsuchen</strong> und w&#228;hlen Sie das Verzeichnis, wo Sie Ihr 
+          Profile speichern wollen.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ol>
+
+<p>[<a href="#managing_profiles">Zur&#252;ck zum Beginn des Abschnittes</a>]</p>
+
+<h2 id="roaming_item_selection">Roaming Eintragsauswahl</h2>
+
+<p>Standardm&#228;ssig werden nur Lesezeichen, Cookies un das Pers&#246;nliche Adressbuch am Roaming-Server gespeichert. 
+Sollten alle Eintr&#228;ge ausgegraut sein, stellen Sie sicher, dass Sie Roaming aktiviert haben. Um das Speichern
+von Profile-Einstellungen via Roaming zu aktivieren oder zu deaktivieren, folgen Sie diesen Anweisungen:</p>
+
+<ol>
+  <li>&#214;ffnen Sie das Men&#252; <span class="mac">&brandShortName;</span> <span class="noMac">Bearbeiten</span>
+    und w&#228;hlen Sie <q>Einstellungen</q>.</li>
+  <li>Unter der Kategorie <q>Roaming-Benutzer</q> w&#228;hlen Sie die Unterkategorie <q>Eintragsauswahl</q>. (Sind 
+  keine Unterkategorien vorhanden, doppelklicken Sie auf Roaming-Benutzer um diese anzuzeigen.)</li>
+  <li>W&#228;hlen Sie die Eintr&#228;ge, welche in Ihrem Roaming-Profile gespeichert werden sollen.</li>
+</ol>
+
+<p>Es ist nicht m&#246;glich Ihre lokalen Emails mittels Roaming abzugleichen, dies w&#252;rde sehr lange Abgleichzeiten bedeuten. Benutzen Sie f&#252;r diese F&#228;lle einen IMAP-Server.</p>
+
+<p><strong>Hinweis</strong>: Wenn Sie eine langsame Netzwerk-Verbindung besitzen, kann der Start von 
+&brandShortName; sehr lange dauern, da beim Start alle Daten Ihres Roaming-Profiles von Ihrem Roaming-Server
+heruntergeladen werden m&#252;ssen und einige Dateien sehr gross sein k&#246;nnen.
+  &brandShortName; muss alle Ihre Datein, welche Sie ausgew&#228;hlt haben herunterladen um voll 
+  funktionsf&#228;hig zu sein. Beim Beenden von &brandShortName; werden Ihre Roaming-Dateien wieder 
+  auf den Server gespeichert.</p>
+
+<p>F&#252;r mehr Informationen bez&#252;glich Einrichtung von Roaming-Zugriffen auf einem Server, siehe
+  <a href="http://www.klomp.org/mod_roaming/" target="_blank">mod_roaming - 
+  Roaming Access module for Apache</a><em>(englisch)</em> oder <a 
+  href="http://web.archive.org/web/20020207131101/http://help.netscape.com/products/client/communicator/manual_roaming2.html"
+  target="_blank">Manually Implementing Roaming Access</a><em>(englisch)</em>.</p>
+
+<p>[<a href="#managing_profiles">Zur&#252;ck zum Beginn des Abschnittes</a>]</p>
+
+ <p>&copyright.string;</p>
+ 
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label          "Verfassen &amp; Adressieren">
+<!ENTITY addressingGroupTitle.label "Adressieren">
+<!ENTITY autocompleteToMyDomain.label     "Meine Domain automatisch an Adressen anhängen">
+<!ENTITY autocompleteToMyDomain.accesskey "M">
+<!ENTITY addressingText.label      "Beim Suchen von Nachrichten:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Globale LDAP-Server-Einstellungen für diesen Account verwenden">
+<!ENTITY useGlobal.accesskey       "G">
+<!ENTITY editDirectories.label     "Verzeichnisse bearbeiten…">
+<!ENTITY editDirectories.accesskey "V">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Einen anderen LDAP-Server verwenden:">
+<!ENTITY directories.accesskey     "E">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Verfassen">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Nachrichten im HTML-Format verfassen">
+<!ENTITY useHtml.accesskey                    "N">
+<!ENTITY autoQuote.label                      "Originalnachricht beim Antworten automatisch zitieren">
+<!ENTITY autoQuote.accesskey                  "O">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label                           "Dann">
+<!ENTITY then.accesskey                       "D">
+<!ENTITY aboveQuote.label                     "Antwort über zitiertem Text beginnen">
+<!ENTITY belowQuote.label                     "Antwort unter zitiertem Text beginnen">
+<!ENTITY selectAndQuote.label                 "zitierten Text markieren">
+<!ENTITY place.label                          "und meine Signatur">
+<!ENTITY place.accesskey                      "u">
+<!ENTITY belowText.label                      "unter zitierten Text setzen (empfohlen)">
+<!ENTITY aboveText.label                      "unter meine Antwort (über zitiertem Text) setzen">

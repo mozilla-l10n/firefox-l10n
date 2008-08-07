@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
+<!ENTITY pref.locationBar.title                "Adressleiste">
+
+<!ENTITY autoComplete.label                    "Automatische Vervollständigung">
+<!ENTITY enableAutoComplete.label              "Bei der Eingabe automatisch mit besuchten Webseiten vervollständigen">
+<!ENTITY enableAutoComplete.accesskey          "B">
+<!ENTITY autoCompleteAutoFill.label            "Automatisch die beste Übereinstimmung eintragen">
+<!ENTITY autoCompleteAutoFill.accesskey        "A">
+<!ENTITY autoCompleteShowPopup.label           "Liste von übereinstimmenden Ergebnissen anzeigen">
+<!ENTITY autoCompleteShowPopup.accesskey       "L">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Nur Übereinstimmungen mit zuvor eingegebenen Webseiten">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "N">
+
+<!ENTITY searchEngine.label                    "Internet-Suchmaschine">
+<!ENTITY showSearchEngine.label                "Standard-Suchmaschine anzeigen">
+<!ENTITY showSearchEngine.accesskey            "S">
+
+<!ENTITY unknownLocations.label                "Unbekannte Adressen">
+<!ENTITY domainGuessing.label                  "&quot;www.&quot; und &quot;.com&quot; an die Adresse anhängen, wenn eine Webseite nicht gefunden wird">
+<!ENTITY domainGuessing.accesskey              "w">
+<!ENTITY keywords.label                        "Eine Web-Suche durchführen, wenn der eingegebene Text keine Web-Adresse ist">
+<!ENTITY keywords.accesskey                    "E">

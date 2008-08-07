@@ -1,0 +1,13 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY window.title  "Offline">
+<!ENTITY boxHeader  "Offline">
+<!ENTITY rHeader  "Offline">
+<!--LOCALIZATION NOTE (textStart): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY textStart   "Beim Starten von &brandShortName;:">
+<!ENTITY radioAskMode  "Fragen, ob Online- oder Offline-Modus erwünscht ist">
+<!ENTITY radioUsePrev  "Letzten Online/Offline-Status verwenden"> 

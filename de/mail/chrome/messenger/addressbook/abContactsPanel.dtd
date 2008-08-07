@@ -1,0 +1,19 @@
+
+<!ENTITY addressbookPicker.label            "Adressbuch:">
+<!ENTITY addressbookPicker.accesskey        "A">
+<!ENTITY searchInput.label                  "Suche nach:">
+<!ENTITY searchInput.accesskey              "S">
+<!ENTITY SearchNameOrEmail.label            "Name oder E-Mail">
+
+<!ENTITY deleteAddrBookCard.label           "Löschen">
+<!ENTITY addrBookCardProperties.label       "Eigenschaften">
+<!ENTITY addtoToFieldMenu.label             "Zu &quot;An&quot; hinzufügen">
+<!ENTITY addtoCcFieldMenu.label             "Zu &quot;CC&quot; hinzufügen">
+<!ENTITY addtoBccFieldMenu.label            "Zu &quot;BCC&quot; hinzufügen">
+
+<!ENTITY toButton.label                     ">> &quot;An:&quot;">
+<!ENTITY toButton.accesskey                 "n">
+<!ENTITY ccButton.label                     ">> &quot;CC:&quot;">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    ">> &quot;BCC:&quot;">
+<!ENTITY bccButton.accesskey                "B">

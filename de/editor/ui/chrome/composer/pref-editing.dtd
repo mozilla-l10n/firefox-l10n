@@ -1,0 +1,28 @@
+<!ENTITY  pref.editing.title        "Neue Seiteneinstellungen">
+
+<!ENTITY  authorName.label          "Autor:">
+<!ENTITY  authorName.accesskey      "A">
+<!ENTITY  pageColorHeader           "Standard-Seitenerscheinung">
+
+<!ENTITY defaultColorsRadio.label   "Standardfarben des Lesers (Keine Farben in Seite setzen)">
+<!ENTITY defaultColors.accesskey    "s">
+<!ENTITY customColorsRadio.label    "Eigene Farben verwenden:">
+<!ENTITY customColors.accesskey     "e">
+
+<!ENTITY normalText.label           "Normaler Text">
+<!ENTITY normalText.accesskey       "N">
+<!ENTITY linkText.label             "Link-Text">
+<!ENTITY linkText.accesskey         "L">
+<!ENTITY activeLinkText.label       "Aktiver Link-Text">
+<!ENTITY activeLinkText.accesskey   "t">
+<!ENTITY visitedLinkText.label      "Besuchter Link-Text">
+<!ENTITY visitedLinkText.accesskey  "B">
+<!ENTITY background.label           "Hintergrund:">
+<!ENTITY background.accesskey       "H">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "Hintergrundbild:">
+<!ENTITY backgroundImage.accesskey  "H">
+<!ENTITY chooseFile.label           "Durchsuchen…">
+<!ENTITY chooseFile.accesskey       "D">
+

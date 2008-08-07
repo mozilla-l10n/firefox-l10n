@@ -1,0 +1,42 @@
+<!-- extracted from tasksOverlay.xul -->
+<!ENTITY navigatorCmd.label "Browser">
+<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.commandkey "1">
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label					"Composer">
+<!ENTITY editorCmd.accesskey				"C">
+<!ENTITY editorCmd.commandkey				"4">
+
+<!ENTITY securityInfoCmd.label					".Sicherheits-Info">  
+<!ENTITY securityInfoCmd.accesskey				"S">
+<!ENTITY javaConsoleCmd.label					"Java-Konsole">
+<!ENTITY javaConsoleCmd.accesskey				"J">
+
+<!ENTITY errorConsoleCmd.label                                  "Fehler-Konsole">
+<!ENTITY errorConsoleCmd.accesskey				"K">
+
+<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
+<!ENTITY privacyMenu.label "Datenschutz &amp; Sicherheit">
+<!ENTITY privacyMenu.accesskey "S">
+
+<!ENTITY taskNavigator.tooltip  "Browser">
+<!ENTITY taskComposer.tooltip  "Composer">
+<!ENTITY taskBar.tooltip  "Statusleiste">
+
+<!ENTITY webDevelopment.label "Web-Entwicklung">
+<!ENTITY webDevelopment.accesskey "W">
+
+<!ENTITY windowMenu.label "Fenster">
+<!ENTITY windowMenu.accesskey "F">
+
+<!ENTITY tasksMenu.label "Extras">
+<!ENTITY tasksMenu.accesskey "E"> 
+
+<!ENTITY downloadManagerCmd.label "Download-Manager">
+<!ENTITY downloadManagerCmd.accesskey "D">
+
+<!ENTITY addonsManagerCmd.label "Add-on-Manager">
+<!ENTITY addonsManagerCmd.accesskey "A">
+
+<!ENTITY switchProfileCmd.label "Profil wechseln…">
+<!ENTITY switchProfileCmd.accesskey "r">

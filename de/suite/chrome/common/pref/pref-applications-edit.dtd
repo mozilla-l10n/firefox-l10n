@@ -1,0 +1,24 @@
+
+<!ENTITY  editType.label                        "Bearbeitungstyp">
+<!ENTITY  newType.label                         "Neuer Typ">
+<!ENTITY  extension.label                       "Erweiterung:">
+<!ENTITY  extension.accesskey                   "E">
+<!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
+<!ENTITY  mimetype.label                        "MIME-Typ:">
+<!ENTITY  mimetype.accesskey                    "M">
+<!ENTITY  description.label                     "Beschreibung:">
+<!ENTITY  description.accesskey                 "B">
+
+<!ENTITY  handling.label                        "Wenn eine Datei dieses Typs erhalten wird">
+<!ENTITY  useDefault.label                      "Mit Standard-Anwendung öffnen">
+<!ENTITY  useDefault.accesskey                  "S">
+<!ENTITY  saveToDisk.label                      "Auf einem Datenträger speichern">
+<!ENTITY  saveToDisk.accesskey                  "F">
+<!ENTITY  application.label                     "Öffnen mit:">
+<!ENTITY  application.accesskey                 "m">
+
+<!ENTITY  browse.label                          "Durchsuchen…">
+<!ENTITY  browse.accesskey                      "D">
+
+<!ENTITY  askBeforeOpen.label                   "Vor dem Verwenden von Dateien dieses Typs immer fragen">
+<!ENTITY  askBeforeOpen.accesskey               "v">

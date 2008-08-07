@@ -1,0 +1,112 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "Pop-up-Fenster von dieser Website ablehnen">
+<!ENTITY popupWindowRejectCmd.accesskey "P">
+<!ENTITY popupWindowAllowCmd.label      "Pop-up-Fenster von dieser Website erlauben">
+<!ENTITY popupWindowAllowCmd.accesskey  "P">
+<!ENTITY openLinkCmd.label            "Link in neuem Fenster öffnen">
+<!ENTITY openLinkCmd.accesskey        "F">
+<!ENTITY openLinkCmdInTab.label       "Link in neuem Tab öffnen">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkInWindowCmd.label    "Öffnen">
+<!ENTITY openLinkInWindowCmd.accesskey "f">
+<!ENTITY openFrameCmd.label           "Frame in neuem Fenster öffnen">
+<!ENTITY openFrameCmd.accesskey       "F">
+<!ENTITY openFrameCmdInTab.label      "Frame in neuem Tab öffnen">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY showOnlyThisFrameCmd.label     "Nur diesen Frame anzeigen">
+<!ENTITY showOnlyThisFrameCmd.accesskey "g">
+<!ENTITY addToBookmarksCmd.label      "Lesezeichen für diese Seite hinzufügen">
+<!ENTITY addToBookmarksCmd.accesskey  "z">
+<!ENTITY goBackCmd.label              "Zurück">
+<!ENTITY goBackCmd.accesskey          "u">
+<!ENTITY goForwardCmd.label           "Vor">
+<!ENTITY goForwardCmd.accesskey       "V">
+<!ENTITY goUpCmd.label                "Nach oben">
+<!ENTITY goUpCmd.accesskey            "o">
+<!ENTITY reloadCmd.label              "Neu laden">
+<!ENTITY reloadCmd.accesskey          "l">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "Stopp">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY reloadFrameCmd.label         "Frame neu laden">
+<!ENTITY reloadFrameCmd.accesskey     "l">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Auswahl-Quelltext ansehen">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML-Quelltext ansehen">
+<!ENTITY viewPartialSourceCmd.accesskey "x">
+<!ENTITY viewPageSourceCmd.label      "Seitenquelltext anzeigen">
+<!ENTITY viewPageSourceCmd.accesskey  "Q">
+<!ENTITY viewFrameSourceCmd.label     "Frame-Quelltext anzeigen">
+<!ENTITY viewFrameSourceCmd.accesskey "Q">
+<!ENTITY viewPageInfoCmd.label        "Seiteninformationen anzeigen">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
+<!ENTITY viewFrameInfoCmd.label       "Frame-Informationen anzeigen">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY fitImageCmd.label            "Grafikgröße an Fenster anpassen">
+<!ENTITY fitImageCmd.accesskey        "g">
+<!ENTITY reloadImageCmd.label         "Grafik neu laden">
+<!ENTITY reloadImageCmd.accesskey     "r">
+<!ENTITY viewImageCmd.label           "Grafik anzeigen">
+<!ENTITY viewImageCmd.accesskey       "G">
+<!ENTITY viewBGImageCmd.label         "Hintergrundgrafik anzeigen">
+<!ENTITY viewBGImageCmd.accesskey     "z">
+<!ENTITY setWallpaperCmd.label        "Als Hintergrundbild setzen">
+<!ENTITY setWallpaperCmd.accesskey    "s">
+<!ENTITY bookmarkPageCmd.label        "Lesezeichen für diese Seite hinzufügen">
+<!ENTITY bookmarkPageCmd.accesskey    "z">
+<!ENTITY bookmarkLinkCmd.label        "Lesezeichen für diesen Link hinzufügen">
+<!ENTITY bookmarkLinkCmd.accesskey    "c">
+<!ENTITY bookmarkFrameCmd.label       "Lesezeichen für diesen Frame hinzufügen">
+<!ENTITY bookmarkFrameCmd.accesskey   "z">
+<!ENTITY savePageAsCmd.label          "Seite speichern unter…">
+<!ENTITY savePageCmd.label            "Seite speichern">
+<!ENTITY savePageCmd.accesskey        "p">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameAsCmd.label         "Frame speichern unter…">
+<!ENTITY saveFrameCmd.label           "Frame speichern">
+<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY saveLinkAsCmd.label          "Link-Ziel speichern unter…">
+<!ENTITY saveLinkCmd.label            "Link-Ziel speichern">
+<!ENTITY saveLinkCmd.accesskey        "Z">
+<!ENTITY saveImageAsCmd.label         "Grafik speichern unter…">
+<!ENTITY saveImageCmd.label           "Grafik speichern">
+<!ENTITY saveImageCmd.accesskey       "p">
+<!ENTITY copyCmd.label                "Kopieren">
+<!ENTITY copyCmd.accesskey            "K">
+<!ENTITY selectAllCmd.label           "Alles auswählen">
+<!ENTITY selectAllCmd.accesskey       "u">
+<!ENTITY copyLinkCmd.label            "Link-Adresse kopieren">
+<!ENTITY copyLinkCmd.accesskey        "A">
+<!ENTITY copyImageCmd.label           "Grafik kopieren">
+<!ENTITY copyImageCmd.accesskey       "k">
+<!ENTITY metadataCmd.label            "Eigenschaften">
+<!ENTITY metadataCmd.accesskey        "i">
+<!ENTITY copyEmailCmd.label           "E-Mail-Adresse kopieren">
+<!ENTITY copyEmailCmd.accesskey       "e">
+<!ENTITY pasteCmd.label               "Einfügen">
+<!ENTITY pasteCmd.accesskey           "E">
+<!ENTITY cutCmd.label                 "Ausschneiden">
+<!ENTITY cutCmd.accesskey             "u">
+<!ENTITY deleteCmd.label              "Löschen">
+<!ENTITY deleteCmd.accesskey          "L">
+<!ENTITY undoCmd.label                "Rückgängig">
+<!ENTITY undoCmd.accesskey            "R">
+<!ENTITY redoCmd.label                "Wiederholen">
+<!ENTITY redoCmd.accesskey            "W">
+<!ENTITY thisFrameMenu.label          "Aktueller Frame">
+<!ENTITY thisFrameMenu.accesskey      "A">
+<!ENTITY search.accesskey             "W">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Seitenrichtung umschalten">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "u">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Textrichtung wechseln">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
+<!ENTITY spellAddToDictionary.label     "Zu Wörterbuch hinzufügen">
+<!ENTITY spellAddToDictionary.accesskey "Z">
+<!ENTITY spellIgnoreWord.label          "Wort ignorieren">
+<!ENTITY spellIgnoreWord.accesskey      "g">
+<!ENTITY spellCheckEnable.label         "Rechtschreibung prüfen">
+<!ENTITY spellCheckEnable.accesskey     "c">
+<!ENTITY spellNoSuggestions.label       "(Keine Rechtschreib-Vorschläge)">
+<!ENTITY spellDictionaries.label        "Sprachen">
+<!ENTITY spellDictionaries.accesskey    "S">
+<!ENTITY spellAddDictionaries.label     "Weitere Wörterbücher herunterladen…">
+<!ENTITY spellAddDictionaries.accesskey "e">

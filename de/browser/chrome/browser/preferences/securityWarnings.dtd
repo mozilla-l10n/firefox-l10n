@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Sicherheitswarnungen">
+
+<!ENTITY security.warn_when                       "Eine Sicherheitswarnung anzeigen, wenn:">
+<!ENTITY security.warn_entering_secure.label      "eine verschlüsselte Seite angezeigt werden soll">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "eine nur schwach verschlüsselte Seite angezeigt werden soll">
+<!ENTITY security.warn_entering_weak.accesskey    "n">
+<!ENTITY security.warn_leaving_secure.label       "von einer verschlüsselten Seite zu einer unverschlüsselten gewechselt wird">
+<!ENTITY security.warn_leaving_secure.accesskey   "o">
+<!ENTITY security.warn_submit_insecure.label      "Daten unverschlüsselt gesendet werden sollen">
+<!ENTITY security.warn_submit_insecure.accesskey  "D">
+<!ENTITY security.warn_viewing_mixed.label        "eine verschlüsselte Seite angezeigt werden soll, die unverschlüsselte Elemente enthält">
+<!ENTITY security.warn_viewing_mixed.accesskey    "S">

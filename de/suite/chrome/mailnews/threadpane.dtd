@@ -1,0 +1,79 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY threadColumn.label "Thread">
+<!ENTITY fromColumn.label "Von">
+<!ENTITY recipientColumn.label "Empfänger">
+<!ENTITY attachmentColumn.label "Attachments">
+<!ENTITY subjectColumn.label "Betreff">
+<!ENTITY dateColumn.label "Datum">
+<!ENTITY priorityColumn.label "Priorität">
+<!ENTITY tagsColumn.label "Tags">
+<!ENTITY accountColumn.label "Account">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Größe">
+<!ENTITY junkStatusColumn.label "Junk-Status">
+<!ENTITY linesColumn.label "Zeilen">
+<!ENTITY unreadColumn.label "Ungelesen im Thread">
+<!ENTITY totalColumn.label "Gesamt im Thread">
+<!ENTITY readColumn.label "Gelesen">
+<!ENTITY receivedColumn.label "Empfangen">
+<!ENTITY flagColumn.label "Kennzeichnung">
+<!ENTITY locationColumn.label "Adresse">
+<!ENTITY idColumn.label "Empfangsreihenfolge">
+
+<!--Tooltips-->
+<!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten zu wählen">
+<!ENTITY threadColumn.tooltip "Klicken, um Nachrichten-Threads anzuzeigen"> 
+<!ENTITY fromColumn.tooltip "Klicken, um nach Von zu sortieren">
+<!ENTITY recipientColumn.tooltip "Klicken Sie hier, um nach Empfänger zu sortieren">
+<!ENTITY attachmentColumn.tooltip "Klicken, um nach Attachments zu sortieren">
+<!ENTITY subjectColumn.tooltip "Klicken, um nach Betreff zu sortieren">
+<!ENTITY dateColumn.tooltip "Klicken, um nach Datum zu sortieren">
+<!ENTITY priorityColumn.tooltip "Klicken, um nach Priorität zu sortieren">
+<!ENTITY tagsColumn.tooltip "Klicken, um nach Tags zu sortieren">
+<!ENTITY accountColumn.tooltip "Klicken, um nach Account zu sortieren">
+<!ENTITY statusColumn.tooltip "Klicken, um nach Status zu sortieren">
+<!ENTITY sizeColumn.tooltip "Klicken, um nach Größe zu sortieren">
+<!ENTITY junkStatusColumn.tooltip "Klicken, um nach Junk-Status zu sortieren">
+<!ENTITY unreadColumn.tooltip "Anzahl der ungelesenen Nachrichten im Thread">
+<!ENTITY totalColumn.tooltip "Gesamtzahl der Nachrichten im Thread">
+<!ENTITY readColumn.tooltip "Klicken, um nach Gelesen-Status zu sortieren">
+<!ENTITY receivedColumn.tooltip "Klicken, um nach Empfangsdatum zu sortieren">
+<!ENTITY flagColumn.tooltip "Klicken, um nach Kennzeichnung zu sortieren">
+<!ENTITY locationColumn.tooltip "Klicken, um nach Adresse zu sortieren">
+<!ENTITY idColumn.tooltip "Klicken, um nach Eingangsreihenfolge zu sortieren">

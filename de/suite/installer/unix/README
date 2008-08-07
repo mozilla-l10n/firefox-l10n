@@ -1,0 +1,140 @@
+====================================================
+
+                 SeaMonkey Read Me
+
+====================================================
+
+Die Benutzung von SeaMonkey ist an die Bedingungen der beiliegenden
+Lizenzvereinbarung gebunden.
+
+Diese ReadMe-Datei enthält Informationen über System-Voraussetzungen
+sowie Installations-Anweisungen für SeaMonkey unter Linux.
+
+Mehr Informationen über SeaMonkey finden Sie unter
+http://www.seamonkey-project.org/
+Um Fehler und sonstiges Feedback zu melden, sollten Sie sich die Seite
+http://www.seamonkey-project.org/dev/get-involved ansehn und sich mit 
+Bugzilla unter https://bugzilla.mozilla.org/ vertraut machen, wo Sie
+bereits gemeldete Fehler, Richtlinien zum Erstellen von Fehlerberichten
+und mehr finden.
+Um Hilfe mit Bugzilla zu bekommen, können Sie Sich mit Ihrem IRC-Client in
+#mozillazine auf irc.mozilla.org melden.
+
+
+====================================================
+
+                 SeaMonkey erhalten
+
+====================================================
+
+Sie können Sich sogenannte "nightly builds" von SeaMonkey vom mozilla.org 
+FTP-Server herunterladen.
+
+  http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/
+
+Die aktuellsten Builds finden Sie unter
+
+  http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/latest-trunk/
+
+Beachten Sie, dass es sich bei diesen "nightly builds" um Entwicklungsversionen
+handelt, welche von mozilla.org-Entwicklern zum Testen verwendet werden und 
+somit Fehler enthalten können. Wenn Sie lieber eine stabile Version von 
+SeaMonkey benutzen möchten, empfiehlt es sich die offiziellen 
+Release-Versionen zu verwenden, welche vom SeaMonkey-Projekt in regelmäßigen
+Abständen herausgegeben werden. Diese finden Sie unter
+
+  http://www.seamonkey-project.org/releases/
+ 
+Lesen Sie auch die Release-Notes für SeaMonkey in denen Sie Informationen zu 
+bekannten Problemen und möglichen Problemen bei der Installation von SeaMonkey
+nachlesen können. 
+Die Release-Notes finden Sie unter der oben angeführten URL, unter der Sie 
+auch die  Release-Versionen finden.
+
+====================================================
+
+               Systemvoraussetzungen
+
+====================================================
+
+* Linux
+
+- Die folgenden Bibliotheksversionen (oder kompatibel) werden benötigt: 
+  glibc 2.3.2, X.org 1.x, GTK 2.x, fontconfig, pango 1.10, libstdc++ 6.
+  Installationen von Red Hat Enterprise Linux 5, Fedora Core 6, 
+  ubuntu 6.10 ("Edgy"), Debian "Lenny" (testing), and openSUSE 10.2 
+  (oder aktueller) sollten funktionieren
+- Intel Pentium 500 MHz Prozessor (oder schneller)
+- 128 MB RAM
+- 50 MB freier Speicherplatz
+
+
+====================================================
+
+            Installationsanleitungen
+
+====================================================
+
+Hinweis: Die folgenden Anweisungen beziehen sich auf die bash-shell. Wenn Sie 
+eine andere Shell benutzen, passen Sie bitte die Kommandos entsprechend an.
+
+Installieren Sie in ein sauberen (neues) Verzeichnis. 
+Wenn Sie eine bestehende Installation überschreiben kann dies zu Problemen
+führen.
+
+Hinweis: Diese Anleitungen erklären nicht, wie Sie SeaMonkey selbst bauen 
+können. Informationen, wie Sie SeaMonkey aus dem mozilla.org - Sourcecode
+selbst erstellen können, finden Sie unter
+
+  http://developer.mozilla.org/en/docs/Build_Documentation
+
+
+Installationsanleitungen
+-------------------------------
+
+Hinweis: Es existiert kein Installationsprogram, entpacken des tar.bz2-Archives
+in das Standard-Verzeichnis (üblicherweise /usr/local/seamonkey) führt zum
+selben Ergebnis.
+
+Um SeaMonkey über das tar.bz2 Archiv zu installieren befolgen Sie folgende
+Schritte:
+
+1. Erzeugen Sie ein Verzeichnis namens "seamonkey" (mkdir seamonkey) und 
+   wechseln Sie in das Verzeichnis (cd seamonkey).
+
+2. Klicken Sie auf den Link um die Archiv-Datei in Ihr SeaMonkey-Verzeichnis
+   herunter zu laden (Name: seamonkey*.installer.tar.gz).
+
+3. Wechseln Sie in das SeaMonkey-Verzeichnis (cd seamonkey) und dekomprimieren
+   Sie das Archiv mit folgendem Befehl:
+
+  tar jxvf sea*.tar.bz2
+	
+Dies erzeugt ein Unterverzeichnis mit dem Namen SeaMonkey.
+
+4. Wechseln Sie in das SeaMonkey Verzeichnis (cd seamonkey)
+
+5. Starten Sie SeaMonkey mit ./seamonkey
+
+
+Um SeaMonkey in das GNOME-Menü zu integrieren, befolgen Sie folgende Schritte:
+
+1. Klicken Sie den GNOME Main Menu Button, öffnen Sie das "Panel" Menü, dann
+   das "Add to Panel" Untermenü und wählen Sie Launcher.
+
+2. Klicken Sie rechts auf das SeaMonkey Symbol im Panel und geben Sie folgenden
+   Befehl ein: verzeichnis_name/seamonkey
+
+verzeichnis_name ist das Verzeichnis, wohin Sie SeaMonkey heruntergeladen
+haben. Das Standardverzeichnis ist z.B./usr/local/seamonkey.
+
+3. Geben Sie einen Namen und wenn Sie wollen, einen Kommentar ein.
+
+4. Klicken Sie auf den Symbol-Button und geben Sie folgenden Befehl ein um den
+   Speicherort des Symbols auszuwählen:
+
+  verzeichnis_name/chrome/icons/default/default.xpm
+
+verzeichnis_name ist das Verzeichnis, wohin Sie SeaMonkey heruntergeladen 
+haben. Das Standardverzeichnis ist z.B. 
+/usr/local/seamonkey/chrome/icons/default/default.xpm.

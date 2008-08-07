@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"Datei"> 
+<!ENTITY fileMenu.accesskey				"D">
+<!ENTITY newMenu.label						"Neu">
+<!ENTITY newMenu.accesskey					"N">
+
+<!ENTITY editMenu.label					"Bearbeiten"> 
+<!ENTITY editMenu.accesskey				"B"> 
+<!ENTITY undoCmd.label						"Rückgängig">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"R"> 
+<!ENTITY redoCmd.label						"Wiederherstellen">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"W"> 
+<!ENTITY cutCmd.label						"Ausschneiden">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"A"> 
+<!ENTITY copyCmd.label						"Kopieren">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"K"> 
+<!ENTITY pasteCmd.label						"Einfügen">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"E"> 
+<!ENTITY deleteCmd.label					"Löschen">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"L"> 
+<!ENTITY selectAllCmd.label					"Alles auswählen">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"w"> 
+<!ENTITY preferencesCmd.label				"Einstellungen…">
+<!ENTITY preferencesCmd.accesskey			"E"> 
+<!ENTITY preferencesCmdUnix.label       "Einstellungen…">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+<!ENTITY findTypeTextCmd.label "Text beim Tippen suchen">
+<!ENTITY findTypeTextCmd.accesskey "x">
+
+<!ENTITY viewMenu.label					"Ansicht"> 
+<!ENTITY viewMenu.accesskey				"A"> 
+<!ENTITY viewToolbarsMenu.label				"Symbolleisten"> 
+<!ENTITY viewToolbarsMenu.accesskey			"y"> 
+<!ENTITY showTaskbarCmd.label					"Statusleiste">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!ENTITY direct.label                                   "Online (Proxy: keiner)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "Online (Proxy: manuell)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "Online (Proxy: auto)">
+<!ENTITY pac.accesskey                                  "a">
+
+<!ENTITY proxy.label                                    "Proxy-Konfiguration…">
+<!ENTITY proxy.accesskey                                "K">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+
+<!ENTITY closeCmd.label			"Schließen">  
+<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.accesskey		"c">
+
+<!ENTITY closeWindow.label "Fenster schließen">
+
+<!ENTITY quitApplicationCmd.label	"Beenden"> 
+<!ENTITY quitApplicationCmd.key		"Q"> 
+<!ENTITY quitApplicationCmd.accesskey	"B">
+
+<!ENTITY quitApplicationCmdUnix.label	"Beenden"> 
+<!ENTITY quitApplicationCmdUnix.accesskey	"B">
+
+<!ENTITY quitApplicationCmdMac.label	"&brandShortName; beenden"> 
+<!ENTITY quitApplicationCmdMac.accesskey	"b">

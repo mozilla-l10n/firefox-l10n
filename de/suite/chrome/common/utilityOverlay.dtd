@@ -1,0 +1,93 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY  offlineGoOfflineCmd.label                 "Offline arbeiten">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "a">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"Datei"> 
+<!ENTITY fileMenu.accesskey				"D">
+<!ENTITY newMenu.label						"Neu">
+<!ENTITY newMenu.accesskey					"N">
+<!ENTITY newBlankPageCmd.label "Composer-Seite">
+<!ENTITY newBlankPageCmd.accesskey "C" >
+<!ENTITY newBlankPageCmd.key "n" >
+<!ENTITY newPageFromTemplateCmd.label "Seite von Vorlage">
+<!ENTITY newPageFromTemplateCmd.accesskey "V">
+<!ENTITY newPageFromDraftCmd.label "Seite von Entwurf">
+<!ENTITY newPageFromDraftCmd.accesskey "E">
+<!ENTITY newNavigatorCmd.label "Browser-Fenster">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "F">
+
+<!ENTITY editMenu.label					"Bearbeiten"> 
+<!ENTITY editMenu.accesskey				"B"> 
+<!ENTITY undoCmd.label						"Rückgängig">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"R"> 
+<!ENTITY redoCmd.label						"Wiederholen">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"W"> 
+<!ENTITY cutCmd.label						"Ausschneiden">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"A"> 
+<!ENTITY copyCmd.label						"Kopieren">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"K"> 
+<!ENTITY pasteCmd.label						"Einfügen">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"E"> 
+<!ENTITY deleteCmd.label					"Löschen">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"L"> 
+<!ENTITY selectAllCmd.label					"Alles auswählen">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"u"> 
+<!ENTITY preferencesCmd.label				"Einstellungen…">
+<!ENTITY preferencesCmd.key					"E">  
+<!ENTITY preferencesCmd.accesskey			"n"> 
+<!ENTITY findTypeTextCmd.label "Text während der Eingabe suchen">
+<!ENTITY findTypeTextCmd.accesskey "x">
+<!ENTITY findTypeLinksCmd.label "Links während der Eingabe suchen">
+<!ENTITY findTypeLinksCmd.accesskey "k">
+
+<!ENTITY viewMenu.label					"Ansicht"> 
+<!ENTITY viewMenu.accesskey				"A"> 
+<!ENTITY viewToolbarsMenu.label				"Anzeigen/Verstecken"> 
+<!ENTITY viewToolbarsMenu.accesskey			"z"> 
+<!ENTITY showTaskbarCmd.label					"Statusleiste">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!ENTITY helpMenu.label					"Hilfe"> 
+<!ENTITY helpMenu.accesskey				"H"> 
+
+<!ENTITY releaseCmd.label				"Release Notes">
+<!ENTITY releaseCmd.accesskey                   "R">
+<!ENTITY updateCmd.label                        "Nach Updates suchen…">
+<!ENTITY updateCmd.accesskey                    "U">
+<!ENTITY aboutCmd.label					"Über &brandShortName;">
+<!ENTITY aboutCmd.accesskey				"b">
+<!ENTITY aboutCommPluginsCmd.label			"Über Plugins">
+<!ENTITY aboutCommPluginsCmd.accesskey			"P">
+
+<!ENTITY direct.label                                   "Online (Proxy: keiner)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "Online (Proxy: Manuell)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "Online (Proxy: Auto-URL)">
+<!ENTITY pac.accesskey                                  "A">
+<!ENTITY wpad.label                                     "Online (Proxy: Auto-Erkennung)">
+<!ENTITY wpad.accesskey                                 "E">
+
+<!ENTITY proxy.label                                    "Proxy-Konfiguration…">
+<!ENTITY proxy.accesskey                                "K">
+
+<!ENTITY bidiSwitchTextDirectionItem.label        "Textrichtung wechseln">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey        "P">
+<!ENTITY showPopupManager.label       "Pop-ups verwalten">
+<!ENTITY showPopupManager.accesskey   "v">
+<!ENTITY dontShowMessage.label        "Diese Nachricht nicht anzeigen, wenn Pop-ups blockiert werden">
+<!ENTITY dontShowMessage.accesskey    "D">

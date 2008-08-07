@@ -1,0 +1,29 @@
+<!-- extracted from content/pref-cache.xul -->
+
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+<!ENTITY pref.cache.title                "Cache">
+<!ENTITY pref.cache.caption              "Cache-Optionen setzen">
+<!ENTITY cachePara                       "Der Cache behält Kopien häufig besuchter Webseiten auf Ihrer Festplatte. (Wenn Sie 'Neu laden' klicken, wird immer die aktuellste Version einer Seite angezeigt.)">
+<!ENTITY diskCache.label                 "Größe:">
+<!ENTITY diskCache.accesskey             "G">
+<!ENTITY mbytes                          "MB">
+<!ENTITY diskCacheFolder.label           "Cache-Verzeichnis:">
+<!ENTITY clearDiskCache.label            "Cache löschen">
+<!ENTITY clearDiskCache.accesskey        "l">
+<!ENTITY chooseDiskCacheFolder.label     "Ordner wählen…">
+<!ENTITY chooseDiskCacheFolder.accesskey "O">
+<!ENTITY diskCacheFolderExplanation      "Cache-Dateien werden in einem Unterordner namens &quot;Cache&quot; im angegebenen Ordner gespeichert. Starten Sie &brandShortName; neu, um diese Änderungen zu aktivieren.">
+<!ENTITY docCache                        "Vergleich zwischen Cache- und Netzwerk-Dokument erfolgt:">
+<!ENTITY oncePsessionRadio.label         "Einmal pro Sitzung">
+<!ENTITY oncePsessionRadio.accesskey     "e">
+<!ENTITY everyTimeRadio.label            "Jedes Mal">
+<!ENTITY everyTimeRadio.accesskey        "j">
+<!ENTITY neverRadio.label                "Nie">
+<!ENTITY neverRadio.accesskey            "n">
+<!ENTITY autoRadio.label                 "Wenn die Seite veraltet ist">
+<!ENTITY autoRadio.accesskey             "W">
+
+<!ENTITY prefetchTitle.label             "Links im Voraus laden:">
+<!ENTITY enablePrefetch.label            "Webseiten im Voraus laden, wenn nichts zu tun ist, sodass Links in Webseiten, die für das Laden in Voraus bestimmt sind, schneller geladen werden können">
+<!ENTITY enablePrefetch.accesskey        "V">
+<!-- <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->

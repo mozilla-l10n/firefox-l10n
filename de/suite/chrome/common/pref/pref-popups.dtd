@@ -1,0 +1,27 @@
+<!ENTITY pref.popups.title              "Pop-up-Fenster">
+
+<!ENTITY pref.popups.caption            "Pop-up-Fenster">
+
+<!ENTITY popupDesc.label                "Geben Sie an, wie Pop-up-Fenster behandelt werden, die über oder unter dem aktuellen Browser-Fenster erscheinen:">
+
+<!ENTITY popupBlock.label               "Unerwünschte Pop-up-Fenster blockieren">
+<!ENTITY popupBlock.accesskey           "U">
+
+<!ENTITY popupExceptions.label          "Erlaubte Websites…">
+<!ENTITY popupExceptions.accesskey      "E">
+
+<!ENTITY whenBlock.description          "Wenn ein Pop-up-Fenster blockiert wurde:">
+<!ENTITY playSound.label                "Einen Klang abspielen:">
+<!ENTITY playSound.accesskey            "K">
+
+<!ENTITY selectSound.label              "Durchsuchen…">
+<!ENTITY selectSound.accesskey          "D">
+<!ENTITY previewSound.label             "Vorschau">
+<!ENTITY previewSound.accesskey         "V">
+<!ENTITY selectSound.title              "Pop-up-Blockier-Klang auswählen">
+
+<!ENTITY displayIcon.label              "Ein Symbol in der Browser-Statusleiste anzeigen">
+<!ENTITY displayIcon.accesskey          "S">
+
+<!ENTITY popupNote.description          "Anmerkung: Das Blockieren aller Pop-ups kann wichtige Funktionen mancher Websites unterbinden, wie Anmeldefenster bei Bank- und Einkauf-Websites. Weitere Hinweise, wie Sie trotz einer allgemeinen Blockade  bei speziellen Websites Pop-ups erlauben können, erhalten Sie per Klick auf 'Hilfe'. Selbst wenn Websites blockiert werden, können sie noch andere Methoden verwenden, um Pop-ups anzuzeigen.">
+

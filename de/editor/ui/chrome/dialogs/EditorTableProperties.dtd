@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title                "Tabellen-Eigenschaften">
+<!ENTITY applyButton.label                "Anwenden">
+<!ENTITY applyButton.accesskey            "A">
+<!ENTITY closeButton.label                "Schließen">
+<!ENTITY tableTab.label                   "Tabelle">
+<!ENTITY cellTab.label                    "Zellen">
+<!ENTITY tableRows.label                  "Zeilen:">
+<!ENTITY tableRows.accessKey              "Z">
+<!ENTITY tableColumns.label               "Spalten:">
+<!ENTITY tableColumns.accessKey           "S">
+<!ENTITY tableHeight.label                "Höhe:">
+<!ENTITY tableHeight.accessKey            "H">
+<!ENTITY tableWidth.label                 "Breite:">
+<!ENTITY tableWidth.accessKey             "B">
+<!ENTITY tableBorderSpacing.label         "Ränder und Abstände">
+<!ENTITY tableBorderWidth.label           "Rand:">
+<!ENTITY tableBorderWidth.accessKey       "R">
+<!ENTITY tableSpacing.label               "Außenabstand:">
+<!ENTITY tableSpacing.accessKey           "A">
+<!ENTITY tablePadding.label               "Innenabstand:">
+<!ENTITY tablePadding.accessKey           "I">
+<!ENTITY tablePxBetwCells.label           "Pixel zwischen Zellen">
+<!ENTITY tablePxBetwBrdrCellContent.label "Pixel zwischen Zellenrand und -inhalt">
+<!ENTITY tableAlignment.label             "Tabellen-Ausrichtung:">
+<!ENTITY tableAlignment.accessKey         "T">
+<!ENTITY tableCaption.label               "Titel:">
+<!ENTITY tableCaption.accessKey           "i">
+<!ENTITY tableCaptionAbove.label          "Über Tabelle">
+<!ENTITY tableCaptionBelow.label          "Unter Tabelle">
+<!ENTITY tableCaptionLeft.label           "Links der Tabelle">
+<!ENTITY tableCaptionRight.label          "Rechts der Tabelle">
+<!ENTITY tableCaptionNone.label           "Keiner">
+<!ENTITY tableInheritColor.label           "(Seitenfarbe durchscheinen lassen)">
+
+<!ENTITY cellPercent.label                "Prozent der Tabelle">
+<!ENTITY cellSelection.label              "Auswahl">
+<!ENTITY cellSelectCell.label             "Zelle">
+<!ENTITY cellSelectRow.label              "Zeile">
+<!ENTITY cellSelectColumn.label           "Spalte">
+<!ENTITY cellSelectNext.label             "Nächste">
+<!ENTITY cellSelectNext.accessKey         "N">
+<!ENTITY cellSelectPrevious.label         "Vorherige">
+<!ENTITY cellSelectPrevious.accessKey     "V">
+<!ENTITY cellApplyBeforeMove.label        "Änderungen vor Auswahländerung anwenden">
+<!ENTITY cellKeepCurrentData.label        "Aktuelle Eistellungen behalten">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label         "Aktuelle Änderungen werden angewendet">
+<!ENTITY applyBeforeChange2.label         "bevor die Auswahl verändert wird.">
+<!ENTITY cellRowSpan.label                "Zeilen-Spanne:">
+<!ENTITY cellColSpan.label                "Spalten-Spanne:">
+<!ENTITY cellContentAlignment.label       "Inhalt ausrichten:">
+<!ENTITY cellHorizontal.label             "Horizontal:">
+<!ENTITY cellHorizontal.accessKey         "H">
+<!ENTITY cellVertical.label               "Vertikal:">
+<!ENTITY cellVertical.accessKey           "k">
+<!ENTITY cellStyle.label                  "Zellenstil:">
+<!ENTITY cellStyle.accessKey              "Z">
+<!ENTITY cellNormal.label                 "Normal">
+<!ENTITY cellHeader.label                 "Überschrift">
+<!ENTITY cellTextWrap.label               "Textumbruch:">
+<!ENTITY cellTextWrap.accessKey           "u">
+<!ENTITY cellWrap.label                   "Umbrechen">
+<!ENTITY cellNoWrap.label                 "Nicht umbrechen">
+<!ENTITY cellAlignTop.label               "Oben">
+<!ENTITY cellAlignMiddle.label            "Mitte">
+<!ENTITY cellAlignBottom.label            "Unten">
+<!ENTITY cellAlignJustify.label           "Ausrichten">
+<!ENTITY cellAlignAtChar.label            "Beim Buchstaben:">
+<!ENTITY cellInheritColor.label           "(Tabellenfarbe durchscheinen lassen)">
+<!ENTITY cellUseCheckboxHelp.label        "Verwenden Sie die Kontrollkästchen, um zu bestimmen, welche Einstellungen an alle gewählten Zellen angewendet werden.">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "Größe">
+<!ENTITY pixels.label                     "Pixel">
+<!ENTITY backgroundColor.label            "Hintergrundfarbe:">
+<!ENTITY backgroundColor.accessKey        "f">
+<!ENTITY AlignLeft.label                  "Links">
+<!ENTITY AlignCenter.label                "Zentriert">
+<!ENTITY AlignRight.label                 "Rechts">

@@ -1,0 +1,35 @@
+<!-- extracted from ./history.xul -->
+
+<!ENTITY menuBar.tooltip            "Menüleiste">
+<!ENTITY fileMenu.label             "Datei">
+<!ENTITY closeCmd.label             "Schließen">
+<!ENTITY editMenu.label             "Bearbeiten"> 
+<!ENTITY undoCmd.label              "Rückgängig">
+<!ENTITY redoCmd.label              "Wiederholen">
+<!ENTITY cutCmd.label               "Ausschneiden">
+<!ENTITY copyCmd.label              "Kopieren">
+<!ENTITY pasteCmd.label             "Einfügen">
+<!ENTITY deleteCmd.label            "Löschen">
+<!ENTITY deleteHostnameCmd.accesskey "H">
+<!ENTITY deleteDomainCmd.accesskey  "o">
+<!ENTITY selAllCmd.label            "Alles auswählen">
+<!ENTITY findHisCmd.label           "History durchsuchen…">
+<!ENTITY findHisCmd.commandkey      "f">
+<!ENTITY findHisCmd.accesskey       "s">
+<!ENTITY groupBy.label              "Gruppieren nach">
+<!ENTITY groupBy.accesskey          "G">
+<!ENTITY groupByDay.label           "Tag">
+<!ENTITY groupByDay.accesskey       "T">
+<!ENTITY groupBySite.label          "Website">
+<!ENTITY groupBySite.accesskey      "S">
+<!ENTITY groupByNone.label          "Nichts">
+<!ENTITY groupByNone.accesskey      "N">
+<!ENTITY historyWindowTitle.label   "History">
+<!ENTITY menuitem.view.unsorted.label "Unsortiert">
+<!ENTITY menuitem.view.unsorted.accesskey "U">
+<!ENTITY sortAscending.label         "Aufsteigend">
+<!ENTITY sortAscending.accesskey     "A">
+<!ENTITY sortDescending.label        "Absteigend">
+<!ENTITY sortDescending.accesskey    "b">
+<!ENTITY menuitem.view.show_columns.label "Spalten anzeigen">
+<!ENTITY menuitem.view.show_columns.accesskey "n">

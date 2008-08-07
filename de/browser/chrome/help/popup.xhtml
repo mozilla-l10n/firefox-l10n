@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Bernhard Heger <bernhard.heger@gmx.net> (German translator)
+  Markus Jungblut <mozilla@blumentopferde.info> (additional translations)
+  Ronny Perinke <ronny.perinke@gmx.de> (additional translations)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Pop-ups steuern</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Kontrollieren von Pop-ups</h1>
+<p>Dieses Dokument erläutert alle in &brandFullName; verfügbaren &pref.plural; zur Kontrolle von Pop-ups.</p>
+
+<div class="contentsBox">
+  In diesem Abschnitt:
+  <ul>
+    <li><a href="#what_are_popups">Was sind Pop-ups?</a></li>
+    <li><a href="#popup_blocker_preferences">Pop-up-Blocker-&pref.pluralCaps;</a></li>
+  </ul>
+</div>
+
+<h2 id="what_are_popups">Was sind Pop-ups?</h2>
+<p>Pop-up-Fenster (in der Regel einfach als Pop-ups bezeichnet) sind Fenster, die automatisch und 
+  ohne Ihre Zustimmung angezeigt werden. Ihre Größe unterscheidet sich von Fall zu Fall, 
+  sie bedecken in der Regel jedoch nicht den gesamten Bildschirm. Einige Pop-ups werden
+  über dem aktuellen &brandShortName;-Fenster geöffnet, andere darunter (so genannte 
+  Pop-unders).</p>
+
+<p>In &brandShortName; können Sie über die <a
+  href="prefs.xhtml#content_options">Inhalt-&pref.pluralCaps;</a> in den &pref.pluralCaps;
+  die Anzeige von Pop-ups und Pop-unders steuern. Standardmäßig werden Pop-ups blockiert,
+  so dass Sie diese Option nicht selbst aktivieren müssen, um die Anzeige von Pop-ups in
+  &brandShortName; zu unterbinden.</p>
+
+<p>&brandShortName; zeigt eine Informationsleiste sowie ein Symbol <img src="chrome://browser/skin/Info.png"
+   width="16" height="16" alt=""/> in der Statusleiste an, wenn ein Pop-up blockiert wird. Wenn Sie entweder
+  auf die <em>&pref.pluralCaps;</em>-Schaltfläche in der Informationsleiste oder das Symbol in der Statusleiste klicken, 
+  wird ein Menü mit den folgenden Auswahlmöglichkeiten angezeigt:</p>
+
+<ul>
+  <li>Pop-ups erlauben/blockieren für die Website</li>
+  <li><a href="#popup_blocker_preferences">Pop-up-Blocker-Einstellungen</a> bearbeiten</li>
+  <li>Keine Informationsleiste einblenden, wenn Pop-ups blockiert wurden</li>
+  <li>(Ein blockiertes Pop-up anzeigen)</li>
+</ul>
+
+<p><strong>Das Blockieren von Pop-ups kann auf einigen Websites zu Problemen führen</strong>: 
+  Einige Websites, beispielsweise Homebanking-Seiten, verwenden Pop-ups für wichtige Funktionen. Durch 
+  das Blockieren aller Pop-ups werden diese Funktionen außer Kraft gesetzt. Um bestimmten Websites die 
+  Anzeige von Pop-ups zu ermöglichen, können Sie sie der Liste von Ausnahmen hinzufügen. Dies
+  hat keine Auswirkungen auf alle anderen Websites, deren Pop-ups nach wie vor blockiert werden.</p>
+
+<p><strong>Das Blockieren von Pop-ups funktioniert nicht immer zuverlässig</strong>: Auch wenn 
+  &brandShortName; die meisten Pop-ups blockiert, kann es einigen Websites gelingen, mithilfe von 
+  speziellen Methoden selbst dann Pop-ups anzuzeigen, wenn der Pop-up-Blocker aktiviert ist.</p>
+
+<h2 id="popup_blocker_preferences">Pop-up-Blocker-Einstellungen</h2>
+
+<p>Die Pop-up-Blocker-Einstellungen befinden sich im Abschnitt <a href="prefs.xhtml#content_options">Inhalt</a> unter &pref.menuPath;.</p>
+
+<p>Dort haben Sie die folgenden Möglichkeiten:</p>
+
+<ul>
+  <li><strong>Pop-up-Fenster blockieren</strong>: Deaktivieren Sie diese Einstellung, um den Pop-Up-Blocker zu deaktivieren</li>
+  <li><strong>Berechtigte Websites</strong>: In diesem Bereich werden die Websites
+    aufgeführt, die Pop-ups anzeigen dürfen. Es stehen folgende Auswahlmöglichkeiten zur Verfügung:
+  <ul>
+    <li><strong>Erlauben</strong>: Klicken Sie auf diese Schaltfläche, um eine Website in die Liste 
+      aufzunehmen.</li>
+    <li><strong>Website entfernen</strong>: Klicken Sie auf diese Schaltfläche, um eine Website aus der
+      Liste der Ausnahmen zu entfernen.</li>
+    <li><strong>Alle Websites entfernen</strong>: Klicken Sie auf diese Schaltfläche, um alle Websites
+      aus der Liste zu entfernen.</li>
+  </ul>
+  </li>
+</ul>
+
+<p><strong>Hinweis</strong>: Das Blockieren von Pop-ups funktioniert möglicherweise nicht immer und kann 
+  die Funktionsweise von einigen Websites beeinträchtigen. Weitere Informationen zu Pop-ups finden Sie
+  unter &quot;<a href="#what_are_popups">Was sind Pop-ups?</a>&quot;.</p>
+
+<div class="contentsBox"><em>14. Mai 2005</em></div>
+<p>Copyright &copy; 2003-2006 Mitwirkende des Firefox-Hilfe-Projektes.</p>
+
+</body>
+</html>

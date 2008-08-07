@@ -1,0 +1,8 @@
+<!ENTITY pref-irc.window.title "ChatZilla">
+
+<!ENTITY pref-irc.open.title     "ChatZilla-Einstellungen">
+<!ENTITY pref-irc.open.desc      "ChatZilla's Einstellungen sind zu ausführlich, um in dieses Einstellungsfenster zu passen, daher können Sie staddessen sein Einstellungsfenster von hier öffnen.">
+<!ENTITY pref-irc.open.label     "ChatZilla-Einstellungen öffnen">
+<!ENTITY pref-irc.open.accesskey "C">
+<!ENTITY startup.chat.label "ChatZilla">
+<!ENTITY startup.chat.accesskey "C">

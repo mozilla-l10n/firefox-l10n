@@ -1,0 +1,21 @@
+<!ENTITY sanitizeDialog.title            "Private Daten löschen">
+<!ENTITY sanitizeItems.label             "Folgende Daten jetzt löschen:">
+
+<!ENTITY itemHistory.label               "Besuchte Seiten (History)">
+<!ENTITY itemHistory.accesskey           "B">
+<!ENTITY itemDownloads.label             "Vergangene Downloads">
+<!ENTITY itemDownloads.accesskey         "D">
+<!ENTITY itemFormSearchHistory.label     "Gespeicherte Such- und Formulardaten">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemCache.label                 "Cache">
+<!ENTITY itemCache.accesskey             "C">
+<!ENTITY itemCookies.label               "Cookies">
+<!ENTITY itemCookies.accesskey           "C">
+<!ENTITY itemOfflineApps.label           "Offline-Website-Daten">
+<!ENTITY itemOfflineApps.accesskey       "O">
+<!ENTITY itemPasswords.label             "Gespeicherte Passwörter">
+<!ENTITY itemPasswords.accesskey         "G">
+<!ENTITY itemSessions.label              "Gesicherte Verbindungen">
+<!ENTITY itemSessions.accesskey          "s">
+
+<!ENTITY sanitizeButton.label            "Private Daten jetzt löschen">

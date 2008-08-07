@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Druckereigenschaften">
+
+<!ENTITY paperInput.label "Papiergröße:">
+
+<!ENTITY plexInput.label "Plex-Modus:">
+
+<!ENTITY resolutionInput.label "Auflösung/Qualität:">
+
+<!ENTITY cmdInput.label "Druckbefehl:">
+
+<!ENTITY jobTitleInput.label "Druckauftrag:">
+
+<!ENTITY colorGroup.label "Farbe:">
+<!ENTITY grayRadio.label "Graustufen">
+<!ENTITY colorRadio.label "Farben">
+
+<!ENTITY colorspaceInput.label "Farbraum:">
+
+<!ENTITY fontsGroup.label "Schriftarten:">
+<!ENTITY downloadFonts.label "Schriftarten auf den Drucker herunterladen?">
+
+<!ENTITY edgeMarginInput.label "Abstand zwischen Papierrand und Druckrand">
+<!ENTITY topInput.label "Oben:">
+<!ENTITY bottomInput.label "Unten:">
+<!ENTITY leftInput.label "Links:">
+<!ENTITY rightInput.label "Rechts:">

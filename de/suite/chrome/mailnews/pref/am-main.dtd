@@ -1,0 +1,35 @@
+<!-- extracted from am-main.xul -->
+
+<!ENTITY accountTitle.label "Account-Einstellungen">
+<!ENTITY accountName.label "Account-Name:">
+<!ENTITY accountName.accesskey "A">
+<!ENTITY accountNameDesc.label "Der Account-Name identifiziert jeden Account">
+<!ENTITY identityTitle.label "Standard-Identität">
+<!ENTITY identityDesc.label "Jeder Account hat eine Identität. Diese Informationen sehen andere Personen, wenn sie Ihre Nachrichten lesen.">
+<!ENTITY name.label "Ihr Name:">
+<!ENTITY name.accesskey "I">
+<!ENTITY email.label "E-Mail-Adresse:">
+<!ENTITY email.accesskey "E">
+<!ENTITY replyTo.label "Rückantwortadresse:">
+<!ENTITY replyTo.accesskey "R">
+<!ENTITY organization.label "Organisation:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "Diese Signatur anhängen:">
+<!ENTITY signature.accesskey "D">
+<!ENTITY edit.label "Bearbeiten…">
+<!ENTITY choose.label "Durchsuchen…">
+<!ENTITY choose.accesskey "D">
+<!ENTITY editVCard.label "Karte bearbeiten…">
+<!ENTITY editVCard.accesskey "K">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Meine vCard an Nachrichten anhängen">
+<!ENTITY attachVCard.accesskey "M">
+
+<!ENTITY manageIdentities.label "Identitäten verwalten…">
+<!ENTITY manageIdentities.accesskey "I">
+
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+<!ENTITY smtpName.label "Ausgehender Server (SMTP):">
+<!ENTITY smtpName.accesskey "A">
+<!ENTITY smtpDefaultServer.label "Standard-Server verwenden">
+

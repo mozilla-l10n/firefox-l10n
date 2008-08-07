@@ -1,0 +1,20 @@
+<!ENTITY window.title "Ordner sortieren">
+
+<!ENTITY sortOptions.label "Sortieroptionen">
+<!ENTITY description.label "&brandShortName; kann individuelle Ordner sortieren. Verwenden Sie diese Optionen, um die Sortierung für diesen Ordner anzupassen.">
+
+<!ENTITY sortBy.label "Sortiert nach:">
+<!ENTITY sortBy.name.label "Name">
+<!ENTITY sortBy.url.label "Adresse">
+<!ENTITY sortBy.shortcutUrl.label "Schlüsselwort">
+<!ENTITY sortBy.description.label "Beschreibung">
+<!ENTITY sortBy.bookmarkAddDate.label "Hinzugefügt">
+<!ENTITY sortBy.lastModifiedDate.label "Zuletzt geändert">
+<!ENTITY sortBy.lastVisitDate.label "Zuletzt besucht">
+
+<!ENTITY sortOrder.label "Sortierreihenfolge:">
+<!ENTITY sortAscending.label "Aufsteigend">
+<!ENTITY sortDescending.label "Absteigend">
+
+<!ENTITY sortFoldersFirst.label "Ordnerzuerst einreihen">
+<!ENTITY sortRecursively.label "Rekursiv sortieren">

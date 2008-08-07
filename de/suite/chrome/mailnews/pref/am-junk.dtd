@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Junk-Einstellungen">
+<!ENTITY trainingWarning.label "Wenn dies aktiviert ist, müssen Sie zuerst &brandShortName; trainieren, um Junk-Mail zu identifizieren, indem Sie die Schaltfläche in der Junk-Symbolleiste verwenden und Nachrichten als Junk oder nicht Junk markieren. Sie müssen sowohl Junk- als auch Nicht-Junk-Nachrichten identifizieren.">
+<!ENTITY level.label "Adaptiven Junk-Mail-Filter für diesen Account aktivieren">
+<!ENTITY level.accesskey "A">
+
+<!ENTITY move.label "Neue Junk-Nachrichten verschieben in:">
+<!ENTITY move.accesskey "v">
+<!ENTITY junkFolderOn.label "&quot;Junk&quot;-Ordner auf:">
+<!ENTITY junkFolderOn.accesskey "u">
+<!ENTITY otherFolder.label "Anderer:">
+<!ENTITY otherFolder.accesskey "n">
+<!ENTITY purge1.label "Junk-Nachrichten automatisch löschen, die älter sind als">
+<!ENTITY purge1.accesskey "J">
+<!ENTITY purge2.label "Tage">
+
+<!ENTITY whitelist.label "Mails nicht als Junk markieren, wenn der Absender in diesem Adressbuch ist:">
+<!ENTITY whitelist.accesskey "M">
+
+<!ENTITY ispHeaders.label "Junk-Mail-Kopfzeilen vertrauen, die gesetzt wurden von:">
+<!ENTITY ispHeaders.accesskey "J">

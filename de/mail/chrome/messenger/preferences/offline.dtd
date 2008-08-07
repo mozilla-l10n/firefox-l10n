@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title              "Offline-Einstellungen">
+
+<!ENTITY textStartUp                      "Beim Programmstart:">
+<!ENTITY radioRememberPrevState.label     "Vorherigen Online-/Offline-Status merken">
+<!ENTITY radioRememberPrevState.accesskey "V">
+<!ENTITY radioAskMe.label                 "Fragen, ob man online arbeiten möchte">
+<!ENTITY radioAskMe.accesskey             "F">
+<!ENTITY radioAlwaysOnline.label          "Immer online starten">
+<!ENTITY radioAlwaysOnline.accesskey      "I">
+
+<!ENTITY textGoingOnline                  "Postausgang senden, sobald man im Online-Modus ist:">
+<!ENTITY radioAutoSend.label              "Ja">
+<!ENTITY radioAutoSend.accesskey          "J">
+<!ENTITY radioNotSend.label               "Nein">
+<!ENTITY radioNotSend.accesskey           "N">
+<!ENTITY radioAskUnsent.label             "Fragen">
+<!ENTITY radioAskUnsent.accesskey         "r">
+<!ENTITY textGoingOffline                 "Beim Wechsel in den Offline-Modus Nachrichten zum Offline-Lesen herunterladen:">
+<!ENTITY radioAutoDownload.label          "Ja">
+<!ENTITY radioAutoDownload.accesskey      "a">
+<!ENTITY radioNotDownload.label           "Nein">
+<!ENTITY radioNotDownload.accesskey       "e">
+<!ENTITY radioAskDownload.label           "Fragen">
+<!ENTITY radioAskDownload.accesskey       "g">

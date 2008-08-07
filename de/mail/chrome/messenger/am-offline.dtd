@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Um Speicherplatz zu sparen, nicht herunterladen:">
+<!ENTITY doNotDownload.label "Um Speicherplatz zu sparen, nicht zum Offline-Lesen herunterladen:">
+<!ENTITY offlineNewFolder.label "Wenn neue Ordner erstellt werden, diese zum Offline-Lesen auswählen">
+<!ENTITY offlineNewFolder.accesskey "s">
+<!ENTITY offlineNotDownload.label "Nachrichten, die größer sind als">
+<!ENTITY offlineNotDownload.accesskey "g">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "Tage">
+<!ENTITY daysOld.label "Tage">
+<!ENTITY message.label "Nachrichten">
+<!ENTITY nntpNotDownloadRead.label "Gelesene Nachrichten">
+<!ENTITY nntpNotDownloadRead.accesskey "l">
+<!ENTITY nntpDownloadMsg.label "Nachrichten, die älter sind als">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Um Speicherplatz zu sparen, können gelöscht werden:">
+<!ENTITY retentionKeepMsg.label "Nachrichten, die älter sind als">
+<!ENTITY retentionKeepMsg.accesskey "N">
+<!ENTITY retentionKeepAll.label "Keine Nachrichten">
+<!ENTITY retentionKeepAll.accesskey "K">
+<!ENTITY retentionKeepNew.label "Alle außer den neuesten">
+<!ENTITY retentionKeepNew.accesskey "a">
+<!ENTITY retentionKeepUnread.label "Alle gelesenen Nachrichten">
+<!ENTITY retentionKeepUnread.accesskey "g">
+<!ENTITY nntpRemoveBody.label "Behalte nur Nachrichtentexte, die neuer sind als">
+<!ENTITY nntpRemoveBody.accesskey "N">
+<!ENTITY offlineSelectNntp.label "Newsgruppen zum Offline-Lesen wählen…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineSelectImap.label "Ordner zum Offline-Lesen wählen…">
+<!ENTITY offlineSelectImap.accesskey "S">
+<!ENTITY offlineDesc.label "Offline ermöglicht das lokale Herunterladen Ihrer Nachrichten, sodass sie verfügbar sind, wenn Sie nicht mit dem Server verbunden sind.">
+<!ENTITY makeInboxMsgsAvailable.label "Die Nachrichten im Posteingang beim Offline-Arbeiten verfügbar machen">
+<!ENTITY makeInboxMsgsAvailable.accesskey "P">
+<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY diskspaceGroupTitle.label "Speicherplatz">

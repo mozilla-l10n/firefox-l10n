@@ -1,0 +1,47 @@
+<!ENTITY pref.navigator.title           "Browser">
+
+<!ENTITY navRadio                       "Anzeigen">
+<!ENTITY navStartPageMenu.label         "Beim Browser-Start">
+<!ENTITY newWinPageMenu.label           "In Neuem Fenster">
+<!ENTITY newTabPageMenu.label           "In Neuem Tab">
+
+<!ENTITY blankPageRadio.label           "Leere Seite">
+<!ENTITY blankPageRadio.accesskey       "l">
+<!ENTITY homePageRadio.label            "Startseite">
+<!ENTITY homePageRadio.accesskey        "a">
+<!ENTITY lastPageRadio.label            "Letzte angezeigte Seite">
+<!ENTITY lastPageRadio.accesskey        "e">
+
+<!ENTITY header2.label                  "Startseite">
+<!ENTITY homePageIntro.label            "Klicken auf die Schaltfläche &quot;Startseite&quot; bringt Sie zu dieser Seite oder Gruppe von Seiten.">
+<!ENTITY useCurrent.label               "Aktuelle Seite">
+<!ENTITY useCurrent.accesskey           "k">
+<!ENTITY useCurrentGroup.label          "Aktuelle Gruppe">
+<!ENTITY useCurrentGroup.accesskey      "G">
+<!ENTITY browseFile.label               "Datei wählen…">
+<!ENTITY browseFile.accesskey           "D">
+<!ENTITY useDefault.label               "Standard">
+<!ENTITY useDefault.accesskey           "S">
+
+<!ENTITY toolbarIntro.label             "Aktivieren Sie jene Elemente, die in den Symbolleisten angezeigt werden sollen:">
+
+<!ENTITY navToolbarIntro.label          "Navigations-Symbolleiste">
+<!ENTITY goButton.label                 "Gehe zu">
+<!ENTITY goButton.accesskey             "z">
+<!ENTITY searchButton.label             "Suchen">
+<!ENTITY searchButton.accesskey         "u">
+<!ENTITY printButton.label              "Drucken">
+<!ENTITY printButton.accesskey          "r">
+
+<!ENTITY persToolbarIntro.label         "Persönliche Symbolleiste">
+<!ENTITY homeButton.label               "Startseite">
+<!ENTITY homeButton.accesskey           "t">
+<!ENTITY bookmarksButton.label          "Lesezeichen">
+<!ENTITY bookmarksButton.accesskey      "c">
+
+<!ENTITY defaultBrowserGroup.label      "Standard-Browser">
+<!ENTITY defaultBrowserButton.label     "Standard-Browser setzen">
+<!ENTITY defaultBrowserButton.accesskey "S">
+<!ENTITY alreadyDefaultText             "&brandShortName; ist bereits Ihr Standard-Browser.">
+<!ENTITY defaultPendingText             "&brandShortName; wird als Ihr Standard-Browser gesetzt, wenn Sie OK klicken.">
+<!ENTITY makeDefaultText                "&brandShortName; als Ihren Standard-Browser setzen.">

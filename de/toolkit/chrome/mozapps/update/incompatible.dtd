@@ -1,0 +1,9 @@
+
+<!ENTITY  incompatible.title        "Inkompatible Add-ons">
+<!ENTITY  incompatible.intro        "Folgende Add-ons sind nicht kompatibel mit diesem Update von &brandShortName; und werden deaktiviert, wenn es installiert wird:">
+<!ENTITY  incompatible.update       "&brandShortName; wird regelmäßig auf Updates überprüfen und Sie informieren, sobald kompatible Versionen verfügbar sind.">
+<!ENTITY  incompatible.suffix       "Die Updates für &brandShortName; enthalten wichtige Sicherheitsverbesserungen. Wir empfehlen Ihnen dringend, &brandShortName; zu aktualisieren, auch wenn dadurch einige Ihrer Add-ons inkompatibel werden. Dies garantiert Ihnen maximale Sicherheit im Internet.">
+                                     
+<!ENTITY  closebutton.label         "Schließen">
+                                     
+                                     

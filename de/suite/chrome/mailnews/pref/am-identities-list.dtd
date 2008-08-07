@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Identitäten, die diesem Account zugeordnet sind">
+<!ENTITY identitiesListDesc.label "Unterstützung mehrfacher Identitäten">
+<!ENTITY identitiesListAdd.label  "Hinzufügen…">
+<!ENTITY identitiesListAdd.accesskey  "H">
+<!ENTITY identitiesListEdit.label "Bearbeiten…">
+<!ENTITY identitiesListEdit.accesskey "B">
+<!ENTITY identitiesListDelete.label "Löschen">
+<!ENTITY identitiesListDelete.accesskey "L">

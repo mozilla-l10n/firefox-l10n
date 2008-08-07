@@ -1,0 +1,77 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Nachrichten suchen in:">
+<!ENTITY searchHeading.accesskey     "N">
+<!ENTITY searchSubfolders.label      "Unterordner durchsuchen">
+<!ENTITY searchSubfolders.accesskey  "U">
+<!ENTITY resetButton.label           "Neue Suche">
+<!ENTITY resetButton.accesskey       "c">
+<!ENTITY optionsButton.label         "Einstellungen">
+<!ENTITY closeButton.label           "Schließen">
+<!ENTITY openButton.label            "Öffnen">
+<!ENTITY openButton.accesskey        "f">
+<!ENTITY deleteButton.label          "Löschen">
+<!ENTITY deleteButton.accesskey      "L">
+<!ENTITY searchDialogTitle.label     "Nachrichten suchen">
+<!ENTITY conditionDesc.label         "Nachrichten suchen, die übereinstimmen mit:">
+<!ENTITY conditions.label            "Kriterien">
+<!ENTITY results.label               "Ergebnisse">
+<!ENTITY fileHereMenu.label          "In diesen Ordner verschieben">
+<!ENTITY fileHereMenu.accesskey      "I">
+<!ENTITY fileButton.label            "Ablegen">
+<!ENTITY fileButton.accesskey        "b">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY goToFolderButton.label      "Ordner öffnen">
+<!ENTITY goToFolderButton.accesskey  "O">
+<!ENTITY saveAsVFButton.label        "Als virtuellen Ordner speichern…">
+<!ENTITY saveAsVFButton.accesskey    "v">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Suchen in:">
+<!ENTITY abSearchHeading.accesskey   "S">
+<!ENTITY propertiesButton.label      "Eigenschaften">
+<!ENTITY propertiesButton.accesskey  "i">
+<!ENTITY composeButton.label         "Verfassen">
+<!ENTITY composeButton.accesskey     "V">
+<!ENTITY abSearchDialogTitle.label   "Adressen suchen">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Thema">
+<!ENTITY fromColumn.label "Von">
+<!ENTITY recipientColumn.label "Empfänger">
+<!ENTITY subjectColumn.label "Betreff">
+<!ENTITY dateColumn.label "Datum">
+<!ENTITY priorityColumn.label "Priorität">
+<!ENTITY tagsColumn.label "Schlagwörter">
+<!ENTITY accountColumn.label "Konto">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Größe">
+<!ENTITY junkStatusColumn.label "Junk-Status">
+<!ENTITY linesColumn.label "Zeilen">
+<!ENTITY unreadColumn.label "Ungelesen">
+<!ENTITY totalColumn.label "Gesamt">
+<!ENTITY readColumn.label "Gelesen">
+<!ENTITY receivedColumn.label "Empfangen">
+<!ENTITY starredColumn.label "Kennzeichnung">
+<!ENTITY locationColumn.label "Ablageort">
+<!ENTITY idColumn.label "Eingangsreihenfolge">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten zu wählen">
+<!ENTITY threadColumn.tooltip "Klicken, um Nachrichten-Themen anzuzeigen"> 
+<!ENTITY fromColumn.tooltip "Klicken, um nach Von zu sortieren">
+<!ENTITY recipientColumn.tooltip "Klicken, um nach Empfänger zu sortieren">
+<!ENTITY subjectColumn.tooltip "Klicken, um nach Betreff zu sortieren">
+<!ENTITY dateColumn.tooltip "Klicken, um nach Datum zu sortieren">
+<!ENTITY priorityColumn.tooltip "Klicken, um nach Priorität zu sortieren">
+<!ENTITY tagsColumn.tooltip "Klicken, um nach Schlagwörtern zu sortieren">
+<!ENTITY accountColumn.tooltip "Klicken, um nach Konten zu sortieren">
+<!ENTITY statusColumn.tooltip "Klicken, um nach Status zu sortieren">
+<!ENTITY sizeColumn.tooltip "Klicken, um nach Größe zu sortieren">
+<!ENTITY junkStatusColumn.tooltip "Klicken, um nach Junk-Status zu sortieren">
+<!ENTITY unreadColumn.tooltip "Anzahl der ungelesenen Nachrichten im Thema">
+<!ENTITY totalColumn.tooltip "Gesamtzahl der Nachrichten im Thema">
+<!ENTITY readColumn.tooltip "Klicken, um nach Gelesen / Ungelesen zu sortieren">
+<!ENTITY receivedColumn.tooltip "Klicken, um nach Empfangsdatum zu sortieren">
+<!ENTITY starredColumn.tooltip "Klicken, um nach Kennzeichnung zu sortieren">
+<!ENTITY locationColumn.tooltip "Klicken, um nach Ablageort zu sortieren">
+<!ENTITY idColumn.tooltip "Klicken, um nach Eingangsreihenfolge zu sortieren">

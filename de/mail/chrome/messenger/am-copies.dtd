@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Kopien &amp; Ordner">
+<!ENTITY sendingPrefix.label "Beim Senden von Nachrichten automatisch ">
+<!ENTITY fccMailFolder.label "Eine Kopie speichern unter:">
+<!ENTITY fccMailFolder.accesskey "K">
+<!ENTITY fccReplyFollowsParent.label "Antworten im Ordner der ursprünglichen Nachricht speichern">
+<!ENTITY fccReplyFollowsParent.accesskey "w">
+<!ENTITY chooseFolderButton.label "Ordner wählen…">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "BCC an diese E-Mail-Adressen:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Spezielle Ordner">
+<!ENTITY draftMailFolder.label "Entwürfe speichern unter:">
+<!ENTITY templateMailFolder.label "Vorlagen speichern unter:">
+<!ENTITY saveMessageDlg.label "Bestätigungsdialog beim Speichern von Nachrichten anzeigen">
+<!ENTITY saveMessageDlg.accesskey "s">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Ordner &quot;Gesendet&quot; in:">
+<!ENTITY sentFolderOn.accesskey "G">
+<!ENTITY sentInOtherFolder.label "Anderer Ordner:">
+<!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Ordner &quot;Entwürfe&quot; in:">
+<!ENTITY draftsFolderOn.accesskey "E">
+<!ENTITY draftInOtherFolder.label "Anderer Ordner:">
+<!ENTITY draftInOtherFolder.accesskey "n">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Ordner &quot;Vorlagen&quot; in:">
+<!ENTITY templatesFolderOn.accesskey "V">
+<!ENTITY templateInOtherFolder.label "Anderer Ordner:">
+<!ENTITY templateInOtherFolder.accesskey "d">
+<!ENTITY specialFoldersTitle.label "Entwürfe und Vorlagen">
+<!ENTITY keepDrafts.label "Entwürfe speichern unter:">
+<!ENTITY keepTempltes.label "Vorlagen speichern unter:">

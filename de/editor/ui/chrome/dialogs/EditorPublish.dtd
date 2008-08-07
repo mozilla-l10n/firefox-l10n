@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label            "Seite publizieren">
+<!ENTITY windowTitleSettings.label    "Publiziereinstellungen">
+
+<!ENTITY publishTab.label             "Publizieren">
+<!ENTITY settingsTab.label            "Einstellungen">
+
+<!ENTITY publishButton.label          "Publizieren">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Website-Name:">
+<!ENTITY siteList.accesskey           "S">
+<!ENTITY siteList.tooltip             "Wählen Sie die Website, auf der publiziert werden soll">
+<!ENTITY newSiteButton.label          "Neue Website">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY docDirList.label             "Website-Unterverzeichnis für diese Seite:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Wählen Sie den Namen des externen Unterverzeichnisses für diese Seite oder geben Sie diesen ein">
+<!ENTITY publishImgCheckbox.label     "Grafiken und andere Dateien inkludieren">
+<!ENTITY publishImgCheckbox.accesskey "k">
+<!ENTITY publishImgCheckbox.tooltip   "Grafiken und andere von dieser Seite referenzierte Dateien publizieren">
+<!ENTITY sameLocationRadio.label      "Gleiche Adresse wie Seite verwenden">
+<!ENTITY sameLocationRadio.accesskey  "G">
+<!ENTITY sameLocationRadio.tooltip    "Dateien auf der selben Adresse wie die Seite publizieren">
+<!ENTITY useSubdirRadio.label         "Dieses Website-Unterverzeichnis verwenden:">
+<!ENTITY useSubdirRadio.accesskey     "D">
+<!ENTITY useSubdirRadio.tooltip       "Dateien im gewählten externen Unterverzeichnis publizieren">
+<!ENTITY otherDirList.tooltip         "Wählen Sie den Namen des externen Unterverzeichnisses, in dem die Dateien publiziert werden sollen, oder geben Sie diesen ein">
+<!ENTITY pageTitle.label              "Seitentitel:">
+<!ENTITY pageTitle.accesskey          "t">
+<!ENTITY pageTitle.tooltip            "Geben Sie einen Titel an, um die Seite in Fenstern und Lesezeichen zu identifizieren">
+<!ENTITY pageTitleExample.label       "z.B.: &quot;Meine Web-Seite&quot;">
+<!ENTITY filename.label               "Dateiname:">
+<!ENTITY filename.accesskey           "e">
+<!ENTITY filename.tooltip             "Geben Sie einen Namen für diese Datei an, inklusive '.html' für eine Webseite">
+<!ENTITY filenameExample.label        "z.B.: &quot;meineseite.html&quot;">
+<!ENTITY relatedDocs.label            "Andere Dateien zum Publizieren">
+<!ENTITY setDefaultButton.label       "Als Standard festlegen">
+<!ENTITY setDefaultButton.accesskey   "A">
+<!ENTITY setDefSiteAndDir.label       "Als Standard-Website und -Verzeichnis setzen">
+<!ENTITY removeButton.label           "Website entfernen">
+<!ENTITY removeButton.accesskey       "r">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Publizierungssites">
+<!ENTITY serverInfo.label             "Server-Informationen">
+<!ENTITY loginInfo.label              "Login-Informationen">
+<!ENTITY siteName.label               "Website-Name:">
+<!ENTITY siteName.accesskey           "S">
+<!ENTITY siteName.tooltip             "Ein Spitzname, der diese Publizierungs-Website identifiziert (z.B.: 'MeineWebsite')">
+<!ENTITY siteUrl.label                "Publizierungs-Adresse (z.B.: 'ftp://ftp.meinprovider.at/meinbenutzername'):">
+<!ENTITY siteUrl.accesskey            "P">
+<!ENTITY siteUrl.tooltip              "Die FTP://- oder HTTP://-Adresse, die von Ihrem Provider oder Web-Hosting-Service bereitgestellt wird">
+<!ENTITY browseUrl.label              "HTTP-Adresse Ihrer Homepage (z.B.: 'http://www.meinprovider.at/meinbenutzername'):">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.tooltip            "Die HTTP://-Adresse Ihres Hauptverzeichnisses (keinen Dateinamen angeben)">
+<!ENTITY username.label               "Benutzername:">
+<!ENTITY username.accesskey           "B">
+<!ENTITY username.tooltip             "Der Benutzername, den Sie verwenden, um sich bei Ihrem Provider oder Web-Hosting-Service anzumelden">
+<!ENTITY password.label               "Passwort:">
+<!ENTITY password.accesskey           "w">
+<!ENTITY password.tooltip             "Das zu Ihrem Benutzernamen gehörige Passwort">
+<!ENTITY savePassword.label           "Passwort speichern">
+<!ENTITY savePassword.accesskey       "o">
+<!ENTITY savePassword.tooltip         "Wählen Sie dies aus, um Ihr Passwort sicher mit dem Passwort-Manager zu speichern.">

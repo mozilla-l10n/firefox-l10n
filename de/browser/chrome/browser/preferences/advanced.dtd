@@ -1,0 +1,103 @@
+<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
+     in the Advanced pane are: "b", "j", "q", "z" -->
+
+<!ENTITY generalTab.label                "Allgemein">
+
+<!ENTITY accessibility.label             "Eingabehilfen">
+
+<!ENTITY useCursorNavigation.label       "Markieren von Text mit der Tastatur zulassen">
+<!ENTITY useCursorNavigation.accesskey   "M">
+<!ENTITY searchStartTyping.label         "Suche bereits beim Eintippen starten">
+<!ENTITY searchStartTyping.accesskey     "R">
+<!ENTITY blockAutoRefresh.label          "Warnen, wenn Websites versuchen umzuleiten oder neuzuladen">
+<!ENTITY blockAutoRefresh.accesskey      "W">
+
+<!ENTITY browsing.label                  "Browsing">
+
+<!ENTITY useAutoScroll.label             "Automatischen Bildlauf aktivieren">
+<!ENTITY useAutoScroll.accesskey         "A">
+<!ENTITY useSmoothScrolling.label        "Sanften Bildlauf aktivieren">
+<!ENTITY useSmoothScrolling.accesskey    "S">
+<!ENTITY checkSpelling.label             "Rechtschreibung während der Eingabe überprüfen">
+<!ENTITY checkSpelling.accesskey         "R">
+
+
+<!ENTITY systemDefaults.label            "Systemeinstellungen">
+<!ENTITY alwaysCheckDefault.label        "Beim Starten überprüfen, ob &brandShortName; der Standardbrowser ist"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "S">
+<!ENTITY checkNow.label                  "Jetzt überprüfen">
+<!ENTITY checkNow.accesskey              "J">
+
+<!ENTITY networkTab.label                "Netzwerk">
+
+<!ENTITY connection.label                "Verbindung">
+
+<!ENTITY connectionDesc.label            "Festlegen, wie sich &brandShortName; mit dem Internet verbindet">
+<!ENTITY connectionSettings.label        "Einstellungen…">
+<!ENTITY connectionSettings.accesskey    "n">
+
+<!ENTITY offlineStorage.label            "Offline-Speicher">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Es werden bis zu">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB Speicherplatz als Cache verwendet">
+<!ENTITY clearCacheNow.label             "Jetzt leeren">
+<!ENTITY clearCacheNow.accesskey         "l">
+
+<!ENTITY updateTab.label                 "Update">
+
+<!ENTITY autoCheck.label                 "Automatisch auf Updates überprüfen für:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "Installierte Add-ons">
+<!ENTITY enableAddonsUpdate.accesskey    "I">
+<!ENTITY enableSearchUpdate.label        "Suchmaschinen">
+<!ENTITY enableSearchUpdate.accesskey    "S">
+<!ENTITY whenUpdatesFound.label          "Wenn Updates für &brandShortName; gefunden werden">
+<!ENTITY askMe.label                     "Nachfragen, was getan werden soll">
+<!ENTITY askMe.accesskey                 "N">
+<!ENTITY modeAutomatic.label             "Das Update automatisch herunterladen und installieren">
+<!ENTITY modeAutomatic.accesskey         "A">
+<!ENTITY modeAutoAddonWarn.label         "Warnen, falls dadurch ein Add-on deaktiviert wird">
+<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY updateHistory.label             "Update-Chronik anzeigen">
+<!ENTITY updateHistory.accesskey         "C">
+
+<!ENTITY offlineNotify.label             "Nachfragen, wenn Websites Daten für die Verwendung im Offline-Modus speichern möchten.">
+<!ENTITY offlineNotify.accesskey         "N">
+<!ENTITY offlineNotifyExceptions.label   "Ausnahmen…">
+<!ENTITY offlineNotifyExceptions.accesskey "A">
+
+<!ENTITY offlineAppsList.label           "Folgende Websites haben Daten für die Verwendung im Offline-Modus gespeichert:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Entfernen…">
+<!ENTITY offlineAppsListRemove.accesskey "E">
+<!ENTITY offlineAppRemove.confirm        "Offline-Daten entfernen">
+
+<!ENTITY encryptionTab.label             "Verschlüsselung">
+
+<!ENTITY protocols.label                 "Protokolle">
+<!ENTITY useSSL3.label                   "SSL 3.0 verwenden">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 verwenden">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Zertifikate">
+<!ENTITY certSelection.description       "Wenn eine Website nach dem persönlichen Sicherheitszertifikat verlangt:">
+<!ENTITY certs.auto                      "Automatisch eins wählen">
+<!ENTITY certs.auto.accesskey            "w">
+<!ENTITY certs.ask                       "Jedes Mal fragen">
+<!ENTITY certs.ask.accesskey             "J">
+<!ENTITY viewCerts.label                 "Zertifikate anzeigen">
+<!ENTITY viewCerts.accesskey             "Z">
+<!ENTITY viewCRLs.label                  "Revocation-Listen">
+<!ENTITY viewCRLs.accesskey              "R">
+<!ENTITY verify2.label                    "Validierung">
+<!ENTITY verify2.accesskey                "V">
+<!ENTITY viewSecurityDevices.label       "Kryptographie-Module">
+<!ENTITY viewSecurityDevices.accesskey   "K">

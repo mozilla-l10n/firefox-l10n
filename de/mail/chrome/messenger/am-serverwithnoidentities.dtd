@@ -1,0 +1,11 @@
+<!ENTITY accountTitle.label "Konten-Einstellungen">
+<!ENTITY accountSettingsDesc.label "Dies ist das &quot;Lokale Konto&quot;. Dabei handelt es sich um ein spezielles Konto, das mit keiner Identität bzw. keiner E-Mail-Adresse direkt verbunden ist. Der Posteingang des Lokalen Kontos ist der &quot;Globale Posteingang&quot;, dem Sie Ihre POP-Konten zuordnen können.">
+<!ENTITY accountName.label "Konten-Bezeichnung:">
+<!ENTITY accountName.accesskey "K">
+<!ENTITY messageStorage.label "Speicherplatz">
+<!ENTITY emptyTrashOnExit.label "Papierkorb beim Verlassen leeren">
+<!ENTITY emptyTrashOnExit.accesskey "P">
+<!ENTITY localPath.label "Lokales Verzeichnis:">
+<!ENTITY localFolderPicker.label "Lokales Verzeichnis wählen:">
+<!ENTITY browseFolder.label "Verzeichnis wählen…">
+<!ENTITY browseFolder.accesskey "z">

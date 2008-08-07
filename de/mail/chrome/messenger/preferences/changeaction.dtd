@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "Aktion ändern">
+<!ENTITY  window.width                         "36em">
+
+<!ENTITY  whenDownloading.label               "Bei Anhängen dieses Typs:">
+
+<!ENTITY  openDefault.label                   "Mit der Standard-Anwendung öffnen:">
+<!ENTITY  openDefault.accesskey               "S">
+<!ENTITY  openApplication.label               "Mit dieser Anwendung öffnen:">
+<!ENTITY  openApplication.accesskey           "M">
+<!ENTITY  changeApp.label                     "Durchsuchen…">
+<!ENTITY  changeApp.accesskey                 "D">
+<!ENTITY  saveToDisk.label                    "Auf meinem Computer speichern">
+<!ENTITY  saveToDisk.accesskey                "A">
+<!ENTITY  saveToDefaultFolder.label           "im Standard-Ordner für Anhänge">
+<!ENTITY  saveToDefaultFolder.accesskey       "i">
+<!ENTITY  saveToThisFolder.label              "in diesem Ordner:">
+<!ENTITY  saveToThisFolder.accesskey          "O">
+<!ENTITY  chooseFolder.label                  "Durchsuchen…">
+<!ENTITY  chooseFolder.accesskey              "D">
+<!ENTITY  saveToAskMe.label                   "fragen, wo der Anhang gespeichert werden soll">
+<!ENTITY  saveToAskMe.accesskey               "f">
+<!ENTITY  usePlugin.label                     "Verwende dieses Plugin:">
+<!ENTITY  usePlugin.accesskey                 "P">
