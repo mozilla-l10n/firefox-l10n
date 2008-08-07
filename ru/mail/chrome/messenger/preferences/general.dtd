@@ -1,0 +1,33 @@
+<!ENTITY systemDefaults.label "Системные настройки по умолчанию">
+<!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
+<!ENTITY alwaysCheckDefault.accesskey "п">
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Проверить сейчас">
+<!ENTITY checkNow.accesskey "с">
+<!ENTITY messengerStartPage.label "Стартовая страница &brandShortName;">
+<!ENTITY enableStartPage.label "Показывать стартовую страницу в области просмотра сообщения при запуске &brandShortName;">
+<!ENTITY enableStartPage.accesskey "с">
+<!ENTITY location.label "Адрес:">
+<!ENTITY location1.accesskey "д">
+<!ENTITY useDefault.label "Восстановить">
+<!ENTITY useDefault.accesskey "т">
+<!ENTITY bounceSystemDockIcon.label "Анимация значка в доке">
+<!ENTITY bounceSystemDockIcon.accesskey "д">
+<!ENTITY newMessagesArrive.label "При появлении новых сообщений:">
+<!ENTITY playSound.label "Подать звуковой сигнал">
+<!ENTITY playSound1.accesskey "в">
+<!ENTITY showAnimatedAlert.label "Показать уведомление">
+<!ENTITY showAnimatedAlert.accesskey "у">
+<!ENTITY customizeMailAlert.label "Настроить…">
+<!ENTITY customizeMailAlert.accesskey "т">
+<!ENTITY soundNotification1.caption "Звук">
+<!ENTITY play.label "Прослушать">
+<!ENTITY play.accesskey "ш">
+<!ENTITY systemsound.label "Системный звуковой сигнал о приходе почты">
+<!ENTITY systemsoundMac.label "Системный звуковой сигнал оповещения">
+<!ENTITY systemsoundMac.accesskey "м">
+<!ENTITY systemsound.accesskey "м">
+<!ENTITY customsound.label "Использовать следующий звуковой файл">
+<!ENTITY customsound.accesskey "в">
+<!ENTITY browse.label "Обзор…">
+<!ENTITY browse.accesskey "б">

@@ -1,0 +1,10 @@
+<!--null-->
+<!ENTITY contact.heading "Контакт">
+<!ENTITY home.heading "Дом">
+<!ENTITY other.heading "Прочее">
+<!ENTITY phone.heading "Телефоны">
+<!ENTITY work.heading "Рабочий">
+<!ENTITY description.heading "Описание">
+<!ENTITY addresses.heading "Адреса">
+<!ENTITY mapItButton.label "Показать на карте">
+<!ENTITY mapIt.tooltip "Показать адрес на карте в Интернете">

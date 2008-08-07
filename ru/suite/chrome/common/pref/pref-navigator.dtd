@@ -1,0 +1,40 @@
+<!ENTITY pref.navigator.title "Браузер">
+<!ENTITY navRadio "Открывать при">
+<!ENTITY navStartPageMenu.label "запуске браузера">
+<!ENTITY newWinPageMenu.label "создании окна">
+<!ENTITY newTabPageMenu.label "создании вкладки">
+<!ENTITY blankPageRadio.label "Пустую страницу">
+<!ENTITY blankPageRadio.accesskey "П">
+<!ENTITY homePageRadio.label "Домашнюю страницу">
+<!ENTITY homePageRadio.accesskey "Н">
+<!ENTITY lastPageRadio.label "Последнюю просмотренную страницу">
+<!ENTITY lastPageRadio.accesskey "с">
+<!ENTITY header2.label "Домашняя страница">
+<!ENTITY homePageIntro.label "При нажатии кнопки «Домашняя страница» загрузится следующая группа страниц:">
+<!ENTITY useCurrent.label "Текущая страница">
+<!ENTITY useCurrent.accesskey "Т">
+<!ENTITY useCurrentGroup.label "Текущая группа страниц">
+<!ENTITY useCurrentGroup.accesskey "г">
+<!ENTITY browseFile.label "Выбрать файл…">
+<!ENTITY browseFile.accesskey "б">
+<!ENTITY useDefault.label "Восстановить">
+<!ENTITY useDefault.accesskey "В">
+<!ENTITY toolbarIntro.label "Выберите кнопки, которые хотите видеть на панелях инструментов:">
+<!ENTITY navToolbarIntro.label "Панель навигации">
+<!ENTITY goButton.label "Перейти">
+<!ENTITY goButton.accesskey "П">
+<!ENTITY searchButton.label "Поиск">
+<!ENTITY searchButton.accesskey "П">
+<!ENTITY printButton.label "Печать">
+<!ENTITY printButton.accesskey "е">
+<!ENTITY persToolbarIntro.label "Личная панель">
+<!ENTITY homeButton.label "К началу">
+<!ENTITY homeButton.accesskey "н">
+<!ENTITY bookmarksButton.label "Закладки">
+<!ENTITY bookmarksButton.accesskey "к">
+<!ENTITY defaultBrowserGroup.label "Браузер по умолчанию">
+<!ENTITY defaultBrowserButton.label "По умолчанию">
+<!ENTITY defaultBrowserButton.accesskey "м">
+<!ENTITY alreadyDefaultText "&brandShortName; уже является вашим браузером по умолчанию.">
+<!ENTITY defaultPendingText "&brandShortName; станет вашим браузером по умолчанию после нажатия кнопки «OK».">
+<!ENTITY makeDefaultText "Сделать &brandShortName; браузером по умолчанию.">

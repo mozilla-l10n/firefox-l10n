@@ -1,0 +1,16 @@
+<!ENTITY mainWindow.title "&brandShortName;">
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Код для:">
+<!ENTITY viewPartialSourceWindow.title "Исходный код DOM">
+<!ENTITY menu_wrapLongLines.title "Перенос по словам">
+<!ENTITY menu_wrapLongLines.accesskey "П">
+<!ENTITY menu_highlightSyntax.label "Подсветка синтаксиса">
+<!ENTITY menu_highlightSyntax.accesskey "с">
+<!ENTITY findNextCmd.label "Найти далее">
+<!ENTITY findNextCmd.accesskey "д">
+<!ENTITY goToLineCmd.label "Перейти к строке…">
+<!ENTITY goToLineCmd.accesskey "к">
+<!ENTITY goToLineCmd.commandkey "l">
+<!ENTITY printSetupCmd.label "Параметры страницы…">
+<!ENTITY printSetupCmd.accesskey "а">

@@ -1,0 +1,83 @@
+<!--null-->
+<!ENTITY addressbookWindow.title "Адресная книга">
+<!ENTITY newCard.label "Карточку адресной книги…">
+<!ENTITY newCard.accesskey "а">
+<!ENTITY newListCmd.label "Список рассылки…">
+<!ENTITY newListCmd.accesskey "п">
+<!ENTITY newAddressBookCmd.label "Адресную книгу…">
+<!ENTITY newAddressBookCmd.accesskey "д">
+<!ENTITY renameAddressBookCmd.label "Переименовать адресную книгу…">
+<!ENTITY renameAddressBookCmd.accesskey "е">
+<!ENTITY newLDAPDirectoryCmd.label "Каталог LDAP…">
+<!ENTITY newLDAPDirectoryCmd.accesskey "D">
+<!ENTITY newIM.label "Мгновенное сообщение">
+<!ENTITY printCardViewCmd.label "Печать карточки…">
+<!ENTITY printCardViewCmd.accesskey "П">
+<!ENTITY printPreviewCardViewCmd.label "Предварительный просмотр карточки">
+<!ENTITY printPreviewCardViewCmd.accesskey "д">
+<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printAddressBook.label "Печать адресной книги…">
+<!ENTITY printAddressBook.accesskey "а">
+<!ENTITY printPreviewAddressBook.label "Предварительный просмотр адресной книги">
+<!ENTITY printPreviewAddressBook.accesskey "а">
+<!ENTITY printSetupCmd.label "Параметры страницы…">
+<!ENTITY printSetupCmd.accesskey "а">
+<!ENTITY deleteAbCmd.label "Удалить адресную книгу">
+<!ENTITY deleteCardCmd.label "Удалить карточку">
+<!ENTITY deleteCardsCmd.label "Удалить выбранные карточки">
+<!ENTITY deleteListCmd.label "Удалить список">
+<!ENTITY deleteListsCmd.label "Удалить выбранные списки">
+<!ENTITY deleteItemsCmd.label "Удалить выбранные элементы">
+<!ENTITY swapFirstNameLastNameCmd.label "Поменять местами имя и фамилию">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "П">
+<!ENTITY propertiesCmd.label "Свойства…">
+<!ENTITY propertiesCmd.accesskey "в">
+<!ENTITY propertiesCmd.key "i">
+<!ENTITY showAbToolbarCmd.label "Панель адресной книги">
+<!ENTITY showAbToolbarCmd.accesskey "а">
+<!ENTITY showCardPane.label "Область окна карточки">
+<!ENTITY showCardPane.accesskey "О">
+<!ENTITY menu_ShowNameAs.label "Показывать имя как">
+<!ENTITY menu_ShowNameAs.accesskey "П">
+<!ENTITY firstLastCmd.label "Имя, Фамилия">
+<!ENTITY firstLastCmd.accesskey "И">
+<!ENTITY lastFirstCmd.label "Фамилия, Имя">
+<!ENTITY lastFirstCmd.accesskey "Ф">
+<!ENTITY displayNameCmd.label "Отображаемое имя">
+<!ENTITY displayNameCmd.accesskey "О">
+<!ENTITY importCmd.label "Импорт…">
+<!ENTITY importCmd.accesskey "И">
+<!ENTITY exportCmd.label "Экспорт…">
+<!ENTITY exportCmd.accesskey "Э">
+<!ENTITY allowOnlineCheck.label "Проверять присутствие в сети (AOL)">
+<!ENTITY allowOnlineCheck.accesskey "П">
+<!ENTITY stopSearchingCmd.label ".Прервать поиск">
+<!ENTITY newcardButton.label "Создать карточку">
+<!ENTITY newcardButton.accesskey "к">
+<!ENTITY newlistButton.label "Создать список">
+<!ENTITY newlistButton.accesskey "С">
+<!ENTITY editButton.label "Свойства">
+<!ENTITY editButton.accesskey "в">
+<!ENTITY newmsgButton.label "Сообщение">
+<!ENTITY newmsgButton.accesskey "б">
+<!ENTITY deleteButton.label "Удалить">
+<!ENTITY deleteButton.accesskey "У">
+<!ENTITY newimButton.label "Мгновенное сообщение">
+<!ENTITY newimButton.accesskey "М">
+<!ENTITY stopButton.label ".Стоп">
+<!ENTITY searchButton.label ".Поиск">
+<!ENTITY showNames.label "Показать имена, содержащие:">
+<!ENTITY addressbookToolbar.tooltip "Панель адресной книги">
+<!ENTITY newcardButton.tooltip "Создание новой карточки адресной книги">
+<!ENTITY newlistButton.tooltip "Создание нового списка рассылки">
+<!ENTITY editButton.tooltip "Изменение выбранной карточки">
+<!ENTITY newmsgButton.tooltip "Создание сообщения">
+<!ENTITY newIM.tooltip "Отправить мгновенное сообщение или начать беседу">
+<!ENTITY deleteButton.tooltip "Удаление выбранной карточки или адресной книги">
+<!ENTITY stopButton.tooltip "Остановить текущую передачу данных">
+<!ENTITY searchButton.tooltip "Поиск в выбранной адресной книге">
+<!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
+<!ENTITY clearButton.tooltip "Очистить критерии поиска и показать все записи">
+<!ENTITY advancedButton.tooltip "Расширенный режим поиска адресов">
+<!ENTITY statusText.label "">
+<!ENTITY hideSwapFnLnUI "true">

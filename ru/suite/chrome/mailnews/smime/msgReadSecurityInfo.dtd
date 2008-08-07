@@ -1,0 +1,7 @@
+<!ENTITY status.label "Защита сообщения">
+<!ENTITY signatureCert.label "Просмотр сертификата ключа подписи">
+<!ENTITY encryptionCert.label "Просмотр сертификата ключа шифрования">
+<!ENTITY signer.name "Подписано:">
+<!ENTITY recipient.name "Зашифровано для:">
+<!ENTITY email.address "Адрес электронной почты:">
+<!ENTITY issuer.name "Сертификат выдан:">

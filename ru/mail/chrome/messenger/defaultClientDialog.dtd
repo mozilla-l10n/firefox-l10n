@@ -1,0 +1,7 @@
+<!ENTITY defaultClient.title "Клиент по умолчанию">
+<!ENTITY defaultClient.intro "Использовать &brandShortName; в качестве клиента по умолчанию для:">
+<!ENTITY email.label "Почты">
+<!ENTITY newsgroups.label "Групп новостей">
+<!ENTITY rss.label "Лент новостей">
+<!ENTITY checkOnStartup.label "Всегда производить эту проверку при запуске &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "В">

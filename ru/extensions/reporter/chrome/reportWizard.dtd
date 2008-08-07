@@ -1,0 +1,40 @@
+<!ENTITY reportWizard.title "Сообщить о некорректном веб-сайте">
+<!ENTITY privacyNotice.label "Политика приватности">
+<!ENTITY reportWizardPrivacy.description "Этот инструмент позволяет сообщить нам о веб-сайтах, некорректно работающих в &brandShortName; или отказывающихся работать в &brandShortName;. Это поможет нам в будущем улучшить работу с веб-страницами для пользователей &brandShortName;. Пожалуйста прочтите следующий текст, чтобы узнать, как будет использоваться собираемая информация, если вы согласитесь нам её передать.">
+<!ENTITY reportWizardMustAgree.description "Перед тем как продолжить, вам нужно прочесть политику приватности.">
+<!ENTITY dontShowPrivacyStatement.label "Я прочёл и полностью принимаю политику приватности.">
+<!ENTITY dontShowPrivacyStatement.accesskey "п">
+<!ENTITY reportForm.label "Заполнить отчёт">
+<!ENTITY reportForm.description "Вкратце расскажите нам о вашей проблеме:">
+<!ENTITY reportForm.url.title "URL веб-сайта:">
+<!ENTITY reportForm.url.accesskey "U">
+<!ENTITY reportForm.behind_login.title "Этот веб-сайт защищён паролем">
+<!ENTITY reportForm.behind_login.accesskey "п">
+<!ENTITY reportForm.problem_type.title "Тип проблемы:">
+<!ENTITY reportForm.problem_type.accesskey "о">
+<!ENTITY reportForm.problem_type.chooseOne.title "Выберите тип проблемы…">
+<!ENTITY reportForm.problem_type.item1.title "Браузер не поддерживается">
+<!ENTITY reportForm.problem_type.item2.title "Не удалось пройти авторизацию">
+<!ENTITY reportForm.problem_type.item3.title "Не отображается плагин">
+<!ENTITY reportForm.problem_type.item4.title "Потеряна часть содержимого">
+<!ENTITY reportForm.problem_type.item5.title "Страница функционирует неверно">
+<!ENTITY reportForm.problem_type.item6.title "Страница отображается неправильно">
+<!ENTITY reportForm.problem_type.item7.title "Другая проблема">
+<!ENTITY reportForm.problem_type.item8.title "Доступ для людей с ограниченными возможностями">
+<!ENTITY reportForm.problem_type.item9.title "Содержимое некорректно распечатано">
+<!ENTITY reportForm.describe.title "Опишите проблему:">
+<!ENTITY reportForm.describe.accesskey "О">
+<!ENTITY reportForm.platform.title "Платформа:">
+<!ENTITY reportForm.product.title "Продукт:">
+<!ENTITY reportForm.gecko.title "Версия движка Gecko:">
+<!ENTITY reportForm.useragent.title "Useragent:">
+<!ENTITY reportForm.language.title "Язык:">
+<!ENTITY reportForm.email.title "Адрес эл. почты (необяз.):">
+<!ENTITY reportForm.email.accesskey "т">
+<!ENTITY reportForm.privacyPolicy.title "Политика приватности">
+<!ENTITY reportForm.privacyPolicy.tooltip "Просмотреть политику приватности">
+<!ENTITY reportResults.showDetail.title "Показать детали">
+<!ENTITY reportResults.showDetail.accesskey "е">
+<!ENTITY sendReport.label "Отправляется сообщение">
+<!ENTITY sendReport.description "Производится отправка сообщения на сервер…">
+<!ENTITY finish.label "Сообщение отправлено">

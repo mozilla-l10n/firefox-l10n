@@ -1,0 +1,29 @@
+<!ENTITY copyAndFolderTitle.label "Копии и папки">
+<!ENTITY sendingPrefix.label "При отправлении сообщений автоматически:">
+<!ENTITY fccMailFolder.label "Поместить копию сообщения в:">
+<!ENTITY fccMailFolder.accesskey "П">
+<!ENTITY fccReplyFollowsParent.label "Сохранять ответы в папке оригинала">
+<!ENTITY fccReplyFollowsParent.accesskey "х">
+<!ENTITY chooseFolderButton.label "Выбрать папку…">
+<!ENTITY bccAddress.label "Отправлять скрытые копии по адресам:">
+<!ENTITY bccAddress.accesskey "к">
+<!ENTITY specialFolderTitle.label "Специальные папки">
+<!ENTITY draftMailFolder.label "Хранить черновики сообщений в:">
+<!ENTITY templateMailFolder.label "Хранить шаблоны сообщений в:">
+<!ENTITY saveMessageDlg.label "Запрашивать подтверждение при сохранении сообщений">
+<!ENTITY saveMessageDlg.accesskey "п">
+<!ENTITY sentFolderOn.label "папку «Отправленные» в:">
+<!ENTITY sentFolderOn.accesskey "О">
+<!ENTITY sentInOtherFolder.label "Другую папку:">
+<!ENTITY sentInOtherFolder.accesskey "у">
+<!ENTITY draftsFolderOn.label "папке «Черновики» в:">
+<!ENTITY draftsFolderOn.accesskey "Ч">
+<!ENTITY draftInOtherFolder.label "Другой папке:">
+<!ENTITY draftInOtherFolder.accesskey "Д">
+<!ENTITY templatesFolderOn.label "папке «Шаблоны» в:">
+<!ENTITY templatesFolderOn.accesskey "Ш">
+<!ENTITY templateInOtherFolder.label "Другой папке:">
+<!ENTITY templateInOtherFolder.accesskey "р">
+<!ENTITY specialFoldersTitle.label "Черновики и шаблоны">
+<!ENTITY keepDrafts.label "Хранить черновики сообщений в:">
+<!ENTITY keepTempltes.label "Хранить шаблоны сообщений в:">

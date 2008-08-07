@@ -1,0 +1,77 @@
+<!ENTITY generalTab.label "Общие">
+<!ENTITY accessibility.label "Расширенные возможности">
+<!ENTITY useCursorNavigation.label "Всегда использовать клавиши курсора для навигации по страницам">
+<!ENTITY useCursorNavigation.accesskey "к">
+<!ENTITY searchStartTyping.label "Искать текст на странице по мере его набора">
+<!ENTITY searchStartTyping.accesskey "И">
+<!ENTITY blockAutoRefresh.label "Предупреждать при попытке веб-сайтов перенаправить или перезагрузить страницу">
+<!ENTITY blockAutoRefresh.accesskey "р">
+<!ENTITY browsing.label "Просмотр сайтов">
+<!ENTITY useAutoScroll.label "Использовать автоматическую прокрутку">
+<!ENTITY useAutoScroll.accesskey "п">
+<!ENTITY useSmoothScrolling.label "Использовать плавную прокрутку">
+<!ENTITY useSmoothScrolling.accesskey "л">
+<!ENTITY checkSpelling.label "Проверять орфографию при наборе текста">
+<!ENTITY checkSpelling.accesskey "н">
+<!ENTITY systemDefaults.label "Браузер по умолчанию">
+<!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; браузером по умолчанию">
+<!ENTITY alwaysCheckDefault.accesskey "р">
+<!ENTITY checkNow.label "Проверить сейчас">
+<!ENTITY checkNow.accesskey "в">
+<!ENTITY networkTab.label "Сеть">
+<!ENTITY connection.label "Соединение">
+<!ENTITY connectionDesc.label "Настройте параметры соединения &brandShortName; с Интернет">
+<!ENTITY connectionSettings.label "Настроить…">
+<!ENTITY connectionSettings.accesskey "с">
+<!ENTITY offlineStorage.label "Автономное хранилище">
+<!ENTITY useCacheBefore.label "Использовать до">
+<!ENTITY useCacheBefore.accesskey "И">
+<!ENTITY useCacheAfter.label "МБ на диске для кэша">
+<!ENTITY clearCacheNow.label "Очистить сейчас">
+<!ENTITY clearCacheNow.accesskey "ч">
+<!ENTITY updateTab.label "Обновления">
+<!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
+<!ENTITY enableAppUpdate.label "Браузера &brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "у">
+<!ENTITY enableAddonsUpdate.label "Установленных дополнений">
+<!ENTITY enableAddonsUpdate.accesskey "о">
+<!ENTITY enableSearchUpdate.label "Поисковых плагинов">
+<!ENTITY enableSearchUpdate.accesskey "п">
+<!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">
+<!ENTITY askMe.label "Предоставлять выбор действия пользователю">
+<!ENTITY askMe.accesskey "в">
+<!ENTITY modeAutomatic.label "Автоматически загружать и устанавливать обновления">
+<!ENTITY modeAutomatic.accesskey "А">
+<!ENTITY modeAutoAddonWarn.label "Предупреждать, если при данном действии будут отключены какие-либо дополнения">
+<!ENTITY modeAutoAddonWarn.accesskey "П">
+<!ENTITY updateHistory.label "Показать журнал обновлений">
+<!ENTITY updateHistory.accesskey "ж">
+<!ENTITY offlineNotify.label "Информировать, когда веб-сайт просит разрешения сохранить данные для использования в автономном режиме">
+<!ENTITY offlineNotify.accesskey "ф">
+<!ENTITY offlineNotifyExceptions.label "Исключения…">
+<!ENTITY offlineNotifyExceptions.accesskey "к">
+<!ENTITY offlineAppsList.label "Следующие веб-сайты сохранили данные для работы в автономном режиме:">
+<!ENTITY offlineAppsList.height "10em">
+<!ENTITY offlineAppsListRemove.label "Удалить…">
+<!ENTITY offlineAppsListRemove.accesskey "д">
+<!ENTITY offlineAppRemove.confirm "Удалить данные автономных веб-сайтов">
+<!ENTITY encryptionTab.label "Шифрование">
+<!ENTITY protocols.label "Протоколы">
+<!ENTITY useSSL3.label "Использовать SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Использовать TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Сертификаты">
+<!ENTITY certSelection.description "Когда сервер запрашивает мой личный сертификат:">
+<!ENTITY certs.auto "Отправлять автоматически">
+<!ENTITY certs.auto.accesskey "а">
+<!ENTITY certs.ask "Спрашивать каждый раз">
+<!ENTITY certs.ask.accesskey "к">
+<!ENTITY viewCerts.label "Просмотр сертификатов">
+<!ENTITY viewCerts.accesskey "с">
+<!ENTITY viewCRLs.label "Управление CRL">
+<!ENTITY viewCRLs.accesskey "У">
+<!ENTITY verify2.label "Настройки OCSP">
+<!ENTITY verify2.accesskey "а">
+<!ENTITY viewSecurityDevices.label "Устройства защиты">
+<!ENTITY viewSecurityDevices.accesskey "з">

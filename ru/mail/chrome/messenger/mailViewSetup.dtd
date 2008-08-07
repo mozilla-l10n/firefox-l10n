@@ -1,0 +1,4 @@
+<!ENTITY mailViewSetupTitle.label "Параметры режима просмотра сообщений">
+<!ENTITY mailViewHeading.label "Режим просмотра сообщений:">
+<!ENTITY mailViewHeading.accesskey "м">
+<!ENTITY searchTermCaption.label "Если выбран этот режим просмотра, показывать только сообщения, соответствующие:">

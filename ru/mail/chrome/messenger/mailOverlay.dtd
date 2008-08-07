@@ -1,0 +1,6 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Сообщение">
+<!ENTITY newMessageCmd.accesskey "б">
+<!ENTITY newCardCmd.label "Карточку адресной книги…">
+<!ENTITY newCardCmd.accesskey "К">

@@ -1,0 +1,11 @@
+<!ENTITY accountTitle.label "Параметры учётной записи">
+<!ENTITY accountSettingsDesc.label "Эта учётная запись особенная. С ней не связаны никакие персональные данные.">
+<!ENTITY accountName.label "Имя учётной записи:">
+<!ENTITY accountName.accesskey "И">
+<!ENTITY messageStorage.label "Хранилище сообщений">
+<!ENTITY emptyTrashOnExit.label "Очищать при выходе папку «Удалённые»">
+<!ENTITY emptyTrashOnExit.accesskey "О">
+<!ENTITY localPath.label "Локальный каталог:">
+<!ENTITY localFolderPicker.label "Расположение локальных папок">
+<!ENTITY browseFolder.label "Обзор…">
+<!ENTITY browseFolder.accesskey "б">

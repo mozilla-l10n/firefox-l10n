@@ -1,0 +1,3 @@
+The dictionary is licensed under GPL, LGPL, MPL (Mozilla Public License) 
+and a Creative Commons ShareAlike License
+(see http://creativecommons.org/licenses/sa/1.0).

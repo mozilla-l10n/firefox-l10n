@@ -1,0 +1,16 @@
+<!ENTITY smtpServer.label "Параметры сервера исходящей почты (SMTP)">
+<!ENTITY smtpDesc.label "Несмотря на то, что возможно использование нескольких SMTP-серверов, это рекомендуется делать только опытным пользователям. Настройка множества серверов может повлечь за собой ошибки при отправке почты.">
+<!ENTITY smtpListAdd.label "Добавить…">
+<!ENTITY smtpListAdd.accesskey "Д">
+<!ENTITY smtpListEdit.label "Изменить…">
+<!ENTITY smtpListEdit.accesskey "И">
+<!ENTITY smtpListDelete.label "Удалить">
+<!ENTITY smtpListDelete.accesskey "У">
+<!ENTITY smtpListSetDefault.label "По умолчанию">
+<!ENTITY smtpListSetDefault.accesskey "П">
+<!ENTITY serverDescription.label "Описание:">
+<!ENTITY serverName.label "Имя сервера">
+<!ENTITY serverPort.label "Порт:">
+<!ENTITY userName.label "Имя пользователя:">
+<!ENTITY useSecureConnection.label "Защищённое соединение:">
+<!ENTITY useSecureAuthentication.label "Защищённая аутентификация:">

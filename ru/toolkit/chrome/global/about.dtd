@@ -1,0 +1,14 @@
+<!ENTITY about.version "версия">
+<!ENTITY about.copy.beforeLink "Copyright &copy; 1998–2008">
+<!ENTITY about.copy.linkTitle "Люди внесшие свой вклад">
+<!ENTITY about.copy.afterLink "в проект Mozilla.">
+<!ENTITY about.license.beforeLink "Прочитать">
+<!ENTITY about.license.linkTitle "информацию о лицензии">
+<!ENTITY about.license.afterLink "используемой для этого продукта.">
+<!ENTITY about.relnotes.beforeLink "Прочитать">
+<!ENTITY about.relnotes.linkTitle "примечания к выпуску">
+<!ENTITY about.relnotes.afterLink "этой версии продукта.">
+<!ENTITY about.buildconfig.beforeLink "Просмотреть">
+<!ENTITY about.buildconfig.linkTitle "конфигурацию сборки">
+<!ENTITY about.buildconfig.afterLink "используемую в этой версии.">
+<!ENTITY about.buildIdentifier "Идентификатор сборки:">

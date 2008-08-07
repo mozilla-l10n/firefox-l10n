@@ -1,0 +1,4 @@
+<!ENTITY appManager.title "Сведения о приложении">
+<!ENTITY appManager.style "width: 40ch; min-height: 20em;">
+<!ENTITY remove.label "Удалить">
+<!ENTITY remove.accesskey "д">

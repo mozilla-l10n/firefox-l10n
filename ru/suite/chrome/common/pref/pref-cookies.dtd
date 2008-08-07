@@ -1,0 +1,24 @@
+<!ENTITY pref.cookies.title "Cookies">
+<!ENTITY cookiePolicy.label "Политика принятия cookies">
+<!ENTITY accAllCookiesRadio.label "Принимать все cookies">
+<!ENTITY accAllCookiesRadio.accesskey "р">
+<!ENTITY accOrgCookiesRadio.label "Принимать только собственные cookies серверов">
+<!ENTITY accOrgCookiesRadio.accesskey "т">
+<!ENTITY disableCookies.label "Не принимать cookies">
+<!ENTITY disableCookies.accesskey "Н">
+<!ENTITY cookieRetentionPolicy.label "Политика хранения cookies">
+<!ENTITY acceptNormally.label "Принимать как обычно">
+<!ENTITY acceptNormally.accesskey "к">
+<!ENTITY acceptForSession.label "Принимать только на время текущего сеанса">
+<!ENTITY acceptForSession.accesskey "а">
+<!ENTITY acceptforNDays.label "Принимать cookies на">
+<!ENTITY acceptforNDays.accesskey "м">
+<!ENTITY days.label "дней">
+<!ENTITY warnAboutCookies.label "Запрашивать подтверждение для всех cookies">
+<!ENTITY warnAboutCookies.accesskey "З">
+<!ENTITY forCurrentSession.label "за исключением сеансовых cookies">
+<!ENTITY forCurrentSession.accesskey "л">
+<!ENTITY manageCookies.label "Управление сайтами и cookies">
+<!ENTITY manageCookiesDescription.label "Здесь вы можете просматривать и упорядочивать сохранённые cookies и настройки принятия или отклонения cookies для отдельных сайтов. Настройки отдельных сайтов перекрывают указанные выше настройки.">
+<!ENTITY viewCookies.label "Менеджер cookies">
+<!ENTITY viewCookies.accesskey "М">

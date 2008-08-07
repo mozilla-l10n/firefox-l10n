@@ -1,0 +1,16 @@
+<!ENTITY addressbookPicker.label "Адресная книга:">
+<!ENTITY addressbookPicker.accesskey "н">
+<!ENTITY searchInput.label "Поиск:">
+<!ENTITY searchInput.accesskey "и">
+<!ENTITY SearchNameOrEmail.label "Имя или e-mail адрес">
+<!ENTITY deleteAddrBookCard.label "Удалить">
+<!ENTITY addrBookCardProperties.label "Свойства">
+<!ENTITY addtoToFieldMenu.label "Кому">
+<!ENTITY addtoCcFieldMenu.label "Копия">
+<!ENTITY addtoBccFieldMenu.label "Скрытая копия">
+<!ENTITY toButton.label "Кому:">
+<!ENTITY toButton.accesskey "о">
+<!ENTITY ccButton.label "Копия:">
+<!ENTITY ccButton.accesskey "п">
+<!ENTITY bccButton.label "Скрытая копия:">
+<!ENTITY bccButton.accesskey "р">

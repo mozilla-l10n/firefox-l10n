@@ -1,0 +1,20 @@
+<!ENTITY pref.smartUpdate.title "Установка программного обеспечения">
+<!ENTITY smartTitle.label "Управление установкой и обновлением программного обеспечения">
+<!ENTITY enableSU.label "Разрешить веб-сайтам устанавливать расширения и обновления">
+<!ENTITY enableSU.accesskey "в">
+<!ENTITY allowedSites.label "Разрешённые сайты">
+<!ENTITY allowedSites.accesskey "з">
+<!ENTITY verifyUpdates.caption "Обновления">
+<!ENTITY autoUpdates.label "Автоматически проверять наличие обновлений для:">
+<!ENTITY appUpdates.label "&brandShortName;">
+<!ENTITY appUpdates.accesskey "S">
+<!ENTITY daily.label "ежедневно">
+<!ENTITY appDaily.accesskey "д">
+<!ENTITY weekly.label "еженедельно">
+<!ENTITY appWeekly.accesskey "н">
+<!ENTITY extensionsUpdates.label "Установленных дополнений">
+<!ENTITY extensionsUpdates.accesskey "д">
+<!ENTITY extensionsDaily.accesskey "е">
+<!ENTITY extensionsWeekly.accesskey "л">
+<!ENTITY addonManagerButton.label "Менеджер дополнений">
+<!ENTITY addonManagerButton.accesskey "д">

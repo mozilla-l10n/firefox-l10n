@@ -1,0 +1,19 @@
+<!ENTITY pref.images.title "Изображения">
+<!ENTITY imageBlocking.label "Политика загрузки изображений">
+<!ENTITY imageDetails "Укажите, что &brandShortName; следует делать с изображениями.">
+<!ENTITY accAllImagesRadio.label "Загружать все изображения">
+<!ENTITY accAllImagesRadio.accesskey "З">
+<!ENTITY accOrgImagesRadio.label "Загружать только собственные изображения сервера">
+<!ENTITY accOrgImagesRadio.accesskey "т">
+<!ENTITY disableImages.label "Не загружать изображения">
+<!ENTITY disableImages.accesskey "Н">
+<!ENTITY viewImagesExplanation.label "Просмотр списка сайтов, для которых есть информация о правах на загрузку изображений">
+<!ENTITY viewImages.label "Упорядочить права на загрузку изображений">
+<!ENTITY viewImages.accesskey "У">
+<!ENTITY animLoopingTitle.label "Проигрывать анимацию">
+<!ENTITY animLoopAsSpecified.label "Проигрывать анимацию столько раз, сколько указано в изображении">
+<!ENTITY animLoopAsSpecified.accesskey "П">
+<!ENTITY animLoopOnce.label "Один раз">
+<!ENTITY animLoopOnce.accesskey "о">
+<!ENTITY animLoopNever.label "Никогда">
+<!ENTITY animLoopNever.accesskey "и">

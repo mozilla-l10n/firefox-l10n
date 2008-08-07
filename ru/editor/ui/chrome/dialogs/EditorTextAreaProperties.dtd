@@ -1,0 +1,62 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Text Area Properties Dialog.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
+   -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY windowTitle.label "Свойства текстового поля">
+<!ENTITY Settings.label "Параметры">
+<!ENTITY TextAreaName.label "Имя поля:">
+<!ENTITY TextAreaName.accessKey "И">
+<!ENTITY TextAreaRows.label "Строк:">
+<!ENTITY TextAreaRows.accessKey "С">
+<!ENTITY TextAreaCols.label "Символов в строке:">
+<!ENTITY TextAreaCols.accessKey "м">
+<!ENTITY TextAreaReadOnly.label "Только для чтения">
+<!ENTITY TextAreaReadOnly.accessKey "Т">
+<!ENTITY TextAreaDisabled.label "Отключено">
+<!ENTITY TextAreaDisabled.accessKey "О">
+<!ENTITY TextAreaTabIndex.label "Последовательность перехода:">
+<!ENTITY TextAreaTabIndex.accessKey "л">
+<!ENTITY TextAreaAccessKey.label "Клавиша доступа:">
+<!ENTITY TextAreaAccessKey.accessKey "К">
+<!ENTITY InitialText.label "Первоначальный текст:">
+<!ENTITY InitialText.accessKey "е">
+<!ENTITY TextAreaWrap.label "Режим переноса:">
+<!ENTITY TextAreaWrap.accessKey "Р">
+<!ENTITY WrapDefault.value "По умолчанию">
+<!ENTITY WrapOff.value "Отключён">
+<!ENTITY WrapHard.value "Жесткий">
+<!ENTITY WrapSoft.value "Мягкий">
+<!ENTITY WrapPhysical.value "Физический">
+<!ENTITY WrapVirtual.value "Виртуальный">

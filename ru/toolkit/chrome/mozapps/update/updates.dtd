@@ -1,0 +1,49 @@
+<!ENTITY updateWizard.title "Обновление программного обеспечения">
+<!ENTITY window.width "46em">
+<!ENTITY window.macWidth "49em">
+<!ENTITY checking.title "Идёт проверка наличия обновлений…">
+<!ENTITY checking.label "&brandShortName; проверяет наличие обновлений…">
+<!ENTITY cancel.label "Отмена">
+<!ENTITY cancel.accesskey "н">
+<!ENTITY noupdatesfound.title "Обновления отсутствуют">
+<!ENTITY noupdatesfound.intro "Обновления отсутствуют. &brandShortName; может периодически проверять наличие обновлений.">
+<!ENTITY incompatibleChecking.label "Идет проверка, не вызовет ли это обновление проблемы с установленными у вас расширениями и/или темами…">
+<!ENTITY clickHere.label "Просмотреть более подробную информацию об этом обновлении">
+<!ENTITY incompatible.warning "Это обновление приведёт к тому, что некоторые из ваших дополнений перестанут работать до тех пор, пока они не будут обновлены.">
+<!ENTITY listIncompatible.label "Отобразить список">
+<!ENTITY listIncompatible.accesskey "с">
+<!ENTITY upgrade.evangelism "Настоятельно рекомендуется как можно скорее обновить &brandShortName;.">
+<!ENTITY license.instructions "Если вы согласны с условиями этого лицензионного соглашения, выберите ниже «Я согласен» для продолжения установки данного обновления.">
+<!ENTITY license.titleText "Лицензионное соглашение">
+<!ENTITY license.introText "Правила и условия использования этой программы.">
+<!ENTITY license.instructionText "Пожалуйста, прочитайте следующее лицензионное соглашение. Для просмотра остальной части документа используйте полосу прокрутки.">
+<!ENTITY license.accept "Я принимаю условия Лицензионного соглашения">
+<!ENTITY license.accept.accesskey "п">
+<!ENTITY license.decline "Я НЕ принимаю условия Лицензионного соглашения">
+<!ENTITY license.decline.accesskey "Н">
+<!ENTITY downloading.title "Загрузка обновления">
+<!ENTITY downloading.intro "Идёт загрузка обновления…">
+<!ENTITY connecting.label "Соединение с сервером обновлений…">
+<!ENTITY verificationFailedText.label "&brandShortName; не удалось удостовериться в целостности загруженного частичного обновления, поэтому он загружает полное обновление.">
+<!ENTITY details.link "Подробности">
+<!ENTITY pause.label "Приостановить">
+<!ENTITY pause.accesskey "о">
+<!ENTITY close.label "Закрыть">
+<!ENTITY close.accesskey "а">
+<!ENTITY error.label "При проверке, загрузке или установке этого обновления возникли проблемы. &brandShortName; не был обновлен по следующей причине:">
+<!ENTITY errorManual.label "Вы можете обновить &brandShortName; вручную, перейдя по следующей ссылке и загрузив его последнюю версию:">
+<!ENTITY errorpatching.title "Обновление не удалось">
+<!ENTITY errorpatching.intro "Частичное обновление не может быть установлено. &brandShortName; попытается установить обновление, загрузив полное обновление.">
+<!ENTITY finished.title "Обновление загружено">
+<!ENTITY finished.text "Обновление было успешно загружено и проверено, и будет установлено при следующем запуске &brandShortName;.">
+<!ENTITY finishedBackground.title "Обновление готово для установки">
+<!ENTITY finishedBackground.text "&brandShortName; загрузил и проверил важное обновление. Щёлкните по приведённой ниже ссылке для получения более подробной информации.">
+<!ENTITY finishedBackground.name "Обновление:">
+<!ENTITY finishedBackground.more1 "Нажмите «Перезапустить &brandShortName; Сейчас», чтобы установить обновление прямо сейчас.">
+<!ENTITY finishedBackground.textNotNow "Нажмите «Не сейчас», чтобы закрыть это диалоговое окно и продолжить работу. &brandShortName; установит обновление при своем следующем запуске.">
+<!ENTITY installed.title "Обновление установлено">
+<!ENTITY installed.intro "Обновление было успешно установлено.">
+<!ENTITY whatsnew.label "Изменения в новой версии…">
+<!ENTITY update.details.label "Подробности">
+<!ENTITY update.installedOn.label "Установлено:">
+<!ENTITY update.status.label "Статус:">

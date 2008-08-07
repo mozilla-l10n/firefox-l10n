@@ -1,0 +1,77 @@
+<!ENTITY securitySettings.label "Настройки защиты">
+<!ENTITY serverSettings.label "Параметры сервера">
+<!ENTITY popServer.label "POP3-сервер">
+<!ENTITY imapServer.label "IMAP-сервер">
+<!ENTITY newsServer.label "Сервер новостей (NNTP)">
+<!ENTITY webmail.label "Учётная запись WebMail">
+<!ENTITY serverType.label "Тип сервера:">
+<!ENTITY serverName.label "Имя сервера:">
+<!ENTITY serverName.accesskey "И">
+<!ENTITY userName.label "Имя пользователя:">
+<!ENTITY userName.accesskey "м">
+<!ENTITY port.label "Порт:">
+<!ENTITY port.accesskey "р">
+<!ENTITY serverPortDefault.label "По умолчанию:">
+<!ENTITY savePassword.label "Сохранить пароль">
+<!ENTITY biffStart.label "Проверять наличие новых сообщений каждые ">
+<!ENTITY biffStart.accesskey "к">
+<!ENTITY biffEnd.label "минут">
+<!ENTITY isSecure.label "Использовать защищённое соединение (SSL)">
+<!ENTITY isSecure.accesskey "з">
+<!ENTITY socketType.label "Использовать защищённое соединение:">
+<!ENTITY neverSecure.label "Никогда">
+<!ENTITY neverSecure.accesskey "Н">
+<!ENTITY sometimesSecure.label "TLS, по возможности">
+<!ENTITY sometimesSecure.accesskey "в">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Использовать защищённую аутентификацию">
+<!ENTITY useSecAuth.accesskey "с">
+<!ENTITY leaveOnServer.label "Оставлять копии сообщений на сервере">
+<!ENTITY leaveOnServer.accesskey "т">
+<!ENTITY headersOnly.label "Загружать только заголовки сообщений">
+<!ENTITY headersOnly.accesskey "з">
+<!ENTITY deleteByAgeFromServer.label "Не более">
+<!ENTITY deleteByAgeFromServer.accesskey "е">
+<!ENTITY daysEnd.label "дней">
+<!ENTITY deleteOnServer2.label "Пока я не удалю их">
+<!ENTITY deleteOnServer2.accesskey "у">
+<!ENTITY downloadOnBiff.label "Автоматически загружать новые сообщения">
+<!ENTITY downloadOnBiff.accesskey "А">
+<!ENTITY hostname.label "Сетевое имя сервера">
+<!ENTITY username.label "Ваше регистрационное имя">
+<!ENTITY popServerTitle.label "Информация о POP3-сервере">
+<!ENTITY deleteMessagePrefix.label "При удалении сообщения:">
+<!ENTITY modelMoveToTrash.label "Переместить его в папку:">
+<!ENTITY modelMoveToTrash.accesskey "п">
+<!ENTITY modelMarkDeleted.label "Отметить его как удалённое">
+<!ENTITY modelMarkDeleted.accesskey "у">
+<!ENTITY modelDeleteImmediately.label "Удалить его сразу">
+<!ENTITY modelDeleteImmediately.accesskey "р">
+<!ENTITY expungeOnExit.label "Сжимать при выходе папку «Входящие»">
+<!ENTITY expungeOnExit.accesskey "ж">
+<!ENTITY emptyTrashOnExit.label "Очищать при выходе папку «Удалённые»">
+<!ENTITY emptyTrashOnExit.accesskey "О">
+<!ENTITY loginAtStartup.label "Проверять почту при запуске">
+<!ENTITY loginAtStartup.accesskey "П">
+<!ENTITY maxMessagesStart.label "Спрашивать перед загрузкой более чем">
+<!ENTITY maxMessagesStart.accesskey "б">
+<!ENTITY maxMessagesEnd.label "сообщений">
+<!ENTITY alwaysAuthenticate.label "Всегда проводить аутентификацию при подключении к этому серверу">
+<!ENTITY alwaysAuthenticate.accesskey "В">
+<!ENTITY newsrcFilePath.label "файл newsrc:">
+<!ENTITY localPath.label "Локальный каталог:">
+<!ENTITY abbreviate.label "Показывать имена групп новостей:">
+<!ENTITY abbreviateOn.label "Полностью (например «netscape.public.mozilla.mail-news»)">
+<!ENTITY abbreviateOff.label "Аббревиатурой (например «n.p.m.mail-news»)">
+<!ENTITY advancedButton.label "Дополнительно…">
+<!ENTITY serverDefaultCharset.label "Кодировка по умолчанию:">
+<!ENTITY advancedButton.accesskey "Д">
+<!ENTITY localFolderPicker.label "Расположение локальных папок">
+<!ENTITY browseFolder.label "Обзор…">
+<!ENTITY browseFolder.accesskey "б">
+<!ENTITY newsrcPicker.label "Выбрать файл newsrc">
+<!ENTITY browseNewsrc.label "Обзор…">
+<!ENTITY browseNewsrc.accesskey "О">

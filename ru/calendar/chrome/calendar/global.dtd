@@ -1,0 +1,114 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY time.midnight "Полночь" >
+<!ENTITY time.1 "01:00" >
+<!ENTITY time.2 "02:00" >
+<!ENTITY time.3 "03:00" >
+<!ENTITY time.4 "04:00" >
+<!ENTITY time.5 "05:00" >
+<!ENTITY time.6 "06:00" >
+<!ENTITY time.7 "07:00" >
+<!ENTITY time.8 "08:00" >
+<!ENTITY time.9 "09:00" >
+<!ENTITY time.10 "10:00" >
+<!ENTITY time.11 "11:00" >
+<!ENTITY time.noon "Полдень" >
+<!ENTITY time.13 "13:00" >
+<!ENTITY time.14 "14:00" >
+<!ENTITY time.15 "15:00" >
+<!ENTITY time.16 "16:00" >
+<!ENTITY time.17 "17:00" >
+<!ENTITY time.18 "18:00" >
+<!ENTITY time.19 "19:00" >
+<!ENTITY time.20 "20:00" >
+<!ENTITY time.21 "21:00" >
+<!ENTITY time.22 "22:00" >
+<!ENTITY time.23 "23:00" >
+
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
+<!ENTITY day.1.Ddd "Вс" >
+<!ENTITY day.1.Ddd.accesskey "В">
+<!ENTITY day.2.Ddd "Пн">
+<!ENTITY day.2.Ddd.accesskey "н">
+<!ENTITY day.3.Ddd "Вт" >
+<!ENTITY day.3.Ddd.accesskey "т">
+<!ENTITY day.4.Ddd "Ср" >
+<!ENTITY day.4.Ddd.accesskey "р">
+<!ENTITY day.5.Ddd "Чт" >
+<!ENTITY day.5.Ddd.accesskey "Ч">
+<!ENTITY day.6.Ddd "Пт" >
+<!ENTITY day.6.Ddd.accesskey "П">
+<!ENTITY day.7.Ddd "Сб" >
+<!ENTITY day.7.Ddd.accesskey "С">
+
+<!ENTITY day.1.name "Воскресенье" >
+<!ENTITY day.2.name "Понедельник" >
+<!ENTITY day.3.name "Вторник" >
+<!ENTITY day.4.name "Среда" >
+<!ENTITY day.5.name "Четверг" >
+<!ENTITY day.6.name "Пятница" >
+<!ENTITY day.7.name "Суббота" >
+
+<!-- Units -->
+<!ENTITY calendar.global.units.minute   "минута">
+<!ENTITY calendar.global.units.minutes  "минуты">
+<!ENTITY calendar.global.units.hour     "час">
+<!ENTITY calendar.global.units.hours    "часы">
+<!ENTITY calendar.global.units.day      "день">
+<!ENTITY calendar.global.units.days     "дни">
+
+<!ENTITY month.1.name "Января" >
+<!ENTITY month.2.name "Февраля" >
+<!ENTITY month.3.name "Марта" >
+<!ENTITY month.4.name "Апреля" >
+<!ENTITY month.5.name "Мая" >
+<!ENTITY month.6.name "Июня" >
+<!ENTITY month.7.name "Июля" >
+<!ENTITY month.8.name "Августа" >
+<!ENTITY month.9.name "Сентября" >
+<!ENTITY month.10.name "Октября" >
+<!ENTITY month.11.name "Ноября" >
+<!ENTITY month.12.name "Декабря" >
+
+<!ENTITY onemonthbackward.tooltip "Один месяц назад" >
+<!ENTITY onemonthforward.tooltip "Один месяц вперед" >
+<!ENTITY showToday.tooltip "Перейти на сегодня">
+<!ENTITY onedayforward.tooltip "Один день вперед">
+<!ENTITY onedaybackward.tooltip "Один день назад">
+<!ENTITY showselectedday.tooltip "Показать события на выбранный день">

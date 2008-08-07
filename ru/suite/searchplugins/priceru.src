@@ -1,0 +1,48 @@
+# Mycroft Search Plugin for Mozilla, Firebird, Netscape 6+, Beonix browsers 
+# Mycroft Homepage: http://mycroft.mozdev.org
+# SearchSite: Price.ru (www.price.ru)
+# Status: Working Semi
+#
+# Original Author: Anton Noginov
+# Created: 27 Jan, 2004
+#
+# Country: RU
+# Language: ru
+# Category: Shopping
+#
+# Known issues: None.
+#
+
+<search 
+	name="Price.ru"
+	description="Price.ru Search"
+	method="GET"
+	action="http://www.price.ru/bin/price/ctgrlist"
+	searchform="http://www.price.ru/bin/price/ctgrlist"
+	queryCharset="windows-1251"
+>
+
+<input name="where" value="00">
+<input name="pnam" user>
+<input name="base" value="1">
+<input name="fair" value="1">
+<input name="plan" value="7">
+<input name="realm" value="rozn">
+<input name="sort" value="1">
+<input name="dsbl" value="0"> 
+<input name="sourceid" value="Mozilla-search">
+
+# Section crippled to prevent spurious parsing in Mozilla
+<interpret
+    browserResultType="result"
+    resultListStart="</body>"
+    resultListEnd="</html>"
+>
+
+</search>
+
+<browser
+    update="https://addons.mozilla.org/searchplugins/updates/priceru.src"
+    updateIcon="https://addons.mozilla.org/searchplugins/updates/priceru.png"
+    updateCheckDays="3"
+>

@@ -1,0 +1,42 @@
+<!--null-->
+<!ENTITY pref.viewing.messages.title "Отображение сообщений">
+<!ENTITY style.label "Стиль:">
+<!ENTITY style.accesskey "С">
+<!ENTITY regular.label "Обычный">
+<!ENTITY bold.label "Полужирный">
+<!ENTITY italic.label "Курсив">
+<!ENTITY boldItalic.label "Полужирный курсив">
+<!ENTITY size.label "Размер:">
+<!ENTITY size.accesskey "Р">
+<!ENTITY bigger.label "Больше">
+<!ENTITY smaller.label "Меньше">
+<!ENTITY color.label "Цвет:">
+<!ENTITY color.accesskey "Ц">
+<!ENTITY displayPlainText.caption "Сообщения в текстовом формате">
+<!ENTITY plainTextFont.label "Использовать следующую ширину шрифта:">
+<!ENTITY displayQuoted.label "Настройки цитирования сообщений:">
+<!ENTITY fixedWidth.label "Моноширинный">
+<!ENTITY fixedWidth.accesskey "М">
+<!ENTITY variableWidth.label "Пропорциональный">
+<!ENTITY variableWidth.accesskey "П">
+<!ENTITY readingMessagesHeader.label "Для входящих сообщений">
+<!ENTITY messageWrapping.label "Ширина текста">
+<!ENTITY wrapInMsg.label "Переносить текст по достижении ширины окна">
+<!ENTITY wrapInMsg.accesskey "ш">
+<!ENTITY convertEmoticons.label "Отображать смайлики как графику">
+<!ENTITY convertEmoticons.accesskey "б">
+<!ENTITY generalMessageDisplay.caption "Основные">
+<!ENTITY autoMarkAsRead.label "Автоматически отмечать сообщения как прочитанные">
+<!ENTITY autoMarkAsRead.accesskey "в">
+<!ENTITY markAsReadNoDelay.label "Немедленно при просмотре">
+<!ENTITY markAsReadNoDelay.accesskey "м">
+<!ENTITY markAsReadDelay.label "После просмотра в течение">
+<!ENTITY markAsReadDelay.accesskey "с">
+<!ENTITY secondsLabel.label "сек.">
+<!ENTITY openingMessages.label "При открытии сообщений отображать их в: ">
+<!ENTITY newWindowRadio.label "Новом окне сообщения">
+<!ENTITY newWindowRadio.accesskey "Н">
+<!ENTITY existingWindowRadio.label "Существующем окне сообщения">
+<!ENTITY existingWindowRadio.accesskey "С">
+<!ENTITY disableContent.label "Блокировать загрузку изображений и другого содержимого из Интернета">
+<!ENTITY disableContent.accesskey "з">

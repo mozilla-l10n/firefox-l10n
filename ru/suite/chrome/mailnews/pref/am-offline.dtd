@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Чтобы сэкономить дисковое пространство, не загружать:">
+<!ENTITY doNotDownload.label "Чтобы сэкономить дисковое пространство, не загружать для работы в автономном режиме:">
+<!ENTITY offlineNewFolder.label "При создании новых папок выбирать их для работы в автономном режиме">
+<!ENTITY offlineNewFolder.accesskey "П">
+<!ENTITY offlineNotDownload.label "Сообщения размером более">
+<!ENTITY offlineNotDownload.accesskey "б">
+<!ENTITY kb.label "КБ">
+<!ENTITY days.label "дней">
+<!ENTITY daysOld.label "дней">
+<!ENTITY message.label "сообщений">
+<!ENTITY nntpNotDownloadRead.label "Загружать только непрочитанные сообщения">
+<!ENTITY nntpNotDownloadRead.accesskey "и">
+<!ENTITY nntpDownloadMsg.label "Загружать сообщения только за последние">
+<!ENTITY nntpDownloadMsg.accesskey "с">
+<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть удалены">
+<!ENTITY retentionKeepMsg.label "Удалять сообщения старше">
+<!ENTITY retentionKeepMsg.accesskey "с">
+<!ENTITY retentionKeepAll.label "Не удалять сообщения">
+<!ENTITY retentionKeepAll.accesskey "е">
+<!ENTITY retentionKeepNew.label "Удалять все, кроме последних">
+<!ENTITY retentionKeepNew.accesskey "п">
+<!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
+<!ENTITY retentionKeepUnread.accesskey "ч">
+<!ENTITY nntpRemoveBody.label "Удалять только те сообщения, которые хранятся дольше чем">
+<!ENTITY nntpRemoveBody.accesskey "У">
+<!ENTITY offlineSelectNntp.label "Выбрать группы новостей, доступные в автономном режиме…">
+<!ENTITY offlineSelectNntp.accesskey "ы">
+<!ENTITY offlineSelectImap.label "Выбрать папки, доступные в автономном режиме…">
+<!ENTITY offlineSelectImap.accesskey "ы">
+<!ENTITY offlineDesc.label "Вы можете загрузить сообщения для работы в автономном режиме.">
+<!ENTITY makeInboxMsgsAvailable.label "Сделать сообщения в папке «Входящие» доступными для автономной работы.">
+<!ENTITY makeInboxMsgsAvailable.accesskey "л">
+<!ENTITY offlineGroupTitle.label "Автономная работа">
+<!ENTITY diskspaceGroupTitle.label "Дисковое пространство">

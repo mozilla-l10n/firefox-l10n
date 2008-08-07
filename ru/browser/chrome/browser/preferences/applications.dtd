@@ -1,0 +1,10 @@
+<!ENTITY typeColumn.label "Тип содержимого">
+<!ENTITY typeColumn.accesskey "о">
+<!ENTITY actionColumn2.label "Действие">
+<!ENTITY actionColumn2.accesskey "е">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.label "Поиск:">
+<!ENTITY filter.accesskey "и">
+<!ENTITY clear.label "Очистить">
+<!ENTITY clear.accesskey "ч">

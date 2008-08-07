@@ -1,0 +1,31 @@
+<!ENTITY serverAdvanced.label "Дополнительные параметры учётной записи">
+<!ENTITY imapAdvanced.label "Дополнительные параметры IMAP-сервера">
+<!ENTITY serverDirectory.label "Каталог IMAP-сервера:">
+<!ENTITY serverDirectory.accesskey "К">
+<!ENTITY usingSubscription.label "Показывать только папки на которые вы подписаны">
+<!ENTITY usingSubscription.accesskey "П">
+<!ENTITY dualUseFolders.label "Сервер поддерживает папки, содержащие вложенные папки и сообщения">
+<!ENTITY dualUseFolders.accesskey "е">
+<!ENTITY useIdle.label "Использовать команду IDLE, если её поддерживает сервер">
+<!ENTITY useIdle.accesskey "И">
+<!ENTITY maximumConnectionsNumber.label "Максимальное число кэшируемых соединений">
+<!ENTITY maximumConnectionsNumber.accesskey "М">
+<!ENTITY namespaceDesc.label "Эти настройки определяют пространства имён на вашем IMAP-сервере">
+<!ENTITY personalNamespace.label "Личное пространство имён:">
+<!ENTITY personalNamespace.accesskey "Л">
+<!ENTITY publicNamespace.label "Общее (совместно используемое):">
+<!ENTITY publicNamespace.accesskey "О">
+<!ENTITY otherUsersNamespace.label "Другие пользователи:">
+<!ENTITY otherUsersNamespace.accesskey "Д">
+<!ENTITY overrideNamespaces.label "Разрешить серверу перекрывать эти пространства имён">
+<!ENTITY overrideNamespaces.accesskey "Р">
+<!ENTITY pop3Desc.label "При получении почты c данного сервера POP3, помещать её в следующую папку:">
+<!ENTITY folderStorage.label "Где хранить почту">
+<!ENTITY globalInbox.label "Общая папка «Входящие» (находится в «Локальных папках»)">
+<!ENTITY globalInbox.accesskey "О">
+<!ENTITY accountDirectory.label "«Входящие» для данной учётной записи">
+<!ENTITY accountDirectory.accesskey "д">
+<!ENTITY deferToServer.label "«Входящие» для другой учётной записи">
+<!ENTITY deferToServer.accesskey "д">
+<!ENTITY deferGetNewMail.label "Загружать почту с данного сервера">
+<!ENTITY deferGetNewMail.accesskey "З">

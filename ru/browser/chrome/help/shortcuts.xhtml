@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Sean Umphlet <nosebleed@umphlet.com> (minor bugfixes)
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Сочетания клавиш &brandFullName;</title>
+  <link rel="stylesheet" type="text/css"
+    href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Сочетания клавиш &brandShortName;</h1>
+
+<p>В этом списке приведены наиболее часто используемые сочетания клавиш, принятые в &brandFullName;. <span class="unix">Если вы включили сочетания клавиш в стиле Emacs в GNOME, они также будут работать в &brandShortName;. При конфликте сочетаний клавиш Emacs и сочетаний клавиш по умолчанию (например, в случае &accelKey;+<kbd>K</kbd>), сочетания клавиш Emacs имеют больший приоритет, если фокус находится внутри поля для ввода текста (что также включает панели адреса и поиска). В этих случаях вам следует использовать альтернативное сочетание клавиш, если оно указано.</span></p>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Команда</th>
+      <th>Сочетание клавиш</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">Навигация</th>
+    </tr>
+    <tr>
+      <td>Вперёд</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>Стрелка вправо</kbd><br/>
+          &shiftKey;+<kbd>Backspace</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Стрелка вправо</kbd><br/>
+          &accelKey;+<kbd>]</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>]</kbd><br/>
+          &accelKey;+<kbd>Стрелка вправо</kbd><br/>
+          &shiftKey;+<kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>Назад</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>Стрелка влево</kbd><br/>
+          <kbd>Backspace</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Стрелка влево</kbd><br/>
+          &accelKey;+<kbd>[</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>[</kbd><br/>
+          &accelKey;+<kbd>Стрелка влево</kbd><br/>
+          <kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>Домашняя страница</td>
+      <td>&altKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Обновить страницу</td>
+      <td><kbd>F5<br/></kbd>
+        &accelKey;+<kbd>R</kbd></td>
+    </tr>
+        <tr>
+      <td>Открыть файл</td>
+      <td>&accelKey;+<kbd>O</kbd></td>
+    </tr>
+    <tr>
+      <td>Принудительное обновление (не использовать закэшированные данные)</td>
+      <td><span class="noMac">&accelKey;+<kbd>F5</kbd><br/></span>
+        &accelKey;+&shiftKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Остановить</td>
+      <td><span class="mac">&accelKey;+<kbd>.</kbd><br/></span>
+        <kbd>Esc</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Текущая страница</th>
+    </tr>
+        <tr>
+      <td>Восстановить размер шрифта</td>
+      <td>&accelKey;+<kbd>0</kbd></td>
+    </tr>
+    <tr class="noWin">
+      <td>Информация о странице</td>
+      <td>&accelKey;+<kbd>I</kbd></td>
+    </tr>
+    <tr>
+      <td>Исходный код страницы</td>
+      <td>&accelKey;+<kbd>U</kbd></td>
+    </tr>
+    <tr>
+      <td>Перейти в конец страницы</td>
+      <td><kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>Перейти в начало страницы</td>
+      <td><kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Переместиться в предыдущий фрейм (на страницах с фреймами)</td>
+      <td>&shiftKey;+<kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>Переместиться в следующий фрейм (на страницах с фреймами)</td>
+      <td><kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>Печать</td>
+      <td>&accelKey;+<kbd>P</kbd></td>
+    </tr>
+    <tr>
+      <td>Сохранить страницу как</td>
+      <td>&accelKey;+<kbd>S</kbd></td>
+    </tr>
+    <tr>
+      <td>Увеличить размер шрифта</td>
+      <td>&accelKey;+<kbd>+</kbd></td>
+    </tr>
+    <tr>
+      <td>Уменьшить размер шрифта</td>
+      <td>&accelKey;+<kbd>-</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Правка</th>
+    </tr>
+    <tr>
+      <td>Вставить</td>
+      <td>&accelKey;+<kbd>V</kbd></td>
+    </tr>
+    <tr>
+      <td>Выделить всё</td>
+      <td>&accelKey;+<kbd>A</kbd></td>
+    </tr>
+    <tr>
+      <td>Вырезать</td>
+      <td>&accelKey;+<kbd>X</kbd></td>
+    </tr>
+    <tr>
+      <td>Копировать</td>
+      <td>&accelKey;+<kbd>C</kbd></td>
+    </tr>
+    <tr>
+      <td>Отменить</td>
+      <td>&accelKey;+<kbd>Z</kbd></td>
+    </tr>
+    <tr>
+      <td>Повторить</td>
+      <td><span class="win">&accelKey;+<kbd>Y</kbd></span>
+        <span class="noWin">&accelKey;+&shiftKey;+<kbd>Z</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Удалить</td>
+      <td><kbd>Delete</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Поиск</th>
+    </tr>
+    <tr>
+      <td>Найти далее</td>
+      <td><kbd>F3</kbd><br/>
+        &accelKey;+<kbd>G</kbd></td>
+    </tr>
+    <tr>
+      <td>Найти на этой странице</td>
+      <td>&accelKey;+<kbd>F</kbd></td>
+    </tr>
+    <tr>
+      <td>Найти предыдущее совпадение</td>
+      <td>&shiftKey;+<kbd>F3</kbd></td>
+    </tr>
+    <tr>
+      <td>Поиск в Интернете</td>
+      <td>&accelKey;+<kbd>K</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>E</kbd></span>
+        <span class="unix"><br/>&accelKey;+<kbd>J</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Поиск ссылок по мере ввода</td>
+      <td><kbd>'</kbd></td>
+    </tr>
+    <tr>
+      <td>Поиск текста по мере ввода</td>
+      <td><kbd>/</kbd></td>
+    </tr>
+  </tbody>
+  <tbody id="windows_tabs">
+    <tr>
+      <th colspan="2">Окна и Вкладки</th>
+    </tr>
+    <tr>
+      <td>Восстановить недавно закрытую вкладку</td>
+      <td>&accelKey;+&shiftKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>Выбрать вкладку по её порядковому номеру (от 1 до 8)</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+(<kbd>1</kbd> to <kbd>8</kbd>)</td>
+    </tr>
+    <tr>
+      <td>Выбрать последнюю вкладку</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+<kbd>9</kbd></td>
+    </tr>
+    <tr>
+      <td>Закрыть вкладку</td>
+      <td>&accelKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&ctrlKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Закрыть окно</td>
+      <td>&accelKey;+&shiftKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&altKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Новая вкладка</td>
+      <td>&accelKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>Новое окно</td>
+      <td>&accelKey;+<kbd>N</kbd></td>
+    </tr>
+        <tr>
+      <td>Открыть адрес в новой вкладке<br/>
+        (из панели адреса или панели поиска)</td>
+      <td>&altKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Перейти к предыдущей вкладке</td>
+      <td>&ctrlKey;+&shiftKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Стрелка влево<br/></span>
+        &ctrlKey;+<kbd>Page Up</kbd></td>
+    </tr>
+    <tr>
+      <td>Перейти к следующей вкладке</td>
+      <td>&ctrlKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Стрелка вправо<br/></span>
+        &ctrlKey;+<kbd>Page Down</kbd></td>
+    </tr>
+    <!-- LOCALIZATION NOTE:
+         "Left"/"Up" and "Right"/"Down" might need special treatment
+         for bidi locales, as used in the following two entries.
+    -->
+    <tr>
+      <td>Переместить вкладку в начало<br/>
+        (когда фокус на вкладке)</td>
+      <td>&accelKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Переместить вкладку в конец<br/>
+        (когда фокус на вкладке)</td>
+      <td>&accelKey;+<kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>Переместить вкладку влево<br/>
+        (когда фокус на вкладке)</td>
+      <td>&accelKey;+<kbd>Стрелка влево</kbd><br/>
+          &accelKey;+<kbd>Стрелка вверх</kbd></td>
+    </tr>
+    <tr>
+      <td>Переместить вкладку вправо<br/>
+        (когда фокус на вкладке)</td>
+      <td>&accelKey;+<kbd>Стрелка вправо</kbd><br/>
+          &accelKey;+<kbd>Стрелка вниз</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Инструменты</th>
+    </tr>
+    <tr>
+      <td>Включить/выключить режим активного курсора</td>
+      <td><kbd>F7</kbd></td>
+    </tr>
+    <tr class="noUnix">
+      <td>Добавить все вкладки в закладки</td>
+      <td>&accelKey;+&shiftKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>Добавить страницу в закладки</td>
+      <td>&accelKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>Журнал посещений</td>
+      <td><span class="noMac">&accelKey;+<kbd>H</kbd></span>
+        <span class="mac">&accelKey;+&shiftKey;+<kbd>H</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Загрузки</td>
+      <td><span class="noUnix">&accelKey;+<kbd>J</kbd></span>
+        <span class="unix">&accelKey;+<kbd>Y</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Закладки</td>
+      <td>&accelKey;+<kbd>B</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>I</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Удалить личные данные</td>
+      <td>&accelKey;+&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Разное</th>
+    </tr>
+    <tr>
+      <td>Выбор или управление поисковыми плагинами<br/>
+      (когда в панели поиска находится курсор)</td>
+      <td>&altKey;+<kbd>Up Arrow</kbd><br/>
+        &altKey;+<kbd>Down Arrow</kbd><span class="noMac"><br/>
+        <kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Выделить весь текст в панели адреса</td>
+      <td><span class="noMac">&altKey;+<kbd>D</kbd><br/></span>
+        <kbd>F6</kbd><br />
+        &accelKey;+<kbd>L</kbd></td>
+    </tr>
+    <tr>
+      <td>Дополнить адрес доменным суффиксом .com</td>
+      <td>&accelKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Дополнить адрес доменным суффиксом .net</td>
+      <td>&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Дополнить адрес доменным суффиксом .org</td>
+      <td>&accelKey;+&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr class="noMac">
+      <td>Полноэкранный режим</td>
+      <td><kbd>F11</kbd></td>
+    </tr>
+    <tr>
+      <td>Удалить строку из списка автозаполнения адресов</td>
+      <td><span class="noMac"><kbd>Del</kbd></span>
+        <span class="mac">&shiftKey;+<kbd>Del</kbd></span></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="contentsBox"><em>26 ноября 2007</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+<p>Copyright &copy; &copyright.years; Перевод произведен в рамках проекта mozilla-russia.org. Перевод на русский &mdash; Михаил Алексеев a.k.a. DeL и Александр Л. Словесник a.k.a. Unghost. Коррекция русского перевода &mdash; Виталий Пирятинский a.k.a. Infant</p>
+</body>
+</html>

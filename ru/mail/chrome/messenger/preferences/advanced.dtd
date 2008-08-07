@@ -1,0 +1,69 @@
+<!ENTITY itemGeneral.label "Основные">
+<!ENTITY itemUpdate.label "Обновления">
+<!ENTITY itemNetworking.label "Сеть и дисковое пространство">
+<!ENTITY itemCertificates.label "Сертификаты">
+<!ENTITY showCondensedAddresses.label "Показывать только имя для людей, находящихся в моей адресной книге">
+<!ENTITY showCondensedAddresses.accesskey "и">
+<!ENTITY autoMarkAsRead.label "Автоматически отмечать сообщения как прочитанные">
+<!ENTITY autoMarkAsRead.accesskey "в">
+<!ENTITY markAsReadNoDelay.label "Немедленно при просмотре">
+<!ENTITY markAsReadNoDelay.accesskey "м">
+<!ENTITY markAsReadDelay.label "После просмотра в течение">
+<!ENTITY markAsReadDelay.accesskey "с">
+<!ENTITY secondsLabel.label "сек.">
+<!ENTITY showFolderColumns.label "Показывать дополнительные колонки в окне дерева папок">
+<!ENTITY showFolderColumns.accesskey "к">
+<!ENTITY rememberLastMsg.label "Запоминать последнее выбранное сообщение">
+<!ENTITY rememberLastMsg.accesskey "п">
+<!ENTITY openMsgIn.label "Открывать новые сообщения в:">
+<!ENTITY reuseExpRadio0.label "новом окне">
+<!ENTITY reuseExpRadio0.accesskey "о">
+<!ENTITY reuseExpRadio1.label "уже существующем окне">
+<!ENTITY reuseExpRadio1.accesskey "с">
+<!ENTITY reuseExpRadio2.label "новой вкладке">
+<!ENTITY reuseExpRadio2.accesskey "к">
+<!ENTITY connectionTimeout.label "Время ожидания соединения:">
+<!ENTITY connectionTimeout.accesskey "ж">
+<!ENTITY connectionSeconds.label "сек.">
+<!ENTITY configEditDesc.label "Дополнительные настройки">
+<!ENTITY configEdit.label "Редактор настроек…">
+<!ENTITY configEdit.accesskey "д">
+<!ENTITY returnReceiptsInfo.label "Определите, как &brandShortName; обрабатывает уведомления о прочтении">
+<!ENTITY showReturnReceipts.label "Уведомления о прочтении…">
+<!ENTITY showReturnReceipts.accesskey "ч">
+<!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "Установленных дополнений">
+<!ENTITY enableAddonsUpdate.accesskey "о">
+<!ENTITY checkNow.label "Проверить сейчас…">
+<!ENTITY whenUpdatesFound.label "Если для &brandShortName; найдены обновления:">
+<!ENTITY modeAskMe.label "Спросить меня что делать">
+<!ENTITY modeAskMe.accesskey "п">
+<!ENTITY modeAutomatic.label "Автоматически загружать и устанавливать обновления">
+<!ENTITY modeAutomatic.accesskey "в">
+<!ENTITY modeAutoAddonWarn.label "Предупреждать, если при данном действии будут отключены какие-либо дополнения">
+<!ENTITY modeAutoAddonWarn.accesskey "е">
+<!ENTITY showUpdates.label "Показать журнал обновлений">
+<!ENTITY showUpdates.accesskey "ж">
+<!ENTITY showConnections.label "Соединение…">
+<!ENTITY showConnections.accesskey "д">
+<!ENTITY proxiesInfo.label "Настройте параметры соединения &brandShortName; с Интернет.">
+<!ENTITY connectionsInfo.caption "Соединение">
+<!ENTITY offlineInfo.caption "Автономная работа">
+<!ENTITY offlineInfo.label "Настройка параметров автономной работы">
+<!ENTITY showOffline.label "Автономная работа…">
+<!ENTITY showOffline.accesskey "в">
+<!ENTITY Diskspace "Дисковое пространство">
+<!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
+<!ENTITY offlineCompact.accesskey "м">
+<!ENTITY kb.label "КБ">
+<!ENTITY certificatesInfo2.label "Управление сертификатами, списками отзыва сертификатов, настройками OCSP и устройствами защиты.">
+<!ENTITY viewCertificates.label "Просмотр сертификатов">
+<!ENTITY viewCertificates.accesskey "ф">
+<!ENTITY viewCRLs.label "Списки отзыва сертификатов">
+<!ENTITY viewCRLs.accesskey "з">
+<!ENTITY validation.label "Настройки OCSP">
+<!ENTITY validation.accesskey "O">
+<!ENTITY viewSecurityDevices.label "Устройства защиты">
+<!ENTITY viewSecurityDevices.accesskey "щ">

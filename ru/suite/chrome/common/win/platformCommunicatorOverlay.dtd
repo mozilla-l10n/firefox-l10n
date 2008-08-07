@@ -1,0 +1,20 @@
+<!ENTITY closeCmd.label "Закрыть">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "З">
+<!ENTITY quitApplicationCmd.label "Выход">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "В">
+<!ENTITY redoCmd.label "Повторить">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "П">
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+<!ENTITY accel.emacs_conflict "accel">
+<!ENTITY openHelpCmd.label "Содержание">
+<!ENTITY openHelpCmd.accesskey "с">
+<!ENTITY openHelpCmd.key "VK_F1">
+<!ENTITY helpForIEUsers.label "Для пользователей Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "л">
+<!ENTITY ctrlKey.label "Ctrl">
+<!ENTITY altKey.label "Alt">
+<!ENTITY shiftKey.label "Shift">

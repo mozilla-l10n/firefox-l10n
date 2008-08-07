@@ -1,0 +1,39 @@
+<!ENTITY cookieMessageTitle.label "Изменились права на сохранение cookies">
+<!ENTITY cookieDisplayCookiesCmd.label "Управлять сохранёнными cookies">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "У">
+<!ENTITY cookieAllowCookiesCmd.label "Разблокировать cookies с этого сайта">
+<!ENTITY cookieAllowCookiesCmd.accesskey "Р">
+<!ENTITY cookieAllowCookiesMsg.label "Cookies этого сайта больше не будут блокироваться.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Разрешить cookies с этого сайта на один сеанс">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "е">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Сайт сможет сохранять cookies только на один сеанс.">
+<!ENTITY cookieCookiesDefaultCmd.label "Права по умолчанию">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "П">
+<!ENTITY cookieCookiesDefaultMsg.label "Cookies с этого сайта будут сохраняться на основе настроек по умолчанию.">
+<!ENTITY cookieBlockCookiesCmd.label "Блокировать cookies с этого сайта">
+<!ENTITY cookieBlockCookiesCmd.accesskey "Б">
+<!ENTITY cookieBlockCookiesMsg.label "Cookies этого сайта всегда будут отклоняться.">
+<!ENTITY cookieImageMessageTitle.label "Изменились права на загрузку изображений">
+<!ENTITY cookieDisplayImagesCmd.label "Упорядочить права на загрузку изображений">
+<!ENTITY cookieDisplayImagesCmd.accesskey "У">
+<!ENTITY cookieAllowImagesCmd.label "Разблокировать изображения с этого сайта">
+<!ENTITY cookieAllowImagesCmd.accesskey "Р">
+<!ENTITY cookieAllowImagesMsg.label "Изображения этого сайта всегда будут загружаться.">
+<!ENTITY cookieImagesDefaultCmd.label "Права по умолчанию">
+<!ENTITY cookieImagesDefaultCmd.accesskey "П">
+<!ENTITY cookieImagesDefaultMsg.label "Изображения с этого сайта будут загружаться на основе настроек по умолчанию.">
+<!ENTITY cookieBlockImagesCmd.label "Блокировать изображения с этого сайта">
+<!ENTITY cookieBlockImagesCmd.accesskey "Б">
+<!ENTITY cookieBlockImagesMsg.label "Изображения этого сайта никогда не будут загружаться.">
+<!ENTITY cookieAllowPopupsCmd.label "Разрешить всплывающие окна с этого сайта">
+<!ENTITY cookieAllowPopupsCmd.accesskey "Р">
+<!ENTITY cookieManagePopups.label "Упорядочить сайты со всплывающими окнами">
+<!ENTITY cookieManagePopups.accesskey "У">
+<!ENTITY cookieTutorialCmd.label "Понимание приватности">
+<!ENTITY cookieTutorialCmd.accesskey "П">
+<!ENTITY cookieCookieManager.label "Менеджер cookies">
+<!ENTITY cookieCookieManager.accesskey "е">
+<!ENTITY cookieImageManager.label "Менеджер изображений">
+<!ENTITY cookieImageManager.accesskey "и">
+<!ENTITY cookiePopupManager.label "Менеджер всплывающих окон">
+<!ENTITY cookiePopupManager.accesskey "д">

@@ -1,0 +1,91 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY folderProps.windowtitle.label "Свойства">
+<!ENTITY generalInfo.label "Основная информация">
+<!ENTITY folderCharsetTab.label "Кодировка по умолчанию:">
+<!ENTITY folderCharsetTab.accesskey "К">
+<!ENTITY folderCharsetOverride.label "Использовать как кодировку по умолчанию для всех сообщений в папке (игнорировать кодировки, определённые для отдельных сообщений, и автоопределение).">
+<!ENTITY folderCharsetOverride.accesskey "у">
+<!ENTITY folderRebuildSummaryFile.label "Перестроить индекс">
+<!ENTITY folderRebuildSummaryFile.accesskey "П">
+<!ENTITY folderRebuildSummaryFileTip.label "Перестроить индексный файл">
+<!ENTITY retention.label "Настройки хранения сообщений">
+<!ENTITY retentionUseDefault.label "Использовать параметры сервера по умолчанию">
+<!ENTITY retentionUseDefault.accesskey "у">
+<!ENTITY days.label "дней">
+<!ENTITY daysOld.label "дней">
+<!ENTITY message.label "сообщений">
+<!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть удалены">
+<!ENTITY retentionKeepMsg.label "Удалять сообщения старше">
+<!ENTITY retentionKeepMsg.accesskey "с">
+<!ENTITY retentionKeepAll.label "Не удалять сообщения">
+<!ENTITY retentionKeepAll.accesskey "Н">
+<!ENTITY retentionKeepNew.label "Удалять все, кроме последних">
+<!ENTITY retentionKeepNew.accesskey "п">
+<!ENTITY retentionKeepUnread.label "Всегда удалять прочитанные сообщения">
+<!ENTITY retentionKeepUnread.accesskey "ч">
+<!ENTITY folderOfflineTab.label "Автономно">
+<!ENTITY folderCheckForNewMessages.label "Проверять эту папку на наличие новых сообщений">
+<!ENTITY folderCheckForNewMessages.accesskey "П">
+<!ENTITY offlineFolder.check.label "Выбрать эту папку для автономной работы">
+<!ENTITY offlineFolder.check.accesskey "В">
+<!ENTITY offlineFolder.button.label "Загрузить">
+<!ENTITY offlineFolder.button.accesskey "З">
+<!ENTITY selectofflineNewsgroup.check.label "Выбрать эту группу новостей для автономной работы">
+<!ENTITY selectofflineNewsgroup.check.accesskey "э">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Использовать настройки по умолчанию из параметров учётной записи">
+<!ENTITY offlineNewsgroup.button.label "Загрузить">
+<!ENTITY offlineNewsgroup.button.accesskey "З">
+<!ENTITY folderProps.information.label "Информация:">
+<!ENTITY folderProps.name.label "Имя:">
+<!ENTITY folderProps.name.accesskey "И">
+<!ENTITY folderProps.location.label "Адрес:">
+<!ENTITY folderProps.location.accesskey "д">
+<!ENTITY folderSharingTab.label "Совместное использование">
+<!ENTITY privilegesDesc.label "Использование этой и других папок совместно с другими пользователями сети, отображение и установка привилегий доступа.">
+<!ENTITY privileges.button.label "Привилегии…">
+<!ENTITY privileges.button.accesskey "П">
+<!ENTITY permissionsDesc.label "У вас есть следующие права:">
+<!ENTITY folderType.label "Тип папки:">
+<!ENTITY folderQuotaTab.label "Квота">
+<!ENTITY folderQuotaRoot.label "Квота:">
+<!ENTITY folderQuotaUsage.label "Использовано:">
+<!ENTITY folderQuotaStatus.label "Состояние:">

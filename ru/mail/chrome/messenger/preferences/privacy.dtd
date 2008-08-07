@@ -1,0 +1,44 @@
+<!ENTITY itemJunk.label "Анти-спам">
+<!ENTITY itemPhishing.label "Мошеннические письма">
+<!ENTITY itemPasswords.label "Пароли">
+<!ENTITY itemAntiVirus.label "Работа с антивирусом">
+<!ENTITY junkMail.intro "Здесь вы можете установить настройки анти-спам фильтра по умолчанию. Настройки анти-спам фильтра, специфичные для учётной записи, могут быть установлены в параметрах учётной записи.">
+<!ENTITY manualMark.label "Когда я помечаю сообщения как спам:">
+<!ENTITY manualMark.accesskey "с">
+<!ENTITY manualMarkModeMove.label "Перемещать их в папку «Спам» учётной записи">
+<!ENTITY manualMarkModeMove.accesskey "П">
+<!ENTITY manualMarkModeDelete.label "Удалять их">
+<!ENTITY manualMarkModeDelete.accesskey "У">
+<!ENTITY markAsReadOnSpam.label "Отметить сообщения, определённые как спам, как прочитанные">
+<!ENTITY markAsReadOnSpam.accesskey "ч">
+<!ENTITY enableJunkLogging.label "Включить журнал анти-спам фильтра">
+<!ENTITY enableJunkLogging.accesskey "ж">
+<!ENTITY openJunkLog.label "Показать журнал">
+<!ENTITY openJunkLog.accesskey "к">
+<!ENTITY resetTrainingData.label "Удалить данные обучения">
+<!ENTITY resetTrainingData.accesskey "б">
+<!ENTITY phishingDetector1.intro "&brandShortName; может анализировать сообщения для выявления подозрительных писем, рассылаемых мошенниками, проверяя их на наличие определённых приёмов и техник, используемых для ввода вас в заблуждение.">
+<!ENTITY enablePhishingDetector1.label "Информировать, не является ли читаемое мною сообщение подозрительным письмом, рассылаемым мошенниками">
+<!ENTITY enablePhishingDetector1.accesskey "ф">
+<!ENTITY useDownloadedList.label "Использовать загруженный список подозрительных сообщений, вероятно рассылаемых мошенниками">
+<!ENTITY useDownloadedList.accesskey "п">
+<!ENTITY savedPasswords.intro "&brandShortName; может запоминать регистрационную информацию для всех ваших учетных записей так, что вам не придётся вводить её снова.">
+<!ENTITY encryptEnabled.label "Использовать мастер-пароль для шифрования сохранённых паролей">
+<!ENTITY encryptEnabled.accesskey "м">
+<!ENTITY masterPassword.intro "Будучи установленным, мастер-пароль будет использован для защиты всех ваших паролей. Вам нужно будет вводить его один раз в сессию.">
+<!ENTITY setMasterPassword.label "Мастер-пароль">
+<!ENTITY setMasterPassword.accesskey "а">
+<!ENTITY removeMasterPassword.label "Удалить мастер-пароль…">
+<!ENTITY removeMasterPassword.accesskey "д">
+<!ENTITY editPasswords.label "Редактировать сохранённые пароли">
+<!ENTITY editPasswords.accesskey "к">
+<!ENTITY antiVirus.intro "&brandShortName; может облегчить работу антивируса при проверке входящих сообщений на наличие вирусов перед тем, как сохранить их в почтовые папки.">
+<!ENTITY antiVirus.label "Разрешить антивирусу помещать в карантин отдельные входящие сообщения">
+<!ENTITY antiVirus.accesskey "в">
+<!ENTITY antiVirusCaption.label "Работа с антивирусом">
+<!ENTITY paswords.label "Пароли">
+<!ENTITY emailScams.label "Мошеннические письма">
+<!ENTITY junkMail.label "Анти-спам">
+<!ENTITY itemIntrusions.label "Безопасность">
+<!ENTITY itemIntrusionsAndPasswords.label "Безопасность и пароли">
+<!ENTITY itemJunkMail.label "Анти-спам">

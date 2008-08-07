@@ -1,0 +1,12 @@
+<!--null-->
+<!ENTITY pref.character.encoding.title "Кодировка">
+<!ENTITY messageDisplay.caption "Отображение сообщений">
+<!ENTITY viewDefaultCharset.label "Кодировка по умолчанию:">
+<!ENTITY viewDefaultCharset.accesskey "К">
+<!ENTITY composingMessages.caption "Составление сообщений">
+<!ENTITY useMIME.label "Для сообщений, содержащих 8-битные символы, использовать MIME-кодирование «quoted printable» (не отмечайте опцию, чтобы письмо отправлялось без кодирования)">
+<!ENTITY useMIME.accesskey "Д">
+<!ENTITY sendDefaultCharset.label "Кодировка по умолчанию:">
+<!ENTITY sendDefaultCharset.accesskey "К">
+<!ENTITY replyInDefaultCharset2.label "По возможности использовать кодировку по умолчанию при ответе (если флажок снят, только новые сообщения будут использовать кодировку по умолчанию).">
+<!ENTITY replyInDefaultCharset2.accesskey "в">

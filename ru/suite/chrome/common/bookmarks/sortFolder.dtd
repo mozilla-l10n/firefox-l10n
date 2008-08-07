@@ -1,0 +1,16 @@
+<!ENTITY window.title "Сортировка элементов папки">
+<!ENTITY sortOptions.label "Параметры сортировки">
+<!ENTITY description.label "&brandShortName; может сортировать элементы в каждой папке отдельно. С помощью этих параметров укажите, как сортировать содержимое данной папки.">
+<!ENTITY sortBy.label "Сортировка:">
+<!ENTITY sortBy.name.label "Имя">
+<!ENTITY sortBy.url.label "Адрес">
+<!ENTITY sortBy.shortcutUrl.label "Краткое имя">
+<!ENTITY sortBy.description.label "Описание">
+<!ENTITY sortBy.bookmarkAddDate.label "Порядок добавления">
+<!ENTITY sortBy.lastModifiedDate.label "Последнее изменение">
+<!ENTITY sortBy.lastVisitDate.label "Последнее посещение">
+<!ENTITY sortOrder.label "Порядок сортировки:">
+<!ENTITY sortAscending.label "По возрастанию">
+<!ENTITY sortDescending.label "По убыванию">
+<!ENTITY sortFoldersFirst.label "Сначала сортировать папки">
+<!ENTITY sortRecursively.label "Рекурсивная сортировка">

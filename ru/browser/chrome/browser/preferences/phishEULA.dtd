@@ -1,0 +1,7 @@
+<!ENTITY phishDlg.title "Условия соглашения по защите от фишинга">
+<!ENTITY phishDlg.height "60em">
+<!ENTITY phishDlg.width "50em">
+<!ENTITY acceptToS.label "Я принимаю условия соглашения по защите от фишинга">
+<!ENTITY declineToS.label "Я НЕ принимаю условия соглашения по защите от фишинга">
+<!ENTITY accept.label "Принять и продолжить">
+<!ENTITY cancel.label "Отмена">

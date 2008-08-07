@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Имя:">
+<!ENTITY bookmarks.name.accesskey "м">
+<!ENTITY bookmarks.location.label "Адрес:">
+<!ENTITY bookmarks.location.accesskey "д">
+<!ENTITY bookmarks.keyword.label "Краткое имя:">
+<!ENTITY bookmarks.keyword.accesskey "р">
+<!ENTITY bookmarks.description.label "Описание:">
+<!ENTITY bookmarks.description.accesskey "п">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Текущие заголовки">
+<!ENTITY bookmarks.createIn.label "Создать в:">
+<!ENTITY bookmarks.createIn.accesskey "о">
+<!ENTITY bookmarks.feed_location.label "Адрес ленты новостей:">
+<!ENTITY bookmarks.feed_location.accesskey "н">
+<!ENTITY bookmarks.site_location.label "Адрес сайта:">
+<!ENTITY bookmarks.site_location.accesskey "й">
+<!ENTITY bookmarks.loadInSidebar.label "Загружать закладку в боковой панели">
+<!ENTITY bookmarks.loadInSidebar.accesskey "г">
+<!ENTITY bookmarks.expanderDown.tooltip "Показать все папки с закладками">
+<!ENTITY bookmarks.expanderUp.tooltip "Скрыть">
+<!ENTITY bookmarks.newFolderButton.label "Новая папка">
+<!ENTITY bookmarks.newFolderButton.accesskey "а">

@@ -1,0 +1,12 @@
+<!ENTITY title.label "Защита сообщения">
+<!ENTITY subject.plaintextWarning "Обратите внимание: строка темы сообщения никогда не шифруется.">
+<!ENTITY status.heading "Содержимое вашего сообщения будет отправлено как:">
+<!ENTITY status.signed "С цифровой подписью:">
+<!ENTITY status.encrypted "Зашифрованное:">
+<!ENTITY status.certificates "Сертификаты:">
+<!ENTITY view.label "Просмотреть">
+<!ENTITY view.accesskey "П">
+<!ENTITY tree.recipient "Адресат">
+<!ENTITY tree.status "Статус">
+<!ENTITY tree.issuedDate "Выдан">
+<!ENTITY tree.expiresDate "Срок действия">

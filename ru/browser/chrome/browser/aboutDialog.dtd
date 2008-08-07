@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title "О &brandFullName;">
+<!ENTITY copyright "Участники проекта">
+<!ENTITY copyright.accesskey "ч">
+<!ENTITY aboutLink "&lt; О &brandFullName;">
+<!ENTITY aboutLink.accesskey "О">
+<!ENTITY aboutVersion "версия">
+<!ENTITY copyrightInfo "©1998–2008 Участники проекта. Все права защищены. Firefox и логотипы Firefox являются торговыми марками Mozilla Foundation. Все права защищены.">

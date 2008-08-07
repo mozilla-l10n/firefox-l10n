@@ -1,0 +1,16 @@
+<!ENTITY pref.appearance.title "Внешний вид">
+<!ENTITY onStartLegend.label "При запуске &brandShortName; открывать">
+<!ENTITY navCheck.label "Browser">
+<!ENTITY navCheck.accesskey "B">
+<!ENTITY showToolsLegend.label "Показывать панели инструментов как">
+<!ENTITY picsNtextRadio.label "Значки и текст">
+<!ENTITY picsNtextRadio.accesskey "е">
+<!ENTITY picsOnlyRadio.label "Значки">
+<!ENTITY picsOnlyRadio.accesskey "З">
+<!ENTITY textonlyRadio.label "Текст">
+<!ENTITY textonlyRadio.accesskey "Т">
+<!ENTITY showHideTooltips.label "Показывать всплывающие подсказки">
+<!ENTITY showHideTooltips.accesskey "в">
+<!ENTITY pref.locales.title "Язык интерфейса пользователя">
+<!ENTITY selectLocale.label "Выберите язык, используемый в диалоговых окнах, меню, панелях инструментов и кнопках:">
+<!ENTITY restartOnLangChange.label "Смена языка интерфейса произойдёт после перезапуска вами &brandShortName;.">

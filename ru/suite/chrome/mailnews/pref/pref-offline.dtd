@@ -1,0 +1,27 @@
+<!ENTITY pref.offline.title "Автономная работа и дисковое пространство">
+<!ENTITY pref.offline.caption "Автономная работа">
+<!ENTITY textStartUp "При запуске:">
+<!ENTITY textStartUp.accesskey "з">
+<!ENTITY menuitemRememberPrevState "Использовать режим работы предыдущего сеанса">
+<!ENTITY menuitemAskMe "Спрашивать о подключении при запуске">
+<!ENTITY menuitemAlwaysOnline "Всегда подключаться при запуске">
+<!ENTITY menuitemAlwaysOffline "Всегда запускаться в автономном режиме">
+<!ENTITY menuitemAutomatic "Определять автоматически (если возможно)">
+<!ENTITY textGoingOnline "Отправить неотправленные сообщения при подключении?">
+<!ENTITY radioAutoSend "Да">
+<!ENTITY radioAutoSend.accesskey "а">
+<!ENTITY radioNotSend "Нет">
+<!ENTITY radioNotSend.accesskey "е">
+<!ENTITY radioAskUnsent "Спрашивать">
+<!ENTITY radioAskUnsent.accesskey "С">
+<!ENTITY textGoingOffline "Загружать сообщения для автономной работы при переходе в режим автономной работы?">
+<!ENTITY radioAutoDownload "Да">
+<!ENTITY radioAutoDownload.accesskey "а">
+<!ENTITY radioNotDownload "Нет">
+<!ENTITY radioNotDownload.accesskey "е">
+<!ENTITY radioAskDownload "Спрашивать">
+<!ENTITY radioAskDownload.accesskey "С">
+<!ENTITY Diskspace "Дисковое пространство">
+<!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
+<!ENTITY offlineCompact.accesskey "С">
+<!ENTITY kb.label "КБ">

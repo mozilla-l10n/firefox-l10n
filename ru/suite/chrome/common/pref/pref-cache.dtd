@@ -1,0 +1,24 @@
+<!ENTITY pref.cache.title "Кэш">
+<!ENTITY pref.cache.caption "Установите настройки кэширования">
+<!ENTITY cachePara "В кэше хранятся копии часто посещаемых веб-страниц, что сокращает время их загрузки. (Нажатие кнопки «Обновить» всегда приводит к загрузке самой последней версии веб-страницы.)">
+<!ENTITY diskCache.label "Размер:">
+<!ENTITY diskCache.accesskey "Р">
+<!ENTITY mbytes "МБ">
+<!ENTITY diskCacheFolder.label "Расположение папки кэша:">
+<!ENTITY clearDiskCache.label "Очистить кэш">
+<!ENTITY clearDiskCache.accesskey "О">
+<!ENTITY chooseDiskCacheFolder.label "Выбрать папку…">
+<!ENTITY chooseDiskCacheFolder.accesskey "В">
+<!ENTITY diskCacheFolderExplanation "Файлы кэша будут храниться в подпапке «Cache» указанной вами папки. Для вступления изменений в силу перезапустите &brandShortName;.">
+<!ENTITY docCache "Сравнивать страницу в кэше со страницей в сети:">
+<!ENTITY oncePsessionRadio.label "Один раз за сеанс">
+<!ENTITY oncePsessionRadio.accesskey "и">
+<!ENTITY everyTimeRadio.label "Каждый раз, когда я посещаю эту страницу">
+<!ENTITY everyTimeRadio.accesskey "а">
+<!ENTITY neverRadio.label "Никогда">
+<!ENTITY neverRadio.accesskey "Н">
+<!ENTITY autoRadio.label "Когда страница устареет">
+<!ENTITY autoRadio.accesskey "с">
+<!ENTITY prefetchTitle.label "Предварительная загрузка">
+<!ENTITY enablePrefetch.label "Во время бездействия предварительно загружать веб-страницы, чтобы ссылки на веб-страницах, разработанных для предварительной загрузки, загружались быстрее.">
+<!ENTITY enablePrefetch.accesskey "з">

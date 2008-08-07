@@ -1,0 +1,9 @@
+<!--null-->
+<!ENTITY all.label "Загрузить все заголовки">
+<!ENTITY all.accesskey "в">
+<!ENTITY download.label "Загрузить">
+<!ENTITY download.accesskey "З">
+<!ENTITY headers.label "заголовков">
+<!ENTITY headers.accesskey "а">
+<!ENTITY mark.label "Отметить остальные как прочитанные">
+<!ENTITY mark.accesskey "О">

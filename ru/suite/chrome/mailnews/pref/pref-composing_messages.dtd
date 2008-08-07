@@ -1,0 +1,33 @@
+<!--null-->
+<!ENTITY pref.composing.messages.title "Составление сообщений">
+<!ENTITY generalComposing.label "Основное">
+<!ENTITY forwardMsg.label "Перенаправлять сообщения:">
+<!ENTITY inline.label "Внутри сообщения">
+<!ENTITY inline.accesskey "В">
+<!ENTITY asAttachment.label "Как вложение">
+<!ENTITY asAttachment.accesskey "К">
+<!ENTITY warnOnSendAccelKey.label "Спрашивать подтверждение при использовании клавиатурных сокращений для отправки сообщений">
+<!ENTITY warnOnSendAccelKey.accesskey "С">
+<!ENTITY autoSave.label "Автоматически сохранять сообщение каждые">
+<!ENTITY autoSave.accesskey "м">
+<!ENTITY autoSaveEnd.label "минут">
+<!ENTITY wrapOutMsg.label "Длина строки в текстовых сообщениях:">
+<!ENTITY wrapOutMsg.accesskey "л">
+<!ENTITY char.label "символов">
+<!ENTITY spellingHeader.label "Орфография">
+<!ENTITY spellCheck.label "Проверять орфографию перед отправкой">
+<!ENTITY spellCheck.accesskey "ф">
+<!ENTITY spellCheckInline.label "Проверять орфографию при наборе текста">
+<!ENTITY spellCheckInline.accesskey "н">
+<!ENTITY languagePopup.label "Язык:">
+<!ENTITY languagePopup.accessKey "з">
+<!ENTITY moreDictionaries.label "Загрузить дополнительные словари…">
+<!ENTITY defaultMessagesHeader.label "Параметры по умолчанию для сообщений в формате HTML">
+<!ENTITY font.label "Шрифт:">
+<!ENTITY font.accesskey "Ш">
+<!ENTITY size.label "Размер:">
+<!ENTITY size.accesskey "Р">
+<!ENTITY fontColor.label "Текст:">
+<!ENTITY fontColor.accesskey "Т">
+<!ENTITY bgColor.label "Фон:">
+<!ENTITY bgColor.accesskey "о">

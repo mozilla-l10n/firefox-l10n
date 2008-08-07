@@ -1,0 +1,18 @@
+<!--null-->
+<!ENTITY pref.addressing.title "Адресация">
+<!ENTITY emailCollectiontitle.label "Сбор адресов электронной почты">
+<!ENTITY emailCollectionPicker.label "Добавить адреса электронной почты в:">
+<!ENTITY emailCollectionPicker.accesskey "Д">
+<!ENTITY emailCollectiontext.label "Адреса электронной почты из исходящих сообщений могут автоматически добавляться в локальную адресную книгу.">
+<!ENTITY addressingTitle.label "Автоподстановка адреса">
+<!ENTITY highlightNonMatches.label "Подсвечивать адреса, которые не дополняются автоматически">
+<!ENTITY highlightNonMatches.accesskey "а">
+<!ENTITY addressingEnable.label "Локальных адресных книгах">
+<!ENTITY addressingEnable.accesskey "л">
+<!ENTITY autocompleteText.label "При адресации сообщений искать соответствия в:">
+<!ENTITY directories.label "Каталогах на сервере:">
+<!ENTITY directories.accesskey "н">
+<!ENTITY editDirectories.label "Изменить каталоги…">
+<!ENTITY editDirectories.accesskey "з">
+<!ENTITY matchText.label "Если найдено совпадение в локальных адресных книгах:">
+<!ENTITY skipDirectory.label "Не искать в каталоге">

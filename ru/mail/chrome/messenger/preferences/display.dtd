@@ -1,0 +1,45 @@
+<!ENTITY itemFormatting.label "Форматирование">
+<!ENTITY itemTags.label "Метки">
+<!ENTITY itemFonts.label "Шрифты">
+<!ENTITY textBegin.label "Вид цитаты в простом текстовом письме">
+<!ENTITY style.label "Стиль:">
+<!ENTITY style.accesskey "т">
+<!ENTITY regularStyle.label "Обычный">
+<!ENTITY bold.label "Полужирный">
+<!ENTITY italic.label "Курсив">
+<!ENTITY boldItalic.label "Полужирный курсив">
+<!ENTITY size.label "Размер:">
+<!ENTITY size.accesskey "з">
+<!ENTITY regularSize.label "Обычный">
+<!ENTITY bigger.label "Больше">
+<!ENTITY smaller.label "Меньше">
+<!ENTITY color.label "Цвет:">
+<!ENTITY color.accesskey "в">
+<!ENTITY displayWidth.label "Простые текстовые сообщения">
+<!ENTITY plainText.label "Использовать следующий шрифт:">
+<!ENTITY displayText.label "При отображении цитат в простых текстовых сообщениях:">
+<!ENTITY viewingPlainText.label "При отображении простых текстовых сообщений:">
+<!ENTITY fixedWidth.label "Моноширинный">
+<!ENTITY fixedWidth.accesskey "н">
+<!ENTITY variableWidth.label "Пропорциональный">
+<!ENTITY variableWidth.accesskey "п">
+<!ENTITY readingMessagesHeader.label "Для входящих сообщений">
+<!ENTITY colors.label "Цвета">
+<!ENTITY overrideColors.label "При отображении сообщений использовать следующие цвета:">
+<!ENTITY textColor.label "Цвет текста:">
+<!ENTITY textColor.accesskey "т">
+<!ENTITY backgroundColor.label "Цвет фона:">
+<!ENTITY backgroundColor.accesskey "ф">
+<!ENTITY convertEmoticons.label "Отображать смайлики как графику">
+<!ENTITY convertEmoticons.accesskey "б">
+<!ENTITY displayTagsText.label "Метки могут быть использованы для классификации и изменения приоритета сообщений.">
+<!ENTITY addTagButton.label "Добавить">
+<!ENTITY addTagButton.accesskey "б">
+<!ENTITY editTagButton.label "Редактировать">
+<!ENTITY editTagButton.accesskey "д">
+<!ENTITY removeTagButton.label "Удалить">
+<!ENTITY removeTagButton.accesskey "д">
+<!ENTITY fontAndEncodingsDescription.label "Настройка шрифтов и кодировок, используемых в &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label "Шрифты и кодировки">
+<!ENTITY fontOptions.accesskey "ф">
+<!ENTITY fontOptions.label "Шрифты…">
