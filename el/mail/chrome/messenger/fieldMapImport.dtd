@@ -1,0 +1,16 @@
+<!ENTITY fieldMapImport.dataTitle "Δεδομένα καταγραφής για εισαγωγή:">
+<!ENTITY fieldMapImport.down "Μετακίνηση κάτω">
+<!ENTITY fieldMapImport.down.accesskey "">
+<!ENTITY fieldMapImport.fieldListTitle "Πεδία  Ευρετηρίου Διευθύνσεων:">
+<!ENTITY fieldMapImport.next "Επόμενο">
+<!ENTITY fieldMapImport.next.accesskey "">
+<!ENTITY fieldMapImport.previous "Προηγούμενο">
+<!ENTITY fieldMapImport.previous.accesskey "">
+<!ENTITY fieldMapImport.recordNumber "Εισηγμένα δεδομένα για εγγραφή:">
+<!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
+<!ENTITY fieldMapImport.text "Χρησιμοποιείστε τη Μετακίνηση πάνω ή κάτω για να ταιριάξετε τα πεδία του ευρετηρίου διευθύνσεων στα αριστερά για να διορθώσετε τα δεδομένα για εισαγωγή στα αριστερά. Αποεπιλέξτε τα αντικείμενα που δεν θέλετε να εισαχθούν.">
+<!ENTITY fieldMapImport.title "Εισαγωγή Ευρετηρίου Διευθύνσεων">
+<!ENTITY fieldMapImport.up "Μετακίνηση πάνω">
+<!ENTITY fieldMapImport.up.accesskey "">
+<!ENTITY fieldMapImport.skipFirstRecord "Πρώτη εγγραφή που περιέχει ονόματα πεδίων">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "Π">

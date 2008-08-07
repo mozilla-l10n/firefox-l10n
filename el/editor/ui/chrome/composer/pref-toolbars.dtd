@@ -1,0 +1,30 @@
+<!ENTITY pref.toolbars.title    "Εργαλειοθήκες">
+<!ENTITY absolutePosition.label "Απόλυτη τοποθέτηση">
+<!ENTITY anchor.label "Άγκυρα">
+<!ENTITY bold.label "Έντονα">
+<!ENTITY bullets.label "Κουκίδες">
+<!ENTITY composition.caption "Εμφάνιση αυτών των κουμπιών στην εργαλειοθήκη σύνταξης:">
+<!ENTITY copy.label "Αντιγραφή">
+<!ENTITY cut.label "Αποκοπή">
+<!ENTITY decreaseZIndex.label "Μεταφορά προς τα πίσω">
+<!ENTITY find.label "Εύρεση">
+<!ENTITY formatting.caption "Εμφάνιση αυτών των κουμπιών στην εργαλειοθήκη μορφοποίησης:">
+<!ENTITY hline.label "Οριζ. γραμμή">
+<!ENTITY image.label "Εικόνα">
+<!ENTITY increaseZIndex.label "Μεταφορά μπροστά">
+<!ENTITY indent.label "Εσοχή">
+<!ENTITY italic.label "Πλάγια">
+<!ENTITY larger.label "Μεγαλύτερα">
+<!ENTITY link.label "Δεσμός">
+<!ENTITY new.label "Νέα">
+<!ENTITY numbers.label "Αριθμοί">
+<!ENTITY open.label "Άνοιγμα">
+<!ENTITY outdent.label "Εξοχή">
+<!ENTITY paste.label "Επικόλληση">
+<!ENTITY preview.label "Αναζήτηση">
+<!ENTITY print.label "Εκτύπωση">
+<!ENTITY publish.label "Δημοσίευση">
+<!ENTITY save.label "Αποθήκευση">
+<!ENTITY smaller.label "Μικρότερα">
+<!ENTITY table.label "Πίνακας">
+<!ENTITY underline.label "Υπογράμμιση">

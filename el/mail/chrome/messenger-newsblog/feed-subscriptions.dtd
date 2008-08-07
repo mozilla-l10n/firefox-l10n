@@ -1,0 +1,15 @@
+<!ENTITY button.addFeed.accesskey "θ">
+<!ENTITY button.addFeed.label "Προσθήκη">
+<!ENTITY button.editFeed.accesskey "ξ">
+<!ENTITY button.editFeed.label "Επεξεργασία">
+<!ENTITY button.importOPML.accesskey "ι">
+<!ENTITY button.importOPML.label "Εισαγωγή">
+<!ENTITY button.removeFeed.accesskey "ρ">
+<!ENTITY button.removeFeed.label "Αποκάκρυνση">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY feedTitle.label "Τίτλος:">
+<!ENTITY location.label "Τοποθεσία:">
+<!ENTITY newsBlogSubscriptions.label "Συνδρομές RSS">
+<!ENTITY subscriptionDesc.label "Σημείωση: Η απομάκρυνση ή αλλαγή του φακέλου για ένα αρχείο ροής δεν θα επηρεάσει τα άρθρα που έχουν ληφθεί προηγουμένως.">
+<!ENTITY button.exportOPML.label "Εξαγωγή">
+<!ENTITY button.exportOPML.accesskey   "ξ">

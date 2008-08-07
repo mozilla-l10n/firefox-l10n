@@ -1,0 +1,15 @@
+<!ENTITY  prefWin.styleWin2       "width: 59em; min-height: 42em;">
+<!ENTITY  prefWin.styleMac2       "width: 62em; min-height: 45em;">
+<!ENTITY  prefWin.styleGNOME2     "width: 65em; min-height: 42em;">
+
+<!ENTITY  paneApplications.title  "Εφαρμογές">
+
+<!ENTITY  prefWindow.titleWin     "Επιλογές">
+<!ENTITY  prefWindow.titleGNOME   "Προτιμήσεις &brandShortName;">
+<!ENTITY  panePrivacy.title       "Απόρρητο">
+<!ENTITY  paneAdvanced.title      "Για προχωρημένους">
+<!ENTITY  paneContent.title       "Περιεχόμενο">
+<!ENTITY  paneTabs.title          "Καρτέλες">
+<!ENTITY  paneMain.title          "Βασικές">
+<!ENTITY  paneSecurity.title      "Ασφάλεια">
+

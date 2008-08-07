@@ -1,0 +1,27 @@
+<!ENTITY cancel "Ακύρωση">
+<!ENTITY close "Κλείσιμο">
+<!ENTITY completeMsg "Ολοκληρώθηκε, #2 KB ελήφθησαν (ο χρόνος που πέρασε ήταν #1)">
+<!ENTITY defaultTitle "Αποθήκευση">
+<!ENTITY keep "Διατήρηση του παρόντος παραθύρου μετά την ολοκλήρωση της λήψης αρχείων.">
+<!ENTITY launch "Εκκίνηση αρχείου">
+<!ENTITY longTimeFormat "#1:#2:#3">
+<!ENTITY openingSource "Άνοιγμα από:">
+<!ENTITY openingTarget "Με:">
+<!ENTITY openingTitle "#2&#037; από #1 ολοκληρώθηκαν">
+<!ENTITY pause "Παύση">
+<!ENTITY pausedMsg "Παύση λήψης αρχείου">
+<!ENTITY percentMsg "#1&#037;">
+<!ENTITY progress "Πρόοδος:">
+<!ENTITY progressMsg "#1KB από #2KB (με #3KB/sec)">
+<!ENTITY resume "Συνέχεια">
+<!ENTITY reveal "Αποκάλυψη τοποθεσίας αρχείου">
+<!ENTITY savingSource "Αποθήκευση από:">
+<!ENTITY savingTarget "Προς:">
+<!ENTITY savingTitle "#2&#037; από #1 αποθηκεύτηκαν">
+<!ENTITY shortTimeFormat "#2:#3">
+<!ENTITY status "Κατάσταση:">
+<!ENTITY timeElapsed "Χρόνος που πέρασε:">
+<!ENTITY timeLeft "Χρόνος που απομένει:">
+<!ENTITY unknownOpeningTitle "Άνοιγμα #1">
+<!ENTITY unknownSavingTitle "Αποθήκευση #1">
+<!ENTITY unknownTime "άγνωστο">

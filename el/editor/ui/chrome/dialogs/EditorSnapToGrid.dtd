@@ -1,0 +1,6 @@
+<!ENTITY enableSnapToGrid.accessKey "ε">
+<!ENTITY enableSnapToGrid.label "ενεργοποίηση Snap to Grid">
+<!ENTITY pixelsLabel.value "εικονοστοιχεία">
+<!ENTITY sizeEditField.accessKey "θ">
+<!ENTITY sizeEditField.label "Μέγεθος:">
+<!ENTITY windowTitle.label "Snap to Grid">

@@ -1,0 +1,28 @@
+<!ENTITY bookmarkLink.accesskey "μ">
+<!ENTITY bookmarkLink.label "Δεσμός ως σελιδοδείκτης">
+<!ENTITY byDate.accesskey "η">
+<!ENTITY byDate.label "Κατά ημερομηνία">
+<!ENTITY byDayAndSite.accesskey "ε">
+<!ENTITY byDayAndSite.label "Κατά ημερομηνία και σελίδα">
+<!ENTITY byLastVisited.accesskey "λ">
+<!ENTITY byLastVisited.label "Κατά τελευταία επίσκεψη">
+<!ENTITY byMostVisited.accesskey "χ">
+<!ENTITY byMostVisited.label "Κατά συχνότητα επίσκεψης">
+<!ENTITY bySite.accesskey "σ">
+<!ENTITY bySite.label "Κατά σελίδα">
+<!ENTITY collapse.accesskey "μ">
+<!ENTITY collapse.label "Σύμπτυξη">
+<!ENTITY copyLink.accesskey "γ">
+<!ENTITY copyLink.label "Αντιγραφή θέσης δεσμού">
+<!ENTITY expand.accesskey "ν">
+<!ENTITY expand.label "Ανάπτυξη">
+<!ENTITY find.accesskey "ρ">
+<!ENTITY find.label "Εύρεση:">
+<!ENTITY openInNewTab.accesskey "τ">
+<!ENTITY openInNewTab.label "Άνοιγμα σε νέα καρτέλα">
+<!ENTITY openInNewWindow.accesskey "π">
+<!ENTITY openInNewWindow.label "Άνοιγμα σε νέο παράθυρο">
+<!ENTITY openLinkInWindow.accesskey "γ">
+<!ENTITY openLinkInWindow.label "Άνοιγμα">
+<!ENTITY view.label "Προβολή">
+<!ENTITY view.accesskey "β">

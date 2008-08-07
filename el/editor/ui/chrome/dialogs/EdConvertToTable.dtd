@@ -1,0 +1,9 @@
+<!ENTITY collapseSpaces.label "Να αγνοούνται τα έξτρα κενά">
+<!ENTITY collapseSpaces.tooltip "Μετατροπή συνεχόμενων κενών σε ένα διαχωριστικό">
+<!ENTITY commaRadio.label "Κόμμα">
+<!ENTITY deleteCharCheck.label "Διαγραφή διαχωριστικού χαρακτήρα">
+<!ENTITY instructions1.label "O composer θα δημιουργεί μια νέα γραμμή πίνακα για κάθε παράγραφο στην επιλογή.">
+<!ENTITY instructions2.label "Επιλέξτε το χαρακτήρα που θα χωρίζει την επιλογή σε στήλες:">
+<!ENTITY otherRadio.label "Άλλος χαρακτήρας:">
+<!ENTITY spaceRadio.label "Διάστημα">
+<!ENTITY windowTitle.label "Μετατροπή σε πίνακα">

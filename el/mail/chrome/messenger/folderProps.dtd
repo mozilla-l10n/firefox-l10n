@@ -1,0 +1,94 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label           "Ιδιότητες">
+
+<!ENTITY generalInfo.label                       "Γενικές πληροφορίες">
+<!ENTITY folderCharsetTab.label                  "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
+<!ENTITY folderCharsetTab.accesskey              "ρ">
+<!ENTITY folderCharsetOverride.label             "Εφαρμογή προεπιλογής παντού (παράβλεψη και της κεφαλίδας MIME)">
+<!ENTITY folderCharsetOverride.accesskey         "φ">
+
+<!ENTITY retention.label "Πολιτική διατήρησης">
+<!ENTITY retentionUseDefault.label  "Χρήση προεπιλογών διακομιστή">
+<!ENTITY retentionUseDefault.accesskey "η">
+<!ENTITY days.label "ημέρες">
+<!ENTITY daysOld.label "ημέρες παλιά">
+<!ENTITY message.label "μηνύματα">
+<!ENTITY retentionCleanup.label "Για να ανακτήσετε χώρο στο δίσκο, μπορείτε να διαγράψετε τα παλιά μηνύματα">
+<!ENTITY retentionKeepMsg.label "Διαγραφή μηνυμάτων περισσότερο από">
+<!ENTITY retentionKeepMsg.accesskey "γ">
+<!ENTITY retentionKeepAll.label "Να μην γίνει διαγραφή μηνυμάτων">
+<!ENTITY retentionKeepAll.accesskey "μ">
+<!ENTITY retentionKeepNew.label "Διαγραφή όλων εκτός από τα τελευταία">
+<!ENTITY retentionKeepNew.accesskey "λ">
+<!ENTITY retentionKeepUnread.label "Πάντοτε διαγραφή αναγνωσμένων μηνυμάτων">
+<!ENTITY retentionKeepUnread.accesskey "Π">
+
+<!ENTITY folderOfflineTab.label                  "Χωρίς σύνδεση">
+<!ENTITY folderCheckForNewMessages.label         "Έλεγχος αυτού του φακέλου για νέα μηνύματα">
+<!ENTITY folderCheckForNewMessages.accesskey     "χ">
+
+<!ENTITY offlineFolder.check.label               "Επιλογή αυτού του φακέλου για εργασία χωρίς σύνδεση">
+<!ENTITY offlineFolder.check.accesskey           "γ">
+<!ENTITY offlineFolder.button.label              "Λήψη τώρα">
+<!ENTITY offlineFolder.button.accesskey          "ψ">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Επιλογή αυτής της ομάδας συζητήσεων για εργασία χωρίς σύνδεση">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "τ">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "Χρήση προεπιλογών των ρυθμίσεων λογαριασμού ">
+<!ENTITY offlineNewsgroup.button.label           "Λήψη τώρα">
+<!ENTITY offlineNewsgroup.button.accesskey       "ψ">
+
+<!ENTITY folderProps.information.label           "Πληροφορίες:">
+<!ENTITY folderProps.name.label                  "Όνομα:">
+<!ENTITY folderProps.name.accesskey              "ν">
+
+<!ENTITY folderSharingTab.label                  "Κοινή χρήση">
+<!ENTITY privilegesDesc.label                    "Κοινή χρήση του παρόντος και άλλων φακέλων με τους χρήστες δικτύου και προβολή και ορισμός προνομίων πρόσβασης">
+<!ENTITY privileges.button.label                 "Προνόμια...">
+<!ENTITY privileges.button.accesskey             "ν">
+<!ENTITY permissionsDesc.label                   "Έχετε τα ακόλουθα προνόμια:">
+<!ENTITY folderType.label                        "Τύπος φακέλου:">
+
+<!ENTITY folderQuotaTab.label                    "Όριο">
+<!ENTITY folderQuotaRoot.label                   "Quota Root:">
+<!ENTITY folderQuotaUsage.label                  "Χρήση:">
+<!ENTITY folderQuotaStatus.label                 "Κατάσταση:">

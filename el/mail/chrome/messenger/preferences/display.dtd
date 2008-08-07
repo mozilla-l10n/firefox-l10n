@@ -1,0 +1,56 @@
+<!ENTITY backgroundColor.accesskey "σ">
+<!ENTITY backgroundColor.label "Χρώμα παρασκηνίου:">
+<!ENTITY bigger.label "Μεγαλύτερα">
+<!ENTITY bold.label "Έντονα">
+<!ENTITY boldItalic.label "Έντονα πλάγια">
+<!ENTITY color.accesskey "Χ">
+<!ENTITY color.label "Χρώμα:">
+<!ENTITY composingDescription.label "Χρήση της προεπιλεγμένης κωδικοποίησης χαρακτήρων για την αποστολή και λήψη μηνυμάτων">
+<!ENTITY convertEmoticons.accesskey "φ">
+<!ENTITY convertEmoticons.label "Οι φατσούλες να εμφανίζονται ως γραφικά">
+<!ENTITY displayLabelsText.label "Οι ετικέτες μπορούν να χρησιμοποιηθούν για την κατηγοριοποίηση των μηνυμάτων σας.">
+<!ENTITY displayText.label "Κατά την εμφάνιση μηνυμάτων απλού κειμένου σε παράθεση:">
+<!ENTITY displayWidth.label "Μηνύματα απλού κειμένου">
+<!ENTITY fixedWidth.accesskey "θ">
+<!ENTITY fixedWidth.label "Σταθερού πλάτους">
+<!ENTITY fontOptions.accesskey "μ">
+<!ENTITY fontOptions.label "Γραμματοσειρές...">
+<!ENTITY fontsCaption.label "Γραμματοσειρές">
+<!ENTITY fontsDescription.label "Ρύθμιση των γραμματοσειρών που χρησιμοποιούνται από τον &brandShortName;">
+<!ENTITY forceCharsetOverride.accesskey "φ">
+<!ENTITY forceCharsetOverride.label "Εφαρμογή της προεπιλεγμένης γραμματοσειράς σε όλα τα εισερχόμενα μηνύματα">
+<!ENTITY htmlColors.label "Μηνύματα HTML ">
+<!ENTITY italic.label "Πλάγια">
+<!ENTITY itemFonts.label "Γραμματοσειρές">
+<!ENTITY itemFormatting.label "Μορφοποίηση">
+<!ENTITY itemLabels.label "Ετικέτες">
+<!ENTITY labelsSettings.label "Ετικέτες">
+<!ENTITY languagesTitle.label "Κωδικοποίηση χαρακτήρων">
+<!ENTITY messageWrapping.label "Αναδίπλωση μηνύματος">
+<!ENTITY overrideSender.accesskey "μ">
+<!ENTITY overrideSender.label "Κατά την εμφάνιση μηνυμάτων HTML, να γίνεται χρήση των παρακάτω:">
+<!ENTITY plainText.label "Χρήση της ακόλουθης γραμματοσειράς:">
+<!ENTITY readingMessagesHeader.label "Για εισερχόμενα μηνύματα">
+<!ENTITY regularSize.label "Κανονικά">
+<!ENTITY regularStyle.label "Κανονικά">
+<!ENTITY replyInDefaultCharset.accesskey "σ">
+<!ENTITY replyInDefaultCharset.label "Χρήση της προεπιλεγμένης κωδικοποίησης χαρακτήρων στις απαντήσεις">
+<!ENTITY restoreDefaults.accesskey "φ">
+<!ENTITY restoreDefaults.label "Επαναφορά προεπιλογών">
+<!ENTITY sendDefaultCharset.accesskey "χ">
+<!ENTITY sendDefaultCharset.label "Εξερχόμενη αλληλογραφία:">
+<!ENTITY size.accesskey "θ">
+<!ENTITY size.label "Μέγεθος:">
+<!ENTITY smaller.label "Μικρότερα">
+<!ENTITY style.accesskey "φ">
+<!ENTITY style.label "Μορφοποίηση:">
+<!ENTITY textBegin.label "Εμφάνιση απλού κειμένου σε παράθεση">
+<!ENTITY textColor.accesskey "α">
+<!ENTITY textColor.label "Χρώμα κειμένου:">
+<!ENTITY variableWidth.accesskey "β">
+<!ENTITY variableWidth.label "Μεταβλητού πλάτους">
+<!ENTITY viewDefaultCharsetList.accesskey "ι">
+<!ENTITY viewDefaultCharsetList.label "Εισερχόμενη αλληλογραφία:">
+<!ENTITY viewingPlainText.label "Κατά την εμφάνιση μηνυμάτων απλού κειμένου:">
+<!ENTITY wrapInMsg.accesskey "δ">
+<!ENTITY wrapInMsg.label "Αναδίπλωση κειμένου ώστε να χωράει στο μέγεθος του παραθύρου">

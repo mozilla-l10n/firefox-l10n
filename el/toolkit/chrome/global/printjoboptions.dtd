@@ -1,0 +1,17 @@
+<!ENTITY bottomInput.label "Κάτω:">
+<!ENTITY cmdInput.label "Εντολή εκτύπωσης">
+<!ENTITY colorGroup.label "Έγχρωμη:">
+<!ENTITY colorRadio.label "Έγχρωμη">
+<!ENTITY edgeMarginInput.label "Κενό από την άκρη του χαρτιού στο περιθώριο (ίντσες)">
+<!ENTITY grayRadio.label "Κλίμακα του γκρι">
+<!ENTITY leftInput.label "Αριστερά:">
+<!ENTITY paperInput.label "Μέγεθος χαρτιού:">
+<!ENTITY plexInput.label "Plex mode:">
+<!ENTITY printJobOptions.title "Ιδιότητες εκτυπωτή">
+<!ENTITY rightInput.label "Δεξιά:">
+<!ENTITY topInput.label "Πάνω:">
+<!ENTITY resolutionInput.label "Ανάλυση/Ποιότητα:">
+<!ENTITY jobTitleInput.label "Τίτλος εργασίας:">
+<!ENTITY colorspaceInput.label "Colorspace:">
+<!ENTITY fontsGroup.label "Γραμματοσειρές:">
+<!ENTITY downloadFonts.label "Να γίνει λήψη γραμματοσειρών για τον εκτυπωτή;">

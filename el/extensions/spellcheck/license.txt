@@ -1,0 +1,1 @@
+Greek spellchecking dictionary for Mozilla applications is based the Ispell dictionary created by Evripidis Papakostas and Steve Stavropoulos and licensed under GPL/MPL/LGPL. 

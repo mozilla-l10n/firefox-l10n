@@ -1,0 +1,83 @@
+<!ENTITY  updateWizard.title              "Ενημέρωση λογισμικού">
+
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  checking.title                  "Έλεγχος για ενημερώσεις">
+<!ENTITY  checking.label                  "Ο &brandShortName; ελέγχει για ενημερώσεις...">
+
+<!ENTITY  cancel.label                    "Ακύρωση">
+<!ENTITY  cancel.accesskey                "κ">
+
+
+
+<!ENTITY  clickHere.label                 "Πατήστε εδώ">
+
+<!ENTITY  incompatible.warning            "Αυτή η ενημέρωση θα απενεργοποιήσει κάποιες από τις επεκτάσεις και τα θέματα σας
+                                                                     μέχρι αυτά να ενημερωθούν.">
+<!ENTITY  listIncompatible.label          "Εμφάνιση λίστας">
+<!ENTITY  listIncompatible.accesskey      "λ">
+
+<!ENTITY  upgrade.evangelism              "Πρέπει να ενημερώσετε τον &brandShortName; όσο το δυνατόν πιο σύντομα 
+                                                                      πατώντας Λήψη &amp; Εγκατάσταση &#0187;.">
+
+<!ENTITY  downloading.intro               "Οι παρακάτω ενημερώσεις εγκαθίστανται/εγκαταστάθηκαν:">
+
+<!ENTITY  details.link                    "Λεπτομέρειες">
+<!ENTITY  pause.label                     "Παύση">
+<!ENTITY  pause.accesskey                 "Π">
+<!ENTITY  close.label                     "Κλείσιμο">
+<!ENTITY  close.accesskey                 "κ">
+
+
+<!ENTITY  license.titleText               "Άδεια χρήσης λογισμικού">
+<!ENTITY  license.introText               "Όροι και συνθήκες χρήσης αυτού του λογισμικού.">
+<!ENTITY  license.instructionText         "Διαβάστε την ακόλουθη άδεια χρήσης. Χρησιμοποιήστε την μπάρα κύλισης για να δείτε το υπόλοιπο κείμενο της άδειας.">
+<!ENTITY  license.accept                  "Αποδέχομαι τους όρους της άδειας χρήσης">
+<!ENTITY  license.accept.accesskey        "χ">
+<!ENTITY  license.decline                 "ΔΕΝ αποδέχομαι τους όρους της άδειας χρήσης">
+<!ENTITY  license.decline.accesskey       "Δ">
+
+<!ENTITY  finished.text                   "Η ενημέρωση λήφθηκε και επικυρώθηκε και θα εγκατασταθεί στην επόμενη εκκίνηση του &brandShortName;.">
+
+<!ENTITY  finishedBackground.text         "Ο &brandShortName; έκανε λήψη και επικύρωση μιας σημαντικής ενημέρωσης. Πατήστε το παρακάτω δεσμό για περισσότερες λεπτομέρειες.">
+<!ENTITY  finishedBackground.more1        "Πατήστε Επανεκκίνηση &brandShortName; τώρα για να εγκαταστήσετε την ενημέρωση.">
+
+
+
+                                     <!ENTITY  license.instructions            "Αν συμφωνείτε με τους όρους, πατήστε Συμφωνώ για 
+                                           να συνεχίσετε με την εγκατάσταση αυτής της ενημέρωσης.">
+
+<!ENTITY  error.label                     "Υπήρξαν προβλήματα με την εγκατάσταση αυτής της ενημέρωσης. Ο &brandShortName; δεν
+                                           μπορεί να ενημερωθεί λόγω του:">
+                                           
+<!ENTITY  errorManual.label               "Μπορείτε να ενημερώσετε τον &brandShortName; χειροκίνητα . Επισκεφτείτε αυτόν το δεσμό
+                                           για να λάβετε την τελευταία έκδοση:">
+
+<!ENTITY  noupdatesfound.title            "Δεν υπάρχουν ενημερώσεις">
+<!ENTITY  noupdatesfound.intro            "Δεν υπάρχουν νέες ενημερώσεις διαθέσιμες. Ο &brandShortName; μπορεί να ελέγχει σε περιοδικά χρονικά διαστήματα για ενημερώσεις.">
+<!ENTITY  downloading.title               "Λήψη αρχείων ενημέρωσης">
+<!ENTITY  connecting.label                "Σύνδεση με τον εξυπηρετητή ενημερώσεων...">
+<!ENTITY  finished.title                  "Έγινε λήψη της ενημέρωσης">
+<!ENTITY  finishedBackground.title        "Η ενημέρωση είναι έτοιμη να εγκατασταθεί">
+<!ENTITY  finishedBackground.name         "Ενημέρωση:">
+
+
+<!ENTITY  verificationFailedText.label    "Ο &brandShortName; δεν μπόρεσε να επιβεβαιώσει την ακεραιότητα της σταδιακής ενημέρωσης που 
+                                           λήφθηκε, και έτσι τώρα κάνει λήψη ολόκληρου του πακέτου αναβάθμισης.">
+<!ENTITY  installed.title                 "Η ενημέρωση εγκαταστάθηκε">
+<!ENTITY  installed.intro                 "Η ενημέρωση εγκαταστάθηκε επιτυχώς.">
+
+<!ENTITY  update.details.label            "Λεπτομέρειες">
+<!ENTITY  update.installedOn.label        "Εγκαταστάθηκε σε:">
+<!ENTITY  update.status.label             "Κατάσταση:">
+
+<!ENTITY  errorpatching.title             "Αποτυχία ενημέρωσης">
+<!ENTITY  errorpatching.intro             "Η μερική ενημέρωση δεν μπορεί να εφαρμοσθεί. 
+                                           Ο &brandShortName; θα προσπαθήσει ξανά να κάνει λήψη ολόκληρης της ενημέρωσης.">
+<!ENTITY  whatsnew.label                  "Διαβάστε περισσότερα για το τι νέο υπάρχει...">
+
+<!ENTITY  incompatibleChecking.label      "Γίνεται έλεγχος για το αν αυτή η ενημέρωση θα δημιουργήσει προβλήματα με τις επεκτάσεις ή/και τα θέματα σας...">
+
+<!ENTITY  finishedBackground.textNotNow   "Πατήστε Όχι τώρα για να συνεχίσετε χωρίς επανεκκίνηση. Η ενημέρωση θα εγκατασταθεί την επόμενη φορά που θα ξεκινήσετε τον &brandShortName;.">
+

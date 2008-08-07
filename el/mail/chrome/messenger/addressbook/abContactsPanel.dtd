@@ -1,0 +1,8 @@
+<!ENTITY SearchNameOrEmail.label "Όνομα ή Email">
+<!ENTITY addressbookPicker.label "Ευρετήριο:">
+<!ENTITY addtoBccFieldMenu.label "Προσθήκη στο πεδίο Κρυφ.κοιν">
+<!ENTITY addtoCcFieldMenu.label "Προσθήκη στο πεδίο Κοιν">
+<!ENTITY addtoToFieldMenu.label "Προσθήκη στο πεδίο Πρός">
+<!ENTITY ccButton.label "Προσθήκη στο Κοιν:">
+<!ENTITY searchInput.label "Αναζήτηση για:">
+<!ENTITY toButton.label "Προσθήκη στο Πρός:">

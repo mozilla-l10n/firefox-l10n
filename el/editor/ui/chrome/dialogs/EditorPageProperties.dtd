@@ -1,0 +1,12 @@
+<!ENTITY EditHEADSource1.label "Προχωρημένοι χρήστες:">
+<!ENTITY EditHEADSource2.label "Για να επεξεργαστείτε τα άλλα περιεχόμενα της περιοχής &lt;head&gt;, χρησιμοποιείστε την επιλογή Kώδικας από το μενού προβολής ή επεξεργασίας.    ">
+<!ENTITY authorInput.accessKey "">
+<!ENTITY authorInput.label "Συγγραφέας:">
+<!ENTITY descriptionInput.accessKey "">
+<!ENTITY descriptionInput.label "Περιγραφή:">
+<!ENTITY lastModified.label "Τελευταία τροποποίηση:">
+<!ENTITY location.label "Τοποθεσία:">
+<!ENTITY locationNewPage.label "[Νέα σελίδα, μη αποθηκευμένη ακόμα]">
+<!ENTITY titleInput.accessKey "">
+<!ENTITY titleInput.label "Τίτλος:">
+<!ENTITY windowTitle.label "Ιδιότητες σελίδας">

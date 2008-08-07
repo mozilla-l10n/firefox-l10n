@@ -1,0 +1,13 @@
+<!ENTITY AlignCenter.label "Μέσο">
+<!ENTITY AlignDefault.label "Προεπιλεγμένο">
+<!ENTITY AlignLeft.label "Αριστερά">
+<!ENTITY AlignRight.label "Δεξιά">
+<!ENTITY EditLegendText.accesskey "ξ">
+<!ENTITY EditLegendText.label "Επεξεργασία λεζάντας:">
+<!ENTITY Legend.accesskey "ζ">
+<!ENTITY Legend.label "Λεζάντα">
+<!ENTITY LegendAlign.accesskey "τ">
+<!ENTITY LegendAlign.label "Στοίχιση λεζάντας:">
+<!ENTITY RemoveFieldSet.accesskey "ρ">
+<!ENTITY RemoveFieldSet.label "Απομάκρυνση ορισμού πεδίου">
+<!ENTITY windowTitle.label "Ιδιότητες ορισμού πεδίου.">

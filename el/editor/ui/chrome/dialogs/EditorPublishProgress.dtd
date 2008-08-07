@@ -1,0 +1,13 @@
+<!ENTITY docSubdir.label "Υποκατάλογος σελίδας...">
+<!ENTITY failed.label "Αποτυχία">
+<!ENTITY fileList.label "Κατάσταση δημοσίευσης">
+<!ENTITY filenameHeader.label "Όνομα αρχείου">
+<!ENTITY keepOpen "Διατήρηση του παρόντος παραθύρου μετά την ολοκλήρωση της δημοσίευσης.">
+<!ENTITY otherSubdir.label "Υποκατάλογος εικόνας...">
+<!ENTITY siteUrl.label " URL ιστοσελίδας:">
+<!ENTITY status.label "Δημοσίευση...">
+<!ENTITY statusHeader.label "Κατάσταση">
+<!ENTITY succeeded.label "Επιτυχία">
+<!ENTITY troubleshooting.accessKey "τ">
+<!ENTITY troubleshooting.label "Αντιμετώπιση προβλημάτων">
+<!ENTITY closeButton.label     "Κλείσιμο">

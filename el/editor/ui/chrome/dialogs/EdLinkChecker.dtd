@@ -1,0 +1,7 @@
+<!ENTITY changeUrlButton.label "Αλλαγή τοποθεσίας επιλεγμένου αντικειμένου">
+<!ENTITY failed.label "Απέτυχε">
+<!ENTITY notFoundKey.label "(&quot;X&quot; = το αρχείο δεν βρέθηκε, &quot;?&quot; = λήξη χρόνου κατά την προσπάθεια σύνδεσης.)">
+<!ENTITY succeeded.label "Επετεύχθηκε">
+<!ENTITY urlsNotFound.label "Δεν βρέθηκαν οι ακόλουθες τοποθεσίες εικόνων ή δεσμών:">
+<!ENTITY windowTitle.label "Έλεγχος τοποθεσίας εικόνας και δεσμών.">
+<!ENTITY closeButton.label     "Κλείσιμο">

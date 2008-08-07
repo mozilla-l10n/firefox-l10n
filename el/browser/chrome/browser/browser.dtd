@@ -1,0 +1,383 @@
+<!ENTITY closeWindow.accesskey "θ">
+<!ENTITY printFrameCmd.label          "Εκτύπωση πλαισίου...">
+<!ENTITY printFrameCmd.accesskey      "λ">
+<!ENTITY fullZoomEnlargeCmd.label       "Μεγέθυνση">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "θ">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY fullZoomReduceCmd.label        "Σμίκρυνση">
+<!ENTITY fullZoomReduceCmd.accesskey    "υ">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.label         "Επαναφορά">
+<!ENTITY fullZoomResetCmd.accesskey     "ρ">
+<!ENTITY fullZoom.label                 "Μεγέθυνση">
+<!ENTITY fullZoom.accesskey             "γ">
+<!ENTITY editBookmark.done.label                      "Προσθήκη">
+<!ENTITY identity.moreInfoLinkText "Περισσότερα για αυτή την ιστοσελίδα...">
+
+<!ENTITY allowPopups.accesskey "ν">
+<!ENTITY backButton.tooltip "Μετάβαση μια σελίδα πίσω">
+<!ENTITY backCmd.accesskey "Π">
+<!ENTITY backCmd.label "Πίσω">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "τ">
+<!ENTITY bidiSwitchPageDirectionItem.label "Αλλαγή κατεύθυνσης σελίδας">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "κ">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY bidiSwitchTextDirectionItem.label "Αλλαγή κατεύθυνσης κειμένου">
+<!ENTITY blockImageCmd.accesskey "κ">
+<!ENTITY bookmarksButton.label "Σελιδοδείκτες">
+<!ENTITY bookmarksButton.tooltip "Εμφανίζει τους σελιδοδείκτες σας">
+<!ENTITY bookmarksItem.title "Σελιδοδείκτες">
+<!ENTITY bookmarksMenu.accesskey "Σ">
+<!ENTITY bookmarksMenu.label "Σελιδοδείκτες">
+<!ENTITY bookmarksSidebarCmd.accesskey "λ">
+<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY bookmarksToolbarItem.label "Αντικείμενα εργαλειοθήκης σελιδοδεικτών">
+<!ENTITY closeCmd.accesskey "Κ">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.label "Κλείσιμο">
+<!ENTITY closeWindow.label "Κλείσιμο παραθύρου">
+<!ENTITY copyButton.tooltip "Αντιγραφή">
+<!ENTITY copyCmd.accesskey "Α">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.label "Αντιγραφή">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.label "Αντιγραφή διεύθυνσης Email">
+<!ENTITY copyImageCmd.accesskey "ν">
+<!ENTITY copyImageCmd.label "Αντιγραφή τοποθεσίας εικόνας">
+<!ENTITY copyImageContentsCmd.accesskey "γ">
+<!ENTITY copyImageContentsCmd.label "Αντιγραφή εικόνας">
+<!ENTITY copyLinkCmd.accesskey "γ">
+<!ENTITY copyLinkCmd.label "Αντιγραφή τοποθεσίας δεσμού">
+<!ENTITY cutButton.tooltip "Αποκοπή">
+<!ENTITY cutCmd.accesskey "κ">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.label "Αποκοπή">
+<!ENTITY deleteCmd.accesskey "Δ">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.label "Διαγραφή">
+<!ENTITY dontShowMessage.accesskey "Ν">
+<!ENTITY downloads.accesskey "ψ">
+<!ENTITY downloads.commandkey "j">
+<!ENTITY downloads.label "Λήψεις αρχείων">
+<!ENTITY downloads.tooltip "Εμφανίζει την πρόοδο λήψης αρχείων">
+<!ENTITY downloadsUnix.commandkey "y">
+
+<!ENTITY editMenu.accesskey "Ε">
+<!ENTITY editMenu.label "Επεξεργασία">
+<!ENTITY editPopupSettings.accesskey "ξ">
+<!ENTITY editPopupSettings.label "Επεξεργασία επιλογών φραγής αναδυόμενων...">
+<!ENTITY fileMenu.accesskey "Α">
+<!ENTITY fileMenu.label "Αρχείο">
+<!ENTITY findAgainCmd.accesskey "ξ">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findAgainCmd.label "Εύρεση ξανά">
+<!ENTITY findOnCmd.accesskey "ρ">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findOnCmd.label "Εύρεση σε αυτή τη σελίδα...">
+<!ENTITY forwardButton.tooltip "Μετάβαση μια σελίδα μπροστά">
+<!ENTITY forwardCmd.accesskey "Μ">
+<!ENTITY forwardCmd.label "Μπροστά">
+<!ENTITY fullScreenCmd.accesskey "Π">
+<!ENTITY fullScreenCmd.label "Πλήρης οθόνη">
+<!ENTITY fullScreenMinimize.tooltip "Ελαχιστοποίηση">
+<!ENTITY fullScreenRestore.tooltip "Επαναφορά">
+<!ENTITY fullScreenClose.tooltip "Κλείσιμο">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+
+
+
+<!ENTITY goOfflineCmd.accesskey "χ">
+<!ENTITY goOfflineCmd.label "Εργασία χωρίς σύνδεση">
+<!ENTITY historyButton.label "Ιστορικό">
+<!ENTITY historyButton.tooltip "Εμφανίζει τις σελίδες που επισκεφθήκατε πρόσφατα">
+<!ENTITY historySidebarCmd.accesskey "σ">
+<!ENTITY historySidebarCmd.commandKey "h">
+<!ENTITY homeButton.label "Αρχική σελίδα">
+<!ENTITY import.accesskey "ι">
+<!ENTITY import.label "Εισαγωγή...">
+
+
+<!ENTITY keywordfield.accesskey "κ">
+<!ENTITY keywordfield.label "Προσθέστε μια λέξη-κλειδί για αυτή την αναζήτηση">
+<!ENTITY locationItem.title "Τοποθεσία">
+<!ENTITY mainWindow.title "&brandFullName;">
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+
+<!ENTITY metadataCmd.accesskey "δ">
+<!ENTITY metadataCmd.label "Ιδιότητες">
+<!ENTITY navbarCmd.accesskey "γ">
+<!ENTITY navbarCmd.label "Εργαλειοθήκη πλοήγησης">
+
+
+<!ENTITY newNavigatorCmd.accesskey "Ν">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.label "Νέο παράθυρο">
+<!ENTITY newTabButton.tooltip "Ανοίγει μια νέα καρτέλα">
+<!ENTITY newWindowButton.tooltip "Ανοίγει ένα νέο παράθυρο">
+
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.accesskey "ν">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY openFileCmd.label "Άνοιγμα αρχείου...">
+<!ENTITY openFrameCmd.accesskey "ν">
+<!ENTITY openFrameCmd.label "Άνοιγμα πλαισίου σε νέο παράθυρο">
+<!ENTITY openFrameCmdInTab.accesskey "π">
+<!ENTITY openFrameCmdInTab.label "Άνοιγμα πλαισίου σε νέα καρτέλα">
+<!ENTITY openLinkCmd.accesskey "δ">
+<!ENTITY openLinkCmd.label "Άνοιγμα δεσμού σε νέο παράθυρο">
+<!ENTITY openLinkCmdInTab.accesskey "τ">
+<!ENTITY openLinkCmdInTab.label "Άνοιγμα δεσμού σε νέα καρτέλα">
+
+
+<!ENTITY openLocationCmd.accesskey "τ">
+<!ENTITY openLocationCmd.label "Άνοιγμα τοποθεσίας...">
+<!ENTITY pageInfoCmd.accesskey "λ">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY pageInfoCmd.label "Πληροφορίες σελίδας">
+<!ENTITY pageReportIcon.tooltip "Αλλαγή ρυθμίσεων φραγής αναδυόμενων για αυτή την ιστοσελίδα">
+<!ENTITY pageSourceCmd.accesskey "δ">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageSourceCmd.label "Κώδικας σελίδας">
+
+
+<!ENTITY pageStyleMenu.accesskey "ο">
+<!ENTITY pageStyleMenu.label "Μορφοποίηση σελίδας">
+<!ENTITY pageStyleNoStyle.accesskey "ρ">
+<!ENTITY pageStyleNoStyle.label "Χωρίς μορφοποίηση">
+<!ENTITY pageStylePersistentOnly.accesskey "Β">
+<!ENTITY pageStylePersistentOnly.label "Βασική μορφοποίηση σελίδας">
+<!ENTITY pasteButton.tooltip "Επικόλληση">
+<!ENTITY pasteCmd.accesskey "π">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.label "Επικόλληση">
+<!ENTITY personalbarCmd.accesskey "γ">
+<!ENTITY personalbarCmd.label "Εργαλειοθήκη σελιδοδεικτών">
+<!ENTITY preferencesCmd.accesskey "Ε">
+<!ENTITY preferencesCmd.label "Επιλογές...">
+<!ENTITY preferencesCmdUnix.accesskey "μ">
+<!ENTITY preferencesCmdUnix.label "Προτιμήσεις">
+<!ENTITY printButton.label "Εκτύπωση">
+<!ENTITY printButton.tooltip "Εκτύπωση αυτής της σελίδας">
+<!ENTITY printCmd.accesskey "κ">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.label "Εκτύπωση...">
+<!ENTITY printPreviewCmd.accesskey "ρ">
+<!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
+<!ENTITY printSetupCmd.accesskey "μ">
+<!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
+<!ENTITY quitApplicationCmd.accesskey "ξ">
+<!ENTITY quitApplicationCmd.label "Έξοδος">
+<!ENTITY quitApplicationCmdWin.accesskey "ξ">
+<!ENTITY quitApplicationCmdWin.label "Έξοδος">
+<!ENTITY redoCmd.accesskey "κ">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.label "Ακύρωση αναίρεσης">
+
+
+<!ENTITY reloadButton.tooltip "Ανανέωση τρέχουσας σελίδας">
+<!ENTITY reloadCmd.accesskey "ν">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadCmd.label "Ανανέωση">
+<!ENTITY reloadFrameCmd.accesskey "ν">
+<!ENTITY reloadFrameCmd.label "Ανανέωση πλαισίου">
+<!ENTITY saveFrameCmd.accesskey "π">
+<!ENTITY saveFrameCmd.label "Αποθήκευση πλαισίου ως...">
+<!ENTITY saveImageCmd.accesskey "θ">
+<!ENTITY saveImageCmd.label "Αποθήκευση εικόνας ως...">
+<!ENTITY saveLinkCmd.accesskey "θ">
+<!ENTITY saveLinkCmd.label "Αποθήκευση δεσμού ως...">
+<!ENTITY savePageCmd.accesskey "π">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY savePageCmd.label "Αποθήκευση σελίδας ως...">
+<!ENTITY search.accesskey "ζ">
+<!ENTITY search.label "Αναζήτηση στο διαδίκτυο">
+<!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
+<!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY searchItem.title "Αναζήτηση">
+<!ENTITY selectAllCmd.accesskey "λ">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.label "Επιλογή όλων">
+<!ENTITY sendImageCmd.accesskey "ν">
+<!ENTITY sendImageCmd.label "Αποστολή εικόνας...">
+<!ENTITY sendLinkCmd.accesskey "δ">
+<!ENTITY sendLinkCmd.label "Αποστολή δεσμού...">
+<!ENTITY sendPageCmd.accesskey "λ">
+<!ENTITY sendPageCmd.label "Αποστολή δεσμού...">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "τ" >
+<!ENTITY setDesktopBackgroundCmd.label  "Ορισμός ως ταπετσαρία">
+<!ENTITY showOnlyThisFrameCmd.accesskey "ν">
+<!ENTITY showOnlyThisFrameCmd.label "Προβολή μόνο αυτού του πλαισίου">
+<!ENTITY sidebarCloseButton.tooltip "Κλείσιμο πλευρικής στήλης">
+<!ENTITY stopButton.tooltip "Διακοπή φόρτωσης αυτής της σελίδας">
+<!ENTITY stopCmd.accesskey "Δ">
+<!ENTITY stopCmd.label "Διακοπή">
+<!ENTITY tabCmd.accesskey "τ">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY tabCmd.label "Νέα καρτέλα">
+<!ENTITY taskbarCmd.accesskey "κ">
+<!ENTITY taskbarCmd.label "Γραμμή κατάστασης">
+
+
+
+<!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+
+
+<!ENTITY bookmarkPageCmd2.label       "Η σελίδα ως σελιδοδείκτης">
+<!ENTITY bookmarkPageCmd2.accesskey   "σ">
+<!ENTITY bookmarkThisLinkCmd.label      "Ο δεσμός ως σελιδοδείκτης">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "δ">
+<!ENTITY bookmarkThisFrameCmd.label      "Το πλαίσιο ως σελιδοδείκτης">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "λ">
+
+
+<!ENTITY editBookmark.cancel.label                   "Ακύρωση">
+<!ENTITY editBookmark.removeBookmark.label           "Απομάκρυνση σελιδοδείκτη">
+<!ENTITY editBookmark.removeBookmark.accessKey       "ρ">
+<!ENTITY editBookmark.undo.label                     "Αναίρεση">
+<!ENTITY editBookmark.undo.accessKey                 "ν">
+<!ENTITY editBookmark.edit.label                     "Επεξεργασία…">
+<!ENTITY editBookmark.edit.accessKey                 "Ε">
+
+
+<!ENTITY identity.connectedTo "Έχετε συνδεθεί σε">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "η οποία ανήκει σε">
+
+
+
+<!ENTITY thisFrameMenu.accesskey "λ">
+<!ENTITY thisFrameMenu.label "Αυτό το πλαίσιο">
+<!ENTITY throbberItem.title "Πρόοδος">
+<!ENTITY toolsMenu.accesskey "γ">
+<!ENTITY toolsMenu.label "Εργαλεία">
+<!ENTITY undoCmd.accesskey "Α">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.label "Αναίρεση">
+
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY viewBGImageCmd.accesskey "β">
+<!ENTITY viewBGImageCmd.label "Προβολή εικόνας παρασκηνίου">
+<!ENTITY viewCustomizeToolbar.accesskey "Π">
+<!ENTITY viewCustomizeToolbar.label "Προσαρμογή...">
+<!ENTITY viewFrameInfoCmd.accesskey "β">
+<!ENTITY viewFrameInfoCmd.label "Προβολή πληροφοριών πλαισίου">
+<!ENTITY viewFrameSourceCmd.accesskey "β">
+<!ENTITY viewFrameSourceCmd.label "Προβολή πηγαίου κώδικα πλαισίου">
+<!ENTITY viewImageCmd.accesskey "κ">
+<!ENTITY viewImageCmd.label "Προβολή εικόνας">
+<!ENTITY viewMenu.accesskey "ρ">
+<!ENTITY viewMenu.label "Προβολή">
+<!ENTITY viewPageInfoCmd.accesskey "λ">
+<!ENTITY viewPageInfoCmd.label "Προβολή πληροφοριών σελίδας">
+<!ENTITY viewPageSourceCmd.accesskey "Π">
+<!ENTITY viewPageSourceCmd.label "Προβολή πηγαίου κώδικα">
+<!ENTITY viewPartialSourceCmd.accesskey "ε">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Προβολή πηγαίου κώδικα MathML">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Προβολή πηγαίου κώδικα επιλογής">
+<!ENTITY viewSidebarMenu.accesskey "ε">
+<!ENTITY viewSidebarMenu.label "Πλευρική στήλη">
+<!ENTITY viewToolbarsMenu.accesskey "ρ">
+<!ENTITY viewToolbarsMenu.label "Εργαλειοθήκες">
+
+<!ENTITY editPopupSettingsUnix.label "Επεξεργασία προτιμήσεων φραγής παραθύρων...">
+<!ENTITY bookmarkAllCmd.label "'Ολες οι καρτέλες ως σελιδοδείκτης...">
+<!ENTITY clearPrivateDataCmd.label            "Εκκαθάριση προσωπικών δεδομένων">
+<!ENTITY clearPrivateDataCmd.accesskey        "θ">
+<!ENTITY quitApplicationCmdMac.label    "Έξοδος">
+<!ENTITY quitApplicationCmdMac.key      "Q">
+
+<!-- XXX places only -->
+<!ENTITY historyMenu.label "Ιστορικό">
+<!ENTITY historyMenu.accesskey "Ι">
+<!ENTITY historyHomeCmd.label "Αρχική σελίδα">
+
+
+<!ENTITY showAllHistoryCmd2.label "Προβολή ιστορικού">
+
+
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+
+
+
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+
+<!ENTITY addCurPagesCmd.label "Όλες οι καρτέλες ως σελιδοδείκτης...">
+
+
+<!ENTITY showImageCmd.label           "Προβολή εικόνας">
+<!ENTITY showImageCmd.accesskey       "β">
+<!ENTITY copyLinkTextCmd.label        "Αντιγραφή κειμένου δεσμού">
+<!ENTITY copyLinkTextCmd.accesskey    "μ">
+
+
+
+
+<!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών...">
+<!ENTITY spellAddDictionaries.accesskey "θ">
+
+<!ENTITY addons.label                 "Πρόσθετα">
+<!ENTITY addons.tooltip               "Εμφάνιση και διαχείριση προσθέτων">
+<!ENTITY addons.accesskey             "θ">
+
+<!ENTITY savePageCmd.accesskey2       "λ">
+
+<!ENTITY errorConsoleCmd.label        "Κονσόλα σφαλμάτων">
+<!ENTITY errorConsoleCmd.accesskey    "κ">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+
+
+<!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
+<!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα...">
+
+
+
+<!ENTITY historyUndoMenu.label "Πρόσφατα κλεισμένες καρτέλες">
+
+
+<!ENTITY goEndCap.tooltip             "Μετάβαση στη διεύθυνση στη γραμμή διευθύνσεων">
+
+<!ENTITY fullScreenAutohide.label "Απόκρυψη εργαλειοθηκών">
+<!ENTITY fullScreenAutohide.accesskey "ψ">
+<!ENTITY fullScreenExit.label "Έξοδος από πλήρη οθόνη">
+<!ENTITY fullScreenExit.accesskey "π">
+
+<!ENTITY fullZoomToggleCmd.label        "Μεγέθυνση μόνο κείμενο">
+<!ENTITY fullZoomToggleCmd.accesskey    "κ">
+
+<!ENTITY downloadMonitor2.tooltip "Κλικ για το άνοιγμα του παραθύρου λήψεων">
+
+<!ENTITY urlbar.emptyText             "Αναζήτηση σελιδοδεικτών και ιστορικού">
+
+<!ENTITY identity.unverifiedsite2 "Αυτή η σελίδα δεν παρέχει πληροφορίες ταυτότητας της.">
+
+<!ENTITY organizeBookmarks.label "Οργάνωση σελιδοδεικτών…">
+<!ENTITY backForwardMenu.tooltip      "Πρόσφατες σελίδες">
+
+
+

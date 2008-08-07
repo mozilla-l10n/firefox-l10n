@@ -1,0 +1,19 @@
+<!ENTITY  pref.masterpass.title                  "Διαχείριση Κωδικών">
+
+<!ENTITY resetpassword.text "Αν αρχικοποιήσετε τον κύριο κωδικό σας, όλοι οι αποθηκευμένοι κωδικοί, δεδομένα φορμών, πιστοποιητικά και ιδιωτικά κλειδιά θα χαθούν.">
+<!ENTITY changepassword.text "Ο κύριος κωδικός προστατεύει τις ευαίσθητες πληροφορίες σας, όπως κωδικοί ιστοσελίδων και πιστοποιητικά.">
+<!ENTITY managepassword.asktimeout "Αν δεν έχει χρησιμοποιηθεί για">
+<!ENTITY  managepassword.asktimeout.accesskey    "γ">
+<!ENTITY managepassword.askfirsttime "Την πρώτη φορά που θα χρειαστεί">
+<!ENTITY  managepassword.askfirsttime.accesskey  "π">
+<!ENTITY resetpassword.accesskey "κ">
+<!ENTITY managepassword.timeout.unit "λεπτά ή περισσότερο">
+<!ENTITY managepassword.text "Ο &brandShortName; θα ζητάει τον κύριο κωδικό:">
+<!ENTITY changepassword.accesskey "λ">
+<!ENTITY resetpassword.button "Αρχικοποίηση κωδικού">
+<!ENTITY managepassword.askeverytime "Κάθε φορά που χρειάζεται">
+<!ENTITY  managepassword.askeverytime.accesskey  "θ">
+<!ENTITY changepassword.button "Αλλαγή κωδικού...">
+<!ENTITY  managepassword.caption                 "Λήξη ορίου χρόνου κύριου κωδικού">
+<!ENTITY  resetpassword.caption                  "Αρχικοποίηση κύριου κωδικού">
+<!ENTITY  changepassword.caption                 "Αλλαγή κύριου κωδικού">

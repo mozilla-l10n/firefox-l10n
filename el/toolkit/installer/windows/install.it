@@ -1,0 +1,139 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=161
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+OK_=&OK
+OK=OK
+CANCEL=Ακύρωση
+CANCEL_=&Ακύρωση
+NEXT_=&Επόμενο >
+BACK_=< &Πίσω
+IGNORE_=&Αγνόηση
+PROXY_MESSAGE=Για να ρυθμίσετε ένα Proxy server για αυτή την μεταφόρτωση, πατήστε το κουμπί της Σύνδεσης... . 
+PROXY_BUTTON=&Σύνδεση...
+PROXYSETTINGS=Ρυθμίσεις Proxy:
+PROXYSETTINGS_=Ρυθμίσεις &Proxy
+SERVER=Εξυπηρετητής:
+PORT=Θύρα:
+USERID=User id:
+PASSWORD=Κωδικός:
+SELECTDIRECTORY=Επιλέξτε ένα κατάλογο
+DIRECTORIES_=&Κατάλογοι:
+DRIVES_=Δί&σκοι:
+STATUS=Απομένουν:
+FILE=Αρχείο:
+URL=URL:
+TO=σε διαδρομή:
+ACCEPT_=&Αποδοχή
+DECLINE_=&Απόρριψη
+PROGRAMFOLDER_=&Φάκελος προγράμματος:
+EXISTINGFOLDERS_=Υ&πάρχοντες φάκελοι:
+SETUPMESSAGE=Η εγκατάσταση ολοκλήρωσε την αντιγραφή αρχείων στον υπολογιστή σας.  Πριν να χρησιμοποιήσετε τον $ProductNameInternal$, θα πρέπει να επανεκκίνησετε τα Windows. Επιλέξτε μια από τις παρακάτω επιλογές και πατήστε OK για να ολοκληρωθεί η εγκατάσταση.
+RESTART=Επανεκκίνηση
+YESRESTART=Ναι, θέλω να επανεκκινήσω τον υπολογιστή μου τώρα.
+NORESTART=Όχι, επανεκκίνηση αργότερα.
+ADDITIONALCOMPONENTS_=&Πρόσθετα Στοιχεία:
+DESCRIPTION=Περιγραφή
+TOTALDOWNLOADSIZE=Συνολικός όγκος μεταφόρτωσης:
+SPACEAVAILABLE=Διαθέσιμος χώρος:
+COMPONENTS_=Στ&οιχεία:
+BROWSEINFO=Επιλέξτε έναν φάκελο για να εγκαταστήσετε τον $ProductName$:
+DESTINATIONDIRECTORY=Φάκελος εγκατάστασης
+BROWSE_=Ε&ξερεύνηση...
+DOWNLOADSIZE=Μέγεθος λήψης: %u KB
+CURRENTSETTINGS=Τρέχουσες ρυθμίσεις:
+INSTALLFOLDER=...στην παρακάτω τοποθεσία:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s, και:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Εγκατάσταση
+DELETE_=&Διαγραφή
+CONTINUE_=&Συνέχεια
+SKIP_=&Παράκαμψη
+README=Re&ad Me
+PAUSE_=&Παύση
+RESUME_=&Συνέχεια
+CHECKED=Checked
+UNCHECKED=Unchecked
+
+EXTRACTING=Αποσυμπίεση...
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Αδυναμία δημιουργία διαλόγου %s.
+ERROR_FAILED=%s απέτυχε.
+ERROR_FILE_NOT_FOUND=Το αρχείο δεν βρέθηκε: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=GetSystemDirectory() απέτυχε.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =GetWindowsDirectory() απέτυχε.
+DLGQUITTITLE=Έξοδος από την εγκατάσταση
+DLGQUITMSG=Δεν έχετε ολοκληρώσει την εγκατάσταση του $ProductName$. Αν τερματίσετε την εγκατάσταση τώρα, ο $ProductName$ δεν θα εγκατασταθεί.Είστε σίγουροι ότι θέλετε να ακυρώσετε την εγκατάσταση;
+DLG_REBOOT_TITLE=Επανεκκίνηση των Windows
+ERROR_GETPROCADDRESS=GetProcAddress() από %s απέτυχε.
+ERROR_WRITEPRIVATEPROFILESTRING=WritePrivateProfileString() απέτυχε για αρχείο %s
+MSG_RETRIEVE_CONFIGINI=Παρακαλώ περιμένετε για την ανάκτηση της δέσμης ενεργειών ρύθμισης... 
+ERROR_CREATE_TEMP_DIR=Η εγκατάσταση δεν κατάφερε να δημιουργήσει κατάλογο TEMP: %s
+DLGBROWSETITLE=Επιλογή ενός καταλόγου
+ERROR_DETERMINING_DISK_SPACE=Αδυναμία υπολογισμού διαθέσιμου χώρου για: %s
+DLG_DISK_SPACE_CHECK_TITLE=Έλεγχος διαθέσιμου χώρου
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Η εγκατάσταση δεν βρήκε διαθέσιμο χώρο για να συνεχίσει στο %s για την διαδρομή: %sΑπαιτούμενος: %sΔιαθέσιμος: %sΠατήστε Προσπάθεια ξανά αν βρέθηκε παραπάνω χώρος, ή Ακύρωση για την ακύρωση της εγκατάστασης.
+DLG_DISK_SPACE_CHECK_MSG= Η εγκατάσταση δεν βρήκε διαθέσιμο χώρο για να συνεχίσει στο %s για την διαδρομή: %sΑπαιτούμενος: %sΔιαθέσιμος: %sΠατήστε OK για να γυρίσετε πίσω και να επιλέξετε ένα διαφορετικό κατάλογο.
+ERROR_CREATE_DIRECTORY=Αδυναμία δημιουργίας φακέλου: %sΒεβαιωθείτε ότι έχετε πρόσβαση για την δημιουργία φακέλου.
+ERROR_MESSAGE_TITLE=$ProductNameInternal$ Σφάλμα εγκατάστασης
+STR_FILE_NUMBER=Αρίθμηση αρχείων:
+STR_FILENAME=Όνομα αρχείου:
+MSG_SMARTUPDATE_START=Προετοιμασία εγκατάστασης, παρακαλώ περιμένετε...
+MSG_CONFIGURING=Ρύθμιση %s, παρακαλώ περιμένετε...
+ERROR_XPI_INSTALL=Σφάλμα κατα την εγκατάσταση
+ERROR_SETUP_REQUIREMENT= Ο $ProductName$ μπορεί να τρέξει μόνο σε Windows 95 ή νεότερα. Η εγκατάσταση τώρα θα τερματίσει. 
+DLG_EXTRACTING_TITLE=Εγκατάσταση $ProductName$ - Πρόοδος εγκατάστασης
+STR_PROCESSINGFILE=Προετοιμασία αρχείου: %s
+STR_INSTALLING=Τώρα γίνεται εγκατάσταση %s
+STR_COPYINGFILE=Αντιγραφή αρχείου: %s
+MB_WARNING_STR=Προειδοποίηση
+MB_MESSAGE_STR=Μήνυμα
+MB_ATTENTION_STR=Προσοχή
+MSG_CREATE_DIRECTORY=Ο παρακάτω κατάλογος δεν υπάρχει:%sΘέλετε να δημιουργηθεί;
+STR_CREATE_DIRECTORY=Δημιουργία καταλόγου;
+ERROR_PROGRAM_FOLDER_NAME=Εισήχθηκε μη έγκυρος φάκελος προγράμματος.
+CB_DEFAULT=Προεπιλογή
+ERROR_DESTINATION_PATH=Εισήχθηκε μη έγκυρη διαδρομή.
+STR_SETUP_TYPE=Τύπος εγκατάστασης:
+STR_SELECTED_COMPONENTS=Επιλεγμένα στοιχεία:
+STR_DESTINATION_DIRECTORY=Κατάλογος προορισμού:
+STR_PROGRAM_FOLDER=Φάκελος προγράμματος:
+STR_DELETING_DESTINATION_DIR=Γίνεται διαγραφή καταλόγου προορισμού για να γίνει η αναβάθμιση, παρακαλώ περιμένετε...
+STR_SETUP=Εγκατάσταση
+STR_DOWNLOAD_SITE=Σελίδα μεταφόρτωσης:
+STR_SAVE_INSTALLER_FILES=Αποθήκευση αρχείων που λήφθηκαν και προγράμματος εγκατάστασης σε:
+MSG_INIT_SETUP=Αρχικοποίηση εγκατάστασης...
+STR_MESSAGEBOX_TITLE=%s Εγκατάσταση
+ERROR_GETVERSION=GetVersionEx() απέτυχε!
+DLG_USAGE_TITLE=Χρήση
+
+STATUS_EXTRACTING=Αποσυμπίεση %s
+STATUS_LAUNCHING_SETUP=Εκκίνηση εγκατάστασης...
+ERROR_FILE_WRITE=Αδυναμία εγγραφής αρχείου %s
+TITLE=Εγκατάσταση
+ERROR_OUT_OF_MEMORY=Ανεπάρκεια μνήμης!
+
+ERROR_DLL_LOAD=Αδυναμία φόρτωσης %s
+ERROR_STRING_LOAD=Αδυναμία φόρτωσης string resource ID %d
+ERROR_STRING_NULL=Null pointer encountered.
+ERROR_GLOBALALLOC=Memory allocation error.
+MSG_FORCE_QUIT_PROCESS=Η εγκατάσταση εντόπισε ότι ο %s (%s) εκτελείται ακόμα.  Πατήστε OK για να εγκαταλείψετε το %s και να συνεχίσετε με την εγκατάσταση. Εναλλακτικά, χρησιμοποιήστε τον Windows Task Manager για να τερματίσετε το %s, και μετά πατήστε OK για να συνεχίσετε με την εγκατάσταση.
+MSG_FORCE_QUIT_PROCESS_FAILED=Η εγκατάσταση τώρα θα τερματίσει. Η εγκατάσταση δεν μπορεί να συνεχίσει επειδή το %s (%s) εκτελείται ακόμα. Προσπαθείστε να τερματίσετε χειροκίνητα %s με την χρήση του Windows Task Manager, και μετά εκτελέστε την εγκατάσταση ξανά.
+ERROR_PATH_WITHIN_WINDIR=Ο $ProductName$ δεν μπορεί να εγκατασταθεί σε ένα φάκελο που βρίσκεται μέσα σε φάκελο των Windows. Επιλέξτε ένα διαφορετικό φάκελο.
+
+
+

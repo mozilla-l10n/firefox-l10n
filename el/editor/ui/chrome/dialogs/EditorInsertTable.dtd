@@ -1,0 +1,12 @@
+<!ENTITY borderEditField.accessKey "">
+<!ENTITY borderEditField.label "Πλαίσιο:">
+<!ENTITY borderEditField.tooltip "Εισάγετε ένα μέγεθος για το πλαίσιο πίνακα, ή εισάγετε μηδέν (0) για χωρίς πλαίσιο">
+<!ENTITY numColumnsEditField.accessKey "">
+<!ENTITY numColumnsEditField.label "Στήλες:">
+<!ENTITY numRowsEditField.accessKey "">
+<!ENTITY numRowsEditField.label "Σειρές:">
+<!ENTITY pixels.label "εικονοστοιχεία">
+<!ENTITY size.label "Μέγεθος">
+<!ENTITY widthEditField.accessKey "">
+<!ENTITY widthEditField.label "Πλάτος:">
+<!ENTITY windowTitle.label "Εισαγωγή πίνακα">

@@ -1,0 +1,13 @@
+<!ENTITY AddButton.accessKey "">
+<!ENTITY AddButton.label "Προσθήκη">
+<!ENTITY CloseButton.accessKey "">
+<!ENTITY CloseButton.label "Κλείσιμο">
+<!ENTITY DictionaryList.accessKey "">
+<!ENTITY DictionaryList.label "Λέξεις στο λεξικό:">
+<!ENTITY RemoveButton.accessKey "">
+<!ENTITY RemoveButton.label "Αφαίρεση">
+<!ENTITY ReplaceButton.accessKey "">
+<!ENTITY ReplaceButton.label "Αντικατάσταση">
+<!ENTITY windowTitle.label "Προσωπικό λεξικό">
+<!ENTITY wordEditField.accessKey "">
+<!ENTITY wordEditField.label "Νέα λέξη:">

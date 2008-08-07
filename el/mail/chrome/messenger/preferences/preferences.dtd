@@ -1,0 +1,11 @@
+<!ENTITY paneAdvanced.title "Για προχωρημένους">
+<!ENTITY paneAttachments.title "Συνημμένα">
+<!ENTITY paneComposition.title "Σύνταξη">
+<!ENTITY paneDisplay.title "Εμφάνιση">
+<!ENTITY paneGeneral.title "Γενικά">
+<!ENTITY panePrivacy.title "Απόρρητο">
+<!ENTITY prefWindow.styleMac "width: 53em;">
+<!ENTITY prefWindow.styleUnix "width: 53em; height: 33em;">
+<!ENTITY prefWindow.styleWin "width: 53em; height: 43em;">
+<!ENTITY prefWindow.titleGNOME "Προτιμήσεις &brandShortName;">
+<!ENTITY prefWindow.titleWin "Επιλογές">

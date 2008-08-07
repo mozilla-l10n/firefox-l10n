@@ -1,0 +1,42 @@
+<!ENTITY CellularNumber.accesskey "κ">
+<!ENTITY CellularNumber.label "Κινητό">
+<!ENTITY Company.accesskey "γ">
+<!ENTITY Company.label "Οργανισμός">
+<!ENTITY Department.accesskey "μ">
+<!ENTITY Department.label "Τμήμα">
+<!ENTITY FaxNumber.accesskey "Φ">
+<!ENTITY FaxNumber.label "Φαξ">
+<!ENTITY GeneratedName.accesskey "ν">
+<!ENTITY GeneratedName.label "Όνομα">
+<!ENTITY HomePhone.accesskey "φ">
+<!ENTITY HomePhone.label "Τηλέφωνο Οικίας">
+<!ENTITY JobTitle.accesskey "Τ">
+<!ENTITY JobTitle.label "Τίτλος">
+<!ENTITY NickName.accesskey "δ">
+<!ENTITY NickName.label "Ψευδώνυμο">
+<!ENTITY PagerNumber.accesskey "β">
+<!ENTITY PagerNumber.label "Βομβητής">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY PrimaryEmail.label "Email">
+<!ENTITY ScreenName.accesskey "S">
+<!ENTITY ScreenName.label "Screen Name">
+<!ENTITY SecondEmail.accesskey "l">
+<!ENTITY SecondEmail.label "Επιπρόσθετο  Email">
+<!ENTITY WorkPhone.accesskey "γ">
+<!ENTITY WorkPhone.label "Τηλέφωνο Εργασίας">
+<!ENTITY _PhoneticName.accesskey "ω">
+<!ENTITY _PhoneticName.label "Φωνητικό όνομα">
+<!ENTITY addrBookCardProperties.accesskey "δ">
+<!ENTITY addrBookCardProperties.label "Ιδιότητες">
+<!ENTITY composeEmail.accesskey "ξ">
+<!ENTITY composeEmail.label "Σύνταξη μηνύματος σε:">
+<!ENTITY deleteAddrBookCard.accesskey "Δ">
+<!ENTITY deleteAddrBookCard.label "Διαγραφή">
+<!ENTITY newAddrBookCard.accesskey "Ν">
+<!ENTITY newAddrBookCard.label "Νέα καρτέλα...">
+<!ENTITY newAddrBookMailingList.accesskey "λ">
+<!ENTITY newAddrBookMailingList.label "Νέα λίστα αλληλογραφίας...">
+<!ENTITY sortAscending.accesskey "ξ">
+<!ENTITY sortAscending.label "Σε αύξουσα σειρά">
+<!ENTITY sortDescending.accesskey "φ">
+<!ENTITY sortDescending.label "Σε φθίνουσα σειρά">

@@ -1,0 +1,13 @@
+<!ENTITY accentLower.label "Accent Lowercase">
+<!ENTITY accentUpper.label "Accent Uppercase">
+<!ENTITY category.label "Κατηγορία">
+<!ENTITY character.accessKey "">
+<!ENTITY character.label "Χαρακτήρας">
+<!ENTITY commonSymbols.label "Κοινά Σύμβολα">
+<!ENTITY letter.accessKey "">
+<!ENTITY letter.label "Γράμμα:">
+<!ENTITY otherLower.label "Άλλα Πεζά">
+<!ENTITY otherUpper.label "Άλλα Κεφαλαία">
+<!ENTITY windowTitle.label "Εισαγωγή χαρακτήρα">
+<!ENTITY insertButton.label "Εισαγωγή">
+<!ENTITY closeButton.label "Κλείσιμο">

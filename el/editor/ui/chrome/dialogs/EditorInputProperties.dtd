@@ -1,0 +1,41 @@
+<!ENTITY Accept.accesskey "Α">
+<!ENTITY Accept.label "Αποδεκτοί τύποι:">
+<!ENTITY AccessKey.accesskey "Κ">
+<!ENTITY AccessKey.label "Κλειδί πρόσβασης:">
+<!ENTITY GroupName.label "Όνομα ομάδας:">
+<!ENTITY ImageProperties.accesskey "τ">
+<!ENTITY ImageProperties.label "Ιδιότητες εικόνας...">
+<!ENTITY InitialValue.label "Αρχική τιμή:">
+<!ENTITY InputChecked.accesskey "τ">
+<!ENTITY InputChecked.label "Αρχικά τσεκαρισμένο">
+<!ENTITY InputDisabled.accesskey "π">
+<!ENTITY InputDisabled.label "Απενεργοποιημένο">
+<!ENTITY InputName.label "Όνομα πεδίου:">
+<!ENTITY InputReadOnly.accesskey "ν">
+<!ENTITY InputReadOnly.label "Μόνο για ανάγνωση">
+<!ENTITY InputSelected.accesskey "χ">
+<!ENTITY InputSelected.label "Αρχικά επιλεγμένο">
+<!ENTITY InputSettings.label "Ρυθμίσεις Πεδίου">
+<!ENTITY InputType.accesskey "Τ">
+<!ENTITY InputType.label "Τύπος πεδίου">
+<!ENTITY InputValue.label "Τιμή πεδίου:">
+<!ENTITY Name.accesskey "">
+<!ENTITY TextLength.accesskey "μ">
+<!ENTITY TextLength.label "Μέγιστο μήκος:">
+<!ENTITY TextSize.accesskey "θ">
+<!ENTITY TextSize.label "Μέγεθος πεδίου:">
+<!ENTITY Value.accesskey "">
+<!ENTITY button.value "Κουμπί">
+<!ENTITY checkbox.value "Check Box">
+<!ENTITY file.value "Αρχείο">
+<!ENTITY hidden.value "Κρυφό">
+<!ENTITY image.value "Εικόνα">
+<!ENTITY password.value "Κωδικός">
+<!ENTITY radio.value "Κουμπί Radio">
+<!ENTITY reset.value "Κουμπί επαναφοράς">
+<!ENTITY submit.value "Κουμπί υποβολής">
+<!ENTITY tabIndex.accesskey "σ">
+<!ENTITY tabIndex.label "Κατάλογος στηλοθέτη:">
+<!ENTITY text.value "Κείμενο">
+<!ENTITY windowTitle.label "Ιδιότητες πεδίου φόρμας">
+<!ENTITY windowTitleImage.label "Ιδιότητες εικόνας φόρμας">

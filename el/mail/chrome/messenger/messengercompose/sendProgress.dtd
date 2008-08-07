@@ -1,0 +1,8 @@
+<!ENTITY messageSaved "Το μήνυμα σας αποθηκεύτηκε">
+<!ENTITY messageSent "Το μήνυμα σας στάλθηκε">
+<!ENTITY percentMsg "#1&#037;">
+<!ENTITY progress "Πρόοδος:">
+<!ENTITY sendWindow.title "Αποστολή μηνυμάτων">
+<!ENTITY status "Κατάσταση:">
+<!ENTITY titlePrefixSave "Αποθήκευση μηνυμάτων -">
+<!ENTITY titlePrefixSend "Αποστολή Μηνυμάτων -">

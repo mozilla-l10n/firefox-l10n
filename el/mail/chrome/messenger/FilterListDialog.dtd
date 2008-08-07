@@ -1,0 +1,29 @@
+<!ENTITY activeColumn.label "Ενεργοποίηση">
+<!ENTITY choosethis.label "επιλογή αυτού του φακέλου">
+<!ENTITY choosethisnewsserver.label "κλείσιμο αυτού του εξυπηρετητή συζητήσεων">
+<!ENTITY closeCmd.key "W">
+<!ENTITY deleteButton.accesskey "">
+<!ENTITY deleteButton.label "Διαγραφή">
+<!ENTITY editButton.accesskey "">
+<!ENTITY editButton.label "Επεξεργασία...">
+<!ENTITY filterHeader.label "Τα ενεργοποιημένα φίλτρα θα εκτελούνται με την παρακάτω σειρά.">
+<!ENTITY filtersForPrefix.accesskey "">
+<!ENTITY filtersForPrefix.label "Φίλτρα για:">
+<!ENTITY folderPickerPrefix.accesskey "">
+<!ENTITY folderPickerPrefix.label "Εκτέλεση επιλεγμένων φίλτρων στο:">
+<!ENTITY helpButton.accesskey "Β">
+<!ENTITY helpButton.label "Βοήθεια">
+<!ENTITY nameColumn.label "Περιγραφή">
+<!ENTITY newButton.accesskey "">
+<!ENTITY newButton.label "Νέο...">
+<!ENTITY reorderDownButton.accesskey "">
+<!ENTITY reorderDownButton.label "Μετακίνηση προς τα κάτω">
+<!ENTITY reorderUpButton.accesskey "Μ">
+<!ENTITY reorderUpButton.label "Μετακίνηση προς τα πάνω">
+<!ENTITY runFilters.accesskey "">
+<!ENTITY runFilters.label "Εκτέλεση τώρα">
+<!ENTITY stopFilters.accesskey "">
+<!ENTITY stopFilters.label "Διακοπή">
+<!ENTITY viewLogButton.accesskey "">
+<!ENTITY viewLogButton.label "Αρχείο καταγραφής φίλτρου">
+<!ENTITY window.title "Φίλτρα μηνύματος">

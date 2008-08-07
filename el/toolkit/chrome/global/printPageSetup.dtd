@@ -1,0 +1,43 @@
+<!ENTITY advanced.tab "Περιθώρια &amp; Κεφαλίδα/Υποσέλιδο">
+<!ENTITY basic.tab "Μορφή &amp; Επιλογές">
+<!ENTITY customPrompt.prompt "Εισάγετε το προσαρμοσμένο κείμενο κεφαλίδας/υποσέλιδου">
+<!ENTITY customPrompt.title "Προσαρμοσμένο...">
+<!ENTITY formatGroup.label "Μορφή">
+<!ENTITY headerFooter.label "Κεφαλίδες &amp; Υποσέλιδα">
+<!ENTITY hfBlank "--κενή--">
+<!ENTITY hfCenter.label "Κέντρο:">
+<!ENTITY hfCustom "Προσαρμοσμένο...">
+<!ENTITY hfDateAndTime "Ημερομηνία/Ώρα">
+
+<!ENTITY hfLeft.label "Αριστερά:">
+<!ENTITY hfPage "Σελίδα #">
+
+<!ENTITY hfPageAndTotal "Σελίδα # από #">
+
+<!ENTITY hfRight.label "Δεξιά">
+<!ENTITY hfTitle "Τίτλος">
+
+<!ENTITY hfURL "URL">
+
+<!ENTITY landscape "Οριζόντιος">
+<!ENTITY marginBottom.label "Κάτω:">
+<!ENTITY marginGroup.label "Περιθώρια (#1)">
+<!ENTITY marginLeft.label "Αριστερά:">
+<!ENTITY marginRight.label "Δεξιά:">
+<!ENTITY marginTop.label "Πάνω">
+<!ENTITY marginUnits.inches "ίντσες">
+<!ENTITY marginUnits.metric "χιλιοστά">
+<!ENTITY optionsGroup.label "Επιλογές:">
+<!ENTITY orientation.label "Προσανατολισμός:">
+<!ENTITY portrait "Κατακόρυφος">
+<!ENTITY printBG.label "Εκτύπωση παρασκηνίου (χρώματα &amp; εικόνες)">
+<!ENTITY printSetup.title "Διαμόρφωση σελίδας">
+<!ENTITY scale.label "Κλίμακα:">
+<!ENTITY scalePercent "&#037;">
+<!ENTITY shrinkToFit.label "Σμίκρυνση στο πλάτος της σελίδας">
+<!ENTITY headerLeft.tip      "Αριστερή κεφαλίδα">
+<!ENTITY headerCenter.tip    "Κεντραρισμένη κεφαλίδα">
+<!ENTITY headerRight.tip     "Δεξιά κεφαλίδα">
+<!ENTITY footerLeft.tip      "Αριστερό υποσέλιδο">
+<!ENTITY footerCenter.tip    "Κεντραρισμένο υποσέλιδο">
+<!ENTITY footerRight.tip     "Δεξιό υποσέλιδο">

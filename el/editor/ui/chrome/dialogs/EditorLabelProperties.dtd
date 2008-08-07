@@ -1,0 +1,11 @@
+<!ENTITY AccessKey.accesskey "π">
+<!ENTITY AccessKey.label "Πλήκτρο συντόμευσης:">
+<!ENTITY EditLabelText.accesskey "ξ">
+<!ENTITY EditLabelText.label "Επεξεργασία κειμένου:">
+<!ENTITY LabelFor.accesskey "λ">
+<!ENTITY LabelFor.label "Για έλεγχο:">
+<!ENTITY RemoveLabel.accesskey "ρ">
+<!ENTITY RemoveLabel.label "Απομάκρυνση ετικέτας">
+<!ENTITY Settings.accesskey "θ">
+<!ENTITY Settings.label "Ρυθμίσεις">
+<!ENTITY windowTitle.label "Ιδιότητες Ετικέτας">

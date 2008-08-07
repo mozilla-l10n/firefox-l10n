@@ -1,0 +1,8 @@
+<!ENTITY identitiesListAdd.accesskey "θ">
+<!ENTITY identitiesListAdd.label "Προσθήκη">
+<!ENTITY identitiesListDelete.accesskey "γ">
+<!ENTITY identitiesListDelete.label "Διαγραφή">
+<!ENTITY identitiesListDesc.label "Υποστήριξη πολλαπλών ταυτοτήτων">
+<!ENTITY identitiesListEdit.accesskey "ξ">
+<!ENTITY identitiesListEdit.label "Επεξεργασία...">
+<!ENTITY identitiesListTitle.label "Ταυτότητες σχετικές με αυτόν το λογαριασμό">

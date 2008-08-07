@@ -1,0 +1,8 @@
+<!ENTITY example.label "Παράδειγμα:">
+<!ENTITY exampleCloseTag.label "&lt;/i&gt;">
+<!ENTITY exampleOpenTag.label "&lt;i&gt;">
+<!ENTITY exampleText.label "Hello World!">
+<!ENTITY sourceEditField.label "Εισάγετε HTML tags και κείμενο:">
+<!ENTITY windowTitle.label "Εισαγωγή HTML">
+<!ENTITY insertButton.label "Εισαγωγή">
+<!ENTITY insertButton.accesskey "σ">

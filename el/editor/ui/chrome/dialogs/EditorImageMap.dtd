@@ -1,0 +1,48 @@
+<!ENTITY about.accesskey "">
+<!ENTITY aboutCmd.label "Πληροφορίες">
+<!ENTITY apercentCmd.label "100">
+<!ENTITY bpercentCmd.label "200">
+<!ENTITY clear.accesskey "">
+<!ENTITY clearCmd.label "Εκκαθάριση">
+<!ENTITY close.accesskey "">
+<!ENTITY closeCmd.label "Κλείσιμο">
+<!ENTITY contrast.accesskey "">
+<!ENTITY contrastCmd.label "Αντίθεση">
+<!ENTITY copy.accesskey "">
+<!ENTITY copyCmd.label "Αντιγραφή">
+<!ENTITY cpercentCmd.label "400">
+<!ENTITY cut.accesskey "">
+<!ENTITY cutCmd.label "Αποκοπή">
+<!ENTITY delSpotCmd.label "Διαγραφή Spot">
+<!ENTITY mapeditMenu.label "Επεξεργασία">
+<!ENTITY mapeditcopy.accesskey "">
+<!ENTITY mapeditcut.accesskey "">
+<!ENTITY mapeditmenu.accesskey "ε">
+<!ENTITY mapeditpaste.accesskey "">
+<!ENTITY mapeditprops.accesskey "">
+<!ENTITY mapfileMenu.label "Αρχείο">
+<!ENTITY mapfileclear.accesskey "">
+<!ENTITY mapfileclose.accesskey "">
+<!ENTITY mapfilemenu.accesskey "Α">
+<!ENTITY maphelpMenu.label "Βοήθεια">
+<!ENTITY maphelpmenu.accesskey "β">
+<!ENTITY mapselectall.accesskey "">
+<!ENTITY mapviewMenu.label "Προβολή">
+<!ENTITY mapviewScale.label "Κλίμακα">
+<!ENTITY mapviewmenu.accesskey "Π">
+<!ENTITY mapviewscale.accesskey "λ">
+<!ENTITY mapviewtbar.accesskey "">
+<!ENTITY paste.accesskey "">
+<!ENTITY pasteCmd.label "Επικόλληση">
+<!ENTITY props.accesskey "">
+<!ENTITY propsCmd.label "Ιδιότητες Hotspot">
+<!ENTITY selectall.accesskey "">
+<!ENTITY selectallCmd.label "Επιλογή όλων">
+<!ENTITY showhideTbarCmd.label "Απόκρυψη εργαλειοθήκης">
+<!ENTITY tbar.accesskey "">
+<!ENTITY windowTitle.label "Image Map Editor">
+<!ENTITY zoominCmd.label "Μεγέθυνση">
+<!ENTITY zoomone.accesskey "1">
+<!ENTITY zoomoutCmd.label "Σμίκρυνση">
+<!ENTITY zoomthree.accesskey "4">
+<!ENTITY zoomtwo.accesskey "2">

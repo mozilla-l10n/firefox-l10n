@@ -1,0 +1,19 @@
+<!ENTITY AccessKey.accesskey "σ">
+<!ENTITY AccessKey.label "Πλήκρο συντόμευσης:">
+<!ENTITY ButtonDisabled.accesskey "ν">
+<!ENTITY ButtonDisabled.label "Απενεργοποιημένο">
+<!ENTITY ButtonName.accesskey "ν">
+<!ENTITY ButtonName.label "Όνομα:">
+<!ENTITY ButtonType.accesskey "Τ">
+<!ENTITY ButtonType.label "Τύπος">
+<!ENTITY ButtonValue.accesskey "μ">
+<!ENTITY ButtonValue.label "Τιμή:">
+<!ENTITY RemoveButton.accesskey "π">
+<!ENTITY RemoveButton.label "Απομάκρυνση κουμπιού">
+<!ENTITY Settings.label "Ρυθμίσεις">
+<!ENTITY button.value "Κουμπί">
+<!ENTITY reset.value "Επαναφορά">
+<!ENTITY submit.value "Υποβολή">
+<!ENTITY tabIndex.accesskey "λ">
+<!ENTITY tabIndex.label "Κατάλογος στηλοθέτη:">
+<!ENTITY windowTitle.label "Ιδιότητες κουμπιού">

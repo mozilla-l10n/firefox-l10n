@@ -1,0 +1,19 @@
+<!ENTITY about.version                "έκδοση">
+
+<!ENTITY about.copy.beforeLink        "Πνευματικά δικαιώματα &copy; 1998-2007 by">
+<!ENTITY about.copy.linkTitle         "συντελεστές">
+<!ENTITY about.copy.afterLink         "στο έργο Mozilla.">
+
+<!ENTITY about.license.beforeLink     "Διαβάστε τις">
+<!ENTITY about.license.linkTitle      "πληροφορίες αδειοδότησης">
+<!ENTITY about.license.afterLink      "για αυτό το προϊόν.">
+
+<!ENTITY about.relnotes.beforeLink    "Διαβάστε τις">
+<!ENTITY about.relnotes.linkTitle     "σημειώσεις κυκλοφορίας">
+<!ENTITY about.relnotes.afterLink     "για αυτή την έκδοση.">
+
+<!ENTITY about.buildconfig.beforeLink "Δείτε το">
+<!ENTITY about.buildconfig.linkTitle  "build configuration">
+<!ENTITY about.buildconfig.afterLink  "που χρησιμοποιήθηκε για αυτή την έκδοση.">
+
+<!ENTITY about.buildIdentifier        "Build identifier: ">

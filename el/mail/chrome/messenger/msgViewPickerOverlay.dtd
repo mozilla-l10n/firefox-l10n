@@ -1,0 +1,5 @@
+<!ENTITY viewPicker.accesskey "λ">
+<!ENTITY viewPicker.label "Προβολή:">
+<!ENTITY viewPickerAll.label "'Ολα">
+<!ENTITY viewPickerCustomView.label "Προσαρμογή...">
+<!ENTITY viewPickerUnread.label "Μη αναγνωσμένα">

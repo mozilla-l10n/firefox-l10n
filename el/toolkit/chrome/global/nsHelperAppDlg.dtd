@@ -1,0 +1,22 @@
+<!ENTITY alwaysHandle.accesskey "π">
+<!ENTITY alwaysHandle.label "Να εκτελείται πάντα αυτή η ενέργεια κατά το χειρισμό αρχείων αυτού του είδους">
+<!ENTITY badApp "Η εφαρμογή που επιλέξατε [&quot;#1&quot;] δεν μπορεί να βρεθεί. Ελέγξτε το όνομα αρχείου ή επιλέξτε μια άλλη εφαρμογή.">
+<!ENTITY badApp.title "Η εφαρμογή δεν βρέθηκε">
+<!ENTITY caption.label "Άνοιγμα #1">
+<!ENTITY chooseApp.accesskey "λ">
+<!ENTITY chooseApp.label "Επιλογή...">
+<!ENTITY chooseAppFilePickerTitle "Επιλογή εφαρμογής">
+<!ENTITY intro.attachment.label "Η σελίδα πρότεινε ότι το &quot;#3&quot; πρέπει να χειρισθεί ως συνημμένο. Είναι του τύπου  #2 (#1) και βρίσκεται στο:">
+<!ENTITY intro.attachment.noDesc.label "Η σελίδα πρότεινε ότι το &quot;#3&quot; πρέπει να χειρισθεί ως συνημμένο. Είναι του τύπου  #2 και βρίσκεται στο:">
+<!ENTITY intro.label "Το αρχείο &quot;#3&quot; είναι τύπου #2  (#1), και δεν είναι γνωστός ο τρόπος χειρισμού του από τον #4. Το αρχείο βρίσκεται σε:">
+<!ENTITY intro.noDesc.label "Το αρχείο &quot;#3&quot; είναι τύπου #2, και δεν είναι γνωστός ο τρόπος χειρισμού του από τον #4. Το αρχείο βρίσκεται σε:">
+<!ENTITY openUsing.accesskey "μ">
+<!ENTITY openUsing.label "Άνοιγμα με χρήση">
+<!ENTITY prompt.label "Τι πρόκειται να κάνει ο #1 με αυτό το αρχείο;">
+<!ENTITY saveToDisk.accesskey "θ">
+<!ENTITY saveToDisk.label "Αποθήκευση στο δίσκο">
+<!ENTITY useSystemDefault.accesskey "ρ">
+<!ENTITY useSystemDefault.label "Άνοιγμα με την προεπιλεγμένη εφαρμογή(#1)">
+<!ENTITY useSystemDefault.noDesc.label "Άνοιγμα με την προεπιλεγμένη εφαρμογή">
+<!ENTITY intro.sniffed.label "#4 εντόπισε ότι το αρχείο &quot;#3&quot; είναι μάλλον του τύπου #2 (#1). Το αρχείο βρίσκεται στο:">
+<!ENTITY intro.sniffed.noDesc.label "#4 εντόπισε ότι το αρχείο &quot;#3&quot; είναι μάλλον του τύπου  #2. Το αρχείο βρίσκεται στο:">

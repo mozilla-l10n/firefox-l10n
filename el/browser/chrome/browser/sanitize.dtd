@@ -1,0 +1,25 @@
+<!ENTITY sanitizeDialog.title         "Εκκαθάριση προσωπικών δεδομένων">
+
+<!ENTITY sanitizeItems.label          "Εκκαθάριση των ακόλουθων αντικειμένων τώρα:">
+<!ENTITY itemHistory.label            "Ιστορικό περιήγησης">
+<!ENTITY itemPasswords.label          "Αποθηκευμένοι κωδικοί">
+<!ENTITY itemCookies.label            "Cookies">
+<!ENTITY itemCache.label              "Λανθάνουσα μνήμη">
+<!ENTITY itemDownloads.label          "Ιστορικό λήψης αρχείων">
+
+<!ENTITY itemHistory.accesskey        "σ">
+<!ENTITY itemPasswords.accesskey      "κ">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.accesskey          "θ">
+<!ENTITY itemDownloads.accesskey      "ψ">
+<!ENTITY itemSessions.label           "Συνεδρίες με σύνδεση">
+<!ENTITY itemSessions.accesskey       "υ">
+<!ENTITY itemFormSearchHistory.label  "Αποθηκευμένες φόρμες και ιστορικό αναζήτησης">
+ <!ENTITY itemFormSearchHistory.accesskey "φ">
+
+<!ENTITY window.width                 "38em">
+<!ENTITY clearDataSettings.label      "Κατά την εκκαθάριση προσωπικών δεδομένων από τον &brandShortName; θα διαγράφονται:">
+
+<!ENTITY itemOfflineApps.label        "Δεδομένα ιστοσελίδων για εργασία χωρίς σύνδεση">
+<!ENTITY itemOfflineApps.accesskey    "δ">
+

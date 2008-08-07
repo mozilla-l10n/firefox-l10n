@@ -1,0 +1,13 @@
+<!ENTITY managecerts.accesskey "Δ">
+<!ENTITY managedevices.accesskey "σ">
+<!ENTITY managecerts.button "Διαχείριση πιστοποιητικών...">
+<!ENTITY managedevices.button "Διαχείριση συσκευών ασφάλειας...">
+<!ENTITY managedevices.text 'Χρήση αυτού του κουμπιού για τη διαχείριση συσκευών ασφάλειας, όπως "έξυπνες κάρτες".'>
+<!ENTITY certs.label "Πιστοποιητικά">
+<!ENTITY ssl.label "SSL">
+<!ENTITY resetsettings.label "Επαναφορά ρυθμίσεων">
+<!ENTITY managecerts.text "Χρήση της Διαχείρισης Πιστοποιητικών για τα προσωπικά πιστοποιητικά όπως και τρίτων και αρχών ">
+<!ENTITY resetpreferences.label "Επαναφορά προτιμήσεων...">
+<!ENTITY  managedevices.caption    "Διαχείριση συσκευών ασφάλειας">
+<!ENTITY  managecerts.caption      "Διαχείριση πιστοποιητικών">
+<!ENTITY  pref.certs.title         "Πιστοποιητικά">

@@ -1,0 +1,7 @@
+<!ENTITY addButton.accesskey "θ">
+<!ENTITY addButton.label "Προσθήκη">
+<!ENTITY newMsgHeader.accesskey "Ν">
+<!ENTITY newMsgHeader.label "Νέα κεφαλίδα μηνύματος:">
+<!ENTITY removeButton.accesskey "μ">
+<!ENTITY removeButton.label "Απομάκρυνση">
+<!ENTITY window.title "Προσαρμογή κεφαλίδων">

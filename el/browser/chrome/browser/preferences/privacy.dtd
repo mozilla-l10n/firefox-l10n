@@ -1,0 +1,59 @@
+<!ENTITY  history.label "Ιστορικό">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Διατήρηση του ιστορικού μου για τις τελευταίες">
+<!ENTITY  rememberDaysBefore.accesskey  "η">
+<!ENTITY  rememberDaysAfter2.label      "ημέρες">
+
+
+
+<!ENTITY  rememberForms.label           "Απομνημόνευση φορμών και ιστορικού μπάρας αναζήτησης">
+<!ENTITY  rememberForms.accesskey       "φ">
+
+<!ENTITY  rememberDownloads.label       "Απομνημόνευση λήψεων">
+<!ENTITY  rememberDownloads.accesskey   "ψ">
+
+
+<!ENTITY  cookies.label                 "Cookies">
+
+<!ENTITY  acceptCookies.label           "Αποδοχή cookies από σελίδες">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.label        "Αποδοχή cookies τρίτων">
+<!ENTITY  acceptThirdParty.accesskey    "ρ">
+
+
+<!ENTITY  cookieExceptions.label        "Εξαιρέσεις...">
+<!ENTITY  cookieExceptions.accesskey    "ξ">
+
+
+<!ENTITY  showCookies.label             "Προβολή Cookies...">
+<!ENTITY  showCookies.accesskey         "β">
+
+<!ENTITY  alwaysClear.label              "Πάντα εκκαθάριση των προσωπικών μου  δεδομένων στο κλείσιμο του &brandShortName;">
+<!ENTITY  alwaysClear.accesskey          "θ">
+
+<!ENTITY  clearDataSettings.label        "Ρυθμίσεις...">
+<!ENTITY  clearDataSettings.accesskey    "θ">
+
+<!ENTITY  keepUntil.label               "Διατήρηση μέχρι:">
+<!ENTITY  keepUntil.accesskey           "Δ">
+
+<!ENTITY  expire.label                  "να λήξουν">
+<!ENTITY  close.label                   "να κλείσει ο &brandShortName;">
+<!ENTITY  askEachTime.label             "ερώτηση κάθε φορά">
+<!ENTITY  privateData.label             "Προσωπικά δεδομένα">
+
+<!ENTITY  clearDataNow.label             "Εκκαθάριση τώρα...">
+<!ENTITY  clearDataNow.label2            "Εκκαθάριση τώρα">
+<!ENTITY  clearDataNow.accesskey         "θ">
+
+<!ENTITY  askBeforeClear.label           "Ερώτηση πριν την εκκκαθάριση προσωπικών δεδομένων">
+<!ENTITY  askBeforeClear.accesskey       "η">
+
+

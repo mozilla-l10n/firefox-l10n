@@ -1,0 +1,12 @@
+<!ENTITY accountName.accesskey "ν">
+<!ENTITY accountName.label "Όνομα λογαριασμού:">
+<!ENTITY accountSettingsDesc.label "Αυτός είναι ένας ειδικός λογαριασμός. Δεν υπάρχουν ταυτότητες σχετικές με αυτόν.">
+<!ENTITY accountTitle.label "Οδηγός λογαριασμού">
+<!ENTITY browseFolder.accesskey "ξ">
+<!ENTITY browseFolder.label "Εξερεύνηση...">
+<!ENTITY emptyTrashOnExit.accesskey "ξ">
+<!ENTITY emptyTrashOnExit.label "Άδειασμα κάδου στην έξοδο">
+<!ENTITY localFolderPicker.label "Επιλογή τοπικών φακέλων:">
+<!ENTITY localPath.accesskey "π">
+<!ENTITY localPath.label "Τοπικός κατάλογος:">
+<!ENTITY messageStorage.label "Αποθηκευτικός χώρος μηνυμάτων">

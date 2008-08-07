@@ -1,0 +1,11 @@
+<!ENTITY AdvancedEditButton.accessKey "">
+<!ENTITY AdvancedEditButton.label "Ειδική επεξεργασία...">
+<!ENTITY AdvancedEditButton.tooltip "Προσθήκη ή μετατροπή HTML attributes, style attributes, και JavaScript">
+<!ENTITY LinkURLEditField.accessKey "">
+<!ENTITY LinkURLEditField.label "Εισάγετε μια τοποθεσία στον web, ένα τοπικό αρχείο ή επιλέξτε ένα όνομα άγκυρας ή κεφαλίδα από τη αναδυόμενη λίστα.">
+<!ENTITY chooseButton.label "Επιλογή αρχείου...">
+<!ENTITY chooseFile.accessKey "">
+<!ENTITY chooseFileLink.accessKey "">
+<!ENTITY makeUrlRelative.accessKey "">
+<!ENTITY makeUrlRelative.label "Το URL είναι σχετικό με την τοποθεσία της σελίδας">
+<!ENTITY makeUrlRelative.tooltip "Αλλαγή μεταξύ σχετικού και απόλυτου URL. Πρέπει να αποθηκεύσετε πρώτα τη σελίδα για να γίνουν οι αλλαγές.">

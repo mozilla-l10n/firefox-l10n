@@ -1,0 +1,10 @@
+<!ENTITY choosethisfolder.label "επιλογή αυτού του φακέλου">
+<!ENTITY copyLinkCmd.accesskey "γ">
+<!ENTITY copyLinkCmd.label "Αντιγραφή δεσμού">
+<!ENTITY feedFolder.accesskey "ο">
+<!ENTITY feedFolder.label "Αποθήκευση άρθρων ροής (Feed) σε:">
+<!ENTITY feedLocation.accesskey "ρ">
+<!ENTITY feedLocation.label "URL ροής: ">
+<!ENTITY quickMode.accesskey "μ">
+<!ENTITY quickMode.label "Εμφάνιση της περίληψης άρθρου αντί για φόρτωση της ιστοσελίδας">
+<!ENTITY window.title "Ιδιότητες αρχείου ροής ειδήσεων ">

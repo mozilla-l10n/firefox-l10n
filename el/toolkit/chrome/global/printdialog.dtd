@@ -1,0 +1,20 @@
+<!ENTITY allpagesRadio.label "Όλες οι σελίδες">
+<!ENTITY aslaidoutRadio.label "Όπως φαίνονται στη σελίδα">
+<!ENTITY copies.label "Αντίγραφα">
+<!ENTITY eachframesepRadio.label "Κάθε πλαίσιο ξεχωριστά">
+<!ENTITY fpDialog.title "Αποθήκευση αρχείου">
+<!ENTITY frompageInput.label "από">
+<!ENTITY numCopies.label "Αριθμός αντιγράφων:">
+<!ENTITY printButton.label "Εκτύπωση">
+<!ENTITY printDialog.title "Εκτύπωση">
+<!ENTITY printer.label "Εκτυπωτής">
+<!ENTITY printerInput.label "Εκτυπωτής:">
+<!ENTITY printframeGroup.label "Εκτύπωση πλαισίων">
+<!ENTITY printrangeGroup.label "Επιλογή σελίδων">
+<!ENTITY propertiesButton.label "Ιδιότητες...">
+<!ENTITY rangeRadio.label "Σελίδες">
+<!ENTITY selectedframeRadio.label "Το επιλεγμένο πλαίσιο">
+<!ENTITY selectionRadio.label "Επιλογή">
+<!ENTITY topageInput.label "σε ">
+<!ENTITY fileCheck.label "Εκτύπωση σε αρχείο">
+<!ENTITY descText.label "Περιγραφή εκτυπωτή:">

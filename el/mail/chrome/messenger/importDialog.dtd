@@ -1,0 +1,21 @@
+<!ENTITY FieldDiscInputText1.label "Ο Netscape Communicator 4.x  έχει μια διεύθυνση αλληλογραφίας για κάθε καρτέλα ενώ ο  &brandShortName; έχει δύο (Οικίας και Εργασίας). ">
+<!ENTITY FieldDiscInputText2.label "Επιλέξτε την κατηγορία στην οποία θέλετε να αποθηκεύσετε τις εισηγμένες διευθύνσεις αλληλογραφίας:">
+<!ENTITY FieldDiscWarning.label "Αυτή η κατηγορία θα χρησιμοποιηθεί για όλες τις εγγραφές του επιλεγμένου ευρετηρίου διευθύνσεων:">
+<!ENTITY back.label "&lt; Πίσω">
+<!ENTITY cancel.label "Ακύρωση">
+<!ENTITY finish.label "Τέλος">
+<!ENTITY forward.label "Επόμενο &gt;">
+<!ENTITY importDesc.label "Εισαγωγή Αλληλογραφίας και ευρετηρίων διευθύνσεων από άλλα προγράμματα">
+<!ENTITY importDescription.label "Αυτός ο Οδηγός θα εισάγει αλληλογραφία, ευρετήρια διευθύνσεων ή/και ρυθμίσεις από άλλα προγράμματα και τύπους ευρετηρίων στην Αλληλογραφία του &brandShortName; ">
+<!ENTITY importDescription2.label "Όταν γίνει η εισαγωγή θα είναι δυνατή η πρόσβαση σε αυτά μέσα από την Αλληλογραφία ή και το Ευρετήριο Διευθύνσεων του &brandShortName; ">
+<!ENTITY importDialog.addressbookTitle "Ευρετήρια Διευθύνσεων">
+<!ENTITY importDialog.homeTitle "Οικία">
+<!ENTITY importDialog.mailTitle "Αλληλογραφία">
+<!ENTITY importDialog.settingsTitle "Ρυθμίσεις">
+<!ENTITY importDialog.windowTitle "Εισαγωγή">
+<!ENTITY importDialog.workTitle "Εργασία">
+<!ENTITY importTitle.label "Οδηγός Εισαγωγής Αλληλογραφίας του &brandShortName; ">
+<!ENTITY processing.label "Εισαγωγή...">
+<!ENTITY select.label "Επιλογή είδους υλικού για εισαγωγή:">
+<!ENTITY selectDescription.label "Επιλέξτε το πρόγραμμα από το οποίο επιθυμείτε να γίνει η εισαγωγή:">
+<!ENTITY title.label "Τίτλος">

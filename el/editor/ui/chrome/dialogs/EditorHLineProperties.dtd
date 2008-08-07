@@ -1,0 +1,19 @@
+<!ENTITY alignmentBox.label "Στοίχιση">
+<!ENTITY centerRadio.accessKey "">
+<!ENTITY centerRadio.value "Μέσο">
+<!ENTITY dimensionsBox.label "Διαστάσεις">
+<!ENTITY heightEditField.accessKey "">
+<!ENTITY heightEditField.label "Ύψος:">
+<!ENTITY leftRadio.accessKey "">
+<!ENTITY leftRadio.value "Αριστερά">
+<!ENTITY pixelsPopup.value "εικονοστοιχεία">
+<!ENTITY rightRadio.accessKey "">
+<!ENTITY rightRadio.value "Δεξιά">
+<!ENTITY saveSettings.accessKey "">
+<!ENTITY saveSettings.label "Χρήση ως προεπιλεγμένων">
+<!ENTITY saveSettings.tooltip "Αποθήκευση αυτών των ρυθμίσεων προς χρήση όταν γίνεται εισαγωγή νέων οριζοντίων γραμμών">
+<!ENTITY threeDShading.accessKey "">
+<!ENTITY threeDShading.label "Σκίαση 3-D">
+<!ENTITY widthEditField.accessKey "">
+<!ENTITY widthEditField.label "Πλάτος:">
+<!ENTITY windowTitle.label "Ιδιότητες οριζόντιας γραμμής">

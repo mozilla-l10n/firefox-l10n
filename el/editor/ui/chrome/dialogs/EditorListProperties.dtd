@@ -1,0 +1,14 @@
+<!ENTITY ListType.label "Είδος λίστας">
+<!ENTITY bulletList.value "Μη αριθμημένη λίστα (με κουκίδες)">
+<!ENTITY bulletStyle.label "Μορφή κουκίδων:">
+<!ENTITY changeEntireListRadio.accessKey "">
+<!ENTITY changeEntireListRadio.label "Αλλαγή όλης της λίστας">
+<!ENTITY changeListMsg.label "Όταν γίνεται αλλαγή τύπου λίστας:">
+<!ENTITY changeSelectedRadio.accessKey "">
+<!ENTITY changeSelectedRadio.label "Αλλαγή μόνο των επιλεγμένων αντικειμένων">
+<!ENTITY definitionList.value "Λίστα ορισμών">
+<!ENTITY none.value "Κανένα">
+<!ENTITY numberList.value "Αριθμημένη λίστα">
+<!ENTITY startingNumber.accessKey "">
+<!ENTITY startingNumber.label "Έναρξη σε:">
+<!ENTITY windowTitle.label "Ιδιότητες λίστας">

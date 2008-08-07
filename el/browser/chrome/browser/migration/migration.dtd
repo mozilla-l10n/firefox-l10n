@@ -1,0 +1,45 @@
+<!ENTITY done.label "Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:">
+<!ENTITY done.title "Η εισαγωγή ολοκληρώθηκε">
+<!ENTITY importFrom.label "Εισαγωγή επιλογών, σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:">
+<!ENTITY importFromBookmarks.label "Εισαγωγή σελιδοδεικτών από:">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNothing.accesskey "τ">
+<!ENTITY importFromNothing.label "Να μην εισαχθεί τίποτα">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird ή Phoenix">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 or Mozilla 1.x">
+<!ENTITY importFromUnix.label "Εισαγωγή προτιμήσεων,σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:">
+<!ENTITY importItems.label "Επιλέξτε ποια αντικείμενα θα εισαχθούν:">
+<!ENTITY importItems.title "Αντικείμενα προς εισαγωγή">
+<!ENTITY importSource.title "Εισαγωγή ρυθμίσεων και δεδομένων">
+<!ENTITY migrating.label "Τα ακόλουθα αντικείμενα εισάγονται αυτήν τη στιγμή...">
+<!ENTITY migrating.title "Εισαγωγή...">
+<!ENTITY migrationWizard.title "Βοηθός εισαγωγής">
+<!ENTITY selectProfile.label "Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:">
+<!ENTITY selectProfile.title "Επιλογή προφίλ">
+
+<!ENTITY noMigrationSources.label       "Δεν βρέθηκαν προγράμματα από τα οποία περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών.">
+
+<!ENTITY importFromHTMLFile.label       "Από αρχείο HTML">
+<!ENTITY importFromHTMLFile.accesskey   "χ">
+

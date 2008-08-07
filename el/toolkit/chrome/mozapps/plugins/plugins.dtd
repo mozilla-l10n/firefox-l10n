@@ -1,0 +1,24 @@
+<!ENTITY pluginWizard.firstPage.title                        "Καλώς ήλθατε στην &pluginWizard.title;">
+<!ENTITY pluginWizard.title                                  "Υπηρεσία εύρεσης πρόθετων λειτουργιών">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "Ο &brandShortName; ελέγχει για διαθέσιμες πρόσθετες λειτουργίες...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Λήψεις διαθέσιμων πρόσθετων λειτουργιών">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Οι παρακάτω πρόσθετες λειτουργίες είναι διαθέσιμες:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Πατήστε Επόμενο για να εγκαταστήσετε αυτές τις πρόσθετες λειτουργίες.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Μερικές πρόσθετες λειτουργίες μπορεί να απαιτούν επιπρόσθετες πληροφορίες από εσάς κατά την εγκατάσταση.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Άδειες πρόσθετων λειτουργιών">
+<!ENTITY pluginWizard.licensePage.accept.label               "Συμφωνώ..">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Δεν συμφωνώ ( η πρόσθετη λειτουργία δεν θα εγκατασταθεί).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Εγκατάσταση πρόσθετων λειτουργιών">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "Ο &brandShortName; εγκαθιστά πρόσθετες λειτουργίες...">
+
+<!ENTITY pluginWizard.finalPage.description.label            "Ο &brandShortName; ολοκλήρωσε την εγκατάσταση των πρόσθετων λειτουργιών που λείπουν:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Δείτε περισσότερα για τις πρόσθετες λειτουργίες ή βρείτε πρόσθετες λειτουργίες που λείπουν.">
+<!ENTITY pluginWizard.finalPage.restart.label               "Ο &brandShortName; χρειάζεται να επανεκκινήσει για να λειτουργήσουν οι πρόσθετες λειτουργίες.">
+
+<!ENTITY missingPlugin.label                                 "Πατήστε εδώ για τη λήψη της πρόσθετης λειτουργίας.">
+

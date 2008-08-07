@@ -1,0 +1,5 @@
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Πιστοποιητικά">
+<!ENTITY validation.label "Επικύρωση">
+<!ENTITY security.label "Προσωπικό απόρρητο και ασφάλεια">
+<!ENTITY masterpass.label "Κύριοι κωδικοί">

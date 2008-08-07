@@ -1,0 +1,12 @@
+<!ENTITY pref.ldap.window.title    "Εξυπηρετητές καταλόγου LDAP">
+<!ENTITY addDirectory.accesskey "Π">
+<!ENTITY addDirectory.label "Προσθήκη">
+<!ENTITY autocomplete.title "Εξυπηρετητής καταλόγου LDAP">
+<!ENTITY deleteDirectory.accesskey "Δ">
+<!ENTITY deleteDirectory.label "Διαγραφή">
+<!ENTITY directories.label "Εξυπηρετητής καταλόγου LDAP:">
+<!ENTITY directoriesText.accesskey "ξ">
+<!ENTITY directoriesText.label "Επιλέξτε έναν εξυπηρετητή καταλόγου LDAP:">
+<!ENTITY directory.label "Προσθήκη καταλόγου">
+<!ENTITY editDirectory.accesskey "Ε">
+<!ENTITY editDirectory.label "Επεξεργασία">

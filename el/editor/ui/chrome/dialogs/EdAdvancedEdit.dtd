@@ -1,0 +1,13 @@
+<!ENTITY AttName.label "Όνομα: ">
+<!ENTITY AttValue.label "Τιμή: ">
+<!ENTITY PropertyName.label "Ιδιότητα:">
+<!ENTITY WindowTitle.label "Επεξεργασία ειδικών γνωρισμάτων">
+<!ENTITY currentattributesfor.label "Τρέχοντα γνωρίσματα για: ">
+<!ENTITY editAttribute.label "Πατήστε σε ένα αρχείο για να τροποποιήσετε την τιμή του">
+<!ENTITY removeAttribute.label "Αφαίρεση Γνωρίσματος">
+<!ENTITY tabCSS.label "Inline Style">
+<!ENTITY tabHTML.label "Χαρακτηριστικά HTML ">
+<!ENTITY tabJSE.label "Γεγονότα Javascript">
+<!ENTITY tree.attributeHeader.label "Γνώρισμα">
+<!ENTITY tree.propertyHeader.label "Ιδιότητα">
+<!ENTITY tree.valueHeader.label "Τιμή">

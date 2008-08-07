@@ -1,0 +1,39 @@
+<!ENTITY AddOptGroup.accesskey "μ">
+<!ENTITY AddOptGroup.label "Προσθήκη ομάδας">
+<!ENTITY AddOption.accesskey "θ">
+<!ENTITY AddOption.label "Προσθήκη επιλογής">
+<!ENTITY MoveElementDown.accesskey "κ">
+<!ENTITY MoveElementDown.label "Μετάβαση κάτω">
+<!ENTITY MoveElementUp.accesskey "π">
+<!ENTITY MoveElementUp.label "Μετάβαση πάνω">
+<!ENTITY OptGroup.label "Ομάδα επιλογής">
+<!ENTITY OptGroupDisabled.accesskey "π">
+<!ENTITY OptGroupDisabled.label "Απενεργοποιημένο">
+<!ENTITY OptGroupLabel.accesskey "τ">
+<!ENTITY OptGroupLabel.label "Ετικέτα:">
+<!ENTITY Option.label "Επιλογή">
+<!ENTITY OptionDisabled.accesskey "γ">
+<!ENTITY OptionDisabled.label "Απενεργοποιημένο">
+<!ENTITY OptionSelected.accesskey "λ">
+<!ENTITY OptionSelected.label "Αρχικά επιλεγμένο">
+<!ENTITY OptionText.accesskey "μ">
+<!ENTITY OptionText.label "Κείμενο:">
+<!ENTITY OptionValue.accesskey "τ">
+<!ENTITY OptionValue.label "Τιμή:">
+<!ENTITY RemoveElement.accesskey "ρ">
+<!ENTITY RemoveElement.label "Απομάκρυνση">
+<!ENTITY Select.label "Λίστα επιλογής">
+<!ENTITY SelectDisabled.accesskey "ε">
+<!ENTITY SelectDisabled.label "Απενεργοποιημένο">
+<!ENTITY SelectMultiple.accesskey "λ">
+<!ENTITY SelectMultiple.label "Πολλαπλή επιλογή">
+<!ENTITY SelectName.accesskey "λ">
+<!ENTITY SelectName.label "Όνομα λίστας:">
+<!ENTITY SelectSize.accesskey "ψ">
+<!ENTITY SelectSize.label "'Υψος:">
+<!ENTITY SelectTabIndex.accesskey "σ">
+<!ENTITY SelectTabIndex.label "Κατάλογος στηλοθέτη:">
+<!ENTITY SelectedHeader.label "Επιλεγμένο">
+<!ENTITY TextHeader.label "Κείμενο">
+<!ENTITY ValueHeader.label "Τιμή">
+<!ENTITY windowTitle.label "Ιδιότητες λίστας επιλογής">

@@ -1,0 +1,26 @@
+<!ENTITY InitialText.accessKey "">
+<!ENTITY InitialText.label "Αρχικό κείμενο:">
+<!ENTITY Settings.label "Ρυθμίσεις">
+<!ENTITY TextAreaAccessKey.accessKey "">
+<!ENTITY TextAreaAccessKey.label "Κλειδί πρόσβασης:">
+<!ENTITY TextAreaCols.accessKey "">
+<!ENTITY TextAreaCols.label "Στήλες:">
+<!ENTITY TextAreaDisabled.accessKey "">
+<!ENTITY TextAreaDisabled.label "Απενεργοποιημένο">
+<!ENTITY TextAreaName.accessKey "">
+<!ENTITY TextAreaName.label "Όνομα Πεδίου:">
+<!ENTITY TextAreaReadOnly.accessKey "">
+<!ENTITY TextAreaReadOnly.label "Μόνο για ανάγνωση">
+<!ENTITY TextAreaRows.accessKey "">
+<!ENTITY TextAreaRows.label "Γραμμές:">
+<!ENTITY TextAreaTabIndex.accessKey "">
+<!ENTITY TextAreaTabIndex.label "Κατάλογος στηλοθέτη:">
+<!ENTITY TextAreaWrap.accessKey "">
+<!ENTITY TextAreaWrap.label "Κατάσταση αναδίπλωσης:">
+<!ENTITY WrapDefault.value "Προεπιλεγμένο">
+<!ENTITY WrapHard.value "Σκληρό">
+<!ENTITY WrapOff.value "Off">
+<!ENTITY WrapPhysical.value "Φυσικό">
+<!ENTITY WrapSoft.value "Μαλακό">
+<!ENTITY WrapVirtual.value "Εικονικό">
+<!ENTITY windowTitle.label "Ιδιότητες πεδίου κειμένου">

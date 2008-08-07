@@ -1,0 +1,23 @@
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysUseUsername.accesskey "ν">
+<!ENTITY alwaysUseUsername.label "Πάντοτε με χρήση ονόματος και κωδικού πρόσβασης">
+<!ENTITY isSecure.label "Χρήση ασφαλούς σύνδεσης:">
+<!ENTITY neverSecure.accesskey "Π">
+<!ENTITY neverSecure.label "Ποτέ">
+<!ENTITY security.caption "Ασφάλεια και πιστοποίηση">
+<!ENTITY serverDescription.accesskey "φ">
+<!ENTITY serverDescription.label "Περιγραφή:">
+<!ENTITY serverName.accesskey "δ">
+<!ENTITY serverName.label "Όνομα διακομιστή:">
+<!ENTITY serverPort.accesskey "Θ">
+<!ENTITY serverPort.label "Θύρα:">
+<!ENTITY serverPortDefault.label "Προεπιλογή">
+<!ENTITY settings.caption "Settings">
+<!ENTITY smtpEditTitle.label "Διακομιστής SMTP">
+<!ENTITY sometimesSecure.accesskey "α">
+<!ENTITY sometimesSecure.label "TLS, αν είναι διαθέσιμη">
+<!ENTITY userName.accesskey "χ">
+<!ENTITY userName.label "Όνομα Χρήστη">

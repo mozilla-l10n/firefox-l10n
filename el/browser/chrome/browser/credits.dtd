@@ -1,0 +1,19 @@
+<!ENTITY brandMotto       "Ανακαλύψτε ξανά τον ιστό">
+<!ENTITY credit.thanks    "Ειδικές ευχαριστίες στους">
+
+<!ENTITY credit.thanks2      "Πολλές ευχαριστίες στους">
+<!ENTITY credit.contributors2 "συντελεστές">
+
+
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Ελληνική έκδοση</h3><ul><li>Κώστας Παπαδήμας</li></ul>">
+-->
+<!ENTITY credit.translation "Κώστας Παπαδήμας, Ελληνική ομάδα του Mozilla">
+
+<!ENTITY credit.memory      "In Fond Memory Of">
+<!ENTITY credit.poweredByGeckoReg "Powered by Gecko&reg;">
+
+

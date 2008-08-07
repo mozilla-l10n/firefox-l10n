@@ -1,0 +1,33 @@
+<!ENTITY days.label "μέρες">
+<!ENTITY daysOld.label "ημέρες παλιά">
+<!ENTITY diskspaceGroupTitle.label "Αποθηκευτικός χώρος">
+<!ENTITY doNotDownload.label "Για εξοικονόμηση αποθηκευτικού χώρου, να μη λαμβάνονται για εργασία χωρίς σύνδεση:">
+<!ENTITY doNotDownloadPop3Movemail.label "Για εξοικονόμηση αποθηκευτικού χώρου, να μη λαμβάνονται:">
+<!ENTITY kb.label "kB">
+<!ENTITY makeInboxMsgsAvailable.accesskey "">
+<!ENTITY makeInboxMsgsAvailable.label "Να γίνουν διαθέσιμα για εργασία χωρίς σύνδεση τα μηνύματα στα εισερχόμενα">
+<!ENTITY message.label "μηνύματα">
+<!ENTITY nntpDownloadMsg.accesskey "">
+<!ENTITY nntpDownloadMsg.label "Μηνύματα περισσότερο από">
+<!ENTITY nntpNotDownloadRead.accesskey "γ">
+<!ENTITY nntpNotDownloadRead.label "Αναγνωσμένα μηνύματα">
+<!ENTITY nntpRemoveBody.accesskey "">
+<!ENTITY nntpRemoveBody.label "Μόνο μηνυμάτων  παλαιότερα από">
+<!ENTITY offlineDesc.label "Μπορείτε να λαμβάνετε μηνύματα στο δίσκο ώστε να είναι διαθέσιμα όταν εργάζεστε χωρίς σύνδεση. ">
+<!ENTITY offlineGroupTitle.label "Χωρίς σύνδεση">
+<!ENTITY offlineNewFolder.accesskey "">
+<!ENTITY offlineNewFolder.label "Κατά τη δημιουργία νέων φακέλων, να γίνεται επιλογή τους για εργασία χωρίς σύνδεση">
+<!ENTITY offlineNotDownload.accesskey "">
+<!ENTITY offlineNotDownload.label "Μηνύματα μεγαλύτερα από">
+<!ENTITY offlineSelect.accesskey "γ">
+<!ENTITY offlineSelectImap.label "Επιλογή φακέλων για εργασία χωρίς σύνδεση..">
+<!ENTITY offlineSelectNntp.label "Επιλογή ομάδων συζήτησης για εργασία χωρίς σύνδεση...">
+<!ENTITY retentionCleanup.label "Για να ανακτήσετε χώρο στο δίσκο, μπορείτε να διαγράψετε τα παλιά μηνύματα">
+<!ENTITY retentionKeepMsg.label "Διαγραφή μηνυμάτων περισσότερο από">
+<!ENTITY retentionKeepMsg.accesskey "μ">
+<!ENTITY retentionKeepAll.label "Να μην διαγραφούν μηνύματα">
+<!ENTITY retentionKeepAll.accesskey "η">
+<!ENTITY retentionKeepNew.label "Διαγραφή όλων εκτός από τα τελευταία">
+<!ENTITY retentionKeepNew.accesskey "λ">
+<!ENTITY retentionKeepUnread.label "Να διαγράφονται πάντα τα αναγνωσμένα μηνύματα">
+<!ENTITY retentionKeepUnread.accesskey "ρ">

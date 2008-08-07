@@ -1,0 +1,60 @@
+<!ENTITY MoreFewerButton.tooltip "Εμφάνιση λιγότερων ή περισσότερων επιλογών για επεξεργασία">
+<!ENTITY actualSize.label "Πραγματικό μέγεθος:">
+<!ENTITY actualSizeRadio.accessKey "">
+<!ENTITY actualSizeRadio.label "Πραγματικό μέγεθος">
+<!ENTITY actualSizeRadio.tooltip "Επιστροφή στο πραγματικό μέγεθος της εικόνας.">
+<!ENTITY alignment.label "Στοίχιση κειμένου στην εικόνα">
+<!ENTITY altText.accessKey "">
+<!ENTITY altText.label "Εναλλακτικό κείμενο:">
+<!ENTITY altTextEditField.tooltip "Εισάγετε κείμενο για εμφάνιση στη θέση της εικόνας">
+<!ENTITY borderEditField.accessKey "">
+<!ENTITY borderEditField.label "Μαύρο πλαίσιο:">
+<!ENTITY bottomPopup.value "Από κάτω">
+<!ENTITY centerPopup.value "Στο μέσο">
+<!ENTITY constrainCheckbox.accessKey "">
+<!ENTITY constrainCheckbox.label "Περιορισμός">
+<!ENTITY constrainCheckbox.tooltip "Διατήρηση των αναλογιών της εικόνας">
+<!ENTITY customSizeRadio.accessKey "">
+<!ENTITY customSizeRadio.label "Προσαρμοσμένο μέγεθος">
+<!ENTITY customSizeRadio.tooltip "Αλλαγή του μεγέθους της εικόνας όπως φαίνεται στη σελίδα">
+<!ENTITY editImageButton.label "Επεξεργασία εικόνας">
+<!ENTITY editImageButton.tooltip "Επεξεργασία αρχείου εικόνας με άλλο πρόγραμμα">
+<!ENTITY editImageMapButton.label "Επεξεργασία...">
+<!ENTITY editImageMapButton.tooltip "Δημιουργία ενεργών hotspots για αυτήν την εικόνα">
+<!ENTITY heightEditField.accessKey "">
+<!ENTITY heightEditField.label "Ύψος:">
+<!ENTITY imageAppearanceTab.label "Εμφάνιση">
+<!ENTITY imageDimensionsTab.label "Διαστάσεις">
+<!ENTITY imageInputTab.label "Φόρμα">
+<!ENTITY imageLinkTab.label "Δεσμός">
+<!ENTITY imageLocationTab.label "Τοποθεσία">
+<!ENTITY imagemapBox.label "Χάρτης εικόνας">
+<!ENTITY leftRightEditField.accessKey "">
+<!ENTITY leftRightEditField.label "Αριστερά και δεξιά:">
+<!ENTITY locationEditField.accessKey "">
+<!ENTITY locationEditField.label "Τοποθεσία εικόνας:">
+<!ENTITY locationEditField.tooltip "Καταχωρίστε το όνομα αρχείου εικόνας ή την τοποθεσία">
+<!ENTITY makePageBackgroundCheckbox.label "Δημιουργία φόντου σελίδας">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Χρήση εικόνας ως φόντο για τη σελίδα">
+<!ENTITY noAltText.accessKey "">
+<!ENTITY noAltText.label "Χωρίς τη χρήση εναλλακτικού κειμένου">
+<!ENTITY percentPopup.value "ποσοστό">
+<!ENTITY pixelsPopup.value "εικονοστοιχεία">
+<!ENTITY previewBox.label "Προεπισκόπηση εικόνας">
+<!ENTITY removeImageMapButton.accessKey "">
+<!ENTITY removeImageMapButton.label "Αφαίρεση">
+<!ENTITY showImageLinkBorder.accessKey "">
+<!ENTITY showImageLinkBorder.label "Προβολή πλαισίου γύρω από εικόνα με δεσμό">
+<!ENTITY spacingBox.label "Spacing">
+<!ENTITY spacingBox.tooltip "Καταχωρίστε ένα νούμερο για το διάστημα γύρω από την εικόνα">
+<!ENTITY title.accessKey "">
+<!ENTITY title.label "Συμβουλή οθόνης:">
+<!ENTITY title.tooltip "Το γνώρισμα html 'title' που προβάλλεται ως συμβουλή οθόνης">
+<!ENTITY topBottomEditField.accessKey "">
+<!ENTITY topBottomEditField.label "Πάνω και κάτω:">
+<!ENTITY topPopup.value "Πρός τα πάνω">
+<!ENTITY widthEditField.accessKey "">
+<!ENTITY widthEditField.label "Πλάτος:">
+<!ENTITY windowTitle.label "Ιδιότητες εικόνας">
+<!ENTITY wrapLeftPopup.value "Αναδίπλωση στα αριστερά">
+<!ENTITY wrapRightPopup.value "Αναδίπλωση στα δεξιά">

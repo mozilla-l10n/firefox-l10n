@@ -1,0 +1,14 @@
+<!ENTITY FormAction.accesskey "Ε">
+<!ENTITY FormAction.label "URL Ενέργειας:">
+<!ENTITY FormEncType.accesskey "ω">
+<!ENTITY FormEncType.label "Κωδικοποίηση:">
+<!ENTITY FormMethod.accesskey "θ">
+<!ENTITY FormMethod.label "Μέθοδος:">
+<!ENTITY FormName.accesskey "ν">
+<!ENTITY FormName.label "Όνομα φόρμας:">
+<!ENTITY FormTarget.accesskey "χ">
+<!ENTITY FormTarget.label "Πλαίσιο στόχου:">
+<!ENTITY RemoveForm.accesskey "π">
+<!ENTITY RemoveForm.label "Απομάκρυνση φόρμας">
+<!ENTITY Settings.label "Ρυθμίσεις">
+<!ENTITY windowTitle.label "Ιδιότητες φόρμας">

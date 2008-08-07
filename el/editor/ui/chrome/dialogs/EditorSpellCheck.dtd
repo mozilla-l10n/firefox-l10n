@@ -1,0 +1,32 @@
+<!ENTITY addToUserDictionaryButton.accessKey "">
+<!ENTITY addToUserDictionaryButton.label "Προσθήκη λέξης">
+<!ENTITY checkwordButton.accessKey "">
+<!ENTITY checkwordButton.label "Έλεγχος Λέξης">
+<!ENTITY closeButton.accessKey "">
+<!ENTITY closeButton.label "Κλείσιμο">
+<!ENTITY editUserDictionaryButton.accessKey "">
+<!ENTITY editUserDictionaryButton.label "Επεξεργασία...">
+<!ENTITY ignoreAllButton.accessKey "">
+<!ENTITY ignoreAllButton.label "Παράβλεψη όλων">
+<!ENTITY ignoreButton.accessKey "">
+<!ENTITY ignoreButton.label "Παράβλεψη">
+<!ENTITY languagePopup.accessKey "">
+<!ENTITY languagePopup.label "Γλώσσα:">
+<!ENTITY misspelledWord.label "Ανορθόγραφη λέξη">
+<!ENTITY moreDictionaries.label "Λήψη περισσότερων">
+<!ENTITY recheckButton.accessKey "">
+<!ENTITY recheckButton.label "Επανέλεγχος σελίδας">
+<!ENTITY replaceAllButton.accessKey "">
+<!ENTITY replaceAllButton.label "Αντικατάσταση  όλων">
+<!ENTITY replaceButton.accessKey "">
+<!ENTITY replaceButton.label "Αντικατάσταση ">
+<!ENTITY sendButton.accessKey "">
+<!ENTITY sendButton.label "Αποστολή">
+<!ENTITY stopButton.accessKey "">
+<!ENTITY stopButton.label "Διακοπή">
+<!ENTITY suggestions.accessKey "">
+<!ENTITY suggestions.label "Προτάσεις:">
+<!ENTITY userDictionary.label "Λεξικό χρήστη:">
+<!ENTITY windowTitle.label "Έλεγχος ορθογραφίας">
+<!ENTITY wordEditField.accessKey "">
+<!ENTITY wordEditField.label "Αντικατάσταση με:">

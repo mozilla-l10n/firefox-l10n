@@ -1,0 +1,5 @@
+<!ENTITY markByDateLower.accesskey "π">
+<!ENTITY markByDateLower.label "Από:">
+<!ENTITY markByDateUpper.accesskey "ρ">
+<!ENTITY markByDateUpper.label "Πρός:">
+<!ENTITY messageMarkByDate.label "Σημείωση μηνυμάτων ως αναγνωσμένα κατά ημερομηνία:">

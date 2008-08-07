@@ -1,0 +1,32 @@
+<!ENTITY attachmentsTree.label "Συνημμένα:">
+<!ENTITY bccField.label "Κρυφή κοιν: ">
+<!ENTITY ccField.label "Κοιν:">
+<!ENTITY copyLinkCmd.accesskey "γ">
+<!ENTITY copyLinkCmd.label "Αντιγραφή τοποθεσίας δεσμού">
+<!ENTITY dateField.label "Ημερομηνία: ">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "Δ">
+<!ENTITY deleteAllAttachmentsCmd.label "Διαγραφή όλων...">
+<!ENTITY deleteAttachmentCmd.label "Διαγραφή">
+<!ENTITY detachAllAttachmentsCmd.accesskey "σ">
+<!ENTITY detachAllAttachmentsCmd.label "Απόσπαση όλων...">
+<!ENTITY detachAttachmentCmd.label "Απόσπαση ...">
+<!ENTITY editMessage.label "Τροποποίηση Προσχεδίου...">
+<!ENTITY followupToField.label "Συνέχεια σε:">
+<!ENTITY fromField.label "Από:">
+<!ENTITY newsgroupsField.label "Ομάδες Συζήτησης:">
+<!ENTITY openAttachmentCmd.accesskey "">
+<!ENTITY openAttachmentCmd.label "Άνοιγμα">
+<!ENTITY organizationField.label "Οργανισμός:">
+<!ENTITY originalWebsite.label "Ιστοσελίδα: ">
+<!ENTITY printAttachmentCmd.accesskey "">
+<!ENTITY printAttachmentCmd.label ".Εκτύπωση">
+<!ENTITY replyToField.label "Απάντηση σε:">
+<!ENTITY saveAll.label "Αποθήκευση όλων.">
+<!ENTITY saveAllAttachmentsCmd.accesskey "">
+<!ENTITY saveAllAttachmentsCmd.label "Αποθήκευση όλων...">
+<!ENTITY saveAsAttachmentCmd.accesskey "">
+<!ENTITY saveAsAttachmentCmd.label "Αποθήκευση ως....">
+<!ENTITY senderField.label "Sender: ">
+<!ENTITY subjectField.label "Θέμα:">
+<!ENTITY toField.label "Προς:">
+<!ENTITY userAgentField.label "User-Agent: ">

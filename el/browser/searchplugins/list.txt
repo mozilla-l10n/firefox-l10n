@@ -1,0 +1,7 @@
+google
+amazon-en-GB
+eBay-en-GB
+yahoo
+creativecommons
+answers
+wikipedia-el

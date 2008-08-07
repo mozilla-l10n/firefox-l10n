@@ -1,0 +1,77 @@
+<!ENTITY abbreviate.label "Προβολή ονομάτων ομάδων συζήτησης σαν:">
+<!ENTITY abbreviateOff.label "Συντόμευση ονομάτων (π.χ., 'n.p.m.mail-news')">
+<!ENTITY abbreviateOn.label "Ολόκληρα τα ονόματα (για παράδειγμα, 'netscape.public.mozilla.mail-news')">
+<!ENTITY advancedButton.accesskey "δ">
+<!ENTITY advancedButton.label "Ειδικές επιλογές...">
+<!ENTITY alwaysAuthenticate.accesskey "π">
+<!ENTITY alwaysAuthenticate.label "Να απαιτείται πάντα πιστοποίηση κατά τη σύνδεση με αυτόν τον εξυπηρετητή">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY biffEnd.label "λεπτά">
+<!ENTITY biffStart.accesskey "χ">
+<!ENTITY biffStart.label "Έλεγχος για νέα μηνύματα κάθε">
+<!ENTITY browseFolder.accesskey "ξ">
+<!ENTITY browseFolder.label "Εξερεύνηση...">
+<!ENTITY browseNewsrc.accesskey "Ε">
+<!ENTITY browseNewsrc.label "Εξερεύνηση">
+<!ENTITY daysEnd.label "ημέρες">
+<!ENTITY deleteByAgeFromServer.accesskey "π">
+<!ENTITY deleteByAgeFromServer.label "Για το περισσότερο">
+<!ENTITY deleteMessagePrefix.accesskey "δ">
+<!ENTITY deleteMessagePrefix.label "Όταν γίνεται διαγραφή μηνύματος:">
+<!ENTITY deleteOnServer.accesskey "ι">
+<!ENTITY deleteOnServer.label "Μέχρι να τα διαγράψω ή να τα μετακινήσω από τα Εισερχόμενα">
+<!ENTITY downloadOnBiff.accesskey "υ">
+<!ENTITY downloadOnBiff.label "Αυτόματη λήψη νέων μηνυμάτων">
+<!ENTITY emptyTrashOnExit.accesskey "δ">
+<!ENTITY emptyTrashOnExit.label "Άδειασμα κάδου με την έξοδό σας">
+<!ENTITY expungeOnExit.accesskey "θ">
+<!ENTITY expungeOnExit.label "Εκκαθάριση (&quot;Expunge&quot;) εισερχομένων κατά την  έξοδο">
+<!ENTITY headersOnly.accesskey "φ">
+<!ENTITY headersOnly.label "Λήψη κεφαλίδων μόνο">
+<!ENTITY hostname.label "Όνομα κεντρικού υπολογιστή διακομιστή">
+<!ENTITY imapServer.label "Διακομιστής αλληλογραφίας IMAP">
+<!ENTITY isSecure.accesskey "Χ">
+<!ENTITY isSecure.label "Χρήση ασφαλούς σύνδεσης (SSL)">
+<!ENTITY leaveOnServer.accesskey "Φ">
+<!ENTITY leaveOnServer.label "Φύλαξη μηνυμάτων στον διακομιστή">
+<!ENTITY localFolderPicker.label "Επιλογή τοπικού καταλόγου">
+<!ENTITY localPath.accesskey "τ">
+<!ENTITY localPath.label "Τοπικός κατάλογος:">
+<!ENTITY loginAtStartup.accesskey "λ">
+<!ENTITY loginAtStartup.label "Έλεγχος για νέα μηνύματα κατά την εκκίνηση">
+<!ENTITY maxMessagesEnd.label "μηνύματα">
+<!ENTITY maxMessagesStart.accesskey "μ">
+<!ENTITY maxMessagesStart.label "Ερώτηση πριν τη λήψη περισσοτέρων από">
+<!ENTITY modelDeleteImmediately.label "Αφαιρείται άμεσα">
+<!ENTITY modelMarkDeleted.label "Σημειώνεται ως διαγραμμένο">
+<!ENTITY modelMoveToTrash.label "Μεταφέρεται στον Κάδο">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY neverSecure.label "Never">
+<!ENTITY newsServer.label "Εξυπηρετητής ομάδων συζήτησης">
+<!ENTITY newsrcFilePath.accesskey "χ">
+<!ENTITY newsrcFilePath.label "αρχείο newsrc:">
+<!ENTITY newsrcPicker.label "Επιλογή αρχείου newsrc">
+<!ENTITY popServer.label "Διακομιστής αλληλογραφίας  POP">
+<!ENTITY popServerTitle.label "Πληροφορίες διακομιστή  POP">
+<!ENTITY port.accesskey "Θ">
+<!ENTITY port.label "Θύρα:">
+<!ENTITY savePassword.label "Αποθήκευση Κωδικού Πρόσβασης">
+<!ENTITY securitySettings.label "Ρυθμίσεις ασφαλείας">
+<!ENTITY serverName.accesskey "δ">
+<!ENTITY serverName.label "Όνομα διακομιστή :">
+<!ENTITY serverPortDefault.label "Προεπιλεγμένος:">
+<!ENTITY serverSettings.label "Ρυθμίσεις">
+<!ENTITY serverType.label "Είδος διακομιστή:">
+<!ENTITY socketType.label "Χρήση ασφαλούς σύνδεσης:">
+<!ENTITY sometimesSecure.accesskey "θ">
+<!ENTITY sometimesSecure.label "TLS, αν είναι διαθέσιμο">
+<!ENTITY useSecAuth.accesskey "ρ">
+<!ENTITY useSecAuth.label "Χρήση ασφαλούς διαπίστευσης">
+<!ENTITY userName.accesskey "ν">
+<!ENTITY userName.label "Όνομα Χρήστη">
+<!ENTITY username.label "Όνομα σύνδεσης">
+<!ENTITY webmail.label "Λογαριασμός Web Mail">
+<!ENTITY serverDefaultCharset.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">

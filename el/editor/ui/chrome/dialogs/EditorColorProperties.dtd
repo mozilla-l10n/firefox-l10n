@@ -1,0 +1,22 @@
+<!ENTITY activeLinkText.accessKey "">
+<!ENTITY activeLinkText.label "Χρώμα ενεργής διασύνδεσης">
+<!ENTITY background.accessKey "">
+<!ENTITY background.label "Φόντο:">
+<!ENTITY backgroundImage.accessKey "">
+<!ENTITY backgroundImage.label "Εικόνα φόντου:">
+<!ENTITY backgroundImage.tooltip "Χρήση αρχείου εικόνας ως φόντο για τη σελίδα">
+<!ENTITY colon.character ":">
+<!ENTITY customColorsRadio.accessKey "">
+<!ENTITY customColorsRadio.label "Χρήση προσαρμοσμένων χρωμάτων:">
+<!ENTITY customColorsRadio.tooltip "Αυτές οι ρυθμίσεις χρωμάτων υποκαθιστούν τις ρυθμίσεις του περιηγητή">
+<!ENTITY defaultColorsRadio.accessKey "">
+<!ENTITY defaultColorsRadio.label "Προεπιλεγμένα χρώματα">
+<!ENTITY defaultColorsRadio.tooltip "Χρήση των ρυθμίσεων χρώματος από το περιηγητή του αναγνώστη μόνο">
+<!ENTITY linkText.accessKey "">
+<!ENTITY linkText.label "Κείμενο διασύνδεσης">
+<!ENTITY normalText.accessKey "">
+<!ENTITY normalText.label "Κανονικό κείμενο">
+<!ENTITY pageColors.label "Χρώματα σελίδας">
+<!ENTITY visitedLinkText.accessKey "">
+<!ENTITY visitedLinkText.label "Χρώμα αναγνωσμένης διασύνδεσης">
+<!ENTITY windowTitle.label "Χρώματα και φόντο σελίδας">

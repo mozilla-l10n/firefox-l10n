@@ -1,0 +1,75 @@
+<!ENTITY AlignCenter.label "Μέσο">
+<!ENTITY AlignLeft.label "Αριστερά">
+<!ENTITY AlignRight.label "Δεξιά">
+<!ENTITY applyButton.label                "Εφαρμογή">
+<!ENTITY applyButton.accesskey            "φ">
+<!ENTITY closeButton.label                "Κλείσιμο">
+<!ENTITY applyBeforeChange1.label "Οι τρέχουσες αλλαγές θα εφαρμοστούν">
+<!ENTITY applyBeforeChange2.label "πριν την αλλαγή της επιλογής.">
+<!ENTITY backgroundColor.accessKey "">
+<!ENTITY backgroundColor.label "Χρώμα Φόντου:">
+<!ENTITY cellAlignAtChar.label "σε χαρακτήρα:">
+<!ENTITY cellAlignBottom.label "Κάτω">
+<!ENTITY cellAlignJustify.label "Στοίχιση">
+<!ENTITY cellAlignMiddle.label "Μέση">
+<!ENTITY cellAlignTop.label "Πάνω">
+<!ENTITY cellApplyBeforeMove.label "Εφαρμογή αλλαγών πριν την αλλαγή επιλογής">
+<!ENTITY cellColSpan.label "Κάλυψη στήλης:">
+<!ENTITY cellContentAlignment.label "Στοίχιση περιεχομένου">
+<!ENTITY cellHeader.label "Κεφαλίδα">
+<!ENTITY cellHorizontal.accessKey "">
+<!ENTITY cellHorizontal.label "Οριζόντια:">
+<!ENTITY cellInheritColor.label "(Να φαίνεται το χρώμα του πίνακα)">
+<!ENTITY cellKeepCurrentData.label "Να παραμείνουν οι τρέχουσες ρυθμίσεις">
+<!ENTITY cellNoWrap.label "Χωρίς αναδίπλωση">
+<!ENTITY cellNormal.label "Κανονικό">
+<!ENTITY cellPercent.label "ποσοστό πίνακα">
+<!ENTITY cellRowSpan.label "Κάλυψη γραμμής:">
+<!ENTITY cellSelectCell.label "Κελί">
+<!ENTITY cellSelectColumn.label "Στήλη">
+<!ENTITY cellSelectNext.accessKey "">
+<!ENTITY cellSelectNext.label "Επόμενο">
+<!ENTITY cellSelectPrevious.accessKey "">
+<!ENTITY cellSelectPrevious.label "Προηγούμενο">
+<!ENTITY cellSelectRow.label "Γραμμή">
+<!ENTITY cellSelection.label "Επιλογή">
+<!ENTITY cellStyle.accessKey "">
+<!ENTITY cellStyle.label "Διαμόρφωση Κελιού:">
+<!ENTITY cellTab.label "Κελιά">
+<!ENTITY cellTextWrap.accessKey "">
+<!ENTITY cellTextWrap.label "Αναδίπλωση κειμένου">
+<!ENTITY cellUseCheckboxHelp.label "Xρήση κουμπιών επιλογής για να ρυθμίσετε ποιες ιδιότητες θα εφαρμοστούν σε όλα τα επιλεγμένα κελιά">
+<!ENTITY cellVertical.accessKey "">
+<!ENTITY cellVertical.label "Κάθετη:">
+<!ENTITY cellWrap.label "Αναδίπλωση">
+<!ENTITY pixels.label "εικονοστοιχεία">
+<!ENTITY size.label "Μέγεθος">
+<!ENTITY tableAlignment.accessKey "">
+<!ENTITY tableAlignment.label "Στοίχιση Πίνακα">
+<!ENTITY tableBorderSpacing.label "Πλαίσια και διάστιχο">
+<!ENTITY tableBorderWidth.accessKey "">
+<!ENTITY tableBorderWidth.label "Πλαίσιο:">
+<!ENTITY tableCaption.accessKey "">
+<!ENTITY tableCaption.label "Λεζάντα:">
+<!ENTITY tableCaptionAbove.label "Πάνω από τον Πίνακα">
+<!ENTITY tableCaptionBelow.label "Κάτω από τον Πίνακα">
+<!ENTITY tableCaptionLeft.label "Αριστερά του πίνακα">
+<!ENTITY tableCaptionNone.label "Κανένα">
+<!ENTITY tableCaptionRight.label "Δεξιά του πίνακα">
+<!ENTITY tableColumns.accessKey "">
+<!ENTITY tableColumns.label "Στήλες:">
+<!ENTITY tableHeight.accessKey "">
+<!ENTITY tableHeight.label "Ύψος:">
+<!ENTITY tableInheritColor.label "(Εμφάνιση χρώματος σελίδας)">
+<!ENTITY tablePadding.accessKey "">
+<!ENTITY tablePadding.label "Γέμισμα:">
+<!ENTITY tablePxBetwBrdrCellContent.label "εικονοστοιχεία μεταξύ  πλαισίου κελιών και περιεχομένου">
+<!ENTITY tablePxBetwCells.label "εικονοστοιχεία μεταξύ κελιών">
+<!ENTITY tableRows.accessKey "">
+<!ENTITY tableRows.label "Σειρές:">
+<!ENTITY tableSpacing.accessKey "">
+<!ENTITY tableSpacing.label "Διάστιχο:">
+<!ENTITY tableTab.label "Πίνακας">
+<!ENTITY tableWidth.accessKey "">
+<!ENTITY tableWidth.label "Πλάτος:">
+<!ENTITY tableWindow.title "Ιδιότητες Πίνακα">

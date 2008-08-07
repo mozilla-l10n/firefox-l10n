@@ -1,0 +1,7 @@
+<!ENTITY caption.label "Φραγμένα αναδυόμενα">
+<!ENTITY done.accesskey "λ">
+<!ENTITY done.label "Ολοκληρώθηκε">
+<!ENTITY intro.label "Απαγορεύτηκε στις παρακάτω σελίδες να προβάλλουν
+αζήτητα αναδυόμενα παράθυρα:">
+<!ENTITY unblock.accesskey "κ">
+<!ENTITY unblock.label "Ακύρωση φραγής σελίδας">

@@ -1,0 +1,21 @@
+<!ENTITY backwardsCheckbox.accesskey "π">
+<!ENTITY backwardsCheckbox.label "Αναζήτηση  προς τα πίσω">
+<!ENTITY caseSensitiveCheckbox.accesskey "τ">
+<!ENTITY caseSensitiveCheckbox.label "Ταίριασμα πεζών/κεφαλαίων">
+<!ENTITY closeButton.label "Κλείσιμο">
+<!ENTITY findField.accesskey "κ">
+<!ENTITY findField.label "Εύρεση του κειμένου:">
+<!ENTITY findNextButton.accesskey "π">
+<!ENTITY findNextButton.label "Εύρεση επομένου">
+<!ENTITY notFoundWarning.label "Δεν βρέθηκε το κείμενο που εισάγατε">
+<!ENTITY replaceAllButton.accesskey "λ">
+<!ENTITY replaceAllButton.label "Αντικατάσταση όλων">
+<!ENTITY replaceAndFindButton.accesskey "κ">
+<!ENTITY replaceAndFindButton.label "Εύρεση και αντικατάσταση">
+<!ENTITY replaceButton.accesskey "α">
+<!ENTITY replaceButton.label "Αντικατάσταση">
+<!ENTITY replaceDialog.title "Εύρεση και Αντικατάσταση">
+<!ENTITY replaceField.accesskey "κ">
+<!ENTITY replaceField.label "Αντικατάσταση με:">
+<!ENTITY wrapCheckbox.accesskey "δ">
+<!ENTITY wrapCheckbox.label "Αναδίπλωση γύρω">

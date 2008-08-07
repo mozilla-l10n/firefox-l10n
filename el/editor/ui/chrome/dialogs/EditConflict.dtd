@@ -1,0 +1,5 @@
+<!ENTITY conflictResolve.label "Επιλέξτε ποια έκδοση θέλετε να κρατήσετε: ">
+<!ENTITY conflictWarning.label "Η σελίδα έχει τροποποιηθεί από κάποιο άλλο πρόγραμμα, αλλά υπάρχουν και μη αποθηκευμένες αλλαγές που έγιναν με τον Composer">
+<!ENTITY keepCurrentPageButton.label "Διατήρηση των αλλαγών που πραγματοποιήθηκαν">
+<!ENTITY useOtherPageButton.label "Αντικατάσταση τρέχουσας σελίδας με άλλες αλλαγές">
+<!ENTITY windowTitle.label "Επιλογή επεξεργασίας αλλαγών">

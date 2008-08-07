@@ -1,0 +1,22 @@
+<!ENTITY bookmarks.name.label                 "Όνομα:">
+<!ENTITY bookmarks.name.accesskey             "ν">
+<!ENTITY bookmarks.location.label             "Τοποθεσία:">
+<!ENTITY bookmarks.location.accesskey         "Τ">
+<!ENTITY bookmarks.keyword.label              "Λέξη-κλειδί:">
+<!ENTITY bookmarks.keyword.accesskey          "ξ">
+<!ENTITY bookmarks.description.label          "Περιγραφή:">
+<!ENTITY bookmarks.description.accesskey      "φ">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "Δυναμικοί τίτλοι">
+<!ENTITY bookmarks.createIn.label             "Δημιουργία σε:">
+<!ENTITY bookmarks.createIn.accesskey         "Δ">
+<!ENTITY bookmarks.feed_location.label        "Τοποθεσία αρχείου ροής:">
+<!ENTITY bookmarks.feed_location.accesskey    "ρ">
+<!ENTITY bookmarks.site_location.label        "Τοποθεσία σελίδας:">
+<!ENTITY bookmarks.site_location.accesskey    "σ">
+<!ENTITY bookmarks.loadInSidebar.label        "Φόρτωση του σελιδοδείκτη στην πλευρική στήλη">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "Φ">
+<!ENTITY bookmarks.expanderDown.tooltip       "Προβολή όλων των φακέλων σελιδοδεικτών">
+<!ENTITY bookmarks.expanderUp.tooltip         "Απόκρυψη">
+<!ENTITY bookmarks.newFolderButton.label      "Νέος φάκελος">
+<!ENTITY bookmarks.newFolderButton.accesskey  "ε">
+

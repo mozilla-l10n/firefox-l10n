@@ -1,0 +1,13 @@
+<!ENTITY altFieldset.label "Hotspot Alt Text:">
+<!ENTITY browseButton.label "Προεπισκόπηση...">
+<!ENTITY commonFieldset.label "Κοινοί Targets:">
+<!ENTITY link.label "Διασύνδεση Hotspot">
+<!ENTITY new.value "Νέο παράθυρο">
+<!ENTITY none.value "(κανένα)">
+<!ENTITY parent.value "Μητρικό πλαίσιο">
+<!ENTITY same.value "Αποθήκευση πλαισίου">
+<!ENTITY target.label "Ιδιότητες Hotspot">
+<!ENTITY targetFieldset.label "Ρύθμιση προορισμού">
+<!ENTITY urlFieldset.label "Hotspot URL:">
+<!ENTITY whole.value "Ολόκληρη σελίδα">
+<!ENTITY windowTitle.label "Ιδιότητες Hotspot">

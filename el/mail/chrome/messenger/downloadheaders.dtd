@@ -1,0 +1,8 @@
+<!ENTITY all.accesskey "λ">
+<!ENTITY all.label "Λήψη όλων των κεφαλίδων">
+<!ENTITY download.accesskey "ψ">
+<!ENTITY download.label "Λήψη">
+<!ENTITY headers.accesskey "φ">
+<!ENTITY headers.label "Κεφαλίδες">
+<!ENTITY mark.accesskey "μ">
+<!ENTITY mark.label "Σημείωση υπόλοιπων κεφαλίδων ως αναγνωσμένων">

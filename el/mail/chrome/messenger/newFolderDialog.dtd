@@ -1,0 +1,9 @@
+<!ENTITY description.accesskey "">
+<!ENTITY description.label "Δημιουργία ως υποφακέλου σε:">
+<!ENTITY folderRestriction1.label "Σε αυτόν τον διακομιστή υποστηρίζονται μόνο δύο είδη φακέλων">
+<!ENTITY folderRestriction2.label "Καθορίστε αν ο νέος φάκελος θα περιέχει:">
+<!ENTITY foldersOnly.label "Μόνο φάκελοι">
+<!ENTITY messagesOnly.label "Μόνο μηνύματα">
+<!ENTITY name.accesskey "">
+<!ENTITY name.label "Όνομα:">
+<!ENTITY newFolderDialog.title "Νέος Φάκελος">
