@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label	"送信 (SMTP) サーバの設定">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label		"アカウントを複数お持ちの場合でも、設定が必要な送信 (SMTP) サーバは 1つだけです。メッセージ送信に使用するサーバ名を入力してください。">
+<!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
+
+<!ENTITY smtpListAdd.label		"追加...">
+<!ENTITY smtpListAdd.accesskey		"d">
+<!ENTITY smtpListEdit.label		"編集...">
+<!ENTITY smtpListEdit.accesskey		"E">
+<!ENTITY smtpListDelete.label		"削除">
+<!ENTITY smtpListDelete.accesskey	"m">
+<!ENTITY smtpListSetDefault.label	"既定値に設定">
+<!ENTITY smtpListSetDefault.accesskey	"t">
+
+<!ENTITY serverDescription.label	"説明: ">
+<!ENTITY serverName.label		"サーバ名: ">
+<!ENTITY serverPort.label		"ポート: ">
+<!ENTITY userName.label			"ユーザ名: ">
+<!ENTITY useSecureConnection.label	"保護された接続: ">

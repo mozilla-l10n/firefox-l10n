@@ -1,0 +1,20 @@
+<!-- $Id: msgSynchronize.dtd,v 1.5 2005/08/19 08:18:24 uid671 Exp $ -->
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "ダウンロードとメッセージの同期">
+<!ENTITY MsgSelect.label "オフラインで使う項目">
+<!ENTITY MsgSyncDesc.label "オフラインで使用するメールフォルダまたはニュースグループを既に選択してある場合は、今すぐダウンロード／同期することができます。まだ選択していない場合は、&quot;選択&quot; ボタンでオフラインで使用するメールフォルダ、ニュースグループを選択してください。">
+<!ENTITY MsgSyncDirections.label "次のものを ダウンロード / 同期 します:">
+<!ENTITY syncTypeMail.label "メールメッセージ">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "ニュースグループメッセージ">
+<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY sendMessage.label "未送信のメッセージを送信する">
+<!ENTITY sendMessage.accesskey "S">
+<!ENTITY workOffline.label "一度 ダウンロード / 同期 が完了したらオフラインにする">
+<!ENTITY workOffline.accesskey "W">
+<!ENTITY selectButton.label "選択...">
+<!ENTITY selectButton.accesskey "E">
+<!ENTITY MsgSelectDesc.label "オフラインで使用するメールフォルダとニュースグループを選択してください。">
+<!ENTITY MsgSelectInd.label "ダウンロード">
+<!ENTITY MsgSelectItems.label "フォルダとニュースグループ">

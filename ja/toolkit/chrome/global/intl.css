@@ -1,0 +1,24 @@
+/*
+ * This file contains all localizable skin settings such as 
+ *   font, layout, and geometry
+ */
+window { 
+  font: 3mm tahoma,arial,helvetica,sans-serif;
+}
+
+/* see bug-jp 4303 */
+#autoSelectLastProfile {
+  white-space: nowrap;
+}
+
+/* not to show scroll bar in the reporter form */
+#reportForm #description {
+  max-height: 6.8em;
+}
+
+
+/* workaround for Vista's Meiryo font */
+#aboutDialog #userAgent {
+  min-height: 5em;
+}
+

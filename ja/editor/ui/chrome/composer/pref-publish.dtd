@@ -1,0 +1,19 @@
+<!-- extracted from content/pref-publish.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+<!ENTITY  window.title			"アップロード">
+<!ENTITY  composerHeader.label		"アップロード">
+<!ENTITY  maintainCheckbox.label	"リンクを自動修正する">
+<!ENTITY  keepCheck.label		"ページ中の画像を保持">
+
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY adjustDesc.label		"ローカルページに対するリンクを、サイト上でも有効になるよう修正します。">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY saveDesc.label			"ページ中で使用されている画像も一緒にアップロードします。これでリモートサーバにアップロードしたページでも常に画像が表示されるようになります。">
+<!ENTITY tip.label			"ヒント: リモートサーバにアップロードする場合、オプションを両方とも有効にしてください。">
+<!ENTITY defaultHeader.label		"既定のアップロード先">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY publishFtp.label		"FTP でアップロードする場合でも、ブラウザで表示する HTTP アドレスを入力してください:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY publishhtp.label		"FTP でアップロードする場合でも、ブラウザで表示する HTTP アドレスを入力してください:"><!-- (^^; なぜ両方 FTP... -->
+

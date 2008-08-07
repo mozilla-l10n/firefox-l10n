@@ -1,0 +1,40 @@
+<!ENTITY generalSettings.caption		"既定のアプリケーション">
+<!ENTITY generalSettings.label			"&brandShortName; を次の既定のアプリケーションに設定する:">
+<!ENTITY setDefaultMailClient.label		"メール">
+<!ENTITY setDefaultMailClient.accesskey		"M">
+<!ENTITY setDefaultNewsClient.label		"ニュース">
+<!ENTITY setDefaultNewsClient.accesskey		"N">
+<!ENTITY setDefaultFeedClient.label		"RSS フィード">
+<!ENTITY setDefaultFeedClient.accesskey		"F">
+<!ENTITY checkDefaultMailClient.label		"&brandShortName; が起動するとき、次の既定のメールクライアントとして設定されているか確認する">
+<!ENTITY checkDefaultMailClient.accesskey	"n">
+<!ENTITY defaultClientAdvanced.label		"詳細設定...">
+<!ENTITY defaultClientAdvanced.accesskey	"d">
+
+<!ENTITY windowSettings.label		"ウィンドウ設定">
+<!ENTITY selectWindowLayout.label	"ウィンドウの表示形式を選択してください">
+<!ENTITY selectWindowLayout.accesskey	"S">
+
+<!ENTITY messengerStartPage.label	"&brandShortName; スタートページ">
+<!ENTITY enableStartPage.label		"&brandShortName; が起動するとき、メッセージ領域にスタートページを表示する">
+<!ENTITY enableStartPage.accesskey	"W">
+<!ENTITY location.label			"URL:">
+<!ENTITY location.accesskey		"L">
+<!ENTITY useDefault.label		"既定値に戻す">
+<!ENTITY useDefault.accesskey		"R">
+
+<!ENTITY bounceSystemDockIcon.label	"Dock のアイコンをバウンドさせる"><!-- (^^; Dock は Mac 用語、訳さない -->
+<!ENTITY bounceSystemDockIcon.accesskey	"i">
+
+<!ENTITY newMessagesArrive.label	"新着メッセージの通知"><!-- (^^; When new messages arrive: -->
+<!ENTITY playSound.label		"音を鳴らす">
+<!ENTITY playSound.accesskey		"P">
+<!ENTITY showAnimatedAlert.label	"警告を表示する">
+<!ENTITY showAnimatedAlert.accesskey	"S">
+<!ENTITY soundbutton.label		"詳細設定...">
+<!ENTITY soundbutton.accesskey		"A">
+
+<!ENTITY showConnections.label		"接続設定...">
+<!ENTITY showConnections.accesskey	"o">
+<!ENTITY proxiesInfo.label		"インターネットへの接続方法を設定します。">
+<!ENTITY connectionsInfo.caption	"接続">

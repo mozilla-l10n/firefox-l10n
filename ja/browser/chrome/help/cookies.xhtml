@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+
+Translators:
+  松葉 (作成: 2004/01/08)
+  dynamis
+  Masahiko Imanaka
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Cookie を管理する</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+  <style type="text/css">
+  <!-- for ja/ja-JP-mac locale. -->
+    p em, li em, dd em { font-style:normal; }
+    p em:before, li em:before, dd em:before { content: "["; }
+    p em:after,  li em:after,  dd em:after  { content: "]"; }
+    .contentsBox { width: 350px; }
+  </style>
+</head>
+
+<body>
+<h1>Cookie を管理する</h1>
+
+<p>このドキュメントは、Cookie とは何か、どのように利用されるかについて、
+ また &brandFullName; の Cookie マネージャによってあなたのコンピュータに保存された
+ Cookie を取り扱う方法について説明します。</p>
+
+<div class="contentsBox">このセクションでは:
+  <ul>
+    <li><a href="#what_is_a_cookie">Cookie とは何か？</a></li>
+    <li><a href="#setting_up_cookie_rules">Cookie のルールを設定する</a></li>
+    <li><a href="#accepting_and_blocking_cookies">Cookie の受け入れと拒否</a></li>
+    <li><a href="#cookies_exceptions">Cookie フィルタウィンドウ</a></li>
+    <li><a href="#view_cookies">Cookie ウィンドウ</a></li>
+  </ul>
+</div>
+
+<h2 id="what_is_a_cookie">Cookie とは何か？</h2>
+
+<p>Cookie は、インターネットサイトによって作成され、あなたのコンピュータに保存されるファイルです。
+  これには、サイトを訪れたときのあなたの情報などが含まれます。
+  Cookie を使用するサイトを訪れた場合、そのサイトは 1 つまたは複数の Cookie
+  をハードディスクに保存するように &brandShortName; に要求するかもしれません。</p>
+
+<p>あとで再びそのサイトを訪問した場合、&brandShortName;
+  はあなたの要求に応じた情報をサイトが提供できるように、そのサイトに属する
+  Cookie を返送します。</p>
+
+<p>Cookie はさらに、身元確認可能な個人情報を格納することができます。
+  身元確認可能な個人情報とは、名前、メールアドレス、自宅や職場の住所、
+  電話番号など、個人の特定や照会ができる情報です。
+  しかしながら、Web サイトはあなたの提供した個人情報以外にはアクセスできません。
+  例えば、あなたが提供しなければ、Web サイトはあなたのメールアドレスを見つけ出すことができませんし、
+  あなたのコンピュータ上の他の情報にアクセスすることもできません。</p>
+
+<p>既定の設定で Cookie を使用する場合、いつ Web サイトが Cookie
+  を設定し、いつ &brandShortName; がその Cookie をWeb サイトに送っているか、
+  動作が目に見えないため、あなたには分からないでしょう。しかしながら、Cookie
+  が設定される前に警告を表示するように、&pref.plural;を指定することがことができます。
+  また、Cookie の有効期限を現在のセッションのみに制限することができます。</p>
+
+<h2 id="setting_up_cookie_rules">Cookie のルールを設定する</h2>
+
+<p>初期設定では、&brandShortName; はすべての Cookie を受け入れます。
+  これは、Web サイトがあなたを効果的に見分けるための Cookie を常に許可することになります。
+  この動作があなたにとって都合が悪いときは、すべての Cookie を &brandShortName;
+  の終了時に削除することができます:</p>
+
+<ol>
+  <li>&pref.menuPath; を選択して <em>プライバシー</em> パネルを開きます。</li>
+  <li><em>Cookie を保存する期間</em> メニューから、<em>&brandShortName; を終了するまで</em> &pref.singular;を選択してください。</li>
+</ol>
+
+<p>あなたの信頼するサイトに Cookie をいつまでも保存しておくことを許可したいとき
+  (例えば、サイトへのログインが自動的にできるようにしたいとき)
+  は、<a href="#cookies_exceptions"><em>例外サイト...</em></a> をクリックして
+  サイトのアドレスを入力し、<em>許可</em> をクリックしてください。</p>
+
+<h3 id="all_the_settings">Cookie 設定</h3>
+
+<p>Cookie を管理するための&pref.plural;を以下に説明します:</p> 
+
+<dl>
+  <dt>サイトから送られてきた Cookie を保存する</dt>
+  <dd><p>サイトに Cookie を保存させたくないときは、この&pref.singular;のチェックを外してください。
+    ただし、Cookie を無効にしていると一部のサイトでは正常に動作しないことがあるので注意してください。
+    特定のサイトに Cookie の保存を許可したいときは、<em>例外サイト...</em> をクリックして
+    <a href="#cookies_exceptions">Cookie フィルタ</a> ウィンドウを開き、サイトの URL を入力後、
+    <em>許可</em> または <em>現在のセッションのみ</em> をクリックしてください。</p></dd>
+  <dt>Cookie を保存する期間:</dt>
+  <dd>
+  <ul>
+    <li><strong>サイトが指定した期限まで:</strong> 
+      この&pref.singular;を選択すると、サイトによって指定された有効期限が切れるまで各 Cookie を保持します。</li>
+    <li><strong>&brandShortName; を終了するまで:</strong> 
+      この&pref.singular;を選択すると、&brandShortName; を再起動するときまで Cookie を保持します。
+      Cookie の使用を必要とする Web サイトは動作しますが、&brandShortName; を再起動すると
+      Web サイトは再び、あなたが初めてログインしたものと考えます。</li>
+    <li><strong>毎回確認する:</strong> 
+      Web サイトが Cookie を保存しようとするとき、毎回 Cookie を保存するかどうか尋ねます。</li>
+  </ul>
+  </dd>
+</dl>
+
+<h2 id="accepting_and_blocking_cookies">Cookie の受け入れと拒否</h2>
+
+<p><em>Cookie を保存する期間</em> メニューで <em>毎回確認する</em>
+  を選択すると、サイトがあなたのコンピュータに Cookie
+  を保存しようとする度に、以下の選択肢を含むダイアログが表示されます:</p>
+
+<dl>
+  <dt>許可</dt>
+  <dd>個々の Cookie を許可するには <em>許可</em> をクリックします。
+    これは、あなたがサイトを信頼するときに使用してください。</dd>
+  <dt>現在のセッションのみ</dt>
+  <dd>今だけ Cookie を許可して &brandShortName; の終了時には削除したいときは
+    <em>現在のセッションのみ</em> をクリックします。Cookie
+    なしでは動作しないサイトのために Cookie を保存しておきたくないときに使用してください。</dd>
+  <dt>不許可</dt>
+  <dd>Cookie を保存したくないときは <em>不許可</em> をクリックします。
+    そのサイトが信頼できないかプライバシーを危険にさらす疑いがあるときに使用してください。</dd>
+  <dt>このサイトからの Cookie は今後も同様に処理する</dt>
+  <dd>あなたの指示を記憶して再び警告を表示しないようにしたいときは、
+    他のボタンをクリックする前にこのチェックボックスを選択してください。
+    サイトは <a href="#cookies_exceptions">Cookie フィルタ</a>
+    ウィンドウに追加され、あとで選択を元に戻すことができます。</dd>
+</dl>
+
+<h2 id="cookies_exceptions">Cookie フィルタウィンドウ</h2>
+
+<p>このウィンドウを表示するには、Cookie &pref.plural;の <em>例外サイト...</em>
+  ボタンをクリックしてください。ここでは、特定のサイトを Cookie
+  &pref.plural;の例外に指定することができます。例外に指定すると、他の設定に関わらず、すべての
+  Cookie を許可したり、すべての Cookie を拒否したり、または許可するが
+  &brandShortName; の終了時に削除することができます。</p>
+
+<p>一覧にサイトを追加するには、<em>サイトのアドレス</em>
+  フィールドにサイトのドメイン名を入力してください。次に、サイトからの Cookie
+  を許可しないときは <em>不許可</em>、許可するには <em>許可</em>、許可するが
+  &brandShortName; の終了時に削除するには <em>現在のセッションのみ</em> をクリックしてください。</p>
+
+<p>一覧からサイトを削除するには、サイトを選択して <em>サイトを削除</em> をクリックしてください。
+  例外一覧を消去して Cookie &pref.plural;を適用します。</p>
+
+<h2 id="view_cookies">Cookie ウィンドウ</h2>
+
+<p>Cookie ウィンドウでは Cookie の表示と削除ができます。このウィンドウを表示するには、
+  Cookie &pref.plural;の<em>Cookie を表示...</em> ボタンをクリックしてください。</p>
+
+<p>このウィンドウは、コンピュータに保存されているすべての Cookie
+  の一覧を、サイトごとにグループ化して表示します。サイトを展開して Cookie
+  を選択すると、より詳細な情報を表示します。また、検索バーにサイト名または
+  Cookie 名を入力して検索することができます。</p>
+
+<p>一覧から Cookie を削除するには、それを選択して <em>Cookie を削除</em> をクリックしてください。
+  特定のサイトの Cookie をすべて削除するには、サイトを選択して <em>Cookie を削除</em> をクリックしてください。
+  すべての Cookie を削除するには、<em>すべての Cookie を削除</em> をクリックしてください。</p>
+
+<div class="contentsBox"><em>原文: 12 September 2006, 和訳: 24 September 2006</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+</body>
+</html>

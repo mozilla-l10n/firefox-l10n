@@ -1,0 +1,39 @@
+<!ENTITY dialog.title			"送信テキスト形式">
+<!ENTITY sendMail.title			"テキスト形式">
+<!ENTITY sendMaildesc.label		"使用メール形式が HTML 形式ではない人が受信者に含まれているのに HTML 形式のメールを送信しようとしているとき:">
+<!ENTITY askMe.label			"処理方法を確認する">
+<!ENTITY askMe.accesskey		"k">
+<!ENTITY convertPlain.label		"プレーンテキストに変換して送信する">
+<!ENTITY convertPlain.accesskey		"c">
+<!ENTITY sendHTML.label			"気にせず HTML のまま送信">
+<!ENTITY sendHTML.accesskey		"s">
+<!ENTITY sendBoth.label			"プレーンテキストと HTML の両方を送信する">
+<!ENTITY sendBoth.accesskey		"e">
+<!ENTITY receiveHTML.label		"受信者が HTML メールを受け取ることができることが分かっている場合はアドレス帳でその受信者の &quot;使用メール形式&quot; に HTML を設定してください。"><!-- (^^; イマイチ… If you know a particular recipient can receive HTML mail, uncheck the 'Send email as plain text (no HTML)' checkbox on the recipient's Address Book card. -->
+<!ENTITY override.label			"ヒント: アドレス帳で受信者の使用する形式を指定してください。">
+
+<!ENTITY domaindesc.label		"アドレスのドメインに応じて適切なテキスト形式を自動的に選んで送信することができます。"><!-- (^^; When you send a message to an address with one of the domain names listed below, &brandShortName; automatically sends the message in the correct format. -->
+<!ENTITY HTMLTab.label			"HTML メール使用ドメイン">
+<!ENTITY HTMLTab.accesskey		"h">
+<!ENTITY PlainTextTab.label		"プレーンテキスト使用ドメイン">
+<!ENTITY PlainTextTab.accesskey		"p">
+<!ENTITY AddButton.label		"追加...">
+<!ENTITY AddHtmlDomain.accesskey	"a">
+<!ENTITY AddPlainText.accesskey		"d">
+<!ENTITY DeleteButton.label		"削除">
+<!ENTITY DeleteHtmlDomain.accesskey	"l">
+<!ENTITY DeletePlainText.accesskey	"t">
+
+<!ENTITY add.htmltitle			"HTML 形式のメールを送るドメイン名を追加">
+<!ENTITY add.htmldomain			"HTML メール使用ドメイン名:">
+<!ENTITY add.htmldomain.accesskey	"d">
+<!ENTITY add.plaintexttitle		"プレーンテキストでメールを送るドメイン名を追加">
+<!ENTITY add.plaintextdomain		"プレーンテキスト使用ドメイン名:">
+<!ENTITY add.plaintext.accesskey	"d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title		"ドメイン名エラー">
+<!ENTITY duplicationError.label		"ドメイン名 @string@ は既にリストにあります。">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label		"同じドメイン名を HTML メールとプレーンテキストの両方に登録することはできません。ドメイン名 @string@ は既に存在しています。">

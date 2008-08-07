@@ -1,0 +1,26 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label			"HTML メールの確認">
+
+<!ENTITY recipient.label			"受信者の中に HTML メールを受信できない人が含まれています。">
+
+<!-- (^^; 以下の部分ざくっと意訳 -->
+<!ENTITY convertibleDefault.label		"">
+<!ENTITY convertibleYes.label			"このメッセージは内容を変えることなくプレーンテキストに変換できます。">
+<!ENTITY convertibleAltering.label		"このメッセージは内容自体を変えることなくプレーンテキストに変換できますが、見た目が編集中のものと多少異なるものになる可能性があります。">
+<!ENTITY convertibleNo.label			"このメッセージでは配色などのプレーンテキストでは表現できない書式を利用していますが、これらをプレーンテキストで表現することはできません。">
+
+<!ENTITY question.label				"メッセージをプレーンテキストに変換して送信するか、HTML のままで送信するか、送信方法を指定してください。">
+
+<!ENTITY plainTextAndHtml.label			"テキストと HTML で送信">
+<!ENTITY plainTextOnly.label			"プレーンテキストで送信">
+<!ENTITY htmlOnly.label				"HTML のみで送信">
+
+<!ENTITY plainTextAndHtmlRecommended.label	"テキストと HTML で送信 (推奨)">
+<!ENTITY plainTextOnlyRecommended.label		"プレーンテキストで送信 (推奨)">
+<!ENTITY htmlOnlyRecommended.label		"HTML のみで送信 (推奨)">
+<!ENTITY recommended.label			"(推奨)">
+
+<!ENTITY send.label				"送信する">
+<!ENTITY cancel.label				"キャンセル">
+<!ENTITY recipients.label			"受信者...">
+<!ENTITY help.label				"ヘルプ">

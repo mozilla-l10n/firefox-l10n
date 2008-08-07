@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title	"新着メール通知音">
+<!ENTITY window.width			"30em">
+
+<!ENTITY soundNotification.caption	"新着メール通知音">
+<!ENTITY preview.label			"再生">
+<!ENTITY preview.accesskey		"v">
+<!ENTITY systemsound.label		"システムの新着メール通知音">
+<!ENTITY systemsoundMac.label		"システムの警告音">
+<!ENTITY systemsound.accesskey		"y">
+<!ENTITY customsound.label		"ユーザ設定 .wav ファイル">
+<!ENTITY customsound.accesskey		"C">
+<!ENTITY browse.label			"参照...">
+<!ENTITY browse.accesskey		"B">

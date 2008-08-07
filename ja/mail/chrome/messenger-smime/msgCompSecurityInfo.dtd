@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label			"メッセージのセキュリティ">
+<!ENTITY subject.plaintextWarning	"注意: メールの件名(Subject)は暗号化されません。">
+<!ENTITY status.heading			"送信メッセージの電子署名・暗号化の情報:">
+<!ENTITY status.signed			"電子署名:">
+<!ENTITY status.encrypted		"暗号化:">
+<!ENTITY status.certificates		"証明書:">
+<!ENTITY view.label			"表示">
+<!ENTITY view.accesskey			"V">
+<!ENTITY tree.recipient			"受信者">
+<!ENTITY tree.status			"状態">
+<!ENTITY tree.issuedDate		"発行日">
+<!ENTITY tree.expiresDate		"有効期限">

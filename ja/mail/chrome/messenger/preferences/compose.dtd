@@ -1,0 +1,60 @@
+<!ENTITY itemGeneral.label			"一般">
+<!ENTITY itemAutoComplete.label			"編集とアドレス入力">
+<!ENTITY itemSpellCheck.label			"スペルチェック">
+<!ENTITY itemSendFormat.label			"送信形式">
+
+<!ENTITY forwardReply.label			"メッセージの転送">
+<!ENTITY forwardMsg.label			"メッセージを転送するとき元のメッセージを:"><!-- (^^; Forward messages: -->
+<!ENTITY forwardMsg.accesskey			"f">
+<!ENTITY inline.label				"メール本文に含める">
+<!ENTITY inline.accesskey			"I">
+<!ENTITY asAttachment.label			"ファイルとして添付する">
+<!ENTITY asAttachment.accesskey			"A">
+
+<!ENTITY sendingMessagesHeader.label		"メッセージの編集">
+<!ENTITY spellCheck.label			"送信前にスペルチェックを行う">
+<!ENTITY spellCheck.accesskey			"C">
+<!ENTITY spellCheckInline.label			"Spell As You Type (自動スペルチェック)を有効にする"><!-- (^^; -->
+<!ENTITY spellCheckInline.accesskey		"n">
+<!ENTITY languagePopup.label			"辞書の言語:">
+<!ENTITY languagePopup.accessKey		"g">
+<!ENTITY downloadDictionaries.label		"新しい辞書を入手する"><!-- (^^; 拡張機能マネージャなどに合わせる -->
+
+<!ENTITY useMIME.label				"日本語など 8 ビット文字を含むメッセージは Quoted-Printable 方式でエンコードする(チェックしなければ MIME エンコードされません)。"><!-- (^^; 直訳: 8ビット文字を含むメッセージでは Quoted-Printable MIME エンコーディングを使用する(チェックしなければメッセージはそのまま送信されます)。 For messages that contain 8-bit characters, use 'quoted printable' MIME encoding. Leave unchecked to send the messages as is. -->
+<!ENTITY useMIME.accesskey			"o">
+<!ENTITY warnOnSendAccelKey.label		"キーボードショートカットでメッセージを送信するときに確認する">
+<!ENTITY warnOnSendAccelKey.accesskey		"i">
+<!ENTITY autoSave.label				""><!-- (^^; Auto Save every -->
+<!ENTITY autoSave.accesskey			"u">
+<!ENTITY autoSaveEnd.label			"分毎に自動保存する"><!-- (^^; minutes -->
+<!ENTITY autoSaveEnd.accesskey			"m">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label			"プレーンテキストメッセージを">
+<!ENTITY wrapOutMsg.accesskey			"l">
+<!ENTITY char.label				"文字で改行する">
+
+<!ENTITY emailCollectionPicker.label		"送信メールアドレスを次のアドレス帳に自動で追加する:">
+<!ENTITY emailCollectionPicker.accesskey	"t">
+<!ENTITY addressingTitle.label			"アドレスの自動補完">
+<!ENTITY autocompleteText.label			"メールアドレスの入力時に、以下に登録されたものと一致するものを探す:">
+<!ENTITY addressingEnable.label			"ローカルのアドレス帳">
+<!ENTITY addressingEnable.accesskey		"A">
+<!ENTITY directories.label			"ディレクトリサーバ:">
+<!ENTITY directories.accesskey			"D">
+<!ENTITY editDirectories.label			"ディレクトリサーバの設定...">
+<!ENTITY editDirectories.accesskey		"E">
+<!ENTITY matchText.label			"ローカルのアドレス帳に検索条件に一致するアドレスがある場合:">
+<!ENTITY skipDirectory.label			"LDAP サーバを検索しない">
+
+<!ENTITY sendOptionsCaption.label		"メッセージの形式"><!-- (^^; Send and HTML Options -->
+<!ENTITY sendOptionsDescription.label		"送信するメッセージの形式を設定します。">
+<!ENTITY sendOptions.label			"送信テキスト形式..."><!-- (^^; Send Options... -->
+<!ENTITY sendOptions.accesskey			"S">
+
+<!ENTITY htmlComposeDescription.label		"HTML メッセージにおける既定の書式を設定します。">
+<!ENTITY htmlCompose.label			"既定の書式..."><!-- (^^; HTML Options... -->
+<!ENTITY htmlCompose.accesskey			"H">
+
+<!ENTITY returnReceiptsInfo.label		"開封確認の取り扱い方を設定します。">
+<!ENTITY showReturnReceipts.label		"開封確認...">
+<!ENTITY showReturnReceipts.accesskey		"R">

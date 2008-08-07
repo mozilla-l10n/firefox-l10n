@@ -1,0 +1,46 @@
+<!ENTITY itemGeneral.label			"一般">
+<!ENTITY itemPhishing.label			"フィッシングメール">
+<!ENTITY itemPasswords.label			"パスワード">
+<!ENTITY itemAntiVirus.label			"ウィルス対策">
+<!ENTITY itemSecurity.label			"セキュリティ">
+
+<!ENTITY disableImageInMailNews.label		"メッセージ中のリモート画像読み込みをブロックする">
+<!ENTITY disableImageInMailNews.accesskey	"B">
+<!ENTITY allowRemoteImagesForFriends.label	"送信者が次のアドレス帳に含まれている場合だけ読み込む:">
+<!ENTITY allowRemoteImagesForFriends.accesskey	"A">
+<!ENTITY enbJsCheckMailNews.label		"メッセージ中の JavaScript を無効にする">
+<!ENTITY enbJsCheckMailNews.accesskey		"J">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector.intro			"一般的な騙しの手法が使われていないか分析することで、フィッシングメールと思われるメッセージを検出することができます。">
+<!ENTITY enablePhishingDetector.label		"メッセージがフィッシングメールかどうか確認する">
+<!ENTITY enablePhishingDetector.accesskey	"C">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro		"メールを送受信する度に毎回入力をせずに済むよう、アカウントのパスワードを保存できます。">
+<!ENTITY  encryptEnabled.label		"メールパスワードの暗号化にマスターパスワードを使用する">
+<!ENTITY  encryptEnabled.accesskey	"s">
+<!ENTITY  masterPassword.intro		"マスターパスワードを設定するとすべてのパスワードが保護されます。ただし、セッションごとに一度入力を求められます。">
+<!ENTITY  setMasterPassword.label	"マスターパスワード">
+<!ENTITY  setMasterPassword.accesskey	"M">
+<!ENTITY  removeMasterPassword.label	"マスターパスワードを削除...">
+<!ENTITY  removeMasterPassword.accesskey	"R">
+<!ENTITY  viewPasswords.label		"保存されているパスワードを表示">
+<!ENTITY  viewPasswords.accesskey	"V">
+
+<!-- Security -->
+<!ENTITY certificates.label		"証明書">
+<!ENTITY certificatesInfo.label		"証明書、失効リスト、証明書の検証やセキュリティデバイスを管理します。">
+<!ENTITY viewCertificates.label		"証明書を表示">
+<!ENTITY viewCertificates.accesskey	"i">
+<!ENTITY viewCRLs.label			"失効リスト">
+<!ENTITY viewCRLs.accesskey		"e">
+<!ENTITY viewOCSP.label			"検証">
+<!ENTITY viewOCSP.accesskey		"f">
+<!ENTITY viewSecurityDevices.label	"セキュリティデバイス">
+<!ENTITY viewSecurityDevices.accesskey	"u">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro		"受信メッセージを保存する前に、それをウィルス対策ソフトで分析できるようにします。">
+<!ENTITY antiVirus.label		"ウィルス対策ソフトが個別の受信メッセージを隔離できるようにする">
+<!ENTITY antiVirus.accesskey		"l">
