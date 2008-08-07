@@ -1,0 +1,20 @@
+<!ENTITY charsetMenu.label "Karaktere-kodeketa">
+<!ENTITY charsetMenu.accesskey "K">
+<!ENTITY charsetMenuAutodet.label "Detekzio automatikoa">
+<!ENTITY charsetMenuAutodet.accesskey "a">
+<!ENTITY charsetMenuMore.label "Gehiago">
+<!ENTITY charsetMenuMore.accesskey "g">
+<!ENTITY charsetMenuMore1.label "Mendebaldeko Europakoa">
+<!ENTITY charsetMenuMore1.accesskey "m">
+<!ENTITY charsetMenuMore2.label "Ekialdeko Europakoa">
+<!ENTITY charsetMenuMore2.accesskey "E">
+<!ENTITY charsetMenuMore3.label "Ekialdeko Asiakoa">
+<!ENTITY charsetMenuMore3.accesskey "A">
+<!ENTITY charsetMenuMore4.label "HE eta HMko Asiakoa">
+<!ENTITY charsetMenuMore4.accesskey "H">
+<!ENTITY charsetMenuMore5.label "Ekialde Hurbilekoa">
+<!ENTITY charsetMenuMore5.accesskey "I">
+<!ENTITY charsetMenuUnicode.label "Unicode">
+<!ENTITY charsetMenuUnicode.accesskey "U">
+<!ENTITY charsetCustomize.label "Pertsonalizatu...">
+<!ENTITY charsetCustomize.accesskey "p">

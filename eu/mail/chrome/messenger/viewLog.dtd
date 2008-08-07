@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Iragazkien Erregistroa">
+<!ENTITY viewLogInfo.text "Iragazkien Erregistroa erabili diren iragazkien aktibitatea gordetzen duen fitxategi bat da. Behean aktibatu dezakezu aukera hau.">
+<!ENTITY clearLog.label "Garbitu Erregistroa">
+<!ENTITY clearLog.accesskey "G">
+<!ENTITY enableLog.label "Gaitu Iragazkien Erregistroa">
+<!ENTITY enableLog.accesskey "A">
+<!ENTITY closeLog.label "Itxi">
+<!ENTITY closeLog.accesskey "t">

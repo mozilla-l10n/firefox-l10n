@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Zabor Postaren Log-a">
+<!ENTITY junkLogInfo.label "Gorde zabor postaren kontrolaren aktibitatea.">
+<!ENTITY clearLog.label "Garbitu Log-a">
+<!ENTITY clearLog.accesskey "G">
+<!ENTITY closeLog.label "Itxi">
+<!ENTITY closeLog.accesskey "i">

@@ -1,0 +1,32 @@
+<!ENTITY downloadactionsWindow.title "Deskarga Ekintzak">
+<!ENTITY window.width "480">
+<!ENTITY window.height "310">
+
+<!ENTITY fileTypesDescription.label "Atxikitutako Ekintza ondorengo fitxategi mota bakoitzarekin Automatikoki burutu:">
+
+<!ENTITY fileHandlerColumn.label "Ekintza">
+<!ENTITY fileHandlerColumn.accesskey "E">
+<!ENTITY fileTypeColumn.label "Fitxategi Mota">
+<!ENTITY fileTypeColumn.accesskey "T">
+<!ENTITY fileMIMETypeColumn.label "MIME Mota">
+<!ENTITY fileMIMETypeColumn.accesskey "M">
+<!ENTITY fileExtensionColumn.label "Luzapena">
+<!ENTITY fileExtensionColumn.accesskey "L">
+
+<!ENTITY remove.label "Ezabatu Ekintza">
+<!ENTITY remove.accesskey "E">
+<!ENTITY edit.label "Aldatu Ekintza...">
+<!ENTITY edit.accesskey "L">
+
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Bilatu:">
+<!ENTITY filter.accesskey "B">
+<!ENTITY clear.label "Garbitu">
+<!ENTITY clear.accesskey "g">
+
+<!ENTITY button.close.label "Itxi">
+<!ENTITY button.close.accesskey "t">
+

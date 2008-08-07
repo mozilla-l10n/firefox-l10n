@@ -1,0 +1,23 @@
+<!ENTITY dialog.title "Hartu-agiriak">
+<!ENTITY receiptSettings.label "Hartu-agiriak">
+<!ENTITY requestReceipt.label "Mezuak bidaltzean beti eskatu hartu-agiria">
+<!ENTITY requestReceipt.accesskey "B">
+<!ENTITY receiptArrive.label "Hartu-agiri bat iristean:">
+<!ENTITY leaveIt.label "Utzi sarrerako postontzian">
+<!ENTITY leaveIt.accesskey "i">
+<!ENTITY moveToSent.label "Mugitu &quot;Bidalitakoak&quot; karpetara">
+<!ENTITY moveToSent.accesskey "m">
+<!ENTITY requestMDN.label "Hartu-agiri baten eskaera jasotzen dudanean:">
+<!ENTITY never.label "Hartu-agiria inoiz ez bidali">
+<!ENTITY never.accesskey "n">
+<!ENTITY returnSome.label "Mezu batzuentzat hartu-agiriak onartu">
+<!ENTITY returnSome.accesskey "r">
+<!ENTITY notInToCc.label "Ez banago mezuaren Nori edo Cc eremuetan:">
+<!ENTITY notInToCc.accesskey "n">
+<!ENTITY outsideDomain.label "Igorlea nire domeniutik kanpo badago:">
+<!ENTITY outsideDomain.accesskey "g">
+<!ENTITY otherCases.label "Beste kasu guztietan:">
+<!ENTITY otherCases.accesskey "b">
+<!ENTITY askMe.label "Galdetu">
+<!ENTITY alwaysSend.label "Beti bidali">
+<!ENTITY neverSend.label "Inoiz ez bidali">

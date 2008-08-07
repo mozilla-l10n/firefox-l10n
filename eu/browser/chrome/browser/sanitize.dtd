@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "Garbitu datu pribatuak">
+
+<!ENTITY sanitizeItems.label "Osagai hauek orain garbitu:">
+<!ENTITY clearDataSettings.label "&brandShortName;-(e)ri nire datu pribatuak garbitzeko eskatzean hau ezabatu beharko luke:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "Nabigazioaren historia">
+<!ENTITY itemHistory.accesskey "B">
+<!ENTITY itemFormSearchHistory.label "Gordetako inprimaki eta bilaketen historia">
+<!ENTITY itemFormSearchHistory.accesskey "I">
+<!ENTITY itemPasswords.label "Gordetako pasahitzak">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "Cookie-ak">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "Katxea">
+<!ENTITY itemCache.accesskey "k">
+<!ENTITY itemOfflineApps.label "Lineaz kanpoko webguneen datuak">
+<!ENTITY itemOfflineApps.accesskey "L">
+<!ENTITY itemDownloads.label "Deskargen historia">
+<!ENTITY itemDownloads.accesskey "D">
+<!ENTITY itemSessions.label "Egiaztatutako saioak">
+<!ENTITY itemSessions.accesskey "S">
+<!ENTITY window.width "30em">

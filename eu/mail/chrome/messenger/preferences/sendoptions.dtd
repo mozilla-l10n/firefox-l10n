@@ -1,0 +1,41 @@
+<!ENTITY dialog.title "Bidalketa Aukerak">
+<!ENTITY sendMail.title "Testu Formatua">
+<!ENTITY sendMaildesc.label "Mezuak HTML formatuan bidaltzerakoan, hartzaileetako bat edo gehiago HTML mezuak jasotzeko zerrendan ez daudenean:">
+<!ENTITY askMe.label "Galdetu niri zer egin">
+<!ENTITY askMe.accesskey "t">
+<!ENTITY convertPlain.label "Mezua testu arruntera bihurtu">
+<!ENTITY convertPlain.accesskey "z">
+<!ENTITY sendHTML.label "Bidali mezua HTML gisa hala ere">
+<!ENTITY sendHTML.accesskey "s">
+<!ENTITY sendBoth.label "Bidali mezua bai HTML bai testu arrunta bezala">
+<!ENTITY sendBoth.accesskey "e">
+<!ENTITY receiveHTML.label "Zuk hartzaile berezi batek HTML jaso dezakeela badakizu, ezgaitu 'Bidali eposta testu arrunta gisa (ez HTML)' aukera-hutxa hartzailearen helbide-liburu txartelean.">
+<!ENTITY override.label "Oharra: Helbide liburua erabili hartzaileen lehenetsitako testu formatua ezartzeko.">
+
+<!ENTITY domaindesc.label "Mezu bat behean zerrendatutako domeinu izen batetara bidaltzerakoan, &brandShortName;(e)k automatikoki mezua formatu egokian bidaliko du.">
+<!ENTITY HTMLTab.label "HTML Domeinuak">
+<!ENTITY HTMLTab.accesskey "h">
+<!ENTITY PlainTextTab.label "Testu Arruntentzako Domeinuak">
+<!ENTITY PlainTextTab.accesskey "r">
+<!ENTITY AddHtmlDomain.label "Gehitu...">
+<!ENTITY AddHtmlDomain.accesskey "g">
+<!ENTITY AddPlainText.label "Gehitu...">
+<!ENTITY AddPlainText.accesskey "d">
+<!ENTITY DeleteHtmlDomain.label "Ezabatu">
+<!ENTITY DeleteHtmlDomain.accesskey "l">
+<!ENTITY DeletePlainText.label "Ezabatu">
+<!ENTITY DeletePlainText.accesskey "t">
+
+<!ENTITY add.htmltitle "Gehitu HTML Domeinu Izena">
+<!ENTITY add.htmldomain "HTML Domeinu Izena:">
+<!ENTITY add.htmldomain.accesskey "d">
+<!ENTITY add.plaintexttitle "Gehitu Testu Arruntentzako Domeinu Izena">
+<!ENTITY add.plaintextdomain "Testu Arruntentzako Domeinu Izena:">
+<!ENTITY add.plaintext.accesskey "d">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+
+<!ENTITY domainnameError.title "Domeinu Izen Errorea">
+<!ENTITY duplicationError.label "@string@ domeinu izena badago dagoeneko zerrenda honetan.">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+
+<!ENTITY dualEntryError.label "Domeinu izen bat ezin da agertu HTML eta Testu Arrunten zerrendan egon. @string@ domeinu izena badago dagoeneko.">

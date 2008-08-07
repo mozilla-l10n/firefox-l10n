@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Inprimatu">
+
+<!ENTITY printDialog.title "Inprimatu">
+
+<!ENTITY fpDialog.title "Gorde fitxategia">
+
+<!ENTITY fileCheck.label "Inprimatu fitxategira">
+<!ENTITY propertiesButton.label "Propietateak...">
+<!ENTITY descText.label "Inprimagailuaren deskribapena:">
+<!ENTITY printer.label "Inprimagailua">
+<!ENTITY printerInput.label "Inprimagailuaren izena:">
+
+<!ENTITY printrangeGroup.label "Inprimaketa bitartea">
+<!ENTITY allpagesRadio.label "Orri guztiak">
+<!ENTITY rangeRadio.label "Orriak">
+<!ENTITY frompageInput.label "Nondik">
+<!ENTITY topageInput.label "nora">
+<!ENTITY selectionRadio.label "Hautapena">
+
+<!ENTITY copies.label "Kopiak">
+<!ENTITY numCopies.label "Kopia kopurua:">
+
+<!ENTITY printframeGroup.label "Inprimatu markoak">
+<!ENTITY aslaidoutRadio.label "Pantailan dauden bezala">
+<!ENTITY selectedframeRadio.label "Hautatutako markoa">
+<!ENTITY eachframesepRadio.label "Marko bakoitza bere aldetik">

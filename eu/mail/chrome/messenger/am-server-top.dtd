@@ -1,0 +1,96 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Segurtasun Ezarpenak">
+<!ENTITY serverSettings.label "Zerbitzariaren Ezarpenak">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP Posta-zerbitzaria">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP Posta-zerbitzaria">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Berri-zerbitzaria (NNTP)">
+<!ENTITY webmail.label "WebMail kontua">
+<!ENTITY serverType.label "Zerbitzari-mota:">
+<!ENTITY serverName.label "Zerbitzari-izena:">
+<!ENTITY serverName.accesskey "Z">
+<!ENTITY userName.label "Erabiltzaile izena:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "Ataka:">
+<!ENTITY port.accesskey "A">
+<!ENTITY serverPortDefault.label "Lehenetsia:">
+<!ENTITY savePassword.label "Gorde pasahitza">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Begiratu mezurik dagoen ">
+<!ENTITY biffStart.accesskey "g">
+<!ENTITY biffEnd.label "minutuz behin">
+<!ENTITY isSecure.label "Erabili konexio segurua (SSL)">
+<!ENTITY isSecure.accesskey "E">
+<!ENTITY socketType.label "Erabili konexio segurua:">
+<!ENTITY neverSecure.label "Inoiz ez">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, eskuragarri badago">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Egiaztapen ziurra erabili">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "Utzi mezuak zerbitzarian">
+<!ENTITY leaveOnServer.accesskey "z">
+<!ENTITY headersOnly.label "Goiburuak bakarrik deskargatu">
+<!ENTITY headersOnly.accesskey "d">
+<!ENTITY deleteByAgeFromServer.label "Gehienez">
+<!ENTITY deleteByAgeFromServer.accesskey "h">
+<!ENTITY daysEnd.label "egunez">
+<!ENTITY deleteOnServer2.label "Nik ezabatu arte">
+<!ENTITY deleteOnServer2.accesskey "e">
+<!ENTITY downloadOnBiff.label "Deskargatu automatikoki mezu berri guztiak">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "Zerbitzariaren Ostalari-izena">
+<!ENTITY username.label "Saioa Hasteko Izena">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "POP Zerbitzariaren Informazioa">
+<!ENTITY deleteMessagePrefix.label "Mezu bat ezabatzean:">
+<!ENTITY modelMoveToTrash.label "Mugitu karpetara mugitu honetara:">
+<!ENTITY modelMoveToTrash.accesskey "u">
+<!ENTITY modelMarkDeleted.label "Ezabatuta bezala markatu">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Ezabatu berehala">
+<!ENTITY modelDeleteImmediately.accesskey "h">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Garbitu (&quot;Hustu&quot;) Sarrerako ontzia irtetean">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "Hustu Zakarrontzia Irtetean">
+<!ENTITY emptyTrashOnExit.accesskey "r">
+<!ENTITY loginAtStartup.label "Begiratu mezu berririk dagoen abioan">
+<!ENTITY loginAtStartup.accesskey "B">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Galdetu">
+<!ENTITY maxMessagesStart.accesskey "e">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "mezuak">
+<!ENTITY alwaysAuthenticate.label "Zerbitzari honetara konektatzen naizen guztietan autentifikazioa eskatu">
+<!ENTITY alwaysAuthenticate.accesskey "g">
+<!ENTITY newsrcFilePath.label "newsrc fitxategia:">
+<!ENTITY newsrcFilePath.accesskey "f">
+<!ENTITY localPath.label "Direktorio lokala:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY abbreviate.label "Erakutsi honela berri-taldeen izenak Posta-karpetaren panelean:">
+<!ENTITY abbreviateOn.label "Izen osoak (adibidez, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Izen laburtuak (adibidez, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Aurreratua...">
+<!ENTITY advancedButton.accesskey "u">
+<!ENTITY serverDefaultCharset.label "Lehenetsitako Karaktere-kodeketa:">
+<!ENTITY localFolderPicker.label "Hautatu karpeta lokala">
+<!ENTITY browseFolder.label "Arakatu...">
+<!ENTITY browseFolder.accesskey "A">
+<!ENTITY newsrcPicker.label "newsrc fitxategia aukeratu">
+<!ENTITY browseNewsrc.label "Arakatu...">
+<!ENTITY browseNewsrc.accesskey "u">

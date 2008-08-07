@@ -1,0 +1,28 @@
+<!ENTITY find.label "Bilatu:">
+<!ENTITY find.accesskey "B">
+<!ENTITY expand.label "Zabaldu">
+<!ENTITY expand.accesskey "Z">
+<!ENTITY collapse.label "Tolestu">
+<!ENTITY collapse.accesskey "T">
+<!ENTITY byDate.label "Dataz">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Gunez">
+<!ENTITY bySite.accesskey "G">
+<!ENTITY view.label "Ikusi">
+<!ENTITY view.accesskey "s">
+<!ENTITY byMostVisited.label "Gehien bisitatuaren arabera">
+<!ENTITY byMostVisited.accesskey "B">
+<!ENTITY byLastVisited.label "Azkenez bisitatuaren arabera">
+<!ENTITY byLastVisited.accesskey "A">
+<!ENTITY byDayAndSite.label "Data eta gunez">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "Ireki">
+<!ENTITY openLinkInWindow.accesskey "I">
+<!ENTITY openInNewTab.label "Ireki fitxa berrian">
+<!ENTITY openInNewTab.accesskey "F">
+<!ENTITY openInNewWindow.label "Ireki leiho berrian">
+<!ENTITY openInNewWindow.accesskey "L">
+<!ENTITY bookmarkLink.label "Egin lotura honen laster-marka...">
+<!ENTITY bookmarkLink.accesskey "L">
+<!ENTITY copyLink.label "Kopiatu loturaren helbidea">
+<!ENTITY copyLink.accesskey "K">

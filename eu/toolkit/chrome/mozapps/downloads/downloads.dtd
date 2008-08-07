@@ -1,0 +1,44 @@
+<!ENTITY window.width2 "400">
+<!ENTITY window.height "300">
+
+<!ENTITY starting.label "Abiarazten...">
+<!ENTITY scanning.label "Birusen bila eskaneatzen...">
+
+<!ENTITY downloads.title "Deskargak">
+
+<!ENTITY cmd.pause.label "Pausatu">
+<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.resume.label "Berrekin">
+<!ENTITY cmd.resume.accesskey "R">
+<!ENTITY cmd.cancel.label "Utzi">
+<!ENTITY cmd.cancel.accesskey "U">
+<!ENTITY cmd.show.label "Ireki dagoen karpeta">
+<!ENTITY cmd.show.accesskey "K">
+<!ENTITY cmd.showMac.label "Erakutsi Finder-en">
+<!ENTITY cmd.showMac.accesskey "F">
+<!ENTITY cmd.open.label "Ireki">
+<!ENTITY cmd.open.accesskey "I">
+<!ENTITY cmd.openWith.label "Ireki honekin...">
+<!ENTITY cmd.openWith.accesskey "h">
+<!ENTITY cmd.retry.label "Saiatu berriro">
+<!ENTITY cmd.retry.accesskey "R">
+<!ENTITY cmd.goToDownloadPage.label "Joan deskargaren orrira">
+<!ENTITY cmd.goToDownloadPage.accesskey "J">
+<!ENTITY cmd.copyDownloadLink.label "Kopiatu deskargaren lotura">
+<!ENTITY cmd.copyDownloadLink.accesskey "L">
+<!ENTITY cmd.removeFromList.label "Ezabatu zerrendatik">
+<!ENTITY cmd.removeFromList.accesskey "e">
+
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close2.commandKey "j">
+<!ENTITY cmd.close2Unix.commandKey "y">
+<!ENTITY cmd.clearList.label "Garbitu zerrenda">
+<!ENTITY cmd.clearList.tooltip "Egindako, ezeztatutako eta huts egindako deskargak ezabatzen ditu zerrendatik">
+<!ENTITY cmd.clearList.accesskey "G">
+<!ENTITY cmd.find.commandKey "f">
+
+<!ENTITY closeWhenDone.label "Itxi deskargak burutzerakoan">
+<!ENTITY closeWhenDone.tooltip "Fitxategi guztiak deskargatuta daudenean deskargen leihoa ixten du">
+
+<!ENTITY showFolder.label "Erakutsi karpeta hau">
+<!ENTITY searchBox.label "Bilatu...">

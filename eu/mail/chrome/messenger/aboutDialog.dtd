@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title "&brandFullName;(r)i buruz">
+<!ENTITY credits.label "Credits">
+<!ENTITY credits.accesskey "C">
+<!ENTITY aboutLink.label "&lt; About &brandFullName;">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "bertsioa">
+<!ENTITY copyrightText "&#169;1998-2005 Contributors. All Rights Reserved. Mozilla Thunderbird and the Thunderbird logos are trademarks of the Mozilla Foundation.  All rights reserved.">

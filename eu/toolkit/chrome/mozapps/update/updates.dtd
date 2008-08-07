@@ -1,0 +1,69 @@
+<!ENTITY updateWizard.title "Software eguneraketa">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "Eguneraketen bila arakatzen">
+<!ENTITY checking.label "&brandShortName; eguneraketak bilatzen ari da...">
+
+<!ENTITY cancel.label "Utzi">
+<!ENTITY cancel.accesskey "U">
+
+<!ENTITY noupdatesfound.title "Ez da eguneraketarik aurkitu">
+<!ENTITY noupdatesfound.intro "Ez dago eguneraketarik eskuragarri. &brandShortName;(e)k aldiro araka dezake eguneraketa berrien bila.">
+
+<!ENTITY incompatibleChecking.label "Eguneraketa honek zure hedapen edo gaiekin arazoak sor ditzaken egiaztatzen...">
+<!ENTITY clickHere.label "Ikusi eguneraketa honi buruzko xehetasun gehiago">
+
+<!ENTITY incompatible.warning "Eguneraketa honek zure hedapen edota gairen bat eguneratu artean funtzionatzeari uztea eragin dezake.">
+<!ENTITY listIncompatible.label "Erakutsi zerrenda">
+<!ENTITY listIncompatible.accesskey "Z">
+
+<!ENTITY upgrade.evangelism "Oso gomendagarria da &brandShortName; ahalik eta azkarren eguneratzea.">
+
+<!ENTITY license.instructions "Lizentzi-kontratu honen baldintzak onartuz gero, egin klik Onartzen dut botoian instalazioarekin aurrera jarraitzeko.">
+
+<!ENTITY license.titleText "Softwarearen lizentzia-kontratua">
+<!ENTITY license.introText "Software hau erabiltzeko termino eta baldintzak">
+<!ENTITY license.instructionText "Mesedez irakurri hurrengo lizentzia-kontratua. Korritze barra erabili lizentziaren amaiera ikusi ahal izateko.">
+<!ENTITY license.accept "LIzentzi-kontratuaren baldintzak onartzen ditut">
+<!ENTITY license.accept.accesskey "o">
+<!ENTITY license.decline "LIzentzi-kontratuaren baldintzak EZ ditut onartzen">
+<!ENTITY license.decline.accesskey "E">
+
+<!ENTITY downloading.title "Eguneraketa deskargatzen">
+<!ENTITY downloading.intro "Eguneraketa deskargatzen...">
+<!ENTITY connecting.label "Eguneraketen zerbitzarira konektatzen...">
+<!ENTITY verificationFailedText.label "&brandShortName; ez da gai deskargatu duen eguneraketa inkrementalaren integritatea egiaztatzeko, beraz eguneraketa pakete osoa deskargatzen ari da orain.">
+
+<!ENTITY details.link "Xehetasunak">
+<!ENTITY pause.label "Gelditu">
+<!ENTITY pause.accesskey "e">
+<!ENTITY close.label "Itxi">
+<!ENTITY close.accesskey "I">
+
+<!ENTITY error.label "Arazo bat gertatu da eguneraketa hau bilatu, deskargatu edo instalatzerakoan. &brandShortName; honegatik ezin da eguneratu:">
+                                           
+<!ENTITY errorManual.label "&brandShortName; eskuz egunera dezakezu lotura hau jarraituz eta azken bertsioa deskargatuz:">
+                                           
+<!ENTITY errorpatching.title "Eguneraketak huts egin du">
+<!ENTITY errorpatching.intro "Ezin da eguneraketa partziala ezarri. &brandShortName; orain eguneraketa osoa deskargatzen saiatuko da.">
+
+<!ENTITY finished.title "Eguneraketa deskargatu da">
+<!ENTITY finished.text "Eguneraketa behar bezala deskargatu eta egiaztatu da eta &brandShortName; abiarazten den hurrengo aldian instalatuko da.">
+
+<!ENTITY finishedBackground.title "Eguneraketa instalatzeko prest">
+<!ENTITY finishedBackground.text "&brandShortName;(e)k eguneraketa garrantzitsu bat deskargatu eta egiaztatu du. Egin klik beheko loturan xehetasun gehiago jasotzeko.">
+<!ENTITY finishedBackground.name "Eguneraketa:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY finishedBackground.more1 "Egin klik Berrabiarazi botoian &brandShortName; eguneraketa orain instalatzeko.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY finishedBackground.textNotNow "Egin klik Beranduago botoian leiho hau itxi eta lanean jarraitzeko. &brandShortName; abiarazten den hurrengo aldian instalatuko da eguneraketa.">
+
+<!ENTITY installed.title "Eguneraketa instalatu da">
+<!ENTITY installed.intro "Eguneraketa ondo instalatu da.">
+<!ENTITY whatsnew.label "Berrikuntzei buruz argibideak...">
+
+<!ENTITY update.details.label "Xehetasunak">
+<!ENTITY update.installedOn.label "Noiz instalatua:">
+<!ENTITY update.status.label "Egoera:">

@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title "Segurtasun oharrak">
+
+<!ENTITY security.warn_when "Erakutsi ohar-leiho bat:">
+<!ENTITY security.warn_entering_secure.label "Zifratutako orri bat ikustera noanean.">
+<!ENTITY security.warn_entering_secure.accesskey "b">
+<!ENTITY security.warn_entering_weak.label "Maila baxuko zifraketa duen orri bat ikustera noanean.">
+<!ENTITY security.warn_entering_weak.accesskey "r">
+<!ENTITY security.warn_leaving_secure.label "Zifratutako orri batetik zifratuta ez dagoen beste batera noanean.">
+<!ENTITY security.warn_leaving_secure.accesskey "f">
+<!ENTITY security.warn_submit_insecure.label "Zifratu gabeko informazioa bidaltzen dudanean.">
+<!ENTITY security.warn_submit_insecure.accesskey "z">
+<!ENTITY security.warn_viewing_mixed.label "Zifratu gabeko zenbait informazio duen zifratutako orri bat ikustera noanean.">
+<!ENTITY security.warn_viewing_mixed.accesskey "u">

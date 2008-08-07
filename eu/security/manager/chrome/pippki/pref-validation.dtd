@@ -1,0 +1,87 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David P. Drinan (ddrinan@netscape.com)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.validation.title "Egiaztapena">
+
+<!ENTITY validation.crl.caption "CRL">
+<!ENTITY validation.crl.description "Erabili CRL kudeatzailea zure ziurtagirien datu-basean gordetako zurtagiri-errebokatzeen zerrenda (CRL) kudeatzeko.">
+<!ENTITY validation.managecrls.button "Kudeatu CRLak...">
+<!ENTITY validation.managecrls.accesskey "M">
+<!ENTITY validation.crlmanager.label "Kudeatu CRLak">
+<!ENTITY validation.crlmanager.description "Ziurtagiri errebokatze zerrenda hauek zure datu-basean gordeko dira:">
+<!ENTITY validation.crlname.label "Izena">
+<!ENTITY validation.crllastupdate.label "Azken eguneratzea">
+<!ENTITY validation.crlnextupdate.label "Hurrengo eguneratzea">
+<!ENTITY validation.crlautoupdateenabled.label "Eguneratze automatikoa">
+<!ENTITY validation.crlautoupdatestatus.label "Eguneratze automatikoaren egoera">
+<!ENTITY validation.deletecrl.label "Ezabatu">
+<!ENTITY validation.deletecrl.accesskey "Z">
+<!ENTITY validation.updatecrl.label "Eguneratu">
+<!ENTITY validation.updatecrl.accesskey "G">
+<!ENTITY validation.advanced.label "Ezarpenak">
+<!ENTITY validation.advanced.accesskey "E">
+
+<!ENTITY validation.crl.autoupdate.title "CRLen eguneratze automatikoaren hobespenak">
+<!ENTITY validation.crl.autoupdate.enable.label "Gaitu CRL honen eguneratze automatikoa">
+<!ENTITY validation.crl.autoupdate.time.label1 "Eguneratu">
+<!ENTITY validation.crl.autoupdate.time.label2 "egun lehenago">
+<!ENTITY validation.crl.autoupdate.freq.label1 "Eguneratu">
+<!ENTITY validation.crl.autoupdate.freq.label2 "egunez behin">
+<!ENTITY validation.crl.autoupdate.url.label "CRL hemendik inporta daiteke:">
+<!ENTITY crl.import.status.title "CRL inportazioaren egoera">
+<!ENTITY crl.import.success.message "Ziurtagiri-errebokatzeen zerrenda (CRL) behar bezala inportatu da.">
+<!ENTITY crl.issuer.label "CRL jaulkitzailea:">
+<!ENTITY crl.issuer.org.label "Erakundea: ">
+<!ENTITY crl.issuer.orgunit.label "Unitatea: ">
+<!ENTITY crl.import.nextupdate.label "Hurrengo eguneratzea: ">
+<!ENTITY crl.autoupdate.fail.cnt.label "Aurreko elkarren ondoko eguneratze hutsegiteak: ">
+<!ENTITY crl.autoupdate.fail.reason.label "Azken eguneratze hutsegitearen xehetasunak: ">
+<!ENTITY edit.button "Ezarpenak">
+
+<!ENTITY validation.ocsp.caption "OCSP">
+<!ENTITY enableOCSP.label "Erabili lineako ziurtagiri egoera protokoloa (OCSP) ziurtagiri hauek baliagarritasuna egiaztatzeko">
+<!ENTITY enableOCSP.accesskey "E">
+<!ENTITY certOCSP2.label "Balidatu ziurtagiria OCSP zerbiztari bat ezartzen badu">
+<!ENTITY certOCSP2.accesskey "B">
+<!ENTITY proxyOCSP2.label "Ziurtagiri guztiak hurrengo OCSP zerbitzariaz egiaztatu:">
+<!ENTITY proxyOCSP2.accesskey "a">
+<!ENTITY serviceURL.label "Zerbitzuaren URLa:">
+<!ENTITY serviceURL.accesskey "Z">
+<!ENTITY signingCA.label "Erantzunaren sinatzailea:">
+<!ENTITY signingCA.accesskey "R">
+<!ENTITY validation.requireOCSP.description "OCSP zerbitzariarekiko konexioak huts egitean, ziurtagiriak baligabeak bezala kudeatu">
+<!ENTITY validation.requireOCSP.accesskey "O">

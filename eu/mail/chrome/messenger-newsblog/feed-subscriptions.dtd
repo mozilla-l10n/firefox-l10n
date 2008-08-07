@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS Harpidetzak">
+<!ENTITY subscriptionDesc.label "Oharra: Jario batentzat karpeta ezabatu edo aldatzeak ez du aurretik deskargatutako artikuluengan eraginik izango.">
+<!ENTITY feedTitle.label "Izenburua:">
+<!ENTITY location.label "Kokalekua:">
+
+<!ENTITY button.addFeed.label "Gehitu">
+<!ENTITY button.addFeed.accesskey "G">
+<!ENTITY button.editFeed.label "Editatu">
+<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.removeFeed.label "Ezabatu">
+<!ENTITY button.removeFeed.accesskey "Z">
+<!ENTITY button.importOPML.label "Inportatu">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "Esportatu">
+<!ENTITY button.exportOPML.accesskey "S">
+
+<!ENTITY cmd.close.commandKey "w">

@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title "Pluginak bilatzeko zerbitzua">
+<!ENTITY pluginWizard.firstPage.title "Ongi etorri &pluginWizard.title;(e)ra">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; erabilgarri dauden pluginak bilatzen ari da...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Plugin erabilgarrien deskargak">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Ondorengo plugin-ak daude erabilgarri:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Egizu klik Hurrengoan plugin hauek instalatzeko.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Plugin batzuk informazio gehigarria eska dezakete instalatzerakoan.">
+
+<!ENTITY pluginWizard.licensePage.title "Pluginen lizentziak">
+<!ENTITY pluginWizard.licensePage.accept.label "Ados nago.">
+<!ENTITY pluginWizard.licensePage.deny.label "Ez nago ados (plugin-a ez da instalatuko).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "Plugin-ak Instalatzen">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; plugin-ak instalatzen ari da...">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName;(e)k falta ziren plugin-ak instalatzen bukatu du:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Plugin-ei buruz gehiago ikasi edo falta diren plugin-ak eskuz topatu.">
+<!ENTITY pluginWizard.finalPage.restart.label "Instalatutako plugin-ek &brandShortName; berrabiaraztea behar dute.">
+  
+<!ENTITY missingPlugin.label "Egizu klik hemen plugin-a deskargatzeko.">

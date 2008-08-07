@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title "Jarioaren Propietateak">
+
+<!ENTITY feedFolder.label "Jario artikuluak hemen gorde: ">
+<!ENTITY feedFolder.accesskey "G">
+
+<!ENTITY feedLocation.label "Jarioaren URL-a: ">
+<!ENTITY feedLocation.accesskey "J">
+
+<!ENTITY choosethisfolder.label "karpeta hau hautatu">
+
+<!ENTITY quickMode.label "Artikuluaren laburpena erakutsi orri guztia zabaldu ordez">
+<!ENTITY quickMode.accesskey "e">
+
+<!ENTITY copyLinkCmd.label "Kopiatu Loturaren Kokalekua">
+<!ENTITY copyLinkCmd.accesskey "K">
+
+<!ENTITY pasteLinkCmd.label "Itsatsi">
+<!ENTITY pasteLinkCmd.accesskey "I">

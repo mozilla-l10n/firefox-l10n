@@ -1,0 +1,18 @@
+<!ENTITY untitledTab "(Izengabea)">
+<!ENTITY newTab.label "Fitxa berria">
+<!ENTITY newTab.accesskey "F">
+<!ENTITY closeTab.label "Itxi fitxa">
+<!ENTITY closeTab.accesskey "i">
+<!ENTITY closeOtherTabs.accesskey "t">
+<!ENTITY closeOtherTabs.label "Itxi beste fitxak">
+<!ENTITY reloadAllTabs.label "Berritu fitxa guztiak">
+<!ENTITY reloadAllTabs.accesskey "B">
+<!ENTITY reloadTab.label "Berritu fitxa">
+<!ENTITY reloadTab.accesskey "r">
+<!ENTITY listAllTabs.label "Zerrendatu fitxa guztiak">
+<!ENTITY bookmarkAllTabs.label "Egin fitxa guztien laster-marka...">
+<!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY bookmarkThisTab.label "Egin fitxa honen laster-marka">
+<!ENTITY bookmarkThisTab.accesskey "F">
+<!ENTITY undoCloseTab.label "Desegin fitxa ixtea">
+<!ENTITY undoCloseTab.accesskey "D">

@@ -1,0 +1,29 @@
+<!ENTITY window.title "Mezuen Iragazkiak">
+<!ENTITY nameColumn.label "Iragazkiaren Izena">
+<!ENTITY activeColumn.label "Gaituta">
+<!ENTITY newButton.label "Berria...">
+<!ENTITY newButton.accesskey "B">
+<!ENTITY editButton.label "Editatu...">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "Ezabatu">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderUpButton.label "Mugitu goruntz">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "Mugitu Beheruntz">
+<!ENTITY reorderDownButton.accesskey "H">
+<!ENTITY filterHeader.label "Gaitutako Iragazkiak automatikoki exekutatzen dira, behean erakutsitako ordenan.">
+<!ENTITY filtersForPrefix.label "Honen iragazkiak:">
+<!ENTITY filtersForPrefix.accesskey "H">
+<!ENTITY viewLogButton.label "Iragazkien Erregistroa">
+<!ENTITY viewLogButton.accesskey "E">
+<!ENTITY runFilters.label "Abiarazi Orain">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "Gelditu">
+<!ENTITY stopFilters.accesskey "G">
+<!ENTITY folderPickerPrefix.label "Eskuz exekutatu aukeratutako iragazkia(k) karpeta honetan:">
+<!ENTITY folderPickerPrefix.accesskey "k">
+<!ENTITY choosethis.label "karpeta hau aukeratu">
+<!ENTITY choosethisnewsserver.label "berri-talde zerbitzari hau aukeratu">
+<!ENTITY helpButton.label "Laguntza">
+<!ENTITY helpButton.accesskey "L">
+<!ENTITY closeCmd.key "W">

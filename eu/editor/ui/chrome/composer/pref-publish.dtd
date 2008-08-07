@@ -1,0 +1,19 @@
+<!-- extracted from content/pref-publish.xul -->
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+
+<!ENTITY pref.publish.title "Argitaratu">
+<!ENTITY composerHeader.label "Argitaratu">
+<!ENTITY maintainCheckbox.label "Loturak mantendu">
+<!ENTITY keepCheck.label "Mantendu irudiak orriarekin">
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+
+<!ENTITY adjustDesc.label "Doitu loturak orriaren kokapenean futzionatzeko. (Orri lokaletarako loturak ez dute 			          funtzionatuko bertsio lokal bat dagoenean.)">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY saveDesc.label "Gorde irudien kopiak orriaren kokapenean. Irudiak beti agertuko 			      dira orriaren bertsio lokaletan  eta orria argitaratzen denean.">
+<!ENTITY tip.label "Oharra: Bi aukerak hautatu urrunean argitaratu nahi izanez gero.">
+<!ENTITY defaultHeader.label "Lehenetsitako argitaratze kokalekua">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY publishFtp.label "FTP zerbitzari batera argitaratzerakoan, nabigatzeko HTTP helbidea idatzi:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY publishhtp.label "FTP zerbitzari batera argitaratzerakoan, nabigatzeko HTTP helbidea idatzi:">
+

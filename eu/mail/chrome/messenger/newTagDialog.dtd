@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title "Sortu Etiketa Berria">
+<!ENTITY name.label "Etiketa Izena:">
+<!ENTITY name.accesskey "E">

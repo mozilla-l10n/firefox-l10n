@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Ziurtagiriak deskargatzen">
+<!ENTITY info.message "Direktorioan hartzailearen ziurtagiriak bilatzen. Minutu batzuk iraun dezake.">
+<!ENTITY stop.label "Gelditu bilaketa">

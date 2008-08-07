@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label "Sistema Lehenespenak">
+<!ENTITY alwaysCheckDefault.label "Beti egiaztatu &brandShortName; lehenetsiriko eposta bezeroa den.">
+<!ENTITY alwaysCheckDefault.accesskey "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Orain egiaztatu">
+<!ENTITY checkNow.accesskey "N">
+
+<!ENTITY messengerStartPage.label "&brandShortName; Abiarazte Orria">
+<!ENTITY enableStartPage.label "&brandShortName; abiaraztean, Abiarazte Orria mezu eremuan erakutsi">
+<!ENTITY enableStartPage.accesskey "B">
+<!ENTITY location.label "Kokalekua:">
+<!ENTITY location1.accesskey "o">
+<!ENTITY useDefault.label "Lehenetsitakoa Berezarri">
+<!ENTITY useDefault.accesskey "T">
+
+<!ENTITY bounceSystemDockIcon.label "Jakinarazpen ikonoa animatu">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+
+<!ENTITY newMessagesArrive.label "Mezu berri bat iristerakoan:">
+<!ENTITY playSound.label "Soinu bat erreproduzitu">
+<!ENTITY playSound1.accesskey "d">
+<!ENTITY showAnimatedAlert.label "Abisu bat erakutsi">
+<!ENTITY showAnimatedAlert.accesskey "S">
+<!ENTITY customizeMailAlert.label "Pertsonalizatu...">
+<!ENTITY customizeMailAlert.accesskey "P">
+
+<!ENTITY soundNotification1.caption "Sound">
+<!ENTITY play.label "Play">
+<!ENTITY play.accesskey "P">
+<!ENTITY systemsound.label "Default system sound for new mail">
+<!ENTITY systemsoundMac.label "System Alert Sound">
+<!ENTITY systemsoundMac.accesskey "y">
+<!ENTITY systemsound.accesskey "y">
+<!ENTITY customsound.label "Use the following sound file">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY browse.label "Browse...">
+<!ENTITY browse.accesskey "B">

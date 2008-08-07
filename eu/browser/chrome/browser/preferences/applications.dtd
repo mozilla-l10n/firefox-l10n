@@ -1,0 +1,14 @@
+<!ENTITY typeColumn.label "Eduki mota">
+<!ENTITY typeColumn.accesskey "T">
+
+<!ENTITY actionColumn2.label "Ekintza">
+<!ENTITY actionColumn2.accesskey "E">
+
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Bilatu:">
+<!ENTITY filter.accesskey "B">
+
+<!ENTITY clear.label "Garbitu">
+<!ENTITY clear.accesskey "r">

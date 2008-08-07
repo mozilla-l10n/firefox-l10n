@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Gunea">
+<!ENTITY reportProblemType "Arazo mota">
+<!ENTITY reportDecsription "Azalpena">
+<!ENTITY reportPlatform "Plataforma">
+<!ENTITY reportProduct "Produktua">
+<!ENTITY reportoscpu "SE">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Sortu konfigurazioa">
+<!ENTITY reportUseragent "Erabiltzaile-bezeroa">
+<!ENTITY reportLanguage "Hizkuntza">
+<!ENTITY reportCharset "Karakete-kodeketa">
+<!ENTITY reportEmail "e-posta">
+<!ENTITY error "Errorearen xehetasunak">
+<!ENTITY faultCode "Kodea">
+<!ENTITY faultMessage "Mezua">

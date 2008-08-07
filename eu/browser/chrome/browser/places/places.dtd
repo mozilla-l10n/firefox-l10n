@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title "Biltegia">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label "Antolatu">
+<!ENTITY organize.accesskey "O">
+
+<!ENTITY file.accesskey "F">
+<!ENTITY file.close.label "Itxi">
+<!ENTITY file.close.accesskey "I">
+<!ENTITY cmd.close.key "i">
+<!ENTITY edit.label "Editatu">
+<!ENTITY edit.accesskey "E">
+<!ENTITY views.label "Ikuspegiak">
+<!ENTITY views.accesskey "I">
+<!ENTITY view.toolbar.label "Tresna-barra">
+<!ENTITY view.toolbar.accesskey "t">
+<!ENTITY view.columns.label "Erakutsi zutabeak">
+<!ENTITY view.columns.accesskey "S">
+<!ENTITY view.sort.label "Ordenatu">
+<!ENTITY view.sort.accesskey "O">
+<!ENTITY view.unsorted.label "Sailkatu gabe">
+<!ENTITY view.unsorted.accesskey "U">
+<!ENTITY view.sortAscending.label "A > Z ordena">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "Z > A ordena">
+<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY help.usingBookmarks.label "Laster-markak erabiltzen">
+<!ENTITY help.usingBookmarks.accesskey "L">
+<!ENTITY help.usingHistory.label "Historia erabiltzen">
+<!ENTITY help.usingHistory.accesskey "i">
+<!ENTITY help.advancedTips.label "Aurreratutako gomendio eta trukoak">
+<!ENTITY help.advancedTips.accesskey "T">
+
+<!ENTITY cmd.findInBookmarks.label "Bilatu laster-marketan...">
+<!ENTITY cmd.findInBookmarks.accesskey "B">
+<!ENTITY cmd.findCurrent.label "Bilatu uneko bilduman...">
+<!ENTITY cmd.findCurrent.accesskey "i">
+
+<!ENTITY cmd.exportHTML.label "Esportatu HTMLa…">
+<!ENTITY cmd.exportHTML.accesskey "E">
+<!ENTITY cmd.importHTML.label "Inportatu HTMLa…">
+<!ENTITY cmd.importHTML.accesskey "I">
+
+<!ENTITY cmd.backup.label "Babeskopia…">
+<!ENTITY cmd.backup.accesskey "B">
+<!ENTITY cmd.restore2.label "Berreskuratu">
+<!ENTITY cmd.restore2.accesskey "R">
+<!ENTITY cmd.restoreFromFile.label "Aukeratu fitxategia…">
+<!ENTITY cmd.restoreFromFile.accesskey "A">
+
+<!ENTITY cmd.select_all.label "Hautatu dena">
+<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label "Ebaki">
+<!ENTITY cmd.edit_cut.accesskey "b">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "Kopiatu">
+<!ENTITY cmd.edit_copy.accesskey "K">
+<!ENTITY cmd.edit_copy.key "k">
+<!ENTITY cmd.edit_paste.label "Itsatsi">
+<!ENTITY cmd.edit_paste.accesskey "S">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "Ezabatu">
+<!ENTITY cmd.edit_delete.accesskey "E">
+<!ENTITY cmd.edit_undo.label "Desegin">
+<!ENTITY cmd.edit_undo.accesskey "D">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "Berregin">
+<!ENTITY cmd.edit_redo.accesskey "R">
+<!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.open.label "Ireki">
+<!ENTITY cmd.open.accesskey "I">
+<!ENTITY cmd.open_window.label "Ireki leiho berri batetan">
+<!ENTITY cmd.open_window.accesskey "N">
+<!ENTITY cmd.open_tab.label "Ireki fitxa berri batean">
+<!ENTITY cmd.open_tab.accesskey "x">
+<!ENTITY cmd.open_all_in_tabs.label "Ireki guztiak fitxetan">
+<!ENTITY cmd.open_all_in_tabs.accesskey "I">
+
+<!ENTITY cmd.properties.label "Propietateak">
+<!ENTITY cmd.properties.accesskey "i">
+
+<!ENTITY cmd.show_info.key "i">
+
+<!ENTITY cmd.rename.label "Berrizendatu">
+<!ENTITY cmd.rename.accesskey "R">
+
+<!ENTITY cmd.sortby_name.label "Sailkatu izenez">
+<!ENTITY cmd.sortby_name.accesskey "S">
+<!ENTITY cmd.context_sortby_name.accesskey "S">
+
+<!ENTITY cmd.new_bookmark.label "Laster-marka berria...">
+<!ENTITY cmd.new_bookmark.accesskey "B">
+<!ENTITY cmd.new_livemark.label "Laster-marka dinamiko berria...">
+<!ENTITY cmd.new_livemark.accesskey "D">
+<!ENTITY cmd.new_folder.label "Karpeta berria...">
+<!ENTITY cmd.new_folder.accesskey "a">
+<!ENTITY cmd.context_new_folder.accesskey "K">
+<!ENTITY cmd.new_separator.label "Bereizle berria">
+<!ENTITY cmd.new_separator.accesskey "Z">
+
+<!ENTITY cmd.reloadLivebookmark.label "Birkargatu laster-marka dinamikoa">
+<!ENTITY cmd.reloadLivebookmark.accesskey "D">
+<!ENTITY cmd.reloadMicrosummary.label "Birkargatu izenburu dinamikoa">
+<!ENTITY cmd.reloadMicrosummary.accesskey "B">
+
+<!ENTITY cmd.groupby_site.label "Taldekatu gunearen arabera">
+<!ENTITY cmd.groupby_site.accesskey "G">
+<!ENTITY cmd.groupby_page.label "Taldekatu orriaren arabera">
+<!ENTITY cmd.groupby_page.accesskey "O">
+<!ENTITY cmd.groupby_feed.label "Taldekatu harpidetzaren arabera">
+<!ENTITY cmd.groupby_feed.accesskey "H">
+<!ENTITY cmd.groupby_post.label "Taldekatu e-postaren arabera">
+<!ENTITY cmd.groupby_post.accesskey "P">
+
+<!ENTITY cmd.moveBookmarks.label "Lekuz aldatu...">
+<!ENTITY cmd.moveBookmarks.accesskey "L">
+
+<!ENTITY col.name.label "Izena">
+<!ENTITY col.tags.label "Etiketak">
+<!ENTITY col.url.label "Kokapena">
+<!ENTITY col.lastvisit.label "Bisitatze data">
+<!ENTITY col.visitcount.label "Bisita kopurua">
+<!ENTITY col.keyword.label "Gako-hitza">
+<!ENTITY col.description.label "Azalpena">
+<!ENTITY col.dateadded.label "Gehituta">
+<!ENTITY col.lastmodified.label "Azken aldaketa">
+
+<!ENTITY search.label "Bilatu:">
+<!ENTITY search.accesskey "B">
+<!ENTITY search.collection.label "Uneko kokapena bakarrik">
+<!ENTITY search.collection.accesskey "U">
+<!ENTITY search.allBookmarks.label "Laster-marka guztiak">
+<!ENTITY search.allBookmarks.accesskey "A">
+<!ENTITY search.scopeFolder.label "Aukeratu karpeta">
+<!ENTITY search.scopeFolder.accesskey "K">
+<!ENTITY search.scopeAll.label "Laster-marka guztiak">
+<!ENTITY search.scopeAll.accesskey "A">
+<!ENTITY search.scopeMenu.label "Laster-marka menua">
+<!ENTITY search.scopeMenu.accesskey "M">
+<!ENTITY search.scopeToolbar.label "Laster-marka tresna-barra">
+<!ENTITY search.scopeToolbar.accesskey "T">
+<!ENTITY search.scopeDownloads.label "Deskargak">
+<!ENTITY search.scopeDownloads.accesskey "D">
+<!ENTITY search.scopeHistory.label "Historia">
+<!ENTITY search.scopeHistory.accesskey "D">
+<!ENTITY search.scopeBarExpanderDown.tooltip "Erakutsi bilaketen eraikitzailea">
+<!ENTITY search.scopeBarExpanderUp.tooltip "Ezkutatu bilaketen eraikitzailea">
+<!ENTITY saveSearch.label "Gorde">
+<!ENTITY saveSearch.accesskey "G">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "Bilatu laster-marketan bakarrik">
+<!ENTITY advancedSearch.match.label "Parekatu ">
+<!ENTITY advancedSearch.all.label "dena">
+<!ENTITY advancedSearch.any.label "edozein">
+<!ENTITY advancedSearch.rules.label " hurrengo arauetako bat:">
+<!ENTITY advancedSearch.subj_keyword.label "Testua duena">
+<!ENTITY advancedSearch.subj_visited.label "Bisitaturik">
+<!ENTITY advancedSearch.subj_location.label "Kokapena">
+<!ENTITY advancedSearch.location_startswith.label "honekin hasten da">
+<!ENTITY advancedSearch.location_is.label "berdina da">
+<!ENTITY advancedSearch.location_onsite.label "gunean dago">
+<!ENTITY advancedSearch.time_is.label " - ">
+<!ENTITY advancedSearch.time_before.label "lehenago">
+<!ENTITY advancedSearch.time_after.label "geroago">
+<!ENTITY advancedSearch.time_inlast.label "azken">
+<!ENTITY advancedSearch.last_days.label "egun">
+<!ENTITY advancedSearch.last_weeks.label "aste">
+<!ENTITY advancedSearch.last_months.label "hilabete">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "Taldekatu honela: ">
+<!ENTITY advancedSearch.groupby_host.label "ostalaria">
+<!ENTITY advancedSearch.groupby_domain.label "domeinua">
+<!ENTITY advancedSearch.groupby_folder.label "karpeta">
+<!ENTITY advancedSearch.sortby.label "Ordenatu: ">
+<!ENTITY advancedSearch.sortby_title.label "izenburua">
+<!ENTITY advancedSearch.sortby_date.label "data">
+<!ENTITY advancedSearch.sortby_visit.label "bisita kopurua">
+<!ENTITY advancedSearch.sortby_url.label "urla">
+<!ENTITY advancedSearch.sortby_asc.label "goraka">
+<!ENTITY advancedSearch.sortby_desc.label "beheraka">
+<!ENTITY advancedSearch.max.label "Emaitzak gehienez: ">
+
+<!ENTITY cmd.find.key "b">
+
+<!ENTITY feed.subscribe.label "Jarioa">
+<!ENTITY feed.subscribe.tooltip "Harpidetu">
+
+<!ENTITY view.detailsMacOSX.label "Zerrenda">
+<!ENTITY view.details.label "Xehetasunak">
+<!ENTITY view.details.accesskey "X">
+
+<!ENTITY view.addons.label "Eskuratu ikustatzaile gehigarriak">
+
+<!ENTITY maintenance.label "Inportatze eta babeskopia">
+<!ENTITY maintenance.accesskey "I">
+
+<!ENTITY backCmd.label "Atzera">
+<!ENTITY backCmd.accesskey "A">
+<!ENTITY backButton.tooltip "Joan atzera">
+
+<!ENTITY forwardCmd.label "Aurrera">
+<!ENTITY forwardCmd.accesskey "A">
+<!ENTITY forwardButton.tooltip "Joan aurrera">
+
+<!ENTITY detailsPane.more.label "Gehiago">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "Gutxiago">
+<!ENTITY detailsPane.less.accesskey "u">
+<!ENTITY detailsPane.noPreviewAvailable.label "Aurrebista">
+<!ENTITY detailsPane.selectAnItemText.description "Hautatu elementu bat bere propietateak ikusi eta editatzeko">

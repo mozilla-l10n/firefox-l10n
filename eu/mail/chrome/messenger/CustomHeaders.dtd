@@ -1,0 +1,7 @@
+<!ENTITY window.title "Goiburuak pertsonalizatu">
+<!ENTITY addButton.label "Gehitu">
+<!ENTITY addButton.accesskey "G">
+<!ENTITY removeButton.label "Ezabatu">
+<!ENTITY removeButton.accesskey "E">
+<!ENTITY newMsgHeader.label "Mezu goiburu berria:">
+<!ENTITY newMsgHeader.accesskey "B">

@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "Ezarpenak">
+<!ENTITY security.caption "Segurtasuna eta Autentifikazioa">
+<!ENTITY serverName.label "Zerbitzari-izena:">
+<!ENTITY serverName.accesskey "Z">
+<!ENTITY serverDescription.label "Deskribapena:">
+<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverPort.label "Ataka:">
+<!ENTITY serverPort.accesskey "A">
+<!ENTITY alwaysUseUsername.label "Erabili izena eta pasahitza">
+<!ENTITY alwaysUseUsername.accesskey "E">
+<!ENTITY userName.label "Erabiltzaile-izena:">
+<!ENTITY userName.accesskey "n">
+<!ENTITY useSecAuth.label "Use secure authentication">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY isSecure.label "Erabili konexio segurua (SSL):">
+<!ENTITY neverSecure.label "Ez">
+<!ENTITY neverSecure.accesskey "E">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, if available">
+<!ENTITY sometimesSTARTTLS.accesskey "a">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP Zerbitzaria">
+<!ENTITY serverPortDefault.label "Lehenetsia:">

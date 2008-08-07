@@ -1,0 +1,32 @@
+<!ENTITY startpage.welcome "Ongi Etorri &brandFullName;(e)ra!">
+<!ENTITY startpage.intro "&brandFullName; kode irekiko posta eta berri-talde bezero boteretsua da.">
+
+<!ENTITY startpage.features "Ezaugarriak">
+
+<!ENTITY startpage.junkControl "Egokitzen diren Zabor-posta Kontrolak">
+<!ENTITY startpage.rssReader "RSS Irakurgailua">
+<!ENTITY startpage.globalInbox "Postakutxa Globala onartzen du">
+<!ENTITY startpage.searchFolders "Gordetako Bilaketa Karpetak">
+<!ENTITY startpage.messageGroups "Mezuen Taldekatzea">
+<!ENTITY startpage.privacyProtect "Pribatutasun Babesa">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "Informazio Gehiago">
+
+<!ENTITY startpage.help "Thunderbird Laguntza">
+<!ENTITY startpage.helpInfo "Maiz egiten diren galdera, aholku eta laguntza orokorrerako, bisitatu">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+
+<!ENTITY startpage.page "Thunderbird Produktu Orria">
+<!ENTITY startpage.pageInfo "Produktuaren informaziorako, bisitatu">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
+<!ENTITY startpage.extra "">
+
+<!ENTITY startpage.poweredByGecko "Gecko-z hornitua">

@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label "Ez da propietaterik ezarri.">
+
+<!ENTITY caption.label "Elementuaren propietateak">
+<!ENTITY image-sec.label "Irudiaren propietateak">
+<!ENTITY image-url.label "Helbidea:">
+<!ENTITY image-type.label "Mota:">
+<!ENTITY image-desc.label "Azalpena:">
+<!ENTITY image-alt.label "Testu alternatiboa:">
+<!ENTITY image-size.label "Irudiaren neurriak:">
+<!ENTITY image-filesize.label "Fitxategiaren tamaina:">
+<!ENTITY insdel-sec.label "Txertatu/Ezabatu propietateak">
+<!ENTITY insdel-cite.label "Informazioa:">
+<!ENTITY insdel-date.label "Data:">
+<!ENTITY link-sec.label "Loturaren propietateak">
+<!ENTITY link-url.label "Helbidea:">
+<!ENTITY link-target.label "Hemen irekiko da:">
+<!ENTITY link-type.label "Helburuaren mota:">
+<!ENTITY link-lang.label "Helburuaren hizkuntza:">
+<!ENTITY link-rel.label "Erlazioa:">
+<!ENTITY link-rev.label "Alderantzizko erlazioa:">
+<!ENTITY link-ping.label "Oharraraziko du:">
+<!ENTITY misc-sec.label "Hainbat propietate">
+<!ENTITY misc-lang.label "Testuaren hizkuntza:">
+<!ENTITY misc-title.label "Izenburua:">
+<!ENTITY misc-tblsummary.label "Taularen laburpena:">
+<!ENTITY quote-sec.label "Aipamenen propietateak">
+<!ENTITY quote-cite.label "Informazioa:">

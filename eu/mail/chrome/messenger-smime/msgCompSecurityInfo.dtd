@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Mezuaren segurtasuna">
+<!ENTITY subject.plaintextWarning "Mesedez ohartu: eposta mezuen gaia lerroak inoiz ez dira zifratzen.">
+<!ENTITY status.heading "Zure mezuaren edukiak ondorengoa bezala bidaliko dira:">
+<!ENTITY status.signed "Digitalki sinatua:">
+<!ENTITY status.encrypted "Zifratuta:">
+<!ENTITY status.certificates "Ziurtagiriak:">
+<!ENTITY view.label "Ikusi">
+<!ENTITY view.accesskey "I">
+<!ENTITY tree.recipient "Hartzailea:">
+<!ENTITY tree.status "Egoera:">
+<!ENTITY tree.issuedDate "Emana:">
+<!ENTITY tree.expiresDate "Iraungitzen da:">

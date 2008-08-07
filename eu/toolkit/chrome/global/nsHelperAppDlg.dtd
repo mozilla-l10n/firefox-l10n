@@ -1,0 +1,42 @@
+<!ENTITY caption.label "#1 irekitzen">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "&quot;#3&quot; fitxategia #2 (#1) motatakoa da eta #4-(e)k ez daki mota honetako fitxategiak tratatzen. Fitxategia hemen dago kokatuta:">
+<!ENTITY intro.noDesc.label "&quot;#3&quot; fitxategia #2 motatakoa da eta #4-(e)k ez daki mota honetako fitxategiak tratatzen. Fitxategia hemen dago kokatuta:">
+
+<!ENTITY intro.attachment.label "Zerbitzariak &quot;#3&quot; eranskin gisa tratatzeko iradoki du. #2 motatakoa da (#1), eta hemen dago kokatuta:">
+<!ENTITY intro.attachment.noDesc.label "Zerbitzariak &quot;#3&quot; eranskin gisa tratatzeko iradoki du. #2 motatakoa da, eta hemen dago kokatuta:">
+
+<!ENTITY intro.sniffed.label "#4-(e)k &quot;#3&quot; fitxategia #2 (#1) motatakoa dela antzeman du. Fitxategia hemen dago kokatuta:">
+<!ENTITY intro.sniffed.noDesc.label "#4-(e)k &quot;#3&quot; fitxategia #2 motatakoa dela antzeman du. Fitxategia hemen dago kokatuta:">
+
+<!ENTITY prompt.label "Zer egin behar du #1-(e)k fitxategi honekin?">
+
+<!ENTITY alwaysHandle.label "Beti ekintza hau egin mota honetako fitxategi bat aukeratzerakoan">
+<!ENTITY alwaysHandle.accesskey "A">
+
+<!ENTITY saveToDisk.label "Gorde fitxategi hau diskoan">
+<!ENTITY saveToDisk.accesskey "D">
+
+<!ENTITY useSystemDefault.label "Ireki fitxategi hauek lehenetsitako aplikazioa erabiliz (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Ireki lehenetsitako aplikazioa erabiliz">
+<!ENTITY useSystemDefault.accesskey "O">
+
+<!ENTITY openUsing.label "Ireki hau erabiliz">
+<!ENTITY openUsing.accesskey "h">
+
+<!ENTITY chooseApp.label "Aukeratu...">
+<!ENTITY chooseApp.accesskey "A">
+
+<!ENTITY chooseAppFilePickerTitle "Aukeratu aplikazio laguntzailea">
+
+<!ENTITY badApp "Ezin izan da zuk zehaztutako aplikazioa (&quot;#1&quot;) aurkitu.  Egiaztatu fitxategi izena edo hautatu beste aplikazio bat.">
+<!ENTITY badApp.title "Aplikazioa ez da aurkitu">

@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+
+<!ENTITY fileMenu.label "Fitxategia">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "Berria">
+<!ENTITY newMenu.accesskey "B">
+
+<!ENTITY editMenu.label "Editatu">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Desegin">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "d">
+<!ENTITY redoCmd.label "Berregin">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "Ebaki">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "e">
+<!ENTITY copyCmd.label "Kopiatu">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Itsatsi">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "i">
+<!ENTITY deleteCmd.label "Ezabatu">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "e">
+<!ENTITY selectAllCmd.label "Hautatu Dena">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "Aukerak...">
+<!ENTITY preferencesCmd.accesskey "K">
+<!ENTITY preferencesCmdUnix.label "Hobespenak">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+
+<!ENTITY findTypeTextCmd.label "Bilatu testua idatzi ahal">
+<!ENTITY findTypeTextCmd.accesskey "s">
+
+<!ENTITY viewMenu.label "Ikusi">
+<!ENTITY viewMenu.accesskey "i">
+<!ENTITY viewToolbarsMenu.label "Tresna-barrak">
+<!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY showTaskbarCmd.label "Egoera-barra">
+<!ENTITY showTaskbarCmd.accesskey "B">
+
+<!ENTITY direct.label "Online (proxy-a: bat ere ez)">
+<!ENTITY direct.accesskey "n">
+<!ENTITY manual.label "Online (proxy-a: eskuzkoa)">
+<!ENTITY manual.accesskey "e">
+<!ENTITY pac.label "Online (proxy-a: automatikoa)">
+<!ENTITY pac.accesskey "a">
+
+<!ENTITY proxy.label "Proxy Konfigurazioa...">
+<!ENTITY proxy.accesskey "K">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Itxi">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "x">
+
+<!ENTITY closeWindow.label "Itxi leihoa">
+
+<!ENTITY quitApplicationCmd.label "Irten">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "r">
+
+<!ENTITY quitApplicationCmdUnix.label "Irten">
+<!ENTITY quitApplicationCmdUnix.accesskey "i">
+
+<!ENTITY quitApplicationCmdMac.label "&brandShortName; Itxi">
+<!ENTITY quitApplicationCmdMac.accesskey "t">

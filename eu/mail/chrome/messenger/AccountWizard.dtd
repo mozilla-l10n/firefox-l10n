@@ -1,0 +1,123 @@
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "Kontu Laguntzailea">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!-- Entities for Account Type page -->
+
+
+<!ENTITY accountSetupInfo.label "Mezuak jaso ahal izateko, lehenik eta behin Posta edo Berri-talde kontu bat ezarri behar duzu.">
+<!ENTITY accountTypeTitle.label "Kontu Berriaren Konfigurazioa">
+<!ENTITY accountTypeDesc.label "Laguntzaile honek Posta edo Berri-talde kontu bat ezartzeko beharrezko informazioa jasoko du. Eskatzen den informazioa ez badakizu zein den, jarri kontaktuan zure Sistema Kudeatzailearekin edo Internet Zerbitzu-hornitzailearekin.">
+<!ENTITY accountTypeDirections.label "Konfiguratu nahi duzun kontu mota aukera ezazu:">
+<!ENTITY accountTypeMail.label "ePosta kontua">
+<!ENTITY accountTypeMail.accesskey "p">
+<!ENTITY accountTypeNews.label "Berri-talde kontua">
+<!ENTITY accountTypeNews.accesskey "b">
+<!-- Entities for Identity page -->
+
+
+<!ENTITY identityTitle.label "Nortasuna">
+<!ENTITY identityDesc.label "Kontu bakoitzak nortasun bat du, zeinek besteen aurrean identifikatzen zaituen zure mezuak jasotzen dituztenean.">
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
+<!ENTITY fullnameDesc.label "Idatzi bidaltzen dituzun mezuen &quot;Nork&quot; eremuan agertzea nahi duzun izena">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(adibidez, &quot;Jone Etxeberria&quot;).">
+<!ENTITY fullnameLabel.label "Zure izena:">
+<!ENTITY fullnameLabel.accesskey "Z">
+
+<!ENTITY emailLabel.label "ePosta Helbidea:">
+<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailDesc.label "Idatzi zure eposta helbidea; helbide hau besteek zuri mezuak bidaltzeko erabiliko dutena da">
+<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
+<!ENTITY emailExample.label "(adibidez: user@example.net).">
+<!-- Entities for Server page -->
+
+
+<!ENTITY serverTitle.label "Zerbitzariaren Informazioa">
+<!ENTITY incomingServerTitle.label "Posta Jasotzeko Zerbitzaria">
+<!ENTITY incomingServerTypeDesc.label "Erabiltzen duzun posta jasotzeko zerbitzari mota hauta ezazu.">
+<!ENTITY incomingServerTypeLabel.label "Zerbitzari Mota:">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "Posta jasotzeko zerbitzari motaren izena idatz ezazu (adibidez, &quot;mail.adibide.net&quot;).">
+<!ENTITY incomingServerLabel.label "Posta Jasotzeko Zerbitzaria:">
+<!ENTITY incomingServerLabel.accesskey "Z">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Idatzi berri-zerbitzariaren izena (NNTP) (adibidez, &quot;berriak.adibide.net&quot;).">
+<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
+<!ENTITY smtpServerTitle.label "ePosta Bidaltzeko Zerbitzaria (SMTP)">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "Idatzi posta bidaltzeko zerbitzariaren izena (SMTP) (adibidez, &quot;smtp.adibide.net&quot;).">
+<!ENTITY smtpServerLabel.label "ePosta Bidaltzeko Zerbitzaria:">
+<!ENTITY smtpServerLabel.accesskey "O">
+<!ENTITY newsServerLabel.label "Berri-talde Zerbitzaria:">
+<!ENTITY newsServerLabel.accesskey "B">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Berri Zerbitzaria">
+<!-- for when the user has an SMTP server pre-configured -->
+<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
+     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
+    inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+-->
+
+<!ENTITY haveSmtp1.prefix "Ezarritako eposta bidaltzeko zerbitzaria (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;, erabiliko da. Posta bidaltzeko zerbitzariaren ezarpenak aldatzeko Kontu Ezarpenak hautatu Tresnak menuan.">
+<!-- Entities for Login page -->
+
+
+<!ENTITY loginTitle.label "Erabiltzaile-izenak">
+<!ENTITY usernameDesc.label "Idatzi zure eposta hornitzaileak emandako posta jasotzeko erabiltzaile-izena ">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(adibidez, &quot;jetxeberria&quot;).">
+<!ENTITY usernameLabel.label "Posta Jasotzeko Erabiltzaile-izena:">
+<!ENTITY usernameLabel.accesskey "P">
+<!ENTITY usernameSmtpDesc.label "Idatzi zure eposta hornitzaileak emandako posta bidaltzeko erabiltzaile izena (normalean posta jasotzeko erabiltzailearen berdina izaten da).">
+<!ENTITY usernameSmtpLabel.label "ePosta Bidaltzeko Erabiltzaile-izena:">
+<!ENTITY usernameSmtpLabel.accesskey "O">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "ePosta bidaltzeko (SMTP) erabiltzaile-izena, &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;, erabiliko da. Posta bidaltzeko zerbitzariaren ezarpenak aldatzeko Kontu Ezarpenak hautatu Tresnak menuan.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "ePosta bidaltzeko zerbitzaria (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix "&quot;, zure posta jasotzeko zerbitzariaren berdina da, zure posta jasotzeko erabiltzaile izena erabiliko da. Hau ePosta bidaltzeko zerbitzariaren ezarpenetan alda dezakezu.">
+<!-- Entities for Account name page -->
+
+
+<!ENTITY accnameTitle.label "Kontuaren Izena">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Idatzi kontu hau izendatzeko erabili nahi duzun testua (adibidez, &quot;Laneko Kontua&quot;, &quot;Etxeko kontua&quot; edo &quot;Berrien Kontua&quot;).">
+<!ENTITY accnameExample.label "Adibidez, Laneko kontua, etxeko kontua edo Berri kontua">
+<!ENTITY accnameLabel.label "Kontuaren Izena:">
+<!ENTITY accnameLabel.accesskey "K">
+<!-- Entities for Done (Congratulations) page -->
+
+
+<!ENTITY completionTitle.label "Zorionak!">
+<!ENTITY completionText.label "Mesedez egiaztatu beheko informazioa zuzena dela.">
+<!ENTITY serverTypePrefix.label "Posta Jasotzeko Zerbitzari Mota:">
+<!ENTITY serverNamePrefix.label "Posta Jasotzeko Zerbitzariaren Izena:">
+<!ENTITY smtpServerNamePrefix.label "ePosta Bidaltzeko zerbitzari-izena (SMTP)">
+<!ENTITY newsServerNamePrefix.label "Berri-zerbitzariaren izena (NNTP):">
+<!ENTITY downloadOnLogin.label "Mezuak orain deskargatu">
+<!ENTITY deferStorageDesc.label "Laukitxo hau ezgaitu kontu honentzako posta bere direktorio propioan gordetzeko. Honela goi-mailako kontu bezala ikusiko da. Bestela, Karpeta Lokaletako Postakutxa Orokorren barnean geratuko da.">
+<!ENTITY deferStorage.label "Postakutxa Orokorra erabili (posta Karpeta Lokaletan gorde)">
+<!ENTITY clickFinish.label "Klik egin Eginda botoian ezarpen hauek gorde eta Kontu Laguntzailetik irtetzeko.">
+<!ENTITY clickFinish.labelMac "Click Done to save these settings and exit the Account Wizard.">

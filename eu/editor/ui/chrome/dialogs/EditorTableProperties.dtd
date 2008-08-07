@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title "Taularen propietateak">
+<!ENTITY applyButton.label "Aplikatu">
+<!ENTITY applyButton.accesskey "A">
+<!ENTITY closeButton.label "Itxi">
+<!ENTITY tableTab.label "Taula">
+<!ENTITY cellTab.label "Gelaxkak">
+<!ENTITY tableRows.label "Errenkadak:">
+<!ENTITY tableRows.accessKey "R">
+<!ENTITY tableColumns.label "Zutabeak:">
+<!ENTITY tableColumns.accessKey "Z">
+<!ENTITY tableHeight.label "Garaiera:">
+<!ENTITY tableHeight.accessKey "G">
+<!ENTITY tableWidth.label "Zabalera:">
+<!ENTITY tableWidth.accessKey "Z">
+<!ENTITY tableBorderSpacing.label "Ertzak eta tartekatzea">
+<!ENTITY tableBorderWidth.label "Ertza:">
+<!ENTITY tableBorderWidth.accessKey "E">
+<!ENTITY tableSpacing.label "Tartekatzea:">
+<!ENTITY tableSpacing.accessKey "T">
+<!ENTITY tablePadding.label "Betegarria:">
+<!ENTITY tablePadding.accessKey "B">
+<!ENTITY tablePxBetwCells.label "gelaxken arteko pixelak">
+<!ENTITY tablePxBetwBrdrCellContent.label "gelaxkaren ertza eta edukiaren arteko pixelak">
+<!ENTITY tableAlignment.label "Taularen lerrokatzea:">
+<!ENTITY tableAlignment.accessKey "T">
+<!ENTITY tableCaption.label "Goiburukoa:">
+<!ENTITY tableCaption.accessKey "G">
+<!ENTITY tableCaptionAbove.label "Taularen goian">
+<!ENTITY tableCaptionBelow.label "Taularen behean">
+<!ENTITY tableCaptionLeft.label "Taularen ezkerraldean">
+<!ENTITY tableCaptionRight.label "Taularen eskuinaldean">
+<!ENTITY tableCaptionNone.label "Bat ere ez">
+<!ENTITY tableInheritColor.label "(Orrian zehar kolorea ikustea utzi)">
+
+<!ENTITY cellPercent.label "taularen ehunekoa">
+<!ENTITY cellSelection.label "Aukera">
+<!ENTITY cellSelectCell.label "Gelaxka">
+<!ENTITY cellSelectRow.label "Errenkada">
+<!ENTITY cellSelectColumn.label "Zutabea">
+<!ENTITY cellSelectNext.label "Hurrengoa">
+<!ENTITY cellSelectNext.accessKey "H">
+<!ENTITY cellSelectPrevious.label "Aurrekoa">
+<!ENTITY cellSelectPrevious.accessKey "A">
+<!ENTITY cellApplyBeforeMove.label "Aukera aldatu aurretik aplikatu aldaketak">
+<!ENTITY cellKeepCurrentData.label "Oraingo ezarpenak mantendu">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label "Oraingo aldaketak aplikatuko dira">
+<!ENTITY applyBeforeChange2.label "aukera aldatu aurretik.">
+<!ENTITY cellRowSpan.label "Errenkada hedatu:">
+<!ENTITY cellColSpan.label "Zutabea hedatu:">
+<!ENTITY cellContentAlignment.label "Edukiaren lerrokatzea">
+<!ENTITY cellHorizontal.label "Horizontala:">
+<!ENTITY cellHorizontal.accessKey "Z">
+<!ENTITY cellVertical.label "Bertikala:">
+<!ENTITY cellVertical.accessKey "B">
+<!ENTITY cellStyle.label "Gelaxkaren estiloa:">
+<!ENTITY cellStyle.accessKey "G">
+<!ENTITY cellNormal.label "Arrunta">
+<!ENTITY cellHeader.label "Goiburua">
+<!ENTITY cellTextWrap.label "Testua bildu:">
+<!ENTITY cellTextWrap.accessKey "T">
+<!ENTITY cellWrap.label "Bildu">
+<!ENTITY cellNoWrap.label "Ez bildu">
+<!ENTITY cellAlignTop.label "Goian">
+<!ENTITY cellAlignMiddle.label "Erdian">
+<!ENTITY cellAlignBottom.label "Behean">
+<!ENTITY cellAlignJustify.label "Justifikatu">
+<!ENTITY cellAlignAtChar.label "Karakterean:">
+<!ENTITY cellInheritColor.label "(Utzi taularen kolorea zeharkatzea)">
+<!ENTITY cellUseCheckboxHelp.label "Hautatutako gelaxken propietateak zehazteko kontrol-laukiak erabili">
+<!-- Used in both Table and Cell panels  -->
+
+<!ENTITY size.label "Neurria">
+<!ENTITY pixels.label "pixel">
+<!ENTITY backgroundColor.label "Atzeko planoaren kolorea:">
+<!ENTITY backgroundColor.accessKey "A">
+<!ENTITY AlignLeft.label "Ezkerra">
+<!ENTITY AlignCenter.label "Erdia">
+<!ENTITY AlignRight.label "Eskuina">

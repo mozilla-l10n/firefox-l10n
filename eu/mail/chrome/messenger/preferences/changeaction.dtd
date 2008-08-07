@@ -1,0 +1,23 @@
+<!ENTITY changeAction.title "Ekintza Aldatu">
+<!ENTITY window.width "36em">
+
+<!ENTITY whenDownloading.label "Hau bezalako fitxategiak deskargatzerakoan:">
+
+<!ENTITY openDefault.label "Lehenetsitako aplikazioarekin ireki:">
+<!ENTITY openDefault.accesskey "O">
+<!ENTITY openApplication.label "Aplikazio hau erabiliaz ireki:">
+<!ENTITY openApplication.accesskey "e">
+<!ENTITY changeApp.label "Arakatu...">
+<!ENTITY changeApp.accesskey "A">
+<!ENTITY saveToDisk.label "Nire ordenagailuan gorde">
+<!ENTITY saveToDisk.accesskey "N">
+<!ENTITY saveToDefaultFolder.label "lehenetsitako deskarga karpetan">
+<!ENTITY saveToDefaultFolder.accesskey "d">
+<!ENTITY saveToThisFolder.label "karpeta honetan:">
+<!ENTITY saveToThisFolder.accesskey "h">
+<!ENTITY chooseFolder.label "Arakatu...">
+<!ENTITY chooseFolder.accesskey "k">
+<!ENTITY saveToAskMe.label "Fitxategia non gorde niri galdetu">
+<!ENTITY saveToAskMe.accesskey "a">
+<!ENTITY usePlugin.label "Plugin hau erabili:">
+<!ENTITY usePlugin.accesskey "P">

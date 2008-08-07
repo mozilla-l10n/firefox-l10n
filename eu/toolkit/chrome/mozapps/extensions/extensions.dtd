@@ -1,0 +1,170 @@
+<!ENTITY addons.title "Gehigarriak">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+
+<!-- View labels -->
+<!ENTITY search.label "Eskuratu gehigarriak">
+<!ENTITY extensions.label "Hedapenak">
+<!ENTITY themes.label "Gaiak">
+<!ENTITY locales.label "Hizkuntzak">
+<!ENTITY plugins.label "Plugin-ak">
+<!ENTITY update.label "Eguneraketak">
+<!ENTITY install.label "Instalazioa">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label "Bilatu eguneraketak">
+<!ENTITY cmd.checkUpdatesAll.accesskey "G">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Gehigarrien eguneraketak bilatzen ditu">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Gaien eguneraketak bilatzen ditu">
+<!ENTITY cmd.installLocalFile.label "Instalatu...">
+<!ENTITY cmd.installLocalFile.accesskey "n">
+<!ENTITY cmd.installFileAddon.tooltip "Instalatu gehigarri bat">
+<!ENTITY cmd.installFileTheme.tooltip "Instalatu gai bat">
+<!ENTITY cmd.installUpdatesAll.label "Instalatu eguneraketak">
+<!ENTITY cmd.installUpdatesAll.accesskey "I">
+<!ENTITY cmd.installUpdatesAll.tooltip "Hautatutako eguneraketak instalatzen ditu">
+<!ENTITY cmd.restartApp2.label "Berrabiarazi &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey "R">
+<!ENTITY cmd.restartApp2.tooltip "Berrabiarazi &brandShortName; aldaketak aplikatzeko">
+<!ENTITY cmd.skip.label "Salto">
+<!ENTITY cmd.skip.accesskey "s">
+<!ENTITY cmd.skip.tooltip "Alboratu eguneraketa hauek">
+<!ENTITY cmd.continue.label "Jarraitu">
+<!ENTITY cmd.continue.accesskey "J">
+<!ENTITY cmd.continue.tooltip "Jarraitu &brandShortName; kargatzen">
+
+<!ENTITY cmd.enableAll.label "Eguneratu dena">
+<!ENTITY cmd.enableAll.accesskey "a">
+<!ENTITY cmd.enableAll.tooltip "Gaitu bistaratutako gehigarri guztiak">
+<!ENTITY cmd.disableAll.label "Ezgaitu denak">
+<!ENTITY cmd.disableAll.accesskey "z">
+<!ENTITY cmd.disableAll.tooltip "Ezgaitu bistaratutako gehigarri guztiak">
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+
+<!ENTITY cmd.useTheme.label "Erabili gaia">
+<!ENTITY cmd.useTheme.accesskey "G">
+<!ENTITY cmd.useTheme.tooltip "Aldatu &brandShortName;(r)en gaia">
+<!ENTITY cmd.options.label "Aukerak">
+<!ENTITY cmd.options.accesskey "A">
+<!ENTITY cmd.options.tooltip "Ezarri aukeratutako hedapenaren aukerak">
+<!ENTITY cmd.optionsUnix.label "Hobespenak">
+<!ENTITY cmd.optionsUnix.accesskey "h">
+<!ENTITY cmd.optionsUnix.tooltip "Aldatu aukeratutako hedapenaren hobespenak">
+<!ENTITY cmd.enable.label "Gaitu">
+<!ENTITY cmd.enable.accesskey "G">
+<!ENTITY cmd.enable.tooltip "Gaitu gehigarri hau &brandShortName; berrabiaraztean">
+<!ENTITY cmd.disable.label "Ezgaitu">
+<!ENTITY cmd.disable.accesskey "E">
+<!ENTITY cmd.disable.tooltip "Ezgaitu gehigarri hau &brandShortName; berrabiaraztean">
+<!ENTITY cmd.uninstall.label "Desinstalatu">
+<!ENTITY cmd.uninstall2.accesskey "D">
+<!ENTITY cmd.uninstall2.tooltip "Desinstalatu gehigarri hau &brandShortName; berrabiaraztean">
+<!ENTITY cmd.cancelUninstall.label "Utzi desinstalazioa">
+<!ENTITY cmd.cancelUninstall.accesskey "U">
+<!ENTITY cmd.cancelUninstall.tooltip "Utzi gehigarri honen desinstalazioa">
+<!ENTITY cmd.cancelInstall.label "Utzi instalazioa">
+<!ENTITY cmd.cancelInstall.accesskey "U">
+<!ENTITY cmd.cancelInstall.tooltip "Utzi gehigarri honen instalazioa">
+<!ENTITY cmd.cancelUpgrade.label "Utzi bertsio-berritzea">
+<!ENTITY cmd.cancelUpgrade.accesskey "U">
+<!ENTITY cmd.cancelUpgrade.tooltip "Utzi gehigarri honen bertsio-berritzea">
+<!ENTITY cmd.installUpdate.label "Instalatu eguneraketa">
+<!ENTITY cmd.installUpdate.accesskey "I">
+<!ENTITY cmd.installUpdate.tooltip "Instalatu gehigarri honen eguneraketa">
+<!ENTITY cmd.showUpdateInfo.label "Erakutsi informazioa">
+<!ENTITY cmd.showUpdateInfo.accesskey "S">
+<!ENTITY cmd.showUpdateInfo.tooltip "Erakutsi eguneraketa hauei buruzko informazioa gehiago">
+<!ENTITY cmd.hideUpdateInfo.label "Ezkutatu informazioa">
+<!ENTITY cmd.hideUpdateInfo.accesskey "E">
+<!ENTITY cmd.hideUpdateInfo.tooltip "Ezkutatu eguneraketa hauei buruzko informazioa">
+<!ENTITY cmd.installSearchResult.label "Gehitu &brandShortName;(e)ra…">
+<!ENTITY cmd.installSearchResult.accesskey "G">
+<!ENTITY cmd.installSearchResult.tooltip   "Deskargatu eta instalatu gehigarri hau">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label "Utzi">
+<!ENTITY cancel.accesskey "U">
+<!ENTITY cancelInstall.label "Utzi">
+<!ENTITY cancelInstall.accesskey "U">
+<!ENTITY cancelUpgrade.label "Utzi">
+<!ENTITY cancelUpgrade.accesskey "U">
+<!-- Only displayed in the selected Add-on's context menu -->
+
+<!ENTITY cmd.homepage.label "Joan hasiera orrira">
+<!ENTITY cmd.homepage.accesskey "H">
+<!ENTITY cmd.about2.label "Gehigarri honi buruz">
+<!ENTITY cmd.about.accesskey "b">
+<!ENTITY cmd.checkUpdate.label "Bilatu eguneraketa">
+<!ENTITY cmd.checkUpdate.accesskey "B">
+
+<!ENTITY cmd.includeUpdate.label "Eguneraketak barne">
+<!ENTITY cmd.includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.label "Instalatu eguneraketa">
+<!ENTITY includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.tooltip "Instalatu gehigarri hau eguneraketak instalatzerakoan">
+<!-- Status Messsages -->
+
+<!ENTITY insecureUpdate.label "Ez du eguneraketa segururik ematen.">
+<!ENTITY needsDependencies.label "Elementu gehiago behar ditu.">
+<!ENTITY blocklisted.label "Zure segurtasunagatik ezgaituta.">
+<!ENTITY toBeDisabled.label "Gehigarri hau ezgaituta egongo da &brandShortName; berrabiaraztean.">
+<!ENTITY toBeEnabled.label "Gehigarri hau gaituta egongo da &brandShortName; berrabiaraztean.">
+<!ENTITY toBeInstalled.label "Gehigarri hau instalatuta egongo da &brandShortName; berrabiaraztean.">
+<!ENTITY toBeUninstalled.label "Gehigarri hau desinstalatuta egongo da &brandShortName; berrabiaraztean.">
+<!ENTITY toBeUpdated.label "Gehigarri hau &brandShortName; berrabiaraztean eguneratuko da.">
+
+<!ENTITY getExtensions.label "Eskuratu hedapenak">
+<!ENTITY getThemes.label "Eskuratu gaiak">
+<!ENTITY getPlugins.label "Eskuratu pluginak">
+
+<!ENTITY searchAddons.label "Bilatu gehigarri guztietan">
+<!ENTITY browseAddons.label "Arakatu gehigarri guztiak">
+<!ENTITY searchFailed.label "&brandShortName;(e)k ezin ditu gehigarriak eskuratu">
+<!ENTITY recommendedHeader.label "Gomendatua">
+<!ENTITY recommendedThrobber.label "Gomendatutako gehigarriak eskuratzen">
+<!ENTITY searchThrobber.label "Gehigarriak bilatzen">
+<!ENTITY resetSearch.label "Garbitu emaitzak">
+<!ENTITY noSearchResults.label "Emaitza guztiak dagoeneko instalatuta daude edo bateraezinak dira.">
+<!ENTITY noRecommendedResults.label "Gomendio guztiak dagoeneko instalatuta daude edo bateraezinak dira.">
+<!ENTITY emptySearch.label "Ez dago bat datorren gehigarririk">
+<!ENTITY emptySearch.button "Ados">
+<!ENTITY cancelSearch.button "Utzi">
+<!ENTITY searchFailed.button "Ados">
+<!ENTITY searchResultHomepage.value "Argibide gehiago">
+<!ENTITY searchBox.label "Bilatu gehigarri guztietan">
+<!ENTITY recommendedResults.label "Ikusi gomendatutako gehigarri guztiak">
+<!ENTITY searchResultConnecting.label "Konektatzen…">
+<!ENTITY searchResultInstalling.label "Instalatzen…">
+<!ENTITY searchResultFailed.label "Instalazioak huts egin du">
+<!ENTITY searchResultInstalled.label "Instalazioa burutu da">
+<!ENTITY addonTypeExtension.label "Hedapena">
+<!ENTITY addonTypeTheme.label "Gaia">
+<!ENTITY missingThumbnail.label "Aurreikuspenik ez">
+
+<!ENTITY previewNoThemeSelected.label "Ez dago gairik aukeratuta">
+<!ENTITY previewNoPreviewImage.label "Gai honek ez du aurrebista irudirik">
+<!ENTITY moreInfo.label "Informazio gehiago">
+<!ENTITY infoNoAddonSelected.label "Ez da eguneraketarik aukeratu">
+<!ENTITY infoNoUpdateInfo.label "Eguneraketa honek ez du informazio gehigarririk">
+<!ENTITY infoUpdateInfoError.label "Errore bat gertatu da eguneraketa honen informazioa kargatzean">
+
+<!ENTITY updateSuccess.label "Eguneraketa behar bezala burutu da.">
+<!ENTITY installSuccess.label "Instalazioa behar bezala burutu da.">
+<!ENTITY installSuccessRestart.label "Berrabiarazi instalazioa osatzeko.">
+<!ENTITY updateSuccessRestart.label "Berrabiarazi eguneraketa osatzeko.">
+<!ENTITY installWaiting.label "Itxoiten...">
+<!ENTITY installIncompatibleUpdate.label "Bateragarritasuna egiaztatzen...">
+<!ENTITY installFinishing.label "Instalatzen...">
+<!ENTITY installFailure.label "Instalazioak huts egin du.">
+
+<!ENTITY progressStatus.label "Eguneraketak bilatzen">
+
+<!ENTITY eula.title "Azken Erabiltzailearentzako Lizentzia-kontratua">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Onartu eta instalatu…">

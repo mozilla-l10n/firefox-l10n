@@ -1,0 +1,39 @@
+<!ENTITY connectionsDialog.title "Konexio Ezarpenak">
+<!ENTITY window.width "46em">
+
+<!ENTITY proxyTitle.label "Konfiguratu Internetera Sartzeko Proxy-ak">
+<!ENTITY directTypeRadio.label "Zuzeneko Internet konexioa">
+<!ENTITY directTypeRadio.accesskey "z">
+<!ENTITY WPADTypeRadio.label "Sare honetako proxy ezarpenak automatikoki detektatu">
+<!ENTITY WPADTypeRadio.accesskey "d">
+<!ENTITY manualTypeRadio.label "Eskuzko proxy konfigurazioa:">
+<!ENTITY manualTypeRadio.accesskey "e">
+<!ENTITY autoTypeRadio.label "Proxy-aren konfigurazio automatikoko URLa:">
+<!ENTITY autoTypeRadio.accesskey "A">
+<!ENTITY reload.label "Berritu">
+<!ENTITY reload.accesskey "b">
+<!ENTITY ftp.label "FTP Proxy-a:">
+<!ENTITY ftp.accesskey "f">
+<!ENTITY gopher.label "Gopher Proxy-a:">
+<!ENTITY gopher.accesskey "g">
+<!ENTITY http.label "HTTP Proxy-a:">
+<!ENTITY http.accesskey "h">
+<!ENTITY ssl.label "SSL Proxy-a:">
+<!ENTITY ssl.accesskey "s">
+<!ENTITY socks.label "SOCKS Ostalaria:">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "k">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY HTTPport.label "Ataka:">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SSLport.label "Ataka:">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY SOCKSport.label "Ataka:">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "Proxy-rik ez hauentzat:">
+<!ENTITY noproxy.accesskey "n">
+<!ENTITY noproxyExplain.label "Adibidez: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Proxy zerbitzari hau erabili protokolo guztientzako">
+<!ENTITY shareproxy.accesskey "x">

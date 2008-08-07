@@ -1,0 +1,54 @@
+<!ENTITY itemJunk.label "Zaborra">
+<!ENTITY itemPhishing.label "ePosta Iruzurrak">
+<!ENTITY itemPasswords.label "Pasahitzak">
+<!ENTITY itemAntiVirus.label "Antibirusa">
+<!-- Junk Mail Controls -->
+
+<!ENTITY junkMail.intro "Zoaz Kontuaren Ezarpenetara kontu honentzat zabor posta ezarpenak konfiguratzeko.">
+<!ENTITY manualMark.label "Mezuak zabor gisa markatzean:">
+<!ENTITY manualMark.accesskey "M">
+<!ENTITY manualMarkModeMove.label "Eraman kontuaren &quot;Zabor Posta&quot; karpetara">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Ezabatu">
+<!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY markAsReadOnSpam.label "Markatu Zabor Posta moduan zehazturiko mezuak irakurrita gisa">
+<!ENTITY markAsReadOnSpam.accesskey "k">
+<!ENTITY enableJunkLogging.label "Gaitu zabor postaren iragazkiaren log-a">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "Erakutsi log-a">
+<!ENTITY openJunkLog.accesskey "e">
+<!ENTITY resetTrainingData.label "Berrezarri Trebatze Datuak">
+<!ENTITY resetTrainingData.accesskey "B">
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector1.intro "&brandShortName; can analyze messages for suspected email scams by looking for common techniques used to deceive you.">
+<!ENTITY enablePhishingDetector1.label "Tell me if the message I'm reading is a suspected email scam">
+<!ENTITY enablePhishingDetector1.accesskey "e">
+<!ENTITY useDownloadedList.label "Use a downloaded list of suspected email scams">
+<!ENTITY useDownloadedList.accesskey "U">
+<!-- Passwords -->
+
+<!ENTITY savedPasswords.intro "&brandShortName;(e)k pasahitzen informazioa gogora dezake zure kontu guztientzat. Modu horretan zure login xehetasunak ez dituzu berriro idatzi behar izango.">
+<!ENTITY encryptEnabled.label "Erabili pasahitz nagusia gordetako pasahitzak zifratzeko">
+<!ENTITY encryptEnabled.accesskey "r">
+<!ENTITY masterPassword.intro "Gaituta dagoenean, Pasahitz Nagusiak zure pasahitz guztiak babesten ditu - baina saioko behin idatzi behar izango duzu.">
+<!ENTITY setMasterPassword.label "Pasahitz Nagusia">
+<!ENTITY setMasterPassword.accesskey "N">
+<!ENTITY removeMasterPassword.label "Ezabatu Pasahitz Nagusia...">
+<!ENTITY removeMasterPassword.accesskey "Z">
+<!ENTITY editPasswords.label "Edit Saved Passwords">
+<!ENTITY editPasswords.accesskey "i">
+<!-- Anti Virus -->
+
+<!ENTITY antiVirus.intro "&brandShortName;(e)k antibirus softwareari lana erraz diezaioke datozen posta mezuak birusik duten ala ez aztertzerako garaian lokalki gorde aurretik.">
+<!ENTITY antiVirus.label "Baimendu antibirus bezeroak kuarentenan jartzea datozen mezu indibidualak">
+<!ENTITY antiVirus.accesskey "b">
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+
+<!ENTITY antiVirusCaption.label "Anti-Virus">
+<!ENTITY paswords.label "Passwords">
+<!ENTITY emailScams.label "Email Scams">
+<!ENTITY junkMail.label "Junk Mail">
+<!ENTITY itemIntrusions.label "Intrusions">
+<!ENTITY itemIntrusionsAndPasswords.label "Intrusions &amp; Passwords">
+<!ENTITY itemJunkMail.label "Junk Mail">

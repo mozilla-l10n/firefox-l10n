@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "RSS Kontu Ezarpenak">
+
+<!ENTITY biffStart.label "Zenbatero Egiaztatu artikulu berriak ">
+<!ENTITY biffStart.accesskey "e">
+<!ENTITY biffEnd.label "minutu">
+
+<!ENTITY loginAtStartup.label "Abiaraztean egiaztatu artikulu berriak">
+<!ENTITY loginAtStartup.accesskey "E">
+
+<!ENTITY useQuickMode.label "Lehenetsita, Artikuluaren laburpena erakutsi orri guztia zabaldu ordez">
+<!ENTITY useQuickMode.accesskey "L">
+
+<!ENTITY manageSubscriptions.label "Harpidetzak Kudeatu...">
+<!ENTITY manageSubscriptions.accesskey "K">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "Berriak eta blogak">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "RSS berriak eta blogak">
+<!ENTITY rss.hostName "Berriak eta blogak">

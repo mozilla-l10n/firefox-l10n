@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Kontu hobespen aurreratuak">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "IMAP zerbitzarien hobespen aurreratuak">
+<!ENTITY serverDirectory.label "IMAP zerbitzari direktorioa:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "Harpidetutako karpetak bakarrik erakutsi">
+<!ENTITY usingSubscription.accesskey "r">
+<!ENTITY dualUseFolders.label "Zerbitzariak azpikarpetak eta mezuak dituzten karpetak onartzen ditu">
+<!ENTITY dualUseFolders.accesskey "n">
+<!ENTITY useIdle.label "Erabili IDLE komandoa zerbitzariak onartzen badu.">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Katxean gordeko diren zerbitzari konexio kopuru maximoa">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY personalNamespace.label "Izen pertsonala:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Publikoa (banatua):">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "Beste erabiltzaileak:">
+<!ENTITY otherUsersNamespace.accesskey "B">
+<!ENTITY overrideNamespaces.label "Onartu zerbitzariari izen hauek gainidaztea">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "Zerbitzari honetatik pop posta deskargatzean, hurrengo karpeta erabili posta berriarentzat:">
+<!ENTITY folderStorage.label "Posta non gorde">
+<!ENTITY globalInbox.label "Postakutxa Orokorra (Karpeta Lokalak kontua)">
+<!ENTITY globalInbox.accesskey "O">
+<!ENTITY accountDirectory.label "Zerbitzari kontu honen postakutxa">
+<!ENTITY accountDirectory.accesskey "H">
+<!ENTITY deferToServer.label "Beste kontu batetako postakutxa">
+<!ENTITY deferToServer.accesskey "B">
+<!ENTITY deferGetNewMail.label "Zerbitzari hau kontutan hartu posta berria jasotzerakoan">
+<!ENTITY deferGetNewMail.accesskey "K">

@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "Mezuaren Segurtasuna">
+<!ENTITY signatureCert.label "Ikusi Sinaduraren Ziurtagiria">
+<!ENTITY encryptionCert.label "Ikusi Enkripzioaren Ziurtagiria">
+
+<!ENTITY signer.name "Nork sinatua:">
+<!ENTITY recipient.name "Norentzat zifratua:">
+<!ENTITY email.address "ePosta helbidea:">
+<!ENTITY issuer.name "Ziurtagiria eskatu duena:">

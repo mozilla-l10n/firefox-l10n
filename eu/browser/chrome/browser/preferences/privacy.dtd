@@ -1,0 +1,55 @@
+<!ENTITY history.label "Historia">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Mantendu nire historia gutxienez">
+<!ENTITY rememberDaysBefore.accesskey "h">
+<!ENTITY rememberDaysAfter2.label "egun">
+
+<!ENTITY rememberForms.label "Gogoratu inprimaki eta bilaketa-barran idatzitakoa">
+<!ENTITY rememberForms.accesskey "i">
+
+<!ENTITY rememberDownloads.label "Gogoratu deskargatutakoa">
+<!ENTITY rememberDownloads.accesskey "d">
+
+
+<!ENTITY cookies.label "Cookie-ak">
+
+<!ENTITY acceptCookies.label "Onartu guneetako cookie-ak">
+<!ENTITY acceptCookies.accesskey "c">
+
+<!ENTITY  acceptThirdParty.label "Onartu hirugarrenen cookie-ak">
+<!ENTITY  acceptThirdParty.accesskey "h">
+
+<!ENTITY keepUntil.label "Mantentze epea:">
+<!ENTITY keepUntil.accesskey "M">
+
+<!ENTITY expire.label "iraungi arte">
+<!ENTITY close.label "&brandShortName; ixten dudanean">
+<!ENTITY askEachTime.label "galdetu niri beti">
+
+<!ENTITY cookieExceptions.label "Salbuespenak...">
+<!ENTITY cookieExceptions.accesskey "S">
+
+<!ENTITY showCookies.label "Erakutsi cookie-ak...">
+<!ENTITY showCookies.accesskey "R">
+
+
+<!ENTITY privateData.label "Datu pribatuak">
+
+<!ENTITY alwaysClear.label "Garbitu beti nire datu pribatuak &brandShortName; ixterakoan">
+<!ENTITY alwaysClear.accesskey "t">
+
+<!ENTITY askBeforeClear.label "Galdetu niri datu pribatuak garbitu aurretik">
+<!ENTITY askBeforeClear.accesskey "G">
+
+<!ENTITY clearDataSettings.label "Ezarpenak...">
+<!ENTITY clearDataSettings.accesskey "e">
+
+<!ENTITY clearDataNow.label "Garbitu orain...">
+<!ENTITY clearDataNow.label2 "Garbitu orain">
+<!ENTITY clearDataNow.accesskey "O">

@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Pertsonalizatu tresna-barra">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY instructions.description "Elementuak gehi edo ezaba ditzakezu tresna-barrara mugituz.">
+<!ENTITY show.label "Erakutsi:">
+<!ENTITY iconsAndText.label "Ikonoak eta testua">
+<!ENTITY icons.label "Ikonoak">
+<!ENTITY text.label "Testua">
+<!ENTITY useSmallIcons.label "Erabili ikono txikiak">
+<!ENTITY restoreDefaultSet.label "Berrezarri lehenetsitakoak">
+<!ENTITY addNewToolbar.label "Gehitu tresna-barra">
+<!ENTITY saveChanges.label "Eginda">
+<!ENTITY undoChanges.label "Desegin aldaketak">

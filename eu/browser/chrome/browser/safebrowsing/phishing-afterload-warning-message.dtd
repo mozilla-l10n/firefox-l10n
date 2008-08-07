@@ -1,0 +1,28 @@
+<!ENTITY safeb.palm.warning.title "Ustezko web iruzurra">
+
+<!ENTITY safeb.palm.message.p1 "Orri hau finantza-informazioa edo informazio-pertsonala partekatzeko web iruzurra bezala erreportaturik dago. Orri honetan informazio pertsonala idaztean nortasun iruzurra jasateko aukera dago. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Gehiago irakurri &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Gehigago irakurri &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Mota honetako web iruzurrak phishing erasoak bezala ezagutzen dira, konfiantza duzun webgune eta e-posta helbideak imitatzen dira. Gehiago jakiteko ">
+<!ENTITY safeb.palm.message.p2.linkText "&brandShortName;(e)k nola babesten zaitu">
+<!ENTITY safeb.palm.message.p2.end " phishing erasoetaz.">
+
+<!ENTITY safeb.palm.accept.label "Eraman hemendik kanpo!">
+<!ENTITY safeb.palm.accept.statustext "Hasiera orrira joan">
+<!ENTITY safeb.palm.decline.label "Ohar hau alde batetara utzi">
+<!ENTITY safeb.palm.decline.statustext "Oharra itxi">
+<!ENTITY safeb.palm.notforgery.label2 "Hau ez da web iruzurra…">
+<!ENTITY safeb.palm.report.label "Zergatik blokeatu da gune hau?">
+
+<!ENTITY safeb.urlbaricon.tooltip "Orri hau arriskutsua izan daiteke, egin klik xehetasunetarako.">
+
+<!ENTITY safeb.blocked.malware.title "Ustezko gune erasotzailea!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "Webgune hau (<span id='malware_sitename'/>) gune erasotzaile bezala salatua dago eta blokeatu egin da zure segurtasun-ezarpenetan oinarrituta.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Zure informazio pertsonala ostu, zure ordenagailua bestei erasotzeko erabili edo zure sistema kaltetzeko programak instalatzen saiatzen dira gune erasotzaileak.</p><p>Zenbait gune erasotzailek nahita banatzen dute software kaltegarria, baina, beste askok gunearen jabeak jakinaren gaineon egon gabe banatzen dute.</p>">
+
+<!ENTITY safeb.blocked.phishing.title "Ustezko web iruzurra!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "Webgunea hau (<span id='phishing_sitename'/>) web iruzur bezala salatua dago eta blokeatu egin da zure segurtasun-ezarpenetan oinarrituta.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Zure informazio pertsonala edo finantza-informazioa ematera bultzatzeko daude diseinatuta web iruzurrak. Horretarako, fidatzekoak izan litezken guneak imitatzen saiatzen dira.</p><p>Web orri honetan edozein informazio sartuz gero, identitate-lapurreta edo bestelako iruzur bat gertatzeko arriskua dago.</p>">

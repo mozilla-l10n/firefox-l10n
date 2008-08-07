@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Popup-ak Kontrolatzen</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Popup-ak Kontrolatzen</h1>
+<p>Dokumentu honek popup-ak kontrolatzeko &brandFullName;en eskuragarri dauden
+ &pref.plural; azaltzen ditu.</p>
+
+<div class="contentsBox">
+  Atal honetan:
+  <ul>
+    <li><a href="#what_are_popups">Zer dira Popup-ak?</a></li>
+    <li><a href="#popup_blocker_preferences">Popup Blokeatzailearen &pref.pluralCaps;</a></li>
+  </ul>
+</div>
+
+<h2 id="what_are_popups">Zer dira Popup-ak?</h2>
+<p>Popup leihoak edo popup-ak, zure baimenik gabe automatikoki
+ zabaltzen diren leihoak dira. Neurri ezberdinetakoak dira baina oro
+ har ez dute pantaila osoa estaltzen.  Popup batzuk uneko
+ &brandShortName; leihoaren gainean zabaltzen dira eta beste batzuk
+ &brandShortName;en azpian (popunder direlak).</p>
+
+<p>&brandShortName;en bitartez popup-ak eta popunder-ak kontrola
+ditzakezu &pref.pluralCaps;
+leihoko <a href="prefs.xhtml#content_options">Edukia</a> panelaren
+bitartez.  Popup blokeatzea lehenetsita dago, beraz ez duzu arduratu
+behar berau aktibatzeaz arduratu behar popup leihoak agertu ez
+daitezen &brandShortName;en.</p>
+
+<p>Popup bat blokeatzean, &brandShortName;ek informazio-barra bat
+  erakusten du eta honetaz gain ikono bat
+  <img src="chrome://browser/skin/Info.png" width="16" height="16"
+  alt=""/> egoera-barran. Informazio-barran <em>&pref.pluralCaps;</em>
+  botoian klik egitean edo egoera-barrako ikonoan, menu bat
+  bistaratzen da ondorengo aukerekin:</p>
+
+<ul>
+  <li>Onartu/Blokeatu popup leihoak leku honentzat</li>
+  <li>Aldatu <a href="#popup_blocker_preferences">Popup Blokeatzailearen
+    &pref.pluralCaps;...</a></li>
+  <li>Informazio mezua ez erakutsi popup leihoak blokeatzerakoan</li>
+  <li>(blokeatutako leihoa erakutsi)</li>
+</ul>
+
+<p><strong>Popup leihoak blokeatzeak interferentziak sor ditzake
+ zenbait web guneekin</strong>: Web gune batzuk, banketxeen lekuak
+ barne, ezaugarri garrantzitsuetarako erabiltzen dituzte popup
+ leihoak. Popup leiho guztiak blokeatzeak ezaugarri horiek ezgaitzen
+ ditu. Web gune zehatzek popup leihoak erabili ahal izateko
+ gainontzekoak blokeatzen diren bitartean, onartutako web guneen
+ zerrendara gehi ditzakezu web gune zehatz horiek.</p>
+
+<p><strong>Popup blokeatzeak ez du beti funtzionatzen</strong>: Nahiz
+  eta &brandShortName;ek popup gehienak blokeatzen dituen, web gune
+  batzuk agian popup leihoak erakus ditzakete zenbait metodo erabiliz
+  (nahiz eta hauek blokeatuak izan).</p>
+
+<h2 id="popup_blocker_preferences">Popup Blokeatzailearen &pref.pluralCaps;</h2>
+
+<p>Popup Blokeatzailearen &pref.pluralCaps;, &pref.menuPath; menuko <a
+  href="prefs.xhtml#content_options">Edukia panelean</a> aurkitzen dira.</p>
+
+<p>Hemendik honako gauzak egin ditzakezu:</p>
+
+<ul>
+  <li><strong>Po-pup leihoak blokeatu</strong>: Desgaitu honako
+    &pref.singular; popup blokeatzailea zeharo desgaitzeko.</li>
+  <li><strong>Baimendutako Guneen elkarrizketa</strong>: Hau popup
+  lehioak erakustea posible izango duten guneen zerrenda bat
+  da. Elkarrizketak honako aukerak ditu:
+  <ul>
+    <li><strong>Baimendu</strong>: Egin klik hemen web gune bat
+    salbuespenen zerrendara gehitzeko.</li>
+    <li><strong>Gunea Ezabatu</strong>: Egin klik hemen web gune bat
+    salbuespenen zerrendatik ezabatzeko.</li>
+    <li><strong>Gune Guztiak Ezabatu</strong>: Egin klik hemen web
+      gune guztiak salbuespenen zerrendatik ezabatzeko.</li>
+  </ul>
+  </li>
+</ul>
+
+<p><strong>Oharra</strong>: Popup blokeatzeak agian beti ez du
+  funtzionatuko eta web gune batzuekin interferentziak sor
+  ditzake. Informazio gehiagorako,
+  ikusi <a href="#what_are_popups">Zer dira Popup-ak?</a>.</p>
+
+<div class="contentsBox"><em>2006ko irailak 12</em></div>
+<p>Copyright &copy; 2003-2006 Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+Euskarazko itzulpena (Librezale.org):
+  Julen Ruiz Aizpuru <julenx@gmail.com>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Fitxen Bidezko Nabigazioa</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Fitxen Bidezko Nabigazioa</h1>
+
+<p>Fitxen Bidezko Nabigazioarekin, web orri ugari fitxetan zabal
+  ditzakezu, guztiak &brandShortName; leiho bakarraren
+  barruan. Estekak fitxa berrietan ireki daitzeke eta uneko orria
+  irakurtzen duzun bitartean kargatuko dira. Fitxen Bidezko Nabigazioa
+  erabiltzea ez da derrigorrezkoa, baina web guneetan nabigatzeko
+  erabiliz gero ziurrenik modu egokiagoa dela ikusiko duzu.</p>
+
+<div class="contentsBox">Atal honetan:
+  <ul>
+    <li><a href="#creating_loading_tabs">Fitxak Sortzen eta Kargatzen</a></li>
+    <li><a href="#moving_tabs">Fitxak Leiho baten Barruan Mugitzen</a></li>
+    <li><a href="#closing_tabs">Fitxak Ixten</a></li>
+    <li><a href="#customizing">Fitxen Bidezko Nabigazioa Pertsonalizatzen</a></li>
+    <li><a href="#tips_tricks">Aholku eta Trukoak</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_loading_tabs">Fitxak Sortzen eta Kargatzen</h2>
+
+<p>Fitxa berri bat irekitzeko, sakatu &accelKey;+<kbd>T</kbd>, aukeratu <span
+  class="menuPath">Fitxategia &gt; Fitxa Berria</span> edo egin klik bikoitza
+  Fitxa-barrako leku huts batean.</p>
+
+<p>Esteka bat fitxa batean zabaltzeko, honako aukerak dituzu:</p>
+
+<ul>
+  <li>Egin klik loturan erdiko botoiarekin. (Gurpildun sagu bat
+    baduzu, gurpilean klik egitea baliokidea da.)</li>
+  <li>Lotura arrastatu eta jaregin Fitxa-barrako leku huts
+    batean. (Web orri bakarra badago zabalduta, Fitxa-barra ezkutatuta
+    egongo da. Hau nola aldatu jakiteko, <a href="#customizing">Fitxen
+    Bidezko Nabigazioa PertsonalizatzenFitxen Bidezko Nabigazioa
+    Pertsonalizatzen</a> atalera jo.)</li>
+  <li>Loturaa arrastatu eta jaregin fitxa batera lotura bertan
+  irekitzeko.</li>
+  <li><span class="noMac">Egin klik eskuineko
+    botoiarekin</span><span class="mac">Sakatu &ctrlKey;, klik</span>
+    loturan eta hautatu <span class="menuPath">Ireki Fitxa
+    Berrian</span> laster-menutik.</li>
+</ul>
+
+<p>Kokapen-barrako URL bat fitxa berri batean zabaltzeko, idatzi URLa eta sakatu
+  &altKey;+&enterKey;.</p>
+
+<h2 id="moving_tabs">Fitxak Leiho baten Barruan Mugitzen</h2>
+
+<p>Fitxak irekitzen diren ordenean bistaratzen dira, zeina ez den beti
+  nahi bezalakoa izango.  Fitxa bat &brandShortName; leihoko kokaleku
+  ezberdin batetara mugitzeko, arrastatu eta jaregin ezazu sagua
+  erabiliz.  Fitxa arrastatzen ari zaren bitartean, &brandShortName;ek
+  erakusle txiki bat erakusten du ikusteko fitxa nora mugituko den.
+  Modu berean, nahi
+  baduzu <a href="shortcuts.xhtml#windows_tabs">laster-teklak</a>
+  erabil ditzakezu leiho batean fitxak mugitzeko.</p>
+
+<h2 id="closing_tabs">Fitxak Ixten eta Leheneratzen</h2>
+
+<p>Uneko fitxa ixteko, sakatu &accelKey;+<kbd>W</kbd>, egin klik
+  Fitxa Itxi botoian, egin klik erdiko botoiarekin fitxan edo aukeratu
+  <span class="menuPath">Fitxategia &gt; Fitxa Itxi</span>. 
+  Unekoa ezik beste fitxa guztiak ixteko, <span
+  class="noMac">egin klik eskuineko botoiarekin</span>
+  <span class="mac">sakatu &ctrlKey;, klik</span>
+   fitxan eta hautatu <span class="menuPath">Itxi Beste
+   Fitxak</span>.</p>
+
+<p>&brandShortName;(e)k azkenaldian itxitako leihoen zerrenda
+  bat mantentzen du. Edozein fitxa lehenera dezakezu, horretarako
+  <span class="menuPath">Historia &gt; Azkenaldian Itxitako
+  Fitxak</span> aukeratuz. Fitxa guztiak leheneratzeko, aukeratu <span
+  class="menuPath">Historia &gt; Azkenaldian Itxitako Fitxak &gt;
+  Fitxetan Ireki</span>. Sakatu &accelKey;+&shiftKey;+<kbd>T</kbd>
+  atzeranzko ordenean (berriena aurrena) eta banaka irekitzeko.</p>
+
+<h2 id="customizing">Fitxen Bidezko Nabigazioa Pertsonalizatzen</h2>
+  <p>Fitxen Bidezko Nabigazioaren &pref.plural; aldatzeko, hautatu &pref.menuPath;
+  eta  <a href="prefs.xhtml#tabs_options"><em>Fitxak</em> panela ireki</a>.</p>
+
+<h2 id="tips_tricks">Aholkuak eta Trukoak</h2>
+
+<dl>
+
+  <dt id="bookmarking_tabbed_browsing">Laster-markak eta Fitxen Bidezko Nabigazioa</dt>
+  <dd>Fitxa multzo baten laster-marka sortzeko:</dd>
+  <dd>
+    <ol>
+      <li><span class="noUnix">Sakatu
+        &accelKey;+&shiftKey;+<kbd>D</kbd> edo
+        aukeratu</span><span class="unix">Aukeratu</span>
+        <span class="menuPath">Laster-markak &gt; Fitxa Guztien
+        Laster-marka Egin...</span> uneko leihoko fitxa guztiak
+        laster-marka karpeta berri batera gehitzeko.</li>
+      <li>Laster-markak fitxetan zabaltzeko, ireki laster-marka
+      karpeta menu bat eta aukeratu
+        <span class="menuPath">Fitxetan Ireki</span>.  Saguaren erdiko
+        botoiarekin klik egitea beste aukera bat da karpetako edukia
+        fitxetan zabaltzeko. Laster-markak ez dira fitxa berrietan
+        zabalduko, existitzen direnetan baizik.</li>
+    </ol>
+  </dd>
+
+  <dt id="home_page_as_tabs">Hasiera Orria Fitxak bezala</dt>
+  <dd>Web orri bakarra erabili beharrean hasiera orri bezala, fitxen
+    multzo bat jar dezakezu. Aukeratu zure web gune gogokoenak eta
+    ireki itzazu fitxetan leiho bakar batean. Hautatu &pref.menuPath;
+    eta ireki <a href="prefs.xhtml#main_options"><em>Nagusia</em>
+    panela</a>.
+    <em>Hasiera Orria</em> atalaren azpian, sakatu <em>Uneko Orriak
+    Erabili</em> botoia. Orain, Hasiera Orria botoia sakatzean, zure
+    web gune gogokoenak zabalduko dira klik bakarrean.</dd>
+
+  <dt>Fitxa Berria Tresna-barra Botoia Gehitzen</dt>
+  <dd>Tresna-barran Fitxa Berria botoia gehi dezakezu modu errazean
+  zabaltzeko fitxa
+  berriak. Horretarako <a
+  href="customization.xhtml#rearranging_toolbar_items">Tresna-barrako
+  elementuak birrordenatzen</a> atala ikusi.</dd>
+
+  <dt id="keyboard_shortcuts">Laster-teklak</dt>
+  <dd>&brandShortName;ek fitxen bidezko nabigazioarekin zerikusia
+    duten laster-tekla ugari ditu; zerrenda
+    osoa <a href="shortcuts.xhtml#windows_tabs">Laster-teklak</a>
+    atalean ikus daiteke.</dd>
+
+</dl>
+
+<div class="contentsBox"><em>2006ko irailak 12</em></div>
+<p>Copyright &copy; 2003-2006 Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

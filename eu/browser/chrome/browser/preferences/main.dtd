@@ -1,0 +1,37 @@
+<!ENTITY startup.label "Abiaraztean">
+
+<!ENTITY startupPage.label "&brandShortName; abiaraztean:">
+<!ENTITY startupPage.accesskey "a">
+<!ENTITY startupHomePage.label "Erakutsi nire hasiera orria">
+<!ENTITY startupBlankPage.label "Erakutsi orri zuri bat">
+<!ENTITY startupLastSession.label "Berreskuratu azken saioko fitxa eta leihoak">
+<!ENTITY location.label "Hasiera orria:">
+<!ENTITY location.accesskey "H">
+<!ENTITY useCurrentPage.label "Erabili uneko orria">
+<!ENTITY useCurrentPage.accesskey "U">
+<!ENTITY useMultiple.label "Erabili uneko orriak">
+<!ENTITY useBookmark.label "Erabili laster-marka">
+<!ENTITY useBookmark.accesskey "L">
+<!ENTITY restoreDefault.label "Berrezarri lehenetsiak">
+<!ENTITY restoreDefault.accesskey "R">
+
+<!ENTITY downloads.label "Deskargak">
+
+<!ENTITY showWhenDownloading.label "Erakutsi deskarga leihoa fitxategi bat deskargatzerakoan">
+<!ENTITY showWhenDownloading.accesskey "D">
+<!ENTITY closeWhenDone.label "Itxi deskarga guztiak amaitzean">
+<!ENTITY closeWhenDone.accesskey "i">
+<!ENTITY saveTo.label "Gorde fitxategiak hemen: ">
+<!ENTITY saveTo.accesskey "g">
+<!ENTITY chooseFolderWin.label "Arakatu...">
+<!ENTITY chooseFolderWin.accesskey "a">
+<!ENTITY chooseFolderMac.label "Hautatu...">
+<!ENTITY chooseFolderMac.accesskey "h">
+<!ENTITY alwaysAsk.label "Galdetu beti non gorde fitxategiak">
+<!ENTITY alwaysAsk.accesskey "B">
+
+<!ENTITY addonsMgr.label "Gehigarriak">
+<!ENTITY manageAddonsDescWin.label "Aldatu gehigarrien aukerak">
+<!ENTITY manageAddonsDescUnix2.label "Aldatu gehigarrien hobespenak">
+<!ENTITY manageAddons.label "Kudeatu gehigarriak...">
+<!ENTITY manageAddons.accesskey "K">

@@ -1,0 +1,19 @@
+<!ENTITY about.version "bertsioa">
+
+<!ENTITY about.copy.beforeLink "Copyright &copy; 1998-2007">
+<!ENTITY about.copy.linkTitle "laguntzaileengatik">
+<!ENTITY about.copy.afterLink "Mozilla proiektua.">
+
+<!ENTITY about.license.beforeLink "Irakurri">
+<!ENTITY about.license.linkTitle "lizentzia argibideak">
+<!ENTITY about.license.afterLink "produktu honentzat.">
+
+<!ENTITY about.relnotes.beforeLink "Irakurri">
+<!ENTITY about.relnotes.linkTitle "bertsioa oharrak">
+<!ENTITY about.relnotes.afterLink "bertsio honentzat.">
+
+<!ENTITY about.buildconfig.beforeLink "Ikusi">
+<!ENTITY about.buildconfig.linkTitle "eraikitze konfigurazioa">
+<!ENTITY about.buildconfig.afterLink "bertsio honentzat.">
+
+<!ENTITY about.buildIdentifier "Eraikitze identifikatzailea: ">

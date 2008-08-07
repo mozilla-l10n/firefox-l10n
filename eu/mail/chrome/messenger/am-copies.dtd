@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Kopiak eta Karpetak">
+<!ENTITY sendingPrefix.label "Mezuak bidaltzean, automatikoki: ">
+<!ENTITY fccMailFolder.label "Gorde kopia bat hemen:">
+<!ENTITY fccMailFolder.accesskey "G">
+<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
+<!ENTITY fccReplyFollowsParent.accesskey "o">
+<!ENTITY chooseFolderButton.label "Aukeratu karpeta...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Ezkutuko Kopia bidali helbide hauetara:">
+<!ENTITY bccAddress.accesskey "E">
+<!ENTITY specialFolderTitle.label "Karpeta bereziak">
+<!ENTITY draftMailFolder.label "Gorde zirriborroak hemen:">
+<!ENTITY templateMailFolder.label "Gorde txantiloiak hemen:">
+<!ENTITY saveMessageDlg.label "Erakutsi berresteko elkarrizketa-koadroa mezuak gordetzean">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Bidalitakoak&quot; karpetan:">
+<!ENTITY sentFolderOn.accesskey "b">
+<!ENTITY sentInOtherFolder.label "Beste karpeta batean:">
+<!ENTITY sentInOtherFolder.accesskey "E">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Zirriborroak&quot; karpetan:">
+<!ENTITY draftsFolderOn.accesskey "Z">
+<!ENTITY draftInOtherFolder.label "Beste karpeta batean:">
+<!ENTITY draftInOtherFolder.accesskey "e">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Txantiloiak&quot; karpetan:">
+<!ENTITY templatesFolderOn.accesskey "x">
+<!ENTITY templateInOtherFolder.label "Beste karpeta batean:">
+<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY specialFoldersTitle.label "Zirriborroak eta txantiloiak">
+<!ENTITY keepDrafts.label "Gorde zirriborroak hemen:">
+<!ENTITY keepTempltes.label "Gorde txantiloiak hemen:">

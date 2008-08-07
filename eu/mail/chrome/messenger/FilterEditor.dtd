@@ -1,0 +1,37 @@
+<!ENTITY window.title "Iragazki arauak">
+
+<!ENTITY filterName.label "Iragazkiaren izena:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Zaborra">
+<!ENTITY notJunk.label "Ez da Zaborra">
+
+<!ENTITY lowestPriorityCmd.label "Baxuena">
+<!ENTITY lowPriorityCmd.label "Baxua">
+<!ENTITY normalPriorityCmd.label "Ertaina">
+<!ENTITY highPriorityCmd.label "Altua">
+<!ENTITY highestPriorityCmd.label "Altuena">
+
+<!ENTITY conditionDesc.label "Hau betetzen duten jasotako mezuak:">
+<!ENTITY filterActionDesc.label "Ekintza hau egin:">
+<!ENTITY filterActionDesc.accesskey "E">
+
+<!ENTITY newFolderButton.label "Kapeta Berria...">
+<!ENTITY newFolderButton.accesskey "K">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "Mezua hona Mugitu:">
+<!ENTITY copyMessage.label "Mezua hona Kopiatu:">
+<!ENTITY forwardTo.label "Mezua hona Birbidali:">
+<!ENTITY replyWithTemplate.label "Txantiloiarekin erantzun:">
+<!ENTITY markMessageRead.label "Irakurrita Bezala Markatu">
+<!ENTITY markMessageStarred.label "Izarra Gehitu">
+<!ENTITY setPriority.label "Lehentasuna honi Ezarri:">
+<!ENTITY addTag.label "Etiketaren Mezua">
+<!ENTITY setJunkScore.label "Zabor-posta egoera honi ezarri:">
+<!ENTITY deleteMessage.label "Mezua Ezabatu">
+<!ENTITY deleteFromPOP.label "Ezabatu POP Zerbitzaritik">
+<!ENTITY fetchFromPOP.label "POP Zerbitzaritik Deskargatu">
+<!ENTITY ignoreThread.label "Haria alde batera utzi">
+<!ENTITY watchThread.label "Ikusi haria">
+<!ENTITY stopExecution.label "Stop Filter Execution">

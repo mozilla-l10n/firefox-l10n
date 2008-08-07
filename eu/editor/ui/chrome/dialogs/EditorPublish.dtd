@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "Argitaratu orria">
+<!ENTITY windowTitleSettings.label "Argitaratze ezarpenak">
+
+<!ENTITY publishTab.label "Argitaratu">
+<!ENTITY settingsTab.label "Ezarpenak">
+
+<!ENTITY publishButton.label "Argitaratu">
+<!-- Publish Tab Panel -->
+
+<!ENTITY siteList.label "Gune izena:">
+<!ENTITY siteList.accesskey "e">
+<!ENTITY siteList.tooltip "Argitaratu nahi duzun gunea aukeratu">
+<!ENTITY newSiteButton.label "Gune berria">
+<!ENTITY newSiteButton.accesskey "N">
+<!ENTITY docDirList.label "Orri honen gune azpidirektorioa:">
+<!ENTITY docDirList.accesskey "G">
+<!ENTITY docDirList.tooltip "Hautatu edo idatzi orri honen urruneko azpidirektorioaren izena">
+<!ENTITY publishImgCheckbox.label "Irudiak eta beste fitxategiak sartu">
+<!ENTITY publishImgCheckbox.accesskey "b">
+<!ENTITY publishImgCheckbox.tooltip "Orri honek erabilitako irudi eta beste fitxategiak argitaratu">
+<!ENTITY sameLocationRadio.label "Orriaren kokapen berdina erabili">
+<!ENTITY sameLocationRadio.accesskey "B">
+<!ENTITY sameLocationRadio.tooltip "Fitxategiak orriaren kokaleku berdinean argitaratu">
+<!ENTITY useSubdirRadio.label "Gune azpidirektorio hau erabili:">
+<!ENTITY useSubdirRadio.accesskey "d">
+<!ENTITY useSubdirRadio.tooltip "Argitaratu fitxategiak hautaturiko urruneko direktorioan">
+<!ENTITY otherDirList.tooltip "Hautatu edo idatzi fitxategiak argitaratzeko urruneko azpidirektorioaren izena">
+<!ENTITY pageTitle.label "Orriaren izenburua:">
+<!ENTITY pageTitle.accesskey "I">
+<!ENTITY pageTitle.tooltip "Leihoan eta laster-marketan orriak erabiltzeko izenburua idatzi">
+<!ENTITY pageTitleExample.label "adib.: &quot;Nire Web Orria&quot;">
+<!ENTITY filename.label "Fitxategi-izena:">
+<!ENTITY filename.accesskey "F">
+<!ENTITY filename.tooltip "Idatzi fitxategiaren izena, web orrientzat '.html' ere">
+<!ENTITY filenameExample.label "adib,: &quot;nireorria.html&quot;">
+<!ENTITY relatedDocs.label "Argitaratzeko beste fitxategiak">
+<!ENTITY setDefaultButton.label "Ezarri lehenetsi bezala">
+<!ENTITY setDefaultButton.accesskey "L">
+<!ENTITY setDefSiteAndDir.label "Lehenetsitako Gune eta Direktorio bezala Ezarri">
+<!ENTITY removeButton.label "Ezabatu gunea">
+<!ENTITY removeButton.accesskey "E">
+<!-- Settings Tab Panel -->
+
+<!ENTITY publishSites.label "Guneak argitaratzen">
+<!ENTITY serverInfo.label "Zerbitzari argibideak">
+<!ENTITY loginInfo.label "Saio argibideak">
+<!ENTITY siteName.label "Gune izena:">
+<!ENTITY siteName.accesskey "e">
+<!ENTITY siteName.tooltip "Argitaratze gunea identifikatzeko ezizena (adib.: 'NireGunea')">
+<!ENTITY siteUrl.label "Argitaratze gunea (adib.: 'ftp://ftp.nireisp.com/erabiltzailea'):">
+<!ENTITY siteUrl.accesskey "a">
+<!ENTITY siteUrl.tooltip "Zure hornitzaile edo hosting-ak emandako FTP:// edo HTTP:// helbidea">
+<!ENTITY browseUrl.label "Zure hasiera orriaren HTTP helbidea (adib.: 'http://www.nireisp.com/erabiltzailea'):">
+<!ENTITY browseUrl.accesskey "T">
+<!ENTITY browseUrl.tooltip "Zure etxe direktorioaren HTTP:// helbiea (ez ipini fitxategiaren-izena)">
+<!ENTITY username.label "Erabiltzaile izena:">
+<!ENTITY username.accesskey "E">
+<!ENTITY username.tooltip "Zure hornitzaile edo hosting-an saioa hasteko erabili behar den erabiltzaile izena">
+<!ENTITY password.label "Pasahitza:">
+<!ENTITY password.accesskey "h">
+<!ENTITY password.tooltip "Erabiltzaile izenarekin erabili behar den pasahitza">
+<!ENTITY savePassword.label "Gorde pasahitza">
+<!ENTITY savePassword.accesskey "S">
+<!ENTITY savePassword.tooltip "Hau aukeratu zure pasahitza pasahitz kudeatzailean gordetzeko">

@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Segurtasuna">
+<!ENTITY securityHeading.label "Sinatutako edo zifratutako mezuak bidali eta jasotzeko, sinatzeko zein zifratzeko ziurtagiri bana zehaztu behar duzu.">
+<!ENTITY encryptionGroupTitle.label "Zifratzea">
+<!ENTITY encryptionChoiceLabel.label "Mezuak bidaltzerakoan lehenetsitako zifratze ezarpenak:">
+<!ENTITY neverEncrypt.label "Inoiz ez (ez erabili zifratzerik)">
+<!ENTITY alwaysEncryptMessage.label "Beharrezkoa (ezin da mezua bidali hartzaile guztiek ziurtagirik izan ezean)">
+<!ENTITY encryptionCert.message "Jasotako mezuak zifratzeko eta desifratzeko erabili ziurtagiri pertsonal hau:">
+<!ENTITY encryptionCert.notselected "Ziurtagiririk ezarri gabe">
+<!ENTITY certificate.button "Hautatu...">
+<!ENTITY certificate_clear.button "Garbitu">
+<!ENTITY signingGroupTitle.label "Sinadura Digitala">
+<!ENTITY signMessage.label "Sinatu mezuak digitalki (lehenetsita)">
+<!ENTITY signingCert.message "Bidalitako mezuak sinatzeko erabilitako ziurtagiri pertsonala:">
+<!ENTITY signingCert.notselected "Ziurtagiririk ezarri gabe">
+
+<!ENTITY certificates.label "Ziurtagiriak">
+<!ENTITY managecerts.label "Ziurtagiriak Ikusi">
+<!ENTITY managecerts.accesskey "I">
+<!ENTITY managedevices.label "Segurtasun Gailuak">
+<!ENTITY managedevices.accesskey "S">

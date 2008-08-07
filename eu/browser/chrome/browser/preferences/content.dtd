@@ -1,0 +1,37 @@
+<!ENTITY blockPopups.label "Blokeatu pop-up leihoak">
+<!ENTITY blockPopups.accesskey "B">
+<!ENTITY popupExceptions.label "Salbuespenak...">
+<!ENTITY popupExceptions.accesskey "E">
+
+<!ENTITY loadImages.label "Kargatu irudiak automatikoki">
+<!ENTITY loadImages.accesskey "I">
+<!ENTITY exceptions.label "Salbuespenak...">
+<!ENTITY exceptions.accesskey "s">
+
+<!ENTITY enableJavaScript.label "Gaitu JavaScript ">
+<!ENTITY enableJavaScript.accesskey "A">
+<!ENTITY advancedJS.label "Aurreratua...">
+<!ENTITY advancedJS.accesskey "r">
+
+<!ENTITY enableJava.label "Gaitu Java">
+<!ENTITY enableJava.accesskey "t">
+
+
+<!ENTITY fontsAndColors.label "Letra-tipo eta koloreak">
+
+<!ENTITY defaultFont.label "Lehenetsitako letra-tipoa:">
+<!ENTITY defaultFont.accesskey "L">
+<!ENTITY defaultSize.label "Tamaina:">
+<!ENTITY defaultSize.accesskey "A">
+
+<!ENTITY advancedFonts.label "Aurreratua...">
+<!ENTITY advancedFonts.accesskey "U">
+
+<!ENTITY colors.label "Koloreak...">
+<!ENTITY colors.accesskey "O">
+
+
+<!ENTITY languages.label "Hizkuntzak">
+<!ENTITY chooseLanguage.label "Hautatu orriak bistarazteko hobetsiriko hizkuntza">
+<!ENTITY chooseButton.label "Hautatu...">
+<!ENTITY chooseButton.accesskey "u">

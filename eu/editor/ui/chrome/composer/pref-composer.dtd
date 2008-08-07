@@ -1,0 +1,39 @@
+<!-- extracted from content/pref-composer.xul -->
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+
+
+<!ENTITY pref.composer.title "Composer">
+
+<!ENTITY saving "Gordetzen">
+<!ENTITY AutoSaveCheck "Aldiro automatikoki grabatu">
+<!ENTITY minText "minutu">
+
+<!ENTITY exterLegend.label "Kanpo editoreak">
+<!ENTITY htmlSource "HTML iIturburua:">
+<!ENTITY imageeditor "Irudiak:">
+<!ENTITY chooseButton.label "Hautatu">
+
+<!ENTITY recentFiles.title "Azken orrien menua">
+<!ENTITY documentsInMenu.label "Zerrendatutako gehienezko orri kopurua">
+<!ENTITY documentsInMenu.accesskey "n">
+
+<!ENTITY savingFiles.title "Orriak gordetzean edo argitaratzean">
+<!ENTITY preserveExisting.label "Jatorrizko iturburu formatua mantendu">
+<!ENTITY preserveExisting.accesskey "M">
+<!ENTITY preserveExisting.tooltip "Jatorrizko iturburu formatua eta lerro amaierak mantendu">
+<!ENTITY saveAssociatedFiles.label "Orriak gordetzerakoan lotutako irudi eta beste fitxategiak gorde">
+<!ENTITY saveAssociatedFiles.accesskey "S">
+<!ENTITY showPublishDialog.label "Orriak argitaratzean Argitaratze elkarrizketa Beti erakutsi">
+<!ENTITY showPublishDialog.accesskey "A">
+
+<!ENTITY composerEditing.label "Editatzen">
+<!ENTITY spellCheckInline.label "Idatzi ahala ortografia egiaztatu">
+<!ENTITY spellCheckInline.accesskey "O">
+<!ENTITY maintainStructure.label "Mantendu taula diseinua gelaxkak gehitu edo ezabatzerakoan">
+<!ENTITY maintainStructure.tooltip "Mantendu taularen itxura laukia gelaxkak ezabatu edo gehitzerakoan behar diren gelaxkak gehituaz">
+<!ENTITY maintainStructure.accesskey "M">
+<!ENTITY useCSS.label "HTML elementu eta atributuen ordez CSS estiloak erabili">
+<!ENTITY useCSS.accesskey "U">
+<!ENTITY crInPCreatesNewP.label "Paragrafo batetako itzulerak beti paragrafo berria sortzen du">
+<!ENTITY crInPCreatesNewP.accesskey "R">

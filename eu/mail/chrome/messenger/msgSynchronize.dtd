@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Deskargatu eta mezuak sinkronizatu">
+<!ENTITY MsgSelect.label "Lineaz kanpo erabiltzeko elementuak">
+<!ENTITY MsgSyncDesc.label "Lineaz kanpo erabiltzeko posta-karpetak edo berri-taldeak hautatu badituzu dagoeneko, horiek deskargatu edo/eta sinkroniza ditzakezu. Bestela, erabili &quot;Hautatu&quot; botoia posta-karpetak eta berri-taldeak lineaz kanpo erabiltzeko.">
+<!ENTITY MsgSyncDirections.label "Deskargatu edo/eta sinkronizatu ondoko hauek:">
+<!ENTITY syncTypeMail.label "Posta-mezuak">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "Berri-taldeetako mezuak">
+<!ENTITY syncTypeNews.accesskey "B">
+<!ENTITY sendMessage.label "Bidali gabeko mezuak bidali">
+<!ENTITY sendMessage.accesskey "I">
+<!ENTITY workOffline.label "Lineaz kanpo lan egin deskargatzen eta/edo sinkronizatzen amaitutakoan">
+<!ENTITY workOffline.accesskey "L">
+<!ENTITY selectButton.label "Hautatu...">
+<!ENTITY selectButton.accesskey "A">
+<!ENTITY MsgSelectDesc.label "Hautatu lineaz kanpo erabiltzeko deskargatu nahi dituzun posta-karpetak eta berri-taldeak.">
+<!ENTITY MsgSelectInd.label "Deskargatu">
+<!ENTITY MsgSelectItems.label "Karpetak eta berri-taldeak">

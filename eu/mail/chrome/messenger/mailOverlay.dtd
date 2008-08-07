@@ -1,0 +1,8 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Mezua">
+<!ENTITY newMessageCmd.accesskey "m">
+ 
+<!ENTITY newCardCmd.label "Helbide-liburuko txartela...">
+<!ENTITY newCardCmd.accesskey "t">
+

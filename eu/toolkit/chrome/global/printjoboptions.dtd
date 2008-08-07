@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Inprimagailuaren propietateak">
+
+<!ENTITY paperInput.label "Paper-tamaina:">
+
+<!ENTITY plexInput.label "Plex modua:">
+
+<!ENTITY resolutionInput.label "Bereizmena/kalitatea:">
+
+<!ENTITY cmdInput.label "Inprimatzeko komandoa:">
+
+<!ENTITY jobTitleInput.label "Lanaren izenburua:">
+
+<!ENTITY colorGroup.label "Kolorea:">
+<!ENTITY grayRadio.label "Gris eskala">
+<!ENTITY colorRadio.label "Kolorea">
+
+<!ENTITY colorspaceInput.label "Kolore-eredua:">
+
+<!ENTITY fontsGroup.label "Letra-tipoak:">
+<!ENTITY downloadFonts.label "Letra-tipoak inprimagailura deskargatu?">
+
+<!ENTITY edgeMarginInput.label "Paperaren ertza eta marjinaren arteko distantzia (hazbeteak)">
+<!ENTITY topInput.label "Goian:">
+<!ENTITY bottomInput.label "Behean:">
+<!ENTITY leftInput.label "Ezkerra:">
+<!ENTITY rightInput.label "Eskuina:">

@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title "Lehenetsitako Bezeroa">
+<!ENTITY defaultClient.intro "&brandShortName; erabili honetarako lehenetsiriko bezero bezala:">
+
+<!ENTITY email.label "ePosta">
+<!ENTITY newsgroups.label "Berri-taldeak">
+<!ENTITY rss.label "RSS Jarioak">
+
+<!ENTITY checkOnStartup.label "Beti egin egiaztapen hau &brandShortName; abiaraztean">
+<!ENTITY checkOnStartup.accesskey "B">

@@ -1,0 +1,17 @@
+<!ENTITY windowtitle.label "Pasahitz Kudeatzailea">
+<!ENTITY windowalttitle.label "Inprimaki Kudeatzailea: Guneak">
+<!ENTITY tab.signonsstored.label "Pasahitzak Gorderik">
+<!ENTITY tab.signonsnotstored.label "Gordeko Ez diren Pasahitzak">
+<!ENTITY tab.nopreview.label "Aurrebistan inoiz ikusten ez diren inprimakiak">
+<!ENTITY tab.nocapture.label "Gordeko Ez diren Inprimakiak">
+
+<!ENTITY spiel.signonsstored.label "Pasahitz kudeatzaileak ondorengo guneen saio-hasierako informazioa gorde du:">
+<!ENTITY spiel.signonsnotstored.label "Pasahitz kudeatzaileak inoiz ez du gordeko ondorengo guneen saio-hasierako informazioa:">
+<!ENTITY spiel.nopreview.label "Inprimaki kudeatzaileak inoiz ez du ondorengo guneen inprimakien aurrebistarik emango, automatikoki bete aurretik:">
+<!ENTITY spiel.nocapture.label "Inprimaki kudeatzaileak ez dizu inoiz eskatuko ondorengo guneen inprimakiak gordetzeko:">
+
+<!ENTITY treehead.site.label "Gunea">
+<!ENTITY treehead.username.label "Erabiltzaile-izena">
+<!ENTITY treehead.password.label "Pasahitza">
+<!ENTITY remove.label "Ezabatu">
+<!ENTITY removeall.label "Denak Ezabatu">

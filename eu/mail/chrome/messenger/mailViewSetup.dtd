@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Mezuen Bistaren Ezarpenak">
+<!ENTITY mailViewHeading.label "Mezu bistaren izena:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Bista hau hautatuta dagoenean, bistaratu honekin bat datozen mezuak soilik:">
+

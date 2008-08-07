@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label "Eranskinen Karpeta">
+<!ENTITY alwaysAsk.label "Galdetu fitxategi bakoitzeko non gorde">
+<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY neverAsk.label "Eranskin guztiak karpeta honetan Gorde:">
+<!ENTITY neverAsk.accesskey "G">
+<!ENTITY desktop.label "Idazmahaia">
+<!ENTITY downloads.label "Nire Deskargak">
+<!ENTITY chooseFolderWin.label "Arakatu...">
+<!ENTITY chooseFolderWin.accesskey "A">
+<!ENTITY chooseFolderMac.label "Hautatu...">
+<!ENTITY chooseFolderMac.accesskey "H">
+
+
+<!ENTITY fileTypes.label "Deskarga Ekintzak">
+<!ENTITY configureActions.label "Ekintzak ikusi eta aldatu...">
+<!ENTITY configureActions.accesskey "K">
+<!ENTITY fileTypesDescription.label "&brandShortName;(e)k mota batzuetako eranskinak automatikoki gorde edo ireki ditzake.">
+
+<!ENTITY fileTypeColName.label "Fitxategi Mota">
+<!ENTITY fileHandlerColName.label "Aplikazioa">
+<!ENTITY editFileHandler.label "Aldatu Ekintza...">
+<!ENTITY editFileHandler.accesskey "a">
+<!ENTITY removeFileHandler.label "Ezabatu">
+<!ENTITY removeFileHandler.accesskey "e">

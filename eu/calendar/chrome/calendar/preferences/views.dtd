@@ -1,0 +1,74 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Potter <mikep@oeone.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <mattwillis@gmail.com>
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+
+<!ENTITY pref.calendar.view.allview.caption "Nagusia">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Egun eta Aste Ikuspegia">
+<!ENTITY pref.calendar.view.multiweekview.caption "Aste Anitz Ikuspegia">
+<!ENTITY pref.calendar.view.workweek.caption "LanAstea">
+
+<!ENTITY pref.weekstarts.label "Astea noiz hasi:">
+<!ENTITY pref.weekstarts.accesskey "h">
+<!ENTITY pref.daysoff.label "Erabili egun hauek lan egun bezala:">
+
+<!ENTITY pref.calendar.view.daystart.label "Eguna hasten da:">
+<!ENTITY pref.calendar.view.daystart.accesskey "E">
+<!ENTITY pref.calendar.view.dayend.label "Eguna bukatzen da:">
+<!ENTITY pref.calendar.view.dayend.accesskey "b">
+<!ENTITY pref.calendar.view.visiblehours.label "Erakutsi:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "r">
+<!ENTITY pref.calendar.view.visiblehoursend.label "ordu aldi berean">
+
+<!ENTITY pref.numberofweeks.label "Ikusiko den lehenetsitako aste kopurua (Aurreko asteak barne):">
+<!ENTITY pref.numberofweeks.accesskey "k">
+<!ENTITY pref.numberofpreviousweeks.label "Ikusiko diren aurreko asteak:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "A">
+<!ENTITY pref.numberofweeks.0 "batez">
+<!ENTITY pref.numberofweeks.1 "aste 1">
+<!ENTITY pref.numberofweeks.2 "2 aste">
+<!ENTITY pref.numberofweeks.3 "3 aste">
+<!ENTITY pref.numberofweeks.4 "4 aste">
+<!ENTITY pref.numberofweeks.5 "5 aste">
+<!ENTITY pref.numberofweeks.6 "6 aste">

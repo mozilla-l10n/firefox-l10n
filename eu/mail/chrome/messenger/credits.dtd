@@ -1,0 +1,30 @@
+<!ENTITY credit.title "&brandFullName; Kredituak">
+<!ENTITY brandMotto "Trumoitxoriak martxan dira!">
+<!ENTITY credit.leads "Ingeniari Buruak">
+<!ENTITY credit.core "Muniaren Garapena">
+<!ENTITY credit.gecko "Gecko Motorea">
+<!ENTITY credit.thanks "Esker Onak">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "Librezale.org">
+
+<!ENTITY credit.visuals "Diseinu Bisualaren Koordinatzailea">
+<!ENTITY credit.theme "Gaien Diseinua">
+<!ENTITY credit.brand "Markaren Nortasuna">
+<!ENTITY credit.web "Web Diseinua">
+<!ENTITY credit.update "Mozilla Eguneraketak">
+<!ENTITY credit.qalead "Kalitate-bermatze Burua">
+<!ENTITY credit.qa "Kalitate-bermatzea">
+<!ENTITY credit.build "Eraikuntza eta Askapena">
+<!ENTITY credit.infra "Azpiegitura Euskarria">
+<!ENTITY credit.support "Laguntza">
+<!ENTITY credit.manage "Proiektuaren Kudeaketa">
+<!ENTITY credit.marketleads "Marketing Buruak">
+<!ENTITY credit.market "Marketing">
+<!ENTITY credit.creators "Nork Sortuta">
+<!ENTITY credit.memory "Noren oroimenean">
+<!ENTITY credit.poweredByGecko "Gecko&trade;-z hornitua">

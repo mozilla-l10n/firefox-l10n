@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Prestatu orria">
+
+<!ENTITY basic.tab "Formatu eta aukerak">
+
+<!ENTITY formatGroup.label "Formatua">
+
+<!ENTITY orientation.label "Orientazioa:">
+<!ENTITY portrait "Bertikala">
+<!ENTITY landscape "Horizontala">
+
+<!ENTITY scale.label "Eskala:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Txikitu orriaren zabaleran sar dadin">
+
+<!ENTITY optionsGroup.label "Aukerak">
+
+<!ENTITY printBG.label "Inprimatu atzeko planoa (koloreak eta irudiak)">
+
+<!ENTITY advanced.tab "Marjinak eta buru/oinak">
+
+<!ENTITY marginGroup.label "Marjinak (#1)">
+<!ENTITY marginUnits.inches "hazbeteak">
+<!ENTITY marginUnits.metric "milimetroak">
+<!ENTITY marginTop.label "Goian:">
+<!ENTITY marginBottom.label "Behean:">
+<!ENTITY marginLeft.label "Ezkerra:">
+<!ENTITY marginRight.label "Eskuina:">
+
+<!ENTITY headerFooter.label "Buru eta oinak">
+
+<!ENTITY hfLeft.label "Ezkerra:">
+<!ENTITY hfCenter.label "Zentroa:">
+<!ENTITY hfRight.label "Eskuina:">
+<!ENTITY headerLeft.tip "Ezker goiburua">
+<!ENTITY headerCenter.tip "Erdiko goiburua">
+<!ENTITY headerRight.tip "Eskuin goiburua">
+<!ENTITY footerLeft.tip "Ezker oina">
+<!ENTITY footerCenter.tip "Erdiko oina">
+<!ENTITY footerRight.tip "Eskuin oina">
+
+<!ENTITY hfTitle "Izenburua">
+<!ENTITY hfURL "URLa">
+<!ENTITY hfDateAndTime "Data/ordua">
+<!ENTITY hfPage "Orria #">
+<!ENTITY hfPageAndTotal "# orria #-tik">
+<!ENTITY hfBlank "--txuria--">
+<!ENTITY hfCustom "Pertsonalizatua...">
+
+<!ENTITY customPrompt.title "Pertsonalizatua...">
+<!ENTITY customPrompt.prompt "Idatzi zure goiburu/oinaren testu pertsonalizatua">

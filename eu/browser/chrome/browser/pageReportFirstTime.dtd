@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label "Webgune batek zure baimenik gabe popup leiho bat irekitzen saiatu da. &brandShortName;(e)k popup leiho hori automatikoki itxi du.  &brandShortName;(e)k popup leihoak blokeatzen dituenean, ikono bat ikusiko duzu egoera barran.">
+
+<!ENTITY endDescription.label "Ikono honetan klik egin dezakezu &brandShortName;(e)k blokeatutako guneak ikusteko eta haien portamolderako ezinbestekoa baldin bada, popup leihoak irekitzeko aukera eman dezakezu.">
+
+<!ENTITY caption.label "PopUp blokeatzeari buruz">
+
+<!ENTITY done.label "Eginda">

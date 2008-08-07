@@ -1,0 +1,77 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Bilatu hemen:">
+<!ENTITY searchHeading.accesskey "t">
+<!ENTITY searchSubfolders.label "Bilatu azpikarpetetan">
+<!ENTITY searchSubfolders.accesskey "l">
+<!ENTITY resetButton.label "Garbitu">
+<!ENTITY resetButton.accesskey "G">
+<!ENTITY optionsButton.label "Aukerak">
+<!ENTITY closeButton.label "Itxi">
+<!ENTITY openButton.label "Ireki">
+<!ENTITY openButton.accesskey "i">
+<!ENTITY deleteButton.label "Ezabatu">
+<!ENTITY deleteButton.accesskey "E">
+<!ENTITY searchDialogTitle.label "Mezuak bilatu">
+<!ENTITY conditionDesc.label "Bilatu hau betetzen duten mezuak:">
+<!ENTITY conditions.label "Irizpideak">
+<!ENTITY results.label "Emaitzak">
+<!ENTITY fileHereMenu.label "Gorde hemen">
+<!ENTITY fileHereMenu.accesskey "R">
+<!ENTITY fileButton.label "Fitxategia">
+<!ENTITY fileButton.accesskey "f">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Ireki mezu-karpeta">
+<!ENTITY goToFolderButton.accesskey "k">
+<!ENTITY saveAsVFButton.label "Bilaketa-karpeta bezala Gorde">
+<!ENTITY saveAsVFButton.accesskey "o">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "Hemen bilatu:">
+<!ENTITY abSearchHeading.accesskey "b">
+<!ENTITY propertiesButton.label "Propietateak">
+<!ENTITY propertiesButton.accesskey "P">
+<!ENTITY composeButton.label "Idatzi">
+<!ENTITY composeButton.accesskey "I">
+<!ENTITY abSearchDialogTitle.label "Bilaketa Aurreratua Helbide-liburuan">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Haria">
+<!ENTITY fromColumn.label "From">
+<!ENTITY recipientColumn.label "Hartzailea">
+<!ENTITY subjectColumn.label "Gaia">
+<!ENTITY dateColumn.label "Data">
+<!ENTITY priorityColumn.label "Lehentasuna">
+<!ENTITY tagsColumn.label "Etiketak">
+<!ENTITY accountColumn.label "Kontua">
+<!ENTITY statusColumn.label "Egoera">
+<!ENTITY sizeColumn.label "Tamaina">
+<!ENTITY junkStatusColumn.label "Zabor-postaren Egoera">
+<!ENTITY linesColumn.label "Lerroak">
+<!ENTITY unreadColumn.label "Irakurri gabeak">
+<!ENTITY totalColumn.label "Guztira">
+<!ENTITY readColumn.label "Irakurrita">
+<!ENTITY receivedColumn.label "Received">
+<!ENTITY starredColumn.label "Izardun">
+<!ENTITY locationColumn.label "Kokalekua">
+<!ENTITY idColumn.label "Jasotako ordena">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Egin klik bistaratuko diren zutabeak hautatzeko">
+<!ENTITY threadColumn.tooltip "Egin klik mezuen haria bistaratzeko">
+<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY recipientColumn.tooltip "Egin klik hartzailez sailkatzeko">
+<!ENTITY subjectColumn.tooltip "Egin klik gaiaren arabera ordenatzeko">
+<!ENTITY dateColumn.tooltip "Egin klik dataren arabera ordenatzeko">
+<!ENTITY priorityColumn.tooltip "Egin klik lehentasunaren arabera ordenatzeko">
+<!ENTITY tagsColumn.tooltip "Egin klik etiketaz ordenatzeko">
+<!ENTITY accountColumn.tooltip "Egin klik kontuaren arabera ordenatzeko">
+<!ENTITY statusColumn.tooltip "Egin klik egoeraren arabera ordenatzeko">
+<!ENTITY sizeColumn.tooltip "Egin klik tamainaren arabera ordenatzeko">
+<!ENTITY junkStatusColumn.tooltip "Egin klik zabor-postaren egoeraren arabera ordenatzeko">
+<!ENTITY unreadColumn.tooltip "Irakurri gabeko mezu kopurua harian">
+<!ENTITY totalColumn.tooltip "Mezu kopurua guztira harian">
+<!ENTITY readColumn.tooltip "Egin klik irakurrita balioaren arabera ordenatzeko">
+<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY starredColumn.tooltip "Egin klik izarraren arabera ordenatzeko">
+<!ENTITY locationColumn.tooltip "Egin klik kokalekuaren arabera ordenatzeko">
+<!ENTITY idColumn.tooltip "Egin klik jasotako ordenean ordenatzeko">

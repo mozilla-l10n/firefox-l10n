@@ -1,0 +1,285 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Mezua prestatu: (gairik ez)">
+<!-- File Menu -->
+
+<!ENTITY fileMenu.label "Fitxategia">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "Berria">
+<!ENTITY newMenu.accesskey "B">
+<!ENTITY newMessage.label "Mezua">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY newCard.label "Helbide-liburuko txartela...">
+<!ENTITY newCard.accesskey "x">
+<!ENTITY attachMenu.label "Erantsi">
+<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachFileCmd.label "Fitxategia(k)...">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "Web orria...">
+<!ENTITY attachPageCmd.accesskey "W">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Txartel pertsonala (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY closeCmd.label "Itxi">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "i">
+<!ENTITY saveCmd.label "Gorde">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "g">
+<!ENTITY saveAsCmd.label "Gorde honela">
+<!ENTITY saveAsCmd.accesskey "H">
+<!ENTITY saveAsFileCmd.label "Fitxategia...">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Zirriborroa">
+<!ENTITY saveAsDraftCmd.accesskey "Z">
+<!ENTITY saveAsTemplateCmd.label "Txantiloia">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY sendNowCmd.label "Bidali orain">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "Bidali beranduago">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "Prestatu Orria...">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printCmd.label "Inprimatu...">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY quitApplicationCmdWin.label "Irten">
+<!ENTITY quitApplicationCmdWin.accesskey "i">
+<!ENTITY quitApplicationCmd.label "Irten">
+<!ENTITY quitApplicationCmd.accesskey "I">
+<!ENTITY quitApplicationCmd.key "Q">
+<!-- Edit Menu -->
+
+<!ENTITY editMenu.label "Editatu">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Desegin">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "d">
+<!ENTITY redoCmd.label "Berregin">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "Ebaki">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "b">
+<!ENTITY copyCmd.label "Kopiatu">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Itsasi">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "i">
+<!ENTITY editRewrapCmd.label "Berriz itzulbiratu">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "z">
+<!ENTITY deleteCmd.label "Ezabatu">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "e">
+<!ENTITY selectAllCmd.label "Hautatu dena">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "d">
+<!ENTITY findCmd.label "Bilatu eta ordeztu...">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "B">
+<!ENTITY findAgainCmd.label "Bilatu berriro">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "r">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Bilatu aurrekoa">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "o">
+<!-- View Menu -->
+
+<!ENTITY viewMenu.label "Ikusi">
+<!ENTITY viewMenu.accesskey "i">
+<!ENTITY viewToolbarsMenuNew.label "Tresna-barrak">
+<!ENTITY viewToolbarsMenuNew.accesskey "T">
+<!ENTITY showComposeToolbarCmd.label "Posta tresna-barra">
+<!ENTITY showComposeToolbarCmd.accesskey "r">
+<!ENTITY showFormatToolbarCmd.label "Formatu Tresna-barra">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showTaskbarCmd.label "Egoera-barra">
+<!ENTITY showTaskbarCmd.accesskey "E">
+<!ENTITY customizeToolbar.label "Pertsonalizatu...">
+<!ENTITY customizeToolbar.accesskey "P">
+
+<!ENTITY addressSidebar.label "Kontaktu alboko-barra">
+<!ENTITY addressSidebar.accesskey "o">
+<!-- Format Menu -->
+
+<!ENTITY formatMenu.label "Formatua">
+<!ENTITY formatMenu.accesskey "o">
+<!-- Options Menu -->
+
+<!ENTITY optionsMenu.label "Aukerak">
+<!ENTITY optionsMenu.accesskey "k">
+<!ENTITY checkSpellingCmd.label "Ortografia...">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key2 "VK_F7">
+<!ENTITY checkSpellingCmd.accesskey "o">
+<!ENTITY enableInlineSpellChecker.label "Zuzendu idazten duzun bitartean">
+<!ENTITY enableInlineSpellChecker.accesskey "Z">
+<!ENTITY quoteCmd.label "Zitatu mezua">
+<!ENTITY quoteCmd.accesskey "Z">
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
+<!ENTITY attachVCard.label "Erantsi txartel pertsonala (vCard)">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY returnReceiptMenu.label "Igorleari itzuli">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "Bidalketa egoera jakinarazpena">
+<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY outputFormatMenu.label "Formatua">
+<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY autoFormatCmd.label "Auto-Igarri">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "Testu Arrunta Bakarrik">
+<!ENTITY plainTextFormatCmd.accesskey "b">
+<!ENTITY htmlFormatCmd.label "Testu Aberatsa (HTML) bakarrik">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "Testu arrunt eta aberatsa (HTML)">
+<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY priorityMenu.label "Lehentasuna">
+<!ENTITY priorityMenu.accesskey "l">
+<!ENTITY priorityButton.label "Lehentasuna:">
+<!ENTITY lowestPriorityCmd.label "Baxuena">
+<!ENTITY lowestPriorityCmd.accesskey "b">
+<!ENTITY lowPriorityCmd.label "Baxua">
+<!ENTITY lowPriorityCmd.accesskey "x">
+<!ENTITY normalPriorityCmd.label "Normala">
+<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY highPriorityCmd.label "Altua">
+<!ENTITY highPriorityCmd.accesskey "a">
+<!ENTITY highestPriorityCmd.label "Altuena">
+<!ENTITY highestPriorityCmd.accesskey "T">
+<!ENTITY fileCarbonCopyCmd.label "Bidali kopia bat hona:">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "Gorde hemen">
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label "Tresnak">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "Posta eta berri-taldeak">
+<!ENTITY messengerCmd.accesskey "p">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Helbide Liburua">
+<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY accountManagerCmd.label "Kontu Ezarpenak...">
+<!ENTITY accountManagerCmd.accesskey "k">
+<!ENTITY accountManagerCmdUnix.accesskey "S">
+<!ENTITY preferencesCmd.label "Aukerak...">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "A">
+<!ENTITY preferencesCmdUnix.label "Hobespenak">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Txikitu">
+<!ENTITY bringAllToFront.label "Eraman Denak Aurrera">
+<!ENTITY zoomWindow.label "Zooma">
+<!ENTITY windowMenu.label "Leihoa">
+<!-- Help Menu -->
+
+<!ENTITY helpMenu.label "Laguntza">
+<!ENTITY helpMenu.accesskey "L">
+<!ENTITY releaseCmd.label "Bertsio Oharrak">
+<!ENTITY releaseCmd.accesskey "B">
+<!ENTITY hintsAndTips.label "&brandShortName; Laguntza">
+<!ENTITY hintsAndTips.accesskey "l">
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY aboutCmd.label "&brandShortName;(r)i buruz">
+<!ENTITY aboutCmd.accesskey "B">
+<!-- Mail Toolbar -->
+
+<!ENTITY sendButton.label "Bidali">
+<!ENTITY quoteButton.label "Aipamena">
+<!ENTITY addressButton.label "Kontaktuak">
+<!ENTITY attachButton.label "Erantsi">
+<!ENTITY spellingButton.label "Ortografia">
+<!ENTITY saveButton.label "Gorde">
+<!ENTITY throbberItem.title "Jarduera Adierazlea">
+<!-- Mail Toolbar Tooltips -->
+
+<!ENTITY sendButton.tooltip "Bidali mezua orain">
+<!ENTITY sendlaterButton.tooltip "Bidali mezua beranduago">
+<!ENTITY quoteButton.tooltip "Aipatu aurreko mezua">
+<!ENTITY addressButton.tooltip "Hautatu hartzaile bat helbide-liburuan">
+<!ENTITY attachButton.tooltip "Erantsi fitxategi bat mezuari">
+<!ENTITY saveButton.tooltip "Gorde mezu hau">
+<!ENTITY cutButton.tooltip "Ebaki">
+<!ENTITY copyButton.tooltip "Kopiatu">
+<!ENTITY pasteButton.tooltip "Itsasi">
+<!-- Headers -->
+
+<!ENTITY fromAddr.label "Nork:">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY toAddr.label "Nori:">
+<!ENTITY ccAddr.label "Kopia:">
+<!ENTITY bccAddr.label "Ezkutuko Kopia:">
+<!ENTITY replyAddr.label "Erantzun-Honi:">
+<!ENTITY newsgroupsAddr.label "Berri-taldea:">
+<!ENTITY followupAddr.label "Honen-Jarraipena:">
+<!ENTITY subject.label "Gaia:">
+<!ENTITY subject.accesskey "G">
+<!ENTITY attachments.label "Eranskinak:">
+<!ENTITY attachments.accesskey "n">
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!ENTITY SmileButton.tooltip "Irrifartxoa txertatu">
+<!ENTITY smiley1Cmd.label "Irrifartxoa">
+<!ENTITY smiley2Cmd.label "Zimurra">
+<!ENTITY smiley3Cmd.label "begi-keinu">
+<!ENTITY smiley4Cmd.label "Mingaina kanpoan">
+<!ENTITY smiley5Cmd.label "Barrez">
+<!ENTITY smiley6Cmd.label "Haserretuta">
+<!ENTITY smiley7Cmd.label "Erabaki gabe">
+<!ENTITY smiley8Cmd.label "Ezusteko">
+<!ENTITY smiley9Cmd.label "Muxu">
+<!ENTITY smiley10Cmd.label "Garrasi">
+<!ENTITY smiley11Cmd.label "Hotza">
+<!ENTITY smiley12Cmd.label "Diru-Aurpegi">
+<!ENTITY smiley13Cmd.label "Oina-ahoan">
+<!ENTITY smiley14Cmd.label "Errugabea">
+<!ENTITY smiley15Cmd.label "Negarrez">
+<!ENTITY smiley16Cmd.label "Ezpainak-itsasirik">
+<!-- Message Pane Context Menu -->
+
+<!ENTITY spellCheckNoSuggestions.label "Ez da Iradokizunik Aurkitu">
+<!ENTITY spellCheckIgnoreWord.label "Hitza Baztertu">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Hiztegira Gehitu">
+<!ENTITY spellCheckAddToDictionary.accesskey "g">
+<!ENTITY undo.label "Desegin">
+<!ENTITY undo.accesskey "D">
+<!ENTITY cut.label "Ebaki">
+<!ENTITY cut.accesskey "b">
+<!ENTITY copy.label "Kopiatu">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Itsasi">
+<!ENTITY paste.accesskey "I">
+<!ENTITY pasteQuote.label "Aipamen Bezala Itsasi">
+<!ENTITY pasteQuote.accesskey "S">
+
+<!ENTITY openAttachment.label "Ireki">
+<!ENTITY openAttachment.accesskey "I">
+<!ENTITY delete.label "Ezabatu">
+<!ENTITY delete.accesskey "E">
+<!ENTITY selectAll.label "Hautatu Dena">
+<!ENTITY selectAll.accesskey "D">
+<!ENTITY attachFile.label "Erantsi Fitxategia(k)...">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "Erantsi web orria...">
+<!ENTITY attachPage.accesskey "W">
+<!-- Title for the address picker panel -->
+
+<!ENTITY addressesSidebarTitle.label "Kontaktuak">
+

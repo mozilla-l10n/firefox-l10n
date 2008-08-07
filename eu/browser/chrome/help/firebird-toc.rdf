@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+]>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <rdf:Description about="urn:root">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="firefox-help" nc:name="Ongi Etorri &brandFullName; Laguntzara" nc:link="firefox_welcome.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird" nc:name="&brandFullName; Erabiltzen" nc:link="using_firebird.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager" nc:name="Deskarga Kudeatzailea Erabiltzen" nc:link="download_manager.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="customize-firebird" nc:name="Pertsonalizazioa" nc:link="customization.xhtml"/> </rdf:li>
+        <rdf:li>
+          <rdf:Description ID="prefs-win" nc:name="Aukerak" nc:link="prefs.xhtml" nc:platform="win os2">
+            <nc:subheadings rdf:resource="#prefs-tree"/>
+          </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+          <rdf:Description ID="prefs-unix" nc:name="Hobespenak" nc:link="prefs.xhtml" nc:platform="unix mac">
+            <nc:subheadings rdf:resource="#prefs-tree"/>
+          </rdf:Description>
+        </rdf:li>
+        <rdf:li> <rdf:Description ID="popup-blocker" nc:name="Popup-ak Kontrolatzen" nc:link="popup.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cookies" nc:name="Cookieak Antolatzen" nc:link="cookies.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing" nc:name="Fitxen bidezko Nabigazioa" nc:link="tabbed_browsing.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="firebird-keyboard-shortcuts" nc:name="Laster-teklak" nc:link="shortcuts.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="firebird-mouse-shortcuts"
+        nc:name="Sagu Lasterbideak"
+        nc:link="mouse_shortcuts.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y" nc:name="Irisgarritasun Ezaugarriak" nc:link="accessibility.xhtml"/> </rdf:li>
+	
+        <rdf:li> <rdf:Description ID="menu" nc:name="Menu Erreferentzia" nc:link="menu_reference.xhtml"/> </rdf:li>
+     	<rdf:li> <rdf:Description ID="ieusers" nc:name="Internet Explorerren Erabiltzaileentzat Laguntza" nc:link="forieusers.xhtml"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="using-firebird-navigating-web-pages" nc:name="Nabigatzen" nc:link="using_firebird.xhtml#navigating_web_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird-searching"
+        nc:name="Bilatzen"
+        nc:link="using_firebird.xhtml#searching"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-copying-saving-and-printing-pages" nc:name="Orriak Kopiatzen, Gordetzen eta Inprimatzen" nc:link="using_firebird.xhtml#copying_saving_and_printng_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird-improving-speed-and-efficiency" nc:name="Abiadura eta Eraginkortasuna Hobetzen" nc:link="using_firebird.xhtml#improving_speed_and_efficiency"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-download-manager">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="using-download-manager-whatis" nc:name="Zer da Deskarga Kudeatzailea?" nc:link="download_manager.xhtml#what_is_download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-can-i-do" nc:name="Zer egin dezaket Deskarga Kudeatzailearekin?" nc:link="download_manager.xhtml#do_with_download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-prefs-win" nc:name="Deskarga Kudeatzailearen Aukerak" nc:link="download_manager.xhtml#download_manager_options" nc:platform="win os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-prefs-unix" nc:name="Deskarga Kudeatzailearen Hobespenak" nc:link="download_manager.xhtml#download_manager_options" nc:platform="unix mac"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-navigating-web-pages">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-viewing-your-home-page" nc:name="Hasiera Orria Ikusten" nc:link="using_firebird.xhtml#viewing_your_home_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-moving-to-another-page" nc:name="Beste Orri batera Mugitzen" nc:link="using_firebird.xhtml#moving_to_another_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-clicking-a-link" nc:name="Lotura bat Klikatzen" nc:link="using_firebird.xhtml#clicking_a_link"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-retracing-your-steps" nc:name="Pausuak Berregiten" nc:link="using_firebird.xhtml#retracing_your_steps"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-stopping-and-reloading" nc:name="Gelditzen eta Berritzen" nc:link="using_firebird.xhtml#stopping_and_reloading"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-tabbed-browsing" nc:name="Fitxen Bidezko Nabigazioa" nc:link="tabbed_browsing.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-sidebar" nc:name="Alboko-barra Erabiltzen" nc:link="using_firebird.xhtml#using_the_sidebar"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-searching">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="use-firebird-searching-the-web" nc:name="Sarean Bilatzen" nc:link="using_firebird.xhtml#searching_the_web"/> </rdf:li>
+        <rdf:li><rdf:Description
+        ID="use-firebird-searching-on-selected-words-in-a-web-page"
+        nc:name="Aukeratutako hitzak orrialde batean Bilatzen" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="use-firebird-searching-within-a-page" nc:name="Orri baten Barruan Bilatzen" nc:link="using_firebird.xhtml#searching_within_a_page"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-copying-saving-and-printing-pages">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-copying-part-of-a-page" nc:name="Orri baten zati bat Kopiatzen" nc:link="using_firebird.xhtml#copying_part_of_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-saving-all-or-part-of-a-page" nc:name="Orri bat Gordetzen" nc:link="using_firebird.xhtml#saving_all_or_part_of_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-printing-a-page" nc:name="Orri bat Inprimatzen" nc:link="using_firebird.xhtml#printing_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-using-print-preview" nc:name="Inprimatzeko Aurrebista Erabiltzen" nc:link="using_firebird.xhtml#using_print_preview" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-using-page-setup" nc:name="Orri Prestatzea Erabiltzen" nc:link="using_firebird.xhtml#using_page_setup"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-improving-speed-and-efficiency">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="using-firebird-managing-different-file-types" nc:name="Fitxategi-motak Antolatzen" nc:link="using_firebird.xhtml#managing_different_file_types"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-making-firebird-default-browser" nc:name="Nabigatzailea Lehenetsi" nc:link="using_firebird.xhtml#making_firebird_your_default_browser"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-cache-prefs-win" nc:name="Katxe Aukerak" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="win os2"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-cache-prefs-unix" nc:name="Katxe Ezarpenak" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="mac unix"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#customize-firebird">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="customize-toolbars" nc:name="Tresna-barrak" nc:link="customization.xhtml#toolbars"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="add-ons" nc:name="Gehigarriak" nc:link="customization.xhtml#add_ons"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+ <rdf:Description about="#customize-toolbars">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="customize-toolbar-rearrange" nc:name="Tresna-barrako elementuak birrordenatzen" nc:link="customization.xhtml#rearranging_toolbar_items"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="customize-toolbars-adding" nc:name="Tresna-barrak Gehitzen/Ezabatzen" nc:link="customization.xhtml#adding_removing_toolbars"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#add-ons">
+      <nc:subheadings>
+        <rdf:Seq>
+         <rdf:li> <rdf:Description ID="add-ons-installing"
+            nc:name="Gehigarriak Lortzen eta Instalatzen" nc:link="customization.xhtml#add_ons_installing"/> </rdf:li>
+         <rdf:li> <rdf:Description ID="add-ons-manager"
+         nc:name="Gehigarri Kudeatzailea Erabiltzen" nc:link="customization.xhtml#add_ons_manager"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#popup-blocker">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="popup-blocker-what-are-popups" nc:name="Zer dira Popup-ak?" nc:link="popup.xhtml#what_are_popups"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="popup-blocker-prefs-win" nc:name="Popup Blokeatzailearen Aukerak" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="win os2"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="popup-blocker-prefs-unix" nc:name="Popup Blokeatzailearen Hobespenak" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="unix mac"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#cookies">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="cookies-what-is-a-cookie" nc:name="Zer da Cookie bat?" nc:link="cookies.xhtml#what_is_a_cookie"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-setting-up-cookie-rules" nc:name="Cookien Arauak Ezartzen" nc:link="cookies.xhtml#setting_up_cookie_rules"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-all-the-settings" nc:name="Cookien Ezarpenak" nc:link="cookies.xhtml#all_the_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-accepting-and-blocking-cookies" nc:name="Cookieak Onartzen eta Blokeatzen" nc:link="cookies.xhtml#accepting_and_blocking_cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-exceptions" nc:name="Cookien Salbuespen Leihoa" nc:link="cookies.xhtml#cookies_exceptions"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-view" nc:name="Ikusi Cookieak Leihoa" nc:link="cookies.xhtml#view_cookies"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#tabbed-browsing">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-creating-loading-tabs" nc:name="Fitxak Sortzen eta Kargatzen" nc:link="tabbed_browsing.xhtml#creating_loading_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-moving-tabs" nc:name="Fitxak Leiho baten Barruan Mugitzen" nc:link="tabbed_browsing.xhtml#moving_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-closing-tabs"
+        nc:name="Fitxak Ixten eta Leheneratzen" nc:link="tabbed_browsing.xhtml#closing_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-customizing" nc:name="Fitxen bidezko Nabigazioa Pertsonalizatzen" nc:link="tabbed_browsing.xhtml#customizing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-tips-tricks" nc:name="Aholku eta Trukoak" nc:link="tabbed_browsing.xhtml#tips_tricks"/> </rdf:li>
+       </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-keyboard-navigation"
+        nc:name="Teklatua Erabiltzen" nc:link="accessibility.xhtml#using_a_keyboard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-mouse-navigation"
+        nc:name="Sagua Erabiltzen" nc:link="accessibility.xhtml#using_a_mouse"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-fonts-and-colors"
+        nc:name="Letra-tipoak eta Koloreak" nc:link="accessibility.xhtml#fonts_and_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-web-content" nc:name="Web Edukia Kontrolatzen" nc:link="accessibility.xhtml#controlling_web_content"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-compatibility"
+        nc:name="Laguntza Teknologiekin Bateragarritasuna" nc:link="accessibility.xhtml#compatibility_with_assistive_technologies"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-online" nc:name="Laguntza Sarean Bilatzen" nc:link="accessibility.xhtml#finding_help_online"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-keyboard-navigation">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-keyboard-shortcuts"
+        nc:name="Teklatuaren Laster-teklak" nc:link="accessibility.xhtml#keyboard_shortcuts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-caret-browsing"
+        nc:name="Beti erabili kurtsore teklak orrien zehar nabigatzeko" nc:link="accessibility.xhtml#allow_text_to_be_selected_with_the_keyboard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-typeahead-find"
+        nc:name="Testua bilatu idazten hasi bezain laster" nc:link="accessibility.xhtml#begin_finding_when_you_begin_typing"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-mouse-navigation">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-mouse-shortcuts"
+        nc:name="Oinarrizko Sagu Lasterbideak" nc:link="accessibility.xhtml#common_mouse_shortcuts"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-fonts-and-colors">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-override-fonts"
+        nc:name="Orriaren Letra-tipoarik Jaramonik Ez Egiten" nc:link="accessibility.xhtml#overriding_page_fonts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-minimum-font-size"
+        nc:name="Gutxienezko Letra Tamaina Ezartzen" nc:link="accessibility.xhtml#setting_a_minimum_font_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-text-zoom" nc:name="Testua Tamainaz Aldatzen" nc:link="accessibility.xhtml#resizing_page_text"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-override-colors"
+        nc:name="Orriaren Koloreei Jaramonik Ez Egiten" nc:link="accessibility.xhtml#overriding_page_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-high-contrast" nc:name="Kontraste Handiko Gai bat Erabiltzen" nc:link="accessibility.xhtml#using_a_high_contrast_theme" nc:platform="win unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-web-content">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-popup-windows" nc:name="Popup Leihoak Blokeatzen" nc:link="accessibility.xhtml#blocking_popup_windows"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-java" nc:name="Java Appletak Desgaitzen" nc:link="accessibility.xhtml#turning_off_java_applets"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-javascript"
+        nc:name="JavaScript Portaera Mugatzen" nc:link="accessibility.xhtml#restricting_javascript_behavior"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-firefox" nc:name="&brandShortName;" nc:link="menu_reference.xhtml#firefox" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file" nc:name="Fitxategia" nc:link="menu_reference.xhtml#file"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-edit" nc:name="Editatu" nc:link="menu_reference.xhtml#edit"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view" nc:name="Ikusi" nc:link="menu_reference.xhtml#view"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go" nc:name="Historia" nc:link="menu_reference.xhtml#go"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks" nc:name="Laster-markak" nc:link="menu_reference.xhtml#bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools" nc:name="Tresnak" nc:link="menu_reference.xhtml#tools"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window" nc:name="Leihoa" nc:link="menu_reference.xhtml#window" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help" nc:name="Laguntza" nc:link="menu_reference.xhtml#help"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-firefox">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-firefox-about" nc:name="&brandFullName;(r)i buruz" nc:link="menu_reference.xhtml#about_mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-firefox-preferences" nc:name="Hobespenak..." nc:link="menu_reference.xhtml#prefs_mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-firefox-quit" nc:name="&brandShortName;(e)tik Irten" nc:link="menu_reference.xhtml#quit_mac"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-file">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-file-new-window" nc:name="Leiho Berria" nc:link="menu_reference.xhtml#new_window"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-new-tab" nc:name="Fitxa Berria" nc:link="menu_reference.xhtml#new_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-open-location" nc:name="Ireki Kokalekua..." nc:link="menu_reference.xhtml#open_location"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-open-file" nc:name="Ireki Fitxategia..." nc:link="menu_reference.xhtml#open_file"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-close" nc:name="Leihoa Itxi" nc:link="menu_reference.xhtml#close"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-close-tab" nc:name="Fitxa Itxi" nc:link="menu_reference.xhtml#close_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-save-page-as" nc:name="Gorde Orria Honela..." nc:link="menu_reference.xhtml#save_page_as"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-send-page" nc:name="Bidali Orria..." nc:link="menu_reference.xhtml#send_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-page-setup" nc:name="Prestatu Orria..." nc:link="menu_reference.xhtml#page_setup"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-print-preview" nc:name="Inprimatzeko Aurrebista" nc:link="menu_reference.xhtml#print_preview" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-print" nc:name="Inprimatu..." nc:link="menu_reference.xhtml#print"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-import" nc:name="Inportatu..." nc:link="menu_reference.xhtml#import"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-work-offline" nc:name="Lan egin Lineaz Kanpo" nc:link="menu_reference.xhtml#work_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-exit-win" nc:name="Irten" nc:link="menu_reference.xhtml#exit" nc:platform="win os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-exit-unix" nc:name="Irten" nc:link="menu_reference.xhtml#exit" nc:platform="unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-edit">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-undo" nc:name="Desegin" nc:link="menu_reference.xhtml#undo"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-redo" nc:name="Berregin" nc:link="menu_reference.xhtml#redo"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-cut" nc:name="Ebaki" nc:link="menu_reference.xhtml#cut"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-copy" nc:name="Kopiatu" nc:link="menu_reference.xhtml#copy"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-paste" nc:name="Itsasi" nc:link="menu_reference.xhtml#paste"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-delete" nc:name="Ezabatu" nc:link="menu_reference.xhtml#delete"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-select-all" nc:name="Hautatu Dena" nc:link="menu_reference.xhtml#select_all"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-find-in-this-page" nc:name="Bilatu Orri Honetan..." nc:link="menu_reference.xhtml#find_in_this_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-find-again" nc:name="Bilatu Berriro" nc:link="menu_reference.xhtml#find_again"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-preferences" nc:name="Hobespenak" nc:link="menu_reference.xhtml#prefs" nc:platform="unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars" nc:name="Tresna-barrak" nc:link="menu_reference.xhtml#toolbars"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-status-bar" nc:name="Egoera-barra" nc:link="menu_reference.xhtml#status_bar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar" nc:name="Alboko-barra" nc:link="menu_reference.xhtml#sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-stop" nc:name="Gelditu" nc:link="menu_reference.xhtml#stop"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-reload" nc:name="Berritu" nc:link="menu_reference.xhtml#reload"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size" nc:name="Testuaren Tamaina" nc:link="menu_reference.xhtml#text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-style" nc:name="Orriaren Estiloa" nc:link="menu_reference.xhtml#page_style"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-character-encoding"
+        nc:name="Karaktere Kodeketa" nc:link="menu_reference.xhtml#character_encoding"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-source" nc:name="Orriaren Iturburua" nc:link="menu_reference.xhtml#page_source"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-full-screen" nc:name="Pantaila Osoan" nc:link="menu_reference.xhtml#full_screen"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-toolbars">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-navigation" nc:name="Nabigazio Tresna-barra" nc:link="menu_reference.xhtml#navigation_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-bookmarks" nc:name="Laster-marka Tresna-barra" nc:link="menu_reference.xhtml#bookmarks_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-customize" nc:name="Pertsonalizatu..." nc:link="menu_reference.xhtml#customize"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-sidebar">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar-bookmarks" nc:name="Laster-markak" nc:link="menu_reference.xhtml#view_sidebar_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar-history" nc:name="Historia" nc:link="menu_reference.xhtml#view_sidebar_history"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-text-size">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-increase" nc:name="Handitu" nc:link="menu_reference.xhtml#increase_text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-decrease" nc:name="Txikitu" nc:link="menu_reference.xhtml#decrease_text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-reset" nc:name="Normala" nc:link="menu_reference.xhtml#reset_text_size"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-page-style">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-page-style-no-style" nc:name="Estilorik Gabe" nc:link="menu_reference.xhtml#no_style"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-style-basic-page-style" nc:name="Oinarrizko Orrialde Estiloa" nc:link="menu_reference.xhtml#basic_page_style"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-go">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-go-back" nc:name="Atzera" nc:link="menu_reference.xhtml#back"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-forward" nc:name="Aurrera" nc:link="menu_reference.xhtml#forward"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-home" nc:name="Etxea"
+        nc:link="menu_reference.xhtml#home"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-closed-tabs"
+        nc:name="Azkenaldian Itxitako Fitxak" nc:link="menu_reference.xhtml#closed_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-history" nc:name="Alboko barran bistarazi" nc:link="menu_reference.xhtml#go_history"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-bookmarks">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-add-to-bookmarks"
+        nc:name="Laster-marka Egin..."
+        nc:link="menu_reference.xhtml#add_to_bookmarks"/> </rdf:li>
+	<rdf:li> <rdf:Description ID="menu-bookmarks-subscribe"
+	nc:name="Orrialde Honetara Harpidetu..."
+	nc:link="menu_reference.xhtml#subscribe"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-bookmark-all-tabs" nc:name="Fitxa Guztien Laster-marka Egin..." nc:link="menu_reference.xhtml#bookmark_all_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-manage" nc:name="Kudeatu Laster-markak..." nc:link="menu_reference.xhtml#manage_bookmarks"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-tools">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-tools-web-search" nc:name="Web Bilaketa" nc:link="menu_reference.xhtml#web_search"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-downloads" nc:name="Deskargak" nc:link="menu_reference.xhtml#downloads"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-add-ons" nc:name="Gehigarriak" nc:link="menu_reference.xhtml#add_ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-javascript-console" nc:name="Errore Kontsola" nc:link="menu_reference.xhtml#javascript_console"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-page-info" nc:name="Orriaren Informazioa" nc:link="menu_reference.xhtml#page_info"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-clear-private-data" nc:name="Datu Pribatuak Garbitu..." nc:link="menu_reference.xhtml#clear_private_data"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-options" nc:name="Aukerak" nc:link="menu_reference.xhtml#options" nc:platform="win os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-window">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-window-minimize" nc:name="Minimizatu" nc:link="menu_reference.xhtml#minimize"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window-zoom" nc:name="Zoom" nc:link="menu_reference.xhtml#zoom"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window-open-windows" nc:name="(Ireki Leihoak)" nc:link="menu_reference.xhtml#open-windows"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-help">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-help-help-contents"
+        nc:name="Laguntza Edukiak" nc:link="menu_reference.xhtml#help_contents" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-help-contents-mac" nc:name="&brandShortName; Laguntza" nc:link="menu_reference.xhtml#help_contents" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-for-ie-users" nc:name="Internet Explorer Erabiltzaileentzat" nc:link="menu_reference.xhtml#for_ie_users" nc:platform="win"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-relnotes" nc:name="Bertsio Oharrak" nc:link="menu_reference.xhtml#relnotes"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-report-broken-web-site" nc:name="Hondatutako Web Gunearen Berri Eman..." nc:link="menu_reference.xhtml#reporter"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-report-web-forgery" nc:name="Web Iruzurra Salatu..." nc:link="menu_reference.xhtml#web_forgery"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-check-for-updates" nc:name="Eguneraketak Bilatu..." nc:link="menu_reference.xhtml#check_for_updates"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-about-mozilla-firebird" nc:name="&brandFullName;(r)i Buruz" nc:link="menu_reference.xhtml#about_mozilla_firebird" nc:platform="win unix os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#ieusers">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="ieusers-firebird-ie-terminology-differences" nc:name="Ezberdintasun Terminologikoak" nc:link="forieusers.xhtml#firebird_and_internet_explorer_terminology_differences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-about-your-ie-settings" nc:name="IE-ko Gogokoei eta Ezarpenei buruz" nc:link="forieusers.xhtml#about_your_ie_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-firebirds-features" nc:name="&brandFullName;(r)en Ezaugarriak" nc:link="forieusers.xhtml#firebirds_features"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-keyboard-shortcuts" nc:name="Laster-teklak" nc:link="forieusers.xhtml#keyboard_shortcuts"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <!-- The following nodes are intentionally linkable but not displayable -->
+  <Description rdf:ID="prefs-languages" nc:name="Hizkuntzak" nc:link="prefs.xhtml#languages"/>
+  <Description rdf:ID="prefs-fonts-and-colors" nc:name="Letra-tipoak eta Koloreak" nc:link="prefs.xhtml#fonts_and_colors"/>
+  <Description rdf:ID="prefs-connection-settings" nc:name="Konexio Ezarpenak" nc:link="prefs.xhtml#connection_settings"/>
+
+
+  <!-- The following nodes are trees used multiple times in the hierarchy
+       (for platform-specific reasons).  To display one of these trees,
+       include an nc:subheadings element with an rdf:ID attribute set to
+       "#" plus the value of the rdf:ID for the appropriate tree within
+       the appropriate rdf:Description element. -->
+
+  <rdf:Seq rdf:ID="prefs-tree">
+    <li><Description ID="prefs-main" nc:name="Nagusia" nc:link="prefs.xhtml#main_options"/></li>
+    <li><Description ID="prefs-tabs" nc:name="Fitxak" nc:link="prefs.xhtml#tabs_options"/></li>
+    <li><Description ID="prefs-content" nc:name="Edukia" nc:link="prefs.xhtml#content_options"/></li>
+    <li><Description ID="prefs-feeds" nc:name="Jarioak" nc:link="prefs.xhtml#feeds_options"/></li>
+    <li><Description ID="prefs-privacy" nc:name="Pribatutasuna" nc:link="prefs.xhtml#privacy_options"/></li>
+    <li><Description ID="prefs-security" nc:name="Segurtasuna" nc:link="prefs.xhtml#security_options"/></li>
+    <li><Description ID="prefs-advanced" nc:name="Aurreratua" nc:link="prefs.xhtml#advanced_options"/></li>
+  </rdf:Seq>
+
+  <!-- The following are subnodes of trees used multiple times in the hierarchy. -->
+
+  <Description rdf:about="#prefs-main">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-startup" nc:name="Abiaraztean" nc:link="prefs.xhtml#startup"/></li>
+        <li><Description rdf:ID="prefs-downloads" nc:name="Deskargak" nc:link="prefs.xhtml#downloads"/></li>
+        <li><Description rdf:ID="prefs-system-defaults" nc:name="Balio Lehenetsiak" nc:link="prefs.xhtml#system_defaults"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-content">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-advanced-javascript"
+			 nc:name="Javascript Ezarpen Aurreratuak" nc:link="prefs.xhtml#advanced_javascript"/></li>
+        <li><Description rdf:ID="prefs-fonts-and-colors"
+			 nc:name="Letra-tipo eta Koloreak" nc:link="prefs.xhtml#fonts_and_colors"/></li>
+        <li><Description rdf:ID="prefs-file-types" nc:name="Fitxategi Motak" nc:link="prefs.xhtml#file_types"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-privacy">
+    <nc:subheadings>
+      <rdf:Seq>
+        <li><Description rdf:ID="prefs-privacy-history" nc:name="Historia" nc:link="prefs.xhtml#privacy_history"/></li>
+        <li><Description rdf:ID="prefs-privacy-cookies" nc:name="Cookie-ak" nc:link="prefs.xhtml#privacy_cookies"/></li>
+        <li><Description rdf:ID="prefs-clear-private-data"
+        nc:name="Datu Pribatuak" nc:link="prefs.xhtml#private_data"/></li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-security">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-passwords" nc:name="Pasahitzak" nc:link="prefs.xhtml#security_passwords"/></li>
+        <li><Description rdf:ID="prefs-warning-messages" nc:name="Ohar Mezuak" nc:link="prefs.xhtml#warning_messages"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-advanced">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-advanced-general" nc:name="Orokorra" nc:link="prefs.xhtml#advanced_general"/></li>
+        <li><Description rdf:ID="prefs-advanced-network" nc:name="Sarea" nc:link="prefs.xhtml#advanced_network"/></li>
+        <li><Description rdf:ID="prefs-advanced-update" nc:name="Eguneratu" nc:link="prefs.xhtml#advanced_update"/></li>
+        <li><Description rdf:ID="prefs-advanced-encryption" nc:name="Enkripzioa" nc:link="prefs.xhtml#advanced_encryption"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+
+</rdf:RDF>
+

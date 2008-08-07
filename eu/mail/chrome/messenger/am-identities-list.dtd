@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Kontu Honekin Lotutako Nortasunak">
+<!ENTITY identitiesListDesc.label "Nortasun Anitzak">
+<!ENTITY identitiesListAdd.label "Gehitu...">
+<!ENTITY identitiesListAdd.accesskey "G">
+<!ENTITY identitiesListEdit.label "Editatu...">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "Ezabatu">
+<!ENTITY identitiesListDelete.accesskey "Z">

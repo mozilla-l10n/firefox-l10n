@@ -1,0 +1,16 @@
+<!ENTITY brandMotto "Weba berriz aurkitu">
+<!ENTITY credit.thanks "Esker onak:">
+
+<!ENTITY credit.thanks2 "Mila esker gure">
+<!ENTITY credit.contributors2 "laguntzaileei">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Itzultzaileak</h3><ul><li>librezale.org</li></ul>">
+
+<!ENTITY credit.memory "Honen oroimen maitagarrian">
+<!ENTITY credit.poweredByGeckoReg "Gecko&trade;-z hornitua">

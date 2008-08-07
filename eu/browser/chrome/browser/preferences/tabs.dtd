@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label "Ireki orri berriak:">
+<!ENTITY inNewWindow.label "leiho berri batean">
+<!ENTITY inNewWindow.accesskey "h">
+<!ENTITY inNewTab.label "fitxa berri batean">
+<!ENTITY inNewTab.accesskey "t">
+
+<!ENTITY warnCloseMultipleTabs.label "Ohar nazazu fitxa anitz ixterakoan">
+<!ENTITY warnCloseMultipleTabs.accesskey "n">
+
+<!ENTITY warnOpenManyTabs.label "Ohar nazazu fitxa anitz irekitzean &brandShortName; moteldu baliteke">
+<!ENTITY warnOpenManyTabs.accesskey "i">
+
+<!ENTITY showTabBar.label "Erakutsi beti fitxa-barra">
+<!ENTITY showTabBar.accesskey "b">
+
+<!ENTITY switchToNewTabs.label "Aldatu fitxa berrira lotura bat fitxa berri batean irekitzean">
+<!ENTITY switchToNewTabs.accesskey "A">

@@ -1,0 +1,119 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "Irudi propietateak">
+
+<!ENTITY pixelsPopup.value "pixel">
+<!ENTITY percentPopup.value "ehunekoa">
+<!-- These are in the Location tab panel -->
+
+<!ENTITY locationEditField.label "Irudiaren helbidea:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "Idatzi irudiaren fitxategi-izena edo kokalekua">
+<!ENTITY title.label "Argibidea:">
+<!ENTITY title.accessKey "A">
+<!ENTITY title.tooltip "Html 'title' atributua erakutsiko da argibide bezala">
+<!ENTITY altText.label "Testu alternatiboa:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Idatzi irudiaren ordez ikusiko den testua">
+<!ENTITY noAltText.label "Ez erabili testu alternatiboa">
+<!ENTITY noAltText.accessKey "E">
+
+<!ENTITY previewBox.label "Irudiaren aurrebista">
+<!ENTITY MoreFewerButton.tooltip "Bistaratu editatzeko propietate gehiago edo gutxiago">
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
+<!ENTITY actualSize.label "Benetako tamaina:">
+<!ENTITY actualSizeRadio.label "Benetako tamaina">
+<!ENTITY actualSizeRadio.accessKey "B">
+<!ENTITY actualSizeRadio.tooltip "Itzuli irudiaren benetako tamainara">
+<!ENTITY customSizeRadio.label "Tamaina pertsonalizatua">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "Aldatu irudiaren tamaina orrian bistaratu bezala">
+<!ENTITY heightEditField.label "Altuera:">
+<!ENTITY heightEditField.accessKey "T">
+<!ENTITY widthEditField.label "Zabalera:">
+<!ENTITY widthEditField.accessKey "Z">
+<!ENTITY constrainCheckbox.label "Mantendu">
+<!ENTITY constrainCheckbox.accessKey "M">
+<!ENTITY constrainCheckbox.tooltip "Mantendu irudiaren itxuraren proportzioak">
+<!-- These controls are in the Image Map box of the expanded area -->
+
+<!ENTITY imagemapBox.label "Irudi-mapa">
+<!ENTITY removeImageMapButton.label "Ezabatu">
+<!ENTITY removeImageMapButton.accessKey "E">
+<!ENTITY editImageMapButton.label "Editatu...">
+<!ENTITY editImageMapButton.tooltip "Sortu elkargune klikagarriak irudi honentzat">
+<!-- These are the options for image alignment -->
+
+<!ENTITY alignment.label "Lerrokatu testua irudiarekin">
+<!ENTITY bottomPopup.value "Behean">
+<!ENTITY topPopup.value "Goian">
+<!ENTITY centerPopup.value "Erdialdean">
+<!ENTITY wrapRightPopup.value "Itzulbiratu eskuinean">
+<!ENTITY wrapLeftPopup.value "Itzulbiratu ezkerrean">
+<!-- These controls are in the Spacing Box -->
+
+<!ENTITY spacingBox.label "Tartea">
+<!ENTITY spacingBox.tooltip "Idatzi zenbaki bat, irudiaren inguruan agertuko den tartea zehazteko">
+<!ENTITY leftRightEditField.label "Ezkerrean eta eskuinean:">
+<!ENTITY leftRightEditField.accessKey "E">
+<!ENTITY topBottomEditField.label "Goian eta behean:">
+<!ENTITY topBottomEditField.accessKey "G">
+<!ENTITY borderEditField.label "Ertz solidoa:">
+<!ENTITY borderEditField.accessKey "E">
+<!-- These controls are in the Link Box -->
+
+<!ENTITY showImageLinkBorder.label "Lotutako irudiaren inguruan ertza erakutsi">
+<!ENTITY showImageLinkBorder.accessKey "E">
+<!-- These controls may be added some day; currently not used -->
+
+<!ENTITY makePageBackgroundCheckbox.label "Egin orriaren atzeko planoa">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Erabili irudia orriaren atzeko plano gisa">
+<!ENTITY editImageButton.label "Editatu irudia">
+<!ENTITY editImageButton.tooltip "Editatu irudiaren fitxategia beste programa batean">
+<!-- These tabs are currently used in the image input dialog -->
+
+<!ENTITY imageInputTab.label "Inprimakia">
+<!ENTITY imageLocationTab.label "Helbidea">
+<!ENTITY imageDimensionsTab.label "Neurriak">
+<!ENTITY imageAppearanceTab.label "Itxura">
+<!ENTITY imageLinkTab.label "Lotura">

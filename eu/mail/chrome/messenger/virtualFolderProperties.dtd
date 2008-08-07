@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "Gordetako bilaketa karpeta berria">
+<!ENTITY name.label "Izena:">
+<!ENTITY name.accesskey "I">
+<!ENTITY description.label "Azpikarpeta bat sortu:">
+<!ENTITY description.accesskey "A">
+
+<!ENTITY searchTermCaption.label "Karpeta birtual honetarako erabiliko den bilaketa irizpidea ezarri:">
+
+<!ENTITY folderSelectionCaption.label "Aukeratu zein karpetatan bilatu:">
+<!ENTITY chooseFoldersButton.label "Aukeratu...">
+<!ENTITY chooseFoldersButton.accesskey "k">
+
+<!ENTITY searchOnline.label "Linean bilatu (eguneratutako emaitzak ematen ditu IMAP eta Berrien karpetentzat baina karpeta irekitzeko denbora luzatzen du)">
+<!ENTITY searchOnline.accesskey "O">

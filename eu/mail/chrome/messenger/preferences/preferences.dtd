@@ -1,0 +1,14 @@
+
+<!ENTITY prefWindow.titleWin "Aukerak">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; aukerak">
+<!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY prefWindow.styleMac "width: 50em;">
+<!ENTITY prefWindow.styleGNOME "width: 42em; min-height: 38em;">
+
+<!ENTITY paneGeneral.title "Orokorra">
+<!ENTITY paneDisplay.title "Bistaratzea">
+<!ENTITY paneTags.title "Etiketak">
+<!ENTITY paneComposition.title "Mezu-prestatzea">
+<!ENTITY paneAttachments.title "Eranskinak">
+<!ENTITY panePrivacy.title "Pribatutasuna">
+<!ENTITY paneAdvanced.title "Aurreratua">

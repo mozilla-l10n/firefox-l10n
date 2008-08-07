@@ -1,0 +1,99 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label "Propietateak">
+
+<!ENTITY generalInfo.label "Argibide Orokorra">
+<!ENTITY folderCharsetTab.label "Karaktere-kodeketa Lehenetsia:">
+<!ENTITY folderCharsetTab.accesskey "K">
+<!ENTITY folderCharsetOverride.label "Aplikatu lehenetsitakoa karpetako mezu guztiei (banakako mezuen karaktere kodeketako ezarpenei eta detekzio automatikoari ezikusi egingo zaie)">
+<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderRebuildSummaryFile.label "Berreraiki">
+<!ENTITY folderRebuildSummaryFile.accesskey "B">
+<!ENTITY folderRebuildSummaryFileTip.label "Berreraiki Laburpen Fitxategia">
+     
+<!ENTITY retention.label "Gordetze Politika">
+<!ENTITY retentionUseDefault.label "Erabili zerbitzariak lehenetsitakoa">
+<!ENTITY retentionUseDefault.accesskey "l">
+<!ENTITY days.label "egun">
+<!ENTITY daysOld.label "egun">
+<!ENTITY message.label "mezu">
+<!ENTITY retentionCleanup.label "Disko lekua berreskuratzeko, mezu zaharrak betirako ezaba daitezke">
+<!ENTITY retentionKeepMsg.label "Ezabatu hau baino mezu zaharragoak:">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Mezurik ez ezabatu">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "Azken hauek izan ezik denak ezabatu:">
+<!ENTITY retentionKeepNew.accesskey "z">
+<!ENTITY retentionKeepUnread.label "Irakurritako mezuak beti ezabatu">
+<!ENTITY retentionKeepUnread.accesskey "r">
+
+<!ENTITY folderOfflineTab.label "Lineaz kanpo">
+<!ENTITY folderCheckForNewMessages.label "Karpeta honek mezu berriak dituen begiratu">
+<!ENTITY folderCheckForNewMessages.accesskey "B">
+
+<!ENTITY offlineFolder.check.label "Hautatu karpeta hau lineaz kanpo erabiltzeko">
+<!ENTITY offlineFolder.check.accesskey "H">
+<!ENTITY offlineFolder.button.label "Jaitsi Orain">
+<!ENTITY offlineFolder.button.accesskey "J">
+
+<!ENTITY selectofflineNewsgroup.check.label "Hautatu berri-talde hau lineaz kanpo erabiltzeko">
+<!ENTITY selectofflineNewsgroup.check.accesskey "l">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Erabili kontu-ezarpenetako lehenetsia ">
+<!ENTITY offlineNewsgroup.button.label "Jaitsi Orain">
+<!ENTITY offlineNewsgroup.button.accesskey "J">
+
+<!ENTITY folderProps.information.label "Informazioa:">
+<!ENTITY folderProps.name.label "Izena:">
+<!ENTITY folderProps.name.accesskey "I">
+<!ENTITY folderProps.location.label "Location:">
+<!ENTITY folderProps.location.accesskey "L">
+
+<!ENTITY folderSharingTab.label "Partekatzea">
+<!ENTITY privilegesDesc.label "Karpeta hau eta besteak sareko erabiltzaileekin konpartitu eta atzitze pribilegioak bistaratu eta ezarri">
+<!ENTITY privileges.button.label "Pribilegioak...">
+<!ENTITY privileges.button.accesskey "P">
+<!ENTITY permissionsDesc.label "Hurrengo baimenak dituzu:">
+<!ENTITY folderType.label "Karpeta Mota:">
+
+<!ENTITY folderQuotaTab.label "Kuota">
+<!ENTITY folderQuotaRoot.label "Kuota Erroa:">
+<!ENTITY folderQuotaUsage.label "Erabilera:">
+<!ENTITY folderQuotaStatus.label "Egoera:">

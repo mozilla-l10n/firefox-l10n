@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title "Inportazio Laguntzailea">
+
+<!ENTITY importFrom.label "Aukerak, Kontu ezarpenak, helbide-liburua eta beste datuak hemendik inportatu:">
+<!ENTITY importFromUnix.label "Hobespenak, Kontu ezarpenak, helbide-liburua eta beste datuak hemendik inportatu:">
+
+<!ENTITY importFromNothing.label "Ezer ez inportatu">
+<!ENTITY importFromNothing.accesskey "E">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOExpress.label "Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
+<!ENTITY importFromEudora.label "Eudora">
+<!ENTITY importFromEudora.accesskey "E">
+
+<!ENTITY importSource.title "Ezarpenak eta Posta karpetak hemendik inportatu">
+<!ENTITY importItems.title "Inportatzeko gaiak">
+<!ENTITY importItems.label "Hautatu inportatzeko gaiak:">
+
+<!ENTITY migrating.title "Inportatzen...">
+<!ENTITY migrating.label "Ondorengo gaiak ari dira inportatzen...">
+
+<!ENTITY selectProfile.title "Soslaia hautatu">
+<!ENTITY selectProfile.label "Ondorengo soslaiak inporta daitezke:">
+
+<!ENTITY done.title "Inportazioa Burutua">
+<!ENTITY done.label "Ondorengo gaiak arrakastarekin inportatu dira:">

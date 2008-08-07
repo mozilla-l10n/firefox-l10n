@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML Mezuari buruzko Galdera">
+
+<!ENTITY recipient.label "Hartzaile batzuk ez daude HTML posta jasotzeko gai gisa adierazita zerrendan.">
+
+<!ENTITY question.label "Mezua testu arrunt bihurtu nahi duzu, edo HTML gisa bidali hala ere?">
+
+<!ENTITY plainTextAndHtml.label "Bidali Testu Arrunt eta HTML gisa">
+<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextOnly.label "Bidali Testu Arrunt gisa Soilik">
+<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY htmlOnly.label "Bidali HTML gisa Soilik">
+<!ENTITY htmlOnly.accesskey "H">
+
+<!ENTITY send.label "Bidali">
+<!ENTITY send.accesskey "S">
