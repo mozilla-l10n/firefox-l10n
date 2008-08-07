@@ -1,0 +1,20 @@
+<!-- extracted from content/pref-scripts.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
+<!ENTITY pref.scripts.title              "სკრიპტები და მოდულები">
+
+<!ENTITY navigator.label                 "ნავიგატორი">
+<!ENTITY navigator.accesskey             "N">
+
+<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
+<!ENTITY enableJavaScript.label          "JavaScript-ის გააქტივება">
+<!ENTITY allowScripts.label              "სცენარების ნებადართვა:">
+<!ENTITY allowScripts.accesskey          "s">
+<!ENTITY allowWindowMoveResize.label     "ფანჯრების გადატანა ან ზომის შეცვლა">
+<!ENTITY allowWindowFlip.label           "ფანჯრების აწევ-დაწევა">
+<!ENTITY allowWindowStatusChange.label   "სტატუსის პანელის ტექსტის შეცვლა">
+<!ENTITY allowWindowImageSrcChange.label "ნახატების შეცვლა">
+<!ENTITY allowContextmenuDisable.label   "კონტექსტური მენიუს გამორთვა ან შეცვლა">
+<!ENTITY allowHideStatusBar.label        "სტატუსის პანელის დამალვა">
+
+<!ENTITY enablePlugin.label              "მოდულების გააქტივება">

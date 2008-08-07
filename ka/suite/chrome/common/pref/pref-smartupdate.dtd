@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+<!ENTITY pref.smartUpdate.title               "პროგრამების ჩადგმა">
+<!ENTITY smartTitle.label                     "პროგრამების ჩადგმისა და განახლების მართვა">
+<!ENTITY enableSU.label                       "ვებსაიტებისთვის პაკეტებისა და განახლებების ჩადგმის ნებართვა.">
+<!ENTITY enableSU.accesskey                   "e">
+<!ENTITY allowedSites.label                   "დაშვებული საიტები">
+<!ENTITY allowedSites.accesskey               "A">
+
+<!ENTITY autoUpdates.label                    "თვითშემოწმება განახლებაზე:">
+<!ENTITY appUpdates.label                     "&brandShortName;">
+<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY daily.label                          "ყოველდღე">
+<!ENTITY appDaily.accesskey                   "d">
+<!ENTITY weekly.label                         "ყოველკვირეულად">
+<!ENTITY appWeekly.accesskey                  "w">
+<!ENTITY extensionsUpdates.label              "ჩადგმული მოდულები">
+<!ENTITY extensionsUpdates.accesskey          "n">
+<!ENTITY extensionsDaily.accesskey            "i">
+<!ENTITY extensionsWeekly.accesskey           "k">
+<!ENTITY appUpdatesDisabled.desc              "&brandShortName; პროგრამის თვითგანახლება ამჟამად ვერ მოხერხდება. ამ შესაძლებლობის რეალიზება შემდეგი ვერსიისთვისაა გათვალისწინებული.">
+<!ENTITY addonManagerButton.label             "მოდულების მმართველი">
+<!ENTITY addonManagerButton.accesskey         "M">

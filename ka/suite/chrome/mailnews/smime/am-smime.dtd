@@ -1,0 +1,23 @@
+<!ENTITY securityTitle.label "უსაფრთხოება">
+<!ENTITY securityHeading.label "ხელმოწერილი ან დაშიფრული წერილების გასაგზავნად და მისაღებად უნდა მიეთითოს ორივე, ციფრული ხელმოწერისა და დაშიფვრის სერთიფიკატი.">
+<!ENTITY encryptionGroupTitle.label "დაშიფვრა">
+<!ENTITY encryptionChoiceLabel.label "დაშიფვრის ძირითადი პარამეტრები წერილების გაგზავნისას:">
+<!ENTITY neverEncrypt.label "არასოდეს (დაუშიფრავად)">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label "ყოველთვის (არ გაიგზავნება თუ ყველა ადრესატს არ გააჩნია სერთიფიკატი)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert.message "ამ სერტთიფიკატის გამოყენება გამოგზავნილი წერილების დასაშიფრად და გასაშიფრად:">
+<!ENTITY encryptionCert.notselected "სერთიფიკატი არ მითითებულა">
+<!ENTITY digitalSign.certificate.button "არჩევა...">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "გასუფთავება">
+<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY encryption.certificate.button "არჩევა...">
+<!ENTITY encryption.certificate.accesskey "e">
+<!ENTITY encryption.certificate_clear.button "გასუფთავება">
+<!ENTITY encryption.certificate_clear.accesskey "r">
+<!ENTITY signingGroupTitle.label "ციფრული ხელმოწერა">
+<!ENTITY signMessage.label "ციფრული ხელმოწერილი წერილები (ნაგულისხმები)">
+<!ENTITY signMessage.accesskey "D">
+<!ENTITY signingCert.message "ამ სერთიფიკატის გასაგზავნი წერილების ხელმოსაწერად გამოყენება:">
+<!ENTITY signingCert.notselected "სერთიფიკატი არ მითითებულა">

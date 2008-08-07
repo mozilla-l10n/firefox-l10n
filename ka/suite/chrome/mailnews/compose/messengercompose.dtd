@@ -1,0 +1,225 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Compose: (no subject)">
+
+<!ENTITY fromAddr.label "ვინ:">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY subject.label  "თემა:">
+<!ENTITY subject.accesskey "S">
+<!ENTITY attachments.label "ჩანართები:">
+<!ENTITY attachments.accesskey "c">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY newMessage.label "წერილი">  
+<!ENTITY newMessage.accesskey "M">  
+<!ENTITY saveCmd.label "ჩაწერა">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveAsCmd.label "ჩაწერა როგორც">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsFileCmd.label "ფაილი...">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "ესკიზი">
+<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsTemplateCmd.label "შაბლონი">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY attachMenu.label "მიმაგრება">
+<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachFileCmd.label "ფაილ(ებ)ი...">
+<!ENTITY attachFileCmd.key "">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "ვებგვერდი...">
+<!ENTITY attachPageCmd.accesskey "W">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "სავიზიტო ბარათი (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY sendNowCmd.label "გაგზავნა ახლავე">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "გაგზავნა მოგვიანებით">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "გვერდის პარამეტრები...">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printCmd.label "ბეჭდვა...">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY closeCmd.label "დახურვა">
+
+<!-- Edit menu items -->
+<!ENTITY editRewrapCmd.label "გადაფორმატება">
+<!ENTITY editRewrapCmd.accesskey  "w">
+<!ENTITY findCmd.label "ძებნა და შეცვლა...">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "კვლავძიება">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "წინას პოვნა">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY accountManagerCmd.label "ფოსტა და ჯგუფების ანგარიშის პარამეტრები...">
+<!ENTITY accountManagerCmd.accesskey "m">
+
+<!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "ფოსტის პულტი">
+<!ENTITY showComposeToolbarCmd.accesskey "o">
+<!ENTITY showFormatToolbarCmd.label "ფორმატირების პულტი">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showParagraphMarksCmd.label ".პარაგრაფის ნიშნის ჩვენება">
+<!ENTITY pageSourceCmd.label ".გვერდის წყარო">
+<!ENTITY pageSourceCmd.accesskey "u">
+<!ENTITY pageInfoCmd.label ".ინფორმაცია">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY dcharMenu.label "ენები - კოდირება">
+<!ENTITY dcharIso1Cmd.label "დასავლური (ISO-8859-1)">
+<!ENTITY dcharIso2Cmd.label "ცენტრალურ ევროპული (ISO-8859-2)">
+<!ENTITY dcharIso3Cmd.label "სამხრეთ ევროპული (ISO-8859-3)">
+<!ENTITY dcharIso4Cmd.label "ბალტიური (ISO-8859-4)">
+<!ENTITY dcharIso9Cmd.label "თურქული (ISO-8859-9)">
+<!ENTITY dcharIso10Cmd.label "სკანდინავური (ISO-8859-10)">
+<!ENTITY dcharIso14Cmd.label "კელტური (ISO-8859-14)">
+<!ENTITY dcharIso15Cmd.label "დასავლური (ISO-8859-15)">
+<!ENTITY dcharJapanCmd.label "იაპონური (ISO-2022-JP)">
+<!ENTITY dcharTradChiBigCmd.label "ჩინური ტრადიციული (Big5)">
+<!ENTITY dcharSimpChiGbCmd.label "ჩინური გამარტივებული (GB2312)">
+<!ENTITY dcharKoreanCmd.label "კორეული (EUC-KR)">
+<!ENTITY dcharUtf8Cmd.label "უნიკოდი (UTF-8)">
+<!ENTITY dcharRusCmd.label "კირილიცა (KOI8-R)">
+<!ENTITY dcharUkrCmd.label "კირილიცა/უკრაინული (KOI8-U)">
+<!ENTITY dcharIsoGreekCmd.label "ბერძნული (ISO-8859-7)">
+<!ENTITY dcharVietViCmd.label "ვიეტნამური (VISCII)">
+<!ENTITY dcharGeoCmd.label "ქართული (GEOSTD8)">
+<!ENTITY dcharThaiCmd.label "ტაილანდური (TIS-620)">
+<!ENTITY dcharArmCmd.label "სომხური (ARMSCII-8)">
+<!ENTITY dcharDEFAULT.label "ძირითადი კოდირება გასაგზავნი წერილებისთვის">
+
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "ფორმატი">
+<!ENTITY formatMenu.accesskey "o">
+
+<!-- Options menu items -->
+<!ENTITY optionsMenu.label "ოპციები">
+<!ENTITY optionsMenu.accesskey "p">
+
+<!ENTITY doNotCompleteAddrCmd.label ".ავტოშევსების ამორთვა">
+<!ENTITY showMatchingAddrCmd.label ".სადარი მისამართების ჩვენება">
+
+<!ENTITY addSignatureCmd.label ".ხელმოწერის ფაილის დამატება">
+
+<!ENTITY quoteCmd.label "წერილის ციტირება">
+<!ENTITY quoteCmd.accesskey "Q">
+<!ENTITY selectAddressCmd.label "მისამართების არჩევა...">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "A">
+
+<!ENTITY checkSpellingCmd.label "მართლწერის შემოწმება...">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "მართლწერის ტექსტის შეტანისას შემოწმება">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+
+<!ENTITY priorityMenu.label "პრიორიტეტი">
+<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY lowestPriorityCmd.label "უდაბლესი">
+<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowPriorityCmd.label "დაბალი">
+<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY normalPriorityCmd.label "ჩვეულებრივი">
+<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY highPriorityCmd.label "მაღალი">
+<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highestPriorityCmd.label "უმაღლესი">
+<!ENTITY highestPriorityCmd.accesskey "H">
+
+<!ENTITY returnReceiptMenu.label "მიღების დასტური">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY outputFormatMenu.label "ფორმატი">
+<!ENTITY outputFormatMenu.accesskey  "f">
+<!ENTITY autoFormatCmd.label "ავტოდეტექცია">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "მხოლოდ ტექსტი">
+<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY htmlFormatCmd.label "მხოლოდ ჰიპერტექსტი (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "ტექსტი და ჰიპერტექსტი (HTML)">
+<!ENTITY bothFormatCmd.accesskey "l">
+
+<!ENTITY UuencodeAttachmentCmd.label "ჩანართებისათვის Uuencode-ს გამოყენება MIME-ის ნაცვლად">
+
+
+<!ENTITY fileCarbonCopyCmd.label "ასლის გადაგზავნა">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "შენახვის ადგილი">
+
+<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
+<!-- Debug Menu, imported from editorAppShell.dtd -->
+<!ENTITY debugMenu.label "გამართვა">
+<!ENTITY outputTextCmd.label "გამოსავალი ტექსტი">
+<!ENTITY outputHTMLCmd.label "გამოსავალი HTML">
+<!ENTITY insertTextCmd.label "ტექსტის ჩამატება">
+<!ENTITY testSelectionCmd.label "მონიშნულის ტესტირება">
+<!ENTITY testTableLayoutCmd.label "ცხრილის განთავსების ტესტირება">
+<!ENTITY testDocumentCmd.label "დოკუმენტის ტესტირება">
+<!ENTITY showEmbeddedCmd.label "ჩადგმული ობიექტების ჩვენება">
+<!ENTITY dumpContentCmd.label "შიგთავსის ჩვენება">
+<!ENTITY runUnitTestsCmd.label "ბლოკების ტესტირება">
+<!ENTITY startLogCmd.label "შესვლის დაწყება">
+<!ENTITY stopLogCmd.label "შესვლის შეჩერება">
+<!ENTITY runLogCmd.label "შესვლა">
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!-- Toolbar items -->
+<!ENTITY sendButton.label "გაგზავნა">
+<!ENTITY quoteButton.label "ციტირება">
+<!ENTITY addressButton.label "მისამართი">
+<!ENTITY attachButton.label "მიმაგრება">
+<!ENTITY spellingButton.label "მართლწერა">
+<!ENTITY saveButton.label "ჩაწერა">
+<!ENTITY stopButton.label "შეჩერება">
+
+<!--tooltips-->
+<!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+<!ENTITY addressBar.tooltip "მისამართების პანელი">
+<!ENTITY formatToolbar.tooltip "ფორმატირების პულტი">
+<!ENTITY sendButton.tooltip "წერილის დაუყოვნებლივ გაგზავნა"> 
+<!ENTITY sendlaterButton.tooltip "წერილის მოგვიანებით გაგზავნა"> 
+<!ENTITY quoteButton.tooltip "საწყისი წერილის ციტირება"> 
+<!ENTITY addressButton.tooltip "ადრესატის არჩევა წიგნაკიდან"> 
+<!ENTITY attachButton.tooltip "წერილში ფაილის ჩართვა"> 
+<!ENTITY saveButton.tooltip "წერილის შენახვა"> 
+<!ENTITY stopButton.tooltip "მიმდინარე დაგზავნის შეჩერება"> 
+
+<!-- Toolbar items, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+
+<!-- context menu items -->
+<!ENTITY spellCheckNoSuggestions.label "(შემოთავაზება ვერ მოიძებნა)">
+<!ENTITY spellCheckIgnoreWord.label "სიტყვის გამოტოვება">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "ლექსიკონში ჩამატება">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "უკან">
+<!ENTITY undo.accesskey "U">
+<!ENTITY cut.label "ამოჭრა">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "კოპირება">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "ჩასმა">
+<!ENTITY paste.accesskey "P">
+<!ENTITY pasteQuote.label "ჩასმა ციტირებით">
+<!ENTITY pasteQuote.accesskey "Q">
+<!ENTITY delete.label "წაშლა">
+<!ENTITY delete.accesskey "D">
+<!ENTITY selectAll.label "სრული მონიშვნა">
+<!ENTITY selectAll.accesskey "A">
+<!ENTITY attachFile.label "ფაილ(ებ)ის მიმაგრება...">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "ვებგვერდი მიმაგრება...">
+<!ENTITY attachPage.accesskey "W">

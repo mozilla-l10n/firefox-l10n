@@ -1,0 +1,10 @@
+
+<!ENTITY pref.locales.title              "მომხმარებლის გარემოს ენა">
+<!ENTITY languageIntro.label             "ქვემოთ მოყვანილი სიიდან შეგიძლიათ შეარჩიოთ ენა, რომლითაც გსურთ აგამოჩნდეს ტექსტი, დიალოგური სარკმლები, მენიუები, პულტები და ღილაკთა წარწერები.">
+<!ENTITY restartOnLangChange.label       "ენის პარამეტრები გააქტივდება &brandShortName; ახალ სეანსზე.">
+<!ENTITY installedLanguagePacks.label    "ჩადგმული ენები:">
+<!ENTITY downloadLanguagePacks.label     "მეტის ჩამოტვირთვა...">
+<!ENTITY downloadLanguagePacks.accesskey "D">
+<!ENTITY update.label                    "(საჭიროებს განახლებას)">
+<!ENTITY uninstallLanguagePack.accesskey "U">
+<!ENTITY uninstallLanguagePack.label     "ამოღება">

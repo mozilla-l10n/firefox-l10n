@@ -1,0 +1,28 @@
+<!ENTITY  pref.editing.title        "ახალი გვერდის პარამეტრები">
+
+<!ENTITY  authorName.label          "ავტორი:">
+<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  pageColorHeader           "გვერდის ძირითადი იერსახე">
+
+<!ENTITY defaultColorsRadio.label   "ძირითადი საკითხავი ფერები (გვერდის ფერები არ მიეთითება)">
+<!ENTITY defaultColors.accesskey    "d">
+<!ENTITY customColorsRadio.label    "თქვენი ფერების გამოყენება:">
+<!ENTITY customColors.accesskey     "c">
+
+<!ENTITY normalText.label           "ჩვეულებრივი ტექსტი">
+<!ENTITY normalText.accesskey       "N">
+<!ENTITY linkText.label             "ბმის ტექსტი">
+<!ENTITY linkText.accesskey         "L">
+<!ENTITY activeLinkText.label       "აქტიური ბმის ტექსტი">
+<!ENTITY activeLinkText.accesskey   "A">
+<!ENTITY visitedLinkText.label      "გამოყენებული ბმის ტექსტი">
+<!ENTITY visitedLinkText.accesskey  "V">
+<!ENTITY background.label           "ფონი:">
+<!ENTITY background.accesskey       "B">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "ფონის ნახატი:">
+<!ENTITY backgroundImage.accesskey  "m">
+<!ENTITY chooseFile.label           "ფაილის არჩევა...">
+<!ENTITY chooseFile.accesskey       "o">
+

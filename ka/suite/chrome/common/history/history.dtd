@@ -1,0 +1,35 @@
+<!-- extracted from ./history.xul -->
+
+<!ENTITY menuBar.tooltip            "მენიუს პანელი">
+<!ENTITY fileMenu.label             "ფაილი">
+<!ENTITY closeCmd.label             "დახურვა">
+<!ENTITY editMenu.label             "რედაქტირება"> 
+<!ENTITY undoCmd.label              "დაბრუნება">
+<!ENTITY redoCmd.label              "გამეორება">
+<!ENTITY cutCmd.label               "ამოჭრა">
+<!ENTITY copyCmd.label              "კოპირება">
+<!ENTITY pasteCmd.label             "ჩასმა">
+<!ENTITY deleteCmd.label            "წაშლა">
+<!ENTITY deleteHostnameCmd.accesskey "H">
+<!ENTITY deleteDomainCmd.accesskey  "s">
+<!ENTITY selAllCmd.label            "სრული მონიშვნა">
+<!ENTITY findHisCmd.label           "ძიება ისტორიაში...">
+<!ENTITY findHisCmd.commandkey      "f">
+<!ENTITY findHisCmd.accesskey       "S">
+<!ENTITY groupBy.label              "დაჯგუფება">
+<!ENTITY groupBy.accesskey          "G">
+<!ENTITY groupByDay.label           "დღე">
+<!ENTITY groupByDay.accesskey       "D">
+<!ENTITY groupBySite.label          "საიტი">
+<!ENTITY groupBySite.accesskey      "S">
+<!ENTITY groupByNone.label          "არა">
+<!ENTITY groupByNone.accesskey      "N">
+<!ENTITY historyWindowTitle.label   "ისტორია">
+<!ENTITY menuitem.view.unsorted.label "უწესრიგოდ">
+<!ENTITY menuitem.view.unsorted.accesskey "u">
+<!ENTITY sortAscending.label         "აღმავალი">
+<!ENTITY sortAscending.accesskey     "A">
+<!ENTITY sortDescending.label        "დაღმავალი">
+<!ENTITY sortDescending.accesskey    "D">
+<!ENTITY menuitem.view.show_columns.label "სვეტების ჩვენება">
+<!ENTITY menuitem.view.show_columns.accesskey "S">

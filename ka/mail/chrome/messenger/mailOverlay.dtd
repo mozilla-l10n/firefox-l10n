@@ -1,0 +1,8 @@
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "წერილი">
+<!ENTITY  newMessageCmd.accesskey         "m">
+ 
+<!ENTITY  newCardCmd.label                "წიგნაკის ბარათი…">
+<!ENTITY  newCardCmd.accesskey            "c">
+ 

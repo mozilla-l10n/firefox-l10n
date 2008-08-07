@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "დისკზე ადგილის ეკონომიისთვის არ გადმოწერო:">
+<!ENTITY doNotDownload.label "დისკზე ადგილის ეკონომიისთვის ავტონომიური რეჟიმისთვის არ გადმოწერო:">
+<!ENTITY offlineNewFolder.label "ახალი დასტების შექმნისას მათი ავტონომიურ რეჟიმში სამუშაოდ გამოყენება">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "წერილები რომელთა ზომა მეტია">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB-ზე">
+<!ENTITY days.label "დღეს">
+<!ENTITY daysOld.label "დღის წინა">
+<!ENTITY message.label "წერილები">
+<!ENTITY nntpNotDownloadRead.label "წაკითხული წერილები">
+<!ENTITY nntpNotDownloadRead.accesskey "R">
+<!ENTITY nntpDownloadMsg.label "წერილები, რომელთა ასაკი გადასცდა">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "დისკზე ადგილის გასათავისუფლებლად შეიძლება ძველი წერილების რეგულარულად წაშლა">
+<!ENTITY retentionKeepMsg.label "წერილთა წაშლა რომელთ ასაკი მეტია ვიდრე">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "ყველა წერილის შენარჩუნება">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "ყველას წაშლა უახლესების გარდა">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "წაკითხული წერილების ყოველთვის წაშლა">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "წერილების წაშლა რომელთა ზომა ნაკლებია ვიდრე">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "ჯგუფების შერჩევა ავტონომიური რეჟიმისთვის...">
+<!ENTITY offlineSelectImap.label "დასტების შერჩევა ავტონომიური რეჟიმისთვის...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "თქვენ შეგიძლიათ ადგილობრივად გადმოწეროთ წერილები და მათთან ავტონომიურ რეჟიმში იმუშავოთ.">
+<!ENTITY makeInboxMsgsAvailable.label "დასტის &quot;შემოსული&quot; წერილების მითითება ავტონომიური მოხმარებისათვის">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "ავტონომიური რეჟიმი">
+<!ENTITY diskspaceGroupTitle.label "ადგილი დისკზე">

@@ -1,0 +1,30 @@
+<!-- extracted from content/pref-smart_browsing.xul -->
+
+<!--LOCALIZATION NOTE : FILE The SmartBrowsing prefs dialog -->
+<!ENTITY pref.smartBrowsing.title              "სხარტი მიმოხილვა">
+
+<!--LOCALIZATION NOTE (internetKeywordsHeader.label): DONT_TRANSLATE -->
+<!ENTITY internetKeywordsHeader.label          "ინტერნეტის სიტყვა-გასაღებები">
+<!ENTITY internetKeywordsDescription.label     "ინტერნეტის საკვანძო სიტყვები საშუალებას მოგცემთ სწრაფად გადახვიდეთ საძიებო და სხვა საინფორმაციო მომსახურების კვანძებზე.">
+<!ENTITY moreInformation.label                 "დამატებითი ინფორმაცია...">
+<!ENTITY moreInformation.accesskey             "M">
+<!--LOCALIZATION NOTE (enableKeyCheck.label): Do not translate 'Internet Keywords' -->
+<!ENTITY keywordsEnabled.label                 "ინტერნეტის საკვანძო სიტყვების გააქტივება">
+<!ENTITY keywordsEnabled.accesskey             "K">
+
+<!ENTITY autoCompleteHeader.label              "მისამართის ავტოშევსება">
+<!ENTITY autoCompleteEnabled.label             "მისამართის პანელზე შეტანილი ტექსტის ავტოშევსება">
+<!ENTITY autoCompleteEnabled.accesskey         "L">
+
+<!ENTITY autoCompleteAdvanced.label            "დეტალური...">
+<!ENTITY autoCompleteAdvanced.accesskey        "A">
+<!ENTITY autoCompleteAdvanced.title            "ავტოშევსების პარამეტრები">
+<!ENTITY autoCompleteAutoFill.label            "ტექსტის შეტანისას ავტოშევსება საუკეთესო შესაბამისით">
+<!ENTITY autoCompleteShowPopup.label           "შესაბამობების ჩვენება">
+<!ENTITY autoCompleteShowSearch.label          "საძიებო სისტემის ჩვენება">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "შესაბამობა მხოლოდ ადრე მითითებულ ვებსაიტებთან">
+<!ENTITY autocompletePreview.label             "ესკიზი">
+
+<!ENTITY domainGuessingHeader.label            "დომენის გამოცნობა">
+<!ENTITY domainGuessingEnabled.label           "თუ გვერდი ვერ მოიძებნა მისამართისთვის &quot;www.&quot;-სა და &quot;.com&quot;-ის ავტომატური დამატება.">
+<!ENTITY domainGuessingEnabled.accesskey       "u">

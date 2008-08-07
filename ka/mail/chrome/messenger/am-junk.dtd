@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "ჯართის პარამეტრები">
+<!ENTITY trainingWarning.label "თუ ჩართულია, ჯერ &brandShortName; უნდა გაავრჯიშოთ კჯართის მითითებით ჯართის პულტის ღილაკის საშუალებით. უნდ ამიუთითოთ ორივე, ჯარათისა და არა ჯართის წერილები.">
+<!ENTITY level.label "ჯართის მოქნილი კონტროლის ჩართვა ამ ანგარიშისთვის">
+<!ENTITY level.accesskey "E">
+
+<!ENTITY move.label "ჯართის წერილების გადატანა:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "&quot;ჯართის&quot; დასტაში აქ:">
+<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY otherFolder.label "სხვაგან:">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "ჯართის ავტომატური წაშლა ასაკით">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "დღე">
+
+<!ENTITY whitelist.label "წერილის ჯართად არ მონიშვნა თუ გამომგზავნი აქაა: ">
+<!ENTITY whitelist.accesskey "D">
+
+<!ENTITY ispHeaders.label "ჯართის თავსართების ნდობა თუ მითითებულია: ">
+<!ENTITY ispHeaders.accesskey "T">

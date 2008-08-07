@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title       "ავტონომიური რეჟიმის პარამეტრები">
+
+<!ENTITY textStartUp   "სეანსის დაწყებისას:">
+<!ENTITY radioRememberPrevState.label "კავშირის წინა სტატუსის აღდგენა">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe.label "დამეკითხე კავშირის რეჟიმს">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline.label "ყოველთვის კავშირის რეჟიმით დაწყება">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "გაიგზავნოს გასაგზავნი წერილები კავშირის რეჟიმში შესვლისას?">
+<!ENTITY radioAutoSend.label "დიახ">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend.label "არა">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent.label "დამეკითხე">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "ჩამოიტვირთოს წერილები ავტონომიურ რეჟიმში გადასვლისას?">
+<!ENTITY radioAutoDownload.label "დიახ">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload.label "არა">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload.label "დამეკითხე">
+<!ENTITY radioAskDownload.accesskey "a">

@@ -1,0 +1,63 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla application suite mailnews start page.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser.
+   - Portions created by the Initial Developer are Copyright (C) 2004
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY startpage.title "მოგესალმებათ &brandShortName;-ს საფოსტო და ჯგუფების პროგრამაში">
+<!ENTITY headline.label
+'მოგესალმებათ <a href="&vendorURL;">&brandShortName;-ს</a> საფოსტო და ჯგუფების პროგრამაში!'>
+<!ENTITY description.label
+"&brandShortName; ამავე დროს ღია კოდების ძლიერი საფოსტო და ჯგუფების კლიენტი პროგრამაა,
+რომელსაც უსარგებლო წერილების ამოცნობისა და სხვა უამრავი შესაძლებლობა გააჩნია.">
+<!ENTITY features.title "შესაძლებლობები">
+<!ENTITY feat_multiacc.label "მრავალი ანგარიშის მხარდაჭერა">
+<!ENTITY feat_junk.label "ჯართის ამოცნობა">
+<!ENTITY feat_filters.label "წერილების ფილტრები">
+<!ENTITY feat_htmlmsg.label "HTML წერილების მხარდაჭერა">
+<!ENTITY feat_abook.label "მისამართების წიგნაკი">
+<!ENTITY feat_labels.label "წერილებისა და იარლიყების ჩვენების მორგება">
+<!ENTITY feat_integration.label
+"მჭიდრო ინტეგრაცია &brandShortName;-ს სხვა პროგრამებთან">
+<!ENTITY dict.title "ლექსიკონები">
+<!ENTITY dict_intro.label "ლექსიკონები გამოიყენება თქვენი წერილების მართლწერის შესამოწმებლად.">
+<!ENTITY dict_info.label
+'ბევრი სხვა დამატებითი ენა შეიძლება ჩაიდგას
+<a href="https://addons.mozilla.org/search.php?cat=68&amp;app=seamonkey&amp;type=E/">ლექსიკონების</a> 
+სექციიდან <a href="http://addons.mozilla.org/">Mozilla მოდულების</a>. გვერდიდან'>
+<!ENTITY info.title "დამატებითი ინფორმაცია">
+<!ENTITY info_bugs.label
+'<a href="http://www.mozilla.org/mailnews/">ჩვენ</a> მივესალმებით თქვენს გამოგზავნილ
+შეცდომის პატაკებს და მოთხოვნებს, გადაიკითხეთ <a href="&releaseURL;">ინფორმაცია</a> და მოთხოვნა
+ჯერ <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla-ში</a> გამოაგზავნეთ.'>

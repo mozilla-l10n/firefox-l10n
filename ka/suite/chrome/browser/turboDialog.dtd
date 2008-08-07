@@ -1,0 +1,4 @@
+<!ENTITY            exitWarningMsg.label   "სწრაფი ჩატვირთვა ჩართულია, ამგვარად &brandShortName; მეხსიერებაში დარჩება დაუყოვნებლივ გამოსაძახებლად. პროგრამის სრულად დახურვისათვის მარჯვენა კლავიშით დაწკაპეთ &brandShortName;-ს ხატი და აირჩიეთ 'გასვლა'.">
+<!ENTITY            exitWarningTitle.label "სწრაფი ჩატვირთვა">
+<!ENTITY            exitWarningCheckbox.label "აღარ მაჩვენო ეს შეტყობინება კვლავ">
+<!ENTITY            exitWarningCheckbox.accesskey "D">

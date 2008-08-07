@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title                                  "მოდულების ძებნა">
+<!ENTITY pluginWizard.firstPage.title                        "მოგესალმებათ &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ამოწმებს შესაძლო მოდულებს…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "არსებული ჩადგმების გადმოწერა">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "არსებობს შემდეგი მოდულები:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "ამ მოდულების ჩასადგმელად დაწკაპეთ შემდეგ.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "ზოგიერთ მოდულს ჩადგმის განმავლობაში შესაძლოა თქვენგან დამატებითი ინფორმაცია დაჭირდეს.">
+
+<!ENTITY pluginWizard.licensePage.title                      "მოდულის ლიცენზია">
+<!ENTITY pluginWizard.licensePage.accept.label               "ვეთანხმები.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "არ ვეთანხმები (მოდული არ ჩაიდგმება).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "მოდულების ჩადგმა">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; დგამს მოდულებს…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; დაასრულა მოდულების ჩადგმა:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "მიიღეთ ინფორმაცია მოდულების შესახებ ან ხელით მოძებნეთ მცდარი მოდულები.">
+<!ENTITY pluginWizard.finalPage.restart.label                "მოდულ(ებ)ის გასააქტივებლად &brandShortName; უნდა დაიხუროს და ხელახლა გაიხსნას.">
+
+<!ENTITY missingPlugin.label                                 "მოდულის ჩამოსატვირთად დაწკაპეთ აქ.">

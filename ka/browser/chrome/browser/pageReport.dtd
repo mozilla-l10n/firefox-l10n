@@ -1,0 +1,10 @@
+<!ENTITY caption.label "დაბლოკილი ფირნიშები">
+
+<!ENTITY intro.label "შემდეგ გვერდებს ეკრძალებთ უნებართვოდ გახსნან ფირნიშები:">
+
+
+<!ENTITY done.label "მზადაა">
+<!ENTITY done.accesskey "D">
+
+<!ENTITY unblock.label "დაბლოკვის მოხსნა">
+<!ENTITY unblock.accesskey "U">

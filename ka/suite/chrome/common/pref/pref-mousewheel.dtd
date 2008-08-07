@@ -1,0 +1,29 @@
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
+<!ENTITY pref.mouseWheel.title           "თაგუნას ბორბალი">
+<!ENTITY mouseWheelPanel.label           "თაგუნას ბორბლის ქცევის განსაზღვრა მოცემულ ღილაკთან მიმართებით: ">
+<!ENTITY mouseWheelPanel.accesskey       "w">
+<!ENTITY usingJustTheWheel.label         "ღილაკის გარეშე">
+<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label           "მართობული გადაფურცვლა">
+<!ENTITY mousewheelHorizGroup.label      "განივი გადაფურცვლა">
+<!ENTITY scroll.label                    "დოკუმენტის გადაფურცვლა ">
+<!ENTITY scroll.accesskey                "S">
+<!ENTITY scrollHoriz.accesskey           "c">
+<!ENTITY scrollLines.label               " სტრიქონით ">
+<!ENTITY scrollChars.label               " სიმბოლოთი ">
+<!ENTITY useSystemDefault.label          "სისტემური პარამეტრების გამოყენება">
+<!ENTITY useSystemDefault.accesskey      "U">
+<!ENTITY useSystemDefaultHoriz.accesskey "d">
+<!ENTITY scrollPgUpPgDn.label            "გვერდის ზევით ან ქვევით გადაფურცვლა">
+<!ENTITY scrollPgUpPgDn.accesskey        "c">
+<!ENTITY scrollPgLtPgRt.label            "გვერდის მარცხნივ ან მარჯვნივ გადაფურცვლა">
+<!ENTITY scrollPgLtPgRt.accesskey        "o">
+<!ENTITY history.label                   "ისტორიის ნუსხის წინ და უკან გადაფურცვლა">
+<!ENTITY history.accesskey               "M">
+<!ENTITY historyHoriz.accesskey          "b">
+<!ENTITY textsize.label                  "შრიფტის გაზრდა ან შემცირება">
+<!ENTITY textsize.accesskey              "t">
+<!ENTITY textsizeHoriz.accesskey         "e">

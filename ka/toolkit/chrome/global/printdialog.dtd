@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "ბეჭდვა">
+
+<!ENTITY printDialog.title "ბეჭდვა">
+
+<!ENTITY fpDialog.title "ფაილის ჩაწერა">
+
+<!ENTITY fileCheck.label "ბეჭდვა ფაილში">
+<!ENTITY propertiesButton.label "პარამეტრები…">
+<!ENTITY descText.label "საბეჭდის აღწერა:">
+<!ENTITY printer.label "საბეჭდი">
+<!ENTITY printerInput.label "საბეჭდი:">
+
+<!ENTITY printrangeGroup.label "ბეჭდვის რანგი">
+<!ENTITY allpagesRadio.label "ყველა გვერდი">
+<!ENTITY rangeRadio.label  "გვერდები">
+<!ENTITY frompageInput.label  "დაწყ.">
+<!ENTITY topageInput.label  "-">
+<!ENTITY selectionRadio.label "მონიშნულის">
+
+<!ENTITY copies.label "ასლები">
+<!ENTITY numCopies.label "ასლების რაოდენობა:">
+
+<!ENTITY printframeGroup.label "ბლოკების ბეჭდვა">
+<!ENTITY aslaidoutRadio.label "ისე, როგორც ეკრანზეა">
+<!ENTITY selectedframeRadio.label  "მონიშნული ბლოკის">
+<!ENTITY eachframesepRadio.label  "თითოეული ბლოკის ცალკე">

@@ -1,0 +1,9 @@
+<!-- Error messages that are likely to be overridden by applications go in this
+     file, all messages that likely don't need to tie into app-specific UI
+     should go into netError.dtd -->
+
+<!ENTITY securityOverride.linkText "ან გამონაკლისის დამატება შეგიძლიათ…">
+<!ENTITY securityOverride.warningText "
+<p>არ უნდა ისარგებლოთ გამონაკლისით თუ ინტერნეტ კავშირს სრულად არ ენდობით ან ამ სერვერისთვის გაფრთხილებების ჩვენება ამორთული გაქვთ.</p>
+<p>თუ მაინც გსურთ ამ საიტისთვის გამონაკლისის მითითება, ამის გაკეთება დაშიფვრის დეტალურ პარამეტრებში შეგიძლიათs.</p>
+">

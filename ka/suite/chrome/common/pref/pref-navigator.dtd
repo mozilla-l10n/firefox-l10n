@@ -1,0 +1,41 @@
+<!ENTITY  pref.navigator.title      "ნავიგატორი">
+
+<!ENTITY  navRadio                  "ჩვენება">
+<!ENTITY  navStartPageMenu.label    "ნავიგატორის სეანსის დაწყება">
+<!ENTITY  newWinPageMenu.label      "ახალ ფანჯარაში">
+<!ENTITY  newTabPageMenu.label      "ახალ დაფაზე">
+
+<!ENTITY  blankPageRadio.label      "სუფთა გვერდით">
+<!ENTITY  blankPageRadio.accesskey  "B">
+<!ENTITY  homePageRadio.label       "თავფურცლით">
+<!ENTITY  homePageRadio.accesskey   "m">
+<!ENTITY  lastPageRadio.label       "წინა სეანსის ბოლო გვერდით">
+<!ENTITY  lastPageRadio.accesskey   "L">
+
+<!ENTITY  header2.label             "თავფურცლით">
+<!ENTITY  homePageIntro.label       "დაჭერა ღილაკზე &quot;თავფურცელი&quot; ამ გვერდზე ან გვერდთა ჯგუფზე გადმოგიყვანთ.">
+<!ENTITY  location.label            "მისამართი:">
+<!ENTITY  location.accesskey        "a">
+<!ENTITY  useCurrent.label          "გამოიყენე მიმდინარე გვერდი">
+<!ENTITY  useCurrent.accesskey      "U">
+<!ENTITY  useCurrentGroup.label     "გამოიყენე მიმდინარე ჯგუფი">
+<!ENTITY  useCurrentGroup.accesskey "G">
+<!ENTITY  browseFile.label          "ფაილის არჩევა...">
+<!ENTITY  browseFile.accesskey      "C">
+<!ENTITY  useDefault.label          "საწყისის აღდგენა">
+<!ENTITY  useDefault.accesskey      "R">
+
+<!ENTITY  toolbarIntro.label        "პულტზე საჩვენებელი სასურველი ღილაკების შერჩევა:">
+
+<!ENTITY  navToolbarIntro.label     "ნავიგაციის პულტი">
+<!ENTITY  goButton.label            "გადასვლა">
+<!ENTITY  goButton.accesskey        "o">
+<!ENTITY  searchButton.label        "ძიება">
+<!ENTITY  searchButton.accesskey    "S">
+<!ENTITY  printButton.label         "ბეჭდვა">
+<!ENTITY  printButton.accesskey     "P">
+<!ENTITY  persToolbarIntro.label    "პირადი პულტი">
+<!ENTITY  homeButton.label          "თავფურცელი">
+<!ENTITY  homeButton.accesskey      "e">
+<!ENTITY  bookmarksButton.label     "სანიშნეები">
+<!ENTITY  bookmarksButton.accesskey "k">

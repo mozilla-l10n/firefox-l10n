@@ -1,0 +1,55 @@
+<!ENTITY  history.label "ისტორია">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "ისტორიის შენახვა">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  rememberDaysAfter2.label       "დღისთვის მაინც">
+
+<!ENTITY  rememberForms.label           "ჩემს მიერ ფორმებსა და საძიებო პანელში შეტანილი ტექსტის დამახსოვრება">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "ჩემი ჩამოტვირთვების დამახსოვრება">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "ნაჭდევები">
+
+<!ENTITY  acceptCookies.label           "ნაჭდევების მიღება საიტებიდან">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.label        "მესამე მხარის ნაჭდევების მიღება">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  keepUntil.label               "შენახვის ვადა:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "ვადის გასვლამდე">
+<!ENTITY  close.label                   "&brandShortName; დახურვამდე">
+<!ENTITY  askEachTime.label             "დამეკითხე ყოველთვის">
+
+<!ENTITY  cookieExceptions.label        "გამონაკლისები…">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "ნაჭდევების ჩვენება…">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "პირადი მონაცემები">
+
+<!ENTITY  alwaysClear.label              "ჩემი პირადი მონაცემების ყოველთვის გასუფთავება &brandShortName; დახურვისას">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  askBeforeClear.label           "დამეკითხე პირადი მონაცემების გასუფთავებამდე">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  clearDataSettings.label        "პარამეტრები…">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "გასუფთავება ახლავე…">
+<!ENTITY  clearDataNow.label2            "გასუფთავება ახლავე">
+<!ENTITY  clearDataNow.accesskey         "N">

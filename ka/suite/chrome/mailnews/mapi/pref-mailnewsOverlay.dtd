@@ -1,0 +1,6 @@
+<!ENTITY enableMapiTitle.label        "წერილების სხვა პროგრამიდან გაგზავნისას">
+<!ENTITY defaultMailSettings.label    "&vendorShortName; გამოიყენება როგორც ძირითადი პროგრამა:">
+<!ENTITY enableMapi.label             "წერილების">
+<!ENTITY enableMapi.accesskey         "M">
+<!ENTITY enableNews.label             "ჯგუფების">
+<!ENTITY enableNews.accesskey         "N">

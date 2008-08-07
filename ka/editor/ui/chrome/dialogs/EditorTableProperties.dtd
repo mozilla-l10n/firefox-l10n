@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title                "ცხრილის პარამეტრები">
+<!ENTITY applyButton.label                "გამოყენება">
+<!ENTITY applyButton.accesskey            "A">
+<!ENTITY closeButton.label                "დახურვა">
+<!ENTITY tableTab.label                   "ცხრილი">
+<!ENTITY cellTab.label                    "უჯრები">
+<!ENTITY tableRows.label                  "მწკრივები:">
+<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableColumns.label               "სვეტები:">
+<!ENTITY tableColumns.accessKey           "C">
+<!ENTITY tableHeight.label                "სიმაღლე:">
+<!ENTITY tableHeight.accessKey            "G">
+<!ENTITY tableWidth.label                 "სიგანე:">
+<!ENTITY tableWidth.accessKey             "W">
+<!ENTITY tableBorderSpacing.label         "ჩარჩოები და ინტერვალი">
+<!ENTITY tableBorderWidth.label           "ჩარჩო:">
+<!ENTITY tableBorderWidth.accessKey       "B">
+<!ENTITY tableSpacing.label               "ინტერვალი:">
+<!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tablePadding.label               "სივრცე:">
+<!ENTITY tablePadding.accessKey           "P">
+<!ENTITY tablePxBetwCells.label           "პიქსელი უჯრებს შორის">
+<!ENTITY tablePxBetwBrdrCellContent.label "პიქსელი ჩარჩოსა და უჯრის შიგთავსს შორის">
+<!ENTITY tableAlignment.label             "ცხრილის განთავსება:">
+<!ENTITY tableAlignment.accessKey         "T">
+<!ENTITY tableCaption.label               "სათაური:">
+<!ENTITY tableCaption.accessKey           "N">
+<!ENTITY tableCaptionAbove.label          "ცხრილის ზევით">
+<!ENTITY tableCaptionBelow.label          "ცხრილის ქვევით">
+<!ENTITY tableCaptionLeft.label           "ცხრილის მარცხნივ">
+<!ENTITY tableCaptionRight.label          "ცხრილის მარჯვნივ">
+<!ENTITY tableCaptionNone.label           "არა">
+<!ENTITY tableInheritColor.label           "(გვერდის ფერების ჩვენება)">
+
+<!ENTITY cellPercent.label                "ცხრილის პროცენტი">
+<!ENTITY cellSelection.label              "მონიშვნა">
+<!ENTITY cellSelectCell.label             "უჯრა">
+<!ENTITY cellSelectRow.label              "მწკრივი">
+<!ENTITY cellSelectColumn.label           "სვეტი">
+<!ENTITY cellSelectNext.label             "შემდეგი">
+<!ENTITY cellSelectNext.accessKey         "N">
+<!ENTITY cellSelectPrevious.label         "წინა">
+<!ENTITY cellSelectPrevious.accessKey     "P">
+<!ENTITY cellApplyBeforeMove.label        "ცვლილებების გააქტივება მონიშვნის შეცვლამდე">
+<!ENTITY cellKeepCurrentData.label        "არსებულის დატოვება">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label         "არსებული ცვლილებები გააქტივდება">
+<!ENTITY applyBeforeChange2.label         "მონიშვნის შეცვლამდე.">
+<!ENTITY cellRowSpan.label                "მწკრივების გაერთიანება:">
+<!ENTITY cellColSpan.label                "სვეტების გაერთიანება:">
+<!ENTITY cellContentAlignment.label       "შიგთავსის განთავსება">
+<!ENTITY cellHorizontal.label             "ჰორიზოტული:">
+<!ENTITY cellHorizontal.accessKey         "Z">
+<!ENTITY cellVertical.label               "ვერტიკალური:">
+<!ENTITY cellVertical.accessKey           "V">
+<!ENTITY cellStyle.label                  "უჯრის სტილი:">
+<!ENTITY cellStyle.accessKey              "C">
+<!ENTITY cellNormal.label                 "ჩვეულებრივი">
+<!ENTITY cellHeader.label                 "თავსართი">
+<!ENTITY cellTextWrap.label               "სტრიქონის გადატანა:">
+<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellWrap.label                   "გადაიტანე">
+<!ENTITY cellNoWrap.label                 "არ გადაიტანო">
+<!ENTITY cellAlignTop.label               "ზევით">
+<!ENTITY cellAlignMiddle.label            "შუაში">
+<!ENTITY cellAlignBottom.label            "ქვევით">
+<!ENTITY cellAlignJustify.label           "შევსება">
+<!ENTITY cellAlignAtChar.label            "სიმბოლოსთან:">
+<!ENTITY cellInheritColor.label           "(ცხრილში ფერების ჩვენება)">
+<!ENTITY cellUseCheckboxHelp.label        "შერჩეული უჯრების პარამეტრების მისათითებლად ჩამრთველების გამოყენება">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "ზომა">
+<!ENTITY pixels.label                     "პიქსელი">
+<!ENTITY backgroundColor.label            "ფონის ფერი:">
+<!ENTITY backgroundColor.accessKey        "B">
+<!ENTITY AlignLeft.label                  "მარცხნივ">
+<!ENTITY AlignCenter.label                "ცენტრში">
+<!ENTITY AlignRight.label                 "მარჯვნივ">

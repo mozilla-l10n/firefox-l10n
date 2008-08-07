@@ -1,0 +1,7 @@
+
+<!ENTITY editPageCmd.label                "გვერდის ჩასწორება დიზაინერში"> 
+<!ENTITY editPageCmd.accesskey            "e">
+
+<!ENTITY editLinkCmd.label                "ბმის ჩასწორება დიზაინერში">
+<!ENTITY editLinkCmd.accesskey            "E">
+

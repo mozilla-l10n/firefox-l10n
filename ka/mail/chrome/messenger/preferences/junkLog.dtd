@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "ჯართის დავთარი">
+<!ENTITY junkLogInfo.label "ჯართის კონტროლის დავთრის წარმოება.">
+<!ENTITY clearLog.label "დავთრის გასუფთავება">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY closeLog.label "დახურვა">
+<!ENTITY closeLog.accesskey "o">

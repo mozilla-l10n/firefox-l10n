@@ -1,0 +1,96 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "უსაფრთხოების პარამეტრები">
+<!ENTITY serverSettings.label "სერვერის პარამეტრები">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP საფოსტო სერვერი">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP საფოსტო სერვერი">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "ჯგუფების სერვერი (NNTP)">
+<!ENTITY webmail.label "საფოსტო ანგარიში">
+<!ENTITY serverType.label "სერვერის ტიპი:">
+<!ENTITY serverName.label "სერვერის სახელი:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "სახელი:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "პორტი:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "ძირითადი:">
+<!ENTITY savePassword.label "პაროლის შენახვა">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "ახალი წერილის შემოწმება ყოველ ">
+<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffEnd.label "წუთში">
+<!ENTITY isSecure.label "დაცული კავშირის (SSL) გამოყენება">
+<!ENTITY isSecure.accesskey "U">
+<!ENTITY socketType.label "უსაფრთხო კავშირის გამოყენება:">
+<!ENTITY neverSecure.label "არასოდეს">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, თუ შესაძლებელია">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "უსაფრთხო აუთენტიფიკაციის გამოყენება">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "წერილების დატოვება სერვერზე">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "მხოლოდ თავსართების კითხვა">
+<!ENTITY headersOnly.accesskey "f">
+<!ENTITY deleteByAgeFromServer.label "არა უმეტეს">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "დღისა">
+<!ENTITY deleteOnServer2.label "ჩემს მიერ წაშლამდე">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "ახალი წერილების ავტომატურად ჩატვირთვა">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "სერვერის სახელი">
+<!ENTITY username.label "თქვენი სახელი">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "POP სერვერის მონაცემები">
+<!ENTITY deleteMessagePrefix.label "წერილის წაშლისას:">
+<!ENTITY modelMoveToTrash.label "Move it to this folder:">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "მონიშვნა წაშლილად">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "ამოშლა დაუყოვნებლივ">
+<!ENTITY modelDeleteImmediately.accesskey "d">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "&quot;შემოსულის&quot; გაწმენდა გასვლისას">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "&quot;ურნის გადაყრა&quot; გასვლისას">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "ახალი წერილის შემოწმება დაწყებისას"> 
+<!ENTITY loginAtStartup.accesskey "C">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "დამეკითხე სანამ გადმოვწერ">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "-ზე მეტ წერილს">
+<!ENTITY alwaysAuthenticate.label "ამ სერვერთან დაკავშირებისას აუთენტიფიცირების ყოველთვის მოთხოვნა">
+<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY newsrcFilePath.label "ჯგუფების ფაილი:">
+<!ENTITY newsrcFilePath.accesskey "f">
+<!ENTITY localPath.label "ადგილობრივი დასტა:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY abbreviate.label "წერილების დასტების პანელში ჯგუფების სახელებს ჩვენების წესის მითითება:">
+<!ENTITY abbreviateOn.label "სრული სახით (მაგალითად, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "შემოკლებულად (მაგალითად, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "დეტალები...">
+<!ENTITY serverDefaultCharset.label "ნაგულისხმები კოდირება:">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY localFolderPicker.label "ადგილობრივი დასტის არჩევა">
+<!ENTITY browseFolder.label "ნუსხა...">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "ჯგუფების ფაილის არჩევა">
+<!ENTITY browseNewsrc.label "ნუსხა...">
+<!ENTITY browseNewsrc.accesskey "e">

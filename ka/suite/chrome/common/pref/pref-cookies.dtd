@@ -1,0 +1,43 @@
+<!ENTITY pref.cookies.title             "ნაჭდევები">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label             "ნაჭდევების მიღების წესები">
+
+<!ENTITY accAllCookiesRadio.label       "ყველა ნაჭდევის მიღება">
+<!ENTITY accAllCookiesRadio.accesskey   "c">
+
+<!ENTITY accOrgCookiesRadio.label       "ნაჭდევების მიღება მხოლოდ მისი დედნის საიტიდან">
+<!ENTITY accOrgCookiesRadio.accesskey   "o">
+
+<!ENTITY accP3PCookiesRadio.label       "ნაჭდევების მიღება პრივატულობის პარამეტრების წესებით">
+<!ENTITY accP3PCookiesRadio.accesskey   "p">
+
+<!ENTITY disableCookies.label           "ნაჭდევების აკრძალვა">
+<!ENTITY disableCookies.accesskey       "B">
+
+<!ENTITY cookieRetentionPolicy.label    "ნაჭდევების შენახვის ვადა">
+
+<!ENTITY acceptNormally.label           "მიღება ჩვეულებრივად">
+<!ENTITY acceptNormally.accesskey       "n">
+
+<!ENTITY acceptForSession.label         "მიღება მხოლოდ მიმდინარე სეანსზე">
+<!ENTITY acceptForSession.accesskey     "s">
+
+<!ENTITY acceptforNDays.label           "ნაჭდევების მიღების ვადა">
+<!ENTITY acceptforNDays.accesskey       "f">
+<!ENTITY days.label                     "დღე">
+
+<!ENTITY warnAboutCookies.label         "თანხმობა ნაჭდევების მიღებაზე">
+<!ENTITY warnAboutCookies.accesskey     "A">
+<!ENTITY forCurrentSession.label        "გარდა სეანსის ნაჭდევებისა">
+<!ENTITY forCurrentSession.accesskey    "e">
+
+<!ENTITY manageCookies.label            "ნაჭდევებისა და საიტების მართვა">
+<!ENTITY manageCookiesDescription.label "საშუალებას გაძლევთ ნახოთ და მიუთითოთ ნაჭდევების მიღებისა და აკრძალვის პარამეტრები სხვადასხვა საიტისთვის.  ეს პარამეტრები გადაფარავს არსებულებს.">
+
+<!ENTITY viewCookies.label              "ნაჭდევების მმართველი">
+<!ENTITY viewCookies.accesskey          "M">
+<!ENTITY viewP3P.label                  "პრივატულობის პარამეტრების ჩვენება">
+<!ENTITY viewP3P.accesskey              "V">
+

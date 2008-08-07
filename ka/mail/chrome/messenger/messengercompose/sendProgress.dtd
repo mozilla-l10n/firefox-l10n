@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "წერილების გაგზავნა"> 
+<!ENTITY status.label "სტატუსი:">
+<!ENTITY progress.label "მიმდინარეობა:">

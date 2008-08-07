@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "ანგარიშის დამატებითი პარამეტრები">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "IMAP სერვერის დამატებითი პარამეტრები">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP სერვერის დასტა:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "მხოლოდ ხელმოწერების დასტების ჩვენება">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "სერვერი მუშაობს იმ დასტებთანაც, რომლებიც ქვედასტებსა და წერილებს შეიცავენ">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "IDLE ბრძანების გამოყენება თუ სერვერს ამის საშუალება გააჩნია">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "სერვერთან კავშირების მაქსიმალური რაოდენობა ბუფერირებისთვის">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "ეს პარამეტრები მიუთითებენ თქვენი IMAP სერვერის სახელთა არეებს">
+<!ENTITY personalNamespace.label "სახელთა პირადი არე:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "საზოგადო (ზიარი):">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "სხვა მომხმარებლების:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "სერვერისთვის ამ სახელთა არეების გადაფარვის ნების დართვა">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "ამ სერვერისთვის pop ფოსტის ჩამოტვირთვისას ახალი ფოსტისთვის შემდეგი დასტის გამოყენება:" >
+<!ENTITY folderStorage.label "ფოსტის შენახვა">
+<!ENTITY globalInbox.label "საერთო საფოსტო ყუთი (ადგილობრივი დასტების ანგარიშში)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "'შემოსული' ამ სერვერის ანგარიშისთვის">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "'შემოსული' სხვა ანგარიშისთვის">
+<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferGetNewMail.label "სერვერის მითითება ახალი ფოსტის მიღებისას">
+<!ENTITY deferGetNewMail.accesskey "I">

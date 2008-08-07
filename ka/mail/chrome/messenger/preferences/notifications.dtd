@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "ახალი წერილის შეტუობინების მორგება">
+<!ENTITY window.width                     "32em">
+
+<!ENTITY alertCustomization.intro         "მიუთითეთ სასურველი ველები შეტყობინებებში საჩვენებლად:">
+<!ENTITY previewText.label                "წერილის ესკიზის ტექსტი">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "თემა">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "გამგზავნი">
+<!ENTITY sender.accesskey                 "e">
+

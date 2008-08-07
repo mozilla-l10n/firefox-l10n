@@ -1,0 +1,37 @@
+<!-- extracted from content/preftree.xul -->
+
+<!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY appear.label "ჩვენების სქემა">
+<!ENTITY fonts.label "შრიფტები">
+<!ENTITY colors.label "ფერები">
+<!ENTITY themes.label "გარსები">
+<!ENTITY locales.label "ენები">
+<!--LOCALIZATION NOTE (navigator.label): DONT_TRANSLATE -->
+<!ENTITY navigator.label "ნავიგატორი">
+<!ENTITY history.label "ისტორია">
+<!ENTITY bidi.label "Bidi პარამეტრები">
+<!ENTITY languages.label "ენები">
+<!ENTITY applications.label "კარნახის პროგრამები">
+<!--LOCALIZATION NOTE (smartBrowse.label): DONT_TRANSLATE -->
+<!ENTITY smartBrowse.label "სხარტი მიმოხილვა">
+<!ENTITY tabWindows.label "დაფების გამოყენება">
+<!ENTITY compose.label "რედაქტორი">
+<!ENTITY editing.label "ახალი გვერდის პარამეტრები">
+<!ENTITY publish.label "გამოქვეყნება">
+<!ENTITY offline.label "ავტონომიური რეჟიმი">
+<!ENTITY security.label "კონფიდენციალობა და უსაფრთხოება">
+<!ENTITY cookies.label "ნაჭდევები">
+<!ENTITY images.label "გამოსახულებები">
+<!ENTITY popups.label "Pფირნიშები">
+<!ENTITY advance.label "დეტალური პარამეტრები">
+<!ENTITY down.label "ჩამოტვირთვა">
+<!ENTITY cache.label "ბუფერი">
+<!ENTITY proxies.label "პროქსი სერვერები">
+<!ENTITY httpnetworking.label "HTTP ქსელი">
+<!ENTITY smart.label "პროგრამების ჩადგმა">
+<!ENTITY download.label "ჩამოტვირთვები">
+<!ENTITY keynav.label "კლავიატურის გამოყენება">
+<!ENTITY search.label "ძიება ინტერნეტში">
+<!ENTITY policies.label "უსაფრთხოების წესები">
+<!ENTITY mousewheel.label "თაგუნას ბორბალი">
+<!ENTITY scriptsAndWindows.label "სცენარები და მოდულებიი">

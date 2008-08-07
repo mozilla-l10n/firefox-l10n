@@ -1,0 +1,15 @@
+<!ENTITY  pref.history.title                "ისტორია">
+
+<!ENTITY  pref.history.caption              "ისტორიის ნუსხა">
+<!ENTITY  historyPages.label                "ისტორია არის ადრე მონახულებული გვერდების ნუსხა.">
+<!ENTITY  pageHis.label                     "გვერდებს ისტორიაში ვადა გაუვათ">
+<!ENTITY  pageHis.accesskey                 "a">
+<!ENTITY  days.label                        "დღეში">
+<!ENTITY  clearHistory.label                "ისტორიის წაშლა">
+<!ENTITY  clearHistory.accesskey    "r">
+
+<!ENTITY  locationBarHistory.caption        "მისამართების პანელი">
+<!ENTITY  clearLocationBar.label            "მისამართების პანელში შენახული საიტების წაშლა.">
+<!ENTITY  clearLocationBarButton.label      "მისამართების პანელის წაშლა">
+<!ENTITY  clearLocationBarButton.accesskey  "b">
+  

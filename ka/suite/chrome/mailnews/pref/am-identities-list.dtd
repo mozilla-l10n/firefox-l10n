@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "ამ ანგარიშთან დაკავშირებული პირები">
+<!ENTITY identitiesListDesc.label "მრავალი პირის მომსახურების შესაძლებლობა">
+<!ENTITY identitiesListAdd.label  "დამატება...">
+<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListEdit.label "რედაქტირება...">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "წაშლა">
+<!ENTITY identitiesListDelete.accesskey "D">

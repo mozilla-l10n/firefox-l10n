@@ -1,0 +1,14 @@
+<!ENTITY windowtitle.label              "გამონაკლისები">
+<!ENTITY treehead.sitename.label        "საიტი">
+<!ENTITY treehead.status.label          "სტატუსი">
+<!ENTITY remove.label                   "საიტის ამოღება">
+<!ENTITY remove.accesskey               "R">
+<!ENTITY removeall.label                "ყველა საიტის ამოღება">
+<!ENTITY removeall.accesskey            "e">
+<!ENTITY address.label                  "ვებსაიტის მისამართი:">
+<!ENTITY block.label                    "დაბლოკვა">
+<!ENTITY block.accesskey                "B">
+<!ENTITY session.label                  "დაშვება ამ სეანსზე">
+<!ENTITY session.accesskey              "S">
+<!ENTITY allow.label                    "დაშვება">
+<!ENTITY allow.accesskey                "A">

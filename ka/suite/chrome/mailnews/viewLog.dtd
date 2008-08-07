@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "ფილტრების ჟურნალი">
+<!ENTITY viewLogInfo.text "ფილტრების ჟურნალში აღირიცხება რომელი ფილტრები იყო გამოყენებული.  გამოიყენეთ ქვედა ჩამრთველი მის გასააქტივებლად.">
+<!ENTITY clearLog.label "ჟურნალის გასუფთავება">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY enableLog.label "ფილტრების ჟურნალის ჩართვა">
+<!ENTITY enableLog.accesskey "E">
+<!ENTITY closeLog.label "დახურვა">
+<!ENTITY closeLog.accesskey "o">

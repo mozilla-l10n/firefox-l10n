@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "უსაფრთხოება">
+<!ENTITY securityMenu.accesskey "e">
+
+<!ENTITY menu_securityEncryptIfPossible.label "დაშიფვრა, თუ შესაძლებელია">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "P">
+
+<!ENTITY menu_securityEncryptRequire.label "წერილის დაშიფვრა">
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
+
+<!ENTITY menu_securityNoEncryption.label "წერილის არ დაშიფვრა">
+<!ENTITY menu_securityNoEncryption.accesskey "N">
+
+<!ENTITY menu_securitySign.label "წერილის ციფრულად ხელმოწერა">
+<!ENTITY menu_securitySign.accesskey "S">
+
+<!ENTITY menu_securityStatus.label "წერილის უსაფრთხოების ჩვენება">
+<!ENTITY menu_securityStatus.accesskey "I">
+
+<!ENTITY securityButton.label "უსაფრთხოება">
+<!ENTITY securityButton.tooltip "უსაფრთხოების პარამეტრების ჩვენება ან მითითება">
+
+<!ENTITY menu_viewSecurityStatus.label "წერილის უსაფრთხოების მონაცემები">
+<!ENTITY menu_viewSecurityStatus.accesskey "I">

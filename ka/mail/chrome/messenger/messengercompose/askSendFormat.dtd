@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML წერილის თვისებები">
+
+<!ENTITY recipient.label "ზოგი ადრესატი არ არის HTML წერილების მიმღებთა სიაში.">
+
+<!ENTITY question.label "გნებავთ წერილის ტექსტურ ფორმატში გარდაქმნა თუ მაინც HTML ვერსიის გაგზავნა?">
+
+<!ENTITY plainTextAndHtml.label "გაგზავნა როგორც ტექსტი და HTML">
+<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextOnly.label "მხოლოდ როგორც ტექსტის გაგზავნა">
+<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY htmlOnly.label "მხოლოდ როგორც HTML-ის გაგზავნა">
+<!ENTITY htmlOnly.accesskey "H">
+
+<!ENTITY send.label "გაგზავნა">
+<!ENTITY send.accesskey "S">

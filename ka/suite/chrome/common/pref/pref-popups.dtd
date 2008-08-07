@@ -1,0 +1,27 @@
+<!ENTITY pref.popups.title              "ფირნიშები">
+
+<!ENTITY pref.popups.caption            "ფირნიშების პირობები">
+
+<!ENTITY popupDesc.label                "წესების მითითება როდესაც საიტი მიმდინარე ფანჯარაში ახალი ფირნიშის დაუკითახვად გახსნას ცდილობს:">
+
+<!ENTITY popupBlock.label               "ფირნიშების გახსნის აკრძალვა">
+<!ENTITY popupBlock.accesskey           "B">
+
+<!ENTITY popupExceptions.label          "ნებადართული საიტები...">
+<!ENTITY popupExceptions.accesskey      "A">
+
+<!ENTITY whenBlock.description          "ფირნიშების დაბლოკვისას:">
+<!ENTITY playSound.label                "ხმოვანი სიგნალი:">
+<!ENTITY playSound.accesskey            "s">
+
+<!ENTITY selectSound.label              "ნუსხა...">
+<!ENTITY selectSound.accesskey          "r">
+<!ENTITY previewSound.label             "ესკიზი">
+<!ENTITY previewSound.accesskey         "P">
+<!ENTITY selectSound.title              "ფირნიშის ბლოკირების ხმოვანი სიგნალის არჩევა">
+
+<!ENTITY displayIcon.label              "ხატის ჩვენება ნავიგატორის სტატუსის პანელზე">
+<!ENTITY displayIcon.accesskey          "D">
+
+<!ENTITY popupNote.description          "შენიშვნა: ყველა ფირნიშის აკრძალვამ შესაძლოა შეზღუდოს ზოგი საიტის მნიშვნელოვანი ფუნქციები, როგორიცაა შესასვლელი დიალოგები ინტერნეტ ბანკებსა და მაღაზიებში.  სპეციფიური საიტებისათვის ფირნიშების ჩვენების ნებადართვისა და სხვა ყველა სსიტისთვის ასაკრძალად დაწკაპეთ 'კარნახი'.  ზოგი საიტი იყენებს ფირნიშების ჩვენების სხვა მეთოდებს დაბლოკვის შემთხვევაშიც კი.">
+

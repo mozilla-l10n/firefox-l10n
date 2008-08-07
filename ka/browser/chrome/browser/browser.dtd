@@ -1,0 +1,392 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY tabCmd.label "ახალი დაფა">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "ვებ გვერდის გახსნა…">
+<!ENTITY openLocationCmd.accesskey "L">
+<!ENTITY openFileCmd.label "ფაილის გახსნა…">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "ბეჭდვის ესკიზი">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "ბეჭდვა…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "იმპორტი…">
+<!ENTITY import.accesskey "I">
+
+<!ENTITY goOfflineCmd.label "ავტონომიური რეჟიმი">
+<!ENTITY goOfflineCmd.accesskey "w">
+
+<!ENTITY navbarCmd.label "ნავიგატორის  პულტი">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "სანიშნეების პულტი">
+<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "სანიშნეების პულტის ელემენტები">
+<!ENTITY taskbarCmd.label "სტატუსის პანელი">
+<!ENTITY taskbarCmd.accesskey "B">
+
+<!ENTITY pageSourceCmd.label "გვერდის ვებ კოდები">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "ვებგვერდის მონაცემები">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "მთელ ეკრანზე">
+<!ENTITY fullScreenCmd.accesskey "F">
+
+<!ENTITY fullScreenMinimize.tooltip "მინიმიზება">
+<!ENTITY fullScreenRestore.tooltip "აღდგენა">
+<!ENTITY fullScreenClose.tooltip "დახურვა">
+<!ENTITY fullScreenAutohide.label "პულტების დამალვა">
+<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenExit.label "სრული ეკრანის რეჟიმიდან გასვლა">
+<!ENTITY fullScreenExit.accesskey "F">
+
+<!ENTITY closeWindow.label "ფანჯრის დახურვა">
+<!ENTITY closeWindow.accesskey "d">
+
+<!ENTITY bookmarksMenu.label "სანიშნეები">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarkThisPageCmd.label "ამ გვერდის სანიშნეებში შეტანა…">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "ხელმოწერა ამ გვერდზე">
+<!ENTITY subscribeToPageMenuitem.label "ხელმოწერა ამ გვერდზე…">
+<!ENTITY addCurPagesCmd.label "ყველა დაფის ჩანიშვნა…">
+<!ENTITY organizeBookmarks.label "სანიშნეთა ორგანიზება…">
+<!ENTITY bookmarkAllCmd.label "ყველა დაფის ჩანიშვნა…">
+
+<!ENTITY backCmd.label                "უკან">
+<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backButton.tooltip           "უკან ერთი გვერდით">
+<!ENTITY forwardCmd.label             "წინ">
+<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardButton.tooltip        "წინ ერთი გვერდით">
+<!ENTITY backForwardMenu.tooltip      "წინა გვერდები">
+<!ENTITY reloadCmd.label              "განახლება">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadButton.tooltip         "მიმდინარე გვერდის განახლება">
+<!ENTITY stopCmd.label                "შეჩერება">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "გვერდის ჩატვირთვის შეჩერება">
+<!ENTITY goEndCap.tooltip             "მიუთითეთ მისამართი და დაწკაპეთ გადასვლა">
+<!ENTITY printButton.label            "ბეჭდვა">
+<!ENTITY printButton.tooltip          "ამ გვერდის ბეჭდვა">
+
+<!ENTITY locationItem.title           "მისამართი">
+<!ENTITY searchItem.title             "ძიება">
+<!ENTITY throbberItem.title           "ქმედების მაჩვენებელი">
+<!ENTITY bookmarksItem.title          "სანიშნეები">
+
+<!-- Toolbar items --> 
+<!ENTITY  homeButton.label            "თავფურცელი">
+
+<!ENTITY bookmarksButton.label          "სანიშნეები">
+<!ENTITY bookmarksButton.tooltip        "თქვენი სანიშნეების ჩვენება">
+<!ENTITY bookmarksSidebarCmd.accesskey  "B">
+<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label            "ისტორია">
+<!ENTITY historyButton.tooltip          "ბოლოს მონახულებული ვებგვერდების ჩვენება">
+<!ENTITY historySidebarCmd.accesskey    "s">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "ხელსაწყოები">
+<!ENTITY toolsMenu.accesskey          "T"> 
+
+<!ENTITY keywordfield.label           "საძიებო საკვანძო სიტყვის დამატება…">
+<!ENTITY keywordfield.accesskey       "K">
+<!ENTITY search.label                 "ვებ ძიება">
+<!ENTITY search.accesskey             "S">
+<!ENTITY downloads.label              "ჩამოტვირთვები">
+<!ENTITY downloads.tooltip            "ჩამოტვირთვების მიმდინარეობის ჩვენება">
+<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "მოდულები">
+<!ENTITY addons.tooltip               "მოდულების ჩვენება და მართვა">
+<!ENTITY addons.accesskey             "A">
+
+<!ENTITY errorConsoleCmd.label        "კონსოლის შეცდომა">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY fileMenu.label         "ფაილი"> 
+<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newNavigatorCmd.label        "ახალი ფანჯარა">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+
+<!ENTITY editMenu.label         "რედაქტირება"> 
+<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY undoCmd.label            "გაუქმება">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY redoCmd.label            "გამეორება">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY cutCmd.label           "ამოჭრა">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY copyCmd.label            "კოპირება">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY pasteCmd.label           "ჩასმა">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY deleteCmd.label          "წაშლა">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY selectAllCmd.label         "სრული მონიშვნა">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY preferencesCmd.label       "პარამეტრები…">
+<!ENTITY preferencesCmd.accesskey     "O"> 
+<!ENTITY preferencesCmdUnix.label       "პარამეტრები">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+<!ENTITY clearPrivateDataCmd.label            "პირად მონაცემთა გასუფთავება">
+<!ENTITY clearPrivateDataCmd.accesskey        "P">
+
+<!ENTITY viewMenu.label         "ჩვენება"> 
+<!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewToolbarsMenu.label       "პულტები"> 
+<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewSidebarMenu.label "გვერდითი პანელი">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label       "მორგება…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "C"> 
+
+<!ENTITY historyMenu.label "ისტორია">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "ბოლოს დახურული დაფები">
+
+<!ENTITY historyHomeCmd.label "თავფურცელი">
+<!ENTITY showAllHistoryCmd2.label "სრული ისტორიის ჩვენება…">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.emptyText             "ძიება სანიშნეებსა და ისტორიაში">
+<!ENTITY urlbar.accesskey             "d">
+
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY openLinkCmd.label            "ბმის ახალ ფანჯარაში გახსნა">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInTab.label       "ბმის ახალ დაფაზე გახსნა">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openFrameCmd.label           "ბლოკის ახალ ფანჯარაში გახსნა">
+<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmdInTab.label      "ბლოკის ახალ დაფაზე გახსნა">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ბლოკის ჩვენება">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "ბლოკის განახლება">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "მონიშნულის წყაროს ჩვენება">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML წყაროს ჩვენება">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "გვერდის ვებ კოდების ჩვენება">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "ბლოკის ვებ კოდების ჩვენება">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "გვერდის მონაცემების ჩვენება">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "ბლოკის მონაცემების ჩვენება">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY showImageCmd.label           "გამოსახულების ჩვენება">
+<!ENTITY showImageCmd.accesskey       "S">
+<!ENTITY viewImageCmd.label           "ნახატის ჩვენება">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.label         "ფონის ნახატის ჩვენება">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setDesktopBackgroundCmd.label      "შპალერად მითითება…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY bookmarkPageCmd2.label        "გვერდის სანიშნეებში შეტანა…">
+<!ENTITY bookmarkPageCmd2.accesskey    "m">
+<!ENTITY bookmarkThisLinkCmd.label        "ბმის სანიშნეებში შეტანა…">
+<!ENTITY bookmarkThisLinkCmd.accesskey    "L">
+<!ENTITY bookmarkThisFrameCmd.label       "ბლოკის სანიშნეებში შეტანა…">
+<!ENTITY bookmarkThisFrameCmd.accesskey   "m">
+<!ENTITY sendPageCmd.label            "ბმის გაგზავნა…">
+<!ENTITY sendPageCmd.accesskey        "e">
+<!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
+<!ENTITY savePageCmd.accesskey        "A">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "ბლოკის შენახვა როგორც…">
+<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY printFrameCmd.label          "ბლოკის დაბეჭდვა…">
+<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY saveLinkCmd.label            "ბმის შენახვა როგორც…">
+<!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY sendLinkCmd.label            "ბმის გაგზავნა…"> 
+<!ENTITY sendLinkCmd.accesskey        "d">
+<!ENTITY saveImageCmd.label           "ნახატის შენახვა როგორც…">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY sendImageCmd.label           "ნახატის გაგზავნა…">
+<!ENTITY sendImageCmd.accesskey       "n">
+<!ENTITY copyLinkCmd.label            "ბმის კოპირება">
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyLinkTextCmd.label        "ბმის ტექსტის კოპირება">
+<!ENTITY copyLinkTextCmd.accesskey    "x">
+<!ENTITY copyImageCmd.label           "ნახატის მისამართის კოპირება">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "ნახატის კოპირება">
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY blockImageCmd.accesskey       "B">
+<!ENTITY metadataCmd.label            "პარამეტრები">
+<!ENTITY metadataCmd.accesskey        "P">
+<!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის კოპირება">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY thisFrameMenu.label              "ეს ბლოკი">
+<!ENTITY thisFrameMenu.accesskey          "h">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomEnlargeCmd.label       "გაზრდა">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "შემცირება">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "აღდგენა">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "მხოლოდ ტექსტის მასშტაბირება">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "მასშტაბი">
+<!ENTITY fullZoom.accesskey             "Z">
+
+<!ENTITY newTabButton.tooltip           "ახალი დაფის გახსნა">
+<!ENTITY newWindowButton.tooltip        "ახალი ფანჯრის გახსნა">
+<!ENTITY sidebarCloseButton.tooltip     "გვერდითი პანელის დახურვა">
+
+<!ENTITY cutButton.tooltip              "ამოჭრა">
+<!ENTITY copyButton.tooltip             "კოპირება">
+<!ENTITY pasteButton.tooltip            "ჩასმა">
+
+<!ENTITY quitApplicationCmdWin.label       "გასვლა"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "x">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "დასრულება"> 
+<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmdMac.label    "&brandShortName; - დასრულება">
+<!ENTITY quitApplicationCmdMac.key      "Q">
+
+<!ENTITY closeCmd.label                 "დახურვა">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "C">
+
+<!ENTITY pageStyleMenu.label "გვერდის სტილი">
+<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleNoStyle.label "სტილის გარეშე">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "გვერდის ძირითადი სტილი">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
+
+<!ENTITY pageReportIcon.tooltip            "ამ საიტიდან ფირნიშების აკრძალვის პარამეტრების შეცვლა">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "ფირნიშების აკრძალვის პარამეტრების შეცვლა…">
+<!ENTITY editPopupSettings.label "ფირნიშების აკრძალვის პარამეტრების შეცვლა…">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "გვერდის მიმართულების შეცვლა">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchTextDirectionItem.label        "ტექსტის მიმართულების შეცვლა">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "ძებნა ამ გვერდზე…">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "კვლავძიება">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "ლექსიკონების დამატება…">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
+<!ENTITY editBookmark.done.label                     "მზადაა">
+<!ENTITY editBookmark.cancel.label                   "გაუქმება">
+<!ENTITY editBookmark.removeBookmark.label           "სანიშნის ამოშლა">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.undo.label                     "დაბრუნება">
+<!ENTITY editBookmark.undo.accessKey                 "U">
+<!ENTITY editBookmark.edit.label                     "შესწორება…">
+<!ENTITY editBookmark.edit.accessKey                 "E">
+
+<!ENTITY identity.unverifiedsite2 "ეს ვებ საიტი საკუთარი იდენტურობის მონაცმემებს არ იძლევა.">
+<!ENTITY identity.connectedTo "თქვენ დაუკავშირდით საიტს">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "რომლის მფლობელიცაა">
+
+<!ENTITY identity.moreInfoLinkText "დაწვრილებით…">
+
+<!ENTITY downloadMonitor2.tooltip "დაწკაპეთ ორმაგად ჩამოტვირთვების სარკმლის გასახსნელად">

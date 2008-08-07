@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"ფაილი"> 
+<!ENTITY fileMenu.accesskey				"f">
+<!ENTITY newMenu.label						"ახალი">
+<!ENTITY newMenu.accesskey					"N">
+
+<!ENTITY editMenu.label					"რედაქტირება"> 
+<!ENTITY editMenu.accesskey				"e"> 
+<!ENTITY undoCmd.label						"დაბრუნება">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"u"> 
+<!ENTITY redoCmd.label						"გამეორება">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"r"> 
+<!ENTITY cutCmd.label						"ამოჭრა">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"t"> 
+<!ENTITY copyCmd.label						"კოპირება">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"c"> 
+<!ENTITY pasteCmd.label						"ჩასმა">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY deleteCmd.label					"წაშლა">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"d"> 
+<!ENTITY selectAllCmd.label					"სრული მონიშვნა">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"a"> 
+<!ENTITY preferencesCmd.label				"პარამეტრები...">
+<!ENTITY preferencesCmd.accesskey			"O"> 
+<!ENTITY preferencesCmdUnix.label       "Preferences">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+<!ENTITY findTypeTextCmd.label "ტექსტის ძებნა აკრეფისას">
+<!ENTITY findTypeTextCmd.accesskey "x">
+
+<!ENTITY viewMenu.label					"ჩვენება"> 
+<!ENTITY viewMenu.accesskey				"v"> 
+<!ENTITY viewToolbarsMenu.label				"აჩვენე/დამალე"> 
+<!ENTITY viewToolbarsMenu.accesskey			"T"> 
+<!ENTITY showTaskbarCmd.label					"სტატუსის პანელი">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!ENTITY direct.label                                   "ხაზზე (პროქსი: არა)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "ხაზზე (პროქსი: მითითება)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "ხაზზე (პროქსი: ავტო)">
+<!ENTITY pac.accesskey                                  "a">
+
+<!ENTITY proxy.label                                    "პროქსის გამართვა...">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+
+<!ENTITY closeCmd.label			"დახურვა">  
+<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.accesskey		"c">
+
+<!ENTITY closeWindow.label "ფანჯრის დახურვა">
+
+<!ENTITY quitApplicationCmd.label	"გასვლა"> 
+<!ENTITY quitApplicationCmd.key		"Q"> 
+<!ENTITY quitApplicationCmd.accesskey	"x">
+
+<!ENTITY quitApplicationCmdUnix.label	"დასრულება"> 
+<!ENTITY quitApplicationCmdUnix.accesskey	"q">
+
+<!ENTITY quitApplicationCmdMac.label	"&brandShortName; - დასრულება"> 
+<!ENTITY quitApplicationCmdMac.accesskey	"q">

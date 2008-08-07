@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title            "ჩამოტვირთვები">
+<!ENTITY downloadBehavior.label         "ჩამოტვირთვის დაწყებისას">
+<!ENTITY downloadLocation.label         "ფაილის შენახვისას">
+<!ENTITY finishedBehavior.label         "ჩამოტვირთვის დასრულებისას">
+<!ENTITY openDM.label                   "ჩამოტვირთვის მმართველის გახსნა">
+<!ENTITY openDM.accesskey               "m">
+<!ENTITY openProgressDialog.label       "მიმდინარეობის დიალოგის გახსნა">
+<!ENTITY openProgressDialog.accesskey   "O">
+<!ENTITY doNothing.label                "არცერთი ქმედება">
+<!ENTITY doNothing.accesskey            "D">
+<!ENTITY promptDownload.label           "ჩამოტვირთვის მისამართის მითითება და გახსნა">
+<!ENTITY promptDownload.accesskey       "P">
+<!ENTITY lastLocation.label             "ჩამოტვირთვის ბოლო დასტაში">
+<!ENTITY lastLocation.accesskey         "L">
+<!ENTITY specifiedLocation.label        "ჩამოტვირთვის მითითებულ დასტაში">
+<!ENTITY specifiedLocation.accesskey    "e">
+<!ENTITY autoDownload.label             "ფაილების ავტომატური ჩამოტვირთვა მითითებულ დასტაში">
+<!ENTITY autoDownload.accesskey         "A">
+<!ENTITY downloadFolder.label           "ჩამოტვირთვის მიმდინარე დასტა:">
+<!ENTITY chooseDownloadFolder.label     "დასტის არჩევა...">
+<!ENTITY chooseDownloadFolder.accesskey "C">
+<!ENTITY playSound.label                "გახმოვანება">
+<!ENTITY playSound.accesskey            "s">
+<!ENTITY showAlert.label                "გაფრთხილების ჩვენება">
+<!ENTITY showAlert.accesskey            "n">
+<!ENTITY browse.label                   "ნუსხა...">
+<!ENTITY browse.accesskey               "B">
+<!ENTITY preview.label                  "ესკიზი">
+<!ENTITY preview.accesskey              "v">
+<!ENTITY soundURL.label                 "ხმის URL:">
+<!ENTITY soundURL.accesskey             "U">

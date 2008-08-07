@@ -1,0 +1,75 @@
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY  windowtitle.label       "პრივატულობის პარამეტრები">
+<!ENTITY  privacyLevel.label      "პრივატულობის ხარისხი">
+<!ENTITY  p3pDetails              "ზოგი საიტი აქვეყნებ პრივატულობის პირობებს რომელშიც მიეთითება თუ როგორ გამოიყენება თქვენი პირედი მონაცემები.  ამ დიალოგით პრივატულობის დონის შესაბამისად შეგიძლიათ მიუთითოთ ნაჭდევების მიღების პირობები.">
+<!ENTITY  choose                  "წინასწარგანსაზღვრული პრივატულობის ხარისხის ან საკუთარი პარამეტრების მითითება:">
+<!ENTITY  low.label               "დაბალი">
+<!ENTITY  medium.label            "საშუალო">
+<!ENTITY  high.label              "მაღალი">
+<!ENTITY  custom.label            "საკუთარი">
+<!ENTITY  low.accesskey           "l">
+<!ENTITY  medium.accesskey        "m">
+<!ENTITY  high.accesskey          "h">
+<!ENTITY  custom.accesskey        "c">
+
+<!ENTITY  customSettings.label    "ნაჭდევების მიღების პირობები (პრივატულობის ხარისხის ფუნქცია)">
+<!ENTITY  firstParty.label        "პირველადი ნაჭდევები">
+<!ENTITY  thirdParty.label        "მესამე მხრის ნაჭდევები">
+<!ENTITY  noPolicy.label          "საიტს პრივატულობის პირობები არ აქვს">
+<!ENTITY  noConsent.label         "საიტი იღებს თქვენს პირად ინფორმაციას თქვენი თანხმობის გარეშე">
+<!ENTITY  implicitConsent.label   "საიტი იღებს თქვენს პირად ინფორმაციას თქვენი არაპირდაპირი თანხმობის გარეშე">
+<!ENTITY  explicitConsent.label   "საიტი ირ იღებს თქვენს პირად ინფორმაციას თქვენი თანხმობის გარეშე">
+
+<!ENTITY  accept.label            "მიღება">
+<!ENTITY  flag.label              "შეზღუდვა">
+<!ENTITY  downgrade.label         "სეანსი">
+<!ENTITY  reject.label            "უარყოფა">
+
+<!ENTITY  showIcon.label          "გამაფრთხილებელი პიქტოგრამის ჩვენება პრივატულობის დონის გადართვისას">
+
+<!ENTITY  p3pDialogTitle.label       "ნაჭდევების შეტყობინება">
+<!ENTITY  p3pDialogOff.label         "ყველანაჭდევის დაშვება">
+<!ENTITY  p3pDialogClose.label       "დახურვა">
+<!ENTITY  p3pDialogViewCookies.label "ნაჭდევების მმართველის ჩვენება">
+<!ENTITY  p3pDialogViewLevels.label  "პრივატულობის პარამეტრების ჩვენება">
+<!ENTITY  p3pDialogMessage1.label    "ვებსაიტმა, რომელსაც ათვალიერებთ, ჩადგა ნაჭდევი რამაც ნაჭდევის შეტყობინების პიქტოგრამის ჩვენება გამოიწვია, როგორც პრივატულობის პარამეტრებში მიუთითეთ.">
+<!ENTITY  p3pDialogMessage2.label    "ნაჭდევი გახლავთ ინფორმაციის მცირ ჯგრო, რომელსაც რომელიმე ვებსაიტი თქვენს კომპიუტერში ინახავს.  მათი და პრივატულობის სტატუსის სამართავად გამოიყენეთ ნაჭდევების მმართველი.">

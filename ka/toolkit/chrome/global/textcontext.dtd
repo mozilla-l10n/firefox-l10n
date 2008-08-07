@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "ამოჭრა">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "კოპირება">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "ჩასმა">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY undoCmd.label "დაბრუნება">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY selectAllCmd.label "სრული მონიშვნა">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "წაშლა">
+<!ENTITY deleteCmd.accesskey "d">
+
+<!ENTITY spellAddToDictionary.label "ლექსიკონში დამატება">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellCheckEnable.label "მართლწერის შემოწმება">
+<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(მართლწერის შემოთავაზებები არაა)">
+<!ENTITY spellDictionaries.label "ენები">
+<!ENTITY spellDictionaries.accesskey "l">

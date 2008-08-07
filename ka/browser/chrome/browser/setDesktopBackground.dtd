@@ -1,0 +1,9 @@
+<!ENTITY position.label             "განთავსება:">
+<!ENTITY tile.label                 "შევსება">
+<!ENTITY center.label               "ცენტრში">
+<!ENTITY stretch.label              "გაჭიმვა">
+<!ENTITY preview.label              "ესკიზი">
+<!ENTITY color.label                "ფერი:">
+<!ENTITY setDesktopBackground.title "სამუშაო დაფის ფონის მითითება">
+<!ENTITY openDesktopPrefs.label     "სამუშაო დაფის პარამეტრების გახსნა">
+<!ENTITY closeWindow.key            "w">

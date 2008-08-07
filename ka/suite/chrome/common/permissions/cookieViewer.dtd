@@ -1,0 +1,35 @@
+<!ENTITY     tab.cookiesonsystem.label      "შენახული ნაჭდევები">
+<!ENTITY     tab.bannedservers.label        "ნაჭდევების საიტები">
+<!ENTITY     div.bannedservers.label        "ინტერნეტის საიტები რომლებსაც ნებას რთავთ ან უკრძალავთ ნაჭდევის ჩაწერას.">
+<!ENTITY     div.cookiesonsystem.label      "კომპიუტერში ჩაწერილი ნაჭდევების ჩვენება და ამოშლა.">
+<!ENTITY     treehead.cookiename.label      "ნაჭდევის სახელი">
+<!ENTITY     treehead.cookiedomain.label    "საიტი"> 
+<!ENTITY     treehead.cookiestatus.label    "სტატუსი"> 
+<!ENTITY     treehead.cookieexpires.label   "ვადა"> 
+<!ENTITY     treehead.infoselected.label    "შერჩეული ნაჭდევის მონაცემები">
+<!ENTITY     button.removecookie.label      "ნაჭდევის ამოშლა">
+<!ENTITY     button.removeallcookies.label  "ყველა ნაჭდევის ამოშლა">
+
+<!ENTITY     props.name.label               "სახელი:">
+<!ENTITY     props.value.label              "შიგთავსი:">
+<!ENTITY     props.domain.label             "ჰოსტი:">
+<!ENTITY     props.path.label               "გეზი:">
+<!ENTITY     props.secure.label             "გაიგზავნოს:">
+<!ENTITY     props.expires.label            "ვადა:">
+<!ENTITY     props.policy.label             "წესები:"> 
+
+<!ENTITY     treehead.sitename.label        "საიტი">
+<!ENTITY     treehead.status.label          "სტატუსი">
+<!ENTITY     windowtitle.label              "ნაჭდევების მართვა">
+<!ENTITY     buttonaccept.label             "დახურვა">
+
+<!ENTITY     blockSite.label                "დაბლოკვა">
+<!ENTITY     allowSite.label                "დაშვება">
+<!ENTITY     allowSiteSession.label         "სეანსი">
+<!ENTITY     removepermission.label         "საიტის ამოღება">
+<!ENTITY     removeallpermissions.label     "ყველა საიტის ამოღება">
+
+<!ENTITY     canSet.label                   "შეუძლია ნაჭდევების ჩაწერა">
+<!ENTITY     cannotSet.label                "ეკრძალება ნაჭდევების ჩაწერა">
+
+<!ENTITY     checkbox.label                 "აკრძალული საიტებისთვის მომავალში ნაჭდევებს ჩაწერის აკრძალვა">

@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "იმპორტის მმართველი">
+
+<!ENTITY importFromWin.label               "პარამეტრების, ანგარიშების, წიგნაკის, ფილტრებისა და სხვა მონაცემების იმპორტი:">
+<!ENTITY importFromNonWin.label           "პარამეტრების, ანგარიშების, წიგნაკის, ფილტრებისა და სხვა მონაცემების იმპორტი:">
+
+<!ENTITY importFromNothing.label        "იმპორტის გარეშე">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "პარამეტრებისა და წერილების დასტების იმპორტი">
+<!ENTITY importItems.title              "ელემენტები">
+<!ENTITY importItems.label              "ელემენტების მონიშვნა:">
+
+<!ENTITY migrating.title                "იმპორტირება…">
+<!ENTITY migrating.label                "იმპორტირებულია შემდეგი ელემენტები…">
+
+<!ENTITY selectProfile.title            "პროფილის არჩევა">
+<!ENTITY selectProfile.label            "შესაძლებელია შემდეგი პროფილების იმპორტი:">
+
+<!ENTITY done.title                     "იმპორტი დასრულდა">
+<!ENTITY done.label                     "წარმატებით დაიმპორტდა შემდეგი ელემენტები:">

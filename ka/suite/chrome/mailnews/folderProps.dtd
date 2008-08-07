@@ -1,0 +1,101 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label           "Properties">
+
+<!ENTITY generalInfo.label                       "ზოგადი ინფორმაცია">
+<!ENTITY folderCharsetTab.label                  "ძირითადი ენა - კოდირება:">
+<!ENTITY folderCharsetTab.accesskey              "E">
+<!ENTITY folderCharsetOverride.label  "ძირითადი პარამეტრების გამოყენება დასტის ყველა წერილისათვის (თითოეული წერილის კოდირება და ავტოდეტექცია უქმდება)">
+<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderRebuildSummaryFile.label          "რეზიუმეს ფაილის ხელახლა აგება">
+<!ENTITY folderRebuildSummaryFile.accesskey      "R">
+<!ENTITY folderRebuildSummaryFileTip.label       "რეზიუმეს ფაილის ხელახლა აგება">
+
+<!ENTITY retention.label "შენარჩუნების პირობები">
+<!ENTITY retentionUseDefault.label "სერვერის ნაგულისხმები">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY days.label "დღე">
+<!ENTITY daysOld.label "days old">
+<!ENTITY message.label "წერილი">
+<!ENTITY retentionNotDownloadRead.label "წაკითხული წერილები">
+<!ENTITY retentionNotDownloadRead.accesskey "R">
+<!ENTITY retentionDownloadMsg.label "რომელთა ასაკიც მეტია ვიდრე">
+<!ENTITY retentionDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "შენარჩუნება:">
+<!ENTITY retentionKeepMsg.label "წრილები რომელთა ასაკიც ნაკლებია ვიდრე">
+<!ENTITY retentionKeepMsg.accesskey "w">
+<!ENTITY retentionKeepAll.label "წველა წერილი">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "უახლესი">
+<!ENTITY retentionKeepNew.accesskey "n">
+<!ENTITY retentionKeepUnread.label "მხოლოდ წასაკითხი წერილები">
+<!ENTITY retentionKeepUnread.accesskey "u">
+
+<!ENTITY folderOfflineTab.label                  "ავტონომიური რეჟიმი">
+<!ENTITY folderCheckForNewMessages.label         "ამ დასტის ახალ წერილებზე შემოწმება">
+<!ENTITY folderCheckForNewMessages.accesskey     "C">
+
+<!ENTITY offlineFolder.check.label               "დასტის არჩევა ავტონომიური მოხმარებისათვის">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "გადმოწერა ახლავე">
+<!ENTITY offlineFolder.button.accesskey          "D">
+
+<!ENTITY selectofflineNewsgroup.check.label      "ჯგუფის არჩევა ავტონომიური მოხმარებისათვის">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "ძირითადი პარამეტრების გამოყენება ანგარიშისათვის ">
+<!ENTITY offlineNewsgroup.button.label           "გადმოწერა ახლავე">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
+
+<!ENTITY folderProps.information.label  "ინფორმაცია:">
+<!ENTITY folderProps.name.label	        "სახელი:">
+<!ENTITY folderProps.name.accesskey              "N">
+
+<!ENTITY folderSharingTab.label                  "გაზიარება">
+<!ENTITY privilegesDesc.label                    "ამ და სხვა დასტების ქსელის მომხმარებლებისთვის გაზიარება და მათი ჩვენებისა და დაშვების უფლებების მითითება">
+<!ENTITY privileges.button.label                 "პრივილეგიები...">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "თქვენ გაქვთ შემდეგი უფლებები:">
+<!ENTITY folderType.label                        "დასტის ტიპი:">
+
+<!ENTITY folderQuotaTab.label                    "ქვოტა">
+<!ENTITY folderQuotaRoot.label                   "ქვოტა:">
+<!ENTITY folderQuotaUsage.label                  "გამოყენება:">
+<!ENTITY folderQuotaStatus.label                 "სტატუსი:">

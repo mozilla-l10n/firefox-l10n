@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "წერილების გადმოწერა და სინქრონიზება">
+<!ENTITY MsgSelect.label "ელემენტები ავტონომიური მოხმარებისათვის">
+<!ENTITY MsgSyncDesc.label "თუ უკვე არჩეული გაქვთ წერილების დასტები ან ჯგუფები ავტონომიური მოხმარებისათვის, შეგიძლიათ მათი გადმოწერა და/ან სინქრონიზება. სხავ შემთხვევაში გამოიყენეთ ღილაკი &quot;არჩევა&quot; დასტებისა და ჯგუფების მისათითებლად.">
+<!ENTITY MsgSyncDirections.label "წერილების გადმოწერა და/ან სინქრონიზება:">
+<!ENTITY syncTypeMail.label "წერილები">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "ჯგუფების წერილები">
+<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY sendMessage.label "გასაგზავნი წერილების გაგზავნა">
+<!ENTITY sendMessage.accesskey "S">
+<!ENTITY workOffline.label "გადმოწერის და/ან სინქრონიზების დასრულებისას ავტონომიურ რეჟიმში გადასვლა">
+<!ENTITY workOffline.accesskey "W">
+<!ENTITY selectButton.label "არჩევა...">
+<!ENTITY selectButton.accesskey "E">
+<!ENTITY MsgSelectDesc.label "წერილების დასტები და ჯგუფების არჩევა ავტონომიური რეჟიმისათვის.">
+<!ENTITY MsgSelectInd.label "გადმოწერა">
+<!ENTITY MsgSelectItems.label "დასტები და ჯგუფები">

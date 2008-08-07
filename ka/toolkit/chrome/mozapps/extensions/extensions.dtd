@@ -1,0 +1,170 @@
+<!ENTITY addons.title                     "მოდულები">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "580">
+<!ENTITY em.height                        "420">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "პაკეტების მიღება">
+<!ENTITY extensions.label                 "პაკეტები">
+<!ENTITY themes.label                     "თემები">
+<!ENTITY locales.label                    "ენები">
+<!ENTITY plugins.label                    "მოდულები">
+<!ENTITY update.label                     "განახლებები">
+<!ENTITY install.label                    "ჩადგმა">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "განახლებების პოვნა">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "თქვენი მოდულების განახლებების პოვნა">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "თქვენი თემების განახლებების პოვნა">
+<!ENTITY cmd.installLocalFile.label       "ჩადგმა…">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.installFileAddon.tooltip     "მოდულის ჩადგმა">
+<!ENTITY cmd.installFileTheme.tooltip     "თემის ჩადგმა">
+<!ENTITY cmd.installUpdatesAll.label      "განახლებების ჩადგმა">
+<!ENTITY cmd.installUpdatesAll.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll.tooltip    "შერჩეული განახლებების ჩადგმა">
+<!ENTITY cmd.restartApp2.label             "გადატვირთვა - &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey         "R">
+<!ENTITY cmd.restartApp2.tooltip           "ჩადგმის დასასრულებლად &brandShortName; სეანსის ხელახალი დაწყება">
+<!ENTITY cmd.skip.label                   "გამოტოვება">
+<!ENTITY cmd.skip.accesskey               "k">
+<!ENTITY cmd.skip.tooltip                 "ამ განახლებების გამოტოვება">
+<!ENTITY cmd.continue.label               "გაგრძელება">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.continue.tooltip             "ჩატვირთვის გაგრძელება - &brandShortName;">
+
+<!ENTITY cmd.enableAll.label              "ყველას ჩართვა">
+<!ENTITY cmd.enableAll.accesskey          "a">
+<!ENTITY cmd.enableAll.tooltip            "ყველა ნაჩვენები მოდულის ჩართვა">
+<!ENTITY cmd.disableAll.label             "ყველას ამორთვა">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "ყველა ნაჩვენები მოდულის ამორთვა">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "თემის გამოყენება">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName;-ის თემის შეცვლა">
+<!ENTITY cmd.options.label                "პარამეტრები">
+<!ENTITY cmd.options.accesskey            "O">
+<!ENTITY cmd.options.tooltip              "შერჩეული პაკეტის პარამეტრების მითითება">
+<!ENTITY cmd.optionsUnix.label            "პარამეტრები">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "შერჩეული პაკეტის პარამეტრების რედაქტირება">
+<!ENTITY cmd.enable.label                 "ჩართვა">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "ამ მოდულის გააქტივება &brandShortName; სეანსის ხელახალი დაწყებისას">
+<!ENTITY cmd.disable.label                "ამორთვა">
+<!ENTITY cmd.disable.accesskey            "D">
+<!ENTITY cmd.disable.tooltip              "ამ მოდულის ამორთვა &brandShortName; ახალ სეანსზე">
+<!ENTITY cmd.uninstall.label              "ამოღება">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "ამ მოდულის ამოღება &brandShortName; ახალ სეანსზე">
+<!ENTITY cmd.cancelUninstall.label        "ამოღების გაუქმება">
+<!ENTITY cmd.cancelUninstall.accesskey    "C">
+<!ENTITY cmd.cancelUninstall.tooltip      "ამ მოდულის ამოღების გაუქმება">
+<!ENTITY cmd.cancelInstall.label          "ჩადგმის გაუქმება">
+<!ENTITY cmd.cancelInstall.accesskey      "C">
+<!ENTITY cmd.cancelInstall.tooltip        "ამ მოდულის ჩადგმის გაუქმება">
+<!ENTITY cmd.cancelUpgrade.label          "განახლების გაუქმება">
+<!ENTITY cmd.cancelUpgrade.accesskey      "C">
+<!ENTITY cmd.cancelUpgrade.tooltip        "ამ მოდულის განახლების გაუქმება">
+<!ENTITY cmd.installUpdate.label          "განახლების ჩადგმა">
+<!ENTITY cmd.installUpdate.accesskey      "I">
+<!ENTITY cmd.installUpdate.tooltip        "ამ მოდულის განახლების ჩადგმა">
+<!ENTITY cmd.showUpdateInfo.label         "ინფორმაციის ჩვენება">
+<!ENTITY cmd.showUpdateInfo.accesskey     "S">
+<!ENTITY cmd.showUpdateInfo.tooltip       "დამატებითი ინფორმაციის ჩვენება ამ განახლებების შესახებ">
+<!ENTITY cmd.hideUpdateInfo.label         "ინფორმაციის დამალვა">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "ინფორმაციის დამალვა ამ განახლებების შესახებ">
+<!ENTITY cmd.installSearchResult.label     "დამატება &brandShortName; პროგრამაში…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip   "ამ პაკეტის ჩამოტვირთვა და ჩადგმა">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "გაუქმება">
+<!ENTITY cancel.accesskey                 "C">
+<!ENTITY cancelInstall.label              "გაუქმება">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "გაუქმება">
+<!ENTITY cancelUpgrade.accesskey          "C">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "სათაო გვერდი">
+<!ENTITY cmd.homepage.accesskey           "H">
+<!ENTITY cmd.about2.label                 "ამ მოდულის შესახებ">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "განახლების პოვნა">
+<!ENTITY cmd.checkUpdate.accesskey        "F">
+
+<!ENTITY cmd.includeUpdate.label          "განახლების ჩათვლით">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "ამ განახლების ჩათვლით">
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY includeUpdate.tooltip            "ამ მოდულის ჩათვლით განახლებების ჩადგმისას">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "უსაფრთხო განახლეწბებს არ უზრუნველყოფს.">
+<!ENTITY needsDependencies.label          "საჭიროებს დამატებით ელემენტებს.">
+<!ENTITY blocklisted.label                "ეს მოდული ამორთულია თქვენი უსაფრთხოების მიზნით.">
+<!ENTITY toBeDisabled.label               "ეს მოდული ამოირთვება &brandShortName; ახალ სეანსზე.">
+<!ENTITY toBeEnabled.label                "ეს მოდული ჩაირთვება &brandShortName; ახალ სეანსზე.">
+<!ENTITY toBeInstalled.label              "ეს მოდული ჩაიდგმება &brandShortName; ახალ სეანსზე.">
+<!ENTITY toBeUninstalled.label            "ეს მოდული ამოიღება &brandShortName; ახალ სეანსზე.">
+<!ENTITY toBeUpdated.label                "ეს მოდული &brandShortName; ახალ სეანსზე განახლდება.">
+
+<!ENTITY getExtensions.label              "სხვა პაკეტები">
+<!ENTITY getThemes.label                  "სხვა თემები">
+<!ENTITY getPlugins.label                 "სხვა მოდულები">
+
+<!ENTITY searchAddons.label               "ყველა პაკეტის მოძიება">
+<!ENTITY browseAddons.label               "ყველა პაკეტის ნუსხა">
+<!ENTITY searchFailed.label               "&brandShortName; პაკეტების მიღებას ვერ ახერხებს">
+<!ENTITY recommendedHeader.label          "რეკომენდებული">
+<!ENTITY recommendedThrobber.label        "რეკომენდებული პაკეტების მიღება">
+<!ENTITY searchThrobber.label             "პაკეტების ძიება">
+<!ENTITY resetSearch.label                "შედეგების გასუფთავება">
+<!ENTITY noSearchResults.label            "ყველა შედეგი უკვე ჩადგმული ან არათავსებადია.">
+<!ENTITY noRecommendedResults.label       "ყველა რეკომენდაცია უკვე ჩადგმული ან არათავსებადია.">
+<!ENTITY emptySearch.label                "მსგავსი პაკეტი ვერ მოიძებნა">
+<!ENTITY emptySearch.button               "დიახ">
+<!ENTITY cancelSearch.button              "გაუქმება">
+<!ENTITY searchFailed.button              "დიახ">
+<!ENTITY searchResultHomepage.value       "დაწვრილებით">
+<!ENTITY searchBox.label                  "ყველა პაკეტის მოძიება">
+<!ENTITY recommendedResults.label         "ყველა რეკომენდებული პაკეტის ჩვენება">
+<!ENTITY searchResultConnecting.label     "დაკავშირება…">
+<!ENTITY searchResultInstalling.label     "ჩადგმა…">
+<!ENTITY searchResultFailed.label         "ჩადგმა ვერ მოხერხდა">
+<!ENTITY searchResultInstalled.label      "ჩადგმა დასრულდა">
+<!ENTITY addonTypeExtension.label         "პაკეტი">
+<!ENTITY addonTypeTheme.label             "თემა">
+<!ENTITY missingThumbnail.label           "ესკიზი არაა">
+
+<!ENTITY previewNoThemeSelected.label     "თემა არ შერჩეულა">
+<!ENTITY previewNoPreviewImage.label      "ამ თემას ესკიზი არ გააჩნია">
+<!ENTITY moreInfo.label                   "დამატებითი ინფორმაცია">
+<!ENTITY infoNoAddonSelected.label        "განახლება არ შერჩეულა">
+<!ENTITY infoNoUpdateInfo.label           "ამ განახლების შესახებ დამატებითი ინფორმაცია არაა">
+<!ENTITY infoUpdateInfoError.label        "შეცდომა ამ განახლების შესახებ ინფორმაციის ჩატვირთვისას">
+
+<!ENTITY updateSuccess.label              "განახლება წარმატებით დასრულდა.">
+<!ENTITY installSuccess.label             "ჩადგმა წარმატებით დასრულდა.">
+<!ENTITY installSuccessRestart.label      "გადატვირთეთ ხელახლა ჩადგმის დასასრულებლად.">
+<!ENTITY updateSuccessRestart.label       "გადატვირთეთ ხელახლა განახლების დასასრულებლად.">
+<!ENTITY installWaiting.label             "დაცდა…">
+<!ENTITY installIncompatibleUpdate.label  "თავსებადობის შემოწმება…">
+<!ENTITY installFinishing.label           "ჩადგმა…">
+<!ENTITY installFailure.label             "ჩადგმა არ შედგა.">
+
+<!ENTITY progressStatus.label             "შემოწმება განახლებებზე">
+
+<!ENTITY eula.title                       "მომხმარებლის სალიცენზიო შეთანხმება">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "მიღება და ჩადგმა…">

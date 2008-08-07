@@ -1,0 +1,23 @@
+<!-- extracted from content/pref-applications.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
+<!ENTITY pref.applications.title        "დახმარების პროგრამები">
+<!ENTITY pref.applications.caption      "მიუთითეთ პროგრამა თითოეული ფაილის ტიპისათვის">
+<!ENTITY fileTypes.label                "ფაილის ტიპები:">
+<!ENTITY aimLaunchSelect.label          "AOL ფოსტალიონი">
+<!ENTITY newTypeButton.label            "ახალი ტიპი...">
+<!ENTITY newTypeButton.accesskey        "n">
+<!ENTITY editButton.label               "რედაქტირება...">
+<!ENTITY editButton.accesskey           "E">
+<!ENTITY removeButton.label             "ამოშლა">
+<!ENTITY removeButton.accesskey         "R">
+<!ENTITY file                           "ფაილის ტიპის დეტალები">
+<!ENTITY exten                          "გაფართოება/ები:">
+<!ENTITY mimeDesc                       "აღწერა:">
+<!ENTITY handle                         "ქმედება:">
+<!ENTITY handle.accesskey               "W">
+<!ENTITY fileOpening.label              "ფაილების გახსნა">
+<!ENTITY plugins.label                  "მოდულების ძებნის სერვისი">
+<!ENTITY pluginFinder.label             "ნეტსქეიპის მოდულების ძებნის სერვისის (PFS) გამოყენება ჩადგმების გადმოსაწერად.">
+<!ENTITY pluginFinder.accesskey         "A">
+<!ENTITY pluginFinderDesc.label         "თუ ეს ოპცია გამორთულია, PFS გამოიყენება მხოლოდ მაშინ, როცა მოდულის მისამართი არ მიეთითება გვერდზე, რომელიც მას იყენებს.">

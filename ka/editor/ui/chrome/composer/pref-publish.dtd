@@ -1,0 +1,21 @@
+<!-- extracted from content/pref-publish.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+<!ENTITY  pref.publish.title     "გამოქვეყნება">
+<!ENTITY  composerHeader.label   "გამოქვეყნება">
+<!ENTITY  maintainCheckbox.label "ბმების მართვა">
+<!ENTITY  keepCheck.label        "ნახატების შენარჩუნება გვერდზე">
+
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  adjustDesc.label       "ბმების კორექტირება სერვერთან სამუშაოდ. (ადგილობრივი ბმები იმუშავებენ თუ
+			          არსებობს ადგილობრივი გვერდები.)           ">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  saveDesc.label         "ნახატების ასლების დამახსოვრება გვერდის მისამართზე.  ნახატები
+				  გამოჩნდება გვერდის ლოკალურ და გამოქვეყნებულ ვერსიებში.">
+<!ENTITY  tip.label              "რჩევა: ჩართეთ ორივე შესაძლებლობა თუ გარე გამოქვეყნებას აპირებთ.">
+<!ENTITY  defaultHeader.label    "გამოქვეყნების ნაგულისხმები მისამართი">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY  publishFtp.label       "თუ აქვეყნებთ FTP საიტზე, მიუთითეთ HTTP მისამართი ნუსხისათვის:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY  publishhtp.label       "თუ აქვეყნებთ FTP საიტზე, მიუთითეთ HTTP მისამართი ნუსხისათვის:">
+

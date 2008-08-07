@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label            "წიგნაკი:">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchInput.label                  "ძიება:">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY SearchNameOrEmail.label            "წერილის სახელი">
+
+<!ENTITY deleteAddrBookCard.label           "წაშლა">
+<!ENTITY addrBookCardProperties.label       "პარამეტრები">
+<!ENTITY addtoToFieldMenu.label             "დამატება ველში">
+<!ENTITY addtoCcFieldMenu.label             "დამატება ასლის ველში">
+<!ENTITY addtoBccFieldMenu.label            "დამატება ფარული ასლის ველში">
+
+<!ENTITY toButton.label                     "დამატება ველში - ვის:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "დამატება ველში - ასლი:">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "ფარულ ასლებში დამატება:">
+<!ENTITY bccButton.accesskey                "B">

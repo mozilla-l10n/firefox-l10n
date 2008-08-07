@@ -1,0 +1,23 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML წერილის თვისებები">
+
+<!ENTITY recipient.label "ზოგი ადრესატი არ არის HTML წერილების მიმღებთა სიაში.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "შესაძლებელია თქვენი წერილების ტექსტურ ფორმატში გადაყვანა მონაცემთა დაკარგვის გარეშე.">
+<!ENTITY convertibleAltering.label "შესაძლებელია თქვენი წერილების ტექსტურ ფორმატში გადაყვანა მონაცემთა დაკარგვის გარეშე. თუმცა, ტექსტური ვერსია შესაძლოა ოდნავ განსხვავებულად გამოიყურებოდეს.">
+<!ENTITY convertibleNo.label "ასევე, თქვენს მიერ გამოყენებული ფორმატირება (მაგ. ფერები) არ გადავა ტექსტურ ვერსიაში.">
+
+<!ENTITY question.label "გსურთ თუ არა წერილის ტექსტურ ფორმატში გადაყვანა თუ HTML ვერსიის გაგზავნა?">
+
+<!ENTITY plainTextAndHtml.label "გაგზავნა როგორც ტექსტი და HTML">
+<!ENTITY plainTextOnly.label "მხოლოდ როგორც ტექსტის გაგზავნა">
+<!ENTITY htmlOnly.label "მხოლოდ როგორც HTML-ის გაგზავნა">
+
+<!ENTITY plainTextAndHtmlRecommended.label "გაგზავნა როგორც ტექსტი და HTML (რეკომენდებულია)">
+<!ENTITY plainTextOnlyRecommended.label "გაგზავნა მხოლოდ როგორც ტექსტი (რეკომენდებულია)">
+<!ENTITY htmlOnlyRecommended.label "გაგზავნა მხოლოდ როგორც HTML (რეკომენდებულია)">
+<!ENTITY recommended.label "(რეკომენდებულია)">
+
+<!ENTITY send.label "გაგზავნა">
+<!ENTITY recipients.label "ადრესატები...">

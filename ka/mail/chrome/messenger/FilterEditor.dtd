@@ -1,0 +1,38 @@
+<!ENTITY window.title "ფილტრის წესები">
+
+<!ENTITY filterName.label "ფილტრის სახელი:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "უსარგებლო">
+<!ENTITY notJunk.label "სასარგებლო">
+
+<!ENTITY lowestPriorityCmd.label "უდაბლესი">
+<!ENTITY lowPriorityCmd.label "დაბალი">
+<!ENTITY normalPriorityCmd.label "ჩვეულებრივი">
+<!ENTITY highPriorityCmd.label "მაღალი">
+<!ENTITY highestPriorityCmd.label "უმაღლესი">
+
+<!ENTITY conditionDesc.label "მსგავსი წერილებისთვის:">
+<!ENTITY filterActionDesc.label "შესრულდეს:">
+<!ENTITY filterActionDesc.accesskey "P">
+
+<!ENTITY newFolderButton.label "ახალი დასტა…">
+<!ENTITY newFolderButton.accesskey "N">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "წერილის გადატანა -">
+<!ENTITY copyMessage.label "წერილის კოპირება -">
+<!ENTITY forwardTo.label "წერილის გადაგზავნა -">
+<!ENTITY replyWithTemplate.label "პასუხი თარგით">
+<!ENTITY markMessageRead.label "მონიშვნა წაკითხულად">
+<!ENTITY markMessageStarred.label "მონიშვნა ალმით">
+<!ENTITY setPriority.label "პრიორიტეტის მითითება -">
+<!ENTITY addTag.label "წერილის დაჭდევება">
+<!ENTITY setJunkScore.label "ჯართის სტატუსის მითითება -">
+<!ENTITY deleteMessage.label "წერილის წაშლა">
+<!ENTITY deleteFromPOP.label "წაშლა POP სერვერიდან">
+<!ENTITY fetchFromPOP.label "მიღება POP სერვერიდან">
+<!ENTITY ignoreThread.label "საქაღალდის იგნორირება">
+<!ENTITY ignoreSubthread.label "ქვეთემის იგნორირება">
+<!ENTITY watchThread.label "საქაღალდის თვალმიდევნება">
+<!ENTITY stopExecution.label "ფილტრის გამოყენების შეწყვეტა">

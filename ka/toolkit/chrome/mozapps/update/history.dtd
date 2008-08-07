@@ -1,0 +1,12 @@
+
+<!ENTITY  history.title             "განახლების ისტორია">
+<!ENTITY  history.intro             "ჩაიდგა შემდეგი განახლებები:">
+<!ENTITY  closebutton.label         "დახურვა">
+                                     
+<!ENTITY  noupdates.label           "განახლებები ჯერ არ ჩადგმულა">
+
+<!ENTITY  name.header               "განახლების სახელი">
+<!ENTITY  date.header               "ჩადგმის თარიღი">
+<!ENTITY  type.header               "ტიპი">
+<!ENTITY  state.header              "სტატუსი">
+

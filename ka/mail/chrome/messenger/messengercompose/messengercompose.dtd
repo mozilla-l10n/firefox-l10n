@@ -1,0 +1,276 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "ჩაწერა: (თემის გარეშე)">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label "ფაილი"> 
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "ახალი">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMessage.label "წერილი">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY newCard.label "წიგნაკის ბარათი…">
+<!ENTITY newCard.accesskey "c">
+<!ENTITY attachMenu.label "მიმაგრება">
+<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachFileCmd.label "ფაილ(ებ)ი…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "ვებ გვერდი…">
+<!ENTITY attachPageCmd.accesskey "W">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "სავიზიტო ბარათი (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY closeCmd.label "დახურვა">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "c">
+<!ENTITY saveCmd.label "ჩაწერა">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveAsCmd.label "ჩაწერა როგორც">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsFileCmd.label "ფაილი…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "ესკიზი">
+<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsTemplateCmd.label "შაბლონი">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY sendNowCmd.label "გაგზავნა ახლავე">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "გაგზავნა მოგვიანებით">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printCmd.label "ბეჭდვა…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY quitApplicationCmdWin.label                    "გასვლა"> 
+<!ENTITY quitApplicationCmdWin.accesskey                "x">
+<!ENTITY quitApplicationCmd.label                       "დასრულება"> 
+<!ENTITY quitApplicationCmd.accesskey                   "Q">
+<!ENTITY quitApplicationCmd.key "Q">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "რედაქტირება"> 
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "დაბრუნება">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u"> 
+<!ENTITY redoCmd.label "გამეორება">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r"> 
+<!ENTITY cutCmd.label "ამოჭრა">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t"> 
+<!ENTITY copyCmd.label "კოპირება">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c"> 
+<!ENTITY pasteCmd.label "ჩასმა">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY editRewrapCmd.label "გადაფორმატება">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY deleteCmd.label "წაშლა">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY selectAllCmd.label "სრული მონიშვნა">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a"> 
+<!ENTITY findCmd.label "ძებნა და შეცვლა…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "კვლავძიება">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "წინას პოვნა">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label "ჩვენება"> 
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenuNew.label "პულტები"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY showCompositionToolbarCmd.label "წერილის პულტი">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "ფორმატის პანელი">
+<!ENTITY showFormattingBarCmd.accesskey "F">
+<!ENTITY showTaskbarCmd.label "სტატუსის პანელი">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "მორგება…">
+<!ENTITY customizeToolbar.accesskey "C">
+
+<!ENTITY addressSidebar.label "კონტაქტების პანელი"> 
+<!ENTITY addressSidebar.accesskey "o"> 
+
+<!-- Format Menu -->
+<!ENTITY formatMenu.label "ფორმატი">
+<!ENTITY formatMenu.accesskey "o">
+
+<!-- Options Menu -->
+<!ENTITY optionsMenu.label "ოპციები">
+<!ENTITY optionsMenu.accesskey "p">
+<!ENTITY checkSpellingCmd.label "მართლწერის შემოწმება…">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key2 "VK_F7">
+<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "მართლწერის შემოწმება ტექსტის შეტანისას">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY quoteCmd.label "წერილის ციტირება">
+<!ENTITY quoteCmd.accesskey "Q">
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCard.label "სავიზიტო ბარათის (vCard) თანდართვა">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY returnReceiptMenu.label "მიღების დასტური">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "მიღების სტატუსის შეტყობინება">
+<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY outputFormatMenu.label "ფორმატი">
+<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY autoFormatCmd.label "ავტოდეტექცია">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "მხოლოდ ტექსტი">
+<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY htmlFormatCmd.label "მხოლოდ ჰიპერტექსტი (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "ტექსტი და ჰიპერტექსტი (HTML)">
+<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY priorityMenu.label "პრიორიტეტი">
+<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityButton.label "პრიორიტეტი:">
+<!ENTITY lowestPriorityCmd.label "უდაბლესი">
+<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowPriorityCmd.label "დაბალი">
+<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY normalPriorityCmd.label "ჩვეულებრივი">
+<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY highPriorityCmd.label "მაღალი">
+<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highestPriorityCmd.label "უმაღლესი">
+<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY fileCarbonCopyCmd.label "ასლის გადაგზავნა">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "აკინძვა">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "მოდულები">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "ფოსტა და ჯგუფები">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "წიგნაკი">
+<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY accountManagerCmd.label "ანგარიშის პარამეტრები…">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmdUnix.accesskey "S">
+<!ENTITY preferencesCmd.label "ოპციები…">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label       "პარამეტრები">
+<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "მინიმიზება">
+<!ENTITY bringAllToFront.label "ყველას წინ გადმოტანა">
+<!ENTITY zoomWindow.label "მასშტაბი"> 
+<!ENTITY windowMenu.label "ფანჯარა"> 
+
+<!-- Mail Toolbar -->
+<!ENTITY sendButton.label "გაგზავნა">
+<!ENTITY quoteButton.label "ციტირება">
+<!ENTITY addressButton.label "მისამართი">
+<!ENTITY attachButton.label "მიმაგრება">
+<!ENTITY spellingButton.label "მართლწერა">
+<!ENTITY saveButton.label "ჩაწერა">
+<!ENTITY throbberItem.title "აქტიურობის მაჩვენებელი">
+
+<!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "წერილის დაუყოვნებლივ გაგზავნა"> 
+<!ENTITY sendlaterButton.tooltip "წერილის მოგვიანებით გაგზავნა"> 
+<!ENTITY quoteButton.tooltip "საწყისი წერილის ციტირება"> 
+<!ENTITY addressButton.tooltip "ადრესატის არჩევა წიგნაკიდან"> 
+<!ENTITY attachButton.tooltip "წერილში ფაილის ჩართვა"> 
+<!ENTITY saveButton.tooltip "წერილის შენახვა"> 
+<!ENTITY cutButton.tooltip              "ამოჭრა">
+<!ENTITY copyButton.tooltip             "კოპირება">
+<!ENTITY pasteButton.tooltip            "ჩასმა">
+
+<!-- Headers -->
+<!ENTITY fromAddr.label "ვისგან:">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY toAddr.label "ვის:"> 
+<!ENTITY ccAddr.label "ასლი:"> 
+<!ENTITY bccAddr.label "ფარული ასლი:"> 
+<!ENTITY replyAddr.label "პასუხი:"> 
+<!ENTITY newsgroupsAddr.label "ჯგუფი:"> 
+<!ENTITY followupAddr.label "კონფერენცია:"> 
+<!ENTITY subject.label "თემა:">
+<!ENTITY subject.accesskey "S">
+<!ENTITY attachments.label "ჩანართები:">
+<!ENTITY attachments.accesskey "c">
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!ENTITY SmileButton.tooltip "მიმიკის ჩამატება">
+<!ENTITY smiley1Cmd.label "ღიმილი">
+<!ENTITY smiley2Cmd.label "შეჭმუხვნა">
+<!ENTITY smiley3Cmd.label "ჩაპაჭუნება">
+<!ENTITY smiley4Cmd.label "ენის გამოყოფა">
+<!ENTITY smiley5Cmd.label "სიცილი">
+<!ENTITY smiley6Cmd.label "დარცხვენა">
+<!ENTITY smiley7Cmd.label "დაბნევა">
+<!ENTITY smiley8Cmd.label "გაოცება">
+<!ENTITY smiley9Cmd.label "კოცნა">
+<!ENTITY smiley10Cmd.label "ყვირილი">
+<!ENTITY smiley11Cmd.label "კმაყოფილება">
+<!ENTITY smiley12Cmd.label "განურჩევლობა">
+<!ENTITY smiley13Cmd.label "ჩაქოლვა">
+<!ENTITY smiley14Cmd.label "უმანკოება">
+<!ENTITY smiley15Cmd.label "ტირილი">
+<!ENTITY smiley16Cmd.label "პირის მოკუმვა">
+
+<!-- Message Pane Context Menu -->
+<!ENTITY spellCheckNoSuggestions.label "შემოთავაზება ვერ მოიძებნა">
+<!ENTITY spellCheckIgnoreWord.label "სიტყვის გამოტოვება">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "ლექსიკონში დამატება">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "დაბრუნება">
+<!ENTITY undo.accesskey "U">
+<!ENTITY cut.label "ამოჭრა">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "კოპირება">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "ჩასმა">
+<!ENTITY paste.accesskey "P">
+<!ENTITY pasteQuote.label "ჩასმა ციტირებით">
+<!ENTITY pasteQuote.accesskey "Q">
+
+<!ENTITY openAttachment.label "გახსნა">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY delete.label "წაშლა">
+<!ENTITY delete.accesskey "D">
+<!ENTITY renameAttachment.label "გადარქმევა…">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY selectAll.label "სრული მონიშვნა">
+<!ENTITY selectAll.accesskey "A">
+<!ENTITY attachFile.label "ფაილ(ებ)ის მიმაგრება…">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "ვებ-გვერდის მიმაგრება…">
+<!ENTITY attachPage.accesskey "W">
+
+<!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "კონტაქტები">
+

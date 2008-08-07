@@ -1,0 +1,30 @@
+<!-- LOCALIZATION NOTE : FILE "Windows integration" preferences -->
+
+<!ENTITY pref.winHooks.title  "სისტემა">
+
+<!-- These entities are used on the "File Types" section of the dialog. -->
+<!ENTITY files.label           "ამ ტიპის ფაილების გასახსნელად Windows-ის მიერ &brandShortName;–ს გამოყენება:">
+<!ENTITY html.label           "HTML დოკუმენტები">
+<!ENTITY jpeg.label           "JPEG ნახატები">
+<!ENTITY gif.label            "GIF ნახატები">
+<!ENTITY png.label            "PNG ნახატები">
+<!ENTITY xbm.label            "XBM ნახატები">
+<!ENTITY bmp.label            "BMP ნახატები">
+<!ENTITY ico.label            "ICO ნახატები">
+<!ENTITY xml.label            "XML დოკუმენტები">
+<!ENTITY xhtml.label          "XHTML დოკუმენტები">
+<!ENTITY xul.label            "XUL დოკუმენტები">
+
+<!-- These entities are used on the "Protocols" section of the dialog. -->
+<!ENTITY protocols.label      "ამ ოქმების დასამუშავებლად Windows-ის მიერ &brandShortName;–ს გამოყენება:">
+<!ENTITY http.label           "http: (ჰიპერტექსტის გადაცემის ოქმი)">
+<!ENTITY https.label          "https: (უსაფრთხო HTTP)">
+<!ENTITY ftp.label        "ftp: (ფაილის გადაცემის ოქმი)">
+<!--LOCALIZATION NOTE (chrome.label): Don't translate 'chrome' -->
+<!ENTITY chrome.label     "chrome: (ქრომოს ოქმი)">
+<!ENTITY gopher.label     "gopher: (გოფერის ოქმი)">
+
+<!-- This entity is for the "show this dialog" checkbox. -->
+<!ENTITY showDialog.label "გაფრთხილება სხვა პროგრამის მიერ ამ პარამეტრების შეცვლისას">
+<!ENTITY showDialog.accesskey "A">
+

@@ -1,0 +1,19 @@
+<!ENTITY pref.http.title                     "HTTP ქსელში მუშაობა">
+
+<!-- Network-->
+<!ENTITY prefDirect.label                    "პირდაპირი კავშირის პარამეტრები">
+<!ENTITY prefProxy.label                     "პროქსი კავშირის პარამეტრები">
+<!ENTITY prefEnableHTTP10.label              "HTTP 1.0–ის გამოყენება">
+<!ENTITY prefEnableHTTP10.accesskey          "U">
+<!ENTITY prefEnableHTTP10Proxy.accesskey     "S">
+<!ENTITY prefEnableHTTP11.label              "HTTP 1.1–ის გამოყენება">
+<!ENTITY prefEnableHTTP11.accesskey          "E">
+<!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
+<!ENTITY prefEnableKeepAlive.label           "კავშირის შენარჩუნება">
+<!ENTITY prefEnableKeepAlive.accesskey       "K">
+<!ENTITY prefEnableKeepAliveProxy.accesskey  "A">
+<!ENTITY prefEnablePipelining.label          "გადამისამართების ჩართვა">
+<!ENTITY prefEnablePipelining.accesskey      "P">
+<!ENTITY prefEnablePipeliningProxy.accesskey "N">
+<!ENTITY prefPara                            "HTTP კავშირების წარმადობისა და თავსებადობის გაზრდა ამ პარამეტრებითაა შესაძელებელი.  მაგალითად, ზოგიერთი პროქსი სერვერი საჭიროებს HTTP/1.0-ს (იხ. დოკუმენტაცია).">
+<!ENTITY prefPipeWarning                     "გაფრთხილება: გადამისამართება გვერდის ჩატვირთვის წარმადობის გაზრდის ფუნქციაა, რომელსაც სამწუხაროდ ყველა ვებ და პროქსი სერვერი ჯერეჯერობით ვერ იყენებს..">

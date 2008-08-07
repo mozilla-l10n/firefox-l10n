@@ -1,0 +1,83 @@
+<!ENTITY itemGeneral.label       "ზოგადი">
+<!ENTITY itemUpdate.label        "განახლება">
+<!ENTITY itemNetworking.label    "ქსელი და ადგილი დისკზე">
+<!ENTITY itemCertificates.label  "სერთიფიკატები">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "წიგნაკში შეტანილი პირების მხოლოდ ეკრანული სახელის ჩვენება">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!ENTITY autoMarkAsRead.label          "შეტყობინებების წაკითხულად ავტომატურად მონიშვნა">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "დაუყოვნებლივ ჩვენების დაწყებისას">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "დაცდა წერილის წაკითხულად მონიშვნამდე">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "წამი">
+<!ENTITY showFolderColumns.label       "დასტის სარკმელში გაფართოებული სვეტების ჩვენება">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY rememberLastMsg.label         "ბოლო შერჩეული წერილის დამახსოვრება">
+<!ENTITY rememberLastMsg.accesskey     "b">
+<!ENTITY openMsgIn.label                "წერილის გახსნა აქ:">
+<!ENTITY reuseExpRadio0.label          "წერილის ახალ ფანჯარაში">
+<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio1.label          "წერილის არსებულ ფანჯარაში">
+<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY reuseExpRadio2.label          "წერილის ახალი დაფა">
+<!ENTITY reuseExpRadio2.accesskey      "Z">
+<!ENTITY connectionTimeout.label       "კავშირის ვადის გასვლა: ">
+<!ENTITY connectionTimeout.accesskey   "C">
+<!ENTITY connectionSeconds.label       "წამი">
+<!ENTITY configEditDesc.label          "დეტალური გამართვა">
+<!ENTITY configEdit.label              "გამართვის რედაქტორი…">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "როგორ იმუშავოს &brandShortName; პროგრამამ მიღების დასტურთან">
+<!ENTITY showReturnReceipts.label      "მიღების დასტური…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "განახლებების ავტომატური შემოწმება:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "ჩადგმული პაკეტები და თემები">
+<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY checkNow.label                 "შემოწმება ახლავე…">
+<!ENTITY whenUpdatesFound.label         "&brandShortName; განახლების მოძებნის შემთხვევაში,">
+<!ENTITY modeAskMe.label                "შემდეგ ნაბიჯის დაზუსტება">
+<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAutomatic.label            "განახლების ავტომატური ჩამოტვირთვა და ჩადგმა">
+<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutoAddonWarn.label        "გაფრთხილება თუ გამოიწვევს სხვა პაკეტების ან თემების გაუქმებას">
+<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY showUpdates.label              "განახლების ისტორიის ჩვენება">
+<!ENTITY showUpdates.accesskey          "y">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "კავშირი…">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "როგორ დაუკავშირდეს &brandShortName; პროგრამა ინტერნეტს.">
+<!ENTITY connectionsInfo.caption       "კავშირი">
+<!ENTITY offlineInfo.caption           "ავტონომიური რეჟიმი">
+<!ENTITY offlineInfo.label             "ავტონომიური რეჟიმის პარამეტრები">
+<!ENTITY showOffline.label             "ავტონომიური რეჟიმი…">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace "ადგილი დისკზე">
+<!ENTITY offlineCompact.label "დაასტების შემჭიდროვება როცა გამოთავისუფლდება">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "კბ">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo2.label         "სერთიფიკატების მართვა, გაუქმებულთა სიები, სერთიფიკატების შემოწმება და უსაფრთხოების მოწყობილობები.">
+<!ENTITY viewCertificates.label         "სერთიფიკატების ჩვენება">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "გაუქმებულთა სია">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY validation.label               "შემოწმება">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label      "უსაფრთხოების მოწყობილობები">
+<!ENTITY viewSecurityDevices.accesskey  "u">

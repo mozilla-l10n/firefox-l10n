@@ -1,0 +1,21 @@
+<!ENTITY newsblogTitle.label "RSS ანგარიშის პარამეტრები">
+
+<!ENTITY biffStart.label "ახალი სტატიების შემოწმება ყოველ ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "წუთში">
+
+<!ENTITY loginAtStartup.label "ახალი სტატიების შემოწმება სეანსის დაწყებისას"> 
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "ვებგვერდის ნაცვლად სტატიის რეზიუმეს ჩვენება"> 
+<!ENTITY useQuickMode.accesskey "B">
+
+<!ENTITY manageSubscriptions.label "ხელმოწერათა მართვა…"> 
+<!ENTITY manageSubscriptions.accesskey "M">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "სიახლეები და ბლოგები">
+<!ENTITY rss.wizardShortName        "RSS არხი">  
+<!ENTITY rss.wizardLongName         "RSS სიახლეები და ბლოგები">
+<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY rss.hostName               "სიახლეები და ბლოგები">

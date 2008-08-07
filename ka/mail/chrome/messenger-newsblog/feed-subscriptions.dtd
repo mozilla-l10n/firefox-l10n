@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "ხელმოწერები RSS არხზე">
+<!ENTITY subscriptionDesc.label "შენიშვნა: სიახლეების არხის დასტის ამოღება ან შეცვლა ადრე ჩამოტვირთულ სტატიებს არ შეეხება.">
+<!ENTITY feedTitle.label "სათაური:">
+<!ENTITY location.label  "მისამართი:">
+
+<!ENTITY button.addFeed.label       "დამატება">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "რედაქტირება">
+<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.removeFeed.label "ამოღება">
+<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.importOPML.label "იმპორტი">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "ექსპორტი">
+<!ENTITY button.exportOPML.accesskey   "X">
+
+<!ENTITY cmd.close.commandKey             "w">

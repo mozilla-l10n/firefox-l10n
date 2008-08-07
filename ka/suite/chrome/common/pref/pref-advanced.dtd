@@ -1,0 +1,24 @@
+
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
+<!ENTITY pref.advanced.title        "დეტალები">
+
+<!ENTITY prefEnableJava.caption     "კომპონენტები ვებგვერდების ინტერპრეტაციისათვის">
+
+<!ENTITY enbJavaCheck.label         "Java-ს გააქტივება">
+<!ENTITY enbJavaCheck.accesskey     "J">
+
+<!ENTITY prefTurbo.caption          "სწრაფი ჩატვირთვა">
+<!ENTITY enableTurbo.label          "&brandShortName;-ს მეხსიერებაში დატოვება სწრაფი ჩატვირთვისათვის">
+<!ENTITY enableTurboCheck.accesskey "K">
+
+<!ENTITY prefTurbo.desc             "ამ ელემენტის გააქტივებისას &brandShortName;-ს ნაწილი მეხსიერებაში დარჩება და სწრაფ ჩატვირთვას უზრუნველყოფს.">
+
+<!ENTITY prefJvmConf.caption        "Java-ს ვერსიის არჩევა (საჭიროებს გადატვირთვას)">
+<!ENTITY jvm.name                   "ვერსია">
+<!ENTITY jvm.home                   "გეზი">
+
+<!ENTITY systemPref.caption         "სისტემური პარამეტრები">
+<!ENTITY systemPrefCheck.label      "სისტემური პარამეტრების გამოყენება">
+<!ENTITY systemPrefCheck.accesskey  "U">
+<!ENTITY systemPref.desc            "ჩართეთ თუ გსურთ სისტემური პარამეტრების გამოყენება.  ამ შემთხვევაში &brandShortName; პარამეტრების ნაცვლად სისტემური პარამეტრები გამოიყენება ">
+

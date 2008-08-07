@@ -1,0 +1,23 @@
+<!-- extracted from content/pref-search.xul -->
+
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+<!ENTITY pref.search.title                "ძიება ინტერნეტში">
+<!ENTITY legendHeader                     "ძირითადი საძიებო ხელსაწყო">
+<!ENTITY defaultSearchEngine.label        "ძიების მეთოდი:">
+<!ENTITY defaultSearchEngine.accesskey    "S">
+
+<!ENTITY openSidebarSearchPanel.label     "ძიებისას გვერდით პანელში ძიების დაფის გახსნა">
+<!ENTITY openSidebarSearchPanel.accesskey "O">
+
+<!ENTITY openContextSearchTab.label       "ფანჯრის ნაცვლად დაფის გახსნა კონტექსტური მენიუდან ვებ ძიებისას">
+<!ENTITY openContextSearchTab.accesskey   "t">
+
+<!ENTITY searchResults.label              "ძიების შედეგები">
+
+<!ENTITY sidebarSearchTabPref.label       "პანელის ძიების დაფის პარამეტრები">
+<!ENTITY searchModeBasic.label            "ძირითადი">
+<!ENTITY searchModeBasic.accesskey        "B">
+<!ENTITY searchModeAdvanced.label         "დეტალური">
+<!ENTITY searchModeAdvanced.accesskey     "A">
+

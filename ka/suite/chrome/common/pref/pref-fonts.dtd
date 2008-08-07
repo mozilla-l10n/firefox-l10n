@@ -1,0 +1,80 @@
+<!-- extracted from content/pref-fonts.xul -->
+
+<!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
+<!ENTITY  pref.fonts.title                        "შრიფტები">
+
+<!ENTITY  language.label                          "შრიფტები:">
+<!ENTITY  language.accesskey                      "t">
+
+<!ENTITY  typefaces.label                         "გარნიტურა">
+<!ENTITY  sizes.label                             "ზომა (პიქსელი)">
+
+<!ENTITY  proportional.label                      "პროპორციული:">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "კონტრასტული:">
+<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  sans-serif.label                        "თანაბარხააზიანი:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "მონოსიგანის:">
+<!ENTITY  monospace.accesskey                     "m">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY  fantasy.label                           "დეკორატიული:">
+<!ENTITY  fantasy.accesskey                       "f">
+<!ENTITY  cursive.label                           "კურსივი:">
+<!ENTITY  cursive.accesskey                       "c">
+
+<!ENTITY  fontsize.units                          "პიქსელი">
+
+<!ENTITY  font.langGroup.latin1                   "დასავლური">
+<!ENTITY  font.langGroup.latin2                   "ცენტრალურ ევროპული">
+<!ENTITY  font.langGroup.japanese                 "იაპონური">
+<!ENTITY  font.langGroup.trad-chinese             "ტრადიციული ჩინური(ტაივანი)">
+<!ENTITY  font.langGroup.simpl-chinese            "გამარტივებული ჩინური">
+<!ENTITY  font.langGroup.trad-chinese-hk          "ტრადიციული ჩინური(ჰონგ-კონგი)">
+<!ENTITY  font.langGroup.korean                   "კორეული">
+<!ENTITY  font.langGroup.cyrillic                 "კირილიცა">
+<!ENTITY  font.langGroup.baltic                   "ბალტიური">
+<!ENTITY  font.langGroup.el                       "ბერძნული">
+<!ENTITY  font.langGroup.turkish                  "თურქული">
+<!ENTITY  font.langGroup.unicode                  "სხვა ენები">
+<!ENTITY  font.langGroup.user-def                 "საკუთარი">
+<!ENTITY  font.langGroup.thai                     "ტაილანდური">
+<!ENTITY  font.langGroup.hebrew                   "ებრაული">
+<!ENTITY  font.langGroup.arabic                   "არაბული">
+<!ENTITY  font.langGroup.devanagari               "დევანაგირი">
+<!ENTITY  font.langGroup.tamil                    "თამილური">
+<!ENTITY  font.langGroup.armenian                 "სომხური">
+<!ENTITY  font.langGroup.bengali                  "ბენგალი">
+<!ENTITY  font.langGroup.canadian                 "საერთეკანადური მარცვლოვანი">
+<!ENTITY  font.langGroup.ethiopic                 "ეთიოპური">
+<!ENTITY  font.langGroup.georgian                 "ქართული">
+<!ENTITY  font.langGroup.gujarati                 "გუჯარათი">
+<!ENTITY  font.langGroup.gurmukhi                 "გურმუხი">
+<!ENTITY  font.langGroup.khmer                    "ქჰმერული">
+<!ENTITY  font.langGroup.malayalam                "მალაური">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "შრიფტის უმცირესი ზომა:">
+<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.none                             "არა">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "კონტრასტული">
+<!ENTITY  useDefaultFontSansSerif.label           "ერთგვაროვანი">
+
+<!ENTITY  newLanguages.label                      "ახალი ენები შეიძლება დაემატოს ენების პანელიდან.">
+
+<!ENTITY  useDocumentFonts.label                  "დოკუმენტებისთვის ახალი შრიფტების ნებადართვა">
+<!ENTITY  useDocumentFonts.accesskey              "o">
+
+<!-- leaving this stuff in for now -->
+
+<!ENTITY  header2                                 "როცა ვებგვერდი საკუთარ შრიფტებს უთითებს">
+<!ENTITY  useDefaultFont.label                    "მათ ნაცვლად ჩემი ძირითადი შრიფტების გამოყენება">
+<!ENTITY  useDefaultFont.accesskey                "u">
+<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY  useDocFontNonDynamic.label              "ვებგვერდზე მითითებული შრიფტების გამოყენება">
+<!ENTITY  useDocFontNonDynamic.accesskey          "p">
+<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY  useDocFontDynamic.label                 "ვებგვერდზე მითითებული ყველა შრიფტის გამოყენება">
+<!ENTITY  useDocFontDynamic.accesskey             "a">

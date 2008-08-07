@@ -1,0 +1,7 @@
+<!ENTITY crashes.title              "გამოგზავნილი შეცდომათა პატაკი">
+<!ENTITY id.heading                 "პატაკი ID">
+<!ENTITY date.heading               "გამოგზავნის თარიღი">
+<!ENTITY noReports.label            "შეცდომათა პატაკები არ გამოგზავნილა.">
+<!ENTITY noConfig.label             "ეს პროგრამა შეცდომათა პატაკების საჩვენებლად არ გამართულა. უნდა მიეთითოს პარამეტრი <code>breakpad.reportURL</code>.">
+<!ENTITY clearReports.label         "პატაკების ამოღება">
+

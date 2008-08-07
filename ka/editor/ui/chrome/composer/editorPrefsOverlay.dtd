@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "დიზაინერი">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "დიზაინერი">
+<!ENTITY editing.label "ახალი გვერდის პარამეტრები">
+<!ENTITY toolbars.label "პულტები">
+<!ENTITY publish.label "გამოქვეყნება">

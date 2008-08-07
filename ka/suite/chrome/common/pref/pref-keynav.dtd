@@ -1,0 +1,21 @@
+<!ENTITY pref.keyNav.title "კლავიატურის გამოყენება">
+<!ENTITY tabNavigationBehavior.label "ტაბულაციის (Tab) ღილაკის გამოყენება">
+<!ENTITY tabNavigationLinks.label "ბმები">
+<!ENTITY tabNavigationLinks.accesskey "L">
+<!ENTITY tabNavigationForms.label "ღილაკები, გადამრთველები, ინდიკატორები და შერჩევის ნუსხები">
+<!ENTITY tabNavigationForms.accesskey "B">
+<!ENTITY tabNavigationTextboxes.label "შენიშვნა: ტექსტურ ველები და გადახვევადი რეგიონები ყოველთვის მისაწვდომია დაფების რიგით.">
+<!ENTITY tabNavigationDesc.label "თუ დაჭერილია Tab ან Shift+Tab, გადასვლა აქ:">
+<!ENTITY findAsYouTypeBehavior.label "ძებნა ტექსტის აკრეფისას">
+<!ENTITY findAsYouTypeTip.label "რჩევა: სწრაფი ძებნის ჩასართავად აკრიფეთ / ტექსტის ან ' ბმების მოსაძებნად და შემდეგ საძიებო ტექსტი.">
+<!ENTITY findAsYouTypeTimeout.label "მიმდინარე ძებნის გაუქმება რამდენიმე წამის არააქტიურობის შემდეგ">
+<!ENTITY findAsYouTypeTimeout.accesskey "C">
+<!ENTITY findAsYouTypeSound.label "ხმოვანი სიგნალი ტექსტის ვერ მოძებნის შემთხვევაში">
+<!ENTITY findAsYouTypeSound.accesskey "P">
+<!ENTITY findAsYouTypeEnableAuto.label "ვებგვერდზე ტექსტის აკრეფისას ავტომატური ძებნა:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
+<!ENTITY findAsYouTypeAutoText.label "ნებისმიერი ტექსტი">
+<!ENTITY findAsYouTypeAutoText.accesskey "A">
+<!ENTITY findAsYouTypeAutoLinks.label "მხოლოდ ბმები">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "o">
+

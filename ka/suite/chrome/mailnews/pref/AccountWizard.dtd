@@ -1,0 +1,123 @@
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "ანგარიშის მმართველი">
+<!ENTITY accountWizard.size "width: 50em; height: 45em;">
+
+<!-- Entities for Account Type page -->
+
+<!ENTITY accountSetupInfo.label "წერილების მისაღებად, პირველ რიგში უნდა მიუთითოთ ფოსტისა და ჯგუფების ანგარიში.">
+<!ENTITY accountTypeTitle.label "ახალი ანგარიშის პარამეტრები">
+<!ENTITY accountTypeDesc.label "ახლა უნდა მიუთითოთ ინფორმაცია ფოსტისა და ჯგუფების ანგარიშის გასახსნელად. თუ მოთხოვნილი ინფორმაცია არ გაგაჩნიათ, დსუკავშირდით სისტემურ ადმინისტრატორს ან ინტერნეტ პროვაიდერს.">
+<!ENTITY accountTypeDirections.label "აირჩიეთ ანგარიშის სასურველი ტიპი:">
+<!ENTITY accountTypeMail.label "ელფოსტის ანგარიში">
+<!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeNews.label "ჯგუფების ანგარიში">
+<!ENTITY accountTypeNews.accesskey "w">
+
+<!-- Entities for Identity page -->
+
+<!ENTITY identityTitle.label "იდენტურობა">
+<!ENTITY identityDesc.label "თითოეულ ანგარიშს საკუთარი იდენტურობა უნდა ჰქონდეს, რომლის საშუალებითაც წერილების თქვენეულობა დადგინდება.">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "მიუთითეთ სახელი, რომლის გამოჩენაც გსურთ გაგზავნილი წერილების &quot;ვინ&quot; ველში">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+	1, do not translate two of "&quot;"
+	2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(მაგალითად, &quot;დორმიდონ გამიხარია&quot;).">
+<!ENTITY fullnameLabel.label "თქვენი სახელი:">
+<!ENTITY fullnameLabel.accesskey "Y">
+
+<!ENTITY emailLabel.label "ელფოსტა:">
+<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailDesc.label "მიუთითეთ თქვენი ელფოსტის მისამართი; ამ მისამართზე მოგივათ წერილები და დაგიბრუნდებათ პასუხები">
+<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
+<!ENTITY emailExample.label "(მაგალითად: user@example.net).">
+
+<!-- Entities for Server page -->
+
+<!ENTITY serverTitle.label "სერვერის მონაცემები">
+<!ENTITY incomingServerTitle.label "შემომავალი ფოსტის სერვერი">
+<!ENTITY incomingServerTypeDesc.label "მიუთითეთ შემომავალი ფოსტის სერვერის ტიპი.">
+<!ENTITY incomingServerTypeLabel.label "სერვერის ტიპი:">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "მიუთითეთ სახელი თქვენი შემომავალი ფოსტის სერვერისათვის (მაგალითად, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServerLabel.label "შემომავალი ფოსტის სერვერი:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "მიუთითეთ სახელი თქვენი ჯგუფების (NNTP) სერვერისათვის (მაგალითად, &quot;news.example.net&quot;).">
+<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
+<!ENTITY smtpServerTitle.label "გამავალი ფოსტის (SMTP) სერვერი">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "მიუთითეთ სახელი თქვენი გამავალი ფოსტის (SMTP) სერვერისათვის (მაგალითად, &quot;smtp.example.net&quot;).">
+<!ENTITY smtpServerLabel.label "გამავალი ფოსტის სერვერი:">
+<!ENTITY smtpServerLabel.accesskey "O">
+<!ENTITY newsServerLabel.label "ჯგუფების სერვერი:">
+<!ENTITY newsServerLabel.accesskey "N">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "ჯგუფების სერვერი">
+
+<!-- for when the user has an SMTP server pre-configured -->
+<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
+     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
+	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "გამოიყენება არსებული გამავალი ფოსტის (SMTP) სერვერი, &quot;">
+<!ENTITY haveSmtp1.suffix "&quot; ამ სერვერის პარამეტრების შეცვლა შეგიძლიათ ფოსტისა და ჯგუფების ანგარიშის პარამეტრების რედაქტირების მენიუდან.">
+
+<!-- Entities for Login page -->
+
+<!ENTITY loginTitle.label "სახელები">
+<!ENTITY usernameDesc.label "მიუთითეთ ელფოსტის პროვაიდერის მიერ მონიჭებული სახელი ">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(მაგალითად, &quot;jsmith&quot;).">
+<!ENTITY usernameLabel.label "სახელი შემომავალი ფოსტისთვის:">
+<!ENTITY usernameLabel.accesskey "I">
+<!ENTITY usernameSmtpDesc.label "მიუთითეთ ელფოსტის პროვაიდერის მიერ მონიჭებული სახელი გამავალი ფოსტისთვის (როგორც წესი, იგივე).">
+<!ENTITY usernameSmtpLabel.label "სახელი გამავალი ფოსტისთვის:">
+<!ENTITY usernameSmtpLabel.accesskey "O">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "გამოიყენება თქვენი არსებული სახელი გამავალი ფოსტისთვის(SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;  ამ სერვერის პარამეტრების შეცვლა შეგიძლიათ ფოსტისა და ჯგუფების ანგარიშის პარამეტრების რედაქტირების მენიუდან.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "თქვენი გამავალი ფოსტის (SMTP) სერვერი, &quot;">
+<!ENTITY haveSmtp3.suffix "&quot;, შემომავალი ფოსტის სერვერის იდენტურია - გამოიყენება იგივე სახელი.  ამ სერვერის პარამეტრების შეცვლა შეგიძლიათ ფოსტისა და ჯგუფების ანგარიშის პარამეტრების რედაქტირების მენიუდან.">
+
+<!-- Entities for Account name page -->
+
+<!ENTITY accnameTitle.label "ანგარიშის სახელი">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "მიუთითეთ სახელი, რომლითაც ამ ანგარიშს ამოიცნობთ (მაგალითად, &quot;სამსახური&quot;, &quot;ბინა&quot; ან &quot;ჯგუფები&quot;).">
+<!ENTITY accnameExample.label "მაგალითად, სამსახურის, ბინის ან ჯგუფების ანგარიში">
+<!ENTITY accnameLabel.label "ანგარიშის სახელი:">
+<!ENTITY accnameLabel.accesskey "A">
+
+<!-- Entities for Done (Congratulations) page -->
+
+<!ENTITY completionTitle.label "გილოცავთ!">
+<!ENTITY completionText.label "გთხოვთ გადაამოწმოთ მონაცემთა სისწორე.">
+<!ENTITY serverTypePrefix.label "შემომავალი სერვერის ტიპი:">
+<!ENTITY serverNamePrefix.label "გამავალი სერვერის ტიპი:">
+<!ENTITY smtpServerNamePrefix.label "გამავალი (SMTP) სერვერის სახელი:">
+<!ENTITY newsServerNamePrefix.label "ჯგუფების (NNTP) სერვერის სახელი:">
+<!ENTITY downloadOnLogin.label "წერილების ახალავე გადმოწერა">
+<!ENTITY deferStorageDesc.label "მოხსენით მონიშვნა ამ ანგარიშის ფოსტის საკუთარ დასტაში შესანახად. ამ შემთხვევაში ეს ანგარიში გახდება ერთერთი ძირეული. სხვა შემთხვევაში კი გახდება ადგილობრივი დასტების საერთო საფოსტო ყუთის ნაწილი.">
+<!ENTITY deferStorage.label "საერთო საფოსტო ყუთის გამოყენება (ფოსტის ადგილობრივ დასტებში შენახვა)">
+<!ENTITY clickFinish.label "დაწკაპეთ 'დასრულება' ამ პარამეტრების შესანახად და ანგარიშების მეგზურიდან გასასვლელად.">
+<!ENTITY clickFinish.labelMac "დაწკაპეთ 'მზადაა' ამ პარამეტრების შესანახად და ანგარიშების მეგზურიდან გასასვლელად.">

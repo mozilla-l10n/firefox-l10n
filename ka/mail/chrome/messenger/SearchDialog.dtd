@@ -1,0 +1,77 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "წერილების ძებნის არე:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "ძიება ქვედასტებში">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY resetButton.label           "გასუფთავება">
+<!ENTITY resetButton.accesskey       "C">
+<!ENTITY optionsButton.label         "პარამეტრები">
+<!ENTITY closeButton.label           "დახურვა">
+<!ENTITY openButton.label            "გახსნა">
+<!ENTITY openButton.accesskey        "n">
+<!ENTITY deleteButton.label          "წაშლა">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "წერილების ძიება">
+<!ENTITY conditionDesc.label         "წერილების ძიება რომელშიც:">
+<!ENTITY conditions.label            "კრიტერიუმი">
+<!ENTITY results.label               "შედეგები">
+<!ENTITY fileHereMenu.label          "შენახვის ადგილი">
+<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileButton.label            "ფაილი">
+<!ENTITY fileButton.accesskey        "i">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY goToFolderButton.label      "წერილების დასტის გახსნა">
+<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY saveAsVFButton.label        "ძიების შედეგების დასტად შენახვა">
+<!ENTITY saveAsVFButton.accesskey    "v">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "ძიების არე:">
+<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY propertiesButton.label      "პარამეტრები">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "შექმნა">
+<!ENTITY composeButton.accesskey     "W">
+<!ENTITY abSearchDialogTitle.label   "დეტალური ძიება წიგნაკში">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "საქაღალდე">
+<!ENTITY fromColumn.label "გამგზავნი">
+<!ENTITY recipientColumn.label "მიმღები">
+<!ENTITY subjectColumn.label "თემა">
+<!ENTITY dateColumn.label "თარიღი">
+<!ENTITY priorityColumn.label "პრიორიტეტი">
+<!ENTITY tagsColumn.label "ჭდე">
+<!ENTITY accountColumn.label "ანგარიში">
+<!ENTITY statusColumn.label "სტატუსი">
+<!ENTITY sizeColumn.label "ზომა">
+<!ENTITY junkStatusColumn.label "ჯართის სტატუსი">
+<!ENTITY linesColumn.label "სტრიქონი">
+<!ENTITY unreadColumn.label "წასაკითხი">
+<!ENTITY totalColumn.label "სულ">
+<!ENTITY readColumn.label "წაკითხული">
+<!ENTITY receivedColumn.label "მიღებულია">
+<!ENTITY starredColumn.label "ალამი">
+<!ENTITY locationColumn.label "მისამართი">
+<!ENTITY idColumn.label "მიღების რიგი">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "დაწკაპეთ სვეტების საჩვენებლად შესარჩევად">
+<!ENTITY threadColumn.tooltip "დაწკაპეთ წერილების საქაღალდეების საჩვენებლად"> 
+<!ENTITY fromColumn.tooltip "დაწკაპეთ გამგზავნით სორტირებისათვის">
+<!ENTITY recipientColumn.tooltip "დაწკაპეთ მიმღებით სორტირებისათვის">
+<!ENTITY subjectColumn.tooltip "დაწკაპეთ თემით სორტირებისათვის">
+<!ENTITY dateColumn.tooltip "დაწკაპეთ თარიღით სორტირებისათვის">
+<!ENTITY priorityColumn.tooltip "დაწკაპეთ პრიორიტეტით სორტირებისათვის">
+<!ENTITY tagsColumn.tooltip "დაწკაპეთ ჭდეებით სორტირებისათვის">
+<!ENTITY accountColumn.tooltip "დაწკაპეთ ანგარიშით სორტირებისათვის">
+<!ENTITY statusColumn.tooltip "დაწკაპეთ სტატუსით სორტირებისათვის">
+<!ENTITY sizeColumn.tooltip "დაწკაპეთ ზომით სორტირებისათვის">
+<!ENTITY junkStatusColumn.tooltip "დაწკაპეთ ჯართის სტატუსით სორტირებისათვის">
+<!ENTITY unreadColumn.tooltip "საქაღალდეში წასაკითხი წერილების რაოდენობა">
+<!ENTITY totalColumn.tooltip "საქაღალდეში წერილების ჯამური რაოდენობა">
+<!ENTITY readColumn.tooltip "დაწკაპეთ წაკითხულით სორტირებისათვის">
+<!ENTITY receivedColumn.tooltip "დაწკაპეთ მიღების თარიღით სორტირებისათვის">
+<!ENTITY starredColumn.tooltip "დაწკაპეთ ალმით სორტირებისათვის">
+<!ENTITY locationColumn.tooltip "დაწკაპეთ მისამართით სორტირებისათვის">
+<!ENTITY idColumn.tooltip "დაწკაპეთ მიღების რიგით სორტირებისათვის">

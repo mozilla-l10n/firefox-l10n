@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "პულტის მორგება">
+<!ENTITY dialog.style "width: 680px; height: 400px;">
+<!ENTITY instructions.description "ელემენტების დამატება და ამოღება შეგიძლიათ პულტში ან პულტიდან მათი გადაჩოჩებით.">
+<!ENTITY show.label               "ჩვენება:">
+<!ENTITY iconsAndText.label       "ხატულები და ტექსტი">
+<!ENTITY icons.label              "ხატულები">
+<!ENTITY text.label               "ტექსტი">
+<!ENTITY useSmallIcons.label      "პატარა ხატულები">
+<!ENTITY restoreDefaultSet.label  "აღდგენა">
+<!ENTITY addNewToolbar.label      "ახლის დამატება">
+<!ENTITY saveChanges.label        "მზადაა">
+<!ENTITY undoChanges.label        "ცვლილებების გაუქმება">

@@ -1,0 +1,20 @@
+<!ENTITY newMessageCmd.label             "წერილი">
+<!ENTITY newMessageCmd.accesskey         "M">
+<!ENTITY newMessageCmd.key               "M">
+
+<!ENTITY newCardCmd.label                "წიგნაკის ბარათი...">
+<!ENTITY newCardCmd.accesskey            "C">
+
+<!ENTITY sendPage.label                  "გვერდის გაგზავნა...">
+<!ENTITY sendPage.accesskey              "S">
+
+<!ENTITY contextSendPage.label           "გვერდის გაგზავნა...">
+<!ENTITY contextSendPage.accesskey       "d">
+<!ENTITY contextSendImage.label          "ნახატის გაგზავნა...">
+<!ENTITY contextSendImage.accesskey      "n">
+<!ENTITY contextSendFrame.label          "ბლოკის გაგზავნა...">
+<!ENTITY contextSendFrame.accesskey      "d">
+
+<!ENTITY sendLinkCmd.label               "ბმის გაგზავნა..."> 
+<!ENTITY sendLinkCmd.accesskey           "d">
+

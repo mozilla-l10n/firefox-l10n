@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "გვერდის პარამეტრები">
+
+<!ENTITY basic.tab           "ფორმატი და ოპციები">
+
+<!ENTITY formatGroup.label   "ფორმატი">
+
+<!ENTITY orientation.label   "ორიენტაცია:">
+<!ENTITY portrait            "პორტრეტი">
+<!ENTITY landscape           "პეიზაჟი">
+
+<!ENTITY scale.label         "მასშტაბი:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "შემჭიდროება გვერდის სიგანეზე">
+
+<!ENTITY optionsGroup.label  "ოპციები">
+
+<!ENTITY printBG.label       "ბეჭდვის ფონი (ფერები და ნახატები)">
+
+<!ENTITY advanced.tab        "საზღვრები და თავსართი/ქვესართი">
+
+<!ENTITY marginGroup.label   "საზღვრები (#1)">
+<!ENTITY marginUnits.inches  "დუიმი">
+<!ENTITY marginUnits.metric  "მილიმეტრი">
+<!ENTITY marginTop.label     "ზედა:">
+<!ENTITY marginBottom.label  "ქვედა:">
+<!ENTITY marginLeft.label    "მარცხენა:">
+<!ENTITY marginRight.label   "მარჯვენა:">
+
+<!ENTITY headerFooter.label  "თავსართები და ქვესართები">
+
+<!ENTITY hfLeft.label        "მარცხენა:">
+<!ENTITY hfCenter.label      "შუა:">
+<!ENTITY hfRight.label       "მარჯვენა:">
+<!ENTITY headerLeft.tip      "მარცხენა თავსართი">
+<!ENTITY headerCenter.tip    "შუა თავსართი">
+<!ENTITY headerRight.tip     "მარჯვენა თავსართი">
+<!ENTITY footerLeft.tip      "მარცხენა ქვესართი">
+<!ENTITY footerCenter.tip    "შუა ქვესართი">
+<!ENTITY footerRight.tip     "მარჯვხენა ქვესართი">
+
+<!ENTITY hfTitle             "სათაური">
+<!ENTITY hfURL               "მისამართი">
+<!ENTITY hfDateAndTime       "თარიღი">
+<!ENTITY hfPage              "გვერდი #">
+<!ENTITY hfPageAndTotal      "გვერდი # სულ #">
+<!ENTITY hfBlank             "-ცარიელი-">
+<!ENTITY hfCustom            "საკუთარი…">
+
+<!ENTITY customPrompt.title  "საკუთარი…">
+<!ENTITY customPrompt.prompt "თავსართის/ქვესართის მითითება">

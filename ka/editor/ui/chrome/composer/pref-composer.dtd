@@ -1,0 +1,39 @@
+<!-- extracted from content/pref-composer.xul -->
+
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "დიზაინერი">
+
+<!ENTITY  saving                        "ჩაწერა">
+<!ENTITY  AutoSaveCheck                 "ავტომატურად შენახვა ყოველ">
+<!ENTITY  minText                       "წუთში">
+
+<!ENTITY  exterLegend.label             "გარე რედაქტორები">
+<!ENTITY  htmlSource                    "HTML წყარო:">
+<!ENTITY  imageeditor                   "ნახატები:">
+<!ENTITY  chooseButton.label            "არჩევა">
+
+<!ENTITY  recentFiles.title             "ბოლო გვერდები">
+<!ENTITY  documentsInMenu.label         "სიაში გვერდების მაქსიმალური რაოდენობა:">
+<!ENTITY  documentsInMenu.accesskey     "n">
+
+<!ENTITY  savingFiles.title             "გვერდების შენახვის ან გამოქვეყნებისას">
+<!ENTITY  preserveExisting.label        "პირველწყაროს ფორმატის შენარჩუნება">
+<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.tooltip      "პირველწყაროში სტრიქონების გადატანისა და გვერდების შენარჩუნება">
+<!ENTITY  saveAssociatedFiles.label     "გვერდების შენახვისას ნახატებისა და სხვა დაკავშირებული ფაილების შენახვა">
+<!ENTITY  saveAssociatedFiles.accesskey "S">
+<!ENTITY  showPublishDialog.label       "გამოქვეყნების დიალოგის ყოველთვის ჩვენება გვერდების გამოქვეყნებისას">
+<!ENTITY  showPublishDialog.accesskey   "A">
+
+<!ENTITY  composerEditing.label         "რედაქტირება">
+<!ENTITY  spellCheckInline.label        "მართლწერის შემოწმება ტექსტის შეტანისას">
+<!ENTITY  spellCheckInline.accesskey    "C">
+<!ENTITY  maintainStructure.label       "ცხრილის ფორმატის შენარჩუნება უჯრის დამატების ან წაშლისას">
+<!ENTITY  maintainStructure.tooltip     "ინარჩუნებს ცხრილის მართკუთხა ფრომას უჯრების დამატების ან წაშლის შემთხვევაში უჯრების ავტომატური დამატებით">
+<!ENTITY  maintainStructure.accesskey   "M">
+<!ENTITY  useCSS.label                  "CSS სტილების გამოყენება HTML ელემენტებისა და ატრიბუტების ნაცვლად">
+<!ENTITY  useCSS.accesskey              "U">
+<!ENTITY  crInPCreatesNewP.label        "პარაგრაფის წყვეტისას ყოველთვის ახალი პარაგრაფის შექმნა">
+<!ENTITY  crInPCreatesNewP.accesskey    "R">

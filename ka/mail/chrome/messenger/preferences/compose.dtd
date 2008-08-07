@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label                   "ზოგადი">
+<!ENTITY itemAutoComplete.label              "მისამართები">
+<!ENTITY itemSpellCheck.label                "მართლწერა">
+<!ENTITY itemSendFormat.label                "გაგზავნის ფორმატი">
+
+<!ENTITY forwardReply.label                   "წერილების გადაგზავნა">
+<!ENTITY forwardMsg.label                     "წერილების გადაგზავნა:">
+<!ENTITY forwardMsg.accesskey                 "w">
+<!ENTITY inline.label                         "წერილშივე">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.label                   "დანართად">
+<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY addExtension.label                   "გაფართოების დამატება ფაილის სახელისთვის">
+<!ENTITY addExtension.accesskey               "f">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "შრიფტი:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY size.label                           "ზომა:">
+<!ENTITY size.accesskey                       "z">
+<!ENTITY fontColor.label                      "ტექსტის ფერი:">
+<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY bgColor.label                        "ფონის ფერი:">
+<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY restoreHTMLDefaults.label            "ნაგულისხმების აღდგენა">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
+
+<!ENTITY sendingMessagesHeader.label          "წერილების შექმნა">
+<!ENTITY spellCheck.label                     "მართლწერის შემოწმება გაგზავნამდე">
+<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheckInline.label               "მართლწერის შემოწმება ტექსტის შეტანისას">
+<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY languagePopup.label                  "ენა:">
+<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY downloadDictionaries.label           "სხვა ლექსიკონების ჩამოტვირთვა">
+
+<!ENTITY useMIME.label                        "წერილებისთვის, რომლებიც 8-ბიტიან სიმბოლოებს შეიცავენ, 'ციტირებული ბეჭდვადი' MIME კოდირების გამოყენება">
+<!ENTITY useMIME.accesskey                    "o">
+<!ENTITY warnOnSendAccelKey.label             "დასტური წერილის გაგზავნისთვის მალმხმობის გამოყენებისას">
+<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY autoSave.label                       "თვითშენახვა ყოველ">
+<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSaveEnd.label                    "წუთში">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "ტექსტის სტრიქონების გადატანა">
+<!ENTITY wrapOutMsg.accesskey                 "l">
+<!ENTITY char.label                           "სიმბოლოზე">
+
+<!ENTITY emailCollectionPicker.label           "გამავალი ელფოსტის მისამართების ავტომატური ჩამატება ჩემს:">
+<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY addressingTitle.label                 "მისამართების თვითდასრულება">
+<!ENTITY autocompleteText.label                "წერილების გაგზავნისას შესაბამისი ჩანაწერების შემოწმება:">
+<!ENTITY addressingEnable.label                "ადგილობრივ წიგნაკებში">
+<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY directories.label                     "დასტების სერვერი:">
+<!ENTITY directories.accesskey                 "D">
+<!ENTITY editDirectories.label                 "დასტების რედაქტირება…">
+<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY matchText.label                       "ადგილობრივი წიგნაკების ჩანაწერებთან შესაბამისობისას:">
+<!ENTITY skipDirectory.label                   "დასტებში აღარ ძებნა">
+
+<!ENTITY sendOptionsCaption.label              "გაგზავნა და HTML პარამეტრები">
+<!ENTITY sendOptionsDescription.label          "ტექსტის ფორმატირების წესების მითითება">
+<!ENTITY sendOptions.label                     "გაგზავნის პარამეტრები…">
+<!ENTITY sendOptions.accesskey                 "S">

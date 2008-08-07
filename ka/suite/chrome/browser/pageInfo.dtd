@@ -1,0 +1,114 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code.
+   -
+   - The Initial Developer of the Original Code is Daniel Brooks.
+   - Portions created by the Initial Developer are Copyright (C) 2001-2004
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   - Gia Shervashidze
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY  pageInfoWindow.width  "450">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Copy">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "ყველას მონიშვნა">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "ზოგადი">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "სათაური:">
+<!ENTITY  generalURL            "მისამართი:">
+<!ENTITY  generalMode           "ასახვა:">
+<!ENTITY  generalType           "ტიპი:">
+<!ENTITY  generalSize           "ზომა:">
+<!ENTITY  generalReferrer       "დამმოწმებელი:">
+<!ENTITY  generalSource         "წყარო:">
+<!ENTITY  generalSent           "გაიგზავნა:">
+<!ENTITY  generalModified       "შეიცვალა:">
+<!ENTITY  generalExpires        "ვადა:">
+<!ENTITY  generalEncoding       "კოდირება:">
+<!ENTITY  generalMeta           "მეტა:">
+<!ENTITY  generalMetaName       "სახელი">
+<!ENTITY  generalMetaContent    "შინაარსი">
+
+<!ENTITY  formsTab              "ფორმები">
+<!ENTITY  formsTab.accesskey    "F">
+<!ENTITY  formAction            "ფორმის ქმედება">
+<!ENTITY  formMethod            "მეთოდი">
+<!ENTITY  formName              "სახელი">
+<!ENTITY  formNo                "ნომერი">
+<!ENTITY  formEncoding          "კოდირება:">
+<!ENTITY  formTarget            "სამიზნე:">
+<!ENTITY  formFields            "ველები:">
+<!ENTITY  formLabel             "იარლიყი">
+<!ENTITY  formFName             "ველის სახელი">
+<!ENTITY  formType              "ტიპი">
+<!ENTITY  formCValue            "მიმდინარე მნიშვნელობა">
+
+<!ENTITY  linksTab              "ბმები">
+<!ENTITY  linksTab.accesskey    "L">
+<!ENTITY  linkNo                "ნომერი">
+<!ENTITY  linkName              "სახელი">
+<!ENTITY  linkAddress           "მისამართი">
+<!ENTITY  linkType              "ტიპი">
+<!ENTITY  linkTarget            "სამიზნე">
+<!ENTITY  linkAccessKey         "კლავიში">
+
+<!ENTITY  mediaTab              "მედია">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaHeader           "ამ გვერდის ნახატები">
+<!ENTITY  mediaURL              "მისამართი:">
+<!ENTITY  mediaBase             "სათაო მისამართი:">
+<!ENTITY  mediaAlt              "ალტერნატული ტექსტი:">
+<!ENTITY  mediaAltHeader        "ალტერნატული ტექსტი">
+<!ENTITY  mediaNo               "ნომერი">
+<!ENTITY  mediaName             "სახელი">
+<!ENTITY  mediaAddress          "მისამართი">
+<!ENTITY  mediaType             "ტიპი">
+<!ENTITY  mediaCount            "რაოდენობა">
+<!ENTITY  mediaPlugin           "მოდული:">
+<!ENTITY  mediaCharset          "კოდირება:">
+<!ENTITY  mediaDimensions       "მითითებული ზომები:">
+<!ENTITY  mediaPhysDimensions   "რეალური ზომები:">
+<!ENTITY  mediaEncryption       "დაშიფვრა:">
+<!ENTITY  mediaTitle            "სათაურის ატრიბუტი:">
+<!ENTITY  mediaLongdesc         "გრძელი აღწერა:">
+<!ENTITY  mediaSaveAs           "ჩაწერა როგორც...">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaPreview          "მედიის წინასწარი ნახვა:">
+
+<!ENTITY  framesTab             "ბლოკები">
+<!ENTITY  framesTab.accesskey   "r">
+<!ENTITY  frameName             "სახელი">
+<!ENTITY  frameAddress          "მისამართი">
+<!ENTITY  frameType             "ტიპი">

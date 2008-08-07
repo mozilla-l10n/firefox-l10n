@@ -1,0 +1,88 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY  offlineGoOfflineCmd.label                 "ავტონომიური რეჟიმი">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "w">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"ფაილი"> 
+<!ENTITY fileMenu.accesskey				"f">
+<!ENTITY newMenu.label						"ახალი">
+<!ENTITY newMenu.accesskey					"N">
+<!ENTITY newBlankPageCmd.label "რედაქტორის გვერდი">
+<!ENTITY newBlankPageCmd.accesskey "P" >
+<!ENTITY newBlankPageCmd.key "n" >
+<!ENTITY newPageFromTemplateCmd.label "შაბლონური გვერდი">
+<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromDraftCmd.label "გვერდის ესკიზი">
+<!ENTITY newPageFromDraftCmd.accesskey "d">
+<!-- LOCALIZATION NOTE  (newNavigatorCmd.label): Do NOT translate "Navigator" -->
+<!ENTITY newNavigatorCmd.label				"ნავიგატორის ფანჯარა">
+<!ENTITY newNavigatorCmd.key				"N">
+<!ENTITY newNavigatorCmd.accesskey			"N">
+
+<!ENTITY editMenu.label					"რედაქტირება"> 
+<!ENTITY editMenu.accesskey				"e"> 
+<!ENTITY undoCmd.label						"დაბრუნება">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"U"> 
+<!ENTITY redoCmd.label						"გამეორება">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"R"> 
+<!ENTITY cutCmd.label						"ამოჭრა">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"t"> 
+<!ENTITY copyCmd.label						"კოპირება">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"c"> 
+<!ENTITY pasteCmd.label						"ჩასმა">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY deleteCmd.label					"წაშლა">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"d"> 
+<!ENTITY selectAllCmd.label					"სრული მონიშვნა">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"a"> 
+<!ENTITY preferencesCmd.label				"პარამეტრები...">
+<!ENTITY preferencesCmd.key					"E">  
+<!ENTITY preferencesCmd.accesskey			"e"> 
+<!ENTITY findTypeTextCmd.label "ტექსტის ძებნა ტექსტის შეტანისას">
+<!ENTITY findTypeTextCmd.accesskey "x">
+<!ENTITY findTypeLinksCmd.label "ბმების ძებნა ტექსტის შეტანისას">
+<!ENTITY findTypeLinksCmd.accesskey "k">
+
+<!ENTITY viewMenu.label					"ჩვენება"> 
+<!ENTITY viewMenu.accesskey				"v"> 
+<!ENTITY viewToolbarsMenu.label				"აჩვენე/დამალე"> 
+<!ENTITY viewToolbarsMenu.accesskey			"w"> 
+<!ENTITY showTaskbarCmd.label					"სტატუსის პანელი">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!ENTITY helpMenu.label					"კარნახი"> 
+<!ENTITY helpMenu.accesskey				"h"> 
+
+<!ENTITY helpForIEUsers.label     "მხოლოდ Internet Explorer-ის მომხმარებელთათვის">
+<!ENTITY helpForIEUsers.accesskey "I">
+
+<!ENTITY releaseCmd.label				"ვერსიის დოკუმენტაცია">
+<!ENTITY releaseCmd.accesskey                   "N">
+<!ENTITY aboutCmd.label					"&brandShortName; პროგრამის შესახებ">
+<!ENTITY aboutCmd.accesskey				"A">
+<!ENTITY aboutCommPluginsCmd.label			"მოდულების შესახებ">
+<!ENTITY aboutCommPluginsCmd.accesskey			"p">
+
+<!ENTITY direct.label                                   "ხაზზე (პროქსი: არა)">
+<!ENTITY direct.accesskey                               "N">
+<!ENTITY manual.label                                   "ხაზზე (პროქსი: მითითება)">
+<!ENTITY manual.accesskey                               "M">
+<!ENTITY pac.label                                      "ხაზზე (პროქსი: ავტო URL)">
+<!ENTITY pac.accesskey                                  "A">
+<!ENTITY wpad.label                                     "ხაზზე (პროქსი: ავტოაღმოჩენა)">
+<!ENTITY wpad.accesskey                                 "D">
+
+<!ENTITY proxy.label                                    "პროქსის გამართვა...">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY bidiSwitchTextDirectionItem.label        "ტექსტის მიმართულების გადართვა">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">

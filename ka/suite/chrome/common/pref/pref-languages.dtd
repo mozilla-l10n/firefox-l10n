@@ -1,0 +1,45 @@
+<!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
+
+<!ENTITY  languages.customize.prefLangDescript          "ვებგვერდი, ზოგჯერ, შესაძლებელია რამდენიმე ენაზე ინახოს.  შეარჩიეთ ენები ვებგვერდის სანახავად, თქვენთვის სასურველი რიგით.">
+<!ENTITY languages.customize.lHeader                    "ენები">
+<!ENTITY languages.customize.rHeader                    "სხვადასხვა ენა ვებგვერდების საჩვენებლად">
+<!ENTITY langtitle.label                                "ენები ვებგვერდებისათვის">
+<!ENTITY languages.customize.prefAddLangDescript        "სასურველი ენ(ებ)ის შერჩევა დასამატებლად.">
+<!ENTITY languages.customize.engOrder.label             "1">
+<!ENTITY languages.customize.engOption.label            "ინგლისური">
+<!ENTITY languages.customize.addButton.label            "დამატება...">
+<!ENTITY languages.customize.addButton.accesskey        "A">
+<!ENTITY languages.customize.deleteButton.label         "ამოღება">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
+<!ENTITY languages.customize.title.label			    "ენების განსაზღვრა">
+<!ENTITY languages.customize.add.title.label		    "ენების დამატება">
+<!ENTITY languages.customize.left.header			    "კოდირება">
+<!ENTITY charset.customize.right.header		    "შესაძლო კოდირების შერჩევა">
+<!ENTITY languages.customize.available.label            "ენები:">
+<!ENTITY languages.customize.active.label               "ენების სასურველი რიგი:">
+<!ENTITY languages.customize.reorder.label              "გადაწყობა">
+<!ENTITY languages.customize.remove.label               "ამოღება">
+<!ENTITY languages.customize.additional.label           "შესაძლო ანბანები">
+<!ENTITY languages.customize.add.label                  "დამატება">
+<!ENTITY languages.customize.others.label               "სხვები:">
+<!ENTITY languages.customize.others.accesskey           "O">
+<!ENTITY languages.customize.Charset.grouplabel         "კოდირება">
+<!ENTITY languages.customize.DefaultCharset.label       "ძირითადი კოდირება:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
+<!ENTITY languages.customize.others.examples            "მაგ.: en-bz, ar-jo">
+<!ENTITY languages.customize.cancel.label		            "გაუქმება">
+<!ENTITY languages.customize.save.label                 "ჩაწერა">
+<!ENTITY languages.customize.ok.label                   "დიახ">
+<!ENTITY languages.customize.save.popup                 "ცვლილებების გასააქტივებლად საჭიროა ბრაუზერის გადატვირთვა...">
+<!ENTITY languages.customize.moveUp.label               "ზემოთ ატანა">
+<!ENTITY languages.customize.moveUp.accesskey           "u">
+<!ENTITY languages.customize.moveDown.label             "ქვემოთ ჩატანა">
+<!ENTITY languages.customize.moveDown.accesskey         "d">
+
+<!ENTITY spelling.label                                 "მართლწერა">
+<!ENTITY checkSpelling.label                            "მართლწერის შემოწმება ტექსტის შეტანისას:">
+<!ENTITY checkSpelling.accesskey                        "W">
+<!ENTITY dontCheckSpelling.label                        "არასოდეს">
+<!ENTITY multilineCheckSpelling.label                   "მრავალსტრიქონიან სარკმლებში">
+<!ENTITY alwaysCheckSpelling.label                      "ყველა სარკმელში">

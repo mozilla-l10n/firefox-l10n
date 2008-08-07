@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "საბეჭდის პარამეტრები">
+
+<!ENTITY paperInput.label "ქაღალდის ზომა:">
+
+<!ENTITY plexInput.label "რეჟიმი:">
+
+<!ENTITY resolutionInput.label "გარჩევადობა/ხარისხი:">
+
+<!ENTITY cmdInput.label "ბეჭდვის ბრძანება:">
+
+<!ENTITY jobTitleInput.label "დავალების სახელი:">
+
+<!ENTITY colorGroup.label "ფერადი:">
+<!ENTITY grayRadio.label "შავ-თეთრი">
+<!ENTITY colorRadio.label "ფერადი">
+
+<!ENTITY colorspaceInput.label "პალიტრა:">
+
+<!ENTITY fontsGroup.label "შრიფტები:">
+<!ENTITY downloadFonts.label "ჩავტვირთო შრიფტები საბეჭდში?">
+
+<!ENTITY edgeMarginInput.label "გვერდის ველები (დუიმებში)">
+<!ENTITY topInput.label "ზედა:">
+<!ENTITY bottomInput.label "ქვედა:">
+<!ENTITY leftInput.label "მარცხენა:">
+<!ENTITY rightInput.label "მარჯვენა:">

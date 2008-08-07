@@ -1,0 +1,20 @@
+<!ENTITY emailSectionHdr.label        "ელფოსტა"> 
+<!ENTITY readMsgsLink.label           "წერილები წაკითხვა"> 
+<!ENTITY composeMsgLink.label         "ახალი წერილის შედგენა"> 
+
+<!ENTITY newsSectionHdr.label         "ჯგუფები"> 
+<!ENTITY subscribeNewsLink.label      "ხელმოწერა ჯგუფებზე"> 
+
+<!ENTITY accountsSectionHdr.label     "ანგარიშები"> 
+<!ENTITY subscribeImapFolders.label   "ხელმოწერების დასტების მართვა">
+<!ENTITY settingsLink.label           "ანგარიშის პარამეტრების ჩვენება"> 
+<!ENTITY newAcctLink.label            "ახალი ანგარიშის შექმნა"> 
+
+<!ENTITY advFeaturesSectionHdr.label  "დეტალური პარამეტრები"> 
+<!ENTITY searchMsgsLink.label         "წერილების ძიება"> 
+<!ENTITY filtersLink.label            "წერილების ფილტრები">
+<!ENTITY junkSettings.label           "ჯართის პარამეტრები">
+<!ENTITY offlineLink.label            "ავტონომიური რეჟიმის პარამეტრები">
+
+<!ENTITY rssSectionHdr.label          "RSS სიახლეები და ბლოკები"> 
+<!ENTITY subscibeRSS.label            "ხელმოწერების მართვა">

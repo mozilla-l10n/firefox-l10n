@@ -1,0 +1,14 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "მიუთითეთ გვერდის მისამართი (URL), ან ლოკალური ფაილი რომლის გახსნაც გსურთ:">  
+<!ENTITY enter.accesskey "E">
+<!ENTITY chooseFile.label "ფაილის არჩევა...">
+<!ENTITY chooseFile.accesskey "C">
+<!ENTITY newWindow.label "ნავიგატორის ახალ ფანჯარაში">
+<!ENTITY newTab.label "ნავიგატორის ახალ დაფაზე">
+<!ENTITY topWindow.label "ნავიგატორის აქტიურ ფანჯარაში">
+<!ENTITY editNewWindow.label "რედაქტორის ახალ ფანჯარაში">
+<!ENTITY open.label "გახსნა">
+<!ENTITY caption.label "ვებგვერდის გახსნა">
+<!ENTITY openWhere.label "გახსენი აქ:">
+<!ENTITY openWhere.accesskey "O">

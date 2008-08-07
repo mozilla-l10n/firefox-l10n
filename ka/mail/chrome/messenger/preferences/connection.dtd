@@ -1,0 +1,41 @@
+<!ENTITY  connectionsDialog.title       "კავშირის პარამეტრები">
+<!ENTITY  window.width                   "45em">
+
+<!ENTITY  proxyTitle.label              "პროქსის გამართვა ინტერნეტ კავშირისთვის">
+<!ENTITY  noProxyTypeRadio.label        "პროქსი არაა">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "პროქსის სისტემური პარამეტრების გამოყენება">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "ამ ქსელისთვის პროქსის პარამეტრების თვითამოცნობა">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "პროქსის ხელით გამართვა:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "პროქსის თვითგამართვის URL:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "განახლება">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  ftp.label                     "FTP პროქსი:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Gopher პროქსი:">
+<!ENTITY  gopher.accesskey              "g">
+<!ENTITY  http.label                    "HTTP პროქსი:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL პროქსი:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS ჰოსტი:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "პორტი:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.label                 "პორტი:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "პორტი:">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "პროქსი არაა:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "ყველა ოქმისთვის ამ პროქსის გამოყენება">
+<!ENTITY  shareproxy.accesskey          "x">

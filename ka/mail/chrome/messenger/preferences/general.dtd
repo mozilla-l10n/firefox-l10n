@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label              "ნაგულისხმები პარამეტრები">
+<!ENTITY alwaysCheckDefault.label          "გახსნისას &brandShortName; პროგრამის ყოველთვის შემოწმება, არის თუ არა ნაგულისხმები საფოსტო კლიენტი">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "შემოწმება ახლავე">
+<!ENTITY checkNow.accesskey         "N">
+
+<!ENTITY messengerStartPage.label         "&brandShortName; საწყისი გვერდი">
+<!ENTITY enableStartPage.label            "&brandShortName; სეანსის დაწყებისას საწყისი გვერდის წერილების არეში ჩვენება">
+<!ENTITY enableStartPage.accesskey        "W">
+<!ENTITY location.label                   "მისამართი:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "ნაგულისხმების აღდგენა">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "პიქტოგრამის ანიმაცია">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "ახალი წერილის შემოსვლისას:">
+<!ENTITY playSound.label                  "გახმოვანება">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "გაფრთხილების ჩვენება">
+<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY customizeMailAlert.label         "მორგება…">
+<!ENTITY customizeMailAlert.accesskey     "C">
+
+<!ENTITY soundNotification1.caption       "ხმა">
+<!ENTITY play.label                       "გახმოვანება">
+<!ENTITY play.accesskey                   "P">
+<!ENTITY systemsound.label                "ახალი წერილის ნაგულისხმები სისტემური გახმოვანება">
+<!ENTITY systemsoundMac.label             "სისტემური სიგნალი">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "შემდეგი ხმოვანი ფაილის გამოყენება">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "ნუსხა…">
+<!ENTITY browse.accesskey                 "B">

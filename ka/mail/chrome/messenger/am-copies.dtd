@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "ასლები და დასტები">
+<!ENTITY sendingPrefix.label "წერილის გაგზავნისას, ავტომატურად: ">
+<!ENTITY fccMailFolder.label "ასლი გადაწერე:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "პასუხების მოთავსება პასუხგაცემული წერილის დასტაში">
+<!ENTITY fccReplyFollowsParent.accesskey "c">
+<!ENTITY chooseFolderButton.label "დასტის არჩევა…">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "მეორე ასლები ამ მისამართებზე:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "სპეციალური დასტები">
+<!ENTITY draftMailFolder.label "ესკიზების შენახვა დასტაში:">
+<!ENTITY templateMailFolder.label "წერილების შაბლონების დასტა:">
+<!ENTITY saveMessageDlg.label "თანხმობის დიალოგის ჩვენება წერილების შენახვისას">
+<!ENTITY saveMessageDlg.accesskey "w">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;გასული&quot; დასტა:">
+<!ENTITY sentFolderOn.accesskey "S">
+<!ENTITY sentInOtherFolder.label "სხვა დასტა:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;ესკიზები&quot; დასტა:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "სხვა დასტა:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;შაბლონები&quot; დასტა:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "სხვა დასტა:">
+<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY specialFoldersTitle.label "ესკიზები და შაბლონები">
+<!ENTITY keepDrafts.label "წერილების ესკიზების დასტა:">
+<!ENTITY keepTempltes.label "წერილების შაბლონების დასტა:">

@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "შენახული ახალი საძიებო დასტა">
+<!ENTITY name.label                 "სახელი:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "შექმნა როგორც ქვედასტა:">
+<!ENTITY description.accesskey      "C">
+
+<!ENTITY searchTermCaption.label "ამ შენახული ძიების დასტისთვის გამოყენებული საძიებო კრიტერიუმის შესწორება: ">
+
+<!ENTITY folderSelectionCaption.label "საძიებო დასტების შერჩევა: ">
+<!ENTITY chooseFoldersButton.label "შერჩევა...">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "ძიება კავშირის რეჟიმში (იძლევა განახლებულ შედეგებს IMAP და სიახლეების დასტებიდან, თუმცა დასტის გახსნის დრო იზრდება)">
+<!ENTITY searchOnline.accesskey "S">

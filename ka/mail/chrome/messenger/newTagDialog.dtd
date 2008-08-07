@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "ახალი ჭდის შექმნა">
+<!ENTITY name.label              "ჭდის სახელი:">
+<!ENTITY name.accesskey             "T">

@@ -1,0 +1,31 @@
+<!ENTITY editMenu.label            "რედაქტირება">
+<!ENTITY editMenu.accesskey        "e">
+<!ENTITY undoCmd.label             "დაბრუნება">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY undoCmd.accesskey         "u">
+<!ENTITY redoCmd.label             "გამეორება">
+<!ENTITY redoCmd.key               "Y">
+<!ENTITY redoCmd.accesskey         "r">
+<!ENTITY cutCmd.label              "ამოჭრა">
+<!ENTITY cutCmd.key                "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label             "კოპირება">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "c">
+<!ENTITY pasteCmd.label            "ჩასმა">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "p">
+<!ENTITY deleteCmd.label           "წაშლა">
+<!ENTITY deleteCmd.accesskey       "d">
+<!ENTITY selectAllCmd.label        "სრული მონიშვნა">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey    "a">
+<!ENTITY findCmd.label             "ძიება">
+<!ENTITY findCmd.key               "F">
+<!ENTITY findCmd.accesskey         "F">
+<!ENTITY findAgainCmd.label        "კვლავძიება">
+<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "g">
+<!ENTITY findPreviousCmd.label     "წინას პოვნა">
+<!ENTITY findPreviousCmd.accesskey "v">

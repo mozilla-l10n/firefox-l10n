@@ -1,0 +1,29 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY pref.offline.title               "ავტონომიური რეჟიმი და ადგილი დისკზე">
+<!ENTITY pref.offline.caption             "ავტონომიური რეჟიმი ">
+<!ENTITY textStartUp                      "სეანსის დაწყებისას:">
+<!ENTITY menuitemRememberPrevState        "წინა რეჟიმის სტატუსის შენახვა">
+<!ENTITY menuitemAskMe                    "დამეკითხე კავშირის რეჟიმზე გადასვლას დაწყებისას">
+<!ENTITY menuitemAlwaysOnline             "დაწყება ყოველთვის კავშირის რეჟიმში">
+<!ENTITY menuitemAlwaysOffline            "დაწყება ყოველთვის ავტონომიურ რეჟიმში">
+<!ENTITY menuitemAutomatic                "თვითამოცნობა (თუ შესაძლებელია)">
+<!ENTITY textGoingOnline                  "გაიგზავნოს გასაგზავნი წერილები კავშირის რეჟიმში შესვლისას?">
+<!ENTITY radioAutoSend                    "დიახ">
+<!ENTITY radioAutoSend.accesskey          "Y">
+<!ENTITY radioNotSend                     "არა">
+<!ENTITY radioNotSend.accesskey           "N">
+<!ENTITY radioAskUnsent                   "დამეკითხე">
+<!ENTITY radioAskUnsent.accesskey         "s">
+<!ENTITY textGoingOffline                 "ჩამოიტვირთოს წერილები ავტონომიურ რეჟიმში სამუშაოდ?">
+<!ENTITY radioAutoDownload                "დიახ">
+<!ENTITY radioAutoDownload.accesskey      "e">
+<!ENTITY radioNotDownload                 "არა">
+<!ENTITY radioNotDownload.accesskey       "o">
+<!ENTITY radioAskDownload                 "დამეკითხე">
+<!ENTITY radioAskDownload.accesskey       "k">
+<!ENTITY Diskspace                        "ადგილი დისკზე">
+<!ENTITY offlineCompact.label             "დასტების შემჭიდროვება თუ გამოთავისუფლდება">
+<!ENTITY offlineCompact.accesskey         "C">
+<!ENTITY kb.label                         "კბ">

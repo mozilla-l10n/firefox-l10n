@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title      "&brandFullName; პროგრამის შესახებ">
+<!ENTITY credits.label          "მადლობები">
+<!ENTITY credits.accesskey      "C">
+<!ENTITY aboutLink.label        "&lt; &brandFullName; პროგრამის შესახებ">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion           "ვერსია">
+<!ENTITY copyrightText          "&#169;1998-2008 პროგრამის ავტორები. ყველა უფლება დაცულია. Mozilla Thunderbird და 
+                                 Thunderbird ლოგოები Mozilla-ს ფონდის სავაჭრო ნიშნებია.  ყველა უფლება 
+                                 დაცულია.">
