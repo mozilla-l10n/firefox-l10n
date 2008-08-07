@@ -1,0 +1,179 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Problem ved lasting av sida">
+<!ENTITY retry.label "Prøv om att">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Klarte ikkje å opprette tilkopling">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Tilgjenget til denne adressa har vorte avgrensa">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Fann ikkje tenaren">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Sjå om det er skrivefeil i adressa, til dømes
+    <strong>ww</strong>.døme.no i staden for
+    <strong>www</strong>.døme.no</li>
+  <li>Dersom du ikkje klarer å laste noka side som helst, kontroller at nettverkssambandet til datamaskinen 
+    er i orden.</li>
+  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, sjekk at
+    &brandShortName; har løyve til å få tilgjenge til Internett.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Fann ikkje fila">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Kontroller filnamnet etter skilnader i store/små bokstavar eller andre skrivefeil.</li>
+  <li>Sjekk om fila har vorte flytta, endra namn eller vorte sletta.</li>
+</ul>
+">
+
+
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; klarte ikkje å laste denne sida av ukjent årsak.</p>
+">
+
+<!ENTITY malformedURI.title "Ugyldig adresse">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Nettsideadresser skal vanlegvis skrivast slik:
+    <strong>http://www.døme.no/</strong></li>
+  <li>Kontroller at du brukar framover-skråstrek (til dømes
+    <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "Tilkoplinga vart broten">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Fråkopla modus">
+<!ENTITY netOffline.longDesc "
+<ul>
+  <li>Fjern avkryssinga frå &quot;Arbeid fråkopla&quot; i Fil-menyen, og prøv igjen.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Feilkoding av innhald">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Du bør informere eigarane av sida du ville vitje om dette problemet.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Utrygg filtype">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Kontakt eigaren av nettsida for å informere om dette problemet.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Tilkoplinga vart broten">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Tilkoplinga fekk tidsavbrot">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Klarte ikkje å kjenne att adressa">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Det er mogleg du må installere anna programvare for å opne denne adressa.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "Mellomtenar godtek ikkje tilkoplingar">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Kontroller at mellomtenar-innstillingane er korrekte.</li>
+  <li>Kontakt nettverksansvarleg for å finne ut om mellomtenaren verkar.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "Fann ikkje mellomtenar">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Kontroller at innstillingane for mellomtenar er korrekte.</li>
+  <li>Kontroller at datamaskina har eit fungerande nettverkssamband.</li>
+  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller
+    at &brandShortName; har løyve på tilgjenge til Internett.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "Nettsida vidaresender ikkje skikkeleg">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+   <li>Dette problemet kan av og til kome av at infokapslar har vorte
+    slått av eller ved å ikkje godta infokapslar.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Uventa svar frå tenar">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Kontroller at systemet ditt har Personal Security Manager
+    installert.</li>
+  <li>Dette problemet kan kome av eit uvanleg oppsett på tenaren.</li>
+</ul>
+">
+
+<!ENTITY nssFailure2.title "Sikkert samband feila">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>Sida du prøver å sjå kan ikkje visast fordi autentiseringa av mottekne data ikkje kunne verifiserast.</li>
+  <li>Kontakt eigarane av nettsida for å informere dei om problemet. Alternativt kan du bruke kommandoen i hjelpemenyen for å rapportere om feilen sida.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Sikkert samband feila">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Dette kan vere eit problem med konfigurasjonen åt tenaren, eller det kan vere at nokon prøver å 
+gje seg ut for å vere tenaren.</li>
+  <li>Om du har kopla til denne tenaren før, kan feilen vere 
+mellombels, og du kan prøve igjen seinare.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Nettstaden kan vere mellombels utilgjengeleg eller oppteken. Prøv om att om
+    ei lita stund.</li>
+  <li>Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina
+    er i orden.</li>
+  <li>Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller
+    at &brandShortName; har løyve til å bruke nettet (www).</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "Mistenkt åtaksstad!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Angripne sider prøver å installere program som stel privat informasjon, brukar maskina di til å angripe andre, eller skade systemet ditt.</p>
+<p>Eigarar av nettsider som meiner at sida deira feilaktig har vorte rapportert som ei åtakside, kan <a href='http://www.stopbadware.org/home/reviewinfo' >krevje ei gransking</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Mistenkt nettsvindel!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Å skrive inn personleg informasjon på denne sida kan føre til identitetstjuveri eller anna svik.</p>
+<p>Denne typen av nettforfalskingar er brukte i svindelopplegg kjende som phishing-åtak, der sviksame nettsider og e-postar er brukt til å imitere kjelder du vanlegvis stolar på.</p>
+">
+
+<!ENTITY securityOverride.linkText "eller du kan leggje til eit unntak …">
+<!ENTITY securityOverride.getMeOutOfHereButton "Få meg ut herifrå!">
+<!ENTITY securityOverride.exceptionButtonLabel "Legg til unntak …">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningText "
+<p>Du bør ikkje leggje til eit unntak om du brukar ei Internett-tilkopling som du ikkje stolar heilt på eller om du ikkje er van med å sjå åtvaring for denne tenaren.</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">

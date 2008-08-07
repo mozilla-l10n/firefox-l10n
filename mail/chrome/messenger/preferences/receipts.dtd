@@ -1,0 +1,23 @@
+<!ENTITY dialog.title                  "Kvitteringar">
+<!ENTITY receiptSettings.label         "Kvitteringar">
+<!ENTITY requestReceipt.label          "Spør alltid etter kvittering ved sending av e-post">
+<!ENTITY requestReceipt.accesskey      "V">
+<!ENTITY receiptArrive.label           "Når ei kvittering vert motteken:">
+<!ENTITY leaveIt.label                 "Lat ho liggje i innboksen">
+<!ENTITY leaveIt.accesskey             "i">
+<!ENTITY moveToSent.label              "Flytt ho til «Sendt»-mappa">
+<!ENTITY moveToSent.accesskey          "m">
+<!ENTITY requestMDN.label              "Når eg mottek førespurnad for kvittering:">
+<!ENTITY never.label                   "Send aldri kvitteringar">
+<!ENTITY never.accesskey               "n">
+<!ENTITY returnSome.label              "Tillat kvitteringar for nokre meldingar">
+<!ENTITY returnSome.accesskey          "r">
+<!ENTITY notInToCc.label               "Viss eg ikkje er i Til- eller Cc-feltet på meldinga:">
+<!ENTITY notInToCc.accesskey           "f">
+<!ENTITY outsideDomain.label           "Om sendaren er utanfor domenet mitt:">
+<!ENTITY outsideDomain.accesskey       "t">
+<!ENTITY otherCases.label              "I alle andre tilfelle:">
+<!ENTITY otherCases.accesskey          "a">
+<!ENTITY askMe.label                   "Spør meg">
+<!ENTITY alwaysSend.label              "Send alltid">
+<!ENTITY neverSend.label               "Send aldri">

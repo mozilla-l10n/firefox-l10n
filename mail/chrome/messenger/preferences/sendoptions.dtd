@@ -1,0 +1,41 @@
+<!ENTITY dialog.title                 "Sendeinnstillingar">
+<!ENTITY sendMail.title               "Tekstformat">
+<!ENTITY sendMaildesc.label           "Ved sending av meldingar i HTML-format, og ein eller fleire mottakarar er oppførde som å ikkje kunne ta imot HTML:">
+<!ENTITY askMe.label                  "Spør meg om kva som skal gjerast">
+<!ENTITY askMe.accesskey              "k">
+<!ENTITY convertPlain.label           "Konverter meldinga til rein tekst">
+<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY sendHTML.label               "Send meldinga i HTML likevel">
+<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendBoth.label               "Send meldinga som både tekst og HTML">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY receiveHTML.label            "Viss du veit at ein bestemt mottakar kan ta imot HTML-e-post, kan du fjerne avkryssinga frå valet \'Send meldinga som rein tekst (ingen HTML)\' i adressebok-oppføringa til mottakaren.">
+<!ENTITY override.label               "Merk: Bruk adresseboka til å oppgje føretrekt tekstformat for mottakarane.">
+
+<!ENTITY domaindesc.label             "Når du sender ei melding til ei adresse innanfor eit av domena som er lista under, vil &brandShortName; automatisk sende meldinga i det formatet som er valt.">
+<!ENTITY HTMLTab.label                "HTML-domene">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Tekst-domene">
+<!ENTITY PlainTextTab.accesskey       "T">
+<!ENTITY AddHtmlDomain.label          "Legg til …">
+<!ENTITY AddHtmlDomain.accesskey      "L">
+<!ENTITY AddPlainText.label           "Legg til …">
+<!ENTITY AddPlainText.accesskey       "g">
+<!ENTITY DeleteHtmlDomain.label       "Slett">
+<!ENTITY DeleteHtmlDomain.accesskey   "S">
+<!ENTITY DeletePlainText.label        "Slett">
+<!ENTITY DeletePlainText.accesskey    "e">
+
+<!ENTITY add.htmltitle                "Legg til HTML-domenenamn">
+<!ENTITY add.htmldomain               "HTML domenenamn:">
+<!ENTITY add.htmldomain.accesskey     "d">
+<!ENTITY add.plaintexttitle           "Legg til tekst-domenenamn">
+<!ENTITY add.plaintextdomain          "Tekst-domenenamn:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Feil i domenenamn">
+<!ENTITY duplicationError.label       "Domenenamnet @string@ finst alt i lista.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Eit domenenamn kan ikkje finnast i både HTML- og tekst-listene. Domenenamnet @string@ finst alt.">

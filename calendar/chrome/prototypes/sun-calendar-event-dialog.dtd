@@ -1,0 +1,361 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is Sun Microsystems.
+   - Portions created by the Initial Developer are Copyright (C) 2006
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Michael Büttner <michael.buettner@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
+   -   Fred Jendrzejewski <fred.jen@web.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Menubar -->
+<!ENTITY  event.menu.file.label                           "Fil">
+<!ENTITY  event.menu.file.accesskey                       "F">
+<!ENTITY  event.menu.file.new.label                       "Ny">
+<!ENTITY  event.menu.file.new.accesskey                   "N">
+<!ENTITY  event.menu.file.new.event.label                 "Hending">
+<!ENTITY  event.menu.file.new.event.accesskey             "H">
+<!ENTITY  event.menu.file.new.message.label               "Melding">
+<!ENTITY  event.menu.file.new.message.accesskey           "M">
+<!ENTITY  event.menu.file.new.address.label               "Adressebokkort">
+<!ENTITY  event.menu.file.new.address.accesskey           "K">
+<!ENTITY  event.menu.file.close.label                     "Lat att">
+<!ENTITY  event.menu.file.close.accesskey                 "a">
+<!ENTITY  event.menu.file.save.label                      "Lagre">
+<!ENTITY  event.menu.file.save.accesskey                  "L">
+<!ENTITY  event.menu.file.page.setup.label                "Sideoppsett">
+<!ENTITY  event.menu.file.page.setup.accesskey            "o">
+<!ENTITY  event.menu.file.print.label                     "Skriv ut">
+<!ENTITY  event.menu.file.print.accesskey                 "S">
+<!ENTITY  event.menu.file.exit.label                      "Avslutt">
+<!ENTITY  event.menu.file.exit.accesskey                  "v">
+
+<!ENTITY  event.menu.edit.label                           "Endre">
+<!ENTITY  event.menu.edit.accesskey                       "E">
+<!ENTITY  event.menu.edit.undo.label                      "Angre">
+<!ENTITY  event.menu.edit.undo.accesskey                  "A">
+<!ENTITY  event.menu.edit.redo.label                      "Gjer om">
+<!ENTITY  event.menu.edit.redo.accesskey                  "G">
+<!ENTITY  event.menu.edit.cut.label                       "Klipp ut">
+<!ENTITY  event.menu.edit.cut.accesskey                   "u">
+<!ENTITY  event.menu.edit.copy.label                      "Kopier">
+<!ENTITY  event.menu.edit.copy.accesskey                  "K">
+<!ENTITY  event.menu.edit.paste.label                     "Lim inn">
+<!ENTITY  event.menu.edit.paste.accesskey                 "L">
+<!ENTITY  event.menu.edit.select.all.label                "Merk alt">
+<!ENTITY  event.menu.edit.select.all.accesskey            "a">
+
+<!ENTITY  event.menu.view.label                           "Vis">
+<!ENTITY  event.menu.view.accesskey                       "V">
+<!ENTITY  event.menu.view.toolbars.label                  "Verktøylinjer">
+<!ENTITY  event.menu.view.toolbars.accesskey              "V">
+<!ENTITY  event.menu.view.toolbars.event.label            "Verktøylinje for hendingar">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "H">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Tilpass …">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "T">
+<!ENTITY  event.menu.view.showlink.label                  "Vis relatert lenkje">
+<!ENTITY  event.menu.view.showlink.accesskey              "r">
+
+<!ENTITY  event.menu.options.label                            "Innstillingar">
+<!ENTITY  event.menu.options.accesskey                        "I">
+<!ENTITY  event.menu.options.attachments.label                "Legg ved vevside …">
+<!ENTITY  event.menu.options.attachments.accesskey            "v">
+<!ENTITY  event.menu.options.attendees.label                  "Inviter deltakarar …">
+<!ENTITY  event.menu.options.attendees.accesskey              "I">
+<!ENTITY  event.menu.options.spellcheck.label                 "Stavekontroll …">
+<!ENTITY  event.menu.options.spellcheck.accesskey             "h">
+<!ENTITY  event.menu.options.inline.spellcheck.label          "Stavekontroll medan du skriv">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
+<!ENTITY  event.menu.options.link.label                       "Legg til lenkje …">
+<!ENTITY  event.menu.options.link.accesskey                   "L">
+<!ENTITY  event.menu.options.timezone.label                   "Tidssone">
+<!ENTITY  event.menu.options.timezone.accesskey               "s">
+<!ENTITY  event.menu.options.priority2.label                  "Prioritet">
+<!ENTITY  event.menu.options.priority2.accesskey              "r">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Ikkje valt">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "j">
+<!ENTITY  event.menu.options.priority.low.label               "Låg">
+<!ENTITY  event.menu.options.priority.low.accesskey           "L">
+<!ENTITY  event.menu.options.priority.normal.label            "Normal">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "Høg">
+<!ENTITY  event.menu.options.priority.high.accesskey          "H">
+<!ENTITY  event.menu.options.privacy.label                    "Personvern">
+<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.public.label             "Offentleg hending">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "f">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Vis berre tid og dato">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "b">
+<!ENTITY  event.menu.options.privacy.private.label            "Privat hending">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.show.time.label                  "Vis tid som">
+<!ENTITY  event.menu.options.show.time.accesskey              "T">
+<!ENTITY  event.menu.options.show.time.busy.label             "Oppteken">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "O">
+<!ENTITY  event.menu.options.show.time.free.label             "Ledig">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "L">
+
+<!ENTITY event.help.label                                 "Hjelp">
+<!ENTITY event.help.accesskey                             "H">
+<!ENTITY event.help.release.notes.label                   "Merknader til utgjevinga">
+<!ENTITY event.help.release.notes.accesskey               "M">
+<!ENTITY event.help.help.label                            "Hjelp til &brandShortName;">
+<!ENTITY event.help.help.accesskey                        "H">
+<!ENTITY event.help.about.label                           "Om &brandShortName;">
+<!ENTITY event.help.about.accesskey                       "O">
+
+<!ENTITY event.invite.attendees.label                     "Inviter deltakarar …">
+<!ENTITY event.invite.attendees.accesskey                 "I">
+<!ENTITY event.email.attendees.label                      "Skriv e-post til alle deltakarar …">
+<!ENTITY event.email.attendees.accesskey                  "a">
+<!ENTITY event.email.tentative.attendees.label            "Skriv e-post til usikre deltakarar …">
+<!ENTITY event.email.tentative.attendees.accesskey        "u">
+
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label                        "Lagre og avslutt">
+<!ENTITY  event.toolbar.attendees.label                   "Inviter deltakarar">
+<!ENTITY  event.toolbar.spellcheck.label                  "Stavekontroll">
+<!ENTITY  event.toolbar.privacy.label                     "Personvern">
+<!ENTITY  event.toolbar.attachments.label                 "Legg ved">
+
+<!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Tittel:" >
+<!ENTITY event.title.textbox.accesskey                    "T">
+<!ENTITY event.location.label                             "Stad:" >
+<!ENTITY event.location.accesskey                         "S">
+<!ENTITY event.categories.label                           "Kategori:">
+<!ENTITY event.categories.accesskey                       "t">
+<!ENTITY event.calendar.label                             "Kalender:" >
+<!ENTITY event.calendar.accesskey                         "K">
+<!ENTITY event.attendees.label                            "Deltakarar:" >
+<!ENTITY event.attendees.accesskey                        "D" >
+<!ENTITY event.alldayevent.label                          "Heildagshending" >
+<!ENTITY event.alldayevent.accesskey                      "H">
+<!ENTITY event.from.label                                 "Start:" >
+<!ENTITY event.from.accesskey                             "S">
+<!ENTITY task.from.label                                  "Start:" >
+<!ENTITY task.from.accesskey                              "S">
+<!ENTITY event.to.label                                   "Slutt:" >
+<!ENTITY event.to.accesskey                               "l">
+<!ENTITY task.to.label                                    "Forfallsdato:" >
+<!ENTITY task.to.accesskey                                "F">
+<!ENTITY task.status.label                                "Status:" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "Gjenta:" >
+<!ENTITY event.repeat.accesskey                           "G">
+<!ENTITY event.reminder.label                             "Påminning:" >
+<!ENTITY event.reminder.accesskey                         "P">
+<!ENTITY event.description.label                          "Skildring:" >
+<!ENTITY event.description.accesskey                      "S">
+<!ENTITY event.attachments.label                          "Vedlegg:" >
+<!ENTITY event.attachments.accesskey                      "e" >
+<!ENTITY event.attachments.popup.remove.label             "Fjern" >
+<!ENTITY event.attachments.popup.remove.accesskey         "F" >
+<!ENTITY event.attachments.popup.open.label               "Opne" >
+<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.removeAll.label          "Fjern alle" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
+<!ENTITY event.attachments.popup.attachPage.label         "Legg ved vevside …" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "v" >
+<!ENTITY event.url.label                                  "Relatert lenkje:" >
+<!ENTITY event.priority2.label                            "Prioritet:">
+
+<!ENTITY event.reminder.none.label                        "Inga påminning" >
+<!ENTITY event.reminder.5minutes.before.label             "5 minutt før" >
+<!ENTITY event.reminder.10minutes.before.label            "10 minutt før" >
+<!ENTITY event.reminder.15minutes.before.label            "15 minutt før" >
+<!ENTITY event.reminder.30minutes.before.label            "30 minutt før" >
+<!ENTITY event.reminder.45minutes.before.label            "45 minutt før" >
+<!ENTITY event.reminder.1hour.before.label                "1 time før" >
+<!ENTITY event.reminder.2hours.before.label               "2 timar før" >
+<!ENTITY event.reminder.5hours.before.label               "5 timar før" >
+<!ENTITY event.reminder.15hours.before.label              "15 timar før" >
+<!ENTITY event.reminder.1day.before.label                 "1 dag før" >
+<!ENTITY event.reminder.2days.before.label                "2 dagar før" >
+<!ENTITY event.reminder.1week.before.label                "1 veke før" >
+<!ENTITY event.reminder.custom.label                      "Anna …" >
+
+<!ENTITY event.reminder.multiple.label                    "Fleire påminninger …" >
+
+<!-- Recurrence dialog -->
+
+<!ENTITY recurrence.title.label                         "Endre gjentaking">
+
+<!ENTITY event.repeat.does.not.repeat.label             "Vert ikkje gjenteke">
+<!ENTITY event.repeat.daily.label                       "Kvar dag">
+<!ENTITY event.repeat.weekly.label                      "Kvar veke">
+<!ENTITY event.repeat.every.weekday.label               "Kvar vekedag">
+<!ENTITY event.repeat.bi.weekly.label                   "Annakvar veke">
+<!ENTITY event.repeat.monthly.label                     "Kvar månad">
+<!ENTITY event.repeat.yearly.label                      "Kvart år">
+<!ENTITY event.repeat.custom.label                      "Anna …">
+
+<!ENTITY event.recurrence.pattern.label                 "Gjentakingsmønster">
+<!ENTITY event.recurrence.occurs.label                  "Gjenta" >
+<!ENTITY event.recurrence.day.label                     "kvar dag" >
+<!ENTITY event.recurrence.week.label                    "kvar veke" >
+<!ENTITY event.recurrence.month.label                   "kvar månad" >
+<!ENTITY event.recurrence.year.label                    "kvart år" >
+
+<!ENTITY event.recurrence.pattern.every.label           "Kvar" >
+<!ENTITY repeat.units.days.both                         "Dag(ar)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Kvar vekedag" >
+
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Kvar" >
+<!ENTITY repeat.units.weeks.both                        "Veke(r)" >
+<!ENTITY event.recurrence.on.label                      "På:" >
+
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Kvar" >
+<!ENTITY repeat.units.months.both                       "Månad(er)" >
+<!ENTITY event.recurrence.the.label                     "" >
+<!ENTITY event.recurrence.repeat.first.label            "Første">
+<!ENTITY event.recurrence.repeat.second.label           "Andre">
+<!ENTITY event.recurrence.repeat.third.label            "Tredje">
+<!ENTITY event.recurrence.repeat.fourth.label           "Fjerde">
+<!ENTITY event.recurrence.repeat.fifth.label            "Femte">
+<!ENTITY event.recurrence.repeat.last.label             "Siste">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Søndag" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Måndag" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Tysdag" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Onsdag" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Torsdag" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Fredag" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Laurdag" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "dagen i månaden">
+<!ENTITY event.recurrence.repeat.recur.label            "Gjenta på dag(ar)">
+
+<!ENTITY event.recurrence.every.label                        "Kvar:" >
+<!ENTITY repeat.units.years.both                             "År" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Kvar" >
+<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Kvar" >
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Januar" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Februar" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Mars" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "April" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Mai" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Juni" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Juli" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "August" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "September" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Oktober" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "November" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Desember" >
+<!ENTITY event.recurrence.pattern.yearly.first.label         "Første">
+<!ENTITY event.recurrence.pattern.yearly.second.label        "Andre">
+<!ENTITY event.recurrence.pattern.yearly.third.label         "Tredje">
+<!ENTITY event.recurrence.pattern.yearly.fourth.label        "Fjerde">
+<!ENTITY event.recurrence.pattern.yearly.fifth.label         "Femte">
+<!ENTITY event.recurrence.pattern.yearly.last.label          "Siste">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Søndag" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Måndag" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Tysdag" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Onsdag" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Torsdag" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Fredag" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Laurdag" >
+<!ENTITY event.recurrence.of.label                           "av" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Januar" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Februar" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Mars" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "April" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Mai" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Juni" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Juli" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "August" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "September" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Oktober" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "November" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Desember" >
+
+<!ENTITY event.recurrence.range.label                   "Gjentakingslengd">
+<!ENTITY event.recurrence.forever.label                 "Ingen sluttdato" >
+<!ENTITY event.recurrence.repeat.for.label              "Opprett" >
+<!ENTITY event.recurrence.appointments.label            "Avtala(r)" >
+<!ENTITY event.repeat.until.label                       "Gjenta til" >
+<!ENTITY event.recurrence.preview.label                 "Førehandsvising">
+
+<!-- Reminder dialog -->
+
+<!ENTITY reminder.title.label                           "Standard påminning">
+<!ENTITY reminder.dialogtitle.label                     "Still inn påminningar">
+<!ENTITY reminder.reminderDetails.label                 "Påminningsdetaljar">
+<!ENTITY reminder.action.label                          "Vel ei påminningshandling">
+<!ENTITY reminder.action.alert.label                    "Vis eit varsel">
+<!ENTITY reminder.action.email.label                    "Send ein e-post">
+<!ENTITY reminder.new.label                             "Ny">
+<!ENTITY reminder.delete.label                          "Slett">
+<!ENTITY reminder.relation.start.label                  "hendinga startar">
+<!ENTITY reminder.relation.end.label                    "hendinga sluttar">
+<!ENTITY reminder.add.label                             "Legg til">
+<!ENTITY reminder.add.accesskey                         "A">
+<!ENTITY reminder.remove.label                          "Fjern">
+<!ENTITY reminder.remove.accesskey                      "R">
+
+
+<!-- Attendees dialog -->
+<!ENTITY invite.title.label              "Inviter deltakarar">
+<!ENTITY event.organizer.label           "Organisert av">
+<!ENTITY event.freebusy.suggest.slot     "Føreslå tidsluke:">
+<!ENTITY event.freebusy.next.slot        "Neste tidsluke" >
+<!ENTITY event.freebusy.previous.slot    "Førre tidsluke" >
+<!ENTITY event.freebusy.zoom             "Zoom:">
+<!ENTITY event.freebusy.plus             "Neste time" >
+<!ENTITY event.freebusy.minus            "Førre time" >
+<!ENTITY event.freebusy.legend.free      "Ledig" >
+<!ENTITY event.freebusy.legend.busy      "Oppteken" >
+<!ENTITY event.freebusy.legend.unknown   "Ingen informasjon" >
+
+<!-- Timezone dialog -->
+
+<!ENTITY timezone.title.label            "Gje opp tidssone">
+
+<!-- Read-Only dialog -->
+
+<!ENTITY read.only.general.label         "Generelt">
+<!ENTITY read.only.title.label           "Tittel:">
+<!ENTITY read.only.repeat.label          "Gjenta:">
+<!ENTITY read.only.location.label        "Stad:">
+<!ENTITY read.only.category.label        "Kategori:">
+<!ENTITY read.only.organizer.label       "Organisert av:">
+<!ENTITY read.only.reply.label           "Svar:">
+<!ENTITY read.only.accept.label          "Eg vil vere med">
+<!ENTITY read.only.decline.label         "Eg vil ikkje vere med">
+<!ENTITY read.only.needs.action.label    "Eg vil stadfeste seinare">
+<!ENTITY read.only.reminder.label        "Påminning:">
+<!ENTITY read.only.attendees.label       "Deltakarar">
+<!ENTITY read.only.description.label     "Skildring">
+<!ENTITY read.only.documents.label       "Dokument">
+<!ENTITY read.only.link.label            "Relatert lenkje">
+
+

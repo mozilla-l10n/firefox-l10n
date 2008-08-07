@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label            "Publiser side">
+<!ENTITY windowTitleSettings.label    "Publiseringsinnstillingar">
+
+<!ENTITY publishTab.label             "Publiser">
+<!ENTITY settingsTab.label            "Innstillingar">
+
+<!ENTITY publishButton.label          "Publiser">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Områdenamn:">
+<!ENTITY siteList.accesskey           "O">
+<!ENTITY siteList.tooltip             "Vel området du vil publisere til">
+<!ENTITY newSiteButton.label          "Nytt område">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY docDirList.label             "Undermappe for denne sida:">
+<!ENTITY docDirList.accesskey         "U">
+<!ENTITY docDirList.tooltip           "Vel eller skriv inn namnet på ein underkatalog på tenaren til denne sida">
+<!ENTITY publishImgCheckbox.label     "Inkluder bilete og andre filer">
+<!ENTITY publishImgCheckbox.accesskey "n">
+<!ENTITY publishImgCheckbox.tooltip   "Publiser bilete og andre filer som denne sida er kopla til">
+<!ENTITY sameLocationRadio.label      "Bruk den same adressa som sida">
+<!ENTITY sameLocationRadio.accesskey  "r">
+<!ENTITY sameLocationRadio.tooltip    "Publiser filer til den same adressa som sida">
+<!ENTITY useSubdirRadio.label         "Bruk denne undermappa">
+<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.tooltip       "Vel eller skriv inn namnet på den eksterne undermappa der filene skal publiserast">
+<!ENTITY otherDirList.tooltip         "Vel eller skriv inn namnet på ein underkatalog på tenaren der filene skal publiseres">
+<!ENTITY pageTitle.label              "Sidetittel:">
+<!ENTITY pageTitle.accesskey          "t">
+<!ENTITY pageTitle.tooltip            "Gje sida ein tittel for å identifisere ho i vindauget og i bokmerkeoversynet">
+<!ENTITY pageTitleExample.label       "til dømes: «Mi nettside»">
+<!ENTITY filename.label               "Filnamn:">
+<!ENTITY filename.accesskey           "F">
+<!ENTITY filename.tooltip             "Gje denne fila eit namn, inkludert «.html» for nettsider">
+<!ENTITY filenameExample.label        "til dømes: «miside.html»">
+<!ENTITY relatedDocs.label            "Andre filer som kan publiserast">
+<!ENTITY setDefaultButton.label       "Vel som standard">
+<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY setDefSiteAndDir.label       "Vel som standardområde og -mappe">
+<!ENTITY removeButton.label           "Fjern område">
+<!ENTITY removeButton.accesskey       "R">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Publiseringsstader">
+<!ENTITY serverInfo.label             "Tenarinformasjon">
+<!ENTITY loginInfo.label              "Innloggingsinformasjon">
+<!ENTITY siteName.label               "Områdenamn:">
+<!ENTITY siteName.accesskey           "O">
+<!ENTITY siteName.tooltip             "Eit kallenamn som identifiserer dette publiseringsområdet (til dømes: «Mitt område»)">
+<!ENTITY siteUrl.label                "Publiseringsadresse (til dømes: «ftp://ftp.myisp.com/myusername»):">
+<!ENTITY siteUrl.accesskey            "P">
+<!ENTITY siteUrl.tooltip              "FTP://- eller HTTP://-adressa til ISP-en eller nettverten din">
+<!ENTITY browseUrl.label              "HTTP-adressa til heimesida (til dømes: «http://www.myisp.com/myusername»):">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.tooltip            " HTTP://-adressa til heimekatalogen din (ikkje inkluder filnamn)">
+<!ENTITY username.label               "Brukarnamn:">
+<!ENTITY username.accesskey           "B">
+<!ENTITY username.tooltip             "Brukarnamnet du brukar for å logge deg på hos nettleverandøren eller nettverten din">
+<!ENTITY password.label               "Passord:">
+<!ENTITY password.accesskey           "P">
+<!ENTITY password.tooltip             "Passordet som høyrer til brukarnamnet ditt">
+<!ENTITY savePassword.label           "Lagre passord">
+<!ENTITY savePassword.accesskey       "L">
+<!ENTITY savePassword.tooltip         "Merk av her for sikker lagring av passordet i passordhandsamaren">

@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title      "Om &brandShortName;">
+<!ENTITY credits.label          "Bidragsytarar">
+<!ENTITY credits.accesskey      "C">
+<!ENTITY aboutLink.label        "&lt; Om &brandFullName;">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion           "versjon">
+<!ENTITY copyrightText          "&#169;1998-2006 Bidragsytarar. Alle rettar med atterhald. Mozilla Thunderbird og Thunderbirdlogoane er varemerke tilhøyrande The Mozilla Foundation. Alle rettar med atterhald.">

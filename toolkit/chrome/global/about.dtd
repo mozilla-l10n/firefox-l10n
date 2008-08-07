@@ -1,0 +1,19 @@
+<!ENTITY about.version                "versjon">
+
+<!ENTITY about.copy.beforeLink        "Kopirettar &copy; 1998-2008 av">
+<!ENTITY about.copy.linkTitle         "bidragsytarar">
+<!ENTITY about.copy.afterLink         "til Mozilla-prosjektet.">
+
+<!ENTITY about.license.beforeLink     "Les">
+<!ENTITY about.license.linkTitle      "lisensinformasjonen">
+<!ENTITY about.license.afterLink      "for dette produktet.">
+
+<!ENTITY about.relnotes.beforeLink    "Les">
+<!ENTITY about.relnotes.linkTitle     "utgjevingsmerknadene">
+<!ENTITY about.relnotes.afterLink     "for dette produktet.">
+
+<!ENTITY about.buildconfig.beforeLink "Sjå">
+<!ENTITY about.buildconfig.linkTitle  "Bygg-konfigurasjonen">
+<!ENTITY about.buildconfig.afterLink  "brukt av denne versjonen.">
+
+<!ENTITY about.buildIdentifier        "Bygg-id">

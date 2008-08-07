@@ -1,0 +1,27 @@
+<!ENTITY pane.title                   "Returkvitteringar">
+<!ENTITY useGlobalPrefs.label         "Bruk globale kvitteringsinnstillingar i denne kontoen">
+<!ENTITY useGlobalPrefs.accesskey     "g">
+<!ENTITY useCustomPrefs.label         "Bruk eigne innstillingar">
+<!ENTITY useCustomPrefs.accesskey     "B">
+<!ENTITY requestReceipt.label         "Spør etter kvittering kvar gong eg sender ei melding">
+<!ENTITY requestReceipt.accesskey     "S">
+<!ENTITY receiptArrive.label          "Når det kjem ei kvittering:">
+<!ENTITY leaveIt.label                "Lat ho liggje i Innboksen">
+<!ENTITY leaveIt.accesskey            "L">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label             "Flytt til «Sendt»-mappa">
+<!ENTITY moveToSent.accesskey         "F">
+<!ENTITY requestMDN.label             "Når eg får ein førespurnad om returkvittering:">
+<!ENTITY returnSome.label             "Tillat for nokre meldingar">
+<!ENTITY returnSome.accesskey         "T">
+<!ENTITY never.label                  "Aldri send">
+<!ENTITY never.accesskey              "d">
+<!ENTITY notInToCc.label              "Viss eg ikkje er nemnt i Til- eller Kopi-feltet:">
+<!ENTITY notInToCc.accesskey          "V">
+<!ENTITY outsideDomain.label          "Viss avsendaren er utanfor domenet mitt:">
+<!ENTITY outsideDomain.accesskey      "e">
+<!ENTITY otherCases.label             "I alle andre tilfelle:">
+<!ENTITY otherCases.accesskey         "n">
+<!ENTITY askMe.label                  "Spør meg">
+<!ENTITY alwaysSend.label             "Send alltid">
+<!ENTITY neverSend.label              "Send aldri">

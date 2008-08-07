@@ -1,0 +1,42 @@
+<!ENTITY  warnAddonInstall.label        "Åtvar meg når nettsider prøver å installere programtillegg">
+<!ENTITY  warnAddonInstall.accesskey    "Å">
+
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+<!ENTITY  tellMaybeAttackSite.label     "Fortel meg om ei nettside er ei mistenkjeleg åtakside">
+<!ENTITY  tellMaybeAttackSite.accesskey "k">
+
+<!ENTITY  tellMaybeForgery.label     "Fortel meg dersom ei nettside er mistenkt for å vere svindel">
+<!ENTITY  tellMaybeForgery.accesskey "F">
+
+<!ENTITY  addonExceptions.label         "Unntak …">
+<!ENTITY  addonExceptions.accesskey     "U">
+
+
+<!ENTITY  passwords.label               "Passord">
+
+<!ENTITY  rememberPasswords.label       "Hugs passord på nettsider">
+<!ENTITY  rememberPasswords.accesskey   "H">
+<!ENTITY  passwordExceptions.label      "Unntak …">
+<!ENTITY  passwordExceptions.accesskey  "n">
+
+<!ENTITY  useMasterPassword.label        "Bruk eit hovudpassord">
+<!ENTITY  useMasterPassword.accesskey    "B">
+<!ENTITY  changeMasterPassword.label     "Endra hovudpassord …">
+<!ENTITY  changeMasterPassword.accesskey "E">
+
+<!ENTITY  savedPasswords.label            "Lagra passord …">
+<!ENTITY  savedPasswords.accesskey        "P">
+
+
+<!ENTITY  warnings.label                "Åtvaringar">
+
+<!ENTITY  chooseWarnings.label          "Vel kva åtvaringsvarsel du ønskjer å sjå">
+
+<!ENTITY  warningSettings.label         "Innstillingar …">
+<!ENTITY  warningSettings.accesskey     "n">

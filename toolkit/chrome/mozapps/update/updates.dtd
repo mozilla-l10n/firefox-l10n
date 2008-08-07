@@ -1,0 +1,69 @@
+<!ENTITY  updateWizard.title              "Programvareoppdatering">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Ser etter oppdateringar">
+<!ENTITY  checking.label                  "&brandShortName; ser no etter oppdateringar …">
+
+<!ENTITY  cancel.label                    "Avbryt">
+<!ENTITY  cancel.accesskey                "A">
+
+<!ENTITY  noupdatesfound.title            "Fann ingen oppdateringar">
+<!ENTITY  noupdatesfound.intro            "Ingen nye oppdateringar er tilgjengelege. &brandShortName; kan sjå etter nye oppdateringar med jamne mellomrom.">
+
+<!ENTITY  incompatibleChecking.label      "Kontrollerer om denne oppdateringa kan føre til problem med utvidingane dine og/eller tema dine …">
+<!ENTITY  clickHere.label                 "Vis meir informasjon om denne oppdateringa">
+
+<!ENTITY  incompatible.warning            "Denne oppdateringa vil føre til at nokre av utvidingane og/eller tema dine sluttar å verke til dei vert oppdaterte.">
+<!ENTITY  listIncompatible.label          "Vis liste">
+<!ENTITY  listIncompatible.accesskey      "V">
+
+<!ENTITY  upgrade.evangelism              "Det er sterkt tilrådd at du oppgraderer &brandShortName; snøggast råd.">
+
+<!ENTITY  license.instructions            "Dersom du godtek vilkåra i avtalen, trykk på Godta-knappen under for å fortsetje å installere oppdateringa.">
+
+<!ENTITY  license.titleText               "Avtale for programvarelisens">
+<!ENTITY  license.introText               "Vilkår for bruk av denne programvara.">
+<!ENTITY  license.instructionText         "Les følgjande lisensavtale. Bruk rullefeltet for å sjå resten av avtalen.">
+<!ENTITY  license.accept                  "Eg godtek vilkåra i lisensavtalen">
+<!ENTITY  license.accept.accesskey        "E">
+<!ENTITY  license.decline                 "Eg godtek IKKJE vilkåra i lisensavtalen">
+<!ENTITY  license.decline.accesskey       "d">
+
+<!ENTITY  downloading.title               "Lastar ned oppdatering">
+<!ENTITY  downloading.intro               "Lastar ned oppdateringa …">
+<!ENTITY  connecting.label                "Koplar til oppdateringstenaren …">
+<!ENTITY  verificationFailedText.label    "&brandShortName; klarte ikkje å kontrollere integriteten til den aukande oppdateringa som vart lasta ned, og den fullstendige oppdateringspakken vert no lasta ned.">
+
+<!ENTITY  details.link                    "Detaljar">
+<!ENTITY  pause.label                     "Pause">
+<!ENTITY  pause.accesskey                 "e">
+<!ENTITY  close.label                     "Lat att">
+<!ENTITY  close.accesskey                 "L">
+
+<!ENTITY  error.label                     "Det oppsto problem under kontroll, nedlasting eller installering av denne oppdateringa. Klarte ikkje å oppdatere &brandShortName; fordi:">
+                                           
+<!ENTITY  errorManual.label               "Du kan oppdatere &brandShortName; manuelt ved å gå til denne lenkja, for å laste ned siste versjon:">
+                                           
+<!ENTITY  errorpatching.title             "Mislykka oppdatering">
+<!ENTITY  errorpatching.intro             "Installering av den aukande oppdateringa feila. &brandShortName; vil prøve å laste ned ei fullstendige oppdatering.">
+
+<!ENTITY  finished.title                  "Oppdateringa vart lasta ned">
+<!ENTITY  finished.text                   "Oppdateringa vart lasta ned og kontrollert og vil bli installert neste gong &brandShortName; startar.">
+
+<!ENTITY  finishedBackground.title        "Oppdatering klar for installering">
+<!ENTITY  finishedBackground.text         "&brandShortName; har fullført nedlasting og kontrollert ei viktig oppdatering. Trykk på lenkja under for fleire detaljar.">
+<!ENTITY  finishedBackground.name         "Oppdaterer:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Trykk «Start &brandShortName; på nytt no» for å installere oppdateringa no.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Trykk Ikkje No for å late att dette vindauget og halde fram med arbeidet. &brandShortName; vil installere oppdateringa neste gong programmet startar.">
+
+<!ENTITY  installed.title                 "Oppdatering installert">
+<!ENTITY  installed.intro                 "Oppdateringa vart installert.">
+<!ENTITY  whatsnew.label                  "Les om kva som er nytt …">
+
+<!ENTITY  update.details.label            "Detaljar">
+<!ENTITY  update.installedOn.label        "Installert:">
+<!ENTITY  update.status.label             "Status:">

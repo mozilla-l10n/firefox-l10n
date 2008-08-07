@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "Fil">
+<!ENTITY fileMenu.accesskey        "f">
+<!ENTITY newMenu.label            "Ny">
+<!ENTITY newMenu.accesskey          "N">
+
+<!ENTITY editMenu.label          "Rediger">
+<!ENTITY editMenu.accesskey        "R">
+<!ENTITY undoCmd.label            "Angre">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "A">
+<!ENTITY redoCmd.label            "Gjer om">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "G">
+<!ENTITY cutCmd.label            "Klipp ut">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "u">
+<!ENTITY copyCmd.label            "Kopier">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "k">
+<!ENTITY pasteCmd.label            "Lim inn">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "L">
+<!ENTITY deleteCmd.label          "Slett">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "t">
+<!ENTITY selectAllCmd.label          "Merk alt">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "M">
+<!ENTITY preferencesCmd.label        "Innstillingar …">
+<!ENTITY preferencesCmd.accesskey      "I">
+<!ENTITY preferencesCmdUnix.label       "Innstillingar …">
+<!ENTITY preferencesCmdUnix.accesskey     "I">
+
+<!ENTITY findTypeTextCmd.label "Finn tekst medan du skriv">
+<!ENTITY findTypeTextCmd.accesskey "t">
+
+<!ENTITY viewMenu.label          "Vis">
+<!ENTITY viewMenu.accesskey        "V">
+<!ENTITY viewToolbarsMenu.label        "Verktøylinjer">
+<!ENTITY viewToolbarsMenu.accesskey      "v">
+<!ENTITY showTaskbarCmd.label          "Statuslinje">
+<!ENTITY showTaskbarCmd.accesskey        "a">
+
+<!ENTITY direct.label                                   "Tilkopla (utan mellomtenar)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "Tilkopla (manuell mellomtenar)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "Tilkopla (automatisk mellomtenar)">
+<!ENTITY pac.accesskey                                  "a">
+
+<!ENTITY proxy.label                                    "Innstillingar for mellomtenar ...">
+<!ENTITY proxy.accesskey                                "m">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "">
+
+<!ENTITY closeCmd.label      "Lat att">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "L">
+
+<!ENTITY closeWindow.label "Lat att vindauge">
+
+<!ENTITY quitApplicationCmd.label  "Avslutt">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "v">
+
+<!ENTITY quitApplicationCmdUnix.label  "Avslutt">
+<!ENTITY quitApplicationCmdUnix.accesskey  "A">
+
+<!ENTITY quitApplicationCmdMac.label  "Avslutt &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "A">

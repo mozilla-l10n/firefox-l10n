@@ -1,0 +1,7 @@
+<!ENTITY window.title "Endre overskrifter">
+<!ENTITY addButton.label "Legg til">
+<!ENTITY addButton.accesskey "L">
+<!ENTITY removeButton.label "Fjern">
+<!ENTITY removeButton.accesskey "F">
+<!ENTITY newMsgHeader.label "Nytt meldingshovud:">
+<!ENTITY newMsgHeader.accesskey "N">

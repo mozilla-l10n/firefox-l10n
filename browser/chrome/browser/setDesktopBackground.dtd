@@ -1,0 +1,9 @@
+<!ENTITY position.label             "Plassering:">
+<!ENTITY tile.label                 "Vassrett deling">
+<!ENTITY center.label               "Midtstill">
+<!ENTITY stretch.label              "Strekk">
+<!ENTITY preview.label              "Førehandsvising">
+<!ENTITY color.label                "Farge:">
+<!ENTITY setDesktopBackground.title "Vel som skrivebordsbakgrunn">
+<!ENTITY openDesktopPrefs.label     "Opne innstillingar for skrivebord">
+<!ENTITY closeWindow.key            "w">

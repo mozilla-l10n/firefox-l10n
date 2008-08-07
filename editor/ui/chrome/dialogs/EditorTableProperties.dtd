@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title                "Tabelleigenskapar">
+<!ENTITY applyButton.label                "Bruk">
+<!ENTITY applyButton.accesskey            "B">
+<!ENTITY closeButton.label                "Lat att">
+<!ENTITY tableTab.label                   "Tabell">
+<!ENTITY cellTab.label                    "Celler">
+<!ENTITY tableRows.label                  "Rader:">
+<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableColumns.label               "Kolonner:">
+<!ENTITY tableColumns.accessKey           "K">
+<!ENTITY tableHeight.label                "Høgd:">
+<!ENTITY tableHeight.accessKey            "ø">
+<!ENTITY tableWidth.label                 "Breidd:">
+<!ENTITY tableWidth.accessKey             "B">
+<!ENTITY tableBorderSpacing.label         "Kantlinjer og mellomrom">
+<!ENTITY tableBorderWidth.label           "Kantlinje:">
+<!ENTITY tableBorderWidth.accessKey       "k">
+<!ENTITY tableSpacing.label               "Mellomrom:">
+<!ENTITY tableSpacing.accessKey           "M">
+<!ENTITY tablePadding.label               "Padding:">
+<!ENTITY tablePadding.accessKey           "P">
+<!ENTITY tablePxBetwCells.label           "pikslar mellom celler">
+<!ENTITY tablePxBetwBrdrCellContent.label "pikslar mellom kantlinja og innhaldet i cella">
+<!ENTITY tableAlignment.label             "Tabelljustering:">
+<!ENTITY tableAlignment.accessKey         "T">
+<!ENTITY tableCaption.label               "Forklaring:">
+<!ENTITY tableCaption.accessKey           "F">
+<!ENTITY tableCaptionAbove.label          "Over tabellen">
+<!ENTITY tableCaptionBelow.label          "Under tabellen">
+<!ENTITY tableCaptionLeft.label           "Venstre for tabellen">
+<!ENTITY tableCaptionRight.label          "Høgre for tabellen">
+<!ENTITY tableCaptionNone.label           "Ingen">
+<!ENTITY tableInheritColor.label           "(Lat sidefargen skina gjennom)">
+
+<!ENTITY cellPercent.label                "prosent av tabellen">
+<!ENTITY cellSelection.label              "Merka område">
+<!ENTITY cellSelectCell.label             "Celle">
+<!ENTITY cellSelectRow.label              "Rad">
+<!ENTITY cellSelectColumn.label           "Kolonne">
+<!ENTITY cellSelectNext.label             "Neste">
+<!ENTITY cellSelectNext.accessKey         "n">
+<!ENTITY cellSelectPrevious.label         "Førre:">
+<!ENTITY cellSelectPrevious.accessKey     "F">
+<!ENTITY cellApplyBeforeMove.label        "Bruk endringar før byte av merka område">
+<!ENTITY cellKeepCurrentData.label        "Hald på dei gjeldande innstillingane">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label         "Følgjande endringar vil verte brukte">
+<!ENTITY applyBeforeChange2.label         "før byte av merket område.">
+<!ENTITY cellRowSpan.label                "Radspanning">
+<!ENTITY cellColSpan.label                "Kolonnespanning">
+<!ENTITY cellContentAlignment.label       "Innhaldsjustering">
+<!ENTITY cellHorizontal.label             "Horisontal:">
+<!ENTITY cellHorizontal.accessKey         "H">
+<!ENTITY cellVertical.label               "Vertikal:">
+<!ENTITY cellVertical.accessKey           "V">
+<!ENTITY cellStyle.label                  "Cellestil:">
+<!ENTITY cellStyle.accessKey              "C">
+<!ENTITY cellNormal.label                 "Normal">
+<!ENTITY cellHeader.label                 "Overskrift">
+<!ENTITY cellTextWrap.label               "Tekstbryting:">
+<!ENTITY cellTextWrap.accessKey           "b">
+<!ENTITY cellWrap.label                   "Linjebryting">
+<!ENTITY cellNoWrap.label                 "Inga tekstbryting">
+<!ENTITY cellAlignTop.label               "Topp">
+<!ENTITY cellAlignMiddle.label            "Midten">
+<!ENTITY cellAlignBottom.label            "Botn">
+<!ENTITY cellAlignJustify.label           "Justering">
+<!ENTITY cellAlignAtChar.label            "Ved teikn:">
+<!ENTITY cellInheritColor.label           "(Lat tabellfargen skina gjennom)">
+<!ENTITY cellUseCheckboxHelp.label        "Bruk avkryssingsboksar for å avgjere kva eigenskapar som skal gjelde alle merka celler">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "Storleik">
+<!ENTITY pixels.label                     "pikslar">
+<!ENTITY backgroundColor.label            "Bakgrunnsfarge:">
+<!ENTITY backgroundColor.accessKey        "B">
+<!ENTITY AlignLeft.label                  "Venstre">
+<!ENTITY AlignCenter.label                "Midtstill">
+<!ENTITY AlignRight.label                 "Høgre">

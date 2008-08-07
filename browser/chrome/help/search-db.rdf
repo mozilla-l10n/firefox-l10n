@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="Tilgjengeinnstillingar" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Tilgjengeinnstillingar" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="autentisering (definisjon)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="Tilbake-knapp" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Blokker sprettoppvindauge" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="bokmerke (definisjon)" nc:link="glossary.xhtml#bookmark"/></li>
+        <li><Description nc:name="Verktøylinje for bokmerke (definisjon)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="Nettlesing" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="mellomlager (definisjon)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="sertifikat (definisjon)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="Sertifikat" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Liste over oppheva sertifikat (CRL)" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="klient (definisjon)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="infokapsel (definisjon)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="kryptografi (definisjon)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="dekryptering (definisjon)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="digital ID (definisjon)" nc:link="glossary.xhtml#digital_ID"/></li>
+        <li><Description nc:name="kryptering (definisjon)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="Extensible Markup Language (XML) (definisjon)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="nyhendekjelde (definisjon)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="File Transfer Protocol (FTP) (definisjon)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="FIPS PUBS 140-1 (definisjon)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="Fram-knapp" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Gå attende og fram" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Heim-knapp" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="Startside (definisjon)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="Hypertext Markup Language (HTML) (definisjon)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="Importera favorittar frå Internet Explorer" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="Internett (definisjon)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="Internet-protokoll adresse (IP-adresse) address (definisjon)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>
+        <li><Description nc:name="Java (definisjon)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="JavaScript (definisjon)" nc:link="glossary.xhtml#JavaScript"/></li>
+        <li><Description nc:name="Språk" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="Levande bokmerke (definisjon)" nc:link="glossary.xhtml#live_bookmark"/></li>
+        <li><Description nc:name="Adresselinje (definisjon)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="hovudpassord (definisjon)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="Verktøylinje for navigasjon (definisjon)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="Passordhandsamar (definisjon)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="PKCS #11 (definisjon)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="Plugin (definisjon)" nc:link="glossary.xhtml#Plugin"/></li>
+        <li><Description nc:name="Programtillegg" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="privat nykel (definisjon)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="mellomtenar (definisjon)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="nyleg vitja nettsider" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Oppdater-knapp" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="søkjemotor (definisjon)" nc:link="glossary.xhtml#search_engine"/></li>
+        <li><Description nc:name="Søk med adresselinja" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Søk med søkjelinja" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="Søk med tekst frå sida" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="sikker nettstad (definisjon)" nc:link="glossary.xhtml#secure_site"/></li>
+        <li><Description nc:name="Secure Sockets Layer (SSL) (definisjon)" nc:link="glossary.xhtml#SSL"/></li>
+        <li><Description nc:name="tenar (definisjon)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="Velje eller endre hovudpassord" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Programvareoppdateringar" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="Statuslinje (definisjon)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="Stopp-knapp" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="TLS (definisjon)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="TCP/IP (Transmission Control Protocol/Internet Protocol) (definisjon)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="Uniform Resource Locator (URL) (definisjon)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="Validering" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Vis HTML-kjeldekode" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="nettside (definisjon)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="nettstad (definisjon)" nc:link="glossary.xhtml#web_site"/></li>
+        <li><Description nc:name="Verdsveven (definisjon)" nc:link="glossary.xhtml#World_Wide_Web"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>

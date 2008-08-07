@@ -1,0 +1,99 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label           "Eigenskapar">
+
+<!ENTITY generalInfo.label                       "Generell informasjon">
+<!ENTITY folderCharsetTab.label                  "Standard teiknkoding">
+<!ENTITY folderCharsetTab.accesskey              "S">
+<!ENTITY folderCharsetOverride.label             "Bruk standard for alle meldingar i mappa (teiknkodingar og auto-detekterte teiknkodingar individuelle meldingar vil ikkje verte ignorerte)">
+<!ENTITY folderCharsetOverride.accesskey         "B">
+<!ENTITY folderRebuildSummaryFile.label          "Bygg opp på nytt">
+<!ENTITY folderRebuildSummaryFile.accesskey      "o">
+<!ENTITY folderRebuildSummaryFileTip.label       "Bygg opp oppsummeringsfil på nytt"> 
+     
+<!ENTITY retention.label "Ivaretaking av meldingar">
+<!ENTITY retentionUseDefault.label  "Bruk tenaren sin standard">
+<!ENTITY retentionUseDefault.accesskey "B">
+<!ENTITY days.label "dagar">
+<!ENTITY daysOld.label "dagar gamle">
+<!ENTITY message.label "meldingar">
+<!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldingar slettast permanent">
+<!ENTITY retentionKeepMsg.label "Slett meldingar meir enn">
+<!ENTITY retentionKeepMsg.accesskey "l">
+<!ENTITY retentionKeepAll.label "Ikkje slett nokon meldingar">
+<!ENTITY retentionKeepAll.accesskey "I">
+<!ENTITY retentionKeepNew.label "Slett alle med unntak av dei siste">
+<!ENTITY retentionKeepNew.accesskey "S">
+<!ENTITY retentionKeepUnread.label "Alltid slett lesne meldingar">
+<!ENTITY retentionKeepUnread.accesskey "A">
+
+<!ENTITY folderOfflineTab.label                  "Fråkopla">
+<!ENTITY folderCheckForNewMessages.label         "Sjå etter nye meldingar for denne mappa">
+<!ENTITY folderCheckForNewMessages.accesskey     "S">
+
+<!ENTITY offlineFolder.check.label               "Vel denne mappa for fråkopla bruk">
+<!ENTITY offlineFolder.check.accesskey           "V">
+<!ENTITY offlineFolder.button.label              "Last ned no">
+<!ENTITY offlineFolder.button.accesskey          "L">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Vel denne nyhendegruppa for fråkopla bruk">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "V">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "Bruk standard fra kontooppsett">
+<!ENTITY offlineNewsgroup.button.label           "Last ned no">
+<!ENTITY offlineNewsgroup.button.accesskey       "L">
+
+<!ENTITY folderProps.information.label           "Informasjon:">
+<!ENTITY folderProps.name.label                  "Namn:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Adresse:">
+<!ENTITY folderProps.location.accesskey          "L">
+
+<!ENTITY folderSharingTab.label                  "Deling">
+<!ENTITY privilegesDesc.label                    "Del denne og andre mapper med nettverksbrukarar og vis/vel innstillingar for tilgjenge">
+<!ENTITY privileges.button.label                 "Privilegium …">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Du har følgjande løyve:">
+<!ENTITY folderType.label                        "Mappetype:">
+
+<!ENTITY folderQuotaTab.label                    "Kvote">
+<!ENTITY folderQuotaRoot.label                   "Kvoterot:">
+<!ENTITY folderQuotaUsage.label                  "Bruk:">
+<!ENTITY folderQuotaStatus.label                 "Status:">

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Accessibility Features of &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Tilgjengefunksjonar til &brandFullName;</h1>
+
+  <p>&brandShortName; har mange funksjonar for å gjere nettlesar og innhaldet på nettet tilgjengeleg for alle brukarar, mellom andre dei med dårleg vis, blinde, og dei med avgrensa høve til å bruke tastatur eller mus.</p>
+
+  <div class="contentsBox">I denne seksjonen:
+    <ul>
+    <li><a href="#using_a_keyboard">Bruk av tastatur</a></li>
+    <li><a href="#using_a_mouse">Bruk av mus</a></li>
+    <li><a href="#fonts_and_colors">Fontar og fargar</a></li>
+    <li><a href="#controlling_web_content">Kontroll av innhald</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Kompatibilitet med assistanseteknologi</a></li>
+    <li><a href="#finding_help_online">Korleis finne hjelp på nettet</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Bruk av tastatur</h2>
+
+  <h3 id="keyboard_shortcuts">Tastatursnarvegar</h3>
+
+  <p>Ei liste over felles tastatursnarvegar finn du på
+    <a href="shortcuts.xhtml">&brandShortName; tastatursnarvegar</a>.
+    På nettet kan du finne <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">eit samanliknande oversyn over tastatursnarvegar </a> i &brandShortName;,
+    Microsoft Internet Explorer, og Opera.</p>
+
+  <h3 id="allow_text_to_be_selected_with_the_keyboard">Tillat markering av tekst ved hjelp av tastatur</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Å tillate markering av tekst med tastatur </a> gjer at du kan navigere gjennom innhaldet som om du nytta ein teksthandsamar.
+    Du kan bruke tastaturettil å velje ut innhald og kopiere det til utklippsbordet. Du kan bruke denne funksjonen ved å velje &pref.menuPath;,
+    opne <em>Generelt</em>-fana i <em>Avansert</em>-panelet,
+    og krysse av <em>Tillat markering av tekst ved hjelp av tastatur</em>
+    &pref.singular;.</p>
+
+  <p>Du kan trykkje <kbd>F7</kbd> kva tid som helst for å slå av denne funksjonen.  Når du trykkjer <kbd>F7</kbd>, kjem &brandShortName; til å spørje om du verkeleg vil slå av  denne funksjonen. Du kan fjerne den dialogen med å velje <em>Ikkje vis denne dialogen igjen.</em></p>
+
+  <h3 id="begin_finding_when_you_begin_typing">Start søk når du byrjar å taste</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Start søk når du byrjar å taste</a> gjer at du kan navigere kjapt gjennom tekst eller hyperlenkjer på ei nettside. Denne funksjonen har to modusar. Trykk <abbr title="forward slash"><kbd>/</kbd></abbr> og start tastinga for å søkje gjennom all tekst på sida, eller trykk <abbr title="apostrophe"><kbd>'</kbd></abbr> før søkjeordet for å berre søkje i hyperlenkjer. &brandShortName; uthevar treff i tekst eller hyperlenkjer medan du tastar.</p>
+
+  <p>Dei følgjande tastatursnarvegane kontrollerer denne funksjonen:</p>
+
+  <ul>
+    <li>Tast fleire teikn for å snevre inn søket ditt. &brandShortName;
+      uthevar det neste treffet i hyperlenkje eller tekst eller varslar deg om at det ikkje fanst noko treff.</li>
+    <li>Trygg &accelKey;+<kbd>G</kbd> eller <kbd>F3</kbd> for å finne det neste treffet på søket ditt.</li>
+    <li>Trykk &accelKey;+&shiftKey;+<kbd>G</kbd> eller &shiftKey;+<kbd>F3</kbd>
+      for å finne det førre treffet på søket ditt.</li>
+    <li>Trykk <kbd>Backspace</kbd> for å angra det førre teiknet du tasta inn
+      &brandShortName; hoppar attende til den førre utheva teksten.</li>
+    <li>Trykk <kbd>Esc</kbd> for å bryte av ei søk. Du kan òg bryte av eit søk ved å skifte fokus, bla deg nedover på sida med musa eller tastaturet, eller berre vente på at søket går ut.</li>
+  </ul>
+
+  <p>Du kan endre standardåtferda til denne funksjonen ved å velje
+    &pref.menuPath;, opna <em>Generelt</em>-fana i
+    <em>Avansert</em>-panelet, og krysse av <em>Start søk når du byrjar å taste</em> &pref.singular;.  Viss denne boksen er kryssa av, kan du byrje å taste kva tid som helst for å auto-starte eit søk.
+    Auto-starta søk søkjer i all tekst på sida.
+    Du kan framleis trykkje
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> eller
+    <abbr title="forward slash"><kbd>/</kbd></abbr> for å starte søk i den eine modusen eller den andre.</p>
+
+  <p>Du kan bruke denne funksjonen til å kome deg til knappar, tekstboksar og andre skjemaobjekt. Søk etter teksten som står rett før skjemaobjektet du vil ha, og trykk <kbd>Tab</kbd>. Ved å trykkje på <kbd>Tab</kbd> sluttar søket automatisk og set fokus på det neste skjemaobjektet etter den utheva teksten.</p>
+
+  <h2 id="using_a_mouse">Bruk av mus</h2>
+
+  <h3 id="common_mouse_shortcuts">Felles musesnarvegar</h3>
+
+  <p>Ei liste over felles musesnarvegar er tilgjengeleg i
+    <a href="mouse_shortcuts.xhtml">&brandShortName; musesnarvegar</a>.</p>
+
+  <h2 id="fonts_and_colors">Fontar og fargar</h2>
+
+  <h3 id="overriding_page_fonts">Overstyring av fontar</h3>
+
+  <p>Nokre nettsider viser tekst i fontar som er vanskelege å lese, og andre sider stolar kanskje på standardfontane i nettlesaren. Du kan velje dine standardfontar ved å gå til &pref.menuPath;, velje
+    <em>Innhald</em>-panelet, og velje ein standardfont og -storleik i
+    <em>Fontar &amp; fargar</em>-seksjonen.</p>
+
+  <p>Du kan spesifisere standardfontar for ulike stilar, inkludert serif, sans-serif, og monospace ved å klikke på <em>Avansert</em>-knappen.
+    Men, mange nettsider spesifiserer sine eigne fontar, så vala dine vil ikkje ha nokon effekt på slike sider. For å overstyre fontar som er definerte av slike sider, fjern avkyrssinga på <em>Tillat nettsider å velje deira eigne fontar, i staden for mine val ovanfor</em> &pref.singular;.</p>
+
+  <p>Merk at enkelte nettsider kan vise seg på feil vis avhengig av standardfontane dine.</p>
+
+  <h3 id="setting_a_minimum_font_size">Setje ein minimumsstorleik på fontar</h3>
+
+  <p>Nokre nettsider kan vise tekst som er for liten til å kunne lesast smertefritt. For å gjere slike sider lettare å lese, kan du setje ein minimumsstorleik på fontane. PÅ vevsider som prøver å vise tekst mindre enn denne storleiken vil &brandShortName; forstørra teksten.</p>
+
+  <p>For å setje ein minimumsstorleik, gå til &pref.menuPath;, vel 
+    <em>Innhald</em>-panelet, og trykk på <em>Avansert</em>-knappen i
+    <em>Fontar &amp; fargar</em>-seksjonen. Du kan spesifisere ein minimumsstorleik i rullegardinmenyen.</p>
+
+  <p>Merk at enkelte nettsider kan vise seg på feil vis avhengig av minimumsstorleiken.</p>
+
+  <h3 id="resizing_page_text">Resizing Page Text</h3>
+
+  <p>Du kan gjere mellombelse endringar i tekststorleiken på kva side som helst i
+    <span class="menuPath">Vis &gt; Tekststorleik</span>-menyen. Den nye storleiken vil vare til du lèt att vindauget eller fana, sjølv om du navigerer til ei anna nettside.</p>
+
+  <p>Dei følgjande tastatursnarvegane kontrollerer tekststorleiken:</p>
+
+  <ul>
+    <li>Trykk &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> for å 
+      auka tekststorleiken. Dette forstørrar teksten til 120 % av den opphavlege storleiken, deretter til 150 %, 200 %, 300 %, 450 %, 675 %, 1013 %, og 1519 %.</li>
+    <li>Trykk &accelKey;+<kbd><abbr title="minus">-</abbr></kbd> for å minska
+      tekststorleiken. Dette forminskar teksten til 90 % av den opphavlege storleiken, deretter til 50 %, 33 %, 22 %, 15 %, 10 %, 7 %, 4 %, 3 %, 2 %, and 1 %.</li>
+    <li>Trykk &accelKey;+<kbd>0</kbd> for å stille tilbake tekststorleiken til standardstorleiken åt nettsida.</li>
+  </ul>
+
+  <p>Merk at enkelte nettsider kan vise seg på feil vis viss du aukar eller minskar tekststorleiken.</p>
+
+  <h3 id="overriding_page_colors">Overstyring av fargar</h3>
+
+  <p>Nokre nettsider viser tekst- og bakgrunnsfargar som gjer det vanskeleg å lese, og andre sider brukar nettlesaren sine standardfargar. Du kan setje dine standardfargar ved å gå til &pref.menuPath;,
+    velje <em>Innhald</em>-panelet, og trykkje på <em>Fargar</em>-knappen i <em>Fontar &amp; fargar</em>-seksjonen.  Du kan velje standardfargar for bakgrunn, tekst og hyperlenkjer. Du kan òg velje om hyperlenkjer skal understrekast.</p>
+
+  <p>Men, mange nettsider vel sine eigne fargar, så mange vala dine vil ikkje ha nokon effekt. For å overstyre fargar definerte av nettsider, fjern avkryssinga i <em>Tillat nettsider å velje sine eigne fargar, i staden for mine val ovanfor</em> &pref.singular;.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Bruk av høgkontrasttema</h3>
+
+    <p>&brandShortName; oppdagar automatisk om du brukar eit høgkontrasttema og viser alt i høgkontrastfargane dine. Dette overstyrer alle andre innstillingar i nettlesaren eller nettsida, og får effekt på grensesnittet i &brandShortName; (alle
+      menyar, vindauge, og dialogboksar) og innhaldet på nettsidene du vitjar.</p>
+
+    <p class="win">For å bruke eit høgkontrasttema, gå til
+      <span class="menuPath">Startmenyen &gt; Kontrollpanel &gt;
+      Tilgjengealternativ &gt; Skjerm</span> og kryss av <em>Bruk høgkontrast</em> &pref.singular;.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Kontrollering av innhaldet på nettet</h2>
+
+  <h3 id="blocking_popup_windows">Blokkering av sprettoppvindauge</h3>
+
+  <p>Sjå <a href="popup.xhtml">Kontroller sprettoppvindauge</a> for informasjon om
+    korleis du blokkerer sprettoppvindauge.</p>
+
+  <h3 id="turning_off_java_applets">Å slå av Java-applikasjonar</h3>
+
+  <p>Nokre nettsider gjev rike interaktive opplevingar med Java&trade;-applikasjonar.  Men, nokre brukarar som brukar tastaturnavigasjon kan oppleve problem med enkelte Java-applikasjonar som automatisk tek fokuset utan å gje noko høve til å <q>bryte ut</q> av applikasjonen og navigere til resten av nettsida. Viss dette er eit problem for deg, kan du slå av Java ved å gå til &pref.menuPath;, velje
+    <em>Innhald</em> og fjerna avkryssinga ved <em>Slå på Java</em>
+    &pref.singular;.</p>
+
+  <h3 id="restricting_javascript_behavior">Avgrensing av JavaScript-åtferd</h3>
+
+  <p>Du kan slå av JavaScript fullstendi ved å gå til &pref.menuPath;,
+    velje <em>Innhald</em>-panelet, og fjerna avkryssinga ved <em>Slå på
+    JavaScript</em>. Nokre nettsider brukar ein del JavaScript og fungerer kanskje ikkje skikkeleg viss JavaScript er slege av.</p>
+
+  <p>Viss du ikkje ønskjer å slå av JavaScript fullstendig, er det òg ei rekkje avanserte JavaScript-innstillingar som kan brukast til å avgrense åtferda til skripta. Trykk på <em>Avansert</em>-knappen for å opne <em>Avanserte JavaScript-innstillingar</em>-vindauget med ein gong etter å ha kryssa av i <em>Slå på JavaScript</em>-boksen. Du kan kontrollere om skripta skal få flytte eller gjere om storleiken på vindauge, gøyme statusbaren, og så bortetter.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Kompatibilitet med assistanseteknologi</h2>
+
+  <p>Den siste informasjonen om kompatibilitet med tredjeparts assistanseteknologi er på nettet hjå
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Compatibility with assistive technologies</a>.(På engelsk)</p>
+
+  <h2 id="finding_help_online">Korleis finne hjelp på nettet</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific driv ei rekkje
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">e-postlister for JAWS-brukarar</a>. (Engelsk)</p>
+
+    <p>GW Micro driv ei rekkje
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">e-postlister for Window Eyes-brukarar</a>. (Engelsk)</p>
+  </div>
+
+  <p>Du kan <span class="win">og</span> posta spørsmål om tilgjenge til
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">&brandShortName;
+    Brukarstøtteforumet</a>.</p>
+
+  <div class="contentsBox"><em>22. mai 2006</em></div>
+
+  <p>Opphavsrett &copy; 2003-2006 Bidragsytarar til  Mozilla Help Viewer
+    Project.</p>
+
+</body>
+</html>

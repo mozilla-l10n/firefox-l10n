@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Innstillingar for vising av meldingar">
+<!ENTITY mailViewHeading.label "Namn på vising">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Når denne oversikta er vald, skal berre meldingar med følgjande val visast:">
+

@@ -1,0 +1,119 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Bileteigenskapar">
+
+<!ENTITY pixelsPopup.value "pikslar">
+<!ENTITY percentPopup.value "prosent">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Biletadresse:">
+<!ENTITY locationEditField.accessKey "B">
+<!ENTITY locationEditField.tooltip "Skriv inn filnamnet eller adressa åt biletet">
+<!ENTITY title.label "Verktøytips:">
+<!ENTITY title.accessKey "V">
+<!ENTITY title.tooltip "HTML-attributtet «title» viser eit verktøytips">
+<!ENTITY altText.label "Alternativ tekst:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Skriv inn tekst som skal visast i staden for biletet">
+<!ENTITY noAltText.label "Ikkje bruk alternativ tekst">
+<!ENTITY noAltText.accessKey "I">
+
+<!ENTITY previewBox.label "Førehandsvising av biletet">
+<!ENTITY MoreFewerButton.tooltip "Vis fleire eller færre eigenskapar for redigering">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Verkeleg storleik:">
+<!ENTITY actualSizeRadio.label "Verkeleg storleik">
+<!ENTITY actualSizeRadio.accessKey "V">
+<!ENTITY actualSizeRadio.tooltip "Gå attende til den verkelege biletstorleiken">
+<!ENTITY customSizeRadio.label "Eigendefinert storleik">
+<!ENTITY customSizeRadio.accessKey "E">
+<!ENTITY customSizeRadio.tooltip "Endre biletstorleiken som vist på sida">
+<!ENTITY heightEditField.label "Høgd:">
+<!ENTITY heightEditField.accessKey "H">
+<!ENTITY widthEditField.label "Breidd:">
+<!ENTITY widthEditField.accessKey "r">
+<!ENTITY constrainCheckbox.label "Avgrens">
+<!ENTITY constrainCheckbox.accessKey "B">
+<!ENTITY constrainCheckbox.tooltip "Hald på biletet sitt storleiksforhold">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Biletkart">
+<!ENTITY removeImageMapButton.label "Fjern">
+<!ENTITY removeImageMapButton.accessKey "F">
+<!ENTITY editImageMapButton.label "Rediger …">
+<!ENTITY editImageMapButton.tooltip "Lag aktive område i dette biletet">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Juster tekst etter bilete">
+<!ENTITY bottomPopup.value "Ved botnen">
+<!ENTITY topPopup.value "Ved toppen">
+<!ENTITY centerPopup.value "I midten">
+<!ENTITY wrapRightPopup.value "Bryt til høgre">
+<!ENTITY wrapLeftPopup.value "Bryt til venstre">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Mellomrom">
+<!ENTITY spacingBox.tooltip "Skriv eit tall for luft kring biletet">
+<!ENTITY leftRightEditField.label "Venstre og høgre:">
+<!ENTITY leftRightEditField.accessKey "V">
+<!ENTITY topBottomEditField.label "Topp og botn:">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "Heiltrekt kantlinje">
+<!ENTITY borderEditField.accessKey "H">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Vis kantlinje kring lenka bilete">
+<!ENTITY showImageLinkBorder.accessKey "V">
+
+<!-- These controls may be added some day; currently not used -->
+<!ENTITY makePageBackgroundCheckbox.label "Bruk som sidebakgrunn">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Bruk bilete som bakgrunn på sida">
+<!ENTITY editImageButton.label "Rediger bilete">
+<!ENTITY editImageButton.tooltip "Rediger biletfil i eit anna program">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Skjema">
+<!ENTITY imageLocationTab.label "Adresse">
+<!ENTITY imageDimensionsTab.label "Storleiksforhold">
+<!ENTITY imageAppearanceTab.label "Utsjånad">
+<!ENTITY imageLinkTab.label "Lenkje">

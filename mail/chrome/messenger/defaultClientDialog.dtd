@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Standard klient">
+<!ENTITY defaultClient.intro  "Bruk &brandShortName; som standard klient for:">
+
+<!ENTITY email.label "E-post">
+<!ENTITY newsgroups.label "Nyhendegrupper">
+<!ENTITY rss.label "RSS-nyhendekjelder">
+
+<!ENTITY checkOnStartup.label "Sjekk alltid dette når &brandShortName; startar">
+<!ENTITY checkOnStartup.accesskey "A">

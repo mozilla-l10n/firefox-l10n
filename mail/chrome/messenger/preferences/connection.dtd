@@ -1,0 +1,41 @@
+<!ENTITY  connectionsDialog.title       "Innstillingar for tilkopling">
+<!ENTITY  window.width                   "37em">
+
+<!ENTITY  proxyTitle.label              "Konfigurer mellomtenarar for tilgang til Internett">
+<!ENTITY  noProxyTypeRadio.label        "Ingen mellomtenar">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Bruk systeminstillingar for mellomtenar">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "Oppdag mellomtenar-innstillingane for dette nettverket automatisk">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Manuelle mellomtenar-innstillingar:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "Automatisk konfigurasjons-adresse for mellomtenar:">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "Oppdater">
+<!ENTITY  reload.accesskey              "O">
+<!ENTITY  ftp.label                     "FTP:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Gopher:">
+<!ENTITY  gopher.accesskey              "g">
+<!ENTITY  http.label                    "HTTP:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS-vert:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Ingen mellomtenar for:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Døme: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Bruk denne mellomtenaren for alle protokollar">
+<!ENTITY  shareproxy.accesskey          "B">

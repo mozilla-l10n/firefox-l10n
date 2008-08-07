@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Utskriftsformat">
+
+<!ENTITY basic.tab           "Formatering og innstillingar">
+
+<!ENTITY formatGroup.label   "Formatering">
+
+<!ENTITY orientation.label   "Orientering:">
+<!ENTITY portrait            "Ståande">
+<!ENTITY landscape           "Liggjande">
+
+<!ENTITY scale.label         "Skaler:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Krymp for å passe sidebreidda">
+
+<!ENTITY optionsGroup.label  "Innstillingar">
+
+<!ENTITY printBG.label       "Skriv ut bakgrunn (fargar og bilete)">
+
+<!ENTITY advanced.tab        "Margar og topp-/botntekstar">
+
+<!ENTITY marginGroup.label   "Margar (#1)">
+<!ENTITY marginUnits.inches  "tommar">
+<!ENTITY marginUnits.metric  "millimeter">
+<!ENTITY marginTop.label     "Topp:">
+<!ENTITY marginBottom.label  "Botn:">
+<!ENTITY marginLeft.label    "Venstre:">
+<!ENTITY marginRight.label   "Høgre:">
+
+<!ENTITY headerFooter.label  "Topptekst og botntekst">
+
+<!ENTITY hfLeft.label        "Venstre:">
+<!ENTITY hfCenter.label      "Midten:">
+<!ENTITY hfRight.label       "Høgre:">
+<!ENTITY headerLeft.tip      "Venstre topptekst">
+<!ENTITY headerCenter.tip    "Midtstilt topptekst">
+<!ENTITY headerRight.tip     "Høgre topptekst">
+<!ENTITY footerLeft.tip      "Venstre botntekst">
+<!ENTITY footerCenter.tip    "Midtstilt botntekst">
+<!ENTITY footerRight.tip     "Høgre botntekst">
+
+<!ENTITY hfTitle             "Tittel">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Dato/tid">
+<!ENTITY hfPage              "Side #">
+<!ENTITY hfPageAndTotal      "Side # av #">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "Eigendefinert …">
+
+<!ENTITY customPrompt.title  "Eigendefinert …">
+<!ENTITY customPrompt.prompt "Skriv inn eigen topp-/botntekst">

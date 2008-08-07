@@ -1,0 +1,28 @@
+<!ENTITY safeb.palm.warning.title "Forfalsking på nettet">
+
+<!ENTITY safeb.palm.message.p1 "Denne sida har av andre vorte rapportert som svindel, truleg utforma for å narre brukarar til å dele personleg eller finansiell informasjon. Å sende personleg informasjon på denne sida kan ende med identitetstjuveri eller andre former for svindel eller forfalsking. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Les meir &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Les meir &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Desse typane forfalskingar er også kjende som «phishing», der falske nettstader og e-postar prøver å imitere kjelder som du stolar på. Du kan òg lære meir om ">
+<!ENTITY safeb.palm.message.p2.linkText "korleis &brandShortName; vernar deg">
+<!ENTITY safeb.palm.message.p2.end "frå nettforfalskningar.">
+
+<!ENTITY safeb.palm.accept.label "Få meg ut her ifrå!">
+<!ENTITY safeb.palm.accept.statustext "Gå til startsida mi">
+<!ENTITY safeb.palm.decline.label "Ignorer denne åtvaringa">
+<!ENTITY safeb.palm.decline.statustext "Lat att åtvaringa" >
+<!ENTITY safeb.palm.notforgery.label2 "Dette er ikkje ei forfalsking">
+<!ENTITY safeb.palm.report.label "Kvifor vart denne sida blokkert?">
+
+<!ENTITY safeb.urlbaricon.tooltip "Denne sida kan vere farleg, klikk for info.">
+
+<!ENTITY safeb.blocked.malware.title "Rapportert åtaksside!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "Denne nettsida på <span id='malware_sitename'/> er rapportert som ei åtaksside og er blokkert basert på sikkerheitsinnstillingane dine.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Åtakssider prøver å installere program som stel privat informasjon, brukar maskina di til å angripe, eller skade systemet ditt.</p><p>Enkelte åtakssider distribuerer med vilje skadeleg programvare, men mange er kompromitterte utan kjennskap eller løyve frå eigarane deira.</p>">
+
+<!ENTITY safeb.blocked.phishing.title "Rapportert forfalsking!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "Denne nettsida på <span id='phishing_sitename'/> har blitt rapportert som forfalsking og er blokkert basert på sikkerheitsinnstillingane dine.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Nokre forfalska nettstader er laga for å etterlikne sider du stolar på, for på den måten å lure deg til å gje frå deg personleg eller finansiell informasjon.</p><p>Å skrive inn informasjon på denne sida kan difor føre til identitetstjuveri eller andre former for svindel.</p>">

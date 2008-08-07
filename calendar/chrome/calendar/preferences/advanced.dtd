@@ -1,0 +1,102 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Thunderbird Preferences System
+   -
+   - The Initial Developer of the Original Code is
+   - Scott MacGregor
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.calendar.advanced.generalTab.label "Generelt">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "Passord">
+<!ENTITY pref.calendar.advanced.updateTab.label "Oppdater">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Kryptering">
+
+<!-- General -->
+<!ENTITY pref.calendar.advanced.showConnections.label     "Innstillingar for tilkopling …">
+<!ENTITY pref.calendar.advanced.showConnections.accesskey "o">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Avgjer korleis &brandShortName; koplar til Internett">
+<!ENTITY pref.calendar.advanced.configEdit.caption "Avansert oppsett">
+<!ENTITY pref.calendar.advanced.configEdit.button "Oppsettsredigering …">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "g">
+
+<!-- Passwords -->
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; kan hugse passordinformasjon til alle kalendrane dine, slik at du slepp å skrive inn innloggingsdetaljane ein gong til.">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "Bruk eit hovudpassord for å kryptere dei lagra passorda">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "p">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Når det er lagt inn vil hovudpassordet verne alle passorda dine, men du må leggje det inn for kvar ny økt.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Endre hovudpassord …">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "M">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "Vis lagra passord …">
+<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "V">
+
+<!-- Update -->
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Sjå automatisk etter oppdateringar til:">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Installerte utvidingar">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "n">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Når oppdateringar til &brandShortName; vert funne:">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Spør meg kva eg vil gjere">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "k">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "Last automatisk ned og installer oppdateringa">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "d">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Åtvar meg om dette vil slå av utvidingar">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "a">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "Vis oppdateringshistorikk …">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "o">
+
+<!-- Encryption -->
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Protokollar">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Bruk SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Bruk TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Sertifikat">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Når ein tenar ber om mitt personlege sertifikat:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Vel eit automatisk">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Spør meg kvar gong">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Vis sertifikat">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "s">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Tilbakekallingsliste">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Validering">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Sikkerheitseiningar">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "y">

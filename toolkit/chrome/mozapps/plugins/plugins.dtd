@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title                                  "Finn tilleggsprogram …">
+<!ENTITY pluginWizard.firstPage.title                        "Velkomen til &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ser no etter tilgjengelege programtillegg …">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Tilleggsprogram tilgjengelege for nedlasting">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Følgjande tilleggsprogram er tilgjengelege:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Trykk på Neste for å installere desse tilleggsprogramma.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Nokre programtillegg krev at du gjev meir informasjon under installasjonen.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Lisensar for tilleggsprogram">
+<!ENTITY pluginWizard.licensePage.accept.label               "Eg godtek.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Eg godtek ikkje (tilleggsprogrammet vil ikkje bli installert).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Installerer tilleggsprogram">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; installerer tilleggsprogram …">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; fullfører installering av manglande tilleggsprogram:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Finn ut meir om tilleggsprogram eller finn dei manglande tilleggsprogramma manuelt.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; må startast på nytt for at tilleggsprogrammet(/-a) skal fungera.">
+  
+<!ENTITY missingPlugin.label                                 "Trykk her for å laste ned tilleggsprogrammet.">
