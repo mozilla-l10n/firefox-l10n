@@ -1,0 +1,19 @@
+<!ENTITY about.version                "laida">
+
+<!ENTITY about.copy.beforeLink        "&copy; 1998-2008 „Mozilla“ projekto">
+<!ENTITY about.copy.linkTitle         "bendradarbiai">
+<!ENTITY about.copy.afterLink         ".">
+
+<!ENTITY about.license.beforeLink     "Prašom susipažinti su šio gaminio">
+<!ENTITY about.license.linkTitle      "licencija">
+<!ENTITY about.license.afterLink      ".">
+
+<!ENTITY about.relnotes.beforeLink    "Prašom susipažinti su šios">
+<!ENTITY about.relnotes.linkTitle     "laidos apžvalga">
+<!ENTITY about.relnotes.afterLink     ".">
+
+<!ENTITY about.buildconfig.beforeLink "Prašom susipažinti su šios versijos">
+<!ENTITY about.buildconfig.linkTitle  "sąranka">
+<!ENTITY about.buildconfig.afterLink  ".">
+
+<!ENTITY about.buildIdentifier        "Darinio identifikatorius: ">

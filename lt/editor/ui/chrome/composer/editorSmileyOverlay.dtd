@@ -1,0 +1,91 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "Jaustukai">
+<!ENTITY insertSmiley.accesskey "J">
+
+<!ENTITY smiley1Cmd.label "Šypsena">
+<!ENTITY smiley1Cmd.accesskey "š">
+<!ENTITY smiley1Cmd.tooltip "Įterpti šypsenos jaustuką">
+<!ENTITY smiley2Cmd.label "Pyktis">
+<!ENTITY smiley2Cmd.accesskey "P">
+<!ENTITY smiley2Cmd.tooltip "Įterpti pykčio jaustuką">
+<!ENTITY smiley3Cmd.label "Mirktelėjimas">
+<!ENTITY smiley3Cmd.accesskey "M">
+<!ENTITY smiley3Cmd.tooltip "Įterpti mirktelėjimo jaustuką">
+<!ENTITY smiley4Cmd.label "Parodyti liežuvį">
+<!ENTITY smiley4Cmd.accesskey "l">
+<!ENTITY smiley4Cmd.tooltip "Įterpti rodomo liežuvio jaustuką">
+<!ENTITY smiley5Cmd.label "Juokas">
+<!ENTITY smiley5Cmd.accesskey "u">
+<!ENTITY smiley5Cmd.tooltip "Įterpti juoko jaustuką">
+<!ENTITY smiley6Cmd.label "Nepatogumas">
+<!ENTITY smiley6Cmd.accesskey "p">
+<!ENTITY smiley6Cmd.tooltip "Įterpti nepatogumo jaustuką">
+<!ENTITY smiley7Cmd.label "Nedrąsumas">
+<!ENTITY smiley7Cmd.accesskey "N">
+<!ENTITY smiley7Cmd.tooltip "Įterpti nedrąsumo jaustuką">
+<!ENTITY smiley8Cmd.label "Nustebimas">
+<!ENTITY smiley8Cmd.accesskey "t">
+<!ENTITY smiley8Cmd.tooltip "Įterpti nustebimo jaustuką">
+<!ENTITY smiley9Cmd.label "Bučinys">
+<!ENTITY smiley9Cmd.accesskey "B">
+<!ENTITY smiley9Cmd.tooltip "Įterpti bučinio jaustuką">
+<!ENTITY smiley10Cmd.label "Rėksmas">
+<!ENTITY smiley10Cmd.accesskey "R">
+<!ENTITY smiley10Cmd.tooltip "Įterpti rėksmo jaustuką">
+<!ENTITY smiley11Cmd.label "„Cool“">
+<!ENTITY smiley11Cmd.accesskey "o">
+<!ENTITY smiley11Cmd.tooltip "Įterpti „Cool“ jaustuką">
+<!ENTITY smiley12Cmd.label "Pinigai burnoje">
+<!ENTITY smiley12Cmd.accesskey "b">
+<!ENTITY smiley12Cmd.tooltip "Įterpti pinigų burnoje jaustuką">
+<!ENTITY smiley13Cmd.label "Pėda burnoje">
+<!ENTITY smiley13Cmd.accesskey "ė">
+<!ENTITY smiley13Cmd.tooltip "Įterpti pėdos burnoje jaustuką">
+<!ENTITY smiley14Cmd.label "Naivumas">
+<!ENTITY smiley14Cmd.accesskey "v">
+<!ENTITY smiley14Cmd.tooltip "Įterpti naivumo jaustuką">
+<!ENTITY smiley15Cmd.label "Verksmas">
+<!ENTITY smiley15Cmd.accesskey "r">
+<!ENTITY smiley15Cmd.tooltip "Įterpti verksmo jaustuką">
+<!ENTITY smiley16Cmd.label "Suspaustos lūpos">
+<!ENTITY smiley16Cmd.accesskey "l">
+<!ENTITY smiley16Cmd.tooltip "Įterpti suspaustų lūpų jaustuką">
+<!ENTITY SmileButton.tooltip "Įterpti jaustuką">
+

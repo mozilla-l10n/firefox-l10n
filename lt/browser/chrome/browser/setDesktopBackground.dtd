@@ -1,0 +1,9 @@
+<!ENTITY position.label             "Padėtis:">
+<!ENTITY tile.label                 "Išdėstyti išklotine">
+<!ENTITY center.label               "Centruoti">
+<!ENTITY stretch.label              "Ištempti">
+<!ENTITY preview.label              "Peržiūra">
+<!ENTITY color.label                "Spalva:">
+<!ENTITY setDesktopBackground.title "Darbalaukio užsklandos piešinys">
+<!ENTITY openDesktopPrefs.label     "Atverti darbalaukio nuostatas">
+<!ENTITY closeWindow.key            "w">

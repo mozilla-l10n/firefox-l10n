@@ -1,0 +1,106 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+	-   Gintautas Grigas <grigas@ktl.mii.lt>
+	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label               "Tinklalapio publikavimas">
+<!ENTITY windowTitleSettings.label       "Publikavimo nuostatos">
+
+<!ENTITY publishTab.label                "Publikavimas">
+<!ENTITY settingsTab.label               "Nuostatos">
+
+<!ENTITY publishButton.label             "Publikuoti">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label                  "Tinklavietės pavadinimas:">
+<!ENTITY siteList.accesskey              "T">
+<!ENTITY siteList.tooltip                "Pasirinkite tinklavietę, kurioje ketinate publikuoti">
+<!ENTITY newSiteButton.label             "Aprašyti naują tinklavietę">
+<!ENTITY newSiteButton.accesskey         "a">
+<!ENTITY docDirList.label                "Tinklalapio poaplankis:">
+<!ENTITY docDirList.accesskey            "p">
+<!ENTITY docDirList.tooltip              "Parinkite arba įveskite tinklalapiui skirto serverio poaplankio vardą">
+<!ENTITY publishImgCheckbox.label        "Įtraukti grafinius ir kitus failus">
+<!ENTITY publishImgCheckbox.accesskey    "k">
+<!ENTITY publishImgCheckbox.tooltip      "Publikuoti paveikslus ir kitus failus, į kuriuos eina saitai iš šio tinklalapio">
+<!ENTITY sameLocationRadio.label         "Failų vieta sutampa su tinklalapio vieta">
+<!ENTITY sameLocationRadio.accesskey     "F">
+<!ENTITY sameLocationRadio.tooltip       "Failai publikuojami toje pat tinklavietėje, kur ir tinklalapis">
+<!ENTITY useSubdirRadio.label            "Įrašyti į šį tinklavietės poaplankį:">
+<!ENTITY useSubdirRadio.accesskey        "Į">
+<!ENTITY useSubdirRadio.tooltip          "Failus publikuoti į parinktą serverio poaplankį">
+<!ENTITY otherDirList.tooltip            "Parinkite arba įveskite tinklavietės poaplankio, į kurį norite publikuoti failus, vardą">
+<!ENTITY pageTitle.label                 "Tinklalapio antraštė:">
+<!ENTITY pageTitle.accesskey             "a">
+<!ENTITY pageTitle.tooltip               "Tinklalapio antraštė bus matoma naršyklės lango antraštės juostoje ir adresyne">
+<!ENTITY pageTitleExample.label          "pvz., „V. Pavardenio tinklalapis“">
+<!ENTITY filename.label                  "Failo vardas:">
+<!ENTITY filename.accesskey              "v">
+<!ENTITY filename.tooltip                "Surinkite šio tinklalapio failo vardą ir prievardį „.html“">
+<!ENTITY filenameExample.label           "pvz., „Jonas.html“">
+<!ENTITY relatedDocs.label               "Kiti publikuojami failai">
+<!ENTITY setDefaultButton.label          "Laikyti numatytąja">
+<!ENTITY setDefaultButton.accesskey      "n">
+<!ENTITY setDefSiteAndDir.label          "Tinklavietę ir aplanką laikyti numatytaisiais">
+<!ENTITY removeButton.label              "Pašalinti tinklavietės aprašą">
+<!ENTITY removeButton.accesskey          "š">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label              "Aprašytos tinklavietės">
+<!ENTITY serverInfo.label                "Serverio informacija">
+<!ENTITY loginInfo.label                 "Seanso pradžios informacija">
+<!ENTITY siteName.label                  "Tinklavietės pavadinimas:">
+<!ENTITY siteName.accesskey              "p">
+<!ENTITY siteName.tooltip                "Alternatyvus (vietinis) pavadinimas tinklavietės, kurioje publikuojate (pvz., „Rašiniai“)">
+<!ENTITY siteUrl.label                   "Publikavimo adresas (pvz., ftp://ftp.tiekejas.lt/abonentas):">
+<!ENTITY siteUrl.accesskey               "a">
+<!ENTITY siteUrl.tooltip                 "Adresas prasideda „ftp://“ (http://). Jį galima gauti iš IPT arba prieglobos teikėjo">
+<!ENTITY browseUrl.label                 "Pradžios tinklalapio adresas (pvz., http://www.tiekejas.lt/abonentas):">
+<!ENTITY browseUrl.accesskey             "T">
+<!ENTITY browseUrl.tooltip               "Jūsų svetainės pradžios tinklalapio aplanko adresas. Jis prasideda „http://“ ir baigiasi aplanko (ne failo) vardu.">
+<!ENTITY username.label                  "Abonento vardas:">
+<!ENTITY username.accesskey              "A">
+<!ENTITY username.tooltip                "Abonento vardas, su kuriuo prisijungiate prie paslaugas teikiančios tarnybos">
+<!ENTITY password.label                  "Slaptažodis:">
+<!ENTITY password.accesskey              "S">
+<!ENTITY password.tooltip                "Slaptažodis, naudojamas kartu su abonento vardu.">
+<!ENTITY savePassword.label              "Įrašyti slaptažodį">
+<!ENTITY savePassword.accesskey          "r">
+<!ENTITY savePassword.tooltip            "Slaptažodį galima išsaugoti slaptažodžių tvarkytuvėje, kad nereikėtų kiekvieną kartą jo rinkti.">

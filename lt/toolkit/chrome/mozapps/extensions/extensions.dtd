@@ -1,0 +1,202 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY addons.title                     "Priedai">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "580">
+<!ENTITY em.height                        "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "Siųstis priedų">
+<!ENTITY extensions.label                 "Plėtiniai">
+<!ENTITY themes.label                     "Grafiniai apvalkalai">
+<!ENTITY locales.label                    "Kalbos">
+<!ENTITY plugins.label                    "Papildiniai">
+<!ENTITY update.label                     "Naujinimai">
+<!ENTITY install.label                    "Diegimas">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "Rasti naujinimus">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "R">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Rasti priedų naujinimus">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Rasti apvalkalų naujinimus">
+<!ENTITY cmd.installLocalFile.label       "Įdiegti">
+<!ENTITY cmd.installLocalFile.accesskey   "d">
+<!ENTITY cmd.installFileAddon.tooltip     "Įdiegti priedą">
+<!ENTITY cmd.installFileTheme.tooltip     "Įdiegti apvalkalą">
+<!ENTITY cmd.installUpdatesAll.label      "Įdiegti naujinimus">
+<!ENTITY cmd.installUpdatesAll.accesskey  "n">
+<!ENTITY cmd.installUpdatesAll.tooltip    "Įdiegti pažymėtus naujinimus">
+<!ENTITY cmd.restartApp2.label            "Paleisti programą „&brandShortName;“ iš naujo">
+<!ENTITY cmd.restartApp2.accesskey        "š">
+<!ENTITY cmd.restartApp2.tooltip          "Pakeitimai įsigalios paleidus programą „&brandShortName;“ iš naujo">
+<!ENTITY cmd.skip.label                   "Praleisti">
+<!ENTITY cmd.skip.accesskey               "l">
+<!ENTITY cmd.skip.tooltip                 "Praleisti šiuos naujinimus">
+<!ENTITY cmd.continue.label               "Tęsti">
+<!ENTITY cmd.continue.accesskey           "T">
+<!ENTITY cmd.continue.tooltip             "Tęsti programos „&brandShortName;“ įkėlimą">
+
+<!ENTITY cmd.enableAll.label              "Įjungti visus">
+<!ENTITY cmd.enableAll.accesskey          "v">
+<!ENTITY cmd.enableAll.tooltip            "Įjungti visus rodomus priedus">
+<!ENTITY cmd.disableAll.label             "Išjungti visus">
+<!ENTITY cmd.disableAll.accesskey         "I">
+<!ENTITY cmd.disableAll.tooltip           "Išjungti visus rodomus priedus">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "Naudoti apvalkalą">
+<!ENTITY cmd.useTheme.accesskey           "N">
+<!ENTITY cmd.useTheme.tooltip             "Pakeisti „&brandShortName;“ apvalkalą">
+<!ENTITY cmd.options.label                "Nuostatos">
+<!ENTITY cmd.options.accesskey            "N">
+<!ENTITY cmd.options.tooltip              "Parinkti pažymėto plėtinio nuostatas">
+<!ENTITY cmd.optionsUnix.label            "Nuostatos">
+<!ENTITY cmd.optionsUnix.accesskey        "N">
+<!ENTITY cmd.optionsUnix.tooltip          "Keisti pažymėto plėtinio nuostatas">
+<!ENTITY cmd.enable.label                 "Įjungti">
+<!ENTITY cmd.enable.accesskey             "u">
+<!ENTITY cmd.enable.tooltip               "Įjungti šį priedą paleidus „&brandShortName;“ iš naujo">
+<!ENTITY cmd.disable.label                "Išjungti">
+<!ENTITY cmd.disable.accesskey            "u">
+<!ENTITY cmd.disable.tooltip              "Įšjungti šį priedą paleidus „&brandShortName;“ iš naujo">
+<!ENTITY cmd.uninstall.label              "Pašalinti">
+<!ENTITY cmd.uninstall2.accesskey         "š">
+<!ENTITY cmd.uninstall2.tooltip           "Pašalinti šį priedą paleidus „&brandShortName;“ iš naujo">
+<!ENTITY cmd.cancelUninstall.label        "Atsisakyti šalinimo">
+<!ENTITY cmd.cancelUninstall.accesskey    "A">
+<!ENTITY cmd.cancelUninstall.tooltip      "Atsisakyti šio priedo šalinimo">
+<!ENTITY cmd.cancelInstall.label          "Atsisakyti įdiegimo">
+<!ENTITY cmd.cancelInstall.accesskey      "A">
+<!ENTITY cmd.cancelInstall.tooltip        "Atsisakyti šio priedo įdiegimo">
+<!ENTITY cmd.cancelUpgrade.label          "Atsisakyti naujinimo">
+<!ENTITY cmd.cancelUpgrade.accesskey      "A">
+<!ENTITY cmd.cancelUpgrade.tooltip        "Atsisakyti šio priedo naujinimo">
+<!ENTITY cmd.installUpdate.label          "Įdiegti naujinimą">
+<!ENTITY cmd.installUpdate.accesskey      "d">
+<!ENTITY cmd.installUpdate.tooltip        "Įdiegti šio priedo naujinimą">
+<!ENTITY cmd.showUpdateInfo.label         "Rodyti išsamiau">
+<!ENTITY cmd.showUpdateInfo.accesskey     "R">
+<!ENTITY cmd.showUpdateInfo.tooltip       "Rodyti išsamesnę informaciją apie šiuos naujinimus">
+<!ENTITY cmd.hideUpdateInfo.label         "Rodyti glausčiau">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "R">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "Nerodyti išsamesnės informacijos apie šiuos naujinimus">
+<!ENTITY cmd.installSearchResult.label     "Įdiegti į „&brandShortName;“…">
+<!ENTITY cmd.installSearchResult.accesskey "d">
+<!ENTITY cmd.installSearchResult.tooltip   "Atsiųsti ir įdiegti šį priedą">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "Atsisakyti">
+<!ENTITY cancel.accesskey                 "A">
+<!ENTITY cancelInstall.label              "Atsisakyti">
+<!ENTITY cancelInstall.accesskey          "A">
+<!ENTITY cancelUpgrade.label              "Atsisakyti">
+<!ENTITY cancelUpgrade.accesskey          "A">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "Aplankyti priedo tinklalapį">
+<!ENTITY cmd.homepage.accesskey           "l">
+<!ENTITY cmd.about2.label                 "Apie šį priedą">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "Rasti naujinimą">
+<!ENTITY cmd.checkUpdate.accesskey        "R">
+
+<!ENTITY cmd.includeUpdate.label          "Įtraukti atnaujinant">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "Įtraukti į šį naujinimą">
+<!ENTITY includeUpdate.accesskey          "t">
+<!ENTITY includeUpdate.tooltip            "Atnaujinant įtraukti šį priedą">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "Nepateikia saugių atnaujinimų.">
+<!ENTITY needsDependencies.label          "Reikia papildomų elementų.">
+<!ENTITY blocklisted.label                "Išjungta saugumo sumetimais.">
+<!ENTITY toBeDisabled.label               "Šis priedas bus išjungtas paleidus programą „&brandShortName;“ iš naujo.">
+<!ENTITY toBeEnabled.label                "Šis priedas bus įjungtas paleidus programą „&brandShortName;“ iš naujo.">
+<!ENTITY toBeInstalled.label              "Šis priedas bus įdiegtas paleidus programą „&brandShortName;“ iš naujo.">
+<!ENTITY toBeUninstalled.label            "Šis priedas bus pašalintas paleidus programą „&brandShortName;“ iš naujo.">
+<!ENTITY toBeUpdated.label                "Šis priedas bus atnaujintas paleidus programą „&brandShortName;“ iš naujo.">
+
+<!ENTITY getExtensions.label              "Atsisiųsti plėtinių">
+<!ENTITY getThemes.label                  "Atsisiųsti apvalkalų">
+<!ENTITY getPlugins.label                 "Atsisiųsti papildinių">
+
+<!ENTITY searchAddons.label               "Ieškoti visame priedų sąraše">
+<!ENTITY browseAddons.label               "Naršyti visą priedų sąrašą">
+<!ENTITY searchFailed.label               "Programai „&brandShortName;“ nepavyko atsiųsti priedų">
+<!ENTITY recommendedHeader.label          "Rekomendacijos">
+<!ENTITY recommendedThrobber.label        "Atsiunčiami rekomenduojami priedai">
+<!ENTITY searchThrobber.label             "Ieškoma priedų">
+<!ENTITY resetSearch.label                "Valyti rezultatus">
+<!ENTITY noSearchResults.label            "Visi pagal nurodytus kriterijus rasti priedai yra jau įdiegti arba nesuderinami.">
+<!ENTITY noRecommendedResults.label       "Visi rekomenduojami priedai yra jau įdiegti arba nesuderinami.">
+<!ENTITY emptySearch.label                "Paiešką atitinkančių priedų nerasta">
+<!ENTITY emptySearch.button               "Gerai">
+<!ENTITY cancelSearch.button              "Atsisakyti">
+<!ENTITY searchFailed.button              "Gerai">
+<!ENTITY searchResultHomepage.value       "Sužinoti daugiau">
+<!ENTITY searchBox.label                  "Ieškoti visame priedų sąraše">
+<!ENTITY recommendedResults.label         "Peržiūrėti rekomenduojamų priedų sąrašą">
+<!ENTITY searchResultConnecting.label     "Jungiamasi…">
+<!ENTITY searchResultInstalling.label     "Diegiama…">
+<!ENTITY searchResultFailed.label         "Diegimas nepavyko">
+<!ENTITY searchResultInstalled.label      "Diegimas baigtas">
+<!ENTITY addonTypeExtension.label         "Plėtinys">
+<!ENTITY addonTypeTheme.label             "Grafinis apvalkalas">
+<!ENTITY missingThumbnail.label           "Nėra peržiūros paveikslėlio">
+
+<!ENTITY previewNoThemeSelected.label     "Nepasirinkta apvalkalo">
+<!ENTITY previewNoPreviewImage.label      "Šis apvalakalas neturi paveikslo peržiūrai">
+<!ENTITY moreInfo.label                   "Daugiau informacijos">
+<!ENTITY infoNoAddonSelected.label        "Nepasirinkta atnaujinimo">
+<!ENTITY infoNoUpdateInfo.label           "Apie šį atnaujinimą nėra jokios papildomos informacijos">
+<!ENTITY infoUpdateInfoError.label        "Įkeliant informaciją apie šį atnaujinimą, įvyko klaida">
+
+<!ENTITY updateSuccess.label              "Atnaujinta sėkmingai.">
+<!ENTITY installSuccess.label             "Diegimas baigtas.">
+<!ENTITY installSuccessRestart.label      "Paleisti iš naujo, kad diegimas būtų užbaigtas.">
+<!ENTITY updateSuccessRestart.label       "Paleisti iš naujo, kad atnaujinimas būtų užbaigtas.">
+<!ENTITY installWaiting.label             "Laukiama…">
+<!ENTITY installIncompatibleUpdate.label  "Tikrinamas suderinamumas…">
+<!ENTITY installFinishing.label           "Diegiama…">
+<!ENTITY installFailure.label             "Įdiegti nepavyko.">
+
+<!ENTITY progressStatus.label             "Ieškoma naujinimų">
+
+<!ENTITY eula.title                       "Licencijos sutartis">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "Priimti licenciją ir įdiegti priedą…">

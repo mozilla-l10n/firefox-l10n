@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label                   "Bendrosios">
+<!ENTITY itemAutoComplete.label              "Laiškų adresavimas">
+<!ENTITY itemSpellCheck.label                "Rašybos tikrinimas">
+<!ENTITY itemSendFormat.label                "Siuntimo formatas">
+
+<!ENTITY forwardReply.label                   "Laiškų persiuntimas">
+<!ENTITY forwardMsg.label                     "Persiųsti laiškus:">
+<!ENTITY forwardMsg.accesskey                 "P">
+<!ENTITY inline.label                         "tiesiogiai">
+<!ENTITY inline.accesskey                     "e">
+<!ENTITY asAttachment.label                   "kaip priedus">
+<!ENTITY asAttachment.accesskey               "r">
+<!ENTITY addExtension.label                   "failo vardui suteikti prievardį">
+<!ENTITY addExtension.accesskey               "v">
+
+<!ENTITY htmlComposeHeader.label              "Raiškusis (HTML) tekstas">
+<!ENTITY font.label                           "Šriftas:">
+<!ENTITY font.accesskey                       "Š">
+<!ENTITY size.label                           "Dydis:">
+<!ENTITY size.accesskey                       "D">
+<!ENTITY fontColor.label                      "Teksto spalva:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "Fono spalva:">
+<!ENTITY bgColor.accesskey                    "F">
+<!ENTITY restoreHTMLDefaults.label            "Atstatyti numatytąsias nuostatas">
+<!ENTITY restoreHTMLDefaults.accesskey        "A">
+
+<!ENTITY sendingMessagesHeader.label          "Laiškų rašymas">
+<!ENTITY spellCheck.label                     "Tikrinti rašybą prieš išsiunčiant laišką">
+<!ENTITY spellCheck.accesskey                 "T">
+<!ENTITY spellCheckInline.label               "Tikrinti rašybą rašant tekstą">
+<!ENTITY spellCheckInline1.accesskey          "r">
+<!ENTITY languagePopup.label                  "Kalba:">
+<!ENTITY languagePopup.accessKey              "k">
+<!ENTITY downloadDictionaries.label           "Atsiųsti kitų kalbų žodynus">
+
+<!ENTITY useMIME.label                        "8 bitais koduotiems laiškams naudoti „quoted printable“ MIME koduotę. Jei norite siųsti laišką tokį, koks yra, nežymėkite šio langelio">
+<!ENTITY useMIME.accesskey                    "b">
+<!ENTITY warnOnSendAccelKey.label             "Parodyti patvirtinimą, kai laiškas siunčiamas naudojant sparčiuosius klavišus">
+<!ENTITY warnOnSendAccelKey.accesskey         "o">
+<!ENTITY autoSave.label                       "Automatiškai įrašyti kas ">
+<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSaveEnd.label                    "min.">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Laužyti grynojo teksto laiško eilutes ties">
+<!ENTITY wrapOutMsg.accesskey                 "L">
+<!ENTITY char.label                           "rašmeniu">
+
+<!ENTITY emailCollectionPicker.label           "Išsiunčiamų laiškų el. pašto adresus automatiškai įtraukti į:">
+<!ENTITY emailCollectionPicker.accesskey       "s">
+<!ENTITY addressingTitle.label                 "Adreso užbaigimas pagal surinktą jo pradžią">
+<!ENTITY autocompleteText.label                "Adresų, kurių pradžios sutampa su surinktu tekstu, ieškoti:">
+<!ENTITY addressingEnable.label                "adresų knygose">
+<!ENTITY addressingEnable.accesskey            "a">
+<!ENTITY directories.label                     "katalogų serveryje:">
+<!ENTITY directories.accesskey                 "s">
+<!ENTITY editDirectories.label                 "Tvarkyti katalogus…">
+<!ENTITY editDirectories.accesskey             "T">
+<!ENTITY matchText.label                       "Jei adresas rastas adresų knygoje, tai:">
+<!ENTITY skipDirectory.label                   "neieškoti kataloge">
+
+<!ENTITY sendOptionsCaption.label              "Laiškų siuntimo ir HTML laiškų parinktys">
+<!ENTITY sendOptionsDescription.label          "Parinkite siunčiamų laiškų tekstų tipus:">
+<!ENTITY sendOptions.label                     "Siuntimo parinktys…">
+<!ENTITY sendOptions.accesskey                 "S">

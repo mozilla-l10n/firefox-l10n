@@ -1,0 +1,72 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY systemDefaults.label            "Sistemos numatytosios nuostatos">
+<!ENTITY alwaysCheckDefault.label             "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
+<!ENTITY alwaysCheckDefault.accesskey      "t">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Tikrinti dabar">
+<!ENTITY checkNow.accesskey         "d">
+
+<!ENTITY messengerStartPage.label         "„&brandShortName;“ pradžios tinklalapis">
+<!ENTITY enableStartPage.label            "Paleidžiant programą rodyti pradžios tinklalapį">
+<!ENTITY enableStartPage.accesskey        "P">
+<!ENTITY  location.label            "Adresas:">
+<!ENTITY  location1.accesskey        "A">
+<!ENTITY useDefault.label                 "Atstatyti numatytąsias nuostatas">
+<!ENTITY useDefault.accesskey             "t">
+
+<!ENTITY bounceSystemDockIcon.label       "Animuoti pritvirtinamą piktogramą">
+<!ENTITY bounceSystemDockIcon.accesskey   "A">
+
+<!ENTITY newMessagesArrive.label          "Gavus naują laišką:">
+<!ENTITY playSound.label                  "Pranešti garsu">
+<!ENTITY playSound1.accesskey              "g">
+<!ENTITY showAnimatedAlert.label          "Parodyti įspėjimą">
+<!ENTITY showAnimatedAlert.accesskey      "ė">
+<!ENTITY customizeMailAlert.label            "Kitkas…">
+<!ENTITY customizeMailAlert.accesskey        "K">
+
+<!ENTITY soundNotification1.caption       "Garsas">
+<!ENTITY play.label                       "Perklausyti">
+<!ENTITY play.accesskey                   "k">
+<!ENTITY systemsound.label                "Sistemos numatytasis naujų laiškų gavimo garsas">
+<!ENTITY systemsoundMac.label             "Sistemos numatytasis įspėjimo garsas">
+<!ENTITY systemsoundMac.accesskey         "S">
+<!ENTITY systemsound.accesskey            "S">
+<!ENTITY customsound.label                "Naudoti kitą garso failą:">
+<!ENTITY customsound.accesskey            "u">
+<!ENTITY browse.label                     "Parinkti…">
+<!ENTITY browse.accesskey                 "r">

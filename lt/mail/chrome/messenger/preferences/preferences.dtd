@@ -1,0 +1,14 @@
+
+<!ENTITY  prefWindow.titleWin     "Nuostatos">
+<!ENTITY  prefWindow.titleGNOME   "„&brandShortName;“ nuostatos">
+<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 40em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 40em;">
+
+<!ENTITY paneGeneral.title        "Bendrosios">
+<!ENTITY paneDisplay.title        "Laiškų skaitymas">
+<!ENTITY paneTags.title           "Laiškų gairės">
+<!ENTITY paneComposition.title    "Laiškų rašymas">
+<!ENTITY paneAttachments.title    "Laiškų priedai">
+<!ENTITY panePrivacy.title        "Privatumas">
+<!ENTITY paneAdvanced.title       "Kitkas">

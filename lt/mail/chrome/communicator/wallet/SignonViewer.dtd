@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "Slaptažodžių tvarkytuvė">
+<!ENTITY      windowalttitle.label            "Formų tvarkytuvė: svetainės">
+<!ENTITY      tab.signonsstored.label         "Įrašyti slaptažodžiai">
+<!ENTITY      tab.signonsnotstored.label      "Neįrašomi slaptažodžiai">
+<!ENTITY      tab.nopreview.label             "Nerodomos formos">
+<!ENTITY      tab.nocapture.label             "Neįrašomi duomenys">
+
+<!ENTITY      spiel.signonsstored.label       "Slaptažodžių tvarkytuvė įrašė prisijungimo informaciją prie šių svetainių:">
+<!ENTITY      spiel.signonsnotstored.label    "Slaptažodžių tvarkytuvė neįrašinės prisijungimo informacijos prie šių svetainių:">
+<!ENTITY      spiel.nopreview.label           "Šių svetainių formos bus rodomos tik kai jos bus preliminariai užpildytos:">
+<!ENTITY      spiel.nocapture.label           "Formų tvarkytuvė nepasiūlys įsiminti į šių svetainių formas surinktus duomenis:">
+
+<!ENTITY      treehead.site.label             "Žiniatinklio sritis">
+<!ENTITY      treehead.username.label         "Abonentas">
+<!ENTITY      treehead.password.label         "Slaptažodis">
+<!ENTITY      remove.label                    "Pašalinti">
+<!ENTITY      removeall.label                 "Pašalinti viską">

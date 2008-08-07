@@ -1,0 +1,21 @@
+<!ENTITY window.title                 "Išimtys">
+<!ENTITY window.width                 "38em">
+
+<!ENTITY treehead.sitename.label      "Svetainė">
+<!ENTITY treehead.status.label        "Leidimas">
+<!ENTITY removepermission.label       "Pašalinti svetainę">
+<!ENTITY removepermission.accesskey   "š">
+<!ENTITY removeallpermissions.label   "Pašalinti visas svetaines">
+<!ENTITY removeallpermissions.accesskey "v">
+<!ENTITY address.label                "Svetainės adresas:">
+<!ENTITY block.label                  "Neleisti">
+<!ENTITY block.accesskey              "N">
+<!ENTITY session.label                "Leisti vienam seansui">
+<!ENTITY session.accesskey            "s">
+<!ENTITY allow.label                  "Leisti">
+<!ENTITY allow.accesskey              "L">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.close.label           "Užverti">
+<!ENTITY button.close.accesskey       "U">
+

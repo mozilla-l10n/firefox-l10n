@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+  Gintautas Grigas <grigas@ktl.mii.lt> (Lithuanian translation)
+  Tatjana Jevsikova <tatjanaj@ktl.mii.lt> (Lithuanian translation)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Naršymo kortelės</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Naršymo kortelės</h1>
+
+<p>Yra du būdai vienu metu matyti kelis tinklalapius: naujam
+  tinklalapiui atverti naują langą arba kelis tinklalapius atverti tame
+  pačiame naršyklės lange – kiekvieną savo kortelėje. Kortelės įkeliamos į antrą planą
+  (tokiu būdu pagrindinio tinklalapio skaitymas nenutraukiamas). Čia aprašomas antrasis būdas: kaip
+  paspartinti interneto naršymą, naudojantis naršyklės kortelėmis, ir parinkti atitinkamas
+  nuostatas.</p>
+
+<div class="contentsBox">
+  <ul>
+    <li><a href="#creating_loading_tabs">Kortelių atvėrimas ir tinklalapių įkėlimas</a></li>
+    <li><a href="#moving_tabs">Kortelių perkėlimas lange</a></li>
+    <li><a href="#closing_tabs">Kortelių užvėrimas ir atstatymas</a></li>
+    <li><a href="#customizing">Kortelių pritaikymas savo poreikiams</a></li>
+    <li><a href="#tips_tricks">Naudingi patarimai</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_loading_tabs">Kortelių atvėrimas ir tinklalapių įkėlimas</h2>
+
+<p>Naują naršyklės kortelę galima atverti keliais būdais: paspaudus spartųjį klavišą
+    &accelKey;+<kbd>T</kbd>, pasirinkus meniu komandą <span
+    class="menuPath">Failas –&gt; Nauja kortelė</span> arba dukart spragtelėjus kortelių 
+    juostos tuščioje vietoje.</p>
+
+<p>Saitą į kortelę galima įkelti bet kuriuo iš šių būdų:</p>
+
+<ul>
+    <li>Spragtelėti saitą viduriniu pelės klavišu. (Jei pelė turi ratuką, tai reikia 
+      spragtelėti ratuką – tai yra tas pats, kas spragtelėti vidurinį klavišą.)</li>
+    <li>Nuvilkti saitą į kortelių juostos tuščią vietą. (Jei naršyklės lange atvertas tik
+      vienas tinklalapis, tai kortelių juosta gali būti nerodoma. Daugiau informacijos apie
+      tai, kaip pakeisti šią nuostatą, galima rasti sk. <a
+      href="#customizing">Kortelių pritaikymas savo poreikiams</a>.)</li>
+    <li>Nuvilkti saitą į vieną iš atvertų kortelių (tinklalapis bus atvertas toje kortelėje).</li>
+    <li><span class="noMac">Dešiniuoju pelės klavišu spragtelėti saitą</span><span class="mac">Paspausti &ctrlKey; 
+      pastačius žymeklį ant saito</span> ir iš atsivėrusio kontekstinio meniu pasirinkti <span
+      class="menuPath">Atverti saistomą objektą naujoje kortelėje</span>.</li>
+</ul>
+
+<p>Jei norite, kad tinklalapis, kurio URL adresą renkate naršyklės adresų juostoje, būtų
+  atvertas naujoje kortelėje, tai surinke URL adresą paspauskite klavišų kombinaciją
+  &altKey;+&enterKey;.</p>
+
+<h2 id="moving_tabs">Kortelių perkėlimas lange</h2>
+
+<p>Kortelės rodomos naršyklės lange tokia tvarka, kokia jos yra atveriamos. Tačiau tai ne visada
+  gali būti patogu. Jei norite pakeisti kortelių eilę, t. y. perkelti kortelę į kitą naršyklės lango vietą, tai
+  nuvilkite ją pele į norimą vietą.  Velkant kortelę, atsiranda nedidelis ženkliukas (rodyklė), rodantis
+  vietą, kur gali būti perkelta kortelė. Taip pat kortelėms perkelti galima naudoti ir tam skirtus
+  naršyklės <a href="shortcuts.xhtml#windows_tabs">sparčiuosius klavišus</a>.</p>
+
+<h2 id="closing_tabs">Kortelių užvėrimas ir atstatymas</h2>
+
+<p>Naršymo korteles galima užverti keliais būdais: paspaudus &accelKey;+<kbd>W</kbd>,
+    spragtelėjus kortelės užvėrimo mygtuką (kryžiuką), viduriniu pelės klavišu spragtelėjus kortelę
+    arba pasirinkus meniu komandą <span class="menuPath">Failas –&gt; Užverti kortelę</span>.
+    Norint užverti visas lange atvertas korteles, reikia <span
+    class="noMac">dešiniuoju pelės klavišu spragtelėti</span><span class="mac">paspausti &ctrlKey;,
+    spragtelėti</span> kortelę ir iš atsivėrusio kontekstinio meniu pasirinkti
+   <span class="menuPath">Užverti kitas korteles</span>.</p>
+
+<p>Naršyklė įsimena paskiausiai užvertų kortelių ir jų tinklalapių sąrašą. Todėl bet kurią seanso metu užvertą kortelę
+  galima atstatyti (t. y., iš naujo atverti) pasirinkus meniu <span class="menuPath">Žurnalas –&gt;
+  Paskiausiai užvertos kortelės</span>. Šiame sąraše esančius tinklalapius galima atverti
+  visus kartu viename naršyklės lange atlikus meniu komanda <span  class="menuPath">Žurnalas –&gt;
+   Paskiausiai užvertos kortelės –&gt; Atverti kortelėse</span>. Norint, kad kortelės būtų atveriamos
+   po vieną atvirkščia eile, reikia paspausti klavišų kombinaciją &accelKey;+&shiftKey;+<kbd>T</kbd>.</p>
+
+<h2 id="customizing">Kortelių pritaikymas savo poreikiams</h2>
+  <p>Kortelių galima parinkti atvėrus nuostatų langą: pasirinkus iš meniu
+   &pref.menuPath; ir atvėrus nuostatų grupę <a href="prefs.xhtml#tabs_options"><em>Kortelės</em></a>.</p>
+
+<h2 id="tips_tricks">Naudingi patarimai</h2>
+
+<dl>
+
+  <dt id="bookmarking_tabbed_browsing">Kortelės ir adresynas</dt>
+  <dd>Jei naršyklės lange tuo pat metu yra atverti keli tinklalapiai (keliose kortelėse),
+   tai į adresyną galima įtraukti visų atvertų tinklalapių grupę. Tam reikia:</dd>
+  <dd>
+    <ol>
+      <li><span class="noUnix">Paspausti &accelKey;+&shiftKey;+<kbd>D</kbd> arba
+        pasirinkti iš meniu</span> <span class="unix">Pasirinkti iš meniu</span> 
+        <span class="menuPath">Adresynas –&gt; Įrašyti į adresyną visas korteles</span>.
+       Taip visos veikiamajame lange atvertos kortelės įrašomos į atskirą adresyno aplanką.</li>
+      <li>Norint atverti adresyno aplanko turinį kortelėse, reikia iš to aplanko meniu pasirinkti
+       komandą <span class="menuPath">Atverti kortelėse</span>. Tą pati veiksmą galima atlikti
+       ir spragtelėjus viduriniu pelės klavišu atitinkamą adresyno aplanką. Į aplanką įrašyti adresai
+       bus atverti esamose kortelėse, o ne naujose.</li>
+    </ol>
+  </dd>
+
+  <dt id="home_page_as_tabs">Pradžios tinklalapių grupė</dt>
+  <dd>Vietoj vieno pradžios tinklalapio gali būti atveriama kortelių grupė, t. y.
+    keli tinklalapiai. Atverkite Jūsų mėgstamas svetaines vieno naršyklės lango
+    kortelėse. Pasirinkite &pref.menuPath; ir atverkite skydelį <em>Bendrosios</em>.
+    Dalyje <em>Pradžios tinklalapis</em> spragtelėkite mygtuką <em>Atvertų kortelių grupė</em>.
+    Dabar, spragtelėję mygtuką <em>Pradžios tinklalapis</em>, įkelsite visą tinklalapių grupę.</dd>
+
+  <dt>Mygtuko naujai kortelei atverti įtraukimas į priemonių juostą</dt>
+  <dd>Tam, kad būtų galima sparčiai atverti naują kortelę, į naršyklės priemonių juostą galima
+   įtraukti mygtuką <em>Naują kortelė</em>. Žr. sk.
+  <a href="customization.xhtml#rearranging_toolbar_items">Priemonių juostų pritaikymas savo poreikiams</a>.</dd>
+
+  <dt id="keyboard_shortcuts">Klaviatūros spartieji klavišai</dt>
+  <dd>Nors korteles patogu valdyti pele, dalį kortelių valdymo veiksmų taip pat galima atlikti
+    paspaudus klaviatūros klavišus ar jų kombinacijas. Naršyklės visą sparčiųjų klavišų sąrašą galima rasti
+    sk. <a href="shortcuts.xhtml#windows_tabs">Klaviatūros spartieji klavišai</a>.</dd>
+
+</dl>
+
+<div class="contentsBox"><em>2006 m. rugpjūčio 11 d.</em></div>
+<p>&copy; &copyright.years; <em>Mozilla Help Viewer</em> projekto bendradarbiai</p>
+<p>&copy; Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2004–2008</p>
+
+</body>
+</html>

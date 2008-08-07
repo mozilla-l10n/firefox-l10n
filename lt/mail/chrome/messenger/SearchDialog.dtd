@@ -1,0 +1,109 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Kur ieškoti:">
+<!ENTITY searchHeading.accesskey     "K">
+<!ENTITY searchSubfolders.label      "Ieškoti poaplankiuose">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY resetButton.label           "Išvalyti">
+<!ENTITY resetButton.accesskey       "v">
+<!ENTITY optionsButton.label         "Parinktys">
+<!ENTITY closeButton.label           "Užverti">
+<!ENTITY openButton.label            "Atverti">
+<!ENTITY openButton.accesskey        "a">
+<!ENTITY deleteButton.label          "Pašalinti">
+<!ENTITY deleteButton.accesskey      "š">
+<!ENTITY searchDialogTitle.label     "Laiškų paieška">
+<!ENTITY conditionDesc.label         "Ieškoti laiškų, kurie:">
+<!ENTITY conditions.label            "Kriterijus">
+<!ENTITY results.label               "Paieškos rezultatai">
+<!ENTITY fileHereMenu.label          "Perkelti čia">
+<!ENTITY fileHereMenu.accesskey      "r">
+<!ENTITY fileButton.label            "Perkelti į aplanką">
+<!ENTITY fileButton.accesskey        "P">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY goToFolderButton.label      "Atverti laiško aplanką">
+<!ENTITY goToFolderButton.accesskey  "t">
+<!ENTITY saveAsVFButton.label      "Įrašyti kaip radinių aplanką">
+<!ENTITY saveAsVFButton.accesskey  "a">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Kur ieškoti:">
+<!ENTITY abSearchHeading.accesskey   "K">
+<!ENTITY propertiesButton.label      "Savybės">
+<!ENTITY propertiesButton.accesskey  "S">
+<!ENTITY composeButton.label         "Rašyti laišką">
+<!ENTITY composeButton.accesskey     "l">
+<!ENTITY abSearchDialogTitle.label   "Paieška adresų knygoje">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Gija">
+<!ENTITY fromColumn.label "Siuntėjas">
+<!ENTITY recipientColumn.label "Gavėjas">
+<!ENTITY subjectColumn.label "Tema">
+<!ENTITY dateColumn.label "Data ir laikas">
+<!ENTITY priorityColumn.label "Prioritetas">
+<!ENTITY tagsColumn.label "Gairės">
+<!ENTITY accountColumn.label "Paskyra">
+<!ENTITY statusColumn.label "Būsena">
+<!ENTITY sizeColumn.label "Dydis">
+<!ENTITY junkStatusColumn.label "Šlamšto statusas">
+<!ENTITY linesColumn.label "Eilučių sk.">
+<!ENTITY unreadColumn.label "Neskaitytas">
+<!ENTITY totalColumn.label "Iš viso">
+<!ENTITY readColumn.label "Skaitytas">
+<!ENTITY receivedColumn.label "Gautas">
+<!ENTITY starredColumn.label "Žvaigždutė">
+<!ENTITY locationColumn.label "Vieta">
+<!ENTITY idColumn.label "Gavimo eilė">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Spustelėkite ir pasirinkite, kuriuos stulpelius rodyti">
+<!ENTITY threadColumn.tooltip "Spustelėjus čia, bus rodomos laiškų gijos"> 
+<!ENTITY fromColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal siuntėją">
+<!ENTITY recipientColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavėją">
+<!ENTITY subjectColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal laiško temą">
+<!ENTITY dateColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal datą">
+<!ENTITY priorityColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal prioritetą">
+<!ENTITY tagsColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gaires">
+<!ENTITY accountColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal paskyrą">
+<!ENTITY statusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal būseną">
+<!ENTITY sizeColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal dydį">
+<!ENTITY junkStatusColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal šlamšto statusą">
+<!ENTITY unreadColumn.tooltip "Gijos neskaitytų laiškų skaičius">
+<!ENTITY totalColumn.tooltip "Gijos laiškų skaičius">
+<!ENTITY readColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal skaitytus">
+<!ENTITY receivedColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavimo datą">
+<!ENTITY starredColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal žvaigždutę">
+<!ENTITY locationColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal vietą">
+<!ENTITY idColumn.tooltip "Spustelėkite, jei reikia surikiuoti pagal gavimo eilę">

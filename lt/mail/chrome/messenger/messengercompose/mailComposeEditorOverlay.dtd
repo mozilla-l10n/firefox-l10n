@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Pridėti šį paveikslą prie laiško">
+<!ENTITY attachImageSource.accesskey     "r">
+
+<!ENTITY attachLinkSource.label          "Pridėti saistomą objektą prie laiško">
+<!ENTITY attachLinkSource.accesskey      "d">

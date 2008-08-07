@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="Pritaikymo neįgaliesiems nuostatos" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Pritaikymo neįgaliesiems nuostatos" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+  <li><Description nc:name="Svetainių įtartinumo tikrinimo nuostatos" nc:link="prefs.xhtml#phishing" nc:platform="win os2"/></li>
+        <li><Description nc:name="Svetainių įtartinumo tikrinimo nuostatos" nc:link="prefs.xhtml#phishing" nc:platform="unix mac"/></li>
+        <li><Description nc:name="tapatumo nustatymas (apibrėžimas)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="Mygtukas „Atgal“" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Iškylančiųjų langų blokavimas" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="adresas (apibrėžimas)" nc:link="glossary.xhtml#bookmark"/></li>
+        <li><Description nc:name="Adresyno priemonių juosta (apibrėžimas)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="Naršymas" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="podėlis (apibrėžimas)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="liudijimas (apibrėžimas)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="Liudijimai" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Atšauktų liudijimų sąrašai" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="klientas (apibrėžimas)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="Priedų sąranka" nc:link="customization.xhtml#add_ons_configuring_extensions"/></li>
+        <li><Description nc:name="slapukas (apibrėžimas)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="kriptografija (apibrėžimas)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="iššifravimas (apibrėžimas)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="skaimeninis tapatumo liudijimas (apibrėžimas)" nc:link="glossary.xhtml#digital_ID"/></li>
+        <li><Description nc:name="Papildinių išjungimas, įjungimas, šalinimas" nc:link="customization.xhtml#add_ons_uninstalling"/></li>
+        <li><Description nc:name="užšifravimas (apibrėžimas)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="išplėstinė ženklinimo kalba (XML) (apibrėžimas)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="RSS kanalas (apibrėžimas)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="failų persiuntimo protokolas (FTP) (apibrėžimas)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="JAV informacijos tvarkymo standartai FIPS PUBS 140-1 (apibrėžimas)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="Mygtukas „Pirmyn“" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="grįžimas prie aplankytų tinklalapių" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Mygtukas „Pradžia“" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="pradžios tinklalapis (apibrėžimas)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="hipertekstų kalba HTML (apibrėžimas)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="„Internet Explorer“ parankinių importas" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="internetas (apibrėžimas)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="IP adresas (apibrėžimas)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>
+        <li><Description nc:name="Java (apibrėžimas)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="JavaScript (apibrėžimas)" nc:link="glossary.xhtml#JavaScript"/></li>
+        <li><Description nc:name="Kalbos" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="RSS kanalo adresas (apibrėžimas)" nc:link="glossary.xhtml#live_bookmark"/></li>
+        <li><Description nc:name="adresų juosta (apibrėžimas)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="pagrindinis slaptažodis (apibrėžimas)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="naršymo juosta (apibrėžimas)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="slaptažodžių tvarkytuvė (apibrėžimas)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="kriptografijos viešųjų raktų standartas PKCS Nr. 11 (apibrėžimas)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="įskiepis (apibrėžimas)" nc:link="glossary.xhtml#Plugin"/></li>
+        <li><Description nc:name="Įskiepiai" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="privatusis raktas (apibrėžimas)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="įgaliotasis serveris (apibrėžimas)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="paskiausiai aplankyti tinklalapiai" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Mygtukas „Atsiųsti iš naujo“" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="ieškyklė (apibrėžimas)" nc:link="glossary.xhtml#search_engine"/></li>
+        <li><Description nc:name="paieška iš adresų juostos" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="paieška iš paieškos juostos" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="tinklalapyje pažymėto teksto paieška" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="saugioji svetainė (apibrėžimas)" nc:link="glossary.xhtml#secure_site"/></li>
+        <li><Description nc:name="saugiųjų sujungimų lygmuo (SSL) (apibrėžimas)" nc:link="glossary.xhtml#SSL"/></li>
+        <li><Description nc:name="serveris (apibrėžimas)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="Pagrindinio slaptažodžio sukūrimas arba keitimas" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Programinės įrangos atnaujinimai" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="būsenos juosta (apibrėžimas)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="Mygtukas „Stabdyti“" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="Grafinio apvalkalo keitimas" nc:link="customization.xhtml#add_ons_switching_themes"/></li>
+        <li><Description nc:name="TLS (apibrėžimas)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="TCP/IP protokolas (apibrėžimas)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="universalusis adresas (URL) (apibrėžimas)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="Papildinių atnaujinimas" nc:link="customization.xhtml#add_ons_updating"/></li>
+        <li><Description nc:name="Patikra" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="HTML pirminio teksto peržiūra" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="tinklalapis (apibrėžimas)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="svetainė (apibrėžimas)" nc:link="glossary.xhtml#web_site"/></li>
+        <li><Description nc:name="žiniatinklis (apibrėžimas)" nc:link="glossary.xhtml#World_Wide_Web"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>

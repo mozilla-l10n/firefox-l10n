@@ -1,0 +1,85 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Atgal">
+<!ENTITY backButton.accesskey           "A">
+<!ENTITY backButton.tooltip             "Vienu žinyno puslapiu atgal">
+<!ENTITY forwardButton.label            "Pirmyn">
+<!ENTITY forwardButton.accesskey        "P">
+<!ENTITY forwardButton.tooltip          "Vienu žinyno puslapiu pirmyn">
+<!ENTITY copyCmd.label                  "Kopijuoti">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Pažymėti viską">
+<!ENTITY selectAllCmd.accesskey         "V">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Žinyno pradžia">
+<!ENTITY homeButton.tooltip             "Į žinyno pradžios puslapį">
+<!ENTITY printButton.label              "Spausdinti">
+<!ENTITY printButton.tooltip            "Spausdinti šį žinyno puslapį">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY searchtab.label                "Paieška:">
+<!ENTITY searchtab.accesskey            "P">
+<!ENTITY searchClose.tooltip            "Užverti paieškos rezultatus">
+<!ENTITY toctab.label                   "Turinys">
+<!ENTITY toctab.accesskey               "T">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey	 "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey	 "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "ž"> <!-- same key as "+" and "=" on the very popular Lithuanian Baltic keyboard -->
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "“"> <!-- same key as "0" on the very popular Lithuanian Baltic keyboard in Linux -->
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Visada pirmame plane">
+<!ENTITY zLevel.accesskey               "V">
+
+<!ENTITY fullZoomReduceBtn.label        "Sumažinti">
+<!ENTITY fullZoomReduceBtn.accesskey    "m">
+<!ENTITY fullZoomEnlargeBtn.label       "Padidinti">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "d">

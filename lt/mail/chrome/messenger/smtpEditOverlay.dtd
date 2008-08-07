@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "Nuostatos">
+<!ENTITY security.caption "Saugumas ir autentiškumas">
+<!ENTITY serverName.label "Serverio vardas:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "Apibūdinimas:">
+<!ENTITY serverDescription.accesskey "b">
+<!ENTITY serverPort.label "Prievadas:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Nurodyti serveriui, kad jis patikrintų abonento vardą ir slaptažodį">
+<!ENTITY alwaysUseUsername.accesskey "N">
+<!ENTITY userName.label "Abonento vardas:">
+<!ENTITY userName.accesskey "b">
+<!ENTITY useSecAuth.label "Saugus tapatumo tikrinimas">
+<!ENTITY useSecAuth.accesskey "u">
+<!ENTITY isSecure.label "Saugus ryšys:">
+<!ENTITY neverSecure.label "Ne">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS (jei įmanoma)">
+<!ENTITY sometimesSTARTTLS.accesskey "A">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP per SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP serveris">
+<!ENTITY serverPortDefault.label "Numatytasis:">

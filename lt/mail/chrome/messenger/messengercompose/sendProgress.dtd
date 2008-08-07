@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "Laiškų išsiuntimas">
+<!ENTITY status.label     "Būsena:">
+<!ENTITY progress.label   "Eiga:">

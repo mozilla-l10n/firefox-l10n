@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Įveskite tinklalapio adresą (URL) arba parinkite failą iš disko:">
+<!ENTITY chooseFile.label "Parinkti…">
+<!ENTITY newWindow.label "naujame lange">
+<!ENTITY newTab.label "naujoje kortelėje">
+<!ENTITY topWindow.label "aktyviame lange">
+<!ENTITY caption.label "Tinklalapio atvėrimas">
+<!ENTITY openWhere.label "Kur atverti:">
+<!ENTITY openBtn.label "Atverti">

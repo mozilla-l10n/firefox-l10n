@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Saugumo įspėjimai">
+
+<!ENTITY security.warn_when                       "Rodyti įspėjimo langą prieš:">
+<!ENTITY security.warn_entering_secure.label      "įkeliant šifruotą tinklalapį">
+<!ENTITY security.warn_entering_secure.accesskey  "k">
+<!ENTITY security.warn_entering_weak.label        "įkeliant tinklalapį, turintį žemo lygio šifravimo priemones">
+<!ENTITY security.warn_entering_weak.accesskey    "e">
+<!ENTITY security.warn_leaving_secure.label       "pereinant iš šifruoto tinklalapio į nešifruotą">
+<!ENTITY security.warn_leaving_secure.accesskey   "r">
+<!ENTITY security.warn_submit_insecure.label      "pateikiant informaciją nešifruotu ryšiu">
+<!ENTITY security.warn_submit_insecure.accesskey  "a">
+<!ENTITY security.warn_viewing_mixed.label        "peržiūrint tinklalapį, turintį ir šifruotų, ir nešifruotų duomenų">
+<!ENTITY security.warn_viewing_mixed.accesskey    "ž">

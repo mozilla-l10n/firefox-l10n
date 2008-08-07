@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title      "Apie „&brandShortName;“">
+<!ENTITY credits.label          "Autoriai">
+<!ENTITY credits.accesskey      "A">
+<!ENTITY aboutLink.label        "&lt; Apie „&brandShortName;“">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion           "laida">
+<!ENTITY copyrightText          "&#169;1998-2008 bendradarbiai. Visos teisės priklauso autoriams.
+                                 Vardas „Mozilla Thunderbird“ ir „Thunderbird“ logotipai yra bendrijos 
+											„Mozilla Foundation“ prekės ženklai. Visos teisės priklauso autoriams.">

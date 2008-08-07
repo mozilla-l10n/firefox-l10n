@@ -1,0 +1,14 @@
+<!ENTITY Menubar.tooltip            "Pagrindinis meniu">
+<!ENTITY Toolbar.tooltip            "Pagrindinė įrankių juosta">
+
+<!ENTITY multiline-expand.tooltip   "Įjungti kelių eilučių įvesties lauką (Vald+Aukštyn)">
+<!ENTITY multiline-contract.tooltip "Įjungti vienos eilutės įvesties lauką (Vald+Žemyn)">
+<!ENTITY multiline-send.tooltip     "Išsiųsti šį tekstą (Vald+Įvesti)">
+<!ENTITY server-nick.tooltip        "Pakeisti slapyvardį arba nebuvimo būseną. Kad fokusuoti įvesties lauką, spauskite grįžimo klavišą.">
+
+<!ENTITY Underline.label            "Pabrauktas">
+<!ENTITY Bold.label                 "Pusjuodis">
+<!ENTITY Reverse.label              "Sukeisti spalvas">
+<!ENTITY Normal.label               "Įprastas">
+<!ENTITY Color.label                "Spalva">
+<!ENTITY ForeBack.label             "xx=tekstas yy=fonas">

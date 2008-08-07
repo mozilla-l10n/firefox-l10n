@@ -1,0 +1,146 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=186
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&Gerai
+OK=Gerai
+CANCEL=Atsisakyti
+CANCEL_=&Atsisakyti
+NEXT_=&Toliau >
+BACK_=< At&gal
+IGNORE_=&Praleisti
+PROXY_MESSAGE=Jei norite parinkti atstovaujanèiøjø serveriø sàrankà ðiam atsiuntimui, spustelëkite mygtukà „Ryðys…“. 
+PROXY_BUTTON=&Ryðys…
+PROXYSETTINGS=Atstovaujanèiojo serverio nuostatos:
+PROXYSETTINGS_=&Atstovaujanèiojo serverio nuostatos
+SERVER=Serveris:
+PORT=Prievadas:
+USERID=Naudotojo identifikatorius:
+PASSWORD=Slaptaþodis:
+SELECTDIRECTORY=Pasirinkite aplankà
+DIRECTORIES_=&Aplankai:
+DRIVES_=&Diskai:
+STATUS=Liko:
+FILE=Failas:
+URL=URL:
+TO=keliu:
+ACCEPT_=&Sutinku
+DECLINE_=&Nesutinku
+PROGRAMFOLDER_=&Programos aplankas:
+EXISTINGFOLDERS_=&Esami aplankai:
+SETUPMESSAGE=Programos failai nukopijuoti á kompiuterio diskà. Prieð pradedant naudotis programa, reikia ið naujo ákelti operacinæ sistemà. Paþymëkite vienà ið parinkèiø ir spustelëkite „Gerai“.
+RESTART=Paleisti ið naujo
+YESRESTART=Taip, paleisti kompiuterá ið naujo.
+NORESTART=Ne, kompiuterá ið naujo paleisti vëliau.
+ADDITIONALCOMPONENTS_=Papildomi &komponentai:
+DESCRIPTION=Apraðas
+TOTALDOWNLOADSIZE=Reikiamas atmintinës kiekis:
+SPACEAVAILABLE=Esamas atmintinës kiekis:
+COMPONENTS_=K&omponentai:
+BROWSEINFO=Parinkite aplankà, á kurá bus diegiama „Mozilla Firefox“:
+DESTINATIONDIRECTORY=Aplankas, á kurá bus diegiama narðyklë
+BROWSE_=Pa&rinkti…
+DOWNLOADSIZE=Diegiamø failø dydis: %u KB
+CURRENTSETTINGS=Parinktos nuostatos:
+INSTALLFOLDER=…á ðá aplankà:
+ADDTLCOMPWRAPPER=– %s
+PRIMCOMPOTHERS=%s, ir:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=Á&diegti
+DELETE_=Pa&ðalinti
+CONTINUE_=&Tæsti
+SKIP_=P&raleisti 
+README=&Skaityk
+PAUSE_=&Pauzë
+RESUME_=&Tæsti
+CHECKED=Paþymëta
+UNCHECKED=Nepaþymëta
+
+EXTRACTING=Iðpakuojama…
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Negalima sukurti %s dialogo.
+ERROR_FAILED=%s klaida.
+ERROR_FILE_NOT_FOUND=Nerastas failas: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=GetSystemDirectory() klaida.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =GetWindowsDirectory() klaida.
+DLGQUITTITLE=Diegimo nutraukimas
+DLGQUITMSG=Diegimas nebaigtas. Jeigu nutrauksite diegimà, narðyklë „Mozilla Firefox“ nebus ádiegta dabar. Diegimà bus galima uþbaigti kità kartà vël paleidus diegimo programà. Ar tikrai nutraukti diegimà?
+DLG_REBOOT_TITLE=Sistema „Windows“ ákeliama ið naujo
+ERROR_GETPROCADDRESS=%s GetProcAddress() klaida.
+ERROR_WRITEPRIVATEPROFILESTRING=WritePrivateProfileString() klaida faile %s
+MSG_RETRIEVE_CONFIGINI=Praðom palaukti, kol ið interneto bus atsiøstas diegimo sàrankos failas…
+ERROR_CREATE_TEMP_DIR=Nepavyko sukurti laikinojo aplanko: %s
+DLGBROWSETITLE=Aplanko parinkimas
+ERROR_DETERMINING_DISK_SPACE=Negalima apskaièiuoti, kiek atminties reikës %s
+DLG_DISK_SPACE_CHECK_TITLE=Disko atmintinës tikrinimas
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Trûksta vietos diske, kad bûtø idiegta %s: %sReikia: %sYra: %sIðlaisvinæ vietos diske, spustelëkite mygtukà „Ið naujo“. Diegimo galima atsisakyti spustelëjus „Atsisakyti“.
+DLG_DISK_SPACE_CHECK_MSG=Trûksta vietos diske, kad bûtø idiegta %s: %sReikia: %sYra: %sSpustelëjæ „Gerai“ gráþkite atgal ir pasirinkite kità diskà (jei turite).
+ERROR_CREATE_DIRECTORY=Negalima sukurti aplanko: %sPatikrinkite, ar turite leidimà jam kurti.
+ERROR_MESSAGE_TITLE=„Mozilla Firefox“ diegimo klaida
+STR_FILE_NUMBER=Failø skaièius:
+STR_FILENAME=Failo vardas:
+MSG_SMARTUPDATE_START=Paruoðimas diegimui, praðom palaukti…
+MSG_CONFIGURING=Paruoðiama %s, praðom palaukti…
+ERROR_XPI_INSTALL=Nepavyko ádiegti
+ERROR_SETUP_REQUIREMENT=Reikia „Windows 95“ arba naujesnës operacinës sistemos. Diegimas nutraukiamas…
+DLG_EXTRACTING_TITLE=„Mozilla Firefox“ diegimas – diegimas
+STR_PROCESSINGFILE=Ruoðiamas failas: %s
+STR_INSTALLING=Diegiama: %s
+STR_COPYINGFILE=Kopijuojamas failas: %s
+MB_WARNING_STR=Áspëjimas
+MB_MESSAGE_STR=Praneðimas
+MB_ATTENTION_STR=Dëmesio!
+MSG_CREATE_DIRECTORY=Aplanko %s nëra. Ar já sukurti?
+STR_CREATE_DIRECTORY=Ar sukurti aplankà?
+ERROR_PROGRAM_FOLDER_NAME=Ávestas netinkamas programø aplanko vardas.
+CB_DEFAULT=Numatytasis
+ERROR_DESTINATION_PATH=Ávestas netinkamas kelias.
+STR_SETUP_TYPE=Diegimo tipas:
+STR_SELECTED_COMPONENTS=Diegiami komponentai:
+STR_DESTINATION_DIRECTORY=Programa bus ádiegta á aplankà:
+STR_PROGRAM_FOLDER=Programø aplankas:
+STR_DELETING_DESTINATION_DIR=Ðalinamas aplankas, praðome palaukti…
+STR_SETUP=Diegimas
+STR_DOWNLOAD_SITE=Atsiuntimas ið svetainës:
+STR_SAVE_INSTALLER_FILES=Atsiøstus ir kitus diegimui reikalingus programos failus áraðyti á:
+MSG_INIT_SETUP=Ruoðiama paleisti diegimo programà, praðome palaukti…
+STR_MESSAGEBOX_TITLE=%s diegimas
+ERROR_GETVERSION=GetVersionEx() klaida!
+DLG_USAGE_TITLE=Naudojimas
+
+STATUS_EXTRACTING=Iðpakuojama %s
+STATUS_LAUNCHING_SETUP=Paleidþiama diegimo programa…
+ERROR_FILE_WRITE=Negalima áraðyti failo %s
+TITLE=Diegimas
+ERROR_OUT_OF_MEMORY=Trûksta atminties!
+
+ERROR_DLL_LOAD=Negalima ákelti %s
+ERROR_STRING_LOAD=Negalima ákelti eilutës su iðtekliø identifikatoriumi %d
+ERROR_STRING_NULL=Tuðèia rodyklë.
+ERROR_GLOBALALLOC=Atminties skirstymo klaida.
+MSG_FORCE_QUIT_PROCESS=Diegimo programa aptiko, kad nebaigtas darbas su %s (%s). Jei norite tæsti diegimà, spustelëkite „Gerai“, ir baikite darbà su %s arba naudodami „Windows“ uþduoèiø tvarkytuvæ baikite darbà su %s ir spustelëkite „Gerai“.
+MSG_FORCE_QUIT_PROCESS_FAILED=Darbas su diegimo programa baigiamas. Diegimo nepavyko tæsti, kadangi nebaigtas darbas su %s (%s). Baikite darbà su %s (pvz., naudodami „Windows“ uþduoèiø tvarkytuvæ) ir vël paleiskite diegimo programà.
+ERROR_PATH_WITHIN_WINDIR=Programa negali bûti ádiegta á „Windows“ aplanko poaplanká. Praðom parinkti kità aplankà.

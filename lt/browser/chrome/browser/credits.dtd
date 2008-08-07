@@ -1,0 +1,15 @@
+<!ENTITY brandMotto          "Naujos kartos naršyklė">
+<!ENTITY credit.thanks       "Ypatingos padėkos">
+
+<!ENTITY credit.thanks2       "Labai dėkojame mūsų">
+<!ENTITY credit.contributors2 "bendradarbiams" >
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation       "<h3>Lokalizuotojai</h3><ul><li>Gintautas Grigas</li><li>Tatjana Jevsikova</li><li>Sigita Pedzevičienė</li><li>Rimas Kudelis</li></ul><p>Programa lokalizuota Matematikos ir informatikos institute.</p>">
+
+<!ENTITY credit.memory            "Atminimui">
+<!ENTITY credit.poweredByGeckoReg "Veikia su „Gecko&reg;“">

@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Numatytoji programa">
+<!ENTITY defaultClient.intro  "„&brandShortName;“ laikyti numatytąja programa:">
+
+<!ENTITY email.label "el. pašto">
+<!ENTITY newsgroups.label "naujienų grupių">
+<!ENTITY rss.label "RSS kanalų">
+
+<!ENTITY checkOnStartup.label "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
+<!ENTITY checkOnStartup.accesskey "P">

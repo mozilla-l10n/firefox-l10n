@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Laiškų išsiuntimo serverio (SMTP) nuostatos">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Turint net kelias pašto ar naujienų paskyras, paprastai reikia nurodyti tik vieną laiškų išsiuntimo serverį (SMTP). Surinkite SMTP serverio vardą.">
+
+<!ENTITY smtpListAdd.label  "Įtraukti…">
+<!ENTITY smtpListAdd.accesskey  "r">
+<!ENTITY smtpListEdit.label "Taisyti…">
+<!ENTITY smtpListEdit.accesskey "T">
+<!ENTITY smtpListDelete.label "Pašalinti">
+<!ENTITY smtpListDelete.accesskey "š">
+<!ENTITY smtpListSetDefault.label "Numatytasis">
+<!ENTITY smtpListSetDefault.accesskey "N">
+
+<!ENTITY serverDescription.label "Aprašas: ">
+<!ENTITY serverName.label "Serverio vardas:">
+<!ENTITY serverPort.label "Prievadas: ">
+<!ENTITY userName.label   "Abonento vardas: ">
+<!ENTITY useSecureConnection.label   "Saugusis ryšys: ">
+<!ENTITY useSecureAuthentication.label   "Saugusis tapatumo tikrinimas: ">

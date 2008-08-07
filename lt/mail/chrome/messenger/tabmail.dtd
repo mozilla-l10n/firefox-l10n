@@ -1,0 +1,12 @@
+<!ENTITY  untitledTab              "Bevardė">
+<!ENTITY  newTab.label             "Nauja kortelė">
+<!ENTITY  newTab.accesskey         "N">
+<!ENTITY  closeTab.label           "Užverti kortelę">
+<!ENTITY  closeTab.accesskey       "U">
+<!ENTITY  closeOtherTabs.accesskey "k">
+<!ENTITY  closeOtherTabs.label     "Užverti kitas korteles">
+<!ENTITY  reloadAllTabs.label      "Atsiųsti visų kortelių turinį iš naujo">
+<!ENTITY  reloadAllTabs.accesskey  "v">
+<!ENTITY  reloadTab.label          "Atsiųsti kortelės turinį iš naujo">
+<!ENTITY  reloadTab.accesskey      "A">
+<!ENTITY  listAllTabs.label        "Pateikti visas korteles">

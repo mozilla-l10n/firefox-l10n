@@ -1,0 +1,7 @@
+
+<!ENTITY editPageCmd.label                "Taisyti tinklalapį rašyklėje"> 
+<!ENTITY editPageCmd.accesskey            "T">
+
+<!ENTITY editLinkCmd.label                "Taisyti saitą rašyklėje">
+<!ENTITY editLinkCmd.accesskey            "a">
+

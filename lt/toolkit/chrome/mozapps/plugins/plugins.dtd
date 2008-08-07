@@ -1,0 +1,55 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pluginWizard.title                                  "Papildinių ieškyklė">
+<!ENTITY pluginWizard.firstPage.title                        "Sveiki! Čia papildinių ieškyklė">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "„&brandShortName;“ ieško papildinių…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Rasti papildiniai">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Galima atsiųsti ir įdiegti šiuos papildinius:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Jei norite šiuos papildinius įdiegti, spustelėkite mygtuką „Toliau“.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Diegiant kai kuriuos papildinius, Jūsų gali būti prašoma pateikti tam tikrą informaciją.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Papildinių licencijos">
+<!ENTITY pluginWizard.licensePage.accept.label               "Sutinku.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Nesutinku (papildinys nebus įdiegtas).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Papildinių diegimas">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "„&brandShortName;“ diegia papildinius…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "„&brandShortName;“ baigė trūkstamų papildinių diegimą:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Gauti daugiau informacijos apie papildinius arba ieškoti trūkstamų papildinių.">
+<!ENTITY pluginWizard.finalPage.restart.label                "Papildinys(-iai) pradės veikti paleidus „&brandShortName;“ iš naujo.">
+
+<!ENTITY missingPlugin.label                                 "Spustelėkite čia, jei norite atsiųsti papildinį.">

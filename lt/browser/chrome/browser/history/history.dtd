@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Ieškoti:">
+<!ENTITY find.accesskey            "I">
+<!ENTITY expand.label              "Išplėsti">
+<!ENTITY expand.accesskey          "ė">
+<!ENTITY collapse.label            "Sutraukti">
+<!ENTITY collapse.accesskey        "u">
+<!ENTITY byDate.label "–– datą">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "–– svetainę">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "Rodyti">
+<!ENTITY view.accesskey "o">
+<!ENTITY byMostVisited.label "–– lankymo dažnumą">
+<!ENTITY byMostVisited.accesskey "ž">
+<!ENTITY byLastVisited.label "–– lankymo datą">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "Pagal datą ir svetainę">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "Atverti">
+<!ENTITY openLinkInWindow.accesskey "A">
+<!ENTITY openInNewTab.label "Atverti naujoje kortelėje">
+<!ENTITY openInNewTab.accesskey "k">
+<!ENTITY openInNewWindow.label "Atverti naujame lange">
+<!ENTITY openInNewWindow.accesskey "l">
+<!ENTITY bookmarkLink.label "Įrašyti saitą į adresyną…">
+<!ENTITY bookmarkLink.accesskey "d">
+<!ENTITY copyLink.label "Kopijuoti saito adresą">
+<!ENTITY copyLink.accesskey "o">

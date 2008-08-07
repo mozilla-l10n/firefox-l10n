@@ -1,0 +1,100 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label  "Savybės">
+
+<!ENTITY generalInfo.label            "Bendroji informacija">
+<!ENTITY folderCharsetTab.label       "Numatytoji koduotė">
+<!ENTITY folderCharsetTab.accesskey              "k">
+<!ENTITY folderCharsetOverride.label  "Laikyti numatytąja visiems aplanko laiškams (individualios laiškų koduotės ir kitos nuostatos bus ignoruojamos)">
+<!ENTITY folderCharsetOverride.accesskey         "L">
+<!ENTITY folderRebuildSummaryFile.label          "Perindeksuoti">
+<!ENTITY folderRebuildSummaryFile.accesskey      "i">
+<!ENTITY folderRebuildSummaryFileTip.label       "Perindeksuoti aplanką">
+
+
+<!ENTITY retention.label "Laiškų šalinimas">
+<!ENTITY retentionUseDefault.label  "Naudoti serverio nuostatas">
+<!ENTITY retentionUseDefault.accesskey "s">
+<!ENTITY days.label "dienų">
+<!ENTITY daysOld.label "dienų">
+<!ENTITY message.label " naujausių laiškų">
+<!ENTITY retentionCleanup.label "Taupant vietą diske nuolat šalinti senus laiškus">
+<!ENTITY retentionKeepMsg.label "palikti laiškus, gautus per pastarąsias">
+<!ENTITY retentionKeepMsg.accesskey "p">
+<!ENTITY retentionKeepAll.label "palikti visus laiškus">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepNew.label "palikti">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "palikti tik neskaitytus laiškus">
+<!ENTITY retentionKeepUnread.accesskey "e">
+
+<!ENTITY folderOfflineTab.label                             "Atsijungus nuo tinklo">
+<!ENTITY folderCheckForNewMessages.label              "Patikrinti, ar šiame aplanke nėra naujų laiškų">
+<!ENTITY folderCheckForNewMessages.accesskey     "P">
+
+<!ENTITY offlineFolder.check.label                          "Šio aplanko laiškus skaityti atsijungus nuo tinklo">
+<!ENTITY offlineFolder.check.accesskey           "a">
+<!ENTITY offlineFolder.button.label                         "Parsisiųsti">
+<!ENTITY offlineFolder.button.accesskey          "s">
+
+<!ENTITY selectofflineNewsgroup.check.label                 "Šios naujienų grupės laiškus skaityti atsijungus nuo tinklo">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "a">
+<!ENTITY UseDefaultofflineNewsgroup.check.label             "Naudoti numatytąsias paskyrų nuostatas ">
+<!ENTITY offlineNewsgroup.button.label                      "Parsisiųsti">
+<!ENTITY offlineNewsgroup.button.accesskey       "P">
+
+<!ENTITY folderProps.information.label  "Informacija:">
+<!ENTITY folderProps.name.label	        "Vardas:">
+<!ENTITY folderProps.name.accesskey              "V">
+<!ENTITY folderProps.location.label              "Vieta:">
+<!ENTITY folderProps.location.accesskey          "t">
+
+<!ENTITY folderSharingTab.label                             "Bendras naudojimas">
+<!ENTITY privilegesDesc.label  "Šiuo ir kitais aplankais naudotis bendrai su kitais tinklo naudotojais ir rodyti bei nustatyti prieigos teises">
+<!ENTITY privileges.button.label                      "Teisės">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                            "Jums leidžiama:">
+<!ENTITY folderType.label                             "Aplanko tipas:">
+
+<!ENTITY folderQuotaTab.label                               "Kvota">
+<!ENTITY folderQuotaRoot.label                              "Kvotos šaknis:">
+<!ENTITY folderQuotaUsage.label                             "Naudojimas:">
+<!ENTITY folderQuotaStatus.label                            "Būsena:">

@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Pašto saugumas">
+<!ENTITY subject.plaintextWarning "Pastaba: laiško temos eilutė nešifruojama.">
+<!ENTITY status.heading "Jūsų laiško turinys bus išsiųstas su tokia informacija:">
+<!ENTITY status.signed "Skaitmeninis parašas:">
+<!ENTITY status.encrypted "Šifravimas:">
+<!ENTITY status.certificates "Liudijimai:">
+<!ENTITY view.label "Peržiūra">
+<!ENTITY view.accesskey "P">
+<!ENTITY tree.recipient "Gavėjas:">
+<!ENTITY tree.status "Būsena:">
+<!ENTITY tree.issuedDate "Išdavimo data:">
+<!ENTITY tree.expiresDate "Galioja iki:">

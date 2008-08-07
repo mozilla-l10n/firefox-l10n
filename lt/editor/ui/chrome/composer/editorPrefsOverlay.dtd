@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "Rašyklė">
+<!ENTITY editorCheck.accesskey "R">
+
+<!ENTITY compose.label "Rašyklė">
+<!ENTITY editing.label "Naujo tinklalapio nuostatos">
+<!ENTITY toolbars.label "Priemonių juostos">
+<!ENTITY publish.label "Publikavimas">

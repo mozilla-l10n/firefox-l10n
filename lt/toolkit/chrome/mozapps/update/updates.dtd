@@ -1,0 +1,112 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY  updateWizard.title              "Programinės įrangos atnaujinimas">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Ieškoma naujinimų">
+<!ENTITY  checking.label                  "„&brandShortName;“ tikrina, ar yra naujinimų…">
+
+<!ENTITY  cancel.label                    "Atsisakyti">
+<!ENTITY  cancel.accesskey                "A">
+
+<!ENTITY  noupdatesfound.title            "Naujinimų nerasta">
+<!ENTITY  noupdatesfound.intro            "Šiuo metu naujinimų nėra. „&brandShortName;“ gali periodiškai 
+                                           tikrinti, ar išleistos naujos versijos.">
+<!ENTITY  incompatibleChecking.label      "Tikrinama, ar šis naujinimas nesukels suderinamumo su jūsų naudojamais plėtiniais ir/ar grafiniais aplankalais problemų…">
+<!ENTITY  clickHere.label                 "Peržiūrėti išsamesnę informaciją apie šį naujinimą">
+
+<!ENTITY  incompatible.warning            "Įdiegus šį naujinimą gali neveikti kai kurie esami plėtiniai ir/ar apvalkalai,
+                                           kol jie nebus atnaujinti.">
+<!ENTITY  listIncompatible.label          "Rodyti sąrašą">
+<!ENTITY  listIncompatible.accesskey      "R">
+
+<!ENTITY  upgrade.evangelism              "Rekomenduotina kuo skubiau atnaujinti „&brandShortName;“.">
+
+
+<!ENTITY  license.instructions            "Jei sutinkate su licencijos sąlygomis, tai spustelėkite „Sutinku“, ir 
+                                           naujinimo diegimas bus tęsiamas.">
+
+<!ENTITY  license.titleText               "Programinės įrangos licencija">
+<!ENTITY  license.introText               "Programinės įrangos naudojimo sąlygos">
+<!ENTITY  license.instructionText         "Prašom perskaityti licencijos sutartį. Visą sutarties tekstą galimą pamatyti paslinkus jį slinkties juosta.">
+<!ENTITY  license.accept                  "Sutinku su licencijos sąlygomis">
+<!ENTITY  license.accept.accesskey        "S">
+<!ENTITY  license.decline                 "NESUTINKU su licencijos sąlygomis">
+<!ENTITY  license.decline.accesskey       "N">
+
+<!ENTITY  downloading.title               "Naujinimo atsiuntimas">
+<!ENTITY  downloading.intro               "Atsiunčiamas naujinimas…">
+<!ENTITY  connecting.label                "Jungiamasi prie naujinimų serverio…">
+<!ENTITY  verificationFailedText.label    "„&brandShortName;“ nepavyko patikrinti atsiųsto 
+                                           prieauginio naujinimo nepažeistumo, todėl šiuo metu atsiunčiamas visas
+                                           atnaujinimo paketas.">
+
+<!ENTITY  details.link                    "Išsamiau">
+<!ENTITY  pause.label                     "Pauzė">
+<!ENTITY  pause.accesskey                 "P">
+<!ENTITY  close.label                     "Užverti">
+<!ENTITY  close.accesskey                 "U">
+
+<!ENTITY  error.label                     "Nesklandumai ieškant, atsiunčiant ar įdiegiant šį naujinimą. 
+                                           „&brandShortName;“ nepavyko atnaujinti dėl šių priežasčių:">
+                                           
+<!ENTITY  errorManual.label               "Galima atnaujinti „&brandShortName;“ rankiniu būdu aplankius šią svetainę ir 
+                                           atsisiuntus naujausią versiją:">
+                                           
+<!ENTITY  errorpatching.title             "Nepavyko atnaujinti">
+<!ENTITY  errorpatching.intro             "Dalinis atnaujinimas nepavyko. 
+                                           Bus bandoma atnaujinti atsiuntus visą naujinimą.">
+
+<!ENTITY  finished.title                  "Naujinimas atsiųstas">
+<!ENTITY  finished.text                  "Naujinimas sėkmingai atsiųstas ir patikrintas. Prašom paleisti 
+                                           „&brandShortName;“ iš naujo.">
+
+<!ENTITY  finishedBackground.title        "Naujinimas paruoštas diegimui">
+<!ENTITY  finishedBackground.text        "„&brandShortName;“ atsiuntė ir patikrino svarbų naujinimą. Daugiau galima sužinoti spustelėjus
+                                           žemiau esantį saitą.">
+<!ENTITY  finishedBackground.name         "Naujinimas:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Spustelėkite „Paleisti „&brandShortName;“ iš naujo dabar“, jei norite įdiegti naujinimą dabar.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Jei norite tęsti darbą su programa, spustelėkite „Ne dabar“. Naujinimas bus įdiegtas 
+                                           kitą kartą paleidus „&brandShortName;“.">
+
+<!ENTITY  installed.title                 "Atnaujinta">
+<!ENTITY  installed.intro                 "Naujinimas sėkmingai įdiegtas.">
+<!ENTITY  whatsnew.label                  "Skaityti daugiau apie naujoves…">
+
+<!ENTITY  update.details.label            "Išsamiau">
+<!ENTITY  update.installedOn.label        "Įdiegta:">
+<!ENTITY  update.status.label             "Būsena:">

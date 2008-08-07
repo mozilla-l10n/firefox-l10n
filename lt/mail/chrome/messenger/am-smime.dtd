@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Saugumas">
+<!ENTITY securityHeading.label "Norint išsiųsti ir gauti pasirašytus arba šifruotus laiškus, reikia nurodyti skaitmeninio parašo ir šifravimo liudijimus.">
+<!ENTITY encryptionGroupTitle.label "Šifravimas">
+<!ENTITY encryptionChoiceLabel.label "Išsiunčiamus laiškus:">
+<!ENTITY neverEncrypt.label "nešifruoti">
+<!ENTITY alwaysEncryptMessage.label "užšifruoti (laiškas nebus išsiųstas, jei bent vienas iš jo gavėjų neturi liudijimo)">
+<!ENTITY encryptionCert.message "Šifravimui naudoti šį asmeninį liudijimą:">
+<!ENTITY encryptionCert.notselected "Nenurodytas šifravimo liudijimas">
+<!ENTITY certificate.button "Parinkti liudijimą…">
+<!ENTITY certificate_clear.button "Išvalyti">
+<!ENTITY signingGroupTitle.label "Skaitmeninis parašas">
+<!ENTITY signMessage.label "Išsiunčiamus laiškus pasirašyti skaitmeniniškai">
+<!ENTITY signingCert.message "Parašui naudoti šį asmeninį liudijimą:">
+<!ENTITY signingCert.notselected "Nenurodytas parašo liudijimas">
+
+<!ENTITY certificates.label     "Liudijimai">
+<!ENTITY  managecerts.label           "Liudijimų tvarkymas">
+<!ENTITY managecerts.accesskey  "t">
+<!ENTITY  managedevices.label         "Saugumo priemonių tvarkymas">
+<!ENTITY managedevices.accesskey "S">

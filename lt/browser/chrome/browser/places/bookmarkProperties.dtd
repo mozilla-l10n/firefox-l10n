@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                 "Pavadinimas:">
+<!ENTITY bookmarks.name.accesskey             "P">
+<!ENTITY bookmarks.location.label             "Adresas:">
+<!ENTITY bookmarks.location.accesskey         "A">
+<!ENTITY bookmarks.keyword.label              "Reikšminis žodis:">
+<!ENTITY bookmarks.keyword.accesskey          "ž">
+<!ENTITY bookmarks.description.label          "Aprašas:">
+<!ENTITY bookmarks.description.accesskey      "r">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "Kaičiosios antraštės">
+<!ENTITY bookmarks.createIn.label             "Kurti aplanke:">
+<!ENTITY bookmarks.createIn.accesskey         "K">
+<!ENTITY bookmarks.feed_location.label        "Kanalo adresas:">
+<!ENTITY bookmarks.feed_location.accesskey    "d">
+<!ENTITY bookmarks.site_location.label        "Svetainės adresas:">
+<!ENTITY bookmarks.site_location.accesskey    "S">
+<!ENTITY bookmarks.loadInSidebar.label        "Atverti šį adresą parankinėje">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "p">
+<!ENTITY bookmarks.expanderDown.tooltip       "Rodyti visus adresyno aplankus">
+<!ENTITY bookmarks.expanderUp.tooltip         "Nerodyti">
+<!ENTITY bookmarks.newFolderButton.label      "Naujas aplankas">
+<!ENTITY bookmarks.newFolderButton.accesskey  "N">

@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "Svetainė">
+<!ENTITY reportProblemType           "Nesklandumo tipas">
+<!ENTITY reportDecsription           "Aprašas">
+<!ENTITY reportPlatform              "Platforma">
+<!ENTITY reportProduct               "Programa">
+<!ENTITY reportoscpu                 "Operacinė sistema">
+<!ENTITY reportGecko                 "„Gecko“ laida">
+<!ENTITY reportBuildConfig           "Darinio sąranka">
+<!ENTITY reportUseragent             "Naudotojo programa">
+<!ENTITY reportLanguage              "Kalba">
+<!ENTITY reportCharset               "Simbolių koduotė">
+<!ENTITY reportEmail                 "El. paštas">
+<!ENTITY error                       "Išsamiau apie klaidą">
+<!ENTITY faultCode                   "Kodas">
+<!ENTITY faultMessage                "Pranešimas">

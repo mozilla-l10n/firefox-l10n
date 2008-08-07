@@ -1,0 +1,28 @@
+<!ENTITY  pref.editing.title        "Naujo tinklalapio nuostatos">
+
+<!ENTITY  authorName.label          "Autorius:">
+<!ENTITY  authorName.accesskey      "a">
+<!ENTITY  pageColorHeader           "Numatytoji tinklalapio išvaizda">
+
+<!ENTITY defaultColorsRadio.label   "Spalvų neparinkti (bus naudojamos numatytosios)">
+<!ENTITY defaultColors.accesskey    "m">
+<!ENTITY customColorsRadio.label    "Spalvas parinkti:">
+<!ENTITY customColors.accesskey     "s">
+
+<!ENTITY normalText.label           "Normalus tekstas">
+<!ENTITY normalText.accesskey       "N">
+<!ENTITY linkText.label             "Saito tekstas">
+<!ENTITY linkText.accesskey         "i">
+<!ENTITY activeLinkText.label       "Aktyvaus saito tekstas">
+<!ENTITY activeLinkText.accesskey   "k">
+<!ENTITY visitedLinkText.label      "Aplankyto saito tekstas">
+<!ENTITY visitedLinkText.accesskey  "l">
+<!ENTITY background.label           "Fonas:">
+<!ENTITY background.accesskey       "F">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "Fono piešinys:">
+<!ENTITY backgroundImage.accesskey  "o">
+<!ENTITY chooseFile.label           "Parinkti failą…">
+<!ENTITY chooseFile.accesskey       "f">
+

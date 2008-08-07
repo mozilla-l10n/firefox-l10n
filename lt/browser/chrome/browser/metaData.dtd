@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "Savybės nenustatytos.">
+
+<!ENTITY caption.label         "Savybės">
+<!ENTITY image-sec.label       "Paveikslo savybės">
+<!ENTITY image-url.label       "Vieta:">
+<!ENTITY image-type.label      "Tipas:">
+<!ENTITY image-desc.label      "Aprašas:">
+<!ENTITY image-alt.label       "Alternatyvusis tekstas:">
+<!ENTITY image-size.label      "Matmenys:">
+<!ENTITY image-filesize.label  "Failo dydis:">
+<!ENTITY insdel-sec.label      "Įterpimo ir šalinimo savybės">
+<!ENTITY insdel-cite.label     "Informacija:">
+<!ENTITY insdel-date.label     "Data:">
+<!ENTITY link-sec.label        "Saito savybės">
+<!ENTITY link-url.label        "Adresas:">
+<!ENTITY link-target.label     "Kur atveriamas:">
+<!ENTITY link-type.label       "Paskirties objekto tipas:">
+<!ENTITY link-lang.label       "Paskirties objekto kalba:">
+<!ENTITY link-rel.label        "Sąsaja:">
+<!ENTITY link-rev.label        "Atvirkštinė sąsaja:">
+<!ENTITY link-ping.label       "Apie spustelėjimą praneš:">
+<!ENTITY misc-sec.label        "Kitkas">
+<!ENTITY misc-lang.label       "Teksto kalba:">
+<!ENTITY misc-title.label      "Antraštė:">
+<!ENTITY misc-tblsummary.label "Lentelės suvestinė:">
+<!ENTITY quote-sec.label       "Citatos savybės">
+<!ENTITY quote-cite.label      "Informacija:">

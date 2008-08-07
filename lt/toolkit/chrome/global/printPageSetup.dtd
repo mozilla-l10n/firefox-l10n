@@ -1,0 +1,54 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Puslapio nuostatos">
+
+<!ENTITY basic.tab           "Formatas ir parinktys">
+
+<!ENTITY formatGroup.label   "Formatas">
+
+<!ENTITY orientation.label   "Puslapio padėtis:">
+<!ENTITY portrait            "Stačias">
+<!ENTITY landscape           "Gulsčias">
+
+<!ENTITY scale.label         "Mastelis:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Priderinti prie puslapio pločio">
+
+<!ENTITY optionsGroup.label  "Parinktys">
+
+<!ENTITY printBG.label       "Spausdinti fono piešinius ir spalvas">
+
+<!ENTITY advanced.tab        "Paraštės ir puslapinės antraštės bei poraštės">
+
+<!ENTITY marginGroup.label   "Paraštės (#1)">
+<!ENTITY marginUnits.inches  "coliai">
+<!ENTITY marginUnits.metric  "milimetrai">
+<!ENTITY marginTop.label     "Viršutinė:">
+<!ENTITY marginBottom.label  "Apatinė:">
+<!ENTITY marginLeft.label    "Kairioji:">
+<!ENTITY marginRight.label   "Dešinioji:">
+
+<!ENTITY headerFooter.label  "Puslapinės antraštės ir poraštės">
+
+<!ENTITY hfLeft.label        "Kairė:">
+<!ENTITY hfCenter.label      "Centras:">
+<!ENTITY hfRight.label       "Dešinė:">
+
+<!ENTITY headerLeft.tip      "Antraštė kairėje">
+<!ENTITY headerCenter.tip    "Antraštė centre">
+<!ENTITY headerRight.tip     "Antraštė dešinėje">
+<!ENTITY footerLeft.tip      "Poraštė kairėje">
+<!ENTITY footerCenter.tip    "Poraštė centre">
+<!ENTITY footerRight.tip     "Poraštė dešinėje">
+
+<!ENTITY hfTitle             "Antraštė">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Data ir laikas">
+<!ENTITY hfPage              "Puslapio Nr.">
+<!ENTITY hfPageAndTotal      "X iš Y">
+<!ENTITY hfBlank             "--tuščia--">
+<!ENTITY hfCustom            "Kita…">
+
+<!ENTITY customPrompt.title  "Kita…">
+<!ENTITY customPrompt.prompt "Surinkite puslapinės antraštės (poraštės) tekstą:">

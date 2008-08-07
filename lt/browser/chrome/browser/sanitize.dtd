@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "Privačių duomenų šalinimas">
+
+<!ENTITY sanitizeItems.label          "Išvalyti šiuos objektus:">
+<!ENTITY clearDataSettings.label      "Kai paprašau, kad „&brandShortName;“ pašalintų mano privačius duomenis, programa turėtų pašalinti:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Naršymo žurnalas">
+<!ENTITY itemHistory.accesskey        "N">
+<!ENTITY itemFormSearchHistory.label           "Formos ir paieškos duomenys">
+<!ENTITY itemFormSearchHistory.accesskey       "F">
+<!ENTITY itemPasswords.label          "Įrašyti slaptažodžiai">
+<!ENTITY itemPasswords.accesskey      "r">
+<!ENTITY itemCookies.label            "Slapukai">
+<!ENTITY itemCookies.accesskey        "S">
+<!ENTITY itemCache.label              "Podėlis">
+<!ENTITY itemCache.accesskey          "P">
+<!ENTITY itemOfflineApps.label        "Duomenys darbui atsijungus">
+<!ENTITY itemOfflineApps.accesskey    "D">
+<!ENTITY itemDownloads.label          "Atsiuntimų žurnalas">
+<!ENTITY itemDownloads.accesskey      "A">
+<!ENTITY itemSessions.label           "Seansų tapatumo duomenys">
+<!ENTITY itemSessions.accesskey       "e">
+<!ENTITY window.width                 "30em">

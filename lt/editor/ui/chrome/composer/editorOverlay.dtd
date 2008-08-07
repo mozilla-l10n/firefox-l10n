@@ -1,0 +1,593 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin <rcassin@supernova.org>
+   -   Daniel Glazman <glazman@netscape.com>
+   -   Stephen Donner <technutz@netscape.net>
+	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
+<!ENTITY fileMenu.label "Failas">
+<!ENTITY filemenu.accesskey "f">
+<!ENTITY newBlankPageCmd.label "Tinklalapis">
+<!ENTITY newBlankPage.accesskey "t">
+<!ENTITY newMenu.label "Naujas">
+<!ENTITY openFileCmd.label "Atverti failą…">
+<!ENTITY fileopen.accesskey "A">
+<!ENTITY fileopen.keybinding "o">
+<!ENTITY openremoteCmd.label "Atverti tinklalapį…">
+<!ENTITY fileopenremote.accesskey "v">
+<!ENTITY fileopenremote.keybinding "l">
+<!ENTITY fileRecentMenu.label "Paskiausiai atverti tinklalapiai">
+<!ENTITY filerecentmenu.accesskey "e">
+<!ENTITY fileRevert.label "Grįžti prie paskiausiai įrašyto">
+<!ENTITY filerevert.accesskey "G">
+<!ENTITY saveCmd.label "Įrašyti">
+<!ENTITY filesave.accesskey "r">
+<!ENTITY filesave.keybinding "s">
+<!ENTITY saveAsCmd.label "Įrašyti kaip…">
+<!ENTITY filesaveas.accesskey "k">
+
+<!ENTITY publishCmd.label "Publikuoti">
+<!ENTITY publishcmd.accesskey "P">
+<!ENTITY publishAsCmd.label "Publikuoti kitaip…">
+<!ENTITY publishas.accesskey "i">
+<!ENTITY exportToTextCmd.label "Įrašyti grynuoju tekstu…">
+<!ENTITY fileexporttotext.accesskey "y">
+<!ENTITY saveAsChangeEncodingCmd.label "Pakeisti koduotę ir įrašyti…">
+<!ENTITY filesaveandchangeencoding.accesskey "d">
+<!ENTITY previewCmd.label "Perkelti į naršyklę">
+<!ENTITY filepreview.accesskey "š">
+<!ENTITY sendPageCmd.label "Išsiųsti tinklalapį el. paštu…">
+<!ENTITY sendPage.accesskey "l">
+<!ENTITY printSetupCmd.label "Puslapio nuostatos…">
+<!ENTITY fileprintsetup.accesskey "u">
+<!ENTITY printPreviewCmd.label "Spaudinio peržiūra">
+<!ENTITY fileprintpreview.accesskey "ž">
+<!ENTITY printCmd.label "Spausdinti…">
+<!ENTITY printButtonCmd.label "Spausdinti…">
+<!ENTITY fileprint.accesskey "S">
+<!ENTITY fileprint.keybinding "p">
+<!ENTITY closeCmd.label "Užverti">
+<!ENTITY fileclose.accesskey "U">
+<!ENTITY fileclose.keybinding "w">
+<!ENTITY exitCmd.label "Išeiti">
+<!ENTITY fileexit.accesskey "š">
+<!ENTITY fileexit.keybinding "q">
+
+<!-- Edit menu items -->
+<!ENTITY editMenu.label "Taisa">
+<!ENTITY editmenu.accesskey "t">
+<!ENTITY pasteNoFormatting.label "Įdėti be formatų">
+<!ENTITY pasteNoFormatting.accesskey "f">
+<!ENTITY pasteAs.label "Įdėti kitaip">
+<!ENTITY pasteAs.accesskey "t">
+<!ENTITY publishSettings.label "Publikavimo nuostatos…">
+<!ENTITY publishSettings.accesskey "b">
+
+<!-- For a "Paste" submenu when more than 1 
+     clipboard formats are available -->
+<!ENTITY pasteHTMLCmd.label "HTML">
+<!ENTITY pasteHTML.accesskey "h">
+<!ENTITY pasteTextCmd.label "Tekstas">
+<!ENTITY pasteText.accesskey "t">
+<!ENTITY pasteImageCmd.label "Paveikslas">
+<!ENTITY pasteImage.accesskey "i">
+<!ENTITY pasteRowsCmd.label "Eilutės">
+<!ENTITY pasteRows.accesskey "e">
+<!ENTITY pasteColumnsCmd.label "Stulpeliai">
+<!ENTITY pasteColumns.accesskey "s">
+<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
+     Set to: "Table" or "Nested Table" depending on context 
+     This accesskey must be in both strings -->
+<!ENTITY pasteTable.accesskey "e">
+<!ENTITY pasteLinkCmd.label "Saitas">
+<!ENTITY editpastelink.accesskey "s">
+<!ENTITY pasteAsQuotationCmd.label "Įdėti kaip citatą">
+<!ENTITY editpastequotation.accesskey "c">
+<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY editStripQuotesCmd.label "Pašalinti citatas">
+<!ENTITY editRewrapCmd.label "Laužyti iš naujo">
+<!ENTITY findCmd.label "Ieškoti ir pakeisti…">
+<!ENTITY editfind.accesskey "I">
+<!ENTITY editfind.keybinding "f">
+<!ENTITY editfind.keybinding2 "VK_F19">
+<!ENTITY findAgainCmd.label "Ieškoti toliau">
+<!ENTITY editfindnext.accesskey "e">
+<!ENTITY editfindnext.keybinding "g">
+<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.label "Ieškoti ankstesnio">
+<!ENTITY editfindprev.accesskey "o">
+<!ENTITY editfindprev.keybinding "g">
+<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY enableInlineSpellChecker.label "Tikrinti rašybą renkant tekstą">
+<!ENTITY enableInlineSpellChecker.accesskey "r">
+<!ENTITY checkSpellingCmd.label "Tikrinti rašybą">
+<!ENTITY validateCmd.label "Patikrinti HTML">
+<!ENTITY validate.accesskey "H">
+<!ENTITY checkLinksCmd.label "Patikrinti saitus">
+<!ENTITY editcheckspelling.accesskey "r">
+<!ENTITY editcheckspelling.keybinding "k">
+
+<!-- View menu items -->
+<!ENTITY viewPageSource.label "Pirminis tekstas">
+<!ENTITY viewpagesource.accesskey "t">
+<!ENTITY viewParagraphMarks.label "Pastraipų žymės">
+<!ENTITY viewparagraphmarks.accesskey "p">
+
+<!-- Insert menu items -->
+<!ENTITY insertMenu.label "Intarpai">
+<!ENTITY insertmenu.accesskey "I">
+<!ENTITY insertLinkCmd.label "Saitas…">
+<!ENTITY insertlink.accesskey "S">
+<!ENTITY insertlink.keybinding "l">
+<!ENTITY insertAnchorCmd.label "Žymė…">
+<!ENTITY insertanchor.accesskey "Ž">
+<!ENTITY insertImageCmd.label "Paveikslas…">
+<!ENTITY insertimage.accesskey "P">
+<!ENTITY insertImageMapCmd.label "Paveikslo planas…">
+<!ENTITY insertHLineCmd.label "Horizontalė">
+<!ENTITY inserthline.accesskey "o">
+<!ENTITY insertTableCmd.label "Lentelę…">
+<!ENTITY inserttable.accesskey "L">
+<!ENTITY insertFormMenu.label "Forma">
+<!ENTITY insertformmenu.accesskey "F">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertCharsCmd.label "Rašmuo…">
+<!ENTITY insertchars.accesskey "m">
+<!ENTITY insertBreakCmd.label "Eilutės pabaiga">
+<!ENTITY insertbreak.accesskey "b">
+<!ENTITY insertBreakAllCmd.label "Eilutės pabaiga po paveikslu">
+<!ENTITY insertbreakall.accesskey "b">
+
+<!-- Insert form menu items -->
+<!ENTITY insertFormCmd.label "Aprašyti formą…">
+<!ENTITY insertform.accesskey "š">
+<!ENTITY insertInputTagCmd.label "Formos laukas…">
+<!ENTITY insertinputtag.accesskey "l">
+<!ENTITY insertInputImageCmd.label "Formos paveikslas…">
+<!ENTITY insertinputimage.accesskey "v">
+<!ENTITY insertTextAreaCmd.label "Teksto laukas…">
+<!ENTITY inserttextarea.accesskey "T">
+<!ENTITY insertSelectCmd.label "Sąrašas…">
+<!ENTITY insertselect.accesskey "S">
+<!ENTITY insertButtonCmd.label "Aprašyti mygtuką…">
+<!ENTITY insertbutton.accesskey "m">
+<!ENTITY insertLabelCmd.label "Aprašyti žymę">
+<!ENTITY insertlabel.accesskey "ž">
+<!ENTITY insertFieldSetCmd.label "Aprašyti laukus…">
+<!ENTITY insertfieldset.accesskey "u">
+<!ENTITY insertIsIndexCmd.label "Indeksuota paieška">
+<!ENTITY insertisindex.accesskey "d">
+
+<!-- Used just in context popup. -->
+<!ENTITY spellCheckNoSuggestions.label "(Nėra siūlymų)">
+<!ENTITY spellCheckIgnoreWord.label "Praleisti">
+<!ENTITY spellCheckIgnoreWord.accesskey "l">
+<!ENTITY spellCheckAddToDictionary.label "Įtraukti į žodyną">
+<!ENTITY spellCheckAddToDictionary.accesskey "t">
+<!ENTITY createLinkCmd.label "Įterpti saitą…">
+<!ENTITY createlink.accesskey "Į">
+<!ENTITY editLinkCmd.label "Taisyti saitą naujame lange">
+<!ENTITY editlink.accesskey "i">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
+<!ENTITY undoCmd.label "Atšaukti">
+<!ENTITY undo.accesskey "A">
+<!ENTITY redoCmd.label "Atstatyti">
+<!ENTITY redo.accesskey "t">
+<!ENTITY cutCmd.label "Iškirpti">
+<!ENTITY cut.accesskey "r">
+<!ENTITY copyCmd.label "Kopijuoti">
+<!ENTITY copy.accesskey "K">
+<!ENTITY pasteCmd.label "Įdėti">
+<!ENTITY paste.accesskey "d">
+<!ENTITY deleteCmd.label "Pašalinti">
+<!ENTITY delete.accesskey "š">
+<!ENTITY clearCmd.label "Išvalyti">
+<!ENTITY clear.accesskey "v">
+<!ENTITY selectAllCmd.label "Pažymėti viską">
+<!ENTITY selectall.accesskey "v">
+
+<!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip "Parinkti šriftą">
+<!ENTITY fontfaceMenu.label "Šriftas">
+<!ENTITY formatfontmenu.accesskey "Š">
+<!ENTITY fontVarWidth.label "Įvairiaplotis">
+<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontFixedWidth.label "Lygiaplotis">
+<!ENTITY fontfixedwidth.accesskey "L">
+<!ENTITY formatfontfixed.keybinding "t">
+<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
+<!ENTITY fonthelvetica.accesskey "H">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fonttimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontcourier.accesskey "C">
+<!ENTITY localfontfaceMenu.label "Vidiniai šriftai">
+<!ENTITY localfontmenu.accesskey "V">
+
+<!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.tooltip "Pasirinkti šrifto dydį">
+<!ENTITY decreaseFontSize.label "Mažesnis">
+<!ENTITY decreasefontsize.accesskey "m">
+<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY increaseFontSize.label "Didesnis">
+<!ENTITY increasefontsize.accesskey "D">
+<!ENTITY increaseFontSize.keybinding "+">
+<!ENTITY increaseFontSize.keybinding2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY fontsizeMenu.label "Dydis">
+<!ENTITY formatsizemenu.accesskey "D">
+<!ENTITY size-xx-smallCmd.label "xx-mažas">
+<!ENTITY size-xx-small.accesskey "s">
+<!ENTITY size-x-smallCmd.label "x-mažas">
+<!ENTITY size-x-small.accesskey "a">
+<!ENTITY size-smallCmd.label "mažas">
+<!ENTITY size-small.accesskey "ž">
+<!ENTITY size-mediumCmd.label "Vidutinis">
+<!ENTITY size-medium.accesskey "v">
+<!ENTITY size-largeCmd.label "Didelis">
+<!ENTITY size-large.accesskey "i">
+<!ENTITY size-x-largeCmd.label "x-didelis">
+<!ENTITY size-x-large.accesskey "e">
+<!ENTITY size-xx-largeCmd.label "xx-didelis">
+<!ENTITY size-xx-large.accesskey "l">
+
+<!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Teksto stilius">
+<!ENTITY formatstylemenu.accesskey "i">
+<!ENTITY styleBoldCmd.label "Pusjuodis">
+<!ENTITY stylebold.accesskey "P">
+<!ENTITY stylebold.keybinding "b">
+<!ENTITY styleItalicCmd.label "Kursyvas">
+<!ENTITY styleitalic.accesskey "k">
+<!ENTITY styleitalic.keybinding "i">
+<!ENTITY styleUnderlineCmd.label "Pabrauktas">
+<!ENTITY styleunderline.accesskey "b">
+<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleStrikeThruCmd.label "Perbrauktas">
+<!ENTITY stylestrikethru.accesskey "r">
+<!ENTITY styleSuperscriptCmd.label "Viršutinis indeksas">
+<!ENTITY stylesuperscript.accesskey "v">
+<!ENTITY styleSubscriptCmd.label "Apatinis indeksas">
+<!ENTITY stylesubscript.accesskey "A">
+<!ENTITY styleNonbreakingCmd.label "Jungiamasis tarpas">
+<!ENTITY stylenonbreaking.accesskey "n">
+<!ENTITY styleEm.label "Akcentas">
+<!ENTITY styleEm.accesskey "e">
+<!ENTITY styleStrong.label "Stipresnis akcentas">
+<!ENTITY styleStrong.accesskey "t">
+<!ENTITY styleCite.label "Citata">
+<!ENTITY styleCite.accesskey "c">
+<!ENTITY styleAbbr.label "Santrumpa">
+<!ENTITY styleAbbr.accesskey "s">
+<!ENTITY styleAcronym.label "Akronimas">
+<!ENTITY styleAcronym.accesskey "o">
+<!ENTITY styleCode.label "Programos tekstas">
+<!ENTITY styleCode.accesskey "m">
+<!ENTITY styleSamp.label "Rezultato pavyzdys">
+<!ENTITY styleSamp.accesskey "z">
+<!ENTITY styleVar.label "Kintamasis">
+<!ENTITY styleVar.accesskey "i">
+
+<!ENTITY formatFontColor.label "Teksto spalva…">
+<!ENTITY formatfontcolor.accesskey "a">
+<!ENTITY tableOrCellColor.label "Fono spalva…">
+<!ENTITY tableOrCellColor.accesskey "F">
+
+<!ENTITY formatremovestyles.keybinding "y">
+<!ENTITY formatremovelinks.keybinding "k">
+<!ENTITY formatRemoveNamedAnchors.label "Pašalinti žymes">
+<!ENTITY formatRemoveNamedAnchors.accesskey "ž">
+<!ENTITY formatremovenamedanchors.keybinding "a">
+
+<!ENTITY formatindent.keybinding "]">
+<!ENTITY formatoutdent.keybinding "[">
+<!ENTITY paragraphMenu.label "Pastraipa">
+<!ENTITY formatparagraphmenu.accesskey "P">
+<!ENTITY paragraphParagraphCmd.label "Pastraipa">
+<!ENTITY paragraphparagraph.accesskey "P">
+<!ENTITY heading1Cmd.label "Antraštė 1">
+<!ENTITY heading1.accesskey "1">
+<!ENTITY heading2Cmd.label "Antraštė 2">
+<!ENTITY heading2.accesskey "2">
+<!ENTITY heading3Cmd.label "Antraštė 3">
+<!ENTITY heading3.accesskey "3">
+<!ENTITY heading4Cmd.label "Antraštė 4">
+<!ENTITY heading4.accesskey "4">
+<!ENTITY heading5Cmd.label "Antraštė 5">
+<!ENTITY heading5.accesskey "5">
+<!ENTITY heading6Cmd.label "Antraštė 6">
+<!ENTITY heading6.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Adresas">
+<!ENTITY paragraphaddress.accesskey "A">
+<!ENTITY paragraphPreformatCmd.label "Tekstas be HTML formatų">
+<!ENTITY paragraphpreformat.accesskey "T">
+<!ENTITY paragraphBlockquoteCmd.label "Įtrauka">
+<!ENTITY paragraphblockquote.accesskey "t">
+
+<!-- List menu items -->
+<!ENTITY formatlistMenu.label "Sąrašas">
+<!ENTITY formatlistmenu.accesskey "r">
+<!ENTITY noneCmd.label "Nėra">
+<!ENTITY none.accesskey "n">
+<!ENTITY listBulletCmd.label "Ženklintas">
+<!ENTITY listbullet.accesskey "ž">
+<!ENTITY listNumberedCmd.label "Numeruotas">
+<!ENTITY listnumbered.accesskey "N">
+<!ENTITY listTermCmd.label "Sąvokos pavadinimas">
+<!ENTITY listterm.accesskey "v">
+<!ENTITY listDefinitionCmd.label "Sąvokos aprašas">
+<!ENTITY listdefinition.accesskey "r">
+<!ENTITY listProps.label "Sąrašo savybės…">
+<!ENTITY listprops.accesskey "s">
+
+<!ENTITY ParagraphSelect.tooltip "Pasirinkti pastraipos formatą">
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Tik eilučių laužymas">
+<!ENTITY bodytext.accesskey "ž">
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "Papildoma taisa">
+<!ENTITY advancedproperties.accesskey "p">
+
+<!ENTITY NormalAbbr.label "Tekstas">
+<!ENTITY ParagraphAbbr.label "P">
+<!ENTITY Heading1Abbr.label "H1">
+<!ENTITY Heading2Abbr.label "H2">
+<!ENTITY Heading3Abbr.label "H3">
+<!ENTITY Heading4Abbr.label "H4">
+<!ENTITY Heading5Abbr.label "H5">
+<!ENTITY Heading6Abbr.label "H6">
+<!ENTITY BlockquoteAbbr.label "BQ">
+<!ENTITY AddressAbbr.label "Adresas">
+<!ENTITY PreformatAbbr.label "Pre.">
+
+<!-- Style Sheet submenu NOT IMPLEMENTED -->
+<!ENTITY stylesheetMenu.label "Taikyti stilių (CSS)">
+<!ENTITY formatstylesheetmenu.accesskey "y">
+
+<!-- Align menu items -->
+<!ENTITY alignMenu.label "Lygiuotė">
+<!ENTITY formatalignmenu.accesskey "u">
+<!ENTITY alignLeft.label "Pagal kairįjį kraštą">
+<!ENTITY alignleft.accesskey "k">
+<!ENTITY alignLeft.tooltip "Lygiuoti kairįjį kraštą">
+<!ENTITY alignCenter.label "Centruoti">
+<!ENTITY aligncenter.accesskey "c">
+<!ENTITY alignCenter.tooltip "Centruoti">
+<!ENTITY alignRight.label "Pagal dešinįjį kraštą">
+<!ENTITY alignright.accesskey "d">
+<!ENTITY alignRight.tooltip "Lygiuoti dešinįjį kraštą">
+<!ENTITY alignJustify.label "Pagal abu kraštus">
+<!ENTITY alignjustify.accesskey "b">
+<!ENTITY alignJustify.tooltip "Lygiuoti abu kraštus">
+
+<!-- Layer toolbar items -->
+<!ENTITY layer.tooltip "Sluoksniai">
+<!ENTITY layerSendToBack.tooltip "Perkelti į užnugarį">
+<!ENTITY layerBringToFront.tooltip "Perkelti į priekį">
+
+<!ENTITY increaseIndent.label "Padidinti įtrauką">
+<!ENTITY increaseindent.accesskey "n">
+<!ENTITY increaseindentkb "=">
+<!ENTITY decreaseIndent.label "Sumažinti įtrauką">
+<!ENTITY decreaseindent.accesskey "m">
+<!ENTITY decreaseindentkb "-">
+
+<!ENTITY grid.label "Tinklelis">
+<!ENTITY grid.accesskey "t">
+
+<!ENTITY pageProperties.label "Laiško antraštė ir savybės…">
+<!ENTITY pageproperties.accesskey "v">
+<!ENTITY colorsAndBackground.label "Laiško spalvos ir fonas…">
+<!ENTITY colorsandbackground.accesskey "f">
+
+<!-- Table Menu -->
+<!ENTITY tableMenu.label "Lentelė">
+<!ENTITY tablemenu.accesskey "L">
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Pažymėti">
+<!ENTITY tableselectmenu.accesskey "ž">
+
+<!ENTITY tableSelectMenu2.label "Pažymėti lentelę">
+<!ENTITY tableInsertMenu2.label "Įterpti lentelę">
+<!ENTITY tableDeleteMenu2.label "Pašalinti lentelę">
+
+<!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Įterpti">
+<!ENTITY tableinsertmenu.accesskey "e">
+<!ENTITY tableTable.label "Lentelę">
+<!ENTITY tabletable.accesskey "L">
+<!ENTITY tableRow.label "Eilutę">
+<!ENTITY tableRows.label "Eilutę(-es)">
+<!ENTITY tablerow.accesskey "E">
+<!ENTITY tableRowAbove.label "Eilutę virš">
+<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowBelow.label "Eilutę po">
+<!ENTITY tablerowbelow.accesskey "i">
+<!ENTITY tableColumn.label "Stulpelį">
+<!ENTITY tableColumns.label "Stulpelį(-ius)">
+<!ENTITY tablecolumn.accesskey "S">
+<!ENTITY tableColumnBefore.label "Stulpelį prieš">
+<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnAfter.label "Stulpelį po">
+<!ENTITY tablecolumnafter.accesskey "t">
+<!ENTITY tableCell.label "Langelį">
+<!ENTITY tableCells.label "Langelį(-ius)">
+<!ENTITY tablecell.accesskey "a">
+<!ENTITY tableCellContents.label "Langelio turinį">
+<!ENTITY tablecellcontents.accesskey "t">
+<!ENTITY tableAllCells.label "Visus langelius">
+<!ENTITY tableCellBefore.label "Langelius prieš">
+<!ENTITY tableallcells.accesskey "V">
+<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellAfter.label "Langelius po">
+<!ENTITY tablecellafter.accesskey "n">
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Pašalinti">
+<!ENTITY tabledeletemenu.accesskey "š">
+
+<!ENTITY tableFix.label "Fiksuoti lentelės išdėstymą">
+<!ENTITY tablefix.accesskey "f">
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+<!ENTITY tableJoinCells.label "u">
+<!ENTITY tablejoincells.accesskey "u">
+<!ENTITY tableSplitCell.label "Skaidyti langelį">
+<!ENTITY tablesplitcell.accesskey "k">
+<!ENTITY convertToTable.label "Tekstą paversti lentele…">
+<!ENTITY converttotable.accesskey "l">
+<!ENTITY tableProperties.label "Lentelės savybės…">
+<!ENTITY tableProperties.accesskey "v">
+
+<!-- Tools Menu -->
+<!ENTITY toolsmenu.accesskey "l">
+<!ENTITY toolbrowser.accesskey "b">
+<!ENTITY toolplaineditor.accesskey "p">
+<!ENTITY toolsetfocus.accesskey "f">
+
+<!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "Meniu juosta">
+<!ENTITY compositionToolbar.tooltip "Taisos mygtukų juosta">
+<!ENTITY formatToolbar.tooltip "Formatavimo priemonių juostą">
+<!ENTITY newToolbarCmd.tooltip "Kurti naują tinklalapį">
+<!ENTITY openToolbarCmd.label "Atverti">
+<!ENTITY openToolbarCmd.tooltip "Atverti failą iš šio kompiuterio">
+<!ENTITY saveToolbarCmd.tooltip "Įrašyti failą į diską">
+<!ENTITY publishToolbarCmd.tooltip "Nusiųsti failą į nuotolinį kompiuterį">
+<!ENTITY previewToolbarCmd.label "Naršyklė">
+<!ENTITY previewToolbarCmd.tooltip "Peržiūrėti šį tinklalapį naršykle">
+<!ENTITY printToolbarCmd.label "Spausdinti">
+<!ENTITY printToolbarCmd.tooltip "Spausdinti šį tinklalapį">
+<!ENTITY findToolbarCmd.label "Ieškoti">
+<!ENTITY findToolbarCmd.tooltip "Ieškoti šiame tinklalapyje">
+<!ENTITY spellToolbarCmd.label "Rašyba">
+<!ENTITY spellToolbarCmd.tooltip "Tikrinti viso laiško arba pažymėtos jo dalies rašybą">
+<!ENTITY imageToolbarCmd.label "Paveikslas">
+<!ENTITY imageToolbarCmd.tooltip "Įterpti paveikslą arba taisyti pažymėto paveikslo savybes">
+<!ENTITY hruleToolbarCmd.label "Horizontalė">
+<!ENTITY hruleToolbarCmd.tooltip "Įterpti horizontalią liniją arba taisyti pažymėtos linijos savybes">
+<!ENTITY tableToolbarCmd.label "Lentelė">
+<!ENTITY tableToolbarCmd.tooltip "Įterpti lentelę arba taisyti pažymėtos lentelės savybes">
+<!ENTITY linkToolbarCmd.label "Saitas">
+<!ENTITY linkToolbarCmd.tooltip "Įterpti saitą arba taisyti pažymėto saito savybes">
+<!ENTITY anchorToolbarCmd.label "Žymė">
+<!ENTITY anchorToolbarCmd.tooltip "Įterpti žymę arba taisyti pažymėtos žymės savybes">
+<!ENTITY textColorCaption.label "Teksto spalva">
+<!ENTITY TextColorButton.tooltip "Pasirinkti teksto spalvą">
+<!ENTITY BackgroundColorButton.tooltip "Parinkti fono spalvą">
+<!ENTITY throbber.tooltip "Atverti &vendorShortName; tinklalapį">
+<!ENTITY HighlightColorButton.tooltip "Parinkti teksto žymėjimo spalvą">
+
+<!-- Editor toolbar -->
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Sumažinti šriftą">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Padidinti šriftą">
+<!ENTITY boldToolbarCmd.tooltip "Pusjuodis">
+<!ENTITY italicToolbarCmd.tooltip "Kursyvas">
+<!ENTITY underlineToolbarCmd.tooltip "Pabrauktas">
+<!ENTITY bulletListToolbarCmd.tooltip "Ženklinti (panaikinti ženklinimą)">
+<!ENTITY numberListToolbarCmd.tooltip "Numeruoti (panaikinti numeravimą)">
+<!ENTITY outdentToolbarCmd.tooltip "Sumažinti įtrauką">
+<!ENTITY indentToolbarCmd.tooltip "Padidinti įtrauką">
+<!ENTITY AlignPopupButton.tooltip "Pasirinkti teksto lygiuotę">
+<!ENTITY InsertPopupButton.tooltip "Įterpti saitą, žymę, horizontalę arba lentelę">
+<!ENTITY alignLeftButton.tooltip "Lygiuoti kairįjį kraštą">
+<!ENTITY alignCenterButton.tooltip "Centruoti">
+<!ENTITY alignRightButton.tooltip "Lygiuoti dešinįjį kraštą">
+<!ENTITY alignjustifyButton.tooltip "Lygiuoti abu kraštus">
+
+<!-- Formatting toolbar not used, but may be in future -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+
+<!-- Used with color pickers in Format toolbar and Format Menu -->
+<!ENTITY colorPicker.default.label "Spalvų neparinkti">
+<!ENTITY colorPicker.default.accesskey "s">
+<!ENTITY colorLabel.label "Spalva:">
+<!ENTITY ok.label "Gerai">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normalusis">
+<!ENTITY NormalMode.label "Normalusis">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Rodyti lentelių rėmelius ir žymes">
+<!ENTITY AllTagsMode.label "Su gairių ženklais">
+<!ENTITY AllTagsMode.accesskey "r">
+<!ENTITY AllTagsMode.tooltip "Rodyti HTML gairių ženklus">
+
+<!ENTITY HTMLSourceMode.label "Pirminis tekstas">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
+<!ENTITY SourceMode.label "Pirminis tekstas">
+<!ENTITY HTMLSourceMode.accesskey "t">
+<!ENTITY HTMLSourceMode.tooltip "Taisyti laiško pirminį tekstą">
+<!ENTITY PreviewMode.label "Peržiūra">
+<!ENTITY PreviewMode.accesskey "ž">
+<!ENTITY PreviewMode.tooltip "Rodyti tikrąjį vaizdą (kaip naršyklėje)">
+
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
+<!ENTITY SourceTabDirection "ltr">
+
+<!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Pažymėti">
+<!ENTITY structSelect.accesskey     "ž">
+<!ENTITY structRemoveTag.label      "Pašalinti gairę">
+<!ENTITY structRemoveTag.accesskey  "š">
+<!ENTITY structChangeTag.label      "Pakeisti gairę">
+<!ENTITY structChangeTag.accesskey  "k">
+
+<!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Įterpti…">
+<!ENTITY insertTOC.accesskey      "e">
+<!ENTITY updateTOC.label          "Atnaujinti">
+<!ENTITY updateTOC.accesskey      "n">
+<!ENTITY removeTOC.label          "Pašalinti">
+<!ENTITY removeTOC.accesskey      "š">
+<!ENTITY tocMenu.label            "Turinys">
+<!ENTITY tocMenu.accesskey        "u">

@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Laiškų pristatymo pažymos">
+<!ENTITY useGlobalPrefs.label       "Šiai paskyrai naudoti bendrąsias laiškų pristatymo pažymų nuostatas">
+<!ENTITY useGlobalPrefs.accesskey   "b">
+<!ENTITY useCustomPrefs.label       "Keisti laiškų pristatymo pažymų nuostatas šiai paskyrai">
+<!ENTITY useCustomPrefs.accesskey   "K">
+<!ENTITY requestAlways.label        "Siunčiant laišką, visada prašyti pristatymo pažymos">
+<!ENTITY requestAlways.accesskey    "v">
+<!ENTITY optionTitle.label          "Prašyti pažymos apie:">
+<!ENTITY requestOnSucess.label      "Sėkmingą pristatymą">
+<!ENTITY requestOnSucess.accesskey  "S">
+<!ENTITY requestOnFailure.label     "Nesėkmingą pristatymą">
+<!ENTITY requestOnFailure.accesskey "N">
+<!ENTITY requestOnDelay.label       "Delsimą pristatant">
+<!ENTITY requestOnDelay.accesskey   "D">
+<!ENTITY requestNever.label         "Niekada neprašyti laiško pristatymo pažymos">
+<!ENTITY requestNever.accesskey     "N">

@@ -1,0 +1,115 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY itemGeneral.label       "Bendrosios">
+<!ENTITY itemUpdate.label        "Atnaujinimas">
+<!ENTITY itemNetworking.label    "Tinklas ir disko atmintis">
+<!ENTITY itemCertificates.label  "Liudijimai">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
+<!ENTITY showCondensedAddresses.accesskey "į">
+
+<!ENTITY autoMarkAsRead.label          "Atvertus laiškus pažymėti kaip skaitytus">
+<!ENTITY autoMarkAsRead.accesskey      "v">
+<!ENTITY markAsReadNoDelay.label       "iškart">
+<!ENTITY markAsReadNoDelay.accesskey   "i">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+	  using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "praėjus">
+<!ENTITY markAsReadDelay.accesskey     "p">
+<!ENTITY secondsLabel.label            "sek.">
+<!ENTITY showFolderColumns.label       "Rodyti pašto aplankų polangio stulpelius">
+<!ENTITY showFolderColumns.accesskey   "d">
+<!ENTITY rememberLastMsg.label         "Įsiminti paskiausiai pažymėtą laišką">
+<!ENTITY rememberLastMsg.accesskey     "ž">
+<!ENTITY openMsgIn.label               "Atveriamą laišką rodyti:">
+<!ENTITY reuseExpRadio0.label          "naujame lange">
+<!ENTITY reuseExpRadio0.accesskey      "n">
+<!ENTITY reuseExpRadio1.label          "tame pačiame (atvertame) lange">
+<!ENTITY reuseExpRadio1.accesskey      "t">
+<!ENTITY reuseExpRadio2.label          "naujoje kortelėje">
+<!ENTITY reuseExpRadio2.accesskey      "k">
+<!ENTITY connectionTimeout.label       "Prisijungimo laiko limitas: ">
+<!ENTITY connectionTimeout.accesskey   "r">
+<!ENTITY connectionSeconds.label       "sek.">
+<!ENTITY configEditDesc.label          "Papildoma sąranka (patyrusiems naudotojams).">
+<!ENTITY configEdit.label              "Visų parametrų sąrašas…">
+<!ENTITY configEdit.accesskey          "a">
+<!ENTITY returnReceiptsInfo.label      "Parinkite „&brandShortName;“ pažymų apie pristatytus laiškus valdymo nuostatas">
+<!ENTITY showReturnReceipts.label      "Laiškų pristatymo pažymos…">
+<!ENTITY showReturnReceipts.accesskey  "L">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Periodiškai tikrinti, ar yra naujinimų:">
+<!ENTITY enableAppUpdate.label          "programai „&brandShortName;“">
+<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAddonsUpdate.label       "įdiegtiems programos priedams">
+<!ENTITY enableAddonsUpdate.accesskey   "e">
+<!ENTITY checkNow.label                 "Tikrinti dabar">
+<!ENTITY whenUpdatesFound.label         "Radus „&brandShortName;“ naujinimų:">
+<!ENTITY modeAskMe.label                "pranešti ir paklausti, ką daryti">
+<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAutomatic.label            "automatiškai atsiųsti ir įdiegti">
+<!ENTITY modeAutomatic.accesskey        "a">
+<!ENTITY modeAutoAddonWarn.label        "įspėti, jei naujinimas gali būti nesuderinamas su įdiegtais priedais">
+<!ENTITY modeAutoAddonWarn.accesskey    "ė">
+<!ENTITY showUpdates.label              "Rodyti atnaujinimo žurnalą">
+<!ENTITY showUpdates.accesskey          "ž">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Ryšys…">
+<!ENTITY showConnections.accesskey     "R">
+<!ENTITY proxiesInfo.label             "Parinkite „&brandShortName;“ interneto ryšio nuostatas">
+<!ENTITY connectionsInfo.caption       "Ryšys">
+<!ENTITY offlineInfo.caption           "Atsijungimas nuo tinklo">
+<!ENTITY offlineInfo.label             "Parinkite darbo atsijungus nuo tinklo nuostatas">
+<!ENTITY showOffline.label             "Darbas atsijungus nuo tinklo…">
+<!ENTITY showOffline.accesskey         "D">
+
+<!ENTITY Diskspace "Disko atmintis">
+<!ENTITY offlineCompact.label "Suglaudinti aplankus, jei tai padės sutaupyti daugiau kaip">
+<!ENTITY offlineCompact.accesskey "S">
+<!ENTITY kb.label "KB">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo2.label        "Parinkite liudijimų, atšauktų liudijimų sąrašų, liudijimų patikros ir saugumo priemonių nuostatas.">
+<!ENTITY viewCertificates.label         "Liudijimų peržiūra">
+<!ENTITY viewCertificates.accesskey     "L">
+<!ENTITY viewCRLs.label                 "Atšauktų sąrašai">
+<!ENTITY viewCRLs.accesskey             "A">
+<!ENTITY validation.label               "Patikra">
+<!ENTITY validation.accesskey           "P">
+<!ENTITY viewSecurityDevices.label      "Saugumo priemonės">
+<!ENTITY viewSecurityDevices.accesskey  "S">
+

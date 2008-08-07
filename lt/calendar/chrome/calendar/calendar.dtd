@@ -1,0 +1,403 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 ArentJan Banck <ajbanck@planet.nl>
+   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
+   -                 Matthew Willis <mattwillis@gmail.com>
+   -                 Simon Paquet <bugzilla@babylonsounds.com>
+   -                 Stefan Sitter <ssitter@gmail.com>
+   -                 Philipp Kewisch <mozilla@kewis.ch>
+   -                 Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -                 Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- General -->
+<!ENTITY calendar.file.default.name  "Mano kalendorius" >
+<!ENTITY calendar.calendar.label     "Kalendorius">
+<!ENTITY calendar.calendar.accesskey "K">
+
+<!ENTITY calendar.confirm.deleteallevents  "Ar tikrai norite pašalinti visus pažymėtus įvykius?" >
+<!ENTITY calendar.confirm.deleteevent "Ar tikrai norite pašalinti įvykį: " >
+<!ENTITY calendar.confirm.deleteuntitledevent "Ar tikrai norite pašalinti šį neįvardytą įvykį?" >
+
+<!ENTITY calendar.flat.topbar.choosedate       "Eiti į datą…" >
+<!ENTITY calendar.flat.topbar.dayview          "Diena" >
+<!ENTITY calendar.dayview.accesskey            "D" >
+<!ENTITY calendar.flat.topbar.weekview         "Savaitė" >
+<!ENTITY calendar.weekview.accesskey           "S" >
+<!ENTITY calendar.flat.topbar.monthview        "Mėnuo" >
+<!ENTITY calendar.monthview.accesskey          "M" >
+<!ENTITY calendar.flat.topbar.multiweekview    "Kelios savaitės" >
+<!ENTITY calendar.multiweekview.accesskey      "K" >
+<!ENTITY calendar.dayView.key                  "1" >
+<!ENTITY calendar.weekView.key                 "2" >
+<!ENTITY calendar.multiweekView.key            "3" >
+<!ENTITY calendar.monthView.key                "4" >
+
+<!ENTITY calendar.newtask.button.tooltip          "Aprašyti naują darbą" >
+<!ENTITY calendar.newevent.button.tooltip         "Aprašyti naują įvykį" >
+<!ENTITY calendar.delete.button.tooltip           "Pašalinti pažymėtą įvykį" >
+<!ENTITY calendar.edit.button.tooltip             "Taisyti pažymėtą įvykį" >
+
+<!ENTITY calendar.unifinder.todoitems.label           "Darbai" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label  "Rodyti užbaigtus darbus">
+
+<!ENTITY calendar.calendartab.label          "Data">
+<!ENTITY calendar.listofcalendarstab.label   "Kalendoriai">
+<!ENTITY calendar.today.button.label         "Šiandiena" >
+<!ENTITY calendar.tomorrow.button.label      "Rytdiena">
+<!ENTITY calendar.soon.button.label          "Netrukus">
+
+<!ENTITY calendar.events.filter.all.label "Visi įvykiai">
+<!ENTITY calendar.events.filter.today.label "Šios dienos įvykiai">
+<!ENTITY calendar.events.filter.future.label "Visi būsimieji įvykiai">
+<!ENTITY calendar.events.filter.current.label "Pažymėtos dienos įvykiai">
+<!ENTITY calendar.events.filter.next7Days.label "Įvykiai per artimiausias 7 dienas">
+<!ENTITY calendar.events.filter.next14Days.label "Įvykiai per artimiausias 14 dienų">
+<!ENTITY calendar.events.filter.next31Days.label "Įvykiai per artimiausią 31 dieną">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Šio kalendorinio mėnesio įvykiai">
+
+<!ENTITY calendar.unifinder.tree.done.label          "Atlikta">
+<!ENTITY calendar.unifinder.tree.priority.label      "Prioritetas">
+<!ENTITY calendar.unifinder.tree.title.label         "Pavadinimas">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Įvykdyta">
+<!ENTITY calendar.unifinder.tree.startdate.label     "Pradžia">
+<!ENTITY calendar.unifinder.tree.enddate.label       "Pabaiga">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Terminas">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Užbaigtas">
+<!ENTITY calendar.unifinder.tree.categories.label    "Tipas">
+<!ENTITY calendar.unifinder.tree.location.label      "Vieta">
+<!ENTITY calendar.unifinder.tree.status.label        "Eiga">
+<!ENTITY calendar.unifinder.tree.calendarname.label  "Kalendoriaus pavadinimas">
+<!ENTITY calendar.unifinder.tree.duration.label      "Likęs laikas">
+<!ENTITY calendar.unifinder.close.tooltip            "Užverti įvykių paiešką ir įvykių sąrašą">
+<!ENTITY calendar.find.key                           "F">
+
+<!ENTITY calendar.today.button.tooltip            "Eiti į šios dienos kalendorių" >
+<!ENTITY calendar.todaypane.button.tooltip        "Rodyti šiandienos polangį" >
+<!ENTITY calendar.choosedate.button.tooltip       "Parinkti datą, kur eiti" >
+<!ENTITY calendar.unifinder.button.tooltip        "Rasti ir išvardinti įvykius" >
+
+<!ENTITY calendar.day.button.tooltip          "Rodyti dienos kalendorių" >
+<!ENTITY calendar.week.button.tooltip         "Rodyti savaitės kalendorių" >
+<!ENTITY calendar.month.button.tooltip        "Rodyti mėnesio kalendorių" >
+<!ENTITY calendar.multiweek.button.tooltip    "Rodyti kelių savaičių kalendorių" >
+
+<!ENTITY calendar.nextday.button.tooltip        "Tolesnė diena" >
+<!ENTITY calendar.prevday.button.tooltip        "Ankstesnė diena" >
+<!ENTITY calendar.nextweek.button.tooltip       "Tolesnė savaitė" >
+<!ENTITY calendar.prevweek.button.tooltip       "Ankstesnė savaitė" >
+<!ENTITY calendar.nextmonth.button.tooltip      "Tolesnis mėnuo" >
+<!ENTITY calendar.prevmonth.button.tooltip      "Ankstesnis mėnuo" >
+
+<!ENTITY calendar.newtask.button.label          "Naujas darbas" >
+<!ENTITY calendar.newevent.button.label         "Naujas įvykis" >
+<!ENTITY calendar.delete.button.label           "Pašalinti" >
+<!ENTITY calendar.edit.button.label             "Taisyti" >
+
+<!ENTITY calendar.choosedate.button.label       "Parinkti datą" >
+
+<!ENTITY calendar.cut.button.tooltip            "Iškirpti" >
+<!ENTITY calendar.copy.button.tooltip           "Kopijuoti" >
+<!ENTITY calendar.paste.button.tooltip          "Įdėti" >
+<!ENTITY calendar.print.button.tooltip          "Spausdinti kalendorių" >
+
+<!ENTITY calendar.cut.button.label              "Iškirpti" >
+<!ENTITY calendar.copy.button.label             "Kopijuoti" >
+<!ENTITY calendar.paste.button.label            "Įdėti" >
+<!ENTITY calendar.print.button.label            "Spausdinti" >
+
+<!ENTITY calendar.import.button.tooltip            "Importuoti įvykius iš failo." >
+<!ENTITY calendar.export.button.tooltip            "Eksportuoti įvykius į failą." >
+<!ENTITY calendar.subscribe.button.tooltip         "Prenumeruoti kalendorių, esantį nutolusiame kompiuteryje." >
+<!ENTITY calendar.publish.button.tooltip           "Publikuoti įvykių aprašus į nutolusį kompiuterį." >
+
+<!ENTITY calendar.export.calendar                "Eksportuoti kalendorių…" >
+
+<!ENTITY calendar.import.button.label              "Importuoti" >
+<!ENTITY calendar.export.button.label              "Eksportuoti" >
+<!ENTITY calendar.subscribe.button.label           "Prenumeruoti" >
+<!ENTITY calendar.publish.button.label             "Publikuoti" >
+<!ENTITY calendar.unifinder.button.label           "Rasti įvykius" >
+
+<!ENTITY calendar.remotereload.button.label   "Atšviežinti" >
+<!ENTITY calendar.remotereload.button.tooltip   "Įkelti iš naujo visus nutolusius kalendorius" >
+
+<!ENTITY calendar.day.button.label          "Diena" >
+<!ENTITY calendar.week.button.label         "Savaitė" >
+<!ENTITY calendar.month.button.label        "Mėnuo" >
+<!ENTITY calendar.multiweek.button.label        "Kelios savaitės" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Tik darbadieniai" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "T" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Rodyti darbus" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "R" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Rodyti užbaigtus darbus" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "b" >
+
+<!ENTITY calendar.orientation.label "Pasukti vaizdą" >
+<!ENTITY calendar.orientation.accesskey "s" >
+
+<!ENTITY calendar.menu.options.close.key        "W">
+
+<!ENTITY calendar.search.options.searchfor "turintys:">
+
+<!ENTITY calendar.menu.numberofweeks.label     "Savaičių skaičius" >
+<!ENTITY calendar.menu.numberofweeks.accesskey "a" >
+<!ENTITY calendar.menu.numberofweeks.2      "2 savaitės" >
+<!ENTITY calendar.menu.numberofweeks.3      "3 savaitės" >
+<!ENTITY calendar.menu.numberofweeks.4      "4 savaitės" >
+<!ENTITY calendar.menu.numberofweeks.5      "5 savaitės" >
+<!ENTITY calendar.menu.numberofweeks.6      "6 savaitės" >
+
+<!ENTITY calendar.list.header.label                 "Kalendorius">
+
+<!ENTITY calendar.task.filter.title.label           "Rodyti">
+<!ENTITY calendar.task.filter.all.label             "Viską">
+<!ENTITY calendar.task.filter.all.accesskey         "V">
+<!ENTITY calendar.task.filter.today.label           "Šią dieną">
+<!ENTITY calendar.task.filter.today.accesskey       "d">
+<!ENTITY calendar.task.filter.next7days.label       "Artimiausias 7 dienas">
+<!ENTITY calendar.task.filter.next7days.accesskey   "A">
+<!ENTITY calendar.task.filter.notstarted.label      "Nepradėtus darbus">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "N">
+<!ENTITY calendar.task.filter.overdue.label         "Vėluojančius darbus">
+<!ENTITY calendar.task.filter.overdue.accesskey     "l">
+<!ENTITY calendar.task.filter.completed.label       "Užbaigtus darbus">
+<!ENTITY calendar.task.filter.completed.accesskey   "U">
+<!ENTITY calendar.task.filter.open.label            "Nebaigtus darbus">
+<!ENTITY calendar.task.filter.open.accesskey        "b">
+
+<!ENTITY calendar.task.details.title.label           "Pavadinimas:">
+<!ENTITY calendar.task.details.organizer.label       "Nuo:">
+<!ENTITY calendar.task.details.priority2.label       "Prioritetas:">
+<!ENTITY calendar.task.details.priority.low.label    "Žema">
+<!ENTITY calendar.task.details.priority.normal.label "Normali">
+<!ENTITY calendar.task.details.priority.high.label   "Aukšta">
+<!ENTITY calendar.task.details.status.label          "Būsena:">
+<!ENTITY calendar.task.details.category.label        "Tipas:">
+<!ENTITY calendar.task.details.repeat.label          "Pasikartojimas:">
+
+<!ENTITY calendar.task.category.button.tooltip  "Priskirti darbams tipus">
+<!ENTITY calendar.task.complete.button.tooltip  "Parinktus darbus pažymėti kaip užbaigtus">
+<!ENTITY calendar.task.priority.button.tooltip  "Keisti prioritetą">
+<!ENTITY calendar.task.delete.button.tooltip    "Pašalinti parinktą darbą">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label            "Dokumentas baigtas">
+
+<!-- customizable toolbars -->
+<!ENTITY calendar.context.customize.label             "Tvarkyti…">
+<!ENTITY calendar.context.customize.accesskey         "T">
+<!ENTITY calendar.menu.customize.label                "Tvarkyti…">
+<!ENTITY calendar.menu.customize.accesskey            "T">
+<!ENTITY calendar.maintoolbar.name                    "Pagrindinė">
+<!ENTITY calendar.maintoolbar.accesskey               "P">
+
+<!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label      "Atverti">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "A">
+<!ENTITY calendar.context.modifyorviewtask.label      "Atverti darbą…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "A">
+<!ENTITY calendar.context.newevent.label              "Naujas įvykis…">
+<!ENTITY calendar.context.newevent.accesskey          "N">
+<!ENTITY calendar.context.newtodo.label               "Naujas darbas…">
+<!ENTITY calendar.context.newtodo.accesskey           "d">
+<!ENTITY calendar.context.modifytask.label            "Redaguoti darbą…">
+<!ENTITY calendar.context.modifytask.accesskey        "R">
+<!ENTITY calendar.context.modifyitem.label            "Redaguoti įrašą…">
+<!ENTITY calendar.context.modifyitem.accesskey        "R">
+<!ENTITY calendar.context.deletetask.label            "Pašalinti darbą">
+<!ENTITY calendar.context.deletetask.accesskey        "š">
+<!ENTITY calendar.context.deleteitem.label            "Pašalinti">
+<!ENTITY calendar.context.deleteitem.accesskey        "š">
+<!ENTITY calendar.context.deleteevent.label           "Pašalinti įvykį">
+<!ENTITY calendar.context.deleteevent.accesskey       "š">
+<!ENTITY calendar.context.deletethisevent.label       "Tik šį įvykį">
+<!ENTITY calendar.context.deletethisevent.accesskey   "Š">
+<!ENTITY calendar.context.deletecompleteseries.label  "Visus pasikartojimus">
+<!ENTITY calendar.context.deletecompleteseries.accesskey   "V">
+<!ENTITY calendar.context.deletefutureevents.label     "Pasikartojimus ateityje">
+<!ENTITY calendar.context.deletefutureevents.accesskey "a">
+<!ENTITY calendar.context.deletefuturetasks.label     "Pasikartojimus ateityje">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "a">
+<!ENTITY calendar.context.cutevent.label              "Iškirpti">
+<!ENTITY calendar.context.cutevent.accesskey          "r">
+<!ENTITY calendar.context.copyevent.label             "Kopijuoti">
+<!ENTITY calendar.context.copyevent.accesskey         "K">
+<!ENTITY calendar.context.pasteevent.label            "Įdėti">
+<!ENTITY calendar.context.pasteevent.accesskey        "d">
+<!ENTITY calendar.context.selectall.label             "Pažymėti visus">
+<!ENTITY calendar.context.selectall.accesskey         "v">
+<!ENTITY calendar.context.button.label                "Šiandienos polangis" >
+<!ENTITY calendar.context.button.accesskey            "p" >
+
+<!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "Eiga">
+<!ENTITY calendar.context.progress.accesskey          "E">
+<!ENTITY calendar.context.priority.label              "Prioritetas">
+<!ENTITY calendar.context.priority.accesskey          "P">
+
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
+
+<!ENTITY calendar.context.markcompleted.label         "Žymėti kaip užbaigtą">
+<!ENTITY calendar.context.markcompleted.accesskey     "b">
+
+<!ENTITY progress.level.0              "0&percnt; atlikta">
+<!ENTITY progress.level.0.accesskey    "0">
+<!ENTITY progress.level.25             "25&percnt; atlikta">
+<!ENTITY progress.level.25.accesskey   "2">
+<!ENTITY progress.level.50             "50&percnt; atlikta">
+<!ENTITY progress.level.50.accesskey   "5">
+<!ENTITY progress.level.75             "75&percnt; atlikta">
+<!ENTITY progress.level.75.accesskey   "7">
+<!ENTITY progress.level.100            "100&percnt; atlikta">
+<!ENTITY progress.level.100.accesskey  "1">
+
+<!ENTITY priority.level.none                "Neapibrėžtas">
+<!ENTITY priority.level.none.accesskey      "e">
+<!ENTITY priority.level.low                 "Žemas">
+<!ENTITY priority.level.low.accesskey       "Ž">
+<!ENTITY priority.level.normal              "Normalus">
+<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.high                "Aukštas">
+<!ENTITY priority.level.high.accesskey      "A">
+
+<!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Naujas kalendorius…">
+<!ENTITY calendar.context.newserver.accesskey          "N">
+<!ENTITY calendar.context.findcalendar.label           "Rasti kalendorių…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "R" >
+<!ENTITY calendar.context.deleteserver.label           "Pašalinti kalendorių">
+<!ENTITY calendar.context.deleteserver.accesskey       "š">
+<!ENTITY calendar.context.reloadserver.label           "Atnaujinti nuotolinius kalendorius">
+<!ENTITY calendar.context.reloadserver.accesskey       "A">
+<!ENTITY calendar.context.publish.label                "Publikuoti šį kalendorių">
+<!ENTITY calendar.context.publish.accesskey            "P">
+<!ENTITY calendar.context.export.label                 "Eksportuoti kalendorių…">
+<!ENTITY calendar.context.export.accesskey             "E">
+<!ENTITY calendar.context.properties.label             "Savybės">
+<!ENTITY calendar.context.properties.accesskey         "S">
+
+<!ENTITY calendar.context.convertmenu.label                "Konvertuoti į">
+<!ENTITY calendar.context.convertmenu.accesskey.mail       "e">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar   "o">
+<!ENTITY calendar.context.convertmenu.event.label          "Įvykį…">
+<!ENTITY calendar.context.convertmenu.event.accesskey      "v">
+<!ENTITY calendar.context.convertmenu.message.label        "Pranešimą…">
+<!ENTITY calendar.context.convertmenu.message.accesskey    "P">
+<!ENTITY calendar.context.convertmenu.task.label           "Darbą…">
+<!ENTITY calendar.context.convertmenu.task.accesskey       "D">
+
+<!ENTITY calendar.tasks.view.minimonth.label           "Mini mėnuo">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
+
+<!ENTITY calendar.tasks.view.calendarlist.label        "Kalendorių sąrašas">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "K">
+
+<!ENTITY calendar.tasks.view.filtertasks.label         "Filtruoti darbus">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey     "F">
+
+<!-- Calendar Alarm Dialog -->
+<!ENTITY calendar.alarm.location.label              "Vieta:" >
+<!ENTITY calendar.alarm.details.label               "Išsamiau…" >
+
+<!ENTITY calendar.alarm.snoozefor.label             "Atidėti" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Atidėti visus" >
+<!ENTITY calendar.alarm.title.label                 "Kalendoriaus priminimas" >
+<!ENTITY calendar.alarm.dismiss.label               "Atšaukti" >
+<!ENTITY calendar.alarm.dismissall.label            "Atšaukti visus" >
+
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 minutėms" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 minučių" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 minučių" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minučių" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minutėms" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 valandai" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 valandoms" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 dienai" >
+
+<!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Kalendoriaus aprašo taisymas">
+<!ENTITY calendar.server.dialog.name.label          "Kalendoriaus avadinimas:">
+
+<!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label    "Spalva:">
+<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label   "CalDAV">
+<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label   "Tipas:">
+<!ENTITY calendarproperties.location.label "Vieta:">
+<!ENTITY calendarproperties.name.label     "Pavadinimas:">
+<!ENTITY calendarproperties.readonly.label "Skirtas tik skaitymui">
+<!ENTITY calendarproperties.cache.label    "Kešuojamas (EKSPERIMENTINĖ GALIMYBĖ, reikės perleisti programą)">
+<!ENTITY calendarproperties.firealarms.label "Rodyti priminimus">
+<!ENTITY calendarproperties.enabled.label  "Naudoti šį kalendorių">
+
+<!-- Sunbird Help -->
+<!ENTITY calendar.help.label               "Žinyno turinys">
+<!ENTITY calendar.help.accesskey           "Ž">
+
+<!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title     "Kalendoriaus publikavimas">
+<!ENTITY calendar.publish.url.label        "URL publikavimui:">
+<!ENTITY calendar.publish.publish.button   "Publikuoti">
+<!ENTITY calendar.publish.close.button     "Užverti">
+
+<!ENTITY calendar.publish.example.url.description   "Pavyzdys: http://www.serveris.lt/kalendorius/pvz.ics">
+
+<!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Pažymėti kalendorių">
+
+<!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Kalendoriaus spausdinimas">
+<!ENTITY calendar.print.title.label "Pavadinimas:">
+<!ENTITY calendar.print.layout.label "Išdėstymas:">
+<!ENTITY calendar.print.range.label "Ką spausdinti">
+<!ENTITY calendar.print.currentview.label "Dabar rodomus įvykius">
+<!ENTITY calendar.print.selected.label "Pažymėtus įvykius">
+<!ENTITY calendar.print.custom.label "Parinktą laiko tarpą:">
+<!ENTITY calendar.print.from.label "Nuo:">
+<!ENTITY calendar.print.to.label "Iki:">
+<!ENTITY calendar.print.settingsGroup.label "Spaudinys">
+
+<!-- Error reporting -->
+<!ENTITY calendar.error.detail "Detaliau…">
+<!ENTITY calendar.error.number "Klaidos kodas:">
+<!ENTITY calendar.error.description "Aprašas:">
+<!ENTITY calendar.error.title "Įvyko klaida">
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">

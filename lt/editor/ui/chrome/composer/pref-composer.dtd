@@ -1,0 +1,39 @@
+<!-- extracted from content/pref-composer.xul -->
+
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "Rašyklė">
+
+<!ENTITY  saving                    "Įrašymas">
+<!ENTITY  AutoSaveCheck             "Automatiškai įrašyti kas">
+<!ENTITY  minText                   "min.">
+
+<!ENTITY  exterLegend.label         "Išorinė rašyklė">
+<!ENTITY  htmlSource                "HTML pirminis tekstas:">
+<!ENTITY  imageeditor               "Paveikslai:">
+<!ENTITY  chooseButton.label        "Parinkti">
+
+<!ENTITY  recentFiles.title         "Paskiausiai atvertų tinklalapių sąrašas">
+<!ENTITY  documentsInMenu.label     "Didžiausias tinklalapių skaičius sąraše::">
+<!ENTITY  documentsInMenu.accesskey "D">
+
+<!ENTITY  savingFiles.title             "Įrašant ar publikuojant tinklalapius:">
+<!ENTITY  preserveExisting.label        "Išlaikyti originalų pirminio teksto išdėstymą">
+<!ENTITY  preserveExisting.accesskey    "o">
+<!ENTITY  preserveExisting.tooltip      "Išlaikyti eilučių laužymą ir originalų tinklalapio formatą">
+<!ENTITY  saveAssociatedFiles.label     "Paveikslus ir kitus su tinklalapiu susietus failus įrašyti kartu su tinklalapiu">
+<!ENTITY  saveAssociatedFiles.accesskey "P">
+<!ENTITY  showPublishDialog.label       "Kai publikuojamas tinklalapis, rodyti publikavimo dialogą">
+<!ENTITY  showPublishDialog.accesskey   "K">
+
+<!ENTITY  composerEditing.label         "Taisa">
+<!ENTITY  spellCheckInline.label        "Tikrinti rašybą renkant tekstą">
+<!ENTITY  spellCheckInline.accesskey    "T">
+<!ENTITY  maintainStructure.label       "Įterpus arba pašalinus langelius, išlaikyti lentelės stačiakampį pavidalą">
+<!ENTITY  maintainStructure.tooltip     "Pašalinus pažymėtus lentelės langelius, jos forma išlieka stačiakampė">
+<!ENTITY  maintainStructure.accesskey   "M">
+<!ENTITY  useCSS.label                  "Vietoj HTML elementų ir atributų naudoti CSS pakopinius stilius">
+<!ENTITY  useCSS.accesskey              "V">
+<!ENTITY  crInPCreatesNewP.label        "Pradėti naują pastraipą paspaudus įvesties klavišą">
+<!ENTITY  crInPCreatesNewP.accesskey    "R">

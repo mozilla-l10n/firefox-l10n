@@ -1,0 +1,72 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY dialog.title                 "Siuntimo parinktys">
+<!ENTITY sendMail.title               "Siunčiamo teksto tipai">
+<!ENTITY sendMaildesc.label           "Išsiunčiant laiškus raiškiuoju tekstu (HTML) gali paaiškėti, kad esama adresatų, neįtrauktų į gavėjų, galinčių priimti tokį tekstą, sąrašą. Tuomet:">
+<!ENTITY askMe.label                  "įspėti">
+<!ENTITY askMe.accesskey              "s">
+<!ENTITY convertPlain.label           "konvertuoti laišką į grynąjį tekstą">
+<!ENTITY convertPlain.accesskey       "k">
+<!ENTITY sendHTML.label               "laišką vis vien siųsti raiškiuoju tekstu">
+<!ENTITY sendHTML.accesskey           "v">
+<!ENTITY sendBoth.label               "išsiųsti laišką abiejų tipų (HTML ir grynuoju) tekstais">
+<!ENTITY sendBoth.accesskey           "ų">
+<!ENTITY receiveHTML.label            "Žinodami, kad adresatas gali gauti paštą raiškiuoju tekstu, adresų knygos adresato kortelėje nežymėkite parinkties „Laiškus siųsti grynuoju tekstu“.">
+<!ENTITY override.label               "Pastaba. Adresatams tinkamus laiškų tekstų tipus galima nurodyti adresų knygos kortelėse.">
+
+<!ENTITY domaindesc.label             "Galima nurodyti pašto sričių pavadinimus (pvz., netscape.net), kurie yra el. pašto adresuose tų gavėjų, kurių pašto programos supranta laiškus, parašytus raiškiuoju tekstu, lygiai taip ir tų, kurių programos gali priimti tik grynojo teksto laiškus. Kai siųsite laiškus adresatams, kurių adresas yra kurioje nors iš nurodytų sričių, pašto programa pati parinks tinkamą teksto tipą.">
+<!ENTITY HTMLTab.label                "HTML sritys">
+<!ENTITY HTMLTab.accesskey            "h">
+<!ENTITY PlainTextTab.label           "Grynojo teksto sritys">
+<!ENTITY PlainTextTab.accesskey       "G">
+<!ENTITY AddHtmlDomain.label          "Įtraukti…">
+<!ENTITY AddHtmlDomain.accesskey      "t">
+<!ENTITY AddPlainText.label           "Įtraukti…">
+<!ENTITY AddPlainText.accesskey       "r">
+<!ENTITY DeleteHtmlDomain.label       "Pašalinti">
+<!ENTITY DeleteHtmlDomain.accesskey   "P">
+<!ENTITY DeletePlainText.label        "Pašalinti">
+<!ENTITY DeletePlainText.accesskey    "a">
+
+<!ENTITY add.htmltitle                "HTML srities vardo įtraukimas">
+<!ENTITY add.htmldomain               "Srities, priimančios HTML teksto laiškus, vardas:">
+<!ENTITY add.htmldomain.accesskey     "v">
+<!ENTITY add.plaintexttitle           "Grynojo teksto srities vardo įtraukimas">
+<!ENTITY add.plaintextdomain          "Srities, priimančios grynojo teksto laiškus, vardas:">
+<!ENTITY add.plaintext.accesskey      "v">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Netinkamas srities vardas">
+<!ENTITY duplicationError.label       "Sities vardas @string@ sąraše jau yra.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Srities vardas gali būti tik viename sąsaše. Vardas @string@ jau įtrauktas į vieną iš sąrašų.">

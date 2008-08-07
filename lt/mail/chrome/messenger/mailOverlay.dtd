@@ -1,0 +1,8 @@
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Laiškas">
+<!ENTITY  newMessageCmd.accesskey         "L">
+ 
+<!ENTITY  newCardCmd.label                "Adresatas">
+<!ENTITY  newCardCmd.accesskey            "A">
+ 

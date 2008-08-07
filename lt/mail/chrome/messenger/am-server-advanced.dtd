@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "Papildomos paskyros nuostatos">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "Papilodmos IMAP serverio nuostatos">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP serverio šakninis aplankas:">
+<!ENTITY serverDirectory.accesskey "š">
+<!ENTITY usingSubscription.label "Rodyti tik prenumeruotus aplankus">
+<!ENTITY usingSubscription.accesskey "R">
+<!ENTITY dualUseFolders.label "Serveris turi darbo su poaplankiais priemones">
+<!ENTITY dualUseFolders.accesskey "S">
+<!ENTITY useIdle.label "Naudoti komandą IDLE, jei serveris ją supranta">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Didžiausias serverio prisijungimų prie podėlio skaičius">
+<!ENTITY maximumConnectionsNumber.accesskey "D">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Šios nuostatos apibrėžia IMAP serverio vardų sritis">
+<!ENTITY personalNamespace.label "Asmeninė vardų sritis:">
+<!ENTITY personalNamespace.accesskey "A">
+<!ENTITY publicNamespace.label "Viešoji (bendro naudojimo):">
+<!ENTITY publicNamespace.accesskey "V">
+<!ENTITY otherUsersNamespace.label "Kitų naudotojų:">
+<!ENTITY otherUsersNamespace.accesskey "K">
+<!ENTITY overrideNamespaces.label "Leisti serveriui keisti šias vardų sritis">
+<!ENTITY overrideNamespaces.accesskey "L">
+<!ENTITY pop3Desc.label "Naujus iš šio serverio POP3 protokolu gautus laiškus laikyti:" >
+<!ENTITY folderStorage.label "Kur laikyti paštą">
+<!ENTITY globalInbox.label "bendrųjų aplankų gautų laiškų poaplankyje">
+<!ENTITY globalInbox.accesskey "b">
+<!ENTITY accountDirectory.label "šio serverio paskyros gautų laiškų aplanke">
+<!ENTITY accountDirectory.accesskey "š">
+<!ENTITY deferToServer.label "kitos paskyros gautų laiškų aplanke">
+<!ENTITY deferToServer.accesskey "k">
+<!ENTITY deferGetNewMail.label "Tikrinant paštą, įtraukti ir šį serverį">
+<!ENTITY deferGetNewMail.accesskey "T">

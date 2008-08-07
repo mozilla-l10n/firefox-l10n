@@ -1,0 +1,55 @@
+<!ENTITY itemJunk.label          "Šlamštas">
+<!ENTITY itemPhishing.label      "Apgaulingi laiškai">
+<!ENTITY itemPasswords.label     "Slaptažodžiai">
+<!ENTITY itemAntiVirus.label     "Antivirusinė apsauga">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Šlamšto kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.">
+<!ENTITY manualMark.label "Pažymėjus, kad laiškas yra šlamštas:">
+<!ENTITY manualMark.accesskey "P">
+<!ENTITY manualMarkModeMove.label "perkelti jį į paskyros aplanką „Šlamštas“">
+<!ENTITY manualMarkModeMove.accesskey "k">
+<!ENTITY manualMarkModeDelete.label "pašalinti jį">
+<!ENTITY manualMarkModeDelete.accesskey "š">
+<!ENTITY markAsReadOnSpam.label "Laiškus, turinčius šlamšto statusą, žymėti kaip skaitytus">
+<!ENTITY markAsReadOnSpam.accesskey "L">
+<!ENTITY enableJunkLogging.label "Įrašyti šlamšto filtravimo veiksmus">
+<!ENTITY enableJunkLogging.accesskey "r">
+<!ENTITY openJunkLog.label "Rodyti žurnalą">
+<!ENTITY openJunkLog.accesskey "ž">
+<!ENTITY resetTrainingData.label "Atstatyti automatinės kontrolės duomenis">
+<!ENTITY resetTrainingData.accesskey "t">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro      "Analizuodama gaunamus laiškus programa gali patikrinti, ar juose nėra apgaulės.">
+<!ENTITY enablePhishingDetector1.label    "Tikrinti, ar gaunamuose laiškuose nėra apgaulės">
+<!ENTITY enablePhishingDetector1.accesskey  "T">
+<!ENTITY useDownloadedList.label "Naudoti atsiųstą įtartinų laiškų sąrašą">
+<!ENTITY useDownloadedList.accesskey "N">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "Programa gali įsiminti visų paskyrų slaptažodžius. Kitą kartą jungiantis prie paskyrų, šie duomenys bus imami iš atminties – jų rinkti nereikės.">
+<!ENTITY  encryptEnabled.label        "Įrašytus slaptažodžius šifruoti naudojant pagrindinį slaptažodį">
+<!ENTITY  encryptEnabled.accesskey    "r">
+<!ENTITY  masterPassword.intro        "Pagrindinis slaptažodis apsaugos visus Jūsų slaptažodžius. Jis pateikiamas programai vieną kartą per seansą.">
+<!ENTITY  setMasterPassword.label     "Pagrindinis slaptažodis">
+<!ENTITY  setMasterPassword.accesskey "P">
+<!ENTITY  removeMasterPassword.label  "Pašalinti pagrindinį slaptažodį…">
+<!ENTITY  removeMasterPassword.accesskey "š">
+<!ENTITY  editPasswords.label         "Tvarkyti įrašytus slaptažodžius">
+<!ENTITY  editPasswords.accesskey     "T">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "Prieš įrašydama gaunamus laiškus programa gali tikrinti, ar juose nėra virusų.">
+<!ENTITY antiVirus.label      "Leisti antivirusinei programai izoliuoti įtartinus laiškus">
+<!ENTITY antiVirus.accesskey  "L">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "Antivirusinė programa">
+<!ENTITY paswords.label         "Slaptažodžiai">
+<!ENTITY emailScams.label       "Apgaulingi laiškai">
+<!ENTITY junkMail.label         "Šlamštas">
+<!ENTITY itemIntrusions.label   "Grėsmės">
+<!ENTITY itemIntrusionsAndPasswords.label  "Grėsmės ir slaptažodžiai">
+<!ENTITY itemJunkMail.label     "Šlamštas">
+

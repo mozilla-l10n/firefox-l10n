@@ -1,0 +1,49 @@
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Suskleisti">
+<!ENTITY bringAllToFront.label    "Viską į priekinį planą">
+<!ENTITY zoomWindow.label         "Keisti dydį">
+<!ENTITY windowMenu.label         "Langas">
+
+<!ENTITY helpMenu.label           "Žinynas"> 
+<!ENTITY helpMenu.accesskey       "Ž"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Žinynas"> 
+<!ENTITY helpMenuWin.accesskey    "Ž">
+<!ENTITY aboutCmd.label           "Apie „&brandFullName;“">
+<!ENTITY aboutCmd.accesskey       "A">
+<!ENTITY helpContents.label       "Žinyno turinys">
+<!ENTITY helpContents.accesskey   "Ž">
+<!ENTITY helpContentsMac.label    "„&brandShortName;“ žinynas">
+<!ENTITY helpForIEUsers.label     "Informacija „Internet Explorer“ naudotojams">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey      "VK_F1">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey           "/">
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
+
+<!ENTITY helpReleaseNotes.label         "Laidos informacija">
+<!ENTITY helpReleaseNotes.accesskey     "L">
+<!ENTITY updateCmd.label                "Tikrinti, ar yra naujinimų…">
+<!ENTITY updateCmd.accesskey            "T">
+
+<!ENTITY preferencesCmdMac.label        "Nuostatos…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+
+<!ENTITY servicesMenuMac.label          "Paslaugos">
+
+<!ENTITY hideThisAppCmdMac.label        "Nerodyti &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Nerodyti kitų">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label        "Rodyti viską">
+

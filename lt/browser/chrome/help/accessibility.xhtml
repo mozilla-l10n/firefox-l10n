@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+  Gintautas Grigas <grigas@ktl.mii.lt> (Lithuanian translation)
+  Tatjana Jevsikova <tatjanaj@ktl.mii.lt> (Lithuanian translation)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Naršyklės pritaikymas neįgaliesiems</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Naršyklės pritaikymas neįgaliesiems</h1>
+
+  <p>Naršyklė „&brandShortName;“ turi daugelį funkcijų, palengvinančių darbą su ja, o taip
+       pat žiniatinklio skaitymą tiems, kieno sutrikęs regėjimas, negalintiems laisvai naudotis
+       pele arba klaviatūra, arba turintiems kitokių negalių.</p>
+
+  <div class="contentsBox">
+    <ul>
+    <li><a href="#using_a_keyboard">Klaviatūra</a></li>
+    <li><a href="#using_a_mouse">Pelė</a></li>
+    <li><a href="#fonts_and_colors">Šriftai ir spalvos</a></li>
+    <li><a href="#controlling_web_content">Žiniatinklio skaitymas</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Suderinamumas
+      su pagalbos priemonėmis (anglų k.)</a></li>
+    <li><a href="#finding_help_online">Pagalbos internete radimas (anglų k.)</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Klaviatūra</h2>
+
+  <h3 id="keyboard_shortcuts">Spartieji klavišai</h3>
+
+  <p>Daugiausia naudojamų sparčiųjų klavišų sąrašas yra sk.
+    <a href="shortcuts.xhtml">Klaviatūros spartieji klavišai</a>.
+    Internete yra naršyklių „&brandShortName;“, „Microsoft Internet Explorer“ ir „Opera“
+    sparčiųjų klavišų <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">palyginimo lentelė</a> (anglų k.).</p>
+
+ <h3 id="always_use_cursor_keys">Naršymui tinklalapyje naudoti rodyklių klavišus</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Ši funkcija</a> leidžia judėti tinklalapio
+    tekstu spaudant klaviatūros klavišus lygiai taip, kaip ir dirbant su įprasta žiūrykle. 
+    Galima pažymėti dalį tinklalapio ir nukopijuoti ją į iškarpinę. Šią funkciją taip pat galima
+    įjungti arba išjungti spaudant klavišą <kbd>F7</kbd>.
+    Paspaudus <kbd>F7</kbd>, programa paklaus, ar tikrai norite šią funkciją įjungti.
+    Jei nenorite, kad ateityje klausinėtų, pažymėkite langelį <em>Šio lango ateity neberodyti.</em></p>
+
+  <h3 id="find_as_you_type">Paiešką pradėti pradėjus rinkti tekstą</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Ši funkcija </a> padeda greitai rasti reikiamą vietą
+    tinklalapyje. Veikia dvejopai. Surinkus <abbr title="dešininį brūkšnį"><kbd>/</kbd>
+    </abbr> renkamo teksto pradžioje, to teksto bus ieškoma bet kur tinklalapyje, o
+    surinkus <abbr title="apostrofą"><kbd>'</kbd></abbr> – tik saituose. Rastas tekstas bus
+    paryškinamas.</p>
+
+  <p>Keletas patarimų, kaip naudotis paieška:</p>
+
+  <ul>
+    <li>Renkant daugiau ženklų paieška darosi tikslesnė, nes ilgesniam surinktam žodžiui randama
+      mažiau atitikmenų. Kai neliks nė vieno atitikmens, naršyklė praneš apie tai.</li>
+    <li>Paspaudus &accelKey;+<kbd>G</kbd> arba <kbd>F3</kbd> bus randamas tolesnis surinkto
+      teksto atitikmuo.</li>
+    <li>Paspaudus &accelKey;+&shiftKey;+<kbd>G</kbd> arba &shiftKey;+<kbd>F3</kbd>
+      bus grįžtama prie ankstesnio rasto atitikmens.</li>
+    <li>Paspaudus naikinimo klavišą bus panaikintas paskutinis surinktas ženklas ir rodomas
+      paryškintas ankstesnės (trumpesnės) frazės atitikmuo.</li>
+    <li>Paspaudus grįžimo klavišą bus nutraukta paieška. Paieška taip pat nutraukiama perkėlus žymeklį
+      į kitą vietą, paslinkus tinklalapiu arba praėjus tam tikram laikui po paskutinio klavišo paspaudimo.</li>
+  </ul>
+
+  <p>Numatytąją šios funkcijos veikseną galima pakeisti pasirinkus
+    &pref.menuPath;, toliau <em>Kitkas</em>,  atvėrus kortelę <em>Bendrosios</em> ir
+    pažymėjus langelį <em>Paiešką pradėti pradėjus rinkti tekstą</em>.  Kai šis langelis pažymėtas, 
+    bet kada pradėjus rinkti tekstą kartu prasidės ir jo paieška.  Bus ieškoma visur – ir įprastame tekste,
+    ir saituose. Jeigu prieš tai bus paspaustas  <abbr title="apostrofą"><kbd>'</kbd></abbr>
+    arba  <abbr title="dešininį brūkšnį"><kbd>/</kbd></abbr>, tai teksto bus ieškoma arba tik
+    saituose, arba tik įprastame tekste.</p>
+
+  <p>Spaudant tabuliavimo klavišą peršokama (perkeliamas židinys) nuo vieno valdiklio (mygtuko,
+    teksto langelio ir kt.) prie kito. Jeigu prieš tai buvo ieškoma teksto, tai paspaudus tabuliavimo
+    klavišą bus peršokama ant artimiausio valdiklio po rastu tekstu.</p>
+
+  <h2 id="using_a_mouse">Pelė</h2>
+
+  <h3 id="common_mouse_shortcuts">Pelės spartieji klavišai</h3>
+
+  <p>Žr. <a href="mouse_shortcuts.xhtml">&brandShortName; Pelės sparčiųjų klavišų</a> sąrašą.</p>
+
+  <h2 id="fonts_and_colors">Šriftai ir spalvos</h2>
+
+  <h3 id="overriding_page_fonts">Tinklalapyje nurodytų šriftų nepaisymas</h3>
+
+  <p>Yra tinklalapių, kuriuose tekstas pateikiamas sunkiai įskaitomu šriftu.
+    Šriftas tinklalapyje gali būti ir nenurodytas. Tada jo tekstas rodomas naršyklės (t. y. naršyklėje
+    nustatytais) šriftais. Naršyklės šriftai nustatomi pasirinkus &pref.menuPath;, atvėrus langą
+    <em>Žiniatinklis</em>. Lango srityje <em>Šriftai ir spalvos</em> galima parinkti šriftus,
+    jų dydžius ir spalvas.</p>
+
+  <p>Galima parinkti šriftus skirtingiems šriftų stiliams: su užraitais, be užraitų ir lygiapločiams
+    paspaudus mygtuką <em>Kitkas</em>. Naršyklės šriftai bus taikomi tinklalapiams, kuriuose
+    šriftas nenurodytas. Jeigu tinklalapyje šriftas nurodytas, tai jis tuo šriftu jis bus rodomas. Norint
+    kad būtų rodoma naršyklės šriftu nepaisant koks šriftas yra tinklalapyje, reikia
+    panaikinti langelio <em>Vartoti tinklalapiuose nurodytus šriftus (nepaisant čia pasirinktų)</em>.</p>
+
+  <p>Gali pasitaikyti tinklalapių, kuriems teisingai parodyti reikalingas tinklalapio šriftas. 
+    Naršyklės šriftu jie gali būti rodomi nekorektiškai.</p>
+
+  <h3 id="setting_a_minimum_font_size">Minimalus šrifto dydis</h3>
+
+  <p>Yra tinklalapių, kuriuose gali būti nustatytas per smulkus šriftas. Tam, kad juos būtų
+    lengviau skaityti, galima nurodyti minimalų šrifto dydį. Jeigu tinkalapyje bus nurodytas
+    mažesnis šriftas, tai naršyklė jį padidins iki joje nustatyto minimalaus dydžio.</p>
+
+  <p>Minimalus šrifto dydis nustatomas pasirinkus &pref.menuPath;, atvėrus langą
+    <em>Žiniatinklis</em> ir srityje <em>Šriftai ir spalvos</em> paspaudus mygtuką
+   <em>Kitkas</em>. Dydis parenkamas iš išskleidžiamojo meniu.</p>
+
+  <p>Gali pasitaikyti tinklalapių, kuriems teisingai parodyti reikalingas tinklalapio šrifto dydis. 
+    Padidintu naršyklės šriftu jie gali būti rodomi nekorektiškai.</p>
+
+  <h3 id="resizing_page_text">Teksto aukščio keitimas</h3>
+
+  <p>Galima operatyviai, bet laikinai, pakeisti teksto aukštį iš meniu
+    <span class="menuPath">Rodymas &gt; Teksto aukštis</span>.
+    Pakeitimas nustos galioti kai bus užvertas naršyklės langas arba kortelė.</p>
+
+  <p>Teksto aukštį galima reguliuoti klaviatūra:</p>
+
+  <ul>
+    <li>Spaudant &accelKey;+<kbd><abbr title="pliusas">+</abbr></kbd> tekstas
+      bus didinamas tokiais šuoliais lyginant su originaliu dydžiu:
+      120%, 150%, 200%, 300%, 450%, 675%, 1013% ir 1519%.</li>
+    <li>Spaudant &accelKey;+<kbd><abbr title="minusas">-</abbr></kbd> tekstas
+      bus mažinamas tokiais šuoliais lyginant su originaliu dydžiu:
+      90%, 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2% ir 1%.</li>
+    <li>Paspaudus &accelKey;+<kbd>0</kbd> bus atstatytas originalus
+      teksto auštis – toks, koks nurodytas tinklalapyje.</li>
+  </ul>
+
+  <p>Gali pasitaikyti tinklalapių, kuriems teisingai parodyti reikalingas tinklalapio teksto auštis.
+     Pakeisto aukščio tekstas gali būti rodomas nekorektiškai.</p>
+
+  <h3 id="overriding_page_colors">Tinklalapyje nurodytų spalvų nepaisymas</h3>
+
+  <p>Yra tinklalapių, kuriuose gali būti nustatytos skaitymui nepatogios teksto
+    arba fono spalvos. Kituose tinklalapiuose spalvos gali būti nenurodytos. Tada
+    jie rodomi naršyklėje nustatytomis spalvomis. Naršyklės spalvos nustatomos
+    parinkus &pref.menuPath;, atvėrus langą <em>Žiniatinklis</em> ir srityje
+    <em>Šriftai ir spalvos</em> paspaudus mygtuką <em>Spalvos</em>. Čia taip
+    pat nustatomos aplankytų ir neaplankytų saitų spalvos. Galima nustatyti, ar
+    saitų tekstus reikia pabraukti.</p>
+
+  <p>Naršyklės spalvos bus taikomos tinklalapiams, kuriuose jos
+    nenurodytos. Jeigu tinklalapyje spalvos nurodytos, tai jomis ir bus rodomas
+    tinklalapis. Norint kad būtų naudojamos naršyklėje nustatytos spalvos nepaisant kokios
+    jos yra tinklalapyje, reikia panaikinti langelio <em>Spalvas rodyti iš tinklalapių,
+    nepaisant čia parinktų</em>, žymėjimą.</p>
+
+   <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Kontrastingas rodymas</h3>
+
+    <p>Jeigu operacinėje sistemoje nustatytas kontrastingas rodymas, tai šią
+      nuostatą naršyklė aptinka ir viską rodo taip, kaip ten nustatyta
+      nepaisant nei tinklalapių, nei naršyklės nuostatų. Kontrastingai rodomi
+      ne tik tinklalapiai, bet ir naršyklės sąsaja (meniu, dialogo langai ir kt.).</p>
+
+    <p class="win">Kontrastingas rodymas nustatomas iš operacinės sistemos
+      pasirinkus <span class="menuPath">pradėti (Start Menu) &gt; Valdymo skydas
+      (Control Panel) &gt; Neįgaliųjų parinktys (Accessibility Options) &gt;
+      Rodyti (Display)</span> ir pažymėjus langelį
+      <em>Naudoti kontrastingą vaizdą (Use High Contrast)</em>.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Žiniatinklio skaitymas</h2>
+
+  <h3 id="blocking_popup_windows">Iškylančiųjų langų blokavimas</h3>
+
+  <p>Žr. sk. <a href="popup.xhtml">Iškylančiųjų langų valdymas</a>.</p>
+
+  <h3 id="turning_off_java_applets">Javos programėlių blokavimas</h3>
+
+  <p>Yra tinklalapių, kuriuose intensyviai naudojamos interaktyvios Javos&trade;
+    programėlės. Tačiau programėlės, kurios aktyvina tinklalapio elementus, gali
+    sudaryti nepatogumų žiniatinklio skaitytojui, kuris naršymui naudoja klaviatūrą.
+    Nepatogumų išvengti galima užblokavus programėles. Tam reikia pasirinkti
+    &pref.menuPath;, atverti langą <em>Žiniatinklis</em> ir panaikinti langelio
+    <em>Leisti naudoti Javą</em> žymėjimą.</p>
+
+  <h3 id="restricting_javascript_behavior">Ribojimai „JavaScript“ scenarijams</h3>
+
+  <p>„JavaScript“ scenarijus galima visiškai užblokuoti pasirinkus
+    &pref.menuPath;, po to parinktį <em>Žiniatinklis</em> ir panaikinus
+    langelio <em>Leisti „JavaScript“</em> žymėjimą. Tačiau yra
+    tinklalapių, kurie be „JavaScript“ scenarijų negali veikti.</p>
+
+  <p>Jeigu nenorite „JavaScript“ scenarijų užblokuoti  visiškai, galite
+    apriboti jų veikimą. Dešiniau langelio <em>Leisti naudoti „JavaScript“</em>
+    paspauskite  mygtuką <em>Kitkas</em>. Atsivers langas
+    <em>„JavaScript“ nuostatos</em>.  Čia galima nustatyti, ką leisti
+    scenarijams: keisti esamų langų padėtį, dydį ir aktyvumą, tvarkyti kontekstinius
+    meniu, slėpti būsenos juostą, keisti tekstą būsenos juostoje.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Suderinamumas su pagalbos priemonėmis</h2>
+
+  <p>Naujausia informacija apie suderinamumą su pagalbos ir pritaikymo
+neįgaliesiems priemonėmis skelbiama
+<a target="_blank" href="http://www.mozilla.org/access/compatibility">„Mozillos“ suderinamumo svetainėje</a> (anglų k.).</p>
+
+  <h2 id="finding_help_online">Pagalbos internete radimas</h2>
+
+  <div class="win">
+
+    <p>„Freedom Scientific“
+     <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">el. pašto grupės
+ekranų skaitytuvų JAWS naudotojams</a> (anglų k.).</p>
+
+    <p>„GW Micro“
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">el. pašto grupės
+„Window Eyes“ naudotojams</a> (anglų k.).</p>
+  </div>
+
+  <p>Klausimus, susijusius su pritaikymu neįgaliesiems, <span class="win">taip pat</span> galima siųsti į 
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">„&brandShortName;“
+    priežiūros forumą</a>.</p>
+
+  <div class="contentsBox"><em>2006 m. rugpjūčio 29 d.</em></div>
+
+<p>&copy; &copyright.years; <em>Mozilla Help Viewer</em> projekto bendradarbiai</p>
+<p>&copy; Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2004–2008</p>
+
+</body>
+</html>

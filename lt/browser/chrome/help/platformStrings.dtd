@@ -1,0 +1,44 @@
+<!-- LOCALIZATION NOTE : This file contains platform-specific strings which
+                         occur in large numbers throughout Help docs.
+                         Generally, for these strings it's less code to store
+                         them here than to hard-code the value of the entity
+                         in every place it's used, or using an entity is less
+                         confusing than typing a string like the jumbled messes
+                         used below for "preference" and derivatives.  Feel free
+                         to add more strings here as long as you run them by the
+                         Help module owner first (to prevent excessive use of
+                         such strings when other methods are preferable). -->
+
+<!-- Options -->
+
+<!ENTITY pref.menuPath     '<span class="win menuPath">Priemonės –&gt; Nuostatos</span><span
+                              class="unix menuPath">Taisa –&gt; Nuostatos</span><span
+                              class="mac menuPath">&brandShortName; –&gt; Nuostatos</span>' >
+<!ENTITY pref.singular     '<span class="win">nuostata</span><span
+                             class="noWin">nuostata</span>' >
+<!ENTITY pref.plural       '<span class="win">nuostatos</span><span
+                             class="noWin">nuostatos</span>' >
+<!ENTITY pref.singularCaps '<span class="win">Nuostata</span><span
+                             class="noWin">Nuostata</span>' >
+<!ENTITY pref.pluralCaps   '<span class="win">Nuostatos</span><span
+                             class="noWin">Nuostatos</span>' >
+
+<!-- Keys -->
+
+<!ENTITY ctrlKey            '<kbd>Vald</kbd>' >
+<!ENTITY accelKey           '<kbd class="noMac">Vald</kbd><kbd
+                             class="mac">Cmd</kbd>' >
+<!ENTITY altKey             '<kbd class="noMac">Alt</kbd><kbd
+                             class="mac">Opt</kbd>' >
+<!ENTITY shiftKey           '<kbd class="noMac">Lyg2</kbd><kbd
+                             class="mac">Shift</kbd>' >
+<!ENTITY enterKey           '<kbd class="noMac">Įvesti</kbd><kbd
+                             class="mac">Return</kbd>' >
+
+<!-- Image Location Base URL -->
+
+<!ENTITY images.baseURL     'http://www.mozilla.org/projects/firefox/help/2.0'>
+
+<!-- Copyright years -->
+
+<!ENTITY copyright.years    '2003-2008'>

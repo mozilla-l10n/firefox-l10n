@@ -1,0 +1,136 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
+     in the Advanced pane are: "b", "j", "q", "z" -->
+
+<!ENTITY generalTab.label                "Bendrosios">
+
+<!ENTITY accessibility.label             "Valdymas">
+
+<!ENTITY useCursorNavigation.label       "Naršymui tinklalapyje naudoti rodyklių klavišus">
+<!ENTITY useCursorNavigation.accesskey   "N">
+<!ENTITY searchStartTyping.label         "Paiešką pradėti pradėjus rinkti tekstą">
+<!ENTITY searchStartTyping.accesskey     "P">
+<!ENTITY blockAutoRefresh.label          "Įspėti, jei svetainė bando nukreipti kitur arba atsiųsti tinklalapį iš naujo">
+<!ENTITY blockAutoRefresh.accesskey      "s">
+
+<!ENTITY browsing.label                  "Naršymas">
+
+<!ENTITY useAutoScroll.label             "Automatiškai slinkti dokumentą">
+<!ENTITY useAutoScroll.accesskey         "A">
+<!ENTITY useSmoothScrolling.label        "Slinkti tolygiai">
+<!ENTITY useSmoothScrolling.accesskey    "S">
+<!ENTITY checkSpelling.label             "Tikrinti rašybą renkant tekstą">
+<!ENTITY checkSpelling.accesskey         "k">
+
+<!ENTITY systemDefaults.label            "Numatytoji naršyklė">
+<!ENTITY alwaysCheckDefault.label        "Paleidžiant naršyklę „&brandShortName;“ tikrinti, ar ji yra numatytoji"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "e">
+<!ENTITY checkNow.label                  "Tikrinti dabar">
+<!ENTITY checkNow.accesskey              "d">
+
+<!ENTITY networkTab.label                "Tinklas">
+
+<!ENTITY connection.label                "Ryšys">
+
+<!ENTITY connectionDesc.label            "Parinkite „&brandShortName;“ ryšio su internetu nuostatas.">
+<!ENTITY connectionSettings.label        "Nuostatos…">
+<!ENTITY connectionSettings.accesskey    "N">
+
+<!ENTITY offlineStorage.label            "Podėlis">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Podėliui skirti iki">
+<!ENTITY useCacheBefore.accesskey        "P">
+<!ENTITY useCacheAfter.label             "MB disko atminties">
+<!ENTITY clearCacheNow.label             "Išvalyti dabar">
+<!ENTITY clearCacheNow.accesskey         "v">
+
+<!ENTITY updateTab.label                 "Atnaujinimas">
+
+<!ENTITY autoCheck.label                 "Automatiškai tikrinti, ar yra naujinimų:">
+<!ENTITY enableAppUpdate.label           "programai „&brandShortName;“">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "įdiegtiems programos priedams">
+<!ENTITY enableAddonsUpdate.accesskey    "p">
+<!ENTITY enableSearchUpdate.label        "ieškyklėms">
+<!ENTITY enableSearchUpdate.accesskey    "e">
+<!ENTITY whenUpdatesFound.label          "Jei „&brandShortName;“ naujinimas rastas, tai:">
+<!ENTITY askMe.label                     "pranešti ir paklausti, ką daryti">
+<!ENTITY askMe.accesskey                 "r">
+<!ENTITY modeAutomatic.label             "naujinimus atsiųsti automatiškai">
+<!ENTITY modeAutomatic.accesskey         "n">
+<!ENTITY modeAutoAddonWarn.label         "įspėti, jei naujinimas gali būti nesuderinamas su įdiegtais priedais">
+<!ENTITY modeAutoAddonWarn.accesskey     "ė">
+<!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
+<!ENTITY updateHistory.accesskey         "ž">
+
+<!ENTITY offlineNotify.label             "Pranešti, kai svetainė siūlo kompiuteryje išsaugoti duomenis, reikalingus darbui atsijungus nuo tinklo">
+<!ENTITY offlineNotify.accesskey         "P">
+<!ENTITY offlineNotifyExceptions.label   "Išimtys…">
+<!ENTITY offlineNotifyExceptions.accesskey "I">
+
+<!ENTITY offlineAppsList.label           "Šios svetainės turi išsaugojusios duomenų, reikalingų darbui atsijungus nuo tinklo:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Pašalinti…">
+<!ENTITY offlineAppsListRemove.accesskey "š">
+<!ENTITY offlineAppRemove.confirm        "Pašalinti darbui atsijungus skirtus duomenis">
+
+<!ENTITY encryptionTab.label             "Šifravimas">
+
+<!ENTITY protocols.label                 "Protokolai">
+<!ENTITY useSSL3.label                   "SSL 3.0">
+
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Liudijimai">
+<!ENTITY certSelection.description       "Svetainei paprašius mano liudijimo:">
+<!ENTITY certs.auto                      "parinkti jį automatiškai">
+<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.ask                       "visuomet klausti">
+<!ENTITY certs.ask.accesskey             "k">
+<!ENTITY viewCerts.label                 "Liudijimų peržiūra">
+<!ENTITY viewCerts.accesskey             "ž">
+<!ENTITY viewCRLs.label                  "Atšauktų liudijimų sąrašai">
+<!ENTITY viewCRLs.accesskey              "t">
+<!ENTITY verify2.label                   "Patikra">
+<!ENTITY verify2.accesskey               "P">
+<!ENTITY viewSecurityDevices.label       "Saugumo priemonės">
+<!ENTITY viewSecurityDevices.accesskey   "S">
+

@@ -1,0 +1,247 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title           "Archyvas">
+<!ENTITY places.library.width           "700">
+<!ENTITY places.library.height          "500">
+<!ENTITY organize.label                 "Tvarkyti">
+<!ENTITY organize.accesskey             "T">
+
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "Užverti">
+<!ENTITY file.close.accesskey           "U">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Taisa">
+<!ENTITY edit.accesskey                 "T">
+<!ENTITY views.label                    "Rodymas">
+<!ENTITY views.accesskey                "R">
+<!ENTITY view.toolbar.label             "Priemonių juosta">
+<!ENTITY view.toolbar.accesskey         "e">
+<!ENTITY view.columns.label             "Rodyti stulpelius">
+<!ENTITY view.columns.accesskey         "s">
+<!ENTITY view.sort.label                "Rikiavimas">
+<!ENTITY view.sort.accesskey            "R">
+<!ENTITY view.unsorted.label            "Nerikiuoti">
+<!ENTITY view.unsorted.accesskey        "N">
+<!ENTITY view.sortAscending.label       "Pagal abėcėlę">
+<!ENTITY view.sortAscending.accesskey   "a">
+<!ENTITY view.sortDescending.label      "Atvirkščiai">
+<!ENTITY view.sortDescending.accesskey  "v">
+<!ENTITY help.usingBookmarks.label      "Adresyno naudojimas">
+<!ENTITY help.usingBookmarks.accesskey  "A">
+<!ENTITY help.usingHistory.label        "Retrospektyvos naudojimas">
+<!ENTITY help.usingHistory.accesskey    "R">
+<!ENTITY help.advancedTips.label        "Papildomi patarimai">
+<!ENTITY help.advancedTips.accesskey    "P">
+
+<!ENTITY cmd.findInBookmarks.label      "Rasti adresyne…">
+<!ENTITY cmd.findInBookmarks.accesskey  "R">
+<!ENTITY cmd.findCurrent.label          "Rasti šiame rinkinyje…">
+<!ENTITY cmd.findCurrent.accesskey      "a">
+
+<!ENTITY cmd.exportHTML.label           "Eksportuoti HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "Importuoti HTML…">
+<!ENTITY cmd.importHTML.accesskey       "I">
+
+<!ENTITY cmd.backup.label               "Kurti atsarginę kopiją…">
+<!ENTITY cmd.backup.accesskey           "K">
+<!ENTITY cmd.restore2.label             "Atkurti">
+<!ENTITY cmd.restore2.accesskey         "A">
+<!ENTITY cmd.restoreFromFile.label      "Pasirinkite failą…">
+<!ENTITY cmd.restoreFromFile.accesskey  "f">
+
+<!ENTITY cmd.select_all.label           "Pažymėti viską">
+<!ENTITY cmd.select_all.accesskey       "v">
+<!ENTITY cmd.select_all.key             "a">
+
+<!ENTITY cmd.edit_cut.label             "Iškirpti">
+<!ENTITY cmd.edit_cut.accesskey         "r">
+<!ENTITY cmd.edit_cut.key               "x">
+<!ENTITY cmd.edit_copy.label            "Kopijuoti">
+<!ENTITY cmd.edit_copy.accesskey        "K">
+<!ENTITY cmd.edit_copy.key              "c">
+<!ENTITY cmd.edit_paste.label           "Įdėti">
+<!ENTITY cmd.edit_paste.accesskey       "d">
+<!ENTITY cmd.edit_paste.key             "v">
+<!ENTITY cmd.edit_delete.label          "Pašalinti">
+<!ENTITY cmd.edit_delete.accesskey      "š">
+<!ENTITY cmd.edit_undo.label            "Atšaukti">
+<!ENTITY cmd.edit_undo.accesskey        "A">
+<!ENTITY cmd.edit_undo.key              "z">
+<!ENTITY cmd.edit_redo.label            "Atstatyti">
+<!ENTITY cmd.edit_redo.accesskey        "t">
+<!ENTITY cmd.edit_redo.key              "y">
+
+<!ENTITY cmd.open.label                  "Atverti">
+<!ENTITY cmd.open.accesskey              "A">
+<!ENTITY cmd.open_window.label           "Atverti naujame lange">
+<!ENTITY cmd.open_window.accesskey       "l">
+<!ENTITY cmd.open_tab.label              "Atverti naujoje kortelėje">
+<!ENTITY cmd.open_tab.accesskey          "o">
+<!ENTITY cmd.open_all_in_tabs.label      "Atverti kortelėse">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "A">
+
+<!ENTITY cmd.properties.label            "Savybės">
+<!ENTITY cmd.properties.accesskey        "S">
+
+<!ENTITY cmd.show_info.key               "i">
+
+<!ENTITY cmd.rename.label                "Pervardyti">
+<!ENTITY cmd.rename.accesskey            "P">
+
+<!ENTITY cmd.sortby_name.label              "Rikiuoti pagal pavadinimą">
+<!ENTITY cmd.sortby_name.accesskey          "R">
+<!ENTITY cmd.context_sortby_name.accesskey  "R">
+
+<!ENTITY cmd.new_bookmark.label            "Naujas adresas…">
+<!ENTITY cmd.new_bookmark.accesskey        "N">
+<!ENTITY cmd.new_livemark.label            "Naujas kanalo adresas…">
+<!ENTITY cmd.new_livemark.accesskey        "k">
+<!ENTITY cmd.new_folder.label              "Naujas aplankas…">
+<!ENTITY cmd.new_folder.accesskey          "l">
+<!ENTITY cmd.context_new_folder.accesskey  "a">
+<!ENTITY cmd.new_separator.label           "Naujas skirtukas">
+<!ENTITY cmd.new_separator.accesskey       "s">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Įkelti sklaidos kanalą iš naujo">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "t">
+<!ENTITY cmd.reloadMicrosummary.label      "Atnaujinti kaičiąją antraštę">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "n">
+
+<!ENTITY cmd.groupby_site.label      "Grupuoti pagal svetainę">
+<!ENTITY cmd.groupby_site.accesskey  "s">
+<!ENTITY cmd.groupby_page.label      "Grupuoti pagal tinklalapį">
+<!ENTITY cmd.groupby_page.accesskey  "t">
+<!ENTITY cmd.groupby_feed.label      "Grupuoti pagal prenumeratą">
+<!ENTITY cmd.groupby_feed.accesskey  "p">
+<!ENTITY cmd.groupby_post.label      "Grupuoti pagal žinutę">
+<!ENTITY cmd.groupby_post.accesskey  "ž">
+
+<!ENTITY cmd.moveBookmarks.label                  "Perkelti…">
+<!ENTITY cmd.moveBookmarks.accesskey              "P">
+
+<!ENTITY col.name.label          "Pavadinimas">
+<!ENTITY col.tags.label          "Gairės">
+<!ENTITY col.url.label           "Adresas">
+<!ENTITY col.lastvisit.label     "Paskiausiai aplankytas">
+<!ENTITY col.visitcount.label    "Aplankymų kiekis">
+<!ENTITY col.keyword.label       "Reikšminis žodis">
+<!ENTITY col.description.label   "Aprašas">
+<!ENTITY col.dateadded.label     "Įtrauktas">
+<!ENTITY col.lastmodified.label  "Atnaujintas">
+
+<!ENTITY search.label                              "Ieškoti:">
+<!ENTITY search.accesskey                          "I">
+<!ENTITY search.collection.label                   "Tik šiame rinkinyje">
+<!ENTITY search.collection.accesskey               "r">
+<!ENTITY search.allBookmarks.label                 "Visame adresyne">
+<!ENTITY search.allBookmarks.accesskey             "a">
+<!ENTITY search.scopeFolder.label                  "Parinktame aplanke">
+<!ENTITY search.scopeFolder.accesskey              "a">
+<!ENTITY search.scopeAll.label                     "Visame adresyne">
+<!ENTITY search.scopeAll.accesskey                 "V">
+<!ENTITY search.scopeMenu.label                    "Adresyno meniu">
+<!ENTITY search.scopeMenu.accesskey                "m">
+<!ENTITY search.scopeToolbar.label                 "Adresyno juostoje">
+<!ENTITY search.scopeToolbar.accesskey             "j">
+<!ENTITY search.scopeDownloads.label               "Siuntiniuose">
+<!ENTITY search.scopeDownloads.accesskey           "S">
+<!ENTITY search.scopeHistory.label                 "Žurnale">
+<!ENTITY search.scopeHistory.accesskey             "Ž">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Rodyti paieškos komponuoklį">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Nerodyti paieškos komponuoklio">
+<!ENTITY saveSearch.label                          "Įrašyti">
+<!ENTITY saveSearch.accesskey                      "r">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "Ieškoti tik adresyne">
+<!ENTITY advancedSearch.match.label                "Atitikti ">
+<!ENTITY advancedSearch.all.label                  "visas taisykles">
+<!ENTITY advancedSearch.any.label                  "bet kurią taisyklę">
+<!ENTITY advancedSearch.rules.label                ":">
+<!ENTITY advancedSearch.subj_keyword.label         "Apraše yra tekstas">
+<!ENTITY advancedSearch.subj_visited.label         "Lankytasi">
+<!ENTITY advancedSearch.subj_location.label        "Adresas">
+<!ENTITY advancedSearch.location_startswith.label  "prasideda">
+<!ENTITY advancedSearch.location_is.label          "yra">
+<!ENTITY advancedSearch.location_onsite.label      "yra svetainėje">
+<!ENTITY advancedSearch.time_is.label              "tiksliai">
+<!ENTITY advancedSearch.time_before.label          "anksčiau, nei">
+<!ENTITY advancedSearch.time_after.label           "vėliau, nei">
+<!ENTITY advancedSearch.time_inlast.label          "pastarąsias">
+<!ENTITY advancedSearch.last_days.label            "dienas">
+<!ENTITY advancedSearch.last_weeks.label           "savaites">
+<!ENTITY advancedSearch.last_months.label          "mėnesius">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "Grupuoti pagal: ">
+<!ENTITY advancedSearch.groupby_host.label         "serverį">
+<!ENTITY advancedSearch.groupby_domain.label       "vardų sritį">
+<!ENTITY advancedSearch.groupby_folder.label       "aplanką">
+<!ENTITY advancedSearch.sortby.label               "Rikiuoti pagal: ">
+<!ENTITY advancedSearch.sortby_title.label         "pavadinimą">
+<!ENTITY advancedSearch.sortby_date.label          "datą">
+<!ENTITY advancedSearch.sortby_visit.label         "apsilankymų kiekį">
+<!ENTITY advancedSearch.sortby_url.label           "adresą">
+<!ENTITY advancedSearch.sortby_asc.label           "didėjančiai">
+<!ENTITY advancedSearch.sortby_desc.label          "mažėjančiai">
+<!ENTITY advancedSearch.max.label                  "Didžiausias radinių kiekis: ">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "Kanalas">
+<!ENTITY feed.subscribe.tooltip  "Prenumeruoti">
+
+<!ENTITY view.detailsMacOSX.label  "Išsamiai">
+<!ENTITY view.details.label        "Išsamiai">
+<!ENTITY view.details.accesskey    "I">
+
+<!ENTITY view.addons.label   "Atsisiųsti rodymo priedų">
+
+<!ENTITY maintenance.label   "Importas ir atsarginės kopijos">
+<!ENTITY maintenance.accesskey  "I">
+
+<!ENTITY backCmd.label       "Atgal">
+<!ENTITY backCmd.accesskey   "A">
+<!ENTITY backButton.tooltip  "Eiti atgal">
+
+<!ENTITY forwardCmd.label       "Pirmyn">
+<!ENTITY forwardCmd.accesskey   "P">
+<!ENTITY forwardButton.tooltip  "Eiti pirmyn">
+
+<!ENTITY detailsPane.more.label                    "Daugiau">
+<!ENTITY detailsPane.more.accesskey                "a">
+<!ENTITY detailsPane.less.label                    "Mažiau">
+<!ENTITY detailsPane.less.accesskey                "a">
+<!ENTITY detailsPane.noPreviewAvailable.label      "Peržiūra">
+<!ENTITY detailsPane.selectAnItemText.description  "Pažymėkite objektą, kurio savybes norite peržiūrėti ar redaguoti">

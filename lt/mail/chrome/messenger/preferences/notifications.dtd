@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title        "Naujų laiškų gavimo signalai">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Parinkite, kuriuos laukus rodyti įspėjime apie laiškus:">
+<!ENTITY previewText.label                "Laiško peržiūros tekstas">
+<!ENTITY previewText.accesskey            "L">
+<!ENTITY subject.label                    "Tema">
+<!ENTITY subject.accesskey                "T">
+<!ENTITY sender.label                     "Siuntėjas">
+<!ENTITY sender.accesskey                 "u">
+

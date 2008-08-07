@@ -1,0 +1,20 @@
+<!ENTITY emailSectionHdr.label        "Elektroninis paštas">
+<!ENTITY readMsgsLink.label           "Skaityti laiškus">
+<!ENTITY composeMsgLink.label         "Rašyti naują laišką">
+
+<!ENTITY newsSectionHdr.label         "Naujienų grupės">
+<!ENTITY subscribeNewsLink.label      "Naujienų grupių prenumerata">
+
+<!ENTITY accountsSectionHdr.label     "Paskyros">
+<!ENTITY subscribeImapFolders.label   "Prenumeruojami aplankai">
+<!ENTITY settingsLink.label           "Paskyros nuostatos">
+<!ENTITY newAcctLink.label            "Sukurti naują paskyrą">
+
+<!ENTITY advFeaturesSectionHdr.label  "Kitkas">
+<!ENTITY searchMsgsLink.label         "Laiškų paieška">
+<!ENTITY filtersLink.label            "Laiškų filtrai">
+<!ENTITY junkSettings.label           "Šlamšto (nepageidaujamų laiškų) nuostatos">
+<!ENTITY offlineLink.label            "Darbo atsijungus nuo tinklo nuostatos">
+
+<!ENTITY rssSectionHdr.label          "RSS naujienos"> 
+<!ENTITY subscibeRSS.label            "Tvarkyti prenumeratas"> 

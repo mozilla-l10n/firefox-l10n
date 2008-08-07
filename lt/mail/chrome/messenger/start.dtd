@@ -1,0 +1,62 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY startpage.welcome "Sveiki! Čia „&brandFullName;“">
+<!ENTITY startpage.intro "„&brandFullName;“ yra atviroji elektroninio pašto ir naujienų grupių programa.">
+
+<!ENTITY startpage.features "Pagrindinės savybės">
+
+<!ENTITY startpage.junkControl "Nepageidautinų laiškų (šlamšto) aptikimas ir tvarkymas">
+<!ENTITY startpage.rssReader "Naujienų skaitymas per RSS kanalus">
+<!ENTITY startpage.globalInbox "Bendras laiškų aplankas visoms to paties profilio paskyroms">
+<!ENTITY startpage.searchFolders "Paieškos rezultatų įrašymas į aplanką">
+<!ENTITY startpage.messageGroups "Laiškų grupavimas">
+<!ENTITY startpage.privacyProtect "Privatumo apsauga">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "Išsamesnė informacija">
+
+<!ENTITY startpage.help "žinyne">
+<!ENTITY startpage.helpInfo "Daugiau informacijos apie programą galima rasti">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+
+<!ENTITY startpage.page "„Thunderbird“ pradžios tinklalapyje">
+<!ENTITY startpage.pageInfo "Daugiau informacijos apie lietuvišką programos versiją – ">
+<!ENTITY startpage.pageURL "http://www.mozilla-world.org/lt/products/thunderbird/">
+
+<!ENTITY startpage.extra "">
+
+<!ENTITY startpage.poweredByGecko "Veikia su „Gecko“ varikliu">

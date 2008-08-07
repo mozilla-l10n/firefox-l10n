@@ -1,0 +1,64 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY doNotDownloadPop3Movemail.label "Taupant vietą diske:">
+<!ENTITY doNotDownload.label "Taupant vietą diske, darbui atsijungus nuo tinklo:">
+<!ENTITY offlineNewFolder.label "Kuriant aplankus, pažymėti juos darbui atsijungus">
+<!ENTITY offlineNewFolder.accesskey "K">
+<!ENTITY offlineNotDownload.label "neatsiųsti laiškų, didesnių kaip">
+<!ENTITY offlineNotDownload.accesskey "d">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "dienų">
+<!ENTITY daysOld.label "dienų">
+<!ENTITY message.label " naujausių laiškų">
+<!ENTITY nntpNotDownloadRead.label "neatsiųsti skaitytų laiškų">
+<!ENTITY nntpNotDownloadRead.accesskey "S">
+<!ENTITY nntpDownloadMsg.label "laiškus atsiųsti pastarųjų ">
+<!ENTITY nntpDownloadMsg.accesskey "p">
+<!ENTITY retentionCleanup.label "Kai ateina laikas šalinti laiškus:">
+<!ENTITY retentionKeepMsg.label "palikti laiškus, gautus per pastarąsias">
+<!ENTITY retentionKeepMsg.accesskey "p">
+<!ENTITY retentionKeepAll.label "palikti visus laiškus">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepNew.label "palikti">
+<!ENTITY retentionKeepNew.accesskey "k">
+<!ENTITY retentionKeepUnread.label "palikti tik neskaitytus laiškus">
+<!ENTITY retentionKeepUnread.accesskey "e">
+<!ENTITY nntpRemoveBody.label "pašalinti laiškus, senesnius kaip">
+<!ENTITY nntpRemoveBody.accesskey "š">
+<!ENTITY offlineSelectNntp.label "Parinkti naujienų grupes darbui atsijungus…">
+<!ENTITY offlineSelectNntp.accesskey "P">
+<!ENTITY offlineSelectImap.label "Parinkti aplankus darbui atsijungus…">
+<!ENTITY offlineSelectImap.accesskey "P">
+<!ENTITY offlineDesc.label "Tam, kad laiškus būtų galima skaityti atsijungus nuo tinklo, juos galima atsiųsti į kompiuterį.">
+<!ENTITY makeInboxMsgsAvailable.label "Gautų laiškų aplanke esančius laiškus leisti skaityti atsijungus nuo tinklo">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Darbas atsijungus nuo tinklo">
+<!ENTITY diskspaceGroupTitle.label "Disko atmintinė">

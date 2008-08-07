@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Spausdintuvo nuostatos">
+
+<!ENTITY paperInput.label "Popieriaus dydis:">
+
+<!ENTITY plexInput.label "„Plex“ veiksena:">
+
+<!ENTITY resolutionInput.label "Skiriamoji geba (kokybė):">
+
+<!ENTITY cmdInput.label "Spausdinimo komanda:">
+
+<!ENTITY jobTitleInput.label "Užduoties pavadinimas:">
+
+<!ENTITY colorGroup.label "Spalvos:">
+<!ENTITY grayRadio.label "Pilkio tonai">
+<!ENTITY colorRadio.label "Spalvos">
+
+<!ENTITY colorspaceInput.label "Spalvų sritis:">
+
+<!ENTITY fontsGroup.label "Šriftai:">
+<!ENTITY downloadFonts.label "Ar įkelti šriftus į spausdintuvą?">
+
+<!ENTITY edgeMarginInput.label "Atstumas nuo lapo krašto iki paraštės (coliais)">
+<!ENTITY topInput.label "Viršus:">
+<!ENTITY bottomInput.label "Apačia:">
+<!ENTITY leftInput.label "Kairė:">
+<!ENTITY rightInput.label "Dešinė:">

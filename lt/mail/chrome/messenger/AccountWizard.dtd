@@ -1,0 +1,155 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "Paskyros vediklis">
+<!ENTITY accountWizard.size "width: 50em; height: 38em;">
+
+<!-- Entities for Account Type page -->
+
+<!ENTITY accountSetupInfo.label "Tam, kad galėtumėte gauti elektroninius laiškus, turite užsiregistruoti pašto programoje.">
+<!ENTITY accountTypeTitle.label "Naujos paskyros sąranka">
+<!ENTITY accountTypeDesc.label "Paskyros vediklis prašys pateikti informaciją, reikalingą susijungimui su pašto arba naujienų serveriu. Jeigu tokios informacijos neturite, prašom kreiptis į sistemos administratorių arba interneto paslaugų teikėją.">
+<!ENTITY accountTypeDirections.label "Pasirinkite, ką registruoti:">
+<!ENTITY accountTypeMail.label "elektroninį paštą">
+<!ENTITY accountTypeMail.accesskey "e">
+<!ENTITY accountTypeNews.label "naujienų grupių serverį">
+<!ENTITY accountTypeNews.accesskey "n">
+
+<!-- Entities for Identity page -->
+
+<!ENTITY identityTitle.label "Tapatumo duomenys">
+<!ENTITY identityDesc.label "Pagal čia pateiktą informaciją Jus galės atpažinti laiškų gavėjai.">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Surinkite vardą ir pavardę (asmenvardį), kuriuos matys laiškų gavėjai lauke „Kas“">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+	1, do not translate two of "&quot;"
+	2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(pvz., „Vardenis Pavardenis“).">
+<!ENTITY fullnameLabel.label "Asmenvardis:">
+<!ENTITY fullnameLabel.accesskey "A">
+
+<!ENTITY emailLabel.label "El. pašto adresas:">
+<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailDesc.label "Surinkite savo elektroninio pašto adresą ">
+<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
+<!ENTITY emailExample.label "(pvz., vardas@pvz.lt).">
+
+<!-- Entities for Server page -->
+
+<!ENTITY serverTitle.label "Informacija apie serverius">
+<!ENTITY incomingServerTitle.label "Laiškų gavimo serveris">
+<!ENTITY incomingServerTypeDesc.label "Pasirinkite laiškų gavimo serverio tipą.">
+<!ENTITY incomingServerTypeLabel.label "Serverio tipas:">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "Surinkite laiškų gavimo serverio vardą (pvz., julius.ktl.mii.lt).">
+<!ENTITY incomingServerLabel.label "Laiškų gavimo serveris:">
+<!ENTITY incomingServerLabel.accesskey "s">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Surinkite naujienų serverio (NNTP) vardą (pvz., news.osf.lt).">
+<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
+<!ENTITY smtpServerTitle.label "Laiškų išsiuntimo serveris (SMTP)">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "Surinkite laiškų išsiuntimo serverio (SMTP) vardą (pvz., mail.takas.lt).">
+<!ENTITY smtpServerLabel.label "Laiškų išsiuntimo serveris:">
+<!ENTITY smtpServerLabel.accesskey "e">
+<!ENTITY newsServerLabel.label "Naujienų serveris:">
+<!ENTITY newsServerLabel.accesskey "N">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Naujienų serveris">
+
+<!-- for when the user has an SMTP server pre-configured -->
+<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
+     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
+	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Bus panaudotas jau užregistruoto abonento laiškų išsiuntimo serveris (SMTP): „ ">
+<!ENTITY haveSmtp1.suffix "“. Nurodyti kitą išsiuntimo serverį galima pasirinkus pašto programos meniu „Priemonės“ komandą „Paskyrų nuostatos“.">
+
+<!-- Entities for Login page -->
+
+<!ENTITY loginTitle.label "Abonento vardas">
+<!ENTITY usernameDesc.label "Surinkite laiškų gavimo abonento vardą, kurį Jums suteikė el. pašto paslaugų teikėjas ">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(pvz., „vardas“).">
+<!ENTITY usernameLabel.label "Laiškų gavimo abonento vardas:">
+<!ENTITY usernameLabel.accesskey "L">
+<!ENTITY usernameSmtpDesc.label "Surinkite laiškų išsiuntimo abonento vardą, kurį Jums suteikė el. pašto paslaugų teikėjas (paprastai šis vardas sutampa su laiškų gavimo abonento vardu).">
+<!ENTITY usernameSmtpLabel.label "Laiškų išsiuntimo abonento vardas:">
+<!ENTITY usernameSmtpLabel.accesskey "a">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Bus panaudotas programoje užregistruoto aboento laiškų iššsiuntimo (SMTP) abonento vardas: „">
+<!ENTITY haveSmtp2.suffix "“. Jį galima pakeisti atvėrus pašto programos meniu „Priemonės“ ir pasirinkus „Paskyrų nuostatos“.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "Laiškų išsiuntimo serverio vardas (">
+<!ENTITY haveSmtp3.suffix ") yra toks pat, koks laiškų gavimo serverio vardas. Todėl prisijungimui prie laiškų išsiuntimo serverio bus naudojamas laiškų gavimo abonento vardas. Išsiuntimo serverio nuostatas galima pakeisti atvėrus pašto programos meniu „Priemonės“ ir pasirinkus „Paskyrų nuostatos“.">
+
+<!-- Entities for Account name page -->
+
+<!ENTITY accnameTitle.label "Paskyros pavadinimas">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Surinkite paskyros pavadinimą. Tai gali būti el. pašto adresas, interneto paslaugų teikėjo vardas arba bet koks Jūsų pasirinktas vardas (pvz., „Darbas“, „Namai“).">
+<!ENTITY accnameExample.label "Pavyzdžiui, „Litnet“,  „vardas@pvz.lt“">
+<!ENTITY accnameLabel.label "Paskyros pavadinimas:">
+<!ENTITY accnameLabel.accesskey "v">
+
+<!-- Entities for Done (Congratulations) page -->
+
+<!ENTITY completionTitle.label "Sveikiname!">
+<!ENTITY completionText.label "Visa Jūsų pateikta informacija abonentui pašto programoje užregistruoti yra tokia:">
+<!ENTITY serverTypePrefix.label "Laiškų gavimo serverio tipas:">
+<!ENTITY serverNamePrefix.label "Laiškų gavimo serverio vardas:">
+<!ENTITY smtpServerNamePrefix.label "Laiškų išsiuntimo serverio (SMTP) vardas:">
+<!ENTITY newsServerNamePrefix.label "Naujienų serverio (NNTP) vardas:">
+<!ENTITY downloadOnLogin.label "Atsiųsti laiškus dabar">
+<!ENTITY deferStorageDesc.label "Pašalinkite šio langelio žymėjimą, jei norite, kad kuriamos paskyros laiškai būtų laikomi atskirame aukščiausio lygio aplanke. Priešingu atveju paskyros aplankas bus bendrųjų aplankų poaplankis.">
+<!ENTITY deferStorage.label "Laikyti paštą bendruose aplankuose">
+<!ENTITY clickFinish.label "Spustelėkite mygtuką „Baigti“, ir šie duomenys bus įrašyti.">
+<!ENTITY clickFinish.labelMac "Spustelėkite mygtuką „Baigta“, ir šie duomenys bus įrašyti.">

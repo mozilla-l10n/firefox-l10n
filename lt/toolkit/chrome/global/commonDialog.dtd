@@ -1,0 +1,10 @@
+<!ENTITY header.label "Trumpa antraštė">
+<!ENTITY message.label "Čia surinkite tekstą">
+<!ENTITY editfield0.label "Abonento vardas:">
+<!ENTITY editfield1.label "Slaptažodis:">
+<!ENTITY editfield2.label "Slaptažodis (pakartokite):">
+<!ENTITY checkbox.label  "pažymėti">
+<!ENTITY copyCmd.label    "Kopijuoti">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Pažymėti viską">
+<!ENTITY selectAllCmd.accesskey "V">
