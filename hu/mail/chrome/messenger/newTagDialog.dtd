@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Új címke létrehozása">
+<!ENTITY name.label              "Címke neve:">
+<!ENTITY name.accesskey          "C">

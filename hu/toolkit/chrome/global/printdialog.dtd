@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Nyomtatás">
+
+<!ENTITY printDialog.title "Nyomtatás">
+
+<!ENTITY fpDialog.title "Fájl mentése">
+
+<!ENTITY fileCheck.label "Nyomtatás fájlba">
+<!ENTITY propertiesButton.label "Tulajdonságok...">
+<!ENTITY descText.label "Nyomtató leírása:">
+<!ENTITY printer.label "Nyomtató">
+<!ENTITY printerInput.label "Nyomtató neve:">
+
+<!ENTITY printrangeGroup.label "Nyomtatási tartomány">
+<!ENTITY allpagesRadio.label "Minden oldal">
+<!ENTITY rangeRadio.label  "Adott oldalak">
+<!ENTITY frompageInput.label  "ettől:">
+<!ENTITY topageInput.label  "eddig:">
+<!ENTITY selectionRadio.label "Kijelölés">
+
+<!ENTITY copies.label "Példányok">
+<!ENTITY numCopies.label "Példányszám:">
+
+<!ENTITY printframeGroup.label "Keretek nyomtatása">
+<!ENTITY aslaidoutRadio.label "Ahogy a képernyőn elhelyezkednek">
+<!ENTITY selectedframeRadio.label  "A kijelölt keretet">
+<!ENTITY eachframesepRadio.label  "Minden keretet külön">

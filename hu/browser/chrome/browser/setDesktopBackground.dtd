@@ -1,0 +1,9 @@
+<!ENTITY position.label             "Pozíció:">
+<!ENTITY tile.label                 "Mozaik">
+<!ENTITY center.label               "Középre">
+<!ENTITY stretch.label              "Nyújtás">
+<!ENTITY preview.label              "Előnézet">
+<!ENTITY color.label                "Szín:">
+<!ENTITY setDesktopBackground.title "Munkaasztalháttér beállítása">
+<!ENTITY openDesktopPrefs.label     "Munkaasztal beállítóablakának megnyitása">
+<!ENTITY closeWindow.key            "w">

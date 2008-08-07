@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                 "Név:">
+<!ENTITY bookmarks.name.accesskey             "N">
+<!ENTITY bookmarks.location.label             "Hely:">
+<!ENTITY bookmarks.location.accesskey         "H">
+<!ENTITY bookmarks.keyword.label              "Kulcsszó:">
+<!ENTITY bookmarks.keyword.accesskey          "K">
+<!ENTITY bookmarks.description.label          "Leírás:">
+<!ENTITY bookmarks.description.accesskey      "L">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "Élő címek">
+<!ENTITY bookmarks.createIn.label             "Mappa:">
+<!ENTITY bookmarks.createIn.accesskey         "M">
+<!ENTITY bookmarks.feed_location.label        "Hírforrás helye:">
+<!ENTITY bookmarks.feed_location.accesskey    "H">
+<!ENTITY bookmarks.site_location.label        "Webhely helye:">
+<!ENTITY bookmarks.site_location.accesskey    "W">
+<!ENTITY bookmarks.loadInSidebar.label        "Könyvjelző betöltése az oldalsávba">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "K">
+<!ENTITY bookmarks.expanderDown.tooltip       "Minden könyvjelzőmappa megjelenítése">
+<!ENTITY bookmarks.expanderUp.tooltip         "Elrejtés">
+<!ENTITY bookmarks.newFolderButton.label      "Új mappa">
+<!ENTITY bookmarks.newFolderButton.accesskey  "m">

@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "Személyes adatok törlése">
+
+<!ENTITY sanitizeItems.label          "A következő elemek azonnali törlése:">
+<!ENTITY clearDataSettings.label      "A &brandShortName; a személyes adatok törlésekor a következőket törölje:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Böngészés előzményei">
+<!ENTITY itemHistory.accesskey        "b">
+<!ENTITY itemFormSearchHistory.label  "Mentett űrlapadatok és keresési előzmények">
+<!ENTITY itemFormSearchHistory.accesskey "M">
+<!ENTITY itemPasswords.label          "Jelszókezelő">
+<!ENTITY itemPasswords.accesskey      "J">
+<!ENTITY itemCookies.label            "Sütik">
+<!ENTITY itemCookies.accesskey        "S">
+<!ENTITY itemCache.label              "Gyorsítótár">
+<!ENTITY itemCache.accesskey          "G">
+<!ENTITY itemOfflineApps.label        "Kapcsolat nélküli webhelyadatok">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloads.label          "Letöltési előzmények">
+<!ENTITY itemDownloads.accesskey      "L">
+<!ENTITY itemSessions.label           "Hitelesített munkamenetek">
+<!ENTITY itemSessions.accesskey       "H">
+<!ENTITY window.width                 "33em">

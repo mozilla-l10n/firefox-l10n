@@ -1,0 +1,7 @@
+<!ENTITY window.title "Fejlécek testreszabása">
+<!ENTITY addButton.label "Hozzáadás">
+<!ENTITY addButton.accesskey "H">
+<!ENTITY removeButton.label "Eltávolítás">
+<!ENTITY removeButton.accesskey "E">
+<!ENTITY newMsgHeader.label "Új üzenetfejléc:">
+<!ENTITY newMsgHeader.accesskey "z">

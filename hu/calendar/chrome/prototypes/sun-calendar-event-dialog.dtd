@@ -1,0 +1,363 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is Sun Microsystems.
+   - Portions created by the Initial Developer are Copyright (C) 2006
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Michael Büttner <michael.buettner@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
+   -   Fred Jendrzejewski <fred.jen@web.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Menubar -->
+<!ENTITY  event.menu.file.label                           "Fájl">
+<!ENTITY event.menu.file.accesskey                       "F">
+<!ENTITY  event.menu.file.new.label                       "Új">
+<!ENTITY event.menu.file.new.accesskey                   "j">
+<!ENTITY  event.menu.file.new.event.label                 "Esemény">
+<!ENTITY event.menu.file.new.event.accesskey             "E">
+<!ENTITY  event.menu.file.new.message.label               "Üzenet">
+<!ENTITY event.menu.file.new.message.accesskey           "z">
+<!ENTITY  event.menu.file.new.address.label               "Névjegy">
+<!ENTITY event.menu.file.new.address.accesskey           "N">
+<!ENTITY  event.menu.file.close.label                     "Bezárás">
+<!ENTITY event.menu.file.close.accesskey                 "B">
+<!ENTITY  event.menu.file.save.label                      "Mentés">
+<!ENTITY event.menu.file.save.accesskey                  "M">
+<!ENTITY  event.menu.file.page.setup.label                "Oldalbeállítás">
+<!ENTITY event.menu.file.page.setup.accesskey            "O">
+<!ENTITY  event.menu.file.print.label                     "Nyomtatás">
+<!ENTITY event.menu.file.print.accesskey                 "N">
+<!ENTITY  event.menu.file.exit.label                      "Kilépés">
+<!ENTITY event.menu.file.exit.accesskey                  "K">
+
+<!ENTITY  event.menu.edit.label                           "Szerkesztés">
+<!ENTITY event.menu.edit.accesskey                       "z">
+<!ENTITY  event.menu.edit.undo.label                      "Visszavonás">
+<!ENTITY event.menu.edit.undo.accesskey                  "V">
+<!ENTITY  event.menu.edit.redo.label                      "Újra">
+<!ENTITY event.menu.edit.redo.accesskey                  "r">
+<!ENTITY  event.menu.edit.cut.label                       "Kivágás">
+<!ENTITY event.menu.edit.cut.accesskey                   "K">
+<!ENTITY  event.menu.edit.copy.label                      "Másolás">
+<!ENTITY event.menu.edit.copy.accesskey                  "M">
+<!ENTITY  event.menu.edit.paste.label                     "Beillesztés">
+<!ENTITY event.menu.edit.paste.accesskey                 "B">
+<!ENTITY  event.menu.edit.select.all.label                "Minden kijelölése">
+<!ENTITY event.menu.edit.select.all.accesskey            "i">
+
+<!ENTITY  event.menu.view.label                           "Nézet">
+<!ENTITY event.menu.view.accesskey                       "N">
+<!ENTITY  event.menu.view.toolbars.label                  "Eszköztárak">
+<!ENTITY event.menu.view.toolbars.accesskey              "E">
+<!ENTITY  event.menu.view.toolbars.event.label            "Esemény eszköztár">
+<!ENTITY event.menu.view.toolbars.event.accesskey        "s">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Testreszabás...">
+<!ENTITY event.menu.view.toolbars.customize.accesskey    "T">
+<!ENTITY  event.menu.view.showlink.label                  "Kapcsolódó hivatkozás megjelenítése">
+<!ENTITY event.menu.view.showlink.accesskey              "K">
+
+<!ENTITY  event.menu.options.label                            "Beállítások">
+<!ENTITY event.menu.options.accesskey                        "B">
+<!ENTITY  event.menu.options.attachments.label                "Weboldal csatolása...">
+<!ENTITY event.menu.options.attachments.accesskey            "W">
+<!ENTITY  event.menu.options.attendees.label                  "Résztvevők meghívása...">
+<!ENTITY event.menu.options.attendees.accesskey              "R">
+<!ENTITY  event.menu.options.spellcheck.label                 "Helyesírás-ellenőrzés...">
+<!ENTITY event.menu.options.spellcheck.accesskey             "H">
+<!ENTITY  event.menu.options.inline.spellcheck.label          "Helyesírás-ellenőrzés írás közben">
+<!ENTITY event.menu.options.inline.spellcheck.accesskey      "e">
+<!ENTITY  event.menu.options.link.label                       "Hivatkozás hozzáadása...">
+<!ENTITY event.menu.options.link.accesskey                   "v">
+<!ENTITY  event.menu.options.timezone.label                   "Időzóna">
+<!ENTITY event.menu.options.timezone.accesskey               "I">
+<!ENTITY  event.menu.options.priority2.label                  "Prioritás">
+<!ENTITY event.menu.options.priority2.accesskey              "P">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Nem megadott">
+<!ENTITY event.menu.options.priority.notspecified.accesskey  "N">
+<!ENTITY  event.menu.options.priority.low.label               "Alacsony">
+<!ENTITY event.menu.options.priority.low.accesskey           "A">
+<!ENTITY  event.menu.options.priority.normal.label            "Normál">
+<!ENTITY event.menu.options.priority.normal.accesskey        "o">
+<!ENTITY  event.menu.options.priority.high.label              "Magas">
+<!ENTITY event.menu.options.priority.high.accesskey          "M">
+<!ENTITY  event.menu.options.privacy.label                    "Adatvédelem">
+<!ENTITY event.menu.options.privacy.accesskey                "A">
+<!ENTITY  event.menu.options.privacy.public.label             "Nyilvános esemény">
+<!ENTITY event.menu.options.privacy.public.accesskey         "N">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Csak idő és dátum">
+<!ENTITY event.menu.options.privacy.confidential.accesskey   "C">
+<!ENTITY  event.menu.options.privacy.private.label            "Magán esemény">
+<!ENTITY event.menu.options.privacy.private.accesskey        "M">
+<!ENTITY  event.menu.options.show.time.label                  "Idő megjelenítése">
+<!ENTITY event.menu.options.show.time.accesskey              "I">
+<!ENTITY  event.menu.options.show.time.busy.label             "Elfoglalt">
+<!ENTITY event.menu.options.show.time.busy.accesskey         "E">
+<!ENTITY  event.menu.options.show.time.free.label             "Szabad">
+<!ENTITY event.menu.options.show.time.free.accesskey         "S">
+
+<!ENTITY event.help.label                                 "Súgó">
+<!ENTITY event.help.accesskey                             "S">
+<!ENTITY event.help.release.notes.label                   "Verzióinformáció">
+<!ENTITY event.help.release.notes.accesskey               "V">
+<!ENTITY event.help.help.label                            "&brandShortName; Súgó">
+<!ENTITY event.help.help.accesskey                        "C">
+<!ENTITY event.help.about.label                           "A &brandShortName; névjegye">
+<!ENTITY event.help.about.accesskey                       "A">
+
+<!ENTITY event.invite.attendees.label                     "Résztvevők meghívása...">
+<!ENTITY event.invite.attendees.accesskey                 "R">
+<!ENTITY event.email.attendees.label                      "E-mail küldése minden résztvevőnek...">
+<!ENTITY event.email.attendees.accesskey                  "E">
+<!ENTITY event.email.tentative.attendees.label            "E-mail küldése a vissza nem jelzett résztvevőknek...">
+<!ENTITY event.email.tentative.attendees.accesskey        "m">
+
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label                        "Mentés és bezárás">
+<!ENTITY  event.toolbar.attendees.label                   "Résztvevők meghívása">
+<!ENTITY  event.toolbar.spellcheck.label                  "Helyesírás-ellenőrzés">
+<!ENTITY  event.toolbar.privacy.label                     "Adatvédelem">
+<!ENTITY  event.toolbar.attachments.label                 "Melléklet">
+
+<!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Cím:" >
+<!ENTITY event.title.textbox.accesskey                    "C">
+<!ENTITY event.location.label                             "Hely:" >
+<!ENTITY event.location.accesskey                         "H">
+<!ENTITY event.categories.label                           "Kategória:">
+<!ENTITY event.categories.accesskey                       "K">
+<!ENTITY event.calendar.label                             "Naptár:" >
+<!ENTITY event.calendar.accesskey                         "N">
+<!ENTITY event.attendees.label                            "Résztvevők:" >
+<!ENTITY event.attendees.accesskey                        "R">
+<!ENTITY event.alldayevent.label                          "Egész napos esemény" >
+<!ENTITY event.alldayevent.accesskey                      "E">
+<!ENTITY event.from.label                                 "Kezdet:" >
+<!ENTITY event.from.accesskey                             "K">
+<!ENTITY task.from.label                                  "Kezdet:" >
+<!ENTITY task.from.accesskey                              "K">
+<!ENTITY event.to.label                                   "Vége:" >
+<!ENTITY event.to.accesskey                               "V">
+<!ENTITY task.to.label                                    "Határidő:" >
+<!ENTITY task.to.accesskey                                "H">
+<!ENTITY task.status.label                                "Állapot:" >
+<!ENTITY task.status.accesskey                            "l">
+<!ENTITY event.repeat.label                               "Ismétlés:" >
+<!ENTITY event.repeat.accesskey                           "I">
+<!ENTITY event.reminder.label                             "Emlékeztető:" >
+<!ENTITY event.reminder.accesskey                         "E">
+<!ENTITY event.description.label                          "Leírás:" >
+<!ENTITY event.description.accesskey                      "L">
+<!ENTITY event.attachments.label                          "Mellékletek:" >
+<!ENTITY event.attachments.accesskey                      "M">
+<!ENTITY event.attachments.popup.remove.label             "Eltávolítás" >
+<!ENTITY event.attachments.popup.remove.accesskey         "t">
+<!ENTITY event.attachments.popup.open.label               "Megnyitás" >
+<!ENTITY event.attachments.popup.open.accesskey           "n">
+<!ENTITY event.attachments.popup.removeAll.label          "Összes eltávolítása" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "s">
+<!ENTITY event.attachments.popup.attachPage.label         "Weboldal csatolása..." >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "W">
+<!ENTITY event.url.label                                  "Related hivatkozás:" >
+<!ENTITY event.priority2.label                            "Sürgősség:">
+
+<!ENTITY event.reminder.none.label                        "Nincs emlékeztető" >
+<!ENTITY event.reminder.5minutes.before.label             "5 perccel előtte" >
+<!ENTITY event.reminder.10minutes.before.label            "10 perccel előtte" >
+<!ENTITY event.reminder.15minutes.before.label            "15 perccel előtte" >
+<!ENTITY event.reminder.30minutes.before.label            "30 perccel előtte" >
+<!ENTITY event.reminder.45minutes.before.label            "45 perccel előtte" >
+<!ENTITY event.reminder.1hour.before.label                "1 órával előtte" >
+<!ENTITY event.reminder.2hours.before.label               "2 órával előtte" >
+<!ENTITY event.reminder.5hours.before.label               "5 órával előtte" >
+<!ENTITY event.reminder.15hours.before.label              "15 órával előtte" >
+<!ENTITY event.reminder.1day.before.label                 "1 nappal előtte" >
+<!ENTITY event.reminder.2days.before.label                "2 nappal előtte" >
+<!ENTITY event.reminder.1week.before.label                "1 héttel előtte" >
+<!ENTITY event.reminder.custom.label                      "Egyéni..." >
+
+<!ENTITY event.reminder.multiple.label                    "Több emlékeztető..." >
+
+<!-- Recurrence dialog -->
+
+<!ENTITY recurrence.title.label                         "Ismétlődés szerkesztése">
+
+<!ENTITY event.repeat.does.not.repeat.label             "Nem ismétlődik">
+<!ENTITY event.repeat.daily.label                       "Naponta">
+<!ENTITY event.repeat.weekly.label                      "Hetente">
+<!ENTITY event.repeat.every.weekday.label               "Minden hétköznap">
+<!ENTITY event.repeat.bi.weekly.label                   "Kéthetente">
+<!ENTITY event.repeat.monthly.label                     "Havonta">
+<!ENTITY event.repeat.yearly.label                      "Évente">
+<!ENTITY event.repeat.custom.label                      "Egyéni...">
+
+<!ENTITY event.recurrence.pattern.label                 "Ismétlődési minta">
+<!ENTITY event.recurrence.occurs.label                  "Ismétlődik" >
+<!ENTITY event.recurrence.day.label                     "naponta" >
+<!ENTITY event.recurrence.week.label                    "hetente" >
+<!ENTITY event.recurrence.month.label                   "havonta" >
+<!ENTITY event.recurrence.year.label                    "évente" >
+
+<!ENTITY event.recurrence.pattern.every.label           "Minden" >
+<!ENTITY repeat.units.days.both                         "naponként" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Minden hétköznap" >
+
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Minden" >
+<!ENTITY repeat.units.weeks.both                        "hetente" >
+<!ENTITY event.recurrence.on.label                      "Ekkor:" >
+
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Minden" >
+<!ENTITY repeat.units.months.both                       "havonta" >
+<!ENTITY event.recurrence.the.label                     "A(z)" >
+<!ENTITY event.recurrence.repeat.first.label            "első">
+<!ENTITY event.recurrence.repeat.second.label           "második">
+<!ENTITY event.recurrence.repeat.third.label            "harmadik">
+<!ENTITY event.recurrence.repeat.fourth.label           "negyedik">
+<!ENTITY event.recurrence.repeat.fifth.label            "ötödik">
+<!ENTITY event.recurrence.repeat.last.label             "Utolsó">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Vasárnap" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Hétfő" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Kedd" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Szerda" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Csütörtök" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Péntek" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Szombat" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "nap a hónapban">
+<!ENTITY event.recurrence.repeat.recur.label            "Ismétlődés napokon">
+
+<!ENTITY event.recurrence.every.label                        "Minden:" >
+<!ENTITY repeat.units.years.both                             "évente" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Minden" >
+<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "Minden" >
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Január" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Február" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Március" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Április" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Május" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Június" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Július" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Augusztus" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Szeptember" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Október" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "November" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "December" >
+<!ENTITY event.recurrence.pattern.yearly.first.label         "első">
+<!ENTITY event.recurrence.pattern.yearly.second.label        "második">
+<!ENTITY event.recurrence.pattern.yearly.third.label         "harmadik">
+<!ENTITY event.recurrence.pattern.yearly.fourth.label        "negyedik">
+<!ENTITY event.recurrence.pattern.yearly.fifth.label         "ötödik">
+<!ENTITY event.recurrence.pattern.yearly.last.label          "Utolsó">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Vasárnap" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Hétfő" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Kedd" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Szerda" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Csütörtök" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Péntek" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Szombat" >
+<!ENTITY event.recurrence.of.label                           "/" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Január" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Február" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Március" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Április" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Május" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Június" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Július" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Augusztus" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Szeptember" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Október" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "November" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "December" >
+
+<!ENTITY event.recurrence.range.label                   "Ismétlődés tartománya">
+<!ENTITY event.recurrence.forever.label                 "Nincs végdátum" >
+<!ENTITY event.recurrence.repeat.for.label              "Létrehozás" >
+<!ENTITY event.recurrence.appointments.label            "Találkozók" >
+<!ENTITY event.repeat.until.label                       "Ismétlés eddig" >
+<!ENTITY event.recurrence.preview.label                 "Előnézet">
+
+<!-- Reminder dialog -->
+
+<!ENTITY reminder.title.label                           "Egyéni emlékeztető">
+<!ENTITY reminder.dialogtitle.label                     "Emlékeztetők beállítása">
+<!ENTITY reminder.reminderDetails.label                 "Emlékeztető részletei">
+<!ENTITY reminder.action.label                          "Emlékeztetőművelet választása">
+<!ENTITY reminder.action.alert.label                    "Figyelmeztető ablak">
+<!ENTITY reminder.action.email.label                    "E-mail küldése">
+<!ENTITY reminder.new.label                             "Új">
+<!ENTITY reminder.delete.label                          "Törlés">
+<!ENTITY reminder.relation.start.label                  "az esemény kezdete">
+<!ENTITY reminder.relation.end.label                    "az esemény vége">
+<!ENTITY reminder.add.label                             "Hozzáadás">
+<!ENTITY reminder.add.accesskey                         "H">
+<!ENTITY reminder.remove.label                          "Eltávolítás">
+<!ENTITY reminder.remove.accesskey                      "E">
+
+
+<!-- Attendees dialog -->
+<!ENTITY invite.title.label              "Résztvevők meghívása">
+<!ENTITY event.organizer.label           "Szervező">
+<!ENTITY event.freebusy.suggest.slot     "Időablak javasolása:">
+<!ENTITY event.freebusy.next.slot        "Következő hely" >
+<!ENTITY event.freebusy.previous.slot    " Előző hely" >
+<!ENTITY event.freebusy.zoom             "Nagyítás:">
+<!ENTITY event.freebusy.plus             "Következő óra" >
+<!ENTITY event.freebusy.minus            "Előző óra" >
+<!ENTITY event.freebusy.legend.free      "Szabad" >
+<!ENTITY event.freebusy.legend.busy      "Elfoglalt" >
+<!ENTITY event.freebusy.legend.unknown   "Nincs információ" >
+
+<!-- Timezone dialog -->
+
+<!ENTITY timezone.title.label            "Adja meg az időzónát">
+
+<!-- Read-Only dialog -->
+
+<!ENTITY read.only.general.label         "Általános">
+<!ENTITY read.only.title.label           "Cím:">
+<!ENTITY read.only.repeat.label          "Ismétlés:">
+<!ENTITY read.only.location.label        "Hely:">
+<!ENTITY read.only.category.label        "Kategória:">
+<!ENTITY read.only.organizer.label       "Szervező:">
+<!ENTITY read.only.reply.label           "Válasz:">
+<!ENTITY read.only.accept.label          "Részt veszek">
+<!ENTITY read.only.decline.label         "Nem veszek rész">
+<!ENTITY read.only.needs.action.label    "Később döntök">
+<!ENTITY read.only.reminder.label        "Emlékeztető:">
+<!ENTITY read.only.attendees.label       "Résztvevők">
+<!ENTITY read.only.description.label     "Leírás">
+<!ENTITY read.only.documents.label       "Dokumentumok">
+<!ENTITY read.only.link.label            "Kapcsolódó hivatkozás">
+
+
+
+

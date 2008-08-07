@@ -1,0 +1,8 @@
+
+<!ENTITY editPageCmd.label                "Oldal szerkesztése a HTML-szerkesztőben"> 
+<!ENTITY editPageCmd.accesskey            "O">
+
+<!ENTITY editLinkCmd.label                "Hivatkozás szerkesztése a HTML-szerkesztőben">
+<!ENTITY editLinkCmd.accesskey            "H">
+
+

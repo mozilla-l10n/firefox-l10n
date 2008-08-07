@@ -1,0 +1,41 @@
+<!ENTITY dialog.title                 "Küldési beállítások">
+<!ENTITY sendMail.title               "Szövegformátum">
+<!ENTITY sendMaildesc.label           "Ha HTML-üzenetet küldése esetén egy vagy több címzettről nem ismert, hogy képes-e HTML-t fogadni:">
+<!ENTITY askMe.label                  "Kérdezzen rá, hogy mi a teendő">
+<!ENTITY askMe.accesskey              "K">
+<!ENTITY convertPlain.label           "Konvertálás szöveges üzenetté">
+<!ENTITY convertPlain.accesskey       "z">
+<!ENTITY sendHTML.label               "Küldés HTML formátumban">
+<!ENTITY sendHTML.accesskey           "H">
+<!ENTITY sendBoth.label               "Küldés mind szöveges, mind HTML-módban">
+<!ENTITY sendBoth.accesskey           "s">
+<!ENTITY receiveHTML.label            "Ha tudja, hogy egy adott címzett képes HTML-üzenetet fogadni, törölje a 'E-mail küldése normál szövegként (HTML nélkül)' kapcsolót a címzett kártyáján a címjegyzékben.">
+<!ENTITY override.label               "Megjegyzés: használja a címjegyzéket a címzettek preferált üzenetformátumának beállításához.">
+
+<!ENTITY domaindesc.label             "Ha üzenetét az alábbi tartományokhoz tartozó címre küldi, a &brandShortName; automatikusan a helyes formátumban fogja elküldeni.">
+<!ENTITY HTMLTab.label                "HTML-t fogadni képes tartományok">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Normál szöveget kérő tartományok">
+<!ENTITY PlainTextTab.accesskey       "E">
+<!ENTITY AddHtmlDomain.label          "Hozzáadás...">
+<!ENTITY AddHtmlDomain.accesskey      "H">
+<!ENTITY AddPlainText.label           "Hozzáadás...">
+<!ENTITY AddPlainText.accesskey       "o">
+<!ENTITY DeleteHtmlDomain.label       "Törlés">
+<!ENTITY DeleteHtmlDomain.accesskey   "T">
+<!ENTITY DeletePlainText.label        "Törlés">
+<!ENTITY DeletePlainText.accesskey    "r">
+
+<!ENTITY add.htmltitle                "HTML-levelet fogadni képes tartomány felvétele">
+<!ENTITY add.htmldomain               "HTML-levelet fogadni képes tartományok:">
+<!ENTITY add.htmldomain.accesskey     "H">
+<!ENTITY add.plaintexttitle           "Normál szöveget kérő tartomány felvétele">
+<!ENTITY add.plaintextdomain          "Normál szöveget kérő tartományok:">
+<!ENTITY add.plaintext.accesskey      "N">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Hibás tartománynév">
+<!ENTITY duplicationError.label       "@string@ nevű tartomány már szerepel ebben a listában.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Egy tartománynév nem lehet felsorolva a HTML és a normál szöveg listában is. @string@ nevű tartomány már létezik.">

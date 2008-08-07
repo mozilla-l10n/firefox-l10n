@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "Üzenetek küldése"> 
+<!ENTITY status.label "Állapot:">
+<!ENTITY progress.label "Folyamat:">

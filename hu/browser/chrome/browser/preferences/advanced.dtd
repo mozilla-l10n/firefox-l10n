@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Általános">
+
+<!ENTITY accessibility.label             "Kisegítő lehetőségek">
+
+<!ENTITY useCursorNavigation.label       "Kurzorbillentyűk használata az oldalon belüli navigációhoz">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "Szöveg keresése a keresett szó beírásának elkezdésétől">
+<!ENTITY searchStartTyping.accesskey     "d">
+<!ENTITY blockAutoRefresh.label          "Figyelmeztetés, ha a webhely átirányítja vagy frissíti az oldalt">
+<!ENTITY blockAutoRefresh.accesskey      "f">
+
+<!ENTITY browsing.label                  "Böngészés">
+
+<!ENTITY useAutoScroll.label             "Automatikus görgetés">
+<!ENTITY useAutoScroll.accesskey         "u">
+<!ENTITY useSmoothScrolling.label        "Finom görgetés">
+<!ENTITY useSmoothScrolling.accesskey    "F">
+<!ENTITY checkSpelling.label             "Helyesírás-ellenőrzés beírás közben">
+<!ENTITY checkSpelling.accesskey         "H">
+
+<!ENTITY systemDefaults.label            "Rendszer alapbeállításai">
+<!ENTITY alwaysCheckDefault.label        "Indításkor ellenőrzés, hogy a &brandShortName;-e az alapértelmezett böngésző"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "I">
+<!ENTITY checkNow.label                  "Ellenőrzés">
+<!ENTITY checkNow.accesskey              "E">
+
+<!ENTITY networkTab.label                "Hálózat">
+
+<!ENTITY connection.label                "Kapcsolat">
+
+<!ENTITY connectionDesc.label            "A &brandShortName; internetkapcsolatának megadása">
+<!ENTITY connectionSettings.label        "Beállítások...">
+<!ENTITY connectionSettings.accesskey    "B">
+
+<!ENTITY offlineStorage.label            "Kapcsolat nélküli tár">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Legfeljebb">
+<!ENTITY useCacheBefore.accesskey        "L">
+<!ENTITY useCacheAfter.label             "MB hely a gyorsítótárnak">
+<!ENTITY clearCacheNow.label             "Törlés most">
+<!ENTITY clearCacheNow.accesskey         "T">
+
+<!ENTITY updateTab.label                 "Frissítés">
+
+<!ENTITY autoCheck.label                 "Frissítések automatikus keresése:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "Telepített kiegészítők">
+<!ENTITY enableAddonsUpdate.accesskey    "T">
+<!ENTITY enableSearchUpdate.label        "Keresőszolgáltatások">
+<!ENTITY enableSearchUpdate.accesskey    "K">
+<!ENTITY whenUpdatesFound.label          "Amikor frissítések érhetők el a &brandShortName; programhoz:">
+<!ENTITY askMe.label                     "Kérdezzen rá, hogy mi a teendő">
+<!ENTITY askMe.accesskey                 "d">
+<!ENTITY modeAutomatic.label             "Frissítések automatikus letöltése és telepítése">
+<!ENTITY modeAutomatic.accesskey         "r">
+<!ENTITY modeAutoAddonWarn.label         "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
+<!ENTITY modeAutoAddonWarn.accesskey     "h">
+<!ENTITY updateHistory.label             "Frissítési előzmények megjelenítése">
+<!ENTITY updateHistory.accesskey         "s">
+
+<!ENTITY offlineNotify.label             "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
+<!ENTITY offlineNotify.accesskey         "w">
+<!ENTITY offlineNotifyExceptions.label   "Kivételek...">
+<!ENTITY offlineNotifyExceptions.accesskey "K">
+
+<!ENTITY offlineAppsList.label           "A következő webhelyek tároltak adatokat kapcsolat nélküli használatra:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Eltávolítás...">
+<!ENTITY offlineAppsListRemove.accesskey "E">
+<!ENTITY offlineAppRemove.confirm        "Kapcsolat nélküli adatok eltávolítása">
+
+<!ENTITY encryptionTab.label             "Titkosítás">
+
+<!ENTITY protocols.label                 "Protokollok">
+<!ENTITY useSSL3.label                   "SSL 3.0 használata">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 használata">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Tanúsítványok">
+<!ENTITY certSelection.description       "Ha a kiszolgáló elkéri a személyes tanúsítványt:">
+<!ENTITY certs.auto                      "Automatikus választás">
+<!ENTITY certs.auto.accesskey            "A">
+<!ENTITY certs.ask                       "Megerősítés minden alkalommal">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Tanúsítványkezelő">
+<!ENTITY viewCerts.accesskey             "n">
+<!ENTITY viewCRLs.label                  "Visszavonási listák">
+<!ENTITY viewCRLs.accesskey              "V">
+<!ENTITY verify2.label                   "Érvényesítés">
+<!ENTITY verify2.accesskey               "r">
+<!ENTITY viewSecurityDevices.label       "Adatvédelmi eszközök">
+<!ENTITY viewSecurityDevices.accesskey   "A">

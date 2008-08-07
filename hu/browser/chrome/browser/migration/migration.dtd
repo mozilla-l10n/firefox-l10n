@@ -1,0 +1,52 @@
+
+<!ENTITY migrationWizard.title          "Importálás varázsló">
+
+<!ENTITY importFrom.label               "Beállítások, könyvjelzők, előzmények, jelszavak és egyéb adatok importálása a következő termékből:">
+<!ENTITY importFromUnix.label           "Beállítások, könyvjelzők, előzmények, jelszavak és egyéb adatok importálása a következő termékből:">
+<!ENTITY importFromBookmarks.label      "Könyvjelzők importálása">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird vagy Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Nincs importálás">
+<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 vagy Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "HTML-fáljból">
+<!ENTITY importFromHTMLFile.accesskey   "H">
+
+<!ENTITY noMigrationSources.label       "Nem található olyan program, amely könyvjelzőket, előzményeket vagy jelszóadatokat tartalmaz.">
+
+<!ENTITY importSource.title             "Beállítások és adatok importálása">
+<!ENTITY importItems.title              "Importálandó elemek">
+<!ENTITY importItems.label              "Válassza ki az importálni kívánt elemeket:">
+
+<!ENTITY migrating.title                "Importálás...">
+<!ENTITY migrating.label                "A következő elemek importálása folyik...">
+
+<!ENTITY selectProfile.title            "Profil kiválasztása">
+<!ENTITY selectProfile.label            "A következő profilokból lehet importálni:">
+
+<!ENTITY done.title                     "Importálás befejeződött">
+<!ENTITY done.label                     "A következő elemek sikeresen importálva lettek:">
+
+

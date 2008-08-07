@@ -1,0 +1,55 @@
+<!ENTITY  history.label "Előzmények">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Előzmények megőrzése legalább">
+<!ENTITY rememberDaysBefore.accesskey  "e">
+<!ENTITY  rememberDaysAfter2.label      "napig">
+
+<!ENTITY  rememberForms.label           "Űrlapokon és keresősávban megadott adatok mentése">
+<!ENTITY rememberForms.accesskey       "d">
+
+<!ENTITY  rememberDownloads.label       "Letöltések megjegyzése">
+<!ENTITY rememberDownloads.accesskey   "L">
+
+
+<!ENTITY  cookies.label                 "Sütik">
+
+<!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
+<!ENTITY acceptCookies.accesskey       "S">
+
+<!ENTITY  acceptThirdParty.label        "Harmadik féltől származó sütik elfogadása">
+<!ENTITY acceptThirdParty.accesskey    "H">
+
+<!ENTITY  keepUntil.label               "Sütik megtartása:">
+<!ENTITY keepUntil.accesskey           "m">
+
+<!ENTITY  expire.label                  "amíg le nem járnak">
+<!ENTITY  close.label                   "a &brandShortName; bezárásáig">
+<!ENTITY  askEachTime.label             "megerősítés minden alkalommal">
+
+<!ENTITY  cookieExceptions.label        "Kivételek...">
+<!ENTITY cookieExceptions.accesskey    "v">
+
+<!ENTITY  showCookies.label             "Sütik megtekintése...">
+<!ENTITY showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "Személyes adatok">
+
+<!ENTITY  alwaysClear.label              "Személyes adatok törlése a &brandShortName; bezárásakor">
+<!ENTITY alwaysClear.accesskey          "a">
+
+<!ENTITY  askBeforeClear.label           "Jóváhagyás kérése a személyes adatok törlése előtt">
+<!ENTITY askBeforeClear.accesskey       "J">
+
+<!ENTITY  clearDataSettings.label        "Beállítások...">
+<!ENTITY clearDataSettings.accesskey    "B">
+
+<!ENTITY  clearDataNow.label             "Törlés most...">
+<!ENTITY  clearDataNow.label2            "Törlés most">
+<!ENTITY clearDataNow.accesskey         "T">

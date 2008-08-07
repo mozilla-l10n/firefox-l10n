@@ -1,0 +1,25 @@
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "Súgó">
+<!ENTITY helpMenu.accesskey "S">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Súgó">
+<!ENTITY helpMenuWin.accesskey "S">
+<!ENTITY releaseCmd.label "Verzióinformáció">
+<!ENTITY releaseCmd.accesskey "V">
+<!ENTITY openHelp.label "Tartalom">
+<!ENTITY openHelp.accesskey "H">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "&brandShortName; Súgó">
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey           "/">
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
+
+<!ENTITY updateCmd.label "Frissítések keresése...">
+<!ENTITY updateCmd.accesskey "F">
+<!ENTITY aboutCmd.label "A &brandFullName; névjegye">
+<!ENTITY aboutCmd.accesskey "A">

@@ -1,0 +1,221 @@
+<!ENTITY addressbookWindow.title                        "Címjegyzék">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label                                 "Fájl">
+<!ENTITY fileMenu.accesskey                             "F">
+<!ENTITY newMenu.label                                  "Új">
+<!ENTITY newMenu.accesskey                              "Ú">
+<!ENTITY newCard.label                                  "Névjegy...">
+<!ENTITY newCard.accesskey                              "N">
+<!ENTITY newCard.key                                    "N">
+<!ENTITY newListCmd.label                               "Levelezőlista...">
+<!ENTITY newListCmd.accesskey                           "L">
+<!ENTITY newAddressBookCmd.label                        "Címjegyzék...">
+<!ENTITY newAddressBookCmd.accesskey                    "C">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP-címtár...">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newMessageCmd.label                            "Üzenet">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "Ü">
+<!ENTITY closeCmd.label                                 "Bezárás">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "B">
+<!ENTITY printSetupCmd.label                            "Oldalbeállítás...">
+<!ENTITY printSetupCmd.accesskey                        "O">
+<!ENTITY printPreviewCardViewCmd.label                  "Nyomtatási kép">
+<!ENTITY printPreviewCardViewCmd.accesskey              "k">
+<!ENTITY printPreviewAddressBook.label                  "Címjegyzék nyomtatási képe">
+<!ENTITY printPreviewAddressBook.accesskey              "n">
+<!ENTITY printCardViewCmd.label                         "Névjegy nyomtatása...">
+<!ENTITY printCardViewCmd.accesskey                     "N">
+<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printAddressBook.label                         "Címjegyzék nyomtatása...">
+<!ENTITY printAddressBook.accesskey                     "C">
+
+<!ENTITY quitApplicationCmdWin.label                    "Kilépés"> 
+<!ENTITY quitApplicationCmdWin.accesskey                "K">
+<!ENTITY quitApplicationCmd.label                       "Kilépés"> 
+<!ENTITY quitApplicationCmd.accesskey                   "K">
+<!ENTITY quitApplicationCmd.key "Q">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "Szerkesztés">
+<!ENTITY editMenu.accesskey                             "z">
+<!ENTITY undoCmd.label                                  "Visszavonás">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "V">
+<!ENTITY redoCmd.label                                  "Újra">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "r">
+<!ENTITY cutCmd.label                                   "Kivágás">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "K">
+<!ENTITY copyCmd.label                                  "Másolás">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "M">
+<!ENTITY pasteCmd.label                                 "Beillesztés">
+<!ENTITY pasteCmd.key                                   "V">
+<!ENTITY pasteCmd.accesskey                             "B">
+<!ENTITY deleteCmd.label                                "Törlés">
+<!ENTITY deleteCmd.key                                  "D">
+<!ENTITY deleteCmd.accesskey                            "T">
+<!ENTITY deleteAbCmd.label                              "Címjegyzék törlése">
+<!ENTITY deleteCardCmd.label                            "Névjegy törlése">
+<!ENTITY deleteCardsCmd.label                           "A kijelölt névjegy törlése">
+<!ENTITY selectAllCmd.label                             "Mindent kijelöl">
+<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY selectAllCmd.accesskey                         "d">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Utónév és vezetéknév felcserélése">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "U">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label                            "Tulajdonságok...">
+<!ENTITY propertiesCmd.accesskey                        "T">
+<!ENTITY propertiesCmd.key                              "i">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label                                 "Nézet">
+<!ENTITY viewMenu.accesskey                             "N">
+<!ENTITY viewToolbarsMenu.label                         "Eszköztárak">
+<!ENTITY viewToolbarsMenu.accesskey                     "E"> 
+<!ENTITY showAbToolbarCmd.label                         "Címjegyzék eszköztár">
+<!ENTITY showAbToolbarCmd.accesskey                     "C">
+<!ENTITY showTaskbarCmd.label                           "Állapotsor">
+<!ENTITY showTaskbarCmd.accesskey                       "s">
+<!ENTITY customizeToolbar.label                         "Testreszabás...">
+<!ENTITY customizeToolbar.accesskey                     "T">
+<!ENTITY showCardPane.label                             "Névjegy panel">
+<!ENTITY showCardPane.accesskey                         "N">
+<!ENTITY menu_ShowNameAs.label                          "Nevek megjelenítése">
+<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY firstLastCmd.label                             "Utónév, vezetéknév">
+<!ENTITY firstLastCmd.accesskey                         "U"> 
+<!ENTITY lastFirstCmd.label                             "Vezetéknév, utónév">
+<!ENTITY lastFirstCmd.accesskey                         "V">
+<!ENTITY displayNameCmd.label                           "Megjelenítendő név">
+<!ENTITY displayNameCmd.accesskey                       "M">
+<!ENTITY sortMenu.label                                 "Rendezés">
+<!ENTITY sortMenu.accesskey                             "R">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "Eszközök">
+<!ENTITY tasksMenu.accesskey                            "e">
+<!ENTITY messengerCmd.label                             "Levelező és hírolvasó">
+<!ENTITY messengerCmd.accesskey                         "L">
+<!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY searchAddressesCmd.label                       "Címek keresése...">
+<!ENTITY searchAddressesCmd.accesskey                   "c">
+<!ENTITY importCmd.label                                "Importálás...">
+<!ENTITY importCmd.accesskey                            "i">
+<!ENTITY exportCmd.label                                "Exportálás...">
+<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY preferencesCmd.label                           "Beállítások...">
+<!ENTITY preferencesCmd.key                             "O">
+<!ENTITY preferencesCmd.accesskey                       "B">
+<!ENTITY preferencesCmdUnix.label                       "Beállítások">
+<!ENTITY preferencesCmdUnix.accesskey                   "B">
+
+<!-- Address Book Toolbar and Context Menus -->  
+<!ENTITY newcardButton.label                            "Új névjegy">
+<!ENTITY newcardButton.accesskey                        "n">
+<!ENTITY newlistButton.label                            "Új lista">
+<!ENTITY newlistButton.accesskey                        "l">
+<!ENTITY editButton.label                               "Tulajdonságok">
+<!ENTITY editButton.accesskey                           "T">
+<!ENTITY newmsgButton.label                             "Új üzenet">
+<!ENTITY newmsgButton.accesskey                         "z">
+<!ENTITY newIM.label                                    "Azonnali üzenet">
+<!ENTITY newIM.accesskey                                "A">
+<!ENTITY deleteButton.label                             "Törlés">
+<!ENTITY deleteButton.accesskey                         "T">
+<!ENTITY throbberItem.title                             "Aktivitásjelző">
+
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newcardButton.tooltip                          "Új névjegy létrehozása">
+<!ENTITY newlistButton.tooltip                          "Egy új lista létrehozása">
+<!ENTITY editButton.tooltip                             "A kijelölt névjegy szerkesztése">
+<!ENTITY newmsgButton.tooltip                           "Új üzenet létrehozása">
+<!ENTITY newIM.tooltip                                  "Üzenet küldése vagy csevegés">
+<!ENTITY deleteButton.tooltip                           "A kijelölt névjegy vagy a címjegyzék törlése">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Címjegyzékek">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "Név vagy e-mail">
+<!ENTITY SearchNameOrEmail.accesskey                    "N">
+<!ENTITY advancedButton.tooltip                         "Keresés az üzenetekben...">
+<!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY searchItem.title "Gyorskeresés">
+
+<!-- Results Pane -->
+<!ENTITY GeneratedName.label                            "Név">
+<!ENTITY GeneratedName.accesskey                        "N">
+<!ENTITY PrimaryEmail.label                             "E-mail">
+<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY ScreenName.label                               "Felhasználói név">
+<!ENTITY ScreenName.accesskey                           "F">
+<!ENTITY Company.label                                  "Szervezet">
+<!ENTITY Company.accesskey                              "S">
+<!ENTITY NickName.label                                 "Becenév">
+<!ENTITY NickName.accesskey                             "B">
+<!ENTITY SecondEmail.label                              "További e-mail">
+<!ENTITY SecondEmail.accesskey                          "T">
+<!ENTITY Department.label                               "Részleg">
+<!ENTITY Department.accesskey                           "r">
+<!ENTITY JobTitle.label                                 "Beosztás">
+<!ENTITY JobTitle.accesskey                             "B">
+<!ENTITY CellularNumber.label                           "Mobil">
+<!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY PagerNumber.label                              "Személyhívó">
+<!ENTITY PagerNumber.accesskey                          "h">
+<!ENTITY FaxNumber.label                                "Fax">
+<!ENTITY FaxNumber.accesskey                            "F">
+<!ENTITY HomePhone.label                                "Otthoni telefon">
+<!ENTITY HomePhone.accesskey                            "O">
+<!ENTITY WorkPhone.label                                "Munkahelyi telefon">
+<!ENTITY WorkPhone.accesskey                            "u">
+<!ENTITY sortAscending.label                            "Növekvő sorrendben">
+<!ENTITY sortAscending.accesskey                        "N">
+<!ENTITY sortDescending.label                           "Csökkenő sorrendben">
+<!ENTITY sortDescending.accesskey                       "C">
+<!ENTITY _PhoneticName.label                            "Fonetikus név">
+<!ENTITY _PhoneticName.accesskey                        "F">
+
+<!-- Results pane context menu -->
+<!ENTITY composeEmail.label                             "Levél írása">
+<!ENTITY composeEmail.accesskey                         "L">
+<!ENTITY deleteAddrBookCard.label                       "Törlés">
+<!ENTITY deleteAddrBookCard.accesskey                   "T">
+<!ENTITY newAddrBookCard.label                          "Új névjegy...">
+<!ENTITY newAddrBookCard.accesskey                      "n">
+<!ENTITY newAddrBookMailingList.label                   "Új címlista...">
+<!ENTITY newAddrBookMailingList.accesskey               "c">
+<!ENTITY addrBookCardProperties.label                   "Tulajdonságok">
+<!ENTITY addrBookCardProperties.accesskey               "T">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Kapcsolat">
+<!ENTITY home.heading                                   "Otthon">
+<!ENTITY other.heading                                  "Egyéb">
+<!ENTITY phone.heading                                  "Telefon">
+<!ENTITY work.heading                                   "Munkahely">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Leírás">
+<!ENTITY addresses.heading                              "Címek">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Térkép">
+<!ENTITY mapIt.tooltip                                  "A címhez tartozó térkép megjelenítése a webről">
+
+<!-- Status Bar -->
+<!ENTITY statusText.label "">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label "Ablak">
+<!ENTITY minimizeWindow.label "Kis méret">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Előtérbe hozás">
+<!ENTITY zoomWindow.label "Nagyítás">

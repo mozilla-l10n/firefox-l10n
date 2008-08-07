@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title      "A &brandFullName; névjegye">
+<!ENTITY credits.label          "Közreműködők">
+<!ENTITY credits.accesskey      "K">
+<!ENTITY aboutLink.label        "&lt; A &brandFullName; névjegye">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion           "verzió">
+<!ENTITY copyrightText          "&#169;1998-2008 A hozzájárulók. Minden jog fenntartva. A Mozilla Thunderbird és a
+                                 Thunderbird logók a Mozilla Foundation védjegyei.  Minden jog
+                                 fenntartva.">

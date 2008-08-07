@@ -1,0 +1,28 @@
+<!ENTITY lHeader                      "Mellékletek">
+
+<!ENTITY askOnSave.label              "Mellékletek mappa">
+<!ENTITY alwaysAsk.label              "Rákérdezés a célmappára minden egyes melléklet mentése előtt">
+<!ENTITY neverAsk.label               "Minden melléklet mentése a következő mappába:">
+<!ENTITY desktop.label                "Asztal">
+<!ENTITY downloads.label              "Letöltések">
+<!ENTITY choose.label                 "Egyéb...">
+<!ENTITY showFolder.label             "Mappa megjelenítése">
+
+<!ENTITY downloadManagerWindow.label  "Mellékletkezelő">
+<!ENTITY showWhenStarting.label       "A Mellékletkezelő ablak megjelenítése a letöltés megkezdésekor">
+<!ENTITY closeWhenDone.label          "A Mellékletkezelő bezárása az összes letöltés befejezésekor">
+
+<!ENTITY fileTypes.label              "Fájltípusok">
+<!-- XXX this text string could improve --> 
+<!ENTITY fileTypesDescription.label   "A következő fájltípusokra automatikusan hajtsa végre a megadott műveletet:">
+<!ENTITY fileTypeColName.label        "Fájltípus">
+<!ENTITY fileHandlerColName.label     "Alkalmazás">
+<!ENTITY editFileHandler.label        "Művelet megváltoztatása...">
+<!ENTITY editFileHandler.accesskey    "M">
+<!ENTITY removeFileHandler.label      "Eltávolítás">
+<!ENTITY removeFileHandler.accesskey  "E">
+
+<!ENTITY plugins.label                "Bővítmények...">
+<!ENTITY plugins.accesskey            "B">
+
+

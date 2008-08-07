@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "HTML-szerkesztő">
+<!ENTITY editorCheck.accesskey "H">
+
+<!ENTITY compose.label "HTML-szerkesztő">
+<!ENTITY editing.label "Új oldal beállításai">
+<!ENTITY toolbars.label "Eszköztárak">
+<!ENTITY publish.label "Közzététel">

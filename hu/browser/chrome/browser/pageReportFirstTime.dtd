@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label            "Ez a webhely kéretlenül megnyitott egy felugró ablakot. A &brandShortName; automatikusan bezárta a felugró ablakot.  A felugró ablak megjelenésének megakadályozását a &brandShortName; állapotsorában egy ikon jelezheti.">
+
+<!ENTITY endDescription.label              "Ha Ön erre az ikonra kattint, megtekintheti, hogy a &brandShortName; mely kiszolgálókat blokkolja, és kézzel engedélyezheti azokat, amelyek helyes működéséhez a felugró ablakok nélkülözhetetlenek.">
+
+<!ENTITY caption.label                     "Felugró ablakok">
+
+<!ENTITY done.label "Bezárás">

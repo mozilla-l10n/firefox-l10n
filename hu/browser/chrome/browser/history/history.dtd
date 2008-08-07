@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Keresés:">
+<!ENTITY find.accesskey            "K">
+<!ENTITY expand.label              "Kinyitás">
+<!ENTITY expand.accesskey          "K">
+<!ENTITY collapse.label            "Becsukás">
+<!ENTITY collapse.accesskey        "B">
+<!ENTITY byDate.label "Dátum szerint">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Kiszolgáló szerint">
+<!ENTITY bySite.accesskey "K">
+<!ENTITY view.label "Megjelenítés">
+<!ENTITY view.accesskey "M">
+<!ENTITY byMostVisited.label "Látogatottság szerint">
+<!ENTITY byMostVisited.accesskey "L">
+<!ENTITY byLastVisited.label "Utolsó látogatás ideje szerint">
+<!ENTITY byLastVisited.accesskey "U">
+<!ENTITY byDayAndSite.label "Dátum és kiszolgáló szerint">
+<!ENTITY byDayAndSite.accesskey "m">
+<!ENTITY openLinkInWindow.label "Megnyitás">
+<!ENTITY openLinkInWindow.accesskey "M">
+<!ENTITY openInNewTab.label "Megnyitás új lapon">
+<!ENTITY openInNewTab.accesskey "l">
+<!ENTITY openInNewWindow.label "Megnyitás új ablakban">
+<!ENTITY openInNewWindow.accesskey "a">
+<!ENTITY bookmarkLink.label "Hivatkozás felvétele a könyvjelzők közé...">
+<!ENTITY bookmarkLink.accesskey "n">
+<!ENTITY copyLink.label "Hivatkozás címének másolása">
+<!ENTITY copyLink.accesskey "v">

@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label                   "Általános">
+<!ENTITY itemAutoComplete.label              "Címzés">
+<!ENTITY itemSpellCheck.label                "Helyesírás">
+<!ENTITY itemSendFormat.label                "Küldés formátuma">
+
+<!ENTITY forwardReply.label                   "Levelek továbbítása">
+<!ENTITY forwardMsg.label                     "Levél továbbítása:">
+<!ENTITY forwardMsg.accesskey                 "L">
+<!ENTITY inline.label                         "Beágyazva">
+<!ENTITY inline.accesskey                     "B">
+<!ENTITY asAttachment.label                   "Mellékletként">
+<!ENTITY asAttachment.accesskey               "M">
+<!ENTITY addExtension.label                   "kiterjesztés hozzáadása a fájlnévhez">
+<!ENTITY addExtension.accesskey               "f">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Betű:">
+<!ENTITY font.accesskey                       "B">
+<!ENTITY size.label                           "Méret:">
+<!ENTITY size.accesskey                       "M">
+<!ENTITY fontColor.label                      "Szövegszín:">
+<!ENTITY fontColor.accesskey                  "S">
+<!ENTITY bgColor.label                        "Háttérszín:">
+<!ENTITY bgColor.accesskey                    "H">
+<!ENTITY restoreHTMLDefaults.label            "Alapértelmezett értékek visszaállítása">
+<!ENTITY restoreHTMLDefaults.accesskey        "A">
+
+<!ENTITY sendingMessagesHeader.label          "Üzenetek szerkesztése">
+<!ENTITY spellCheck.label                     "Helyesírás ellenőrzése a küldés előtt">
+<!ENTITY spellCheck.accesskey                 "H">
+<!ENTITY spellCheckInline.label               "Helyesírás-ellenőrzés beírás közben">
+<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY languagePopup.label                  "Nyelv:">
+<!ENTITY languagePopup.accessKey              "N">
+<!ENTITY downloadDictionaries.label           "További szótárak letöltése">
+
+<!ENTITY useMIME.label                        "8 bites karaktereket tartalmazó levelek esetén idézőjeles nyomtatható MIME-kódolás használata">
+<!ENTITY useMIME.accesskey                    "b">
+<!ENTITY warnOnSendAccelKey.label             "Jóváhagyás kérése gyorsbillentyűvel végzett levélküldéskor">
+<!ENTITY warnOnSendAccelKey.accesskey         "J">
+<!ENTITY autoSave.label                       "Automatikus mentés">
+<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSaveEnd.label                    "percenként">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Levelek tördelése">
+<!ENTITY wrapOutMsg.accesskey                 "T">
+<!ENTITY char.label                           "karakter szélesre">
+
+<!ENTITY emailCollectionPicker.label           "A kimenő levelek címeinek automatikus hozzáadása:">
+<!ENTITY emailCollectionPicker.accesskey       "E">
+<!ENTITY addressingTitle.label                 "Automatikus címkiegészítés">
+<!ENTITY autocompleteText.label                "Üzenetek címzésekor egyezések keresése a következő helyeken:">
+<!ENTITY addressingEnable.label                "Helyi címjegyzékek">
+<!ENTITY addressingEnable.accesskey            "H">
+<!ENTITY directories.label                     "Címtárkiszolgáló:">
+<!ENTITY directories.accesskey                 "C">
+<!ENTITY editDirectories.label                 "Címtárak szerkesztése...">
+<!ENTITY editDirectories.accesskey             "C">
+<!ENTITY matchText.label                       "Ha a helyi címjegyzékekben van egyező cím:">
+<!ENTITY skipDirectory.label                   "Nem történik keresés a címtárban">
+
+<!ENTITY sendOptionsCaption.label              "Üzenetküldési és HTML-beállítások">
+<!ENTITY sendOptionsDescription.label          "Szövegformátum beállítása">
+<!ENTITY sendOptions.label                     "Üzenetküldési beállítások...">
+<!ENTITY sendOptions.accesskey                 "B">

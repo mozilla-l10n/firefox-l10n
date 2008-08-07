@@ -1,0 +1,15 @@
+<!ENTITY offlineMenu.label "Kapcsolat nélküli munka">
+<!ENTITY offlineMenu.accesskey "p">
+<!ENTITY synchronizeOfflineCmd.label "Letöltés/szinkronizálás most...">
+<!ENTITY synchronizeOfflineCmd.accesskey "s">
+<!ENTITY settingsOfflineCmd.label "Kapcsolat nélküli beállítások...">
+<!ENTITY settingsOfflineCmd.accesskey "n">
+<!ENTITY downloadSelectedCmd.label "Kijelölt üzenetek letöltése">
+<!ENTITY downloadSelectedCmd.accesskey "K">
+<!ENTITY downloadStarredCmd.label "Csillagozott üzenetek letöltése">
+<!ENTITY downloadStarredCmd.accesskey "C">
+
+<!ENTITY prefOfflineConnection.label "Kapcsolat beállításai">
+<!ENTITY prefOfflineDesc.label "Kapcsolat nélküli munka beállításainak kezelése">
+<!ENTITY prefOfflineButton.label "Kapcsolat nélküli beállítások...">
+<!ENTITY prefOfflineButton.accesskey "K">

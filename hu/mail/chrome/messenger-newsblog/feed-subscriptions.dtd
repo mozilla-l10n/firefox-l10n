@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS-feliratkozások">
+<!ENTITY subscriptionDesc.label "Megjegyzés: A hírforrás mappájának eltávolítása vagy módosítása nincs hatással a már letöltött cikkekre.">
+<!ENTITY feedTitle.label "Cím:">
+<!ENTITY location.label  "Hely:">
+
+<!ENTITY button.addFeed.label       "Hozzáadás">
+<!ENTITY button.addFeed.accesskey   "H">
+<!ENTITY button.editFeed.label      "Szerkesztés">
+<!ENTITY button.editFeed.accesskey  "z">
+<!ENTITY button.removeFeed.label "Eltávolítás">
+<!ENTITY button.removeFeed.accesskey   "E">
+<!ENTITY button.importOPML.label "Importálás">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Exportálás">
+<!ENTITY button.exportOPML.accesskey   "X">
+
+<!ENTITY cmd.close.commandKey             "w">

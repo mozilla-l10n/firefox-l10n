@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Szűrőnapló">
+<!ENTITY viewLogInfo.text "A Szűrőnapló dokumentálja a postafiókon lefutott szűrőket. Az alábbi jelölőnégyzet segítségével engedélyezhető a naplózás.">
+<!ENTITY clearLog.label "Napló törlése">
+<!ENTITY clearLog.accesskey "N">
+<!ENTITY enableLog.label "Szűrőnapló engedélyezése">
+<!ENTITY enableLog.accesskey "S">
+<!ENTITY closeLog.label "Bezárás">
+<!ENTITY closeLog.accesskey "B">

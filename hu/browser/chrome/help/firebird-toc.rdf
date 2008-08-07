@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+]>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <rdf:Description about="urn:root">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="firefox-help" nc:name="Üdvözli a &brandFullName; Súgó" nc:link="firefox_welcome.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird" nc:name="A &brandFullName; használata" nc:link="using_firebird.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager" nc:name="A Letöltéskezelő használata" nc:link="download_manager.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="customize-firebird" nc:name="Testreszabás" nc:link="customization.xhtml"/> </rdf:li>
+        <rdf:li>
+          <rdf:Description ID="prefs-win" nc:name="Beállítások" nc:link="prefs.xhtml" nc:platform="win os2">
+            <nc:subheadings rdf:resource="#prefs-tree"/>
+          </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+          <rdf:Description ID="prefs-unix" nc:name="Beállítások" nc:link="prefs.xhtml" nc:platform="unix mac">
+            <nc:subheadings rdf:resource="#prefs-tree"/>
+          </rdf:Description>
+        </rdf:li>
+        <rdf:li> <rdf:Description ID="popup-blocker" nc:name="Controlling Pop-ups" nc:link="popup.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cookies" nc:name="Sütik kezelése" nc:link="cookies.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing" nc:name="Lapok" nc:link="tabbed_browsing.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="firebird-keyboard-shortcuts" nc:name="Billentyűparancsok" nc:link="shortcuts.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="firebird-mouse-shortcuts" nc:name="Egérparancsok" nc:link="mouse_shortcuts.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y" nc:name="Kisegítő lehetőségek" nc:link="accessibility.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu" nc:name="Menüreferencia" nc:link="menu_reference.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers" nc:name="Segítség Internet Explorer-felhasználóknak" nc:link="forieusers.xhtml"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="using-firebird-navigating-web-pages" nc:name="Weboldalak bejárása" nc:link="using_firebird.xhtml#navigating_web_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird-searching" nc:name="Keresés" nc:link="using_firebird.xhtml#searching"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird-copying-saving-and-printing-pages" nc:name="Oldalak másolása, mentése és nyomtatása" nc:link="using_firebird.xhtml#copying_saving_and_printing_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird-improving-speed-and-efficiency" nc:name="A sebesség és a hatékonyság növelése" nc:link="using_firebird.xhtml#improving_speed_and_efficiency"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-download-manager">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="using-download-manager-whatis" nc:name="Mi az a Letöltéskezelő?" nc:link="download_manager.xhtml#what_is_download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-can-i-do" nc:name="Mire használható a Letöltéskezelő?" nc:link="download_manager.xhtml#do_with_download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-prefs-win" nc:name="A Letöltéskezelő beállításai" nc:link="download_manager.xhtml#download_manager_options" nc:platform="win os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-prefs-unix" nc:name="A Letöltéskezelő beállításai" nc:link="download_manager.xhtml#download_manager_options" nc:platform="unix mac"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-navigating-web-pages">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-viewing-your-home-page" nc:name="A kezdőlap megtekintése" nc:link="using_firebird.xhtml#viewing_your_home_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-moving-to-another-page" nc:name="Áttérés másik oldalra" nc:link="using_firebird.xhtml#moving_to_another_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-clicking-a-link" nc:name="Kattintás hivatkozásra" nc:link="using_firebird.xhtml#clicking_a_link"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-retracing-your-steps" nc:name="Korábbi lépések követése" nc:link="using_firebird.xhtml#retracing_your_steps"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-stopping-and-reloading" nc:name="Leállítás és frissítés" nc:link="using_firebird.xhtml#stopping_and_reloading"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-tabbed-browsing" nc:name="Lapok" nc:link="tabbed_browsing.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-sidebar" nc:name="Az oldalsáv használata" nc:link="using_firebird.xhtml#using_the_sidebar"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-searching">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="use-firebird-searching-the-web" nc:name="Keresés a weben" nc:link="using_firebird.xhtml#searching_the_web"/> </rdf:li>
+        <rdf:li><rdf:Description ID="use-firebird-searching-on-selected-words-in-a-web-page" nc:name="Weboldalon kijelölt szavak keresése a weben" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="use-firebird-searching-within-a-page" nc:name="Keresés az oldalon" nc:link="using_firebird.xhtml#searching_within_a_page"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-copying-saving-and-printing-pages">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-copying-part-of-a-page" nc:name="Oldal részének másolása" nc:link="using_firebird.xhtml#copying_part_of_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-saving-all-or-part-of-a-page" nc:name="Oldal mentése" nc:link="using_firebird.xhtml#saving_all_or_part_of_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-printing-a-page" nc:name="Oldal nyomtatása" nc:link="using_firebird.xhtml#printing_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-using-print-preview" nc:name="A nyomtatási kép használata" nc:link="using_firebird.xhtml#using_print_preview" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-using-page-setup" nc:name="Az oldal beállítása" nc:link="using_firebird.xhtml#using_page_setup"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-improving-speed-and-efficiency">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="using-firebird-managing-different-file-types" nc:name="Különböző fájltípusok kezelése" nc:link="using_firebird.xhtml#managing_different_file_types"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-making-firebird-default-browser" nc:name="Beállítás alapértelmezett böngészőként" nc:link="using_firebird.xhtml#making_firebird_your_default_browser"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-cache-prefs-win" nc:name="A gyorsítótár beállításai" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="win os2"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-cache-prefs-unix" nc:name="A gyorsítótár beállításai" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="mac unix"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#customize-firebird">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="customize-toolbars" nc:name="Eszköztárak" nc:link="customization.xhtml#toolbars"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="add-ons" nc:name="Kiegészítők (kiterjesztések és témák)" nc:link="customization.xhtml#add_ons"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#customize-toolbars">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="customize-toolbar-rearrange" nc:name="Eszköztárelemek átrendezése" nc:link="customization.xhtml#rearranging_toolbar_items"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="customize-toolbars-adding" nc:name="Eszköztárak elrejtése, hozzáadása és eltávolítása" nc:link="customization.xhtml#adding_removing_toolbars"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#add-ons">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="add-ons-installing" nc:name="Kiegészítők beszerzése és telepítése" nc:link="customization.xhtml#add_ons_installing"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="add-ons-manager" nc:name="A Kiegészítőkezelő használata" nc:link="customization.xhtml#add_ons_manager"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#popup-blocker">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="popup-blocker-what-are-popups" nc:name="What are Pop-ups?" nc:link="popup.xhtml#what_are_popups"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="popup-blocker-prefs-win" nc:name="Pop-up Blocker Options" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="win os2"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="popup-blocker-prefs-unix" nc:name="Pop-up Blocker Preferences" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="unix mac"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#cookies">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="cookies-what-is-a-cookie" nc:name="Mi az a süti?" nc:link="cookies.xhtml#what_is_a_cookie"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-setting-up-cookie-rules" nc:name="Sütiszabályok beállítása" nc:link="cookies.xhtml#setting_up_cookie_rules"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-all-the-settings" nc:name="Sütik beállításai" nc:link="cookies.xhtml#all_the_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-accepting-and-blocking-cookies" nc:name="Sütik elfogadása és visszautasítása" nc:link="cookies.xhtml#accepting_and_blocking_cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-exceptions" nc:name="Kivételek - Sütik ablak" nc:link="cookies.xhtml#cookies_exceptions"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-view" nc:name="Sütik megtekintése ablak" nc:link="cookies.xhtml#view_cookies"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#tabbed-browsing">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-creating-loading-tabs" nc:name="Lapok létrehozása és betöltése" nc:link="tabbed_browsing.xhtml#creating_loading_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-moving-tabs" nc:name="Lapok átrendezése az ablakban" nc:link="tabbed_browsing.xhtml#moving_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-closing-tabs" nc:name="Lapok bezárása és helyreállítása" nc:link="tabbed_browsing.xhtml#closing_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-customizing" nc:name="A lapok beállítása" nc:link="tabbed_browsing.xhtml#customizing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-tips-tricks" nc:name="Tippek és trükkök" nc:link="tabbed_browsing.xhtml#tips_tricks"/> </rdf:li>
+       </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-keyboard-navigation" nc:name="Billentyűzet használata" nc:link="accessibility.xhtml#using_a_keyboard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-mouse-navigation" nc:name="Egér használata" nc:link="accessibility.xhtml#using_a_mouse"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-fonts-and-colors" nc:name="Betűk és színek" nc:link="accessibility.xhtml#fonts_and_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-web-content" nc:name="Webtartalom szabályozása" nc:link="accessibility.xhtml#controlling_web_content"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-compatibility" nc:name="Kompatibilitás a kisegítő technológiákkal" nc:link="accessibility.xhtml#compatibility_with_assistive_technologies"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-online" nc:name="Online segítség keresése" nc:link="accessibility.xhtml#finding_help_online"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-keyboard-navigation">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-keyboard-shortcuts" nc:name="Billentyűparancsok" nc:link="accessibility.xhtml#keyboard_shortcuts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-caret-browsing" nc:name="Kurzorbillentyűk használata az oldalon belüli navigációhoz" nc:link="accessibility.xhtml#always_use_cursor_keys"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-typeahead-find" nc:name="Szöveg keresése a keresett szó beírásának elkezdésétől" nc:link="accessibility.xhtml#find_as_you_type"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-mouse-navigation">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-mouse-shortcuts" nc:name="Közös egérparancsok" nc:link="accessibility.xhtml#common_mouse_shortcuts"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-fonts-and-colors">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-override-fonts" nc:name="Oldal betűkészleteinek felülbírálása" nc:link="accessibility.xhtml#overriding_page_fonts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-minimum-font-size" nc:name="Minimális betűméret beállítása" nc:link="accessibility.xhtml#setting_a_minimum_font_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-text-zoom" nc:name="Oldal szövegének átméretezése" nc:link="accessibility.xhtml#resizing_page_text"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-override-colors" nc:name="Oldal színeinek felülbírálása" nc:link="accessibility.xhtml#overriding_page_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-high-contrast" nc:name="Kontrasztos téma használata" nc:link="accessibility.xhtml#using_a_high_contrast_theme" nc:platform="win unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-web-content">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-popup-windows" nc:name="Blocking Pop-up Windows" nc:link="accessibility.xhtml#blocking_popup_windows"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-java" nc:name="Java-kisalkalmazások kikapcsolása" nc:link="accessibility.xhtml#turning_off_java_applets"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-javascript" nc:name="JavaScript viselkedésének korlátozása" nc:link="accessibility.xhtml#restricting_javascript_behavior"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-firefox" nc:name="&brandShortName;" nc:link="menu_reference.xhtml#firefox" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file" nc:name="Fájl" nc:link="menu_reference.xhtml#file"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-edit" nc:name="Szerkesztés" nc:link="menu_reference.xhtml#edit"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view" nc:name="Nézet" nc:link="menu_reference.xhtml#view"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go" nc:name="Előzmények" nc:link="menu_reference.xhtml#go"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks" nc:name="Könyvjelzők" nc:link="menu_reference.xhtml#bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools" nc:name="Eszközök" nc:link="menu_reference.xhtml#tools"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window" nc:name="Ablak" nc:link="menu_reference.xhtml#window" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help" nc:name="Súgó" nc:link="menu_reference.xhtml#help"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-firefox">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-firefox-about" nc:name="A &brandFullName; névjegye" nc:link="menu_reference.xhtml#about_mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-firefox-preferences" nc:name="Beállítások..." nc:link="menu_reference.xhtml#prefs_mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-firefox-quit" nc:name="Kilépés a &brandShortName;ból" nc:link="menu_reference.xhtml#quit_mac"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-file">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-file-new-window" nc:name="Új ablak" nc:link="menu_reference.xhtml#new_window"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-new-tab" nc:name="Új lap" nc:link="menu_reference.xhtml#new_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-open-location" nc:name="Open Location…" nc:link="menu_reference.xhtml#open_location"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-open-file" nc:name="Open File…" nc:link="menu_reference.xhtml#open_file"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-close" nc:name="Bezárás (Ablak bezárása)" nc:link="menu_reference.xhtml#close"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-close-tab" nc:name="Lap bezárása" nc:link="menu_reference.xhtml#close_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-save-page-as" nc:name="Save Page As…" nc:link="menu_reference.xhtml#save_page_as"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-send-page" nc:name="Send Link…" nc:link="menu_reference.xhtml#send_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-page-setup" nc:name="Oldalbeállítás..." nc:link="menu_reference.xhtml#page_setup"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-print-preview" nc:name="Nyomtatási kép" nc:link="menu_reference.xhtml#print_preview" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-print" nc:name="Nyomtatás..." nc:link="menu_reference.xhtml#print"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-import" nc:name="Importálás..." nc:link="menu_reference.xhtml#import"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-work-offline" nc:name="Kapcsolat nélküli munka" nc:link="menu_reference.xhtml#work_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-exit-win" nc:name="Kilépés" nc:link="menu_reference.xhtml#exit" nc:platform="win os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-exit-unix" nc:name="Kilépés" nc:link="menu_reference.xhtml#exit" nc:platform="unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-edit">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-undo" nc:name="Visszavonás" nc:link="menu_reference.xhtml#undo"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-redo" nc:name="Újra" nc:link="menu_reference.xhtml#redo"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-cut" nc:name="Kivágás" nc:link="menu_reference.xhtml#cut"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-copy" nc:name="Másolás" nc:link="menu_reference.xhtml#copy"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-paste" nc:name="Beillesztés" nc:link="menu_reference.xhtml#paste"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-delete" nc:name="Törlés" nc:link="menu_reference.xhtml#delete"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-select-all" nc:name="Mindent kijelöl" nc:link="menu_reference.xhtml#select_all"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-find-in-this-page" nc:name="Find in This Page…" nc:link="menu_reference.xhtml#find_in_this_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-find-again" nc:name="Következő keresése" nc:link="menu_reference.xhtml#find_again"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-preferences" nc:name="Beállítások" nc:link="menu_reference.xhtml#prefs" nc:platform="unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars" nc:name="Eszköztárak" nc:link="menu_reference.xhtml#toolbars"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-status-bar" nc:name="Állapotsor" nc:link="menu_reference.xhtml#status_bar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar" nc:name="Oldalsáv" nc:link="menu_reference.xhtml#sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-stop" nc:name="Leállítás" nc:link="menu_reference.xhtml#stop"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-reload" nc:name="Frissítés" nc:link="menu_reference.xhtml#reload"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size" nc:name="Szöveg mérete" nc:link="menu_reference.xhtml#text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-style" nc:name="Oldalstílus" nc:link="menu_reference.xhtml#page_style"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-character-encoding" nc:name="Karakterkódolás" nc:link="menu_reference.xhtml#character_encoding"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-source" nc:name="Oldal forrása" nc:link="menu_reference.xhtml#page_source"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-full-screen" nc:name="Teljes képernyős üzemmód" nc:link="menu_reference.xhtml#full_screen" nc:platform="win unix os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-toolbars">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-navigation" nc:name="Böngésző eszköztár" nc:link="menu_reference.xhtml#navigation_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-bookmarks" nc:name="Könyvjelző eszköztár" nc:link="menu_reference.xhtml#bookmarks_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-customize" nc:name="Testreszabás" nc:link="menu_reference.xhtml#customize"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-sidebar">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar-bookmarks" nc:name="Könyvjelzők" nc:link="menu_reference.xhtml#view_sidebar_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar-history" nc:name="Előzmények" nc:link="menu_reference.xhtml#view_sidebar_history"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-text-size">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-increase" nc:name="Növelés" nc:link="menu_reference.xhtml#increase_text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-decrease" nc:name="Csökkentés" nc:link="menu_reference.xhtml#decrease_text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-reset" nc:name="Normál" nc:link="menu_reference.xhtml#reset_text_size"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-page-style">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-page-style-no-style" nc:name="Nincs stílus" nc:link="menu_reference.xhtml#no_style"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-style-basic-page-style" nc:name="Alap oldalstílus" nc:link="menu_reference.xhtml#basic_page_style"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-go">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-go-back" nc:name="Vissza" nc:link="menu_reference.xhtml#back"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-forward" nc:name="Előre" nc:link="menu_reference.xhtml#forward"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-home" nc:name="Kezdőlap" nc:link="menu_reference.xhtml#home"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-closed-tabs" nc:name="Nemrég bezárt lapok" nc:link="menu_reference.xhtml#closed_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-history" nc:name="Megjelenítés az oldalsávon" nc:link="menu_reference.xhtml#go_history"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-bookmarks">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-add-to-bookmarks" nc:name="Oldal hozzáadása a könyvjelzőkhöz" nc:link="menu_reference.xhtml#add_to_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-subscribe" nc:name="Subscribe to This Page…" nc:link="menu_reference.xhtml#subscribe"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-bookmark-all-tabs" nc:name="Bookmark All Tabs…" nc:link="menu_reference.xhtml#bookmark_all_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-organize-bookmarks" nc:name="Organize Bookmarks…" nc:link="menu_reference.xhtml#organize_bookmarks"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-tools">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-tools-web-search" nc:name="Keresés a weben" nc:link="menu_reference.xhtml#web_search"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-downloads" nc:name="Letöltések" nc:link="menu_reference.xhtml#downloads"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-add-ons" nc:name="Kiegészítők" nc:link="menu_reference.xhtml#add_ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-javascript-console" nc:name="Hibakonzol" nc:link="menu_reference.xhtml#javascript_console"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-page-info" nc:name="Oldal adatai" nc:link="menu_reference.xhtml#page_info"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-clear-private-data" nc:name="Clear Private Data…" nc:link="menu_reference.xhtml#clear_private_data"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-options" nc:name="Beállítások" nc:link="menu_reference.xhtml#options" nc:platform="win os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-window">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-window-minimize" nc:name="Kis méret" nc:link="menu_reference.xhtml#minimize"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window-zoom" nc:name="Nagyítás" nc:link="menu_reference.xhtml#zoom"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window-open-windows" nc:name="(Megnyitott ablakok)" nc:link="menu_reference.xhtml#open-windows"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-help">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-help-help-contents" nc:name="Tartalom" nc:link="menu_reference.xhtml#help_contents" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-help-contents-mac" nc:name="&brandShortName; Súgó" nc:link="menu_reference.xhtml#help_contents" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-for-ie-users" nc:name="Internet Explorer-felhasználóknak" nc:link="menu_reference.xhtml#for_ie_users" nc:platform="win"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-relnotes" nc:name="Verzióinformáció" nc:link="menu_reference.xhtml#relnotes"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-report-broken-web-site" nc:name="Report Broken Web Site…" nc:link="menu_reference.xhtml#reporter"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-report-web-forgery" nc:name="Report Web Forgery…" nc:link="menu_reference.xhtml#web_forgery"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-check-for-updates" nc:name="Frissítések keresése..." nc:link="menu_reference.xhtml#check_for_updates"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-about-mozilla-firebird" nc:name="A &brandFullName; névjegye" nc:link="menu_reference.xhtml#about_mozilla_firebird" nc:platform="win unix os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#ieusers">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="ieusers-firebird-ie-terminology-differences" nc:name="Különbségek a szóhasználatban" nc:link="forieusers.xhtml#firebird_and_internet_explorer_terminology_differences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-about-your-ie-settings" nc:name="Az IE kedvencei és beállításai" nc:link="forieusers.xhtml#about_your_ie_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-firebirds-features" nc:name="A &brandFullName; szolgáltatásai" nc:link="forieusers.xhtml#firebirds_features"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-keyboard-shortcuts" nc:name="Billentyűparancsok" nc:link="forieusers.xhtml#keyboard_shortcuts"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <!-- The following nodes are intentionally linkable but not displayable -->
+  <Description rdf:ID="prefs-languages" nc:name="Nyelvek" nc:link="prefs.xhtml#languages"/>
+  <Description rdf:ID="prefs-fonts-and-colors" nc:name="Betűk és színek" nc:link="prefs.xhtml#fonts_and_colors"/>
+  <Description rdf:ID="prefs-connection-settings" nc:name="Kapcsolat beállításai" nc:link="prefs.xhtml#connection_settings"/>
+
+  <!-- The following nodes are trees used multiple times in the hierarchy
+       (for platform-specific reasons).  To display one of these trees,
+       include an nc:subheadings element with an rdf:ID attribute set to
+       "#" plus the value of the rdf:ID for the appropriate tree within
+       the appropriate rdf:Description element. -->
+
+  <Seq rdf:ID="prefs-tree">
+    <li><Description ID="prefs-main" nc:name="Főlap" nc:link="prefs.xhtml#main_options"/></li>
+    <li><Description ID="prefs-tabs" nc:name="Tabs" nc:link="prefs.xhtml#tabs_options"/></li>
+    <li><Description ID="prefs-content" nc:name="Tartalom" nc:link="prefs.xhtml#content_options"/></li>
+    <li><Description ID="prefs-applications" nc:name="Alkalmazások" nc:link="prefs.xhtml#applications_options"/></li>
+    <li><Description ID="prefs-privacy" nc:name="Adatvédelem" nc:link="prefs.xhtml#privacy_options"/></li>
+    <li><Description ID="prefs-security" nc:name="Biztonság" nc:link="prefs.xhtml#security_options"/></li>
+    <li><Description ID="prefs-advanced" nc:name="Haladó" nc:link="prefs.xhtml#advanced_options"/></li>
+  </Seq>
+
+  <!-- The following are subnodes of trees used multiple times in the hierarchy. -->
+
+  <Description rdf:about="#prefs-main">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-startup" nc:name="Elindítás" nc:link="prefs.xhtml#startup"/></li>
+        <li><Description rdf:ID="prefs-downloads" nc:name="Letöltések" nc:link="prefs.xhtml#downloads"/></li>
+        <li><Description rdf:ID="prefs-system-defaults" nc:name="Rendszer alapbeállításai" nc:link="prefs.xhtml#system_defaults"/></li>
+        <li><Description rdf:ID="prefs-addons" nc:name="Kiegészítők" nc:link="prefs.xhtml#addons"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-content">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-advanced-javascript" nc:name="Haladó JavaScript-beállítások" nc:link="prefs.xhtml#advanced_javascript"/></li>
+        <li><Description rdf:ID="prefs-fonts-and-colors" nc:name="Betűk és színek" nc:link="prefs.xhtml#fonts_and_colors"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-privacy">
+    <nc:subheadings>
+      <rdf:Seq>
+        <li><Description rdf:ID="prefs-privacy-history" nc:name="Előzmények" nc:link="prefs.xhtml#privacy_history"/></li>
+        <li><Description rdf:ID="prefs-privacy-cookies" nc:name="Sütik" nc:link="prefs.xhtml#privacy_cookies"/></li>
+        <li><Description rdf:ID="prefs-clear-private-data" nc:name="Személyes adatok" nc:link="prefs.xhtml#private_data"/></li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-security">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-passwords" nc:name="Jelszavak" nc:link="prefs.xhtml#security_passwords"/></li>
+        <li><Description rdf:ID="prefs-warning-messages" nc:name="Figyelmeztetések" nc:link="prefs.xhtml#warning_messages"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-advanced">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-advanced-general" nc:name="Általános" nc:link="prefs.xhtml#advanced_general"/></li>
+        <li><Description rdf:ID="prefs-advanced-network" nc:name="Hálózat" nc:link="prefs.xhtml#advanced_network"/></li>
+        <li><Description rdf:ID="prefs-advanced-update" nc:name="Frissítés" nc:link="prefs.xhtml#advanced_update"/></li>
+        <li><Description rdf:ID="prefs-advanced-encryption" nc:name="Titkosítás" nc:link="prefs.xhtml#advanced_encryption"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+
+</rdf:RDF>

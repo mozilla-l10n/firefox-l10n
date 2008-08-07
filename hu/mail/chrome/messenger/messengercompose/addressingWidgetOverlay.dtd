@@ -1,0 +1,10 @@
+<!-- address labels -->
+<!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
+<!ENTITY toAddr.label   "Címzett: "> 
+<!ENTITY ccAddr.label   "Másolat:"> 
+<!ENTITY bccAddr.label  "Rejtett másolat:"> 
+<!ENTITY replyAddr.label   "Válaszcím:"> 
+<!ENTITY newsgroupsAddr.label   "Hírcsoport:"> 
+<!ENTITY followupAddr.label   "Hírcsop. vál.:"> 
+
+

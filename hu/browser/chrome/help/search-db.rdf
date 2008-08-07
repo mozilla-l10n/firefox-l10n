@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="Kisegítő lehetőségek" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Kisegítő lehetőségek beállításai" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="Adathalászat-ellenes beállítások" nc:link="prefs.xhtml#phishing" nc:platform="win os2"/></li>
+        <li><Description nc:name="Adathalászat-ellenes beállítások" nc:link="prefs.xhtml#phishing" nc:platform="unix mac"/></li>
+        <li><Description nc:name="hitelesítés (definíció)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="Vissza gomb" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Felugró ablakok blokkolása" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="könyvjelző (definíció)" nc:link="glossary.xhtml#bookmark"/></li>
+        <li><Description nc:name="Könyvjelző eszköztár (definíció)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="Böngészés" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="gyorsítótár (definíció)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="tanúsítvány (definíció)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="Tanúsítványok" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Tanúsítvány-visszavonási listák" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="ügyfél (definíció)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="Kiterjesztések beállítása" nc:link="customization.xhtml#add_ons_configuring_extensions"/></li>
+        <li><Description nc:name="süti (definíció)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="kriptográfia (definíció)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="visszafejtés (definíció)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="digitális azonosító (definíció)" nc:link="glossary.xhtml#digital_ID"/></li>
+        <li><Description nc:name="kiegészítők letiltása, engedélyezése és eltávolítása" nc:link="customization.xhtml#add_ons_uninstalling"/></li>
+        <li><Description nc:name="titkosítás (definíció)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="XML (Extensible Markup Language) (definíció)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="hírforrás (definíció)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="FTP (File Transfer Protocol) (definíció)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="FIPS PUBS 140-1 (definíció)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="Előre gomb" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="ugrás előre és hátra" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Kezdőlap gomb" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="kezdőlap (definíció)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="HTML (Hypertext Markup Language) (definíció)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="Kedvencek importálása az Internet Explorerből" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="internet (definíció)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="IP-cím (definíció)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>
+        <li><Description nc:name="Java (definíció)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="JavaScript (definíció)" nc:link="glossary.xhtml#JavaScript"/></li>
+        <li><Description nc:name="Nyelvek" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="élő könyvjelző (definíció)" nc:link="glossary.xhtml#live_bookmark"/></li>
+        <li><Description nc:name="címmező (definíció)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="mesterjelszó (definíció)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="Böngésző eszköztár (definíció)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="Jelszókezelő (definíció)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="PKCS #11 (definíció)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="bővítmény (definíció)" nc:link="glossary.xhtml#Plugin"/></li>
+        <li><Description nc:name="bővítmények" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="személyes kulcs (definíció)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="proxy (definíció)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="közelmúltban meglátogatott weboldalak" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Frissítés gomb" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="keresőszolgáltatás (definíció)" nc:link="glossary.xhtml#search_engine"/></li>
+        <li><Description nc:name="keresés a címmező használatával" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="keresés a keresőmező használatával" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="keresés az oldal szövege használatával" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="biztonságos webhely (definíció)" nc:link="glossary.xhtml#secure_site"/></li>
+        <li><Description nc:name="SSL (Secure Sockets Layer) (definíció)" nc:link="glossary.xhtml#SSL"/></li>
+        <li><Description nc:name="kiszolgáló (definíció)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="Mesterjelszó beállítása vagy megváltoztatása" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Szoftverfrissítések" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="állapotsor (definíció)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="Leállítás gomb" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="Témaváltás" nc:link="customization.xhtml#add_ons_switching_themes"/></li>
+        <li><Description nc:name="TLS (definíció)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="TCP/IP (definíció)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="URL (Uniform Resource Locator) (definíció)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="kiegészítők frissítése" nc:link="customization.xhtml#add_ons_updating"/></li>
+        <li><Description nc:name="Ellenőrzés" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="HTML-forrás megtekintése" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="weboldal (definíció)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="webhely (definíció)" nc:link="glossary.xhtml#web_site"/></li>
+        <li><Description nc:name="világháló (definíció)" nc:link="glossary.xhtml#World_Wide_Web"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>

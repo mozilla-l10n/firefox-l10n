@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Sütik kezelése</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Sütik kezelése</h1>
+
+<p>Ez a dokumentum elmagyarázza, pontosan mik is azok a sütik, mire használják őket, és
+  hogyan kontrollálhatjuk a viselkedésüket a &brandFullName; Sütikezelőjének segítségével.</p>
+
+<div class="contentsBox">A fejezet témakörei:
+  <ul>
+    <li><a href="#what_is_a_cookie">Mi az a süti?</a></li>
+    <li><a href="#setting_up_cookie_rules">Sütiszabályok beállítása</a></li>
+    <li><a href="#accepting_and_blocking_cookies">Sütik elfogadása és visszautasítása</a></li>
+    <li><a href="#cookies_exceptions">A Kivételek - Sütik ablak</a></li>
+    <li><a href="#view_cookies">A Sütik megtekintése ablak</a></li>
+  </ul>
+</div>
+
+<h2 id="what_is_a_cookie">Mi az a süti?</h2>
+
+<p>A süti olyan webhely által létrehozott fájl, amelynek segítségével a webhely az Ön számítógépén
+  közvetlenül tárolhat információt. Így tudják például megjegyezni a webhelyek a személyes
+  beállításokat. Amikor egy ilyen webhelyet látogatunk meg, a webhely megkéri a &brandShortName; böngészőt, hogy egy vagy több sütit elhelyezhessen a merevlemezen.</p>
+
+<p>Ha később visszatérünk ugyanarra a webhelyre, a &brandShortName; elküldi a hozzá tartozó sütit. Ez lehetővé teszi a webhelynek, hogy személyre szabott információkat jelenítsen meg.</p>
+
+<p>A sütik személyes azonosító adatokat is tárolhatnak. Személyes azonosító
+  adatoknak azokat az adatokat nevezzük, amelyek segítségével beazonosíthatók vagyunk, velünk kapcsolat
+  létesíthető. Ilyen például a név, e-mail cím, lakcím vagy telefonszám. A webhelyek
+  csak olyan személyes adathoz férhetnek hozzá, melyeket mi magunk adunk meg. Például
+  egy webhely nem tudja meg az e-mail címünket, hacsak meg nem adjuk. Hasonlóképpen,
+  egy webhely nem képes elérni a számítógépen tárolt egyéb adatainkat sem.</p>
+
+<p>Ha az alapértelmezett sütibeállításokat használjuk, semmit sem fogunk észrevenni abból, hogy egyes webhelyek sütit helyeznek el nálunk, vagy hogy a &brandShortName; visszaküldi a webhelynek a sütijét. Beállíthatjuk viszont, hogy a böngésző minden alkalommal kérjen engedélyt a süti elfogadása előtt. Lehetőség van arra is, hogy
+  a süti élettartamát az aktuális &brandShortName;-munkamenetre korlátozzuk.</p>
+
+<h2 id="setting_up_cookie_rules">Sütiszabályok beállítása</h2>
+
+<p>Alapértelmezésként a &brandShortName; minden sütit elfogad, beleértve az olyanokat is,
+  melyeknek segítségével egy oldal megismer minket, mikor legközelebb
+  meglátogatjuk. Ha ez a viselkedés zavar bennünket, utasíthatjuk a &brandShortName;ot,
+  hogy a program kikapcsolásakor törölje az összes sütit:</p>
+
+<ol>
+  <li>Select &pref.menuPath; and open the <em>Privacy</em> panel.</li>
+  <li>Select the <em>I close &brandShortName;</em> &pref.singular; from the
+    <em>Keep until</em> menu.</li>
+</ol>
+
+<p>If you want to grant sites you trust the ability to store cookies permanently
+  (e.g., to allow you to log in automatically to a site), click <a
+  href="#cookies_exceptions"><em>Exceptions…</em></a>, enter the site address,
+  and click <em>Allow</em>.</p>
+
+<h3 id="all_the_settings">További beállítások</h3>
+
+<p>Más beállítások is befolyásolják, hogyan kezelje a &brandShortName; a sütiket:</p>
+
+<dl>
+  <dt>Sütik elfogadása webhelyekről</dt>
+  <dd><p>Ha egyáltalán nem szeretnénk sütiket használni, távolítsuk el a pipát a
+    jelölőnégyzetből. Fontos tudni, hogy néhány oldal nem működik megfelelően, ha
+    a sütik használata nem engedélyezett. If you want to grant certain sites the ability to
+    store cookies, open the <a href="#cookies_exceptions">Cookies Exceptions</a>
+    window by clicking <em>Exceptions…</em>, enter the site address, and click
+    <em>Allow</em> or <em>Allow for Session</em>.</p></dd>
+  <dt>Keep until</dt>
+  <dd>
+  <ul>
+    <li><em>they expire</em><br/>
+      If this &pref.singular; is selected, each cookie will be removed when the
+      site that set it has determined the cookie should expire.</li>
+    <li><em>I close &brandShortName;</em><br/>
+      If this &pref.singular; is selected, cookies will be removed when you
+      restart &brandShortName;.  A sütiket használó oldalak működőképesek maradnak, de a &brandShortName; újraindításakor,
+      úgy érzik majd, először látogatunk rájuk.</li>
+    <li><em>megerősítés minden alkalommal</em><br/>
+      Display an alert every time a web site tries to store a cookie asking you
+      if you want that cookie stored.</li>
+  </ul>
+  </dd>
+</dl>
+
+<h2 id="accepting_and_blocking_cookies">Sütik elfogadása és visszautasítása</h2>
+
+<p>If you've chosen <em>ask me every time</em> from the <em>Keep until</em>
+  menu, you'll see a dialog whenever a site tries to store a cookie on your
+  computer providing the following options:</p>
+
+<dl>
+  <dt>Engedélyezés</dt>
+  <dd>Ha csak az épp aktuális sütit szeretnénk engedélyezni, csak kattintsunk az <em>Engedélyezés</em> gombra. Akkor
+    használjuk ezt a lehetőséget, ha megbízunk az oldalban.</dd>
+  <dt>Engedélyezés a munkamenetben</dt>
+  <dd>Ha most engedélyezni szeretnénk a sütit, de töröltetni szeretnénk a &brandShortName;
+    kikapcsolása után, kattintsunk az <em>Engedélyezés a munkamenetben</em> gombra. Akkor használjuk
+    ezt a lehetőséget, ha egy oldal nem működik sütik nélkül, mégsem szeretnénk, hogy
+    tartósan sütit tároljon.</dd>
+  <dt>Tiltás</dt>
+  <dd>Ha nem szeretnénk hagyni a süti mentését, kattintsunk a <em>Tiltás</em> gombra. Akkor
+    ajánlott így tenni, ha nem bízunk meg a sütit tárolni készülő oldalban, vagy aggályaink
+    vannak adataink biztonsága felől.</dd>
+  <dt>A válasz alkalmazása a webhelyről érkező összes sütire</dt>
+  <dd>Tegyünk pipát a négyzet mellé, ha szeretnénk, hogy a &brandShortName; emlékezzen
+    mostani döntésünkre. The site will
+    be added to the <a href="#cookies_exceptions">Cookie Exceptions</a> window,
+    where you can revert your choice should you wish to do so later.</dd>
+</dl>
+
+<h2 id="cookies_exceptions">Kivételek - Sütik ablak</h2>
+
+<p>Access this window by clicking the <em>Exceptions…</em> button in cookies
+  &pref.plural;. Segítségével az általános süti&pref.plural; alól kivételt képező oldalakat hozhatunk
+  létre. Az ablak használatával engedélyezhetjük vagy elutasíthatjuk az adott oldalról
+  érkező összes sütit, de rendelkezhetünk az összes süti engedélyezése, majd kilépéskor
+  törlése mellett is, függetlenül az általános sütibeállításoktól.</p>
+
+<p>Webhely felvételéhez a listára csak írjuk be a felvenni kívánt oldal domain nevét
+  a <em>Webhely címe</em> mezőbe, majd kattintsunk a <em>Tiltás</em> gombra az adott
+  oldalról érkező sütik feltétel nélküli elutasításához, az <em>Engedélyezés</em> gombra
+  az adott oldalról érkező sütik feltétel nélküli elfogadásához vagy az <em>Engedélyezés
+  a munkamenetben</em> gombra, ha szeretnénk engedélyezni a sütik használatát, de törölni
+  szeretnénk az adott oldalról érkező sütiket, mikor kilépünk a &brandShortName;ból.</p>
+
+<p>Ha egy webhelyet el szeretnénk távolítani a listából, jelöljük ki, majd kattintsunk a <em>Webhely eltávolítása</em> gombra. Az egész lista törléséhez kattintsunk a
+  <em>Minden webhely eltávolítása</em> gombra. Ekkor a teljes lista törlődik,
+  így az általános süti&pref.plural; minden oldalra vonatkoznak majd.</p>
+
+<h2 id="view_cookies">Sütik megtekintése ablak</h2>
+
+<p>A <em>Sütik megtekintése</em> ablak segítségével megjeleníthetünk és eltávolíthatunk
+  sütiket. A Sütikezelő megnyitásához kattintsunk a
+  <em>Sütik megjelenítése</em> gombra a Sütik lapon.</p>
+
+<p>Az ablak oldalak szerint csoportosítva jeleníti meg a számítógépen tárolt
+  összes sütit. You can expand the sites and select a cookie to
+  display more information about it. Webhelyre és sütinévre
+  a keresősávból gépelve is kereshetünk.</p>
+
+<p>Ha szeretnénk eltávolítani egy sütit a listából, jelöljük ki, majd kattintsunk a <em>Süti eltávolítása</em>
+  gombra.
+  To remove a site's cookies, select the site and click <em>Remove
+  Cookie(s)</em>. To wipe all cookies, click <em>Remove All Cookies</em>.</p>
+
+<div class="contentsBox"><em>2006. szeptember 12.</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

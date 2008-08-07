@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Oldalbeállítás">
+
+<!ENTITY basic.tab           "Formátum és beállítások">
+
+<!ENTITY formatGroup.label   "Formátum">
+
+<!ENTITY orientation.label   "Tájolás:">
+<!ENTITY portrait            "Álló">
+<!ENTITY landscape           "Fekvő">
+
+<!ENTITY scale.label         "Méret:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Igazítás a lap szélességéhez">
+
+<!ENTITY optionsGroup.label  "Beállítások">
+
+<!ENTITY printBG.label       "Háttér nyomtatása (szín és képek)">
+
+<!ENTITY advanced.tab        "Margó, élőfej és élőláb">
+
+<!ENTITY marginGroup.label   "Margó (#1)">
+<!ENTITY marginUnits.inches  "hüvelyk">
+<!ENTITY marginUnits.metric  "milliméter">
+<!ENTITY marginTop.label     "Fent:">
+<!ENTITY marginBottom.label  "Lent:">
+<!ENTITY marginLeft.label    "Balra:">
+<!ENTITY marginRight.label   "Jobbra:">
+
+<!ENTITY headerFooter.label  "Élőfej és élőláb">
+
+<!ENTITY hfLeft.label        "Balra:">
+<!ENTITY hfCenter.label      "Középre:">
+<!ENTITY hfRight.label       "Jobbra:">
+<!ENTITY headerLeft.tip      "Bal élőfej">
+<!ENTITY headerCenter.tip    "Középső élőfej">
+<!ENTITY headerRight.tip     "Jobb élőfej">
+<!ENTITY footerLeft.tip      "Bal élőláb">
+<!ENTITY footerCenter.tip    "Középső élőláb">
+<!ENTITY footerRight.tip     "Jobb élőláb">
+
+<!ENTITY hfTitle             "Cím">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Dátum/idő">
+<!ENTITY hfPage              "#. oldal">
+<!ENTITY hfPageAndTotal      "# / # oldal">
+<!ENTITY hfBlank             "--üres--">
+<!ENTITY hfCustom            "Egyéni...">
+
+<!ENTITY customPrompt.title  "Egyéni...">
+<!ENTITY customPrompt.prompt "Adja meg az egyéni élőfej- vagy élőlábszöveget">

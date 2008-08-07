@@ -1,0 +1,39 @@
+<!ENTITY  connectionsDialog.title       "Kapcsolat beállításai">
+<!ENTITY  window.width                   "46em">
+
+<!ENTITY  proxyTitle.label              "Proxy beállítása az internet eléréséhez">
+<!ENTITY  directTypeRadio.label         "Közvetlen internetkapcsolat">
+<!ENTITY directTypeRadio.accesskey     "K">
+<!ENTITY  WPADTypeRadio.label           "Proxybeállítások automatikus felismerése a hálózatban">
+<!ENTITY WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Kézi proxybeállítás:">
+<!ENTITY manualTypeRadio.accesskey     "z">
+<!ENTITY  autoTypeRadio.label           "Automatikus proxybeállítás URL:">
+<!ENTITY autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Frissítés">
+<!ENTITY reload.accesskey              "r">
+<!ENTITY  ftp.label                     "FTP-proxy:">
+<!ENTITY ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Gopher-proxy:">
+<!ENTITY gopher.accesskey              "g">
+<!ENTITY  http.label                    "HTTP-proxy:">
+<!ENTITY http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL-proxy:">
+<!ENTITY ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS gép:">
+<!ENTITY socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY HTTPport.accesskey            "p">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Nincs proxy a következőhöz:">
+<!ENTITY noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Példa: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Ugyanazon proxy használata minden protokollhoz">
+<!ENTITY shareproxy.accesskey          "x">

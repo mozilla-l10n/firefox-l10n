@@ -1,0 +1,15 @@
+<!ENTITY brandMotto       "Fedezze fel újra a világhálót!">
+<!ENTITY credit.thanks    "Külön köszönet">
+
+<!ENTITY credit.thanks2       "Nagyon köszönjük">
+<!ENTITY credit.contributors2 "a közreműködőknek">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Magyar változat</h3><ul><li>Tímár András</li><li><b>FSF.hu Alapítvány</b></li></ul>">
+
+<!ENTITY credit.memory      "Emléke örökké szívünkben él">
+<!ENTITY credit.poweredByGeckoReg "A Gecko&reg; motor hajtja.">

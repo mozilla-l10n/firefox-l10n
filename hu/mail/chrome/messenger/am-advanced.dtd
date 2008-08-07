@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Levélküldő (SMTP) kiszolgáló beállításai">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Bár egynél több levélküldő kiszolgáló (SMTP) is megadható, ez csak gyakorlott felhasználóknak javasolt. Több SMTP-kiszolgáló beállítása hibákat okozhat az üzenetek küldésekor.">
+
+<!ENTITY smtpListAdd.label  "Hozzáadás...">
+<!ENTITY smtpListAdd.accesskey  "H">
+<!ENTITY smtpListEdit.label "Szerkesztés...">
+<!ENTITY smtpListEdit.accesskey "z">
+<!ENTITY smtpListDelete.label "Eltávolítás">
+<!ENTITY smtpListDelete.accesskey "E">
+<!ENTITY smtpListSetDefault.label "Alapértelmezett">
+<!ENTITY smtpListSetDefault.accesskey "A">
+
+<!ENTITY serverDescription.label "Leírás: ">
+<!ENTITY serverName.label "Kiszolgáló: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label   "Felhasználói név: ">
+<!ENTITY useSecureConnection.label   "Biztonságos kapcsolat: ">
+<!ENTITY useSecureAuthentication.label   "Biztonságos hitelesítés:">

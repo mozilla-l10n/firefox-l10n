@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "A lemezterület megtakarítása érdekében nem töltődnek le:">
+<!ENTITY doNotDownload.label "A lemezterület megtakarítása érdekében nem töltődnek le kapcsolat nélküli munkához:">
+<!ENTITY offlineNewFolder.label "Az újonnan létrehozott mappák kijelölése kapcsolat nélküli munkához">
+<!ENTITY offlineNewFolder.accesskey "z">
+<!ENTITY offlineNotDownload.label "Üzenetek, melyek nagyobbak, mint">
+<!ENTITY offlineNotDownload.accesskey "e">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "napban érkeztek">
+<!ENTITY daysOld.label "nap">
+<!ENTITY message.label "üzenet">
+<!ENTITY nntpNotDownloadRead.label "Üzenet olvasása">
+<!ENTITY nntpNotDownloadRead.accesskey "d">
+<!ENTITY nntpDownloadMsg.label "Üzenetek, melyek régebbiek, mint">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Lemezhely felszabadítása céljából a régi üzenetek véglegesen törölhetők.">
+<!ENTITY retentionKeepMsg.label "Üzenetek törlése, ha régebbiek, mint">
+<!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "Minden üzenet megtartása">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "Minden üzenet törlése, kivéve az utolsó">
+<!ENTITY retentionKeepNew.accesskey "b">
+<!ENTITY retentionKeepUnread.label "Olvasott üzenetek törlése">
+<!ENTITY retentionKeepUnread.accesskey "w">
+<!ENTITY nntpRemoveBody.label "Csak az olyan üzenetek, melyek törzse fiatalabb, mint">
+<!ENTITY nntpRemoveBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Hírcsoportok kiválasztása kapcsolat nélküli munkához...">
+<!ENTITY offlineSelectNntp.accesskey "k">
+<!ENTITY offlineSelectImap.label "Mappák kiválasztása kapcsolat nélküli munkához...">
+<!ENTITY offlineSelectImap.accesskey "k">
+<!ENTITY offlineDesc.label "Letöltheti helyben az üzeneteit, így azok elérhetők lesznek kapcsolat nélküli munka esetén.">
+<!ENTITY makeInboxMsgsAvailable.label "A Bejövő üzenetek elérhetővé tétele kapcsolat nélküli munkához.">
+<!ENTITY makeInboxMsgsAvailable.accesskey "k">
+<!ENTITY offlineGroupTitle.label "Kapcsolat nélküli munka">
+<!ENTITY diskspaceGroupTitle.label "Lemezterület">

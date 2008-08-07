@@ -1,0 +1,16 @@
+<!ENTITY addressbookPicker.label            "Címjegyzék:">
+<!ENTITY addressbookPicker.accesskey        "C">
+<!ENTITY searchInput.label                  "Keresés:">
+<!ENTITY searchInput.accesskey              "K">
+<!ENTITY SearchNameOrEmail.label            "Név vagy e-mail">
+
+<!ENTITY addtoToFieldMenu.label             "Hozzáadás a Címzett mezőhöz">
+<!ENTITY addtoCcFieldMenu.label             "Hozzáadás a Másolat mezőhöz">
+<!ENTITY addtoBccFieldMenu.label            "Hozzáadás a Rejtett másolat mezőhöz">
+
+<!ENTITY toButton.label                     "Címzett:">
+<!ENTITY toButton.accesskey                 "C">
+<!ENTITY ccButton.label                     "Másolat:">
+<!ENTITY ccButton.accesskey                 "M">
+<!ENTITY bccButton.label                    "Rejtett másolat:">
+<!ENTITY bccButton.accesskey                "R">

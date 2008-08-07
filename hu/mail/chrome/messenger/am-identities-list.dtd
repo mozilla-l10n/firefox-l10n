@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Fiók további személyazonosságai">
+<!ENTITY identitiesListDesc.label "Több személyazonosság támogatása">
+<!ENTITY identitiesListAdd.label  "Hozzáadás...">
+<!ENTITY identitiesListAdd.accesskey  "H">
+<!ENTITY identitiesListEdit.label "Szerkesztés...">
+<!ENTITY identitiesListEdit.accesskey "z">
+<!ENTITY identitiesListDelete.label "Törlés">
+<!ENTITY identitiesListDelete.accesskey "T">

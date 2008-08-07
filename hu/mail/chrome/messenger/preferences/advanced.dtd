@@ -1,0 +1,79 @@
+<!ENTITY itemGeneral.label       "Általános">
+<!ENTITY itemUpdate.label        "Frissítés">
+<!ENTITY itemNetworking.label    "Hálózat és lemezterület">
+<!ENTITY itemCertificates.label  "Tanúsítványok">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
+<!ENTITY showCondensedAddresses.accesskey "C">
+
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+<!ENTITY markAsRead.label              "Várakozás">
+<!ENTITY markAsRead.accesskey          "V">
+<!ENTITY markAsReadEnd.label           "másodpercig az üzenet olvasottként megjelölése előtt">
+<!ENTITY showFolderColumns.label       "Kibővített oszlopok megjelenítése a mappapanelon">
+<!ENTITY showFolderColumns.accesskey   "K">
+<!ENTITY rememberLastMsg.label         "Az utolsó kijelölés megjegyzése">
+<!ENTITY rememberLastMsg.accesskey     "u">
+<!ENTITY openMsgIn.label               "Üzenetek megnyitása:">
+<!ENTITY reuseExpRadio0.label          "Új üzenetablakban">
+<!ENTITY reuseExpRadio0.accesskey      "z">
+<!ENTITY reuseExpRadio1.label          "Létező üzenetablakban">
+<!ENTITY reuseExpRadio1.accesskey      "l">
+<!ENTITY reuseExpRadio2.label          "Új üzenetlapon">
+<!ENTITY reuseExpRadio2.accesskey      "a">
+<!ENTITY connectionTimeout.label       "Kapcsolat időtúllépése: ">
+<!ENTITY connectionTimeout.accesskey   "a">
+<!ENTITY connectionSeconds.label       "másodperc">
+<!ENTITY configEditDesc.label          "Haladó beállítások">
+<!ENTITY configEdit.label              "Beállításszerkesztő...">
+<!ENTITY configEdit.accesskey          "B">
+<!ENTITY returnReceiptsInfo.label      "A &brandShortName; tértivevény-kezelésének beállítása">
+<!ENTITY showReturnReceipts.label      "Tértivevények...">
+<!ENTITY showReturnReceipts.accesskey  "T">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Frissítések automatikus keresése:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "Telepített kiegészítők">
+<!ENTITY enableAddonsUpdate.accesskey   "T">
+<!ENTITY checkNow.label                 "Ellenőrzés...">
+<!ENTITY whenUpdatesFound.label         "Amikor frissítések érhetők el a &brandShortName; programhoz:">
+<!ENTITY modeAskMe.label                "Kérdezzen rá, hogy mi a teendő">
+<!ENTITY modeAskMe.accesskey            "K">
+<!ENTITY modeAutomatic.label            "Frissítések automatikus letöltése és telepítése">
+<!ENTITY modeAutomatic.accesskey        "F">
+<!ENTITY modeAutoAddonWarn.label        "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
+<!ENTITY modeAutoAddonWarn.accesskey    "i">
+<!ENTITY showUpdates.label              "Frissítési előzmények megjelenítése">
+<!ENTITY showUpdates.accesskey          "F">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Kapcsolat...">
+<!ENTITY showConnections.accesskey     "K">
+<!ENTITY proxiesInfo.label             "A &brandShortName; internetkapcsolatának megadása">
+<!ENTITY connectionsInfo.caption       "Kapcsolat">
+<!ENTITY offlineInfo.caption           "Kapcsolat nélküli munka">
+<!ENTITY offlineInfo.label             "Kapcsolat nélküli munka beállításai">
+<!ENTITY showOffline.label             "Kapcsolat nélkül...">
+<!ENTITY showOffline.accesskey         "K">
+
+<!ENTITY Diskspace "Lemezterület">
+<!ENTITY offlineCompact.label "Mappák tömörítése, ha a megtakarított hely több lenne, mint">
+<!ENTITY offlineCompact.accesskey "t">
+<!ENTITY kb.label "KB">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo2.label        "Tanúsítványok, visszavonási listák, tanúsítványérvényesítők és adatvédelmi eszközök kezelése">
+<!ENTITY viewCertificates.label         "Tanúsítványok megjelenítése">
+<!ENTITY viewCertificates.accesskey     "T">
+<!ENTITY viewCRLs.label                 "Visszavonási listák">
+<!ENTITY viewCRLs.accesskey             "V">
+<!ENTITY validation.label               "Érvényesítés">
+<!ENTITY validation.accesskey           "r">
+<!ENTITY viewSecurityDevices.label      "Adatvédelmi eszközök">
+<!ENTITY viewSecurityDevices.accesskey  "d">

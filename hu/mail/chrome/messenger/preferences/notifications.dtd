@@ -1,0 +1,12 @@
+<!ENTITY notificationsDialog2.title       "Értesítés új üzenetről">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Az értesítésben a következő mezők szerepeljenek:">
+<!ENTITY previewText.label                "Üzenet szövegének előnézete">
+<!ENTITY previewText.accesskey            "z">
+<!ENTITY subject.label                    "Tárgy">
+<!ENTITY subject.accesskey                "T">
+<!ENTITY sender.label                     "Feladó">
+<!ENTITY sender.accesskey                 "F">
+
+

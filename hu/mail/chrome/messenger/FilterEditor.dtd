@@ -1,0 +1,37 @@
+<!ENTITY window.title "Szűrés szabályai">
+
+<!ENTITY filterName.label "Szűrő neve:">
+<!ENTITY filterName.accesskey "z">
+
+<!ENTITY junk.label "Szemét">
+<!ENTITY notJunk.label "Nem szemét">
+
+<!ENTITY lowestPriorityCmd.label "Nem sürgős">
+<!ENTITY lowPriorityCmd.label "Kevéssé sürgős">
+<!ENTITY normalPriorityCmd.label "Normál">
+<!ENTITY highPriorityCmd.label "Sürgős">
+<!ENTITY highestPriorityCmd.label "Rendkívül sürgős">
+
+<!ENTITY conditionDesc.label "Az adott tulajdonságú beérkezett üzenetekre:">
+<!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
+<!ENTITY filterActionDesc.accesskey "v">
+
+<!ENTITY newFolderButton.label "Új mappa...">
+<!ENTITY newFolderButton.accesskey "m">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Üzenet áthelyezése">
+<!ENTITY copyMessage.label "Üzenet átmásolása">
+<!ENTITY forwardTo.label "Üzenet továbbítása">
+<!ENTITY replyWithTemplate.label "Válasz sablon használatával">
+<!ENTITY markMessageRead.label "Megjelölés olvasottként">
+<!ENTITY markMessageStarred.label "Csillag hozzáadása">
+<!ENTITY setPriority.label "Prioritás beállítása">
+<!ENTITY addTag.label "Üzenet címkézése">
+<!ENTITY setJunkScore.label "Szemét vagy nem szemét">
+<!ENTITY deleteMessage.label "Üzenet törlése">
+<!ENTITY deleteFromPOP.label "Törlés a POP-kiszolgálóról">
+<!ENTITY fetchFromPOP.label "Letöltés a POP-kiszolgálóról">
+<!ENTITY ignoreThread.label "Témacsoport kihagyása">
+<!ENTITY watchThread.label "Témacsoport figyelése">
+<!ENTITY stopExecution.label "Szűrő végrehajtásának leállítása">

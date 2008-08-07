@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "Fájl">
+<!ENTITY fileMenu.accesskey        "F">
+<!ENTITY newMenu.label            "Új">
+<!ENTITY newMenu.accesskey          "Ú">
+
+<!ENTITY editMenu.label          "Szerkesztés">
+<!ENTITY editMenu.accesskey        "z">
+<!ENTITY undoCmd.label            "Visszavonás">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "V">
+<!ENTITY redoCmd.label            "Újra">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "r">
+<!ENTITY cutCmd.label            "Kivágás">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "K">
+<!ENTITY copyCmd.label            "Másolás">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "M">
+<!ENTITY pasteCmd.label            "Beillesztés">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "B">
+<!ENTITY deleteCmd.label          "Törlés">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "T">
+<!ENTITY selectAllCmd.label          "Mindent kijelöl">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "d">
+<!ENTITY preferencesCmd.label        "Beállítások...">
+<!ENTITY preferencesCmd.accesskey      "B">
+<!ENTITY preferencesCmdUnix.label       "Beállítások">
+<!ENTITY preferencesCmdUnix.accesskey     "B">
+
+<!ENTITY findTypeTextCmd.label "Szöveg keresése gépeléssel">
+<!ENTITY findTypeTextCmd.accesskey "S">
+
+<!ENTITY viewMenu.label          "Nézet">
+<!ENTITY viewMenu.accesskey        "N">
+<!ENTITY viewToolbarsMenu.label        "Eszköztárak">
+<!ENTITY viewToolbarsMenu.accesskey      "E">
+<!ENTITY showTaskbarCmd.label          "Állapotsor">
+<!ENTITY showTaskbarCmd.accesskey        "s">
+
+<!ENTITY direct.label                                   "Online (proxy: nincs)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "Online (proxy: kézi)">
+<!ENTITY manual.accesskey                               "k">
+<!ENTITY pac.label                                      "Online (proxy: automatikus)">
+<!ENTITY pac.accesskey                                  "a">
+
+<!ENTITY proxy.label                                    "Proxybeállítás...">
+<!ENTITY proxy.accesskey                                "P">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+
+<!ENTITY closeCmd.label      "Bezárás">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "B">
+
+<!ENTITY closeWindow.label "Ablak bezárása">
+
+<!ENTITY quitApplicationCmd.label  "Kilépés">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "K">
+
+<!ENTITY quitApplicationCmdUnix.label  "Kilépés">
+<!ENTITY quitApplicationCmdUnix.accesskey  "K">
+
+<!ENTITY quitApplicationCmdMac.label  "Kilépés a &brandShortName; programból">
+<!ENTITY quitApplicationCmdMac.accesskey  "K">

@@ -1,0 +1,6 @@
+<!ENTITY identityTitle.label "Személyazonosság beállításai">
+<!ENTITY identityListDesc.label "Személyazonosság beállításainak meghatározása:">
+
+<!ENTITY settingsTab.label       "Beállítások">
+<!ENTITY copiesFoldersTab.label "Másolatok és mappák">
+<!ENTITY addressingTab.label    "Szerkesztés és címzés">

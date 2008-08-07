@@ -1,0 +1,19 @@
+<!ENTITY about.version                "verzió">
+
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008,">
+<!ENTITY about.copy.linkTitle         "közreműködők">
+<!ENTITY about.copy.afterLink         ".">
+
+<!ENTITY about.license.beforeLink     "Olvassa el a termék">
+<!ENTITY about.license.linkTitle      "licencinformációit">
+<!ENTITY about.license.afterLink      ".">
+
+<!ENTITY about.relnotes.beforeLink    "Olvassa el a">
+<!ENTITY about.relnotes.linkTitle     "verzióinformációkat">
+<!ENTITY about.relnotes.afterLink     ".">
+
+<!ENTITY about.buildconfig.beforeLink "Nézze meg az ezen verzió összeépítéséhez használt">
+<!ENTITY about.buildconfig.linkTitle  "konfigurációs paramétereket">
+<!ENTITY about.buildconfig.afterLink  ".">
+
+<!ENTITY about.buildIdentifier        "Az összeépítés (build) azonosítója: ">

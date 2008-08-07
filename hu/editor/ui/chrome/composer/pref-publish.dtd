@@ -1,0 +1,20 @@
+<!-- extracted from content/pref-publish.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+<!ENTITY  pref.publish.title     "Közzététel">
+<!ENTITY  composerHeader.label   "Közzététel">
+<!ENTITY  maintainCheckbox.label "Hivatkozások kezelése">
+<!ENTITY  keepCheck.label        "Képekkel együtt">
+
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  adjustDesc.label       "Hivatkozások megadása a webhelyhez képest. (Működni fognak a helyi fájlokra mutató hivatkozások, ha a helyi oldal létezik.) Alapértelmezett közzétételi hely           ">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  saveDesc.label         "A képeket is menti az oldallal együtt.  A képek mindig megjelennek az oldal helyi változatában, és a közzétett változatban is.">
+<!ENTITY  tip.label              "A közzététel használatához ajánlott mindkettőt bejelölni.">
+<!ENTITY  defaultHeader.label    "Default publishing location">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY  publishFtp.label       "FTP-n keresztüli közzétételhez adja meg a HTTP-címet is:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY  publishhtp.label       "FTP-n keresztüli közzétételhez adja meg a HTTP-címet is:">
+
+

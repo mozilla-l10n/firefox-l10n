@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "Formázás">
+<!ENTITY itemTags.label                   "Címkék">
+<!ENTITY itemFonts.label                  "Betűk">
+
+<!ENTITY textBegin.label                  "Idézett szöveg megjelenése">
+<!ENTITY style.label                      "Stílus:">
+<!ENTITY style.accesskey                  "t">
+<!ENTITY regularStyle.label               "Normál">
+<!ENTITY bold.label                       "Félkövér">
+<!ENTITY italic.label                     "Dőlt">
+<!ENTITY boldItalic.label                 "Félkövér dőlt">
+<!ENTITY size.label                       "Méret:">
+<!ENTITY size.accesskey                   "M">
+<!ENTITY regularSize.label                "Normál">
+<!ENTITY bigger.label                     "Nagyobb">
+<!ENTITY smaller.label                    "Kisebb">
+<!ENTITY color.label                      "Szín:">
+<!ENTITY color.accesskey                  "S">
+<!ENTITY displayWidth.label               "Normál szöveges levelek">
+<!ENTITY plainText.label                  "A következő betűkészlet használata normál szöveges leveleknél:">
+<!ENTITY displayText.label                "A következő beállítások használata idézett szöveges levelek esetén:">
+<!ENTITY viewingPlainText.label            "Normál szöveges levelek megjelenítésekor:">
+<!ENTITY fixedWidth.label                 "Fix szélességű">
+<!ENTITY fixedWidth.accesskey             "x">
+<!ENTITY variableWidth.label              "Proporcionális">
+<!ENTITY variableWidth.accesskey          "P">
+<!ENTITY readingMessagesHeader.label      "Bejövő levelek">
+<!ENTITY colors.label                     "Színek">
+<!ENTITY overrideColors.label             "A következő színek használata üzenetek megjelenítésekor:">
+<!ENTITY textColor.label                  "Szövegszín:">
+<!ENTITY textColor.accesskey              "S">
+<!ENTITY backgroundColor.label            "Háttérszín:">
+<!ENTITY backgroundColor.accesskey        "H">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Hangulatjelek megjelenítése grafikaként">
+<!ENTITY convertEmoticons.accesskey    "m">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label    "A címkék az üzenetek kategorizálására és priorálására használhatók.">
+<!ENTITY addTagButton.label       "Hozzáadás">
+<!ENTITY addTagButton.accesskey   "H">
+<!ENTITY editTagButton.label      "Szerkesztés">
+<!ENTITY editTagButton.accesskey   "S">
+<!ENTITY removeTagButton.label    "Törlés">
+<!ENTITY removeTagButton.accesskey "T">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label  "A &brandShortName; által használt betűk és kódolások beállítása">
+<!ENTITY fontsAndEncodingsCaption.label      "Betűk és kódolások">
+<!ENTITY fontOptions.accesskey   "B">
+<!ENTITY fontOptions.label       "Betűk...">
