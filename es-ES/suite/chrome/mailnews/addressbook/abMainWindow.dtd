@@ -1,0 +1,83 @@
+<!--null-->
+<!ENTITY addressbookWindow.title "Libreta de direcciones">
+<!ENTITY newCard.label "Tarjeta de la libreta de direcciones…">
+<!ENTITY newCard.accesskey "C">
+<!ENTITY newListCmd.label "Lista de correo…">
+<!ENTITY newListCmd.accesskey "L">
+<!ENTITY newAddressBookCmd.label "Libreta de direcciones…">
+<!ENTITY newAddressBookCmd.accesskey "o">
+<!ENTITY renameAddressBookCmd.label "Renombrar libreta de direcciones…">
+<!ENTITY renameAddressBookCmd.accesskey "R">
+<!ENTITY newLDAPDirectoryCmd.label "Directorio LDAP…">
+<!ENTITY newLDAPDirectoryCmd.accesskey "D">
+<!ENTITY newIM.label "IM">
+<!ENTITY printCardViewCmd.label "Imprimir tarjeta…">
+<!ENTITY printCardViewCmd.accesskey "p">
+<!ENTITY printPreviewCardViewCmd.label "Vista preliminar de la tarjeta">
+<!ENTITY printPreviewCardViewCmd.accesskey "v">
+<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printAddressBook.label "Imprimir libreta de direcciones…">
+<!ENTITY printAddressBook.accesskey "A">
+<!ENTITY printPreviewAddressBook.label "Vista preliminar de la libreta de direcciones">
+<!ENTITY printPreviewAddressBook.accesskey "B">
+<!ENTITY printSetupCmd.label "Configurar página…">
+<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY deleteAbCmd.label "Eliminar libreta de direcciones">
+<!ENTITY deleteCardCmd.label "Eliminar tarjeta">
+<!ENTITY deleteCardsCmd.label "Eliminar tarjetas selecionadas">
+<!ENTITY deleteListCmd.label "Eliminar lista">
+<!ENTITY deleteListsCmd.label "Eliminar listas seleccionadas">
+<!ENTITY deleteItemsCmd.label "Eliminar elementos seleccionados">
+<!ENTITY swapFirstNameLastNameCmd.label "Intercambiar nombre y apellidos">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "y">
+<!ENTITY propertiesCmd.label "Propiedades…">
+<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.key "i">
+<!ENTITY showAbToolbarCmd.label "Barra de herramientas de direcciones">
+<!ENTITY showAbToolbarCmd.accesskey "o">
+<!ENTITY showCardPane.label "Resumen de las tarjetas">
+<!ENTITY showCardPane.accesskey "t">
+<!ENTITY menu_ShowNameAs.label "Mostrar nombre como">
+<!ENTITY menu_ShowNameAs.accesskey "n">
+<!ENTITY firstLastCmd.label "Nombre y apellidos">
+<!ENTITY firstLastCmd.accesskey "N">
+<!ENTITY lastFirstCmd.label "Apellidos, nombre">
+<!ENTITY lastFirstCmd.accesskey "l">
+<!ENTITY displayNameCmd.label "Nombre mostrado">
+<!ENTITY displayNameCmd.accesskey "d">
+<!ENTITY importCmd.label "Importar…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Exportar…">
+<!ENTITY exportCmd.accesskey "E">
+<!ENTITY allowOnlineCheck.label "Comprobar presencia en línea (AOL)">
+<!ENTITY allowOnlineCheck.accesskey "C">
+<!ENTITY stopSearchingCmd.label ".Parar búsqueda">
+<!ENTITY newcardButton.label "Nueva tarjeta">
+<!ENTITY newcardButton.accesskey "j">
+<!ENTITY newlistButton.label "Nueva lista">
+<!ENTITY newlistButton.accesskey "L">
+<!ENTITY editButton.label "Propiedades">
+<!ENTITY editButton.accesskey "P">
+<!ENTITY newmsgButton.label "Redactar">
+<!ENTITY newmsgButton.accesskey "C">
+<!ENTITY deleteButton.label "Eliminar">
+<!ENTITY deleteButton.accesskey "E">
+<!ENTITY newimButton.label "Mensaje instantáneo">
+<!ENTITY newimButton.accesskey "I">
+<!ENTITY stopButton.label ".Parar">
+<!ENTITY searchButton.label ".Buscar">
+<!ENTITY showNames.label "Mostrar nombres que contengan:">
+<!ENTITY addressbookToolbar.tooltip "Barra de herramientas de direcciones">
+<!ENTITY newcardButton.tooltip "Crear una nueva tarjeta en la libreta de direcciones">
+<!ENTITY newlistButton.tooltip "Crear nueva lista">
+<!ENTITY editButton.tooltip "Editar la tarjeta seleccionada">
+<!ENTITY newmsgButton.tooltip "Enviar un mensaje de correo">
+<!ENTITY newIM.tooltip "Enviar un mensaje o conversación instantáneos">
+<!ENTITY deleteButton.tooltip "Eliminar ficha seleccionada de la libreta de direcciones">
+<!ENTITY stopButton.tooltip "Detener la transferencia actual">
+<!ENTITY searchButton.tooltip "Buscar en la libreta de direcciones seleccionada">
+<!ENTITY throbber.tooltip "Ir a la página principal de &vendorShortName;">
+<!ENTITY clearButton.tooltip "Eliminar criterio de búsqueda y ver todas las entradas">
+<!ENTITY advancedButton.tooltip "Búsqueda avanzada de direcciones">
+<!ENTITY statusText.label "">
+<!ENTITY hideSwapFnLnUI "true">

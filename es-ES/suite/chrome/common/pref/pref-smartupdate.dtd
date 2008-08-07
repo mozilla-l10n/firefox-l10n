@@ -1,0 +1,20 @@
+<!ENTITY pref.smartUpdate.title "Instalación de software">
+<!ENTITY smartTitle.label "Administrar instalaciones de software y actualizaciones">
+<!ENTITY enableSU.label "Permitir a los sitios web instalar extensiones y actualizaciones">
+<!ENTITY enableSU.accesskey "e">
+<!ENTITY allowedSites.label "Sitios permitidos">
+<!ENTITY allowedSites.accesskey "t">
+<!ENTITY verifyUpdates.caption "Actualizaciones">
+<!ENTITY autoUpdates.label "Buscar actualizaciones automáticamente para:">
+<!ENTITY appUpdates.label "&brandShortName;">
+<!ENTITY appUpdates.accesskey "S">
+<!ENTITY daily.label "diariamente">
+<!ENTITY appDaily.accesskey "d">
+<!ENTITY weekly.label "semanalmente">
+<!ENTITY appWeekly.accesskey "n">
+<!ENTITY extensionsUpdates.label "Complementos instalados">
+<!ENTITY extensionsUpdates.accesskey "n">
+<!ENTITY extensionsDaily.accesskey "i">
+<!ENTITY extensionsWeekly.accesskey "n">
+<!ENTITY addonManagerButton.label "Administrador de complementos">
+<!ENTITY addonManagerButton.accesskey "m">

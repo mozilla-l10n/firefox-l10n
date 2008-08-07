@@ -1,0 +1,17 @@
+<!ENTITY junkSettings.label "Configuración de correo basura">
+<!ENTITY trainingWarning.label "Si se activa, primero debe enseñar a &brandShortName; a identificar el correo basura usando el botón Basura de la barra de herramientas para marcar los mensajes como correo basura o no. Necesita identificar los mensajes de ambos tipos.">
+<!ENTITY level.label "Activar controles adaptativos de correo basura en esta cuenta">
+<!ENTITY level.accesskey "A">
+<!ENTITY move.label "Mover los nuevos mensajes de correo basura a:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "Carpeta &quot;Basura&quot; en:">
+<!ENTITY junkFolderOn.accesskey "B">
+<!ENTITY otherFolder.label "Otro:">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "Eliminar automáticamente el correo basura más antiguo de">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "días">
+<!ENTITY whitelist.label "No marcar el correo como basura si el remitente está en: ">
+<!ENTITY whitelist.accesskey "N">
+<!ENTITY ispHeaders.label "Confiar en las cabeceras de correo basura enviadas por: ">
+<!ENTITY ispHeaders.accesskey "C">

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Controlar las ventanas emergentes</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Controlar las ventana emergentes</h1>
+<p>Este documento explica todas las &pref.plural; disponibles en &brandFullName;
+para controlar las ventanas emergentes.</p>
+
+<div class="contentsBox">
+  En esta secci&oacute;n:
+  <ul>
+    <li><a href="#what_are_popups">&iquest;Qu&eacute; son las ventanas emergentes?</a></li>
+    <li><a href="#popup_blocker_preferences">&pref.pluralCaps; del bloqueador de
+    ventanas emergentes</a></li>
+  </ul>
+</div>
+
+<h2 id="what_are_popups">&iquest;Qu&eacute; son las ventanas emergentes?</h2>
+<p>Las ventanas emergentes, o <q>popups</q>, son ventanas que aparecen
+autom&aacute;ticamente sin nuestro permiso. Pueden tener distintos tama&ntilde;os
+pero normalmente no cubren toda la pantalla. Algunas ventanas emergentes se abren
+sobre la ventana actual de &brandShortName;, mientras que otras aparecen por debajo
+de la de &brandShortName; (popunders).</p>
+
+<p>&brandShortName; permite controlar tanto <em>popups</em> como <em>popunders</em>
+mediante el <a href="prefs.xhtml#web_features_options">panel de contenido</a> de
+las &pref.pluralCaps;. El bloqueo de ventanas emergentes est&aacute; activado por
+omisi&oacute;n, por lo que no hay que preocuparse de activarlo para evitar que aparezcan
+ventanas emergentes en &brandShortName;.</p>
+
+<p>Al bloquear una ventana emergente, &brandShortName; muestra una barra de
+informaci&oacute;n, as&iacute; como un icono
+<img src="chrome://browser/skin/Info.png" width="16" height="16" alt=""/> en la
+barra de estado. Al pulsar ya sea el bot&oacute;n de <em>&pref.pluralCaps;</em> en la
+barra de informaci&oacute;n o el icono en la barra de estado, se muestra un
+men&uacute; con las siguientes opciones:</p>
+
+<ul>
+  <li>Permitir/bloquear ventanas emergentes para este sitio</li>
+  <li>Editar las <a href="#popup_blocker_preferences">&pref.pluralCaps; del
+  bloqueador de ventanas emergentes</a></li>
+  <li>No mostrar el mensaje de informaci&oacute;n al bloquear ventanas emergentes</li>
+  <li>(mostrar una ventana emergente bloqueada)</li>
+</ul>
+
+<p><strong>Bloquear ventanas emergentes puede interferir con algunos sitios
+web</strong>: algunos sitios web, incluyendo algunos bancos, usan ventanas
+emergentes para caracter&iacute;sticas importantes. Bloquear todas las ventanas
+emergentes desactiva estas caracter&iacute;sticas. Para permitir que sitios web
+espec&iacute;ficos usen ventanas emergentes a la vez que se bloquea a los
+dem&aacute;s, se pueden a&ntilde;adir sitios web espec&iacute;ficos a la lista de
+sitios permitidos.</p>
+
+<p><strong>El bloqueo de ventanas emergentes no siempre funciona</strong>: aunque
+&brandShortName; bloquea la mayor&iacute;a de las ventanas emergentes, algunos
+sitios web pueden mostrar ventanas emergentes usando m&eacute;todos que no
+est&aacute;n cubiertos, incluso estando activado el bloqueo.</p>
+
+<h2 id="popup_blocker_preferences">&pref.pluralCaps; del bloqueador de ventanas
+emergentes</h2>
+
+<p>Las &pref.pluralCaps; del bloqueador de ventanas emergentes est&aacute;n situadas
+en el <a href="prefs.xhtml#content_options">panel Contenido</a> de &pref.menuPath;.</p>
+
+<p>Desde ah&iacute; se puede hacer lo siguiente:</p>
+
+<ul>
+  <li><strong>Bloquear ventanas emergentes</strong>: desmarque esta &pref.singular;
+  para desactivar por completo el bloqueo de ventanas emergentes.</li>
+  <li><strong>Di&aacute;logo de excepciones</strong>: es una lista de sitios a los
+  que se dese permitir mostrar ventanas emergentes. El di&aacute;logo tiene las
+  siguientes opciones:
+    <ul>
+      <li><strong>Permitir</strong>: p&uacute;lselo para permitir a&ntilde;adir un
+      sitio web a la lista de excepciones.</li>
+      <li><strong>Borrar sitio</strong>: p&uacute;lselo para borrar un sitio web de la
+      lista de excepciones.</li>
+      <li><strong>Borrar todos los sitios</strong>: p&uacute;lselo para borrar todos
+      los sitios web de la lista de excepciones.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Nota</strong>: el bloqueo de ventanas emergentes puede no funcionar
+siempre e interferir con algunos sitios web. Para m&aacute;s informaci&oacute;n
+sobre el bloqueo de ventanas emergentes, vea <a href="#what_are_popups">Qu&eacute;
+son las ventanas emergentes</a>.</p>
+
+<div class="contentsBox"><em>12 de septiembre de 2005</em></div>
+<p>Copyright &copy; 2003-2006 Colaboradores del proyecto del visor de ayuda de Mozilla.
+<br/>Traducido el 15 de septiembre de 2006.</p>
+</body>
+</html>

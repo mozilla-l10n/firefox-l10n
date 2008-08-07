@@ -1,0 +1,13 @@
+<!ENTITY pref.scripts.title "Scripts y plugins">
+<!ENTITY navigator.label "Navegador">
+<!ENTITY navigator.accesskey "N">
+<!ENTITY enableJavaScript.label "Activar JavaScript para">
+<!ENTITY allowScripts.label "Permitir a los scripts:">
+<!ENTITY allowScripts.accesskey "P">
+<!ENTITY allowWindowMoveResize.label "Mover o cambiar el tamaño de ventanas existentes">
+<!ENTITY allowWindowFlip.label "Cambiar el plano de profundidad de las ventanas">
+<!ENTITY allowWindowStatusChange.label "Cambiar el texto de la barra de estado">
+<!ENTITY allowWindowImageSrcChange.label "Cambiar imágenes">
+<!ENTITY allowContextmenuDisable.label "Desactivar o reemplazar menús contextuales">
+<!ENTITY allowHideStatusBar.label "Esconder la barra de estado">
+<!ENTITY enablePlugin.label "Habilitar plugins para">

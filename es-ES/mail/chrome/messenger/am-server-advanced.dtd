@@ -1,0 +1,31 @@
+<!ENTITY serverAdvanced.label "Configuración avanzada de cuentas">
+<!ENTITY imapAdvanced.label "Configuración avanzada de servidor IMAP">
+<!ENTITY serverDirectory.label "directorio del servidor IMAP:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "Mostrar sólo las carpetas suscritas">
+<!ENTITY usingSubscription.accesskey "u">
+<!ENTITY dualUseFolders.label "El servidor admite carpetas que contengan sub-carpetas y mensajes">
+<!ENTITY dualUseFolders.accesskey "g">
+<!ENTITY useIdle.label "Usar comando IDLE si el servidor lo admite">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Número máximo de conexiones del servidor a la caché">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY namespaceDesc.label "Estas preferencias especifican los espacios de nombres en su servidor IMAP">
+<!ENTITY personalNamespace.label "Espacio de nombres personal:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Público (compartido):">
+<!ENTITY publicNamespace.accesskey "b">
+<!ENTITY otherUsersNamespace.label "Otros usuarios:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "Permitir que el servidor reemplace estos espacios de nombres">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "Al descargar el correo pop de este servidor, usar esta carpeta para el correo nuevo:">
+<!ENTITY folderStorage.label "Dónde guardar el correo">
+<!ENTITY globalInbox.label "Bandeja de entrada global (Carpetas locales)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "Bandeja de entrada para la cuenta de este servidor">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "Bandeja de entrada para una cuenta distinta">
+<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferGetNewMail.label "Incluir este servidor al recibir correo nuevo">
+<!ENTITY deferGetNewMail.accesskey "I">

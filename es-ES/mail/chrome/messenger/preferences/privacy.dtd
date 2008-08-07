@@ -1,0 +1,44 @@
+<!ENTITY itemJunk.label "Correo basura">
+<!ENTITY itemPhishing.label "Correo fraudulento">
+<!ENTITY itemPasswords.label "Contraseñas">
+<!ENTITY itemAntiVirus.label "Antivirus">
+<!ENTITY junkMail.intro "Establezca su configuración predeterminada para correo basura. La configuración especifica de cada cuenta puede realizarse en Configuración de las cuentas.">
+<!ENTITY manualMark.label "Cuando marco mensajes como correo basura:">
+<!ENTITY manualMark.accesskey "u">
+<!ENTITY manualMarkModeMove.label "Moverlos a la carpeta &quot;Correo basura&quot; de la cuenta">
+<!ENTITY manualMarkModeMove.accesskey "v">
+<!ENTITY manualMarkModeDelete.label "Eliminarlos">
+<!ENTITY manualMarkModeDelete.accesskey "o">
+<!ENTITY markAsReadOnSpam.label "Marcar como leídos los mensajes calificados como correo basura">
+<!ENTITY markAsReadOnSpam.accesskey "l">
+<!ENTITY enableJunkLogging.label "Activar registro del filtro de correo basura">
+<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY openJunkLog.label "Mostrar registro">
+<!ENTITY openJunkLog.accesskey "M">
+<!ENTITY resetTrainingData.label "Reiniciar datos de aprendizaje">
+<!ENTITY resetTrainingData.accesskey "R">
+<!ENTITY phishingDetector1.intro "&brandShortName; puede analizar mensajes para identificar los que sean fraudulentos buscando técnicas comunes usadas para engañarle.">
+<!ENTITY enablePhishingDetector1.label "Decirme si el mensaje que estoy leyendo parece un mensaje fraudulento">
+<!ENTITY enablePhishingDetector1.accesskey "D">
+<!ENTITY useDownloadedList.label "Usar una lista descargada de mensajes considerados fraudulentos">
+<!ENTITY useDownloadedList.accesskey "U">
+<!ENTITY savedPasswords.intro "&brandShortName; puede recordar información de contraseñas para todas las cuentas, por lo que no es necesario repetir detalles de inicio de sesión.">
+<!ENTITY encryptEnabled.label "Usar una contraseña maestra para cifrar las contraseñas guardadas">
+<!ENTITY encryptEnabled.accesskey "s">
+<!ENTITY masterPassword.intro "Si se usa, la contraseña maestra protege todas sus contraseñas - pero debe introducirla una vez por sesión.">
+<!ENTITY setMasterPassword.label "Contraseña maestra">
+<!ENTITY setMasterPassword.accesskey "n">
+<!ENTITY removeMasterPassword.label "Eliminar contraseña maestra…">
+<!ENTITY removeMasterPassword.accesskey "E">
+<!ENTITY editPasswords.label "Editar contraseñas guardadas">
+<!ENTITY editPasswords.accesskey "c">
+<!ENTITY antiVirus.intro "&brandShortName; puede hacer fácilmente que el software antivirus analice el correo entrante en busca de virus antes de que se guarden localmente.">
+<!ENTITY antiVirus.label "Permitir a los antivirus poner en cuarentena mensajes individuales">
+<!ENTITY antiVirus.accesskey "P">
+<!ENTITY antiVirusCaption.label "Antivirus">
+<!ENTITY paswords.label "Contraseñas">
+<!ENTITY emailScams.label "Mensajes fraudulentos">
+<!ENTITY junkMail.label "Correo basura">
+<!ENTITY itemIntrusions.label "Intrusiones">
+<!ENTITY itemIntrusionsAndPasswords.label "Intrusiones y contraseñas">
+<!ENTITY itemJunkMail.label "Correo basura">

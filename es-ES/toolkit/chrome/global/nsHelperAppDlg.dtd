@@ -1,0 +1,22 @@
+<!ENTITY caption.label "Abriendo #1">
+<!ENTITY intro.label "El archivo &quot;#3&quot; es de tipo #2 (#1), y #4 no sabe cómo manejar este tipo de archivo. Este archivo está ubicado en:">
+<!ENTITY intro.noDesc.label "El archivo &quot;#3&quot; es de tipo #2, y #4 no sabe cómo manejar este tipo de archivo. Este archivo está ubicado en:">
+<!ENTITY intro.attachment.label "El sitio ha sugerido que &quot;#3&quot; se maneje como adjunto. Es de tipo #2 (#1) y está ubicado en:">
+<!ENTITY intro.attachment.noDesc.label "El sitio ha sugerido que &quot;#3&quot; se maneje como adjunto. Es de tipo #2 y está ubicado en:">
+<!ENTITY intro.sniffed.label "#4 ha detectado que el fichero &quot;#3&quot; va a ser del tipo #2 (#1). El fichero se encuentra en:">
+<!ENTITY intro.sniffed.noDesc.label "#4 ha detectado que el fichero &quot;#3&quot; va a ser del tipo #2. El fichero se encuentra en:">
+<!ENTITY prompt.label "¿Qué debe hacer #1 con este archivo?">
+<!ENTITY alwaysHandle.label "Ejecutar esta acción siempre que se manejen archivos de este tipo">
+<!ENTITY alwaysHandle.accesskey "E">
+<!ENTITY saveToDisk.label "Guardarlo en disco">
+<!ENTITY saveToDisk.accesskey "G">
+<!ENTITY useSystemDefault.label "Abrirlo con la aplicación predeterminada (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Abrirlo con la aplicación predeterminada">
+<!ENTITY useSystemDefault.accesskey "A">
+<!ENTITY openUsing.label "Abrir con">
+<!ENTITY openUsing.accesskey "A">
+<!ENTITY chooseApp.label "Elegir…">
+<!ENTITY chooseApp.accesskey "E">
+<!ENTITY chooseAppFilePickerTitle "Elegir aplicación auxiliar">
+<!ENTITY badApp "La aplicación que ha especificado (&quot;#1&quot;) no ha podido encontrarse.  Compruebe el nombre del archivo o seleccione otra aplicación.">
+<!ENTITY badApp.title "Aplicación no encontrada">

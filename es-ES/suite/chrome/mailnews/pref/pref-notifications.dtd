@@ -1,0 +1,21 @@
+<!--null-->
+<!ENTITY pref.notifications.title "Notificaciones">
+<!ENTITY notifications.caption "Notificaciones">
+<!ENTITY newMessagesArrive.label "Cuando lleguen nuevos mensajes:">
+<!ENTITY playSound.label "Reproducir un sonido">
+<!ENTITY playSound.accesskey "P">
+<!ENTITY showAnimatedAlert.label "Mostrar una alerta">
+<!ENTITY showAnimatedAlert.accesskey "S">
+<!ENTITY showTrayIcon.label "Mostrar un icono en la bandeja">
+<!ENTITY showTrayIcon.accesskey "i">
+<!ENTITY bounceSystemDockIcon.label "Animar el icono de notificación">
+<!ENTITY bounceSystemDockIcon.accesskey "A">
+<!ENTITY preview.label "Escuchar">
+<!ENTITY preview.accesskey "u">
+<!ENTITY systemsound.label "Sonido de nuevo mensaje de correo del sistema">
+<!ENTITY systemsound.accesskey "M">
+<!ENTITY customsound.label "Archivo wav personalizado">
+<!ENTITY customsound.accesskey "w">
+<!ENTITY browse.label "Examinar…">
+<!ENTITY browse.accesskey "E">
+<!ENTITY browse.title "Elegir archivo">

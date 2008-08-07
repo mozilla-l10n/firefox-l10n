@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Identidades asociadas con esta cuenta">
+<!ENTITY identitiesListDesc.label "Uso de múltiples identidades">
+<!ENTITY identitiesListAdd.label "Añadir…">
+<!ENTITY identitiesListAdd.accesskey "A">
+<!ENTITY identitiesListEdit.label "Editar…">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "Eliminar">
+<!ENTITY identitiesListDelete.accesskey "E">

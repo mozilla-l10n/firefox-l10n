@@ -1,0 +1,18 @@
+<!ENTITY pref.locationBar.title "Barra de direcciones">
+<!ENTITY autoComplete.label "Autocompletado">
+<!ENTITY enableAutoComplete.label "Autocompletar de su historial de navegación según escribe">
+<!ENTITY enableAutoComplete.accesskey "A">
+<!ENTITY autoCompleteAutoFill.label "Precumplimentar automáticamente la mejor coincidencia">
+<!ENTITY autoCompleteAutoFill.accesskey "u">
+<!ENTITY autoCompleteShowPopup.label "Mostrar una lista de resultados coincidentes">
+<!ENTITY autoCompleteShowPopup.accesskey "M">
+<!ENTITY autoCompleteMatchOnlyTyped.label "Hacer coincidir sólo sitios web que haya escrito previamente">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey "H">
+<!ENTITY searchEngine.label "Motor de búsqueda en Internet">
+<!ENTITY showSearchEngine.label "Mostrar el buscador por defecto">
+<!ENTITY showSearchEngine.accesskey "o">
+<!ENTITY unknownLocations.label "Direcciones desconocidas">
+<!ENTITY domainGuessing.label "Añadir &quot;www.&quot; y &quot;.com&quot; a la dirección si no se encuentra una página web">
+<!ENTITY domainGuessing.accesskey "d">
+<!ENTITY keywords.label "Realizar una búsqueda web cuando el texto introducido no sea una dirección web">
+<!ENTITY keywords.accesskey "E">

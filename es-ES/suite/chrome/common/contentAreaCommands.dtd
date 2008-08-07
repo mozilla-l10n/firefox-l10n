@@ -1,0 +1,111 @@
+<!ENTITY popupWindowRejectCmd.label "Rechazar ventanas emergentes de este sitio">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label "Permitir ventanas emergentes de este sitio">
+<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY openLinkCmd.label "Abrir enlace en una ventana nueva">
+<!ENTITY openLinkCmd.accesskey "v">
+<!ENTITY openLinkCmdInTab.label "Abrir enlace en una pestaña nueva">
+<!ENTITY openLinkCmdInTab.accesskey "T">
+<!ENTITY openLinkInWindowCmd.label "Abrir">
+<!ENTITY openLinkInWindowCmd.accesskey "b">
+<!ENTITY openFrameCmd.label "Abrir el marco en una nueva ventana">
+<!ENTITY openFrameCmd.accesskey "A">
+<!ENTITY openFrameCmdInTab.label "Abrir el marco en una nueva pestaña">
+<!ENTITY openFrameCmdInTab.accesskey "T">
+<!ENTITY showOnlyThisFrameCmd.label "Mostrar sólo este marco">
+<!ENTITY showOnlyThisFrameCmd.accesskey "o">
+<!ENTITY addToBookmarksCmd.label "Añadir esta página a marcadores">
+<!ENTITY addToBookmarksCmd.accesskey "d">
+<!ENTITY goBackCmd.label "Anterior">
+<!ENTITY goBackCmd.accesskey "t">
+<!ENTITY goForwardCmd.label "Siguiente">
+<!ENTITY goForwardCmd.accesskey "g">
+<!ENTITY goUpCmd.label "Arriba">
+<!ENTITY goUpCmd.accesskey "A">
+<!ENTITY reloadCmd.label "Recargar">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY stopCmd.label "Parar">
+<!ENTITY stopCmd.accesskey "P">
+<!ENTITY reloadFrameCmd.label "Recargar marco">
+<!ENTITY reloadFrameCmd.accesskey "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Ver el código fuente de la selección">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Ver el código fuente MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label "Ver código fuente de la página">
+<!ENTITY viewPageSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.label "Ver código fuente del marco">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label "Ver información de la página">
+<!ENTITY viewPageInfoCmd.accesskey "I">
+<!ENTITY viewFrameInfoCmd.label "Ver información del marco">
+<!ENTITY viewFrameInfoCmd.accesskey "I">
+<!ENTITY fitImageCmd.label "Ajustar la imagen a la ventana">
+<!ENTITY fitImageCmd.accesskey "v">
+<!ENTITY reloadImageCmd.label "Recargar imagen">
+<!ENTITY reloadImageCmd.accesskey "e">
+<!ENTITY viewImageCmd.label "Ver imagen">
+<!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewBGImageCmd.label "Ver imagen de fondo">
+<!ENTITY viewBGImageCmd.accesskey "f">
+<!ENTITY setWallpaperCmd.label "Poner como fondo de escritorio">
+<!ENTITY setWallpaperCmd.accesskey "S">
+<!ENTITY bookmarkPageCmd.label "Añadir esta página a marcadores">
+<!ENTITY bookmarkPageCmd.accesskey "m">
+<!ENTITY bookmarkLinkCmd.label "Añadir enlace a marcadores">
+<!ENTITY bookmarkLinkCmd.accesskey "L">
+<!ENTITY bookmarkFrameCmd.label "Añadir este marco a marcadores">
+<!ENTITY bookmarkFrameCmd.accesskey "m">
+<!ENTITY savePageAsCmd.label "Guardar página como…">
+<!ENTITY savePageCmd.label "Guardar página">
+<!ENTITY savePageCmd.accesskey "u">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameAsCmd.label "Guardar marco como…">
+<!ENTITY saveFrameCmd.label "Guardar marco como">
+<!ENTITY saveFrameCmd.accesskey "g">
+<!ENTITY saveLinkAsCmd.label "Guardar destino del enlace como…">
+<!ENTITY saveLinkCmd.label "Guardar destino del enlace como">
+<!ENTITY saveLinkCmd.accesskey "r">
+<!ENTITY saveImageAsCmd.label "Guardar imagen como…">
+<!ENTITY saveImageCmd.label "Guardar imagen">
+<!ENTITY saveImageCmd.accesskey "u">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Seleccionar todo">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyImageCmd.label "Copiar imagen">
+<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY metadataCmd.label "Propiedades">
+<!ENTITY metadataCmd.accesskey "P">
+<!ENTITY copyEmailCmd.label "Copiar dirección de correo elec.">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY pasteCmd.label "Pegar">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY cutCmd.label "Cortar">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY deleteCmd.label "Eliminar">
+<!ENTITY deleteCmd.accesskey "E">
+<!ENTITY undoCmd.label "Deshacer">
+<!ENTITY undoCmd.accesskey "h">
+<!ENTITY redoCmd.label "Rehacer">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY thisFrameMenu.label "Este marco">
+<!ENTITY thisFrameMenu.accesskey "m">
+<!ENTITY search.accesskey "W">
+<!ENTITY bidiSwitchPageDirectionItem.label "Cambiar dirección de la página">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchTextDirectionItem.label "Cambiar dirección del texto">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "x">
+<!ENTITY spellAddToDictionary.label "Añadir al diccionario">
+<!ENTITY spellAddToDictionary.accesskey "c">
+<!ENTITY spellIgnoreWord.label "Ignorar palabra">
+<!ENTITY spellIgnoreWord.accesskey "p">
+<!ENTITY spellCheckEnable.label "Revisar ortografía">
+<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(no hay sugerencias)">
+<!ENTITY spellDictionaries.label "Idiomas">
+<!ENTITY spellDictionaries.accesskey "I">
+<!ENTITY spellAddDictionaries.label "Descargar más diccionarios…">
+<!ENTITY spellAddDictionaries.accesskey "D">

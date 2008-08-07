@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Registro de filtros">
+<!ENTITY viewLogInfo.text "El registro de filtros es un archivo que documenta qué filtros han sido ejecutados. Utilice la casilla de selección que hay debajo para habilitar el registro.">
+<!ENTITY clearLog.label "Limpiar registro">
+<!ENTITY clearLog.accesskey "L">
+<!ENTITY enableLog.label "Habilitar el registro de filtrado">
+<!ENTITY enableLog.accesskey "E">
+<!ENTITY closeLog.label "Cerrar">
+<!ENTITY closeLog.accesskey "c">

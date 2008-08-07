@@ -1,0 +1,18 @@
+<!ENTITY pref.popups.title "Ventanas emergentes">
+<!ENTITY pref.popups.caption "Ventanas emergentes">
+<!ENTITY popupDesc.label "Especifique cómo manejar ventanas emergentes que aparecen sobre o bajo la ventana actual del navegador:">
+<!ENTITY popupBlock.label "Bloquear ventanas emergentes no solicitadas">
+<!ENTITY popupBlock.accesskey "B">
+<!ENTITY popupExceptions.label "Sitios permitidos…">
+<!ENTITY popupExceptions.accesskey "p">
+<!ENTITY whenBlock.description "Cuando se ha bloqueado una ventana emergente:">
+<!ENTITY playSound.label "Reproducir un sonido:">
+<!ENTITY playSound.accesskey "s">
+<!ENTITY selectSound.label "Seleccionar…">
+<!ENTITY selectSound.accesskey "c">
+<!ENTITY previewSound.label "Escuchar">
+<!ENTITY previewSound.accesskey "E">
+<!ENTITY selectSound.title "Seleccione sonido de bloqueo de ventana emergente">
+<!ENTITY displayIcon.label "Mostrar un icono en la barra de estado del navegador">
+<!ENTITY displayIcon.accesskey "M">
+<!ENTITY popupNote.description "Nota: bloquear todas las ventanas emergentes puede impedir que funcionen características importantes de algunos sitios web, como ventanas de inicio de sesión de bancos y sitios de compra en línea. Para detalles sobre cómo permitir usar ventanas emergentes a sitios específicos sin dejar de bloquearlas para el resto, pulse Ayuda. Incluso con el bloqueo activado, algunos sitios pueden usar otros métodos para mostrar ventanas emergentes.">

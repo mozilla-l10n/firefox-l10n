@@ -1,0 +1,5 @@
+<!ENTITY prefWindow.size "width: 61em; height: 41em;">
+<!ENTITY urlbar.label "⌘+Return en la barra de direcciones">
+<!ENTITY urlbar.accesskey "L">
+<!ENTITY middleClick.label "Clic en el botón central, ⌘+clic o ⌘+Return en enlaces dentro de una página web">
+<!ENTITY middleClick.accesskey "e">

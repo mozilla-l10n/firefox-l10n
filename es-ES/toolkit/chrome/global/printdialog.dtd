@@ -1,0 +1,20 @@
+<!ENTITY printButton.label "Imprimir">
+<!ENTITY printDialog.title "Imprimir">
+<!ENTITY fpDialog.title "Guardar archivo">
+<!ENTITY fileCheck.label "Imprimir a fichero">
+<!ENTITY propertiesButton.label "Propiedades…">
+<!ENTITY descText.label "Descripción de la impresora">
+<!ENTITY printer.label "Impresora">
+<!ENTITY printerInput.label "Impresora:">
+<!ENTITY printrangeGroup.label "Rango de impresión">
+<!ENTITY allpagesRadio.label "Todas las páginas">
+<!ENTITY rangeRadio.label "Páginas">
+<!ENTITY frompageInput.label "de">
+<!ENTITY topageInput.label "para">
+<!ENTITY selectionRadio.label "Selección">
+<!ENTITY copies.label "Copias">
+<!ENTITY numCopies.label "Número de copias:">
+<!ENTITY printframeGroup.label "Imprimir marcos">
+<!ENTITY aslaidoutRadio.label "Tal y como se ve en pantalla">
+<!ENTITY selectedframeRadio.label "El marco seleccionado">
+<!ENTITY eachframesepRadio.label "Cada marco por separado">

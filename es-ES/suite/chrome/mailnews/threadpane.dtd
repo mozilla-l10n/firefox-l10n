@@ -1,0 +1,41 @@
+<!--null-->
+<!ENTITY threadColumn.label "Conversación">
+<!ENTITY fromColumn.label "Remitente">
+<!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY attachmentColumn.label "Adjuntos">
+<!ENTITY subjectColumn.label "Asunto">
+<!ENTITY dateColumn.label "Fecha">
+<!ENTITY priorityColumn.label "Prioridad">
+<!ENTITY tagsColumn.label "Etiquetas">
+<!ENTITY accountColumn.label "Cuenta">
+<!ENTITY statusColumn.label "Estado">
+<!ENTITY sizeColumn.label "Tamaño">
+<!ENTITY junkStatusColumn.label "Estado de correo basura">
+<!ENTITY linesColumn.label "Líneas">
+<!ENTITY unreadColumn.label "No leídos en la conversación">
+<!ENTITY totalColumn.label "Total en la conversación">
+<!ENTITY readColumn.label "Leído">
+<!ENTITY receivedColumn.label "Recibido">
+<!ENTITY flagColumn.label "Señal">
+<!ENTITY locationColumn.label "Ubicación">
+<!ENTITY idColumn.label "Orden de recepción">
+<!ENTITY columnChooser.tooltip "Pulse para seleccionar las columnas a mostrar">
+<!ENTITY threadColumn.tooltip "Haga clic para mostrar las conversaciones de mensajes">
+<!ENTITY fromColumn.tooltip "Haga clic para ordenar por remitente">
+<!ENTITY recipientColumn.tooltip "Haga clic para ordenar por destinatario">
+<!ENTITY attachmentColumn.tooltip "Haga clic para ordenar por adjuntos">
+<!ENTITY subjectColumn.tooltip "Haga clic para ordenar por asunto">
+<!ENTITY dateColumn.tooltip "Haga clic para ordenar por fecha">
+<!ENTITY priorityColumn.tooltip "Haga clic para ordenar por prioridad">
+<!ENTITY tagsColumn.tooltip "Haga clic para ordenar por etiquetas">
+<!ENTITY accountColumn.tooltip "Haga clic para ordenar por cuenta">
+<!ENTITY statusColumn.tooltip "Haga clic para ordenar por estado">
+<!ENTITY sizeColumn.tooltip "Haga clic para ordenar por tamaño">
+<!ENTITY junkStatusColumn.tooltip "Haga clic para ordenar por estado de correo basura">
+<!ENTITY unreadColumn.tooltip "Número de mensajes no leídos en una conversación">
+<!ENTITY totalColumn.tooltip "Número total de mensajes en la conversación">
+<!ENTITY readColumn.tooltip "Haga clic para ordenar por leídos">
+<!ENTITY receivedColumn.tooltip "Haga clic para ordenar por fecha de recepción">
+<!ENTITY flagColumn.tooltip "Haga clic para ordenar por señal">
+<!ENTITY locationColumn.tooltip "Pulse para ordenar por dirección">
+<!ENTITY idColumn.tooltip "Haga clic para ordenar por orden de recepción">

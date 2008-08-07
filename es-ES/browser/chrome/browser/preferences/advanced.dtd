@@ -1,0 +1,77 @@
+<!ENTITY generalTab.label "General">
+<!ENTITY accessibility.label "Accesibilidad">
+<!ENTITY useCursorNavigation.label "Usar siempre las teclas del cursor para navegar dentro de las páginas">
+<!ENTITY useCursorNavigation.accesskey "c">
+<!ENTITY searchStartTyping.label "Buscar texto mientras se escribe">
+<!ENTITY searchStartTyping.accesskey "x">
+<!ENTITY blockAutoRefresh.label "Advertir las páginas web intenten redireccionar o recargar la página">
+<!ENTITY blockAutoRefresh.accesskey "b">
+<!ENTITY browsing.label "Navegación">
+<!ENTITY useAutoScroll.label "Usar desplazamiento automático">
+<!ENTITY useAutoScroll.accesskey "a">
+<!ENTITY useSmoothScrolling.label "Usar desplazamiento suave">
+<!ENTITY useSmoothScrolling.accesskey "v">
+<!ENTITY checkSpelling.label "Comprobar la ortografía mientras se escribe">
+<!ENTITY checkSpelling.accesskey "t">
+<!ENTITY systemDefaults.label "Por defecto">
+<!ENTITY alwaysCheckDefault.label "Comprobar siempre si &brandShortName; es el navegador por defecto al arrancar">
+<!ENTITY alwaysCheckDefault.accesskey "s">
+<!ENTITY checkNow.label "Comprobar ahora">
+<!ENTITY checkNow.accesskey "m">
+<!ENTITY networkTab.label "Red">
+<!ENTITY connection.label "Conexión">
+<!ENTITY connectionDesc.label "Configurar cómo &brandShortName; se conecta a Internet">
+<!ENTITY connectionSettings.label "Configuración…">
+<!ENTITY connectionSettings.accesskey "o">
+<!ENTITY offlineStorage.label "Archivado de modo sin conexión">
+<!ENTITY useCacheBefore.label "Usar hasta">
+<!ENTITY useCacheBefore.accesskey "h">
+<!ENTITY useCacheAfter.label "MB de espacio para la caché">
+<!ENTITY clearCacheNow.label "Limpiar ahora">
+<!ENTITY clearCacheNow.accesskey "L">
+<!ENTITY updateTab.label "Actualizar">
+<!ENTITY autoCheck.label "Buscar automáticamente actualizaciones para:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "Complementos instalados">
+<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableSearchUpdate.label "Buscadores">
+<!ENTITY enableSearchUpdate.accesskey "b">
+<!ENTITY whenUpdatesFound.label "Cuando se encuentren actualizaciones para &brandShortName;:">
+<!ENTITY askMe.label "Preguntar qué hacer">
+<!ENTITY askMe.accesskey "q">
+<!ENTITY modeAutomatic.label "Descargar e instalar la actualización automáticamente">
+<!ENTITY modeAutomatic.accesskey "d">
+<!ENTITY modeAutoAddonWarn.label "Advertir si esto desactivará alguno de los complementos">
+<!ENTITY modeAutoAddonWarn.accesskey "v">
+<!ENTITY updateHistory.label "Mostrar historial de actualizaciones">
+<!ENTITY updateHistory.accesskey "c">
+<!ENTITY offlineNotify.label "Avisarme si un sitio solicita guardar datos para uso sin conexión">
+<!ENTITY offlineNotify.accesskey "T">
+<!ENTITY offlineNotifyExceptions.label "Excepciones…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY offlineAppsList.label "Los siguientes sitios web tienen datos guardados para el uso en modo sin conexión:">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "Eliminar…">
+<!ENTITY offlineAppsListRemove.accesskey "l">
+<!ENTITY offlineAppRemove.confirm "Eliminar contenido en modo desconectado">
+<!ENTITY encryptionTab.label "Cifrado">
+<!ENTITY protocols.label "Protocolos">
+<!ENTITY useSSL3.label "Usar SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Usar TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Certificados">
+<!ENTITY certSelection.description "Cuando un servidor requiera mi certificado personal:">
+<!ENTITY certs.auto "Seleccionar uno automáticamente">
+<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.ask "Preguntar siempre">
+<!ENTITY certs.ask.accesskey "g">
+<!ENTITY viewCerts.label "Ver certificados">
+<!ENTITY viewCerts.accesskey "s">
+<!ENTITY viewCRLs.label "Listas de revocación">
+<!ENTITY viewCRLs.accesskey "R">
+<!ENTITY verify2.label "Validación">
+<!ENTITY verify2.accesskey "V">
+<!ENTITY viewSecurityDevices.label "Dispositivos de seguridad">
+<!ENTITY viewSecurityDevices.accesskey "o">

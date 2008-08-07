@@ -1,0 +1,26 @@
+<!ENTITY pref.mouseWheel.title "Rueda del ratón">
+<!ENTITY mouseWheelPanel.label "Indique el comportamiento de la rueda del ratón al usarla con esta tecla: ">
+<!ENTITY usingJustTheWheel.label "Sin tecla modificadora">
+<!ENTITY usingWheelAndAlt.label "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label "Desplazamiento vertical">
+<!ENTITY mousewheelHorizGroup.label "Desplazamiento horizontal">
+<!ENTITY scroll.label "Desplazar en saltos de ">
+<!ENTITY scroll.accesskey "D">
+<!ENTITY scrollHoriz.accesskey "z">
+<!ENTITY scrollLines.label " líneas">
+<!ENTITY scrollChars.label " caracteres">
+<!ENTITY useSystemDefault.label "Usar valor del sistema">
+<!ENTITY useSystemDefault.accesskey "U">
+<!ENTITY useSystemDefaultHoriz.accesskey "s">
+<!ENTITY scrollPgUpPgDn.label "Mover el documento una página arriba o abajo">
+<!ENTITY scrollPgUpPgDn.accesskey "p">
+<!ENTITY scrollPgLtPgRt.label "Mover el documento una página a izquierda o derecha">
+<!ENTITY scrollPgLtPgRt.accesskey "r">
+<!ENTITY history.label "Moverse adelante y atrás en el historial de navegación">
+<!ENTITY history.accesskey "M">
+<!ENTITY historyHoriz.accesskey "v">
+<!ENTITY zoom.label "Aumentar o reducir el tamaño de la página">
+<!ENTITY zoom.accesskey "A">
+<!ENTITY zoomHoriz.accesskey "e">

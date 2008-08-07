@@ -1,0 +1,16 @@
+<!ENTITY smtpServer.label "Configuración del servidor saliente (SMTP)">
+<!ENTITY smtpDesc.label "Sólo es necesario especificar un servidor de correo saliente (SMTP), incluso si tiene varias cuentas de correo. Introduzca el nombre del servidor saliente que use más frecuentemente para acceder al correo.">
+<!ENTITY smtpListAdd.label "Añadir…">
+<!ENTITY smtpListAdd.accesskey "d">
+<!ENTITY smtpListEdit.label "Editar…">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Eliminar">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "Establecer predet.">
+<!ENTITY smtpListSetDefault.accesskey "t">
+<!ENTITY serverDescription.label "Descripción: ">
+<!ENTITY serverName.label "Nombre del servidor: ">
+<!ENTITY serverPort.label "Puerto: ">
+<!ENTITY userName.label "Nombre de usuario: ">
+<!ENTITY useSecureConnection.label "Conexión segura: ">
+<!ENTITY useSecureAuthentication.label "Identificación segura: ">

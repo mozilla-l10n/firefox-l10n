@@ -1,0 +1,80 @@
+<!ENTITY offlineGoOfflineCmd.label "Trabajar sin conexión">
+<!ENTITY offlineGoOfflineCmd.accesskey "x">
+<!ENTITY fileMenu.label "Archivo">
+<!ENTITY fileMenu.accesskey "a">
+<!ENTITY newMenu.label "Nuevo">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newBlankPageCmd.label "Nueva página de Composer">
+<!ENTITY newBlankPageCmd.accesskey "P">
+<!ENTITY newBlankPageCmd.key "n">
+<!ENTITY newPageFromTemplateCmd.label "Página usando una plantilla">
+<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromDraftCmd.label "Página usando un borrador">
+<!ENTITY newPageFromDraftCmd.accesskey "d">
+<!ENTITY newNavigatorCmd.label "Ventana de navegador">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "v">
+<!ENTITY editMenu.label "Editar">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Deshacer">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "h">
+<!ENTITY redoCmd.label "Rehacer">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY cutCmd.label "Cortar">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Pegar">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "Eliminar">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "E">
+<!ENTITY selectAllCmd.label "Seleccionar todo">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "Preferencias…">
+<!ENTITY preferencesCmd.key "E">
+<!ENTITY preferencesCmd.accesskey "e">
+<!ENTITY findTypeTextCmd.label "Encontrar texto a medida que escribe">
+<!ENTITY findTypeTextCmd.accesskey "x">
+<!ENTITY findTypeLinksCmd.label "Encontrar enlaces a medida que escribe">
+<!ENTITY findTypeLinksCmd.accesskey "n">
+<!ENTITY viewMenu.label "Ver">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenu.label "Mostrar/Ocultar">
+<!ENTITY viewToolbarsMenu.accesskey "M">
+<!ENTITY showTaskbarCmd.label "Barra de estado">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY helpMenu.label "Ayuda">
+<!ENTITY helpMenu.accesskey "u">
+<!ENTITY releaseCmd.label "Notas de esta versión">
+<!ENTITY releaseCmd.accesskey "N">
+<!ENTITY updateCmd.label "Buscar actualizaciones…">
+<!ENTITY updateCmd.accesskey "C">
+<!ENTITY aboutCmd.label "Acerca de &brandShortName;">
+<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY aboutCommPluginsCmd.label "Acerca de los plugins">
+<!ENTITY aboutCommPluginsCmd.accesskey "p">
+<!ENTITY direct.label "Conectado (proxy: ninguno)">
+<!ENTITY direct.accesskey "N">
+<!ENTITY manual.label "Conectado (proxy: manual)">
+<!ENTITY manual.accesskey "M">
+<!ENTITY pac.label "Conectado (proxy: auto URL)">
+<!ENTITY pac.accesskey "A">
+<!ENTITY wpad.label "Conectado (proxy: descubrimiento automático)">
+<!ENTITY wpad.accesskey "D">
+<!ENTITY proxy.label "Configuración proxy…">
+<!ENTITY proxy.accesskey "C">
+<!ENTITY bidiSwitchTextDirectionItem.label "Cambiar dirección del texto">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "C">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY allowPopups.accesskey "p">
+<!ENTITY showPopupManager.label "Administrar ventanas emergentes">
+<!ENTITY showPopupManager.accesskey "A">
+<!ENTITY dontShowMessage.label "No mostrar este mensaje cuando se bloqueen ventanas emergentes">
+<!ENTITY dontShowMessage.accesskey "N">

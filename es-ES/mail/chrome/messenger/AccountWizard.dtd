@@ -1,0 +1,69 @@
+<!ENTITY windowTitle.label "Asistente para cuentas">
+<!ENTITY accountWizard.size "width: 45em; height: 42em;">
+<!ENTITY accountSetupInfo.label "Para poder recibir mensajes, primero tiene que configurar una cuenta de correo o noticias.">
+<!ENTITY accountTypeTitle.label "Configuración de nueva cuenta">
+<!ENTITY accountTypeDesc.label "Este asistente recogerá la información necesaria para configurar una cuenta de correo o noticias. Si desconoce la información que se le pide, por favor póngase en contacto con el administrador del sistema o su proveedor de Internet.">
+<!ENTITY accountTypeDirections.label "Seleccione el tipo de cuenta que quiere configurar:">
+<!ENTITY accountTypeMail.label "Cuenta de correo electrónico">
+<!ENTITY accountTypeMail.accesskey "c">
+<!ENTITY accountTypeNews.label "Cuenta de noticias">
+<!ENTITY accountTypeNews.accesskey "n">
+<!ENTITY identityTitle.label "Identidad">
+<!ENTITY identityDesc.label "Cada cuenta tiene una identidad, que es la información que le identifica a usted ante otros cuando ellos reciben sus mensajes.">
+<!ENTITY fullnameDesc.label "Introduzca el nombre que quiere que aparezca en el campo &quot;De&quot; al enviar mensajes">
+<!ENTITY fullnameExample.label "(por ejemplo, &quot;José Pérez&quot;).">
+<!ENTITY fullnameLabel.label "Su nombre:">
+<!ENTITY fullnameLabel.accesskey "S">
+<!ENTITY emailLabel.label "Dirección de correo electrónico:">
+<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailDesc.label "Introduzca su dirección de correo electrónico; esta es la dirección que los demás utilizarán para mandarle mensajes a usted">
+<!ENTITY emailExample.label "(por ejemplo: usuario@ejemplo.net).">
+<!ENTITY serverTitle.label "Información de servidor">
+<!ENTITY incomingServerTitle.label "Servidor entrante">
+<!ENTITY incomingServerTypeDesc.label "Seleccione el tipo de servidor entrante que está utilizando.">
+<!ENTITY incomingServerTypeLabel.label "Tipo de servidor:">
+<!ENTITY incomingServerNameDesc.label "Introduzca el nombre de su servidor entrante (por ejemplo, &quot;mail.ejemplo.net&quot;).">
+<!ENTITY incomingServerLabel.label "Nombre del servidor:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!ENTITY newsServerNameDesc.label "Introduzca el nombre de su servidor de noticias (NNTP) (por ejemplo, &quot;news.ejemplo.net&quot;).">
+<!ENTITY smtpServerTitle.label "Servidor saliente (SMTP)">
+<!ENTITY smtpServerDesc.label "Introduzca el nombre de su servidor saliente (SMTP) (por ejemplo, &quot;smtp.ejemplo.net&quot;).">
+<!ENTITY smtpServerLabel.label "Servidor de correo saliente:">
+<!ENTITY smtpServerLabel.accesskey "O">
+<!ENTITY newsServerLabel.label "Servidor de noticias:">
+<!ENTITY newsServerLabel.accesskey "N">
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Servidor de noticias">
+<!ENTITY haveSmtp1.prefix "Su servidor saliente (SMTP) existente, &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;, será el usado. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Herramientas.">
+<!ENTITY loginTitle.label "Nombres de usuario">
+<!ENTITY usernameDesc.label "Introduzca el nombre de usuario entrante facilitado por su proveedor de correo electrónico ">
+<!ENTITY usernameExample.label "(por ejemplo, &quot;jperez&quot;).">
+<!ENTITY usernameLabel.label "Nombre de usuario entrante:">
+<!ENTITY usernameLabel.accesskey "I">
+<!ENTITY usernameSmtpDesc.label "Introduzca el nombre de usuario saliente facilitado por su proveedor de correo electrónico (normalmente es el mismo que el entrante).">
+<!ENTITY usernameSmtpLabel.label "Nombre de usuario saliente:">
+<!ENTITY usernameSmtpLabel.accesskey "O">
+<!ENTITY haveSmtp2.prefix "Se usará su nombre de usuario saliente (SMTP) existente, &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Herramientas.">
+<!ENTITY haveSmtp3.prefix "Su servidor saliente (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix "&quot;, es idéntico a su servidor entrante; se usará su nombre de usuario para acceder a él. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Herramientas.">
+<!ENTITY accnameTitle.label "Nombre de la cuenta">
+<!ENTITY accnameDesc.label "Introduzca el nombre por el que desea referirse a esta cuenta (por ejemplo, &quot;Cuenta del trabajo&quot;, &quot;Cuenta de casa&quot; o &quot;Cuenta de noticias&quot;).">
+<!ENTITY accnameExample.label "Por ejemplo: Cuenta del trabajo, Cuenta de casa, o Cuenta de noticias">
+<!ENTITY accnameLabel.label "Nombre de la cuenta:">
+<!ENTITY accnameLabel.accesskey "A">
+<!ENTITY completionTitle.label "¡Felicidades!">
+<!ENTITY completionText.label "Por favor, compruebe que la información de debajo es correcta.">
+<!ENTITY serverTypePrefix.label "Tipo de servidor entrante:">
+<!ENTITY serverNamePrefix.label "Nombre del servidor entrante:">
+<!ENTITY smtpServerNamePrefix.label "Nombre del servidor de correo saliente (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Nombre del servidor de noticias (NNTP):">
+<!ENTITY downloadOnLogin.label "Descargar mensajes ahora">
+<!ENTITY deferStorageDesc.label "Desmarque esta casilla para guardar el correo de esta cuenta en su propio directorio. Esto hará que esta cuenta aparezca como una cuenta del nivel principal. Si no, formará parte de la cuenta de la bandeja de entrada global en las carpetas locales.">
+<!ENTITY deferStorage.label "Usar la bandeja de entrada global (almacenar en las carpetas locales)">
+<!ENTITY clickFinish.label "Pulse el botón Finalizar para guardar estas configuraciones y salir del asistente de cuentas.">
+<!ENTITY clickFinish.labelMac "Pulse Terminado para guardar estos valores y salir del asistente de cuentas.">

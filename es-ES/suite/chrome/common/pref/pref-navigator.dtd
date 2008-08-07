@@ -1,0 +1,40 @@
+<!ENTITY pref.navigator.title "Navegador">
+<!ENTITY navRadio "Mostrar en el">
+<!ENTITY navStartPageMenu.label "Inicio del navegador">
+<!ENTITY newWinPageMenu.label "Nueva ventana">
+<!ENTITY newTabPageMenu.label "Nueva pestaña">
+<!ENTITY blankPageRadio.label "Página en blanco">
+<!ENTITY blankPageRadio.accesskey "B">
+<!ENTITY homePageRadio.label "Página de inicio">
+<!ENTITY homePageRadio.accesskey "n">
+<!ENTITY lastPageRadio.label "Última página visitada">
+<!ENTITY lastPageRadio.accesskey "L">
+<!ENTITY header2.label "Página de inicio">
+<!ENTITY homePageIntro.label "Pulsar el botón Inicio le lleva a este grupo de páginas:">
+<!ENTITY useCurrent.label "Usar página actual">
+<!ENTITY useCurrent.accesskey "U">
+<!ENTITY useCurrentGroup.label "Usar grupo actual">
+<!ENTITY useCurrentGroup.accesskey "G">
+<!ENTITY browseFile.label "Elegir archivo…">
+<!ENTITY browseFile.accesskey "C">
+<!ENTITY useDefault.label "Rest. valores predet.">
+<!ENTITY useDefault.accesskey "R">
+<!ENTITY toolbarIntro.label "Seleccione los botones que quiera ver en las barras de herramientas:">
+<!ENTITY navToolbarIntro.label "B. herram. navegación">
+<!ENTITY goButton.label "Ir a">
+<!ENTITY goButton.accesskey "a">
+<!ENTITY searchButton.label "Buscar">
+<!ENTITY searchButton.accesskey "S">
+<!ENTITY printButton.label "Imprimir">
+<!ENTITY printButton.accesskey "P">
+<!ENTITY persToolbarIntro.label "B. herram. personal">
+<!ENTITY homeButton.label "Inicio">
+<!ENTITY homeButton.accesskey "I">
+<!ENTITY bookmarksButton.label "Marcadores">
+<!ENTITY bookmarksButton.accesskey "M">
+<!ENTITY defaultBrowserGroup.label "Navegador predeterminado">
+<!ENTITY defaultBrowserButton.label "Establecer navegador predeterminado">
+<!ENTITY defaultBrowserButton.accesskey "D">
+<!ENTITY alreadyDefaultText "&brandShortName; ya es su navegador predeterminado.">
+<!ENTITY defaultPendingText "&brandShortName; se convertirá en su navegador predeterminado cuando pulse Aceptar.">
+<!ENTITY makeDefaultText "Establecer &brandShortName; como su navegador predeterminado.">

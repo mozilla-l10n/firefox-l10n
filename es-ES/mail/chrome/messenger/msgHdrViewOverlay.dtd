@@ -1,0 +1,37 @@
+<!--null-->
+<!ENTITY toField.label "Para: ">
+<!ENTITY fromField.label "De: ">
+<!ENTITY senderField.label "Remitente: ">
+<!ENTITY organizationField.label "Organización: ">
+<!ENTITY replyToField.label "Responder a: ">
+<!ENTITY subjectField.label "Asunto: ">
+<!ENTITY ccField.label "Cc: ">
+<!ENTITY bccField.label "Bcc: ">
+<!ENTITY newsgroupsField.label "Grupos de noticias: ">
+<!ENTITY followupToField.label "Followup-To: ">
+<!ENTITY tagsHdr.label "Etiquetas: ">
+<!ENTITY dateField.label "Fecha: ">
+<!ENTITY userAgentField.label "Agente de usuario: ">
+<!ENTITY referencesField.label "References: ">
+<!ENTITY messageIdField.label "Message-ID: ">
+<!ENTITY inReplyToField.label "In-Reply-To: ">
+<!ENTITY originalWebsite.label "Sitio web: ">
+<!ENTITY saveAll.label "Guardar todos…">
+<!ENTITY editMessage.label "Editar borrador…">
+<!ENTITY openAttachmentCmd.label "Abrir">
+<!ENTITY openAttachmentCmd.accesskey "b">
+<!ENTITY saveAsAttachmentCmd.label "Guardar como…">
+<!ENTITY saveAsAttachmentCmd.accesskey "A">
+<!ENTITY detachAttachmentCmd.label "Separar adjuntos…">
+<!ENTITY deleteAttachmentCmd.label "Eliminar">
+<!ENTITY saveAllAttachmentsCmd.label "Guardar todo…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "G">
+<!ENTITY detachAllAttachmentsCmd.label "Separar todos los adjuntos…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "D">
+<!ENTITY deleteAllAttachmentsCmd.label "Eliminar todos…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "d">
+<!ENTITY copyLinkCmd.label "Copiar la dirección del enlace">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY CopyMessageId.label "Copiar Message-ID">
+<!ENTITY OpenMessageForMsgId.label "Abrir mensaje para el Message-ID">
+<!ENTITY OpenBrowserWithMsgId.label "Abrir navegador con el Message-ID">

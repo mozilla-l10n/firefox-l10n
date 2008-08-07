@@ -1,0 +1,7 @@
+<!--null-->
+<!ENTITY nameColumn.label "Nombre">
+<!ENTITY unreadColumn.label "No leídos">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY folderSizeColumn.label "Tamaño">
+<!ENTITY accounts.label "Cuentas">
+<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

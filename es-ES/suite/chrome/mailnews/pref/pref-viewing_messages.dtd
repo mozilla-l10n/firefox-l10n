@@ -1,0 +1,42 @@
+<!--null-->
+<!ENTITY pref.viewing.messages.title "Visualización">
+<!ENTITY style.label "Estilo:">
+<!ENTITY style.accesskey "S">
+<!ENTITY regular.label "Normal">
+<!ENTITY bold.label "Negrita">
+<!ENTITY italic.label "Cursiva">
+<!ENTITY boldItalic.label "Neg. curs.">
+<!ENTITY size.label "Tamaño:">
+<!ENTITY size.accesskey "a">
+<!ENTITY bigger.label "Mayor">
+<!ENTITY smaller.label "Menor">
+<!ENTITY color.label "Color:">
+<!ENTITY color.accesskey "C">
+<!ENTITY displayPlainText.caption "Mensajes de texto sin formato">
+<!ENTITY plainTextFont.label "Usar el siguiente ancho de letra:">
+<!ENTITY displayQuoted.label "Configuración de mensajes citados:">
+<!ENTITY fixedWidth.label "Fijo">
+<!ENTITY fixedWidth.accesskey "F">
+<!ENTITY variableWidth.label "Variable">
+<!ENTITY variableWidth.accesskey "V">
+<!ENTITY readingMessagesHeader.label "Para los mensajes entrantes">
+<!ENTITY messageWrapping.label "Ajuste de línea en los mensajes">
+<!ENTITY wrapInMsg.label "Ajustar texto al ancho de la ventana">
+<!ENTITY wrapInMsg.accesskey "j">
+<!ENTITY convertEmoticons.label "Mostrar emoticones como gráficos">
+<!ENTITY convertEmoticons.accesskey "M">
+<!ENTITY generalMessageDisplay.caption "General">
+<!ENTITY autoMarkAsRead.label "Marcar automáticamente mensajes como leídos">
+<!ENTITY autoMarkAsRead.accesskey "m">
+<!ENTITY markAsReadNoDelay.label "Inmediatamente tras mostrarlo">
+<!ENTITY markAsReadNoDelay.accesskey "d">
+<!ENTITY markAsReadDelay.label "Tras mostrarlo durante">
+<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY secondsLabel.label "segundos">
+<!ENTITY openingMessages.label "Al abrir mensajes, mostrarlos en:">
+<!ENTITY newWindowRadio.label "Una ventana mens. nueva">
+<!ENTITY newWindowRadio.accesskey "n">
+<!ENTITY existingWindowRadio.label "Una ventana mens. existente">
+<!ENTITY existingWindowRadio.accesskey "e">
+<!ENTITY disableContent.label "Bloquear imágenes y otro contenido de orígenes remotos.">
+<!ENTITY disableContent.accesskey "B">

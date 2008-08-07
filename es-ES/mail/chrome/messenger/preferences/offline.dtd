@@ -1,0 +1,22 @@
+<!ENTITY offlineDialog.title "Configuración sin conexión">
+<!ENTITY textStartUp "Al iniciar:">
+<!ENTITY radioRememberPrevState.label "Recordar el estado de conexión anterior">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe.label "Preguntarme el modo de conexión al iniciar">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline.label "Iniciar siempre conectado">
+<!ENTITY radioAlwaysOnline.accesskey "I">
+<!ENTITY textGoingOnline "¿Enviar mensajes pendientes al pasar a modo con conexión?">
+<!ENTITY radioAutoSend.label "Sí">
+<!ENTITY radioAutoSend.accesskey "S">
+<!ENTITY radioNotSend.label "No">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent.label "Preguntarme">
+<!ENTITY radioAskUnsent.accesskey "P">
+<!ENTITY textGoingOffline "¿Descargar mensajes para su uso desconectado al pasar a modo sin conexión?">
+<!ENTITY radioAutoDownload.label "Sí">
+<!ENTITY radioAutoDownload.accesskey "S">
+<!ENTITY radioNotDownload.label "No">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload.label "Preguntarme">
+<!ENTITY radioAskDownload.accesskey "e">

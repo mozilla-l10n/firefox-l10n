@@ -1,0 +1,5 @@
+<!ENTITY securityOverride.linkText "O puede añadir una excepción…">
+<!ENTITY securityOverride.warningText "
+<p>No debería añadir una excepción si está usando una conexión a Internet en la que confía completamente, o si no está acostumbrado a ver una advertencia para este servidor.</p>
+<p>Si aún desea añadir una excepción para este sitio, puede hacerlo en su configuración avanzada de cifrado.</p>
+">

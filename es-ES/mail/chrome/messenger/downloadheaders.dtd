@@ -1,0 +1,9 @@
+<!--null-->
+<!ENTITY all.label "Descargar todas las cabeceras">
+<!ENTITY all.accesskey "D">
+<!ENTITY download.label "Descargar">
+<!ENTITY download.accesskey "a">
+<!ENTITY headers.label "Cabeceras">
+<!ENTITY headers.accesskey "r">
+<!ENTITY mark.label "Marcar las cabeceras restantes como leídas">
+<!ENTITY mark.accesskey "M">

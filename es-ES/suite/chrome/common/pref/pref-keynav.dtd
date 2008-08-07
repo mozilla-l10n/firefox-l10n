@@ -1,0 +1,20 @@
+<!ENTITY pref.keyNav.title "Navegación con teclado">
+<!ENTITY tabNavigationBehavior.label "Navegación con el tabulador">
+<!ENTITY tabNavigationLinks.label "Enlaces">
+<!ENTITY tabNavigationLinks.accesskey "L">
+<!ENTITY tabNavigationForms.label "Botones, botones de radio, casillas de verificación y listas">
+<!ENTITY tabNavigationForms.accesskey "B">
+<!ENTITY tabNavigationTextboxes.label "Nota: cajas de texto y regiones desplaz. siempre se incluyen en la tabul.">
+<!ENTITY tabNavigationDesc.label "Cuando se pulsa Tab o Mays + Tab, moverse entre:">
+<!ENTITY findAsYouTypeBehavior.label "Buscar según escribe">
+<!ENTITY findAsYouTypeTip.label "Consejo: para iniciar manualmente la característica de búsqueda según se escribe, escriba / para buscar texto o ' para buscar enlaces, seguido por el texto que quiere encontrar.">
+<!ENTITY findAsYouTypeTimeout.label "Reiniciar la búsqueda actual tras unos pocos segundos de inactividad.">
+<!ENTITY findAsYouTypeTimeout.accesskey "C">
+<!ENTITY findAsYouTypeSound.label "Reproducir un sonido cuando el texto escrito no se encuentre">
+<!ENTITY findAsYouTypeSound.accesskey "P">
+<!ENTITY findAsYouTypeEnableAuto.label "Buscar automáticamente cuando escriba dentro de una página web:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
+<!ENTITY findAsYouTypeAutoText.label "Cualquier texto en la página">
+<!ENTITY findAsYouTypeAutoText.accesskey "A">
+<!ENTITY findAsYouTypeAutoLinks.label "Sólo enlaces">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "o">

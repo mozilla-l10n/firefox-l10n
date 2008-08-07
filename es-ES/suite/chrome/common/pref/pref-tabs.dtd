@@ -1,0 +1,25 @@
+<!ENTITY tabHeader.label "Navegación con pestañas">
+<!ENTITY tabDisplay.label "Visualización de pestañas">
+<!ENTITY autoHide.label "Esconder la barra de pestañas cuando sólo haya una abierta">
+<!ENTITY autoHide.accesskey "d">
+<!ENTITY background.label "Cambiar a las nuevas pestañas abiertas a partir de enlaces">
+<!ENTITY background.accesskey "S">
+<!ENTITY loadGroup.label "Al abrir un grupo de pestañas">
+<!ENTITY loadGroupAppend.label "Añadir pestañas">
+<!ENTITY loadGroupAppend.accesskey "A">
+<!ENTITY loadGroupReplace.label "Reemplazar pestañas existentes">
+<!ENTITY loadGroupReplace.accesskey "R">
+<!ENTITY openTabs.label "Abrir pestañas en vez de ventanas cuando:">
+<!ENTITY newWindow.label "Apertura de enlaces">
+<!ENTITY newWindowDescription.label "Abrir los enlaces que intenten abrir una nueva ventana en">
+<!ENTITY external.label "Enlaces de otras aplicaciones">
+<!ENTITY externalDescription.label "Abrir enlaces pasados desde otras aplicaciones en">
+<!ENTITY openCurrent.label "La pestaña/ventana actual">
+<!ENTITY newWindowGroupCurrent.accesskey "c">
+<!ENTITY externalGroupCurrent.accesskey "u">
+<!ENTITY openTab.label "Una nueva pestaña en la ventana actual">
+<!ENTITY newWindowGroupTab.accesskey "n">
+<!ENTITY externalGroupTab.accesskey "e">
+<!ENTITY openWindow.label "Una nueva ventana">
+<!ENTITY newWindowGroupWindow.accesskey "v">
+<!ENTITY externalGroupWindow.accesskey "t">

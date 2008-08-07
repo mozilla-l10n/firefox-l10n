@@ -1,0 +1,60 @@
+<!ENTITY updateWizard.title "Actualización de software">
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+<!ENTITY checking.title "Comprobando actualizaciones">
+<!ENTITY checking.label "&brandShortName; está comprobando ahora las actualizaciones…">
+<!ENTITY cancel.label "Cancelar">
+<!ENTITY cancel.accesskey "C">
+<!ENTITY noupdatesfound.title "No se encontraron actualizaciones">
+<!ENTITY noupdatesfound.intro "No hay nuevas actualizaciones disponibles. &brandShortName; puede comprobar                                            periódicamente si hay nuevas actualizaciones.">
+<!ENTITY incompatibleChecking.label "Comprobando si esta actualización causará problemas en sus extensiones y/o temas…">
+<!ENTITY clickHere.label "Ver más información sobre esta actualización">
+<!ENTITY incompatible.warning "Esta actualización causará que algunas de las extensiones y/o temas                                            dejen de funcionar hasta que se actualicen.">
+<!ENTITY listIncompatible.label "Mostrar lista">
+<!ENTITY listIncompatible.accesskey "L">
+<!ENTITY upgrade.evangelism "Se recomienda que se actualice &brandShortName; 
+                                           lo antes posible.">
+<!ENTITY license.instructions "Si se está de acuerdo con los términos de este acuerdo, pulsar 'Estoy de acuerdo'
+                                           más abajo para continuar instalando esta actualización.">
+<!ENTITY license.titleText "Acuerdo de licencia de software">
+<!ENTITY license.introText "Términos y condiciones de uso de este software.">
+<!ENTITY license.instructionText "Por favor, lea el siguiente acuerdo de licencia. Use la barra de desplazamiento para ver el resto de este acuerdo.">
+<!ENTITY license.accept "Acepto los términos del Acuerdo de licencia">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "NO acepto los términos del Acuerdo de licencia">
+<!ENTITY license.decline.accesskey "T">
+<!ENTITY downloading.title "Descargando la actualización">
+<!ENTITY downloading.intro "Descargando la actualización…">
+<!ENTITY connecting.label "Conectando al servidor de actualización…">
+<!ENTITY verificationFailedText.label "&brandShortName; no pudo verificar la integridad de la
+                                           actualización incremental descargada, por lo que ahora está descargando
+                                           el paquete de actualización completo.">
+<!ENTITY details.link "Detalles">
+<!ENTITY pause.label "Pausar">
+<!ENTITY pause.accesskey "P">
+<!ENTITY close.label "Cerrar">
+<!ENTITY close.accesskey "C">
+<!ENTITY error.label "Hubo problemas al comprobar, descargar o instalar esta
+                                           actualización. No se pudo actualizar &brandShortName; porque:">
+<!ENTITY errorManual.label "Se puede actualizar &brandShortName; manualmente visitando este enlace
+                                           y descargando la última versión:">
+<!ENTITY errorpatching.title "Fallo en la actualización">
+<!ENTITY errorpatching.intro "No se pudo aplicar la actualización parcial.
+                                           &brandShortName; volverá a intentarlo descargando la actualización completa.">
+<!ENTITY finished.title "Actualización descargada">
+<!ENTITY finished.text "La actualización se ha descargado y verificado con éxito, y se
+                                           instalará la próxima vez que se inicie &brandShortName;.">
+<!ENTITY finishedBackground.title "Actualización preparada para instalar">
+<!ENTITY finishedBackground.text "&brandShortName; ha descargado y verificado una actualización importante.
+                                           Haga clic en el enlace inferior para más detalles.">
+<!ENTITY finishedBackground.name "Actualización:">
+<!ENTITY finishedBackground.more1 "Haga clic en Reiniciar &brandShortName; ahora para instalar la actualización ahora.">
+<!ENTITY finishedBackground.textNotNow "Pulse Ahora no para cerrar este diálogo y continuar trabajando. &brandShortName;
+                                            instalará la actualización la próxima vez que se inicie.
+">
+<!ENTITY installed.title "Actualización instalada">
+<!ENTITY installed.intro "La actualización se instaló correctamente.">
+<!ENTITY whatsnew.label "Leer más acerca de las novedades…">
+<!ENTITY update.details.label "Detalles">
+<!ENTITY update.installedOn.label "Instalado en:">
+<!ENTITY update.status.label "Estado:">

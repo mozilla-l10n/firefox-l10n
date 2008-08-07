@@ -1,0 +1,18 @@
+<!ENTITY closeCmd.label "Cerrar">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY quitApplicationCmd.label "Salir">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "S">
+<!ENTITY redoCmd.label "Rehacer">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+<!ENTITY accel.emacs_conflict "accel,shift">
+<!ENTITY openHelpCmd.label "Contenido de la ayuda">
+<!ENTITY openHelpCmd.accesskey "C">
+<!ENTITY openHelpCmd.key "VK_F1">
+<!ENTITY ctrlKey.label "Ctrl">
+<!ENTITY altKey.label "Alt">
+<!ENTITY shiftKey.label "Mayús.">

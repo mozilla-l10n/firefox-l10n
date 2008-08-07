@@ -1,0 +1,33 @@
+<!ENTITY systemDefaults.label "Valores por omisión del sistema">
+<!ENTITY alwaysCheckDefault.label "Comprobar siempre si &brandShortName; es el cliente de correo por omisión al inicio">
+<!ENTITY alwaysCheckDefault.accesskey "C">
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Comprobar ahora">
+<!ENTITY checkNow.accesskey "a">
+<!ENTITY messengerStartPage.label "Página de inicio de &brandShortName;">
+<!ENTITY enableStartPage.label "Al iniciarse &brandShortName;, mostrar la página de inicio en el área de mensajes">
+<!ENTITY enableStartPage.accesskey "i">
+<!ENTITY location.label "Dirección:">
+<!ENTITY location1.accesskey "D">
+<!ENTITY useDefault.label "Restablecer predeterminado">
+<!ENTITY useDefault.accesskey "R">
+<!ENTITY bounceSystemDockIcon.label "Animar el icono de notificación">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY newMessagesArrive.label "Cuando lleguen mensajes nuevos:">
+<!ENTITY playSound.label "Reproducir un sonido">
+<!ENTITY playSound1.accesskey "o">
+<!ENTITY showAnimatedAlert.label "Mostrar una alerta">
+<!ENTITY showAnimatedAlert.accesskey "s">
+<!ENTITY customizeMailAlert.label "Personalizar…">
+<!ENTITY customizeMailAlert.accesskey "P">
+<!ENTITY soundNotification1.caption "Sonido">
+<!ENTITY play.label "Reproducir">
+<!ENTITY play.accesskey "r">
+<!ENTITY systemsound.label "Sonido por defecto del sistema para nuevo correo">
+<!ENTITY systemsoundMac.label "Sonido de alerta del sistema">
+<!ENTITY systemsoundMac.accesskey "m">
+<!ENTITY systemsound.accesskey "n">
+<!ENTITY customsound.label "Usar el siguiente archivo de sonido">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY browse.label "Examinar…">
+<!ENTITY browse.accesskey "E">

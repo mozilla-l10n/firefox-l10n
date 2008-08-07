@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Para ahorrar espacio en disco, no descargar:">
+<!ENTITY doNotDownload.label "Para ahorrar espacio en disco, no descargar para uso sin conexión:">
+<!ENTITY offlineNewFolder.label "Al crear carpetas nuevas, seleccionarlas para usarlas sin conexión">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "Mensajes mayores de">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "días">
+<!ENTITY daysOld.label "días">
+<!ENTITY message.label "mensajes">
+<!ENTITY nntpNotDownloadRead.label "Mensajes leídos">
+<!ENTITY nntpNotDownloadRead.accesskey "l">
+<!ENTITY nntpDownloadMsg.label "Mensajes de más de">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Para recuperar espacio en disco, los mensajes antiguos pueden eliminarse permanentemente">
+<!ENTITY retentionKeepMsg.label "Eliminar mensajes con más de">
+<!ENTITY retentionKeepMsg.accesskey "a">
+<!ENTITY retentionKeepAll.label "No eliminar ningún mensaje">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepNew.label "Eliminar todos excepto los últimos">
+<!ENTITY retentionKeepNew.accesskey "x">
+<!ENTITY retentionKeepUnread.label "Eliminar siempre los mensajes leídos">
+<!ENTITY retentionKeepUnread.accesskey "i">
+<!ENTITY nntpRemoveBody.label "Sólo los cuerpos de mensajes con menos de">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "Selecc. grupos de noticias para uso sin conexión…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineSelectImap.label "Seleccionar carpetas para uso sin conexión…">
+<!ENTITY offlineSelectImap.accesskey "S">
+<!ENTITY offlineDesc.label "Puede descargar sus mensajes localmente para tenerlos disponibles cuando esté en modo sin conexión.">
+<!ENTITY makeInboxMsgsAvailable.label "Hacer que los mensajes en mi carpeta de entrada estén disponibles cuando trabaje desconectado">
+<!ENTITY makeInboxMsgsAvailable.accesskey "H">
+<!ENTITY offlineGroupTitle.label "Desconexión">
+<!ENTITY diskspaceGroupTitle.label "Espacio en disco">
