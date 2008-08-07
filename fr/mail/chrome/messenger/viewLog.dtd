@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Journal de filtrage">
+<!ENTITY viewLogInfo.text "Le journal de filtrage consigne quels filtres ont été exécutés pour ce compte. Utilisez la case à cocher ci-dessous pour activer le journal.">
+<!ENTITY clearLog.label "Vider le journal">
+<!ENTITY clearLog.accesskey "V">
+<!ENTITY enableLog.label "Activer le journal de filtrage">
+<!ENTITY enableLog.accesskey "A">
+<!ENTITY closeLog.label "Fermer">
+<!ENTITY closeLog.accesskey "F">

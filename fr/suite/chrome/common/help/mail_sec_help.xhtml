@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % AccountManagerDTD SYSTEM "chrome://messenger/locale/AccountManager.dtd" >
+  %AccountManagerDTD;
+  <!ENTITY % am-smimeDTD SYSTEM "chrome://messenger/locale/am-smime.dtd" >
+  %am-smimeDTD;
+  <!ENTITY % msgSynchronizeDTD SYSTEM "chrome://messenger/locale/msgSynchronize.dtd" >
+  %msgSynchronizeDTD;
+  <!ENTITY % messengerDTD SYSTEM "chrome://messenger/locale/messenger.dtd" >
+  %messengerDTD;
+  <!ENTITY % msgCompSMIMEOverlayDTD SYSTEM "chrome://messenger-smime/locale/msgCompSMIMEOverlay.dtd" >
+  %msgCompSMIMEOverlayDTD;
+  <!ENTITY % msgCompSecurityInfoDTD SYSTEM "chrome://messenger-smime/locale/msgCompSecurityInfo.dtd" >
+  %msgCompSecurityInfoDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>Signet et chiffrer des messages</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+</head>
+
+<body>
+  <h1 id="signing_and_encrypting_messages">Signer et chiffrer des messages</h1>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#about_digital_signatures_and_encryption">&Agrave; propos
+      des signatures num&eacute;riques et du chiffrement</a></li>
+
+      <li><a href="#getting_other_peoples_certificates">Obtenir des certificats
+      d'autres personnes</a></li>
+
+      <li><a href="#configuring_security_settings">Configurer les
+      r&eacute;glages de s&eacute;curit&eacute;</a></li>
+
+      <li><a href="#signing_and_encrypting_a_new_message">Signer
+      num&eacute;riquement et chiffrer un nouveau message</a></li>
+
+      <li><a href="#reading_signed_and_encrypted_messages">Lire des messages
+      sign&eacute;s et chiffr&eacute;s</a></li>
+
+      <li><a href="#message_security_compose_window">S&eacute;curit&eacute;
+      d'un message - Fen&ecirc;tre de r&eacute;daction</a></li>
+
+      <li><a href="#message_security_received_message">S&eacute;curit&eacute;
+      d'un message - Message re&ccedil;u</a></li>
+    </ul>
+  </div>
+
+  <h2 id="about_digital_signatures_and_encryption">&Agrave; propos des
+  signatures num&eacute;riques et du chiffrement</h2>
+
+  <p>Lorsque vous r&eacute;digez un courrier, vous avez la possibilit&eacute;
+  d'y joindre votre signature num&eacute;rique. Une <a href=
+  "glossary.xhtml#digital_signature" class="glossary">signature
+  num&eacute;rique</a> permet au destinataire du message de v&eacute;rifier que
+  le message provient bien de vous et n'a pas &eacute;t&eacute; modifi&eacute;
+  depuis que vous l'avez envoy&eacute;.</p>
+
+  <p>Lorsque vous r&eacute;digez un courrier, vous pouvez aussi choisir de le
+  chiffrer. <a href="glossary.xhtml#encryption" class="glossary">Le
+  chiffrement</a> rend pratiquement impossible, &agrave; un tiers autre que le
+  destinataire, de lire ce message pendant sa transmission &agrave; travers le
+  r&eacute;seau Internet.</p>
+
+  <p>La signature et le chiffrement ne sont pas disponibles pour les messages
+  &agrave; destination des groupes.</p>
+
+  <p>Avant de pouvoir signer ou de chiffrer un message, vous devez suivre ces
+  &eacute;tapes pr&eacute;liminaires&nbsp;:</p>
+
+  <ol>
+    <li>Obtenez un ou plusieurs <a href="glossary.xhtml#certificate" class=
+    "glossary">certificats</a> (&eacute;quivalent num&eacute;rique d'une carte
+    d'identit&eacute;). Pour plus de d&eacute;tails, voir la section <a href=
+    "using_certs_help.xhtml#getting_your_own_certificate">Obtenir votre propre
+    certificat</a>.</li>
+
+    <li>Configurez les r&eacute;glages de s&eacute;curit&eacute; pour votre
+    compte de courrier. Pour plus de d&eacute;tails, voir la section <a href=
+    "mail_help.xhtml#security">Configurer vos r&eacute;glages de
+    s&eacute;curit&eacute;</a>.</li>
+  </ol>
+
+  <p>Une fois ces deux &eacute;tapes franchies, vous pouvez compl&eacute;ter
+  les instructions permettant de <a
+  href="#signing_and_encrypting_a_new_message">signer num&eacute;riquement
+  et chiffrer un nouveau message</a>.</p>
+
+  <p>La partie suivante donne un aper&ccedil;u rapide du fonctionnement des
+  signatures num&eacute;riques et du chiffrement. Pour plus de d&eacute;tails
+  techniques sur le sujet, voir le document en ligne <a href=
+  "http://developer.mozilla.org/en/docs/Introduction_to_Public-Key_Cryptography"
+  hreflang="en">Introduction &agrave; la cryptographie &agrave;
+  cl&eacute;s publiques</a>.</p>
+
+  <h3 id="how_digital_signatures_work">Comment fonctionne la signature
+  num&eacute;rique</h3>
+
+  <p>Une signature num&eacute;rique est un code sp&eacute;cial, unique pour
+  chaque message, cr&eacute;&eacute; &agrave; l'aide de la <a href=
+  "glossary.xhtml#public-key_cryptography" class="glossary">cryptographie
+  &agrave; cl&eacute; publique</a>.</p>
+
+  <p>Une signature num&eacute;rique est ainsi compl&egrave;tement
+  diff&eacute;rente d'une signature manuelle, bien qu'elle puisse quelquefois
+  &ecirc;tre utilis&eacute;e l&eacute;galement dans certains cas, tels que la
+  signature d'un contrat.</p>
+
+  <p>Pour cr&eacute;er une signature num&eacute;rique dans le courrier que vous
+  allez envoyer, vous avez besoin de deux choses&nbsp;:</p>
+
+  <ul>
+    <li>Un <a href="glossary.xhtml#signing_certificate" class=
+    "glossary">certificat de signature</a> qui vous identifie. Chaque fois que
+    vous signez un message, votre certificat de signature est joint &agrave; ce
+    message. Ce certificat inclut une <a href="glossary.xhtml#public_key"
+      class="glossary">cl&eacute; publique</a>. La pr&eacute;sence du
+      certificat dans le message permet au destinataire de v&eacute;rifier
+      votre signature num&eacute;rique.
+
+      <p>Votre certificat est un peu comme vos nom et num&eacute;ro de
+      t&eacute;l&eacute;phone dans l'annuaire t&eacute;l&eacute;phonique&nbsp;:
+      c'est une information publique qui aide les autres personnes &agrave;
+      communiquer avec vous.</p>
+    </li>
+
+    <li>Une <a href="glossary.xhtml#private_key" class="glossary">cl&eacute;
+    priv&eacute;e</a>, qui est cr&eacute;&eacute;e et enregistr&eacute;e sur
+    votre machine lorsque vous venez d'obtenir un certificat.
+
+      <p>Votre cl&eacute; priv&eacute;e pour la certification de signature est
+      prot&eacute;g&eacute;e par votre <a href="glossary.xhtml#master_password"
+      class="glossary">mot de passe principal</a> et n'est normalement
+      communiqu&eacute;e &agrave; personne d'autre. Le logiciel de courriers et
+      de groupes utilise votre cl&eacute; priv&eacute;e pour cr&eacute;er une
+      signature num&eacute;rique unique et v&eacute;rifiable pour chaque
+      message que vous avez d&eacute;cid&eacute; de signer.</p>
+    </li>
+  </ul>
+
+  <h3 id="how_encryption_works">Comment fonctionne le chiffrement</h3>
+
+  <p>Pour chiffrer un message, vous devez avoir un <a href=
+  "glossary.xhtml#encryption_certificate" class="glossary">certificat de
+  chiffrement</a> pour chacun des destinataires. La cl&eacute; publique dans
+  chaque certificat est utilis&eacute;e afin de chiffrer le message pour le
+  destinataire associ&eacute; au certificat.</p>
+
+  <p>Si vous ne poss&eacute;dez pas de certificat, m&ecirc;me pour un seul
+  destinataire, le message ne peut pas &ecirc;tre chiffr&eacute;.</p>
+
+  <p>Le logiciel du destinataire utilise sa propre cl&eacute; priv&eacute;e,
+  pr&eacute;sente sur sa propre machine, pour d&eacute;chiffrer le message.</p>
+
+  <p>[&nbsp;<a href="#signing_and_encrypting_messages">Retour au d&eacute;but
+  de la section</a>&nbsp;]</p>
+
+  <h2 id="getting_other_peoples_certificates">Obtenir des certificats d'autres
+  personnes</h2>
+
+  <p>&Agrave; chaque fois que vous envoyez un message sign&eacute;
+  num&eacute;riquement, votre certificat de chiffrement est automatiquement
+  inclus avec le message. Ainsi, un des moyens les plus simples pour obtenir le
+  certificat d'une autre personne est que cette personne vous envoie
+  elle-m&ecirc;me un message sign&eacute; num&eacute;riquement.</p>
+
+  <p>Quand vous recevez de tels messages, les certificats de ces personnes sont
+  automatiquement enregistr&eacute;s par le <a href=
+  "certs_help.xhtml">gestionnaire de certificats</a>. Ceci est n&eacute;cessaire
+  parce que vous avez besoin de poss&eacute;der un certificat pour chaque
+  destinataire &agrave; qui vous souhaitez envoyer un courrier
+  chiffr&eacute;.</p>
+
+  <p>Une autre fa&ccedil;on d'obtenir des certificats est de les rechercher
+  dans les r&eacute;pertoires publics, tels que les annuaires
+  t&eacute;l&eacute;phoniques maintenus par plusieurs compagnies.</p>
+
+  <p>Il est aussi possible de rechercher automatiquement les certificats. Cette
+  fonctionnalit&eacute; est contr&ocirc;l&eacute;e par les <a href=
+  "mail_help.xhtml#addressing_preferences">pr&eacute;f&eacute;rences
+  d'adressage</a> ou les <a href="mail_help.xhtml#addressing">param&egrave;tres
+  d'adressage</a>, et peut &ecirc;tre configur&eacute;e pour rechercher dans un
+  r&eacute;pertoire les adresses courrier des destinataires.</p>
+
+  <p>Lors de l'utilisation de n'importe quel compte configur&eacute; pour la
+  recherche des adresses dans un r&eacute;pertoire, on recherchera dans le
+  m&ecirc;me r&eacute;pertoire les correspondances des certificats quand vous
+  essayerez d'envoyer un message chiffr&eacute; vers un ou plusieurs
+  destinataires pour lesquels vous n'avez pas de certificats sur votre disque
+  dur.</p>
+
+  <p>On recherchera &eacute;galement dans le r&eacute;pertoire les certificats
+  manquant lorsque vous ouvrirez le menu d&eacute;roulant en-dessous de
+  l'ic&ocirc;ne de s&eacute;curit&eacute; dans la fen&ecirc;tre de
+  r&eacute;daction et que vous choisirez <q>&menu_securityStatus.label;</q>.</p>
+
+  <p>[&nbsp;<a href="#signing_and_encrypting_messages">Retour au d&eacute;but
+  de la section</a>&nbsp;]</p>
+
+  <h2 id="configuring_security_settings">Configurer les r&eacute;glages de
+  s&eacute;curit&eacute;</h2>
+
+  <p>Une fois que vous avez obtenu un certificat de courrier
+  &eacute;lectronique (ou des certificats), vous devez sp&eacute;cifier celui
+  que vous voulez utiliser pour signer et chiffrer vos messages.</p>
+
+  <p>Pour plus d'informations sur l'obtention des certificats de courrier
+  &eacute;lectronique, voir la section <a href=
+  "using_certs_help.xhtml#getting_your_own_certificate">Obtenir votre propre
+  certificat</a>.</p>
+
+  <p>Pour sp&eacute;cifier quel certificat de signature et de chiffrement
+  utiliser pour un compte particulier, commencez par ouvrir la fen&ecirc;tre de
+  courrier, puis suivez les &eacute;tapes suivantes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&editMenu.label;</q> et choisissez
+    <q>&accountManagerTitle.label;</q>.</li>
+
+    <li>Cliquez sur <q>&securityTitle.label;</q> sous le nom du compte
+    courrier dont vous voulez modifier les r&eacute;glages de
+    s&eacute;curit&eacute;.</li>
+
+    <li>Sous la signature num&eacute;rique, cliquez sur
+    <q>&digitalSign.certificate.button;</q>. Il pourra vous &ecirc;tre demand&eacute; de
+    fournir votre <a href="glossary.xhtml#master_password" class="glossary">mot
+    de passe principal</a> avant de pouvoir continuer.
+
+      <p>Une bo&icirc;te de dialogue appara&icirc;t, dans laquelle il faut
+      choisir un certificat parmi les certificats valides disponibles.</p>
+    </li>
+
+    <li>Choisir le certificat de signature que vous voulez utiliser, et cliquez
+    sur <q>OK</q>.</li>
+
+    <li>Suivez les m&ecirc;mes &eacute;tapes pour le chiffrement&nbsp;: cliquez
+    sur le bouton <q>&selectButton.label;</q>, et choisissez le certificat de
+    chiffrement que vous voulez utiliser, et enfin cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p>Dans certains cas, vous pourriez avoir &agrave; sp&eacute;cifier le
+  m&ecirc;me certificat sous <q>&encryptionGroupTitle.label;</q> que celui que vous avez
+  sp&eacute;cifi&eacute; sous <q>&signingGroupTitle.label;</q>&nbsp;;
+  consultez votre administrateur pour plus de s&ucirc;ret&eacute;.</p>
+
+  <p>De mani&egrave;re optionnelle, vous pouvez aussi indiquer que vous voulez
+  toujours signer ou chiffrer les messages envoy&eacute;s depuis un compte
+  donn&eacute;. Les r&eacute;glages sp&eacute;cifiques de ce compte sont
+  &eacute;tablis par commodit&eacute;&nbsp;; vous pouvez passer outre ces
+  r&eacute;glages par d&eacute;faut pour des messages isol&eacute;s.</p>
+
+  <p>Pour configurer vos r&eacute;glages de signature et de chiffrement par
+  d&eacute;faut, ouvrez de la bo&icirc;te de dialogue
+  <q>&securityTitle.label;</q>&nbsp; du compte consid&eacute;r&eacute;
+  (d&eacute;crite plus haut) et s&eacute;lectionnez les r&eacute;glages comme
+  suit&nbsp;:</p>
+
+  <ul>
+    <li>En dessous de signature num&eacute;rique&nbsp;:
+
+      <dl>
+        <dt>&signMessage.label;&nbsp;:</dt>
+
+        <dd>Quand cette case est s&eacute;lectionn&eacute;e (activ&eacute;e),
+        tous les messages envoy&eacute;s depuis ce compte seront sign&eacute;s
+        num&eacute;riquement, &agrave; moins que vous n'indiquiez le contraire
+        avant d'envoyer votre message. Pour d&eacute;sactiver ce r&eacute;glage
+        par d&eacute;faut, d&eacute;s&eacute;lectionnez cette case.</dd>
+      </dl>
+    </li>
+
+    <li>En dessous de chiffrement (choix exclusif)&nbsp;:
+
+      <dl>
+        <dt>&neverEncrypt.label;&nbsp;:</dt>
+
+        <dd>Quand cette option est s&eacute;lectionn&eacute;e, tous les
+        messages envoy&eacute;s depuis ce compte seront chiffr&eacute;s
+        &agrave; moins que vous n'indiquiez autre chose avant d'envoyer votre
+        message.</dd>
+
+        <dt>&alwaysEncryptMessage.label;&nbsp;:</dt>
+
+        <dd>Quand cette option est s&eacute;lectionn&eacute;e, tous les
+        messages envoy&eacute;s depuis ce compte seront chiffr&eacute;s, mais
+        seulement si vous poss&eacute;dez un certificat valide pour chaque
+        destinataire des messages &agrave; envoyer. Si vous ne poss&eacute;dez
+        pas tous les certificats n&eacute;cessaires, le message ne pourra pas
+        &ecirc;tre envoy&eacute;, &agrave; moins que vous ne d&eacute;sactiviez
+        le chiffrement pour ce message.</dd>
+      </dl>
+    </li>
+  </ul>
+
+  <p>Lorsque vous avez termin&eacute; de configurer vos r&eacute;glages de
+  s&eacute;curit&eacute;, cliquer sur <q>OK</q> pour les confirmer.</p>
+
+  <p>[&nbsp;<a href="#signing_and_encrypting_messages">Retour au d&eacute;but
+  de la section</a>&nbsp;]</p>
+
+  <h2 id="signing_and_encrypting_a_new_message">Signer num&eacute;riquement et
+  chiffrer un nouveau message</h2>
+
+  <p>Avant que vous ne puissiez signer num&eacute;riquement ou chiffrer un
+  message, vous devez obtenir au moins un certificat de courrier et configurer
+  correctement vos r&eacute;glages de s&eacute;curit&eacute; de courrier
+  &eacute;lectronique. Pour de plus amples informations, voir la section
+  <a href="#about_digital_signatures_and_encryption">&Agrave; propos des
+  signatures num&eacute;riques et du chiffrement</a>.</p>
+
+  <p>Les r&eacute;glages sp&eacute;cifi&eacute;s dans <a href=
+  "mail_help.xhtml#security">Param&egrave;tres des comptes courrier et groupes -
+  &securityTitle.label;</a> d&eacute;terminent les r&eacute;glages par
+  d&eacute;faut pour chaque nouvelle fen&ecirc;tre de r&eacute;daction que vous
+  ouvrez pour r&eacute;diger un courrier &eacute;lectronique.</p>
+
+  <p>Pour ouvrir une nouvelle fen&ecirc;tre de r&eacute;daction, partez de la
+  fen&ecirc;tre de courrier et cliquez sur <q>&newMsgButton.label;</q>. Vous pouvez
+  alors imm&eacute;diatement conna&icirc;tre les r&eacute;glages de
+  s&eacute;curit&eacute; par d&eacute;faut avec la pr&eacute;sence ou non des
+  ic&ocirc;nes suivantes, en bas &agrave; droite de la fen&ecirc;tre&nbsp;:</p>
+
+  <table>
+    <tr>
+      <td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif" alt=
+      "ic&ocirc;ne de signature num&eacute;rique" /></td>
+
+      <td style="text-align: left;">Ce message est sign&eacute;
+      num&eacute;riquement (v&eacute;rifiez que vous avez un certificat de
+      courrier &eacute;lectronique valide qui permet de vous identifier).</td>
+    </tr>
+
+    <tr>
+      <td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif" alt=
+      "ic&ocirc;ne de chiffrement num&eacute;rique" /></td>
+
+      <td style="text-align: left;">Ce message est chiffr&eacute;
+      (v&eacute;rifiez que vous avez des certificats valides pour tous les
+      destinataires).</td>
+    </tr>
+  </table>
+
+  <p>Pour (d&eacute;s)activer ces r&eacute;glages, cliquez sur la fl&egrave;che
+  en dessous de l'ic&ocirc;ne <q>&securityTitle.label;</q>, dans la barre
+  d'outils <q>Courrier</q> en haut de la fen&ecirc;tre. Ensuite, faites votre
+  choix dans la liste d&eacute;roulante propos&eacute;e&nbsp;:</p>
+
+  <dl>
+    <dt>&menu_securityNoEncryption.label;&nbsp;:</dt>
+
+    <dd>Choisissez cette option pour d&eacute;sactiver le chiffrement pour ce
+    message. Celui-ci sera envoy&eacute; en clair &agrave; travers le
+    r&eacute;seau Internet.</dd>
+
+    <dt>&menu_securityEncryptRequire.label;&nbsp;:</dt>
+
+    <dd>Choisissez cette option pour chiffrer ce message. Celui-ci sera
+    envoy&eacute; sous forme chiffr&eacute;e. Cependant, il ne pourra
+    &ecirc;tre envoy&eacute; qu'&agrave; condition que vous poss&eacute;diez
+    des certificats valides pour tous les destinataires.</dd>
+
+    <dt>&menu_securitySign.label;&nbsp;:</dt>
+
+    <dd>Choisissez cette option pour activer la signature num&eacute;rique pour
+    ce message. Une information signalera que ce message est
+    num&eacute;riquement sign&eacute;.</dd>
+
+    <dt>&menu_securityStatus.label;&nbsp;:</dt>
+
+    <dd>Choisissez cette option pour voir le d&eacute;tail des informations
+    relatives &agrave; la s&eacute;curit&eacute; de ce message&nbsp;&ndash;
+    pour vous aider &agrave; d&eacute;terminer, par exemple, si vous devez ou
+    non obtenir un certificat pour un des destinataires.</dd>
+  </dl>
+
+  <p>Pour obtenir des informations plus d&eacute;taill&eacute;es &agrave;
+  propos de la s&eacute;curit&eacute; des messages, vous pouvez aussi cliquer
+  sur l'ic&ocirc;ne cl&eacute; ou cadenas, comme d&eacute;crit dans la section
+  <a href="#message_security_compose_window">&title.label; - Fen&ecirc;tre de
+  r&eacute;daction</a>.</p>
+
+  <p>[&nbsp;<a href="#signing_and_encrypting_messages">Retour au d&eacute;but
+  de la section</a>&nbsp;]</p>
+
+  <h2 id="reading_signed_and_encrypted_messages">Lire des messages
+  sign&eacute;s et chiffr&eacute;s</h2>
+
+  <p>Lorsque vous lisez un message sign&eacute; ou chiffr&eacute; dans une
+  fen&ecirc;tre de courrier, ces ic&ocirc;nes apparaissent dans le coin droit
+  sup&eacute;rieur de l'en-t&ecirc;te du message, indiquant l'&eacute;tat de
+  s&eacute;curit&eacute; de celui-ci&nbsp;:</p>
+
+  <table>
+    <tr>
+      <td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif" alt=
+      "ic&ocirc;ne de signature num&eacute;rique" /></td>
+
+      <td style="text-align: left;">Ce message est sign&eacute;
+      num&eacute;riquement. En cas de probl&egrave;me avec la signature, le
+      stylo est cass&eacute;.</td>
+    </tr>
+
+    <tr>
+      <td><img src="chrome://messenger/skin/smime/icons/hdrSignUnknown.gif"
+      alt="ic&ocirc;ne inconnu" /></td>
+
+      <td style="text-align: left;">Le message est sign&eacute;, mais il a une
+      grosse pi&egrave;ce jointe qui n'a pas encore &eacute;t&eacute;
+      t&eacute;l&eacute;charg&eacute;e du serveur IMAP. De ce fait, la
+      signature ne peut pas &ecirc;tre valid&eacute;e. Cliquez sur
+      l'ic&ocirc;ne pour t&eacute;l&eacute;charger la pi&egrave;ce jointe et
+      valider la signature.</td>
+    </tr>
+
+    <tr>
+      <td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif" alt=
+      "ic&ocirc;ne cadenas" /></td>
+
+      <td style="text-align: left;">Ce message est chiffr&eacute;. En cas de
+      probl&egrave;me avec le chiffrement, la cl&eacute; est
+      cass&eacute;e.</td>
+    </tr>
+  </table>
+
+  <p>Pour plus d'informations sur la validation des certificats, voir la
+  section <a href="using_certs_help.xhtml#controlling_validation">G&eacute;rer
+  les param&egrave;tres de validation</a>.</p>
+
+  <p>Pour plus d'informations &agrave; propos de la s&eacute;curit&eacute; du
+  message, cliquez la cl&eacute; ou l'ic&ocirc;ne de verrouillage (cadenas), ou
+  suivez les instructions donn&eacute;es dans <a href=
+  "#message_security_received_message">S&eacute;curit&eacute; d'un message -
+  Message re&ccedil;u</a>.</p>
+
+  <p>[&nbsp;<a href="#signing_and_encrypting_messages">Retour au d&eacute;but
+  de la section</a>&nbsp;]</p>
+
+  <h2 id="message_security_compose_window">&title.label; - Fen&ecirc;tre de
+  r&eacute;daction</h2>
+
+  <p>Cette partie d&eacute;crit la fen&ecirc;tre <q>&title.label;</q>, que vous
+  pouvez ouvrir pour chaque message que vous &eacute;crivez. Si vous
+  n'&ecirc;tes pas d&eacute;j&agrave; en train de lire les informations
+  relatives &agrave; la s&eacute;curit&eacute; du message, cliquez sur
+  l'ic&ocirc;ne <q>&securityTitle.label;</q> dans la barre d'outils de la
+  fen&ecirc;tre de r&eacute;daction.</p>
+
+  <p>La fen&ecirc;tre <q>&title.label;</q> d&eacute;crit comment votre message
+  sera envoy&eacute;&nbsp;:</p>
+
+  <dl>
+    <dt>&status.signed;</dt>
+
+    <dd>
+      Cette ligne indique si oui ou non votre message sera sign&eacute;. Il y a
+      trois possibilit&eacute;s&nbsp;:
+
+      <dl>
+        <dt>Oui&nbsp;:</dt>
+
+        <dd>La signature num&eacute;rique a &eacute;t&eacute; activ&eacute;e
+        pour ce message, vous avez un certificat valide qui vous identifie, et
+        ce message peut &ecirc;tre sign&eacute;.</dd>
+
+        <dt>Non&nbsp;:</dt>
+
+        <dd>La signature num&eacute;rique a &eacute;t&eacute;
+        d&eacute;sactiv&eacute;e pour ce message.</dd>
+
+        <dt>Impossible&nbsp;:</dt>
+
+        <dd>La signature num&eacute;rique a &eacute;t&eacute; activ&eacute;e
+        pour ce message. Toutefois, aucun <a href="glossary.xhtml#certificate"
+        class="glossary">certificat</a> valide permettant de vous identifier
+        n'est utilisable, ou il y a un autre probl&egrave;me qui rend la
+        signature impossible.</dd>
+      </dl>
+    </dd>
+
+    <dt>&status.encrypted;</dt>
+
+    <dd>
+      Cette ligne indique si oui ou non votre message sera chiffr&eacute;. Il y
+      a trois possibilit&eacute;s&nbsp;:
+
+      <dl>
+        <dt>Oui&nbsp;:</dt>
+
+        <dd>Le chiffrement a &eacute;t&eacute; activ&eacute; pour ce message,
+        des certificats valides pour tous les destinataires list&eacute;s sont
+        utilisables, et le message peut &ecirc;tre chiffr&eacute;.</dd>
+
+        <dt>Non&nbsp;:</dt>
+
+        <dd>Le chiffrement a &eacute;t&eacute; d&eacute;sactiv&eacute; pour ce
+        message.</dd>
+
+        <dt>Impossible&nbsp;:</dt>
+
+        <dd>Le chiffrement est activ&eacute; pour ce message. Toutefois, un
+        certificat pour au moins un des destinataires list&eacute;s n'est pas
+        valide, ou aucun destinataire n'est list&eacute;, ou il y a un autre
+        probl&egrave;me qui rend le chiffrement de ce message impossible.</dd>
+      </dl>
+    </dd>
+  </dl>
+
+  <p>La fen&ecirc;tre <q>&title.label;</q> liste aussi les certificats
+  disponibles pour les destinataires de votre message&nbsp;:</p>
+
+  <dl>
+    <dt>&view.label;&nbsp;:</dt>
+
+    <dd>Pour voir les d&eacute;tails d'un des certificats pr&eacute;sents dans
+    la liste, s&eacute;lectionnez son nom, et cliquez sur <q>&view.label;</q>.</dd>
+  </dl>
+
+  <p>Pour obtenir plus d'informations &agrave; propos de l'obtention de
+  certificats et sur les r&eacute;glages de la configuration de la
+  s&eacute;curit&eacute; des messages, voir la section <a href=
+  "#signing_and_encrypting_messages">Signer num&eacute;riquement et chiffrer
+  les messages</a>.</p>
+
+  <p>Pour indiquer vos choix de signature et de chiffrement pour un message
+  isol&eacute;, cliquez sur la fl&egrave;che situ&eacute;e pr&egrave;s du
+  bouton <q>&securityButton.label;</q>, dans la fen&ecirc;tre de
+  r&eacute;daction, et choisissez les options que vous d&eacute;sirez.</p>
+
+  <p>Pour indiquer vos pr&eacute;f&eacute;rences de signature num&eacute;rique
+  et de chiffrement par d&eacute;faut pour tous vos messages, voir la section
+  <a href="mail_help.xhtml#security">Param&egrave;tres des comptes de courrier
+  et de Groupes - &securityMenu.label;</a>.</p>
+
+  <p>[&nbsp;<a href="#signing_and_encrypting_messages">Retour au d&eacute;but
+  de la section</a>&nbsp;]</p>
+
+  <h2 id="message_security_received_message">&title.label; - Message
+  re&ccedil;u</h2>
+
+  <p>Cette partie d&eacute;crit la fen&ecirc;tre <q>&title.label;</q> que vous
+  pouvez ouvrir pour chaque message que vous avez re&ccedil;u. Si vous
+  n'&ecirc;tes pas d&eacute;j&agrave; en train de parcourir les informations
+  relatives &agrave; la s&eacute;curit&eacute; d'un message re&ccedil;u,
+  proc&eacute;dez comme suit&nbsp;:</p>
+
+  <ol>
+    <li>Dans la fen&ecirc;tre <q>&messengerWindow.title;</q>,
+    s&eacute;lectionnez le message dont vous voulez voir les informations de
+    s&eacute;curit&eacute;.</li>
+
+    <li>Ouvrez le menu <q>&viewMenu.label;</q> et choisissez
+    <q>&menu_viewSecurityStatus.label;</q>.</li>
+  </ol>
+
+  <p>La fen&ecirc;tre s&eacute;curit&eacute; du message affiche les
+  informations suivantes&nbsp;:</p>
+
+  <dl>
+    <dt>Signature num&eacute;rique&nbsp;:</dt>
+
+    <dd>
+      La section du haut indique si oui ou non le message est sign&eacute;
+      num&eacute;riquement et, dans ce cas, si la signature est valide.
+
+      <p>Si la validation ne fonctionne pas alors que OCSP est activ&eacute;e,
+      v&eacute;rifiez les r&eacute;glages OCSP dans <a href=
+      "validation_help.xhtml#privacy_and_security_preferences_validation">Pr&eacute;f&eacute;rences de
+      confidentialit&eacute; et de s&eacute;curit&eacute; - Validation</a>. Si
+      vous n'&ecirc;tes pas habitu&eacute; avec OCSP, v&eacute;rifiez les
+      r&eacute;glages avec votre administrateur syst&egrave;me. Si vos
+      r&eacute;glages sont corrects, il y a peut-&ecirc;tre un probl&egrave;me
+      avec le service OCSP ou le certificat utilis&eacute; n'est plus
+      valide.</p>
+
+      <p>Si la signature est invalide &agrave; cause de la confiance relative
+      &agrave; un certificat, vous pouvez utiliser le <a href=
+      "certs_help.xhtml">gestionnaire de certificats</a> pour voir ou
+      &eacute;diter ces r&eacute;glages.</p>
+    </dd>
+
+    <dt>Voir le certificat de signature&nbsp;:</dt>
+
+    <dd>Si le message est sign&eacute;, cliquez sur ce bouton pour voir le
+    certificat qui a &eacute;t&eacute; utilis&eacute; pour le signer.</dd>
+
+    <dt>Chiffrement&nbsp;:</dt>
+
+    <dd>
+      La section du bas indique si oui ou non le message est chiffr&eacute;, et
+      s'il y a des probl&egrave;mes de d&eacute;chiffrement.
+
+      <ul>
+        <li>Si le contenu du message a &eacute;t&eacute; alt&eacute;r&eacute;
+        pendant son trajet, vous pouvez demander &agrave; l'&eacute;metteur de
+        vous le renvoyer une seconde fois. Les changements peuvent avoir
+        &eacute;t&eacute; caus&eacute;s par des probl&egrave;mes de
+        r&eacute;seau.</li>
+
+        <li>Si une copie de votre propre certificat (utilis&eacute; par
+        l'auteur du message) n'est pas valable sur votre machine, la cl&eacute;
+        priv&eacute;e pour r&eacute;cup&eacute;rer le message ne pourra pas
+        &ecirc;tre retrouv&eacute;e. La seule solution possible consiste
+        &agrave; importer une copie de sauvegarde de votre certificat et de sa
+        cl&eacute; priv&eacute;e (voir la section <a href=
+        "certs_help.xhtml#your_certificates">Vos certificats</a> pour plus de
+        d&eacute;tails). Si vous n'avez pas acc&egrave;s &agrave; une copie de
+        sauvegarde de ce certificat, vous ne pourrez pas d&eacute;chiffrer ce
+        message.</li>
+      </ul>
+    </dd>
+  </dl>
+
+  <p>[&nbsp;<a href="#signing_and_encrypting_messages">Retour au d&eacute;but
+  de la section</a>&nbsp;]</p>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Derni&egrave;re r&eacute;vision&nbsp;: 14 juillet 2006</em></p>
+
+    <p>Ce texte a &eacute;t&eacute; traduit et adapt&eacute; par une
+    &eacute;quipe internationale de b&eacute;n&eacute;voles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sourceforge.net"
+    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

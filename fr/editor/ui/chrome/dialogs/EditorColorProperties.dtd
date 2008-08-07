@@ -1,0 +1,46 @@
+<!--
+   - The contents of this file are subject to the Netscape Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/NPL/
+   -  
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   -  
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   - 
+   - The Initial Developer of the Original Code is Netscape
+   - Communications Corporation. Portions created by Netscape are
+   - Copyright (C) 1998-1999 Netscape Communications Corporation. All
+   - Rights Reserved.
+   - 
+   - Contributor(s): 
+  -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Couleurs et fond de la page">
+<!ENTITY pageColors.label "Couleurs de la page">
+<!ENTITY defaultColorsRadio.label "Ne pas spécifier de couleur">
+<!ENTITY defaultColorsRadio.accessKey "s">
+<!ENTITY defaultColorsRadio.tooltip "Utiliser seulement les réglages de couleurs du navigateur du lecteur.">
+<!ENTITY customColorsRadio.label "Utiliser des couleurs personnelles :">
+<!ENTITY customColorsRadio.accessKey "U">
+<!ENTITY customColorsRadio.tooltip "Ces réglages de couleurs outrepassent les réglages du navigateur">
+
+<!ENTITY normalText.label "Texte normal ">
+<!ENTITY normalText.accessKey "n">
+<!ENTITY linkText.label "Texte avec un lien ">
+<!ENTITY linkText.accessKey "l">
+<!ENTITY activeLinkText.label "Texte d'un lien activé ">
+<!ENTITY activeLinkText.accessKey "a">
+<!ENTITY visitedLinkText.label "Texte d'un lien visité ">
+<!ENTITY visitedLinkText.accessKey "v">
+<!ENTITY background.label "Fond de la page :">
+<!ENTITY background.accessKey "F">
+<!ENTITY colon.character ":">
+<!ENTITY backgroundImage.label "Image de fond :">
+<!ENTITY backgroundImage.accessKey "I">
+<!ENTITY backgroundImage.tooltip "Utiliser une image comme fond de votre page">

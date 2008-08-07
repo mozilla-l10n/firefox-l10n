@@ -1,0 +1,24 @@
+
+<!ENTITY  editType.label "Édition du type de fichier">
+<!ENTITY  newType.label "Nouveau type">
+<!ENTITY  extension.label "Extension :">
+<!ENTITY  extension.accesskey "E">
+<!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
+<!ENTITY  mimetype.label "Type MIME :">
+<!ENTITY  mimetype.accesskey "m">
+<!ENTITY  description.label "Description :">
+<!ENTITY  description.accesskey "D">
+
+<!ENTITY  handling.label "Quand on rencontre un fichier de ce type">
+<!ENTITY  useDefault.label "L'ouvrir en utilisant l'application par défaut">
+<!ENTITY  useDefault.accesskey "o">
+<!ENTITY  saveToDisk.label "L'enregistrer sur le disque">
+<!ENTITY  saveToDisk.accesskey "s">
+<!ENTITY  application.label "L'ouvrir avec :">
+<!ENTITY  application.accesskey "a">
+
+<!ENTITY  browse.label "Choisir…">
+<!ENTITY  browse.accesskey "C">
+
+<!ENTITY  askBeforeOpen.label "Toujours me demander avant de gérer un fichier de ce type.">
+<!ENTITY  askBeforeOpen.accesskey "T">

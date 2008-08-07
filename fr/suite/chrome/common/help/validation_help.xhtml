@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % pref-validationDTD SYSTEM "chrome://pippki/locale/pref-validation.dtd" >
+  %pref-validationDTD;
+  <!ENTITY % pippkiDTD SYSTEM "chrome://pippki/locale/pippki.dtd" >
+  %pippkiDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
+  %preftreeDTD;
+  <!ENTITY % certManagerDTD SYSTEM "chrome://pippki/locale/certManager.dtd" >
+  %certManagerDTD;
+
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>Pr&eacute;f&eacute;rences de s&eacute;curit&eacute; -
+  Validation</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+</head>
+
+<body>
+
+  <h1 id="validation_settings">Pr&eacute;f&eacute;rences de validation</h1>
+
+  <p>Cette section d&eacute;crit comment d&eacute;finir vos
+  pr&eacute;f&eacute;rences de validation et comment contr&ocirc;ler les
+  pr&eacute;f&eacute;rences des listes de certificats r&eacute;voqu&eacute;s
+  (LCR).</p>
+
+  <p>Pour des instructions pas-&agrave;-pas des diff&eacute;rentes t&acirc;ches
+  &agrave; propos de la validation et des LCR, voir <a href=
+  "using_certs_help.xhtml#controlling_validation">comment fonctionne
+  la validation des certificats</a>.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#privacy_and_security_preferences_validatio">Pr&eacute;f&eacute;rences de
+      confidentialit&eacute; et de s&eacute;curit&eacute; - &pref.validation.title;</a></li>
+
+      <li><a href="#manage_crls">&validation.crlmanager.label;</a></li>
+
+      <li><a href="#crl_import_status">Statut de l'importation des LCR</a></li>
+
+      <li><a href="#automatic_crl_update_preferences">Pr&eacute;f&eacute;rences de mise
+      &agrave; jour automatique des LCR</a></li>
+    </ul>
+  </div>
+
+
+  <h2 id="privacy_and_security_preferences_validation">Pr&eacute;f&eacute;rences de confidentialit&eacute;
+  et de s&eacute;curit&eacute; - Validation</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau de configuration
+  de <q>&pref.validation.title;</q>. S'il n'est pas d&eacute;j&agrave; ouvert, faites ce qui
+  suit&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q> et choisissez
+    <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>&security.label;</q>, choisissez
+    <q>&pref.validation.title;</q>. Si aucune sous-cat&eacute;gorie n'est visible,
+    double-cliquez sur <q>&security.label;</q> pour d&eacute;velopper la liste.</li>
+  </ol>
+
+  <p>Pour de plus amples informations sur la validation des certificats, voir
+  <a href="using_certs_help.xhtml#how_certificate_validation_works">comment
+  fonctionne la validation des certificats</a>.</p>
+
+  <h3 id="crl">LCR</h3>
+
+  <p>Une liste de certificats r&eacute;voqu&eacute;s (en anglais&nbsp;:
+  <acronym>CRL</acronym> ou <em lang="en" xml:lang="en">Certificate Revocation
+  List</em>) est une liste de certificats qui ne sont plus valides
+  g&eacute;n&eacute;r&eacute;e et sign&eacute;e par une <a href=
+  "glossary.xhtml#certificate_authority" class="glossary">autorit&eacute; de
+  certification (AC)</a>. Il est possible de t&eacute;l&eacute;charger une LCR
+  dans votre navigateur, qui peut la v&eacute;rifier pour s'assurer que les
+  certificats sont encore valides avant de les autoriser &agrave; &ecirc;tre
+  utilis&eacute;s pour authentification.</p>
+
+  <ul>
+    <li>Cliquez sur <q>&validation.managecrls.button;</q> pour voir la liste des LCR
+    disponibles pour le gestionnaire de certificats.</li>
+  </ul>
+
+  <p>Pour plus d'informations sur la gestion des LCR, voir <a href=
+  "using_certs_help.xhtml#managing_crls">&validation.crlmanager.label;</a>.</p>
+
+  <h3 id="ocsp">PLSC</h3>
+
+  <p>Le protocole en ligne de statuts de certificats (<acronym>PLSC</acronym>,
+  en anglais&nbsp;: <acronym>OCSP</acronym> ou <em lang="en" xml:lang=
+  "en">Online Certificate Status Protocol</em>) permet au gestionnaire de
+  certificats de v&eacute;rifier en ligne la validit&eacute; d'un certificat
+  &agrave; chaque fois que la s&eacute;curit&eacute; de la navigation en
+  d&eacute;pend. Cette v&eacute;rification s'appuie sur une LCR fix&eacute;e
+  par un site sp&eacute;cifi&eacute;. Votre ordinateur doit &ecirc;tre
+  connect&eacute; &agrave; Internet pour que le PLSC puisse fonctionner.</p>
+
+  <p>Pour sp&eacute;cifier comment le gestionnaire de certificats doit utiliser
+  le PLSC, choisissez une des r&egrave;gles suivantes dans la section PLSC des
+  pr&eacute;f&eacute;rences de validation&nbsp;:</p>
+
+  <dl>
+<!--    <dt>disableOCSP.label&nbsp;:</dt>
+
+    <dd>S&eacute;lectionnez cette r&egrave;gle si vous ne voulez pas que le
+    gestionnaire de certificats effectue syst&eacute;matiquement la
+    v&eacute;rification en ligne d'un certificat. &Agrave; chaque fois que le
+    gestionnaire de certificats effectue une <a href=
+    "glossary.xhtml#certificate_verification" class=
+    "glossary">v&eacute;rification des certificats</a>, il s'appuie uniquement
+    sur la p&eacute;riode de validit&eacute; du certificat et sur le fait que
+    celui-ci soit correctement sign&eacute; par une autorit&eacute; de
+    certification (AC) dont le certificat d'AC est &agrave; la fois
+    list&eacute; dans l'onglet <q>&certmgr.tab.ca;</q> (dans la fen&ecirc;tre
+    principale du gestionnaire de certificats) et marqu&eacute; comme
+    &eacute;tant de confiance pour l'&eacute;mission de ce type de
+    certificats.</dd> -->
+
+    <dt>&certOCSP2.label;&nbsp;:</dt>
+
+    <dd>S&eacute;lectionnez cette r&egrave;gle si vous voulez que le
+    gestionnaire de certificats effectue &agrave; chaque fois une
+    v&eacute;rification en ligne d'un certificat en pr&eacute;cisant une URL
+    permettant cette v&eacute;rification. Si une URL est
+    sp&eacute;cifi&eacute;e par le certificat, le gestionnaire de certificats
+    s'assure de la validit&eacute; du certificat et il v&eacute;rifie sa
+    p&eacute;riode de validit&eacute; ainsi que les param&egrave;tres de
+    confiance.</dd>
+
+    <dt>&proxyOCSP2.label;&nbsp;:</dt>
+
+    <dd>
+      S&eacute;lectionnez cette r&egrave;gle si vous voulez que le gestionnaire
+      de certificats v&eacute;rifie syst&eacute;matiquement chaque certificat.
+      Si vous choisissez cette r&egrave;gle, vous devriez aussi choisir le
+      certificat de la liste d&eacute;roulante <q>&signingCA.label;</q> qui
+      identifie le signataire des r&eacute;ponses du
+      PLSC. Avec ce r&eacute;glage, les seuls certificats reconnus par le
+      gestionnaire de certificats seront ceux v&eacute;rifi&eacute;s par une
+      r&eacute;ponse du PLSC sign&eacute;e avec le certificat de signature de
+      r&eacute;ponse (ou sign&eacute;e &agrave; l'aide d'un certificat
+      li&eacute; &agrave; ce certificat).
+
+      <p>Quand vous choisissez un certificat de signature de r&eacute;ponse
+      &agrave; partir de la liste d&eacute;roulante, le gestionnaire de
+      certificats pr&eacute;cise automatiquement l'URL de service (si celle-ci
+      est disponible) pour ce signataire. Si l'URL de service n'est pas
+      automatiquement remplie, vous devrez la fournir vous-m&ecirc;me&nbsp;;
+      demandez &agrave; votre administrateur syst&egrave;me pour plus de
+      d&eacute;tails.</p>
+    </dd>
+  </dl>
+
+
+  <h2 id="manage_crls">Gestion des LCR</h2>
+
+  <p>Cette section explique comment utiliser la bo&icirc;te de dialogue du
+  gestionnaire des <acronym title=
+  "Liste de certificats r&eacute;voqu&eacute;s">LCR</acronym>. Pour la faire
+  appara&icirc;tre, faites comme ceci&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>&security.label;</q>, cliquez sur
+    <q>&pref.validation.title;</q>. Si aucune sous-cat&eacute;gorie n'est visible,
+    double-cliquez sur <q>&security.label;</q> pour d&eacute;velopper la
+    liste.</li>
+
+    <li>Cliquez sur <q>Gestion des LCR&hellip;</q>.</li>
+  </ol>
+
+  <p>Cette bo&icirc;te de dialogue affiche la liste des <a href=
+  "glossary.xhtml#crl" class="glossary">LCR</a> que vous
+  avez t&eacute;l&eacute;charg&eacute;es dans votre navigateur. Typiquement,
+  vous t&eacute;l&eacute;chargez une LCR en cliquant sur une URL. Pour plus
+  d'informations sur le fonctionnement des LCR, voir la section <a href=
+  "using_certs_help.xhtml#managing_crls">Gestion des LCR</a>.</p>
+
+  <p>Pour s&eacute;lectionner une LCR, cliquez sur celle-ci. Vous pouvez
+  alors effectuer l'une des actions suivantes&nbsp;:</p>
+
+  <dl>
+    <dt>&validation.deletecrl.label;&nbsp;:</dt>
+
+    <dd>Efface d&eacute;finitivement la LCR de votre disque dur. Ne choisissez
+    cette option que si vous &ecirc;tes s&ucirc;r de ne plus avoir besoin de la
+    LCR pour valider vos certificats. En cas de doute, contactez votre
+    administrateur.</dd>
+
+    <dt>&validation.advanced.label;&nbsp;:</dt>
+
+    <dd>Ouvre la bo&icirc;te de dialogue des <a href=
+    "#automatic_crl_update_preferences">&validation.crl.autoupdate.title;</a>,
+    qui vous permet d'activer la mise &agrave; jour automatique des LCR
+    s&eacute;lectionn&eacute;es et de choisir la fr&eacute;quence de cette
+    action.</dd>
+
+    <dt>&validation.updatecrl.label;&nbsp;:</dt>
+
+    <dd>Met &agrave; jour imm&eacute;diatement la LCR
+    s&eacute;lectionn&eacute;e (si c'est possible).</dd>
+  </dl>
+
+  <p>La bo&icirc;te de dialogue <q>&validation.crlname.label;</q> affiche les
+  informations suivantes sur chaque LCR&nbsp;:</p>
+
+  <dl>
+    <dt>&crl.issuer.org.label;</dt>
+
+    <dd>Nom de l'organisation qui a &eacute;mis la LCR.</dd>
+
+    <dt>&crl.issuer.orgunit.label;</dt>
+
+    <dd>Nom de l'unit&eacute; d'organisation qui a &eacute;mis la LCR (un peu
+    comme une AC racine pour un certain type de certificats).</dd>
+
+    <dt>&validation.crllastupdate.label;&nbsp;:</dt>
+
+    <dd>Date de la derni&egrave;re mise &agrave; jour de la copie du navigateur
+    de cette LCR.</dd>
+
+    <dt>&validation.crlnextupdate.label;&nbsp;:</dt>
+
+    <dd>Prochaine date &agrave; laquelle une nouvelle mise &agrave; jour de
+    cette LCR sera publi&eacute;e par l'&eacute;metteur de la LCR.</dd>
+
+    <dt>&validation.crlautoupdateenabled.label;&nbsp;:</dt>
+
+    <dd>Indique si la mise &agrave; jour automatique a &eacute;t&eacute;
+    activ&eacute;e pour cette LCR. Pour voir les param&egrave;tres qui
+    contr&ocirc;lent cette mise &agrave; jour automatique, s&eacute;lectionnez
+    la LCR et cliquez sur <q>&edit.button;</q>.</dd>
+
+    <dt>&validation.crlautoupdatestatus.label;&nbsp;:</dt>
+
+    <dd>
+      <ul>
+        <li>Ce champ est vide si la mise &agrave; jour automatique n'est pas
+        activ&eacute;e ou, si elle est activ&eacute;e, lorsque la mise &agrave;
+        jour n'a pas encore eu lieu.</li>
+
+        <li>Ce champ indique le statut de la mise &agrave; jour&nbsp;:
+        <q>&Eacute;chec</q> si la mise &agrave; jour automatique a
+        &eacute;chou&eacute; et <q>OK</q> si elle a r&eacute;ussi.</li>
+      </ul>
+    </dd>
+  </dl>
+
+
+  <h2 id="crl_import_status">Statut de l'importation des LCR</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser la bo&icirc;te de dialogue du
+  <q>Importer une liste de certificats r&eacute;voqu&eacute;s</q>, qui
+  appara&icirc;t la premi&egrave;re fois que vous souhaitez importer une LCR ou
+  que vous avez r&eacute;ussi &agrave; la mettre &agrave; jour
+  manuellement.</p>
+
+  <p>Cette bo&icirc;te de dialogue vous indique&nbsp;:</p>
+
+  <ul>
+    <li>Si votre demande d'importation ou de mise &agrave; jour a
+    r&eacute;ussi.</li>
+
+    <li>Quelle organisation a &eacute;mis la LCR.</li>
+
+    <li>Quand la prochaine mise &agrave; jour de cette LCR sera
+    publi&eacute;e.</li>
+
+    <li>Si la mise &agrave; jour automatique est activ&eacute;e pour cette
+    LCR.</li>
+  </ul>
+
+  <p>Si la mise &agrave; jour automatique n'est pas activ&eacute;e, vous pouvez
+  le faire ici&nbsp;:</p>
+
+  <dl>
+    <dt>Oui&nbsp;:</dt>
+
+    <dd>Cliquez sur <q>Oui</q> pour activer la mise &agrave; jour automatique
+    de cette LCR. Si vous cliquez sur ce bouton, la bo&icirc;te de dialogue des
+    pr&eacute;f&eacute;rences de mise &agrave; jour automatique des LCR
+    appara&icirc;tra. La section suivante explique comment l'utiliser.</dd>
+
+    <dt>Non&nbsp;:</dt>
+
+    <dd>Cliquez sur <q>Non</q> si vous ne souhaitez pas activer la mise
+    &agrave; jour automatique.</dd>
+  </dl>
+
+
+  <h2 id="automatic_crl_update_preferences">Pr&eacute;f&eacute;rences de mise
+  &agrave; jour automatique des LCR</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser la bo&icirc;te de dialogue
+  <q>&validation.crl.autoupdate.title;</q>. Si elle n'est pas affich&eacute;e,
+  faites comme ceci&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>&security.label;</q>, cliquez sur <q>&pref.validation.title;</q>. Si aucune
+    sous-cat&eacute;gorie n'est visible, double-cliquez sur
+    <q>&security.label;</q> pour d&eacute;velopper la liste.</li>
+
+    <li>Cliquez sur <q>&validation.managecrls.button;</q>, puis choisissez la
+    LCR pour laquelle vous voulez voir ou changer les pr&eacute;f&eacute;rences
+    de mise &agrave; jour automatique.</li>
+
+    <li>Cliquez sur <q>&edit.button;</q>.</li>
+  </ol>
+
+  <p>La bo&icirc;te de dialogue affiche les informations suivantes&nbsp;:</p>
+
+  <dl>
+    <dt>&validation.crl.autoupdate.enable.label;&nbsp;:</dt>
+
+    <dd>
+      Choisissez cette option si vous souhaitez que la LCR
+      s&eacute;lectionn&eacute;e soit mise &agrave; jour automatiquement
+      conform&eacute;ment &agrave; la date que vous avez d&eacute;finie. Notez
+      que vous ne pouvez pas s&eacute;lectionner cette option si la LCR ne
+      donne pas une date de prochaine mise &agrave; jour.
+
+      <p>Si vous activez la mise &agrave; jour automatique, vous devez choisir
+      un des boutons suivants&nbsp;:</p>
+
+      <dl>
+        <dt>&validation.crl.autoupdate.time.label1; __
+        &validation.crl.autoupdate.time.label2;&nbsp;:</dt>
+
+        <dd>Choisissez cette option si vous souhaitez baser la fr&eacute;quence
+        de mise &agrave; jour sur la fr&eacute;quence &agrave; laquelle
+        l'organisation qui publie la LCR pr&eacute;voit de publier une nouvelle
+        LCR.</dd>
+
+        <dt>&validation.crl.autoupdate.freq.label1; __
+        &validation.crl.autoupdate.freq.label2;&nbsp;:</dt>
+
+        <dd>Choisissez cette option si vous souhaitez d&eacute;finir un
+        intervalle sp&eacute;cifique de mise &agrave; jour ind&eacute;pendant
+        de la prochaine mise &agrave; jour donn&eacute;e par la LCR.</dd>
+      </dl>
+    </dd>
+
+    <dt>&validation.crl.autoupdate.url.label;&nbsp;:</dt>
+
+    <dd>Indique l'URL d'importation de la LCR. Ce choix ne peut &ecirc;tre
+    modifi&eacute;. Pour choisir une URL diff&eacute;rente, supprimez la LCR et
+    r&eacute;importez-la depuis la nouvelle URL.</dd>
+
+    <dt>&crl.autoupdate.fail.cnt.label;&nbsp;:</dt>
+
+    <dd>
+      Indique combien de fois la demande de mise &agrave; jour pour cette LCR a
+      &eacute;chou&eacute; cons&eacute;cutivement, incluant l'&eacute;chec le
+      plus r&eacute;cent&nbsp;:
+
+      <ul>
+        <li>Si la demande la plus r&eacute;cente a r&eacute;ussi, on peut lire
+        <q>Rien</q>, m&ecirc;me s'il y a eu des &eacute;checs
+        pr&eacute;c&eacute;demment.</li>
+
+        <li>Si la demande la plus r&eacute;cente a &eacute;chou&eacute;, cela
+        indique le nombre d'&eacute;checs cons&eacute;cutifs et le message
+        d'erreur de l'&eacute;chec le plus r&eacute;cent.</li>
+      </ul>
+    </dd>
+  </dl>
+
+  <p>Cliquez sur <q>OK</q> pour confirmer vos choix.</p>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Derni&egrave;re traduction&nbsp;: 13 janvier 2005</em></p>
+
+    <p>Ce texte a &eacute;t&eacute; traduit et adapt&eacute; par une
+    &eacute;quipe internationale de b&eacute;n&eacute;voles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

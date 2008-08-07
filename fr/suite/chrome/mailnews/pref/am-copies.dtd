@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Paramètres Copies et Dossiers">
+<!ENTITY sendingPrefix.label "Lors de l'envoi de messages, automatiquement :">
+<!ENTITY fccMailFolder.label "Placer une copie dans :">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "Placer les réponses dans le dossier du message auquel il a été répondu">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Choisir un dossier…">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label            "Cci à ces adresses :">
+<!ENTITY bccAddress.accesskey        "C">
+<!ENTITY specialFolderTitle.label "Dossiers spéciaux">
+<!ENTITY draftMailFolder.label "Conserver les brouillons dans :">
+<!ENTITY templateMailFolder.label "Conserver les modèles dans :">
+<!ENTITY saveMessageDlg.label "Demander une confirmation quand les messages sont enregistrés">
+<!ENTITY saveMessageDlg.accesskey "m">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Dossier « Envoyés » de :">
+<!ENTITY sentFolderOn.accesskey "v">
+<!ENTITY sentInOtherFolder.label "Autre :">
+<!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Dossier « Brouillons » de :">
+<!ENTITY draftsFolderOn.accesskey "r">
+<!ENTITY draftInOtherFolder.label "Autre :">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Dossier « Modèles » de :">
+<!ENTITY templatesFolderOn.accesskey "l">
+<!ENTITY templateInOtherFolder.label "Autre :">
+<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY specialFoldersTitle.label "Brouillons et modèles">
+<!ENTITY keepDrafts.label "Conserver les brouillons dans :">
+<!ENTITY keepTempltes.label "Conserver les modèles dans :">

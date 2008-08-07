@@ -1,0 +1,147 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title "Carnet d'adresses">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newCard.label "Nouvelle fiche…">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newCard.accesskey "N">
+<!ENTITY newListCmd.label "Nouvelle liste…">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey "l">
+<!ENTITY newAddressBookCmd.label "Nouveau carnet d'adresses…">
+<!ENTITY newAddressBookCmd.accesskey "B">
+<!ENTITY renameAddressBookCmd.label "Renommer le carnet d'adresses…"> 
+<!ENTITY renameAddressBookCmd.accesskey "R">
+<!ENTITY newLDAPDirectoryCmd.label "Annuaire LDAP…">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey "A">
+<!ENTITY newIM.label "MI">
+<!ENTITY printCardViewCmd.label "Impression de la fiche…">
+<!ENTITY printCardViewCmd.accesskey "p">
+<!ENTITY printPreviewCardViewCmd.label "Aperçu de la fiche avant impression">
+<!ENTITY printPreviewCardViewCmd.accesskey "d">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
+<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printAddressBook.label "Imprimer le carnet d'adresses…">
+<!ENTITY printAddressBook.accesskey "a">
+<!ENTITY printPreviewAddressBook.label "Aperçu du carnet d'adresses avant impression">
+<!ENTITY printPreviewAddressBook.accesskey "u">
+<!ENTITY printSetupCmd.label "Mise en page…">
+<!ENTITY printSetupCmd.accesskey "M">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label "Supprimer le carnet d'adresses">
+<!ENTITY deleteCardCmd.label "Supprimer la fiche">
+<!ENTITY deleteCardsCmd.label "Supprimer les fiches sélectionnées">
+<!ENTITY deleteListCmd.label "Supprimer la liste">
+<!ENTITY deleteListsCmd.label "Supprimer les listes sélectionnées">
+<!ENTITY deleteItemsCmd.label "Supprimer les éléments sélectionnées">
+<!ENTITY swapFirstNameLastNameCmd.label "Intervertir nom/prénom">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "v">
+<!ENTITY propertiesCmd.label "Modifier…">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.key "i">
+
+<!-- View Menu -->
+<!ENTITY showAbToolbarCmd.label "Barre d'outils du carnet">
+<!ENTITY showAbToolbarCmd.accesskey "t">
+
+<!ENTITY showCardPane.label "Résumé de la fiche">
+<!ENTITY showCardPane.accesskey "c">
+  
+<!ENTITY menu_ShowNameAs.label "Afficher le nom comme">
+<!ENTITY menu_ShowNameAs.accesskey "n">
+<!ENTITY firstLastCmd.label "Prénom Nom">
+<!ENTITY firstLastCmd.accesskey "P">
+<!ENTITY lastFirstCmd.label "Nom Prénom">
+<!ENTITY lastFirstCmd.accesskey "N">
+<!ENTITY displayNameCmd.label "Nom à afficher">
+<!ENTITY displayNameCmd.accesskey "a">
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label "Importer…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Exporter…">
+<!ENTITY exportCmd.accesskey "E">
+<!ENTITY allowOnlineCheck.label "Vérifier la présence en ligne (AOL)">
+<!ENTITY allowOnlineCheck.accesskey "p">
+
+<!ENTITY stopSearchingCmd.label "Arrêter la recherche">
+
+<!-- Toolbar and Popup items -->
+<!ENTITY newcardButton.label "  Nouvelle fiche  ">
+<!ENTITY newcardButton.accesskey "c">
+<!ENTITY newlistButton.label "  Nouvelle liste  ">
+<!ENTITY newlistButton.accesskey "l">
+<!ENTITY editButton.label " Modifier ">
+<!ENTITY editButton.accesskey "M">
+<!ENTITY newmsgButton.label " Rédiger ">
+<!ENTITY newmsgButton.accesskey "d">
+<!ENTITY deleteButton.label " Supprimer ">
+<!ENTITY deleteButton.accesskey "r">
+<!ENTITY newimButton.label "Message instantané">
+<!ENTITY newimButton.accesskey "s">
+<!ENTITY stopButton.label " Arrêter ">
+<!ENTITY searchButton.label "Rechercher">
+<!ENTITY showNames.label "Afficher les noms contenant :">
+
+<!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip "Barre d'outils du carnet d'adresses">
+<!ENTITY newcardButton.tooltip "Créer une nouvelle fiche">
+<!ENTITY newlistButton.tooltip "Créer une nouvelle liste de diffusion">
+<!ENTITY editButton.tooltip "Modifier la fiche sélectionnée">
+<!ENTITY newmsgButton.tooltip "Rédiger un courrier à la sélection">
+<!ENTITY newIM.tooltip "Envoyer un message instantané ou initier un chat">
+<!ENTITY deleteButton.tooltip "Supprimer la fiche ou le carnet sélectionné">
+<!ENTITY stopButton.tooltip "Arrêter le transfert en cours">
+<!ENTITY searchButton.tooltip "Rechercher dans le carnet d'adresses sélectionné">
+<!ENTITY throbber.tooltip "Aller sur la page de &vendorShortName;">
+<!ENTITY clearButton.tooltip "Effacer le critère de recherche et montrer toutes les entrées">
+<!ENTITY advancedButton.tooltip "Recherche avancée d'adresses">
+
+<!-- Status Bar -->  
+<!ENTITY statusText.label "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI "true">

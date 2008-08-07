@@ -1,0 +1,30 @@
+<!ENTITY safeb.palm.warning.title "Suspicion de site Web contrefait">
+
+<!ENTITY safeb.palm.message.p1 "Cette page a été signalée comme étant une contrefaçon destinée à tromper les utilisateurs afin qu'ils communiquent leurs informations personnelles ou financières. La saisie d'informations personnelles sur cette page peut conduire à un vol d'identité ou à une autre fraude. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "En savoir plus &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "En savoir plus &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Ces types de sites Web sont utilisés dans des arnaques connues sous le terme d'attaques par phishing (ou hameçonnage), dans lesquelles des pages Web ou des courriels frauduleux sont utilisés pour imiter des sources en lesquelles vous pouvez avoir confiance. Vous pouvez en savoir plus sur ">
+
+<!ENTITY safeb.palm.message.p2.linkText "la façon dont &brandShortName; vous protège">
+
+<!ENTITY safeb.palm.message.p2.end " des attaques par phishing.">
+
+<!ENTITY safeb.palm.accept.label "Sortir d'ici !">
+<!ENTITY safeb.palm.accept.statustext "Se rendre sur ma page d'accueil">
+<!ENTITY safeb.palm.decline.label "Ignorer cet avertissement">
+<!ENTITY safeb.palm.decline.statustext "Fermer l'avertissement" >
+<!ENTITY safeb.palm.notforgery.label2 "Ceci n'est pas une contrefaçon de site Web…">
+<!ENTITY safeb.palm.report.label "Pourquoi ce site a-t-il été bloqué ?">
+
+<!ENTITY safeb.urlbaricon.tooltip "Cette page pourrait être dangereuse ; cliquer ici pour des détails.">
+
+<!ENTITY safeb.blocked.malware.title "Site malveillant !">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "Le site Web sur <span id='malware_sitename'/> a été signalé comme étant un site malveillant et a été bloqué sur la base de vos préférences de sécurité.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Les sites malveillants essaient d'installer des programmes qui volent des informations personnelles, qui utilisent votre ordinateur pour en attaquer d'autres ou qui endommagent votre système.</p><p>Certains sites distribuent intentionnellement des logiciels malfaisants, mais beaucoup sont compromis sans la permission de leurs propriétaires ou sans qu'ils en aient connaissance.</p>">
+
+<!ENTITY safeb.blocked.phishing.title "Site contrefait !">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "Le site Web sur <span id='phishing_sitename'/> a été signalé comme étant une contrefaçon et a été bloqué sur la base de vos préférences de sécurité.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Les sites Web contrefaits sont conçus pour vous amener à révéler des informations personnelles ou financières en imitant des sites en qui vous pouvez avoir confiance.</p><p>Saisir des informations sur cette page Web peut résulter en une usurpation d'identité ou d'autres fraudes.</p>">

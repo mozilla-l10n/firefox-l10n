@@ -1,0 +1,70 @@
+<!ENTITY  updateWizard.title              "Mise à jour du logiciel">
+
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "47em">
+
+<!ENTITY  checking.title                  "Recherche de mises à jour">
+<!ENTITY  checking.label                  "&brandShortName; vérifie l'existence de mises à jour…">
+
+<!ENTITY  cancel.label                    "Annuler">
+<!ENTITY  cancel.accesskey                "A">
+
+<!ENTITY  noupdatesfound.title            "Aucune mise à jour trouvée">
+<!ENTITY  noupdatesfound.intro            "Aucune mise à jour n'est disponible. &brandShortName; peut vérifier périodiquement si de nouvelles mises à jour sont disponibles.">
+
+<!ENTITY  incompatibleChecking.label      "Vérification pour voir si cette mise à jour causera des problèmes aux extensions et thèmes installés…">
+
+<!ENTITY  clickHere.label                 "Plus d'informations à propos de cette mise à jour">
+
+<!ENTITY  incompatible.warning            "Cette mise à jour provoquera l'arrêt du fonctionnement de certaines extensions et/ou certains thèmes tant qu'ils ne sont pas mis à jour.">
+<!ENTITY  listIncompatible.label          "Afficher la liste">
+<!ENTITY  listIncompatible.accesskey      "l">
+
+<!ENTITY  upgrade.evangelism              "Il vous est vivement recommandé de mettre à jour &brandShortName; le plus rapidement possible.">
+
+<!ENTITY  license.instructions            "Si vous êtes d'accord avec les termes de cet accord, cliquez sur Je suis d'accord ci-dessous pour poursuivre l'installation de la mise à jour.">
+
+<!ENTITY  license.titleText               "Accord de licence logicielle">
+<!ENTITY  license.introText               "Termes et conditions d'utilisation de ce logiciel.">
+<!ENTITY  license.instructionText         "Veuillez lire l'accord de licence suivant. Utilisez la barre de défilement pour voir le reste de cet accord.">
+<!ENTITY  license.accept                  "J'accepte les termes de l'accord de licence">
+<!ENTITY  license.accept.accesskey        "J">
+<!ENTITY  license.decline                 "Je n'accepte PAS les termes de l'accord de licence">
+<!ENTITY  license.decline.accesskey       "P">
+
+<!ENTITY  downloading.title               "Téléchargement de mise à jour">
+<!ENTITY  downloading.intro               "Téléchargement de la mise à jour…">
+<!ENTITY  connecting.label                "Connexion au serveur de mise à jour…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; n'a pas pu vérifier l'intégrité de la mise à jour partielle téléchargée, une mise à jour intégrale est en cours de téléchargement.">
+
+<!ENTITY  details.link                    "Détails">
+<!ENTITY  pause.label                     "Pause">
+<!ENTITY  pause.accesskey                 "P">
+<!ENTITY  close.label                     "Fermer">
+<!ENTITY  close.accesskey                 "F">
+
+<!ENTITY  error.label                     "Des problèmes ont été rencontrés lors de la vérification, du téléchargement ou de l'installation de cette mise à jour. &brandShortName; n'a pas pu être mis à jour suite à :">
+
+<!ENTITY  errorManual.label               "Vous pouvez mettre &brandShortName; à jour manuellement en suivant ce lien et en téléchargeant la dernière version :">
+
+<!ENTITY  errorpatching.title             "La mise à jour a échoué">
+<!ENTITY  errorpatching.intro             "La mise à jour partielle n'a pas pu être appliquée. &brandShortName; va réessayer en téléchargeant une mise à jour complète.">
+
+<!ENTITY  finished.title                  "Mise à jour téléchargée">
+<!ENTITY  finished.text                   "La mise à jour a été correctement téléchargée et vérifiée, et sera installée au prochain démarrage de &brandShortName;.">
+
+<!ENTITY  finishedBackground.title        "Mise à jour prête à être installée">
+<!ENTITY  finishedBackground.text         "&brandShortName; a terminé de télécharger une mise à jour importante.Cliquez sur le lien ci-dessous pour plus de détails.">
+<!ENTITY  finishedBackground.name         "Mise à jour :">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Cliquez sur « Redémarrer &brandShortName; » maintenant pour installer la mise à jour immédiatement.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Cliquez sur « Pas maintenant » pour fermer cette fenêtre de message et continuer votre travail. La mise à jour sera installée au prochain démarrage de &brandShortName;.">
+
+<!ENTITY  installed.title                 "Mise à jour installée">
+<!ENTITY  installed.intro                 "La mise à jour a été installée avec succès.">
+<!ENTITY  whatsnew.label                  "En savoir plus sur les nouveautés‪…">
+
+<!ENTITY  update.details.label            "Détails">
+<!ENTITY  update.installedOn.label        "Installé(e) le :">
+<!ENTITY  update.status.label             "État :">

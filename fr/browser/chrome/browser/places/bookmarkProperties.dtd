@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Nom :">
+<!ENTITY bookmarks.name.accesskey "N">
+<!ENTITY bookmarks.location.label "Emplacement :">
+<!ENTITY bookmarks.location.accesskey "E">
+<!ENTITY bookmarks.keyword.label "Mot-clé :">
+<!ENTITY bookmarks.keyword.accesskey "M">
+<!ENTITY bookmarks.description.label "Description :">
+<!ENTITY bookmarks.description.accesskey "D">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Titres dynamiques">
+<!ENTITY bookmarks.createIn.label "Créer dans :">
+<!ENTITY bookmarks.createIn.accesskey "C">
+<!ENTITY bookmarks.feed_location.label "Emplacement du flux :">
+<!ENTITY bookmarks.feed_location.accesskey "x">
+<!ENTITY bookmarks.site_location.label "Emplacement du site :">
+<!ENTITY bookmarks.site_location.accesskey "s">
+<!ENTITY bookmarks.loadInSidebar.label "Charger ce marque-page dans le panneau latéral">
+<!ENTITY bookmarks.loadInSidebar.accesskey "h">
+<!ENTITY bookmarks.expanderDown.tooltip "Développer tous les dossiers de marque-pages">
+<!ENTITY bookmarks.expanderUp.tooltip "Réduire tous les dossiers de marque-pages">
+<!ENTITY bookmarks.newFolderButton.label "Nouveau dossier">
+<!ENTITY bookmarks.newFolderButton.accesskey "v">

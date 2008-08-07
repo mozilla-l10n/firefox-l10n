@@ -1,0 +1,30 @@
+<!ENTITY credit.title     "Générique &brandFullName;">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.leads     "Chefs de projet">
+<!ENTITY credit.core      "Noyau dur développement">
+<!ENTITY credit.gecko     "Moteur de rendu Gecko">
+<!ENTITY credit.thanks    "Remerciements spéciaux à">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Localisation française</h3><ul><li>L'équipe French Mozilla</li><li>Jérôme Schell</li><li>Philippe Dessante</li><li>Benoît Leseul</li><li>Cédric Corazza</li></ul>">
+
+<!ENTITY credit.visuals     "Coordinateur de la conception visuelle">
+<!ENTITY credit.theme       "Conception Thème">
+<!ENTITY credit.brand       "Identité de marque">
+<!ENTITY credit.web         "Conception Web">
+<!ENTITY credit.update      "Mozilla Update">
+<!ENTITY credit.qalead      "Responsable assurance qualité">
+<!ENTITY credit.qa          "Assurance qualité">
+<!ENTITY credit.build       "Compilation et publication">
+<!ENTITY credit.infra       "Support de l'infrastructure">
+<!ENTITY credit.support     "Ressources du support">
+<!ENTITY credit.manage      "Gestion de projet">
+<!ENTITY credit.marketleads "Responsable marketing">
+<!ENTITY credit.market      "Marketing">
+<!ENTITY credit.creators    "Créé par">
+<!ENTITY credit.memory      "À la mémoire de">
+<!ENTITY credit.poweredByGecko "Propulsé par Gecko&trade;">

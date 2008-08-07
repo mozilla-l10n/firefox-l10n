@@ -1,0 +1,58 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "Signaler un site non fonctionnel">
+
+<!ENTITY privacyNotice.label                        "Politique de confidentialité">
+<!ENTITY reportWizardPrivacy.description            "Cet outil vous permet de signaler à l'équipe « Évangélisme » les sites Web qui ne fonctionnent pas correctement dans &brandShortName;, ou qui lui refusent l'accès. Cela peut être une manière pour vous de nous aider à assurer la meilleure expérience possible à tous les utilisateurs de &brandShortName;. Veuillez prendre quelques instants pour lire ces quelques lignes qui vous apprendront comment nous utiliserons les informations collectées si vous choisissez de participer.">
+<!ENTITY reportWizardMustAgree.description          "Pour continuer, vous devez approuver la politique de confidentialité ci-dessus.">
+
+<!ENTITY dontShowPrivacyStatement.label             "J'ai lu et j'accepte la politique de confidentialité exposée ci-dessus">
+<!ENTITY dontShowPrivacyStatement.accesskey         "J">
+
+<!ENTITY reportForm.label                           "Rédaction du rapport">
+
+<!ENTITY reportForm.description                     "Donnez nous quelques informations sur le problème rencontré :">
+<!ENTITY reportForm.url.title                       "Adresse URL du site :">
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!ENTITY reportForm.behind_login.title              "Le site Web est protégé par un mot de passe"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "p">
+
+<!ENTITY reportForm.problem_type.title              "Type de problème :">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "Faites votre choix…">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server first! -->
+<!ENTITY reportForm.problem_type.item1.title        "navigateur non supporté">
+<!ENTITY reportForm.problem_type.item2.title        "impossible de s'identifier">
+<!ENTITY reportForm.problem_type.item3.title        "un plugin n'apparaît pas">
+<!ENTITY reportForm.problem_type.item4.title        "autres éléments manquants">
+<!ENTITY reportForm.problem_type.item5.title        "comportement incorrect">
+<!ENTITY reportForm.problem_type.item6.title        "affichage incorrect">
+<!ENTITY reportForm.problem_type.item7.title        "autres problèmes">
+<!ENTITY reportForm.problem_type.item8.title        "accès handicapé">
+<!ENTITY reportForm.problem_type.item9.title        "l'impression est incorrecte">
+
+<!ENTITY reportForm.describe.title                  "Décrivez le problème :">
+<!ENTITY reportForm.describe.accesskey              "D">
+<!ENTITY reportForm.platform.title                  "Plateforme :">
+<!ENTITY reportForm.product.title                   "Produit :">
+<!ENTITY reportForm.gecko.title                     "Gecko :">
+<!ENTITY reportForm.useragent.title                 "Agent utilisateur :">
+<!ENTITY reportForm.language.title                  "Langue :">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Adresse électronique (optionnel) :">
+<!ENTITY reportForm.email.accesskey                 "A">
+
+<!ENTITY reportForm.privacyPolicy.title             "Politique de vie privée">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Voir la politique de confidentialité">
+
+<!ENTITY reportResults.showDetail.title             "Afficher les détails">
+<!ENTITY reportResults.showDetail.accesskey         "f">
+
+
+<!ENTITY sendReport.label                           "Envoi du rapport">
+<!ENTITY sendReport.description                     "Envoi du rapport au serveur…">
+
+<!ENTITY finish.label                               "Rapport envoyé">

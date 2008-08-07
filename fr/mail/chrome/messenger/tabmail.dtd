@@ -1,0 +1,12 @@
+<!ENTITY  untitledTab              "(Sans titre)">
+<!ENTITY  newTab.label             "Nouvel onglet">
+<!ENTITY  newTab.accesskey         "N">
+<!ENTITY  closeTab.label           "Fermer l'onglet">
+<!ENTITY  closeTab.accesskey       "F">
+<!ENTITY  closeOtherTabs.accesskey "a">
+<!ENTITY  closeOtherTabs.label     "Fermer les autres onglets">
+<!ENTITY  reloadAllTabs.label      "Actualiser tous les onglets">
+<!ENTITY  reloadAllTabs.accesskey  "c">
+<!ENTITY  reloadTab.label          "Actualiser l'onglet">
+<!ENTITY  reloadTab.accesskey      "r">
+<!ENTITY  listAllTabs.label        "Lister tous les onglets">

@@ -1,0 +1,29 @@
+<!-- extracted from content/pref-cache.xul -->
+
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+<!ENTITY pref.cache.title "Cache">
+<!ENTITY pref.cache.caption "Définition des options du cache">
+<!ENTITY cachePara "Le cache garde sur votre disque dur une copie des pages Web fréquemment visitées (en cliquant sur « Recharger », la page affichée sera toujours la dernière version).">
+<!ENTITY diskCache.label "Taille :">
+<!ENTITY diskCache.accesskey "T">
+<!ENTITY mbytes "Mo">
+<!ENTITY diskCacheFolder.label "Répertoire du cache :">
+<!ENTITY clearDiskCache.label "Vider le cache">
+<!ENTITY clearDiskCache.accesskey "l">
+<!ENTITY chooseDiskCacheFolder.label "Choisir un répertoire…">
+<!ENTITY chooseDiskCacheFolder.accesskey "h">
+<!ENTITY diskCacheFolderExplanation "Les fichiers du cache seront stockés dans un sous-répertoire nommé « Cache » dans le répertoire que vous spécifierez. Redémarrez &brandShortName; pour que les changements soient pris en compte.">
+<!ENTITY docCache "Comparer la page dans le cache avec la page sur le réseau :">
+<!ENTITY oncePsessionRadio.label "Une fois par session">
+<!ENTITY oncePsessionRadio.accesskey "o">
+<!ENTITY everyTimeRadio.label "À chaque fois que je consulte la page">
+<!ENTITY everyTimeRadio.accesskey "e">
+<!ENTITY neverRadio.label "Jamais">
+<!ENTITY neverRadio.accesskey "J">
+<!ENTITY autoRadio.label "Quand la page est obsolète">
+<!ENTITY autoRadio.accesskey "Q">
+
+<!ENTITY prefetchTitle.label "Préchargement des liens">
+<!ENTITY enablePrefetch.label "Précharger les pages Web pendant les pauses du navigateur afin que les liens des pages utilisant cette fonction soient affichés plus rapidement.">
+<!ENTITY enablePrefetch.accesskey "P">
+<!-- <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->

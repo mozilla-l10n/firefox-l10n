@@ -1,0 +1,33 @@
+<!ENTITY tab.cookiesonsystem.label "Cookies stockés">
+<!ENTITY tab.bannedservers.label "Sites avec cookies">
+<!ENTITY div.bannedservers.label "Gérer les sites autorisés à stocker des cookies sur votre ordinateur.">
+<!ENTITY div.cookiesonsystem.label "Afficher et supprimer les cookies stockés sur votre ordinateur.">
+<!ENTITY treehead.cookiename.label "Nom de cookie">
+<!ENTITY treehead.cookiedomain.label "Site">
+<!ENTITY treehead.cookieexpires.label "Expire le">
+<!ENTITY treehead.infoselected.label "Informations sur le cookie sélectionné">
+<!ENTITY button.removecookie.label "Supprimer le cookie">
+<!ENTITY button.removeallcookies.label "Supprimer tous les cookies">
+
+<!ENTITY props.name.label "Nom :">
+<!ENTITY props.value.label "Contenu :">
+<!ENTITY props.domain.label "Hôte :">
+<!ENTITY props.path.label "Chemin :">
+<!ENTITY props.secure.label "Envoyé pour :">
+<!ENTITY props.expires.label "Expire le :">
+
+<!ENTITY treehead.sitename.label "Site">
+<!ENTITY treehead.status.label "État">
+<!ENTITY windowtitle.label "Gestionnaire de cookies">
+<!ENTITY buttonaccept.label "Fermer">
+
+<!ENTITY blockSite.label "Interdire">
+<!ENTITY allowSite.label "Autoriser">
+<!ENTITY allowSiteSession.label "Session">
+<!ENTITY removepermission.label "Supprimer le site">
+<!ENTITY removeallpermissions.label "Supprimer tous les sites">
+
+<!ENTITY canSet.label "Autoriser les cookies">
+<!ENTITY cannotSet.label "Interdire les cookies">
+
+<!ENTITY checkbox.label "Ne pas autoriser les sites dont les cookies ont été supprimés à en définir d'autres">

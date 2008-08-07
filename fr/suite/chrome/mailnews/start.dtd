@@ -1,0 +1,59 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla application suite mailnews start page.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser.
+   - Portions created by the Initial Developer are Copyright (C) 2004
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY startpage.title "Bienvenue dans &brandShortName; Courrier &amp; Groupes">
+<!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
+<!ENTITY headline.label
+'Bienvenue dans <a id="vendorURL" href="">&brandShortName;</a> Courrier &amp; Groupes&nbsp;!'>
+<!ENTITY description.label "&brandShortName; Courrier &amp; Groupes est un client de messagerie puissant et ouvert, offrant une détection avancée du courrier indésirable et plusieurs autres fonctions utiles.">
+<!ENTITY features.title "Fonctions">
+<!ENTITY feat_multiacc.label "Support de comptes multiples">
+<!ENTITY feat_junk.label "Détection des messages indésirables">
+<!ENTITY feat_filters.label "Filtres des messages">
+<!ENTITY feat_htmlmsg.label "Gestion des messages au format HTML">
+<!ENTITY feat_abook.label "Carnet d'adresses">
+<!ENTITY feat_labels.label "Personnalisation des étiquettes des messages et de l'affichage">
+<!ENTITY feat_integration.label "Étroite intégration à la suite applicative &brandShortName;">
+<!ENTITY dict.title "Dictionnaires">
+<!ENTITY dict_intro.label "Les dictionnaires sont utilisés pour vérifier l'orthographe de vos messages.">
+<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
+<!ENTITY dict_info.label 'D&apos;autres dictionnaires peuvent &ecirc;tre install&eacute;s depuis la section
+<a id="dictURL" href="">Dictionnaires</a> sur <a href="http://addons.mozilla.org/">&brandShortName; Add-ons</a>.'>
+<!ENTITY info.title "Plus d&apos;informations">
+<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Nous</a> acceptons volontiers les rapports de bogues ainsi que les demandes
+d&apos;améliorations, mais veuillez d&apos;abord lire les <a id="releaseNotesURL" href="">notes de version</a> et faire une recherche dans <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

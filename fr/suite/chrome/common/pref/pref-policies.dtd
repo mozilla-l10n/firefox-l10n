@@ -1,0 +1,18 @@
+
+<!ENTITY  pref.policies.title "Politiques de sécurité">
+
+<!ENTITY  zoneIntro.label "&brandShortName; permet de créer des méthodes qui déterminent les droits qu'ont certains sites Web pour accéder à diverses fonctionnalités, dont l'utilisation des scripts et de Java.">
+
+<!ENTITY  policies.label "Méthodes :">
+<!ENTITY  default.label "Méthode par défaut">
+<!ENTITY  allWebsites.label "Tous les sites Web">
+<!ENTITY  trusted.label "Sites honnêtes">
+<!ENTITY  annoyances.label "Inconvénients courants">
+<!ENTITY  restricted.label "Sites à surveiller">
+
+<!ENTITY  addSite.label "Ajouter un site…">
+<!ENTITY  addSite.accesskey "j">
+<!ENTITY  settings.label "Paramètres pour ">
+<!ENTITY  settings.accesskey "P">
+
+<!ENTITY  description.label "Description de la méthode :">

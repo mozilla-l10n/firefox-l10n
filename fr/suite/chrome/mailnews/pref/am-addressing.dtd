@@ -1,0 +1,34 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Rédaction et adressage">
+<!ENTITY addressingGroupTitle.label "Adressage">
+<!ENTITY autocompleteToMyDomain.label "Ajouter automatiquement mon domaine aux adresses">
+<!ENTITY autocompleteToMyDomain.accesskey "u">
+<!ENTITY addressingText.label "Quand on cherche à adresser :">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "Utiliser mes préférences globales de serveur LDAP pour ce compte">
+<!ENTITY useGlobal.accesskey "l">
+<!ENTITY editDirectories.label "Modifier…">
+<!ENTITY editDirectories.accesskey "M">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Utiliser un autre serveur LDAP :">
+<!ENTITY directories.accesskey "a">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Rédaction des messages">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Rédiger les messages en HTML">
+<!ENTITY useHtml.accesskey "H">
+<!ENTITY autoQuote.label "Insérer le message original dans la réponse">
+<!ENTITY autoQuote.accesskey "m">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "Lors de la rédaction">
+<!ENTITY then.accesskey "t">
+<!ENTITY aboveQuote.label "la réponse commence avant le texte cité">
+<!ENTITY belowQuote.label "la réponse commence après le texte cité">
+<!ENTITY selectAndQuote.label "le texte cité est sélectionné">
+<!ENTITY place.label "et ma signature est">
+<!ENTITY place.accesskey "s">
+<!ENTITY belowText.label "sous le texte cité (recommandé)">
+<!ENTITY aboveText.label "sous ma réponse (au-dessus du texte cité)">

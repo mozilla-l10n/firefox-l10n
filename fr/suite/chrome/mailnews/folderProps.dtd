@@ -1,0 +1,104 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label "Propriétés">
+
+<!ENTITY generalInfo.label "Informations générales">
+<!ENTITY folderCharsetTab.label "Encodage des caractères par défaut :">
+<!ENTITY folderCharsetTab.accesskey "E">
+<!ENTITY folderCharsetOverride.label "Appliquer par défaut à tous les messages du dossier (ignorer l'auto-détection ainsi que l'encodage de car. spécifié par l'en-tête MIME)">
+<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderRebuildSummaryFile.label "Reconstruire l'index">
+<!ENTITY folderRebuildSummaryFile.accesskey "R">
+<!ENTITY folderRebuildSummaryFileTip.label "Reconstruit le résumé du fichier">
+
+<!ENTITY retention.label "Politique de conservation">
+<!ENTITY retentionUseDefault.label "Utiliser les paramètres par défaut du serveur">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY days.label "jours">
+<!ENTITY daysOld.label "derniers jours">
+<!ENTITY message.label "messages">
+<!ENTITY retentionNotDownloadRead.label "Messages lus">
+<!ENTITY retentionNotDownloadRead.accesskey "s">
+<!ENTITY retentionDownloadMsg.label "Messages de plus de">
+<!ENTITY retentionDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Conserver :">
+<!ENTITY retentionKeepMsg.label "Messages reçus ces ">
+<!ENTITY retentionKeepMsg.accesskey "M">
+<!ENTITY retentionKeepAll.label "Tous les messages">
+<!ENTITY retentionKeepAll.accesskey "T">
+<!ENTITY retentionKeepNew.label "Les plus récents">
+<!ENTITY retentionKeepNew.accesskey "r">
+<!ENTITY retentionKeepUnread.label "Uniquement les messages non-lus">
+<!ENTITY retentionKeepUnread.accesskey "U">
+
+<!ENTITY folderOfflineTab.label "Hors ligne">
+<!ENTITY folderCheckForNewMessages.label "Surveiller les nouveaux messages dans ce dossier">
+<!ENTITY folderCheckForNewMessages.accesskey "S">
+
+<!ENTITY offlineFolder.check.label "Sélectionner ce dossier pour une utilisation hors ligne">
+<!ENTITY offlineFolder.check.accesskey "l">
+<!ENTITY offlineFolder.button.label "Télécharger maintenant">
+<!ENTITY offlineFolder.button.accesskey "m">
+
+<!ENTITY selectofflineNewsgroup.check.label     "Sélectionner ce groupe pour une utilisation hors ligne">
+<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Utiliser les paramètres par défaut du compte ">
+<!ENTITY offlineNewsgroup.button.label "Télécharger maintenant">
+<!ENTITY offlineNewsgroup.button.accesskey "m">
+
+<!ENTITY folderProps.information.label "Information :">
+<!ENTITY folderProps.name.label "Nom :">
+<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.location.label "Emplacement :">
+<!ENTITY folderProps.location.accesskey "E">
+
+<!ENTITY folderSharingTab.label "Partage">
+<!ENTITY privilegesDesc.label "Partage de ce dossier et d'autres avec des utilisateurs du réseau et affichage et réglage des privilèges">
+<!ENTITY privileges.button.label "Privilèges…">
+<!ENTITY privileges.button.accesskey "P">
+<!ENTITY permissionsDesc.label "Vous avez les permissions suivantes :">
+<!ENTITY folderType.label "Type de dossier :">
+
+<!ENTITY folderQuotaTab.label "Quota">
+<!ENTITY folderQuotaRoot.label "Racine des quotas :">
+<!ENTITY folderQuotaUsage.label "Utilisation :">
+<!ENTITY folderQuotaStatus.label "Statut :">
+

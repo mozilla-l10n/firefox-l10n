@@ -1,0 +1,41 @@
+<!ENTITY dialog.title                 "Options d'expédition">
+<!ENTITY sendMail.title               "Format de texte">
+<!ENTITY sendMaildesc.label           "Lors de l'expédition d'un courrier en HTML à un destinataire ne figurant pas dans la liste de ceux pouvant recevoir du HTML :">
+<!ENTITY askMe.label                  "Me demander de faire un choix">
+<!ENTITY askMe.accesskey              "a">
+<!ENTITY convertPlain.label           "Convertir au format texte simple">
+<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY sendHTML.label               "Envoyer au format HTML tout de même">
+<!ENTITY sendHTML.accesskey           "a">
+<!ENTITY sendBoth.label               "Envoyer aux formats texte et HTML">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY receiveHTML.label            "Si vous savez qu'un destinataire peut recevoir du courrier en HTML, alors ne cochez pas la case « Envoyer en texte simple (pas de HTML) » dans la fiche correspondante du carnet d'adresses.">
+<!ENTITY override.label               "Nota : utilisez le carnet d'adresses pour préciser le format de texte préféré pour chaque destinataire.">
+
+<!ENTITY domaindesc.label             "Lors de l'envoi d'un message vers une adresse appartenant à un domaine listé ci-dessous, &brandShortName; envoie automatiquement le message dans le bon format.">
+<!ENTITY HTMLTab.label                "Domaines HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Domaines texte simple">
+<!ENTITY PlainTextTab.accesskey       "p">
+<!ENTITY AddHtmlDomain.label          "Ajouter…">
+<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddPlainText.label           "Ajouter…">
+<!ENTITY AddPlainText.accesskey       "j">
+<!ENTITY DeleteHtmlDomain.label       "Retirer">
+<!ENTITY DeleteHtmlDomain.accesskey   "r">
+<!ENTITY DeletePlainText.label        "Retirer">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!ENTITY add.htmltitle                "Ajouter un nom de domaine HTML">
+<!ENTITY add.htmldomain               "Nom de domaine HTML :">
+<!ENTITY add.htmldomain.accesskey     "d">
+<!ENTITY add.plaintexttitle           "Ajouter un nom de domaine texte simple">
+<!ENTITY add.plaintextdomain          "Nom de domaine texte simple :">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Erreur de nom de domaine">
+<!ENTITY duplicationError.label       "Le nom de domaine @string@ existe déjà dans cette liste.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Un nom de domaine ne peut pas apparaître à la fois dans les domaines HTML et dans les domaines texte simple. Le nom de domaine @string@ existe déjà.">

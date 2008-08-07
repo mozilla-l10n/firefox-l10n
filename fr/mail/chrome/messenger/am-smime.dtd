@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Sécurité">
+<!ENTITY securityHeading.label "Pour envoyer et recevoir des messages signés ou chiffrés, il est nécessaire de spécifier à la fois un certificat de signature numérique et un certificat de chiffrement.">
+<!ENTITY encryptionGroupTitle.label "Chiffrement">
+<!ENTITY encryptionChoiceLabel.label "Utiliser le chiffrement pour l'envoi des messages :">
+<!ENTITY neverEncrypt.label "Jamais">
+<!ENTITY alwaysEncryptMessage.label "Toujours chiffrer les messages">
+<!ENTITY encryptionCert.message "Certificat personnel pour chiffrer et déchiffrer les messages envoyés :">
+<!ENTITY encryptionCert.notselected "Pas de certificat">
+<!ENTITY certificate.button "Sélectionner un certificat">
+<!ENTITY certificate_clear.button "Effacer">
+<!ENTITY signingGroupTitle.label "Signature">
+<!ENTITY signMessage.label "Signer les messages numériquement">
+<!ENTITY signingCert.message "Certificat personnel pour signer numériquement les messages envoyés :">
+<!ENTITY signingCert.notselected "Pas de certificat">
+
+<!ENTITY certificates.label     "Certificats">
+<!ENTITY managecerts.label      "Afficher les certificats">
+<!ENTITY managecerts.accesskey  "A">
+<!ENTITY managedevices.label    "Périphériques de sécurité">
+<!ENTITY managedevices.accesskey "P">

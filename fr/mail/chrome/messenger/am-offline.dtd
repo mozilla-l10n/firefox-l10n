@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Pour économiser de l'espace disque, ne pas télécharger :">
+<!ENTITY doNotDownload.label "Pour économiser de l'espace disque, ne pas télécharger pour utilisation hors ligne :">
+<!ENTITY offlineNewFolder.label "Lors de la création de dossiers, les sélectionner pour utilisation hors ligne">
+<!ENTITY offlineNewFolder.accesskey "h">
+<!ENTITY offlineNotDownload.label "Les messages dont la taille dépasse">
+<!ENTITY offlineNotDownload.accesskey "t">
+<!ENTITY kb.label "ko">
+<!ENTITY days.label "jours">
+<!ENTITY daysOld.label "jours">
+<!ENTITY message.label "plus récents">
+<!ENTITY nntpNotDownloadRead.label "Les messages lus">
+<!ENTITY nntpNotDownloadRead.accesskey "L">
+<!ENTITY nntpDownloadMsg.label "Les messages agés de plus de">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement">
+<!ENTITY retentionKeepMsg.label "Supprimer les messages agés de plus de">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Ne supprimer aucun message">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepNew.label "Supprimer tous les messages sauf les">
+<!ENTITY retentionKeepNew.accesskey "s">
+<!ENTITY retentionKeepUnread.label "Toujours supprimer les messages lus">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "Uniquement les corps de messages agés de moins de">
+<!ENTITY nntpRemoveBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Sélection groupes pour utilisation hors ligne…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineSelectImap.label "Sélection dossiers pour utilisation hors ligne…">
+<!ENTITY offlineSelectImap.accesskey "S">
+<!ENTITY offlineDesc.label "Il est possible de télécharger les messages localement afin de les rendre disponibles hors ligne.">
+<!ENTITY makeInboxMsgsAvailable.label "Rendre les messages de Courrier entrant disponibles hors ligne.">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Hors ligne">
+<!ENTITY diskspaceGroupTitle.label "Espace disque ">

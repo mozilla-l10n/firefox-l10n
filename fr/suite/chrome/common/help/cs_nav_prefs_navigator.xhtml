@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % local-panelsDTD SYSTEM "chrome://communicator/locale/sidebar/local-panels.dtd" >
+  %local-panelsDTD;
+  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
+  %preftreeDTD;
+  <!ENTITY % pref-navigatorDTD SYSTEM "chrome://communicator/locale/pref/pref-navigator.dtd" >
+  %pref-navigatorDTD;
+  <!ENTITY % pref-historyDTD SYSTEM "chrome://communicator/locale/pref/pref-history.dtd" >
+  %pref-historyDTD;
+  <!ENTITY % pref-applicationsDTD SYSTEM "chrome://communicator/locale/pref/pref-applications.dtd" >
+  %pref-applicationsDTD;
+  <!ENTITY % pref-applications-editDTD SYSTEM "chrome://communicator/locale/pref/pref-applications-edit.dtd" >
+  %pref-applications-editDTD;
+  <!ENTITY % pref-languagesDTD SYSTEM "chrome://communicator/locale/pref/pref-languages.dtd" >
+  %pref-languagesDTD;
+  <!ENTITY % pref-smart_browsingDTD SYSTEM "chrome://communicator/locale/pref/pref-smart_browsing.dtd" >
+  %pref-smart_browsingDTD;
+  <!ENTITY % pref-searchDTD SYSTEM "chrome://communicator/locale/pref/pref-search.dtd" >
+  %pref-searchDTD;
+  <!ENTITY % pref-downloadDTD SYSTEM "chrome://communicator/locale/pref/pref-download.dtd" >
+  %pref-downloadDTD;
+  <!ENTITY % pref-tabsDTD SYSTEM "chrome://communicator/locale/pref/pref-tabs.dtd" >
+  %pref-tabsDTD;
+  <!ENTITY % platformPrefOverlayDTD SYSTEM "chrome://communicator-platform/locale/platformPrefOverlay.dtd" >
+  %platformPrefOverlayDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>Aide des pr&eacute;f&eacute;rences de navigation de &brandShortName;</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!-- <link rel="stylesheet" href="content_style.css" type="text/css" /> -->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1 id="navigator_preferences">Pr&eacute;f&eacute;rences du navigateur</h1>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau principal des
+  pr&eacute;f&eacute;rences du navigateur. Si vous n'&ecirc;tes pas
+  d&eacute;j&agrave; en train de le visualiser, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et s&eacute;lectionnez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>S&eacute;lectionnez <q>&navigator.label;</q>.</li>
+  </ol>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#navigator">&navigator.label;</a></li>
+
+      <li><a href="#history">&history.label;</a></li>
+
+      <li><a href="#languages">&languages.label;</a></li>
+
+      <li><a href="#helper_applications">&applications.label;</a></li>
+
+      <li><a href="#smart_browsing">&smartBrowse.label;</a></li>
+
+      <li><a href="#internet_search">&search.label;</a></li>
+
+      <li><a href="#tabbed_browsing">&tabWindows.label;</a></li>
+
+      <li><a href="#downloads">&download.label;</a></li>
+    </ul>
+  </div>
+
+
+  <h2 id="navigator">Pr&eacute;f&eacute;rences du navigateur - &navigator.label;</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau principal des
+  pr&eacute;f&eacute;rences du navigateur. Si vous n'&ecirc;tes pas
+  d&eacute;j&agrave; en train de le visualiser, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et s&eacute;lectionner <q>&preferencesCmd.label;</q>.</li>
+
+    <li>S&eacute;lectionnez la cat&eacute;gorie <q>&navigator.label;</q>.</li>
+  </ol>
+
+  <p>Le panneau des pr&eacute;f&eacute;rences du navigateur vous permet de
+  personnaliser certains aspects du navigateur.</p>
+
+  <dl>
+    <dt>&navRadio;&nbsp;:</dt>
+
+    <dd>
+      Choisissez dans la liste d&eacute;roulante l'&eacute;l&eacute;ment dont
+      vous voulez configurer l'ouverture&nbsp;:
+
+      <ul>
+        <li><strong>&navStartPageMenu.label;</strong>&nbsp;;</li>
+
+        <li><strong>&newWinPageMenu.label;</strong>&nbsp;;</li>
+
+        <li><strong>&newTabPageMenu.label;</strong>.</li>
+      </ul>
+
+      <p>S&eacute;lectionnez ensuite un de ces trois boutons pour
+      d&eacute;terminer ce que doit afficher l'&eacute;l&eacute;ment lors de
+      son ouverture&nbsp;:</p>
+
+      <dl>
+        <dt>&blankPageRadio.label;&nbsp;:</dt>
+
+        <dd>Le navigateur s'ouvre sans chargement automatique de page Web.</dd>
+
+        <dt>&homePageRadio.label;&nbsp;:</dt>
+
+        <dd>Le navigateur charge une page d'accueil (sp&eacute;cifi&eacute;e
+        ci-dessous) chaque fois qu'il est lanc&eacute;.</dd>
+
+        <dt>&lastPageRadio.label;&nbsp;:</dt>
+
+        <dd>Le navigateur d&eacute;marre en chargeant la derni&egrave;re page
+        visit&eacute;e lors du dernier arr&ecirc;t de &brandShortName;.</dd>
+      </dl>
+    </dd>
+
+    <!--<dt class="win">&defaultBrowserGroup.label;&nbsp;:</dt>-->
+    <dt class="win">Navigateur par d&eacute;faut&nbsp;:</dt>
+
+    <dd class="win">Vous permet de d&eacute;finir &brandShortName; comme navigateur par
+    d&eacute;faut. Cette option n'est disponible que pour la version Microsfot&reg; Windows
+    de &brandShortName;.</dd>
+
+    <dt>&header2.label;&nbsp;:</dt>
+
+    <dd>
+      Saisissez l'adresse de la page Web que vous voulez utiliser en page
+      d'accueil, ou cliquez sur un des boutons suivants&nbsp;:
+
+      <dl>
+        <dt>&useCurrent.label;&nbsp;:</dt>
+
+        <dd>Cliquez ici pour choisir la page Web en cours d'affichage sur le
+        navigateur.</dd>
+
+        <dt>&useCurrentGroup.label;&nbsp;:</dt>
+
+        <dd>
+          Si vous avez plus d'un onglet d'ouvert, ce bouton vous permet de
+          d&eacute;finir ceux-ci comme pages d'accueil &agrave; lancer au
+          d&eacute;marrage de &brandShortName;. Apr&egrave;s avoir cliqu&eacute; sur ce
+          bouton, vous verrez s'afficher le message <q>Le groupe de pages
+          d'accueil est fix&eacute;</q>. Pour plus d'informations concernant
+          l'ouverture d'onglets, voir la section <a href=
+          "customize_help.html#tabbed_browsing">Navigation par onglets</a>.
+
+          <p><strong>Attention</strong>&nbsp;: Si vous &eacute;ditez le champ
+          texte apr&egrave;s avoir appuy&eacute; sur le bouton <q>&useCurrent.label;</q>,
+          vous perdrez le groupe d'onglets &agrave; afficher au
+          d&eacute;marrage.</p>
+        </dd>
+
+        <dt>&browseFile.label;&nbsp;:</dt>
+
+        <dd>Cliquez sur ce bouton pour rechercher sur votre disque dur, un
+        fichier que vous voulez charger pour votre page d'accueil.</dd>
+
+        <dt>&useDefault.label;&nbsp;:</dt>
+
+        <dd>Cliquez sur ce bouton pour r&eacute;tablir la page d'accueil par
+        d&eacute;faut de &brandShortName;.</dd>
+      </dl>
+    </dd>
+
+    <dt>&toolbarIntro.label;&nbsp;:</dt>
+
+    <dd>
+      S&eacute;lectionnez une ou plusieurs des cases &agrave; cocher
+      disponibles pour voir dans vos barres d'outils les boutons
+      correspondants.
+
+      <p>Les boutons <q>&goButton.label;</q>, <q>&searchButton.label;</q> et <q>&printButton.label;</q>
+      apparaissent dans la barre d'outils du navigateur, pr&egrave;s du coin en
+      haut &agrave; droite de la fen&ecirc;tre du navigateur. Les boutons
+      <q>&homeButton.label;</q> et <q>&bookmarksButton.label;</q>  apparaissent dans la barre
+      d'outils personnelle. Pour plus d'informations concernant l'ajout de vos
+      marque-pages dans cette barre d'outils, voir la section <a href=
+      "customize_help.html#personal_toolbar">&persToolbarIntro.label;</a>.</p>
+    </dd>
+  </dl>
+
+  <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="history">Pr&eacute;f&eacute;rences du navigateur - &history.label;</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau des
+  pr&eacute;f&eacute;rences de l'historique. Si vous n'&ecirc;tes pas
+  d&eacute;j&agrave; en train de le visualiser, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et s&eacute;lectionner <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>&navigator.label;</q>, cliquez sur
+    <q>&history.label;</q>. Si aucune sous-cat&eacute;gorie n'est visible,
+    double-cliquez sur la cat&eacute;gorie <q>&navigator.label;</q> pour
+    d&eacute;velopper la liste.</li>
+  </ol>
+
+  <p>Le panneau des pr&eacute;f&eacute;rences de l'historique vous permet de
+  configurer 3 param&egrave;tres du navigateur.</p>
+
+  <dl>
+    <dt>&pref.history.caption;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&pageHis.label; __ &days.label;&nbsp;:</dt>
+
+        <dd>Saisissez le nombre de jours pendant lequel vous voulez que &brandShortName;
+        conserve une r&eacute;f&eacute;rence vers les pages Web que vous avez
+        pr&eacute;c&eacute;demment visit&eacute;es. Par exemple, si vous mettez
+        ce nombre &agrave; 10 jours, les pages visit&eacute;es durant les 10
+        derniers jours seront conserv&eacute;es dans l'historique.</dd>
+
+        <dt>&clearHistory.label;&nbsp;:</dt>
+
+        <dd>Cliquez sur ce bouton pour effacer la liste des sites
+        visit&eacute;s.</dd>
+      </dl>
+    </dd>
+
+    <dt>&locationBarHistory.caption;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&clearLocationBarButton.label;&nbsp;:</dt>
+
+        <dd>Cliquez sur ce bouton pour effacer la liste des sites du menu de la
+        barre d'adresse.</dd>
+      </dl>
+
+      <p>Pour plus d'information concernant l'historique dans &brandShortName;, voir la
+      section <a href="nav_help.html#retracing_your_steps">Revenir aux pages
+      pr&eacute;c&eacute;dentes</a>.</p>
+    </dd>
+  </dl>
+
+  <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="languages">Pr&eacute;f&eacute;rences du navigateur - &languages.customize.lHeader;</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau des
+  pr&eacute;f&eacute;rences des langues. Si vous n'&ecirc;tes pas
+  d&eacute;j&agrave; en train de le visualiser, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et s&eacute;lectionner <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>&navigator.label;</q>, cliquez sur
+    <q>&languages.customize.lHeader;</q>.
+    Si aucune sous-cat&eacute;gorie n'est visible, double-cliquez sur la
+    cat&eacute;gorie <q>&navigator.label;</q> pour d&eacute;velopper la
+    liste.</li>
+  </ol>
+
+  <p>Le panneau des pr&eacute;f&eacute;rences des langues permet de choisir la
+  langue et l'encodage des caract&egrave;res pour l'affichage des pages Web
+  lorsqu'elles sont disponibles dans plusieurs langues ainsi que l'activation
+  ou non de la v�rification orthographique � la saisie&nbsp;:</p>
+
+  <dl>
+    <dt>&langtitle.label;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&languages.customize.moveUp.label;/&languages.customize.moveDown.label;&nbsp;:</dt>
+
+        <dd>Cliquez sur l'un de ces boutons pour d&eacute;placer la langue
+        s&eacute;lectionn&eacute;e vers le haut ou vers le bas. Cela permet
+        d'&eacute;tablir l'ordre de pr&eacute;f&eacute;rences des langues dans
+        la liste.</dd>
+
+        <dt>&languages.customize.add.label;&nbsp;:</dt>
+
+        <dd>Cliquez ici pour ajouter une langue suppl&eacute;mentaire pour
+        l'affichage des pages Web.</dd>
+
+        <dt>&languages.customize.remove.label;&nbsp;:</dt>
+
+        <dd>Cliquez ici pour supprimer la langue s&eacute;lectionn&eacute;e.</dd>
+      </dl>
+    </dd>
+
+    <dt>&languages.customize.Charset.grouplabel;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&languages.customize.DefaultCharset.label;&nbsp;:</dt>
+
+        <dd>Utilisez la liste d&eacute;roulante pour s&eacute;lectionner
+        l'encodage de caract&egrave;res que vous voulez utiliser pour
+        l'affichage des pages Web.</dd>
+      </dl>
+    </dd>
+
+    <dt class="rediger">Correction orthographique</dt>
+
+    <dd class="rediger">
+      <dl>
+        <dt>Lors de la saisie, v�rifier l'orthographe</dt>
+
+        <dd>Utilisez la liste d�roulante pour s�lectionnez si oui, et comment
+        vous souhaitez que l'orthographe de votre saisie soit v�rifi�e.</dd>
+      </dl>
+    </dd>
+
+  </dl>
+
+  <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="helper_applications">Pr&eacute;f&eacute;rences du navigateur -
+  &pref.applications.title;</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau des
+  pr&eacute;f&eacute;rences des applications. Si vous n'&ecirc;tes pas
+  d&eacute;j&agrave; en train de le visualiser, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et s&eacute;lectionnez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>&navigator.label;</q>, cliquez sur
+    <q>&pref.applications.title;</q>. Si aucune sous-cat&eacute;gorie n'est visible,
+    double-cliquez sur la cat&eacute;gorie <q>&navigator.label;</q> pour
+    d&eacute;velopper la liste.</li>
+  </ol>
+
+  <p>Le panneau des pr&eacute;f&eacute;rences des applications permet de
+  d&eacute;finir la fa&ccedil;on dont les diff&eacute;rents types de fichiers
+  seront ouverts dans &brandShortName; par les autres applications&nbsp;:</p>
+
+  <dl>
+    <dt>&mimeDesc;</dt>
+
+    <dd>
+      <dl>
+        <dt>&fileTypes.label;</dt>
+
+        <dd>
+          Affiche les types de fichiers que &brandShortName; utilise.
+          S&eacute;lectionnez un d'entre eux pour afficher les informations
+          suivantes&nbsp;:
+
+          <dl>
+            <dt>&exten;</dt>
+
+            <dd>Affiche l'extension du type de fichier
+            s&eacute;lectionn&eacute;.</dd>
+
+            <!--<dt>&mimetype.label;</dt>
+
+            <dd>Affiche le type MIME du type de fichier
+            s&eacute;lectionn&eacute;.</dd>-->
+
+            <dt>&handle;</dt>
+
+            <dd>Affiche le comportement de &brandShortName; lorsqu'il rencontre ce
+            type de fichier. Suivant le type du fichier, &brandShortName; peut le
+            traiter en interne ou utiliser une application auxiliaire.</dd>
+          </dl>
+        </dd>
+
+        <dt>&newTypeButton.label;&nbsp;:</dt>
+
+        <dd>Cliquez sur ce bouton pour ajouter un nouveau type de fichier.
+        Saisir une description, une extension de fichier, un type MIME et
+        choisir le comportement de &brandShortName; lorsqu'il rencontre ce type de
+        fichier.</dd>
+
+        <dt>&editButton.label;&nbsp;:</dt>
+
+        <dd>Cliquez sur ce bouton pour modifier les informations de gestion du
+        type de fichier s&eacute;lectionn&eacute;.</dd>
+
+        <dt>&removeButton.label;&nbsp;:</dt>
+
+        <dd>Cliquez sur ce bouton pour supprimer le type de fichier
+        s&eacute;lectionn&eacute;.</dd>
+      </dl>
+    </dd>
+
+    <dt>&plugins.label;&nbsp;:</dt>
+
+    <dd>S&eacute;lectionnez cette option pour toujours utiliser le service de
+    recherche de plugins <acronym title="Plug-ins Finder Service">PFS</acronym>
+    lorsque &brandShortName; a besoin d'un nouveau plugin. Sans cette option, ce service
+    ne sera utilis&eacute; que lorsque la page Web n'indique pas d'adresse pour
+    r&eacute;cup&eacute;rer le plugin requis.</dd>
+    <!--  <dt>Ouverture des fichiers</strong>&nbsp;:</dt>
+  <dd>
+    <dl>
+       <dt>Remettre &agrave; z&eacute;ro&nbsp;:</dt>
+       <dd>Cliquez sur ce bouton pour effacer les pr&eacute;f&eacute;rences d'ouverture de fichiers modifi&eacute;es en d&eacute;s&eacute;lectionnant la case &agrave; cocher <q style="background-color: #ccf;">Toujours demander avant d'ouvrir ce type de fichier</q>, situ&eacute;es dans la bo&icirc;te de dialogue de t&eacute;l&eacute;chargement.</dd>
+    </dl>
+  </dd>  -->
+  </dl>
+
+  <p>Pour plus d'informations sur la gestion des diff&eacute;rents types de
+  fichiers dans &brandShortName;, voir la section <a href=
+  "nav_help.html#plugins_and_downloads">Plugins et
+  t&eacute;l&eacute;chargements</a>.</p>
+
+  <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="smart_browsing">Pr&eacute;f&eacute;rences du navigateur -
+  &pref.smartBrowsing.title;</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau des
+  pr&eacute;f&eacute;rences de la navigation assist&eacute;e. Si vous
+  n'&ecirc;tes pas d&eacute;j&agrave; en train de le visualiser, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et s&eacute;lectionnez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>&navigator.label;</q>, cliquez sur
+    <q>&pref.smartBrowsing.title;</q>. Si aucune sous-cat&eacute;gorie n'est
+    visible, double-cliquez sur la cat&eacute;gorie <q>&navigator.label;</q>
+    pour d&eacute;velopper la liste.</li>
+  </ol>
+
+  <p>Le panneau des pr&eacute;f&eacute;rences de navigation assist&eacute;e
+  vous permet une meilleure navigation dans les pages Web en utilisant les
+  mots cl&eacute;s Internet et l'auto-compl&eacute;tion de la barre
+  d'adresse.</p>
+
+  <dl>
+    <dt>&internetKeywordsHeader.label;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&keywordsEnabled.label;&nbsp;:</dt>
+
+        <dd>S&eacute;lectionnez cette option pour activer l'acc&egrave;s rapide
+        &agrave; des services tels que les cours de la bourse, la recherche et
+        d'autres informations, &agrave; partir de la barre d'adresse.</dd>
+
+        <dt>&moreInformation.label;&nbsp;:</dt>
+
+        <dd>Cliquez sur ce bouton pour en apprendre plus sur l'utilisation des
+        mots cl&eacute;s Internet. Attention, il renvoie au site Mozilla.org
+        qui est en anglais.</dd>
+      </dl>
+    </dd>
+
+    <dt id="location_bar_autocomplete">&autoCompleteHeader.label;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&autoCompleteEnabled.label;&nbsp;:</dt>
+
+        <dd>S&eacute;lectionnez cette option pour compl&eacute;ter
+        automatiquement le texte que vous tapez dans la barre
+        d'adresse.</dd>
+
+        <dt>&autoCompleteAdvanced.label;&nbsp;:</dt>
+
+        <dd>
+          Cliquez ici et s&eacute;lectionnez une ou plusieurs des options
+          suivantes&nbsp;:
+
+          <ul>
+            <li>L'auto-compl&eacute;tion essaie de compl&eacute;ter au mieux au
+            cours de la saisie&nbsp;: pendant que vous &eacute;crivez dans la
+            barre d'adresse, &brandShortName; compl&eacute;tera automatiquement
+            l'adresse avec celle d'un des sites Web visit&eacute;s ayant la
+            meilleure correspondance.</li>
+
+            <li>Montrer la liste des r&eacute;sultats possibles&nbsp;: pendant
+            que vous &eacute;crivez dans la barre d'adresse, &brandShortName; montrera
+            une liste d&eacute;roulante des adresses Web visit&eacute;es
+            correspondantes.</li>
+
+            <li>Montrer le moteur de recherche Internet&nbsp;: affiche un
+            &eacute;l&eacute;ment dans la liste d&eacute;roulante vous
+            permettant de faire des recherches pour les mots que vous entrez
+            avec le moteur de recherche par d&eacute;faut.</li>
+
+            <li>Faire correspondre seulement les adresses saisies
+            pr&eacute;c&eacute;demment&nbsp;: affiche uniquement les sites que
+            vous avez saisis dans la barre d'adresse et non ceux qui auraient
+            &eacute;t&eacute; ouverts d'une autre fa&ccedil;on, tel qu'un clic
+            sur un lien d'une page Web.</li>
+          </ul>
+        </dd>
+      </dl>
+    </dd>
+
+    <dt>&domainGuessingHeader.label;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&domainGuessingEnabled.label;&nbsp;:</dt>
+
+        <dd>S&eacute;lectionnez cette option si vous d&eacute;sirez que &brandShortName;
+        ajoute seul le pr&eacute;fixe <code>www.</code> et le suffixe
+        <code>.com</code> lorsque vous saisissez une adresse.</dd>
+      </dl>
+    </dd>
+  </dl>
+
+  <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="internet_search">Pr&eacute;f&eacute;rences du navigateur -
+  &pref.search.title;</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau des
+  pr&eacute;f&eacute;rences <q>&pref.search.title;</q>. Si vous
+  n'&ecirc;tes pas d&eacute;j&agrave; en train de le visualiser, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et s&eacute;lectionnez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>&navigator.label;</q>, cliquez sur
+    <q>&pref.search.title;</q>. Si aucune sous-cat&eacute;gorie n'est visible,
+    double-cliquez sur la cat&eacute;gorie <q>&navigator.label;</q> pour
+    d&eacute;velopper la liste.</li>
+  </ol>
+
+  <p>Le panneau des pr&eacute;f&eacute;rences de <q>&pref.search.title;</q>
+  permet de configurer la fa&ccedil;on d'effectuer des recherches en utilisant
+  &brandShortName;&nbsp;:</p>
+
+  <dl>
+    <dt>Quand vous cliquez sur le bouton <q>&searchButton.label;</q> dans la barre de
+    navigation&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&defaultSearchEngine.label;&nbsp;:</dt>
+
+        <dd>Dans la liste d&eacute;roulante, s&eacute;lectionnez le moteur de
+        recherche que vous voulez utiliser pour la recherche Web.</dd>
+      </dl>
+    </dd>
+
+    <dt>&searchResults.label;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>Ouvrir le panneau <q>&sidebar.search.label;</q> de la barre
+        lat&eacute;rale quand les r&eacute;sultats sont disponibles&nbsp;:</dt>
+
+        <dd>S&eacute;lectionnez cette option pour que &brandShortName; ouvre la
+        barre lat&eacute;rale et y montre les r&eacute;sultats de la recherche
+        dans l'onglet <q>&sidebar.search.label;</q>.</dd>
+
+        <dt class="rediger">Ouvrir un onnglet au lieu d'une fen�tre pour une recherche depuis le
+        menu contextuel.</dt>
+
+        <dd class="rediger">S�lectionnez ceci pour que &brandShortName; affiche vos r�sultats de
+        recherche dans un nouvel onglet plut�t que dans une nouvelle fen�tre,
+        lorsque vous lancez une recherche sur des mots s�lectionn�s dans une
+        page.</dd>
+      </dl>
+    </dd>
+
+    <dt>&sidebarSearchTabPref.label;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&searchModeBasic.label;&nbsp;:</dt>
+
+        <dd>S&eacute;lectionnez cette option pour utiliser un seul moteur de
+        recherche pour les recherches avec &brandShortName;.</dd>
+
+        <dt>&searchModeAdvanced.label;&nbsp;:</dt>
+
+        <dd>S&eacute;lectionnez cette option pour utiliser un ou plusieurs
+        moteurs de recherche d'une liste pour les recherches avec
+        &brandShortName;.</dd>
+      </dl>
+    </dd>
+  </dl>
+
+  <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="tabbed_browsing">Pr&eacute;f&eacute;rences du navigateur -
+  &tabHeader.label;</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau des
+  pr&eacute;f&eacute;rences des onglets. Si vous n'&ecirc;tes pas
+  d&eacute;j&agrave; en train de le visualiser, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et s&eacute;lectionnez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>&navigator.label;</q>, cliquez sur
+    <q>&tabHeader.label;</q>. Si aucune sous-cat&eacute;gorie n'est visible,
+    double-cliquez sur la cat&eacute;gorie <q>&navigator.label;</q> pour
+    d&eacute;velopper la liste.</li>
+  </ol>
+
+  <!--<p><strong>Remarque</strong>&nbsp;: Sous Mac OS X&reg;, utilisez la touche
+  <kbd>Command</kbd> (ou <kbd>cmd</kbd>) l&agrave; o&ugrave; il est
+  indiqu&eacute; de presser la touche <kbd>Contr&ocirc;le</kbd> (ou
+  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>).</p>-->
+
+  <p>Le panneau des pr&eacute;f&eacute;rences des onglets permet de configurer
+  la navigation par onglets&nbsp;:</p>
+
+  <dl>
+    <dt>&tabDisplay.label;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&autoHide.label;&nbsp;:</dt>
+
+        <dd>S&eacute;lectionnez cette option pour afficher une page Web sans la
+        barre d'onglets quand il n'y en a qu'un seul d'ouvert.</dd>
+
+        <dt>&background.label;&nbsp;:</dt>
+
+        <dd>D&eacute;s&eacute;lectionnez cette option pour emp&ecirc;cher
+        &brandShortName; de basculer vers le nouvel onglet quand on active
+        l'option <q>&openTab.label;</q> dans <q>&openTabs.label;</q> pour ouvrir
+        un lien.</dd>
+      </dl>
+    </dd>
+
+    <dt>&loadGroup.label;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&loadGroupAppend.label;</dt>
+
+        <dd>S&eacute;lectionnez cette option si vous voulez conserver les
+        onglets actuellement ouverts dans la fen&ecirc;tre du navigateur.</dd>
+
+        <dt>&loadGroupReplace.label;</dt>
+
+        <dd>S&eacute;lectionnez cette option si vous voulez que les nouvelles
+        pages s'ouvrent dans les onglets actuellement ouverts. Cette option
+        vous &eacute;vite d'avoir trop d'onglets &agrave; g&eacute;rer en
+        m&ecirc;me temps.</dd>
+      </dl>
+    </dd>
+
+    <dt>&openTabs.label;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>Un clic sur la molette (ou le bouton central) ou un
+        <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd>clic</kbd>
+        sur un lien d'une page Web&nbsp;:</dt>
+
+        <dd>S&eacute;lectionnez cette option pour ouvrir un lien d'une page Web
+        dans un nouvel onglet quand on clique sur un lien avec la molette (ou
+        le bouton du milieu) ou en pressant la touche <kbd
+        class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>.</dd>
+
+        <dt><kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd
+        class="mac">Retour</kbd><kbd class="noMac">Entr&eacute;e</kbd> dans la
+        barre d'adresse</dt>
+
+        <dd>S&eacute;lectionnez cette option pour ouvrir une page Web dans un nouvel
+        onglet lorsque vous tapez une adresse dans la barre d'adresses et que
+        vous pressez ensuite sur <kbd class="mac">Cmd</kbd><kbd
+        class="noMac">Ctrl</kbd>+<kbd class="mac">Retour</kbd><kbd
+        class="noMac">Entr&eacute;e</kbd>.</dd>
+      </dl>
+     </dd>
+
+     <dt>&newWindow.label;&nbsp;:</dt>
+     <dd>Si une page Web est con&ccedil;ue pour que certains liens s'ouvrent par
+     d&eacute;faut dans une nouvelle fen&ecirc;tre (soit par l'attribut HTML
+     <q>target</q>, soit &agrave; l'aide d'un script JavaScript), vous pouvez
+     modifier ce comportement&nbsp;:
+
+       <dl>
+
+         <dt>&openCurrent.label;</dt>
+         <dd>Ouvre la page li&eacute;e dans l'onglet en cours de la fen&ecirc;tre
+         active.</dd>
+
+         <dt>&openTab.label;</dt>
+         <dd>Ouvre la page li&eacute;e dans un nouvel onglet plut&ocirc;t que dans une
+         nouvelle fen&ecirc;tre.</dd>
+
+         <dt>&openWindow.label;</dt>
+         <dd>Ouvre la page li&eacute;e dans une nouvelle fen&ecirc;tre
+         (c'est l'option par d&eacute;faut et qui ne change pas le comportement
+         d'ouverture des liens).</dd>
+
+       </dl>
+
+     </dd>
+
+     <dt>&external.label;&nbsp;</dt>
+     <dd>Si &brandShortName; est appel&eacute; &agrave; partir d'une autre
+     application avec une adresse de page Web comme argument (comme par exemple
+     cliquer sur un lien dans client de messagerie externe), vous pouvez
+     contr&ocirc;ler comment sera charg&eacute;e la page&nbsp;:
+
+       <dl>
+
+         <dt>&openCurrent.label;</dt>
+         <dd>Ouvre la page li&eacute;e dans l'onglet en cours de la fen&ecirc;tre
+         active.</dd>
+
+         <dt>&openTab.label;</dt>
+         <dd>Ouvre la page li&eacute;e dans un nouvel onglet plut&ocirc;t que
+         dans une  nouvelle fen&ecirc;tre.</dd>
+
+         <dt>&openWindow.label;</dt>
+         <dd>Ouvre la page li&eacute;e dans une nouvelle fen&ecirc;tre
+         (c'est l'option par d&eacute;faut et qui ne change pas le comportement
+         d'ouverture des liens).</dd>
+
+       </dl>
+
+     </dd>
+
+  </dl>
+
+  <div class="win rediger">
+    <p>Pour s'assurer que &brandShortName; ouvre une nouvelle fen&ecirc;tre,
+    s&eacute;lectionnez l'option Navigateur dans les <a
+    href="cs_nav_prefs_appearance.xhtml#appearance">Pr&eacute;f&eacute;rences
+    du navigateur - &tabHeader.label;</a>.</p>
+
+    <p>Si vous voulez que &brandShortName; ouvre un nouvel onglet plut&ocirc;t
+    qu'une nouvelle fen&ecirc;tre quand vous le lancez et qu'il est
+    d&eacute;j&agrave; d&eacute;marr&eacute;, faites ce qui suit&nbsp;:</p>
+
+    <ul>
+      <li>Si vous d&eacute;marrez &brandShortName; en ligne de commande,
+      n'utilisez pas les param&egrave;tres de ligne de commande qui ouvre une
+      fen&ecirc;tre.</li>
+      <li>Rien n'est param&eacute;tr&eacute; dans les <a
+      href="cs_nav_prefs_appearance.xhtml#appearance">Pr&eacute;f&eacute;rences
+      du navigateur - &tabHeader.label;</a>.</li>
+      <li>Cochez dans <q>&external.label;</q> l'option <q>&openTab.label;</q>.</li>
+    </ul>
+  </div>
+
+  <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="downloads">Pr&eacute;f&eacute;rences du navigateur -
+  &pref.download.title;</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau des
+  pr&eacute;f&eacute;rences des t&eacute;l&eacute;chargements. Si vous
+  n'&ecirc;tes pas d&eacute;j&agrave; en train de le visualiser, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et s&eacute;lectionnez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>&navigator.label;</q>, cliquez sur
+    <q>&pref.download.title;</q>. Si aucune sous-cat&eacute;gorie n'est
+    visible, double-cliquez sur la cat&eacute;gorie <q>&navigator.label;</q>
+    pour d&eacute;velopper la liste.</li>
+  </ol>
+
+  <p>Le panneau des pr&eacute;f&eacute;rences des t&eacute;l&eacute;chargements
+  vous permet de d&eacute;finir la fa&ccedil;on dont &brandShortName; va traiter les
+  informations sur les fichiers que vous t&eacute;l&eacute;chargez depuis une
+  page Web</p>
+
+  <dl class="rediger">
+    <dt>&downloadBehavior.label;&nbsp;:</dt>
+
+    <dd>
+      <dl>
+        <dt>&openDM.label;</dt>
+
+        <dd>S&eacute;lectionnez cette option pour ouvrir le gestionnaire de
+        t&eacute;l&eacute;chargements, qui affiche l'&eacute;tat des
+        t&eacute;l&eacute;chargements courants et pr&eacute;c&eacute;dents.
+        L'&eacute;tat de tous les t&eacute;l&eacute;chargements est
+        affich&eacute; dans une seule et m&ecirc;me fen&ecirc;tre.</dd>
+
+        <dt>&openProgressDialog.label;</dt>
+
+        <dd>S&eacute;lectionnez cette option pour ouvrir une bo&icirc;te de dialogue
+        qui vous renseignera sur la progression du t&eacute;l&eacute;chargement
+        en cours. L'&eacute;tat de chaque t&eacute;l&eacute;chargement est
+        indiqu&eacute; dans des fen&ecirc;tres s&eacute;par&eacute;es.</dd>
+
+        <dt>&doNothing.label;</dt>
+
+        <dd>S&eacute;lectionnez cette option si vous ne d&eacute;sirez pas afficher
+        d'information sur les t&eacute;l&eacute;chargements.</dd>
+      </dl>
+    </dd>
+
+    <dt>&downloadLocation.label;</dt>
+    <dd>
+      <dl>
+        <dt>&promptDownload.label;</dt>
+        <dd>S&eacute;lectionnez cette option si voulez toujours &ecirc;tre en
+        mesure de choisir un r&eacute;pertoire pour le fichier &agrave;
+        t&eacute;l&eacute;charger. Choisissez l'un des dossiers suivants comme
+        emplacement par d&eacute;faut pour le fichier&nbsp;:
+
+          <dl>
+            <dt>&lastLocation.label;</dt>
+            <dd>L'emplacement par d&eacute;faut sera le dernier
+            r&eacute;pertoire o&ugrave; vous avez t&eacute;l&eacute;charg&eacute;
+            un fichier.</dd>
+
+            <dt>&specifiedLocation.label;</dt>
+            <dd>L'emplacement par d&eacute;faut sera le r&eacute;pertoire
+            indiqu&eacute;.</dd>
+          </dl>
+
+        </dd>
+        <dt>&autoDownload.label;</dt>
+        <dd>S&eacute;lectionnez cette option si vous voulez que vos fichiers
+        soient enregistr&eacute;s dans le r&eacute;pertoire courant sans que
+        &brandShortName; vous demander d'indiquer l'emplacement.</dd>
+      </dl>
+    </dd>
+
+    <dt>&downloadFolder.label;</dt>
+    <dd>Utilisez le bouton <q>&chooseDownloadFolder.label;</q> pour
+    vous rendre vers l'emplacement que vous d&eacute;sirez.</dd>
+
+    <dt>&finishedBehavior.label;</dt>
+    <dd>
+      <dl>
+        <dt>&playSound.label;</dt>
+        <dd>S&eacute;lectionnez cette option si vous voulez que &brandShortName; joue un son
+        personnalis&eacute; (typiquement un fichier .WAV) quand un
+        t&eacute;l&eacute;chargement est termin&eacute;. Utilisez le bouton
+        <q>&browse.label;</q> pour choisir le fichier son. Pour
+        &eacute;couter le son que vous avez choisi, cliquez sur le bouton
+        <q>&preview.label;</q>.</dd>
+
+        <dt>&showAlert.label;</dt>
+        <dd>S&eacute;lectionnez cette option si vous voulez que &brandShortName;
+        affiche une fen&ecirc;tre d'avertissement lorsqu'un
+        t&eacute;l&eacute;chargement est termin&eacute;.</dd>
+      </dl>
+    </dd>
+  </dl>
+
+
+  <p>Pour plus d'informations sur la fa&ccedil;on de t&eacute;l&eacute;charger
+  des fichiers depuis une page Web, voir la section <a href=
+  "nav_help.xhtml#plugins_and_downloads">Plugins et t&eacute;l&eacute;chargements</a>.</p>
+
+  <p>[&nbsp;<a href="#navigator_preferences">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Derni&egrave;re r&eacute;vision&nbsp;: 9 juillet 2006</em></p>
+
+    <p>Ce texte a &eacute;t&eacute; traduit et adapt&eacute; par une
+    &eacute;quipe internationale de b&eacute;n&eacute;voles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://www.frenchmozilla.sourceforge.net/">http://www.frenchmozilla.sourceforge.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

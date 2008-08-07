@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % navigatorDTD SYSTEM "chrome://navigator/locale/navigator.dtd" >
+  %navigatorDTD;
+  <!ENTITY % pageInfoDTD SYSTEM "chrome://navigator/locale/pageInfo.dtd" >
+  %pageInfoDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>Afficher les informations d'une page</title>
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+</head>
+
+<body>
+  <p><a id="page_infoIDX"></a></p>
+
+  <h1 id="viewing_page_info">Afficher les informations d'une page</h1>
+
+  <p>La bo&icirc;te de dialogue <q>&pageInfoCmd.label;</q> est
+  constitu&eacute;e de plusieurs onglets affichant diff&eacute;rentes
+  informations sur la page que vous &ecirc;tes en train de visualiser. Cette
+  section vous fournit un bref aper&ccedil;u des informations disponibles dans
+  chaque onglet.</p>
+
+  <p>Pour voir les informations de la page pr&eacute;sentement affich&eacute;e
+  par le navigateur, ouvrez le menu <q>&viewMenu.label;</q> et s&eacute;lectionnez
+  <q>&pageInfoCmd.label;</q>. Vous pouvez s&eacute;lectionner l'onglet
+  correspondant &agrave; l'information recherch&eacute;e.</p>
+
+  <p>La plupart des informations affich&eacute;es dans les onglets
+  <q>&generalTab;</q>, <q>&formsTab;</q>, <q>&linksTab;</q> et
+  <q>&mediaTab;</q> de la bo&icirc;te de dialogue sont extraites de la page
+  source. Ces informations int&eacute;ressent habituellement les
+  d&eacute;veloppeurs Web et autres sp&eacute;cialistes.</p>
+
+  <p>Pour de plus amples informations &agrave; propos des langages Web
+  (<acronym title="HyperText Markup Language">HTML</acronym>, <acronym title=
+  "Extensible HyperText Markup Language">XHTML</acronym> ou encore
+  <acronym title="Extensible Markup Language">XML</acronym>), y compris les
+  balises affich&eacute;es par les informations sur la page, voir les pages
+  Web&nbsp;:</p>
+
+  <ul>
+    <li><a href="http://www.la-grange.net/w3c/html4.01/cover.html" hreflang="fr">les
+    sp&eacute;cifications HTML 4.01</a>.</li>
+
+    <li><a href="http://www.la-grange.net/w3c/xhtml1/" hreflang="fr">les
+    sp&eacute;cifications XHTML 1.0</a>.</li>
+
+    <li><a href="http://www.w3.org/XML/" hreflang="en">le langage XML</a>.</li>
+
+    <li><a href="http://www.yoyodesign.org/doc/w3c/css1/" hreflang="fr">les
+    sp&eacute;cifications CSS1</a>.</li>
+
+    <li><a href="http://www.w3.org/TR/CSS21/" hreflang="en">les
+    sp&eacute;cifications CSS2.1</a>.</li>
+  </ul>
+
+  <p>L'onglet <q>&securityTab;</q> int&egrave;gre les informations de
+  la <a class="glossary" href=
+  "glossary.xhtml#platform_for_privacy_preferences">plate-forme pour les
+  pr&eacute;f&eacute;rences de confidentialit&eacute; (P3P)</a> de la page que
+  vous visualisez pr&eacute;sentement et l'&eacute;tat de la
+  s&eacute;curit&eacute; de cette page.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#general_tab">&generalTab;</a></li>
+
+      <li><a href="#forms_tab">&formsTab;</a></li>
+
+      <li><a href="#links_tab">&linksTab;</a></li>
+
+      <li><a href="#media_tab">&mediaTab;</a></li>
+
+      <li><a href="#security_tab">&securityTab;</a></li>
+
+<!--      <li><a href="#privacy_tab">&pageInfo.p3pTab.label;</a></li> -->
+    </ul>
+  </div>
+
+  <h2 id="general_tab">&generalTab;</h2>
+
+  <p>Lorsque vous choisissez d'afficher les informations sur la page depuis le
+  menu <q>&viewMenu.label;</q>, l'onglet <q>&generalTab;</q> affiche les
+  informations de base de la page en cours.</p>
+
+  <p>La partie sup&eacute;rieure affiche le titre de la page (si elle en
+  poss&egrave;de un) et les informations suivantes&nbsp;:</p>
+
+  <dl>
+    <dt>&generalURL;</dt>
+
+    <dd>L'<a class="glossary" href=
+    "glossary.xhtml#url">URL</a> de la page est son adresse
+    standardis&eacute;e qui appara&icirc;t dans la barre d'adresse
+    situ&eacute;e dans le haut de la fen&ecirc;tre du navigateur.</dd>
+
+    <dt>&generalType;</dt>
+
+    <dd>Le type <acronym title=
+    "Multipurpose Internet Mail Extensions">MIME</acronym> du document. Par
+    exemple, pour une page Web vous aurez <q>text/html</q>.</dd>
+
+    <dt>&generalMode;</dt>
+
+    <dd>Indique si le navigateur utilise le mode souple (mode de
+    compatibilit&eacute;) ou rigide (mode de respect strict des standards) pour
+    afficher la page. Le mode compatibilit&eacute; tient compte des
+    comportements non standards qui peuvent encore &ecirc;tre utilis&eacute;s
+    par d'anciennes pages Web propramm&eacute;es pour les anciennes versions de
+    navigateurs Web qui ne respectent pas totalement le standard. Le mode de
+    respect strict des standards applique strictement les sp&eacute;cifications
+    de ceux-ci. Votre navigateur choisit le mode de repr&eacute;sentation
+    automatiquement, par rapport aux informations contenues dans la page
+    elle-m&ecirc;me.</dd>
+
+    <dt>&generalSource;</dt>
+
+    <dd>Indique si le code source de la page est pr&eacute;sent dans le
+    cache.</dd>
+
+    <dt>&generalEncoding;</dt>
+
+    <dd>L'encodage de caract&egrave;res utilis&eacute; pour le document
+    HTML.</dd>
+
+    <dt>&generalSize;</dt>
+
+    <dd>La taille du fichier, si elle disponible.</dd>
+
+    <dt>&generalReferrer;</dt>
+
+    <dd>La page pr&eacute;c&eacute;dente qui vous a permis d'acc&egrave;der
+    &agrave; la page actuelle.</dd>
+
+    <dt>&generalModified;</dt>
+
+    <dd>La date &agrave; laquelle la page a &eacute;t&eacute; modifi&eacute;e,
+    si elle est disponible.</dd>
+
+<!--    <dt>&generalExpires;</dt>
+
+    <dd>La date &agrave; laquelle l'information affich&eacute;e dans la page
+    sera obsol&egrave;te.</dd> -->
+  </dl>
+
+  <p>La partie inf&eacute;rieure affiche les m&eacute;tabalises d&eacute;finies
+  par la page. Ces m&eacute;tabalises fournissent des informations &agrave;
+  propos du contenu de la page comme la description g&eacute;n&eacute;rale de
+  la page, les mots-cl&eacute;s d&eacute;finis pour les moteurs de recherche,
+  les informations de Copyright - Droits d'auteur, etc.</p>
+
+  <h2 id="forms_tab">&formsTab;</h2>
+
+  <p>Lorsque vous choisissez d'afficher les informations sur la page depuis le
+  menu <q>&viewMenu.label;</q>, en ouvrant l'onglet <q>&formsTab;</q>, vous verrez les
+  informations du formulaire contenu dans la page Web.</p>
+
+  <p>La partie sup&eacute;rieure affiche les informations de base par rapport
+  &agrave; la fa&ccedil;on dont est sp&eacute;cifi&eacute; chacun des
+  formulaires dans le code HTML source de la page&nbsp;:</p>
+
+  <dl>
+    <dt>&formName;&nbsp;:</dt>
+
+    <dd>Le nom du formulaire, s'il existe.</dd>
+
+    <dt>&formMethod;&nbsp;:</dt>
+
+    <dd>La m&eacute;thode HTML employ&eacute;e pour envoyer l'information
+    m&eacute;moris&eacute;e dans le formulaire vers le serveur Web. La
+    m&eacute;thode <tt>GET</tt> ajoute les informations que vous avez
+    donn&eacute;es &agrave; l'adresse du site Web vers lequel vous soumettez le
+    formulaire. La m&eacute;thode <tt>POST</tt> envoie les valeurs au site Web
+    en tant que param&egrave;tres pouvant &ecirc;tre lus par un programme du
+    site Web.</dd>
+
+    <dt>&formAction;&nbsp;:</dt>
+
+    <dd>L'URL du programme utilis&eacute; lorsque le formulaire est
+    soumis.</dd>
+  </dl>
+  <!-- &Agrave; r&eacute;diger&nbsp;: j'avoue ne pas trop savoir comment tourner les explications
+<p></p>
+<dl>
+  <dt>&formEncoding;</dt>
+  <dd></dd>
+  <dt>&formTarget;</dt>
+  <dd></dd>
+</dl>
+-->
+
+  <p>En s&eacute;lectionnant un formulaire dans la partie sup&eacute;rieure de
+  l'onglet Formulaire, la partie inf&eacute;rieure affiche de fa&ccedil;on
+  d&eacute;taill&eacute;e comment ces donn&eacute;es sont d&eacute;finies dans
+  le code HTML source de la page&nbsp;:</p>
+
+  <dl>
+    <dt>&formLabel;</dt>
+
+    <dd>L'&eacute;tiquette de la donn&eacute;e (s'il existe une telle
+    &eacute;tiquette).</dd>
+
+    <dt>&formFName;&nbsp;:</dt>
+
+    <dd>Le nom de la donn&eacute;e.</dd>
+
+    <dt>&formType;&nbsp;:</dt>
+
+    <dd>Le type de donn&eacute;e en saisie, comme <tt>TEXT</tt> (pour envoyer
+    du texte), <tt>RADIO</tt> (pour un bouton radio) ou <tt>HIDDEN</tt> (pour
+    enregistrer de l'information qui sera soumise, mais pas affich&eacute;e
+    &agrave; l'&eacute;cran).</dd>
+
+    <dt>&formCValue;&nbsp;:</dt>
+
+    <dd>La valeur donn&eacute;e &agrave; la donn&eacute;e. Par exemple, la
+    valeur courante d'une donn&eacute;e de type <tt>TEXT</tt> est le texte
+    qu'elle contient actuellement.</dd>
+  </dl>
+
+  <p>Si des colonnes ne sont pas visibles, cliquez sur l'ic&ocirc;ne <img src=
+  "chrome://global/skin/tree/columnpicker.gif" alt="" />, puis choisissez les
+  colonnes &agrave; afficher.</p>
+
+  <h2 id="links_tab">&linksTab;</h2>
+
+  <p>Lorsque vous choisissez d'afficher les informations sur la page depuis le
+  menu <q>&viewMenu.label;</q>, en ouvrant l'onglet <q>&linksTab;</q>, vous voyez la liste
+  des liens disponibles sur la page. Les informations suivantes sont
+  affich&eacute;es pour chaque lien&nbsp;:</p>
+
+  <dl>
+    <dt>&linkName;&nbsp;:</dt>
+
+    <dd>Le texte affich&eacute; dans le navigateur pour le lien.</dd>
+
+    <dt>&linkAddress;&nbsp;:</dt>
+
+    <dd>L'<a class="glossary" href=
+    "glossary.xhtml#url">URL</a> de la page vers laquelle
+    pointe le lien.</dd>
+
+    <dt>&linkType;&nbsp;:</dt>
+
+    <dd>Le type de lien, tel que les Marqueurs nomm&eacute;s/Ancres (pour un
+    lien vers un endroit pr&eacute;cis dans un document HTML ou l'envoi de
+    formulaire).</dd>
+
+    <dt>&linkTarget;&nbsp;:</dt>
+
+    <dd>La cible du lien, fen&ecirc;tre actuelle ou nouvelle
+    fen&ecirc;tre.</dd>
+
+    <dt>&linkAccessKey;&nbsp;:</dt>
+
+    <dd>La touche d'acc&egrave;s associ&eacute;e &agrave; ce lien, si elle
+    existe.</dd>
+  </dl>
+
+  <p>Si des colonnes ne sont pas visibles, cliquez sur l'ic&ocirc;ne <img src=
+  "chrome://global/skin/tree/columnpicker.gif" alt="" />, puis choisissez les
+  colonnes &agrave; afficher.</p>
+
+  <h2 id="media_tab">&mediaTab;</h2>
+
+  <p>Lorsque vous choisissez d'afficher les informations sur la page depuis le
+  menu <q>&viewMenu.label;</q>, en ouvrant l'onglet <q>&mediaTab;</q>, vous voyez la
+  liste des images et autres donn&eacute;es multim&eacute;dia affich&eacute;es
+  par la page.</p>
+
+  <p>La partie sup&eacute;rieure liste les informations de base pour chaque
+  &eacute;l&eacute;ment, incluant son adresse (<a class="glossary" href=
+  "glossary.xhtml#url">URL</a>), son type <acronym title=
+  "Multipurpose Internet Mail Extensions">MIME</acronym> et le texte
+  alternatif.</p>
+
+  <p>En s&eacute;lectionnant un &eacute;l&eacute;ment list&eacute; dans la
+  partie sup&eacute;rieure, la partie inf&eacute;rieure affiche les
+  informations disponibles telles que la description, la taille ou les
+  dimensions.</p>
+
+  <p>De m&ecirc;me, vous pouvez voir l'&eacute;l&eacute;ment
+  s&eacute;lectionn&eacute; dans le bas de la bo&icirc;te de dialogue. Pour
+  voir les grandes images, vous devez redimensionner la fen&ecirc;tre en
+  cliquant sur le coin en bas &agrave; droite de la fen&ecirc;tre et en
+  glissant-d&eacute;pla&ccedil;ant la souris.</p>
+
+  <p>Pour enregistrer un &eacute;l&eacute;ment M&eacute;dia dans un
+  fichier&nbsp;:</p>
+
+  <dl>
+    <dt>&mediaSaveAs;&nbsp;:</dt>
+
+    <dd>S&eacute;lectionnez l'&eacute;l&eacute;ment &agrave; enregistrer,
+    cliquez sur <q>&mediaSaveAs;</q>, et choisissez l'emplacement o&ugrave;
+    vous souhaitez enregistrer.</dd>
+  </dl>
+
+  <p>Si des colonnes ne sont pas visibles, cliquez sur l'ic&ocirc;ne <img src=
+  "chrome://global/skin/tree/columnpicker.gif" alt="" />, puis choisissez les
+  colonnes &agrave; afficher.</p>
+
+  <h2 id="security_tab">&securityTab;</h2>
+
+  <p>Lorsque vous choisissez d'afficher les informations sur la page depuis le
+  menu <q>&viewMenu.label;</q>, en ouvrant l'onglet <q>&securityTab;</q>,
+  vous voyez des informations &agrave; propos de l'<a class="glossary" href=
+  "glossary.xhtml#authentication">authentification</a> et du <a class="glossary"
+  href="glossary.xhtml#encryption">chiffrement</a> de la page actuellement
+  affich&eacute;e. La partie sup&eacute;rieure indique si l'identit&eacute; du
+  site Web a &eacute;t&eacute; v&eacute;rifi&eacute;e et la partie
+  inf&eacute;rieure indique si la page a &eacute;t&eacute; chiffr&eacute;e
+  lorsqu'elle a &eacute;t&eacute; re&ccedil;ue par le navigateur.</p>
+
+  <p>Vous pouvez aussi ouvrir l'onglet <q>&securityTab;</q> en
+  cliquant sur l'ic&ocirc;ne cadenas situ&eacute;e dans le coin en bas &agrave;
+  droite de chaque fen&ecirc;tre d'un navigateur, <img src=
+  "chrome://communicator/skin/icons/lock-secure.gif" alt=
+  "connexion s&eacute;curis&eacute;e" /> ou <img src=
+  "chrome://communicator/skin/icons/lock-insecure.gif" alt=
+  "connexion non-s&eacute;curis&eacute;e" />.</p>
+
+  <p>La partie sup&eacute;rieure de l'onglet <q>&securityTab;</q> peut
+  afficher l'un de ces messages&nbsp;:</p>
+
+  <dl>
+    <dt>Identit&eacute; du site Web non v&eacute;rifi&eacute;e&nbsp;:</dt>
+
+    <dd>Le site Web que vous visitez n'a pas pr&eacute;sent&eacute; de
+    certificat l'authentifiant. Par cons&eacute;quent, le gestionnaire de
+    certificats ne peut pas v&eacute;rifier son identit&eacute;. Cependant, il
+    se peut, quoique ce soit improbable, que le site Web ne soit pas celui
+    qu'il pr&eacute;tend &ecirc;tre.</dd>
+
+    <dt>Identit&eacute; du site Web v&eacute;rifi&eacute;e&nbsp;:</dt>
+
+    <dd>Le certificat que le gestionnaire de certificats a utilis&eacute; pour
+    v&eacute;rifier l'identit&eacute; du site a &eacute;t&eacute; &eacute;mis
+    par une autorit&eacute; de certification (AC) indiqu&eacute;e comme ayant
+    votre confiance. Vous pouvez raisonnablement croire que le site Web est
+    bien ce qu'il pr&eacute;tend &ecirc;tre. En cliquant sur <q>Voir</q>, vous
+    pourrez visualiser le certificat de s&eacute;curit&eacute; de la page Web
+    visit&eacute;e.</dd>
+  </dl>
+
+  <p>La partie inf&eacute;rieure de l'onglet <q>&securityTab;</q> peut
+  afficher l'un de ces messages&nbsp;:</p>
+
+  <dl>
+    <dt>Connexion non chiffr&eacute;e&nbsp;:</dt>
+
+    <dd>Il est possible qu'un tiers puisse voir les informations
+    envoy&eacute;es depuis votre ordinateur vers le site Web, et vice versa,
+    mais il est improbable que quelqu'un le fasse vraiment.</dd>
+
+    <dt>Connexion chiffr&eacute;e&nbsp;:</dt>
+
+    <dd>En g&eacute;n&eacute;ral, la force du chiffrement d&eacute;pend de la
+    longueur des cl&eacute;s utilis&eacute;es pour le codage, mesur&eacute;es
+    en bits. Plus la cl&eacute; est longue, plus fort est le codage et, de
+    fait, plus il sera difficile &agrave; une personne non autoris&eacute;e de
+    d&eacute;coder une information chiffr&eacute;e.</dd>
+  </dl>
+
+  <p>La fen&ecirc;tre <q>&pageInfoCmd.label;</q> d&eacute;crit la force du
+  chiffrement selon l'un de ces trois cas&nbsp;:</p>
+
+  <dl>
+    <dt>Chiffrement de haut niveau&nbsp;:</dt>
+
+    <dd>Le chiffrement le plus puissant disponible, utilisant des cl&eacute;s
+    d'au moins 128 bits.</dd>
+
+    <dt>Niveau moyen de chiffrement&nbsp;:</dt>
+
+    <dd>Un chiffrement interm&eacute;diaire, utilisant des cl&eacute;s de 56 ou
+    64 bits.</dd>
+
+    <dt>Chiffrement de bas niveau&nbsp;:</dt>
+
+    <dd>Le plus faible niveau de chiffrement, utilisant des cl&eacute;s de 40
+    bits.</dd>
+  </dl>
+
+  <p>La plupart des sites Web utilisent le niveau &eacute;lev&eacute; de
+  chiffrement. Si vous visitez un site utilisant un niveau bas de chiffrement,
+  il est possible qu'un tiers puisse voir les informations envoy&eacute;es
+  depuis votre ordinateur vers le site Web, et vice versa, mais il est
+  improbable que quelqu'un le fasse vraiment.</p>
+
+  <p>L'absence ou un bas niveau de chiffrement des informations doit vous
+  inqui&eacute;ter si vous visualisez ou envoyez des informations &agrave;
+  caract&egrave;re confidentiel, tel que votre num&eacute;ro de carte de
+  cr&eacute;dit, par exemple.</p>
+
+  <p>Vous pouvez rapidement v&eacute;rifier le niveau de s&eacute;curit&eacute;
+  de la page que vous &ecirc;tes en train de visualiser en v&eacute;rifiant
+  l'&eacute;tat de l'ic&ocirc;ne en forme de cadenas dans le coin en bas
+  &agrave; droite de la fen&ecirc;tre de votre navigateur, <img src=
+  "chrome://communicator/skin/icons/lock-secure.gif" alt=
+  "connexion s&eacute;curis&eacute;e" /> ou <img src=
+  "chrome://communicator/skin/icons/lock-insecure.gif" alt=
+  "connexion non-s&eacute;curis&eacute;e" />. Pour plus d'informations, voir la
+  section <a href="using_certs_help.xhtml#checking_security_for_a_web_page">V&eacute;rifier
+  la s&eacute;curit&eacute; d'une page Web</a>.</p>
+
+<!-- <div>
+  <h2 id="privacy_tab">&pageInfo.p3pTab.label;</h2>
+
+  <p>Quand vous choisissez <q>&title;</q>, depuis le menu <q>&viewMenu.label;</q>
+  et que vous cliquez sur l'onglet <q>&pageInfo.p3pTab.label;</q>, vous voyez
+  une liste de tous les &eacute;l&eacute;ments sp&eacute;ciaux qui font partie
+  de la page.</p>
+
+  <dl>
+    <dt>&pageInfo.linkTypes;</dt>
+
+    <dd>Sous l'URL de la page, il y a plusieurs cat&eacute;gories. Pour voir la
+    liste des &eacute;l&eacute;ments dans chaque cat&eacute;gorie, cliquez sur
+    le nom&nbsp;:
+
+      <dl>
+
+        <dt>&pageInfo.type.links;</dt>
+        <dd>Afficher tous les liens pr&eacute;sents.</dd>
+
+        <dt>&pageInfo.type.applets;</dt>
+        <dd>Liste toutes les applet Java, s'il y en a.</dd>
+
+        <dt>&pageInfo.type.imageMaps;</dt>
+        <dd>Affiche toutes les cartes d'images.</dd>
+
+        <dt>&pageInfo.type.forms;</dt>
+        <dd>Liste les noms des scripts utilis&eacute;s pour
+        r&eacute;cup&eacute;rer les donn&eacute;es utilis&eacute;es dans la
+        page.</dd>
+
+        <dt>&pageInfo.type.frames;</dt>
+        <dd>Affiche les cadres pr&eacute;sent dans la page.</dd>
+
+        <dt>&pageInfo.type.images;</dt>
+        <dd>Affiche toutes les images pr&eacute;sentes.</dd>
+
+        <dt>&pageInfo.type.externalDocs;</dt>
+        <dd>Contient la liste des documents externes utilis&eacute;s pour
+        afficher la page (comme les fichiers CSS ou les images).</dd>
+
+        <dt>&pageInfo.type.objects;</dt>
+        <dd>Affiche une liste des objets g&eacute;n&eacute;riques.</dd>
+
+        <dt>&pageInfo.type.scripts;</dt>
+        <dd>Liste tous les scripts utilis&eacute;s dans la page.</dd>
+
+      </dl>
+
+    </dd>
+
+    <dt>&pageInfo.humanReadable.label;</dt>
+    <dd>Ce bouton essayera d'ouvrir le fichier de politique de
+    confidentialit&eacute; du site dont la page est actuellement
+    affich&eacute;e.</dd>
+
+    <dt>&pageInfo.machineReadable.label;</dt>
+    <dd>S&eacute;lectionnez ceci si pour afficher le visionneur de politique
+    de confidentialit&eacute; qui affiche des donn&eacute;es concises &agrave;
+    propos de la politique de confidentialit&eacute; du site que vous
+    visitez.</dd>
+
+    <dt>&pageInfo.optinoptout.label;</dt>
+    <dd>Ceci essayera d'ouvrir la page sur le site distant qui autorise
+    l'utilisateur &agrave; modifer ses informations personnelles  qui sont
+    stock&eacute;es par le site.</dd>
+
+  </dl>
+
+</div> -->
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Derni&egrave;re r&eacute;vision&nbsp;: 10 janvier 2008</em></p>
+
+    <p>Ce texte a &eacute;t&eacute; traduit et adapt&eacute; par une
+    &eacute;quipe internationale de b&eacute;n&eacute;voles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

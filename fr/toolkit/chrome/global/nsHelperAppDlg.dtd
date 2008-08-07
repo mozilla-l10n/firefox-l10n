@@ -1,0 +1,42 @@
+<!ENTITY caption.label         "Ouverture #1">
+
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+<!ENTITY intro.label           "Le fichier « #3 » est de type #2 (#1) et #4 ne sait pas comment traiter ce type de fichier. Ce fichier se trouve à :">
+<!ENTITY intro.noDesc.label    "Le fichier « #3 » est de type #2 et #4 ne sait pas comment traiter ce type de fichier. Ce fichier se trouve à :">
+
+<!ENTITY intro.attachment.label "Ce site a suggéré que le fichier  « #3 » soit traité comme une pièce jointe. Ce fichier est de type #2 (#1) et se trouve à :">
+<!ENTITY intro.attachment.noDesc.label "Ce site a suggéré que le fichier  « #3 » soit traité comme une pièce jointe. Ce fichier est de type #2 et se trouve à :">
+
+<!ENTITY intro.sniffed.label "#4 a détecté que le fichier « #3 » est probablement de type #2 (#1). Le fichier est situé à :">
+<!ENTITY intro.sniffed.noDesc.label "#4 a détecté que le fichier « #3 » est probablement de type #2. Le fichier est situé à :">
+
+<!ENTITY prompt.label          "Que doit faire #1 de ce fichier ?">
+
+<!ENTITY alwaysHandle.label     "Pour ce type de fichier, toujours effectuer cette action">
+<!ENTITY alwaysHandle.accesskey "t">
+
+<!ENTITY saveToDisk.label      "L'enregistrer sur le disque">
+<!ENTITY saveToDisk.accesskey  "d">
+
+<!ENTITY useSystemDefault.label        "L'ouvrir avec l'application par défaut (#1)">
+<!ENTITY useSystemDefault.noDesc.label "L'ouvrir avec l'application par défaut">
+<!ENTITY useSystemDefault.accesskey    "o">
+
+<!ENTITY openUsing.label       "L'ouvrir avec">
+<!ENTITY openUsing.accesskey   "a">
+
+<!ENTITY chooseApp.label       "Choisir…">
+<!ENTITY chooseApp.accesskey   "C">
+
+<!ENTITY chooseAppFilePickerTitle "Choisir une application auxiliaire">
+
+<!ENTITY badApp                 "L'application que vous avez choisie ne peut être trouvée (« #1 »). Vérifiez le nom du fichier ou sélectionnez une autre application.">
+<!ENTITY badApp.title           "Application non trouvée">

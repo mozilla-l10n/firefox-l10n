@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewListTitle.label "Personnaliser les vues de messages">
+<!ENTITY viewName.label "Nom de la vue">

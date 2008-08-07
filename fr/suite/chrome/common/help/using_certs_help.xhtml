@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>Utiliser les certificats</title>
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+</head>
+
+<body>
+
+  <h1 id="using_certificates">Utiliser les certificats</h1>
+
+  <p>Un certificat est l'&eacute;quivalent num&eacute;rique d'une pi&egrave;ce
+  d'identit&eacute;. De la m&ecirc;me mani&egrave;re que vous pouvez avoir
+  plusieurs pi&egrave;ces d'identit&eacute; pour diff&eacute;rentes
+  utilisations, tels que le permis de conduire, une carte d'employ&eacute; ou
+  une carte bancaire, vous pouvez avoir plusieurs certificats qui vous
+  identifient pour diff&eacute;rentes utilisations.</p>
+
+  <p>Cette section pr&eacute;sente les op&eacute;rations possibles avec les
+  certificats.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#getting_your_own_certificate">Obtenir votre propre
+      certificat</a></li>
+
+      <li><a href="#checking_security_for_a_web_page">V&eacute;rifier la
+      s&eacute;curit&eacute; d'une page Web</a></li>
+
+      <li><a href="#managing_certificates">G&eacute;rer les certificats</a></li>
+
+      <li><a href="#managing_smart_cards_and_other_security_devices">G&eacute;rer
+      les cartes &agrave; puces et autres p&eacute;riph&eacute;riques de
+      s&eacute;curit&eacute;</a></li>
+
+      <li><a href="#managing_ssl_warnings_and_settings">G&eacute;rer les
+      avertissements et les param&egrave;tres SSL</a></li>
+
+      <li><a href="#controlling_validation">G&eacute;rer les param&egrave;tres
+      de validation</a></li>
+
+      <!--<li><a href=
+      "certs_prefs_help.xhtml#certificate_settings">Pr&eacute;f&eacute;rences des
+      certificats</a></li>-->
+    </ul>
+  </div>
+
+
+  <h2 id="getting_your_own_certificate">Obtenir votre propre certificat</h2>
+
+  <p>Comme une carte bancaire ou un permis de conduire, un certificat est une
+  sorte d'identification que vous pouvez utiliser pour vous identifier sur
+  Internet et d'autres r&eacute;seaux. Comme toute pi&egrave;ce
+  d'identit&eacute;, le certificat provient g&eacute;n&eacute;ralement d'une
+  organisation reconnue et autoris&eacute;e &agrave; d&eacute;livrer une telle
+  identification. Ces organisations sont appel&eacute;es
+  <strong>autorit&eacute;s de certification (AC)</strong>.</p>
+
+  <p>Vous pouvez obtenir des certificats vous identifiant aupr&egrave;s des
+  autorit&eacute;s publiques, des administrateurs syst&egrave;me, des
+  autorit&eacute;s sp&eacute;cifiques dans votre organisation ou depuis des
+  sites Web offrant des services sp&eacute;cialis&eacute;s qui
+  requi&egrave;rent un moyen d'identification plus fiable que votre nom et
+  votre mot de passe.</p>
+
+  <p>De la m&ecirc;me mani&egrave;re qu'un permis de conduire permet de
+  conduire certains types de v&eacute;hicules, diff&eacute;rents certificats
+  existent pour diff&eacute;rentes utilisations. Dans certains cas, obtenir un
+  certificat est aussi simple que d'aller sur un site Web, remplir un
+  formulaire concernant son identit&eacute; puis, automatiquement
+  t&eacute;l&eacute;charger ce certificat. Mais le processus peut &ecirc;tre
+  bien plus long.</p>
+
+  <p>Vous pouvez obtenir un certificat d'une autorit&eacute; en visitant l'URL
+  ci-dessous et en suivant les instructions fournies. Pour obtenir une liste
+  des autorit&eacute;s de certification, voir le document en ligne <a href=
+  "https://certs.netscape.com/" hreflang="en">Les certificats clients</a>.</p>
+
+  <p>Apr&egrave;s avoir obtenu votre certificat, il est automatiquement
+  enregistr&eacute; dans un <a href="glossary.xhtml#security_device" class=
+  "glossary">p&eacute;riph&eacute;rique de s&eacute;curit&eacute;</a>. Votre
+  navigateur est fourni avec son propre p&eacute;riph&eacute;rique de
+  s&eacute;curit&eacute; logiciel. Un p&eacute;riph&eacute;rique de
+  s&eacute;curit&eacute; peut aussi &ecirc;tre mat&eacute;riel, tel une carte
+  &agrave; puce.</p>
+
+  <p>Un certificat peut &ecirc;tre utilis&eacute; de mani&egrave;re abusive
+  s'il tombe entre de mauvaises mains. Apr&egrave;s avoir obtenu votre
+  certificat, vous devez le prot&eacute;ger en le sauvegardant et en
+  param&eacute;trant un <a href="glossary.xhtml#master_password" class=
+  "glossary">mot de passe principal</a>.</p>
+
+  <p>Lorsque vous obtenez un certificat, il peut vous &ecirc;tre demand&eacute;
+  de le sauvegarder et, le cas &eacute;ch&eacute;ant, de cr&eacute;er un mot de
+  passe principal.</p>
+
+  <p>Pour plus d'informations sur la sauvegarde d'un certificat et la
+  modification du mot de passe principal, voir la section <a href=
+  "certs_help.xhtml#your_certificates">Vos certificats</a>.</p>
+
+  <p>[&nbsp;<a href="#using_certificates">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="checking_security_for_a_web_page">V&eacute;rifier la
+  s&eacute;curit&eacute; d'une page Web</h2>
+
+  <p>Pendant que vous consultez une page Web, l'ic&ocirc;ne de cadenas dans le
+  coin inf&eacute;rieur droit de la fen&ecirc;tre vous informe si le contenu
+  complet de cette page est prot&eacute;g&eacute; par <a href=
+  "glossary.xhtml#encryption" class="glossary">chiffrement</a>.</p>
+
+  <dl>
+    <dt><img alt="ic&ocirc;ne de s&eacute;curit&eacute; ferm&eacute;e" src=
+    "chrome://communicator/skin/icons/lock-secure.gif" />&nbsp;</dt>
+
+    <dd>Un cadenas ferm&eacute; signifie que la page est prot&eacute;g&eacute;e
+    par chiffrement.</dd>
+
+    <dt><img alt="ic&ocirc;ne de s&eacute;curit&eacute; ouverte" src=
+    "chrome://communicator/skin/icons/lock-insecure.gif" />&nbsp;</dt>
+
+    <dd>Un cadenas ouvert signifie que la page n'est pas prot&eacute;g&eacute;e
+    par chiffrement.</dd>
+
+    <dt><img alt="ic&ocirc;ne de s&eacute;curit&eacute; cass&eacute;e" src=
+    "chrome://communicator/skin/icons/lock-broken.gif" />&nbsp;</dt>
+
+    <dd>Un cadenas cass&eacute; signifie que un ou plusieurs
+    &eacute;l&eacute;ments de la page ne sont pas prot&eacute;g&eacute;s par
+    chiffrement.</dd>
+  </dl>
+
+  <p>Pour plus d'informations sur le statut du chiffrement de la page, cliquez
+  sur l'ic&ocirc;ne cadenas ou ouvrez le menu <q>Affichage</q>, choisissez
+  <q>Informations sur la page</q>, et cliquez sur l'onglet
+  <q>S&eacute;curit&eacute;</q>.</p>
+
+  <p>Cet onglet fournit deux types d'informations&nbsp;:</p>
+
+  <ul>
+    <li>La moiti&eacute; sup&eacute;rieure du panneau d&eacute;crit si oui ou
+    non le site a &eacute;t&eacute; correctement identifi&eacute;. Pour plus
+    d'informations sur la v&eacute;rification des certificats, voir la section
+    <a href="#controlling_validation">G&eacute;rer les param&egrave;tres de
+    validation</a>.</li>
+
+    <li>La moiti&eacute; inf&eacute;rieure d&eacute;crit si oui ou non la page
+    que vous regardez en ce moment est prot&eacute;g&eacute; par chiffrement
+    pendant son transfert sur le r&eacute;seau.</li>
+  </ul>
+
+  <p><strong>Important</strong>&nbsp;: L'ic&ocirc;ne de cadenas indique
+  seulement le statut du chiffrement de la page lors de sa r&eacute;ception par
+  votre ordinateur. Pour &ecirc;tre inform&eacute; avant d'envoyer ou de
+  recevoir des informations non chiffr&eacute;es, s&eacute;lectionnez les
+  options appropri&eacute;es d'alarme SSL. Pour plus d'informations, voir la
+  section <a href="ssl_help.xhtml">Pr&eacute;f&eacute;rences de
+  confidentialit&eacute; et de s&eacute;curit&eacute; - SSL</a>.</p>
+
+  <p>[&nbsp;<a href="#using_certificates">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+
+  <h2 id="managing_certificates">G&eacute;rer les certificats</h2>
+
+  <p>Vous pouvez utiliser le gestionnaire de certificats pour g&eacute;rer vos
+  certificats. Les certificats sont stock&eacute;s sur votre disque dur, des
+  <a href="glossary.xhtml#smart_card" class="glossary">cartes &agrave; puce</a>
+  ou d'autres p&eacute;riph&eacute;riques de s&eacute;curit&eacute;
+  connect&eacute;s &agrave; votre ordinateur.</p>
+
+  <p>Pour ouvrir le gestionnaire de certificats&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrir le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&Eacute;dition</span></q>
+    et choisissez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>Confidentialit&eacute; et
+    s&eacute;curit&eacute;</q>, choisissez <q>Certificats</q>. Si aucune
+    sous-cat&eacute;gorie n'est visible, double-cliquez sur
+    <q>Confidentialit&eacute; et s&eacute;curit&eacute;</q> pour
+    d&eacute;velopper la liste.</li>
+
+    <li>Cliquez sur le bouton <q>Gestion des certificats&hellip;</q>. Vous voyez
+    appara&icirc;tre la fen&ecirc;tre du gestionnaire de certificats.</li>
+  </ol>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#managing_certificates_that_identify_you">G&eacute;rer les
+      certificats qui vous identifient</a></li>
+
+      <li><a href="#managing_certificates_that_identify_others">G&eacute;rer
+      les certificats qui identifient d'autres personnes</a></li>
+
+      <li><a href="#managing_certificates_that_identify_websites">G&eacute;rer
+      les certificats qui identifient des sites Web</a></li>
+
+      <li><a href="#managing_certificates_that_identify_certificate_authorities">G&eacute;rer
+      les certificats qui identifient des autorit&eacute;s de certification</a></li>
+    </ul>
+  </div>
+
+
+  <h3 id="managing_certificates_that_identify_you">G&eacute;rer les certificats
+  qui vous identifient</h3>
+
+  <p>Quand vous ouvrez le gestionnaire de certificats pour la premi&egrave;re
+  fois, vous remarquez que vous disposez de plusieurs onglets. Le premier
+  onglet s'appelle <q>Vos certificats</q>, et il affiche les certificats vous
+  identifiant dont le navigateur dispose. Vos certificats sont list&eacute;s
+  sous les noms des organismes qui les ont &eacute;mis.</p>
+
+  <p>Pour effectuer une action sur un ou plusieurs certificats,
+  s&eacute;lectionnez un certificat (ou maintenez enfonc&eacute; la touche
+  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd> pour en
+  s&eacute;lectionner plusieurs) puis cliquez
+  sur le bouton <q>Voir</q>, <q>Exporter</q> ou <q>Supprimer</q>. Chaque bouton
+  affiche une nouvelle fen&ecirc;tre qui vous permet d'effectuer l'action
+  voulue. Appuyez sur le bouton <q>Aide</q> &agrave; tout moment pour obtenir
+  plus d'informations sur l'utilisation de cette fen&ecirc;tre.</p>
+
+  <p>Les boutons suivants ne n&eacute;cessitent pas d'avoir
+  s&eacute;lectionn&eacute; un certificat pour pouvoir &ecirc;tre
+  s&eacute;lectionn&eacute;s&nbsp;:</p>
+
+  <dl>
+    <dt>Importer&nbsp;:</dt>
+
+    <dd>Importe un certificat pr&eacute;alablement export&eacute; ou
+    transf&eacute;r&eacute; depuis un autre ordinateur.</dd>
+
+    <dt>Tout exporter&nbsp;:</dt>
+
+    <dd>Exporte tous vos certificats stock&eacute;s dans le <a href=
+    "glossary.xhtml#software_security_device" class=
+    "glossary">p&eacute;riph&eacute;rique de s&eacute;curit&eacute;
+    logiciel</a>.</dd>
+  </dl>
+
+  <p><strong>Important</strong>&nbsp;: Les certificats des cartes &agrave; puce
+  ne peuvent &ecirc;tre export&eacute;s. Si vous s&eacute;lectionnez certains de
+  vos certificats et que vous cliquez sur <q>Exporter</q>, ou sur <q>Tout
+  exporter</q>, le fichier de sauvegarde cr&eacute;&eacute; n'inclura pas les
+  certificats stock&eacute;s sur les cartes &agrave; puce ou d'autres
+  p&eacute;riph&eacute;riques de s&eacute;curit&eacute; externes. Vous ne
+  pouvez sauvegarder que les certificats qui sont stock&eacute;s par le
+  p&eacute;riph&eacute;rique de s&eacute;curit&eacute; logiciel.</p>
+
+  <p>Pour plus d'informations sur ces t&acirc;ches, voir la section <a href=
+  "certs_help.xhtml#your_certificates">Vos certificats</a>.</p>
+
+  <p>[&nbsp;<a href="#managing_certificates">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+
+  <h3 id="managing_certificates_that_identify_others">G&eacute;rer les
+  certificats qui identifient d'autres personnes</h3>
+
+  <p>Quand vous r&eacute;digez un message, vous pouvez y joindre votre
+  signature num&eacute;rique. Une <a href="glossary.xhtml#digital_signature"
+  class="glossary">signature num&eacute;rique</a> permet aux destinataires du
+  message de v&eacute;rifier que ce message provient effectivement de vous et
+  n'a pas &eacute;t&eacute; falsifi&eacute; depuis le moment o&ugrave; vous
+  l'avez envoy&eacute;.</p>
+
+  <p>Chaque fois que vous envoyez un message sign&eacute; num&eacute;riquement,
+  votre certificat de chiffrement est automatiquement inclus avec le message.
+  Ce certificat permet aux destinataires de vous envoyer des messages
+  chiffr&eacute;s.</p>
+
+  <p>Une des meilleures fa&ccedil;ons d'obtenir le certificat de chiffrement de
+  quelqu'un est que cette personne vous envoie un message sign&eacute;
+  num&eacute;riquement. Le gestionnaire de certificats enregistre
+  automatiquement les certificats d'autres personnes s'ils sont re&ccedil;us
+  par courrier &eacute;lectronique.</p>
+
+  <p>Pour voir tous les certificats qui identifient d'autres personnes et qui
+  sont accessibles par le gestionnaire de certificats, cliquez sur l'onglet
+  <q>Autres personnes</q> du gestionnaire de certificats. Vous pouvez envoyer
+  un message chiffr&eacute; &agrave; chaque personne dont un certificat valide
+  appara&icirc;t. Les certificats sont list&eacute;s par le nom de
+  l'organisation qui les a &eacute;mis.</p>
+
+  <p>Pour effectuer une action sur un ou plusieurs certificats,
+  s&eacute;lectionnez un certificat (ou maintenez enfonc&eacute; la touche
+  <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd> pour en
+  s&eacute;lectionner plusieurs) puis cliquez sur les boutons <q>Voir</q>,
+  <q>Exporter</q> ou <q>Supprimer</q>. Chaque bouton affiche une nouvelle
+  fen&ecirc;tre qui vous permet d'effectuer l'action. Cliquez le bouton
+  <q>Aide</q> dans n'importe quelle fen&ecirc;tre pour obtenir plus
+  d'informations sur l'utilisation de cette fen&ecirc;tre.</p>
+
+  <p>Pour plus d'informations, voir la section <a href=
+  "certs_help.xhtml#other_peoples_certificates">Certificats des autres
+  personnes</a>.</p>
+
+  <p>[&nbsp;<a href="#managing_certificates">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+
+  <h3 id="managing_certificates_that_identify_websites">G&eacute;rer les
+  certificats qui identifient des sites Web</h3>
+
+  <p>Certains sites Web utilisent les certificats pour s'identifier. Une telle
+  identification est requise avant de pouvoir chiffrer les informations
+  transmises entre le site et votre ordinateur (et vice versa), et ainsi
+  prot&eacute;ger les donn&eacute;es des personnes ind&eacute;sirables.</p>
+
+  <p>Si l'URL d'un site Web commence par <tt>https://</tt>, le site
+  poss&egrave;de un certificat. Si vous allez sur un tel site et que le
+  certificat provient d'une autorit&eacute; de certification que le
+  gestionnaire de certificats ne conna&icirc;t pas ou &agrave; laquelle il ne
+  fait pas confiance, il vous demande d'accepter ou de refuser ce certificat.
+  Quand vous acceptez un nouveau certificat, le gestionnaire de certificats
+  l'ajoute &agrave; la liste des certificats de sites Web.</p>
+
+  <p>Pour visualiser tous les certificats de sites Web disponibles dans votre
+  navigateur, cliquez sur l'onglet <q>Sites Web</q> en haut de la fen&ecirc;tre
+  du gestionnaire de certificats.</p>
+
+  <p>Pour effectuer une action sur un ou plusieurs certificats,
+  s&eacute;lectionnez un certificat (ou maintenez enfonc&eacute; la touche
+  <kbd>Maj</kbd> pour en s&eacute;lectionner plusieurs) puis cliquez
+  sur les boutons <q>Voir</q>, <q>Modifier</q> ou <q>Supprimer</q>. Chacun de
+  ces boutons fait appara&icirc;tre une nouvelle fen&ecirc;tre vous permettant
+  d'effectuer l'action voulue.</p>
+
+  <p>Le bouton <q>Modifier</q> vous permet de sp&eacute;cifier si votre
+  navigateur peut faire confiance aux certificats du site Web
+  s&eacute;lectionn&eacute;.</p>
+
+  <p>Pour plus d'informations, voir la section <a href=
+  "certs_help.xhtml#web_site_certificates">Certificats de sites Web</a>.</p>
+
+  <p>[&nbsp;<a href="#managing_certificates">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+
+  <h3 id="managing_certificates_that_identify_certificate_authorities">G&eacute;rer
+  les certificats qui identifient des autorit&eacute;s de certification</h3>
+
+  <p>Comme toute autre forme d'identificateur, le certificat est issu d'un
+  organisme reconnu et autoris&eacute; &agrave; fournir ces identifications. Ce
+  type d'organisme est appel&eacute; une <a href=
+  "glossary.xhtml#certificate_authority" class="glossary">autorit&eacute; de
+  certification (AC)</a>. Un certificat identifiant une AC s'appelle un
+  certificat d'AC.</p>
+
+  <p>Le gestionnaire de certificats dispose en g&eacute;n&eacute;ral de
+  plusieurs certificats d'AC sur le disque dur de l'ordinateur. Ces certificats
+  d'AC permettent au gestionnaire de certificats de reconna&icirc;tre et de
+  travailler avec des certificats provenant de ces autorit&eacute;s. Toutefois,
+  la pr&eacute;sence d'un certificat d'AC dans la liste du gestionnaire de
+  certificats <em>ne</em> garantit <em>pas</em> que l'on peut faire confiance
+  aux certificats provenant de cette autorit&eacute;. Vous ou votre
+  administrateur devez d&eacute;cider des certificats &agrave; accepter suivant
+  vos besoins en terme de s&eacute;curit&eacute;.</p>
+
+  <p>Pour afficher tous les certificats d'AC disponibles dans votre navigateur,
+  cliquez sur l'onglet <q>Autorit&eacute;s</q> en haut de la fen&ecirc;tre du
+  gestionnaire de certificats.</p>
+
+  <p>Pour effectuer une action sur un ou plusieurs certificats d'AC, cliquez
+  sur le certificat (ou maintenez la touche <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>
+  enfonc&eacute;e et cliquez sur les certificats pour en s&eacute;lectionner
+  plusieurs), puis cliquez sur les boutons <q>Voir</q>, <q>Modifier</q> ou
+  <q>Supprimer</q>. Chacun de ces boutons fait appara&icirc;tre une nouvelle
+  fen&ecirc;tre permettant d'ex&eacute;cuter l'action. Cliquez sur le bouton
+  d'aide dans la fen&ecirc;tre pour obtenir plus d'informations sur son
+  utilisation.</p>
+
+  <p>Le bouton <q>Modifier</q> vous permet de voir et modifier les
+  param&egrave;tres de confiance de chaque certificat. Ces param&egrave;tres
+  vous permettent de sp&eacute;cifier &agrave; quelles sortes de certificats
+  &eacute;mis par cette autorit&eacute; vous faites confiance.</p>
+
+  <p>Pour plus d'informations, voir la section <a href=
+  "certs_help.xhtml#authorities">Autorit&eacute;s</a>.</p>
+
+  <p>[&nbsp;<a href="#managing_certificates">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+
+  <h2 id="managing_smart_cards_and_other_security_devices">G&eacute;rer les
+  cartes &agrave; puce et autres p&eacute;riph&eacute;riques de
+  s&eacute;curit&eacute;</h2>
+
+  <p>Une carte &agrave; puce est un p&eacute;riph&eacute;rique de petite
+  taille, de la taille d'une carte de cr&eacute;dit. Il contient un
+  microprocesseur, est capable de m&eacute;moriser des informations concernant
+  votre identit&eacute; (comme par exemple vos <a href=
+  "glossary.xhtml#private_key" class="glossary">cl&eacute;s priv&eacute;es</a>
+  ou vos <a href="glossary.xhtml#certificate" class="glossary">certificats</a>)
+  et effectue des op&eacute;rations cryptographiques.</p>
+
+  <p>Pour utiliser une carte &agrave; puce, vous avez besoin d'un lecteur de
+  carte &agrave; puce (appareil mat&eacute;riel) connect&eacute; &agrave; votre
+  ordinateur, ainsi qu'un logiciel contr&ocirc;lant votre lecteur.</p>
+
+  <p>Une carte &agrave; puce est un des p&eacute;riph&eacute;riques de
+  s&eacute;curit&eacute;. Un p&eacute;riph&eacute;rique de
+  s&eacute;curit&eacute; (parfois appel&eacute; jeton) est un
+  p&eacute;riph&eacute;rique mat&eacute;riel ou logiciel offrant des services
+  cryptographiques et stockant des informations sur votre identit&eacute;.
+  Utilisez le gestionnaire de p&eacute;riph&eacute;riques pour utiliser les
+  cartes &agrave; puces et autres p&eacute;riph&eacute;riques de
+  s&eacute;curit&eacute;.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#about_security_devices_and_modules">&Agrave; propos des
+      p&eacute;riph&eacute;riques et modules de s&eacute;curit&eacute;</a></li>
+
+      <li><a href="#using_security_devices">Utiliser les
+      p&eacute;riph&eacute;riques de s&eacute;curit&eacute;</a></li>
+
+      <li><a href="#using_security_modules">Utiliser les modules de
+      s&eacute;curit&eacute;</a></li>
+
+      <li><a href="#enable_fips_mode">Activer le mode FIPS</a></li>
+    </ul>
+  </div>
+
+    <h3 id="about_security_devices_and_modules">&Agrave; propos des
+  p&eacute;riph&eacute;riques et modules de s&eacute;curit&eacute;</h3>
+
+  <p>Le gestionnaire de p&eacute;riph&eacute;riques affiche une fen&ecirc;tre
+  contenant la liste des p&eacute;riph&eacute;riques de s&eacute;curit&eacute;
+  disponibles. Vous pouvez l'utiliser pour g&eacute;rer n'importe quel
+  p&eacute;riph&eacute;rique de s&eacute;curit&eacute;, m&ecirc;me les carte
+  &agrave; puce, qui supportent le standard <acronym title=
+  "Public Key Cryptography Standard">PKCS</acronym> #11.</p>
+
+  <p>Un <a href="glossary.xhtml#pkcs_11_module" class="glossary">module PKCS
+  #11</a> (parfois appel&eacute; un module de s&eacute;curit&eacute;)
+  contr&ocirc;le un ou plusieurs p&eacute;riph&eacute;riques de
+  s&eacute;curit&eacute; de la m&ecirc;me mani&egrave;re qu'un pilote logiciel
+  contr&ocirc;le un p&eacute;riph&eacute;rique externe tel qu'une imprimante ou
+  un modem. Si vous installez une carte &agrave; puce, vous devez installer le
+  module PKCS #11 pour carte &agrave; puce sur l'ordinateur et connecter le
+  lecteur de carte &agrave; puce.</p>
+
+  <p>Par d&eacute;faut, le gestionnaire de p&eacute;riph&eacute;riques
+  contr&ocirc;le 2 modules internes PKCS #11 qui g&egrave;rent 3
+  p&eacute;riph&eacute;riques de s&eacute;curit&eacute;&nbsp;:</p>
+
+  <dl>
+    <dt>Module interne PKCS #11 de &brandShortName;&nbsp;:</dt>
+
+    <dd>
+      Contr&ocirc;le 2 p&eacute;riph&eacute;riques de
+      s&eacute;curit&eacute;&nbsp;:
+
+      <dl>
+        <dt>Services g&eacute;n&eacute;riques de cryptographie&nbsp;:</dt>
+
+        <dd>Un p&eacute;riph&eacute;rique sp&eacute;cial de
+        s&eacute;curit&eacute; qui effectue toutes les op&eacute;rations
+        cryptographiques requises par le module interne PKCS #11 de
+        &brandShortName;.</dd>
+
+        <dt>P&eacute;riph&eacute;rique de s&eacute;curit&eacute;
+        logiciel&nbsp;:</dt>
+
+        <dd>Stocke vos certificats et cl&eacute;s qui ne sont pas
+        stock&eacute;es sur un p&eacute;riph&eacute;rique de
+        s&eacute;curit&eacute; externe, ainsi que tout certificat d'AC
+        install&eacute; en plus de ceux fournis par le navigateur.</dd>
+      </dl>
+    </dd>
+
+    <dt>Module racine interne&nbsp;:</dt>
+
+    <dd>Contr&ocirc;le un p&eacute;riph&eacute;rique de s&eacute;curit&eacute;
+    sp&eacute;cial appel&eacute; <q>Jeton objet interne</q>. Ce jeton stocke
+    les <a href="glossary.xhtml#ca_certificate" class="glossary">certificats
+    d'AC</a> par d&eacute;faut fournis avec le navigateur.</dd>
+  </dl>
+
+  <p>[&nbsp;<a href="#managing_smart_cards_and_other_security_devices">Retour au
+  d&eacute;but de la section</a>&nbsp;]</p>
+
+  <h3 id="using_security_devices">Utiliser les p&eacute;riph&eacute;riques
+  de s&eacute;curit&eacute;</h3>
+
+  <p>Le gestionnaire de p&eacute;riph&eacute;riques vous permet de faire des
+  actions sur les p&eacute;riph&eacute;riques de s&eacute;curit&eacute;. Pour
+  ouvrir le gestionnaire de p&eacute;riph&eacute;riques, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&Eacute;dition</span></q>
+    et s&eacute;lectionnez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>Confidentialit&eacute; et
+    s&eacute;curit&eacute;</q>, choisissez <q>Certificats</q>. Si aucune
+    sous-cat&eacute;gorie n'est visible, double-cliquez sur la cat&eacute;gorie
+    <q>Confidentialit&eacute; et s&eacute;curit&eacute;</q> pour
+    d&eacute;velopper la liste.</li>
+
+    <li>Cliquez sur <q>Gestion des p&eacute;riph&eacute;riques de
+    s&eacute;curit&eacute;&hellip;</q>.</li>
+  </ol>
+
+  <p>Le gestionnaire de p&eacute;riph&eacute;riques liste en gras tous les
+  modules PKCS #11 disponibles. Les p&eacute;riph&eacute;riques de
+  s&eacute;curit&eacute; g&eacute;r&eacute;s par chaque module sont visibles
+  sous le nom de chaque module.</p>
+
+  <p>Quand vous s&eacute;lectionnez un p&eacute;riph&eacute;rique de
+  s&eacute;curit&eacute;, des informations apparaissent au milieu de la
+  fen&ecirc;tre du gestionnaire de p&eacute;riph&eacute;riques. De plus,
+  certains boutons sur la droite de la fen&ecirc;tre deviennent disponibles.
+  Par exemple, si vous s&eacute;lectionnez le p&eacute;riph&eacute;rique de
+  s&eacute;curit&eacute; logiciel, vous pouvez effectuer les actions
+  suivantes&nbsp;:</p>
+
+  <ul>
+    <li>Cliquez sur <q>Connexion</q> ou <q>D&eacute;connexion</q> pour
+    connecter/d&eacute;connecter le p&eacute;riph&eacute;rique de
+    s&eacute;curit&eacute; logiciel. Si vous le connectez, il vous sera
+    demand&eacute; de fournir le mot de passe principal du
+    p&eacute;riph&eacute;rique. Vous devez &ecirc;tre connect&eacute; &agrave;
+    un p&eacute;riph&eacute;rique de s&eacute;curit&eacute; avant de pouvoir
+    l'utiliser avec votre navigateur pour fournir des services de
+    cryptographie.</li>
+
+    <li>Cliquez sur <q>Changer le mot de passe</q> pour changer le mot de passe
+    principal du p&eacute;riph&eacute;rique.</li>
+  </ul>
+
+  <p>Vous pouvez effectuer ces op&eacute;rations sur la plupart des
+  p&eacute;riph&eacute;riques de s&eacute;curit&eacute;. Toutefois, vous ne
+  pouvez pas ex&eacute;cuter ces actions sur le jeton objet interne ou les
+  services g&eacute;n&eacute;riques de cryptographie, qui sont des
+  p&eacute;riph&eacute;riques sp&eacute;ciaux devant &ecirc;tre disponibles en
+  permanence.</p>
+
+  <p>Pour plus de d'informations, voir la section <a href=
+  "certs_help.xhtml#device_manager">Gestionnaire de p&eacute;riph&eacute;rique
+  de s&eacute;curit&eacute;</a>.</p>
+
+  <p>[&nbsp;<a href="#managing_smart_cards_and_other_security_devices">Retour au
+  d&eacute;but de la section</a>&nbsp;]</p>
+
+  <h3 id="using_security_modules">Utiliser les modules de
+  s&eacute;curit&eacute;</h3>
+
+  <p>Si vous voulez utiliser une carte &agrave; puce ou tout autre
+  p&eacute;riph&eacute;rique de s&eacute;curit&eacute; externe, vous devez
+  d'abord installer le module logiciel sur votre ordinateur. Suivez les
+  instructions fournies avec le mat&eacute;riel.</p>
+
+  <p>Apr&egrave;s avoir install&eacute; un nouveau module sur l'ordinateur,
+  suivez les &eacute;tapes suivantes pour le charger&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&Eacute;dition</span></q>
+    et s&eacute;lectionnez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>Confidentialit&eacute; et
+    s&eacute;curit&eacute;</q>, choisissez <q>Certificats</q>. Si aucune
+    sous-cat&eacute;gorie n'est visible, double-cliquez sur la cat&eacute;gorie
+    <q>Confidentialit&eacute; et s&eacute;curit&eacute;</q> pour
+    d&eacute;velopper la liste.</li>
+
+    <li>Cliquez sur <q>Gestion des p&eacute;riph&eacute;riques de
+    s&eacute;curit&eacute;&hellip;</q>.</li>
+
+    <li>Cliquez sur <q>Charger</q>.</li>
+
+    <li>Dans la bo&icirc;te de dialogue <q>Charger un module PKCS #11</q>,
+    cliquez sur le bouton <q>Explorer</q>, cherchez le fichier module puis
+    cliquez sur <q>Ouvrir</q>.</li>
+
+    <li>Remplissez le champ <q>Nom du module</q> avec le nom du module puis
+    cliquez sur <q>OK</q>.</li>
+  </ol>
+
+  <p>Le nouveau module sera ensuite visible dans la liste des modules avec le
+  nom que vous lui avez assign&eacute;.</p>
+
+  <p>Pour d&eacute;charger un module PKCS #11, s&eacute;lectionnez-le en
+  cliquant sur son nom puis en cliquant sur <q>D&eacute;charger</q>.</p>
+
+  <p>[&nbsp;<a href="#managing_smart_cards_and_other_security_devices">Retour au
+  d&eacute;but de la section</a>&nbsp;]</p>
+
+  <h3 id="enable_fips_mode">Activer le mode FIPS</h3>
+
+  <p>Le <q>Federal Information Processing Standards Publications (FIPS PUBS)
+  140-1</q> est un standard du gouvernement am&eacute;ricain pour
+  l'impl&eacute;mentation de modules cryptographiques &ndash;
+  c'est-&agrave;-dire, du mat&eacute;riel ou un logiciel qui
+  chiffre/d&eacute;chiffre des donn&eacute;es ou effectue d'autres
+  op&eacute;rations cryptographiques (telles que cr&eacute;er ou
+  v&eacute;rifier des signatures num&eacute;riques). De nombreux produits
+  vendus au gouvernement am&eacute;ricain doivent &ecirc;tre compatibles avec
+  un ou plusieurs standards FIPS.</p>
+
+  <p>Pour activer le mode FIPS du navigateur, vous devez utiliser le
+  gestionnaire de p&eacute;riph&eacute;riques&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&Eacute;dition</span></q>
+    et s&eacute;lectionnez <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>Confidentialit&eacute; et
+    s&eacute;curit&eacute;</q>, choisissez <q>Certificats</q>. Si aucune
+    sous-cat&eacute;gorie n'est visible, double-cliquez sur
+    <q>Confidentialit&eacute; et s&eacute;curit&eacute;</q> pour
+    d&eacute;velopper la liste.</li>
+
+    <li>Cliquez sur le bouton <q>Gestion des p&eacute;riph&eacute;riques de
+    s&eacute;curit&eacute;&hellip;</q>.</li>
+
+    <li>Cliquez sur le bouton <q>Activer FIPS</q>. D&egrave;s qu'il est
+    activ&eacute;, le nom Module PKCS #11 NSS interne change en Module PKCS #11
+    FIPS NSS interne et le bouton <q>Activer FIPS</q> se change en
+    <q>D&eacute;sactiver FIPS</q>.</li>
+  </ol>
+
+  <p>Pour d&eacute;sactiver le mode FIPS, cliquez sur <q>D&eacute;sactiver
+  FIPS</q>.</p>
+
+  <p>[&nbsp;<a href="#managing_smart_cards_and_other_security_devices">Retour au
+   d&eacute;but de la section</a>&nbsp;]</p>
+
+  <h2 id="managing_ssl_warnings_and_settings">G&eacute;rer les avertissements
+  et les param&egrave;tres SSL</h2>
+
+  <p>Le protocole <acronym title="Secure Sockets Layer">SSL</acronym> permet
+  &agrave; votre ordinateur d'&eacute;changer des informations avec d'autres
+  ordinateurs sur Internet de mani&egrave;re chiffr&eacute;e &ndash;
+  c'est-&agrave;-dire que les informations sont brouill&eacute;es durant le
+  transfert, ainsi personne ne peut les conna&icirc;tre. SSL est aussi
+  utilis&eacute; pour identifier des ordinateurs sur Internet par
+  l'interm&eacute;diaire des <a href="glossary.xhtml#certificate" class=
+  "glossary">certificats</a>.</p>
+
+  <p>Le Protocole de Transport S&eacute;curis&eacute; <acronym title=
+  "Transport Layer Security">TLS</acronym> est un nouveau standard bas&eacute;
+  sur SSL. Par d&eacute;faut, le navigateur supporte &agrave; la fois SSL et
+  TLS. Cette approche fonctionne pour la plupart des gens, parce qu'elle
+  garantit que le navigateur fonctionnera avec tous les logiciels sur Internet
+  supportant l'une des versions de SSL ou TLS.</p>
+
+  <p>Toutefois, dans certaines circonstances, l'administrateur syst&egrave;me
+  ou d'autres personnes responsables peuvent souhaiter ajuster les
+  param&egrave;tres SSL &agrave; leurs besoins sp&eacute;cifiques ou pour
+  &eacute;viter certains bogues dans des logiciels anciens.</p>
+
+  <p>Vous ne devriez pas modifier les param&egrave;tres SSL de votre navigateur
+  sans savoir ce que vous faites ou sans assistance d'une personne
+  comp&eacute;tente. Si vous avez besoin de changer les param&egrave;tres pour
+  une raison ou une autre, suivez les &eacute;tapes suivantes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&Eacute;dition</span></q>
+    et s&eacute;lectionner <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>Confidentialit&eacute; et
+    s&eacute;curit&eacute;</q>, s&eacute;lectionnez <q>SSL</q>. Si aucune
+    sous-cat&eacute;gorie n'est visible, double-cliquez sur
+    <q>Confidentialit&eacute; et s&eacute;curit&eacute;</q> pour
+    d&eacute;velopper la liste.</li>
+  </ol>
+
+  <p>Pour plus d'informations, voir la section <a href=
+  "ssl_help.xhtml">Pr&eacute;f&eacute;rences de SSL</a>.</p>
+
+  <p>[&nbsp;<a href="#using_certificates">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+
+  <h2 id="controlling_validation">G&eacute;rer les param&egrave;tres de
+  validation</h2>
+
+  <p>Un certificat est une forme d'identification, comme l'est un permis de
+  conduire, que vous pouvez utiliser pour vous identifier sur Internet et
+  d'autres r&eacute;seaux (voir la section <a href="#getting_your_own_certificate">Obtenir
+  votre propre certificat</a>). Cependant, comme un permis de conduire, un
+  certificat peut expirer ou devenir invalide pour une raison ou une autre. Par
+  cons&eacute;quent, il faut que votre navigateur obtienne une confirmation de
+  la validit&eacute; de tout certificat avant de pouvoir l'utiliser pour
+  l'identification.</p>
+
+  <p>Cette section d&eacute;crit comment le gestionnaire de certificats valide
+  les certificats et comment contr&ocirc;ler ces &eacute;tapes. Pour comprendre
+  son fonctionnement, vous devez d&eacute;j&agrave; &ecirc;tre
+  familiaris&eacute; avec la <a href="glossary.xhtml#public-key_cryptography"
+  class="glossary">cryptographie &agrave; cl&eacute;s publiques</a>. Vous devez
+  aussi savoir utiliser les certificats. Consultez votre administrateur
+  syst&egrave;me avant tout changement dans les param&egrave;tres de validation
+  des certificats de votre navigateur.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#how_certificate_validation_works">Comment fonctionne la
+      validation des certificats</a></li>
+
+      <li><a href="#managing_crls">G&eacute;rer les LCR</a></li>
+
+      <li><a href="#configuring_ocsp">Configurer le gestionnaire de certificats
+      pour utiliser l'OCSP</a></li>
+
+      <li><a href=
+      "validation_help.xhtml">Pr&eacute;f&eacute;rences de validation</a></li>
+    </ul>
+  </div>
+
+
+  <h3 id="how_certificate_validation_works">Comment fonctionne la validation
+  des certificats</h3>
+
+  <p>De nombreuses &eacute;tapes sont n&eacute;cessaires pour v&eacute;rifier
+  un certificat enregistr&eacute; par le gestionnaire de certificats, lorsque
+  vous voulez l'utiliser ou l'examiner. Le gestionnaire v&eacute;rifie au moins
+  que la signature num&eacute;rique d'AC contenue dans le certificat a bien
+  &eacute;t&eacute; cr&eacute;&eacute;e par cette AC et que&nbsp;:</p>
+
+  <ol>
+    <li>elle est pr&eacute;sente dans la liste des certificats d'AC du
+    gestionnaire de certificats&nbsp;;</li>
+
+    <li>elle est marqu&eacute;e comme &eacute;tant de confiance pour effectuer
+    le type d'op&eacute;rations auquel le certificat est destin&eacute;.</li>
+  </ol>
+
+  <p>Si le certificat d'AC n'est pas pr&eacute;sent, la <a href=
+  "glossary.xhtml#certificate_chain" class="glossary">cha&icirc;ne de
+  certification</a> du certificat d'AC doit comporter un certificat d'AC de
+  plus haut niveau et celui-ci doit &ecirc;tre pr&eacute;sent et de confiance.
+  Le gestionnaire de certificats v&eacute;rifie aussi que ce certificat n'a pas
+  &eacute;t&eacute; marqu&eacute; comme refus&eacute; dans le
+  d&eacute;p&ocirc;t de certificats. Si l'une de ces v&eacute;rifications
+  &eacute;choue, le gestionnaire de certificat marque ce certificat comme non
+  v&eacute;rifi&eacute; et ne reconna&icirc;t pas l'identit&eacute; qui le
+  certifie.</p>
+
+  <p>Un certificat qui r&eacute;ussit tous ces tests peut encore &ecirc;tre
+  compromis&nbsp;; par exemple, on a pu r&eacute;voquer le certificat parce
+  qu'une personne non autoris&eacute;e a eu acc&egrave;s &agrave; la cl&eacute;
+  priv&eacute;e correspondant &agrave; la cl&eacute; publique du certificat. Un
+  certificat compromis permet &agrave; une personne non autoris&eacute;e (ou un
+  site Web) de pr&eacute;tendre &ecirc;tre le propri&eacute;taire du
+  certificat.</p>
+
+  <p>Une mani&egrave;re de se prot&eacute;ger de cette menace est que le
+  gestionnaire de certificats v&eacute;rifie la liste des certificats
+  r&eacute;voqu&eacute;s (LCR) r&eacute;guli&egrave;rement (voir
+  <a href="#managing_crls">Gestion des LCR</a>, ci-dessous). Typiquement, vous
+  pouvez t&eacute;l&eacute;charger une LCR dans votre navigateur en cliquant
+  sur un lien. Si une LCR est pr&eacute;sente, le gestionnaire de certificat
+  v&eacute;rifie tous les certificats provenant de la m&ecirc;me AC en
+  comparant avec la liste dans le processus de v&eacute;rification.</p>
+
+  <p>La fiabilit&eacute; des LCR d&eacute;pend de la fr&eacute;quence des mises
+  &agrave; jour du serveur et des mises &agrave; jour par le client. Vous
+  pouvez configurer vos <a href=
+  "validation_help.xhtml#automatic_crl_update_preferences">pr&eacute;f&eacute;rences de
+  mises &agrave; jour automatiques</a> pour qu'une LCR soit mise &agrave; jour
+  automatiquement &agrave; intervalles r&eacute;guliers.</p>
+
+  <p>Un autre moyen pour combattre cette menace est d'utiliser un serveur
+  sp&eacute;cial qui supporte l'<acronym title=
+  "Online Certificate Status Protocol">OCSP</acronym>. Un tel serveur peut
+  r&eacute;pondre aux requ&ecirc;tes des clients sur chacun des certificats
+  (voir la section <a href="#configuring_ocsp">Configurer le gestionnaire de
+  certificats pour utiliser l'OCSP</a>, ci-dessous).</p>
+
+  <p>Le serveur qu'on appelle le r&eacute;pondant OCSP re&ccedil;oit
+  r&eacute;guli&egrave;rement des mises &agrave; jour de LCR provenant des AC
+  qui ont &eacute;mis ces certificats. Vous pouvez configurer le gestionnaire
+  de certificats pour soumettre une requ&ecirc;te &agrave; un r&eacute;pondant
+  OCSP sur l'&eacute;tat d'un certificat. Le r&eacute;pondant OCSP confirme
+  alors si oui ou non le certificat est valide.</p>
+
+  <p>[&nbsp;<a href="#controlling_validation">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h3 id="managing_crls">Gestion des LCR</h3>
+
+  <p>Une liste de certificats r&eacute;voqu&eacute;s (LCR) est une liste de
+  certificats devenus invalides. Une <a href=
+  "glossary.xhtml#certificate_authority" class="glossary">autorit&eacute; de
+  certification (AC)</a> peut vouloir r&eacute;voquer un certificat, par
+  exemple, s'il a &eacute;t&eacute; modifi&eacute; d'une fa&ccedil;on ou d'une
+  autre &ndash; un peu comme une compagnie de cartes de cr&eacute;dit
+  r&eacute;voque votre carte de cr&eacute;dit lorsque vous la d&eacute;clarez
+  vol&eacute;e ou perdue.</p>
+
+  <p>Cette section explique comment importer et g&eacute;rer les LCR. Pour plus
+  d'informations techniques, voir la section <a href=
+  "#how_certificate_validation_works">Comment fonctionne la validation</a>.</p>
+
+  <p>Pour des informations plus d&eacute;taill&eacute;es sur les
+  pr&eacute;f&eacute;rences des LCR que vous pouvez contr&ocirc;ler, voir la
+  section <a href="validation_help.xhtml">Pr&eacute;f&eacute;rences de
+  validation</a>.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#about_the_next_update_date">&Agrave; propos de la date de
+      prochaine mise &agrave; jour</a></li>
+
+      <li><a href="#importing_crls">Importer des LCR</a></li>
+
+      <li><a href="#viewing_and_managing_crls">Voir et g&eacute;rer les
+      LCR</a></li>
+    </ul>
+  </div>
+
+
+  <h4 id="about_the_next_update_date">&Agrave; propos de la date de prochaine
+  mise &agrave; jour</h4>
+
+  <p>Le navigateur utilise les LCR qu'il a activ&eacute;es pour v&eacute;rifier
+  la validit&eacute; des certificats &eacute;mis par les AC correspondantes. Si
+  un certificat est list&eacute; comme r&eacute;voqu&eacute;, le navigateur ne
+  l'acceptera pas comme source s&ucirc;re d'identification.</p>
+
+  <p>Une AC publie normalement une LCR mise &agrave; jour &agrave; intervalles
+  r&eacute;guliers. Chaque LCR inclut une date, sp&eacute;cifi&eacute;e dans le
+  champ <q>Prochaine mise &agrave; jour</q>, &agrave; laquelle l'AC publiera
+  une prochaine mise &agrave; jour de sa LCT. En g&eacute;n&eacute;ral, si la
+  date de la prochaine mise &agrave; jour est plus r&eacute;cente que la date
+  courante, vous devriez pouvoir obtenir la derni&egrave;re version de cette
+  LCR.</p>
+
+  <p>Pour voir les informations de la LCR et configurer la mise &agrave; jour
+  automatique, voir la section <a href="#viewing_and_managing_crls">Voir et
+  g&eacute;rer les LCR</a>.</p>
+
+  <p>Les AC doivent produire une nouvelle LCR &agrave; la date de prochaine
+  mise &agrave; jour. N&eacute;anmoins, l'absence de la LCR la plus
+  r&eacute;cente n'invalide pas un certificat. Pour cette raison, si la plus
+  r&eacute;cente LCR n'est pas accessible, un certificat sera valid&eacute;
+  jusqu'&agrave; ce que la plus r&eacute;cente LCR le montre comme
+  expir&eacute;. La mise &agrave; jour automatique de la LCR peut donc
+  rem&eacute;dier &agrave; cette situation.</p>
+
+  <h4 id="importing_crls">Importer les LCR</h4>
+
+  <p>Vous pouvez importer la derni&egrave;re LCR d'une AC dans votre
+  navigateur. Pour importer une LCR, faites comme ceci&nbsp;:</p>
+
+  <ol>
+    <li>Allez &agrave; l'adresse sp&eacute;cifi&eacute;e par l'AC ou par votre
+    administrateur syst&egrave;me et cliquez sur le lien de la LCR que vous
+    voulez importer.
+
+      <p>La bo&icirc;te de dialogue <q>Statut d'importation</q>
+      appara&icirc;t.</p>
+    </li>
+
+    <li>Confirmez que la LCR a bien &eacute;t&eacute; import&eacute;e, et que
+    c'est celle que vous vouliez. Dans la plupart des cas, cliquez sur
+    <q>Oui</q>, ce qui active la mise &agrave; jour automatique de la LCR que
+    vous venez juste d'importer.</li>
+
+    <li>La prochaine &eacute;tape diff&egrave;re selon que vous cliquiez
+    <q>Oui</q> ou <q>Non</q> dans la bo&icirc;te de dialogue <q>Statut
+    d'importation</q>&nbsp;:
+
+      <dl>
+        <dt>Oui&nbsp;:</dt>
+
+        <dd>La bo&icirc;te de dialogue des pr&eacute;f&eacute;rences de mise
+        &agrave; jour automatique de la LCR appara&icirc;t. Dans ce cas, allez
+        &agrave; l'&eacute;tape 4.</dd>
+
+        <dt>Non&nbsp;:</dt>
+
+        <dd>La bo&icirc;te de dialogue <q>Statut d'importation</q> se ferme. Si
+        vous changez d'avis, et d&eacute;cidez d'activer la mise &agrave; jour
+        automatique, lisez <a href="#viewing_and_managing_crls">Voir et
+        g&eacute;rer les LCR</a>.</dd>
+      </dl>
+    </li>
+
+    <li>S&eacute;lectionnez l'option <q>Activer</q> la mise &agrave; jour
+    automatique pour cette LCR.</li>
+
+    <li>Configurez la mise &agrave; jour automatique&nbsp;:
+
+      <dl>
+        <dt>Mettre &agrave; jour __ jour(s) avant la date de prochaine mise
+        &agrave; jour&nbsp;:</dt>
+
+        <dd>Choisissez cette option si vous souhaitez baser la fr&eacute;quence
+        de mise &agrave; jour sur la fr&eacute;quence &agrave; laquelle
+        l'&eacute;diteur de la LCR pr&eacute;voit de publier une nouvelle
+        LCR.</dd>
+
+        <dt>Mettre &agrave; jour chaque __ jour(s)&nbsp;:</dt>
+
+        <dd>Choisissez cette option si vous souhaitez d&eacute;finir un
+        intervalle sp&eacute;cifique de mise &agrave; jour ind&eacute;pendant
+        de la date de prochaine mise &agrave; jour donn&eacute;e par la
+        LCR.</dd>
+      </dl>
+    </li>
+
+    <li>Cliquez sur <q>OK</q> pour confirmer vos choix.</li>
+  </ol>
+
+  <h4 id="viewing_and_managing_crls">Voir et g&eacute;rer les LCR</h4>
+
+  <p>Les param&egrave;tres qui contr&ocirc;lent les LCR se trouvent dans les
+  <a href="validation_help.xhtml">pr&eacute;f&eacute;rences de validation</a>.
+  Pour les afficher, faites ce qui suit&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrir le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&Eacute;dition</span></q>
+    et s&eacute;lectionner <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>Confidentialit&eacute; et
+    s&eacute;curit&eacute;</q>, choisissez <q>Validation</q>. Si aucune
+    sous-cat&eacute;gorie n'est visible, double-cliquez sur la cat&eacute;gorie
+    <q>Confidentialit&eacute; et s&eacute;curit&eacute;</q> pour
+    d&eacute;velopper la liste.</li>
+
+    <li>Cliquez sur <q>Gestion des LCR&hellip;</q> dans le panneau de validation
+    pour voir une liste des LCR accessibles par le gestionnaire de
+    certificats.</li>
+  </ol>
+
+  <p>Pour effacer ou mettre &agrave; jour une LCR, s&eacute;lectionnez-la et
+  cliquez sur le bon bouton.</p>
+
+  <p>Pour configurer une mise &agrave; jour automatique pour une LCR,
+  s&eacute;lectionnez-la et cliquez sur <q>Param&egrave;tres</q>. La
+  bo&icirc;te de dialogue des pr&eacute;f&eacute;rences de mise &agrave; jour
+  automatique appara&icirc;t&nbsp;:</p>
+
+  <ol>
+    <li>S&eacute;lectionnez l'option <q>Activer</q> la mise &agrave; jour
+    automatique pour cette LCR.</li>
+
+    <li>Configurez la mise &agrave; jour automatique&nbsp;:
+
+      <dl>
+        <dt>Mise &agrave; jour __ jour(s) avant la date de prochaine mise
+        &agrave; jour&nbsp;:</dt>
+
+        <dd>Choisissez cette option si vous souhaitez baser la fr&eacute;quence
+        de mise &agrave; jour sur la fr&eacute;quence &agrave; laquelle
+        l'&eacute;diteur de la LCR pr&eacute;voit de publier une nouvelle
+        LCR.</dd>
+
+        <dt>Mettre &agrave; jour chaque __ jour(s)&nbsp;:</dt>
+
+        <dd>Choisissez cette option si vous souhaitez d&eacute;finir un
+        intervalle sp&eacute;cifique de mise &agrave; jour ind&eacute;pendant
+        de la date de prochaine mise &agrave; jour donn&eacute;e par la
+        LCR.</dd>
+      </dl>
+    </li>
+
+    <li>Cliquez sur <q>OK</q> pour confirmer vos choix.</li>
+  </ol>
+
+  <p>[&nbsp;<a href="#controlling_validation">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h3 id="configuring_ocsp">Configurer l'OCSP</h3>
+
+  <p>Les param&egrave;tres qui contr&ocirc;lent l'OCSP font partie des
+  pr&eacute;f&eacute;rences de Validation. Pour afficher les
+  pr&eacute;f&eacute;rences de Validation, ex&eacute;cutez les &eacute;tapes
+  suivantes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrir le menu <q><span class="mac">SeaMonkey</span><span
+    class="noMac">&Eacute;dition</span></q>
+    et s&eacute;lectionner <q>Pr&eacute;f&eacute;rences&hellip;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>Confidentialit&eacute; et
+    s&eacute;curit&eacute;</q>, s&eacute;lectionner <q>Validation</q>. Si
+    aucune sous-cat&eacute;gorie n'est visible, double-cliquez sur
+    <q>Confidentialit&eacute; et s&eacute;curit&eacute;</q> pour
+    d&eacute;velopper la liste.</li>
+  </ol>
+
+  <p>Pour obtenir des informations sur les options OCSP disponibles, voir la
+  section <a href="validation_help.xhtml#ocsp">OCSP</a>.</p>
+
+  <p>[&nbsp;<a href="#controlling_validation">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Derni&egrave;re traduction&nbsp;: 28 janvier 2006</em></p>
+
+    <p>Ce texte a &eacute;t&eacute; traduit et adapt&eacute; par une
+    &eacute;quipe internationale de b&eacute;n&eacute;voles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net" hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

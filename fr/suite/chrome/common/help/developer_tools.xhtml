@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % venkman-overlayDTD SYSTEM "chrome://venkman/locale/venkman-overlay.dtd" >
+  %venkman-overlayDTD;
+  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
+  %tasksOverlayDTD;
+  <!ENTITY % inspectorDTD SYSTEM "chrome://inspector/locale/inspector.dtd" >
+  %inspectorDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>Outils et d&eacute;veloppement de &brandShortName;</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css"/>
+</head>
+
+<body>
+  <h1 id="web_development_tools">Outils de d&eacute;veloppement Web</h1>
+
+  <p>&brandShortName; offre aux d&eacute;veloppeurs Web un certain nombre d'outils
+  utiles lors du d&eacute;veloppement et du d&eacute;bogage d'un projet Web.
+  Leur installation peut &ecirc;tre optionnelle. Pour acc&eacute;der &agrave;
+  ces outils, ouvrez le menu <q>Outils</q> et choisissez
+  <q>D&eacute;veloppement Web</q>.</p>
+
+  <ul class="separate">
+    <li id="js_console">
+      <strong>&errorConsoleCmd.label;</strong>&nbsp;: La console affiche les
+      alertes, erreurs et autres messages concernant le code <a href="glossary.xhtml#javascript">JavaScript</a> et les feuilles de style
+      CSS des pages ou applications Web, ainsi que sur &brandShortName; lui-même.
+      Par défaut, les erreurs d'interprétation CSS et les erreurs JavaScript sont
+      affichées. La console peut également être utilisée pour afficher des
+      messages concernant les codes <a href="glossary.xhtml#xul"
+      class="glossary"> XUL</a> et JavaScript.
+
+      <p>Ressources Web&nbsp;:</p>
+
+      <ul>
+        <li><a href="http://mozinet.free.fr/moz/fcn/tester_deboguer.html"
+        hreflang="fr">Utiliser &brandShortName; pour tester et d&eacute;boguer les
+        sites Web</a>, par <a href="http://mozinet.free.fr">Mozinet</a>.</li>
+      </ul>
+    </li>
+
+    <li id="inspector">
+      <strong>&Inspector.title;</strong>&nbsp;: Cet outil sert
+      &agrave; v&eacute;rifier et &agrave; &eacute;diter le <acronym title=
+      "Document Object Model">DOM</acronym> des documents Web ainsi que des
+      applications <acronym title="XML User Interface Language">XUL</acronym>.
+
+      <p>Ressources Web&nbsp;:</p>
+
+      <ul>
+        <li><a href="http://www.brownhen.com/DI/" hreflang=
+        "en">Introduction to the DOM Inspector</a> (Ian Oeschger)&nbsp;;</li>
+
+        <li><a href="http://www.mozilla.org/projects/inspector/faq.html"
+        hreflang="en">DOM Inspector FAQ</a> (<a href="http://mozilla.org"
+        hreflang="en">mozilla.org</a>)&nbsp;;</li>
+
+        <li><a href="http://mozfr.mozdev.org/docs/startpage-1.0/dom-guide.html"
+        hreflang="fr">Petit guide d'initiation &agrave; l'Inspecteur
+        DOM</a>&nbsp;;</li>
+
+        <li>Creating Applications with Mozilla - Appendix B3&nbsp;: <a href=
+        "http://books.mozdev.org/html/mozilla-app-b-sect-3.html" hreflang=
+        "en">The DOM Inspector</a>.</li>
+      </ul>
+    </li>
+
+    <li id="venkman">
+      <strong>&venkmanCmd.label;</strong>&nbsp;: &Eacute;galement
+      connu sous le nom de <q>Venkman</q>, cet utilitaire vous permet de
+      d&eacute;boguer le JavaScript de vos projets Web depuis &brandShortName;. Il
+      permet l'ex&eacute;cution pas-&agrave;-pas, les points d'arr&ecirc;t et
+      fournit de nombreuses autres fonctionnalit&eacute;s.
+
+      <p>Ressources Web&nbsp;:</p>
+
+      <ul>
+        <li><a href="http://www.mozilla.org/projects/venkman/" hreflang="en">Page
+        du projet Venkman, d&eacute;bogueur de JavaScript</a></li>
+
+        <li><a href="http://www.svendtofte.com/code/learning_venkman/"
+        hreflang="en">Learning the JavaScript debugger Venkman</a> (Svend
+        Tofte)</li>
+
+        <li><a href=
+        "http://www.webreference.com/programming/javascript/venkman/" hreflang=
+        "en">Debugging JavaScript Using Venkman</a> (<a href=
+        "http://www.webreference.com" hreflang="en">webreference.com</a>,
+        articles)</li>
+
+        <li><a href="http://www.hacksrus.com/~ginda/venkman/"
+        hreflang="en">Venkman Development Homepage</a></li>
+      </ul>
+    </li>
+
+    <li id="xul">
+      <strong>D&eacute;veloppement <acronym title="XML User Interface Language">XUL</acronym></strong>&nbsp;:
+      XUL est language dans lequel sont cod&eacute;s les logiciels de la fondation
+      Mozilla ainsi que toutes les extensions disponibles.
+
+      <p>Ressources Web&nbsp;:</p>
+
+      <ul>
+        <li><a href="http://www.xulplanet.com" hreflang="en">XULPlanet</a>, regroupe les r&eacute;f&eacute;ences aux fonctions XUL et tout un ensemble de didacticiels.</li>
+
+        <li><a href="http://developer.mozilla.org/fr/docs/Accueil" hreflang="fr">Mozilla Developer Center</a>, XUL, XSL, CSS, XPCOM, JavaScript, documentation sur la compilation, sur les extensions, sur les th&egrave;mes, etc. Tous ce que vous avez toujours voulu savoir sur les technologies Mozilla sans jamais oser le demander.</li>
+
+        <li><a href="http://www.xulfr.org" hreflang="fr">XULfr.org</a>, le site de r&eacute;f&eacute;ence francophone. XULfr regroupe l'ensemble des traductions du site anglais XULPlanet.</li>
+
+        <li><a href="http://www.xulfr.org/forums/" hreflang="fr">Les forums
+        XULfr.org</a>, pour poser vos questions &agrave; propos du
+        d&eacute;veloppement d'extensions ou d'applications XUL.</li>
+
+      </ul>
+    </li>
+  </ul>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Derni&egrave;re r&eacute;vision&nbsp;: 1er novembre 2007</em></p>
+
+    <p>Ce texte a &eacute;t&eacute; traduit et adapt&eacute; par une
+    &eacute;quipe internationale de b&eacute;n&eacute;voles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

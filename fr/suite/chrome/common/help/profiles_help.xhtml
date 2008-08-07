@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
+  %preftreeDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
+  %tasksOverlayDTD;
+  <!ENTITY % contentAreaCommandsDTD SYSTEM "chrome://communicator/locale/contentAreaCommands.dtd" >
+  %contentAreaCommandsDTD;
+  <!ENTITY % profileSelectionDTD SYSTEM "chrome://communicator/locale/profile/profileSelection.dtd" >
+  %profileSelectionDTD;
+  <!ENTITY % createProfileWizardDTD SYSTEM "chrome://mozapps/locale/profile/createProfileWizard.dtd" >
+  %createProfileWizardDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>Gestion des profils</title>
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+</head>
+
+<body>
+
+  <h1 id="managing_profiles">Gestion des profils</h1>
+
+  <p>Si vous utilisez Internet chez vous et au travail, vous souhaiterez
+  peut-être accéder à différents jeux de
+  marque-pages, préférences, carnets d'adresses, comptes de
+  messagerie, configuration de barre latérale, etc. De même, les
+  différents membres de votre famille peuvent vouloir partager une copie
+  du même navigateur, mais conserver leurs identités Internet
+  séparées.</p>
+
+  <p>Le gestionnaire de profils permet de créer différents
+  profils, chacun avec ses propres marque-pages, préférences,
+  paramètres de messagerie, etc. Un profil par défaut est
+  créé automatiquement lors de la première installation de
+  votre logiciel de navigation. Après avoir créé un ou
+  plusieurs profils supplémentaires, vous serez invité à
+  préciser celui que vous souhaitez utiliser à chaque
+  démarrage du navigateur.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#creating_a_new_profile">Créer un nouveau profil</a></li>
+
+      <li><a href="#deleting_or_renaming_a_profile">Supprimer ou renommer un
+      profil</a></li>
+<!--      <li><a href="#roaming_profiles">Profils
+      itinérants</a></li>
+      <li><a href="#roaming_prefs">Préférences des
+      profils itinérants</a></li>
+      <li><a href="#roaming_item_selection">Préférences
+      des profils itinérants - Sélection des
+      éléments</a></li> -->
+      <!--<li><a href="#switching_profiles">Changer de profil</a></li>-->
+    </ul>
+  </div>
+
+  <h2 id="creating_a_new_profile">Créer un nouveau profil</h2>
+
+  <p>Pour créer un profil&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le gestionnaire de profils&nbsp;:
+
+      <dl>
+        <dt>Si &brandShortName; est ouvert</dt>
+
+        <dd>Ouvrez le menu <q>&tasksMenu.label;</q> puis sélectionnez
+        <q>&switchProfileCmd.label;</q>.</dd>
+
+        <dt>Si &brandShortName; n'est pas lancé</dt>
+
+        <dd>
+          <p class="win">Sous Microsoft&reg; Windows, ouvrez le menu <q>Démarrer</q>,
+          choisissez <q>Programmes</q>, puis <q>&brandShortName;</q> et
+          sélectionnez <q>Gestionnaire de profils</q>.</p>
+
+          <p class="mac">Sous Mac OS, ouvrez le dossier de &brandShortName;, puis
+          double-cliquez sur <q>Gestionnaire de profils</q>.</p>
+          <p class="mac">Maintenez la touche <kbd>Option</kbd>
+          enfoncée lorsque vous démarrez &brandShortName;
+          à partir du Finder ou du Dock.</p>
+          <p class="unix">Saisissez ce qui suit
+          en ligne de commande&nbsp;: <code>./&brandShortName; -ProfileManager</code></p>
+
+          <p class="unix">Sous Linux ou Unix, dans le répertoire
+          d'installation de &brandShortName;, entrez la commande suivante dans un
+          terminal&nbsp;: <code>./&brandShortName; -ProfileManager</code>.</p>
+        </dd>
+      </dl>
+    </li>
+
+    <li>Cliquez sur <q>&manage.label;</q></li>
+
+    <li>Cliquez sur <q>Créer un profil&hellip;</q>, lisez sa description, puis
+    cliquez sur <q>&goForwardCmd.label;</q>.</li>
+
+    <li>Entrez un nom de profil. Il peut s'agir de votre véritable nom,
+    d'un surnom ou d'un nom associé à l'usage du profil, comme
+    <q>École</q>.</li>
+
+    <li>Acceptez le répertoire par défaut pour le nouveau profil,
+    ou cliquez sur le bouton <q>&button.choosefolder.label;</q> pour choisir un autre
+    répertoire.</li>
+
+<!--    <li>Si des modules linguistiques sont
+    installés, cliquez sur <q>button.langSelection.label</q>
+    et choisissez la langue désiré.</li> -->
+
+    <li>Cliquez sur <q>Terminer</q>.</li>
+  </ol><!--
+<p>Vous revenez alors à l'écran principal du gestionnaire de profils, avec le nouveau profil en surbrillance dans la liste des profils.</p>
+-->
+
+  <p>[&nbsp;<a href="#managing_profiles">Retour au début de la section</a>&nbsp;]</p>
+
+  <h2 id="deleting_or_renaming_a_profile">Supprimer ou renommer un profil</h2>
+
+  <p>Vous souhaitez supprimer des profils que vous n'utilisez plus. Pour
+  supprimer ou renommer un profil&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le gestionnaire de profils&nbsp;:
+
+      <dl>
+        <dt>Si &brandShortName; est ouvert</dt>
+
+        <dd>Ouvrez le menu <q>&tasksMenu.label;</q> puis sélectionnez
+        <q>&switchProfileCmd.label;</q>.</dd>
+
+        <dt>Si &brandShortName; n'est pas lancé</dt>
+
+        <dd>
+          <p class="win">Sous Windows, ouvrez le menu <q>Démarrer</q>,
+          choisissez <q>Programmes</q>, puis <q>&brandShortName;</q> et
+          sélectionnez <q>Gestionnaire de profils</q>.</p>
+
+          <p class="mac">Sous Mac OS, ouvrez le dossier de &brandShortName;, puis
+          double-cliquez sur <q>Gestionnaire de profils</q>.</p>
+          <p class="mac">Maintenez la touche <kbd>Option</kbd>
+          enfoncée lorsque vous démarrez &brandShortName;
+          à partir du Finder ou du Dock.</p>
+          <p class="unix">Saisissez ce qui suit
+          en ligne de commande&nbsp;: <code>./&brandShortName; -profilemanager</code></p>
+
+          <p class="unix">Sous Linux ou Unix, dans le répertoire
+          d'installation de &brandShortName;, entrez la commande suivante dans un
+          terminal&nbsp;: <code>./&brandShortName; -profilemanager</code>.</p>
+        </dd>
+      </dl>
+    </li>
+
+    <li>Cliquez sur <q>&manage.label;</q></li>
+
+    <li>Pour supprimer un profil, sélectionnez son nom, puis cliquez sur
+    <q>Supprimer un profil&hellip;</q>. Dans la boîte de confirmation, choisissez
+    l'une des options suivantes&nbsp;:
+
+      <dl>
+
+        <dt>Supprimer les fichiers&nbsp;:</dt>
+        <dd>Supprime tout le dossier de profil avec ses données stockées
+        (marque-pages, préférences, comptes de courrier, etc.
+        <em>Assurez-vous de ne plus avoir besoin de quoi que ce soit dans le
+        profil avant de choisir cette option.</em></dd>
+
+        <dt>Ne pas supprimer les fichiers&nbsp;:</dt>
+        <dd>Supprime le profil de la liste des profils disponibles mais conserve
+        le répertoire du profil. En choisissant cette option, aucune des
+        données stockées du profil ne sera effacée.</dd>
+      </dl>
+    </li>
+
+    <li>Pour renommer un profil, sélectionnez son nom, cliquez sur
+    <q>Renommer un profil&hellip;</q> et suivez les instructions.</li>
+  </ol>
+
+  <p>[&nbsp;<a href="#managing_profiles">Retour au début de la section</a>&nbsp;]</p>
+
+  <h2 id="switching_profiles">Changer de profil</h2>
+
+  <p>Si vous désirez changer de profil, vous pouvez le faire de deux
+  façons différentes.</p>
+
+  <p>La première consiste à fermer &brandShortName;, à le relancer
+  et à sélectionner un autre profil.</p>
+
+  <p>La seconde ne nécessite pas la fermeture de &brandShortName;.</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&tasksMenu.label;</q> puis sélectionnez
+    <q>&switchProfileCmd.label;</q>.</li>
+
+    <li>Choisissez le nouveau profil à utiliser.</li>
+
+    <li>Cliquez sur <q>&select.label;</q>. &brandShortName; bascule directement
+    vers le nouveau profil.</li>
+  </ol>
+
+  <p>[&nbsp;<a href="#managing_profiles">Retour au début de la
+  section</a>&nbsp;]</p>
+
+<!--  <div class="rediger">
+
+  <h2 id="roaming_profiles">Profils itinérants</h2>
+
+  <p>L'option <q>sroaming-header.label;</q> vous permet de stocker votre
+  profil et les informations associées sur un serveur centralisé
+  ou un partage de fichiers. L'avantage de cette disposition est que votre
+  paramétrage vous suit d'une machine à l'autre. Par exemple,
+  vous pourriez souhaiter utiliser &brandShortName; au travail et à la
+  maison en conservant vos marque-pages, votre carnet d'adresses et vos autres
+  paramètres synchronisés, ou alors une société
+  pourrait souhaiter que ses employés utilisent leur profil
+  &brandShortName; sur n'importe quel ordinateur.</p>
+
+  <p>Les profils itinérants peuvent être stockés sur un
+  serveur HTTP ou FTP. Vous aurez alors besoin d'un nom d'utilisateur et d'un
+  mot de passe pour avoir un accès en écriture sur ce serveur sur
+  le répertoire approprié pour stocker et récupérer
+  votre profil. Ou alors, pour les ordinateurs qui utilisent un partage de
+  fichier commun, vous pouvez stocker le profil sur un répertoire local
+  par copier/coller.</p>
+
+  <p>Quand vous démarrez &brandShortName;, votre profil est
+  téléchargé, et quand vous quittez &brandShortName;,
+  votre profil est mis à jour sur le serveur.</p>
+
+  <p>[&nbsp;<a href="#managing_profiles">Retour au début de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="roaming_prefs">Préférences des profils itinérants</h2>
+
+  <p>Cette section décrit comment utiliser le panneau principal des
+  préférences de profils itinérants. Si vous ne vous y
+  trouvez pas déjà, suivez les étapes suivantes&nbsp;:</p>
+
+<ol>
+  <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+  class="noMac">&editMenu.label;</span></q> et choisissez
+  <q>&preferencesCmd.label;</q>.</li>
+
+  <li>Cliquez sur la catégorie <q>sroaming-header.label;</q>.</li>
+
+  <li>Sélectionnez <q>enabled.label;</q> pour activer le profil
+  itinérant pour le profil en cours d'utilisation.</li>
+
+  <li>Sélectionnez une des options suivantes&nbsp;:
+
+    <dl>
+      <dt>methodStream.label;</dt>
+      <dd>Choisissez ceci si vous souhaitez que vos informations de profil soit
+      copiées sur un serveur FTP ou HTTP.
+
+        <dl>
+          <dt>streamURL.label;</dt>
+          <dd>Saisissez l'URL du répertoire o&ugrave; sera stocké
+          le profil itinérant. Cela peut-être une URL FTP, HTTP ou
+          HTTPS. FTP est probablement plus facile à mettre en
+          &oelig;uvre sur un réseau domestique. Dans les autres cas, et
+          particulièrement lors de la transmission par Internet, il est
+          fortement recommandé d'utiliser HTTPS, car autrement, tous vos
+          mots de passe enregistrés et vos marque-pages (en fonction de
+          votre sélection) pourraient être lus par d'autres
+          personnes sur le réseau.
+
+            <p>Exemples&nbsp;:<br />
+            <kbd>&lt;https://utilisateur@serveur-http/repertoire/&gt;</kbd><br />
+            <kbd>&lt;ftp://utilisateur@serveur-ftp/home/utilisateur/repertoire/&gt;</kbd><br />
+            <kbd>&lt;ftp://utilisateur@serveur-ftp/repertoire/&gt;</kbd></p>
+          </dd>
+
+          <dt>streamUsername.label;</dt>
+          <dd>Saisissez le nom d'utilisateur qui sera utilisé pour
+          accéder au serveur FTP ou HTTP.</dd>
+
+          <dt>streamSavePW.label;</dt>
+          <dd>Activez cette option pour enregistrer le mot de passe pour le nom
+          d'utilisateur que vous avez fourni.</dd>
+
+          <dt>streamPassword.label;</dt>
+          <dd>Saisissez le mot de passe pour le nom d'utilisateur que vous avez
+          fourni.</dd>
+        </dl>
+
+      </dd>
+
+      <dt>methodCopy.label;</dt>
+      <dd>Choisissez ceci (dans la liste déroulante) si vous souhaitez
+      copier le profil sur un répertoire local.
+
+        <ul>
+
+          <li>Cliquez sur le bouton <q>browse.label;</q> et
+          sélectionnez le répertoire o&ugrave; vous souhaitez
+          copier ou récupérer le profil.</li>
+
+        </ul>
+
+      </dd>
+    </dl>
+
+  </li>
+</ol>
+
+  <p>[&nbsp;<a href="#managing_profiles">Retour au début de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="roaming_item_selection">Préférences des profils
+  itinérants - sroamingFiles-header.label;</h2>
+
+  <p>Par défaut, seuls les marque-pages, les cookies et le carnet
+  d'adresses personnelles sont copiés sur le serveur. Si tous les
+  éléments sont grisés, assurez-vous d'avoir activé
+  les profils itinérants. Pour activer ou désactiver les profils
+  itinérants, suivez les étapes suivantes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q> et choisissez
+    <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la catégorie <q>sroaming-header.label;</q>, choisissez
+    <q>sroamingFiles-header.label;</q>. Si aucune sous-catégorie n'est
+    visible, double-cliquez sur <q>sroaming-header.label;</q> pour
+    développer la liste.</li>
+
+    <li>Sélectionnez les éléments que vous souhaitez
+    inclure dans la synchronisation du profil itinérant.</li>
+  </ol>
+
+  <p>Vous ne pouvez pas synchroniser votre courrier local, en partie car cela
+  prendrait trop de temps. Utilisez IMAP si vous voulez le faire.</p>
+
+  <p>Remarque&nbsp;: Si vous utilisez une connexion lente, soyez conscient que
+  certains fichiers peuvent être très gros et que cela aura une
+  conséquence sur la vitesse de démarrage de &brandShortName;.
+  &brandShortName; devra télécharger tous les fichiers que vous
+  avez sélectionnés dans la liste avant d'être totalement
+  opérationnel et devra les enregistrer sur le serveur distant lorsque
+  vous quitterez &brandShortName;.</p>
+
+  <p>Pour plus d'informations sur le paramétrage de l'accès
+  itinérant sur un serveur, consultez le document en ligne <a
+  href="http://www.klomp.org/mod_roaming/" hreflang="en">mod_roaming - Module
+  d'accès itinérant pour Apache</a> ou <a hreflang="en"
+  href="http://web.archive.org/web/20020207131101/http://help.netscape.com/products/client/communicator/manual_roaming2.html">
+  Mettre en œuvre manuellement l'accès itinérant</a>.</p>
+
+  <p>[&nbsp;<a href="#managing_profiles">Retour au début de la
+  section</a>&nbsp;]</p>
+
+</div>  -->
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Dernière révision&nbsp;: 14 juillet 2006</em></p>
+
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

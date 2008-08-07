@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Paramètres pour les indésirables">
+<!ENTITY trainingWarning.label "Quand cette fonctionnalité est activée, vous devez entraîner d'abord &brandShortName; à identifier les courriels indésirables en utilisant le bouton « Indésirables » de la barre d'outils pour marquer les messages comme indésirables ou pas. Vous devez identifier à la fois les courriels indésirables et ceux qui ne le sont pas.">
+<!ENTITY level.label "Activer les contrôles adaptatifs de courriels indésirables pour ce compte">
+<!ENTITY level.accesskey "A">
+
+<!ENTITY move.label "Déplacer les nouveaux courriels indésirables vers :">
+<!ENTITY move.accesskey "D">
+<!ENTITY junkFolderOn.label "Dossier « Indésirables » sur :">
+<!ENTITY junkFolderOn.accesskey "I">
+<!ENTITY otherFolder.label "Autre :">
+<!ENTITY otherFolder.accesskey "u">
+<!ENTITY purge1.label "Supprimer automatiquement les courriels indésirables âgés de plus de ">
+<!ENTITY purge1.accesskey "S">
+<!ENTITY purge2.label "jours">
+
+<!ENTITY whitelist.label "Ne pas marquer les messages comme indésirables si l'expéditeur est dans : ">
+<!ENTITY whitelist.accesskey "N">
+
+<!ENTITY ispHeaders.label "Se fier aux en-têtes de courrier indésirable placés par : ">
+<!ENTITY ispHeaders.accesskey "f">

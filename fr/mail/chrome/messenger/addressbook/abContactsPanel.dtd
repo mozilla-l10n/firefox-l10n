@@ -1,0 +1,19 @@
+
+<!ENTITY addressbookPicker.label            "Carnet d'adresses :">
+<!ENTITY addressbookPicker.accesskey        "C">
+<!ENTITY searchInput.label                  "Chercher :">
+<!ENTITY searchInput.accesskey              "h">
+<!ENTITY SearchNameOrEmail.label            "Nom ou adresse">
+
+<!ENTITY deleteAddrBookCard.label           "Supprimer">
+<!ENTITY addrBookCardProperties.label       "Propriétés">
+<!ENTITY addtoToFieldMenu.label             "Ajouter au champ Pour">
+<!ENTITY addtoCcFieldMenu.label             "Ajouter au champ Copie à">
+<!ENTITY addtoBccFieldMenu.label            "Ajouter au champ Copie cachée à">
+
+<!ENTITY toButton.label                     "Ajout Pour :">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Ajout Copie à :">
+<!ENTITY ccButton.accesskey                 "o">
+<!ENTITY bccButton.label                    "Ajout Copie cachée à :">
+<!ENTITY bccButton.accesskey                "u">

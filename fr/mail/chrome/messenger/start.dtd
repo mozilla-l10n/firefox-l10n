@@ -1,0 +1,32 @@
+<!ENTITY startpage.welcome "Bienvenue dans &brandFullName; !">
+<!ENTITY startpage.intro "&brandFullName; est un client de courrier électronique et groupes de discussion puissant et ouvert.">
+
+<!ENTITY startpage.features "Fonctionnalités">
+
+<!ENTITY startpage.junkControl "Détection du courrier indésirable">
+<!ENTITY startpage.rssReader "Lecteur RSS">
+<!ENTITY startpage.globalInbox "Boîte de réception globale">
+<!ENTITY startpage.searchFolders "Dossiers virtuels">
+<!ENTITY startpage.messageGroups "Groupement de messages">
+<!ENTITY startpage.privacyProtect "Protection de la vie privée">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "Plus d'informations">
+
+<!ENTITY startpage.help "l'aide Thunderbird">
+<!ENTITY startpage.helpInfo "Pour les questions récurrentes, des astuces et de l'aide en général visitez">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+
+<!ENTITY startpage.page "page du projet Thunderbird">
+<!ENTITY startpage.pageInfo "Pour des informations sur le produit, visitez la">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
+<!ENTITY startpage.extra "">
+
+<!ENTITY startpage.poweredByGecko "Propulsé par Gecko.">

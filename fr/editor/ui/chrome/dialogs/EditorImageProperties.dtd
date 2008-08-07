@@ -1,0 +1,105 @@
+<!--
+   - The contents of this file are subject to the Netscape Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/NPL/
+   -  
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   -  
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   - 
+   - The Initial Developer of the Original Code is Netscape
+   - Communications Corporation. Portions created by Netscape are
+   - Copyright (C) 1998-2000 Netscape Communications Corporation. All
+   - Rights Reserved.
+   - 
+   - Contributor(s): 
+  -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Propriétés des images">
+
+<!ENTITY pixelsPopup.value "pixels">
+<!ENTITY percentPopup.value "pourcentage">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "URL de l'image">
+<!ENTITY locationEditField.accessKey "U">
+<!ENTITY locationEditField.tooltip "Taper le nom de fichier et l'emplacement de l'image">
+<!ENTITY title.label "Infobulle :">
+<!ENTITY title.accessKey "I">
+<!ENTITY title.tooltip "L'attribut HTML 'title' qui apparaît dans une infobulle">
+
+<!ENTITY altText.label "Texte de remplacement :">
+<!ENTITY altText.accessKey "T">
+<!ENTITY altTextEditField.tooltip "Taper le texte à mettre à la place de l'image">
+<!ENTITY noAltText.label "Pas de texte de remplacement">
+<!ENTITY noAltText.accessKey "P">
+
+<!ENTITY previewBox.label "Prévisualisation de l'image">
+<!ENTITY MoreFewerButton.tooltip "Afficher plus ou moins de propriétés à modifier">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Taille réelle :">
+<!ENTITY actualSizeRadio.label "Taille réelle">
+<!ENTITY actualSizeRadio.accessKey "T">
+<!ENTITY actualSizeRadio.tooltip "Revenir à la taille réelle de l'image">
+<!ENTITY customSizeRadio.label "Taille personnalisée">
+<!ENTITY customSizeRadio.accessKey "p">
+<!ENTITY customSizeRadio.tooltip "Change la taille de l'image dans la page">
+<!ENTITY heightEditField.label "Hauteur :">
+<!ENTITY heightEditField.accessKey "H">
+<!ENTITY widthEditField.label "Largeur :">
+<!ENTITY widthEditField.accessKey "L">
+<!ENTITY constrainCheckbox.label "Contraindre">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "Maintenir les proportions de l'image">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Carte de l'image">
+<!ENTITY removeImageMapButton.label "Supprimer de la liste d'images">
+<!ENTITY removeImageMapButton.accessKey "S">
+<!ENTITY editImageMapButton.label "Modifier la liste des images…">
+<!ENTITY editImageMapButton.tooltip "Créer des zones cliquables pour cette image">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Aligner le texte par rapport à l'image :">
+<!ENTITY bottomPopup.value "vers le bas">
+<!ENTITY topPopup.value "vers le haut">
+<!ENTITY centerPopup.value "au centre">
+<!ENTITY wrapRightPopup.value "plaquer à droite">
+<!ENTITY wrapLeftPopup.value "plaquer à gauche">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Espacement">
+<!ENTITY spacingBox.tooltip "Taper un nombre pour l'espace autour de l'image">
+<!ENTITY leftRightEditField.label "Gauche et droite :">
+<!ENTITY leftRightEditField.accessKey "G">
+<!ENTITY topBottomEditField.label "Haut et bas :">
+<!ENTITY topBottomEditField.accessKey "H">
+<!ENTITY borderEditField.label "Bordure pleine :">
+<!ENTITY borderEditField.accessKey "B">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Mettre un cadre autour de l'image (lien)">
+<!ENTITY showImageLinkBorder.accessKey "c">
+
+<!-- These controls may be added some day; currently not used -->
+<!ENTITY makePageBackgroundCheckbox.label "Fond d'écran de la page">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Utiliser l'image comme fond pour cette page">
+<!ENTITY editImageButton.label "Modifier l'image">
+<!ENTITY editImageButton.tooltip "Modifier l'image avec un autre programme">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Formulaire">
+<!ENTITY imageLocationTab.label "Image">
+<!ENTITY imageDimensionsTab.label "Dimensions">
+<!ENTITY imageAppearanceTab.label "Apparence">
+<!ENTITY imageLinkTab.label "Lien">

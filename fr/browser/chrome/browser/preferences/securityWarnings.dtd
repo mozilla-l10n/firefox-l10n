@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Avertissements de sécurité">
+
+<!ENTITY security.warn_when                       "Afficher un message d'avertissement quand :">
+<!ENTITY security.warn_entering_secure.label      "je suis sur le point de voir une page chiffrée.">
+<!ENTITY security.warn_entering_secure.accesskey  "e">
+<!ENTITY security.warn_entering_weak.label        "je suis sur le point de voir une page utilisant un chiffrement faible.">
+<!ENTITY security.warn_entering_weak.accesskey    "s">
+<!ENTITY security.warn_leaving_secure.label       "je quitte une page chiffrée pour une autre qui ne l'est pas.">
+<!ENTITY security.warn_leaving_secure.accesskey   "q">
+<!ENTITY security.warn_submit_insecure.label      "je soumets une information qui n'est pas chiffrée.">
+<!ENTITY security.warn_submit_insecure.accesskey  "o">
+<!ENTITY security.warn_viewing_mixed.label        "je suis sur le point de voir une page chiffrée qui contient des informations non chiffrées.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

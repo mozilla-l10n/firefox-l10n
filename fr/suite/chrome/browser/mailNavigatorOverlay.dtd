@@ -1,0 +1,21 @@
+<!ENTITY  newMessageCmd.label             "Message">
+<!ENTITY  newMessageCmd.accesskey         "M">
+<!ENTITY  newMessageCmd.key               "M">
+
+<!ENTITY  newCardCmd.label                "Fiche de carnet d'adresses…">
+<!ENTITY  newCardCmd.accesskey            "F">
+
+<!ENTITY sendPage.label                   "Envoyer la page…">
+<!ENTITY sendPage.accesskey               "E">
+
+<!ENTITY contextSendThisPage.label        "Envoyer cette page…">
+<!ENTITY contextSendThisPage.accesskey    "v">
+<!ENTITY contextSendThisLink.label        "Envoyer ce lien…">
+<!ENTITY contextSendThisLink.accesskey    "o">
+<!ENTITY contextSendImage.label           "Envoyer l'image…">
+<!ENTITY contextSendImage.accesskey       "i">
+<!ENTITY contextSendFrame.label           "Envoyer le cadre…">
+<!ENTITY contextSendFrame.accesskey       "c">
+
+<!ENTITY sendLinkCmd.label                "Envoyer un lien…">
+<!ENTITY sendLinkCmd.accesskey            "l">

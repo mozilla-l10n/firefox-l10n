@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % pref-advancedDTD SYSTEM "chrome://communicator/locale/pref/pref-advanced.dtd" >
+  %pref-advancedDTD;
+  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
+  %preftreeDTD;
+  <!ENTITY % pref-scriptsDTD SYSTEM "chrome://communicator/locale/pref/pref-scripts.dtd" >
+  %pref-scriptsDTD;
+  <!ENTITY % pref-keynavDTD SYSTEM "chrome://communicator/locale/pref/pref-keynav.dtd" >
+  %pref-keynavDTD;
+  <!ENTITY % pref-mousewheelDTD SYSTEM "chrome://communicator/locale/pref/pref-mousewheel.dtd" >
+  %pref-mousewheelDTD;
+  <!ENTITY % pref-cacheDTD SYSTEM "chrome://communicator/locale/pref/pref-cache.dtd" >
+  %pref-cacheDTD;
+  <!ENTITY % pref-proxiesDTD SYSTEM "chrome://communicator/locale/pref/pref-proxies.dtd" >
+  %pref-proxiesDTD;
+  <!ENTITY % pref-proxies-advancedDTD SYSTEM "chrome://communicator/locale/pref/pref-proxies-advanced.dtd" >
+  %pref-proxies-advancedDTD;
+  <!ENTITY % pref-httpDTD SYSTEM "chrome://communicator/locale/pref/pref-http.dtd" >
+  %pref-httpDTD;
+  <!ENTITY % pref-winhooksDTD SYSTEM "chrome://communicator/locale/pref/pref-winhooks.dtd" >
+  %pref-winhooksDTD;
+  <!ENTITY % pref-smartupdateDTD SYSTEM "chrome://communicator/locale/pref/pref-smartupdate.dtd" >
+  %pref-smartupdateDTD;
+  <!ENTITY % prefsDTD SYSTEM "chrome://inspector/locale/prefs.dtd" >
+  %prefsDTD;
+  <!ENTITY % mailPrefsOverlayDTD SYSTEM "chrome://messenger/locale/mailPrefsOverlay.dtd" >
+  %mailPrefsOverlayDTD;
+
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>Aide des préférences avancées de &brandShortName;</title>
+  <!--<link rel="stylesheet" href="chrome://help/locale/content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+</head>
+
+<body>
+
+  <h1 id="advanced_preferences">Préférences avancées</h1>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+    <ul>
+      <li><a href="#advanced">&pref.advanced.title;</a></li>
+      <li><a href="#scripts_and_plug-ins">&pref.scripts.title;</a></li>
+      <li><a href="#keyboard_navigation">&pref.keyNav.title;</a></li>
+      <li><a href="#cache">&pref.cache.title;</a></li>
+      <li><a href="#proxies">&pref.proxies.title;</a></li>
+      <li><a href="#http_networking">&pref.http.title;</a></li>
+      <li><a href="#software_installation">&pref.smartUpdate.title;</a></li>
+      <li><a href="#mouse_wheel">&pref.mouseWheel.title;</a></li>
+      <li class="win"><a href="#system">&systemPref.caption;</a></li>
+      <li><a href="#dom_inspector">&Inspector.label;</a></li>
+    </ul>
+  </div>
+
+
+  <h2 id="advanced">Préférences avancées -
+  &pref.advanced.title;</h2>
+
+  <p>Cette section décrit l'utilisation du panneau principal des
+  préférences avancées. Si vous ne l'utilisez pas en ce
+  moment, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+    <li>Cliquez sur la catégorie <q>&pref.advanced.title;</q>.</li>
+  </ol>
+
+  <p>La fenêtre principale des préférences avancées
+  vous permet de choisir différentes options pour Java, les mots de
+  passes FTP et le démarrage rapide de &brandShortName;&nbsp;:</p>
+
+  <dl>
+    <dt>&enbJavaCheck.label;&nbsp;:</dt>
+    <dd>Sélectionnez cette option pour permettre à &brandShortName;
+    d'interpréter les pages contenant du Java. Le Java est
+    utilisé sur certaines pages Web pour incorporer du contenu dynamique
+    et des objets multimédia.</dd>
+
+    <!--<dt>Envoyer cette adresse électronique comme mot de passe pour le
+    FTP anonyme&nbsp;:</dt>
+    <dd>Saisissez une adresse électronique que vous voulez utiliser
+    comme mot de passe pour accéder anonymement à un site
+    FTP.</dd>-->
+
+<!--    <dt class="win">Garder &brandShortName; en mémoire pour améliorer
+    les performances de lancement&nbsp;:</dt>
+    <dd class="win">
+      Sélectionnez cette option si vous désirez diminuer le temps
+      de démarrage de &brandShortName;. Pour plus d'informations sur cette
+      fonctionnalité, lisez la section <q><a href=
+      "nav_help.html#using_quick_launch">Utiliser le démarrage
+      rapide</a></q>.
+
+      <p><strong>Remarque</strong>&nbsp;: Le démarrage rapide est
+      disponible uniquement sur les plates-formes Microsoft Windows.</p>
+    </dd>  -->
+
+    <dt class="unix">&systemPref.caption;&nbsp;:</dt>
+    <dd class="unix">Sélectionnez cette option pour utiliser les
+    préférences de votre syst&egrave;me. Elles auront ainsi la
+    priorité sur celles de &brandShortName;.
+
+<!--      <p><strong>Remarque</strong>&nbsp;: cette option n'est disponible que
+      pour les paquetages XFT/GTK2.</p> -->
+    </dd>
+  </dl>
+
+
+  <h2 id="scripts_and_plug-ins">Préférences avancées -
+  &pref.scripts.title;</h2>
+
+  <p>Cette section décrit l'utilisation du panneau
+  <q>&pref.scripts.title;</q> des préférences avancées.
+  Si vous ne l'utilisez pas en ce moment, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+    <li>Sous la catégorie <q>&pref.advanced.title;</q>, cliquez
+    sur<q>&pref.scripts.title;</q>. Si aucune sous-catégorie n'est
+    visible, double-cliquez sur la catégorie
+    <q>&pref.advanced.title;</q> pour développer la liste.</li>
+  </ol>
+
+  <p>Le panneau des préférences <q>&pref.scripts.title;</q> vous
+  permet de contr&ocirc;ler l'utilisation du JavaScript et des plugins dans
+  &brandShortName;&nbsp;:</p>
+
+  <dl>
+    <dt>&enableJavaScript.label;&nbsp;:</dt>
+    <dd>
+      Cochez ces cases pour activer le Javascript&nbsp;:
+
+      <dl>
+        <dt>&navigator.label;&nbsp;:</dt>
+        <dd>Active le JavaScript pour les pages s'ouvrant dans le
+        navigateur.</dd>
+
+        <dt>&enbPluginCheckMailNews.label;&nbsp;:</dt>
+        <dd>Active le JavaScript pour le courrier électronique ou les
+        messages des groupes de discussions.</dd>
+      </dl>
+    </dd>
+
+    <dt>&allowScripts.label;</dt>
+    <dd>
+      Cochez ces cases pour contr&ocirc;ler l'utilisation du JavaScript&nbsp;:
+
+      <dl>
+        <dt>&allowWindowMoveResize.label;&nbsp;:</dt>
+        <dd>Permet aux fenêtres ouvertes d'être
+        redimensionnées ou déplacées.</dd>
+
+        <dt>&allowWindowFlip.label;&nbsp;:</dt>
+        <dd>Permet aux fenêtres d'être placées aux-dessus ou
+        en-dessous des autres fenêtres.</dd>
+
+        <dt>&allowHideStatusBar.label;&nbsp;:</dt>
+        <dd>Autorise le JavaScript à cacher la barre d'état.</dd>
+
+        <dt>&allowWindowStatusChange.label;&nbsp;:</dt>
+        <dd>Permet de changer le texte de la barre d'état, comme par
+        exemple un texte défilant.</dd>
+
+        <dt>&allowWindowImageSrcChange.label;&nbsp;:</dt>
+        <dd>Permet le changement ou l'animation d'images, comme dans les
+        <em lang="fr" xml:lang="fr">effets de survol</em> (des images qui changent
+        quand le curseur de la souris est placé au-dessus d'elles).</dd>
+        <!--     <dt>Créer ou modifier des cookies&nbsp;:</dt>
+      <dd>Permet de créer ou de changer les cookies en utilisant le JavaScript.</dd>
+      <dt>Lire les cookies&nbsp;:</dt>
+      <dd>Permet de lire les cookies en utilisant le JavaScript.</dd> -->
+
+        <dt>&allowContextmenuDisable.label;&nbsp;:</dt>
+        <dd>Pour certaines raisons, notamment de droit d'auteur, certaines
+        pages Web utilisent des scripts bloquant le menu contextuel.
+        Décochez cette case si vous désirez ne pas autoriser ces
+        scripts à bloquer le menu contextuel du navigateur.</dd>
+      </dl>
+    </dd>
+
+    <dt>&enablePlugin.label;&nbsp;:</dt>
+    <dd>
+      <dl>
+        <dt>&enbPluginCheckMailNews.label;&nbsp;:</dt>
+        <dd>Cette option vous permet d'activer les plugins pour les
+        fenêtres du courrier et des groupes.</dd>
+      </dl>
+    </dd>
+  </dl>
+
+  <p>Pour plus d'informations sur les plugins, voir la section <a href=
+  "nav_help.html#plugins_and_downloads">Plugins et
+  téléchargements</a>.</p>
+
+
+  <h2 id="keyboard_navigation">Préférences avancées -
+  &pref.keyNav.title;</h2>
+
+  <p>Cette partie décrit comment utiliser le panneau
+  <q>&pref.keyNav.title;</q> des préférences avancées. Si
+  vous ne l'utilisez pas en ce moment, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+    <li>Sous la catégorie <q>&pref.advanced.title;</q>, cliquez sur
+    <q>&pref.keyNav.title;</q>. Si aucune sous-catégorie n'est
+    visible, double-cliquez sur la catégorie <q>&pref.advanced.title;</q> pour
+    développer la liste.</li>
+  </ol>
+
+  <p>Le panneau <q>&pref.keyNav.title;</q> vous permet de définir le
+  comportement de &brandShortName; lorsque vous utilisez le clavier pour naviguer dans
+  une page Web&nbsp;:</p>
+
+  <dl>
+    <dt class="noMac">tabNavigationBehavior.label&nbsp;:</dt>
+    <dd>
+      Lorsque vous appuyez sur les touches <kbd>Tabulation</kbd> ou
+      <kbd>Maj</kbd>+<kbd>Tabulation</kbd>, vous pouvez naviguer entre
+      les&nbsp;:
+
+      <dl>
+        <dt>&tabNavigationLinks.label;&nbsp;:</dt>
+        <dd>Choisissez cette option si vous voulez naviguer de
+        liens en liens.</dd>
+
+        <dt>&tabNavigationForms.label;&nbsp;:</dt>
+        <dd>
+          Choisissez cette option si vous voulez naviguer entre les
+          différentes options d'un formulaire ou d'une page Web.
+
+          <p>Remarque&nbsp;: Les champs de saisie de texte font toujours partie
+          de la tabulation.</p>
+        </dd>
+      </dl>
+    </dd>
+
+    <dt>&findAsYouTypeBehavior.label;&nbsp;:</dt>
+    <dd>
+      Cette fonction vous permet de rechercher une expression ou un lien dans
+      une page Web en fonction du texte que vous saisissez au clavier&nbsp;:
+
+      <dl>
+        <dt>&findAsYouTypeEnableAuto.label;&nbsp;:</dt>
+        <dd>
+          <dl>
+            <dt>&findAsYouTypeAutoText.label;&nbsp;:</dt>
+            <dd>Cette option permet de rechercher l'expression saisie au
+            clavier dans le texte et dans les liens de la page Web.</dd>
+
+            <dt>&findAsYouTypeAutoLinks.label;&nbsp;:</dt>
+            <dd>Cette option permet de rechercher uniquement parmi les liens de
+            la page Web.</dd>
+          </dl>
+        </dd>
+
+        <dt>&findAsYouTypeSound.label;&nbsp;:</dt>
+        <dd>Sélectionnez cette option si vous voulez que &brandShortName;
+        exécute un son lorsqu'il ne trouve pas l'expression saisie.</dd>
+
+        <dt>&findAsYouTypeTimeout.label;&nbsp;:</dt>
+        <dd>Cette option permet de désactiver automatiquement la
+        fonction <q>Rechercher à la saisie</q> apr&egrave;s quelques
+        secondes. Elle restera active jusqu'à ce que vous la
+        désactiviez si cette case est décochée.</dd>
+      </dl>
+    </dd>
+  </dl>
+
+  <p><strong>Astuce</strong>&nbsp;: Pour activer la fonction <q>Rechercher
+  à la saisie</q>, appuyez sur <kbd>/</kbd> pour chercher du texte ou
+  <kbd>'</kbd> pour chercher des liens, suivi du texte à chercher.</p>
+
+
+  <h2 id="cache">Préférences avancées -
+  &pref.cache.title;</h2>
+
+  <p>Cette section décrit l'utilisation du panneau
+  <q>&pref.cache.title;</q> des préférences avancées. Si
+  vous ne l'utilisez pas en ce moment, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+    <li>Sous la catégorie <q>&pref.advanced.title;</q>, cliquez sur
+    <q>&pref.cache.title;</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur la catégorie <q>&pref.advanced.title;</q> pour
+    étendre la liste.</li>
+  </ol>
+
+  <p>Le panneau <q>&pref.cache.title;</q> vous permet d'ajuster le cache
+  mémoire et le cache disque de &brandShortName;&nbsp;:</p>
+
+  <dl>
+    <dt>&pref.cache.caption;&nbsp;:</dt>
+    <dd>
+      Le cache est un espace disque sur lequel sont enregistrées les
+      pages que vous visitez le plus fréquemment. Le cache augmente la
+      vitesse d'affichage des pages en permettant au navigateur de
+      récupérer les pages localement plut&ocirc;t que sur le
+      réseau. Plus l'espace alloué au cache est important, plus
+      la quantité de fichiers stockées sera grande.
+
+      <dl>
+        <dt>&diskCache.label; __ &mbytes;&nbsp;:</dt>
+        <dd>Saisissez la taille du cache disque que vous désirez allouer
+        à &brandShortName;. Le cache disque est enregistré sur votre
+        disque dur et peut encore être utilisé, même
+        apr&egrave;s avoir éteint votre ordinateur.</dd>
+
+        <dt>&clearDiskCache.label;&nbsp;:</dt>
+        <dd>Cliquez sur ce bouton si vous désirez effacer tous les
+        fichiers contenus dans le cache.</dd>
+
+        <dt>&diskCacheFolder.label;&nbsp;:</dt>
+        <dd>Indique le chemin du répertoire o&ugrave; &brandShortName; enregistre
+        votre cache disque.</dd>
+
+        <dt>&chooseDiskCacheFolder.label;&nbsp;:</dt>
+        <dd>Cliquez sur ce bouton si vous voulez choisir le dossier du cache
+        disque.</dd>
+      </dl>
+    </dd>
+
+    <dt>&docCache;</dt>
+    <dd>
+      <dl>
+        <dt>&everyTimeRadio.label;&nbsp;:</dt>
+        <dd>Sélectionnez cette option si vous désirez que &brandShortName; compare
+        la page Web du serveur avec celle du cache chaque fois que vous la
+        visitez.</dd>
+
+        <dt>&autoRadio.label;&nbsp;:</dt>
+        <dd>Sélectionnez cette option si vous désirez que &brandShortName; compare
+        la page Web du serveur avec celle du cache lorsque le serveur indique
+        que la page a expiré.</dd>
+
+        <dt>&oncePsessionRadio.label;&nbsp;:</dt>
+        <dd>Sélectionnez cette option si vous désirez que &brandShortName; compare
+        la page Web du serveur avec celle du cache apr&egrave;s chaque
+        redémarrage de &brandShortName;.</dd>
+
+        <dt>&neverRadio.label;&nbsp;:</dt>
+        <dd>Sélectionnez cette option si vous ne désirez pas que &brandShortName;
+        compare les pages du cache avec celles du réseau.</dd>
+      </dl>
+    </dd>
+
+    <dt>&prefetchTitle.label;&nbsp;:</dt>
+    <dd>Certaines pages contiennent des liens définis pour être
+    préchargées pendant les pauses du navigateur. Cochez cette
+    case pour activer cette fonction qui améliore la vitesse
+    d'affichage.</dd>
+  </dl>
+
+
+  <h2 id="proxies">Préférences avancées -
+  &pref.proxies.title;</h2>
+
+  <p>Cette partie décrit comment utiliser le panneau
+  <q>&pref.proxies.title;</q> des préférences avancées. Si
+  vous ne l'utilisez pas en ce moment, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Sous la catégorie <q>&pref.advanced.title;</q>, cliquez sur
+    <q>&pref.proxies.title;</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur la catégorie <q>&pref.advanced.title;</q> pour
+    développer la liste.</li>
+  </ol>
+
+  <p>Le panneau <q>&pref.proxies.title;</q> vous permet de configurer
+  &brandShortName; pour utiliser un <a href="glossary.html#proxy"
+  class="glossary">proxy</a>&nbsp;:</p>
+
+  <p><strong>Avant de commencer</strong>&nbsp;: Demander à votre
+  administrateur réseau si vous avez un fichier de configuration des
+  proxies ou s'il peut vous donner les noms et les numéros des ports du
+  proxy.</p>
+
+  <dl class="rediger">
+    <dt>&directTypeRadio.label;&nbsp;:</dt>
+    <dd>Choisissez cette option si vous ne désirez pas utiliser un
+    proxy.</dd>
+
+    <dt>&wpadTypeRadio.label;&nbsp;:</dt>
+    <dd>Choisissez cette option si vous voulez que &brandShortName; détecte et
+    configure automatiquement les param&egrave;tres du proxy, en utilisant le
+    <a href="glossary.html#wpad" class="glossary">protocole WPAD</a>.</dd>
+
+    <dt>&autoTypeRadio.label;&nbsp;:</dt>
+    <dd>Choisissez cette option si vous avez un fichier de configuration ou une
+    URL de proxy, puis saisissez l'URL de configuration.
+
+      <dl>
+        <dt>&reload.label;&nbsp;:</dt>
+        <dd>Cliquez sur ce bouton pour mettre à jour le fichier de
+        configuration.
+          <p>Pour plus d'informations à propos de la configuration
+          automatique du proxy, voir le document
+          <a href="http://www.mozilla.org/catalog/end-user/customizing/enduserPAC.html"
+          hreflang="en">End User Guide to Proxy AutoConfiguration</a>.</p>
+        </dd>
+      </dl>
+    </dd>
+
+    <dt>&manualTypeRadio.label;&nbsp;:</dt>
+    <dd>Choisissez cette option si vous ne possédez pas l'adresse de votre proxy
+      (URL), ou si la découverte automatique du proxy n'a pas
+      correctement paramétré celui-ci.
+
+      <dl>
+        <dt>Proxies <em>HTTP</em>, <em>SSL</em>, <em>FTP</em> ou
+        <em>Gopher</em>&nbsp;:</dt>
+        <dd>Saisissez le nom ou l'URL du serveur proxy ou son IP
+        numérique.</dd>
+
+        <dt>&port.label;</dt>
+        <dd>Saisissez le numéro du port dans le champ <q>Port</q>.
+        Cliquez sur <q>&advanced.label;</q> pour paramétrer les
+        <a href="#advanced_proxy_preferences">&pref.proxies.advanced.title;</a>.
+
+        <!--<p><strong>Remarque</strong>&nbsp;: Si vous utilisez les mêmes
+        param&egrave;tres pour tous les types de proxy, cliquez sur
+        <q>&reuseProxy.label;</q></p>-->
+        </dd>
+
+<!--    <dt>Proxy SOCKS&nbsp;:</dt>
+        <dd>
+
+          <dt>H&ocirc;te SOCKS&nbsp;:</dt>
+          <dd>
+            Saisissez le nom ou l'adresse IP du serveur proxy. Saisissez le numéro du
+            port dans le champ <q>Port</q>.
+
+            <dl>
+            <dt>SOCKS v4, SOCKS v5&nbsp;:</dt>
+            <dd>Sélectionnez <q>SOCKS v4</q> ou <q>SOCKS v5</q>. Ce
+            choix dépend de la version de SOCKS utilisée pour
+            votre proxy.</dd>
+          </dl>
+        </dd>
+          <dl>
+            <dt>Utiliser aussi pour la résolution DNS (recommandé
+            pour SOCKS v5)&nbsp;:</dt>
+            <dd>Sélectionnez cette option pour utiliser le proxy SOCKS
+            pour la résolution des noms d'h&ocirc;tes. C'est le choix
+            recommandé pour les proxies SOCKS v5.
+            </dd>
+          </dl>
+        </dd> -->
+
+      <dt>Pas de proxy pour&nbsp;:</dt>
+      <dd>Saisissez les noms de domaine ou les adresses IP pour lesquels vous
+      ne désirez pas utilisez un proxy. Séparez chaque nom de
+      domaine par une virgule (exemple&nbsp;: <code>.mozilla.com,
+      .mozilla-europe.org, 192.168.1.0/24)</code>.</dd>
+    </dl>
+  </dd>
+
+</dl>
+
+<div class="rediger">
+  <h3 id="advanced_proxy_preferences">Préférences avancées
+  du proxy</h3>
+
+  <p>Si vous voulez utiliser différents proxy pour différents
+  protocoles, ou si vous avez besoin d'utiliser un proxy SOCKS&nbsp;:</p>
+
+  <dl>
+    <dt>Proxies <em>HTTP</em>, <em>SSL</em>, <em>FTP</em> ou
+    <em>Gopher</em>&nbsp;:</dt>
+    <dd>Saisissez le nom ou l'adresse IP du serveur de proxy. Saisissez le
+    numéro du port dans le champ <q>Port</q>.
+
+      <p><strong>Remarque</strong>&nbsp;: Si vous utilisez les mêmes
+      param&egrave;tres pour tous les protocoles, cliquez sur
+      <q>&reuseProxy.label;</q>.</p>
+
+    </dd>
+
+    <dt>&socks.label;</dt>
+    <dd>Saisissez le nom ou l'adresse IP du serveur de proxy. Saisissez le
+    numéro du port dans le champ <q>Port</q>.
+      <dl>
+        <dt>&socks4.label;, &socks5.label;&nbsp;:</dt>
+        <dd>Lorsque vous renseignez un proxy SOCKS, sélectionnez
+        <q>&socks4.label;</q> ou <q>&socks5.label;</q>, selon la version du
+        <a href="glossary.xhtml#socks" class="glossary">SOCKS</a>
+        utilisée pour le proxy.</dd>
+
+        <dt>&socksRemoteDNS.label;&nbsp;:</dt>
+        <dd>Sélectionnez cette option pour utiliser le proxy SOKS pour
+        la résolution des noms de serveurs. Cette option est
+        recommandée pour les proxy SOKS v5.</dd>
+      </dl>
+
+     </dd>
+
+   </dl>
+</div>
+
+  <h2 id="http_networking">Préférences avancées -
+  &pref.http.title;</h2>
+
+  <p>Cette partie décrit comment utiliser le panneau
+  <q>&pref.http.title;</q> des préférences avancées. Si
+  vous ne l'utilisez pas en ce moment, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q> et choisissez
+    <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Sous la catégorie <q>&pref.advanced.title;</q>, cliquez sur
+    <q>&pref.http.title;</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur la catégorie <q>&pref.advanced.title;</q> pour
+    développer la liste.</li>
+  </ol>
+
+  <p>Ce panneau vous permet de configurer le protocole HTTP&nbsp;:</p>
+
+  <dl>
+    <dt>&prefDirect.label; - &prefProxy.label;&nbsp;:</dt>
+    <dd>
+      Choisissez la version du HTTP ainsi que les options de connexions directe
+      et par proxy.
+
+      <dl>
+        <dt>&prefEnableHTTP10.label;&nbsp;:</dt>
+        <dd>Choisissez cette option pour utiliser la version originale du HTTP,
+        standardisée en 1996.</dd>
+
+        <dt>&prefEnableHTTP11.label;&nbsp;:</dt>
+        <dd>Choisissez cette option pour utiliser la nouvelle version du HTTP,
+        qui offre des performances améliorées, comme
+        l'utilisation plus efficace des connexions HTTP, un meilleur support
+        pour la mise en cache du c&ocirc;té client, des requêtes
+        HTTP multiples (<em lang="en" xml:lang="en">pipelining</em>), et un
+        contr&ocirc;le plus fin sur l'expiration et les méthodes de
+        remplacement du cache.</dd>
+
+        <dt>&prefEnableKeepAlive.label;&nbsp;:</dt>
+        <dd>Sélectionnez cette option pour garder une connexion ouverte
+        afin de faire des requêtes HTTP supplémentaires,
+        augmentant la vitesse.</dd>
+
+        <dt>&prefEnablePipelining.label;&nbsp;:</dt>
+        <dd>
+          Sélectionnez cette option pour permettre le <em lang="en"
+          xml:lang="en">pipelining</em>, lequel permet d'envoyer
+          immédiatement plus d'une requête HTTP au serveur,
+          réduisant les délais de chargement des pages Web.
+
+          <p>Remarque&nbsp;: Le <em lang="en" xml:lang="en">pipelining</em> est
+          disponible seulement avec HTTP 1.1.</p>
+        </dd>
+      </dl>
+    </dd>
+  </dl>
+
+
+  <h2 id="software_installation">Préférences avancées -
+  &pref.smartUpdate.title;</h2>
+
+  <p>Cette section décrit l'utilisation du panneau
+  <q>&pref.smartUpdate.title;</q> des préférences
+  avancées. Si vous ne l'utilisez pas en ce moment, suivez ces
+  étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+    <li>Sous la catégorie <q>&pref.advanced.title;</q>, cliquez sur
+    <q>&pref.smartUpdate.title;</q>. Si aucune sous-catégorie n'est
+    visible, double-cliquez sur la catégorie
+    <q>&pref.advanced.title;</q> pour développer la liste.</li>
+  </ol>
+
+  <p>Le panneau <q>&pref.advanced.title;</q> est utilisé pour
+  gérer les installations de logiciels ainsi que les notifications de
+  mises à jour de &brandShortName;&nbsp;:</p>
+
+  <dl>
+
+    <dt class="rediger">Autoriser les sites internet à installer mises à jours et
+    extensions.</dt>
+    <dd class="rediger">Sélectionnez ceci si vous souhaitez autoriser les sites internet
+    à installer des extensions et des mises à jours à
+    utiliser avec &brandShortName;. Vous serez consultez avant chaque
+    installation.</dd>
+
+    <dt class="rediger">Sites autorisés :</dt>
+    <dd class="rediger">Cliquez ici pour ouvrir la fenêtre des sites autorisés,
+    o&ugrave; vous pourrez voir et éditer la liste des sites internet que
+    vous souhaitez autoriser à installer des logiciels&nbsp;:
+
+      <dl class="rediger">
+        <dt>Autoriser</dt>
+        <dd>Cliquez ici pour ajouter le site spécifié à la
+        liste des sites autorisés.</dd>
+
+        <dt>Supprimer un site</dt>
+        <dd>Cliquez ici pour supprimer de la liste le site
+        sélectionné.</dd>
+
+        <dt>Supprimer tous les sites</dt>
+        <dd>Cliquez ici si vous souhaitez supprimer tous les sites de la liste
+        actuelle.</dd>
+
+      </dl>
+    </dd>
+
+    <dt>&verffyUpdates.label;</dt>
+    <dd>Ces options vous permettent d'être averti lorsque des mises à jours sont
+    disponibles. Vos informations personnelles ne sont pas transmises à
+    &brandShortName; quand celui-ci vérifie votre version.
+
+      <dl>
+        <dt>&appUpdates.label;&nbsp;:</dt>
+        <dd>Choisissez cette option si vous désirez être averti
+        lorsqu'une nouvelle version de &brandShortName; est disponible.
+        Choisissez <strong>&daily.label;</strong> ou <strong>&weekly.label;</strong>
+        pour la fréquence des vérifications de disponibilité de mises à jour.</dd>
+
+        <dt>&extensionsUpdates.label;&nbsp;:</dt>
+        <dd>Choisissez cette option si vous désirez être averti lorsque
+        de nouvelles versions de vos modules complémentaires sont disponibles.
+        Choisissez <strong>&daily.label;</strong> ou <strong>&weekly.label;</strong>
+        comme fréquence des vérifications de disponibilité de mises à jour.</dd>
+      </dl>
+
+    </dd>
+
+    <dt>&addonManagerButton.label;</dt>
+
+    <dd>Ce bouton ouvrira le gestionnaire de modules complémentaires.
+    Il liste les modules (extensions, thèmes, langues et plugins) actuellement
+    installés et vous permet de les gérer.</dd>
+
+  </dl>
+
+  <h2 id="mouse_wheel">Préférences avancées -
+  &mousewheel.label;</h2>
+
+  <p class="rediger">Cette section décrit l'utilisation du panneau
+  <q>&pref.mouseWheel.title;</q> des
+  préférences avancées. Certaines souris récents
+  poss&egrave;dent deux molettes, ou un bouton qui permet de modifier la
+  direction de défilement. Le comportement vertical de la molette est
+  paramétrable dans le panneau du haut <q>&mousewheelGroup.label;</q>
+  alors que le comportement horizontal de la molette est paramétrable
+  dans le panneau du bas <q>&mousewheelHorizGroup.label;</q>. Si vous ne
+  l'utilisez pas en ce moment, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+    <li>Sous la catégorie <q>&pref.advanced.title;</q>, cliquez sur
+    <q>&mousewheel.label;</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur la catégorie <q>&pref.advanced.title;</q> pour
+    développer la liste.</li>
+  </ol>
+
+  <p>Le panneau <q>&pref.mouseWheel.title;</q> vous permet de contr&ocirc;ler
+  l'utilisation de la molette de la souris dans &brandShortName;.</p>
+
+  <p>Utilisez les onglets pour paramétrer les actions qui correspondent
+  à chaque touche de modification. Les actions possibles, communes
+  à toutes les touches, sont les suivantes&nbsp;:</p>
+
+  <dl>
+    <dt>&scroll.label; __ &scrollLines.label;&nbsp;:</dt>
+    <dd>
+      Choisissez cette option pour faire défiler le document du nombre
+      de lignes (ou de caract&egrave;res pour les mouvements horizontaux)
+      entré dans ce champ.
+
+      <dl>
+        <dt>&useSystemDefault.label;e&nbsp;:</dt>
+        <dd>Choisissez cette option pour ignorer le nombre de lignes (ou de
+        caract&egrave;res) entré et utiliser plut&ocirc;t les
+        param&egrave;tres par défaut du syst&egrave;me.</dd>
+      </dl>
+    </dd>
+
+    <dt>&scrollPgUpPgDn.label; - &scrollPgLtPgRt.label;&nbsp;:</dt>
+    <dd>Choisissez cette option pour faire défiler d'une page vers le haut ou
+    vers le bas. Cette option permet une plus grande rapidité dans la
+    navigation, mais elle est moins précise que le défilement
+    d'un nombre défini de lignes.</dd>
+
+    <dt>&history.label;&nbsp;:</dt>
+    <dd>Choisissez cette option pour naviguer dans les pages visitées,
+    stockées dans l'historique.</dd>
+
+    <dt>&textsize.label;&nbsp;:</dt>
+    <dd>Choisissez cette option pour utiliser la molette de la souris pour
+    augmenter ou diminuer la taille du texte sur une page Web. Ce
+    réglage peut vous aider à lire une page avec plus de confort,
+    en diminuant ou en augmentant la taille du texte.</dd>
+  </dl>
+
+  <p class="rediger"><strong>Remarque</strong>&nbsp;: Si votre souris ne poss&egrave;de pas de
+  mode de défilement horizontal, les param&egrave;tres du panneau
+  <q>&mousewheelHorizGroup.label;</q> seront ignorés.</p>
+
+<div class="win">
+  <h2 id="system">Préférences avancées -
+  Syst&egrave;me</h2>
+
+  <p><strong>Remarque</strong>&nbsp;: Cette section, et les informations
+  qu'elle contient, concerne uniquement la version Microsoft&reg; Windows&reg;
+  de &brandShortName;.</p>
+
+  <p>Cette section décrit l'utilisation du panneau <q>Syst&egrave;me</q>
+  des préférences avancées. Si vous ne l'utilisez pas en
+  ce moment, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q> et choisissez
+    <q>&preferencesCmd.label;</q>.</li>
+    <li>Sous la catégorie <q>&pref.advanced.title;</q>, cliquez sur
+    <q>Syst&egrave;me</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur la catégorie <q>&pref.advanced.title;</q> pour
+    développer la liste.</li>
+  </ol>
+
+  <p>Le panneau <q>Syst&egrave;me</q> vous permet de spécifier quels
+  types de fichiers et quels protocoles seront ouverts en utilisant
+  &brandShortName;&nbsp;:</p>
+
+  <dl>
+    <dt>&files.label;</dt>
+    <dd>Sélectionnez les fichiers à ouvrir par défaut avec
+    &brandShortName; (HTML, JPEG, GIF, PNG, MNG, XBM, BMP, ICO, XML, XHTML, XUL).</dd>
+
+    <dt>&protocols.label;</dt>
+    <dd>Sélectionnez les protocoles à ouvrir par défaut
+    avec &brandShortName; (http, https, ftp, chrome, gopher).</dd>
+
+    <dt>&showDialog.label;</dt>
+    <dd>Sélectionnez cette option pour que &brandShortName; vous prévienne
+    si d'autres applications ont modifié ces associations de fichiers et
+    de protocoles.</dd>
+  </dl>
+
+  <p><strong>Astuce</strong>&nbsp;: Pour définir facilement &brandShortName; comme
+  navigateur par défaut, voir la section
+  <a href="cs_nav_prefs_navigator.xhtml#navigator">Préférences du
+  navigateur - Navigateur</a>. Sélectionnez également l'option
+  <q>&showDialog.label;</q> pour
+  être averti lorsque d'autres logiciels deviennent les applications par
+  défaut à la place de &brandShortName;.</p>
+</div>
+
+  <h2 id="dom_inspector">Préférences avancées -
+  &Inspector.label;</h2>
+
+  <p>Cette section décrit l'utilisation du panneau <q>Inspecteur
+  <acronym title="Document Object Model">DOM</acronym></q> des
+  préférences avancées. Si vous ne l'utilisez pas en ce
+  moment, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q> et choisissez
+    <q>&preferencesCmd.label;</q>.</li>
+    <li>Sous la catégorie <q>&pref.advanced.title;</q>, cliquez sur
+    <q>&Inspector.label;</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur la catégorie <q>&pref.advanced.title;</q> pour
+    développer la liste.</li>
+  </ol>
+
+  <p>Le panneau <q>&Inspector.label;</q> vous permet de configurer l'affichage de
+  l'inspecteur DOM, présent dans &brandShortName;&nbsp;:</p>
+
+  <dl>
+    <dt>&elementBlinking.label;&nbsp;:</dt>
+    <dd>
+      Lorsque vous sélectionnez un élément de la page Web
+      que vous examinez, vous avez la possibilité de le faire clignoter
+      pour vous aider à mieux le repérer. Les options suivantes
+      vous permettent de paramétrer ce clignotement
+
+      <dl>
+        <dt>&blinkSelectedElement.label;&nbsp;:</dt>
+        <dd>Cochez cette case si vous voulez faire clignoter
+        l'élément sélectionné.</dd>
+
+        <dt>&borderColor.label;&nbsp;:</dt>
+        <dd>Cliquez sur la case de couleur et choisissez la couleur que vous
+        désirez donner à la bordure clignotante.</dd>
+
+        <dt>&borderWidth.label;&nbsp;:</dt>
+        <dd>Indiquez, en pixel, la largeur de la bordure de
+        l'élément sélectionné.</dd>
+
+        <dt>&blinkDuration.label;&nbsp;:</dt>
+        <dd>Indiquez, en milli&egrave;me de seconde, le temps de clignotement
+        de l'élément sélectionné.</dd>
+
+        <dt>&blinkSpeed.label;&nbsp;:</dt>
+        <dd>Indiquez, en milli&egrave;me de seconde, la vitesse du
+        clignotement. Plus le nombre que vous saisissez est petit, plus le
+        clignotement est rapide.</dd>
+
+        <dt>&invertColors.label;&nbsp;:</dt>
+        <dd>Cochez cette case pour faire clignoter l'élément
+        sélectionné en inversant les couleurs définies
+        dans la page.</dd>
+      </dl>
+    </dd>
+
+    <dt>&Sidebar.label;&nbsp;:</dt>
+    <dd>
+      Vous avez la possibilité d'installer le panneau de l'inspecteur DOM
+      dans la barre latérale. Vous pouvez ainsi examiner la page en
+      cours d'affichage sans ouvrir l'inspecteur DOM lui-même.
+
+      <dl>
+        <dt>&install.label;&nbsp;:</dt>
+        <dd>Cliquez sur ce bouton pour installer le panneau de l'inspecteur DOM
+        dans la barre latérale.</dd>
+      </dl>
+    </dd>
+  </dl>
+
+  <p>Pour plus d'informations sur l'inspecteur DOM, voir la page Web <a href=
+  "http://mozfr.mozdev.org/docs/startpage-1.0/dom-guide.html" title=
+  "Introduction à l'inspecteur DOM"
+  hreflang="fr">Inspecteur DOM</a>.</p>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Derni&egrave;re révision&nbsp;: 13 juillet 2006</em></p>
+
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

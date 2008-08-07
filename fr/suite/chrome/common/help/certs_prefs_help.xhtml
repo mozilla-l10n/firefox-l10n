@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % pref-composerDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %pref-composerDTD;
+  <!ENTITY % pref-securityDTD SYSTEM "chrome://pippki/locale/pref-security.dtd" >
+  %pref-securityDTD;
+  <!ENTITY % pref-sslDTD SYSTEM "chrome://pippki/locale/pref-ssl.dtd" >
+  %pref-sslDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>Pr&eacute;f&eacute;rences de s&eacute;curit&eacute; et de
+  confidentialit&eacute; - Les certificats</title>
+  <!-- <link rel="stylesheet" href="content_style.css" type="text/css" /> -->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css"/>
+</head>
+
+<body>
+  <h1 id="certificate_settings">Pr&eacute;f&eacute;rences des Certificats</h1>
+
+  <p>Cette section d&eacute;crit comment modifier vos pr&eacute;f&eacute;rences
+  de certificats et comment utiliser le gestionnaire de certificats, le
+  gestionnaire de p&eacute;riph&eacute;riques, et les autres fen&ecirc;tres
+  apparent&eacute;es aux certificats.</p>
+
+  <p>Pour une description pas &agrave; pas des diff&eacute;rentes t&acirc;ches
+  apparent&eacute;es aux certificats, voir la section <a href=
+  "using_certs_help.xhtml">Utiliser les certificats</a>.</p>
+  <!-- <div class="contentsBox"> -->
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href=
+      "#privacy_and_security_preferences_certificates">Pr&eacute;f&eacute;rences
+      de confidentialit&eacute; et de s&eacute;curit&eacute; - Les
+      certificats</a></li>
+
+      <li><a href="certs_help.xhtml">Gestionnaire de certificats</a></li>
+
+      <li><a href="certs_help.xhtml#device_manager">Gestionnaire de
+      p&eacute;riph&eacute;riques</a></li>
+
+      <li><a href="cert_dialog_help.xhtml">Informations et d&eacute;cisions
+      concernant les certificats</a></li>
+    </ul>
+  </div>
+
+  <h2 id="privacy_and_security_preferences_certificates">
+  Pr&eacute;f&eacute;rences de confidentialit&eacute; et de
+  s&eacute;curit&eacute; - Les certificats</h2>
+
+  <p>Cette section d&eacute;crit l'utilisation du panneau des
+  pr&eacute;f&eacute;rences pour les certificats. Pour visualiser les
+  pr&eacute;f&eacute;rences en lien avec les certificats, suivez ces
+  &eacute;tapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et s&eacute;lectionnez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la cat&eacute;gorie <q>Confidentialit&eacute; &amp; S&eacute;curit&eacute;</q>,
+    choisissez <q>&certs.label;</q>. Si
+    aucune sous-cat&eacute;gorie n'est visible, double-cliquez sur
+    <q>Confidentialit&eacute; &amp; S&eacute;curit&eacute;</q> pour
+    d&eacute;velopper la liste.</li>
+  </ol>
+
+  <h3 id="client_certificate_selection">&SSLClientAuthMethod.caption;</h3>
+
+  <p>Certains sites Web requi&egrave;rent que vous vous identifiez &agrave;
+  l'aide d'un certificat. La s&eacute;lection que vous faites ici
+  d&eacute;termine comment le navigateur choisit le certificat &agrave;
+  pr&eacute;senter parmi ceux qui sont disponibles sur votre disque
+  local&nbsp;:</p>
+
+  <dl>
+    <dt>&certselect.auto;&nbsp;:</dt>
+
+    <dd>S&eacute;lectionnez cette option si vous souhaitez que le navigateur
+    choisisse un certificat sans vous le demander. C'est l'option par
+    d&eacute;faut.</dd>
+
+    <dt>&certselect.ask;&nbsp;:</dt>
+
+    <dd>S&eacute;lectionnez cette option si vous souhaitez que le navigateur
+    vous demande de choisir un certificat &agrave; chaque fois qu'un site Web
+    en demande un.</dd>
+  </dl>
+
+  <h3 id="manage_certificates">&managecerts.caption;</h3>
+
+  <p>Les certificats sont l'&eacute;quivalent num&eacute;rique des cartes
+  d'identit&eacute; &ndash; ils aident les autres personnes &agrave; vous
+  identifier et vous aident &agrave; identifier les autres personnes, sites Web
+  et organisations.</p>
+
+  <p>Pour voir ou configurer les certificats dont vous disposez sur le disque
+  local, cliquez sur <q>&managecerts.button;</q>.</p>
+
+  <h3 id="manage_security_devices">&managedevices.caption;</h3>
+
+  <p>Un p&eacute;riph&eacute;rique de s&eacute;curit&eacute; est un
+  syst&egrave;me mat&eacute;riel ou logiciel qui conserve vos certificats ainsi
+  que vos cl&eacute;s de chiffrement. Par exemple, une carte &agrave; puce est
+  un p&eacute;riph&eacute;rique de s&eacute;curit&eacute;. &brandShortName; dispose de
+  son propre p&eacute;riph&eacute;rique de s&eacute;curit&eacute; logiciel en
+  interne, mais vous pouvez utiliser en m&ecirc;me temps des
+  p&eacute;riph&eacute;riques additionnels telles que des cartes &agrave;
+  puce.</p>
+
+  <p>Pour voir ou configurer vos p&eacute;riph&eacute;riques de
+  s&eacute;curit&eacute;, cliquez sur <q>&managedevices.button;</q>.</p>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Derni&egrave;re r&eacute;vision&nbsp;: 9 juillet 2006</em></p>
+
+    <p>Ce texte a &eacute;t&eacute; traduit et adapt&eacute; par une
+    &eacute;quipe internationale de b&eacute;n&eacute;voles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

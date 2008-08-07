@@ -1,0 +1,147 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001-2007
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Copier">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Tout sélectionner">
+<!ENTITY  selectall.accesskey   "T">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Général">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "Adresse (URL) :">
+<!ENTITY  generalType           "Type :">
+<!ENTITY  generalMode           "Mode de rendu :">
+<!ENTITY  generalSize           "Taille :">
+<!ENTITY  generalReferrer       "URL de provenance :">
+<!ENTITY  generalSource         "Source du cache :">
+<!ENTITY  generalModified       "Modifiée le :">
+<!ENTITY  generalEncoding       "Encodage :">
+<!ENTITY  generalMetaName       "Nom">
+<!ENTITY  generalMetaContent    "Contenu">
+<!ENTITY  generalSecurityMore   "Plus">
+<!ENTITY  generalSecurityMore.accesskey "o">
+
+<!ENTITY  formsTab              "Formulaires">
+<!ENTITY  formsTab.accesskey    "F">
+<!ENTITY  formAction            "Action de formulaire">
+<!ENTITY  formMethod            "Méthode">
+<!ENTITY  formName              "Nom">
+<!ENTITY  formNo                "Non.">
+<!ENTITY  formEncoding          "Encodage :">
+<!ENTITY  formTarget            "Cible :">
+<!ENTITY  formFields            "Champs:">
+<!ENTITY  formLabel             "Libellé">
+<!ENTITY  formFName             "Nom du champ">
+<!ENTITY  formType              "Type">
+<!ENTITY  formCValue            "Valeur actuelle">
+
+<!ENTITY  linksTab              "Liens">
+<!ENTITY  linksTab.accesskey    "L">
+<!ENTITY  linkNo                "Non.">
+<!ENTITY  linkName              "Nom">
+<!ENTITY  linkAddress           "Adresse">
+<!ENTITY  linkType              "Type">
+<!ENTITY  linkTarget            "Cible">
+<!ENTITY  linkAccessKey         "Mnémonique">
+
+<!ENTITY  mediaTab              "Média">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaURL              "Adresse (URL) :">
+<!ENTITY  mediaAlt              "Texte alternatif :">
+<!ENTITY  mediaAltHeader        "Texte alternatif">
+<!ENTITY  mediaAddress          "Adresse">
+<!ENTITY  mediaType             "Type">
+<!ENTITY  mediaSize             "Taille">
+<!ENTITY  mediaCount            "Nombre">
+<!ENTITY  mediaDimensions       "Dimensions spécifiées :">
+<!ENTITY  mediaPhysDimensions   "Dimensions réelles :">
+<!ENTITY  mediaTitle            "Titre :">
+<!ENTITY  mediaLongdesc         "Description longue :">
+<!ENTITY  mediaBlockImage.accesskey "t">
+<!ENTITY  mediaSaveAs           "Enregistrer sous…">
+<!ENTITY  mediaSaveAs.accesskey "s">
+<!ENTITY  mediaSaveAs2.accesskey "E">
+<!ENTITY  mediaPreview          "Aperçu du média :">
+
+<!ENTITY  feedTab               "Flux">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "S'abonner">
+<!ENTITY  feedSubscribe.accesskey "S">
+
+<!ENTITY  permTab               "Permissions">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Permissions par défaut">
+<!ENTITY  permAllow             "Autoriser">
+<!ENTITY  permAllowSession      "Autoriser pour la session">
+<!ENTITY  permBlock             "Bloquer">
+<!ENTITY  permissionsFor        "Permissions pour :">
+<!ENTITY  permImage             "Télécharger des images">
+<!ENTITY  permPopup             "Ouvrir des fenêtres popup">
+<!ENTITY  permCookie            "Définir des cookies">
+<!ENTITY  permInstall           "Installer des extensions ou des thèmes">
+
+<!ENTITY  securityTab           "Sécurité">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Informations de sécurité pour cette page">
+<!ENTITY  securityView.certView "Afficher le certificat">
+<!ENTITY  securityView.accesskey "A">
+<!ENTITY  securityView.unknown   "Inconnu">
+
+
+<!ENTITY  securityView.identity.header   "Identité du site Web">
+<!ENTITY  securityView.identity.owner    "Propriétaire : ">
+<!ENTITY  securityView.identity.domain   "Site Web : ">
+<!ENTITY  securityView.identity.verifier "Vérifié par : ">
+
+<!ENTITY  securityView.privacy.header                   "Vie privée &amp; historique">
+<!ENTITY  securityView.privacy.history                  "Ai-je déjà visité ce site auparavant ?">
+<!ENTITY  securityView.privacy.cookies                  "Ce site Web collecte-t-il des informations (cookies) sur mon ordinateur ?">
+<!ENTITY  securityView.privacy.viewCookies              "Gestion des cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Ai-je un mot de passe enregistré pour ce site Web ?">
+<!ENTITY  securityView.privacy.viewPasswords            "Gestion des mots de passe enregistrés">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "m">
+
+<!ENTITY  securityView.technical.header                 "Détails techniques">

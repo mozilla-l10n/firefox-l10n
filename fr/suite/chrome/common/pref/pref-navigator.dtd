@@ -1,0 +1,47 @@
+<!ENTITY  pref.navigator.title "Navigateur">
+
+<!ENTITY  navRadio "Afficher pour">
+<!ENTITY  navStartPageMenu.label "le démarrage du navigateur">
+<!ENTITY  newWinPageMenu.label "une nouvelle fenêtre">
+<!ENTITY  newTabPageMenu.label "un nouvel onglet">
+
+<!ENTITY  blankPageRadio.label "Une page blanche">
+<!ENTITY  blankPageRadio.accesskey "n">
+<!ENTITY  homePageRadio.label "Ma page d'accueil">
+<!ENTITY  homePageRadio.accesskey "p">
+<!ENTITY  lastPageRadio.label "La dernière page visitée">
+<!ENTITY  lastPageRadio.accesskey "r">
+
+<!ENTITY  header2.label "Ma page d'accueil">
+<!ENTITY  homePageIntro.label "Cliquer sur le bouton « Accueil » chargera cette page ou ce groupe de pages :">
+<!ENTITY  useCurrent.label "Utiliser la page actuelle">
+<!ENTITY  useCurrent.accesskey "U">
+<!ENTITY  useCurrentGroup.label "Utiliser le groupe actuel">
+<!ENTITY  useCurrentGroup.accesskey "g">
+<!ENTITY  browseFile.label "Choisir un fichier…">
+<!ENTITY  browseFile.accesskey "C">
+<!ENTITY  useDefault.label "Configuration par défaut">
+<!ENTITY  useDefault.accesskey "r">
+
+<!ENTITY  toolbarIntro.label "Boutons visibles dans les barres d'outils :">
+
+<!ENTITY  navToolbarIntro.label "Barre d'outils de navigation">
+<!ENTITY  goButton.label "Go">
+<!ENTITY  goButton.accesskey "o">
+<!ENTITY  searchButton.label "Rechercher">
+<!ENTITY  searchButton.accesskey "R">
+<!ENTITY  printButton.label "Imprimer">
+<!ENTITY  printButton.accesskey "p">
+
+<!ENTITY  persToolbarIntro.label "Barre d'outils personnelle">
+<!ENTITY  homeButton.label "Accueil">
+<!ENTITY  homeButton.accesskey "A">
+<!ENTITY  bookmarksButton.label "Marque-pages">
+<!ENTITY  bookmarksButton.accesskey "M">
+
+<!ENTITY defaultBrowserGroup.label "Navigateur par défaut">
+<!ENTITY defaultBrowserButton.label "Définir le navigateur par défaut">
+<!ENTITY defaultBrowserButton.accesskey "D">
+<!ENTITY alreadyDefaultText "&brandShortName; est déjà votre navigateur par défaut.">
+<!ENTITY defaultPendingText "&brandShortName; sera défini comme navigateur par défaut quand vous cliquerez sur « OK ».">
+<!ENTITY makeDefaultText "Faire de &brandShortName; votre navigateur par défaut.">

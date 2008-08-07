@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
+  %preftreeDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>Prot&eacute;ger votre vie priv&eacute;e sur Internet</title>
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+</head>
+
+<body>
+  <h1 id="using_privacy_features">Utiliser les fonctionnalit&eacute;s de
+  confidentialit&eacute;</h1>
+
+  <p>Votre navigateur contient un certain nombre de fonctionnalit&eacute;s
+  permettant de prot&eacute;ger votre vie priv&eacute;e. Les sections qui
+  suivent d&eacute;crivent comment le navigateur vous aide &agrave;
+  contr&ocirc;ler les cookies, les mots de passe, les formulaires et les images
+  pendant que vous naviguez sur Internet.</p>
+
+  <p>Certains sites Web publient leur politique de confidentialit&eacute;
+  conform&eacute;ment au standard
+  <acronym title="Platform for Privacy Preferences">P3P</acronym>. Pour plus
+  d'informations sur la fa&ccedil;on de configurer votre navigateur en se
+  basant sur ce standard, voir la section <a href=
+  "using_priv_help.xhtml#setting_privacy_levels">Configurer les niveaux de
+  confidentialit&eacute;</a>.</p>
+
+  <p>Pour des informations &agrave; propos des fonctionnalit&eacute;s de
+  s&eacute;curit&eacute; de &brandShortName;, voir les sections <a href=
+  "mail_sec_help.xhtml">Signer et chiffrer des messages</a> et <a href=
+  "using_certs_help.xhtml">Utiliser les certificats</a>.</p>
+
+  <div class="contentsBox">
+    <p>Sujets concernant la confidentialit&eacute;&nbsp;:</p>
+
+    <ul>
+      <li><a href="#privacy_on_the_internet">Confidentialit&eacute; sur
+      Internet</a></li>
+
+      <li><a href="using_priv_help.xhtml#using_the_cookie_manager">Utiliser
+      le gestionnaire de cookies</a></li>
+
+      <li><a href="using_priv_help.xhtml#using_the_password_manager">Utiliser
+      le gestionnaire de mots de passe</a></li>
+
+      <li><a href="using_priv_help.xhtml#using_the_form_manager">Utiliser le
+      gestionnaire de formulaires</a></li>
+
+      <li><a href="using_priv_help.xhtml#encrypting_stored_sensitive_information">Chiffrer
+      les informations sensibles enregistr&eacute;es sur le disque dur</a></li>
+
+      <li><a href="using_priv_help.xhtml#managing_images">G&eacute;rer les
+      images</a></li>
+
+      <li><a href="cs_priv_prefs_popup.xhtml">G&eacute;rer les popups</a></li>
+
+      <li><a href="privsec_help.xhtml">Pr&eacute;f&eacute;rences de
+      confidentialit&eacute; et de s&eacute;curit&eacute;</a></li>
+    </ul>
+  </div>
+
+  <h1 id="privacy_on_the_internet">Confidentialit&eacute; sur Internet</h1>
+
+  <p>Cette section explique sommairement la confidentialit&eacute; des
+  informations sur Internet. Elle d&eacute;crit diverses actions &agrave;
+  effectuer pour mieux vous aider &agrave; prot&eacute;ger votre vie
+  priv&eacute;e. Elle n'est pas une description compl&egrave;te des sujets
+  relatifs &agrave; la confidentialit&eacute; sur Internet.</p>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href=
+      "#what_information_does_my_browser_give_to_a_web_site">Quelles
+      informations mon navigateur fournit-il &agrave; un site
+      Web&nbsp;?</a></li>
+
+      <li><a href="#what_are_cookies_and_how_do_they_work">Que sont les cookies
+      et comment fonctionnent-ils&nbsp;?</a></li>
+
+      <li><a href="#how_can_i_control_web_pages_in_email_messages">Comment
+      contr&ocirc;ler les pages Web dans les courriers&nbsp;?</a></li>
+
+      <li><a href=
+      "#how_can_i_make_sure_unauthorized_people_dont_use_information_about_me">Comment
+      m'assurer que des personnes non autoris&eacute;es n'utilisent pas des
+      informations me concernant&nbsp;?</a></li>
+    </ul>
+  </div>
+
+  <h2 id="what_information_does_my_browser_give_to_a_web_site">Quelles
+  informations mon navigateur fournit-il &agrave; un site Web&nbsp;?</h2>
+
+  <p>Quand votre navigateur affiche une page d'un site Web &ndash; par exemple,
+  chaque fois que vous cliquez sur un lien ou que vous saisissez une URL ou
+  lorsqu'une page Web s'affiche dans un message &eacute;lectronique &ndash;
+  votre navigateur envoie des informations au site. Ces informations peuvent
+  inclure, entre autres, votre environnement syst&egrave;me, votre adresse
+  Internet et la page depuis laquelle vous y acc&eacute;dez.</p>
+
+  <h3 id="system">Environnement syst&egrave;me</h3>
+
+  <p>Le site peut obtenir des informations sur votre environnement, telles que
+  le type de navigateur et le syst&egrave;me d'exploitation que vous utilisez.
+  Par exemple, le site peut savoir que vous utilisez la version
+  fran&ccedil;aise d'un navigateur de type &brandShortName; sur un syst&egrave;me
+  d'exploitation Linux. Ces informations permettent au site de fournir une page
+  ayant la meilleure pr&eacute;sentation visuelle vis-&agrave;-vis de votre
+  environnement.</p>
+
+  <h3 id="internet_address">L'adresse Internet</h3>
+
+  <p>Votre navigateur doit fournir au site votre adresse Internet (aussi
+  appel&eacute;e <em lang="en" xml:lang="en">Internet Protocol Address</em> ou
+  adresse IP) afin que le site sache o&ugrave; envoyer les pages que vous
+  demandez. Le site ne peut pas vous fournir les pages demand&eacute;es sans
+  conna&icirc;tre votre adresse IP.</p>
+
+  <p>Votre adresse IP peut &ecirc;tre temporaire (dynamique) ou fixe
+  (statique).</p>
+
+  <p>Si vous vous connectez &agrave; Internet via un modem standard
+  connect&eacute; &agrave; votre ligne t&eacute;l&eacute;phonique, alors votre
+  <acronym title="Fournisseur d'Acc&egrave;s &agrave; Internet">FAI</acronym>
+  peut vous assigner une adresse IP temporaire diff&eacute;rente &agrave;
+  chaque fois que vous vous connectez &ndash; par exemple, &agrave; chaque
+  d&eacute;connexion ou coupure de la ligne. Chaque <acronym title=
+  "Fournisseur d'Acc&egrave;s &agrave; Internet">FAI</acronym> dispose d'un
+  certain nombre d'adresses qu'il assigne aux utilisateurs de mani&egrave;re
+  al&eacute;atoire.</p>
+
+  <p>Si vous disposez d'un modem DSL, un modem par c&acirc;ble ou une connexion
+  par fibre optique, il se peut que vous utilisiez une adresse IP fixe qui vous
+  est assign&eacute;e jusqu'&agrave; r&eacute;siliation de votre
+  abonnement.</p>
+
+  <p>Votre adresse IP n'est pas votre adresse de messagerie
+  &eacute;lectronique.</p>
+
+  <h3 id="referrer">La page parente</h3>
+
+  <p>Le site est aussi inform&eacute; de la mani&egrave;re dont vous avez
+  acc&eacute;d&eacute; &agrave; l'une de ses pages (en provenance d'un autre
+  site Web ou par saisie de l'URL) ou bien, si vous y surfiez
+  d&eacute;j&agrave;, cela lui permet de conna&icirc;tre quelles pages vous
+  visitiez.</p>
+
+  <p>[&nbsp;<a href="#privacy_on_the_internet">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="what_are_cookies_and_how_do_they_work">Que sont les cookies et
+  comment fonctionnent-ils&nbsp;?</h2>
+
+  <p>Un cookie est une petite information utilis&eacute;e par certains sites
+  Web. Quand vous visitez un site qui les utilise, celui-ci peut demander
+  &agrave; votre navigateur de stocker sur votre disque dur un ou plusieurs
+  cookies.</p>
+
+  <p>Plus tard, lorsque vous retournerez sur le site, votre navigateur renverra
+  le cookie qui lui est associ&eacute;.</p>
+
+  <p>Si vous utilisez les options par d&eacute;faut pour la gestion des
+  cookies, vous n'avez pas connaissance de cette activit&eacute; et vous ne
+  savez pas quand un site ajoute un cookie ou quand le navigateur en renvoie
+  un. Toutefois, vous pouvez param&eacute;trer vos pr&eacute;f&eacute;rences
+  pour qu'il vous soit demand&eacute; l'autorisation d'ajouter un cookie. Pour
+  plus d'informations sur la fa&ccedil;on de proc&eacute;der, voir la section
+  <a href="using_priv_help.xhtml#setting_privacy_levels">Configurer les niveaux de
+  confidentialit&eacute;</a>.</p>
+
+  <h3 id="privacy_how">Comment les sites utilisent les informations contenues
+  dans un cookie&nbsp;?</h3>
+
+  <p>Les cookies permettent &agrave; un site d'avoir des informations sur vos
+  derni&egrave;res visites. Par exemple, si vous cherchez souvent la
+  m&eacute;t&eacute;o locale ou achetez des livres en ligne, le site utilisera
+  des cookies pour se souvenir dans quelle ville vous habitez ou quels auteurs
+  vous pr&eacute;f&eacute;rez, ce qui permet de rendre votre visite suivante
+  plus agr&eacute;able et plus pratique.</p>
+
+  <p>De nombreux sites Web publient des politiques de confidentialit&eacute;
+  d&eacute;crivant l'utilisation qu'ils font des informations qu'ils
+  re&ccedil;oivent.</p>
+
+  <p>Vous pouvez consulter la politique de confidentialit&eacute; d'un site
+  afin de conna&icirc;tre les informations qui lui sont envoy&eacute;es, de
+  quelles fa&ccedil;ons elles sont utilis&eacute;es et quels droits vous avez
+  concernant leur utilisation. Pour savoir comment cela fonctionne, voir la
+  section sur les <a href="using_priv_help.xhtml#viewing_privacy_policies">politiques
+  de confidentialit&eacute;</a>.</p>
+
+  <p>Pour plus d'informations sur la fa&ccedil;on de g&eacute;rer les cookies
+  avec l'aide de la publication des politiques de confidentialit&eacute;, voir
+  la section <a href="using_priv_help.xhtml#setting_privacy_levels">Configurer
+  les niveaux de confidentialit&eacute;</a>.</p>
+
+  <h3 id="what_are_third-party_cookies">Que sont les cookies d'un site
+  tiers&nbsp;?</h3>
+
+  <p>Si votre navigateur stocke le cookie d'un site, il ne retournera ce cookie
+  qu'&agrave; celui-ci. Votre navigateur ne fournira pas &agrave; un site les
+  cookies mis en place par d'autres sites. Comme un site Web ne peut recevoir
+  que ses propres cookies, il peut conna&icirc;tre vos activit&eacute;s chez
+  lui mais pas celles sur Internet en g&eacute;n&eacute;ral.</p>
+
+  <p>Mais parfois un site Web affiche le contenu d'un autre site. Ce contenu
+  peut &ecirc;tre une image, du texte ou n'importe quoi d'autre. Cet autre site
+  qui stocke ces &eacute;l&eacute;ments peut aussi cr&eacute;er un cookie sur
+  votre disque dur, alors que vous ne le visitez pas directement.</p>
+
+  <p>Les cookies qui sont stock&eacute;s par un autre site que celui que vous
+  &ecirc;tes en train de visiter sont appel&eacute;s cookies d'un site tiers,
+  cookies tierce-partie ou cookies &eacute;trangers. Les sites Web utilisent
+  parfois les cookies d'un site tiers avec des GIFs transparents, qui sont des
+  images sp&eacute;ciales permettant entre autre&nbsp;: le comptage des
+  visiteurs, le suivi de la r&eacute;ception de courriers (souvent
+  publicitaires), d'en apprendre plus sur les visiteurs qui utilisent le site,
+  de personnaliser la navigation (les GIFs transparents sont aussi
+  appel&eacute;s <em lang="en" xml:lang="en">web beacons</em> ou <em lang="en"
+  xml:lang="en">web bugs</em>).</p>
+
+  <p>Si vous le souhaitez, vous pouvez configurer vos pr&eacute;f&eacute;rences
+  de cookie pour que les sites puissent stocker les cookies normaux, mais pas
+  les cookies d'un site tiers.</p>
+
+  <p>[&nbsp;<a href="#privacy_on_the_internet">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id="how_can_i_control_web_pages_in_email_messages">Comment
+  contr&ocirc;ler les pages Web dans les courriers&nbsp;?</h2>
+
+  <p>Vous pouvez d&eacute;sactiver compl&egrave;tement les cookies, les images,
+  les scripts JavaScript et les plugins pour les pages Web contenues dans les
+  courriers.</p>
+
+  <p>Ces fonctionnalit&eacute;s peuvent &ecirc;tre utiles lorsque vous naviguez
+  sur le Web, mais elles ne sont pas n&eacute;cessaires dans les pages Web
+  jointes dans les courriers.</p>
+
+  <p>Pour plus d'informations sur la gestion des permissions accord&eacute;es
+  aux cookies, images, JavaScript et plugins dans les courriers, voyez les
+  sections suivantes&nbsp;:</p>
+
+  <ul>
+    <li><a href="using_priv_help.xhtml#cookies">Pr&eacute;f&eacute;rences
+    de confidentialit&eacute; et s&eacute;curit&eacute; -
+    Cookies</a>&nbsp;;</li>
+
+    <!--<li><a href="using_priv_help.xhtml#using_images">Pr&eacute;f&eacute;rences
+    de confidentialit&eacute; et s&eacute;curit&eacute; -
+    Images</a>&nbsp;;</li>-->
+
+    <li><a href="mail_help.xhtml#message_display">Pr&eacute;f&eacute;rences
+    de Courrier et Groupes - Affichage des messages</a></li>
+
+    <li><a href="cs_nav_prefs_advanced.xhtml#scripts_and_plug-ins">Pr&eacute;f&eacute;rences
+    avanc&eacute;es - &scriptsAndWindows.label;</a>.</li>
+  </ul>
+
+  <p>[&nbsp;<a href="#privacy_on_the_internet">Retour au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <h2 id=
+  "how_can_i_make_sure_unauthorized_people_dont_use_information_about_me">
+  Comment m'assurer que des personnes non autoris&eacute;es n'utilisent pas des
+  informations me concernant&nbsp;?</h2>
+
+  <p>Le meilleur moyen de conserver priv&eacute;es vos informations
+  personnelles est de lire les politiques de confidentialit&eacute; des sites
+  que vous visitez et des services Internet que vous utilisez, et de faire
+  attention aux informations que vous donnez en ligne.</p>
+
+  <p>Internet est un r&eacute;seau public. Lorsque vous diffusez vos nom,
+  num&eacute;ro de t&eacute;l&eacute;phone, adresse ou d'autres informations
+  sur ce r&eacute;seau (via une page Web, un courrier, etc.), il est possible
+  que quelqu'un d'autre les intercepte.</p>
+
+  <p>Voici quelques questions &agrave; vous poser &agrave; propos de la
+  politique de confidentialit&eacute; du site&nbsp;:</p>
+
+  <ul>
+    <li>Quels types d'informations personnelles essaie d'obtenir le
+    site&nbsp;?</li>
+
+    <li>Comment ce site utilisera ces informations&nbsp;?</li>
+
+    <li>Est-ce que ce site partagera les informations obtenues avec d'autres
+    sites et ai-je le choix quant &agrave; l'utilisation de mes
+    informations&nbsp;?</li>
+
+    <li>Puis-je acc&eacute;der &agrave; une partie ou la totalit&eacute; des
+    informations que je fournis au site, dans un but de v&eacute;rification ou
+    de modification&nbsp;?</li>
+
+    <li>Comment le site prot&egrave;ge les informations&nbsp;?</li>
+
+    <li>Comment contacter le site Web si j'ai des questions ou des
+    probl&egrave;mes&nbsp;?</li>
+  </ul>
+
+  <p>Pour plus d'informations sur l'utilisation et la lecture des politiques de
+  confidentialit&eacute; d'un site, voir la section sur les <a href=
+  "using_priv_help.xhtml#viewing_privacy_policies">politiques de
+  confidentialit&eacute;</a>.</p>
+
+  <p>[&nbsp;<a href="#privacy_on_the_internet">Retourner au d&eacute;but de la
+  section</a>&nbsp;]</p>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Derni&egrave;re traduction&nbsp;: 19 janvier 2006</em></p>
+
+    <p>Ce texte a &eacute;t&eacute; traduit et adapt&eacute; par une
+    &eacute;quipe internationale de b&eacute;n&eacute;voles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

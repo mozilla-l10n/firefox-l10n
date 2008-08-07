@@ -1,0 +1,77 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "Polices et encodages">
+<!ENTITY  window.width                            "55em">
+<!ENTITY  window.macWidth                         "59em">
+<!ENTITY  window.unixWidth                        "59em">
+
+<!ENTITY  language.label                          "Polices pour :">
+<!ENTITY  language.accesskey                      "o">
+
+<!ENTITY  typefaces.label                         "Apparence">
+<!ENTITY  sizes.label                             "Taille :">
+<!ENTITY  proportionalSize.accesskey              "T">
+<!ENTITY  monospaceSize.accesskey                 "e">
+
+<!ENTITY  proportional.label                      "Proportionnelle :">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "Serif :">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans serif :">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Largeur fixe :">
+<!ENTITY  monospace.accesskey                     "L">
+
+<!ENTITY  fontsize.units                          "pixels">
+
+<!ENTITY  font.langGroup.latin1                   "Occidental">
+<!ENTITY  font.langGroup.latin2                   "Europe centrale">
+<!ENTITY  font.langGroup.japanese                 "Japonais">
+<!ENTITY  font.langGroup.trad-chinese             "Chinois traditionnel (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Chinois simplifié">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Chinois traditionnel (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Coréen">
+<!ENTITY  font.langGroup.cyrillic                 "Cyrillique">
+<!ENTITY  font.langGroup.baltic                   "Balte">
+<!ENTITY  font.langGroup.el                       "Grec">
+<!ENTITY  font.langGroup.turkish                  "Turc">
+<!ENTITY  font.langGroup.unicode                  "Autres langues">
+<!ENTITY  font.langGroup.user-def                 "Défini par l'utilisateur">
+<!ENTITY  font.langGroup.thai                     "Thaï">
+<!ENTITY  font.langGroup.hebrew                   "Hébreu">
+<!ENTITY  font.langGroup.arabic                   "Arabe">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Arménien">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.canadian                 "Syllabaire canadien unifié">
+<!ENTITY  font.langGroup.ethiopic                 "Éthiopien">
+<!ENTITY  font.langGroup.georgian                 "Géorgien">
+<!ENTITY  font.langGroup.gujarati                 "Goudjarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Taille minimale de la police :">
+<!ENTITY minSize.accesskey                        "m">
+<!ENTITY minSize.none                             "Aucune">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!ENTITY  newLanguages.label                      "Il est possible de configurer de nouvelles langues avec le Panneau des langues.">
+
+<!ENTITY  useDocumentFonts.label                  "Autoriser les messages à utiliser d'autres polices">
+<!ENTITY  useDocumentFonts.accesskey              "A">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label                 "Courrier sortant :">
+<!ENTITY sendDefaultCharset.accesskey             "u">
+<!ENTITY languagesTitle1.label                    "Encodages des caractères">
+<!ENTITY composingDescription.label               "Réglage de l'encodage de caractères par défaut pour l'envoi et la réception de courrier">
+
+<!ENTITY viewDefaultCharsetList.label             "Courrier entrant :">
+<!ENTITY viewDefaultCharsetList.accesskey         "i">
+<!ENTITY replyInDefaultCharset2.label             "Quand c'est possible, utiliser l'encodage par défaut dans les réponses">
+<!ENTITY replyInDefaultCharset2.accesskey         "Q">

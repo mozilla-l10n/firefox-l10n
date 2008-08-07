@@ -1,0 +1,19 @@
+
+<!ENTITY  findABookmark.label               "Rechercher un marque-page…">
+<!ENTITY  findABookmark.accesskey           "c">
+<!ENTITY  newBookmark.label                 "Nouveau marque-page…">
+<!ENTITY  newBookmark.accesskey             "N">
+<!ENTITY  newFolder.label                   "Nouveau dossier…">
+<!ENTITY  newFolder.accesskey               "e">
+<!ENTITY  newSeparator.label                "Nouveau séparateur">
+<!ENTITY  newSeparator.accesskey            "s">
+<!ENTITY  setAsNewBookmarkFolder.label      "Définir comme nouveau dossier par défaut pour les marque-pages">
+<!ENTITY  setAsNewBookmarkFolder.accesskey  "m">
+<!ENTITY  setAsNewSearchFolder.label        "Définir comme nouveau dossier par défaut pour les résultats de recherche">
+<!ENTITY  setAsNewSearchFolder.accesskey    "r">
+<!ENTITY  setAsNewToolbarFolder.label       "Définir comme nouveau dossier de la barre d'outils personnelle">
+<!ENTITY  setAsNewToolbarFolder.accesskey   "p">
+<!ENTITY  exportBookmarks.label             "Exporter…">
+<!ENTITY  exportBookmarks.accesskey         "x">
+<!ENTITY  importBookmarks.label             "Importer…">
+<!ENTITY  importBookmarks.accesskey         "I">

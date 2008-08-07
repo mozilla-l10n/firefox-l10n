@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Journal des indésirables">
+<!ENTITY junkLogInfo.label "Journal du contrôle d'activité des indésirables.">
+<!ENTITY clearLog.label "Effacer le journal">
+<!ENTITY clearLog.accesskey "E">
+<!ENTITY closeLog.label "Fermer">
+<!ENTITY closeLog.accesskey "F">

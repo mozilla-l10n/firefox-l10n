@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "Composeur">
+<!ENTITY editorCheck.accesskey "C">
+
+<!ENTITY compose.label "Composeur">
+<!ENTITY editing.label "Nouvelle page">
+<!ENTITY toolbars.label "Barres d'outils">
+<!ENTITY publish.label "Publication">

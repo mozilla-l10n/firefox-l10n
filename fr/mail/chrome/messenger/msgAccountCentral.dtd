@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label        "Courrier électronique">
+<!ENTITY readMsgsLink.label           "Lire les messages">
+<!ENTITY composeMsgLink.label         "Écrire un nouveau message">
+
+<!ENTITY newsSectionHdr.label         "Groupes de discussion">
+<!ENTITY subscribeNewsLink.label      "Gérer les abonnements aux groupes de discussion">
+
+<!ENTITY accountsSectionHdr.label     "Comptes">
+
+<!ENTITY subscribeImapFolders.label   "Gérer les abonnements aux dossiers">
+<!ENTITY settingsLink.label           "Voir les paramètres pour ce compte">
+<!ENTITY newAcctLink.label            "Créer un nouveau compte">
+
+<!ENTITY advFeaturesSectionHdr.label  "Fonctions avancées">
+<!ENTITY searchMsgsLink.label         "Rechercher dans les messages">
+<!ENTITY filtersLink.label            "Gérer les filtres de messages">
+<!ENTITY junkSettings.label           "Paramètres des courriers indésirables">
+<!ENTITY offlineLink.label            "Paramètres hors ligne">
+
+<!ENTITY rssSectionHdr.label          "RSS Nouvelles et Blogs">
+<!ENTITY subscibeRSS.label            "Gérer les abonnements">

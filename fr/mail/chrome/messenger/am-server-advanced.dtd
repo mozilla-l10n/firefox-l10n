@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "Paramètres avancés des comptes">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "Paramètres avancés Serveur IMAP">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "Dossier sur le serveur IMAP :">
+<!ENTITY serverDirectory.accesskey "D">
+<!ENTITY usingSubscription.label "Afficher uniquement les dossiers avec abonnement">
+<!ENTITY usingSubscription.accesskey "A">
+<!ENTITY dualUseFolders.label "Le serveur supporte les dossiers contenant des sous-dossiers et des messages">
+<!ENTITY dualUseFolders.accesskey "L">
+<!ENTITY useIdle.label "Utiliser la commande IDLE si le serveur le permet">
+<!ENTITY useIdle.accesskey "U">
+<!ENTITY maximumConnectionsNumber.label "Nombre maximum de connexions au serveur à garder en cache">
+<!ENTITY maximumConnectionsNumber.accesskey "N">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Ces préférences spécifient les espaces de nom sur votre serveur IMAP">
+<!ENTITY personalNamespace.label "Espace de nom personnel :">
+<!ENTITY personalNamespace.accesskey "E">
+<!ENTITY publicNamespace.label   "Public (partagé) :">
+<!ENTITY publicNamespace.accesskey "P">
+<!ENTITY otherUsersNamespace.label    "Autres utilisateurs :">
+<!ENTITY otherUsersNamespace.accesskey "u">
+<!ENTITY overrideNamespaces.label "Permettre au serveur d'outrepasser ces espaces de nom">
+<!ENTITY overrideNamespaces.accesskey "r">
+<!ENTITY pop3Desc.label "Lors du téléchargement des messages POP pour ce serveur, utiliser le dossier suivant pour le nouveau courrier :" >
+<!ENTITY folderStorage.label "Où stocker les messages">
+<!ENTITY globalInbox.label "Boîte globale (compte Dossiers locaux)">
+<!ENTITY globalInbox.accesskey "B">
+<!ENTITY accountDirectory.label "Courrier entrant de ce compte">
+<!ENTITY accountDirectory.accesskey "C">
+<!ENTITY deferToServer.label "Courrier entrant d'un autre compte">
+<!ENTITY deferToServer.accesskey "o">
+<!ENTITY deferGetNewMail.label "Inclure ce serveur lors de la récupération des messages">
+<!ENTITY deferGetNewMail.accesskey "I">

@@ -1,0 +1,361 @@
+/* ***** BEGIN LICENSE BLOCK *****
+ * Version: MPL 1.1/GPL 2.0/LGPL 2.1
+ *
+ * The contents of this file are subject to the Mozilla Public License Version
+ * 1.1 (the "License"); you may not use this file except in compliance with
+ * the License. You may obtain a copy of the License at
+ * http://www.mozilla.org/MPL/
+ *
+ * Software distributed under the License is distributed on an "AS IS" basis,
+ * WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ * for the specific language governing rights and limitations under the
+ * License.
+ *
+ * The Original Code is Mozilla Help.
+ *
+ * The Initial Developer of the Original Code is
+ * R.J. Keller
+ * Portions created by the Initial Developer are Copyright (C) 2003
+ * the Initial Developer. All Rights Reserved.
+ *
+ * Contributor(s):
+ *
+ * Alternatively, the contents of this file may be used under the terms of
+ * either the GNU General Public License Version 2 or later (the "GPL"), or
+ * the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ * in which case the provisions of the GPL or the LGPL are applicable instead
+ * of those above. If you wish to allow use of your version of this file only
+ * under the terms of either the GPL or the LGPL, and not to allow others to
+ * use your version of this file under the terms of the MPL, indicate your
+ * decision by deleting the provisions above and replace them with the notice
+ * and other provisions required by the GPL or the LGPL. If you do not delete
+ * the provisions above, a recipient may use your version of this file under
+ * the terms of any one of the MPL, the GPL or the LGPL.
+ *
+ * ***** END LICENSE BLOCK ***** */
+
+/*  Importation des regles specifiques a chaque plateforme  */
+@import url("chrome://help/content/platformClasses.css");
+
+
+/*  Styles generaux pour les pages  */
+body {
+        margin: 2ex;
+        font-family: sans-serif;
+        font-size: 0.8em;
+        max-width: 120ex;
+        }
+
+/*  Definitions des liens */
+a {
+        text-decoration: none;
+        }
+a:hover {
+        color: #f00;
+        text-decoration: underline;
+        }
+/*a:visited {
+        text-decoration: none;
+        }*/
+:link:hover, :visited:hover {
+        color: -moz-activehyperlinktext;
+        }
+/* en-US use after instead of before, but, we use before to be able to use hreflang after the link */
+a[href^="http://"]:before ,a[href^="https://"]:before, a[href^="x-moz-url-link:"]:before {
+        content: url("chrome://help/locale/images/web-links.png");
+        text-decoration: none;
+        }
+a[href^="http://"]:after {
+        content: "\00a0[" attr(hreflang) "]";
+        }
+
+/*  Definitions des titres  */
+h1 {
+        text-align: left;
+        font-size: 2em;
+        margin: 0;
+        }
+h2 {
+        border-top: 1px solid black;
+        font-size: 1.5em;
+        padding-top: 0.2em;
+        margin: 0;
+        }
+h3 {
+        font-style: normal;
+        color: #009;
+        font-size: 1.2em;
+        margin-bottom: 0;
+        margin-top: 2em;
+        padding-top: 1em;
+        }
+h4, h6 {
+        margin: 0;
+        }
+h5 {
+        margin-top: 0;
+        font-style: normal;
+        }
+
+p:first-child {
+        padding-top: 0;
+        margin-top: 0;
+        }
+
+img {
+        border: 0;
+        background-color: transparent;
+        }
+img[alt] {
+        color: #f00;
+        font-weight: bold;
+        }
+
+i, cite, em, var, address {
+        font-style: italic;
+        }
+
+pre, code, samp {
+        font-family: monospace;
+        }
+tt, kbd {
+        /*font-family: sans-serif;*/
+        font-size: 1em;
+        }
+/*  Essai de style pour les touches du clavier */
+/*kbd {
+        background-color: #eee;
+        font-family: sans-serif;
+        -moz-border-radius: 6px;
+        border-top: 0px solid #e1e1e1;
+        border-right: 4px solid #d1d1d1;
+        border-bottom: 4px solid #e1e1e1;
+        border-left: 4px solid #e1e1e1;
+        padding: 0.1em;
+        margin: 1em 0 1em 0;
+        }*/
+pre {
+        white-space: pre;
+        }
+
+address {
+        margin-left: 0;
+        }
+
+blockquote {
+        margin-left: 0;
+        margin-right: 0;
+        }
+
+dir { list-style: disc }
+
+
+ul {
+        list-style: disc;
+        margin-left: -1em;
+        margin-top: 0;
+        margin-bottom: 5px;
+        }
+li {
+        margin-left: 0;
+        margin-top: 0;
+        margin-bottom: 5px;
+        }
+
+menu { margin: 0 }              /* tight formatting */
+
+ol {
+        list-style: decimal;
+        margin-left: -1em;
+        margin-top: 0;
+        margin-bottom: 5px;
+        }
+
+dt {
+        font-weight: bold;
+        }
+dd {
+        margin-left: 2em;
+        margin-bottom: 1em;
+        }
+dd dl {
+        margin-left: 1em;
+        }
+
+acronym {
+        /*cursor: help;*/
+        /*text-decoration: underline;*/
+        }
+
+.separate > li { margin-bottom: 0.5em; }
+
+/* Termes de l'interface graphique */
+.ui {
+        background-color: #B7F5C7;
+        }
+/* Disclaimer Mozilla Foundation */
+.boilerPlate {
+        font-size: 0.7em;
+        }
+/* Table des matieres des chapîtres   */
+
+.contentsBox {
+        margin: 1em 0;
+        color: #000;
+        background-color: #ccc;
+        border: 1px solid black;
+        width: 375px;
+        padding: 1em;
+        margin: 1em 0 1em 0;
+        }
+.contentsBox > ul {
+        list-style-type: square;
+        }
+/*.contentsBox li {
+
+        }*/
+.contentsBox li:hover {
+        color: #3c0;
+        }
+
+
+.makeLeftMargin {
+        margin-left: 2em;
+        }
+
+/*  Tableau */
+table {
+        background-color: #fff;
+        border: 1px solid #000;
+        text-align: center;
+        }
+caption {
+        font-weight: bold;
+        background-color: #eee;
+        border: 1px solid #000;
+        border-bottom: 0;
+        }
+tr {
+        }
+td {
+        }
+thead th {
+        background-color: #ccc;
+        color: #000;
+        text-align: center;
+        }
+tboby th {
+        font-weight: bold;
+        }
+
+.even {
+        background-color: #eee;
+        color: #000;
+        }
+.defaultTable {
+        border-collapse: collapse;
+        border: 1px solid grey;
+        width: 100%;
+        }
+.defaultTable td {
+        border: 1px solid grey;
+        padding: 4px;
+        }
+.defaultTable thead th {
+        background-color: #9cf;
+        border: 1px solid grey;
+        font-size: 0.8em;
+        padding: 4px;
+        text-align: center;
+        }
+.defaultTable tbody th {
+        background-color: #fc9;
+        border: 1px solid grey;
+        text-align: left;
+        }
+
+.defaultTable tbody > tr.even {
+        background-color: #eee;
+        }
+
+/* Colonne des tableaux de raccourcis claviers*/
+.commandColumn {
+        width: 40%;
+        }
+.osFirstColumn, .osSecondColumn, .osThirdColumn {
+        width: 20%;
+        }
+
+/* Pied de page : info de localisation  */
+#footer {
+        border-top: 1px solid black;
+        color: gray;
+        background-color: transparent;
+        margin-top: 2em;
+        }
+/* Definitions des styles pour les erreurs de publication  */
+.errors {
+        background-color: #ebebeb;
+        color: #000;
+        width: 35em;
+        padding: 0.5em;
+        }
+
+/* Definition des liens vers le glossaire      */
+.glossary {
+        color: green;
+        background-color: transparent;
+        cursor: help;
+        }
+
+
+/*      Guillemets francais avec espaces insecables : balise <q>texte</q>     */
+/* Specifie des paires de guillemets sur deux niveaux et pour deux langues*/
+q:lang(en) { quotes: '"' '"' "'" "'"; }
+q:lang(fr) { quotes: "\00ab\00a0" "\00a0\00bb" '\201c\00a0' '\00a0\201d'; }
+
+/*Insere des guillemets avant et apres le contenu d'un element Q*/
+q:before { content: open-quote; }
+q:after  { content: close-quote; }
+
+
+/* D�initions de style pour les images */
+dl.gallery {
+        border: 1px solid #000;
+        background-color: #eee;
+        text-align: center;
+        float: left;
+        padding: 10px;
+        margin: 0.5em 0.5em 1em 0;
+        }
+.gallery dt {
+        font-weight: bold;
+        margin: 0;
+        padding: 0;
+        }
+.gallery dt img {
+        border: 1px solid #000;
+        }
+.gallery dd {
+        font-weight: bold;
+        margin: 0;
+        padding: 0;
+        }
+
+/*   Aide a la traduction    */
+/*   Commenter ces regles pour les versions officielles    */
+/*.traduire {
+        margin: 0;
+        padding: 1em;
+        border: 3px solid #f00;
+        color: #000;
+        background-color: #dfd;
+        }
+.rediger {
+        margin: 0;
+        padding: 1em;
+        border: 2px solid #f00;
+        color: #000;
+        background-color: #ffd;
+        }
+q {background-color: #ccf; }*/

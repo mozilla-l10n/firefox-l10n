@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title       "Personnaliser les alertes pour un nouveau message">
+<!ENTITY window.width                     "32em">
+
+<!ENTITY alertCustomization.intro         "Choisir les champs à afficher dans la notification d'alerte :">
+<!ENTITY previewText.label                "Prévisualisation du message">
+<!ENTITY previewText.accesskey            "P">
+<!ENTITY subject.label                    "Sujet">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "Expéditeur">
+<!ENTITY sender.accesskey                 "E">

@@ -1,0 +1,90 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label     "Émoticône">
+<!ENTITY insertSmiley.accesskey "S">
+
+<!ENTITY smiley1Cmd.label "Sourire">
+<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "Insérer une émoticône Sourire">
+<!ENTITY smiley2Cmd.label "Mécontent">
+<!ENTITY smiley2Cmd.accesskey "M">
+<!ENTITY smiley2Cmd.tooltip "Insérer une émoticône Mécontent">
+<!ENTITY smiley3Cmd.label "Clin d'œil">
+<!ENTITY smiley3Cmd.accesskey "C">
+<!ENTITY smiley3Cmd.tooltip "Insérer une émoticône Clin d'œil">
+<!ENTITY smiley4Cmd.label "Moqueur">
+<!ENTITY smiley4Cmd.accesskey "q">
+<!ENTITY smiley4Cmd.tooltip "Insérer une émoticône Moqueur">
+<!ENTITY smiley5Cmd.label "Mort de rire">
+<!ENTITY smiley5Cmd.accesskey "d">
+<!ENTITY smiley5Cmd.tooltip "Insérer une émoticône Mort de rire">
+<!ENTITY smiley6Cmd.label "Embarrassé">
+<!ENTITY smiley6Cmd.accesskey "E">
+<!ENTITY smiley6Cmd.tooltip "Insérer une émoticône Embarassé">
+<!ENTITY smiley7Cmd.label "Perplexe">
+<!ENTITY smiley7Cmd.accesskey "P">
+<!ENTITY smiley7Cmd.tooltip "Insérer une émoticône Perplexe">
+<!ENTITY smiley8Cmd.label "Surprise">
+<!ENTITY smiley8Cmd.accesskey "u">
+<!ENTITY smiley8Cmd.tooltip "Insérer une émoticône Surprise">
+<!ENTITY smiley9Cmd.label "Bisou">
+<!ENTITY smiley9Cmd.accesskey "B">
+<!ENTITY smiley9Cmd.tooltip "Insérer une émoticône Bisou">
+<!ENTITY smiley10Cmd.label "Horreur !">
+<!ENTITY smiley10Cmd.accesskey "H">
+<!ENTITY smiley10Cmd.tooltip "Insérer une émoticône Horreur !">
+<!ENTITY smiley11Cmd.label "Cool">
+<!ENTITY smiley11Cmd.accesskey "l">
+<!ENTITY smiley11Cmd.tooltip "Insérer une émoticône Cool">
+<!ENTITY smiley12Cmd.label "Censuré">
+<!ENTITY smiley12Cmd.accesskey "n">
+<!ENTITY smiley12Cmd.tooltip "Insérer une émoticône Censuré">
+<!ENTITY smiley13Cmd.label "Oups !">
+<!ENTITY smiley13Cmd.accesskey "O">
+<!ENTITY smiley13Cmd.tooltip "Insérer une émoticône Oups !">
+<!ENTITY smiley14Cmd.label "Innocent">
+<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.tooltip "Insérer une émoticône Innocent">
+<!ENTITY smiley15Cmd.label "Triste">
+<!ENTITY smiley15Cmd.accesskey "r">
+<!ENTITY smiley15Cmd.tooltip "Insérer une émoticône Triste">
+<!ENTITY smiley16Cmd.label "Motus">
+<!ENTITY smiley16Cmd.accesskey "t">
+<!ENTITY smiley16Cmd.tooltip "Insérer une émoticône Motus">
+<!ENTITY SmileButton.tooltip    "Choisir une émoticône">

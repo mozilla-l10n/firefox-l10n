@@ -1,0 +1,77 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Rechercher des messages dans :">
+<!ENTITY searchHeading.accesskey     "d">
+<!ENTITY searchSubfolders.label      "Rechercher dans les sous-dossiers">
+<!ENTITY searchSubfolders.accesskey  "s">
+<!ENTITY resetButton.label           "Effacer">
+<!ENTITY resetButton.accesskey       "f">
+<!ENTITY optionsButton.label         "Options">
+<!ENTITY closeButton.label           "Fermer">
+<!ENTITY openButton.label            "Ouvrir">
+<!ENTITY openButton.accesskey        "o">
+<!ENTITY deleteButton.label          "Effacer">
+<!ENTITY deleteButton.accesskey      "e">
+<!ENTITY searchDialogTitle.label "Rechercher les messages">
+<!ENTITY conditionDesc.label         "Rechercher les messages qui :">
+<!ENTITY conditions.label            "Critère">
+<!ENTITY results.label               "Résultats">
+<!ENTITY fileHereMenu.label          "Classer ici">
+<!ENTITY fileHereMenu.accesskey      "C">
+<!ENTITY fileButton.label            "Classer">
+<!ENTITY fileButton.accesskey        "l">
+<!ENTITY closeCmd.key                "W">
+<!ENTITY goToFolderButton.label      "Aller au dossier du message">
+<!ENTITY goToFolderButton.accesskey  "l">
+<!ENTITY saveAsVFButton.label        "Sauver comme dossier virtuel">
+<!ENTITY saveAsVFButton.accesskey    "v">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Rechercher dans :">
+<!ENTITY abSearchHeading.accesskey   "d">
+<!ENTITY propertiesButton.label      "Propriétés">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Écrire">
+<!ENTITY composeButton.accesskey     "r">
+<!ENTITY abSearchDialogTitle.label   "Recherche avancée dans le carnet d'adresses">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Discussion">
+<!ENTITY fromColumn.label "Expéditeur">
+<!ENTITY recipientColumn.label "Destinataire">
+<!ENTITY subjectColumn.label "Sujet">
+<!ENTITY dateColumn.label "Date">
+<!ENTITY priorityColumn.label "Priorité">
+<!ENTITY tagsColumn.label "Étiquettes">
+<!ENTITY accountColumn.label "Compte">
+<!ENTITY statusColumn.label "État">
+<!ENTITY sizeColumn.label "Taille">
+<!ENTITY junkStatusColumn.label "Statut indésirable">
+<!ENTITY linesColumn.label "Lignes">
+<!ENTITY unreadColumn.label "Non lu">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Lu">
+<!ENTITY receivedColumn.label "Reçu">
+<!ENTITY starredColumn.label "Suivi">
+<!ENTITY locationColumn.label "Adresse">
+<!ENTITY idColumn.label "Ordre de réception">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Cliquez pour choisir les colonnes à afficher">
+<!ENTITY threadColumn.tooltip "Cliquez pour afficher les fils de discussion"> 
+<!ENTITY fromColumn.tooltip "Cliquez pour trier par expéditeur">
+<!ENTITY recipientColumn.tooltip "Cliquez pour trier par destinataire">
+<!ENTITY subjectColumn.tooltip "Cliquez pour trier par sujet">
+<!ENTITY dateColumn.tooltip "Cliquez pour trier par date">
+<!ENTITY priorityColumn.tooltip "Cliquez pour trier par priorité">
+<!ENTITY tagsColumn.tooltip "Cliquez pour trier par étiquettes">
+<!ENTITY accountColumn.tooltip "Cliquez pour trier par compte">
+<!ENTITY statusColumn.tooltip "Cliquez pour trier par statut">
+<!ENTITY sizeColumn.tooltip "Cliquez pour trier par taille">
+<!ENTITY junkStatusColumn.tooltip "Cliquez pour trier par statut indésirable">
+<!ENTITY unreadColumn.tooltip "Nombre de messages non-lus dans le fil">
+<!ENTITY totalColumn.tooltip "Nombre total de messages dans le fil">
+<!ENTITY readColumn.tooltip "Cliquez pour trier par statut de lecture">
+<!ENTITY receivedColumn.tooltip "Cliquez pour trier par date de réception">
+<!ENTITY starredColumn.tooltip "Cliquez pour trier par suivi">
+<!ENTITY locationColumn.tooltip "Cliquez pour trier par adresse">
+<!ENTITY idColumn.tooltip "Cliquez pour trier par ordre reçu">

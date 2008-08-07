@@ -1,0 +1,25 @@
+<!-- extracted from content/pref-proxies.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
+<!ENTITY  pref.proxies.title "Proxies">
+<!ENTITY  pref.proxies.desc "Un proxy est un service réseau qui peut filtrer et accélérer votre connexion Internet.">
+<!ENTITY  proxyTitle.label "Configurer le proxy pour accéder à Internet">
+<!ENTITY  directTypeRadio.label     "Pas de proxy">
+<!ENTITY  directTypeRadio.accesskey "d">
+<!ENTITY  manualTypeRadio.label "Configuration manuelle du proxy :">
+<!ENTITY  manualTypeRadio.accesskey "m">
+<!ENTITY  wpadTypeRadio.label "Découvrir automatiquement la configuration du proxy :">
+<!ENTITY  wpadTypeRadio.accesskey "a">
+<!ENTITY  autoTypeRadio.label "URL de configuration automatique du proxy :">
+<!ENTITY  autoTypeRadio.accesskey "U">
+<!ENTITY  reload.label "Actualiser">
+<!ENTITY  reload.accesskey "l">
+<!ENTITY  http.label "Proxy :">
+<!ENTITY  http.accesskey "P">
+<!ENTITY  port.label "Port :">
+<!ENTITY  HTTPport.accesskey "o">
+<!ENTITY  advanced.label "Avancées…">
+<!ENTITY  advanced.accesskey "v">
+<!ENTITY  noproxy.label "Pas de proxy pour :">
+<!ENTITY  noproxy.accesskey "y">
+<!ENTITY  noproxyExplain.label "Exemple : .mozilla.org, .net.nz, 192.168.1.0/24">

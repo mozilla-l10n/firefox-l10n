@@ -1,0 +1,54 @@
+<!ENTITY itemJunk.label          "Indésirables">
+<!ENTITY itemPhishing.label      "Courrier frauduleux">
+<!ENTITY itemPasswords.label     "Mots de passe">
+<!ENTITY itemAntiVirus.label     "Antivirus">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Définir les paramètres par défaut pour les indésirables. Pour configurer les paramètres pour les indésirables pour un compte particulier, se rendre dans le menu « Paramètres des comptes… ».">
+<!ENTITY manualMark.label "Quand je marque des messages comme indésirables :">
+<!ENTITY manualMark.accesskey "Q">
+<!ENTITY manualMarkModeMove.label "les déplacer dans le dossier « Indésirables »">
+<!ENTITY manualMarkModeMove.accesskey "d">
+<!ENTITY manualMarkModeDelete.label "les supprimer">
+<!ENTITY manualMarkModeDelete.accesskey "s">
+<!ENTITY markAsReadOnSpam.label "Marquer les messages détectés indésirables comme lus">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableJunkLogging.label "Activer la journalisation du filtre des indésirables">
+<!ENTITY enableJunkLogging.accesskey "j">
+<!ENTITY openJunkLog.label "Afficher le journal">
+<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY resetTrainingData.label "Réinitialiser les données d'apprentissage">
+<!ENTITY resetTrainingData.accesskey "R">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro "&brandShortName; peut analyser les messages pour trouver les courriers susceptibles d'être frauduleux en cherchant les techniques usuelles utilisées pour tromper les utilisateurs.">
+<!ENTITY enablePhishingDetector1.label    "Signaler si le message en cours de lecture est susceptible d'être frauduleux">
+<!ENTITY enablePhishingDetector1.accesskey  "S">
+<!ENTITY useDownloadedList.label "Utiliser une liste téléchargée de courriers susceptibles d'être frauduleux">
+<!ENTITY useDownloadedList.accesskey "U">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "&brandShortName; peut mémoriser les informations de connexion pour tous vos comptes afin d'éviter de devoir les saisir à nouveau.">
+<!ENTITY  encryptEnabled.label        "Utiliser un mot de passe principal pour chiffrer les mots de passe stockés">
+<!ENTITY  encryptEnabled.accesskey    "U">
+<!ENTITY  masterPassword.intro        "Une fois défini, le mot de passe principal protège tous vos mots de passe, mais il faut le saisir une fois par session.">
+<!ENTITY  setMasterPassword.label     "Mot de passe principal">
+<!ENTITY  setMasterPassword.accesskey "M">
+<!ENTITY  removeMasterPassword.label  "Supprimer le mot de passe principal…">
+<!ENTITY  removeMasterPassword.accesskey "S">
+<!ENTITY  editPasswords.label         "Modifier les mots de passe stockés">
+<!ENTITY  editPasswords.accesskey     "o">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; peut permettre aux logiciels antivirus d'analyser les courriers entrant avant qu'ils ne soient stockés localement.">
+<!ENTITY antiVirus.label      "Permettre aux logiciels antivirus de mettre individuellement en quarantaine les messages entrant">
+<!ENTITY antiVirus.accesskey  "P">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "Antivirus">
+<!ENTITY paswords.label         "Mots de passe">
+<!ENTITY emailScams.label       "Courriers frauduleux">
+<!ENTITY junkMail.label         "Courriers indésirables">
+<!ENTITY itemIntrusions.label   "Intrusions">
+<!ENTITY itemIntrusionsAndPasswords.label  "Intrusions et mots de passe">
+<!ENTITY itemJunkMail.label     "Courrier indésirable">

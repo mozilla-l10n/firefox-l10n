@@ -1,0 +1,13 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY window.title "Hors ligne">
+<!ENTITY boxHeader "Hors ligne">
+<!ENTITY rHeader "Hors ligne">
+<!--LOCALIZATION NOTE (textStart): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY textStart "Au démarrage de &brandShortName; :">
+<!ENTITY radioAskMode "Me demander si je veux un mode en ligne ou hors ligne">
+<!ENTITY radioUsePrev "Utiliser l'état en ligne/hors ligne précédent">

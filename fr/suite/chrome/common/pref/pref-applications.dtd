@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
+<!ENTITY pref.applications.title "Applications auxiliaires">
+
+<!ENTITY typeColumn.label        "Type de contenu">
+<!ENTITY typeColumn.accesskey    "T">
+
+<!ENTITY actionColumn2.label     "Action">
+<!ENTITY actionColumn2.accesskey "A">
+
+<!ENTITY filter.label            "Rechercher :">
+<!ENTITY filter.accesskey        "c">
+
+<!ENTITY clear.label             "Réinitialiser">
+<!ENTITY clear.accesskey         "l">

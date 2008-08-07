@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title             "Propriétés du fil de nouvelles">
+
+<!ENTITY feedFolder.label         "Stocker les articles du fil dans : ">
+<!ENTITY feedFolder.accesskey     "S">
+
+<!ENTITY feedLocation.label       "URL du fil : ">
+<!ENTITY feedLocation.accesskey   "U">
+
+<!ENTITY choosethisfolder.label   "choisir ce dossier">
+
+<!ENTITY quickMode.label          "Afficher le résumé de l'article plutôt que de télécharger la page Web">
+<!ENTITY quickMode.accesskey      "A">
+
+<!ENTITY copyLinkCmd.label        "Copier l'emplacement du lien">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
+<!ENTITY pasteLinkCmd.label       "Coller">
+<!ENTITY pasteLinkCmd.accesskey   "o">

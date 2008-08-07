@@ -1,0 +1,28 @@
+<!ENTITY  pref.editing.title        "Paramètres des nouvelles pages">
+
+<!ENTITY  authorName.label          "Auteur :">
+<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  pageColorHeader           "Apparence par défaut d'une nouvelle page">
+
+<!ENTITY defaultColorsRadio.label   "Couleurs par défaut du lecteur (ne pas fixer les couleurs de la page)">
+<!ENTITY defaultColors.accesskey    "d">
+<!ENTITY customColorsRadio.label    "Utiliser des couleurs personnalisées :">
+<!ENTITY customColors.accesskey     "p">
+
+<!ENTITY normalText.label           "Texte normal">
+<!ENTITY normalText.accesskey       "n">
+<!ENTITY linkText.label             "Texte avec un lien">
+<!ENTITY linkText.accesskey         "l">
+<!ENTITY activeLinkText.label       "Texte d'un lien actif">
+<!ENTITY activeLinkText.accesskey   "c">
+<!ENTITY visitedLinkText.label      "Texte d'un lien visité">
+<!ENTITY visitedLinkText.accesskey  "v">
+<!ENTITY background.label           "Fond de la page :">
+<!ENTITY background.accesskey       "F">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "Image de fond :">
+<!ENTITY backgroundImage.accesskey  "g">
+<!ENTITY chooseFile.label           "Choisir un fichier…">
+<!ENTITY chooseFile.accesskey       "o">
+

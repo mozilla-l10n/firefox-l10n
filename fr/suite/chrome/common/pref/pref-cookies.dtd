@@ -1,0 +1,37 @@
+<!ENTITY pref.cookies.title "Cookies">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label "Politique d'acceptation des cookies">
+
+<!ENTITY accAllCookiesRadio.label "Autoriser tous les cookies">
+<!ENTITY accAllCookiesRadio.accesskey "c">
+
+<!ENTITY accOrgCookiesRadio.label "Autoriser les cookies du serveur initial seulement">
+<!ENTITY accOrgCookiesRadio.accesskey "o">
+
+<!ENTITY disableCookies.label "Interdire les cookies">
+<!ENTITY disableCookies.accesskey "t">
+
+<!ENTITY cookieRetentionPolicy.label "Politique de conservation des cookies">
+
+<!ENTITY acceptNormally.label "Accepter les cookies normalement">
+<!ENTITY acceptNormally.accesskey "n">
+
+<!ENTITY acceptForSession.label "Accepter pour la session en cours seulement">
+<!ENTITY acceptForSession.accesskey "s">
+
+<!ENTITY acceptforNDays.label "Accepter les cookies pour">
+<!ENTITY acceptforNDays.accesskey "p">
+<!ENTITY days.label "jours">
+
+<!ENTITY warnAboutCookies.label "Demander pour chaque cookie">
+<!ENTITY warnAboutCookies.accesskey "D">
+<!ENTITY forCurrentSession.label "à l'exception des cookies de session">
+<!ENTITY forCurrentSession.accesskey "e">
+
+<!ENTITY manageCookies.label "Gérer les cookies et les sites">
+<!ENTITY manageCookiesDescription.label "Vous permet de visualiser et gérer les cookies enregistrés et les paramètres site par site d'acceptation et de rejet des cookies. Les paramètres de site supplanteront les paramètres ci-dessus.">
+
+<!ENTITY viewCookies.label "Gestion des cookies">
+<!ENTITY viewCookies.accesskey "G">

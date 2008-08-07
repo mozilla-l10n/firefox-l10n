@@ -1,0 +1,12 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>MediaDICO</ShortName>
+<Description>Les Dictionnaires Mediadico</Description>
+<InputEncoding>ISO-8859-1</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64,R0lGODlhEAAQAJEAAM44UP///8kkPzoohSH5BAAAAAAALAAAAAAQABAAAAJEnG8gy2IBj1qBvTumqAuHxHDO8JEgZZmqJj6R0bTIsQD2jdvdDG9QSnptQgIAxjRsGFVIUe34SQ6XJaSPswyWGozsrAAAOw==</Image>
+<Url type="text/html" method="GET" template="http://www.dictionnaire-mediadico.com/dictionnaires.asp">
+  <Param name="mot" value="{searchTerms}"/>
+  <Param name="Action" value="definition"/>
+  <Param name="alea" value="2005"/>
+</Url>
+<SearchForm>http://www.dictionnaire-mediadico.com/dictionnaires.asp</SearchForm>
+</SearchPlugin>

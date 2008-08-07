@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % browserDTD SYSTEM "chrome://browser/locale/browser.dtd" >
+  %browserDTD;
+  <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+  <!ENTITY % advancedDTD SYSTEM "chrome://browser/locale/preferences/advanced.dtd" >
+  %advancedDTD;
+  <!ENTITY % advanced-scriptsDTD SYSTEM "chrome://browser/locale/preferences/advanced-scripts.dtd" >
+  %advanced-scriptsDTD;
+  <!ENTITY % colorsDTD SYSTEM "chrome://browser/locale/preferences/colors.dtd" >
+  %colorsDTD;
+  <!ENTITY % contentDTD SYSTEM "chrome://browser/locale/preferences/content.dtd" >
+  %contentDTD;
+  <!ENTITY % fontsDTD SYSTEM "chrome://browser/locale/preferences/fonts.dtd" >
+  %fontsDTD;
+  <!ENTITY % preferencesDTD SYSTEM "chrome://browser/locale/preferences/preferences.dtd" >
+  %preferencesDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Fonctionnalités d'accessibilité de &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Fonctionnalités d'accessibilité de &brandFullName;</h1>
+
+  <p>&brandShortName; comprend beaucoup de fonctionnalités pour rendre le navigateur et le contenu
+    Web accessible à tous les utilisateurs, y compris les malvoyants et les aveugles ou les personnes
+    ayant des capacités limitées pour utiliser un clavier ou une souris.</p>
+
+  <div class="contentsBox">Dans cette section :
+    <ul>
+    <li><a href="#using_a_keyboard">Utilisation du clavier</a></li>
+    <li><a href="#using_a_mouse">Utilisation de la souris</a></li>
+    <li><a href="#fonts_and_colors">Polices et couleurs</a></li>
+    <li><a href="#controlling_web_content">Contrôle du contenu Web</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Compatibilité avec les technologies
+    assistives</a></li>
+    <li><a href="#finding_help_online">Trouver de l'aide en ligne</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Utilisation du clavier</h2>
+
+  <h3 id="keyboard_shortcuts">Raccourcis clavier</h3>
+
+  <p>Une liste des raccourcis clavier courants est disponible dans
+    <a href="shortcuts.xhtml">Raccourcis clavier de &brandShortName;</a>.
+    En ligne, vous pouvez consulter <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">un tableau comparatif
+    des raccourcis clavier</a> mis en œuvre dans &brandShortName;,
+    Microsoft Internet Explorer et Opera.</p>
+
+  <h3 id="always_use_cursor_keys">&useCursorNavigation.label;</h3>
+
+  <p><a href="prefs.xhtml#accessibility">&useCursorNavigation.label;</a>
+    permet de se déplacer dans le contenu Web comme si l'on se trouvait dans un
+    éditeur en lecture seule.
+    Vous pouvez utiliser le clavier pour sélectionner du contenu Web et le copier dans le
+    presse-papiers. Vous pouvez activer cette fonctionnalité en sélectionnant &pref.menuPath;,
+    en ouvrant l'onglet <em>&generalTab.label;</em> dans le panneau <em>&paneAdvanced.title;</em>
+    et en cochant <em>&useCursorNavigation.label;</em>.</p>
+
+  <p>Vous pouvez appuyer sur la touche <kbd>F7</kbd> à tout moment pour activer ou désactiver
+    cette fonctionnalité. Lorsque vous appuyez sur la touche <kbd>F7</kbd>, &brandShortName; vous
+    demande si vous voulez vraiment activer cette fonctionnalité. Vous pouvez désactiver cette invite en
+    cochant <em>Ne plus me montrer cette fenêtre à l'avenir.</em></p>
+<!-- toolkit/chrome/global/tabbrowser.properties:browsewithcaret.checkMsg=Ne plus me montrer cette fenêtre à l'avenir. -->
+
+  <h3 id="find_as_you_type">&searchStartTyping.label;</h3>
+
+  <p><a href="prefs.xhtml#accessibility">&searchStartTyping.label;</a>
+    permet de naviguer rapidement vers du texte ou des hyperliens dans une page
+    Web. Cette fonctionnalité possède deux modes. Appuyez sur
+    <abbr title="barre de fraction"><kbd>/</kbd></abbr> et
+    commencez à saisir pour chercher le texte dans la page en cours ou appuyez sur
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> avant de saisir votre chaîne pour chercher dans
+    les hyperliens seulement. &brandShortName; mettra en évidence le texte ou les hyperliens lors de la
+    frappe au clavier.</p>
+
+  <p>Les raccourcis clavier suivants contrôlent cette fonctionnalité :</p>
+
+  <ul>
+    <li>Saisissez plus de caractères pour réduire votre recherche. &brandShortName;
+      mettra en évidence le prochain texte ou hyperlien correspondant ou vous alertera si rien
+      ne correspond.</li>
+    <li>Appuyez sur les touches &accelKey;+<kbd>G</kbd> ou <kbd>F3</kbd> pour trouver l'occurrence suivante
+      de la chaîne actuellement recherchée.</li>
+    <li>Appuyez sur les touches &accelKey;+&shiftKey;+<kbd>G</kbd> ou &shiftKey;+<kbd>F3</kbd>
+      pour trouver l'occurrence précédente de la chaîne actuellement recherchée.</li>
+    <li>Appuyez sur la touche <kbd>Retour</kbd> pour effacer le dernier caractère que vous avez saisi.
+      &brandShortName; reviendra sur la dernière occurrence de texte mis en évidence.</li>
+    <li>Appuyez sur la touche <kbd>Échap</kbd> pour annuler une recherche. Vous pouvez également
+      annuler une recherche en changeant le focus, en faisant défiler la page à la souris ou au clavier ou en attendant simplement le dÃ©lai de temporisation.</li>
+  </ul>
+
+  <p>Vous pouvez modifier le comportement par défaut de cette fonctionnalité en
+    sélectionnant &pref.menuPath;, <em>&generalTab.label;</em> dans le panneau
+   <em>&paneAdvanced.title;</em> et en cochant <em>&useCursorNavigation.label;</em>.
+    Si cette &pref.singular; est cochée, vous pouvez commencer à saisir à tout moment
+    pour que la recherche en ligne démarre automatiquement.
+    Par défaut, les recherches démarrées automatiquement cherchent le texte dans la page.
+    Vous pouvez toujours appuyer sur les touches
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> ou
+    <abbr title="barre de fraction"><kbd>/</kbd></abbr> pour démarrer la recherche dans un mode
+    ou dans l'autre.</p>
+
+  <p>Vous pouvez utiliser cette fonctionnalité pour vous rendre sur les boutons, les boîtes de texte et
+    les autres contrôles de formulaires. Recherchez le texte immédiatement avant le contrôle
+    de formulaire que vous voulez et appuyez sur la touche <kbd>Tab</kbd>. Appuyer sur la touche
+    <kbd>Tab</kbd> permet de quitter automatiquement la recherche et met le focus sur le premier
+    champ de formulaire ou bouton suivant le texte mis en évidence.</p>
+
+  <h2 id="using_a_mouse">Utilisation de la souris</h2>
+
+  <h3 id="common_mouse_shortcuts">Raccourcis de souris courants</h3>
+
+  <p>Une liste des raccourcis de souris courants est disponible dans
+    <a href="mouse_shortcuts.xhtml">Raccourcis souris de &brandShortName;</a>.</p>
+
+  <h2 id="fonts_and_colors">Polices et couleurs</h2>
+
+  <h3 id="overriding_page_fonts">Passer outre les polices d'une page</h3>
+
+  <p>Certains sites Web peuvent afficher du texte avec des polices difficiles
+    à lire et d'autres peuvent s'appuyer sur les polices par défaut du navigateur. Vous pouvez
+    définir vos polices par défaut en vous rendant dans &pref.menuPath;, puis en
+    sélectionnant le panneau <em>&paneContent.title;</em>, puis une police par défaut
+    et une taille dans la section <em>&fontsAndColors.label;</em>.</p>
+
+  <p>Vous pouvez spécifier des polices par défaut pour différents styles, y compris serif,
+    sans-serif et monospace en cliquant sur le bouton <em>&advancedFonts.label;</em>.
+    Cependant, beaucoup de pages Web spécifient leurs propres polices et par conséquent,
+    vos choix n'auront aucun effet sur de telles pages. Pour passer outre les polices définies
+    sur de telles pages, cochez la case <em>&allowPagesToUse.label;</em>.</p>
+
+  <p>Veuillez noter que certaines pages Web peuvent s'afficher incorrectement en fonction
+    de votre choix d'une police par défaut.</p>
+
+  <h3 id="setting_a_minimum_font_size">Définition d'une taille de police minimale</h3>
+
+  <p>Certains sites Web peuvent afficher du texte trop petit pour qu'il soit lu facilement.
+    Pour rendre ces pages plus faciles à lire, vous pouvez définir une taille de police
+    minimale. Sur des pages qui essaient d'afficher du texte de taille inférieure à celle-ci,
+    &brandShortName; agrandira la taille du texte à la valeur que vous avez définie.</p>
+
+  <p>Pour définir une taille de police minimale, rendez-vous dans &pref.menuPath;, sélectionnez
+    le panneau <em>&paneContent.title;</em> et cliquez sur le bouton <em>&advancedFonts.label;</em> dans la section
+    <em>&fontsAndColors.label;</em>. Vous pouvez définir une taille de police minimale à partir
+    du menu déroulant.</p>
+
+  <p>Veuillez noter que certaines pages Web peuvent s'afficher incorrectement en fonction
+    de votre choix de la taille de police minimale.</p>
+
+  <h3 id="resizing_page_text">Redimensionnement du texte d'une page</h3>
+
+  <p>Vous pouvez modifier temporairement la taille du texte sur n'importe quelle page Web via le menu
+    <span class="menuPath">&viewMenu.label; &gt; &fullZoom.label;</span>. La nouvelle taille restera effective
+    même si vous naviguez sur un site Web différent et ce jusqu'à la fermeture de la fenêtre
+    ou de l'onglet du navigateur.</p>
+
+  <p>Les raccourcis clavier suivants contrôlent la taille du texte :</p>
+
+  <ul>
+    <li>Appuyez sur les touches &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> pour
+      augmenter la taille du texte. Ceci augmente la taille du texte à 120 % de la taille originale,
+      puis 150 %, 200 %, 300 %, 450 %, 675 %, 1013 % et 1519 %.</li>
+    <li>Appuyez sur les touches &accelKey;+<kbd><abbr title="moins">-</abbr></kbd> pour diminuier
+      la taille du texte. Ceci diminue la taille du texte à 90 % de la taille originale,
+      puis 50 %, 33 %, 22 %, 15 %, 10 %, 7 %, 4 %, 3 %, 2 %
+      et 1 %.</li>
+    <li>Appuyez sur les touches &accelKey;+<kbd>0</kbd> pour revenir à la taille originale
+      définie par la page Web.</li>
+  </ul>
+
+  <p>Veuillez noter que certaines pages Web peuvent s'afficher incorrectement si vous augmentez ou diminuez
+      la taille du texte.</p>
+
+  <h3 id="overriding_page_colors">Passer outre les couleurs de la page</h3>
+
+  <p>Certaines pages Web peuvent afficher des couleurs pour le texte et l'arrière-plan
+    qui rendent la lecture difficile et d'autres sites peuvent s'appuyer sur les couleurs par défaut
+    du navigateur. Vous pouvez définir les couleurs par défaut en vous rendant sur &pref.menuPath;,
+    en sélectionnant le panneau <em>&paneContent.title;</em> et en cliquant sur le bouton
+    <em>&colors.label;</em> dans la section <em>&fontsAndColors.label;</em>. Vous pouvez définir
+    les couleurs du texte et de l'arrière-plan ainsi que les couleurs pour les hyperliens visités
+    ou pas. Vous pouvez également spécifier si les hyperliens doivent être soulignés
+    ou pas.</p>
+
+  <p>Cependant, beaucoup de pages Web définissent leurs propres couleurs et donc vos choix
+    seront sans effet. Pour passer outre les couleurs définies par les pages Web, la case
+    <em>&allowPagesToUse.label;</em> ne doit pas être cochée.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Utilisation du thème « Contraste élevé »</h3>
+
+    <p>&brandShortName; détecte automatiquement l'utilisation du thème
+      « Contraste élevé » et affiche tout selon votre choix de couleur de contraste.
+      Ceci outrepasse tous les autres paramètres du navigateur ou des pages Web et affecte également l'interface de
+      &brandShortName; (tous les menus, fenêtres et boîtes de dialogue) ainsi que le contenu de toute page Web
+      que vous visitez.</p>
+
+    <p class="win">Pour utiliser le thème « Contraste élevé », allez dans
+      <span class="menuPath">Menu Démarrer &gt; Panneau de configuration &gt;
+      Options d'accessibilité &gt; Affichage</span> et cochez la case
+      <em>Utiliser le contraste élevé</em>.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Contrôle du contenu Web</h2>
+
+  <h3 id="blocking_popup_windows">Blocage des fenêtres popup</h3>
+
+  <p>Consultez <a href="popup.xhtml">Contrôle des fenêtres popup</a> pour des informations
+    sur le blocage des fenêtres popup.</p>
+
+  <h3 id="turning_off_java_applets">Désactiver les applets Java</h3>
+
+  <p>Certaines pages Web fournissent une riche expérience interactive avec les applets Java™.
+    Cependant, certains utilisateurs qui n'utilisent que la navigation au clavier peuvent rencontrer
+    des problèmes avec certaines applets Java qui définissent automatiquement le focus
+    et qui ne donnent pas de moyens de « sortir » de l'applet et de
+    naviguer sur le reste de la page. Si c'est un problème pour vous,
+    vous pouvez désactiver Java en allant dans &pref.menuPath;, en sélectionnant le panneau
+    <em>&paneContent.title;</em> et en décochant la case <em>&enableJava.label;</em>.</p>
+
+  <h3 id="restricting_javascript_behavior">Limiter le comportement JavaScript</h3>
+
+  <p>Vous pouvez désactiver totalement JavaScript en allant dans &pref.menuPath;,
+    en sélectionnant le panneau <em>&paneContent.title;</em> et en décochant la case
+    <em>&enableJavaScript.label;</em>. Certaines pages Web s'appuient sur JavaScript et peuvent ne
+    pas fonctionner correctement si JavaScript est désactivé.</p>
+
+  <p>Si vous ne voulez pas désactiver totalement JavaScript, il existe aussi plusieurs
+    paramètres avancés JavaScript pour limiter le comportement des scripts.
+    Juste après la case à cocher <em>&enableJavaScript.label;</em>,
+    cliquez sur le bouton <em>&advancedJS.label;</em> pour ouvrir la fenêtre
+    <em>&advancedJSDialog.title;</em>. Vous pouvez contrôler si les scripts sont autorisés
+    à déplacer ou redimensionner les fenêtres existantes, les placer à
+    l'avant ou à l'arrière-plan, à désactiver ou remplacer les menus contextuels,
+    à masquer la barre d'état ou à changer son texte.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Compatibilité avec les
+    technologies assistives</h2>
+
+  <p>Les dernières informations sur la compatibilité avec des technologies assistives
+    tierces sont consultables en ligne sur <a target="_blank"
+    href="http://www.mozilla.org/access/compatibility">Accéder à Mozilla :
+    Compatibilité avec les technologies assistives</a>.</p>
+
+  <h2 id="finding_help_online">Trouver de l'aide en ligne</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific maintient plusieurs
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">listes de
+      diffusion pour les utilisateurs de JAWS</a>.</p>
+
+    <p>GW Micro maintient plusieurs
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">listes de
+      diffusion pour les utilisateurs de Window Eyes</a>.</p>
+  </div>
+
+  <p>Vous pouvez <span class="win">également</span> poster des questions sur l'accessibilité
+     sur le
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">forum d'aide de
+    &brandShortName;</a>.</p>
+
+  <div class="contentsBox"><em>29 août 2006</em></div>
+
+  <p>Copyright © &copyright.years; Les contributeurs du Projet Mozilla Help Viewer.</p>
+
+  <p><em>Traduction : dernière révision : 14 septembre 2006</em></p>
+  <p>Ce texte a été traduit et adapté par une équipe
+    internationale de bénévoles francophones. Pour plus
+    d'informations, visitez notre site : <a
+    href="http://frenchmozilla.sourceforge.net/" target="_blank">http://frenchmozilla.sourceforge.net</a>.
+  </p>
+
+</body>
+</html>

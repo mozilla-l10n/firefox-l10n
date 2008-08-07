@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Joindre cette image au message">
+<!ENTITY attachImageSource.accesskey     "J">
+
+<!ENTITY attachLinkSource.label          "Joindre le code source de ce lien au message">
+<!ENTITY attachLinkSource.accesskey      "o">

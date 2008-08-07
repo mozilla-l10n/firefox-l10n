@@ -1,0 +1,26 @@
+<!ENTITY pref.popups.title "Fenêtres popup">
+
+<!ENTITY pref.popups.caption "Fenêtres popup">
+
+<!ENTITY popupDesc.label "Préciser la manière de gérer les fenêtres qui s'ouvrent devant ou derrière la fenêtre du navigateur :">
+
+<!ENTITY popupBlock.label "Bloquer les fenêtres popup non désirées">
+<!ENTITY popupBlock.accesskey "B">
+
+<!ENTITY popupExceptions.label "Sites autorisés…">
+<!ENTITY popupExceptions.accesskey "S">
+
+<!ENTITY whenBlock.description "Lorsqu'une fenêtre popup a été bloquée :">
+<!ENTITY playSound.label "Jouer un son :">
+<!ENTITY playSound.accesskey "s">
+
+<!ENTITY selectSound.label "Parcourir…">
+<!ENTITY selectSound.accesskey "P">
+<!ENTITY previewSound.label "Aperçu">
+<!ENTITY previewSound.accesskey "u">
+<!ENTITY selectSound.title "Sélectionnez le son pour le blocage d'une fenêtre popup">
+
+<!ENTITY displayIcon.label "Afficher une icône dans la barre d'état du navigateur">
+<!ENTITY displayIcon.accesskey "c">
+
+<!ENTITY popupNote.description "Note : bloquer toutes les fenêtres popup peut empêcher l'ouverture de fenêtres utiles, telles que les fenêtres de connexion à des sites marchands ou bancaires. Cliquez sur Aide pour savoir comment autoriser certains sites à ouvrir de telles fenêtres tout en bloquant les autres. Même bloqués, certains sites peuvent utiliser d'autres méthodes pour afficher des fenêtres popup.">

@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Notification d'état de distribution">
+<!ENTITY useGlobalPrefs.label       "Utiliser mes préférences globales de notification d'état de distribution pour ce compte">
+<!ENTITY useGlobalPrefs.accesskey   "U">
+<!ENTITY useCustomPrefs.label       "Personnaliser la notification d'état de distribution pour ce compte">
+<!ENTITY useCustomPrefs.accesskey   "P">
+<!ENTITY requestAlways.label        "Lors de l'envoi de message, toujours demander une notification d'état de distribution">
+<!ENTITY requestAlways.accesskey    "L">
+<!ENTITY optionTitle.label          "Demander une notification pour :">
+<!ENTITY requestOnSucess.label      "Une distribution réussie">
+<!ENTITY requestOnSucess.accesskey  "r">
+<!ENTITY requestOnFailure.label     "Un échec de la distribution">
+<!ENTITY requestOnFailure.accesskey "c">
+<!ENTITY requestOnDelay.label       "Un délai dans la distribution">
+<!ENTITY requestOnDelay.accesskey   "d">
+<!ENTITY requestNever.label         "Ne jamais recevoir de notification d'état de distribution">
+<!ENTITY requestNever.accesskey     "N">

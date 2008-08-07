@@ -1,0 +1,43 @@
+<!-- extracted from tasksOverlay.xul -->
+<!-- LOCALIZATION NOTE (navigatorCmd.label): DONT_TRANSLATE -->  
+<!ENTITY navigatorCmd.label "Navigateur">
+<!ENTITY navigatorCmd.accesskey "N">
+<!ENTITY navigatorCmd.commandkey "1">
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label "Composeur">
+<!ENTITY editorCmd.accesskey "o">
+<!ENTITY editorCmd.commandkey "4">
+
+<!ENTITY securityInfoCmd.label "Informations de sécurité">
+<!ENTITY securityInfoCmd.accesskey "s">
+<!ENTITY javaConsoleCmd.label "Console Java">
+<!ENTITY javaConsoleCmd.accesskey "J">
+
+<!ENTITY errorConsoleCmd.label "Console d'erreurs">
+<!ENTITY errorConsoleCmd.accesskey "s">
+
+<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
+<!ENTITY privacyMenu.label "Confidentialité et sécurité">
+<!ENTITY privacyMenu.accesskey "s">
+
+<!ENTITY taskNavigator.tooltip "Navigateur">
+<!ENTITY taskComposer.tooltip "Composeur">
+<!ENTITY taskBar.tooltip "Barre d'état">
+
+<!ENTITY webDevelopment.label "Développement Web">
+<!ENTITY webDevelopment.accesskey "W">
+
+<!ENTITY windowMenu.label "Fenêtre">
+<!ENTITY windowMenu.accesskey "t">
+
+<!ENTITY tasksMenu.label "Outils">
+<!ENTITY tasksMenu.accesskey "O"> 
+
+<!ENTITY downloadManagerCmd.label "Téléchargements">
+<!ENTITY downloadManagerCmd.accesskey "T">
+
+<!ENTITY addonsManagerCmd.label "Modules complémentaires">
+<!ENTITY addonsManagerCmd.accesskey "d">
+
+<!ENTITY switchProfileCmd.label "Changer de profil…">
+<!ENTITY switchProfileCmd.accesskey "h">

@@ -1,0 +1,14 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Saisissez l'adresse Web (URL), ou indiquez le fichier local à ouvrir :">
+<!ENTITY enter.accesskey "a">
+<!ENTITY chooseFile.label "Choisir un fichier…">
+<!ENTITY chooseFile.accesskey "C">
+<!ENTITY newWindow.label "Nouvelle fenêtre du navigateur">
+<!ENTITY newTab.label "Nouvel onglet du navigateur">
+<!ENTITY topWindow.label "Fenêtre actuelle du navigateur">
+<!ENTITY editNewWindow.label "Nouvelle fenêtre du composeur">
+<!ENTITY open.label "Ouvrir">
+<!ENTITY caption.label "Ouvrir l'adresse Web">
+<!ENTITY openWhere.label "Ouvrir dans :">
+<!ENTITY openWhere.accesskey "O">

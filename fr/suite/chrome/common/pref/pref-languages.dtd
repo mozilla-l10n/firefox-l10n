@@ -1,0 +1,45 @@
+<!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
+
+<!ENTITY  languages.customize.prefLangDescript "Certaines pages Web sont disponibles en plusieurs langues. Choisissez les langues à utiliser par ordre de préférence.">
+<!ENTITY languages.customize.lHeader "Langues">
+<!ENTITY languages.customize.rHeader "Langues utilisées pour afficher les pages">
+<!ENTITY langtitle.label "Langue des pages Web">
+<!ENTITY languages.customize.prefAddLangDescript "Sélectionner les langues que vous voulez ajouter.">
+<!ENTITY languages.customize.engOrder.label "1">
+<!ENTITY languages.customize.engOption.label "Anglais">
+<!ENTITY languages.customize.addButton.label "Ajouter…">
+<!ENTITY languages.customize.addButton.accesskey "j">
+<!ENTITY languages.customize.deleteButton.label "Supprimer">
+<!ENTITY languages.customize.deleteButton.accesskey "u">
+<!ENTITY languages.customize.title.label "Personnaliser les langues">
+<!ENTITY languages.customize.add.title.label "Ajouter des langues">
+<!ENTITY languages.customize.left.header "Encodage des caractères">
+<!ENTITY charset.customize.right.header "Sélectionner les encodages de car. supportés">
+<!ENTITY languages.customize.available.label "Langues :">
+<!ENTITY languages.customize.active.label "Langues préférées :">
+<!ENTITY languages.customize.reorder.label "Réordonner">
+<!ENTITY languages.customize.remove.label "Supprimer">
+<!ENTITY languages.customize.additional.label "Encodages de car. disponibles">
+<!ENTITY languages.customize.add.label "Ajouter">
+<!ENTITY languages.customize.others.label "Autres :">
+<!ENTITY languages.customize.others.accesskey "u">
+<!ENTITY languages.customize.Charset.grouplabel "Encodage des caractères">
+<!ENTITY languages.customize.DefaultCharset.label "Encodage de caractères par défaut :">
+<!ENTITY languages.customize.DefaultCharset.accesskey "n">
+<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
+<!ENTITY languages.customize.others.examples "Exemples : fr-FR, ar-jo">
+<!ENTITY languages.customize.cancel.label "Annuler">
+<!ENTITY languages.customize.save.label "Enregistrer">
+<!ENTITY languages.customize.ok.label "OK">
+<!ENTITY languages.customize.save.popup "Veuillez redémarrer le navigateur pour que vos changements prennent effets…">
+<!ENTITY languages.customize.moveUp.label "Monter">
+<!ENTITY languages.customize.moveUp.accesskey "M">
+<!ENTITY languages.customize.moveDown.label "Descendre">
+<!ENTITY languages.customize.moveDown.accesskey  "D">
+
+<!ENTITY spelling.label "Orthographe">
+<!ENTITY checkSpelling.label "Vérifier l'orthographe lors de la saisie :">
+<!ENTITY checkSpelling.accesskey "V">
+<!ENTITY dontCheckSpelling.label "jamais">
+<!ENTITY multilineCheckSpelling.label "dans les boîtes multiligne">
+<!ENTITY alwaysCheckSpelling.label "toujours">

@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % pref-composerDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %pref-composerDTD;
+  <!ENTITY % pref-securityDTD SYSTEM "chrome://pippki/locale/pref-security.dtd" >
+  %pref-securityDTD;
+  <!ENTITY % certManagerDTD SYSTEM "chrome://pippki/locale/certManager.dtd" >
+  %certManagerDTD;
+  <!ENTITY % pippkiDTD SYSTEM "chrome://pippki/locale/pippki.dtd" >
+  %pippkiDTD;
+  <!ENTITY % deviceManagerDTD SYSTEM "chrome://pippki/locale/deviceManager.dtd" >
+  %deviceManagerDTD;
+  <!ENTITY % newserverDTD SYSTEM "chrome://pippki/locale/newserver.dtd" >
+  %newserverDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>Information et décisions sur les certificats</title>
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+</head>
+
+<body>
+  <div class="boilerPlate">
+    Ce document est uniquement pour votre information. Il
+    peut vous aider à prendre quelques précautions pour
+    protéger la confidentialité et la sécurité de
+    vos informations personnelles sur Internet. Ce document n'est en aucun cas
+    une documentation exhaustive de toutes les préférences de
+    sécurité en ligne, ni une recommandation à
+    propos de ce qui constitue une bonne sécurité sur Internet.
+  </div>
+
+  <h1 id="certificate_information_and_decisions">Informations et
+  décisions concernant les certificats</h1>
+
+  <p>Cette section décrit comment utiliser les différentes
+  fenêtres affichées par le gestionnaire de certificats. Les
+  informations complémentaires fournies ici sont accessibles en cliquant
+  sur le bouton d'aide dans l'une de ses fenêtres.</p>
+
+  <div class="contentsBox">
+    <!-- <div class="contentsBox">In this section: -->
+
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#certificate_viewer">&certmgr.certdetail.title;</a></li>
+
+      <li><a href="#choose_security_device">Choisir un
+      périphérique de sécurité</a></li>
+
+      <li><a href="#encryption_key_copy">Copier une clé de
+      chiffrement</a></li>
+
+      <li><a href="#certificate_backup">Sauvegarder des certificats</a></li>
+
+      <li><a href="#user_identification_request">Requête d'identification
+      d'un utilisateur</a></li>
+
+      <li><a href="#new_certificate_authority">Nouvelle autorité de
+      certification</a></li>
+
+      <li><a href="#web_site_certificates">Certificats de site Web</a></li>
+    </ul>
+  </div>
+
+  <h2 id="certificate_viewer">&certmgr.certdetail.title;</h2>
+
+  <p>La fenêtre <q>&certmgr.certdetail.title;</q> affiche des
+  informations au sujet du certificat que vous avez choisi dans l'un des
+  onglets du gestionnaire de certificats. L'onglet <q>&certmgr.detail.general_tab.title;</q>
+  résume les informations relatives à un certificat, telles que
+  l'émetteur du certificat, son statut de vérification, les
+  applications pour lesquelles le certificat peut être utilisé,
+  etc. L'onglet <q>&certmgr.detail.prettyprint_tab.title;</q> fournit des informations complètes
+  sur le contenu du certificat.</p>
+
+  <p>Si le gestionnaire de certificats n'est pas visible actuellement, suivez
+  ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q> et
+    choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la catégorie <q>Confidentialité &amp; Sécurité</q>,
+    cliquez sur <q>&certs.label;</q>. Si aucune
+    sous-catégorie n'est visible, double-cliquez sur
+    <q>Confidentialité &amp; Sécurité</q> pour
+    développer la liste.</li>
+
+    <li>Cliquez sur <q>&managecerts.button;</q>.</li>
+
+    <li>Cliquez sur l'onglet correspondant au type de certificat dont vous
+    voulez voir les détails.</li>
+
+    <li>Sélectionnez le certificat dont vous voulez voir les
+    détails.</li>
+
+    <li>Cliquez sur <q>&certmgr.view2.label;</q>.</li>
+  </ol><!-- <div class="contentsBox">In this section: -->
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#general_tab">Onglet <q>&certmgr.detail.general_tab.title;</q></a></li>
+
+      <li><a href="#details_tab">Onglet <q>&certmgr.detail.prettyprint_tab.title;</q></a></li>
+    </ul>
+  </div>
+
+  <h3 id="general_tab">Onglet <q>&certmgr.detail.general_tab.title;</q></h3>
+
+  <p>Quand vous ouvrez la fenêtre <q>&certmgr.certdetail.title;</q>,
+  l'onglet <q>&certmgr.detail.general_tab.title;</q> affiche diverses informations sur le
+  certificat sélectionné&nbsp;:</p>
+
+  <dl>
+    <dt>Ce certificat a été vérifié pour les
+    utilisations suivantes&nbsp;:</dt>
+
+    <dd>
+      Voir la définition <a href=
+      "glossary.xhtml#certificate_verification" class=
+      "glossary">vérification de certificat</a> pour une explication sur
+      la façon dont le gestionnaire de certificats vérifie les
+      certificats. Les utilisations possibles sont les suivantes&nbsp;:
+
+      <dl>
+        <dt>Certificat client SSL&nbsp;:</dt>
+
+        <dd>Certificat utilisé pour vous identifier auprès des
+        sites Web.</dd>
+
+        <dt>Certificat serveur SSL&nbsp;:</dt>
+
+        <dd>Certificat utilisé pour identifier un serveur Web
+        auprès des navigateurs.</dd>
+
+        <dt>Certificat de signature de courrier&nbsp;:</dt>
+
+        <dd>Certificat utilisé pour vous identifier afin de signer
+        numériquement le courrier que vous envoyez.</dd>
+
+        <dt>Certificat de réception de courrier&nbsp;:</dt>
+
+        <dd>Certificat utilisé pour identifier une autre personne (par
+        exemple, afin de lui envoyer un message chiffré).</dd>
+
+        <dt>Certificat de statut du répondeur&nbsp;:</dt>
+
+        <dd>Certificat utilisé pour identifier un répondeur de
+        statut en ligne qui utilise le <acronym title=
+        "Protocole en Ligne de Statut de Certificat">PLSC</acronym> (ou
+        <acronym title="Online Certificate Status Protocol">OCSP</acronym> en
+        anglais) pour vérifier la validité des certificats. Pour
+        plus d'informations sur le <acronym title=
+        "Protocole en Ligne de Statut de Certificat">PLSC</acronym>, voir la
+        section <a href="validation_help.xhtml">Préférences de
+        validation</a>.</dd>
+
+        <dt>Autorité de certification SSL&nbsp;:</dt>
+
+        <dd>Certificat utilisé pour identifier une autorité de
+        certification, c'est-à-dire un service qui émet des
+        certificats servant à l'identification sur les réseaux
+        informatiques.</dd>
+      </dl>
+    </dd>
+
+    <dt>&certmgr.subjectinfo.label;&nbsp;:</dt>
+
+    <dd>
+      Récapitule les informations suivantes concernant le
+      certificat&nbsp;:
+
+      <dl>
+        <dt>&certmgr.certdetail.cn;&nbsp;:</dt>
+
+        <dd>Le nom de la personne ou de l'entité que le certificat
+        identifie.</dd>
+
+        <dt>&certmgr.certdetail.o;&nbsp;:</dt>
+
+        <dd>Le nom de l'organisation à laquelle l'entité
+        appartient (par exemple, le nom de la compagnie).</dd>
+
+        <dt>&certmgr.certdetail.ou;&nbsp;:</dt>
+
+        <dd>Le nom de l'unité organisationnelle à laquelle
+        appartient l'entité (par exemple, le service de
+        comptabilité).</dd>
+
+        <dt>&certmgr.certdetail.serialnumber;&nbsp;:</dt>
+
+        <dd>Le numéro de série du certificat.</dd>
+      </dl>
+    </dd>
+
+    <dt>&certmgr.issuerinfo.label;&nbsp;:</dt>
+
+    <dd>Récapitule les mêmes informations que celles
+    décrites sous <q>&Eacute;mis à</q>, mais à propos de
+    l'autorité de certification (AC) qui a émis ce
+    certificat.</dd>
+
+    <dt>&certmgr.validity.label;&nbsp;:</dt>
+
+    <dd>Indique la période durant laquelle le certificat est
+    valide.</dd>
+
+    <dt>&certmgr.fingerprints.label;&nbsp;:</dt>
+
+    <dd>Liste les empreintes numériques du certificat. Une empreinte
+    numérique est un nombre unique produit en appliquant une fonction
+    mathématique au contenu d'un certificat. L'empreinte
+    numérique d'un certificat peut être employée pour
+    vérifier que le certificat n'a pas été
+    altéré.</dd>
+  </dl>
+
+  <h3 id="details_tab">Onglet <q>&certmgr.detail.prettyprint_tab.title;</q></h3>
+
+  <p>Cliquez sur l'onglet <q>&certmgr.detail.prettyprint_tab.title;</q> en haut de la fenêtre
+  <q>&certmgr.certdetail.title;</q> pour avoir des informations plus
+  détaillées sur le certificat choisi. Pour examiner les
+  informations concernant un certificat présent dans la zone
+  <q>&certmgr.hierarchy.label;</q>, sélectionnez son nom,
+  sélectionnez le champ que vous souhaitez consulter parmi les champs du
+  certificat, et lisez la valeur de ce champ dans <q>&certmgr.fields.label;</q>&nbsp;:</p>
+
+  <dl>
+    <dt>&certmgr.hierarchy.label;&nbsp;:</dt>
+
+    <dd>Affiche la chaîne de certificats, le certificat que vous avez
+    sélectionné étant en bas. Une chaîne de
+    certificats est une suite hiérarchique de certificats signés
+    par des autorités de certification (AC) successives. Un certificat
+    d'AC identifie une <a href="glossary.xhtml#certificate_authority" class=
+    "glossary">autorité de certification</a> et sert à signer les
+    certificats émis par cette autorité. Un certificat d'AC peut
+    à son tour être signé par le certificat d'AC d'une AC
+    parente, et ainsi de suite jusqu'à une <a href=
+    "glossary.xhtml#root_ca" class="glossary">AC racine</a>.</dd>
+
+    <dt>&certmgr.details.label;&nbsp;:</dt>
+
+    <dd>Affiche les champs du certificat choisi dans la hiérarchie des
+    certificats.</dd>
+
+    <dt>&certmgr.fields.label;&nbsp;:</dt>
+
+    <dd>Affiche la valeur du champ choisi dans <q>&certmgr.details.label;</q>.</dd>
+  </dl>
+
+  <p>La fenêtre <q>&certmgr.certdetail.title;</q> utilise pour
+  l'affichage des types ANSI de base, en format lisible, à chaque fois
+  que possible. Quand le gestionnaire de certificats ne sait pas
+  interpréter la valeur de certains champs de certificats, il en affiche
+  directement la valeur.</p>
+
+  <h2 id="choose_security_device">Choisir un périphérique de
+  sécurité</h2>
+
+  <p>Un périphérique de sécurité (parfois
+  appelé jeton) est un périphérique matériel ou
+  logiciel qui fournit des services cryptographiques, tels que le chiffrement
+  et le déchiffrement, et qui stocke des certificats et des clés.
+  La fenêtre <q>&devmgr.title;</q>
+  apparaît lorsque le gestionnaire de
+  certificats ne peut décider tout seul quel périphérique
+  de sécurité utiliser pour importer un certificat ou pour
+  réaliser une opération cryptographique, comme la
+  génération de clés pour un nouveau certificat. Cette
+  fenêtre vous permet alors de choisir l'un des
+  périphériques de sécurité que le gestionnaire de
+  certificats a détecté sur votre machine.</p>
+
+  <p>La carte à puce est un exemple de périphérique de
+  sécurité. Si vous avez un lecteur de carte à puce
+  connecté à votre ordinateur et qu'une carte y est
+  insérée, le nom de cette carte à puce apparaîtra
+  dans la liste déroulante. Dans ce cas, vous devez sélectionner
+  son nom dans cette liste pour informer le gestionnaire de certificats que
+  vous souhaitez utiliser cette carte.</p>
+
+  <p>Le gestionnaire de certificats contient également son propre
+  périphérique (logiciel) de sécurité
+  intégré par défaut, qui reste toujours utilisable
+  indépendamment de l'ajout d'autres périphériques.</p>
+
+  <h2 id="encryption_key_copy">Copier une clé de chiffrement</h2>
+
+  <p>Les <a href="glossary.xhtml#certificate_authority" class=
+  "glossary">autorités de certification (AC)</a> qui émettent des
+  certificats séparés de signature et de chiffrement du courrier
+  réalisent généralement des copies de sauvegarde de vos
+  clés privées de chiffrement durant le processus
+  d'inscription.</p>
+
+  <p>La boîte de dialogue <q>&escrowWarn.title;</q> vous
+  permet d'approuver la création d'une telle sauvegarde ou d'annuler la
+  demande de certificat. Il est important de comprendre qu'une AC qui a
+  archivé une copie de sauvegarde de votre clé de chiffrement a
+  la capacité potentielle de déchiffrer tout message
+  chiffré avec votre clé publique correspondante.</p>
+
+  <p>Vous pouvez entreprendre les actions suivantes à partir de cette
+  boîte de dialogue&nbsp;:</p>
+
+  <dl>
+    <dt>&exceptionMgr.certstatus.viewCert;&nbsp;:</dt>
+
+    <dd>Pour voir le certificat identifiant l'AC qui demande une copie de
+    sauvegarde, cliquez sur <q>&exceptionMgr.certstatus.viewCert;</q>.</dd>
+
+    <dt>OK&nbsp;:</dt>
+
+    <dd>
+      Si vous avez confiance en l'AC identifiée par le certificat d'AC,
+      cliquez <q>OK</q>.
+
+      <p>Si vous n'êtes pas sûr de pouvoir faire confiance à
+      l'AC qui vous demande une copie de sauvegarde, demandez à votre
+      administrateur système.</p>
+    </dd>
+
+    <dt>Annuler&nbsp;:</dt>
+
+    <dd>Si vous n'avez pas confiance en l'AC qui demande la copie de
+    sauvegarde, ne lui demandez pas de certificat. Cliquez <q>Annuler</q> pour
+    interrompre à la fois la procédure de sauvegarde et la
+    demande de certificat.</dd>
+  </dl>
+
+  <p>Une fois que votre AC a fait une copie de sauvegarde de votre clé
+  de chiffrement, vous avez la possibilité d'utiliser cette clé
+  pour accéder à vos messages chiffrés, même si vous
+  oubliez votre mot de passe ou si vous perdez votre propre copie de la
+  clé. S'il n'existe aucune copie de sauvegarde de votre clé de
+  chiffrement et que vous perdez votre mot de passe ou la clé, vous
+  n'aurez aucun moyen de lire le moindre de vos messages chiffrés
+  à l'aide de celle-ci.</p>
+
+  <h2 id="certificate_backup">Sauvegarder des certificats</h2>
+
+  <p>Quand vous recevez un certificat, faites une copie de sauvegarde du
+  certificat et de sa clé privée, puis rangez la copie dans un
+  endroit sûr. Vous pouvez par exemple mettre la copie sur une disquette
+  et la conserver avec d'autres objets de valeur sous clé. De cette
+  façon, même en cas de problème de disque dur ou de
+  fichier corrompu, vous pourrez facilement retrouver votre certificat.</p>
+
+  <p>Perdre son certificat et la clé privée associée peut
+  se révéler désagréable dans le meilleur des cas
+  et catastrophique dans certaines situations, selon l'utilisation que vous en
+  faites. Par exemple&nbsp;:</p>
+
+  <ul>
+    <li>Si vous perdez un certificat qui vous identifie auprès de sites
+    Web importants, vous ne serez plus capable d'accéder à ces
+    sites tant que vous n'obtiendrez pas un nouveau certificat.</li>
+
+    <li>Si vous perdez un certificat utilisé pour chiffrer des messages,
+    vous ne pourrez plus lire cette correspondance, tant les messages que vous
+    avez envoyés que ceux que vous avez reçus. Dans ce cas, si
+    vous ne pouvez pas obtenir une copie de sauvegarde de la clé
+    privée de chiffrement associée au certificat, vous ne pourrez
+    plus jamais lire de messages chiffrés avec cette clé.</li>
+  </ul>
+
+  <p>Comme pour toute autre donnée précieuse, vous devriez faire
+  des copies de sauvegarde de vos certificats pour éviter des ennuis et
+  des dépenses futures. Faites-le dès maintenant pour ne pas
+  oublier par la suite.</p>
+
+  <h2 id="user_identification_request">Requête d'identification d'un
+  utilisateur</h2>
+
+  <p>Certains sites Web requièrent que vous vous identifiez avec un
+  certificat, plut&ocirc;t qu'avec un nom d'utilisateur et un mot de passe,
+  parce qu'un certificat procure une forme d'identification plus sûre.
+  Cette méthode d'identification sur Internet est parfois appelée
+  <a href="glossary.xhtml#client_authentication" class=
+  "glossary">authentification de client</a>.</p>
+
+  <p>Cependant, le gestionnaire de certificats peut avoir plus d'un certificat
+  capable de vous identifier auprès d'un site Web. Dans ce cas, le
+  gestionnaire de certificats ouvre la fenêtre de requête
+  d'identification d'utilisateur qui vous présente deux sortes
+  d'informations&nbsp;:</p>
+
+  <p><strong>&clientAuthAsk.message1;</strong>&nbsp;: Cette section de la fenêtre
+  détaille les informations suivantes&nbsp;:</p>
+
+  <dl>
+    <dt>Nom d'h&ocirc;te&nbsp;:</dt>
+
+    <dd>Le nom du serveur qui fait la requête d'identification,
+    utilisé dans son URL. Par exemple, le nom d'h&ocirc;te du site Web
+    &brandShortName; est <tt>www.mozilla.org</tt>.</dd>
+
+    <dt>&certmgr.certdetail.o;&nbsp;:</dt>
+
+    <dd>Le nom de l'organisation qui exploite le site Web.</dd>
+
+    <dt>&certmgr.issuerinfo.label;&nbsp;:</dt>
+
+    <dd>Le nom de l'<a href="glossary.xhtml#certificate_authority" class=
+    "glossary">autorité de certification (AC)</a> qui a émis le
+    certificat.</dd>
+  </dl>
+
+  <p><strong>&clientAuthAsk.message2;</strong>&nbsp;: les certificats qui sont disponibles dans le
+  but de vous identifier à un site Web sont
+  énumérés dans la liste déroulante dans cette
+  section de la boîte de dialogue. Choisissez le certificat qui semble le
+  plus probable d'être reconnu par le site Web que vous souhaitez
+  visiter.</p>
+
+  <p>Pour vous aider à choisir, les détails suivants des
+  certificats sélectionnés sont affichés&nbsp;:</p>
+
+  <dl>
+    <dt>&certmgr.subjectinfo.label;&nbsp;:</dt>
+
+    <dd>Détaille les informations sur la personne identifiée par
+    le certificat (par exemple, vos nom et adresse électronique), le
+    numéro de série du certificat et ses dates de
+    validité.</dd>
+
+    <dt>&certmgr.issuerinfo.label;&nbsp;:</dt>
+
+    <dd>Résume les informations à propos de l'AC qui a
+    émis le certificat, tel que ses nom et adresse.</dd>
+  </dl>
+
+  <h2 id="new_certificate_authority">Nouvelle autorité de
+  certification</h2>
+
+  <p>Parmi les certificats que le gestionnaire de certificats détient,
+  rangés sur votre ordinateur ou bien sur un périphérique
+  de sécurité externe tel qu'une carte à puce, se trouvent
+  des certificats qui identifient des <a href=
+  "glossary.xhtml#certificate_authority" class="glossary">autorités de
+  certification (AC)</a>. Pour être capable de reconnaître tout
+  certificat qu'il détient, le gestionnaire de certificats doit avoir
+  des certificats pour les AC qui ont émis ou autorisé
+  l'émission de ces certificats.</p>
+
+  <p>Quand vous décidez de faire confiance à une AC, le
+  gestionnaire de certificats enregistre le certificat de cette AC et peut
+  alors reconnaître les différents types de certificats pour
+  lesquels vous faites confiance à cette AC.</p>
+
+  <p>Avant d'accepter un nouveau certificat d'AC, le gestionnaire de
+  certificats affiche une fenêtre qui vous permet de spécifier
+  dans quelle mesure vous voulez faire confiance à ce certificat. Vous
+  pouvez choisir une ou plusieurs des options suivantes&nbsp;:</p>
+
+  <dl>
+    <dt>&downloadCert.trustSSL;&nbsp;:</dt>
+
+    <dd>Les certificats de sites Web peuvent être extrêmement
+    importants, notamment pour ceux qui gèrent des transactions
+    financières. Dans ce cas, une identification douteuse peut avoir des
+    conséquences préjudiciables.</dd>
+
+    <dt>&downloadCert.trustEmail;&nbsp;:</dt>
+
+    <dd>Si vous avez l'intention d'envoyer par courrier des informations
+    confidentielles sous forme chiffrée, ou bien si l'identification
+    précise de l'expéditeur d'un message est importante pour vous
+    pour toute autre raison, vous devriez étudier soigneusement les
+    procédures qu'utilise l'AC pour identifier les demandeurs de
+    certificats, et si celle-ci vous conviennent avant d'accepter cette
+    option.</dd>
+
+    <dt>&downloadCert.trustObjSign;&nbsp;:</dt>
+
+    <dd>Choisir cette option signifie que vous faites confiance à l'AC
+    pour émettre des certificats identifiant l'origine d'applets Java et
+    de scripts JavaScript (pour ceux qui demandent un accès
+    spécial aux ressources de l'ordinateur, comme la possibilité
+    de modifier des fichiers). Comme de tels privilèges d'accès
+    peuvent être utilisés de façon malicieuse, par exemple
+    pour détruire des données contenues sur votre disque dur,
+    soyez très prudents avant de choisir cette option et refusez-la
+    à moins d'avoir complètement confiance en l'AC.</dd>
+  </dl>
+
+  <p>Avant d'accepter de faire confiance à une nouvelle AC, soyez
+  sûr de savoir qui la gère. Soyez sûr que la politique et
+  les procédures de l'AC sont en adéquation avec les certificats
+  qu'elle émet. Par exemple, si une AC émet des certificats
+  identifiant des sites Web que vous utilisez pour effectuer des transactions
+  financières, assurez-vous que les garanties fournies par l'AC vous
+  conviennent.</p>
+
+  <dl>
+    <dt>&downloadCert.viewCert.label;&nbsp;:</dt>
+
+    <dd>Cliquez sur ce bouton pour voir le certificat d'AC que vous vous
+    apprêtez à obtenir. Si vous ne désirez plus obtenir ce
+    certificat, cliquez sur <q>&undoCmd.label;</q>.</dd>
+  </dl>
+
+  <h2 id="web_site_certificates">Certificats de site Web</h2>
+
+  <p>Les fenêtres suivantes peuvent apparaître lorsque vous tentez
+  d'accéder à un site Web qui utilise <a href=
+  "glossary.xhtml#ssl" class="glossary"><acronym title=
+  "Secure Sockets Layer">SSL</acronym></a> pour l'<a href=
+  "glossary.xhtml#authentication" class="glossary">authentification</a> et le
+  <a href="glossary.xhtml#encryption" class="glossary">chiffrement</a>.</p>
+
+  <div class="contentsBox">
+
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#web_site_certified_by_an_unknown_authority">Site Web
+      certifié par une autorité inconnue</a></li>
+
+      <li><a href="#server_certificate_expired">Expiration du certificat d'un
+      site Web</a></li>
+
+      <li><a href="#server_certificate_not_yet_valid">Certificat de site Web
+      pas encore valide</a></li>
+
+      <li><a href="#domain_name_mismatch">Nom de domaine non
+      correspondant</a></li>
+    </ul>
+  </div>
+
+  <h3 id="web_site_certified_by_an_unknown_authority">Site Web certifié
+  par une autorité inconnue</h3>
+
+  <p>De nombreux sites Web utilisent des certificats pour s'identifier lorsque
+  vous les consultez. Si le gestionnaire de certificats ne reconnaît pas
+  l'<a href="glossary.xhtml#certificate_authority" class=
+  "glossary">autorité de certification (AC)</a> qui a émis le
+  certificat de ce site Web, il affiche une fenêtre qui vous permet
+  d'examiner le nouveau certificat de site Web et de décider quoi
+  faire.</p>
+
+  <p>Dans la fenêtre qui apparaît, vous pouvez choisir l'une de ces
+  options&nbsp;:</p>
+
+  <dl>
+<!--    <dt>newserver.examine;&nbsp;:</dt>
+
+    <dd>Examinez le certificat du site Web.</dd> -->
+
+    <dt>&undoCmd.label;&nbsp;:</dt>
+
+<!--    <dd>Cochez cette option si vous décidez finalement de ne pas visiter
+    le site Web. Cette option est appropriée, par exemple, si vous
+    faites des transactions financières sur le site Web. Dans ce cas,
+    vous devriez reporter le problème à la banque ou une autre
+    organisation qui administre le site, et confirmer que le certificat du site
+    est valide avant de faire quoi que ce soit.</dd> -->
+
+    <dd>Annule l'opération d'identification. Le gestionnaire de certificats ne
+    reconnaîtra pas le certificat comme légitimement identifié et la connexion
+    au site ne se fera pas.</dd>
+
+    <dt>OK</dt>
+
+    <dd>Accepte le certificat. &brandShortName; se connectera au site Web. Le
+    gestionnaire de certificats reconnaîtra ce certificat comme légitimement
+    identifié jusqu'à ce que le certificat expire.
+
+      <dl>
+
+        <dt>Accept this certificate permanently&nbsp;:</dt>
+
+        <dd>Le gestionnaire de certificats reconnaîtra ce certificat comme
+        légitimement identifié de façon permanente, jusqu'à son expiration.</dd>
+
+        <dt>Accept this certificate temporarily for this session&nbsp;:</dt>
+
+        <dd>Le gestionnaire de certificats reconnaîtra ce certificat comme
+        légitimement identifié uniquement jusqu'à la fermeture de
+        &brandShortName;. La même alerte apparaîtra la prochaine fois que vous
+        voudrez accéder à ce site.</dd>
+
+      </dl>
+
+    </dd>
+
+  </dl>
+
+
+  <p><strong>Note importante pour les administrateurs de
+  serveur</strong>&nbsp;: Cette alerte peut être envoyée par un
+  serveur mal configuré. Pour voir si c'est le cas, l'administrateur du
+  serveur ou le webmestre du site que vous souhaitez visiter devrait
+  vérifier le statut des AC intermédiaires requises et si
+  nécessaire, installer le certificat absent sur le serveur.</p>
+
+  <p>Si vous décidez de contacter le webmestre du site à propos
+  de ce problème, vous pouvez inclure les informations
+  suivantes&nbsp;:</p>
+
+  <ul>
+    <li>L'administrateur du serveur peut obtenir plus d'informations à
+    propos des AC intermédiaires ici&nbsp;:
+
+      <p><a href=
+      "http://knowledge.verisign.com/search/solution.jsp?id=vs2119"
+      hreflang="en">What is the purpose of the Intermediate CA
+      certificate?</a></p>
+    </li>
+
+    <li>Si le serveur utilise un certificat VeriSign, l'administrateur du
+    serveur peut télécharger le certificat adéquat
+    ici&nbsp;:
+
+      <p><a href="http://www.verisign.com/support/ssl-certificates-support/install-ssl-certificate.html"
+      hreflang="en">SSL
++    Certificates Support</a></p>
+    </li>
+  </ul>
+
+  <p><strong>Pour les utilisateurs avancés</strong>&nbsp;: Pour vous
+  assurer que le gestionnaire de certificats accepte tous les certificats issus
+  d'une AC donnée, vous pouvez éditer les
+  préférences de confiance du certificat d'AC. Pour faire cela,
+  suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q> et
+    choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la catégorie <q>Confidentialité et
+    sécurité</q>, cliquez sur <q>Certificats</q>. Si aucune
+    sous-catégorie n'est visible, double-cliquez sur
+    <q>Confidentialité &amp; Sécurité</q> pour
+    développer la liste.</li>
+
+    <li>Cliquez sur <q>&managecerts.button;</q>.</li>
+
+    <li>Cliquez sur l'onglet <q>&certmgr.tab.ca;</q>.</li>
+
+    <li>Sélectionnez le certificat d'AC dont vous voulez modifier les
+    paramètres de confiance.</li>
+
+    <li>Cliquez sur le bouton <q>&certmgr.edit2.label;</q> et choisissez les
+    paramètres de confiance appropriés.</li>
+  </ol>
+
+  <h3 id="server_certificate_expired">Expiration du certificat d'un site
+  Web</h3>
+
+  <p>Comme une carte de crédit, un passeport et de nombreuses
+  autres formes d'identification, un <a href="glossary.xhtml#certificate" class=
+  "glossary">certificat</a> est valide pour une durée
+  spécifiée. Quand un certificat expire, le propriétaire
+  du certificat a besoin d'en obtenir un nouveau.</p>
+
+  <p>Le gestionnaire de certificats affiche la fenêtre <q>Certificat de serveur
+  expiré</q> lorsque vous essayez de vous rendre sur un site
+  Web dont le certificat a expiré. Comme la fenêtre l'indique, la
+  première chose que vous devez faire est de vous assurer que la date et
+  l'heure affichées par votre ordinateur sont correctes. Si l'horloge de
+  votre ordinateur indique une date postérieure à la date
+  d'expiration, le gestionnaire de certificats considère que le
+  certificat a expiré.</p>
+
+  <p>Si l'horloge de votre ordinateur est réglée correctement,
+  vous devrez décider si vous continuez à faire confiance ou non
+  au site Web. La décision de faire confiance au site malgré tout
+  dépend de ce que vous souhaitez faire sur ce site et de ce que vous en
+  savez. La plupart des sites commerciaux s'assureront de remplacer leurs
+  certificats avant leur expiration.</p>
+
+  <p>Vous pouvez entreprendre les actions suivantes à partie de la
+  boîte de dialogue <q>Certificat de serveur
+  expiré</q>&nbsp;:</p>
+
+  <dl>
+    <dt>Afficher le certificat&nbsp;:</dt>
+
+    <dd>Pour examiner les informations concernant le certificat, notamment sa
+    période de validité, cliquez sur le bouton <q>Afficher le certificat</q>.
+    </dd>
+
+    <dt>OK&nbsp;:</dt>
+
+    <dd>
+      Si vous avez des raisons de croire que l'expiration du certificat est une
+      simple erreur, vous devriez cliquer sur <q>Continuer</q> pour accepter le
+      certificat malgré tout pour cette session, et informer le
+      webmestre du site de ce problème.
+
+      <p>Prenez bien garde à toutes les actions que vous ferez sur ce
+      site.</p>
+    </dd>
+
+    <dt>Annuler&nbsp;:</dt>
+
+    <dd>Si vous soupçonnez qu'il pourrait y avoir un problème
+    plus grave et que vous ne voulez pas prendre le risque de visiter le site,
+    cliquez sur <q>Annuler</q> (auquel cas le gestionnaire de certificats ne se
+    connectera pas sur le site).</dd>
+  </dl>
+
+  <h3 id="server_certificate_not_yet_valid">Certificat de site Web pas encore
+  valide</h3>
+
+  <p>Comme une carte de crédit, un passeport et de nombreuses
+  autres formes d'identification, un <a href="glossary.xhtml#certificate" class=
+  "glossary">certificat</a> est valide pour une durée
+  spécifiée.</p>
+
+  <p>Le gestionnaire de certificats vous avertit lorsque vous essayez de vous
+  rendre sur un site Web dont la période de validité du
+  certificat n'a pas encore commencé. La première chose que vous
+  devez faire est de vous assurer que la date et l'heure affichées par
+  votre ordinateur sont correctes. Si l'horloge de votre ordinateur indique une
+  date incorrecte, le gestionnaire de certificats pourrait considérer
+  que le certificat du site Web n'est pas encore valide, même si ce n'est
+  pas le cas.</p>
+
+  <p>Si l'horloge de votre ordinateur est réglée correctement,
+  vous devrez décider si vous voulez faire confiance ou non au site Web.
+  La décision de faire confiance au site malgré tout
+  dépend de ce que vous souhaitez faire sur ce site et de ce que vous en
+  savez. La plupart des sites commerciaux s'assureront que la période de
+  validité de leurs certificats a commencé avant de commencer
+  à les utiliser.</p>
+
+  <p>Vous pouvez entreprendre les actions suivantes à partie de la
+  boîte de dialogue <q>Certificat de site Web pas encore
+  valide</q>&nbsp;:</p>
+
+  <dl>
+    <dt>Afficher le certificat&nbsp;:</dt>
+
+    <dd>Pour examiner les informations concernant le certificat, notamment sa
+    période de validité, cliquez sur le bouton <q>Afficher le certificat</q>.
+   </dd>
+
+    <dt>OK&nbsp;:</dt>
+
+    <dd>
+      Si vous avez des raisons de croire que le problème est une simple
+      erreur, vous devriez cliquer sur <q>OK</q> pour accepter le certificat
+      malgré tout pour cette session, et informer le webmestre du site
+      de ce problème.
+
+      <p>Prenez bien garde à toutes les actions que vous ferez sur ce
+      site.</p>
+    </dd>
+
+    <dt>Annuler&nbsp;:</dt>
+
+    <dd>Si vous soupçonnez qu'il pourrait y avoir un problème
+    plus grave et que vous ne voulez pas prendre le risque de visiter le site,
+    cliquez sur <q>Annuler</q> (auquel cas le gestionnaire de certificats ne se
+    connectera pas sur le site).</dd>
+  </dl>
+
+  <h3 id="domain_name_mismatch">Nom de domaine non correspondant</h3>
+
+  <p>Un <a href="glossary.xhtml#certificate" class="glossary">certificat</a> de
+  site Web spécifie le nom du site sous la forme du nom de domaine. Par
+  exemple, le nom de domaine du site Web de &brandShortName; est
+  <tt>www.mozilla.org</tt>. Si le nom de domaine contenu dans le certificat
+  d'un site Web ne co&iuml;ncide pas avec le nom de domaine réel du
+  site, cela peut être un signe que quelqu'un cherche à
+  intercepter votre communication avec celui-ci.</p>
+
+  <p>La décision de faire confiance au site malgré tout
+  dépend de ce que vous souhaitez y faire et de ce que vous en savez. La
+  plupart des sites commerciaux s'assureront que le nom de domaine d'un
+  certificat co&iuml;ncide avec le nom de domaine réel du site Web.</p>
+
+  <p>Vous pouvez entreprendre les actions suivantes à partir de la
+  boîte de dialogue <q>Nom de domaine non correspondant</q>&nbsp;:</p>
+
+  <dl>
+    <dt>Afficher le certificat&nbsp;:</dt>
+
+    <dd>Pour examiner les informations concernant le certificat, cliquez sur le
+    bouton <q>Afficher le certificat</q>.</dd>
+
+    <dt>OK&nbsp;:</dt>
+
+    <dd>
+      Si vous avez des raisons de croire que le problème est une simple
+      erreur, vous devriez cliquer sur <q>OK</q> pour accepter le certificat
+      malgré tout pour cette session, et informer le webmestre du site
+      de ce problème.
+
+      <p>Prenez bien garde à toutes les actions que vous ferez sur ce
+      site, et considérez toute information que vous y trouverez comme
+      potentiellement suspecte.</p>
+    </dd>
+
+    <dt>Annuler&nbsp;:</dt>
+
+    <dd>Si vous soupçonnez qu'il pourrait y avoir un problème
+    plus grave et que vous ne voulez pas prendre le risque de visiter le site,
+    cliquez <q>Annuler</q> (auquel cas le gestionnaire de certificats ne se
+    connectera pas sur le site).</dd>
+  </dl>
+
+  <p>Si vous acceptez le certificat malgré tout pour cette session, vous
+  devriez faire bien attention à ce que vous faites sur ce site Web, et
+  considérez toute information que vous y trouverez comme
+  potentiellement suspecte.</p>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Dernière traduction&nbsp;: 19 janvier 2006</em></p>
+
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

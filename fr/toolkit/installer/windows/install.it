@@ -1,0 +1,146 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the scre en with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700 
+
+OK_=&OK
+OK=OK
+CANCEL=Annuler
+CANCEL_=&Annuler
+NEXT_=&Suivant >
+BACK_=< &Précédent
+IGNORE_=&Ignorer
+PROXY_MESSAGE=Pour configurer un serveur proxy pour ce téléchargement, cliquez sur le bouton Connexion.
+PROXY_BUTTON=&Connexion…
+PROXYSETTINGS=Paramètres du proxy :
+PROXYSETTINGS_=&Paramètres du proxy
+SERVER=Serveur :
+PORT=Port :
+USERID=Nom d'utilisateur :
+PASSWORD=Mot de passe :
+SELECTDIRECTORY=Choisissez un répertoire
+DIRECTORIES_=&Répertoires :
+DRIVES_=&Lecteurs :
+STATUS=Restant :
+FILE=Fichier :
+URL=URL :
+TO=Vers :
+ACCEPT_=&Accepter
+DECLINE_=&Refuser
+PROGRAMFOLDER_=Dossier de &programme :
+EXISTINGFOLDERS_=Dossiers e&xistants :
+SETUPMESSAGE=L'installation a terminé de copier les fichiers sur votre ordinateur. Avant d'utiliser $ProductNameInternal$, vous devez redémarrer Windows ou votre ordinateur. Choisissez l'une de ces options et cliquez sur OK pour terminer l'installation.
+RESTART=Redémarrer
+YESRESTART=Oui, redémarrer l'ordinateur maintenant.
+NORESTART=Non, je redémarrerai l'ordinateur plus tard.
+ADDITIONALCOMPONENTS_=Composants &additionnels :
+DESCRIPTION=Description
+TOTALDOWNLOADSIZE=Taille totale de téléchargement :
+SPACEAVAILABLE=Espace disponible :
+COMPONENTS_=C&omposants :
+BROWSEINFO=Choisssez le dossier dans lequel installer $ProductName$ :
+DESTINATIONDIRECTORY=Dossier d'installation
+BROWSE_=Pa&rcourir…
+DOWNLOADSIZE=Taille de téléchargement : %u Ko
+CURRENTSETTINGS=Paramètres actuels :
+INSTALLFOLDER=… à l'emplacement suivant :
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s et :
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Installer
+DELETE_=&Supprimer
+CONTINUE_=&Continuer
+SKIP_=&Passer
+README=&Lisez-moi
+PAUSE_=&Pause
+RESUME_=&Reprendre
+CHECKED=Coché
+UNCHECKED=Décoché
+
+EXTRACTING=Extraction en cours…
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Impossible de créer le dialogue %s.
+ERROR_FAILED=%s échoué.
+ERROR_FILE_NOT_FOUND=Fichier non trouvé : %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=L'appel à GetSystemDirectory() a échoué.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =L'appel à GetWindowsDirectory() a échoué.
+DLGQUITTITLE=Quitter l'installation
+DLGQUITMSG=Vous n'avez pas terminé d'installer $ProductName$. Si vous quittez l'installation maintenant, $ProductName$ ne sera pas installé. Voulez-vous vraiment annuler l'installation ?
+DLG_REBOOT_TITLE=Redémarrage de Windows
+ERROR_GETPROCADDRESS=L'appel à GetProcAddress() de %s a échoué.
+ERROR_WRITEPRIVATEPROFILESTRING=L'appel à WritePrivateProfileString() a échoué pour le fichier %s
+MSG_RETRIEVE_CONFIGINI=Veuillez patienter pendant que l'installation récupère son script de configuration depuis le Web…
+ERROR_CREATE_TEMP_DIR=L'installation n'a pas pu créer le répertoire temporaire : %s
+DLGBROWSETITLE=Choisissez un répertoire
+ERROR_DETERMINING_DISK_SPACE=Impossible de déterminer l'espace disque disponible pour : %s
+DLG_DISK_SPACE_CHECK_TITLE=Vérification de l'espace disque
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=L'installation a détecté un espace disque insuffisant pour poursuivre l'installation sur %s pour le chemin : %sRequis : %sDisponible : %sCliquez sur Réessayer lorsque plus d'espace aura été libéré, ou cliquez sur Annuler pour quitter l'installation.
+DLG_DISK_SPACE_CHECK_MSG=L'installation a détecté que l'espace disque était insuffisant pour poursuivre le processus d'installation sur %s pour le chemin : %sRequis : %sDisponible : %sCliquez sur OK pour revenir en arrière et choisir un chemin de destination différent.
+ERROR_CREATE_DIRECTORY=Impossible de créer le dossier : %sVérifiez que vous avez la permission de créer le dossier.
+ERROR_MESSAGE_TITLE=Erreur d'installation de $ProductNameInternal$
+STR_FILE_NUMBER=Nombre de fichiers :
+STR_FILENAME=Nom de fichier :
+MSG_SMARTUPDATE_START=Préparation de l'installation, veuillez patienter…
+MSG_CONFIGURING=Configuration de %s, veuillez patienter…
+ERROR_XPI_INSTALL=Une erreur s'est produite au cours de l'installation
+ERROR_SETUP_REQUIREMENT=$ProductName$ fonctionne uniquement sur Windows 95 ou plus récent. L'installation va se terminer. 
+DLG_EXTRACTING_TITLE=Installation de $ProductName$ - Progression
+STR_PROCESSINGFILE=Préparation du fichier : %s
+STR_INSTALLING=Installation de %s
+STR_COPYINGFILE=Copie du fichier : %s
+MB_WARNING_STR=Avertissement
+MB_MESSAGE_STR=Message
+MB_ATTENTION_STR=Attention
+MSG_CREATE_DIRECTORY=Le répertoire suivant n'existe pas :%sSouhaitez-vous le créer ?
+STR_CREATE_DIRECTORY=Créer le répertoire ?
+ERROR_PROGRAM_FOLDER_NAME=Le nom de dossier de programmes entré est invalide.
+CB_DEFAULT=Par défaut
+ERROR_DESTINATION_PATH=Le chemin entré est invalide.
+STR_SETUP_TYPE=Type d'installation :
+STR_SELECTED_COMPONENTS=Composants sélectionnés :
+STR_DESTINATION_DIRECTORY=Répertoire de destination :
+STR_PROGRAM_FOLDER=Dossier de programme :
+STR_DELETING_DESTINATION_DIR=Suppression du répertoire de destination afin de permettre la mise mise à jour, veuillez patienter…
+STR_SETUP=Installation
+STR_DOWNLOAD_SITE=Site de téléchargement :
+STR_SAVE_INSTALLER_FILES=Enregistrer les fichiers d'installation téléchargés dans :
+MSG_INIT_SETUP=Initialisation de l'installation, veuillez patienter…
+STR_MESSAGEBOX_TITLE=Installation de %s
+ERROR_GETVERSION=L'appel à GetVersionEx() a échoué !
+DLG_USAGE_TITLE=Utilisation
+
+STATUS_EXTRACTING=Extraction de %s
+STATUS_LAUNCHING_SETUP=Démarrage de l'installation…
+ERROR_FILE_WRITE=Impossible d'écrire dans le fichier %s
+TITLE=Installation
+ERROR_OUT_OF_MEMORY=Mémoire insuffisante !
+
+ERROR_DLL_LOAD=Impossible de charger %s
+ERROR_STRING_LOAD=Impossible de charger la ressource chaîne d'ID %d
+ERROR_STRING_NULL=Pointeur nul rencontré.
+ERROR_GLOBALALLOC=Erreur d'allocation mémoire.
+MSG_FORCE_QUIT_PROCESS=L'installation a détecté que %s (%s) est toujours en cours d'exécution. Cliquez sur OK pour quitter %s et lancer l'installation. Une autre possibilité est d'utiliser le gestionnaire de tâches de Windows pour quitter %s, et ensuite cliquer sur OK pour continuer l'installation.
+MSG_FORCE_QUIT_PROCESS_FAILED=L'installation va se terminer. Elle ne peut se poursuivre car %s (%s) est toujours en cours d'exécution. Essayez de quitter manuellement %s à l'aide du gestionnaire de tâches de Windows et relancez l'installation.
+ERROR_PATH_WITHIN_WINDIR=$ProductName$ ne peut être installé dans un dossier faisant partie du dossier de Windows. Veuillez utiliser un autre dossier.

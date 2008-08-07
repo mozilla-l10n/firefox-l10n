@@ -1,0 +1,79 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.formatting.title "Format d'expédition">
+<!ENTITY sendMail.label "Format d'expédition">
+<!ENTITY sendMaildesc.label "Lors de l'expédition d'un courrier en HTML à un destinataire ne figurant pas dans la liste de ceux pouvant recevoir du HTML :">
+<!ENTITY askMe.label "Me consulter si le document contient du HTML">
+<!ENTITY askMe.accesskey "M">
+<!ENTITY convertPlain.label "Convertir au format texte simple">
+<!ENTITY convertPlain.accesskey "C">
+<!ENTITY sendHTML.label "Envoyer au format HTML quand même">
+<!ENTITY sendHTML.accesskey "E">
+<!ENTITY sendBoth.label "Envoyer au format texte et HTML">
+<!ENTITY sendBoth.accesskey "n">
+<!ENTITY override.label "Vous pouvez forcer ces paramètres lors de l'envoi de chaque message dans le menu Préférences de la fenêtre de composition.">
+<!ENTITY receiveHTML.label "Si vous savez qu'un destinataire peut recevoir du courrier en HTML, alors ne cochez pas la case 'Envoyer en texte simple (pas de HTML)' dans la fiche correspondante du carnet d'adresses.">
+
+<!-- Html and Plain Text Domains  -->
+<!ENTITY domain.title "Domaines HTML et texte simple">
+<!ENTITY domaindesc.label "Vous pouvez séparer les noms de domaines qui peuvent recevoir des messages en HTML de ceux qui n'en recevront qu'en texte simple. Quand vous enverrez un courrier vers un de ces domaines, il sera automatiquement converti au bon format (HTML ou texte simple).">
+<!ENTITY HTMLdomaintitle.label "Domaines HTML">
+<!ENTITY HTMLdomaintitle.accesskey "H">
+<!ENTITY PlainTexttitle.label "Domaines texte simple">
+<!ENTITY PlainTexttitle.accesskey "p">
+<!ENTITY AddButton.label "Ajouter…">
+<!ENTITY AddHtmlDomain.accesskey "o">
+<!ENTITY AddPlainText.accesskey "j">
+<!ENTITY DeleteButton.label "Retirer">
+<!ENTITY DeleteHtmlDomain.accesskey "R">
+<!ENTITY DeletePlainText.accesskey "t">
+
+<!-- Add HTML Domain Name -->
+<!ENTITY add.htmltitle "Ajouter un nom de domaine HTML">
+<!ENTITY add.htmldomain "Nom de domaine HTML :">
+<!ENTITY add.htmldomain.accesskey "d">
+<!ENTITY add.plaintexttitle "Ajouter un nom de domaine texte simple">
+<!ENTITY add.plaintextdomain "Nom de domaine texte simple :">
+<!ENTITY add.plaintext.accesskey "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title "Erreur de nom de domaine">
+<!ENTITY duplicationError.label "Le nom de domaine @string@ existe déjà dans cette liste.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label "Un nom de domaine ne peut pas apparaître dans un domaine HTML et un domaine texte simple en même temps. Le nom de domaine @string@ existe déjà.">

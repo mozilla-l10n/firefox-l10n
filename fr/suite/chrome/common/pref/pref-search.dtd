@@ -1,0 +1,22 @@
+<!-- extracted from content/pref-search.xul -->
+
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+<!ENTITY pref.search.title "Recherche sur Internet">
+<!ENTITY legendHeader "Moteur de recherche par défaut">
+<!ENTITY defaultSearchEngine.label "Rechercher en utilisant :">
+<!ENTITY defaultSearchEngine.accesskey "u">
+
+<!ENTITY openSidebarSearchPanel.label "Ouvrir le panneau « Rechercher » de la barre latérale quand les résultats sont disponibles">
+<!ENTITY openSidebarSearchPanel.accesskey "O">
+
+<!ENTITY openContextSearchTab.label "Ouvrir un onglet plutôt qu'une fenêtre pour une recherche Web depuis le menu contextuel">
+<!ENTITY openContextSearchTab.accesskey "t">
+
+<!ENTITY searchResults.label "Résultats de recherche">
+
+<!ENTITY sidebarSearchTabPref.label "Préférence du panneau de recherche de la barre latérale">
+<!ENTITY searchModeBasic.label "Basique">
+<!ENTITY searchModeBasic.accesskey "B">
+<!ENTITY searchModeAdvanced.label "Avancée">
+<!ENTITY searchModeAdvanced.accesskey "v">

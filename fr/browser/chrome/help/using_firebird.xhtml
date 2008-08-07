@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/locale/intl.css" type="text/css"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+    <!ENTITY % browserDTD SYSTEM "chrome://browser/locale/browser.dtd" >
+    %browserDTD;
+    <!ENTITY % findbarDTD SYSTEM "chrome://global/locale/findbar.dtd" >
+    %findbarDTD;
+    <!ENTITY % prefDTD SYSTEM "chrome://browser/locale/preferences/preferences.dtd" >
+    %prefDTD;
+    <!ENTITY % mainDTD SYSTEM "chrome://browser/locale/preferences/main.dtd" >
+    %mainDTD;
+    <!ENTITY % privacyDTD SYSTEM "chrome://browser/locale/preferences/privacy.dtd" >
+    %privacyDTD;
+    <!ENTITY % finddialogDTD SYSTEM "chrome://global/locale/finddialog.dtd" >
+    %finddialogDTD;
+    <!ENTITY % printdialogDTD SYSTEM "chrome://global/locale/printdialog.dtd" >
+    %printdialogDTD;
+    <!ENTITY % printPageSetupDTD SYSTEM "chrome://global/locale/printPageSetup.dtd" >
+    %printPageSetupDTD;
+    <!ENTITY % printPreviewDTD SYSTEM "chrome://global/locale/printPreview.dtd" >
+    %printPreviewDTD;
+    <!ENTITY % pref-downloadsDTD SYSTEM "chrome://mozapps/locale/downloads/pref-downloads.dtd" >
+    %pref-downloadsDTD;
+    <!ENTITY % unknownContentTypeDTD SYSTEM "chrome://mozapps/locale/downloads/unknownContentType.dtd" >
+    %unknownContentTypeDTD;
+    <!ENTITY % searchbarDTD SYSTEM "chrome://browser/locale/searchbar.dtd" >
+    %searchbarDTD;
+    <!ENTITY % advancedDTD SYSTEM "chrome://browser/locale/preferences/advanced.dtd" >
+    %advancedDTD;
+    <!ENTITY % engineManagerDTD SYSTEM "chrome://browser/locale/engineManager.dtd" >
+    %engineManagerDTD;
+    <!ENTITY % contentDTD SYSTEM "chrome://browser/locale/preferences/content.dtd" >
+    %contentDTD;
+]>
+
+<!--
+Contributors:
+  R.J. Keller <rlk@trfenv.com> (original author)
+  Nilson Cain <nilson@gmail.com>
+  Steffen Wilberg <steffen.wilberg@web.de>
+Traduction :
+  ??? (traduction originale)
+  Benoît Leseul <benoit.leseul@easynet.be> (reformatage et mise à jour 1.1)
+  Marie Léger-St-Jean <marie.leger-st-jean@videotron.ca> (révision)
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+<head>
+	<title>Utilisation de &brandFullName;</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+
+</head>
+
+<body>
+
+<h1>Utilisation de &brandFullName;</h1>
+	<p>Bienvenue dans &brandFullName; ! &brandShortName; est un navigateur Internet 
+	 que vous pouvez utiliser pour visiter des pages Web et faire des recherches sur le Web.</p>
+
+	<div class="contentsBox">Dans cette section :
+	  <ul>
+		<li><a href="#navigating_web_pages">Navigation sur le Web</a></li>
+		<li><a href="#searching">Recherche</a></li>
+		<li><a href="#copying_saving_and_printing_pages">Copie, enregistrement et impression 
+		 de pages</a></li>
+		<li><a href="#improving_speed_and_efficiency">Amélioration de la vitesse et de 
+		 l'efficacité</a></li>
+	  </ul>
+	</div>
+
+  <h2 id="navigating_web_pages">Navigation sur le Web</h2>
+
+	<h3 id="viewing_your_home_page">Affichage de la page d'accueil</h3>
+	<p>Au lancement de &brandShortName;, vous voyez s'afficher votre page d'accueil. 
+	 Par défaut, il s'agit de la page d'accueil de &brandShortName;.</p>
+	 
+	<div class="noMac"><p><strong>Astuces</strong> :</p>
+	<ul>
+	  <li>Pour avoir un espace d'affichage plus important, vous pouvez utiliser le
+	   mode plein écran. Ce mode condense les barres d'outils de &brandShortName;
+	   en une seule plus petite. Pour activer le mode plein écran, sélectionnez
+	   simplement <span class="menuPath">&viewMenu.label; &gt; &fullScreenCmd.label;</span>
+	   ou appuyez sur <kbd>F11</kbd>.</li>
+	  <li>Pour accéder rapidement à votre page de d'accueil, appuyez sur
+	   &altKey;+<kbd>Début</kbd>.</li>
+	</ul>
+	</div>
+
+	<h3><strong id="moving_to_another_page">Se déplacer vers une autre page</strong></h3>
+	<p>Vous pouvez vous déplacer vers une nouvelle page Web en saisissant son 
+	 adresse Web ou <acronym title="Uniform Resource Locator">URL</acronym>. Normalement, 
+	 les adresses Web commencent par <q>http://</q>, suivi d'un ou 
+	 plusieurs noms qui identifient l'adresse, par exemple 
+	 <q>http://www.mozilla.org/</q>.</p>
+	<ol>
+	  <li>Cliquez sur la barre d'adresse pour sélectionner l'adresse du site
+	   actuellement affiché.</li>
+	  <li>Saisissez l'adresse de la page que vous désirez visiter. L'adresse 
+	   que vous tapez doit remplacer tout texte déjà présent 
+	   dans la barre d'adresse.</li>
+	  <li>Appuyez sur &enterKey;.</li>
+	</ol>
+
+	<p><strong>Astuce</strong> : Pour sélectionner rapidement l'URL dans la 
+	 barre d'adresse, appuyez sur &accelKey;+<kbd style="text-transform: uppercase">&openCmd.commandkey;</kbd>.</p>
+	<p><img src="&images.baseURL;/urlbar.png" style="width: 320px; height: 30px" alt=""/></p>
+	<p><strong>Vous ne connaissez pas l'adresse exacte ?</strong> Essayez d'entrer 
+	 un mot général (par exemple, <q>cadeaux</q> ou 
+	 <q>fleurs</q>) dans la Barre de recherche et appuyez sur la 
+	 touche Entrée. Vous lancez ainsi une recherche sur le Web dont les résultats contiendront sûrement
+	 l'adresse que vous recherchez.</p>
+
+	<h3 id="clicking_a_link">Cliquer sur un lien</h3>
+	<p>La plupart des pages Web contiennent des liens sur lesquels vous pouvez 
+	 cliquer pour vous rendre sur d'autres pages.</p>
+	<ol>
+		<li>Déplacez le pointeur de la souris jusqu'à ce qu'il se change 
+		 en doigt pointé vers le haut. Cela se produit chaque fois que le pointeur 
+		 passe au-dessus d'un lien. La plupart des liens sont du texte souligné, 
+		 mais des boutons et des images peuvent également être des liens.</li>
+		<li>Cliquez sur le lien une fois. Pendant que le réseau repère 
+		 la page du lien, des messages d'état apparaîtront au bas de la 
+		 fenêtre.</li>
+	</ol>
+
+	<h3 id="retracing_your_steps">Revenir sur vos pas</h3>
+	<p>Il y a plusieurs façons de revisiter des pages :</p>
+	<ul>
+	  <li>Pour revenir ou avancer d'une page, cliquez sur les boutons <q>&backCmd.label;</q>
+	   ou <q>&forwardCmd.label;</q>.
+	  </li>
+	  <li>Pour reculer ou avancer de plus d'une page, cliquez sur le petit triangle sur
+	   le bouton <q>&backCmd.label;</q> ou <q>&forwardCmd.label;</q>. Vous verrez une
+	   liste des pages que vous avez récemment visitées. Pour revisiter une
+	   page, choisissez-la dans la liste.
+	  </li>
+	  <li>Pour voir une liste de toutes les adresses que vous avez saisies dans la 
+	   Barre d'adresse, cliquez sur la flèche à l'extrémité
+	   droite de la barre d'adresse. Pour visionner une page, choisissez-la dans la liste.<br/>
+	    <br/>
+	   <img src="&images.baseURL;/urlbar.png" alt=""
+	    style="border: 1px solid black; width: 320px; height: 30px"/></li>
+	  <li>Pour choisir une page parmi les pages que vous avez visitées durant la
+	   session en cours, ouvrez le menu <em>&historyMenu.label;</em> et utilisez la liste dans la
+	   section inférieure du menu.</li>
+	  <li>Pour choisir une page parmi les pages que vous avez visitées durant des
+	   sessions précédentes, sélectionnez <span class="menuPath">&historyMenu.label; &gt; &showAllHistoryCmd2.label;</span>. Vous verrez le panneau latéral <em>&historyButton.label;</em>, qui
+	   affiche une liste de dossiers. Cliquez sur les dossiers pour afficher les sous-dossiers
+	   ou les titres des pages Web. Vous pouvez cliquer sur l'adresse d'une page pour l'afficher.</li>
+	</ul>
+
+	<h3 id="stopping_and_reloading">Arrêter et actualiser</h3>
+	<p>Si une page se télécharge trop lentement ou si vous ne désirez 
+	 plus visionner une page, cliquez sur le bouton <q>&stopCmd.label;</q>.</p>
+
+	<p>Pour rafraîchir la page actuellement affichée ou obtenir la version la 
+	 plus récente, cliquez sur le bouton <em>&reloadCmd.label;</em> ou appuyez sur 
+	 &accelKey;+<kbd>R</kbd> pour ignorer le cache.</p>
+
+	<h3 id="tabbed_browsing">Navigation par onglets</h3>
+	<p>Quand vous visitez plus d'une page Web à la fois, vous pouvez utiliser 
+	 la navigation par onglets pour parcourir le Web plus rapidement et plus facilement.</p>
+
+	<p>La navigation par onglets vous permet d'ouvrir des onglets, affichant chacun une 
+	 page Web, dans une seule et même fenêtre de &brandShortName;. Vous n'avez 
+	 pas à avoir plusieurs fenêtres ouvertes pour visiter plusieurs pages Web, 
+	 ce qui libère de l'espace sur votre poste de travail. Vous pouvez ouvrir, fermer 
+	 et actualiser des pages Web au même endroit, sans avoir à changer de 
+	 fenêtre.</p>
+
+	<p>Pour plus d'information, voir <a href="tabbed_browsing.xhtml">Navigation par onglets</a>.</p>
+
+	<h3 id="using_the_sidebar">Utilisation d'un panneau latéral</h3>
+	<p>Un panneau latéral est une zone sur la gauche de l'écran que vous pouvez 
+	 utiliser pour afficher vos marque-pages ou l'historique. Des extensions peuvent 
+	 également ajouter de nouvelles fonctions en panneau latéral.</p>
+
+	<p>Pour afficher un panneau latéral, sélectionnez 
+	 <span class="menuPath">&viewMenu.label; &gt; &viewSidebarMenu.label;</span>.
+     Vous pourrez y choisir le panneau désiré.</p>
+
+<h2 id="searching">Recherche</h2>
+
+	<h3 id="searching_the_web">Recherche sur Internet</h3>
+	<p>Pour chercher des pages Web sur un sujet particulier, il suffit simplement de saisir 
+	 quelques mots dans la barre de recherche.<br/>
+	  <img src="&images.baseURL;/searchbar.png" alt="" style="width: 134px; height: 30px"/></p>
+	<p>Par exemple, si vous voulez trouver des informations sur les camions remorques :</p>
+	<ol>
+	  <li>Cliquez dans la barre de recherche.</li>
+	  <li>Entrez <q>camions remorques</q>. Ce que vous saisissez doit 
+	   remplacer tout texte actuellement dans la barre de recherche.</li>
+	  <li>Appuyez sur &enterKey; pour rechercher.</li>
+	</ol>
+	
+	<p>Les résultats de la recherche de <q>camions remorques</q> 
+	 apparaissent dans la fenêtre &brandShortName;.</p>
+
+        <h3 id="selecting_the_search_engine">Sélection du moteur de recherche</h3>
+
+        <p>Vous pouvez changer de moteur de recherche en cliquant sur son icône et en
+         sélectionnant le moteur de recherche de votre choix.
+         Certains moteurs de recherche parcourent
+         tout le Web, comme Google, et d'autres, comme Amazon.fr, ne font de recherches que dans
+         certains sites spécifiques.</p>
+
+        <h3 id="manage_search_engines">Gestion des moteurs de recherche</h3>
+
+        <p>Cliquez sur l'icône du moteur de recherche et sélectionnez
+        <em>&cmd_engineManager.label;</em> pour ajouter, réorganiser, supprimer
+         ou restaurer les moteurs de recherche par défaut. Sélectionnez un moteur de recherche et cliquez
+         sur le bouton approprié pour le déplacer dans la liste ou pour le supprimer.
+         Vous pouvez installer des moteurs de recherches supplémentaires en cliquant sur le lien
+         <em>&addEngine.label;</em>.</p>
+
+	<h3 id="searching_on_selected_words_in_a_web_page">Recherche sur Internet de mots
+	 sélectionnés dans une page Web</h3>
+	<p>&brandShortName; vous permet de chercher sur le Web les mots que vous avez sélectionnés
+          dans une page Web :</p>
+	<ol>
+	  <li>Sélectionnez (mettez en surbrillance) n'importe quel mot d'une page Web.</li>
+	  <li><span class="noMac">Cliquez avec le bouton droit de la souris</span><span 
+	   class="mac">Appuyez sur &ctrlKey; et cliquez</span> et choisissez dans le menu 
+	   <em>Recherche [moteur de recherche]<q> [les mots que vous avez 
+	   sélectionnés]</q></em>.</li>
+	</ol>
+	<p>&brandShortName; ouvre un nouvel onglet et utilise le moteur de recherche
+	 actuellement sélectionné pour exécuter la recherche sur les mots que vous avez 
+	 sélectionnés.</p>
+
+	<h3 id="searching_within_a_page">Recherche à l'intérieur d'une page</h3>
+	<p>Pour trouver des mots à l'intérieur de la page que vous visitez 
+	 actuellement dans &brandShortName; :</p>
+	<ol>
+	  <li>Appuyez sur les touches &accelKey;+<kbd>F</kbd> ou sélectionnez
+           <span class="menuPath">&editMenu.label; &gt; &findOnCmd.label;</span> pour ouvrir la barre
+           de recherche au bas de la fenêtre de &brandShortName;.</li>
+	  <li>Saisissez le texte que vous voulez rechercher. La recherche commence automatiquement
+          dès que vous saisissez quelque chose dans la boîte de recherche.</li>
+	  <li>La barre de recherche offre différentes options :
+  <ul>
+    <li><strong>&next.label;</strong> : cliquez sur ce bouton pour chercher
+     après (en-dessous de) la position actuelle du curseur.</li>
+    <li><strong>&previous.label;</strong> : cliquez sur ce bouton pour chercher
+     avant (au-dessus de) la position actuelle du curseur.</li>
+    <li><strong>&highlight.label;</strong> : cliquez sur ce bouton pour mettre en
+     surbrillance toutes les occurrences du mot recherché dans la page courante.</li>
+    <li><strong>&caseSensitiveCheckbox.label;</strong> : cochez cette case pour limiter la recherche au texte
+     ayant la même casse (majuscule/minuscule) que le texte recherché.</li>
+  </ul>
+	  </li>
+	</ol>
+	<p>Pour chercher le même mot ou groupe de mots à nouveau, appuyez sur la touche
+         <kbd>F3</kbd> ou sélectionnez <span class="menuPath">&editMenu.label; &gt; &findAgainCmd.label;</span>.</p>
+        <p><strong>Astuce</strong> : sélectionnez la &pref.singular; <em>&searchStartTyping.label;</em>
+        dans l'onglet <em>&generalTab.label;</em> du panneau <em>&paneAdvanced.title;</em> dans
+        &pref.menuPath; pour activer le mode <em>Recherche rapide</em> de la Barre de recherche.
+        Lorsque c'est activé, la barre d'outils <em>Recherche rapide</em> s'ouvre automatiquement
+        et commence la recherche dès que vous saisissez quelque chose.
+        Contrairement à la barre de recherche normale, la barre d'outils
+        <em>Recherche rapide</em> se fermera automatiquement après quelques secondes
+        d'inactivité.</p>
+
+<h2 id="copying_saving_and_printing_pages">Copie, enregistrement et impression de pages</h2>
+
+	<h3 id="copying_part_of_a_page">Copie d'une partie d'une page</h3>
+
+        <p>Pour copier le texte d'une page :</p>
+	<ol>
+	  <li>Sélectionnez ce texte.</li>
+          <li>Sélectionnez <span class="menuPath">&editMenu.label; &gt;
+           &copyCmd.label;</span> de la barre de menu.</li>
+	</ol>
+
+	<p>Vous pouvez coller le texte dans d'autres programmes.</p>
+
+	<p>Pour copier un lien (adresse) ou une image d'une page :</p>
+	<ol>
+	  <li>Positionnez le pointeur au-dessus du lien ou de l'image.</li>
+          <li><span class="noMac">Cliquez avec le bouton droit de la souris</span><span
+           class="mac">Appuyez sur &ctrlKey; et cliquez</span> sur le lien ou l'image 
+           pour afficher un menu contextuel.</li>
+	  <li>Choisissez <em>&copyLinkCmd.label;</em> ou <em>&copyImageCmd.label;</em>. Si une image est aussi 
+	   un lien, les deux options seront présentes.</li>
+	</ol>
+        <p>Vous pouvez coller le lien dans d'autres programmes ou dans la barre d'adresse
+         de &brandShortName;.</p>
+
+	<h3 id="saving_all_or_part_of_a_page">Enregistrement d'une page entière ou d'une partie
+	 d'une page</h3>
+	<p>Pour enregistrer une page entière dans &brandShortName; :</p>
+	<ol>
+      <li>Sélectionnez <span class="menuPath">&fileMenu.label; &gt;
+       &savePageCmd.label;</span>. Vous verrez la boîte de dialogue <em>Enregistrer sous</em> apparaître.</li>
+	  <li>Choisissez un endroit où placer la page enregistrée.</li>
+	  <li>Choisissez un format pour la page à enregistrer :
+		<ul>
+			<li><strong>Page Web, complète</strong> : Enregistrer la page
+			 entière avec les images. Cette option vous permet de la visionner telle 
+			 qu'affichée sur Internet, avec les images, mais il se peut que la structure
+			 des liens HTML de la page d'origine ne soit pas conservée. &brandShortName;
+			 crée un nouveau sous-dossier là où la page est enregistrée
+			 pour conserver les images et les autres fichiers nécessaires pour afficher la
+			 page Web dans son entièreté.</li>
+			<li><strong>Page Web, XHTML uniquement</strong> : Enregistrer la page d'origine 
+			 sans images. Cette option préserve la structure de liens HTML d'origine dans
+			 un fichier.</li>
+			<li><strong>Fichiers textes</strong> : Enregistrer la page d'origine sous la 
+			 forme d'un fichier texte. Cette option ne conservera pas la structure des liens 
+			 HTML d'origine, mais vous permettra de voir une version texte de la page Web dans 
+			 n'importe quel éditeur de texte.</li>
+		</ul>
+	  </li>
+	  <li>Saisissez un nom de fichier pour la page et cliquez sur <em>Enregistrer</em>.</li>
+	</ol>
+
+	<p>Pour sauvegarder un cadre d'une page Web :</p>
+	<ol>
+	  <li>Positionnez le pointeur de la souris à l'intérieur du cadre.</li>
+	  <li><span class="noMac">Cliquez avec le bouton droit de la souris</span><span 
+	   class="mac">Appuyez sur &ctrlKey; et cliquez</span> sur le cadre pour afficher un 
+	   menu contextuel.</li>
+	  <li>Sélectionnez <span class="menuPath">&thisFrameMenu.label; &gt; 
+	   &saveFrameCmd.label;</span> dans le sous-menu. Vous verrez la boîte de dialogue 
+	   <em>Enregistrer sous</em> apparaître.</li>
+	  <li>Choisissez un endroit où placer le cadre enregistré.</li>
+	  <li>Choisissez un format pour le cadre que vous voulez enregistrer.</li>
+	  <li>Saisissez un nom de fichier pour le cadre et cliquez sur <em>Enregistrer</em>.</li>
+	</ol>
+
+	<p>Enregistrer un fichier sur votre disque dur vous permet de le visionner même
+	 lorsque vous n'êtes pas connecté à Internet.</p>
+
+	<p>Pour enregistrer une image à partir d'une page Web :</p>
+	<ol>
+	  <li>Positionnez le pointeur de la souris au-dessus de l'image.</li>
+	  <li><span class="noMac">Cliquez avec le bouton droit de la souris</span><span
+	   class="mac">Appuyez sur &ctrlKey; et cliquez</span> sur l'image pour afficher un 
+	   menu contextuel.</li>
+	  <li>Sélectionnez <em>&saveImageCmd.label;</em>. Vous 
+	   verrez la boîte de dialogue <em>Enregistrer sous</em> apparaître.</li>
+	  <li>Choisissez un endroit où placer l'image enregistrée.</li>
+	  <li>Saisissez un nom de fichier pour l'image et cliquez sur <em>Enregistrer</em>.</li>
+	</ol>
+	<p>Pour enregistrer une page Web sans l'afficher (ce qui est utile pour 
+	 récupérer une page non formatée qui n'est pas prévue pour 
+	 être affichée) :</p>
+	<ol>
+	  <li>Positionnez le pointeur de la souris au-dessus du lien vers la page.</li>
+	  <li><span class="noMac">Cliquez avec le bouton droit de la souris</span><span
+	   class="mac">Appuyez sur &ctrlKey; et cliquez</span> sur l'hyperlien pour afficher 
+	   un menu contextuel.</li>
+	  <li>Sélectionnez <em>&saveLinkCmd.label;</em>. Vous 
+	   verrez la boîte de dialogue <em>Enregistrer sous</em> apparaître.</li>
+	  <li>Choisissez un endroit où placer la page enregistrée.</li>
+	  <li>Saisissez un nom de fichier pour la page et cliquez sur <em>Enregistrer</em>.</li>
+	</ol>
+
+	<p><strong>Important</strong> : Certains liens téléchargent et
+	 enregistrent automatiquement des fichiers sur votre disque dur après 
+	 avoir cliqué dessus. Les adresses de ces liens commencent souvent par 
+	 <q>ftp</q> ou finissent avec des extensions de type de fichier 
+	 telles que <q>au</q> ou <q>mpeg</q>. Ces liens 
+	 pourraient transmettre des fichiers logiciel, son ou film et peuvent lancer des 
+	 assistants d'application qui supportent ces fichiers.</p>
+
+	<p class="win"><strong>Astuce</strong> : Pour définir une image comme fond 
+	 d'écran sur Windows, cliquez avec le bouton droit de la souris sur une image et 
+	 choisissez <em>&setDesktopBackgroundCmd.label;</em> dans le menu contextuel.
+     Vous pouvez choisir différentes options d'affichage grâce au dialogue 
+     affiché.</p>
+
+	<h3 id="printing_a_page">Impression d'une page</h3>
+
+	<p>Pour imprimer la page en cours :</p>
+	<ul>
+	  <li>Sélectionnez <span class="menuPath">&fileMenu.label; &gt; &printCmd.label;</span>.</li>
+	</ul>
+	<p>Pour imprimer une sélection :</p>
+	<ul>
+	  <li>Sélectionnez le texte dans la page en cours.</li>
+	  <li>Sélectionnez <span class="menuPath">&fileMenu.label; &gt;
+	   &printCmd.label;</span>. La boîte de dialogue <em>&printDialog.title;</em> apparaîtra.</li>
+	  <li>Dans <em>Zone d'impression</em>, choisissez <em>&selectionRadio.label;</em>.</li>
+	</ul>
+
+	<p>Ce sont l'auteur de la page Web et les dimensions de la page imprimée, et non
+	 pas les dimensions de la fenêtre affichée à l'écran, qui
+	 déterminent la disposition du contenu sur la page imprimée. Le texte est
+	 renvoyé à la ligne automatiquement, et les images sont repositionnées
+	 pour se conformer aux dimensions du papier.</p>
+
+	<h3 id="using_print_preview">Utilisation de l'aperçu avant impression</h3>
+
+	<p>Pour prévisualiser l'apparence d'une page avant qu'elle ne soit imprimée,
+	 vous pouvez utiliser l'aperçu avant impression :</p>
+	<ul>
+	  <li>Sélectionnez <span class="menuPath">&fileMenu.label; &gt;
+	   &printPreviewCmd.label;</span>.</li>
+	</ul>
+	<p>Dans l'aperçu, les actions suivantes s'offrent à vous :</p>
+	<ul>
+	  <li><strong>Visualiser un aperçu de chaque page</strong> : Cliquez sur les
+	   boutons <em>&rightarrow.tooltip;</em> <img alt="" src="chrome://global/skin/arrow/arrow-rit-sharp.gif"/>,
+           <em>&leftarrow.tooltip;</em> <img alt="" src="chrome://global/skin/arrow/arrow-lft-sharp.gif"/>,
+	   <em>&homearrow.tooltip;</em> <img alt="" src="chrome://global/skin/arrow/arrow-lft-sharp-end.gif"/> et
+           <em>&endarrow.tooltip;</em> <img alt="" src="chrome://global/skin/arrow/arrow-rit-sharp-end.gif"/>
+           pour vous déplacer entre les pages.</li>
+	  <li><strong>Changer le facteur d'échelle des pages</strong> : Dans le menu
+	   déroulant <em>&scale.label;</em>, choisissez <em>&p50.label;</em>
+	   pour que chaque page fasse la moitié de la taille de la page d'origine. Pour que
+	   la taille des pages s'ajuste automatiquement à la largeur du papier, choisissez
+	   <em>&ShrinkToFit.label;</em>. Vous pouvez également saisir votre
+	   propre pourcentage en choisissant <em>&Custom.label;</em>.</li>
+	  <li><strong>Changer l'orientation de la page</strong> : Choisissez <em>&portrait.label;</em>
+	   <img alt="" src="chrome://global/skin/icons/Portrait.png"/> pour positionner la feuille
+	   normalement, avec le bord le plus court vers le haut. Choisissez <em>&landscape.label;</em>
+	   <img alt="" src="chrome://global/skin/icons/Landscape.png"/> pour positionner la feuille
+	   de côté avec le bord le plus long vers le haut.</li>
+	  <li><strong>Accéder à la mise en page</strong> : Cliquez sur
+	   <em>&pageSetup.label;</em> pour ajuster les pages que vous désirez imprimer.</li>
+	  <li><strong>Accéder à l'impression</strong> : Cliquez sur
+	   <em>&print.label;</em> pour imprimer les pages.</li>
+	</ul>
+
+	<p><strong>Note</strong> : Certaines fonctions de l'aperçu avant impression sont
+	 différentes ou non disponibles sous Mac OS et Linux.</p>
+
+	<h3 id="using_page_setup">Mise en page</h3>
+	<p><strong>Note</strong> : Certaines fonctions de mise en page sont
+	 différentes ou non disponibles sous Mac OS et Linux.</p>
+
+	<p>Pour définir la façon dont les pages sont imprimées dans
+	 &brandShortName;, vous pouvez utiliser la mise en page :</p>
+	<ul>
+	  <li>Sélectionnez <span class="menuPath">&fileMenu.label; &gt;
+	   &printSetupCmd.label;</span>.</li>
+	</ul>
+	<p>Dans <em>&printSetup.title;</em>, vous pouvez changer les paramètres suivants pour
+	 les pages que vous désirez imprimer :</p>
+	<ul>
+	  <li><strong>&basic.tab;</strong> : Choisissez l'orientation, l'échelle
+	   et d'autres options :
+		<ul>
+		  <li><strong>&orientation.label;</strong>
+			<ul>
+			  <li><strong>&portrait;</strong> : Choisissez <img alt="bouton portrait"
+			   src="chrome://global/skin/icons/Portrait.png"/> pour positionner la page
+			   normalement, avec le bord le plus court vers le haut.</li>
+			  <li><strong>&landscape;</strong> : Choisissez <img alt="bouton paysage"
+			   src="chrome://global/skin/icons/Landscape.png"/> pour positionner la page de
+			   côté, avec le bord  le plus long vers le haut.</li>
+			</ul>
+		  </li>
+		  <li><strong>&scale.label;</strong> Saisissez un pourcentage par rapport aux
+		   dimensions d'origine. Par exemple, saisissez <q>50</q>
+		   pour que chaque page mesure la moitié de la page d'origine.
+			<ul>
+			  <li><strong>&shrinkToFit.label;</strong> : Cochez cette case pour
+			   que la largeur de la page s'ajuste automatiquement à celle du papier.</li>
+			</ul>
+		  </li>
+		  <li><strong>&optionsGroup.label; :</strong>
+			<ul>
+			  <li><strong>&printBG.label;</strong> : Cochez cette case pour imprimer
+			   les images et couleurs de l'arrière-plan. Si cette case n'est pas
+			   cochée, seules les images et couleurs de l'avant-plan seront
+			   imprimées.</li>
+			</ul>
+		  </li>
+		</ul>
+	  </li>
+	  <li><strong>&advanced.tab;</strong> : Cliquez sur cet onglet pour définir
+	   les marges, les en-têtes et les pieds de page :
+	    <ul>
+		  <li><strong>&marginGroup.label;</strong>
+			<ul>
+			  <li><strong>&marginTop.label;, &marginBottom.label;, &marginLeft.label;,
+			   &marginRight.label;</strong> Saisissez une marge dans les unités
+			   spécifiées pour les marges du haut, du bas, de gauche et de droite.</li>
+			</ul>
+		  </li>
+		  <li><strong>&headerFooter.label;</strong> : Chaque menu déroulant
+		   représente une section soit de l'en-tête, soit du pied de page.
+		   La première rangée de menus déroulants définit les
+		   sections de gauche, du centre et de droite de l'en-tête. La rangée
+		   du bas définit les sections de gauche, du centre et de droite du pied de
+		   page. Dans chaque menu déroulant, choisissez une des options suivantes :
+			<ul>
+			  <li><strong>&hfBlank;</strong> : Ne rien inscrire dans cette section.</li>
+			  <li><strong>&hfTitle;</strong> : Inscrire le titre de la page Web.</li>
+			  <li><strong>&hfURL;</strong> : Inscrire l'adresse de la page Web (qui commence
+			   généralement par <q>http://</q>).</li>
+			  <li><strong>&hfDateAndTime;</strong> : Inscrire la date et l'heure à
+			   laquelle la page Web a été imprimée.</li>
+			  <li><strong>&hfPage;</strong> : Inscrire le numéro de page de chaque page.</li>
+			  <li><strong>&hfPageAndTotal;</strong> : Inscrire le numéro de page ainsi
+			   que le nombre total de pages. Par exemple, si vous imprimez une page Web de cinq pages,
+			   <q>3 sur 5</q> serait inscrit sur la troisième page.</li>
+			  <li><strong>&hfCustom;</strong> : Saisissez votre propre texte. Vous pouvez
+			   inclure n'importe lequel des codes suivants pour inscrire une information
+			   spécifique :
+				<ul>
+				  <li><strong>&hfPageAndTotal;</strong> : nombre de pages avec total
+				   (exemple : <q>3 sur 5</q>)</li>
+				  <li><strong>&hfPage;</strong> : numéro de page</li>
+				  <li><strong>&hfDateAndTime;</strong> : date</li>
+				  <li><strong>&hfURL;</strong> : adresse</li>
+				  <li><strong>&hfTitle;</strong> : titre de la page</li>
+				</ul>
+			  </li>
+			</ul>
+		  </li>
+		</ul>
+	  </li>
+	</ul>
+
+	<p><strong>Astuce</strong> : Pour visualiser un aperçu des changements 
+	 apportés à la mise en page, utilisez 
+	 <a href="using_firebird.xhtml#using_print_preview">&printPreviewCmd.label;</a>.</p>
+
+<h2 id="improving_speed_and_efficiency">Amélioration de la vitesse et de l'efficacité</h2>
+
+	<h3 id="managing_different_file_types">Gestion des différents types de fichiers</h3>
+	<p>&brandShortName; peut gérer plusieurs types de fichiers. Toutefois, pour
+	 certains fichiers, tels que les films et la musique, &brandShortName; a besoin de 
+	 plugins ou d'applications externes qui peuvent gérer ces fichiers. Si 
+	 &brandShortName; n'a pas l'application externe ou le plugin nécessaire pour ouvrir 
+	 le fichier, il peut tout de même l'enregistrer sur votre disque dur. Lorsque vous 
+	 enregistrez des fichiers, vous pouvez en suivre la progression en utilisant le 
+	 gestionnaire de téléchargements.</p>
+
+	<p><strong>Plugins</strong><br/>
+	 Les plugins élargissent les fonctionnalités de &brandShortName; et 
+	 s'exécutent à l'intérieur de celui-ci. Des plugins comme Sun Java, 
+	 Macromedia Flash et RealNetworks RealPlayer permettent à &brandShortName; 
+	 d'afficher des fichiers multimédia et d'exécuter de petites applications 
+	 comme des films, des animations et des jeux. Vous pouvez trouver les plugins les plus 
+	 courants sur la page <a href="https://pfs.mozilla.org/plugins/" target="_blank">Plugins</a> 
+	 de Mozilla Update.</p>
+
+	<p>Quand les fichiers ne peuvent pas être ouverts dans &brandShortName;, vous 
+	 pouvez choisir de les ouvrir avec des applications externes à &brandShortName;. 
+	 Par exemple, vous pouvez utiliser le lecteur de votre choix pour lire les fichiers MP3.</p>
+
+	<p><!-- Vous pouvez définir le comportement de &brandShortName; pour les fichiers qu'il
+	 ne peut afficher dans la boîte de dialogue <em>&downloadactionsWindow.title;</em>. --> Pour ouvrir ce dialogue, sélectionnez 
+	 &pref.menuPath;, ouvrez le panneau <em>&paneContent.title;</em> et cliquez sur le 
+	 bouton <em>&edit.label;</em>. Vous pouvez changer 
+	 l'action pour un type de fichier ou le supprimer. Vous trouverez plus d'information sur 
+	 ce dialogue dans la section sur les <a href="prefs.xhtml#file_types">&pref.pluralCaps; de <!-- &fileTypes.label;--></a>.</p>
+
+	<p>Quand vous cliquez sur un fichier et que &brandShortName; ne sait pas comment le 
+	 traiter, une boîte de dialogue s'ouvre et propose les options suivantes :</p>
+	 
+	<ul>
+	  <li><strong>&openWith.label;</strong> : &brandShortName; ouvre le fichier en utilisant le
+	   programme par défaut défini dans vos paramètres système.
+	   Vous pouvez également choisir un autre programme en choisissant
+	   <em>&other.label;</em> dans le menu déroulant.</li>
+	  <li><strong>&savePageCmd.label;</strong> : &brandShortName; vous permet de
+	   sélectionner un endroit où enregistrer le fichier. Si vous avez
+	   sélectionné <em>&saveTo.label;</em> dans le panneau <em>&paneMain.title;</em>
+	   des <em>&pref.pluralCaps;</em>, le fichier sera automatiquement enregistré dans le dossier
+	   par défaut, sinon, &brandShortName; vous demandera où l'enregistrer</li>
+	  <li><strong>&rememberChoice.label;</strong> : Quand cette case est cochée, &brandShortName; exécutera
+	   automatiquement l'action choisie la prochaine fois que vous téléchargerez un
+	   fichier de ce type.</li>
+	</ul>
+
+	<p><strong>Astuce</strong> : Vous pouvez effacer les options enregistrées
+	 pour <em>&rememberChoice.label;</em> dans la boîte de dialogue <!-- <em>&downloadactionsWindow.title;</em> -->.</p>
+
+<div class="noMac">
+	<h3 id="making_firebird_your_default_browser">Faire de &brandShortName; votre navigateur
+	 par défaut</h3>
+
+	<p>&brandShortName; permet d'afficher les pages Web du réseau Internet tout comme celles
+	 présentes sur votre propre ordinateur. Pour ouvrir facilement des pages Web, vous pouvez faire de 
+	 &brandShortName; votre navigateur par défaut.</p>
+
+	<p>Pour faire de &brandShortName; votre navigateur par défaut, sélectionnez
+	 <span class="menuPath">&toolsMenu.label; &gt; &preferencesCmd.label;</span> et cocher
+	 la case <em>&checkNow.label;</em> dans le panneau <em>&paneMain.title;</em>.</p>
+</div>
+
+	<h3 id="changing_cache_settings">&pref.pluralCaps; de cache</h3>
+	<p>&brandShortName; stocke dans le cache des copies des pages fréquemment 
+	 visitées. &brandShortName; n'a donc pas à récupérer 
+	 la page du réseau à chaque fois que vous visionnez la page Web.</p>
+
+	<p>Pour définir la taille du cache :</p>
+	<ol>
+	  <li>Sélectionnez <span class="menuPath">&toolsMenu.label;
+      &gt; &preferencesCmd.label;</span>.</li>
+	  <li>Ouvrez le panneau <em>&paneAdvanced.title;</em> et cliquez sur l'onglet 
+	   <em>&networkTab.label;</em>.</li>
+           <li>Saisissez un nombre dans le champ <em>&useCacheBefore.label;</em> pour spécifier
+	   la taille du cache. La taille par défaut est de 50 Mo.</li>
+	</ol>
+
+	<p><strong>Important</strong> : Un cache plus lourd permet à plus de 
+	 données d'être récupérées rapidement, mais prend plus 
+	 de place sur votre disque dur.</p>
+
+	<p>Quand vous quittez &brandShortName;, il exécute l'entretien du cache. Si cette 
+	 action prend plus de temps que vous ne le désireriez, tentez de réduire la 
+	 taille du cache disque.</p>
+
+	<p>Pour actualiser une page à tout moment, cliquez sur le bouton 
+	 <q>&reloadCmd.label;</q> dans la Barre de navigation de &brandShortName;. 
+	 &brandShortName; chargera et affichera alors la version la plus récente de 
+	 la page.</p>
+
+<div class="contentsBox"><em>12 septembre août 2006</em></div>
+
+  <p>Copyright © &copyright.years; Les contributeurs du Projet Mozilla Help Viewer.</p>
+
+  <p><em>Traduction : dernière révision : 30 septembre 2007</em></p>
+  <p>Ce texte a été traduit et adapté par une équipe
+   internationale de bénévoles francophones. Pour plus
+   d'informations, visitez notre site : <a
+   href="http://frenchmozilla.sourceforge.net/" target="_blank">http://frenchmozilla.sourceforge.net</a>.
+</p>
+
+</body>
+</html>

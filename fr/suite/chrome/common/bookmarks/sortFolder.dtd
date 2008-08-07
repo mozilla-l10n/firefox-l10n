@@ -1,0 +1,20 @@
+<!ENTITY window.title "Trier un dossier">
+
+<!ENTITY sortOptions.label "Options de tri">
+<!ENTITY description.label "&brandShortName; peut trier chaque dossier individuellement. Utilisez ces options pour personnaliser le tri de ce dossier.">
+
+<!ENTITY sortBy.label "Trier par :">
+<!ENTITY sortBy.name.label "Nom">
+<!ENTITY sortBy.url.label "Adresse">
+<!ENTITY sortBy.shortcutUrl.label "Mot-clé">
+<!ENTITY sortBy.description.label "Description">
+<!ENTITY sortBy.bookmarkAddDate.label "Ajouté le">
+<!ENTITY sortBy.lastModifiedDate.label "Dernière modification">
+<!ENTITY sortBy.lastVisitDate.label "Dernière visite">
+
+<!ENTITY sortOrder.label "Ordre de tri :">
+<!ENTITY sortAscending.label "Ascendant">
+<!ENTITY sortDescending.label "Descendant">
+
+<!ENTITY sortFoldersFirst.label "Trier les dossiers en premier">
+<!ENTITY sortRecursively.label "Trier les dossiers récursivement">

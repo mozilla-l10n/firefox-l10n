@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label		"Fichier">
+<!ENTITY fileMenu.accesskey		"F">
+<!ENTITY newMenu.label		"Nouveau">
+<!ENTITY newMenu.accesskey		"e">
+
+<!ENTITY editMenu.label		"Édition">
+<!ENTITY editMenu.accesskey		"n">
+<!ENTITY undoCmd.label		"Annuler">
+<!ENTITY undoCmd.key			"Z">
+<!ENTITY undoCmd.accesskey		"u">
+<!ENTITY redoCmd.label		"Rétablir">
+<!ENTITY redoCmd.key			"Y">
+<!ENTITY redoCmd.accesskey		"R">
+<!ENTITY cutCmd.label			"Couper">
+<!ENTITY cutCmd.key			"X">
+<!ENTITY cutCmd.accesskey		"C">
+<!ENTITY copyCmd.label		"Copier">
+<!ENTITY copyCmd.key			"C">
+<!ENTITY copyCmd.accesskey		"p">
+<!ENTITY pasteCmd.label		"Coller">
+<!ENTITY pasteCmd.key			"V">
+<!ENTITY pasteCmd.accesskey		"o">
+<!ENTITY deleteCmd.label		"Effacer">
+<!ENTITY deleteCmd.key		"D">
+<!ENTITY deleteCmd.accesskey		"E">
+<!ENTITY selectAllCmd.label		"Tout sélectionner">
+<!ENTITY selectAllCmd.key		"A">
+<!ENTITY selectAllCmd.accesskey	"T">
+<!ENTITY preferencesCmd.label		"Options…">
+<!ENTITY preferencesCmd.accesskey	"O">
+<!ENTITY preferencesCmdUnix.label	"Préférences">
+<!ENTITY preferencesCmdUnix.accesskey	"n">
+
+<!ENTITY findTypeTextCmd.label	"Recherche de texte à la saisie">
+<!ENTITY findTypeTextCmd.accesskey	"x">
+
+<!ENTITY viewMenu.label		"Affichage">
+<!ENTITY viewMenu.accesskey		"A">
+<!ENTITY viewToolbarsMenu.label	"Barres d'outils">
+<!ENTITY viewToolbarsMenu.accesskey	"t">
+<!ENTITY showTaskbarCmd.label		"Barre d'état">
+<!ENTITY showTaskbarCmd.accesskey	"B">
+
+<!ENTITY direct.label			"En ligne (proxy: aucun)">
+<!ENTITY direct.accesskey		"n">
+<!ENTITY manual.label			"En ligne (proxy: manuel)">
+<!ENTITY manual.accesskey		"m">
+<!ENTITY pac.label			"En ligne (proxy: auto)">
+<!ENTITY pac.accesskey		"a">
+
+<!ENTITY proxy.label			"Configuration proxy…">
+<!ENTITY proxy.accesskey		"C">
+
+<!ENTITY findTypeTextCmd.key		"/">
+<!ENTITY findTypeLinksCmd.key		"'">
+
+<!ENTITY closeCmd.label		"Fermer">
+<!ENTITY closeCmd.key			"W">
+<!ENTITY closeCmd.accesskey		"F">
+
+<!ENTITY closeWindow.label            "Fermer la fenêtre">
+
+<!ENTITY quitApplicationCmd.label	"Quitter">
+<!ENTITY quitApplicationCmd.key	"Q">
+<!ENTITY quitApplicationCmd.accesskey	"Q">
+
+<!ENTITY quitApplicationCmdUnix.label	"Quitter">
+<!ENTITY quitApplicationCmdUnix.accesskey "Q">
+
+<!ENTITY quitApplicationCmdMac.label	"Quitter &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "Q">

@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Sécurité des messages">
+<!ENTITY subject.plaintextWarning "Note : Le champ « Objet » d'un message n'est jamais chiffré.">
+<!ENTITY status.heading "Les contenus des messages seront envoyés de la façon suivante :">
+<!ENTITY status.signed "Signé numériquement :">
+<!ENTITY status.encrypted "Chiffré :">
+<!ENTITY status.certificates "Certificats :">
+<!ENTITY view.label "Afficher">
+<!ENTITY view.accesskey "V">
+<!ENTITY tree.recipient "Destinataire">
+<!ENTITY tree.status "Statut">
+<!ENTITY tree.issuedDate "Émis le">
+<!ENTITY tree.expiresDate "Expire le">

@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "Formatage">
+<!ENTITY itemTags.label                   "Étiquettes">
+<!ENTITY itemFonts.label                  "Polices">
+
+<!ENTITY textBegin.label                  "Apparence du texte recopié">
+<!ENTITY style.label                      "Style :">
+<!ENTITY style.accesskey                  "t">
+<!ENTITY regularStyle.label               "Normal">
+<!ENTITY bold.label                       "Gras">
+<!ENTITY italic.label                     "Italique">
+<!ENTITY boldItalic.label                 "Gras italique">
+<!ENTITY size.label                       "Taille :">
+<!ENTITY size.accesskey                   "a">
+<!ENTITY regularSize.label                "Normale">
+<!ENTITY bigger.label                     "Plus grande">
+<!ENTITY smaller.label                    "Plus petite">
+<!ENTITY color.label                      "Couleur :">
+<!ENTITY color.accesskey                  "c">
+<!ENTITY displayWidth.label               "Messages en texte simple">
+<!ENTITY plainText.label		  "Utiliser la police suivante :">
+<!ENTITY displayText.label	          "Lors de l'affichage de citations en texte simple :">
+<!ENTITY viewingPlainText.label	          "Lors de l'affichage de messages en texte simple :">
+<!ENTITY fixedWidth.label                 "Police de largeur fixe">
+<!ENTITY fixedWidth.accesskey             "f">
+<!ENTITY variableWidth.label              "Police de largeur variable">
+<!ENTITY variableWidth.accesskey          "V">
+<!ENTITY readingMessagesHeader.label      "Pour les messages entrant">
+<!ENTITY colors.label                     "Couleurs">
+<!ENTITY overrideColors.label             "Lors de l'affichage des messages, utiliser les couleurs suivantes :">
+<!ENTITY textColor.label                  "Couleur de texte :">
+<!ENTITY textColor.accesskey              "t">
+<!ENTITY backgroundColor.label            "Couleur de fond :">
+<!ENTITY backgroundColor.accesskey        "d">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "Afficher les émoticônes sous forme graphique">
+<!ENTITY convertEmoticons.accesskey       "s">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label      "Les étiquettes peuvent être utilisées pour classer en catégories et donner un ordre de priorité à vos messages">
+<!ENTITY addTagButton.label         "Ajouter">
+<!ENTITY addTagButton.accesskey     "A">
+<!ENTITY editTagButton.label        "Modifier">
+<!ENTITY editTagButton.accesskey    "M">
+<!ENTITY removeTagButton.label      "Supprimer">
+<!ENTITY removeTagButton.accesskey  "S">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label       "Configurer les polices et encodages utilisés par &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label          "Polices et encodages">
+<!ENTITY fontOptions.accesskey   "P">
+<!ENTITY fontOptions.label       "Polices…">

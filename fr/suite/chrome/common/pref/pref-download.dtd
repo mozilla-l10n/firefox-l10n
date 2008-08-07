@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title "Téléchargements">
+<!ENTITY downloadBehavior.label "Au début d'un téléchargement">
+<!ENTITY downloadLocation.label "Lors de l'enregistrement d'un fichier">
+<!ENTITY finishedBehavior.label "Lorsqu'un téléchargement est terminé">
+<!ENTITY openDM.label "Ouvrir le gestionnaire de téléchargements">
+<!ENTITY openDM.accesskey "G">
+<!ENTITY openProgressDialog.label "Ouvrir une boîte de progression">
+<!ENTITY openProgressDialog.accesskey "p">
+<!ENTITY doNothing.label "Ne rien ouvrir">
+<!ENTITY doNothing.accesskey "r">
+<!ENTITY promptDownload.label "Demander l'emplacement et indiquer par défaut :">
+<!ENTITY promptDownload.accesskey "e">
+<!ENTITY lastLocation.label "le dernier répertoire de téléchargement">
+<!ENTITY lastLocation.accesskey "d">
+<!ENTITY specifiedLocation.label "le répertoire de téléchargement spécifié">
+<!ENTITY specifiedLocation.accesskey "s">
+<!ENTITY autoDownload.label "Télécharger automatiquement les fichiers vers le répertoire de téléchargement spécifié">
+<!ENTITY autoDownload.accesskey "t">
+<!ENTITY downloadFolder.label "Répertoire de téléchargement courant :">
+<!ENTITY chooseDownloadFolder.label "Choisir un répertoire…">
+<!ENTITY chooseDownloadFolder.accesskey "C">
+<!ENTITY playSound.label "Jouer un son">
+<!ENTITY playSound.accesskey "o">
+<!ENTITY showAlert.label "Afficher un avertissement">
+<!ENTITY showAlert.accesskey "f">
+<!ENTITY browse.label "Parcourir…">
+<!ENTITY browse.accesskey "u">
+<!ENTITY preview.label "Aperçu">
+<!ENTITY preview.accesskey "A">
+<!ENTITY soundURL.label "Emplacement du fichier son :">
+<!ENTITY soundURL.accesskey "s">

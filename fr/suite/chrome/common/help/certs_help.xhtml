@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
+  %preftreeDTD;
+  <!ENTITY % certManagerDTD SYSTEM "chrome://pippki/locale/certManager.dtd" >
+  %certManagerDTD;
+  <!ENTITY % pref-securityDTD SYSTEM "chrome://pippki/locale/pref-security.dtd" >
+  %pref-securityDTD;
+  <!ENTITY % pref-masterpassDTD SYSTEM "chrome://pippki/locale/pref-masterpass.dtd" >
+  %pref-masterpassDTD;
+  <!ENTITY % pippkiDTD SYSTEM "chrome://pippki/locale/pippki.dtd" >
+  %pippkiDTD;
+  <!ENTITY % deviceManagerDTD SYSTEM "chrome://pippki/locale/deviceManager.dtd" >
+  %deviceManagerDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <title>&certmgr.title;</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+</head>
+
+<body>
+
+  <div class="boilerPlate">
+    Ce document est uniquement pour votre information. Il peut vous aider à
+    prendre quelques précautions pour protéger la confidentialité et la sécurité
+    de vos informations personnelles sur Internet. Ce document n'est en aucun
+    cas une documentation exhaustive de toutes les préférences de  sécurité en
+    ligne, ni une recommandation à propos de ce qui constitue une bonne sécurité
+    sur Internet.
+  </div>
+
+  <h1 id="certificate_manager">&certmgr.title;</h1>
+
+  <p>Cette section décrit comment utiliser le gestionnaire de
+  certificats. Pour plus d'informations sur l'utilisation des certificats, voir
+  la section <a href="using_certs_help.xhtml">Utiliser les certificats</a>.</p>
+
+  <p>Si la fenêtre du gestionnaire de certificats n'est pas visible
+  actuellement, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et sélectionnez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la catégorie <q>Confidentialité &amp; Sécurité</q>, choisissez
+    <q>&certs.label;</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur <q>Confidentialité &amp; Sécurité</q> pour développer la
+    liste.</li>
+
+    <li>Cliquez sur le bouton <q>&managecerts.button;</q>.</li>
+  </ol>
+
+  <div class="contentsBox">
+    <p>Dans cette section&nbsp;:</p>
+
+    <ul>
+      <li><a href="#your_certificates">Vos certificats</a></li>
+
+      <li><a href="#other_peoples_certificates">Les certificats des autres
+      personnes</a></li>
+
+      <li><a href="#web_site_certificates">Les certificats de sites Web</a></li>
+
+      <li><a href="#authorities">Les autorités de certification</a></li>
+    </ul>
+  </div>
+
+  <h2 id="your_certificates">Vos certificats</h2>
+
+  <p>L'onglet <q>&certmgr.tab.mine;</q> du <a href=
+  "#certificate_manager">&certmgr.title;</a> vous permet d'examiner
+  les certificats qui vous identifient et qui sont enregistrés sur votre
+  disque dur. Vos certificats sont énumérés sous les noms
+  des organisations qui les ont émis&nbsp;:</p>
+
+  <ul>
+    <li>Si vous ne pouvez pas voir les noms des certificats sous le nom d'une
+    organisation, double-cliquez sur le nom de cette organisation.</li>
+
+    <li>Pour sélectionner un certificat, cliquez sur son nom.</li>
+
+    <li>Pour sélectionner plus d'un certificat, maintenez la touche
+    <kbd class="noMac">Ctrl</kbd><kbd class="mac">Commande</kbd> appuyée
+    et cliquez sur les noms de ceux que vous souhaitez
+    sélectionner.</li>
+  </ul>
+
+  <p>Pour effectuer les actions suivantes, sélectionnez un ou plusieurs
+  certificats puis cliquez sur le bouton correspondant&nbsp;:</p>
+
+  <dl>
+    <dt>&certmgr.view2.label;&nbsp;:</dt>
+
+    <dd>Affiche les informations détaillées des certificats sélectionnés.</dd>
+
+    <dt>&certmgr.backup2.label;&nbsp;:</dt>
+
+    <dd>Lance la sauvegarde des certificats sélectionnés. La
+    fenêtre qui apparaît vous permet de saisir un mot de passe pour
+    protéger la sauvegarde. Vous pouvez ensuite enregistrer la
+    sauvegarde dans le répertoire de votre choix.</dd>
+
+    <dt>&certmgr.delete2.label;&nbsp;:</dt>
+
+    <dd>Détruit les certificats sélectionnés.</dd>
+  </dl>
+
+  <p>Ces actions ne requièrent pas d'avoir sélectionné un certificat&nbsp;:</p>
+
+  <dl>
+    <dt>&certmgr.restore2.label;&nbsp;:</dt>
+
+    <dd>Importe un fichier contenant un ou plusieurs certificats sauvegardés
+    auparavant. Quand vous sélectionnez <q>&certmgr.restore2.label;</q>, le
+    gestionnaire de certificats vous demande d'abord de
+    localiser le fichier à importer. Les fichiers de sauvegarde de
+    certificats ont généralement l'extension <tt>.p12</tt> (par
+    exemple, <tt>MonCert.p12</tt>) ou <tt>.pfx</tt>. Après avoir
+    sélectionné le fichier à importer, le gestionnaire de
+    certificats vous demande d'entrer le mot de passe assigné lors de la
+    sauvegarde du/des certificat(s).</dd>
+
+    <dt>&certmgr.backupall2.label;&nbsp;:</dt>
+
+    <dd>
+      Lance la sauvegarde de tous les certificats disponibles dans le <a href=
+      "glossary.xhtml#software_security_device" class=
+      "glossary">périphérique de sécurité logiciel</a>.
+
+      <p><strong>Remarque&nbsp;:</strong> <strong>Les certificats des cartes à puce ne
+      peuvent pas être sauvegardés</strong>. Les certificats
+      stockés ailleurs que dans le périphérique de
+      sécurité logiciel, tel que dans une carte à puce du
+      lecteur connecté à l'ordinateur, ne seront pas
+      enregistrés par les fonctions <q>&certmgr.backup2.label;</q> ou
+      <q>&certmgr.backupall2.label;</q>. Vous ne pouvez sauvegarder que les
+      certificats stockés dans le périphérique de sécurité logiciel.</p>
+    </dd>
+  </dl>
+
+  <h3 id="choose_a_certificate_backup_password">&pkcs12.setpassword.title;</h3>
+
+  <p>Un mot de passe d'une sauvegarde de certificats protège un ou
+  plusieurs certificats que vous avez sauvegardé dans l'onglet
+  <q><a href="#your_certificates">&certmgr.tab.mine;</a></q> du gestionnaire de
+  certificats.</p>
+
+  <p>Le gestionnaire de certificats vous demande de choisir ce mot de passe
+  lorsque vous sauvegardez des certificats et vous le demande lorsque vous
+  essayez d'importer des certificats préalablement sauvegardés.</p>
+
+  <dl>
+    <dt>&pkcs12.setpassword.label1;</dt>
+
+    <dd>Entrez le mot de passe de la sauvegarde dans ce champ.</dd>
+
+    <dt>&pkcs12.setpassword.label2;</dt>
+
+    <dd>Confirmez le mot de passe de la sauvegarde. Si vous ne le
+    réentrez pas exactement de la même fa&ccedil;on que la
+    première fois, le bouton <q>OK</q> restera désactivé.
+    Si cela arrive, essayez de réentrer le nouveau mot de passe.</dd>
+  </dl>
+
+  <p>Si quelqu'un obtient l'un de vos fichiers de sauvegarde de certificat et
+  réussit à l'importer, cette personne peut alors envoyer des
+  messages ou même accéder à des sites Web en se faisant
+  passer pour vous. Ceci peut avoir de f&acirc;cheuses conséquences,
+  comme si vous signiez numériquement des messages électroniques
+  importants ou gérez vos comptes bancaires via Internet.</p>
+
+  <p>Par conséquent, il est important de choisir un mot de passe de
+  sauvegarde de certificats difficile à deviner. La <strong>mesure de la
+  qualité du mot de passe</strong> vous donne une bonne idée de
+  la qualité du mot de passe au fur et à mesure que vous le
+  saisissez, en se basant sur certains facteurs comme la longueur et
+  l'utilisation de lettres majuscules, minuscules, de chiffres et autres
+  symboles. Elle ne garantit en aucune manière l'inviolabilité de
+  ce mot de passe.</p>
+
+  <p>Pour plus d'informations, voir
+  <a href="passwords_help.xhtml#choosing_a_good_password">Choisir un bon mot
+  de passe</a>.</p>
+
+  <p>Il est aussi important d'enregistrer le mot de passe dans un endroit
+  s&ucirc;r &ndash; pas dans un endroit accessible à n'importe qui. Si
+  vous oubliez ce mot de passe, vous ne pourrez pas importer la sauvegarde de
+  certificats.</p>
+
+  <h3 id="delete_your_certificates">&certmgr.deletecert.title;</h3>
+
+  <p>Avant de détruire un de vos certificats expiré à
+  partir de l'onglet <q><a href="#your_certificates">&certmgr.tab.mine;</a></q> du
+  gestionnaire de certificats, assurez-vous que vous n'en aurez plus jamais
+  besoin pour lire un vieux courrier électronique que vous auriez
+  chiffré avec la clé privée correspondante.</p>
+
+  <h2 id="other_peoples_certificates">Les certificats des autres personnes</h2>
+
+  <p>L'onglet <q>&certmgr.tab.others2;</q> du <a href=
+  "#certificate_manager">&certmgr.title;</a> énumère
+  les certificats de courrier électronique présents sur votre
+  disque qui identifient d'autres personnes.</p>
+
+  <p>Quand d'autres personnes vous envoient des messages signés
+  numériquement, le gestionnaire de certificats récupère
+  leur certificat automatiquement. Vous pouvez alors utiliser ces certificats
+  pour envoyer des messages chiffrés à ces personnes.</p>
+
+  <p>Les certificats des autres personnes sont énumérés
+  sous les noms des organisations qui les ont émis&nbsp;:</p>
+
+  <ul>
+    <li>Si vous ne pouvez pas voir les noms des certificats sous le nom d'une
+    organisation, double-cliquez sur le nom de celle-ci.</li>
+
+    <li>Pour sélectionner un certificat, cliquez sur son nom.</li>
+
+    <li>Pour sélectionner plus d'un certificat, maintenez la touche
+    <kbd class="noMac">Ctrl</kbd><kbd class="mac">Commande</kbd>
+    appuyée et cliquez sur les noms de ceux que vous souhaitez
+    sélectionner.</li>
+  </ul>
+
+  <p>Pour effectuer les actions suivantes, sélectionnez un ou plusieurs
+  certificats puis cliquez sur le bouton correspondant&nbsp;:</p>
+
+  <dl>
+    <dt>&certmgr.view2.label;&nbsp;:</dt>
+
+    <dd>Affiche les informations détaillées des certificats sélectionnés.</dd>
+
+    <dt>&certmgr.delete2.label;&nbsp;:</dt>
+
+    <dd>Détruit les certificats sélectionnés.</dd>
+  </dl>
+
+  <h3 id="delete_email_certificates">Supprimer des certificats d'autres
+  personnes</h3>
+
+  <p>Avant d'effacer le certificat de quelqu'un d'autre à partir de
+  l'onglet <q><a href="#other_peoples_certificates">&certmgr.tab.others2;</a></q> du
+  gestionnaire de certificats, assurez-vous que vous n'en aurez plus jamais
+  besoin pour envoyer de message chiffré à cette personne ou pour
+  vérifier une signature électronique d'un message provenant de
+  cette personne.</p>
+
+  <h2 id="web_site_certificates">Les certificats de sites Web</h2>
+
+  <p>L'onglet <q>&certmgr.tab.websites3;</q> du gestionnaire de certificats
+  énumère les certificats présents sur votre disque qui
+  identifient des sites Web.</p>
+
+  <p>Les certificats de sites Web sont énumérés sous les
+  noms des organisations qui les ont émis&nbsp;:</p>
+
+  <ul>
+    <li>Si vous ne pouvez pas voir les noms des certificats sous le nom d'une
+    organisation, double-cliquez sur le nom de celle-ci.</li>
+
+    <li>Pour sélectionner un certificat, cliquez sur son nom.</li>
+
+    <li>Pour sélectionner plus d'un certificat, maintenez la touche
+    <kbd class="noMac">Ctrl</kbd><kbd class="mac">Commande</kbd> appuyée et
+    cliquez sur les noms de ceux que vous souhaitez sélectionner.</li>
+  </ul>
+
+  <p>Pour effectuer les actions suivantes, sélectionnez un ou plusieurs
+  certificats puis cliquez sur le bouton correspondant&nbsp;:</p>
+
+  <dl>
+    <dt>&certmgr.view2.label;&nbsp;:</dt>
+
+    <dd>Affiche des informations détaillées concernant les
+    certificats sélectionnés.</dd>
+
+    <dt>&certmgr.edit2.label;&nbsp;:</dt>
+
+    <dd>Affiche ou change les paramètres de confiance que le
+    gestionnaire de certificats associe aux certificats
+    sélectionnés. Vous pouvez utiliser ces paramètres pour
+    désigner un certificat de site Web auquel vous faites confiance ou
+    non pour des besoins d'identification.</dd>
+
+    <dt>&certmgr.delete2.label;&nbsp;:</dt>
+
+    <dd>Détruit les certificats sélectionnés.</dd>
+  </dl>
+
+  <h3 id="edit_web_site_certificate_trust_settings">Modifier les
+  paramèt;res de confiance des certificats de sites Web</h3>
+
+  <p>Quand vous sélectionnez un certificat de site Web à partir
+  de l'onglet <q><a href="#web_site_certificates">&certmgr.tab.websites3;</a></q>
+  du gestionnaire de certificats et que vous cliquez sur
+  <q>&certmgr.edit2.label;</q>, vous voyez apparaître une fenêtre
+  intitulée <q>&certmgr.editsslcert.title;</q>.</p>
+
+  <p>Dans cette fenêtre, vous spécifiez si vous voulez faire
+  confiance à ce certificat pour identifier un site Web et
+  établir une connexion chiffrée avec celui-ci.</p>
+
+  <p>La boîte de dialogue contient les éléments suivants&nbsp;:</p>
+
+  <dl>
+    <dt>Le certificat <q><em>nom du certificat</em></q> a été émis par&nbsp;:</dt>
+
+    <dd>Fournit des informations à propos de l'<a href=
+    "glossary.xhtml#certificate_authority" class="glossary">autorité de
+    certification</a> qui a émis ce certificat.</dd>
+
+    <dt>&certmgr.editsslcert.edittrust;</dt>
+
+    <dd>
+      <dl>
+        <dt>&certmgr.editsslcert.dotrust;</dt>
+
+        <dd>Si vous sélectionnez cette option, le gestionnaire de
+        certificats fera désormais confiance à ce certificat pour
+        identifier ce site Web ou établir une connexion chiffrée.
+        Lors de votre prochaine visite sur le site Web, votre navigateur y
+        accédera avec peu, voire aucun avertissement.</dd>
+
+        <dt>&certmgr.editsslcert.donttrust;</dt>
+
+        <dd>Si vous sélectionnez cette option, le gestionnaire de
+        certificats ne fera plus jamais confiance à ce certificat pour
+        identifier ce site Web ou établir une connexion chiffrée.
+        Si vous sélectionnez ce paramètre puis tentez de visiter
+        le site Web, vous verrez un ou plusieurs messages d'avertissement avant
+        d'accéder au site.</dd>
+      </dl>
+    </dd>
+
+    <dt>&certmgr.editca.label;&nbsp;:</dt>
+
+    <dd>Cliquez sur ce bouton pour spécifier les paramètres de
+    confiance pour l'autorité de certification (AC) qui a émis le
+    certificat de site Web. Ces paramètres vous permettent de faire
+    confiance ou non à certains types de certificats émis par
+    cette autorité de certification. Vous pouvez par exemple choisir de
+    faire confiance à tous les certificats de sites Web émis par
+    cette autorité.</dd>
+  </dl>
+
+  <p>Cliquez sur <q>OK</q> pour confirmer votre choix.</p>
+
+  <h3 id="delete_web_site_certificates">Supprimer des certificats de site
+  Web</h3>
+
+  <p>Avant d'effacer un certificat de site Web à partir de l'onglet
+  <q><a href="#web_site_certificates">&certmgr.tab.websites3;</a></q> du
+  gestionnaire de certificats, assurez-vous que vous n'en aurez plus jamais
+  besoin pour identifier un site Web et établir une connexion chiffrée.</p>
+
+  <h2 id="authorities">Autorités de certification</h2>
+
+  <p>L'onglet <q>&certmgr.tab.ca;</q> du <a href=
+  "#certificate_manager">&certmgr.title;</a> énumère
+  les certificats sur votre disque qui identifient des <a href=
+  "glossary.xhtml#certificate_authority" class="glossary">autorités de
+  certification (AC)</a>.</p>
+
+  <p>Les certificats d'AC sont énumérés sous les noms des
+  organisations qui les ont émis&nbsp;:</p>
+
+  <ul>
+    <li>Si vous ne pouvez pas voir les noms des certificats d'AC sous le nom
+    d'une organisation, double-cliquez sur le nom de celle-ci.</li>
+
+    <li>Pour sélectionner un certificat d'AC, cliquez sur son nom.</li>
+
+    <li>Pour sélectionner plus d'un certificat d'AC, maintenez la touche
+    <kbd class="noMac">Ctrl</kbd><kbd class="mac">Commande</kbd>
+    appuyée et cliquez sur les noms de ceux que vous souhaitez
+    sélectionner.</li>
+  </ul>
+
+  <p>Pour effectuer les actions suivantes, sélectionnez les certificats
+  sur lesquels vous souhaitez agir puis cliquez sur le bouton
+  correspondant&nbsp;:</p>
+
+  <dl>
+    <dt>&certmgr.view2.label;&nbsp;:</dt>
+
+    <dd>Affiche les informations détaillées sur les certificats sélectionnés.</dd>
+
+    <dt>&certmgr.edit2.label;&nbsp;:</dt>
+
+    <dd>Affiche ou change les paramètres que le gestionnaire de certificats
+    associe aux certificats sélectionnés. Vous pouvez utiliser ces paramètres
+    pour désigner à quels types de certificats provenant de l'autorité
+    correspondante vous faites confiance, s'il y en a.</dd>
+
+    <dt>&certmgr.delete2.label;&nbsp;:</dt>
+
+    <dd>Détruit les certificats sélectionnés.</dd>
+  </dl>
+
+  <p>Pour vous assurer qu'une <a href="glossary.xhtml#certificate_chain" class=
+  "glossary">chaîne de certificats</a> entière d'AC est
+  validée, vous n'avez qu'à modifier le certificat d'AC
+  racine.</p>
+
+  <p>Pour importer la chaîne, cliquez sur le lien de la page Web
+  donnée par l'AC. Vous pouvez ensuite utiliser l'onglet
+  <q>&certmgr.tab.ca;</q> pour localiser le certificat racine et modifier ses
+  paramètres de confiance.</p>
+
+  <p>L'AC racine et les AC intermédiaires apparaissent toutes sous la
+  même organisation. Le certificat racine se liste lui-même comme
+  un envoyeur.</p>
+
+  <p><strong>Si vous téléchargez une AC
+  intermédiaire</strong>&nbsp;: Si vous téléchargez un
+  certificat d'AC intermédiaire qui vous relie à un certificat
+  racine déjà marqué comme étant de confiance dans
+  votre navigateur, vous n'avez pas à le modifier. Les certificats
+  intermédiaire héritent automatiquement des
+  préférences de confiance de leur racine.</p>
+
+  <h3 id="edit_ca_certificate_trust_settings">Modifier les paramètres de
+  confiance des certificats d'AC</h3>
+
+  <p>Quand vous sélectionnez un certificat d'AC à partir de
+  l'onglet <q><a href="#authorities">&certmgr.tab.ca;</a></q> du gestionnaire
+  de certificats et que vous cliquez sur <q>Modifier</q>, une fenêtre
+  intitulée <q>&certmgr.editcacert.title;</q> apparaît. Vous y
+  spécifiez les types de certificats que vous permettez à cette
+  autorité de certifier. Si vous désélectionnez toutes les
+  options, le gestionnaire de certificats ne fera confiance à aucun
+  certificat provenant de cette autorité.</p>
+
+  <p>Les paramètres ont les effets suivants&nbsp;:</p>
+
+  <dl>
+    <dt>&certmgr.editcert.trustssl;</dt>
+
+    <dd>Le gestionnaire de certificats fera confiance aux certificats issus de
+    cette AC pour identifier des sites Web ainsi que des connexions
+    chiffrées vers ces sites. Si vous désélectionnez cette
+    option, le gestionnaire de certificats ne fera pas confiance aux sites dont
+    le certificat provient de cette AC.</dd>
+
+    <dt>&certmgr.editcert.trustemail;</dt>
+
+    <dd>Le gestionnaire de certificats fera confiance aux certificats provenant
+    de cette AC s'il s'agit de la signature ou du chiffrement de courriers
+    électroniques. Si vous désélectionnez cette option, le
+    gestionnaire de certificats ne fera plus confiance aux certificats de
+    courrier électronique provenant de cette AC.</dd>
+
+    <dt>&certmgr.editcert.trustobjsign;</dt>
+
+    <dd>Le gestionnaire de certificats fera confiance aux certificats provenant
+    de cette AC pour identifier les concepteurs de logiciels. Si vous
+    désélectionnez cette option, le gestionnaire de certificats
+    ne fera plus confiance aux certificats destinés à ce type
+    d'utilisation et provenant de cette AC.</dd>
+  </dl>
+
+  <p>Cliquez sur <q>OK</q> pour confirmer les paramètres que vous avez
+  choisis.</p>
+
+  <h3 id="delete_ca_certificates">Supprimer des certificats d'AC</h3>
+
+  <p>Avant d'effacer un certificat d'AC à partir de l'onglet <q><a href=
+  "#authorities">&certmgr.tab.ca;</a></q> du gestionnaire de certificats,
+  assurez-vous que vous n'en aurez plus jamais besoin pour valider des
+  certificats émis par cette AC. Si vous détruisez le seul
+  certificat valide que vous détenez d'une AC, le gestionnaire de
+  certificats ne fera plus confiance à aucun certificat provenant de
+  cette AC.</p>
+
+  <h1 id="device_manager">&devmgr.title;</h1>
+
+  <p>Cette section décrit les options disponibles dans la fenêtre
+  du gestionnaire de périphériques. Pour plus d'explications et
+  des instructions pas-à-pas sur le gestionnaire de
+  périphérique, voir la section <a href=
+  "using_certs_help.xhtml#managing_smart_cards_and_other_security_devices">Gérer
+  les cartes à puce et autres périphériques de
+  sécurité</a>.</p>
+
+  <p>Si la fenêtre du gestionnaire de périphériques n'est
+  pas visible, suivez ces étapes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q> et
+    sélectionnez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Dans la catégorie <q>Confidentialité &amp; Sécurité</q>, choisissez
+    <q>&certs.label;</q>. Si aucune sous-catégorie n'est visible,
+    double-cliquez sur <q>Confidentialité &amp; Sécurité</q> pour développer la
+    liste.</li>
+
+    <li>Dans le panneau <q>&certs.label;</q>, cliquez sur
+    <q>&managedevices.button;</q>.</li>
+  </ol>
+
+  <p>Le gestionnaire de périphériques énumère
+  chaque module PKCS #11 disponible et, en dessous de chacun des noms de
+  module, les périphériques de sécurité
+  gérés par celui-ci.</p>
+
+  <p>Quand vous sélectionnez un module ou un périphérique,
+  les informations le concernant apparaissent au milieu de la fenêtre, et
+  certains boutons sur le c&ocirc;té droit de la fenêtre
+  deviennent disponibles. En général, vous effectuez une action
+  sur un module ou un périphérique en sélectionnant son
+  nom et en cliquant sur le bouton approprié&nbsp;:</p>
+
+  <dl>
+    <dt>&devmgr.button.login.label;&nbsp;:</dt>
+
+    <dd>Se connecte au périphérique de sécurité
+    sélectionné. Après vous être connecté au
+    périphérique, la fréquence à laquelle vous
+    serez sollicité pour entrer le mot de passe principal du
+    périphérique dépend de l'option <q><a href=
+    "passwords_help.xhtml#master_password_timeout">&managepassword.caption;</a></q>.</dd>
+
+    <dt>&devmgr.button.logout.label;&nbsp;:</dt>
+
+    <dd>Se déconnecte du périphérique de
+    sécurité sélectionné. Après vous
+    être déconnecté du périphérique, le
+    périphérique et les certificats qu'il contient ne seront plus
+    disponibles jusqu'à ce que vous vous connectiez de nouveau.</dd>
+
+    <dt>&changepassword.button;&nbsp;:</dt>
+
+    <dd>Change le mot de passe principal du périphérique de
+    sécurité sélectionné.</dd>
+
+    <dt>&devmgr.button.load.label;&nbsp;:</dt>
+
+    <dd>Affiche une fenêtre qui vous permettra de spécifier le nom
+    et l'emplacement d'un nouveau module PKCS #11. Avant d'ajouter un nouveau
+    module, vous devez préalablement installer le module logiciel sur
+    votre ordinateur et, si nécessaire, connecter tout
+    périphérique matériel associé. Suivez les
+    instructions fournies par le vendeur.</dd>
+
+    <dt>&devmgr.button.unload.label;&nbsp;:</dt>
+
+    <dd>Décharge le module sélectionné. Si vous
+    déchargez un module, le module et ses périphériques de
+    sécurité ne seront plus utilisables par le navigateur.</dd>
+
+    <dt>Activer FIPS&nbsp;:</dt>
+
+    <dd>Active ou désactive le mode FIPS. Pour plus d'informations, voir
+    la section <a href="using_certs_help.xhtml#enable_fips_mode">Activer le mode
+    FIPS</a>.</dd>
+  </dl>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Dernière révision&nbsp;: 12 janvier 2008</em></p>
+
+    <p>Ce texte a été traduit et adapté par une
+    équipe internationale de bénévoles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sourceforge.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

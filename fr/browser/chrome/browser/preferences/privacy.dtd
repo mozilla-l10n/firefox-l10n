@@ -1,0 +1,54 @@
+<!ENTITY  history.label                 "Historique">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter2.label;
+-->
+
+<!ENTITY  rememberDaysBefore.label      "Conserver mon historique pendant au moins">
+<!ENTITY  rememberDaysBefore.accesskey  "C">
+<!ENTITY  rememberDaysAfter2.label      "jours">
+
+<!ENTITY  rememberForms.label           "Se souvenir des informations saisies dans les formulaires et la barre de recherche">
+<!ENTITY  rememberForms.accesskey       "S">
+
+<!ENTITY  rememberDownloads.label       "Se souvenir des téléchargements effectués">
+<!ENTITY  rememberDownloads.accesskey   "o">
+
+
+<!ENTITY  cookies.label                 "Cookies">
+
+<!ENTITY  acceptCookies.label           "Accepter les cookies">
+<!ENTITY  acceptCookies.accesskey       "A">
+
+<!ENTITY  acceptThirdParty.label        "Accepter les cookies tiers">
+<!ENTITY  acceptThirdParty.accesskey    "t">
+
+<!ENTITY  keepUntil.label               "Les conserver jusqu'à :">
+<!ENTITY  keepUntil.accesskey           "L">
+
+<!ENTITY  expire.label                  "leur expiration">
+<!ENTITY  close.label                   "la fermeture de &brandShortName;">
+<!ENTITY  askEachTime.label             "me demander à chaque fois">
+
+<!ENTITY  cookieExceptions.label        "Exceptions…">
+<!ENTITY  cookieExceptions.accesskey    "x">
+
+<!ENTITY  showCookies.label             "Afficher les cookies…">
+<!ENTITY  showCookies.accesskey         "k">
+
+<!ENTITY  privateData.label             "Vie privée">
+
+<!ENTITY  alwaysClear.label              "Toujours effacer mes informations personnelles à la fermeture de &brandShortName;">
+<!ENTITY  alwaysClear.accesskey          "T">
+
+<!ENTITY  askBeforeClear.label           "Demander avant d'effacer mes traces">
+<!ENTITY  askBeforeClear.accesskey       "D">
+
+<!ENTITY  clearDataSettings.label        "Paramètres…">
+<!ENTITY  clearDataSettings.accesskey    "P">
+
+<!ENTITY  clearDataNow.label             "Effacer mes traces maintenant…">
+<!ENTITY  clearDataNow.label2            "Effacer mes traces maintenant">
+<!ENTITY  clearDataNow.accesskey         "m">

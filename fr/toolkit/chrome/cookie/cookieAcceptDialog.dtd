@@ -1,0 +1,18 @@
+<!ENTITY     props.name.label               "Nom :">
+<!ENTITY     props.value.label              "Contenu :">
+<!ENTITY     props.domain.label             "Serveur :">
+<!ENTITY     props.path.label               "Chemin :">
+<!ENTITY     props.secure.label             "Envoyé pour :">
+<!ENTITY     props.expires.label            "Expire :">
+<!ENTITY     props.policy.label             "Politique du site :">
+
+<!ENTITY     button.allow.label             "Autoriser">
+<!ENTITY     button.allow.accesskey         "A">
+<!ENTITY     button.session.label           "Autoriser durant la session">
+<!ENTITY     button.session.accesskey       "s">
+<!ENTITY     button.deny.label              "Interdire">
+<!ENTITY     button.deny.accesskey          "I">
+
+<!ENTITY     dialog.title                   "Confirmer les paramètres de cookie">
+<!ENTITY     dialog.remember.label          "Appliquer ce choix pour tous les cookies de ce site">
+<!ENTITY     dialog.remember.accesskey      "A">

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % pref-popupsDTD SYSTEM "chrome://communicator/locale/pref/pref-popups.dtd" >
+  %pref-popupsDTD;
+  <!ENTITY % preftreeDTD SYSTEM "chrome://communicator/locale/pref/preftree.dtd" >
+  %preftreeDTD;
+  <!ENTITY % tasksOverlayDTD SYSTEM "chrome://communicator/locale/tasksOverlay.dtd" >
+  %tasksOverlayDTD;
+  <!ENTITY % utilityOverlayDTD SYSTEM "chrome://communicator/locale/utilityOverlay.dtd" >
+  %utilityOverlayDTD;
+  <!ENTITY % permissionsNavigatorOverlayDTD SYSTEM "chrome://communicator/locale/permissions/permissionsNavigatorOverlay.dtd" >
+  %permissionsNavigatorOverlayDTD;
+  <!ENTITY % permissionsManagerDTD SYSTEM "chrome://communicator/locale/permissions/permissionsManager.dtd" >
+  %permissionsManagerDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <title>Pr&eacute;f&eacute;rences du gestionnaire de popups</title>
+  <!--<link rel="stylesheet" href="content_style.css" type="text/css" />-->
+  <link rel="stylesheet" type="text/css" href="helpFileLayout.css" />
+</head>
+
+<body>
+  <div class="boilerPlate">
+    Ce document est uniquement pour votre information. Il
+    peut vous aider &agrave; prendre quelques pr&eacute;cautions pour
+    prot&eacute;ger la confidentialit&eacute; et la s&eacute;curit&eacute; de
+    vos informations personnelles sur Internet. Ce document n'est en aucun cas
+    une documentation exhaustive de toutes les pr&eacute;f&eacute;rences de
+    s&eacute;curit&eacute; en ligne, ni une recommandation &agrave;
+    propos de ce qui constitue une bonne s&eacute;curit&eacute; sur Internet.
+  </div>
+
+  <h1 id="controlling_popups">&cookieManagePopups.label;</h1>
+
+  <h4>Qu'est-ce qu'un popup&nbsp;?</h4>
+
+  <p>Les fen&ecirc;tres popup, ou popups, sont des fen&ecirc;tres qui s'ouvrent
+  automatiquement et sans demande expresse de votre part. Leur taille est
+  variable, mais elles occupent rarement tout l'&eacute;cran. Certaines popups
+  s'ouvrent au premier plan, d'autres &agrave; l'arri&egrave;re plan.</p>
+
+  <p>&brandShortName; vous permet de contr&ocirc;ler l'ouverture de ces
+  fen&ecirc;tres &agrave; l'aide des <a href=
+  "#privacy_and_security_preferences_popup_windows">Pr&eacute;f&eacute;rences
+  de Confidentialit&eacute; et de s&eacute;curit&eacute; -
+  &pref.popups.title;</a>. Le gestionnaire de popups est d&eacute;sactiv&eacute; par
+  d&eacute;faut. Il vous faut donc l'activer pour &ecirc;tre en mesure de
+  contr&ocirc;ler l'ouverture de telles fen&ecirc;tres lorsque vous
+  naviguez.</p>
+
+  <p>Lorsqu'une fen&ecirc;tre popup est bloqu&eacute;e, &brandShortName; peut
+  &eacute;mettre un son ou afficher l'ic&ocirc;ne <img src=
+  "chrome://navigator/skin/icons/popup-blocked.png" alt=
+  "ic&ocirc;ne de contr&ocirc;le des popups" /> dans la barre d'&eacute;tat du
+  navigateur. Vous pouvez utiliser cette ic&ocirc;ne pour ajouter un site Web
+  &agrave; la liste de ceux qui seront autoris&eacute;s &agrave; ouvrir des
+  fen&ecirc;tres popup.</p>
+
+  <p><strong>Le blocage des fen&ecirc;tres popup peut limiter le fonctionnement
+  de certains sites Web</strong>&nbsp;: Certains sites Web, parmi lesquels des
+  sites de banques, utilisent les fen&ecirc;tres popup pour d'importantes
+  fonctionnalit&eacute;s qui seront rendues inop&eacute;rantes si toutes les
+  popups sont bloqu&eacute;es. Pour autoriser certains sites sp&eacute;cifiques
+  &agrave; afficher les fen&ecirc;tres popup, tout en bloquant toutes les
+  autres, vous pouvez utiliser le gestionnaire des fen&ecirc;tres popup qui
+  liste les sites que vous autorisez &agrave; ouvrir des popups. Pour plus
+  d'informations, voir la section <a href=
+  "#privacy_and_security_preferences_popup_windows">Pr&eacute;f&eacute;rences
+  de Confidentialit&eacute; et de s&eacute;curit&eacute; -
+  &pref.popups.title;</a>.</p>
+
+  <p><strong>Le blocage des fen&ecirc;tres popup ne fonctionnera pas
+  toujours</strong>&nbsp;: Bien que &brandShortName; soit capable de bloquer la plupart
+  des popups, certains sites peuvent utiliser des m&eacute;thodes actuellement
+  incontournables.</p>
+  <!-- commentaire du traducteur : quelles sont les m&eacute;thodes
+ utilis&eacute;es pour ouvrir des popups ? -->
+
+  <p><strong>Autoriser certains sites &agrave; ouvrir des
+  popups</strong>&nbsp;: apr&egrave;s avoir activ&eacute; le blocage des
+  popups, vous pouvez toujours autoriser certains sites sp&eacute;cifiques
+  &agrave; les afficher. Naviguez sur les sites en question, puis suivez les
+  &eacute;tapes suivantes pour chacun d'entre eux&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q>&tasksMenu.label;</q>.</li>
+
+    <li>Choisissez <q>&cookiePopupManager.label;</q>.</li>
+
+    <li>S&eacute;lectionnez <q>&cookieAllowPopupsCmd.label;</q>.</li>
+  </ol>
+
+  <p>La section suivante d&eacute;crit les diff&eacute;rentes fa&ccedil;ons de
+  contr&ocirc;ler l'ouverture des popups &agrave; l'aide des <a href=
+  "#privacy_and_security_preferences_popup_windows">Pr&eacute;f&eacute;rences
+  de Confidentialit&eacute; et de s&eacute;curit&eacute; -
+  &pref.popups.title;</a> et de l'ic&ocirc;ne <img src=
+  "chrome://navigator/skin/icons/popup-blocked.png" alt=
+  "ic&ocirc;ne de contr&ocirc;le des popups" />.</p>
+
+  <h2 id="privacy_and_security_preferences_popup_windows">
+  Pr&eacute;f&eacute;rences de Confidentialit&eacute; et de
+  s&eacute;curit&eacute; - &pref.popups.title;</h2>
+
+  <p>Cette section d&eacute;crit comment utiliser le panneau des
+  pr&eacute;f&eacute;rences des fen&ecirc;tres popup. Pour l'activer, suivez
+  les &eacute;tapes suivantes&nbsp;:</p>
+
+  <ol>
+    <li>Ouvrez le menu <q><span class="mac">&brandShortName;</span><span
+    class="noMac">&editMenu.label;</span></q>
+    et choisissez <q>&preferencesCmd.label;</q>.</li>
+
+    <li>Sous la cat&eacute;gorie <q>&security.label;</q>, cliquez sur
+    <q>&pref.popups.title;</q>. Si aucune sous-cat&eacute;gorie n'est visible,
+    double-cliquez sur la cat&eacute;gorie <q>&security.label;</q> pour
+    d&eacute;velopper la liste.</li>
+  </ol>
+
+  <dl>
+    <dt>&popupBlock.label;&nbsp;:</dt>
+
+    <dd>S&eacute;lectionnez cette option pour interdire l'ouverture des
+    fen&ecirc;tres popup lorsque vous naviguez.</dd>
+
+    <dt>&popupExceptions.label;&nbsp;:</dt>
+
+    <dd>Cliquez sur ce bouton pour ouvrir le gestionnaire des fen&ecirc;tres
+      popup.
+
+      <dl>
+        <dt>Sites autoris&eacute;s - Popups</dt>
+
+        <dd>Cette fen&ecirc;tre liste les sites Web pour lesquels vous
+        autorisez les fen&ecirc;tres popup. Vous pouvez ajouter &agrave; la
+        liste les sites pour lesquels vous autorisez l'ouverture de popups ou
+        enlever ceux pour lesquels vous refusez.</dd>
+
+        <dt>&allow.label;&nbsp;:</dt>
+
+        <dd>Saisissez l'adresse d'un site pour lequel vous autorisez l'ouverture
+        de fen&ecirc;tres popup, puis cliquez sur <q>&allow.label;</q>.</dd>
+
+        <dt>&remove.label;&nbsp;:</dt>
+
+        <dd>S&eacute;lectionnez un site dans la liste, puis cliquez sur
+        <q>Enlever</q>. Ce site n'est plus autoris&eacute; &agrave; ouvrir de
+        fen&ecirc;tres popup.</dd>
+
+        <dt>&removeall.label;&nbsp;:</dt>
+
+        <dd>Cliquez sur ce bouton pour supprimer tous les sites de la liste.
+        &Agrave; partir de ce moment, toutes les popups seront
+        bloqu&eacute;es.</dd>
+      </dl>
+    </dd>
+
+    <dt>&whenBlock.description;</dt>
+
+    <dd>
+      <dl>
+        <dt>&playSound.label;</dt>
+
+        <dd>
+          S&eacute;lectionnez cette option si vous d&eacute;sirez que &brandShortName;
+          &eacute;mette un son chaque fois qu'une fen&ecirc;tre popup est
+          bloqu&eacute;e, puis choisissez un fichier son personnel.
+
+          <dl>
+            <dt>&selectSound.label;</dt>
+
+            <dd>Cliquez sur ce bouton pour naviguer jusqu'&agrave;
+            l'emplacement du fichier son souhait&eacute;.</dd>
+
+            <dt>&previewSound.label;</dt>
+
+            <dd>Cliquez sur ce bouton pour entendre le son choisi.</dd>
+          </dl>
+        </dd>
+      </dl>
+    </dd>
+
+    <dt>&displayIcon.label;&nbsp;:</dt>
+
+    <dd>
+      S&eacute;lectionnez cette option pour afficher l'ic&ocirc;ne <img src=
+      "chrome://navigator/skin/icons/popup-blocked.png" alt=
+      "ic&ocirc;ne de contr&ocirc;le des popups" /> dans la barre d'&eacute;tat
+      du navigateur lorsque &brandShortName; bloque l'ouverture d'une fen&ecirc;tre
+      popup.
+
+      <p><strong>Remarque</strong>&nbsp;: l'ic&ocirc;ne <img src=
+      "chrome://navigator/skin/icons/popup-blocked.png" alt=
+      "ic&ocirc;ne de contr&ocirc;le des popups" /> appara&icirc;t lorsqu'un
+      site non autoris&eacute; tente d'ouvrir une fen&ecirc;tre popup. Elle
+      dispara&icirc;tra lorsque vous quitterez le site en question.</p>
+    </dd>
+  </dl>
+
+  <p><strong>Utiliser l'ic&ocirc;ne de blocage des popups pour autoriser
+  l'ouverture de fen&ecirc;tres popup pour certains sites Web</strong>&nbsp;:
+  Vous pouvez utiliser l'ic&ocirc;ne <img src=
+  "chrome://navigator/skin/icons/popup-blocked.png" alt=
+  "ic&ocirc;ne de contr&ocirc;le des popups" /> de la barre d'&eacute;tat du
+  navigateur pour ajouter rapidement des sites &agrave; la liste de ceux qui
+  sont autoris&eacute;s &agrave; ouvrir des fen&ecirc;tres popup.</p>
+
+  <ol>
+    <li>Cliquez sur l'ic&ocirc;ne <img src=
+    "chrome://navigator/skin/icons/popup-blocked.png" alt=
+    "ic&ocirc;ne de contr&ocirc;le des popups" /> pour afficher la liste des
+    sites autoris&eacute;s &agrave; ouvrir des fen&ecirc;tres popup. L'adresse
+    du site ayant tent&eacute; d'ouvrir la fen&ecirc;tre popup y est
+    pr&eacute;remplie.</li>
+
+    <li>Cliquez sur <q>&allow.label;</q> puis sur <q>OK</q> pour confirmer l'ajout du
+    site &agrave; la liste.</li>
+  </ol>
+
+  <p><strong>Remarque</strong>&nbsp;: Le blocage de popups peut ne pas
+  fonctionner sur tous les sites, voire limiter le fonctionnement de certaines
+  pages Web. Pour plus d'informations sur le blocage des fen&ecirc;tres popup,
+  voir la section <a href="#controlling_popups">&cookieManagePopups.label;</a>.</p>
+
+  <div id="footer">
+    <p>&copyright.string;</p>
+    <!--begin frenchmozilla signature-->
+
+    <p><em>Derni&egrave;re r&eacute;vision&nbsp;: 9 juillet 2006</em></p>
+
+    <p>Ce texte a &eacute;t&eacute; traduit et adapt&eacute; par une
+    &eacute;quipe internationale de b&eacute;n&eacute;voles francophones.<br />
+    Pour plus d'informations, visitez notre site&nbsp;: <a href=
+    "http://frenchmozilla.sf.net"
+    hreflang="fr">http://frenchmozilla.sf.net</a>.</p>
+    <!--end frenchmozilla signature-->
+  </div>
+</body>
+</html>

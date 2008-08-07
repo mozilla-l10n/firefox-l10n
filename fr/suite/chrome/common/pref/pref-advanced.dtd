@@ -1,0 +1,12 @@
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
+<!ENTITY pref.advanced.title "Avancées">
+
+<!ENTITY prefEnableJava.caption "Fonctions d'interprétation des pages Web">
+
+<!ENTITY enbJavaCheck.label "Autoriser l'utilisation de Java">
+<!ENTITY enbJavaCheck.accesskey "J">
+
+<!ENTITY systemPref.caption "Préférences du système">
+<!ENTITY systemPrefCheck.label "Utiliser les préférences du système">
+<!ENTITY systemPrefCheck.accesskey "U">
+<!ENTITY systemPref.desc "Cette option permet à &brandShortName; d'utiliser les préférences du système. Les préférences du système ont priorité sur les préférences de &brandShortName;">

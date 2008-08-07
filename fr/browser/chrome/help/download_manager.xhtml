@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/locale/intl.css" type="text/css"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+    <!ENTITY % browserDTD SYSTEM "chrome://browser/locale/browser.dtd" >
+    %browserDTD;
+    <!ENTITY % downloadsDTD SYSTEM "chrome://mozapps/locale/downloads/downloads.dtd" >
+    %downloadsDTD;
+    <!ENTITY % historyDTD SYSTEM "chrome://browser/locale/history/history.dtd" >
+    %historyDTD;
+    <!ENTITY % preferencesDTD SYSTEM "chrome://browser/locale/preferences/preferences.dtd" >
+    %preferencesDTD;
+    <!ENTITY % extensionsDTD SYSTEM "chrome://mozapps/locale/extensions/extensions.dtd">
+    %extensionsDTD;
+]>
+
+<!--
+Contributors:
+  Nilson Cain <mybugs@bellsouth.net> (original author)
+  Jeff Walden <jwalden+code@mit.edu>
+Traduction :
+  Alexandre Lissy <alexandrelissy@free.fr> (traduction originale)
+  Frédéric Chateaux <freed.castles@wanadoo.fr> (relecture et formatage)
+  Marie Léger-St-Jean <marianika@hotmail.com> (corrections)
+  Cédric Corazza <cedric.corazza@wanadoo.fr> (corrections et adresse)
+  Benoît Leseul <benoit.leseul@easynet.be> (mise à jour pour la 1.0, relecture)
+  Marie Léger-St-Jean <marie.leger-st-jean@videotron.ca> (révision)
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+<head>
+  <title>Utilisation du gestionnaire de téléchargements</title>
+  <link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css" />
+</head>
+
+<body>
+
+<h1>Utilisation du gestionnaire de téléchargements</h1>
+
+  <div class="contentsBox">Dans cette section :
+    <ul>
+      <li><a href="#what_is_download_manager">Présentation du gestionnaire de
+        téléchargements</a></li>
+      <li><a href="#do_with_download_manager">Utilisation du
+        gestionnaire de téléchargements</a></li>
+      <li><a href="#download_manager_options">&pref.pluralCaps; du gestionnaire de
+        téléchargements</a></li>
+    </ul>
+  </div>
+
+  <h2 id="what_is_download_manager">Présentation du gestionnaire de téléchargements</h2>
+
+    <p>Le gestionnaire de téléchargements est une fonction de
+      &brandShortName; qui vous permet de suivre et de gérer vos
+      téléchargements passés et en cours. Cela
+      évite l'ouverture de nombreuses fenêtres de
+      téléchargement tout en préservant un accès aux
+      informations de téléchargement.</p>
+
+    <p>Le gestionnaire de téléchargements apparaîtra quand vous
+      téléchargerez un fichier, quand vous sélectionnerez
+      <span class="menuPath">&toolsMenu.label; &gt; &downloads.label;</span> ou quand
+      vous utiliserez le raccourci clavier &accelKey;+<kbd style="text-transform: uppercase"><span class="noUnix">&downloads.commandkey;</span><span 
+   class="unix">&downloadsUnix.commandkey;</span></kbd>.</p>
+
+  <h2 id="do_with_download_manager">Utilisation du gestionnaire de téléchargements</h2>
+
+    <p>En plus de conserver au même endroit des informations sur tous
+      vos téléchargements, le gestionnaire de téléchargements 
+      permet d'accéder à diverses actions relatives aux téléchargements.</p>
+
+    <dl>
+      <dt>Interrompre</dt>
+      <dd>Vous pouvez aisément interrompre un téléchargement en 
+        cliquant sur <em>&cmd.pause.label;</em> sous le nom du fichier. Cela peut être utile, 
+        par exemple, si vous avez besoin de lancer un petit
+        téléchargement, alors qu'un fichier plus imposant est en cours
+        de transfert. Interrompre certains téléchargements vous permet de 
+        déterminer quels sont vos téléchargements les plus prioritaires. Quand vous voulez
+        reprendre un téléchargement interrompu, cliquez sur
+        <em>&cmd.resume.label;</em>.</dd>
+
+      <dt>Annuler</dt>
+      <dd>Si, après avoir lancé un téléchargement, vous
+        ne souhaitez plus du tout obtenir ce fichier, cliquez sur <em>&cmd.cancel.label;</em>
+        à droite du nom du fichier.</dd>
+
+      <dt>Ouvrir le fichier</dt>
+      <dd>Quand un téléchargement est terminé, le lien
+        <em>&openLinkInWindow.label;</em> apparaît à droite du nom du fichier.
+        Utilisez-le pour ouvrir le fichier.</dd>
+
+      <dt>Supprimer l'entrée du fichier</dt>
+      <dd>Si vous ne souhaitez plus conserver les informations relatives à un
+        téléchargement terminé, cliquez sur <!-- <em>&cmd.remove.label;</em> -->
+        à droite du nom du fichier.</dd>
+
+      <dt>Relancer un téléchargement</dt>
+      <dd>Si, pour une raison quelconque, un téléchargement n'a pu
+        s'achever correctement, vous pouvez essayer
+        de le relancer. Pour cela, cliquez sur <em>&cmd.retry.label;</em> à
+        droite du nom du fichier et &brandShortName; relancera le
+        téléchargement.</dd>
+
+<!--      <dt>&filesSavedTo.label;</dt>
+      <dd>Si vous avez paramétré &brandShortName; pour enregistrer tous vos
+        téléchargements dans un répertoire dans les
+        <a href="#download_manager_options">&pref.pluralCaps; du gestionnaire de téléchargements</a>,
+        vous pouvez ouvrir ce répertoire en cliquant sur le <em>Nom du répertoire</em> au bas de
+        la fenêtre de téléchargements.</dd> -->
+    </dl>
+
+  <h2 id="download_manager_options">&pref.pluralCaps; du gestionnaire de téléchargements</h2>
+
+    <p>Les &pref.plural; du gestionnaire de téléchargements sont accessibles 
+      en ouvrant la section <em>&downloads.label;</em> du panneau &paneMain.title; de la fenêtre des
+      &pref.pluralCaps;. Elles vous permettent de changer de 
+      nombreux paramètres relatifs aux téléchargements. Pour plus 
+      d'informations sur ces paramètres, référez-vous à la section 
+      sur la <a href="prefs.xhtml#downloads_options">page des &pref.pluralCaps;</a>.</p>
+
+
+<div class="contentsBox"><em>12 septembre 2006</em></div>
+
+  <p>Copyright © &copyright.years; Les contributeurs du Projet Mozilla Help Viewer.</p>
+
+  <p><em>Traduction : dernière révision : 30 septembre 2007</em></p>
+  <p>Ce texte a été traduit et adapté par une équipe
+    internationale de bénévoles francophones. Pour plus
+    d'informations, visitez notre site : <a href="http://frenchmozilla.sourceforge.net/" 
+    target="_blank">http://frenchmozilla.sourceforge.net</a>.
+  </p>
+</body>
+
+</html>

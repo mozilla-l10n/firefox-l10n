@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "Nouveau dossier virtuel">
+<!ENTITY name.label "Nom :">
+<!ENTITY name.accesskey "N">
+<!ENTITY description.label "Créer comme sous-dossier de :">
+<!ENTITY description.accesskey "C">
+
+<!ENTITY searchTermCaption.label "Configurer le critère de recherche utilisé pour ce dossier virtuel : ">
+
+<!ENTITY folderSelectionCaption.label "Sélectionner les dossiers dans lesquels effectuer la recherche : ">
+<!ENTITY chooseFoldersButton.label "Choisir…">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Rechercher en ligne (donne des résultats à jour pour les dossiers IMAP et les dossiers de groupes mais augmente le temps d'ouverture du dossier)">
+<!ENTITY searchOnline.accesskey "R">

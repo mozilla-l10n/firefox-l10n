@@ -1,0 +1,15 @@
+<!ENTITY brandMotto       "Redécouvrez le Web">
+<!ENTITY credit.thanks    "Remerciements particuliers">
+
+<!ENTITY credit.thanks2      "Merci beaucoup à nos">
+<!ENTITY credit.contributors2 "contributeurs" >
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Traduction</h3><ul><li><strong>L'équipe FrenchMozilla</strong></li><li>Vincent Béron</li><li>Frédéric Chateaux</li><li>Cédric Corazza</li><li>Philippe Dessante</li><li>Marie Léger-St-Jean</li><li>Benoît Leseul</li><li>Jérôme Schell</li></ul>">
+
+<!ENTITY credit.memory      "À la mémoire de">
+<!ENTITY credit.poweredByGeckoReg "Propulsé par Gecko&reg;">

@@ -1,0 +1,9 @@
+<!ENTITY position.label             "Position :">
+<!ENTITY tile.label                 "Mosaïque">
+<!ENTITY center.label               "Centrer">
+<!ENTITY stretch.label              "Étirer">
+<!ENTITY preview.label              "Aperçu">
+<!ENTITY color.label                "Couleur :">
+<!ENTITY setDesktopBackground.title "Choisir comme fond d'écran">
+<!ENTITY openDesktopPrefs.label     "Ouvrir les préférences du Bureau">
+<!ENTITY closeWindow.key            "w">

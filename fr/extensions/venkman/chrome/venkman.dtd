@@ -1,0 +1,117 @@
+<!--
+ -
+ - ***** BEGIN LICENSE BLOCK *****
+ - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+ -
+ - The contents of this file are subject to the Mozilla Public License Version
+ - 1.1 (the "License"); you may not use this file except in compliance with
+ - the License. You may obtain a copy of the License at
+ - http://www.mozilla.org/MPL/
+ -
+ - Software distributed under the License is distributed on an "AS IS" basis,
+ - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ - for the specific language governing rights and limitations under the
+ - License.
+ -
+ - The Original Code is The JavaScript Debugger.
+ -
+ - The Initial Developer of the Original Code is
+ - Netscape Communications Corporation.
+ - Portions created by the Initial Developer are Copyright (C) 1998
+ - the Initial Developer. All Rights Reserved.
+ -
+ - Contributor(s):
+ - Robert Ginda, <rginda@netscape.com>, original author
+ -
+ - Alternatively, the contents of this file may be used under the terms of
+ - either the GNU General Public License Version 2 or later (the "GPL"), or
+ - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ - in which case the provisions of the GPL or the LGPL are applicable instead
+ - of those above. If you wish to allow use of your version of this file only
+ - under the terms of either the GPL or the LGPL, and not to allow others to
+ - use your version of this file under the terms of the MPL, indicate your
+ - decision by deleting the provisions above and replace them with the notice
+ - and other provisions required by the GPL or the LGPL. If you do not delete
+ - the provisions above, a recipient may use your version of this file under
+ - the terms of any one of the MPL, the GPL or the LGPL.
+ -
+ - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY MainWindow.title "Débogueur JavaScript">
+
+<!-- floating views -->
+<!ENTITY ViewFloat.tooltip "Cliquez ici pour attacher/détacher cette vue">
+<!ENTITY ViewGrippy.tooltip "Faites glisser la barre pour déplacer cette vue">
+<!ENTITY ViewClose.tooltip "Cliquez ici pour fermer cette vue">
+
+<!-- help menu -->
+<!ENTITY Help.commands "Dictionnaire des commandes">
+<!ENTITY Help.about "À propos de Venkman">
+
+<!-- toolips -->
+<!ENTITY DebugBar.tooltip "Barre d'outils de débogage">
+<!ENTITY MenuBar.tooltip "Barre de menu">
+
+<!-- breakpoint view -->
+<!ENTITY Break.label "Points d'arrêt">
+<!ENTITY BreakCol0.label "Nom">
+<!ENTITY BreakCol1.label "Ligne/PC">
+
+<!-- locals view -->
+<!ENTITY Locals.label "Variables locales">
+<!ENTITY LocalsCol0.header "Nom">
+<!ENTITY LocalsCol1.header "Type">
+<!ENTITY LocalsCol2.header "Valeur">
+<!ENTITY LocalsCol3.header "Drapeaux">
+
+<!-- session view -->
+<!ENTITY Session.label "Session interactive">
+
+<!-- script view -->
+<!ENTITY Scripts.label "Scripts chargés">
+<!ENTITY ScriptsSearch.label "Chercher">
+<!ENTITY ScriptsSearch.tooltip "Cliquez ici pour effacer le champ de recherche">
+<!ENTITY ScriptsCol0.header "Nom">
+<!ENTITY ScriptsCol1.header "Ligne">
+<!ENTITY ScriptsCol2.header "Longueur">
+
+<!-- source view -->
+<!ENTITY Source.label "Code source">
+<!ENTITY SourceHeader.tip "Barre d'outils de la source">
+<!ENTITY SourceCol0.display "Marge">
+<!ENTITY SourceCol1.display "Numéro de ligne">
+
+<!-- stack view -->
+<!ENTITY Stack.label "Pile d'appel">
+<!ENTITY StackCol0.header "Nom">
+<!ENTITY StackCol1.header "Emplacement">
+
+<!-- watch view -->
+<!ENTITY Watch.label "Surveillants">
+<!ENTITY WatchCol0.header "Nom">
+<!ENTITY WatchCol1.header "Type">
+<!ENTITY WatchCol2.header "Valeur">
+<!ENTITY WatchCol3.header "Drapeaux">
+
+<!-- window view -->
+<!ENTITY Windows.label "Fenêtres ouvertes">
+<!ENTITY WindowsCol0.label "Fichier">
+
+<!-- breakpoint properties window -->
+<!ENTITY BPProps.URL.label "URL">
+<!ENTITY BPProps.Line.label "Ligne">
+<!ENTITY BPProps.PC.label "PC">
+<!ENTITY BPProps.FunctionName.label "Fonction">
+<!ENTITY BPProps.TriggerCount.label "Compteur de passage">
+<!ENTITY BPProps.OneTime.label "Effacer le point d'arrêt après le premier passage">
+<!ENTITY BPProps.Then.label "Puis…">
+<!ENTITY BPProps.ConditionalCheck.label "Quand il est activé…">
+<!ENTITY BPProps.NeverStopRadio.label "Continuer sans faire attention au résultat">
+<!ENTITY BPProps.AlwaysStopRadio.label "S'arrêter sans faire attention au résultat">
+<!ENTITY BPProps.ConditionalBreakRadio.label "S'arrêter si le résultat est vrai">
+<!ENTITY BPProps.EarlyReturnRadio.label "Retour rapide à l'appelant avec un résultat">
+<!ENTITY BPProps.PassExceptionsCheck.label "Passer les exceptions à l'appelant">
+<!ENTITY BPProps.LogResultCheck.label "Enregistrer le résultat">
+<!ENTITY BPProps.Apply.label "Appliquer">
+<!ENTITY BPProps.Revert.label "Annuler">
+<!ENTITY BPProps.Close.label "Fermer">
