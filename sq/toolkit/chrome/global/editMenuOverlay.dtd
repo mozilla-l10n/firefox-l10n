@@ -1,0 +1,31 @@
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.label "Kopjoje">
+<!ENTITY cutCmd.accesskey "p">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.label "Prije">
+<!ENTITY deleteCmd.accesskey "f">
+<!ENTITY deleteCmd.label "Fshije">
+<!ENTITY editMenu.accesskey "P">
+<!ENTITY editMenu.label "Përpunim">
+<!ENTITY findAgainCmd.accesskey "s">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.label "Gjej Sërish">
+<!ENTITY findCmd.accesskey "G">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.label "Gjej">
+<!ENTITY findPreviousCmd.accesskey "m">
+<!ENTITY findPreviousCmd.label "Gjej të Mëparshmin">
+<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.label "Ngjite">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.label "Ribëj">
+<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.label "Përzgjidh Tërë">
+<!ENTITY undoCmd.accesskey "z">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.label "Zhbëj">

@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "&quot;Site&quot;">
+<!ENTITY reportProblemType           "Lloj Problemi">
+<!ENTITY reportDecsription           "Përshkrim">
+<!ENTITY reportPlatform              "Platformë">
+<!ENTITY reportProduct               "Produkt">
+<!ENTITY reportoscpu                 "OS">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Formësim Montimi">
+<!ENTITY reportUseragent             "Agjent Përdoruesi">
+<!ENTITY reportLanguage              "Gjuhë">
+<!ENTITY reportEmail                 "Email">
+<!ENTITY error                       "Hollësi Gabimi">
+<!ENTITY faultCode                   "Kod">
+<!ENTITY faultMessage                "Mesazh">
+<!ENTITY reportCharset               "Kodim">

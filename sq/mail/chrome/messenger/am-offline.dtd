@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Për të kursyer hapësirë disku, mos shkarko:">
+<!ENTITY doNotDownload.label "Për të kursyer hapësirë disku, mos shkarko për përdorim si i palidhur:">
+<!ENTITY offlineNewFolder.label "Kur krijoj dosje të reja, përzgjidhi për përdorim si i palidhur">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "Mesazhe më të mëdhenj se">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "ditë">
+<!ENTITY daysOld.label "ditë i vjetër">
+<!ENTITY message.label "mesazhe">
+<!ENTITY nntpNotDownloadRead.label "Lexo mesazhe">
+<!ENTITY nntpNotDownloadRead.accesskey "R">
+<!ENTITY nntpDownloadMsg.label "Mesazhe më tepër se">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Për të ripasur hapësirë disku mesazhet e vjetër mund të fshihen përfundimisht">
+<!ENTITY retentionKeepMsg.label "Fshij mesazhe më të vjetër se">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Mos fshi ndonjë mesazh">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "Delete all but the last">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Fshi përherë mesazhe të lexuar">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "Vetëm përmbajtje mesazhesh më të vjetër se">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "Përzgjidhni grupe lajmesh për përdorim si i  palidhur...">
+<!ENTITY offlineSelectImap.label "Përzgjidhni dosje për përdorim si i palidhur...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "Mund të shkarkoni lokalisht mesazhet tuaj që kështu të jenë të passhëm kur jeni duke punuar i palidhur.">
+<!ENTITY makeInboxMsgsAvailable.label "Bëji të mundshëm mesazhet tek Të Marrët e mij kur jam duke punuar i palidhur">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "I palidhur">
+<!ENTITY diskspaceGroupTitle.label "Vend në Disk">

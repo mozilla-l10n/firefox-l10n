@@ -1,0 +1,42 @@
+<!ENTITY done.label "Objektet vijues u importuan me sukses:">
+<!ENTITY done.title "Importim i Plotësuar ">
+<!ENTITY importFrom.label "Importo Mundësi, Faqerojtësa, Historik, Fjalëkalime dhe të dhëna të tjera prej:">
+<!ENTITY importFromBookmarks.label "Importo Faqerojtës prej:">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromHTMLFile.label       "Prej Kartele HTML">
+<!ENTITY importFromHTMLFile.accesskey   "P">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromKonqueror.accesskey "Q">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNothing.accesskey "J">
+<!ENTITY importFromNothing.label "Mos importo gjë">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird ose Phoenix">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 ose Mozilla 1.x">
+<!ENTITY importFromUnix.label "Importo Parapëlqime, Faqerojtësa, Historik, Fjalëkalime dhe të dhëna të tjera prej:">
+<!ENTITY importItems.label "Përzgjidhni cilët objekte të importohen:">
+<!ENTITY importItems.title "Objekte për Importim">
+<!ENTITY noMigrationSources.label       "Nuk u gjetën dot programe që përmbajnë faqerojtësa, historik apo fjalëkalime.">
+<!ENTITY importSource.title "Importo Rregullime dhe Të dhëna">
+<!ENTITY migrating.label "Objektet vijues po importohen...">
+<!ENTITY migrating.title "Po importohet...">
+<!ENTITY migrationWizard.title "Importues">
+<!ENTITY selectProfile.label "Është e mundur të importohen profilet vijues prej: ">
+<!ENTITY selectProfile.title "Përzgjidhni Profil">

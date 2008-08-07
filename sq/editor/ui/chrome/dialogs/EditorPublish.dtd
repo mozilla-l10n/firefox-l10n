@@ -1,0 +1,106 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label         "Boto Faqe">
+<!ENTITY windowTitleSettings.label "Rregullime Botimi">
+
+<!ENTITY publishTab.label         "Boto">
+<!ENTITY settingsTab.label        "Rregullime">
+
+<!ENTITY publishButton.label      "Boto">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label           "Emër &quot;Site&quot;-i:">
+<!ENTITY siteList.accesskey           "e">
+<!ENTITY siteList.tooltip         "Zgjidhni &quot;site&quot;-i te i cili doni të botohet">
+<!ENTITY newSiteButton.label      "&quot;Site&quot; i Ri">
+<!ENTITY siteDirList.label        "Përzgjidhni ose shkruani emër drejtorie te &quot;site&quot;-i juaj botues:">
+<!ENTITY docDirList.label         "Nëndrejtori &quot;site&quot;-i për këtë faqe:">
+<!ENTITY publishImgCheckbox.label "Përfshi pamje dhe kartela të tjera">
+<!ENTITY publishImgCheckbox.tooltip "Boto pamje dhe kartela të tjera të cilave u referohet kjo faqe">
+<!ENTITY sameLocationRadio.label  "Përdor të njëjtën vendndodhje si faqja">
+<!ENTITY sameLocationRadio.tooltip "Botoji kartelat te e njëjta vendndodhje si faqja">
+<!ENTITY useSubdirRadio.label     "Përdor këtë nëndrejtori &quot;site&quot;-i:">
+<!ENTITY pageTitle.label          "Titull Faqeje:">
+<!ENTITY pageTitle.tooltip        "Jepni një titull për identifikimin e faqes në dritare dhe në faqerojtësa">
+<!ENTITY pageTitleExample.label   "p.sh.: &quot;Faqja Ime Web&quot;">
+<!ENTITY filename.label           "Emër kartele:">
+<!ENTITY filename.tooltip         "Jepni një emër për këtë kartelë, përfshi '.html' në rastin e një faqeje web">
+<!ENTITY filenameExample.label    "p.sh,: &quot;faqjaime.html&quot;">
+<!ENTITY relatedDocs.label        "Kartela të tjera për botim">
+<!ENTITY setDefaultButton.label   "Vëre si Parazgjedhje">
+<!ENTITY setDefSiteAndDir.label   "Vëri si &quot;Site&quot; dhe Drejtori Parazgjedhje">
+<!ENTITY removeButton.label       "Hiq &quot;Site&quot;">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label   "&quot;Site&quot;-e Botimi">
+<!ENTITY serverInfo.label     "Të dhëna Shërbyesi">
+<!ENTITY loginInfo.label      "Të dhëna Hyrjeje">
+<!ENTITY siteName.label       "Emër &quot;Site&quot;-i:">
+<!ENTITY siteName.tooltip     "Nofkë që identifikon këtë &quot;site&quot; botimi (p.sh.: 'Imi')">
+<!ENTITY siteUrl.label        "Vendndodhje botimi (p.sh.: 'ftp://ftp.ispjaim.com/emriimipërdoruesit'):">
+<!ENTITY siteUrl.tooltip      "Vendndodhja FTP:// ose HTTP:// dhënë juve prej ISP-së tuaj apo shërbimi i strehimeve web">
+<!ENTITY browseUrl.label      "Vendndodhja HTTP e faqes tuaj (p.sh.: 'http://www.ispjaim.com/emriimipërdoruesit'):">
+<!ENTITY browseUrl.tooltip    "Vendndodhja HTTP:// e drejtorisë suaj hyrëse (mos përfshini emër kartele)">
+<!ENTITY username.label       "Emër përdoruesi:">
+<!ENTITY username.tooltip     "Emri i përdoruesit që përdorni për t&apos;u futur te ISP-ja juaj apo shërbimi i strehimever web">
+<!ENTITY password.label       "Fjalëkalim:">
+<!ENTITY password.tooltip     "Fjalëkalimi i shoqëruar emrit tuaj të përdoruesit">
+<!ENTITY savePassword.label   "Ruaj Fjalëkalim">
+<!ENTITY savePassword.tooltip "Përzgjidheni këtë për të ruajtur në mënyrë të sigurt fjalëkalimin tuaj duke përdorur Përgjegjësin e Fjalëkalimeve">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY removeButton.accesskey       "R">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Zgjidhni ose jepni emrin e nëndrejtorisë së largët për këtë faqe">
+<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.tooltip       "Botoji kartelat te drejtoria e largët e përzgjedhur">
+<!ENTITY otherDirList.tooltip         "Zgjidhni ose jepni emrin e nëndrejtorisë së largët ku të botohen kartelat">
+<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY filename.accesskey           "F">
+<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY siteName.accesskey           "e">
+<!ENTITY siteUrl.accesskey            "a">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY username.accesskey           "U">
+<!ENTITY password.accesskey           "w">
+<!ENTITY savePassword.accesskey       "S">
+
+

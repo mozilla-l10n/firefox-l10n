@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title         "Pastrim të Dhënash Vetjake">
+<!ENTITY sanitizeItems.label          "Pastroji objektet vijues tani:">
+<!ENTITY itemHistory.label            "Historik Shfletimi">
+<!ENTITY itemHistory.accesskey        "H">
+<!ENTITY itemFormSearchHistory.label  "Historik Kërkimesh dhe Formularësh të Ruajtur">
+<!ENTITY itemFormSearchHistory.accesskey "R">
+<!ENTITY itemPasswords.label          "Fjalëkalime të Ruajtur">
+<!ENTITY itemPasswords.accesskey      "F">
+<!ENTITY itemCookies.label            "&quot;Cookie&quot;">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "Fshehtinë">
+<!ENTITY itemCache.accesskey          "e">
+<!ENTITY itemDownloads.label          "Historik Shkarkimesh">
+<!ENTITY itemDownloads.accesskey      "k">
+<!ENTITY itemSessions.label           "Sesione të Mirëfilltësuar">
+<!ENTITY itemSessions.accesskey       "S">
+<!ENTITY window.width                 "30em">
+<!ENTITY clearDataSettings.label      "Kur i kërkoj &brandShortName;-it të pastrojë të dhënat e mia vetjake, do të duhej të fshinte:">
+<!ENTITY itemOfflineApps.label        "Të dhëna &quot;Site&quot;-i Web &quot;Offline&quot;">
+<!ENTITY itemOfflineApps.accesskey    "T">

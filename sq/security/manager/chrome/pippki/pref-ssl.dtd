@@ -1,0 +1,31 @@
+<!ENTITY  SSLProtocolVersions.caption       "Versione Protokolli SSL">
+<!ENTITY  SSLWarnings.caption               "Sinjalizime SSL">
+<!ENTITY  SSLClientAuthMethod.caption       "Përzgjedhje Dëshmie Klienti">
+
+<!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
+<!ENTITY enable.ssl3                        "Aktivizo SSL version 3">
+<!ENTITY enable.ssl3.accesskey              "3">
+<!ENTITY enable.tls                         "Aktivizo TLS">
+<!ENTITY enable.tls.accesskey               "T">
+
+<!ENTITY warn.description "&brandShortName;-i mund t&apos;ju sinjalizojë rreth gjendjes së sigurisë së faqes web që shihni. Rregullojeni &brandShortName;-in t&apos;ju shfaqë një sinjalizim dhe t&apos;ju kërkojë leje para se:">
+
+<!ENTITY warn.enteringsecure "Të ngarkojë një faqe që pranon kodime">
+<!ENTITY warn.enteringsecure.accesskey      "k">
+<!ENTITY warn.enteringweak "Të ngarkojë faqe e cila përdor kodim të nivelit të ulët">
+<!ENTITY warn.enteringweak.accesskey        "u">
+<!ENTITY warn.insecurepost "Të dërgojë të dhëna formularësh nga një faqe e pakoduar te një faqe e pakoduar">
+<!ENTITY warn.insecurepost.accesskey        "f">
+<!ENTITY warn.leavingsecure "Të dalë nga një faqe që pranon kodim">
+<!ENTITY warn.leavingsecure.accesskey       "d">
+<!ENTITY warn.secureredirect "Të ridrejtohet nga një faqe e koduar te një tjetër">
+<!ENTITY warn.secureredirecttoinsecure "Të ridrejtohet nga një faqe e koduar te një e pakoduar">
+<!ENTITY warn.viewmixed "Të shohë një faqe me një përzierje kodim/jokodim">
+<!ENTITY warn.viewmixed.accesskey           "z">
+
+<!ENTITY certselect.description "Vendosni se si &brandShortName;-i përzgjedh një dëshmi sigurie për ta paraqitur te &quot;site&quot;-et web që kërkojnë një të tillë:">
+
+<!ENTITY certselect.auto                    "Përzgjidh Vetvetiu">
+<!ENTITY certselect.auto.accesskey          "V">
+<!ENTITY certselect.ask                     "Pyet Çdo Herë">
+<!ENTITY certselect.ask.accesskey           "P">

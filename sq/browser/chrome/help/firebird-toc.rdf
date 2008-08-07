@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+]>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <rdf:Description about="urn:root">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="firefox-help" nc:name="Mirësevini te Ndihma e &brandFullName;-it" nc:link="firefox_welcome.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird" nc:name="Përdorimi i &brandFullName;-it" nc:link="using_firebird.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager" nc:name="Përdorimi i Përgjegjësit të Shkarkimeve" nc:link="download_manager.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="customize-firebird" nc:name="Përshtatje" nc:link="customization.xhtml"/> </rdf:li>
+        <rdf:li>
+          <rdf:Description ID="prefs-win" nc:name="Mundësi" nc:link="prefs.xhtml" nc:platform="win os2">
+            <nc:subheadings rdf:resource="#prefs-tree"/>
+          </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+          <rdf:Description ID="prefs-unix" nc:name="Parapëlqime" nc:link="prefs.xhtml" nc:platform="unix mac">
+            <nc:subheadings rdf:resource="#prefs-tree"/>
+          </rdf:Description>
+        </rdf:li>
+        <rdf:li> <rdf:Description ID="popup-blocker" nc:name="Kontroll Flluckash" nc:link="popup.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cookies" nc:name="Administrim Cookie-sh" nc:link="cookies.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing" nc:name="Shfletim me Skeda" nc:link="tabbed_browsing.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="firebird-keyboard-shortcuts" nc:name="Shkurtprerje Tastiere" nc:link="shortcuts.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="firebird-mouse-shortcuts" nc:name="Shkurtprerje Miu" nc:link="mouse_shortcuts.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y" nc:name="Karakteristika Hyrshmërie" nc:link="accessibility.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu" nc:name="Referencë Menuje" nc:link="menu_reference.xhtml"/> </rdf:li>
+     	<rdf:li> <rdf:Description ID="ieusers" nc:name="Ndihmë për Përdoruesa të Internet Explorer-it" nc:link="forieusers.xhtml"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="using-firebird-navigating-web-pages" nc:name="Lundrim Faqesh Web" nc:link="using_firebird.xhtml#navigating_web_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird-searching" nc:name="Kërkim" nc:link="using_firebird.xhtml#searching"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird-copying-saving-and-printing-pages" nc:name="Kopjim, Ruajtje, dhe Shtypje Faqesh" nc:link="using_firebird.xhtml#copying_saving_and_printng_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird-improving-speed-and-efficiency" nc:name="Përmirësim Shpejtësie dhe Efektshmërie" nc:link="using_firebird.xhtml#improving_speed_and_efficiency"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-download-manager">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="using-download-manager-whatis" nc:name="Çfarë është Përgjegjësi i Shkarkimeve?" nc:link="download_manager.xhtml#what_is_download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-can-i-do" nc:name="Çfarë mund të bëj me Përgjegjësin e Shkarkimeve?" nc:link="download_manager.xhtml#do_with_download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-prefs-win" nc:name="Mundësi Përgjegjësi Shkarkimesh" nc:link="download_manager.xhtml#download_manager_options" nc:platform="win os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-prefs-unix" nc:name="Parapëlqime Përgjegjësi Shkarkimesh" nc:link="download_manager.xhtml#download_manager_options" nc:platform="unix mac"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-navigating-web-pages">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-viewing-your-home-page" nc:name="Si të shihni Faqen Tuaj Hyrëse" nc:link="using_firebird.xhtml#viewing_your_home_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-moving-to-another-page" nc:name="Kalimi në një Faqe Tjetër" nc:link="using_firebird.xhtml#moving_to_another_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-clicking-a-link" nc:name="Klikimi mbi një Lidhjeje" nc:link="using_firebird.xhtml#clicking_a_link"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-retracing-your-steps" nc:name="Ndjekje e Gjurmëve Tuaja" nc:link="using_firebird.xhtml#retracing_your_steps"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-stopping-and-reloading" nc:name="Ndalim dhe Ringarkim" nc:link="using_firebird.xhtml#stopping_and_reloading"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-tabbed-browsing" nc:name="Shfletim me Skeda" nc:link="tabbed_browsing.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-sidebar" nc:name="Përdorimi i Anështyllës" nc:link="using_firebird.xhtml#using_the_sidebar"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-searching">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="use-firebird-searching-the-web" nc:name="Kërkim në Web" nc:link="using_firebird.xhtml#searching_the_web"/> </rdf:li>
+        <rdf:li><rdf:Description ID="use-firebird-searching-on-selected-words-in-a-web-page" nc:name="Kërkim në Web për Fjalë të Përzgjedhura në një Faqe Web" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="use-firebird-searching-within-a-page" nc:name="Kërkim brenda një Faqeje" nc:link="using_firebird.xhtml#searching_within_a_page"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-copying-saving-and-printing-pages">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-copying-part-of-a-page" nc:name="Kopjimi i një Pjese të një Faqeje" nc:link="using_firebird.xhtml#copying_part_of_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-saving-all-or-part-of-a-page" nc:name="Ruajtja e një Faqeje" nc:link="using_firebird.xhtml#saving_all_or_part_of_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-printing-a-page" nc:name="Shtypja e një Faqeje" nc:link="using_firebird.xhtml#printing_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-using-print-preview" nc:name="Përdorimi i Paraparjes së Shtypjes" nc:link="using_firebird.xhtml#using_print_preview" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-using-page-setup" nc:name="Përdorimi i Rregullimit të Faqes" nc:link="using_firebird.xhtml#using_page_setup"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-improving-speed-and-efficiency">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="using-firebird-managing-different-file-types" nc:name="Administrim Tipesh të Ndryshëm Kartelash" nc:link="using_firebird.xhtml#managing_different_file_types"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-making-firebird-default-browser" nc:name="Bëjeni Shfletuesin Parazgjedhje" nc:link="using_firebird.xhtml#making_firebird_your_default_browser"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-cache-prefs-win" nc:name="Mundësi Fshehtine" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="win os2"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-cache-prefs-unix" nc:name="Parapëlqime Fshehtine" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="mac unix"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#customize-firebird">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="customize-toolbars" nc:name="Panele" nc:link="customization.xhtml#toolbars"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="add-ons" nc:name="Shtesa (zgjerime dhe tema)" nc:link="customization.xhtml#add_ons"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#customize-toolbars">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="customize-toolbar-rearrange" nc:name="Risistemim Objektesh të Paneleve" nc:link="customization.xhtml#rearranging_toolbar_items"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="customize-toolbars-adding" nc:name="Fshehje, Shtim, dhe Heqje Panelesh" nc:link="customization.xhtml#adding_removing_toolbars"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#add-ons">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="add-ons-installing" nc:name="Marrje dhe Instalim Shtesash" nc:link="customization.xhtml#add_ons_installing"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="add-ons-manager" nc:name="Përdorimi i përgjegjësit të Shtesave" nc:link="customization.xhtml#add_ons_manager"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#popup-blocker">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="popup-blocker-what-are-popups" nc:name="Çfarë janë Flluckat?" nc:link="popup.xhtml#what_are_popups"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="popup-blocker-prefs-win" nc:name="Mundësi për Bllokuesin e Flluckave" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="win os2"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="popup-blocker-prefs-unix" nc:name="Parapëlqime për Bllokuesin e Flluckave" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="unix mac"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#cookies">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="cookies-what-is-a-cookie" nc:name="Çfarë është një Cookie?" nc:link="cookies.xhtml#what_is_a_cookie"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-setting-up-cookie-rules" nc:name="Caktim rregullash për Cookie" nc:link="cookies.xhtml#setting_up_cookie_rules"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-all-the-settings" nc:name="Rregullime për Cookie" nc:link="cookies.xhtml#all_the_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-accepting-and-blocking-cookies" nc:name="Pranim dhe bllokim Cookie-sh" nc:link="cookies.xhtml#accepting_and_blocking_cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-exceptions" nc:name="Dritarja për Përjashtime rreth Cookie-sh" nc:link="cookies.xhtml#cookies_exceptions"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-view" nc:name="Dritarja për Parje Cookie-sh" nc:link="cookies.xhtml#view_cookies"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#tabbed-browsing">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-creating-loading-tabs" nc:name="Krijim dhe Ngarkim Skedash" nc:link="tabbed_browsing.xhtml#creating_loading_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-moving-tabs" nc:name="Lëvizje Skedash Brenda një Dritareje" nc:link="tabbed_browsing.xhtml#moving_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-closing-tabs" nc:name="Mbyllje dhe Rimarrje Skedash" nc:link="tabbed_browsing.xhtml#closing_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-customizing" nc:name="Përshtatje e Shfletimit me Skeda" nc:link="tabbed_browsing.xhtml#customizing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-tips-tricks" nc:name="Këshilla Ndihmëse" nc:link="tabbed_browsing.xhtml#tips_tricks"/> </rdf:li>
+       </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-keyboard-navigation" nc:name="Përdorim Tastiere" nc:link="accessibility.xhtml#using_a_keyboard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-mouse-navigation" nc:name="Përdorim Miu" nc:link="accessibility.xhtml#using_a_mouse"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-fonts-and-colors" nc:name="Gërma dhe Ngjyra" nc:link="accessibility.xhtml#fonts_and_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-web-content" nc:name="Kontroll Përmbajtjeje Web" nc:link="accessibility.xhtml#controlling_web_content"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-compatibility" nc:name="Përputhshmëri me Teknologji Ndihmëse" nc:link="accessibility.xhtml#compatibility_with_assistive_technologies"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-online" nc:name="Gjetje Ndihme Online" nc:link="accessibility.xhtml#finding_help_online"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-keyboard-navigation">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-keyboard-shortcuts" nc:name="Shkurtprerje Tastiere" nc:link="accessibility.xhtml#keyboard_shortcuts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-caret-browsing" nc:name="Përdor Gjithmonë Taste Kursori për Lundrim Brenda Faqesh Web" nc:link="accessibility.xhtml#always_use_cursor_keys"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-typeahead-find" nc:name="Kërko për Tekst Kur Filloj Shtypjen" nc:link="accessibility.xhtml#find_as_you_type"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-mouse-navigation">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-mouse-shortcuts" nc:name="Shkurtprerje të Zakonshme për Miun" nc:link="accessibility.xhtml#common_mouse_shortcuts"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-fonts-and-colors">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-override-fonts" nc:name="Anashkalim Gërmash Faqeje" nc:link="accessibility.xhtml#overriding_page_fonts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-minimum-font-size" nc:name="Caktim Madhësie Minimum për Gërmat" nc:link="accessibility.xhtml#setting_a_minimum_font_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-text-zoom" nc:name="Ripërmasim Teksti Faqeje" nc:link="accessibility.xhtml#resizing_page_text"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-override-colors" nc:name="Anashkalim Ngjyrash Faqeje" nc:link="accessibility.xhtml#overriding_page_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-high-contrast" nc:name="Përdorimi i një Teme me Kontrast të Madh" 
+nc:link="accessibility.xhtml#using_a_high_contrast_theme" nc:platform="win unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-web-content">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-popup-windows" nc:name="Bllokim Dritaresh Fllucka" nc:link="accessibility.xhtml#blocking_popup_windows"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-java" nc:name="Çaktivizim Zbatimthesh Java" nc:link="accessibility.xhtml#turning_off_java_applets"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-javascript" nc:name="Kufizim Sjelljeje JavaScript" nc:link="accessibility.xhtml#restricting_javascript_behavior"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-firefox" nc:name="&brandShortName;-i" nc:link="menu_reference.xhtml#firefox" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file" nc:name="Kartelë" nc:link="menu_reference.xhtml#file"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-edit" nc:name="Përpunim" nc:link="menu_reference.xhtml#edit"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view" nc:name="Shihni" nc:link="menu_reference.xhtml#view"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go" nc:name="Historik" nc:link="menu_reference.xhtml#go"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks" nc:name="Faqerojtësa" nc:link="menu_reference.xhtml#bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools" nc:name="Mjete" nc:link="menu_reference.xhtml#tools"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window" nc:name="Dritare" nc:link="menu_reference.xhtml#window" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help" nc:name="Ndihmë" nc:link="menu_reference.xhtml#help"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-firefox">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-firefox-about" nc:name="Rreth &brandFullName-it;" nc:link="menu_reference.xhtml#about_mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-firefox-preferences" nc:name="Parapëlqime..." nc:link="menu_reference.xhtml#prefs_mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-firefox-quit" nc:name="Lër &brandShortName;-in" nc:link="menu_reference.xhtml#quit_mac"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-file">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-file-new-window" nc:name="Dritare e Re" nc:link="menu_reference.xhtml#new_window"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-new-tab" nc:name="Skedë e Re" nc:link="menu_reference.xhtml#new_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-open-location" nc:name="Hap Vendndodhje..." nc:link="menu_reference.xhtml#open_location"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-open-file" nc:name="Hap Kartelë..." nc:link="menu_reference.xhtml#open_file"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-close" nc:name="Mbyll (Dritare)" nc:link="menu_reference.xhtml#close"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-close-tab" nc:name="Mbyll Skedë" nc:link="menu_reference.xhtml#close_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-save-page-as" nc:name="Ruaj Faqen Si..." nc:link="menu_reference.xhtml#save_page_as"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-send-page" nc:name="Dërgo Lidhje..." nc:link="menu_reference.xhtml#send_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-page-setup" nc:name="Rregullim Faqeje..." nc:link="menu_reference.xhtml#page_setup"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-print-preview" nc:name="Paraparje e Shtypjes" nc:link="menu_reference.xhtml#print_preview" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-print" nc:name="Shtyp..." nc:link="menu_reference.xhtml#print"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-import" nc:name="Importo..." nc:link="menu_reference.xhtml#import"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-work-offline" nc:name="Puno i Palidhur" nc:link="menu_reference.xhtml#work_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-exit-win" nc:name="Dil" nc:link="menu_reference.xhtml#exit" nc:platform="win os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-exit-nowin" nc:name="Lër" nc:link="menu_reference.xhtml#exit" nc:platform="unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-edit">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-undo" nc:name="Zhbëj" nc:link="menu_reference.xhtml#undo"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-redo" nc:name="Ribëj" nc:link="menu_reference.xhtml#redo"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-cut" nc:name="Pri" nc:link="menu_reference.xhtml#cut"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-copy" nc:name="Kopjo" nc:link="menu_reference.xhtml#copy"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-paste" nc:name="Ngjit" nc:link="menu_reference.xhtml#paste"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-delete" nc:name="Fshi" nc:link="menu_reference.xhtml#delete"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-select-all" nc:name="Përzgjidh Tërë" nc:link="menu_reference.xhtml#select_all"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-find-in-this-page" nc:name="Gjej në Këtë Faqe..." nc:link="menu_reference.xhtml#find_in_this_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-find-again" nc:name="Gjej Sërish" nc:link="menu_reference.xhtml#find_again"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-preferences" nc:name="Parapëlqime" nc:link="menu_reference.xhtml#prefs" nc:platform="unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars" nc:name="Panele" nc:link="menu_reference.xhtml#toolbars"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-status-bar" nc:name="Shtyllë Gjendjeje" nc:link="menu_reference.xhtml#status_bar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar" nc:name="Anështyllë" nc:link="menu_reference.xhtml#sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-stop" nc:name="Ndal" nc:link="menu_reference.xhtml#stop"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-reload" nc:name="Ringarko" nc:link="menu_reference.xhtml#reload"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size" nc:name="Madhësi Teksti" nc:link="menu_reference.xhtml#text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-style" nc:name="Stil Faqeje" nc:link="menu_reference.xhtml#page_style"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-character-encoding" nc:name="Kodim Gërmash" nc:link="menu_reference.xhtml#character_encoding"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-source" nc:name="Burim Faqeje" nc:link="menu_reference.xhtml#page_source"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-full-screen" nc:name="Tërë Ekrani" nc:link="menu_reference.xhtml#full_screen" nc:platform="win unix os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-toolbars">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-navigation" nc:name="Panel Lundrimi" nc:link="menu_reference.xhtml#navigation_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-bookmarks" nc:name="Panel Faqerojtësish" nc:link="menu_reference.xhtml#bookmarks_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-customize" nc:name="Përshtasni" nc:link="menu_reference.xhtml#customize"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-sidebar">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar-bookmarks" nc:name="Faqerojtësa" nc:link="menu_reference.xhtml#view_sidebar_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar-history" nc:name="Historik" nc:link="menu_reference.xhtml#view_sidebar_history"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-text-size">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-increase" nc:name="Zmadho" nc:link="menu_reference.xhtml#increase_text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-decrease" nc:name="Zvogëlo" nc:link="menu_reference.xhtml#decrease_text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-reset" nc:name="Normale" nc:link="menu_reference.xhtml#reset_text_size"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-page-style">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-page-style-no-style" nc:name="Pa Stil" nc:link="menu_reference.xhtml#no_style"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-style-basic-page-style" nc:name="Stil Fillestar Faqeje" nc:link="menu_reference.xhtml#basic_page_style"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-go">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-go-back" nc:name="Prapa" nc:link="menu_reference.xhtml#back"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-forward" nc:name="Përpara" nc:link="menu_reference.xhtml#forward"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-home" nc:name="Hyrje" nc:link="menu_reference.xhtml#home"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-closed-tabs" nc:name="Skeda të Mbyllura së Fundmi" nc:link="menu_reference.xhtml#closed_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-history" nc:name="Shfaq në Anështyllë" nc:link="menu_reference.xhtml#go_history"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-bookmarks">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-add-to-bookmarks" nc:name="Faqeruaj Këtë Faqe..." nc:link="menu_reference.xhtml#add_to_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-subscribe" nc:name="Pajtohu te Kjo Faqe..." nc:link="menu_reference.xhtml#subscribe"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-bookmark-all-tabs" nc:name="Faqeruaj Tërë Skedat..." nc:link="menu_reference.xhtml#bookmark_all_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-organize-bookmarks" nc:name="Organizoni Faqerojtësa..." nc:link="menu_reference.xhtml#organize_bookmarks"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-tools">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-tools-web-search" nc:name="Kërkim në Web" nc:link="menu_reference.xhtml#web_search"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-downloads" nc:name="Shkarkime" nc:link="menu_reference.xhtml#downloads"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-add-ons" nc:name="Shtesa" nc:link="menu_reference.xhtml#add_ons"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-javascript-console" nc:name="Konsol Gabimesh" nc:link="menu_reference.xhtml#javascript_console"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-page-info" nc:name="Të dhëna Faqeje" nc:link="menu_reference.xhtml#page_info"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-clear-private-data" nc:name="Pastroni të Dhëna Vetjake..." nc:link="menu_reference.xhtml#clear_private_data"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-options" nc:name="Mundësi" nc:link="menu_reference.xhtml#options" nc:platform="win os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-window">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-window-minimize" nc:name="Minimizo" nc:link="menu_reference.xhtml#minimize"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window-zoom" nc:name="Zoom" nc:link="menu_reference.xhtml#zoom"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window-open-windows" nc:name="(Hap Dritare)" nc:link="menu_reference.xhtml#open-windows"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-help">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-help-help-contents" nc:name="Përmbajtje e Ndihmës" nc:link="menu_reference.xhtml#help_contents" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-help-contents-mac" nc:name="Ndihma e &brandShortName;-it" nc:link="menu_reference.xhtml#help_contents" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-for-ie-users" nc:name="Për Përdoruesa të Internet Explorer-it" nc:link="menu_reference.xhtml#for_ie_users" nc:platform="win"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-relnotes" nc:name="Shënime Versioni" nc:link="menu_reference.xhtml#relnotes"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-report-broken-web-site" nc:name="Raportoni Site Web të Prishur..." nc:link="menu_reference.xhtml#reporter"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-report-web-forgery" nc:name="Raportoni Sajesa Web..." 
+nc:link="menu_reference.xhtml#web_forgery"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-check-for-updates" nc:name="Kontrollo për Përditësime..." nc:link="menu_reference.xhtml#check_for_updates"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-about-mozilla-firebird" nc:name="Rreth &brandFullName;-it" nc:link="menu_reference.xhtml#about_mozilla_firebird" nc:platform="win unix os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#ieusers">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="ieusers-firebird-ie-terminology-differences" nc:name="Ndryshime në Terminologji" nc:link="forieusers.xhtml#firebird_and_internet_explorer_terminology_differences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-about-your-ie-settings" nc:name="Rreth Rregullimeve dhe të Parapëlqyerve Tuaj IE" nc:link="forieusers.xhtml#about_your_ie_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-firebirds-features" nc:name="Karakteristika të &brandFullName;-it" nc:link="forieusers.xhtml#firebirds_features"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-keyboard-shortcuts" nc:name="Shkurtprerje Tastiere" nc:link="forieusers.xhtml#keyboard_shortcuts"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <!-- The following nodes are intentionally linkable but not displayable -->
+  <Description rdf:ID="prefs-languages" nc:name="Gjuhë" nc:link="prefs.xhtml#languages"/>
+  <Description rdf:ID="prefs-fonts-and-colors" nc:name="Gërma &amp; Ngjyra" nc:link="prefs.xhtml#fonts_and_colors"/>
+  <Description rdf:ID="prefs-connection-settings" nc:name="Rregullime Lidhjeje" nc:link="prefs.xhtml#connection_settings"/>
+
+  <!-- The following nodes are trees used multiple times in the hierarchy
+       (for platform-specific reasons).  To display one of these trees,
+       include an nc:subheadings element with an rdf:ID attribute set to
+       "#" plus the value of the rdf:ID for the appropriate tree within
+       the appropriate rdf:Description element. -->
+
+  <Seq rdf:ID="prefs-tree">
+    <li><Description ID="prefs-main" nc:name="Main" nc:link="prefs.xhtml#main_options"/></li>
+    <li><Description ID="prefs-tabs" nc:name="Tabs" nc:link="prefs.xhtml#tabs_options"/></li>
+    <li><Description ID="prefs-content" nc:name="Content" nc:link="prefs.xhtml#content_options"/></li>
+    <li><Description ID="prefs-feeds" nc:name="Feeds" nc:link="prefs.xhtml#feeds_options"/></li>
+    <li><Description ID="prefs-privacy" nc:name="Privacy" nc:link="prefs.xhtml#privacy_options"/></li>
+    <li><Description ID="prefs-security" nc:name="Security" nc:link="prefs.xhtml#security_options"/></li>
+    <li><Description ID="prefs-advanced" nc:name="Advanced" nc:link="prefs.xhtml#advanced_options"/></li>
+  </Seq>
+
+  <!-- The following are subnodes of trees used multiple times in the hierarchy. -->
+
+  <Description rdf:about="#prefs-main">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-startup" nc:name="Nisje" nc:link="prefs.xhtml#startup"/></li>
+        <li><Description rdf:ID="prefs-downloads" nc:name="Shkarkime" nc:link="prefs.xhtml#downloads"/></li>
+        <li><Description rdf:ID="prefs-system-defaults" nc:name="Parazgjedhje Sistemi" nc:link="prefs.xhtml#system_defaults"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-content">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-advanced-javascript" nc:name="Rregullime Javascript të Përparuar" nc:link="prefs.xhtml#advanced_javascript"/></li>
+        <li><Description rdf:ID="prefs-fonts-and-colors" nc:name="Gërma dhe Ngjyra" nc:link="prefs.xhtml#fonts_and_colors"/></li>
+        <li><Description rdf:ID="prefs-file-types" nc:name="Tipe kartelash" nc:link="prefs.xhtml#file_types"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-privacy">
+    <nc:subheadings>
+      <rdf:Seq>
+        <li><Description rdf:ID="prefs-privacy-history" nc:name="Historik" nc:link="prefs.xhtml#privacy_history"/></li>
+        <li><Description rdf:ID="prefs-privacy-cookies" nc:name="Cookies" nc:link="prefs.xhtml#privacy_cookies"/></li>
+        <li><Description rdf:ID="prefs-clear-private-data" nc:name="Të dhëna Vetjake" nc:link="prefs.xhtml#private_data"/></li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-security">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-passwords" nc:name="Fjalëkalime" nc:link="prefs.xhtml#security_passwords"/></li>
+        <li><Description rdf:ID="prefs-warning-messages" nc:name="Mesazhe Sinjalizimi" nc:link="prefs.xhtml#warning_messages"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-advanced">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-advanced-general" nc:name="Të përgjithshëm" nc:link="prefs.xhtml#advanced_general"/></li>
+        <li><Description rdf:ID="prefs-advanced-network" nc:name="Rrjet" nc:link="prefs.xhtml#advanced_network"/></li>
+        <li><Description rdf:ID="prefs-advanced-update" nc:name="Përditësim" nc:link="prefs.xhtml#advanced_update"/></li>
+        <li><Description rdf:ID="prefs-advanced-encryption" nc:name="Kodim" nc:link="prefs.xhtml#advanced_encryption"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+
+</rdf:RDF>

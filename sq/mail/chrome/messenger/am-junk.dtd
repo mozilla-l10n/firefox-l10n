@@ -1,0 +1,17 @@
+<!ENTITY junkSettings.label "Rregullime për Hedhurina">
+<!ENTITY trainingWarning.label "Në u aktivizoftë, duhet së pari ta stërvitni &brandShortName;-in të identifikojë postë hedhurinë duke përdorur butoni për Hedhurinë për shenjim mesazhesh si hedhurinë ose jo. Lipset të identifikoni qoftë mesazhet hedhurinë, qoftë edhe ata jo hedhurinë.">
+<!ENTITY level.label "Aktivizo kontrolle përshtatës poste hedhurinë për këtë llogari">
+<!ENTITY level.accesskey "E">
+
+<!ENTITY move.label "Kalo mesazhe të rinj hedhurinë tek:">
+<!ENTITY junkFolderOn.label "Dosja &quot;Hedhurinë&quot; te:">
+<!ENTITY otherFolder.label "Tjetër:">
+<!ENTITY purge1.label "Fshi vetvetiu postë hedhurinë më të vjetër se">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "ditë">
+
+<!ENTITY whitelist.label "Mos shëno postë si hedhurinë nëse dërguesi është në: ">
+<!ENTITY whitelist.accesskey "D">
+
+<!ENTITY ispHeaders.label "Zëru besë titujve për postë hedhurinë të treguar si të tillë prej: ">
+<!ENTITY ispHeaders.accesskey "T">

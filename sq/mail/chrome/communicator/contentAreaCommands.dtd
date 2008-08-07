@@ -1,0 +1,100 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "Mos prano dritare flluckë prej këtij &quot;site&quot;-i">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label      "Lejo dritare flluckash prej këtij &quot;site&quot;-i">
+<!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY openLinkCmd.label            "Hap Lidhje në Dritare të  Re">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInTab.label       "Hap Lidhje në Skedë të Re">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkInWindowCmd.label    "Hap">
+<!ENTITY openLinkInWindowCmd.accesskey "p">
+<!ENTITY openFrameCmd.label           "Hap Kornizë në Dritare të Re">
+<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmdInTab.label      "Hap Kornizë në Skedë të Re">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY showOnlyThisFrameCmd.label     "Shfaq Vetëm Këtë Kornizë">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY addToBookmarksCmd.label      "Faqeruaj Këtë Faqe">
+<!ENTITY addToBookmarksCmd.accesskey  "B">
+<!ENTITY goBackCmd.label              "Prapa">
+<!ENTITY goBackCmd.accesskey          "B">
+<!ENTITY goForwardCmd.label           "Para">
+<!ENTITY goForwardCmd.accesskey       "F">
+<!ENTITY reloadCmd.label              "Ringarko">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "Stop">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY reloadFrameCmd.label         "Ringarko Kornizë">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Shihni Burim Përzgjedhjeje">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Shihni Burim MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Shihni Burim Faqeje">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "Shihni Burim Kornize">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "Shihni Të dhëna Faqeje">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "Shihni të Dhëna Kornize">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY fitImageCmd.label            "Përshtatja Pamjen Dritares">
+<!ENTITY fitImageCmd.accesskey        "F">
+<!ENTITY viewImageCmd.label           "Shihni Pamje">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.label         "Shihni Pamje Sfondi">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setWallpaperCmd.label        "Vëre Si &quot;Wallpaper&quot;">
+<!ENTITY setWallpaperCmd.accesskey    "S">
+<!ENTITY bookmarkPageCmd.label        "Faqeruaj Këtë Faqe">
+<!ENTITY bookmarkPageCmd.accesskey    "m">
+<!ENTITY bookmarkLinkCmd.label        "Faqeruaj Këtë Lidhje">
+<!ENTITY bookmarkLinkCmd.accesskey    "L">
+<!ENTITY bookmarkFrameCmd.label       "Faqeruaj Këtë Kornizë">
+<!ENTITY bookmarkFrameCmd.accesskey   "m">
+<!ENTITY savePageAsCmd.label          "Ruaj Faqen Si...">
+<!ENTITY savePageCmd.label            "Ruaj Faqe">
+<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameAsCmd.label         "Ruaj Kornizën Si...">
+<!ENTITY saveFrameCmd.label           "Ruaj Kornizë">
+<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY saveLinkAsCmd.label          "Ruaj Objektin e Lidhjes Si...">
+<!ENTITY saveLinkCmd.label            "Ruaj Objekt Lidhjeje">
+<!ENTITY saveLinkCmd.accesskey        "r">
+<!ENTITY saveImageAsCmd.label         "Ruaj Pamjen Si...">
+<!ENTITY saveImageCmd.label           "Ruaj Pamje">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY copyCmd.label                "Kopjo">
+<!ENTITY copyCmd.accesskey            "C">
+<!ENTITY selectAllCmd.label           "Përzgjidhni Tërë">
+<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY copyLinkCmd.label            "Kopjo Vendndodhje Lidhjeje">
+<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyImageCmd.label           "Kopjo Vendndodhje Pamjeje">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY metadataCmd.label            "Veti">
+<!ENTITY metadataCmd.accesskey        "P">
+<!ENTITY copyEmailCmd.label           "Kopjo Vendndodhje Email">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY pasteCmd.label               "Ngjit">
+<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY cutCmd.label                 "Prij">
+<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY deleteCmd.label              "Fshij">
+<!ENTITY deleteCmd.accesskey          "D">
+<!ENTITY undoCmd.label                "Zhbëj">
+<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY redoCmd.label                "Ribëj">
+<!ENTITY redoCmd.accesskey            "R">
+<!ENTITY thisFrameMenu.label          "Këtë Kornizë">
+<!ENTITY thisFrameMenu.accesskey      "h">
+<!ENTITY search.accesskey             "W">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Këmbe Drejtim Faqeje">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Këmbe Drejtim Teksti">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY reloadImageCmd.label         "Ringarko Pamje">
+<!ENTITY reloadImageCmd.accesskey     "R">
+

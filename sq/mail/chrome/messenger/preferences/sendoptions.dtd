@@ -1,0 +1,39 @@
+<!ENTITY dialog.title                 "Mundësi Dërgimi">
+<!ENTITY sendMail.title               "Format Teksti">
+<!ENTITY sendMaildesc.label           "Kur dërgohen mesazhe në format HTML dhe një a më shumë nga marrësit nuk janë të listuar te ata që munden të marrin HTML:">
+<!ENTITY askMe.label                  "Pyetmë ç&apos;të bëj">
+<!ENTITY askMe.accesskey              "k">
+<!ENTITY convertPlain.label           "Shndërro mesazhin në tekst të thjeshtë">
+<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY sendHTML.label               "Dërgo mesazhin në HTML sido qoftë">
+<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendBoth.label               "Dërgo mesazhin si tekst të thjeshtë dhe si HTML">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY receiveHTML.label            "Nëse keni dijeni se një marrës i caktuar mund të marrë postë HTML, mos zgjidhni 'Dërgo mesazhe si tekst të thjeshtë (jo HTML)' te karta e Librit të Vendndodhjeve për marrësin.">
+<!ENTITY override.label               "Shënim: Përdorni Librin e Vendndodhjeve për të treguar formate të parapëlqyer teksti për marrësa.">
+
+<!ENTITY domaindesc.label             "Kur dërgoni mesazh te një vendndodhje me një emrat e përkatësisë të listuar më poshtë, &brandShortName;-i vetvetiu e dërgon mesazhin në formatin e duhur.">
+<!ENTITY HTMLTab.label                "Përkatësi HTML">
+<!ENTITY HTMLTab.accesskey            "h">
+<!ENTITY PlainTextTab.label           "Përkatësi Tekst i Thjeshtë">
+<!ENTITY PlainTextTab.accesskey       "p">
+<!ENTITY AddButton.label              "Shto...">
+<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "Fshi">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!ENTITY add.htmltitle                "Shto Emër Përkatësie HTML">
+<!ENTITY add.htmldomain               "Emër Përkatësie HTML:">
+<!ENTITY add.htmldomain.accesskey     "d">
+<!ENTITY add.plaintexttitle           "Shto Emër Përkatësie Tekst i Thjeshtë">
+<!ENTITY add.plaintextdomain          "Emër Përkatësie Tekst i Thjeshtë:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Gabim Emri Përkatësie">
+<!ENTITY duplicationError.label       "Emri i përkatësisë @string@ gjendet tashmë në këtë listë.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Një emër përkatësie nuk mund të bëjë pjesë edhe te lista HTML, edhe te ajo Tekst i Thjeshtë. Emri i përkatësisë @string@ ekziston tashmë.">

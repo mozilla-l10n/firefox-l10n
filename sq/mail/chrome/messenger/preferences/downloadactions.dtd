@@ -1,0 +1,31 @@
+<!ENTITY  downloadactionsWindow.title         "Veprime Shkarkimi">
+<!ENTITY  window.width                         "480">
+<!ENTITY  window.height                        "310">
+
+<!ENTITY  fileTypesDescription.label          "Përmbush automatikisht Veprimin shoqëruar secilit lloj vijues kartelash:">
+
+<!ENTITY  fileHandlerColumn.label             "Veprim">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "Lloj Kartele">
+<!ENTITY  fileTypeColumn.accesskey            "T">
+<!ENTITY  fileMIMETypeColumn.label            "Lloj MIME">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "Zgjerim">
+<!ENTITY  fileExtensionColumn.accesskey       "E">
+
+<!ENTITY  remove.label                        "Hiq Veprim">
+<!ENTITY  remove.accesskey                    "R">
+<!ENTITY  edit.label                          "Ndrysho Veprim...">
+<!ENTITY  edit.accesskey                      "C">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "Kërko:">
+<!ENTITY  filter.accesskey                    "S">
+<!ENTITY  clear.label                         "Pastro">
+<!ENTITY  clear.accesskey                     "l">
+
+<!ENTITY  button.close.label                  "Mbyll">
+<!ENTITY  button.close.accesskey              "o">

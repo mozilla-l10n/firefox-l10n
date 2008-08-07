@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="Mundësi Hyrshmërie" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Parapëlqime Hyrshmërie" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="mirëfilltësim (përkufizim)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="Butoni Prapa" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Blloko Fllucka" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="faqerojtës (përkufizim)" nc:link="glossary.xhtml#bookmark"/></li>
+        <li><Description nc:name="Panel Faqerojtësish (përkufizim)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="Shfletim" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="fshehtinë (përkufizim)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="dëshmi (përkufizim)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="Dëshmi" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Lista Shfuqizimesh Dëshmish" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="klient (përkufizim)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="Formësim Zgjerimesh" nc:link="customization.xhtml#add_ons_configuring_extensions"/></li>
+        <li><Description nc:name="cookie (përkufizim)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="kriptografi (përkufizim)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="çkodim (përkufizim)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="ID shifrore (përkufizim)" nc:link="glossary.xhtml#digital_ID"/></li>
+        <li><Description nc:name="Çaktivizim, Aktivizim, Çinstalim Shtesash" nc:link="customization.xhtml#add_ons_uninstalling"/></li>
+        <li><Description nc:name="kodim (përkufizim)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="Extensible Markup Language (XML) (përkufizim)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="prurje (përkufizim)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="File Transfer Protocol (Protokoll Shpërngulje Kartelash) (FTP) (përkufizim)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="FIPS PUBS 140-1 (përkufizim)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="Butoni Përpara" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="kalim prapa ose përpara" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Butoni Hyrje" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="Faqe Hyrëse (përkufizim)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="Hypertext Markup Language (HTML) (përkufizim)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="importim të Parapëlqyerish Internet Explorer" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="Internet (përkufizim)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="venndodhje protokolli Internet (IP) (përkufizim)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>
+        <li><Description nc:name="Java (përkufizim)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="JavaScript (përkufizim)" nc:link="glossary.xhtml#JavaScript"/></li>
+        <li><Description nc:name="Gjuhë" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="Faqerojtës të Gjallë (përkufizim)" nc:link="glossary.xhtml#live_bookmark"/></li>
+        <li><Description nc:name="Shtyllë Vendesh (përkufizim)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="fjalëkalim i përgjithshëm (përkufizim)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="Panel Lundrimi (përkufizim)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="Përgjegjës Fjalëkalimesh (përkufizim)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="PKCS #11 (përkufizim)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="Shtojcë (përkufizim)" nc:link="glossary.xhtml#Plugin"/></li>
+        <li><Description nc:name="Shtojca" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="kyç vetjak (përkufizim)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="ndërmjetës (përkufizim)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="faqe web të vizituara së fundmi" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Butoni i Ringarkimeve" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="motor kërkimi (përkufizim)" nc:link="glossary.xhtml#search_engine"/></li>
+        <li><Description nc:name="kërkim duke përdorur Shtyllën e Vendndodhjeve" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="kërkim duke përdorur the Shtyllën e Kërkimeve" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="kërkim duke përdorur tekst prej faqes" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="site i sigurt (përkufizim)" nc:link="glossary.xhtml#secure_site"/></li>
+        <li><Description nc:name="Secure Sockets Layer (SSL) (përkufizim)" nc:link="glossary.xhtml#SSL"/></li>
+        <li><Description nc:name="shërbyes (përkufizim)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="Caktim ose Ndryshim i Fjalëkalimit të Përgjithshëm" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Përditësime Software-i" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="Shtyllë Gjendjeje (përkufizim)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="Butoni Ndal" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="Këmbim Temash" nc:link="customization.xhtml#add_ons_switching_themes"/></li>
+        <li><Description nc:name="TLS (përkufizim)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="TCP/IP (Transmission Control Protocol/Internet Protocol) (përkufizim)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="Uniform Resource Locator (URL) (përkufizim)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="Përditësim Shtesash" nc:link="customization.xhtml#add_ons_updating"/></li>
+        <li><Description nc:name="Verifikim" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Parje e Burimit HTML" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="faqe web (përkufizim)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="site web (përkufizim)" nc:link="glossary.xhtml#web_site"/></li>
+        <li><Description nc:name="World Wide Web (përkufizim)" nc:link="glossary.xhtml#World_Wide_Web"/></li>
+        <li><Description nc:name="tejlidhje (përkufizim)" nc:link="glossary.xhtml#hyperlink"/></li>
+        <li><Description nc:name="tejtekst (përkufizim)" nc:link="glossary.xhtml#hypertekst"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>

@@ -1,0 +1,48 @@
+<!ENTITY validation.ocsp.caption                  "OCSP">
+<!ENTITY  validation.advanced.accesskey           "R">
+<!ENTITY  validation.updatecrl.accesskey          "P">
+<!ENTITY  validation.deletecrl.accesskey          "F">
+<!ENTITY  validation.crl.caption                  "LDSH">
+<!ENTITY  pref.validation.title                   "Vleftësim">
+<!ENTITY crl.autoupdate.fail.cnt.label "Dështime të Mëparshëm të Njëpasnjëshëm Përditësimi:">
+<!ENTITY crl.autoupdate.fail.reason.label "Hollësi të Dështimit të Fundit të Përditësimit:">
+<!ENTITY crl.import.nextupdate.label "Përditësimi Pasues Më:">
+<!ENTITY crl.import.status.title "Gjendje Importimi LDSH-je">
+<!ENTITY crl.import.success.message "Lista e Shfuqizimit të Dëshmive (CRL) është importuar me sukses.">
+<!ENTITY crl.issuer.label "LDSH Lëshuar Prej:">
+<!ENTITY crl.issuer.org.label "Organizëm:">
+<!ENTITY crl.issuer.orgunit.label "Njësi:">
+<!ENTITY edit.button "Rregullime">
+<!ENTITY serviceURL.accesskey "U">
+<!ENTITY serviceURL.label "URL Shërbimi:">
+<!ENTITY signingCA.accesskey "N">
+<!ENTITY signingCA.label "Nëshkrues Përgjigjjeje:">
+<!ENTITY validation.advanced.label "Rregullime">
+<!ENTITY validation.crl.autoupdate.enable.label "Aktivizo Përditësim të Vetvetishëm për këtë LDSH">
+<!ENTITY validation.crl.autoupdate.freq.label1 "Përditësoje çdo">
+<!ENTITY validation.crl.autoupdate.freq.label2 "Ditë">
+<!ENTITY validation.crl.autoupdate.time.label1 "Përditësoje">
+<!ENTITY validation.crl.autoupdate.time.label2 "Ditë para datës së Përditësimit Pasues">
+<!ENTITY validation.crl.autoupdate.title "Parapëlqime Përditësimesh LDSH-sh të Vetvetishëm">
+<!ENTITY validation.crl.autoupdate.url.label "LDSH-ja do të importohej Prej:">
+<!ENTITY validation.crl.description "Përdorni Përgjegjës LDSH-sh për të administruar Listat e Shfuqizimit të Dëshmive (LDSH) që janë ruajtur në bazën tuaj të të dhënave për dëshmitë.">
+<!ENTITY validation.crlautoupdateenabled.label "Vetëpërditësoje">
+<!ENTITY validation.crlautoupdatestatus.label "Gjendje Vetëpërditësimi">
+<!ENTITY validation.crllastupdate.label "Përditësimi i Fundit">
+<!ENTITY validation.crlmanager.label "Administrim LDSH-sh">
+<!ENTITY validation.crlname.label "Emër">
+<!ENTITY validation.crlnextupdate.label "Përditësimi  Pasues">
+<!ENTITY validation.deletecrl.label "Fshije">
+<!ENTITY validation.managecrls.accesskey "M">
+<!ENTITY validation.managecrls.button "Administrim LDSH-sh...">
+<!ENTITY validation.updatecrl.label "Përditësoje">
+<!ENTITY validation.requireOCSP.description       "Kur dështon lidhja me një shërbyes OCSP, trajtoje dëshminë si të pavlefshme">
+<!ENTITY validation.requireOCSP.accesskey         "V">
+<!ENTITY  validation.crlmanager.description       "Këto Lista Shfuqizimesh Dëshmish (LDSH) ruhen në bazën tuaj të të dhënave për dëshmitë:">
+<!ENTITY proxyOCSP2.label                         "Vleftësoji tërë dëshmitë duke përdorur shërbyesin OCSP vijues:">
+<!ENTITY proxyOCSP2.accesskey                     "t">
+
+<!ENTITY enableOCSP.label                         "Për të ripohuar vlefshmërinë e tanishme të dëshmive, përdor Protokollin Online për Gjendje Dëshmish (Online Certificate Status Protocol - OCSP) ">
+<!ENTITY enableOCSP.accesskey                     "A">
+<!ENTITY certOCSP2.label                          "Bëje të vlefshme një dëshmi nëse tregon një shërbyes OCSP">
+<!ENTITY certOCSP2.accesskey                      "F">

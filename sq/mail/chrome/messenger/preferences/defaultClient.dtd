@@ -1,0 +1,13 @@
+<!ENTITY window.title                      "Rregullime Klienti Parazgjedhje">
+<!ENTITY window.width                      "400px">
+<!ENTITY checkNow.label                    "Kontrollo Tani">
+<!ENTITY whenStartingCheckFor.label        "Kur niset, &brandShortName;-i do të duhej të kontrollonte për të parë nëse është zbatimi parazgjedhje për">
+<!ENTITY mailApplication.label             "Postë">
+<!ENTITY mailApplication.accesskey         "M">
+<!ENTITY checkMailNow.accesskey            "C">
+<!ENTITY newsApplication.label             "Lajme">
+<!ENTITY newsApplication.accesskey         "N">
+<!ENTITY checkNewsNow.accesskey            "h">
+<!ENTITY rssFeeds.label                    "Prurje RSS">
+<!ENTITY rssFeeds.accesskey                "R">
+<!ENTITY checkFeedAggregatorNow.accesskey  "e">

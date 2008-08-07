@@ -1,0 +1,96 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Rregullime Sigurie">
+<!ENTITY serverSettings.label "Rregullime Shërbyesi">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "Shërbyes Poste POP">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "Shërbyes Poste IMAP">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Shërbyes Lajmesh (NNTP)">
+<!ENTITY webmail.label "Llogari WebMail">
+<!ENTITY serverType.label "Tip Shërbyesi:">
+<!ENTITY serverName.label "Emër Shërbyesi:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "Emër Përdoruesi:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "Portë:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Parazgjedhje:">
+<!ENTITY savePassword.label "Ruaj fjalëkalim">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Kontrollo për mesazhe të rinj çdo ">
+<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffEnd.label "minuta">
+<!ENTITY isSecure.label "Përdor lidhje të sigurt (SSL)">
+<!ENTITY isSecure.accesskey "U">
+<!ENTITY socketType.label "Përdor lidhje të sigurt:">
+<!ENTITY neverSecure.label "Kurrë">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, në pastë">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Përdor mirëfilltësim të sigurt">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "Lëri mesazhet në shërbyes">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "Sill vetëm titujt">
+<!ENTITY headersOnly.accesskey "f">
+<!ENTITY deleteByAgeFromServer.label "Për e shumta">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "ditë">
+<!ENTITY deleteOnServer2.label "Derisa t'i fshij ata">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "Shkarko mesazhe të rinj vetvetiu">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "Strehëemër Shërbyesi">
+<!ENTITY username.label "Emri Juaj për Hyrje">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "Të dhëna Shërbyesi POP">
+<!ENTITY deleteMessagePrefix.label "Kur fshij një mesazh:">
+<!ENTITY modelMoveToTrash.label "Shpjere te kjo dosje:">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Thjesht shënoje si të fshirë">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Hiqe atypëraty">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Në Dalje pastro (&quot;Fshij&quot;) Të Marrët">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "Në dalje Zbraz Hedhurina">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "Shih për mesazhe të rinj gjatë nisjes"> 
+<!ENTITY loginAtStartup.accesskey "C">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Pyetmë para se të shkarkosh më shumë se">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "mesazhe">
+<!ENTITY alwaysAuthenticate.label "Kërko përherë mirëfilltësim kur lidhesh me këtë shërbyes">
+<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY newsrcFilePath.label "kartelë newsrc:">
+<!ENTITY newsrcFilePath.accesskey "f">
+<!ENTITY localPath.label "Drejtori vendore:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY abbreviate.label "Trego emra grupe lajmesh tek pjesa Dosje Poste si:">
+<!ENTITY abbreviateOn.label "Emra të plotë (Për shembull, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Emra të shkurtuar (Për shembull, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Të mëtejshëm...">
+<!ENTITY serverDefaultCharset.label "Kodim Parazgjedhje Gërmash:">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
+<!ENTITY browseFolder.label "Shfletoni...">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "Përzgjidhni Kartelë newsrc">
+<!ENTITY browseNewsrc.label "Shfletoni...">
+<!ENTITY browseNewsrc.accesskey "e">
+<!ENTITY modelDeleteImmediately.accesskey "d">

@@ -1,0 +1,12 @@
+<!ENTITY title.label "Përshtatje Kodimi Gërmash">
+<!ENTITY current.label "Kodime Veprues Gërmash:">
+<!ENTITY remove.label     "Hiqe">
+<!ENTITY remove.accessKey "H">
+<!ENTITY additional.label "Kodime të Mundshëm Gërmash:">
+<!ENTITY add.label        "Shtoje">
+<!ENTITY add.accessKey    "S">
+<!ENTITY moveUp.label     "Ngjite">
+<!ENTITY moveUp.accessKey "N">
+<!ENTITY moveDown.label   "Zbrite">
+<!ENTITY moveDown.accessKey "Z">
+

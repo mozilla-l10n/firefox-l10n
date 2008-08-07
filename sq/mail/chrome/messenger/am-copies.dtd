@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Kopje &amp; Dosje">
+<!ENTITY sendingPrefix.label "Kur dërgohen mesazhe, automatikisht: ">
+<!ENTITY fccMailFolder.label "Vendos një kopje në:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY chooseFolderButton.label "Zgjidhni Dosje...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc për këto vendndodhje email:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Dosje Speciale">
+<!ENTITY draftMailFolder.label "Mbaj skica mesazhesh në:">
+<!ENTITY templateMailFolder.label "Mbaj stampa mesazhesh në:">
+<!ENTITY saveMessageDlg.label "Shfaq dialog ripohimi kur ruhen mesazhe">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Dosje &quot;Të dërguar&quot; në:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "Tjetër:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Dosje &quot;Skicash&quot; në:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "Tjetër:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Dosje &quot;Stampash&quot; në:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "Tjetër:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "Skica dhe Stampa">
+<!ENTITY keepDrafts.label "Mbaj skica mesazhesh në:">
+<!ENTITY keepTempltes.label "Mbaj stampa mesazhesh në:">
+<!ENTITY fccReplyFollowsParent.label "Vendos përgjigje te dosja e mesazhit të cilit po i përgjigjesh">
+<!ENTITY fccReplyFollowsParent.accesskey "l">

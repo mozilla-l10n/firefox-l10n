@@ -1,0 +1,45 @@
+<!ENTITY systemDefaults.label              "Parazgjedhje Sistemi">
+<!ENTITY alwaysCheckDefault.label          "Kontrollo përherë gjatë nisjes për të parë nëse &brandShortName;-i është klienti parazgjedhje për postë">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Kontrollo Tani">
+<!ENTITY checkNow.accesskey         "N">
+
+<!ENTITY systemDefaults.label              "Parazgjedhje Sistemi">
+<!ENTITY alwaysCheckDefault.label          "Kontrollo përherë gjatë nisjes për të parë nëse &brandShortName;-i është klienti parazgjedhje i postës">
+
+<!ENTITY messengerStartPage.label         "Faqe Fillimi për &brandShortName;-in">
+<!ENTITY enableStartPage.label            "Kur niset &brandShortName;-i, shfaq te zona e mesazheve Faqe Fillimi">
+<!ENTITY enableStartPage.accesskey        "W">
+<!ENTITY location.label                   "Vend:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "Rimerr Parazgjedhjet">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "Zgjo ikonën përkatëse">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "Kur mbërrijnë mesazhe të rinj:">
+<!ENTITY playSound.label                  "Luaj një tingull">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Shfaq një sinjalizim">
+<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY customizeMailAlert.label         "Përshtasni...">
+<!ENTITY customizeMailAlert.accesskey     "C">
+
+<!ENTITY soundNotification1.caption       "Tingull">
+<!ENTITY play.label                       "Luaj">
+<!ENTITY play.accesskey                   "P">
+<!ENTITY systemsound.label                "Tingull parazgjedhje sistemi për postë të re">
+<!ENTITY systemsoundMac.label             "Tingull Sinjalizimi Sistemi">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "Përdor kartelën zanore vijuese">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Shfletoni...">
+<!ENTITY browse.accesskey                 "B">

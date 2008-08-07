@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "Ndrysho Veprim">
+<!ENTITY  window.width                         "36em">
+
+<!ENTITY  whenDownloading.label               "Kur shkarkohen kartela si kjo:">
+
+<!ENTITY  openDefault.label                   "Hapi me zbatimin parazgjedhje:">
+<!ENTITY  openDefault.accesskey               "O">
+<!ENTITY  openApplication.label               "Hapi me këtë zbatim:">
+<!ENTITY  openApplication.accesskey           "e">
+<!ENTITY  changeApp.label                     "Shfletoni...">
+<!ENTITY  changeApp.accesskey                 "B">
+<!ENTITY  saveToDisk.label                    "Ruaji në kompjuterin tim">
+<!ENTITY  saveToDisk.accesskey                "S">
+<!ENTITY  saveToDefaultFolder.label           "te dosja  parazgjedhje e shkarkimeve">
+<!ENTITY  saveToDefaultFolder.accesskey       "d">
+<!ENTITY  saveToThisFolder.label              "në këtë dosje:">
+<!ENTITY  saveToThisFolder.accesskey          "h">
+<!ENTITY  chooseFolder.label                  "Shfletoni...">
+<!ENTITY  chooseFolder.accesskey              "w">
+<!ENTITY  saveToAskMe.label                   "pyetmë ku të ruash kartelën">
+<!ENTITY  saveToAskMe.accesskey               "a">
+<!ENTITY  usePlugin.label                     "Përdor këtë Shtojcë:">
+<!ENTITY  usePlugin.accesskey                 "P">

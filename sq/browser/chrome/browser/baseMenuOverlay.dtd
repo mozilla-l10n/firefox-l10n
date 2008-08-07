@@ -1,0 +1,45 @@
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Minimizo">
+<!ENTITY bringAllToFront.label    "Silli të Tërë Para">
+<!ENTITY zoomWindow.label         "Zoom">
+<!ENTITY windowMenu.label         "Dritare">
+
+<!ENTITY helpMenu.label           "Ndihmë"> 
+<!ENTITY helpMenu.accesskey       "N"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Ndihmë"> 
+<!ENTITY helpMenuWin.accesskey    "N">
+<!ENTITY aboutCmd.label           "Rreth &brandFullName;-it">
+<!ENTITY aboutCmd.accesskey       "R">
+<!ENTITY helpContents.label       "Përmbajtje e Ndihmës">
+<!ENTITY helpContents.accesskey   "P">
+<!ENTITY helpContentsMac.label    "Ndihma e &brandShortName;-it">
+<!ENTITY helpForIEUsers.label     "Për Përdorues të Internet Explorer-it">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey      "VK_F1">
+<!ENTITY openHelpMac.commandkey   "/">
+
+<!ENTITY helpReleaseNotes.label         "Shënime Versioni">
+<!ENTITY helpReleaseNotes.accesskey     "V">
+<!ENTITY updateCmd.label                "Kontrollo për Përditësime...">
+<!ENTITY updateCmd.accesskey            "K">
+
+<!ENTITY preferencesCmdMac.label        "Parapëlqime...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+
+<!ENTITY servicesMenuMac.label          "Shërbime">
+
+<!ENTITY hideThisAppCmdMac.label        "Fshihe &brandShortName;-in">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Fshih Të tjera">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label        "Shfaqi Të tëra">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY openHelpMac.modifiers            "accel,shift">

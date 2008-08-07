@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label        "Email"> 
+<!ENTITY readMsgsLink.label           "Lexoni mesazhe"> 
+<!ENTITY composeMsgLink.label         "Shkruani një mesazh të ri"> 
+
+<!ENTITY newsSectionHdr.label         "Grupe Lajmesh"> 
+<!ENTITY subscribeNewsLink.label      "Administroni pajtime në grupe lajmesh"> 
+
+<!ENTITY accountsSectionHdr.label     "Llogari"> 
+<!ENTITY subscribeImapFolders.label   "Administroni dosje pajtimesh">
+<!ENTITY settingsLink.label           "Shihni rregullimet për këtë llogari"> 
+<!ENTITY newAcctLink.label            "Krijoni një llogari të re"> 
+
+<!ENTITY advFeaturesSectionHdr.label  "Veçori të Mëtejshme"> 
+<!ENTITY searchMsgsLink.label         "Kërkoni në mesazhe"> 
+<!ENTITY filtersLink.label            "Administroni filtra mesazhesh">
+<!ENTITY junkSettings.label           "Rregullime për postë hedhurinë">
+<!ENTITY offlineLink.label            "Rregullime për I palidhur">
+
+
+<!ENTITY rssSectionHdr.label          "RSS Lajmesh &amp; Blogjesh"> 
+<!ENTITY subscibeRSS.label            "Administroni pajtime">

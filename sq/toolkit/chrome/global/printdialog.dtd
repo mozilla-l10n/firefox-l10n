@@ -1,0 +1,20 @@
+<!ENTITY allpagesRadio.label "Tërë Faqet">
+<!ENTITY aslaidoutRadio.label "Siç është hartuar në ekran">
+<!ENTITY copies.label "Kopje">
+<!ENTITY eachframesepRadio.label "Çdo kornizë veçmas">
+<!ENTITY fpDialog.title "Ruaj Kartelë">
+<!ENTITY frompageInput.label "prej">
+<!ENTITY numCopies.label "Numër kopjesh:">
+<!ENTITY printButton.label "Shtyp">
+<!ENTITY printDialog.title "Shtyp">
+<!ENTITY printer.label "Shtypës">
+<!ENTITY printerInput.label "Shtypës:">
+<!ENTITY printframeGroup.label "Shtypje Kornize">
+<!ENTITY printrangeGroup.label "Interval Shtypjeje">
+<!ENTITY propertiesButton.label "Veti...">
+<!ENTITY rangeRadio.label "Faqe">
+<!ENTITY selectedframeRadio.label "Kornizën e përzgjedhur">
+<!ENTITY selectionRadio.label "Përzgjedhje">
+<!ENTITY topageInput.label "te">
+<!ENTITY descText.label "Përshkrim Shtypësi:">
+<!ENTITY fileCheck.label "Shtyp në Kartelë">

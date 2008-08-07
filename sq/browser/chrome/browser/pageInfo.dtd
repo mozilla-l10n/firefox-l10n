@@ -1,0 +1,132 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Kopjoje">
+<!ENTITY  copy.accesskey        "K">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Përzgjidhe të Tërën">
+<!ENTITY  selectall.accesskey   "T">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Të përgjithshme">
+<!ENTITY  generalTab.accesskey  "P">
+<!ENTITY  generalURL            "Vendndodhje:">
+<!ENTITY  generalType           "Lloj:">
+<!ENTITY  generalMode           "Mënyrë Hartimi:">
+<!ENTITY  generalSize           "Madhësi:">
+<!ENTITY  generalReferrer       "URL referuese:">
+<!ENTITY  generalSource         "Burim Fshehtine:">
+<!ENTITY  generalModified       "Ndryshuar:">
+<!ENTITY  generalEncoding       "Kodim:">
+<!ENTITY  generalMetaName       "Emër">
+<!ENTITY  generalMetaContent    "Përmbajtje">
+<!ENTITY  generalSecurityMore   "Më tepër">
+<!ENTITY  generalSecurityMore.accesskey "m">
+
+<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaAltHeader        "Tekst Alternativ">
+<!ENTITY  mediaAddress          "Vendndodhje">
+<!ENTITY  mediaType             "Lloj">
+<!ENTITY  mediaSize             "Madhësi">
+<!ENTITY  mediaCount            "Numërim">
+<!ENTITY  mediaLongdesc         "Përshkrim i Gjatë:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Ruaje Si…">
+<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Paraparje e Medias:">
+
+<!ENTITY  feedTab               "Prurje">
+<!ENTITY  feedTab.accesskey     "P">
+<!ENTITY  feedSubscribe         "Pajtohuni">
+<!ENTITY  feedSubscribe.accesskey "j">
+
+<!ENTITY  permTab               "Leje">
+<!ENTITY  permTab.accesskey     "L">
+<!ENTITY  permUseDefault        "Përdor Parazgjedhjen">
+<!ENTITY  permAllow             "Lejoje">
+<!ENTITY  permAllowSession      "Lejoje për Sesionin">
+<!ENTITY  permBlock             "Bllokoje">
+<!ENTITY  permissionsFor        "Leje për:">
+<!ENTITY  permImage             "Ngarko Pamje">
+<!ENTITY  permPopup             "Hap Dritare Fllucka">
+<!ENTITY  permCookie            "Rregulloni &quot;Cookie&quot;-t">
+<!ENTITY  permInstall           "Instalo Zgjerime ose Tema">
+
+<!ENTITY  securityTab           "Siguri">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Të dhëna sigurie për këtë faqe">
+<!ENTITY  securityView.certView "Shihni Dëshmi">
+<!ENTITY  securityView.accesskey "I">
+<!ENTITY  securityView.unknown   "E panjohur">
+
+
+<!ENTITY  securityView.identity.header   "Identitet &quot;Site&quot;-i Web">
+<!ENTITY  securityView.identity.owner    "Pronar: ">
+<!ENTITY  securityView.identity.domain   "&quot;Site&quot; Web: ">
+<!ENTITY  securityView.identity.verifier "Vërtetuar nga: ">
+
+<!ENTITY  securityView.privacy.header                   "Vetësi &amp; Historik">
+<!ENTITY  securityView.privacy.history                  "E kam vizituar këtë &quot;site&quot; web më herët se sot?">
+<!ENTITY  securityView.privacy.cookies                  "A po depoziton ky &quot;site&quot; web të dhëna (&quot;cookies&quot;) në kompjuterin tim?">
+<!ENTITY  securityView.privacy.viewCookies              "Shihni &quot;Cookies&quot;">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "C">
+<!ENTITY  securityView.privacy.passwords                "A kam ruajtur ndonjë fjalëkalim për këtë &quot;site&quot; web?">
+<!ENTITY  securityView.privacy.viewPasswords            "Shihni Fjalëkalime të Ruajtur">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "F">
+<!ENTITY  securityView.technical.header                 "Hollësi Teknike">
+<!ENTITY  mediaDimension        "Përmasa:">
+<!ENTITY  mediaLocation         "Vend:">
+<!ENTITY  mediaText             "Tekst Shoqërues:">
+
+
+
+
+
+
+
+
+
+
+

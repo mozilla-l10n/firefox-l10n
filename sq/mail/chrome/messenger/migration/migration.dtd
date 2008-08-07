@@ -1,0 +1,32 @@
+
+<!ENTITY migrationWizard.title          "Ndihmës Importimesh">
+
+<!ENTITY importFrom.label               "Importo Mundësi, Rregullime Llogarish, Libër Vendndodhjesh dhe të tjera të dhëna prej:">
+<!ENTITY importFromUnix.label           "Importo Parapëlqime, Rregullime Llogarish, Libër Vendndodhjesh dhe të tjera të dhëna prej:">
+
+<!ENTITY importFromNothing.label        "Mos importo gjë">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 ose Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Importo Rregullime dhe Dosje Poste Prej">
+<!ENTITY importItems.title              "Objekte për Importim">
+<!ENTITY importItems.label              "Përzgjidhni cilët objekte të importohen:">
+
+<!ENTITY migrating.title                "Po importoj...">
+<!ENTITY migrating.label                "Objektet vijues janë duke u importuar...">
+
+<!ENTITY selectProfile.title            "Përzgjidhni Profil">
+<!ENTITY selectProfile.label            "Është i mundshëm importimi i profileve vijues:">
+
+<!ENTITY done.title                     "Importim i Plotë">
+<!ENTITY done.label                     "Elementët vijues u importuan me sukses:">
+

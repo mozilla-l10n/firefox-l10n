@@ -1,0 +1,17 @@
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Për të instaluar këto shtojca, shtypni Pasues.">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Janë të mundshme shtojcat vijuese:">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Disa shtojca, gjatë instalimit, mund të kërkojnë të dhëna shtesë prej jush.">
+<!ENTITY pluginWizard.availablePluginsPage.title "Shkarkime Shtojcash të Mundshme">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName;-i po kontrollon tani për shtojca të mundshme...">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName;-i përfundoi instalimin e shtojcave që mungonin:">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName;-i po instalon shtojcat...">
+<!ENTITY pluginWizard.installPluginsPage.title "Po instalohen Shtojca">
+<!ENTITY pluginWizard.licensePage.title "Licenca Shtojcash">
+<!ENTITY pluginWizard.licensePage.accept.label "Pajtohem.">
+<!ENTITY pluginWizard.licensePage.deny.label "Nuk pajtohem (shtojca nuk do të instalohet).">
+<!ENTITY pluginWizard.title "Shërbim Gjetjeje Shtojcash">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Mësoni më tepër rreth Shtojcash ose gjeni dorazi shtojca që mungojnë.">
+<!ENTITY pluginWizard.finalPage.restart.label "Që shtojcat të mund të punojnë, lypset rinisje e &brandShortName;-it.">
+<!ENTITY pluginWizard.firstPage.title "Mirësevini te &pluginWizard.title;">
+
+<!ENTITY missingPlugin.label                                 "Për shkarkimin e shtojcës, klikoni këtu.">

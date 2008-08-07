@@ -1,0 +1,19 @@
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.label "Kopjo">
+<!ENTITY cutCmd.accesskey "j">
+<!ENTITY cutCmd.label "Prij">
+<!ENTITY deleteCmd.label "Fshij">
+<!ENTITY deleteCmd.accesskey "f">
+<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY pasteCmd.label "Ngjit">
+<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY selectAllCmd.label "Përzgjidh Tërë">
+<!ENTITY undoCmd.accesskey "z">
+<!ENTITY undoCmd.label "Zhbëj">
+<!ENTITY spellAddToDictionary.label "Shto te fjalor">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellNoSuggestions.label "(Pa këshillime drejtshkrimi)">
+<!ENTITY spellDictionaries.label "Gjuhë">
+<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellCheckEnable.label "Kontrollo Drejtshkrimin">
+<!ENTITY spellCheckEnable.accesskey "K">

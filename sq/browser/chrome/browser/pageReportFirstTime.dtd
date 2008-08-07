@@ -1,0 +1,4 @@
+<!ENTITY caption.label "Rreth Bllokime Flluckash">
+<!ENTITY done.label "Kryer">
+<!ENTITY endDescription.label "Mund të klikoni tek kjo ikonë të shihni cilët &quot;site&quot;-e bllokoi &brandShortName;-i dhe për t&apos;u lejuar këtyre &quot;site&quot;-ve hapje flluckash po qe se këto nevojiten për punimin e saktë të &quot;site&quot;-it.">
+<!ENTITY startDescription.label "Një &quot;site&quot; Web është përpjekur të hapë pa lejen tuaj një dritare fllucke. &brandShortName;-i mbylli automatikisht dritaren flluckë.  Kurdo që &brandShortName;-i bllokon këto fllucka, do të shihni një ikonë te shtyllë gjendjesh.">

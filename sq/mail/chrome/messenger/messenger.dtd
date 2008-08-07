@@ -1,0 +1,699 @@
+<!ENTITY folderContextEmptyJunk.label "Zbraz Hedhurina">
+<!ENTITY folderContextEmptyJunk.accesskey "J">
+<!ENTITY errorConsoleCmd.label "Konsol Gabimesh">
+<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY filtersCmd.label "Filtra Mesazhesh...">
+<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersApply.label "Zbato Filtra mbi Dosje">
+<!ENTITY filtersApply.accesskey "R">
+
+<!ENTITY searchItem.title "Kërkim i Shpejtë">
+<!ENTITY mailViewsToolbarItem.title "Pamje Poste">
+
+<!ENTITY folderView.label "Dosje">
+<!ENTITY folderView.accesskey "F">
+<!ENTITY allFolders.label "Tërë">
+<!ENTITY allFolders.accesskey "A">
+<!ENTITY unreadFolders.label "Të palexuar">
+<!ENTITY unreadFolders.accesskey "U">
+<!ENTITY favoriteFolders.label "Të parapëlqyer">
+<!ENTITY favoriteFolders.accesskey "F">
+<!ENTITY recentFolders.label "Të fundëm">
+<!ENTITY recentFolders.accesskey "R">
+
+<!ENTITY sortByTagsCmd.label "Shenjash">
+<!ENTITY sortByTagsCmd.accesskey "g">
+<!ENTITY tagsMenu.label "Shenjë">
+<!ENTITY tagsMenu.accesskey "g">
+<!ENTITY menuFavoriteFolder.label "Dosje të Parapëlqyerish">
+<!ENTITY menuFavoriteFolder.accesskey "a">
+<!ENTITY addons.label "Shtesa">
+<!ENTITY addons.accesskey "d">
+
+
+<!ENTITY messengerWindow.title "Postë &amp; &quot;Newsgroup&quot;-e">
+<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
+
+<!-- File Menu -->
+<!ENTITY newFolderCmd.label "Dosje...">
+<!ENTITY newFolderCmd.accesskey "F">
+<!ENTITY newVirtualFolderCmd.label "Kërkim i Ruajtur...">
+<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newAccountCmd.label "Llogari...">
+<!ENTITY newAccountCmd.accesskey "A">
+<!ENTITY openMessageMenu.label "Hap">
+<!ENTITY openMessageFileCmd.label "Hap Mesazhe Të Ruajtur...">
+<!ENTITY openMessageFileCmd.accesskey "O">
+<!ENTITY openAttachmentCmd.label "Bashkangjitje">
+<!ENTITY openAttachmentCmd.accesskey "A">
+<!ENTITY saveAsMenu.label "Ruaj Si">
+<!ENTITY saveAsMenu.accesskey "S">
+<!ENTITY saveAsFileCmd.label "Kartelë">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Stampë">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY getNewMsgCmd.label "Merr Mesazhe Të rinj">
+<!ENTITY getNewMsgCmd.accesskey "G">
+<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgForCmd.label "Merr Mesazhe Të rinj për">
+<!ENTITY getNewMsgForCmd.accesskey "w">
+<!ENTITY getAllNewMsgCmd.label "Ki Tërë Mesazhet e Rinj">
+<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getNextNMsgCmd.label "Ki 500 Mesazhet e Rinj Pasues">
+<!ENTITY getNextNMsgCmd.accesskey "t">
+<!ENTITY sendUnsentCmd.label "Dërgo Mesazhe Të Padërguar">
+<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY subscribeCmd.label "Pajtohuni...">
+<!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY renameFolder.label "Riemërto Dosje...">
+<!ENTITY renameFolder.accesskey "R">
+<!ENTITY renameFolder.key "VK_F2"> 
+<!ENTITY compactFolders.label "Ngjesh Dosje">
+<!ENTITY compactFolder.accesskey		"F">
+<!ENTITY emptyTrashCmd.label "Zbraz Hedhurina">
+<!ENTITY emptyTrashCmd.accesskey		"y">
+<!ENTITY importCmd.label "Importo...">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY printCmd.label "Shtyp...">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.key "v">
+<!ENTITY printSetupCmd.label "Rregullim Faqeje...">
+<!ENTITY printSetupCmd.accesskey "u">
+
+<!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Fshij Mesazh">
+<!ENTITY deleteMsgCmd.accesskey "D">
+<!ENTITY undeleteMsgCmd.label "Çfshi Mesazhe">
+<!ENTITY undeleteMsgCmd.accesskey "d">
+<!ENTITY cancelNewsMsgCmd.label "Fshi Mesazh">
+<!ENTITY cancelNewsMsgCmd.accesskey "M">
+<!ENTITY deleteMsgsCmd.label "Fshij Mesazhet e Përzgjedhur">
+<!ENTITY deleteMsgsCmd.accesskey "D">
+<!ENTITY undeleteMsgsCmd.label "Çfshi Mesazhet e Përzgjedhur">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY cancelNewsMsgsCmd.label "Fshij Mesazhet e Përzgjedhur">
+<!ENTITY cancelNewsMsgsCmd.accesskey "n">
+<!ENTITY deleteFolderCmd.label "Fshi Dosje">
+<!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY unsubscribeNewsgroupCmd.label "Çpajtohuni">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY selectMenu.label "Përzgjidhni">
+<!ENTITY selectMenu.accesskey "S">
+<!ENTITY all.label "Tërë">
+<!ENTITY all.accesskey "A">
+<!ENTITY selectThreadCmd.label "Rrjedhë">
+<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY selectThreadCmd.key "a">
+
+
+
+
+<!ENTITY folderPropsCmd.label "Veti...">
+<!ENTITY folderPropsFolderCmd.label "Veti Dosjeje...">
+<!ENTITY folderPropsNewsgroupCmd.label "Veti &quot;Newsgroup&quot;-i...">
+<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY accountManagerCmd.label "Rregullime Llogarish...">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY undoDeleteMsgCmd.label "Zhbëj Fshij Mesazhe">
+<!ENTITY redoDeleteMsgCmd.label "Ribëj Fshij Mesazhe">
+<!ENTITY undoMoveMsgCmd.label "Zhbëj Lëviz Mesazh">
+<!ENTITY redoMoveMsgCmd.label "Ribëj Lëviz Mesazh">
+<!ENTITY undoCopyMsgCmd.label "Zhbëj Kopjo Mesazh">
+<!ENTITY redoCopyMsgCmd.label "Ribëj Kopjo Mesazh">
+<!ENTITY undoDefaultCmd.label "Zhbëj">
+<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY redoDefaultCmd.label "Ribëj">
+<!ENTITY redoDefaultCmd.accesskey "R">
+
+<!-- View Menu -->
+<!ENTITY showMessengerToolbarCmd.label "Panel Poste">
+<!ENTITY showMessengerToolbarCmd.accesskey "o">
+
+
+<!ENTITY customizeToolbar.label "Përshtasni...">
+<!ENTITY customizeToolbar.accesskey "C">
+
+
+<!ENTITY messagePaneLayoutStyle.label "Skemë">
+<!ENTITY messagePaneLayoutStyle.accesskey "L">
+<!ENTITY messagePaneClassic.label "Pamje Klasike">
+<!ENTITY messagePaneClassic.accesskey "C">
+<!ENTITY messagePaneWide.label "Pamje Së gjeri">
+<!ENTITY messagePaneWide.accesskey "W">
+<!ENTITY messagePaneVertical.label "Pamje Vertikale">
+<!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY showMessageCmd.label "Kuti Mesazhi">
+<!ENTITY showMessageCmd.accesskey "M">
+
+<!-- Sort Menu -->
+<!ENTITY sortMenu.label "Rendit sipas">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortByDateCmd.label "Datë">
+<!ENTITY sortByDateCmd.accesskey "e">
+<!ENTITY sortByStarCmd.label "Yllkë">
+<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByAttachmentsCmd.label "Bashkangjitje">
+<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByPriorityCmd.label "Përparësi">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "Madhësi">
+<!ENTITY sortBySizeCmd.accesskey "z">
+<!ENTITY sortByStatusCmd.label "Gjendje">
+<!ENTITY sortByStatusCmd.accesskey "u">
+
+
+<!ENTITY sortByJunkStatusCmd.label "Gjendje Hedhurinash">
+<!ENTITY sortByJunkStatusCmd.accesskey "J">
+<!ENTITY sortBySubjectCmd.label "Subjekt">
+<!ENTITY sortBySubjectCmd.accesskey "b">
+<!ENTITY sortBySenderCmd.label "Dërgues">
+<!ENTITY sortBySenderCmd.accesskey "n">
+<!ENTITY sortByRecipientCmd.label "Marrës">
+<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByUnreadCmd.label "Të lexuar">
+<!ENTITY sortByUnreadCmd.accesskey "R">
+<!ENTITY sortByOrderReceivedCmd.label "Rend i Marrë">
+<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortAscending.label "Rritës">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "Zbritës">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortThreaded.label "Në rrjedhë">
+<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortUnthreaded.label "Pa rrjedhë">
+<!ENTITY sortUnthreaded.accesskey "h">
+<!ENTITY groupBySort.label "Grupuar Sipas Renditjesh">
+<!ENTITY groupBySort.accesskey "G">
+<!ENTITY groupBySortCmd.key "G">
+<!ENTITY msgsMenu.label "Mesazhe">
+<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY threads.label "Rrjedha">
+<!ENTITY threads.accesskey "e">
+<!ENTITY allMsgsCmd.label "Tërë">
+<!ENTITY allMsgsCmd.accesskey "A">
+<!ENTITY expandOrCollapseMenu.label "Zgjero/Tkurr">
+<!ENTITY expandOrCollapseMenu.accesskey "x">
+<!ENTITY expandAllThreadsCmd.label "Zgjero Tërë Rrjedhat">
+<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Tkurr Tërë Rrjedhat">
+<!ENTITY collapseAllThreadsCmd.accesskey "C">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Të palexuar">
+<!ENTITY unreadMsgsCmd.accesskey "U">
+<!ENTITY threadsWithUnreadCmd.label "Rrjedha me Të palexuar">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Rrjedha me Të palexuar të Parë">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
+<!ENTITY ignoredThreadsCmd.label "Rrjedha Të shpërfillura">
+<!ENTITY ignoredThreadsCmd.accesskey "i">  
+<!ENTITY headersMenu.label "Tituj">
+<!ENTITY headersMenu.accesskey "H">
+<!ENTITY headersAllCmd.label "Tërë">
+<!ENTITY headersAllCmd.accesskey "A">
+<!ENTITY headersNormalCmd.label "Normal">
+<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY bodyMenu.label "Trup Mesazhi Si">
+<!ENTITY bodyMenu.accesskey "B">
+<!ENTITY bodyAllowHTML.label "HTML Origjinal">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "HTML i thjeshtë">
+<!ENTITY bodySanitized.accesskey "S">
+<!ENTITY bodyAsPlaintext.label "Tekst i Thjeshtë">
+<!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY viewAttachmentsInlineCmd.label "Shfaqi Bashkangjitjet Brenda">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY reloadCmd.label "Ringarko">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY stopCmd.label "Ndal">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY textZoomEnlargeCmd.label "Zmadho">
+<!ENTITY textZoomEnlargeCmd.accesskey "I">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY textZoomReduceCmd.label "Zvogëlo">
+<!ENTITY textZoomReduceCmd.accesskey "D">
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY textZoomResetCmd.label     "Normal">
+<!ENTITY textZoomResetCmd.accesskey "N"> 
+<!ENTITY textSize.label             "Madhësi Teksti">
+<!ENTITY textSize.accesskey             "x">
+
+<!ENTITY pageSourceCmd.label "Burim Mesazhi">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.key "u">
+
+<!-- Search Menu -->
+<!ENTITY searchMenu.label "Kërko">
+<!ENTITY searchMenu.accesskey "S">
+
+
+<!ENTITY findMenu.label "Gjej">
+<!ENTITY findMenu.accesskey "F">
+<!ENTITY findCmd.label "Gjej Në Këtë Mesazh...">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "Gjej Sërish">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+
+
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Kërko në Mesazhe...">
+<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Kërko në Vendndodhjet...">
+<!ENTITY searchAddressesCmd.accesskey "S">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "Shko">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY nextMenu.label "Pasuesi">
+<!ENTITY nextMenu.accesskey "N">
+<!ENTITY nextMsgCmd.label "Mesazh">
+<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Mesazh I palexuar">
+<!ENTITY nextUnreadMsgCmd.accesskey "U">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "Mesazh me Yllkë">
+<!ENTITY nextStarredMsgCmd.accesskey "S">
+<!ENTITY nextUnreadThread.label "Rrjedhë e Palexuar">
+<!ENTITY nextUnreadThreadCmd.accesskey "T">
+<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY prevMenu.label "I mëparshmi">
+<!ENTITY prevMenu.accesskey "P">
+<!ENTITY prevMsgCmd.label "Mesazh">
+<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY previousMsgCmd.key "b">
+<!ENTITY previousMsgCmd.accesskey "M">
+<!ENTITY prevUnreadMsgCmd.label "Mesazh i Palexuar">
+<!ENTITY prevUnreadMsgCmd.accesskey "U">
+<!ENTITY previousUnreadMsgCmd.key "p">
+<!ENTITY previousUnreadMsgCmd.accesskey "U">
+<!ENTITY startPageCmd.label "Faqe Fillimi Poste">
+<!ENTITY startPageCmd.accesskey "S">
+<!ENTITY msgMenu.label "Mesazh">
+<!ENTITY msgMenu.accesskey "M">
+<!ENTITY newMsgCmd.label "Mesazh I ri">
+<!ENTITY newMsgCmd.accesskey "N">
+<!ENTITY newNewMsgCmd.label "Mesazh">
+<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY replyMsgCmd.label "Përgjigju">
+<!ENTITY replyMsgCmd.accesskey "R">
+<!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replySenderCmd.label "Përgjigjju Vetëm Dërguesit">
+<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyNewsgroupCmd.label "Përgjigju te &quot;Newsgroup&quot;">
+<!ENTITY replyNewsgroupCmd.accesskey	"y">
+<!ENTITY replyToAllMsgCmd.label "Përgjigjju të Tërëve">
+<!ENTITY replyToAllMsgCmd.accesskey	"p">
+<!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY forwardMsgCmd.label "Përcill">
+<!ENTITY forwardMsgCmd.accesskey "F">
+<!ENTITY forwardMsgCmd.key	"l">
+<!ENTITY forwardAsMenu.label "Përcill Si">
+<!ENTITY forwardAsMenu.accesskey "w">
+<!ENTITY forwardAsInline.label "Inline">
+<!ENTITY forwardAsInline.accesskey "I">
+<!ENTITY forwardAsAttachmentCmd.label "Bashkangjitje">
+<!ENTITY forwardAsAttachmentCmd.accesskey "A">
+<!ENTITY editMsgAsNewCmd.label "Përpunoni Si Mesazh Të ri">
+<!ENTITY editMsgAsNewCmd.accesskey "E">
+<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY createFilter.label "Krijo Filtër Prej Mesazhi...">
+<!ENTITY createFilter.accesskey "a">
+<!ENTITY moveMsgMenu.label "Lëviz">
+<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY copyMessageLocation.label "Kopjo Vendndodhje Mesazhi">
+<!ENTITY copyMessageLocation.accesskey "M">
+<!ENTITY copyMsgMenu.label "Kopjo">
+<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY killThreadMenu.label "Shpërfill Rrjedhë">
+<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Kqyr Rrjedhë">
+<!ENTITY watchThreadMenu.accesskey "W">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY fileHereMenu.label "Kartelë Këtu">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY copyHereMenu.label "Kopjo Këtu">
+<!ENTITY copyHereMenu.accesskey "C">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Shenjo">
+<!ENTITY markMenu.accesskey "k">
+<!ENTITY markAsReadCmd.label "Si Të lexuar">
+<!ENTITY markAsReadCmd.accesskey "R">
+<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Si Të palexuar">
+<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markThreadAsReadCmd.label "Rrjedhë e Lexuar">
+<!ENTITY markThreadAsReadCmd.accesskey "T">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Si Të lexuar më Datë...">
+<!ENTITY markReadByDateCmd.accesskey "D">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Tërë Të lexuar">
+<!ENTITY markAllReadCmd.accesskey "A">
+<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "Shto Yllkë">
+<!ENTITY markStarredCmd.accesskey "S">
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Si Hedhurinë">
+<!ENTITY markAsJunkCmd.accesskey "J">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Si Jo Hedhurinë">
+<!ENTITY markAsNotJunkCmd.accesskey "N">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Nis Kontrollo Poste Hedhurinë"> 
+<!ENTITY recalculateJunkScoreCmd.accesskey "C">
+<!ENTITY openMessageWindowCmd.label "Hap Mesazh">
+<!ENTITY openMessageWindowCmd.accesskey "O">
+<!ENTITY openMessageWindowCmd.key "o">
+
+<!-- Windows Menu -->
+<!ENTITY windowMenu.label "Dritare">
+<!ENTITY windowMenu.accesskey "W">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Mjete">
+<!ENTITY tasksMenu.accesskey "T">
+
+
+
+
+
+
+<!ENTITY messengerCmd.label "Postë &amp; &quot;Newsgroup&quot;-e">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Libër Vendndodhjesh">  
+<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY junkMailCmd.label "Kontrolle Poste Hedhurinë...">
+<!ENTITY junkMailCmd.accesskey "J">
+<!ENTITY runJunkControls.label "Zbato mbi Dosje Kontrolle Poste Hedhurinë">
+<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY deleteJunk.label "Fshi Postë të Shënuar si Hedhurinë në Dosje">
+<!ENTITY deleteJunk.accesskey "l">
+
+
+
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "Ndihmë">
+<!ENTITY helpMenu.accesskey "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Ndihmë"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+
+
+
+<!ENTITY releaseCmd.label "Shënime Versioni">
+<!ENTITY releaseCmd.accesskey "R"> 
+<!ENTITY hintsAndTips.label "Ndihmë për &brandFullName;-in">
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY hintsAndTips.accesskey "h">
+<!ENTITY updateCmd.accesskey  "o">
+<!ENTITY updateCmd.label      "Kontrollo për Përidtësime...">
+<!ENTITY aboutCmd.label "Rreth &brandFullName-it;">
+<!ENTITY aboutCmd.accesskey "A">
+
+<!-- Mail Toolbar -->
+<!ENTITY getMsgButton.label "Merr Postën">
+<!ENTITY newMsgButton.label "Shkruaj">
+<!ENTITY replyButton.label "Përgjigju">
+<!ENTITY replyAllButton.label "Përgjigjju Të tërëve">
+<!ENTITY forwardButton.label "Përcill">
+<!ENTITY fileButton.label "Kartelë">
+<!ENTITY nextButton.label "Pasuesi">
+<!ENTITY previousButton.label "I mëparshmi">
+<!ENTITY deleteButton.label "Fshij">
+<!ENTITY markButton.label "Shenjo">
+<!ENTITY printButton.label "Shtyp">
+<!ENTITY stopButton.label "Ndal">
+<!ENTITY throbberItem.title "Tregues Veprimtarie">
+<!ENTITY updatesItem.title  "Përditësime">
+<!ENTITY junkButton.label "Hedhurina">
+<!ENTITY notJunkButton.label "Jo Hedhurinë">
+<!ENTITY addressBookButton.label "Libër Vendndodhjesh">
+
+<!-- Mail Toolbar Tooltips-->
+<!ENTITY advancedButton.tooltip "Kërkim i mëtejshëm në mesazhe">
+<!ENTITY clearButton.tooltip "Pastro kriter kërkimi dhe shfaq tërë mesazhet">
+<!ENTITY getMsgButton.tooltip "Ki mesazhe të rinj">
+<!ENTITY newMsgButton.tooltip "Krijo një mesazh të ri">
+<!ENTITY replyButton.tooltip "Përgjigjju mesazhit">
+<!ENTITY replyAllButton.tooltip "Përgjigjju dërguesit dhe tërë marrësve">
+<!ENTITY forwardButton.tooltip "Përcill mesazhet e përzgjedhur">
+<!ENTITY fileButton.tooltip "Kartelizo mesazhin e përzgjedhur">
+<!ENTITY nextButton.tooltip "Shko te mesazhi i palexuar pasues">
+<!ENTITY previousButton.tooltip "Kalo te mesazhi i mëparshëm i palexuar">
+<!ENTITY deleteButton.tooltip "Fshij mesazhe ose dosje të përzgjedhur">
+<!ENTITY markButton.tooltip "Shenjo mesazhe">
+<!ENTITY printButton.tooltip "Shtyp këtë mesazh">
+<!ENTITY stopButton.tooltip "Ndal shpërnguljen e çastit">
+<!ENTITY junkButton.tooltip "Shenjo si hedhurinë mesazhet e përzgjedhur">
+<!ENTITY notJunkButton.tooltip "Shenjo si jo hedhurinë mesazhet e përzgjedhur">
+<!ENTITY addressBookButton.tooltip "Shko te libri i vendndodhjeve">
+
+<!-- Folder Pane -->
+
+<!ENTITY folderColumn.label "Emër">
+<!ENTITY folderSizeColumn.label "Madhësi">
+
+<!-- Folder Pane Context Menu -->
+
+
+<!ENTITY folderContextOpenNewWindow.label "Hap">
+<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextRename.label "Riemërto">
+<!ENTITY folderContextRename.accesskey "R">
+<!ENTITY folderContextRemove.label "Fshij">
+<!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextCompact.label "Ngjesh">
+<!ENTITY folderContextCompact.accesskey "C">
+<!ENTITY folderContextEmptyTrash.label "Zbraz Hedhurina">
+<!ENTITY folderContextEmptyTrash.accesskey "y">
+<!ENTITY folderContextSendUnsentMessages.label "Dërgo Mesazhe Të padërguar">
+<!ENTITY folderContextSendUnsentMessages.accesskey "d">
+<!ENTITY folderContextUnsubscribe.label "Çpajtohuni">
+<!ENTITY folderContextUnsubscribe.accesskey "U">
+<!ENTITY folderContextMarkNewsgroupRead.label "Shenjo &quot;Newsgroup&quot;-in si Të lexuar">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
+<!ENTITY folderContextMarkMailFolderRead.label "Shenjo Dosjen Si Të lexuar">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
+<!ENTITY folderContextSubscribe.label "Pajtohuni...">
+<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSearchMessages.label "Kërko...">
+<!ENTITY folderContextSearchMessages.accesskey "S">
+<!ENTITY folderContextProperties.label "Veti...">
+<!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextCopyLocation.label "Kopjo Vendndodhje Dosjeje">
+<!ENTITY folderContextCopyLocation.accesskey "L">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Emri ose Email-i përmban:">
+<!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY clearButton.label "Pastro">
+<!ENTITY clearButton.accesskey "C">
+
+<!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "Subjekt">
+<!ENTITY searchSenderMenu.label "Dërgues">
+<!ENTITY searchSubjectOrSenderMenu.label "Subjekt ose Dërgues">
+<!ENTITY searchRecipient.label "To or Cc">
+<!ENTITY searchMessageBody.label "Tërë Mesazhin">
+<!ENTITY saveAsVirtualFolderMenu.label "Ruaj Kërkimin si Dosje...">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Rrjedhë">
+<!ENTITY senderColumn.label "Dërgues">
+<!ENTITY recipientColumn.label "Marrës">
+<!ENTITY subjectColumn.label "Subjekt">
+<!ENTITY dateColumn.label "Datë">
+<!ENTITY priorityColumn.label "Përparësi">
+<!ENTITY tagsColumn.label "Shenjë">
+<!ENTITY accountColumn.label "Llogari">
+<!ENTITY statusColumn.label "Gjendje">
+<!ENTITY sizeColumn.label "Madhësi">
+<!ENTITY junkStatusColumn.label "Gjendje Hedhurinë">
+<!ENTITY linesColumn.label "Rreshta">
+<!ENTITY unreadColumn.label "Të palexuar">
+<!ENTITY totalColumn.label "Gjithsej">
+<!ENTITY readColumn.label "Lexuar">
+<!ENTITY starredColumn.label "Yllkë">
+<!ENTITY locationColumn.label "Vendndodhje">
+<!ENTITY idColumn.label "Rend sipas Mbërritjes">
+<!ENTITY attachmentColumn.label "Bashkangjitje">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Klikoni për të përzgjedhur shtylla për t&apos;u shfaqur">
+<!ENTITY threadColumn.tooltip "Klikoni për të shfaqur rrjedha mesazhesh"> 
+<!ENTITY senderColumn.tooltip "Klikoni për t&apos;i renditur sipas dërguesish">
+<!ENTITY recipientColumn.tooltip "Klikoni për t&apos;i renditur sipas marrësish">
+<!ENTITY subjectColumn.tooltip "Klikoni për t&apos;i renditur sipas subjektesh">
+<!ENTITY dateColumn.tooltip "Klikoni për t&apos;i renditur sipas datash">
+<!ENTITY priorityColumn.tooltip "Klikoni për t&apos;i renditur sipas përparësish">
+<!ENTITY tagsColumn.tooltip "Klikoni për t&apos;i renditur sipas shenjash">
+<!ENTITY accountColumn.tooltip "Klikoni për t&apos;i renditur sipas llogarish">
+<!ENTITY statusColumn.tooltip "Klikoni për t&apos;i renditur sipas gjendjesh">
+<!ENTITY sizeColumn.tooltip "Klikoni për t&apos;i renditur sipas madhësish">
+<!ENTITY junkStatusColumn.tooltip "Klikoni për t&apos;i renditur sipas gjendjesh për hedhurinë">
+<!ENTITY unreadColumn.tooltip "Numër mesazhesh të palexuar në rrjedhë">
+<!ENTITY totalColumn.tooltip "Numër mesazhesh në rrjedhë gjithsej">
+<!ENTITY readColumn.tooltip "Klikoni për t&apos;i renditur sipas të lexuarve">
+<!ENTITY starredColumn.tooltip "Klikoni për t&apos;i renditur sipas yllkash">
+<!ENTITY locationColumn.tooltip "Klikoni për t&apos;i renditur sipas vendit">
+<!ENTITY idColumn.tooltip "Klikoni për t&apos;i renditur sipas rendit të mbërritjes">
+<!ENTITY attachmentColumn.tooltip "Klikoni për t&apos;i renditur sipas bashkangjitjesh">
+
+<!-- Thread Pane Context Menu -->
+<!ENTITY contextOpenNewWindow.label "Hap Mesazh në Dritare të Re">
+<!ENTITY contextOpenNewWindow.accesskey "W">
+<!ENTITY contextEditAsNew.label "Përpunoni Si Të Ri...">
+<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextReplySender.label "Përgjigjju Vetëm Dërguesit">
+<!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyNewsgroup.label "Përgjigju te &quot;Newsgroup&quot;-i">
+<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyAll.label "Përgjigje për Të tërë">
+<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextForward.label "Përcill">
+<!ENTITY contextForward.accesskey "F">
+<!ENTITY contextForwardAsAttachment.label "Përcilli si Bashkangjitje">
+<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextMoveMsgMenu.label "Shko Te">
+<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextCopyMsgMenu.label "Kopjo Te">
+<!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextSaveAs.label "Ruaj Si...">
+<!ENTITY contextSaveAs.accesskey "S">
+<!ENTITY contextPrint.label "Shtyp...">
+<!ENTITY contextPrint.accesskey "P">
+<!ENTITY contextPrintPreview.label "Paraparje e Shtypjes">
+<!ENTITY contextDelete.label "Fshij">
+<!ENTITY contextDelete.accesskey "D">
+<!ENTITY contextAddSenderToAddressBook.label "Shto Dërguesin Te Libër Vendndodhjesh">
+<!ENTITY contextAddSenderToAddressBook.accesskey "B">
+<!ENTITY contextAddAllToAddressBook.label "Shtoji Të tërë Te Libër Vendndodhjesh">
+<!ENTITY contextAddAllToAddressBook.accesskey "A">
+
+<!-- Junk Bar -->
+<!ENTITY junkBarMessage.label "&brandShortName;-it ky mesazh i duket si mesazh hedhurinë.">
+<!ENTITY junkBarButton.label "Ky Nuk është Hedhurinë">
+<!ENTITY junkInfoButton.label "?">
+
+<!-- Remote Content Bar -->
+<!ENTITY remoteContentMessage.label "Për të mbrojtur vetësinë tuaj, &brandShortName;-i ka bllokuar  në këtë mesazh pamje të largëta.">
+<!ENTITY loadRemoteContentButton1.label "Ngarko Pamje">
+
+<!-- Phshing bar Bar -->
+<!ENTITY phishingBarMessage.label "&brandShortName;-it ky mesazh i duket si email mashtrues.">
+<!ENTITY removePhishingBarButton.label "Jo Mashtrues">
+
+<!-- Search Bar -->
+<!ENTITY quickSearchCmd.key "k">
+
+<!-- Message Header Context Menu -->
+<!ENTITY AddToAddressBook.label "Shto te Libër Vendndodhjesh...">
+<!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY SendMailTo.label "Harto Postë Për">
+<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY CopyEmailAddress.label "Kopjo Vendndodhje Email">
+<!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CreateFilter.label "Krijo Filtër prej Mesazhi...">
+<!ENTITY CreateFilter.accesskey "F">
+<!ENTITY BlockAddress.label "Blloko Vendndodhje">
+<!ENTITY BlockAddress.accesskey "A">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label "Kryer">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Minimizo">
+<!ENTITY bringAllToFront.label "Bjeri Të tërë në Ballë">
+<!ENTITY zoomWindow.label "Zoom">
+
+
+<!ENTITY folderContextFavoriteFolder.label "Dosje Të parapëlqyerish">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
+
+<!ENTITY newTabCmd.label "Skedë e Re">
+<!ENTITY newTabCmd.accesskey "T">
+<!ENTITY closeTabCmd.label "Mbyll Skedën">
+<!ENTITY closeTabCmd.accesskey "e">
+
+<!ENTITY offlineMenu.label "I palidhur">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "Puno i Palidhur">
+<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY synchronizeOfflineCmd.label "Shkarko/Njëkohëso Tani...">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd.label "Rregullime për i Palidhur...">
+<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Merr Mesazhet e Përzgjedhur">
+<!ENTITY downloadSelectedCmd.accesskey "M">
+<!ENTITY downloadStarredCmd.label "Merr Mesazhet me Yllkë">
+<!ENTITY downloadStarredCmd.accesskey "a">
+
+<!ENTITY threadPaneWide.label "Parje si Listë e Gjerë">
+<!ENTITY threadPaneWide.accesskey "i">
+
+<!ENTITY goForwardCmd.label "Përpara">
+<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Prapa">
+<!ENTITY goBackCmd.accesskey "B">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevStarredMsgCmd.label "Mesazh me Yllkë">
+<!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY moveCopyMsgRecentMenu.label "Më të fundit">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY moveToFolderAgain.label "Lëvize Sërish">
+<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY backButton1.label "Prapa">
+<!ENTITY goForwardButton1.label "Përpara">
+<!ENTITY folderLocationToolbarItem.title "Vend Dosjeje">
+<!ENTITY tagButton.label "Shenjë">
+<!ENTITY goForwardButton.tooltip "Hidhu një mesazh përpara">
+<!ENTITY goBackButton.tooltip "Hidhu njq mesazh prapa">
+
+<!ENTITY tagButton.tooltip "Shenjo mesazhe">
+
+<!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "Shenjë e Re...">
+<!ENTITY addNewTag.accesskey "N">
+
+<!ENTITY folderContextOpenNewTab.label "Hap në Skedë të Re">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
+<!ENTITY folderContextNew.label "Nëndosje e Re...">
+<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY contextOpenNewTab.label "Hape Mesazhin në Skedë të Re">
+<!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Më të fundit">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextPrintPreview.accesskey "v">
+
+<!ENTITY reportPhishingURL.label "Raporto E-mail Mashtrues">
+<!ENTITY reportPhishingURL.accesskey "o"> 

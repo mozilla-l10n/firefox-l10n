@@ -1,0 +1,17 @@
+<!ENTITY virtualFolderProperties.title "Dosje e Re Kërkimi të Ruajtur">
+<!ENTITY name.label                 "Emër:">
+<!ENTITY name.accesskey             "n">
+<!ENTITY description.label          "Krijoje si nëndosje të:">
+<!ENTITY description.accesskey      "C">
+<!ENTITY searchCriteriaText.label   "Ndryshoni kriterin e kërkimit të përdorur për këtë kërkim të ruajtur:">
+<!ENTITY searchCriteriaButton.label "Kriter Kërkimi...">
+<!ENTITY searchCriteriaButton.accesskey "S">
+
+<!ENTITY searchTermCaption.label "Formësoni kriterin e kërkimit të përdorur për këtë dosje kërkimi të ruajtur: ">
+
+<!ENTITY folderSelectionCaption.label "Përzgjidhni dosjet për kërkim: ">
+<!ENTITY chooseFoldersButton.label "Zgjidhni...">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Kërkoni Online (Jep përfundime të përditësuar për dosje IMAP dhe Lajmesh por rrit kohën e hapjes së dosjes)">
+<!ENTITY searchOnline.accesskey "O">

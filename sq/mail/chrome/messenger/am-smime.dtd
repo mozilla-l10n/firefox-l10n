@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Siguri">
+<!ENTITY securityHeading.label "Për të marrë dhe dërguar mesazhe të nënshkruar ose të koduar, do të duhej të jepni një dëshmi nënshkrimesh shifrore dhe një dëshmi kodimesh.">
+<!ENTITY encryptionGroupTitle.label "Kodim">
+<!ENTITY encryptionChoiceLabel.label "Rregullime kodimi parazgjedhje kur dërgohen mesazhe:">
+<!ENTITY neverEncrypt.label "Kurrë (mos përdor kodim)">
+<!ENTITY alwaysEncryptMessage.label "E nevojshme (s&apos;mund të dërgoj mesazhe veç në paçin tërë marrësit dëshmi)">
+<!ENTITY encryptionCert.message "Përdor këtë dëshmi për të koduar &amp; çkoduar mesazhe të dërguar te ju:">
+<!ENTITY encryptionCert.notselected "Pa dëshmi">
+<!ENTITY certificate.button "Përzgjidhni...">
+<!ENTITY certificate_clear.button "Pastro">
+<!ENTITY signingGroupTitle.label "Nënshkrim Numerik">
+<!ENTITY signMessage.label "Nënshkruaj në mënyrë shifrore (si parazgjedhje) mesazhe">
+<!ENTITY signingCert.message "Përdorni këtë dëshmi për të nënshkruar në mënyrë shifrore mesazhet që dërgoni:">
+<!ENTITY signingCert.notselected "Pa dëshmi">
+
+<!ENTITY certificates.label     "Dëshmi">
+<!ENTITY managecerts.label      "Shihni Dëshmi">
+<!ENTITY managecerts.accesskey  "V">
+<!ENTITY managedevices.label    "Pajisje Siguries">
+<!ENTITY managedevices.accesskey "S">

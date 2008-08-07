@@ -1,0 +1,42 @@
+<!ENTITY  noProxyTypeRadio.label        "Pa ndërmjetës">
+<!ENTITY  noProxyTypeRadio.accesskey    "a">
+<!ENTITY  systemTypeRadio.label         "Përdor rregullime sistemi për ndërmjetësin">
+<!ENTITY  systemTypeRadio.accesskey     "j">
+<!ENTITY  connectionsDialog.title       "Rregullime Lidhjeje">
+<!ENTITY window.width                   "45em">
+<!ENTITY  window.macWidth               "47em">
+<!ENTITY FTPport.accesskey "r">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SOCKSport.accesskey "ë">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY WPADTypeRadio.accesskey "j">
+<!ENTITY WPADTypeRadio.label "Vetëzbulo rregullime ndërmjetësi për këtë rrjet">
+<!ENTITY autoTypeRadio.accesskey "v">
+<!ENTITY autoTypeRadio.label "URL formësimi të vetvetishëm për ndërmjetësin:">
+<!ENTITY ftp.accesskey "F">
+<!ENTITY ftp.label "Ndërmjetës FTP:">
+<!ENTITY gopher.accesskey "G">
+<!ENTITY gopher.label "Ndërmjetës Gopher:">
+<!ENTITY gopherPort.accesskey "t">
+<!ENTITY http.accesskey "h">
+<!ENTITY http.label "Ndërmjetës HTTP:">
+<!ENTITY manualTypeRadio.accesskey "d">
+<!ENTITY manualTypeRadio.label "Formësim ndërmjetësi dorazi">
+<!ENTITY noproxy.accesskey "m">
+<!ENTITY noproxy.label "Pa Ndërmjetës për:">
+<!ENTITY noproxyExplain.label "Shembull: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY port.label "Portë:">
+<!ENTITY proxyTitle.label "Formësoni Ndërmjetësa për Hyrje në Internet">
+<!ENTITY reload.accesskey "R">
+<!ENTITY reload.label "Ringarko">
+<!ENTITY shareproxy.accesskey "k">
+<!ENTITY shareproxy.label "Përdor të njëjtin ndërmjetës për tërë protokollet">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks.label "Strehë SOCKS:">
+<!ENTITY socks4.accesskey "4">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks5.accesskey "5">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY ssl.accesskey "S">
+<!ENTITY ssl.label "Ndërmjetës SSL:">
+

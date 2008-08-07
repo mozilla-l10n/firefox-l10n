@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label            "Libër Vendndodhjesh:">
+<!ENTITY searchInput.label                  "Kërko Për:">
+<!ENTITY SearchNameOrEmail.label            "Emër ose Email">
+
+<!ENTITY addtoToFieldMenu.label             "Shto te fusha Për">
+<!ENTITY addtoCcFieldMenu.label             "Shto te fusha Cc">
+<!ENTITY addtoBccFieldMenu.label            "Shto te fusha Bcc">
+
+<!ENTITY toButton.label                     "Shto te Për:">
+<!ENTITY ccButton.label                     "Shto te Cc:">
+

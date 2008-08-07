@@ -1,0 +1,25 @@
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "E">
+<!ENTITY editBookmarkOverlay.location.accesskey              "V">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "A">
+<!ENTITY editBookmarkOverlay.description.accesskey           "P">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "U">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
+
+<!ENTITY editBookmarkOverlay.name.label                      "Emër:">
+<!ENTITY editBookmarkOverlay.location.label                  "Vendndodhje:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Vendndodhje Prurjeje:">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Vendndodhje &quot;Site&quot;-i:">
+<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Tituj të Gjallë">
+<!ENTITY editBookmarkOverlay.folder.label                    "Dosje:">
+
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Shfaq tërë dosjet e faqerojtësave">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Fshihe">
+<!ENTITY editBookmarkOverlay.tags.label                      "Etiketa:">
+<!ENTITY editBookmarkOverlay.description.label               "Përshkrim:">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Fjalëkyç:">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Shfaq tërë etiketat">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Ngarkoje këtë faqerojtës te anështylla">
+<!ENTITY editBookmarkOverlay.choose.label                    "Zgjidhni…">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Veçojini etiketat me presje.">

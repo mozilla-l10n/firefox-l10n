@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Regjistrime RSS">
+<!ENTITY subscriptionDesc.label "Shënim: Heqja apo ndryshimi i dosjes për prurjet nuk do të prekë artikuj të shkarkuar më parë.">
+<!ENTITY feedTitle.label "Titull:">
+<!ENTITY location.label  "Vendndodhje:">
+
+<!ENTITY button.addFeed.label       "Shto">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "Përpunoni">
+<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.removeFeed.label "Hiq">
+<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.importOPML.label "Importo">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Eksporto">
+<!ENTITY button.exportOPML.accesskey   "X">
+
+<!ENTITY cmd.close.commandKey             "w">

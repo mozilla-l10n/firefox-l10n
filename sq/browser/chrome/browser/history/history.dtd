@@ -1,0 +1,28 @@
+<!ENTITY bookmarkLink.accesskey "F">
+<!ENTITY bookmarkLink.label "Faqeruaj Këtë Lidhje...">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY byDate.label "Sipas Datash">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY byDayAndSite.label "Sipas Datash dhe &quot;Site&quot;-esh">
+<!ENTITY byLastVisited.accesskey "F">
+<!ENTITY byLastVisited.label "Sipas Vizituar së Fundmi">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byMostVisited.label "Sipas Më të Vizituarit">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY bySite.label "Sipas &quot;Site&quot;-esh">
+<!ENTITY collapse.accesskey "P">
+<!ENTITY collapse.label "Palos">
+<!ENTITY copyLink.accesskey "K">
+<!ENTITY copyLink.label "Kopjo Vendndodhje Lidhjeje">
+<!ENTITY expand.accesskey "Z">
+<!ENTITY expand.label "Zgjero">
+<!ENTITY find.accesskey "K">
+<!ENTITY find.label "Kërko:">
+<!ENTITY openInNewTab.accesskey "S">
+<!ENTITY openInNewTab.label "Hap në Skedë të Re">
+<!ENTITY openInNewWindow.accesskey "D">
+<!ENTITY openInNewWindow.label "Hap në Dritare të Re">
+<!ENTITY openLinkInWindow.accesskey "H">
+<!ENTITY openLinkInWindow.label "Hap">
+<!ENTITY view.label "Shihni">
+<!ENTITY view.accesskey "S">

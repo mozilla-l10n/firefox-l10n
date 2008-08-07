@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Karakteristika Hyrshmërie të &brandFullName;-it</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Karakteristika Hyrshmërie të &brandFullName;-it</h1>
+
+  <p>&brandShortName;-i përfshin mjaft karakteristika që e bëjnë shfletuesin dhe përmbajtjen e web-it
+    të përdorshme për tërë përdoruesit, përfshi ata që kanë shikim të dobët, nuk shohin, 
+    ose kanë mundësi të kufizuara për përdorim tastiere apo miu.</p>
+
+  <div class="contentsBox">Në këtë ndarje:
+    <ul>
+    <li><a href="#using_a_keyboard">Të përdorurit e Tastierës</a></li>
+    <li><a href="#using_a_mouse">Të përdorurit e Miut</a></li>
+    <li><a href="#fonts_and_colors">Gërma dhe Ngjyra</a></li>
+    <li><a href="#controlling_web_content">Kontroll Përmbajtjeje Web</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Përputhshmëri me
+      Teknologji Ndihmuese</a></li>
+    <li><a href="#finding_help_online">Si të gjehet Ndihmë Online</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Të përdorurit e Tastierës</h2>
+
+  <h3 id="keyboard_shortcuts">Shkurtore Tastiere</h3>
+
+  <p>Një listë me shkurtore të zakonshme tastiere mund ta gjeni te
+    <a href="shortcuts.xhtml">Shkurtore Tastiere për &brandShortName;-in</a>.
+    Online, mund të gjeni <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">një tabelë krahasuese
+    shkurtoresh tastiere</a> të zbatuara në &brandShortName;,
+    Microsoft Internet Explorer, dhe Opera.</p>
+
+  <h3 id="allow_text_to_be_selected_with_the_keyboard">Si të Lejohet Përzgjedhje
+    Teksti Përmes Tastierës</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Si të Lejohet Përzgjedhje
+    Teksti Përmes Tastierës</a> ju mundëson lëvizjen nëpër përmbajtje web si të ishit
+    brenda një dokumenti që vetëm mund të lexohet.
+    Mund të përdorni tastierën për të përzgjedhur përmbajtje web dhe ta kopjoni atë
+    në të papastër.  Mund ta aktivizoni këtë karakteristikë duke përzgjedhur &pref.menuPath;,
+    duke hapur pastaj skedën <em>Të përgjithshme</em> te paneli <em>Të mëtejshëm</em>,
+    dhe duke i vënë shenjë parapëlqimit <em>Lejo përzgjedhje
+    teksti përmes tastierës</em>.</p>
+
+  <p>Mund të shtypni <kbd>F7</kbd> në çfarëdo kohe për ta aktivizuar ose çaktivizuar këtë
+    karakteristikë.  Kur shtypni <kbd>F7</kbd>, &brandShortName;-i do t'ju pyesë
+    nëse doni vërtet ta aktivizoni këtë karakteristikë.  Mund ta çaktivizoni këtë kërkesë duke përzgjedhur
+    <em>Mos e shfaq sërish këtë dialog.</em></p>
+
+  <h3 id="begin_finding_when_you_begin_typing">Fillo Gjetje Kur Fillohet Shtypje</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Fillo Gjetje Kur Fillohet Shtypje</a> 
+    ju lejon të lundroni shpejt nëpër tekst ose tejlidhje në një faqe
+    web.  Kjo karakteristikë ka dy mënyra. Shtypni
+    <abbr title="forward slash"><kbd>/</kbd></abbr> dhe
+    filloni të shtypni për të kërkuar nëpër tërë tekstin te faqja e çastit, ose shtypni
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> para vargut tuaj për të kërkuar vetëm
+    tejlidhje.  &brandShortName;-i do të theksojë tekst ose tejlidhje me përputhje
+    kundrejt kërkimit ndërkohë që ju shtypni.</p>
+
+  <p>Kjo karakteristikë kontrollohet nga shkurtoret vijuese të tastierës:</p>
+
+  <ul>
+    <li>Shtypni më tepër gërma për ta ngushtuar kërkimin tuaj.  &brandShortName;-i
+      do të theksojë tejlidhjen pasuese ose tekstin me përputhje ose do t'ju
+      sinjalizojë që nuk u gjet gjë.</li>
+    <li>Shtypni &accelKey;+<kbd>G</kbd> ose <kbd>F3</kbd> për të gjetur hasjet pasuese
+      për vargun tuaj të çastit për kërkimin.</li>
+    <li>Shtypni &accelKey;+&shiftKey;+<kbd>G</kbd> ose &shiftKey;+<kbd>F3</kbd>
+      për të gjetur hasjet e mëparshme për vargun tuaj të çastit për kërkimin.</li>
+    <li>Shtypni <kbd>Backspace</kbd> për të zhbërë gërmën e fundit që shtypët.
+      &brandShortName;-i do të kthehet te teksti i theksuar më parë.</li>
+    <li>Shtypni <kbd>Esc</kbd> për të anuluar një kërkim.  Mundet gjithashtu të anuloni 
+      një kërkim duke ndryshuar fokus, rrëshqitur nëpër faqe me miun ose
+      tastierën, ose thjesht duke pritur që të skadojë koha.</li>
+  </ul>
+
+  <p>Mund të ndryshoni sjelljen parazgjedhje të kësaj karakteristike duke përzgjedhur
+    &pref.menuPath;, hapur skedën <em>Të përgjithshëm</em> të panelit 
+    <em>Të mëtejshëm</em>, dhe vënë shenjë parapëlqimit <em>Fillo gjetje kur fillohet shtypje</em>. 
+    Nëse kjo mundësi është e përzgjedhur, mund të filloni të shtypni në çfarëdo kohe 
+    për të vetëfilluar një kërkim së brendshmi. Si parazgjedhje, 
+    kërkimet e vetëfilluar shohin për tërë tekstin në faqe.
+    Mundeni prapëseprapë të shtypni
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> ose
+    <abbr title="forward slash"><kbd>/</kbd></abbr> për të filluar gjetje
+    në një mënyrë a një tjetër.</p>
+
+  <p>Mund ta përdorni këtë karakteristikë për të kaluar te butona, kuti teksti dhe
+    pjesë të tjera formularësh.  Kërkoni për tekst pikërisht para pjesës së formularit që doni
+    dhe shtypni <kbd>Tab</kbd>. Duke shtypur <kbd>Tab</kbd> dilet vetvetiu
+    prej kërkimit dhe fokusi kalohet te fusha pasuese e formularit ose butoni
+    pas tekstit të theksuar.</p>
+
+  <h2 id="using_a_mouse">Të përdorurit e Miut</h2>
+
+  <h3 id="common_mouse_shortcuts">Shkurtore të Zakonshme Miu</h3>
+
+  <p>Një listë me shkurtore të zakonshme miu mund ta gjeni te
+    <a href="mouse_shortcuts.xhtml">Shkurtore Miu për &brandShortName;-in</a>.</p>
+
+  <h2 id="fonts_and_colors">Gërma dhe Ngjyra</h2>
+
+  <h3 id="overriding_page_fonts">Anashkalim Gërmash Faqeje</h3>
+
+  <p>Disa "site"-e web mund ta shfaqin përmbajtjen me gërma që janë të vështira për t'u lexuar,
+    dhe "site"-e të tjerë mund të bazohen te gërmat parazgjedhje të shfletuesit.  Mund të caktoni
+    parazgjedhjen tuaj duke shkuar te &pref.menuPath;, përzgjedhur panelin
+    <em>Përmbajtje</em>, dhe përzgjedhur një lloj gërmash dhe madhësinë te
+    ndarja <em>Gërma &amp; Ngjyra</em>.</p>
+
+  <p>Mund të përcaktoni gërma parazgjedhje për stile të ndryshëm, përfshi serif,
+    sans-serif, dhe monospace duke klikuar butonin <em>Të mëtejshëm</em>.
+    Sidoqoftë, mjaft faqe web përcaktojnë vetë gërmat e tyre, kështu që zgjedhjet tuaja
+    nuk do të kenë efekt në faqe të tilla.  Për të anashkaluar gërmat e përcaktuara nga faqe të tilla,
+    hiqini shenjën parapëlqimit <em>Lejo faqet të zgjedhin vetë gërmat e tyre, në vend të përzgjedhjeve të mia
+    më sipër</em>.</p>
+
+  <p>Mbani parasysh që disa faqe web mund të shfaqen pasaktësisht në varësi të zgjedhjes suaj për
+    gërmat parazgjedhje.</p>
+
+  <h3 id="setting_a_minimum_font_size">Caktimi i një Madhësie Minimum Gërmash</h3>
+
+  <p>Disa faqe web mund të shfaqin tekst i cili është shumë i vogël për ta lexuar
+    pa sforcim.  Për t'i bërë faqe të tilla më lehtë të lexueshme, mund të caktoni një
+    madhësi minimum gërmash. Në faqe web të cilat provojnë të shfaqin tekst më të vogël se
+    kjo madhësi, &brandShortName;-i do të zmadhojë tekstin deri në madhësinë e zgjedhur prej jush.</p>
+
+  <p>Për të caktuar një madhësi gërmash minimum, shkoni te &pref.menuPath;, përzgjidhni panelin
+    <em>Përmbajtje</em>, dhe klikoni butonin <em>Të mëtejshëm</em> te ndarja
+    <em>Gërma &amp; Ngjyra</em>.  Mund të përcaktoni një madhësi minimum gërmash
+    prej menusë hapmbyll.</p>
+
+  <p>Mbani parasysh që disa faqe web mund të shfaqen pasaktësisht, në varësi të zgjedhjes suaj për
+    madhësinë minimum për gërmat.</p>
+
+  <h3 id="resizing_page_text">Ripërmasim Teksti Faqeje</h3>
+
+  <p>Nga menuja <span class="menuPath">Pamje &gt; Madhësi Teksti</span>
+     mund të ndryshoni përkohësisht madhësinë e tekstit në çfarëdo faqe web.  Madhësia e re
+     do të mbetet në fuqi derisa të mbyllni dritaren ose skedën e shfletuesit, 
+     edhe nëse lundroni në një tjetër "site" web.</p>
+
+  <p>Shkurtoret vijuese për tastierën kontrollojnë madhësinë e tekstit:</p>
+
+  <ul>
+    <li>Shtypni &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> për
+      të rritur madhësinë e tekstit.  Kjo e zmadhon tekstin në 120% të madhësisë së
+      origjinalit, mandej 150%, 200%, 300%, 450%, 675%, 1013%, dhe 1519%.</li>
+    <li>Shtypni &accelKey;+<kbd><abbr title="minus">-</abbr></kbd> për të zvogëluar 
+      madhësinë e tekstit.  Kjo e zvogëlon tekstin sa 90% e madhësisë së origjinalit,
+      mandej 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2%, dhe 1%.</li>
+    <li>Shtypni &accelKey;+<kbd>0</kbd> për të rikthyer madhësinë e tekstit te madhësia parazgjedhje
+        e faqes web.</li>
+  </ul>
+
+  <p>Mbani parasysh që disa faqe web mund të shfaqen pasaktësisht nëse ju rrisni ose zvogëloni
+     madhësinë e tekstit.</p>
+
+  <h3 id="overriding_page_colors">Anashkalim Ngjyrash Faqeje</h3>
+
+  <p>Disa "site"-e web mund të shfaqin ngjyra sfondi dhe teksti që janë të
+    vështira për t'u lexuar, dhe disa "site"-e të tjerë mund të bazohen te 
+    ngjyrat parazgjedhje të shfletuesit.  Mund të caktoni ngjyrat tuaja parazgjedhje
+    duke shkuar te &pref.menuPath;, përzgjedhur panelin <em>Përmbajtje</em>, 
+    dhe klikuar butonin <em>Ngjyra</em> te ndarja <em>Gërma &amp; Ngjyra</em>.  Mund të 
+    caktoni ngjyra parazgjedhje për tekst dhe sfond, si edhe ngjyra parazgjedhje 
+    për tejlidhje të vizituara ose të pavizituara.  Mund edhe të përcaktoni në 
+    duhen nënvizuar apo jo tejlidhjet.</p>
+
+  <p>Sidoqoftë, mjaft faqe web i caktojnë vetë ngjyrat e tyre, kështu që
+    zgjedhjet tuaja nuk do të kenë efekt.  Për të anashkaluar ngjyrat e përcaktuara
+    nga faqet web, hiqini shenjën parapëlqimit <em>Lejo faqet të zgjedhin vetë ngjyrat e tyre, në vend 
+    të zgjedhjeve të mia më sipër</em>.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Përdorimi i një Teme me Kontrast të Madh</h3>
+
+    <p>&brandShortName;-i e dallon vetvetiu nëse përdorni një temë me
+      Kontrast të Madh dhe shfaq gjithçka sipas skemës suaj me kontrast të madh.
+      Kjo anashkalon tërë rregullimet e tjerë të shfletuesit apo të faqeve web, 
+      dhe prek ndërfaqen e vetë &brandShortName;-it (tërë menutë, 
+      dritaret, dhe kutitë e dialogjeve) dhe përmbajtjen e çfarëdo faqeje web
+      që vizitoni.</p>
+
+    <p class="win">Për përdorim të një teme me Kontrast të Madh, shkoni te
+      <span class="menuPath">Start Menu &gt; Control Panel &gt;
+      Accessibility Options &gt; Display</span> dhei vini shenjë
+      <em>Use High Contrast</em> &pref.singular;.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Kontroll Përmbajtjeje Web</h2>
+
+  <h3 id="blocking_popup_windows">Bllokim Dritaresh Fllucka</h3>
+
+  <p>Shihni <a href="popup.xhtml">Kontroll Flluckash</a> për të dhëna rreth
+    bllokimit të dritareve flluckave.</p>
+
+  <h3 id="turning_off_java_applets">Çaktivizim Zbatimthesh Java</h3>
+
+  <p>Disa faqe web ofrojnë një përvojë të pasur ndërvepruese përmes zbatimthesh
+    Java&trade;.  Sidoqoftë, disa përdorues që bazohen në lundrim me tastierë
+    mund të kenë probleme me disa zbatimthe Java që e kalojnë fokusin vetvetiu
+    dhe nuk ofrojnë një mënyrë për <q>të dalë</q> nga zbatimthi dhe lundruar nëpër
+    pjesën tjetër të faqes web.  Nëse kjo është problem për ju,
+    mund të çaktivizoni Java-n duke shkuar te &pref.menuPath;, përzgjedhur
+    <em>Përmbajtje</em> dhe duke i hequr shenjën parapëlqimit <em>Aktivizo Java</em>.</p>
+
+  <h3 id="restricting_javascript_behavior">Kufizim Sjelljeje JavaScript</h3>
+
+  <p>Mund të çaktivizoni tërësisht JavaScript duke shkuar te &pref.menuPath;,
+    përzgjedhur panelin <em>Përmbajtje</em>, dhe duke i hequr shenjën <em>Aktivizo
+    JavaScript</em>.  Disa faqe web bazohen te JavaScript dhe mund të 
+    mos punojnë si duhet nëse JavaScript është e çaktivizuar.</p>
+
+  <p>Nëse nuk synoni të çinstaloni tërësisht JavaScript-in, ka gjithashtu
+    një numër rregullimesh të mëtejshëm JavaScript për kufizimin e hapësirës për
+    programthet.  Menjëherë pas kutisë <em>Aktivizo JavaScript</em>,
+    klikoni butonin <em>Të mëtejshëm</em> për të hapur dritaren 
+    <em>Rregullime të Mëtejshëm JavaScript</em>.  Mund të përcaktoni në lejohen a jo
+    programthet të zhvendosin apo ripërmasojnë dritare ekzistuese,
+    ngrejnë apo ulin dritare, çaktivizojnë apo zëvendësojnë menu konteksti,
+    të fshehin shtyllën e gjendjes, apo të ndryshojnë tekstin e kësaj të fundit.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Përputhshmëri me Teknologji Ndihmuese</h2>
+
+  <p>Të dhënat më të fundit rreth përputhshmërie me teknologji palësh të treta
+    mund të gjenden te
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Compatibility with assistive technologies</a>.</p>
+
+  <h2 id="finding_help_online">Si Të Gjehet Ndihmë Online</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific kujdeset për një numër
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">listash
+      postimesh për përdorues të JAWS</a>.</p>
+
+    <p>GW Micro mirëmban një numër
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">listash postimesh
+      për përdorues të Window Eyes</a>.</p>
+  </div>
+
+  <p>Mundeni <span class="win">po ashtu</span> të postoni pyetje rreth temës te
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">Forumi për Suport për
+    &brandShortName;-in</a>.</p>
+
+  <div class="contentsBox"><em>29 Gusht 2006</em></div>
+
+  <p>Të drejta Kopjimi &copy; &copyright.years; Pjesëmarrësit te Projekti Mozilla Help Viewer.</p>
+
+</body>
+</html>

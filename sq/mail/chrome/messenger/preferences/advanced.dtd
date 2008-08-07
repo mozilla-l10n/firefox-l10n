@@ -1,0 +1,89 @@
+<!ENTITY itemGeneral.label       "Të përgjithshme">
+<!ENTITY itemUpdate.label        "Përditësim">
+
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Shfaq vetëm emra ekrani për persona në librin tim të vendndodhjeve">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+<!ENTITY markAsRead.label              "Prit">
+<!ENTITY markAsRead.accesskey          "W">
+<!ENTITY markAsReadEnd.label           "sekonda para se ta shënosh një mesazh si të lexuar">
+<!ENTITY markAsReadEnd.accesskey       "d">
+<!ENTITY showFolderColumns.label       "Shtyllat te kuti e dosjeve shfaqi të zgjeruara">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY rememberLastMsg.label         "Mba mend mesazhin e fundit të përzgjedhur">
+<!ENTITY rememberLastMsg.accesskey     "b">
+<!ENTITY reuseExp.label                "Hap mesazhe të rinj në:">
+<!ENTITY reuseExpRadio0.label          "Dritare të re mesazhi">
+<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio1.label          "Dritare ekzistuese mesazhi">
+<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY connectionTimeout.label       "Mbarim kohe për lidhjen: ">
+<!ENTITY connectionTimeout.accesskey   "C">
+<!ENTITY connectionSeconds.label       "sekonda">
+<!ENTITY configEditDesc.label          "Formësim i Mëtejshëm">
+<!ENTITY configEdit.label              "Përpunues Formësimesh...">
+<!ENTITY configEdit.accesskey          "g">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Shih vetvetiu për përditësime të:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableExtensionUpdate.label    "Shtesa të Instaluara">
+<!ENTITY enableExtensionUpdate.accesskey "t">
+<!ENTITY checkNow.label                 "Kontrollo Tani...">
+
+
+<!ENTITY whenUpdatesFound.label         "Kur gjenden përditësime të &brandShortName;-it,">
+<!ENTITY modeAskMe.label                "Pyetmë se çfarë dua të bëj">
+<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAutomatic.label            "Shkarko dhe instalo përditësimin vetvetiu">
+<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutoWarn.label             "Sinjalizomë nëse kjo do të çaktivizonte ndonjë nga shtesat e mia">
+<!ENTITY modeAutoWarn.accesskey         "-">
+<!ENTITY showUpdates.label              "Shfaq Histori Përditësimesh">
+<!ENTITY showUpdates.accesskey          "y">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Lidhje...">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "Përcaktoni se si lidhet &brandShortName;-i në Internet.">
+<!ENTITY connectionsInfo.caption       "Lidhje">
+<!ENTITY offlineInfo.caption           "I palidhur">
+<!ENTITY offlineInfo.label             "Formësoni rregullime për i palidhur">
+<!ENTITY showOffline.label             "I palidhur...">
+<!ENTITY showOffline.accesskey         "O">
+
+<!-- Offline and Disk Space -->
+<!ENTITY Diskspace "Hapësirë Disku">
+<!ENTITY offlineCompact.label "Ngjesh dosje nëse kështu kursehet vend">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "KB">
+
+<!ENTITY itemNetworking.label    "Hapësirë në Rrjet &amp; Disku">
+<!ENTITY itemCertificates.label  "Dëshmi">
+
+<!ENTITY reuseExpRadio2.label          "Skedë mesazhi të ri">
+<!ENTITY reuseExpRadio2.accesskey      "Z">
+
+<!ENTITY returnReceiptsInfo.label      "Përcaktoni se si i trajton &brandShortName; faturat e kthimit">
+<!ENTITY showReturnReceipts.label      "Fatura Kthimi...">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!ENTITY modeAutoAddonWarn.accesskey    "-">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo.label         "Administroni dëshmi, lista shfuqizimesh, verifikime dëshmish dhe pajisje sigurie.">
+<!ENTITY viewCertificates.label         "Shihni Dëshmi">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "Lista Shfuqizimesh">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewOCSP.label                 "Verifikime">
+<!ENTITY viewOCSP.accesskey             "f">
+<!ENTITY viewSecurityDevices.label      "Pajisje Sigurie">
+<!ENTITY viewSecurityDevices.accesskey  "u">

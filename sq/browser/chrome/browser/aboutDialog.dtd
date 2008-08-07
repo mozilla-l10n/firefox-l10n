@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "Rreth &brandFullName;-it">
+<!ENTITY aboutLink "&lt; Rreth &brandFullName;-it">
+<!ENTITY aboutLink.accesskey    "V">
+<!ENTITY aboutVersion "version">
+<!ENTITY copyright "Kredite">
+<!ENTITY copyright.accesskey    "K">
+<!ENTITY copyrightInfo          "&#169;1998-2008 Pjesëmarrësit. Tërë të Drejtat të Rezervuara. Firefox-i dhe shenja e  
+                                 Firefox-it janë shenja tregtare të Fondacionit Mozilla.  Tërë të drejtat 
+                                 të rezervuara.">

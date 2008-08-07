@@ -1,0 +1,12 @@
+<!ENTITY addNewToolbar.label "Shtoni Panel të Ri">
+<!ENTITY dialog.title "Përshtasni Panel">
+<!ENTITY icons.label "Ikona">
+<!ENTITY iconsAndText.label "Ikona dhe Tekst">
+<!ENTITY instructions.description "Mund të shtoni ose hiqni objekte prej panelesh duke i vënë ose hequr prej andej.">
+<!ENTITY restoreDefaultSet.label "Rimerr Grupin Parazgjedhje">
+<!ENTITY saveChanges.label "Kryer">
+<!ENTITY show.label "Shfaq:">
+<!ENTITY text.label "Tekst">
+<!ENTITY undoChanges.label "Zhbëj Ndryshime">
+<!ENTITY useSmallIcons.label "Përdor Ikona të Vogla">
+<!ENTITY dialog.style "width: 635px; height: 400px;">

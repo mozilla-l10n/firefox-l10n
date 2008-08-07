@@ -1,0 +1,20 @@
+<!ENTITY  pref.masterpass.title                  "Fjalëkalime të Përgjithshëm">
+<!ENTITY  managepassword.caption   "Skadim Kohe për Fjalëkalimin e Përgjithshëm">
+<!ENTITY  managepassword.text "&brandShortName; do t&apos;ju kërkojë fjalëkalimin tuaj të përgjithshëm:">
+<!ENTITY managepassword.askfirsttime "Herën e parë që nevojitet">
+<!ENTITY  managepassword.askfirsttime.accesskey  "H">
+<!ENTITY managepassword.askeverytime "Çdo herë që nevojitet">
+<!ENTITY  managepassword.askeverytime.accesskey  "Ç">
+<!ENTITY  managepassword.asktimeout              "Nëse nuk është përdorur për ">
+<!ENTITY  managepassword.asktimeout.accesskey    "n">
+<!ENTITY  managepassword.timeout.unit            "minuta ose më gjatë">
+
+<!ENTITY  changepassword.caption    "Ndryshoni Fjalëkalimin e Përgjithshëm">
+<!ENTITY  changepassword.text                    "Fjalëkalimi juaj i përgjithshëm mbron të dhëna të rezervuara, si, bie fjala, falëkalime web dhe dëshmi.">
+<!ENTITY  changepassword.button                  "Ndryshojeni Fjalëkalimin...">
+<!ENTITY  changepassword.accesskey               "y">
+
+<!ENTITY  resetpassword.caption     "Ricaktoni Fjalëkalimin e Përgjithshëm">
+<!ENTITY  resetpassword.text                     "Nëse ricaktoni fjalëkalimin tuaj të përgjithshëm, do të humbni tërë fjalëkalimet tuaj të ruajtur për Web dhe e-mail, të dhëna formularësh, dëshmi vetjake, dhe kyça vetjakë.">
+<!ENTITY  resetpassword.button                   "Ricaktoni Fjalëkalim">
+<!ENTITY  resetpassword.accesskey                "R">

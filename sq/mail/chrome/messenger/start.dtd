@@ -1,0 +1,31 @@
+<!ENTITY startpage.welcome "Mirësevini te &brandFullName;!">
+<!ENTITY startpage.intro "&brandFullName;-i është një klient poste dhe lajmesh i fuqishëm, me burim të hapur.">
+<!ENTITY startpage.features "Karakteristika">
+
+<!ENTITY startpage.junkControl "Kontrolle Përshtatës Poste Hedhurinë">
+<!ENTITY startpage.rssReader "Lexues RSS-sh">
+<!ENTITY startpage.globalInbox "Suport Global për Të marrë">
+<!ENTITY startpage.searchFolders "Dosje Ruajtjesh Kërkimesh">
+<!ENTITY startpage.messageGroups "Grupim Mesazhesh">
+<!ENTITY startpage.privacyProtect "Mbrojtje Vetësie">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla-europe.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla-europe.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla-europe.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla-europe.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla-europe.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla-europe.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "Më tepër Të dhëna">
+
+<!ENTITY startpage.help "Ndihmë për Thunderbird-in">
+<!ENTITY startpage.helpInfo "Për pyetje të bëra shpesh, ndihmëza dhe ndihmë të përgjithshme, vizitoni">
+<!ENTITY startpage.helpURL "http://www.mozilla-europe.org/support/thunderbird/">
+
+<!ENTITY startpage.page "Faqe e Produktit Thunderbird">
+<!ENTITY startpage.pageInfo "Për të dhëna rreth produktit, vizitoni">
+<!ENTITY startpage.pageURL "http://www.mozilla-europe.org/products/thunderbird/">
+
+<!ENTITY startpage.extra "">
+
+<!ENTITY startpage.poweredByGecko "Bazuar në Gecko.">

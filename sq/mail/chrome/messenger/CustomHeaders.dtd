@@ -1,0 +1,7 @@
+<!ENTITY window.title "Përshtat Tituj">
+<!ENTITY addButton.label "Shto">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "Hiq">
+<!ENTITY removeButton.accesskey "R">
+<!ENTITY newMsgHeader.label "Titull i ri mesazhi:">
+<!ENTITY newMsgHeader.accesskey "N">

@@ -1,0 +1,17 @@
+<!ENTITY bottomInput.label "Poshtë:">
+<!ENTITY cmdInput.label "Urdhër Shtypjeje:">
+<!ENTITY colorGroup.label "Ngjyrë:">
+<!ENTITY colorRadio.label "Ngjyrë">
+<!ENTITY edgeMarginInput.label "Boshllëk prej buzës së letrës te Mënjana (inç)">
+<!ENTITY grayRadio.label "Shkallë të Grisë">
+<!ENTITY leftInput.label "Majtas:">
+<!ENTITY paperInput.label "Madhësi Letre:">
+<!ENTITY plexInput.label "Mënyrë &quot;plex&quot;:">
+<!ENTITY rightInput.label "Djathtas:">
+<!ENTITY topInput.label "Sipër:">
+<!ENTITY colorspaceInput.label "&quot;Colorspace&quot;:">
+<!ENTITY fontsGroup.label "Gërma:">
+<!ENTITY downloadFonts.label "Të shkarkoj gërma te shtypësi?">
+<!ENTITY printJobOptions.title "Veti Shtypësi">
+<!ENTITY resolutionInput.label "Qartësi/Cilësi:">
+<!ENTITY jobTitleInput.label "Titull Akti:">

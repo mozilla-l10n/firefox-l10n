@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label          "Hartim &amp; Adresim">
+<!ENTITY addressingGroupTitle.label "Adresim">
+<!ENTITY addressingText.label      "Kur kërkohen vendndodhje:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Përdor parapëlqimet e mij të përgjithshëm LDAP për këtë llogari">
+<!ENTITY useGlobal.accesskey       "U">
+<!ENTITY editDirectories.label     "Përpunoni Drejtori...">
+<!ENTITY editDirectories.accesskey "E">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Përdor një tjetër shërbyes LDAP:">
+<!ENTITY directories.accesskey     "d">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Hartim">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Harto mesazhe në format HTML">
+<!ENTITY useHtml.accesskey                    "C">
+<!ENTITY autoQuote.label                      "Cito automatikisht mesazhin origjinal kur pëgjigjesh">
+<!ENTITY autoQuote.accesskey                  "q">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label                           "Mandej,">
+<!ENTITY then.accesskey                       "t">
+<!ENTITY aboveQuote.label                     "fillo përgjigjen time mbi citim">
+<!ENTITY belowQuote.label                     "fillo përgjigjen time nën citim">
+<!ENTITY selectAndQuote.label                 "përzgjidh thojza">
+<!ENTITY place.label                          "dhe vendos nënshkrimin tim">
+<!ENTITY place.accesskey                      "p">
+<!ENTITY belowText.label                      "nën citimin (e këshilluar)">
+<!ENTITY aboveText.label                      "nën përgjigjen time (mbi citim)">

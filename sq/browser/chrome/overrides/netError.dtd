@@ -1,0 +1,171 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Problem në ngarkimin e faqes">
+<!ENTITY retry.label "Riprovoni">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "I pazoti të lidhem">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Kjo vendndodhje është e ndaluar">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Nuk u gjet shërbyes">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Kontrolloni vendndodhjen për gabime shkrimi si p.sh.
+    <strong>ww</strong>.shembull.com në vend të
+    <strong>www</strong>.shembull.com</li>
+  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet të kompjuterit tuaj.</li>
+  <li>Nëse kompjuteri ose rrjeti juaj mbrohet nga një &quot;firewall&quot; ose ndërmjetës, sigurohuni
+    që &brandShortName;-it i lejohet hyrja në Web.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Nuk u gjet kartelë">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Kontrolloni emrin e kartelës për gabime në shkrimin e tij.</li>
+  <li>Shihni mos është lëvizur, riemërtuar a fshirë kartela.</li>
+</ul>
+">
+
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName;-i, për ndonjë arsye, nuk mund ta ngarkojë këtë faqe.</p>
+">
+
+<!ENTITY malformedURI.title "Vendndodhja nuk është e vlefshme">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Vendndodhjet Web zakonisht shkruhen si
+    <strong>http://www.shembull.com/</strong></li>
+  <li>Sigurohuni që po përdorni pjerrëse djathtas (d.m.th.
+    <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "Lidhja u ndërpre">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Mënyrë i Palidhur">
+<!ENTITY netOffline.longDesc "
+<ul>
+  <li>Çshënoni &quot;Punoni i Palidhur&quot; te menu kartelash, mandej riprovoni.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Gabim Kodimi Përmbajtjeje">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "LLoj i Pasigurt Kartelash">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Lidhja u rivendos">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Lidhjes i përfundoi koha">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Nuk u kuptua vendndodhja">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Mund t&apos;ju duhet të instaloni tjetër program për të hapur këtë vendndodhje.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "Shërbyesi ndërmjetës po hedh poshtë lidhjet">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
+  <li>Lidhuni me përgjegjësin e rrjetit, për t&apos;u siguruar që shërbyesi ndërmjetës punon.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "I pazoti të gjej shërbyesin ndërmjetës">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të saktë.</li>
+  <li>Kontrolloni kompjuterin tuaj, për t&apos;u siguruar që ka një lidhje rrjeti që punon.</li>
+  <li>Nëse kompjuteri apo rrjeti juaj mbrohet nga &quot;firewall&quot; apo ndërmjetës, sigurohuni
+    që &brandShortName;-it i lejohet hyrja në Web.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "Faqja nuk është ridrejtuar si duhet">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Ngandonjëherë ky problem mund të shkaktohet nga çaktivizim apo mospranim &quot;cookie&quot;-sh.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Përgjigje e papritur prej shërbyesit">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Kontrolloni për t&apos;u siguruar që sistemi juaj ka të instaluar Përgjegjësin e Sigurisë Vetjake.</li>
+  <li>Kjo mund të vijë nga një formësim jostandard te shërbyesi.</li>
+</ul>
+">
+
+<!ENTITY nssFailure2.title "Dështoi Lidhja e Sigurtë">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>Faqja që po provoni të shihni nuk shihet dot, ngaqë mirëfilltësia e të dhënave të marra nuk u vërtetua dot.</li>
+  <li>Ju lutem lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem. Rrugë tjetër: përdorni urdhrin që gjendet te menuja e ndihmës për të raportuar këtë &quot;site&quot; të dëmtuar.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Dështoi Lidhja e Sigurtë">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Mund të jetë problem i formësimit të shërbyesit, ose mundet që dikush të jetë duke imituar shërbyesin.</li>
+  <li>Nëse në të kaluarën jeni lidhur me sukses te ky shërbyes, gabimi mund të jetë i përkohshëm, dhe mund të riprovonit më vonë.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>&quot;Site&quot;-i mund të jetë përkohësisht jashtë pune ose tepër i zënë. Riprovoni pas pak çastesh.</li>
+  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet për kompjuterin tuaj.</li>
+  <li>Nëse kompjuteri apo rrjeti juaj mbrohet nga një &quot;firewall&quot; ose ndërmjetës, sigurohuni
+    që &brandShortName;-it i është lejuar hyrja në Web.</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "&quot;Site&quot; i Dyshuar për Sulme!">
+<!ENTITY malwareBlocked.longDesc "
+<p>&quot;Site&quot;-et e sulmeve përpiqen të instalojnë programe që grabisin të dhëna vetjake, përdorin kompjuterin tuaj të sulmojnë të tjerët, ose dëmtojnë sistemin tuaj.</p>
+<p>Të zotët e &quot;site&quot;-eve Web që besojnë se &quot;site&quot;-i i tyre është raportuar gabimisht si &quot;site&quot; sulmesh mund <a href='http://www.stopbadware.org/home/reviewinfo' >të kërkojnë shqyrtimin e çështjes</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "E dyshyar si Sajesë Web!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Të dhënët e çfarëdo lloj të dhëne në këtë faqe mund të shpjerë në përvetësim të identitetit ose të ngjashme.</p>
+<p>Këto lloje sajesash web përdoren në mashtrime të njohura edhe si sulme &quot;phishing&quot;, gjatë të cilëve faqe web dhe email-e të gënjeshtërt përdoren për të imituar burime që u besoni.</p>
+">
+
+<!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">
+<!ENTITY securityOverride.exceptionButtonLabel "Shto Përjashtim…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningText "
+<p>Nuk do të ishte e arsyeshme të shtonit një përjashtim nëse përdorni një lidhje internet të cilën nuk e besoni plotësisht, ose nëse nuk jeni mësuar të shihni sinjalizim për këtë shërbyes.</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">

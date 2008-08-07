@@ -1,0 +1,27 @@
+<!ENTITY cancel "Anuloje">
+<!ENTITY close "Mbylle">
+<!ENTITY completeMsg "Përfunduar, të shkarkuar #2 KB (koha e rrjedhur qe #1)">
+<!ENTITY defaultTitle "Po ruhet">
+<!ENTITY keep "Mbaje hapur këtë dritare pasi të jetë plotësuar shkarkimi.">
+<!ENTITY launch "Nis Kartelë">
+<!ENTITY longTimeFormat "#1:#2:#3">
+<!ENTITY openingSource "Po hapet Prej:">
+<!ENTITY openingTarget "Me:">
+<!ENTITY openingTitle "Plotësuar #2&#037; nga #1 ">
+<!ENTITY pause "Pushim">
+<!ENTITY pausedMsg "Shkarkim i Ndërprerë">
+<!ENTITY percentMsg "#1&#037;">
+<!ENTITY progress "Përparim:">
+<!ENTITY progressMsg "#1KB nga #2KB (me #3KB/sek)">
+<!ENTITY resume "Rimarrje">
+<!ENTITY reveal "Shfaq Vendndodhje Kartele">
+<!ENTITY savingSource "Po ruhet Prej:">
+<!ENTITY savingTarget "Te:">
+<!ENTITY savingTitle "Ruajtur #2&#037; nga #1 ">
+<!ENTITY shortTimeFormat "#2:#3">
+<!ENTITY status "Gjendje:">
+<!ENTITY timeElapsed "Kohë e Rrjedhur:">
+<!ENTITY timeLeft "Kohë e Mbetur:">
+<!ENTITY unknownOpeningTitle "Po hapet #1">
+<!ENTITY unknownSavingTitle "Po ruhet #1">
+<!ENTITY unknownTime "E panjohur">

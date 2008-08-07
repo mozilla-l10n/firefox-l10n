@@ -1,0 +1,26 @@
+<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+
+<!ENTITY messengerCmd.label					"Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.accesskey				"m">
+<!ENTITY messengerCmd.commandkey			"1">
+<!ENTITY addressBookCmd.label				"Libër Vendndodhjesh">  
+<!ENTITY addressBookCmd.accesskey			"a">
+<!ENTITY addressBookCmd.commandkey			"2">
+
+<!ENTITY taskMessenger.tooltip  "Postë &amp; &quot;Newsgroup&quot;-e">
+<!ENTITY taskAddressBook.tooltip  "Libër Vendndodhjesh">
+
+<!-- searchAddressesCmd is also used by addressbook -->
+<!ENTITY searchAddressesCmd.label                       "Kërko te Vendndodhjet...">
+<!ENTITY searchAddressesCmd.accesskey                   "A">
+
+<!ENTITY searchMailCmd.label "Kërko te Mesazhe...">
+<!ENTITY searchMailCmd.accesskey "e">
+<!ENTITY searchMailCmd.key "f">
+
+<!ENTITY tasksMenu.label "Mjete">
+<!ENTITY tasksMenu.accesskey "T"> 
+
+<!ENTITY errorConsoleCmd.label                          "Konsol Gabimesh">
+<!ENTITY errorConsoleCmd.accesskey			"S">
+

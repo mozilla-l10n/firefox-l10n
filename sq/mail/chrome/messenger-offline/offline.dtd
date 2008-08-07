@@ -1,0 +1,14 @@
+<!ENTITY offlineMenu.label "I palidhur">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY synchronizeOfflineCmd.label "Shkarko/Njëkohëso Tani...">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd.label "Rregullime për I palidhur...">
+<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Merr Mesazhet e Përzgjedhur">
+<!ENTITY downloadSelectedCmd.accesskey "M">
+<!ENTITY prefOfflineConnection.label "Rregullime Lidhjeje dhe për I palidhur">
+<!ENTITY prefOfflineDesc.label "Administroni rregullime për i palidhur.">
+<!ENTITY prefOfflineButton.label "Rregullime për I palidhur...">
+<!ENTITY prefOfflineButton.accesskey "O">
+<!ENTITY downloadStarredCmd.label "Merr Mesazhet me Yll">
+<!ENTITY downloadStarredCmd.accesskey "a">

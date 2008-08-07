@@ -1,0 +1,10 @@
+<!ENTITY checkbox.label "shënoje">
+<!ENTITY editfield0.label "Emër Përdoruesi:">
+<!ENTITY editfield1.label "Fjalëkalim:">
+<!ENTITY editfield2.label "Ripohoni Fjalëkalim:">
+<!ENTITY header.label "Titull Shkurt">
+<!ENTITY message.label "Vend për shembull Teksti.">
+<!ENTITY copyCmd.label    "Kopjoje">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Përzgjidhni Tërë">
+<!ENTITY selectAllCmd.accesskey "T">

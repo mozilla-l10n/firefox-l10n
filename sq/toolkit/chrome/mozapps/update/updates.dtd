@@ -1,0 +1,71 @@
+<!ENTITY  finished.text                   "Përditësimi u shkarkua dhe verifikua me sukses, dhe do të instalohet herës pasuese që do të riniset  &brandShortName;-i.">
+<!ENTITY  finishedBackground.text         "&brandShortName;-i shkarkoi dhe verifikoi një përditësim të rëndësishëm. 
+                                           Klikoni lidhjen më poshtë për të tepër hollësi.">
+<!ENTITY  finishedBackground.more1        "Për të instaluar përditësimin tani klikoni Rinisni &brandShortName;-in Tani.">
+<!ENTITY  updateWizard.title              "Përditësim &quot;Software&quot;-i">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Po kontrollohet për Përditësime">
+<!ENTITY  checking.label                  "&brandShortName;-i po sheh tani për përditësime...">
+
+<!ENTITY  cancel.label                    "Anuloje">
+<!ENTITY  cancel.accesskey                "A">
+
+<!ENTITY  noupdatesfound.title            "Nuk u Gjetën Përditësime">
+<!ENTITY  noupdatesfound.intro            "Nuk ka përditësime të passhëm. &brandShortName;-i mund të kontrollojë 
+                                           periodikisht për përditësime të rinj.">
+
+<!ENTITY  clickHere.label                 "Shihni më tepër të dhëna rreth këtij përditësimi">
+<!ENTITY  incompatible.warning            "Ky përditësim do të bëjë që ca nga zgjerimet dhe/ose tema tuajat
+                                           të reshtin së funksionuari derisa të përditësohen.">
+<!ENTITY  listIncompatible.label          "Shfaq Listën">
+<!ENTITY  listIncompatible.accesskey      "S">
+<!ENTITY  upgrade.evangelism              "Këshillohet me forcë që të përditësoni &brandShortName;-in 
+                                           sa më shpejt të jetë e mundur.">
+
+<!ENTITY  license.instructions            "Nëse pajtoheni me termat e kësaj marrëveshjeje, klikoni Pranoj 
+                                           më poshtë për të vazhduar instalimin e këtij përditësimi.">
+<!ENTITY  license.titleText               "Marrëveshje Licence &quot;Software&quot;-i">
+<!ENTITY  license.introText               "Terma dhe kushte për përdorimin e këtij &quot;software&quot;-i.">
+<!ENTITY  license.instructionText         "Ju lutem lexoni marrëveshje vijuese për licencën. Përdorni rrëshqitësat për të parë pjesën e mbetur të kësaj licence.">
+<!ENTITY  license.accept                  "I pranoj kushtet e Marrëveshjes së Licencës">
+<!ENTITY  license.accept.accesskey        "i">
+<!ENTITY  license.decline                 "NUK i pranoj kushtet e Marrëveshjes së Licencës">
+<!ENTITY  license.decline.accesskey       "N">
+
+<!ENTITY  downloading.title               "Shkarkim Përditësimi">
+<!ENTITY  downloading.intro               "Po shkarkohet përditësimi...">
+<!ENTITY  connecting.label                "Po bëhet lidhja te shërbyesi i përditësimeve...">
+<!ENTITY  verificationFailedText.label    "&brandShortName;-i  nuk qe i zoti të vërtetonte  pacënueshmërinë 
+                                           e përditësimit shtues që shkarkoi, ndaj tani po shkarkon paketën e plotë të përditësimit.">
+
+<!ENTITY  details.link                    "Hollësi">
+<!ENTITY  pause.label                     "Pushim">
+<!ENTITY  pause.accesskey                 "P">
+<!ENTITY  close.label                     "Mbylle">
+<!ENTITY  close.accesskey                 "M">
+
+<!ENTITY  error.label                     "Pati probleme gjatë kontrollit, shkarkimit apo instalimit të këtij
+                                           përditësimi. &brandShortName;-i nuk u përditësua dot sepse:">
+                                           
+<!ENTITY  errorManual.label               "Mund ta përditësoni &brandShortName;-in dorazi duke vizituar këtë lidhje
+                                           dhe shkarkuar versionin më të fundit:">
+                                          
+<!ENTITY  errorpatching.title             "Përditësimi Dështoi">
+<!ENTITY  errorpatching.intro             "Nuk u zbatua dot Përditësimi i pjesshëm. 
+                                           &brandShortName;-i do të riprovojë duke shkarkuar Përditësimin e plotë.">
+<!ENTITY  finished.title                  "Përditësimi u Shkarkua">
+<!ENTITY  finishedBackground.title        "Përditësimi Gati për t&apos;u Instaluar">
+<!ENTITY  finishedBackground.name         "Përditëso:">
+<!ENTITY  installed.title                 "Përditësimi u Instalua">
+<!ENTITY  installed.intro                 "Përditësimi u instalua me sukses.">
+<!ENTITY  whatsnew.label                  "Lexoni më tepër rreth të rejash...">
+
+<!ENTITY  update.details.label            "Hollësi">
+<!ENTITY  update.installedOn.label        "Instaluar në:">
+<!ENTITY  update.status.label             "Gjendje:">
+<!ENTITY  incompatibleChecking.label      "Po kontrollohet nëse ky përditësim do të shkaktonte probleme me zgjerimet dhe/ose temat tuaja…">
+<!ENTITY  finishedBackground.textNotNow   "Klikoni Jo Tani për të mbyllur këtë dialog dhe për të vazhduar punën. &brandShortName;-i
+                                           do ta instalojë përditësimin herës tjetër kur niset.">

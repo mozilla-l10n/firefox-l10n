@@ -1,0 +1,7 @@
+
+<!ENTITY editPageCmd.label                "Përpuno Faqen në Hartues"> 
+<!ENTITY editPageCmd.accesskey            "e">
+
+<!ENTITY editLinkCmd.label                "Përpuno Lidhjen në Hartues">
+<!ENTITY editLinkCmd.accesskey            "E">
+

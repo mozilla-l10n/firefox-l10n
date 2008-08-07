@@ -1,0 +1,146 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&OK
+OK=OK
+CANCEL=Anuloje
+CANCEL_=&Anuloje
+NEXT_=&Pasues >
+BACK_=< &Mbrapsht
+IGNORE_=&Shpërfille
+PROXY_MESSAGE=Për formësimin e një shërbyesi Ndërmjetër për këtë shkarkim, klikoni butonin Ndërlidhje…. 
+PROXY_BUTTON=&Ndërlidhje…
+PROXYSETTINGS=Rregullime Ndërmjetësi:
+PROXYSETTINGS_=&Rregullime Ndërmjetësi
+SERVER=Shërbyes:
+PORT=Portë:
+USERID=ID përdoruesi:
+PASSWORD=Fjalëkalim:
+SELECTDIRECTORY=Përzgjidhni drejtori
+DIRECTORIES_=&Drejtori:
+DRIVES_=Pa&jisje:
+STATUS=Akoma:
+FILE=Kartelë:
+URL=URL:
+TO=Te Shtegu:
+ACCEPT_=&Pranoje
+DECLINE_=&Hidhe Poshtë
+PROGRAMFOLDER_=&Dosje Programi:
+EXISTINGFOLDERS_=Dosje &Ekzistuese:
+SETUPMESSAGE=Procesi i rregullimit përfundoi kopjimin e kartelave në kompjuterin tuaj.  Përpara se të mund të përdorni $ProductNameInternal$, duhet të rinisni Windows-in në kompjuterin tuaj. Zgjidhni një nga mundësitë vijuese dhe klikoni OK për të përfunduar rregullimin.
+RESTART=Rinise
+YESRESTART=Po, dua të riniset kompjuteri im tani.
+NORESTART=Jo, do ta rinis kompjuterin tim më vonë.
+ADDITIONALCOMPONENTS_=&Përbërsa Shtesë:
+DESCRIPTION=Përshkrim
+TOTALDOWNLOADSIZE=Madhësi shkarkimi gjithsej:
+SPACEAVAILABLE=Hapësirë e Mundshme:
+COMPONENTS_=Për&bërës:
+BROWSEINFO=Zgjidhni një Dosje ku të instalohet $ProductName$:
+DESTINATIONDIRECTORY=Dosje Instalimi
+BROWSE_=&Shfletoni…
+DOWNLOADSIZE=Madhësi Shkarkimi: %u KB
+CURRENTSETTINGS=Rregullimet e Tanishme:
+INSTALLFOLDER=…te vendi vijues:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s, dhe:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Instaloje
+DELETE_=&Fshije
+CONTINUE_=&Vazhdo
+SKIP_=&Anashakloje
+README=&Lexomë
+PAUSE_=&Pushim
+RESUME_=&Rimarrje
+CHECKED=I kontrolluar
+UNCHECKED=I pakontrolluar
+
+EXTRACTING=Po përftohet…
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=S'krijova dot dialog %s.
+ERROR_FAILED=%s dështoi.
+ERROR_FILE_NOT_FOUND=Nuk u gjet kartelë: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=GetSystemDirectory() dështoi.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =GetWindowsDirectory() dështoi.
+DLGQUITTITLE=Dil nga Rregullimi
+DLGQUITMSG=Nuk e përfunduat instalimin e $ProductName$-it. Nëse dilni nga Rregullimi tani, $ProductName$-i nuk do të instalohet. Jeni i sigurt se doni të anulohet Rregullimi?
+DLG_REBOOT_TITLE=Windows-i po riniset
+ERROR_GETPROCADDRESS=GetProcAddress() e %s dështoi.
+ERROR_WRITEPRIVATEPROFILESTRING=Dështoi WritePrivateProfileString() për kartelën %s
+MSG_RETRIEVE_CONFIGINI=Ju lutem prisni, ndërkohë që Rregullimi po merr prej web-it programin e formësimit të vet… 
+ERROR_CREATE_TEMP_DIR=Rregullimi nuk qe në gjendje të krijojë drejtorinë TEMP: %s
+DLGBROWSETITLE=Përzgjidhni drejtori
+ERROR_DETERMINING_DISK_SPACE=Nuk u përcaktua dot hapësirë e lirë në disk për: %s
+DLG_DISK_SPACE_CHECK_TITLE=Kontroll hapësire disku
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Hapësira që gjeti rregullimi në disk është e pamjaftueshme për të vazhduar me instalimin te %s sipas shtegut: %sE nevojshme: %sE mundshme: %sKlikoni Riprovo po qe se liruat më tepër hapësirë disku, ose klikoni Anuloje për të anuluar Rregullimin.
+DLG_DISK_SPACE_CHECK_MSG=Hapësira që gjeti rregullimi në disk është e pamjaftueshme për të vazhduar me instalimin te %s sipas shtegut: %sE nevojshme: %sE mundshme: %sKlikoni OK për t'u kthyer mbrapsht dhe zgjidhni një tjetër shteg vendmbërritje.
+ERROR_CREATE_DIRECTORY=S'u krijua dot dosje: %sSigurohuni që keni leje për krijimin e dosjes.
+ERROR_MESSAGE_TITLE=Gabim në Rregullimin e $ProductNameInternal$-it
+STR_FILE_NUMBER=Numër kartelash:
+STR_FILENAME=Emër kartele:
+MSG_SMARTUPDATE_START=Po përgatitet Instalimi, ju lutem prisni…
+MSG_CONFIGURING=Po formësohet %s, ju lutem prisni…
+ERROR_XPI_INSTALL=Ndodhi një gabim gjatë instalimit
+ERROR_SETUP_REQUIREMENT=$ProductName$-i mund të xhirojë vetëm nga Windows 95 e tëhu. Rregullimi tani do të ndërpritet. 
+DLG_EXTRACTING_TITLE=Rregullimi i $ProductName$-it - Ecuri e Instalimit
+STR_PROCESSINGFILE=Po përgatitet kartela: %s
+STR_INSTALLING=Tani po instalohet %s
+STR_COPYINGFILE=Po kopjohet kartela: %s
+MB_WARNING_STR=Sinjalizim
+MB_MESSAGE_STR=Mesazh
+MB_ATTENTION_STR=Kujdes
+MSG_CREATE_DIRECTORY=Drejtoria vijuese nuk ekziston:%sDëshironi të krijohet?
+STR_CREATE_DIRECTORY=Të Krijohet Drejtoria?
+ERROR_PROGRAM_FOLDER_NAME=U dha emër i pavlefshëm dosjeje Programesh.
+CB_DEFAULT=Parazgjedhje
+ERROR_DESTINATION_PATH=U dha shteg i pavlefshëm.
+STR_SETUP_TYPE=Lloj Rregullimi:
+STR_SELECTED_COMPONENTS=Përbërësa të Përzgjedhur:
+STR_DESTINATION_DIRECTORY=Drejtori Vendmbërritje:
+STR_PROGRAM_FOLDER=Dosje Programesh:
+STR_DELETING_DESTINATION_DIR=Po fshihet drejtoria vendmbërritje për vazhdimin e përditësimit, ju lutem prisni…
+STR_SETUP=Rregullim
+STR_DOWNLOAD_SITE=Shkarkim Prej:
+STR_SAVE_INSTALLER_FILES=Kartelat e shkarkuara dhe ato të Rregullimit ruaji te:
+MSG_INIT_SETUP=Po gatitet Rregullimi, ju lutem prisni…
+STR_MESSAGEBOX_TITLE=Rregullim %s
+ERROR_GETVERSION=GetVersionEx() dështoi!
+DLG_USAGE_TITLE=Përdorimi
+
+STATUS_EXTRACTING=Po përftohet %s
+STATUS_LAUNCHING_SETUP=Po niset Rregullimi…
+ERROR_FILE_WRITE=I pazoti të shkruaj kartelën %s
+TITLE=Instalim
+ERROR_OUT_OF_MEMORY=Kujtesë e pamjaftueshme!
+
+ERROR_DLL_LOAD=S'u ngarkua dot %s
+ERROR_STRING_LOAD=S'u ngarkua dot ID burimi vargu %d
+ERROR_STRING_NULL=U has "null pointer".
+ERROR_GLOBALALLOC=Gabim sigurimi kujtese.
+MSG_FORCE_QUIT_PROCESS=Rregullimi zbuloi që %s (%s) ende po xhiron.  Klikoni OK për të mbyllur %s dhe për të vazhduar me instalimin. Mënyrë tjetër: përdorni Windows Task Manager për të mbyllur %s, e mandej klikoni OK për të vazhduar me instalimin.
+MSG_FORCE_QUIT_PROCESS_FAILED=Rregullimi tani do të mbyllet. Rregullimi nuk vazhdoi dot, ngaqë %s (%s) ende po xhiron. Provoni ta mbyllni %s dorazi duke përdorur Windows Task Manager, e mandej rixhironi Rregullimin.
+ERROR_PATH_WITHIN_WINDIR=$ProductName$-i nuk mund të instalohet te një dosje që gjendet brenda dosjes Windows. Ju lutem zgjidhni dosje tjetër.

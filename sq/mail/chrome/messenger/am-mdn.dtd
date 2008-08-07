@@ -1,0 +1,28 @@
+<!ENTITY pane.title                   "Kthim Faturash">
+<!ENTITY useGlobalPrefs.label         "Përdor për këtë llogari parapëlqimet e mij të përgjithshëm për kthim faturash">
+<!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY useCustomPrefs.label         "Përshtat kthim faturash për këtë llogari"">
+<!ENTITY useCustomPrefs.accesskey     "C">
+<!ENTITY requestReceipt.label         "Kur dërgon mesazhe, kërko përherë një faturë kthimi">
+<!ENTITY requestReceipt.accesskey     "W">
+<!ENTITY receiptArrive.label          "Kur mbrrin një faturë:">
+<!ENTITY leaveIt.label                "Lëre tek Të marrë">
+<!ENTITY leaveIt.accesskey            "I">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label             "Shpjere tek dosja ime &quot;Të dërguar&quot;">
+<!ENTITY moveToSent.accesskey         "M">
+<!ENTITY requestMDN.label             "Kur marr një kërkesë për një faturë kthimi:">
+<!ENTITY returnSome.label             "Lejo fatura kthimi për disa mesazhe">
+<!ENTITY returnSome.accesskey         "e">
+<!ENTITY never.label                  "Mos dërgo kurrë një faturë kthimi">
+<!ENTITY never.accesskey              "N">
+<!ENTITY notInToCc.label              "Nëse nuk jam tek Për ose Cc e mesazhit:">
+<!ENTITY notInToCc.accesskey          "T">
+<!ENTITY outsideDomain.label          "Nëse dërguesi është jashtë përkatësisë sime:">
+<!ENTITY outsideDomain.accesskey      "s">
+<!ENTITY otherCases.label             "Në tërë rastet e tjerë:">
+<!ENTITY otherCases.accesskey         "o">
+<!ENTITY askMe.label                  "Pyetmë">
+<!ENTITY alwaysSend.label             "Dërgo përherë">
+<!ENTITY neverSend.label              "Mos dërgo Kurrë">
+<!ENTITY useCustomPrefs.label         "Përshtat fatura kthimi për këtë llogari">

@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title        "Përshtasni Sinjalizim për Postë të Re">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Zgjidhni cilat fusha të shfaqen te shënimi për sinjalizim:">
+<!ENTITY previewText.label                "Tekst Paraparjeje Mesazhi">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "Subjekt">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "Dërgues">
+<!ENTITY sender.accesskey                 "e">

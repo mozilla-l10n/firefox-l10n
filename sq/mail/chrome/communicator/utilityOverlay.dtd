@@ -1,0 +1,87 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"Kartelë"> 
+<!ENTITY fileMenu.accesskey				"f">
+<!ENTITY newMenu.label						"E re">
+<!ENTITY newMenu.accesskey					"N">
+
+<!ENTITY editMenu.label					"Përpunim"> 
+<!ENTITY editMenu.accesskey				"e"> 
+<!ENTITY undoCmd.label						"Zhbëj">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"u"> 
+<!ENTITY redoCmd.label						"Ribëj">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"r"> 
+<!ENTITY cutCmd.label						"Pri">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"t"> 
+<!ENTITY copyCmd.label						"Kopjo">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"c"> 
+<!ENTITY pasteCmd.label						"Ngjit">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY deleteCmd.label					"Fshij">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"d"> 
+<!ENTITY selectAllCmd.label					"Përzgjidh Tërë">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"a"> 
+<!ENTITY preferencesCmd.label				"Mundësi...">
+<!ENTITY preferencesCmd.accesskey			"O"> 
+<!ENTITY preferencesCmdUnix.label       "Parapëlqime">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+<!ENTITY findTypeTextCmd.label "Gjej Tekst Në Shtypje e Sipër">
+<!ENTITY findTypeTextCmd.accesskey "x">
+
+<!ENTITY viewMenu.label					"Shihni"> 
+<!ENTITY viewMenu.accesskey				"v"> 
+<!ENTITY viewToolbarsMenu.label				"Panele"> 
+<!ENTITY viewToolbarsMenu.accesskey			"T"> 
+<!ENTITY showTaskbarCmd.label					"Shtyllë Gjendjeje">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!ENTITY direct.label                                   "I lidhur (ndërmjetës: asnjë)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "I lidhur (ndërmjetës;: dorazi)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "I lidhur (ndërmjetës: auto)">
+<!ENTITY pac.accesskey                                  "a">
+
+<!ENTITY proxy.label                                    "Formësim ndërmjetësi...">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+
+<!ENTITY closeCmd.label			"Mbylle">  
+<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.accesskey		"m">
+
+<!ENTITY quitApplicationCmd.label	"Dil"> 
+<!ENTITY quitApplicationCmd.key		"Q"> 
+<!ENTITY quitApplicationCmd.accesskey	"x">
+
+<!ENTITY quitApplicationCmdUnix.label	"Dil"> 
+<!ENTITY quitApplicationCmdUnix.accesskey	"q">
+
+<!ENTITY closeWindow.label "Mbyll Dritaren">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

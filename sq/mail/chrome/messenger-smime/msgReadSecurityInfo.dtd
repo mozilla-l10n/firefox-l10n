@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "Siguri Mesazhi">
+<!ENTITY signatureCert.label "Shihni Dëshmi Nënshkrimi">
+<!ENTITY encryptionCert.label "Shihni Dëshmi Kodimi">
+
+<!ENTITY signer.name "Nënshkruar prej:">
+<!ENTITY recipient.name "Koduar për:">
+<!ENTITY email.address "Vendndodhje Email:">
+<!ENTITY issuer.name "Dëshmi lëshuar prej:">

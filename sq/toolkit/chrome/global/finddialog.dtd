@@ -1,0 +1,16 @@
+<!ENTITY cancelButton.label "Anuloje">
+<!ENTITY caseSensitiveCheckbox.accesskey "s">
+<!ENTITY caseSensitiveCheckbox.label "Siç është shkruajtur">
+<!ENTITY direction.label "Drejtim">
+<!ENTITY down.accesskey "P">
+<!ENTITY down.label "Poshtë">
+<!ENTITY findButton.accesskey "G">
+<!ENTITY findButton.label "Gjej Pasuesen">
+<!ENTITY findDialog.title "Gjej në Këtë Faqe">
+<!ENTITY findField.accesskey "j">
+<!ENTITY findField.label "Gjej çfarë:">
+<!ENTITY up.accesskey "S">
+<!ENTITY up.label "Sipër">
+<!ENTITY wrapCheckbox.accesskey "M">
+<!ENTITY wrapCheckbox.label "Mbështille">
+<!ENTITY closeButton.label "Mbylle">

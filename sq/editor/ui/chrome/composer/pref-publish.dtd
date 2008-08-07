@@ -1,0 +1,20 @@
+<!-- extracted from content/pref-publish.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+<!ENTITY  pref.publish.title     "Boto">
+<!ENTITY  composerHeader.label   "Boto">
+<!ENTITY  maintainCheckbox.label "Mbaj lidhjet">
+<!ENTITY  keepCheck.label        "Mbaj pamjet me faqen">
+
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  adjustDesc.label       "Rregullo lidhjet të punojnë prej vendndodhjes së faqes. (Lidhjet te faqet vendore do të punojnë kur
+			          ka versione vendorë.)           ">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  saveDesc.label         "Ruaj kopje të pamjeve te vendndodhja e faqes.  Pamjet do të duke n përherë në versione vendorë të faqes dhe kur faqja të jetë botuar.">
+<!ENTITY  tip.label              "Ndihmëz: U vini shenjë të dy mundësive nëse do të përdorni botim së largëti.">
+<!ENTITY  defaultHeader.label    "Vendndodhje parazgjedhje botimi">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY  publishFtp.label       "Nëse botohet në një &quot;site&quot; FTP, jepni vendndodhjen HTTP te e cila të shlfetohet:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY  publishhtp.label       "Nëse botohet në një &quot;site&quot; FTP, jepni vendndodhjen HTTP te e cila të shlfetohet:">
+

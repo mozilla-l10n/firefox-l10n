@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Rregullime Llogarie">
+<!ENTITY accountSettingsDesc.label "Vijuesja është një llogari speciale.  Nuk ka identitete shoqëruar asaj.">
+<!ENTITY accountName.label "Emër Llogarie:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "Depozitim Mesazhesh">
+<!ENTITY emptyTrashOnExit.label "Në Dalje Zbraz Hedhurina">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY localPath.label "Drejtori vendore:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY localFolderPicker.label "Përzgjidhni Drejtori Vendore">
+<!ENTITY browseFolder.label "Shfletoni...">
+<!ENTITY browseFolder.accesskey "B">

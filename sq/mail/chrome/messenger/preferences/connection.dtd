@@ -1,0 +1,40 @@
+<!ENTITY  connectionsDialog.title       "Rregullime Lidhjeje">
+<!ENTITY  window.width                   "37em">
+
+<!ENTITY  proxyTitle.label              "Formësoni Ndërmjetësa për Hyrje në Internet">
+<!ENTITY  directTypeRadio.label         "Lidhje e drejtpërdrejtë në Internet">
+<!ENTITY  directTypeRadio.accesskey     "d">
+<!ENTITY  WPADTypeRadio.label           "Vetëzbulo rregullime ndërmjetësi për këtë rrjet">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Formësim ndërmjetë dorazi:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "URL formësimi automatik për ndërmjetësin:">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "Ringarko">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  ftp.label                     "Ndërmjetës FTP:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Ndërmjetës Gopher:">
+<!ENTITY  gopher.accesskey              "g">
+<!ENTITY  http.label                    "Ndërmjetës HTTP:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "Ndërmjetës SSL:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "Strehë SOCKS:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "Portë:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Pa Ndërmjetës për:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Shembull: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Përdor këtë shërbyes ndërmjetës për tërë protokollet">
+<!ENTITY  shareproxy.accesskey          "x">

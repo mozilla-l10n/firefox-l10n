@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Rregullime Të mëtejshëm Llogarie">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "Rregullime Të mëtejshmëm Shërbyesi IMAP">
+<!ENTITY serverDirectory.label "Drejtori shërbyesi IMAP:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "Shfaq vetëm dosje pajtimesh">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "Shërbyesi mbulon dosje që përmbajnë nëndosje dhe mesazhe">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "Përdorni urdhrin IDLE nëse ky mbulohet prej shërbyesit">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Numër më i madh ndërlidhjesh shërbyesi për t&apos;u ruajtur në fshehtinë">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "Këta parapëlqime përcaktojnë emërhapësirat te shërbyesi juaj IMAP">
+<!ENTITY personalNamespace.label "Emërhapësirë vetjake:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Publik (i përbashkët):">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "Përdorues Të tjerë:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "Lejo shërbyesin të anashkalojë këto emërhapësira">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "Kur shkarkohet postë pop për këtë shërbyes, përdorni dosjen vijuese për postë të re:" >
+<!ENTITY folderStorage.label "Ku të depozitohet posta">
+<!ENTITY globalInbox.label "Kuti e Përgjithshme (Llogaria Dosje Vetjake)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "Të marrët për llogarinë e këtij shërbyesi">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "Të marrët për tjetër llogari">
+<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferGetNewMail.label "Përfshi këtë shërbyes kur merret postë e re">
+<!ENTITY deferGetNewMail.accesskey "I">

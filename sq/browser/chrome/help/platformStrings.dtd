@@ -1,0 +1,29 @@
+<!-- Options -->
+
+<!ENTITY pref.menuPath     '<span class="win menuPath">Mjete &gt; Mundësi</span><span
+                              class="unix menuPath">Përpunim &gt; Parapëlqime</span><span
+                              class="mac menuPath">Parapëlqime &gt; &brandShortName;-i</span>' >
+<!ENTITY pref.singular     '<span class="win">mundësi</span><span
+                             class="noWin">parapëlqim</span>' >
+<!ENTITY pref.plural       '<span class="win">mundësi</span><span
+                             class="noWin">parapëlqime</span>' >
+<!ENTITY pref.singularCaps '<span class="win">Mundësi</span><span
+                             class="noWin">Parapëlqim</span>' >
+<!ENTITY pref.pluralCaps   '<span class="win">Mundësi</span><span
+                             class="noWin">Parapëlqime</span>' >
+
+<!-- Keys -->
+
+<!ENTITY ctrlKey            '<kbd>Ctrl</kbd>' >
+<!ENTITY accelKey           '<kbd class="noMac">Ctrl</kbd><kbd
+                             class="mac">Cmd</kbd>' >
+<!ENTITY altKey             '<kbd class="noMac">Alt</kbd><kbd
+                             class="mac">Opt</kbd>' >
+<!ENTITY shiftKey           '<kbd>Shift</kbd>' >
+<!ENTITY enterKey           '<kbd class="noMac">Enter</kbd><kbd
+                             class="mac">Return</kbd>' >
+
+<!-- Image Location Base URL -->
+
+<!ENTITY images.baseURL     'http://www.mozilla.org/projects/firefox/help/2.0'>
+<!ENTITY copyright.years    '2003-2008'>
