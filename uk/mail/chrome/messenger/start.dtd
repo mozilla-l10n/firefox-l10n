@@ -1,0 +1,32 @@
+<!ENTITY startpage.welcome "Ласкаво просимо у &brandFullName;!">
+<!ENTITY startpage.intro "&brandFullName; — потужний поштовий та новинний клієнт з відкритими початковими кодами. ">
+
+<!ENTITY startpage.features "Функціональність">
+
+<!ENTITY startpage.junkControl "Ефективна фільтрація спаму">
+<!ENTITY startpage.rssReader "Читання RSS-каналів">
+<!ENTITY startpage.globalInbox "Підтримка загальної теки що Вхідні для декількох облікових записів">
+<!ENTITY startpage.searchFolders "Віртуальні теки">
+<!ENTITY startpage.messageGroups "Угрупування повідомлень">
+<!ENTITY startpage.privacyProtect "Захист особистої інформації">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla-world.org/products/thunderbird/junkmail">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla-world.org/products/thunderbird/rss">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla-world.org/products/thunderbird/global-inbox">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla-world.org/products/thunderbird/search-folders">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla-world.org/products/thunderbird/message-grouping">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla-world.org/products/thunderbird/privacy-protection">
+
+<!ENTITY startpage.moreInfo "Докладніша інформація">
+
+<!ENTITY startpage.help "сайт підтримки Thunderbird">
+<!ENTITY startpage.helpInfo "Для отримання допомоги по роботі з програмою, корисних порад і відповідей на раніше поставлені питання, відвідаєте">
+<!ENTITY startpage.helpURL "http://www.mozilla-world.org/products/thunderbird/support">
+
+<!ENTITY startpage.page "сайт Thunderbird">
+<!ENTITY startpage.pageInfo "Для отримання докладнішої інформації відвідаєте">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
+<!ENTITY startpage.extra "">
+
+<!ENTITY startpage.poweredByGecko "На движку Gecko.">

@@ -1,0 +1,28 @@
+<!ENTITY find.label "Знайти:">
+<!ENTITY find.accesskey "а">
+<!ENTITY expand.label "Розгорнути">
+<!ENTITY expand.accesskey "о">
+<!ENTITY collapse.label "Згорнути">
+<!ENTITY collapse.accesskey "о">
+<!ENTITY byDate.label "За датою">
+<!ENTITY byDate.accesskey "о">
+<!ENTITY bySite.label "За сайтом">
+<!ENTITY bySite.accesskey "о">
+<!ENTITY view.label "Перегляд">
+<!ENTITY view.accesskey "е">
+<!ENTITY byMostVisited.label "За частотою відвідування">
+<!ENTITY byMostVisited.accesskey "о">
+<!ENTITY byLastVisited.label "За датою останнього відвідування">
+<!ENTITY byLastVisited.accesskey "о">
+<!ENTITY byDayAndSite.label "За датою і сайтом">
+<!ENTITY byDayAndSite.accesskey "о">
+<!ENTITY openLinkInWindow.label "Відкрити">
+<!ENTITY openLinkInWindow.accesskey "і">
+<!ENTITY openInNewTab.label "Відкрити у новій вкладці">
+<!ENTITY openInNewTab.accesskey "і">
+<!ENTITY openInNewWindow.label "Відкрити у новому вікні">
+<!ENTITY openInNewWindow.accesskey "і">
+<!ENTITY bookmarkLink.label "Додати посилання до закладок…">
+<!ENTITY bookmarkLink.accesskey "о">
+<!ENTITY copyLink.label "Копіювати посилання">
+<!ENTITY copyLink.accesskey "о">

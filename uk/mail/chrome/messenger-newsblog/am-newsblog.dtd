@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "Параметри облікового запису RSS-каналів">
+
+<!ENTITY biffStart.label "Перевіряти наявність нових статей кожні">
+<!ENTITY biffStart.accesskey "П">
+<!ENTITY biffEnd.label "хвилин">
+
+<!ENTITY loginAtStartup.label "Перевіряти наявність нових статей при запуску"> 
+<!ENTITY loginAtStartup.accesskey "П">
+
+<!ENTITY useQuickMode.label "За умовчанням показувати короткий опис статті замість завантаження веб-сторінки"> 
+<!ENTITY useQuickMode.accesskey "м">
+
+<!ENTITY manageSubscriptions.label "Упорядкувати підписки…"> 
+<!ENTITY manageSubscriptions.accesskey "У">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "Блоги і джерела новин">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "Блоги і RSS-канали">
+<!ENTITY rss.hostName               "News &amp; Blogs">

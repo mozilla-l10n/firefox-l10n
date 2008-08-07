@@ -1,0 +1,80 @@
+<!ENTITY itemGeneral.label       "Загальні">
+<!ENTITY itemUpdate.label        "Оновлення">
+<!ENTITY itemNetworking.label    "Мережа та диск">
+<!ENTITY itemCertificates.label  "Сертифікати">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі">
+<!ENTITY showCondensedAddresses.accesskey "м">
+
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+<!ENTITY markAsRead.label              "Чекати">
+<!ENTITY markAsRead.accesskey          "Ч">
+<!ENTITY markAsReadEnd.label           "секунд перед позначенням повідомлення як прочитаного">
+<!ENTITY markAsReadEnd.accesskey       "з">
+<!ENTITY showFolderColumns.label       "Показувати додаткові колонки у вікні дерева тек">
+<!ENTITY showFolderColumns.accesskey   "к">
+<!ENTITY rememberLastMsg.label         "Запам’ятовувати останнє вибране повідомлення">
+<!ENTITY rememberLastMsg.accesskey     "З">
+<!ENTITY reuseExp.label                "Відкривати нові повідомлення у:">
+<!ENTITY reuseExpRadio0.label          "новому вікні">
+<!ENTITY reuseExpRadio0.accesskey      "н">
+<!ENTITY reuseExpRadio1.label          "вже існуючому вікні">
+<!ENTITY reuseExpRadio1.accesskey      "у">
+<!ENTITY reuseExpRadio2.label          "новій вкладці">
+<!ENTITY reuseExpRadio2.accesskey      "в">
+<!ENTITY connectionTimeout.label       "Час очікування з’єднання:">
+<!ENTITY connectionTimeout.accesskey   "о">
+<!ENTITY connectionSeconds.label       "секунд">
+<!ENTITY configEditDesc.label          "Додаткові налаштування">
+<!ENTITY configEdit.label              "Редактор налаштувань">
+<!ENTITY configEdit.accesskey          "Р">
+<!ENTITY returnReceiptsInfo.label      "Вкажіть, як &brandShortName; має обробляти сповіщення про доставку">
+<!ENTITY showReturnReceipts.label      "Сповіщення про доставку…">
+<!ENTITY showReturnReceipts.accesskey  "д">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Автоматично перевіряти наявність оновлень:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAddonsUpdate.label       "встановлених додатків">
+<!ENTITY enableAddonsUpdate.accesskey   "д">
+<!ENTITY checkNow.label                 "Перевірити зараз…">
+<!ENTITY whenUpdatesFound.label         "Якщо для &brandShortName; знайдені оновлення:">
+<!ENTITY modeAskMe.label                "Запитати мене що робити">
+<!ENTITY modeAskMe.accesskey            "щ">
+<!ENTITY modeAutomatic.label            "Автоматично завантажувати і встановлювати оновлення">
+<!ENTITY modeAutomatic.accesskey        "А">
+<!ENTITY modeAutoAddonWarn.label        "Попереджати, якщо це відключить якісь розширення">
+<!ENTITY modeAutoAddonWarn.accesskey    "в">
+<!ENTITY showUpdates.label              "Показати журнал оновлень">
+<!ENTITY showUpdates.accesskey          "о">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "З’єднання…">
+<!ENTITY showConnections.accesskey     "є">																						
+<!ENTITY proxiesInfo.label             "Визначіть, яким чином &brandShortName; з’єднується з Інтернетом.">
+<!ENTITY connectionsInfo.caption       "З’єднання">
+<!ENTITY offlineInfo.caption           "Автономний режим">
+<!ENTITY offlineInfo.label             "Налаштуйте параметри автономного режиму">
+<!ENTITY showOffline.label             "Автономний режим…">
+<!ENTITY showOffline.accesskey         "А">
+
+<!ENTITY Diskspace "Дисковий простір">
+<!ENTITY offlineCompact.label "Стискати теки, якщо при цьому вивільнятиметься більше">
+<!ENTITY offlineCompact.accesskey "С">
+<!ENTITY kb.label "КБ">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo.label         "Управління сертифікатами, списками відкликання, перевіркою сертифікатів та пристроями захисту.">
+<!ENTITY viewCertificates.label         "Перегляд сертифікатів">
+<!ENTITY viewCertificates.accesskey     "с">
+<!ENTITY viewCRLs.label                 "Списки відкликання">
+<!ENTITY viewCRLs.accesskey             "в">
+<!ENTITY viewOCSP.label                 "Перевірка">
+<!ENTITY viewOCSP.accesskey             "П">
+<!ENTITY viewSecurityDevices.label      "Пристрої захисту">
+<!ENTITY viewSecurityDevices.accesskey  "з">

@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "Майстер імпорту">
+
+<!ENTITY importFrom.label               "Імпортувати налаштування, параметри облікового запису, адресну книгу і інші дані з:">
+<!ENTITY importFromUnix.label           "Імпортувати налаштування, параметри облікового запису, адресну книгу і інші дані з:">
+
+<!ENTITY importFromNothing.label        "Не імпортувати нічого">
+<!ENTITY importFromNothing.accesskey    "н">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 или Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Імпортувати налаштування і дані з">
+<!ENTITY importItems.title              "Об’єкти для імпорту">
+<!ENTITY importItems.label              "Виберіть об’єкти для імпорту:">
+
+<!ENTITY migrating.title                "Імпортую…">
+<!ENTITY migrating.label                "Наступні обьекти імпортуються зараз…">
+
+<!ENTITY selectProfile.title            "Вибір профілю">
+<!ENTITY selectProfile.label            "Імпорт може бути здійснений з наступних профілів:">
+
+<!ENTITY done.title                     "Імпорт завершений">
+<!ENTITY done.label                     "Наступні об’єкти були успішно імпортовані:">

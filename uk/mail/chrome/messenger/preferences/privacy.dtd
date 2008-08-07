@@ -1,0 +1,59 @@
+<!ENTITY itemGeneral.label       "Основні">
+<!ENTITY itemJunk.label          "Спам">
+<!ENTITY itemPhishing.label      "Анти-фішинг">
+<!ENTITY itemPasswords.label     "Паролі">
+<!ENTITY itemAntiVirus.label     "Робота з антивірусом">
+
+<!ENTITY disableImageInMailNews.label  "Не завантажувати з Інтернету зображення, посилання на які зустрічаються в повідомленнях">
+<!ENTITY disableImageInMailNews.accesskey "ж">
+<!ENTITY allowRemoteImagesForFriends.label  "Завантажувати зображення, якщо відправник знаходиться в:">
+<!ENTITY allowRemoteImagesForFriends.accesskey "З">
+<!ENTITY enbJsCheckMailNews.label      "Заблокувати сценарії JavaScript в повідомленнях">
+<!ENTITY enbJsCheckMailNews.accesskey  "а">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Налаштуйте загальні параметри спам-фільтрів. Специфічні для облікових записів параметри можуть бути змінені в налаштуваннях облікового запису.">
+<!ENTITY manualMark.label "Коли я позначаю повідомлення спамом:">
+<!ENTITY manualMarkModeMove.label "Перемістити їх у теку «Спам»">
+<!ENTITY markAsReadOnSpam.label "Відмітити такі повідомлення прочитаними">
+<!ENTITY markAsReadOnSpam.acesskey "В">
+<!ENTITY manualMarkModeDelete.label "Знищити їх">
+<!ENTITY enableJunkLogging.label "Ввімкнути журнал спам-фільтру">
+<!ENTITY enableJunkLogging.accesskey "ж">
+<!ENTITY openJunkLog.label "Показати журнал">
+<!ENTITY openJunkLog.accesskey "к">
+<!ENTITY resetTrainingData.label "Скинути дані тренувань">
+<!ENTITY resetTrainingData.accesskey "С">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; може аналізувати листи на предмет шахрайства, виявляючи усталені методи обману.">
+<!ENTITY enablePhishingDetector1.label    "Повідомляти мене, коли щодо листа, який я читаю, є підозри у шахрайстві">
+<!ENTITY enablePhishingDetector1.accesskey  "П">
+<!ENTITY useDownloadedList.label "Використовувати завантажений список електронних шахраїв">
+<!ENTITY useDownloadedList.accesskey "В">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "&brandShortName; може запам’ятовувати реєстраційну інформацію для всіх ваших облікових записів так, що вам не доведеться вводити її знову. ">
+<!ENTITY  encryptEnabled.label        "Використовувати головний пароль для шифрування збережених паролів">
+<!ENTITY  encryptEnabled.accesskey    "В">
+<!ENTITY  masterPassword.intro        "Будучи встановленим, головний пароль буде використаний для захисту всіх ваших паролів. Вам потрібно буде вводити його один раз в сесію.">
+<!ENTITY  setMasterPassword.label     "Головний пароль">
+<!ENTITY  setMasterPassword.accesskey "Г">
+<!ENTITY  removeMasterPassword.label  "Прибрати головний пароль…">
+<!ENTITY  removeMasterPassword.accesskey "и">
+<!ENTITY  editPasswords.label         "Змінити збережені паролі">
+<!ENTITY  editPasswords.accesskey     "і">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; може полегшити роботу антивіруса при перевірці вхідних повідомлень на наявність вірусів перед тим, як зберегти їх в поштові теки.">
+<!ENTITY antiVirus.label      "Дозволити антивірусу поміщати в карантин окремі вхідні повідомлення">
+<!ENTITY antiVirus.accesskey  "Д">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "Антивірус">
+<!ENTITY paswords.label         "Паролі">
+<!ENTITY emailScams.label       "Електронне шахрайство">
+<!ENTITY junkMail.label         "Спам">
+<!ENTITY itemIntrusions.label   "Втручання">
+<!ENTITY itemIntrusionsAndPasswords.label  "Втручання та паролі">
+<!ENTITY itemJunkMail.label     "Спам">

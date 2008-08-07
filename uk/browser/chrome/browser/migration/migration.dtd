@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Майстер імпорту">
+
+<!ENTITY importFrom.label "Імпортувати налаштування, закладки, журнал, паролі та інші дані з:">
+<!ENTITY importFromUnix.label "Імпортувати налаштування, закладки, журнал, паролі та інші дані з:">
+<!ENTITY importFromBookmarks.label "Імпортувати закладки з:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird або Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Не імпортувати нічого">
+<!ENTITY importFromNothing.accesskey "Н">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 або Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label "З файлу HTML">
+<!ENTITY importFromHTMLFile.accesskey "а">
+
+<!ENTITY noMigrationSources.label "Не знайдено жодної програми із закладками, журналом або паролями.">
+
+<!ENTITY importSource.title "Імпорт налаштувань і даних">
+<!ENTITY importItems.title "Об’єкти для імпорту">
+<!ENTITY importItems.label "Виберіть об’єкти для імпорту:">
+
+<!ENTITY migrating.title "Триває імпорт…">
+<!ENTITY migrating.label "Зараз імпортуються наступні об’єкти…">
+
+<!ENTITY selectProfile.title "Вибір профілю">
+<!ENTITY selectProfile.label "Імпорт можна провести з наступних профілів:">
+
+<!ENTITY done.title "Імпорт успішно завершений">
+<!ENTITY done.label "Наступні об’єкти успішно імпортовані:">
+

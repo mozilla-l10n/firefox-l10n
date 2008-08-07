@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Віднайдіть Мережу">
+<!ENTITY credit.thanks "Спеціальна подяка">
+
+<!ENTITY credit.thanks2 "Велика подяка нашим">
+<!ENTITY credit.contributors2 "учасникам проекту">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Перекладачі</h3><ul><li>Тимофій Бабич</li><li>Андрій Рисін</li><li>Олександр Касянюк</li></ul>">
+
+<!ENTITY credit.memory "Присвячується пам’яті">
+<!ENTITY credit.poweredByGeckoReg "Працює на Gecko&reg;">

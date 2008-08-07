@@ -1,0 +1,30 @@
+<!ENTITY credit.title     "Учасники проекту &brandFullName;">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.leads     "Провідні розробники">
+<!ENTITY credit.core      "Розробники ядра">
+<!ENTITY credit.gecko     "Движок рендерінгу Gecko">
+<!ENTITY credit.thanks    "Спеціальна подяка">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "">
+
+<!ENTITY credit.visuals     "Координатор розробки візуального дизайну">
+<!ENTITY credit.theme       "Дизайн теми">
+<!ENTITY credit.brand       "Розробка логотипу">
+<!ENTITY credit.web         "Веб-дизайн">
+<!ENTITY credit.update      "Сайт Mozilla Update">
+<!ENTITY credit.qalead      "Розділ групи забезпечення якості">
+<!ENTITY credit.qa          "Група забезпечення якості">
+<!ENTITY credit.build       "Збірка і випуск релізів">
+<!ENTITY credit.infra       "Підтримка інфраструктури">
+<!ENTITY credit.support     "Забезпечення підтримки користувачів">
+<!ENTITY credit.manage      "Менеджмент проекту">
+<!ENTITY credit.marketleads "Провідні маркетологи">
+<!ENTITY credit.market      "Маркетинг">
+<!ENTITY credit.creators    "Розробники">
+<!ENTITY credit.memory      "Присвячується пам’яті">
+<!ENTITY credit.poweredByGecko "На движку Gecko™">

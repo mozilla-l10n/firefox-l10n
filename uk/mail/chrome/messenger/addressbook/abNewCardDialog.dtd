@@ -1,0 +1,89 @@
+<!-- Labels -->
+<!ENTITY chooseAddressBook.label         "Додати в:">
+<!ENTITY chooseAddressBook.accesskey     "Д">
+
+<!-- Contact Tab -->
+<!ENTITY Contact.tab                     "Контакт"> 
+<!ENTITY Name.box                        "Ім’я"> 
+<!-- LOCALIZATION NOTE: 
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName"> 
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName"> 
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY NameField1.label               "Ім’я:">
+<!ENTITY NameField1.accesskey           "І">
+<!ENTITY NameField2.label               "Прізвище:">
+<!ENTITY NameField2.accesskey           "П">
+<!ENTITY PhoneticField1.label           "Вимова:">
+<!ENTITY PhoneticField2.label           "Вимова:">
+<!ENTITY DisplayName.label              "Відображати як:">
+<!ENTITY DisplayName.accesskey          "В">
+<!ENTITY NickName.label                 "Псевдонім:">
+<!ENTITY NickName.accesskey             "д">
+<!ENTITY Internet.box                   "Інтернет">
+<!ENTITY PrimaryEmail.label             "Електронна пошта:">
+<!ENTITY PrimaryEmail.accesskey         "Е">
+<!ENTITY SecondEmail.label              "Дод. адреса електронної пошти:">
+<!ENTITY SecondEmail.accesskey          "о">
+<!ENTITY PreferMailFormat.label         "Вважає за краще отримувати пошту у форматі:">
+<!ENTITY PreferMailFormat.accesskey     "р">
+<!ENTITY PlainText.label                "Звичайний текст">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Невідомо">
+<!ENTITY ScreenName.label               "Інтернет-пейджер:">
+<!ENTITY ScreenName.accesskey           "п">
+<!ENTITY Phones.box                     "Телефони">
+<!ENTITY WorkPhone.label                "Робочий:">
+<!ENTITY WorkPhone.accesskey            "Р">
+<!ENTITY HomePhone.label                "Домашній:">
+<!ENTITY HomePhone.accesskey            "Д">
+<!ENTITY FaxNumber.label                "Факс:">
+<!ENTITY FaxNumber.accesskey            "Ф">
+<!ENTITY PagerNumber.label              "Пейджер:">
+<!ENTITY PagerNumber.accesskey          "П">
+<!ENTITY CellularNumber.label           "Мобільний:">
+<!ENTITY CellularNumber.accesskey       "М">
+
+<!-- Address Tab -->
+<!ENTITY Address.tab                    "Адреса"> 
+<!ENTITY Home.box                       "Домашній"> 
+<!ENTITY HomeAddress.label              "Адреса:"> 
+<!ENTITY HomeAddress2.label             ""> 
+<!ENTITY HomeCity.label                 "Місто:"> 
+<!ENTITY HomeState.label                "Область, край:"> 
+<!ENTITY HomeZipCode.label              "Поштовий індекс:"> 
+<!ENTITY HomeCountry.label              "Країна:">
+<!ENTITY HomeWebPage.label              "Веб-сторінка:"> 
+<!ENTITY Work.box                       "Робочий"> 
+<!ENTITY JobTitle.label                 "Посада:"> 
+<!ENTITY Department.label               "Відділ:"> 
+<!ENTITY Company.label                  "Організація:"> 
+<!ENTITY WorkAddress.label              "Адреса:"> 
+<!ENTITY WorkAddress2.label             ""> 
+<!ENTITY WorkCity.label                 "Місто:"> 
+<!ENTITY WorkState.label                "Область, край:"> 
+<!ENTITY WorkZipCode.label              "Поштовий індекс:"> 
+<!ENTITY WorkCountry.label              "Країна:">
+<!ENTITY WorkWebPage.label              "Веб-сторінка:"> 
+
+<!-- Other Tab -->
+<!ENTITY Other.tab                      "Інше">
+<!ENTITY Custom1.label                  "Інше 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Інше 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Інше 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Інше 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.box                      "Замітки">

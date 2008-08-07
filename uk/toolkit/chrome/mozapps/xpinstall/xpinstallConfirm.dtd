@@ -1,0 +1,9 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "Встановлення програмного забезпечення">
+<!ENTITY dialog.style "width: 45em">
+<!ENTITY warningMain.label "Встановлюйте додатки лише тих авторів котрим ви довіряєте.">
+<!ENTITY warningSecondary.label "Програми можуть містити віруси, що можуть пошкодити вашому комп’ютеру або порушити вашу конфіденційність.">
+
+<!ENTITY from.label "з:">
+

@@ -1,0 +1,20 @@
+<!ENTITY charsetMenu.label        "Кодова сторінка">
+<!ENTITY charsetMenu.accesskey        "К">
+<!ENTITY charsetMenuAutodet.label     "Автоматичне визначення">
+<!ENTITY charsetMenuAutodet.accesskey     "А">
+<!ENTITY charsetMenuMore.label        "Більше кодових сторінок">
+<!ENTITY charsetMenuMore.accesskey        "Б">
+<!ENTITY charsetMenuMore1.label       "Західна Європа">
+<!ENTITY charsetMenuMore1.accesskey       "З">
+<!ENTITY charsetMenuMore2.label       "Східна Європа">
+<!ENTITY charsetMenuMore2.accesskey       "С">
+<!ENTITY charsetMenuMore3.label       "Східна Азія">
+<!ENTITY charsetMenuMore3.accesskey       "А">
+<!ENTITY charsetMenuMore4.label       "Пд-Сх та Пд-Зх Азія">
+<!ENTITY charsetMenuMore4.accesskey       "П">
+<!ENTITY charsetMenuMore5.label       "Середній Схід">
+<!ENTITY charsetMenuMore5.accesskey       "р">
+<!ENTITY charsetMenuUnicode.label       "Універсальні">
+<!ENTITY charsetMenuUnicode.accesskey       "У">
+<!ENTITY charsetCustomize.label       "Налаштувати список…">
+<!ENTITY charsetCustomize.accesskey       "Н">

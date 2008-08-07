@@ -1,0 +1,150 @@
+ <!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- LOCALIZATION NOTE This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY event.title.label                  "Редагувати пункт" >
+
+<!ENTITY newevent.title.label               "Назва" >
+<!ENTITY newevent.title.accesskey           "а" >
+<!ENTITY newevent.itemType.event.label      "Подія" >
+<!ENTITY newevent.itemType.todo.label       "Завдання" >
+<!ENTITY newevent.location.label            "Місце" >
+<!ENTITY newevent.location.accesskey        "М" >
+
+<!-- LOCALIZATION NOTE In the following New Event/Task dialog only sections,
+   - all accesskeys MUST be different. See Bug 357027 Comment #14 for more
+   - details  -->
+<!-- The following entities are for New Event dialog only -->
+<!ENTITY newevent.from.label                "З" >
+<!ENTITY newevent.from.accesskey            "З" >
+<!ENTITY newevent.to.label                  "До" >
+<!ENTITY newevent.to.accesskey              "Д" >
+<!ENTITY newevent.alldayevent.label         "Весь день" >
+<!ENTITY newevent.alldayevent.accesskey     "В" >
+
+<!-- The following entities are for New Task dialog only -->
+<!ENTITY newevent.date.label                "Дата" >
+<!ENTITY newevent.date.accesskey            "а" >
+<!ENTITY newtodo.duedate.label              "Дата дії">
+<!ENTITY newtodo.duedate.accesskey          "т">
+
+<!ENTITY newevent.repeat2.label             "Повтор" >
+<!ENTITY newevent.repeat2.accesskey         "П" >
+<!ENTITY newevent.set.label                 "Встановити шаблон…" >
+<!ENTITY newevent.set.accesskey             "н" >
+
+<!ENTITY newevent.server.label              "Календар" >
+<!ENTITY newevent.server.accesskey          "К" >
+<!ENTITY newtodo.categories.label           "Категорія">
+<!ENTITY newtodo.categories.accesskey       "о">
+
+<!ENTITY newevent.description.label         "Опис" >
+<!ENTITY newevent.description.accesskey     "О" >
+
+<!ENTITY newevent.attendees.label           "Присутні" >
+<!ENTITY newevent.attendees.accesskey       "и" >
+<!ENTITY newevent.attendees.sendEmail.label "Надіслати присутнім запрошення на пошту">
+
+<!ENTITY newevent.privacy.label             "Конфіденційність" >
+<!ENTITY newevent.privacy.accesskey         "ф" >
+<!ENTITY newevent.public.label              "Публічно" >
+<!ENTITY newevent.private.label             "Приватно" >
+<!ENTITY newevent.confidential.label        "Конфіденційно" >
+
+<!ENTITY newtodo.priority.label             "Пріоритет">
+<!ENTITY newtodo.priority.accesskey         "і">
+<!ENTITY priority.level.none                "Не зазначено">
+<!ENTITY priority.level.none.accesskey      "Н">
+<!ENTITY priority.level.low                 "Низький">
+<!ENTITY priority.level.low.accesskey       "й">
+<!ENTITY priority.level.medium              "Середній">
+<!ENTITY priority.level.medium.accesskey    "С">
+<!ENTITY priority.level.high                "Високий">
+<!ENTITY priority.level.high.accesskey      "В">
+
+<!ENTITY newevent.status.label              "Стан" >
+<!ENTITY newevent.status.accesskey          "С" >
+<!ENTITY newevent.status.none.label         "Не зазначено" >
+<!ENTITY newevent.status.cancelled.label    "Відмінено" >
+
+<!-- The following entities are for New Event dialog only -->
+<!ENTITY newevent.status.tentative.label    "Попередньо" >
+<!ENTITY newevent.status.confirmed.label    "Підтверджено" >
+
+<!-- The following entities are for New Task dialog only -->
+<!ENTITY newevent.status.needsaction.label  "Потребує дій" >
+<!ENTITY newevent.status.inprogress.label   "В процесі" >
+<!ENTITY newevent.status.completed.label    "Завершено:" >
+
+<!ENTITY newevent.alarm.label               "Сповіщення" >
+<!ENTITY newevent.alarm.accesskey           "щ" >
+<!ENTITY newevent.none.label                "жодного" >
+<!ENTITY newevent.15minutes.before.label    "за 15 хв." >
+<!ENTITY newevent.30minutes.before.label    "за 30 хв." >
+<!ENTITY newevent.custom.label              "Власне…" >
+
+<!ENTITY newevent.uri.label                 "URL" >
+<!ENTITY newevent.uri.accesskey             "U" >
+<!ENTITY newevent.uri.visit.label           "Відвідати URL" >
+<!ENTITY newevent.uri.visit.accesskey       "R" >
+
+<!-- The following entity is for New Task dialog only -->
+<!ENTITY newtodo.percentcomplete.label      "&#37; завершено">
+
+<!ENTITY calendar.more.label                "Більше">
+<!ENTITY calendar.less.label                "Менше">
+
+<!-- Alarm -->
+<!ENTITY alarm.units.minutes                "хвилин" >
+<!ENTITY alarm.units.hours                  "годин" >
+<!ENTITY alarm.units.days                   "днів" >
+
+<!ENTITY alarm.start.warning                "Це сповіщення потребує дати початку" >
+<!ENTITY alarm.due.warning                  "Це сповіщення потребує дати дії" >
+
+<!ENTITY newevent.before.label              "до" >
+<!ENTITY newevent.after.label               "після" >
+
+<!-- Information messages -->
+<!ENTITY newevent.endtime.warning           "Вказаний час початку пізніше вказаного часу кінця.">
+<!ENTITY newevent.readonly.item.warning     "Цей пункт є лише у календарі для читання.  Ви не можете його редагувати.">
+<!ENTITY newevent.readonly.cal.warning      "Цей календар лише для читання.">
+<!ENTITY newtodo.repeatstart.warning        "Дата початку потрібна для повторення.">

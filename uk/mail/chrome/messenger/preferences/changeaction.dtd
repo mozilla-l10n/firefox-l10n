@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "Зміна дії">
+<!ENTITY  window.width                         "36em">
+
+<!ENTITY  whenDownloading.label               "При завантаженні файлів типу:">
+
+<!ENTITY  openDefault.label                   "Відкривати їх за допомогою програми за умовчанням:">
+<!ENTITY  openDefault.accesskey               "у">
+<!ENTITY  openApplication.label               "Відкривати їх за допомогою програми:">
+<!ENTITY  openApplication.accesskey           "п">
+<!ENTITY  changeApp.label                     "Змінити…">
+<!ENTITY  changeApp.accesskey                 "З">
+<!ENTITY  saveToDisk.label                    "Зберігати на диск">
+<!ENTITY  saveToDisk.accesskey                "д">
+<!ENTITY  saveToDefaultFolder.label           "у теку для завантажень за умовчанням">
+<!ENTITY  saveToDefaultFolder.accesskey       "м">
+<!ENTITY  saveToThisFolder.label              "у теку:">
+<!ENTITY  saveToThisFolder.accesskey          "т">
+<!ENTITY  chooseFolder.label                  "Огляд…">
+<!ENTITY  chooseFolder.accesskey              "О">
+<!ENTITY  saveToAskMe.label                   "питати мене куди зберігати файл">
+<!ENTITY  saveToAskMe.accesskey               "у">
+<!ENTITY  usePlugin.label                     "Використовувати наступний модуль:">
+<!ENTITY  usePlugin.accesskey                 "м">

@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Друк">
+
+<!ENTITY printDialog.title "Друк">
+
+<!ENTITY fpDialog.title "Зберегти файл">
+
+<!ENTITY fileCheck.label "Друк у файл">
+<!ENTITY propertiesButton.label "Властивості…">
+<!ENTITY descText.label "Опис принтера:">
+<!ENTITY printer.label "Принтер">
+<!ENTITY printerInput.label "Принтер:">
+
+<!ENTITY printrangeGroup.label "Діапазон друку">
+<!ENTITY allpagesRadio.label "Всі сторінки">
+<!ENTITY rangeRadio.label "Сторінки">
+<!ENTITY frompageInput.label "з">
+<!ENTITY topageInput.label "по">
+<!ENTITY selectionRadio.label "Виділений фрагмент">
+
+<!ENTITY copies.label "Копії">
+<!ENTITY numCopies.label "Число копій:">
+
+<!ENTITY printframeGroup.label "Друк фреймів">
+<!ENTITY aslaidoutRadio.label "Що показані на екрані">
+<!ENTITY selectedframeRadio.label "Виділеного фрейма">
+<!ENTITY eachframesepRadio.label "Всіх фреймів окремо">

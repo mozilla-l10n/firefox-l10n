@@ -1,0 +1,8 @@
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Повідомлення">
+<!ENTITY  newMessageCmd.accesskey         "П">
+ 
+<!ENTITY  newCardCmd.label                "Картку адресної книги…">
+<!ENTITY  newCardCmd.accesskey            "К">
+ 

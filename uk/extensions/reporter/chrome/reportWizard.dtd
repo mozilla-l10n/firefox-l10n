@@ -1,0 +1,59 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Повідомити про некоректний веб-сайт">
+
+<!ENTITY privacyNotice.label "Угода конфіденційності">
+<!ENTITY reportWizardPrivacy.description "Цей інструмент дозволяє вам повідомити нас про веб-сайти, що некоректно працюють в &brandShortName; або що відмовляються працювати в  &brandShortName;. Цим ви допоможете нам забезпечити якнайкращу роботу з веб-сторінками користувачам &brandShortName;. Будь ласка, прочитайте наступне, щоб дізнатися, як ми використовуємо збирану інформацію, якщо ви з нами нею поділитеся.">
+<!ENTITY reportWizardMustAgree.description "Перш ніж продовжити, ви маєте прийняти угоду конфіденційності.">
+
+<!ENTITY dontShowPrivacyStatement.label "Я ознайомився і приймаю угоду конфіденційності.">
+<!ENTITY dontShowPrivacyStatement.accesskey "Я">
+
+<!ENTITY reportForm.label "Заповнити звіт">
+
+<!ENTITY reportForm.description "Коротко розкажіть нам про вашу проблему:">
+<!ENTITY reportForm.url.title "URL веб-сайта:">
+<!ENTITY reportForm.url.accesskey "U">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Цей веб-сайт захищено паролем">
+<!ENTITY reportForm.behind_login.accesskey "п">
+
+<!ENTITY reportForm.problem_type.title "Тип проблеми:">
+<!ENTITY reportForm.problem_type.accesskey "Т">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Виберіть тип проблеми…">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Браузер не підтримується">
+<!ENTITY reportForm.problem_type.item2.title "Не можу пройти авторизацію">
+<!ENTITY reportForm.problem_type.item3.title "Не відображається модуль">
+<!ENTITY reportForm.problem_type.item4.title "Втрачено частину змісту">
+<!ENTITY reportForm.problem_type.item5.title "Сторінка функціонує неправильно">
+<!ENTITY reportForm.problem_type.item6.title "Сторінка відображається неправильно">
+<!ENTITY reportForm.problem_type.item7.title "Інша проблема">
+<!ENTITY reportForm.problem_type.item8.title "Недостатні можливості доступності">
+<!ENTITY reportForm.problem_type.item9.title "Неправильно виводиться на друк">
+
+<!ENTITY reportForm.describe.title "Опишіть проблему:">
+<!ENTITY reportForm.describe.accesskey "О">
+
+<!ENTITY reportForm.platform.title "Платформа:">
+<!ENTITY reportForm.product.title "Продукт:">
+<!ENTITY reportForm.gecko.title "Версія двигуна Gecko:">
+<!ENTITY reportForm.useragent.title "Useragent:">
+<!ENTITY reportForm.language.title "Мова:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "Адреса ел. пошти (необов’язкова):">
+<!ENTITY reportForm.email.accesskey "з">
+
+<!ENTITY reportForm.privacyPolicy.title "Угода конфіденційності">
+<!ENTITY reportForm.privacyPolicy.tooltip "Угода конфіденційності">
+
+<!ENTITY reportResults.showDetail.title "Показати подробиці">
+<!ENTITY reportResults.showDetail.accesskey "д">
+
+<!ENTITY sendReport.label "Надсилаю повідомлення">
+<!ENTITY sendReport.description "Повідомлення надсилається на сервер…">
+
+<!ENTITY finish.label "Повідомлення надіслано">

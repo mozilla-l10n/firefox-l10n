@@ -1,0 +1,437 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Calendar Preferences
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Potter <mikep@oeone.com>
+   -   ArentJan Banck <ajbanck@planet.nl>
+   -   Eric Belhaire <belhaire@ief.u-psud.fr>
+   -   Matthew Willis <lilmatt@mozilla.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.calendar.timezones.list.caption "Оберіть найближче місто до Вашої часової зони:">
+<!ENTITY pref.timezone.Africa.Abidjan "Африка/Абіджан" >
+<!ENTITY pref.timezone.Africa.Accra "Африка/Аккра" >
+<!ENTITY pref.timezone.Africa.Addis_Ababa "Африка/Аддис-Абеба" >
+<!ENTITY pref.timezone.Africa.Algiers "Африка/Алжир" >
+<!ENTITY pref.timezone.Africa.Asmara "Африка/Асмара" >
+<!ENTITY pref.timezone.Africa.Bamako "Африка/Бамако" >
+<!ENTITY pref.timezone.Africa.Bangui "Африка/Банґі" >
+<!ENTITY pref.timezone.Africa.Banjul "Африка/Банджул" >
+<!ENTITY pref.timezone.Africa.Bissau "Африка/Біссау" >
+<!ENTITY pref.timezone.Africa.Blantyre "Африка/Блантир" >
+<!ENTITY pref.timezone.Africa.Brazzaville "Африка/Браззавіль" >
+<!ENTITY pref.timezone.Africa.Bujumbura "Африка/Буджумбура" >
+<!ENTITY pref.timezone.Africa.Cairo "Африка/Каїр" >
+<!ENTITY pref.timezone.Africa.Casablanca "Африка/Касабланка" >
+<!ENTITY pref.timezone.Africa.Ceuta "Африка/Сеута" >
+<!ENTITY pref.timezone.Africa.Conakry "Африка/Конакрі" >
+<!ENTITY pref.timezone.Africa.Dakar "Африка/Дакар" >
+<!ENTITY pref.timezone.Africa.Dar_es_Salaam "Африка/Дар-ес-Салам" >
+<!ENTITY pref.timezone.Africa.Djibouti "Африка/Джибуті" >
+<!ENTITY pref.timezone.Africa.Douala "Африка/Дуала" >
+<!ENTITY pref.timezone.Africa.El_Aaiun "Африка/Ель-Аюн" >
+<!ENTITY pref.timezone.Africa.Freetown "Африка/Фрітаун" >
+<!ENTITY pref.timezone.Africa.Gaborone "Африка/Ґабороне" >
+<!ENTITY pref.timezone.Africa.Harare "Африка/Хараре" >
+<!ENTITY pref.timezone.Africa.Johannesburg "Африка/Йоганнесбург" >
+<!ENTITY pref.timezone.Africa.Kampala "Африка/Кампала" >
+<!ENTITY pref.timezone.Africa.Khartoum "Африка/Хартум" >
+<!ENTITY pref.timezone.Africa.Kigali "Африка/Кіґалі" >
+<!ENTITY pref.timezone.Africa.Kinshasa "Африка/Кіншаса" >
+<!ENTITY pref.timezone.Africa.Lagos "Африка/Лагос" >
+<!ENTITY pref.timezone.Africa.Libreville "Африка/Лібревіль" >
+<!ENTITY pref.timezone.Africa.Lome "Африка/Ломе" >
+<!ENTITY pref.timezone.Africa.Luanda "Африка/Луанда" >
+<!ENTITY pref.timezone.Africa.Lubumbashi "Африка/Лубумбаши" >
+<!ENTITY pref.timezone.Africa.Lusaka "Африка/Лусака" >
+<!ENTITY pref.timezone.Africa.Malabo "Африка/Малабо" >
+<!ENTITY pref.timezone.Africa.Maputo "Африка/Мапуту" >
+<!ENTITY pref.timezone.Africa.Maseru "Африка/Масеру" >
+<!ENTITY pref.timezone.Africa.Mbabane "Африка/Мбабане" >
+<!ENTITY pref.timezone.Africa.Mogadishu "Африка/Могадішо" >
+<!ENTITY pref.timezone.Africa.Monrovia "Африка/Монровія" >
+<!ENTITY pref.timezone.Africa.Nairobi "Африка/Найробі" >
+<!ENTITY pref.timezone.Africa.Ndjamena "Африка/Нджамена" >
+<!ENTITY pref.timezone.Africa.Niamey "Африка/Ніамей" >
+<!ENTITY pref.timezone.Africa.Nouakchott "Африка/Нуакшот" >
+<!ENTITY pref.timezone.Africa.Ouagadougou "Африка/Уаґадуґу" >
+<!ENTITY pref.timezone.Africa.Porto-Novo "Африка/Порто-Ново" >
+<!ENTITY pref.timezone.Africa.Sao_Tome "Африка/Сан-Томе" >
+<!ENTITY pref.timezone.Africa.Tripoli "Африка/Тріполі" >
+<!ENTITY pref.timezone.Africa.Tunis "Африка/Туніс" >
+<!ENTITY pref.timezone.Africa.Windhoek "Африка/Віндхук" >
+<!ENTITY pref.timezone.America.Adak "Америка/Адак" >
+<!ENTITY pref.timezone.America.Anchorage "Америка/Анкорідж" >
+<!ENTITY pref.timezone.America.Anguilla "Америка/Анґілья" >
+<!ENTITY pref.timezone.America.Antigua "Америка/Антігуа" >
+<!ENTITY pref.timezone.America.Araguaina "Америка/Араґуяна" >
+<!ENTITY pref.timezone.America.Argentina.Buenos_Aires "Америка/Аргентина/Буенос Айрес" >
+<!ENTITY pref.timezone.America.Argentina.Catamarca "Америка/Аргентина/Катамарка" >
+<!ENTITY pref.timezone.America.Argentina.Cordoba "Америка/Аргентина/Кордоба" >
+<!ENTITY pref.timezone.America.Argentina.Jujuy "Америка/Аргентина/Хухуй" >
+<!ENTITY pref.timezone.America.Argentina.La_Rioja "Америка/Аргентина/Ла Ріоха" >
+<!ENTITY pref.timezone.America.Argentina.Mendoza "Америка/Аргентина/Мендоза" >
+<!ENTITY pref.timezone.America.Argentina.Rio_Gallegos "Америка/Аргентина/Ріо Ґалеґос" >
+<!ENTITY pref.timezone.America.Argentina.San_Juan "Америка/Аргентина/Сан Хуан" >
+<!ENTITY pref.timezone.America.Argentina.Tucuman "Америка/Аргентина/Тукуман" >
+<!ENTITY pref.timezone.America.Argentina.Ushuaia "Америка/Аргентина/Ушуайя" >
+<!ENTITY pref.timezone.America.Aruba "Америка/Аруба" >
+<!ENTITY pref.timezone.America.Asuncion "Америка/Асунсьон" >
+<!ENTITY pref.timezone.America.Atikokan "Америка/Атікокан" >
+<!ENTITY pref.timezone.America.Bahia "Америка/Багія" >
+<!ENTITY pref.timezone.America.Barbados "Америка/Барбадос" >
+<!ENTITY pref.timezone.America.Belem "Америка/Белем" >
+<!ENTITY pref.timezone.America.Belize "Америка/Беліз" >
+<!ENTITY pref.timezone.America.Blanc-Sablon "Америка/Блан-Саблон" >
+<!ENTITY pref.timezone.America.Boa_Vista "Америка/Боа-Вішта" >
+<!ENTITY pref.timezone.America.Bogota "Америка/Богота" >
+<!ENTITY pref.timezone.America.Boise "Америка/Бойсе" >
+<!ENTITY pref.timezone.America.Cambridge_Bay "Америка/Кембрідж-Бей" >
+<!ENTITY pref.timezone.America.Campo_Grande "Америка/Кампо Ґранде" >
+<!ENTITY pref.timezone.America.Cancun "Америка/Канкун" >
+<!ENTITY pref.timezone.America.Caracas "Америка/Каракас" >
+<!ENTITY pref.timezone.America.Cayenne "Америка/Кайєнна" >
+<!ENTITY pref.timezone.America.Cayman "Америка/Кайманові острови" >
+<!ENTITY pref.timezone.America.Chicago "Америка/Чикаго" >
+<!ENTITY pref.timezone.America.Chihuahua "Америка/Чіхуахуа" >
+<!ENTITY pref.timezone.America.Costa_Rica "Америка/Коста-Ріка" >
+<!ENTITY pref.timezone.America.Cuiaba "Америка/Куяба" >
+<!ENTITY pref.timezone.America.Curacao "Америка/Куракао" >
+<!ENTITY pref.timezone.America.Danmarkshavn "Америка/Денмаркшавн" >
+<!ENTITY pref.timezone.America.Dawson "Америка/Досон" >
+<!ENTITY pref.timezone.America.Dawson_Creek "Америка/Досон-Крік" >
+<!ENTITY pref.timezone.America.Denver "Америка/Денвер" >
+<!ENTITY pref.timezone.America.Detroit "Америка/Детройт" >
+<!ENTITY pref.timezone.America.Dominica "Америка/Домініка" >
+<!ENTITY pref.timezone.America.Edmonton "Америка/Едмонтон" >
+<!ENTITY pref.timezone.America.Eirunepe "Америка/Ірунепе" >
+<!ENTITY pref.timezone.America.El_Salvador "Америка/Сальвадор" >
+<!ENTITY pref.timezone.America.Fortaleza "Америка/Форталеза" >
+<!ENTITY pref.timezone.America.Glace_Bay "Америка/Ґлейс-Бей" >
+<!ENTITY pref.timezone.America.Godthab "Америка/Ґодтаб" >
+<!ENTITY pref.timezone.America.Goose_Bay "Америка/Ґуз-Бей" >
+<!ENTITY pref.timezone.America.Grand_Turk "Америка/Ґрад-Тюрк" >
+<!ENTITY pref.timezone.America.Grenada "Америка/Гренада" >
+<!ENTITY pref.timezone.America.Guadeloupe "Америка/Гваделупа" >
+<!ENTITY pref.timezone.America.Guatemala "Америка/Гватемала" >
+<!ENTITY pref.timezone.America.Guayaquil "Америка/Ґуаякіль" >
+<!ENTITY pref.timezone.America.Guyana "Америка/Гаяна" >
+<!ENTITY pref.timezone.America.Halifax "Америка/Галіфакс" >
+<!ENTITY pref.timezone.America.Havana "Америка/Гавана" >
+<!ENTITY pref.timezone.America.Hermosillo "Америка/Ермосійо" >
+<!ENTITY pref.timezone.America.Indiana.Indianapolis "Америка/Індіана/Індіанаполіс" >
+<!ENTITY pref.timezone.America.Indiana.Knox "Америка/Індіана/Нокс" >
+<!ENTITY pref.timezone.America.Indiana.Marengo "Америка/Індіана/Маренґо" >
+<!ENTITY pref.timezone.America.Indiana.Petersburg "Америка/Індіана/Петерсбург" >
+<!ENTITY pref.timezone.America.Indiana.Vevay "Америка/Індіана/Вевей" >
+<!ENTITY pref.timezone.America.Indiana.Vincennes "Америка/Індіана/Вінсеннес" >
+<!ENTITY pref.timezone.America.Inuvik "Америка/Інувік" >
+<!ENTITY pref.timezone.America.Iqaluit "Америка/Ікалуіт" >
+<!ENTITY pref.timezone.America.Jamaica "Америка/Ямайка" >
+<!ENTITY pref.timezone.America.Juneau "Америка/Джуно" >
+<!ENTITY pref.timezone.America.Kentucky.Louisville "Америка/Кентуккі/Луісвілл" >
+<!ENTITY pref.timezone.America.Kentucky.Monticello "Америка/Кентуккі/Монтічелло" >
+<!ENTITY pref.timezone.America.La_Paz "Америка/Ла-Паз" >
+<!ENTITY pref.timezone.America.Lima "Америка/Ліма" >
+<!ENTITY pref.timezone.America.Los_Angeles "Америка/Лос-Анжелес" >
+<!ENTITY pref.timezone.America.Maceio "Америка/Масейо" >
+<!ENTITY pref.timezone.America.Managua "Америка/Манагуа" >
+<!ENTITY pref.timezone.America.Manaus "Америка/Манаус" >
+<!ENTITY pref.timezone.America.Martinique "Америка/Мартініка" >
+<!ENTITY pref.timezone.America.Mazatlan "Америка/Мазатлан" >
+<!ENTITY pref.timezone.America.Menominee "Америка/Меноміні" >
+<!ENTITY pref.timezone.America.Merida "Америка/Меріда" >
+<!ENTITY pref.timezone.America.Mexico_City "Америка/Мехіко" >
+<!ENTITY pref.timezone.America.Miquelon "Америка/Мікелон" >
+<!ENTITY pref.timezone.America.Moncton "Америка/Монктон" >
+<!ENTITY pref.timezone.America.Monterrey "Америка/Мотеррей" >
+<!ENTITY pref.timezone.America.Montevideo "Америка/Монтевідео" >
+<!ENTITY pref.timezone.America.Montreal "Америка/Монреаль" >
+<!ENTITY pref.timezone.America.Montserrat "Америка/Монтсеррат" >
+<!ENTITY pref.timezone.America.Nassau "Америка/Нассау" >
+<!ENTITY pref.timezone.America.New_York "Америка/Нью-Йорк" >
+<!ENTITY pref.timezone.America.Nipigon "Америка/Ніпіґон" >
+<!ENTITY pref.timezone.America.Nome "Америка/Ном" >
+<!ENTITY pref.timezone.America.Noronha "Америка/Норонга" >
+<!ENTITY pref.timezone.America.North_Dakota.Center "Америка/Півн. Дакота/Центр" >
+<!ENTITY pref.timezone.America.North_Dakota.New_Salem "Америка/Півн. Дакота/Нью Салем" >
+<!ENTITY pref.timezone.America.Panama "Америка/Панама" >
+<!ENTITY pref.timezone.America.Pangnirtung "Америка/Панґніртунґ" >
+<!ENTITY pref.timezone.America.Paramaribo "Америка/Парамарібо" >
+<!ENTITY pref.timezone.America.Phoenix "Америка/Фенікс" >
+<!ENTITY pref.timezone.America.Port-au-Prince "Америка/Порт-о-Пренс" >
+<!ENTITY pref.timezone.America.Port_of_Spain "Америка/Порт-оф-Спейн" >
+<!ENTITY pref.timezone.America.Porto_Velho "Америка/Порто-Велго" >
+<!ENTITY pref.timezone.America.Puerto_Rico "Америка/Пуерто-Ріко" >
+<!ENTITY pref.timezone.America.Rainy_River "Америка/Рейні-Рівер" >
+<!ENTITY pref.timezone.America.Rankin_Inlet "Америка/Ранклін-Інлет" >
+<!ENTITY pref.timezone.America.Recife "Америка/Ресіфі" >
+<!ENTITY pref.timezone.America.Regina "Америка/Ріджайна" >
+<!ENTITY pref.timezone.America.Rio_Branco "Америка/Ріо-Бранко" >
+<!ENTITY pref.timezone.America.Santiago "Америка/Сантьяґо" >
+<!ENTITY pref.timezone.America.Santo_Domingo "Америка/Санто-Домінґо" >
+<!ENTITY pref.timezone.America.Sao_Paulo "Америка/Сан-Паулу" >
+<!ENTITY pref.timezone.America.Scoresbysund "Америка/Скорсбайзунд" >
+<!ENTITY pref.timezone.America.Shiprock "Америка/Шіпрок" >
+<!ENTITY pref.timezone.America.St_Johns "Америка/Сент-Джонс" >
+<!ENTITY pref.timezone.America.St_Kitts "Америка/Сент-Кіттс" >
+<!ENTITY pref.timezone.America.St_Lucia "Америка/Санта-Лючія" >
+<!ENTITY pref.timezone.America.St_Thomas "Америка/Сент-Томас" >
+<!ENTITY pref.timezone.America.St_Vincent "Америка/Сент-Вінсент" >
+<!ENTITY pref.timezone.America.Swift_Current "Америка/Свіфт-Карент" >
+<!ENTITY pref.timezone.America.Tegucigalpa "Америка/Теґучіґальпа" >
+<!ENTITY pref.timezone.America.Thule "Америка/Тулє" >
+<!ENTITY pref.timezone.America.Thunder_Bay "Америка/Тандер-Бей" >
+<!ENTITY pref.timezone.America.Tijuana "Америка/Тіхуана" >
+<!ENTITY pref.timezone.America.Toronto "Америка/Торонто" >
+<!ENTITY pref.timezone.America.Tortola "Америка/Тортола" >
+<!ENTITY pref.timezone.America.Vancouver "Америка/Ванкувер" >
+<!ENTITY pref.timezone.America.Whitehorse "Америка/Вайтхорс" >
+<!ENTITY pref.timezone.America.Winnipeg "Америка/Вінніпег" >
+<!ENTITY pref.timezone.America.Yakutat "Америка/Якутат" >
+<!ENTITY pref.timezone.America.Yellowknife "Америка/Єллоунайф" >
+<!ENTITY pref.timezone.Antarctica.Casey "Антарктика/Кейсі" >
+<!ENTITY pref.timezone.Antarctica.Davis "Антарктика/Девіс" >
+<!ENTITY pref.timezone.Antarctica.DumontDUrville "Антарктика/Дюмон-д’Юрвиль" >
+<!ENTITY pref.timezone.Antarctica.Mawson "Антарктика/Моусон" >
+<!ENTITY pref.timezone.Antarctica.McMurdo "Антарктика/Макмердо" >
+<!ENTITY pref.timezone.Antarctica.Palmer "Антарктика/Палмер" >
+<!ENTITY pref.timezone.Antarctica.Rothera "Антарктика/Ротера" >
+<!ENTITY pref.timezone.Antarctica.South_Pole "Антарктика/Південний_Полюс" >
+<!ENTITY pref.timezone.Antarctica.Syowa "Антарктика/Сєва" >
+<!ENTITY pref.timezone.Antarctica.Vostok "Антарктика/Восток" >
+<!ENTITY pref.timezone.Arctic.Longyearbyen "Арктика/Лонґєрбєн" >
+<!ENTITY pref.timezone.Asia.Aden "Азія/Аден" >
+<!ENTITY pref.timezone.Asia.Almaty "Азія/Алмати" >
+<!ENTITY pref.timezone.Asia.Amman "Азія/Амман" >
+<!ENTITY pref.timezone.Asia.Anadyr "Азія/Анадир" >
+<!ENTITY pref.timezone.Asia.Aqtau "Азія/Актау" >
+<!ENTITY pref.timezone.Asia.Aqtobe "Азія/Актобе (Актюбинськ)" >
+<!ENTITY pref.timezone.Asia.Ashgabat "Азія/Ашхабад" >
+<!ENTITY pref.timezone.Asia.Baghdad "Азія/Багдад" >
+<!ENTITY pref.timezone.Asia.Bahrain "Азія/Бахрейн" >
+<!ENTITY pref.timezone.Asia.Baku "Азія/Баку" >
+<!ENTITY pref.timezone.Asia.Bangkok "Азія/Бангкок" >
+<!ENTITY pref.timezone.Asia.Beirut "Азія/Бейрут" >
+<!ENTITY pref.timezone.Asia.Bishkek "Азія/Бішкек" >
+<!ENTITY pref.timezone.Asia.Brunei "Азія/Бруней" >
+<!ENTITY pref.timezone.Asia.Calcutta "Азія/Калькутта" >
+<!ENTITY pref.timezone.Asia.Choibalsan "Азія/Чойбалсан" >
+<!ENTITY pref.timezone.Asia.Chongqing "Азія/Чонґкінґ" >
+<!ENTITY pref.timezone.Asia.Colombo "Азія/Коломбо" >
+<!ENTITY pref.timezone.Asia.Damascus "Азія/Дамаск" >
+<!ENTITY pref.timezone.Asia.Dhaka "Азія/Дакка" >
+<!ENTITY pref.timezone.Asia.Dili "Азія/Ділі" >
+<!ENTITY pref.timezone.Asia.Dubai "Азія/Дубаї" >
+<!ENTITY pref.timezone.Asia.Dushanbe "Азія/Душанбе" >
+<!ENTITY pref.timezone.Asia.Gaza "Азія/Ґаза" >
+<!ENTITY pref.timezone.Asia.Harbin "Азія/Гарбін" >
+<!ENTITY pref.timezone.Asia.Hong_Kong "Азія/Гонґ-Конґ" >
+<!ENTITY pref.timezone.Asia.Hovd "Азія/Ховд" >
+<!ENTITY pref.timezone.Asia.Irkutsk "Азія/Іркутськ" >
+<!ENTITY pref.timezone.Asia.Istanbul "Азія/Стамбул" >
+<!ENTITY pref.timezone.Asia.Jakarta "Азія/Джакарта" >
+<!ENTITY pref.timezone.Asia.Jayapura "Азія/Джаяпура" >
+<!ENTITY pref.timezone.Asia.Jerusalem "Азія/Єрусалим" >
+<!ENTITY pref.timezone.Asia.Kabul "Азія/Кабул" >
+<!ENTITY pref.timezone.Asia.Kamchatka "Азія/Камчатка" >
+<!ENTITY pref.timezone.Asia.Karachi "Азія/Карачі" >
+<!ENTITY pref.timezone.Asia.Kashgar "Азія/Кашгар" >
+<!ENTITY pref.timezone.Asia.Katmandu "Азія/Катманду" >
+<!ENTITY pref.timezone.Asia.Krasnoyarsk "Азія/Красноярськ" >
+<!ENTITY pref.timezone.Asia.Kuala_Lumpur "Азія/Куала-Лумпур" >
+<!ENTITY pref.timezone.Asia.Kuching "Азія/Кучінґ" >
+<!ENTITY pref.timezone.Asia.Kuwait "Азія/Кувейт" >
+<!ENTITY pref.timezone.Asia.Macau "Азія/Макау" >
+<!ENTITY pref.timezone.Asia.Magadan "Азія/Магадан" >
+<!ENTITY pref.timezone.Asia.Makassar "Азія/Макассар" >
+<!ENTITY pref.timezone.Asia.Manila "Азія/Маніла" >
+<!ENTITY pref.timezone.Asia.Muscat "Азія/Мускат" >
+<!ENTITY pref.timezone.Asia.Nicosia "Азія/Нікосія" >
+<!ENTITY pref.timezone.Asia.Novosibirsk "Азія/Новосибірськ" >
+<!ENTITY pref.timezone.Asia.Omsk "Азія/Омськ" >
+<!ENTITY pref.timezone.Asia.Oral "Азія/Орал" >
+<!ENTITY pref.timezone.Asia.Phnom_Penh "Азія/Пном-Пень" >
+<!ENTITY pref.timezone.Asia.Pontianak "Азія/Понтіанак" >
+<!ENTITY pref.timezone.Asia.Pyongyang "Азія/Пхеньян" >
+<!ENTITY pref.timezone.Asia.Qatar "Азія/Катар" >
+<!ENTITY pref.timezone.Asia.Qyzylorda "Азія/Кізіл-Орда" >
+<!ENTITY pref.timezone.Asia.Rangoon "Азія/Раґун" >
+<!ENTITY pref.timezone.Asia.Riyadh "Азія/Ер-Ріяд" >
+<!ENTITY pref.timezone.Asia.Saigon "Азія/Сайгон" >
+<!ENTITY pref.timezone.Asia.Sakhalin "Азія/Сахалін" >
+<!ENTITY pref.timezone.Asia.Samarkand "Азія/Самарканд" >
+<!ENTITY pref.timezone.Asia.Seoul "Азія/Сеул" >
+<!ENTITY pref.timezone.Asia.Shanghai "Азія/Шанхай" >
+<!ENTITY pref.timezone.Asia.Singapore "Азія/Сінгапур" >
+<!ENTITY pref.timezone.Asia.Taipei "Азія/Тайпей" >
+<!ENTITY pref.timezone.Asia.Tashkent "Азія/Ташкент" >
+<!ENTITY pref.timezone.Asia.Tbilisi "Азія/Тбілісі" >
+<!ENTITY pref.timezone.Asia.Tehran "Азія/Тегеран" >
+<!ENTITY pref.timezone.Asia.Thimphu "Азія/Тімфу" >
+<!ENTITY pref.timezone.Asia.Tokyo "Азія/Токіо" >
+<!ENTITY pref.timezone.Asia.Ulaanbaatar "Азія/Улан-Батор" >
+<!ENTITY pref.timezone.Asia.Urumqi "Азія/Урумкі" >
+<!ENTITY pref.timezone.Asia.Vientiane "Азія/В’єнтьян" >
+<!ENTITY pref.timezone.Asia.Vladivostok "Азія/Владивосток" >
+<!ENTITY pref.timezone.Asia.Yakutsk "Азія/Якутськ" >
+<!ENTITY pref.timezone.Asia.Yekaterinburg "Азія/Єкатеринбург" >
+<!ENTITY pref.timezone.Asia.Yerevan "Азія/Єреван" >
+<!ENTITY pref.timezone.Atlantic.Azores "Атлантика/Азорські острови" >
+<!ENTITY pref.timezone.Atlantic.Bermuda "Атлантика/Бермудські остр." >
+<!ENTITY pref.timezone.Atlantic.Canary "Атлантика/Канари" >
+<!ENTITY pref.timezone.Atlantic.Cape_Verde "Атлантика/Кабо-Верде" >
+<!ENTITY pref.timezone.Atlantic.Faroe "Атлантика/Фаро" >
+<!ENTITY pref.timezone.Atlantic.Jan_Mayen "Атлантика/Ян-Маєн" >
+<!ENTITY pref.timezone.Atlantic.Madeira "Атлантика/Мадейра" >
+<!ENTITY pref.timezone.Atlantic.Reykjavik "Атлантика/Рейк’явік" >
+<!ENTITY pref.timezone.Atlantic.South_Georgia "Атлантика/Південна Джорджія" >
+<!ENTITY pref.timezone.Atlantic.St_Helena "Атлантика/Святої Олени острів" >
+<!ENTITY pref.timezone.Atlantic.Stanley "Атлантика/Стенлі" >
+<!ENTITY pref.timezone.Australia.Adelaide "Австралія/Аделаїда" >
+<!ENTITY pref.timezone.Australia.Brisbane "Австралія/Брісбен" >
+<!ENTITY pref.timezone.Australia.Broken_Hill "Австралія/Брокен-Гілл" >
+<!ENTITY pref.timezone.Australia.Currie "Австралія/Каррі" >
+<!ENTITY pref.timezone.Australia.Darwin "Австралія/Дарвін" >
+<!ENTITY pref.timezone.Australia.Eucla "Австралія/Юкла" >
+<!ENTITY pref.timezone.Australia.Hobart "Австралія/Гобарт" >
+<!ENTITY pref.timezone.Australia.Lindeman "Австралія/Ліндеман" >
+<!ENTITY pref.timezone.Australia.Lord_Howe "Австралія/Лорд-Гоув" >
+<!ENTITY pref.timezone.Australia.Melbourne "Австралія/Мельбурн" >
+<!ENTITY pref.timezone.Australia.Perth "Австралія/Перт" >
+<!ENTITY pref.timezone.Australia.Sydney "Австралія/Сідней" >
+<!ENTITY pref.timezone.Europe.Amsterdam "Європа/Амстердам" >
+<!ENTITY pref.timezone.Europe.Andorra "Європа/Андорра" >
+<!ENTITY pref.timezone.Europe.Athens "Європа/Афіни" >
+<!ENTITY pref.timezone.Europe.Belgrade "Європа/Белград" >
+<!ENTITY pref.timezone.Europe.Berlin "Європа/Берлін" >
+<!ENTITY pref.timezone.Europe.Bratislava "Європа/Братислава" >
+<!ENTITY pref.timezone.Europe.Brussels "Європа/Брюссель" >
+<!ENTITY pref.timezone.Europe.Bucharest "Європа/Бухарест" >
+<!ENTITY pref.timezone.Europe.Budapest "Європа/Будапешт" >
+<!ENTITY pref.timezone.Europe.Chisinau "Європа/Кишинів" >
+<!ENTITY pref.timezone.Europe.Copenhagen "Європа/Копенгаген" >
+<!ENTITY pref.timezone.Europe.Dublin "Європа/Дублін" >
+<!ENTITY pref.timezone.Europe.Gibraltar "Європа/Гібралтар" >
+<!ENTITY pref.timezone.Europe.Guernsey "Європа/Ґюрнсей" >
+<!ENTITY pref.timezone.Europe.Helsinki "Європа/Хельсінкі" >
+<!ENTITY pref.timezone.Europe.Isle_of_Man "Європа/Айл ов Мен" >
+<!ENTITY pref.timezone.Europe.Istanbul "Європа/Стамбул" >
+<!ENTITY pref.timezone.Europe.Jersey "Європа/Джерсі" >
+<!ENTITY pref.timezone.Europe.Kaliningrad "Європа/Калінінград" >
+<!ENTITY pref.timezone.Europe.Kiev "Європа/Київ" >
+<!ENTITY pref.timezone.Europe.Lisbon "Європа/Лісабон" >
+<!ENTITY pref.timezone.Europe.Ljubljana "Європа/Любляна" >
+<!ENTITY pref.timezone.Europe.London "Європа/Лондон" >
+<!ENTITY pref.timezone.Europe.Luxembourg "Європа/Люксембург" >
+<!ENTITY pref.timezone.Europe.Madrid "Європа/Мадрид" >
+<!ENTITY pref.timezone.Europe.Malta "Європа/Мальта" >
+<!ENTITY pref.timezone.Europe.Mariehamn "Європа/Мерігемн" >
+<!ENTITY pref.timezone.Europe.Minsk "Європа/Мінськ" >
+<!ENTITY pref.timezone.Europe.Monaco "Європа/Монако" >
+<!ENTITY pref.timezone.Europe.Moscow "Європа/Москва" >
+<!ENTITY pref.timezone.Europe.Nicosia "Європа/Нікосія" >
+<!ENTITY pref.timezone.Europe.Oslo "Європа/Осло" >
+<!ENTITY pref.timezone.Europe.Paris "Європа/Париж" >
+<!ENTITY pref.timezone.Europe.Podgorica "Європа/Подґоріца" >
+<!ENTITY pref.timezone.Europe.Prague "Європа/Прага" >
+<!ENTITY pref.timezone.Europe.Riga "Європа/Рига" >
+<!ENTITY pref.timezone.Europe.Rome "Європа/Рим" >
+<!ENTITY pref.timezone.Europe.Samara "Європа/Самара" >
+<!ENTITY pref.timezone.Europe.San_Marino "Європа/Сан-Маріно" >
+<!ENTITY pref.timezone.Europe.Sarajevo "Європа/Сараєво" >
+<!ENTITY pref.timezone.Europe.Simferopol "Європа/Сімферополь" >
+<!ENTITY pref.timezone.Europe.Skopje "Європа/Скоп’є" >
+<!ENTITY pref.timezone.Europe.Sofia "Європа/Софія" >
+<!ENTITY pref.timezone.Europe.Stockholm "Європа/Стокгольм" >
+<!ENTITY pref.timezone.Europe.Tallinn "Європа/Таллін" >
+<!ENTITY pref.timezone.Europe.Tirane "Європа/Тірана" >
+<!ENTITY pref.timezone.Europe.Uzhgorod "Європа/Ужгород" >
+<!ENTITY pref.timezone.Europe.Vaduz "Європа/Вадуц" >
+<!ENTITY pref.timezone.Europe.Vatican "Європа/Ватикан" >
+<!ENTITY pref.timezone.Europe.Vienna "Європа/Відень" >
+<!ENTITY pref.timezone.Europe.Vilnius "Європа/Вільнюс" >
+<!ENTITY pref.timezone.Europe.Volgograd "Європа/Волгоград" >
+<!ENTITY pref.timezone.Europe.Warsaw "Європа/Варшава" >
+<!ENTITY pref.timezone.Europe.Zagreb "Європа/Загреб" >
+<!ENTITY pref.timezone.Europe.Zaporozhye "Європа/Запоріжжя" >
+<!ENTITY pref.timezone.Europe.Zurich "Європа/Цюріх" >
+<!ENTITY pref.timezone.Indian.Antananarivo "Індійський океан/Антананаріву" >
+<!ENTITY pref.timezone.Indian.Chagos "Індійський океан/Чагос" >
+<!ENTITY pref.timezone.Indian.Christmas "Індійський океан/Різдва острів" >
+<!ENTITY pref.timezone.Indian.Cocos "Індійський океан/Кокосові острови" >
+<!ENTITY pref.timezone.Indian.Comoro "Індійський океан/Коморо" >
+<!ENTITY pref.timezone.Indian.Kerguelen "Індійський/Керґелен" >
+<!ENTITY pref.timezone.Indian.Mahe "Індійський океан/Маге" >
+<!ENTITY pref.timezone.Indian.Maldives "Індійський океан/Мальдіви" >
+<!ENTITY pref.timezone.Indian.Mauritius "Індійський океан/Маврикій" >
+<!ENTITY pref.timezone.Indian.Mayotte "Індійський океан/Майотт" >
+<!ENTITY pref.timezone.Indian.Reunion "Індійський океан/Реюніон" >
+<!ENTITY pref.timezone.Pacific.Apia "Тихий океан/Апіа" >
+<!ENTITY pref.timezone.Pacific.Auckland "Тихий океан/Окленд" >
+<!ENTITY pref.timezone.Pacific.Chatham "Тихий океан/Чатем" >
+<!ENTITY pref.timezone.Pacific.Easter "Тихий океан/Пасхи острів" >
+<!ENTITY pref.timezone.Pacific.Efate "Тихий океан/Ефат" >
+<!ENTITY pref.timezone.Pacific.Enderbury "Тихий океан/Енденбері" >
+<!ENTITY pref.timezone.Pacific.Fakaofo "Тихий океан/Факаофо" >
+<!ENTITY pref.timezone.Pacific.Fiji "Тихий океан/Фіджі" >
+<!ENTITY pref.timezone.Pacific.Funafuti "Тихий океан/Фунафуті" >
+<!ENTITY pref.timezone.Pacific.Galapagos "Тихий океан/Галапагосові острови" >
+<!ENTITY pref.timezone.Pacific.Gambier "Тихий океан/Ґамб’єр" >
+<!ENTITY pref.timezone.Pacific.Guadalcanal "Тихий океан/Ґуадальканал" >
+<!ENTITY pref.timezone.Pacific.Guam "Тихий океан/Ґуам" >
+<!ENTITY pref.timezone.Pacific.Honolulu "Тихий океан/Гонолулу" >
+<!ENTITY pref.timezone.Pacific.Johnston "Тихий океан/Джонстон" >
+<!ENTITY pref.timezone.Pacific.Kiritimati "Тихий океан/Кіріматі" >
+<!ENTITY pref.timezone.Pacific.Kosrae "Тихий океан/Косрае" >
+<!ENTITY pref.timezone.Pacific.Kwajalein "Тихий океан/Кваялейн" >
+<!ENTITY pref.timezone.Pacific.Majuro "Тихий океан/Махуро" >
+<!ENTITY pref.timezone.Pacific.Marquesas "Тихий океан/Маркізські острови" >
+<!ENTITY pref.timezone.Pacific.Midway "Тихий океан/Мідуей" >
+<!ENTITY pref.timezone.Pacific.Nauru "Тихий океан/Науру" >
+<!ENTITY pref.timezone.Pacific.Niue "Тихий океан/Ніуе" >
+<!ENTITY pref.timezone.Pacific.Norfolk "Тихий океан/Норфолк" >
+<!ENTITY pref.timezone.Pacific.Noumea "Тихий океан/Нумея" >
+<!ENTITY pref.timezone.Pacific.Pago_Pago "Тихий океан/Паґо-Паґо" >
+<!ENTITY pref.timezone.Pacific.Palau "Тихий океан/Палау" >
+<!ENTITY pref.timezone.Pacific.Pitcairn "Тихий океан/Піткерн" >
+<!ENTITY pref.timezone.Pacific.Ponape "Тихий океан/Понапе" >
+<!ENTITY pref.timezone.Pacific.Port_Moresby "Тихий океан/Порт-Морсбі" >
+<!ENTITY pref.timezone.Pacific.Rarotonga "Тихий океан/Раротонга" >
+<!ENTITY pref.timezone.Pacific.Saipan "Тихий океан/Сайпан" >
+<!ENTITY pref.timezone.Pacific.Tahiti "Тихий океан/Таїті" >
+<!ENTITY pref.timezone.Pacific.Tarawa "Тихий океан/Тарава" >
+<!ENTITY pref.timezone.Pacific.Tongatapu "Тихий океан/Тонгатапу" >
+<!ENTITY pref.timezone.Pacific.Truk "Тихий океан/Трак" >
+<!ENTITY pref.timezone.Pacific.Wake "Тихий океан/Вейк" >
+<!ENTITY pref.timezone.Pacific.Wallis "Тихий океан/Волліс" >

@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title         "Дії при завантаженні">
+<!ENTITY  window.width                         "550">
+<!ENTITY  window.height                        "310">
+
+<!ENTITY  fileTypesDescription.label          "Автоматично виконувати відповідну дію для кожного з наступних типів файлів:">
+
+<!ENTITY  fileHandlerColumn.label             "Дія">
+<!ENTITY  fileHandlerColumn.accesskey         "Д">
+<!ENTITY  fileTypeColumn.label                "Тип файлів">
+<!ENTITY  fileTypeColumn.accesskey            "ф">
+<!ENTITY  fileMIMETypeColumn.label            "Тип MIME">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "Розширення">
+<!ENTITY  fileExtensionColumn.accesskey       "Р">
+
+<!ENTITY  remove.label                        "Вилучити дію">
+<!ENTITY  remove.accesskey                    "В">
+<!ENTITY  edit.label                          "Змінити дію…">
+<!ENTITY  edit.accesskey                      "м">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "Пошук:">
+<!ENTITY  filter.accesskey                    "П">
+<!ENTITY  clear.label                         "Очистити">
+<!ENTITY  clear.accesskey                     "О">
+
+<!ENTITY  button.close.label                  "Закрити">
+<!ENTITY  button.close.accesskey              "З">
+

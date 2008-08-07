@@ -1,0 +1,11 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>I.UA</ShortName>
+  <Description>Пошук в Україні</Description>
+  <Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9gDEg45CfLPyTIAAAKASURBVDjLdZJNSFRRHMV/9747bz6cynF6ZvYh4UKxIogKwlAKgmoVRZsWQSvX7YOwdQRtWkQLF9WqFkFEEARBZB8GhlFWmkQOqaMvzRlH37sfLUZGJ+oPlwvn8D//w+GIXRdmTgD9wCH+McZotIlJ+um/qTfAFdF2fnKm+/jGYOsOH2sd1oI11f/5swlmf4Rs25ykrNJ0dbWQaUhijGN2SvPlQ6WopIiCXF5RXjRY4zAGjHF8GwvZndPcvXYQTwqu3y9w8+kUnZ3bMAYQ4OxKoOKowu95XV3UDmMcRsPY15BLfW/x5BMAevc10H/vIC2Brh3RUQWlowrzoUFrVyeQz+cZHNvA6e4hAB686qU5aGbh16pTCzpaRgQnX7iOAx215UKh SHE2JIrjusRy+TxZfyNKrmblYGnuO0rrFRZCjVkNbroYMn57gJ1BqU7gxsO9XL5zisZsAICzMUYvI00cUVo0lEuWpZKhIbWJM1ePMfCoBUrTtTcx6aGkAhzORixMvsSaGGWtJo4sVlfQ0SKJeInhL1nS R0ah8Lrm4N2ns9hKkemJx8SVEIBsaw8K5yjPfmShMAjOVe1t7eZY+xDYag7GSt7/bGd5ZhgTV5BqtVTOoaTnszT3GZXcVAVVhj1tRYKcAbIAjM9sR7scQkhUqrHmSno+SvlpzDqQZBM9HSOQbqpBw8X9 eGYFmc7XBZtIbUB5fho/s0aIVED3vnlo3FXDRuYOkfA8yNQLyEQK5SUyCNYJeIpHI0fpORzT3FgGYLTYhZ/I4LzE2rYQSJVCtJ77OgeuCWfXOKkQ0qsWHnDW4Gx9sRAeQKikl7gI3BJCbuE/IzwJ66475wA3BfT9AbNXOTI1HM/6AAAAAElFTkSuQmCC</Image>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url type="text/html" method="GET" template="http://search.i.ua/">
+    <Param name="q" value="{searchTerms}"/>
+    <Param name="ie" value="utf-8"/>
+    <Param name="sourceid" value="mozilla-search"/>
+  </Url>
+</SearchPlugin>

@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Введіть адресу (URL) або вкажіть файл на диску, який ви хочете відкрити:">
+<!ENTITY chooseFile.label "Вибрати файл…">
+<!ENTITY newWindow.label "У новому вікні">
+<!ENTITY newTab.label "У новій вкладці">
+<!ENTITY topWindow.label "У цьому вікні">
+<!ENTITY caption.label "Відкрити веб-адреси">
+<!ENTITY openWhere.label "Відкрити в:">
+<!ENTITY openBtn.label "Відкрити">

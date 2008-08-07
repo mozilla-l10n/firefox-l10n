@@ -1,0 +1,55 @@
+<!ENTITY history.label "Журнал відвідувань">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Зберігати мою історію щонайменше">
+<!ENTITY rememberDaysBefore.accesskey "м">
+<!ENTITY rememberDaysAfter2.label "днів">
+
+<!ENTITY rememberForms.label "Запам’ятовувати дані, введені мною у форми і панель пошуку">
+<!ENTITY rememberForms.accesskey "а">
+
+<!ENTITY rememberDownloads.label "Запам’ятовувати, які файли були мною завантажені">
+<!ENTITY rememberDownloads.accesskey "а">
+
+
+<!ENTITY cookies.label "Куки">
+
+<!ENTITY acceptCookies.label "Приймати куки з наступних сайтів">
+<!ENTITY acceptCookies.accesskey "и">
+
+<!ENTITY acceptThirdParty.label "Приймати куки від сторонніх сайтів">
+<!ENTITY acceptThirdParty.accesskey "П">
+
+<!ENTITY keepUntil.label "Зберігати їх, доки:">
+<!ENTITY keepUntil.accesskey "е">
+
+<!ENTITY expire.label "не закінчиться термін їх дії">
+<!ENTITY close.label "я закрию &brandShortName;">
+<!ENTITY askEachTime.label "питати кожного разу">
+
+<!ENTITY cookieExceptions.label "Винятки…">
+<!ENTITY cookieExceptions.accesskey "и">
+
+<!ENTITY showCookies.label "Показати куки…">
+<!ENTITY showCookies.accesskey "о">
+
+
+<!ENTITY privateData.label "Особисті дані">
+
+<!ENTITY alwaysClear.label "При закритті &brandShortName; завжди стирати мої особисті дані">
+<!ENTITY alwaysClear.accesskey "и">
+
+<!ENTITY askBeforeClear.label "Перепитувати перед стиранням особистих даних">
+<!ENTITY askBeforeClear.accesskey "и">
+
+<!ENTITY clearDataSettings.label "Настроювати…">
+<!ENTITY clearDataSettings.accesskey "а">
+
+<!ENTITY clearDataNow.label "Очистити зараз…">
+<!ENTITY clearDataNow.label2 "Очистити зараз">
+<!ENTITY clearDataNow.accesskey "и">

@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Вкласти це зображення у лист">
+<!ENTITY attachImageSource.accesskey     "з">
+
+<!ENTITY attachLinkSource.label          "Вкласти джерело цього посилання у листа">
+<!ENTITY attachLinkSource.accesskey      "д">

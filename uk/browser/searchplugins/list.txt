@@ -1,0 +1,6 @@
+google
+yandex
+meta-ua
+i-ua
+price-ua
+wikipedia-uk

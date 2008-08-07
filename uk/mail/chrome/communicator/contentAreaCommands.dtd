@@ -1,0 +1,106 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "Заборонити виринаючі вікна з цього сайту">
+<!ENTITY popupWindowRejectCmd.accesskey "З">
+<!ENTITY popupWindowAllowCmd.label      "Дозволити виринаючі вікна з цього сайту">
+<!ENTITY popupWindowAllowCmd.accesskey  "Д">
+<!ENTITY openLinkCmd.label            "Відкрити посилання в новому вікні">
+<!ENTITY openLinkCmd.accesskey        "В">
+<!ENTITY openLinkCmdInTab.label       "Відкрити посилання в новій вкладці">
+<!ENTITY openLinkCmdInTab.accesskey   "ц">
+<!ENTITY openLinkInWindowCmd.label    "Відкрити">
+<!ENTITY openLinkInWindowCmd.accesskey "р">
+<!ENTITY openFrameCmd.label           "Відкрити фрейм в новому вікні">
+<!ENTITY openFrameCmd.accesskey       "ф">
+<!ENTITY openFrameCmdInTab.label      "Відкрити фрейм в новій вкладці">
+<!ENTITY openFrameCmdInTab.accesskey  "ц">
+<!ENTITY showOnlyThisFrameCmd.label     "Показати тільки цей фрейм">
+<!ENTITY showOnlyThisFrameCmd.accesskey "т">
+<!ENTITY addToBookmarksCmd.label      "Додати сторінку в закладки…">
+<!ENTITY addToBookmarksCmd.accesskey  "з">
+<!ENTITY goBackCmd.label              "Назад">
+<!ENTITY goBackCmd.accesskey          "Н">
+<!ENTITY goForwardCmd.label           "Вперед">
+<!ENTITY goForwardCmd.accesskey       "п">
+<!ENTITY reloadCmd.label              "Перезавантажити">
+<!ENTITY reloadCmd.accesskey          "р">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "Стоп">
+<!ENTITY stopCmd.accesskey            "С">
+<!ENTITY reloadFrameCmd.label         "Перезавантажити фрейм">
+<!ENTITY reloadFrameCmd.accesskey     "ф">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Перегляд початкового коду виділеного фрагмента">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Перегляд початкового коду MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "е">
+<!ENTITY viewPageSourceCmd.label      "Перегляд початкового коду сторінки">
+<!ENTITY viewPageSourceCmd.accesskey  "с">
+<!ENTITY viewFrameSourceCmd.label     "Перегляд початкового коду фрейму">
+<!ENTITY viewFrameSourceCmd.accesskey "ф">
+<!ENTITY viewPageInfoCmd.label        "Інформація про сторінку">
+<!ENTITY viewPageInfoCmd.accesskey    "І">
+<!ENTITY viewFrameInfoCmd.label       "Інформація про фрейм">
+<!ENTITY viewFrameInfoCmd.accesskey   "ф">
+<!ENTITY fitImageCmd.label            "Припасувати розміри зображення до розмірів вікна">
+<!ENTITY fitImageCmd.accesskey        "р">
+<!ENTITY viewImageCmd.label           "Показати зображення">
+<!ENTITY viewImageCmd.accesskey       "з">
+<!ENTITY viewBGImageCmd.label         "Показати тло">
+<!ENTITY viewBGImageCmd.accesskey     "т">
+<!ENTITY setWallpaperCmd.label        "Встановити як фонове зображення стільниці">
+<!ENTITY setWallpaperCmd.accesskey    "ф">
+<!ENTITY bookmarkPageCmd.label        "Додати сторінку в закладки…">
+<!ENTITY bookmarkPageCmd.accesskey    "з">
+<!ENTITY bookmarkLinkCmd.label        "Додати посилання в закладки…">
+<!ENTITY bookmarkLinkCmd.accesskey    "з">
+<!ENTITY bookmarkFrameCmd.label       "Додати фрейм в закладки…">
+<!ENTITY bookmarkFrameCmd.accesskey   "з">
+<!ENTITY savePageAsCmd.label          "Зберегти сторінку як…">
+<!ENTITY savePageCmd.label            "Зберегти сторінку">
+<!ENTITY savePageCmd.accesskey        "З">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameAsCmd.label         "Зберегти фрейм як…">
+<!ENTITY saveFrameCmd.label           "Зберегти фрейм">
+<!ENTITY saveFrameCmd.accesskey       "З">
+<!ENTITY saveLinkAsCmd.label          "Зберегти посилання як…">
+<!ENTITY saveLinkCmd.label            "Зберегти посилання">
+<!ENTITY saveLinkCmd.accesskey        "З">
+<!ENTITY saveImageAsCmd.label         "Зберегти зображення як…">
+<!ENTITY saveImageCmd.label           "Зберегти зображення">
+<!ENTITY saveImageCmd.accesskey       "з">
+<!ENTITY copyCmd.label                "Копіювати">
+<!ENTITY copyCmd.accesskey            "К">
+<!ENTITY selectAllCmd.label           "Виділити все">
+<!ENTITY selectAllCmd.accesskey       "с">
+<!ENTITY copyLinkCmd.label            "Копіювати посилання">
+<!ENTITY copyLinkCmd.accesskey        "п">
+<!ENTITY copyImageCmd.label           "Копіювати посилання на зображення">
+<!ENTITY copyImageCmd.accesskey       "н">
+<!ENTITY metadataCmd.label            "Властивості">
+<!ENTITY metadataCmd.accesskey        "В">
+<!ENTITY copyEmailCmd.label           "Копіювати адресу електронної пошти">
+<!ENTITY copyEmailCmd.accesskey       "е">
+<!ENTITY pasteCmd.label               "Вставити">
+<!ENTITY pasteCmd.accesskey           "т">
+<!ENTITY cutCmd.label                 "Вирізати">
+<!ENTITY cutCmd.accesskey             "и">
+<!ENTITY deleteCmd.label              "Стерти">
+<!ENTITY deleteCmd.accesskey          "С">
+<!ENTITY undoCmd.label                "Повернути">
+<!ENTITY undoCmd.accesskey            "н">
+<!ENTITY redoCmd.label                "Повторити">
+<!ENTITY redoCmd.accesskey            "в">
+<!ENTITY thisFrameMenu.label          "Цей фрейм">
+<!ENTITY thisFrameMenu.accesskey      "Ц">
+<!ENTITY search.accesskey             "W">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Змінити напрямок сторінки">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "с">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Змінити напрямок тексту">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "т">
+<!ENTITY spellAddToDictionary.label     "Додати до словника">
+<!ENTITY spellAddToDictionary.accesskey "Д">
+<!ENTITY spellEnable.label              "Перевіряти орфографію в цьому полі">
+<!ENTITY spellEnable.accesskey          "о">
+<!ENTITY spellNoSuggestions.label       "(відсутні пропозиції щодо цього слова)">
+<!ENTITY spellDictionaries.label        "Мови">
+<!ENTITY spellDictionaries.accesskey    "М">
+<!ENTITY spellAddDictionaries.label     "Завантажити більше словників…">
+<!ENTITY spellAddDictionaries.accesskey "З">

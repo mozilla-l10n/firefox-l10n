@@ -1,0 +1,16 @@
+
+<!ENTITY addressbookPicker.label            "Адресна книга:">
+<!ENTITY searchInput.label                  "Пошук:">
+<!ENTITY SearchNameOrEmail.label            "Ім’я або адреса електронної пошти">
+
+<!ENTITY addtoToFieldMenu.label             "Кому">
+<!ENTITY addtoCcFieldMenu.label             "Копія">
+<!ENTITY addtoBccFieldMenu.label            "Прихована копія">
+
+<!ENTITY toButton.label                     "Кому:">
+<!ENTITY ccButton.label                     "Копія:">
+
+
+
+
+

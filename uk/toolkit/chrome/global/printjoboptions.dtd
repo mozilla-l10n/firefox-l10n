@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Властивості друку">
+
+<!ENTITY paperInput.label "Розмір паперу:">
+
+<!ENTITY plexInput.label "Режим сітки:">
+
+<!ENTITY resolutionInput.label "Роздільна здатність/якість:">
+
+<!ENTITY cmdInput.label "Команда для друку:">
+
+<!ENTITY jobTitleInput.label "Назва завдання:">
+
+<!ENTITY colorGroup.label "Колір:">
+<!ENTITY grayRadio.label "Відтінки сірого">
+<!ENTITY colorRadio.label "Колір">
+
+<!ENTITY colorspaceInput.label "Кольори:">
+
+<!ENTITY fontsGroup.label "Шрифти:">
+<!ENTITY downloadFonts.label "Завантажити шрифти для друку?">
+
+<!ENTITY edgeMarginInput.label "Відступити від краю паперу до поля">
+<!ENTITY topInput.label "Вгорі:">
+<!ENTITY bottomInput.label "Внизу:">
+<!ENTITY leftInput.label "Ліворуч:">
+<!ENTITY rightInput.label "Праворуч:">

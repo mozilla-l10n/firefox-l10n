@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "Менеджер паролів">
+<!ENTITY      windowalttitle.label            "Менеджер форм: сайти">
+<!ENTITY      tab.signonsstored.label         "Зберігати паролі">
+<!ENTITY      tab.signonsnotstored.label      "Ніколи не зберігати паролі">
+<!ENTITY      tab.nopreview.label             "Ніколи не переглядати форми попередньо">
+<!ENTITY      tab.nocapture.label             "Ніколи не зберігати форми">
+
+<!ENTITY      spiel.signonsstored.label       "Менеджер паролів зберігає реєстраційні дані для наступних сайтів:">
+<!ENTITY      spiel.signonsnotstored.label    "Менеджер паролів ніколи не зберігає реєстраційні дані для наступних сайтів:">
+<!ENTITY      spiel.nopreview.label           "Менеджер форм ніколи не переглядатиме форми з наступних сайтів перед їх заповненням замість вас:">
+<!ENTITY      spiel.nocapture.label           "Менеджер форм ніколи не пропонуватиме зберегит дані форм для наступних сайтів:">
+
+<!ENTITY      treehead.site.label             "Сайт">
+<!ENTITY      treehead.username.label         "Ім’я користувача">
+<!ENTITY      treehead.password.label         "Пароль">
+<!ENTITY      remove.label                    "Стерти">
+<!ENTITY      removeall.label                 "Стерти усі">

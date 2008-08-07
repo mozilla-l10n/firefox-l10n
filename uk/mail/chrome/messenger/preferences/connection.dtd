@@ -1,0 +1,42 @@
+<!ENTITY  connectionsDialog.title       "Параметри з’єднання">
+<!ENTITY  window.width                   "54em">
+
+<!ENTITY  proxyTitle.label              "Налаштування проксі для доступу в Інтернет">
+<!ENTITY  directTypeRadio.label         "Пряме підключення до Інтернету">
+<!ENTITY  directTypeRadio.accesskey     "П">
+<!ENTITY  WPADTypeRadio.label           "Автоматичне визначення налаштувань проксі для даної мережі">
+<!ENTITY  WPADTypeRadio.accesskey       "в">
+<!ENTITY  manualTypeRadio.label         "Налаштування проксі вручну:">
+<!ENTITY  manualTypeRadio.accesskey     "в">
+<!ENTITY  autoTypeRadio.label           "URL автоматичної налаштування проксі:">
+<!ENTITY  autoTypeRadio.accesskey       "а">
+<!ENTITY  configAutoconfigText.label    "Розташування конфігурації (URL):">
+<!ENTITY  configAutoconfigText.accesskey "Р">
+<!ENTITY  reload.label                  "Оновити">
+<!ENTITY  reload.accesskey              "О">
+<!ENTITY  ftp.label                     "FTP-проксі:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Gopher-проксі:">
+<!ENTITY  gopher.accesskey              "g">
+<!ENTITY  http.label                    "HTTP-проксі:">
+<!ENTITY  http.accesskey                "к">
+<!ENTITY  ssl.label                     "SSL-проксі:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "SOCKS-проксі:">
+<!ENTITY  socks.accesskey               "S">
+<!ENTITY  socks4.label                  "SOCKS 4">
+<!ENTITY  socks4.accesskey              "4">
+<!ENTITY  socks5.label                  "SOCKS 5">
+<!ENTITY  socks5.accesskey              "5">
+<!ENTITY  port.label                    "Порт:">
+<!ENTITY  HTTPport.accesskey            "о">
+<!ENTITY  SSLport.accesskey             "р">
+<!ENTITY  FTPport.accesskey             "п">
+<!-- No accesskey for gopher (':' doesn't go well) — mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.accesskey           "т">
+<!ENTITY  noproxy.label                 "Не використовувати проксі для:">
+<!ENTITY  noproxy.accesskey             "д">
+<!ENTITY  noproxyExplain.label          "Приклад: .example.ua, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Використовувати цей проксі-сервер для всіх протоколів">
+<!ENTITY  shareproxy.accesskey          "се">

@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Формат вихідного повідомлення">
+
+<!ENTITY recipient.label "Деякі з адресатів не можуть одержувати листа у форматі HTML.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Ваше повідомлення може бути перетворене в текстове без втрати інформації.">
+<!ENTITY convertibleAltering.label "Ваше повідомлення може бути перетворене в текстове без втрати інформації. Але текстове повідомлення може виглядати не так, як у вікні створення повідомлень.">
+<!ENTITY convertibleNo.label "Як би там не було, використано форматування (наприклад, кольори), яке не може бути перетворене в текстовий формат.">
+
+<!ENTITY question.label "Перетворити повідомлення в текстове або відіслати в HTML?">
+
+<!ENTITY plainTextAndHtml.label "Відіслати в текстовому форматі і в HTML">
+<!ENTITY plainTextOnly.label "Відіслати тільки в текстовому форматі">
+<!ENTITY htmlOnly.label "Відіслати тільки в HTML">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Відіслати в текстовому форматі і в HTML (рекомендується)">
+<!ENTITY plainTextOnlyRecommended.label "Відіслати тільки в текстовому форматі (рекомендується)">
+<!ENTITY htmlOnlyRecommended.label "Відіслати тільки в HTML (рекомендується)">
+<!ENTITY recommended.label "(рекомендується)">
+
+<!ENTITY send.label "Відіслати">
+<!ENTITY cancel.label "Скасувати">
+<!ENTITY recipients.label "Адресати…">
+<!ENTITY help.label "Довідка">

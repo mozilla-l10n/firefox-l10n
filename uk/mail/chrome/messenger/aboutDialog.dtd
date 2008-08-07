@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title      "Про &brandFullName;">
+<!ENTITY credits                "Подяки">
+<!ENTITY aboutLink              "&lt; Про &brandFullName;">
+<!ENTITY aboutVersion           "Версія">
+<!ENTITY copyrightText          "&#169;1998-2007 Автори коду Mozilla. Всі права захищено. Mozilla Thunderbird та
+                                 логотипи Thunderbird є торговими марками Mozilla Foundation.  Всі права
+                                 захищені.">

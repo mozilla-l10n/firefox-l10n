@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Клієнт за умовчанням">
+<!ENTITY defaultClient.intro  "Використовувати &brandShortName; як стандартний клієнт для:">
+
+<!ENTITY email.label "Електронної пошти">
+<!ENTITY newsgroups.label "Читання новин">
+<!ENTITY rss.label "Збирання RSS">
+
+<!ENTITY checkOnStartup.label "Завжди проводити таку перевірку при запуску &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "З">

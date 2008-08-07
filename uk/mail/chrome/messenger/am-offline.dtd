@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Щоб зекономити місце на диску, не завантажувати:">
+<!ENTITY doNotDownload.label "Щоб зекономити місце на диску, не завантажувати для роботи в автономному режимі:">
+<!ENTITY offlineNewFolder.label "При створенні нових тек, переводити їх в автономний режим користування">
+<!ENTITY offlineNewFolder.accesskey "с">
+<!ENTITY offlineNotDownload.label "Повідомлення, більші за">
+<!ENTITY offlineNotDownload.accesskey "Б">
+<!ENTITY kb.label "Кбайт">
+<!ENTITY days.label "днів">
+<!ENTITY daysOld.label "днів">
+<!ENTITY message.label "повідомлень">
+<!ENTITY nntpNotDownloadRead.label "Завантажувати тільки непрочитані повідомлення">
+<!ENTITY nntpNotDownloadRead.accesskey "З">
+<!ENTITY nntpDownloadMsg.label "Повідомлення тільки за останні">
+<!ENTITY nntpDownloadMsg.accesskey "п">
+<!ENTITY retentionCleanup.label "Для звільнення місця на диску старі повідомлення можуть бути вилучені">
+<!ENTITY retentionKeepMsg.label "Вилучати повідомлення давніші за">
+<!ENTITY retentionKeepMsg.accesskey "д">
+<!ENTITY retentionKeepAll.label "Не вилучати повідомлень">
+<!ENTITY retentionKeepAll.accesskey "Н">
+<!ENTITY retentionKeepNew.label "Вилучати всі, крім останніх">
+<!ENTITY retentionKeepNew.accesskey "л">
+<!ENTITY retentionKeepUnread.label "Вилучати прочитані листи">
+<!ENTITY retentionKeepUnread.accesskey "р">
+<!ENTITY nntpRemoveBody.label "Лише повідомлення менше">
+<!ENTITY nntpRemoveBody.accesskey "Л">
+<!ENTITY offlineSelectNntp.label "Виберіть групи новин для роботи в автономному режимі…">
+<!ENTITY offlineSelectImap.label "Вибрати теки, доступні в автономному режимі…">
+<!ENTITY offlineSelect.accesskey "В">
+<!ENTITY offlineDesc.label "Ви можете завантажити повідомлення для роботи в автономному режимі.">
+<!ENTITY makeInboxMsgsAvailable.label "Зробити повідомлення в теці Вхідні доступними для автономної роботи.">
+<!ENTITY makeInboxMsgsAvailable.accesskey "З">
+<!ENTITY offlineGroupTitle.label "Автономна робота">
+<!ENTITY diskspaceGroupTitle.label "Дисковий простір">

@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title       "Налаштування автономного режиму">
+
+<!ENTITY textStartUp   "При запуску:">
+<!ENTITY radioRememberPrevState "Зберігати режим роботи з минулого разу">
+<!ENTITY radioRememberPrevState.accesskey "З">
+<!ENTITY radioAskMe "Запитувати мене про режим роботи">
+<!ENTITY radioAskMe.accesskey "п">
+<!ENTITY radioAlwaysOnline "Завжди з’єнуватись з мережею">
+<!ENTITY radioAlwaysOnline.accesskey "ж">
+
+<!ENTITY textGoingOnline "Відсилати невідіслані повідомлення перед виходом в автономний режим?">
+<!ENTITY radioAutoSend "Так">
+<!ENTITY radioAutoSend.accesskey "Т">
+<!ENTITY radioNotSend "Ні">
+<!ENTITY radioNotSend.accesskey "Н">
+<!ENTITY radioAskUnsent "Спитати">
+<!ENTITY radioAskUnsent.accesskey "С">
+<!ENTITY textGoingOffline "Завантажувати повідомлення перед виходом в автономний режим?">
+<!ENTITY radioAutoDownload "Так">
+<!ENTITY radioAutoDownload.accesskey "а">
+<!ENTITY radioNotDownload "Ні">
+<!ENTITY radioNotDownload.accesskey "і">
+<!ENTITY radioAskDownload "Спитати">
+<!ENTITY radioAskDownload.accesskey "п">
