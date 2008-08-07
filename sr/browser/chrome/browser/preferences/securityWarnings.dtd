@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title "Безбедносна упозорења">
+
+<!ENTITY security.warn_when "Прикажи упозорење када:">
+<!ENTITY security.warn_entering_secure.label "прегледам страну која није шифрована.">
+<!ENTITY security.warn_entering_secure.accesskey "н">
+<!ENTITY security.warn_entering_weak.label "прегледам страну ниског нивоа шифровања.">
+<!ENTITY security.warn_entering_weak.accesskey "н">
+<!ENTITY security.warn_leaving_secure.label "напуштам шифровану страну и одлазим на нешифровану страну.">
+<!ENTITY security.warn_leaving_secure.accesskey "н">
+<!ENTITY security.warn_submit_insecure.label "подносим информације у страни која није шифрована.">
+<!ENTITY security.warn_submit_insecure.accesskey "д">
+<!ENTITY security.warn_viewing_mixed.label "прегледам страну која садржи неке нешифроване податке.">
+<!ENTITY security.warn_viewing_mixed.accesskey "ш">

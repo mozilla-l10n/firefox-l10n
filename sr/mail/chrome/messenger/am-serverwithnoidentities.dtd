@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Подешавања налога">
+<!ENTITY accountSettingsDesc.label "Ово је посебан налог. Није му придружен ниједан идентитет.">
+<!ENTITY accountName.label "Корисничко име:">
+<!ENTITY accountName.accesskey "К">
+<!ENTITY messageStorage.label "Складиште порука">
+<!ENTITY emptyTrashOnExit.label "Испразни смеће при крају рада">
+<!ENTITY emptyTrashOnExit.accesskey "з">
+<!ENTITY localPath.label "Локални директоријум:">
+<!ENTITY localPath.accesskey "Л">
+<!ENTITY localFolderPicker.label "Избор локалног директоријума">
+<!ENTITY browseFolder.label "Преглед…">
+<!ENTITY browseFolder.accesskey "П">

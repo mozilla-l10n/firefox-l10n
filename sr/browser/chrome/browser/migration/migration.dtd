@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Чаробњак за увоз">
+
+<!ENTITY importFrom.label "Увези подешавања, везе, каталоге, лозинке и друге податке из:">
+<!ENTITY importFromUnix.label "Увези подешавања, везе, каталоге, лозинке и друге податке из:">
+<!ENTITY importFromBookmarks.label "Увези забелешке из програма:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "E">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird или Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Не увози ништа">
+<!ENTITY importFromNothing.accesskey "ш">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 или Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "A">
+<!ENTITY importFromNetscape4.label "Нетскејп (Netscape) 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Опера (Opera)">
+<!ENTITY importFromOpera.accesskey "О">
+<!ENTITY importFromCamino.label "Камино (Camino)">
+<!ENTITY importFromCamino.accesskey "К">
+<!ENTITY importFromSafari.label "Сафари (Safari)">
+<!ENTITY importFromSafari.accesskey "С">
+<!ENTITY importFromOmniWeb.label "Омнивеб (OmniWeb)">
+<!ENTITY importFromOmniWeb.accesskey "в">
+<!ENTITY importFromICab.label "Икаб (iCab)">
+<!ENTITY importFromICab.accesskey "И">
+<!ENTITY importFromKonqueror.label "Конкверор (Konqueror)">
+<!ENTITY importFromKonqueror.accesskey "К">
+<!ENTITY importFromEpiphany.label "Спознаја (Epiphany)">
+<!ENTITY importFromEpiphany.accesskey "п">
+<!ENTITY importFromGaleon.label "Галеон (Galeon)">
+<!ENTITY importFromGaleon.accesskey "Г">
+<!ENTITY importFromHTMLFile.label "Из ХТМЛ датотеке">
+<!ENTITY importFromHTMLFile.accesskey "Х">
+
+<!ENTITY noMigrationSources.label "Није пронађен ниједан програм који садржи забелешке, историјат или лозинке.">
+
+<!ENTITY importSource.title "Увези подешавања и податке из">
+<!ENTITY importItems.title "Објекти за увоз">
+<!ENTITY importItems.label "Изаберите објекте за увоз:">
+
+<!ENTITY migrating.title "Увоз…">
+<!ENTITY migrating.label "Тренутно се увозе наведене ставке…">
+
+<!ENTITY selectProfile.title "Избор профила">
+<!ENTITY selectProfile.label "Можете увести из следећих профила:">
+
+<!ENTITY done.title "Увоз је завршен">
+<!ENTITY done.label "Следеће ставке су успешно увежене:">
+

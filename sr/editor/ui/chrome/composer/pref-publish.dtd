@@ -1,0 +1,23 @@
+<!-- extracted from content/pref-publish.xul -->
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+
+<!ENTITY pref.publish.title "Објави">
+<!ENTITY composerHeader.label "Објави">
+<!ENTITY maintainCheckbox.label "Одржавај везе">
+<!ENTITY keepCheck.label "Држи слике заједно са страном">
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+
+<!ENTITY adjustDesc.label "Покушај да задржиш приближне дужине линија, преломе редова и размаке.
+Измени везе како би одговарале месту странице. (Везе на локалне странице ће радити када постоје локални примерци.)">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY saveDesc.label "Покушај да задржиш приближне дужине линија, преломе редова и размаке.
+Сачувај умношке слика поред странице. (Везе на локалне странице ће радити када постоје локални примерци.)">
+<!ENTITY tip.label "Савет: Изаберите обе опције ако користите удаљено објављивање.">
+<!ENTITY defaultHeader.label "Изворно место за објављивање">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY publishFtp.label "Кутија за унос појављује се поред ове ознаке
+Ако објављујете на ФТП место, унесите ХТТП адресу:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY publishhtp.label "Кутија за унос појављује се поред ове ознаке
+Ако објављујете на ФТП место, унесите ХТТП адресу:">
+

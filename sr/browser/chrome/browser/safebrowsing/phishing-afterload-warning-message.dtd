@@ -1,0 +1,28 @@
+<!ENTITY safeb.palm.warning.title "Сумња се на мрежни фалсификат">
+
+<!ENTITY safeb.palm.message.p1 "Овај сајт је пријављен као мрежни фалсификат, направљен како би кориснике навео да открију личне или финансијске податке. Унос ма каквих личних података у ову страницу може да доведе до крађе идентитета или другог облика преваре. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Прочитајте више &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Прочитајте више &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Ове врсте мрежних фалсификата користе се у преварама које се зову фишинг (phishing). У њима се сајтови и ел. поруке користе како би имитирале изворе којима верујете. Можете да сазнате више о томе">
+<!ENTITY safeb.palm.message.p2.linkText "како Вас програм &brandShortName; штити">
+<!ENTITY safeb.palm.message.p2.end " од фишинг напада.">
+
+<!ENTITY safeb.palm.accept.label "Склони ме одавде!">
+<!ENTITY safeb.palm.accept.statustext "Врати се на моју почетну страну">
+<!ENTITY safeb.palm.decline.label "Занемари ово упозорење">
+<!ENTITY safeb.palm.decline.statustext "Затвори упозорење">
+<!ENTITY safeb.palm.notforgery.label2 "Ово није мрежни фалсификат…">
+<!ENTITY safeb.palm.report.label "Зашто је овај сајт блокиран?">
+
+<!ENTITY safeb.urlbaricon.tooltip "Ова страна може да буде опасна; притисните овде за детаље.">
+
+<!ENTITY safeb.blocked.malware.title "Пријављен непријатељски настројен сајт!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "Овај сајт <span id='malware_sitename'/> је пријављен као непријатељски настројен, па Ваша безбедносна подешавања не дозвољавају да му се приступи.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>Непријатељски настројени сајтови покушавају да инсталирају програме који отимају личне податке, користе Ваш рачунар за нападе на друге, или оштећују систем.</p><p>Неки непријатељски настројени сајтови намерно растурају злонамерне програме, док су неки други промењени без знања или дозволе власника.</p>">
+
+<!ENTITY safeb.blocked.phishing.title "Пријављен мрежни фалсификат!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "Веб сајт <span id='phishing_sitename'/> је пријављен као мрежни фалсификат па Ваша безбедносна подешавања не дозвољвају да му се приступи.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Мрежни фалсификати су направљени како би Вас навели да откријете личне или финансијске податке тако што опонашају сајтове којима верујете.</p><p>Остављање података на овој страни може да као последицу има крађу идентитета или неку другу превару.</p>">

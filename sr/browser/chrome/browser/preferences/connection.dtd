@@ -1,0 +1,44 @@
+
+<!ENTITY connectionsDialog.title "Параметри повезивања">
+<!ENTITY window.width "40em">
+<!ENTITY window.macWidth "42em">
+
+<!ENTITY proxyTitle.label "Избор посредника (proxy) за приступ Интернету">
+<!ENTITY noProxyTypeRadio.label "Без посредника (proxy)">
+<!ENTITY noProxyTypeRadio.accesskey "Б">
+<!ENTITY systemTypeRadio.label "Користи системска подешавања посредника">
+<!ENTITY systemTypeRadio.accesskey "с">
+<!ENTITY WPADTypeRadio.label "Самостално препознај посредника за ову мрежу">
+<!ENTITY WPADTypeRadio.accesskey "м">
+<!ENTITY manualTypeRadio.label "Ручни избор посредника:">
+<!ENTITY manualTypeRadio.accesskey "Р">
+<!ENTITY autoTypeRadio.label "Адреса за аутоматско подешавање посредника:">
+<!ENTITY autoTypeRadio.accesskey "А">
+<!ENTITY reload.label "Обнови">
+<!ENTITY reload.accesskey "б">
+<!ENTITY ftp.label "Посредник за FTP:">
+<!ENTITY ftp.accesskey "о">
+<!ENTITY gopher.label "Посредник за гофер (Gopher):">
+<!ENTITY gopher.accesskey "р">
+<!ENTITY http.label "Посредник за ХТТП:">
+<!ENTITY http.accesskey "Х">
+<!ENTITY ssl.label "Посредник за ССЛ:">
+<!ENTITY ssl.accesskey "С">
+<!ENTITY socks.label "Домен за СОКС (SOCKS):">
+<!ENTITY socks.accesskey "н">
+<!ENTITY socks4.label "СОКС в4">
+<!ENTITY socks4.accesskey "4">
+<!ENTITY socks5.label "СОКС в5">
+<!ENTITY socks5.accesskey "5">
+<!ENTITY port.label "Порт:">
+<!ENTITY HTTPport.accesskey "П">
+<!ENTITY SSLport.accesskey "о">
+<!ENTITY FTPport.accesskey "р">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY gopherPort.accesskey "">
+<!ENTITY SOCKSport.accesskey "т">
+<!ENTITY noproxy.label "Не користи посредника за:">
+<!ENTITY noproxy.accesskey "Н">
+<!ENTITY noproxyExplain.label "Пример: .mozilla.org, .net.nz, , 192.168.1.0/24">
+<!ENTITY shareproxy.label "Користи истог посредника за све протоколе">
+<!ENTITY shareproxy.accesskey "К">

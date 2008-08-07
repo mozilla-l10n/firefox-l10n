@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label "Без подешавања.">
+
+<!ENTITY caption.label "Својства елемента">
+<!ENTITY image-sec.label "Својства слике">
+<!ENTITY image-url.label "Адреса:">
+<!ENTITY image-type.label "Врста:">
+<!ENTITY image-desc.label "Опис:">
+<!ENTITY image-alt.label "Текст за замену:">
+<!ENTITY image-size.label "Величина слике:">
+<!ENTITY image-filesize.label "Величина датотеке:">
+<!ENTITY insdel-sec.label "Својства уметања/брисања">
+<!ENTITY insdel-cite.label "Подаци:">
+<!ENTITY insdel-date.label "Датум:">
+<!ENTITY link-sec.label "Својства везе">
+<!ENTITY link-url.label "Адреса:">
+<!ENTITY link-target.label "Отвори помоћу:">
+<!ENTITY link-type.label "Тип циљног објекта:">
+<!ENTITY link-lang.label "Циљни језик:">
+<!ENTITY link-rel.label "Однос:">
+<!ENTITY link-rev.label "Обрнути однос:">
+<!ENTITY link-ping.label "Обавештава:">
+<!ENTITY misc-sec.label "Разна својства">
+<!ENTITY misc-lang.label "Језик текста:">
+<!ENTITY misc-title.label "Заглавље:">
+<!ENTITY misc-tblsummary.label "Табеларни преглед:">
+<!ENTITY quote-sec.label "Својства цитата">
+<!ENTITY quote-cite.label "Подаци:">

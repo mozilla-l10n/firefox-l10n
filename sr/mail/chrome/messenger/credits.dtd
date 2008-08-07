@@ -1,0 +1,31 @@
+<!ENTITY credit.title "Заслуге за &brandFullName;">
+<!ENTITY brandMotto "Соколови су спремни!">
+<!ENTITY credit.leads "Вође пројекта">
+<!ENTITY credit.core "Развој језгра">
+<!ENTITY credit.gecko "Gecko окружење">
+<!ENTITY credit.thanks "Посебна захвалност">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Преводиоци</h3><ul><li>Филип Милетић</li><li>Љубиша Радовановић</li><li>проф. др Владан Јанковић</li><li>Владана Михаиловић</li><li>Драган Митровић</li><li>дипл. инж. Душан Вучковић</li><li>проф. др Милорад Тошић</li></ul>
+">
+
+<!ENTITY credit.visuals "Координатор дизајна окружења">
+<!ENTITY credit.theme "Дизајн теме">
+<!ENTITY credit.brand "Идентитет марке">
+<!ENTITY credit.web "Веб дизајн">
+<!ENTITY credit.update "Мозилине доградње">
+<!ENTITY credit.qalead "Вођа контроле квалитета">
+<!ENTITY credit.qa "Провера квалитета">
+<!ENTITY credit.build "Изградња и издавање">
+<!ENTITY credit.infra "Подршка инфраструктуре">
+<!ENTITY credit.support "Ресурси подршке">
+<!ENTITY credit.manage "Управници пројекта">
+<!ENTITY credit.marketleads "Вође маркетинга">
+<!ENTITY credit.market "Маркетинг">
+<!ENTITY credit.creators "Направио">
+<!ENTITY credit.memory "У сећање на">
+<!ENTITY credit.poweredByGecko "Покреће геко (Gecko&trade;)">

@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label "Обликовање">
+<!ENTITY itemTags.label "Ознаке">
+<!ENTITY itemFonts.label "Писма">
+
+<!ENTITY textBegin.label "Изглед обичног цитираног текста">
+<!ENTITY style.label "Стил:">
+<!ENTITY style.accesskey "С">
+<!ENTITY regularStyle.label "Обично">
+<!ENTITY bold.label "Подебљано">
+<!ENTITY italic.label "Искошено">
+<!ENTITY boldItalic.label "Подебљано и искошено">
+<!ENTITY size.label "Величина:">
+<!ENTITY size.accesskey "В">
+<!ENTITY regularSize.label "Обично">
+<!ENTITY bigger.label "Већа">
+<!ENTITY smaller.label "Мања">
+<!ENTITY color.label "Боја:">
+<!ENTITY color.accesskey "Б">
+<!ENTITY displayWidth.label "Обичне текстуалне поруке">
+<!ENTITY plainText.label "Користи следеће писмо:">
+<!ENTITY displayText.label "При приказивању цитираних обичних текстуалних порука:">
+<!ENTITY viewingPlainText.label "При приказивању порука у обичном тексту:">
+<!ENTITY fixedWidth.label "Писмо утврђене величине">
+<!ENTITY fixedWidth.accesskey "у">
+<!ENTITY variableWidth.label "Писмо променљиве величине">
+<!ENTITY variableWidth.accesskey "п">
+<!ENTITY readingMessagesHeader.label "За долазеће поруке">
+<!ENTITY colors.label "Боје">
+<!ENTITY overrideColors.label "При приказивању порука, користи следеће боје:">
+<!ENTITY textColor.label "Боја текста:">
+<!ENTITY textColor.accesskey "Б">
+<!ENTITY backgroundColor.label "Боја позадине:">
+<!ENTITY backgroundColor.accesskey "ј">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
+<!ENTITY convertEmoticons.label "Прикажи смешке као сличице">
+<!ENTITY convertEmoticons.accesskey "П">
+<!-- labels -->
+
+<!ENTITY displayTagsText.label "Ознаке се могу користити за разврставање и давање приоритета порукама.">
+<!ENTITY addTagButton.label "Додај">
+<!ENTITY addTagButton.accesskey "Д">
+<!ENTITY editTagButton.label "Уреди">
+<!ENTITY editTagButton.accesskey "У">
+<!ENTITY removeTagButton.label "Уклони">
+<!ENTITY removeTagButton.accesskey "У">
+<!-- Fonts -->
+
+<!ENTITY fontAndEncodingsDescription.label "Подешавање боја и знакова које користи &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label "Писма и кодирања">
+<!ENTITY fontOptions.accesskey "П">
+<!ENTITY fontOptions.label "Писма…">

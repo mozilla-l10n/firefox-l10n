@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title "Подразумевани клијент">
+<!ENTITY defaultClient.intro "Програм &brandShortName; се користи као подразумевани клијент за:">
+
+<!ENTITY email.label "Ел. пошту">
+<!ENTITY newsgroups.label "Групе">
+<!ENTITY rss.label "RSS доводе">
+
+<!ENTITY checkOnStartup.label "Увек провери ово кад се програм &brandShortName; покрене">
+<!ENTITY checkOnStartup.accesskey "У">

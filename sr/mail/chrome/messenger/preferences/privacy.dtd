@@ -1,0 +1,54 @@
+<!ENTITY itemJunk.label "Отпад">
+<!ENTITY itemPhishing.label "Преваре у ел. пошти">
+<!ENTITY itemPasswords.label "Лозинке">
+<!ENTITY itemAntiVirus.label "Анти-вирус">
+<!-- Junk Mail Controls -->
+
+<!ENTITY junkMail.intro "Изворна подешавања за нежељену пошту.  Подешавања за нежељену пошту за одређени налог могу се мењати помоћу подешавања налога.">
+<!ENTITY manualMark.label "Када поруку означим као нежељену:">
+<!ENTITY manualMark.accesskey "К">
+<!ENTITY manualMarkModeMove.label "Помери је у директоријум са нежељеном поштом">
+<!ENTITY manualMarkModeMove.accesskey "П">
+<!ENTITY manualMarkModeDelete.label "Уклони је">
+<!ENTITY manualMarkModeDelete.accesskey "У">
+<!ENTITY markAsReadOnSpam.label "Означи да је нежељена порука прочитана">
+<!ENTITY markAsReadOnSpam.accesskey "О">
+<!ENTITY enableJunkLogging.label "Бележење рада филтра за нежељене поруке">
+<!ENTITY enableJunkLogging.accesskey "ф">
+<!ENTITY openJunkLog.label "Прикажи дневник">
+<!ENTITY openJunkLog.accesskey "П">
+<!ENTITY resetTrainingData.label "Очисти податке о тренингу">
+<!ENTITY resetTrainingData.accesskey "т">
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector1.intro "Програм &brandShortName; може да размотри поруку и утврди да ли се ради о превари, тражењем техника које се обично користе за обману.">
+<!ENTITY enablePhishingDetector1.label "Обавести ме ако је порука коју читам осумњичена за превару">
+<!ENTITY enablePhishingDetector1.accesskey "б">
+<!ENTITY useDownloadedList.label "Користи преузет списак познатих превара">
+<!ENTITY useDownloadedList.accesskey "К">
+<!-- Passwords -->
+
+<!ENTITY savedPasswords.intro "&brandShortName; може памтити податке везане за пријаву на веб страну, тако да их касније не морате поново уносити.">
+<!ENTITY encryptEnabled.label "Користи главну лозинку за шифровање сачуваних лозинки">
+<!ENTITY encryptEnabled.accesskey "г">
+<!ENTITY masterPassword.intro "Када је постављена главна лозинка чува веше лозинке, али морате је уносити једном по сесији.">
+<!ENTITY setMasterPassword.label "Главна лозинка">
+<!ENTITY setMasterPassword.accesskey "Г">
+<!ENTITY removeMasterPassword.label "Уклони главну лозинку…">
+<!ENTITY removeMasterPassword.accesskey "У">
+<!ENTITY editPasswords.label "Уреди сачуване лозинке">
+<!ENTITY editPasswords.accesskey "У">
+<!-- Anti Virus -->
+
+<!ENTITY antiVirus.intro "&brandShortName; може да олакша анти-вирусним програмима да проверавају ел. пошту тражећи вирусе у порукама пре него што се сачувају у локалу.">
+<!ENTITY antiVirus.label "Дозволи анти-вирусним програмима да поједине поруке издвоје у карантин">
+<!ENTITY antiVirus.accesskey "к">
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+
+<!ENTITY antiVirusCaption.label "Анти-вирус">
+<!ENTITY paswords.label "Лозинке">
+<!ENTITY emailScams.label "Преваре">
+<!ENTITY junkMail.label "Нежељена пошта">
+<!ENTITY itemIntrusions.label "Провале">
+<!ENTITY itemIntrusionsAndPasswords.label "Провале и лозинке">
+<!ENTITY itemJunkMail.label "Нежељена пошта">

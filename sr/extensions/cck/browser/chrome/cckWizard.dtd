@@ -1,0 +1,252 @@
+<!ENTITY cckWizard.title "Фајерфоксов алат за прилагођавање клијента (ЦЦК)">
+<!ENTITY cckWizard.description "Овај алат Вам омогућава да направите продужење које прилагођава фајерфокс.  Ово продужење може или да инсталира корисник, или може да буде укључено у пакет за иснталацију.">
+
+<!ENTITY beforeYouBegin.label "Пре него што почнете">
+<!ENTITY beforeYouBegin.description "Одлучите која ћете прилагођења да направите и направите одн. сакупите проилагођене датотке, попут:<html:ul> <html:li>прилагођених датотека са аниумацијама за анимирани логотип</html:li> <html:li>претраживача</html:li> <html:li>прикључака за читач (plug-in)</html:li> <html:li>продужетака/тема</html:li> </html:ul>">
+                                         
+<!ENTITY configurePage.label "Конфигурације продужетака">
+<!ENTITY selectConfig.label "Одаберите постојећу конфигурацију или направите нову">
+<!ENTITY selectConfig.description "Изаберите постојећу конфигурацију или изаберите „Нова‟ да бисте направили нови радни простор у који ћете сачувати прилагођене датотеке.  Да бисте уредили постојећу конфигурацију без преписивања изворне, изаберите је у списку и притисните „Умножи‟">
+<!ENTITY showConfig.label "Покажи податке о конфигурацији">
+<!ENTITY newConfig.label "Нова">
+<!ENTITY copyConfig.label "Умножи">
+<!ENTITY deleteConfig.label "Уклони">
+
+<!ENTITY createConfig.title "Направи нову конфигурацију">
+<!ENTITY copyConfig.title "Умножи постојећу конфигурацију">
+<!ENTITY configName.label "Име конфигурације">
+<!ENTITY configLocation.label "Место конфигурације">
+
+<!ENTITY saveOnExit.label "Сачувај конфигурацију и аутоматски заврши рад">
+<!ENTITY zipLocation.label "<html:b>Важно:</html:b> Да бисте направили ИксПИ (XPI), морате да користите ЗИП или 7-зип (ZIP, 7-Zip). Користите дугмое „Избор датотеке‟ како бисте пронашли једну од ове две извршне датотеке.  Пробаћемо такође да пронађемо и датотеку са именом ZIP.EXE ако се налази на системској стази.">
+
+<!ENTITY customizeExt.label "Прилагођавање продужетака">
+
+<!ENTITY id.label "Јединствена ознака:">
+<!ENTITY id.format "формат: имефирме-cck@extensions.домен.тлд">
+<!ENTITY name.label "Име:">
+<!ENTITY version.label "Издање:">
+<!ENTITY description.label "Опис:">
+<!ENTITY creator.label "Аутор:">
+<!ENTITY homepageURL.label "УРЛ почетне стране:">
+<!ENTITY updateURL.label "УРЛ за доградњу:">
+<!ENTITY icon.label "Сличица:">
+<!ENTITY chooseFile.label "Избор датотеке...">
+<!ENTITY chooseDir.label "Избор директоријума...">
+
+<!ENTITY filename.label "Датотека:">
+
+<!ENTITY hidden.label "Не приказуј ово продужење у управнику продужењима.">
+<!ENTITY locked.label "Спречи деинсталацију овог продужења (још увек је могуће искључити га).">
+<!ENTITY aboutconfig.label "Забрани приступ до about:config">
+
+
+<!ENTITY customizePartOne.label "Прилагодите читач - први део">
+
+<!ENTITY orgName.description "Име компаније је укључено као део читачевог корисничког агента који се појављује када отворите мени „Помоћ‟ и изаберете „О програму Мозила фајерфокс‟.  Обавезан је.">
+<!ENTITY orgName.label "Унесите име компаније (до 10 знакова; без размака):">
+<!ENTITY orgName.caption "Име компаније">
+
+<!ENTITY homePage.caption "Почетна страна">
+<!ENTITY homePage.label "Изворни УРЛ почетне стране">
+<!ENTITY homePage.description "Ова страна се приказује када корисници први пут покрену читач фајерфокс, или када притисну да дугме Кућа.">
+
+<!ENTITY homePageWelcome.caption "Страна за добродошлицу">
+<!ENTITY homePageWelcome.description "При првом покретању фајерфокса, пошто је направљен нови профил, показује се страна за добродошлицу. Можете да изаберете да замените ову страну или да је уопште не приказујете.">
+<!ENTITY homePageWelcome.label "УРЛ за страну за добродошлицу:">
+<!ENTITY noWelcomePage.label "Не приказуј страну за добродошлицу">
+
+<!ENTITY homePageOverride.caption "Страна са доградњама">
+<!ENTITY homePageOverride.description "После доградње на ново издање фајерфокса, приказује се страна која преиначује добродошлицу. Можете да изабетере да замените ову страну или да је уопште не приказујете.">
+<!ENTITY homePageOverride.label "УРП стране за преиначење:">
+<!ENTITY noOverridePage.label "Не приказуј страну за преиначење">
+
+<!ENTITY titleBar.caption "Текст у насловној линији читачевог прозора">
+<!ENTITY titleBar.label "Прилагођени текст у насловној линији:">
+<!ENTITY titleBar.description "Текст ког унесете (на пример, име фирме) приказује се после насловног текста стране у насловној траци.  Препоручује се употреба формата <html:i>Мозилин фајерфокс: издање фирме те-и-те</html:i>">
+
+<!ENTITY customizePartTwo.label "Прилагодите читач - други део">
+
+<!ENTITY animLogo.caption "Анимирани логотип">
+<!ENTITY animLogoURL.label "УРЛ дугмета за логотип:">
+<!ENTITY animLogoURL.description "Унесите УРЛ где ће корисници бити послани када притисну на анимирано дугме са логотипом.">
+<!ENTITY animLogoTooltip.description "Унесите текст облачића који ће корисници видети када поставе миша изнад дугмета са анимираним логотипом.">
+<!ENTITY animLogoTooltip.label "Текст облачића за дугме с логотипом:">
+<!ENTITY animLogoAnim.description "Стаза до анимиране ГИФ (GIF) слике (16x16 тачака)">
+<!ENTITY animLogoStill.description "Стаза до мирне ФИГ (GIF) или ПНГ (PNG) слике (16x16 тачака):">
+
+<!ENTITY customizePartThree.label "Прилагођавање читача - трећи део">
+
+<!ENTITY helpMenu.caption "Мени за помоћ">
+<!ENTITY helpMenu.description "Можете да додате ставку у мени за помоћ који обезбеђује везу на Вашу веб страну за помоћ корисницима">
+<!ENTITY helpMenuText.label "Текст ставке:">
+<!ENTITY helpMenuURL.label "УРЛ за ставку:">
+<!ENTITY helpMenuAccesskey.label "Пречица са тастатуре:">
+
+<!ENTITY customizePartFour.label "Прилагођавање читача - четврти део">
+<!ENTITY allowedSites.caption "Дозвољени веб сајтови">
+<!ENTITY popupAllowedSites.label "Можете да одредите домене за које су дозвољени искачући прозори.  Набројте домене, одвајајући их запетама.">
+<!ENTITY installAllowedSites.label "Можете да одредите домене за које су дозвољене инсталације софтвера (ИксПИја, XPI). Набројте домене, одвајајући их запетама.">
+
+<!ENTITY customizeBrowserPlugins.label "Прилагодите прикључке за читач">
+<!ENTITY browserPlugins.description "Користите дугмад испод како бисте додали прикључке за читач.">
+
+<!ENTITY plugins.label "Прикључци за читач">
+<!ENTITY plugins.description "Молимо да изаберете прикључак за читач и платформу за коју је написан.">
+
+<!ENTITY customizeSearchEngines.label "Прилагођавање претраживача">
+<!ENTITY searchEngines.description "Користите дугмад испод да додате претраживаче.">
+
+<!ENTITY defaultSearchEngine.label "Изворни претраживач">
+
+<!ENTITY engines.label "Претраживачи">
+<!ENTITY engines.description "Молимо да изаберете претраживач и одговарајућу слику (ако постоји).">
+
+<!ENTITY engine.label "Претраживач:">
+<!ENTITY engineIcon.label "Датотека са сликом:">
+
+<!ENTITY file.label "Датотека:">
+
+<!ENTITY folderTitle.label "Наслов директоријума:">
+
+<!ENTITY customizeToolbarOne.label "Прилагодите траку са забелешкама - први део">
+
+<!ENTITY addToolbarFolder.caption "Додавање директоријума у траку са забелешкама">
+<!ENTITY addToolbarFolder.description "Користите дугмад дату испод да додате забелешке у директоријум на траци са забелешкама.">
+<!ENTITY addToolbarBookmark.caption "Додавање забелешке у траку са забелешкама">
+<!ENTITY addToolbarBookmark.description "Користите дугмад испод да бисте додали забелешке у траку са забелешкама.">
+
+
+
+<!ENTITY customizeToolbarTwo.label "Прилагођавање траке са забелешкама - други део">
+
+<!ENTITY customizeBookmarksOne.label "Прилагођавање забелешки - први део">
+<!ENTITY customizeBookmarksTwo.label "Прилагођавање забелешки - други део">
+
+<!ENTITY addBookmarkFolder.caption "Додај директоријум међу забелешке">
+<!ENTITY addBookmarkFolder.description "Користите дугмад испод да бисте направили директоријум са забелешкама.">
+<!ENTITY addBookmark.caption "Додај забелешке">
+<!ENTITY addBookmark.description "Користите дугмад испод да додате забелешке.">
+<!ENTITY toolbarLocation.label "Место ставки на алатној траци">
+<!ENTITY toolbarLocationBegin.label "Смести ставке са алатне траке на почетак">
+<!ENTITY toolbarLocationEnd.label "Смести ставке са алатне траке на крај">
+
+<!ENTITY bookmarkLocation.label "Место забелешки">
+<!ENTITY bookmarkLocationBegin.label "Смести забелешке на почетак">
+<!ENTITY bookmarkLocationEnd.label "Смести забелешке на крај">
+
+
+<!ENTITY bookmark.label "Забелешка">
+<!ENTITY bookmark.description "Унесите забелешку">
+<!ENTITY bookmarkTitle.label "Наслов:">
+<!ENTITY bookmarkURL.label "УРЛ (URL):">
+<!ENTITY liveBookmark.label "Жива забелешка">
+<!ENTITY separator.label "Раздвајач">
+
+
+<!ENTITY customizePrefs.label "Прилагођавање поставки">
+<!ENTITY customizePrefs.description "Користите дугмад испод да додате изворне поставке.">
+<!ENTITY prefs.label "Поставке">
+
+<!ENTITY prefName.label "Име поставке:">
+<!ENTITY prefValue.label "Вредност:">
+<!ENTITY prefLock.label "Закључај поставку">
+
+<!ENTITY newButton.label "Нова">
+<!ENTITY newButton.accesskey "в">
+<!ENTITY deleteButton.label "Укони">
+<!ENTITY deleteButton.accesskey "У">
+<!ENTITY editButton.label "Уреди">
+<!ENTITY editButton.accesskey "р">
+<!ENTITY moveUpButton.label "Горе">
+<!ENTITY moveUpButton.accesskey "Г">
+<!ENTITY moveDownButton.label "Доле">
+<!ENTITY moveDownButton.accesskey "Д">
+
+
+<!ENTITY customizeRegistry.label "Прилагоди регистар (само за виндовс, Windows)">
+
+<!ENTITY registry.label "Регистар">
+<!ENTITY registry.description "Користите дугмад испод како бисте додали уносе у виндовсов регистар. Ове ставке ће бити додаване или ажуриране сваки пут када се читач покрене.">
+
+<!ENTITY regDescription.label "Опис">
+
+
+<!ENTITY regRootKey.label "Корени кључ">
+<!ENTITY regKey.label "Кључ">
+<!ENTITY regName.label "Име">
+<!ENTITY regNameValue.label "Вредност имена">
+<!ENTITY regType.label "Тип">
+
+
+<!ENTITY customizeCerts.label "Прилагођавање сертификата">
+<!ENTITY customizeCerts.description "Користите дугмад испод да бисте изабрали сертификате који ће бити инсталирани (само формат ПЕМ, PEM).">
+<!ENTITY customizeCerts.warning "<html:b>ВАЖНО: Ако додате сертификате у фајерфокс, НЕ СМЕТЕ да делите читач ван фирме или институције под именом фајерфокс.  Ова могућност је намењена превасходно за професионалне или институционалне кориснике који ће фајерфокс постављати унутар организације.</html:b>">
+
+<!ENTITY certs.label "Сертификати">
+<!ENTITY cert.label "Сертификат">
+
+<!ENTITY cert.trustSSL "Веруј овом сертификацијском ауторитету за идентификацију веб сајтова.">
+<!ENTITY cert.trustEmail "Веруј овом сертификацијском ауторитету за иденфитикацију корисника ел. поште.">
+<!ENTITY cert.trustObjSign "Веруј овом сертификацијском ауторитету за идентификацију произвођача софтвера.">
+
+<!ENTITY customizeBundles.label "Прилагођавање продужетака и тема">
+<!ENTITY customizeBundles.description "Користите дугмад испод да изаберете продужетке и теме које ће бити инсталиране са вашим ЦЦКом.">
+<!ENTITY customizeBundles.warning "<html:b>ВАЖНО: Ако додате продужетке или теме у ЦЦК, не можете да инсталирате ЦЦК као део инсталације фајерфокса.  Морате да инсталирате кроз сам читач.</html:b>">
+
+<!ENTITY bundles.label "Продужеци и теме">
+
+
+<!ENTITY customizeProxy.label "Прилагођење подешавања посредника">
+
+<!ENTITY proxyTitle.label "Подесите посреднике (proxy) за приступ интернету">
+<!ENTITY directTypeRadio.label "Непосредна веза са интернетом">
+<!ENTITY directTypeRadio.accesskey "Н">
+<!ENTITY WPADTypeRadio.label "Аутоматски пронађи посредника за ову мрежу">
+<!ENTITY WPADTypeRadio.accesskey "ж">
+<!ENTITY manualTypeRadio.label "Ручно подешавање посредника:">
+<!ENTITY manualTypeRadio.accesskey "Р">
+<!ENTITY autoTypeRadio.label "УРЛ за аутоматско подешавање посредника:">
+<!ENTITY autoTypeRadio.accesskey "У">
+<!ENTITY configAutoconfigText.label "Место конфигурације (УРЛ):">
+<!ENTITY configAutoconfigText.accesskey "Р">
+<!ENTITY autoCCKTypeRadio.label "Сачувај подешавање посредника у ЦЦК:">
+<!ENTITY autoCCKTypeRadio.accesskey "д">
+
+
+<!ENTITY reload.label "Освежи">
+<!ENTITY reload.accesskey "О">
+<!ENTITY ftp.label "Посредник за ФТП (FTP):">
+<!ENTITY ftp.accesskey "Ф">
+<!ENTITY gopher.label "Посредник за гофер (Gopher):">
+<!ENTITY gopher.accesskey "г">
+<!ENTITY http.label "Посредник за ХТТП (HTTP)">
+<!ENTITY http.accesskey "Х">
+<!ENTITY ssl.label "Посредник за ССЛ (SSL) ">
+<!ENTITY ssl.accesskey "С">
+<!ENTITY socks.label "Рачунар за СОКС (SOCKS)">
+<!ENTITY socks.accesskey "С">
+<!ENTITY socks4.label "СОКС в4">
+<!ENTITY socks4.accesskey "О">
+<!ENTITY socks5.label "СОКС в5">
+<!ENTITY socks5.accesskey "К">
+<!ENTITY port.label "Порт:">
+<!ENTITY HTTPport.accesskey "п">
+<!ENTITY SSLport.accesskey "о">
+<!ENTITY FTPport.accesskey "р">
+<!ENTITY SOCKSport.accesskey "т">
+<!ENTITY noproxy.label "Без посредника за:">
+<!ENTITY noproxy.accesskey "Б">
+<!ENTITY noproxyExplain.label "Пример: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Користи овај посреднички сервер (proxy) за све протоколе">
+<!ENTITY shareproxy.accesskey "с">
+
+
+<!ENTITY showConfig.title "Приказ конфигурације">
+
+
+
+<!ENTITY cckWizard.oncancel "Сви измењени подаци биће сачувани">
+
+<!ENTITY cckWizardFinish.description "Притисните „Заврши‟ да бисте направили Ваш ЦЦК пакет.">
+

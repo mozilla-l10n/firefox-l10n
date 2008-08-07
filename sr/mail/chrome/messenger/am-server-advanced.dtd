@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "Напредна подешавања налога">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "Напредна подешавања за сервер ИМАПа">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "Директоријум за сервер ИМАПа:">
+<!ENTITY serverDirectory.accesskey "Д">
+<!ENTITY usingSubscription.label "Прикажи само праћене директоријуме">
+<!ENTITY usingSubscription.accesskey "п">
+<!ENTITY dualUseFolders.label "Сервер подржава директоријуме који садрже поддиректоријуме и поруке">
+<!ENTITY dualUseFolders.accesskey "р">
+<!ENTITY useIdle.label "Користи команду IDLE ако је сервер подржава">
+<!ENTITY useIdle.accesskey "К">
+<!ENTITY maximumConnectionsNumber.label "Максимални број серверских веза које ће се кеширати">
+<!ENTITY maximumConnectionsNumber.accesskey "М">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Ова подешавања одређују именске просторе на Вашем серверу за ИМАП">
+<!ENTITY personalNamespace.label "Лични простор имена:">
+<!ENTITY personalNamespace.accesskey "Л">
+<!ENTITY publicNamespace.label "Јавни (дељени):">
+<!ENTITY publicNamespace.accesskey "Ј">
+<!ENTITY otherUsersNamespace.label "Остали корисници:">
+<!ENTITY otherUsersNamespace.accesskey "О">
+<!ENTITY overrideNamespaces.label "Дозволи серверу да занемари ове просторе имена">
+<!ENTITY overrideNamespaces.accesskey "Д">
+<!ENTITY pop3Desc.label "При пријему поште са овог рачунара, користи овај директоријум за нову пошту:">
+<!ENTITY folderStorage.label "Где се чува пошта">
+<!ENTITY globalInbox.label "Општи долазни директоријум (Локални директоријум)">
+<!ENTITY globalInbox.accesskey "О">
+<!ENTITY accountDirectory.label "Долазна пошта за овај налог">
+<!ENTITY accountDirectory.accesskey "п">
+<!ENTITY deferToServer.label "Долазна пошта за неки други налог">
+<!ENTITY deferToServer.accesskey "д">
+<!ENTITY deferGetNewMail.label "Проверавај овај сервер при преузимању ове поште">
+<!ENTITY deferGetNewMail.accesskey "П">

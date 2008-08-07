@@ -1,0 +1,21 @@
+<!ENTITY window.title "Изузеци">
+<!ENTITY window.width "36em">
+
+<!ENTITY treehead.sitename.label "Веб место">
+<!ENTITY treehead.status.label "Статус">
+<!ENTITY removepermission.label "Уклони веб место">
+<!ENTITY removepermission.accesskey "У">
+<!ENTITY removeallpermissions.label "Уклони све веб сајтове">
+<!ENTITY removeallpermissions.accesskey "с">
+<!ENTITY address.label "Адреса веб сајта:">
+<!ENTITY block.label "Блокирај">
+<!ENTITY block.accesskey "Б">
+<!ENTITY session.label "Дозволи за сесију">
+<!ENTITY session.accesskey "с">
+<!ENTITY allow.label "Дозволи">
+<!ENTITY allow.accesskey "Д">
+<!ENTITY windowClose.key "w">
+
+<!ENTITY button.close.label "Затвори">
+<!ENTITY button.close.accesskey "З">
+

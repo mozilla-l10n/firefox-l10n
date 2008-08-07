@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title "Сервис за проналажење додатака">
+<!ENTITY pluginWizard.firstPage.title "Добро дошли у &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; проверава који су прикључци доступни…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Пријем доступних прикључака">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Доступни су наведени прикључци:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Притисните „Следећа‟ да бисте инсталирали ове прикључке.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Неки прикључци могу да захтевају додатне податке од Вас током инсталације.">
+
+<!ENTITY pluginWizard.licensePage.title "Лиценце прикључка">
+<!ENTITY pluginWizard.licensePage.accept.label "Слажем се.">
+<!ENTITY pluginWizard.licensePage.deny.label "Не слажем се (прикључак неће бити инсталиран).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "Инсталирам прикључак">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; инсталира прикључке…">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; је окончао инсталацију прикључака који недостају:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Сазнајте више о прикључцима или ручно пронађите прикључке који недостају.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; мора да се поново покрене како би прикључци прорадили.">
+  
+<!ENTITY missingPlugin.label "Притисните овде да преузмете прикључак.">

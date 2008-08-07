@@ -1,0 +1,55 @@
+<!ENTITY history.label "Историјат">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Чувај мој историјат бар:">
+<!ENTITY rememberDaysBefore.accesskey "Ч">
+<!ENTITY rememberDaysAfter2.label "дан(а)">
+
+<!ENTITY rememberForms.label "Памти шта је унесено у формуларе и траке за претрагу">
+<!ENTITY rememberForms.accesskey "ф">
+
+<!ENTITY rememberDownloads.label "Памти шта је примљено">
+<!ENTITY rememberDownloads.accesskey "п">
+
+
+<!ENTITY cookies.label "Колачићи">
+
+<!ENTITY acceptCookies.label "Прихватај колачиће са веб сајтова">
+<!ENTITY acceptCookies.accesskey "П">
+
+<!ENTITY acceptThirdParty.label "Прихвати колачиће од трећих лица">
+<!ENTITY acceptThirdParty.accesskey "П">
+
+<!ENTITY keepUntil.label "Чувај док:">
+<!ENTITY keepUntil.accesskey "Ч">
+
+<!ENTITY expire.label "не истекну">
+<!ENTITY close.label "не затворим &brandShortName;">
+<!ENTITY askEachTime.label "увек ме питај">
+
+<!ENTITY cookieExceptions.label "Изузеци…">
+<!ENTITY cookieExceptions.accesskey "И">
+
+<!ENTITY showCookies.label "Прикажи колачиће…">
+<!ENTITY showCookies.accesskey "к">
+
+
+<!ENTITY privateData.label "Приватни подаци">
+
+<!ENTITY alwaysClear.label "Увек уклањај моје приватне податке када затворим &brandShortName;">
+<!ENTITY alwaysClear.accesskey "У">
+
+<!ENTITY askBeforeClear.label "Питај пре уклањања приватних података">
+<!ENTITY askBeforeClear.accesskey "П">
+
+<!ENTITY clearDataSettings.label "Подешавања…">
+<!ENTITY clearDataSettings.accesskey "д">
+
+<!ENTITY clearDataNow.label "Очисти сад…">
+<!ENTITY clearDataNow.label2 "Очисти сад">
+<!ENTITY clearDataNow.accesskey "ч">

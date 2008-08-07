@@ -1,0 +1,20 @@
+<!ENTITY emailSectionHdr.label "Ел. пошта">
+<!ENTITY readMsgsLink.label "Читање порука">
+<!ENTITY composeMsgLink.label "Писање нове поруке">
+
+<!ENTITY newsSectionHdr.label "Групе">
+<!ENTITY subscribeNewsLink.label "Управљање праћењима група">
+
+<!ENTITY accountsSectionHdr.label "Налози">
+<!ENTITY subscribeImapFolders.label "Управљање праћењима директоријума">
+<!ENTITY settingsLink.label "Преглед поставки за овај налог">
+<!ENTITY newAcctLink.label "Направи нови налог">
+
+<!ENTITY advFeaturesSectionHdr.label "Напредне особине">
+<!ENTITY searchMsgsLink.label "Претрага порука">
+<!ENTITY filtersLink.label "Уреди филтере за поруке">
+<!ENTITY junkSettings.label "Подешавања отпадне поште">
+<!ENTITY offlineLink.label "Подешавања за рад у локалу">
+
+<!ENTITY rssSectionHdr.label "RSS доводи и блогови">
+<!ENTITY subscibeRSS.label "Управљање праћењима">

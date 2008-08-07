@@ -1,0 +1,10 @@
+<!ENTITY pref.wallet.title "Формулари">
+
+<!ENTITY walletHeader.caption "Управник формуларима">
+<!ENTITY walletDescription.label "Управник формуларима може да запамти податке о Вама како бисте касније формуларе на странама могли да испуњавате брже.">
+<!ENTITY walletEnabled.label "Чувај податке о формуларима при испуњавању формулара.">
+<!ENTITY walletEnabled.accesskey "ф">
+<!ENTITY viewWallet.label "Управљање сачуваним подацима о формуларима">
+<!ENTITY viewWallet.accesskey "У">
+<!ENTITY viewWalletSites.label "Управљање сајтовима">
+<!ENTITY viewWalletSites.accesskey "п">

@@ -1,0 +1,17 @@
+<!ENTITY phishDlg.title "Услови услуге за заштиту од фишинга (phishing)">
+<!-- LOCALIZATION NOTE:
+     The following entities contain sizing information for the phishing privacy
+     agreement dialog, which is opened when you select the "Check by asking"
+     option as how the browser checks for phishing attempts (if you haven't
+     already agreed with the policy for that provider; once you agree to a
+     provider's policy, you don't see it again).
+-->
+
+<!ENTITY phishDlg.height "40em">
+<!ENTITY phishDlg.width "35em">
+
+<!ENTITY acceptToS.label "Прихватам ове услове за заштиту од фишинга">
+<!ENTITY declineToS.label "НЕ прихватам ове услове за заштиту од фишинга">
+
+<!ENTITY accept.label "Прихвати и настави">
+<!ENTITY cancel.label "Откажи">

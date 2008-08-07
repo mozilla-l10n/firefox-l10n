@@ -1,0 +1,12 @@
+<!ENTITY untitledTab "(без наслова)">
+<!ENTITY newTab.label "Нови језичак">
+<!ENTITY newTab.accesskey "ј">
+<!ENTITY closeTab.label "Затвори језичак">
+<!ENTITY closeTab.accesskey "З">
+<!ENTITY closeOtherTabs.accesskey "д">
+<!ENTITY closeOtherTabs.label "Затвори друге језичке">
+<!ENTITY reloadAllTabs.label "Поново учитај све језичке">
+<!ENTITY reloadAllTabs.accesskey "П">
+<!ENTITY reloadTab.label "Поново учитај језичак">
+<!ENTITY reloadTab.accesskey "П">
+<!ENTITY listAllTabs.label "Списак свих језичака">

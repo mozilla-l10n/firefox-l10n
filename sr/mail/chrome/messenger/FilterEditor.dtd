@@ -1,0 +1,37 @@
+<!ENTITY window.title "Обрасци за филтрирање">
+
+<!ENTITY filterName.label "Име филтера">
+<!ENTITY filterName.accesskey "ф">
+
+<!ENTITY junk.label "Отпад">
+<!ENTITY notJunk.label "Није отпад">
+
+<!ENTITY lowestPriorityCmd.label "Најнижи">
+<!ENTITY lowPriorityCmd.label "Низак">
+<!ENTITY normalPriorityCmd.label "Нормалан">
+<!ENTITY highPriorityCmd.label "Висок">
+<!ENTITY highestPriorityCmd.label "Највиши">
+
+<!ENTITY conditionDesc.label "За долазеће поруке чије">
+<!ENTITY filterActionDesc.label "Уради следеће:">
+<!ENTITY filterActionDesc.accesskey "У">
+
+<!ENTITY newFolderButton.label "Нови директоријум…">
+<!ENTITY newFolderButton.accesskey "Н">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "Помери поруку у">
+<!ENTITY copyMessage.label "Умножи поруку у">
+<!ENTITY forwardTo.label "Проследи поруку">
+<!ENTITY replyWithTemplate.label "Одговори на обрасцу">
+<!ENTITY markMessageRead.label "Означи као прочитано">
+<!ENTITY markMessageStarred.label "Додај звезду">
+<!ENTITY setPriority.label "Постави приоритет на">
+<!ENTITY addTag.label "Означи поруку">
+<!ENTITY setJunkScore.label "Постави статус нежељене поште на">
+<!ENTITY deleteMessage.label "Уклони поруку">
+<!ENTITY deleteFromPOP.label "Уклони са POP сервера">
+<!ENTITY fetchFromPOP.label "Добави са POP сервера">
+<!ENTITY ignoreThread.label "Занемари нит">
+<!ENTITY watchThread.label "Надгледај нит">
+<!ENTITY stopExecution.label "Заустави извршење филтера">

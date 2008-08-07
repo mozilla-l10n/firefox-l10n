@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Исеци">
+<!ENTITY cutCmd.accesskey "И">
+<!ENTITY copyCmd.label "Умножи">
+<!ENTITY copyCmd.accesskey "У">
+<!ENTITY pasteCmd.label "Убаци">
+<!ENTITY pasteCmd.accesskey "У">
+<!ENTITY undoCmd.label "Опозови">
+<!ENTITY undoCmd.accesskey "з">
+<!ENTITY selectAllCmd.label "Изабери све">
+<!ENTITY selectAllCmd.accesskey "с">
+<!ENTITY deleteCmd.label "Обриши">
+<!ENTITY deleteCmd.accesskey "О">
+
+<!ENTITY spellAddToDictionary.label "Додај у директоријум">
+<!ENTITY spellAddToDictionary.accesskey "ј">
+<!ENTITY spellCheckEnable.label "Провера правописа">
+<!ENTITY spellCheckEnable.accesskey "п">
+<!ENTITY spellNoSuggestions.label "(нема предлога)">
+<!ENTITY spellDictionaries.label "Језици">
+<!ENTITY spellDictionaries.accesskey "Ј">

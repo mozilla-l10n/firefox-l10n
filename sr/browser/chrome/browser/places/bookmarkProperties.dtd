@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Име:">
+<!ENTITY bookmarks.name.accesskey "И">
+<!ENTITY bookmarks.location.label "Место:">
+<!ENTITY bookmarks.location.accesskey "М">
+<!ENTITY bookmarks.keyword.label "Кључна реч:">
+<!ENTITY bookmarks.keyword.accesskey "К">
+<!ENTITY bookmarks.description.label "Опис:">
+<!ENTITY bookmarks.description.accesskey "О">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Живи наслови">
+<!ENTITY bookmarks.createIn.label "Направи у:">
+<!ENTITY bookmarks.createIn.accesskey "Н">
+<!ENTITY bookmarks.feed_location.label "Место довода:">
+<!ENTITY bookmarks.feed_location.accesskey "д">
+<!ENTITY bookmarks.site_location.label "Место сајта:">
+<!ENTITY bookmarks.site_location.accesskey "ј">
+<!ENTITY bookmarks.loadInSidebar.label "Учитај ову забелешку у бочну траку">
+<!ENTITY bookmarks.loadInSidebar.accesskey "ч">
+<!ENTITY bookmarks.expanderDown.tooltip "Прикажи све директоријуме са забелешкама">
+<!ENTITY bookmarks.expanderUp.tooltip "Сакриј">
+<!ENTITY bookmarks.newFolderButton.label "Нови директоријум">
+<!ENTITY bookmarks.newFolderButton.accesskey "р">

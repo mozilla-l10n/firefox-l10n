@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title "Библиотека">
+<!ENTITY places.library.width "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label "Среди">
+<!ENTITY organize.accesskey "С">
+
+<!ENTITY file.accesskey "Д">
+<!ENTITY file.close.label "Затвори">
+<!ENTITY file.close.accesskey "З">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "Уреди">
+<!ENTITY edit.accesskey "У">
+<!ENTITY views.label "Погледи">
+<!ENTITY views.accesskey "П">
+<!ENTITY view.toolbar.label "Алатна трака">
+<!ENTITY view.toolbar.accesskey "А">
+<!ENTITY view.columns.label "Приказ колона">
+<!ENTITY view.columns.accesskey "к">
+<!ENTITY view.sort.label "Поређај">
+<!ENTITY view.sort.accesskey "П">
+<!ENTITY view.unsorted.label "Неуређено">
+<!ENTITY view.unsorted.accesskey "Н">
+<!ENTITY view.sortAscending.label "Растући редослед">
+<!ENTITY view.sortAscending.accesskey "с">
+<!ENTITY view.sortDescending.label "Опадајући редослед">
+<!ENTITY view.sortDescending.accesskey "п">
+<!ENTITY help.usingBookmarks.label "Употреба забелешки">
+<!ENTITY help.usingBookmarks.accesskey "з">
+<!ENTITY help.usingHistory.label "Употреба историјата">
+<!ENTITY help.usingHistory.accesskey "и">
+<!ENTITY help.advancedTips.label "Напредни савети и трикови">
+<!ENTITY help.advancedTips.accesskey "с">
+
+<!ENTITY cmd.findInBookmarks.label "Нађи међу забелешкама…">
+<!ENTITY cmd.findInBookmarks.accesskey "б">
+<!ENTITY cmd.findCurrent.label "Нађи у важећој збирци…">
+<!ENTITY cmd.findCurrent.accesskey "в">
+
+<!ENTITY cmd.exportHTML.label "Извоз ХТМЛа…">
+<!ENTITY cmd.exportHTML.accesskey "И">
+<!ENTITY cmd.importHTML.label "Увоз ХТМЛа…">
+<!ENTITY cmd.importHTML.accesskey "У">
+
+<!ENTITY cmd.backup.label "Архивирање…">
+<!ENTITY cmd.backup.accesskey "А">
+<!ENTITY cmd.restore2.label "Врати">
+<!ENTITY cmd.restore2.accesskey "В">
+<!ENTITY cmd.restoreFromFile.label "Избор датотеке">
+<!ENTITY cmd.restoreFromFile.accesskey "И">
+
+<!ENTITY cmd.select_all.label "Изабери све">
+<!ENTITY cmd.select_all.accesskey "с">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label "Исеци">
+<!ENTITY cmd.edit_cut.accesskey "И">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "Умножи">
+<!ENTITY cmd.edit_copy.accesskey "У">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "Убаци">
+<!ENTITY cmd.edit_paste.accesskey "У">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "Уклони">
+<!ENTITY cmd.edit_delete.accesskey "к">
+<!ENTITY cmd.edit_undo.label "Опозови">
+<!ENTITY cmd.edit_undo.accesskey "О">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "Понови">
+<!ENTITY cmd.edit_redo.accesskey "П">
+<!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.open.label "Отвори">
+<!ENTITY cmd.open.accesskey "О">
+<!ENTITY cmd.open_window.label "Отвори у новом прозору">
+<!ENTITY cmd.open_window.accesskey "н">
+<!ENTITY cmd.open_tab.label "Отвори у новом језичку">
+<!ENTITY cmd.open_tab.accesskey "ј">
+<!ENTITY cmd.open_all_in_tabs.label "Отвори све у језичцима">
+<!ENTITY cmd.open_all_in_tabs.accesskey "з">
+
+<!ENTITY cmd.properties.label "Својства">
+<!ENTITY cmd.properties.accesskey "С">
+
+<!ENTITY cmd.show_info.key "i">
+
+<!ENTITY cmd.rename.label "Преименуј">
+<!ENTITY cmd.rename.accesskey "м">
+
+<!ENTITY cmd.sortby_name.label "Ређај по имену">
+<!ENTITY cmd.sortby_name.accesskey "Р">
+<!ENTITY cmd.context_sortby_name.accesskey "r">
+
+<!ENTITY cmd.new_bookmark.label "Нова забелешка…">
+<!ENTITY cmd.new_bookmark.accesskey "з">
+<!ENTITY cmd.new_livemark.label "Нова жива забелешка…">
+<!ENTITY cmd.new_livemark.accesskey "ж">
+<!ENTITY cmd.new_folder.label "Нови директоријум…">
+<!ENTITY cmd.new_folder.accesskey "д">
+<!ENTITY cmd.context_new_folder.accesskey "Д">
+<!ENTITY cmd.new_separator.label "Нови раздвајач">
+<!ENTITY cmd.new_separator.accesskey "р">
+
+<!ENTITY cmd.reloadLivebookmark.label "Освежи живу забелешку">
+<!ENTITY cmd.reloadLivebookmark.accesskey "О">
+<!ENTITY cmd.reloadMicrosummary.label "Освежи живи наслов">
+<!ENTITY cmd.reloadMicrosummary.accesskey "с">
+
+<!ENTITY cmd.groupby_site.label "Групиши према сајту">
+<!ENTITY cmd.groupby_site.accesskey "с">
+<!ENTITY cmd.groupby_page.label "Групиши према страни">
+<!ENTITY cmd.groupby_page.accesskey "т">
+<!ENTITY cmd.groupby_feed.label "Групиши према праћењу">
+<!ENTITY cmd.groupby_feed.accesskey "п">
+<!ENTITY cmd.groupby_post.label "Групиши по поруци">
+<!ENTITY cmd.groupby_post.accesskey "о">
+
+<!ENTITY cmd.moveBookmarks.label "Премести…">
+<!ENTITY cmd.moveBookmarks.accesskey "П">
+
+<!ENTITY col.name.label "Име">
+<!ENTITY col.tags.label "Ознаке">
+<!ENTITY col.url.label "Место">
+<!ENTITY col.lastvisit.label "Датум посете">
+<!ENTITY col.visitcount.label "Број посета">
+<!ENTITY col.keyword.label "Кључна реч">
+<!ENTITY col.description.label "Опис">
+<!ENTITY col.dateadded.label "Додато">
+<!ENTITY col.lastmodified.label "Последња измена">
+
+<!ENTITY search.label "Претражи:">
+<!ENTITY search.accesskey "П">
+<!ENTITY search.collection.label "По тренутној збирци">
+<!ENTITY search.collection.accesskey "т">
+<!ENTITY search.allBookmarks.label "Све забелешке">
+<!ENTITY search.allBookmarks.accesskey "в">
+<!ENTITY search.scopeFolder.label "Изабрани директоријум">
+<!ENTITY search.scopeFolder.accesskey "И">
+<!ENTITY search.scopeAll.label "Све забелешке">
+<!ENTITY search.scopeAll.accesskey "в">
+<!ENTITY search.scopeMenu.label "Мени забелешки">
+<!ENTITY search.scopeMenu.accesskey "М">
+<!ENTITY search.scopeToolbar.label "Траку забелешки">
+<!ENTITY search.scopeToolbar.accesskey "Т">
+<!ENTITY search.scopeDownloads.label "Пријеми">
+<!ENTITY search.scopeDownloads.accesskey "П">
+<!ENTITY search.scopeHistory.label "Историјат">
+<!ENTITY search.scopeHistory.accesskey "И">
+<!ENTITY search.scopeBarExpanderDown.tooltip "Прикажи градитеља претраге">
+<!ENTITY search.scopeBarExpanderUp.tooltip "Сакриј градитеља претраге">
+<!ENTITY saveSearch.label "Сачувај">
+<!ENTITY saveSearch.accesskey "С">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "Претражи само забелешке">
+<!ENTITY advancedSearch.match.label "Пореди">
+<!ENTITY advancedSearch.all.label "сва">
+<!ENTITY advancedSearch.any.label "ма које">
+<!ENTITY advancedSearch.rules.label " од ових правила:">
+<!ENTITY advancedSearch.subj_keyword.label "Садржи текст">
+<!ENTITY advancedSearch.subj_visited.label "Посећено">
+<!ENTITY advancedSearch.subj_location.label "Место">
+<!ENTITY advancedSearch.location_startswith.label "почиње са">
+<!ENTITY advancedSearch.location_is.label "јесте">
+<!ENTITY advancedSearch.location_onsite.label "јесте на сајту">
+<!ENTITY advancedSearch.time_is.label "на">
+<!ENTITY advancedSearch.time_before.label "пре">
+<!ENTITY advancedSearch.time_after.label "после">
+<!ENTITY advancedSearch.time_inlast.label "у последњих оволико:">
+<!ENTITY advancedSearch.last_days.label "дан(а)">
+<!ENTITY advancedSearch.last_weeks.label "недеља">
+<!ENTITY advancedSearch.last_months.label "месеци">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "Групиши по:">
+<!ENTITY advancedSearch.groupby_host.label "рачунару">
+<!ENTITY advancedSearch.groupby_domain.label "домену">
+<!ENTITY advancedSearch.groupby_folder.label "директоријуму">
+<!ENTITY advancedSearch.sortby.label "Ређај према: ">
+<!ENTITY advancedSearch.sortby_title.label "наслову">
+<!ENTITY advancedSearch.sortby_date.label "датуму">
+<!ENTITY advancedSearch.sortby_visit.label "броју посета">
+<!ENTITY advancedSearch.sortby_url.label "УРЛу">
+<!ENTITY advancedSearch.sortby_asc.label "растуће">
+<!ENTITY advancedSearch.sortby_desc.label "опадајуће">
+<!ENTITY advancedSearch.max.label "Највише резултата: ">
+
+<!ENTITY cmd.find.key "т">
+
+<!ENTITY feed.subscribe.label "Довод">
+<!ENTITY feed.subscribe.tooltip "Прати">
+
+<!ENTITY view.detailsMacOSX.label "Списак">
+<!ENTITY view.details.label "Детаљи">
+<!ENTITY view.details.accesskey "Д">
+
+<!ENTITY view.addons.label "Добавка додатака за преглед">
+
+<!ENTITY maintenance.label "Увоз и архивирање">
+<!ENTITY maintenance.accesskey "У">
+
+<!ENTITY backCmd.label "Назад">
+<!ENTITY backCmd.accesskey "Н">
+<!ENTITY backButton.tooltip "Повратак назад">
+
+<!ENTITY forwardCmd.label "Напред">
+<!ENTITY forwardCmd.accesskey "Н">
+<!ENTITY forwardButton.tooltip "Кретање напред">
+
+<!ENTITY detailsPane.more.label "Више">
+<!ENTITY detailsPane.more.accesskey "ш">
+<!ENTITY detailsPane.less.label "Мање">
+<!ENTITY detailsPane.less.accesskey "њ">
+<!ENTITY detailsPane.noPreviewAvailable.label "Преглед">
+<!ENTITY detailsPane.selectAnItemText.description "Изаберите ставку за преглед и уредите њена својства">

@@ -1,0 +1,30 @@
+<!ENTITY window.width "46em">
+
+<!ENTITY cookiesonsystem.label "Следећи колачићи се памте на Вашем рачунару:">
+<!ENTITY cookiename.label "Име колачића">
+<!ENTITY cookiedomain.label "Место">
+<!ENTITY button.removecookie.label "Уклони колачић">
+<!ENTITY button.removecookie.accesskey "У">
+<!ENTITY button.removeallcookies.label "Уклони све колачиће">
+<!ENTITY button.removeallcookies.accesskey "с">
+
+<!ENTITY props.name.label "Име:">
+<!ENTITY props.value.label "Садржај:">
+<!ENTITY props.domain.label "Рачунар:">
+<!ENTITY props.path.label "Путања:">
+<!ENTITY props.secure.label "Шаље:">
+<!ENTITY props.expires.label "Истиче:">
+
+<!ENTITY window.title "Колачићи">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Нађи:">
+<!ENTITY filter.accesskey "Н">
+<!ENTITY clear.label "Уклони">
+<!ENTITY clear.accesskey "к">
+
+<!ENTITY button.close.label "Затвори">
+<!ENTITY button.close.accesskey "З">
+

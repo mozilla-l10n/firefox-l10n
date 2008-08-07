@@ -1,0 +1,16 @@
+<!ENTITY pane.title "Обавештење о испоруци">
+<!ENTITY useGlobalPrefs.label "Користи моја глобална подешавања обавештења о испоруци за овај налог">
+<!ENTITY useGlobalPrefs.accesskey "К">
+<!ENTITY useCustomPrefs.label "Прилагоди обавештења о испоруци за овај налог">
+<!ENTITY useCustomPrefs.accesskey "П">
+<!ENTITY requestAlways.label "При слању порука, увек тражи обавештење о испоруци">
+<!ENTITY requestAlways.accesskey "П">
+<!ENTITY optionTitle.label "Тражи обавештење при:">
+<!ENTITY requestOnSucess.label "Успешној испоруци">
+<!ENTITY requestOnSucess.accesskey "У">
+<!ENTITY requestOnFailure.label "Неуспешној испоруци">
+<!ENTITY requestOnFailure.accesskey "ш">
+<!ENTITY requestOnDelay.label "Застоју у испоруци">
+<!ENTITY requestOnDelay.accesskey "З">
+<!ENTITY requestNever.label "Никад не примај обавештење о испоруци">
+<!ENTITY requestNever.accesskey "Н">

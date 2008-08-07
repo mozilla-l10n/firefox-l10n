@@ -1,0 +1,20 @@
+<!ENTITY formbarCmd.label "Алатна трака за формуларе">
+<!ENTITY formbarCmd.accesskey "ф">
+<!ENTITY formPrefill.label "Попуњавање формулара">
+<!ENTITY formCapture.label "Чувај податке о формуларима">
+<!ENTITY formView.label "Управљање сачуваним подацима">
+<!ENTITY formPrefill.tooltip "Испуни формулар претходно сачуваним подацима">
+<!ENTITY formCapture.tooltip "Сачувај податке из овог формулара">
+<!ENTITY formView.tooltip "Преглед претходно сачуваних података за овај формулар">
+
+<!ENTITY captureCmd.label "Сачувај податке о формулару">
+<!ENTITY captureCmd.accesskey "С">
+<!ENTITY prefillCmd.label "Испуни формулар">
+<!ENTITY prefillCmd.accesskey "с">
+
+<!ENTITY walletContentsCmd.label "Уреди податке о формулару">
+<!ENTITY walletContentsCmd.accesskey "У">
+<!ENTITY walletSitesCmd.label "Управљање сајтовима">
+<!ENTITY walletSitesCmd.accesskey "с">
+<!ENTITY walletFormManager.label "Управник формуларима">
+<!ENTITY walletFormManager.accesskey "п">

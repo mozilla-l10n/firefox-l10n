@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "Подешавање RSS налога">
+
+<!ENTITY biffStart.label "Проверавај чланке на">
+<!ENTITY biffStart.accesskey "ч">
+<!ENTITY biffEnd.label "мин">
+
+<!ENTITY loginAtStartup.label "Провери чланке при покретању">
+<!ENTITY loginAtStartup.accesskey "П">
+
+<!ENTITY useQuickMode.label "Прикажи сажетак чланка уместо учитавања целе стране">
+<!ENTITY useQuickMode.accesskey "П">
+
+<!ENTITY manageSubscriptions.label "Управљање праћењима…">
+<!ENTITY manageSubscriptions.accesskey "У">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "Вести и блогови">
+<!ENTITY rss.wizardShortName "РСС (RSS)">
+<!ENTITY rss.wizardLongName "Доводи РССа и блогови">
+<!ENTITY rss.hostName "Вести и блогови">

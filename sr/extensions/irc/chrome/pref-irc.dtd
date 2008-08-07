@@ -1,0 +1,8 @@
+<!ENTITY pref-irc.window.title "четзила">
+
+<!ENTITY pref-irc.open.title "Поставке за четзилу">
+<!ENTITY pref-irc.open.desc "Поставке за четзилу су сувише бројне да би биле уклопљене у прозоре са поставкама.  Зато, уместо тога, можете да отворите поставке одавде.">
+<!ENTITY pref-irc.open.label "Отвори четзилине поставке">
+<!ENTITY pref-irc.open.accesskey "О">
+<!ENTITY startup.chat.label "четзила">
+<!ENTITY startup.chat.accesskey "з">

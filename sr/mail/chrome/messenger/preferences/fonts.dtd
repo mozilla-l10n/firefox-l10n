@@ -1,0 +1,79 @@
+<!ENTITY fontsAndEncodingsDialog.title "Писма и кодирања">
+<!ENTITY window.width "41em">
+<!ENTITY window.macWidth "45em">
+<!ENTITY window.unixWidth "43em">
+
+<!ENTITY language.label "Намена:">
+<!ENTITY language.accesskey "Н">
+
+<!ENTITY typefaces.label "Облик">
+<!ENTITY sizes.label "Величина (у тачкама)">
+<!ENTITY proportionalSize.accesskey "е">
+<!ENTITY monospaceSize.accesskey "x">
+
+<!ENTITY proportional.label "Пропорционални:">
+<!ENTITY proportional.accesskey "П">
+
+<!ENTITY serif.label "Серифни:">
+<!ENTITY serif.accesskey "С">
+<!ENTITY sans-serif.label "Безсерифни:">
+<!ENTITY sans-serif.accesskey "з">
+<!ENTITY monospace.label "Исте ширине:">
+<!ENTITY monospace.accesskey "И">
+
+<!ENTITY fontsize.units "тачака">
+
+<!ENTITY font.langGroup.latin1 "западноевропски">
+<!ENTITY font.langGroup.latin2 "централноевропски">
+<!ENTITY font.langGroup.japanese "јапански">
+<!ENTITY font.langGroup.trad-chinese "традиционални кинески">
+<!ENTITY font.langGroup.simpl-chinese "упрошћени кинески">
+<!ENTITY font.langGroup.trad-chinese-hk "традиционални кинески (Хонгконг)">
+<!ENTITY font.langGroup.korean "корејски">
+<!ENTITY font.langGroup.cyrillic "ћирилица">
+<!ENTITY font.langGroup.baltic "балтички">
+<!ENTITY font.langGroup.el "грчки">
+<!ENTITY font.langGroup.turkish "турски">
+<!ENTITY font.langGroup.unicode "други језици">
+<!ENTITY font.langGroup.user-def "кориснички...">
+<!ENTITY font.langGroup.thai "тајландски">
+<!ENTITY font.langGroup.hebrew "хебрејски">
+<!ENTITY font.langGroup.arabic "арапски">
+<!ENTITY font.langGroup.devanagari "деванагари">
+<!ENTITY font.langGroup.tamil "тамилски">
+<!ENTITY font.langGroup.armenian "арменски">
+<!ENTITY font.langGroup.bengali "бенгалски">
+<!ENTITY font.langGroup.canadian "уједињени канадски слоговни">
+<!ENTITY font.langGroup.ethiopic "етиопски">
+<!ENTITY font.langGroup.georgian "грузијски">
+<!ENTITY font.langGroup.gujarati "гуџарати">
+<!ENTITY font.langGroup.gurmukhi "гурмучи">
+<!ENTITY font.langGroup.khmer "кмерски">
+<!ENTITY font.langGroup.malayalam "малезијски">
+<!-- Minimum font size -->
+
+<!ENTITY minSize.label "Најмања величина фонта:">
+<!ENTITY minSize.accesskey "м">
+<!ENTITY minSize.none "Нема">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Са серифима">
+<!ENTITY useDefaultFontSansSerif.label "Без серифа">
+
+<!ENTITY newLanguages.label "Нови језици се могу подесити из панела Језици.">
+
+<!ENTITY useDocumentFonts.label "Поруке могу да користе друга писма">
+<!ENTITY useDocumentFonts.accesskey "д">
+<!-- Language settings -->
+
+<!ENTITY sendDefaultCharset.label "Одлазна пошта:">
+<!ENTITY sendDefaultCharset.accesskey "О">
+<!ENTITY languagesTitle1.label "Кодирање знакова">
+<!ENTITY composingDescription.label "Поставка подразумеваног кодирања знакова за долазну и одлазну пошту">
+
+<!ENTITY viewDefaultCharsetList.label "Долазна пошта:">
+<!ENTITY viewDefaultCharsetList.accesskey "Д">
+<!ENTITY forceCharsetOverride.label "Примени подразумевано кодирање знакова на све долазне поруке">
+<!ENTITY forceCharsetOverride.accesskey "П">
+<!ENTITY replyInDefaultCharset.label "Користи подразумевано кодирање у одговорима">
+<!ENTITY replyInDefaultCharset.accesskey "д">

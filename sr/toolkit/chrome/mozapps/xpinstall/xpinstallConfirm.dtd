@@ -1,0 +1,10 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "Инсталација програма">
+<!ENTITY dialog.style "width: 45em">
+<!ENTITY warningMain.label "Инсталирајте само додатке од аутора од поверења.">
+<!ENTITY warningSecondary.label "Злонамерни програми могу садржати вирусе, који могу оштетити податке
+на Вашем рачунару или нарушити Вашу приватност.">
+
+<!ENTITY from.label "од:">
+

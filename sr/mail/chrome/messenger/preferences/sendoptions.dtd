@@ -1,0 +1,41 @@
+<!ENTITY dialog.title "Опције за слање">
+<!ENTITY sendMail.title "Формат текста">
+<!ENTITY sendMaildesc.label "При слању порука у HTML формату када су један или више прималаца означени да не могу да примају HTML:">
+<!ENTITY askMe.label "Питај ме шта урадити">
+<!ENTITY askMe.accesskey "П">
+<!ENTITY convertPlain.label "Пребаци поруку у обичан текст">
+<!ENTITY convertPlain.accesskey "р">
+<!ENTITY sendHTML.label "Пошаљи у HTML формату без обзира">
+<!ENTITY sendHTML.accesskey "ш">
+<!ENTITY sendBoth.label "Пошаљи поруку и у обичном тексту и у HTML формату">
+<!ENTITY sendBoth.accesskey "ф">
+<!ENTITY receiveHTML.label "Ако знате да одређени прималац може да прима HTML поруке, очистите кућуцу „Шаљи поруке као обичан текст (без HTMLа) на примаочевој картици у адресару.“">
+<!ENTITY override.label "Примедба: користите адресар да за примаоце означите у ком формату желе да примају поруке.">
+
+<!ENTITY domaindesc.label "Када шаљете поруку на адресу са неким од доле наведених имена домена, &brandShortName; аутоматски шаље поруку у исправном формату.">
+<!ENTITY HTMLTab.label "Домени за HTML">
+<!ENTITY HTMLTab.accesskey "Д">
+<!ENTITY PlainTextTab.label "Домени за обичан текст">
+<!ENTITY PlainTextTab.accesskey "т">
+<!ENTITY AddHtmlDomain.label "Додај…">
+<!ENTITY AddHtmlDomain.accesskey "Д">
+<!ENTITY AddPlainText.label "Додај…">
+<!ENTITY AddPlainText.accesskey "о">
+<!ENTITY DeleteHtmlDomain.label "Уклони">
+<!ENTITY DeleteHtmlDomain.accesskey "У">
+<!ENTITY DeletePlainText.label "Уклони">
+<!ENTITY DeletePlainText.accesskey "к">
+
+<!ENTITY add.htmltitle "Додај домен за HTML">
+<!ENTITY add.htmldomain "Име домена за HTML:">
+<!ENTITY add.htmldomain.accesskey "d">
+<!ENTITY add.plaintexttitle "Додај име домена за обичан текст">
+<!ENTITY add.plaintextdomain "Име домена за обичан текст:">
+<!ENTITY add.plaintext.accesskey "d">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+
+<!ENTITY domainnameError.title "Грешка у имену домена">
+<!ENTITY duplicationError.label "Име домена @string@ већ постоји у овом списку.">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+
+<!ENTITY dualEntryError.label "Име домена се не може наћи и у списку за HTML и у списку за обичан текст. Име домена @string@ већ постоји.">

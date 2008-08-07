@@ -1,0 +1,68 @@
+<!ENTITY fontsDialog.title "Фонтови">
+<!ENTITY window.width "41em">
+<!ENTITY window.macWidth "45em">
+<!ENTITY window.unixWidth "43em">
+
+<!ENTITY language.label "Намена:">
+<!ENTITY language.accesskey "Н">
+
+<!ENTITY size.label "Величина:">
+<!ENTITY sizeProportional.accesskey "В">
+<!ENTITY sizeMonospace.accesskey "е">
+
+<!ENTITY proportional.label "Пропорционални:">
+<!ENTITY proportional.accesskey "П">
+
+<!ENTITY serif.label "Серифни:">
+<!ENTITY serif.accesskey "С">
+<!ENTITY sans-serif.label "Безсерифни:">
+<!ENTITY sans-serif.accesskey "з">
+<!ENTITY monospace.label "Блок:">
+<!ENTITY monospace.accesskey "Б">
+
+<!ENTITY font.langGroup.latin1 "западноевропски">
+<!ENTITY font.langGroup.latin2 "централноевропски">
+<!ENTITY font.langGroup.japanese "јапански">
+<!ENTITY font.langGroup.trad-chinese "традиционални кинески">
+<!ENTITY font.langGroup.simpl-chinese "упрошћени кинески">
+<!ENTITY font.langGroup.trad-chinese-hk "традиционални кинески (Хонгконг)">
+<!ENTITY font.langGroup.korean "корејски">
+<!ENTITY font.langGroup.cyrillic "ћирилица">
+<!ENTITY font.langGroup.baltic "балтички">
+<!ENTITY font.langGroup.el "грчки">
+<!ENTITY font.langGroup.turkish "турски">
+<!ENTITY font.langGroup.unicode "други језици">
+<!ENTITY font.langGroup.user-def "кориснички...">
+<!ENTITY font.langGroup.thai "тајландски">
+<!ENTITY font.langGroup.hebrew "хебрејски">
+<!ENTITY font.langGroup.arabic "арапски">
+<!ENTITY font.langGroup.devanagari "деванагари">
+<!ENTITY font.langGroup.tamil "тамилски">
+<!ENTITY font.langGroup.armenian "јерменски">
+<!ENTITY font.langGroup.bengali "бенгалски">
+<!ENTITY font.langGroup.canadian "уједињени канадски слоговни">
+<!ENTITY font.langGroup.ethiopic "етиопски">
+<!ENTITY font.langGroup.georgian "грузијски">
+<!ENTITY font.langGroup.gujarati "гуџарати">
+<!ENTITY font.langGroup.gurmukhi "гурмучи">
+<!ENTITY font.langGroup.khmer "кмерски">
+<!ENTITY font.langGroup.malayalam "малезијски">
+<!ENTITY font.langGroup.oriya "орија">
+<!ENTITY font.langGroup.telugu "телугу">
+<!ENTITY font.langGroup.kannada "канада">
+<!ENTITY font.langGroup.sinhala "синхала">
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Најмања величина писма:">
+<!ENTITY minSize.accesskey "м">
+<!ENTITY minSize.none "без">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Сериф">
+<!ENTITY useDefaultFontSansSerif.label "Без серифа">
+
+<!ENTITY allowPagesToUse.label "Дозволи странама да користе своје фонтове, уместо горе датог избора">
+<!ENTITY allowPagesToUse.accesskey "Д">
+
+<!ENTITY languages.customize.Charset.grouplabel "Кодирање знакова">
+<!ENTITY languages.customize.DefaultCharset.label "Подразумевано кодирање знакова:">
+<!ENTITY languages.customize.DefaultCharset.accesskey "к">

@@ -1,0 +1,14 @@
+<!ENTITY typeColumn.label "Врста садржаја">
+<!ENTITY typeColumn.accesskey "с">
+
+<!ENTITY actionColumn2.label "Дејство">
+<!ENTITY actionColumn2.accesskey "Д">
+
+<!ENTITY focusSearch1.key "п">
+<!ENTITY focusSearch2.key "р">
+
+<!ENTITY filter.label "Тражи:">
+<!ENTITY filter.accesskey "Т">
+
+<!ENTITY clear.label "Очисти">
+<!ENTITY clear.accesskey "О">

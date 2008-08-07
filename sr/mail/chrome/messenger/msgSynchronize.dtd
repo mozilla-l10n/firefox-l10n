@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Преузми и усклади поруке">
+<!ENTITY MsgSelect.label "Ставке за неповезан рад">
+<!ENTITY MsgSyncDesc.label "Ако сте већ изабрали директоријуме и групе за неповезан рад, можете их преузети и ускладити одмах. У супротном користите дугме „Избор“ да изаберете директоријуме и групе за неповезан рад.">
+<!ENTITY MsgSyncDirections.label "Преузми и усклади:">
+<!ENTITY syncTypeMail.label "Пошту">
+<!ENTITY syncTypeMail.accesskey "П">
+<!ENTITY syncTypeNews.label "Групе">
+<!ENTITY syncTypeNews.accesskey "Г">
+<!ENTITY sendMessage.label "Пошаљи непослате поруке">
+<!ENTITY sendMessage.accesskey "П">
+<!ENTITY workOffline.label "Искључи везу кад је све примљено и усклађено">
+<!ENTITY workOffline.accesskey "И">
+<!ENTITY selectButton.label "Избор…">
+<!ENTITY selectButton.accesskey "И">
+<!ENTITY MsgSelectDesc.label "Изаберите директоријуме и групе за неповезан рад.">
+<!ENTITY MsgSelectInd.label "Преузми">
+<!ENTITY MsgSelectItems.label "Директоријуми и групе">

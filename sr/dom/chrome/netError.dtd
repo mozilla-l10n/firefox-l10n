@@ -1,0 +1,73 @@
+<!ENTITY loadError.label "Неуспешно учитавање странице">
+<!ENTITY retry.label "Покушај поново">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Неуспешно повезивање">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Адреса је заштићена">
+<!ENTITY deniedPortAccess.longDesc "<p>Тражена адреса је одредила и порт (нпр. <q>mozilla.org:80</q> за порт 80 на сајту mozilla.org) који се обично користи у <em>друге</em> сврхе а не за преглед Веба. Прегледач је отказао захтев ради Ваше заштите и безбедности.</p>">
+
+<!ENTITY dnsNotFound.title "Сервер није пронађен">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Проверите грешке у адреси као нпр. <strong>ww</strong>.example.com уместо <strong>www</strong>.example.com</li> <li>Ако није могуће учитавање ниједне стране, проверите подешавања мреже на Вашем систему.</li> <li>Ако је Ваш рачунар заштићен ватробраном (firewall) или посредником (proxy), проверите да ли је програму &brandShortName; дозвољено да приступа интернету.</li> </ul>">
+
+<!ENTITY fileNotFound.title "Датотека није пронађена">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Проверите коришћење великих/малих слова или неке друге грешке у куцању.</li> <li>Проверите да ли је датотека премештена, преименована или избрисана.</li> </ul>">
+
+<!ENTITY generic.title "Захтев није могао да буде обрађен">
+<!ENTITY generic.longDesc "<p>&brandShortName; из неког разлога не може да учита страну.</p>">
+
+<!ENTITY malformedURI.title "Адреса није исправна">
+<!ENTITY malformedURI.longDesc "<ul> <li>Интернет адресе су обично налик на <strong>http://www.example.com/</strong></li> <li>Проверите да ли користите исправне знаке (нпр.<strong>/</strong>).</li> </ul>">
+
+<!ENTITY netInterrupt.title "Веза са сервером је прекинута">
+<!ENTITY netInterrupt.longDesc "<p>The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.</p><ul><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+
+<!ENTITY netOffline.title "Рад ван мреже">
+<!ENTITY netOffline.longDesc "<ul> <li>Дештиклирај &quot;Рад ван мреже&quot; у менију Датотека, па покушајте поново.</li> </ul>">
+
+<!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
+<!ENTITY contentEncodingError.longDesc "<p>Страна коју покушавате да прегледате не може бити приказана јер користи неисправан или неподржан вид компресије.</p><ul><li>Молимо да се обратите власницима сајта и обавестите их о овом проблему.</li></ul>">
+
+<!ENTITY unsafeContentType.title "Небезбедна врста датотеке">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Молимо да се обратите власницима сајта и обавестите их о овом проблему.</li> </ul>">
+
+<!ENTITY netReset.title "Веза са сервером је обновљена">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Веза са сервером је истекла">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Адреса није разумљива">
+<!ENTITY protocolNotFound.longDesc "<ul> <li>Можда ћете морати да поставите други програм како бисте видели ову страну.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "Прокси сервер одбија везу са сервером">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Проверите исправност подешавања прокси сервера.</li> <li>Питајте администратора ваше мреже да ли је прокси сервер активан.</li> </ul>">
+
+<!ENTITY proxyResolveFailure.title "Не могу да пронађем прокси сервер">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Проверите исправност подешавања прокси сервера.</li> <li>Проверите да ли Ваш рачунар поседује исправну мрежу.</li> <li>Ако је Ваш рачунар заштићен Ватреним зидом или прокси сервером, проверите да ли је &brandShortName;-у дозвољено да приступа интернету.</li> </ul>">
+
+<!ENTITY redirectLoop.title "Страна није правилно преусмерена">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Овај проблем понекад може бити проузрокован неприхватањем колачића.</li> </ul>">
+
+<!ENTITY unknownSocketType.title "Неочекиван одговор сервера">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Проверите да ли Ваш рачунар има постављен Лични безбедносни менаџер.</li> <li>Ово може бити проузроковано не стандардном подешавању сервера.</li> </ul>">
+
+<!ENTITY nssFailure2.title "Безбедна веза није успела">
+<!ENTITY nssFailure2.longDesc "<p>Страна коју покушавате да погледате не може бити приказана јер се аутентичност примљених података не може потврдити.</p><ul><li>Молимо да се обратите власницима веб сајта и обавестите их о овом проблему.</li></ul>">
+
+<!ENTITY nssBadCert.title "Безбедна веза није успела">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ово може да буде проблем са подешавањем сервера, или неко можда покушава да се представи као тај сервер.</li> <li>Ако сте се успешно повезали на овај сервер у прошлости, ова грешка може бити привремена па има смисла да касније покушате поново.</li> </ul>">
+
+<!ENTITY malwareBlocked.title "Могући злонамеран сајт!">
+<!ENTITY malwareBlocked.longDesc "<p>Злонамерни сајтови покушавају да инсталирају програме који отимају приватне податке, користе Ваш рачунар за напад на друге, или оштећују Ваш систем.</p> <p>Власници веб сајтова који верују да је њихов сајт пријављен грешком могу да <a href='http://www.stopbadware.org/home/reviewinfo' >захтевају ревизију</a>.</p>">
+
+<!ENTITY phishingBlocked.title "Могућ мрежни фалсификат!">
+<!ENTITY phishingBlocked.longDesc "<p>Унос ма каквих личних података на овој страни може да доведе до крађе идентитета или другог облика преваре.</p> <p>Ова врста мрежних фалсификата се користи у преварама познатим као фишинг (phishing), у којима фалсификоване веб стране опонашају изворе којима верујете.</p>">
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly. -->
+
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;

@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title "О програму &brandFullName;">
+<!ENTITY credits.label "Заслуге">
+<!ENTITY credits.accesskey "З">
+<!ENTITY aboutLink.label "&lt; О програму &brandFullName;">
+<!ENTITY aboutLink.accesskey "О">
+<!ENTITY aboutVersion "издање">
+<!ENTITY copyrightText "&#169;1998-2008 Приложници. Сва права су задржана. Мозилин тандерберд (Mozilla Thunderbird) и тандербердови заштитни знаци су робне марке Мозилине задужбине (Mozilla Foundation).  Сва права су задржана.">

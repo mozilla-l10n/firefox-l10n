@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "Уклони приватне податке">
+
+<!ENTITY sanitizeItems.label "Уклони следеће ставке:">
+<!ENTITY clearDataSettings.label "When I ask &brandShortName; to clear my private data, it should erase:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "Историјат">
+<!ENTITY itemHistory.accesskey "И">
+<!ENTITY itemFormSearchHistory.label "Сачуван историјат формулара и претраге">
+<!ENTITY itemFormSearchHistory.accesskey "с">
+<!ENTITY itemPasswords.label "Сачуване лозинке">
+<!ENTITY itemPasswords.accesskey "л">
+<!ENTITY itemCookies.label "Колачиће">
+<!ENTITY itemCookies.accesskey "л">
+<!ENTITY itemCache.label "Кеш">
+<!ENTITY itemCache.accesskey "К">
+<!ENTITY itemOfflineApps.label "Примљене податке са сајтова">
+<!ENTITY itemOfflineApps.accesskey "р">
+<!ENTITY itemDownloads.label "Историјат пријема">
+<!ENTITY itemDownloads.accesskey "п">
+<!ENTITY itemSessions.label "Регистроване сесије">
+<!ENTITY itemSessions.accesskey "с">
+<!ENTITY window.width "30em">

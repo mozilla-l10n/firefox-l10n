@@ -1,0 +1,16 @@
+
+<!ENTITY prefWindow.titleWin "Опције">
+<!ENTITY prefWindow.titleGNOME "Поставке за програм &brandShortName;">
+<!-- When making changes to prefWindow.styleWin test both Windows Classic and
+     Luna since widget heights are different based on the OS theme -->
+<!ENTITY prefWin.styleWin2 "width: 52em; min-height: 39em;">
+<!ENTITY prefWin.styleMac2 "width: 57em; min-height: 40em;">
+<!ENTITY prefWin.styleGNOME2 "width: 52em; min-height: 39.5em;">
+
+<!ENTITY paneMain.title "Главни">
+<!ENTITY paneTabs.title "Језичци">
+<!ENTITY paneContent.title "Садржај">
+<!ENTITY paneApplications.title "Програми">
+<!ENTITY panePrivacy.title "Приватност">
+<!ENTITY paneSecurity.title "Безбедност">
+<!ENTITY paneAdvanced.title "Напредно">

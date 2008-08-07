@@ -1,0 +1,31 @@
+<!ENTITY editMenu.label "Уреди">
+<!ENTITY editMenu.accesskey "У">
+<!ENTITY undoCmd.label "Опозови">
+<!ENTITY undoCmd.key "z">
+<!ENTITY undoCmd.accesskey "О">
+<!ENTITY redoCmd.label "Понови">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "П">
+<!ENTITY cutCmd.label "Исеци">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "И">
+<!ENTITY copyCmd.label "Умножи">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "У">
+<!ENTITY pasteCmd.label "Налепи">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "л">
+<!ENTITY deleteCmd.label "Уклони">
+<!ENTITY deleteCmd.accesskey "У">
+<!ENTITY selectAllCmd.label "Изабери све">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "с">
+<!ENTITY findCmd.label "Нађи">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "Н">
+<!ENTITY findAgainCmd.label "Нађи опет">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "п">
+<!ENTITY findPreviousCmd.label "Нађи претходно">
+<!ENTITY findPreviousCmd.accesskey "а">

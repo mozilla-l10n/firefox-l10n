@@ -1,0 +1,23 @@
+<!ENTITY changeAction.title "Измена акције">
+<!ENTITY window.width "36em">
+
+<!ENTITY whenDownloading.label "При пријему датотека сличних овој:">
+
+<!ENTITY openDefault.label "Отвори подразумеваним програмом:">
+<!ENTITY openDefault.accesskey "О">
+<!ENTITY openApplication.label "Отвори овим програмом:">
+<!ENTITY openApplication.accesskey "т">
+<!ENTITY changeApp.label "Избор...">
+<!ENTITY changeApp.accesskey "И">
+<!ENTITY saveToDisk.label "Сачувај на рачунар">
+<!ENTITY saveToDisk.accesskey "С">
+<!ENTITY saveToDefaultFolder.label "у подразумевани директоријум">
+<!ENTITY saveToDefaultFolder.accesskey "п">
+<!ENTITY saveToThisFolder.label "у овај директоријум:">
+<!ENTITY saveToThisFolder.accesskey "д">
+<!ENTITY chooseFolder.label "Избор...">
+<!ENTITY chooseFolder.accesskey "з">
+<!ENTITY saveToAskMe.label "питај ме где да сачувам датотеку">
+<!ENTITY saveToAskMe.accesskey "п">
+<!ENTITY usePlugin.label "користи овај додатак:">
+<!ENTITY usePlugin.accesskey "д">

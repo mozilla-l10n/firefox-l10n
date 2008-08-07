@@ -1,0 +1,96 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Безбедносна подешавања">
+<!ENTITY serverSettings.label "Подешавања сервера">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP сервер за пошту">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP сервер за пошту">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Сервер за групе (NNTP)">
+<!ENTITY webmail.label "Налог за мрежну пошту">
+<!ENTITY serverType.label "Врста сервера:">
+<!ENTITY serverName.label "Име сервера:">
+<!ENTITY serverName.accesskey "И">
+<!ENTITY userName.label "Корисничко име:">
+<!ENTITY userName.accesskey "К">
+<!ENTITY port.label "Порт:">
+<!ENTITY port.accesskey "П">
+<!ENTITY serverPortDefault.label "Изворно:">
+<!ENTITY savePassword.label "Сачувај лозинку">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Провера нових порука сваких">
+<!ENTITY biffStart.accesskey "П">
+<!ENTITY biffEnd.label "мин">
+<!ENTITY isSecure.label "Употреба шифроване везе (SSL)">
+<!ENTITY isSecure.accesskey "У">
+<!ENTITY socketType.label "Користи безбедну везу:">
+<!ENTITY neverSecure.label "Никада">
+<!ENTITY neverSecure.accesskey "Н">
+<!ENTITY sometimesSecure.label "ТЛС ако је доступан">
+<!ENTITY sometimesSecure.accesskey "д">
+<!ENTITY alwaysSecure.label "ТЛС">
+<!ENTITY alwaysSecure.accesskey "Т">
+<!ENTITY alwaysSSL.label "ССЛ">
+<!ENTITY alwaysSSL.accesskey "Л">
+<!ENTITY useSecAuth.label "Користи шифровану аутентикацију">
+<!ENTITY useSecAuth.accesskey "а">
+<!ENTITY leaveOnServer.label "Остави поруке на серверу">
+<!ENTITY leaveOnServer.accesskey "с">
+<!ENTITY headersOnly.label "Преузми само заглавља">
+<!ENTITY headersOnly.accesskey "р">
+<!ENTITY deleteByAgeFromServer.label "Највише">
+<!ENTITY deleteByAgeFromServer.accesskey "а">
+<!ENTITY daysEnd.label "дана">
+<!ENTITY deleteOnServer2.label "Док их не уклоним">
+<!ENTITY deleteOnServer2.accesskey "к">
+<!ENTITY downloadOnBiff.label "Аутоматски добави нове поруке">
+<!ENTITY downloadOnBiff.accesskey "А">
+<!ENTITY hostname.label "Име сервера">
+<!ENTITY username.label "Корисничко име">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "Подаци о POP серверу">
+<!ENTITY deleteMessagePrefix.label "Када обришем поруку:">
+<!ENTITY modelMoveToTrash.label "Премести је у Смеће">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Означи да је обрисана">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Одмах је уклони">
+<!ENTITY modelDeleteImmediately.accesskey "d">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Прочисти долазну пошту при крају рада">
+<!ENTITY expungeOnExit.accesskey "ч">
+<!ENTITY emptyTrashOnExit.label "Испразни смеће при крају рада">
+<!ENTITY emptyTrashOnExit.accesskey "з">
+<!ENTITY loginAtStartup.label "Провери нове поруке на почетку">
+<!ENTITY loginAtStartup.accesskey "е">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Питај ме пре пријема више од">
+<!ENTITY maxMessagesStart.accesskey "м">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "порука">
+<!ENTITY alwaysAuthenticate.label "Увек тражи аутентикацију при повезивању на овај сервер">
+<!ENTITY alwaysAuthenticate.accesskey "У">
+<!ENTITY newsrcFilePath.label "newsrc датотека:">
+<!ENTITY newsrcFilePath.accesskey "д">
+<!ENTITY localPath.label "Локални директоријум:">
+<!ENTITY localPath.accesskey "Л">
+<!ENTITY abbreviate.label "Приказуј имена група у панелу Пошта као:">
+<!ENTITY abbreviateOn.label "Пуна имена (на пример: „netscape.public.mozilla.mail-news“)">
+<!ENTITY abbreviateOff.label "Скраћена имена (на пример: „n.p.m.mail-news“)">
+<!ENTITY advancedButton.label "Напредно...">
+<!ENTITY advancedButton.accesskey "Н">
+<!ENTITY serverDefaultCharset.label "Подразумевано кодирање знакова:">
+<!ENTITY localFolderPicker.label "Избор локалног директоријума">
+<!ENTITY browseFolder.label "Преглед...">
+<!ENTITY browseFolder.accesskey "П">
+<!ENTITY newsrcPicker.label "Избор newsrc датотеке">
+<!ENTITY browseNewsrc.label "Преглед...">
+<!ENTITY browseNewsrc.accesskey "г">

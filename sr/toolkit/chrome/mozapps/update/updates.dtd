@@ -1,0 +1,70 @@
+<!ENTITY updateWizard.title "Доградња програма">
+
+<!ENTITY window.width "46em">
+<!ENTITY window.macWidth "49em">
+
+<!ENTITY checking.title "Проналажење унапређења">
+<!ENTITY checking.label "&brandShortName; тражи унапређења...">
+
+<!ENTITY cancel.label "Одустани">
+<!ENTITY cancel.accesskey "О">
+
+<!ENTITY noupdatesfound.title "Унапређења нису пронађена">
+<!ENTITY noupdatesfound.intro "Нема доступних нових унапређења. &brandShortName; ће проверавати с времена на време постојање нових унапређења.">
+
+<!ENTITY incompatibleChecking.label "Checking if this update will cause problems with your extensions and/or themes…">
+<!ENTITY clickHere.label "Прегледај податке у унапређењу">
+
+<!ENTITY incompatible.warning "Ово унапређење ће проузроковати престанак рада неких проширења и/или тема док и њих не унапредите.">
+<!ENTITY listIncompatible.label "Прикажи листу">
+<!ENTITY listIncompatible.accesskey "л">
+
+<!ENTITY upgrade.evangelism "Препоручљиво да унапредите &brandShortName; што пре.">
+
+<!ENTITY license.instructions "Ако се слажете са условима споразума, кликните на Слажем се доле за наставак постављања унапређења.">
+
+<!ENTITY license.titleText "Споразум о лиценци софтвера">
+<!ENTITY license.introText "Одредбе и услови за употребу овог софтвера.">
+<!ENTITY license.instructionText "Молимо да прочитате наредни споразум о лиценци. Користите клизаче како бисте прегледали остатак споразума.">
+<!ENTITY license.accept "Прихватам услове споразума о лиценци">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "НЕ прихватам услове споразума о лиценци">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY downloading.title "Пријем доградње">
+<!ENTITY downloading.intro "Пријем доградње...">
+<!ENTITY connecting.label "Повезујем се на сервер за доградње...">
+<!ENTITY verificationFailedText.label "Програм &brandShortName; не може да провери интегритет доградње коју прима, па зато сада прима цео пакет.">
+
+<!ENTITY details.link "Детаљи">
+<!ENTITY pause.label "Пауза">
+<!ENTITY pause.accesskey "П">
+<!ENTITY close.label "Затвори">
+<!ENTITY close.accesskey "З">
+
+<!ENTITY error.label "Постоје проблеми приликом провере, пријема и постављања овог унапређења. &brandShortName; не може бити унапређен због:">
+                                           
+<!ENTITY errorManual.label "Можете унапредити &brandShortName; ручно тако што посетите ову страну и набавите најновије издање:">
+                                           
+<!ENTITY errorpatching.title "Унапређење није успело">
+<!ENTITY errorpatching.intro "Критична унапређења не могу бити постављена.  Програм &brandShortName; ће покушати да их поново добави.">
+
+<!ENTITY finished.title "Унапређење је добављено">
+<!ENTITY finished.text "Доградња је успешно преузета и проверена, и биће постављена при следећем покретању програма &brandShortName;.">
+
+<!ENTITY finishedBackground.title "Унапређење је спремно за постављање">
+<!ENTITY finishedBackground.text "Програм &brandShortName; је преузео и проверио важну доградњу. Притисните везу испод за више детаља.">
+<!ENTITY finishedBackground.name "Доградња:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY finishedBackground.more1 "Притисните „Поново покрени програм &brandShortName;‟ да бисте одмах поставили доградњу.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY finishedBackground.textNotNow "Click Not Now to close this dialog and continue working. &brandShortName;
+                                           will install the update the next time it starts.">
+
+<!ENTITY installed.title "Унапређење је постављено">
+<!ENTITY installed.intro "Унапређење је успешно постављено.">
+<!ENTITY whatsnew.label "Прочитај нешто више о новостима...">
+
+<!ENTITY update.details.label "Детаљи">
+<!ENTITY update.installedOn.label "Постављен на:">
+<!ENTITY update.status.label "Статус:">

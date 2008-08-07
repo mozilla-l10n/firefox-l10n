@@ -1,0 +1,34 @@
+<!-- extracted from am-main.xul -->
+
+<!ENTITY accountTitle.label "Подешавања налога">
+<!ENTITY accountName.label "Корисничко име:">
+<!ENTITY accountName.accesskey "К">
+<!ENTITY accountNameDesc.label "Корисничко име је повезано са налогом за пошту">
+<!ENTITY identityTitle.label "Подразумевани идентитет">
+<!ENTITY identityDesc.label "Сваки налог има идентитет, податке које друге особе виде када читају Ваше поруке.">
+<!ENTITY name.label "Ваше име:">
+<!ENTITY name.accesskey "В">
+<!ENTITY email.label "Ел. адреса:">
+<!ENTITY email.accesskey "Е">
+<!ENTITY replyTo.label "Адреса за одговор (Reply-to):">
+<!ENTITY replyTo.accesskey "о">
+<!ENTITY organization.label "Установа:">
+<!ENTITY organization.accesskey "У">
+<!ENTITY signature.label "Приложи овај потпис:">
+<!ENTITY signature.accesskey "П">
+<!ENTITY edit.label "Уреди…">
+<!ENTITY choose.label "Избор…">
+<!ENTITY choose.accesskey "И">
+<!ENTITY editVCard.label "Уреди картицу…">
+<!ENTITY editVCard.accesskey "р">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Приложи моју визиткарту уз поруку">
+<!ENTITY attachVCard.accesskey "в">
+
+<!ENTITY manageIdentities.label "Управљање идентитетима…">
+<!ENTITY manageIdentities.accesskey "и">
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
+<!ENTITY smtpName.label "Одлазни сервер (SMTP):">
+<!ENTITY smtpName.accesskey "л">
+<!ENTITY smtpDefaultServer.label "Користи изворни сервер">

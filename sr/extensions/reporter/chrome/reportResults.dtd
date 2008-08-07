@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Сајт">
+<!ENTITY reportProblemType "Врста проблема">
+<!ENTITY reportDecsription "Опис">
+<!ENTITY reportPlatform "Платформа">
+<!ENTITY reportProduct "Производ">
+<!ENTITY reportoscpu "Оперативни систем">
+<!ENTITY reportGecko "Геко">
+<!ENTITY reportBuildConfig "Конфигурација">
+<!ENTITY reportUseragent "Кор. агент">
+<!ENTITY reportLanguage "Језик">
+<!ENTITY reportCharset "Скуп знакова">
+<!ENTITY reportEmail "Ел. пошта">
+<!ENTITY error "Детаљи о грешци">
+<!ENTITY faultCode "Код">
+<!ENTITY faultMessage "Порука">

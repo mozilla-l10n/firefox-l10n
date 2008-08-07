@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "Безбедност поруке">
+<!ENTITY signatureCert.label "Преглед безбедносне потврде">
+<!ENTITY encryptionCert.label "Преглед потврде шифре">
+
+<!ENTITY signer.name "Потписана:">
+<!ENTITY recipient.name "Шифрована за:">
+<!ENTITY email.address "Ел. адреса:">
+<!ENTITY issuer.name "Потврда издата од:">

@@ -1,0 +1,69 @@
+<!-- extracted from content/viewSource.xul -->
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Изворни код: ">
+
+<!ENTITY fileMenu.label "Датотека">
+<!ENTITY fileMenu.accesskey "Д">
+<!ENTITY savePageCmd.label "Сачувај страну као…">
+<!ENTITY savePageCmd.accesskey "к">
+<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY pageSetupCmd.label "Подешавање стране…">
+<!ENTITY pageSetupCmd.accesskey "д">
+<!ENTITY printPreviewCmd.label "Преглед пре штампе">
+<!ENTITY printPreviewCmd.accesskey "П">
+<!ENTITY printCmd.label "Штампа…">
+<!ENTITY printCmd.accesskey "Ш">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY closeCmd.label "Затвори">
+<!ENTITY closeCmd.accesskey "З">
+<!ENTITY closeCmd.commandkey "W">
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
+
+<!ENTITY goToLineCmd.label "Иди на ред…">
+<!ENTITY goToLineCmd.accesskey "И">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY viewMenu.label "Преглед">
+<!ENTITY viewMenu.accesskey "р">
+<!ENTITY reloadCmd.label "Освежи">
+<!ENTITY reloadCmd.accesskey "О">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Премотај дуге линије">
+<!ENTITY menu_wrapLongLines.accesskey "П">
+<!ENTITY menu_highlightSyntax.label "Бојење синтаксе">
+<!ENTITY menu_highlightSyntax.accesskey "с">
+<!ENTITY menu_textSize.label "Величина текста">
+<!ENTITY menu_textSize.accesskey "ч">
+<!ENTITY menu_textEnlarge.label "Увећај">
+<!ENTITY menu_textEnlarge.accesskey "У">
+<!ENTITY menu_textReduce.label "Умањи">
+<!ENTITY menu_textReduce.accesskey "м">
+<!ENTITY menu_textReset.label "Нормално">
+<!ENTITY menu_textReset.accesskey "Н">
+
+<!ENTITY findOnCmd.label "Нађи на овој страни…">
+<!ENTITY findOnCmd.accesskey "Н">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Нађи следеће">
+<!ENTITY findAgainCmd.accesskey "с">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">

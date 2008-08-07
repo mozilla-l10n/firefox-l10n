@@ -1,0 +1,689 @@
+<!ENTITY messengerWindow.title "Пошта и групе">
+<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
+<!-- File Menu -->
+
+<!ENTITY newFolderCmd.label "Директоријум…">
+<!ENTITY newFolderCmd.accesskey "Д">
+<!ENTITY newTabCmd.label "Нови језичак">
+<!ENTITY newTabCmd.accesskey "ј">
+<!ENTITY closeTabCmd.label "Затвори језичак">
+<!ENTITY closeTabCmd.accesskey "З">
+<!ENTITY newVirtualFolderCmd.label "Сачувана претрага…">
+<!ENTITY newVirtualFolderCmd.accesskey "С">
+<!ENTITY newAccountCmd.label "Налог…">
+<!ENTITY newAccountCmd.accesskey "Н">
+<!ENTITY openMessageMenu.label "Отвори">
+<!ENTITY openMessageFileCmd.label "Отвори сачувану поруку…">
+<!ENTITY openMessageFileCmd.accesskey "О">
+<!ENTITY openAttachmentCmd.label "Прилози">
+<!ENTITY openAttachmentCmd.accesskey "П">
+<!ENTITY saveAsMenu.label "Сачувај као">
+<!ENTITY saveAsMenu.accesskey "С">
+<!ENTITY saveAsFileCmd.label "Датотека">
+<!ENTITY saveAsFileCmd.accesskey "Д">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Образац">
+<!ENTITY saveAsTemplateCmd.accesskey "О">
+<!ENTITY getNewMsgCmd.label "Преузми нове поруке">
+<!ENTITY getNewMsgCmd.accesskey "П">
+<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgForCmd.label "Преузми нове поруке за">
+<!ENTITY getNewMsgForCmd.accesskey "з">
+<!ENTITY getAllNewMsgCmd.label "Преузми све нове поруке">
+<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY getNextNMsgCmd.label "Преузми следећих 500 нових порука">
+<!ENTITY getNextNMsgCmd.accesskey "с">
+<!ENTITY sendUnsentCmd.label "Пошаљи непослате поруке">
+<!ENTITY sendUnsentCmd.accesskey "н">
+<!ENTITY subscribeCmd.label "Прати…">
+<!ENTITY subscribeCmd.accesskey "П">
+<!ENTITY renameFolder.label "Преименуј директоријум…">
+<!ENTITY renameFolder.accesskey "П">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Сажми директоријуме">
+<!ENTITY compactFolder.accesskey "ж">
+<!ENTITY emptyTrashCmd.label "Испразни смеће">
+<!ENTITY emptyTrashCmd.accesskey "ћ">
+<!ENTITY importCmd.label "Увоз…">
+<!ENTITY importCmd.accesskey "У">
+<!ENTITY offlineMenu.label "Ван мреже">
+<!ENTITY offlineMenu.accesskey "В">
+<!ENTITY offlineGoOfflineCmd.label "Рад ван мреже">
+<!ENTITY offlineGoOfflineCmd.accesskey "Р">
+<!ENTITY synchronizeOfflineCmd.label "Пријем/синхронизација…">
+<!ENTITY synchronizeOfflineCmd.accesskey "с">
+<!ENTITY settingsOfflineCmd.label "Подешавања ван мреже">
+<!ENTITY settingsOfflineCmd.accesskey "ж">
+<!ENTITY downloadSelectedCmd.label "Добави изабране поруке">
+<!ENTITY downloadSelectedCmd.accesskey "з">
+<!ENTITY downloadStarredCmd.label "Добави поруке са звездом">
+<!ENTITY downloadStarredCmd.accesskey "з">
+<!ENTITY printCmd.label "Штампа…">
+<!ENTITY printCmd.accesskey "Ш">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Преглед штампе">
+<!ENTITY printPreviewCmd.accesskey "м">
+<!ENTITY printPreviewCmd.key "v">
+<!ENTITY printSetupCmd.label "Подешавање стране…">
+<!ENTITY printSetupCmd.accesskey "ш">
+<!-- Edit Menu -->
+
+<!ENTITY deleteMsgCmd.label "Уклони поруку">
+<!ENTITY deleteMsgCmd.accesskey "У">
+<!ENTITY undeleteMsgCmd.label "Врати поруку">
+<!ENTITY undeleteMsgCmd.accesskey "В">
+<!ENTITY cancelNewsMsgCmd.label "Откажи поруку">
+<!ENTITY cancelNewsMsgCmd.accesskey "к">
+<!ENTITY deleteMsgsCmd.label "Обриши изабране поруке">
+<!ENTITY deleteMsgsCmd.accesskey "О">
+<!ENTITY undeleteMsgsCmd.label "Врати изабране поруке">
+<!ENTITY undeleteMsgsCmd.accesskey "В">
+<!ENTITY cancelNewsMsgsCmd.label "Откажи изабране поруке">
+<!ENTITY cancelNewsMsgsCmd.accesskey "а">
+<!ENTITY deleteFolderCmd.label "Обриши директоријум">
+<!ENTITY deleteFolderCmd.accesskey "д">
+<!ENTITY unsubscribeNewsgroupCmd.label "Откажи праћење">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "ж">
+<!ENTITY selectMenu.label "Избор">
+<!ENTITY selectMenu.accesskey "И">
+<!ENTITY all.label "Све">
+<!ENTITY all.accesskey "С">
+<!ENTITY selectThreadCmd.label "Нит">
+<!ENTITY selectThreadCmd.accesskey "Н">
+<!ENTITY selectThreadCmd.key "д">
+<!ENTITY menuFavoriteFolder.label "Омиљени директоријум">
+<!ENTITY menuFavoriteFolder.accesskey "м">
+<!ENTITY folderPropsCmd.label "Својства…">
+<!ENTITY folderPropsFolderCmd.label "Својства директоријума…">
+<!ENTITY folderPropsNewsgroupCmd.label "Својства вести">
+<!ENTITY folderPropsCmd.accesskey "С">
+<!ENTITY accountManagerCmd.label "Подешавања налога…">
+<!ENTITY accountManagerCmd.accesskey "П">
+<!ENTITY accountManagerCmdUnix.accesskey "П">
+<!ENTITY undoDeleteMsgCmd.label "Врати обрисану поруку">
+<!ENTITY redoDeleteMsgCmd.label "Поново обриши поруку">
+<!ENTITY undoMoveMsgCmd.label "Врати померену поруку">
+<!ENTITY redoMoveMsgCmd.label "Поново помери поруку">
+<!ENTITY undoCopyMsgCmd.label "Врати умножену поруку">
+<!ENTITY redoCopyMsgCmd.label "Поново умножи поруку">
+<!ENTITY undoDefaultCmd.label "Опозови">
+<!ENTITY undoDefaultCmd.accesskey "О">
+<!ENTITY redoDefaultCmd.label "Понови">
+<!ENTITY redoDefaultCmd.accesskey "П">
+<!-- View Menu -->
+
+<!ENTITY showMessengerToolbarCmd.label "Алатна трака за пошту">
+<!ENTITY showMessengerToolbarCmd.accesskey "п">
+<!ENTITY customizeToolbar.label "Прилагоди…">
+<!ENTITY customizeToolbar.accesskey "П">
+
+<!ENTITY messagePaneLayoutStyle.label "Изглед">
+<!ENTITY messagePaneLayoutStyle.accesskey "И">
+<!ENTITY messagePaneClassic.label "Класични поглед">
+<!ENTITY messagePaneClassic.accesskey "К">
+<!ENTITY messagePaneWide.label "Широки поглед">
+<!ENTITY messagePaneWide.accesskey "Ш">
+<!ENTITY messagePaneVertical.label "Вертикални поглед">
+<!ENTITY messagePaneVertical.accesskey "В">
+<!ENTITY threadPaneWide.label "Широк списак">
+<!ENTITY threadPaneWide.accesskey "Ш">
+<!ENTITY showMessageCmd.label "Панел са порукама">
+<!ENTITY showMessageCmd.accesskey "П">
+
+<!ENTITY folderView.label "Директоријуми">
+<!ENTITY folderView.accesskey "Д">
+<!ENTITY allFolders.label "Све">
+<!ENTITY allFolders.accesskey "С">
+<!ENTITY unreadFolders.label "Непрочитано">
+<!ENTITY unreadFolders.accesskey "Н">
+<!ENTITY favoriteFolders.label "Омиљено">
+<!ENTITY favoriteFolders.accesskey "О">
+<!ENTITY recentFolders.label "Скорашње">
+<!ENTITY recentFolders.accesskey "С">
+<!-- Sort Menu -->
+
+<!ENTITY sortMenu.label "Ређање">
+<!ENTITY sortMenu.accesskey "Р">
+<!ENTITY sortByDateCmd.label "Датум">
+<!ENTITY sortByDateCmd.accesskey "Д">
+<!ENTITY sortByReceivedCmd.label "Примљено">
+<!ENTITY sortByReceivedCmd.accesskey "р">
+<!ENTITY sortByStarCmd.label "Звезда">
+<!ENTITY sortByStarCmd.accesskey "З">
+<!ENTITY sortByAttachmentsCmd.label "Прилози">
+<!ENTITY sortByAttachmentsCmd.accesskey "П">
+<!ENTITY sortByPriorityCmd.label "Приоритет">
+<!ENTITY sortByPriorityCmd.accesskey "П">
+<!ENTITY sortBySizeCmd.label "Величина">
+<!ENTITY sortBySizeCmd.accesskey "В">
+<!ENTITY sortByStatusCmd.label "Статус">
+<!ENTITY sortByStatusCmd.accesskey "С">
+<!ENTITY sortByTagsCmd.label "Ознаке">
+<!ENTITY sortByTagsCmd.accesskey "н">
+<!ENTITY sortByJunkStatusCmd.label "Отпад">
+<!ENTITY sortByJunkStatusCmd.accesskey "О">
+<!ENTITY sortBySubjectCmd.label "Тема">
+<!ENTITY sortBySubjectCmd.accesskey "Т">
+<!ENTITY sortByFromCmd.label "Шаље">
+<!ENTITY sortByFromCmd.accesskey "Ш">
+<!ENTITY sortByRecipientCmd.label "Прималац">
+<!ENTITY sortByRecipientCmd.accesskey "м">
+<!ENTITY sortByUnreadCmd.label "Прочитано">
+<!ENTITY sortByUnreadCmd.accesskey "П">
+<!ENTITY sortByOrderReceivedCmd.label "Редослед доставе">
+<!ENTITY sortByOrderReceivedCmd.accesskey "Р">
+<!ENTITY sortAscending.label "Растући">
+<!ENTITY sortAscending.accesskey "Р">
+<!ENTITY sortDescending.label "Опадајући">
+<!ENTITY sortDescending.accesskey "О">
+<!ENTITY sortThreaded.label "По нитима">
+<!ENTITY sortThreaded.accesskey "н">
+<!ENTITY sortUnthreaded.label "Без нити">
+<!ENTITY sortUnthreaded.accesskey "Б">
+<!ENTITY groupBySort.label "Груписано по реду">
+<!ENTITY groupBySort.accesskey "Г">
+<!ENTITY groupBySortCmd.key "Г">
+<!ENTITY msgsMenu.label "Поруке">
+<!ENTITY msgsMenu.accesskey "П">
+<!ENTITY threads.label "Нити">
+<!ENTITY threads.accesskey "Н">
+<!ENTITY allMsgsCmd.label "Све">
+<!ENTITY allMsgsCmd.accesskey "С">
+<!ENTITY expandOrCollapseMenu.label "Рашири/скупи">
+<!ENTITY expandOrCollapseMenu.accesskey "Р">
+<!ENTITY expandAllThreadsCmd.label "Рашири све нити">
+<!ENTITY expandAllThreadsCmd.accesskey "с">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Скупи све нити">
+<!ENTITY collapseAllThreadsCmd.accesskey "к">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Непрочитано">
+<!ENTITY unreadMsgsCmd.accesskey "Н">
+<!ENTITY threadsWithUnreadCmd.label "Непрочитане нити">
+<!ENTITY threadsWithUnreadCmd.accesskey "Н">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Посматране нити са непрочитаним порукама">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "П">
+<!ENTITY ignoredThreadsCmd.label "Занемарене нити">
+<!ENTITY ignoredThreadsCmd.accesskey "З">
+<!ENTITY headersMenu.label "Заглавља">
+<!ENTITY headersMenu.accesskey "З">
+<!ENTITY headersAllCmd.label "Све">
+<!ENTITY headersAllCmd.accesskey "С">
+<!ENTITY headersNormalCmd.label "Обичан">
+<!ENTITY headersNormalCmd.accesskey "О">
+<!ENTITY bodyMenu.label "Тело поруке">
+<!ENTITY bodyMenu.accesskey "п">
+<!ENTITY bodyAllowHTML.label "Изворни HTML">
+<!ENTITY bodyAllowHTML.accesskey "И">
+<!ENTITY bodySanitized.label "Упрошћени HTML">
+<!ENTITY bodySanitized.accesskey "У">
+<!ENTITY bodyAsPlaintext.label "Обичан текст">
+<!ENTITY bodyAsPlaintext.accesskey "О">
+<!ENTITY viewAttachmentsInlineCmd.label "Прикажи прилоге у оквиру поруке">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "к">
+<!ENTITY reloadCmd.label "Обнови">
+<!ENTITY reloadCmd.accesskey "б">
+<!ENTITY stopCmd.label "Стоп">
+<!ENTITY stopCmd.accesskey "С">
+<!ENTITY textZoomEnlargeCmd.label "Повећај">
+<!ENTITY textZoomEnlargeCmd.accesskey "П">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomReduceCmd.label "Смањи">
+<!ENTITY textZoomReduceCmd.accesskey "С">
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY textZoomResetCmd.label "Обичан">
+<!ENTITY textZoomResetCmd.accesskey "О">
+<!ENTITY textSize.label "Величина текста">
+<!ENTITY textSize.accesskey "т">
+
+<!ENTITY pageSourceCmd.label "Извор поруке">
+<!ENTITY pageSourceCmd.accesskey "п">
+<!ENTITY pageSourceCmd.key "п">
+<!-- Search Menu -->
+
+<!ENTITY searchMenu.label "Претрага">
+<!ENTITY searchMenu.accesskey "П">
+
+<!ENTITY findMenu.label "Нађи">
+<!ENTITY findMenu.accesskey "Н">
+<!ENTITY findCmd.label "Нађи у овој поруци…">
+<!ENTITY findCmd.accesskey "Н">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "Нађи поново">
+<!ENTITY findAgainCmd.accesskey "ђ">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Претражи поруке…">
+<!ENTITY searchMailCmd.accesskey "т">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Претражи адресе…">
+<!ENTITY searchAddressesCmd.accesskey "ж">
+<!-- Go Menu -->
+
+<!ENTITY goMenu.label "Иди">
+<!ENTITY goMenu.accesskey "И">
+<!ENTITY nextMenu.label "Следећа">
+<!ENTITY nextMenu.accesskey "С">
+<!ENTITY nextMsgCmd.label "Порука">
+<!ENTITY nextMsgCmd.accesskey "П">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Непрочитана порука">
+<!ENTITY nextUnreadMsgCmd.accesskey "Н">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "Порука са звездом">
+<!ENTITY nextStarredMsgCmd.accesskey "в">
+<!ENTITY nextUnreadThread.label "Непрочитана нит">
+<!ENTITY nextUnreadThreadCmd.accesskey "Н">
+<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY prevMenu.label "Претходна">
+<!ENTITY prevMenu.accesskey "П">
+<!ENTITY prevMsgCmd.label "Порука">
+<!ENTITY prevMsgCmd.accesskey "П">
+<!ENTITY prevMsgCmd.key "п">
+<!ENTITY prevUnreadMsgCmd.label "Непрочитана порука">
+<!ENTITY prevUnreadMsgCmd.accesskey "Н">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Напред">
+<!ENTITY goForwardCmd.accesskey "а">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Назад">
+<!ENTITY goBackCmd.accesskey "Н">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevStarredMsgCmd.label "Порука са звездом">
+<!ENTITY prevStarredMsgCmd.accesskey "в">
+<!ENTITY startPageCmd.label "Почетна страна за пошту">
+<!ENTITY startPageCmd.accesskey "П">
+<!ENTITY msgMenu.label "Порука">
+<!ENTITY msgMenu.accesskey "П">
+<!ENTITY newMsgCmd.label "Нова порука">
+<!ENTITY newMsgCmd.accesskey "Н">
+<!ENTITY newNewMsgCmd.label "Порука">
+<!ENTITY newNewMsgCmd.accesskey "П">
+<!ENTITY replyMsgCmd.label "Одговор">
+<!ENTITY replyMsgCmd.accesskey "О">
+<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replySenderCmd.label "Одговор само пошиљаоцу">
+<!ENTITY replySenderCmd.accesskey "О">
+<!ENTITY replyNewsgroupCmd.label "Одговор на групу">
+<!ENTITY replyNewsgroupCmd.accesskey "г">
+<!ENTITY replyToAllMsgCmd.label "Одговор свима">
+<!ENTITY replyToAllMsgCmd.accesskey "в">
+<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY forwardMsgCmd.label "Напред">
+<!ENTITY forwardMsgCmd.accesskey "а">
+<!ENTITY forwardMsgCmd.key "У">
+<!ENTITY forwardAsMenu.label "Прослеђивање">
+<!ENTITY forwardAsMenu.accesskey "л">
+<!ENTITY forwardAsInline.label "У тексту">
+<!ENTITY forwardAsInline.accesskey "У">
+<!ENTITY forwardAsAttachmentCmd.label "Као прилог">
+<!ENTITY forwardAsAttachmentCmd.accesskey "п">
+<!ENTITY editMsgAsNewCmd.label "Уреди поруку као да је нова">
+<!ENTITY editMsgAsNewCmd.accesskey "У">
+<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY createFilter.label "Направи филтер од поруке…">
+<!ENTITY createFilter.accesskey "п">
+<!ENTITY moveMsgMenu.label "Помери">
+<!ENTITY moveMsgMenu.accesskey "П">
+<!ENTITY moveCopyMsgRecentMenu.label "Скорашње">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "С">
+<!ENTITY copyMessageLocation.label "Умножи локацију поруке">
+<!ENTITY copyMessageLocation.accesskey "У">
+<!ENTITY copyMsgMenu.label "Умножи">
+<!ENTITY copyMsgMenu.accesskey "о">
+<!ENTITY moveToFolderAgain.label "Опет помери">
+<!ENTITY moveToFolderAgain.accesskey "м">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Занемари нит">
+<!ENTITY killThreadMenu.accesskey "З">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Посматрај нит">
+<!ENTITY watchThreadMenu.accesskey "с">
+<!ENTITY watchThreadMenu.key "с">
+<!ENTITY fileHereMenu.label "Смести овде">
+<!ENTITY fileHereMenu.accesskey "д">
+<!ENTITY copyHereMenu.label "Умножи овде">
+<!ENTITY copyHereMenu.accesskey "ж">
+<!ENTITY tagMenu.label "Означи">
+<!ENTITY tagMenu.accesskey "з">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Означи">
+<!ENTITY markMenu.accesskey "ч">
+<!ENTITY markAsReadCmd.label "Као прочитано">
+<!ENTITY markAsReadCmd.accesskey "К">
+<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Као непрочитано">
+<!ENTITY markAsUnreadCmd.accesskey "н">
+<!ENTITY markThreadAsReadCmd.label "Нит као прочитану">
+<!ENTITY markThreadAsReadCmd.accesskey "Н">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Означи као прочитано по датуму…">
+<!ENTITY markReadByDateCmd.accesskey "д">
+<!ENTITY markReadByDateCmd.key "з">
+<!ENTITY markAllReadCmd.label "Све као прочитано">
+<!ENTITY markAllReadCmd.accesskey "С">
+<!ENTITY markAllReadCmd.key "з">
+<!ENTITY markStarredCmd.label "Додај звезду">
+<!ENTITY markStarredCmd.accesskey "з">
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Непожељно">
+<!ENTITY markAsJunkCmd.accesskey "Н">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Није непожељно">
+<!ENTITY markAsNotJunkCmd.accesskey "ј">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Покрени контролу отпадне поште">
+<!ENTITY recalculateJunkScoreCmd.accesskey "ш">
+<!ENTITY openMessageWindowCmd.label "Отвори поруку">
+<!ENTITY openMessageWindowCmd.accesskey "т">
+<!ENTITY openMessageWindowCmd.key "o">
+<!-- Windows Menu -->
+
+<!ENTITY windowMenu.label "Прозор">
+<!ENTITY windowMenu.accesskey "П">
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label "Алати">
+<!ENTITY tasksMenu.accesskey "А">
+<!ENTITY addons.label "Додаци">
+<!ENTITY addons.accesskey "Д">
+<!ENTITY messengerCmd.label "Пошта и групе">
+<!ENTITY messengerCmd.accesskey "П">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Адресар">
+<!ENTITY addressBookCmd.accesskey "А">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY junkMailCmd.label "Управљање непожељним порукама…">
+<!ENTITY junkMailCmd.accesskey "н">
+<!ENTITY runJunkControls.label "Преконтролиши директоријум на отпадну пошту">
+<!ENTITY runJunkControls.accesskey "П">
+<!ENTITY deleteJunk.label "Обриши отпадну пошту у директоријуму">
+<!ENTITY deleteJunk.accesskey "б">
+<!ENTITY errorConsoleCmd.label "Конзола са грешкама">
+<!ENTITY errorConsoleCmd.accesskey "г">
+<!ENTITY filtersCmd.label "Филтери за поруке">
+<!ENTITY filtersCmd.accesskey "Ф">
+<!ENTITY filtersApply.label "Примени филтере на директоријум">
+<!ENTITY filtersApply.accesskey "ф">
+<!-- Help Menu -->
+
+<!ENTITY helpMenu.label "Помоћ">
+<!ENTITY helpMenu.accesskey "П">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Помоћ">
+<!ENTITY helpMenuWin.accesskey "П">
+<!ENTITY releaseCmd.label "Белешке уз ово издање">
+<!ENTITY releaseCmd.accesskey "Б">
+<!ENTITY hintsAndTips.label "Помоћ за &brandFullName;">
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY hintsAndTips.accesskey "П">
+<!ENTITY updateCmd.label "Провера доградњи…">
+<!ENTITY updateCmd.accesskey "д">
+<!ENTITY aboutCmd.label "О програму &brandFullName;">
+<!ENTITY aboutCmd.accesskey "О">
+<!-- Mail Toolbar -->
+
+<!ENTITY getMsgButton.label "Преузми пошту">
+<!ENTITY newMsgButton.label "Писање">
+<!ENTITY replyButton.label "Одговор">
+<!ENTITY replyAllButton.label "Одговор свима">
+<!ENTITY forwardButton.label "Проследи">
+<!ENTITY fileButton.label "Датотека">
+<!ENTITY nextButton.label "Следеће">
+<!ENTITY previousButton.label "Претходно">
+<!ENTITY backButton1.label "Назад">
+<!ENTITY goForwardButton1.label "Проследи">
+<!ENTITY deleteButton.label "Уклони">
+<!ENTITY markButton.label "Означи">
+<!ENTITY printButton.label "Штампај">
+<!ENTITY stopButton.label "Стани">
+<!ENTITY throbberItem.title "Показивач активности">
+<!ENTITY updatesItem.title "Доградње">
+<!ENTITY junkButton.label "Отпад">
+<!ENTITY notJunkButton.label "Није отпад">
+<!ENTITY addressBookButton.label "Адресар">
+<!ENTITY searchItem.title "Брза претрага">
+<!ENTITY mailViewsToolbarItem.title "Прегледи поште">
+<!ENTITY folderLocationToolbarItem.title "Место директоријума">
+<!ENTITY tagButton.label "Знак">
+<!-- Mail Toolbar Tooltips-->
+
+<!ENTITY advancedButton.tooltip "Напредна претрага порука">
+<!ENTITY clearButton.tooltip "Уклони критеријум за претрагу и прикажи све поруке">
+<!ENTITY getMsgButton.tooltip "Преузми нове поруке">
+<!ENTITY newMsgButton.tooltip "Почни нову поруку">
+<!ENTITY replyButton.tooltip "Одговори на ову поруку">
+<!ENTITY replyAllButton.tooltip "Одговори пошиљаоцу и свим примаоцима">
+<!ENTITY forwardButton.tooltip "Проследи изабрану поруку">
+<!ENTITY fileButton.tooltip "Разврстај изабрану поруку">
+<!ENTITY nextButton.tooltip "Иди на следећу непрочитану поруку">
+<!ENTITY previousButton.tooltip "Иди на претходну непрочитану поруку">
+<!ENTITY goForwardButton.tooltip "Иди на наредну поруку">
+<!ENTITY goBackButton.tooltip "Иди на претходну поруку">
+<!ENTITY deleteButton.tooltip "Уклони изабрану поруку из директоријума">
+<!ENTITY markButton.tooltip "Означи поруке">
+<!ENTITY printButton.tooltip "Штампај ову поруку">
+<!ENTITY stopButton.tooltip "Заустави пренос">
+<!ENTITY junkButton.tooltip "Означи ове поруке као отпад">
+<!ENTITY notJunkButton.tooltip "Уклони ознаку за отпад са изабраних порука">
+<!ENTITY addressBookButton.tooltip "Прикажи адресар">
+<!ENTITY tagButton.tooltip "Означи поруке">
+<!-- Tags Menu Popup -->
+
+<!ENTITY addNewTag.label "Нова ознака…">
+<!ENTITY addNewTag.accesskey "о">
+<!-- Folder Pane -->
+
+<!ENTITY folderColumn.label "Име">
+<!ENTITY folderSizeColumn.label "Величина">
+<!-- Folder Pane Context Menu -->
+
+<!ENTITY folderContextGetMessages.label "Добави поруке">
+<!ENTITY folderContextGetMessages.accesskey "Д">
+<!ENTITY folderContextOpenNewWindow.label "Отвори">
+<!ENTITY folderContextOpenNewWindow.accesskey "О">
+<!ENTITY folderContextOpenNewTab.label "Отвори у новом језичку">
+<!ENTITY folderContextOpenNewTab.accesskey "ј">
+<!ENTITY folderContextNew.label "Нови поддиректоријум…">
+<!ENTITY folderContextNew.accesskey "п">
+<!ENTITY folderContextRename.label "Преименуј">
+<!ENTITY folderContextRename.accesskey "П">
+<!ENTITY folderContextRemove.label "Обриши">
+<!ENTITY folderContextRemove.accesskey "О">
+<!ENTITY folderContextCompact.label "Сажми">
+<!ENTITY folderContextCompact.accesskey "С">
+<!ENTITY folderContextEmptyTrash.label "Испразни смеће">
+<!ENTITY folderContextEmptyTrash.accesskey "ћ">
+<!ENTITY folderContextEmptyJunk.label "Испразни непожељне">
+<!ENTITY folderContextEmptyJunk.accesskey "н">
+<!ENTITY folderContextSendUnsentMessages.label "Пошаљи непослате поруке">
+<!ENTITY folderContextSendUnsentMessages.accesskey "н">
+<!ENTITY folderContextUnsubscribe.label "Откажи праћење">
+<!ENTITY folderContextUnsubscribe.accesskey "О">
+<!ENTITY folderContextMarkNewsgroupRead.label "Означи групу као прочитану">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "з">
+<!ENTITY folderContextMarkMailFolderRead.label "Oзначи директоријум као прочитан">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "з">
+<!ENTITY folderContextSubscribe.label "Прати…">
+<!ENTITY folderContextSubscribe.accesskey "П">
+<!ENTITY folderContextSearchMessages.label "Тражи…">
+<!ENTITY folderContextSearchMessages.accesskey "Т">
+<!ENTITY folderContextProperties.label "Својства…">
+<!ENTITY folderContextProperties.accesskey "С">
+<!ENTITY folderContextFavoriteFolder.label "Омиљени директоријум">
+<!ENTITY folderContextFavoriteFolder.accesskey "м">
+<!-- Search Bar -->
+
+<!ENTITY SearchNameOrEmail.label "Име или адреса садрже:">
+<!ENTITY SearchNameOrEmail.accesskey "И">
+<!ENTITY clearButton.label "Очисти">
+<!ENTITY clearButton.accesskey "О">
+<!-- Quick Search Menu Bar -->
+
+<!ENTITY searchSubjectMenu.label "Тема">
+<!ENTITY searchFromMenu.label "Шаље">
+<!ENTITY searchSubjectOrFromMenu.label "Тема или пошиљалац">
+<!ENTITY searchRecipient.label "Прима или Коп">
+<!ENTITY searchMessageBody.label "Цела порука">
+<!ENTITY saveAsVirtualFolderMenu.label "Сачувај претрагу као директоријум…">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Нит">
+<!ENTITY fromColumn.label "Шаље">
+<!ENTITY recipientColumn.label "Прималац">
+<!ENTITY subjectColumn.label "Тема">
+<!ENTITY dateColumn.label "Датум">
+<!ENTITY priorityColumn.label "Приоритет">
+<!ENTITY tagsColumn.label "Знак">
+<!ENTITY accountColumn.label "Налог">
+<!ENTITY statusColumn.label "Статус">
+<!ENTITY sizeColumn.label "Величина">
+<!ENTITY junkStatusColumn.label "Смеће">
+<!ENTITY linesColumn.label "Линија">
+<!ENTITY unreadColumn.label "Непрочитане">
+<!ENTITY totalColumn.label "Укупно">
+<!ENTITY readColumn.label "Прочитано">
+<!ENTITY receivedColumn.label "Примљено">
+<!ENTITY starredColumn.label "Са звездом">
+<!ENTITY locationColumn.label "Место">
+<!ENTITY idColumn.label "Редослед пријема">
+<!ENTITY attachmentColumn.label "Прилози">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Притисните да изабeрете колоне које се приказују">
+<!ENTITY threadColumn.tooltip "Притисните да прикажете нити порука">
+<!ENTITY fromColumn.tooltip "Притисните да уредите по пошиљаоцу">
+<!ENTITY recipientColumn.tooltip "Притисните да поређате по примаоцу">
+<!ENTITY subjectColumn.tooltip "Притисните да поређате по теми">
+<!ENTITY dateColumn.tooltip "Притисните да поређате по датуму">
+<!ENTITY priorityColumn.tooltip "Притисните да поређате по приоритету">
+<!ENTITY tagsColumn.tooltip "Притисните да поређате по ознакама">
+<!ENTITY accountColumn.tooltip "Притисните да поређате по налогу">
+<!ENTITY statusColumn.tooltip "Притисните да порееђате по статусу">
+<!ENTITY sizeColumn.tooltip "Притисните да поређате по величини">
+<!ENTITY junkStatusColumn.tooltip "Притисните да поређате по ознаци за смеће">
+<!ENTITY unreadColumn.tooltip "Број непрочитаних порука у нити">
+<!ENTITY totalColumn.tooltip "Укупан број порука у нити">
+<!ENTITY readColumn.tooltip "Притисните да поређате према прочитаним порукама">
+<!ENTITY receivedColumn.tooltip "Притисните да поређате по датуму пријема">
+<!ENTITY starredColumn.tooltip "Притисните да поређате по звезди">
+<!ENTITY locationColumn.tooltip "Притисните да поређате по месту">
+<!ENTITY idColumn.tooltip "Притисните да поређате по редоследу пријема">
+<!ENTITY attachmentColumn.tooltip "Притисните да поређате по прилозима">
+<!-- Thread Pane Context Menu -->
+
+<!ENTITY contextOpenNewWindow.label "Отвори поруку у новом прозору">
+<!ENTITY contextOpenNewWindow.accesskey "н">
+<!ENTITY contextOpenNewTab.label "Отвори поруку у новом језичку">
+<!ENTITY contextOpenNewTab.accesskey "ј">
+<!ENTITY contextEditAsNew.label "Уреди као нову…">
+<!ENTITY contextEditAsNew.accesskey "У">
+<!ENTITY contextReplySender.label "Одговор само пошиљаоцу">
+<!ENTITY contextReplySender.accesskey "О">
+<!ENTITY contextReplyNewsgroup.label "Одговор на групу">
+<!ENTITY contextReplyNewsgroup.accesskey "г">
+<!ENTITY contextReplyAll.label "Одговор свима">
+<!ENTITY contextReplyAll.accesskey "с">
+<!ENTITY contextForward.label "Напред">
+<!ENTITY contextForward.accesskey "а">
+<!ENTITY contextForwardAsAttachment.label "Проследи као прилог">
+<!ENTITY contextForwardAsAttachment.accesskey "П">
+<!ENTITY contextMoveMsgMenu.label "Помери">
+<!ENTITY contextMoveMsgMenu.accesskey "м">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Скорашње">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "С">
+<!ENTITY contextCopyMsgMenu.label "Умножи">
+<!ENTITY contextCopyMsgMenu.accesskey "У">
+<!ENTITY contextSaveAs.label "Сачувај као…">
+<!ENTITY contextSaveAs.accesskey "С">
+<!ENTITY contextPrint.label "Штампа…">
+<!ENTITY contextPrint.accesskey "Ш">
+<!ENTITY contextPrintPreview.label "Преглед штампе">
+<!ENTITY contextPrintPreview.accesskey "м">
+<!ENTITY contextDelete.label "Обриши">
+<!ENTITY contextDelete.accesskey "О">
+<!-- Junk Bar -->
+
+<!ENTITY junkBarMessage1.label "Нежељено">
+<!ENTITY junkBarButton1.label "Није отпад">
+<!ENTITY junkInfoButton.label "?">
+<!-- Remote Content Bar -->
+
+<!ENTITY remoteContentMessage1.label "Зарад заштите Ваше приватности, блокиран је приказ удаљених слика.">
+<!ENTITY loadRemoteContentButton1.label "Учитај слике">
+<!-- Phishing Bar -->
+
+<!ENTITY phishingBarMessage1.label "Пријави као превару">
+<!ENTITY removePhishingBarButton1.label "Занемари упозорење">
+<!ENTITY reportPhishingError.label "Ово није превара">
+<!-- Quick Search Bar -->
+
+<!ENTITY quickSearchCmd.key "k">
+<!-- Message Header Context Menu -->
+
+<!ENTITY AddToAddressBook.label "Додај у адресар…">
+<!ENTITY AddToAddressBook.accesskey "а">
+<!ENTITY SendMailTo.label "Почни поруку за">
+<!ENTITY SendMailTo.accesskey "п">
+<!ENTITY CopyEmailAddress.label "Умножи ел. адресу">
+<!ENTITY CopyEmailAddress.accesskey "У">
+<!ENTITY CreateFilter.label "Направи филтер од поруке…">
+<!ENTITY CreateFilter.accesskey "ф">
+<!ENTITY BlockAddress.label "Блокирај адресу">
+<!ENTITY BlockAddress.accesskey "а">
+<!ENTITY reportPhishingURL.label "Пријава преваре">
+<!ENTITY reportPhishingURL.accesskey "ј">
+<!-- Content Pane Context Menu -->
+
+<!ENTITY saveLinkCmd.label "Сачувај одредишну везу">
+<!ENTITY saveLinkCmd.accesskey "в">
+<!ENTITY saveImageCmd.label "Сачувај слику">
+<!ENTITY saveImageCmd.accesskey "к">
+<!ENTITY copyCmd.label "Умножи">
+<!ENTITY copyCmd.accesskey "о">
+<!ENTITY selectAllCmd.label "Изабери све">
+<!ENTITY selectAllCmd.accesskey "с">
+<!ENTITY copyLinkCmd.label "Умножи одредиште везе">
+<!ENTITY copyLinkCmd.accesskey "У">
+<!ENTITY copyImageCmd.label "Умножи одредиште слике">
+<!ENTITY copyImageCmd.accesskey "о">
+<!ENTITY copyEmailCmd.label "Умножи ел. адресу">
+<!ENTITY copyEmailCmd.accesskey "е">
+<!-- Statusbar -->
+
+<!ENTITY statusText.label "Готово">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY minimizeWindow.label "Умањи">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Стави све у први план">
+<!ENTITY zoomWindow.label "Увећан">
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+
+<!ENTITY preferencesCmdMac.label "Поставке…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY servicesMenuMac.label "Услуге">
+<!ENTITY hideThisAppCmdMac.label "Сакриј &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "С">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY hideOtherAppsCmdMac.label "Сакриј остале">
+<!ENTITY hideOtherAppsCmdMac.commandkey "С">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY showAllAppsCmdMac.label "Прикажи све">

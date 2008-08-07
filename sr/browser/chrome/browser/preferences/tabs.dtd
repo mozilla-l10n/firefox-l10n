@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label "Нове странице се отварају у">
+<!ENTITY inNewWindow.label "новом прозору">
+<!ENTITY inNewWindow.accesskey "н">
+<!ENTITY inNewTab.label "новом језичку">
+<!ENTITY inNewTab.accesskey "ј">
+
+<!ENTITY warnCloseMultipleTabs.label "Упозори ме при затварању више језичака">
+<!ENTITY warnCloseMultipleTabs.accesskey "У">
+
+<!ENTITY warnOpenManyTabs.label "Упозори ме када отварање више језичака може да успори програм &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "п">
+
+<!ENTITY showTabBar.label "Увек приказуј траку са језичцима">
+<!ENTITY showTabBar.accesskey "з">
+
+<!ENTITY switchToNewTabs.label "Када отворим везу у новом језичку одмах се пребаци на њега">
+<!ENTITY switchToNewTabs.accesskey "њ">

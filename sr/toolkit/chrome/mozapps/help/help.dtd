@@ -1,0 +1,54 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "Назад">
+<!ENTITY backButton.accesskey "Н">
+<!ENTITY backButton.tooltip "Назад за једну страну">
+<!ENTITY forwardButton.label "Напред">
+<!ENTITY forwardButton.accesskey "Н">
+<!ENTITY forwardButton.tooltip "Напред за једну страну">
+<!ENTITY copyCmd.label "Умножи">
+<!ENTITY copyCmd.accesskey "У">
+<!ENTITY selectAllCmd.label "Изабери све">
+<!ENTITY selectAllCmd.accesskey "в">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "Насловна">
+<!ENTITY homeButton.tooltip "Иди на почетну страну помоћи">
+<!ENTITY printButton.label "Штампа">
+<!ENTITY printButton.tooltip "Штампај ову страну">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY searchtab.label "Претрага">
+<!ENTITY searchtab.accesskey "П">
+<!ENTITY searchClose.tooltip "Затвори резултате претраге">
+<!ENTITY toctab.label "Садржај">
+<!ENTITY toctab.accesskey "С">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "Увек на врху">
+<!ENTITY zLevel.accesskey "в">
+
+<!ENTITY fullZoomReduceBtn.label "Умањи">
+<!ENTITY fullZoomReduceBtn.accesskey "м">
+<!ENTITY fullZoomEnlargeBtn.label "Увећај">
+<!ENTITY fullZoomEnlargeBtn.accesskey "в">

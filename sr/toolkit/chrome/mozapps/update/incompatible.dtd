@@ -1,0 +1,8 @@
+
+<!ENTITY incompatible.title "Неодговарајуће ставке">
+<!ENTITY incompatible.intro "Следеће ставке нису прилагођене програму &brandShortName; тако да ће бити искључене по постављању:">
+<!ENTITY incompatible.update "Програм &brandShortName; ће са времена на време тражити одговарајућа унапређења.">
+<!ENTITY incompatible.suffix "Доградња за програм &brandShortName; садржи безбедносне исправке. Због опште безбедности препоручује се доградња програма &brandShortName;-а, чак и ако одређена проширења и теме престану да раде.">
+                                     
+<!ENTITY closebutton.label "Затвори">
+

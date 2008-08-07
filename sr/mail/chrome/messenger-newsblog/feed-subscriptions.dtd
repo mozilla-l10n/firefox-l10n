@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Претплате на РСС">
+<!ENTITY subscriptionDesc.label "Примедба: Уклањање или промена директоријума за довод неће утицати на претходно примљене чланке.">
+<!ENTITY feedTitle.label "Титула:">
+<!ENTITY location.label "Место:">
+
+<!ENTITY button.addFeed.label "Додај">
+<!ENTITY button.addFeed.accesskey "Д">
+<!ENTITY button.editFeed.label "Уреди">
+<!ENTITY button.editFeed.accesskey "У">
+<!ENTITY button.removeFeed.label "Уклони">
+<!ENTITY button.removeFeed.accesskey "У">
+<!ENTITY button.importOPML.label "Увоз">
+<!ENTITY button.importOPML.accesskey "У">
+<!ENTITY button.exportOPML.label "Извоз">
+<!ENTITY button.exportOPML.accesskey "И">
+
+<!ENTITY cmd.close.commandKey "w">

@@ -1,0 +1,102 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label "Опште">
+
+<!ENTITY accessibility.label "Приступачност">
+
+<!ENTITY useCursorNavigation.label "Увек користи стрелице за кретање по странама ">
+<!ENTITY useCursorNavigation.accesskey "с">
+<!ENTITY searchStartTyping.label "Тражи текст када почнем да куцам">
+<!ENTITY searchStartTyping.accesskey "Т">
+<!ENTITY blockAutoRefresh.label "Упозори ме када веб сајтови пробају да преусмере или поново учитају страну">
+<!ENTITY blockAutoRefresh.accesskey "У">
+
+<!ENTITY browsing.label "Преглед">
+
+<!ENTITY useAutoScroll.label "Користи аутоматско померање">
+<!ENTITY useAutoScroll.accesskey "п">
+<!ENTITY useSmoothScrolling.label "Користи глатко померање">
+<!ENTITY useSmoothScrolling.accesskey "г">
+<!ENTITY checkSpelling.label "Проверавај правопис док куцам">
+<!ENTITY checkSpelling.accesskey "в">
+
+<!ENTITY systemDefaults.label "Изворне системске вредности">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label "Увек на почетку рада провери да ли је програм &brandShortName; подразумевани читач">
+<!ENTITY alwaysCheckDefault.accesskey "к">
+<!ENTITY checkNow.label "Провери сада">
+<!ENTITY checkNow.accesskey "П">
+
+<!ENTITY networkTab.label "Мрежа">
+
+<!ENTITY connection.label "Веза">
+
+<!ENTITY connectionDesc.label "Подешавање начина на који се програм &brandShortName; повезује на Интернет">
+<!ENTITY connectionSettings.label "Подешавања…">
+<!ENTITY connectionSettings.accesskey "П">
+
+<!ENTITY offlineStorage.label "Чување ван мреже">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Користи највише">
+<!ENTITY useCacheBefore.accesskey "К">
+<!ENTITY useCacheAfter.label "MB простора за кеш">
+<!ENTITY clearCacheNow.label "Очисти сада">
+<!ENTITY clearCacheNow.accesskey "О">
+
+<!ENTITY updateTab.label "Унапређења">
+
+<!ENTITY autoCheck.label "Самостално проверавај унапређења за:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "ф">
+<!ENTITY enableAddonsUpdate.label "Инсталирани додаци">
+<!ENTITY enableAddonsUpdate.accesskey "И">
+<!ENTITY enableSearchUpdate.label "Механизме претраге">
+<!ENTITY enableSearchUpdate.accesskey "М">
+<!ENTITY whenUpdatesFound.label "Када је пронађено унапређење за &brandShortName;,">
+<!ENTITY askMe.label "Питај ме шта желим да урадим">
+<!ENTITY askMe.accesskey "П">
+<!ENTITY modeAutomatic.label "Самостално прими и постави унапређење">
+<!ENTITY modeAutomatic.accesskey "п">
+<!ENTITY modeAutoAddonWarn.label "Упозори ме ако ће ово да искључи ма који додатак">
+<!ENTITY modeAutoAddonWarn.accesskey "д">
+<!ENTITY updateHistory.label "Прикажи историјат доградњи">
+<!ENTITY updateHistory.accesskey "и">
+
+<!ENTITY offlineNotify.label "Обавести ме када веб сајт тражи да чува податке у локалу">
+<!ENTITY offlineNotify.accesskey "О">
+<!ENTITY offlineNotifyExceptions.label "Изузеци">
+<!ENTITY offlineNotifyExceptions.accesskey "И">
+
+<!ENTITY offlineAppsList.label "Наведени веб сајтови су сачували податке за локалну употребу:">
+<!ENTITY offlineAppsList.height "9em">
+<!ENTITY offlineAppsListRemove.label "Уклони…">
+<!ENTITY offlineAppsListRemove.accesskey "У">
+<!ENTITY offlineAppRemove.confirm "Уклони локалне податке">
+
+<!ENTITY encryptionTab.label "Шифровање">
+
+<!ENTITY protocols.label "Протоколи">
+<!ENTITY useSSL3.label "Користи SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Користи TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Сертификати">
+<!ENTITY certSelection.description "Када сервер тражи мој лични сертификат:">
+<!ENTITY certs.auto "Изабери аутоматски">
+<!ENTITY certs.auto.accesskey "а">
+<!ENTITY certs.ask "Питај увек">
+<!ENTITY certs.ask.accesskey "П">
+<!ENTITY viewCerts.label "Прикажи сертификате">
+<!ENTITY viewCerts.accesskey "с">
+<!ENTITY viewCRLs.label "Листа опозива">
+<!ENTITY viewCRLs.accesskey "о">
+<!ENTITY verify2.label "Провера">
+<!ENTITY verify2.accesskey "П">
+<!ENTITY viewSecurityDevices.label "Безбедносни уређаји">
+<!ENTITY viewSecurityDevices.accesskey "у">

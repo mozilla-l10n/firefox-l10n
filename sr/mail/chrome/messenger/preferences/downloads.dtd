@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label "Директоријум са прилозима">
+<!ENTITY alwaysAsk.label "Питај ме где се чува свака датотека">
+<!ENTITY alwaysAsk.accesskey "П">
+<!ENTITY neverAsk.label "Чувај све прилоге у овај директоријум:">
+<!ENTITY neverAsk.accesskey "Ч">
+<!ENTITY desktop.label "Радна површина">
+<!ENTITY downloads.label "Моји пријеми">
+<!ENTITY chooseFolderWin.label "Преглед...">
+<!ENTITY chooseFolderWin.accesskey "П">
+<!ENTITY chooseFolderMac.label "Избор...">
+<!ENTITY chooseFolderMac.accesskey "И">
+
+
+<!ENTITY fileTypes.label "Дејства при пријему">
+<!ENTITY configureActions.label "Дејства за преглед и уређивање...">
+<!ENTITY configureActions.accesskey "Д">
+<!ENTITY fileTypesDescription.label "&brandShortName; може да аутоматски чува или отвара неке врсте прилога.">
+
+<!ENTITY fileTypeColName.label "Врсте датотека">
+<!ENTITY fileHandlerColName.label "Програм">
+<!ENTITY editFileHandler.label "Промени дејство...">
+<!ENTITY editFileHandler.accesskey "д">
+<!ENTITY removeFileHandler.label "Уклони">
+<!ENTITY removeFileHandler.accesskey "У">

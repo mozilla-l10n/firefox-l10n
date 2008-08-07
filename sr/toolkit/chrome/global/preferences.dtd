@@ -1,0 +1,5 @@
+<!ENTITY windowClose.key "w">
+<!ENTITY preferencesDefaultTitleMac.title "Подешавања">
+<!ENTITY preferencesDefaultTitleWin.title "Опције">
+<!ENTITY preferencesCloseButton.label "Затвори">
+<!ENTITY preferencesCloseButton.accesskey "З">

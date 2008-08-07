@@ -1,0 +1,17 @@
+<!ENTITY windowtitle.label "Управник лозинки">
+<!ENTITY windowalttitle.label "Управник формуларима: веб сајтови">
+<!ENTITY tab.signonsstored.label "Сачуване лозинке">
+<!ENTITY tab.signonsnotstored.label "Лозинке које се не чувају">
+<!ENTITY tab.nopreview.label "Формулари који се не прегледају">
+<!ENTITY tab.nocapture.label "Формулари који се не снимају">
+
+<!ENTITY spiel.signonsstored.label "Управљач лозинки чува податке о следећим веб сајтовима:">
+<!ENTITY spiel.signonsnotstored.label "Управљач лозинкама неће памтити податке о следећим веб сајтовима:">
+<!ENTITY spiel.nopreview.label "Управљач формуларима неће давати формуларе на преглед са следећих веб сајтова пре него што их испуни за Вас:">
+<!ENTITY spiel.nocapture.label "Управљач формуларима никада неће питати да ли да чува формуларе са следећих веб сајтова:">
+
+<!ENTITY treehead.site.label "Веб сајт">
+<!ENTITY treehead.username.label "Корисничко име">
+<!ENTITY treehead.password.label "Лозинка">
+<!ENTITY remove.label "Уклони">
+<!ENTITY removeall.label "Уклони све">

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Sean Umphlet <nosebleed@umphlet.com> (minor bugfixes)
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Пречице са тастатуре у &brandShortName;и </title>
+  <link rel="stylesheet" type="text/css"
+    href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandShortName;ине пречице са тастатуре</h1>
+
+<p>Ово је листа најчешћих пречица са тастатуре код &brandShortName;е.
+  <span class="unix">If you have enabled Emacs-style text editing shortcuts
+  in GNOME, they will also work in &brandShortName;.  When an Emacs text
+  editing shortcut conflicts with the default shortcuts (as occurs with
+  &accelKey;+<kbd>K</kbd>), the Emacs shortcut will take preference if
+  focus is inside a textbox (which would include the location bar and search
+  bar).  In such cases you should use the alternate keyboard shortcut
+  if one is listed below.</span></p>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Команда</th>
+      <th>Пречица</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">Навигација</th>
+    </tr>
+    <tr>
+      <td>Назад</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>Стрелица на лево</kbd><br/>
+          <kbd>Брисање уназад</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Стрелица на лево</kbd><br/>
+          &accelKey;+<kbd>[</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>[</kbd><br/>
+          &accelKey;+<kbd>Стрелица на лево</kbd><br/>
+          <kbd>Обриши</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>Напред</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>Стрелица на десно</kbd><br/>
+          &shiftKey;+<kbd>Брисање уназад</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Стрелица на десно</kbd><br/>
+          &accelKey;+<kbd>]</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>]</kbd><br/>
+          &accelKey;+<kbd>Стрелица на десно</kbd><br/>
+          &shiftKey;+<kbd>Обриши</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>Почетак</td>
+      <td>&altKey;+<kbd>Почетак</kbd></td>
+    </tr>
+    <tr>
+      <td>Отвори датотеку</td>
+      <td>&accelKey;+<kbd>O</kbd></td>
+    </tr>
+    <tr>
+      <td>Обнови</td>
+      <td><kbd>F5<br/></kbd>
+        &accelKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Обнови (пребриши кеш)</td>
+      <td><span class="noMac">&accelKey;+<kbd>F5</kbd><br/></span>
+        &accelKey;+&shiftKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Заустави</td>
+      <td><span class="mac">&accelKey;+<kbd>.</kbd><br/></span>
+        <kbd>Esc</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Текућа страна</th>
+    </tr>
+    <tr>
+      <td>Иди на дно стране</td>
+      <td><kbd>Крај</kbd></td>
+    </tr>
+    <tr>
+      <td>Иди на врх стране</td>
+      <td><kbd>Почетак</kbd></td>
+    </tr>
+    <tr>
+      <td>Пресели на следећи оквир</td>
+      <td><kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>Пресели на предходни оквир</td>
+      <td>&shiftKey;+<kbd>F6</kbd></td>
+    </tr>
+    <tr class="noWin">
+      <td>Подаци о страни</td>
+      <td>&accelKey;+<kbd>I</kbd></td>
+    </tr>
+    <tr>
+      <td>Изворни код стране</td>
+      <td>&accelKey;+<kbd>U</kbd></td>
+    </tr>
+    <tr>
+      <td>Штампај</td>
+      <td>&accelKey;+<kbd>P</kbd></td>
+    </tr>
+    <tr>
+      <td>Сними као</td>
+      <td>&accelKey;+<kbd>S</kbd></td>
+    </tr>
+    <tr>
+      <td>Величина текста: Умањи</td>
+      <td>&accelKey;+<kbd>-</kbd></td>
+    </tr>
+    <tr>
+      <td>Величина текста: Увећај</td>
+      <td>&accelKey;+<kbd>+</kbd></td>
+    </tr>
+    <tr>
+      <td>Величина текста: Поврати</td>
+      <td>&accelKey;+<kbd>0</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Уређивање</th>
+    </tr>
+    <tr>
+      <td>Умножи</td>
+      <td>&accelKey;+<kbd>C</kbd></td>
+    </tr>
+    <tr>
+      <td>Исеци</td>
+      <td>&accelKey;+<kbd>X</kbd></td>
+    </tr>
+    <tr>
+      <td>Обриши</td>
+      <td><kbd>Delete</kbd></td>
+    </tr>
+    <tr>
+      <td>Залепи</td>
+      <td>&accelKey;+<kbd>V</kbd></td>
+    </tr>
+    <tr>
+      <td>Понови</td>
+      <td><span class="win">&accelKey;+<kbd>Y</kbd></span>
+        <span class="noWin">&accelKey;+&shiftKey;+<kbd>Z</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Селектуј све</td>
+      <td>&accelKey;+<kbd>A</kbd></td>
+    </tr>
+    <tr>
+      <td>Опозови</td>
+      <td>&accelKey;+<kbd>Z</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Претрага</th>
+    </tr>
+    <tr>
+      <td>Нађи</td>
+      <td>&accelKey;+<kbd>F</kbd></td>
+    </tr>
+    <tr>
+      <td>Тражи опет</td>
+      <td><kbd>F3</kbd><br/>
+        &accelKey;+<kbd>G</kbd></td>
+    </tr>
+    <tr>
+      <td>Тражи линк док куцам</td>
+      <td><kbd>'</kbd></td>
+    </tr>
+    <tr>
+      <td>Тражи док куцам текст</td>
+      <td><kbd>/</kbd></td>
+    </tr>
+    <tr>
+      <td>тражи претходни</td>
+      <td>&shiftKey;+<kbd>F3</kbd></td>
+    </tr>
+    <tr>
+      <td>Претрага веб места</td>
+      <td>&accelKey;+<kbd>K</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>E</kbd></span>
+        <span class="unix"><br/>&accelKey;+<kbd>J</kbd></span></td>
+    </tr>
+  </tbody>
+  <tbody id="windows_tabs">
+    <tr>
+      <th colspan="2">Windows &amp; Тавѕ</th>
+    </tr>
+    <tr>
+      <td>Затвори таб</td>
+      <td>&accelKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&ctrlKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Затвори прозор</td>
+      <td>&accelKey;+&shiftKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&altKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <!-- LOCALIZATION NOTE:
+         "Left"/"Up" and "Right"/"Down" might need special treatment
+         for bidi locales, as used in the following two entries.
+    -->
+    <tr>
+      <td>Помери таб лево (када је фокусиран)</td>
+      <td>&accelKey;+<kbd>Стрелица у лево</kbd><br/>
+          &accelKey;+<kbd>Стрелица на горе</kbd></td>
+    </tr>
+    <tr>
+      <td>Помери таб десно (када је фокусиран)</td>
+      <td>&accelKey;+<kbd>Стрелица на десно</kbd><br/>
+          &accelKey;+<kbd>Стрелица на доле</kbd></td>
+    </tr>
+    <tr>
+      <td>Помери таб на почетак (када је фокусиран)</td>
+      <td>&accelKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Помери таб на крај (када је фокусиран)</td>
+      <td>&accelKey;+<kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>Нови таб</td>
+      <td>&accelKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>Нови прозор</td>
+      <td>&accelKey;+<kbd>N</kbd></td>
+    </tr>
+    <tr>
+      <td>Наредни таб</td>
+      <td>&ctrlKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Right Arrow<br/></span>
+        &ctrlKey;+<kbd>Page Down</kbd></td>
+    </tr>
+    <tr>
+      <td>Отвори адресу у новом табу</td>
+      <td>&altKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Претходни таб</td>
+      <td>&ctrlKey;+&shiftKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Left Arrow<br/></span>
+        &ctrlKey;+<kbd>Page Up</kbd></td>
+    </tr>
+    <tr>
+      <td>Поврати претходно затворени таб</td>
+      <td>&accelKey;+&shiftKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>Селектуј таб (1 до 8)</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+(<kbd>1</kbd> to <kbd>8</kbd>)</td>
+    </tr>
+    <tr>
+      <td>Селектуј последњи таб</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+<kbd>9</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Алати</th>
+    </tr>
+    <tr class="noUnix">
+      <td>Забележи све табове</td>
+      <td>&accelKey;+&shiftKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>Забележи све стране</td>
+      <td>&accelKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>Забелешке</td>
+      <td>&accelKey;+<kbd>B</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>I</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Капица Претрага</td>
+      <td><kbd>F7</kbd></td>
+    </tr>
+    <tr>
+      <td>Преузимање</td>
+      <td><span class="noUnix">&accelKey;+<kbd>J</kbd></span>
+        <span class="unix">&accelKey;+<kbd>Y</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Историјат</td>
+      <td><span class="noMac">&accelKey;+<kbd>H</kbd></span>
+        <span class="mac">&accelKey;+&shiftKey;+<kbd>H</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Избриши приватне податке</td>
+      <td>&accelKey;+&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Разно</th>
+    </tr>
+    <tr>
+      <td>Допуни .com Адресу</td>
+      <td>&accelKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Допуни .net Адресу</td>
+      <td>&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Допуни .org Адресу</td>
+      <td>&accelKey;+&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Обриши селектован аутокомплетиран унос</td>
+      <td><span class="noMac"><kbd>Del</kbd></span>
+        <span class="mac">&shiftKey;+<kbd>Del</kbd></span></td>
+    </tr>
+    <tr class="noMac">
+      <td>Режим коришћења целог екрана</td>
+      <td><kbd>F11</kbd></td>
+    </tr>
+    <tr>
+      <td>Обележи локациону линију</td>
+      <td><span class="noMac">&altKey;+<kbd>D</kbd><br/></span>
+        <kbd>F6</kbd><br />
+        &accelKey;+<kbd>L</kbd></td>
+    </tr>
+    <tr>
+      <td>Обележи или Уреди механизам за претрагу<br/>
+        (када је бар за тражење у фокусу)</td>
+      <td>&altKey;+<kbd>Стрелица на горе</kbd><br/>
+        &altKey;+<kbd>Стрелица на доле</kbd><span class="noMac"><br/>
+        <kbd>F4</kbd></span></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="contentsBox"><em>26 July 2006</em></div>
+<p>Copyright &copy; 2003-2006 Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

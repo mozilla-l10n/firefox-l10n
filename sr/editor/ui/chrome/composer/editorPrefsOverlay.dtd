@@ -1,0 +1,9 @@
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "Састављач">
+<!ENTITY editing.label "Подешавања нове стране">
+<!ENTITY toolbars.label "Алатне траке">
+<!ENTITY publish.label "Објављивање">

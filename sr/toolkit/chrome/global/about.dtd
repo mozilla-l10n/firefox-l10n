@@ -1,0 +1,19 @@
+<!ENTITY about.version "издање">
+
+<!ENTITY about.copy.beforeLink "Copyright &copy; 1998-2008">
+<!ENTITY about.copy.linkTitle "приложници">
+<!ENTITY about.copy.afterLink "пројекта Мозила.">
+
+<!ENTITY about.license.beforeLink "Прочитајте">
+<!ENTITY about.license.linkTitle "податке о лиценцирању">
+<!ENTITY about.license.afterLink "овог производа.">
+
+<!ENTITY about.relnotes.beforeLink "Прочитајте">
+<!ENTITY about.relnotes.linkTitle "белешке о издању">
+<!ENTITY about.relnotes.afterLink "за ово издање">
+
+<!ENTITY about.buildconfig.beforeLink "Погледајте">
+<!ENTITY about.buildconfig.linkTitle "конфигурацију за изградњу">
+<!ENTITY about.buildconfig.afterLink "коришћену за ово издање">
+
+<!ENTITY about.buildIdentifier "Идентитет изградње:">

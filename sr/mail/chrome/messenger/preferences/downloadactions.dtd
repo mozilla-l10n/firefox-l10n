@@ -1,0 +1,32 @@
+<!ENTITY downloadactionsWindow.title "Акције преужимања">
+<!ENTITY window.width "480">
+<!ENTITY window.height "310">
+
+<!ENTITY fileTypesDescription.label "Самостално присвоји акцију за сваки од следећих типова датотека:">
+
+<!ENTITY fileHandlerColumn.label "Дејство">
+<!ENTITY fileHandlerColumn.accesskey "Д">
+<!ENTITY fileTypeColumn.label "Врста датотеке">
+<!ENTITY fileTypeColumn.accesskey "В">
+<!ENTITY fileMIMETypeColumn.label "MIME тип">
+<!ENTITY fileMIMETypeColumn.accesskey "M">
+<!ENTITY fileExtensionColumn.label "Проширење">
+<!ENTITY fileExtensionColumn.accesskey "П">
+
+<!ENTITY remove.label "Уклони дејство">
+<!ENTITY remove.accesskey "У">
+<!ENTITY edit.label "Промени дејство…">
+<!ENTITY edit.accesskey "П">
+
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Тражи:">
+<!ENTITY filter.accesskey "Т">
+<!ENTITY clear.label "Очисти">
+<!ENTITY clear.accesskey "ч">
+
+<!ENTITY button.close.label "Затвори">
+<!ENTITY button.close.accesskey "З">
+

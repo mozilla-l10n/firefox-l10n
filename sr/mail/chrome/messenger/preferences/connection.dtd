@@ -1,0 +1,39 @@
+<!ENTITY connectionsDialog.title "Параметри повезивања">
+<!ENTITY window.width "40em">
+
+<!ENTITY proxyTitle.label "Избор прокси сервера за приступ Интернету">
+<!ENTITY directTypeRadio.label "Директна веза са Интернетом">
+<!ENTITY directTypeRadio.accesskey "Д">
+<!ENTITY WPADTypeRadio.label "Самостално препознај подешавање проксија за ову мрежу">
+<!ENTITY WPADTypeRadio.accesskey "м">
+<!ENTITY manualTypeRadio.label "Ручни избор прокси сервера">
+<!ENTITY manualTypeRadio.accesskey "Р">
+<!ENTITY autoTypeRadio.label "Адреса за аутоматски избор проксија:">
+<!ENTITY autoTypeRadio.accesskey "А">
+<!ENTITY reload.label "Обнови">
+<!ENTITY reload.accesskey "б">
+<!ENTITY ftp.label "FTP-прокси:">
+<!ENTITY ftp.accesskey "f">
+<!ENTITY gopher.label "Посредник за гофер (gopher)">
+<!ENTITY gopher.accesskey "П">
+<!ENTITY http.label "HTTP-прокси:">
+<!ENTITY http.accesskey "к">
+<!ENTITY ssl.label "SSL-прокси:">
+<!ENTITY ssl.accesskey "s">
+<!ENTITY socks.label "Домен SOCKS:">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks4.label "SOCKS 4">
+<!ENTITY socks4.accesskey "4">
+<!ENTITY socks5.label "SOCKS 5">
+<!ENTITY socks5.accesskey "5">
+<!ENTITY HTTPport.label "Порт:">
+<!ENTITY HTTPport.accesskey "П">
+<!ENTITY SSLport.label "Порт:">
+<!ENTITY SSLport.accesskey "о">
+<!ENTITY SOCKSport.label "Порт:">
+<!ENTITY SOCKSport.accesskey "т">
+<!ENTITY noproxy.label "Не користи прокси за:">
+<!ENTITY noproxy.accesskey "Н">
+<!ENTITY noproxyExplain.label "Пример: .mozilla.org, .localhost, .yu, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Користи исти прокси за све протоколе">
+<!ENTITY shareproxy.accesskey "К">

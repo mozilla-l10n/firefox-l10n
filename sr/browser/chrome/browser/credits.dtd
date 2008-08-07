@@ -1,0 +1,16 @@
+<!ENTITY brandMotto "Поново откријте Интернет">
+<!ENTITY credit.thanks "Посебне захвалнице">
+
+<!ENTITY credit.thanks2 "Велико хвала">
+<!ENTITY credit.contributors2 "приложницима">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Преводиоци</h3><ul><li>Никола Радовановић</li><li>Горан Ракић</li><li>Игор Милетић</li><li>Љубиша Радовановић</li><li>Филип Милетић</li><li>Иван Ичин</li><li>„Наше писмо‟</li><li>проф. др Драган Јанковић</li><li>Владана Михаjловић</li><li>Драган Митровић</li><li>Душан Вучковић</li><li>проф. др Милорад Тошић</li></ul>
+">
+
+<!ENTITY credit.memory "У сећање на">
+<!ENTITY credit.poweredByGeckoReg "Покреће геко (Gecko&reg;)">

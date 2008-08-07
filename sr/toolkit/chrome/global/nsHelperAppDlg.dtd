@@ -1,0 +1,42 @@
+<!ENTITY caption.label "Отварање #1">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "Датотека „#3‟ је типа #2 (#1), и програм #4 не зна шта да ради са овим типом. Датотека се налази на:">
+<!ENTITY intro.noDesc.label "Датотека „#3‟ је типа #2, и програм #4 не зна шта да ради са овим типом. Датотека се налази на:">
+
+<!ENTITY intro.attachment.label "Сајт је назначио да „#3‟ буде третиран као прилог. Он је типа #2 (#1) и налази се на:">
+<!ENTITY intro.attachment.noDesc.label "Сајт је назначио да „#3‟ буде третиран као прилог. Он је типа #2 и налази се на:">
+
+<!ENTITY intro.sniffed.label "#4 је пронашао да датотека „#3‟ је типа #2 (#1). Датотека се налази на:">
+<!ENTITY intro.sniffed.noDesc.label "#4 је пронашао да датотека &quot;#3&quot; је типа #2. Датотека се налази на:">
+
+<!ENTITY prompt.label "Шта програм #1 треба да уради са овом датотеком?">
+
+<!ENTITY alwaysHandle.label "Увек користи ово дејство за датотеке овог типа">
+<!ENTITY alwaysHandle.accesskey "к">
+
+<!ENTITY saveToDisk.label "Сачувај датотеку на диск">
+<!ENTITY saveToDisk.accesskey "д">
+
+<!ENTITY useSystemDefault.label "Отвори помоћу подразумеваног програма (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Отвори помоћу подразумеваног програма">
+<!ENTITY useSystemDefault.accesskey "О">
+
+<!ENTITY openUsing.label "Отвори помоћу">
+<!ENTITY openUsing.accesskey "п">
+
+<!ENTITY chooseApp.label "Избор…">
+<!ENTITY chooseApp.accesskey "И">
+
+<!ENTITY chooseAppFilePickerTitle "Избор помоћног програма">
+
+<!ENTITY badApp "Не могу да пронађем изабрани програм (&quot;#1&quot;). Проверите име или изаберите други програм.">
+<!ENTITY badApp.title "Помоћни програм није пронађен">
