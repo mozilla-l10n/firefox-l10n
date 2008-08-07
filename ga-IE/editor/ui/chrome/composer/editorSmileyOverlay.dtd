@@ -1,0 +1,91 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Smiley Menu items -->
+
+<!ENTITY insertSmiley.label "Straoiseog">
+<!ENTITY insertSmiley.accesskey "S">
+
+<!ENTITY smiley1Cmd.label "Miongháire">
+<!ENTITY smiley1Cmd.accesskey "R">
+<!ENTITY smiley1Cmd.tooltip "Ionsáigh miongháire">
+<!ENTITY smiley2Cmd.label "Púicín">
+<!ENTITY smiley2Cmd.accesskey "N">
+<!ENTITY smiley2Cmd.tooltip "Ionsáigh púicín">
+<!ENTITY smiley3Cmd.label "Caochadh">
+<!ENTITY smiley3Cmd.accesskey "C">
+<!ENTITY smiley3Cmd.tooltip "Ionsáigh caochadh súile">
+<!ENTITY smiley4Cmd.label "Teanga amach">
+<!ENTITY smiley4Cmd.accesskey "M">
+<!ENTITY smiley4Cmd.tooltip "Ionsáigh aghaidh leis an teanga amach">
+<!ENTITY smiley5Cmd.label "Gáire">
+<!ENTITY smiley5Cmd.accesskey "G">
+<!ENTITY smiley5Cmd.tooltip "Ionsáigh gáire">
+<!ENTITY smiley6Cmd.label "Aiféaltas">
+<!ENTITY smiley6Cmd.accesskey "A">
+<!ENTITY smiley6Cmd.tooltip "Ionsáigh aiféaltas">
+<!ENTITY smiley7Cmd.label "Idir dhá chomhairle">
+<!ENTITY smiley7Cmd.accesskey "D">
+<!ENTITY smiley7Cmd.tooltip "Ionsáigh aghaidh idir dhá chomhairle">
+<!ENTITY smiley8Cmd.label "Iontas">
+<!ENTITY smiley8Cmd.accesskey "i">
+<!ENTITY smiley8Cmd.tooltip "Ionsáigh iontas">
+<!ENTITY smiley9Cmd.label "Póg">
+<!ENTITY smiley9Cmd.accesskey "P">
+<!ENTITY smiley9Cmd.tooltip "Ionsáigh póg">
+<!ENTITY smiley10Cmd.label "Béic">
+<!ENTITY smiley10Cmd.accesskey "B">
+<!ENTITY smiley10Cmd.tooltip "Ionsáigh béic">
+<!ENTITY smiley11Cmd.label "Snasta">
+<!ENTITY smiley11Cmd.accesskey "S">
+<!ENTITY smiley11Cmd.tooltip "Ionsáigh aghaidh shnasta">
+<!ENTITY smiley12Cmd.label "Béal airgid">
+<!ENTITY smiley12Cmd.accesskey "L">
+<!ENTITY smiley12Cmd.tooltip "Ionsáigh aghaidh le béal airgid">
+<!ENTITY smiley13Cmd.label "Cos sa bhéal">
+<!ENTITY smiley13Cmd.accesskey "h">
+<!ENTITY smiley13Cmd.tooltip "Ionsaigh aghaidh leis an chos sa bhéal">
+<!ENTITY smiley14Cmd.label "Soineanta">
+<!ENTITY smiley14Cmd.accesskey "T">
+<!ENTITY smiley14Cmd.tooltip "Ionsáigh aghaidh shoineanta">
+<!ENTITY smiley15Cmd.label "Gol">
+<!ENTITY smiley15Cmd.accesskey "o">
+<!ENTITY smiley15Cmd.tooltip "Ionsáigh aghaidh ag gol">
+<!ENTITY smiley16Cmd.label "Glas ar an teanga">
+<!ENTITY smiley16Cmd.accesskey "e">
+<!ENTITY smiley16Cmd.tooltip "Ionsáigh aghaidh le glas ar an teanga">
+<!ENTITY SmileButton.tooltip "Ionsáigh miongháire">
+

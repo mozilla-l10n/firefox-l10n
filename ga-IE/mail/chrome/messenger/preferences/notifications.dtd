@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title "Saincheap Airdeall an Ríomhphoist Nua">
+<!ENTITY window.width "30em">
+
+<!ENTITY alertCustomization.intro "Roghnaigh na réimsí a thaispeánfar sa bhfógra airdill:">
+<!ENTITY previewText.label "Téacs an Réamhamhairc Theachtaireachta">
+<!ENTITY previewText.accesskey "M">
+<!ENTITY subject.label "Ábhar">
+<!ENTITY subject.accesskey "B">
+<!ENTITY sender.label "Seoltóir">
+<!ENTITY sender.accesskey "e">
+

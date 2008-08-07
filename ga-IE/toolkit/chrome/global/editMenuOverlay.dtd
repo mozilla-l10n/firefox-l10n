@@ -1,0 +1,31 @@
+<!ENTITY editMenu.label "Eagar">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Cealaigh">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "l">
+<!ENTITY redoCmd.label "Athfheidhmigh">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "f">
+<!ENTITY cutCmd.label "Gearr">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "g">
+<!ENTITY copyCmd.label "Cóipeáil">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Greamaigh">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "r">
+<!ENTITY deleteCmd.label "Scrios">
+<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY selectAllCmd.label "Roghnaigh Uile">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "u">
+<!ENTITY findCmd.label "Aimsigh">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "A">
+<!ENTITY findAgainCmd.label "Aimsigh Arís">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "m">
+<!ENTITY findPreviousCmd.label "Roimhe Seo">
+<!ENTITY findPreviousCmd.accesskey "r">

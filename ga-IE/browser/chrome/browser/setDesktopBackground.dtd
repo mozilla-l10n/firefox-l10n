@@ -1,0 +1,9 @@
+<!ENTITY position.label "Suíomh:">
+<!ENTITY tile.label "Tíleanna">
+<!ENTITY center.label "Láraithe">
+<!ENTITY stretch.label "Sínte">
+<!ENTITY preview.label "Réamhamharc">
+<!ENTITY color.label "Dath:">
+<!ENTITY setDesktopBackground.title "Socraigh Cúlra na Deisce">
+<!ENTITY openDesktopPrefs.label "Oscail Sainroghanna Deisce">
+<!ENTITY closeWindow.key "w">

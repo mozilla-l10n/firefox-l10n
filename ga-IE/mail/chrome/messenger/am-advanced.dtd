@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Socruithe an fhreastalaí amach (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "Cé gur féidir níos mó ná freastalaí amháin SMTP a shonrú, ní mholtar é seo ach do shárúsáideoirí.">
+
+<!ENTITY smtpListAdd.label "Cuir Leis…">
+<!ENTITY smtpListAdd.accesskey "c">
+<!ENTITY smtpListEdit.label "Eagar…">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Bain">
+<!ENTITY smtpListDelete.accesskey "b">
+<!ENTITY smtpListSetDefault.label "Réamhshocraigh">
+<!ENTITY smtpListSetDefault.accesskey "s">
+
+<!ENTITY serverDescription.label "Cur Síos: ">
+<!ENTITY serverName.label "Ainm an Fhreastalaí: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label "Ainm Úsáideora: ">
+<!ENTITY useSecureConnection.label "Nasc Daingean: ">
+<!ENTITY useSecureAuthentication.label "Fíordheimhniú slán:">

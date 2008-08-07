@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title "Socruithe As Líne">
+
+<!ENTITY textStartUp "Ag am tosaithe:">
+<!ENTITY radioRememberPrevState.label "Úsáid an staid ar líne roimhe seo">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe.label "Fiafraigh díom cad é an staid ar líne atá uaim">
+<!ENTITY radioAskMe.accesskey "f">
+<!ENTITY radioAlwaysOnline.label "Tosaigh ar líne i gcónaí">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "An seolfar teachtaireachtaí gan seoladh agus tú ag dul ar líne?">
+<!ENTITY radioAutoSend.label "Tá">
+<!ENTITY radioAutoSend.accesskey "T">
+<!ENTITY radioNotSend.label "Níl">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent.label "Fiafraigh díom">
+<!ENTITY radioAskUnsent.accesskey "d">
+<!ENTITY textGoingOffline "An ndéanfar teachtaireachtaí a íosluchtú le haghaidh úsáide as líne agus tú ag dul as líne?">
+<!ENTITY radioAutoDownload.label "Íosluchtaigh">
+<!ENTITY radioAutoDownload.accesskey "l">
+<!ENTITY radioNotDownload.label "Ná hÍosluchtaigh">
+<!ENTITY radioNotDownload.accesskey "n">
+<!ENTITY radioAskDownload.label "Fiafraigh díom">
+<!ENTITY radioAskDownload.accesskey "f">

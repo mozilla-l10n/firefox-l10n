@@ -1,0 +1,55 @@
+<!ENTITY history.label "Stair">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Meabhraigh leathanaigh ar tugadh cuairt orthu le">
+<!ENTITY rememberDaysBefore.accesskey "h">
+<!ENTITY rememberDaysAfter2.label "lá anuas">
+
+<!ENTITY rememberForms.label "Sábháil gach faisnéis a bhíonn á iontráil agam i bhfoirmeacha agus i mBarra an Chuardaigh">
+<!ENTITY rememberForms.accesskey "f">
+
+<!ENTITY rememberDownloads.label "Meabhraigh cad a d'íosluchtaigh mé">
+<!ENTITY rememberDownloads.accesskey "d">
+
+
+<!ENTITY cookies.label "Fianáin">
+
+<!ENTITY acceptCookies.label "Glac le fianáin ó shuímh">
+<!ENTITY acceptCookies.accesskey "c">
+
+<!ENTITY acceptThirdParty.label "Glac le fianáin tríú páirtí">
+<!ENTITY acceptThirdParty.accesskey "p">
+
+<!ENTITY keepUntil.label "Coinnigh:">
+<!ENTITY keepUntil.accesskey "C">
+
+<!ENTITY expire.label "go dtí go mbeidh siad caite">
+<!ENTITY close.label "go dtí go ndúnaim &brandShortName;">
+<!ENTITY askEachTime.label "fiafraigh díom i gcónaí">
+
+<!ENTITY cookieExceptions.label "Eisceachtaí…">
+<!ENTITY cookieExceptions.accesskey "E">
+
+<!ENTITY showCookies.label "Taispeáin Fianáin…">
+<!ENTITY showCookies.accesskey "S">
+
+
+<!ENTITY privateData.label "Sonraí Príobháideacha">
+
+<!ENTITY alwaysClear.label "Glan sonraí príobháideacha agus &brandShortName; á dhúnadh">
+<!ENTITY alwaysClear.accesskey "p">
+
+<!ENTITY askBeforeClear.label "Fiafraigh díom roimh ghlanadh na sonraí príobháideacha">
+<!ENTITY askBeforeClear.accesskey "A">
+
+<!ENTITY clearDataSettings.label "Socruithe…">
+<!ENTITY clearDataSettings.accesskey "c">
+
+<!ENTITY clearDataNow.label "Bánaigh Anois…">
+<!ENTITY clearDataNow.label2 "Bánaigh Anois">
+<!ENTITY clearDataNow.accesskey "N">

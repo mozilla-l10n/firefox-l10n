@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title "Treoraí Iompórtála">
+
+<!ENTITY importFromWin.label "Iompórtáil Roghanna, Socruithe Cuntais, Leabhar Seoltaí, Scagairí agus sonraí eile ó:">
+<!ENTITY importFromNonWin.label "Iompórtáil Roghanna, Socruithe Cuntais, Leabhar Seoltaí, Scagairí, agus sonraí eile ó:">
+
+<!ENTITY importFromNothing.label "Ná hiompórtáil rud ar bith">
+<!ENTITY importFromNothing.accesskey "N">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 nó Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOExpress.label "Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
+<!ENTITY importFromEudora.label "Eudora">
+<!ENTITY importFromEudora.accesskey "E">
+
+<!ENTITY importSource.title "Iompórtáil Socruithe agus Fillteáin Ríomhphoist">
+<!ENTITY importItems.title "Rudaí le hIompórtáil">
+<!ENTITY importItems.label "Roghnaigh na rudaí le hiompórtáil:">
+
+<!ENTITY migrating.title "Á nIompórtáil…">
+<!ENTITY migrating.label "Tá na rudaí seo á n-iompórtáil faoi láthair…">
+
+<!ENTITY selectProfile.title "Roghnaigh Próifíl">
+<!ENTITY selectProfile.label "Próifílí le fáil ónar féidir a iompórtáil:">
+
+<!ENTITY done.title "Iompórtáil curtha i gcrích">
+<!ENTITY done.label "Iompórtáladh na rudaí seo go rathúil:">

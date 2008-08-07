@@ -1,0 +1,30 @@
+<!ENTITY credit.title "Admhálacha &brandFullName;">
+<!ENTITY brandMotto "Thunderbirds abú!">
+<!ENTITY credit.leads "Príomhfhorbróirí Innealtóireachta">
+<!ENTITY credit.core "Lárfhoireann Forbartha">
+<!ENTITY credit.gecko "Inneall Leagain Amach Gecko">
+<!ENTITY credit.thanks "Buíochas ar leith le">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Aistritheoirí</h3><ul><li>Séamus Ó Ciardhuáin</li><li>Kevin Scannell</li><li>Brian King</li></ul>">
+
+<!ENTITY credit.visuals "Comhordaitheoir an Amharcdhearaidh">
+<!ENTITY credit.theme "Dearadh na dTéamaí">
+<!ENTITY credit.brand "Aitheantas an Bhranda">
+<!ENTITY credit.web "Dearadh Gréasáin">
+<!ENTITY credit.update "Nuashonrú Mozilla">
+<!ENTITY credit.qalead "Príomhfhorbróir Dearbhaithe Cáilíochta">
+<!ENTITY credit.qa "Dearbhú Cáilíochta">
+<!ENTITY credit.build "Tógáil agus Scaoileadh Amach">
+<!ENTITY credit.infra "Tacaíocht Bhonneagair">
+<!ENTITY credit.support "Acmhainní Tacaíochta">
+<!ENTITY credit.manage "Bainistiú an Tionscadail">
+<!ENTITY credit.marketleads "Ceannairí Margaíochta">
+<!ENTITY credit.market "Margaíocht">
+<!ENTITY credit.creators "Cruthaithe ag">
+<!ENTITY credit.memory "I nDílchuimhne Ar">
+<!ENTITY credit.poweredByGecko "Á chumhachtú ag Gecko&trade;">

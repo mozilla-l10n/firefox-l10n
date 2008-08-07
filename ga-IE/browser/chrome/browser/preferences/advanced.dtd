@@ -1,0 +1,102 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label "Ginearálta">
+
+<!ENTITY accessibility.label "Inrochtaineacht">
+
+<!ENTITY useCursorNavigation.label "Úsáid eochracha cúrsóra i gcónaí chun bogadh laistigh de leathanaigh">
+<!ENTITY useCursorNavigation.accesskey "e">
+<!ENTITY searchStartTyping.label "Cuardaigh téacs nuair a thosóidh mé ag clóbhualadh">
+<!ENTITY searchStartTyping.accesskey "t">
+<!ENTITY blockAutoRefresh.label "Tabhair rabhadh dom nuair a dhéanann suíomhanna Gréasáin iarracht leathanach a athluchtú nó a atreorú.">
+<!ENTITY blockAutoRefresh.accesskey "b">
+
+<!ENTITY browsing.label "Brabhsáil">
+
+<!ENTITY useAutoScroll.label "Úsáid uathscrollú">
+<!ENTITY useAutoScroll.accesskey "a">
+<!ENTITY useSmoothScrolling.label "Úsáid mínscrollú">
+<!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY checkSpelling.label "Litriú beo">
+<!ENTITY checkSpelling.accesskey "b">
+
+<!ENTITY systemDefaults.label "Réamhshocrú an Chórais">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label "Seiceáil i gcónaí ag am tosaithe an é &brandShortName; an brabhsálaí réamhshocraithe">
+<!ENTITY alwaysCheckDefault.accesskey "g">
+<!ENTITY checkNow.label "Seiceáil Anois">
+<!ENTITY checkNow.accesskey "N">
+
+<!ENTITY networkTab.label "Líonra">
+
+<!ENTITY connection.label "Ceangal">
+
+<!ENTITY connectionDesc.label "Cumraigh conas a nascfar &brandShortName; leis an Idirlíon">
+<!ENTITY connectionSettings.label "Socruithe…">
+<!ENTITY connectionSettings.accesskey "e">
+
+<!ENTITY offlineStorage.label "Stóras As Líne">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Úsáid suas le">
+<!ENTITY useCacheBefore.accesskey "S">
+<!ENTITY useCacheAfter.label "MB spás don taisce">
+<!ENTITY clearCacheNow.label "Bánaigh Anois">
+<!ENTITY clearCacheNow.accesskey "B">
+
+<!ENTITY updateTab.label "Nuashonrú">
+
+<!ENTITY autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcóir:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "Breiseáin Shuiteáilte">
+<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableSearchUpdate.label "Innill Chuardaigh">
+<!ENTITY enableSearchUpdate.accesskey "h">
+<!ENTITY whenUpdatesFound.label "Agus nuashonruithe do &brandShortName; aimsithe:">
+<!ENTITY askMe.label "Fiafraigh díom cad atá le déanamh">
+<!ENTITY askMe.accesskey "c">
+<!ENTITY modeAutomatic.label "Íosluchtaigh agus suiteáil an nuashonrú go huathoibríoch">
+<!ENTITY modeAutomatic.accesskey "l">
+<!ENTITY modeAutoAddonWarn.label "Tabhair rabhadh dom má tá breiseán díchumasaithe dá mbarr">
+<!ENTITY modeAutoAddonWarn.accesskey "T">
+<!ENTITY updateHistory.label "Taispeáin Stair na Nuashonruithe">
+<!ENTITY updateHistory.accesskey "p">
+
+<!ENTITY offlineNotify.label "Inis dom nuair a iarrann suíomh Gréasáin sonraí a stóráil le haghaidh úsáide as líne">
+<!ENTITY offlineNotify.accesskey "T">
+<!ENTITY offlineNotifyExceptions.label "Eisceachtaí…">
+<!ENTITY offlineNotifyExceptions.accesskey "s">
+
+<!ENTITY offlineAppsList.label "Tá sonraí stóráilte le haghaidh úsáide as líne ag na suíomhanna Gréasáin seo a leanas:">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "Bain…">
+<!ENTITY offlineAppsListRemove.accesskey "B">
+<!ENTITY offlineAppRemove.confirm "Bain sonraí as líne">
+
+<!ENTITY encryptionTab.label "Criptiúchán">
+
+<!ENTITY protocols.label "Prótacail">
+<!ENTITY useSSL3.label "Úsáid SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Úsáid TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Teastais">
+<!ENTITY certSelection.description "Nuair atá freastalaí ag iarraidh mo theastas pearsanta:">
+<!ENTITY certs.auto "Roghnaigh go huathoibríoch">
+<!ENTITY certs.auto.accesskey "u">
+<!ENTITY certs.ask "Fiafraigh díom i gcónaí">
+<!ENTITY certs.ask.accesskey "d">
+<!ENTITY viewCerts.label "Taispeáin Teastais">
+<!ENTITY viewCerts.accesskey "s">
+<!ENTITY viewCRLs.label "Liostaí Cúlghairme">
+<!ENTITY viewCRLs.accesskey "L">
+<!ENTITY verify2.label "Bailíochtú">
+<!ENTITY verify2.accesskey "B">
+<!ENTITY viewSecurityDevices.label "Gléasanna Slándála">
+<!ENTITY viewSecurityDevices.accesskey "g">

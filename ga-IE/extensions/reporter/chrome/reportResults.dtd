@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Suíomh">
+<!ENTITY reportProblemType "An Cineál Faidhbe">
+<!ENTITY reportDecsription "Cur Síos">
+<!ENTITY reportPlatform "Ardán">
+<!ENTITY reportProduct "Táirge">
+<!ENTITY reportoscpu "Córas">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Cumraíocht Tógála">
+<!ENTITY reportUseragent "Teaghrán UserAgent">
+<!ENTITY reportLanguage "Teanga">
+<!ENTITY reportCharset "Tacar Carachtar">
+<!ENTITY reportEmail "Ríomhphost">
+<!ENTITY error "Mionsonraí na hEarráide">
+<!ENTITY faultCode "Cód">
+<!ENTITY faultMessage "Teachtaireacht">

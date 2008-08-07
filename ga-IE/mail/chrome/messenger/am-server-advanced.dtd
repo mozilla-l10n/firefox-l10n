@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "Ardshocruithe Cuntais">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "Ardsocruithe an Fhreastalaí IMAP">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "Comhadlann an fhreastalaí IMAP:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "Taispeáin fillteáin liostáilte amháin">
+<!ENTITY usingSubscription.accesskey "t">
+<!ENTITY dualUseFolders.label "Tacaíonn an freastalaí le fillteáin ina bhfuil fofhillteáin agus teachtaireachtaí">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "Úsáid an t-ordú IDLE má thacaíonn an freastalaí leis">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Uasmhéid na gceangal freastalaí a chuirfear sa taisce">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Sonraíonn na roghanna seo na hainmspásanna ar d'fhreastalaí IMAP">
+<!ENTITY personalNamespace.label "Ainmspás pearsanta:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Poiblí (roinnte):">
+<!ENTITY publicNamespace.accesskey "o">
+<!ENTITY otherUsersNamespace.label "Úsáideoirí Eile:">
+<!ENTITY otherUsersNamespace.accesskey "E">
+<!ENTITY overrideNamespaces.label "Ceadaigh don fhreastalaí na hainmspásanna seo a shárú">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "Agus ríomhphost POP á íosluchtú ón bhfreastalaí seo, úsáid an fillteán seo a leanas le haghaidh teachtaireachtaí nua:">
+<!ENTITY folderStorage.label "Cá stórálfar ríomhphost">
+<!ENTITY globalInbox.label "Bosca Isteach Uilíoch (Cuntas na bhFillteán Logánta)">
+<!ENTITY globalInbox.accesskey "B">
+<!ENTITY accountDirectory.label "Bosca Isteach chuntas an fhreastalaí seo">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "Bosca Isteach cuntais eile">
+<!ENTITY deferToServer.accesskey "E">
+<!ENTITY deferGetNewMail.label "Cuir an freastalaí seo san áireamh agus ríomhphost nua á fháil">
+<!ENTITY deferGetNewMail.accesskey "I">

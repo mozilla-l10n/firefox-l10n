@@ -1,0 +1,14 @@
+
+<!ENTITY prefWindow.titleWin "Roghanna">
+<!ENTITY prefWindow.titleGNOME "Sainroghanna &brandShortName;">
+<!ENTITY prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY prefWindow.styleMac "width: 58em;">
+<!ENTITY prefWindow.styleGNOME "width: 42em; min-height: 38em;">
+
+<!ENTITY paneGeneral.title "Ginearálta">
+<!ENTITY paneDisplay.title "Taispeáint">
+<!ENTITY paneTags.title "Clibeanna">
+<!ENTITY paneComposition.title "Cumadh">
+<!ENTITY paneAttachments.title "Iatáin">
+<!ENTITY panePrivacy.title "Príobháideachas">
+<!ENTITY paneAdvanced.title "Ardroghanna">

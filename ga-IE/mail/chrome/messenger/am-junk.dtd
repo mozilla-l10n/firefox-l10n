@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Socruithe Dramhphoist">
+<!ENTITY trainingWarning.label 'Má tá seo cumasaithe, caithfidh tú &brandShortName; a thraenáil ar dtús chun dramhphost a aithint. Úsáid an cnaipe "Dramhphost" ar an mbarra uirlisí chun teachtaireachtaí a mharcáil mar dhramhphost nó mar phost ceart. Caithfidh tú idir dhramhphost agus phost ceart a mharcáil.'>
+<!ENTITY level.label "Cumasaigh rialtáin oiriúnaitheacha dramhphoist don chuntas seo">
+<!ENTITY level.accesskey "C">
+
+<!ENTITY move.label "Bog teachtaireachtaí nua dramhphoist go:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "an fillteán&quot;Dramhphost&quot; ar:">
+<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY otherFolder.label "Eile:">
+<!ENTITY otherFolder.accesskey "E">
+<!ENTITY purge1.label "Scrios uathoibríoch dramhphoist níos sine ná">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "lá anuas">
+
+<!ENTITY whitelist.label "Ná marcáil teachtaireachtaí mar dhramhphost má tá an seoltóir i: ">
+<!ENTITY whitelist.accesskey "N">
+
+<!ENTITY ispHeaders.label "Cuir muinín i gceanntásca dramhphoist a shocraigh:">
+<!ENTITY ispHeaders.accesskey "T">

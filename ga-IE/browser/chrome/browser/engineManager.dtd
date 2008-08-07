@@ -1,0 +1,25 @@
+<!ENTITY engineManager.title "Bainistiú Liosta na nInneall Cuardaigh">
+<!ENTITY engineManager.style "min-width: 39em;">
+<!ENTITY engineManager.intro "Tá na hinnill chuardaigh seo a leanas suiteáilte:">
+
+<!ENTITY columnLabel.name "Ainm">
+<!ENTITY columnLabel.keyword "Lorgfhocal">
+<!-- Buttons -->
+
+<!ENTITY up.label "Bog Suas">
+<!ENTITY up.accesskey "U">
+<!ENTITY dn.label "Bog Síos">
+<!ENTITY dn.accesskey "O">
+<!ENTITY remove.label "Bain">
+<!ENTITY remove.accesskey "B">
+<!ENTITY edit.label "Cuir Lorgfhocal in Eagar…">
+<!ENTITY edit.accesskey "e">
+
+<!ENTITY addEngine.label "Faigh innill chuardaigh breise…">
+<!ENTITY addEngine.accesskey "A">
+
+<!ENTITY enableSuggest.label "Taispeáin moltaí cuardaigh">
+<!ENTITY enableSuggest.accesskey "S">
+
+<!ENTITY restoreDefaults.label "Athchóirigh na Réamhshocruithe">
+<!ENTITY restoreDefaults.accesskey "a">

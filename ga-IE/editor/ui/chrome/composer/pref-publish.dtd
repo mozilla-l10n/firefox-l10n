@@ -1,0 +1,19 @@
+<!-- extracted from content/pref-publish.xul -->
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+
+<!ENTITY pref.publish.title "Foilsigh">
+<!ENTITY composerHeader.label "Foilsigh">
+<!ENTITY maintainCheckbox.label "Caomhnaigh naisc">
+<!ENTITY keepCheck.label "Coinnigh íomhánna leis an leathanach">
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+
+<!ENTITY adjustDesc.label "Coigeartaigh naisc i dtreo go n-oibreoidh siad i gceart ó ionad an leathanaigh. (Oibreoidh naisc le leathanaigh logánta nuair atá leaganacha logánta ann.)">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY saveDesc.label "Sábháil cóipeanna d'íomhánna go hionad an leathanaigh.  Beidh íomhánna				infheicthe i leaganacha logánta an leathanaigh, agus nuair a fhoilseofar an leathanach.">
+<!ENTITY tip.label "Leid: roghnaigh an dá rogha má bhíonn cianfhoilsiú in úsáid agat.">
+<!ENTITY defaultHeader.label "Suíomh réamhshocraithe foilsithe">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY publishFtp.label "Más mian leat foilsiú ar shuíomh FTP, iontráil an seoladh HTTP:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY publishhtp.label "Más mian leat foilsiú ar shuíomh FTP, iontráil an seoladh HTTP:">
+

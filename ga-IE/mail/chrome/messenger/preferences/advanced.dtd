@@ -1,0 +1,83 @@
+<!ENTITY itemGeneral.label "Ginearálta">
+<!ENTITY itemUpdate.label "Nuashonrú">
+<!ENTITY itemNetworking.label "Líonra &amp; Spás Diosca">
+<!ENTITY itemCertificates.label "Teastais">
+<!-- General Settings -->
+
+
+<!ENTITY showCondensedAddresses.label "Ná taispeáin ach an t-ainm taispeána do dhaoine i mo leabhar seoltaí">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!ENTITY autoMarkAsRead.label "Marcáil teachtaireachtaí mar léite go huathoibríoch">
+<!ENTITY autoMarkAsRead.accesskey "U">
+<!ENTITY markAsReadNoDelay.label "Ar taispeáint láithreach">
+<!ENTITY markAsReadNoDelay.accesskey "t">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label "Tar éis taispeáint ar feadh">
+<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY secondsLabel.label "soicind">
+<!ENTITY showFolderColumns.label "Taispeáin colúin fhairsingithe i bpána na bhfillteán">
+<!ENTITY showFolderColumns.accesskey "l">
+<!ENTITY rememberLastMsg.label "Meabhraigh an teachtaireacht roghnaithe is déanaí">
+<!ENTITY rememberLastMsg.accesskey "b">
+<!ENTITY openMsgIn.label "Oscail teachtaireachtaí:">
+<!ENTITY reuseExpRadio0.label "I bhfuinneog nua teachtaireachta">
+<!ENTITY reuseExpRadio0.accesskey "n">
+<!ENTITY reuseExpRadio1.label "I bhfuinneog theachtaireachta atá ann">
+<!ENTITY reuseExpRadio1.accesskey "f">
+<!ENTITY reuseExpRadio2.label "I gcluaisín nua teachtaireachta">
+<!ENTITY reuseExpRadio2.accesskey "Z">
+<!ENTITY connectionTimeout.label "Teorainn ama an cheangail: ">
+<!ENTITY connectionTimeout.accesskey "C">
+<!ENTITY connectionSeconds.label "soicind">
+<!ENTITY configEditDesc.label "Cumraíocht Chasta">
+<!ENTITY configEdit.label "Eagarthóir Cumraíochta…">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "Socraigh conas a láimhseálann &brandShortName; admhálacha léite">
+<!ENTITY showReturnReceipts.label "Admhálacha Léite…">
+<!ENTITY showReturnReceipts.accesskey "L">
+<!-- Update -->
+
+<!ENTITY autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcóir:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "Breiseáin Shuiteáilte">
+<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY checkNow.label "Seiceáil Anois…">
+<!ENTITY whenUpdatesFound.label "Agus nuashonruithe do &brandShortName; aimsithe,">
+<!ENTITY modeAskMe.label "Fiafraigh díom cad atá le déanamh">
+<!ENTITY modeAskMe.accesskey "c">
+<!ENTITY modeAutomatic.label "Íosluchtaigh agus suiteáil an nuashonrú go huathoibríoch">
+<!ENTITY modeAutomatic.accesskey "l">
+<!ENTITY modeAutoAddonWarn.label "Tabhair rabhadh dom má tá breiseán díchumasaithe dá mbarr">
+<!ENTITY modeAutoAddonWarn.accesskey "d">
+<!ENTITY showUpdates.label "Taispeáin Stair na Nuashonruithe">
+<!ENTITY showUpdates.accesskey "n">
+<!-- Networking and Disk Space -->
+
+<!ENTITY showConnections.label "Ceangal…">
+<!ENTITY showConnections.accesskey "c">
+<!ENTITY proxiesInfo.label "Socraigh conas a nascfar &brandShortName; leis an Idirlíon.">
+<!ENTITY connectionsInfo.caption "Ceangal">
+<!ENTITY offlineInfo.caption "As Líne">
+<!ENTITY offlineInfo.label "Cumraigh socruithe as líne">
+<!ENTITY showOffline.label "As Líne…">
+<!ENTITY showOffline.accesskey "A">
+
+<!ENTITY Diskspace "Spás Diosca">
+<!ENTITY offlineCompact.label "Dlúthaigh fillteáin má sábhálfar níos mó ná">
+<!ENTITY offlineCompact.accesskey "b">
+<!ENTITY kb.label "kB">
+<!-- Certificates -->
+
+<!ENTITY certificatesInfo2.label "Bainistiú na dteastas, na liostaí cúlghairme, na ngléasanna slándála agus fhíorú na dteastas.">
+<!ENTITY viewCertificates.label "Taispeáin Teastais">
+<!ENTITY viewCertificates.accesskey "a">
+<!ENTITY viewCRLs.label "Liostaí Cúlghairme">
+<!ENTITY viewCRLs.accesskey "e">
+<!ENTITY validation.label "Bailíochtú">
+<!ENTITY validation.accesskey "b">
+<!ENTITY viewSecurityDevices.label "Gléasanna Slándála">
+<!ENTITY viewSecurityDevices.accesskey "s">

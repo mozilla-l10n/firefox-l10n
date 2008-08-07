@@ -1,0 +1,9 @@
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "Cumadóir">
+<!ENTITY editing.label "Socruithe Nua Leathanaigh">
+<!ENTITY toolbars.label "Barraí Uirlisí">
+<!ENTITY publish.label "Foilsiú">

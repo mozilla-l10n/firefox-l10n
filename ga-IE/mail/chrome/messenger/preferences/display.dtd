@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label "Formáidiú">
+<!ENTITY itemTags.label "Clibeanna">
+<!ENTITY itemFonts.label "Clófhoirne">
+
+<!ENTITY textBegin.label "Cuma ghnáth-théacs luaite">
+<!ENTITY style.label "Stíl:">
+<!ENTITY style.accesskey "s">
+<!ENTITY regularStyle.label "Gnách">
+<!ENTITY bold.label "Trom">
+<!ENTITY italic.label "Iodálach">
+<!ENTITY boldItalic.label "Iodálach Trom">
+<!ENTITY size.label "Méid:">
+<!ENTITY size.accesskey "m">
+<!ENTITY regularSize.label "Gnách">
+<!ENTITY bigger.label "Níos Mó">
+<!ENTITY smaller.label "Níos Lú">
+<!ENTITY color.label "Dath:">
+<!ENTITY color.accesskey "d">
+<!ENTITY displayWidth.label "Teachtaireachtaí Gnáth-théacs">
+<!ENTITY plainText.label "Úsáid an cló seo:">
+<!ENTITY displayText.label "Agus teachtaireachtaí gnáth-théacs á dtaispeáint mar athfhriotal:">
+<!ENTITY viewingPlainText.label "Agus teachtaireachtaí gnáth-théacs á dtaispeáint:">
+<!ENTITY fixedWidth.label "Cló aonleithid">
+<!ENTITY fixedWidth.accesskey "a">
+<!ENTITY variableWidth.label "Cló il-leithid">
+<!ENTITY variableWidth.accesskey "I">
+<!ENTITY readingMessagesHeader.label "Le haghaidh teachtaireachtaí isteach">
+<!ENTITY colors.label "Dathanna">
+<!ENTITY overrideColors.label "Agus teachtaireachtaí a dtaispeáint, úsáid na dathanna seo:">
+<!ENTITY textColor.label "Dath an Téacs:">
+<!ENTITY textColor.accesskey "T">
+<!ENTITY backgroundColor.label "Dath an Chúlra:">
+<!ENTITY backgroundColor.accesskey "l">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+
+<!ENTITY convertEmoticons.label "Taispeáin straoiseoga mar ghrafaicí">
+<!ENTITY convertEmoticons.accesskey "G">
+<!-- labels -->
+
+<!ENTITY displayTagsText.label "Is féidir clibeanna a úsáid le catagóirí agus tosaíochtaí a chur le do chuid teachtaireachtaí.">
+<!ENTITY addTagButton.label "Cuir Leis">
+<!ENTITY addTagButton.accesskey "L">
+<!ENTITY editTagButton.label "Eagar">
+<!ENTITY editTagButton.accesskey "E">
+<!ENTITY removeTagButton.label "Scrios">
+<!ENTITY removeTagButton.accesskey "c">
+<!-- Fonts -->
+
+<!ENTITY fontAndEncodingsDescription.label "Cumraigh na clónna agus na hionchóduithe a úsáidfidh &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label "Clófhoirne &amp; Ionchóduithe">
+<!ENTITY fontOptions.accesskey "C">
+<!ENTITY fontOptions.label "Clónna…">

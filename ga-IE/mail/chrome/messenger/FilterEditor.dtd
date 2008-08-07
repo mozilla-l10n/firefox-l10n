@@ -1,0 +1,38 @@
+<!ENTITY window.title "Rialacha Scagtha">
+
+<!ENTITY filterName.label "Ainm an scagaire:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Dramhphost">
+<!ENTITY notJunk.label "Post Ceart">
+
+<!ENTITY lowestPriorityCmd.label "Is Ísle">
+<!ENTITY lowPriorityCmd.label "Íseal">
+<!ENTITY normalPriorityCmd.label "Gnách">
+<!ENTITY highPriorityCmd.label "Ard">
+<!ENTITY highestPriorityCmd.label "Is Airde">
+
+<!ENTITY conditionDesc.label "Le haghaidh teachtaireachtaí isteach:">
+<!ENTITY filterActionDesc.label "Déan na gníomhartha seo:">
+<!ENTITY filterActionDesc.accesskey "G">
+
+<!ENTITY newFolderButton.label "Fillteán Nua…">
+<!ENTITY newFolderButton.accesskey "N">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "Bog an teachtaireacht go">
+<!ENTITY copyMessage.label "Cóipeáil an teachtaireacht go">
+<!ENTITY forwardTo.label "Cuir an teachtaireacht ar aghaidh go">
+<!ENTITY replyWithTemplate.label "Freagair le Teimpléad">
+<!ENTITY markMessageRead.label "Marcáil mar Léite">
+<!ENTITY markMessageStarred.label "Cuir Réiltín Leis">
+<!ENTITY setPriority.label "Socraigh Tosaíocht mar">
+<!ENTITY addTag.label "Clibeáil an Teachtaireacht">
+<!ENTITY setJunkScore.label "Socraigh Stádas Dramhphoist mar">
+<!ENTITY deleteMessage.label "Scrios an Teachtaireacht">
+<!ENTITY deleteFromPOP.label "Scrios ar an bhfreastalaí POP">
+<!ENTITY fetchFromPOP.label "Faigh ón bhfreastalaí POP">
+<!ENTITY ignoreThread.label "Tabhair Neamhaird ar an Snáithe">
+<!ENTITY ignoreSubthread.label "Tabhair Neamhaird ar an bhFoshnáithe">
+<!ENTITY watchThread.label "Bí ag Faire ar an Snáithe">
+<!ENTITY stopExecution.label "Stop rith an scagaire">

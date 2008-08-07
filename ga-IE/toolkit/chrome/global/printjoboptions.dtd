@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Sonraí Printéara">
+
+<!ENTITY paperInput.label "Páipéarmhéid:">
+
+<!ENTITY plexInput.label "Mód plex:">
+
+<!ENTITY resolutionInput.label "Taifeach/Cáilíocht:">
+
+<!ENTITY cmdInput.label "Ordú Priontála:">
+
+<!ENTITY jobTitleInput.label "Teideal:">
+
+<!ENTITY colorGroup.label "Dath:">
+<!ENTITY grayRadio.label "Liathscála">
+<!ENTITY colorRadio.label "Dath">
+
+<!ENTITY colorspaceInput.label "Samhail de dhathanna:">
+
+<!ENTITY fontsGroup.label "Clófhoirne:">
+<!ENTITY downloadFonts.label "Clófhoirne le híosluchtú go dtí an printéir?">
+
+<!ENTITY edgeMarginInput.label "Bearna idir ciumhais leathanaigh agus imeall">
+<!ENTITY topInput.label "Barr:">
+<!ENTITY bottomInput.label "Bun:">
+<!ENTITY leftInput.label "Ar chlé:">
+<!ENTITY rightInput.label "Ar dheis:">

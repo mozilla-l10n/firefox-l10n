@@ -1,0 +1,26 @@
+<!ENTITY lHeader "Iatáin">
+
+<!ENTITY askOnSave.label "Fillteán na nIatán">
+<!ENTITY alwaysAsk.label "Fiafraigh díom cá sábhálfar gach iatán">
+<!ENTITY neverAsk.label "Sábháil gach iatán san fhillteán seo:">
+<!ENTITY desktop.label "Deasc">
+<!ENTITY downloads.label "Mo Chuid Íosluchtaithe">
+<!ENTITY choose.label "Eile...">
+<!ENTITY showFolder.label "Taispeáin Fillteán">
+
+<!ENTITY downloadManagerWindow.label "Bainisteoir na nIatán">
+<!ENTITY showWhenStarting.label "Taispeáin fuinneog Bhainisteoir na nIatán nuair a thosaíonn íosluchtú.">
+<!ENTITY closeWhenDone.label "Dún Bainisteoir na nIatán nuair a bheidh gach iatán críochnaithe.">
+
+<!ENTITY fileTypes.label "Cineálacha Comhaid">
+<!-- XXX this text string could improve --> 
+<!ENTITY fileTypesDescription.label "Déan an gníomh comhcheangailte leis na cineálacha comhaid seo go huathoibríoch:">
+<!ENTITY fileTypeColName.label "Cineál Comhaid">
+<!ENTITY fileHandlerColName.label "Feidhmchlár">
+<!ENTITY editFileHandler.label "Athraigh Gníomh...">
+<!ENTITY editFileHandler.accesskey "a">
+<!ENTITY removeFileHandler.label "Bain">
+<!ENTITY removeFileHandler.accesskey "b">
+
+<!ENTITY plugins.label "Forlíontáin...">
+<!ENTITY plugins.accesskey "f">

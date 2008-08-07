@@ -1,0 +1,25 @@
+<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+
+<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Leabhar Seoltaí">
+<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.commandkey "2">
+
+<!ENTITY taskMessenger.tooltip "Ríomhphost &amp; Grúpaí Nuachta">
+<!ENTITY taskAddressBook.tooltip "Leabhar Seoltaí">
+<!-- searchAddressesCmd is also used by addressbook -->
+
+<!ENTITY searchAddressesCmd.label "Cuardaigh Seoltaí...">
+<!ENTITY searchAddressesCmd.accesskey "A">
+
+<!ENTITY searchMailCmd.label "Cuardaigh Teachtaireachtaí...">
+<!ENTITY searchMailCmd.accesskey "e">
+<!ENTITY searchMailCmd.key "f">
+
+<!ENTITY errorConsoleCmd.label "Consól Earráide">
+<!ENTITY errorConsoleCmd.accesskey "S">
+
+<!ENTITY tasksMenu.label "Uirlisí">
+<!ENTITY tasksMenu.accesskey "U">

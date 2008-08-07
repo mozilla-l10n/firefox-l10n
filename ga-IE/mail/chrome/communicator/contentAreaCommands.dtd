@@ -1,0 +1,99 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label "Diúltaigh preabfhuinneoga ón suíomh seo">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label "Ceadaigh preabfhuinneoga ón suíomh seo">
+<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY openLinkCmd.label "Oscail an Nasc i bhFuinneog Nua">
+<!ENTITY openLinkCmd.accesskey "F">
+<!ENTITY openLinkCmdInTab.label "Oscail an Nasc i gCluaisín Nua">
+<!ENTITY openLinkCmdInTab.accesskey "C">
+<!ENTITY openLinkInWindowCmd.label "Oscail">
+<!ENTITY openLinkInWindowCmd.accesskey "s">
+<!ENTITY openFrameCmd.label "Oscail an Fráma i bhFuinneog Nua">
+<!ENTITY openFrameCmd.accesskey "F">
+<!ENTITY openFrameCmdInTab.label "Oscail an Fráma i gCluaisín Nua">
+<!ENTITY openFrameCmdInTab.accesskey "C">
+<!ENTITY showOnlyThisFrameCmd.label "Ná Taispeáin ach an Fráma Seo">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY addToBookmarksCmd.label "Cruthaigh Leabharmharc don Leathanach Seo">
+<!ENTITY addToBookmarksCmd.accesskey "B">
+<!ENTITY goBackCmd.label "Siar">
+<!ENTITY goBackCmd.accesskey "S">
+<!ENTITY goForwardCmd.label "Ar Aghaidh">
+<!ENTITY goForwardCmd.accesskey "A">
+<!ENTITY reloadCmd.label "Athluchtaigh">
+<!ENTITY reloadCmd.accesskey "A">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY stopCmd.label "Stad">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadFrameCmd.label "Athluchtaigh an Fráma">
+<!ENTITY reloadFrameCmd.accesskey "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Taispeáin Foinse Roghnaithe">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Taispeáin Foinse MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "l">
+<!ENTITY viewPageSourceCmd.label "Taispeáin Foinse an Leathanaigh">
+<!ENTITY viewPageSourceCmd.accesskey "F">
+<!ENTITY viewFrameSourceCmd.label "Taispeáin Foinse an Fhráma">
+<!ENTITY viewFrameSourceCmd.accesskey "T">
+<!ENTITY viewPageInfoCmd.label "Taispeáin Eolas Leathanaigh">
+<!ENTITY viewPageInfoCmd.accesskey "E">
+<!ENTITY viewFrameInfoCmd.label "Taispeáin Eolas Fráma">
+<!ENTITY viewFrameInfoCmd.accesskey "E">
+<!ENTITY fitImageCmd.label "Oiriúnaigh don Fhuinneog">
+<!ENTITY fitImageCmd.accesskey "F">
+<!ENTITY reloadImageCmd.label "Reload Image">
+<!ENTITY reloadImageCmd.accesskey "R">
+<!ENTITY viewImageCmd.label "Taispeáin Íomhá">
+<!ENTITY viewImageCmd.accesskey "T">
+<!ENTITY viewBGImageCmd.label "Taispeáin Íomhá sa Chúlra">
+<!ENTITY viewBGImageCmd.accesskey "c">
+<!ENTITY setWallpaperCmd.label "Socraigh Mar Pháipéar Balla">
+<!ENTITY setWallpaperCmd.accesskey "S">
+<!ENTITY bookmarkPageCmd.label "Cruthaigh Leabharmharc don Leathanach Seo">
+<!ENTITY bookmarkPageCmd.accesskey "m">
+<!ENTITY bookmarkLinkCmd.label "Cruthaigh Leabharmharc don Nasc Seo">
+<!ENTITY bookmarkLinkCmd.accesskey "L">
+<!ENTITY bookmarkFrameCmd.label "Cruthaigh Leabharmharc don Fhráma Seo">
+<!ENTITY bookmarkFrameCmd.accesskey "m">
+<!ENTITY savePageAsCmd.label "Sábháil an Leathanach Mar...">
+<!ENTITY savePageCmd.label "Sábháil an Leathanach">
+<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameAsCmd.label "Sábháil an Fráma Mar...">
+<!ENTITY saveFrameCmd.label "Sábháil an Fráma">
+<!ENTITY saveFrameCmd.accesskey "m">
+<!ENTITY saveLinkAsCmd.label "Sábháil Sprioc an Naisc Mar...">
+<!ENTITY saveLinkCmd.label "Sábháil Sprioc an Naisc">
+<!ENTITY saveLinkCmd.accesskey "r">
+<!ENTITY saveImageAsCmd.label "Sábháil an Íomhá Mar...">
+<!ENTITY saveImageCmd.label "Sábháil an Íomhá">
+<!ENTITY saveImageCmd.accesskey "b">
+<!ENTITY copyCmd.label "Cóipeáil">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Roghnaigh Uile">
+<!ENTITY selectAllCmd.accesskey "U">
+<!ENTITY copyLinkCmd.label "Cóipeáil Suíomh an Naisc">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyImageCmd.label "Cóipeáil Suíomh na hÍomhá">
+<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY metadataCmd.label "Airíonna">
+<!ENTITY metadataCmd.accesskey "A">
+<!ENTITY copyEmailCmd.label "Cóipeáil an Seoladh Ríomhphoist">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY pasteCmd.label "Greamaigh">
+<!ENTITY pasteCmd.accesskey "R">
+<!ENTITY cutCmd.label "Gearr">
+<!ENTITY cutCmd.accesskey "g">
+<!ENTITY deleteCmd.label "Scrios">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY undoCmd.label "Cealaigh">
+<!ENTITY undoCmd.accesskey "L">
+<!ENTITY redoCmd.label "Athfheidhmigh">
+<!ENTITY redoCmd.accesskey "F">
+<!ENTITY thisFrameMenu.label "An Fráma Seo">
+<!ENTITY thisFrameMenu.accesskey "r">
+<!ENTITY search.accesskey "W">
+<!ENTITY bidiSwitchPageDirectionItem.label "Athraigh Treo an Leathanaigh">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchTextDirectionItem.label "Athraigh Treo an Téacs">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "t">

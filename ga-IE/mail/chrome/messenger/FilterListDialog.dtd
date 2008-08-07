@@ -1,0 +1,29 @@
+<!ENTITY window.title "Scagairí Teachtaireachta">
+<!ENTITY nameColumn.label "Ainm an Scagaire">
+<!ENTITY activeColumn.label "Cumasaithe">
+<!ENTITY newButton.label "Nua…">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Eagar…">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "Scrios">
+<!ENTITY deleteButton.accesskey "o">
+<!ENTITY reorderUpButton.label "Bog Suas">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "Bog Síos">
+<!ENTITY reorderDownButton.accesskey "O">
+<!ENTITY filterHeader.label "Ritear scagairí cumasaithe san ord thíos go huathoibríoch .">
+<!ENTITY filtersForPrefix.label "Scagairí do:">
+<!ENTITY filtersForPrefix.accesskey "G">
+<!ENTITY viewLogButton.label "Loga na Scagairí">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Rith Anois">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "Stad">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Rith scagairí roghnaithe ar:">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "roghnaigh an fillteán seo">
+<!ENTITY choosethisnewsserver.label "roghnaigh an freastalaí nuachta seo">
+<!ENTITY helpButton.label "Cabhair">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W">

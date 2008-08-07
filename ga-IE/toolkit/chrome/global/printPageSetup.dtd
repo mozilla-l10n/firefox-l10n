@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Socrú Leathanaigh">
+
+<!ENTITY basic.tab "Formáid &amp; Roghanna">
+
+<!ENTITY formatGroup.label "Formáid">
+
+<!ENTITY orientation.label "Treoshuíomh leathanaigh:">
+<!ENTITY portrait "Portráid">
+<!ENTITY landscape "Tírdhreach">
+
+<!ENTITY scale.label "Scála:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Laghdaigh go leithead an leathanaigh">
+
+<!ENTITY optionsGroup.label "Roghanna">
+
+<!ENTITY printBG.label "Priontáil an Cúlra (dathanna &amp; íomhánna)">
+
+<!ENTITY advanced.tab "Imill &amp; Ceanntásc/Buntásc">
+
+<!ENTITY marginGroup.label "Imill (#1)">
+<!ENTITY marginUnits.inches "orlach">
+<!ENTITY marginUnits.metric "milliméadar">
+<!ENTITY marginTop.label "Barr:">
+<!ENTITY marginBottom.label "Bun:">
+<!ENTITY marginLeft.label "Ar chlé:">
+<!ENTITY marginRight.label "Ar dheis:">
+
+<!ENTITY headerFooter.label "Ceanntásca &amp; Buntásca">
+
+<!ENTITY hfLeft.label "Ar chlé:">
+<!ENTITY hfCenter.label "Lárphointe:">
+<!ENTITY hfRight.label "Ar dheis:">
+<!ENTITY headerLeft.tip "Ceanntásc ar chlé">
+<!ENTITY headerCenter.tip "Ceanntásc lárnach">
+<!ENTITY headerRight.tip "Ceanntásc ar dheis">
+<!ENTITY footerLeft.tip "Buntásc ar chlé">
+<!ENTITY footerCenter.tip "Buntásc lárnach">
+<!ENTITY footerRight.tip "Buntásc ar dheis">
+
+<!ENTITY hfTitle "Teideal">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "Dáta/Am">
+<!ENTITY hfPage "Leathanach #">
+<!ENTITY hfPageAndTotal "Leathanach # as #">
+<!ENTITY hfBlank "--bán--">
+<!ENTITY hfCustom "Saincheap…">
+
+<!ENTITY customPrompt.title "Saincheap…">
+<!ENTITY customPrompt.prompt "Cuir isteach do théacs ceanntáisc/buntáisc féin">

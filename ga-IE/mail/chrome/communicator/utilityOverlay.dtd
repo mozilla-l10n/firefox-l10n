@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+
+<!ENTITY fileMenu.label "Comhad">
+<!ENTITY fileMenu.accesskey "c">
+<!ENTITY newMenu.label "Nua">
+<!ENTITY newMenu.accesskey "N">
+
+<!ENTITY editMenu.label "Eagar">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Cealaigh">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "l">
+<!ENTITY redoCmd.label "Athfheidhmigh">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "f">
+<!ENTITY cutCmd.label "Gearr">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "g">
+<!ENTITY copyCmd.label "Cóipeáil">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Greamaigh">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "r">
+<!ENTITY deleteCmd.label "Scrios">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY selectAllCmd.label "Roghnaigh Uile">
+<!ENTITY selectAllCmd.key "W">
+<!ENTITY selectAllCmd.accesskey "u">
+<!ENTITY preferencesCmd.label "Roghanna…">
+<!ENTITY preferencesCmd.accesskey "R">
+<!ENTITY preferencesCmdUnix.label "Sainroghanna">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+
+<!ENTITY findTypeTextCmd.label "Aimsigh téacs agus tú ag clóbhualadh">
+<!ENTITY findTypeTextCmd.accesskey "c">
+
+<!ENTITY viewMenu.label "Amharc">
+<!ENTITY viewMenu.accesskey "a">
+<!ENTITY viewToolbarsMenu.label "Barraí Uirlisí">
+<!ENTITY viewToolbarsMenu.accesskey "U">
+<!ENTITY showTaskbarCmd.label "Barra Stádais">
+<!ENTITY showTaskbarCmd.accesskey "S">
+
+<!ENTITY direct.label "Ar Líne (gan seachfhreastalaí)">
+<!ENTITY direct.accesskey "n">
+<!ENTITY manual.label "Ar Líne (seachfhreastalaí láimhe)">
+<!ENTITY manual.accesskey "l">
+<!ENTITY pac.label "Ar Líne (seachfhreastalaí uathoibríoch)">
+<!ENTITY pac.accesskey "a">
+
+<!ENTITY proxy.label "Cumraíocht an tSeachfhreastalaí…">
+<!ENTITY proxy.accesskey "C">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Dún">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "d">
+
+<!ENTITY closeWindow.label "Dún an Fhuinneog">
+
+<!ENTITY quitApplicationCmd.label "Scoir">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "s">
+
+<!ENTITY quitApplicationCmdUnix.label "Scoir">
+<!ENTITY quitApplicationCmdUnix.accesskey "s">
+
+<!ENTITY quitApplicationCmdMac.label "Scoir ó &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "s">

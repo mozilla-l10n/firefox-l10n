@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label "Réamhshocrú an Chórais">
+<!ENTITY alwaysCheckDefault.label "Seiceáil i gcónaí ag am tosaithe an é &brandShortName; an cliant réamhshocraithe ríomhphoist">
+<!ENTITY alwaysCheckDefault.accesskey "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Seiceáil Anois">
+<!ENTITY checkNow.accesskey "N">
+
+<!ENTITY messengerStartPage.label "Leathanach Tosaigh &brandShortName;">
+<!ENTITY enableStartPage.label "Agus &brandShortName; tar éis tosú, taispeáin an Leathanach Tosaigh i réimse na dteachtaireachtaí">
+<!ENTITY enableStartPage.accesskey "T">
+<!ENTITY location.label "Suíomh:">
+<!ENTITY location1.accesskey "o">
+<!ENTITY useDefault.label "Athchóirigh na Réamhshocruithe">
+<!ENTITY useDefault.accesskey "R">
+
+<!ENTITY bounceSystemDockIcon.label "Beoigh deilbhín an duga">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+
+<!ENTITY newMessagesArrive.label "Ar theacht teachtaireachtaí nua:">
+<!ENTITY playSound.label "Seinn fuaim">
+<!ENTITY playSound1.accesskey "d">
+<!ENTITY showAnimatedAlert.label "Taispeáin airdeall">
+<!ENTITY showAnimatedAlert.accesskey "S">
+<!ENTITY customizeMailAlert.label "Saincheap…">
+<!ENTITY customizeMailAlert.accesskey "C">
+
+<!ENTITY soundNotification1.caption "Fuaim">
+<!ENTITY play.label "Seinn">
+<!ENTITY play.accesskey "S">
+<!ENTITY systemsound.label "Fuaim réamhshocraithe chórais le haghaidh ríomhphost nua">
+<!ENTITY systemsoundMac.label "Fuaim airdill an chórais">
+<!ENTITY systemsoundMac.accesskey "u">
+<!ENTITY systemsound.accesskey "u">
+<!ENTITY customsound.label "Úsáid an comhad fuaime seo">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY browse.label "Brabhsáil…">
+<!ENTITY browse.accesskey "B">

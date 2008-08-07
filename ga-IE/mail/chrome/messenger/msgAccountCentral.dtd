@@ -1,0 +1,20 @@
+<!ENTITY emailSectionHdr.label "Ríomhphost">
+<!ENTITY readMsgsLink.label "Léigh teachtaireachtaí">
+<!ENTITY composeMsgLink.label "Scríobh teachtaireacht nua">
+
+<!ENTITY newsSectionHdr.label "Grúpaí-Nuachta">
+<!ENTITY subscribeNewsLink.label "Bainistiú Shíntiúis na nGrúpaí Nuachta">
+
+<!ENTITY accountsSectionHdr.label "Cuntais">
+<!ENTITY subscribeImapFolders.label "Bainistiú na Síntiús Fillteán">
+<!ENTITY settingsLink.label "Taispeáin socruithe an chuntais seo">
+<!ENTITY newAcctLink.label "Cruthaigh cuntas nua">
+
+<!ENTITY advFeaturesSectionHdr.label "Ardtréithe">
+<!ENTITY searchMsgsLink.label "Cuardaigh teachtaireachtaí">
+<!ENTITY filtersLink.label "Bainistiú na scagairí teachtaireachta">
+<!ENTITY junkSettings.label "Socruithe dramhphoist">
+<!ENTITY offlineLink.label "Socruithe as líne">
+
+<!ENTITY rssSectionHdr.label "Nuacht RSS &amp; Blaganna">
+<!ENTITY subscibeRSS.label "Bainistigh síntiúis">

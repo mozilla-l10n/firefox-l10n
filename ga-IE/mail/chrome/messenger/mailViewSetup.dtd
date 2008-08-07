@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Socrú Amharc na dTeachtaireachtaí">
+<!ENTITY mailViewHeading.label "Ainm an amhairc teachtaireachta:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Agus an t-amharc seo roghnaithe, ná taispeáin ach teachtaireachtaí:">
+

@@ -1,0 +1,42 @@
+<!ENTITY caption.label "#1 á oscailt">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "Tá an comhad &quot;#3&quot; den chineál #2 (#1), agus níl a fhios ag #4 conas comhaid den sórt seo a láimhseáil. Tá an comhad le fáil ag:">
+<!ENTITY intro.noDesc.label "Tá an comhad &quot;#3&quot; den chineál #2, agus níl a fhios ag #4 conas comhaid den sórt seo a láimhseáil. Tá an comhad le fáil ag:">
+
+<!ENTITY intro.attachment.label "Molann an suíomh &quot;#3&quot; a láimhseáil mar iatán. Tá sé den chineál #2 (#1) agus le fáil ag:">
+<!ENTITY intro.attachment.noDesc.label "Molann an suíomh &quot;#3&quot; a láimhseáil mar iatán. Tá sé den chineál #2 agus le fáil ag:">
+
+<!ENTITY intro.sniffed.label "D'aimsigh #4 gur chosúil gur chomhad é &quot;#3&quot; den chineál #2(#1). Tá an comhad le fáil ag:">
+<!ENTITY intro.sniffed.noDesc.label "D'aimsigh #4 gur chosúil gur chomhad é &quot;#3&quot; den chineál #2. Tá an comhad le fáil ag:">
+
+<!ENTITY prompt.label "Cad ba cheart do #1 a dhéanamh leis an gcomhad seo?">
+
+<!ENTITY alwaysHandle.label "Déan é seo i gcónaí agus comhaid den sórt seo á láimhseáil">
+<!ENTITY alwaysHandle.accesskey "G">
+
+<!ENTITY saveToDisk.label "Sábháil chuig diosca">
+<!ENTITY saveToDisk.accesskey "S">
+
+<!ENTITY useSystemDefault.label "Oscail leis an bhfeidhmchlár réamhshocraithe (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Oscail leis an bhfeidhmchlár réamhshocraithe">
+<!ENTITY useSystemDefault.accesskey "O">
+
+<!ENTITY openUsing.label "Oscail le">
+<!ENTITY openUsing.accesskey "l">
+
+<!ENTITY chooseApp.label "Roghnaigh…">
+<!ENTITY chooseApp.accesskey "R">
+
+<!ENTITY chooseAppFilePickerTitle "Roghnaigh Feidhmchlár Cabhrach">
+
+<!ENTITY badApp "Ní féidir an feidhmchlár (&quot;#1&quot;) a bhí sonraithe agat a fháil. Deimhnigh ainm an chomhaid nó roghnaigh feidhmchlár eile.">
+<!ENTITY badApp.title "Feidhmchlár gan aimsiú">

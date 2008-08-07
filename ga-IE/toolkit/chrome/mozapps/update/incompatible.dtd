@@ -1,0 +1,8 @@
+
+<!ENTITY incompatible.title "Míreanna Neamh-Chomhoiriúnacha">
+<!ENTITY incompatible.intro "Níl na míreanna seo a leanas comhoiriúnach leis an leagan nua de &brandShortName; agus beidh siad díchumasaithe tar éis é a shuiteáil:">
+<!ENTITY incompatible.update "Seiceálfaidh &brandShortName; go rialta agus cuirfear in iúl duit nuair atá leaganacha comhoiriúnacha ar fáil.">
+<!ENTITY incompatible.suffix "Tá leasuithe slándála tábhachta i nuashonruithe &brandShortName;. Moltar duit &brandShortName; a nuashonrú ionas go mbeidh an chosaint is láidre agat agus tú ag brabhsáil, fiú má bhíonn roinnt de do chuid Eisínteachtaí agus Téamaí neamh-chomhoiriúnach ina dhiaidh sin.">
+                                     
+<!ENTITY closebutton.label "Dún">
+

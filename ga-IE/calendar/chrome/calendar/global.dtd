@@ -1,0 +1,114 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY time.midnight "Meán Oíche">
+<!ENTITY time.1 "01:00">
+<!ENTITY time.2 "02:00">
+<!ENTITY time.3 "03:00">
+<!ENTITY time.4 "04:00">
+<!ENTITY time.5 "05:00">
+<!ENTITY time.6 "06:00">
+<!ENTITY time.7 "07:00">
+<!ENTITY time.8 "08:00">
+<!ENTITY time.9 "09:00">
+<!ENTITY time.10 "10:00">
+<!ENTITY time.11 "11:00">
+<!ENTITY time.noon "Meán Lae">
+<!ENTITY time.13 "13:00">
+<!ENTITY time.14 "14:00">
+<!ENTITY time.15 "15:00">
+<!ENTITY time.16 "16:00">
+<!ENTITY time.17 "17:00">
+<!ENTITY time.18 "18:00">
+<!ENTITY time.19 "19:00">
+<!ENTITY time.20 "20:00">
+<!ENTITY time.21 "21:00">
+<!ENTITY time.22 "22:00">
+<!ENTITY time.23 "23:00">
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
+
+<!ENTITY day.1.Ddd "Domh">
+<!ENTITY day.1.Ddd.accesskey "D">
+<!ENTITY day.2.Ddd "Luan">
+<!ENTITY day.2.Ddd.accesskey "L">
+<!ENTITY day.3.Ddd "Máir">
+<!ENTITY day.3.Ddd.accesskey "M">
+<!ENTITY day.4.Ddd "Céad">
+<!ENTITY day.4.Ddd.accesskey "C">
+<!ENTITY day.5.Ddd "Déar">
+<!ENTITY day.5.Ddd.accesskey "r">
+<!ENTITY day.6.Ddd "Aoin">
+<!ENTITY day.6.Ddd.accesskey "A">
+<!ENTITY day.7.Ddd "Sath">
+<!ENTITY day.7.Ddd.accesskey "S">
+
+<!ENTITY day.1.name "Domhnach">
+<!ENTITY day.2.name "Luan">
+<!ENTITY day.3.name "Máirt">
+<!ENTITY day.4.name "Céadaoin">
+<!ENTITY day.5.name "Déardaoin">
+<!ENTITY day.6.name "Aoine">
+<!ENTITY day.7.name "Satharn">
+<!-- Units -->
+
+<!ENTITY calendar.global.units.minute "nóiméad">
+<!ENTITY calendar.global.units.minutes "nóiméad">
+<!ENTITY calendar.global.units.hour "uair">
+<!ENTITY calendar.global.units.hours "uaire">
+<!ENTITY calendar.global.units.day "lá">
+<!ENTITY calendar.global.units.days "lá anuas">
+
+<!ENTITY month.1.name "Eanáir">
+<!ENTITY month.2.name "Feabhra">
+<!ENTITY month.3.name "Márta">
+<!ENTITY month.4.name "Aibreán">
+<!ENTITY month.5.name "Bealtaine">
+<!ENTITY month.6.name "Meitheamh">
+<!ENTITY month.7.name "Iúil">
+<!ENTITY month.8.name "Lúnasa">
+<!ENTITY month.9.name "Meán Fómhair">
+<!ENTITY month.10.name "Deireadh Fómhair">
+<!ENTITY month.11.name "Samhain">
+<!ENTITY month.12.name "Nollaig">
+
+<!ENTITY onemonthbackward.tooltip "Mí Amháin Siar">
+<!ENTITY onemonthforward.tooltip "Mí Amháin Ar Aghaidh">
+<!ENTITY showToday.tooltip "Taispeáin Inniu">
+<!ENTITY onedayforward.tooltip "Lá Amháin Ar Aghaidh">
+<!ENTITY onedaybackward.tooltip "Lá Amháin Siar">
+<!ENTITY showselectedday.tooltip "Taispeáin imeachtaí an lae roghnaithe">

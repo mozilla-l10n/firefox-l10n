@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Slándáil">
+<!ENTITY securityMenu.accesskey "l">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Criptigh Más Féidir">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "F">
+
+<!ENTITY menu_securityEncryptRequire.label "Criptigh an Teachtaireacht Seo">
+<!ENTITY menu_securityEncryptRequire.accesskey "C">
+
+<!ENTITY menu_securityNoEncryption.label "Ná criptigh an teachtaireacht seo">
+<!ENTITY menu_securityNoEncryption.accesskey "N">
+
+<!ENTITY menu_securitySign.label "Sínigh an teachtaireacht seo go digiteach">
+<!ENTITY menu_securitySign.accesskey "S">
+
+<!ENTITY menu_securityStatus.label "Taispeáin Eolas Slándála">
+<!ENTITY menu_securityStatus.accesskey "I">
+
+<!ENTITY securityButton.label "Slándáil">
+<!ENTITY securityButton.tooltip "Amharc ar, nó athraigh na socruithe slándála">
+
+<!ENTITY menu_viewSecurityStatus.label "Eolas Slándála Faoin Teachtaireacht">
+<!ENTITY menu_viewSecurityStatus.accesskey "A">

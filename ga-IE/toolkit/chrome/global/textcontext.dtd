@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Gearr">
+<!ENTITY cutCmd.accesskey "g">
+<!ENTITY copyCmd.label "Cóipeáil">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Greamaigh">
+<!ENTITY pasteCmd.accesskey "r">
+<!ENTITY undoCmd.label "Cealaigh">
+<!ENTITY undoCmd.accesskey "l">
+<!ENTITY selectAllCmd.label "Roghnaigh Uile">
+<!ENTITY selectAllCmd.accesskey "u">
+<!ENTITY deleteCmd.label "Scrios">
+<!ENTITY deleteCmd.accesskey "s">
+
+<!ENTITY spellAddToDictionary.label "Cuir é leis an bhFoclóir">
+<!ENTITY spellAddToDictionary.accesskey "l">
+<!ENTITY spellCheckEnable.label "Ceartaigh Litriú">
+<!ENTITY spellCheckEnable.accesskey "L">
+<!ENTITY spellNoSuggestions.label "(Gan Moltaí Litrithe)">
+<!ENTITY spellDictionaries.label "Teangacha">
+<!ENTITY spellDictionaries.accesskey "t">

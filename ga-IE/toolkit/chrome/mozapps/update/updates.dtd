@@ -1,0 +1,69 @@
+<!ENTITY updateWizard.title "Nuashonrú Bogearraí">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "Nuashonruithe á seiceáil">
+<!ENTITY checking.label "Tá cibé nuashonruithe atá le fáil á lorg anois ag &brandShortName;…">
+
+<!ENTITY cancel.label "Cealaigh">
+<!ENTITY cancel.accesskey "C">
+
+<!ENTITY noupdatesfound.title "Ní bhfuarthas nuashonruithe">
+<!ENTITY noupdatesfound.intro "Níl nuashonrú nua ar bith le fáil. D'fhéadfadh &brandShortName; seiceáil ó am go chéile an bhfuil nuashonruithe nua ann.">
+
+<!ENTITY incompatibleChecking.label "Ag seiceáil an mbeidh fadhbanna le do chuid eisínteachtaí agus/nó téamaí de dheasca an nuashonraithe seo…">
+<!ENTITY clickHere.label "Tuilleadh eolais faoin nuashonrú seo">
+
+<!ENTITY incompatible.warning "Cuirfidh an nuashonrú seo cuid de na heisínteachtaí/téamaí atá agat as feidhm go dtí go nuashonrófar iad dá réir.">
+<!ENTITY listIncompatible.label "Taispeáin Liosta">
+<!ENTITY listIncompatible.accesskey "L">
+
+<!ENTITY upgrade.evangelism "Moltar duit an nuashonrú seo ar &brandShortName; a shuiteáil chomh luath agus is féidir.">
+
+<!ENTITY license.instructions "Má ghlacann tú le coinníollacha an chomhaontaithe seo, cliceáil Glacaim Leis thíos chun leanúint le suiteáil an nuashonraithe.">
+
+<!ENTITY license.titleText "Comhaontú um an gCeadúnas Earra Bhoig">
+<!ENTITY license.introText "Téarmaí agus coinníollacha úsáide an phacáiste seo.">
+<!ENTITY license.instructionText "Léigh an comhaontú um cheadúnas earra bhoig seo a leanas, le do thoil. Úsáid an scrollbharra chun an chuid eile den chomhaontú seo a léamh.">
+<!ENTITY license.accept "Glacaim leis an Chomhaontú um Cheadúnas">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "Nílim toilteanach glacadh le coinníollacha an Chomhaontú um Cheadúnas">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY downloading.title "Nuashonrú á Íosluchtú">
+<!ENTITY downloading.intro "Nuashonrú á íosluchtú…">
+<!ENTITY connecting.label "Ag dul i dteagmháil le freastalaí na nuashonruithe…">
+<!ENTITY verificationFailedText.label "Níorbh fhéidir le &brandShortName; sláine an nuashonraithe incrimintigh a fhíorú tar éis é a íosluchtú. Dá bhrí sin, tá an pacáiste nuashonraithe á íosluchtú ina iomláine.">
+
+<!ENTITY details.link "Mionsonraí">
+<!ENTITY pause.label "Cuir ar Shos">
+<!ENTITY pause.accesskey "o">
+<!ENTITY close.label "Dún">
+<!ENTITY close.accesskey "D">
+
+<!ENTITY error.label "Bhí fadhbanna ann agus an nuashonrú seo á lorg, á íosluchtú nó á shuiteáil. Níorbh fhéidir &brandShortName; a nuashonrú de bharr:">
+                                           
+<!ENTITY errorManual.label "Tig leat &brandShortName; a nuashonrú de láimh tríd an nasc seo a leanúint agus an leagan is nuaí a íosluchtú:">
+                                           
+<!ENTITY errorpatching.title "Theip ar Nuashonrú">
+<!ENTITY errorpatching.intro "Níorbh fhéidir an páirt-nuashonrú a chur i bhfeidhm. Déanfaidh &brandShortName; iarracht eile trí nuashonrú iomlán a íosluchtú.">
+
+<!ENTITY finished.title "Nuashonrú Íosluchtaithe">
+<!ENTITY finished.text "D'éirigh le híosluchtú agus fíorú an nuashonraithe, agus suiteálfar é an chéad uair eile a thosóidh tú &brandShortName;.">
+
+<!ENTITY finishedBackground.title "Nuashonrú Réidh le Suiteáil">
+<!ENTITY finishedBackground.text "D'íosluchtaigh agus d'fhíoraigh &brandShortName; nuashonrú tábhachtach. Cliceáil an nasc thíos chun tuilleadh sonraí a fháil.">
+<!ENTITY finishedBackground.name "Nuashonrú:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY finishedBackground.more1 "Cliceáil Atosaigh &brandShortName; Anois chun an nuashonrú a shuiteáil anois.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY finishedBackground.textNotNow "Chun an dialóg seo a dhúnadh agus leanúint den obair, cliceáil 'Níos Déanaí'; déanfaidh &brandShortName; an nuashonrú a shuiteáil nuair a úsáidfear arís é.">
+
+<!ENTITY installed.title "Nuashonrú Suiteáilte">
+<!ENTITY installed.intro "D'éirigh le suiteáil an nuashonraithe.">
+<!ENTITY whatsnew.label "Tuilleadh faoi gach rud nua…">
+
+<!ENTITY update.details.label "Mionsonraí">
+<!ENTITY update.installedOn.label "Suiteáilte ar:">
+<!ENTITY update.status.label "Stádas:">

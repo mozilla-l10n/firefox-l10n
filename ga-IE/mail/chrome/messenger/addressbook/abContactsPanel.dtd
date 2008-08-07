@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label "Leabhar Seoltaí:">
+<!ENTITY addressbookPicker.accesskey "e">
+<!ENTITY searchInput.label "Cuardaigh:">
+<!ENTITY searchInput.accesskey "u">
+<!ENTITY SearchNameOrEmail.label "Ainm nó Seoladh Ríomhphoist">
+
+<!ENTITY deleteAddrBookCard.label "Scrios">
+<!ENTITY addrBookCardProperties.label "Airíonna">
+<!ENTITY addtoToFieldMenu.label 'Cuir leis an réimse "Chuig"'>
+<!ENTITY addtoCcFieldMenu.label 'Cuir leis an réimse "Cc"'>
+<!ENTITY addtoBccFieldMenu.label 'Cuir leis an réimse "Bcc"'>
+
+<!ENTITY toButton.label "Cuir le Chuig:">
+<!ENTITY toButton.accesskey "C">
+<!ENTITY ccButton.label "Cuir le Cc:">
+<!ENTITY ccButton.accesskey "u">
+<!ENTITY bccButton.label "Cuir le Bcc:">
+<!ENTITY bccButton.accesskey "B">

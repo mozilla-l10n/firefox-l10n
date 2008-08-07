@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Treoraí Iompórtála">
+
+<!ENTITY importFrom.label "Iompórtáil Roghanna, Leabharmharcanna, Stair, Focail Fhaire agus sonraí eile ó:">
+<!ENTITY importFromUnix.label "Iompórtáil Sainroghanna, Leabharmharcanna, Stair, Focail Fhaire agus sonraí eile ó:">
+<!ENTITY importFromBookmarks.label "Iompórtáil comhad leabharmharc ó:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird nó Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Ná hiompórtáil rud ar bith">
+<!ENTITY importFromNothing.accesskey "N">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 nó Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label "Ó Chomhad HTML">
+<!ENTITY importFromHTMLFile.accesskey "C">
+
+<!ENTITY noMigrationSources.label "Níorbh fhéidir ríomhchláir ina bhfuil leabharmharcanna, stair nó sonraí focal faire a aimsiú.">
+
+<!ENTITY importSource.title "Iompórtáil Socruithe agus Sonraí">
+<!ENTITY importItems.title "Rudaí le hIompórtáil">
+<!ENTITY importItems.label "Roghnaigh na rudaí le hiompórtáil:">
+
+<!ENTITY migrating.title "Á nIompórtáil…">
+<!ENTITY migrating.label "Tá na rudaí seo á n-iompórtáil faoi láthair…">
+
+<!ENTITY selectProfile.title "Roghnaigh Próifíl">
+<!ENTITY selectProfile.label "Próifílí le fáil ónar féidir a iompórtáil:">
+
+<!ENTITY done.title "Iompórtáil curtha i gcrích">
+<!ENTITY done.label "Iompórtáladh na rudaí seo go rathúil:">
+

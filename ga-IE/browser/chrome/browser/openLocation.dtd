@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Iontráil suíomh (URL) an leathanaigh Gréasáin, nó teideal an chomhaid logánta is mian leat a oscailt:">
+<!ENTITY chooseFile.label "Roghnaigh Comhad…">
+<!ENTITY newWindow.label "Fuinneog Nua">
+<!ENTITY newTab.label "Cluaisín Nua">
+<!ENTITY topWindow.label "Fuinneog Reatha">
+<!ENTITY caption.label "Oscail Suíomh Gréasáin">
+<!ENTITY openWhere.label "Oscail i:">
+<!ENTITY openBtn.label "Oscail">

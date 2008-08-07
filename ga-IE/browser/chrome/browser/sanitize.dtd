@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "Bánaigh Sonraí Príobháideacha">
+
+<!ENTITY sanitizeItems.label "Bánaigh na míreanna seo a leanas anois:">
+<!ENTITY clearDataSettings.label "Nuair a fhiafraím de &brandShortName; mo chuid sonraí príobháideacha a ghlanadh, ba chóir dó a ghlanadh:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "Stair Bhrabhsála">
+<!ENTITY itemHistory.accesskey "B">
+<!ENTITY itemFormSearchHistory.label "Stair Shábháilte Fhoirmeacha agus Staire">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "Focail Fhaire a sábháladh">
+<!ENTITY itemPasswords.accesskey "F">
+<!ENTITY itemCookies.label "Fianáin">
+<!ENTITY itemCookies.accesskey "F">
+<!ENTITY itemCache.label "Taisce">
+<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemOfflineApps.label "Sonraí Shuíomhanna Gréasáin As Líne">
+<!ENTITY itemOfflineApps.accesskey "O">
+<!ENTITY itemDownloads.label "Stair an Bhainisteora Íosluchtaithe">
+<!ENTITY itemDownloads.accesskey "S">
+<!ENTITY itemSessions.label "Seisiúin Fhíordheimhnithe">
+<!ENTITY itemSessions.accesskey "S">
+<!ENTITY window.width "30em">

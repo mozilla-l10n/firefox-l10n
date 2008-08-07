@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "Socruithe">
+<!ENTITY security.caption "Slándáil agus Fíordheimhniú">
+<!ENTITY serverName.label "Ainm an fhreastalaí:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "Cur Síos:">
+<!ENTITY serverDescription.accesskey "C">
+<!ENTITY serverPort.label "Port:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Úsáid ainm agus focal faire">
+<!ENTITY alwaysUseUsername.accesskey "A">
+<!ENTITY userName.label "Ainm an Úsáideora:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY useSecAuth.label "Úsáid fíordheimhniú daingean">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY isSecure.label "Úsáid nasc daingean:">
+<!ENTITY neverSecure.label "Níl">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, má tá sé ar fáil">
+<!ENTITY sometimesSTARTTLS.accesskey "a">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-ar-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "Freastalaí SMTP">
+<!ENTITY serverPortDefault.label "Réamhshocrú:">

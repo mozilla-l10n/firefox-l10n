@@ -1,0 +1,16 @@
+<!ENTITY brandMotto "Déan Athaimsiú ar an nGréasán">
+<!ENTITY credit.thanks "Buíochas ar leith le">
+
+<!ENTITY credit.thanks2 "Táimid an-bhuíoch dár">
+<!ENTITY credit.contributors2 "gcuiditheoirí">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Aistritheoirí</h3><ul><li>Cillian de Roiste</li><li>Cian Duffy</li><li>Conor Farrell</li><li>Marion Gunn</li><li>Panu Petteri Höglund</li><li>Brian King</li><li>Iarla Mac Aodha Bhuí</li><li>Diarmaid Mac Mathúna</li><li>Dáithi Mac Sithigh</li><li>Enda McGuinness</li><li>Séamus Ó Ciardhuáin</li><li>Caoimhín Ó Donnaile</li><li>Tony Pratschke</li><li>Rüdiger Reinhardt</li><li>Kevin Scannell</li></ul>">
+
+
+<!ENTITY credit.memory "I nDílchuimhne Ar">
+<!ENTITY credit.poweredByGeckoReg "Á chumhachtú ag Gecko&reg;">

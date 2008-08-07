@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "Foilsigh an Leathanach">
+<!ENTITY windowTitleSettings.label "Socruithe Foilsithe">
+
+<!ENTITY publishTab.label "Foilsigh">
+<!ENTITY settingsTab.label "Socruithe">
+
+<!ENTITY publishButton.label "Foilsigh">
+<!-- Publish Tab Panel -->
+
+<!ENTITY siteList.label "Ainm an tSuímh:">
+<!ENTITY siteList.accesskey "s">
+<!ENTITY siteList.tooltip "Roghnaigh an suíomh a theastaíonn uait foilsiú chuige">
+<!ENTITY newSiteButton.label "Suíomh nua">
+<!ENTITY newSiteButton.accesskey "N">
+<!ENTITY docDirList.label "Fochomhadlann suímh an leathanaigh seo:">
+<!ENTITY docDirList.accesskey "S">
+<!ENTITY docDirList.tooltip "Roghnaigh nó cuir isteach ainm chianfhochomhadlann an leathanaigh seo">
+<!ENTITY publishImgCheckbox.label "Cuir íomhánna agus comhaid eile san áireamh">
+<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.tooltip "Foilsigh íomhánna agus comhaid eile a dhéantar tagairt orthu sa leathanach seo">
+<!ENTITY sameLocationRadio.label "Úsáid an suíomh céanna agus an leathanach">
+<!ENTITY sameLocationRadio.accesskey "U">
+<!ENTITY sameLocationRadio.tooltip "Foilsigh comhaid go dtí an suíomh céanna ar a bhfuil an leathanach">
+<!ENTITY useSubdirRadio.label "Úsáid an fhochomhadlann suímh seo:">
+<!ENTITY useSubdirRadio.accesskey "d">
+<!ENTITY useSubdirRadio.tooltip "Foilsigh comhaid chuig an chianfhochomhadlann roghnaithe">
+<!ENTITY otherDirList.tooltip "Roghnaigh nó iontráil ainm na fochomhadlainne cianda ar a bhfoilseofar comhaid">
+<!ENTITY pageTitle.label "Teideal an Leathanaigh:">
+<!ENTITY pageTitle.accesskey "T">
+<!ENTITY pageTitle.tooltip "Iontráil teideal a chuirfear ar an leathanach san fhuinneog nó i leabharmharcanna">
+<!ENTITY pageTitleExample.label "m.sh.: &quot;Mo Leathanach Gréasáin&quot;">
+<!ENTITY filename.label "Ainm comhaid:">
+<!ENTITY filename.accesskey "A">
+<!ENTITY filename.tooltip 'Iontráil ainm don chomhad seo, le ".html" air más leathanach Gréasáin é'>
+<!ENTITY filenameExample.label "m.sh.: &quot;moleathanach.html&quot;">
+<!ENTITY relatedDocs.label "Comhaid eile le foilsiú">
+<!ENTITY setDefaultButton.label "Socraigh mar Réamhshocrú">
+<!ENTITY setDefaultButton.accesskey "R">
+<!ENTITY setDefSiteAndDir.label "Socraigh mar Shuíomh agus Chomhadlann réamhshocraithe">
+<!ENTITY removeButton.label "Bain Suíomh">
+<!ENTITY removeButton.accesskey "B">
+<!-- Settings Tab Panel -->
+
+<!ENTITY publishSites.label "Suíomhanna Foilsithe">
+<!ENTITY serverInfo.label "Eolas faoin bhfreastalaí">
+<!ENTITY loginInfo.label "Eolas Logála Isteach">
+<!ENTITY siteName.label "Ainm an tSuímh:">
+<!ENTITY siteName.accesskey "s">
+<!ENTITY siteName.tooltip 'Leasainm mar aitheantas ar an suíomh seo (m.sh. "MoShuíomh")'>
+<!ENTITY siteUrl.label 'Seoladh foilsithe (m.sh. "ftp://ftp.mossi.ie/mo_ainm"):'>
+<!ENTITY siteUrl.accesskey "a">
+<!ENTITY siteUrl.tooltip "An seoladh FTP:// nó HTTP:// a thugann do Sholáthraí Seirbhísí Idirlín nó do sheirbhís óstála Gréasáin duit">
+<!ENTITY browseUrl.label 'Seoladh HTTP do leathanaigh bhaile (m.sh. "http://www.mossi.ie/mo_ainm"):'>
+<!ENTITY browseUrl.accesskey "T">
+<!ENTITY browseUrl.tooltip "Seoladh HTTP:// do chomhadlann bhaile (gan ainm comhaid):">
+<!ENTITY username.label "Ainm úsáideora:">
+<!ENTITY username.accesskey "S">
+<!ENTITY username.tooltip "An t-ainm úsáideora a úsáideann tú chun logáil isteach chuig do Sholáthraí Seirbhísí Idirlín nó do sheirbhís óstála Gréasáin">
+<!ENTITY password.label "Focal Faire:">
+<!ENTITY password.accesskey "f">
+<!ENTITY password.tooltip "An focal faire a bhaineann le d'ainm úsáideora">
+<!ENTITY savePassword.label "Sábháil an focal faire">
+<!ENTITY savePassword.accesskey "S">
+<!ENTITY savePassword.tooltip "Roghnaigh é seo chun d'fhocal faire a shábháil go slán le Bainisteoir na bhFocal Faire">

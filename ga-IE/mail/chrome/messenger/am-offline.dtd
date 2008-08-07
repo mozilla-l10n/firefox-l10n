@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Ar mhaithe le spás diosca a spáráil, ná híosluchtaigh:">
+<!ENTITY doNotDownload.label "Ar mhaithe spás diosca a spáráil, ná híosluchtaigh le haghaidh úsáide as líne:">
+<!ENTITY offlineNewFolder.label "Agus fillteáin nua á gcruthú agam, roghnaigh iad le haghaidh úsáide as líne">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "Teachtaireachtaí níos mó ná">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "kB">
+<!ENTITY days.label "lá anuas">
+<!ENTITY daysOld.label "lá d'aois">
+<!ENTITY message.label "teachtaireacht is déanaí">
+<!ENTITY nntpNotDownloadRead.label "Teachtaireachtaí léite">
+<!ENTITY nntpNotDownloadRead.accesskey "c">
+<!ENTITY nntpDownloadMsg.label "Teachtaireachtaí níos mó ná">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Chun spás diosca a fháil, is féidir seanteachtaireachtaí a scriosadh go buan">
+<!ENTITY retentionKeepMsg.label "Scrios teachtaireachtaí níos sine ná">
+<!ENTITY retentionKeepMsg.accesskey "t">
+<!ENTITY retentionKeepAll.label "Ná scrios teachtaireacht ar bith">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "Scrios gach rud ach na ">
+<!ENTITY retentionKeepNew.accesskey "g">
+<!ENTITY retentionKeepUnread.label "Scrios teachtaireachtaí léite i gcónaí">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "Teachtaireachtaí le coirp níos lú ná">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "Roghnaigh grúpaí nuachta le haghaidh úsáide as líne…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineSelectImap.label "Roghnaigh fillteáin le haghaidh úsáide as líne…">
+<!ENTITY offlineSelectImap.accesskey "R">
+<!ENTITY offlineDesc.label "Is féidir leat do theachtaireachtaí a íosluchtú ionas go mbeidh siad ar fáil agus tú ag obair as líne.">
+<!ENTITY makeInboxMsgsAvailable.label "Bíodh na teachtaireachtaí i mo Bhosca Isteach ar fáil agus mé ag obair as líne.">
+<!ENTITY makeInboxMsgsAvailable.accesskey "h">
+<!ENTITY offlineGroupTitle.label "As Líne">
+<!ENTITY diskspaceGroupTitle.label "Spás Diosca">

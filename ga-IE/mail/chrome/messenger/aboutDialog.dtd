@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title "Maidir le &brandFullName;">
+<!ENTITY credits.label "Admhálacha">
+<!ENTITY credits.accesskey "A">
+<!ENTITY aboutLink.label "&lt; Maidir le &brandFullName;">
+<!ENTITY aboutLink.accesskey "M">
+<!ENTITY aboutVersion "leagan">
+<!ENTITY copyrightText "&#169;1998-2008 le lucht déanta a gcion. Gach ceart ar cosaint. Is trádmharcanna de chuid Fondúireacht Mozilla iad Mozilla Thunderbird agus suaitheantais Thunderbird. Gach ceart ar cosaint.">

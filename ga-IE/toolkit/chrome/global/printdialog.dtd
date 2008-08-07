@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Priontáil">
+
+<!ENTITY printDialog.title "Priontáil">
+
+<!ENTITY fpDialog.title "Sábháil an Comhad">
+
+<!ENTITY fileCheck.label "Priontáil go Comhad">
+<!ENTITY propertiesButton.label "Airíonna…">
+<!ENTITY descText.label "Cur síos ar an bprintéir:">
+<!ENTITY printer.label "Printéir">
+<!ENTITY printerInput.label "Ainm an Phrintéara:">
+
+<!ENTITY printrangeGroup.label "Raon Priontála">
+<!ENTITY allpagesRadio.label "Gach Leathanach">
+<!ENTITY rangeRadio.label "Leathanach">
+<!ENTITY frompageInput.label "ó">
+<!ENTITY topageInput.label "go">
+<!ENTITY selectionRadio.label "Rogha">
+
+<!ENTITY copies.label "Cóip">
+<!ENTITY numCopies.label "Líon na gCóipeanna:">
+
+<!ENTITY printframeGroup.label "Priontáil Frámaí">
+<!ENTITY aslaidoutRadio.label "Mar atá léirithe ar an scáileán">
+<!ENTITY selectedframeRadio.label "An fráma roghnaithe">
+<!ENTITY eachframesepRadio.label "Gach fráma go scartha">

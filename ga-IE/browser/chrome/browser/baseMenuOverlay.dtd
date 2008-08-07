@@ -1,0 +1,48 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Íoslaghdaigh">
+<!ENTITY bringAllToFront.label "Tabhair an tIomlán chun Tosaigh">
+<!ENTITY zoomWindow.label "Súmáil">
+<!ENTITY windowMenu.label "Fuinneog">
+
+<!ENTITY helpMenu.label "Cabhair">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Cabhair">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutCmd.label "Maidir le &brandFullName;">
+<!ENTITY aboutCmd.accesskey "M">
+<!ENTITY helpContents.label "Ábhar Cabhrach">
+<!ENTITY helpContents.accesskey "H">
+<!ENTITY helpContentsMac.label "Cabhair &brandShortName;">
+<!ENTITY helpForIEUsers.label "D'úsáideoirí Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey "/">
+<!ENTITY openHelpMac.modifiers "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey "?">
+<!ENTITY openHelpMac.frontendModifiers "accel">
+
+<!ENTITY helpReleaseNotes.label "Nótaí Eisiúna">
+<!ENTITY helpReleaseNotes.accesskey "N">
+<!ENTITY updateCmd.label "Lorg Nuashonruithe…">
+<!ENTITY updateCmd.accesskey "o">
+
+<!ENTITY preferencesCmdMac.label "Sainroghanna…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+
+<!ENTITY servicesMenuMac.label "Seirbhísí">
+
+<!ENTITY hideThisAppCmdMac.label "Folaigh &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label "Folaigh Cinn Eile">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label "Taispeáin Gach">

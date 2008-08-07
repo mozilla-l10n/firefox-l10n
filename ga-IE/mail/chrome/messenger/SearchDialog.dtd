@@ -1,0 +1,77 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Cuardaigh teachtaireachtaí i:">
+<!ENTITY searchHeading.accesskey "h">
+<!ENTITY searchSubfolders.label "Cuardaigh i bhfofhillteáin">
+<!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY resetButton.label "Bánaigh">
+<!ENTITY resetButton.accesskey "B">
+<!ENTITY optionsButton.label "Roghanna">
+<!ENTITY closeButton.label "Dún">
+<!ENTITY openButton.label "Oscail">
+<!ENTITY openButton.accesskey "o">
+<!ENTITY deleteButton.label "Scrios">
+<!ENTITY deleteButton.accesskey "S">
+<!ENTITY searchDialogTitle.label "Cuardaigh Teachtaireachtaí">
+<!ENTITY conditionDesc.label "Cuardaigh teachtaireachtaí a mheaitseálann:">
+<!ENTITY conditions.label "Critéir">
+<!ENTITY results.label "Torthaí">
+<!ENTITY fileHereMenu.label "Comhdaigh Anseo">
+<!ENTITY fileHereMenu.accesskey "C">
+<!ENTITY fileButton.label "Comhad">
+<!ENTITY fileButton.accesskey "o">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Oscail Fillteán Teachtaireachtaí">
+<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY saveAsVFButton.label "Sábháil mar Fhillteán Cuardaigh">
+<!ENTITY saveAsVFButton.accesskey "s">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "Cuardaigh i:">
+<!ENTITY abSearchHeading.accesskey "h">
+<!ENTITY propertiesButton.label "Airíonna">
+<!ENTITY propertiesButton.accesskey "A">
+<!ENTITY composeButton.label "Scríobh">
+<!ENTITY composeButton.accesskey "S">
+<!ENTITY abSearchDialogTitle.label "Ardchuardach an Leabhair Sheoltaí">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Snáithe">
+<!ENTITY fromColumn.label "Ó">
+<!ENTITY recipientColumn.label "Faighteoir">
+<!ENTITY subjectColumn.label "Ábhar">
+<!ENTITY dateColumn.label "Dáta">
+<!ENTITY priorityColumn.label "Tosaíocht">
+<!ENTITY tagsColumn.label "Clibeanna">
+<!ENTITY accountColumn.label "Cuntas">
+<!ENTITY statusColumn.label "Stádas">
+<!ENTITY sizeColumn.label "Méid">
+<!ENTITY junkStatusColumn.label "Stádas Dramhphoist">
+<!ENTITY linesColumn.label "Línte">
+<!ENTITY unreadColumn.label "Gan léamh">
+<!ENTITY totalColumn.label "Iomlán">
+<!ENTITY readColumn.label "Léite">
+<!ENTITY receivedColumn.label "Faighte">
+<!ENTITY starredColumn.label "Marcáilte">
+<!ENTITY locationColumn.label "Suíomh">
+<!ENTITY idColumn.label "Ord Fála">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Cliceáil chun colúin a roghnú le cur ar taispeáin">
+<!ENTITY threadColumn.tooltip "Cliceáil chun snáitheanna na dteachtaireachtaí a thaispeáint">
+<!ENTITY fromColumn.tooltip "Cliceáil chun sórtáil de réir Ó">
+<!ENTITY recipientColumn.tooltip "Cliceáil chun sórtáil de réir faighteora">
+<!ENTITY subjectColumn.tooltip "Cliceáil chun sórtáil de réir ábhair">
+<!ENTITY dateColumn.tooltip "Cliceáil chun sórtáil de réir dáta">
+<!ENTITY priorityColumn.tooltip "Cliceáil chun sórtáil de réir tosaíochta">
+<!ENTITY tagsColumn.tooltip "Cliceáil chun sórtáil de réir clibe">
+<!ENTITY accountColumn.tooltip "Cliceáil chun sórtáil de réir cuntais">
+<!ENTITY statusColumn.tooltip "Cliceáil chun sórtáil de réir stádais">
+<!ENTITY sizeColumn.tooltip "Cliceáil chun sórtáil de réir mhéid">
+<!ENTITY junkStatusColumn.tooltip "Cliceáil chun sórtáil de réir stádas dramhphoist">
+<!ENTITY unreadColumn.tooltip "Teachtaireachtaí gan léamh sa snáithe">
+<!ENTITY totalColumn.tooltip "Iomlán na dTeachtaireachtaí sa snáithe">
+<!ENTITY readColumn.tooltip "Cliceáil chun sórtáil de réir stádas léite">
+<!ENTITY receivedColumn.tooltip "Cliceáil chun sórtáil de réir dáta fála">
+<!ENTITY starredColumn.tooltip "Cliceáil chun sórtáil de réir réiltín">
+<!ENTITY locationColumn.tooltip "Cliceáil chun sórtáil de réir suímh">
+<!ENTITY idColumn.tooltip "Cliceáil chun sórtáil de réir ord fála">

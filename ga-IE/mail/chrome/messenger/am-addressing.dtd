@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Cumadóireacht &amp; Seoladh">
+<!ENTITY addressingGroupTitle.label "Seoladh">
+<!ENTITY addressingText.label "Agus seoltaí á lorg:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "Úsáid mo shainroghanna uilíocha maidir le freastalaithe LDAP don chuntas seo">
+<!ENTITY useGlobal.accesskey "U">
+<!ENTITY editDirectories.label "Cuir Eolairí in Eagar…">
+<!ENTITY editDirectories.accesskey "E">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Úsáid freastalaí LDAP eile:">
+<!ENTITY directories.accesskey "d">
+<!-- am-addressing.xul -->
+
+
+<!ENTITY compositionGroupTitle.label "Cumadh">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Cum teachtaireachtaí i bhformáid HTML">
+<!ENTITY useHtml.accesskey "C">
+<!ENTITY autoQuote.label "Cuir isteach an teachtaireacht bhunaidh go huathoibríoch agus freagra á chumadh">
+<!ENTITY autoQuote.accesskey "m">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "Ansin,">
+<!ENTITY then.accesskey "A">
+<!ENTITY aboveQuote.label "cuir tús le mo fhreagra os cionn an athfhriotail">
+<!ENTITY belowQuote.label "cuir tús le mo fhreagra faoin athfhriotal">
+<!ENTITY selectAndQuote.label "roghnaigh an t-athfhriotal">
+<!ENTITY place.label "agus cuir mo shíniú">
+<!ENTITY place.accesskey "s">
+<!ENTITY belowText.label "faoin athfhriotal (molta)">
+<!ENTITY aboveText.label "faoi mo fhreagra (os cionn an athfhriotail)">

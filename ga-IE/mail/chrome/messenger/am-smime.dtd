@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Slándáil">
+<!ENTITY securityHeading.label "Chun teachtaireachtaí sínithe nó criptithe a sheoladh nó a fháil, ba cheart duit teastas sínithe digitigh agus teastas criptiúcháin a shonrú.">
+<!ENTITY encryptionGroupTitle.label "Criptiúchán">
+<!ENTITY encryptionChoiceLabel.label "Socrú criptiúcháin réamhshocraithe le haghaidh seolta teachtaireachtaí:">
+<!ENTITY neverEncrypt.label "Ná criptigh riamh">
+<!ENTITY alwaysEncryptMessage.label "De dhíth (ní féidir teachtaireacht a sheoladh mura bhfuil teastas ag gach faighteoir)">
+<!ENTITY encryptionCert.message "Úsáid an teastas seo chun teachtaireachtaí a sheoltar chugat a chriptiú agus a dhíchriptiú:">
+<!ENTITY encryptionCert.notselected "Níl teastas socruithe">
+<!ENTITY certificate.button "Roghnaigh…">
+<!ENTITY certificate_clear.button "Bánaigh">
+<!ENTITY signingGroupTitle.label "Síniú Digiteach">
+<!ENTITY signMessage.label "Sínigh teachtaireachtaí go digiteach (mar réamhshocrú)">
+<!ENTITY signingCert.message "Úsáid an teastas seo le haghaidh síniú na dteachtaireachtaí a sheolann tú:">
+<!ENTITY signingCert.notselected "Níl teastas socruithe">
+
+<!ENTITY certificates.label "Teastais">
+<!ENTITY managecerts.label "Taispeáin Teastais">
+<!ENTITY managecerts.accesskey "T">
+<!ENTITY managedevices.label "Gléasanna Slándála">
+<!ENTITY managedevices.accesskey "S">

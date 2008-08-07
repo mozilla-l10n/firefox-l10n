@@ -1,0 +1,28 @@
+<!ENTITY pref.editing.title "Socruithe Nua Leathanaigh">
+
+<!ENTITY authorName.label "Údar:">
+<!ENTITY authorName.accesskey "d">
+<!ENTITY pageColorHeader "Cuma Réamhshocraithe na Leathanach">
+
+<!ENTITY defaultColorsRadio.label "Dathanna réamhshocraithe an léitheora (Ná socraigh dathanna sa leathanach)">
+<!ENTITY defaultColors.accesskey "d">
+<!ENTITY customColorsRadio.label "Úsáid dathanna saincheaptha:">
+<!ENTITY customColors.accesskey "c">
+
+<!ENTITY normalText.label "Gnáththéacs">
+<!ENTITY normalText.accesskey "N">
+<!ENTITY linkText.label "Téacs naisc">
+<!ENTITY linkText.accesskey "N">
+<!ENTITY activeLinkText.label "Téacs naisc gníomhach">
+<!ENTITY activeLinkText.accesskey "A">
+<!ENTITY visitedLinkText.label "Téacs naisc feicthe">
+<!ENTITY visitedLinkText.accesskey "F">
+<!ENTITY background.label "Cúlra:">
+<!ENTITY background.accesskey "C">
+<!ENTITY colon.character ":">
+
+<!ENTITY backgroundImage.label "Íomhá chúlra:">
+<!ENTITY backgroundImage.accesskey "m">
+<!ENTITY chooseFile.label "Roghnaigh Comhad…">
+<!ENTITY chooseFile.accesskey "o">
+
