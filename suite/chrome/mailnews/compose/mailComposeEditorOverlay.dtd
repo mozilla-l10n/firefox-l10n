@@ -1,0 +1,4 @@
+<!ENTITY attachImageSource.label "Вложить это изображение в сообщение">
+<!ENTITY attachImageSource.accesskey "л">
+<!ENTITY attachLinkSource.label "Вложить файл, открывающийся по этой ссылке, в сообщение">
+<!ENTITY attachLinkSource.accesskey "л">

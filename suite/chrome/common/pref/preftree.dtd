@@ -1,0 +1,31 @@
+<!ENTITY appear.label "Внешний вид">
+<!ENTITY content.label "Содержимое">
+<!ENTITY fonts.label "Шрифты">
+<!ENTITY colors.label "Цвета">
+<!ENTITY navigator.label "Browser">
+<!ENTITY history.label "Журнал посещений">
+<!ENTITY bidi.label "Двунаправленный текст">
+<!ENTITY languages.label "Языки">
+<!ENTITY applications.label "Приложения">
+<!ENTITY locationBar.label "Панель адреса">
+<!ENTITY tabWindows.label "Вкладки">
+<!ENTITY compose.label "Компоновщик">
+<!ENTITY editing.label "Параметры новой страницы">
+<!ENTITY publish.label "Публикация">
+<!ENTITY offline.label "Автономная работа и дисковое пространство">
+<!ENTITY security.label "Приватность и защита">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY images.label "Изображения">
+<!ENTITY popups.label "Всплывающие окна">
+<!ENTITY advance.label "Дополнительно">
+<!ENTITY down.label "Загрузка">
+<!ENTITY cache.label "Кэш">
+<!ENTITY proxies.label "Прокси-серверы">
+<!ENTITY httpnetworking.label "Работа с HTTP">
+<!ENTITY smart.label "Установка ПО">
+<!ENTITY download.label "Загрузки">
+<!ENTITY keynav.label "Клавиатура">
+<!ENTITY search.label "Поиск в Интернете">
+<!ENTITY policies.label "Политика защиты">
+<!ENTITY mousewheel.label "Ролик мыши">
+<!ENTITY scriptsAndWindows.label "Сценарии и плагины">

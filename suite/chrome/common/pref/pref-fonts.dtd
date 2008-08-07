@@ -1,0 +1,60 @@
+<!ENTITY pref.fonts.title "Шрифты">
+<!ENTITY language.label "Шрифты для набора символов:">
+<!ENTITY language.accesskey "Ш">
+<!ENTITY typefaces.label "Гарнитура">
+<!ENTITY sizes.label "Размер (пикселы)">
+<!ENTITY proportional.label "Пропорциональный:">
+<!ENTITY proportional.accesskey "П">
+<!ENTITY serif.label "С засечками:">
+<!ENTITY serif.accesskey "С">
+<!ENTITY sans-serif.label "Без засечек:">
+<!ENTITY sans-serif.accesskey "Б">
+<!ENTITY monospace.label "Моноширинный:">
+<!ENTITY monospace.accesskey "М">
+<!ENTITY fantasy.label "Декоративный:">
+<!ENTITY fantasy.accesskey "Д">
+<!ENTITY cursive.label "Курсив:">
+<!ENTITY cursive.accesskey "К">
+<!ENTITY fontsize.units "пикселов">
+<!ENTITY font.langGroup.latin1 "Западноевропейский">
+<!ENTITY font.langGroup.latin2 "Центральноевропейский">
+<!ENTITY font.langGroup.japanese "Японский">
+<!ENTITY font.langGroup.trad-chinese "Традиционный китайский (Тайвань)">
+<!ENTITY font.langGroup.simpl-chinese "Упрощённый китайский">
+<!ENTITY font.langGroup.trad-chinese-hk "Традиционный китайский (Гонконг)">
+<!ENTITY font.langGroup.korean "Корейский">
+<!ENTITY font.langGroup.cyrillic "Кириллица">
+<!ENTITY font.langGroup.baltic "Прибалтийский">
+<!ENTITY font.langGroup.el "Греческий">
+<!ENTITY font.langGroup.turkish "Турецкий">
+<!ENTITY font.langGroup.unicode "Другие языки">
+<!ENTITY font.langGroup.user-def "Определяется пользователем">
+<!ENTITY font.langGroup.thai "Тайский">
+<!ENTITY font.langGroup.hebrew "Иврит">
+<!ENTITY font.langGroup.arabic "Арабский">
+<!ENTITY font.langGroup.devanagari "Деванагари">
+<!ENTITY font.langGroup.tamil "Тамильский">
+<!ENTITY font.langGroup.armenian "Армянский">
+<!ENTITY font.langGroup.bengali "Бенгальский">
+<!ENTITY font.langGroup.canadian "Общеканадский слоговой">
+<!ENTITY font.langGroup.ethiopic "Эфиопский">
+<!ENTITY font.langGroup.georgian "Грузинский">
+<!ENTITY font.langGroup.gujarati "Гуджарати">
+<!ENTITY font.langGroup.gurmukhi "Гурмуки">
+<!ENTITY font.langGroup.khmer "Кхмерский">
+<!ENTITY font.langGroup.malayalam "Малайялам">
+<!ENTITY minSize.label "Наименьший размер шрифта:">
+<!ENTITY minSize.accesskey "Н">
+<!ENTITY minSize.none "Нет">
+<!ENTITY useDefaultFontSerif.label "С засечками">
+<!ENTITY useDefaultFontSansSerif.label "Без засечек">
+<!ENTITY newLanguages.label "Новые группы языков могут быть определены с помощью панели языков.">
+<!ENTITY useDocumentFonts.label "Разрешить сообщениям использовать другие шрифты">
+<!ENTITY useDocumentFonts.accesskey "Р">
+<!ENTITY header2 "Когда для страницы определён другой шрифт">
+<!ENTITY useDefaultFont.label "Использовать мои шрифты, игнорируя указанные для страницы">
+<!ENTITY useDefaultFont.accesskey "о">
+<!ENTITY useDocFontNonDynamic.label "Использовать шрифты, указанные для страницы">
+<!ENTITY useDocFontNonDynamic.accesskey "ь">
+<!ENTITY useDocFontDynamic.label "Использовать все шрифты, указанные для страницы">
+<!ENTITY useDocFontDynamic.accesskey "з">

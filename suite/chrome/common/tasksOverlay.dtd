@@ -1,0 +1,29 @@
+<!ENTITY navigatorCmd.label "Browser">
+<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.commandkey "1">
+<!ENTITY editorCmd.label "Composer">
+<!ENTITY editorCmd.accesskey "c">
+<!ENTITY editorCmd.commandkey "4">
+<!ENTITY securityInfoCmd.label ".Информация о защите">
+<!ENTITY securityInfoCmd.accesskey "И">
+<!ENTITY javaConsoleCmd.label "Консоль Java">
+<!ENTITY javaConsoleCmd.accesskey "К">
+<!ENTITY errorConsoleCmd.label "Консоль ошибок">
+<!ENTITY errorConsoleCmd.accesskey "К">
+<!ENTITY privacyMenu.label "Privacy &amp; Security">
+<!ENTITY privacyMenu.accesskey "p">
+<!ENTITY taskNavigator.tooltip "Браузер">
+<!ENTITY taskComposer.tooltip "Компоновщик">
+<!ENTITY taskBar.tooltip "Строка состояния">
+<!ENTITY webDevelopment.label "Веб-разработка">
+<!ENTITY webDevelopment.accesskey "В">
+<!ENTITY windowMenu.label "Окно">
+<!ENTITY windowMenu.accesskey "О">
+<!ENTITY tasksMenu.label "Инструменты">
+<!ENTITY tasksMenu.accesskey "И">
+<!ENTITY downloadManagerCmd.label "Менеджер загрузок">
+<!ENTITY downloadManagerCmd.accesskey "з">
+<!ENTITY addonsManagerCmd.label "Менеджер дополнений">
+<!ENTITY addonsManagerCmd.accesskey "д">
+<!ENTITY switchProfileCmd.label "Выбрать другой профиль…">
+<!ENTITY switchProfileCmd.accesskey "ы">

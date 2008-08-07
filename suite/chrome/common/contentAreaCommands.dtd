@@ -1,0 +1,111 @@
+<!ENTITY popupWindowRejectCmd.label "Запретить всплывающие окна этого сайта">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label "Разрешить всплывающие окна этого сайта">
+<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY openLinkCmd.label "Открыть в новом окне">
+<!ENTITY openLinkCmd.accesskey "н">
+<!ENTITY openLinkCmdInTab.label "Открыть в новой вкладке">
+<!ENTITY openLinkCmdInTab.accesskey "в">
+<!ENTITY openLinkInWindowCmd.label "Открыть">
+<!ENTITY openLinkInWindowCmd.accesskey "О">
+<!ENTITY openFrameCmd.label "Открыть фрейм в новом окне">
+<!ENTITY openFrameCmd.accesskey "н">
+<!ENTITY openFrameCmdInTab.label "Открыть фрейм в новой вкладке">
+<!ENTITY openFrameCmdInTab.accesskey "О">
+<!ENTITY showOnlyThisFrameCmd.label "Показать только этот фрейм">
+<!ENTITY showOnlyThisFrameCmd.accesskey "П">
+<!ENTITY addToBookmarksCmd.label "Добавить страницу в закладки">
+<!ENTITY addToBookmarksCmd.accesskey "Д">
+<!ENTITY goBackCmd.label "Назад">
+<!ENTITY goBackCmd.accesskey "Н">
+<!ENTITY goForwardCmd.label "Вперёд">
+<!ENTITY goForwardCmd.accesskey "В">
+<!ENTITY goUpCmd.label "Вверх">
+<!ENTITY goUpCmd.accesskey "В">
+<!ENTITY reloadCmd.label "Обновить">
+<!ENTITY reloadCmd.accesskey "О">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY stopCmd.label "Стоп">
+<!ENTITY stopCmd.accesskey "С">
+<!ENTITY reloadFrameCmd.label "Обновить фрейм">
+<!ENTITY reloadFrameCmd.accesskey "ф">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Исходный код выделенного фрагмента">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Исходный код MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "г">
+<!ENTITY viewPageSourceCmd.label "Исходный код страницы">
+<!ENTITY viewPageSourceCmd.accesskey "х">
+<!ENTITY viewFrameSourceCmd.label "Исходный код фрейма">
+<!ENTITY viewFrameSourceCmd.accesskey "р">
+<!ENTITY viewPageInfoCmd.label "Информация о странице">
+<!ENTITY viewPageInfoCmd.accesskey "И">
+<!ENTITY viewFrameInfoCmd.label "Информация о фрейме">
+<!ENTITY viewFrameInfoCmd.accesskey "ц">
+<!ENTITY fitImageCmd.label "Растянуть изображение до размеров окна">
+<!ENTITY fitImageCmd.accesskey "Р">
+<!ENTITY reloadImageCmd.label "Перезагрузить изображение">
+<!ENTITY reloadImageCmd.accesskey "р">
+<!ENTITY viewImageCmd.label "Открыть изображение">
+<!ENTITY viewImageCmd.accesskey "т">
+<!ENTITY viewBGImageCmd.label "Открыть фоновое изображение">
+<!ENTITY viewBGImageCmd.accesskey "р">
+<!ENTITY setWallpaperCmd.label "Поместить на Рабочий стол">
+<!ENTITY setWallpaperCmd.accesskey "с">
+<!ENTITY bookmarkPageCmd.label "Добавить страницу в закладки">
+<!ENTITY bookmarkPageCmd.accesskey "Д">
+<!ENTITY bookmarkLinkCmd.label "Добавить ссылку в закладки">
+<!ENTITY bookmarkLinkCmd.accesskey "з">
+<!ENTITY bookmarkFrameCmd.label "Добавить фрейм в закладки">
+<!ENTITY bookmarkFrameCmd.accesskey "Д">
+<!ENTITY savePageAsCmd.label "Сохранить как…">
+<!ENTITY savePageCmd.label "Сохранить страницу">
+<!ENTITY savePageCmd.accesskey "с">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameAsCmd.label "Сохранить фрейм как…">
+<!ENTITY saveFrameCmd.label "Сохранить фрейм">
+<!ENTITY saveFrameCmd.accesskey "С">
+<!ENTITY saveLinkAsCmd.label "Сохранить объект как…">
+<!ENTITY saveLinkCmd.label "Сохранить объект">
+<!ENTITY saveLinkCmd.accesskey "С">
+<!ENTITY saveImageAsCmd.label "Сохранить изображение как…">
+<!ENTITY saveImageCmd.label "Сохранить изображение">
+<!ENTITY saveImageCmd.accesskey "х">
+<!ENTITY copyCmd.label "Копировать">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY selectAllCmd.label "Выделить всё">
+<!ENTITY selectAllCmd.accesskey "ы">
+<!ENTITY copyLinkCmd.label "Копировать ссылку">
+<!ENTITY copyLinkCmd.accesskey "ы">
+<!ENTITY copyImageCmd.label "Копировать изображение">
+<!ENTITY copyImageCmd.accesskey "и">
+<!ENTITY metadataCmd.label "Свойства">
+<!ENTITY metadataCmd.accesskey "й">
+<!ENTITY copyEmailCmd.label "Копировать адрес электронной почты">
+<!ENTITY copyEmailCmd.accesskey "э">
+<!ENTITY pasteCmd.label "Вставить">
+<!ENTITY pasteCmd.accesskey "с">
+<!ENTITY cutCmd.label "Вырезать">
+<!ENTITY cutCmd.accesskey "В">
+<!ENTITY deleteCmd.label "Удалить">
+<!ENTITY deleteCmd.accesskey "У">
+<!ENTITY undoCmd.label "Отменить">
+<!ENTITY undoCmd.accesskey "О">
+<!ENTITY redoCmd.label "Повторить">
+<!ENTITY redoCmd.accesskey "П">
+<!ENTITY thisFrameMenu.label "В этом фрейме">
+<!ENTITY thisFrameMenu.accesskey "ф">
+<!ENTITY search.accesskey "П">
+<!ENTITY bidiSwitchPageDirectionItem.label "Переключить направление текста на странице">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "н">
+<!ENTITY bidiSwitchTextDirectionItem.label "Переключить направление текста на странице">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "т">
+<!ENTITY spellAddToDictionary.label "Добавить в словарь">
+<!ENTITY spellAddToDictionary.accesskey "в">
+<!ENTITY spellIgnoreWord.label "Пропустить слово">
+<!ENTITY spellIgnoreWord.accesskey "п">
+<!ENTITY spellCheckEnable.label "Проверка правописания">
+<!ENTITY spellCheckEnable.accesskey "р">
+<!ENTITY spellNoSuggestions.label "(предположений не найдено)">
+<!ENTITY spellDictionaries.label "Языки">
+<!ENTITY spellDictionaries.accesskey "Я">
+<!ENTITY spellAddDictionaries.label "Загрузить дополнительные словари…">
+<!ENTITY spellAddDictionaries.accesskey "З">

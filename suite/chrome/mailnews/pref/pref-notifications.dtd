@@ -1,0 +1,21 @@
+<!--null-->
+<!ENTITY pref.notifications.title "Уведомления">
+<!ENTITY notifications.caption "Уведомления">
+<!ENTITY newMessagesArrive.label "При появлении новых сообщений:">
+<!ENTITY playSound.label "Подать звуковой сигнал">
+<!ENTITY playSound.accesskey "П">
+<!ENTITY showAnimatedAlert.label "Показать уведомление">
+<!ENTITY showAnimatedAlert.accesskey "у">
+<!ENTITY showTrayIcon.label "Показать значок в трее">
+<!ENTITY showTrayIcon.accesskey "т">
+<!ENTITY bounceSystemDockIcon.label "Анимация иконки в доке">
+<!ENTITY bounceSystemDockIcon.accesskey "А">
+<!ENTITY preview.label "Демонстрация">
+<!ENTITY preview.accesskey "Д">
+<!ENTITY systemsound.label "Системный звуковой сигнал о приходе почты">
+<!ENTITY systemsound.accesskey "С">
+<!ENTITY customsound.label "Указать .wav файл">
+<!ENTITY customsound.accesskey "У">
+<!ENTITY browse.label "Обзор…">
+<!ENTITY browse.accesskey "О">
+<!ENTITY browse.title "Выбор файла">

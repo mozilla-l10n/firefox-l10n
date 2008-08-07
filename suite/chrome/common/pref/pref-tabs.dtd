@@ -1,0 +1,25 @@
+<!ENTITY tabHeader.label "Использование вкладок">
+<!ENTITY tabDisplay.label "Отображение вкладок">
+<!ENTITY autoHide.label "Скрыть панель вкладок, если открыта только одна вкладка">
+<!ENTITY autoHide.accesskey "к">
+<!ENTITY background.label "Переходить на новые вкладки открываемые из ссылок">
+<!ENTITY background.accesskey "н">
+<!ENTITY loadGroup.label "При открытии группы закладок">
+<!ENTITY loadGroupAppend.label "Открывать новые вкладки">
+<!ENTITY loadGroupAppend.accesskey "О">
+<!ENTITY loadGroupReplace.label "Использовать уже открытые вкладки">
+<!ENTITY loadGroupReplace.accesskey "И">
+<!ENTITY openTabs.label "Открывать вкладки вместо окон при:">
+<!ENTITY newWindow.label "Поведение при открытии ссылок">
+<!ENTITY newWindowDescription.label "При открытии ссылок открывать новое окно в">
+<!ENTITY external.label "Ссылки из других приложений">
+<!ENTITY externalDescription.label "Открывать ссылки из других приложений в">
+<!ENTITY openCurrent.label "Текущей вкладке/окне">
+<!ENTITY newWindowGroupCurrent.accesskey "т">
+<!ENTITY externalGroupCurrent.accesskey "е">
+<!ENTITY openTab.label "Новой вкладке текущего окна">
+<!ENTITY newWindowGroupTab.accesskey "в">
+<!ENTITY externalGroupTab.accesskey "о">
+<!ENTITY openWindow.label "Новом окне">
+<!ENTITY newWindowGroupWindow.accesskey "к">
+<!ENTITY externalGroupWindow.accesskey "м">

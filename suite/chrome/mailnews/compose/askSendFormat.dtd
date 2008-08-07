@@ -1,0 +1,11 @@
+<!ENTITY windowTitle.label "Формат исходящего сообщения">
+<!ENTITY recipient.label "Некоторые из адресатов не могут получать письма в формате HTML.">
+<!ENTITY question.label "Преобразовать сообщение в простой текст или отправить в HTML?">
+<!ENTITY plainTextAndHtml.label "Отправить в виде простого текста и HTML">
+<!ENTITY plainTextAndHtml.accesskey "и">
+<!ENTITY plainTextOnly.label "Отправить только в виде простого текста">
+<!ENTITY plainTextOnly.accesskey "е">
+<!ENTITY htmlOnly.label "Отправить только в HTML">
+<!ENTITY htmlOnly.accesskey "т">
+<!ENTITY send.label "Отправить">
+<!ENTITY send.accesskey "п">

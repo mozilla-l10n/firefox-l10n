@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Сайт">
+<!ENTITY reportProblemType "Тип проблемы">
+<!ENTITY reportDecsription "Описание">
+<!ENTITY reportPlatform "Платформа">
+<!ENTITY reportProduct "Продукт">
+<!ENTITY reportoscpu "ОС">
+<!ENTITY reportGecko "Версия движка Gecko">
+<!ENTITY reportBuildConfig "Конфигурация сборки">
+<!ENTITY reportUseragent "Useragent">
+<!ENTITY reportLanguage "Язык">
+<!ENTITY reportCharset "Кодировка">
+<!ENTITY reportEmail "Адрес электронной почты">
+<!ENTITY error "Описание ошибки">
+<!ENTITY faultCode "Код">
+<!ENTITY faultMessage "Сообщение">

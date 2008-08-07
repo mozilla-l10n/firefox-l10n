@@ -1,0 +1,16 @@
+<!--null-->
+<!ENTITY menuBar.tooltip "Панель меню">
+<!ENTITY modeToolbar.tooltip "Панель режима">
+<!ENTITY entryToolbar.tooltip "Панель элемента Javascript">
+<!ENTITY toolbarsCmd.label "Показать/скрыть">
+<!ENTITY toolbarsCmd.accesskey "П">
+<!ENTITY toolbarMode.label "Режим">
+<!ENTITY toolbarMode.accesskey "ж">
+<!ENTITY toolbarEval.label "Элемент JavaScript">
+<!ENTITY toolbarEval.accesskey "J">
+<!ENTITY all.accesskey "с">
+<!ENTITY errors.accesskey "ш">
+<!ENTITY warnings.accesskey "р">
+<!ENTITY messages.accesskey "б">
+<!ENTITY clear.accesskey "ч">
+<!ENTITY evaluate.accesskey "н">

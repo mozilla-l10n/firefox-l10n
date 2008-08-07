@@ -1,0 +1,14 @@
+<!ENTITY pref.search.title "Поиск в Интернете">
+<!ENTITY legendHeader "Поисковая машина по умолчанию">
+<!ENTITY defaultSearchEngine.label "Искать с помощью:">
+<!ENTITY defaultSearchEngine.accesskey "И">
+<!ENTITY openSidebarSearchPanel.label "Когда доступны результаты поиска, открывать соответствующий раздел боковой панели">
+<!ENTITY openSidebarSearchPanel.accesskey "о">
+<!ENTITY openContextSearchTab.label "Открывать вкладку вместо окна для контекстного меню поиска в Интернете">
+<!ENTITY openContextSearchTab.accesskey "в">
+<!ENTITY searchResults.label "Результаты поиска">
+<!ENTITY sidebarSearchTabPref.label "Настройки раздела поиска боковой панели">
+<!ENTITY searchModeBasic.label "Простой режим">
+<!ENTITY searchModeBasic.accesskey "П">
+<!ENTITY searchModeAdvanced.label "Расширенный режим">
+<!ENTITY searchModeAdvanced.accesskey "Р">

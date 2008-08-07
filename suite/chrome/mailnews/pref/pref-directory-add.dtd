@@ -1,0 +1,35 @@
+<!--null-->
+<!ENTITY newDirectoryTitle.label "Свойства сервера каталогов">
+<!ENTITY directoryName.label "Имя:">
+<!ENTITY directoryName.accesskey "И">
+<!ENTITY directoryHostname.label "Сетевое имя сервера:">
+<!ENTITY directoryHostname.accesskey "С">
+<!ENTITY directoryBaseDN.label "Базовое отличительное имя:">
+<!ENTITY directoryBaseDN.accesskey "Б">
+<!ENTITY findButton.label "Найти">
+<!ENTITY findButton.accesskey "Н">
+<!ENTITY directorySecure.label "Использовать защищённое соединение (SSL)">
+<!ENTITY directorySecure.accesskey "з">
+<!ENTITY directoryLogin.label "Имя пользователя и пароль:">
+<!ENTITY directoryLogin.accesskey "Р">
+<!ENTITY advancedOptionsButton.label "Дополнительные опции">
+<!ENTITY advancedOptionsButton.accesskey "Д">
+<!ENTITY General.tab "Основное">
+<!ENTITY Offline.tab "Автономно">
+<!ENTITY Advanced.tab "Дополнительно">
+<!ENTITY advancedOptionsTitle.label "Дополнительные опции">
+<!ENTITY portNumber.label "Номер порта:">
+<!ENTITY portNumber.accesskey "п">
+<!ENTITY searchFilter.label "Фильтр поиска:">
+<!ENTITY searchFilter.accesskey "Ф">
+<!ENTITY scope.label "Область поиска:">
+<!ENTITY scope.accesskey "О">
+<!ENTITY scopeOneLevel.label "Один уровень">
+<!ENTITY scopeOneLevel.accesskey "у">
+<!ENTITY scopeSubtree.label "Поддерево">
+<!ENTITY scopeSubtree.accesskey "е">
+<!ENTITY return.label "Не возвращать более чем">
+<!ENTITY return.accesskey "в">
+<!ENTITY results.label "результатов">
+<!ENTITY offlineText.label "Вы можете загрузить копию этого каталога для использования в автономном режиме работы.">
+<!ENTITY newDirectoryWidth "38em">

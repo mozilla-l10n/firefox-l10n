@@ -1,0 +1,123 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is calendar views.
+   -
+   - The Initial Developer of the Original Code is
+   - Oracle Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Shaver <shaver@mozilla.org>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Matthew Willis <mattwillis@mac.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!-- Tools menu -->
+<!ENTITY lightning.taskLabel "Lightning">
+
+<!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "Событие…">
+<!ENTITY lightning.menupopup.new.task.label     "Задача…">
+<!ENTITY lightning.menupopup.new.calendar.label "Календарь…">
+
+<!-- Open menu popup in File menu -->
+<!ENTITY lightning.menupopup.open.label               "Открыть">
+<!ENTITY lightning.menupopup.open.accesskey           "О">
+<!ENTITY lightning.menupopup.open.message.label       "Сохраненные сообщения…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "С">
+<!ENTITY lightning.menupopup.open.calendar.label      "Файлы календаря…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "Ф">
+
+<!-- Messenger Sidebar -->
+<!ENTITY lightning.sidebar.invitations.label "Приглашения">
+<!ENTITY lightning.sidebar.invitations.accesskey "П">
+<!ENTITY lightning.calendar.label            "Календарь">
+<!ENTITY lightning.calendar.accesskey        "К">
+<!ENTITY lightning.tasks.label               "Задачи">
+<!ENTITY lightning.tasks.accesskey           "З">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Почта">
+<!ENTITY lightning.toolbar.mail.accesskey     "П">
+<!ENTITY lightning.toolbar.calendar.label     "Календарь">
+<!ENTITY lightning.toolbar.calendar.accesskey "К">
+<!ENTITY lightning.toolbar.task.label         "Задачи">
+<!ENTITY lightning.toolbar.task.accesskey     "З">
+
+<!-- Customize Toolbar Dialog -->
+<!ENTITY customize.toolbar.selector.label    "Панель инструментов:">
+<!ENTITY customize.toolbar.selector.mode     "Панель режимов">
+<!ENTITY customize.toolbar.selector.mail     "Панель почты">
+<!ENTITY customize.toolbar.selector.calendar "Панель календаря">
+<!ENTITY customize.toolbar.selector.task     "Панель задач">
+<!ENTITY customize.toolbar.location.label    "Расположение:">
+<!ENTITY customize.toolbar.location.top      "Вверху">
+<!ENTITY customize.toolbar.location.bottom   "Внизу">
+
+<!-- Messenger Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "День">
+<!ENTITY lightning.toolbar.day.accesskey             "Д">
+<!ENTITY lightning.toolbar.week.label                "Неделя">
+<!ENTITY lightning.toolbar.week.accesskey            "Н">
+<!ENTITY lightning.toolbar.multiweek.label           "По неделям">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "П">
+<!ENTITY lightning.toolbar.month.label               "Месяц">
+<!ENTITY lightning.toolbar.month.accesskey           "М">
+
+<!-- properties dialog, calendar creation wizard -->
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Показывать события в Мероприятиях">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Показывать задачи в Мероприятиях и в режиме Задачи">
+<!ENTITY lightning.calendarproperties.email.label               "Эл. Почта:">
+
+<!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.description "Это письмо содержит приглашение на событие.">
+
+<!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
+
+<!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Создать новый календарь">
+
+<!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Показывать месяц">
+<!ENTITY todaypane.showMinimonth.accesskey "о">
+<!ENTITY todaypane.showMiniday.label "Показывать день">
+<!ENTITY todaypane.showMiniday.accesskey  "к">
+<!ENTITY todaypane.showNone.label "Ничего не показывать">
+<!ENTITY todaypane.showNone.accesskey "Н">
+<!ENTITY todaypane.showTodayPane.label "Показывать Мероприятия">
+<!ENTITY todaypane.showTodayPane.accesskey "М">

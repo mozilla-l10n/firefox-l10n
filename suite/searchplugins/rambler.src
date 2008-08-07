@@ -1,0 +1,48 @@
+# Mozilla/Rambler plugin
+# contact: search.support@rambler-co.ru
+# $Revision: 1.1 $
+
+<search 
+	name="Rambler"
+	description="Rambler Search"
+	method="GET"
+	action="http://search.rambler.ru/srch"
+	searchForm="http://r0.ru/"
+        update="http://search.rambler.ru/mozilla/rambler.src"
+        updateIcon="http://search.rambler.ru/mozilla/rambler.png"
+        updateCheckDays="1" 
+        queryEncoding="utf-8"
+	queryCharset="utf-8"
+>
+
+<input name="words" user>
+<input name="utf" value="1">
+<input name="sourceid" value="mozilla-search">
+#<inputnext name="start" factor="15">
+#<inputprev name="start" factor="15">
+
+<interpret 
+	browserResultType="result" 
+	charset="windows-1251"
+	resultListStart="<ol " 
+	resultListEnd="</ol>"
+	resultItemStart="<li class=fsite>" 
+	resultItemEnd="<br>"
+>
+
+<interpret
+    browserResultType="result"
+    resultListStart="<div class=pghrefs>"
+    resultListEnd="</div>"
+    resultItemStart="10</a> &nbsp;"
+    resultItemEnd="</div>"
+>
+
+</search>
+
+<browser
+        update="http://search.rambler.ru/mozilla/rambler.src"
+        updateIcon="http://search.rambler.ru/mozilla/rambler.png"
+        updateCheckDays="1"
+>
+

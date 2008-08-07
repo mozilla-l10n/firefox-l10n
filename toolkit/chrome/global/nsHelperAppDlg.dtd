@@ -1,0 +1,22 @@
+<!ENTITY caption.label "Открытие #1">
+<!ENTITY intro.label "Выбран файл «#3» типа #2 (#1), и #4 не знает, как его обрабатывать. Файл расположен по адресу:">
+<!ENTITY intro.noDesc.label "Выбран файл «#3» типа #2, и #4 не знает, как его обрабатывать. Файл расположен по адресу:">
+<!ENTITY intro.attachment.label "Сайт предложил обрабатывать «#3» как вложение. Его тип — #2 (#1), он расположен по адресу:">
+<!ENTITY intro.attachment.noDesc.label "Сайт предложил обрабатывать «#3» как вложение. Его тип — #2, он расположен по адресу:">
+<!ENTITY intro.sniffed.label "#4 определил, что файл «#3» вероятно является файлом типа #2 (#1). Файл расположен по адресу:">
+<!ENTITY intro.sniffed.noDesc.label "#4 определил, что файл «#3» вероятно является файлом типа #2. Файл расположен по адресу:">
+<!ENTITY prompt.label "Как #1 следует обработать этот файл?">
+<!ENTITY alwaysHandle.label "Выполнять для всех таких файлов автоматически">
+<!ENTITY alwaysHandle.accesskey "ы">
+<!ENTITY saveToDisk.label "Сохранить файл на диск">
+<!ENTITY saveToDisk.accesskey "С">
+<!ENTITY useSystemDefault.label "Открыть с помощью приложения по умолчанию (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Открыть с помощью приложения по умолчанию">
+<!ENTITY useSystemDefault.accesskey "О">
+<!ENTITY openUsing.label "Открыть с помощью">
+<!ENTITY openUsing.accesskey "О">
+<!ENTITY chooseApp.label "Выбрать…">
+<!ENTITY chooseApp.accesskey "б">
+<!ENTITY chooseAppFilePickerTitle "Выбор приложения">
+<!ENTITY badApp "Выбранное вами приложение («#1») не найдено. Проверьте правильность написания имени файла или выберите другое приложение.">
+<!ENTITY badApp.title "Приложение не найдено">

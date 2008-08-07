@@ -1,0 +1,19 @@
+<!ENTITY sanitizeDialog.title "Удаление личных данных">
+<!ENTITY sanitizeItems.label "Удалить следующие данные:">
+<!ENTITY itemHistory.label "Журнал посещений">
+<!ENTITY itemHistory.accesskey "п">
+<!ENTITY itemDownloads.label "Журнал загрузок">
+<!ENTITY itemDownloads.accesskey "Ж">
+<!ENTITY itemFormSearchHistory.label "Сохранённые данные форм и историю поиска">
+<!ENTITY itemFormSearchHistory.accesskey "ф">
+<!ENTITY itemCache.label "Кэш">
+<!ENTITY itemCache.accesskey "э">
+<!ENTITY itemCookies.label "Cookies">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemOfflineApps.label "Данные автономных веб-сайтов">
+<!ENTITY itemOfflineApps.accesskey "н">
+<!ENTITY itemPasswords.label "Сохранённые пароли">
+<!ENTITY itemPasswords.accesskey "р">
+<!ENTITY itemSessions.label "Сессии аутентификации">
+<!ENTITY itemSessions.accesskey "с">
+<!ENTITY sanitizeButton.label "Удалить сейчас">

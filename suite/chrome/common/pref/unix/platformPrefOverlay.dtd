@@ -1,0 +1,5 @@
+<!ENTITY prefWindow.size "width: 75em; height: 45em;">
+<!ENTITY urlbar.label "нажатии Control+Enter в строке адреса">
+<!ENTITY urlbar.accesskey "а">
+<!ENTITY middleClick.label "нажатии средней кнопки мыши, нажатии левой кнопки мыши с удержанием Control или нажатии Control+Enter на ссылках веб-страниц">
+<!ENTITY middleClick.accesskey "с">

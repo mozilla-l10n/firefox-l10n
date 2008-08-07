@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Адреса электронной почты связанные с данной учётной записью">
+<!ENTITY identitiesListDesc.label "Поддержка дополнительных адресов электронной почты">
+<!ENTITY identitiesListAdd.label "Добавить">
+<!ENTITY identitiesListAdd.accesskey "Д">
+<!ENTITY identitiesListEdit.label "Изменить…">
+<!ENTITY identitiesListEdit.accesskey "И">
+<!ENTITY identitiesListDelete.label "Удалить">
+<!ENTITY identitiesListDelete.accesskey "У">

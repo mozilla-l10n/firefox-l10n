@@ -1,0 +1,20 @@
+<!ENTITY printButton.label "Печать">
+<!ENTITY printDialog.title "Печать">
+<!ENTITY fpDialog.title "Сохранить файл">
+<!ENTITY fileCheck.label "Печать в файл">
+<!ENTITY propertiesButton.label "Свойства…">
+<!ENTITY descText.label "Описание принтера:">
+<!ENTITY printer.label "Принтер">
+<!ENTITY printerInput.label "Принтер:">
+<!ENTITY printrangeGroup.label "Диапазон печати">
+<!ENTITY allpagesRadio.label "Все страницы">
+<!ENTITY rangeRadio.label "Страницы">
+<!ENTITY frompageInput.label "с">
+<!ENTITY topageInput.label "по">
+<!ENTITY selectionRadio.label "Выделенный фрагмент">
+<!ENTITY copies.label "Копии">
+<!ENTITY numCopies.label "Число копий:">
+<!ENTITY printframeGroup.label "Печать фреймов">
+<!ENTITY aslaidoutRadio.label "Отображаемых на экране">
+<!ENTITY selectedframeRadio.label "Выделенного фрейма">
+<!ENTITY eachframesepRadio.label "Всех фреймов по отдельности">

@@ -1,0 +1,189 @@
+<!ENTITY places.library.title "Собранное">
+<!ENTITY places.library.width "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label "Управление">
+<!ENTITY organize.accesskey "п">
+<!ENTITY file.accesskey "Ф">
+<!ENTITY file.close.label "Закрыть">
+<!ENTITY file.close.accesskey "З">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "Правка">
+<!ENTITY edit.accesskey "П">
+<!ENTITY views.label "Вид">
+<!ENTITY views.accesskey "и">
+<!ENTITY view.toolbar.label "Панель инструментов">
+<!ENTITY view.toolbar.accesskey "н">
+<!ENTITY view.columns.label "Показать колонки">
+<!ENTITY view.columns.accesskey "к">
+<!ENTITY view.sort.label "Сортировка">
+<!ENTITY view.sort.accesskey "р">
+<!ENTITY view.unsorted.label "Без сортировки">
+<!ENTITY view.unsorted.accesskey "е">
+<!ENTITY view.sortAscending.label "Сортировка по алфавиту">
+<!ENTITY view.sortAscending.accesskey "С">
+<!ENTITY view.sortDescending.label "В обратном порядке">
+<!ENTITY view.sortDescending.accesskey "о">
+<!ENTITY help.usingBookmarks.label "Использование закладок">
+<!ENTITY help.usingBookmarks.accesskey "з">
+<!ENTITY help.usingHistory.label "Использование журнала">
+<!ENTITY help.usingHistory.accesskey "ж">
+<!ENTITY help.advancedTips.label "Советы опытным пользователям">
+<!ENTITY help.advancedTips.accesskey "С">
+<!ENTITY cmd.findInBookmarks.label "Найти в Закладках…">
+<!ENTITY cmd.findInBookmarks.accesskey "й">
+<!ENTITY cmd.findCurrent.label "Найти в текущей коллекции…">
+<!ENTITY cmd.findCurrent.accesskey "а">
+<!ENTITY cmd.exportHTML.label "Экспорт в HTML…">
+<!ENTITY cmd.exportHTML.accesskey "Э">
+<!ENTITY cmd.importHTML.label "Импорт из HTML…">
+<!ENTITY cmd.importHTML.accesskey "И">
+<!ENTITY cmd.backup.label "Резервное копирование…">
+<!ENTITY cmd.backup.accesskey "р">
+<!ENTITY cmd.restore2.label "Восстановить">
+<!ENTITY cmd.restore2.accesskey "с">
+<!ENTITY cmd.restoreFromFile.label "Выбрать файл…">
+<!ENTITY cmd.restoreFromFile.accesskey "б">
+<!ENTITY cmd.select_all.label "Выделить всё">
+<!ENTITY cmd.select_all.accesskey "ы">
+<!ENTITY cmd.select_all.key "a">
+<!ENTITY cmd.edit_cut.label "Вырезать">
+<!ENTITY cmd.edit_cut.accesskey "В">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "Копировать">
+<!ENTITY cmd.edit_copy.accesskey "К">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "Вставить">
+<!ENTITY cmd.edit_paste.accesskey "с">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "Удалить">
+<!ENTITY cmd.edit_delete.accesskey "У">
+<!ENTITY cmd.edit_undo.label "Отменить">
+<!ENTITY cmd.edit_undo.accesskey "О">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "Повторить">
+<!ENTITY cmd.edit_redo.accesskey "П">
+<!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.open.label "Открыть">
+<!ENTITY cmd.open.accesskey "О">
+<!ENTITY cmd.open_window.label "Открыть в новом окне">
+<!ENTITY cmd.open_window.accesskey "н">
+<!ENTITY cmd.open_tab.label "Открыть в новой вкладке">
+<!ENTITY cmd.open_tab.accesskey "в">
+<!ENTITY cmd.open_all_in_tabs.label "Открыть всё во вкладках">
+<!ENTITY cmd.open_all_in_tabs.accesskey "в">
+<!ENTITY cmd.properties.label "Свойства">
+<!ENTITY cmd.properties.accesskey "в">
+<!ENTITY cmd.show_info.key "i">
+<!ENTITY cmd.rename.label "Переименовать">
+<!ENTITY cmd.rename.accesskey "П">
+<!ENTITY cmd.sortby_name.label "Сортировка по имени">
+<!ENTITY cmd.sortby_name.accesskey "С">
+<!ENTITY cmd.context_sortby_name.accesskey "р">
+<!ENTITY cmd.new_bookmark.label "Новая закладка…">
+<!ENTITY cmd.new_bookmark.accesskey "з">
+<!ENTITY cmd.new_livemark.label "Новая закладка на ленту новостей…">
+<!ENTITY cmd.new_livemark.accesskey "л">
+<!ENTITY cmd.new_folder.label "Новая папка…">
+<!ENTITY cmd.new_folder.accesskey "а">
+<!ENTITY cmd.context_new_folder.accesskey "П">
+<!ENTITY cmd.new_separator.label "Новый разделитель">
+<!ENTITY cmd.new_separator.accesskey "р">
+<!ENTITY cmd.reloadLivebookmark.label "Обновить закладку на ленту новостей">
+<!ENTITY cmd.reloadLivebookmark.accesskey "н">
+<!ENTITY cmd.reloadMicrosummary.label "Обновить текущий заголовок">
+<!ENTITY cmd.reloadMicrosummary.accesskey "б">
+<!ENTITY cmd.groupby_site.label "Группировать по сайту">
+<!ENTITY cmd.groupby_site.accesskey "с">
+<!ENTITY cmd.groupby_page.label "Группировать по странице">
+<!ENTITY cmd.groupby_page.accesskey "т">
+<!ENTITY cmd.groupby_feed.label "Группировать по подписке">
+<!ENTITY cmd.groupby_feed.accesskey "п">
+<!ENTITY cmd.groupby_post.label "Группировать по посту">
+<!ENTITY cmd.groupby_post.accesskey "о">
+<!ENTITY cmd.moveBookmarks.label "Переместить…">
+<!ENTITY cmd.moveBookmarks.accesskey "м">
+<!ENTITY col.name.label "Имя">
+<!ENTITY col.tags.label "Метки">
+<!ENTITY col.url.label "Адрес">
+<!ENTITY col.lastvisit.label "Дата посещения">
+<!ENTITY col.visitcount.label "Кол-во посещений">
+<!ENTITY col.keyword.label "Краткое имя">
+<!ENTITY col.description.label "Описание">
+<!ENTITY col.dateadded.label "Добавлена">
+<!ENTITY col.lastmodified.label "Посл. изменение">
+<!ENTITY search.label "Поиск:">
+<!ENTITY search.accesskey "о">
+<!ENTITY search.collection.label "Только текущая коллекция">
+<!ENTITY search.collection.accesskey "л">
+<!ENTITY search.allBookmarks.label "Все закладки">
+<!ENTITY search.allBookmarks.accesskey "с">
+<!ENTITY search.scopeFolder.label "Выбранная папка">
+<!ENTITY search.scopeFolder.accesskey "б">
+<!ENTITY search.scopeAll.label "Все закладки">
+<!ENTITY search.scopeAll.accesskey "с">
+<!ENTITY search.scopeMenu.label "Меню закладок">
+<!ENTITY search.scopeMenu.accesskey "е">
+<!ENTITY search.scopeToolbar.label "Панель закладок">
+<!ENTITY search.scopeToolbar.accesskey "н">
+<!ENTITY search.scopeDownloads.label "Загрузки">
+<!ENTITY search.scopeDownloads.accesskey "г">
+<!ENTITY search.scopeHistory.label "Журнал">
+<!ENTITY search.scopeHistory.accesskey "у">
+<!ENTITY search.scopeBarExpanderDown.tooltip "Показать построитель поиска">
+<!ENTITY search.scopeBarExpanderUp.tooltip "Скрыть построитель поиска">
+<!ENTITY saveSearch.label "Сохранить">
+<!ENTITY saveSearch.accesskey "С">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "Искать только в закладках">
+<!ENTITY advancedSearch.match.label "Совпадает">
+<!ENTITY advancedSearch.all.label "всем из следующих">
+<!ENTITY advancedSearch.any.label "любому из следующих">
+<!ENTITY advancedSearch.rules.label " правил:">
+<!ENTITY advancedSearch.subj_keyword.label "Содержащая текст">
+<!ENTITY advancedSearch.subj_visited.label "Посещёна">
+<!ENTITY advancedSearch.subj_location.label "Адрес">
+<!ENTITY advancedSearch.location_startswith.label "начинается с">
+<!ENTITY advancedSearch.location_is.label "совпадает с">
+<!ENTITY advancedSearch.location_onsite.label "расположен на сайте">
+<!ENTITY advancedSearch.time_is.label "на">
+<!ENTITY advancedSearch.time_before.label "до">
+<!ENTITY advancedSearch.time_after.label "после">
+<!ENTITY advancedSearch.time_inlast.label "в последние">
+<!ENTITY advancedSearch.last_days.label "дней">
+<!ENTITY advancedSearch.last_weeks.label "недель">
+<!ENTITY advancedSearch.last_months.label "месяцев">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "Группировать по:">
+<!ENTITY advancedSearch.groupby_host.label "узлу">
+<!ENTITY advancedSearch.groupby_domain.label "домену">
+<!ENTITY advancedSearch.groupby_folder.label "папке">
+<!ENTITY advancedSearch.sortby.label "Сортировка по:">
+<!ENTITY advancedSearch.sortby_title.label "заголовку">
+<!ENTITY advancedSearch.sortby_date.label "дате">
+<!ENTITY advancedSearch.sortby_visit.label "количеству посещений">
+<!ENTITY advancedSearch.sortby_url.label "ссылке (URL)">
+<!ENTITY advancedSearch.sortby_asc.label "возрастанию">
+<!ENTITY advancedSearch.sortby_desc.label "убыванию">
+<!ENTITY advancedSearch.max.label "Макс. количество результатов:">
+<!ENTITY cmd.find.key "f">
+<!ENTITY feed.subscribe.label "Лента новостей">
+<!ENTITY feed.subscribe.tooltip "Подписаться">
+<!ENTITY view.detailsMacOSX.label "Список">
+<!ENTITY view.details.label "Подробности">
+<!ENTITY view.details.accesskey "д">
+<!ENTITY view.addons.label "Загрузить расширения для меню «Вид»">
+<!ENTITY maintenance.label "Импорт и резервирование">
+<!ENTITY maintenance.accesskey "м">
+<!ENTITY backCmd.label "Назад">
+<!ENTITY backCmd.accesskey "з">
+<!ENTITY backButton.tooltip "Перейти назад">
+<!ENTITY forwardCmd.label "Вперёд">
+<!ENTITY forwardCmd.accesskey "п">
+<!ENTITY forwardButton.tooltip "Перейти вперёд">
+<!ENTITY detailsPane.more.label "Больше">
+<!ENTITY detailsPane.more.accesskey "ш">
+<!ENTITY detailsPane.less.label "Меньше">
+<!ENTITY detailsPane.less.accesskey "ш">
+<!ENTITY detailsPane.noPreviewAvailable.label "Предпросмотр">
+<!ENTITY detailsPane.selectAnItemText.description "Выберите элемент для просмотра и редактирования его свойств">

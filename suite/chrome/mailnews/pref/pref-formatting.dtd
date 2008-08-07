@@ -1,0 +1,35 @@
+<!--null-->
+<!ENTITY pref.formatting.title "Формат отправки">
+<!ENTITY sendMail.label "Формат отправки">
+<!ENTITY sendMaildesc.label "При отправке сообщений в формате HTML, когда указано, что один или более адресатов не могут получать почту в формате HTML:">
+<!ENTITY askMe.label "Спрашивать (почтовый клиент спросит, какой формат использовать)">
+<!ENTITY askMe.accesskey "С">
+<!ENTITY convertPlain.label "Преобразовать сообщение в текстовое (часть форматирования может быть утеряна)">
+<!ENTITY convertPlain.accesskey "П">
+<!ENTITY sendHTML.label "Отправлять сообщения в HTML (некоторые почтовые программы не смогут корректно отобразить их)">
+<!ENTITY sendHTML.accesskey "О">
+<!ENTITY sendBoth.label "Отправлять сообщения в текстовом и в HTML-форматах (больший размер письма)">
+<!ENTITY sendBoth.accesskey "т">
+<!ENTITY override.label "Вы можете аннулировать эти настройки для отдельных сообщений в меню «Настройки» в окне составления сообщений.">
+<!ENTITY receiveHTML.label "Если известно, что определённый адресат может получать сообщения в HTML, уберите опцию «Отправлять почту в текстовом формате (без HTML)» в карточке этого адресата в адресной книге.">
+<!ENTITY domain.title "Домены, (не) поддерживающие HTML">
+<!ENTITY domaindesc.label "При отправке сообщения на адрес, доменная часть которого находится в одном из списков ниже, почтовый клиент автоматически отправляет это сообщение в нужном формате (HTML или обычный текст).">
+<!ENTITY HTMLdomaintitle.label "Поддержка HTML">
+<!ENTITY HTMLdomaintitle.accesskey "П">
+<!ENTITY PlainTexttitle.label "Поддержка только текста">
+<!ENTITY PlainTexttitle.accesskey "т">
+<!ENTITY AddButton.label "Добавить…">
+<!ENTITY AddHtmlDomain.accesskey "Д">
+<!ENTITY AddPlainText.accesskey "б">
+<!ENTITY DeleteButton.label "Удалить">
+<!ENTITY DeleteHtmlDomain.accesskey "У">
+<!ENTITY DeletePlainText.accesskey "л">
+<!ENTITY add.htmltitle "Добавить имя в список «Поддержка HTML»">
+<!ENTITY add.htmldomain "Имя домена:">
+<!ENTITY add.htmldomain.accesskey "И">
+<!ENTITY add.plaintexttitle "Добавить имя в список «Поддержка только текста»">
+<!ENTITY add.plaintextdomain "Имя домена:">
+<!ENTITY add.plaintext.accesskey "И">
+<!ENTITY domainnameError.title "Ошибка">
+<!ENTITY duplicationError.label "Имя домена @string@ уже находится в этом списке.">
+<!ENTITY dualEntryError.label "Один и тот же домен не может находиться в обоих списках. Имя домена @string@ уже находится в одном из списков.">

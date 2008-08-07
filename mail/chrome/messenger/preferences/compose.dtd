@@ -1,0 +1,58 @@
+<!ENTITY itemGeneral.label "Основные">
+<!ENTITY itemAutoComplete.label "Адресация">
+<!ENTITY itemSpellCheck.label "Орфография">
+<!ENTITY itemSendFormat.label "Формат исходящих сообщений">
+<!ENTITY forwardReply.label "Пересылка сообщений">
+<!ENTITY forwardMsg.label "Пересылать сообщения:">
+<!ENTITY forwardMsg.accesskey "с">
+<!ENTITY inline.label "Внутри сообщения">
+<!ENTITY inline.accesskey "н">
+<!ENTITY asAttachment.label "Как вложение">
+<!ENTITY asAttachment.accesskey "л">
+<!ENTITY addExtension.label "добавлять расширение к имени файла">
+<!ENTITY addExtension.accesskey "ф">
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "Шрифт:">
+<!ENTITY font.accesskey "р">
+<!ENTITY size.label "Размер:">
+<!ENTITY size.accesskey "м">
+<!ENTITY fontColor.label "Цвет текста:">
+<!ENTITY fontColor.accesskey "т">
+<!ENTITY bgColor.label "Цвет фона:">
+<!ENTITY bgColor.accesskey "ф">
+<!ENTITY restoreHTMLDefaults.label "Восстановить значения по умолчанию">
+<!ENTITY restoreHTMLDefaults.accesskey "м">
+<!ENTITY sendingMessagesHeader.label "Составление сообщений">
+<!ENTITY spellCheck.label "Проверять орфографию перед отправкой сообщения">
+<!ENTITY spellCheck.accesskey "ф">
+<!ENTITY spellCheckInline.label "Проверять орфографию при наборе текста">
+<!ENTITY spellCheckInline1.accesskey "н">
+<!ENTITY languagePopup.label "Язык:">
+<!ENTITY languagePopup.accessKey "з">
+<!ENTITY downloadDictionaries.label "Загрузить дополнительные словари">
+<!ENTITY useMIME.label "Для сообщений, содержащих 8-битные символы, использовать MIME-кодирование «quoted printable»">
+<!ENTITY useMIME.accesskey "б">
+<!ENTITY warnOnSendAccelKey.label "Запрашивать подтверждение при использовании клавиатурных сокращений для отправки сообщений">
+<!ENTITY warnOnSendAccelKey.accesskey "п">
+<!ENTITY autoSave.label "Автоматически сохранять сообщение каждые">
+<!ENTITY autoSave.accesskey "х">
+<!ENTITY autoSaveEnd.label "минут">
+<!ENTITY wrapOutMsg.label "Длина строки в простых текстовых сообщениях:">
+<!ENTITY wrapOutMsg.accesskey "л">
+<!ENTITY char.label "символов">
+<!ENTITY emailCollectionPicker.label "Автоматически добавлять адреса из исходящих писем в адресную книгу:">
+<!ENTITY emailCollectionPicker.accesskey "в">
+<!ENTITY addressingTitle.label "Автодополнение адресов">
+<!ENTITY autocompleteText.label "При вводе адреса искать подходящие почтовые адреса в:">
+<!ENTITY addressingEnable.label "Локальных адресных книгах">
+<!ENTITY addressingEnable.accesskey "к">
+<!ENTITY directories.label "Сервере каталогов:">
+<!ENTITY directories.accesskey "к">
+<!ENTITY editDirectories.label "Изменить каталоги…">
+<!ENTITY editDirectories.accesskey "з">
+<!ENTITY matchText.label "Если есть совпадение в локальных адресных книгах:">
+<!ENTITY skipDirectory.label "Не искать в каталоге">
+<!ENTITY sendOptionsCaption.label "Параметры отправки и HTML">
+<!ENTITY sendOptionsDescription.label "Текстовый формат:">
+<!ENTITY sendOptions.label "Параметры отправки…">
+<!ENTITY sendOptions.accesskey "т">

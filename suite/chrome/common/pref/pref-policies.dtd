@@ -1,0 +1,13 @@
+<!ENTITY pref.policies.title "Политика защиты">
+<!ENTITY zoneIntro.label "&brandShortName; позволяет создавать разные режимы, определяющие возможности сайтов по использованию таких функций, как например, скрипты и Java.">
+<!ENTITY policies.label "Режимы:">
+<!ENTITY default.label "По умолчанию">
+<!ENTITY allWebsites.label "Всех сайтов">
+<!ENTITY trusted.label "Надежных сайтов">
+<!ENTITY annoyances.label "Раздражающих объектов">
+<!ENTITY restricted.label "Сайтов с ограниченной надежностью">
+<!ENTITY addSite.label "Добавить…">
+<!ENTITY addSite.accesskey "Д">
+<!ENTITY settings.label "Параметры для:">
+<!ENTITY settings.accesskey "П">
+<!ENTITY description.label "Описание режима:">

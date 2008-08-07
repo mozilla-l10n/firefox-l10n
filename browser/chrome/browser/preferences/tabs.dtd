@@ -1,0 +1,13 @@
+<!ENTITY newPagesIn.label "Открывать новые страницы в:">
+<!ENTITY inNewWindow.label "новом окне">
+<!ENTITY inNewWindow.accesskey "о">
+<!ENTITY inNewTab.label "новой вкладке">
+<!ENTITY inNewTab.accesskey "в">
+<!ENTITY warnCloseMultipleTabs.label "Предупреждать при закрытии нескольких вкладок">
+<!ENTITY warnCloseMultipleTabs.accesskey "з">
+<!ENTITY warnOpenManyTabs.label "Предупреждать при открытии большого количества вкладок, так как это может привести к замедлению работы &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "о">
+<!ENTITY showTabBar.label "Всегда показывать панель вкладок">
+<!ENTITY showTabBar.accesskey "п">
+<!ENTITY switchToNewTabs.label "Переключаться на открываемую вкладку">
+<!ENTITY switchToNewTabs.accesskey "к">

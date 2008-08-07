@@ -1,0 +1,15 @@
+<!ENTITY windowtitle.label "Менеджер паролей">
+<!ENTITY windowalttitle.label "Менеджер форм: Сайты">
+<!ENTITY tab.signonsstored.label "Сохранённые пароли">
+<!ENTITY tab.signonsnotstored.label "Сервера, чьи пароли никогда не будут сохраняться">
+<!ENTITY tab.nopreview.label "Формы, никогда не просматриваемые предварительно">
+<!ENTITY tab.nocapture.label "Формы, данные для которых никогда не будут сохранятся">
+<!ENTITY spiel.signonsstored.label "Менеджер паролей сохранил регистрационную информацию для следующих серверов:">
+<!ENTITY spiel.signonsnotstored.label "Менеджер паролей никогда не будет сохранять регистрационную информацию для следующих серверов:">
+<!ENTITY spiel.nopreview.label "Менеджер форм не будет использовать предварительный просмотр форм этих сайтов перед автозаполнением:">
+<!ENTITY spiel.nocapture.label "Менеджер форм никогда не попросит сохранить данные форм со следующих сайтов:">
+<!ENTITY treehead.site.label "Сервер">
+<!ENTITY treehead.username.label "Имя пользователя">
+<!ENTITY treehead.password.label "Пароль">
+<!ENTITY remove.label "Удалить">
+<!ENTITY removeall.label "Удалить всё">

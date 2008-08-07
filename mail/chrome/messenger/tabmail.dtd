@@ -1,0 +1,12 @@
+<!ENTITY untitledTab "(Без имени)">
+<!ENTITY newTab.label "Новая вкладка">
+<!ENTITY newTab.accesskey "о">
+<!ENTITY closeTab.label "Закрыть вкладку">
+<!ENTITY closeTab.accesskey "а">
+<!ENTITY closeOtherTabs.accesskey "к">
+<!ENTITY closeOtherTabs.label "Закрыть другие вкладки">
+<!ENTITY reloadAllTabs.label "Обновить все вкладки">
+<!ENTITY reloadAllTabs.accesskey "н">
+<!ENTITY reloadTab.label "Обновить вкладку">
+<!ENTITY reloadTab.accesskey "в">
+<!ENTITY listAllTabs.label "Список всех вкладок">

@@ -1,0 +1,12 @@
+<!ENTITY enter.label "Введите адрес в Интернете (URL) или укажите файл на диске, который хотите открыть:">
+<!ENTITY enter.accesskey "В">
+<!ENTITY chooseFile.label "Выбрать файл…">
+<!ENTITY chooseFile.accesskey "ы">
+<!ENTITY newWindow.label "В новом окне браузера">
+<!ENTITY newTab.label "В новой вкладке браузера">
+<!ENTITY topWindow.label "В этом окне браузера">
+<!ENTITY editNewWindow.label "В новом окне Компоновщика">
+<!ENTITY open.label "Открыть">
+<!ENTITY caption.label "Открытие веб-адреса">
+<!ENTITY openWhere.label "Открыть в:">
+<!ENTITY openWhere.accesskey "О">

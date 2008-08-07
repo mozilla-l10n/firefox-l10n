@@ -1,0 +1,24 @@
+<!ENTITY window.width "36em">
+<!ENTITY cookiesonsystem.label "На вашем компьютере сохранены следующие cookies:">
+<!ENTITY cookiename.label "Имя cookie">
+<!ENTITY cookiedomain.label "Сайт">
+<!ENTITY button.removecookie.label "Удалить cookie">
+<!ENTITY button.removecookie.accesskey "У">
+<!ENTITY button.removeallcookies.label "Удалить все cookies">
+<!ENTITY button.removeallcookies.accesskey "в">
+<!ENTITY props.name.label "Имя:">
+<!ENTITY props.value.label "Содержимое:">
+<!ENTITY props.domain.label "Узел:">
+<!ENTITY props.path.label "Путь:">
+<!ENTITY props.secure.label "Посылать при:">
+<!ENTITY props.expires.label "Срок действия истекает:">
+<!ENTITY window.title "Cookies">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.label "Поиск:">
+<!ENTITY filter.accesskey "П">
+<!ENTITY clear.label "Очистить">
+<!ENTITY clear.accesskey "ч">
+<!ENTITY button.close.label "Закрыть">
+<!ENTITY button.close.accesskey "З">

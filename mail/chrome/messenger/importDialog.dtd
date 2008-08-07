@@ -1,0 +1,26 @@
+<!--null-->
+<!ENTITY importDialog.windowTitle "Импорт">
+<!ENTITY importDialog.allTitle "Импорт всего">
+<!ENTITY importDialog.mailTitle "Почту">
+<!ENTITY importDialog.addressbookTitle "Адресные книги">
+<!ENTITY importDialog.settingsTitle "Настройки">
+<!ENTITY importDialog.filtersTitle "Фильтры">
+<!ENTITY window.width "50em">
+<!ENTITY window.macWidth "55em">
+<!ENTITY importTitle.label "Мастер импорта &brandShortName;">
+<!ENTITY importShortDesc.label "Импорт почты, адресных книг, настроек и фильтров из других программ">
+<!ENTITY importDescription1.label "Мастер импортирует почтовые сообщения, содержимое адресных книг, настройки и/или фильтры из других почтовых программ и адресных книг в &brandShortName;.">
+<!ENTITY importDescription2.label "Импортированная однажды, эта информация будет доступна для вас из &brandShortName;.">
+<!ENTITY selectDescription.label "Выберите программу, из которой хотите произвести импорт:">
+<!ENTITY back.label "&lt; Назад">
+<!ENTITY forward.label "Далее &gt;">
+<!ENTITY finish.label "Готово">
+<!ENTITY cancel.label "Отмена">
+<!ENTITY select.label "или выберите то, что хотите импортировать:">
+<!ENTITY title.label "Заголовок">
+<!ENTITY processing.label "Идёт импорт…">
+<!ENTITY FieldDiscInputText1.label "В Netscape Communicator 4.x для каждой карточки можно задать только один адрес электронной почты, а в &brandShortName; — два (домашний и рабочий).">
+<!ENTITY FieldDiscInputText2.label "Выберите категорию в которой вы хотите хранить импортированные адреса электронной почты:">
+<!ENTITY FieldDiscWarning.label "Эта категория будет использоваться для всех адресов выбранной адресной книги: ">
+<!ENTITY importDialog.homeTitle "Домашний">
+<!ENTITY importDialog.workTitle "Рабочий">

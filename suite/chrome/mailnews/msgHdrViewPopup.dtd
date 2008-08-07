@@ -1,0 +1,14 @@
+<!--null-->
+<!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
+<!ENTITY AddToAddressBook.accesskey "Д">
+<!ENTITY SendMailTo.label "Составить письмо для…">
+<!ENTITY SendMailTo.accesskey "а">
+<!ENTITY CopyEmailAddress.label "Копировать адрес электронной почты">
+<!ENTITY CopyEmailAddress.accesskey "К">
+<!ENTITY CreateFilterFrom.label "Создать фильтр из…">
+<!ENTITY CreateFilterFrom.accesskey "ф">
+<!ENTITY BlockAddress.label "Блокировать адрес">
+<!ENTITY BlockAddress.accesskey "р">
+<!ENTITY CopyMessageId.label "Копировать идентификатор">
+<!ENTITY OpenMessageForMsgId.label "Открыть сообщение по идентификатору">
+<!ENTITY OpenBrowserWithMsgId.label "Открыть сообщение с идентификатором в браузере">

@@ -1,0 +1,28 @@
+<!ENTITY tab.cookiesonsystem.label "Сохранённые cookies">
+<!ENTITY tab.bannedservers.label "Сайты с cookies">
+<!ENTITY div.bannedservers.label "Сайты, которые могут и не могут сохранять cookies на вашем компьютере.">
+<!ENTITY div.cookiesonsystem.label "Просмотр и удаление cookies, хранящихся на вашем компьютере.">
+<!ENTITY treehead.cookiename.label "Имя cookie">
+<!ENTITY treehead.cookiedomain.label "Сайт">
+<!ENTITY treehead.cookieexpires.label "Срок действия">
+<!ENTITY treehead.infoselected.label "Информация о выбранном cookie">
+<!ENTITY button.removecookie.label "Удалить cookie">
+<!ENTITY button.removeallcookies.label "Удалить все cookies">
+<!ENTITY props.name.label "Имя:">
+<!ENTITY props.value.label "Информация:">
+<!ENTITY props.domain.label "Узел:">
+<!ENTITY props.path.label "Путь:">
+<!ENTITY props.secure.label "Отправить для:">
+<!ENTITY props.expires.label "Срок действия:">
+<!ENTITY treehead.sitename.label "Сайт">
+<!ENTITY treehead.status.label "Статус">
+<!ENTITY windowtitle.label "Менеджер cookies">
+<!ENTITY buttonaccept.label "Закрыть">
+<!ENTITY blockSite.label "Блокировать">
+<!ENTITY allowSite.label "Разрешить">
+<!ENTITY allowSiteSession.label "На сеанс">
+<!ENTITY removepermission.label "Удалить сайт">
+<!ENTITY removeallpermissions.label "Удалить все сайты">
+<!ENTITY canSet.label "может сохранять cookies">
+<!ENTITY cannotSet.label "не может сохранять cookies">
+<!ENTITY checkbox.label "Не принимать удалённые cookies снова">

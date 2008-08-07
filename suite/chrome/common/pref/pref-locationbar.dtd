@@ -1,0 +1,18 @@
+<!ENTITY pref.locationBar.title "Панель адреса">
+<!ENTITY autoComplete.label "Автодополнение">
+<!ENTITY enableAutoComplete.label "Автодополнять адрес из ранее введённых адресов по мере набора">
+<!ENTITY enableAutoComplete.accesskey "в">
+<!ENTITY autoCompleteAutoFill.label "Автоматически подставлять лучший вариант">
+<!ENTITY autoCompleteAutoFill.accesskey "т">
+<!ENTITY autoCompleteShowPopup.label "Показывать список подходящих результатов">
+<!ENTITY autoCompleteShowPopup.accesskey "з">
+<!ENTITY autoCompleteMatchOnlyTyped.label "Подбирать совпадения только из тех адресов, которые были набраны ранее">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey "б">
+<!ENTITY searchEngine.label "Поисковая машина Интернета">
+<!ENTITY showSearchEngine.label "Показывать поисковую машину по умолчанию">
+<!ENTITY showSearchEngine.accesskey "к">
+<!ENTITY unknownLocations.label "Неизвестные адреса">
+<!ENTITY domainGuessing.label "Добавлять «www.» и «.com» к адресу, если веб-страница с исходным адресом не найдена.">
+<!ENTITY domainGuessing.accesskey "б">
+<!ENTITY keywords.label "Выполнять поиск в Интернете, когда введённый текст не является веб-адресом">
+<!ENTITY keywords.accesskey "п">

@@ -1,0 +1,24 @@
+<!ENTITY securityTitle.label "Защита">
+<!ENTITY securityTab.label "Защита">
+<!ENTITY securityHeading.label "Чтобы получать и отправлять зашифрованные сообщения или сообщения с цифровой подписью, вам нужно указать сертификат ключа шифрования и сертификат ключа подписи.">
+<!ENTITY encryptionGroupTitle.label "Шифрование">
+<!ENTITY encryptionChoiceLabel.label "Использовать шифрование при отправке сообщений:">
+<!ENTITY neverEncrypt.label "Никогда (не использовать шифрование)">
+<!ENTITY neverEncrypt.accesskey "Н">
+<!ENTITY alwaysEncryptMessage.label "Всегда (сообщение не будет отправлено, если не у всех адресатов есть сертификаты)">
+<!ENTITY alwaysEncryptMessage.accesskey "В">
+<!ENTITY encryptionCert.message "Личный сертификат для шифрования: ">
+<!ENTITY encryptionCert.notselected "Сертификат не установлен">
+<!ENTITY digitalSign.certificate.button "Выбрать…">
+<!ENTITY digitalSign.certificate.accesskey "В">
+<!ENTITY digitalSign.certificate_clear.button "Очистить">
+<!ENTITY digitalSign.certificate_clear.accesskey "О">
+<!ENTITY encryption.certificate.button "Выбрать…">
+<!ENTITY encryption.certificate.accesskey "ы">
+<!ENTITY encryption.certificate_clear.button "Очистить">
+<!ENTITY encryption.certificate_clear.accesskey "ч">
+<!ENTITY signingGroupTitle.label "Цифровая подпись">
+<!ENTITY signMessage.label "Подписывать сообщения цифровой подписью (по умолчанию)">
+<!ENTITY signMessage.accesskey "С">
+<!ENTITY signingCert.message "Личный сертификат для подписи:">
+<!ENTITY signingCert.notselected "Сертификат не установлен">

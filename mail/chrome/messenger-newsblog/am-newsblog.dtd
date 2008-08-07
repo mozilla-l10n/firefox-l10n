@@ -1,0 +1,15 @@
+<!ENTITY newsblogTitle.label "Параметры учётной записи лент новостей">
+<!ENTITY biffStart.label "Проверять наличие новых статей каждые">
+<!ENTITY biffStart.accesskey "П">
+<!ENTITY biffEnd.label "минут">
+<!ENTITY loginAtStartup.label "Проверять наличие новых статей при запуске">
+<!ENTITY loginAtStartup.accesskey "П">
+<!ENTITY useQuickMode.label "По умолчанию показывать краткое описание статьи вместо загрузки веб-страницы">
+<!ENTITY useQuickMode.accesskey "к">
+<!ENTITY manageSubscriptions.label "Управление подписками…">
+<!ENTITY manageSubscriptions.accesskey "У">
+<!ENTITY rss.accountName "Блоги и источники новостей">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "Блоги и ленты новостей">
+<!ENTITY rss.wizardLongName.accesskey "л">
+<!ENTITY rss.hostName "News &amp; Blogs">

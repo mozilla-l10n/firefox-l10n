@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title "Удаление личных данных">
+<!ENTITY sanitizeItems.label "Удалить следующие данные:">
+<!ENTITY clearDataSettings.label "Когда я прошу &brandShortName; удалить мои личные данные, он должен стереть:">
+<!ENTITY itemHistory.label "Журнал посещений">
+<!ENTITY itemHistory.accesskey "п">
+<!ENTITY itemFormSearchHistory.label "Сохранённые данные форм и историю поиска">
+<!ENTITY itemFormSearchHistory.accesskey "ф">
+<!ENTITY itemPasswords.label "Сохранённые пароли">
+<!ENTITY itemPasswords.accesskey "р">
+<!ENTITY itemCookies.label "Cookies">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "Кэш">
+<!ENTITY itemCache.accesskey "э">
+<!ENTITY itemOfflineApps.label "Данные автономных веб-сайтов">
+<!ENTITY itemOfflineApps.accesskey "н">
+<!ENTITY itemDownloads.label "Журнал загрузок">
+<!ENTITY itemDownloads.accesskey "Ж">
+<!ENTITY itemSessions.label "Сессии аутентификации">
+<!ENTITY itemSessions.accesskey "с">
+<!ENTITY window.width "30em">

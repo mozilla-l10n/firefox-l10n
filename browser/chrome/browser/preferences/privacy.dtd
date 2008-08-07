@@ -1,0 +1,32 @@
+<!ENTITY history.label "Журнал посещений">
+<!ENTITY rememberDaysBefore.label "Хранить историю посещений по меньшей мере">
+<!ENTITY rememberDaysBefore.accesskey "р">
+<!ENTITY rememberDaysAfter2.label "дней">
+<!ENTITY rememberForms.label "Запоминать введённые в формы и панель поиска данные">
+<!ENTITY rememberForms.accesskey "д">
+<!ENTITY rememberDownloads.label "Запоминать имена загруженных файлов">
+<!ENTITY rememberDownloads.accesskey "ф">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY acceptCookies.label "Принимать cookies с сайтов">
+<!ENTITY acceptCookies.accesskey "р">
+<!ENTITY acceptThirdParty.label "Принимать cookies со сторонних сайтов">
+<!ENTITY acceptThirdParty.accesskey "с">
+<!ENTITY keepUntil.label "Сохранять cookies:">
+<!ENTITY keepUntil.accesskey "С">
+<!ENTITY expire.label "до истечения срока их действия">
+<!ENTITY close.label "до закрытия мною &brandShortName;">
+<!ENTITY askEachTime.label "спрашивать каждый раз">
+<!ENTITY cookieExceptions.label "Исключения…">
+<!ENTITY cookieExceptions.accesskey "С">
+<!ENTITY showCookies.label "Показать Cookies…">
+<!ENTITY showCookies.accesskey "П">
+<!ENTITY privateData.label "Личные данные">
+<!ENTITY alwaysClear.label "При закрытии &brandShortName; всегда удалять мои личные данные">
+<!ENTITY alwaysClear.accesskey "у">
+<!ENTITY askBeforeClear.label "Спрашивать перед удалением личных данных">
+<!ENTITY askBeforeClear.accesskey "С">
+<!ENTITY clearDataSettings.label "Настроить…">
+<!ENTITY clearDataSettings.accesskey "Н">
+<!ENTITY clearDataNow.label "Очистить сейчас…">
+<!ENTITY clearDataNow.label2 "Очистить сейчас">
+<!ENTITY clearDataNow.accesskey "с">

@@ -1,0 +1,93 @@
+<!--null-->
+<!ENTITY Contact.tab "Контакт">
+<!ENTITY Contact.accesskey "н">
+<!ENTITY Name.box "Имя">
+<!ENTITY NameField1.id "FirstName">
+<!ENTITY NameField2.id "LastName">
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY NameField1.label "Имя:">
+<!ENTITY NameField1.accesskey "м">
+<!ENTITY NameField2.label "Фамилия:">
+<!ENTITY NameField2.accesskey "а">
+<!ENTITY PhoneticField1.label "Произношение:">
+<!ENTITY PhoneticField2.label "Произношение:">
+<!ENTITY DisplayName.label "Отображать как:">
+<!ENTITY DisplayName.accesskey "т">
+<!ENTITY NickName.label "Псевдоним:">
+<!ENTITY NickName.accesskey "д">
+<!ENTITY Internet.box "Интернет">
+<!ENTITY PrimaryEmail.label "Электронная почта:">
+<!ENTITY PrimaryEmail.accesskey "л">
+<!ENTITY SecondEmail.label "Доп. адрес электронной почты:">
+<!ENTITY SecondEmail.accesskey "п">
+<!ENTITY PreferMailFormat.label "Предпочитает получать почту в формате:">
+<!ENTITY PreferMailFormat.accesskey "р">
+<!ENTITY PlainText.label "Простой текст">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "Неизвестно">
+<!ENTITY ScreenName.label "Интернет-пейджер:">
+<!ENTITY ScreenName.accesskey "й">
+<!ENTITY allowRemoteContent.label "Разрешить загрузку изображений из сети для HTML сообщений.">
+<!ENTITY allowRemoteContent.accesskey "з">
+<!ENTITY Phones.box "Телефоны">
+<!ENTITY WorkPhone.label "Рабочий:">
+<!ENTITY WorkPhone.accesskey "а">
+<!ENTITY HomePhone.label "Домашний:">
+<!ENTITY HomePhone.accesskey "м">
+<!ENTITY FaxNumber.label "Факс:">
+<!ENTITY FaxNumber.accesskey "к">
+<!ENTITY PagerNumber.label "Пейджер:">
+<!ENTITY PagerNumber.accesskey "й">
+<!ENTITY CellularNumber.label "Сотовый:">
+<!ENTITY CellularNumber.accesskey "т">
+<!ENTITY Address.tab "Адрес">
+<!ENTITY Address.accesskey "д">
+<!ENTITY Home.box "Домашний">
+<!ENTITY HomeAddress.label "Адрес:">
+<!ENTITY HomeAddress.accesskey "д">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey "">
+<!ENTITY HomeCity.label "Город:">
+<!ENTITY HomeCity.accesskey "р">
+<!ENTITY HomeState.label "Область, край:">
+<!ENTITY HomeState.accesskey "б">
+<!ENTITY HomeZipCode.label "Почтовый индекс:">
+<!ENTITY HomeZipCode.accesskey "и">
+<!ENTITY HomeCountry.label "Страна:">
+<!ENTITY HomeCountry.accesskey "т">
+<!ENTITY HomeWebPage.label "Веб-страница:">
+<!ENTITY HomeWebPage.accesskey "с">
+<!ENTITY Work.box "Рабочий">
+<!ENTITY JobTitle.label "Должность:">
+<!ENTITY JobTitle.accesskey "л">
+<!ENTITY Department.label "Отдел:">
+<!ENTITY Department.accesskey "т">
+<!ENTITY Company.label "Организация:">
+<!ENTITY Company.accesskey "р">
+<!ENTITY WorkAddress.label "Адрес:">
+<!ENTITY WorkAddress.accesskey "д">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
+<!ENTITY WorkCity.label "Город:">
+<!ENTITY WorkCity.accesskey "р">
+<!ENTITY WorkState.label "Область, край:">
+<!ENTITY WorkState.accesskey "б">
+<!ENTITY WorkZipCode.label "Почтовый индекс:">
+<!ENTITY WorkZipCode.accesskey "и">
+<!ENTITY WorkCountry.label "Страна:">
+<!ENTITY WorkCountry.accesskey "т">
+<!ENTITY WorkWebPage.label "Веб-страница:">
+<!ENTITY WorkWebPage.accesskey "с">
+<!ENTITY Other.tab "Прочее">
+<!ENTITY Other.accesskey "ч">
+<!ENTITY Custom1.label "Прочее 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "Прочее 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "Прочее 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "Прочее 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.box "Заметки">
+<!ENTITY Notes.accesskey "м">

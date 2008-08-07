@@ -1,0 +1,37 @@
+<!--null-->
+<!ENTITY toField.label "Кому:">
+<!ENTITY fromField.label "От:">
+<!ENTITY senderField.label "Отправитель:">
+<!ENTITY organizationField.label "Организация:">
+<!ENTITY replyToField.label "Обратный адрес:">
+<!ENTITY subjectField.label "Тема:">
+<!ENTITY ccField.label "Cc: ">
+<!ENTITY bccField.label "Скрытая копия:">
+<!ENTITY newsgroupsField.label "Группы новостей:">
+<!ENTITY followupToField.label "Ответ в группу новостей:">
+<!ENTITY tagsHdr.label "Метки:">
+<!ENTITY dateField.label "Дата:">
+<!ENTITY userAgentField.label "Программа:">
+<!ENTITY referencesField.label "Ссылки:">
+<!ENTITY messageIdField.label "Идентификатор:">
+<!ENTITY inReplyToField.label "В ответ на:">
+<!ENTITY originalWebsite.label "Сайт:">
+<!ENTITY saveAll.label "Сохранить все…">
+<!ENTITY editMessage.label "Изменить черновик…">
+<!ENTITY openAttachmentCmd.label "Открыть">
+<!ENTITY openAttachmentCmd.accesskey "О">
+<!ENTITY saveAsAttachmentCmd.label "Сохранить как…">
+<!ENTITY saveAsAttachmentCmd.accesskey "к">
+<!ENTITY detachAttachmentCmd.label "Отделить…">
+<!ENTITY deleteAttachmentCmd.label "Удалить">
+<!ENTITY saveAllAttachmentsCmd.label "Сохранить все…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "С">
+<!ENTITY detachAllAttachmentsCmd.label "Отделить все…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "О">
+<!ENTITY deleteAllAttachmentsCmd.label "Удалить все…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "У">
+<!ENTITY copyLinkCmd.label "Копировать ссылку">
+<!ENTITY copyLinkCmd.accesskey "ы">
+<!ENTITY CopyMessageId.label "Копировать идентификатор">
+<!ENTITY OpenMessageForMsgId.label "Открыть сообщение по идентификатору">
+<!ENTITY OpenBrowserWithMsgId.label "Открыть сообщение с идентификатором в браузере">

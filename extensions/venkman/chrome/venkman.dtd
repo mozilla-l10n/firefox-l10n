@@ -1,0 +1,93 @@
+<!--
+   -
+   - ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is The JavaScript Debugger.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Ginda, <rginda@netscape.com>, original author
+   -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY MainWindow.title "Отладчик JavaScript">
+<!ENTITY ViewFloat.tooltip "Щёлкните здесь, чтобы закрепить/переместить эту область просмотра">
+<!ENTITY ViewGrippy.tooltip "Чтобы переместить область просмотра, перетаскивайте её строку заголовка">
+<!ENTITY ViewClose.tooltip "Щёлкните здесь, чтобы закрыть эту область просмотра">
+<!ENTITY Help.commands "Справочник по командам">
+<!ENTITY Help.about "Об Отладчике">
+<!ENTITY DebugBar.tooltip "Панель отладки">
+<!ENTITY MenuBar.tooltip "Панель меню">
+<!ENTITY Break.label "Точки останова">
+<!ENTITY BreakCol0.label "Имя">
+<!ENTITY BreakCol1.label "Строка/PC">
+<!ENTITY Locals.label "Локальные переменные">
+<!ENTITY LocalsCol0.header "Имя">
+<!ENTITY LocalsCol1.header "Тип">
+<!ENTITY LocalsCol2.header "Значение">
+<!ENTITY LocalsCol3.header "Флаги">
+<!ENTITY Session.label "Интерактивный сеанс">
+<!ENTITY Scripts.label "Загруженные сценарии">
+<!ENTITY ScriptsSearch.label "Поиск">
+<!ENTITY ScriptsSearch.tooltip "Щёлкните здесь, чтобы очистить поле поиска">
+<!ENTITY ScriptsCol0.header "Имя">
+<!ENTITY ScriptsCol1.header "Строка">
+<!ENTITY ScriptsCol2.header "Длина">
+<!ENTITY Source.label "Исходный код">
+<!ENTITY SourceHeader.tip "Панель исходного кода">
+<!ENTITY SourceCol0.display "Поле">
+<!ENTITY SourceCol1.display "Номер строки">
+<!ENTITY Stack.label "Стек вызовов">
+<!ENTITY StackCol0.header "Имя">
+<!ENTITY StackCol1.header "Адрес">
+<!ENTITY Watch.label "Отслеживание">
+<!ENTITY WatchCol0.header "Имя">
+<!ENTITY WatchCol1.header "Тип">
+<!ENTITY WatchCol2.header "Значение">
+<!ENTITY WatchCol3.header "Флаги">
+<!ENTITY Windows.label "Открытые окна">
+<!ENTITY WindowsCol0.label "Файл">
+<!ENTITY BPProps.URL.label "URL">
+<!ENTITY BPProps.Line.label "Строка">
+<!ENTITY BPProps.PC.label "PC">
+<!ENTITY BPProps.FunctionName.label "Функция">
+<!ENTITY BPProps.TriggerCount.label "Счётчик срабатываний триггера">
+<!ENTITY BPProps.OneTime.label "Очистить точку останова после первого срабатывания триггера">
+<!ENTITY BPProps.Then.label "Затем…">
+<!ENTITY BPProps.ConditionalCheck.label "При срабатывании триггера сделать следующее…">
+<!ENTITY BPProps.NeverStopRadio.label "Продолжить, не обращая внимания на результаты">
+<!ENTITY BPProps.AlwaysStopRadio.label "Прервать выполнение операции, не обращая внимания на результаты">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Прервать исполнение, если результат — истина">
+<!ENTITY BPProps.EarlyReturnRadio.label "Ранний возврат из вызывающей процедуры с результатом">
+<!ENTITY BPProps.PassExceptionsCheck.label "Передать исключения вызывающей процедуре">
+<!ENTITY BPProps.LogResultCheck.label "Записать результаты в журнал">
+<!ENTITY BPProps.Apply.label "Применить">
+<!ENTITY BPProps.Revert.label "Вернуться">
+<!ENTITY BPProps.Close.label "Закрыть">

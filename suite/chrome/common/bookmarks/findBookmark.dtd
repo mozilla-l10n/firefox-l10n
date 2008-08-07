@@ -1,0 +1,14 @@
+<!ENTITY search.name.label "имя">
+<!ENTITY search.url.label "адрес">
+<!ENTITY search.shortcut.label "краткое имя">
+<!ENTITY search.description.label "описание">
+<!ENTITY search.startswith.label "начинается с">
+<!ENTITY search.endswith.label "заканчивается на">
+<!ENTITY search.is.label "совпадает с">
+<!ENTITY search.isnot.label "не совпадает с">
+<!ENTITY search.contains.label "содержит">
+<!ENTITY search.doesntcontain.label "не содержит">
+<!ENTITY save.query.label "Сохранить результаты запроса в закладках">
+<!ENTITY search.for.label "Найти закладки, у которых">
+<!ENTITY findBookmark.title "Поиск закладок">
+<!ENTITY findButton.label "Найти">

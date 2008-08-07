@@ -1,0 +1,28 @@
+<!ENTITY pref.proxies.advanced.title "Дополнительные настройки прокси">
+<!ENTITY protocols.caption "Прокси, специфичные для определённого протокола">
+<!ENTITY protocols.description "Обычно для всех перечисленных здесь протоколов может быть использован один прокси.">
+<!ENTITY ftp.label "FTP прокси:">
+<!ENTITY ftp.accesskey "F">
+<!ENTITY gopher.label "Gopher прокси:">
+<!ENTITY gopher.accesskey "G">
+<!ENTITY http.label "HTTP прокси:">
+<!ENTITY http.accesskey "T">
+<!ENTITY reuseProxy.label "Использовать настройки HTTP-прокси для всех протоколов">
+<!ENTITY reuseProxy.accesskey "в">
+<!ENTITY ssl.label "SSL прокси:">
+<!ENTITY ssl.accesskey "S">
+<!ENTITY socks.caption "Общий прокси">
+<!ENTITY socks.description "SOCKS-прокси — разновидность прокси-сервера, которая может работать с различными протоколами. Он используется иногда в корпоративных сетях.">
+<!ENTITY socks.label "Узел SOCKS:">
+<!ENTITY socks.accesskey "S">
+<!ENTITY socks4.label "SOCKS 4">
+<!ENTITY socks4.accesskey "4">
+<!ENTITY socks5.label "SOCKS 5">
+<!ENTITY socks5.accesskey "5">
+<!ENTITY socksRemoteDNS.label "Использовать для разрешения доменных имен (рекомендуется для SOCKS 5)">
+<!ENTITY socksRemoteDNS.accesskey "д">
+<!ENTITY port.label "Порт:">
+<!ENTITY HTTPport.accesskey "о">
+<!ENTITY SSLport.accesskey "р">
+<!ENTITY FTPport.accesskey "п">
+<!ENTITY SOCKSport.accesskey "т">

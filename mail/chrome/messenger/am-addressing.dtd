@@ -1,0 +1,23 @@
+<!ENTITY addressing.label "Составление сообщений и адресация">
+<!ENTITY addressingGroupTitle.label "Адресация">
+<!ENTITY addressingText.label "При подборе адресов:">
+<!ENTITY useGlobal.label "Использовать для этой учётной записи глобальные настройки LDAP-сервера ">
+<!ENTITY useGlobal.accesskey "с">
+<!ENTITY editDirectories.label "Изменить сервер каталогов…">
+<!ENTITY editDirectories.accesskey "з">
+<!ENTITY directories.label "Использовать другой LDAP-сервер:">
+<!ENTITY directories.accesskey "д">
+<!ENTITY compositionGroupTitle.label "Составление сообщений">
+<!ENTITY useHtml.label "Составлять сообщения в формате HTML">
+<!ENTITY useHtml.accesskey "с">
+<!ENTITY autoQuote.label "При ответе автоматически цитировать текст исходного сообщения">
+<!ENTITY autoQuote.accesskey "о">
+<!ENTITY then.label "Затем:">
+<!ENTITY then.accesskey "а">
+<!ENTITY aboveQuote.label "поместить курсор перед цитируемым текстом">
+<!ENTITY belowQuote.label "поместить курсор после цитируемого текста">
+<!ENTITY selectAndQuote.label "выделить цитируемый текст">
+<!ENTITY place.label "и помещать мою подпись">
+<!ENTITY place.accesskey "и">
+<!ENTITY belowText.label "после цитируемого текста (рекомендуется)">
+<!ENTITY aboveText.label "после моего ответа (перед цитируемым текстом)">

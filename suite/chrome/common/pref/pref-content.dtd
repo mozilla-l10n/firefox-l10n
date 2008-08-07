@@ -1,0 +1,20 @@
+<!ENTITY pref.content.title "Содержимое">
+<!ENTITY pref.content.description "Эти настройки влияют на то, как содержимое веб-сайтов и сообщений отобразится в &brandShortName;.">
+<!ENTITY siteIcons.label "Значки веб-сайтов">
+<!ENTITY useSiteIcons.label "Показывать значки веб-сайтов">
+<!ENTITY useSiteIcons.accesskey "к">
+<!ENTITY useFavIcons.label "Выискивать значки веб-сайтов, если они не указаны страницей">
+<!ENTITY useFavIcons.accesskey "и">
+<!ENTITY tbIconsDescription.label "Отображение значков веб-сайтов в меню закладок и панели инструментов:">
+<!ENTITY tbIconsNever.label "Никогда не показывать в закладках значки веб-сайтов">
+<!ENTITY tbIconsNever.accesskey "и">
+<!ENTITY tbIconsCache.label "Только если веб-сайт был недавно загружен">
+<!ENTITY tbIconsCache.accesskey "л">
+<!ENTITY tbIconsAlways.label "Всегда загружать для закладок значки веб-сайтов">
+<!ENTITY tbIconsAlways.accesskey "с">
+<!ENTITY enableAutomaticImageResizing.label "Использовать автоматическое изменение размера изображений">
+<!ENTITY enableAutomaticImageResizing.accesskey "з">
+<!ENTITY useSmoothScroll.label "Использовать плавную прокрутку">
+<!ENTITY useSmoothScroll.accesskey "л">
+<!ENTITY textZoomOnly.label "Масштабировать только текст (не страницу целиком)">
+<!ENTITY textZoomOnly.accesskey "в">

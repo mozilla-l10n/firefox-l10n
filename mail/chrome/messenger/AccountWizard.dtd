@@ -1,0 +1,69 @@
+<!ENTITY windowTitle.label "Мастер учётных записей">
+<!ENTITY accountWizard.size "width: 50em; height: 40em;">
+<!ENTITY accountSetupInfo.label "Чтобы получать сообщения, сначала нужно создать учётную запись почты или новостей.">
+<!ENTITY accountTypeTitle.label "Параметры новой учётной записи">
+<!ENTITY accountTypeDesc.label "Мастер учётных записей соберёт информацию, необходимую для создания учётной записи почты или новостей. Если вы не знаете всей необходимой информации, свяжитесь с вашим системным администратором или поставщиком услуг Интернета.">
+<!ENTITY accountTypeDirections.label "Выберите, какой тип учётной записи вы хотите создать:">
+<!ENTITY accountTypeMail.label "Учётная запись электронной почты">
+<!ENTITY accountTypeMail.accesskey "э">
+<!ENTITY accountTypeNews.label "Учётная запись новостей">
+<!ENTITY accountTypeNews.accesskey "н">
+<!ENTITY identityTitle.label "Персональные данные">
+<!ENTITY identityDesc.label "Для каждой учётной записи имеются персональные данные, которые смогут увидеть читающие ваши письма адресаты.">
+<!ENTITY fullnameDesc.label "Введите имя, которое будет появляться в поле «От» при отправке сообщений">
+<!ENTITY fullnameExample.label "(например, «Иван Иванов»).">
+<!ENTITY fullnameLabel.label "Выводимое имя:">
+<!ENTITY fullnameLabel.accesskey "В">
+<!ENTITY emailLabel.label "Адрес электронной почты:">
+<!ENTITY emailLabel.accesskey "А">
+<!ENTITY emailDesc.label "Введите адрес электронной почты, на который вам будут отправляться сообщения">
+<!ENTITY emailExample.label "(например, «user@example.ru»).">
+<!ENTITY serverTitle.label "Информация о сервере">
+<!ENTITY incomingServerTitle.label "Сервер входящей почты">
+<!ENTITY incomingServerTypeDesc.label "Выберите тип используемого вами сервера входящей почты.">
+<!ENTITY incomingServerTypeLabel.label "Тип сервера:">
+<!ENTITY incomingServerNameDesc.label "Введите имя используемого вами сервера входящей почты (например, «mail.example.ru»).">
+<!ENTITY incomingServerLabel.label "Имя сервера:">
+<!ENTITY incomingServerLabel.accesskey "И">
+<!ENTITY newsServerNameDesc.label "Введите имя используемого вами сервера новостей (NNTP) (например, «news.example.ru»).">
+<!ENTITY smtpServerTitle.label "Сервер исходящей почты (SMTP)">
+<!ENTITY smtpServerDesc.label "Введите имя используемого вами сервера исходящей почты (SMTP) (например, «smtp.example.ru»).">
+<!ENTITY smtpServerLabel.label "Имя сервера:">
+<!ENTITY smtpServerLabel.accesskey "с">
+<!ENTITY newsServerLabel.label "Имя сервера новостей:">
+<!ENTITY newsServerLabel.accesskey "м">
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!ENTITY popType.label "POP3">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Сервер новостей">
+<!ENTITY haveSmtp1.prefix "Будет использоваться уже существующий сервер исходящей почты (SMTP) — «">
+<!ENTITY haveSmtp1.suffix "». Вы можете изменить параметры SMTP-сервера, выбрав пункт «Параметры учётной записи» в меню «Инструменты».">
+<!ENTITY loginTitle.label "Имена пользователей">
+<!ENTITY usernameDesc.label "Введите имя пользователя, данное вам провайдером электронной почты">
+<!ENTITY usernameExample.label "(например, «i_ivanov»).">
+<!ENTITY usernameLabel.label "Имя пользователя:">
+<!ENTITY usernameLabel.accesskey "п">
+<!ENTITY usernameSmtpDesc.label "Введите свое имя пользователя на сервере исходящей почты, данное вам провайдером электронной почты (обычно оно то же, что и имя пользователя на сервере входящей почты).">
+<!ENTITY usernameSmtpLabel.label "Имя пользователя (SMTP-сервер):">
+<!ENTITY usernameSmtpLabel.accesskey "е">
+<!ENTITY haveSmtp2.prefix "Будет использоваться уже существующее имя пользователя сервера исходящей почты (SMTP) —  «">
+<!ENTITY haveSmtp2.suffix "». Вы можете изменить параметры SMTP-сервера выбрав пункт «Параметры учётной записи» в меню «Инструменты».">
+<!ENTITY haveSmtp3.prefix "Ваш сервер исходящей почты (SMTP), «">
+<!ENTITY haveSmtp3.suffix "» идентичен серверу входящей почты, для работы пользователя будет использоваться то же имя пользователя. Вы можете изменить параметры SMTP-сервера выбрав пункт «Параметры учётной записи» в меню «Инструменты».">
+<!ENTITY accnameTitle.label "Имя учётной записи">
+<!ENTITY accnameDesc.label "Введите имя этой учётной записи (например, «Рабочая», «Личная» или «Группы новостей»).">
+<!ENTITY accnameExample.label "Например, «Рабочая», «Личная» или «Группа новостей»">
+<!ENTITY accnameLabel.label "Имя учётной записи:">
+<!ENTITY accnameLabel.accesskey "у">
+<!ENTITY completionTitle.label "Поздравляем!">
+<!ENTITY completionText.label "Пожалуйста проверьте, что приведённая ниже информация верна.">
+<!ENTITY serverTypePrefix.label "Тип сервера входящей почты:">
+<!ENTITY serverNamePrefix.label "Имя сервера входящей почты:">
+<!ENTITY smtpServerNamePrefix.label "Имя сервера исходящей почты (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Имя сервера новостей (NNTP):">
+<!ENTITY downloadOnLogin.label "Загрузить сообщения">
+<!ENTITY deferStorageDesc.label "Если флажок снят, то почта для данной учётной записи будет хранится в её собственных папках. При этом данная учётная запись появится на самом верху списка учётных записей. Если флажок установлен, то данная учётная запись будет  частью общей папки «Входящие», находящейся в «Локальных папках».">
+<!ENTITY deferStorage.label "Использовать общую папку «Входящие» (хранить почту в «Локальных Папках»)">
+<!ENTITY clickFinish.label "Нажмите «Готово», чтобы сохранить текущие параметры и завершить работу «Мастера учётных записей».">
+<!ENTITY clickFinish.labelMac "Нажмите «Готово», чтобы сохранить текущие параметры и завершить работу «Мастера учётных записей».">

@@ -1,0 +1,17 @@
+<!ENTITY printJobOptions.title "Настройки принтера">
+<!ENTITY paperInput.label "Размер бумаги:">
+<!ENTITY plexInput.label "Режим:">
+<!ENTITY resolutionInput.label "Разрешение/Качество:">
+<!ENTITY cmdInput.label "Команда печати:">
+<!ENTITY jobTitleInput.label "Имя задания:">
+<!ENTITY colorGroup.label "Цвет:">
+<!ENTITY grayRadio.label "В оттенках серого">
+<!ENTITY colorRadio.label "Цвет">
+<!ENTITY colorspaceInput.label "Пространство цветов:">
+<!ENTITY fontsGroup.label "Шрифты:">
+<!ENTITY downloadFonts.label "Загрузить шрифты на принтер?">
+<!ENTITY edgeMarginInput.label "Ширина поля">
+<!ENTITY topInput.label "Сверху:">
+<!ENTITY bottomInput.label "Снизу:">
+<!ENTITY leftInput.label "Слева:">
+<!ENTITY rightInput.label "Справа:">
