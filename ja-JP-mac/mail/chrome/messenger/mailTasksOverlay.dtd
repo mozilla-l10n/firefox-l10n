@@ -1,0 +1,25 @@
+
+<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+<!ENTITY messengerCmd.label		"Mail &amp; Newsgroups">
+<!ENTITY messengerCmd.accesskey		"m">
+<!ENTITY messengerCmd.commandkey	"1">
+<!ENTITY addressBookCmd.label		"アドレス帳">
+<!ENTITY addressBookCmd.accesskey	"a">
+<!ENTITY addressBookCmd.commandkey	"2">
+
+<!ENTITY taskMessenger.tooltip		"メールとニュースグループ">
+<!ENTITY taskAddressBook.tooltip	"アドレス帳">
+
+<!-- searchAddressesCmd is also used by addressbook -->
+<!ENTITY searchAddressesCmd.label	"アドレスを検索...">
+<!ENTITY searchAddressesCmd.accesskey	"A">
+
+<!ENTITY searchMailCmd.label		"メッセージを検索...">
+<!ENTITY searchMailCmd.accesskey	"e">
+<!ENTITY searchMailCmd.key		"f">
+
+<!ENTITY javaScriptConsoleCmd.label	"JavaScript コンソール">
+<!ENTITY javaScriptConsoleCmd.accesskey	"S">
+
+<!ENTITY tasksMenu.label		"ツール">
+<!ENTITY tasksMenu.accesskey		"T"> 

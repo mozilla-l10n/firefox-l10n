@@ -1,0 +1,15 @@
+<!ENTITY offlineMenu.label		"オフライン">
+<!ENTITY offlineMenu.accesskey		"l">
+<!ENTITY synchronizeOfflineCmd.label	"今すぐダウンロードおよび同期する...">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd.label	"オフライン設定">
+<!ENTITY settingsOfflineCmd.accesskey	"e">
+<!ENTITY downloadSelectedCmd.label	"選択メッセージを受信">
+<!ENTITY downloadSelectedCmd.accesskey	"M">
+<!ENTITY downloadFlaggedCmd.label	"フラグを立てたメッセージを受信"><!-- (^^; Get Flagged Messages -->
+<!ENTITY downloadFlaggedCmd.accesskey	"F">
+
+<!ENTITY prefOfflineConnection.label	"オフラインと接続">
+<!ENTITY prefOfflineDesc.label		"オフライン設定を管理します。">
+<!ENTITY prefOfflineButton.label	"オフライン設定...">
+<!ENTITY prefOfflineButton.accesskey	"O">

@@ -1,0 +1,74 @@
+<!-- (^^; browser/preferences/fonts.dtd とほぼ同じ -->
+
+<!ENTITY  fontsDialog.title		"フォント">
+<!ENTITY  window.width			"39em">
+
+<!ENTITY  language.label		"対象言語:">
+<!ENTITY  language.accesskey		"t">
+
+<!ENTITY  typefaces.label		"Typeface">
+<!ENTITY  sizes.label			"サイズ:">
+
+<!ENTITY  proportional.label		"プロポーショナル:">
+<!ENTITY  proportional.accesskey	"P">
+
+<!ENTITY  serif.label			"明朝体 (Serif):">
+<!ENTITY  serif.accesskey		"S">
+<!ENTITY  sans-serif.label		"ゴシック体 (Sans-serif):">
+<!ENTITY  sans-serif.accesskey		"n">
+<!ENTITY  monospace.label		"等幅 (Monospace):">
+<!ENTITY  monospace.accesskey		"M">
+
+<!ENTITY  fontsize.units		"ピクセル">
+
+<!ENTITY  font.langGroup.latin1		"西欧">
+<!ENTITY  font.langGroup.latin2		"中欧">
+<!ENTITY  font.langGroup.japanese	"日本語">
+<!ENTITY  font.langGroup.trad-chinese	"繁体字中国語(台湾)">
+<!ENTITY  font.langGroup.simpl-chinese	"簡体字中国語">
+<!ENTITY  font.langGroup.trad-chinese-hk "繁体字中国語(香港)">
+<!ENTITY  font.langGroup.korean		"韓国語">
+<!ENTITY  font.langGroup.cyrillic	"キリル語"><!-- (^^; win 対応不明 -->
+<!ENTITY  font.langGroup.baltic		"バルト語"><!-- (^^; win 対応不明 -->
+<!ENTITY  font.langGroup.el		"ギリシャ語">
+<!ENTITY  font.langGroup.turkish	"トルコ語">
+<!ENTITY  font.langGroup.unicode	"Unicode">
+<!ENTITY  font.langGroup.user-def	"ユーザ定義">
+<!ENTITY  font.langGroup.thai		"タイ語">
+<!ENTITY  font.langGroup.hebrew		"ヘブライ語">
+<!ENTITY  font.langGroup.arabic		"アラビア語">
+<!ENTITY  font.langGroup.devanagari	"デーヴァナーガリー"><!-- (^^; win 対応不明 -->
+<!ENTITY  font.langGroup.tamil		"タミール語">
+<!ENTITY  font.langGroup.armenian	"アルメニア語">
+<!ENTITY  font.langGroup.bengali	"ベンガル語">
+<!ENTITY  font.langGroup.canadian	"統一カナダ音節文字表"><!-- (^^; 逐語訳… -->
+<!ENTITY  font.langGroup.ethiopic	"エチオピア語"><!-- (^^; win 対応不明 -->
+<!ENTITY  font.langGroup.georgian	"グルジア語">
+<!ENTITY  font.langGroup.gujarati	"グジャラート語">
+<!ENTITY  font.langGroup.gurmukhi	"グルムキー文字"><!-- (^^; win 対応不明 -->
+<!ENTITY  font.langGroup.khmer		"クメール語"><!-- (^^; win 対応不明 -->
+<!ENTITY  font.langGroup.malayalam	"マラヤラム語">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label			"最小フォントサイズ:">
+<!ENTITY minSize.accesskey		"z">
+<!ENTITY minSize.none			"なし">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label	"明朝体 (Serif)">
+<!ENTITY  useDefaultFontSansSerif.label	"ゴシック体 (Sans-serif)">
+
+<!ENTITY  newLanguages.label		"言語パネルを使って新しい言語を設定できます。">
+
+<!ENTITY  useDocumentFonts.label	"メッセージ中で他のフォントの使用を許可する">
+<!ENTITY  useDocumentFonts.accesskey	"o">
+
+<!-- font scaling -->
+<!ENTITY  resolution.label		"画面解像度:">
+<!ENTITY  resolution.accesskey		"r">
+<!-- LOCALIZATION NOTE (resolution.dpi): dpi stands for "dots per inch" -->
+<!ENTITY  resolution.dpi		"dpi">
+<!-- LOCALIZATION NOTE (resolution.dpi): $val will be replaced by a numeric dpi value. -->
+<!ENTITY  resolution.dpival		"$val &resolution.dpi;">
+<!ENTITY  resolution.system.label	"システム設定">
+<!ENTITY  resolution.other		"その他...">

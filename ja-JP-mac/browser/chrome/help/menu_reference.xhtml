@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+
+Translators:
+  松葉 (作成: 2004/01/08)
+  dynamis
+  Masahiko Imanaka
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>&brandFullName; メニューリファレンス</title>
+  <link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+  <style type="text/css">
+  <!-- for ja/ja-JP-mac locale. -->
+    p em { font-style:normal; }
+    p em:before { content: "“"; }
+    p em:after  { content: "”"; }
+    .contentsBox { width: 350px; }
+  </style>
+</head>
+
+<body>
+
+<h1>&brandFullName; メニューリファレンス</h1>
+  <p>このメニューリファレンスは、
+    &brandFullName; ウインドウの各メニュー項目について説明します。</p>
+
+  <div class="contentsBox">このセクションでは:
+    <ul>
+      <li class="mac"><a href="#firefox">&brandShortName;</a></li>
+      <li><a href="#file">ファイル</a></li>
+      <li><a href="#edit">編集</a></li>
+      <li><a href="#view">表示</a></li>
+      <li><a href="#go">履歴</a></li>
+      <li><a href="#bookmarks">ブックマーク</a></li>
+      <li><a href="#tools">ツール</a></li>
+      <li class="mac"><a href="#window">ウインドウ</a></li>
+      <li><a href="#help">ヘルプ</a></li>
+    </ul>
+  </div>
+
+<div class="mac">
+  <h2 id="firefox">&brandShortName;</h2>
+    <h3 id="about_mac">&brandFullName; について</h3>
+    <p>&brandShortName; についての情報を表示します。
+      このダイアログボックスには、作者や貢献者の短い一覧と &brandShortName; のバージョン番号を表示します。</p>
+
+    <h3 id="prefs_mac">環境設定...</h3>
+    <p><a href="prefs.xhtml">&pref.pluralCaps;ウインドウ</a> を表示します。
+      &brandShortName; の多くの&pref.plural;を変更することができます。</p>
+
+    <h3 id="quit_mac">&brandShortName; を終了</h3>
+    <p>すべての &brandShortName; ウインドウを閉じてダウンロードを中止し、&brandShortName;
+      を完全に終了します。複数のタブやウインドウを開いているときにこのメニュー項目を選択してしまったときは、
+      予期せず終了しないように確認のダイアログが表示されます。
+      この確認を表示しないようにするには、&pref.menuPath;の <em>タブ</em> パネル内にある
+      <em>同時に複数のタブを閉じるときは確認する</em> のチェックを外してください。
+      また、ファイルをダウンロード中である場合も確認のダイアログを表示します。</p>
+</div>
+
+<h2 id="file">ファイル</h2>
+
+  <h3 id="new_window">新規ウインドウ</h3>
+  <p>新しい &brandShortName; ウインドウを開きます。</p>
+
+  <h3 id="new_tab">新規タブ</h3>
+  <p>現在の &brandShortName; ウインドウに新規タブを開きます。</p>
+
+  <h3 id="open_location">URL を開く...</h3>
+  <p>ロケーションバーにフォーカスを移動します。そこに訪問先の URL を入力してください。</p>
+
+  <h3 id="open_file">ファイルを開く...</h3>
+  <p>ファイルを開くダイアログを表示します。ローカルディスク、またはネットワーク上のファイルを選択してください。
+    &brandShortName; は HTML/XML ファイル、画像ファイル、テキストファイルなど多くの種類のファイルを表示することができます。</p>
+
+  <h3 id="close">ウインドウを閉じる</h3>
+  <p>現在のウインドウを閉じます。</p>
+
+  <h3 id="close_tab">タブを閉じる</h3>
+  <p>現在のタブを閉じて、右のタブに移動します。
+    このメニュー項目は 1 つ以上のタブを開いているときのみ表示します。</p>
+
+  <h3 id="save_page_as">別名でページを保存...</h3>
+  <p>閲覧中のページを保存します。
+    ページ全体(画像も含む)、現在の HTML ページのみ、
+    またはテキストのみから選択して保存することができます。</p>
+
+  <h3 id="send_page">ページの URL をメールで送信...</h3>
+  <p>デフォルトメールクライアントでメール作成ウインドウを開き、
+    現在のページへのリンクをメッセージとして送信することができます。</p>
+
+  <h3 id="page_setup">ページ設定...</h3>
+  <p>余白、ヘッダ、フッタなどのプリント設定と、
+  プリント方向を指定するためのページ設定ダイアログを表示します。</p>
+
+   <div class="noMac">
+     <h3 id="print_preview">プリントプレビュー</h3>
+     <p>現在のドキュメントがプリントされた場合の体裁を表示します。
+       ページ設定ダイアログでの設定とページ作者の意図が反映されます。</p>
+   </div>
+
+  <h3 id="print">プリント...</h3>
+  <p>プリント部数などを指定できるプリントダイアログを表示します。
+    <em>OK</em> をクリックするとページをプリントします。</p>
+
+  <h3 id="import">設定とデータを読み込む...</h3>
+  <p>設定移行アシスタントダイアログを開きます。&pref.plural;、ブックマーク、履歴、
+    パスワード、その他のデータを Microsoft Internet Explorer, Netscape, Mozilla
+    または Opera から移行することができます。</p>
+
+  <h3 id="work_offline">オフライン作業</h3>
+  <p>オンラインモードとオフラインモードを切り替えます。
+    オフラインモードでは、インターネットに接続されていなくても、
+    あなたが前に訪れた Web ページを見ることができます。</p>
+
+<div class="noMac">
+  <h3 id="exit">
+    <span class="win">終了</span>
+    <span class="unix">終了</span>
+  </h3>
+  <p>すべての &brandShortName; ウインドウを閉じてダウンロードを中止し、&brandShortName;
+    を完全に終了します。複数のタブやウインドウを開いているときにこのメニュー項目を選択してしまったときは、
+    予期せず終了しないように確認のダイアログが表示されます。
+    この確認ダイアログを表示しないようにするには、&pref.menuPath; の <em>タブ</em> パネル内にある
+    <em>同時に複数のタブを閉じるときは確認する</em> のチェックを外してください。
+    また、ファイルをダウンロード中である場合も確認のダイアログを表示します。</p>
+</div>
+
+<h2 id="edit">編集</h2>
+
+  <h3 id="undo">取り消す</h3>
+  <p>テキストフィールドでの最後の編集を元に戻します。
+    取り消すコマンドを取り消したいときは、やり直すコマンドを使用してください。</p>
+
+  <h3 id="redo">やり直す</h3>
+  <p>最後に元に戻したコマンドをやり直します。</p>
+
+  <h3 id="cut">カット</h3>
+  <p>選択されたテキストをテキストフィールドから切り取り、クリップボードに保存します。
+    ペーストコマンドを使用してテキストを他の場所に貼り付けてください。</p>
+
+  <h3 id="copy">コピー</h3>
+  <p>選択されたテキストをクリップボードにコピーします。
+    ペーストコマンドを使用してテキストをテキストフィールドに貼り付けてください。</p>
+
+  <h3 id="paste">ペースト</h3>
+  <p>クリップボードに保存されたテキストをテキストフィールドに貼り付けます。</p>
+
+  <h3 id="delete">削除</h3>
+  <p>選択されたテキストをテキストフィールドから削除します。</p>
+
+  <h3 id="select_all">すべてを選択</h3>
+  <p>ページ上のすべてのテキストと他の項目を選択します。</p>
+
+  <h3 id="find_in_this_page">このページの検索...</h3>
+  <p>ブラウザウインドウの下部に検索ツールバーを表示します。
+    検索するテキストをツールバーに入力すると、その度にページ内を自動的に検索し、
+    入力されたテキストで最初に該当するものを選択します。
+    <em>次を検索</em> または <em>前を検索</em> をクリックすると、ページ内の別の位置のテキストを検索します。
+    <em>すべて強調表示</em> をクリックすると、ページ内のすべての該当するテキストを強調します。</p>
+
+  <h3 id="find_again">次を検索</h3>
+  <p><em>このページを検索...</em> コマンドで検索されたテキストの次に出現するものを検索します。</p>
+
+  <h3 class="unix" id="prefs">&pref.pluralCaps;</h3>
+  <p class="unix"><a href="prefs.xhtml">&pref.pluralCaps;ウインドウ</a> を表示します。
+    &brandShortName; の多くの&pref.plural;を変更することができます。</p>
+
+<h2 id="view">表示</h2>
+
+  <h3 id="toolbars">ツールバー</h3>
+
+    <h4 id="navigation_toolbar">ナビゲーションツールバー</h4>
+    <p>標準のナビゲーションボタン (戻る、進む、中止など)
+      を持ったナビゲーションツールバーの表示状態を切り替えます。</p>
+
+    <h4 id="bookmarks_toolbar">ブックマークツールバー</h4>
+    <p>様々なサイトのブックマークを含むブックマークツールバーの表示状態を切り替えます。</p>
+
+    <h4 id="customize">カスタマイズ...</h4>
+    <p>ツールバーカスタマイズダイアログを表示します。
+      ツールバーボタンをツールバー上の配置したい位置にドラッグ＆ドロップしてください。
+      このダイアログは、ナビゲーションツールバー上で<span class="noMac">右クリック</span><span
+      class="mac"> &ctrlKey; を押下しながらクリック</span>し、<em>カスタマイズ...</em>
+      を選択して表示することもできます。</p>
+
+  <h3 id="status_bar">ステータスバー</h3>
+  <p>ウインドウ最下部に位置するステータスバーの表示状態を切り替えます。
+    ステータスバーは閲覧中のページに関して役に立つ情報を表示しますが、
+    すべての人に必要とされるものではないでしょう。</p>
+
+  <h3 id="sidebar">サイドバー</h3>
+  <p>サイドバーはブックマークやページの表示履歴を表示します。
+    右上隅の×をクリックしてサイドバーを常に閉じておくことができます。</p>
+
+    <h4 id="view_sidebar_bookmarks">ブックマーク</h4>
+    <p>いつでもブックマークを参照することができるように、ブックマークサイドバーを表示します。
+      あなたがブックマークをよく利用するなら、とても役に立つでしょう。</p>
+
+    <h4 id="view_sidebar_history">履歴</h4>
+    <p>訪れたサイトの表示履歴を保持している履歴サイドバーを表示します。
+      履歴の保存日数を変更するには、&pref.menuPath; を選択して <em>プライバシー</em>
+      パネルを選択してください。</p>
+
+  <h3 id="stop">中止</h3>
+  <p>現在のページの読み込みを中止します。
+    これは、ツールバー上の <em>中止</em> ボタンをクリックするのと同じことです。</p>
+
+  <h3 id="reload">更新</h3>
+  <p>閲覧中のページの最新版を読み込みます。
+    これは、ツールバー上の <em>更新</em> ボタンをクリックするのと同じことです。</p>
+
+  <h3 id="text_size">文字サイズ</h3>
+  <p>Web ページ上のテキストがあまりに小さかったり大きかったりする場合、より見やすいサイズに変更することができます。</p>
+
+    <h4 id="increase_text_size">大きく</h4>
+    <p>Web ページ上のテキストを 1 サイズ大きく表示します。マウスでも同じことができます。
+      (<a href="mouse_shortcuts.xhtml">マウスショートカット</a> をご覧ください)</p>
+
+    <h4 id="decrease_text_size">小さく</h4>
+    <p>Web ページ上のテキストを 1 サイズ小さく表示します。マウスでも同じことができます。
+      (<a href="mouse_shortcuts.xhtml">マウスショートカット</a> をご覧ください)</p>
+
+    <h4 id="reset_text_size">標準サイズ</h4>
+    <p>Web ページ上のテキストを標準のサイズで表示します。</p>
+
+  <h3 id="page_style">スタイルシート</h3>
+  <p>現在の Web ページのスタイルシートを選択することができます。
+    ページ作者が別のスタイルシートを指定していなければ、“標準スタイルシート” が選択されています。</p>
+
+    <h4 id="no_style">スタイルシートを使用しない</h4>
+    <p>ページからスタイルシートの書式を取り除きます。</p>
+
+    <h4 id="basic_page_style">標準スタイルシート</h4>
+    <p>ページ作者に指定されたスタイルシートでページを表示します。</p>   
+
+    <h4 id="alternate_style"><!--（代替スタイルシート）--></h4>
+    <p>ページ作者が追加のスタイルシートを指定しているときは、
+      ここに選択できるスタイルシートの一覧を表示します。</p>
+
+  <h3 id="character_encoding">文字エンコーディング</h3>
+  <p>Web ページの文字エンコーディングを手動で変更することができます。
+    通常、&brandShortName; は文字エンコーディングを自動判別します。</p>
+
+  <h3 id="page_source">ページのソース</h3>
+  <p>現在のドキュメントのソースコードを表示します。 <!-- &brandShortName; の将来のバージョンでは、
+    ソースを表示するために外部のプログラムを起動することが可能になる予定です。--></p>
+
+  <div class="noMac">
+    <h3 id="full_screen">フルスクリーン</h3>
+    <p>ウインドウを全画面で表示します。ナビゲーションツールバーを表示していないときは、
+    いつでも <kbd>F11</kbd> を押下してウインドウを元に戻すことができます。</p>
+  </div>
+
+<h2 id="go">履歴</h2>
+
+  <p><em>履歴</em> メニューは、最近訪れた Web サイトと閉じたタブの一覧を含んでいます。</p>
+
+  <h3 id="back">戻る</h3>
+  <p>訪れたページを 1 つ前のページへ戻ります。ツールバー上の <em>戻る</em>
+    ボタンのクリックと同じ動作です。</p>
+
+  <h3 id="forward">進む</h3>
+  <p>訪れたページを 1 つ次のページへ進みます。ツールバー上の <em>進む</em>
+    ボタンのクリックと同じ動作です。</p>
+
+  <h3 id="home">ホーム</h3>
+  <p>ホームページを表示します。ツールバー上の <em>ホーム</em>
+    ボタンのクリックと同じ動作です。ホームページを変更するには、
+    &pref.menuPath; を選択して <em>一般</em> パネルを開いてください。
+    空白ページ、現在のページ(またはタブグループ)、ブックマークから選択、
+    または直接 URL を入力して指定することができます。</p>
+
+  <h3 id="closed_tabs">最近閉じたタブ</h3>
+  <p>一覧から選択することにより、現在のウインドウで最近閉じたタブを復元します。
+    詳しくは、<a href="tabbed_browsing.xhtml#closing_tabs">タブを閉じ、復元する</a>
+    トピックをご覧ください。</p>
+
+  <h3 id="go_history">サイドバーに表示</h3>
+  <p>履歴サイドバーを表示します。履歴サイドバーは訪れたサイトの表示履歴を保持しています。
+    履歴の保存日数を変更するには、&pref.menuPath; を選択して <em>プライバシー</em>
+    パネルを選択してください。</p>
+
+<h2 id="bookmarks">ブックマーク</h2>
+
+  <p><em>ブックマーク</em> メニューは保存されたブックマークをすべて含んでいます。</p>
+
+  <h3 id="add_to_bookmarks">このページをブックマーク...</h3>
+  <p>ブックマークに現在のページを追加します。
+    ブックマークのタイトルと作成先を指定するためのダイアログが表示されます。</p>
+
+  <h3 id="subscribe">このページを購読...</h3>
+  <p>現在のサイトによって提供されている <a href="glossary.xhtml#feed">フィード</a>
+    のプレビューを表示します。プレビューページでは、<a href="glossary.xhtml#live_bookmark">ライブブックマーク</a>
+    やコンピュータ上のフィードリーダー、Web サービスを利用してフィードを購読することができます。&pref.menuPath; の
+    <em><a href="prefs.xhtml#applications_options">アプリケーション</a></em>
+    パネルで、常にライブブックマークまたはフィードリーダーを使用して購読するよう設定しているときは、
+    プレビューページは表示されません。</p>
+
+  <h3 id="bookmark_all_tabs">すべてのタブをブックマーク...</h3>
+  <p>新しいブックマークフォルダに現在のウインドウ内のすべてのタブを追加します。
+    フォルダ名と作成先を指定するためのダイアログが表示されます。</p>
+
+  <h3 id="organize_bookmarks">ブックマークの管理...</h3>
+  <p>ブックマークの管理ウインドウを表示します。
+    ブックマークの並べ替え、名前の変更、プロパティの変更に加えて、
+    これらの追加、削除、移動ができます。</p>
+
+<h2 id="tools">ツール</h2>
+
+  <h3 id="web_search">Web 検索</h3> 
+  <p>Web 検索バーにフォーカスを移動します。
+    Web 上の検索したい単語を入力してください。</p>
+
+  <h3 id="downloads">ダウンロード</h3>
+  <p>ダウンロードマネージャを開きます。
+    進行中のダウンロードと完了したものを確認することができます。</p>
+
+  <h3 id="add_ons">アドオン</h3>
+  <p>アドオンマネージャを開きます。拡張機能とテーマの確認、インストール、設定、更新、アンインストールを行うことができます。
+    詳しくは、<a href="customization.xhtml#add_ons">アドオン</a> トピックをご覧ください。</p>
+
+  <h3 id="javascript_console">エラーコンソール</h3>
+  <p>JavaScript コードの問題を追跡するエラーコンソールを開きます。
+    JavaScript は、Web ページを構築するために一般的に用いられるスクリプト言語です。
+    プログラマは Web ページをより対話的にするために JavaScript を利用します。
+    例えば、状況に応じたフォームやボタンの検証などによく利用されます。</p>
+
+  <h3 id="page_info">ページの情報</h3>
+  <p>ページの情報ダイアログは、ドキュメントタイプ、文字エンコーディング、
+    サイズ、セキュリティ情報などの現在の Web ページに関する広範囲な情報を表示します。
+    また、ページ上で使用されているメディアとリンクの一覧を表示します。</p>
+
+  <h3 id="clear_private_data">プライバシー情報の消去 ...</h3>
+  <p>&pref.menuPath; の <em>プライバシー</em> パネル内にあるプライバシー情報の消去ダイアログで選択された項目を消去します。
+    デフォルトでは確認のダイアログが表示されます。</p>
+
+  <h3 class="win" id="options">&pref.pluralCaps;</h3>
+  <p class="win"><a href="prefs.xhtml">&pref.pluralCaps;ウインドウ</a> を開きます。
+    &brandShortName; の多くの&pref.plural;を変更することができます。</p>
+
+<div class="mac">
+  <h2 id="window">ウインドウ</h2>
+
+    <h3 id="minimize">しまう</h3>
+    <p>現在のウインドウをしまいます。</p>
+
+    <h3 id="zoom">拡大／縮小</h3>
+    <p>現在のウインドウをズーム、または元に戻します。</p>
+    
+    <h3 id="open-windows">(ウインドウを開く)</h3>
+    <p>そのタイトルによって開かれたすべてのウインドウを表示します。</p>
+</div>
+
+<h2 id="help">ヘルプ</h2>
+
+  <h3 id="help_contents">
+    <span class="noMac">&brandShortName; ヘルプ</span>
+    <span class="mac">&brandShortName; ヘルプ</span>
+  </h3>
+  <p>&brandShortName; ヘルプウインドウを開きます。
+    Web を閲覧するために役に立つ情報があります。</p>
+
+  <div class="win">
+    <h3 id="for_ie_users">Internet Explorer ユーザのために</h3>
+    <p>Internet Explorer ユーザが &brandShortName;
+      へ移行するための情報をヘルプウインドウに表示します。</p>
+  </div>
+
+  <h3 id="relnotes">リリースノート</h3>
+  <p>&brandShortName; のインストールとアンインストール、設定についての情報、
+    他の重要な情報と最新の注意事項を提供しています。
+    このリリースノートを読むにはインターネットに接続している必要があります。</p>
+
+  <h3 id="reporter">不具合のあるサイトを報告...</h3>
+  <p>&brandShortName; で正しく表示できない、または動作しない Web サイトを
+    &brandShortName; の開発者に報告します。</p>
+
+  <h3 id="web_forgery">偽装サイトを報告... / 誤警告を報告...</h3>
+  <p><em>偽装サイトを報告...</em> は、偽装または "フィッシング詐欺" と思われるサイトを報告することができます。
+    フィッシング詐欺サイトは、あなたを騙して個人情報(ユーザ名とパスワード、クレジットカード情報など)
+    を盗むために、銀行やオンラインショッピング、オークションサイトなどのあなたの信用するサイトを装います。</p>
+
+  <p>訪れたサイトが "フィッシング詐欺" の疑いがあると表示された場合は、誤って
+    "フィッシング詐欺" サイトであるとマークされた正当なサイトを報告するために、
+    メニュー項目が <em>"誤警告を報告..."</em> に置き換えられます。</p>
+
+  <p>&brandShortName; のフィッシング防御は Google のシステムを使用しており、
+    報告した情報は Google に送信され、この機能の向上に役立てられます。
+    あなたの報告は Google のプライバシーポリシーに応じて匿名になります。
+    報告するにはインターネットに接続する必要があります。</p>
+
+  <h3 id="check_for_updates">ソフトウェアの更新を確認...</h3>
+  <p>&brandShortName; の更新を確認するダイアログを表示し、更新されているときは、それをダウンロードするかどうか尋ねられます。
+    ダウンロード後、最新版をインストールするために &brandShortName; を再起動するかどうか尋ねられます。
+    最新版のダウンロード中、またはインストールの準備ができている場合は、このメニューの項目名が変わります。</p>
+
+  <div class="noMac">
+    <h3 id="about_mozilla_firebird">&brandFullName; について</h3>
+    <p>&brandShortName; についての情報を表示します。
+      このダイアログボックスには、作者や貢献者の短い一覧と &brandShortName; のバージョン番号を表示します。</p>
+  </div>
+
+<div class="contentsBox"><em>原文: 29 September 2007, 和訳: 13 November 2007</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+</body>
+</html>

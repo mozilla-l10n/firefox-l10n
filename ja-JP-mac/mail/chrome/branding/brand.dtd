@@ -1,0 +1,5 @@
+#expand <!ENTITY  lang.version          "__MOZILLA_LOCALE_VERSION__">
+<!ENTITY  brandShortName        "メールとニュース">
+<!ENTITY  brandFullName         "メールとニュースのクライアント">
+<!ENTITY  vendorShortName       "メールとニュースのクライアント">
+<!ENTITY  sidebarName           "サイドバー">

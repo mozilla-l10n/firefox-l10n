@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label		"ファイルの種類 (Content Type)"><!-- (^^; 十分長いカラム幅 -->
+<!ENTITY  typeColumn.accesskey		"T">
+
+<!ENTITY  actionColumn2.label		"取り扱い方法">
+<!ENTITY  actionColumn2.accesskey	"A">
+
+<!ENTITY  focusSearch1.key		"f">
+<!ENTITY  focusSearch2.key		"k">
+
+<!ENTITY  filter.label			"検索:">
+<!ENTITY  filter.accesskey		"S">
+
+<!ENTITY  clear.label			"消去">
+<!ENTITY  clear.accesskey		"l">

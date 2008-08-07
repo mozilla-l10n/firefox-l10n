@@ -1,0 +1,8 @@
+<!-- (^^; 用語の関係などから対訳は無視 -->
+<!ENTITY window.title	"迷惑メールについて">
+<!ENTITY window.width	"450">
+<!ENTITY info1a.label	"受信メッセージの中から迷惑メール(スパムメール)のように見えるメッセージを &brandShortName; は自動的に識別することができます。 迷惑メール判別機能により迷惑メールであると識別されたメッセージには迷惑メールアイコンが表示されます。"><!-- (^^; en-US: "&brandShortName; automatically detects incoming messages that appear to be junk mail (also known as spam). Messages that &brandShortName; thinks are junk will display a junk icon" :pink -->
+<!ENTITY info1b.label	".">
+<!ENTITY info2.label	"初めはツールバーの迷惑メールボタンを用いて、各メッセージが迷惑メールであるかどうかマークしていってください。あなたのその判断を元に迷惑メールの識別基準が作られていきます。"><!-- (^^; en-US:  "At first, you must train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not junk." :pink -->
+<!ENTITY info3.label	"&brandShortName; が正確に迷惑メールを識別できるようになると、迷惑メールフィルタにより受信した迷惑メールを自動的に迷惑メールフォルダに移動させることができるようになります。">
+<!ENTITY info4.label	"ヘルプをクリックすると詳細が表示されます。">

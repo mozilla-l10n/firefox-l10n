@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+
+Translators:
+  Masahiko Imanaka (作成: 2006/06/09)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>&brandFullName; のアクセシビリティ機能</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+  <style type="text/css">
+  <!-- for ja/ja-JP-mac locale. -->
+    p em, dd em { font-style:normal; }
+    p em:before, dd em:before { content: "“"; }
+    p em:after,  dd em:after  { content: "”"; }
+    .contentsBox { width: 350px; }
+  </style>
+</head>
+
+<body>
+
+  <h1>&brandFullName; のアクセシビリティ機能</h1>
+
+  <p>&brandShortName; には、弱視、全盲またはマウスやキーボードの使用に制限のある方を含む
+    すべての人のために、ブラウザと Web コンテンツを利用可能にする多くの機能が含まれます。</p>
+
+  <div class="contentsBox">このセクションでは:
+    <ul>
+    <li><a href="#using_a_keyboard">キーボードを使用する</a></li>
+    <li><a href="#using_a_mouse">マウスを使用する</a></li>
+    <li><a href="#fonts_and_colors">フォントとカラー</a></li>
+    <li><a href="#controlling_web_content">Web コンテンツを制御する</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">支援技術との互換性</a></li>
+    <li><a href="#finding_help_online">オンラインでヘルプを見つける</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">キーボードを使用する</h2>
+
+  <h3 id="keyboard_shortcuts">キーボードショートカット</h3>
+
+  <p>一般的なキーボードショートカットの一覧は <a href="shortcuts.xhtml">&brandShortName;
+    キーボードショートカット</a> をご覧ください。
+    オンライン上には &brandShortName; と Microsoft Internet Explorer, Opera に実装された <a target="_blank"
+    href="http://mozilla.jp/support/firefox/keyboard">キーボードショートカットの対照表</a>
+    があります。</p>
+
+  <h3 id="always_use_cursor_keys">ページ中の移動にカーソルを使用する</h3>
+
+  <p><a href="prefs.xhtml#accessibility">ページ中の移動にカーソルを使用する</a>
+    と、Web コンテンツ中をテキストエディタのように移動できるようになり、キーボードで
+    Web コンテンツを選択してクリップボードへコピーすることができます。
+    この機能を有効にするには &pref.menuPath; を選択して <em>詳細</em> パネル内の
+    <em>一般</em> タブを開き、<em>ページ中の移動にカーソルを使用する(キャレットブラウズモード)</em>
+    &pref.singular;にチェックを入れます。</p>
+
+  <p><kbd>F7</kbd> キーを押下すると、いつでもこの機能のオンとオフを切り替えることができます。
+    <kbd>F7</kbd> キーを押下した場合、この機能を本当に有効にするかどうか尋ねられます。
+    このダイアログを表示しないようにするには、<em>今後このダイアログを表示しない</em>
+    にチェックを入れてください。</p>
+
+  <h3 id="find_as_you_type">キー入力時に検索を開始する</h3>
+
+  <p><a href="prefs.xhtml#accessibility">キー入力時に検索を開始する</a>
+    ようにすると、Web ページ内のテキストまたはハイパーリンクへすばやく移動できます。
+    この機能には 2 つの方式があります。現在のページ内のすべてのテキストを検索するには
+    <abbr title="スラッシュ"><kbd>/</kbd></abbr> の押下に続けて検索文字列を入力し、
+    ハイパーリンクのみを検索するには <abbr title="アポストロフィー"><kbd>'</kbd></abbr>
+    の押下に続けて入力します。
+    入力した文字列が一致すると、テキストやハイパーリンクが強調表示されます。</p>
+
+  <p>以下はこの機能を制御するキーボードショートカットです:</p>
+
+  <ul>
+    <li>検索内容を制限するには、さらに文字を入力してください。
+      次に一致するハイパーリンクまたはテキストが強調表示されるか、
+      見つからない場合は注意されます。</li>
+    <li>次に現れる検索文字列を見つけるには &accelKey;+<kbd>G</kbd> または
+      <kbd>F3</kbd> を押下してください。</li>
+    <li>前に現れる検索文字列を見つけるには &accelKey;+&shiftKey;+<kbd>G</kbd>
+      または &shiftKey;+<kbd>F3</kbd> を押下してください。</li>
+    <li>最後に入力した文字を戻すには <kbd>Backspace</kbd> を押下してください。
+      以前に一致したテキストが強調表示されます。</li>
+    <li>検索を取り消すには <kbd>Esc</kbd> を押下してください。
+      フォーカスの変更またはマウスやキーボードによるページのスクロール、
+      単に時間切れになるまで待つことによっても検索を取り消すことができます。</li>
+  </ul>
+
+  <p>この機能の動作を変更するには &pref.menuPath; を選択して <em>詳細</em>
+    パネルの <em>一般</em> タブを開き、<em>キー入力時に検索を開始する</em>
+    &pref.singular;にチェックを入れます。このオプションにチェックを入れると、
+    いつでも、キー入力時に自動的にページ内の検索を開始することができます。
+    デフォルトでは、自動的に検索を開始するとページ内のすべてのテキストが対象になりますが、
+    <abbr title="アポストロフィー"><kbd>'</kbd></abbr> または
+    <abbr title="スラッシュ"><kbd>/</kbd></abbr> を押下して、
+    どちらかの方式で明示的に検索を開始することができます。</p>
+
+  <p>この機能はボタンやテキストボックスなど、フォームコントロールの取得にも利用できます。
+    フォームコントロールのすぐ前のテキストを検索し、<kbd>Tab</kbd> を押下してください。
+    テキストを強調表示した後 <kbd>Tab</kbd> を押下することによって自動的に検索を終了し、
+    フォーカスを次のフォームフィールドやボタンに移動します。</p>
+
+  <h2 id="using_a_mouse">マウスを使用する</h2>
+
+  <h3 id="common_mouse_shortcuts">一般的なマウスショートカット</h3>
+
+  <p>一般的なマウスショートカットの一覧は <a href="mouse_shortcuts.xhtml">&brandShortName;
+    マウスショートカット</a> をご覧ください。</p>
+
+  <h2 id="fonts_and_colors">フォントとカラー</h2>
+
+  <h3 id="overriding_page_fonts">最優先のページフォント</h3>
+
+  <p>テキストを読みにくいフォントで表示する一部の Web
+    サイトを除き、通常のサイトはブラウザのデフォルトフォントに依存します。
+    デフォルトフォントを設定するには &pref.menuPath; を選択して
+    <em>コンテンツ</em> パネルを開き、<em>フォントとカラー</em>
+    セクションでデフォルトフォントとサイズを選択します。</p>
+
+  <p><em>詳細設定</em> ボタンをクリックすると、明朝体 (Serif)、ゴシック体 (Sans-serif)、
+    等幅 (Monospace) など、異なるスタイルのためのデフォルトフォントを指定することができます。
+    しかしながら、独自のフォントを指定している多くの Web ページには効果がありません。
+    そのようなページのフォント指定よりも優先するには、<em>Web ページが指定したフォントを優先する</em>
+    &pref.singular;のチェックを外してください。</p>
+
+  <p>ただし、一部の Web ページはあなたの選んだデフォルトフォントでは正しく表示できないので注意してください。</p>
+
+  <h3 id="setting_a_minimum_font_size">最小フォントサイズを設定する</h3>
+
+  <p>一部の Web サイトは、テキストを不自由なく読むにはあまりにも小さなサイズで表示します。
+    そのようなページを読みやすくするには、最小フォントサイズを設定します。
+    Web ページがテキストをこのサイズより小さく表示しようとしても、
+    &brandShortName; はあなたの選んだサイズに大きくして表示します。</p>
+
+  <p>最小フォントサイズを設定するには &pref.menuPath; を選択して
+    <em>コンテンツ</em> パネルを開き、<em>フォントとカラー</em> セクション内の
+    <em>詳細設定</em> ボタンをクリックします。
+    ドロップダウンメニューから最小フォントサイズを指定してください。</p>
+
+  <p>ただし、一部の Web ページはあなたの選んだ最小フォントサイズでは正しく表示できないので注意してください。</p>
+
+  <h3 id="resizing_page_text">文字サイズを変更する</h3>
+
+  <p>Web ページ上の文字サイズは <span class="menuPath">表示 &gt; 文字サイズ</span>
+    で一時的に変更することができます。新しい文字サイズは、異なる Web
+    サイトへ移動しても、ブラウザウインドウまたはタブを閉じるまで有効です。</p>
+
+  <p>以下は文字サイズを制御するキーボードショートカットです:</p>
+
+  <ul>
+    <li>文字サイズを大きくするには &accelKey;+<kbd><abbr title="プラス記号">+</abbr></kbd>
+      を押下してください。これはテキストを元のサイズの 120% に拡大します。
+      さらに 150%, 200%, 300%, 450%, 675%, 1013%, 1519% まで拡大します。</li>
+    <li>文字サイズを小さくするには &accelKey;+<kbd><abbr title="マイナス記号">-</abbr></kbd>
+      を押下してください。これはテキストを元のサイズの 90% に縮小します。
+      さらに 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2%, 1% まで縮小します。</li>
+    <li>文字サイズを Web ページのデフォルトサイズに戻すには、
+      &accelKey;+<kbd>0</kbd> を押下してください。</li>
+  </ul>
+
+  <p>ただし、一部の Web ページは文字サイズを大きくまたは小さくすると正しく表示できないので注意してください。</p>
+
+  <h3 id="overriding_page_colors">最優先のページカラー</h3>
+
+  <p>一部の Web サイトはテキストと背景を読みにくい色で表示しますが、
+    他のサイトはブラウザのデフォルトカラーに依存します。
+    デフォルトカラーを設定するには &pref.menuPath; を選択して
+    <em>コンテンツ</em> パネルを開き、<em>フォントとカラー</em>
+    セクション内の <em>カラー設定</em> ボタンをクリックします。
+    デフォルトのテキストと背景の色に加え、
+    訪問済リンクと未訪問リンクの色を設定することができます。</p>
+  
+  <p>しかしながら、独自のカラーを指定している多くの Web ページには効果がありません。
+    そのようなページのカラー指定よりも優先するには、<em>Web ページが指定したカラーを優先する</em>
+    &pref.singular;のチェックを外してください。</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">コントラストが高いテーマを使用する</h3>
+
+    <p>ハイコントラストなテーマを使用すると自動的に検出され、
+      すべてのものがコントラストの高いカラーで表示されます。
+      これは、ブラウザと Web ページに関するすべての他の設定に優先し、&brandShortName;
+      のインタフェース(すべてのメニュー、ウインドウ、ダイアログボックス)
+      自身とあなたの訪れる Web ページの内容に影響します。</p>
+
+    <p class="win">ハイコントラストなテーマを使用するには、Windows の
+      <span class="menuPath">スタートメニュー &gt; コントロールパネル &gt; 
+      ユーザー補助のオプション &gt; 画面</span> を開き、
+      <em>ハイコントラストを使う</em> にチェックを入れます。</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Web コンテンツを制御する</h2>
+
+  <h3 id="blocking_popup_windows">ポップアップウインドウをブロックする</h3>
+
+  <p>ポップアップウインドウのブロックについての詳しい情報は
+    <a href="popup.xhtml">ポップアップを制御する</a> をご覧ください。</p>
+
+  <h3 id="turning_off_java_applets">Java アプレットをオフにする</h3>
+
+  <p>一部の Web ページは Java&trade; アプレットによって高度な対話式のページを提供しています。
+    しかしながら、キーボード操作に依存するユーザは一部の Java アプレットによる問題を経験しています。
+    このような Java アプレットは自動的にフォーカスを設定し、Web
+    アプレットから <q>脱出</q> してページの残りの部分へ移動するための方法を提供していません。
+    あなたにとってこれが問題になるときは、Java を無効にすることができます。
+    &pref.menuPath; を選択して <em>コンテンツ</em> パネルを開き、
+    <em>Java を有効にする</em> &pref.singular;のチェックを外してください。</p>
+
+  <h3 id="restricting_javascript_behavior">JavaScript の動作を制限する</h3>
+
+  <p>JavaScript を完全にオフにするには、&pref.menuPath; を選択して
+    <em>コンテンツ</em> パネルを開き、<em>JavaScript を有効にする</em>
+    &pref.singular;のチェックを外します。一部の Web ページは JavaScript
+    に依存しているため、JavaScript を無効にするときちんと動作しません。</p>
+
+  <p>JavaScript を完全に無効にしたくないときは、いくつかの JavaScript
+    の動作を制限するための詳細設定があります。<em>JavaScript を有効にする</em>
+    チェックボックスのすぐ横にある <em>詳細設定</em> ボタンをクリックして
+    <em>JavaScript の詳細設定</em> ウインドウを開いてください。
+    ウインドウの移動または大きさの変更、ウインドウのフォーカスの切り替え、
+    コンテキストメニューの無効化または変更、ステータスバーの隠蔽、
+    ステータスバーのテキストの変更をスクリプトに許可するかどうか制御することができます。</p>
+
+  <h2 id="compatibility_with_assistive_technologies">支援技術との互換性</h2>
+
+  <p>サードパーティによる支援技術との互換性についての最新の情報は、
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Mozilla
+    アクセシビリティプロジェクト: Compatibility with assistive technologies</a>(英語) をご覧ください。</p>
+
+  <h2 id="finding_help_online">オンラインでヘルプを見つける</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific はいくつかの
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">JAWS
+      ユーザのためのメーリングリスト</a>(英語) を維持しています。</p>
+
+    <p>GW Micro はいくつかの
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">Window
+      Eyes ユーザのためのメーリングリスト</a>(英語) を維持しています。</p>
+  </div>
+
+  <p><span class="win">また、</span>アクセシビリティに関する質問は
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">&brandShortName;
+    Support forum</a>(英語) に投稿してください。</p>
+
+  <div class="contentsBox"><em>原文: 29 August 2006, 和訳: 23 September 2006</em></div>
+
+  <p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer
+    Project.</p>
+
+</body>
+</html>

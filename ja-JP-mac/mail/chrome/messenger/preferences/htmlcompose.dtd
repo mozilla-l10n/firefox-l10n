@@ -1,0 +1,14 @@
+<!ENTITY dialog.title			"デフォルト書式"><!-- (^^; HTML Options... -->
+<!ENTITY defaultMessagesHeader.label	"HTML メッセージのデフォルトの書式">
+<!ENTITY font.label			"フォント:">
+<!ENTITY font.accesskey			"n">
+<!ENTITY size.label			"サイズ:">
+<!ENTITY size.accesskey			"S">
+<!ENTITY fontColor.label		"テキスト:">
+<!ENTITY fontColor.accesskey		"T">
+<!ENTITY bgColor.label			"背景:">
+<!ENTITY bgColor.accesskey		"B">
+
+<!ENTITY restoreDefaultsDescription.label ""><!-- (^^; Restore Defaults: -->
+<!ENTITY restoreDefaults.label		"デフォルトに戻す"><!-- (^^; Restore -->
+<!ENTITY restoreDefaults.accesskey	"R">

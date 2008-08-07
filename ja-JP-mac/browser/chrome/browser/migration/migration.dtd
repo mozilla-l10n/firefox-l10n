@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title		"設定移行アシスタント">
+
+<!ENTITY importFrom.label		"オプション、ブックマーク、履歴、パスワードその他のデータを読み込む対象を選んでください:">
+<!ENTITY importFromUnix.label		"設定、ブックマーク、履歴、パスワードその他のデータを読み込む対象を選んでください:">
+<!ENTITY importFromBookmarks.label      "ブックマークを読み込む対象を選んでください:">
+
+<!ENTITY importFromIE.label		"Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey		"M">
+<!ENTITY importFromPhoenix.label	"Firefox 0.8、Firebird または Phoenix">
+<!ENTITY importFromPhoenix.accesskey	"P">
+<!ENTITY importFromNothing.label	"設定を読み込まない">
+<!ENTITY importFromNothing.accesskey	"D">
+<!ENTITY importFromSeamonkey.label	"Netscape 6, 7 または Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey	"N">
+<!ENTITY importFromNetscape4.label	"Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey	"4">
+<!ENTITY importFromOpera.label		"Opera">
+<!ENTITY importFromOpera.accesskey	"O">
+<!ENTITY importFromCamino.label		"Camino">
+<!ENTITY importFromCamino.accesskey	"C">
+<!ENTITY importFromSafari.label		"Safari">
+<!ENTITY importFromSafari.accesskey	"S">
+<!ENTITY importFromOmniWeb.label	"OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey	"W">
+<!ENTITY importFromICab.label		"iCab">
+<!ENTITY importFromICab.accesskey	"i">
+<!ENTITY importFromKonqueror.label	"Konqueror">
+<!ENTITY importFromKonqueror.accesskey	"K">
+<!ENTITY importFromEpiphany.label	"Epiphany">
+<!ENTITY importFromEpiphany.accesskey	"E">
+<!ENTITY importFromGaleon.label		"Galeon">
+<!ENTITY importFromGaleon.accesskey	"G">
+<!ENTITY importFromHTMLFile.label	"HTML ファイルから読み込む">
+<!ENTITY importFromHTMLFile.accesskey	"F">
+
+<!ENTITY noMigrationSources.label	"ブックマーク、履歴やパスワードなどの読み込む設定やデータを持つアプリケーションが見つかりませんでした。">
+
+<!ENTITY importSource.title		"設定とデータを読み込む">
+<!ENTITY importItems.title		"読み込む項目">
+<!ENTITY importItems.label		"読み込む項目を選択してください:">
+
+<!ENTITY migrating.title		"読み込んでいます...">
+<!ENTITY migrating.label		"次の項目を現在読み込んでいます...">
+
+<!ENTITY selectProfile.title		"プロファイルの選択">
+<!ENTITY selectProfile.label		"読み込むプロファイルを選択してください:">
+
+<!ENTITY done.title			"読み込み完了">
+<!ENTITY done.label			"次のデータが正常に読み込まれました:">
+

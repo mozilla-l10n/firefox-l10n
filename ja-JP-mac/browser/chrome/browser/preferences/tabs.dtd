@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label		"新しく別の場所にページを開くとき:">
+<!ENTITY inNewWindow.label		"新規ウインドウで開く">
+<!ENTITY inNewWindow.accesskey		"w">
+<!ENTITY inNewTab.label			"新規タブで開く">
+<!ENTITY inNewTab.accesskey		"t">
+
+<!ENTITY warnCloseMultipleTabs.label	"同時に複数のタブを閉じるときは確認する">
+<!ENTITY warnCloseMultipleTabs.accesskey "m">
+
+<!ENTITY warnOpenManyTabs.label		"同時に複数のタブを開いて &brandShortName; の動作が遅くなるときは確認する">
+<!ENTITY warnOpenManyTabs.accesskey	"o">
+
+<!ENTITY showTabBar.label		"常にタブバーを表示する">
+<!ENTITY showTabBar.accesskey		"b">
+
+<!ENTITY switchToNewTabs.label		"リンクを新規タブで開いたとき、すぐにそのタブに切り替える">
+<!ENTITY switchToNewTabs.accesskey	"s">

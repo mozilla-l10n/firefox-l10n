@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Ryan Flint <rflint@dslr.net>
+  Jeff Walden <jwalden+code@mit.edu>
+  Myk Melez <myk@mozilla.org>
+
+Translators:
+  松葉 (作成: 2004/01/08)
+  dynamis
+  Masahiko Imanaka
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>&brandFullName; &pref.pluralCaps;</title>
+  <link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+  <style type="text/css">
+  <!-- for ja/ja-JP-mac locale. -->
+    p em, dd em, li em { font-style:normal; }
+    p em:before, dd em:before, li em:before { content: "“"; }
+    p em:after,  dd em:after,  li em:after  { content: "”"; }
+    .contentsBox { width: 350px; }
+  </style>
+</head>
+
+<body>
+
+<h1>&brandFullName; &pref.pluralCaps;</h1>
+<p>このドキュメントは、&pref.pluralCaps;ウインドウのすべての&pref.plural;について説明します。</p>
+
+<div class="contentsBox">このセクションでは:
+  <ul>
+    <li><a href="#main_options">一般&pref.pluralCaps;</a></li>
+    <li><a href="#tabs_options">タブ&pref.pluralCaps;</a></li>
+    <li><a href="#content_options">コンテンツ&pref.pluralCaps;</a></li>
+    <li><a href="#applications_options">アプリケーション&pref.pluralCaps;</a></li>
+    <li><a href="#privacy_options">プライバシー&pref.pluralCaps;</a></li>
+    <li><a href="#security_options">セキュリティ&pref.pluralCaps;</a></li>
+    <li><a href="#advanced_options">詳細&pref.pluralCaps;</a></li>
+  </ul>
+</div>
+
+<h2 id="main_options">一般&pref.pluralCaps;</h2>
+
+  <h3 id="startup">起動</h3>
+  <p>&brandShortName; を起動すると、初期設定では <a href="glossary.xhtml#home_page">ホームページ</a>
+    が表示されます。あなたのホームページは、いつも訪れる Web サイト、検索サイト、あるいは Web
+    メールなど自由に選ぶことができます。このセクションでは、ホームページまたは異なるページ、
+    タブグループなど、起動時に表示するページを変更することができます。</p>
+    
+  <p><em>&brandShortName; を起動するとき</em><br/>
+    初期設定では、&brandShortName; を起動すると <em>ホームページを表示する</em>
+    オプションと共に指定されたあなたのホームページ(すぐ下のテキストボックスで指定されています)
+    を開きます。または、<em>空白ページを表示する</em>
+    オプションを選択して起動時に空白のページを表示することもできます。
+    (インターネットからの読み込みに必要な時間を減らせるかもしれません)</p>
+
+  <p>さらに、&brandShortName; を実行して最後に開いたウインドウやタブを再度開くことができます。
+    これは &brandShortName; を閉じたとき何をしていたかを思い出すための手軽な方法です。
+    例えば、オペレーティングシステムの更新をインストールするときなど、インターネットの閲覧を中止したときに開いていたページを復元します。
+    このオプションを指定するには、<em>前回終了時のウインドウとタブを表示する</em> を選択してください。</p>
+
+  <p><em>ホームページ</em><br/>
+    &brandShortName; の起動時にホームページを表示するときは、ここに URL を入力してください。
+    また、テキストボックスの下のボタンをクリックして特別なホームページを選ぶこともできます:</p>
+
+  <ul>
+    <li><em>現在のページを使用</em> 現在表示しているページ
+      (複数のタブを開いているときはタブグループ) をホームページに設定します。</li>
+    <li><em>ブックマークから選択...</em> 選択したブックマーク
+      (ブックマークフォルダを選択したときはフォルダ内のブックマークすべて) をホームページに設定します。</li>
+    <li><em>初期設定に戻す</em>
+      設定をデフォルトのホームページに戻します。</li>
+  </ul>
+
+  <h3 id="downloads">ダウンロード</h3>
+  <p>このセクションではファイルをどのようにダウンロードするかを設定します。</p>
+    
+  <p><em>ファイルのダウンロード時にダウンロードマネージャを表示する</em><br/>
+    この&pref.singular;を選択すると、ファイルのダウンロード開始時に <a
+    href="download_manager.xhtml">ダウンロードマネージャ</a> が表示されます。</p>
+    
+  <p><em>すべてのダウンロードが完了したら閉じる</em><br/>
+    この&pref.singular;を選択すると、進捗中のすべてのダウンロード完了時にダウンロードマネージャを閉じます。</p>
+      
+  <p><em id="download_folder">次のフォルダに保存する</em><br/>
+    初期設定では、ダウンロードしたファイルは自動的にデスクトップに保存され、
+    あなたがダウンロードしたファイルの場所を毎回指定するような面倒をなくします。
+    異なるフォルダを指定するには、<em><span class="noMac">参照...</span><span
+    class="mac">選択...</span></em> ボタンをクリックしてください。</p>
+      
+  <p><em>ファイルごとに保存先を指定する</em><br/>
+    この&pref.singular;を選択すると、(上記で指定した場所を使用する代わりに)
+    ダウンロードしたファイルの保存先を尋ねられます。</p>
+
+  <h3 id="system_defaults">デフォルト Web ブラウザ</h3>
+  <p><em>起動時に &brandShortName; がデフォルト Web ブラウザであるか確認する</em><br/>
+    この&pref.singular;は、&brandShortName; の起動時にデフォルト Web ブラウザであるか確認したいときに選択してください。
+    アプリケーションが Web ページを表示したり HTML ファイルを開こうとするとき、常に &brandShortName; が使用されるようにします。
+    すぐにデフォルト Web ブラウザであるか確認するには、<em>今すぐ確認</em> ボタンをクリックしてください。</p>
+
+  <h3 id="addons">アドオン</h3>
+  <p><em>アドオンの管理</em><br/>
+    アドオンのインストールまたはアンインストール、更新や設定を行うには、<em>アドオンの管理...</em>
+    ボタンをクリックし、アドオンマネージャを開いてください。これは
+    <span class="menuPath">ツール &gt; アドオン</span> からも開くことができます。
+    アドオンとアドオンマネージャについての詳しい説明は<a href=
+    "customization.xhtml#add_ons">こちら</a>をご覧ください。</p>
+
+<h2 id="tabs_options">タブ&pref.pluralCaps;</h2>
+<p><em>新しいページは次の場所に開く:</em><br/>
+  この&pref.singular;は、他のアプリケーションまたは Web ページから新規ウインドウで開く要求があったとき、
+  リンクを <em>新規ウインドウ</em> と最後に使用したウインドウの <em>新規タブ</em>
+  のどちらに開くかを制御します。</p>
+
+<p><strong>注意:</strong> 指定されたサイズでのみ正しく表示される一部のページのために、
+  この&pref.singular;が無視されることがあります。リンクを新規タブに開くようにしていても、
+  新規ウインドウのサイズがページ作者によって指定されていると、リンクが新規ウインドウで開かれます。</p>
+
+<p><em>同時に複数のタブを閉じるときは確認する</em><br/>
+  複数のタブを持つウインドウを閉じる場合、すべてのタブを閉じるかどうか確認を求められます。
+  現在のタブのみを閉じたいとき、誤ってウインドウ全体を閉じてしまうのを避けるためです。
+  警告を表示せず自動的にウインドウを閉じるには、この&pref.singular;のチェックを外してください。</p>
+
+<p><em>同時に複数のタブを開いて &brandShortName; の動作が遅くなるときは確認する</em><br/>
+  一度に非常に多くのタブを開くと、タブを同時に開くかどうか確認を求められます。
+  これは、多くのページが読み込みまれることによってシステムが突然遅くなるのを防ぎます。
+  この警告を無効にするには、&pref.singular;のチェックを外してください。</p>
+
+<p><em>常にタブバーを表示する</em><br/>
+  &brandShortName; ウインドウ内のタブが 1 つのときはタブバーが表示されません。
+  ウインドウ内のタブが 1 つのときも常にタブバーを表示するには、この&pref.singular;にチェックを入れてください。</p>
+
+
+<p><em>リンクを新規タブで開いたとき、すぐにそのタブに切り替える</em><br/>
+  Web 上のリンクを中ボタンクリック (または &accelKey; を押下しながらマウスの左ボタンをクリック)
+  した場合、リンクは新規タブに開かれます。そのタブは表示されずに後ろのタブに読み込まれます。
+  ページを新規タブに読み込み手前に表示するには、この&pref.singular;にチェックを入れてください。</p>
+
+
+<h2 id="content_options">コンテンツ&pref.pluralCaps;</h2>
+<p><em>ポップアップウインドウをブロックする</em><br/>
+  初期設定では、&brandShortName; は Web サイトの迷惑なポップアップウインドウをブロックします。
+  ポップアップブロックを無効にするには、この&pref.singular;のチェックを外してください。</p>
+
+<p>いくつかの Web サイトはポップアップウインドウを正当に利用します。
+  そのようなサイトのために、ポップアップを許可することができます。<em>許可サイト...</em>
+  をクリックして許可するサイトのアドレスを入力し、<em>許可</em> をクリックしてください。
+  Web サイトを一覧から削除するには、サイトを選択して <em>サイトを削除</em>
+  をクリックしてください。一覧を完全に消去するには、<em>すべてのサイトを削除</em>
+  をクリックしてください。</p>
+
+<p><em>画像を自動的に読み込む</em><br/>
+  初期設定では、Web ページの画像を読み込みます。
+  Web ページ内の画像の読み込みを無効にするには、この&pref.singular;のチェックを外してください。</p>
+
+<p>画像の読み込みを有効にしているときに <em>例外サイト...</em> ボタンをクリックすると、
+  上記の設定に関わらず、画像を自動的に読み込まないサイトを指定することができます。
+  画像の読み込みを許可、またはブロックするサイトの URL を入力し、許可するには
+  <em>許可</em> を、ブロックするには <em>不許可</em> をクリックしてください。</p>
+
+<p><em>JavaScript を有効にする</em><br/>
+  JavaScript は Web ページを構成するために一般に使用されるスクリプト言語です。
+  しかしながら、JavaScript を使用して迷惑な振る舞いを簡単に実行することもできます。
+  JavaScript を無効にするには、この&pref.singular;のチェックを外してください。
+  JavaScript を無効にすると一部のサイトは正常に動作しません。
+  さらに細かな制御をするには、<em>詳細設定...</em> ボタンをクリックしてください。</p>
+
+  <h4 id="advanced_javascript">JavaScript の詳細設定</h4>
+  <dl>
+    <dt>ウインドウの移動または大きさの変更</dt>
+    <dd>この&pref.singular;のチェックを外すと、スクリプトを使用したウインドウの移動と
+      サイズ変更を無効化します。</dd>
+
+    <dt>ウインドウのフォーカス(手前か後ろか) を切り替える</dt>
+    <dd>この&pref.singular;のチェックを外すと、スクリプトがウインドウのフォーカス(手前または後ろ)
+      を切り替えられないようします。</dd>
+
+    <dt>コンテキストメニューを無効化または変更する</dt>
+    <dd>この&pref.singular;のチェックを外すと、Web ページによるコンテキストメニューの無効化や
+      置換を防ぎます。</dd>
+
+    <dt>ステータスバーのないウインドウを開く</dt>
+    <dd>この&pref.singular;のチェックを外すと、ポップアップウインドウにも強制的にステータスバーを表示します。</dd>
+
+    <dt>ステータスバーのテキストを変更する</dt>
+    <dd>この&pref.singular;のチェックを外すと、ステータスバーのテキストを変更できないようにします。
+      (マウスでリンクをポイントしたときのリンクアドレスの隠蔽や、迷惑なテキストスクロールの表示など)</dd>
+  </dl>
+
+  <p><em>Java を有効にする</em><br/>
+    Java は Web 用に広く使用されるプログラミング言語です。単一の Java
+    プログラムを多くの異なるコンピュータ上で実行することができるため、
+    プログラマが各種のコンピュータのために個別のバージョンを作成する必要がなくなります。
+    この&pref.singular;のチェックを外すと Java アプレットを無効にします。
+    Java アプレットが動作するためには Java プラグインをインストールする必要があります。</p>
+
+  <h3 id="fonts_and_colors">フォントとカラー</h3>
+  <p><em>デフォルトフォント</em> と <em>サイズ</em><br/>
+    Web ページは通常、ここで指定されたフォントの種類とサイズで表示されます。
+    ただし、フォントダイアログで指定されていない限り Web ページでの指定が優先されます。
+    指定の変更とその他の&pref.plural;は、<em>詳細設定...</em>
+    ボタンをクリックしてフォントダイアログを表示してください。</p>
+
+    <h4 id="fonts_dialog">フォントダイアログ</h4>
+    <ol>
+      <li><em>対象言語</em> のドロップダウンリストから、言語グループ/文字を選択してください。
+        例えば、西欧(Latin) の言語/文字をデフォルトフォントに設定するには <em>西欧</em> を選択します。
+        一覧にない言語/文字を指定するには、<em>その他の言語</em> を選択してください。</li>
+      <li>プロポーショナルテキストを明朝体 (Serif) とゴシック体 (Sans-serif)
+        のどちらにするか選択してください。また、プロポーショナルテキストのフォントサイズも指定してください。</li>
+      <li>明朝体、ゴシック体、等幅 (Monospace) フォントに使用するフォントを指定してください。
+        <code>等幅フォント</code> のサイズも変更することができます。</li>
+    </ol>
+
+    <p>さらに、画面上で使用する最小フォントサイズを設定することができます。
+      これは、とても小さくて読みにくいフォントを使用しているサイトで役に立ちます。</p>
+
+    <p><em>Web ページが指定したフォントを優先する</em><br/>
+      初期設定では Web ページの作者に指定されたフォントを使用します。
+      この&pref.singular;を無効にすると、強制的にすべてのサイトであなたの指定したフォントが使用されます。</p>
+
+    <p><strong>文字エンコーディング</strong><br/>
+      文字エンコーディングが指定されていないページの表示には、
+      ここで選択した文字エンコーディングが使用されます。</p>
+
+    <h4 id="colors_dialog">カラーダイアログ</h4>
+    <p><strong>テキストと背景のカラー</strong><br/>
+      デフォルトテキストと背景のカラーを変更することができます。
+      これらは、テキストと背景のカラーを指定していない Web ページで使用されます。
+      色見本をクリックしてカラーを選択してください。</p>
+
+    <p><em>システムのカラーを使用する</em><br/>
+      この&pref.singular;をチェックすると、
+      上で指定したカラーの代わりに OS で定義されたカラーを使用します。</p>
+
+    <p><strong>リンクのカラー</strong><br/>
+      Web リンクのデフォルトカラーを変更することができます。
+      色見本をクリックしてカラーを選択してください。</p>
+
+    <p><em>リンクに下線を付ける</em><br/>
+      初期設定では Web ページ上のリンクに下線が付きます。
+      この&pref.singular;のチェックを外すと、これが無効になります。
+      ただし、独自のリンクスタイルを指定している多くのサイトには効果がないことに注意してください。</p>
+
+    <p><em>Web ページが指定したカラーを優先する</em><br/>
+      初期設定では、Web ページの作者に指定されたカラーを使用しますが、
+      この&pref.singular;を無効にすると、強制的にすべてのサイトであなたの指定したカラーが使用されます。</p>
+
+  <h3 id="languages">言語</h3>
+  <p>いくつかの Web ページは複数の言語で利用することができます。
+    <em>言語設定...</em> ボタンをクリックして優先する言語を指定してください。</p>
+
+  <p><strong>言語ダイアログ</strong><br/>
+    言語を追加するには <em>追加する言語を選択...</em> を押下して言語を選択し、<em>追加</em>
+    ボタンをクリックしてください。使用する言語一覧から言語を削除するには、一覧から選択して
+    <em>削除</em> ボタンをクリックしてください。1 つのページ内であなたの選択した言語が
+    2 つ以上利用できる場合の、言語の優先順位を並べ替えることができます。
+    <em>上に移動</em> ボタンと <em>下に移動</em> ボタンを使用してください。</p>
+
+<h2 id="applications_options">アプリケーション&pref.pluralCaps;</h2>
+
+<p><em>アプリケーション</em> パネルでは、種類ごとに異なるコンテンツ (例えば、PDF 文書)
+  の扱いや、それを扱うアプリケーションを選びます。ここにはコンテンツの種類
+  (Content Type) 一覧が表示され、種類ごとの扱いを選択することができます。</p>
+<!-- The <em>Applications</em> panel lets you choose applications and other
+  handlers to handle different types of content (e.g. PDF documents).  It shows
+  you a list of content types and lets you select a handler for each type.-->
+
+<p>通常は任意の種類を扱うローカルアプリケーションを選びますが、一部の種類では
+  Web アプリケーションを選ぶか、コンテンツを扱う &brandShortName; の機能
+  (フィードを扱う<a href="glossary.xhtml#live_bookmark">ライブブックマーク</a>など)
+  や<a href="glossary.xhtml#Plugin">プラグイン</a>を選ぶことができます。
+  またはコンピュータにファイルを保存します。</p>
+<!--You can choose a local application to handle any type.  For some types,
+  you can also choose a web application to handle the type, choose a feature
+  (like <a href="glossary.xhtml#live_bookmark">Live Bookmarks</a> for feeds)
+  or a <a href="glossary.xhtml#Plugin">plugin</a> in &brandShortName; to handle
+  the type, or save the type on your computer.-->
+
+<p>種類ごとのコンテンツの扱いを選ぶには、一覧から種類を選択します。
+  選択した種類を扱うアプリケーションの部分がメニューに切り替わります。
+  メニューを開き、その種類のコンテンツを扱うアプリケーションなどを選択してください。</p>
+<!-- To choose a handler for a type, select the type from the list. The current
+  handler for the type will turn into a menu. Open the menu and select the
+  handler you want to handle the type.-->
+
+<ul>
+  <li><em>アプリケーションの選択</em><br/>
+    コンテンツを扱うローカルまたは Web 上のアプリケーションを選ぶには、メニューからアプリケーションを選択します。
+    メニューに無いアプリケーションを選ぶには、メニューから <em>アプリケーションを選択...</em>
+    を選択し、そのアプリケーションの場所を指定してください。</li>
+    <!-- To choose a local or web application to handle a type, select the application
+    from the menu.  If you want a local application that is not in the menu
+    to handle the type, select <em>Choose Application...</em> from the menu
+    and point &brandShortName; to its location. -->
+
+  <li><em>機能またはプラグインの選択</em><br/>
+    コンテンツを扱う &brandShortName; の機能やプラグインが利用可能なときは、
+    それをメニューから選択してください。</li>
+    <!-- If you want a feature or a plugin in &brandShortName; to handle the type,
+    and one is available, select it from the menu. -->
+
+  <li><em>コンピュータに保存</em><br/>
+    その種類のコンテンツをコンピュータに保存したいときは、メニューから <em>ファイルに保存</em>
+    を選択してください。<em>一般</em> パネル内の <em>次のフォルダに保存する</em>
+    &pref.singular;を選択しているときは、コンピュータに自動的に保存されます。
+    同様に <em>ファイルごとに保存先を指定する</em> &pref.singular;を選択していると、
+    ファイルの保存先を尋ねられます。</li>
+    <!-- If you want to save the type on your computer, and it is possible to do so,
+    select <em>Save File</em> from the menu.  If you have selected the <em>Save
+    files to</em> &pref.singular; in the <em>Main</em> panel, &brandShortName;
+    will save content of the type on your computer automatically.  Otherwise,
+    when you encounter the type, &brandShortName; will prompt you for a location
+    on your computer to save it to. -->
+</ul>
+
+<p><strong>注意:</strong> プラグインが利用可能な種類のコンテンツを扱う場合に他のアプリケーションを選ぶと、
+  その種類のコンテンツに直接アクセスしたとき、選んだアプリケーションのみが使用されます。
+  その種類のコンテンツが Web ページに組み込まれている場合はプラグインが使用されます。</p>
+<!-- When a plugin is available to handle a type, and you
+  choose another handler to handle that type, &brandShortName; will only use
+  your chosen handler when you access the type directly.  When the type is
+  embedded inside a web page, &brandShortName; will continue to use the plugin
+  to handle the type.-->
+
+<h2 id="privacy_options">プライバシー&pref.pluralCaps;</h2>
+
+  <h3 id="privacy_history">履歴</h3>
+  <p><em>表示したページの履歴を ... 日分以上記憶する</em><br/>
+    あなたが訪れたページの表示履歴を記憶させる日数を指定することができます。
+    デフォルトは 9 日です。</p>
+      
+  <p><em>Web ページのフォームや検索バーに入力した内容を記憶する</em><br/>
+    Web フォームや検索バーに入力した情報は &brandShortName; に記憶され、
+    再びそこへ入力する際に以前の内容が自動的に用いられます。
+    この動作を止めるには、この&pref.singular;のチェックを外してください。</p>
+
+  <p><em>ダウンロードしたファイルを記憶する</em><br/>
+    この&pref.singular;は、過去のダウンロードをダウンロードマネージャに表示するかどうかを制御します。
+    ダウンロードマネージャ(<span class="menuPath">ツール &gt; ダウンロード</span> を選択するか、<span 
+    class="noUnix">&accelKey;+<kbd>J</kbd></span><span class="unix">&accelKey;+<kbd>Y</kbd></span> を押下して開きます)
+    は、最近ダウンロードしたファイルの一覧を表示します。ダウンロード&pref.plural;は
+    <a href="#main_options"><em>一般</em></a> パネルをご覧ください。</p>
+
+  <h3 id="privacy_cookies">Cookie</h3>
+  <p>Cookie は、Web サイトを訪れた際にあなたのコンピュータに保存されるファイルです。
+    Cookie は Web サイトが作成し、サイト特有の設定などが格納されます。</p>
+
+  <p><em>サイトから送られてきた Cookie を保存する</em><br/>
+    初期設定では Cookie は有効になっています。この&pref.singular;のチェックを外すと
+    Cookie の使用を無効にします。ただし、一部のサイトは Cookie
+    を無効にしていると正常に動作しないことがあるので注意してください。</p>
+
+  <p><em>Cookie を保存する期間:</em></p>
+
+  <ul>
+    <li><em>サイトが指定した期限まで</em><br/>
+      これはデフォルトの&pref.singular;です。この&pref.singular;を選択すると、
+      サイトによって指定された有効期限が切れるまで Cookie を保持します。
+      これはブラウザのセッションに関わらず、サイトにあなたの設定とログイン情報を記憶させることできます。</li>
+    <li><em>&brandShortName; を終了するまで</em><br/>
+      この&pref.singular;を選択すると、&brandShortName; の終了時にすべての
+      Cookie を削除します。</li>
+    <li><em>毎回確認する</em><br/>
+      この&pref.singular;を選択すると、Web サイトが Cookie を保存しようとするとき、毎回
+      Cookie を保存するかどうか尋ねます。</li>
+  </ul>
+
+  <p>サイト対して Cookie の設定を許可するかどうかを制御するには、
+    <em>例外サイト...</em> をクリックしてください。</p>
+      
+  <p>Cookie マネージャを表示するには、<em>Cookie を表示...</em> をクリックしてください。</p>
+
+  <p><a href="cookies.xhtml">Cookie を管理する</a> をご覧になり、Cookie
+    と個々の&pref.plural;、サイトに Cookie の保存を許可する方法についての理解を深めてください。</p>
+      
+  <h3 id="private_data">プライバシー情報</h3>
+  <p><em>&brandShortName; の終了時にプライバシー情報を消去する</em><br/>
+    &brandShortName; の終了時にプライバシー情報を消去するかどうかを選択します。
+    消去されるデータを指定するには、<em>設定...</em> ボタンをクリックしてください。</p>
+    
+  <p><em>プライバシー情報を消去する前に確認する</em><br/>
+    この&pref.singular;を選択すると、<em>設定...</em>
+    ボタンをクリックして指定した情報を、自動的に消去する前に確認します。</p>
+  
+  <p>プライバシー情報を今すぐに消去したいときは、<em>今すぐ消去...</em>
+    ボタンをクリックしてください。
+    &pref.plural;ダイアログを開かずにプライバシー情報を消去するには、
+    &accelKey;+&shiftKey;+<kbd>Del</kbd> を押下するか、<span class="menuPath">ツール
+    &gt; プライバシー情報の消去...</span>を選択してください。</p>
+
+
+<h2 id="security_options">セキュリティ &pref.pluralCaps;</h2>
+<p><em>アドオンのインストールを求められたときに警告する</em><br/>
+  アドオンのインストール時には常に、インストールの許可を求めるダイアログが表示されます。
+  アドオンを予期せずインストールしてしまうようなことを防ぐため、
+  許可されていないサイトからアドオンをインストールしようとした場合には警告し、
+  インストールの許可を求めるダイアログを表示しません。
+  信頼できるサイトからのインストールを許可するには、<em>例外サイト...</em> をクリックし、
+  サイトの URL を入力して <em>許可</em> をクリックしてください。
+  この&pref.singular;のチェックを外すと、すべてのサイトで警告を無効にします。</p>
+
+<p id="phishing"><em>表示中のサイトに偽装サイトの疑いがある場合は警告する</em><br/>
+  あなたの訪れたサイトが個人情報を提供するように欺こうとしていないかどうか
+  (これはよく <strong>フィッシング詐欺</strong> とも言われます) &brandShortName;
+  に常に確認させたいときは、この&pref.singular;にチェックを入れてください。<br/>
+  警告が無くても、そのサイトが信用できるとは限りませんので注意してください。登録されていない
+  "フィッシング詐欺" サイトを見つけたときは、<span class="menuPath">ヘルプ &gt;
+  偽装サイトを報告...</span> を利用して報告してください。詳しくは
+  <a href="menu_reference.xhtml#web_forgery">メニューリファレンス</a> をご覧ください。</p>
+
+<p><em>偽装の疑いがあるサイトの一覧をダウンロードして使用する</em><br/>
+  この&pref.singular;を選択すると、あなたのコンピュータに保存され頻繁に更新される一覧と、
+  現在のサイトを照らし合わせて確認します。
+  通常のブラウズ時は第三者データプロバイダにデータが送信されることはありません。
+  フィッシング技術と Web サイトはとても早く進化しているため、
+  この保護モードはデータプロバイダを利用するよりも効果がありません。</p>
+
+<p><em>表示するサイトすべてについて ... に問い合わせる</em><br/>
+  この&pref.singular;を選択すると、現在のページについてのデータを、選択された第三者データプロバイダに送信します。
+  これは Web サイトの同一性を検証する目的で、暗号化された接続を通して行われます。
+  この方式は最高の保護をもたらしますが、あなたの IP アドレスやブラウザのバージョンなどが選択したプロバイダに送信されます。
+  この&pref.singular;を選択した後に表示されるデータプロバイダのプライバシーポリシーに注意して、確認し、同意する必要があります。</p>
+
+  <h3 id="security_passwords">パスワード</h3>
+  <p><em>サイトのパスワードを保存する</em><br/>
+    Web サイトに簡単にログオンできるように、Web のフォームに入力したパスワードを安全に保存することができます。
+    パスワードを記憶しないようにするには、この&pref.singular;のチェックを外してください。</p>
+    
+  <p>この&pref.singular;にチェックを入れると、初めてサイトを訪れた際にパスワードを保存するかどうか尋ねられます。
+    <em>このサイトでは記憶しない</em> を選択したときはサイトが例外サイト一覧に追加されます。
+    例外サイト一覧を表示して一覧からサイトを削除するには、<em>例外サイト...</em>
+    ボタンをクリックしてください。</p>
+
+  <p id="set_change_master_password"><em>マスターパスワードを使用する</em><br/>
+    保存されたパスワードや証明書などの取り扱いに注意が必要な情報を、<a
+    href="glossary.xhtml#master_password">マスターパスワード</a>
+    を使用し暗号化することによって保護することができます。マスターパスワードを設定すると、&brandShortName;
+    を起動してから保存されたパスワードや証明書に最初にアクセスするとき、パスワードの入力を求められます。
+    この&pref.singular;にチェックを入れるとマスターパスワードを設定、<em>マスターパスワードを変更...</em>
+    をクリックすると変更、チェックを外すと削除することができます。
+    マスターパスワードがすでに設定されているときは、それを変更、削除するためにマスターパスワードを入力する必要があります。</p>
+
+  <p><em>保存されているパスワード...</em><br/>
+    <em>保存されているパスワード...</em> をクリックすると、
+    保存されたパスワードの管理や個々のパスワードを削除することができます。</p>
+
+  <h3 id="warning_messages">警告メッセージ</h3>
+  <p>Web ブラウズ中に表示されるセキュリティ警告を設定するには、<em>設定...</em>
+    ボタンをクリックしてください。</p>
+    
+    <h4>セキュリティ警告ダイアログ</h4>
+    <!--XXX massive suck!  do these provide *any* value whatsoever? -->
+    <dl>
+      <dt>暗号化されたページを表示するとき</dt>
+      <dd>この&pref.singular;を有効にした場合、暗号化されたページを表示する度に確認のダイアログを表示します。</dd>
+
+      <dt>強度の低い暗号化を使用しているページを表示するとき</dt>
+      <dd>この&pref.singular;を有効にすると、強度の低い暗号化を使用したページを訪れた際に警告します。</dd>
+
+      <dt>暗号化されたページから暗号化されていないページへ移るとき</dt>
+      <dd>この&pref.singular;を有効にすると、暗号化されたページから暗号化されていないページへ移動する度に警告します。
+        (ページ上のリンクを選択、ブックマークを選択、新しいアドレスをロケーションバーに入力したときなど)</dd>
+
+      <dt>暗号化されていない情報を送信しようとしたとき</dt>
+      <dd>この&pref.singular;を有効にした場合、暗号化されていないフォームから情報を送信する際に警告します。</dd>
+  
+      <dt>暗号化されていない情報を含む暗号化ページを表示するとき</dt>
+      <dd>この&pref.singular;を有効にすると、表示しているページに暗号化された情報とされていない情報が混在している場合、警告します。
+        暗号化されたページに暗号化されていない情報が含まれるときは、個人情報を入力する前に必ず、表示しているページの所在を確認してください。</dd>
+    </dl>
+
+
+<h2 id="advanced_options">詳細&pref.pluralCaps;</h2>
+<p>詳細パネルには多くの&pref.plural;があります。多くの人々にはあまり使用されませんが、
+  一部の人にとっては不可欠で役に立つ&pref.plural;があります。</p>
+
+  <h3 id="advanced_general">一般タブ</h3>
+    <h4 id="accessibility">アクセシビリティ</h4>
+    <p><em>ページ中の移動にカーソルを使用する(キャレットブラウズモード) </em><br/>
+      この&pref.singular;を有効にすると、Web ページ中を移動可能なカーソルが表示され、
+      キーボードでテキストを選択できるようになります。
+      <kbd>F7</kbd> を押下してモードの有効/無効を切り換えることができます。</p>
+
+    <p><em>キー入力時に検索を開始する</em><br/>
+      この&pref.singular;を有効にすると、検索する文字列の入力と同時に現在の
+      Web ページ内を逐次検索します。入力した文字列をページ内で検索している間、
+      検索した文字列についての情報を表示する検索ツールバーが自動的にウインドウ下部に表示されます。</p>
+
+    <h4 id="browsing">ブラウズ</h4>
+    <p><em>自動スクロール機能を使用する</em><br/>
+      自動スクロールは、マウスの中央ボタン (通常はスクロールホイール) を押したまま
+      マウスを上下に移動させるだけでページをスクロールすることができる便利な機能です。
+      この機能を迷惑に感じる方は、この&pref.singular;で自動スクロールを無効にしてください。</p>
+
+    <p><em>スムーズスクロール機能を使用する</em><br/>
+      スムーズスクロールは、とても長いページを読むときにとても役立ちます。
+      通常は <kbd>Page Down</kbd> キーを押下するとすぐに 1 ページ下を表示します。
+      スムーズスクロールでは、より滑らかに下へスクロールします。
+      スクロールした量を確かめることができるため、
+      前に読んでいた個所から容易に続けて読むことができます。</p>
+        
+    <p><em>自動スペルチェック機能を使用する</em><br/>
+      この設定を有効にした場合、Web フォームに入力した単語の綴りを自動的にチェックし、修正候補を提供します。
+      日本語版にはスペルチェックのための辞書が同梱されていないため、
+      この機能を使用するには辞書をダウンロードする必要があります。
+      任意のテキストフィールド上で<span class="noMac">右クリック</span><span class="mac"> &ctrlKey;
+      を押下しながらクリック</span>し、<span class="menuPath">辞書を追加...</span>
+      メニューを選択して辞書をダウンロードしてください。
+      さらに辞書を追加するには、同様にコンテキストメニューの <em>このフィールドのスペルチェックを行う</em> 
+      にチェックを入れてスペルチェックを有効にし、コンテキストメニューに追加される
+      <span class="menuPath">言語 &gt; 辞書を追加...</span> メニューを選択して辞書をダウンロードしてください。</p>
+
+  <h3 id="advanced_network">ネットワークタブ</h3>
+
+    <h4 id="connection_settings">接続</h4>
+    <p>あなたが所属する組織やインターネットサービスプロバイダは、
+      プロキシを提供しているか、プロキシを使用する必要があるかもしれません。
+      プロキシはあなたのコンピュータとインターネットの仲介として動作します。
+      プロキシは、そのキャッシュを使用して要求に応えることができるかどうかを知るために、
+      すべてのインターネットへの要求に割り込みます。プロキシはパフォーマンスの向上や要求処理、
+      コンピュータをインターネットから隠蔽して安全性を向上させるために使用されます。
+      また、企業のファイアーウォールの一部としても使用されます。</p>
+
+    <h4>インターネット接続ダイアログ</h4>
+      <dl>
+        <dt>インターネットに直接接続する</dt>
+        <dd>これはデフォルト&pref.singular;です。プロキシを使用しないときは、これを選択してください。</dd>
+
+        <dt>このネットワークのプロキシ設定を自動検出する</dt>
+        <dd>あなたのネットワークのプロキシ設定を自動検出したいときは、これを選択してください。</dd>
+
+        <dt>手動でプロキシを設定する</dt>
+        <dd>プロキシの場所 (URL) を知らないときは、これを選択してください。
+          各ネットワークサービスのプロキシソフトウェアを実行するサーバ名とポート番号を
+          システム管理者に尋ねて、それらを適切なフィールドに入力してください。</dd>
+
+        <dt>自動プロキシ設定スクリプト URL</dt>
+        <dd>あなたの職場がプロキシ設定ファイルを持っているときは、
+          システム管理者にその URL を尋ねてここに入力してください。
+          <em>再読み込み</em> をクリックすると設定を読み込みます。</dd>
+      </dl>
+
+    <h4 id="advanced_cache">キャッシュ</h4>
+    <p>あなたが表示するページは通常、再び同じページを訪れた際にすぐ表示できるように、
+      特別なキャッシュフォルダに保存されます。
+      キャッシュに利用できるディスク領域の容量をここで指定することができます。
+      また、キャッシュの内容をすぐに消去することもできます。</p>
+    
+    <p><em>ページキャッシュとして ... MB まで使用する</em><br/>
+      あなたのコンピュータ上のキャッシュの最大サイズを、メガバイト単位で指定することができます。</p>
+    
+    <p><em>今すぐ消去</em><br/>
+      現在のキャッシュの内容をすぐに消去して、キャッシュに使用されているディスク空間を開放します。</p>
+  
+  <h3 id="advanced_update">更新タブ</h3>
+    <p>インストールされたアドオン、または&brandShortName;
+     自身を更新可能かどうか確認することができます。</p>
+
+    <p><em>次のソフトウェアの更新を自動的に確認する:</em><br/>
+      初期設定では、&brandShortName; 自身とアドオン、検索エンジンが更新可能かどうか自動的に確認され、
+      常に最新のバージョンを使用することができます。
+      この動作を止めるには、各チェックボックスのチェックを外してください。</p>
+
+    <p><em>&brandShortName; の更新が見つかったとき</em></p>
+
+    <dl>
+      <dt>どうするか確認する</dt>
+      <dd>初期設定では、&brandShortName; は自動的に更新されます。
+        &brandShortName; の最新版をいつ、どのようにインストールするかを手動で制御するには、
+        この&pref.singular;を選択してください。</dd>
+      <dt>自動的に更新をダウンロードしてインストールする</dt>
+      <dd>この&pref.singular;が選択されている場合、&brandShortName;
+        の最新版は自動的にダウンロードされ、&brandShortName; を再起動した後にインストールされます。
+        &brandShortName; の更新時に互換性のないアドオンは、
+        新しい互換性のあるバージョンが存在しない場合、無効化されます。
+        <em>更新によりアドオンが無効化される場合は警告する</em>
+        &pref.singular;にチェックを入れると、&brandShortName; の最新版をインストールする前にこれを警告します。
+        この警告により、機能向上を含む最新版のインストールを延期することができます。<br/><br/>
+        &brandShortName; は、すべての拡張機能とテーマに互換性があるか、それらの最新版と互換性があるとき更新されます。
+        また再起動中に必要なアドオンを更新するか尋ねられるので、それらを継続して使用することができます。</dd>
+    </dl>
+
+    <p><em>更新履歴を表示</em><br/>
+      更新されると、インストールの履歴が自動的に記録されます。
+      このボタンをクリックすると更新履歴を表示します。</p>
+
+    <p><strong>注意:</strong>
+      &brandShortName; 自身を更新するには、<span class="win">管理者</span><span
+      class="noWin">root </span>権限をもったユーザか、元の &brandShortName;
+      をインストールしたユーザが &brandShortName; を実行している必要があります。</p>
+
+  <h3 id="advanced_encryption">暗号化タブ</h3>
+
+    <h4 id="protocols">プロトコル</h4>
+    <p><em>SSL 3.0 を使用する</em><br/>
+      SSL3 (Secured Sockets Layer Level 3) を使用して、情報を安全に送受信をする場合に指定してください。
+      これは、Web サイトと安全に通信するための標準プロトコルです。
+      無効にすると、一部の安全なサイトを訪れることはできません。</p>
+
+    <p><em>TLS 1.0 を使用する</em><br/>
+      SSL3 (Secure Sockets Layer) に似たオープンなセキュリティ標準 TLS
+      (Transport Layer Security) を使用して、情報を安全に送受信をする場合に指定してください。
+      無効にすると、一部の安全なサイトを訪れることはできません。</p>
+
+    <h4 id="certificates">証明書</h4>
+    <p><a href="glossary.xhtml#certificate">証明書</a>によって<a
+      href="glossary.xhtml#secure_site">安全なサイト</a>への接続の暗号化と復号が行われます。</p>
+
+    <p><em>Web サイトが証明書を要求したとき:</em><br/>
+      一部のサーバは独自の証明書の審査を要求します。
+      そのため、&brandShortName; が証明書を生成するかどうかを尋ねます。
+      後でそのサイトを訪れた場合、デフォルトでは、その証明書が自動的に選択されます。
+      証明書を指定したいとき (例えば、複数の Web サイトのための証明書が複数保存されているとき)
+      は、<em>毎回自分で選択する</em> &pref.singular;を選択してください。
+      閲覧中、Web サイトに送信される証明書を完全に制御することができます。</p>
+      <!-- Some servers ask you to identify yourself with a personal certificate. In
+      order to do so, they ask &brandShortName; to generate one for you. When
+      you visit the site in the future, &brandShortName; selects the certificate
+      without asking you by default. If you wish to manually choose a
+      certificate (for example, if you have multiple certificates stored for
+      multiple web sites), select the <em>Ask me every time</em> &pref.singular;
+      and you'll be in complete control of what certificates are being sent to
+      web sites while browsing.-->
+
+    <p><em>証明書を表示</em><br/>
+      保存された証明書の表示、新しい証明書の読み込み、
+      古い証明書のバックアップや削除をするにはこのボタンをクリックしてください。</p>
+
+    <p><em>失効リスト</em><br/>
+      &brandShortName; は証明書が無効でないことを保証するために、証明書失効リスト
+      (CRLとしても知られています) を使用します。あなたのコンピュータにインストールされた CRL
+      を管理するには、<em>失効リスト</em> ボタンをクリックしてください。</p>
+
+    <p><em>検証</em><br/>
+      &brandShortName; は証明書がまだ正当なものかどうかを OCSP (Online Certificate Status Protocol)
+      サーバに確認します。デフォルトでは、証明書が OCSP サーバを提供しているときのみ検証します。
+      代わりに、すべての証明書を検証する OCSP サーバを指定しておくこともできます。
+      これらの&pref.plural;を管理するには <em>検証</em> ボタンをクリックしてください。
+      これは、あなたのインターネット環境が必要とする場合のみ変更してください。</p>
+
+    <p><em>セキュリティデバイス</em><br/>
+      セキュリティデバイスは接続の暗号化と復号、証明書とパスワードを保存します。
+      &brandShortName; で 1 つ以上のセキュリティデバイスを使用する必要があるときは
+      <em>セキュリティデバイス</em> ボタンをクリックしてください。</p>
+
+<div class="contentsBox"><em>原文: 09 October 2007, 和訳: 17 November 2007</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>
