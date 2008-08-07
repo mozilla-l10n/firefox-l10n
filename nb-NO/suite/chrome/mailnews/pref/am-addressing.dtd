@@ -1,0 +1,34 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label          "Adressering og utforming">
+<!ENTITY addressingGroupTitle.label "Adressering">
+<!ENTITY autocompleteToMyDomain.label     "Automatisk legg til domene på slutten av adresser">
+<!ENTITY autocompleteToMyDomain.accesskey "u">
+<!ENTITY addressingText.label      "Ved adresseoppslag:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Bruk globale LDAP-tjenerinnstillinger for denne kontoen.">
+<!ENTITY useGlobal.accesskey       "G">
+<!ENTITY editDirectories.label     "Rediger kataloger ...">
+<!ENTITY editDirectories.accesskey "K">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Bruk en annen LDAP-tjener:">
+<!ENTITY directories.accesskey     "K">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Utforming">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Skriv meldinger i HTML-format">
+<!ENTITY useHtml.accesskey                    "H">
+<!ENTITY autoQuote.label                      "Siter den originale meldingen ved svar">
+<!ENTITY autoQuote.accesskey                  "a">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label                           "Og:">
+<!ENTITY then.accesskey                       "O">
+<!ENTITY aboveQuote.label                     "start svaret ovenfor den siterte teksten">
+<!ENTITY belowQuote.label                     "start svaret nedenfor den siterte teksten">
+<!ENTITY selectAndQuote.label                 "merk den siterte teksten">
+<!ENTITY place.label                          "og plasser signaturen min">
+<!ENTITY place.accesskey                      "p">
+<!ENTITY belowText.label                      "under sitert tekst (anbefalt)">
+<!ENTITY aboveText.label                      "under svaret mitt (over sitert tekst)">

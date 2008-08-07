@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Kopier og mapper">
+<!ENTITY sendingPrefix.label "Når meldinger sendes:">
+<!ENTITY fccMailFolder.label "Legg en kopi i:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "Plasser svarmelding i mappen til meldingen som ble svart på">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Velg mappe ...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Send blind kopi (BCC) til disse e-postadressene">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Spesialmapper">
+<!ENTITY draftMailFolder.label "Oppbevar meldingsutkast i:">
+<!ENTITY templateMailFolder.label "Oppbevar meldingsmaler i:">
+<!ENTITY saveMessageDlg.label "Vis bekreftelsesdialog når meldinger lagres">
+<!ENTITY saveMessageDlg.accesskey "M">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "«Sendt»-mappen på:">
+<!ENTITY sentFolderOn.accesskey "S">
+<!ENTITY sentInOtherFolder.label "Annet:">
+<!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "«Utkast»-mappen på:">
+<!ENTITY draftsFolderOn.accesskey "U">
+<!ENTITY draftInOtherFolder.label "Annet:">
+<!ENTITY draftInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "«Maler»-mappen på:">
+<!ENTITY templatesFolderOn.accesskey "M">
+<!ENTITY templateInOtherFolder.label "Annet:">
+<!ENTITY templateInOtherFolder.accesskey "A">
+<!ENTITY specialFoldersTitle.label "Utkast og maler">
+<!ENTITY keepDrafts.label "Oppbevar meldingsutkast i:">
+<!ENTITY keepTempltes.label "Oppbevar meldingsmaler i:">

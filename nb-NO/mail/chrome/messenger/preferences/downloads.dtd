@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label              "Vedlegg-mappe">
+<!ENTITY alwaysAsk.label              "Spør meg hvor hver fil skal lagres">
+<!ENTITY alwaysAsk.accesskey          "S">
+<!ENTITY neverAsk.label               "Lagre alle vedlegg til denne mappen:">
+<!ENTITY neverAsk.accesskey           "L">
+<!ENTITY desktop.label                "Skrivebord">
+<!ENTITY downloads.label              "Mine nedlastinger">
+<!ENTITY chooseFolderWin.label        "Bla gjennom …">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "Velg …">
+<!ENTITY chooseFolderMac.accesskey    "V">
+
+
+<!ENTITY fileTypes.label              "Nedlastingshandlinger">
+<!ENTITY configureActions.label       "Vis og rediger handlinger …">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypesDescription.label   "&brandShortName; kan automatisk lagre eller åpne vedlegg med bestemte typer.">
+
+<!ENTITY fileTypeColName.label        "Filtype">
+<!ENTITY fileHandlerColName.label     "Program">
+<!ENTITY editFileHandler.label        "Endre handling …">
+<!ENTITY editFileHandler.accesskey    "a">
+<!ENTITY removeFileHandler.label      "Fjern">
+<!ENTITY removeFileHandler.accesskey  "r">

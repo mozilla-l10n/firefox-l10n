@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Ryan Flint <rflint@dslr.net>
+  Jeff Walden <jwalden+code@mit.edu>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>&brandFullName;-innstillinger</title>
+  <link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandFullName;-innstillinger</h1>
+<p>Dette dokumentet forklarer alle innstillingene tilgjengelig via
+  Innstillinger-vinduet i &brandFullName;.</p>
+
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#main_options">Generelle innstillinger</a></li>
+    <li><a href="#tabs_options">Faneinnstillinger</a></li>
+    <li><a href="#content_options">Innholdsinnstillinger</a></li>
+    <li><a href="#feeds_options">Nyhetskildeinnstillinger</a></li>
+    <li><a href="#privacy_options">Personverninnstillinger</a></li>
+    <li><a href="#security_options">Sikkerhetsinnstillinger</a></li>
+    <li><a href="#advanced_options">Avanserte innstillinger</a></li>
+  </ul>
+</div>
+
+<h2 id="main_options">Generelle innstillinger</h2>
+
+  <h3 id="startup">Oppstart</h3>
+  <p>Når du åpner &brandShortName; vil som standard oppførsel din <a
+    href="glossary.xhtml#home_page">startside</a> bli vist.  Startsiden din
+    kan være en nettside du besøker ofte, en søkemotor, eller kanskje
+    e-postboksen din, valget er ditt. Du kan endre startsiden eller velge
+    en annen nettside eller sett av nettsider i
+    denne seksjonen.</p>
+
+  <p><em>Når &brandShortName; starter</em><br/>
+    Som standard oppførsel vil &brandShortName; åpne startsiden (som er vist i
+    tekstboksen nedenfor), som tilsvarer <em>Vis
+    startside</em>-alternativet.  Du kan også velge å bare vise en tom side
+    ved oppstart (f.eks. for å redusere tiden det tar å starte opp
+    programmet) ved å velge <em>Vis tom side</em>-alternativet.</p>
+
+  <p>Det siste alternativet er å la &brandShortName; åpne vinduene og
+    fanene som var åpne sist du brukte &brandShortName;, som i praksis
+    betyr at du gjenoppretter det du gjorde sist du brukte nettleseren.
+    Dette kan være en nyttig måte å lagre informasjon om det du gjorde sist gang
+    &brandShortName; ble avsluttet, f.eks. på grunn av at operativsystemet måtte bli oppdatert.  Du kan
+    velge dette ved å bruke <em>Vis vinduer og faner som ble brukt
+    sist</em>.</p>
+
+  <p><em>Startside</em><br/>
+    Dersom du har satt &brandShortName; til å vise startsiden når du åpner
+    &brandShortName;, kan du her angi hvilken side som skal vises.  Du kan
+    også trykke på knappene under tekstfeltet for å velge en spesiell
+    startside:</p>
+
+  <ul>
+    <li><em>Bruk åpen nettside</em> setter nettsiden som blir vist akkurat nå (eller nettsider,
+      dersom du har flere åpne faner) som startside</li>
+    <li><em>Bruk bokmerke</em> setter et valgt bokmerke (eller hvis du velger
+      en mappe, setter alle bokmerkene i mappen som startside) som startside</li>
+    <li><em>Gjenopprett forvalg</em> gjenoppretter startsiden til forvalgt
+      startside</li>
+  </ul>
+
+  <h3 id="downloads">Nedlastinger</h3>
+  <p>Denne delen omhandler innstillinger om hvordan &brandShortName;
+    laster ned filer.</p>
+
+  <p><em>Vis nedlastingsvinduet ved nedlasting av filer</em><br/>
+    Dersom du velger denne innstillingen vil &brandShortName; åpne <a
+    href="download_manager.xhtml">nedlastingsvinduet</a> når du starter
+    nedlasting av en fil.</p>
+
+  <p><em>Lukk nedlastingsbehandling når alle nedlastinger er fullførte</em><br/>
+    Velg om du vil at nedlastingsbehandling skal bli lukket når alle
+    nedlastinger er fullførte.</p>
+
+  <p><em>Lagre alle filer til denne mappen:</em><br/>
+    Dette er standard oppførsel i &brandShortName;. Standard mappe er
+    skrivebordet. Du kan angi en annen mappe hvor nedlastinger skal
+    lagres ved å trykke på
+    <em>Bla gjennom ...</em>-knappen.</p>
+
+  <p><em>Spør meg hvor hver fil skal lagres</em><br/>
+    Med denne innstillingen valgt, vil &brandShortName; spørre deg hvor
+    hver fil skal bli lagret hver gang du laster ned en fil (istedenfor
+    å bruke plasseringen angitt ovenfor).</p>
+
+  <h3 id="system_defaults">Systemforvalg</h3>
+  <p><em>Alltid sjekk om &brandShortName; er standard nettleser
+    ved oppstart</em><br/>
+    Kryss av ved denne innstillingen dersom du vil at &brandShortName; skal se om den er satt som
+    datamaskinens standard nettleser ved oppstart. Dette vil forsikre at
+    &brandShortName; benyttes når et annet program forsøker å vise en
+    nettside.  Du kan også trykke på
+    <em>Sjekk nå</em>-knappen for å utføre sjekken med en gang.</p>
+
+
+<h2 id="tabs_options">Faneinnstillinger</h2>
+<p><em>Åpne nye sider i:</em><br/>
+  Denne innstillingen bestemmer om lenker fra andre programmer eller
+  nettsider som forespør åpning av nye vinduer, skal åpnes i <em>et nytt
+  vindu</em> eller <em>en ny fane</em> i det sist brukte nettleservinduet.</p>
+
+<p><strong>Merk:</strong> Dersom du har valgt å åpne nettsider i ny faner vil
+  &brandShortName; overse denne innstillingen og vil alltid åpne et nytt vindu
+  fra lenker, dersom nettsideforfatteren spesifiserte at det nye vinduet skal ha en
+  bestemt størrelse, fordi noen nettsider bare kan vises korrekt med en
+  bestemt størrelse.</p>
+
+<p><em>Advar ved lukking av flere faner</em><br/>
+  Når du lukker et vindu med flere faner vil &brandShortName; be deg bekrefte
+  ditt valg. Dette forhindrer deg fra å stenge hele vinduet
+  når du egentlig bare ville stenge den aktive fanen. Her kan
+  du velge å ikke vise advarselen, og la &brandShortName;
+  automatisk lukke vinduet.</p>
+
+<p><em>Advar meg når lukking av flere faner kan gjøre &brandShortName;
+  treg</em><br/>
+  Når du åpner et stort antall av faner samtidig vil &brandShortName; be deg
+  bekrefte handlingen. Dette forhindrer at du ved et uhell gjør systemet ditt
+  tregt mens sidene laster inn.  Fjern valget fra denne innstillingen for å
+  slå av advarselen.</p>
+
+<p><em>Alltid vis fanelinjen</em><br/>
+  Dersom du bare viser en nettside i et &brandShortName;-vindu vil
+  fanelinjen normalt ikke vises. Velg denne innstillingen for å alltid vise fanelinjen,
+  selv om &brandShortName;-vinduet bare inneholder en eneste
+  fane.</p>
+
+<p><em>Aktiver faner som er åpnet fra lenker</em><br/>
+  Når du midt-trykker på lenker (eller holder nede &accelKey; mens du
+  venstreklikker), vil lenkene åpnes i en ny fane. Den fanen
+  vil ikke bli vist direkte, den vil lastes i bakrunnen. Her kan gjøre slik
+  at den nye fanen blir vist med
+  en gang.</p>
+
+
+<h2 id="content_options">Innholdsinnstillinger</h2>
+<p><em>Blokker sprettoppvinduer</em><br/>
+  &brandShortName; vil i utgangspunktet blokkere alle sprettoppvinduer.
+  Her kan du deaktivere det.</p>
+
+<p>Noen nettsider bruker sprettoppvinduer på en ønskelig måte. Derfor
+  kan du gi disse nettstedene et unntak fra blokkeringen. For å gjøre det, trykk <em>Tillatte
+  nettsted</em>, skriv inn adressen og klikk <em>Tillat</em>. &Aring; fjerne et nettsted
+  er så enkelt som å markere det og velge <em>Fjern nettsted</em>. For å fjerne
+  hele listen, trykk på <em>Fjern alle nettsted</em>.</p>
+
+<p><em>Last inn bilder</em><br/>
+  I utgangspunktet vil &brandShortName; laste bilder fra nettsider.
+  Her kan du deaktivere det.</p>
+
+<p>Avhengig av om du tillater lasting av bilder, kan du velge hvilken side du vil
+  blokkere og hvilken du vil tillate ved å klikke på <em>Unntak</em>.
+  Skriv inn adressen
+  til siden du vil blokkere/tillate og klikk
+  <em>Tillat</em> for å tillate bilder, eller
+  <em>Blokker</em> for å blokkere
+  bilder.</p>
+
+<p><em>Tillat JavaScript</em><br/>
+  JavaScript er et mye brukt skriptspråk for å konstruere dynamiske
+  nettsider. Men JavaScript kan også være kilden til plagsom oppførsel på
+  nettsider. For å slå slå av JavaScript kan du slå av denne innstillingen. Merk at
+  dersom du slår av JavaScript kan noen nettsider også slutte å virke ordentlig. For mer
+  detaljert kontroll over hva JavaScript kan og ikke kan gjøre, trykk på
+  <em>Avansert ...</em>.</p>
+
+  <h4 id="advanced_javascript">Avanserte JavaScript-innstillinger</h4>
+  <dl>
+    <dt>Flytte eller endre størrelse på vinduer</dt>
+    <dd>Deaktiver denne for å forhindre at skript kan flytte eller
+      endre størrelse på vinduer.</dd>
+
+    <dt>Minimere eller maksimere vinduer</dt>
+    <dd>Deaktiver denne for å forhindre at skript kan minimere eller
+      maksimere vinduer.</dd>
+
+    <dt>Slå av eller erstatte kontekstmenyer</dt>
+    <dd>Deaktiver denne for å forhindre at nettsider kan slå av eller endre
+      kontekstmenyer i &brandShortName;.</dd>
+
+    <dt>Skjule statuslinjen</dt>
+    <dd>Deaktiver denne for å tvinge statuslinjen til å bli vist også i
+      sprettoppvinduer.</dd>
+
+    <dt>Endre teksten på statuslinjen</dt>
+    <dd>Deaktiver denne for å forhindre at nettsider endrer statuslinjeteksten (som
+      for eksempel å vise en rullende tekstmelding, eller forhindre lenkeadresser
+      å bli vist når du flytter muspekeren over en lenke).</dd>
+  </dl>
+
+  <p><em>Tillat Java</em><br/>
+    Java er et popul&aelig;rt programmeringsspråk utviklet av Sun
+    Microsystems. Et enkelt Javaprogram kan kjøre på mange forskjellige
+    datasystemer, så slipper programmereren å lage en versjon av programvaren
+    for hvert datasystem. Fjern avkryssingen for dette valget for å deaktivere Java i &brandShortName;.
+    Husk at for å kunne bruke Java-programmer må du ha installert
+    Java-tilleggsprogrammet.</p>
+
+  <h3 id="fonts_and_colors">Skrifttyper og farger</h3>
+  <p><em>Standard skrifttype</em> og <em>størrelse</em><br/>
+    Nettsider blir vanligvis vist med skrifttypen og størrelsen som er oppgitt her.
+    Noen nettsider kan overstyre disse valgene, med mindre du har angitt noe annet
+    i Skrifttyper-dialogen. Trykk på <em>Avansert ...</em>-knappen for å få tilgang
+    til flere skriftinnstillinger.</p>
+
+    <h4 id="fonts_dialog">Skrifttypedialog</h4>
+    <ol>
+      <li>I rullegardinmenyen <em>Skrifttyper for:</em>, velger du et tegnsett.
+        F.eks. for å velge en skrifttype for Vestlig tegnsett,
+        velg <em>Vestlig</em>. For å bruke et
+        språk som ikke fins i listen, bruk <em>Andre språk</em>.</li>
+      <li>Velg om proporsjonal tekst skal v&aelig;re Serif (som &quot;Times
+        New Roman&quot;) eller sans-serif (som &quot;Arial&quot;). Spesifiser
+        så hvilken skrifttype du vil ha for proporsjonal tekst.</li>
+      <li>Spesifiser hvilken skrifttype du vil bruke for Serif, Sans-serif og Monospace skrifttyper.
+        Du kan også forandre størrelsen på <code>Monospace skrifftyper</code>.</li>
+    </ol>
+
+    <p>Du kan sette en minumum skriftstørrelse. Dette er
+      nyttig for noen sider som bruker veldig liten tekst som såvidt er leselig.</p>
+
+    <p><em>Tillat nettsider å velge egne skrifttyper istedenfor de
+      valgt ovenfor</em><br/>
+      I utgangspunktet vil &brandShortName; bruke de skrifttypene som er spesifisert av forfatteren
+      av nettsiden. Deaktiverer du dette valget vil du tvinge alle nettsider til å
+      bruke dine standardskrifttyper istedenfor.</p>
+
+    <p><em>Tegnkoding</em><br/>
+      Denne tegnkodingen vil bli brukt til å vise nettsider som ikke spesifiserer
+      en tegnkoding.</p>
+
+    <h4 id="colors_dialog">Fargedialog</h4>
+    <p><strong>Tekst og bakgrunn</strong><br/>
+      Her kan du endre standard tekst- og bakgrunnsfarger som brukes til
+      nettsider som ikke har oppgitt denne informasjonen. Trykk på fargene
+      for å velge farger.</p>
+
+    <p><em>Bruk systemfarger</em><br/>
+      Velg dette for å bruke fargene til operativsystemet istedenfor
+      fargene valgt over.</p>
+
+    <p><strong>Lenkefarger</strong><br/>
+    Her kan du forandre standardfargene for lenker. Klikk på fargevalgene for
+      å velge en farge.</p>
+
+    <p><em>Understrek lenker</em><br/>
+    Som standard vil ikke lenker v&aelig;re understreket. Ta vekk dette krysset for
+      å deaktivere understreking av lenker. Husk at mange sider oppgir sine egne
+      utsendeenderegler, og da vil disse innstillingene ikke ha noen effekt.</p>
+
+    <p><em>Tillat nettsider å velge egne farger, istedenfor valgene mine
+      ovenfor</em><br/>
+      I utgangspunktet vil &brandShortName; bruke fargene som oppgis av forfatteren av
+      nettsider. Ved å slå av denne innstillingen, tvinger du nettsider til å bruke
+      fargene som du velger her isteden.</p>
+
+  <h3 id="file_types">Filtyper</h3>
+  <p>Nedlastingshandlinger-dialogen, som kan åpnes ved å trykke på
+    <em>Behandle ...</em>-knappen, inneholder filtyper som du har lastet ned.
+    Du kan velge hva &brandShortName; bør gjøre med disse filtypene ved å trykke på
+    filtypen du vil endre, og deretter trykke på
+    <em>Rediger handling ...</em>-knappen.</p>
+
+  <p>Dette vil vise nedlastingshandlinger-dialogen, hvor du kan
+    velge at filtypen skal åpnes med standard program, med et annet
+    program, lagres til disk, eller vises med et installert programtillegg. For eksempel
+    hvis du bruker mange mediafiler på nettsider kan du angi at
+    &brandShortName; alltid skal vise mediafiler i medieavspilleren din istedenfor
+    å spørre deg hver gang hvor disse filene skal lagres.</p>
+
+  <ul>
+    <li><em>Åpne med standard program:</em><br/>
+      Velg dette alternativet for å åpne filen med standard
+      program for den bestemte filtypen (dette programmet bestemmes av operativsystemet).</li>
+    <li><em>Åpne med dette programmet:</em><br/>
+      Velg dette alternativet for å velge et annet program som skal
+      behandle denne filtypen. Du vil få en dialog som ber deg angi
+      hvilket program som skal brukes.</li>
+    <li><em>Lagre dem på min datamaskin:</em><br/>
+      Dette alternativet vil lagre filene automatisk til disk (automatisk dersom du
+      har valgt <em>Lagre filer til</em>-innstillingen i
+      <em>Generelt</em>-panelet).</li>
+    <li><em>Bruk dette programtillegget:</em><br/>
+      Velg dette alternativet dersom du vil la et programtillegg behandle denne filtypen.</li>
+  </ul>
+
+
+<h2 id="feeds_options">Nyhetskildeinnstillinger</h2>
+<p>Nyhetskilder er spesielt formaterte dokumenter som oppsummerer innholdet på
+  nettsider. En nyhetskilde kan for eksempel oppsummere de siste nyhetsoverskriftene fra en
+  nyhetsside eller de siste innleggene i en blogg. Du kan se innholdet av nyhetskilder inni
+  &brandShortName;, opprette levende bokmerker for dem, eller legge dem til i en nyhetsleser
+  på datamaskinen din eller på nettet. Innstillingen i dette panelet angir hva
+  &brandShortName; gjør når du åpner en nyhetskilde.</p>
+
+<p><em>Forhåndsvis nyhetskilden og spør hvilken nyhetsleser som skal brukes</em><br/>
+  Når du åpner en nyhetskilde i &brandShortName; vil innholdet i den bli
+  forhåndsvist. Dersom denne innstillingen er valgt, vil du alltid bli spurt
+  om hva du vil bruke for å abonnere på nyhetskilden fra øverst i
+  forhåndsvisningssiden.</p>
+
+<p><em>Abonner på nyhetskilden med</em><br/>
+  Isteden for å vise en forhåndsvisning av nyhetskilden når du åpner den, kan du
+  få nyhetskilden direkte åpnet i en nyhetsleser ved å velge nyhetsleseren fra
+  listen over tilgjengelige nyhetslesere.  Du kan velge et program på
+  datamaskinen din å abonnere med ved å trykke på <em>Velg program ...</em>-knappen
+  og deretter velge programmet på datamaskinen din.  Du kan også
+  velge å automatisk abonnere på nyhetskilden ved å lagre den som et levende bokmerke.
+  For å velge en abonneringsmetode, simpelthen velg den fra listen.</p>
+
+
+<h2 id="privacy_options">Personverninnstillinger</h2>
+
+  <h3 id="privacy_history">Historikk</h3>
+  <p><em>Husk hvilke nettsider som er besøkt de siste ... dagene</em><br/>
+    Her kan du angi hvor lenge du vil at &brandShortName; husker hvilke
+    nettsider som har blitt besøkt. Den forvalgte verdien er 9 dager.</p>
+
+  <p><em>Husk innhold i skjemaer og søkefeltet</em><br/>
+    Når du skriver inn tekst i nettsideskjemaer eller i søkeverktøylinjen i
+    &brandShortName; vil den informasjonen lagres slik at &brandShortName; kan
+    gi forslag når du skriver inn informasjon i skjemaer i fremtiden. For å ikke bruke
+    denne oppførselen kan du fjerne avkryssingen på denne innstillingen.</p>
+
+  <p><em>Husk filer som er lastet ned</em><br/>
+    Denne innstillingen bestemmer om tidligere nedlastinger vil vises eller ikke vises i
+    nedlastingsvinduet. Nedlastingsvinduet (tilgjengelig fra <span
+    class="menuPath">Verktøy</span>-menyen, eller ved å trykke <span
+    class="noUnix">&accelKey;+<kbd>J</kbd></span><span
+    class="unix">&accelKey;+<kbd>Y</kbd></span>) viser en liste over nedlastinger
+    som er gjort i det siste.  Nedlastingsinnstillinger finnes på <a
+    href="#main_options"><em>Generelt</em></a>-panelet.</p>
+
+  <h3 id="privacy_cookies">Informasjonskapsler</h3>
+  <p>En informasjonskapsel er en liten fil som opprettes av et nettsted som lagrer informasjon på
+    datamaskinen din. Dette kan f.eks. være nettstedsspesifikke innstillinger for besøkende til det nettstedet.</p>
+
+  <p><em>Tillat informasjonskapsler</em><br/>
+    Som standard oppførsel blir informasjonskapsler tillatt. Fjern valget fra
+    denne innstillingen for å ikke tillate bruk av informasjonskapsler. Merk at
+    noen nettsider vil kanskje ikke virke dersom informasjonskapsler ikke
+    tillates.
+  </p>
+
+  <p><em>Behold inntil:</em></p>
+
+  <ul>
+    <li><em>de utgår på dato</em><br/>
+      Dette er vanlig oppførsel. Når denne innstillingen er satt, vil
+      nettsider selv angi hvor lenge informasjonskapsler skal leve. Dette gjør
+      det mulig for et nettsted å huske innstillinger og innloggingsinformasjon
+      lengre enn programøkten til nettleseren.</li>
+    <li><em>jeg lukker &brandShortName;</em><br/>
+      Med denne innstillingen valgt vil &brandShortName; fjerne alle
+      lagrede informasjonskapsler når den lukkes.</li>
+    <li><em>spør meg hver gang</em><br/>
+      Med denne innstillingen valgt vil &brandShortName; spørre deg hvor lenge
+      du ønsker at en informasjonskapsel skal beholdes (eller avslå den helt) hver gang et
+      nettsted forsøker å sette en.</li>
+  </ul>
+
+  <p>For å kontrollere hvilke nettsted som kan sette eller ikke sette informasjonskapsler, trykk på
+    <em>Unntak ...</em>-knappen.</p>
+
+  <p>For å vise informasjonskapselbehandling, trykk på <em>Vis informasjonskapsler ...</em>-knappen.</p>
+
+  <p>Les mer om informasjonskapsler og de forskjellige innstillingene, og hvordan
+    du kan kontrollere hvilke nettsider som har tilgang til å lagre informasjonskapsler på datamaskinen din, ved
+    å lese om <a href="cookies.xhtml">behandling av informasjonskapsler</a>.</p>
+
+  <h3 id="private_data">Private data</h3>
+  <p><em>Alltid slett private data når jeg lukker &brandShortName;</em><br/>
+    Du kan velge at &brandShortName; skal slette all private data når du
+    lukker den. For å konfigurere hvilke data som blir slettet, trykk på
+    <em>Innstillinger ...</em>-knappen.</p>
+
+  <p><em>Spør meg før private data slettes</em><br/>
+    Med denne innstillingen valgt, vil &brandShortName; spørre deg før
+    den automatisk sletter de data som er avkrysset under
+    <em>Innstillinger ...</em>-knappen.</p>
+
+  <p>Dersom du ønsker å slette private data med en gang, kan du trykke på
+    <em>Slett nå ...</em>-knappen for å gjøre det.  For å slette private data fra utenfor
+    innstillinger-dialogen kan du enten trykke &accelKey;+&shiftKey;+<kbd>Del</kbd>
+    eller velge <span class="menuPath">Verktøy &gt; Slett private data ...</span>.</p>
+
+
+<h2 id="security_options">Sikkerhetsinnstillinger</h2>
+<p><em>Advar når nettsider prøver å installere utvidelser</em><br/>
+  &brandShortName; vil alltid be deg bekrefte installering av utvidelser
+  eller temaer. For å forhindre installeringsspørsmål som kan føre til uønsket
+  installering, vil &brandShortName; advare deg når et nettsted forsøker å
+  installere en utvidelse eller tema, og blokkerer installasjonsspørsmålet. For å tillate
+  installering fra noen bestemte nettsted, trykk på <em>Unntak</em>-knappen, skriv inn
+  navnet, og trykk <em>Tillat</em>. Fjern valget fra denne innstillingen for å
+  slå av advarselen for alle nettsted.</p>
+
+<p><em>Fortell meg dersom en nettside er mistenkt for å være svindel</em><br/>
+  Velg denne innstillingen dersom du vil at &brandShortName; skal aktivt
+  sjekke om nettsider du besøker kan være forsøk på å villede
+  deg til å oppgi personlig informasjon (dette blir ofte kalt <em>phishing</em>).</p>
+
+<p><em>Bruk en nedlastet liste over mistenkelige nettsider</em><br/>
+  Dersom denne innstillingen er valgt vil &brandShortName; kontrollere
+  nettsider opp mot en ofte oppdatert liste over mistenkelige nettsider som er lagret på din datamaskin. Ingen data om
+  hvilke nettsider du besøker blir overført til tredjeparts anti-phishing-leverandører
+  mens du bruker nettet.  Siden phishing-teknikker og nettsider utvikler seg raskt
+  er denne metoden beskyttelse ikke like effektiv som å bruke en anti-phishing-leverandør
+  for hvert nettsted du besøker.</p>
+
+<p><em>Spør ... for hvert nettsted jeg besøker</em><br/>
+  Når denne innstillingen er valgt vil &brandShortName; sende adressene til
+  nettsider du besøker over en kryptert forbindelse til den valgte tredjepartsleverandøren
+  av anti-phishing-tjenester, slik at identiteten til nettstedet kan kontrolleres. Denne metoden gir
+  best beskyttelse, men informasjon som bl.a. din IP-adresse og
+  nettleserversjon kan bli sendt og lagret av leverandøren du velger. Du vil
+  bli spurt om å lese gjennom og godta leverandørens personvernavtale
+  etter du velger denne innstillingen.</p>
+
+  <h3 id="security_passwords">Passord</h3>
+  <p><em>Husk passord</em><br/>
+    &brandShortName; kan med god sikkerhet lagre passord du skriver inn i nettsideskjemaer for
+    å gjøre det enklere å logge inn til ulike nettsted. Fjern valget fra denne innstillingen for å forhindre at
+    &brandShortName; husker passordene dine.</p>
+
+    <p>Selv om denne innstillingen er valgt vil du bli spurt om du vil lagre passord
+    første gangen du besøker et nettsted. Dersom du velger
+    <em>Aldri for dette nettstedet</em> vil det nettstedet bli lagt til i en unntaksliste.
+    For å få tilgang til den listen, eller fjerne nettsted fra den, trykk på
+    <em>Unntak ...</em>-knappen.</p>
+
+  <p id="set_change_master_password"><em>Bruk et hovedpassord</em><br/>
+    &brandShortName; kan beskytte sensitiv informasjon som for eksempel lagrede passord
+    og sertifikater ved å kryptere dem med et <a
+    href="glossary.xhtml#master_password">hovedpassord</a>.  Dersom du oppretter et
+    hovedpassord, vil du for hver gang du starter &brandShortName; på nytt bli spurt etter
+    hovedpassordet den første gangen du trenger å få tilgang til et sertifikat eller lagret
+    passord. Du kan sette, endre eller slette hovedpassordet ved å
+    avkrysse eller fjerne avkryssingen på denne innstillingen, eller ved å trykke på
+    <em>Endre hovedpassord ...</em>-knappen.  Dersom et hovedpassord allerede
+    er satt, må du skrive inn det gamle passordet for å sette et nytt.</p>
+
+  <p><em>Vis lagrede passord</em><br/>
+    Du kan behandle lagrede passord, og slette enkeltpassord ved å trykke på
+    <em>Vis lagrede passord</em>-knappen.</p>
+
+  <h3 id="warning_messages">Advarsler</h3>
+  <p>Trykk på <em>Innstillinger ...</em>-knappen for å konfigurere sikkerhetsadvarsler
+    som &brandShortName; skal vise mens du bruker nettet.</p>
+
+    <h4>Sikkerhetsadvarsler-dialogen</h4>
+    <!--XXX massive suck!  do these provide *any* value whatsoever? -->
+    <dl>
+      <dt>Jeg går inn på en ukryptert nettside</dt>
+      <dd>Når denne innstillingen er valgt, vil &brandShortName; gi beskjed hver gang
+        du skal til å vise en kryptert side.</dd>
+
+      <dt>Jeg går inn på en nettside som bruker et lavt nivå av kryptering</dt>
+      <dd>Med denne innstillingen valgt vil &brandShortName; vise en advarsel hver gang
+        du forsøker å vise en nettside som bruker en lav grad av kryptering.</dd>
+
+      <dt>Jeg forlater en kryptert side til en som ikke er kryptert</dt>
+      <dd>Med denne innstillingen valgt vil &brandShortName; advare deg hver gang
+        du går fra en kryptert nettside til en ukryptert nettside, enten
+        ved å trykke på en lenke, ved å åpne et bokmerke eller ved å skrive inn
+        en ny adresse i adresselinjen.</dd>
+
+      <dt>Jeg sender informasjon som ikke er kryptert</dt>
+      <dd>Når denne innstillingen er valgt vil advare deg når
+        du sender ukryptert informasjon via et skjema på en nettside.</dd>
+
+      <dt>Jeg viser en kryptert side som inneholder noe ukryptert
+        informasjon</dt>
+      <dd>Med denne innstillingen påslått vil &brandShortName; advare deg når
+        en nettside du besøker inneholder en miks av kryptert og
+        ukryptert innhold. Hvis en nettside inneholder ukryptert informasjon
+        bør du bekrefte identiteten til nettstedet før du
+        skriver inn sensitiv informasjon.</dd>
+    </dl>
+
+
+<h2 id="advanced_options">Avanserte innstillinger</h2>
+<p>Avansert-panelet inneholder mange innstillinger som sjeldnere brukes av de fleste,
+  men allikevel er nyttige, og noen ganger nødvendige innstillinger
+  for noen.</p>
+
+  <h3 id="advanced_general">Generelt-fanen</h3>
+    <h4 id="accessibility">Tilgjengelighet</h4>
+    <p><em>Alltid bruk piltastene for å navigere inni nettsider</em><br/>
+      Når denne innstillingen er valgt vil &brandShortName; vise en
+      flyttbar markør i nettsider, som lar deg merke tekst med
+      tastaturet. Du kan slå denne funksjonen av eller på med hjelp av <kbd>F7</kbd>.</p>
+
+    <p><em>Start søk når du begynner å skrive</em><br/>
+      Når denne innstillingen er aktivert vil &brandShortName; søke i den
+      aktive nettsiden når du begynner å skrive. Mens du finner tekst
+      i siden vil søkelinjen vises i bunnen av siden for
+      å gi deg mer kontroll.</p>
+
+    <h4 id="browsing">Nettlesing</h4>
+    <p><em>Bruk automatisk rulling</em><br/>
+      Automatisk rulling er en nyttig funksjon som tillater deg &aring; bla opp og ned p&aring; siden
+      bare ved &aring; holde ned midtre musknapp (vanligvis mushjulet), og
+      da bare flytte musen opp og ned. Noen personer synes at dette er plagsomt, s&aring;
+      denne innstillingen kan sl&aring;s av her.</p>
+
+    <p><em>Bruk jevn rulling</em><br/>
+      Jevn rulling kan v&aelig;re nyttig dersom du leser mange lange nettsider.
+      Normalt vil knappen <kbd>Page down</kbd> hoppe direkte ned
+      en side. Med jevn rulling p&aring;sl&aring;tt, vil den rulle nedover jevnere, slik at du
+      kan se n&oslash;yaktig hvor mye den ruller. Dette gj&oslash;r det enklere &aring; fortsette &aring; lese
+      fra der du sluttet &aring; lese p&aring; forrige side.</p>
+
+    <p><em>Kontroller staving mens jeg skriver</em><br/>
+      Når denne innstillingen er påslått vil  &brandShortName; kontrollere staving
+      og gi deg forslag om korreksjoner mens du skriver tekst i skjemaer.  Merk at du må muligens
+      laste ned en ordbok; for å gjøre det må du <span
+      class="noMac">høyreklikke</span><span class="mac">trykke &ctrlKey; og
+      trykke</span> på et tekstfelt, slå på stavekontroll om nødvendig, og
+      deretter bruke den angitte <span class="menuPath">Språk</span>-menyen for
+      å laste ned en ordbok.</p>
+
+    <h4 id="languages">Språk</h4>
+    <p>Noen nettsider er tilgjengelige i mer enn ett spr&aring;k. Trykk p&aring;
+      <em>Velg ...</em>-knappen for &aring; angi foretrukne
+      spr&aring;k.</p>
+
+    <p><strong>Spr&aring;k-dialog</strong><br/>
+      Trykk p&aring; <em>Velg et spr&aring;k &aring; legge til ...</em> for &aring; legge til et spr&aring;k, velg spr&aring;ket
+      og trykk <em>Legg til</em>-knappen. Du kan fjerne et spr&aring;k ved &aring; velge det fra listen av,
+      tilgjengelige spr&aring;k, eller velge det fra listen over aktive spr&aring;k, og deretter trykke p&aring;
+      <em>Fjern</em>-knappen. Du kan endre rekkef&oslash;lgen p&aring; spr&aring;kene for &aring; angi hvilke spr&aring;k du foretrekker dersom
+      nettsider er tilgjengelige i to eller fler av de valgte spr&aring;kene dine. Dette kan du gj&oslash;re med
+      <em>Flytt opp</em>- og <em>Flytt ned</em>-knappene.</p>
+
+  <h3 id="advanced_network">Nettverk-fanen</h3>
+
+    <h4 id="connection_settings">Tilkobling</h4>
+    <p>Internettleverand&oslash;ren eller jobben din kan tilby eller kreve at
+      du bruker en mellomtjener (proxy). En mellomtjener opererer som en mellommann mellom datamaskinen din
+      og Internett. All trafikk g&aring;r gjennom mellomtjeneren, og om den har en side du vil ha
+      i hurtiglageret sitt slipper den &aring; laste siden fra Internett. 
+      Mellomtjenere blir brukt for &aring; &oslash;kt ytelse, filtrere trafikk 
+      og for &aring; skjule datamaskinen din fra Internett for bedre sikkerhet. 
+      Mellomtjenere er ofte en viktig del at en bedrifts IT-sikkerhet.
+    </p>
+
+    <h4>Tilkoblingsinnstillinger-dialog:</h4>
+    <dl>
+      <dt>Direkte tilkobling til Internett</dt>
+      <dd>Dette er standardinnstillingen. Dette velger du om du ikke
+        vil bruke en proxy.</dd>
+
+      <dt>Automatisk oppdag mellomtjener-innstillinger</dt>
+      <dd>Velg dette om du vil at &brandShortName; skal pr&oslash;ve &aring;
+        finne innstillinger for mellomtjeneren automatisk.</dd>
+
+      <dt>Manuelle mellomtjener-innstillinger</dt>
+      <dd>Velg dette om du kjenner adressen til mellomtjeneren. Sp&oslash;r
+        nettverksansvarlig om adresse og portnummer til mellomtjeneren for
+        hver av tjenestene, og fyll ut
+        skjemaet.</dd>
+
+      <dt>Automatisk konfigurasjons-adresse</dt>
+      <dd>Om nettverket har en mellomtjener-konfigurasjonsfil, sp&oslash;r
+        nettverksansvarlig om adressen og skriv den inn her. Klikk <em>Oppdater</em> for
+        &aring; laste innstillingene.</dd>
+    </dl>
+
+    <h4 id="advanced_cache">Hurtiglager</h4>
+    <p>Sider du er p&aring; blir normalt lagret i et hurtiglager for &aring; 
+      raskere kunne hente de opp neste gang. Her kan du bestemme hvor mye plass 
+      du vil at hurtiglageret skal f&aring; bruke. Du kan også tømme innholdet 
+      i hurtiglageret.
+    </p>
+
+    <p><em>Bruk opptil ... MB diskplass for hurtiglageret</em><br/>
+      Lar deg angi maksimal størrelse, i megabytes, for diskhurtiglageret
+      på datamaskinen.</p>
+
+    <p><em>Tøm nå</em><br/>
+      Fjerner umiddelbart innholdet i hurtiglageret, og frigir
+      plassen som brukes av den.</p>
+
+  <h3 id="advanced_update">Oppdatering-fanen</h3>
+    <p>&brandShortName; kan sjekke om det finnes en ny versjon av en installert
+      utvidelse eller av selve &brandShortName;.</p>
+
+    <p><em>Automatisk se etter oppdateringer for:</em><br/>
+      Til vanlig vil &brandShortName; jevnlig automatisk sjekke om det finnes oppdateringer
+      til seg selv, utvidelser, temaer og s&oslash;kemotorer, slik at du alltid kan v&aelig;re sikker p&aring;
+      at du har den mest oppdaterte versjonen. Du kan skru av denne oppf&oslash;rselen ved &aring;
+      fjerne avkryssingen p&aring; avkryssingsboksene her.</p>
+
+    <p><em>N&aring;r oppdateringer for &brandShortName; blir funnet,</em></p>
+
+    <dl>
+      <dt>Sp&oslash;r meg hva som skal gj&oslash;res</dt>
+      <dd>Oppdateringer til &brandShortName; vil typisk bli installert automatisk
+        som standard oppf&oslash;rsel. Velg denne innstillingen for &aring;
+        manuelt kontrollere n&aring;r og hvordan oppdateringer blir installert.
+      </dd>
+      <dt>Automatisk last ned og installer oppdateringen</dt>
+      <dd>N&aring;r denne innstillingen er valgt, vil &brandShortName;-oppdateringer
+        automatisk bli lastet ned og installert neste gang
+        &brandShortName; starter.  Innstillingen <em>Advar meg hvis dette vil sl&aring; av
+        utvidelser og temaer</em> avgj&oslash;r om du skal bli advart
+        f&oslash;r installering av oppdateringer som kan resultere i at noen
+        utvidelser eller temaer blir inkompatible, fordi ingen nyere,
+        kompatible versjoner finnes. Advarselen lar deg utsette installering
+        av oppdateringen, selv om dette vil gj&oslash;re at du ikke f&aring;r nytte av forbedringene
+        i oppdateringen.<br/><br/>Hvis alle utvidelser og temaer er kompatible eller kan bli oppdatert til &aring; bli
+        kompatible, vil &brandShortName;-oppdateringen bli installert. N&aring;r da nettleseren
+        starter p&aring; nytt, vil du bli bedt om &aring; installere utvidelses- og
+        tema-oppdateringer slik at du kan fortsette &aring; bruke dem.</dd>
+    </dl>
+
+    <p><em>Vis oppdateringshistorikk</em><br/>
+      &brandShortName; holder orden p&aring; oppdateringer som du har installert.
+      Du kan vise informasjon om disse oppdateringene ved &aring; trykke p&aring; denne knappen.</p>
+
+    <p><strong>Merk:</strong>  Du m&aring; kj&oslash;re &brandShortName; som
+      <span class="win">en systemansvarlig/administrator</span><span class="noWin">root</span>
+      eller som brukeren som opprinnelig installerte &brandShortName;
+      for &aring; installere oppdateringer i &brandShortName;.</p>
+
+  <h3 id="advanced_encryption">Kryptering-fanen</h3>
+
+    <h4 id="protocols">Protokoller</h4>
+    <p><em>Bruk SSL 3.0</em><br/>
+      Spesifiserer om du vil sende og motta sikker informasjon
+      gjennom SSL3 (Secure Sockets Layer Level 3), en protokoll laget for &aring;
+      v&aelig;re sikrere enn SSL2. Men noen nettsider st&oslash;tter ikke
+      denne protokollen.</p>
+
+    <p><em>Bruk TLS 1.0</em><br/>
+      Spesifiserer om du vil sende og motta sikker informasjon
+      gjennom TLS (Transport Layer Security), en &aring;pen industristandard
+      lik SSL3. Noen nettsider st&oslash;tter ikke
+      denne protokollen.</p>
+
+    <h4 id="certificates">Sertifikater</h4>
+    <p>Sertifikater hjelper med kryptering og dekryptering av forbindelsen til
+      <a href="glossary.xhtml#secure_site">sikre nettsider</a>.</p>
+
+    <p><em>N&aring;r et nettsted krever sertifikat:</em><br/>
+      N&aring;r en nettside &oslash;nsker en sikker forbindelse vil &brandShortName; automatisk fors&oslash;ke bruke
+      et passende sertifikat. Om du &oslash;nsker &aring;
+      manuelt velge et sertifikat (f.eks om du &oslash;nsker &aring; bruke en spesiell
+      type kryptering istedenfor den som blir valgt automatisk), kan du velge innstillingen
+      <em>Sp&oslash;r meg hver gang</em>, som gir deg fullstendig kontroll over hvilke
+      sertifikater som brukes n&aring;r du bes&oslash;ker nettsted.</p>
+
+    <p><em>Vis sertifikater</em><br/>
+      Trykk p&aring; denne knappen for &aring; vise lagrede sertifikater, importere nye sertifikater,
+      ta sikkerhetskopi av elle rslette gamle sertifikater i &brandShortName;.</p>
+
+    <p><em>Tilbakekallingslister</em><br/>
+      &brandShortName; kan bruke tilbakekallingslister (ogs&aring; kjent som
+      Certificate Revocation Lists, CRL) for &aring; sikre at dine sertifikater ikke er foreldet. Om du m&aring; legge
+      til en ny CRL til &brandShortName;, eller &oslash;nsker &aring; vise informasjon om de CRL-ene du har installert, trykk p&aring;
+      knappen <em>Behandle CRL-er ...</em>.</p>
+
+    <p><em>Verifisering</em><br/>
+      OCSP (Online Certificate Status Protocol) er en m&aring;te &aring; validere
+      sertifikatene dine hver gang de blir brukt. &brandShortName; bruker
+      ikke OCSP som standard, men du kan aktivere det om du vil. Du vil mest
+      sannsynlig bare trenge &aring; forandre dette om
+      nettverksansvarlig krever det.</p>
+
+    <p><em>Sikkerhetsenheter</em><br/>
+      Sikkerhetsenheter kan kryptere og dekryptere tilkoblinger, og oppbevare
+      sertifikater og passord. Hvis du m&aring; bruke en sikkerhetsenhet som er forskjellig fra den i
+      &brandShortName;, trykk p&aring; <em>Sikkerhetsenheter</em>-knappen.
+      </p>
+
+<div class="contentsBox"><em>12. september 2006</em></div>
+<p>Opphavsrettsbeskyttet &copy; 2003-2006 Bidragsytere til Mozilla Help Viewer Project. Norsk oversettelse: Opphavsrettsbeskyttet &copy; 2004-2006 Mozilla Norge (<a href="http://www.firefox.no">www.firefox.no</a>).</p>
+
+</body>
+</html>

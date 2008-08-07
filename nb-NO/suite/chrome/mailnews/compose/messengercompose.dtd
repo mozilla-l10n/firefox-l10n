@@ -1,0 +1,229 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "E-post: (uten emne)">
+
+<!ENTITY fromAddr.label "Fra:">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY subject.label  "Emne:">
+<!ENTITY subject.accesskey "E">
+<!ENTITY attachments.label "Vedlegg:">
+<!ENTITY attachments.accesskey "d">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY newMessage.label "Melding">  
+<!ENTITY newMessage.accesskey "M">  
+<!ENTITY saveCmd.label "Lagre">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveAsCmd.label "Lagre som">
+<!ENTITY saveAsCmd.accesskey "o">
+<!ENTITY saveAsFileCmd.label "Fil ...">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Utkast">
+<!ENTITY saveAsDraftCmd.accesskey "U">
+<!ENTITY saveAsTemplateCmd.label "Mal">
+<!ENTITY saveAsTemplateCmd.accesskey "M">
+<!ENTITY attachMenu.label "Legg ved">
+<!ENTITY attachMenu.accesskey "L">
+<!ENTITY attachFileCmd.label "Fil(er) ...">
+<!ENTITY attachFileCmd.key "">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "Nettside ...">
+<!ENTITY attachPageCmd.accesskey "N">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Personlig kort (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY sendNowCmd.label "Send nå">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "S">
+<!ENTITY sendLaterCmd.label "Send senere">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "e">
+<!ENTITY printSetupCmd.label "Utskriftsformat">
+<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printCmd.label "Skriv ut ...">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "u">
+<!ENTITY closeCmd.label "Lukk">
+
+<!-- Edit menu items -->
+<!ENTITY editRewrapCmd.label "Tekstbrytning">
+<!ENTITY editRewrapCmd.accesskey "B">
+<!ENTITY findCmd.label "Søk og erstatt ...">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "S">
+<!ENTITY findAgainCmd.label "Søk igjen">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Søk etter forrige">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "e">
+<!ENTITY accountManagerCmd.label "Kontoinnstillinger ...">
+<!ENTITY accountManagerCmd.accesskey "K">
+
+<!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "E-postverktøylinje">
+<!ENTITY showComposeToolbarCmd.accesskey "E">
+<!ENTITY showFormatToolbarCmd.label "Formateringsverktøylinje">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showParagraphMarksCmd.label ".Vis avsnittsmerker">
+<!ENTITY pageSourceCmd.label ".Kildekode">
+<!ENTITY pageSourceCmd.accesskey "d">
+<!ENTITY pageInfoCmd.label ".Sideinformasjon">
+<!ENTITY pageInfoCmd.accesskey "S">
+<!ENTITY dcharMenu.label "Tegnsett">
+<!ENTITY dcharIso1Cmd.label "Vestlig (ISO-8859-1)">
+<!ENTITY dcharIso2Cmd.label "Sentraleuropeisk (ISO-8859-2)">
+<!ENTITY dcharIso3Cmd.label "Søreuropeisk (ISO-8859-3)">
+<!ENTITY dcharIso4Cmd.label "Baltisk (ISO-8859-4)">
+<!ENTITY dcharIso9Cmd.label "Tyrkisk (ISO-8859-9)">
+<!ENTITY dcharIso10Cmd.label "Nordisk (ISO-8859-10)">
+<!ENTITY dcharIso14Cmd.label "Keltisk (ISO-8859-14)">
+<!ENTITY dcharIso15Cmd.label "Vestlig (ISO-8859-15)">
+<!ENTITY dcharJapanCmd.label "Japansk (ISO-2022-JP)">
+<!ENTITY dcharTradChiBigCmd.label "Kinesisk (Big5)">
+<!ENTITY dcharSimpChiGbCmd.label "Kinesisk (GB2312)">
+<!ENTITY dcharKoreanCmd.label "Koreansk (EUC-KR)">
+<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
+<!ENTITY dcharRusCmd.label "Kyrillisk (KOI8-R)">
+<!ENTITY dcharUkrCmd.label "Kyrillisk/Ukrainsk (KOI8-U)">
+<!ENTITY dcharIsoGreekCmd.label "Gresk (ISO-8859-7)">
+<!ENTITY dcharVietViCmd.label "Vietnamesisk (VISCII)">
+<!ENTITY dcharThaiCmd.label "Thai (TIS-620)">
+<!ENTITY dcharArmCmd.label "Armensk (ARMSCII-8)">
+<!ENTITY dcharDEFAULT.label "Sett forvalgt tegnsett for sending">
+
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.accesskey "o">
+
+<!-- Options menu items -->
+<!ENTITY optionsMenu.label "Innstillinger">
+<!ENTITY optionsMenu.accesskey "I">
+
+<!ENTITY doNotCompleteAddrCmd.label ".Ikke auto-fullfør adresser">
+<!ENTITY showMatchingAddrCmd.label ".Vis passende adresser">
+
+<!ENTITY addSignatureCmd.label ".Legg til signaturfil">
+
+<!ENTITY quoteCmd.label "Siter melding">
+<!ENTITY quoteCmd.accesskey "S">
+<!ENTITY selectAddressCmd.label "Velg adresser ...">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "V">
+
+<!ENTITY checkSpellingCmd.label "Stavekontroller ...">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.accesskey "a">
+<!ENTITY enableInlineSpellChecker.label "Stavekontroller mens du skriver">
+<!ENTITY enableInlineSpellChecker.accesskey "v">
+
+<!ENTITY priorityMenu.label "Prioritet">
+<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY lowestPriorityCmd.label "Lavest">
+<!ENTITY lowestPriorityCmd.accesskey "L">
+<!ENTITY lowPriorityCmd.label "Lav">
+<!ENTITY lowPriorityCmd.accesskey "a">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY highPriorityCmd.label "Høy">
+<!ENTITY highPriorityCmd.accesskey "ø">
+<!ENTITY highestPriorityCmd.label "Høyest">
+<!ENTITY highestPriorityCmd.accesskey "H">
+
+<!ENTITY returnReceiptMenu.label "Mottakskvitteringer">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY outputFormatMenu.label "Format">
+<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY autoFormatCmd.label "Automatisk gjenkjenning">
+<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY plainTextFormatCmd.label "Bare ren tekst">
+<!ENTITY plainTextFormatCmd.accesskey "B">
+<!ENTITY htmlFormatCmd.label "Bare rik tekst (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "Ren og rik (HTML) tekst">
+<!ENTITY bothFormatCmd.accesskey "R">
+
+<!ENTITY UuencodeAttachmentCmd.label "Uuencode istedenfor MIME i vedlegg">
+
+
+<!ENTITY fileCarbonCopyCmd.label "Send en kopi til">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "Fil her">
+
+<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
+<!-- Debug Menu, imported from editorAppShell.dtd -->
+<!ENTITY debugMenu.label "Debug">
+<!ENTITY outputTextCmd.label "Output Text">
+<!ENTITY outputHTMLCmd.label "Output HTML">
+<!ENTITY insertTextCmd.label "Insert Text">
+<!ENTITY testSelectionCmd.label "Test Selection">
+<!ENTITY testTableLayoutCmd.label "Test Table Layout">
+<!ENTITY testDocumentCmd.label "Test Document">
+<!ENTITY showEmbeddedCmd.label "Show Embedded Objects">
+<!ENTITY dumpContentCmd.label "Dump Content Tree">
+<!ENTITY runUnitTestsCmd.label "Run Unit Tests">
+<!ENTITY startLogCmd.label "Start Log">
+<!ENTITY stopLogCmd.label "Stop Log">
+<!ENTITY runLogCmd.label "Run Log">
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!-- Toolbar items -->
+<!ENTITY sendButton.label "Send">
+<!ENTITY quoteButton.label "Siter">
+<!ENTITY addressButton.label "Adresser">
+<!ENTITY attachButton.label "Legg ved">
+<!ENTITY spellingButton.label "Stavekontroll">
+<!ENTITY saveButton.label "Lagre">
+<!ENTITY stopButton.label "Stopp">
+
+<!--tooltips-->
+<!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+<!ENTITY addressBar.tooltip "Adresselinje">
+<!ENTITY formatToolbar.tooltip "Formateringsverktøylinje">
+<!ENTITY sendButton.tooltip "Send denne meldingen nå"> 
+<!ENTITY sendlaterButton.tooltip "Send denne meldingen senere"> 
+<!ENTITY quoteButton.tooltip "Siter den forrige meldingen"> 
+<!ENTITY addressButton.tooltip "Velg en mottaker fra adresseboken"> 
+<!ENTITY attachButton.tooltip "Inkluder et vedlegg"> 
+<!ENTITY saveButton.tooltip "Lagre denne meldingen"> 
+<!ENTITY stopButton.tooltip "Stopp denne overføringen"> 
+
+<!-- Toolbar items, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+
+<!-- context menu items -->
+<!ENTITY spellCheckNoSuggestions.label "Ingen forslag funnet">
+<!ENTITY spellCheckIgnoreWord.label "Ignorer ord">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Legg til i ordboken">
+<!ENTITY spellCheckAddToDictionary.accesskey "L">
+<!ENTITY undo.label "Angre">
+<!ENTITY undo.accesskey "A">
+<!ENTITY cut.label "Klipp ut">
+<!ENTITY cut.accesskey "u">
+<!ENTITY copy.label "Kopier">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Lim inn">
+<!ENTITY paste.accesskey "L">
+<!ENTITY pasteQuote.label "Lim inn som sitering">
+<!ENTITY pasteQuote.accesskey "t">
+
+<!ENTITY openAttachment.label "Åpne">
+<!ENTITY openAttachment.accesskey "Å">
+<!ENTITY delete.label "Slett">
+<!ENTITY delete.accesskey "S">
+<!ENTITY renameAttachment.label "Endre navn …">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY selectAll.label "Merk alt">
+<!ENTITY selectAll.accesskey "M">
+<!ENTITY attachFile.label "Legg ved fil(er) …">
+<!ENTITY attachFile.accesskey "L">
+<!ENTITY attachPage.label "Legg ved nettside …">
+<!ENTITY attachPage.accesskey "W">

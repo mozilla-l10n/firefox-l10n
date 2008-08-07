@@ -1,0 +1,118 @@
+<!--
+   -
+   - ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is The JavaScript Debugger.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Ginda, <rginda@netscape.com>, original author
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY MainWindow.title "JavaScript debugger">
+
+<!-- floating views -->
+<!ENTITY ViewFloat.tooltip      "Trykk her for å gjøre visningen flytende/ikke flytende.">
+<!ENTITY ViewGrippy.tooltip     "Dra tittellinjen for å flytte visningen">
+<!ENTITY ViewClose.tooltip      "Trykk her for å lukke visningen">
+
+<!-- help menu -->
+<!ENTITY Help.commands     "Kommandoreferanse">
+<!ENTITY Help.about        "Om Venkman">
+
+<!-- toolips -->
+<!ENTITY DebugBar.tooltip "Debuggingsverktøylinje">
+<!ENTITY MenuBar.tooltip  "Menylinje">
+
+<!-- breakpoint view -->
+<!ENTITY Break.label        "Avbrudd">
+<!ENTITY BreakCol0.label    "Navn">
+<!ENTITY BreakCol1.label    "Linje/PC">
+
+<!-- locals view -->
+<!ENTITY Locals.label       "Lokale variabler">
+<!ENTITY LocalsCol0.header  "Navn">
+<!ENTITY LocalsCol1.header  "Type">
+<!ENTITY LocalsCol2.header  "Verdi">
+<!ENTITY LocalsCol3.header  "Flagg">
+
+<!-- session view -->
+<!ENTITY Session.label      "Interaktiv økt">
+
+<!-- script view -->
+<!ENTITY Scripts.label         "Innleste skript">
+<!ENTITY ScriptsSearch.label   "Søk">
+<!ENTITY ScriptsSearch.tooltip "Trykk her for å tømme søkefeltet">
+<!ENTITY ScriptsCol0.header    "Navn">
+<!ENTITY ScriptsCol1.header    "Linje">
+<!ENTITY ScriptsCol2.header    "Lengde">
+
+<!-- source view -->
+<!ENTITY Source.label       "Kildekode">
+<!ENTITY SourceHeader.tip   "Kildeverktøylinje">
+<!ENTITY SourceCol0.display "Marg">
+<!ENTITY SourceCol1.display "Linjenummer">
+
+<!-- stack view -->
+<!ENTITY Stack.label        "Funksjonskall">
+<!ENTITY StackCol0.header   "Navn">
+<!ENTITY StackCol1.header   "Adresse">
+
+<!-- watch view -->
+<!ENTITY Watch.label        "Overvåkninger">
+<!ENTITY WatchCol0.header   "Navn">
+<!ENTITY WatchCol1.header   "Type">
+<!ENTITY WatchCol2.header   "Verdi">
+<!ENTITY WatchCol3.header   "Flagg">
+
+<!-- window view -->
+<!ENTITY Windows.label      "Åpne vinduer">
+<!ENTITY WindowsCol0.label  "Fil">
+
+<!-- breakpoint properties window -->
+<!ENTITY BPProps.URL.label          "URL">
+<!ENTITY BPProps.Line.label         "Linje">
+<!ENTITY BPProps.PC.label           "PC">
+<!ENTITY BPProps.FunctionName.label "Funksjon">
+<!ENTITY BPProps.TriggerCount.label "Triggeantall">
+<!ENTITY BPProps.OneTime.label      "Tøm avbrudd ved første trigger">
+<!ENTITY BPProps.Then.label         "Så …">
+<!ENTITY BPProps.ConditionalCheck.label      "Når trigget, utfør …">
+<!ENTITY BPProps.NeverStopRadio.label        "Fortsett uten hensyn til resultat">
+<!ENTITY BPProps.AlwaysStopRadio.label       "Stopp uten hensyn til resultatet">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Stopp dersom resultatet er sant">
+<!ENTITY BPProps.EarlyReturnRadio.label  "Tidlig retur fra kallkilde med resultat">
+<!ENTITY BPProps.PassExceptionsCheck.label   "Send unntak til kallkilde">
+<!ENTITY BPProps.LogResultCheck.label        "Logg resultatet">
+<!ENTITY BPProps.Apply.label  "Bruk">
+<!ENTITY BPProps.Revert.label "Tilbakestill">
+<!ENTITY BPProps.Close.label  "Lukk">
+

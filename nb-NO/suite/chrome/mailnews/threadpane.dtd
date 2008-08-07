@@ -1,0 +1,79 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY threadColumn.label "Tråd">
+<!ENTITY fromColumn.label "Avsender">
+<!ENTITY recipientColumn.label "Mottaker">
+<!ENTITY attachmentColumn.label "Vedlegg">
+<!ENTITY subjectColumn.label "Emne">
+<!ENTITY dateColumn.label "Dato">
+<!ENTITY priorityColumn.label "Prioritet">
+<!ENTITY tagsColumn.label "Merkelapper">
+<!ENTITY accountColumn.label "Konto">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Størrelse">
+<!ENTITY junkStatusColumn.label "Uønsket">
+<!ENTITY linesColumn.label "Linjer">
+<!ENTITY unreadColumn.label "Ikke lest">
+<!ENTITY totalColumn.label "Totalt">
+<!ENTITY readColumn.label "Lest">
+<!ENTITY receivedColumn.label "Mottatt">
+<!ENTITY flagColumn.label "Flagg">
+<!ENTITY locationColumn.label "Plassering">
+<!ENTITY idColumn.label "Mottatt rekkefølge">
+
+<!--Tooltips-->
+<!ENTITY columnChooser.tooltip "Trykk her for å velge hvilke kolonner som skal vises">
+<!ENTITY threadColumn.tooltip "Trykk her for å sortere etter meldingstråd"> 
+<!ENTITY fromColumn.tooltip "Trykk her for å sortere etter avsender">
+<!ENTITY recipientColumn.tooltip "Trykk her for å sortere etter mottaker">
+<!ENTITY attachmentColumn.tooltip "Trykk her for å sortere etter vedlegg">
+<!ENTITY subjectColumn.tooltip "Trykk her for å sortere etter emne">
+<!ENTITY dateColumn.tooltip "Trykk her for å sortere etter dato">
+<!ENTITY priorityColumn.tooltip "Trykk her for å sortere etter prioritet">
+<!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter merkelapper">
+<!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
+<!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
+<!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter størrelse">
+<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uønsket-status">
+<!ENTITY unreadColumn.tooltip "Antall uleste meldinger i tråden">
+<!ENTITY totalColumn.tooltip "Totalt antall meldinger i meldingstråden">
+<!ENTITY readColumn.tooltip "Trykk her for å sortere etter lest-tilstand">
+<!ENTITY receivedColumn.tooltip "Trykk her for å sortere etter dato mottatt">
+<!ENTITY flagColumn.tooltip "Trykk her for å sortere etter flaggstatus">
+<!ENTITY locationColumn.tooltip "Trykk her for å sortere etter plassering">
+<!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottatt rekkefølge">

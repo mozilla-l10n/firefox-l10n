@@ -1,0 +1,18 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY viewPicker.label "Vis:">
+<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewAll.label "Alle">
+<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewUnread.label "Uleste">
+<!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewNotDeleted.label "Ikke slettet">
+<!ENTITY viewNotDeleted.accesskey "I">
+<!ENTITY viewTags.label "Merkelapper">
+<!ENTITY viewTags.accesskey "M">
+<!ENTITY viewCustomViews.label "Egendefinerte visninger">
+<!ENTITY viewCustomViews.accesskey "E">
+<!ENTITY viewVirtualFolder.label "Lagre visning som mappe …">
+<!ENTITY viewVirtualFolder.accesskey "L">
+<!ENTITY viewCustomizeView.label "Endre ...">
+<!ENTITY viewCustomizeView.accesskey "E">

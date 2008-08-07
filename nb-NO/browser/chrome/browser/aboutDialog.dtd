@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title      "Om &brandFullName;">
+<!ENTITY copyright              "Bidragsytere">
+<!ENTITY copyright.accesskey    "B">
+<!ENTITY aboutLink              "&lt; Om &brandFullName;">
+<!ENTITY aboutLink.accesskey    "O">
+<!ENTITY aboutVersion           "versjon">
+<!ENTITY copyrightInfo          "&#169;1998-2008 Bidragsytere. Alle rettigheter forbeholdt. Firefox og
+                                 Firefox-logoene er varemerker tilhørende Mozilla Foundation.  Alle rettigheter
+                                 forbeholdt.">

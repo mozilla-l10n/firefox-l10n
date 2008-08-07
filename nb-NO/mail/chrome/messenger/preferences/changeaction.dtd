@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "Rediger handling">
+<!ENTITY  window.width                         "36em">
+
+<!ENTITY  whenDownloading.label               "Ved nedlasting av denne filtypen:">
+
+<!ENTITY  openDefault.label                   "Åpne med standard program:">
+<!ENTITY  openDefault.accesskey               "Å">
+<!ENTITY  openApplication.label               "Åpne med dette programmet:">
+<!ENTITY  openApplication.accesskey           "p">
+<!ENTITY  changeApp.label                     "Bla gjennom …">
+<!ENTITY  changeApp.accesskey                 "B">
+<!ENTITY  saveToDisk.label                    "Lagre dem på min datamaskin">
+<!ENTITY  saveToDisk.accesskey                "L">
+<!ENTITY  saveToDefaultFolder.label           "i standard nedlastingsmappe">
+<!ENTITY  saveToDefaultFolder.accesskey       "i">
+<!ENTITY  saveToThisFolder.label              "i denne mappen:">
+<!ENTITY  saveToThisFolder.accesskey          "m">
+<!ENTITY  chooseFolder.label                  "Bla gjennom …">
+<!ENTITY  chooseFolder.accesskey              "g">
+<!ENTITY  saveToAskMe.label                   "spør meg hvor filen skal lagres">
+<!ENTITY  saveToAskMe.accesskey               "s">
+<!ENTITY  usePlugin.label                     "Bruk dette programtillegget:">
+<!ENTITY  usePlugin.accesskey                 "p">

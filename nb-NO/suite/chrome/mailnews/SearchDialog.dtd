@@ -1,0 +1,40 @@
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Søk etter meldinger i:">
+<!ENTITY searchHeading.accesskey     "ø">
+<!ENTITY searchSubfolders.label      "Søk i undermapper">
+<!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY searchLocalSystem.label     "Søk i lokalt system">
+<!ENTITY searchLocalSystem.accesskey "y">
+<!ENTITY resetButton.label           "Tøm">
+<!ENTITY resetButton.accesskey       "T">
+<!ENTITY helpButton.label            "Hjelp">
+<!ENTITY helpButton.accesskey        "H">
+<!ENTITY optionsButton.label         "Innstillinger ...">
+<!ENTITY closeButton.label           "Lukk">
+<!ENTITY openButton.label            "Åpne">
+<!ENTITY openButton.accesskey        "n">
+<!ENTITY deleteButton.label          "Slett">
+<!ENTITY deleteButton.accesskey      "e">
+<!ENTITY searchDialogTitle.label     "Søk i meldinger">
+<!ENTITY conditionDesc.label         "Søk i meldinger som tilfredsstiller:">
+<!ENTITY conditions.label            "Kriterie">
+<!ENTITY results.label               "Resultater">
+<!ENTITY fileHereMenu.label          "Arkiver her">
+<!ENTITY fileHereMenu.accesskey      "A">
+<!ENTITY fileButton.label            "Fil">
+<!ENTITY fileButton.accesskey        "i">
+<!ENTITY goToFolderButton.label      "Åpne meldingsmappe">
+<!ENTITY goToFolderButton.accesskey  "m">
+<!ENTITY saveAsVFButton.label      "Lagre som søkemappe">
+<!ENTITY saveAsVFButton.accesskey  "g">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Søk i:">
+<!ENTITY abSearchHeading.accesskey   "S">
+<!ENTITY propertiesButton.label      "Egenskaper ...">
+<!ENTITY propertiesButton.accesskey  "p">
+<!ENTITY composeButton.label         "Skriv ny e-post til">
+<!ENTITY composeButton.accesskey     "n">
+<!ENTITY abSearchDialogTitle.label   "Avansert adresseboksøk">
+

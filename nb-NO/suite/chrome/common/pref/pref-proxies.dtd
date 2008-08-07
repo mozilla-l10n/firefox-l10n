@@ -1,0 +1,25 @@
+<!-- extracted from content/pref-proxies.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
+<!ENTITY  pref.proxies.title            "Mellomtjenere">
+<!ENTITY  pref.proxies.desc             "En mellomtjener er en nettverkstjeneste som kan filtrere og øke hastigheten på Internett-forbindelsen.">
+<!ENTITY  proxyTitle.label              "Sett opp mellomtjener for tilgang til Internett">
+<!ENTITY  directTypeRadio.label         "Direkte tilkobling">
+<!ENTITY  directTypeRadio.accesskey     "D">
+<!ENTITY  manualTypeRadio.label         "Manuell konfigurasjon">
+<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  wpadTypeRadio.label           "Automatisk oppdag mellomtjenerinnstillinger">
+<!ENTITY  wpadTypeRadio.accesskey       "A">
+<!ENTITY  autoTypeRadio.label           "Automatisk konfigurasjon-URL:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Oppdater">
+<!ENTITY  reload.accesskey              "O">
+<!ENTITY  http.label                    "HTTP">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  port.label                    "Port:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  advanced.label                "Avansert ...">
+<!ENTITY  advanced.accesskey            "v">
+<!ENTITY  noproxy.label                 "Ingen mellomtjener for:">
+<!ENTITY  noproxy.accesskey             "I">
+<!ENTITY  noproxyExplain.label          "Eksempel: .mozilla.org, .net.nz">

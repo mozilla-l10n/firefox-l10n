@@ -1,0 +1,14 @@
+<!ENTITY windowtitle.label              "Unntak">
+<!ENTITY treehead.sitename.label        "Nettsted">
+<!ENTITY treehead.status.label          "Status">
+<!ENTITY remove.label                   "Fjern nettsted">
+<!ENTITY remove.accesskey               "F">
+<!ENTITY removeall.label                "Fjern alle nettsted">
+<!ENTITY removeall.accesskey            "e">
+<!ENTITY address.label                  "Adresse til nettstedet:">
+<!ENTITY block.label                    "Blokker">
+<!ENTITY block.accesskey                "B">
+<!ENTITY session.label                  "Tillat for programøkt">
+<!ENTITY session.accesskey              "a">
+<!ENTITY allow.label                    "Tillat">
+<!ENTITY allow.accesskey                "T">

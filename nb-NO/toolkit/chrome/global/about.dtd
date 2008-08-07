@@ -1,0 +1,19 @@
+<!ENTITY about.version                "versjon">
+
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008 av">
+<!ENTITY about.copy.linkTitle         "bidragsytere">
+<!ENTITY about.copy.afterLink         "til Mozilla-prosjektet.">
+
+<!ENTITY about.license.beforeLink     "Les">
+<!ENTITY about.license.linkTitle      "lisensinformasjonen">
+<!ENTITY about.license.afterLink      "for dette produktet.">
+
+<!ENTITY about.relnotes.beforeLink    "Les">
+<!ENTITY about.relnotes.linkTitle     "utgivelsesmerknadene">
+<!ENTITY about.relnotes.afterLink     "for dette produktet.">
+
+<!ENTITY about.buildconfig.beforeLink "Se">
+<!ENTITY about.buildconfig.linkTitle  "bygginnstillingene">
+<!ENTITY about.buildconfig.afterLink  "brukt av denne versjonen.">
+
+<!ENTITY about.buildIdentifier        "Byggidentifikasjon: ">

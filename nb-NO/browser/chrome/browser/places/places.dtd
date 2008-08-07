@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Bokmerkearkiv">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Organiser">
+<!ENTITY organize.accesskey    "O">
+
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "Lukk">
+<!ENTITY file.close.accesskey           "L">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Rediger">
+<!ENTITY edit.accesskey                 "R">
+<!ENTITY views.label                    "Vis">
+<!ENTITY views.accesskey                "V">
+<!ENTITY view.toolbar.label             "Verktøylinje">
+<!ENTITY view.toolbar.accesskey         "V">
+<!ENTITY view.columns.label             "Vis kolonner">
+<!ENTITY view.columns.accesskey         "V">
+<!ENTITY view.sort.label                "Sorter">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Usortert">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "Stigende sorteringsrekkefølge">
+<!ENTITY view.sortAscending.accesskey   "S">
+<!ENTITY view.sortDescending.label      "Synkende sorteringsrekkefølge">
+<!ENTITY view.sortDescending.accesskey  "y">
+<!ENTITY help.usingBookmarks.label      "Bokmerker">
+<!ENTITY help.usingBookmarks.accesskey  "B">
+<!ENTITY help.usingHistory.label        "Historikk">
+<!ENTITY help.usingHistory.accesskey    "i">
+<!ENTITY help.advancedTips.label        "Avanserte tips">
+<!ENTITY help.advancedTips.accesskey    "v">
+
+<!ENTITY cmd.findInBookmarks.label      "Finn i bokmerker …">
+<!ENTITY cmd.findInBookmarks.accesskey  "F">
+<!ENTITY cmd.findCurrent.label          "Finn i denne samlingen …">
+<!ENTITY cmd.findCurrent.accesskey      "i">
+
+<!ENTITY cmd.exportHTML.label           "Eksporter HTML …">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "Importer HTML …">
+<!ENTITY cmd.importHTML.accesskey       "I">
+
+<!ENTITY cmd.backup.label               "Sikkerhetskopier …">
+<!ENTITY cmd.backup.accesskey           "S">
+<!ENTITY cmd.restore2.label             "Gjenopprett">
+<!ENTITY cmd.restore2.accesskey         "G">
+<!ENTITY cmd.restoreFromFile.label      "Velg fil …">
+<!ENTITY cmd.restoreFromFile.accesskey  "V">
+
+<!ENTITY cmd.select_all.label "Merk alle">
+<!ENTITY cmd.select_all.accesskey "M">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label         "Klipp ut">
+<!ENTITY cmd.edit_cut.accesskey     "u">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "Kopier">
+<!ENTITY cmd.edit_copy.accesskey    "K">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "Lim inn">
+<!ENTITY cmd.edit_paste.accesskey   "L">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "Slett">
+<!ENTITY cmd.edit_delete.accesskey  "S">
+<!ENTITY cmd.edit_undo.label        "Angre">
+<!ENTITY cmd.edit_undo.accesskey    "A">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "Gjenta">
+<!ENTITY cmd.edit_redo.accesskey    "G">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.open.label                  "Åpne">
+<!ENTITY cmd.open.accesskey              "Å">
+<!ENTITY cmd.open_window.label           "Åpne i nytt vindu">
+<!ENTITY cmd.open_window.accesskey       "p">
+<!ENTITY cmd.open_tab.label              "Åpne i ny fane">
+<!ENTITY cmd.open_tab.accesskey          "f">
+<!ENTITY cmd.open_all_in_tabs.label      "Åpne alle i faner">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "a">
+
+<!ENTITY cmd.properties.label      "Egenskaper">
+<!ENTITY cmd.properties.accesskey  "E">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "Endre navn">
+<!ENTITY cmd.rename.accesskey  "E">
+
+<!ENTITY cmd.sortby_name.label              "Sorter etter navn">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "Nytt bokmerke …">
+<!ENTITY cmd.new_bookmark.accesskey        "b">
+<!ENTITY cmd.new_livemark.label            "Nytt levende bokmerke …">
+<!ENTITY cmd.new_livemark.accesskey        "N">
+<!ENTITY cmd.new_folder.label              "Ny mappe …">
+<!ENTITY cmd.new_folder.accesskey          "m">
+<!ENTITY cmd.context_new_folder.accesskey  "m">
+<!ENTITY cmd.new_separator.label           "Ny skillelinje">
+<!ENTITY cmd.new_separator.accesskey       "s">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Oppdater levende bokmerke">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "O">
+<!ENTITY cmd.reloadMicrosummary.label      "Oppdater levende tittel">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "O">
+
+<!ENTITY cmd.groupby_site.label      "Grupper etter nettsted">
+<!ENTITY cmd.groupby_site.accesskey  "G">
+<!ENTITY cmd.groupby_page.label      "Grupper etter side">
+<!ENTITY cmd.groupby_page.accesskey  "r">
+<!ENTITY cmd.groupby_feed.label      "Grupper etter medlemskap">
+<!ENTITY cmd.groupby_feed.accesskey  "u">
+<!ENTITY cmd.groupby_post.label      "Grupper etter post">
+<!ENTITY cmd.groupby_post.accesskey  "p">
+
+<!ENTITY cmd.moveBookmarks.label                  "Flytt …">
+<!ENTITY cmd.moveBookmarks.accesskey              "F">
+
+<!ENTITY col.name.label          "Navn">
+<!ENTITY col.tags.label          "Merkelapper">
+<!ENTITY col.url.label           "Adresse">
+<!ENTITY col.lastvisit.label     "Sist besøkt">
+<!ENTITY col.visitcount.label    "Antall besøk">
+<!ENTITY col.keyword.label       "Nøkkelord">
+<!ENTITY col.description.label   "Beskrivelse">
+<!ENTITY col.dateadded.label     "Lagt til">
+<!ENTITY col.lastmodified.label  "Sist endret">
+
+<!ENTITY search.label                              "Søk:">
+<!ENTITY search.accesskey                          "ø">
+<!ENTITY search.collection.label                   "Bare i nåværende samling">
+<!ENTITY search.collection.accesskey               "B">
+<!ENTITY search.allBookmarks.label                 "Alle bokmerker">
+<!ENTITY search.allBookmarks.accesskey             "A">
+<!ENTITY search.scopeFolder.label                  "Valgt mappe">
+<!ENTITY search.scopeFolder.accesskey              "V">
+<!ENTITY search.scopeAll.label                     "Alle bokmerker">
+<!ENTITY search.scopeAll.accesskey                 "A">
+<!ENTITY search.scopeMenu.label                    "Bokmerkemeny">
+<!ENTITY search.scopeMenu.accesskey                "o">
+<!ENTITY search.scopeToolbar.label                 "Verktøylinje">
+<!ENTITY search.scopeToolbar.accesskey             "V">
+<!ENTITY search.scopeDownloads.label               "Nedlastinger">
+<!ENTITY search.scopeDownloads.accesskey           "N">
+<!ENTITY search.scopeHistory.label                 "Historikk">
+<!ENTITY search.scopeHistory.accesskey             "s">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Vis søkebygger">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Skjul søkebygger">
+<!ENTITY saveSearch.label                          "Lagre">
+<!ENTITY saveSearch.accesskey                      "L">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "Søk bare i bokmerker">
+<!ENTITY advancedSearch.match.label                "Søk med ">
+<!ENTITY advancedSearch.all.label                  "alle">
+<!ENTITY advancedSearch.any.label                  "en av">
+<!ENTITY advancedSearch.rules.label                " følgende kriterier:">
+<!ENTITY advancedSearch.subj_keyword.label         "Inneholder teksten">
+<!ENTITY advancedSearch.subj_visited.label         "Besøkt dato">
+<!ENTITY advancedSearch.subj_location.label        "Adresse">
+<!ENTITY advancedSearch.location_startswith.label  "starter med">
+<!ENTITY advancedSearch.location_is.label          "er">
+<!ENTITY advancedSearch.location_onsite.label      "er på nettstedet">
+<!ENTITY advancedSearch.time_is.label              "på">
+<!ENTITY advancedSearch.time_before.label          "før">
+<!ENTITY advancedSearch.time_after.label           "etter">
+<!ENTITY advancedSearch.time_inlast.label          "i de siste">
+<!ENTITY advancedSearch.last_days.label            "dagene">
+<!ENTITY advancedSearch.last_weeks.label           "ukene">
+<!ENTITY advancedSearch.last_months.label          "månedene">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "Grupper etter: ">
+<!ENTITY advancedSearch.groupby_host.label         "tjener">
+<!ENTITY advancedSearch.groupby_domain.label       "domene">
+<!ENTITY advancedSearch.groupby_folder.label       "mappe">
+<!ENTITY advancedSearch.sortby.label               "Sorter etter: ">
+<!ENTITY advancedSearch.sortby_title.label         "tittel">
+<!ENTITY advancedSearch.sortby_date.label          "dato">
+<!ENTITY advancedSearch.sortby_visit.label         "antall besøk">
+<!ENTITY advancedSearch.sortby_url.label           "url">
+<!ENTITY advancedSearch.sortby_asc.label           "stigende">
+<!ENTITY advancedSearch.sortby_desc.label          "synkende">
+<!ENTITY advancedSearch.max.label                  "Maks antall resultater: ">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "Nyhetskilde">
+<!ENTITY feed.subscribe.tooltip  "Abonner">
+
+<!ENTITY view.detailsMacOSX.label  "Liste">
+<!ENTITY view.details.label        "Detaljer">
+<!ENTITY view.details.accesskey    "D">
+
+<!ENTITY view.addons.label   "Hent visning av programtillegg">
+
+<!ENTITY maintenance.label      "Importer og sikkerhetskopier">
+<!ENTITY maintenance.accesskey  "I">
+
+<!ENTITY backCmd.label       "Tilbake">
+<!ENTITY backCmd.accesskey   "T">
+<!ENTITY backButton.tooltip  "Gå tilbake">
+
+<!ENTITY forwardCmd.label       "Frem">
+<!ENTITY forwardCmd.accesskey   "F">
+<!ENTITY forwardButton.tooltip  "Gå frem">
+
+<!ENTITY detailsPane.more.label "Mer">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "Mindre">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "Forhåndsvisning">
+<!ENTITY detailsPane.selectAnItemText.description "Velg elementet du vil vise og redigere">

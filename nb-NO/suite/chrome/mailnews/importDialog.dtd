@@ -1,0 +1,71 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY importDialog.windowTitle "Import">
+<!ENTITY importDialog.allTitle    "Importer alt">
+<!ENTITY importDialog.mailTitle   "E-post">
+<!ENTITY importDialog.addressbookTitle "Adressebøker">
+<!ENTITY importDialog.settingsTitle "Innstillinger">
+<!ENTITY importDialog.filtersTitle "Filtre">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importTitle.label        "&brandShortName; E-post importveiviser">
+<!ENTITY importShortDesc.label    "Importerer e-post, adressebøker og innstillinger fra andre programmer">
+
+<!ENTITY importDescription1.label "Denne veiviseren hjelper deg å importere e-post, adressebøker, filtre og/eller innstillinger fra andre e-postprogrammer for bruk i e-postdelen av &brandShortName;.">
+<!ENTITY importDescription2.label "Når de er importert vil du kunne bruke dem i &brandShortName; E-post og nyhetsgrupper og/eller adressebok.">
+
+<!ENTITY selectDescription.label  "Velg programmet du vil importere fra:">
+
+<!ENTITY back.label               "&lt; Tilbake">
+<!ENTITY forward.label            "Neste &gt;">
+<!ENTITY finish.label             "Ferdig">
+<!ENTITY cancel.label             "Avbryt">
+
+<!ENTITY select.label             "Velg typen materiell du vil importere:">
+
+<!ENTITY title.label              "Tittel">
+<!ENTITY processing.label         "Importerer …">
+
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har en postadresse for hvert kort, mens &brandShortName; har to (hjem og adresse)">
+<!ENTITY FieldDiscInputText2.label  "Velg kategorien som du vil lagre de importerte e-postadressene i:">
+<!ENTITY FieldDiscWarning.label  "Denne kategorien vil bli brukt for alle elementene i den valgte adresseboka:">
+<!ENTITY importDialog.homeTitle  "Hjem">
+<!ENTITY importDialog.workTitle  "Arbeid">

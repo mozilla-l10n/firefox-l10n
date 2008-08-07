@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Opprett ny merkelapp">
+<!ENTITY name.label              "Navn på merkelapp:">
+<!ENTITY name.accesskey          "N">

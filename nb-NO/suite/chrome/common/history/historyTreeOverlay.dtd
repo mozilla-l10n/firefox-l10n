@@ -1,0 +1,16 @@
+<!ENTITY tree.header.name.label               "Tittel">
+<!ENTITY tree.header.name.accesskey           "T">
+<!ENTITY tree.header.url.label                "Adresse">
+<!ENTITY tree.header.url.accesskey            "s">
+<!ENTITY tree.header.date.label               "Sist besøkt">
+<!ENTITY tree.header.date.accesskey           "S">
+<!ENTITY tree.header.firstvisitdate.label     "Først besøkt">
+<!ENTITY tree.header.firstvisitdate.accesskey "F">
+<!ENTITY tree.header.referrer.label           "Referert av">
+<!ENTITY tree.header.referrer.accesskey       "R">
+<!ENTITY tree.header.hostname.label           "Tjenernavn">
+<!ENTITY tree.header.hostname.accesskey       "T">
+<!ENTITY tree.header.visitcount.label         "Besøksantall">
+<!ENTITY tree.header.visitcount.accesskey     "B">
+<!ENTITY bookmarkLinksCmd.label               "Legg disse lenkene i bokmerker">
+<!ENTITY bookmarkLinksCmd.accesskey           "d">

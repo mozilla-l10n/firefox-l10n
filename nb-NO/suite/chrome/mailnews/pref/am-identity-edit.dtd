@@ -1,0 +1,6 @@
+<!ENTITY identityTitle.label "Identitetsinnstillinger">
+<!ENTITY identityListDesc.label "Konfigurer innstillinger for denne identiteten:">
+
+<!ENTITY settingsTab.label       "Innstillinger">
+<!ENTITY copiesFoldersTab.label "Kopier og mapper">
+<!ENTITY addressingTab.label    "E-postskriving og adressering">

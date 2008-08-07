@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title         "Nedlastingshandlinger">
+<!ENTITY  window.width                         "480">
+<!ENTITY  window.height                        "310">
+
+<!ENTITY  fileTypesDescription.label          "Automatisk utfør de tilhørende handlinger med følgende filtyper:">
+
+<!ENTITY  fileHandlerColumn.label             "Handling">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "Filtype">
+<!ENTITY  fileTypeColumn.accesskey            "T">
+<!ENTITY  fileMIMETypeColumn.label            "MIME-type">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "Filtype">
+<!ENTITY  fileExtensionColumn.accesskey       "i">
+
+<!ENTITY  remove.label                        "Fjern handling">
+<!ENTITY  remove.accesskey                    "F">
+<!ENTITY  edit.label                          "Rediger handling …">
+<!ENTITY  edit.accesskey                      "R">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "Søk:">
+<!ENTITY  filter.accesskey                    "S">
+<!ENTITY  clear.label                         "Tøm">
+<!ENTITY  clear.accesskey                     "T">
+
+<!ENTITY  button.close.label                  "Lukk">
+<!ENTITY  button.close.accesskey              "L">
+

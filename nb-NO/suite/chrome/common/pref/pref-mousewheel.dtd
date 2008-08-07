@@ -1,0 +1,28 @@
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
+<!ENTITY pref.mouseWheel.title           "Musrullehjul">
+<!ENTITY mouseWheelPanel.label           "Velg oppførselen til musens rullehjul når det brukes med modifikatortast: ">
+<!ENTITY usingJustTheWheel.label         "Ingen modifikatortast">
+<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label           "Vertikal rulling">
+<!ENTITY mousewheelHorizGroup.label      "Horisontal rulling">
+<!ENTITY scroll.label                    "Bla dokumentet">
+<!ENTITY scroll.accesskey                "l">
+<!ENTITY scrollHoriz.accesskey           "a">
+<!ENTITY scrollLines.label               "linje(r)">
+<!ENTITY scrollChars.label               "tegn">
+<!ENTITY useSystemDefault.label          "Bruk forvalgt verdi">
+<!ENTITY useSystemDefault.accesskey      "r">
+<!ENTITY useSystemDefaultHoriz.accesskey "d">
+<!ENTITY scrollPgUpPgDn.label            "Bla en side opp eller ned">
+<!ENTITY scrollPgUpPgDn.accesskey        "B">
+<!ENTITY scrollPgLtPgRt.label            "Rull en side til venstre eller høyre">
+<!ENTITY scrollPgLtPgRt.accesskey        "o">
+<!ENTITY history.label                   "Flytt bakover og forover i historikken">
+<!ENTITY history.accesskey               "F">
+<!ENTITY historyHoriz.accesskey          "b">
+<!ENTITY zoom.label                      "Forstørr eller forminsk teksten">
+<!ENTITY zoom.accesskey                  "o">
+<!ENTITY zoomHoriz.accesskey             "e">

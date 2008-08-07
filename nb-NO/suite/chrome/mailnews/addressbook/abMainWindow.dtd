@@ -1,0 +1,147 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title                        "Adressebok">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newCard.label                                  "Adressekort ...">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newCard.accesskey                              "A">  
+<!ENTITY newListCmd.label                               "E-postliste ...">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey                           "E">  
+<!ENTITY newAddressBookCmd.label                        "Adressebok ..."> 
+<!ENTITY newAddressBookCmd.accesskey                    "A">  
+<!ENTITY renameAddressBookCmd.label                     "Endre navn på adressebok ..."> 
+<!ENTITY renameAddressBookCmd.accesskey                 "E">  
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP-katalog ...">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
+<!ENTITY newIM.label                                    "IM">
+<!ENTITY printCardViewCmd.label                         "Skriv ut kort ...">
+<!ENTITY printCardViewCmd.accesskey                     "k">
+<!ENTITY printPreviewCardViewCmd.label                  "Forhåndsvisning av kort">
+<!ENTITY printPreviewCardViewCmd.accesskey              "v">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
+<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printAddressBook.label                         "Skriv ut adressebok ..."> 
+<!ENTITY printAddressBook.accesskey                     "a"> 
+<!ENTITY printPreviewAddressBook.label                  "Forhåndsvisning av adressebok"> 
+<!ENTITY printPreviewAddressBook.accesskey              "F">
+<!ENTITY printSetupCmd.label                            "Utskriftsformat ...">
+<!ENTITY printSetupCmd.accesskey                        "o">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label                              "Slett adressebok">  
+<!ENTITY deleteCardCmd.label                            "Slett kort">  
+<!ENTITY deleteCardsCmd.label                           "Slett valgte kort">  
+<!ENTITY deleteListCmd.label                            "Slett liste">
+<!ENTITY deleteListsCmd.label                           "Slett valgte lister">
+<!ENTITY deleteItemsCmd.label                           "Slett valgte elementer">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Bytt om for/etternavn">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "B">  
+<!ENTITY propertiesCmd.label                            "Egenskaper ...">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY propertiesCmd.accesskey                        "E">  
+<!ENTITY propertiesCmd.key                              "i">  
+
+<!-- View Menu -->
+<!ENTITY showAbToolbarCmd.label                         "Adressebok-verktøylinje"> 
+<!ENTITY showAbToolbarCmd.accesskey                     "A">  
+
+<!ENTITY showCardPane.label                             "Oppsummeringsvindu for adressekort">
+<!ENTITY showCardPane.accesskey                         "O">
+  
+<!ENTITY menu_ShowNameAs.label                          "Vis navn som"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY firstLastCmd.label                             "Første Siste">  
+<!ENTITY firstLastCmd.accesskey                         "F"> 
+<!ENTITY lastFirstCmd.label                             "Siste, Første">  
+<!ENTITY lastFirstCmd.accesskey                         "S"> 
+<!ENTITY displayNameCmd.label                           "Vis navn">  
+<!ENTITY displayNameCmd.accesskey                       "V"> 
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label                                "Importer ...">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "Eksporter ...">
+<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY allowOnlineCheck.label                         "Sjekk om tilkoblet (AOL)">
+<!ENTITY allowOnlineCheck.accesskey                     "S">
+
+<!ENTITY stopSearchingCmd.label                         ".Avslutt søk"> 
+
+<!-- Toolbar and Popup items -->  
+<!ENTITY newcardButton.label                            "Nytt kort">  
+<!ENTITY newcardButton.accesskey                        "N">  
+<!ENTITY newlistButton.label                            "Ny liste">  
+<!ENTITY newlistButton.accesskey                        "L">  
+<!ENTITY editButton.label                               "Egenskaper">  
+<!ENTITY editButton.accesskey                           "P">  
+<!ENTITY newmsgButton.label                             "Skriv ny">  
+<!ENTITY newmsgButton.accesskey                         "n">  
+<!ENTITY deleteButton.label                             "Slett">  
+<!ENTITY deleteButton.accesskey                         "S">  
+<!ENTITY newimButton.label                              "Lynmelding">  
+<!ENTITY newimButton.accesskey                          "I">  
+<!ENTITY stopButton.label                               ".Stopp">  
+<!ENTITY searchButton.label                             ".Søk">  
+<!ENTITY showNames.label                                "Vis navn som inneholder:">  
+
+<!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip                     "Adressebok-verktøylinje">
+<!ENTITY newcardButton.tooltip                          "Opprett et nytt adressekort"> 
+<!ENTITY newlistButton.tooltip                          "Opprett en ny liste"> 
+<!ENTITY editButton.tooltip                             "Rediger valgt kort"> 
+<!ENTITY newmsgButton.tooltip                           "Send en e-post"> 
+<!ENTITY newIM.tooltip                                  "Send en melding eller chat"> 
+<!ENTITY deleteButton.tooltip                           "Slett valgt kort eller adressebok"> 
+<!ENTITY stopButton.tooltip                             "Stopp denne overføringen"> 
+<!ENTITY searchButton.tooltip                           "Søk i den valgte adresseboken"> 
+<!ENTITY throbber.tooltip                               "Gå til hjemmesiden til &brandShortName;">
+<!ENTITY clearButton.tooltip                            "Tøm søkekriteriene og vis alle">
+<!ENTITY advancedButton.tooltip                         "Avansert adressesøk">
+
+<!-- Status Bar -->  
+<!ENTITY statusText.label                               "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "true">

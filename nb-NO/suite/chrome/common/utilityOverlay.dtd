@@ -1,0 +1,93 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY  offlineGoOfflineCmd.label                 "Arbeid frakoblet">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "f">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"Fil"> 
+<!ENTITY fileMenu.accesskey				"f">
+<!ENTITY newMenu.label						"Ny">
+<!ENTITY newMenu.accesskey					"N">
+<!ENTITY newBlankPageCmd.label "Lag ny side">
+<!ENTITY newBlankPageCmd.accesskey "s" >
+<!ENTITY newBlankPageCmd.key "n" >
+<!ENTITY newPageFromTemplateCmd.label "Side fra mal">
+<!ENTITY newPageFromTemplateCmd.accesskey "m">
+<!ENTITY newPageFromDraftCmd.label "Side fra utkast">
+<!ENTITY newPageFromDraftCmd.accesskey "u">
+<!ENTITY newNavigatorCmd.label "Vindu">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "N">
+
+<!ENTITY editMenu.label					"Rediger"> 
+<!ENTITY editMenu.accesskey				"R"> 
+<!ENTITY undoCmd.label						"Angre">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"A"> 
+<!ENTITY redoCmd.label						"Gjenta">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"G"> 
+<!ENTITY cutCmd.label						"Klipp ut">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"u"> 
+<!ENTITY copyCmd.label						"Kopier">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"k"> 
+<!ENTITY pasteCmd.label						"Lim inn">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"L"> 
+<!ENTITY deleteCmd.label					"Slett">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"t"> 
+<!ENTITY selectAllCmd.label					"Merk alt">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"M"> 
+<!ENTITY preferencesCmd.label				"Innstillinger ...">
+<!ENTITY preferencesCmd.key					"E">  
+<!ENTITY preferencesCmd.accesskey			"I"> 
+<!ENTITY findTypeTextCmd.label "Finn tekst mens du skriver">
+<!ENTITY findTypeTextCmd.accesskey "t">
+<!ENTITY findTypeLinksCmd.label "Finn lenker mens du skriver">
+<!ENTITY findTypeLinksCmd.accesskey "k">
+
+<!ENTITY viewMenu.label					"Vis"> 
+<!ENTITY viewMenu.accesskey				"V"> 
+<!ENTITY viewToolbarsMenu.label				"Vis/skjul"> 
+<!ENTITY viewToolbarsMenu.accesskey			"v"> 
+<!ENTITY showTaskbarCmd.label					"Statuslinje">  
+<!ENTITY showTaskbarCmd.accesskey				"s"> 
+
+<!ENTITY helpMenu.label					"Hjelp"> 
+<!ENTITY helpMenu.accesskey				"h"> 
+
+<!ENTITY releaseCmd.label				"Versjonsnotat">
+<!ENTITY releaseCmd.accesskey                   "V">
+<!ENTITY updateCmd.label                        "Søk etter oppdateringer ...">
+<!ENTITY updateCmd.accesskey                    "S">
+<!ENTITY aboutCmd.label					"Om &brandShortName;">
+<!ENTITY aboutCmd.accesskey				"O">
+<!ENTITY aboutCommPluginsCmd.label			"Om programtillegg">
+<!ENTITY aboutCommPluginsCmd.accesskey			"p">
+
+<!ENTITY direct.label                                   "Tilkoblet (ingen mellomtjener)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "Tilkoblet (manuell mellomtjener)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "Tilkoblet (automatisk mellomtjener)">
+<!ENTITY pac.accesskey                                  "a">
+<!ENTITY wpad.label                                     "Tilkoblet (automatisk oppdaging av mellomtjener)">
+<!ENTITY wpad.accesskey                                 "u">
+
+<!ENTITY proxy.label                                    "Innstillinger for mellomtjener ...">
+<!ENTITY proxy.accesskey                                "m">
+
+<!ENTITY bidiSwitchTextDirectionItem.label        "Bytt tekstretning">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "e">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey        "B">
+<!ENTITY showPopupManager.label       "Behandle sprettoppvinduer">
+<!ENTITY showPopupManager.accesskey   "e">
+<!ENTITY dontShowMessage.label        "Ikke vis denne meldingen når sprettoppvinduer blokkeres">
+<!ENTITY dontShowMessage.accesskey    "k">

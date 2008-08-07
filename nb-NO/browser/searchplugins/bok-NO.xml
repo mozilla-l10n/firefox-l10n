@@ -1,0 +1,12 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Ordbok</ShortName>
+<Description>Norske ordbøker.</Description>
+<InputEncoding>ISO-8859-1</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAgICAAMDAwAAAAP8AAP8AAAD//wD/AAAA/wD/AP//AAD///8AAAAAAACAAAAAAAAAAABwAAAACIiABwgAAAcAAACAcAAAAAAABwcAcABwAAAAAIcAcAAAAAAIAAcHAHCHAHAAcAcAgAAHAHcABwBwBwAAgACACACAAIAHAABwAAAABwgAAAcHAAAAcAcAgICIiIAAAAAIAAAAdwcAAAAIAAAAgAD/zwAA/+cAAPhjAADgEwAAz4kAAJhhAAAzJAAAJJQAACSSAAAkkgAAJBIAAJPiAADIBAAAxBkAAOPDAAD4BwAA</Image>
+<Url type="text/html" method="GET" template="http://www.dokpro.uio.no/perl/ordboksoek/ordbok.cgi">
+  <Param name="OPP" value="{searchTerms}"/>
+  <Param name="sourceid" value="Mozilla-search"/>
+</Url>
+<SearchForm>http://www.dokpro.uio.no/ordboksoek.html</SearchForm>
+</SearchPlugin>
+

@@ -1,0 +1,81 @@
+<!ENTITY  updateWizard.title              "Programvareoppdatering">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Ser etter oppdateringer">
+<!ENTITY  checking.label                  "&brandShortName; søker nå etter oppdateringer …">
+
+<!ENTITY  cancel.label                    "Avbryt">
+<!ENTITY  cancel.accesskey                "A">
+
+<!ENTITY  noupdatesfound.title            "Ingen oppdateringer funnet">
+<!ENTITY  noupdatesfound.intro            "Det er ingen nye oppdateringer tilgjengelige. &brandShortName; kan se
+                                           etter nye oppdateringer ved jevne mellomrom.">
+
+<!ENTITY  incompatibleChecking.label      "Kontrollerer om denne oppdateringen kan gi problemer med noen av utvidelsene eller temaene dine …">
+<!ENTITY  clickHere.label                 "Trykk her for mer informasjon om denne oppdateringen">
+
+<!ENTITY  incompatible.warning            "Denne oppdateringen vil forårsake at noen av utvidelsene og/eller temaer
+                                           slutter å virke inntil de er oppdatert.">
+<!ENTITY  listIncompatible.label          "Vis liste">
+<!ENTITY  listIncompatible.accesskey      "l">
+
+<!ENTITY  upgrade.evangelism              "Det er sterkt anbefalt at du oppgraderer &brandShortName;
+                                           så snart som mulig.">
+
+<!ENTITY  license.instructions            "Dersom du godtar betingelsene i avtalen, trykk på «Godta»-knappen under for
+                                           å fortsette å installere oppdateringen.">
+
+<!ENTITY  license.titleText               "Avtale for programvarelisens">
+<!ENTITY  license.introText               "Betingelser for bruk av denne programvaren.">
+<!ENTITY  license.instructionText         "Les følgende lisensavtale. Bruk rullefeltet for å se resten av avtalen.">
+<!ENTITY  license.accept                  "Jeg godtar betingelsene i lisensavtalen">
+<!ENTITY  license.accept.accesskey        "J">
+<!ENTITY  license.decline                 "Jeg godtar IKKE betingelsene i lisensavtalen">
+<!ENTITY  license.decline.accesskey       "e">
+
+<!ENTITY  downloading.title               "Laster ned oppdatering">
+<!ENTITY  downloading.intro               "Laster ned oppdateringen …">
+<!ENTITY  connecting.label                "Kobler til oppdateringstjeneren …">
+<!ENTITY  verificationFailedText.label    "&brandShortName; klarte ikke å kontrollere integriteten til
+                                           den inkrementelle oppdateringen den lastet ned, så den fullstendige oppdateringspakken
+                                           blir nå lastet ned.">
+
+<!ENTITY  details.link                    "Detaljer">
+<!ENTITY  pause.label                     "Pause">
+<!ENTITY  pause.accesskey                 "e">
+<!ENTITY  close.label                     "Lukk">
+<!ENTITY  close.accesskey                 "L">
+
+<!ENTITY  error.label                     "Det oppstod problemer under kontroll, nedlasting eller installering av denne
+                                           oppdateringen. Klarte ikke oppdatere &brandShortName; fordi:">
+
+<!ENTITY  errorManual.label               "Du kan oppdatere &brandShortName; ved å manuelt laste ned siste
+                                           versjon fra denne lenken:">
+
+<!ENTITY  errorpatching.title             "Oppdatering feilet">
+<!ENTITY  errorpatching.intro             "Installering av den inkrementelle oppdateringen feilet.
+                                           &brandShortName; vil forsøke å laste ned den fullstendige oppdateringen.">
+
+<!ENTITY  finished.title                  "Oppdatering lastet ned">
+<!ENTITY  finished.text                   "Oppdateringen ble lastet ned og kontrollert, og vil installeres
+                                           neste gang du starter &brandShortName;.">
+
+<!ENTITY  finishedBackground.title        "Oppdatering er klar til å bli installert">
+<!ENTITY  finishedBackground.text         "&brandShortName; har fullført nedlasting av en viktig
+                                           oppdatering. Trykk på lenken under for mer informasjon.">
+<!ENTITY  finishedBackground.name         "Oppdaterer:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Trykk «Start &brandShortName; på nytt nå» for å installere oppdateringen nå.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Trykk «Senere» for å fortsette å arbeide. &brandShortName;
+                                           vil da installere oppdateringen neste gang den starter.">
+
+<!ENTITY  installed.title                 "Oppdatering installert">
+<!ENTITY  installed.intro                 "Oppdateringen ble installert.">
+<!ENTITY  whatsnew.label                  "Les om hva som er nytt …">
+
+<!ENTITY  update.details.label            "Detaljer">
+<!ENTITY  update.installedOn.label        "Installert:">
+<!ENTITY  update.status.label             "Status:">

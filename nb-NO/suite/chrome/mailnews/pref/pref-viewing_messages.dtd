@@ -1,0 +1,84 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.viewing.messages.title      "Meldingsvisning">
+<!ENTITY style.label                      "Stil:">
+<!ENTITY style.accesskey                  "S">
+<!ENTITY regular.label                    "Vanlig">
+<!ENTITY bold.label                       "Fet">
+<!ENTITY italic.label                     "Kursiv">
+<!ENTITY boldItalic.label                 "Fet kursiv">
+<!ENTITY size.label                       "Størrelse:">
+<!ENTITY size.accesskey                   "S">
+<!ENTITY bigger.label                     "Større">
+<!ENTITY smaller.label                    "Mindre">
+<!ENTITY color.label                      "Farge">
+<!ENTITY color.accesskey                  "F">
+<!ENTITY displayPlainText.caption         "Ren tekst-meldinger">
+<!ENTITY plainTextFont.label              "Bruk følgende skriftbredde:">
+<!ENTITY displayQuoted.label              "Innstillinger for siterte meldinger:">
+<!ENTITY fixedWidth.label                 "Fast bredde">
+<!ENTITY fixedWidth.accesskey             "F">
+<!ENTITY variableWidth.label              "Variabel bredde">
+<!ENTITY variableWidth.accesskey          "V">
+<!ENTITY readingMessagesHeader.label      "For innkommende meldinger">
+<!ENTITY messageWrapping.label            "Linjebryting">
+<!ENTITY wrapInMsg.label                  "Bryt teksten til å passe i vinduet">
+<!ENTITY wrapInMsg.accesskey              "B">
+<!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "Vis smileansikter som grafikk">
+<!ENTITY convertEmoticons.accesskey       "e">
+<!ENTITY generalMessageDisplay.caption    "Generelt">
+<!ENTITY autoMarkAsRead.label             "Automatisk merk meldinger som lest">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "Umiddelbart når de vises">
+<!ENTITY markAsReadNoDelay.accesskey      "U">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Etter de er vist i">
+<!ENTITY markAsReadDelay.accesskey        "E">
+<!ENTITY secondsLabel.label               "sekunder">
+
+<!ENTITY openingMessages.label            "Ved åpning av meldinger, vis dem i:">
+<!ENTITY newWindowRadio.label             "Et nytt vindu">
+<!ENTITY newWindowRadio.accesskey         "n">
+<!ENTITY existingWindowRadio.label        "Et eksisterende vindu">
+<!ENTITY existingWindowRadio.accesskey    "E">
+<!ENTITY disableContent.label             "Blokker bilder og annet innhold fra Internett">
+<!ENTITY disableContent.accesskey         "B">

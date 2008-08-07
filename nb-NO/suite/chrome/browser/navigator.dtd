@@ -1,0 +1,213 @@
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY nothingAvailable.label "(Ingenting tilgjengelig)">
+
+<!ENTITY browserCmd.label	"Nytt nettleservindu">
+<!ENTITY browserCmd.accesskey	"N">
+<!ENTITY tabCmd.label "Fane">
+<!ENTITY tabCmd.accesskey "F">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Åpne adresse …">
+<!ENTITY openCmd.accesskey "Å">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Åpne fil …">
+<!ENTITY openFileCmd.accesskey "p">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY recentTabs.label "Nylig lukkede faner">
+<!ENTITY recentTabs.accesskey "N">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY editPageCmd.label "Rediger side">
+<!ENTITY editPageCmd.accesskey "R">
+<!ENTITY editPageCmd.commandkey "e">
+<!ENTITY editFrameCmd.label "Rediger ramme">
+<!ENTITY editFrameCmd.accesskey "m">
+<!ENTITY editFrameSetCmd.label "Redigere rammesett">
+<!ENTITY editFrameSetCmd.accesskey "t">
+
+<!ENTITY uploadFile.label "Last opp fil …">
+<!ENTITY uploadFile.accesskey "L">
+
+<!ENTITY printSetupCmd.label "Utskriftsformat …">
+<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printPreviewCmd.label "Forhåndsvis side">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Skriv ut ...">
+<!ENTITY printCmd.accesskey "u">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY viewMenu.label "Vis">
+<!ENTITY viewMenu.accesskey "V">
+
+<!ENTITY toolbarsCmd.label "Vis/skjul">
+<!ENTITY toolbarsCmd.accesskey "V">
+<!ENTITY navbarCmd.label "Verktøylinje for navigasjon">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "Personlig verktøylinje">
+<!ENTITY personalbarCmd.accesskey "P">
+<!ENTITY tabbarCmd.label "Fanelinje">
+<!ENTITY tabbarCmd.accesskey "F">
+<!ENTITY taskbarCmd.label "Statuslinje">
+<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY componentbarCmd.label "Komponentlinje">
+<!ENTITY componentbarCmd.accesskey "K">
+
+<!ENTITY useStyleSheetMenu.label "Bruk stilark">
+<!ENTITY useStyleSheetMenu.accesskey "B">
+<!ENTITY useStyleSheetNone.label "Ingen">
+<!ENTITY useStyleSheetNone.accesskey "I">
+<!ENTITY useStyleSheetPersistentOnly.label "Forvalgt">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "F">
+<!ENTITY pageSourceCmd.label "Kildekode">
+<!ENTITY pageSourceCmd.accesskey "K">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Sideinformasjon">
+<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Fullskjerm">
+<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY translateMenu.label "Oversett siden">
+<!ENTITY translateMenu.accesskey "O">
+<!ENTITY translate.commandKey "t">
+
+<!ENTITY closeOtherTabs.label "Lukk andre faner">
+<!ENTITY closeOtherTabs.accesskey "a">
+<!ENTITY closeWindow.label "Lukk vindu">
+<!ENTITY closeWindow.accesskey "V">
+
+<!ENTITY minimizeButton.tooltip       "Minimer">
+<!ENTITY restoreButton.tooltip        "Gjenopprett">
+
+<!-- I'd like all this to move to an overlay or something -->
+<!ENTITY bidiMenu.label "Bidi-innstillinger">
+<!ENTITY directionBidiMenu.label "Forvalgt retning">
+<!ENTITY directionRTLBidiCmd.label "Høyre til venstre">
+<!ENTITY directionLTRBidiCmd.label "Venstre til høyre">
+<!ENTITY texttypeBidiMenu.label "Teksttype">
+<!ENTITY charsettexttypeBidiCmd.label "Basert på tegnsett">
+<!ENTITY logicaltexttypeBidiCmd.label "Logisk">
+<!ENTITY visualtexttypeBidiCmd.label "Visuell">
+<!ENTITY numeralBidiMenu.label "Numerisk form">
+<!ENTITY regularcontextnumeralBidiCmd.label "Kontekstuell">
+<!ENTITY hindicontextnumeralBidiCmd.label "Hindu-numeraler på HTV-retning">
+<!ENTITY arabicnumeralBidiCmd.label "Arabisk">
+<!ENTITY hindinumeralBidiCmd.label "Hindi">
+<!ENTITY controlstextmodeBidiMenu.label "Tekstmodus i kontrollene">
+<!ENTITY logicalcontrolstextmodeBidiCmd.label "Logisk">
+<!ENTITY visiualcontrolstextmodeBidiCmd.label "Visuell">
+<!ENTITY containercontrolstextmodeBidiCmd.label "Som inneholdende dokument">
+<!ENTITY charactersetBidiMenu.label "Tegnsett">
+<!ENTITY doccharactersetBidiCmd.label "Bruk dokumentets tegnsett">
+<!ENTITY defaultcharactersetBidiCmd.label "Bruk forvalgt tegnsett, overse dokumentets tegnsett">
+
+<!ENTITY webContentMenu.label "Språk og nettinnhold">
+<!ENTITY webContentMenu.accesskey "n">
+<!ENTITY downloadMore.label "Last ned fler">
+<!ENTITY downloadMore.accesskey "L">
+<!ENTITY applyTheme.label	"Bruk tema"> 
+<!ENTITY applyTheme.accesskey	"r"> 
+<!ENTITY getNewThemesCmd.label "Hent flere temaer">
+<!ENTITY getNewThemesCmd.accesskey "H">
+<!ENTITY searchMenu.label "Søk">
+<!ENTITY searchMenu.accesskey "S">
+<!ENTITY findOnCmd.label "Søk etter tekst ...">
+<!ENTITY findOnCmd.accesskey "S">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Søk etter neste">
+<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Søk etter forrige">
+<!ENTITY findPrevCmd.accesskey "f">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!ENTITY searchInternetCmd.label "Søk på nettet">
+<!ENTITY searchInternetCmd.accesskey "ø">
+<!ENTITY searchInternet.commandKey "s">
+
+<!ENTITY clearPrivateDataCmd.label "Slett private data …">
+<!ENTITY clearPrivateDataCmd.accesskey "e">
+
+<!ENTITY goMenu.label "Gå">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY goHomeCmd.label "Hjem">
+<!ENTITY goHomeCmd.accesskey "H">
+
+<!ENTITY bookmarksMenu.label "Bokmerker">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY addCurPageCmd.label "Legg inn siden">
+<!ENTITY addCurPageCmd.accesskey "L">
+<!ENTITY addCurPageAsCmd.label "Arkiver ...">
+<!ENTITY addCurPageAsCmd.accesskey "A">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Arkiver fanegruppe ...">
+<!ENTITY addCurTabsAsCmd.accesskey "f">
+<!ENTITY manBookmarksCmd.label "Behandle ...">
+<!ENTITY manBookmarksCmd.accesskey "B">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Abonner på denne siden">
+<!ENTITY feedsMenu.accesskey "A">
+<!ENTITY emptyItem.label "(Tom)">
+
+<!ENTITY helpMenuCmd.label "Hjelp">
+<!ENTITY helpMenuCmd.accesskey "H">
+<!ENTITY helpContentsCmd.label "Innholdsfortegnelse">
+<!ENTITY softwareUpdatesCmd.label "Programvareoppgraderinger">
+<!ENTITY technicalSupportCmd.label "Teknisk Støtte">
+<!ENTITY releaseNotesCmd.label "Versjonsnotat">
+
+<!ENTITY menuBar.tooltip                  "Menylinje">
+<!ENTITY personalToolbar.tooltip          "Personlig verktøylinje">
+<!ENTITY navigationToolbar.tooltip        "Navigasjonsverktøylinje">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label             "Tilbake">
+<!ENTITY backButton.tooltip           "Gå tilbake en side">
+<!ENTITY forwardButton.label          "Fremover">
+<!ENTITY forwardButton.tooltip        "Gå fremover en side">
+<!ENTITY reloadButton.label           "Oppdater">
+<!ENTITY reloadButton.tooltip         "Oppdater denne siden">
+<!ENTITY stopButton.label             "Stopp">
+<!ENTITY stopButton.tooltip           "Stopp lasting av side">
+<!ENTITY searchButton.label           "Søk">
+<!ENTITY searchButton.tooltip         "Skriv inn et ord i feltet til venstre og trykk Søk">
+<!ENTITY goButton.label               "Gå">
+<!ENTITY goButton.tooltip             "Skriv inn en adresse i feltet til venstre og trykk Gå">
+<!ENTITY printButton.label            "Skriv ut">
+<!ENTITY printButton.tooltip          "Skriv ut denne siden">
+
+<!ENTITY throbber.tooltip             "Gå til hjemmesiden til &vendorShortName;">
+
+<!ENTITY locationBar.tooltip          "Skriv inn et søkeord, nøkkelord eller en nettadresse her">
+<!ENTITY locationBar.accesskey        "d">
+<!ENTITY locationBar.title            "Adresse">
+
+<!ENTITY proxyIcon.tooltip            "Dra og slipp dette ikonet for å opprette en lenke til siden">
+<!ENTITY internetKeyword.tooltip      "Returner til sist viste side eller velg nøkkelord">
+
+<!-- Toolbar items --> 
+<!ENTITY  bookmarksButton.label       "Bokmerker">
+<!ENTITY  bookmarksButton.tooltip     "Bokmerkeliste">
+<!ENTITY  homeButton.label            "Hjem">
+
+<!-- Statusbar -->
+<!ENTITY  statusText.label            "Fullført">
+
+<!ENTITY historyCmd.label           "Historikk">  
+<!ENTITY historyCmd.accesskey       "s">
+<!ENTITY history.commandKey         "h">
+
+<!ENTITY popupIcon.tooltiptext      "Opphev blokkering av denne nettsidens sprettoppvinduer">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Bytt sideretning">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "B">

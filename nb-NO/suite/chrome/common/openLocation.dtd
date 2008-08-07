@@ -1,0 +1,14 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Skriv inn nettadressen (URL), eller angi en lokal fil du vil åpne:">  
+<!ENTITY enter.accesskey "S">
+<!ENTITY chooseFile.label "Velg fil ...">
+<!ENTITY chooseFile.accesskey "V">
+<!ENTITY newWindow.label "Nytt vindu">
+<!ENTITY newTab.label "Ny fane">
+<!ENTITY topWindow.label "Dette vinduet">
+<!ENTITY editNewWindow.label "Åpne for redigering">
+<!ENTITY open.label "Åpne">
+<!ENTITY caption.label "Åpne nettadresse">
+<!ENTITY openWhere.label "Åpne i:">
+<!ENTITY openWhere.accesskey "Å">

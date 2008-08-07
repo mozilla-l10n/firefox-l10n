@@ -1,0 +1,79 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.formatting.title        "Sendeformat">
+<!ENTITY sendMail.label               "Sendeformat">
+<!ENTITY sendMaildesc.label           "Ved sending av formaterte (HTML) meldinger, og en eller flere av mottakerne er oppgitt som at de ikke kan motta HTML e-post:">
+<!ENTITY askMe.label                  "Spør meg hva som skal gjøres (vil spørre om hvilket format som skal brukes)">
+<!ENTITY askMe.accesskey              "S">
+<!ENTITY convertPlain.label           "Konverter meldingen til ren tekst (noe formatering kan gå tapt)">
+<!ENTITY convertPlain.accesskey       "K">
+<!ENTITY sendHTML.label               "Send meldingen som formatert tekst likevel (noen e-postprogrammer kan være ute av stand til å vise meldingen)">
+<!ENTITY sendHTML.accesskey           "S">
+<!ENTITY sendBoth.label               "Send meldingen som både HTML og ren tekst (meldingen blir større)">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY override.label               "Du kan overstyre disse innstillingene for hver enkelt melding ved å bruke Innstillinger-menyen mens du skriver meldingen.">
+<!ENTITY receiveHTML.label            "Dersom du kjenner til at en bestemt mottaker kan motta HTML mail e-post, fjern avkryssingen på 'Send e-post som ren tekst (ingen HTML)'-avkryssingboksen i mottakerens adressebokkort.">
+
+<!-- Html and Plain Text Domains  -->
+<!ENTITY domain.title                 "HTML og tekstdomener">
+<!ENTITY domaindesc.label             "Når du sender en melding til en adresse med ett av domenenavnene i listen nedenfor, vil e-posten automatisk bli sendt i oppgitt format.">
+<!ENTITY HTMLdomaintitle.label        "HTML-domener">
+<!ENTITY HTMLdomaintitle.accesskey    "M">
+<!ENTITY PlainTexttitle.label         "Tekstdomener">
+<!ENTITY PlainTexttitle.accesskey     "k">
+<!ENTITY AddButton.label              "Legg til ...">
+<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "Slett">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!-- Add HTML Domain Name -->
+<!ENTITY add.htmltitle                "Legg til domenenavn som støtter HTML">
+<!ENTITY add.htmldomain               "HTML domenenavn:">
+<!ENTITY add.htmldomain.accesskey     "H">
+<!ENTITY add.plaintexttitle           "Legg til et domenenavn for bare tekst">
+<!ENTITY add.plaintextdomain          "Domenenavn bare for tekst:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Feil i domenenavn">
+<!ENTITY duplicationError.label       "Domenenavnet @string@ fins allerede i listen.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Et domenenavn kan ikke finnes i både HTML- og tekstlistene. Domenenavnet @string@ finnes allerede.">

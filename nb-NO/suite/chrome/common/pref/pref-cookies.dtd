@@ -1,0 +1,38 @@
+<!ENTITY pref.cookies.title             "Infokapsler">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label             "Tillatelser for infokapsler">
+
+<!ENTITY accAllCookiesRadio.label       "Tillat alle infokapsler">
+<!ENTITY accAllCookiesRadio.accesskey   "T">
+
+<!ENTITY accOrgCookiesRadio.label       "Tillat infokapsler bare fra opprinnelig nettsted">
+<!ENTITY accOrgCookiesRadio.accesskey   "a">
+
+<!ENTITY disableCookies.label           "Blokker infokapsler">
+<!ENTITY disableCookies.accesskey       "B">
+
+<!ENTITY cookieRetentionPolicy.label    "Regler for å beholde av infokapsler">
+
+<!ENTITY acceptNormally.label           "Tillat infokapsler normalt">
+<!ENTITY acceptNormally.accesskey       "n">
+
+<!ENTITY acceptForSession.label         "Tillat bare for programøkten">
+<!ENTITY acceptForSession.accesskey     "b">
+
+<!ENTITY acceptforNDays.label           "Tillat infokapsler for">
+<!ENTITY acceptforNDays.accesskey       "f">
+<!ENTITY days.label                     "dager">
+
+<!ENTITY warnAboutCookies.label         "Spør for hver infokapsel">
+<!ENTITY warnAboutCookies.accesskey     "ø">
+<!ENTITY forCurrentSession.label        "med unntak av øktinfokapsler">
+<!ENTITY forCurrentSession.accesskey    "e">
+
+<!ENTITY manageCookies.label            "Behandle infokapsler og nettsted">
+<!ENTITY manageCookiesDescription.label "Tillater deg å vise og behandle lagrede infokapsler og innstillinger per-nettsted. Innstillinger per-nettsted vil overstyre innstillingene ovenfor.">
+
+<!ENTITY viewCookies.label              "Infokapselbehandling">
+<!ENTITY viewCookies.accesskey          "I">
+

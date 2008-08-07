@@ -1,0 +1,20 @@
+<!ENTITY emailSectionHdr.label        "E-post"> 
+<!ENTITY readMsgsLink.label           "Les meldinger"> 
+<!ENTITY composeMsgLink.label         "Skriv ny melding"> 
+
+<!ENTITY newsSectionHdr.label         "Nyhetsgrupper"> 
+<!ENTITY subscribeNewsLink.label      "Behandle medlemskap i nyhetsgrupper"> 
+
+<!ENTITY accountsSectionHdr.label     "Kontoer">
+<!ENTITY subscribeImapFolders.label   "Behandle medlemskap i mapper">
+<!ENTITY settingsLink.label           "Vis innstillinger for denne kontoen"> 
+<!ENTITY newAcctLink.label            "Opprett ny konto"> 
+
+<!ENTITY advFeaturesSectionHdr.label  "Avanserte funksjoner"> 
+<!ENTITY searchMsgsLink.label         "Søk i meldinger"> 
+<!ENTITY filtersLink.label            "Opprett meldingsfiltre">
+<!ENTITY junkSettings.label           "Innstillinger for uønsket e-post">
+<!ENTITY offlineLink.label            "Innstillinger for frakoblet tilstand">
+
+<!ENTITY rssSectionHdr.label          "Nyheter og blogger"> 
+<!ENTITY subscibeRSS.label            "Behandle abonnement"> 

@@ -1,0 +1,28 @@
+<!ENTITY  pref.editing.title        "Innstillinger for ny side">
+
+<!ENTITY  authorName.label          "Forfatter:">
+<!ENTITY  authorName.accesskey      "F">
+<!ENTITY  pageColorHeader           "Standard utseende">
+
+<!ENTITY defaultColorsRadio.label   "Leserens standardfarger (ikke sett farger på siden)">
+<!ENTITY defaultColors.accesskey    "L">
+<!ENTITY customColorsRadio.label    "Bruk egne farger:">
+<!ENTITY customColors.accesskey     "B">
+
+<!ENTITY normalText.label           "Normal tekst">
+<!ENTITY normalText.accesskey       "N">
+<!ENTITY linkText.label             "Lenketekst">
+<!ENTITY linkText.accesskey         "L">
+<!ENTITY activeLinkText.label       "Aktiv lenke-tekst">
+<!ENTITY activeLinkText.accesskey   "A">
+<!ENTITY visitedLinkText.label      "Besøkt lenke-tekst">
+<!ENTITY visitedLinkText.accesskey  "e">
+<!ENTITY background.label           "Bakgrunn:">
+<!ENTITY background.accesskey       "a">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "Bakgrunnsbilde:">
+<!ENTITY backgroundImage.accesskey  "k">
+<!ENTITY chooseFile.label           "Velg fil …">
+<!ENTITY chooseFile.accesskey       "V">
+

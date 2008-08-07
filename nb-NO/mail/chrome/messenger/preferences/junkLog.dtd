@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Logg for uønsket e-post">
+<!ENTITY junkLogInfo.label "Logg for behandlingen av uønsket e-post.">
+<!ENTITY clearLog.label "Tøm logg">
+<!ENTITY clearLog.accesskey "T">
+<!ENTITY closeLog.label "Lukk">
+<!ENTITY closeLog.accesskey "L">

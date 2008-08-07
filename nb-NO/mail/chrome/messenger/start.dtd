@@ -1,0 +1,44 @@
+<!ENTITY startpage.welcome "Velkommen til &brandFullName;!">
+<!ENTITY startpage.intro "&brandFullName;, bygget på åpen-kildekode, er en kraftig e-post og nyhetsgruppeklient.">
+
+<!ENTITY startpage.features "Funksjoner">
+
+<!ENTITY startpage.junkControl "Automatisk fjerning av uønsket e-post">
+<!ENTITY startpage.rssReader "RSS-leser">
+<!ENTITY startpage.globalInbox "Støtte for global innboks">
+<!ENTITY startpage.searchFolders "Lagrede søkemapper">
+<!ENTITY startpage.messageGroups "Meldingsgruppering">
+<!ENTITY startpage.privacyProtect "Personvernbeskyttelse">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "Mer informasjon">
+
+<!ENTITY startpage.help "Hjelp til Mozilla Thunderbird">
+<!ENTITY startpage.helpInfo "For ofte stilte spørsmål, tips og generell hjelp, besøk">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+
+<!ENTITY startpage.page "Thunderbird produktside">
+<!ENTITY startpage.pageInfo "For produktinformasjon, besøk">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
+<!ENTITY startpage.extra "<script type='text/javascript'>
+<![CDATA[
+function installDic(anchor)
+{
+   var params = { 'Norsk ordliste': anchor.getAttribute('href') };
+   InstallTrigger.install(params);
+}
+]]>
+</script><h2>Stavekontroll</h2><p>Dersom du ønsker å bruke stavekontroll i 
+  &brandShortName; må du installere norske ordlister. 
+  <a href='http://www.firefox.no/nb-no_nn-no-dictionary.xpi' 
+   onclick='installDic(this);return false'>Installer 
+   ordlister</a>.<br /><br /></p>">
+
+<!ENTITY startpage.poweredByGecko "Bruker Gecko-teknologi.">

@@ -1,0 +1,35 @@
+<!-- extracted from ./history.xul -->
+
+<!ENTITY menuBar.tooltip            "Menylinje">
+<!ENTITY fileMenu.label             "Fil">
+<!ENTITY closeCmd.label             "Lukk">
+<!ENTITY editMenu.label             "Rediger"> 
+<!ENTITY undoCmd.label              "Angre">
+<!ENTITY redoCmd.label              "Gjenta">
+<!ENTITY cutCmd.label               "Klipp ut">
+<!ENTITY copyCmd.label              "Kopier">
+<!ENTITY pasteCmd.label             "Lim inn">
+<!ENTITY deleteCmd.label            "Slett">
+<!ENTITY deleteHostnameCmd.accesskey "S">
+<!ENTITY deleteDomainCmd.accesskey  "d">
+<!ENTITY selAllCmd.label            "Velg alle">
+<!ENTITY findHisCmd.label           "Søk i historikk ...">
+<!ENTITY findHisCmd.commandkey      "f">
+<!ENTITY findHisCmd.accesskey       "S">
+<!ENTITY groupBy.label              "Grupper etter">
+<!ENTITY groupBy.accesskey          "G">
+<!ENTITY groupByDay.label           "Dag">
+<!ENTITY groupByDay.accesskey       "D">
+<!ENTITY groupBySite.label          "Nettsted">
+<!ENTITY groupBySite.accesskey      "N">
+<!ENTITY groupByNone.label          "Ingen">
+<!ENTITY groupByNone.accesskey      "I">
+<!ENTITY historyWindowTitle.label   "Historikk">
+<!ENTITY menuitem.view.unsorted.label "Usortert">
+<!ENTITY menuitem.view.unsorted.accesskey "U">
+<!ENTITY sortAscending.label         "Stigende">
+<!ENTITY sortAscending.accesskey     "S">
+<!ENTITY sortDescending.label        "Synkende">
+<!ENTITY sortDescending.accesskey    "n">
+<!ENTITY menuitem.view.show_columns.label "Vis kolonner">
+<!ENTITY menuitem.view.show_columns.accesskey "V">

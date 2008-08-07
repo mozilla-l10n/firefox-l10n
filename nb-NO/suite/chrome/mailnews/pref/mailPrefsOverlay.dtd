@@ -1,0 +1,24 @@
+<!-- These are added to the Advanced - Scripts & Plugins panel -->
+<!ENTITY enbJsCheckMailNews.label         "E-post og nyhetsgrupper">
+<!ENTITY enbJsCheckMailNews.accesskey     "E">
+<!ENTITY enbPluginCheckMailNews.label     "E-post og nyhetsgrupper">
+<!ENTITY enbPluginCheckMailNews.accesskey "p">
+
+<!-- These are added to the Window menu -->
+<!ENTITY mail.label                       "E-post og nyhetsgrupper">
+<!ENTITY mail.accesskey                   "e">
+<!ENTITY addressbook.label                "Adressebok">
+<!ENTITY addressbook.accesskey            "A">
+
+<!-- These are added to Preferences dialog -->
+<!ENTITY viewingMessages.label            "Meldingsvisning">
+<!ENTITY notifications.label              "Varsler">
+<!ENTITY address.label                    "Adressering">
+<!ENTITY composingMessages.label          "Utforming">
+<!ENTITY format.label                     "Sendeformat">
+<!ENTITY return.label                     "Returkvitteringer">
+<!ENTITY disk.label                       "Diskplass">
+<!ENTITY junk.label                       "Søppelpost">
+<!ENTITY tags.label                       "Merkelapper">
+<!ENTITY characterEncoding.label          "Tegnkoding">
+<!ENTITY offline.label                    "Frakoblet og diskplass">

@@ -1,0 +1,26 @@
+<!ENTITY pref.images.title              "Bilder">
+
+<!ENTITY imageBlocking.label            "Bildetillatelser">
+
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY imageDetails                   "Angi hvordan &brandShortName; håndterer bilder.">
+
+<!ENTITY accAllImagesRadio.label        "Aksepter alle bilder">
+<!ENTITY accAllImagesRadio.accesskey    "A">
+<!ENTITY accOrgImagesRadio.label        "Aksepter bare bilder som kommer fra opprinnelig tjener">
+<!ENTITY accOrgImagesRadio.accesskey    "r">
+<!ENTITY disableImages.label            "Ikke last noen bilder">
+<!ENTITY disableImages.accesskey        "I">
+<!ENTITY viewImagesExplanation.label    "Vis liste over nettsted som har lagrede bildetillatelser">
+<!ENTITY viewImages.label               "Behandle bildetillatelser">
+<!ENTITY viewImages.accesskey           "B">
+<!ENTITY animLoopingTitle.label         "Animerte bilder skal gå i løkke">
+<!ENTITY animLoopAsSpecified.label      "Så mange ganger som bildet angir">
+<!ENTITY animLoopAsSpecified.accesskey  "m">
+<!ENTITY animLoopOnce.label             "En gang">
+<!ENTITY animLoopOnce.accesskey         "E">
+<!ENTITY animLoopNever.label            "Aldri">
+<!ENTITY animLoopNever.accesskey        "A">

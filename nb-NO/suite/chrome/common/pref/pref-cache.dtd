@@ -1,0 +1,28 @@
+<!-- extracted from content/pref-cache.xul -->
+
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+<!ENTITY pref.cache.title                "Hurtiglager">
+<!ENTITY pref.cache.caption              "Sett hurtiglagerinnstillinger">
+<!ENTITY cachePara                       "Hurtiglageret inneholder kopier av nettsteder du besøker ofte (dersom du trykker «Oppdater», vil du alltid få den nyeste utgaven av nettsiden).">
+<!ENTITY diskCache.label                 "Størrelse:">
+<!ENTITY diskCache.accesskey             "S">
+<!ENTITY mbytes                          " MB">
+<!ENTITY diskCacheFolder.label           "Mappe:">
+<!ENTITY clearDiskCache.label            "Tøm">
+<!ENTITY clearDiskCache.accesskey        "T">
+<!ENTITY chooseDiskCacheFolder.label     "Velg ...">
+<!ENTITY chooseDiskCacheFolder.accesskey "V">
+<!ENTITY diskCacheFolderExplanation      "Filer i mellomlageret vil lagres i en undermappe med navn «Cache». Start &brandShortName; på nytt for at endringene skal bli gjeldende.">
+<!ENTITY docCache                        "Sammenlign siden i mellomlageret med siden på nettet:">
+<!ENTITY oncePsessionRadio.label         "En gang per programøkt">
+<!ENTITY oncePsessionRadio.accesskey     "E">
+<!ENTITY everyTimeRadio.label            "Hver gang jeg besøker den">
+<!ENTITY everyTimeRadio.accesskey        "H">
+<!ENTITY neverRadio.label                "Aldri">
+<!ENTITY neverRadio.accesskey            "A">
+<!ENTITY autoRadio.label                 "Når den er utdatert">
+<!ENTITY autoRadio.accesskey             "N">
+
+<!ENTITY prefetchTitle.label             "Forhåndslasting av lenker">
+<!ENTITY enablePrefetch.label            "Forhåndsnedlast nettsider når ingenting annet lastes">
+<!ENTITY enablePrefetch.accesskey        "d">

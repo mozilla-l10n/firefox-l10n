@@ -1,0 +1,77 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Søk etter meldinger i:">
+<!ENTITY searchHeading.accesskey     "ø">
+<!ENTITY searchSubfolders.label      "Søk i undermapper">
+<!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY resetButton.label           "Tøm">
+<!ENTITY resetButton.accesskey       "T">
+<!ENTITY optionsButton.label         "Innstillinger">
+<!ENTITY closeButton.label           "Lukk">
+<!ENTITY openButton.label            "Åpne">
+<!ENTITY openButton.accesskey        "Å">
+<!ENTITY deleteButton.label          "Slett">
+<!ENTITY deleteButton.accesskey      "S">
+<!ENTITY searchDialogTitle.label     "Søk i meldinger">
+<!ENTITY conditionDesc.label         "Søk i meldinger som tilfredsstiller:">
+<!ENTITY conditions.label            "Kriterie">
+<!ENTITY results.label               "Resultater">
+<!ENTITY fileHereMenu.label          "Arkiver her">
+<!ENTITY fileHereMenu.accesskey      "A">
+<!ENTITY fileButton.label            "Fil">
+<!ENTITY fileButton.accesskey        "F">
+<!ENTITY closeCmd.key                "W">
+<!ENTITY goToFolderButton.label      "Åpne meldingsmappe">
+<!ENTITY goToFolderButton.accesskey  "m">
+<!ENTITY saveAsVFButton.label        "Lagre som søkemappe">
+<!ENTITY saveAsVFButton.accesskey    "g">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Søk i:">
+<!ENTITY abSearchHeading.accesskey   "S">
+<!ENTITY propertiesButton.label      "Egenskaper …">
+<!ENTITY propertiesButton.accesskey  "p">
+<!ENTITY composeButton.label         "Skriv ny e-post til">
+<!ENTITY composeButton.accesskey     "n">
+<!ENTITY abSearchDialogTitle.label   "Avansert adresseboksøk">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Tråd">
+<!ENTITY fromColumn.label "Fra">
+<!ENTITY recipientColumn.label "Mottaker">
+<!ENTITY subjectColumn.label "Emne">
+<!ENTITY dateColumn.label "Dato">
+<!ENTITY priorityColumn.label "Prioritet">
+<!ENTITY tagsColumn.label "Merkelapp">
+<!ENTITY accountColumn.label "Konto">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Størrelse">
+<!ENTITY junkStatusColumn.label "Uønsket">
+<!ENTITY linesColumn.label "Linjer">
+<!ENTITY unreadColumn.label "Ikke lest">
+<!ENTITY totalColumn.label "Totalt">
+<!ENTITY readColumn.label "Lest">
+<!ENTITY receivedColumn.label "Mottatt">
+<!ENTITY starredColumn.label "Stjerne">
+<!ENTITY locationColumn.label "Plassering">
+<!ENTITY idColumn.label "Mottaksrekkefølge">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Trykk her for å velge kolonner som skal vises">
+<!ENTITY threadColumn.tooltip "Trykk her for å vise meldingstråder">
+<!ENTITY fromColumn.tooltip "Trykk her for å sortere etter fra">
+<!ENTITY recipientColumn.tooltip "Trykk her for å sortere etter mottaker">
+<!ENTITY subjectColumn.tooltip "Trykk her for å sortere etter emne">
+<!ENTITY dateColumn.tooltip "Trykk her for å sortere etter dato">
+<!ENTITY priorityColumn.tooltip "Trykk her for å sortere etter prioritet">
+<!ENTITY tagsColumn.tooltip "Trykk her for å sortere etter merkelapp">
+<!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
+<!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
+<!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter størrelse">
+<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uønsket-status">
+<!ENTITY unreadColumn.tooltip "Antall uleste meldinger i tråden">
+<!ENTITY totalColumn.tooltip "Totalt antall meldinger i tråden">
+<!ENTITY readColumn.tooltip "Trykk her for å sortere etter lest-tilstand">
+<!ENTITY receivedColumn.tooltip "Trykk her for å sortere etter dato mottatt">
+<!ENTITY starredColumn.tooltip "Trykk her for å sortere etter stjerne">
+<!ENTITY locationColumn.tooltip "Trykk her for å sortere etter plassering">
+<!ENTITY idColumn.tooltip "Trykk her for å sortere etter mottatt rekkefølge">

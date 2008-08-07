@@ -1,0 +1,26 @@
+<!ENTITY migrationWizard.title           "Importveiviser">
+
+<!ENTITY importAllFrom.label             "Importer alle elementer fra:">
+<!ENTITY importBookmarksFrom.label       "Importer bokmerker fra:">
+
+<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 eller Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey   "S">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
+<!ENTITY importFromFile.label            "Fil">
+<!ENTITY importFromFile.accesskey        "F">
+<!ENTITY importFromNothing.label         "Ikke importer noe">
+<!ENTITY importFromNothing.accesskey     "I">
+
+<!ENTITY importSource.title              "Importer innstillinger og data">
+<!ENTITY importItems.title               "Elementer som skal importeres">
+<!ENTITY importItems.label               "Velg hvilke elementer du vil importere:">
+
+<!ENTITY selectProfile.title             "Velg profil">
+<!ENTITY selectProfile.label             "Følgende profiler er tilgjengelige å importere fra:">
+
+<!ENTITY migrating.title                 "Importerer ...">
+<!ENTITY migrating.label                 "Følgende elementer blir importert ...">
+
+<!ENTITY done.title                      "Import fullført">
+<!ENTITY done.label                      "Følgende elementer er importert:">

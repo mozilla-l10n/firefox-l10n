@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label                   "Generelt">
+<!ENTITY itemAutoComplete.label              "Adresser">
+<!ENTITY itemSpellCheck.label                "Stavekontroll">
+<!ENTITY itemSendFormat.label                "Sendeformat">
+
+<!ENTITY forwardReply.label                   "Videresending av meldinger">
+<!ENTITY forwardMsg.label                     "Videresend meldinger:">
+<!ENTITY forwardMsg.accesskey                 "V">
+<!ENTITY inline.label                         "Innbundet">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.label                   "Som vedlegg">
+<!ENTITY asAttachment.accesskey               "o">
+<!ENTITY addExtension.label                   "legg til utvidelse til filnavn">
+<!ENTITY addExtension.accesskey               "e">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Skrifttype:">
+<!ENTITY font.accesskey                       "p">
+<!ENTITY size.label                           "Størrelse:">
+<!ENTITY size.accesskey                       "ø">
+<!ENTITY fontColor.label                      "Tekstfarge:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "Bakgrunnsfarge:">
+<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY restoreHTMLDefaults.label            "Gjenopprett forvalg">
+<!ENTITY restoreHTMLDefaults.accesskey        "G">
+
+<!ENTITY sendingMessagesHeader.label          "Meldingsskriving">
+<!ENTITY spellCheck.label                     "Utfør stavekontroll før meldinger sendes">
+<!ENTITY spellCheck.accesskey                 "U">
+<!ENTITY spellCheckInline.label               "Kontroller staving mens e-posten skrives">
+<!ENTITY spellCheckInline1.accesskey           "K">
+<!ENTITY languagePopup.label                  "Språk:">
+<!ENTITY languagePopup.accessKey              "S">
+<!ENTITY downloadDictionaries.label           "Last ned flere ordbøker">
+
+<!ENTITY useMIME.label                        "For meldinger som inneholder 8-bit-tegn, bruk 'quoted printable' MIME-koding">
+<!ENTITY useMIME.accesskey                    "F">
+<!ENTITY warnOnSendAccelKey.label             "Bekreft når tastatursnarvei brukes for å sende meldinger">
+<!ENTITY warnOnSendAccelKey.accesskey         "B">
+<!ENTITY autoSave.label                       "Lagre meldinger automatisk hvert">
+<!ENTITY autoSave.accesskey                   "L">
+<!ENTITY autoSaveEnd.label                    "minutt">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Bryt tekstmeldinger ved">
+<!ENTITY wrapOutMsg.accesskey                 "y">
+<!ENTITY char.label                           "tegn">
+
+<!ENTITY emailCollectionPicker.label           "Automatisk legg sendte e-post til i:">
+<!ENTITY emailCollectionPicker.accesskey       "A">
+<!ENTITY addressingTitle.label                 "Automatisk adressefullføring">
+<!ENTITY autocompleteText.label                "Ved adressering av meldinger, se etter tilsvarende adresser i">
+<!ENTITY addressingEnable.label                "Lokale adressebøker">
+<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY directories.label                     "Katalogtjener:">
+<!ENTITY directories.accesskey                 "K">
+<!ENTITY editDirectories.label                 "Rediger kataloger …">
+<!ENTITY editDirectories.accesskey             "R">
+<!ENTITY matchText.label                       "Dersom det er et treff i dine lokale adressebøker:">
+<!ENTITY skipDirectory.label                   "Ikke søk i katalogen">
+
+<!ENTITY sendOptionsCaption.label              "Sending- og HTML-innstillinger">
+<!ENTITY sendOptionsDescription.label          "Konfigurer oppførselen til tekstformatet">
+<!ENTITY sendOptions.label                     "Sendeinnstillinger …">
+<!ENTITY sendOptions.accesskey                 "e">

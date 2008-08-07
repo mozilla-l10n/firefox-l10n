@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Send dette bildet som vedlegg i meldingen">
+<!ENTITY attachImageSource.accesskey     "S">
+
+<!ENTITY attachLinkSource.label          "Tilknytt kilden til denne lenken til meldingen">
+<!ENTITY attachLinkSource.accesskey      "T">

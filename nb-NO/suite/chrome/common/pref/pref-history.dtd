@@ -1,0 +1,15 @@
+<!ENTITY  pref.history.title                "Historikk">
+
+<!ENTITY  pref.history.caption              "Nettleserhistorikk">
+<!ENTITY  historyPages.label                "Nettleseren holder oversikt over sidene du har besøkt i det siste.">
+<!ENTITY  pageHis.label                     "Husk sider besøkt de siste">
+<!ENTITY  pageHis.accesskey                 "s">
+<!ENTITY  days.label                        "dagene">
+<!ENTITY  clearHistory.label                "Tøm">
+<!ENTITY  clearHistory.accesskey            "T">
+
+<!ENTITY  locationBarHistory.caption        "Adresselinjehistorikk">
+<!ENTITY  clearLocationBar.label            "Tøm listen over nettsted som er lagret i adresselinjen.">
+<!ENTITY  clearLocationBarButton.label      "Tøm">
+<!ENTITY  clearLocationBarButton.accesskey  "m">
+  

@@ -1,0 +1,19 @@
+
+<!ENTITY  pref.policies.title "Sikkerhetsinnstillinger">
+
+<!ENTITY  zoneIntro.label     "&brandShortName; lar deg opprette regler som bestemmer hvilken tilgang noen nettsteder skal ha til forskjellig funksjonalitet, for eksempel skript og Java.">
+
+<!ENTITY  policies.label      "Valg:">
+<!ENTITY  default.label       "Forvalg">
+<!ENTITY  allWebsites.label   "Alle nettsteder">
+<!ENTITY  trusted.label       "Tiltrodde nettsteder">
+<!ENTITY  annoyances.label    "Vanlige irritasjoner">
+<!ENTITY  restricted.label    "Nettsteder med begrensninger">
+
+<!ENTITY  addSite.label       "Legg til nettsted …">
+<!ENTITY  addSite.accesskey   "L">
+<!ENTITY  settings.label      "Innstillinger for">
+<!ENTITY  settings.accesskey  "I">
+
+<!ENTITY  description.label   "Valgbeskrivelse:">
+ 

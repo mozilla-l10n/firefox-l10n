@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Innstillinger for uønsket e-post">
+<!ENTITY trainingWarning.label "Dersom denne funksjonen er påslått må du først trene opp &brandShortName; til å oppdage uønsket e-post (f.eks. reklame som du ikke har bedt om) ved å bruke verktøylinjen for å markere meldinger som er uønskede. Du må vise både hvilke meldinger som du ønsker, og hvilke som er uønsket e-post.">
+<!ENTITY level.label "Tillat adaptivt filter for uønsket e-post på denne kontoen">
+<!ENTITY level.accesskey "T">
+
+<!ENTITY move.label "Flytt meldinger til:">
+<!ENTITY move.accesskey "F">
+<!ENTITY junkFolderOn.label "«Uønsket»-mappen på:">
+<!ENTITY junkFolderOn.accesskey "U">
+<!ENTITY otherFolder.label "Annen:">
+<!ENTITY otherFolder.accesskey "A">
+<!ENTITY purge1.label "Automatisk slett uønsket e-post eldre enn">
+<!ENTITY purge1.accesskey "A">
+<!ENTITY purge2.label "dager">
+
+<!ENTITY whitelist.label "Ikke marker e-post som uønsket dersom avsender er i: ">
+<!ENTITY whitelist.accesskey "I">
+
+<!ENTITY ispHeaders.label "Stol på meldingshoder om uønsket-status som er satt av: ">
+<!ENTITY ispHeaders.accesskey "S">

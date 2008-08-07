@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Skriv inn nettadressen (URL), eller oppgi filen du vil åpne:">
+<!ENTITY chooseFile.label "Velg fil …">
+<!ENTITY newWindow.label "Nytt nettleservindu">
+<!ENTITY newTab.label "Ny nettleserfane">
+<!ENTITY topWindow.label "Dette nettleservinduet">
+<!ENTITY caption.label "Åpne nettsted">
+<!ENTITY openWhere.label "Åpne i:">
+<!ENTITY openBtn.label "Åpne">

@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Skriverinnstillinger">
+
+<!ENTITY paperInput.label "Papirstørrelse:">
+
+<!ENTITY plexInput.label "Plex-modus:">
+
+<!ENTITY resolutionInput.label "Oppløsning/kvalitet:">
+
+<!ENTITY cmdInput.label "Utskriftskommando:">
+
+<!ENTITY jobTitleInput.label "Jobbtittel:">
+
+<!ENTITY colorGroup.label "Farge:">
+<!ENTITY grayRadio.label "Gråtoner">
+<!ENTITY colorRadio.label "Farger">
+
+<!ENTITY colorspaceInput.label "Fargerom:">
+
+<!ENTITY fontsGroup.label "Skrifttyper:">
+<!ENTITY downloadFonts.label "Last ned skrifttyper til skriveren?">
+
+<!ENTITY edgeMarginInput.label "Mellomrom mellom kanten av papiret til margen (tommer)">
+<!ENTITY topInput.label "Topp:">
+<!ENTITY bottomInput.label "Bunn:">
+<!ENTITY leftInput.label "Venstre:">
+<!ENTITY rightInput.label "Høyre:">

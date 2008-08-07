@@ -1,0 +1,12 @@
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
+<!ENTITY pref.advanced.title        "Avansert">
+
+<!ENTITY prefEnableJava.caption     "Funksjoner som hjelper til å tolke nettsider">
+
+<!ENTITY enbJavaCheck.label         "Tillat Java">
+<!ENTITY enbJavaCheck.accesskey     "J">
+
+<!ENTITY systemPref.caption         "Systeminnstillinger">
+<!ENTITY systemPrefCheck.label      "Bruk innstillinger fra systemet">
+<!ENTITY systemPrefCheck.accesskey  "s">
+<!ENTITY systemPref.desc            "Velg denne boksen for å arve innstillinger fra systemet. Systeminnstillinger vil overstyre &brandShortName;-innstillinger">

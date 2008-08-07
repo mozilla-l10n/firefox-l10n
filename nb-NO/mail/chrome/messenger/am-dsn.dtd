@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Leveringsbekreftelse">
+<!ENTITY useGlobalPrefs.label       "Bruk globale innstillinger for leveringsbekreftelse for denne kontoen">
+<!ENTITY useGlobalPrefs.accesskey   "B">
+<!ENTITY useCustomPrefs.label       "Tilpass leveringsbekreftelser for denne kontoen">
+<!ENTITY useCustomPrefs.accesskey   "T">
+<!ENTITY requestAlways.label        "Ved sending av meldinger, alltid be om leveringsbekreftelse">
+<!ENTITY requestAlways.accesskey    "V">
+<!ENTITY optionTitle.label          "Spør etter bekreftelse ved:">
+<!ENTITY requestOnSucess.label      "Vellykket levering">
+<!ENTITY requestOnSucess.accesskey  "V">
+<!ENTITY requestOnFailure.label     "Feil i levering">
+<!ENTITY requestOnFailure.accesskey "F">
+<!ENTITY requestOnDelay.label       "Forsinket levering">
+<!ENTITY requestOnDelay.accesskey   "o">
+<!ENTITY requestNever.label         "Aldri motta leveringsbekreftelse">
+<!ENTITY requestNever.accesskey     "d">

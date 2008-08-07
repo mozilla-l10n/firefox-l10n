@@ -1,0 +1,15 @@
+<!ENTITY Menubar.tooltip    "Hovedmeny">
+<!ENTITY Toolbar.tooltip    "Hovedverktøylinje">
+
+
+<!ENTITY multiline-expand.tooltip   "Bytt til multilinje innskriving (Ctrl+Opp)">
+<!ENTITY multiline-contract.tooltip "Bytt til enkeltlinje innskriving (Ctrl+Ned)">
+<!ENTITY multiline-send.tooltip     "Send denne teksten (Ctrl+Enter)">
+<!ENTITY server-nick.tooltip        "Bytt kallenavn eller sett borte-tilstand. Trykk Escape for å fokusere på inputtboksen.">
+
+<!ENTITY Underline.label             "Understreket">
+<!ENTITY Bold.label                  "Fet">
+<!ENTITY Reverse.label               "Invers video">
+<!ENTITY Normal.label                "Normal">
+<!ENTITY Color.label                 "Farge">
+<!ENTITY ForeBack.label              "xx=Forgrunn yy=Bakgrunn">

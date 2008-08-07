@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "Importveiviser">
+
+<!ENTITY importFromWin.label            "Importer innstillinger, kontoinnstillinger, adressebøker, filtre og annen data fra:">
+<!ENTITY importFromNonWin.label         "Importer innstillinger, kontoinnstillinger, adressebøker, filtre og annen data fra:">
+
+<!ENTITY importFromNothing.label        "Ikke importer noe">
+<!ENTITY importFromNothing.accesskey    "I">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 eller Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Importer innstillinger og e-postmapper fra">
+<!ENTITY importItems.title              "Hva som skal importeres">
+<!ENTITY importItems.label              "Velg det du vil importere:">
+
+<!ENTITY migrating.title                "Importerer …">
+<!ENTITY migrating.label                "Følgende elementer blir nå importert …">
+
+<!ENTITY selectProfile.title            "Velg profil">
+<!ENTITY selectProfile.label            "Du kan importere fra følgende profiler:">
+
+<!ENTITY done.title                     "Importering fullført">
+<!ENTITY done.label                     "Følgende elementer ble importert:">

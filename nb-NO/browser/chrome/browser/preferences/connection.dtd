@@ -1,0 +1,44 @@
+
+<!ENTITY  connectionsDialog.title       "Tilkoblingsinnstillinger">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "Konfigurer mellomtjenere for tilgang til Internett">
+<!ENTITY  noProxyTypeRadio.label        "Ingen mellomtjener">
+<!ENTITY  noProxyTypeRadio.accesskey    "I">
+<!ENTITY  systemTypeRadio.label         "Bruk systemets mellomtjenerinnstillinger">
+<!ENTITY  systemTypeRadio.accesskey     "y">
+<!ENTITY  WPADTypeRadio.label           "Automatisk oppdag mellomtjener-innstillinger">
+<!ENTITY  WPADTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio.label         "Manuelle mellomtjener-innstillinger:">
+<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  autoTypeRadio.label           "Automatisk oppsettadresse:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Oppdater">
+<!ENTITY  reload.accesskey              "O">
+<!ENTITY  ftp.label                     "FTP:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Gopher:">
+<!ENTITY  gopher.accesskey              "g">
+<!ENTITY  http.label                    "HTTP:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "Port:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Ingen MT for:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Eksempel: .mozilla.org, .online.no, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Bruk denne mellomtjeneren for alle protokoller">
+<!ENTITY  shareproxy.accesskey          "B">

@@ -1,0 +1,8 @@
+<!ENTITY pref-irc.window.title "ChatZilla">
+
+<!ENTITY pref-irc.open.title     "ChatZilla-innstillinger">
+<!ENTITY pref-irc.open.desc      "ChatZilla-innstillingene er altfor store til å passe i dette innstillingsvinduet. Du kan isteden åpne innstillingene fra her.">
+<!ENTITY pref-irc.open.label     "Åpne ChatZillas innstillinger">
+<!ENTITY pref-irc.open.accesskey "Å">
+<!ENTITY startup.chat.label "ChatZilla">
+<!ENTITY startup.chat.accesskey "Z">

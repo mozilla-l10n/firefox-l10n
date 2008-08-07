@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Identiteter assosiert med denne kontoen">
+<!ENTITY identitiesListDesc.label "Støtte for flere identiteter">
+<!ENTITY identitiesListAdd.label  "Legg til ...">
+<!ENTITY identitiesListAdd.accesskey  "L">
+<!ENTITY identitiesListEdit.label "Rediger ...">
+<!ENTITY identitiesListEdit.accesskey "R">
+<!ENTITY identitiesListDelete.label "Slett">
+<!ENTITY identitiesListDelete.accesskey "S">

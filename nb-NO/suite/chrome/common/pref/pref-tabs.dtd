@@ -1,0 +1,26 @@
+<!ENTITY tabHeader.label "Faner">
+<!ENTITY tabDisplay.label "Fanevisning">
+<!ENTITY autoHide.label "Skjul fanelinjen når bare en fane er åpen">
+<!ENTITY autoHide.accesskey "S">
+<!ENTITY background.label "Åpne lenker i bakgrunnen">
+<!ENTITY background.accesskey "Å">
+<!ENTITY loadGroup.label "Ved åpning av bokmerkegruppe">
+<!ENTITY loadGroupAppend.label "Legg til faner">
+<!ENTITY loadGroupAppend.accesskey "L">
+<!ENTITY loadGroupReplace.label "Erstatt eksisterende faner">
+<!ENTITY loadGroupReplace.accesskey "E">
+<!ENTITY openTabs.label "Åpne faner i stedet for vinduer for">
+
+<!ENTITY newWindow.label "Oppførsel ved åpning av lenker">
+<!ENTITY newWindowDescription.label "Åpning av lenker som åpnes i nytt vindu bør åpnes i">
+<!ENTITY external.label "Lenker fra andre programmer">
+<!ENTITY externalDescription.label "Åpne lenker sendt fra andre programmer i">
+<!ENTITY openCurrent.label "Den aktive fanen/vinduet">
+<!ENTITY newWindowGroupCurrent.accesskey "c">
+<!ENTITY externalGroupCurrent.accesskey "u">
+<!ENTITY openTab.label "En ny fane i aktivt vindu">
+<!ENTITY newWindowGroupTab.accesskey "n">
+<!ENTITY externalGroupTab.accesskey "e">
+<!ENTITY openWindow.label "Et nytt vindu">
+<!ENTITY newWindowGroupWindow.accesskey "w">
+<!ENTITY externalGroupWindow.accesskey "o">

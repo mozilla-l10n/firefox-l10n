@@ -1,0 +1,17 @@
+<!-- Override app-specific error messages for SeaMonkey -->
+
+<!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel ...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Dette høres ut som en dårlig ide. Gå til startsiden isteden.">
+<!ENTITY securityOverride.exceptionButtonLabel "Legg til unntak">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to SeaMonkey. -->
+
+<!ENTITY securityOverride.warningText "
+<p>Du bør ikke legge til et unntak dersom du bruker en Internett-tilkobling som du ikke stoler helt på, eller dersom du ser en advarsel på denne tjeneren.</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">

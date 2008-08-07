@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title            "Nedlastinger">
+<!ENTITY downloadBehavior.label         "Når en ny nedlasting starter">
+<!ENTITY downloadLocation.label         "Ved lagring av en fil">
+<!ENTITY finishedBehavior.label         "Når en nedlasting fullfører">
+<!ENTITY openDM.label                   "Åpne nedlastingslisten">
+<!ENTITY openDM.accesskey               "n">
+<!ENTITY openProgressDialog.label       "Åpne egen fremdriftsdialog">
+<!ENTITY openProgressDialog.accesskey   "f">
+<!ENTITY doNothing.label                "Ikke åpne noe">
+<!ENTITY doNothing.accesskey            "I">
+<!ENTITY promptDownload.label           "Spør etter nedlastingsmappe og ha som forvalg">
+<!ENTITY promptDownload.accesskey       "S">
+<!ENTITY lastLocation.label             "Siste nedlastingsmappe">
+<!ENTITY lastLocation.accesskey         "S">
+<!ENTITY specifiedLocation.label        "Egen mappe">
+<!ENTITY specifiedLocation.accesskey    "E">
+<!ENTITY autoDownload.label             "Automatisk last ned filer til angitt nedlastingsmappe">
+<!ENTITY autoDownload.accesskey         "A">
+<!ENTITY downloadFolder.label           "Nåværende nedlastingsmappe:">
+<!ENTITY chooseDownloadFolder.label     "Velg mappe ...">
+<!ENTITY chooseDownloadFolder.accesskey "V">
+<!ENTITY playSound.label                "Spill av en lyd">
+<!ENTITY playSound.accesskey            "S">
+<!ENTITY showAlert.label                "Vis et varsel">
+<!ENTITY showAlert.accesskey            "v">
+<!ENTITY browse.label                   "Bla gjennom ...">
+<!ENTITY browse.accesskey               "B">
+<!ENTITY preview.label                  "Spill av">
+<!ENTITY preview.accesskey              "v">
+<!ENTITY soundURL.label                 "Lyd-URL:">
+<!ENTITY soundURL.accesskey             "U">

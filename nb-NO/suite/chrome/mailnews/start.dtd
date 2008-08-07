@@ -1,0 +1,66 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla application suite mailnews start page.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser.
+   - Portions created by the Initial Developer are Copyright (C) 2004
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY startpage.title "Velkommen til &brandShortName; E-post og nyhetsgrupper">
+<!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
+<!ENTITY headline.label
+'Velkommen til <a id="vendorURL" href="">&brandShortName;</a> E-post og nyhetsgrupper!'>
+<!ENTITY description.label
+"&brandShortName; E-post og nyhetsgrupper er en kraftig åpen-kildekode e-post og nyhetsgruppeklient
+som støtter avansert søppelpostkontroll og andre nyttige funksjoner.">
+<!ENTITY features.title "Funksjoner">
+<!ENTITY feat_multiacc.label "Støtte for flere kontoer">
+<!ENTITY feat_junk.label "Oppdaging av søppelpost">
+<!ENTITY feat_filters.label "Meldingsfiltre">
+<!ENTITY feat_htmlmsg.label "Støtte for HTML-meldinger">
+<!ENTITY feat_abook.label "Adressebok">
+<!ENTITY feat_labels.label "Egendefinerbare merkelapper og e-postvisninger">
+<!ENTITY feat_integration.label
+"Tett integrasjon med programpakken &brandShortName;">
+<!ENTITY dict.title "Ordbøker">
+<!ENTITY dict_intro.label "Ordbøker brukes for å stavekontrollere meldingene dine.">
+<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
+<!ENTITY dict_info.label
+'Mange tilleggsordbøker kan installeres fra 
+<a id="dictURL" href="">ordbok</a>-seksjonen på
+<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
+<!ENTITY info.title "Mer informasjon">
+<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label
+'<a href="http://www.mozilla.org/mailnews/">Vi</a> setter pris på feilrapporter og
+ønsker om nye funksjoner, men les <a id="releaseNotesURL" href="">versjonsnotatet</a> og søk i
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> først.'>

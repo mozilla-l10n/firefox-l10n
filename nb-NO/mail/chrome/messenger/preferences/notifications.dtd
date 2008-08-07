@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "Tilpass varsling om ny e-post">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Velg hvilke felt som skal vises i varslingsmeldingen:">
+<!ENTITY previewText.label                "Forhåndsvisning av meldingsteksten">
+<!ENTITY previewText.accesskey            "F">
+<!ENTITY subject.label                    "Emne">
+<!ENTITY subject.accesskey                "E">
+<!ENTITY sender.label                     "Avsender">
+<!ENTITY sender.accesskey                 "A">
+

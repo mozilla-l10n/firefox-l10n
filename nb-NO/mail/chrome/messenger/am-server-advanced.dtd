@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "Avanserte kontoinnstillinger">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "Avanserte IMAP tjenerinnstillinger">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP tjenerkatalog:">
+<!ENTITY serverDirectory.accesskey "T">
+<!ENTITY usingSubscription.label "Vis bare påmeldte mapper">
+<!ENTITY usingSubscription.accesskey "I">
+<!ENTITY dualUseFolders.label "Tjeneren støtter mapper som inneholder undermapper og meldinger">
+<!ENTITY dualUseFolders.accesskey "T">
+<!ENTITY useIdle.label "Bruk IDLE-kommandoen dersom tjeneren støtter det">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Maksimalt antall tjenertilkoblinger til hurtiglageret">
+<!ENTITY maximumConnectionsNumber.accesskey "T">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Disse innstillingene angir navnerommet på IMAP-tjeneren">
+<!ENTITY personalNamespace.label "Personlig navnerom:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Offentlig (delt):">
+<!ENTITY publicNamespace.accesskey "N">
+<!ENTITY otherUsersNamespace.label "Andre brukere:">
+<!ENTITY otherUsersNamespace.accesskey "B">
+<!ENTITY overrideNamespaces.label "Tillat tjeneren å overstyre disse navnerommene">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "Nye meldinger lastet ned fra POP3-tjeneren lagres i denne mappen:" >
+<!ENTITY folderStorage.label "Hvor e-post skal lagres">
+<!ENTITY globalInbox.label "Global innboks («Lokale mapper»-kontoen)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "Innboks for denne tjenerens konto">
+<!ENTITY accountDirectory.accesskey "n">
+<!ENTITY deferToServer.label "Innboks i en annen konto">
+<!ENTITY deferToServer.accesskey "b">
+<!ENTITY deferGetNewMail.label "Når ny e-post hentes, hent også for denne kontoen">
+<!ENTITY deferGetNewMail.accesskey "r">

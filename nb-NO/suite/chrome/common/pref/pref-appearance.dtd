@@ -1,0 +1,26 @@
+<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
+<!ENTITY pref.appearance.title "Utseende">
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY onStartLegend.label                    "Når &brandShortName; starter, åpne">
+<!ENTITY navCheck.label                         "Nettleser">
+<!ENTITY navCheck.accesskey                     "N">
+<!ENTITY showToolsLegend.label                  "Vis verktøylinjer som">
+<!ENTITY picsNtextRadio.label                   "Bilder og tekst">
+<!ENTITY picsNtextRadio.accesskey               "B">
+<!ENTITY picsOnlyRadio.label                    "Bare bilder">
+<!ENTITY picsOnlyRadio.accesskey                "a">
+<!ENTITY textonlyRadio.label                    "Bare tekst">
+<!ENTITY textonlyRadio.accesskey                "r">
+<!ENTITY showHideTooltips.label                 "Vis verktøytips">
+<!ENTITY showHideTooltips.accesskey             "V">
+
+<!ENTITY pref.locales.title                     "Programspråk">
+<!ENTITY selectLocale.label                     "Velg hvilket språk du ønsker at brukes i dialogbokser, menyer, verktøylinjer og knappetekster:">
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLangChange.label              "Valg av språk vil ikke bli gjeldende før du starter &brandShortName; på nytt.">
+

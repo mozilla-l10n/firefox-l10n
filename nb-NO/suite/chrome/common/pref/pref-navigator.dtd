@@ -1,0 +1,47 @@
+<!ENTITY pref.navigator.title           "Nettleser">
+
+<!ENTITY navRadio                       "Vis ved">
+<!ENTITY navStartPageMenu.label         "Oppstart">
+<!ENTITY newWinPageMenu.label           "Nytt vindu">
+<!ENTITY newTabPageMenu.label           "Ny fane">
+
+<!ENTITY blankPageRadio.label           "Blank side">
+<!ENTITY blankPageRadio.accesskey       "B">
+<!ENTITY homePageRadio.label            "Hjemmeside">
+<!ENTITY homePageRadio.accesskey        "H">
+<!ENTITY lastPageRadio.label            "Sist besøkte side">
+<!ENTITY lastPageRadio.accesskey        "S">
+
+<!ENTITY header2.label                  "Hjemmeside">
+<!ENTITY homePageIntro.label            "Når du trykker på Hjem-knappen vil denne gruppen av sider bli vist.">
+<!ENTITY useCurrent.label               "Bruk aktiv side">
+<!ENTITY useCurrent.accesskey           "u">
+<!ENTITY useCurrentGroup.label          "Bruk fanegruppe">
+<!ENTITY useCurrentGroup.accesskey      "g">
+<!ENTITY browseFile.label               "Velg fil ...">
+<!ENTITY browseFile.accesskey           "V">
+<!ENTITY useDefault.label               "Bruk forvalg">
+<!ENTITY useDefault.accesskey           "f">
+
+<!ENTITY toolbarIntro.label             "Velg knappene du vil vise i verktøylinjen">
+
+<!ENTITY navToolbarIntro.label          "Navigeringslinje">
+<!ENTITY goButton.label                 "Gå">
+<!ENTITY goButton.accesskey             "o">
+<!ENTITY searchButton.label             "Søk">
+<!ENTITY searchButton.accesskey         "S">
+<!ENTITY printButton.label              "Skriv ut">
+<!ENTITY printButton.accesskey          "P">
+
+<!ENTITY persToolbarIntro.label         "Personlig verktøylinje">
+<!ENTITY homeButton.label               "Hjem">
+<!ENTITY homeButton.accesskey           "e">
+<!ENTITY bookmarksButton.label          "Bokmerker">
+<!ENTITY bookmarksButton.accesskey      "k">
+
+<!ENTITY defaultBrowserGroup.label      "Standard nettleser">
+<!ENTITY defaultBrowserButton.label     "Sett standard nettleser">
+<!ENTITY defaultBrowserButton.accesskey "a">
+<!ENTITY alreadyDefaultText             "&brandShortName; er allerede standard nettleser.">
+<!ENTITY defaultPendingText             "&brandShortName; vil bli satt som standard nettleser når du trykker på OK.">
+<!ENTITY makeDefaultText                "Sett &brandShortName; som din standard nettleser.">

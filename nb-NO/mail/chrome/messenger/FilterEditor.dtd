@@ -1,0 +1,38 @@
+<!ENTITY window.title "Filterregler">
+
+<!ENTITY filterName.label "Filternavn:">
+<!ENTITY filterName.accesskey "F">
+
+<!ENTITY junk.label "Uønsket">
+<!ENTITY notJunk.label "Ønsket">
+
+<!ENTITY lowestPriorityCmd.label "Lavest">
+<!ENTITY lowPriorityCmd.label "Lav">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY highPriorityCmd.label "Høy">
+<!ENTITY highestPriorityCmd.label "Høyest">
+
+<!ENTITY conditionDesc.label "For innkommende meldinger hvor:">
+<!ENTITY filterActionDesc.label "Gjør dette med meldingene:">
+<!ENTITY filterActionDesc.accesskey "G">
+
+<!ENTITY newFolderButton.label "Ny mappe …">
+<!ENTITY newFolderButton.accesskey "N">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Flytt melding til">
+<!ENTITY copyMessage.label "Kopier melding til">
+<!ENTITY forwardTo.label "Videresend melding til">
+<!ENTITY replyWithTemplate.label "Svar med mal">
+<!ENTITY markMessageRead.label "Marker som lest">
+<!ENTITY markMessageStarred.label "Merk med stjerne">
+<!ENTITY setPriority.label "Sett prioritet til">
+<!ENTITY addTag.label "Merk melding">
+<!ENTITY setJunkScore.label "Sett reklame-status til">
+<!ENTITY deleteMessage.label "Slett melding">
+<!ENTITY deleteFromPOP.label "Slett fra POP-tjeneren">
+<!ENTITY fetchFromPOP.label "Hent fra POP-tjeneren">
+<!ENTITY ignoreThread.label "Ignorer tråd">
+<!ENTITY ignoreSubthread.label "Ignorer undertråd">
+<!ENTITY watchThread.label "Følg tråd">
+<!ENTITY stopExecution.label "Stopp filtrering">

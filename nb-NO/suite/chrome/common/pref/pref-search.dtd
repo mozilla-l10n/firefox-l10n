@@ -1,0 +1,23 @@
+<!-- extracted from content/pref-search.xul -->
+
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+<!ENTITY pref.search.title                "Internett-søk">
+<!ENTITY legendHeader                     "Forvalgt søkemotor">
+<!ENTITY defaultSearchEngine.label        "Søk med">
+<!ENTITY defaultSearchEngine.accesskey    "S">
+
+<!ENTITY openSidebarSearchPanel.label     "Åpne søkefanen i sidestolpen når søkeresultater er tilgjengelige">
+<!ENTITY openSidebarSearchPanel.accesskey "Å">
+
+<!ENTITY openContextSearchTab.label       "Åpne en fane istedenfor et nytt vindu for nettsøk fra kontekstmenyen">
+<!ENTITY openContextSearchTab.accesskey   "Å">
+
+<!ENTITY searchResults.label              "Søkeresultater">
+
+<!ENTITY sidebarSearchTabPref.label       "Visningsvalg for sidestolpen">
+<!ENTITY searchModeBasic.label            "Vanlig">
+<!ENTITY searchModeBasic.accesskey        "v">
+<!ENTITY searchModeAdvanced.label         "Avansert">
+<!ENTITY searchModeAdvanced.accesskey     "A">
+

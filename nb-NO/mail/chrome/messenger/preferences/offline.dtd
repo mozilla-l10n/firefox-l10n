@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title "Frakoblet modus">
+
+<!ENTITY textStartUp "Ved oppstart:">
+<!ENTITY radioRememberPrevState.label "Husk forrige tilkoblingstilstand">
+<!ENTITY radioRememberPrevState.accesskey "H">
+<!ENTITY radioAskMe.label "Spør meg for tilkoblingstilstand ved oppstart">
+<!ENTITY radioAskMe.accesskey "S">
+<!ENTITY radioAlwaysOnline.label "Alltid start i tilkoblet tilstand">
+<!ENTITY radioAlwaysOnline.accesskey "A">
+
+<!ENTITY textGoingOnline "Send usendte meldinger når jeg går til tilkoblet tilstand?">
+<!ENTITY radioAutoSend.label "Ja">
+<!ENTITY radioAutoSend.accesskey "J">
+<!ENTITY radioNotSend.label "Nei">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent.label "Spør meg">
+<!ENTITY radioAskUnsent.accesskey "S">
+<!ENTITY textGoingOffline "Last ned meldinger for frakoblet bruk når jeg kobler fra?">
+<!ENTITY radioAutoDownload.label "Ja">
+<!ENTITY radioAutoDownload.accesskey "a">
+<!ENTITY radioNotDownload.label "Nei">
+<!ENTITY radioNotDownload.accesskey "e">
+<!ENTITY radioAskDownload.label "Spør meg">
+<!ENTITY radioAskDownload.accesskey "S">

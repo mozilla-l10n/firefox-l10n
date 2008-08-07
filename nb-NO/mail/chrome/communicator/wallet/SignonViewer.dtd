@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "Passordbehandling">
+<!ENTITY      windowalttitle.label            "Skjemabehandling">
+<!ENTITY      tab.signonsstored.label         "Lagrede passord">
+<!ENTITY      tab.signonsnotstored.label      "Passord som aldri lagres">
+<!ENTITY      tab.nopreview.label             "Skjemaer som aldri forhåndsvises">
+<!ENTITY      tab.nocapture.label             "Skjemaer som aldri lagres">
+
+<!ENTITY      spiel.signonsstored.label       "Passordbehandling har lagret innloggingsinformasjon for følgende nettsteder:">
+<!ENTITY      spiel.signonsnotstored.label    "Passordbehandling vil aldri lagre innloggingsinformasjon for følgende nettsteder:">
+<!ENTITY      spiel.nopreview.label           "Skjemabehandling vil aldri forhåndsvise skjemaer fra følgende nettsteder før den fyller dem ut for deg:">
+<!ENTITY      spiel.nocapture.label           "Skjemabehandling vil aldri spørre deg etter å lagre skjemaer for de følgende nettstedene:">
+
+<!ENTITY      treehead.site.label             "Nettsted">
+<!ENTITY      treehead.username.label         "Brukernavn">
+<!ENTITY      treehead.password.label         "Passord">
+<!ENTITY      remove.label                    "Fjern">
+<!ENTITY      removeall.label                 "Fjern alle">

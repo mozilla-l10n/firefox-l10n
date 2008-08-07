@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Innstillinger for utgående SMTP-tjener">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Bare en utgående SMTP-tjener trengs å være angitt, selv om du har flere e-postkontoer. Skriv inn navnet på tjeneren du vil bruke for utgående meldinger.">
+
+<!ENTITY smtpListAdd.label  "Legg til …">
+<!ENTITY smtpListAdd.accesskey  "L">
+<!ENTITY smtpListEdit.label "Rediger …">
+<!ENTITY smtpListEdit.accesskey "R">
+<!ENTITY smtpListDelete.label "Slett">
+<!ENTITY smtpListDelete.accesskey "S">
+<!ENTITY smtpListSetDefault.label "Sett standard">
+<!ENTITY smtpListSetDefault.accesskey "e">
+
+<!ENTITY serverDescription.label "Beskrivelse: ">
+<!ENTITY serverName.label "Tjenernavn: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label   "Brukernavn: ">
+<!ENTITY useSecureConnection.label   "Sikker tilkobling: ">
+<!ENTITY useSecureAuthentication.label   "Sikker autentisering: ">

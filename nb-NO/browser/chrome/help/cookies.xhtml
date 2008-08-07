@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Behandle informasjonskapsler</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Behandle informasjonskapsler</h1>
+
+<p>Dette kapittelet forklarer hva informasjonskapsler er, hvordan de blir brukt og hvordan du kan
+  kontrollere informasjonskapslene p&aring; datamaskinen din ved hjelp av informasjonskapselbehandling i 
+  &brandFullName;.</p>
+
+<div class="contentsBox">I dette kapitlet:
+  <ul>
+    <li><a href="#what_is_a_cookie">Hva er en informasjonskapsel?</a></li>
+    <li><a href="#setting_up_cookie_rules">Sett opp regler for informasjonskapsler</a></li>
+    <li><a href="#accepting_and_blocking_cookies">Aksepter og blokker informasjonskapsler</a></li>
+    <li><a href="#cookies_exceptions">Behandle unntak for informasjonskapsler</a></li>
+    <li><a href="#view_cookies">Vise informasjonskapsler</a></li>
+  </ul>
+</div>
+
+<h2 id="what_is_a_cookie">Hva er en informasjonskapsel?</h2>
+
+<p>En informasjonskapsel er en fil laget av en Internettside for &aring; lagre informasjon p&aring; datamaskinen 
+  din, som f.eks. innstillinger n&aring;r du bes&oslash;ker siden. N&aring;r du bes&oslash;ker en nettside 
+  som bruker informasjonskapsler kan siden be &brandShortName; om &aring; lagre en eller flere informasjonskapsler 
+  p&aring; harddisken din.</p>
+
+<p>Senere n&aring;r du bes&oslash;ker nettstedet, vil &brandShortName; sende tilbake informasjonen 
+  som ligger i informasjonskapselen. Dette setter nettstedet i stand til &aring; forandre innholdet etter dine preferanser
+  hver gang du bes&oslash;ker det.</p>
+
+<p>Informasjonskapsler kan ogs&aring; lagre personlig identifiserbar informasjon. Personlig identifiserbar
+  informasjon er informasjon som kan brukes til &aring; identifisere eller kontakte deg, som
+  for eksempel navnet ditt, e-postadressen, adressen, eller telefonnummeret. Dog, en nettside 
+  har bare tilgang til den informasjonen som du gir den. F.eks. kan ikke en nettside
+  f&aring; tilgang til e-postadressen din uten at du gir den til nettsiden. En nettside har heller 
+  ikke tilgang til annen informasjon p&aring; datamaskinen din.</p>
+
+<p>N&aring;r du bruker standardinnstillingene til informasjonskapsler er alt dette usynlig for deg. Du vil 
+  ikke se n&aring;r en nettside lager en informasjonskapsel p&aring; din maskin, eller n&aring;r &brandShortName; 
+  sender en informasjonskapsel til en nettside. Du kan dog sette opp innstillingene slik at du vil bli spurt hver 
+  gang en nettside vil lage en informasjonskapsel hos deg. Du kan ogs&aring;
+  begrense levetiden til en informasjonskapsel slik at den fjernes n&aring;r du avslutter &brandShortName;.</p>
+
+<h2 id="setting_up_cookie_rules">Sette regler for informasjonskapsler</h2>
+
+<p>Som standard vil &brandShortName; akseptere alle informasjonskapsler, inkludert informasjonskapsler som
+  i teorien kan la nettstedet gjenkjenne deg for alltid. Hvis dette ikke passer
+  deg, kan du sette &brandShortName; til &aring; slette alle informasjonskapsler n&aring;r du avslutter
+  &brandShortName;:</p>
+
+<ol>
+  <li>Velg &pref.menuPath; og åpne <em>Personvern</em>-panelet.</li>
+  <li>Velg <em>til jeg lukker &brandShortName;</em> &pref.singular; fra 
+  kombinasjonsboksen <em>Behold informasjonskapsler</em>.</li>
+</ol>
+
+<p>Hvis du &oslash;nsker &aring; tillate nettsted du stoler p&aring; &aring; lagre informasjonskapsler permanent
+  (f.eks. for &aring; la deg logge automatisk inn p&aring; et nettsted), klikk
+  <a href="#cookies_exceptions"><em>Unntak</em></a>, skriv inn nettstedets adresse,
+  og klikk <em>Tillat</em>.</p>
+
+<h3 id="all_the_settings">Alle innstillinger</h3>
+
+<p>Dette er &pref.plural; som p&aring;virker hvordan informasjonskapsler behandles av
+  &brandShortName;:</p>
+
+<dl>
+  <dt>Tillat informasjonskapsler</dt>
+  <dd><p>Om du ikke vil tillate noen sider &aring; lagre informasjonskapsler p&aring; datamaskinen din, deaktiver 
+    dette &pref.singular;. Husk at noen sider ikke vil fungere ordentlig om 
+    informasjonskapsler ikke er tillatt. Hvis du &oslash;nsker &aring; tillate bestemte nettsteder &aring;
+    lagre informasjonskapsler, &aring;pner du <a href="#cookies_exceptions">Vinduet for unntak for informasjonskapsler
+    </a> ved &aring; klikke p&aring; <em>Unntak</em>, skriver inn adressen og 
+    klikker <em>Tillat</em> eller <em>Tillat for denne &oslash;kten</em>.</p></dd>
+  <dt>Behold inntil</dt>
+  <dd>
+  <ul>
+    <li><em>de utgår</em><br/>
+      Dersom dette er valgt, vil hver informasjonskapsel bli slettet når
+      nettstedet som satte den har sagt at de bør utgå på dato.</li>
+    <li><em>jeg lukker &brandShortName;</em><br/>
+      Dersom denne innstillingen er valgt vil informasjonskapsler bli slettet når
+      &brandShortName; starter på nytt.  Nettsider som krever at informasjonskapsler er påslått
+      vil virke, men dersom du starter &brandShortName; på nytt, vil nettstedet tro at 
+      du logger inn på nettstedet for første gang igjen.</li>
+    <li><em>spør meg hver gang</em><br/>
+      Varsler hver gang et nettsted forsøker å lagre en informasjonskapsel,
+      og spør om du ønsker at informasjonskapselen lagres.</li>
+  </ul>
+  </dd>
+</dl>
+
+<h2 id="accepting_and_blocking_cookies">Aksepter og blokker informasjonskapsler</h2>
+
+<p>Hvis du har valgt <em>sp&oslash;r meg hver gang</em> fra kombinasjonsboksen <em>Behold informasjonskapsler</em>
+  , vil du se en dialogboks hver gang et nettsted fors&oslash;ker &aring; lagre en informasjonskapsel p&aring; 
+  datamaskinen din. Du vil bli gitt f&oslash;lgende alternativ:</p>
+
+<dl>
+  <dt>Tillat</dt>
+  <dd>For &aring; tillate en bestemt informasjonskapsel, bare trykk <em>Tillat</em>. Bruk denne hvis
+    du stoler p&aring; nettstedet.</dd>
+  <dt>Tillat for program&oslash;kten</dt>
+  <dd>Hvis du &oslash;nsker &aring; tillate informasjonskapselen n&aring;, men &oslash;nsker at den skal slettes n&aring; du
+    avslutter &brandShortName; klikker du <em>Tillat for program&oslash;kten</em>. Bruk dette alternativet om 
+    nettstedet ikke fungerer uten informasjonskapsler, samtidig som du ikke &oslash;nsker &aring; ha en permanent
+    informasjonskapsel lagret.</dd>
+  <dt>Avsl&aring;</dt>
+  <dd>Om du ikke vil lagre informasjonskapselen, trykk <em>Avsl&aring;</em>. Bruk denne
+    hvis du ikke stoler p&aring; nettstedet eller mistenker nettstedet for &aring; ikke ta personvernet ditt p&aring; alvor.</dd>
+  <dt>Bruk dette valget for alle informasjonskapsler fra dette nettstedet</dt>
+  <dd>Velg denne avkrsyningsboksen f&oslash;r du klikker noen andre knapper hvis du vil at
+    &brandShortName; skal huske dine valg og ikke sp&oslash;rre igjen. Nettstedet blir n&aring;
+    lagt til <a href="#cookies_exceptions">Unntak</a>
+    hvor du kan g&aring; tilbake p&aring; ditt valg senere om du skulle &oslash;nske det.</dd>
+</dl>
+
+<h2 id="cookies_exceptions">Unntak</h2>
+
+<p>Du f&aring;r tilgang til dette vinduet ved &aring; klikke p&aring; <em>Unntak</em> i 
+  &pref.plural; for informasjonskapsler. Her kan du gj&oslash;re unntak fra dine generelle 
+  &pref.plural; for informasjonskapsler for bestemte nettsteder. Ved hjelp av unntak kan du tillate alle informasjonskapsler,
+  avvise alle informasjonskapsler eller tillate alle informasjonskapsler og s&aring; la dem bli slettet i det du avslutter
+  &brandShortName;, dette uavhengig av dine andre innstillinger for informasjonskapsler.</p>
+
+<p>For &aring; legge til et nettsted til denne listen, skriver du bare inn nettstedets domenenavn i feltet
+  merket <em>Adressen til nettstedet</em>. Du klikker s&aring; <em>Blokker</em> for &aring; avvise
+  informasjonskapsler fra nettstedet, <em>Tillat</em> for &aring; godta informasjonskapsler fra nettstedet,
+  eller <em>Tillat for denne &oslash;kten</em> for &aring; godta informasjonskapsler fra nettstedet, men la
+  dem bli slettet automatisk n&aring;r du avslutter &brandShortName;.</p>
+
+<p>For &aring; fjerne et nettsted fra denne listen velger det du det og klikker <em>Fjern nettsted</em>. For
+  &aring; t&oslash;mme listen fullstendig, klikker du <em>Fjern alle nettsted</em>. Dette vil t&oslash;mme
+  unntakslisten slik dine generelle &pref.plural; for informasjonskapsler gjelder.</p>
+
+<h2 id="view_cookies">Informasjonskapselbehandling</h2>
+
+<p>Bruk	<em>Informasjonskapselbehandling</em> for &aring; vise og fjerne informasjonskapsler. For &aring; f&aring; tilgang til dette vinduet,
+  klikker du <em>Behandle</em> i &pref.plural; for informasjonskapsler.</p>
+
+<p>Dette vinduet viser alle informasjonskapsler som er lagret p&aring;
+  datamaskinen din i &oslash;yeblikket, gruppert etter nettsted. Du kan utvide nettstedene og velge en informasjonskapsel for &aring;
+  se mer informasjon om den. Du kan ogs&aring; s&oslash;ke etter et nettsted eller en informasjonskapsel
+  ved &aring; skrive i s&oslash;kefeltet.</p>
+
+<p>For &aring; fjerne en informasjonskapsel fra listen, velger du den og klikker <em>Fjern informasjonskapsel</em>.
+  For &aring; fjerne informasjonskapsler fra et bestemt nettsted, velger du nettstedet og klikker <em>Fjern 
+  informasjonskapsel</em>. For &aring; fjerne alle informasjonskapsler, klikker du p&aring; <em>Fjern alle informasjonskapsler</em>.</p>
+
+<div class="contentsBox"><em>12 September 2006</em></div>
+<p>Opphavsrettsbeskyttet &copy; 2003-2006 Bidragsytere til Mozilla Help Viewer Project. Norsk oversettelse: Opphavsrettsbeskyttet &copy; 2004-2006 Mozilla Norge (<a href="http://www.firefox.no">www.firefox.no</a>).</p>
+
+</body>
+</html>

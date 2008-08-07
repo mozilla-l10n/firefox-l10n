@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "Innstillinger">
+<!ENTITY security.caption "Sikkerhet og autentisering">
+<!ENTITY serverName.label "Tjenernavn:">
+<!ENTITY serverName.accesskey "T">
+<!ENTITY serverDescription.label "Beskrivelse:">
+<!ENTITY serverDescription.accesskey "B">
+<!ENTITY serverPort.label "Port:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Brukernavn og passord">
+<!ENTITY alwaysUseUsername.accesskey "B">
+<!ENTITY userName.label "Brukernavn:">
+<!ENTITY userName.accesskey "v">
+<!ENTITY useSecAuth.label "Bruk sikker autentisering">
+<!ENTITY useSecAuth.accesskey "u">
+<!ENTITY isSecure.label "Bruk sikker tilkobling (SSL):">
+<!ENTITY neverSecure.label "Nei">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, dersom tilgjengelig">
+<!ENTITY sometimesSTARTTLS.accesskey "a">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "Utgående tjener">
+<!ENTITY serverPortDefault.label "Forvalgt:">

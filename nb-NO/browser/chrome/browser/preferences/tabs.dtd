@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "Åpne nye sider i:">
+<!ENTITY inNewWindow.label            "et nytt vindu">
+<!ENTITY inNewWindow.accesskey        "e">
+<!ENTITY inNewTab.label               "en ny fane">
+<!ENTITY inNewTab.accesskey           "f">
+
+<!ENTITY warnCloseMultipleTabs.label  "Advar ved lukking av flere faner">
+<!ENTITY warnCloseMultipleTabs.accesskey  "A">
+
+<!ENTITY warnOpenManyTabs.label       "Advar når åpning av mange faner samtidig kan gjøre &brandShortName; treg">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
+
+<!ENTITY showTabBar.label             "Alltid vis fanelinjen">
+<!ENTITY showTabBar.accesskey         "v">
+
+<!ENTITY switchToNewTabs.label        "Når jeg åpner en lenke i en ny fane, bytt til fanen med en gang">
+<!ENTITY switchToNewTabs.accesskey    "N">

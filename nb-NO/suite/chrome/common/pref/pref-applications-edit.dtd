@@ -1,0 +1,24 @@
+
+<!ENTITY  editType.label                        "Endre type">
+<!ENTITY  newType.label                         "Ny type">
+<!ENTITY  extension.label                       "Filtype:">
+<!ENTITY  extension.accesskey                   "F">
+<!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
+<!ENTITY  mimetype.label                        "MIME-type:">
+<!ENTITY  mimetype.accesskey                    "M">
+<!ENTITY  description.label                     "Beskrivelse:">
+<!ENTITY  description.accesskey                 "b">
+
+<!ENTITY  handling.label                        "Når en fil av denne typen oppdages">
+<!ENTITY  useDefault.label                      "Åpne med forvalgt program">
+<!ENTITY  useDefault.accesskey                  "Å">
+<!ENTITY  saveToDisk.label                      "Lagre til disk">
+<!ENTITY  saveToDisk.accesskey                  "L">
+<!ENTITY  application.label                     "Åpne med:">
+<!ENTITY  application.accesskey                 "m">
+
+<!ENTITY  browse.label                          "Velg ...">
+<!ENTITY  browse.accesskey                      "V">
+
+<!ENTITY  askBeforeOpen.label                   "Alltid spør før åpning av denne filtypen">
+<!ENTITY  askBeforeOpen.accesskey               "r">

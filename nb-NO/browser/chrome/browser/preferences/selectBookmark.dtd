@@ -1,0 +1,5 @@
+<!ENTITY selectBookmark.title
+  "Sett startside">
+<!ENTITY selectBookmark.label
+  "Velg et bokmerke du vil ha som startsiden din. Dersom du velger en mappe vil bokmerkene i den mappen åpnes i faner.">
+
