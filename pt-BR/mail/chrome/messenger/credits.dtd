@@ -1,0 +1,30 @@
+<!ENTITY credit.title     "Créditos do &brandFullName;">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.leads     "Engineering Leads">
+<!ENTITY credit.core      "Core Development Posse">
+<!ENTITY credit.gecko     "Gecko Layout Engine">
+<!ENTITY credit.thanks    "Agradecimentos especiais">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Versão brasileira</h3><ul><li>http://br.mozdev.org</li></ul>">
+
+<!ENTITY credit.visuals     "Visual Design Coordinator">
+<!ENTITY credit.theme       "Design do tema">
+<!ENTITY credit.brand       "Identidade da marca">
+<!ENTITY credit.web         "Web Design">
+<!ENTITY credit.update      "Mozilla Update">
+<!ENTITY credit.qalead      "Quality Assurance Lead">
+<!ENTITY credit.qa          "Qualidade assegurada">
+<!ENTITY credit.build       "Build e release">
+<!ENTITY credit.infra       "Suporte de infra-estrutura">
+<!ENTITY credit.support     "Recursos para suporte">
+<!ENTITY credit.manage      "Gerenciamento do projeto">
+<!ENTITY credit.marketleads "Marketing Leads">
+<!ENTITY credit.market      "Marketing">
+<!ENTITY credit.creators    "Created By">
+<!ENTITY credit.memory      "In memoriam">
+<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

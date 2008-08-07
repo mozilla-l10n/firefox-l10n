@@ -1,0 +1,42 @@
+<!ENTITY  warnAddonInstall.label        "Alertar se sites tentarem instalar complementos">
+<!ENTITY  warnAddonInstall.accesskey    "A">
+
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+<!ENTITY  tellMaybeAttackSite.label     "Alertar se o site visitado for um possível foco de ataques">
+<!ENTITY  tellMaybeAttackSite.accesskey "r">
+
+<!ENTITY  tellMaybeForgery.label     "Alertar se o site visitado for uma possível fraude">
+<!ENTITY  tellMaybeForgery.accesskey "t">
+
+<!ENTITY  addonExceptions.label         "Exceções…">
+<!ENTITY  addonExceptions.accesskey     "E">
+
+
+<!ENTITY  passwords.label               "Senhas">
+
+<!ENTITY  rememberPasswords.label       "Memorizar senhas de sites">
+<!ENTITY  rememberPasswords.accesskey   "M">
+<!ENTITY  passwordExceptions.label      "Exceções…">
+<!ENTITY  passwordExceptions.accesskey  "x">
+
+<!ENTITY  useMasterPassword.label        "Usar uma senha mestra">
+<!ENTITY  useMasterPassword.accesskey    "s">
+<!ENTITY  changeMasterPassword.label     "Modificar senha mestra…">
+<!ENTITY  changeMasterPassword.accesskey "o">
+
+<!ENTITY  savedPasswords.label            "Senhas memorizadas…">
+<!ENTITY  savedPasswords.accesskey        "n">
+
+
+<!ENTITY  warnings.label                "Alertas">
+
+<!ENTITY  chooseWarnings.label          "Selecione que notificações deseja ver enquanto navega.">
+
+<!ENTITY  warningSettings.label         "Configurar…">
+<!ENTITY  warningSettings.accesskey     "C">

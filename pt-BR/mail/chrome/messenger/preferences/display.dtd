@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "Formatação">
+<!ENTITY itemTags.label                   "Marcadores">
+<!ENTITY itemFonts.label                  "Fontes">
+
+<!ENTITY textBegin.label                  "Quoted plain text appearance">
+<!ENTITY style.label                      "Estilo:">
+<!ENTITY style.accesskey                  "E">
+<!ENTITY regularStyle.label               "Regular">
+<!ENTITY bold.label                       "Negrito">
+<!ENTITY italic.label                     "Itálico">
+<!ENTITY boldItalic.label                 "Negrito itálico">
+<!ENTITY size.label                       "Tam.:">
+<!ENTITY size.accesskey                   "T">
+<!ENTITY regularSize.label                "Regular">
+<!ENTITY bigger.label                     "Maior">
+<!ENTITY smaller.label                    "Menor">
+<!ENTITY color.label                      "Cor:">
+<!ENTITY color.accesskey                  "C">
+<!ENTITY displayWidth.label               "Mensagens sem formatação">
+<!ENTITY plainText.label                  "Usar esta fonte:">
+<!ENTITY displayText.label                "Ao exibir texto citado:">
+<!ENTITY viewingPlainText.label            "Ao exibir mensagens:">
+<!ENTITY fixedWidth.label                 "Monoespaçada">
+<!ENTITY fixedWidth.accesskey             "o">
+<!ENTITY variableWidth.label              "Proporcional">
+<!ENTITY variableWidth.accesskey          "P">
+<!ENTITY readingMessagesHeader.label      "Para mensagens recebidas">
+<!ENTITY colors.label                     "Cores">
+<!ENTITY overrideColors.label             "Ao exibir mensagens, usar estas cores:">
+<!ENTITY textColor.label                  "Texto:">
+<!ENTITY textColor.accesskey              "x">
+<!ENTITY backgroundColor.label            "Plano de fundo:">
+<!ENTITY backgroundColor.accesskey        "n">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Representar smileys como imagens">
+<!ENTITY convertEmoticons.accesskey    "R">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label    "Os marcadores podem ser usados para organizar suas mensagens.">
+<!ENTITY addTagButton.label       "Novo…">
+<!ENTITY addTagButton.accesskey   "N">
+<!ENTITY editTagButton.label      "Editar">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label    "Excluir">
+<!ENTITY removeTagButton.accesskey "x">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label  "Configure as fontes e codificações usadas pelo &brandShortName;.">
+<!ENTITY fontsAndEncodingsCaption.label      "Fontes e codificações">
+<!ENTITY fontOptions.accesskey   "f">
+<!ENTITY fontOptions.label       "Fontes…">

@@ -1,0 +1,147 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&OK
+OK=OK
+CANCEL=Cancelar
+CANCEL_=&Cancelar
+NEXT_=&Avançar >
+BACK_=< &Voltar
+IGNORE_=&Ignorar
+PROXY_MESSAGE=Para configurar um servidor proxy para este download, clique no botão Conexões…
+PROXY_BUTTON=&Conexões…
+PROXYSETTINGS=Configurações de proxy:
+PROXYSETTINGS_=Configurações de pro&xy
+SERVER=Servidor:
+PORT=Porta:
+USERID=Usuário:
+PASSWORD=Senha:
+SELECTDIRECTORY=Selecione uma pasta
+DIRECTORIES_=&Pastas:
+DRIVES_=Dri&ves:
+STATUS=Restante:
+FILE=Arquivo:
+URL=URL:
+TO=Para pasta:
+ACCEPT_=&Aceitar
+DECLINE_=&Recusar
+PROGRAMFOLDER_=&Pasta do programa:
+EXISTINGFOLDERS_=Pastas e&xistentes:
+SETUPMESSAGE=A instalação terminou de copiar os arquivos para o seu computador. Antes de você iniciar o uso do $ProductNameInternal$, você deverá reiniciar o Windows ou o seu computador. Selecione uma das opções a seguir e clique em OK para concluir a instalação.
+RESTART=Reiniciar
+YESRESTART=Sim, eu quero reiniciar meu computador agora
+NORESTART=Não, eu vou reiniciar meu computador depois
+ADDITIONALCOMPONENTS_=Componentes &adicionais:
+DESCRIPTION=Descrição
+TOTALDOWNLOADSIZE=Tamanho total do download:
+SPACEAVAILABLE=Espaço disponível:
+COMPONENTS_=C&omponentes:
+BROWSEINFO=Escolha a pasta onde o $ProductName$ será instalado:
+DESTINATIONDIRECTORY=Pasta de instalação
+BROWSE_=&Procurar…
+DOWNLOADSIZE=Tamanho do download: %uKB
+CURRENTSETTINGS=Configurações atuais:
+INSTALLFOLDER=…nesta pasta:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s e:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Instalar
+DELETE_=E&xcluir
+CONTINUE_=&Continuar
+SKIP_=&Pular
+README=&Leia-me
+PAUSE_=&Pausa
+RESUME_=&Continuar
+CHECKED=Marcado
+UNCHECKED=Desmarcado
+
+EXTRACTING=Extraindo…
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Não foi possível criar o diálogo %s.
+ERROR_FAILED=Falha em %s.
+ERROR_FILE_NOT_FOUND=Arquivo não encontrado: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=Falha em GetSystemDirectory()
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =Falha em GetWindowsDirectory()
+DLGQUITTITLE=Sair da instalação
+DLGQUITMSG=A instalação do $ProductName$ não foi concluída. Se sair agora, o $ProductName$ não será instalado. Tem certeza que deseja cancelar a instalação?
+DLG_REBOOT_TITLE=Reiniciando o Windows
+ERROR_GETPROCADDRESS=Falha %s em GetProcAddress().
+ERROR_WRITEPRIVATEPROFILESTRING=Falha WritePrivateProfileString() para o arquivo %s
+MSG_RETRIEVE_CONFIGINI=Por favor, aguarde enquanto a instalação recebe o script de instalação da web…
+ERROR_CREATE_TEMP_DIR=A instalação não pode criar a pasta TEMP: %s
+DLGBROWSETITLE=Selecione uma pasta
+ERROR_DETERMINING_DISK_SPACE=Não foi possível determinar o espaço em disco disponível para: %s
+DLG_DISK_SPACE_CHECK_TITLE=Verificando o espaço em disco
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=A instalação detectou espaço em disco insuficiente para continuar em %s para o caminho: %sNecessário: %sDisponível: %sClique em Repetir se mais espaço em disco tornou-se disponível ou clique em Cancelar para interromper a instalação.
+DLG_DISK_SPACE_CHECK_MSG=A instalação detectou espaço em disco insuficiente para continuar em %s para o caminho: %sNecessário: %sDisponível: %sClique em OK para voltar e selecionar lugar.
+ERROR_CREATE_DIRECTORY=Não foi possível criar a pasta: %sCertifique-se de que você possui permissão para criá-la.
+ERROR_MESSAGE_TITLE=Erro na instalação do $ProductNameInternal$
+STR_FILE_NUMBER=Contador de arquivo:
+STR_FILENAME=Nome do arquivo:
+MSG_SMARTUPDATE_START=Preparando a instalação. Por favor, aguarde…
+MSG_CONFIGURING=Configurando o %s. Por favor, aguarde…
+ERROR_XPI_INSTALL=Erro encontrado durante a instalação
+ERROR_SETUP_REQUIREMENT=O $ProductName$ requer Windows 95 ou superior. A instalação será encerrada.
+DLG_EXTRACTING_TITLE=$ProductName$ - andamento da instalação
+STR_PROCESSINGFILE=Preparando o arquivo: %s
+STR_INSTALLING=Instalando: %s
+STR_COPYINGFILE=Copiando arquivo: %s
+MB_WARNING_STR=Atenção
+MB_MESSAGE_STR=Aviso
+MB_ATTENTION_STR=Atenção
+MSG_CREATE_DIRECTORY=A pasta não existe:%s Gostaria de criá-la?
+STR_CREATE_DIRECTORY=Criar pasta?
+ERROR_PROGRAM_FOLDER_NAME=O nome fornecido para a pasta do programa é inválido.
+CB_DEFAULT=Padrão
+ERROR_DESTINATION_PATH=O caminho fornecido não é válido.
+STR_SETUP_TYPE=Tipo de instalação:
+STR_SELECTED_COMPONENTS=Componentes selecionados:
+STR_DESTINATION_DIRECTORY=Pasta destino:
+STR_PROGRAM_FOLDER=Pasta do programa:
+STR_DELETING_DESTINATION_DIR=Excluindo a pasta destino para possibilitar a atualização. Por favor, aguarde…
+STR_SETUP=Instalação
+STR_DOWNLOAD_SITE=Site para download:
+STR_SAVE_INSTALLER_FILES=Salvar os arquivos recebidos e a instalação do programa em:
+MSG_INIT_SETUP=Iniciando a instalação. Por favor, aguarde…
+STR_MESSAGEBOX_TITLE=Instalação do %s
+ERROR_GETVERSION=Falha em GetVersionEx()!
+DLG_USAGE_TITLE=Uso
+
+STATUS_EXTRACTING=Extraindo %s
+STATUS_LAUNCHING_SETUP=Iniciando a instalação…
+ERROR_FILE_WRITE=Não foi possível escrever o arquivo %s
+TITLE=Instalação
+ERROR_OUT_OF_MEMORY=Falta de memória!
+
+ERROR_DLL_LOAD=Não foi possível carregar %s
+ERROR_STRING_LOAD=Não foi possível carregar a string de recurso ID %d
+ERROR_STRING_NULL=Ponteiro nulo encontrado.
+ERROR_GLOBALALLOC=Erro de alocação de memória.
+MSG_FORCE_QUIT_PROCESS=A instalação detectou que  %s (%s) ainda está em execução.  Clique em OK para fechar %s e continuar com a instalação. Ou então use o Gerenciador de Tarefas do Windows para fechar o %s, e clique em OK para prosseguir com instalação.
+MSG_FORCE_QUIT_PROCESS_FAILED=A instalação foi encerrada. Não foi possível prosseguir porque %s (%s) ainda está em execução. Tente fechar o %s usando o Gerenciador de Tarefas do Windows e execute a instalação de novo.
+ERROR_PATH_WITHIN_WINDIR=O $ProductName$ não pode ser instalado em uma pasta dentro da pasta do Windows. Por favor, escolha uma pasta diferente.
+

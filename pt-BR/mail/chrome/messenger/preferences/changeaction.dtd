@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "Propriedades da ação">
+<!ENTITY  window.width                         "36em">
+
+<!ENTITY  whenDownloading.label               "Ao receber este tipo de arquivo:">
+
+<!ENTITY  openDefault.label                   "Abrir com o programa padrão:">
+<!ENTITY  openDefault.accesskey               "A">
+<!ENTITY  openApplication.label               "Abrir com o programa:">
+<!ENTITY  openApplication.accesskey           "b">
+<!ENTITY  changeApp.label                     "Procurar…">
+<!ENTITY  changeApp.accesskey                 "P">
+<!ENTITY  saveToDisk.label                    "Salvar no meu computador">
+<!ENTITY  saveToDisk.accesskey                "S">
+<!ENTITY  saveToDefaultFolder.label           "in the default download folder">
+<!ENTITY  saveToDefaultFolder.accesskey       "d">
+<!ENTITY  saveToThisFolder.label              "in this folder:">
+<!ENTITY  saveToThisFolder.accesskey          "h">
+<!ENTITY  chooseFolder.label                  "Procurar...">
+<!ENTITY  chooseFolder.accesskey              "P">
+<!ENTITY  saveToAskMe.label                   "perguntar onde salvar o arquivo">
+<!ENTITY  saveToAskMe.accesskey               "e">
+<!ENTITY  usePlugin.label                     "Usar este plugin:">
+<!ENTITY  usePlugin.accesskey                 "U">

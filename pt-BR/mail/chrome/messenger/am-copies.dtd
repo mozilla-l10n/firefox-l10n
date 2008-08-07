@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Cópias e pastas">
+<!ENTITY sendingPrefix.label "Ao enviar mensagens, automaticamente: ">
+<!ENTITY fccMailFolder.label "Guardar uma cópia em:">
+<!ENTITY fccMailFolder.accesskey "G">
+<!ENTITY fccReplyFollowsParent.label "Guardar respostas na mesma pasta da mensagem que foi respondida">
+<!ENTITY fccReplyFollowsParent.accesskey "G">
+<!ENTITY chooseFolderButton.label "Selecionar pasta...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Cco para estes endereços:">
+<!ENTITY bccAddress.accesskey "C">
+<!ENTITY specialFolderTitle.label "Pastas especiais">
+<!ENTITY draftMailFolder.label "Salvar rascunhos em:">
+<!ENTITY templateMailFolder.label "Salvar modelos em:">
+<!ENTITY saveMessageDlg.label "Notificar ao salvar mensagens">
+<!ENTITY saveMessageDlg.accesskey "N">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Pasta &quot;Enviados&quot; da conta:">
+<!ENTITY sentFolderOn.accesskey "E">
+<!ENTITY sentInOtherFolder.label "Outra pasta:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Pasta &quot;Rascunhos&quot; da conta:">
+<!ENTITY draftsFolderOn.accesskey "R">
+<!ENTITY draftInOtherFolder.label "Outra pasta:">
+<!ENTITY draftInOtherFolder.accesskey "u">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Pasta &quot;Modelos&quot; da conta:">
+<!ENTITY templatesFolderOn.accesskey "M">
+<!ENTITY templateInOtherFolder.label "Outra pasta:">
+<!ENTITY templateInOtherFolder.accesskey "t">
+<!ENTITY specialFoldersTitle.label "Salvar mensagens">
+<!ENTITY keepDrafts.label "Salvar rascunhos em:">
+<!ENTITY keepTempltes.label "Salvar modelos em:">

@@ -1,0 +1,28 @@
+<!ENTITY  pref.editing.title        "New Page Settings">
+
+<!ENTITY  authorName.label          "Author:">
+<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  pageColorHeader           "Default Page Appearance">
+
+<!ENTITY defaultColorsRadio.label   "Não definir as cores da página (usa as cores padrão do internauta)">
+<!ENTITY defaultColors.accesskey    "d">
+<!ENTITY customColorsRadio.label    "Usar cores personalizadas:">
+<!ENTITY customColors.accesskey     "c">
+
+<!ENTITY normalText.label           "Texto - normal">
+<!ENTITY normalText.accesskey       "T">
+<!ENTITY linkText.label             "Link - normal">
+<!ENTITY linkText.accesskey         "L">
+<!ENTITY activeLinkText.label       "Link - ativo">
+<!ENTITY activeLinkText.accesskey   "a">
+<!ENTITY visitedLinkText.label      "Link - visitado">
+<!ENTITY visitedLinkText.accesskey  "v">
+<!ENTITY background.label           "Plano de fundo:">
+<!ENTITY background.accesskey       "P">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "Imagem do plano de fundo:">
+<!ENTITY backgroundImage.accesskey  "I">
+<!ENTITY chooseFile.label           "Selecionar arquivo…">
+<!ENTITY chooseFile.accesskey       "S">
+

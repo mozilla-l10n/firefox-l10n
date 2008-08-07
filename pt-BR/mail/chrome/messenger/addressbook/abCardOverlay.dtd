@@ -1,0 +1,148 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY Contact.tab                     "Geral">
+<!ENTITY Contact.accesskey               "G">
+<!ENTITY Name.box                        "Nome">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
+
+<!ENTITY NameField1.label               "Primeiro:">
+<!ENTITY NameField1.accesskey           "i">
+<!ENTITY NameField2.label               "Último:">
+<!ENTITY NameField2.accesskey           "t">
+<!ENTITY PhoneticField1.label           "Fonético:">
+<!ENTITY PhoneticField2.label           "Fonético:">
+<!ENTITY DisplayName.label              "Apresentar como:">
+<!ENTITY DisplayName.accesskey          "m">
+<!ENTITY NickName.label                 "Apelido:">
+<!ENTITY NickName.accesskey             "A">
+
+<!ENTITY Internet.box                   "Internet">
+<!ENTITY PrimaryEmail.label             "Email:">
+<!ENTITY PrimaryEmail.accesskey         "e">
+<!ENTITY SecondEmail.label              "Email alternativo:">
+<!ENTITY SecondEmail.accesskey          "v">
+<!ENTITY PreferMailFormat.label         "Prefere receber como:">
+<!ENTITY PreferMailFormat.accesskey     "b">
+<!ENTITY PlainText.label                "Texto sem formatação">
+<!ENTITY HTML.label                     "Texto formatado (HTML)">
+<!ENTITY Unknown.label                  "Sem preferência">
+<!ENTITY ScreenName.label               "Nome de tela:">
+<!ENTITY ScreenName.accesskey           "t">
+
+<!ENTITY allowRemoteContent.label       "Permitir imagens externas em mensagens com formatação HTML">
+<!ENTITY allowRemoteContent.accesskey   "H">
+
+<!ENTITY Phones.box                     "Telefones">
+<!ENTITY WorkPhone.label                "Comercial:">
+<!ENTITY WorkPhone.accesskey            "o">
+<!ENTITY HomePhone.label                "Residencial:">
+<!ENTITY HomePhone.accesskey            "R">
+<!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.accesskey          "p">
+<!ENTITY CellularNumber.label           "Celular:">
+<!ENTITY CellularNumber.accesskey       "l">
+
+<!ENTITY Address.tab                    "Endereço">
+<!ENTITY Address.accesskey              "E">
+<!ENTITY Home.box                       "Residencial">
+<!ENTITY HomeAddress.label              "Endereço:">
+<!ENTITY HomeAddress.accesskey          "E">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Cidade:">
+<!ENTITY HomeCity.accesskey             "C">
+<!ENTITY HomeState.label                "Estado:">
+<!ENTITY HomeState.accesskey            "E">
+<!ENTITY HomeZipCode.label              "CEP:">
+<!ENTITY HomeZipCode.accesskey          "C">
+<!ENTITY HomeCountry.label              "País:">
+<!ENTITY HomeCountry.accesskey          "P">
+<!ENTITY HomeWebPage.label              "Endereço na web:">
+<!ENTITY HomeWebPage.accesskey          "E">
+<!ENTITY Work.box                       "Comercial">
+<!ENTITY JobTitle.label                 "Cargo:">
+<!ENTITY JobTitle.accesskey             "C">
+<!ENTITY Department.label               "Setor:">
+<!ENTITY Department.accesskey           "S">
+<!ENTITY Company.label                  "Empresa:">
+<!ENTITY Company.accesskey              "E">
+<!ENTITY WorkAddress.label              "Endereço:">
+<!ENTITY WorkAddress.accesskey          "E">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Cidade:">
+<!ENTITY WorkCity.accesskey             "C">
+<!ENTITY WorkState.label                "Estado:">
+<!ENTITY WorkState.accesskey            "E">
+<!ENTITY WorkZipCode.label              "CEP:">
+<!ENTITY WorkZipCode.accesskey          "C">
+<!ENTITY WorkCountry.label              "País:">
+<!ENTITY WorkCountry.accesskey          "P">
+<!ENTITY WorkWebPage.label              "Endereço na web:">
+<!ENTITY WorkWebPage.accesskey          "E">
+
+<!ENTITY Other.tab                      "Outros">
+<!ENTITY Other.accesskey                "O">
+<!ENTITY Custom1.label                  "Personalizado 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Personalizado 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Personalizado 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Personalizado 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.box                      "Observações">
+<!ENTITY Notes.accesskey                "O">

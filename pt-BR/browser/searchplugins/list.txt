@@ -1,0 +1,5 @@
+google
+yahoo-br
+wikipedia-br
+mercadolivre
+buscape

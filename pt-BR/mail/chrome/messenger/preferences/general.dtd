@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label              "Padrões do sistema">
+<!ENTITY alwaysCheckDefault.label          "Ao iniciar, verificar se o &brandShortName; é o programa de email padrão">
+<!ENTITY alwaysCheckDefault.accesskey      "o">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Verificar agora">
+<!ENTITY checkNow.accesskey         "V">
+
+<!ENTITY messengerStartPage.label         "Página inicial do &brandShortName;">
+<!ENTITY enableStartPage.label            "Ao iniciar o &brandShortName;, abrir esta página no painel de mensagens:">
+<!ENTITY enableStartPage.accesskey        "A">
+<!ENTITY location.label                   "Endereço:">
+<!ENTITY location1.accesskey               "E">
+<!ENTITY useDefault.label                 "Restaurar o padrão">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "Animar ícone do dock">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "Ao chegarem novas mensagens">
+<!ENTITY playSound.label                  "Tocar um som">
+<!ENTITY playSound1.accesskey              "c">
+<!ENTITY showAnimatedAlert.label          "Mostrar um alerta">
+<!ENTITY showAnimatedAlert.accesskey      "M">
+<!ENTITY customizeMailAlert.label         "Personalizar...">
+<!ENTITY customizeMailAlert.accesskey     "z">
+
+<!ENTITY soundNotification1.caption       "Som">
+<!ENTITY play.label                       "Testar">
+<!ENTITY play.accesskey                   "T">
+<!ENTITY systemsound.label                "Som padrão do sistema para novas mensagens">
+<!ENTITY systemsoundMac.label             "Som de alerta do sistema">
+<!ENTITY systemsoundMac.accesskey         "S">
+<!ENTITY systemsound.accesskey            "S">
+<!ENTITY customsound.label                "Usar este arquivo de som:">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Procurar…">
+<!ENTITY browse.accesskey                 "P">

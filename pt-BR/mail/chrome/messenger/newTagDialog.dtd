@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Criar novo marcador">
+<!ENTITY name.label              "Nome do marcador:">
+<!ENTITY name.accesskey          "N">

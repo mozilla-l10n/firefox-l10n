@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "Nenhuma propriedade definida.">
+
+<!ENTITY caption.label         "Propriedades do elemento">
+<!ENTITY image-sec.label       "Imagem">
+<!ENTITY image-url.label       "Endereço:">
+<!ENTITY image-type.label      "Tipo:">
+<!ENTITY image-desc.label      "Descrição longa em:">
+<!ENTITY image-alt.label       "Texto substituto:">
+<!ENTITY image-size.label      "Dimensões da imagem:">
+<!ENTITY image-filesize.label  "Tam. do arquivo:">
+<!ENTITY insdel-sec.label      "Insert/Delete">
+<!ENTITY insdel-cite.label     "Info:">
+<!ENTITY insdel-date.label     "Data:">
+<!ENTITY link-sec.label        "Link">
+<!ENTITY link-url.label        "Endereço:">
+<!ENTITY link-target.label     "Abre em:">
+<!ENTITY link-type.label       "Tipo do destino:">
+<!ENTITY link-lang.label       "Idioma do destino:">
+<!ENTITY link-rel.label        "Relação:">
+<!ENTITY link-rev.label        "Relação reversa:">
+<!ENTITY link-ping.label       "Notificará:">
+<!ENTITY misc-sec.label        "Diversos">
+<!ENTITY misc-lang.label       "Idioma:">
+<!ENTITY misc-title.label      "Descrição:">
+<!ENTITY misc-tblsummary.label "Descrição da tabela:">
+<!ENTITY quote-sec.label       "Quote">
+<!ENTITY quote-cite.label      "Info:">

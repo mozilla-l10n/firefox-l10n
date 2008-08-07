@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title         "Ações para anexos">
+<!ENTITY  window.width                         "466">
+<!ENTITY  window.height                        "288">
+
+<!ENTITY  fileTypesDescription.label          "Executar automaticamente a ação associada a cada um destes tipos de arquivo:">
+
+<!ENTITY  fileHandlerColumn.label             "Ação">
+<!ENTITY  fileHandlerColumn.accesskey         "a">
+<!ENTITY  fileTypeColumn.label                "Tipo de arquivo">
+<!ENTITY  fileTypeColumn.accesskey            "t">
+<!ENTITY  fileMIMETypeColumn.label            "Tipo MIME">
+<!ENTITY  fileMIMETypeColumn.accesskey        "m">
+<!ENTITY  fileExtensionColumn.label           "Extensão">
+<!ENTITY  fileExtensionColumn.accesskey       "t">
+
+<!ENTITY  remove.label                        "Excluir ação">
+<!ENTITY  remove.accesskey                    "x">
+<!ENTITY  edit.label                          "Propriedades da ação...">
+<!ENTITY  edit.accesskey                      "P">
+
+<!ENTITY  windowClose.key                     "W">
+<!ENTITY  focusSearch1.key                    "F">
+<!ENTITY  focusSearch2.key                    "K">
+
+<!ENTITY  filter.label                        "Localizar:">
+<!ENTITY  filter.accesskey                    "z">
+<!ENTITY  clear.label                         "Limpar">
+<!ENTITY  clear.accesskey                     "L">
+
+<!ENTITY  button.close.label                  "Fechar">
+<!ENTITY  button.close.accesskey              "F">
+

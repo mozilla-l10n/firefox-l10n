@@ -1,0 +1,15 @@
+<!ENTITY brandMotto       "Redescubra a web">
+<!ENTITY credit.thanks    "Agradecimentos especiais">
+
+<!ENTITY credit.thanks2       "Muito obrigado aos nossos">
+<!ENTITY credit.contributors2 "colaboradores">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Versão brasileira</h3><ul><li>http://br.mozdev.org</li></ul>">
+
+<!ENTITY credit.memory      "In memoriam">
+<!ENTITY credit.poweredByGeckoReg "Powered by Gecko&reg;">

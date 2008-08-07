@@ -1,0 +1,9 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title            "Instalação de programas">
+<!ENTITY dialog.style            "width: 45em">
+<!ENTITY warningMain.label       "Somente instale complementos de autores que você confia.">
+<!ENTITY warningSecondary.label  "Programas mal-intencionados podem danificar o seu computador ou comprometer a sua privacidade.">
+
+<!ENTITY from.label "Endereço:">
+

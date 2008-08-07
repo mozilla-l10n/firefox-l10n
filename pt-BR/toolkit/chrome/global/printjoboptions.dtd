@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Propriedades da impressora">
+
+<!ENTITY paperInput.label "Tamanho do papel:">
+
+<!ENTITY plexInput.label "Modo plex:">
+
+<!ENTITY resolutionInput.label "Resolução/Qualidade:">
+
+<!ENTITY cmdInput.label "Comando de impressão:">
+
+<!ENTITY jobTitleInput.label "Título do job:">
+
+<!ENTITY colorGroup.label "Cor:">
+<!ENTITY grayRadio.label "Escala de cinza">
+<!ENTITY colorRadio.label "Cor">
+
+<!ENTITY colorspaceInput.label "Colorspace:">
+
+<!ENTITY fontsGroup.label "Fontes:">
+<!ENTITY downloadFonts.label "Enviar fontes para a impressora?">
+
+<!ENTITY edgeMarginInput.label "Intervalo da borda do papel até a margem">
+<!ENTITY topInput.label "Superior:">
+<!ENTITY bottomInput.label "Inferior:">
+<!ENTITY leftInput.label "Esquerda:">
+<!ENTITY rightInput.label "Direita:">

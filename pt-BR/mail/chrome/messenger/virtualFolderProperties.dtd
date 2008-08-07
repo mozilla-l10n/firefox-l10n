@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "Nova pasta de pesquisa">
+<!ENTITY name.label                 "Nome:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Criar na pasta:">
+<!ENTITY description.accesskey      "c">
+
+<!ENTITY searchTermCaption.label "Usar estes critérios de pesquisa:">
+
+<!ENTITY folderSelectionCaption.label "Pesquisar em:">
+<!ENTITY chooseFoldersButton.label "Selecionar...">
+<!ENTITY chooseFoldersButton.accesskey "S">
+
+<!ENTITY searchOnline.label "Pesquisa online (resultados atualizados em pastas IMAP e news - demora mais para abrir a pasta)">
+<!ENTITY searchOnline.accesskey "P">

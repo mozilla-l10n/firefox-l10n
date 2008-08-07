@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "Nomes de usuário e senhas">
+<!ENTITY      windowalttitle.label            "Gerenciador de formulários - sites">
+<!ENTITY      tab.signonsstored.label         "Senhas armazenadas">
+<!ENTITY      tab.signonsnotstored.label      "Permissões">
+<!ENTITY      tab.nopreview.label             "Pré-selecionar campos">
+<!ENTITY      tab.nocapture.label             "Permissões">
+
+<!ENTITY      spiel.signonsstored.label       "Estão salvos nomes de usuário e senhas destes servidores:">
+<!ENTITY      spiel.signonsnotstored.label    "NÃO serão salvos nomes de usuário e senhas destes servidores:">
+<!ENTITY      spiel.nopreview.label           "Os formulários dos sites abaixo serão preenchidos sem que você precise pré-selecionar os campos:">
+<!ENTITY      spiel.nocapture.label           "Estes sites nunca terão formulários salvos:">
+
+<!ENTITY      treehead.site.label             "Site">
+<!ENTITY      treehead.username.label         "Nome de usuário">
+<!ENTITY      treehead.password.label         "Senha">
+<!ENTITY      remove.label                    "Excluir">
+<!ENTITY      removeall.label                 "Excluir todos">

@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Imprimir">
+
+<!ENTITY printDialog.title "Imprimir">
+
+<!ENTITY fpDialog.title "Salvar arquivo">
+
+<!ENTITY fileCheck.label "Imprimir para arquivo">
+<!ENTITY propertiesButton.label "Propriedades…">
+<!ENTITY descText.label "Descrição da impressora:">
+<!ENTITY printer.label "Impressora">
+<!ENTITY printerInput.label "Nome da impressora:">
+
+<!ENTITY printrangeGroup.label "Intervalo de páginas">
+<!ENTITY allpagesRadio.label "Todas as páginas">
+<!ENTITY rangeRadio.label  "Páginas">
+<!ENTITY frompageInput.label  "de">
+<!ENTITY topageInput.label  "até">
+<!ENTITY selectionRadio.label "Seleção">
+
+<!ENTITY copies.label "Cópias">
+<!ENTITY numCopies.label "Número de cópias:">
+
+<!ENTITY printframeGroup.label "Imprimir frames">
+<!ENTITY aslaidoutRadio.label "Como apresentados na tela">
+<!ENTITY selectedframeRadio.label  "Somente o frame selecionado">
+<!ENTITY eachframesepRadio.label  "Cada frame separadamente">

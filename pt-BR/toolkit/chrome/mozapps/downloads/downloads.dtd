@@ -1,0 +1,47 @@
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more downloads in the list -->
+<!ENTITY window.width2                    "485">
+<!ENTITY window.height                    "371"> 
+
+<!ENTITY starting.label                   "Iniciando…">
+<!ENTITY scanning.label                   "Rastreando vírus…">
+
+<!ENTITY downloads.title                  "Downloads">
+
+<!ENTITY cmd.pause.label                  "Pausa">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Continuar">
+<!ENTITY cmd.resume.accesskey             "o">
+<!ENTITY cmd.cancel.label                 "Cancelar">
+<!ENTITY cmd.cancel.accesskey             "n">
+<!ENTITY cmd.show.label                   "Abrir pasta">
+<!ENTITY cmd.show.accesskey               "b">
+<!ENTITY cmd.showMac.label                "Abrir no Finder">
+<!ENTITY cmd.showMac.accesskey            "b">
+<!ENTITY cmd.open.label                   "Abrir">
+<!ENTITY cmd.open.accesskey               "r">
+<!ENTITY cmd.openWith.label               "Abrir com…">
+<!ENTITY cmd.openWith.accesskey           "A">
+<!ENTITY cmd.retry.label                  "Reiniciar">
+<!ENTITY cmd.retry.accesskey              "R">
+<!ENTITY cmd.goToDownloadPage.label       "Abrir página de download">
+<!ENTITY cmd.goToDownloadPage.accesskey   "A">
+<!ENTITY cmd.copyDownloadLink.label       "Copiar link do download">
+<!ENTITY cmd.copyDownloadLink.accesskey   "C">
+<!ENTITY cmd.removeFromList.label         "Excluir da lista">
+<!ENTITY cmd.removeFromList.accesskey     "x">
+
+<!ENTITY cmd.close.commandKey             "W">
+<!ENTITY cmd.close2.commandKey            "J">
+<!ENTITY cmd.close2Unix.commandKey        "Y">
+<!ENTITY cmd.clearList.label              "Limpar lista">
+<!ENTITY cmd.clearList.tooltip            "Retirar da lista os downloads concluídos, cancelados ou interrompidos">
+<!ENTITY cmd.clearList.accesskey          "L">
+<!ENTITY cmd.find.commandKey              "f">
+
+<!ENTITY closeWhenDone.label              "Fechar ao concluir os downloads">
+<!ENTITY closeWhenDone.tooltip            "Fechar a janela Downloads ao terminar todos os downloads">
+
+<!ENTITY showFolder.label                 "Abrir esta pasta">
+<!ENTITY searchBox.label                  "Localizar">

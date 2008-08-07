@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label        "Tipo de conteúdo">
+<!ENTITY  typeColumn.accesskey    "T">
+
+<!ENTITY  actionColumn2.label     "Ação">
+<!ENTITY  actionColumn2.accesskey "A">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "Localizar:">
+<!ENTITY  filter.accesskey        "z">
+
+<!ENTITY  clear.label             "Limpar">
+<!ENTITY  clear.accesskey         "l">

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-BR" lang="pt-BR" dir="ltr">
+<head>
+	<title>Navegação por abas</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Navegação por abas</h1>
+
+<p>A navegação por abas permite que você abra abas, cada uma exibindo uma página, em uma única janela do &brandShortName;. Você pode abrir links em novas abas, e eles serão carregados enquanto você lê a página exibida. Você pode preferir não utilizar a navegação por abas, mas se você a utilizar, perceberá que a navegação por abas é uma forma melhor e mais rápida de navegar pela Web.</p>
+
+<div class="contentsBox">Nesta seção:
+  <ul>
+    <li><a href="#creating_loading_tabs">Abrindo e Carregando abas</a></li>
+    <li><a href="#moving_tabs">Organizando abas</a></li>
+    <li><a href="#closing_tabs">Fechando e Restaurando abas</a></li>
+    <li><a href="#customizing">Personalizando a Navegação por abas</a></li>
+    <li><a href="#tips_tricks">Dicas úteis</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_loading_tabs">Abrindo e Carregando abas</h2>
+
+<p>Para abrir uma nova aba, pressione &accelKey;+<kbd>T</kbd>, clique em <span class="menuPath">Arquivo &gt; Nova aba</span>, ou dê um clique duplo em um espaço vazio na barra de abas.</p>
+
+<p>Para carregar um link em uma aba, você pode fazer o seguinte:</p>
+
+<ul>
+  <li>Clicar com o botão do meio do mouse no link. (Se o seu mouse possui rolagem, clicar na rolagem equivale a um clique com o botão do meio.)</li>
+  <li>Arrastar o link para um espaço vazio na barra de abas. (Se somente uma página estiver aberta, a barra de abas pode estar oculta. Leia o item <a href="#customizing">Personalizando a Navegação por Abas</a> para obter maiores informações sobre como alterar esse comportamento.)</li>
+  <li>Arrastar o link para uma aba aberta para abrir o link nessa aba.</li>
+  <li><span class="noMac">Clicar com o botão direito</span><span class="mac">Pressionar &ctrlKey;, clicar</span> no link e selecionar <span class="menuPath">Abrir em nova aba</span> no menu de contexto.</li>
+</ul>
+
+<p>Para abrir um endereço do campo de endereço em uma nova aba, digite a URL e pressione &altKey;+&enterKey;.</p>
+
+<h2 id="moving_tabs">Organizando abas</h2>
+
+<p>As abas são exibidas na ordem em que você as abre, mas talvez você queira alterar essa ordem. Para mover a aba para outra posição na barra de abas, simplesmente arraste-a utilizando o mouse. Ao arrastar a aba, o &brandShortName; exibirá um pequeno indicador para mostrar para onde a aba será movida. Você também pode utilizar os <a href="shortcuts.xhtml#windows_tabs">atalhos do teclado</a> para organizar as abas de uma janela.</p>
+
+<h2 id="closing_tabs">Fechando e Restaurando abas</h2>
+
+<p>Para fechar a aba exibida, pressione &accelKey;+<kbd>W</kbd>, clique no botão <em>Fechar aba</em>, clique na aba com o botão do meio do mouse ou clique em <span class="menuPath">Arquivo &gt; Fechar aba</span>. Para fechar todas as outras abas, com exceção da aba exibida, <span class="noMac">clique com o botão direito</span><span class="mac">pressione &ctrlKey;, clique</span> na aba e selecione <span class="menuPath">Fechar as outras abas</span> no menu de contexto.</p>
+
+<p>As janelas do &brandShortName; mantêm uma lista das últimas abas que você fechou. Você pode restaurar qualquer aba selecionando-a em <span class="menuPath">Histórico &gt; Reabrir aba</span>. Você pode restaurar todas as abas clicando em <span class="menuPath">Histórico &gt; Reabrir aba &gt; Abrir tudo em abas</span>. Pressione &accelKey;+&shiftKey;+<kbd>T</kbd> para abri-las uma por uma na ordem inversa em que foram fechadas.</p>
+
+<h2 id="customizing">Personalizando a Navegação por abas</h2>
+  <p>Para personalizar a navegação por abas, clique em &pref.menuPath; e abra o painel <a href="prefs.xhtml#tabs_options">Abas</a>.</p>
+
+<h2 id="tips_tricks">Dicas úteis</h2>
+
+<dl>
+
+  <dt id="bookmarking_tabbed_browsing">Favoritos e Navegação por abas</dt>
+  <dd>Para adicionar um grupo de abas aos Favoritos:</dd>
+  <dd>
+    <ol>
+      <li><span class="noUnix">Pressione &accelKey;+&shiftKey;+<kbd>D</kbd> ou clique</span><span class="unix">Clique</span> em <span class="menuPath">Favoritos &gt; Adicionar todas as abas…</span> para salvar as abas da janela selecionada em uma nova pasta de favoritos.</li>
+      <li>Para abrir os favoritos em abas, abra o menu de uma pasta de favoritos e clique em <span class="menuPath">Abrir tudo em abas</span>. Você também pode clicar com o botão do meio do mouse na pasta de favoritos para abrir o seu conteúdo em abas. Os favoritos serão abertos em abas existentes, e não em novas abas.</li>
+    </ol>
+  </dd>
+
+  <dt id="home_page_as_tabs">Página inicial em abas</dt>
+  <dd>Em vez de abrir apenas uma página inicial, você pode configurar o &brandShortName; para abrir um conjunto de abas. Selecione as suas páginas favoritas e abra cada uma delas em abas em uma única janela. Clique em &pref.menuPath; e abra o <a href="prefs.xhtml#general_options">painel <em>Principal</em></a>. No campo <em>Iniciar</em>, pressione o botão <em>Usar as páginas abertas</em>. Agora, quando você pressionar o botão <em>Página inicial</em>, os seus sites favoritos abrirão em um único clique.</dd>
+
+  <dt>Botão <em>Nova aba</em></dt>
+  <dd>Você pode adicionar o botão <em>Nova aba</em> às barras de ferramentas para abrir facilmente novas abas <a href="customization.xhtml#rearranging_toolbar_items">personalizando as barra de ferramentas</a>.</dd>
+
+  <dt id="keyboard_shortcuts">Atalhos do teclado</dt>
+  <dd>O &brandShortName; possui uma grande quantidade de atalhos de teclado referentes à navegação por abas; veja a lista completa em <a href="shortcuts.xhtml#windows_tabs">Atalhos do teclado</a>.</dd>
+
+</dl>
+
+<div class="contentsBox"><em>12 de Setembro de 2006</em></div>
+<p>Copyright &copy; &copyright.years; Colaboradores do Projeto Mozilla Help Viewer.</p>
+
+</body>
+</html>

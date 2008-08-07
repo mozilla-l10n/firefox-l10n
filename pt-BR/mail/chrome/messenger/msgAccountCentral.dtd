@@ -1,0 +1,20 @@
+<!ENTITY emailSectionHdr.label        "Mensagens"> 
+<!ENTITY readMsgsLink.label           "Ler mensagens"> 
+<!ENTITY composeMsgLink.label         "Criar uma nova mensagem"> 
+
+<!ENTITY newsSectionHdr.label         "Newsgroups"> 
+<!ENTITY subscribeNewsLink.label      "Gerenciar inscrições de newsgroups"> 
+
+<!ENTITY accountsSectionHdr.label     "Contas"> 
+<!ENTITY subscribeImapFolders.label   "Gerenciar inscrições de pastas">
+<!ENTITY settingsLink.label           "Configurar esta conta"> 
+<!ENTITY newAcctLink.label            "Criar uma nova conta"> 
+
+<!ENTITY advFeaturesSectionHdr.label  "Recursos avançados"> 
+<!ENTITY searchMsgsLink.label         "Pesquisar"> 
+<!ENTITY filtersLink.label            "Criar filtros para mensagens">
+<!ENTITY junkSettings.label           "Configurações de spam">
+<!ENTITY offlineLink.label            "Configurações offline">
+
+<!ENTITY rssSectionHdr.label          "Novidades RSS"> 
+<!ENTITY subscibeRSS.label            "Configurar inscrições">

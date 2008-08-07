@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Ryan Flint <rflint@dslr.net>
+  Jeff Walden <jwalden+code@mit.edu>
+  Myk Melez <myk@mozilla.org>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-BR" lang="pt-BR" dir="ltr">
+<head>
+  <title>Opções do &brandFullName;</title>
+  <link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&pref.pluralCaps; do &brandFullName;</h1>
+<p>Este documento descreve todas as &pref.plural; disponíveis na janela de &pref.pluralCaps; do &brandFullName;.</p>
+
+<div class="contentsBox">Nesta seção:
+  <ul>
+    <li><a href="#main_options">Principal</a></li>
+    <li><a href="#tabs_options">Abas</a></li>
+    <li><a href="#content_options">Conteúdo</a></li>
+    <li><a href="#applications_options">Programas</a></li>
+    <li><a href="#privacy_options">Privacidade</a></li>
+    <li><a href="#security_options">Segurança</a></li>
+    <li><a href="#advanced_options">Avançado</a></li>
+  </ul>
+</div>
+
+<h2 id="main_options">&pref.pluralCaps; Principais</h2>
+
+  <h3 id="startup">Iniciar</h3>
+  <p>Ao abrir o &brandShortName;, por padrão a sua <a href="glossary.xhtml#home_page">página inicial</a> é exibida. A sua página inicial pode ser um site visitado com frequência, um site de pesquisa ou o seu webmail; o que você preferir. Nesta seção você poderá alterar a sua página inicial ou decidir exibir uma página diferente ou um conjunto de páginas ao iniciar o &brandShortName;.</p>
+
+  <p><em>Ao iniciar o &brandShortName;</em><br/>
+    Por padrão, quando o &brandShortName; é iniciado ele abre a sua página inicial (listada na caixa de texto imediatamente abaixo), que corresponde à opção <em>Abrir página inicial</em>. Você também pode escolher exibir uma página em branco ao iniciar (útil para eliminar o tempo requerido para carregar a página inicial) selecionando a opção <em>Abrir página em branco</em>.</p>
+
+  <p>Além das opções anteriores, você também pode fazer com que o &brandShortName; reabra as janelas e abas que você abriu na última vez em que executou o &brandShortName;, restaurando a sua navegação exatamente onde você estava na última vez que navegou na Internet. Essa é uma maneira bastante fácil de salvar o que você estava fazendo quando fechou o &brandShortName;, para instalar uma atualização do sistema, por exemplo. Você pode escolher essa opção selecionando <em>Abrir janelas e abas da última seção</em>.</p>
+
+  <p><em>Página inicial</em><br/>
+    Se você decidiu exibir a sua página inicial ao abrir o &brandShortName;, você pode especificar a página (ou grupo de abas) que o &brandShortName; abrirá neste campo. Você também pode clicar em qualquer um dos botões abaixo deste campo para escolher uma página inicial especial:</p>
+
+  <ul>
+    <li><em>Usar a página aberta</em> define a página exibida (ou páginas, se várias abas estiverem abertas) como sua página inicial</li>
+    <li><em>Usar favorito</em> define um favorito selecionado por você (ou um conjunto de favoritos, caso você selecione uma pasta) como sua página inicial</li>
+    <li><em>Restaurar o padrão</em> redefine a sua página inicial para a página padrão do &brandShortName;</li>
+  </ul>
+
+  <h3 id="downloads">Downloads</h3>
+  <p>Esta seção contém as &pref.plural; que determinam como o &brandShortName; realiza o download de arquivos.</p>
+
+  <p><em>Abrir a janela Downloads ao receber um arquivo</em><br/>
+    Quando essa &pref.singular; estiver selecionada, o &brandShortName; abrirá a <a href="download_manager.xhtml">janela Downloads</a> quando você iniciar o download de um arquivo.</p>
+
+  <p><em>Fechar ao concluir todos os downloads</em><br/>
+    Selecione essa &pref.singular; para que o &brandShortName; feche a janela Downloads quando todos os downloads em progresso sejam concluídos.</p>
+
+  <p><em id="download_folder">Salvar arquivos em</em><br/>
+    Por padrão, os arquivos baixados são salvos automaticamente na Área de trabalho (Desktop), facilitando a tarefa de definir onde os downloads serão salvos. Você pode selecionar uma pasta diferente clicando no botão <em><span class="noMac">Procurar…</span><span class="mac">Escolher…</span></em>.</p>
+
+  <p><em>Sempre perguntar onde salvar arquivos</em><br/>
+    Com essa &pref.singular; selecionada, o &brandShortName; sempre perguntará onde você deseja salvar cada arquivo baixado (em vez de usar a pasta padrão definida acima).</p>
+
+  <h3 id="system_defaults">Padrões do sistema</h3>
+  <p><em>Ao iniciar, verificar se o &brandShortName; é o navegador padrão</em><br/>
+    Selecione essa &pref.singular; se você quiser que o &brandShortName; verifique se é o navegador padrão ao ser iniciado. Isso assegurará que o &brandShortName; será carregado sempre que algum aplicativo tentar exibir uma página da web. Você também pode clicar no botão <em>Verificar agora</em> para executar a verificação sempre que desejar.</p>
+
+  <h3 id="addons">Complementos</h3>
+  <p><em>Gerenciar complementos</em><br/>
+    Para instalar ou desinstalar, atualizar ou configurar complementos, clique no botão <em>Gerenciar complementos</em> para abrir o Gerenciador de complementos. Ele também pode ser acessado clicando em <span class="menuPath">Ferramentas &gt; Complementos</span>. Uma descrição detalhada dos complementos e do Gerenciador de complementos está disponível <a href= "customization.xhtml#add_ons">aqui</a>.</p>
+
+<h2 id="tabs_options">&pref.pluralCaps; de Abas</h2>
+<p><em>Novas páginas devem ser abertas</em><br/>
+  Essa &pref.singular; controla se links de outras aplicações ou de páginas da web que seriam abertas em uma nova janela sejam abertas <em>Em nova janela</em> ou <em>Em nova aba</em> na última janela selecionada.</p>
+
+<p><strong>Nota:</strong> se você escolher abrir páginas em novas abas, o &brandShortName; ignorará essa &pref.singular; e abrirá uma nova janela caso o autor da página tenha especificado que a nova janela deverá ter um tamanho específico, visto que algumas páginas só serão exibidas corretamente em um tamanho específico.</p>
+
+<p><em>Alertar ao fechar várias abas</em><br/>
+  Ao fechar uma janela com várias abas, o &brandShortName; pedirá uma confirmação a você. Isso evita que você feche acidentalmente uma janela quando você queria fechar apenas uma aba. Desmarque essa &pref.singular; para que o &brandShortName; feche diretamente a janela sem pedir confirmação.</p>
+
+<p><em>Alertar que o carregamento de muitas abas pode tornar o &brandShortName; lento</em><br/>
+  Se você abrir muitas abas ao mesmo tempo, o &brandShortName; pedirá uma confirmação a você. Isso evita que você acidentalmente torne o sistema lento enquanto as páginas estiverem carregando. Desmarque essa &pref.singular; para que desativar esse aviso.</p>
+
+<p><em>Sempre exibir a barra de abas</em><br/>
+  Se você estiver visualizando apenas uma página em uma janela do &brandShortName;, a barra de abas não será exibida. Marque essa &pref.singular; para sempre exibir a barra de abas, mesmo quando a janela do &brandShortName; contiver apenas uma página.</p>
+
+<p><em>Ao abrir um link em nova aba, carregá-lo em primeiro plano</em><br/>
+  Ao clicar em um link com o botão do meio do mouse (ou segurar &accelKey; ao clicar com o botão esquerdo do mouse), a página será carregada em uma nova aba. A página não será exibida e será carregada em segundo plano. Marque essa &pref.singular; para carregar e exibir a página em uma aba em primeiro plano.</p>
+
+<h2 id="content_options">&pref.pluralCaps; de Conteúdo</h2>
+<p><em>Bloquear janelas popup</em><br/>
+  Por padrão, o &brandShortName; bloqueia janelas popup inconvenientes em sites da web. Desmarque essa &pref.singular; para desativar o Bloqueador de Popups.</p>
+
+<p>Alguns sites utilizam popups com funções importantes. Para permitir que sites específicos utilizem popups, clique em <em>Exceções…</em>, digite o domínio do site e clique em <em>Permitir</em>. Para excluir um site da lista de sites permitidos, selecione-o e clique em <em>Excluir o site</em>. Para limpar a lista completamente, clique em <em>Excluir tudo</em>.</p>
+
+<p><em>Carregar imagens automaticamente</em><br/>
+  Por padrão, as imagens contidas em uma página da web serão carregadas. Desmarque essa &pref.singular; para desativar completamente as imagens.</p>
+
+<p>Se você ativar o carregamento automático de imagens, você poderá especificar quais sites serão bloqueados ou poderão carregar imagens, dependendo do que você marcar na &pref.singular; descrita acima, clicando em <em>Exceções…</em>. Na lista de exceções, digite o site do qual você deseja gerenciar as imagens e clique em <em>Permitir</em> para permitir imagens ou <em>Bloquear</em> para bloquear imagens.</p>
+
+<p><em>Permitir JavaScript</em><br/>
+  JavaScript é uma linguagem de scripts utilizada frequentemente para tornar páginas da web mais interativas. Entretanto, ele também facilita o uso de funções incômodas. Para desativar o JavaScript, desmarque essa &pref.singular;. Perceba, no entanto, que desativar o JavaScript pode fazer com que muitos sites não funcionem corretamente. Para um controle maior sobre o que JavaScripts podem ou não fazer, clique no botão <em>Avançado…</em>.</p>
+
+  <h4 id="advanced_javascript">Permissões para JavaScript</h4>
+  <dl>
+    <dt>Mover ou redimensionar janelas existentes</dt>
+    <dd>Desmarque essa &pref.singular; para impedir que scripts movam ou redimensionem janelas abertas.</dd>
+
+    <dt>Alterar a disposição entre as janelas</dt>
+    <dd>Desmarque essa &pref.singular; para assegurar-se de que scripts não alterarão a disposição entre as janelas.</dd>
+
+    <dt>Desativar ou substituir menus de contexto</dt>
+    <dd>Desmarque essa &pref.singular; para evitar que páginas da web desativem ou substituam o menu de contexto do &brandShortName;.</dd>
+
+    <dt>Ocultar a barra de status</dt>
+    <dd>Desmarque essa &pref.singular; para forçar a exibição da barra de status em todas as janelas do &brandShortName;.</dd>
+
+    <dt>Modificar o texto da barra de status</dt>
+    <dd>Desmarque essa &pref.singular; para impedir alterações no texto da barra de status (como rolagem de textos inconvenientes ou impedir que sites escondam endereços da barra de status).</dd>
+  </dl>
+
+  <p><em>Permitir Java</em><br/>
+    Java é uma linguagem de programação bastante popular na web. Um único programa Java pode ser executado em vários tipos de computadores, evitando assim a necessidade dos programadores criarem uma versão do programa para cada tipo de computador. Desmarque essa &pref.singular; para desativar mini-aplicativos Java no &brandShortName;. Note que para que mini-aplicativos Java funcionem corretamente, você precisa instalar o plugin Java.</p>
+
+  <h3 id="fonts_and_colors">Fontes e cores</h3>
+  <p><em>Fonte padrão</em> e <em>Tam.</em><br/>
+    Normalmente as páginas da web são exibidas na fonte e tamanho especificados aqui. Entretanto, páginas da web podem definir fontes diferentes, que serão exibidos a não ser que você especifique o contrário na janela Fontes. Clique no botão <em>Avançado…</em> para acessar mais &pref.plural; de fontes.</p>
+
+    <h4 id="fonts_dialog">Fontes</h4>
+    <ol>
+      <li>Na lista <em>Fontes padrão para</em>, escolha um grupo de caracteres/idioma. Por exemplo, para configurar o grupo de fontes padrão dos idiomas ocidentais (latinos), clique em <em>Ocidental</em>. Para um grupo de caracteres/idioma que não esteja na lista, clique em <em>Outros idiomas</em>.</li>
+      <li>Escolha se a fonte proporcional deverá ser com serifa (como &quot;<span style="font-family:serif;">Times New Roman</span>&quot;) ou sem serifa (como &quot;<span style="font-family:sans-serif;">Arial</span>&quot;), e então especifique o tamanho padrão da fonte proporcional.</li>
+      <li>Especifique as fontes utilizadas para fontes com serifa, sem serifa e monoespaçada (largura fixa). Você também pode especificar o tamanho para as <span style="font-family:monospace;">fontes monoespaçadas</span>.</li>
+    </ol>
+
+    <p>Você também pode especificar o tamanho mínimo de fonte que pode ser exibido na tela. Isso pode ser útil em sites que utilizam tamanhos de fonte muito pequenos e pouco legíveis.</p>
+
+    <p><em>Páginas podem usar outras fontes</em><br/>
+      Por padrão, o &brandShortName; exibe as fontes especificadas pelo autor da página. Desative essa &pref.singular; para forçar todos os sites a usar as fontes padrão.</p>
+
+    <p><em>Codificação padrão</em><br/>
+      A codificação de caracteres selecionada nessa caixa será a codificação padrão utilizada para exibir páginas que não especifiquem uma codificação.</p>
+
+    <h4 id="colors_dialog">Cores</h4>
+    <p><strong>Cores padrão</strong><br/>
+      Aqui você pode modificar as cores padrão de texto e fundo que serão utilizadas nas páginas em que essas cores não foram especificadas por seu autor. Clique nas amostras de cores para modificá-las.</p>
+
+    <p><em>Usar cores do sistema</em><br/>
+      Marque essa &pref.singular; para usar as cores de fonte e fundo definidas pelo seu Sistema Operacional em vez das cores definidas acima.</p>
+
+    <p><strong>Aparência padrão dos links</strong><br/>
+      Aqui você pode modificar as cores padrão dos links das páginas. Clique nas amostras de cores para modificá-las.</p>
+
+    <p><em>Sublinhar</em><br/>
+      Por padrão, o &brandShortName; sublinha os links das páginas. Desmarque essa &pref.singular; para modificar esse comportamento. Note que vários sites especificam seus próprios estilos de links e nesses sites essa &pref.singular; não tem efeito.</p>
+
+    <p><em>Páginas podem usar outras cores</em><br/>
+      Por padrão, o &brandShortName; exibe as cores especificadas pelo autor da página. Desative essa &pref.singular; para forçar todos os sites a usar as cores padrão.</p>
+
+  <h3 id="languages">Idiomas</h3>
+  <p>Algumas páginas oferecem mais de um idioma para exibição. Clique no botão <em>Selecionar…</em> para especificar o idioma ou idiomas de sua preferência.</p>
+
+  <p><strong>Idiomas</strong><br/>
+    Para adicionar um idioma à lista de idiomas clique em <em>Selecione o idioma a adicionar…</em>, clique sobre o idioma escolhido e clique no botão <em>Adicionar</em>. Exclua um idioma da lista selecionando-o e clicando no botão <em>Excluir</em>. Você também pode reordenar os idiomas usando os botões <em>Para cima</em> e <em>Para baixo</em> para determinar a ordem de preferência no caso de haver mais de um idioma disponível.</p>
+
+<h2 id="applications_options">&pref.pluralCaps; de Programas</h2>
+
+<p>O painel <em>Programas</em> permite que você selecione programas e outros manipuladores utilizados pelo &brandShortName; para manipular diferentes tipos de conteúdo (e.g. documentos PDF). Ele exibe uma lista de tipos de conteúdo e permite que você selecione um programa ou ação para cada tipo de conteúdo.</p>
+
+<p>Você pode escolher um programa local para manipular qualquer tipo de conteúdo. Para alguns tipos você também pode selecionar alguma aplicação da web, recurso do &brandShortName; (como <a href="glossary.xhtml#live_bookmark">Favoritos RSS</a> para conteúdos RSS) ou um <a href="glossary.xhtml#Plugin">plugin</a> instalado no &brandShortName; para manipular ou salvar o tipo de conteúdo no seu computador.</p>
+
+<p>Para decidir como um tipo de conteúdo será manipulado, selecione o tipo de conteúdo na lista. O manipulador atual do conteúdo aparecerá dentro de um menu. Abra o menu e selecione o manipulador que você deseja para o tipo de conteúdo.</p>
+
+<ul>
+  <li><em>Selecionar um programa</em><br/>
+    Para selecionar um programa local ou da web para manipular o tipo de conteúdo selecionado, selecione o programa desejado no menu. Se você deseja utilizar um programa que não está listado no menu, selecione <em>Outro programa…</em> no menu e indique o programa desejado.</li>
+
+  <li><em>Selecionar um plugin ou recurso especial</em><br/>
+    Se você deseja utilizar um plugin ou recurso especial no &brandShortName; para manipular o tipo de conteúdo (e se houver algum disponível), selecione-o no menu.</li>
+
+  <li><em>Salvar no computador</em><br/>
+    Se você deseja simplesmente salvar o conteúdo no seu computador (e se essa opção estiver disponível), selecione <em>Salvar</em> no menu. Se você tiver selecionado a &pref.singular; <em>Salvar arquivos em</em> no painel <em>Principal</em>, o &brandShortName; salvará o conteúdo no seu computador automaticamente. Caso contrário, o &brandShortName; perguntará onde você deseja salvar o conteúdo quando for necessário.</li>
+</ul>
+
+<p><strong>Nota:</strong> quando um plugin estiver disponível para um determinado tipo de conteúdo e você selecionar outro manipulador para esse tipo de conteúdo, o &brandShortName; somente utilizará o manipulador de sua escolha quando você acessar o conteúdo diretamente. Quando o conteúdo estiver embutido em uma página da web, o &brandShortName; continuará utilizando o plugin para manipular o conteúdo.</p>
+
+<h2 id="privacy_options">&pref.pluralCaps; de Privacidade</h2>
+
+  <h3 id="privacy_history">Histórico</h3>
+  <p><em>Memorizar páginas visitadas nos últimos … dias</em><br/>
+    Aqui você pode especificar por quanto tempo você quer que o &brandShortName; lembre quais páginas você visitou. O ajuste padrão é 90 dias.</p>
+
+  <p><em>Memorizar dados fornecidos a formulários e ao campo de pesquisa</em><br/>
+    Quando você fornece informações em formulários na internet e no Campo de pesquisa, o &brandShortName; registra as informações que você forneceu e automaticamente faz sugestões quando você for preencher o formulário novamente. Desmarque essa &pref.singular; para desativar esse comportamento.</p>
+
+  <p><em>Memorizar downloads</em><br/>
+    Essa &pref.singular; controla se downloads antigos devem ou não ser exibidos na janela Downloads. A janela Downloads (que pode ser acessada no menu <span class="menuPath">Ferramentas</span> ou ao pressionar <span class="noUnix">&accelKey;+<kbd>J</kbd></span><span class="unix">&accelKey;+<kbd>Y</kbd></span>) exibe uma lista dos seus downloads recentes. As &pref.plural; de downloads estão disponíveis no painel <a href="#main_options"><em>Principal</em></a>.</p>
+
+  <h3 id="privacy_cookies">Cookies</h3>
+  <p>Um cookie é um arquivo criado por um site que armazena informações no seu computador, tais como as suas preferências ao visitar um site.</p>
+
+  <p><em>Sites podem definir cookies</em><br/>
+    Por padrão, cookies são permitidos. Desmarque essa &pref.singular; para desativar os cookies. Note que alguns sites podem não funcionar corretamente quando os cookies são desativados.</p>
+
+  <p><em>Preservar cookies até:</em></p>
+
+  <ul>
+    <li><em>Perderem a validade</em><br/>
+      Esta é a &pref.singular; padrão. Quando selecionada, permite que os sites especifiquem por quanto tempo um cookie será mantido pelo &brandShortName;. Isso torna possível que sites lembrem as suas preferências e informações de login durante várias sessões de navegação.</li>
+    <li><em>Sair do &brandShortName;</em><br/>
+      Ao selecionar essa &pref.singular;, o &brandShortName; excluirá todos os cookies armazenados sempre que for encerrado.</li>
+    <li><em>Perguntar</em><br/>
+      Essa &pref.singular; exibe um alerta toda vez em que um site tentar armazenar um cookie, permitindo que você escolha por quanto tempo o cookie deverá ser mantido (ou se será recusado).</li>
+  </ul>
+
+  <p>Para controlar quais sites podem ou não definir cookies, clique no botão <em>Exceções…</em>.</p>
+
+  <p>Para exibir o Gerenciador de Cookies, clique no botão <em>Exibir cookies</em>.</p>
+
+  <p>Leia mais sobre os cookies, suas &pref.plural; específicas e como controlar quais sites poderão armazenar cookies no seu computador no tópico <a href="cookies.xhtml">Gerenciando cookies</a>.</p>
+
+  <h3 id="private_data">Dados pessoais</h3>
+  <p><em>Limpar dados pessoais ao sair do &brandShortName;</em><br/>
+    Você pode configurar o &brandShortName; para limpar os seus dados pessoais sempre que você fechá-lo. Para selecionar quais dados serão limpos, clique no botão <em>Configurar…</em>.</p>
+
+  <p><em>Perguntar antes de limpar dados pessoais</em><br/>
+    Se essa &pref.singular; estiver selecionada, o &brandShortName; pedirá uma confirmação antes de executar a limpeza automática.</p>
+
+  <p>Você também pode limpar os seus dados pessoais sempre que quiser clicando no botão <em>Limpar agora…</em>. Para limpar os seus dados pessoais sem abrir a janela de &pref.plural;, pressione &accelKey;+&shiftKey;+<kbd>Del</kbd> ou clique em <span class="menuPath">Ferramentas &gt; Limpar dados pessoais…</span>.</p>
+
+
+<h2 id="security_options">&pref.pluralCaps; de Segurança</h2>
+<p><em>Alertar se sites tentarem instalar complementos</em><br/>
+  O &brandShortName; sempre pedirá a sua confirmação para a instalação de complementos. Para evitar que tentativas de instalação não requisitadas resultem em instalações acidentais, o &brandShortName; exibe um aviso quando um site tentar instalar um complemento e bloqueia a tentativa de instalação. Para permitir que sites específicos instalem complementos, você deve clicar em <em>Exceções…</em>, digitar o endereço do site e clicar em <em>Permitir</em>. Desmarque essa &pref.singular; para desativar esse aviso para todos os sites.</p>
+
+<p id="phishing"><em>Alertar se o site visitado é uma possível fraude</em><br/>
+  Marque essa &pref.singular; se você quiser que o &brandShortName; verifique se o site que você está visitando pode ser uma tentativa de persuasão para que você forneça informações pessoais (esse golpe também é conhecido como <em>phishing</em>).<br/>
+  Note que a ausência de um alerta não garante que o site seja realmente confiável. Se você chegar até um &quot;phishing site&quot; que não foi marcado como tal, por favor informe sobre esse site clicando em <span class="menuPath">Ajuda &gt; Denunciar site como fraude…</span>, como explicado em <a href="menu_reference.xhtml#web_forgery">Menus</a>.</p>
+
+<p><em>Verificar recebendo uma lista de suspeitos</em><br/>
+  Com essa &pref.singular; selecionada, o &brandShortName; verificará se o site visitado está em uma lista atualizada frequentemente. Nenhum dado sobre os sites que você visita será transmitido para serviços antifraude de terceiros. Visto que as técnicas e sites de phishing evoluem rapidamente, este tipo de proteção pode não ser tão eficiente quanto ter um serviço anti-phishing verificando os sites que você visita.</p>
+
+<p><em>Verificar consultando o … a cada site visitado</em><br/>
+  Com essa &pref.singular; selecionada, o &brandShortName; enviará o endereço da página ao serviço antifraude selecionado por uma conexão criptografada para verificar a sua identidade. Este método oferece a melhor proteção, mas informações como o seu endereço IP e versão do seu navegador podem ser transferidos e armazenados pelo serviço anti-phishing. Você será solicitado a ler e aceitar a política de privacidade do serviço antifraude selecionado ao selecionar essa &pref.singular;.</p>
+
+  <h3 id="security_passwords">Senhas</h3>
+  <p><em>Memorizar senhas de sites</em><br/>
+    O &brandShortName; pode armazenar com segurança as senhas digitadas em formulários para facilitar a sua autenticação em sites. Desmarque essa &pref.singular; para impedir que o &brandShortName; memorize as suas senhas.</p>
+
+  <p>Mesmo quando essa &pref.singular; está marcada, porém, o &brandShortName; ainda pedirá a sua confirmação antes de salvar as senhas de um site quando você o visita pela primeira vez. Se você clicar em <em>Nunca para este site</em>, o site será adicionado na lista de exceções. Para acessar esta lista ou remover sites dela, clique no botão <em>Exceções…</em>.</p>
+
+  <p id="set_change_master_password"><em>Usar uma senha mestra</em><br/>
+    O &brandShortName; pode proteger informações confidenciais como senhas armazenadas e certificados criptografando-os usando uma <a href="glossary.xhtml#master_password">senha mestra</a>. Se você criar uma senha mestra, cada vez que você abrir o &brandShortName;, ele pedirá que você digite a sua senha na primeira vez em que for necessário acessar um certificado ou senha armazenada. Você pode definir, alterar ou remover a senha mestra marcando ou desmarcando essa &pref.singular; ou clicando no botão <em>Modificar a senha mestra…</em>. Se a senha mestra já tiver sido definida, você precisará digitá-la para modificá-la ou removê-la.</p>
+
+  <p><em>Exibir senhas</em><br/>
+    Você pode gerenciar as suas senhas salvas e excluir senha por senha clicando no botão <em>Exibir senhas</em>.</p>
+
+  <h3 id="warning_messages">Alertas</h3>
+  <p>Clique no botão <em>Configurar…</em> para definir os alertas de segurança que o &brandShortName; exibe enquanto você navega na web.</p>
+
+    <h4>Alertas de segurança</h4>
+    <!--XXX massive suck!  do these provide *any* value whatsoever? -->
+    <dl>
+      <dt>Ao entrar em uma conexão segura</dt>
+      <dd>Quando essa &pref.singular; estiver ativada, o &brandShortName; o notificará sempre que você estiver prestes a visualizar uma página criptografada.</dd>
+
+      <dt>Ao entrar em uma conexão segura com criptografia de baixo nível</dt>
+      <dd>Quando essa &pref.singular; estiver ativada, o &brandShortName; o notificará quando você visitar uma página com nível baixo de criptografia.</dd>
+
+      <dt>Ao sair de uma conexão segura</dt>
+      <dd>Quando essa &pref.singular; estiver ativada, o &brandShortName; o notificará sempre que você sair de uma conexão criptografada para uma conexão não criptografada, seja clicando em um link em uma página, abrindo um favorito ou digitando um endereço no Campo de endereço.</dd>
+
+      <dt>Ao enviar dados não criptografados</dt>
+      <dd>Quando essa &pref.singular; estiver ativada, o &brandShortName; o notificará quando você enviar dados por um formulário não criptografado.</dd>
+
+      <dt>Ao entrar em uma conexão segura que contenha itens não criptografados</dt>
+      <dd>Quando essa &pref.singular; estiver ativada, o &brandShortName; o notificará quando a página visualizada contiver conteúdo misto, com itens criptografados e não criptografados. Se uma página criptografada contiver dados não criptografados, você deverá checar a identidade da página que você estiver visualizando antes de digitar dados pessoais.</dd>
+    </dl>
+
+<h2 id="advanced_options">&pref.pluralCaps; Avançadas</h2>
+<p>O painel Avançado possui várias &pref.plural; avançadas do &brandShortName;, menos prováveis de serem alteradas pela maioria dos usuários, mas ainda assim bastante úteis e por vezes imprescindíveis para alguns usuários.</p>
+
+  <h3 id="advanced_general">Aba Geral</h3>
+    <h4 id="accessibility">Acessibilidade</h4>
+    <p><em>Usar teclas de setas para percorrer pelas páginas</em><br/>
+      Essa &pref.singular; especifica se o cursor do teclado será exibido, permitindo a seleção de texto e navegação pelo teclado. Você pode ativar ou desativar essa função pressionando <kbd>F7</kbd>.</p>
+
+    <p><em>Localizar texto ao começar a digitar</em><br/>
+      Quando essa &pref.singular; está ativada, o &brandShortName; tenta localizar na página exibida qualquer texto que você digitar no teclado. Ao digitar o texto a ser localizado, a barra de ferramentas Localizar é automaticamente exibida na base da janela, exibindo informações sobre a pesquisa.</p>
+
+    <h4 id="browsing">Navegação</h4>
+    <p><em>Auto-rolagem</em><br/>
+      A auto-rolagem é um recurso útil que permite rolar a página exibida segurando o botão do meio do mouse e movendo o mouse para cima ou para baixo. Alguns usuários podem achar esse recurso irritante, por isso a auto-rolagem pode ser desativada por essa &pref.singular;.</p>
+
+    <p><em>Rolagem suave</em><br/>
+      A rolagem suave pode ser muito útil se você costuma ler páginas muito longas. Normalmente, quando você pressiona a tecla <kbd>Page Down</kbd>, a exibição desce uma página inteira. Com a rolagem suave, a página rola suavemente, permitindo que você veja o quanto a página rolou. Isso torna mais fácil a continuação de uma leitura do ponto que você estava anteriormente.</p>
+
+    <p><em>Verificar ortografia ao digitar</em><br/>
+      Quando essa &pref.singular; está ativada, o &brandShortName; verificará a ortografia do seu texto e sugerirá possíveis correções enquanto você digitar informações em formulários. Note que talvez você precise instalar um dicionário; para tal, <span class="noMac">clique com o botão direito</span><span class="mac">pressione &ctrlKey; e clique</span> em qualquer campo de texto, ative a verificação ortográfica se necessário e então utilize o menu <span class="menuPath">Idioma</span> para adicionar dicionários.</p>
+
+  <h3 id="advanced_network">Aba Rede</h3>
+    <h4 id="connection_settings">Conexão</h4>
+    <p>Talvez a sua empresa ou provedor de internet ofereça ou exija o uso de um proxy. Um proxy é um programa que age como um intermediário entre o seu computador e a internet. Ele intercepta todas as solicitações à internet e verifica se a solicitação poderá ser atendida diretamente do seu cache. Servidores proxy são utilizados para aumentar a performance, filtrar solicitações e ocultar o seu computador na internet para aumentar a sua segurança. Servidores proxy também podem ser parte de um firewall corporativo.</p>
+
+    <h4>Configurar conexão</h4>
+    <dl>
+      <dt>Conectar-se diretamente</dt>
+      <dd>Essa é a &pref.singular; padrão. Selecione essa &pref.singular; se você não for utilizar um servidor proxy.</dd>
+
+      <dt>Autodetectar as configurações de proxy para esta rede</dt>
+      <dd>Selecione essa opção para que o &brandShortName; tente detectar automaticamente os servidores proxy da sua rede para você.</dd>
+
+      <dt>Configuração manual de proxy</dt>
+      <dd>Selecione essa opção para configurar manualmente os servidores proxy. Peça ao administrador do sistema os endereços e portas dos servidores proxy para cada protocolo e digite as informações nos campos apropriados.</dd>
+
+      <dt>Endereço para configuração automática de proxy</dt>
+      <dd>Se o seu local de trabalho possui um arquivo de configuração proxy, peça ao administrador do sistema o endereço do arquivo de configuração e digite-o neste campo. Clique em <em>Recarregar</em> para carregar as configurações.</dd>
+    </dl>
+
+    <h4 id="advanced_cache">Cache</h4>
+    <p>As páginas que você visita normalmente são armazenadas em uma pasta especial chamada cache para que elas possam ser exibidas mais rapidamente na próxima vez em que você visitá-las. Aqui você pode especificar a quantidade de espaço em disco que o cache poderá utilizar. Você também pode limpar o conteúdo do cache sempre que quiser.</p>
+
+    <p><em>Usar no máximo … MB de espaço para o cache</em><br/>
+      Permite que você especifique o tamanho máximo do cache no seu computador.</p>
+
+    <p><em>Limpar agora</em><br/>
+      Limpa imediatamente o conteúdo atual do cache, liberando o espaço em disco utilizado pelo cache.</p>
+
+  <h3 id="advanced_update">Aba Atualizações</h3>
+    <p>O &brandShortName; pode verificar se há atualizações disponíveis para o &brandShortName; em si e complementos instalados.</p>
+
+    <p><em>Verificar automaticamente se há atualizações para:</em><br/>
+      Por padrão, o &brandShortName; verifica automaticamente se há atualizações disponíveis para o &brandShortName; em si, complementos e mecanismos de pesquisa instalados, para que você sempre tenha a versão mais atualizada dos seus componentes. Você pode desativar esse comportamento desmarcando aqui a &pref.singular; apropriada.</p>
+
+    <p><em>Ao encontrar atualizações do &brandShortName;:</em></p>
+
+    <dl>
+      <dt>Perguntar o que fazer</dt>
+      <dd>Atualizações do &brandShortName; são instaladas automaticamente por padrão. Selecione essa &pref.singular; para controlar manualmente quando e como as atualizações serão instaladas.</dd>
+      <dt>Receber e instalar a atualização automaticamente</dt>
+      <dd>Quando essa &pref.singular; é selecionada, as atualizações do &brandShortName; serão baixadas automaticamente e serão instaladas na próxima vez em que o &brandShortName; for iniciado. A &pref.singular; <em>Alertar caso desative algum complemento</em> determina se a sua confirmação será requerida antes da instalação caso alguma atualização precise desativar uma extensão ou tema incompatível por não haver novas versões compatíveis. Essa confirmação permite que você adie a atualização, mas você não poderá aproveitar as melhorias incluídas nela.<br/>
+      <br/>
+      Se todas os seus complementos forem compatíveis ou puderem ser atualizados para uma versão compatível, a atualização do &brandShortName; será instalada. Após o reinício do &brandShortName;, você será solicitado a instalar quaisquer atualizações de complementos necessárias para que você possa continuar a usá-los.</dd>
+    </dl>
+
+    <p><em>Histórico de atualizações</em><br/>
+      O &brandShortName; registra automaticamente as atualizações que você instalar. Você pode obter informações sobre essas atualizações clicando nesse botão.</p>
+
+    <p><strong>Nota:</strong> Você deve estar executando o &brandShortName; como <span class="win">administrador do sistema</span><span class="noWin">root</span> ou o usuário que instalou o &brandShortName; para poder instalar atualizações do &brandShortName;.</p>
+
+  <h3 id="advanced_encryption">Aba Criptografia</h3>
+
+    <h4 id="protocols">Protocolos</h4>
+    <p><em>SSL 3.0</em><br/>
+      Especifica se você permite que o &brandShortName; envie e receba informações seguras por meio do SSL3 (Secure Sockets Layer Nível 3), um protocolo padrão para transmissões seguras. Desativá-lo pode impedi-lo de acessar alguns sites.</p>
+
+    <p><em>TLS 1.0</em><br/>
+      Especifica se você permite que o &brandShortName; envie e receba informações seguras por meio do TLS (Transport Layer Security), um padrão de segurança aberto similar ao SSL3 (Secure Sockets Layer). Desativá-lo pode impedi-lo de acessar alguns sites.</p>
+
+    <h4 id="certificates">Certificados</h4>
+    <p>Os <a href="glossary.xhtml#certificate">certificados</a> auxiliam na encriptação e decriptação de conexões com <a href="glossary.xhtml#secure_site">sites seguros</a>.</p>
+
+    <p><em>Quando um site requisitar um certificado:</em><br/>
+      Quando um site solicita uma conexão segura, o &brandShortName; irá, por padrão, selecionar automaticamente o certificado apropriado. Se você deseja escolher manualmente um certificado, diferente do selecionado, selecione a &pref.singular; <em>Perguntar quando necessário</em> e você terá controle completo sobre o uso de certificados.</p>
+
+    <p><em>Certificados</em><br/>
+      Clique nesse botão para exibir certificados armazenados, importar novos certificados e fazer backup ou excluir certificados antigos do &brandShortName;.</p>
+
+    <p><em>Revogações</em><br/>
+      O &brandShortName; pode utilizar CRLs (Listas de Revogação de Certificados) para assegurar-se de que os seus certificados não são inválidos. Clique no botão <em>Revogações</em> para gerenciar as CRLs instaladas no seu computador.</p>
+
+    <p><em>Verificação</em><br/>
+      O OCSP (Protocolo de Status Online de Certificados) é uma forma de validar os seus certificados sempre que eles são exibidos ou utilizados. Por padrão, o &brandShortName; não utiliza o OCSP, mas você pode ativá-lo aqui. Provavelmente você só precisará modificar essa configuração se o seu ambiente de Internet exigir o uso de OCSP.</p>
+
+    <p><em>Disp. de segurança</em><br/>
+      Dispositivos de segurança podem codificar e decodificar conexões e armazenar certificados e senhas. Se você precisar utilizar um dispositivo de segurança diferente do fornecido pelo &brandShortName;, clique no botão <em>Disp. de segurança</em>.</p>
+
+<div class="contentsBox"><em>09 de Outubro de 2007</em></div>
+<p>Copyright &copy; &copyright.years; Colaboradores do Projeto Mozilla Help Viewer.</p>
+
+</body>
+</html>

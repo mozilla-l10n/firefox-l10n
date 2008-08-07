@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-BR" lang="pt-BR" dir="ltr">
+<head>
+<title>Funções de Acessibilidade do &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Funções de Acessibilidade do &brandFullName;</h1>
+
+  <p>O &brandShortName; inclui diversas funções para tornar o navegador e o conteúdo da web acessíveis para todos os usuários, incluindo aqueles com dificuldades ou deficiências visuais ou limitações no uso do teclado ou mouse.</p>
+
+  <div class="contentsBox">Nesta seção:
+    <ul>
+    <li><a href="#using_a_keyboard">Usando o Teclado</a></li>
+    <li><a href="#using_a_mouse">Usando o Mouse</a></li>
+    <li><a href="#fonts_and_colors">Fontes e Cores</a></li>
+    <li><a href="#controlling_web_content">Controlando o conteúdo da Web</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Compatibilidade com Tecnologias Assistivas</a></li>
+    <li><a href="#finding_help_online">Encontrando ajuda online</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Usando o Teclado</h2>
+
+  <h3 id="keyboard_shortcuts">Atalhos do teclado</h3>
+
+  <p>Uma lista de atalhos comuns do teclado está disponível em <a href="shortcuts.xhtml">Atalhos do Teclado do &brandShortName;</a>. Você também pode encontrar online uma <a target="_blank" href="http://www.mozilla.org/support/firefox/keyboard" hreflang="en">tabela comparativa de atalhos do teclado</a> implementados no &brandShortName;, Microsoft Internet Explorer e Opera.</p>
+
+  <h3 id="always_use_cursor_keys">Usar teclas de setas para percorrer pelas páginas</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Usar teclas de setas para percorrer pelas páginas</a> permite que você navegue pelo conteúdo da web como se estivesse em um editor no modo somente leitura. Você pode usar o teclado para selecionar o conteúdo e copiá-lo para a área de transferência. Essa função pode ser ativada clicando em &pref.menuPath;, abrindo a aba <em>Geral</em> do painel <em>Avançado</em> e marcando a &pref.singular; <em>Usar teclas de setas para percorrer pelas páginas</em>.</p>
+
+  <p>Você também pode pressionar <kbd>F7</kbd> a qualquer momento para ativar ou desativar essa função. Ao pressionar <kbd>F7</kbd>, o &brandShortName; pedirá uma confirmação para ativar o recurso. Você pode desativar essa confirmação selecionando <em>Não mostrar mais este aviso.</em></p>
+
+  <h3 id="find_as_you_type">Localizar texto ao começar a digitar</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Localizar texto ao começar a digitar</a> permite que você navegue rapidamente no texto e links em uma página da web. Esse recurso tem dois modos. Pressione <abbr title="barra"><kbd>/</kbd></abbr> e inicie a digitação no teclado para iniciar a pesquisa em todo o texto da página, ou pressione <abbr title="apóstrofe"><kbd>'</kbd></abbr> antes do seu texto para pesquisar somente entre os links. O &brandShortName; destacará qualquer item correspondente à sua digitação.</p>
+
+  <p>Os seguintes atalhos do teclado controlam esse recurso:</p>
+
+  <ul>
+    <li>Digite mais caracteres para refinar a sua pesquisa. O &brandShortName; destacará o próximo item correspondente ou alertará se nenhum item correspondente for encontrado.</li>
+    <li>Pressione &accelKey;+<kbd>G</kbd> ou <kbd>F3</kbd> para localizar o próximo item correspondente à sua pesquisa.</li>
+    <li>Pressione &accelKey;+&shiftKey;+<kbd>G</kbd> ou &shiftKey;+<kbd>F3</kbd> para localizar a ocorrência anterior da pesquisa.</li>
+    <li>Pressione <kbd>Backspace</kbd> para apagar o último caractere digitado. O &brandShortName; voltará ao texto destacado anteriormente.</li>
+    <li>Pressione <kbd>Esc</kbd> para cancelar a pesquisa. Você também pode cancelar a pesquisa mudando o foco da página, rolando a página com o mouse ou teclado ou simplesmente aguardando o tempo de saída.</li>
+  </ul>
+
+  <p>Você pode alterar o comportamento padrão desse recurso clicando em &pref.menuPath;, abrindo a aba <em>Geral</em> do painel <em>Avançado</em> e marcando a opção <em>Localizar texto ao começar a digitar</em>. Quando essa &pref.singular; estiver marcada, você poderá digitar qualquer coisa durante a sua navegação para iniciar uma pesquisa no conteúdo. Por padrão, a pesquisa iniciada buscará correspondência de itens em todo texto. Você ainda explicitamente pressionar <abbr title="apostrophe"><kbd>'</kbd></abbr> ou <abbr title="barra"><kbd>/</kbd></abbr> para iniciar a pesquisa em um modo ou outro.</p>
+
+  <p>Você pode usar esse recurso para localizar botões, caixas de texto e outros controles de formulário. Inicie a pesquisa imediatamente antes de um formulário e pressione <kbd>Tab</kbd>. Pressionar <kbd>Tab</kbd> automaticamente sai da pesquisa e direciona o foco para o próximo campo do formulário ou botão após o texto destacado.</p>
+
+  <h2 id="using_a_mouse">Usando o Mouse</h2>
+
+  <h3 id="common_mouse_shortcuts">Atalhos comuns do mouse</h3>
+
+  <p>Uma lista de atalhos comuns do mouse está disponível em <a href="mouse_shortcuts.xhtml">Atalhos do Mouse do &brandShortName;</a>.</p>
+
+  <h2 id="fonts_and_colors">Fontes e Cores</h2>
+
+  <h3 id="overriding_page_fonts">Substituindo as fontes da página</h3>
+
+  <p>Alguns sites podem exibir fontes ilegíveis, enquanto outros confiam na fonte padrão ajustada no navegador. Você pode configurar o seu conjunto de fontes padrão clicando em &pref.menuPath;, selecionando o painel <em>Conteúdo</em> e selecionando fonte e tamanho na seção <em>Fontes e cores</em>.</p>
+
+  <p>Você pode especificar fontes diferentes para estilos diferentes, incluindo fontes serifadas, não-serifadas e monoespaçadas, clicando no botão <em>Avançado</em>. Entretanto, diversas páginas especificam as suas próprias fontes, de forma que as suas fontes não serão utilizadas nessas páginas. Para substituir as fontes definidas pela página, desmarque a &pref.singular; <em>Páginas podem usar outras fontes</em>.</p>
+
+  <p>Note que algumas páginas poderão ser exibidas incorretamente, dependendo da sua fonte padrão.</p>
+
+  <h3 id="setting_a_minimum_font_size">Configurando um tamanho mínimo de fonte</h3>
+
+  <p>Alguns sites podem exibir texto em tamanho muito pequeno para leitura. Para que tais páginas tornem-se mais legíveis, você pode ajustar um tamanho mínimo de fonte. Quando alguma página tentar exibir texto com tamanho menor que o tamanho mínimo, o &brandShortName; aumentará o tamanho do texto para o tamanho selecionado por você.</p>
+
+  <p>Para ajustar o tamanho mínimo da fonte, clique em &pref.menuPath;, selecione o painel <em>Conteúdo</em> e clique no botão <em>Avançado</em> da seção <em>Fonte e cores</em>. Você pode especificar o tamanho mínimo no menu de opções.</p>
+
+  <p>Note que algumas páginas poderão ser exibidas incorretamente, dependendo do tamanho mínimo ajustado.</p>
+
+  <h3 id="resizing_page_text">Redimensionando o texto da página</h3>
+
+  <p>Você pode alterar temporariamente o tamanho do texto de uma página clicando no menu <span class="menuPath">Exibir &gt; Tamanho do texto</span>. O novo tamanho terá efeito até que você feche a janela ou aba do navegador, mesmo que navegue em uma página diferente.</p>
+
+  <p>Os seguintes atalhos do teclado controlam o tamanho do texto:</p>
+
+  <ul>
+    <li>Pressione &accelKey;+<kbd><abbr title="mais">+</abbr></kbd> para aumentar o tamanho do texto. Isso aumenta o texto para 120% do tamanho original, e então 150%, 200%, 300%, 450%, 675%, 1013%, e 1519%.</li>
+    <li>Pressione &accelKey;+<kbd><abbr title="menos">-</abbr></kbd> para diminuir o tamanho do texto. Isso diminui o texto para 90% do tamanho original, e então 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2%, e 1%.</li>
+    <li>Pressione &accelKey;+<kbd>0</kbd> para voltar ao tamanho original.</li>
+  </ul>
+
+  <p>Note que algumas páginas poderão ser exibidas incorretamente se você aumentar ou reduzir o tamanho do texto.</p>
+
+  <h3 id="overriding_page_colors">Substituindo as cores da página</h3>
+
+  <p>Alguns sites podem exibir cores de texto e de fundo que dificultam a leitura, enquanto outros confiam nas cores padrão no navegador. Você pode configurar as suas cores padrão clicando em &pref.menuPath;, selecionando o painel <em>Conteúdo</em> e clicando no botão <em>Cores</em>. Você poderá ajustar as cores de texto e de fundo, além das cores de links e links visitados. Você também poderá escolher se os links deverão ser sublinhados.</p>
+
+  <p>Entretanto, diversas páginas especificam as suas próprias cores, de forma que as suas cores padrão não serão utilizadas nessas páginas. Para substituir as cores definidas pela página, desmarque a &pref.singular; <em>Páginas podem usar outras cores</em>.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Usando um tema de alto contraste</h3>
+
+    <p>O &brandShortName; detecta automaticamente o uso de um tema de Alto Contraste e é exibido nas cores do seu tema. Isso substituirá quaisquer definições de cores do navegador ou páginas da web, e afeta a interface (menus, janelas e diálogos) e o conteúdo de qualquer página que você visitar.</p>
+
+    <p class="win">Para selecionar um tema de alto contraste, clique em <span class="menuPath">Iniciar &gt; Painel de controle &gt; Opções de acessibilidade &gt; Vídeo</span> e marque a caixa <em>Usar alto contraste</em>.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Controlando o conteúdo da Web</h2>
+
+  <h3 id="blocking_popup_windows">Bloqueando janelas Popup</h3>
+
+  <p>Leia o tópico <a href="popup.xhtml">Controlando Popups</a> para mais informações sobre como controlar popups.</p>
+
+  <h3 id="turning_off_java_applets">Desativando applets Java</h3>
+
+  <p>Algumas páginas fornecem alta interatividade usando <a href="glossary.xhtml#applet">applets</a> Java&trade;. Entretanto, alguns usuários que utilizam a navegação pelo teclado podem encontrar alguns problemas com alguns applets Java que automaticamente ajustam o foco para si e não fornecem uma maneira de sair do applet e navegar no resto da página. Se isso for um problema para você, é possível desativar o Java clicando em &pref.menuPath;, selecionando o painel <em>Conteúdo</em> e desmarcando a &pref.singular; <em>Permitir Java</em>.</p>
+
+  <h3 id="restricting_javascript_behavior">Controlando comportamento de JavaScripts</h3>
+
+  <p>Você pode desativar completamente os JavaScripts clicando em &pref.menuPath;, selecionando o painel <em>Conteúdo</em> e desmarcando a &pref.singular; <em>Permitir JavaScript</em>. Algumas páginas dependem de JavaScripts e poderão não funcionar se esse recurso estiver desativado.</p>
+
+  <p>Se você não deseja desativar completamente JavaScripts, existem configurações avançadas de JavaScript que restringem o comportamento de scripts. Clique no botão <em>Avançado...</em>, imediatamente após a caixa <em>Permitir JavaScript</em>, para abrir a janela <em>Permissões para JavaScript</em>. Você poderá controlar se JavaScripts poderão mover ou redimensionar janelas, alterar a disposição, substituir menus de contexto, ocultar a barra de status ou alterar o texto da barra de status.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Compatibilidade com Tecnologias Assistivas</h2>
+
+  <p>As últimas informações sobre compatibilidade com tecnologias de terceiros estão online na página de acessibilidade do Mozilla: <a target="_blank" href="http://www.mozilla.org/access/compatibility" hreflang="en">Access Mozilla: Compatibility with assistive technologies</a> (em inglês).</p>
+
+  <h2 id="finding_help_online">Encontrando ajuda online</h2>
+
+  <div class="win">
+
+    <p>A Freedom Scientific mantém inúmeras <a target="_blank" hreflang="en" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">listas de email de usuários do JAWS</a>.</p>
+
+    <p>A GW Micro mantém inúmeras <a target="_blank" hreflang="en" href="http://www.gwmicro.com/Support/Email_Lists/">listas de emails de usuários do Window Eyes</a>.</p>
+  </div>
+
+  <p>Você <span class="win">também</span> pode enviar questões de acessibilidade ao <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38" hreflang="en">Fórum de Suporte do &brandShortName;</a> (em inglês).</p>
+
+  <div class="contentsBox"><em>29 de Agosto de 2006</em></div>
+
+  <p>Copyright &copy; &copyright.years; Colaboradores do Projeto Mozilla Help Viewer.</p>
+
+</body>
+</html>

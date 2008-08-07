@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title                                  "Assistente de instalação de plugins">
+<!ENTITY pluginWizard.firstPage.title                        "Bem-vindo ao &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "O &brandShortName; está verificando os plugins disponíveis…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Download dos plugins disponíveis">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Estes plugins estão disponíveis:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Clique em Avançar para instalar os plugins selecionados.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Alguns plugins podem solicitar mais informações durante a instalação.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Licenças do plugin">
+<!ENTITY pluginWizard.licensePage.accept.label               "Eu concordo">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Eu não concordo (o plugin não será instalado)">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Instalando plugins">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "O &brandShortName; está instalando os plugins:">
+
+<!ENTITY pluginWizard.finalPage.description.label            "O &brandShortName; concluiu a instalação dos plugins requisitados:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Saiba mais sobre plugins ou localize os plugins solicitados">
+<!ENTITY pluginWizard.finalPage.restart.label                "O &brandShortName; precisa ser reiniciado para que os plugins funcionem.">
+  
+<!ENTITY missingPlugin.label                                 "Clique aqui para instalar o plugin">

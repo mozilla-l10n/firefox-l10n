@@ -1,0 +1,49 @@
+<!ENTITY startpage.welcome "Bem-vindo ao &brandFullName;!">
+<!ENTITY startpage.intro "O &brandFullName; é um poderoso cliente de email e news livre.">
+
+<!ENTITY startpage.features "Principais recursos">
+
+<!ENTITY startpage.junkControl "Filtro anti-spam adaptável">
+<!ENTITY startpage.rssReader "Suporte a RSS">
+<!ENTITY startpage.globalInbox "Caixa de entrada global">
+<!ENTITY startpage.searchFolders "Pastas de pesquisa">
+<!ENTITY startpage.messageGroups "Agrupamento de mensagens">
+<!ENTITY startpage.privacyProtect "Proteção a privacidade">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/junkmail">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/rss">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/global-inbox">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/search-folders">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/message-grouping">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/privacy-protection">
+
+<!ENTITY startpage.moreInfo "Ajuda">
+
+<!ENTITY startpage.help "Central Thunderbird">
+<!ENTITY startpage.helpInfo "Para dúvidas e dicas, visite a">
+<!ENTITY startpage.helpURL "http://www.mozilla-world.org/pt-BR/products/thunderbird/support">
+
+<!ENTITY startpage.page "página oficial do Thunderbird">
+<!ENTITY startpage.pageInfo "Para outras informações, visite a">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
+<!ENTITY startpage.extra '<script type="text/javascript">
+<![CDATA[
+function installDic(anchor)
+{
+    var params = {
+        "Ortografia pt-BR": {
+            URL: anchor.getAttribute("href"),
+            IconURL: "http://br.mozdev.org/thunderbird/install-spell.png",
+            toString: function() { return this.URL; }
+        }
+    }
+    InstallTrigger.install(params);
+}
+]]>
+</script>
+<h2>Instalação do verificador ortográfico</h2>
+<p><a href="http://br.mozdev.org/thunderbird/ortografia.html" onclick="installDic(this);return false">Clique aqui para instalar da internet o verificador para o idioma português</a>.
+<a href="http://br.mozdev.org/thunderbird/vocesabia/?ortografia">Mais informações</a>.</p>'>
+
+<!ENTITY startpage.poweredByGecko "Powered by Gecko.">

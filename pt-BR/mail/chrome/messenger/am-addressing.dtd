@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label          "Editar e endereçar">
+<!ENTITY addressingGroupTitle.label "Endereçar">
+<!ENTITY addressingText.label      "Ao procurar endereços:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Usar meu servidor LDAP global para esta conta">
+<!ENTITY useGlobal.accesskey       "s">
+<!ENTITY editDirectories.label     "Editar diretórios…">
+<!ENTITY editDirectories.accesskey "d">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Usar um servidor LDAP diferente:">
+<!ENTITY directories.accesskey     "r">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Editar">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Usar formatação (HTML)">
+<!ENTITY useHtml.accesskey                    "H">
+<!ENTITY autoQuote.label                      "Ao responder, citar a mensagem original">
+<!ENTITY autoQuote.accesskey                  "A">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label                           "E então:">
+<!ENTITY then.accesskey                       "E">
+<!ENTITY aboveQuote.label                     "Posicionar a resposta acima da mensagem">
+<!ENTITY belowQuote.label                     "Posicionar a resposta abaixo da mensagem">
+<!ENTITY selectAndQuote.label                 "Selecionar a mensagem citada">
+<!ENTITY place.label                          "Inserir a assinatura no:">
+<!ENTITY place.accesskey                      "I">
+<!ENTITY belowText.label                      "Fim da mensagem (recomendado)">
+<!ENTITY aboveText.label                      "Início da mensagem">

@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Programa padrão">
+<!ENTITY defaultClient.intro  "Tornar o &brandShortName; o programa padrão para:">
+
+<!ENTITY email.label "Email">
+<!ENTITY newsgroups.label "Newsgroups">
+<!ENTITY rss.label "RSS">
+
+<!ENTITY checkOnStartup.label "Sempre verificar ao iniciar o &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "S">

@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label              "Salvar anexos em">
+<!ENTITY alwaysAsk.label              "Perguntar para cada arquivo">
+<!ENTITY alwaysAsk.accesskey          "e">
+<!ENTITY neverAsk.label               "Sempre salvar na pasta:">
+<!ENTITY neverAsk.accesskey           "S">
+<!ENTITY desktop.label                "Área de trabalho">
+<!ENTITY downloads.label              "Meus downloads">
+<!ENTITY chooseFolderWin.label        "Procurar...">
+<!ENTITY chooseFolderWin.accesskey    "P">
+<!ENTITY chooseFolderMac.label        "Procurar...">
+<!ENTITY chooseFolderMac.accesskey    "P">
+
+
+<!ENTITY fileTypes.label              "Ações para anexos">
+<!ENTITY configureActions.label       "Exibir e editar ações…">
+<!ENTITY configureActions.accesskey   "x">
+<!ENTITY fileTypesDescription.label   "O &brandShortName; pode salvar/abrir automaticamente anexos dos tipos definidos.">
+
+<!ENTITY fileTypeColName.label        "Tipo de arquivo">
+<!ENTITY fileHandlerColName.label     "Programa">
+<!ENTITY editFileHandler.label        "Propriedades da ação...">
+<!ENTITY editFileHandler.accesskey    "P">
+<!ENTITY removeFileHandler.label      "Excluir">
+<!ENTITY removeFileHandler.accesskey  "x">

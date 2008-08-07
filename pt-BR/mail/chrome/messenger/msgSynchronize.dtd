@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Download e sincronização de mensagens">
+<!ENTITY MsgSelect.label "Itens para leitura offline">
+<!ENTITY MsgSyncDesc.label "Se você já selecionou pastas de mail ou newsgroups para leitura offline, pode agora recebê-los e/ou sincronizá-los. Para escolher agora os itens utilize o botão &quot;Selecionar&quot;.">
+<!ENTITY MsgSyncDirections.label "Receber e/ou sincronizar estes itens:">
+<!ENTITY syncTypeMail.label "Mensagens de email">
+<!ENTITY syncTypeMail.accesskey "e">
+<!ENTITY syncTypeNews.label "Mensagem de newsgroup">
+<!ENTITY syncTypeNews.accesskey "n">
+<!ENTITY sendMessage.label "Enviar mensagens de Saída">
+<!ENTITY sendMessage.accesskey "E">
+<!ENTITY workOffline.label "Entrar no modo offline ao concluir o download e/ou sincronização">
+<!ENTITY workOffline.accesskey "m">
+<!ENTITY selectButton.label "Selecionar...">
+<!ENTITY selectButton.accesskey "S">
+<!ENTITY MsgSelectDesc.label "Selecione pastas de mail e newsgroups para leitura offline:">
+<!ENTITY MsgSelectInd.label "Receber">
+<!ENTITY MsgSelectItems.label "Pastas e newsgroups">
