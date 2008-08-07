@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "Fjern private data">
+
+<!ENTITY sanitizeItems.label          "Fjern desse elementa no:">
+<!ENTITY clearDataSettings.label      "Når eg spør &brandShortName; om å slette private data skal han slette:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Nettlesarhistorikk">
+<!ENTITY itemHistory.accesskey        "N">
+<!ENTITY itemFormSearchHistory.label  "Lagra skjema- og søkjehistorikk">
+<!ENTITY itemFormSearchHistory.accesskey "L">
+<!ENTITY itemPasswords.label          "Lagra passord">
+<!ENTITY itemPasswords.accesskey      "r">
+<!ENTITY itemCookies.label            "Infokapslar">
+<!ENTITY itemCookies.accesskey        "I">
+<!ENTITY itemCache.label              "Mellomlager">
+<!ENTITY itemCache.accesskey          "M">
+<!ENTITY itemOfflineApps.label        "Fråkopla nettsidedata">
+<!ENTITY itemOfflineApps.accesskey    "F">
+<!ENTITY itemDownloads.label          "Nedlastingshistorikk">
+<!ENTITY itemDownloads.accesskey      "d">
+<!ENTITY itemSessions.label           "Autentiserte økter">
+<!ENTITY itemSessions.accesskey       "A">
+<!ENTITY window.width                 "30em">

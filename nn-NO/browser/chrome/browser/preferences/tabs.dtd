@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "Når ei lenkje opnar eit nytt vindauge, opne henne i:">
+<!ENTITY inNewWindow.label            "eit nytt vindauge">
+<!ENTITY inNewWindow.accesskey        "e">
+<!ENTITY inNewTab.label               "ei ny fane">
+<!ENTITY inNewTab.accesskey           "n">
+
+<!ENTITY warnCloseMultipleTabs.label  "Åtvar meg når eg lèt att eit vindauge med fleire faner">
+<!ENTITY warnCloseMultipleTabs.accesskey  "v">
+
+<!ENTITY warnOpenManyTabs.label       "Åtvar meg når opning av mange faner samstundes kan gjere &brandShortName; treg">
+<!ENTITY warnOpenManyTabs.accesskey   "Å">
+
+<!ENTITY showTabBar.label             "La alltid fanelinja vere synleg">
+<!ENTITY showTabBar.accesskey         "L">
+
+<!ENTITY switchToNewTabs.label        "Når eg opnar ei lenkje i ei ny fane, byt til den fana med ein gong">
+<!ENTITY switchToNewTabs.accesskey    "N">

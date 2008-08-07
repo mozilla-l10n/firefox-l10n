@@ -1,0 +1,83 @@
+<!ENTITY itemGeneral.label       "Generelt">
+<!ENTITY itemUpdate.label        "Oppdatering">
+<!ENTITY itemNetworking.label    "Nettverk og diskplass">
+<!ENTITY itemCertificates.label  "Sertifikat">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Vis berre synleg namn for personar som er i adresseboka">
+<!ENTITY showCondensedAddresses.accesskey "S">
+
+<!ENTITY autoMarkAsRead.label          "Merk meldingar automatisk som lesne">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Med ein gong på skjerm">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Etter vising i">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "sekund">
+<!ENTITY showFolderColumns.label       "Vis utvida kolonner i mappesyninga">
+<!ENTITY showFolderColumns.accesskey   "k">
+<!ENTITY rememberLastMsg.label         "Hugs den sist valte meldinga">
+<!ENTITY rememberLastMsg.accesskey     "H">
+<!ENTITY openMsgIn.label               "Opne nye meldingar i:">
+<!ENTITY reuseExpRadio0.label          "Eit nytt vindauge">
+<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio1.label          "Eit eksisterande meldingsvindauge">
+<!ENTITY reuseExpRadio1.accesskey      "E">
+<!ENTITY reuseExpRadio2.label          "Ei ny meldingsfane">
+<!ENTITY reuseExpRadio2.accesskey      "Z">
+<!ENTITY connectionTimeout.label       "Tidsavbrot for tilkoplingar: ">
+<!ENTITY connectionTimeout.accesskey   "T">
+<!ENTITY connectionSeconds.label       "sekund">
+<!ENTITY configEditDesc.label          "Avanserte innstillingar">
+<!ENTITY configEdit.label              "Endre innstillingar …">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Avgjer korleis &brandShortName; skal handsame returnerte kvitteringar">
+<!ENTITY showReturnReceipts.label      "Send tilbake kvitteringar …">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Sjå etter oppdateringar automatisk for:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAddonsUpdate.label       "Mine tema og utvidingar">
+<!ENTITY enableAddonsUpdate.accesskey   "M">
+<!ENTITY checkNow.label                 "Sjekk no …">
+<!ENTITY whenUpdatesFound.label         "Når oppdateringar til &brandShortName; vert funne,">
+<!ENTITY modeAskMe.label                "Spør meg kva som skal gjerast">
+<!ENTITY modeAskMe.accesskey            "p">
+<!ENTITY modeAutomatic.label            "Last ned og installer oppdateringa automatisk">
+<!ENTITY modeAutomatic.accesskey        "A">
+<!ENTITY modeAutoAddonWarn.label        "Åtvar meg om dette fører til at utvidingar eller tema vert slått av">
+<!ENTITY modeAutoAddonWarn.accesskey    "d">
+<!ENTITY showUpdates.label              "Vis oppdateringshistorikk">
+<!ENTITY showUpdates.accesskey          "o">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Tilkopling">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "Avgjer korleis &brandShortName; skal kople seg til Internett.">
+<!ENTITY connectionsInfo.caption       "Tilkopling">
+<!ENTITY offlineInfo.caption           "Fråkopla">
+<!ENTITY offlineInfo.label             "Endre innstillingane for fråkopla bruk">
+<!ENTITY showOffline.label             "Fråkopla …">
+<!ENTITY showOffline.accesskey         "F">
+
+<!ENTITY Diskspace "Diskplass">
+<!ENTITY offlineCompact.label "Komprimer mapper når det vil spare meir enn">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label " KB">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo2.label        "Handsam sertifikat, tilbakekallingsliste, validering av sertifikat and sikkerheitseiningar.">
+<!ENTITY viewCertificates.label         "Vis sertifikat">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "Tilbakekallingslister">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY validation.label               "Validering">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label      "Sikkerheitseiningar">
+<!ENTITY viewSecurityDevices.accesskey  "g">

@@ -1,0 +1,12 @@
+<!ENTITY dialog.title             "Tilpass verktøylinje">
+<!ENTITY dialog.style             "width: 635px; height: 400px;">
+<!ENTITY instructions.description "Du kan leggje til eller fjerne objekt ved å dra dei til og frå verktøylinja.">
+<!ENTITY show.label               "Vis:">
+<!ENTITY iconsAndText.label       "Ikon og tekst">
+<!ENTITY icons.label              "Ikon">
+<!ENTITY text.label               "Tekst">
+<!ENTITY useSmallIcons.label      "Bruk små ikon">
+<!ENTITY restoreDefaultSet.label  "Gjenopprett standard">
+<!ENTITY addNewToolbar.label      "Ny verktøylinje">
+<!ENTITY saveChanges.label        "Fullfør">
+<!ENTITY undoChanges.label        "Angre endringar">

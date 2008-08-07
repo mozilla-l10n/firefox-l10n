@@ -1,0 +1,79 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+"&brandShortName;" below.
+-->
+
+<!ENTITY importDialog.windowTitle "Import">
+<!ENTITY importDialog.allTitle    "Importer alt">
+<!ENTITY importDialog.mailTitle   "E-post">
+<!ENTITY importDialog.addressbookTitle "Adressebøker">
+<!ENTITY importDialog.settingsTitle "Innstillingar">
+<!ENTITY importDialog.filtersTitle "Filter">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importTitle.label        "&brandShortName; E-postimportvegvisar">
+<!ENTITY importShortDesc.label    "Importer e-post, adressebøker, innstillingar og filter frå andre program">
+
+<!ENTITY importDescription1.label "Denne vegvisaren vil importere e-postmeldingar, oppføringar i adressebøker, innstillingar og/eller filter frå andre e-postprogram og vanlege adressebokformat til &brandShortName;.">
+<!ENTITY importDescription2.label "Når dei er importerte, vil du kunne bruke dei i &brandShortName; e-post og nyhendegrupper og/eller adressebok.">
+
+<!ENTITY selectDescription.label  "Vel programmet du vil importere frå:">
+
+<!ENTITY back.label               "&lt; Tilbake">
+<!ENTITY forward.label            "Neste &gt;">
+<!ENTITY finish.label             "Ferdig">
+<!ENTITY cancel.label             "Avbryt">
+
+<!ENTITY select.label             "Vel typen materiell du vil importere:">
+
+<!ENTITY title.label              "Tittel">
+<!ENTITY processing.label         "Importerer …">
+
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har ei postadresse for kvart kort, medan &brandShortName; har to (heim og adresse)">
+<!ENTITY FieldDiscInputText2.label  "Vel kategorien som du vil lagre dei importerte e-postadressene i:">
+<!ENTITY FieldDiscWarning.label  "Denne kategorien vil verte brukt for alle elementa i den valde adresseboka:">
+<!ENTITY importDialog.homeTitle  "Heim">
+<!ENTITY importDialog.workTitle  "Arbeid">

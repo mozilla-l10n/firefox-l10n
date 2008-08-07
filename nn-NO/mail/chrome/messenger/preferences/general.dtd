@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label              "Standardinnstillingane åt systemet">
+<!ENTITY alwaysCheckDefault.label          "Sjekk alltid om &brandShortName; er standard e-postklient ved oppstart">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Sjekk no">
+<!ENTITY checkNow.accesskey         "N">
+
+<!ENTITY messengerStartPage.label         "&brandShortName; startside">
+<!ENTITY enableStartPage.label            "Når &brandShortName; startar, vis startsida i meldingsområdet">
+<!ENTITY enableStartPage.accesskey        "N">
+<!ENTITY location.label                   "Adresse:">
+<!ENTITY location1.accesskey               "A">
+<!ENTITY useDefault.label                 "Gjenopprett standard">
+<!ENTITY useDefault.accesskey             "G">
+
+<!ENTITY bounceSystemDockIcon.label       "Animer startmeny-ikonet (docking-ikonet)">
+<!ENTITY bounceSystemDockIcon.accesskey   "A">
+
+<!ENTITY newMessagesArrive.label          "Når ei ny melding kjem:">
+<!ENTITY playSound.label                  "Spel av ein lyd">
+<!ENTITY playSound1.accesskey              "p">
+<!ENTITY showAnimatedAlert.label          "Vis ei melding">
+<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY customizeMailAlert.label         "Avansert …">
+<!ENTITY customizeMailAlert.accesskey     "A">
+
+<!ENTITY soundNotification1.caption       "Lyd">
+<!ENTITY play.label                       "Spel">
+<!ENTITY play.accesskey                   "p">
+<!ENTITY systemsound.label                "Bruk standardsystemlyden for ny e-post">
+<!ENTITY systemsoundMac.label             "Systemvarslingslyd">
+<!ENTITY systemsoundMac.accesskey         "l">
+<!ENTITY systemsound.accesskey            "L">
+<!ENTITY customsound.label                "Bruk denne lydfila">
+<!ENTITY customsound.accesskey            "u">
+<!ENTITY browse.label                     "Bla gjennom …">
+<!ENTITY browse.accesskey                 "B">

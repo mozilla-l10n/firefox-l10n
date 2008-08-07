@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Søk:">
+<!ENTITY find.accesskey            "ø">
+<!ENTITY expand.label              "Utvid">
+<!ENTITY expand.accesskey          "U">
+<!ENTITY collapse.label            "Slå saman">
+<!ENTITY collapse.accesskey        "l">
+<!ENTITY byDate.label "Etter dato">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Etter nettstad">
+<!ENTITY bySite.accesskey "n">
+<!ENTITY view.label "Vis">
+<!ENTITY view.accesskey "i">
+<!ENTITY byMostVisited.label "Etter mest vitja">
+<!ENTITY byMostVisited.accesskey "m">
+<!ENTITY byLastVisited.label "Etter sist vitja">
+<!ENTITY byLastVisited.accesskey "s">
+<!ENTITY byDayAndSite.label "Etter dato og nettstad">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "Opne">
+<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openInNewTab.label "Opne i ny fane">
+<!ENTITY openInNewTab.accesskey "f">
+<!ENTITY openInNewWindow.label "Opne i nytt vindauge">
+<!ENTITY openInNewWindow.accesskey "n">
+<!ENTITY bookmarkLink.label "Lag bokmerke av lenkja …">
+<!ENTITY bookmarkLink.accesskey "L">
+<!ENTITY copyLink.label "Kopier lenkjemål">
+<!ENTITY copyLink.accesskey "l">

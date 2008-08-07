@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                 "Namn:">
+<!ENTITY bookmarks.name.accesskey             "N">
+<!ENTITY bookmarks.location.label             "Adresse:">
+<!ENTITY bookmarks.location.accesskey         "A">
+<!ENTITY bookmarks.keyword.label              "Nøkkelord:">
+<!ENTITY bookmarks.keyword.accesskey          "ø">
+<!ENTITY bookmarks.description.label          "Skildring:">
+<!ENTITY bookmarks.description.accesskey      "S">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "Levande titlar">
+<!ENTITY bookmarks.createIn.label             "Opprette i:">
+<!ENTITY bookmarks.createIn.accesskey         "O">
+<!ENTITY bookmarks.feed_location.label        "Adresse for nyhendekjelde:">
+<!ENTITY bookmarks.feed_location.accesskey    "h">
+<!ENTITY bookmarks.site_location.label        "Nettstadplassering:">
+<!ENTITY bookmarks.site_location.accesskey    "p">
+<!ENTITY bookmarks.loadInSidebar.label        "Last inn dette bokmerket i sidestolpen">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "L">
+<!ENTITY bookmarks.expanderDown.tooltip       "Vis alle bokmerkekatalogane">
+<!ENTITY bookmarks.expanderUp.tooltip         "Skjul">
+<!ENTITY bookmarks.newFolderButton.label      "Ny mappe">
+<!ENTITY bookmarks.newFolderButton.accesskey  "N">

@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Skriv ut">
+
+<!ENTITY printDialog.title "Skriv">
+
+<!ENTITY fpDialog.title "Lagre fil">
+
+<!ENTITY fileCheck.label "Skriv ut til fil">
+<!ENTITY propertiesButton.label "Eigenskapar …">
+<!ENTITY descText.label "Skrivarskildring:">
+<!ENTITY printer.label "Skriv">
+<!ENTITY printerInput.label "Skriv:">
+
+<!ENTITY printrangeGroup.label "Skriv ut område">
+<!ENTITY allpagesRadio.label "Alle sidene">
+<!ENTITY rangeRadio.label  "Sider">
+<!ENTITY frompageInput.label  "frå">
+<!ENTITY topageInput.label  "til">
+<!ENTITY selectionRadio.label "Valt område">
+
+<!ENTITY copies.label "Kopier">
+<!ENTITY numCopies.label "Tal på kopiar:">
+
+<!ENTITY printframeGroup.label "Skriv ut rammer">
+<!ENTITY aslaidoutRadio.label "Som det ser ut på skjermen">
+<!ENTITY selectedframeRadio.label  "Den valde ramma">
+<!ENTITY eachframesepRadio.label  "Kvar ramme kvar for seg">

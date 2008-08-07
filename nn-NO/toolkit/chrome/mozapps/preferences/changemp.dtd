@@ -1,0 +1,9 @@
+<!ENTITY setPassword.title                 "Endre hovudpassord">
+<!ENTITY setPassword.tokenName.label       "Sikkerheitseining">
+<!ENTITY setPassword.oldPassword.label     "Noverande passord:">
+<!ENTITY setPassword.newPassword.label     "Nytt passord:">
+<!ENTITY setPassword.reenterPassword.label "Gjenta nytt passord:">
+<!ENTITY setPassword.meter.label           "Måling av passordkvalitet">
+<!ENTITY setPassword.meter.loading         "Lastar">
+<!ENTITY masterPasswordDescription.label   "Eit hovudpassord vert brukt til å verne sensitiv informasjon, som t.d. passord på ulike nettsider. Om du opprettar eit hovudpassord vil du bli spurt etter passordet for kvar programøkt, når &brandShortName; hentar ut den lagra informasjonen som er verna av passordet.">
+<!ENTITY masterPasswordWarning.label       "Ver viss på at du hugsar hovudpassordet du har valt. Om du gløymer hovudpassordet, vil du ikkje få tilgang til informasjonen som er verna av det.">

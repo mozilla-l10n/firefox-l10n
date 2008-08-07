@@ -1,0 +1,6 @@
+<!ENTITY editPageCmd.label                "Rediger side i nettsideutviklingsprogram"> 
+<!ENTITY editPageCmd.accesskey            "R">
+
+<!ENTITY editLinkCmd.label                "Opne i nettsideutviklingsprogrammet">
+<!ENTITY editLinkCmd.accesskey            "E">
+

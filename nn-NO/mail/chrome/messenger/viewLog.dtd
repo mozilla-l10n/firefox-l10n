@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Filterlogg">
+<!ENTITY viewLogInfo.text "Filterloggen er ei fil som viser kva filter som har vorte brukt. Bruk avkryssingsboksen nedanfor for å slå på logging.">
+<!ENTITY clearLog.label "Tøm logg">
+<!ENTITY clearLog.accesskey "T">
+<!ENTITY enableLog.label "Slå på filterlogg">
+<!ENTITY enableLog.accesskey "S">
+<!ENTITY closeLog.label "Lat att">
+<!ENTITY closeLog.accesskey "L">

@@ -1,0 +1,122 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Kopier">
+<!ENTITY  copy.accesskey        "K">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Merk alt">
+<!ENTITY  selectall.accesskey   "M">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Generelt">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "URL:">
+<!ENTITY  generalType           "Type:">
+<!ENTITY  generalMode           "Oppteikningsmodus:">
+<!ENTITY  generalSize           "Storleik">
+<!ENTITY  generalReferrer       "Tilvisande URL:">
+<!ENTITY  generalSource         "Kjelde:">
+<!ENTITY  generalModified       "Endra:">
+<!ENTITY  generalEncoding       "Koding:">
+<!ENTITY  generalMetaName       "Namn">
+<!ENTITY  generalMetaContent    "Innhald">
+<!ENTITY  generalSecurityMore   "Meir">
+<!ENTITY  generalSecurityMore.accesskey "M">
+
+<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Plassering:">
+<!ENTITY  mediaText             "Tilhøyrande tekst:">
+<!ENTITY  mediaAltHeader        "Alternativ tekst">
+<!ENTITY  mediaAddress          "Adresse">
+<!ENTITY  mediaType             "Type">
+<!ENTITY  mediaSize             "Storleik">
+<!ENTITY  mediaCount            "Tal">
+<!ENTITY  mediaDimension        "Dimensjonar:">
+<!ENTITY  mediaLongdesc         "Lang skildring:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Lagre som …">
+<!ENTITY  mediaSaveAs.accesskey "s">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Førehandsvising av media:">
+
+<!ENTITY  feedTab               "Nyhendekjelder">
+<!ENTITY  feedTab.accesskey     "N">
+<!ENTITY  feedSubscribe         "Abonner">
+<!ENTITY  feedSubscribe.accesskey "T">
+
+<!ENTITY  permTab               "Løyve">
+<!ENTITY  permTab.accesskey     "L">
+<!ENTITY  permUseDefault        "Bruk standard">
+<!ENTITY  permAllow             "Tillat">
+<!ENTITY  permAllowSession      "Tillat i økta">
+<!ENTITY  permBlock             "Blokker">
+<!ENTITY  permissionsFor        "Løyve for:">
+<!ENTITY  permImage             "Last bilete">
+<!ENTITY  permPopup             "Opne sprettoppvindauge">
+<!ENTITY  permCookie            "Still inn infokapslar">
+<!ENTITY  permInstall           "Installer utvidingar eller tema">
+
+<!ENTITY  securityTab           "Sikkerheit">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Sikkerheitsinfo for denne sida">
+<!ENTITY  securityView.certView "Vis sertifikat">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Ukjend">
+
+
+<!ENTITY  securityView.identity.header   "Nettstadsidentitet">
+<!ENTITY  securityView.identity.owner    "Eigar: ">
+<!ENTITY  securityView.identity.domain   "Nettstad: ">
+<!ENTITY  securityView.identity.verifier "Stadfesta av: ">
+
+<!ENTITY  securityView.privacy.header                   "Personvern og historikk">
+<!ENTITY  securityView.privacy.history                  "Har eg vitja denne nettsida tidlegare i dag?">
+<!ENTITY  securityView.privacy.cookies                  "Lagrar denne nettsida informasjon (infokapslar) på maskina mi?">
+<!ENTITY  securityView.privacy.viewCookies              "Vis infokapslar">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Har eg lagra passord for denne nettsida?">
+<!ENTITY  securityView.privacy.viewPasswords            "Vis lagra passord">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "V">
+
+<!ENTITY  securityView.technical.header                 "Tekniske detaljar">

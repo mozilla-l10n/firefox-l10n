@@ -1,0 +1,50 @@
+<!ENTITY  updateWizard.title              "&brandShortName; oppdatering">
+
+<!ENTITY  offline.title                   "&brandShortName; arbeider fråkopla">
+<!ENTITY  offline.description             "&brandShortName; må kople til for å sjå om oppdateringar er tilgjengelege for utvidingane dine, for å gjere dei kompatible med denne versjonen.">
+<!ENTITY  offline.toggleOffline.label     "Gå til tilkopla modus no.">
+<!ENTITY  offline.toggleOffline.accesskey "G">
+
+<!ENTITY  mismatch.win.title              "Ikkje-kompatible programtillegg">
+<!ENTITY  mismatch.top.label              "Følgjande komponentar er ikkje kompatible med den nye versjonen av &brandShortName; og er slått av">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; kan sjå etter og installere nyare, kompatible versjonar av desse programtillegga.">
+
+<!ENTITY  checking.wizard.title           "Ser etter kompatible programtillegg">
+<!ENTITY  checking.top.label              "Ser etter oppdateringar for dei inkompatible programtillegga dine …">
+<!ENTITY  checking.status                 "Dette kan ta nokre minutt …">
+
+<!ENTITY  found.wizard.title               "Fann kompatible programtillegg">
+<!ENTITY  found.top.label                 "Vel dei programtillegga du ønskjer å installere:">
+<!ENTITY  found.disabledXPinstall.label   "Desse oppdateringane kan ikkje instalerast fordi programvareinstallering er slått av. Du kan endre dette i innstillingane under.">
+<!ENTITY  found.enableXPInstall.label     "Tillat nettsider å installere programvare.">
+<!ENTITY  found.enableXPInstall.accesskey "T">
+
+<!ENTITY  installing.wizard.title         "Installerer oppdateringer">
+<!ENTITY  installing.top.label            "Lastar ned og installerer oppdateringar til programtillegga dine …">
+
+<!ENTITY  noupdates.wizard.title          "Ingen kompatible programtillegg funne">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; fann ikkje oppdateringar til dei ikkje-kompatible programtillegga dine.">
+<!ENTITY  noupdates.error.desc            "Det oppstod nokre problem ved søk etter oppdateringar.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; vil med jamne mellomrom sjekke, og informere deg når kompatible versjonar for desse progamtillegga vert funne.">
+
+<!ENTITY  finished.wizard.title           "Oppdatering fullført">
+<!ENTITY  finished.top.label              "&brandShortName; har installert dei tilgjengelege oppdateringene for programtillegga dine.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; kan med jamne mellomrom sjekke, og informere deg når kompatible versjonar for progamtillegga vert funne.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; vil med jamne mellomrom sjekke, og informere deg når kompatible versjonar for progamtillegga vert funne.">
+
+<!ENTITY  adminDisabled.wizard.title      "Klarte ikkje å sjå etter oppdateringar">
+<!ENTITY  adminDisabled.warning.label     "Det er ikkje mogleg å sjå etter oppdateringar for ikkje-kompatible programtillegg fordi programvareinstallasjonen for &brandShortName; er slått av. Kontakt systemadministrator for hjelp.">
+
+<!ENTITY  versioninfo.wizard.title        "Sjekkar kompatibliteten til programtillegga">
+<!ENTITY  versioninfo.top.label           "Sjekkar kompatibliteten til programtillegga dine med denne versjonen av &brandShortName;.">
+<!ENTITY  versioninfo.waiting             "Dette kan ta nokre minutt …">
+
+<!ENTITY  installerrors.wizard.title      "Problem med å installere oppdateringane">
+<!ENTITY  installerrors.intro.label       "&brandShortName; møtte problem under oppdateringa av nokre av programtillegga dine.">
+
+<!-- general strings used by several of the finish pages -->
+<!ENTITY  clickFinish.label               "Trykk «Fullfør» for å halde fram oppstartinga av &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Trykk «Ferdig» for å halde fram oppstartinga av &brandShortName;.">
+<!ENTITY  enableChecking.label            "Tillat &brandShortName; å sjå etter oppdateringar.">
+<!ENTITY  details.label                   "Detaljar …">
+<!ENTITY  details.accesskey               "D">

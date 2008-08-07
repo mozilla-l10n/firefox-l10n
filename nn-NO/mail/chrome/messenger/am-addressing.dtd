@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label          "Adressering og utforming">
+<!ENTITY addressingGroupTitle.label "Adressering">
+<!ENTITY addressingText.label      "Ved adresseoppslag:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Bruk globale LDAP-tenarinnstillingar for denne kontoen.">
+<!ENTITY useGlobal.accesskey       "G">
+<!ENTITY editDirectories.label     "Rediger katalogar …">
+<!ENTITY editDirectories.accesskey "K">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Bruk ein annan LDAP-tenar:">
+<!ENTITY directories.accesskey     "K">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Utforming">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Skriv meldingar i HTML-format">
+<!ENTITY useHtml.accesskey                    "k">
+<!ENTITY autoQuote.label                      "Siter den originale meldinga ved svar">
+<!ENTITY autoQuote.accesskey                  "i">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label                           "Sitering:">
+<!ENTITY then.accesskey                       "r">
+<!ENTITY aboveQuote.label                     "start svaret ovanfor den siterte teksten">
+<!ENTITY belowQuote.label                     "start svaret nedanfor den siterte teksten">
+<!ENTITY selectAndQuote.label                 "merk den siterte teksten">
+<!ENTITY place.label                          "Plasser signaturen min">
+<!ENTITY place.accesskey                      "P">
+<!ENTITY belowText.label                      "under sitert tekst (tilrådd)">
+<!ENTITY aboveText.label                      "under svaret mitt (over sitert tekst)">

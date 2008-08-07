@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title             "Innstillingar for nyhende">
+
+<!ENTITY feedFolder.label         "Lagre nyhendeartiklar i: ">
+<!ENTITY feedFolder.accesskey     "L">
+
+<!ENTITY feedLocation.label       "Adresse (URL): ">
+<!ENTITY feedLocation.accesskey   "A">
+
+<!ENTITY choosethisfolder.label   "vel denne mappa">
+
+<!ENTITY quickMode.label          "Vis artikkeloppsummering i staden for å laste inn nettsida">
+<!ENTITY quickMode.accesskey      "V">
+
+<!ENTITY copyLinkCmd.label        "Kopier lenkjemål">
+<!ENTITY copyLinkCmd.accesskey    "K">
+
+<!ENTITY pasteLinkCmd.label       "Lim inn">
+<!ENTITY pasteLinkCmd.accesskey   "L">

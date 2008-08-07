@@ -1,0 +1,6 @@
+amazon-en-GB
+bok-NO
+google
+qxl-NO
+telefonkatalogen-NO
+wikipedia-NN

@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "For å spare diskplass, ikkje last ned:">
+<!ENTITY doNotDownload.label "For å spare diskplass, ikkje last ned for fråkopla bruk:">
+<!ENTITY offlineNewFolder.label "Når eg opprettar nye mapper, merk dei for fråkopla bruk">
+<!ENTITY offlineNewFolder.accesskey "N">
+<!ENTITY offlineNotDownload.label "Meldingar større enn">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "dagar">
+<!ENTITY daysOld.label "dagar gammal">
+<!ENTITY message.label "meldingar">
+<!ENTITY nntpNotDownloadRead.label "Lesne meldingar">
+<!ENTITY nntpNotDownloadRead.accesskey "L">
+<!ENTITY nntpDownloadMsg.label "Meldingar meir enn">
+<!ENTITY nntpDownloadMsg.accesskey "M">
+<!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldingar verte permanent sletta">
+<!ENTITY retentionKeepMsg.label "Slett meldingar meir enn">
+<!ENTITY retentionKeepMsg.accesskey "e">
+<!ENTITY retentionKeepAll.label "Ikkje slett nokon meldingar">
+<!ENTITY retentionKeepAll.accesskey "I">
+<!ENTITY retentionKeepNew.label "Slett alle med unntak av dei siste">
+<!ENTITY retentionKeepNew.accesskey "u">
+<!ENTITY retentionKeepUnread.label "Alltid slett lesne meldingar">
+<!ENTITY retentionKeepUnread.accesskey "A">
+<!ENTITY nntpRemoveBody.label "Fjern meldingsinnhald eldre enn">
+<!ENTITY nntpRemoveBody.accesskey "m">
+<!ENTITY offlineSelectNntp.label "Vel nyhendegrupper som skal lesast fråkopla">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineSelectImap.label "Vel mapper for fråkopla bruk ...">
+<!ENTITY offlineSelectImap.accesskey "S">
+<!ENTITY offlineDesc.label "Du kan laste ned meldingar lokalt, slik at dei vert tilgjengelege når du arbeider i fråkopla modus.">
+<!ENTITY makeInboxMsgsAvailable.label "Gjer meldingane i Innboksen tilgjengelege når eg arbeider fråkopla">
+<!ENTITY makeInboxMsgsAvailable.accesskey "G">
+<!ENTITY offlineGroupTitle.label "Fråkopla">
+<!ENTITY diskspaceGroupTitle.label "Diskplass">

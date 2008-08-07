@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label            "Adressebok:">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchInput.label                  "Søk etter:">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY SearchNameOrEmail.label            "Namn eller e-post">
+
+<!ENTITY deleteAddrBookCard.label           "Slett">
+<!ENTITY addrBookCardProperties.label       "Eigenskapar">
+<!ENTITY addtoToFieldMenu.label             "Legg til i Til-feltet">
+<!ENTITY addtoCcFieldMenu.label             "Legg til i Kopi-feltet">
+<!ENTITY addtoBccFieldMenu.label            "Legg til i Blindkopi-feltet">
+
+<!ENTITY toButton.label                     "Legg til i Til:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Legg til som Kopi:">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "Legg til som blindkopi:">
+<!ENTITY bccButton.accesskey                "B">

@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS-abonnement">
+<!ENTITY subscriptionDesc.label "Merk: Sletting eller endring av ei mappe for ei nyhendekjelde vil ikkje påverke tidlegare nedlasta artiklar.">
+<!ENTITY feedTitle.label "Tittel:">
+<!ENTITY location.label  "Adresse:">
+
+<!ENTITY button.addFeed.label       "Legg til">
+<!ENTITY button.addFeed.accesskey   "L">
+<!ENTITY button.editFeed.label      "Endre">
+<!ENTITY button.editFeed.accesskey  "R">
+<!ENTITY button.removeFeed.label "Slett">
+<!ENTITY button.removeFeed.accesskey   "S">
+<!ENTITY button.importOPML.label "Importer">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Eksporter">
+<!ENTITY button.exportOPML.accesskey   "E">
+
+<!ENTITY cmd.close.commandKey             "w">

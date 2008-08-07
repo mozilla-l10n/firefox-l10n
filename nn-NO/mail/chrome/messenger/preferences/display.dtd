@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "Formatering">
+<!ENTITY itemTags.label                   "Merkelappar">
+<!ENTITY itemFonts.label                  "Skrifttypar">
+
+<!ENTITY textBegin.label                  "Sitert tekst-utsjånad">
+<!ENTITY style.label                      "Stil:">
+<!ENTITY style.accesskey                  "t">
+<!ENTITY regularStyle.label               "Vanleg">
+<!ENTITY bold.label                       "Feit">
+<!ENTITY italic.label                     "Kursiv">
+<!ENTITY boldItalic.label                 "Feit og kursiv">
+<!ENTITY size.label                       "Storleik:">
+<!ENTITY size.accesskey                   "s">
+<!ENTITY regularSize.label                "Normal">
+<!ENTITY bigger.label                     "Større">
+<!ENTITY smaller.label                    "Mindre">
+<!ENTITY color.label                      "Farge:">
+<!ENTITY color.accesskey                  "F">
+<!ENTITY displayWidth.label               "Meldingar i normal tekst">
+<!ENTITY plainText.label                  "Bruk denne skrifttypen:">
+<!ENTITY displayText.label                "Når ein viser sitat i tekstmeldingar:">
+<!ENTITY viewingPlainText.label            "Når ein viser reine tekstmeldingar:">
+<!ENTITY fixedWidth.label                 "Skrifttype med fast breidde">
+<!ENTITY fixedWidth.accesskey             "k">
+<!ENTITY variableWidth.label              "Skrifttype med variabel skriftbreidde">
+<!ENTITY variableWidth.accesskey          "V">
+<!ENTITY readingMessagesHeader.label      "For innkomande meldingar">
+<!ENTITY colors.label                     "Fargar">
+<!ENTITY overrideColors.label             "Når du viser meldingar, bruk følgjande fargar:">
+<!ENTITY textColor.label                  "Tekstfarge:">
+<!ENTITY textColor.accesskey              "T">
+<!ENTITY backgroundColor.label            "Bakgrunnsfarge:">
+<!ENTITY backgroundColor.accesskey        "b">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Vis smilefjes som grafikk">
+<!ENTITY convertEmoticons.accesskey    "g">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label    "Merkelappar kan brukast for å kategorisere og prioritere meldingane dine.">
+<!ENTITY addTagButton.label       "Legg til">
+<!ENTITY addTagButton.accesskey   "L">
+<!ENTITY editTagButton.label      "Rediger">
+<!ENTITY editTagButton.accesskey   "R">
+<!ENTITY removeTagButton.label    "Slett">
+<!ENTITY removeTagButton.accesskey "S">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label  "Endre skrifttypar og kodar &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label      "Skrifttypar og kodar">
+<!ENTITY fontOptions.accesskey   "S">
+<!ENTITY fontOptions.label       "Skrifttypar …">

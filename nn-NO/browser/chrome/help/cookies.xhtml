@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Administrere infokapslar</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Administrere infokapslar</h1>
+
+<p>Dette kapittelet skildrar kva infokapslar er, korleis dei vert brukte og korleis du kan
+  kontrollere infokapslane p&aring; datamaskina di ved hjelp av Infokapselhandsamaren i 
+  &brandFullName;.</p>
+
+<div class="contentsBox">I denne delen:
+  <ul>
+    <li><a href="#what_is_a_cookie">Kva er ein infokapsel?</a></li>
+    <li><a href="#setting_up_cookie_rules">Set opp reglar for infokapslar</a></li>
+    <li><a href="#accepting_and_blocking_cookies">Aksepter og blokker infokapslar</a></li>
+    <li><a href="#the_cookie_manager">Administrere infokapslar</a></li>
+  </ul>
+</div>
+
+<h2 id="what_is_a_cookie">Kva er ein infokapsel?</h2>
+
+<p>Ein infokapsel er ei fil laga av internettsider for &aring; lagre informasjon p&aring; datamaskina 
+  di, som t.d. vala du har gjort for korleis sida skal sjå ut n&aring;r du vitjar ho. N&aring;r du vitjar ei nettside 
+  som bruker infokapslar, kan sida be &brandShortName; om &aring; lagre ein eller fleire infokapslar 
+  p&aring; harddisken din.</p>
+
+<p>Når du seinare kjem attende til nettsida vil &brandShortName; sende tilbake informasjonen 
+  som ligg i infokapselen. Dette tillet nettsida &aring; endre innhaldet etter dine ønskje
+  kvar gong du er inne.</p>
+
+<p>Infokapslar kan óg lagre personleg identifiserbar informasjon. Personleg identifiserbar
+  informasjon er informasjon som kan brukast til &aring; identifisere eller kontakte deg, til dømes
+  namnet ditt, e-postadressa, adressa, eller telefonnummeret ditt. Likevel, ei nettside 
+  har berre tilgjenge til den informasjonen som du gjev henne. Til dømes kan ikkje ei nettside
+  f&aring; tilgjenge til e-postadressa di utan at du gjev henne til nettsida. Ei nettside har heller 
+  ikkje tilgjenge til annan informasjon p&aring; datamaskina di.</p>
+
+<p>N&aring;r du bruker standardinnstillingane til infokapslar, er alt dette usynleg for deg. Du vil 
+  ikkje sj&aring; n&aring;r ei nettside lagar ein infokapsel p&aring; di maskin, eller n&aring;r &brandShortName; 
+  sender ein infokapsel til ei nettside. Du kan setje opp innstillingane slik at du vil verte spurd kvar 
+  gong ei nettside vil lagre ein infokapsel hjå deg.</p>
+
+<h2 id="setting_up_cookie_rules">Setje reglar for infokapslar</h2>
+
+<p>Som standard vil &brandShortName; akseptere alle infokapslar. Om du vil ha meir kontroll over
+kva for infokapslar som vert lagra, kan du følgje desse instruksjonane:</p>
+
+<ol>
+  <li>Vel &pref.menuPath;.</li>
+  <li>Trykk p&aring; ruta kalla Personvern og s&aring; p&aring; seksjonen Infokapslar</li>
+  <li>Vel innstillinga <em>Sp&oslash;r meg kvar gong</em> frå kombinasjonsboksen <span class="menuPath">
+    Ta vare på infokapslar</span>.</li>
+</ol>
+
+<p><img src="&images.baseURL;/cookie_ask.png" alt=""
+  width="492" height="318"/></p>
+
+<p>N&aring;r dette er gjort kan du sjølv velja kva infokapslar som vert lagra og kva infokapslar som ikkje vert lagra.</p>
+
+<h3 id="other_settings">Andre innstillingar</h3>
+
+<p>Det finst óg andre innstillingar som kan p&aring;virke korleis infokapslar vert handsama av &brandShortName;.
+  Dei trengst ikkje for at infokapslar skal virke, men er forklart:</p>
+
+<dl>
+  <dt>Tillat infokapslar</dt>
+  <dd><p>Om du ikkje vil tillate nokon sider &aring; lagre infokapslar p&aring; datamaskina di, deaktiver 
+    denne innstillinga. Men hugs at nokre sider ikkje vil fungere tilfredstillande om infokapslar 
+    ikkje er tillatne.</p></dd>
+  <dt>Berre for den opphavlege nettstaden</dt>
+  <dd>
+    <p>Dersom &brandShortName; lagrar ein infokapsel frå ein nettstad vil han berre returnere den informasjonen 
+      til den spesifikke nettstaden. &brandShortName; vil ikkje sende informasjon frå infokapslane til ei nettside
+      over til ei anna nettside. Sidan ei nettside berre kan motta sine eigne infokapslar,
+      kan ho finne ut korleis du brukar den sida, 
+      men ikkje korleis du oppf&oslash;rer deg p&aring; andre nettsider.</p>
+    <p>Nokre gonger viser ei nettside innhald frå ein annan tenar, 
+      utan at det er spesielt enkelt &aring; oppdage. Det kan vere b&aring;de tekst, 
+      bilete eller reklame. Den andre tenaren har óg høve til &aring; 
+      lagre infokapslar i &brandShortName;, sjølv om du ikkje har vitja den 
+      sida direkte.</p>
+    <p>Infokapslar som vert laga av andre sider enn den du vitjar 
+      vert kalla tredjeparts infokapslar, eller framande infokapslar. Nettsider bruker nokre gonger 
+      tredjeparts infokapslar med gjennomsiktige bilete. Det er spesielle bilete som 
+      hjelper nettsider &aring; telje brukarar, spore e-post, l&aelig;re seg korleis du bruker sida deira 
+      eller dynamisk tilpasse nettsida til din bruk. 
+      N&aring;r denne avkryssingsboksen er valt, 
+      hindrar &brandShortName; desse framande infokapslane frå &aring; 
+      lagrast.</p>
+  </dd>
+  <dt>Ta vare på infokapslar:</dt>
+  <dd>
+  <ul>
+    <li><strong>Til dei er forelda</strong>: Om denne innstillinga er valt 
+      vil infokapslane verte fjerna n&aring;r dei er forelda.</li>
+    <li><strong>Til eg avsluttar &brandShortName;:</strong> Om denne innstillinga er valt
+      vil infokapslane verte sletta n&aring;r du avsluttar 
+      &brandShortName;. Nettsider som bruker infokapslane vil framleis 
+      fungere, men om du startar &brandShortName; p&aring; nytt vil nettsida tru at 
+      det er første gong du loggar inn. </li>
+    <li><strong>Sp&oslash;r meg kvar gong:</strong> Viser ei åtvaring kvar gong ei nettside
+      pr&oslash;ver &aring; lagre ein infokapsel. Denne åtvaringa let deg velje om du vil tillate nettsida &aring; lagre infokapselen
+      eller ikkje.</li>
+  </ul>
+  </dd>
+</dl>
+
+<h2 id="accepting_and_blocking_cookies">Aksepter og blokker infokapslar</h2>
+
+<p>Om du har stilt han inn til &aring; sp&oslash;rje deg kvar gong vil du sjå
+  denne dialogboksen n&aring;r ei nettside pr&oslash;ver &aring; lagre ein infokapsel:</p>
+
+<p><img src="&images.baseURL;/cookie_accept.png"
+  alt="" width="416" height="87"/></p>
+
+<dl>
+  <dt>Tillat infokapselen</dt>
+  <dd>For &aring; tillate ein særskild infokapsel, trykkjer du <em>Tillat</em>. Dersom du har tillit
+    til den nettsida og ikkje vil ha dialogboksen kvar gong nettsida pr&oslash;ver &aring;
+    lagre ein infokapsel kan du velje <em>Bruk dette valet for alle infokapslar frå denne
+    nettstaden</em> og s&aring; trykkje <em>Tillat</em>. &brandShortName; vil
+    hugsa dette og ikkje sp&oslash;rje om infokapslar frå den nettsida fleire gonger. Om du seinare angrar,
+    les <em>Administrere infokapslar</em>.</dd>
+  <dt>Blokkere ein infokapsel</dt>
+  <dd>Om du ikkje vil lagra infokapselen, trykk <em>Avslå</em>. Dersom du ikkje stolar 
+    p&aring; nettsida kan du velje <em>Bruk
+    dette valet for alle infokapslar frå denne nettstaden</em> og s&aring; trykkje 
+    <em>Avsl&aring;</em>. &brandShortName; vil då lagre nettsida i lista
+    over blokkerte sider, og aldri lagre infokapslar frå henne. Om du seinare angrar, kan
+    du bruka Infokapselhandsamaren.</dd>
+</dl>
+
+<h2 id="the_cookie_manager">Administrere infokapslar</h2>
+
+<p>Bruk Infokapselhandsamaren for &aring; vise og fjerne infokapslar, og fjerne særskilde
+  nettsideinnstillingar. Du kan finne han i infokapseldelen av 
+  Personvern i Innstillingar.</p>
+
+<h3 id="the_cookie_list">Lista over infokapslar</h3>
+
+<p><img src="&images.baseURL;/cookie_list.png"
+  width="460" height="297" alt=""/></p>
+
+<p><em>Infokapselhandsamaren</em> viser deg alle infokapslar som er lagra
+  p&aring; datamaskina di på dette tidspunktet. Du kan velje kvar enkelt for &aring; 
+  vise meir informasjon om han. Du kan og s&oslash;kje etter ein nettstad eller namnet på ein infokapsel
+  ved &aring; skrive inn namnet i s&oslash;kelinja. Bruk knappen <em>Vis infokapslar</em> i Infokapslar 
+  under Personvern for &aring; f&aring; tilgjenge til dette vindauget.</p>
+
+<p>For &aring; fjerne ein infokapsel frå lista, vel han og trykk p&aring; <em>Fjern infokapsel</em>.
+  For &aring; fjerne alle infokapslar frå ein utvald nettstad, vel nettstaden og trykk <em>Fjern
+  infokapslar</em>. For &aring; fjerne alle infokapslar, vel <em>Fjern alle infokapslar</em>. 
+  (Dette er det same som &aring; trykkje p&aring; knappen <em>T&oslash;m</em> i
+  <a href="prefs.xhtml#privacy_options">Infokapslar-fana</a> i personvern-panelet
+  i &pref.pluralCaps;-vindauget.)</p>
+
+<h3 id="the_site_list">Lista over nettsider</h3>
+
+<p><img src="&images.baseURL;/cookie_manager.png"
+  alt="" width="263" height="291"/></p>
+
+<p>Dette er lista over sider som enten er tillatne eller blokkerte frå &aring; lagre
+  infokapslar p&aring; datamaskina di. I kolonna Status kan du sjå om sida er 
+  blokkert eller tillaten. Bruk knappen <em>Unntak</em> i Infokapslar for 
+  &aring; finne dette vindauget.</p>
+
+<p>&Aring; leggje til ein nettstad i denne lista er so enkelt som &aring; skrive inn domenenamnet til nettstaden i 
+  feltet <em>Adressa til nettstaden:</em>.  Så klikkar du anten <em>Blokker</em> for &aring; 
+  blokkere nettstaden eller <em>Tillat</em> for &aring; tillate infokapslar frå 
+  nettstaden.</p>
+
+<p>For &aring; fjerne ein nettstad frå lista, vel han og trykk <em>Fjern nettstad</em>. For 
+  &aring; fjerne heile lista trykkjer du <em>Fjern alle nettstader</em>. Dette vil nullstille 
+  reglane og du vil sjå dialogboksar for kvar infokapsel att.</p>
+
+<div class="contentsBox"><em>12 September 2006</em></div>
+<p>Opphavsrett &copy; &copyright.years; Bidragsytarar til Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

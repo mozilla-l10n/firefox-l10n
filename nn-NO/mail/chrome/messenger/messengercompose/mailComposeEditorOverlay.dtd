@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Send dette biletet som vedlegg i meldinga">
+<!ENTITY attachImageSource.accesskey     "S">
+
+<!ENTITY attachLinkSource.label          "Knyt kjelda åt denne lenkja til meldinga">
+<!ENTITY attachLinkSource.accesskey      "T">

@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title "Innstillingar for fråkopla bruk">
+
+<!ENTITY textStartUp "Ved oppstart:">
+<!ENTITY radioRememberPrevState.label "Hugs tidlegare påloggastatus">
+<!ENTITY radioRememberPrevState.accesskey "H">
+<!ENTITY radioAskMe.label "Spør meg om påloggastatus ved oppstart">
+<!ENTITY radioAskMe.accesskey "S">
+<!ENTITY radioAlwaysOnline.label "Start alltid opp pålogga">
+<!ENTITY radioAlwaysOnline.accesskey "t">
+
+<!ENTITY textGoingOnline "Sende usende meldingar når eg koplar til?">
+<!ENTITY radioAutoSend.label "Ja">
+<!ENTITY radioAutoSend.accesskey "J">
+<!ENTITY radioNotSend.label "Nei">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent.label "Spr meg">
+<!ENTITY radioAskUnsent.accesskey "S">
+<!ENTITY textGoingOffline "Laste ned meldingar for fråkopla bruk når eg koplar i frå?">
+<!ENTITY radioAutoDownload.label "Ja">
+<!ENTITY radioAutoDownload.accesskey "a">
+<!ENTITY radioNotDownload.label "Nei">
+<!ENTITY radioNotDownload.accesskey "e">
+<!ENTITY radioAskDownload.label "Spør meg">
+<!ENTITY radioAskDownload.accesskey "p">

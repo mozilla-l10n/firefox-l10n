@@ -1,0 +1,37 @@
+<!ENTITY startup.label             "Startside">
+
+<!ENTITY startupPage.label         "Når &brandShortName; startar:">
+<!ENTITY startupPage.accesskey     "N">
+<!ENTITY startupHomePage.label     "Vis startsida">
+<!ENTITY startupBlankPage.label    "Vis tom side">
+<!ENTITY startupLastSession.label  "Vis vindauga og fanene som vart brukte sist">
+<!ENTITY location.label            "Adresse:">
+<!ENTITY location.accesskey        "A">
+<!ENTITY useCurrentPage.label      "Bruk open nettside">
+<!ENTITY useCurrentPage.accesskey  "B">
+<!ENTITY useMultiple.label         "Bruk opne nettsider">
+<!ENTITY useBookmark.label         "Bruk bokmerke">
+<!ENTITY useBookmark.accesskey     "k">
+<!ENTITY restoreDefault.label      "Gjenopprett standard">
+<!ENTITY restoreDefault.accesskey  "s">
+
+<!ENTITY downloads.label     "Nedlastingar">
+
+<!ENTITY showWhenDownloading.label     "Vis nedlastingsvindauget når eg lastar ned ei fil">
+<!ENTITY showWhenDownloading.accesskey "V">
+<!ENTITY closeWhenDone.label "Lat det att når alle nedlastingar er fullførte.">
+<!ENTITY closeWhenDone.accesskey "d">
+<!ENTITY saveTo.label "Lagre filer til">
+<!ENTITY saveTo.accesskey "L">
+<!ENTITY chooseFolderWin.label        "Bla gjennom …">
+<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderMac.label        "Vel …">
+<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAsk.label "Spør alltid om kvar eg vil lagre filene">
+<!ENTITY alwaysAsk.accesskey "ø">
+
+<!ENTITY addonsMgr.label               "Utvidingar">
+<!ENTITY manageAddonsDescWin.label     "Endre innstillingar for utvidingane">
+<!ENTITY manageAddonsDescUnix2.label   "Endre val for utvidingane">
+<!ENTITY manageAddons.label            "Handsam utvidingar …">
+<!ENTITY manageAddons.accesskey        "M">

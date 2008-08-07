@@ -1,0 +1,55 @@
+<!ENTITY  history.label "Historikk">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Ta vare på historikken i minst">
+<!ENTITY  rememberDaysBefore.accesskey  "v">
+<!ENTITY  rememberDaysAfter2.label      "dagar">
+
+<!ENTITY  rememberForms.label           "Hugs kva eg skriv inn i skjema og søkjefeltet">
+<!ENTITY  rememberForms.accesskey       "u">
+
+<!ENTITY  rememberDownloads.label       "Hugs filer som er lasta ned">
+<!ENTITY  rememberDownloads.accesskey   "s">
+
+
+<!ENTITY  cookies.label                 "Infokapslar">
+
+<!ENTITY  acceptCookies.label           "Tillat infokapslar">
+<!ENTITY  acceptCookies.accesskey       "T">
+
+<!ENTITY  acceptThirdParty.label        "Godta tredjeparts infokapslar">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  keepUntil.label               "Ta vare på til:">
+<!ENTITY  keepUntil.accesskey           "a">
+
+<!ENTITY  expire.label                  "dei går ut på dato">
+<!ENTITY  close.label                   "eg lèt att &brandShortName;">
+<!ENTITY  askEachTime.label             "spør meg kvar gong">
+
+<!ENTITY  cookieExceptions.label        "Unntak …">
+<!ENTITY  cookieExceptions.accesskey    "U">
+
+<!ENTITY  showCookies.label             "Vis infokapslar …">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "Private data">
+
+<!ENTITY  alwaysClear.label              "Slett alltid private data når eg lèt att &brandShortName;">
+<!ENTITY  alwaysClear.accesskey          "A">
+
+<!ENTITY  askBeforeClear.label           "Spør meg før private data vert sletta">
+<!ENTITY  askBeforeClear.accesskey       "S">
+
+<!ENTITY  clearDataSettings.label        "Innstillingar …">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "Slett no …">
+<!ENTITY  clearDataNow.label2            "Slett no">
+<!ENTITY  clearDataNow.accesskey         "n">

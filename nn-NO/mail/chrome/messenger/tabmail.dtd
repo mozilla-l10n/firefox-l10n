@@ -1,0 +1,12 @@
+<!ENTITY  untitledTab              "(Utan namn)">
+<!ENTITY  newTab.label             "Ny fane">
+<!ENTITY  newTab.accesskey         "N">
+<!ENTITY  closeTab.label           "Lat att fane">
+<!ENTITY  closeTab.accesskey       "c">
+<!ENTITY  closeOtherTabs.accesskey "o">
+<!ENTITY  closeOtherTabs.label     "Lat att andre faner">
+<!ENTITY  reloadAllTabs.label      "Oppdater alle faner">
+<!ENTITY  reloadAllTabs.accesskey  "A">
+<!ENTITY  reloadTab.label          "Oppdater fane">
+<!ENTITY  reloadTab.accesskey      "r">
+<!ENTITY  listAllTabs.label        "List opp alle fanene">

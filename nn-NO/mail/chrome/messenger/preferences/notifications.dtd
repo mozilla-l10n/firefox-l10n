@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "Tilpass ny e-postlyd">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Vel kva for felt som skal visast i varselmeldinga:">
+<!ENTITY previewText.label                "Førehandsvising av meldingstekst">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "Emne">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "Avsendar">
+<!ENTITY sender.accesskey                 "e">
+

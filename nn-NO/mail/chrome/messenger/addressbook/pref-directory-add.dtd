@@ -1,0 +1,75 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-2002
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY newDirectoryTitle.label           "Eigenskapar for katalogtenar">
+<!ENTITY directoryName.label               "Namn: ">
+<!ENTITY directoryName.accesskey           "N">
+<!ENTITY directoryHostname.label           "Tenarnamn: ">
+<!ENTITY directoryHostname.accesskey       "T">
+<!ENTITY directoryBaseDN.label             "Base DN: ">
+<!ENTITY directoryBaseDN.accesskey         "B">
+<!ENTITY findButton.label                  "Søk">
+<!ENTITY findButton.accesskey              "S">
+<!ENTITY directorySecure.label             "Bruk sikker oppkopling (SSL)">
+<!ENTITY directorySecure.accesskey         "S">
+<!ENTITY directoryLogin.label              "Bind DN: ">
+<!ENTITY directoryLogin.accesskey          "i">
+<!ENTITY advancedOptionsButton.label       "Avanserte innstillingar">
+<!ENTITY advancedOptionsButton.accesskey   "A">
+<!ENTITY General.tab                       "Generelt">
+<!ENTITY Offline.tab                       "Fråkopla">
+<!ENTITY Advanced.tab                      "Avansert">
+<!ENTITY advancedOptionsTitle.label        "Avanserte innstillingar">
+<!ENTITY portNumber.label                  "Portnummer: ">
+<!ENTITY portNumber.accesskey              "P">
+<!ENTITY searchFilter.label                "Søkjefilter: ">
+<!ENTITY searchFilter.accesskey            "f">
+<!ENTITY scope.label                       "Omfang: ">
+<!ENTITY scope.accesskey                   "O">
+<!ENTITY scopeOneLevel.label               "Eitt nivå">
+<!ENTITY scopeOneLevel.accesskey           "E">
+<!ENTITY scopeSubtree.label                "Undertre">
+<!ENTITY scopeSubtree.accesskey            "U">
+<!ENTITY return.label                      "Ikkje returner meir enn">
+<!ENTITY return.accesskey                  "r">
+<!ENTITY results.label                     "resultat">
+<!ENTITY offlineText.label                 "Du kan laste ned ein lokal kopi av katalogen slik at han er tilgjengeleg når du arbeider frakopla.">
+<!-- Localization note: this is here because the width of the dialog 
+     is determined by the width of the base DN box; and that is likely
+     to vary somewhat with the language.
+-->
+<!ENTITY newDirectoryWidth                 "36em">

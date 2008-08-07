@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "Avanserte kontoinnstillingar">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "Avanserte IMAP-tenarinnstillingar">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP-tenarkatalog:">
+<!ENTITY serverDirectory.accesskey "T">
+<!ENTITY usingSubscription.label "Berre vis mapper du tingar">
+<!ENTITY usingSubscription.accesskey "I">
+<!ENTITY dualUseFolders.label "Tenaren støttar mapper som inneheld under-mapper og meldingar">
+<!ENTITY dualUseFolders.accesskey "T">
+<!ENTITY useIdle.label "Bruk IDLE-kommandoen om tenaren støttar det">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Høgste tal på tenartilkoplingar til mellomlageret">
+<!ENTITY maximumConnectionsNumber.accesskey "T">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Desse innstillingane fastset namneromma på IMAP-tenaren">
+<!ENTITY personalNamespace.label "Personleg namnerom:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Offentleg (delt):">
+<!ENTITY publicNamespace.accesskey "N">
+<!ENTITY otherUsersNamespace.label "Andre brukarar:">
+<!ENTITY otherUsersNamespace.accesskey "B">
+<!ENTITY overrideNamespaces.label "Lat tenaren overstyra desse namneromma">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "Bruk følgjande mappe for nye meldingar når det vert lasta ned meldingar frå denne POP3-kontoen:" >
+<!ENTITY folderStorage.label "Kvar skal e-posten lagrast?">
+<!ENTITY globalInbox.label "Global innboks («Lokale Mapper»-kontoen)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "Innboksen i kontoen til denne tenaren">
+<!ENTITY accountDirectory.accesskey "D">
+<!ENTITY deferToServer.label "Innboksen i ein annan konto">
+<!ENTITY deferToServer.accesskey "a">
+<!ENTITY deferGetNewMail.label "Når det vert henta ny epost; hent frå denne tenaren òg">
+<!ENTITY deferGetNewMail.accesskey "V">

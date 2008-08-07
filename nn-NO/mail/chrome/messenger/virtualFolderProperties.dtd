@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "Nytt lagra søk">
+<!ENTITY name.label                 "Namn:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Opprett som undermappe av:">
+<!ENTITY description.accesskey      "O">
+
+<!ENTITY searchTermCaption.label "Vel søkjekriteria for dette søket: ">
+
+<!ENTITY folderSelectionCaption.label "Vel mapper å søkje i: ">
+<!ENTITY chooseFoldersButton.label "Vel …">
+<!ENTITY chooseFoldersButton.accesskey "V">
+
+<!ENTITY searchOnline.label "Søk på ekstern tenar kvar gong (gjer at det tek lengre tid å opne mappa).">
+<!ENTITY searchOnline.accesskey "t">

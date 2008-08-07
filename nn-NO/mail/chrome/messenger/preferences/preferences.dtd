@@ -1,0 +1,14 @@
+
+<!ENTITY  prefWindow.titleWin     "Innstillingar">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Innstillingar">
+<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
+
+<!ENTITY paneGeneral.title        "Generelt">
+<!ENTITY paneDisplay.title        "Vis">
+<!ENTITY paneTags.title           "Merkelappar">
+<!ENTITY paneComposition.title    "Skriving">
+<!ENTITY paneAttachments.title    "Vedlegg">
+<!ENTITY panePrivacy.title        "Personvern">
+<!ENTITY paneAdvanced.title       "Avansert">

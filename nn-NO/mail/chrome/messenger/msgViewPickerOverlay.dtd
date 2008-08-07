@@ -1,0 +1,18 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY viewPicker.label "Vis:">
+<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewAll.label "Alle">
+<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewUnread.label "Ulesne">
+<!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewNotDeleted.label "Ikkje sletta">
+<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewTags.label "Merkelappar">
+<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewCustomViews.label "Eigne oversyn">
+<!ENTITY viewCustomViews.accesskey "V">
+<!ENTITY viewVirtualFolder.label "Lagre oversyn som mappe …">
+<!ENTITY viewVirtualFolder.accesskey "S">
+<!ENTITY viewCustomizeView.label "Tilpass …">
+<!ENTITY viewCustomizeView.accesskey "D">

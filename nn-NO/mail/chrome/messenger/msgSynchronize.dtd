@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Last ned og synkroniser meldingar">
+<!ENTITY MsgSelect.label "Element for fråkopla bruk">
+<!ENTITY MsgSyncDesc.label "Viss du allereie har vald e-postmapper eller nyhendegrupper til fråkopla bruk, kan du laste ned og/eller synkronisere dei no. Elles kan du nytte «Vel»-knappen for å velje e-postmappene og nyhendegruppene du ønskjer å nytte fråkopla.">
+<!ENTITY MsgSyncDirections.label "Last ned og/eller synkroniser følgjande:">
+<!ENTITY syncTypeMail.label "E-postmeldingar">
+<!ENTITY syncTypeMail.accesskey "m">
+<!ENTITY syncTypeNews.label "Nyhendegruppe-meldingar">
+<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY sendMessage.label "Send usende meldingar">
+<!ENTITY sendMessage.accesskey "u">
+<!ENTITY workOffline.label "Arbeid fråkopla når nedlastinga og/eller synkroniseringa er ferdig">
+<!ENTITY workOffline.accesskey "f">
+<!ENTITY selectButton.label "Vel …">
+<!ENTITY selectButton.accesskey "V">
+<!ENTITY MsgSelectDesc.label "Vel e-postmappene og nyhendegruppene du ønskjer å nytte fråkopla.">
+<!ENTITY MsgSelectInd.label "Last ned">
+<!ENTITY MsgSelectItems.label "Mapper og nyhendegrupper">
