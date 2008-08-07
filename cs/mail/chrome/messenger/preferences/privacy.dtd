@@ -1,0 +1,54 @@
+<!ENTITY itemJunk.label "Nevyžádaná pošta">
+<!ENTITY itemPhishing.label "Podvodná pošta">
+<!ENTITY itemPasswords.label "Uložená hesla">
+<!ENTITY itemAntiVirus.label "Antivir">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Další nastavení nevyžádané pošty lze provést v dialogu Nastavení účtu.">
+<!ENTITY manualMark.label "Pokud ručně označím zprávy jako nevyžádané:">
+<!ENTITY manualMark.accesskey "r">
+<!ENTITY manualMarkModeMove.label "Přesunout je do složky &quot;Nevyžádaná&quot;">
+<!ENTITY manualMarkModeMove.accesskey "n">
+<!ENTITY manualMarkModeDelete.label "Smazat">
+<!ENTITY manualMarkModeDelete.accesskey "S">
+<!ENTITY markAsReadOnSpam.label "Označit zprávy rozpoznané jako nevyžádaná pošta jako přečtené">
+<!ENTITY markAsReadOnSpam.accesskey "O">
+<!ENTITY enableJunkLogging.label "Povolit logování nevyžádané pošty">
+<!ENTITY enableJunkLogging.accesskey "P">
+<!ENTITY openJunkLog.label "Zobrazit log soubor">
+<!ENTITY openJunkLog.accesskey "Z">
+<!ENTITY resetTrainingData.label "Vymazat naučená pravidla">
+<!ENTITY resetTrainingData.accesskey "V">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro "&brandShortName; může analyzovat zprávy na podvodnou poštu pomocí odhalování technik používaných na vaše oklamání.">
+<!ENTITY enablePhishingDetector1.label "Upozornit, pokud čtená zpráva je podezřelá na podvodnou poštu">
+<!ENTITY enablePhishingDetector1.accesskey "U">
+<!ENTITY useDownloadedList.label "Použít stažený seznam zpráv podezřelých na podvodnou poštu">
+<!ENTITY useDownloadedList.accesskey "P">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro "Aplikace &brandShortName; si může pamatovat vaše přihlašovací údaje pro jednotlivé účty, takže je nebudete muset znovu zadávat.">
+<!ENTITY encryptEnabled.label "Při ukládání hesel k poštovním účtům používat šifrování.">
+<!ENTITY encryptEnabled.accesskey "P">
+<!ENTITY masterPassword.intro "Hlavní heslo, je-li nastaveno, chrání všechna vaše ostatní hesla. Jeho vložení je ale vyžadováno jednou během relace.">
+<!ENTITY setMasterPassword.label "Hlavní heslo">
+<!ENTITY setMasterPassword.accesskey "H">
+<!ENTITY removeMasterPassword.label "Odstranit hlavní heslo…">
+<!ENTITY removeMasterPassword.accesskey "O">
+<!ENTITY editPasswords.label "Správce hesel…">
+<!ENTITY editPasswords.accesskey "S">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro "Aplikace &brandShortName; může antivirovým programům umožnit analyzování zpráv příchozí pošty na výskyt virů ještě dříve, než jsou tyto zprávy uloženy do složek pošty.">
+<!ENTITY antiVirus.label "Povolit antivirovým klientům prohlížet jednotlivé příchozí zprávy">
+<!ENTITY antiVirus.accesskey "P">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "Antivirus">
+<!ENTITY paswords.label "Hesla">
+<!ENTITY emailScams.label "Podvodná pošta">
+<!ENTITY junkMail.label "Nevyžádaná pošta">
+<!ENTITY itemIntrusions.label "Obtěžování">
+<!ENTITY itemIntrusionsAndPasswords.label "Obtěžování a hesla">
+<!ENTITY itemJunkMail.label "Nevyžádaná pošta">

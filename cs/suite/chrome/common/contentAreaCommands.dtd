@@ -1,0 +1,112 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label "Zakázat vyskakovací okna z tohoto serveru">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label "Povolit vyskakovací okna z tohoto serveru">
+<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY openLinkCmd.label "Otevřít odkaz v novém okně">
+<!ENTITY openLinkCmd.accesskey "O">
+<!ENTITY openLinkCmdInTab.label "Otevřít odkaz v novém panelu">
+<!ENTITY openLinkCmdInTab.accesskey "N">
+<!ENTITY openLinkInWindowCmd.label "Otevřít">
+<!ENTITY openLinkInWindowCmd.accesskey "e">
+<!ENTITY openFrameCmd.label "Otevřít rám v novém okně">
+<!ENTITY openFrameCmd.accesskey "O">
+<!ENTITY openFrameCmdInTab.label "Otevřít rám v novém panelu">
+<!ENTITY openFrameCmdInTab.accesskey "T">
+<!ENTITY showOnlyThisFrameCmd.label "Zobrazit pouze tento rám">
+<!ENTITY showOnlyThisFrameCmd.accesskey "P">
+<!ENTITY addToBookmarksCmd.label "Přidat k záložkám">
+<!ENTITY addToBookmarksCmd.accesskey "P">
+<!ENTITY goBackCmd.label "Zpět">
+<!ENTITY goBackCmd.accesskey "Z">
+<!ENTITY goForwardCmd.label "Vpřed">
+<!ENTITY goForwardCmd.accesskey "V">
+<!ENTITY goUpCmd.label "Výše">
+<!ENTITY goUpCmd.accesskey "E">
+<!ENTITY reloadCmd.label "Obnovit">
+<!ENTITY reloadCmd.accesskey "B">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY stopCmd.label "Zastavit">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadFrameCmd.label "Obnovit rám">
+<!ENTITY reloadFrameCmd.accesskey "M">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Zobrazit zdrojový kód výběru">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Zobrazit zdrojový kód MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "Z">
+<!ENTITY viewPageSourceCmd.label "Zobrazit zdrojový kód stránky">
+<!ENTITY viewPageSourceCmd.accesskey "D">
+<!ENTITY viewFrameSourceCmd.label "Zobrazit zdrojový kód rámu">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label "Zobrazit informace o stránce">
+<!ENTITY viewPageInfoCmd.accesskey "I">
+<!ENTITY viewFrameInfoCmd.label "Zobrazit informace o rámu">
+<!ENTITY viewFrameInfoCmd.accesskey "F">
+<!ENTITY fitImageCmd.label "Přizpůsobit obrázek velikosti okna">
+<!ENTITY fitImageCmd.accesskey "B">
+<!ENTITY reloadImageCmd.label "Reload Image">
+<!ENTITY reloadImageCmd.accesskey "Z">
+<!ENTITY viewImageCmd.label "Zobrazit obrázek">
+<!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewBGImageCmd.label "Zobrazit obrázek pozadí">
+<!ENTITY viewBGImageCmd.accesskey "o">
+<!ENTITY setWallpaperCmd.label "Nastavit jako pozadí">
+<!ENTITY setWallpaperCmd.accesskey "S">
+<!ENTITY bookmarkPageCmd.label "Přidat stránku k záložkám">
+<!ENTITY bookmarkPageCmd.accesskey "p">
+<!ENTITY bookmarkLinkCmd.label "Přidat odkaz k záložkám">
+<!ENTITY bookmarkLinkCmd.accesskey "D">
+<!ENTITY bookmarkFrameCmd.label "Přidat rám k záložkám">
+<!ENTITY bookmarkFrameCmd.accesskey "d">
+<!ENTITY savePageAsCmd.label "Uložit stránku jako…">
+<!ENTITY savePageCmd.label "Uložit stránku jako…">
+<!ENTITY savePageCmd.accesskey "j">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameAsCmd.label "Uložit rám jako…">
+<!ENTITY saveFrameCmd.label "Uložit rám jako…">
+<!ENTITY saveFrameCmd.accesskey "r">
+<!ENTITY saveLinkAsCmd.label "Uložit odkaz jako…">
+<!ENTITY saveLinkCmd.label "Uložit odkaz jako…">
+<!ENTITY saveLinkCmd.accesskey "k">
+<!ENTITY saveImageAsCmd.label "Uložit obrázek jako…">
+<!ENTITY saveImageCmd.label "Uložit obrázek jako…">
+<!ENTITY saveImageCmd.accesskey "a">
+<!ENTITY copyCmd.label "Kopírovat">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Vybrat vše">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
+<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyImageCmd.label "Kopírovat obrázek s adresou">
+<!ENTITY copyImageCmd.accesskey "b">
+<!ENTITY metadataCmd.label "Vlastnosti">
+<!ENTITY metadataCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "Kopírovat e-mailovou adresu">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY pasteCmd.label "Vložit">
+<!ENTITY pasteCmd.accesskey "L">
+<!ENTITY cutCmd.label "Vyjmout">
+<!ENTITY cutCmd.accesskey "y">
+<!ENTITY deleteCmd.label "Smazat">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY undoCmd.label "Zpět">
+<!ENTITY undoCmd.accesskey "Z">
+<!ENTITY redoCmd.label "Znovu">
+<!ENTITY redoCmd.accesskey "O">
+<!ENTITY thisFrameMenu.label "Tento rám">
+<!ENTITY thisFrameMenu.accesskey "t">
+<!ENTITY search.accesskey "W">
+<!ENTITY bidiSwitchPageDirectionItem.label "Přepnout orientaci stránky">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "o">
+<!ENTITY bidiSwitchTextDirectionItem.label "Přepnout směr textu">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
+<!ENTITY spellAddToDictionary.label "Přidat do slovníku">
+<!ENTITY spellAddToDictionary.accesskey "p">
+<!ENTITY spellIgnoreWord.label "Ignore word">
+<!ENTITY spellIgnoreWord.accesskey "w">
+<!ENTITY spellCheckEnable.label "Kontrolovat pravopis">
+<!ENTITY spellCheckEnable.accesskey "K">
+<!ENTITY spellNoSuggestions.label "(Žádné návrhy nenalezeny)">
+<!ENTITY spellDictionaries.label "Jazyky">
+<!ENTITY spellDictionaries.accesskey "J">
+<!ENTITY spellAddDictionaries.label "Získat další slovníky…">
+<!ENTITY spellAddDictionaries.accesskey "D">

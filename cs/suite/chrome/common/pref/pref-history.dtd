@@ -1,0 +1,15 @@
+<!ENTITY pref.history.title "Historie">
+
+<!ENTITY pref.history.caption "Historie prohlížení">
+<!ENTITY historyPages.label "Historie je seznam navštívených stránek.">
+<!ENTITY pageHis.label "Platnost stránek v historii vyprší za">
+<!ENTITY pageHis.accesskey "p">
+<!ENTITY days.label "dny(ů)">
+<!ENTITY clearHistory.label "Smazat historii">
+<!ENTITY clearHistory.accesskey "m">
+
+<!ENTITY locationBarHistory.caption "Historie adresního řádku">
+<!ENTITY clearLocationBar.label "Smazat seznam uložených webů v adresním řádku.">
+<!ENTITY clearLocationBarButton.label "Smazat historii adres">
+<!ENTITY clearLocationBarButton.accesskey "d">
+

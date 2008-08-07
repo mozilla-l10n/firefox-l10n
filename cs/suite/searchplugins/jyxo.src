@@ -1,0 +1,18 @@
+<search
+  name="Jyxo"
+  description="Hledani na Jyxo.cz"
+  method="GET"
+  action="http://jyxo.cz/s"
+  queryEncoding="utf-8"
+  querycharset="utf-8" >
+  <input name="q" user>
+  <input name="i" value="seamonkey">
+  <input name="d" value="cz">
+  <inputnext name="skip" factor="15">
+  <inputprev>
+  <interpret
+    browserResultType="result"
+    charset="utf-8"
+    resultItemStart="<!--m-->"
+    resultItemEnd="<!--n-->" >
+</search>

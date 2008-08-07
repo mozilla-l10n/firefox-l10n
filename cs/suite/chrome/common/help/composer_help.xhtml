@@ -1,0 +1,2116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
+  %brandDTD;
+  %regionDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <title>Vytváření webových stránek s Editorem</title>
+   <link rel="stylesheet" type="text/css" href="chrome://help/locale/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1 id="creating_web_pages_with_mozilla_composer">Vytváření webových stránek s Editorem</h1>
+
+<p>Editor vám umožňuje vytvářet vlastní webové stránky a publikovat (nahrát) je na Internet.
+Pro používání Editoru nemusíte umět jazyk HTML; tvorba stánek je zde stejně jednoduchá jako psaní textového dokumentu.</p>
+
+<p>Tlačítka na nástrojové liště vám umožňují vkládat seznamy, tabulky, obrázky, odkazy na jiné stránky, barvy a styly písem. Hned při tvorbě stránek uvidíte, jak budou vypadat na Internetu a můžete stránky jednoduše sdílet s dalšími lidmi, bez ohledu na to, jaký používají prohlížeč Internetu nebo e-mailový program.</p>
+
+<p>Začátek práce s Editorem:</p>
+
+<ul>
+  <li>Klepněte na ikonku aplikace v levém dolním rohu, v kterémkoli z oken aplikace &brandShortName;.</li>
+</ul>
+
+<div><img src="images/composer_icon.png" width="128" height="23" alt="" /></div>
+<div style="margin-left: 80px;"><strong>Ikona Editoru</strong></div>
+
+<div class="contentsBox">V této kapitole:
+  <ul>
+    <li><a href="#starting_a_new_page">Vytvoření nové stránky</a></li>
+	<li><a href="#formatting_your_web_pages">Formátování stránek</a></li>
+	<li><a href="#adding_tables_to_your_web_page">Vkládání tabulek do stránek</a></li>
+	<li><a href="#adding_images_to_your_web_page">Vkládání obrázků do stránek</a></li>
+	<li><a href="#setting_page_properties">Nastavování vlastností stránek</a></li>
+	<li><a href="#creating_links_in_composer">Vytváření odkazů</a></li>
+	<li><a href="#publishing_your_pages_on_the_web">Publikování stránek na Internet</a></li>
+	<li><a href="#composer_preferences">Předvolby Editoru</a></li>
+  </ul>
+</div>
+
+<h1 id="starting_a_new_page" style="margin-top: 50px;">Vytvoření nové stránky</h1>
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#creating_a_new_page">Vytvoření nové stránky</a></li>
+    <li><a href="#saving_and_browsing_your_new_page">Uložení a prohlížení nové stránky</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_a_new_page">Vytvoření nové stránky</h2>
+
+<p>Aplikace Editor je editor HTML (Hypertext Markup Language), která
+umožňuje vytvářet webové stránky. Je takzvaným <em>WYSIWYG</em> editorem - při editaci se stránka zobrazuje tak, jak bude vypadat po uložení.
+Není nutné umět HTML, protože většina základních funkcí je přístupná přes nástrojovou lištu nebo nabídky.</p>
+
+<p>Editor vám umožňuje i přímo upravovat HTML kód stránky.
+Pro zobrazení nebo úpravu HTML kódu otevřete nabídku Zobrazit a klepněte na položku
+Zdrojový HTML kód, nebo klepněte na panel &lt;HTML&gt; Zdrojový kód v nástrojové liště Lišta zobrazení naspodu okna Editoru.</p>
+
+<p>Pro vytvoření webové stránky použijte jeden z postupů popsaných níže.
+Po vytvoření stránky můžete vkládat a upravovat text stejně, jako při psaní dokumentu.</p>
+
+<p><strong>Pro vytvoření nové stránky z okna prohlížeče</strong>:</p>
+
+<ul>
+  <li>Otevřete nabídku Soubor, klepněte na podnabídku Nový objekt. Zde klepněte na položku Prázdná stránka.
+Otevře se okno Editoru s prázdnou stránkou.</li>
+</ul>
+
+<p><strong>Pro úpravu stránky, kterou si právě prohlížíte v prohlížeči</strong>:</p>
+
+<ul>
+  <li>V okně prohlížeče s otevřenou stránkou kterou si prohlížíte, otevřete nabídku Soubor a klepněte na položku Upravit stránku. Zobrazí se okno Editoru se stránkou, kterou si právě prohlížíte.</li>
+</ul>
+
+<p><strong>Pro vytvoření nové stránky z okna Editoru</strong>:</p>
+
+<ul>
+  <li>Klepněte na tlačítko Nový v nástrojové liště Editoru.</li>
+</ul>
+
+<p><strong>Pro úpravu HTML souboru uloženého na lokálním disku</strong>:</p>
+
+<ol>
+  <li>Otevřete nabídku Okno a klepněte na položku Editor. Zobrazí se okno Editoru.</li>
+  <li>Otevřete nabídku Soubor a klepněte na položku Otevřít soubor. Zobrazí se dialogové okno Otevřít HTML soubor.</li>
+  <li>Najděte soubor který chcete upravit na vašem disku.</li>
+  <li>Klepněte na tlačítko Otevřít pro zobrazení zvoleného souboru v okně Editoru.</li>
+</ol>
+
+<p><strong>Pro úpravu webové stránky</strong>:</p>
+
+<ol>
+  <li>Otevřete nabídku Okno a klepněte na položku prohlížeč.</li>
+  <li>Přejděte na stránku kterou chcete upravit napsáním její adresy (například <tt>http://www.mozilla.org</tt>) do Adresní řádky a stisknutím klávesy <kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>.</li>
+  <li>Otevřete nabídku Soubor a klepněte na položku Upravit stránku.</li>
+</ol>
+
+<p><strong>Tip</strong>:V okně Editoru můžete jednoduše otevřít soubory, se kterými jste pracovali v poslední době. Otevřete nabídku Soubor, klepněte na podnabídku Poslední dokumenty a klepněte na položku požadovaného souboru ze seznamu.</p>
+
+<p>[<a href="#starting_a_new_page">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="saving_and_browsing_your_new_page">Uložení a prohlížení nové stránky</h2>
+
+<p>Stránky můžete uložit ve formátu HTML nebo pouze jako text. Uložením stránky ve formátu HTML se uloží formátování, jako například
+styly písma (tučné, kurzíva ...), tabulky, odkazy a obrázky.
+Uložením ve formátu <q>pouze jako text</q> se odstraní ze stránky všechny značky HTML a zachová se pouze text.</p>
+
+<p>Pro uložení do HTML souboru:</p>
+
+<ul>
+  <li>Otevřete nabídku Soubor a klepněte na položku Uložit, nebo klepněte na tlačítko Uložit v nástrojové liště.
+    <p>Pokud jste ještě nezadali nadpis stránky, Editor se vás na něj dotáže.
+Nadpis stránky je při prohlížení stránky zobrazen v titulku okna prohlížeče.
+Nadpis stránky se také použije v seznamu záložek, pokud stránku přidáte k záložkám.</p>
+
+    <p>Editor se vás potom dotáže na jméno a umístění souboru, do kterého
+se má stránka uložit. Ujistěte se, že jméno souboru má koncovku .html.</p>
+  </li>
+</ul>
+
+<p>Pro změnu jména nebo umístění existujícího HTML souboru:</p>
+
+<ul>
+  <li>Klepněte na položku Uložit jako a vyberte jiné jméno souboru nebo umístění.</li>
+</ul>
+
+<p>V okamžiku, kdy ukládáte v Editoru stránku, jsou všechny její části
+(HTML kód, obrázky a další soubory, jako třeba zvuky nebo kaskádové styly),
+uloženy na lokálním pevném disku.
+Pokud chcete uložit pouze část obsahující HTML, musíte změnit nastavení pro
+ukládání stránek. Pro informace, jak toto nastavení změnit, přejděte na <a href="#composer">Nastavení Editor</a>.</p>
+
+<p>Pokud je umístění obrázku zadáno absolutně (začíná na <q>http://</q>)
+a jste připojeni k Internetu, bude tento obrázek v dokumentu zobrazen jak v Editoru tak v prohlížeči. Pokud je ale umístění obrázku zadáno relativně k umístění stránky (začíná na <q>file:///</q>), obrázek nebude v lokální verzi zobrazen.</p>
+
+<p>Pro uložení dokumentu jako Textové soubory:</p>
+
+<ol>
+  <li>Otevřete nabídku Soubor a klepněte na položku Exportovat text.</li>
+  <li>Zadejte jméno souboru a zvolte umístění, kam chcete soubor uložit.</li>
+</ol>
+
+<p><strong>Poznámka</strong>: Obrázky nejsou v dokumentech uložených jako Textové soubory zobrazeny.</p>
+
+<p><strong>Tip</strong>: V nabídce Soubor můžete klepnout na položku Zpět k dříve uloženému pro návrat k poslední uložené verzi dokumentu, se kterým pracujete. Pamatujte ale, že změny, které jste provedli od posledního uložení, budou ztraceny.</p>
+
+<p>Pro zobrazení stránky v prohlížeči za účelem kontroly odkazů:</p>
+
+<ul>
+<li>Otevřete nabídku Soubor a klepněte na položku Náhled stránky (nebo klepněte na tlačítko Náhled v nástrojové liště). Pokud jste ještě dokument neuložili, Editor se vás dotáže na nadpis stránky a jméno souboru pro uložení. Okno Editoru zůstává otevřeno pod novým oknem prohlížeče.</li>
+</ul>
+
+<p>[<a href="#starting_a_new_page">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="formatting_your_web_pages">Formátování stránek</h1>
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#formatting_paragraphs_headings_and_lists">Formátování odstavců, nadpisů a seznamů</a></li>
+	<li><a href="#working_with_lists">Práce se seznamy</a></li>
+	<li><a href="#changing_text_color_style_and_font">Změna barvy, stylu a druhu písma textu</a></li>
+	<li><a href="#removing_or_discontinuing_text_styles">Odstranění nebo přerušení stylů textu</a></li>
+	<li><a href="#finding_and_replacing_text">Vyhledávání a nahrazování textu</a></li>
+	<li><a href="#inserting_horizontal_lines">Vkládání vodorovných linek</a></li>
+	<li><a href="#inserting_special_characters">Vkládání speciálních znaků</a></li>
+	<li><a href="#inserting_html_elements_and_attributes">Vkládání HTML prvků a vlastností</a></li>
+	<li><a href="#validating_the_html">Validace HTML</a></li>
+	<li><a href="#choosing_the_right_editing_mode">Volba toho pravého Režimu úprav</a></li>
+  </ul>
+</div>
+
+<h2 id="formatting_paragraphs_headings_and_lists">Formátování odstavců, nadpisů a seznamů</h2>
+
+<p>Pro změnu formátu v odstavci začněte v okně Editoru:</p>
+
+<ol>
+<li>Umístěte kurzor na místo odkud chcete aby se změna formátu projevila, nebo označte text který chcete formátovat.</li>
+
+<li>Z rozbalovacího seznamu nabídky v Liště stylů klepněte na požadovaný formát:
+
+<ul>
+<li><strong>Tělo</strong>: Použije se výchozí druh písma a styl. Bez odsazení před či za textem.</li>
+
+<li><strong>Odstavec</strong>: Vloží značku pro začátek odstavce (používejte vždy, když začínáte nový odstavec). Odstavec má horní a dolní odsazení.</li>
+
+<li><strong>Nadpis 1</strong> - <strong>Nadpis 6</strong>: Převede odstavec na nadpis.
+Nadpis 1 je nadpis nejvyšší úrovně, Nadpis 6 je nejnižší úroveň nadpisů.</li>
+
+<li><strong>Adresa</strong>: Může být použito pro <q>podpis</q> webové stránky obsahující
+jméno autora stránky a kontaktní osobu, například: <tt>uzivatel@vzor.com</tt> 
+
+<p>Toto formátování se hodí k umístění datumu a oznámení o autorství či podmínkách kopírování. Tyto informace se většinou umísťují do spodní části stránky, pod vodorovnou linku. prohlížeč zobrazuje toto formátování kurzívou.</p>
+</li>
+
+<li><strong>Předformátováno</strong>: Toto formátování se používá pro věci jako třeba ukázky zdrojových kódů, data ve sloupcích a e-mailové zprávy, které chcete zobrazit fontem
+s pevnou šířkou znaku. V normálním textu většina prohlížečů odstraňuje
+nadbytečné mezery, znaky odsazení (tabulátory) a konce řádek.
+Text, který používá styl předformátováno, je zobrazen beze změn, se zachováním původního rozvržení textu.</li>
+</ul>
+</li>
+</ol>
+
+<p>Pro nastavení formátu na Nadpis:</p>
+
+<ol>
+<li>Klepnutím umístěte kurzor na místo kdekoli uvnitř textu, který chcete formátovat.</li>
+
+<li>Z rozbalovacího seznamu nabídky v Liště stylů klepněte na úroveň
+nadpisu od 1 (největší) do 6 (nejmenší). Pro hlavní nadpis zvolte
+<q>Nadpis 1</q>, pro další úroveň <q>Nadpis 2</q>, atd.</li>
+</ol>
+
+<p>Pro nastavení formátu na položku seznamu:</p>
+
+<ol>
+<li>Klepnutím umístěte kurzor na místo kdekoli uvnitř textu, který chcete formátovat.</li>
+
+<li>Otevřete nabídku Formát a klepněte na podnabídku Seznam.</li>
+
+<li>Klepněte na styl seznamu:
+
+<ul>
+<li><strong>Bodový</strong> (S odrážkami): Každá položka má před sebou odrážku (stejně jako v tomto seznamu).</li>
+
+<li><strong>Číselný</strong>: Položky jsou číslovány.</li>
+
+<li><strong>Pojmový</strong> a <strong>Definice</strong>: Tyto dva styly se používají spolu, přičemž vytváří
+vzhled podobný slovníku. Styl Pojmový používejte pro slovo, které je definováno a styl
+Definice pro definici. Pojmový text je zobrazen vlevo a Definice jsou zarovnány.</li>
+</ul>
+</li>
+</ol>
+
+<p><strong>Tip</strong>: Seznam vytvoříte rychle tak, že označíte blok textu a klepnete na jedno z tlačítek na nástrojové liště: <img src="images/numbers.gif" width="21" height="21" alt="" /> pro Číselný seznam a <img src="images/bullets.gif" width="20" height="20" alt="" /> pro Bodový seznam.</p>
+
+<p>Pro změnu stylu odrážek či čísel:</p>
+
+<ol>
+<li>Klepnutím umístěte kurzor na místo kdekoli uvnitř textu položky seznamu,
+kterou chcete změnit nebo označte jednu nebo více položek seznamu, pokud chcete
+změnit styl pro celý seznam.</li>
+
+<li>Otevřete nabídku Formát a klepněte na položku Vlastnosti seznamu.</li>
+
+<li>Z rozbalovacího seznamu vyberte styl, buď Seznam s odrážkami nebo Číslovaný seznam.
+Pro číslované seznamy můžete zadat počáteční číslo. Pro seznamy s odrážkami
+můžete změnit styl odrážek.</li>
+</ol>
+
+<p><strong>Tip</strong>: Pro vyvolání dialogového okna Vlastnosti seznamu můžete také poklepat na odrážku nebo číslování seznamu.</p>
+
+<p>Pro zarovnání odstavce na vaší stránce, například vycentrování či zarovnání vlevo či vpravo:</p>
+
+<ol>
+<li>Klepnutím umístěte kurzor na místo kdekoli uvnitř odstavce nebo řádky, jejíž text chcete zarovnat.</li>
+
+<li>Otevřete nabídku Formát a klepněte na podnabídku Zarovnání; potom klepněte na požadovaný způsob zarovnání.</li>
+</ol>
+
+<p><strong>Poznámka</strong>: K zarovnání textu můžete také použít Lištu stylů.</p>
+
+<p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="working_with_lists">Práce se seznamy</h2>
+
+<p>Pro zakončení seznamu a pokračování v zadávání běžného textu:</p>
+
+<ul>
+<li>K zakončení seznamu umístěte kurzor na konec poslední položky seznamu a dvakrát stiskněte tlačítko <kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd>.</li>
+</ul>
+
+<p>Pro změnu jedné či více položek seznamu na běžný text:</p>
+
+<ol>
+<li>Umístěte kurzor na položku nebo označte položky.</li>
+
+<li>V číslovaných seznamech klepněte na tlačítko číslovaného seznamu (
+nebo pro seznam s odrážkami klepněte na tlačítko seznamu s odrážkami)
+z Lištu stylů.</li>
+</ol>
+
+<p>Pro umístění textu pod položku seznamu:</p>
+
+<ol>
+<li>Umístěte kurzor na položku.</li>
+
+<li>Stiskněte <kbd>Shift</kbd>+<kbd class="mac">Return</kbd>
+<kbd class="noMac">Enter</kbd> pro postoupení na další, odsazenou řádku.</li>
+
+<li>Napište text.</li>
+
+<li>Stisknutím <kbd>Shift</kbd>+<kbd class="mac">Return</kbd>
+<kbd class="noMac">Enter</kbd> vytvoříte další odsazenou řádku, stisknutím 
+<kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd> vytvoříte další 
+položku seznamu.</li>
+</ol>
+
+<p><strong>Tip</strong>:
+Odsazení položek seznamů můžete změnit tak, že umístíte kurzor kdekoli
+v položce seznamu a potom v Liště stylů klepněte na tlačítko pravé či levé odsazení (posunutí). Jiná možnost je po umístění kurzoru do položky seznamu a stisknout
+<kbd>tabulátor</kbd> pro posunutí vpravo či <kbd>Shift</kbd>+<kbd>tabulátor</kbd> pro posunutí vlevo.</p>
+
+<p>Pro spojení dvou sousedících seznamů:</p>
+
+<ol>
+<li>Označte oba seznamy, které chcete spojit. Ujistěte se, že jste označili všechny
+položky obou seznamů. Počítejte s tím, že případný text mezi oběma seznamy se stane také součástí spojeného seznamu.</li>
+
+<li>V Liště stylů klepněte na tlačítko číslovaného či bodového seznamu.</li>
+</ol>
+
+<p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="changing_text_color_style_and_font">Změna barvy, stylu a písma textu</h2>
+
+<p>Pro změna barvy, stylu a písma textu:</p>
+
+<ol>
+<li>Označte text, který chcete upravovat.</li>
+
+<li>Otevřete nabídku Formát a klepněte na jedno z následujících:
+
+<ul>
+<li><strong>Písmo</strong>: Klepněte pro změnu písma (fontu).
+Pokud dáváte přednost písmům, které má nastaveny prohlížeč čtenáře, klepněte na položku Proporcionální nebo Neproporcionální. 
+
+<p><strong>Poznámka</strong>: Nezobrazují se všechna písma, které máte nainstalované na počítači.
+Namísto použití písma které nemusí být dostupný všem kteří si budou
+prohlížet stránku kterou vytváříte, je všeobecně lepší vybrat jedno z písem které jsou v nabídce,
+protože tyto fonty fungují na všech počítačích.
+Například písma Helvetica, Arial, Times, a Courier obecně vypadají stejně, když se zobrazují na různých počítačích. Pokud zvolíte jiné písma, nemusí na jiném počítači vypadat stejně.</p>
+</li>
+
+<li><strong>Velikost</strong>: Klepněte pro změnu <em>relativní</em> velikosti písma
+nebo zvolte možnost zvětšit nebo zmenšit písmo (relativně k okolnímu textu).</li>
+
+<li><strong>Styl</strong>: Zvolte pro výběr stylu textu, jako jsou Kurzíva, Tučné a Podtržené nebo
+použití složeného stylu, jako např. Kód.</li>
+
+<li><strong>Barva textu</strong>: Klepněte pro změnu barvy textu z nabídky barev.
+Pokud umíte hexadecimální kódy barev HTML, můžete napsat požadovaný kód,
+nebo můžete napsat název barvy (například <q>blue</q>).
+
+Oficiální seznam barev W3C pro CSS naleznete <a href="http://www.w3.org/TR/CSS21/syndata.html#color-units">zde</a>. lší Podobný seznam je k dispozici <a href="http://www.w3schools.com/html/html_colornames.asp">zde</a>.</li>
+</ul>
+</li>
+</ol>
+
+<p>Pro změnu barvy pozadí stránky:</p>
+
+<ol>
+<li>Klepněte kdekoli na stránce.</li>
+
+<li>Klepněte na prvek barvy pozadí v Liště stylů.</li>
+
+<li>Zvolte barvu pozadí z dialogového okna Barva pozadí.</li>
+
+<li>Klepněte na tlačítko OK.</li>
+</ol>
+
+<p><strong>Tip</strong>: Pro rychlou změnu barvy textu na poslední použitou barvu vyberte text,
+stiskněte klávesu Shift a v Liště stylů klepněte na prvek barvy textu.
+Tato funkce je užitečná, pokud chcete použít jednu barvu v oddělených řádkách textu.</p>
+
+<p>Můžete také použít jako pozadí obrázek. Více v <a href="#setting_page_colors_and_backgrounds">Nastavení barev a pozadí stránky</a>.</p>
+
+<p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="removing_or_discontinuing_text_styles">Odstranění nebo přerušení stylů textu</h2>
+
+<p>Pro odstranění všech stylů (tučný, kurzíva, atd.) z vybraného textu:</p>
+
+<ol>
+<li>Označte text.</li>
+
+<li>Otevřete nabídku Formát a klepněte na položku Odebrat všechny styly z textu.</li>
+
+<li>Pokračujte v psaní.</li>
+</ol>
+
+<p>Pro pokračování v psaní se všemi odstraněnými styly:</p>
+
+<ol>
+<li>Umístěte kurzor na místo, odkud chcete přerušit styly textu.</li>
+
+<li>Otevřete nabídku Formát a klepněte na položku Ukončit styly textu.</li>
+
+<li>Pokračujte v psaní.</li>
+</ol>
+
+<p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="finding_and_replacing_text">Vyhledávání a nahrazování textu</h2>
+
+<p>Pro vyhledání textu na stránce, na které zrovna pracujete:</p>
+
+<ol>
+  <li>Klepněte tam, odkud chcete aby začínalo hledání.</li>
+  <li>Otevřete nabídku Úpravy a klepněte na položku Najít&frasl;nahradit. Objeví se dialogové okno  Najít a nahradit.</li>
+  <li>Napište text, který chcete najít do editačního pole <q>Najít</q>. Pro zúžení vyhledávání vyberte jedno nebo více z následujících zaškrtávacích políček :
+    <ul>
+      <li><strong>Rozlišovat malá/velká písmena</strong>: 
+Použijte toto políčko pro určení, zda se bude při hledání dbát na velikost písmen.
+Pokud nezaškrtnete toto políčko, nebudou se při hledání rozlišovat malá a velká písmena.</li>
+      <li><strong>Obousměrné hledání</strong>: Použijte tuto volbu pro hledání do konce stránky
+a následném pokračování od začátku stránky.</li>
+      <li><strong>Hledat pozpátku</strong>: Použijte tuto volbu pro hledání od konce stránky k jejímu začátku.</li>
+    </ul></li>
+  <li>Klepněte na tlačítko Najít další pro vyhledání dalšího výskytu. Editor označí další výskyt textu.</li>
+  <li>Klepněte na tlačítko Zavřít, když jste s hledáním hotovi.</li>
+</ol>
+
+<p>Pro nalezení a nahrazení textu na webové stránce, kde momentálně pracujete:</p>
+
+<ol>
+  <li>Klepněte na místo, odkud chcete zahájit hledání.</li>
+  <li>Otevřete nabídku Úpravy a zvolte Najít/Nahradit. Zobrazí se vám dialog Najít a nahradit.</li>
+  <li>Zadejte text, který chcete nalézt a následně ten, který jím chcete nahradit.</li>
+  <li>Pod vyhledávacími poli můžete zvolit jednu z následujících předvoleb:
+    <ul>
+      <li><strong>Rozlišovat malá/velká písmena</strong>: Použijte tuto předvolbu, pokud chcete vyhledávat s rozlišováním velikosti znaků. Pokud tuto předvolbu nezvolíte, vyhledávání bude vyhledávat zadaný text bez braní ohledu na velikost jednotlivých znaků.</li>
+      <li><strong>Zalamovat</strong>: Použijte tuto předvolbu, pokud chcete vyhledávat do konce stránky a následně pokračovat na začátku stránky</li>
+      <li><strong>Hledat pozpátku</strong>: Použijte tutor předvolbu pro vyhledávání od konce po začátek dokumentu.</li>
+    </ul></li>
+  <li>Klepněte na tlačítko Najít další pro vyhledávání další položky odpovídající zadaným údajům.</li>
+  <li>Klepněte na tlačítko Nahradit pro nahrazení vybraného textu textem novým (zadaným v dialogu). Klepněte na tlačítko Nahradit a najít pro nalezení a nahrazení hledaného textu. Klepněte na tlačítko Nahradit vše pro automatické nahrazení všech výrazů nalezených v dokumentu.</li>
+</ol>
+
+<p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
+                                                                          
+<h2 id="inserting_horizontal_lines">Vkládání vodorovných linek</h2>
+
+<p>Vodorovné linky jsou typicky používány pro vizuální oddělení
+různých částí dokumentu.
+Pro vložení vodorovné linky do vaší stránky začněte z okna Editoru:</p>
+
+<ol>
+  <li>Klepněte na místo, kde chcete, aby se nová linka objevila.</li>
+  <li>Otevřete nabídku Vložit a klepněte na položku Vodorovná linka.</li>
+</ol>
+
+<h3 id="setting_horizontal_line_properties">Nastavení vlastností vodorovné linky</h3>
+
+<p>Můžete nastavit šířku, délku, zarovnání a stínování linky.</p>
+
+<ol>
+  <li>Dvojklepněte na linku pro zobrazení dialogu Vlastnosti vodorovné linky.</li>
+  <li>Upravte jakékoli z těchto vlastností:
+    <ul>
+      <li><strong>Šířka</strong>: Do editačního pole zadejte šířku a v rozbalovacím seznamu zvolte jednotku - <q>% z okna</q> nebo <q>pixelů</q>. Pokud zadáte šířku v procentech, velikost linky se změní při každé změně velikosti okna Editoru nebo prohlížeče.</li>
+      <li><strong>Výška</strong>: Do editačního pole zadejte výšku linky v bodech.</li>
+      <li><strong>Stínování</strong>: Zvolte toto zaškrtávací políčko pro přidání hloubky linky přidáním stínování.</li>
+      <li><strong>Zarovnání</strong>: Určete, kam chcete linku umístit (vlevo, na střed nebo napravo).</li>
+    </ul></li>
+  <li>Klepněte na tlačítko Uložit jako výchozí pro použití těchto nastavení
+při vkládání dalších vodorovných linek.</li>
+  <li>Pro ruční úpravy vlastností vodorovné linky klepněte na tlačítko Rozšířené úpravy. Pro podrobnosti navštivte <a href="#using_the_advanced_property_editor">Editoru rozšířených vlastností</a>.</li>
+</ol>
+
+<p><strong>Tip</strong>: V nabídce Zobrazit můžete klepnout na položku <q>Zdrojový HTML kód</q>
+a všechny prvky HTML budou zobrazeny v malých žlutých čtverečcích. Klepněte na libovolný žlutý čtvereček pro označení všeho,
+co tato HTML značka (tag) nebo prvek obsahuje.
+Dvojklepnutím na libovolný žlutý čtvereček se zobrazí dialogové okno <a href="#using_the_advanced_property_editor">Editor rozšířených vlastností</a> pro tuto HTML značku nebo prvek.</p>
+
+<p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="inserting_special_characters">Vkládání speciálních znaků</h2>
+
+<p>Pro vložení speciálních znaků jako písmena s netypickou diakritikou, symbol pro copyright nebo symboly měn:</p>
+
+<ol>
+<li>Klepněte na místo, kde chcete, aby se speciální znak objevil.</li>
+
+<li>Otevřete nabídku Vložit a klepněte na položku Znaky a symboly. Zobrazí se
+dialogové okno Vložit znak.</li>
+
+<li>Zvolte přepínač pro určení kategorie znaků.
+
+<ul>
+<li>Pokud zvolíte přepínač Akcent verzálkami nebo Akcent mínuskami, vyberte písmeno z rozbalovacího seznamu s názvem Písmena, na který se má diakritické
+znaménko aplikovat. (Poznámka: ne všechna písmena mají formu s diakritikou.)
+Vyberte přepínač Symboly pro vložení speciálního znaku jako je symbol pro copyright nebo
+zlomek.</li>
+</ul></li>
+
+
+<li>Z rozbalovacího seznamu Znak zvolte znak, který chcete vložit.</li>
+
+<li>Klepněte na tlačítko Vložit. 
+
+<p>Můžete pokračovat v psaní dokumentu (nebo e-mailu) a nechat toto dialogové okno otevřené pro případ, že byste ho ještě použili.</p>
+</li>
+
+<li>Klepněte na tlačítko Zavřít, když jste s vkládáním speciálních znaků hotovi.</li>
+</ol>
+
+<p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="inserting_html_elements_and_attributes">Vkládání HTML prvků a vlastností</h2>
+
+<p>Pokud rozumíte práci se zdrojovým kódem HTML,
+můžete do vaší stránky vkládat další značky (tagy), vlastnosti stylů a JavaScript.
+Pokud si nejste jisti, jak se zdrojovým kódem HTML pracovat, nejlepší je
+nedělat to. Pro práci s kódem HTML použijte jednu z těchto metod:</p>
+
+<ul>
+<li>Umístěte kurzor na místo, kde chcete vložit HTML kód
+nebo označte text který chcete upravit, a potom otevřete nabídku
+Vložit a klepněte na položku HTML. V dialogovém okně Vložení HTML zadejte značky (tagy) HTML a text a potom klepněte na tlačítko Vložit.</li>
+
+<li>Označte prvek jako je tabulka, pojmenovanou kotvu, obrázek, odkaz nebo
+vodorovná přímku. Dvojklepněte na prvek pro otevření
+dialogového okna s vlastnostmi přiřazenými tomuto prvku.
+Klepněte na tlačítko Rozšířené úpravy pro otevření dialogového okna
+Rozšířené úpravy vlastností. Dialogové okno Rozšířené úpravy vlastností
+můžete použít pro přidání atributů HTML, JavaScriptu a CSS k objektům.</li>
+
+<li>Otevřete nabídku Zobrazit, klepněte na položku Zdrojový HTML kód nebo klepněte
+na panel &lt;HTML&gt; Zdrojový kód v Liště zobrazení naspodu okna Editoru.
+(Pokud není Lišta zobrazení zobrazena, otevřete
+ nabídku Zobrazit, klepněte na podnabídku Ukázat&frasl;Skrýt a ujistěte se, že je volba
+Lišta zobrazení zaškrtnuta.)</li>
+</ul>
+
+<h3 id="using_the_advanced_property_editor">Práce s Editorem rozšířených vlastností</h3>
+
+<p>Pro přidání HTML atributů a JavaScriptu objektům jako
+tabulky, obrázky a vodorovné řádky můžete použít
+Editor rozšířených vlastností.</p>
+
+<p><strong>Poznámka</strong>:
+Pokud dopodrobna nerozumíte tomu jak přidávat, ubírat nebo měnit
+HTML atributy a jejich hodnoty, je nejlepší nedělat to.</p>
+
+<p>Pokud zrovna nemáte zobrazen Editor rozšířených vlastností, postupujte takto:</p>
+
+<ol>
+  <li>Z nabídky Zobrazit (nebo z Lišty zobrazení) klepněte na položku Zdrojový HTML kód.</li>
+  <li>Dvojklepněte na objekt který chcete změnit, pro otevření dialogového okna vlastností.</li>
+  <li>Klepněte na tlačítko Rozšířené úpravy pro zobrazení Editor rozšířených vlastností
+pro tento objekt.
+Editor rozšířených vlastností má tři panely, z nichž každý obsahuje
+tyto vlastnosti zvoleného objektu:
+    <ul>
+      <li><strong>Vlastnosti HTML</strong>:
+Klepněte na tento panel pro zobrazení atributů HTML nebo přidání nových.</li>
+      <li><strong>Řádkový styl</strong>: Klepněte na tento panel pro
+vložení přídavných vlastností CSS (kaskádový stylů) atributem
+ &lt;style&gt; (styl). Pro více informací o používání stylů CSS v Editore
+navštivte <a href="#composer">Nastavení Editoru - Editor</a>.</li>
+      <li><strong>Události JavaScriptu</strong>: Klepněte na tento panel pro
+zobrazení nebo vložení událostí JavaScriptu.</li>
+        </ul></li>
+  <li>Pro úpravu vlastností nebo atributu v každém z těchto tří panelů
+zvolte atribut (vlastnost), kterou chcete měnit.
+ Potom můžete upravit hodnotu atributu
+použitím editačních polí Vlastnost a Hodnota naspodu dialogového okna.
+Pro přidání nové vlastnosti napište tuto vlastnost do editačního pole Vlastnost naspodu dialogového okna; bude přidán automaticky, jakmile klepnete na editační pole Hodnota.
+Pro odstranění vlastnosti zvolte požadovanou vlastnost v seznamu a klepněte na tlačítko Odebrat vlastnost. 
+    <p><strong>Poznámka</strong>: Vyžadované vlastnosti jsou v seznamu zvýrazněny.</p></li>
+  <li>Klepněte na tlačítko OK pro použití změn, které jste v dialogovém okně Editoru rozšířených vlastností provedli.</li>
+  <li>Klepněte znovu na tlačítko OK pro zavření dialogového okna vlastností.</li>
+</ol>
+
+<p>Editor automaticky vkládá uvozovky kolem všech hodnot atributů.</p>
+
+<p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="validating_the_html">Validace HTML</h2>
+
+<p>Než nahrajete váš dokument na webový server, aby ho mohli ostatní prohlížet,
+měli byste nejdřív zkontrolovat formátování HTML v tomto dokumentu, abyste se ujistili, že odpovídá standardům webu. Dokumenty, které obsahují validovaný (ověřený) kód HTML s větší pravděpodobností
+nezpůsobí problémy, když budou prohlíženy v různých prohlížečích.
+Pouhá vizuální kontrola webových stánek v Navigátoru neověří, že se stránky
+zobrazí správně v jiných webových prohlížečích.</p>
+
+<p>Editor poskytuje pohodlný způsob pro ověření, že váš dokument splňuje
+HTML standardy konsorcia W3C.
+Editor používá ověřovací službu HTML W3C konsorcia,
+která zkontroluje zda syntaxe vašeho dokumentu splňuje standardy HTML 4.01.
+Tato služba také poskytuje informace o tom, jak opravit chyby.</p>
+
+<p><strong>Poznámka</strong>: Pro použití této funkce musíte být připojeni k Internetu.</p>
+
+<p>Pro ověření HTML syntaxe vašeho dokumentu:</p>
+
+<ol>
+<li>Otevřete nabídku Nástroje a klepněte na položku Kontrolovat HTML.
+Pokud máte v dokumentu nějaké neuložené změny, Editor vás požádá
+o jejich uložení, než budete moci pokračovat.</li>
+
+<li>Až se objeví stránka W3C HTML ověřovací služby, klepněte na tlačítko Procházet
+a na vašem disku vyberte soubor který chcete validovat.</li>
+
+<li>Klepněte na tlačítko <q>Validovat tento dokument</q>.</li>
+</ol>
+
+<p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="choosing_the_right_editing_mode">Volba toho pravého Režimu úprav</h2>
+
+<p>Typicky nebudete potřebovat měnit výchozí (Normální) režim úprav.
+Nicméně pokud budete chtít pracovat s HTML zdrojovým kódem dokumentu,
+budete potřebovat režim úprav změnit.</p>
+
+<p>Editor vám umožňuje rychle přepínat mezi
+čtyřmi režimy úprav. V každém z těchto režimů můžete pokračovat v práci na dokumentu,
+ale zobrazení je v každém režimu různé - zobrazuje se různá úroveň značek HTML (a jejich ikon).</p>
+
+<p>Před výběrem režimu úprav:</p>
+
+<ul>
+<li>Otevřete nabídku Zobrazit, klepněte na podkategorii Ukázat/Skrýt a ujistěte se, že je volba Lišta zobrazení zaškrtnuta.</li>
+</ul>
+
+<p>Lišta zobrazení má čtyři panely:</p>
+
+<ul>
+<li><strong>Normální</strong>:
+Zvolte tento režim pro zobrazení, jak bude dokument vypadat online, když ho vytváříte.
+Nebo pro zobrazení okrajů tabulek a ikonek pojmenovaných kotev.
+Ikonky ostatních HTML značek jsou skryty.</li>
+
+<li><strong>Zdrojový HTML kód</strong>:
+Zvolte tento režim pro zobrazení všech ikonek značek HTML.</li>
+
+<li><strong>Zdrojový kód</strong>:
+Zvolte tento režim pro zobrazení a úpravu dokumentu v jeho neformátované podobě
+zdrojového kódu HTML. Po uložení dokumentu aplikace přejde do režimu Normální.</li>
+
+<li><strong>Náhled</strong>:
+Zvolte tento režim pro zobrazení a úpravy dokumentu přesně tak, jak se zobrazí v okně prohlížeče
+ s výjimkou toho, že odkazy a funkce JavaScriptu nebudou aktivní.</li>
+</ul>
+
+<p><strong>Poznámka</strong>:
+Funkce JavaScriptu, rámy, odkazy, Java, vložené objekty a animované GIFy nejsou aktivní v žádném
+z režimů úprav.
+Pro zobrazení těchto položek v jejich skutečné podobě klepněte na Liště nástrojů na tlačítko Náhled a stránka se nahraje do okna prohlížeče.</p>
+
+<p>[<a href="#formatting_your_web_pages">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="adding_tables_to_your_web_page">Vkládání tabulek</h1>
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#inserting_a_table">Vložení tabulky</a></li>
+	<li><a href="#changing_a_tables_properties">Změna vlastností tabulky</a></li>
+	<li><a href="#adding_and_deleting_rows_columns_and_cells">Přidávání nebo ubírání řádek, sloupců a buněk</a></li>
+	<li><a href="#selecting_table_elements">Označení částí tabulky</a></li>
+	<li><a href="#moving_copying_and_deleting_tables">Přesun, kopírování a odstraňování tabulek</a></li>
+	<li><a href="#converting_text_into_a_table">Převod textu na tabulku</a></li>
+  </ul>
+</div>
+
+<h2 id="inserting_a_table">Vložení tabulky</h2>
+
+<p>Tabulky jsou užitečné pro uspořádání textu, obrázků a dat do řádků a sloupců. Pro vložení tabulky:</p>
+
+<ol>
+  <li>Klepněte na místo, kde chcete, aby se nová tabulka vytvořila.</li>
+  <li>Klepněte na tlačítko Tabulka <img src="images/table.gif" width="25" height="26" alt="" /> na Liště nástrojů. Objeví se dialogové okno Vložit tabulku.</li>
+  <li>Do editačních polí zadejte požadovaný počet řádků a sloupců.
+    <ul>
+      <li>(Volitelné.) Zadejte šířku tabulky a zvolte jednotku - buď procenta z okna nebo pixely.</li>
+      </ul></li>
+  <li>Zadejte tloušťku okraje (v bodech), zadejte nulu pro tabulku bez okraje. 
+    <p><strong>Poznámka</strong>: Editor zobrazuje obrysy tabulek bez okraje
+ červenou čárkovanou linkou. Tato linka nebude zobrazena při prohlížení mimo Editor.</p></li>
+  <li>Pro přidání rozšířených vlastností nebo událostí JavaScriptu, klepněte
+na tlačítko Rozšířené úpravy; zobrazí se <a href="#using_the_advanced_property_editor">Editor
+rozšířených vlastností</a>.</li>
+  <li>Klepněte na tlačítko OK pro potvrzení nastavení a zobrazení nové tabulky.</li>
+</ol>
+
+<p>Pro změnu dalších vlastností tabulky navštivte <a href="#changing_a_tables_properties">Změna vlastností tabulky</a>.</p>
+
+<p><strong>Tip</strong>: Pro vložení tabulky do
+vnitřku jiné tabulky otevřete nabídku Vložit a klepněte na položku Tabulka.</p>
+
+<p>[<a href="#adding_tables_to_your_web_page">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="changing_a_tables_properties">Změna vlastností tabulky</h2>
+
+<p>Tato sekce popisuje jak měnit vlastnosti celé tabulky, nebo
+jednotlivých řádek, sloupců a buněk.
+Pokud zrovna nemáte otevřené dialogové okno Vlastnosti tabulky, postupujte
+podle tohoto postupu:</p>
+
+<ol>
+  <li>Označte tabulku nebo klepněte kdekoli uvnitř tabulky.</li>
+  <li>Klepněte na tlačítko Tabulka <img src="images/table.gif" width="25" height="26" alt="" /> na Liště nástrojů, nebo otevřete nabídku Tabulka a klepněte na položku Vlastnosti tabulky. Dialogové okno Vlastnosti tabulky obsahuje dva panely: Tabulka a Buňky.</li>
+  <li>Klepněte na panel Tabulka pro úpravu těchto vlastností:
+    <ul>
+      <li><strong>Velikost</strong>: Použijte tuto sekci pro zadání
+počtu Řádek a Sloupců. Zadejte Šířku tabulky,
+a jednotku: <q>% buňky</q> nebo <q>pixely</q>.
+Pokud zadáte Šířku v procentech,
+velikost tabulky se změní při každé změně velikosti okna Editoru nebo
+prohlížeče.</li>
+      <li><strong>Okraje a mezery</strong>:
+Použijte tuto sekci pro zadání šířky Okrajové linky (v bodech) a Mezer mezi
+buňkami a velikost Výplně buněk (mezera mezi obsahem buňky a jejím okrajem). 
+        <p><strong>Poznámka</strong>: Editor zobrazuje obrysy tabulek bez okraje
+ červenou čárkovanou linkou.
+Tato linka nebude zobrazena při prohlížení mimo Editor.</p></li>
+      <li><strong>Zarovnání tabulky</strong>:
+Použijte tuto položku pro zarovnání tabulky na stránce.
+Zvolte jednu možnost z rozbalovacího seznamu.</li>
+      <li><strong>Popis</strong>: Zvolte umístění popisu z rozbalovacího seznamu.</li>
+      <li><strong>Barva pozadí</strong>:
+Použijte tuto položku pro zadání barvy pozadí tabulky, nebo ji ponechte průhlednou.</li>
+      </ul></li>
+  <li>Pro přidání rozšířených vlastností nebo událostí JavaScriptu, klepněte
+na tlačítko Rozšířené úpravy; zobrazí se <a href="#formatting_paragraphs_headings_and_lists">Editor
+rozšířených vlastností</a>.</li>
+  <li>Klepněte na tlačítko Použít pro náhled provedených změn bez opuštění dialogového okna nebo klepněte na tlačítko OK pro jejich potvrzení.</li>
+</ol>
+
+<p>Pro prohlížení, změnu nebo přidání vlastností jedné nebo více buněk tabulky:</p>
+
+<ol>
+  <li>Označte řádku, sloupec nebo buňku, potom otevřete nabídku Tabulka
+a klepněte na položku Vlastnosti tabulky. Objeví se dialog Vlastnosti tabulky.</li>
+  <li>Klepněte na panel Buňky pro změnu následujících vlastností:
+    <ul>
+      <li><strong>Výběr</strong>: Klepněte na položku Řádek, Sloupec nebo Buňka v rozbalovacím seznamu.
+Klepněte na tlačítko Předchozí nebo Následující pro pohyb
+po řádcích, sloupcích nebo buňkách.</li>
+      <li><strong>Velikost</strong>: Zadejte hodnotu pro Šířku a Výšku, a zvolte jednotku: <q>% tabulky</q>
+nebo <q>pixelů</q>.</li>
+      <li><strong>Zarovnání obsahu</strong>: Zvolte druh Vodorovného a Svislého
+zarovnání pro text nebo další data v každé tabulce.</li>
+      <li><strong>Styl buňky</strong>: Pro nastavení stylu řádky nebo sloupce na nadpis zvolte položku Nadpis v
+rozbalovacím seznamu (text bude tučný a vyrovnaný na střed), jinak zvolte položku Normální.</li>
+      <li><strong>Zalamovat text</strong>: Zvolte položku <q>Nezalamovat</q> z rozbalovacího seznamu
+pro zamezení zalamování textu na další řádku, pokud nevložíte zalomení odstavce.
+ Jinak zvolte položku Zalamovat.</li>
+      <li><strong>Barva pozadí</strong>:
+Zvolte barvu pro pozadí buňky, nebo ponechte průhlednou.
+        <p><strong>Poznámka</strong>: Pro přidání rozšířených vlastností nebo událostí JavaScriptu, klepněte
+na tlačítko Rozšířené úpravy; zobrazí se dialogové okno <a href="#using_the_advanced_property_editor">Editor rozšířených vlastností</a></p></li>
+      </ul></li>
+  <li>Klepněte na tlačítko Použít pro náhled
+provedených změn bez opuštění dialogového okna nebo klepněte na tlačítko OK pro jejich potvrzení.</li>
+</ol>
+
+<p><strong>Tip</strong>: Pro změnu barvy textu nebo pozadí jedné nebo více vybraných
+buněk nebo celé tabulky, označte buňky nebo klepněte kdekoli v tabulce a
+klikněte na ikonku Barvy textu nebo Barvy pozadí v Liště stylů.</p>
+
+<p><strong>Tip</strong>: Pro změnu barvy na poslední použitou barvu označte buňku, stiskněte tlačítko
+Shift a klepněte na ikonku pro volbu Barvy pozadí. Tato funkce je užitečná, pokud
+chcete použít jednu barvu pro více jednotlivých buněk.</p>
+
+<p>[<a href="#adding_tables_to_your_web_page">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="adding_and_deleting_rows_columns_and_cells">Přidávání nebo ubírání řádek, sloupců a buněk</h2>
+
+<p>Editor vám umožňuje rychle přidávat nebo odstraňovat
+jednu nebo více buněk, řádek či sloupců tabulky.
+Navíc můžete nastavit volbu pro udržování původního
+pravoúhlého rozvržení tabulky během úprav.</p>
+
+<p>Pro přidání buňky, řádky nebo sloupce do vaší tabulky:</p>
+
+<ol>
+<li>Klepněte uvnitř tabulky na místo, kam chcete přidat buňku (nebo buňky).</li>
+
+<li>Otevřete nabídku Tabulka a klepněte na podnabídku Vložit.</li>
+
+<li>Zvolte jedno ze seskupení buněk (do buňky můžete přidat i novou tabulku).</li>
+</ol>
+
+<p>Pro odstranění buňky, řádky nebo sloupce:</p>
+
+<ol>
+<li>Klepněte na řádku, sloupec nebo buňku pro umístění kurzoru. Nebo označte
+sousedící buňky pro odstranění více než jedné řádky najednou.
+ Pro označení sousedících buněk táhněte myší přes buňky, které chcete označit.
+Pro označení jednotlivých buněk stiskněte tlačítko <kbd class="mac">Cmd</kbd>
+<kbd class="noMac">Ctrl</kbd> a potom klepněte na požadované buňky.</li>
+
+<li>Otevřete nabídku Tabulka a klepněte na podnabídku Smazat.</li>
+
+<li>Zvolte položku, kterou chcete odstranit.</li>
+</ol>
+
+<p>Pro spojení (sloučení) buňky s buňkou, která je od ní napravo:</p>
+
+<ul>
+<li>Klepněte do levé buňky. Otevřete nabídku Tabulka a klepněte na položku Spojit s buňkou vpravo.</li>
+</ul>
+
+<p>Pro spojení (sloučení) sousedících buněk:</p>
+
+<ul>
+<li>Označte sousedící buňky tažením myší přes ně.</li>
+
+<li>Otevřete nabídku Tabulka a klepněte na položku Spojit vybrané buňky.</li>
+</ul>
+
+<p>Pro rozdělení spojené buňky do dvou nebo více buněk:</p>
+
+<ul>
+<li>Klepněte uvnitř spojené buňky, otevřete nabídku Tabulka a klepněte na položku Rozdělit buňku.
+Editor vloží celý obsah původní buňky do první ze dvou buněk.</li>
+</ul>
+
+<p>Podívejte se na <a href="#selecting_table_elements">Označení prvků tabulky</a>
+pro informace, jak označit nesousedící buňky, řádky a sloupce.</p>
+
+<h3 id="changing_the_default_table_editing_behavior">Změna výchozího chování při úpravě tabulky</h3>
+
+<p>Výchozí chování je takové, že když odstraníte jednu nebo více buněk,
+Editor zachová strukturu tabulky vložením buněk na konec
+řádky, kde je to potřeba.
+Toto vám pomůže i po odstranění buňky či buněk nadále udržet původní
+pravoúhlé rozvržení tabulky.
+Bez této funkce by odstranění buňky či buněk mohlo mít za výsledek tabulku
+s mezerami nebo s nepravidelným rozmístěním buněk způsobeným nestejným počtem buněk.</p>
+
+<p>Pro změnu výchozího chování při úpravě tabulky začněte v okně Editoru:</p>
+
+<ol>
+<li>Otevřete nabídku Úpravy, klepněte na položku Předvolby. Potom klepněte na kategorii Editor.</li>
+
+<li>V sekci Úprava tabulky nastavte tyto volby:
+
+<ul>
+<li>Přesvědčte se, že je vybráno zaškrtávací políčko <q>Při vkládání/mazání buněk zachovat rozvržení tabulky</q> pro zajištění, aby jste po úpravě nedostali tabulku s nepravidelným tvarem.</li>
+</ul></li>
+
+
+<li>Klepněte na tlačítko OK.</li>
+</ol>
+
+<p>Viz také <a href="#composer">Nastavení obecných voleb Editoru</a>.</p>
+
+<p>[<a href="#adding_tables_to_your_web_page">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="selecting_table_elements">Označení částí tabulky</h2>
+
+<p>Rychlé označení tabulky, buňky nebo skupiny buněk se dá dělat dvěma způsoby:</p>
+
+<ul>
+<li>Klepněte na tabulku, otevřete nabídku Tabulka, klepněte na podnabídku Vybrat.
+ Potom klepněte na jednu položku z nabídky. Například pro označení
+tabulky klepněte kdekoli uvnitř tabulky,
+otevřete nabídku Tabulka, klepněte na podnabídku Vybrat, a potom klepněte na položku Tabulka.</li>
+
+<li>Nebo můžete použít pro označení myš:
+
+<ul>
+<li>Pro označení skupiny sousedících buněk:
+stiskněte tlačítko myši v buňce a táhněte myší pro označení požadovaných buněk.
+Táhněte myší směrem vlevo či vpravo pro označení řádky; směrem nahoru a dolů
+pro označení sloupce.</li>
+
+<li>Pro označení buněk, které spolu nesousedí:
+stiskněte tlačítko <kbd class="mac">Cmd</kbd>
+<kbd class="noMac">Ctrl</kbd>
+a potom klepněte uvnitř buňky.
+Držte klávesu <kbd class="mac">Cmd</kbd> <kbd class="noMac">Ctrl</kbd>
+při označování dalších buněk.</li>
+
+<li>Pro rozšíření výběru o sousední buňky:
+stiskněte tlačítko myši v buňce a táhněte myší přes buňky, které chcete zahrnout do výběru.</li>
+
+<li>Pro označení jedné nebo více řádek nebo sloupců:
+táhněte myší nahoru nebo dolů pro označení prvního sloupce nebo řádky a
+potom táhněte vpravo nebo vlevo pro označení sousedních sloupců nebo řádek.
+Stiskněte tlačítko <kbd>Shift</kbd> a táhněte myší vpravo pro označení celé řádky.
+Stiskněte tlačítko <kbd>Shift</kbd> a táhněte myší nahoru nebo dolů pro označení celého sloupce.</li>
+</ul>
+</li>
+</ul>
+
+<p>[<a href="#adding_tables_to_your_web_page">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="moving_copying_and_deleting_tables">Přesun, kopírování a odstraňování tabulek</h2>
+
+<p>Pro přesun tabulky:</p>
+
+<ol>
+<li>Klepněte uvnitř tabulky.</li>
+
+<li>Otevřete nabídku Tabulka, klepněte na podnabídku Vybrat, a potom klepněte na položku Tabulka.</li>
+</ol>
+
+<ul>
+<li>Pro kopírování nebo přesun tabulky použijte položky Vyjmout, Kopírovat a Vložit z nabídky Úpravy.</li>
+
+<li>Pro odstranění tabulky otevřete znovu nabídku Tabulka, klepněte na podnabídku Smazat a potom klepněte na položku Tabulka.</li>
+</ul>
+<p>[<a href="#adding_tables_to_your_web_page">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="converting_text_into_a_table">Převod textu na tabulku</h2>
+
+<p>Pro převod textu na tabulku:</p>
+
+<ol>
+<li>Označte text, který chcete převést na tabulku.
+Mějte na mysli, že Editor vytvoří novou řádku pro každý odstavec v označeném textu.</li>
+
+<li>Otevřete nabídku Tabulka a klepněte na položku Vytvořit tabulku z označeného.
+Zobrazí se dialogové okno Převádění na tabulku.</li>
+
+<li>Zvolte znak, který má Editor použít pro rozdělení textu do sloupců, nebo zadejte vlastní znak.
+Pokud zvolíte jako oddělovač mezeru, vyberte, zda chcete nebo nechcete, aby se ignorovaly vícenásobné mezery a nakládalo se s nimi jako s mezerou jednou.</li>
+
+<li>Nechte zaškrtávací políčko <q>Smazat oddělující znak</q> zvolenou,
+pokud chcete aby byl oddělovač z textu po převodu odstraněn.
+Pokud nechcete oddělovače odstranit, odstraňte zvolení tohoto zaškrtávacího políčka.</li>
+
+<li>Klepněte na tlačítko OK.</li>
+</ol>
+
+<p><strong>Poznámka</strong>: Formátování textu je po převedení na tabulku odstraněno.</p>
+
+<p>[<a href="#adding_tables_to_your_web_page">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="adding_images_to_your_web_page">Vkládání obrázků do stránek</h1>
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#inserting_an_image_into_your_page">Vložení obrázku do vaší webové stránky</a></li>
+	<li><a href="#editing_image_properties">Úprava vlastností obrázku</a></li>
+  </ul>
+</div>
+
+<h2 id="inserting_an_image_into_your_page">Vložení obrázku do vaší webové stránky</h2>
+
+<p>Do vaší webové stránky můžete vložit obrázky ve formátech GIF, JPEG, BMP, a PNG.
+ Obrázky můžete také použít pro <a href="#using_images_as_links">vytvoření odkazů</a>.
+Po vložení obrázku Editor uloží do vaší stánky odkaz na vložený obrázek.</p>
+
+<p><strong>Poznámka</strong>: Pokud zamýšlíte vaše webové stránky publikovat na Internetu,
+je lepší v nich nepoužívat obrázky ve formátu BMP.</p>
+
+<p><strong>Tip</strong>: Je lepší stránky uložit nebo publikovat než do nich vložíte obrázky, protože to umožní Editoru automaticky používat relativní odkazy na vložené obrázky.</p>
+
+<p>Pro vložení obrázku:</p>
+
+<ol>
+<li>Klepněte na místo kde chcete, aby se obrázek objevil.</li>
+
+<li>Klepněte na tlačítko Obrázek <img src="images/image.gif" width="23" height="25" alt="" /> v Liště nástrojů, nebo otevřete nabídku Vložit a klepněte na položku Obrázek.
+Objeví se dialogové okno Vlastnosti obrázku.</li>
+
+<li>Zadejte umístění a jméno souboru obrázku, nebo klepněte na tlačítko Vybrat soubor pro vyhledání souboru s obrázkem na vašem pevném disku nebo síti.</li>
+
+<li>Napište jednoduchý popis obrázku coby Alternativní text, který se zobrazí místo obrázku
+v prohlížečích pracujících v textovém režimu nebo i v jiných prohlížečích, pokud se obrázek ještě nahrává nebo je zobrazování obrázků vypnuto. 
+
+<p>Volitelně můžete zadat Nepoužít alternativní text, aby obrázek neobsahoval alternativní text.</p>
+</li>
+
+<li>Pokud je to potřeba, klepněte v dialogovém okně
+<a href="#editing_image_properties">Vlastnosti obrázku</a> na jiné panely pro úpravu dalších nastavení (například zarovnání).</li>
+</ol>
+
+<p><strong>Tip</strong>: Pro rychlé vložení obrázku můžete obrázek do vaší stránky přetáhnout.</p>
+
+<p><strong>Tip</strong>: Pro vložení zalomení řádky za všemi obrázky v odstavci klepněte na položku "Zalomení pod obrázkem(y)" v nabídce Vložit.</p>
+
+<p>[<a href="#adding_images_to_your_web_page">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="editing_image_properties">Úprava vlastností obrázku</h2>
+
+<p>Jakmile vložíte obrázek do vaší stránky, můžete upravovat jeho vlastnosti a rozvržení na stránce, tj. měnit jeho šířku, výšku, rozestup a zarovnání textu. Pokud zrovna nemáte zobrazené dialogové okno Vlastnosti obrázku, použijte tento postup:</p>
+
+<ol>
+  <li>Dvojklepněte na obrázek nebo ho označte a klepněte na tlačítko Obrázek <img src="images/image.gif" width="23" height="25" alt="" /> na Liště nástrojů pro zobrazení dialogového okna Vlastnosti obrázku.</li>
+  <li>Klepněte na panel Umístění pro úpravu těchto vlastností:
+    <ul>
+      <li><strong>Umístění obrázku</strong>:
+Zadejte jméno a umístění souboru s obrázkem, nebo klepněte na tlačítko Vybrat soubor pro vyhledání souboru s obrázkem na vašem pevném disku nebo síti.</li>
+    <li><strong>URL je relativní k umístění stránky</strong>: Pokud vyberete toto zaškrtávací políčko,
+Editor převede URL obrázku na URL relativní vůči umístění stránky.
+To je užitečné, zvláště když zamýšlíte publikovat vaše stránky na webovém serveru,
+aby si je mohli ostatní prohlédnout. Používání relativních URL vám umožňuje
+uchovat všechny soubory použité stránkou na jednom místě relativně k ostatním,
+bez ohledu na jejich absolutním umístění na vašem pevném disku nebo webovém serveru
+      <p>Odebrání této volby způsobí, že Editor převede
+URL na absolutní URL. Typické použití absolutních URL je případ, kdy
+se odkazujete na obrázky umístěné na jiných webových serverech
+(tedy umístěné mimo váš pevný disk).</p>
+      <p>Pokud jste stánku ještě neuložili ani nepublikovali, musíte stránku nejdřív uložit, aby se tato volba zpřístupnila.
+(Tato volba není k dispozici, pokud otevřete dialogové okno Vlastnosti obrázku z okna pro psaní e-mailu.)</p></li>
+    <li><strong>Alternativní text</strong>:
+Do editačního pole zadejte text, který se zobrazí na místě obrázku, například titulek nebo stručný popis obrázku. To, že zadáte alternativní text ocení ti čtenáři vašich stránek, kteří používají
+prohlížeče pracující v textovém režimu nebo kteří si vypnuli nahrávání obrázků.</li>
+    <li><strong>Nepoužívat alternativní text</strong>:
+Zvolte tento přepínač, pokud obrázek alternativní text nepotřebuje, nebo pokud ho nechcete zadat.</li>
+      </ul></li>
+  <li>Klepněte na panel Rozměry pro úpravu těchto vlastností:
+    <ul>
+      <li><strong>Současná velikost</strong>: Zvolte tento přepínač pro anulování změn, které jste provedli na rozměrech obrázku a pro návrat k původním rozměrům obrázku.</li>
+      <li><strong>Nová velikost</strong>:
+Zvolte tento přepínač pro zadání nové Šířky a Výšky buď v pixelech nebo v % z okna.
+Tyto změny se nedotknou původního souboru s obrázkem, ale projeví se pouze na obrázku vloženém na vaší stránku.</li>
+      <li><strong>Zachovat</strong>:
+Pokud měníte rozměry obrázku, je doporučeno zvolit tuto volbu, aby se
+zachoval poměr stran obrázku (aby se obrázek nezobrazoval zkresleně).
+ Pokud zvolíte toto zaškrtávací políčko, bude stačit změnit buď šířku, nebo výšku, a ne oba rozměry.</li>
+        </ul></li>
+  <li>Klepněte na panel Vzhled pro úpravu těchto vlastností:
+    <ul>
+      <li><strong>Odstup</strong>: Zadejte množství volného místa, které obklopuje obrázek; mezi
+obrázkem a sousedícím textem.
+Můžete také vložit černý rámeček kolem obrázku a zadat jeho šířku v bodech. Zadejte nulu, pokud nechcete rámeček vložit.</li>
+      <li><strong>Zarovnání textu kolem obrázku</strong>:
+Pokud jste umístili váš obrázek vedle nějakého textu, zvolte zarovnání z rozbalovacího seznamu pro určení, jak se má text umísťovat vzhledem k obrázku.</li>
+      <li><strong>Obrázková mapa</strong>: Klepněte na tlačítko Odebrat pro odstranění všech nastavení obrázkové mapy.</li>
+        </ul></li>
+  <li>Klepněte na panel Odkaz pro úpravu těchto vlastností:
+    <ul>
+      <li><strong>Zadejte umístění stránky</strong>:
+Pokud chcete definovat odkaz pro tento obrázek, zadejte URL vzdálené nebo lokální stránky nebo
+zvolte pojmenovanou kotvu nebo nadpis z rozbalovacího seznamu.
+Klepněte na tlačítko Vybrat soubor pro vyhledání souboru na vašem
+pevném disku nebo síti.</li>
+      <li><strong>URL je relativní k umístění stránky</strong>: Pokud zvolíte toto zaškrtávací políčko,
+Editor převede URL na URL relativní vůči umístění stránky.
+To je užitečné zvláště, když zamýšlíte publikovat vaše stránky na webovém serveru,
+aby si je mohli ostatní prohlédnout. Používání relativních URL vám umožňuje
+uchovat všechny soubory použité stránkou na jednom místě relativně k ostatním,
+bez ohledu na jejich absolutním umístění na vašem pevném disku nebo webovém serveru. 
+        <p>Odebráním tohoto políčka způsobí, že Editor převede
+URL na absolutní URL. Typické použití absolutních URL je případ, kdy se odkazujete na stránky umístěné na jiných webových serverech (tedy umístěné mimo váš pevný disk).</p>
+        <p>Pokud máte neuložené změny,
+musíte stránku uložit, aby bylo možné použít tuto volbu.
+(Tato volba není k dispozici, pokud otevřete dialogové okno Vlastnosti obrázku z okna pro psaní e-mailu.)</p></li>
+      <li><strong>Zobrazit okraje okolo obrázku</strong>:
+Pokud zvolíte toto zaškrtávací políčko, zobrazí se kolem obrázku rámeček v barvě odkazu.</li>
+        </ul></li>
+  <li>Pro zadání dalších vlastností nebo událostí JavaScriptu
+klepněte na tlačítko Rozšířené úpravy pro zobrazení <a href="#using_the_advanced_property_editor">Editoru rozšířených vlastností</a>.</li>
+  <li>Klepněte na tlačítko OK pro potvrzení provedených změn.</li>
+</ol>
+
+<p>[<a href="#adding_images_to_your_web_page">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="setting_page_properties">Nastavení vlastností stránky</h1>
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#setting_page_properties_and_meta_tags">Nastavení vlastností a přívlastků (meta tagů) stránky</a></li>
+	<li><a href="#setting_page_colors_and_backgrounds">Nastavení barev textu a pozadí stránky</a></li>
+  </ul>
+</div>
+
+<h2 id="setting_page_properties_and_meta_tags">Nastavení vlastností a přívlastků (meta tagů) stránky</h2>
+
+<p>Použijte dialogové okno Vlastnosti stránky k zadání vlastností
+dokumentu, na kterém právě pracujete, jako jsou nadpis, autor a popis.
+Tyto informace jsou užitečné, pokud zamýšlíte používat stránku na webovém serveru,
+protože vyhledávací roboty použijí tento typ informací k zařazení vašich stránek.
+Ve webovém prohlížeči můžete tyto informace zobrazit otevřením nabídky Zobrazit a
+klepnutím na položku Informace o stránce.</p>
+
+<ol>
+<li>Otevřete nabídku Formát a klepněte na položku Vlastnosti stránky.</li>
+
+<li>Upravte jakékoli z těchto vlastností:
+
+<ul>
+<li><strong>Nadpis</strong>:
+Do editačního pole napište text, který se má zobrazit jako titulek okna při prohlížení této stránky v prohlížeči. Pomocí této položky identifikuje stránky většina vyhledávacích služeb, takže zvolte nadpis, který se hodí k obsahu vašich stránek.</li>
+
+<li><strong>Autor</strong>:
+Do editačního pole napište jméno osoby, která vytvořila tento dokument.
+Tato informace je užitečná pro čtenáře, kteří vyhledávají webové stránky podle jejich autorů. 
+
+<blockquote>
+<p><strong>Tip</strong>: Pokud zadáte jméno autora v <a href="#new_page_settings">nastavení Editoru</a>,
+tak nebudete muset jméno zadávat vždy, když vytvoříte novou stránku.</p>
+</blockquote>
+</li>
+
+<li><strong>Popis</strong>: Do editačního pole zadejte stručný popis obsahu dokumentu.</li>
+</ul>
+</li>
+</ol>
+
+<p>[<a href="#setting_page_properties">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="setting_page_colors_and_backgrounds">Nastavení barev textu a pozadí stránky</h2>
+
+<p>Můžete změnit barvu pozadí nebo určit obrázek pro pozadí stránky, na které pracujete.
+Tyto volby také určují způsob, jakým se bude zobrazovat text a odkazy při prohlížení vaší stránky
+prohlížečem.</p>
+
+<p>Pro nastavení barev textu a pozadí v současné stránce začněte z okna Editoru:</p>
+
+<ol>
+<li>Otevřete nabídku Formát a klepněte na položku Barvy a pozadí stránky.</li>
+
+<li>Upravte jakékoli z těchto vlastností:
+
+<ul>
+<li><strong>Neurčovat barvy</strong>:
+Zvolte tento přepínač pokud chcete, aby stránka používala pro zobrazení textu a odkazů nastavení prohlížeče čtenáře stránky.</li>
+
+<li><strong>Použít vlastní barvy</strong>:
+Zvolte tento přepínač pokud chcete určit barvu textu a odkazů.
+Pro každý element vyberte barvu. Náhled každého typu odkazu se zobrazuje v pravé části okna.</li>
+
+<li><strong>Obrázek na pozadí</strong>:
+Zvolte tuto možnost pokud chcete, aby v pozadí vaší stránky byl obrázek.
+Zadejte jméno souboru s obrázkem nebo klepněte na Vybrat soubor pro vyhledání souboru s obrázkem na vašem pevném disku nebo síti. 
+
+<p><strong>Poznámka</strong>: Obrázek pozadí je na stránce rozmístěn dlaždicovitě (vedle sebe).
+Použití obrázku pozadí potlačí barvu pozadí.</p>
+</li>
+
+<li><strong>URL je relativní k umístění stránky</strong>: Pokud vyberete toto zaškrtávací políčko,
+Editor převede URL na URL relativní vůči umístění stránky.
+To je užitečné, zvláště když zamýšlíte publikovat vaše stránky na webovém serveru,
+aby si je mohli ostatní prohlédnout. 
+
+<p>Používání relativních URL vám umožňuje
+uchovat všechny soubory použité stránkou na jednom místě relativně k ostatním,
+bez ohledu na jejich absolutním umístění na vašem pevném disku nebo webovém serveru.</p>
+
+<p>Odebráním tohoto zaškrtávacího políčka způsobí, že Editor převede
+URL na absolutní URL. Typické použití absolutních URL je případ, kdy
+se odkazujete na stránky umístěné na jiných webových serverech
+(tedy umístěné mimo váš pevný disk).</p>
+
+<p>Pokud máte neuložené změny musíte stránku uložit, aby bylo možné použít tuto volbu.</p>
+</li>
+</ul>
+</li>
+</ol>
+
+<p><strong>Poznámka</strong>: Pro přidání rozšířených vlastností nebo událostí JavaScriptu, klepněte
+na tlačítko Rozšířené úpravy; zobrazí se <a href="#using_the_advanced_property_editor">Editor rozšířených vlastností</a>.</p>
+
+<p>Můžete také nastavit <a href="#new_page_settings">výchozí pozadí a barvy stránky</a>
+ pro každou novou stránku, kterou vytvoříte v Editoru.</p>
+
+<p>[<a href="#setting_page_properties">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="creating_links_in_composer">Vytváření odkazů</h1>
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#creating_links_within_the_same_page">Vyváření odkazů v rámci jedné stránky</a></li>
+	<li><a href="#creating_links_to_other_pages">Vyváření odkazů na jiné stránky</a></li>
+	<li><a href="#using_images_as_links">Použití obrázků jako odkazy</a></li>
+	<li><a href="#removing_or_discontinuing_links">Odstranění nebo přerušení odkazů</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_links_within_the_same_page">Vyváření odkazů v rámci jedné stránky</h2>
+
+<p>Pro vytvoření odkazu v rámci jedné stránky, například odkaz který může čtenář použít
+pro skok z jedné kapitoly do druhé, je třeba vytvořit <em>kotvu</em> (ukotvení, cíl) a
+potom vytvořit odkaz, který bude tato kotva ukazovat. Kotvy jsou také nazývány
+<em>cílové kotvy</em> či <em>pojmenované kotvy</em>.</p>
+
+<ol>
+  <li>Klepněte na začátek řádky, kde chcete vytvořit kotvu, nebo označte nějaký text.</li>
+  <li>Otevřete nabídku Vložit a klepněte na položku Cílová kotva. Zobrazí se dialogové okno
+Vlastnosti cílové kotvy.</li>
+  <li>Zadejte jedinečné jméno pro tuto kotvu v editačním poli Cílová kotva (
+až 30 písmen). Pokud použijete mezery, budou převedeny na podtržítka ( _ ).
+Pokud jste v prvním kroku označili nějaký text, bude jméno už vyplněno.</li>
+  <li>Klepněte na tlačítko OK. V dokumentu se zobrazí ikonka kotvy označující její polohu:
+    <img src="images/anchor-in-doc.gif" width="20" height="17" alt="" /></li>
+</ol>
+
+<p>Pro vytvoření odkazu, na který může čtenář klepnout pro skok ke kotvě:</p>
+
+<ol>
+  <li>Označte text nebo obrázek, který má odkazovat na kotvu.</li>
+  <li>Klepněte na tlačítko Odkaz nebo otevřete nabídku Vložit a klepněte na položku Odkaz.
+Zobrazí se dialogové okno Vlastnosti odkazu.
+    <ul>
+      <li>Pokud vytváříte odkaz na HTHL soubor na vašem počítači,
+klepněte na tlačítko Vybrat soubor pro jeho nalezení.</li>
+      <li>Pokud vytváříte odkaz na cílovou kotvu, zvolte ho z rozbalovacího seznamu
+kotev, které jsou na stránce k dispozici.</li>
+      <li>Pokud vytváříte odkaz na nadpis
+(například Nadpis 1 - Nadpis 6), zvolte ho z rozbalovacího seznamu
+nadpisů, které jsou na stránce k dispozici.</li>
+      </ul></li>
+  <li>Klepněte na tlačítko OK.</li>
+</ol>
+
+<p><strong>Poznámka</strong>: Pro otestování vytvořeného odkazu otevřete nabídku Soubor
+a klepněte na položku Náhled stránky; potom na odkaz klepněte.</p>
+
+<p><strong>Tip</strong>: Pokud jste předem nevytvořili pojmenovanou kotvu,
+můžete dialogové okno Vlastnosti odkazu použít k vytvoření odkazů na nadpisy, které
+už na stránce jsou.</p>
+
+<p>[<a href="#creating_links_in_composer">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="creating_links_to_other_pages">Vytváření odkazů na jiné stránky</h2>
+
+<p>Na vaší stránce můžete vytvořit odkazy na jiné lokální stránky na vašem počítači
+nebo lokální síti, nebo na vzdálené stránky na Internetu.</p>
+
+<p><strong>Tip</strong>: Je lepší stránky uložit nebo publikovat než v nich vytvoříte odkazy, protože to umožní Editoru automaticky používat relativní odkazy.</p>
+
+<p>Pro vytvoření odkazu na jinou stránku:</p>
+
+<ol>
+  <li>Klepněte na místo, kde chcete vytvořit odkaz, nebo označte text či obrázek který
+se má stát odkazem.</li>
+  <li>Klepněte na tlačítko Odkaz. Zobrazí se dialogové okno Vlastnosti odkazu.</li>
+  <li>Zadejte odkaz:
+    <ul>
+      <li><strong>Propojený text</strong>:
+Pokud jste před klepnutím na tlačítko Odkaz označili text nebo obrázek,
+označený text sem bude vložen. Jinak musíte zadat text do editačního políčka, který se bude používat
+jako odkaz.</li>
+      <li><strong>Umístění odkazu</strong>:
+Do editačního pole napište lokální cestu a jméno souboru nebo vzdálené URL stránky, na kterou
+má tento odkaz ukazovat.
+Pokud si nejste jisti cestou a jménem lokálního souboru, klepněte na tlačítko Vybrat soubor
+pro jeho nalezení na vašem pevném disku nebo síti.
+Vzdálená URL můžete zkopírovat z Adresního řádku (adresy) vašeho prohlížeče.
+Eventuálně můžete vybrat pojmenovanou kotvu nebo nadpis ze současné stránky,
+na které chcete aby odkaz ukazoval.</li>
+      <li><strong>URL je relativní k umístění stránky</strong>: Pokud vyberete toto zaškrtávací políčko,
+Editor převede URL na URL relativní vůči umístění stránky.
+To je užitečné zvláště, když zamýšlíte publikovat vaše stránky na webovém serveru,
+aby si je mohli ostatní prohlédnout. Používání relativních URL vám umožňuje
+uchovat všechny soubory použité stránkou na jednom místě relativně k ostatním,
+bez ohledu na jejich absolutním umístění na vašem pevném disku nebo webovém serveru.
+		<p>Odebrání tohoto políčka způsobí, že Editor převede
+URL na absolutní URL. Typické použití absolutních URL je případ, kdy
+se odkazujete na stránky umístěné na jiných webových serverech
+(tedy umístěné mimo váš pevný disk).</p>
+        <p>Pokud máte neuložené změny musíte stránku uložit, aby bylo možné použít tuto volbu.</p></li>
+      </ul></li>
+  <li>Pro přidání rozšířených vlastností nebo událostí JavaScriptu, klepněte
+na tlačítko Rozšířené úpravy; zobrazí se <a href="#using_the_advanced_property_editor">Editor
+rozšířených vlastností</a>.</li>
+  <li>Klepněte na tlačítko OK.</li>
+  <li>Pro otestování vytvořeného odkazu otevřete nabídku Soubor
+a klepněte na položku Náhled stránky; potom na odkaz klepněte.</li>
+</ol>
+
+<p><strong>Tip</strong>: Odkaz můžete rychle zkopírovat tím, že na něj v jiném okně klepnete a přetáhnete ho
+ na vaší stránku. Odkaz můžete přetáhnout například z jiné webové stránky, záložky nebo okna Pošty &amp; Diskusních skupin. Na odkazu můžete také klepnout pravým tlačítkem myši<span class="mac"> nebo, pokud máte jednotlačítkovou myš,
+<kbd>Ctrl</kbd>-klepnutí</span> a v místní nabídce klepnout na položku Kopírovat adresu odkazu.
+Potom můžete adresu odkazu vložit do editačního pole Umístění odkazu v dialogovém okně Vlastnosti odkazu.</p>
+
+<p>[<a href="#creating_links_in_composer">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="using_images_as_links">Použití obrázků jako odkazy</h2>
+
+<p>Ve vašich stránkách můžete používat obrázky (soubory ve formátech JPEG, GIF, nebo PNG) tak, aby se
+chovaly jako odkazy. Když čtenář klepne na obrázek s odkazem,
+prohlížeč zobrazí stránku, na kterou obrázek odkazuje.</p>
+
+<p>Pro vytvoření obrázku jako odkaz:</p>
+
+<ol>
+<li>Označte obrázek na vaší stránce.</li>
+
+<li>Klepněte na tlačítko Odkaz <img src="images/link.gif" width="22" height="20" alt="" /> na Liště nástrojů, nebo otevřete nabídku Vložit a klepněte na položku Odkaz.</li>
+
+<li>Použijte dialogové okno Vlastnosti odkazu pro propojení obrázku s <a href="#creating_links_within_the_same_page">pojmenovanou kotvou nebo nadpisem na stejné stránce</a> nebo <a href="#creating_links_to_other_pages"> jinou, lokální či vzdálenou, stránkou</a>.</li>
+</ol>
+
+<p><strong>Tip</strong>: Přetáhněte obrázek s odkazem z okna prohlížeče
+do okna Editoru pro zkopírování obrázku i s odkazem.</p>
+
+<p><strong>Poznámka</strong>:
+Pro odstranění modrého rámečku kolem obrázků s odkazy, otevřete dialogové okno Vlastnosti obrázku,
+klepněte na panel Odkaz a zde odeberte zaškrtávací políčko <q>Zobrazit okraje okolo obrázku</q>.</p>
+
+<p>[<a href="#creating_links_in_composer">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="removing_or_discontinuing_links">Odstranění nebo přerušení odkazů</h2>
+
+<p>Pro odstranění odkazu:</p>
+
+<ol>
+<li>Označte text odkazu (běžně je modrý a podtržený) nebo obrázek.</li>
+
+<li>Otevřete nabídku Formát a klepněte na položku Odebrat odkazy</li>
+</ol>
+
+<p>Pro přerušení odkazu tak, aby další text vkládaný za odkaz nebyl
+brán jako jeho součást:</p>
+
+<ol>
+<li>Klepněte na místo, kde chcete aby odkaz skončil.</li>
+
+<li>Otevřete nabídku Formát a klepněte na položku Ukončit odkaz.</li>
+</ol>
+
+<p>[<a href="#creating_links_in_composer">Návrat na začátek kapitoly</a>]</p>
+ 
+<h1 id="publishing_your_pages_on_the_web">Publikování stránek na Internetu</h1>
+
+<p>Pokud vaše stránky existují pouze na vašem pevném disku, můžete si je
+prohlížet vy, ale nikdo jiný. Editor vám umožňuje nahrát vaše stránky na vzdálený počítač,
+který se nazývá webový server. Tomuto procesu se také říká publikování webové stránky.</p>
+
+<p>Při nahrávání vašich stránek na webový server Editor zkopíruje
+ vaše stránky na počítač, který umožní ostatním si tyto stránky prohlížet.
+Většina poskytovatelů internetového připojení (Internet Service Provider - ISP)
+poskytují na svých webových serverech  místo pro nahrání webových stránek.
+ Pro zjištění webového serveru, na kterém můžete své stránky nahrát se obraťte na
+vašeho ISP, technickou podporu, nebo správce sítě.</p>
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#publishing_a_document">Nahrání dokumentu na webový server</a></li>
+	<li><a href="#updating_a_published_document">Aktualizace publikovaného dokumentu</a></li>
+	<li><a href="#changing_the_filename_or_publishing_location">Změna jména souboru nebo místa pro nahrávání</a></li>
+	<li><a href="#creating_a_new_publishing_site">Vytvoření nového místa pro nahrávání</a></li>
+	<li><a href="#choosing_the_default_publishing_site">Změna výchozího místa pro nahrávání</a></li>
+	<li><a href="#deleting_a_publishing_site">Odstranění místa pro nahrávání</a></li>
+	<li><a href="#solving_common_publishing_problems">Řešení běžných problémů při nahrávání na webový server</a></li>
+	<li><a href="#publishing_settings">Volby publikování</a></li>
+  </ul>
+</div>
+
+<h2 id="publishing_a_document">Nahrání dokumentu na webový server</h2>
+
+<p><strong>Tip</strong>: Je lepší vaši stránku uložit nebo nahrát na webový server před
+tím, než do ní budete vkládat odkazy nebo obrázky,
+protože to umožní Editoru automaticky používat relativní odkazy pro vložené obrázky a odkazy.</p>
+
+<p>Pro nahrání dokumentu na webový server:</p>
+
+<ol>
+  <li>Otevřete HTML dokument, který chcete nahrát na webový server nebo vytvořte nový dokument.</li>
+  <li>Když jste připraveni dokument publikovat, klepněte na tlačítko Publikovat. 
+  <p>Pokud jste tento dokument již publikovali, Editor
+si pamatuje nastavení které jste zadali při první publikaci a
+začne dokument nahrávat na webový server. Během nahrávání je zobrazeno
+dialogové okno zobrazující průběh akce.</p>
+    <ul>
+      <li>Pokud jste tento dokument ještě nikdy nepublikovali,
+zobrazí se dialogové okno Publikovat stránku a v něm panel Nastavení, abyste mohli zadat
+informace o umístění, kam se má dokument nahrát.
+Pro více informací přejděte na <a href="#publish_page_settings">Publikace stránky - Nastavení</a>.
+ Až informace zadáte, klepněte na tlačítko Zveřejnit.</li>
+      <li>Pokud dokument ještě nikdy nebyl uložen, zobrazí se dialogové okno Publikovat stránku a v něm panel Zveřejnit, aby jste mohli zadat jméno souboru pro tento dokument.
+Pro více informací přejděte na <a href="#publish_page_publish">Publikace stránky - publikovat </a>.
+Až informace zadáte, klepněte na tlačítko Zveřejnit.</li>
+      </ul></li>
+  <li>Pro prohlédnutí vašich publikovaných stránek klepněte na tlačítko
+Náhled. Otestujte odkazy na stránce a zkontrolujte, jestli nechybí nějaké obrázky.</li>
+  <li>Pokračujte v úpravách vaší stránky podle potřeby. Když jste připraveni
+aktualizovat vzdálenou stránku nově provedenými změnami, klepněte na tlačítko Publikovat.</li>
+</ol>
+
+<p>Když dokument poprvé publikujete, Editor změní URL dokumentu
+z <tt>file:///</tt> na <tt>http://</tt> aby bylo vidět, že upravujete publikovaný dokument.
+Pokud chcete dokument uložit lokálně (na pevném disku vašeho počítače),
+klepněte na tlačítko Uložit. Budete dotázáni na jméno souboru a umístění na disku, kam se dokument uloží.</p>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h3 id="tips_for_avoiding_broken_links_or_missing_images">Tipy, jak se vyvarovat neplatným odkazům a chybějícím obrázkům</h3>
+
+<ul>
+<li>Ujistěte se, že soubory vašich stránek mají příponu .html nebo .htm. Ujistěte se, že soubory obrázků mají přípony .JPG, .GIF nebo .PNG. Ve jménech souborů nepoužívejte mezery a jiné speciální znaky. Používejte krátká jména souborů a používejte pouze malá či velká písmena a číslice.</li>
+
+<li>Pokud se vaše obrázky nezobrazují při prohlížení
+na webovém serveru, možná jste zapomněli zahrnout obrázky do publikování;
+otevřete nabídku Soubor a klepněte na položku Publikovat jako
+pro otevření dialogového okna Publikovat stránku. V panelu Zveřejnit ověřte, zda jste
+vybrali zaškrtávací políčko <q>Zahrnout obrázky a další soubory</q> a klepněte na tlačítko Zveřejnit.</li>
+</ul>
+
+<p>Pro řešení dalších problémů navštivte <a href="#solving_common_publishing_problems">Řešení běžných problémů při nahrávání na webový server</a>.</p>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="updating_a_published_document">Aktualizace publikovaného dokumentu</h2>
+
+<p>Pro aktualizaci publikovaného dokumentu:</p>
+
+<ol>
+  <li>V okně Editoru otevřete nabídku Soubor a klepněte na podnabídku Poslední dokumenty
+Zde zvolte dokument ze seznamu. 
+  <p>Jiná možnost je přejít na adresu dokumentu, který chcete aktualizovat zadáním
+HTTP adresy dokumentu (webové adresy dokumentu) do editačního pole Adresní řádky v prohlížeči.</p></li>
+  <li>Upravte dokument.</li>
+  <li>Když jste připraveni aktualizovat dokument na webovém serveru vašimi změnami,
+klepněte na tlačítko Publikovat v Liště nástrojů Editoru.</li>
+</ol>
+
+<p><strong>Tip</strong>: Pro smazání publikované stránky nebo obrázku musíte použít <a href="glossary.xhtml#ftp">FTP</a> program. FTP program musíte použít také
+pokud chcete vytvořit podadresáře nebo přejmenovat soubory nahrané na
+web server. Zeptejte se vašeho poskytovatele připojení, zda vám doporučí
+nějaký konkrétní FTP program. Informace o FTP programech se většinou dozvíte
+v sekci Pomoc nebo Podpora na stránkách vašeho poskytovatele připojení.
+FTP programy můžete stáhnout také na serverech se softwarem jako je např.
+slunecnice.cz.</p>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="changing_the_filename_or_publishing_location">Změna jména souboru nebo místa pro nahrávání</h2>
+
+<p>Pro změnu jména souboru nebo místa pro nahrávání:</p>
+
+<ol>
+  <li>V okně Editoru otevřete nabídku Soubor a klepněte na podnabídku Poslední dokumenty
+Zde zvolte dokument ze seznamu.
+  <p>Jiná možnost je přejít na adresu dokumentu, který chcete aktualizovat zadáním
+HTTP adresy dokumentu (webové adresy dokumentu) do editačního pole Adresní řádky v prohlížeči.</p></li>
+  <li>Upravte dokument.</li>
+  <li>Otevřete nabídku Soubor a klepněte na položku Publikovat jako.
+Zobrazí se dialogové okno Publikovat stránku a v něm panel Zveřejnit.</li>
+  <li>Do editačního pole zadejte pozměněný Nadpis stránky, pokud je třeba.</li>
+  <li>Do editačního pole zadejte jiný Název souboru této stránky, pokud je třeba.</li>
+  <li>Z rozbalovacího seznamu Název webu zvolte umístění, které chcete použít.
+Pro zadání nového umístění pro publikaci, klepněte na tlačítko Nový web.
+Pro více informací přejděte na <a href="#publish_page_settings">publikovat stránku - Nastavení</a>.</li>
+  <li>Klepněte na tlačítko Zveřejnit pro nahrání stránky na nové místo.</li>
+</ol>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="creating_a_new_publishing_site">Vytvoření nového místa pro publikaci</h2>
+
+<p>Pokud plánujete publikovat dokumenty na více než jednom místě (webovém serveru),
+můžete Editor nastavit tak, aby si uložil informace
+potřebné k publikování na každém z míst které budete používat, abyste je nemuseli
+zadávat pokaždé když budete své stránky publikovat.</p>
+
+<p>Pro vytvoření nového místa pro nahrávání začněte z okna Editoru:</p>
+
+<ol>
+<li>Otevřete nabídku Úpravy a klepněte na položku Nastavení pro publikování.
+Otevře se dialogové okno Nastavení pro publikování.</li>
+
+<li>Klepněte na tlačítko Nový web.</li>
+
+<li>Do editačního pole <q>Název webu</q> vložte přezdívku kterou se budete na toto místo odkazovat. 
+
+<p>Například pokud budete nové místo používat pro publikaci dokumentů
+týkající se projektu <q>Meteor</q>, zvolíte pro toto místo název <q>Meteor</q>.
+Názvy míst slouží k lepšímu přehledu o tom, jaký druh dokumentů publikujete
+na tom kterém místě.</p>
+</li>
+
+<li>Do editačního pole <q>Adresa pro zveřejnění</q> vložte celé URL tak, jak vám ho sdělil
+váš poskytovatel připojení, správce sítě nebo poskytovatel webhostingu.
+Toto URL musí začínat buď <tt>ftp://</tt> nebo <tt>http://</tt>. 
+
+<p>Adresa pro zveřejnění i určuje umístění, kam jsou dokumenty při publikování nahrány.
+Pokud nevíte co zde zadat, obraťte se na vašeho poskytovatele připojení nebo
+správce sítě.</p>
+</li>
+
+<li>Do editačního pole <q>HTTP adresa domovské stránky</q> vložte kompletní adresu
+stránek v tomto místě tak, jak byste ji zadali v okně prohlížeče.
+Adresu zadejte bez části obsahující název souboru nebo podadresář.
+
+
+<p>Toto URL musí začínat na <tt>http://</tt>. V některých případech
+je toto URL shodné s adresou pro publikaci.
+Pokud nevíte co zde zadat, obraťte se na vašeho poskytovatele připojení nebo
+správce sítě, případně ponechte pole prázdné.</p>
+</li>
+
+<li>Do editačního pole <q>Jméno uživatele</q> vložte
+jméno, které používáte pro přihlášení k vašemu poskytovateli připojení nebo webhostingu.</li>
+
+<li>Do editačního pole <q>Heslo</q> vložte heslo odpovídající zadanému uživatelskému jménu.</li>
+
+<li>Zvolte zaškrtávací políčko <q>Uložit heslo</q> pro bezpečné uložení zadaného hesla pomocí Správce
+hesel, abyste nemuseli heslo zadávat pokaždé, když budete nahrávat stránky na toto místo.</li>
+
+<li>Klepněte na tlačítko OK.</li>
+</ol>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="choosing_the_default_publishing_site">Změna výchozího místa pro nahrávání</h2>
+
+<p>Pokud máte definovaných více míst pro publikaci, ale
+většinou používáte jen jedno z těchto míst můžete z tohoto místa,
+které používáte nejčastěji, udělat výchozí místo pro publikaci.
+Editor bude toto výchozí místo používat pro publikaci všech dokumentů,
+pokud nezvolíte místo jiné.</p>
+
+<p>Bez ohledu na to kolik míst jste definovali, můžete vždy
+dokument publikovat na libovolné místo klepnutím na položku Publikovat jako
+z nabídky Soubor. Pro více informací navštivte <a href="#changing_the_filename_or_publishing_location">Změna jména souboru nebo
+místa pro nahrávání</a>.</p>
+
+<p>Pro změnu výchozího místa pro nahrávání začněte z okna Editoru:</p>
+
+<ol>
+<li>Otevřete nabídku Úpravy a klepněte na položku Nastavení pro publikování.
+Objeví se dialogové okno Nastavení pro publikování.</li>
+
+<li>Ze seznamu Weby pro zveřejnění vyberte název pro publikování, který chcete nastavit jako výchozí. 
+
+<p>Pokud máte definované jen jedno místo pro publikaci, Editor ho použije jako výchozí.</p>
+</li>
+
+<li>Klepněte na tlačítko Nastavit jako výchozí.</li>
+
+<li>Klepněte na tlačítko OK pro potvrzení změn.</li>
+</ol>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="deleting_a_publishing_site">Odstranění místa pro nahrávání</h2>
+
+<p>Smazáním místa pro nahrávání odstraní nastavení tohoto místa z Editoru. Pokud byste chtěli později publikovat na toto místo, museli byste znovu zadat nastavení k tomuto místu.</p>
+
+<p>Pro smazání místa pro nahrávání začněte z okna Editoru:</p>
+
+<ol>
+  <li>Otevřete nabídku Úpravy a klepněte na položku Nastavení pro publikování.
+Objeví se dialogové okno Nastavení pro publikování.</li>
+  <li>Ze seznamu Weby pro zveřejnění vyberte místo.</li>
+  <li>Klepněte na tlačítko Odebrat server.
+    <p>Editor odstraní pouze nastavení týkající se tohoto místa.
+Samotné místo (soubory na webovém serveru) zůstane beze změn.</p></li>
+  <li>Klepněte na tlačítko OK pro potvrzení změn.</li>
+</ol>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="solving_common_publishing_problems">Řešení běžných problémů při publikování na webovém serveru</h2>
+
+<p>Pokud se nepodaří publikovat jeden nebo více souborů v dialogovém okně Zveřejňuje se
+zobrazí chybové hlášení, které vám může pomoci zjistit, co se pokazilo
+a jak by se problém dal řešit.
+V dialogovém okně Zveřejňuje se klepněte na tlačítko Řešení problémů pro získání nápovědy
+při řešení vašich problémů s publikováním.</p>
+
+<p>Pokud problémy s publikováním přetrvávají, uložte soubor na váš pevný disk
+otevřením nabídky Soubor a klepnutím na položku Uložit.
+Potom budete moci soubor otevřít později a pokusit se jej znovu publikovat.
+Pro pozdější rychlé nalezení souboru otevřete nabídku Soubor v okně Editoru
+a klepněte na podnabídku Poslední dokumenty.</p>
+
+<div class="contentsBox">V této podsekci:
+  <ul>
+    <li><a href="#verifying_your_publishing_settings">Ověření vašeho nastavení pro publikaci</a></li>
+	<li><a href="#checking_your_filenames">Kontrola jmen souborů</a></li>
+	<li><a href="#fixing_publishing_errors">Náprava chyb při publikování</a></li>
+  </ul>
+</div>
+
+<h3 id="verifying_your_publishing_settings">Ověření vašeho nastavení pro publikaci</h3>
+
+<p>Pro ověření vašeho nastavení pro publikaci:</p>
+
+<ol>
+<li>Zavřete dialogové okno Zveřejňuje se, pokud je otevřeno.</li>
+
+<li>Otevřete nabídku Úpravy a klepněte na položku Nastavení pro publikování.</li>
+
+<li>V dialogovém okně Nastavení pro publikování potvrďte, že jsou nastavení zadána správně pro místo, kam se pokoušíte publikovat. Pokud si nejste jisti, obraťte se na svého poskytovatele připojení nebo webhostingu.<ul>
+
+<li><strong>Ověřte, zda jste zadali správně nastavení pro publikování</strong>: 
+Mohlo se stát, že jste udělali překlep v jednom ze zadávaných údajů.</li>
+
+<li><strong>Ověřte, zda jste zadali správnou adresu pro publikování</strong>: 
+Poskytovatelé připojení nebo webhostingu můžou adresu pro publikování uvádět jako
+<q>umístění serveru</q> nebo <q>server</q>. Často uvádějí adresu pro publikování ve tvaru
+<tt>ftp.nejakyhosting.cz/uzivatel</tt>, kde <tt>uzivatel</tt> je vaše uživatelské jméno. 
+
+<p>Správný tvar adresy pro publikování je takový, že začíná buď
+ <tt>ftp://</tt> nebo
+<tt>http://</tt>. Například pro výše zmíněný příklad by správný tvar adresy byl
+<tt>ftp://ftp.nejakyhosting.cz/uzivatel</tt>.</p>
+</li>
+</ul>
+</li>
+</ol>
+
+<h3 id="checking_your_filenames">Zkontrolujte jména souborů</h3>
+
+<p>U souborů, které se nepodařilo publikovat proveďte kontrolu jejich názvů.
+Ujistěte se, že názvy:</p>
+
+<ul>
+<li>Se sestávají jen z číslic a malých či velkých písmen.
+I když je možné v názvech souborů používat velká písmena,
+používáním pouze malých písmen se můžete vyhnout možným problémům při
+vyhledávání souborů po jejich publikování. 
+
+<p>Po publikování souborů na webovém serveru začne ve jménech souborů záležet
+ na velikosti písmen.
+ Může pro vás být těžší zapamatovat si jména souborů, která používají
+ pouze velká písmena nebo směs malých a velkých písmen.</p>
+
+<p>Například, pokud budete chtít najít soubor jeho napsáním do editačního pole Adresní řádky ve vašem webovém prohlížeči, budete muset zadat jméno přesně tak, jak jste ho vytvořili, s totožnou kombinací malých a velkých písmen.</p>
+</li>
+
+<li>Nepoužívejte interpunkci a mezery. Podtržítka ( _ )
+a pomlčky ( - ) jsou přípustné.</li>
+
+<li>Soubory zakončujte příponou .html nebo .htm .</li>
+
+<li>Nepoužívejte víc než 32 písmen.</li>
+</ul>
+
+<h3 id="fixing_publishing_errors">Řešení problémů s publikováním</h3>
+
+<p>Pokud se nepodaří publikovat jeden nebo více souborů, podívejte se
+na zprávy, které jsou zobrazeny v sekci Stav zveřejňování
+v dialogovém okně Zveřejňuje se. Jsou to chybové hlášení která vám
+pomohou zjistit co se pokazilo, a jak problém řešit.</p>
+
+<div class="contentsBox" style="background-color: #ebebeb;">
+  <p>Chybová hlášení:</p>
+  <p><a href="#file_not_found"><tt><var>Soubor</var> nenalezen.</tt></a></p>
+  <p><a href="#file_not_found"><tt><var>X</var> z <var>Y</var> souborů se nepodařilo zveřejnit.</tt></a></p>
+  <p><a href="#subdir_not_found"><tt>Podadresář <var>jméno</var> na tomto webu neexistuje nebo <var>soubor</var> je již použit v jiném adresáři.</tt></a></p>
+  <p><a href="#subdir_not_found"><tt>Název souboru <var>název</var> je již použit jako název adresáře.</tt></a></p>
+  <p><a href="#server_not_found"><tt>Server je nedostupný. Zkontrolujte připojení a zkuste to později znovu.</tt></a></p>
+  <p><a href="#no_permission"><tt>Nemáte oprávnění pro publikování na tento web.</tt></a></p>
+  <p><a href="#offline_error"><tt>Pracujete offline. Klepnutím na ikonu v pravém dolním rohu okna přejdete do režimu online.</tt></a></p>
+  <p><a href="#no_disk_space"><tt>Pro uložení souboru <var>název</var> není na disku dost místa.</tt></a></p>
+  <p><a href="#name_too_long"><tt>Název souboru nebo adresáře je příliš dlouhý.</tt></a></p>
+</div>
+
+<div class="errorMessage">
+<p id="file_not_found"><strong>Chybové hlášení</strong>:</p>
+
+<div class="contentsBox" style="background-color: #ebebeb;">
+  <tt><var>Soubor</var> nenalezen.</tt> 
+  <p>nebo</p>
+  <tt><var>X</var> z <var>Y</var> souborů se nepodařilo zveřejnit.</tt>
+</div>
+
+<p><strong>Popis chyby</strong>: Nepodařilo se publikovat jeden
+nebo více souborů s obrázkem nebo styly CSS, protože Editor nemohl
+tyto soubory nalézt. Typické příčiny mohou být:</p>
+
+<ul>
+  <li>Umístění souboru bylo špatně zadáno.</li>
+  <li>Umístění pro soubor na webu není dostupné.</li>
+  <li>Umístění souboru se změnilo nebo byl soubor smazán či přesunut na jiné místo.</li>
+</ul>
+
+<p><strong>Možná řešení</strong>:</p>
+
+<ul>
+  <li>Podívejte se na neplatné obrázky na stránce, kterou se pokoušíte publikovat.
+Neplatné obrázky jsou na stránce zobrazeny touto ikonkou: <img src="images/broken.gif" width="20" height="20" alt="" /> Pro opravení umístění (adresy) obrázku poklepejte na neplatný obrázek, zobrazí se dialogové okno Vlastnosti obrázku, kde můžete zadat správné umístění (adresu).</li>
+  <li>Odstraňte neplatný obrázek ze stránky - označte ho (tím, že na něj jednou klepnete) a stiskněte klávesu <kbd>Backspace</kbd> nebo <kbd>Delete</kbd>.</li>
+  <li>Pokud je obrázek nedostupný, protože server na kterém je umístěn není
+dostupný, zkuste publikovat stránku později.</li>
+  <li>Pokud je chybějící soubor soubor stylů CSS, nejdříve musíte
+ověřit správnost jeho umístění. Pro opravu umístění (adresy) souboru klepněte na panel
+Zdrojový kód a upravte umístění souboru ve zdrojovém kódu.
+Do úprav zdrojového kódu byste se měli pouštět, pouze pokud se v tom vyznáte.</li>
+</ul>
+</div>
+
+<div class="errorMessage">
+<p id="subdir_not_found"><strong>Chybové hlášení</strong>:</p>
+
+<div class="contentsBox" style="background-color: #ebebeb;">
+  <tt>Podadresář <var>jméno</var> na tomto webu neexistuje nebo <var>soubor</var> je již použit v jiném adresáři</tt>
+  <p>nebo</p>
+  <tt>Název souboru <var>název</var> je již použit jako název adresáře</tt>
+</div>
+
+<p><strong>Popis chyby</strong>: Zadali jste název adresáře (složky), který na cílovém webu neexistuje.
+Editor umí soubory publikovat pouze do adresářů, které již na cílovém webu
+existují. Nebo jste zadali název souboru, který je stejný jako název jednoho
+z adresářů na cílovém webu.</p>
+
+<p>Například se mohlo stát, že jste v dialogovém okně Publikovat stránku v panelu Zveřejnit:</p>
+
+<ul>
+  <li>V editačním poli <q>Podadresář webu pro tuto stránku</q> zadali adresář, který na cílovém webu neexistuje.</li>
+  <li>Vybrali jste zaškrtávací políčko <q>Zahrnout obrázky a další soubory</q> a zadali podadresář, který na cílovém webu neexistuje.</li> 
+  <li>Jeden ze souborů, který se pokoušíte publikovat má shodný název s adresářem který již existuje na cílovém webu.</li>
+</ul>
+
+<p><strong>Možná řešení</strong>:</p>
+
+<ul>
+  <li>Pro vytváření, přejmenování či mazání adresářů na cílovém webu budete muset použít jiný FTP program. Zeptejte se vašeho poskytovatele připojení, zda vám doporučí
+nějaký konkrétní FTP program. Informace o FTP programech se většinou dozvíte
+v sekci Pomoc nebo Podpora na stránkách vašeho poskytovatele připojení.
+FTP programy můžete stáhnout také na serverech se softwarem jako je např.
+slunecnice.cz.</li>
+  <li>Nepoužívejte názvy adresářů končící na <q>.html</q> nebo <q>.htm</q>.
+Pouze soubory obsahující stránky by měly končit na <q>.html</q> nebo <q>.htm</q>.</li>
+  <li>U názvů adresářů záleží na velikosti písmen, takže se ujistěte že jste název adresáře zadali přesně tak, jak existuje na cílovém webu.</li>
+</ul>
+</div>
+
+<div class="errorMessage">
+<p id="server_not_found"><strong>Chybové hlášení</strong>:</p>
+
+<div class="contentsBox" style="background-color: #ebebeb;">
+  <tt>Server je nedostupný. Zkontrolujte připojení a zkuste to později znovu.</tt>
+</div>
+
+<p><strong>Popis chyby</strong>: Tato chyba může mít hodně příčin. Například:</p>
+
+<ul>
+  <li>Nastavení webu pro zveřejnění může být špatně zadané.</li>
+  <li>Vaše připojení k Internetu může být přerušené.</li>
+  <li>Váš modem či jiné zařízení které používáte k připojení k Internetu nemusí správně pracovat.</li>
+  <li>Webový server, na který se pokoušíte publikovat může být mimo provoz z technických důvodů nebo jiných problémů.</li>
+  <li>Váš poskytovatel připojení nebo webhostingu může mít technické potíže.</li>
+</ul>
+
+<p><strong>Možná řešení</strong>:</p>
+
+<ul>
+  <li>Zkontrolujte nastavení publikování. Pro více informací přejděte na <a href="#verifying_your_publishing_settings">Ověření vašeho nastavení pro publikaci</a>.</li>
+  <li>Ujistěte se, že je vaše připojení k Internetu funkční tím, že zkusíte zobrazit nějakou webovou stránku v prohlížeči. Například že můžete zobrazit stránku <tt>http://www.mozilla.org</tt>.</li>
+  <li>Pokud vaše připojení k Internetu nefunguje, ověřte, zda všechen hardware, telefonická připojení, modemy a sítové karty pracují správně.</li>
+  <li>Pomocí prohlížeče se pokuste zobrazit nějakou stránku ze serveru, na který se pokoušíte publikovat. Pokud můžete zobrazit ostatní stránky kromě těch na serveru
+kam se pokoušíte publikovat, váš poskytovatel připojení či webhostingu má pravděpodobně
+poruchu.</li>
+ <li>Zkuste publikování opakovat později. Může se jednat o dočasnou poruchu na straně poskytovatele připojení či webhostingu nebo webového serveru.</li>
+</ul>
+</div>
+
+<div class="errorMessage">
+<p id="no_permission"><strong>Chybové hlášení</strong>:</p>
+
+<div class="contentsBox" style="background-color: #ebebeb;">
+  <tt>Nemáte oprávnění pro publikování na tento web.</tt>
+</div>
+
+<p><strong>Popis chyby</strong>: Pokoušíte se publikovat na místo,
+ke kterému nemáte oprávnění pro zápis. Můžete publikovat pouze na místa, kam vám byl
+přístup povolen vaším poskytovatelem připojení či webhostingu.</p>
+
+<p><strong>Možná řešení</strong>:</p>
+
+<ul>
+  <li>Ověřte, zda jste v dialogovém okně Publikovat stránku v panelu Zveřejnit zadali správné uživatelské jméno a heslo.</li>
+  <li>Obraťte se na na vašeho poskytovatele připojení pro zjištění, kam můžete své stránky publikovat na jejich serveru.</li>
+  <li>Najděte si poskytovatele připojení, který vám umožní publikovat vaše stránky na svém serveru. V okně prohlížeče dejte vyhledat <q>web hosting</q>.</li>
+  <li>Použijte službu Netscape My Webpage <a href="http://mywebpage.netscape.com/"><tt>http://mywebpage.netscape.com/</tt></a> [Eng.] pro umístění vašich stránek, a získáte až 20 MB volného místa zdarma.</li>
+</ul>
+</div>
+
+<div class="errorMessage">
+<p id="offline_error"><strong>Chybové hlášení</strong>:</p>
+
+<div class="contentsBox" style="background-color: #ebebeb;">
+  <tt>Pracujete offline. Klepnutím na ikonu v pravém dolním rohu okna přejděte do režimu online.</tt>
+</div>
+
+<p><strong>Popis chyby</strong>:
+Pokoušíte se publikovat stránku v okamžiku, kdy je Internetové připojení v aplikaci &brandShortName; ve stavu <q>offline</q> (<q>odpojeno</q>). Pro publikování stránek musí být připojení ve stavu <q>online</q> (<q>připojeno</q>).</p>
+
+<p>Ověřte, v jakém stavu je vaše Internetové připojení v aplikaci &brandShortName; tím, že se podíváte
+na indikační ikonku v pravém dolním rohu okna. Pokud jste ve stavu <q>offline</q> ikonka
+vypadá takto <img src="images/offline.png" width="32" height="21" alt="" />.</p>
+
+<p><strong>Možná řešení</strong>:</p>
+
+<ul>
+  <li>Klepněte na ikonku online/offline pro přechod do stavu <q>online</q>. Ve stavu <q>online</q> by měla vypadat takto: <img src="images/online.png" width="32" height="20" alt="" />.</li>
+  <li>Ujistěte se, že je vaše připojení k Internetu funkční tím, že zkusíte zobrazit nějakou webovou stránku v prohlížeči. Například že můžete zobrazit stránku <tt>http://www.mozilla.org</tt>.</li>
+</ul>
+</div>
+
+<div class="errorMessage">
+<p id="no_disk_space"><strong>Chybové hlášení</strong>:</p>
+
+<div class="contentsBox" style="background-color: #ebebeb;">
+  <tt>Pro uložení souboru <var>název</var> není na disku dost místa.</tt>
+</div>
+
+<p><strong>Popis chyby</strong>: Pevný disk serveru, na který se pokoušíte publikovat, je plný nebo
+jste překročili místo, které vám vyhradil váš poskytovatel připojení či webhostingu.</p>
+
+<p><strong>Možná řešení</strong>:</p>
+
+<ul>
+  <li>Použijte FTP program pro smazání nepotřebných souborů, které zabírají místo na cílovém webovém serveru. Zeptejte se vašeho poskytovatele připojení, zda vám doporučí
+nějaký konkrétní FTP program. Informace o FTP programech se většinou dozvíte
+v sekci Pomoc nebo Podpora na stránkách vašeho poskytovatele připojení.
+FTP programy můžete stáhnout také na serverech se softwarem jako je např.
+slunecnice.cz.</li>
+  <li>Zjistěte si od vašeho poskytovatele připojení či webhostingu jak navýšit
+prostor pro vaše stránky nebo přejděte k jiné službě, která uspokojí vaše nároky.</li>
+  <li>Pokud je server umístěn ve firmě nebo škole, obraťte se na správce sítě
+pro zjištění jiné adresy s větší kapacitou, kde byste mohli vaše stránky publikovat, nebo ho požádejte o navýšení prostoru dostupného pro vaše stránky.</li>
+</ul>
+</div>
+
+<div class="errorMessage">
+<p id="name_too_long"><strong>Chybové hlášení</strong>:</p>
+
+<div class="contentsBox" style="background-color: #ebebeb;">
+  <tt>Název souboru nebo adresáře je příliš dlouhý.</tt>
+</div>
+
+<p><strong>Popis chyby</strong>: Délka (počet písmen) názvu souboru či adresáře 
+není podporován serverem, na který se pokoušíte publikovat.</p>
+
+<p><strong>Možná řešení</strong>:</p>
+
+<ul>
+  <li>Omezte délku názvů souborů a adresářů na 32 písmen.
+Některé operační systémy neumí pracovat s názvy delšími než 32 písmen.</li>
+</ul>
+</div>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="publishing_settings">Volby publikování</h2>
+
+<p>Tato sekce popisuje volby publikování Editoru. Pro informace o obecných volbách Editoru či nastavení pro novou stránku přejděte na <a href="#composer_preferences">Nastavení Editoru</a>.</p>
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#publish_page_publish">Publikovat stránku - Zveřejnit</a></li>
+	<li><a href="#publish_page_settings">Publikovat stránku - Nastavení</a></li>
+	<li><a href="#publish_settings">Nastavení pro publikování</a></li>
+  </ul>
+</div>
+
+<h3 id="publish_page_publish">Publikovat stránku - Zveřejnit</h3>
+
+<p>Panel Zveřejnit v dialogovém okně Publikovat stránku se používá pro zadání
+  místa, kam se má dokument publikovat. Tato nastavení
+  jsou platná pro dokument, se kterým se právě pracuje.</p>
+
+<p>Pokud nemáte zobrazeno dialogové okno Publikovat stránku panel Zveřejnit postupujte následovně:</p>
+
+<ol>
+<li>Otevřete nabídku Soubor a klepněte na položku Publikovat jako. Zobrazí se dialogové okno Publikovat stránku.</li>
+
+<li>Klepněte na panel Zveřejnit.</li>
+</ol>
+
+<ul>
+<li><strong>Název webu</strong>: Zobrazuje seznam všech webů, na něž publikujete, abyste si mohli zvolit ten které chcete zrovna použít. Pro vytvoření nového klepněte na tlačítko
+Nový web.</li>
+
+<li><strong>Nadpis stránky</strong>:
+Určuje nadpis stránky tak, jak se zobrazuje v titulku okna při prohlížení této stránky v prohlížeči. Nadpis stránky se také použije v seznamu záložek, pokud stránku přidáte k záložkám.</li>
+
+<li><strong>Název souboru</strong>: Určuje název souboru dokumentu.
+Ujistěte se, že jste k jménu souboru přidali koncovku .html nebo .htm.
+
+<p><strong>Varování</strong>: Pokud na cílovém webu existuje soubor se stejným názvem jako ten, který
+budete publikovat, původní soubor bude nahrazen nově nahrávaným souborem.
+Nebude zobrazen dotaz na potvrzení této akce.</p>
+</li>
+
+<li><strong>Podadresář webu pro tuto stránku</strong>: 
+Pokud necháte toto pole prázdné, Editor bude publikovat stránku do hlavního
+(kořenového) adresáře na tomto webu.
+Pokud chcete stránku publikovat do adresáře kdesi uvnitř hlavního adresáře
+na tomto webu, zadejte název podadresáře nebo ho vyberte ze seznamu.
+Editor uchovává umístění která sem zadáte, takže později můžete použít
+rozbalovací seznam pro výběr jednoho z dříve použitých umístění.
+Pamatujte, že u názvů adresářů záleží na velikosti písmen.
+
+<p><strong>Poznámka</strong>: Adresář, který zadáte již musí na cílovém webu existovat.</p>
+</li>
+
+<li><strong>Zahrnout obrázky a další soubory</strong>:
+Pokud je toto zaškrtávací políčko vybráno, Editor bude publikovat
+obrázky a další soubory, které jsou použity v této stránce.
+Můžete zvolit, aby se tyto soubory publikovaly do stejného umístění (adresáře) jako
+stránka, nebo můžete zvolit jiný adresář který již existuje kdesi pod
+hlavním adresářem.</li>
+</ul>
+
+<p><strong>Tip</strong>: Pro vyváření adresářů na cílovém webu či mazání publikovaných stránek či obrázků budete potřebovat FTP program. Zeptejte se vašeho poskytovatele připojení, zda vám doporučí nějaký konkrétní FTP program. Informace o FTP programech se většinou dozvíte v sekci Pomoc nebo Podpora na stránkách vašeho poskytovatele připojení. FTP programy můžete stáhnout také na serverech se softwarem jako je např. slunecnice.cz.</p>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h3 id="publish_page_settings">Publikovat stránku - Nastavení</h3>
+
+<p>Panel Nastavení v dialogovém okně Publikovat stránku se používá pro zadání
+  přihlašovacích informací (uživatelského jména a hesla) a nastavení
+  pro publikaci. Zde zadané údaje se použijí pro dokument, se kterým právě pracujete
+  a pro jakékoli další dokumenty, které budete publikovat na toto místo.</p>
+
+<p>Pokud nemáte zobrazeno dialogové okno Publikovat stránku panel Nastavení postupujte následovně:</p>
+
+<ol>
+  <li>Otevřete nabídku Soubor a klepněte na položku Publikovat jako. Zobrazí se dialogové okno Publikovat stránku.</li>
+  <li>Klepněte na panel Nastavení.</li>
+</ol>
+
+<ul>
+  <li><strong>Název webu</strong>: Přezdívka pro tento web. Zadejte krátké jméno, které vám pomůže web identifikovat.</li>
+  <li><strong>Adresa pro zveřejnění</strong>:
+Do editačního pole zadejte celé URL tak, jak vám ho sdělil
+váš poskytovatel připojení, správce sítě nebo poskytovatel webhostingu.
+Toto URL musí začínat buď <tt>ftp://</tt> nebo <tt>http://</tt>. This name is often referred to as the
+	<q>host name</q> or the <q>host server name</q>.
+
+    <p>Adresa pro zveřejnění i určuje umístění, kam jsou dokumenty při publikování nahrány.
+Pokud nevíte co zde zadat, obraťte se na vašeho poskytovatele připojení nebo správce sítě.</p></li>
+  <li><strong>HTTP adresa domovské stránky</strong>: Kompletní adresa
+stránek tohoto webu tak, jak byste ji zadali v okně prohlížeče.
+Adresu zadejte bez části obsahující název souboru nebo podadresář.
+    <p>Toto URL musí začínat na <tt>http://</tt>. V některých případech
+je toto URL shodné s adresou pro publikaci. Pokud nevíte, co zde zadat, obraťte se na vašeho poskytovatele připojení nebo správce sítě, případně ponechte pole prázdné.</p></li>
+  <li><strong>Jméno uživatele</strong>: Jméno, které používáte pro přihlášení k vašemu poskytovateli připojení nebo webhostingu.</li>
+  <li><strong>Heslo</strong>: Heslo odpovídající zadanému uživatelskému jménu.</li>
+  <li><strong>Uložit heslo</strong>: Vyberte toto zaškrtávací políčko pro bezpečné uložení zadaného hesla pomocí Správce hesel, abyste nemuseli heslo zadávat pokaždé když budete nahrávat stránky na toto místo.</li></ul>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h3 id="publish_settings">Nastavení pro publikování</h3>
+
+<p>V dialogovém okně Nastavení pro publikování můžete vytvářet, upravovat či mazat
+weby pro publikování a také zde můžete určit výchozí web pro publikování.</p>
+
+<p>Pokud nemáte dialogové okno Nastavení pro publikování zobrazeno, postupujte následovně:</p>
+
+<ol>
+<li>Otevřete nabídku Úpravy a klepněte na položku Nastavení pro publikování. Dialogové okno se zobrazí.</li>
+</ol>
+
+<ul>
+<li><strong>Nový web</strong>: Zvolte pro zadání nového webu pro publikování.
+Editor přidá tento nový web do seznamu dostupných webů pro publikaci.</li>
+
+<li><strong>Nastavit jako výchozí</strong>:
+Nastaví vybraný web jako výchozí. Typicky se takto nastaví web, který
+používáte pro publikaci dokumentů nejčastěji.
+Všechny dokumenty budou publikovány na výchozí web, pokud
+při jejich publikování v dialogovém okně Publikovat stránku nezvolíte web jiný.
+
+<p>Pro publikaci dokumentu na jiné místo otevřete nabídku Soubor a klepněte na položku Publikovat jako... a zadejte jiný cíl.</p>
+</li>
+
+<li><strong>Odebrat server</strong>: Odstraní zvolený server (web) a jeho nastavení z Editoru.</li>
+
+<li><strong>Název webu</strong>: Do editačního pole vložte název, pod kterým si budete toto místo pamatovat.</li>
+
+<li><strong>Adresa pro zveřejnění</strong>: Do editačního pole zadejte celé URL tak, jak vám ho sdělil
+váš poskytovatel připojení, správce sítě nebo poskytovatel webhostingu.
+Toto URL musí začínat buď <tt>ftp://</tt> nebo <tt>http://</tt>.
+
+<p>Adresa pro zveřejnění i určuje umístění, kam jsou dokumenty při publikování nahrány.
+Pokud nevíte co zde zadat, obraťte se na vašeho poskytovatele připojení nebo
+správce sítě.</p>
+</li>
+
+<li><strong>HTTP adresa domovské stránky</strong>: Kompletní adresa
+stránek tohoto webu tak, jak byste ji zadali v okně prohlížeče.
+Adresu zadejte bez části obsahující název souboru nebo podadresář.
+
+<p>Toto URL musí začínat na <tt>http://</tt>. V některých případech
+je toto URL shodné s adresou pro publikaci.
+Pokud nevíte, co zde zadat, obraťte se na vašeho poskytovatele připojení nebo
+správce sítě, případně ponechte editační pole prázdné.</p>
+</li>
+
+<li><strong>Jméno uživatele</strong>: Jméno, které používáte pro přihlášení k vašemu poskytovateli připojení nebo webhostingu.</li>
+
+<li><strong>Heslo</strong>: Heslo odpovídající zadanému uživatelskému jménu.</li>
+
+<li><strong>Uložit heslo</strong>: Vyberte toto zaškrtávací políčko pro bezpečné uložení zadaného hesla pomocí Správce hesel, abyste nemuseli heslo zadávat pokaždé, když budete nahrávat stránky na toto místo.</li>
+</ul>
+
+<p>[<a href="#publishing_your_pages_on_the_web">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="composer_preferences">Předvolby Editoru</h1>
+
+<p>Tato sekce popisuje předvolby v kategorii Editor.
+Pokud nemáte tuto kategorii zrovna zobrazenu, postupujte následovně:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span>
+    <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>Dvojklepnutím na kategorii Editor zobrazíte seznam podkategorií.</li>
+</ol>
+
+<p>Pro informace o volbách publikování Editoru přejděte na <a href="#publishing_settings">Volby publikování</a>.</p>
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#composer">Editor</a></li>
+	<li><a href="#new_page_settings">Nastavení nové stránky</a></li>
+  </ul>
+</div>
+
+<h2 id="composer">Předvolby Editoru - Editor</h2>
+
+<p>V předvolbách Editoru můžete zadat předvolby pro ukládání souborů a editaci tabulek.
+Tyto předvolby se projeví při editaci všech dokumentů.</p>
+
+<p>Pokud nemáte zobrazenu kategorii Editor v předvolbách Editoru, postupujte následovně:</p>
+
+<ol>
+<li>Otevřete nabídku <span class="mac">&brandShortName;</span>
+    <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+
+<li>Klepněte na kategorii Editor.</li>
+</ol>
+
+<ul>
+<li><strong>Nejvyšší počet posledních dokumentů</strong>:
+Určuje maximální počet stránek, které jsou zobrazeny v seznamu
+po klepnutí na položku Poslední dokumenty v nabídce Soubor.</li>
+
+<li><strong>Zachovat originální formátování kódu</strong>:
+Zvolte tuto volbu, pokud si přejete zachovávat originální formátování (řádky navíc, tabulátory apod.) v HTML kódu. Odškrutnutím této volby povolíte Editoru jeho vlastní formátování, které učiní výsledný kód lépe čitelným. <em>Tato předvolba nebude mít žádný efekt na výsledné zobrazení stránky v prohlížeči.</em></li>           
+
+<li><strong>Při ukládání stránky uložit také související obrázky a soubory</strong>:
+Pokud je zvoleno toto zaškrtávací políčko, budou při prvním uložení dokumentu či uložení
+dokumentu na nové místo, uloženy na stejné místo i všechny obrázky, javascripty (JS), kaskádové styly (CSS) a další související soubory. Pokud není toto zaškrtávací políčko vybráno, budou uloženy pouze soubory HTML.
+
+<p>Například, pokud editujete stránku z webu, tato volba
+zajistí, že při jejím uložení na disk budou lokálně uloženy
+i všechny související soubory.</p>
+</li>
+
+<li><strong>Vždy zobrazit dialog s nastavením pro publikování stránek</strong>:
+Pokud je zvoleno toto zaškrtávací políčko, Editor vždy při klepnutí na tlačítko Publikovat
+či klepnutím na položku Publikovat z nabídky Soubor zobrazí dialogové okno Publikovat stránku.
+Pokud není toto zaškrtávací políčko vybráno, Editor toto dialogové okno zobrazí pouze pokud
+potřebuje k publikaci zadat některé informace.</li>
+
+<li><strong>Při vkládání/mazání buněk zachovat rozvržení tabulky</strong>:
+Zvolte toto zaškrtávací políčko pokud chcete, aby Editor vždy zachovával
+rozvržení tabulky (tj. zachovával její pravoúhlý tvar) přidáváním
+buněk, když je to potřeba.
+Pokud není toto zaškrtávací políčko vybráno, tak pokud smažete jednu nebo více buněk
+Editor odstraní také rámeček kolem buňky, což může vést k tabulce
+s prolukami nebo k nepravidelnému vzhledu tabulky z důvodu nerovnoměrného
+počtu buněk.</li>
+
+<li><strong>Použít CSS styly místo HTML prvků a atributů</strong>:
+Povolí použití kaskádových stylů (Cascading Style Sheet - CSS)
+pro formátování vašich dokumentů. S tímto vybraným zaškrtávacím políčkem Editor generuje
+kód HTML ve verzi 4.1 s použitím stylů CSS vložených do značek (tagů).
+
+<p>Pokud není toto zaškrtávací políčko vybráno, Editor
+generuje kód HTML ve verzi 4.1 ovšem bez použití stylů CSS.</p>
+
+<p>HTML s CSS je proti HTML bez CSS lépe přenositelné a udržovatelné
+a lépe kompatibilní při prohlížení různými prohlížeči.
+Pokud vyberete toto zaškrtávací políčko a budete editovat dokument který nepoužívá CSS,
+Editor v tomto dokumentu nahradí původní způsob uložení informací o stylu styly
+CSS.</p>
+
+<p>S povolenými styly CSS můžete zadat barvu pro zvýraznění textu použitím tlačítka
+ na Liště stylů.  Můžete také určit barvu pozadí pro jakýkoli jednotlivý prvek na stránce. (Toto není možné, pokud není povoleno použití CSS stylů.)</p>
+</li>
+  <li><strong>Odřádkování v odstavci vždy vytvoří nový odstavec</strong>:    
+  Pokud tuto volbu zaškrtnete, nový odstavec bude vytvořen vždy, když stisknete klávesu <kbd class="mac">Return</kbd><kbd class="noMac">Enter</kbd> uvnitř odstavce. Pokud tutu volbu ponecháte nezaškrtnutou, provede se přechod na novou řádku.</li>                                                  
+</ul>
+
+<p>[<a href="#composer_preferences">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="new_page_settings">Předvolby Editoru - Nastavení nové stránky</h2>
+
+<p>Nastavení nové stránky vám dovolují určit volby pro barvy a pozadí každé nově vytvořené stránky.</p>
+
+<p>Pokud nemáte zobrazenu podkategorii předvoleb Nastavení nové stránky, postupujte následovně:</p>
+
+<ol>
+<li>Otevřete nabídku <span class="mac">&brandShortName;</span>
+    <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+
+<li>Dvojklepněte na kategorii Editor a klepněte na podkategorii Nastavení nové stránky.</li>
+</ol>
+
+<ul>
+<li><strong>Autor</strong>: Zadejte vaše jméno do editačního pole. Toto přidá vaše jméno
+do zdrojového HTML kódu každé stránky, kterou vytvoříte.</li>
+
+<li><strong>Neurčovat barvy</strong>:
+ Vyberte tento přepínač pokud chcete, aby se při zobrazení vaší stránky
+ použilo nastavení barev, jak ho má zadané ten kdo si stránku prohlíží.</li>
+
+<li><strong>Použít vlastní barvy</strong>:
+Vyberte tento přepínač, pokud chcete vždy určit barvy textu a
+odkazů. Potom zadejte barvu pro každý prvek klepnutím na tlačítko s barvou.</li>
+
+<li><strong>Obrázek na pozadí</strong>: Do editačního pole napište umístění a jméno souboru
+s obrázkem na pozadí nebo klepněte na tlačítko Vybrat soubor pro nalezení souboru na vašem pevném disku. 
+
+<p><strong>Poznámka</strong>:
+Obrázek na pozadí je na stránce rozmístěn dlaždicovitě (vedle sebe).
+Použití obrázku pozadí potlačí barvu pozadí.</p>
+</li>
+</ul>
+
+<p>Pro změnu jména autora pro určitou stránku: Otevřete nabídku Formát a klepněte na položku Vlastnosti stránky.</p>
+
+<p>Pro změnu barev a obrázku na pozadí pro určitou stránku:
+Otevřete nabídku Formát a klepněte na položku Barvy a pozadí stránky.</p>
+
+<p>[<a href="#composer_preferences">Návrat na začátek kapitoly</a>]</p>
+
+<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+
+</body>
+</html>
+

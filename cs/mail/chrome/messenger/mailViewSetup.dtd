@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+<!ENTITY mailViewSetupTitle.label "Nastavení zobrazení zprávy">
+<!ENTITY mailViewHeading.label "Název pohledu na zprávu:">
+<!ENTITY mailViewHeading.accesskey "N">
+<!ENTITY searchTermCaption.label "Pokud je tento pohled vybrán, zobrazí se pouze zprávy, které vyhovují:">

@@ -1,0 +1,21 @@
+<!ENTITY newsblogTitle.label "Nastavení RSS účtu">
+
+<!ENTITY biffStart.label "Kontrolovat nové články každých">
+<!ENTITY biffStart.accesskey "K">
+<!ENTITY biffEnd.label "minut">
+
+<!ENTITY loginAtStartup.label "Po spuštění zkontrolovat nové články">
+<!ENTITY loginAtStartup.accesskey "z">
+
+<!ENTITY useQuickMode.label "Zobrazit stručný obsah článku namísto načtení webové stránky">
+<!ENTITY useQuickMode.accesskey "o">
+
+<!ENTITY manageSubscriptions.label "Správce RSS kanálů…">
+<!ENTITY manageSubscriptions.accesskey "S">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName "RSS kanaly">
+<!ENTITY rss.wizardShortName "RSS">  
+<!ENTITY rss.wizardLongName "Účet pro RSS kanály">
+<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY rss.hostName "RSS kanaly">

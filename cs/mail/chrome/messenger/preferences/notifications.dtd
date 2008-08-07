@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title "Přizpůsobení upozornění na novou poštu">
+<!ENTITY window.width "30em"> 
+
+<!ENTITY alertCustomization.intro "Jaké pole zobrazovat v okně upozornění:">
+<!ENTITY previewText.label "Náhled na tělo zprávy">
+<!ENTITY previewText.accesskey "N">
+<!ENTITY subject.label "Předmět">
+<!ENTITY subject.accesskey "P">
+<!ENTITY sender.label "Odesílatel">
+<!ENTITY sender.accesskey "O">

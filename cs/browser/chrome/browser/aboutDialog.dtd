@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title "O aplikaci &brandFullName;">
+<!ENTITY copyright "Autoři a spolupracovníci">
+<!ENTITY copyright.accesskey "A">
+<!ENTITY aboutLink "&lt; O aplikaci &brandFullName;">
+<!ENTITY aboutLink.accesskey "O">
+<!ENTITY aboutVersion "verze">
+<!ENTITY copyrightInfo "&#169;1998-2008 Autoři a spolupracovníci. Všechna práva vyhrazena. Firefox a logo Firefox jsou obchodními známkami organizace Mozilla Foundation. Všechna práva vyhrazena.">

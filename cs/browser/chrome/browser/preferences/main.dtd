@@ -1,0 +1,37 @@
+<!ENTITY startup.label "Spuštění">
+
+<!ENTITY startupPage.label "Při startu aplikace &brandShortName;:">
+<!ENTITY startupPage.accesskey "s">
+<!ENTITY startupHomePage.label "Zobrazit domovskou stránku">
+<!ENTITY startupBlankPage.label "Zobrazit prázdnou stránku">
+<!ENTITY startupLastSession.label "Zobrazit okna a panely z minula">
+<!ENTITY location.label "Domovská stránka:">
+<!ENTITY location.accesskey "D">
+<!ENTITY useCurrentPage.label "Použít aktuální stránku">
+<!ENTITY useCurrentPage.accesskey "a">
+<!ENTITY useMultiple.label "Použít aktuální stránky">
+<!ENTITY useBookmark.label "Použít záložku">
+<!ENTITY useBookmark.accesskey "o">
+<!ENTITY restoreDefault.label "Obnovit výchozí">
+<!ENTITY restoreDefault.accesskey "b">
+
+<!ENTITY downloads.label "Správce stahování">
+
+<!ENTITY showWhenDownloading.label "Zobrazit okno Správce stahování při začátku stahování">
+<!ENTITY showWhenDownloading.accesskey "r">
+<!ENTITY closeWhenDone.label "Zavřít Správce stahování po dokončení všech stahování">
+<!ENTITY closeWhenDone.accesskey "Z">
+<!ENTITY saveTo.label "Uložit všechny soubory do">
+<!ENTITY saveTo.accesskey "U">
+<!ENTITY chooseFolderWin.label "Procházet…">
+<!ENTITY chooseFolderWin.accesskey "P">
+<!ENTITY chooseFolderMac.label "Vybrat…">
+<!ENTITY chooseFolderMac.accesskey "y">
+<!ENTITY alwaysAsk.label "U každého souboru se dotázat, kam ho uložit">
+<!ENTITY alwaysAsk.accesskey "k">
+
+<!ENTITY addonsMgr.label "Doplňky">
+<!ENTITY manageAddonsDescWin.label "Změnit možnosti vašich doplňků">
+<!ENTITY manageAddonsDescUnix2.label "Změnit předvolby vašich doplňků">
+<!ENTITY manageAddons.label "Správce doplňků…">
+<!ENTITY manageAddons.accesskey "S">

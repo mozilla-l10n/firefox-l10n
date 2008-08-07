@@ -1,0 +1,22 @@
+<!ENTITY newMessageCmd.label "Zpráva">
+<!ENTITY newMessageCmd.accesskey "Z">
+<!ENTITY newMessageCmd.key "M">
+
+<!ENTITY newCardCmd.label "Kontakt pro složku kontaktů…">
+<!ENTITY newCardCmd.accesskey "K">
+
+<!ENTITY sendPage.label "Odeslat stránku…">
+<!ENTITY sendPage.accesskey "L">
+
+<!ENTITY contextSendThisPage.label "Odeslat tuto stránku…">
+<!ENTITY contextSendThisPage.accesskey "e">
+<!ENTITY contextSendThisLink.label "Odeslat tento odkaz…">
+<!ENTITY contextSendThisLink.accesskey "o">
+<!ENTITY contextSendImage.label "Odeslat obrázek…">
+<!ENTITY contextSendImage.accesskey "b">
+<!ENTITY contextSendFrame.label "Odeslat rámec…">
+<!ENTITY contextSendFrame.accesskey "r">
+
+<!ENTITY sendLinkCmd.label "Odeslat odkaz…">
+<!ENTITY sendLinkCmd.accesskey "o">
+

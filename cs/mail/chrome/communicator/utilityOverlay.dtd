@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label "Soubor">
+<!ENTITY fileMenu.accesskey "s">
+<!ENTITY newMenu.label "Nový objekt">
+<!ENTITY newMenu.accesskey "N">
+
+<!ENTITY editMenu.label "Úpravy">
+<!ENTITY editMenu.accesskey "a">
+<!ENTITY undoCmd.label "Zpět">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "Z">
+<!ENTITY redoCmd.label "Znovu">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "O">
+<!ENTITY cutCmd.label "Vyjmout">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "v">
+<!ENTITY copyCmd.label "Kopírovat">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Vložit">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY deleteCmd.label "Smazat">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY selectAllCmd.label "Vybrat vše">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "Možnosti…">
+<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY preferencesCmdUnix.label "Předvolby">
+<!ENTITY preferencesCmdUnix.accesskey "e">
+ 
+<!ENTITY findTypeTextCmd.label "Hledat během psaní text">
+<!ENTITY findTypeTextCmd.accesskey "x">
+
+<!ENTITY viewMenu.label "Zobrazit">
+<!ENTITY viewMenu.accesskey "z">
+<!ENTITY viewToolbarsMenu.label "Zobrazit/Skrýt">
+<!ENTITY viewToolbarsMenu.accesskey "o">
+<!ENTITY showTaskbarCmd.label "Stavový řádek">
+<!ENTITY showTaskbarCmd.accesskey "S">
+
+<!ENTITY direct.label "Online (proxy: žádná)">
+<!ENTITY direct.accesskey "N">
+<!ENTITY manual.label "Online (proxy: manuální)">
+<!ENTITY manual.accesskey "M">
+<!ENTITY pac.label "Online (proxy: automatická)">
+<!ENTITY pac.accesskey "A">
+
+<!ENTITY proxy.label "Konfigurace proxy serveru…">
+<!ENTITY proxy.accesskey "C">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Zavřít">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "Z">
+
+<!ENTITY closeWindow.label "Zavřít okno">
+
+<!ENTITY quitApplicationCmd.label "Ukončit">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "k">
+
+<!ENTITY quitApplicationCmdUnix.label "Ukončit">
+<!ENTITY quitApplicationCmdUnix.accesskey "k">
+
+<!ENTITY quitApplicationCmdMac.label "Ukončit &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "k">

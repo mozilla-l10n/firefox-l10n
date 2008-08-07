@@ -1,0 +1,11 @@
+<!ENTITY accountTitle.label "Nastavení účtu">
+<!ENTITY accountSettingsDesc.label "Toto je speciální účet, se kterým nejsou spojené žádné identity">
+<!ENTITY accountName.label "Název účtu:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "Uložení zprávy">
+<!ENTITY emptyTrashOnExit.label "Vymazat koš při ukončení">
+<!ENTITY emptyTrashOnExit.accesskey "v">
+<!ENTITY localPath.label "Místní adresář:">
+<!ENTITY localFolderPicker.label "Umístění místních složek:">
+<!ENTITY browseFolder.label "Procházet…">
+<!ENTITY browseFolder.accesskey "P">

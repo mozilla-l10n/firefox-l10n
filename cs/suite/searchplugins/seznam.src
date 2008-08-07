@@ -1,0 +1,14 @@
+<search 
+   name="Seznam"
+   description="Hledani na Seznam.cz"
+   method="GET"
+   action="http://search.seznam.cz/"
+   queryEncoding="utf-8"
+   queryCharset="utf-8" 
+>
+
+<input name="q" user>
+<input name="sourceid" value="seamonkey">
+
+</search>
+ 

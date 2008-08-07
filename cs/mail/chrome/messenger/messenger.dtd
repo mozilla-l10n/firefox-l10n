@@ -1,0 +1,679 @@
+<!ENTITY messengerWindow.title "Pošta a Diskusní skupiny">
+<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
+
+<!-- File Menu -->
+<!ENTITY newFolderCmd.label "Složka…">
+<!ENTITY newFolderCmd.accesskey "S">
+<!ENTITY newTabCmd.label "Nový panel">
+<!ENTITY newTabCmd.accesskey "p">
+<!ENTITY closeTabCmd.label "Zavřít panel">
+<!ENTITY closeTabCmd.accesskey "z">
+<!ENTITY newVirtualFolderCmd.label "Uložené hledání…">
+<!ENTITY newVirtualFolderCmd.accesskey "U">
+<!ENTITY newAccountCmd.label "Účet…">
+<!ENTITY newAccountCmd.accesskey "t">
+<!ENTITY openMessageMenu.label "Otevřít">
+<!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
+<!ENTITY openMessageFileCmd.accesskey "O">
+<!ENTITY openAttachmentCmd.label "Přílohy">
+<!ENTITY openAttachmentCmd.accesskey "P">
+<!ENTITY saveAsMenu.label "Uložit jako">
+<!ENTITY saveAsMenu.accesskey "j">
+<!ENTITY saveAsFileCmd.label "Soubor">
+<!ENTITY saveAsFileCmd.accesskey "S">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Šablona">
+<!ENTITY saveAsTemplateCmd.accesskey "b">
+<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgForCmd.label "Přijmout nové zprávy pro">
+<!ENTITY getNewMsgForCmd.accesskey "r">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Všechny účty">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "V">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuální účet">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "A">
+<!ENTITY getNextNMsgCmd.label "Přijmout dalších 500 diskusních příspěvků">
+<!ENTITY getNextNMsgCmd.accesskey "d">
+<!ENTITY sendUnsentCmd.label "Odeslat neodeslané zprávy">
+<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY subscribeCmd.label "Správce odebírání…">
+<!ENTITY subscribeCmd.accesskey "S">
+<!ENTITY renameFolder.label "Přejmenovat složku…">
+<!ENTITY renameFolder.accesskey "m">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Provést údržbu složek">
+<!ENTITY compactFolder.accesskey "t">
+<!ENTITY emptyTrashCmd.label "Vysypat koš">
+<!ENTITY emptyTrashCmd.accesskey "y">
+<!ENTITY importCmd.label "Importovat…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY offlineMenu.label "Režim offline">
+<!ENTITY offlineMenu.accesskey "R">
+<!ENTITY offlineGoOfflineCmd.label "Pracovat offline">
+<!ENTITY offlineGoOfflineCmd.accesskey "P">
+<!ENTITY synchronizeOfflineCmd.label "Stáhnout/Synchronizovat…">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd.label "Nastavení režimu offline">
+<!ENTITY settingsOfflineCmd.accesskey "N">
+<!ENTITY downloadSelectedCmd.label "Stáhnout vybrané zprávy">
+<!ENTITY downloadSelectedCmd.accesskey "v">
+<!ENTITY downloadStarredCmd.label "Stáhnout zprávy s hvězdičkou">
+<!ENTITY downloadStarredCmd.accesskey "t">
+<!ENTITY printCmd.label "Tisk…">
+<!ENTITY printCmd.accesskey "T">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Náhled tisku">
+<!ENTITY printPreviewCmd.accesskey "h">
+<!ENTITY printPreviewCmd.key "v">
+<!ENTITY printSetupCmd.label "Vzhled stránky…">
+<!ENTITY printSetupCmd.accesskey "V">
+
+<!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Smazat zprávu">
+<!ENTITY deleteMsgCmd.accesskey "m">
+<!ENTITY undeleteMsgCmd.label "Obnovit zprávu">
+<!ENTITY undeleteMsgCmd.accesskey "n">
+<!ENTITY cancelNewsMsgCmd.label "Zrušit zprávu">
+<!ENTITY cancelNewsMsgCmd.accesskey "r">
+<!ENTITY deleteMsgsCmd.label "Smazat označené zprávy">
+<!ENTITY deleteMsgsCmd.accesskey "m">
+<!ENTITY undeleteMsgsCmd.label "Obnovit vybrané smazané zprávy">
+<!ENTITY undeleteMsgsCmd.accesskey "m">
+<!ENTITY cancelNewsMsgsCmd.label "Odstranit vybrané zprávy">
+<!ENTITY cancelNewsMsgsCmd.accesskey "r">
+<!ENTITY deleteFolderCmd.label "Smazat složku">
+<!ENTITY deleteFolderCmd.accesskey "m">
+<!ENTITY unsubscribeNewsgroupCmd.label "Odhlásit odebírání">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "h">
+<!ENTITY selectMenu.label "Vybrat">
+<!ENTITY selectMenu.accesskey "a">
+<!ENTITY all.label "Vše">
+<!ENTITY all.accesskey "V">
+<!ENTITY selectThreadCmd.label "Vlákno">
+<!ENTITY selectThreadCmd.accesskey "l">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Zprávy s hvězdičkou">
+<!ENTITY selectFlaggedCmd.accesskey "h">
+<!ENTITY menuFavoriteFolder.label "Oblíbená složka">
+<!ENTITY menuFavoriteFolder.accesskey "O">
+<!ENTITY folderPropsCmd.label "Vlastnosti…">
+<!ENTITY folderPropsFolderCmd.label "Vlastnosti složky…">
+<!ENTITY folderPropsNewsgroupCmd.label "Vlastnosti diskusní skupiny…">
+<!ENTITY folderPropsCmd.accesskey "i">
+<!ENTITY accountManagerCmd.label "Nastavení účtu…">
+<!ENTITY accountManagerCmd.accesskey "t">
+<!ENTITY accountManagerCmdUnix.accesskey "A">
+<!ENTITY undoDeleteMsgCmd.label "Zpět smazání zprávy">
+<!ENTITY redoDeleteMsgCmd.label "Znovu smazat zprávu">
+<!ENTITY undoMoveMsgCmd.label "Zpět přesunutí zprávy">
+<!ENTITY redoMoveMsgCmd.label "Znovu přesunout zprávu">
+<!ENTITY undoCopyMsgCmd.label "Zpět kopírování zprávy">
+<!ENTITY redoCopyMsgCmd.label "Znovu kopírovat zprávu">
+<!ENTITY undoDefaultCmd.label "Zpět">
+<!ENTITY undoDefaultCmd.accesskey "Z">
+<!ENTITY redoDefaultCmd.label "Znovu">
+<!ENTITY redoDefaultCmd.accesskey "o">
+
+<!-- View Menu -->
+<!ENTITY showMessengerToolbarCmd.label "Lišta pošty">
+<!ENTITY showMessengerToolbarCmd.accesskey "p">
+<!ENTITY customizeToolbar.label "Vlastní…">
+<!ENTITY customizeToolbar.accesskey "V">
+
+<!ENTITY messagePaneLayoutStyle.label "Rozmístění">
+<!ENTITY messagePaneLayoutStyle.accesskey "R">
+<!ENTITY messagePaneClassic.label "Klasický pohled">
+<!ENTITY messagePaneClassic.accesskey "l">
+<!ENTITY messagePaneWide.label "Široký pohled">
+<!ENTITY messagePaneWide.accesskey "r">
+<!ENTITY messagePaneVertical.label "Svislý pohled">
+<!ENTITY messagePaneVertical.accesskey "v">
+<!ENTITY threadPaneWide.label "Široký seznam">
+<!ENTITY threadPaneWide.accesskey "i">
+<!ENTITY showMessageCmd.label "Panel zpráv">
+<!ENTITY showMessageCmd.accesskey "z">
+
+<!ENTITY folderView.label "Složky">
+<!ENTITY folderView.accesskey "S">
+<!ENTITY allFolders.label "Vše">
+<!ENTITY allFolders.accesskey "V">
+<!ENTITY unreadFolders.label "Nepřečtené">
+<!ENTITY unreadFolders.accesskey "N">
+<!ENTITY favoriteFolders.label "Oblíbené">
+<!ENTITY favoriteFolders.accesskey "O">
+<!ENTITY recentFolders.label "Poslední">
+<!ENTITY recentFolders.accesskey "P">
+
+<!-- Sort Menu -->
+<!ENTITY sortMenu.label "Seřadit podle sloupce">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortByDateCmd.label "Datum">
+<!ENTITY sortByDateCmd.accesskey "u">
+<!ENTITY sortByReceivedCmd.label "Doručeno">
+<!ENTITY sortByReceivedCmd.accesskey "r">
+<!ENTITY sortByStarCmd.label "Hvězdička">
+<!ENTITY sortByStarCmd.accesskey "H">
+<!ENTITY sortByAttachmentsCmd.label "Přílohy">
+<!ENTITY sortByAttachmentsCmd.accesskey "h">
+<!ENTITY sortByPriorityCmd.label "Priorita">
+<!ENTITY sortByPriorityCmd.accesskey "i">
+<!ENTITY sortBySizeCmd.label "Velikost">
+<!ENTITY sortBySizeCmd.accesskey "e">
+<!ENTITY sortByStatusCmd.label "Stav">
+<!ENTITY sortByStatusCmd.accesskey "a">
+<!ENTITY sortByTagsCmd.label "Štítky">
+<!ENTITY sortByTagsCmd.accesskey "t">
+<!ENTITY sortByJunkStatusCmd.label "Druh zprávy">
+<!ENTITY sortByJunkStatusCmd.accesskey "D">
+<!ENTITY sortBySubjectCmd.label "Předmět">
+<!ENTITY sortBySubjectCmd.accesskey "m">
+<!ENTITY sortByFromCmd.label "Od">
+<!ENTITY sortByFromCmd.accesskey "O">
+<!ENTITY sortByRecipientCmd.label "Příjemce">
+<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByUnreadCmd.label "Přečtené">
+<!ENTITY sortByUnreadCmd.accesskey "n">
+<!ENTITY sortByOrderReceivedCmd.label "Pořadí přijetí">
+<!ENTITY sortByOrderReceivedCmd.accesskey "P">
+<!ENTITY sortAscending.label "Vzestupně">
+<!ENTITY sortAscending.accesskey "V">
+<!ENTITY sortDescending.label "Sestupně">
+<!ENTITY sortDescending.accesskey "S">
+<!ENTITY sortThreaded.label "Podle vláken">
+<!ENTITY sortThreaded.accesskey "l">
+<!ENTITY sortUnthreaded.label "Bez vláken">
+<!ENTITY sortUnthreaded.accesskey "B">
+<!ENTITY groupBySort.label "Zobrazit ve skupinách">
+<!ENTITY groupBySort.accesskey "Z">
+<!ENTITY groupBySortCmd.key "G">
+<!ENTITY msgsMenu.label "Zprávy">
+<!ENTITY msgsMenu.accesskey "Z">
+<!ENTITY threads.label "Vlákna">
+<!ENTITY threads.accesskey "V">
+<!ENTITY allMsgsCmd.label "Vše">
+<!ENTITY allMsgsCmd.accesskey "V">
+<!ENTITY expandOrCollapseMenu.label "Rozvinout/Sbalit">
+<!ENTITY expandOrCollapseMenu.accesskey "v">
+<!ENTITY expandAllThreadsCmd.label "Rozvinout všechna vlákna">
+<!ENTITY expandAllThreadsCmd.accesskey "R">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Sbalit všechna vlákna">
+<!ENTITY collapseAllThreadsCmd.accesskey "S">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Nepřečtené zprávy">
+<!ENTITY unreadMsgsCmd.accesskey "N">
+<!ENTITY threadsWithUnreadCmd.label "Vlákna s nepřečtenými">
+<!ENTITY threadsWithUnreadCmd.accesskey "l">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Sledovaná vlákna s nepřečtenými">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "d">
+<!ENTITY ignoredThreadsCmd.label "Ignorovat vlákna">
+<!ENTITY ignoredThreadsCmd.accesskey "I">
+<!ENTITY headersMenu.label "Záhlaví">
+<!ENTITY headersMenu.accesskey "h">
+<!ENTITY headersAllCmd.label "Vše">
+<!ENTITY headersAllCmd.accesskey "V">
+<!ENTITY headersNormalCmd.label "Normální">
+<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY bodyMenu.label "Tělo zprávy jako">
+<!ENTITY bodyMenu.accesskey "T">
+<!ENTITY bodyAllowHTML.label "Původní HTML">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "Jednoduché HTML">
+<!ENTITY bodySanitized.accesskey "J">
+<!ENTITY bodyAsPlaintext.label "Prostý text">
+<!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY viewAttachmentsInlineCmd.label "Zobrazit vloženou přílohu">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "l">
+<!ENTITY reloadCmd.label "Znovu načíst">
+<!ENTITY reloadCmd.accesskey "o">
+<!ENTITY stopCmd.label "Zastavit">
+<!ENTITY stopCmd.accesskey "s">
+<!ENTITY textZoomEnlargeCmd.label "Zvětšit">
+<!ENTITY textZoomEnlargeCmd.accesskey "v">
+<!ENTITY textZoomEnlargeCmd.commandkey "+"><!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomReduceCmd.label "Zmenšit">
+<!ENTITY textZoomReduceCmd.accesskey "m">
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY textZoomResetCmd.label "Normální">
+<!ENTITY textZoomResetCmd.accesskey "N">
+<!ENTITY textSize.label "Velikost textu">
+<!ENTITY textSize.accesskey "V">
+
+<!ENTITY pageSourceCmd.label "Zdrojový kód zprávy">
+<!ENTITY pageSourceCmd.accesskey "r">
+<!ENTITY pageSourceCmd.key "u">
+
+<!-- Search Menu -->
+<!ENTITY searchMenu.label "Hledat">
+<!ENTITY searchMenu.accesskey "H">
+
+<!ENTITY findMenu.label "Najít">
+<!ENTITY findMenu.accesskey "j">
+<!ENTITY findCmd.label "Najít ve zprávě…">
+<!ENTITY findCmd.accesskey "t">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "Najít další">
+<!ENTITY findAgainCmd.accesskey "j">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Hledat ve zprávách…">
+<!ENTITY searchMailCmd.accesskey "z">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Hledat v kontaktech…">
+<!ENTITY searchAddressesCmd.accesskey "k">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "Přejít">
+<!ENTITY goMenu.accesskey "P">
+<!ENTITY nextMenu.label "Další">
+<!ENTITY nextMenu.accesskey "D">
+<!ENTITY nextMsgCmd.label "Zpráva">
+<!ENTITY nextMsgCmd.accesskey "Z">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Nepřečtená zpráva">
+<!ENTITY nextUnreadMsgCmd.accesskey "N">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "Zpráva s hvězdičkou">
+<!ENTITY nextStarredMsgCmd.accesskey "h">
+<!ENTITY nextUnreadThread.label "Nepřečtené vlákno">
+<!ENTITY nextUnreadThreadCmd.accesskey "T">
+<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY prevMenu.label "Předchozí">
+<!ENTITY prevMenu.accesskey "P">
+<!ENTITY prevMsgCmd.label "Zpráva">
+<!ENTITY prevMsgCmd.accesskey "Z">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.label "Nepřečtená zpráva">
+<!ENTITY prevUnreadMsgCmd.accesskey "N">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Vpřed">
+<!ENTITY goForwardCmd.accesskey "V">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Zpět">
+<!ENTITY goBackCmd.accesskey "Z">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevStarredMsgCmd.label "Zpráva s hvězdičkou">
+<!ENTITY prevStarredMsgCmd.accesskey "h">
+<!ENTITY startPageCmd.label "Úvodní stránka pošty">
+<!ENTITY startPageCmd.accesskey "s">
+<!ENTITY msgMenu.label "Zpráva">
+<!ENTITY msgMenu.accesskey "r">
+<!ENTITY newMsgCmd.label "Nová zpráva">
+<!ENTITY newMsgCmd.accesskey "N">
+<!ENTITY newNewMsgCmd.label "Zpráva">
+<!ENTITY newNewMsgCmd.accesskey "Z">
+<!ENTITY replyMsgCmd.label "Odpovědět">
+<!ENTITY replyMsgCmd.accesskey "O">
+<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replySenderCmd.label "Odpovědět pouze odesílateli">
+<!ENTITY replySenderCmd.accesskey "l">
+<!ENTITY replyNewsgroupCmd.label "Odpovědět do diskusní skupiny">
+<!ENTITY replyNewsgroupCmd.accesskey "i">
+<!ENTITY replyToAllMsgCmd.label "Odpovědět všem">
+<!ENTITY replyToAllMsgCmd.accesskey "d">
+<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY forwardMsgCmd.label "Přeposlat">
+<!ENTITY forwardMsgCmd.accesskey "P">
+<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardAsMenu.label "Přeposlat jako">
+<!ENTITY forwardAsMenu.accesskey "j">
+<!ENTITY forwardAsInline.label "Vložená">
+<!ENTITY forwardAsInline.accesskey "V">
+<!ENTITY forwardAsAttachmentCmd.label "Příloha">
+<!ENTITY forwardAsAttachmentCmd.accesskey "P">
+<!ENTITY editMsgAsNewCmd.label "Upravit zprávu jako novou">
+<!ENTITY editMsgAsNewCmd.accesskey "U">
+<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY createFilter.label "Vytvořit filtr ze zprávy…">
+<!ENTITY createFilter.accesskey "V">
+<!ENTITY moveMsgMenu.label "Přesunout zprávu">
+<!ENTITY moveMsgMenu.accesskey "s">
+<!ENTITY moveCopyMsgRecentMenu.label "Poslední">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "P">
+<!ENTITY copyMessageLocation.label "Kopírovat adresu zprávy">
+<!ENTITY copyMessageLocation.accesskey "a">
+<!ENTITY copyMsgMenu.label "Kopírovat">
+<!ENTITY copyMsgMenu.accesskey "K">
+<!ENTITY moveToFolderAgain.label "Přesunout opět">
+<!ENTITY moveToFolderAgain.accesskey "P">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Ignorovat vlákno">
+<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Ignorovat podvlákno">
+<!ENTITY killSubthreadMenu.accesskey "p">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Sledovat vlákno">
+<!ENTITY watchThreadMenu.accesskey "v">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY fileHereMenu.label "Přesunout do složky">
+<!ENTITY fileHereMenu.accesskey "s">
+<!ENTITY copyHereMenu.label "Kopírovat sem">
+<!ENTITY copyHereMenu.accesskey "p">
+<!ENTITY tagMenu.label "Přiřadit štítek">
+<!ENTITY tagMenu.accesskey "d">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Označit">
+<!ENTITY markMenu.accesskey "z">
+<!ENTITY markAsReadCmd.label "Přečtená">
+<!ENTITY markAsReadCmd.accesskey "P">
+<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Nepřečtená">
+<!ENTITY markAsUnreadCmd.accesskey "N">
+<!ENTITY markThreadAsReadCmd.label "Přečtené vlákno">
+<!ENTITY markThreadAsReadCmd.accesskey "V">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Přečtené podle data…">
+<!ENTITY markReadByDateCmd.accesskey "d">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Vše přečtené">
+<!ENTITY markAllReadCmd.accesskey "V">
+<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "Přidat hvězdičku">
+<!ENTITY markStarredCmd.accesskey "h">
+<!ENTITY markStarredCmd.key "i">
+<!ENTITY markAsJunkCmd.label "Nevyžádaná">
+<!ENTITY markAsJunkCmd.accesskey "v">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Není nevyžádaná">
+<!ENTITY markAsNotJunkCmd.accesskey "N">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Spustit kontrolu pošty">
+<!ENTITY recalculateJunkScoreCmd.accesskey "S">
+<!ENTITY openMessageWindowCmd.label "Otevřít zprávu">
+<!ENTITY openMessageWindowCmd.accesskey "v">
+<!ENTITY openMessageWindowCmd.key "o">
+
+<!-- Windows Menu -->
+<!ENTITY windowMenu.label "Okno">
+<!ENTITY windowMenu.accesskey "O">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Nástroje">
+<!ENTITY tasksMenu.accesskey "N">
+<!ENTITY addons.label "Správce doplňků">
+<!ENTITY addons.accesskey "D">
+<!ENTITY messengerCmd.label "Pošta a Diskusní skupiny">
+<!ENTITY messengerCmd.accesskey "P">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Adresář">
+<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY runJunkControls.label "Spustit kontrolu pošty ve složce">
+<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY deleteJunk.label "Smazat nevyžádanou poštu ve složce">
+<!ENTITY deleteJunk.accesskey "z">
+<!ENTITY errorConsoleCmd.label "Chybová konzola">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY filtersCmd.label "Třídící filtry zpráv…">
+<!ENTITY filtersCmd.accesskey "f">
+<!ENTITY filtersApply.label "Spustit filtry na složce">
+<!ENTITY filtersApply.accesskey "p">
+
+<!-- Mail Toolbar -->
+<!ENTITY getMsgButton.label "Přijmout">
+<!ENTITY newMsgButton.label "Napsat">
+<!ENTITY replyButton.label "Odpovědět">
+<!ENTITY replyAllButton.label "Odp. všem">
+<!ENTITY forwardButton.label "Přeposlat">
+<!ENTITY fileButton.label "Přesunout">
+<!ENTITY nextButton.label "Další">
+<!ENTITY previousButton.label "Předchozí">
+<!ENTITY backButton1.label "Zpět">
+<!ENTITY goForwardButton1.label "Vpřed">
+<!ENTITY deleteButton.label "Smazat">
+<!ENTITY markButton.label "Označit">
+<!ENTITY printButton.label "Tisk">
+<!ENTITY stopButton.label "Zastavit">
+<!ENTITY throbberItem.title "Indikátor aktivity">
+<!ENTITY updatesItem.title "Aktualizace"> 
+<!ENTITY junkButton.label "Nevyžádané">
+<!ENTITY notJunkButton.label "Není nevyžádaná">
+<!ENTITY addressBookButton.label "Adresář">
+<!ENTITY searchItem.title "Rychlé vyhledávání">
+<!ENTITY mailViewsToolbarItem.title "Pohledy na zprávy">
+<!ENTITY folderLocationToolbarItem.title "Umístění složky">
+<!ENTITY tagButton.label "Štítek">
+<!ENTITY compactButton.label "Provést údržbu">
+
+<!-- Mail Toolbar Tooltips-->
+<!ENTITY advancedButton.tooltip "Rozšířené vyhledávání zpráv">
+<!ENTITY clearButton.tooltip "Smaže vyhledávací podmínky a zobrazí všechny zprávy">
+<!ENTITY getMsgButton.tooltip "Přijme nové zprávy">
+<!ENTITY getAllNewMsgCmd.label "Přijmout všechny nové zprávy">
+<!ENTITY getAllNewMsgCmd.accesskey "P">
+<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY newMsgButton.tooltip "Vytvoří novou zprávu">
+<!ENTITY replyButton.tooltip "Odpoví na zprávu">
+<!ENTITY replyAllButton.tooltip "Odpoví na zprávu odesílateli a všem příjemcům">
+<!ENTITY forwardButton.tooltip "Přepošle označenou zprávu">
+<!ENTITY fileButton.tooltip "Přesune označenou zprávu do složky">
+<!ENTITY nextButton.tooltip "Přejde na další nepřečtenou zprávu">
+<!ENTITY previousButton.tooltip "Přejde na předchozí nepřečtenou zprávu">
+<!ENTITY goForwardButton.tooltip "Přejde o jednu zprávu vpřed">
+<!ENTITY goBackButton.tooltip "Přejde o jednu zprávu vzad">
+<!ENTITY deleteButton.tooltip "Smaže označené zprávy nebo složky">
+<!ENTITY markButton.tooltip "Označí zprávu">
+<!ENTITY printButton.tooltip "Vytiskne tuto zprávu">
+<!ENTITY stopButton.tooltip "Zastaví probíhající akci">
+<!ENTITY junkButton.tooltip "Označí vybrané zprávy jako nevyžádané">
+<!ENTITY notJunkButton.tooltip "Označí vybrané zprávy jako běžné">
+<!ENTITY addressBookButton.tooltip "Přejde do Adresáře">
+<!ENTITY tagButton.tooltip "Přidá štítek">
+<!ENTITY compactButton.tooltip "Ze zvolené složky odstraní smazané zprávy">
+
+<!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "Nový štítek…">
+<!ENTITY addNewTag.accesskey "N">
+
+<!-- Folder Pane -->
+<!ENTITY folderColumn.label "Název">
+<!ENTITY folderSizeColumn.label "Velikost">
+
+<!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Přijmout zprávy">
+<!ENTITY folderContextGetMessages.accesskey "P">
+<!ENTITY folderContextOpenNewWindow.label "Otevřít">
+<!ENTITY folderContextOpenNewWindow.accesskey "O">
+<!ENTITY folderContextOpenNewTab.label "Otevřít v novém panelu">
+<!ENTITY folderContextOpenNewTab.accesskey "v">
+<!ENTITY folderContextNew.label "Nová podsložka…">
+<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextRename.label "Přejmenovat">
+<!ENTITY folderContextRename.accesskey "m">
+<!ENTITY folderContextRemove.label "Smazat">
+<!ENTITY folderContextRemove.accesskey "m">
+<!ENTITY folderContextCompact.label "Provést údržbu složky">
+<!ENTITY folderContextCompact.accesskey "d">
+<!ENTITY folderContextEmptyTrash.label "Vysypat koš">
+<!ENTITY folderContextEmptyTrash.accesskey "k">
+<!ENTITY folderContextEmptyJunk.label "Vysypat nevyžádanou poštu">
+<!ENTITY folderContextEmptyJunk.accesskey "J">
+<!ENTITY folderContextSendUnsentMessages.label "Odeslat neodeslané zprávy…">
+<!ENTITY folderContextSendUnsentMessages.accesskey "n">
+<!ENTITY folderContextUnsubscribe.label "Odhlásit odebírání">
+<!ENTITY folderContextUnsubscribe.accesskey "d">
+<!ENTITY folderContextMarkNewsgroupRead.label "Označit skupinu jako přečtenou">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "z">
+<!ENTITY folderContextMarkMailFolderRead.label "Označit složku jako přečtenou">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "z">
+<!ENTITY folderContextSubscribe.label "Správce odebírání…">
+<!ENTITY folderContextSubscribe.accesskey "S">
+<!ENTITY folderContextSearchMessages.label "Hledat ve zprávách…">
+<!ENTITY folderContextSearchMessages.accesskey "H">
+<!ENTITY folderContextProperties.label "Vlastnosti…">
+<!ENTITY folderContextProperties.accesskey "V">
+<!ENTITY folderContextFavoriteFolder.label "Složka Oblíbené">
+<!ENTITY folderContextFavoriteFolder.accesskey "O">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Jméno nebo e-mail obsahuje:">
+<!ENTITY SearchNameOrEmail.accesskey "m">
+<!ENTITY clearButton.label "Odstranit">
+<!ENTITY clearButton.accesskey "d">
+
+<!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "Předmět">
+<!ENTITY searchFromMenu.label "Od">
+<!ENTITY searchSubjectOrFromMenu.label "Předmět nebo Od">
+<!ENTITY searchRecipient.label "Komu nebo kopie">
+<!ENTITY searchMessageBody.label "Tělo zprávy">
+<!ENTITY saveAsVirtualFolderMenu.label "Uložit hledání jako složku…">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Vlákno">
+<!ENTITY fromColumn.label "Od">
+<!ENTITY recipientColumn.label "Příjemce">
+<!ENTITY subjectColumn.label "Předmět">
+<!ENTITY dateColumn.label "Datum">
+<!ENTITY priorityColumn.label "Priorita">
+<!ENTITY tagsColumn.label "Štítky">
+<!ENTITY accountColumn.label "Účet">
+<!ENTITY statusColumn.label "Stav">
+<!ENTITY sizeColumn.label "Velikost">
+<!ENTITY junkStatusColumn.label "Druh zprávy">
+<!ENTITY linesColumn.label "Řádek">
+<!ENTITY unreadColumn.label "Nepřečtené">
+<!ENTITY totalColumn.label "Celkem">
+<!ENTITY readColumn.label "Přečtené">
+<!ENTITY receivedColumn.label "Doručeno">
+<!ENTITY starredColumn.label "Hvězdička">
+<!ENTITY locationColumn.label "Adresa">
+<!ENTITY idColumn.label "Pořadí přijetí">
+<!ENTITY attachmentColumn.label "Přílohy">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Klepnutím vyberte sloupce pro zobrazení">
+<!ENTITY threadColumn.tooltip "Klepnutím zobrazíte vlákna zpráv">
+<!ENTITY fromColumn.tooltip "Klepnutím seřadíte podle odesílatele">
+<!ENTITY recipientColumn.tooltip "Klepnutím seřadíte podle příjemce">
+<!ENTITY subjectColumn.tooltip "Klepnutím seřadíte podle předmětu">
+<!ENTITY dateColumn.tooltip "Klepnutím seřadíte podle data">
+<!ENTITY priorityColumn.tooltip "Klepnutím seřadíte podle priority">
+<!ENTITY tagsColumn.tooltip "Klepnutím seřadíte podle štítků">
+<!ENTITY accountColumn.tooltip "Klepnutím seřadíte podle účtu">
+<!ENTITY statusColumn.tooltip "Klepnutím seřadíte podle stavu">
+<!ENTITY sizeColumn.tooltip "Klepnutím seřadíte podle velikosti">
+<!ENTITY junkStatusColumn.tooltip "Klepnutím seřadíte podle druhu zprávy">
+<!ENTITY unreadColumn.tooltip "Počet nepřečtených zpráv ve vlákně">
+<!ENTITY totalColumn.tooltip "Celkový počet zpráv ve vlákně">
+<!ENTITY readColumn.tooltip "Klepnutím seřadíte podle přečtených">
+<!ENTITY receivedColumn.tooltip "Klepnutím seřadíte podle datumu doručení">
+<!ENTITY starredColumn.tooltip "Klepnutím seřadíte podle hvězdičky">
+<!ENTITY locationColumn.tooltip "Klepnutím seřadíte podle adresy">
+<!ENTITY idColumn.tooltip "Klepnutím seřadíte podle pořadí přijetí">
+<!ENTITY attachmentColumn.tooltip "Klepnutím seřadíte podle příloh">
+
+<!-- Thread Pane Context Menu -->
+<!ENTITY contextOpenNewWindow.label "Otevřít zprávu v novém okně">
+<!ENTITY contextOpenNewWindow.accesskey "z">
+<!ENTITY contextOpenNewTab.label "Otevřít zprávu v novém panelu">
+<!ENTITY contextOpenNewTab.accesskey "p">
+<!ENTITY contextEditAsNew.label "Upravit jako novou…">
+<!ENTITY contextEditAsNew.accesskey "n">
+<!ENTITY contextReplySender.label "Odpovědět pouze odesílateli">
+<!ENTITY contextReplySender.accesskey "l">
+<!ENTITY contextReplyNewsgroup.label "Odpovědět do diskusní skupiny">
+<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyAll.label "Odpovědět všem">
+<!ENTITY contextReplyAll.accesskey "O">
+<!ENTITY contextForward.label "Přeposlat">
+<!ENTITY contextForward.accesskey "P">
+<!ENTITY contextForwardAsAttachment.label "Přeposlat jako přílohy">
+<!ENTITY contextForwardAsAttachment.accesskey "l">
+<!ENTITY contextMoveMsgMenu.label "Přesunout do">
+<!ENTITY contextMoveMsgMenu.accesskey "s">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Poslední">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "P">
+<!ENTITY contextCopyMsgMenu.label "Kopírovat do">
+<!ENTITY contextCopyMsgMenu.accesskey "K">
+<!ENTITY contextSaveAs.label "Uložit jako…">
+<!ENTITY contextSaveAs.accesskey "j">
+<!ENTITY contextPrint.label "Tisk…">
+<!ENTITY contextPrint.accesskey "T">
+<!ENTITY contextPrintPreview.label "Náhled tisku">
+<!ENTITY contextPrintPreview.accesskey "h">
+<!ENTITY contextDelete.label "Smazat">
+<!ENTITY contextDelete.accesskey "m">
+
+<!-- Junk Bar -->
+<!ENTITY junkBarMessage1.label "Nevyžádaná pošta">
+<!ENTITY junkBarButton1.label "Není nevyžádaná">
+<!ENTITY junkInfoButton.label "?">
+
+<!-- Remote Content Bar -->
+<!ENTITY remoteContentMessage1.label "Kvůli ochraně vašeho soukromí byly zablokovány vzdálené obrázky.">
+<!ENTITY loadRemoteContentButton1.label "Nahrát obrázky">
+
+<!-- Phishing Bar -->
+<!ENTITY phishingBarMessage1.label "Podezření na podvodný e-mail">
+<!ENTITY removePhishingBarButton1.label "Ignorovat varování">
+<!ENTITY reportPhishingError.label "Není podvodný e-mail">
+
+<!-- Quick Search Bar -->
+<!ENTITY quickSearchCmd.key "k">
+
+<!-- Message Header Context Menu -->
+<!ENTITY AddToAddressBook.label "Přidat do kontaktů…">
+<!ENTITY AddToAddressBook.accesskey "P">
+<!ENTITY SendMailTo.label "Vytvořit zprávu pro">
+<!ENTITY SendMailTo.accesskey "z">
+<!ENTITY CopyEmailAddress.label "Kopírovat e-mailovou adresu">
+<!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CreateFilterFrom.label "Vytvořit filtr…">
+<!ENTITY CreateFilterFrom.accesskey "f">
+<!ENTITY BlockAddress.label "Zakázat adresu">
+<!ENTITY BlockAddress.accesskey "a">
+<!ENTITY reportPhishingURL.label "Nahlásit podvodný e-mail">
+<!ENTITY reportPhishingURL.accesskey "N">
+
+<!-- Content Pane Context Menu -->
+<!ENTITY saveLinkCmd.label "Uložit cíl odkazu">
+<!ENTITY saveLinkCmd.accesskey "k">
+<!ENTITY saveImageCmd.label "Uložit obrázek">
+<!ENTITY saveImageCmd.accesskey "o">
+<!ENTITY copyCmd.label "Kopírovat">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Vybrat vše">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
+<!ENTITY copyLinkCmd.accesskey "a">
+<!ENTITY copyImageCmd.label "Kopírovat adresu obrázku">
+<!ENTITY copyImageCmd.accesskey "b">
+<!ENTITY copyEmailCmd.label "Kopírovat adresu e-mail">
+<!ENTITY copyEmailCmd.accesskey "e">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label "Hotovo">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.label "Minimalizovat">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Přenést vše do popředí">
+<!ENTITY zoomWindow.label "Zvětšit okno">
+
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac.label        "Předvolby…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Služby">
+<!ENTITY hideThisAppCmdMac.label        "Skrýt &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Skrýt ostatní">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Zobrazit vše">

@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label "Přiložit ke zprávě tento obrázek">
+<!ENTITY attachImageSource.accesskey "p">
+
+<!ENTITY attachLinkSource.label "Přiložit ke zprávě zdroj tohoto odkazu">
+<!ENTITY attachLinkSource.accesskey "p">

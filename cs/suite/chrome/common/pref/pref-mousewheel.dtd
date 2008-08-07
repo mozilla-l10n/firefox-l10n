@@ -1,0 +1,28 @@
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
+<!ENTITY pref.mouseWheel.title "Kolečko myši">
+<!ENTITY mouseWheelPanel.label "Specifikujte chování kolečka za použití této modifikační klávesy: ">
+<!ENTITY usingJustTheWheel.label "Žádná modifikační klávesa">
+<!ENTITY usingWheelAndAlt.label "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label "Vertikální posunování">
+<!ENTITY mousewheelHorizGroup.label "Horizontální posunování">
+<!ENTITY scroll.label "Posunout dokument o ">
+<!ENTITY scroll.accesskey "P">
+<!ENTITY scrollHoriz.accesskey "o">
+<!ENTITY scrollLines.label " řádků">
+<!ENTITY scrollChars.label " znaků">
+<!ENTITY useSystemDefault.label "Použít nastavení systému">
+<!ENTITY useSystemDefault.accesskey "a">
+<!ENTITY useSystemDefaultHoriz.accesskey "v">
+<!ENTITY scrollPgUpPgDn.label "Posunout stránku nahoru nebo dolů">
+<!ENTITY scrollPgUpPgDn.accesskey "u">
+<!ENTITY scrollPgLtPgRt.label "Posunovat stránku vlevo či v pravo">
+<!ENTITY scrollPgLtPgRt.accesskey "n">
+<!ENTITY history.label "Jít zpět nebo dopředu v historii sezení">
+<!ENTITY history.accesskey "J">
+<!ENTITY historyHoriz.accesskey "b">
+<!ENTITY zoom.label "Zvětšit nebo zmenšit stránku">
+<!ENTITY zoom.accesskey "Z">
+<!ENTITY zoomHoriz.accesskey "m">

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
+  %brandDTD;
+  %regionDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Práce s certifikáty</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/locale/helpFileLayout.css"/>
+</head>
+
+<body>
+<div class="boilerPlate">&brandShortName; poskytuje tento dokument pouze pro vaši informaci.
+   Může vám pomoci přijmout opatření pro ochranu soukromí a bezpečí vašich osobních informací
+   na Internetu. Nicméně tento dokument se nedotýká všech možných bezpečnostních rizik a otázek
+   soukromí při práci s Internetem, ani nepředstavuje doporučení aplikace &brandShortName;, jaká
+   opatření jsou pro vaše soukromí a bezpečí na Internetu adekvátní.</div>
+
+<h1 id="certificate_information_and_decisions">Práce s certifikáty</h1>
+<p>Tato kapitola popisuje, jak používat dialogová okna, které
+ Správce certifikátů zobrazuje při různých příležitostech. Následující informace se zobrazí, když
+ v těchto dialogových oknech klepnete na tlačítko Nápověda.</p>
+
+<div class="contentsBox">V této kapitole:
+  <ul>
+    <li><a href="#certificate_viewer">Zobrazení certifikátu</a></li>
+    <li><a href="#choose_security_device">Výběr bezpečnostního zařízení</a></li>
+    <li><a href="#encryption_key_copy">Kopie šifrovacího klíče</a></li>
+    <li><a href="#certificate_backup">Zálohování certifikátů</a></li>
+    <li><a href="#user_identification_request">Identifikace uživatele</a></li>
+    <li><a href="#new_certificate_authority">Nová certifikační autorita</a></li>
+    <li><a href="#web_site_certificates">Certifikáty webových stránek</a></li>
+  </ul>
+</div>
+
+<h2 id="certificate_viewer">Zobrazení certifikátu</h2>
+
+
+<p>Dialogové okno Zobrazení certifikátů zobrazuje informace o jednom z certifikátů, který jste vybrali v
+  jedné z karet ve Správci certifikátů. Panel Obecné informace shrnuje základní informace:
+   kdo certifikát vydal, zda byl ověřen, na co může být použit atd. Panel Detaily obsahuje
+   kompletní podrobnosti o obsahu certifikátu.</p>
+
+<p>Pokud zrovna nepracujete s dialogovým oknem Podrobnosti certifikátu, postupujte podle následujících kroků:</p>
+
+<ol>
+   <li>Otevřete nabídku <span class="mac">&brandShortName;</span>
+     <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+   <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Certifikáty. (Pokud nevidíte žádné podkategorie,
+   klepnutím na Soukromí &amp; Zabezpečení je zobrazíte.)</li>
+   <li>Klepněte na Správa certifikátů.</li>
+   <li>Klepněte na panel pro výběr typu certifikátu.</li>
+   <li>Zvolte certifikát, který chcete zobrazit.</li>
+   <li>Klepněte na Zobrazit.</li>
+</ol>
+
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#general_tab">Panel Obecné informace</a></li>
+    <li><a href="#details_tab">Panel Podrobné informace</a></li>
+  </ul>
+</div>
+
+<h3 id="general_tab">Panel Obecné informace</h3>
+
+<p>Když otevřete dialog Zobrazení certifikátu, panel Obecné informace zobrazuje
+několik informací o zvoleném certifikátu:</p>
+
+<ul>
+	<li><strong>Tento certifikát byl ověřen pro následující použití</strong>:
+	Rozbor toho, jak Správce certifikátů certifikáty ověřuje naleznete u tématu <a href="glossary.xhtml#certificate_verification">ověřování certifikátů</a>
+	Použití může být:
+    <ul>
+      <li><strong>SSL certifikát uživatele</strong>: Certifikát pro ověření vaší totožnosti webovým stránkám.</li>
+      <li><strong>SSL certifikát serveru</strong>: Certifikát pro ověření webových serverů prohlížečům.</li>
+      <li><strong>Certifikát autora e-mailu</strong>: Certifikát pro ověření vaší totožnosti za účelem digitálního
+        podpisu e-mailů.</li>
+      <li><strong>Certifikát adresáta e-mailu</strong>: Certifikát pro ověření druhé osoby, například aby bylo možné
+        této osobě odeslat šifrovaný e-mail.</li>
+      <li><strong>Stav certifikátu respondenta</strong>: Certifikát pro ověření
+        online stavu respondenta, který používá OCSP (Online Certificate Status Protocol)
+        k ověření platnosti certifikátů. Pro více informací o OCSP naleznete v kapitole <a href="validation_help.xhtml">Nastavení ověřování</a>.</li>
+      <li><strong>SSL Certifikační autorita</strong>: Certifikát pro ověření certifikační autority
+       (Certifikační autorita je instituce, která vydává certifikáty pro ověřování
+        totožnosti v počítačových sítích.).</li>
+    </ul>
+    </li>
+	<li><strong>Vydáno pro</strong>: Shrnuje následující informace o certifikátu:
+      <ul>
+	<li><strong>Obecné jméno</strong>: Jméno osoby nebo jiné entity, jejíž totožnost certifikát ověřuje.</li>
+        <li><strong>Organizace</strong>: Jméno organizace, které tato entita náleží (například jméno firmy).</li>
+        <li><strong>Jednotka organizace</strong>: Jméno organizační jednotky, které tato entita náleží
+        (například Účetní oddělení).</li>
+        <li><strong>Sériové číslo</strong>: Sériové číslo certifikátu.</li>
+      </ul>
+	</li>
+	<li><strong>Vydal</strong>: Shrnuje informace o certifikační autoritě, která certifikát vydala
+  (jednotlivé položky viz výše u <q>Vydáno pro</q>).</li>
+	<li><strong>Platnost</strong>: Určuje období, během kterého je certifikát platný.</li>
+	<li><strong>Otisky</strong>: Výpis otisků certifikátu. Otisk je jedinečné číslo, které
+  se získá použitím matematické funkce na obsah certifikátu.
+  Otisk může posloužit k ověření, že certifikát nebyl zfalšován.</li>
+  </ul>
+
+<h3 id="details_tab">Panel Podrobné informace</h3>
+
+<p>Pro detailnější informace o certifikátu klepněte na panel Podrobné informace
+  v horní části dialogu. Pro prozkoumání jakéhokoli certifikátu v oblasti
+  Hierarchie certifikátu zvolte jeho jméno,  zvolte požadované pole v oblasti
+  Položky certifikátu a přečtěte si hodnotu pole pod nápisem Hodnota:</p>
+
+<ul>
+	<li><strong>Hierarchie certifikátu</strong>: Zobrazuje řetězec certifikátů pro
+   tento certifikát. Řetězec certifikátů je hierarchická řada certifikátů postupně
+   podepsaných certifikačními autoritami (dále CA).  Certifikát CA určuje <a href="glossary.xhtml#certificate_authority">certifikační autoritu</a> a používá se pro podepisování certifikátů vydaných touto CA.
+	Certifikát CA může být dále podepsán nadřazenou CA, a tak dále až ke <a href="glossary.xhtml#root_ca">kořenové CA</a>.</li>
+	<li><strong>Položky certifikátu</strong>: Zobrazuje pole certifikátu, který je vybrán v oblasti
+   Hierarchie certifikátu.</li>
+	<li><strong>Hodnota</strong>: Zobrazuje hodnotu pole, které je vybráno v oblasti Položky certifikátu.</li>
+</ul>
+
+<p>Dialogové okno Podrobnosti certifikátu se vždy snaží zobrazit hodnoty polí v textové podobě. Hodnoty, které se nedají na
+ text převést, zobrazí tak, jak jsou v certifikátu.</p>
+
+
+<h2 id="choose_security_device">Výběr bezpečnostního zařízení</h2>
+
+<p>Bezpečnostní zařízení je hardwarové nebo softwarové zařízení, které provádí šifrovací
+  operace a slouží jako úložiště certifikátů a šifrovacích klíčů. Dialogové okno Výběr bezpečnostního
+  zařízení se zobrazí, když Správce certifikátů neví, jaké zařízení použít pro import
+  certifikátu nebo provedení šifrovací operace jako například generování klíče pro nový
+  certifikát. V tomto okně můžete zvolit jedno ze dvou nebo více bezpečnostních zařízení,
+  která byla na vašem počítači nalezena.</p>
+
+<p>Smart card je příklad bezpečnostního zařízení. Například pokud máte k počítači
+ připojenou čtečku elektronických karet a máte v ní vloženou kartu, její jméno se zobrazí
+ ve výběru. V tomto případě musíte vybrat její jméno v nabídce, aby Správce certifikátů
+ věděl, že jí má používat.</p>
+
+<p>Správce certifikátů také poskytuje své vlastní, výchozí, vestavěné bezpečnostní zařízení,
+které může být použito za všech okolností bez ohledu na to, jaká další zařízení jsou k dispozici.</p>
+
+<h2 id="encryption_key_copy">Kopie šifrovacího klíče</h2>
+
+<p><a href="glossary.xhtml#certificate_authority">Certifikační autority</a> (dále CA), které
+  vydávají klíče zvlášť pro podepisování a pro šifrování e-mailu, typicky vytvářejí záložní kopie
+  vašeho soukromého <a href="glossary.xhtml#encryption_key">šifrovacího klíče</a> během
+  aktivace certifikátu.</p>
+
+<p>Dialogové okno Kopie šifrovacího klíče vám dává na výběr, zda vytvoření této kopie povolit nebo
+ odmítnout. Certifikační autorita, která si vytvoří kopii vašeho šifrovacího klíče
+ potenciálně může dešifrovat jakýkoli e-mail, který obdržíte a který byl podepsán vaším
+ odpovídajícím veřejným klíčem.</p>
+
+<p>V dialogovém okně Kopie šifrovacího klíče můžete provést následující akce:</p>
+
+<ul>
+  <li><strong>Zobrazit certifikát</strong>: Pro prohlédnutí certifikátu, který identifikuje
+   CA, která se dožaduje vytvoření záložní kopie, klepněte na tlačítko Zobrazit certifikát.</li>
+  <li><strong>OK</strong>: Pokud důvěřujete CA, která je identifikována tímto certifikátem,
+   pro dešifrování přijatých e-mailů, klepněte na tlačítko OK.
+   <p>Pokud si nejste jisti, zda můžete této CA důvěřovat, obraťte se na vašeho správce sítě.</p></li>
+  <li><strong>Zrušit</strong>: Pokud nedůvěřujete CA, která se dožaduje vytvoření
+  záložní kopie, neaktivujte certifikát, který poskytuje. Klepněte na tlačítko Zrušit, pro zrušení
+  procesu vytváření záložní kopie i aktivace tohoto certifikátu.</li>
+</ul>
+
+<p>Potom, co si CA vytvoří záložní kopii šifrovacího klíče, budete moci tento klíč používat
+ k přístupu k zašifrovaným e-mailům, i když ztratíte vaše heslo nebo svou vlastní kopii
+ tohoto klíče. Pokud nebude existovat kopie vašeho šifrovacího klíče a  vy ztratíte
+ heslo nebo svou vlastní kopii tohoto klíče, nebude žádná možnost, jak přečíst e-maily zašifrované
+ tímto klíčem.</p>
+
+<h2 id="certificate_backup">Zálohování certifikátů</h2>
+
+<p>Když obdržíte certifikát, udělejte si záložní kopii tohoto certifikátu spolu s jeho
+  soukromým klíčem a tuto kopii uložte na bezpečné místo. Například můžete kopii uložit
+  na disketu a tu uložit &quot;pod zámek&quot;. Tímto způsobem budete moci jednoduše certifikát obnovit,
+  pokud by vám havaroval pevný disk, nebo by došlo k jeho poškození.</p>
+
+<p>Pokud přijdete o váš certifikát a k němu přidružený soukromý klíč, může to být přinejmenším nepříjemné a v některých případech až katastrofální, podle toho, k jakým
+ účelům jste certifikát používali. Například:</p>
+
+<ul>
+	<li>Pokud ztratíte certifikát, který ověřuje vaší totožnost na důležitých webových stránkách,
+  nebudete moci na tyto stánky přistupovat, dokud si neopatříte certifikát nový. </li>
+	<li>Pokud ztratíte certifikát, který používáte k šifrování vašich e-mailů, nebudete
+  moci číst žádné vaše šifrované e-maily&mdash;přijaté i odeslané. V tomto případě, pokud
+   nebudete mít zálohu vašeho soukromého klíče přidruženého k tomuto certifikátu, nebudete už
+    nikdy moci číst e-maily tímto certifikátem zašifrované.</li>
+</ul>
+
+<p>Podobně jako další cenná data, certifikáty by měly být zálohovány, aby se předešlo
+ budoucím starostem a výdajům. Udělejte zálohu teď, abyste na to nezapomněli.</p>
+
+<h2 id="user_identification_request">Identifikace uživatele</h2>
+
+
+<p>Některé webové stránky vyžadují, abyste se identifikovali certifikátem, narozdíl od identifikace
+ pomocí jména a hesla, protože certifikáty poskytují spolehlivější formu identifikace.
+  Tento způsob ověřování totožnosti na Internetu se někdy nazývá
+  <a href="glossary.xhtml#client_authentication">autorizace klienta</a>.</p>
+
+<p>Správce certifikátů může mít uložen víc než jeden certifikát, který může být použit k ověření
+vaší identity webovou stránkou. V takovém případě Správce certifikátů zobrazí dialogové okno
+Požadavek identifikace uživatele, který obsahuje dva druhy informací:</p>
+
+<p><strong>Tato stránka požaduje, abyste se identifikovali vaším bezpečnostním certifikátem</strong>:
+  Tato sekce obsahuje následující informace:</p>
+	<ul>
+		<li><strong>Jméno serveru</strong>: Jméno serveru, který se dožaduje identifikace,
+		  které se používá jako část URL. Například jméno serveru stránek Netscape je <tt>home.netscape.com</tt>.</li>
+		<li><strong>Organizace</strong>: Jméno organizace, která provozuje tento server.</li>
+		<li><strong>Vydal</strong>: Jméno
+		  <a href="glossary.xhtml#certificate_authority">certifikační autority
+		  (CA)</a> která vydala tento certifikát.</li>
+	</ul>
+
+<p><strong>Vyberte certifikát, který vás identifikuje</strong>:
+  Certifikáty, kterými se můžete identifikovat jsou vypsány v seznamu. Vyberte certifikát,
+  o kterém si myslíte, že bude nejspíše rozpoznán stránkami, na které se snažíte dostat.</p>
+
+<p>Pro usnadnění vašeho rozhodování jsou o vybraném certifikátu zobrazeny následující detaily:</p>
+	<ul>
+		<li><strong>Vydán pro</strong>: Informace o osobě, pro kterou byl tento certifikát vydán
+     (například jméno a e-mailová adresa), sériové číslo certifikátu a datumy jeho platnosti.</li>
+		<li><strong>Vydal</strong>: Shrnuje informace o certifikační autoritě, která certifikát
+     vydala, jako její jméno, poloha a stát.</li>
+	</ul>
+
+<h2 id="new_certificate_authority">Nová certifikační autorita</h2>
+
+<p>Certifikáty, které má Správce certifikátů uložené, ať už ve vašem počítači nebo na
+externím bezpečnostním zařízení jako je třeba elektronická karta, obsahují certifikáty,
+které identifikují <a href="glossary.xhtml#certificate_authority">certifikační autority</a> (CA).
+ Aby Správce certifikátů mohl uznat jakékoli další certifikáty, které
+  má uloženy, musí mít certifikáty pro CA, které vydaly nebo autorizovaly vydání
+  těchto certifikátů.</p>
+
+<p>Pokud se rozhodnete důvěřovat CA, Správce certifikátů si stáhne certifikát této CA
+ a potom bude schopen uznávat platnost těch druhů certifikátů, pro které se rozhodnete důvěřovat.</p>
+
+<p>Před stahováním nového certifikátu od CA, vám Správce certifikátů dovolí určit, k
+jakým účelům může být tento certifikát použit, pokud vůbec k nějakým.
+Můžete vybrat jakékoli z následujících možností:</p>
+
+<ul>
+	<li><strong>Věřit této CA při identifikaci webových stránek</strong>: 
+  Certifikáty pro webové stránky, například pokud se jedná o webové stránky které
+  provádějí finanční operace, mohou být velmi důležité a nesprávná nebo neplatná identifikace
+  může mít negativní následky.</li>
+	<li><strong>Věřit této CA při identifikaci uživatelů el. pošty</strong>: Pokud hodláte posílat důvěrné e-maily šifrované nebo je pro vás z jakýchkoli důvodů
+    důležitá přesná identifikace uživatelů e-mailu, měli byste, než zvolíte tuto možnost
+     zvážit, zda postupy, které tato CA používá pro identifikaci budoucích držitelů
+     certifikátů, jsou vhodné k vašim účelům.</li>
+	<li><strong>Věřit této CA při identifikaci výrobce softwaru</strong>: 
+   Volba této možnosti znamená, že důvěřujete této CA pro vydávání certifikátů, které
+   určují původ Java apletů a skriptů JavaScript, které požadují speciální přístup
+   k vašemu počítači, jako je například možnost měnit soubory.
+   Jelikož tato zvýšená přístupová práva mohou být zneužita, například pro zničení
+   vašich dat na pevném disku, buďte s touto volbou velmi opatrní, pokud si nejste jisti,
+   že můžete této CA v této oblasti důvěřovat.</li>
+</ul>
+
+<p>Než se rozhodnete důvěřovat nové CA, ujistěte se, že víte, kdo jí provozuje, že stanovy a postupy této CA jsou vhodné pro ty druhy certifikátů, které
+ vydává. Například pokud CA vydává certifikáty pro identifikaci webových stránek, které
+ provádějí finanční operace, ujistěte se, že souhlasíte s úrovní záruk, kterou CA
+  poskytuje.</p>
+
+<ul>
+	<li><strong>Zobrazit</strong>: Klepněte na toto tlačítko pro zobrazení certifikátu CA,
+   o jehož stažení se rozhoduje. Pokud se rozhodnete, že nechcete tento certifikát stáhnout,
+    klepněte na tlačítko Zrušit.</li>
+</ul>
+
+<h2 id="web_site_certificates">Certifikáty webových stránek</h2>
+
+<p>Některé ze zde uvedených dialogových oken se mohou zobrazit, pokud se pokusíte navštívit
+ webovou stránku, která podporuje <a href="glossary.xhtml#ssl">SSL</a> pro
+  <a href="glossary.xhtml#authentication">autorizaci</a> a
+  <a href="glossary.xhtml#encryption">šifrování</a>.</p>
+
+<div class="contentsBox">V této sekci:
+  <ul>
+    <li><a href="#web_site_certified_by_an_unknown_authority">Stránka certifikována neznámou
+     autoritou</a></li>
+    <li><a href="#server_certificate_expired">Platnost certifikátu
+     vypršela</a></li>
+    <li><a href="#server_certificate_not_yet_valid">Certifikát serveru není ještě
+     platný</a></li>
+    <li><a href="#domain_name_mismatch">Nevyhovující doménové jméno</a></li>
+  </ul>
+</div>
+
+<h3 id="web_site_certified_by_an_unknown_authority">Stránka certifikována neznámou
+     autoritou</h3>
+
+
+<p>Mnoho webových stránek používá certifikáty pro prokázání své totožnosti, když je navštívíte.
+  Pokud Správce certifikátů neuznal <a href="glossary.xhtml#certificate_authority">
+  certifikační autoritu (CA)</a>, která vydala certifikát této webové stránky, zobrazí
+  dialogové okno s varováním, kde můžete tento certifikát prozkoumat a rozhodnout se, jak se zachovat.</p>
+
+<ul>
+	<li><strong>Prozkoumat certifikát</strong>: Klepněte na toto tlačítko pro zobrazení
+   certifikátu webové stránky.</li>
+</ul>
+
+<p>V tomto dialogu můžete vybrat jednu z těchto možností:</p>
+<ul>
+
+	<li><strong>Přijmout tento certifikát natrvalo</strong>: Zvolte tuto možnost
+   pro přijetí tohoto certifikátu (navzdory patrnému problému) a připojení na webovou
+   stránku. Správce certifikátů bude tento certifikát uznávat jako platný až do doby,
+   kdy jeho platnost vyprší.</li>
+	<li><strong>Přijmout dočasně tento certifikát  pro toto sezení:</strong>: 
+   Zvolte tuto možnost pro přijetí tohoto certifikátu dočasně a připojení na
+   webovou stránku. Správce certifikátů bude tento certifikát uznávat jako platný jen do
+   té doby, než příště spustíte prohlížeč webu. Může se stát, že se toto varování objeví
+   znovu, až se příště pokusíte tyto stránky  navštívit.</li>
+	<li><strong>Nepřijmout tento certifikát a nepřipojit se k této webové adrese</strong>: 
+   Zvolte tuto možnost, pokud se rozhodnete tuto stránku vůbec nenavštívit. Tato volba
+   je vhodná například jedná-li se o stránky, kde se provádí finanční operace. V tom
+   případě byste měli tento problém nahlásit bance, nebo jiné organizaci, která tyto
+   stránky provozuje a ujistit se, že je certifikát platný, než zvolíte některou
+   z možností výše.</li>
+</ul>
+
+<p>Klepněte na tlačítko OK pro potvrzení vašeho výběru. Pokud klepnete na tlačítko Zrušit,
+ Správce certifikátů neuzná certifikát jako platnou identifikaci a přeruší připojování na tyto
+ webové stránky.</p>
+
+<p><strong>Důležitá poznámka pro správce serverů</strong>: 
+  Toto varování může být způsobeno špatnou konfigurací serveru. Pro zjištění, jestli je to
+  tento případ, by správce serveru, na jehož stránky se pokoušíte dostat, měl zkontrolovat
+  stav potřebných pomocných materiálů CA, a pokud to bude nutné, nainstalovat na server
+  chybějící certifikáty.</p>
+
+<p>Pokud se o tomto problému rozhodnete informovat správce serveru oněch stránek, můžete
+  uvést tyto informace:</p>
+
+<ul>
+  <li>Správce serveru může získat informace v pomocných materiálech CA:
+  <a href="http://knowledge.verisign.com/search/solution.jsp?id=vs2119">What
+  is the purpose of the Intermediate CA certificate?</a> [Eng.]</li>
+  <li>Pokud server používá certifikáty VeriSign, správce serveru může stáhnout
+  potřebný certifikát tady: 
+    <a href="http://www.verisign.com/support/ssl-certificates-support/install-ss
+l-certificate.html">SSL Certificates Support</a> [Eng.]</li>
+
+</ul>
+
+<p><strong>Pro pokročilé uživatele</strong>: Pokud chcete, aby Správce certifikátů důvěřoval všem
+ certifikátům vydaným touto CA, můžete upravit nastavení odpovídajícího certifikátu.
+ Použijte na to tyto kroky:</p>
+
+<ol>
+   <li>Otevřete nabídku <span class="mac">&brandShortName;</span>
+     <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+   <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Certifikáty. (Pokud nevidíte žádnou podkategorii,
+   dvojklepnutím na kategorii Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
+   <li>Klepněte na tlačítko Správa certifikátů.</li>
+   <li>Klepněte na panel Certifikační Autority.</li>
+   <li>Zvolte certifikát CA, který chcete upravit.</li>
+   <li>Klepněte na tlačítko Upravit a proveďte požadované změny.</li>
+</ol>
+
+<h3 id="server_certificate_expired">Platnost certifikátu
+     vypršela</h3>
+
+<p>Tak jako kreditní karta nebo občanský průkaz a další identifikační pomůcky, i
+  <a href="glossary.xhtml#certificate">certifikát</a> je platný jen po určitou dobu.
+  Když tato doba vyprší, majitel certifikátu si musí obstarat certifikát nový.</p>
+
+<p>Správce certifikátů zobrazí varování, pokud se pokusíte navštívit webovou stránku,
+ jejíž certifikát vypršel. Nejdříve byste se měli ujistit, že je na vašem počítači
+ správně nastavené datum a čas. Pokud jsou hodiny na vašem počítači nastaveny na datum,
+ které je po datumu vypršení certifikátu, Správce certifikátu bude považovat tento
+ certifikát za prošlý. </p>
+
+<p>Pokud jsou hodiny na vašem počítači nastaveny správně, budete se muset rozhodnout,
+ zda webovým stránkám důvěřovat. Vaše rozhodnutí by mělo brát v úvahu, co jste plánovali na
+ webových stránkách dělat a co dalšího o stránkách víte. Většina komerčních stránek si dává
+ pozor, aby neopomněli certifikáty nahradit novými dřív, než vyprší jejich platnost. </p>
+
+<p>V dialogovém okně Platnost certifikátu vypršela můžete provést tyto akce:</p>
+
+<ul>
+  <li><strong>Zobrazit certifikát</strong>: Pro prozkoumání informací o certifikátu
+  včetně období jeho platnosti, klepněte na tlačítko Zobrazit certifikát.</li>
+  <li><strong>Pokračovat</strong>: Pokud máte důvod věřit, že vypršení platnosti certifikátu je
+   nepodstatná chyba, můžete klepnout na tlačítko Pokračovat pro přijetí certifikátu pro tuto relaci
+   a měli byste o tomto problému informovat správce serveru daných stánek.
+   <p>Během vaší návštěvy těchto stránek buďte opatrní, jaké akce provádíte.</p></li>
+  <li><strong>Zrušit</strong>: Pokud máte podezření, že se může jednat o podstatný problém
+   a nechcete návštěvu stránek riskovat, klepněte na tlačítko Zrušit (v tom
+    případě vás Správce certifikátů na stránky nepřipojí).</li>
+</ul>
+
+<h3 id="server_certificate_not_yet_valid">Certifikát serveru není ještě
+     platný</h3>
+
+<p>Tak jako kreditní karta nebo občanský průkaz a další identifikační pomůcky, i
+  <a href="glossary.xhtml#certificate">certifikát</a>  je platný jen po určitou dobu.
+  Když tato doba vyprší, majitel certifikátu si musí obstarat certifikát nový.</p>
+
+<p>Správce certifikátů zobrazí varování, pokud se pokusíte navštívit webovou stránku,
+ jejíž certifikát nezačal ještě platit. Nejdříve byste se měli ujistit, že je na vašem počítači
+ správně nastavené datum a čas. Pokud jsou hodiny na vašem počítači špatně nastaveny, Správce
+ certifikátu může považovat tento certifikát ještě neplatný neprávem. </p>
+
+<p>Pokud jsou hodiny na vašem počítači nastaveny správně, budete se muset rozhodnout,
+ zda webovým stránkám důvěřovat. Vaše rozhodnutí by mělo brát v úvahu, co jste plánovali na
+ webových stránkách dělat a co dalšího o stránkách víte. Většina komerčních stránek si dává
+ pozor, aby jejich certifikáty začaly platit dřív, než je začnou používat. </p>
+
+<p>V dialogovém okně Certifikát serveru není ještě platný můžete provést tyto akce:</p>
+
+<ul>
+  <li><strong>Zobrazit certifikát</strong>: Pro prozkoumání informací o certifikátu
+  včetně období jeho platnosti, klepněte na tlačítko Zobrazit certifikát.</li>
+  <li><strong>OK</strong>: Pokud máte důvod věřit, že se jedná o
+   nepodstatnou chybu, můžete klepnout na tlačítko OK pro přijetí certifikátu pro tuto relaci
+   a měli byste o tomto problému informovat správce serveru daných stánek.
+   <p>Během vaší návštěvy těchto stránek buďte opatrní, jaké akce provádíte.</p></li>
+  <li><strong>Zrušit</strong>: Pokud máte podezření, že se může jednat o podstatný problém
+   a nechcete návštěvu stránek riskovat, klepněte na tlačítko Zrušit (v tom
+    případě vás Správce certifikátů na stránky nepřipojí).</li>
+</ul>
+
+<h3 id="domain_name_mismatch">Nevyhovující doménové jméno</h3>
+
+<p><a href="glossary.xhtml#certificate">Certifikát</a> serveru určuje jméno
+  serveru ve formě jeho doménového jména. Například doménové jméno webových stránek Mozilly
+   <tt>www.mozilla.org</tt>. Pokud doménové jméno v certifikátu serveru neodpovídá
+   skutečnému doménovému jménu webových stránek, může to značit, že se někdo pokouší
+   odposlouchávat nebo jinak ovlivnit vaší komunikaci s webovými stránkami.</p>
+
+<p>Vaše rozhodnutí, zda webovým stránkám důvěřovat, by mělo brát v úvahu, co jste plánovali na
+ webových stránkách dělat a co dalšího o stránkách víte. Většina komerčních stránek si dává pozor,
+ aby doménové jméno jejich stránek odpovídalo tomu, které je uvedeno v certifikátu.</p>
+
+<p>V dialogovém okně Nevyhovující doménové jméno můžete provést tyto akce:</p>
+
+<ul>
+  <li><strong>Zobrazit certifikát</strong>: Pro prozkoumání informací o certifikátu
+  včetně období jeho platnosti, klepněte na tlačítko Zobrazit certifikát.</li>
+  <li><strong>OK</strong>: Pokud máte důvod věřit, že se jedná o
+   nepodstatnou chybu, můžete klepnout na tlačítko OK pro přijetí certifikátu pro tuto relaci
+   a měli byste o tomto problému informovat správce serveru daných stánek.
+   <p>Během vaší návštěvy těchto stránek buďte opatrní, jaké akce provádíte, a veškeré
+    informace, které obsahují, berte jako potenciálně podezřelé.</p></li>
+  <li><strong>Zrušit</strong>: Pokud máte podezření, že se může jednat o podstatný problém
+   a nechcete návštěvu stránek riskovat, klepněte na tlačítko Zrušit (v tom
+    případě vás Správce certifikátů na stránky nepřipojí.</li>
+</ul>
+
+<p>Pokud se přesto rozhodnete certifikát přijmout, buďte během vaší návštěvy těchto stránek  opatrní,
+  jaké akce provádíte, a veškeré informace, které obsahují, berte jako potenciálně podezřelé.</p>
+
+<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+
+</body>
+</html>
+

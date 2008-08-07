@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Identity asociované s tímto účtem">
+<!ENTITY identitiesListDesc.label "Podpora vícenásobných identit">
+<!ENTITY identitiesListAdd.label "Přidat…">
+<!ENTITY identitiesListAdd.accesskey "P">
+<!ENTITY identitiesListEdit.label "Upravit…">
+<!ENTITY identitiesListEdit.accesskey "U">
+<!ENTITY identitiesListDelete.label "Smazat">
+<!ENTITY identitiesListDelete.accesskey "m">

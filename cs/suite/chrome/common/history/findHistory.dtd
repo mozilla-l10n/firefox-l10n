@@ -1,0 +1,13 @@
+
+<!ENTITY search.name.label "nadpis">
+<!ENTITY search.url.label "adresa">
+<!ENTITY search.startswith.label "začíná na">
+<!ENTITY search.endswith.label "končí na">
+<!ENTITY search.is.label "je">
+<!ENTITY search.isnot.label "není">
+<!ENTITY search.contains.label "obsahuje">
+<!ENTITY search.doesntcontain.label "neobsahuje">
+<!ENTITY search.for.label "Najít navštívený dokument jehož">
+<!ENTITY findHistory.title "Hledání v historii">
+<!ENTITY findButton.label "Hledat">
+

@@ -1,0 +1,38 @@
+<!ENTITY window.title "Pravidla filtru">
+
+<!ENTITY filterName.label "Název filtru:">
+<!ENTITY filterName.accesskey "f">
+
+<!ENTITY junk.label "Nevyžádaná">
+<!ENTITY notJunk.label "Není nevyžádaná">
+
+<!ENTITY lowestPriorityCmd.label "Nejnižší">
+<!ENTITY lowPriorityCmd.label "Nízká">
+<!ENTITY normalPriorityCmd.label "Normální">
+<!ENTITY highPriorityCmd.label "Vysoká">
+<!ENTITY highestPriorityCmd.label "Nejvyšší">
+
+<!ENTITY conditionDesc.label "Pro příchozí zprávy:">
+<!ENTITY filterActionDesc.label "Provést akci:">
+<!ENTITY filterActionDesc.accesskey "a">
+
+<!ENTITY newFolderButton.label "Nová složka…">
+<!ENTITY newFolderButton.accesskey "s">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Přesunout zprávu do složky">
+<!ENTITY copyMessage.label "Kopírovat zprávu do složky">
+<!ENTITY forwardTo.label "Přeposlat na:">
+<!ENTITY replyWithTemplate.label "Odpovědět pomocí šablony">
+<!ENTITY markMessageRead.label "Označit jako přečtené">
+<!ENTITY markMessageStarred.label "Přidat hvězdičku">
+<!ENTITY setPriority.label "Nastavit prioritu na">
+<!ENTITY addTag.label "Přiřadit štítek">
+<!ENTITY setJunkScore.label "Nastavit druh zprávy na">
+<!ENTITY deleteMessage.label "Smazat zprávu">
+<!ENTITY deleteFromPOP.label "Smazat z POP3 serveru">
+<!ENTITY fetchFromPOP.label "Stáhnout tělo zprávy z POP serveru">
+<!ENTITY ignoreThread.label "Ignorovat vlákno">
+<!ENTITY ignoreSubthread.label "Ignorovat podvlákno">
+<!ENTITY watchThread.label "Sledovat vlákno">
+<!ENTITY stopExecution.label "Zastavit vykonávání filtru">

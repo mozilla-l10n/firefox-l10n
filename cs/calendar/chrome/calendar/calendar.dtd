@@ -1,0 +1,404 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+ -
+ - The contents of this file are subject to the Mozilla Public License Version
+ - 1.1 (the "License"); you may not use this file except in compliance with
+ - the License. You may obtain a copy of the License at
+ - http://www.mozilla.org/MPL/
+ -
+ - Software distributed under the License is distributed on an "AS IS" basis,
+ - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ - for the specific language governing rights and limitations under the
+ - License.
+ -
+ - The Original Code is OEone Calendar Code, released October 31st, 2001.
+ -
+ - The Initial Developer of the Original Code is
+ - OEone Corporation.
+ - Portions created by the Initial Developer are Copyright (C) 2001
+ - the Initial Developer. All Rights Reserved.
+ -
+ - Contributor(s): Garth Smedley <garths@oeone.com>
+ - Mike Potter <mikep@oeone.com>
+ - Chris Charabaruk <coldacid@meldstar.com>
+ - ArentJan Banck <ajbanck@planet.nl>
+ - Eric Belhaire <belhaire@ief.u-psud.fr>
+ - Matthew Willis <mattwillis@gmail.com>
+ - Simon Paquet <bugzilla@babylonsounds.com>
+ - Stefan Sitter <ssitter@gmail.com>
+ - Philipp Kewisch <mozilla@kewis.ch>
+ -
+ - Alternatively, the contents of this file may be used under the terms of
+ - either the GNU General Public License Version 2 or later (the "GPL"), or
+ - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ - in which case the provisions of the GPL or the LGPL are applicable instead
+ - of those above. If you wish to allow use of your version of this file only
+ - under the terms of either the GPL or the LGPL, and not to allow others to
+ - use your version of this file under the terms of the MPL, indicate your
+ - decision by deleting the provisions above and replace them with the notice
+ - and other provisions required by the LGPL or the GPL. If you do not delete
+ - the provisions above, a recipient may use your version of this file under
+ - the terms of any one of the MPL, the GPL or the LGPL.
+ -
+ - ***** END LICENSE BLOCK ***** -->
+
+<!-- General -->
+<!ENTITY calendar.file.default.name "Můj kalendář">
+<!ENTITY calendar.calendar.label "Kalendář">
+<!ENTITY calendar.calendar.accesskey "K">
+
+
+<!ENTITY calendar.confirm.deleteallevents "Opravdu chcete smazat všechny vybrané události?">
+<!ENTITY calendar.confirm.deleteevent "Opravdu chcete smazat událost s názvem: ">
+<!ENTITY calendar.confirm.deleteuntitledevent "Opravdu chcete smazat tuto nepojmenovanou událost?">
+
+<!ENTITY calendar.flat.topbar.choosedate "Přejít na datum">
+<!ENTITY calendar.flat.topbar.dayview "Denní pohled">
+<!ENTITY calendar.dayview.accesskey "D">
+<!ENTITY calendar.flat.topbar.weekview "Týdenní pohled">
+<!ENTITY calendar.weekview.accesskey "T">
+<!ENTITY calendar.flat.topbar.monthview "Měsíční pohled">
+<!ENTITY calendar.monthview.accesskey "M">
+<!ENTITY calendar.flat.topbar.multiweekview "Více-týdenní pohled">
+<!ENTITY calendar.multiweekview.accesskey "V">
+<!ENTITY calendar.dayView.key "1">
+<!ENTITY calendar.weekView.key "2">
+<!ENTITY calendar.multiweekView.key "3">
+<!ENTITY calendar.monthView.key "4">
+
+<!ENTITY calendar.newtask.button.tooltip "Vytvoří nový úkol">
+<!ENTITY calendar.newevent.button.tooltip "Vytvoří novou událost">
+<!ENTITY calendar.delete.button.tooltip "Vymaže vybranou událost">
+<!ENTITY calendar.edit.button.tooltip "Upraví vybranou událost">
+
+<!ENTITY calendar.unifinder.todoitems.label "Úkoly">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Zobrazit dokončené úkoly">
+
+<!ENTITY calendar.calendartab.label "Datum">
+<!ENTITY calendar.listofcalendarstab.label "Kalendáře">
+<!ENTITY calendar.today.button.label "Dnešní den">
+<!ENTITY calendar.tomorrow.button.label "Zítra">
+<!ENTITY calendar.soon.button.label "Brzo">
+
+<!ENTITY calendar.events.filter.all.label "Všechny události">
+<!ENTITY calendar.events.filter.today.label "Dnešní události">
+<!ENTITY calendar.events.filter.future.label "Všechny budoucí události">
+<!ENTITY calendar.events.filter.current.label "Právě vybraný den">
+<!ENTITY calendar.events.filter.next7Days.label "Události příštích 7 dnů">
+<!ENTITY calendar.events.filter.next14Days.label "Události příštích 14 dnů">
+<!ENTITY calendar.events.filter.next31Days.label "Události příštích 31 dnů">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Události tohoto kalendářního měsíce">
+
+<!ENTITY calendar.unifinder.tree.done.label "Hotovo">
+<!ENTITY calendar.unifinder.tree.priority.label "Priorita">
+<!ENTITY calendar.unifinder.tree.title.label "Název">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Dokončeno">
+<!ENTITY calendar.unifinder.tree.startdate.label "Začátek">
+<!ENTITY calendar.unifinder.tree.enddate.label "Konec">
+<!ENTITY calendar.unifinder.tree.duedate.label "Do">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Splněno">
+<!ENTITY calendar.unifinder.tree.categories.label "Kategorie">
+<!ENTITY calendar.unifinder.tree.location.label "Místo">
+<!ENTITY calendar.unifinder.tree.status.label "Stav">
+<!ENTITY calendar.unifinder.tree.calendarname.label "Název kalendáře">
+<!ENTITY calendar.unifinder.tree.duration.label "Do">
+<!ENTITY calendar.unifinder.close.tooltip "Zavře hledání a seznam událostí">
+<!ENTITY calendar.find.key "F">
+
+<!ENTITY calendar.today.button.tooltip "Přejde na dnešní den">
+<!ENTITY calendar.todaypane.button.tooltip "Zobrazí dnešní panel">
+<!ENTITY calendar.choosedate.button.tooltip "Vybere datum k přejití">
+<!ENTITY calendar.unifinder.button.tooltip "Najde a zobrazí události" >
+
+<!ENTITY calendar.day.button.tooltip "Přepne do denního pohledu">
+<!ENTITY calendar.week.button.tooltip "Přepne do týdenního pohledu">
+<!ENTITY calendar.month.button.tooltip "Přepne do měsíčního pohledu">
+<!ENTITY calendar.multiweek.button.tooltip "Přepne do vícetýdenního pohledu">
+
+<!ENTITY calendar.nextday.button.tooltip "Další den">
+<!ENTITY calendar.prevday.button.tooltip "Předchozí den">
+<!ENTITY calendar.nextweek.button.tooltip "Další týden">
+<!ENTITY calendar.prevweek.button.tooltip "Předchozí týden">
+<!ENTITY calendar.nextmonth.button.tooltip "Další měsíc">
+<!ENTITY calendar.prevmonth.button.tooltip "Předchozí měsíc">
+
+<!ENTITY calendar.newtask.button.label "Nový úkol">
+<!ENTITY calendar.newevent.button.label "Nová událost">
+<!ENTITY calendar.delete.button.label "Smazat">
+<!ENTITY calendar.edit.button.label "Upravit">
+
+<!ENTITY calendar.choosedate.button.label "Vybrat datum">
+
+<!ENTITY calendar.cut.button.tooltip "Vyjmout">
+<!ENTITY calendar.copy.button.tooltip "Kopírovat">
+<!ENTITY calendar.paste.button.tooltip "Vložit">
+<!ENTITY calendar.print.button.tooltip "Vytisknout kalendář">
+
+<!ENTITY calendar.cut.button.label "Vyjmout">
+<!ENTITY calendar.copy.button.label "Kopírovat">
+<!ENTITY calendar.paste.button.label "Vložit">
+<!ENTITY calendar.print.button.label "Tisk">
+
+<!ENTITY calendar.import.button.tooltip "Import: Importovat události z místního souboru.">
+<!ENTITY calendar.export.button.tooltip "Export: Exportovat události do místního souboru.">
+<!ENTITY calendar.subscribe.button.tooltip "Odebírání: Přihlášení k odběru kalendáře ze vzdáleného počítače.">
+<!ENTITY calendar.publish.button.tooltip "Publikování: Publikování událostí na vzdálený počítač.">
+
+<!ENTITY calendar.export.calendar "Exportovat kalendář…">
+
+<!ENTITY calendar.import.button.label "Import">
+<!ENTITY calendar.export.button.label "Export">
+<!ENTITY calendar.subscribe.button.label "Odebírání">
+<!ENTITY calendar.publish.button.label "Publikování">
+<!ENTITY calendar.unifinder.button.label "Najít události" >
+
+<!ENTITY calendar.remotereload.button.label "Aktualizace">
+<!ENTITY calendar.remotereload.button.tooltip "Aktualizuje všechny vzdálené kalendáře">
+
+<!ENTITY calendar.day.button.label "Den">
+<!ENTITY calendar.week.button.label "Týden">
+<!ENTITY calendar.month.button.label "Měsíc">
+<!ENTITY calendar.multiweek.button.label "Vícetýden">
+<!ENTITY calendar.onlyworkday.checkbox.label "Pouze pracovní dny">
+<!ENTITY calendar.onlyworkday.checkbox.accesskey "r">
+<!ENTITY calendar.displaytodos.checkbox.label "Úkoly v pohledu">
+<!ENTITY calendar.displaytodos.checkbox.accesskey "v">
+<!ENTITY calendar.completedtasks.checkbox.label "Zobrazit dokončené úkoly" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "d" >
+
+<!ENTITY calendar.orientation.label "Otočit pohled">
+<!ENTITY calendar.orientation.accesskey "o">
+
+<!ENTITY calendar.menu.options.close.key "W">
+
+<!ENTITY calendar.search.options.searchfor " obsahuje">
+
+<!ENTITY calendar.menu.numberofweeks.label "Počet týdnů">
+<!ENTITY calendar.menu.numberofweeks.accesskey "P">
+<!ENTITY calendar.menu.numberofweeks.2 "2 týdny">
+<!ENTITY calendar.menu.numberofweeks.3 "3 týdny">
+<!ENTITY calendar.menu.numberofweeks.4 "4 týdny">
+<!ENTITY calendar.menu.numberofweeks.5 "5 týdnů">
+<!ENTITY calendar.menu.numberofweeks.6 "6 týdnů">
+
+<!ENTITY calendar.list.header.label "Kalendář">
+
+<!ENTITY calendar.task.filter.title.label "Zobrazit">
+<!ENTITY calendar.task.filter.all.label "Vše">
+<!ENTITY calendar.task.filter.all.accesskey "V">
+<!ENTITY calendar.task.filter.today.label "Dnes">
+<!ENTITY calendar.task.filter.today.accesskey "D">
+<!ENTITY calendar.task.filter.next7days.label "Příštích sedm snů">
+<!ENTITY calendar.task.filter.next7days.accesskey "P">
+<!ENTITY calendar.task.filter.notstarted.label "Nezapočaté úkoly">
+<!ENTITY calendar.task.filter.notstarted.accesskey "z">
+<!ENTITY calendar.task.filter.overdue.label "Nesplněné úkoly">
+<!ENTITY calendar.task.filter.overdue.accesskey "N">
+<!ENTITY calendar.task.filter.completed.label "Dokončené úkoly">
+<!ENTITY calendar.task.filter.completed.accesskey "D">
+<!ENTITY calendar.task.filter.open.label "Nedokončené úkoly">
+<!ENTITY calendar.task.filter.open.accesskey "e">
+
+<!ENTITY calendar.task.details.title.label "Název:">
+<!ENTITY calendar.task.details.organizer.label "Autor:">
+<!ENTITY calendar.task.details.priority2.label "Priorita:">
+<!ENTITY calendar.task.details.priority.low.label "Nízká">
+<!ENTITY calendar.task.details.priority.normal.label "Normální">
+<!ENTITY calendar.task.details.priority.high.label "Vysoká">
+<!ENTITY calendar.task.details.status.label "Stav:">
+<!ENTITY calendar.task.details.category.label "Kategorie:">
+<!ENTITY calendar.task.details.repeat.label "Opakování:">
+
+<!ENTITY calendar.task.category.button.tooltip "Přiřadí úkolu kategorii">
+<!ENTITY calendar.task.complete.button.tooltip "Označí úkol za dokončený">
+<!ENTITY calendar.task.priority.button.tooltip "Změní prioritu úkolu">
+<!ENTITY calendar.task.delete.button.tooltip "Smaže zvolený úkol">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label "Dokument: Hotovo">
+
+<!-- customizable toolbars -->
+<!ENTITY calendar.context.customize.label "Vlastní…">
+<!ENTITY calendar.context.customize.accesskey "V">
+<!ENTITY calendar.menu.customize.label "Upravit lišty…">
+<!ENTITY calendar.menu.customize.accesskey "l">
+<!ENTITY calendar.maintoolbar.name "Hlavní lišta">
+<!ENTITY calendar.maintoolbar.accesskey "H">
+
+<!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label "Otevřít">
+<!ENTITY calendar.context.modifyorviewitem.accesskey "O">
+<!ENTITY calendar.context.modifyorviewtask.label "Otevřít úkol…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey "t">
+<!ENTITY calendar.context.newevent.label "Nová událost…">
+<!ENTITY calendar.context.newevent.accesskey "N">
+<!ENTITY calendar.context.newtodo.label "Nový úkol…">
+<!ENTITY calendar.context.newtodo.accesskey "k">
+<!ENTITY calendar.context.modifytask.label "Upravit úkol…">
+<!ENTITY calendar.context.modifytask.accesskey "U">
+<!ENTITY calendar.context.modifyitem.label "Upravit položku">
+<!ENTITY calendar.context.modifyitem.accesskey "p">
+<!ENTITY calendar.context.deletetask.label "Smazat úkol">
+<!ENTITY calendar.context.deletetask.accesskey "S">
+<!ENTITY calendar.context.deleteitem.label "Smazat položku">
+<!ENTITY calendar.context.deleteitem.accesskey "m">
+<!ENTITY calendar.context.deleteevent.label "Smazat událost">
+<!ENTITY calendar.context.deleteevent.accesskey "S">
+<!ENTITY calendar.context.deletethisevent.label "Tuto událost">
+<!ENTITY calendar.context.deletethisevent.accesskey "T">
+<!ENTITY calendar.context.deletecompleteseries.label "Celou řadu">
+<!ENTITY calendar.context.deletecompleteseries.accesskey "C">
+<!ENTITY calendar.context.deletefutureevents.label "Budoucí události">
+<!ENTITY calendar.context.deletefutureevents.accesskey "B">
+<!ENTITY calendar.context.deletefuturetasks.label "Budoucí">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "B">
+<!ENTITY calendar.context.cutevent.label "Vyjmout">
+<!ENTITY calendar.context.cutevent.accesskey "t">
+<!ENTITY calendar.context.copyevent.label "Kopírovat">
+<!ENTITY calendar.context.copyevent.accesskey "V">
+<!ENTITY calendar.context.pasteevent.label "Vložit">
+<!ENTITY calendar.context.pasteevent.accesskey "V">
+<!ENTITY calendar.context.selectall.label "Vybrat vše">
+<!ENTITY calendar.context.selectall.accesskey "V">
+<!ENTITY calendar.context.button.label "Dnešní panel">
+<!ENTITY calendar.context.button.accesskey "D" >
+
+<!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label "Průběh">
+<!ENTITY calendar.context.progress.accesskey "P">
+<!ENTITY calendar.context.priority.label "Priorita">
+<!ENTITY calendar.context.priority.accesskey "r">
+
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
+
+<!ENTITY calendar.context.markcompleted.label "Označit jako dokončené">
+<!ENTITY calendar.context.markcompleted.accesskey "O">
+
+<!ENTITY progress.level.0 "0&percnt;">
+<!ENTITY progress.level.0.accesskey "0">
+<!ENTITY progress.level.25 "25&percnt;">
+<!ENTITY progress.level.25.accesskey "2">
+<!ENTITY progress.level.50 "50&percnt;">
+<!ENTITY progress.level.50.accesskey "5">
+<!ENTITY progress.level.75 "75&percnt;">
+<!ENTITY progress.level.75.accesskey "7">
+<!ENTITY progress.level.100 "100&percnt;">
+<!ENTITY progress.level.100.accesskey "1">
+ 
+<!ENTITY priority.level.none "Nespecifikováno">
+<!ENTITY priority.level.none.accesskey "s">
+<!ENTITY priority.level.low "Nízká">
+<!ENTITY priority.level.low.accesskey "z">
+<!ENTITY priority.level.normal "Normální">
+<!ENTITY priority.level.normal.accesskey "N">
+<!ENTITY priority.level.high "Vysoká">
+<!ENTITY priority.level.high.accesskey "V">
+
+<!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label "Nový kalendář">
+<!ENTITY calendar.context.newserver.accesskey "N">
+<!ENTITY calendar.context.findcalendar.label "Hledat klaendář…" >
+<!ENTITY calendar.context.findcalendar.accesskey "H" >
+<!ENTITY calendar.context.deleteserver.label "Smazat kalendář">
+<!ENTITY calendar.context.deleteserver.accesskey "S">
+<!ENTITY calendar.context.reloadserver.label "Aktualizovat vzdálené kalendáře">
+<!ENTITY calendar.context.reloadserver.accesskey "A">
+<!ENTITY calendar.context.publish.label "Publikovat kalendář">
+<!ENTITY calendar.context.publish.accesskey "P">
+<!ENTITY calendar.context.export.label "Exportovat kalendář…">
+<!ENTITY calendar.context.export.accesskey "E">
+<!ENTITY calendar.context.properties.label "Možnosti">
+<!ENTITY calendar.context.properties.accesskey "M">
+
+<!ENTITY calendar.context.convertmenu.label "Převést na">
+<!ENTITY calendar.context.convertmenu.accesskey.mail "P">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.event.label "Událost…">
+<!ENTITY calendar.context.convertmenu.event.accesskey "U">
+<!ENTITY calendar.context.convertmenu.message.label "Zprávu…">
+<!ENTITY calendar.context.convertmenu.message.accesskey "Z">
+<!ENTITY calendar.context.convertmenu.task.label "Úkol…">
+<!ENTITY calendar.context.convertmenu.task.accesskey "k">
+
+<!ENTITY calendar.tasks.view.minimonth.label "Miniměsíc">
+<!ENTITY calendar.tasks.view.minimonth.accesskey "M">
+
+<!ENTITY calendar.tasks.view.calendarlist.label "Seznam kalendářů">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey "S">
+
+<!ENTITY calendar.tasks.view.filtertasks.label "Filtrovat úkoly">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey "F">
+
+<!-- Calendar Alarm Dialog -->
+
+<!ENTITY calendar.alarm.location.label "Místo:">
+<!ENTITY calendar.alarm.details.label "Podrobnosti…">
+
+<!ENTITY calendar.alarm.snoozefor.label "Zopakovat upozornění za" >
+<!ENTITY calendar.alarm.snoozeallfor.label "Zopakovat všechna upozornění za" >
+<!ENTITY calendar.alarm.title.label "Upozornění kalendáře">
+<!ENTITY calendar.alarm.dismiss.label "Zrušit">
+<!ENTITY calendar.alarm.dismissall.label "Zrušit vše">
+
+<!ENTITY calendar.alarm.snooze.5minutes.label "5 minut" >
+<!ENTITY calendar.alarm.snooze.10minutes.label "10 minut" >
+<!ENTITY calendar.alarm.snooze.15minutes.label "15 minut" >
+<!ENTITY calendar.alarm.snooze.30minutes.label "30 minut" >
+<!ENTITY calendar.alarm.snooze.45minutes.label "45 minut" >
+<!ENTITY calendar.alarm.snooze.1hour.label "1 hodinu" >
+<!ENTITY calendar.alarm.snooze.2hours.label "2 hodiny" >
+<!ENTITY calendar.alarm.snooze.1day.label "1 den" >
+
+<!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit "Upravit kalendář">
+<!ENTITY calendar.server.dialog.name.label "Název kalendáře:">
+
+<!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label "Barva:">
+<!ENTITY calendarproperties.webdav.label "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label "CalDAV">
+<!ENTITY calendarproperties.wcap.label "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label "Formát:">
+<!ENTITY calendarproperties.location.label "Adresa:">
+<!ENTITY calendarproperties.name.label "Název:">
+<!ENTITY calendarproperties.readonly.label "Pouze ke čtení">
+<!ENTITY calendarproperties.firealarms.label "Zobrazit upozornění">
+<!ENTITY calendarproperties.cache.label "Vyrovnávací paměť (EXPERIMENTÁLNÍ - vyžaduje restart)">
+<!ENTITY calendarproperties.enabled.label "Zapnout kalendář">
+
+<!-- Sunbird Help -->
+<!ENTITY calendar.help.label "Obsah nápovědy">
+<!ENTITY calendar.help.accesskey "n">
+
+<!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title "Publikovat kalendář">
+<!ENTITY calendar.publish.url.label "Adresa k publikování">
+<!ENTITY calendar.publish.publish.button "Publikovat">
+<!ENTITY calendar.publish.close.button "Zavřít">
+
+<!ENTITY calendar.publish.example.url.description "Např. http://www.myserver.com/webdav/test.ics">
+
+<!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title "Vybrat kalendář">
+
+<!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Tisk kalendáře">
+<!ENTITY calendar.print.title.label "Titulek">
+<!ENTITY calendar.print.layout.label "Vzhled">
+<!ENTITY calendar.print.range.label "Rozsah tisku">
+<!ENTITY calendar.print.currentview.label "Právě zobrazené události">
+<!ENTITY calendar.print.selected.label "Vybrané události">
+<!ENTITY calendar.print.custom.label "Vlastní:">
+<!ENTITY calendar.print.from.label "Od:">
+<!ENTITY calendar.print.to.label "Do:">
+<!ENTITY calendar.print.settingsGroup.label "Nastavení tisku">
+
+<!-- Error reporting -->
+<!ENTITY calendar.error.detail "Detaily…">
+<!ENTITY calendar.error.number "Číslo chyby:">
+<!ENTITY calendar.error.description "Popis:">
+<!ENTITY calendar.error.title "Vyskytla se chyba">
+
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">

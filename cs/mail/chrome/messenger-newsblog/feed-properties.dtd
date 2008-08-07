@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title "Vlastnosti kanálu">
+
+<!ENTITY feedFolder.label "Ukládat články do složky: ">
+<!ENTITY feedFolder.accesskey "s">
+
+<!ENTITY feedLocation.label "Adresa kanálu: ">
+<!ENTITY feedLocation.accesskey "A">
+
+<!ENTITY choosethisfolder.label "vyberte tuto složku">
+
+<!ENTITY quickMode.label "Zobrazit stručný obsah článku namísto načtení webové stránky">
+<!ENTITY quickMode.accesskey "o">
+
+<!ENTITY copyLinkCmd.label "Kopírovat adresu odkazu">
+<!ENTITY copyLinkCmd.accesskey "K">
+
+<!ENTITY pasteLinkCmd.label "Vložit">
+<!ENTITY pasteLinkCmd.accesskey "l">

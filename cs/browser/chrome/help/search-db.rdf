@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="Adresn&iacute; &rcaron;&aacute;dek (definice)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="Aktualizace dopl&ncaron;k&uring;" nc:link="customization.xhtml#add_ons_updating"/></li>
+        <li><Description nc:name="Aktualizace aplikace" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="Aktu&aacute;ln&iacute; z&aacute;lo&zcaron;ka (definice)" nc:link="glossary.xhtml#live_bookmark"/></li>      
+        <li><Description nc:name="Autentizace (definice)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="Bezpe&ccaron;n&aacute; str&aacute;nka (definice)" nc:link="glossary.xhtml#secure_site"/></li>        
+        <li><Description nc:name="Blokov&aacute;n&iacute; vyskakovac&iacute;ch oken" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="Cookie (definice)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="Certifik&aacute;t (definice)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="Certifik&aacute;ty" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="De&scaron;ifrov&aacute;n&iacute; (definice)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="Digit&aacute;ln&iacute; ID (definice)" nc:link="glossary.xhtml#digital_ID"/></li>      
+        <li><Description nc:name="Domovsk&aacute; str&aacute;nka (definice)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="Extensible Markup Language (XML) (definice)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="File Transfer Protocol (FTP) (definice)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="FIPS PUBS 140-1 (definice)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="Hlavn&iacute; heslo (definice)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="Hypertext Markup Language (HTML) (definice)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="Import z&aacute;lo&zcaron;ek z Internet Exploreru" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="Internet (definice)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="Internet protocol address (IP address) (definice)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>        
+        <li><Description nc:name="Java (definice)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="JavaScript (definice)" nc:link="glossary.xhtml#JavaScript"/></li> 
+        <li><Description nc:name="Jazyky" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="Kan&aacute;l RSS/Atom (definice) (definice)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="Klient (definice)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="Konfigurace roz&scaron;&iacute;&rcaron;en&iacute;" nc:link="customization.xhtml#add_ons_configuring_extensions"/></li>
+        <li><Description nc:name="Kryptografie (definice)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="Li&scaron;ta navigace (definice)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="Li&scaron;ta z&aacute;lo&zcaron;ek (definice)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="Mo&zcaron;nosti usnadn&ecaron;n&iacute;" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Nastaven&iacute; &ccaron;i zm&ecaron;na hlavn&iacute;ho hesla" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Ov&ecaron;&rcaron;ov&aacute;n&iacute; platnosti" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="PKCS #11 (definice)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="Prohl&iacute;&zcaron;en&iacute; webu" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="Proxy (definice)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="P&rcaron;edvolby Usnadn&ecaron;n&iacute;" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="P&rcaron;echod zp&ecaron;t nebo vp&rcaron;ed" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="P&rcaron;esun na jinou str&aacute;nku" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Secure Sockets Layer (SSL) (definice)" nc:link="glossary.xhtml#SSL"/></li>
+        <li><Description nc:name="Server (definice)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="Seznam zneplatn&ecaron;n&yacute;ch certifik&aacute;t&uring;" nc:link="prefs.xhtml#certificates"/></li>    
+        <li><Description nc:name="Soukrom&yacute; kl&iacute;&ccaron; (definice)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="Spr&aacute;vce hesel (definice)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="Stavov&yacute; &rcaron;&aacute;dek (definice)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="&Scaron;ifrov&aacute;n&iacute; (definice)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="Tla&ccaron;&iacute;tko Dom&uring;" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="Tla&ccaron;&iacute;tko Obnovit" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="Tla&ccaron;&iacute;tko Vp&rcaron;ed" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Tla&ccaron;&iacute;tko Zastavit" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="Tla&ccaron;&iacute;tko Zp&ecaron;t" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="TLS (definice)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="TCP/IP (Transmission Control Protocol/Internet Protocol) (definice)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="Uniform Resource Locator (URL) (definice)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="Vyhled&aacute;v&aacute;n&iacute; skrze adresn&iacute; &rcaron;&aacute;dek" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Vyhled&aacute;v&aacute;n&iacute; skrze vyhled&aacute;vac&iacute; pole" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="Vyhled&aacute;v&aacute;n&iacute; textu na str&aacute;nce" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>                
+        <li><Description nc:name="Vyhled&aacute;va&ccaron; (definice)" nc:link="glossary.xhtml#search_engine"/></li>   
+        <li><Description nc:name="Vyrovn&aacute;vac&iacute; pam&ecaron;t (definice)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="Webov&aacute; str&aacute;nka (definice)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="Webov&yacute; server (definice)" nc:link="glossary.xhtml#web_site"/></li>       
+        <li><Description nc:name="World Wide Web (definice)" nc:link="glossary.xhtml#World_Wide_Web"/></li>      
+        <li><Description nc:name="Zak&aacute;z&aacute;n&iacute;, povolen&iacute; a odinstalov&aacute;n&iacute; dopl&ncaron;k&uring;" nc:link="customization.xhtml#add_ons_uninstalling"/></li>
+        <li><Description nc:name="Z&aacute;lo&zcaron;ka (definice)" nc:link="glossary.xhtml#bookmark"/></li>             
+        <li><Description nc:name="Z&aacute;suvn&yacute; modul (definice)" nc:link="glossary.xhtml#plug-in"/></li>
+        <li><Description nc:name="Z&aacute;suvn&eacute; moduly" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="Zm&ecaron;na motivu vzhledu" nc:link="customization.xhtml#add_ons_switching_themes"/></li>
+        <li><Description nc:name="Zobrazen&iacute; HTML k&oacute;du" nc:link="menu_reference.xhtml#page_source"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>

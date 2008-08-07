@@ -1,0 +1,8 @@
+<!ENTITY pref-irc.window.title "ChatZilla">
+
+<!ENTITY pref-irc.open.title "Nastavení ChatZilly">
+<!ENTITY pref-irc.open.desc "Nastavení ChatZilly jsou příliš rozsáhlá a nevejdou se do tohoto okna. Otevřete si raději samostatné okno s nastavením.">
+<!ENTITY pref-irc.open.label "Otevřít nastavení ChatZilly">
+<!ENTITY pref-irc.open.accesskey "O">
+<!ENTITY startup.chat.label "ChatZilla">
+<!ENTITY startup.chat.accesskey "Z">

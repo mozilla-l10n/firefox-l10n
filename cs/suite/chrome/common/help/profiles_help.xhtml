@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
+  %brandDTD;
+  %regionDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Správa profilů</title>
+<link rel="stylesheet" href="chrome://help/locale/helpFileLayout.css"
+  type="text/css"/>
+</head>
+<body>
+
+<h1 id="managing_profiles">Správa profilů</h1>
+
+<p>Pokud používáte Internet na vašem přenosném počítači doma a v práci, možná chcete používat různě nakonfigurovaná prostředí s vlastními záložkami, předvolbami, adresářem, poštovními účty atd. Nebo třeba chcete, aby členové vaší domácnosti přistupovali k Internetu s aplikací &brandShortName; nastaveným podle svých představ.</p>
+
+<p>Správce profilů vám umožní vytvořit různé profily. Každý s vlastními záložkami, předvolbami, poštovními účty atd. Při první instalaci se automaticky vytvoří výchozí profil (tzv. Default User), který &brandShortName; používá. Po vytvoření dalšího uživatelského profilu budete vždy při startu aplikace &brandShortName; dotázáni, který profil si přejete použít.</p>
+
+<div class="contentsBox">V této kapitole:
+<ul>
+  <li><a href="#creating_a_new_profile">Vytvoření nového profilu</a></li>
+  <li><a href="#deleting_or_renaming_a_profile">Smazání nebo přejmenování profilu</a></li>
+  <li><a href="#roaming_profiles">Cestovní profily</a></li>
+  <li><a href="#roaming_prefs">Předvolby Cestovních profilů</a></li>
+  <li><a href="#roaming_item_selection">Předvolby Cestovních profilů - Volba součástí</a></li>
+</ul>
+</div>
+
+<h2 id="creating_a_new_profile">Vytvoření nového profilu</h2>
+
+<p>Pro vytvoření nového profilu:</p>
+
+<ol>
+  <li>Spusťte Správce profilů:
+    <ul>
+      <li><strong>Pokud je &brandShortName; spuštěna</strong>: V hlavní nabídce zvolte Nástroje a v podnabídce vyberte položku Přepnout profil...</li>
+      <li><strong>Pokud není &brandShortName; spuštěna</strong>: <span class="win">
+        Otevřete nabídku Start, zvolte Programy, vyberte složku &brandShortName; a klepněte na položku Správce profilů.</span><span class="mac"> Při spouštění &brandShortName; z Finder či Dock držte <kbd>Option</kbd> key.</span><span class="unix"> Napište v konzoli:
+        <kbd> ./seamonkey -profilemanager</kbd></span></li>
+    </ul>
+  </li>
+  <li>Klepněte na tlačítko Vytvořit profil, přečtěte si informace a klepněte na tlačítko Další.</li>
+  <li>Vložte jméno profilu do editačního pole. Můžete ho pojmenovat vaším křestním jménem nebo názvem činnosti, pro který je profil určen - například <q>Škola.</q>.</li>
+  <li>Ponechte výchozí umístění adresáře pro nový profil nebo klepněte na tlačítko Vybrat složku a zvolte umístění adresáře pro nový profil. Do tohoto adresáře bude nový profil uložen.</li>
+  <li>V případě, že máte nainstalovánu podporu pro různé jazyky, klepněte na tlačítko Výběr regionu a zvolte vámi preferovaný jazyk.</li>
+  <li>Klepněte na tlačítko Dokončit.</li>
+</ol>
+
+<p>[<a href="#managing_profiles">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="deleting_or_renaming_a_profile">Smazání nebo přejmenování profilu</h2>
+
+<p>Můžete smazat profil, který již nepoužíváte. Pro smazání nebo přejmenování existujícího profilu:</p>
+
+<ol>
+  <li>Spusťte Správce profilů:
+    <ul>
+      <li><strong>Pokud je &brandShortName; spuštěna</strong>: V hlavní nabídce zvolte Nástroje a v podnabídce vyberte položku Přepnout profil... <strong>Poznámka</strong>: Nemůžete smazat profil, který je používán.</li>
+      <li><strong>Pokud není &brandShortName; spuštěna</strong>:
+        <span class="win"> Otevřete nabídku Start, zvolte Programy, vyberte složku &brandShortName; a klepněte na položku Správce profilů.</span><span class="mac"> Při spouštění &brandShortName; z Finder či Dock držte <kbd>Option</kbd> key.</span><span class="unix"> Napište v konzoli: <kbd> ./seamonkey -profilemanager</kbd></span></li>
+    </ul>
+  </li>
+  <li>Pro smazání profilu označte jméno profilu, který chcete smazat a klepněte na tlačítko Smazat profil. V potvrzujícím dialogu klepněte na jednu z následujících voleb:
+    <ul>
+      <li><strong>Smazat soubory</strong>: Vymaže složku s profilem, kde jsou skladovány data (záložky, předvolby, e-mailové účty apod.) <em>Před klepnutím na toto tlačítko se ujistěte, že již nebude nic z těchto dat v budoucnu potřebovat.</em></li>
+      <li><strong>Nemazat soubory</strong>: Odstraní profil ze seznamu profilů, ale ponechá složku s profilem. Volbou této volby nebudou žádná data z profilu vymazána.</li>
+    </ul>
+    Pro přejmenování profilu zvolte jméno profilu který chcete přejmenovat, a klepněte na tlačítko Přejmenovat profil.</li>
+</ol>
+
+<p>[<a href="#managing_profiles">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="roaming_profiles">Cestovní profily</h2>
+
+<p>Cestovní profily vám umožní ukládát váš profil a přidružené nastavení na centrální server či na sdílené místo. Výhodou je, že vaše nastavení můžete snadno přenášet z jednoho PC na jiné. Například si přejete používat stejné nastavení balíku &brandShortName; v práci i doma. Chcete mít stejné záložky, kontakty a další nastavení synchroní.</p>
+
+<p>Cestovní profily mohou být ukládány na HTTP či FTP server. Budete potřebovat přístupové jméno a heslo k tomuto serveru do adresáře, kam máte práva zápisu. To vám zajistí, že budete moci profil snadno ukládat a znovu načítat. Další z možností je využít možnosti kopírovat profil do lokálního adresáře skrze volbu Kopírovat soubory.</p>
+
+<p>Vždy předtím, než začnete balík &brandShortName; používat, bude váš profil stažen a při ukončení nahrán zpět na úložné místo.</p>
+
+<p>[<a href="#managing_profiles">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="roaming_prefs">Předvolby Cestovních profilů</h2>
+
+<p>Tato sekce popisuje, jak používat předvolby funkce Cestovní profil. Pokud jste je dosud neviděli, postupujte následujícím způsobem:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>Klepněte na kategorii Cestovní profil</li>
+  <li>Zvolte <strong>Povolit vzdálené skladování profilu</strong> pro aktivování funkce Cestovní profil pro aktuální profil.</li>
+  <li>Zvolte jednu z následujících možností:
+    <ul>
+      <li><strong>HTTP / FTP</strong>: Zvolte, pokud si přejete ukládat profil na FTP či HTTP server. 
+        <ul>
+          <li><strong>Adresa URL</strong>: Zadejte adresu URL adresáře, kam chcete cestovní profil ukládat. URL musí být typu FTP, HTTP či HTTPS. Ukládání skrze protokol FTP je pravděpodobně nejsnazší způsob na domácích sítích. V jiných případěch, jako je přenos skrze prostředí Internetu, je silně doporučeno používat HTTPS, protože by přenášená hesla a záložky byly snadno čitelné pro jiné osoby.
+
+            <p><strong>Příklady</strong>:<br/>
+            <kbd>&lt;https://user@http-server/dir/&gt;</kbd><br/>
+            <kbd>&lt;ftp://user@ftp-server//home/user/dir/&gt;</kbd><br/> 
+            <kbd>&lt;ftp://user@ftp-server/dir/&gt;</kbd></p>
+
+          </li>
+          <li><strong>Jméno uživatele</strong>: Zadejte jméno uživatele, které bude používáno pro přístup k FTP či HTTP serveru.</li>
+          <li><strong>Uložit heslo</strong>: Povolením této volby umožníte ukládat heslo, které máte přiděleno.</li>
+          <li><strong>Heslo</strong>: Zadejte heslo, které máte ke jménu uživatele přiděleno.</li>
+        </ul>
+      </li>
+      <li><strong>Kopírovat soubory</strong>: 
+      Zvolte tuto volbu, pokud si přejete kopírovat profil do lokálního adresáře.
+        <ul>
+          <li>Klepněte na tlačítko <strong>Browse</strong> a zvolte adresář, kam si přejete profil kopírovat a odkud bude též získáván.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ol>
+
+<p>[<a href="#managing_profiles">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="roaming_item_selection">Předvolby Cestovního profilu - Volba součástí</h2>
+
+<p>Ve výchozím nastavení jsou součástí cestovního profilu pouze záložky, cookies a kontakty. Pokud jsou všechny volby zašedlé, ujistěte se, že máte funkci Cestovní profil povolenu. Pro povolení či zakázání jednotlivých možností cestovního profilu postupujte následujícím způsobem:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Cestovní profil klepněte na podkategorii Volba součástí. (Pokud nevidíte žádnou podkategorii, dvojklepnutím na kategorii Cestovní profil zobrazíte jejich seznam.)</li>
+  <li>Zvolte položky, které chcete, aby se staly součástí cestovního profilu.</li>
+</ol>
+
+<p>Pokud nemužete zahrnout lokální složky s poštou z důvodu, že jsou příliš velké, začněte používat pro tyto účely IMAP.</p>
+
+<p><strong>Poznámka</strong>: Pokud používáte pomalé připojení, mějte se na pozoru před soubory, které jsou velké. Ušetříte tak čas při startu, kdy balík &brandShortName; bude stahovat všechny potřebné soubory na lokální pevný disk a při ukončování balíku &brandShortName;, kdy budou patřičné soubory nahrávány zpět na server.</p>
+
+<p>Pro další informace o nastavení funkce Cestovní profil na serveru nahlédněte do online dokumentu <a href="http://www.klomp.org/mod_roaming/">mod_roaming - Roaming Access module for Apache</a> [Eng.] nebo <a 
+  href="http://web.archive.org/web/20020207131101/http://help.netscape.com/products/client/communicator/manual_roaming2.html">Manually Implementing Roaming Access</a>. [Eng.]</p>
+
+<p>[<a href="#managing_profiles">Návrat na začátek kapitoly</a>]</p>
+
+<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+
+</body>
+</html>
+

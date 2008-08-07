@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" [
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Podepisování a šifrování e-mailů</title>
+<link rel="stylesheet" href="chrome://help/locale/helpFileLayout.css"
+  type="text/css"/>
+</head>
+<body>
+
+<h1 id="signing_and_encrypting_messages">Podepisování a šifrování e-mailů</h1>
+
+<div class="contentsBox">V této kapitole:
+<ul>
+<li><a href="#about_digital_signatures_and_encryption">O elektronickém podpisu a šifrování</a></li>
+<li><a href="#getting_other_peoples_certificates">Jak získat certifikáty jiných osob</a></li>
+<li><a href="#configuring_security_settings">Konfigurace zabezpečení</a></li>
+<li><a href="#signing_and_encrypting_a_new_message">Podepisování a šifrování nových e-mailů</a></li>
+<li><a href="#reading_signed_and_encrypted_messages">Čtení podepsaných a zašifrovaných e-mailů</a></li>
+<li><a href="#message_security_compose_window">Zabezpečení zprávy - Psaní e-mailu</a></li>
+<li><a href="#message_security_recieved_message">Zabezpečení zprávy - Přijatý e-mail</a></li>
+</ul>
+</div>
+
+<h2 id="about_digital_signatures_and_encryption">O elektronickém podpisu a  šifrování</h2>
+
+<p>Když píšete e-mail, můžete k němu připojit svůj digitální podpis. <a href="glossary.xhtml#digital_signature">Digitální podpis</a> umožňuje adresátům e-mailů ověřit, že jste e-mail poslali skutečně vy, a že s ním nebylo po odeslání manipulováno.</p>
+
+<p>Při psaní e-mailu se také můžete rozhodnout e-mail zašifrovat. <a href="glossary.xhtml#encryption">Šifrování</a> velmi ztěžuje případné přečtení zprávy osobou, která není jejím adresátem, během přenosu Internetem.</p>
+
+<p>Podepisování a šifrování není dostupné pro zprávy diskusních skupin.</p>
+
+<p>Než budete moci zprávy podepisovat nebo šifrovat, budete muset provést tyto přípravné kroky:</p>
+
+<ol>
+<li>Získat jeden nebo více <a href="glossary.xhtml#certificate">certifikátů</a> (elektronických protějšků osobních průkazů). Pro podrobnosti viz. <a href="using_certs_help.xhtml#getting_your_own_certificate">Získání vašeho vlastního certifikátu</a>.</li>
+<li>Upravit nastavení zabezpečení pro váš e-mailový účet. Pro podrobnosti viz. <a href="mail_help.xhtml#security">Nastavení účtu pošty a diskusních skupin - Bezpečnost</a>.</li>
+</ol>
+
+<p>Až provedete tyto kroky, dokončete postup dle kapitoly <a href="#signing_and_encrypting_a_new_message">Podepisování a šifrování nových e-mailů</a>.</p>
+
+<p>Následující kapitola poskytuje stručný náhled jak elektronické podpisy fungují. Pro odbornější podrobnosti si přečtěte online dokument <a href="http://developer.mozilla.org/en/docs/Introduction_to_Public-Key_Cryptography">Introduction to Public-Key Cryptography</a> [Eng.].</p>
+
+<h3 id="how_digital_signatures_work">Jak funguje elektronický podpis</h3>
+
+<p>Elektronický podpis je speciální kód jedinečný pro každou zprávu, který se vytvoří pomocí <a href="glossary.xhtml#public-key_cryptography">šifrování veřejným klíčem</a>.</p>
+
+<p>Elektronický podpis je naprosto odlišný od ručního podpisu, ačkoli může být použit k podobným právnickým úkonům, jako třeba k podpisu smlouvy.</p>
+
+<p>Pro elektronické podepsání e-mailu, který posíláte, potřebujete dvě věci:</p>
+
+<ul>
+<li><a href="glossary.xhtml#signing_certificate">Podepisovací certifikát</a>, který vás identifikuje pro tento účel. Pokaždé, když podepisujete e-mail, je váš podpisový certifikát k e-mailu připojen. Certifikát obsahuje  <a href="glossary.xhtml#public_key">veřejný klíč</a>. Přítomnost certifikátu ve zprávě dovoluje adresátovi ověřit váš elektronický podpis.
+<p>Váš certifikát je trochu jako vaše jméno a telefonní číslo v telefonním seznamu&mdash;je to veřejná informace, která ostatním lidem usnadňuje komunikaci s vámi.</p></li>
+<li><a href="glossary.xhtml#private_key">Soukromý klíč</a>, který je vytvořen a uložen ve vašem počítači v okamžiku, kdy obdržíte certifikát.
+<p>Váš soukromý klíč pro podepisování certifikátů je chráněn vaším <a href="glossary.xhtml#master_password">hlavním heslem</a> a program &brandShortName; nedává k dispozici nikomu dalšímu. Aplikace Pošta &amp; diskusní skupiny používá váš soukromý klíč k vytvoření jedinečného a ověřitelného elektronického podpisu pro každý e-mail, který se rozhodnete podepsat.</p></li>
+</ul>
+
+<h3 id="how_encryption_works">Jak funguje šifrování</h3>
+
+<p>Abyste mohli zašifrovat e-mail, musíte mít <a href="glossary.xhtml#encryption_certificate">šifrovací certifikát</a> pro každého z adresátů tohoto e-mailu. Veřejný klíč z každého z certifikátů je použit pro zašifrování e-mailu pro daného adresáta.</p>
+
+<p>Pokud nemáte certifikát ani pro jednoho z adresátů e-mailu, e-mail nemůže být zašifrován.</p>
+
+<p>Aplikace, kterou používá adresát e-mailu, použije pro rozšifrování e-mailu adresátův soukromí klíč, který je uložen v jeho počítači.</p>
+
+<p>[<a href="#signing_and_encrypting_messages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="getting_other_peoples_certificates">Jak získat certifikáty jiných osob</h2>
+
+<p>Pokaždé, když posíláte digitálně podepsaný e-mail, je k němu přiložen váš šifrovací klíč. Takže jeden z nejjednodušších způsobů, jak získat něčí certifikát, je požádat tuto osobu, aby vám poslala elektronicky podepsaný e-mail.</p>
+
+<p>Když takový e-mail obdržíte, certifikát odesílatele je automaticky uložen <a href="certs_help.xhtml"> Správcem certifikátů</a>, který je součástí vašeho Prohlížeče, a který se o certifikáty stará, což je užitečné, protože potřebujete certifikát pro každého adresáta, kterému budete chtít poslat zašifrovaný e-mail.</p>
+
+<p>Jiný způsob jak získat certifikát je vyhledat je ve veřejném seznamu, který spravují různé firmy.</p>
+
+<p>Také je možné vyhledat certifikát automaticky. Tato funkce se ovládá v sekci <a href="mail_help.xhtml#addressing_preferences">Adresování</a> nebo v <a href="mail_help.xhtml#addressing">nastavení účtu pošty a diskusních skupin - Adresování</a>, a může být nastavena pro vyhledávání adresátovy e-mailové adresy v seznamu.</p>
+
+<p>Pokud je alespoň jeden e-mailový účet který používáte nastaven tak, aby vyhledával e-mailové adresy v seznamu, bude tento seznam prohledán pro získání příslušných certifikátů, když se pokusíte poslat e-mail osobě nebo osobám, jejichž certifikáty nemáte uloženy.</p>
+
+<p>V seznamu se budou chybějící certifikáty vyhledávat i v případě, že v okně pro psaní zprávy otevřete rozbalovací seznam pod ikonou Zabezpečení a klepnete na položku Zobrazit informace o zabezpečení.</p>
+
+<p>[<a href="#signing_and_encrypting_messages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="configuring_security_settings">Konfigurace zabezpečení</h2>
+
+<p>Jakmile obdržíte e-mailový certifikát (nebo certifikáty), musíte určit, jaký certifikát se má používat pro podepisování a šifrování e-mailů.</p>
+
+<p>Pro informace o získávání e-mailových certifikátů viz. kapitola <a href="using_certs_help.xhtml#getting_your_own_certificate">Získání vašeho vlastního certifikátu</a>.</p>
+
+<p>Pro určení jaké certifikáty se mají používat pro podepisování a šifrování jednotlivých e-mailových účtů, začněte v okně Pošty &amp; diskusních skupin:</p>
+
+<ol>
+<li>Otevřete nabídku Úpravy a klepněte na položku Nastavení účtu.</li>
+<li>Klepněte na podkategorii Bezpečnost pod jménem účtu, jehož bezpečnostní nastavení chcete změnit.</li>
+<li>V sekci Digitální podpis klepněte na tlačítko Vybrat. (Možná budete dotázání na vaše <a href="glossary.xhtml#master_password">hlavní heslo</a> než budete moci pokračovat.)
+<p>Zobrazí se dialogové okno, ve kterém si budete moci vybrat z dostupných podepisovacích certifikátů.</p>
+  </li>
+<li>Zvolte podpisový certifikát, který chcete používat a klepněte na tlačítko OK.</li>
+<li>Stejný postup opakujte v sekci Šifrování: klepněte na tlačítko Vybrat, zvolte šifrovací certifikát, který chcete používat a klepněte na tlačítko OK.</li>
+
+<p>V některých případech je možné určit jeden certifikát jak v sekci Digitální podpis tak i v sekci Šifrování; ujistěte se o tom s vaším správcem sítě.</p>
+
+</ol>
+
+<p>Volitelně můžete nastavit, že chcete podepisovat nebo šifrovat všechny e-maily posílané z určitého účtu. Tato nastavení pro jednotlivé účty jsou pouze pro pohodlí; můžete je pro jednotlivé e-maily potlačit.</p>
+
+<p>Po nastavení výchozího chování podepisování a šifrování začněte z podkategorie Bezpečnost zvoleného e-mailového účtu (viz výše) a změňte nastavení takto:</p>
+
+<ul>
+<li>V sekci Digitální podpis:
+  <ul>
+  <li><strong>Digitálně podepsat zprávy (výchozí)</strong>: Pokud je toto zaškrtávací políčko označeno, zprávy poslané z tohoto účtu budou digitálně podepsány, pokud neurčíte jinak před jejich odesláním. Pro vypnutí tohoto výchozího nastavení zaškrtnutí odstraňte.</li>
+  </ul></li>
+<li>V oblasti Šifrování (zvolte jednu možnost):
+  <ul>
+    <li><strong>Nikdy (nepoužívat šifrování)</strong>: Pokud je zvolena tento přepínač, zprávy poslané z tohoto účtu nebudou zašifrovány, pokud neurčíte jinak před jejich odesláním.</li>
+    <li><strong>Vyžadováno (nelze odeslat zprávy, pokud všichni příjemci nemají certifikáty)</strong>: Pokud je zvolen tento přepínač, zprávy poslané z tohoto účtu budou zašifrovány&mdash;ale pod podmínkou, že máte platný certifikát pro každého z adresátů zprávy. Pokud nebudete mít všechny potřebné certifikáty, zpráva nebude moci být odeslána, dokud nevypnete její šifrování.</li>
+  </ul></li>
+</ul>
+
+<p>Až s konfigurací zabezpečení e-mailu skončíte, klepněte na tlačítko OK pro její potvrzení.</p>
+
+<p>[<a href="#signing_and_encrypting_messages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="signing_and_encrypting_a_new_message">Podepisování &amp; šifrování nových e-mailů</h2>
+
+<p>Než budete moci podepisovat nebo šifrovat zprávy, musíte získat podepisovací certifikát a správně nastavit volby zabezpečení. Podklady pro tyto činnosti naleznete v kapitole <a href="#about_digital_signatures_and_encryption">O elektronickém podpisu &amp; šifrování</a>.</p>
+
+<p>Nastavení popsané v kapitole <a href="mail_help.xhtml#security">Nastavení účtu pošty a diskusních skupin - Bezpečnost</a> určují výchozí nastavení pro každou novou zprávu psanou v okně Psaní zprávy.</p>
+
+<p>Pro otevření okna Psaní zprávy začněte v okně Pošta &amp; Diskusní skupiny a klepněte na ikonu Nová zpráva. Ihned můžete zjistit výchozí nastavení zabezpečení podle toho, jaké ikony jsou přítomné či chybí poblíž pravého dolního rohu okna:</p>
+
+<table>
+  <tr>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif"
+      alt="Ikona elektronického podpisu"/></td><td>Zpráva bude elektronicky podepsána (za předpokladu, že máte platný e-mailový certifikát, který vás identifikuje).</td>
+  </tr>
+  <tr>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif"
+      alt="Ikona šifrování"/></td><td>Zpráva bude zašifrována (za předpokladu, že máte platné certifikáty pro každého z adresátů).</td>
+  </tr>
+</table>
+
+<p>Pro zapnutí či vypnutí těchto voleb klepněte na šipku hned pod tlačítkem Zabezpečení na Liště nástrojů  v okně Psaní zprávy. Potom klepněte na jednu z následujících položek v rozbalovacím seznamu:</p>
+
+<ul>
+<li><strong>Nešifrovat zprávu</strong>: Zvolte pro vypnutí šifrování zprávy. Zpráva nebude před posláním přes Internet zašifrována.</li>
+<li><strong>Zašifrovat zprávu</strong>: Zvolte pro zapnutí šifrování zprávy. Zpráva bude poslána v šifrované podobě. Nicméně nebude moci být odeslána, pokud nebudete mít certifikát pro každého z adresátů zprávy.</li>
+<li><strong>Digitálně podepsat zprávu</strong>: Zvolte pro digitální podepsání. Zaškrtnutí znamená, že bude zpráva podepsána.</li>
+<li><strong>Zobrazit informace o zabezpečení</strong>: Zvolte pro zobrazení podrobných informací o stavu zabezpečení této zprávy&mdash;například pro zjištění, jestli bude třeba obstarat certifikát pro některého z adresátů zprávy.</li>
+</ul>
+
+<p>Pro zobrazení podrobných informací o stavu zabezpečení zprávy můžete také klepnout na ikonu klíče nebo zámku jak je popsáno v <a href="#message_security_compose_window">Zabezpečení zprávy - Psaní e-mailu</a>.</p>
+
+<p>[<a href="#signing_and_encrypting_messages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="reading_signed_and_encrypted_messages">Čtení podepsaných a zašifrovaných e-mailů</h2>
+
+<p>Když si v okně Pošta &amp; Diskusní skupiny prohlížíte podepsanou nebo šifrovanou zprávu, o stavu zabezpečení této zprávy informují následující ikony v pravém horním rohu okna:</p>
+
+<table>
+  <tr>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif"
+      alt="Ikona podpisu"/></td><td>Zpráva byla elektronicky podepsána a byla ověřena. Pokud nastal s podpisem problém, pero na ikoně je zlomené.</td>
+  </tr>
+  <tr>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrSignUnknown.gif"
+      alt="Ikona neznámé"/></td><td>Zpráva je podepsaná, ale má objemnou přílohu, které ještě nebyla stažena z IMAP severu. Díky tomu nemůže být podpis ověřen. Klepněte na ikonu pro stažení přílohy a ověření podpisu.</td>
+  </tr>
+  <tr>
+    <td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif"
+      alt="Ikona šifrováno"/></td><td>Zpráva je šifrovaná. Pokud nastal se šifrováním problém, klíč na ikoně je zlomený.</td>
+  </tr>
+</table>
+
+<p>Pro informace o ověřování certifikátů viz. kapitola <a href="using_certs_help.xhtml#controlling_validation">Ověřování platnosti</a>.</p>
+
+<p>Pro zobrazení podrobných informací o stavu zabezpečení zprávy můžete také klepnout na ikonu klíče nebo zámku jak je popsáno v kapitole <a href="#message_security_recieved_message">Zabezpečení zprávy - Přijatý e-mail</a>.</p>
+
+<p>[<a href="#signing_and_encrypting_messages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="message_security_compose_window">Zabezpečení zprávy - Psaní e-mailu</h2>
+
+<p>Tato kapitola popisuje dialogové okno Zabezpečení zprávy, které můžete vyvolat pro každou zprávu, kterou píšete. Pokud zrovna nevidíte dialogové okno Zabezpečení zprávy, klepněte na tlačítko Zabezpečení na nástrojové liště okna Psaní zprávy.</p>
+
+
+<p>Dialogové okno Zabezpečení zprávy popisuje, jak bude zpráva odeslána:</p>
+
+<ul>
+<li><strong>Digitálně podepsaný</strong>: Tato řádka informuje, zda bude zpráva podepsána. Jsou zde tři možnosti:
+  <ul>
+  <li><strong>Ano</strong>: Digitální podepsání bylo pro tuto zprávu zapnuto, máte platný certifikát, který vás identifikuje a zpráva může být podepsána.</li>
+  <li><strong>Ne</strong>: Digitální podepsání bylo pro tuto zprávu vypnuto.</li>
+  <li><strong>Není dostupné</strong>: Digitální podepsání bylo pro tuto zprávu zapnuto, nicméně není k dispozici platný <a href="glossary.xhtml#certificate">certifikát</a>, který by vás identifikoval pro tento účel, nebo nastal jiný problém, který podepsání znemožňuje.</li>
+  </ul>
+</li>
+<li><strong>Zašifrovaný</strong>: Tato řádka informuje, zda bude zpráva zašifrována. Jsou zde tři možnosti:
+  <ul>
+  <li><strong>Ano</strong>: Šifrování bylo pro tuto zprávu zapnuto, máte platný certifikát pro každého z adresátů zprávy a zpráva může být podepsána.</li>
+  <li><strong>Ne</strong>: Šifrování bylo pro tuto zprávu vypnuto, nebo se tato zpráva nedá zašifrovat.</li>
+  <li><strong>Není dostupné</strong>: Šifrování bylo pro tuto zprávu zapnuto, nicméně není k dispozici platný certifikát nejméně pro jednoho z adresátů zprávy, nebo není uveden žádný adresát, nebo nastal jiný problém který šifrování znemožňuje.</li>
+  </ul>
+</li>
+</ul>
+
+<p>Dialogové okno Zabezpečení zprávy také obsahuje seznam certifikátů pro adresáty zprávy:</p>
+
+<ul>
+<li><strong>Zobrazit</strong>: Pro zobrazení podrobností o libovolném certifikátu v seznamu klepněte na tlačítko Zobrazit.</li>
+</ul>
+
+<p>Pro více informací o tom, jak získat certifikáty a nastavit volby zabezpečení viz. kapitola <a href="#signing_and_encrypting_messages">Podepisování &amp; šifrování e-mailů</a>.</p>
+
+<p>Pro změnu voleb podpisu a šifrování pro jednotlivou zprávu klepněte na šipku u tlačítka Zabezpečení v okně Psaní zprávy a změňte, co potřebujete.</p>
+
+<p>Pro změnu výchozích voleb podpisu a šifrování pro všechny zprávy popisuje kapitola <a href="mail_help.xhtml#security">Nastavení účtu pošty a diskusních skupin - Bezpečnost</a></p>
+
+<p>[<a href="#signing_and_encrypting_messages">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="message_security_recieved_message">Zabezpečení zprávy - Přijatý e-mail</h2>
+
+<p>Tato kapitola popisuje dialogové okno Zabezpečení zprávy, které můžete vyvolat pro každou přijatou zprávu. Pokud zrovna nevidíte dialogové okno Zabezpečení zprávy postupujte takto:</p>
+
+<ol>
+<li>V okně Pošta vyberte zprávu, jejíž informace o zabezpečení chcete zobrazit.</li>
+<li>Otevřete nabídku Zobrazit a klepněte na položku Zobrazit info o zabezpečení zprávy.</li>
+</ol>
+
+<p>Okno Zabezpečení zprávy obsahuje tyto informace:</p>
+
+<ul>
+<li><strong>Digitální podpis</strong>: Horní oblast ukazuje, zda byla zpráva digitálně podepsána a pokud byla, zda je její podpis platný.</li>
+
+<p>Pokud ověření selhalo a používá se OCSP, zkontrolujte nastavení OCSP v <a href="validation_help.xhtml#privacy_and_security_preferences_validation">Předvolby Soukromí &amp; Zabezpečení - Ověřování</a>. Pokud nejste obeznámeni s OCSP, poraďte se o těchto nastaveních s vaším správcem sítě. Pokud je vaše nastavení v pořádku, může se jednat problém se službou OCSP nebo je certifikát použitý pro vytvoření podpisu neplatný.</p>
+
+<p>Pokud je certifikát neplatný kvůli problému s nastavením oblastí důvěry certifikátu, můžete použít <a href="certs_help.xhtml">Správce certifikátů</a> pro zobrazení nebo úpravu nastavení.</p>
+
+<li><strong>Zobrazit certifikát pro podpis</strong>: Pokud je zpráva podepsaná, klepněte na toto tlačítko pro zobrazení certifikátu, který byl na její podepsání použit.</li>
+<li><strong>Šifrování</strong>: Dolní oblast informuje, zda je zpráva šifrovaná a zda nastaly nějaké problémy při jejím rozšifrování.
+  <ul>
+  <li>Pokud byl obsah zprávy změněn během přenosu, měli byste odesílatele požádat, aby ji poslal znovu. Změny mohly být způsobeny síťovými problémy.</li>
+  <li>Pokud není na vašem počítači dostupná kopie vašeho certifikátu (který odesílatel použil k zašifrování zprávy), soukromý klíč nutný k rozšifrování zprávy nemůže být načten. Jediná možnost je importovat záložní kopii vašeho certifikátu a jeho soukromého klíče (viz. kapitola <a href="certs_help.xhtml#your_certificates">Mé (osobní) certifikáty</a> pro podrobné informace.) Pokud nemáte přístup k záloze certifikátu, nebudete moci zprávu rozšifrovat.</li>
+  </ul></li>
+</ul>
+
+<p>[<a href="#signing_and_encrypting_messages">Návrat na začátek kapitoly</a>]</p>
+
+<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+
+</body>
+</html>
+

@@ -1,0 +1,40 @@
+<!-- for SearchDialog.xul -->
+
+<!ENTITY searchHeading.label "Hledat položky v:">
+<!ENTITY searchHeading.accesskey "h">
+<!ENTITY searchSubfolders.label "Hledat ve vnořených složkách">
+<!ENTITY searchSubfolders.accesskey "l">
+<!ENTITY searchLocalSystem.label "Hledat v místním systému">
+<!ENTITY searchLocalSystem.accesskey "d">
+<!ENTITY resetButton.label "Obnovit">
+<!ENTITY resetButton.accesskey "B">
+<!ENTITY helpButton.label "Nápověda">
+<!ENTITY helpButton.accesskey "v">
+<!ENTITY optionsButton.label "Volby">
+<!ENTITY closeButton.label "Zavřít">
+<!ENTITY openButton.label "Otevřít">
+<!ENTITY openButton.accesskey "o">
+<!ENTITY deleteButton.label "Smazat">
+<!ENTITY deleteButton.accesskey "S">
+<!ENTITY searchDialogTitle.label "Hledat ve zprávách">
+<!ENTITY conditionDesc.label "Hledat ve zprávách jejichž:">
+<!ENTITY conditions.label "Podmínky">
+<!ENTITY results.label "Nalezené položky:">
+<!ENTITY fileHereMenu.label "Přesunout do složky">
+<!ENTITY fileHereMenu.accesskey "S">
+<!ENTITY fileButton.label "Přesunout">
+<!ENTITY fileButton.accesskey "p">
+<!ENTITY goToFolderButton.label "Otevřít složku se zprávami">
+<!ENTITY goToFolderButton.accesskey "t">
+<!ENTITY saveAsVFButton.label "Uložit jako virtuální složku">
+<!ENTITY saveAsVFButton.accesskey "v">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "Hledat v:">
+<!ENTITY abSearchHeading.accesskey "l">
+<!ENTITY propertiesButton.label "Vlastnosti">
+<!ENTITY propertiesButton.accesskey "L">
+<!ENTITY composeButton.label "Napsat zprávu">
+<!ENTITY composeButton.accesskey "z">
+<!ENTITY abSearchDialogTitle.label "Rozšířené hledání ve složce kontaktů">
+

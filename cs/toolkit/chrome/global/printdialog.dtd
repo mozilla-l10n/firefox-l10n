@@ -1,0 +1,21 @@
+<!-- extracted from printdialog.xul -->
+<!ENTITY printButton.label "Tisk">
+<!ENTITY printDialog.title "Tisk">
+<!ENTITY fpDialog.title "Ukládání souboru">
+<!ENTITY fileCheck.label "Tisk do souboru">
+<!ENTITY propertiesButton.label "Vlastnosti…">
+<!ENTITY descText.label "Popis tiskárny:">
+<!ENTITY printer.label "Tiskárna">
+<!ENTITY printerInput.label "Tiskárna:">
+<!ENTITY printrangeGroup.label "Tisknout rozsah">
+<!ENTITY allpagesRadio.label "Všechny stránky">
+<!ENTITY rangeRadio.label "Stránky">
+<!ENTITY frompageInput.label "od">
+<!ENTITY topageInput.label "do">
+<!ENTITY selectionRadio.label "Výběr">
+<!ENTITY copies.label "Kopie">
+<!ENTITY numCopies.label "Počet kopií:">
+<!ENTITY printframeGroup.label "Tisknout rámy">
+<!ENTITY aslaidoutRadio.label "Stejně jako na obrazovce">
+<!ENTITY selectedframeRadio.label "Vybraný rám">
+<!ENTITY eachframesepRadio.label "Každý rám zvlášť">

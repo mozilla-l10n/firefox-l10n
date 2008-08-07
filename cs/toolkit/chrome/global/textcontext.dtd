@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Vyjmout">
+<!ENTITY cutCmd.accesskey "m">
+<!ENTITY copyCmd.label "Kopírovat">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Vložit">
+<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY undoCmd.label "Zpět">
+<!ENTITY undoCmd.accesskey "Z">
+<!ENTITY selectAllCmd.label "Vybrat vše">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "Smazat">
+<!ENTITY deleteCmd.accesskey "m">
+
+<!ENTITY spellAddToDictionary.label "Přidat do slovníku">
+<!ENTITY spellAddToDictionary.accesskey "P">
+<!ENTITY spellCheckEnable.label "Kontrolovat pravopis">
+<!ENTITY spellCheckEnable.accesskey "K">
+<!ENTITY spellNoSuggestions.label "(Žádné návrhy nenalezeny)">
+<!ENTITY spellDictionaries.label "Jazyky">
+<!ENTITY spellDictionaries.accesskey "J">

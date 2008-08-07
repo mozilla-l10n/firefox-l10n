@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label "Formátování">
+<!ENTITY itemTags.label "Štítky">
+<!ENTITY itemFonts.label "Písma">
+
+<!ENTITY textBegin.label "Zobrazení prostého citovaného textu uvedeného znakem '>'">
+<!ENTITY style.label "Styl:">
+<!ENTITY style.accesskey "S">
+<!ENTITY regularStyle.label "Normální">
+<!ENTITY bold.label "Tučné">
+<!ENTITY italic.label "Kurzíva">
+<!ENTITY boldItalic.label "Tučná kurzíva">
+<!ENTITY size.label "Velikost:">
+<!ENTITY size.accesskey "V">
+<!ENTITY regularSize.label "Normální">
+<!ENTITY bigger.label "Větší">
+<!ENTITY smaller.label "Menší">
+<!ENTITY color.label "Barva:">
+<!ENTITY color.accesskey "B">
+<!ENTITY displayWidth.label "Zobrazení prostých textových zpráv a článků">
+<!ENTITY plainText.label "Použít písmo:">
+<!ENTITY displayText.label "Použít následující nastavení pro zobrazení citovaných zpráv v čistém textu:">
+<!ENTITY viewingPlainText.label "Při zobrazení zpráv v čistém textu:">
+<!ENTITY fixedWidth.label "Neproporcionální písmo">
+<!ENTITY fixedWidth.accesskey "N">
+<!ENTITY variableWidth.label "Proporcionální písmo">
+<!ENTITY variableWidth.accesskey "P">
+<!ENTITY readingMessagesHeader.label "Pro příchozí zprávy">
+<!ENTITY colors.label "Colors">
+<!ENTITY overrideColors.label "When displaying messages, use the following colors:">
+<!ENTITY textColor.label "Barva textu:">
+<!ENTITY textColor.accesskey "B">
+<!ENTITY backgroundColor.label "Barva pozadí:">
+<!ENTITY backgroundColor.accesskey "B">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-) -->
+<!ENTITY convertEmoticons.label "Zobrazit emotivní značky jako ikony">
+<!ENTITY convertEmoticons.accesskey "Z">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label "Štítky lze použít pro rozřazení zpráv dle kategorií a priorit.">
+<!ENTITY addTagButton.label "Přidat">
+<!ENTITY addTagButton.accesskey "P">
+<!ENTITY editTagButton.label "Upravit">
+<!ENTITY editTagButton.accesskey "U">
+<!ENTITY removeTagButton.label "Smazat">
+<!ENTITY removeTagButton.accesskey "S">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label "Nastavení písem a znakové sady aplikace &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label "Písma a znaková sada">
+<!ENTITY fontOptions.accesskey "P">
+<!ENTITY fontOptions.label "Písma…">

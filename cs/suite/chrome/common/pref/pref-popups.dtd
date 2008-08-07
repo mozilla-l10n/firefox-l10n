@@ -1,0 +1,27 @@
+<!ENTITY pref.popups.title "Vyskakovací okna">
+
+<!ENTITY pref.popups.caption "Vyskakovací okna">
+
+<!ENTITY popupDesc.label "Určete způsob, jak se bude manipulovat s vyskakovacími okny:">
+
+<!ENTITY popupBlock.label "Blokovat nevyžádaná vyskakovací okna">
+<!ENTITY popupBlock.accesskey "B">
+
+<!ENTITY popupExceptions.label "Povolené servery…">
+<!ENTITY popupExceptions.accesskey "S">
+
+<!ENTITY whenBlock.description "Při zablokování vyskakovacího okna:">
+<!ENTITY playSound.label "Přehrát zvuk">
+<!ENTITY playSound.accesskey "z">
+
+<!ENTITY selectSound.label "Procházet…">
+<!ENTITY selectSound.accesskey "p">
+<!ENTITY previewSound.label "Ukázka">
+<!ENTITY previewSound.accesskey "U">
+<!ENTITY selectSound.title "Výběr zvuku">
+
+<!ENTITY displayIcon.label "Zobrazit ikonku ve stavovém řádku prohlížeče">
+<!ENTITY displayIcon.accesskey "D">
+
+<!ENTITY popupNote.description "Poznámka: Blokování všech vyskakovacích oken může zapříčinit to, že některé servery, jako třeba přihlašovací okna do bank či obchodů, přestanou fungovat. Pro více informací, jak povolit konkrétním serverům používat vyskakovací okna, klepněte na tlačítko Nápověda.">
+

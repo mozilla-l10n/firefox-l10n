@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Nastavení odchozího serveru (SMTP)">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Ačkoliv můžete zadat více odchozích serverů (SMTP), je toto nastavení vhodné pouze pro pokročilé uživatele. Nastavení více SMTP serverů může způsobit chyby při odesílání zpráv.">
+
+<!ENTITY smtpListAdd.label "Přidat…">
+<!ENTITY smtpListAdd.accesskey "P">
+<!ENTITY smtpListEdit.label "Upravit…">
+<!ENTITY smtpListEdit.accesskey "U">
+<!ENTITY smtpListDelete.label "Odebrat">
+<!ENTITY smtpListDelete.accesskey "O">
+<!ENTITY smtpListSetDefault.label "Nastavit jako výchozí">
+<!ENTITY smtpListSetDefault.accesskey "N">
+
+<!ENTITY serverDescription.label "Název serveru: ">
+<!ENTITY serverName.label "Adresa serveru:">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label "Uživatelské jméno:">
+<!ENTITY useSecureConnection.label "Zabezpečené spojení:">
+<!ENTITY useSecureAuthentication.label "Zabezpečená autentizace: ">

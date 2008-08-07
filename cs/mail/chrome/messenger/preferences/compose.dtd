@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label "Obecné">
+<!ENTITY itemAutoComplete.label "Adresování">
+<!ENTITY itemSpellCheck.label "Pravopis">
+<!ENTITY itemSendFormat.label "Formát odchozí  zprávy">
+
+<!ENTITY forwardReply.label "Přeposílání zpráv">
+<!ENTITY forwardMsg.label "Přeposílat zprávy:">
+<!ENTITY forwardMsg.accesskey "P">
+<!ENTITY inline.label "Vloženě">
+<!ENTITY inline.accesskey "V">
+<!ENTITY asAttachment.label "Jako přílohu">
+<!ENTITY asAttachment.accesskey "J">
+<!ENTITY addExtension.label "Přiřadit rozšíření ke jménu souboru">
+<!ENTITY addExtension.accesskey "s">
+
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "Písmo:">
+<!ENTITY font.accesskey "P">
+<!ENTITY size.label "Velikost:">
+<!ENTITY size.accesskey "V">
+<!ENTITY fontColor.label "Text:">
+<!ENTITY fontColor.accesskey "T">
+<!ENTITY bgColor.label "Pozadí:">
+<!ENTITY bgColor.accesskey "z">
+<!ENTITY restoreHTMLDefaults.label "Obnovit výchozí">
+<!ENTITY restoreHTMLDefaults.accesskey "O">
+
+<!ENTITY sendingMessagesHeader.label "Vytváření zpráv">
+<!ENTITY spellCheck.label "Při odesílání zpráv kontrolovat pravopis">
+<!ENTITY spellCheck.accesskey "r">
+<!ENTITY spellCheckInline.label "Povolit kontrolu pravopisu při psaní">
+<!ENTITY spellCheckInline1.accesskey "n">
+<!ENTITY languagePopup.label "Jazyk:">
+<!ENTITY languagePopup.accessKey "y">
+<!ENTITY downloadDictionaries.label "Stáhnout další slovníky">
+
+<!ENTITY useMIME.label "Pro zprávy, které obsahují 8-bitové znaky, používat MIME kódování 'quoted printable'">
+<!ENTITY useMIME.accesskey "k">
+<!ENTITY warnOnSendAccelKey.label "Při odeslání zprávy pomocí klávesové zkratky požadovat potvrzení">
+<!ENTITY warnOnSendAccelKey.accesskey "P">
+<!ENTITY autoSave.label "Automaticky ukládat každých">
+<!ENTITY autoSave.accesskey "A">
+<!ENTITY autoSaveEnd.label "minut">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "Zalamovat odchozí textové zprávy po">
+<!ENTITY wrapOutMsg.accesskey "Z">
+<!ENTITY char.label "znacích">
+
+<!ENTITY emailCollectionPicker.label "Automaticky přidat odchozí e-mailovou adresu do složky:">
+<!ENTITY emailCollectionPicker.accesskey "A">
+<!ENTITY addressingTitle.label "Automatické dokončování adres">
+<!ENTITY autocompleteText.label "Při vkládání adresáta hledat shodné položky v:">
+<!ENTITY addressingEnable.label "Místní kontakty">
+<!ENTITY addressingEnable.accesskey "M">
+<!ENTITY directories.label "Adresářový server:">
+<!ENTITY directories.accesskey "s">
+<!ENTITY editDirectories.label "Upravit adresáře…">
+<!ENTITY editDirectories.accesskey "U">
+<!ENTITY matchText.label "Pokud je nalezen záznam v místních kontaktech:">
+<!ENTITY skipDirectory.label "Neprohledávat adresář">
+
+<!ENTITY sendOptionsCaption.label "Předvolby HTML a odesílání">
+<!ENTITY sendOptionsDescription.label "Nastavení chování textového formátu ">
+<!ENTITY sendOptions.label "Předvolby odesílání…">
+<!ENTITY sendOptions.accesskey "o">

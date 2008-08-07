@@ -1,0 +1,213 @@
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY nothingAvailable.label "(Nic není dostupné)">
+
+<!ENTITY browserCmd.label "Nové okno">
+<!ENTITY browserCmd.accesskey "N">
+<!ENTITY tabCmd.label "Panel prohlížeče">
+<!ENTITY tabCmd.accesskey "P">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Otevřít adresu…">
+<!ENTITY openCmd.accesskey "o">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Otevřít soubor…">
+<!ENTITY openFileCmd.accesskey "s">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY recentTabs.label "Naposledy zavřené panely">
+<!ENTITY recentTabs.accesskey "p">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY editPageCmd.label "Upravit stránku">
+<!ENTITY editPageCmd.accesskey "U">
+<!ENTITY editPageCmd.commandkey "e">
+<!ENTITY editFrameCmd.label "Upravit rám">
+<!ENTITY editFrameCmd.accesskey "m">
+<!ENTITY editFrameSetCmd.label "Upravit rozvržení rámů">
+<!ENTITY editFrameSetCmd.accesskey "u">
+
+<!ENTITY uploadFile.label "Nahrát soubor…">
+<!ENTITY uploadFile.accesskey "S">
+
+<!ENTITY printSetupCmd.label "Vzhled stránky…">
+<!ENTITY printSetupCmd.accesskey "v">
+<!ENTITY printPreviewCmd.label "Náhled tisku">
+<!ENTITY printPreviewCmd.accesskey "h">
+<!ENTITY printCmd.label "Tisk…">
+<!ENTITY printCmd.accesskey "t">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY viewMenu.label "Zobrazit">
+<!ENTITY viewMenu.accesskey "z">
+
+<!ENTITY toolbarsCmd.label "Zobrazit/Skrýt">
+<!ENTITY toolbarsCmd.accesskey "o">
+<!ENTITY navbarCmd.label "Lišta navigace">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "Osobní lišta">
+<!ENTITY personalbarCmd.accesskey "o">
+<!ENTITY tabbarCmd.label "Lišta s panely">
+<!ENTITY tabbarCmd.accesskey "T">
+<!ENTITY taskbarCmd.label "Stavový řádek">
+<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY componentbarCmd.label "Lišta komponent">
+<!ENTITY componentbarCmd.accesskey "K">
+
+<!ENTITY useStyleSheetMenu.label "Styl stránky">
+<!ENTITY useStyleSheetMenu.accesskey "s">
+<!ENTITY useStyleSheetNone.label "Žádný">
+<!ENTITY useStyleSheetNone.accesskey "N">
+<!ENTITY useStyleSheetPersistentOnly.label "Základní styl">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "z">
+<!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
+<!ENTITY pageSourceCmd.accesskey "j">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Informace o stránce">
+<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Celá obrazovka">
+<!ENTITY fullScreenCmd.accesskey "l">
+<!ENTITY translateMenu.label "Přeložit stránku">
+<!ENTITY translateMenu.accesskey "T">
+<!ENTITY translate.commandKey "t">
+
+<!ENTITY closeOtherTabs.label "Zavřít ostatní panely">
+<!ENTITY closeOtherTabs.accesskey "p">
+<!ENTITY closeWindow.label "Zavřít okno">
+<!ENTITY closeWindow.accesskey "o">
+
+<!ENTITY minimizeButton.tooltip "Minimalizuje">
+<!ENTITY restoreButton.tooltip "Obnovit">
+
+<!-- I'd like all this to move to an overlay or something -->
+<!ENTITY bidiMenu.label "Možnosti obousměrného textu (BIDI)">
+<!ENTITY directionBidiMenu.label "Výchozí směr">
+<!ENTITY directionRTLBidiCmd.label "Z prava do leva">
+<!ENTITY directionLTRBidiCmd.label "Z leva do prava">
+<!ENTITY texttypeBidiMenu.label "Typ textu">
+<!ENTITY charsettexttypeBidiCmd.label "Založen na znakové sadě">
+<!ENTITY logicaltexttypeBidiCmd.label "Logický">
+<!ENTITY visualtexttypeBidiCmd.label "Vizuální">
+<!ENTITY numeralBidiMenu.label "Numerálový tvar">
+<!ENTITY regularcontextnumeralBidiCmd.label "Kontextový">
+<!ENTITY hindicontextnumeralBidiCmd.label "Hindi numerály v RTL směru dokumentu">
+<!ENTITY arabicnumeralBidiCmd.label "Arabský">
+<!ENTITY hindinumeralBidiCmd.label "Hindština">
+<!ENTITY controlstextmodeBidiMenu.label "Textový mód v ovládání">
+<!ENTITY logicalcontrolstextmodeBidiCmd.label "Logický">
+<!ENTITY visiualcontrolstextmodeBidiCmd.label "Vizuální">
+<!ENTITY containercontrolstextmodeBidiCmd.label "Stejný jako obsahující dokument">
+<!ENTITY charactersetBidiMenu.label "Znaková sada">
+<!ENTITY doccharactersetBidiCmd.label "Použít znakovou sadu definovanou stránkou">
+<!ENTITY defaultcharactersetBidiCmd.label "Vždy použít výchozí znakovou sadu, bez ohledu na znakovou sadu definovanou stránkou">
+
+<!ENTITY webContentMenu.label "Jazyky a Lokalizovaný obsah">
+<!ENTITY webContentMenu.accesskey "l">
+<!ENTITY downloadMore.label "Získat další">
+<!ENTITY downloadMore.accesskey "D">
+<!ENTITY applyTheme.label "Motivy vzhledu">
+<!ENTITY applyTheme.accesskey "M">
+<!ENTITY getNewThemesCmd.label "Získat nový motiv">
+<!ENTITY getNewThemesCmd.accesskey "Z">
+<!ENTITY searchMenu.label "Hledat">
+<!ENTITY searchMenu.accesskey "H">
+<!ENTITY findOnCmd.label "Najít na této stránce…">
+<!ENTITY findOnCmd.accesskey "j">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Najít další">
+<!ENTITY findAgainCmd.accesskey "t">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Najít předchozí">
+<!ENTITY findPrevCmd.accesskey "c">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!ENTITY searchInternetCmd.label "Hledání na webu">
+<!ENTITY searchInternetCmd.accesskey "W">
+<!ENTITY searchInternet.commandKey "f">
+
+<!ENTITY clearPrivateDataCmd.label "Vymazat důvěrná data">
+<!ENTITY clearPrivateDataCmd.accesskey "d">
+
+<!ENTITY goMenu.label "Přejít">
+<!ENTITY goMenu.accesskey "p">
+<!ENTITY goHomeCmd.label "Domů">
+<!ENTITY goHomeCmd.accesskey "d">
+
+<!ENTITY bookmarksMenu.label "Záložky">
+<!ENTITY bookmarksMenu.accesskey "Z">
+<!ENTITY addCurPageCmd.label "Přidat k záložkám">
+<!ENTITY addCurPageCmd.accesskey "P">
+<!ENTITY addCurPageAsCmd.label "Přidat k záložkám jako…">
+<!ENTITY addCurPageAsCmd.accesskey "J">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Přidat skupinu panelů k záložkám…">
+<!ENTITY addCurTabsAsCmd.accesskey "K">
+<!ENTITY manBookmarksCmd.label "Správce záložek…">
+<!ENTITY manBookmarksCmd.accesskey "Z">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Odebíret tuto stránku">
+<!ENTITY feedsMenu.accesskey "O">
+<!ENTITY emptyItem.label "(Prázdná)">
+
+<!ENTITY helpMenuCmd.label "Nápověda">
+<!ENTITY helpMenuCmd.accesskey "v">
+<!ENTITY helpContentsCmd.label "Obsah nápovědy">
+<!ENTITY softwareUpdatesCmd.label "Aktualizace vybavení">
+<!ENTITY technicalSupportCmd.label "Technická podpora">
+<!ENTITY releaseNotesCmd.label "Poznámky k verzi">
+
+<!ENTITY menuBar.tooltip "Hlavní nabídka">
+<!ENTITY personalToolbar.tooltip "Osobní lišta">
+<!ENTITY navigationToolbar.tooltip "Lišta navigace">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label "Zpět">
+<!ENTITY backButton.tooltip "Přejde na předchozí stránku">
+<!ENTITY forwardButton.label "Vpřed">
+<!ENTITY forwardButton.tooltip "Přejde na následující stránku">
+<!ENTITY reloadButton.label "Obnovit">
+<!ENTITY reloadButton.tooltip "Aktualizuje načtenou stránku">
+<!ENTITY stopButton.label "Zastavit">
+<!ENTITY stopButton.tooltip "Zruší načítání stránky">
+<!ENTITY searchButton.label "Hledat">
+<!ENTITY searchButton.tooltip "Napište hledané slovo do pole vlevo a klepněte na tlačítko Hledat">
+<!ENTITY goButton.label "Přejít">
+<!ENTITY goButton.tooltip "Napište adresu do pole vlevo a klepněte na tlačítko Přejít">
+<!ENTITY printButton.label "Tisk">
+<!ENTITY printButton.tooltip "Vytiskne tuto stránku">
+
+<!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
+
+<!ENTITY locationBar.tooltip "Vložení vyhledávací podmínky, klíčového slova nebo webové adresy">
+<!ENTITY locationBar.accesskey "d">
+<!ENTITY locationBar.title "Umístění">
+
+<!ENTITY proxyIcon.tooltip "Přetáhnutím ikony vytvoříte odkaz na tuto stránku">
+<!ENTITY internetKeyword.tooltip "Přejde na poslední navštívenou stránku">
+
+<!-- Toolbar items --> 
+<!ENTITY bookmarksButton.label "Záložky">
+<!ENTITY bookmarksButton.tooltip "Nabídka záložek">
+<!ENTITY homeButton.label "Domů">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label "Hotovo">
+
+<!ENTITY historyCmd.label "Historie">
+<!ENTITY historyCmd.accesskey "h">
+<!ENTITY history.commandKey "h">
+
+<!ENTITY popupIcon.tooltiptext "Odblokuje vyskakovací okna z tohoto serveru">
+
+<!ENTITY bidiSwitchPageDirectionItem.label "Přepnout orientaci stránky">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "o">

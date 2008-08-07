@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
+  %brandDTD;
+  %regionDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Informace o stránce</title>
+<link rel="stylesheet" href="chrome://help/locale/helpFileLayout.css"
+  type="text/css"/>
+</head>
+<body>
+
+<h1 id="viewing_page_info">Informace o stránce</h1>
+
+<p>Dialogové okno Informace o stránce se skládá z několika panelů zobrazujících různé informace o stránce načtené v okně Prohlížeče. Tato kapitola popisuje informace dostupné v tomto dialogovém okně.</p>
+
+<p>Zobrazení dialogového okna Informace o stránce provedete klepnutím na položku Informace o stránce z nabídky Zobrazit. Výběr panelu s požadovaným typem informací pak provedete klepnutím na jeho název.</p>
+
+<p>Většina informací zobrazených na panelech Obecné, Formuláře, Odkazy, Média pochází ze zdrojového (HTML) kódu stránky. Tyto informace nejvíce využijí vývojáři webových stránek a ostatní odborníci.</p>
+
+<p>Více informací o HTML značkách zobrazených v okně Informace o stránce naleznete v online dokumentu <a href="http://www.w3.org/TR/REC-html40/">Specifikace HTML 4.01</a> [Eng].</p>
+
+<p>Panel Zabezpečení zobrazuje informace o <a href="glossary.xhtml#p3p">Platform for Privacy Preferences (P3P)</a> zásadách a stavu zabezpečení webové stránky, kterou máte otevřenu.</p>
+
+<div class="contentsBox">V této kapitole:
+<ul>
+  <li><a href="#general_tab">Panel Obecné</a></li>
+  <li><a href="#forms_tab">Panel Formuláře</a></li>
+  <li><a href="#links_tab">Panel Odkazy</a></li>
+  <li><a href="#media_tab">Panel Média</a></li>
+  <li><a href="#privacy_tab">Panel Soukromí</a></li>
+  <li><a href="#security_tab">Panel Zabezpečení</a></li>
+</ul>
+</div>
+
+<h2 id="general_tab">Obecné (panel v dialogovém okně Informace o stránce)</h2>
+
+<p>Klepnete-li na položku Informace o stránce z nabídky Zobrazit, panel Obecné zobrazí obecné informace o stránce načtené v okně prohlížeče.</p>
+
+<p>V horní části panelu najdete tučným písmem jméno stránky (pokud existuje) a následující informace:</p>
+
+<ul>
+  <li><strong>URL</strong>: <a href="glossary.xhtml#url">Uniform Resource Locator (URL)</a> je standardizovaná adresa stránky&mdash;jde o stejnou adresu jaká se píše v Prohlížeči do Adresní řádky.</li>
+  <li><strong>Zobrazení</strong>: Ukazuje, zda prohlížeč používá <strong>Režim s chybami</strong> nebo <strong>Režim platných standardů</strong> pro zobrazení stránky. Režim s chybami je použit vždy, když stránka obsahuje některá nestandardní rozšíření používaná starými nebo neprofesionálně vytvořenými webovými stránkami nedodržující přísné webové standardy. Režim platných standardů se použije, pokud stránka dodržuje přísné webové standardy. &brandShortName; volí zobrazovací mód automaticky dle zdrojového kódu stránky.</li>
+  <li><strong>Zdroj</strong>: Ukazuje, zda zdrojový kód stránky byl uložen do vyrovnávací paměti, či nikoliv.</li>
+  <li><strong>Kódování</strong>: Kódování znaku použité pro zobrazení stránky.</li>
+  <li><strong>Velikost</strong>: Velikost souboru se zdrojovým kódem (informace nemusí být dostupná).</li>
+  <li><strong>Změněno</strong>: Datum, kdy byla stránka naposledy změněna (informace nemusí být dostupná).</li>
+  <li><strong>Platnost do</strong>: Datum, kdy vyprší platnost zobrazených informací.</li>
+</ul>
+
+<p>Dolní část panelu pak zobrazuje tzv. Meta informace specifikované stránkou. Tyto informace se týkají např. stručného popisu stránky, klíčových slov, informací o copyrightu apod.</p>
+
+<h2 id="forms_tab">Formuláře (panel v dialogovém okně Informace o stránce)</h2>
+
+<p>Klepnete-li na položku Informace o stránce z nabídky Zobrazit a klepnete na panel Formuláře, zobrazí se informace o všech formulářích, jenž obsahuje právě zobrazená stránka v Prohlížeči.</p>
+
+<p>V horní části panelu najdete seznam základních informací o tom jak je formulář specifikovaný zdrojovým kódem na webové stránce:</p>
+
+<ul>
+  <li><strong>Název</strong>: Název formuláře, pouze pokud existuje.</li>
+  <li><strong>Metoda</strong>: Metoda použitá pro zaslání informací z vyplněného formuláře zpět webovému serveru. <tt>GET</tt> přidává vyplněné údaje ve formátu položka=údaj za webovou adresu stránky (programu) určené pro zpracování údajů. <tt>POST</tt> posílá údaje získané z formuláře přímo určenému programu.</li>
+  <li><strong>Akce formuláře</strong>: URL stránky (programu) určené pro zpracování údajů.</li>
+</ul>
+
+<p>Pokud v horní části panelu vyberete určitý formulář, zobrazí se v dolní části podrobnější informace o formuláři a jednotlivých prvcích v něm:</p>
+
+<ul>
+  <li><strong>Označení</strong>: Označení prvku (pokud je v HTML nějak označen).</li>
+  <li><strong>Název prvku</strong>: Název prvku.</li>
+  <li><strong>Typ</strong>: Typ prvku, např. <tt>TEXT</tt> (pro textová pole), <tt>RADIO</tt> (pro přepínače), nebo <tt>HIDDEN</tt> (pro skryté prvky formuláře sloužící k předávání dat skrytých před uživatelem).</li>
+  <li><strong>Současná hodnota</strong>: Současná hodnota prvku. Jedná se zpravidla o vámi vyplněný údaj.</li>
+</ul>
+
+<h2 id="links_tab">Odkazy (panel v dialogovém okně Informace o stránce)</h2>
+
+<p>Klepnete-li na položku Informace o stránce z nabídky Zobrazit a klepnete na panel Odkazy, zobrazí se informace o všech odkazech dostupných na právě zobrazené stránce. Následující informace jsou zobrazeny pro všechny odkazy:</p>
+
+<ul>
+  <li><strong>Název</strong>: Text zobrazený prohlížečem jako odkaz.</li>
+  <li><strong>Adresa</strong>: <a href="glossary.xhtml#url">Uniform Resource Locator (URL)</a> odkazu na webovou stránku.</li>
+  <li><strong>Typ</strong>: Typ odkazu, např. Kotva (odkaz na HTML dokument).</li>
+</ul>
+
+<h2 id="media_tab">Média (panel v dialogovém okně Informace o stránce)</h2>
+
+<p>Klepnete-li na položku Informace o stránce z nabídky Zobrazit a klepnete na panel Média, zobrazí se informace o všech obrázcích a multimediálních prvcích zobrazených na webové stránce.</p>
+
+<p>Ve vrchní části okna se zobrazují základní informace o každém multimediálním prvku, včetně <a href="glossary.xhtml#url">Uniform Resource Locator (URL)</a> Adresy a Typu.</p>
+
+<p>Pokud v horní části panelu vyberete určitý multimediální prvek, zobrazí se v dolní části následující podrobnější informace, jako je třeba Dlouhý popis, Velikost nebo Rozměry.</p>
+
+<p>V dolní části dialogového okna se zobrazí vybraný multimediální prvek.
+Pro zobrazení rozsáhlých obrázků je nutné klepnout na dolní pravý roh dialogového okna a roztáhnout jej.</p>
+
+<p>Uložení multimediálního prvku do samostatného souboru:</p>
+
+<ul>
+  <li><strong>Uložit jako</strong>: Zvolte multimediální prvek pro uložení na disk, klepněte na tlačítko Uložit jako a přejděte na místo na disku, kam chcete multimediální prvek uložit.</li>
+</ul>
+
+<h2 id="privacy_tab">Soukromí (panel v dialogovém okně Informace o stránce)</h2>                              
+                                                                                
+<p>Klepnete-li na položku Informace o stránce z nabídky Zobrazit a klepnete 
+na panel Soukromí, zobrazí se informace o všech speciálních prvcích webové 
+stránky.</p>
+                                                                                
+<ul>                                                                            
+  <li><strong>Komponenty stránky</strong>:  Níže v okně jsou různé kategorie. 
+Zobrazení položek v kategorii provedete klepnutím na její jméno: 
+    <ul>                                                                        
+      <li><strong>Odkazy</strong>: Zobrazí všechny odkazy.</li>                  
+      <li><strong>Java Aplety</strong>: Seznam Java apletů (jestliže nějaké jsou).</li>  
+      <li><strong>Obrázkové mapy</strong>: Zobrazí všechny obrázkové mapy.</li>        
+      <li><strong>Formuláře</strong>: Zobrazí jména skriptů používaných ke sběru zadaných údajů.</li>                                     
+      <li><strong>Rámce</strong>: Zobrazí rámce stránky.</li>
+      <li><strong>Obrázky</strong>: Zobrazí obrázky, použité na stránce.</li>
+      <li><strong>Externí dokumenty</strong>: Obsahuje seznam externích dokumentů 
+        načtených pro zobrazení stránky (jako třeba css soubory nebo obrázky).</li>
+      <li><strong>Obecné objekty</strong>: Zobrazí seznam obecných             
+        objektů.</li>                                                           
+      <li><strong>Skripty</strong>: Seznam všech skriptů použitých na stránce.</li>  
+    </ul>                                                                       
+  </li>                                                                         
+  <li><strong>Zásady</strong>: Toto tlačítko zobrazí Zásady soukromí pro stránku, která je aktuálně zobrazena.</li>                                
+  <li><strong>Souhrn</strong>: Zvolte toto tlačítko, pokud chcete zobrazit souhrnné informace o soukromí (Pravidla soukromí) pro stránku, která je aktuálně zobrazena.</li>                                                      
+  <li><strong>Volby</strong>: Toto tlačítko zobrazí stránku ze vzdáleného serveru, která umožní uživateli upravit své osobní údaje uložené na vzdáleném serveru.</li>
+</ul>                                                                           
+                                                                                
+<p><strong>Poznámka</strong>: Webové stránky zveřejňující Zásady soukromí nejsou příliš běžné, proto se vám při zkoumání webových stránek panel s těmito informacemi obvykle nezobrazí.</p>
+
+<h2 id="security_tab">Zabezpečení (panel v dialogovém okně Informace o stránce)</h2>
+
+<p>Klepnete-li na položku Informace o stránce z nabídky Zobrazit a klepnete na panel Média, zobrazí se informace o <a href="glossary.xhtml#authentication">Autorizace</a> a <a href="glossary.xhtml#encryption">Šifrování</a> pro právě zobrazenou stránku. V horní části panelu najdete informace o ověření identity webové stránky a dolní část panelu zobrazuje informace o stupni šifrování spojení.</p>
+
+<p>Rychlé otevření panelu Zabezpečení provedete klepnutím na ikonku zámku v pravém dolním rohu každého okna Prohlížeče.</p>
+
+<p>Ve vrchní části dialogového okna se může zobrazit některé z následujících zpráv:</p>
+
+<ul>
+  <li><strong>Identita webové stránky nebyla ověřena</strong>: Webová stránka načtená v okně Prohlížeče se neprokázala certifikátem o ověření pravosti. Proto Správce certifikátu nemohl ověřit totožnost. Je tedy možné, i když velmi nepravděpodobné, že webová stránka není tou, za kterou se vydává.</li>
+  <li><strong>Identita webové stránky byla ověřena</strong>: Webová stránka načtená v okně prohlížeče se prokázala certifikátem o ověření pravosti vydaným certifikační autoritou (CA) označenou jako důvěryhodná. Je tedy (téměř) jisté, že webová stránka je tou, za kterou se vydává.</li>
+</ul>
+
+<p>Ve spodní části dialogového okna se může zobrazit některé z následujících zpráv:</p>
+
+<ul>
+  <li><strong>Spojení nezašifrováno</strong>: Informace zasílané z vašeho počítače webové stránce (a naopak) nejsou šifrovány. Je tedy možné, i když velmi nepravděpodobné, že někteří lidé by mohli tyto informace získat.</li>
+  <li><strong>Spojení zašifrováno</strong>: Síla šifry závisí na délce klíče požité pro zašifrování, a jeho síla je měřena v bitech. To znamená čím delší klíč tím silnější šifrování&mdash;a tím také těžší pro neautorizované osoby dešifrovat zašifrované informace.
+
+  <p>Panel Zabezpečení popisuje tři stupně zašifrování:</p>
+
+  <ul>
+    <li><strong>Bezpečnost vysokého stupně</strong>: Silné šifrování používá minimálně 128 bitové klíče.</li>
+    <li><strong>Bezpečnost středního stupně</strong>: Střední šifrování používá 56 nebo 64 bitové klíče.</li>
+    <li><strong>Bezpečnost nízkého stupně</strong>: Slabé šifrování používá pouze 40 bitové klíče.</li>
+  </ul>
+
+  <p>Mnoho webových stránek používá vysoký stupeň šifrování. Jestliže jste si zobrazili webové stránky jenž používají slabší stupeň šifrování, je potom možné, i když velmi nepravděpodobné, že informace zasílané z vašeho počítače webové stránce (a naopak) by mohli někteří lidé získat.</p>
+
+  </li>
+</ul>
+
+<p>Absence šifrování nebo absence silného šifrování vás nemusí znepokojovat, jenom jestliže se vyhnete zasílání důvěrných informací jako je např. číslo kreditní karty.</p>
+
+<p>Rychlé otevření panelu Zabezpečení provedete klepnutím na ikonku zámku v pravém dolním rohu prohlížeče. Více informací naleznete v kapitole <a href="using_certs_help.xhtml#checking_security_for_a_web_page">Kontrola zabezpečení webové stránky</a>.</p>
+
+<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+
+</body>
+</html>

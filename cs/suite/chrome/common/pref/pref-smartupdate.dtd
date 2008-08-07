@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+<!ENTITY pref.smartUpdate.title "Instalace software">
+<!ENTITY smartTitle.label "Správce instalací a aktualizací">
+<!ENTITY enableSU.label "Povolit instalaci rozšíření a automatickou aktualizaci programového vybavení. (Před aktualizací budete upozorněni.)">
+<!ENTITY enableSU.accesskey "P">
+<!ENTITY allowedSites.label "Povolené servery…">
+<!ENTITY allowedSites.accesskey "S">
+
+<!ENTITY verifyUpdates.caption "Aktualizace">
+<!ENTITY autoUpdates.label "Automaticky kontrolovat aktualizace pro:">
+<!ENTITY appUpdates.label "Aplikace &brandShortName;">
+<!ENTITY appUpdates.accesskey "A">
+<!ENTITY daily.label "denně">
+<!ENTITY appDaily.accesskey "d">
+<!ENTITY weekly.label "týdně">
+<!ENTITY appWeekly.accesskey "t"> 
+<!ENTITY extensionsUpdates.label "Nainstalované doplňky">
+<!ENTITY extensionsUpdates.accesskey "s">
+<!ENTITY extensionsDaily.accesskey "e">
+<!ENTITY extensionsWeekly.accesskey "n">
+<!ENTITY addonManagerButton.label "Správce doplňků">
+<!ENTITY addonManagerButton.accesskey "S">

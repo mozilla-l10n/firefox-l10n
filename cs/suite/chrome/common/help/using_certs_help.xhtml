@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  <!ENTITY % regionDTD SYSTEM "chrome://global-region/locale/region.dtd" >
+  %brandDTD;
+  %regionDTD;
+]>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Používání certifikátů</title>
+<link rel="stylesheet" href="chrome://help/locale/helpFileLayout.css"
+  type="text/css"/>
+</head>
+<body>
+
+<h1 id="using_certificates">Používání certifikátů</h1>
+
+<p>Certifikát je digitální ekvivalent průkazu totožnosti. Tak jako máte několik průkazů pro různé účely, jako je občanský průkaz, řidičský průkaz nebo kreditní karta, můžete mít několik různých certifikátů, které vás identifikují pro různé účely.</p>
+
+<p>Tato kapitola popisuje jak provádět úkony spojené s certifikáty.</p>
+
+<div class="contentsBox">V této kapitole:
+<ul>
+  <li><a href="#getting_your_own_certificate">Získání vašeho vlastního certifikátu</a></li>
+  <li><a href="#checking_security_for_a_web_page">Kontrola zabezpečení webové stránky</a></li>
+  <li><a href="#managing_certificates">Správa certifikátů</a></li>
+  <li><a href="#managing_smart_cards_and_other_security_devices">Správa Smart karet a dalších bezpečnostních zařízení</a></li>
+  <li><a href="#managing_ssl_warnings_and_settings">Správa SSL upozorňování a nastavení</a></li>
+  <li><a href="#controlling_validation">Ověřování platnosti</a></li>
+</ul>
+</div>
+
+<h1 id="getting_your_own_certificate">Získání vašeho vlastního certifikátu</h1>
+
+<p>Podobně jako kreditní karta nebo řidičský průkaz, certifikát je způsob identifikace, kterým
+se můžete prokázat na Internetu a ostatních sítích. Stejně jako ostatní běžně používané způsoby
+prokázání totožnosti, i certifikáty jsou typicky vydávány organizací s uznanou autoritou k vydávání
+takových průkazů. Organizace, která vydává certifikáty se nazývá <strong>certifikační autorita 
+(CA)</strong>.</p>
+
+<p>Certifikát, který by vás identifikoval, můžete získat od veřejných certifikačních autorit,
+od systémového administrátora nebo od zvláštní certifikační autority ve vaší organizaci, nebo
+na webových stránkách nabízejících zvláštní služby, které vyžadují důvěryhodnější způsob prokázání
+totožnosti než je zadání uživatelského jména a hesla.</p>
+
+<p>Tak jako požadavky pro získání řidičského průkazu se liší podle typu vozidla, které chcete
+řídit, tak požadavky pro získání certifikátu závisí na tom, k čemu ho chcete používat. V některých
+případech může být získání certifikátu snadné - např. návštěva webové stránky, zadání některých
+osobních informací, a automatické stažení certifikátu do vašeho prohlížeče. V jiných případech
+může být získání certifikátu složitější.</p>
+
+<p>Certifikát můžete dnes získat návštěvou URL certifikační autority a postupováním podle
+zobrazovaných instrukcí. Seznam certifikačních autorit viz online 
+dokument <a href="https://certs.netscape.com/">Klientské certifikáty</a> [Eng.].</p>
+
+<p>Jakmile získáte certifikát, je automaticky uložen v <a href="glossary.xhtml#security_device">Bezpečnostním zařízení</a>. 
+Váš Prohlížeč obsahuje vestavěné softwarové bezpečnostní zařízení. Bezpečnostní zařízení
+může být také hardwarové, jako je např. karta Smart card.</p>
+
+<p>Jako řidičský průkaz nebo kreditní karta, certifikát je významný způsob identifikace,
+který může být zneužit, pokud se dostane do nesprávných rukou. Jakmile získáte certifikát,
+který vás identifikuje, měli byste ho zabezpečit dvěma způsoby: zálohováním a nastavením
+vašeho <a href="glossary.xhtml#master_password">hlavního hesla</a>.</p>
+
+<p>Když poprvé získáte certifikát, můžete být dotázáni na zálohování. Pokud ještě nemáte
+vytvořeno hlavní heslo, budete požádáni o vytvoření.</p>
+
+<p>Pro detailní informace o zálohování certifikátů a nastavení vašeho hlavního hesla, 
+viz <a href="certs_help.xhtml#your_certificates">Osobní certifikáty</a>.</p>
+
+<p>[<a href="#using_certificates">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="checking_security_for_a_web_page">Kontrola zabezpečení webové stránky</h1>
+
+<p>Když prohlížíte jakoukoli webovou stránku, ikonka zámku v dolním 
+pravém rohu okna vás informuje, zda byl veškerý obsah stránky zabezpečen 
+<a href="glossary.xhtml#encryption">šifrováním</a> během přenosu do
+vašeho počítače:</p>
+
+<table summary="lock icons">
+  <tr>
+    <td><img alt="Ikona Uzavřený zámek"
+      src="chrome://communicator/skin/icons/lock-secure.gif"/></td>
+    <td>Uzavřený zámek znamená, že stránka byla zabezpečena šifrováním během přenosu.</td>
+  </tr>
+  <tr>
+    <td><img alt="Ikona Otevřený zámek"
+      src="chrome://communicator/skin/icons/lock-insecure.gif"/></td>
+    <td>Otevřený zámek znamená, že stránka nebyla zabezpečena šifrováním během přenosu.</td>
+  </tr>
+  <tr>
+    <td><img alt="Ikona Zlomený zámek"
+      src="chrome://communicator/skin/icons/lock-broken.gif"/></td>
+    <td>Zlomený zámek znamená, že některé nebo všechny části uvnitř stránky nebyly zabezpečeny šifrováním během přenosu, přestože HTML stránka byla zašifrována.</td>
+  </tr>
+</table>
+
+<p>Pro více podrobností o stavu zabezpečení přijaté stránky, klepněte na ikonu zámku 
+(nebo otevřete nabídku Zobrazit, klepněte na položku Informace o stránce, a klepněte na záložku
+Zabezpečení).</p>
+
+<p>Záložka Zabezpečení v dialogu Informace o stránce poskytuje dva druhy informací:</p>
+
+<ul>
+  <li>Horní polovina popisuje, zda byla ověřena identita webového serveru, který stránku poskytl. 
+  (Pro informace o ověřování certifikátů viz <a href="#controlling_validation">Ověřování platnosti</a>.)</li>
+  <li>Spodní polovina popisuje, zda byl obsah stránky, kterou prohlížíte, zabezpečen šifrováním
+  během přenosu po síti.</li>
+</ul>
+
+<p><strong>Důležité</strong>: Ikona zámku popisuje pouze stav zabezpečení stránky během přenosu na váš
+počítač. Abyste byli upozorněni před odesláním nebo přijetím nezašifrovaných informací, zvolte
+příslušné nastavení výstrah SSL. Více informací viz <a href="ssl_help.xhtml">Nastavení SSL</a>.</p>
+
+<p>[<a href="#using_certificates">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="managing_certificates">Správa certifikátů</h1>
+
+<p>Ke správě dostupných certifikátů můžete použít Správce certifikátů. Certifikáty
+mohou být uloženy na pevném disku vašeho počítače nebo na 
+<a href="glossary.xhtml#smart_card">Chytrých kartách</a> nebo na ostatních bezpečnostních
+zařízeních připojených k vašemu počítači.</p>
+
+<p>Otevření Správce Certifikátů:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Certifikáty. (Pokud nevidíte žádnou
+  podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
+  <li>V sekci Správa certifikátů klepněte na tlačítko Správa certifikátů. Zobrazí se Správce
+  certifikátů.</li>
+</ol>
+
+<div class="contentsBox">V této sekci:
+<ul>
+  <li><a href="#managing_certificates_that_identify_you">Správa osobních certifikátů</a></li>
+  <li><a href="#managing_certificates_that_identify_others">Správa ostatních certifikátů</a></li>
+  <li><a href="#managing_certificates_that_identify_websites">Správa certifikátů webových serverů</a></li>
+  <li><a href="#managing_certificates_that_identify_certificate_authorities">Správa certifikátů certifikačních autorit</a></li>
+</ul>
+</div>
+
+<h2 id="managing_certificates_that_identify_you">Správa osobních certifikátů</h2>
+
+<p>Když poprvé otevřete Správce certifikátů, povšimnete si, že má ve svém okně několik panelů.
+První panel je nazván Osobní certifikáty, a zobrazuje certifikáty, kterými Prohlížeč může
+prokázat vaši identitu. Vaše certifikáty jsou řazeny podle jmen organizací, které je vydaly.</p>
+
+<p>Pokud chcete provést činnost s jedním nebo více certifikáty, klepněte na záznam certifikátu
+(pokud chcete vybrat více než jeden certifikát, držte klávesu <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom klepněte na tlačítko
+Zobrazit, Zálohovat nebo Smazat. Každé z těchto tlačítek zobrazuje další dialogové okno, které umožňuje
+potvrdit akci. Klepnutím na tlačítko Nápověda získáte více informací o používání příslušné
+záložky.</p>
+
+<p>Následující tlačítka v panelu Osobní certifikáty nevyžadují mít vybrané certifikáty. Můžete je
+použít k provedení těchto činností:</p>
+
+<ul>
+  <li><strong>Importovat</strong>: Klepněte na toto tlačítko, pokud chcete importovat certifikát, který byl
+  dříve zálohován nebo je přenesen z jednoho počítače do jiného.</li>
+  <li><strong>Zálohovat vše</strong>: Klepněte na toto tlačítko, pokud chcete zálohovat všechny vaše
+  certifikáty uložené v <a href="glossary.xhtml#software_security_device">Softwarovém bezpečnostním
+    zařízení</a>.</li>
+</ul>
+
+<p><strong>Důležité</strong>: Certifikáty na Chytrých kartách nemohou být zálohovány. Pokud vyberete některé vaše
+certifikáty a klepnete na Zálohovat nebo Zálohovat vše, výsledný záložní soubor nebude obsahovat
+žádný certifikát uložený na chytrých kartách nebo na jiném externím bezpečnostním zařízení. Zálohovat můžete pouze certifikáty uložené ve vestavěném Softwarovém bezpečnostním zařízení.</p>
+
+<p>Pro více podrobností o těchto úkolech viz
+  <a href="certs_help.xhtml#your_certificates">Osobní certifikáty</a>.</p>
+
+<p>[<a href="#managing_certificates">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="managing_certificates_that_identify_others">Správa ostatních certifikátů</h2>
+
+<p>Když vytváříte poštovní zprávu, můžete připojit váš digitální podpis.
+<a href="glossary.xhtml#digital_signature">Digitální podpis</a> umožňuje příjemcům zprávy
+ověřit, že zpráva skutečně pochází od vás a nebyla zfalšována poté, co jste ji odeslali.</p>
+
+<p>Pokaždé, když odešlete digitálně podepsanou zprávu, váš šifrovací certifikát je automaticky
+připojen ke zprávě. Tento certifikát umožňuje příjemcům zprávy posílat vám šifrované zprávy.</p>
+
+<p>Jedním z nejsnazších způsobů, jak od někoho získat šifrovací certifikát, je pro danou osobu
+poslat vám digitálně podepsanou zprávu. Správce certifikátů automaticky ukládá certifikáty ostatních
+lidí pokaždé, když jsou přijaty tímto způsobem.</p>
+
+<p>Všechny certifikáty přístupné Správci certifikátů, které identifikují ostatní lidi, zobrazíte
+klepnutím na panel Ostatní certifikáty v okně Správce certifikátů. Šifrovanou zprávu můžete zaslat
+každému, u koho máte zobrazen platný certifikát. Certifikáty jsou zobrazeny podle jména organizace,
+která je vydala.</p>
+
+<p>Pokud chcete provést činnost s jedním nebo více certifikáty, klepněte na záznam certifikátu
+(pokud chcete vybrat více než jeden certifikát, držte klávesu <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom klepněte na tlačítko
+Zobrazit nebo Smazat. Každé z těchto tlačítek zobrazuje další dialogové okno, které umožňuje
+potvrdit akci. Klepnutím na tlačítko Nápověda získáte více informací o používání příslušné
+záložky.</p>
+
+<p>Pro více podrobností viz <a href="certs_help.xhtml#other_peoples_certificates">Ostatní certifikáty</a>.</p>
+
+<p>[<a href="#managing_certificates">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="managing_certificates_that_identify_websites">Správa certifikátů webových serverů</h2>
+
+<p>Některé webové servery používají certifikáty k identifikaci sebe samých. Taková identifikace je
+vyžadována předtím, než je možné přenést šifrované informace mezi webovým serverem a vaším
+počítačem (a naopak), takže nikdo nemůže přečíst data během přenosu.</p>
+
+<p>Pokud URL webové stránky začíná <tt>https://</tt>, webový server má certifikát. Pokud navštívíte
+takový webový server a jeho certifikát byl vydán certifikační autoritou, kterou Správce certifikátů
+nezná nebo nepovažuje za důvěryhodnou, budete dotázáni, zda chcete akceptovat tento certifikát.
+Pokud certifikát webového serveru akceptujete, Správce certifikátů jej přidá k seznamu certifikátů 
+webových serverů.</p>
+
+<p>Všechny certifikáty webových serverů, které jsou přístupné vašemu Prohlížeči, zobrazíte
+klepnutím na panel Webové servery v okně Správce certifikátů.</p>
+
+<p>Pokud chcete provést činnost s jedním nebo více certifikáty, klepněte na záznam certifikátu
+(pokud chcete vybrat více než jeden certifikát, držte klávesu <kbd>Ctrl</kbd>), a potom klepněte na tlačítko
+Zobrazit, Upravit nebo Smazat. Každé z těchto tlačítek zobrazuje další okno, které umožňuje potvrdit
+příslušnou akci.</p>
+
+<p>Klepnutím na tlačítko Upravit můžete specifikovat, zda má váš prohlížeč v budoucnu důvěřovat 
+certifikátům vybraných serverů.</p>
+
+<p>Pro více podrobností viz <a href="certs_help.xhtml#web_site_certificates">Certifikáty webových serverů</a>.</p>
+
+<p>[<a href="#managing_certificates">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="managing_certificates_that_identify_certificate_authorities">Správa certifikátů certifikačních autorit</h2>
+
+<p>Podobně jako ostatní běžně používané způsoby prokázání totožnosti, i certifikáty jsou vydávány 
+organizací s uznanou autoritou k vydávání těchto identifikací. Organizace, která vydává certifikáty
+se nazývá <a href="glossary.xhtml#certificate_authority">certifikační autorita (CA)</a>. Certifikát,
+který identifikuje certifikační autoritu se nazývá CA certifikát.</p>
+
+<p>Správce certifikátů má obvykle mnoho CA certifikátů v souboru. Tyto CA certifikáty umožňují
+Správci certifikátů rozpoznávat a pracovat s certifikáty vydanými příslušnými CA. Nicméně přítomnost
+CA certifikátu v tomto seznamu <em>není</em> zárukou, že vydaný certifikát je důvěryhodný. Vy nebo váš
+systémový administrátor musí učinit rozhodnutí, kterým druhům certifikátů důvěřovat v závislosti na
+vašich bezpečnostních potřebách.</p>
+
+<p>Všechny CA certifikáty, které jsou přístupné vašemu Prohlížeči, zobrazíte klepnutím
+na panel Certifikační Autority v dialogovém okně Správce certifikátů.</p>
+
+<p>Pokud chcete provést činnost s jedním nebo více CA certifikáty, klepněte na záznam certifikátu
+(pokud chcete vybrat více než jeden certifikát, držte klávesu <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>), a potom klepněte na tlačítko
+Zobrazit, Upravit nebo Smazat. Každé z těchto tlačítek zobrazuje další dialogové okno, které umožňuje potvrdit
+příslušnou akci. Klepnutím na tlačítko Nápověda získáte více informací o používání příslušného panelu.</p>
+
+<p>Klepnutím na tlačítko Upravit můžete zobrazit a upravit nastavení důvěryhodnosti pro každý
+certifikát. Nastavení důvěryhodnosti pro CA certifikát vám umožňuje specifikovat, kterým druhům
+certifikátů vydaných touto CA jste ochotni důvěřovat.</p>
+
+<p>Pro podrobnější informace viz <a href="certs_help.xhtml#authorities">Autority</a>.</p>
+
+<p>[<a href="#managing_certificates">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="managing_smart_cards_and_other_security_devices">Správa Smart karet a dalších bezpečnostních zařízení</h1>
+
+<p>Smart card je malé zařízení, typicky velikosti kreditní karty, které obsahuje mikroprocesor a je
+schopno uložit informace o vaší identitě (jako je váš <a href="glossary.xhtml#private_key">soukromý
+  klíč</a> a <a href="glossary.xhtml#certificate">certifikát</a>) a provádět šifrovací operace.</p>
+
+<p>K použití smart card typicky potřebujete mít čtečku smart karet (hardwarové zařízení) připojenou
+k vašemu počítači, a také instalovaný software na vašem počítači, který čtečku ovládá.</p>
+
+<p>Smart cards jsou pouze jedním druhem bezpečnostních zařízení. Bezpečnostní zařízení (někdy
+nazývané jako token) je hardwarové nebo softwarové zařízení, které poskytuje šifrovací služby a
+uchovává informace o vaší identitě. Ke správě smart karet a ostatních bezpečnostních zařízení
+použijte Správce zařízení.</p>
+
+<div class="contentsBox">V této sekci:
+<ul>
+  <li><a href="#about_security_devices_and_modules">O bezpečnostních zařízeních a modulech</a></li>
+  <li><a href="#using_security_devices">Používání bezpečnostních zařízení</a></li>
+  <li><a href="#using_security_modules">Používání bezpečnostních modulů</a></li>
+  <li><a href="#enable_fips_mode">Povolení FIPS režimu</a></li>
+</ul>
+</div>
+
+<h2 id="about_security_devices_and_modules">O bezpečnostních zařízeních a modulech</h2>
+
+<p>Správce zařízení zobrazuje seznam dostupných bezpečnostních zařízení. Správce zařízení můžete
+použít ke správě jakýchkoliv bezpečnostních zařízení, včetně smart karet, které podporují
+Public Key Cryptography Standard (PKCS) #11.</p>
+
+<p><a href="glossary.xhtml#pkcs_11_module">PKCS #11 modul</a> (někdy nazývaný bezpečnostní modul)
+ovládá jedno nebo více bezpečnostních zařízení podobným způsobem, jako softwarový ovladač řídí
+externí zařízení jako je tiskárna nebo modem. Pokud instalujete smart card, musíte nainstalovat PKCS
+#11 modul pro smart card na váš počítač, a také připojit čtečku smart karet.</p>
+
+<p>Ve výchozím stavu Správce zařízení ovládá dva interní PKCS #11 moduly, které obsahují tři
+bezpečnostní zařízení:</p>
+
+<ul>
+  <li><strong>NSS Internal PKCS #11 Module</strong>: Řídí dvě bezpečnostní zařízení:
+    <ul>
+      <li><strong>Obecné šifrovací služby</strong>: Speciální bezpečnostní zařízení, které provádí všechny
+    šifrovací operace vyžadované NSS Internal PKCS #11 Modulem.</li>
+      <li><strong>Softwarové bezpečnostní zařízení</strong>: Uchovává vaše certifikáty a klíče, které nejsou
+    uloženy v externích bezpečnostních zařízeních, včetně CA certifikátů, které můžete mít
+    instalovány jako doplnění certifikátů dodávaných s Prohlížečem.</li>
+    </ul>
+  </li>
+  <li><strong>Zabudovaný Roots Modul</strong>: Řídí speciální bezpečnostní zařízení nazývané Builtin Object
+  Token. Toto bezpečnostní zařízení uchovává <a href="glossary.xhtml#ca_certificate">CA certifikáty</a>, které byly instalovány s Prohlížečem.</li>
+</ul>
+
+<p>[<a href="#managing_smart_cards_and_other_security_devices">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="using_security_devices">Používání bezpečnostních zařízení</h2>
+
+<p>Správce zařízení vám umožňuje provádět úkony s bezpečnostními zařízeními. Dialogové okno Správce zařízení
+získáte tak, že:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Certifikáty. (Pokud nevidíte žádnou
+  podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
+  <li>V sekci Správa bezpečnostních zařízení, klepněte na tlačítko Správa bezpečnostních zařízení.</li>
+</ol>
+
+<p>Správce zařízení zobrazuje každý dostupný PKCS #11 modul, a bezpečnostní zařízení spravovaná
+každým modulem pod jeho jménem.</p>
+
+<p>Pokud vyberete bezpečnostní zařízení, informace o něm se zobrazí ve střední části okna Správce
+zařízení, a některé z tlačítek na pravé straně okna se stanou přístupnými. Například, když vyberete
+Softwarové bezpečnostní zařízení, můžete provést tyto činnosti:</p>
+
+<ul>
+  <li>Klepnout na tlačítka Přihlásit nebo Odhlásit k přihlášení nebo odhlášení k Softwarovému
+  zařízení. Když se přihlašujete, budete dotázáni na zadání hlavního hesla daného zařízení. Předtím,
+  než je váš Prohlížeč schopen použít zařízení k poskytnutí šifrovacích služeb, se musíte k danému
+  zařízení přihlásit.</li>
+  <li>Hlavní heslo pro zařízení změníte klepnutím na tlačítko Změnit heslo.</li>
+</ul>
+
+<p>Tyto akce můžete provádět s většinou bezpečnostních zařízení. Nicméně, nemůžete je provádět se
+zařízeními Builtin Object Token nebo Obecné šifrovací služby, neboť to jsou speciální zařízení,
+které musí být vždy přístupné.</p>
+
+<p>Pro více podrobností viz <a href="certs_help.xhtml#device_manager">Správce zařízení</a>.</p>
+
+<p>[<a href="#managing_smart_cards_and_other_security_devices">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="using_security_modules">Používání bezpečnostních modulů</h2>
+
+<p>Pokud chcete používat smart card nebo jiná externí bezpečnostní zařízení, musíte nejdříve
+instalovat software modulu na váš počítač, a pokud je to nutné, připojit příslušný hardware.
+Postupujte podle instrukcí dodaných s hardwarem.</p>
+
+<p>Potom, co je nový modul instalován na vašem počítači, jeho načtení provedete následovně:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Certifikáty. (Pokud nevidíte žádnou
+  podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
+  <li>V kategorii Správa bezpečnostních zařízení, klepněte na tlačítko Správa bezpečnostních zařízení.</li>
+  <li>Klepněte na tlačítko Přidat.</li>
+  <li>V dialogovém okně Přidat PKCS #11 zařízení, klepněte na tlačítko Procházet, vyhledejte soubor
+  modulu, a klepněte na tlačítko Otevřít.</li>
+  <li>Vyplňte editační pole Jméno modulu a klepněte na tlačítko OK.</li>
+</ol>
+
+<p>Nový modul se zobrazí v seznamu modulů se jménem, které jste mu přiřadili.</p>
+
+<p>PKCS #11 modul odstraníte, pokud vyberete jeho jméno a klepnete na tlačítko Smazat.</p>
+
+<p>[<a href="#managing_smart_cards_and_other_security_devices">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="enable_fips_mode">Povolení FIPS režimu</h2>
+
+<p>FIPS PUBS (Federal Information Processing Standards Publications) 140-1 je americký vládní
+standard pro implementaci šifrovacích modulů - to je hardware nebo software, který šifruje a
+dešifruje data nebo provádí ostatní šifrovací operace (jako je vytváření nebo ověřování digitálních
+podpisů). Mnoho produktů prodávaných vládě Spojených států musí splňovat jeden nebo více FIPS
+standardů.</p>
+
+<p>K povolení FIPS režimu ve vašem Prohlížeči použijte Správce zařízení:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Certifikáty. (Pokud nevidíte žádnou
+  podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
+  <li>V sekci Správa bezpečnostních zařízení, klepněte na tlačítko Správa bezpečnostních zařízení.</li>
+  <li>Klepněte na tlačítko Povolit FIPS. Když je režim FIPS povolen, jméno NSS Internal PKCS #11
+  Module se změní na NSS Internal FIPS PKCS #11 Module a tlačítko Povolit FIPS se změní na Zakázat
+  FIPS.</li>
+</ol>
+
+<p>Režim FIPS zakážete klepnutím na tlačítko Zakázat FIPS.</p>
+
+<p>[<a href="#managing_smart_cards_and_other_security_devices">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="managing_ssl_warnings_and_settings">Správa SSL upozorňování a nastavení</h1>
+
+<p>Protokol SSL (Secure Sockets Layer) umožňuje vašemu počítači výměnu informací s ostatními
+počítači na Internetu v zašifrované podobě, tzn. že informace je během přenosu zakódovaná tak, že
+nikomu nedává smysl. SSL je také používán pro identifikaci počítačů na Internetu pomocí 
+<a href="glossary.xhtml#certificate">certifikátů</a>.</p>
+
+<p>Protokol TLS (Transport Layer Security) je nový standard založený na SSL. Ve výchozím nastavení
+Prohlížeč používá SSL i TLS. Tento přístup funguje pro většinu lidí, protože zaručuje, že Prohlížeč
+bude pracovat s prakticky veškerým existujícím softwarem na Internetu, který podporuje jakoukoliv
+verzi SSL nebo TLS.</p>
+
+<p>Nicméně, v některých případech systémoví administrátoři nebo jiné dobře informované osoby si
+mohou přát přizpůsobit SSL nastavení podle zvláštních bezpečnostních potřeb nebo kvůli chybám v
+některých starších softwarových produktech.</p>
+
+<p>Neměli byste přizpůsobovat nastavení SSL vašeho Prohlížeče, pokud nevíte co děláte, nebo vám
+nepomáhá někdo, kdo to ví. Pokud z různých důvodů potřebujete změnit nastavení, postupujte
+následovně:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii SSL. (Pokud nevidíte žádnou
+  podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
+</ol>
+
+<p>Pro více podrobností viz <a href="ssl_help.xhtml">Nastavení SSL</a>.</p>
+
+<p>[<a href="#using_certificates">Návrat na začátek kapitoly</a>]</p>
+
+<h1 id="controlling_validation">Ověřování platnosti</h1>
+
+<p>Jak bylo popsáno v oddílu <a href="#getting_your_own_certificate">Získání vašeho vlastního certifikátu</a>, 
+certifikát je způsob identifikace, podobně jako řidičský průkaz, kterým se můžete prokázat na 
+Internetu a ostatních sítích. Nicméně, tak jako řidičský průkaz, i certifikát může propadnout nebo
+se stát neplatným z jiného důvodu. Proto váš Prohlížeč potřebuje nějakým způsobem potvrdit platnost 
+jakéhokoliv předloženého certifikátu předtím, než jej použije jako důvěryhodný pro identifikační
+účely.</p>
+
+<p>Tato kapitola popisuje, jak Správce certifikátů ověřuje platnost certifikátů a jak kontrolovat
+tento proces. K pochopení tohoto procesu byste měli být obeznámeni s 
+<a href="glossary.xhtml#public-key_cryptography">šifrováním pomocí veřejného klíče</a>. Pokud nejste
+obeznámeni s používáním certifikátů, jakékoliv změny v nastavení ověřování certifikátů v Prohlížeči
+konzultujte s vaším systémovým administrátorem.</p>
+
+<div class="contentsBox">V této sekci:
+<ul>
+  <li><a href="#how_validation_works">Jak ověřování platnosti funguje</a></li>
+  <li><a href="#managing_crls">Správa CRL</a></li>
+  <li><a href="#configuring_ocsp">Nastavení OCSP</a></li>
+  <li><a href="validation_help.xhtml">Nastavení ověřování platnosti</a></li>
+</ul>
+</div>
+
+<h2 id="how_validation_works">Jak ověřování platnosti funguje</h2>
+
+<p>Kdykoliv použijete nebo prohlížíte certifikát uložený ve Správci certifikátů, provede se několik
+kroků k ověření certifikátu. Jako minimum je provedeno ověření, že digitální podpis certifikační
+autority v tomto certifikátu byl vytvořen certifikační autoritou, jejíž vlastní certifikát je (1)
+ve Správci certifikátů přítomen v seznamu dostupných certifikátů certifikačních autorit a (2) je 
+označen jako důvěryhodný pro vydávání toho druhu certifikátů, který je ověřován.</p>
+
+<p>Pokud CA certifikát není přítomný, <a href="glossary.xhtml#certificate_chain">řetězený certifikát</a> 
+pro CA certifikát musí obsahovat certifikát nadřízené CA, který je přítomný a je považován za
+důvěryhodný. Správce certifikátů také potvrzuje, že certifikát, který je ověřován, je označen jako
+důvěryhodný v úložišti certifikátů. Pokud jakákoliv z těchto kontrol selže, Správce certifikátů
+označí certifikát za neověřený a nepotvrdí identitu, jež je certifikována.</p>
+
+<p>Certifikát, který projde těmito testy, stále může být v některých případech kompromitován;
+například, platnost certifikátu může být zrušena, protože neautorizovaná osoba získala přístup k
+soukromému klíči certifikátu. Kompromitovaný certifikát může neautorizované osobě (nebo webovému
+serveru) umožnit předstírat, že je vlastníkem certifikátu.</p>
+
+<p>Jeden způsob, jak se bránit této hrozbě, je pro Správce certifikátů kontrolovat Seznam zrušených
+certifikátů (CRL) jako součást ověřovacího procesu (viz <a href="#managing_crls">Správa CRL</a>).
+Typicky, klepnutím na odkaz stáhnete CRL do vašeho prohlížeče. Pokud je CRL přítomen, Správce
+certifikátů jako součást ověřovacího procesu kontroluje každý certifikát vydaný stejnou CA proti
+příslušnému seznamu CRL.</p>
+
+<p>Spolehlivost CRL závisí na tom, jak často je seznam aktualizován serverem a jak často je
+kontrolován klientem. Můžete nastavit vaše <a href="validation_help.xhtml#automatic_crl_update_preferences">Předvolby automatické aktualizace</a>, takže CRL
+bude aktualizován automaticky v pravidelných intervalech.</p>
+
+<p>Jiný způsob, jak se bránit hrozbě kompromitovaných certifikátů, je použití speciálního serveru,
+který podporuje OCSP (Online Certificate Status Protocol). Takový server může odpovídat klientům na
+jejich dotazy o jednotlivých certifikátech (viz <a href="#configuring_ocsp">Nastavení OCSP</a>).</p>
+
+<p>Server, nazývaný odpovídač OCSP, přijímá aktualizovaná CRL periodicky od CA, jejíž vydané
+certifikáty mají být ověřovány. Můžete nastavit Správce certifikátů, aby posílal žádost o status
+certifikátu OCSP serveru, a OCSP server potvrdí, zda je certifikát platný.</p>
+
+<p>[<a href="#controlling_validation">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="managing_crls">Správa CRL</h2>
+
+<p>CRL (Certificate revocation list) je seznam zrušených certifikátů. <a href="glossary.xhtml#certificate_authority">Certifikační autorita (CA)</a> může zrušit platnost
+certifikátu, pokud byl například nějakým způsobem kompromitován&mdash;podobně jako finanční společnosti
+mohou zrušit platnost vaší kreditní karty, pokud jim oznámíte, že byla odcizena.</p>
+
+<p>Tato kapitola popisuje, jak importovat a spravovat seznamy CRL.</p>
+
+<p>Pro více informací viz <a href="#how_validation_works">Jak ověřování platnosti funguje</a>.</p>
+
+<p>Pro podrobný popis CRL nastavení, které můžete měnit, viz 
+<a href="validation_help.xhtml">Nastavení ověřování platnosti</a>.</p>
+
+<div class="contentsBox">V této sekci:
+<ul>
+  <li><a href="#about_the_next_update_date">O datumu <q>Následující aktualizace</q></a></li>
+  <li><a href="#importing_crls">Import CRL</a></li>
+  <li><a href="#viewing_and_managing_crls">Prohlížení a správa CRL</a></li>
+</ul>
+</div>
+
+<h3 id="about_the_next_update_date">O datumu <q>Následující aktualizace</q></h3>
+
+<p>Prohlížeč používající CRL je schopen kontrolovat platnost certifikátů vydaných odpovídající CA.
+Pokud je certifikát v seznamu zrušených certifikátů, prohlížeč jej neakceptuje jako doklad
+identity.</p>
+
+<p>CA typicky zveřejňuje aktualizovaný seznam CRL v pravidelných intervalech. Každý CRL obsahuje
+datum, uvedený v poli Následující aktualizace, kdy CA zveřejní další aktualizaci tohoto CRL. Obecně,
+pokud datum v poli Následující aktualizace je dřívější než je současné datum, můžete získat
+aktuálnější verzi tohoto CRL. Zobrazení informací o CRL a nastavení automatické aktualizace CRL,
+viz <a href="#viewing_and_managing_crls">Prohlížení a správa CRL</a>.</p>
+
+<p>Certifikační autority jsou povinny vydávat nové CRL do data Následující aktualizace. Nicméně,
+nepřítomnost nejnovějšího CRL neznamená neplatnost certifikátu. Z tohoto důvodu, pokud není
+nejnovější CRL dostupné, certifikát může být potvrzený, dokonce i když nejnovější CRL jej zobrazuje
+jako s prošlou platností. Automatická aktualizace CRL může pomoci předejít této situaci.</p>
+
+<h3 id="importing_crls">Import CRL</h3>
+
+<p>Nejnovější CRL můžete importovat od CA do vašeho Prohlížeče. Při importu CRL postupujte
+následovně:</p>
+
+<ol>
+  <li>Přejděte na URL specifikované certifikační autoritou nebo vaším systémovým administrátorem a
+  klepně na odkaz CRL, které chcete importovat.
+    
+    <p>Zobrazí se dialogové okno Průběh importu.</p>
+
+  </li>
+  <li>Potvrďte, že CRL bylo úspěšně importováno a že odpovídá tomu, které jste chtěli. Ve většině
+  případů byste také měli klepnout na tlačítko Ano, což zapne automatické aktualizace právě importovaného
+  CRL.</li>
+  <li>Další kroky závisí na tom, zda jste klepnuli na tlačítko Ano nebo Ne v dialogovém okně Průběh importu: 
+    <ul>
+      <li><strong>Ano</strong>: Zobrazí se dialogové okno pro předvolby Automatická aktualizace CRL. V tomto případě
+    pokračujte bodem 4.</li>
+      <li><strong>Ne</strong>: Dialogové okno Průběh importu se uzavře. Pokud později změníte názor a rozhodnete se povolit
+    automatické aktualizace, viz <a href="#viewing_and_managing_crls">Prohlížení a správa CRL</a>.</li>
+    </ul>
+  </li>
+  <li>Vyberte volbu označenou <q>Zapnout automatickou aktualizaci pro CRL</q>.</li>
+  <li>Rozhodněte se, jak chcete naplánovat automatické aktualizace:
+    <ul>
+      <li><strong>Aktualizace [__] dní před datem následující aktualizace</strong>: Vyberte tuto možnost, pokud
+    chcete založit četnost aktualizací na frekvenci, s kterou jsou zveřejňovány nové verze CRL.</li>
+      <li><strong>Aktualizovat každých [__] dní</strong>: Vyberte tuto volbu, pokud chcete specifikovat
+    aktualizační interval nezávisle na datumu Následující aktualizace CRL.</li>
+    </ul>
+  </li>
+  <li>Klepnutím na tlačítko OK potvrdíte vaše volby.</li>
+</ol>
+
+<h3 id="viewing_and_managing_crls">Prohlížení a správa CRL</h3>
+
+<p>CRL dostupné Prohlížeči můžete zobrazit a spravovat pomocí předvoleb Ověřování:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Ověřování. (Pokud nevidíte žádnou
+  podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
+  <li>Klepněte na tlačítko Spravovat seznam CRL v sekci Seznam uložených certifikátů. Zobrazí se dialogové okno
+  Spravovat seznam CRL s dostupnými CRL.</li>
+</ol>
+
+<p>CRL můžete smazat nebo aktualizovat, pokud jej vyberete a klepnete na příslušné tlačítko.</p>
+
+<p>K nastavení automatické aktualizace CRL, vyberte CRL a klepněte na tlačítko Nastavení. Zobrazí se dialogové okno
+Automatická aktualizace CRL:</p>
+
+<ol>
+  <li>Vyberte volbu označenou <q>Zapnout automatickou aktualizaci pro CRL</q>.</li>
+  <li>Rozhodněte se, jak chcete naplánovat automatické aktualizace:
+    <ul>
+      <li><strong>Aktualizace [__] dní před datem následující aktualizace</strong>: Vyberte tuto možnost, pokud
+    chcete založit četnost aktualizací na frekvenci, s kterou jsou zveřejňovány nové verze CRL.</li>
+      <li><strong>Aktualizovat každých [__] dní</strong>: Vyberte tuto volbu, pokud chcete specifikovat
+    aktualizační interval nezávisle na datumu Následující aktualizace CRL.</li>
+    </ul>
+  </li>
+  <li>Klepnutím na tlačítko OK potvrdíte vaše volby.</li>
+</ol>
+
+<p>[<a href="#controlling_validation">Návrat na začátek kapitoly</a>]</p>
+
+<h2 id="configuring_ocsp">Nastavení OCSP</h2>
+
+<p>Nastavení, které ovládá OCSP je součást předvoleb Ověřování. Dialogové okno pro nastavení předvoleb
+Ověřování získáte tak, že:</p>
+
+<ol>
+  <li>Otevřete nabídku <span class="mac">&brandShortName;</span> <span class="noMac">Úpravy</span> a klepněte na položku Předvolby.</li>
+  <li>V kategorii Soukromí &amp; Zabezpečení klepněte na podkategorii Ověřování. (Pokud nevidíte žádnou
+  podkategorii, dvojklepnutím na Soukromí &amp; Zabezpečení zobrazíte jejich seznam.)</li>
+</ol>
+
+<p>Pro informace o dostupných volbách OCSP viz <a href="validation_help.xhtml#ocsp">OCSP</a>.</p>
+
+<p>[<a href="#controlling_validation">Návrat na začátek kapitoly</a>]</p>
+
+<p>Copyright &copy; 2003-2007 The Mozilla Foundation.</p>
+
+</body>
+</html>
+

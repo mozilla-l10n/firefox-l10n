@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Znovuzrozený prohlížeč">
+<!ENTITY credit.thanks "Speciální poděkování">
+
+<!ENTITY credit.thanks2 "Díky také všem našim">
+<!ENTITY credit.contributors2 "přispěvatelům" >
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+ "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Překlad do češtiny</h3><ul><li>Pavel Franc</li></ul><h3>Testování a kontrola překladu</h3><ul><li>Pavel Cvrček</li></ul>">
+
+<!ENTITY credit.memory "V památce na">
+<!ENTITY credit.poweredByGeckoReg "Poháněno Geckem&reg;">

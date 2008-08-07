@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Publikovat stránku">
+<!ENTITY windowTitleSettings.label "Nastavení pro publikování">
+
+<!ENTITY publishTab.label "Zveřejnit">
+<!ENTITY settingsTab.label "Nastavení">
+
+<!ENTITY publishButton.label "Publikovath">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label "Název webu:">
+<!ENTITY siteList.accesskey "z">
+<!ENTITY siteList.tooltip "Vybere web, které chcete publikovat">
+<!ENTITY newSiteButton.label "Nový web">
+<!ENTITY newSiteButton.accesskey "N">
+<!ENTITY docDirList.label "Podadresář webu pro tuto stránku:">
+<!ENTITY docDirList.accesskey "a">
+<!ENTITY docDirList.tooltip "Vyberte nebo vepište název adresáře na vzdáleném počítači">
+<!ENTITY publishImgCheckbox.label "Zahrnout obrázky a další soubory">
+<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.tooltip "Zahrne i obrázky a další soubory odkazované z této stránky">
+<!ENTITY sameLocationRadio.label "Použít stejné umístění jako stránka">
+<!ENTITY sameLocationRadio.accesskey "u">
+<!ENTITY sameLocationRadio.tooltip "Použije stejné umístění souborů jako stránka">
+<!ENTITY useSubdirRadio.label "Použít tento podadresář:">
+<!ENTITY useSubdirRadio.accesskey "t">
+<!ENTITY useSubdirRadio.tooltip "Publish files to the selected remote subdirectory">
+<!ENTITY otherDirList.tooltip "Zadejte nebo vyverte vzdáleného podadresáře, kam se budou soubory publikovány">
+<!ENTITY pageTitle.label "Nadpis stránky:">
+<!ENTITY pageTitle.accesskey "p">
+<!ENTITY pageTitle.tooltip "Vkládá nadpis stránky pro identifikaci okna v záložkách">
+<!ENTITY pageTitleExample.label "např.: &quot;Moje první stránka&quot;">
+<!ENTITY filename.label "Název souboru:">
+<!ENTITY filename.accesskey "s">
+<!ENTITY filename.tooltip "Zadává název souboru pro webovou stránku včetně '.html' přípony">
+<!ENTITY filenameExample.label "např.: &quot;mojestranka.html&quot;">
+<!ENTITY relatedDocs.label "Další soubory pro zveřejnění">
+<!ENTITY setDefaultButton.label "Nastavit jako výchozí">
+<!ENTITY setDefaultButton.accesskey "v">
+<!ENTITY setDefSiteAndDir.label "Nastavit jako výchozí web a adresář">
+<!ENTITY removeButton.label "Odebrat server">
+<!ENTITY removeButton.accesskey "d">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label "Weby pro zveřejnění">
+<!ENTITY serverInfo.label "Informace o serveru">
+<!ENTITY loginInfo.label "Přihlašovací informace">
+<!ENTITY siteName.label "Název webu:">
+<!ENTITY siteName.accesskey "w">
+<!ENTITY siteName.tooltip "Zkratka, která identifikuje publikovaný web (např. 'MůjWeb')">
+<!ENTITY siteUrl.label "Adresa pro zveřejnění (např: 'ftp://ftp.isp.cz/uzivatel'):">
+<!ENTITY siteUrl.accesskey "A">
+<!ENTITY siteUrl.tooltip "FTP nebo HTTP adresa poskytnutá ISP nebo hostingovou službou">
+<!ENTITY browseUrl.label "HTTP adresa domovské stránky (např. 'http://www.isp.cz/uzivatel'):">
+<!ENTITY browseUrl.accesskey "H">
+<!ENTITY browseUrl.tooltip "HTTP adresa domovské stránky (neobsahuje název souboru)">
+<!ENTITY username.label "Jméno uživatele:">
+<!ENTITY username.accesskey "J">
+<!ENTITY username.tooltip "Jméno uživatele používané pro přihlášení k ISP nebo k hostingovým službám">
+<!ENTITY password.label "Heslo:">
+<!ENTITY password.accesskey "H">
+<!ENTITY password.tooltip "Heslo přiřazené k uživateli">
+<!ENTITY savePassword.label "Uložit heslo">
+<!ENTITY savePassword.accesskey "U">
+<!ENTITY savePassword.tooltip "Pokud chcete uložit své heslo bezpečně pomocí Správce hesel">

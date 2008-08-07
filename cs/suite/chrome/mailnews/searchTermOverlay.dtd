@@ -1,0 +1,15 @@
+<!ENTITY matchAll.label "Odpovídající všem pravidlům">
+<!ENTITY matchAll.accesskey "p">
+<!ENTITY matchAny.label "Odpovídající některému pravidlu">
+<!ENTITY matchAny.accesskey "n">
+<!ENTITY matchAllMsgs.label "Odpovídající všem zprávám">
+<!ENTITY matchAllMsgs.accesskey "z">
+<!-- LOCALIZATION NOTE  
+  The values below are used to control the widths of the search widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY searchTermListAttributesFlexValue "4">
+<!ENTITY searchTermListOperatorsFlexValue "4">
+<!ENTITY searchTermListValueFlexValue "4">
+<!ENTITY searchTermListButtonsFlexValue "2">

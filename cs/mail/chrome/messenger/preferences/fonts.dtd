@@ -1,0 +1,77 @@
+<!ENTITY fontsAndEncodingsDialog.title "Písma a znaková sada">
+<!ENTITY window.width "39em"> 
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "Znaková sada:">
+<!ENTITY language.accesskey "Z">
+
+<!ENTITY typefaces.label "Řez">
+<!ENTITY sizes.label "Velikost (body)">
+<!ENTITY proportionalSize.accesskey "e">
+<!ENTITY monospaceSize.accesskey "l">
+
+<!ENTITY proportional.label "Proporcionální:">
+<!ENTITY proportional.accesskey "P">
+
+<!ENTITY serif.label "Patkové:">
+<!ENTITY serif.accesskey "P">
+<!ENTITY sans-serif.label "Bezpatkové:">
+<!ENTITY sans-serif.accesskey "B">
+<!ENTITY monospace.label "Neproporcionální:">
+<!ENTITY monospace.accesskey "N">
+
+<!ENTITY fontsize.units "bodů">
+
+<!ENTITY font.langGroup.latin1 "Západní jazyky">
+<!ENTITY font.langGroup.latin2 "Středoevropské jazyky">
+<!ENTITY font.langGroup.japanese "Japonština">
+<!ENTITY font.langGroup.trad-chinese "Tradiční čínština (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "Zjednodušená čínština">
+<!ENTITY font.langGroup.trad-chinese-hk "Tradiční čínština (Hong Kong)">
+<!ENTITY font.langGroup.korean "Korejština">
+<!ENTITY font.langGroup.cyrillic "Azbuka">
+<!ENTITY font.langGroup.baltic "Baltské jazyky">
+<!ENTITY font.langGroup.el "Řečtina">
+<!ENTITY font.langGroup.turkish "Turecká">
+<!ENTITY font.langGroup.unicode "Další jazyky">
+<!ENTITY font.langGroup.user-def "Definovaná uživatelem">
+<!ENTITY font.langGroup.thai "Thajština">
+<!ENTITY font.langGroup.hebrew "Hebrejština">
+<!ENTITY font.langGroup.arabic "Arabština">
+<!ENTITY font.langGroup.devanagari "Devanagari">
+<!ENTITY font.langGroup.tamil "Tamilština">
+<!ENTITY font.langGroup.armenian "Arménština">
+<!ENTITY font.langGroup.bengali "Bengálí">
+<!ENTITY font.langGroup.canadian "Kanadština">
+<!ENTITY font.langGroup.ethiopic "Etiopština">
+<!ENTITY font.langGroup.georgian "Gruzinština">
+<!ENTITY font.langGroup.gujarati "Gujarati">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
+<!ENTITY font.langGroup.khmer "Khmerština">
+<!ENTITY font.langGroup.malayalam "Malajština"> 
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Minimální velikost fontů:">
+<!ENTITY minSize.accesskey "M">
+<!ENTITY minSize.none "Žádný">
+
+<!-- default font type -->
+<!ENTITY useDefaultFontSerif.label "Patkové">
+<!ENTITY useDefaultFontSansSerif.label "Bezpatkové">
+
+<!ENTITY newLanguages.label "Nové jazyky mohou být nastaveny pomocí panelu Jazyky">
+
+<!ENTITY useDocumentFonts.label "Povolit zprávám používat jiná písma">
+<!ENTITY useDocumentFonts.accesskey "o">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label "Odchozí pošta:">
+<!ENTITY sendDefaultCharset.accesskey "O">
+<!ENTITY languagesTitle1.label "Znaková sada">
+<!ENTITY composingDescription.label "Nastavení výchozí znakové sady pro příchozí a odchozí poštu">
+
+<!ENTITY viewDefaultCharsetList.label "Příchozí pošta:">
+<!ENTITY viewDefaultCharsetList.accesskey "P">
+<!ENTITY replyInDefaultCharset2.label "Pokud je možno, použít u odpovědi výchozí znakovou sadu.">
+<!ENTITY replyInDefaultCharset2.accesskey "u">

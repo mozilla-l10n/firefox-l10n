@@ -1,0 +1,93 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY offlineGoOfflineCmd.label "Pracovat offline">
+<!ENTITY offlineGoOfflineCmd.accesskey "f">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label "Soubor">
+<!ENTITY fileMenu.accesskey "s">
+<!ENTITY newMenu.label "Nový objekt">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newBlankPageCmd.label "Prázdná stránka">
+<!ENTITY newBlankPageCmd.accesskey "P">
+<!ENTITY newBlankPageCmd.key "n">
+<!ENTITY newPageFromTemplateCmd.label "Stránka ze šablony">
+<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromDraftCmd.label "Stránka z konceptu">
+<!ENTITY newPageFromDraftCmd.accesskey "k">
+<!ENTITY newNavigatorCmd.label "Okno prohlížeče">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "O">
+
+<!ENTITY editMenu.label "Úpravy">
+<!ENTITY editMenu.accesskey "a">
+<!ENTITY undoCmd.label "Zpět">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "Z">
+<!ENTITY redoCmd.label "Znovu">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "O">
+<!ENTITY cutCmd.label "Vyjmout">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "v">
+<!ENTITY copyCmd.label "Kopírovat">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Vložit">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY deleteCmd.label "Smazat">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY selectAllCmd.label "Vybrat vše">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "Předvolby…">
+<!ENTITY preferencesCmd.key "E">
+<!ENTITY preferencesCmd.accesskey "e">
+<!ENTITY findTypeTextCmd.label "Hledat během psaní text">
+<!ENTITY findTypeTextCmd.accesskey "x">
+<!ENTITY findTypeLinksCmd.label "Hledat během psaní odkazy">
+<!ENTITY findTypeLinksCmd.accesskey "b">
+
+<!ENTITY viewMenu.label "Zobrazit">
+<!ENTITY viewMenu.accesskey "z">
+<!ENTITY viewToolbarsMenu.label "Zobrazit/Skrýt">
+<!ENTITY viewToolbarsMenu.accesskey "o">
+<!ENTITY showTaskbarCmd.label "Stavový řádek">
+<!ENTITY showTaskbarCmd.accesskey "S">
+
+<!ENTITY helpMenu.label "Nápověda">
+<!ENTITY helpMenu.accesskey "v">
+
+<!ENTITY releaseCmd.label "Poznámky k verzi">
+<!ENTITY releaseCmd.accesskey "P">
+<!ENTITY updateCmd.label "Zkontrolovat aktualizace…">
+<!ENTITY updateCmd.accesskey "a">
+<!ENTITY aboutCmd.label "O aplikaci &brandShortName;">
+<!ENTITY aboutCmd.accesskey "O">
+<!ENTITY aboutCommPluginsCmd.label "O zásuvných modulech">
+<!ENTITY aboutCommPluginsCmd.accesskey "m">
+
+<!ENTITY direct.label "Online (proxy: žádná)">
+<!ENTITY direct.accesskey "N">
+<!ENTITY manual.label "Online (proxy: manuální)">
+<!ENTITY manual.accesskey "M">
+<!ENTITY pac.label "Online (proxy: automatická)">
+<!ENTITY pac.accesskey "A">
+<!ENTITY wpad.label "Online (Proxy: automaticky vyhledat)">
+<!ENTITY wpad.accesskey "D">
+
+<!ENTITY proxy.label "Konfigurace proxy serveru…">
+<!ENTITY proxy.accesskey "C">
+
+<!ENTITY bidiSwitchTextDirectionItem.label "Změnit směr textu">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "z">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey "P">
+<!ENTITY showPopupManager.label "Správce vyskakovacích oken">
+<!ENTITY showPopupManager.accesskey "S">
+<!ENTITY dontShowMessage.label "Nezobrazovat tuto zprávu, pokud jsou blokována vyskakovací okna">
+<!ENTITY dontShowMessage.accesskey "N">

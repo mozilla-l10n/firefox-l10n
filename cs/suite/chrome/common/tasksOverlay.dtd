@@ -1,0 +1,43 @@
+<!-- extracted from tasksOverlay.xul -->
+<!-- LOCALIZATION NOTE (navigatorCmd.label): DONT_TRANSLATE -->  
+<!ENTITY navigatorCmd.label "Prohlížeč">
+<!ENTITY navigatorCmd.accesskey "P">
+<!ENTITY navigatorCmd.commandkey "1">
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label "Editor">
+<!ENTITY editorCmd.accesskey "E">
+<!ENTITY editorCmd.commandkey "4">
+
+<!ENTITY securityInfoCmd.label ".Informace o zabezpečení">
+<!ENTITY securityInfoCmd.accesskey "z">
+<!ENTITY javaConsoleCmd.label "Konzola jazyka Java">
+<!ENTITY javaConsoleCmd.accesskey "j">
+
+<!ENTITY errorConsoleCmd.label "Chybová konzola">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
+
+<!ENTITY privacyMenu.label "Soukromí a zabezpečení">
+<!ENTITY privacyMenu.accesskey "p">
+
+<!ENTITY taskNavigator.tooltip "Prohlížeč">
+<!ENTITY taskComposer.tooltip "Editor">
+<!ENTITY taskBar.tooltip "Stavový řádek">
+
+<!ENTITY webDevelopment.label "Vývoj webových stránek">
+<!ENTITY webDevelopment.accesskey "w">
+
+<!ENTITY windowMenu.label "Okno">
+<!ENTITY windowMenu.accesskey "K">
+
+<!ENTITY tasksMenu.label "Nástroje">
+<!ENTITY tasksMenu.accesskey "N">
+
+<!ENTITY downloadManagerCmd.label "Správce stahování">
+<!ENTITY downloadManagerCmd.accesskey "T">
+
+<!ENTITY addonsManagerCmd.label "Správce doplňků">
+<!ENTITY addonsManagerCmd.accesskey "d">
+
+<!ENTITY switchProfileCmd.label "Přepnout profil…">
+<!ENTITY switchProfileCmd.accesskey "p">

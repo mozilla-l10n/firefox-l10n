@@ -1,0 +1,55 @@
+<!ENTITY history.label "Historie">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
+-->
+<!ENTITY rememberDaysBefore.label "Uchovávat historii stránek nejméně">
+<!ENTITY rememberDaysBefore.accesskey "h">
+<!ENTITY rememberDaysAfter2.label "dnů">
+
+<!ENTITY rememberForms.label "Pamatovat si údaje ve formulářích a vyhledávacím poli">
+<!ENTITY rememberForms.accesskey "m">
+
+<!ENTITY rememberDownloads.label "Pamatovat si stažené soubory">
+<!ENTITY rememberDownloads.accesskey "o">
+
+
+<!ENTITY cookies.label "Cookies">
+
+<!ENTITY acceptCookies.label "Povolit serverům nastavovat cookies">
+<!ENTITY acceptCookies.accesskey "c">
+
+<!ENTITY acceptThirdParty.label "Povolit cookies třetích stran">
+<!ENTITY acceptThirdParty.accesskey "t">
+
+<!ENTITY keepUntil.label "Ponechat do:">
+<!ENTITY keepUntil.accesskey "P">
+
+<!ENTITY expire.label "konce doby platnosti">
+<!ENTITY close.label "ukončení aplikace &brandShortName;">
+<!ENTITY askEachTime.label "vždy se dotázat">
+
+<!ENTITY cookieExceptions.label "Výjimky…">
+<!ENTITY cookieExceptions.accesskey "k">
+
+<!ENTITY showCookies.label "Správce cookies…">
+<!ENTITY showCookies.accesskey "S">
+
+
+<!ENTITY privateData.label "Důvěrná data">
+
+<!ENTITY alwaysClear.label "Při ukončení aplikace &brandShortName; vymazat důvěrná data">
+<!ENTITY alwaysClear.accesskey "u">
+
+<!ENTITY askBeforeClear.label "Dotázat se před vymazáním důvěrných dat">
+<!ENTITY askBeforeClear.accesskey "D">
+
+<!ENTITY clearDataSettings.label "Nastavení…">
+<!ENTITY clearDataSettings.accesskey "t">
+
+<!ENTITY clearDataNow.label "Nyní vymazat…">
+<!ENTITY clearDataNow.label2 "Nyní vymazat">
+<!ENTITY clearDataNow.accesskey "N">

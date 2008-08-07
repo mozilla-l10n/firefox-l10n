@@ -1,0 +1,43 @@
+# Mozilla search plugin for Czech Wikipedia cs.wikipedia.org
+# by Carey Evans <carey.evans@gmail.com>.
+# http://carey.geek.nz/code/wikipedia-searchplugin/
+# This file is released into the public domain.
+# Thanks: Michael Franz.
+#
+# Version: 1.4.2 (2005-07-27)
+# Country: CZ
+# Language: cs
+
+<search
+	version="7.1"
+	name="Wikipedia - Czech"
+	description="Czech Wikipedia"
+	sourceTextEncoding="0"
+	method="GET"
+	action="http://cs.wikipedia.org/wiki/Speci%C3%A1ln%C3%AD:Search"
+	queryCharset="UTF-8"
+	searchForm="http://cs.wikipedia.org/"
+>
+
+<input name="search" user>
+<input name="fulltext" value="fulltext">
+<input name="sourceid" value="mozilla-search">
+
+<interpret
+	browserResultType="result"
+	charset="UTF-8"
+	language="cs"
+	resultListStart="<div id='results'></div>"
+	resultListEnd="<hr/>"
+	resultItemStart="<li style='padding-bottom: 1em'>"
+	resultItemEnd="</li>"
+>
+
+</search>
+
+<browser
+	alsomatch="http://cs.wikipedia.org/w/index.php?title=Speci%C3%A1ln%C3%AD:Search"
+	update="http://mycroft.mozdev.org/update.php/id0/wikipedia-cs.src"
+	updateicon="http://mycroft.mozdev.org/update.php/id0/wikipedia-cs.png"
+	updateCheckDays="7"
+>

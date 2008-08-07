@@ -1,0 +1,8 @@
+
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Zpráva">
+<!ENTITY newMessageCmd.accesskey "z">
+ 
+<!ENTITY newCardCmd.label "Kontakt…">
+<!ENTITY newCardCmd.accesskey "k">
+

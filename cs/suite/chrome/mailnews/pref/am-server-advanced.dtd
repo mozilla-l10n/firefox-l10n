@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Rozšířené nastavení účtu">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "Rozšířené nastavení IMAP serveru">
+<!ENTITY serverDirectory.label "Adresář na IMAP serveru:">
+<!ENTITY serverDirectory.accesskey "i">
+<!ENTITY usingSubscription.label "Zobrazit pouze odebírané složky">
+<!ENTITY usingSubscription.accesskey "p">
+<!ENTITY dualUseFolders.label "Server podporuje složky, které obsahují podsložky se zprávami">
+<!ENTITY dualUseFolders.accesskey "l">
+<!ENTITY useIdle.label "Použít příkaz IDLE pokud jej server podporuje">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Maximální počet spojení serveru k vyrovnávací paměti">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "Tato nastavení specifikují jmenný prostor na vašem IMAP serveru">
+<!ENTITY personalNamespace.label "Osobní jmenný prostor:">
+<!ENTITY personalNamespace.accesskey "O">
+<!ENTITY publicNamespace.label "Veřejné (sdílené):">
+<!ENTITY publicNamespace.accesskey "v">
+<!ENTITY otherUsersNamespace.label "Další uživatelé:">
+<!ENTITY otherUsersNamespace.accesskey "D">
+<!ENTITY overrideNamespaces.label "Povolit serveru přepsat tyto jmenné prostory">
+<!ENTITY overrideNamespaces.accesskey "T">
+<!ENTITY pop3Desc.label "Při stažení nové pošty z tohoto POP3 serveru, ji můžete uložit do Globalní doručené pošty  (Doručená pošta účtu Místní složky),do Doručené pošty tohoto účtu, nebo do Doručené pošty jiného POP3 účtu">
+<!ENTITY folderStorage.label "Kam ukládat poštu">
+<!ENTITY globalInbox.label "Globální doručená pošta">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "Doručená pošta pro tento účet">
+<!ENTITY accountDirectory.accesskey "D">
+<!ENTITY deferToServer.label "Doručená pošta pro jiný účet">
+<!ENTITY deferToServer.accesskey "P">
+<!ENTITY deferGetNewMail.label "Zahrnout tento server při stahování nové pošty">
+<!ENTITY deferGetNewMail.accesskey "I">

@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label "Obecné">
+
+<!ENTITY accessibility.label "Usnadnění">
+
+<!ENTITY useCursorNavigation.label "Používat kurzorové klávesy pro pohyb ve stránce">
+<!ENTITY useCursorNavigation.accesskey "k">
+<!ENTITY searchStartTyping.label "Psaním vyhledávat text na stránce">
+<!ENTITY searchStartTyping.accesskey "y">
+<!ENTITY blockAutoRefresh.label "Varovat, pokud se stránka pokouší o přesměrování nebo obnovení">
+<!ENTITY blockAutoRefresh.accesskey "r">
+
+<!ENTITY browsing.label "Prohlížení">
+
+<!ENTITY useAutoScroll.label "Použít automatické posunování">
+<!ENTITY useAutoScroll.accesskey "P">
+<!ENTITY useSmoothScrolling.label "Použít jemné posunování">
+<!ENTITY useSmoothScrolling.accesskey "e">
+<!ENTITY checkSpelling.label "Při psaní kontrolovat pravopis">
+<!ENTITY checkSpelling.accesskey "r">
+
+<!ENTITY systemDefaults.label "Nastavení systému">
+<!ENTITY alwaysCheckDefault.label "Při startu kontrolovat, zda je &brandShortName; výchozím prohlížečem"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey "t">
+<!ENTITY checkNow.label "Zkontrolovat">
+<!ENTITY checkNow.accesskey "n">
+
+<!ENTITY networkTab.label "Síť">
+
+<!ENTITY connection.label "Připojení">
+
+<!ENTITY connectionDesc.label "Konfigurovat připojení aplikace &brandShortName; k Internetu">
+<!ENTITY connectionSettings.label "Nastavení připojení…">
+<!ENTITY connectionSettings.accesskey "s">
+
+<!ENTITY offlineStorage.label "Úložiště režimu offline">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label "Použít nejvíce">
+<!ENTITY useCacheBefore.accesskey "n">
+<!ENTITY useCacheAfter.label "MB místa na disku pro vyrovnávací paměť">
+<!ENTITY clearCacheNow.label "Vymazat">
+<!ENTITY clearCacheNow.accesskey "V">
+
+<!ENTITY updateTab.label "Aktualizace">
+
+<!ENTITY autoCheck.label "Automaticky kontrolovat aktualizace pro:">
+<!ENTITY enableAppUpdate.label "Aplikace &brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "c">
+<!ENTITY enableAddonsUpdate.label "Nainstalované doplňky">
+<!ENTITY enableAddonsUpdate.accesskey "i">
+<!ENTITY enableSearchUpdate.label "Vyhledávací moduly">
+<!ENTITY enableSearchUpdate.accesskey "m">
+<!ENTITY whenUpdatesFound.label "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
+<!ENTITY askMe.label "Vždy se dotázat na další postup">
+<!ENTITY askMe.accesskey "l">
+<!ENTITY modeAutomatic.label "Automaticky aktualizaci stáhnout a nainstalovat">
+<!ENTITY modeAutomatic.accesskey "t">
+<!ENTITY modeAutoAddonWarn.label "Upozornit, pokud by aktualizace zakázala některé doplňky">
+<!ENTITY modeAutoAddonWarn.accesskey "u">
+<!ENTITY updateHistory.label "Zobrazit historii aktualizací…">
+<!ENTITY updateHistory.accesskey "h">
+
+<!ENTITY offlineNotify.label "Upozornit, pokud server chce uložit offline obsah">
+<!ENTITY offlineNotify.accesskey "p">
+<!ENTITY offlineNotifyExceptions.label "Výjimky…">
+<!ENTITY offlineNotifyExceptions.accesskey "m">
+
+<!ENTITY offlineAppsList.label "Následující servery mají uložená data pro použití v režimu offline:">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "Odebrat…">
+<!ENTITY offlineAppsListRemove.accesskey "O">
+<!ENTITY offlineAppRemove.confirm "Smazat offline obsah">
+
+<!ENTITY encryptionTab.label "Šifrování">
+
+<!ENTITY protocols.label "Protokoly">
+<!ENTITY useSSL3.label "Použít SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Použít TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Certifikáty">
+<!ENTITY certSelection.description "Pokud server vyžaduje osobní certifikát:">
+<!ENTITY certs.auto "Zvolit automaticky">
+<!ENTITY certs.auto.accesskey "a">
+<!ENTITY certs.ask "Vždy se dotázat">
+<!ENTITY certs.ask.accesskey "d">
+<!ENTITY viewCerts.label "Certifikáty">
+<!ENTITY viewCerts.accesskey "f">
+<!ENTITY viewCRLs.label "Zneplatnění">
+<!ENTITY viewCRLs.accesskey "Z">
+<!ENTITY verify2.label "Ověřování">
+<!ENTITY verify2.accesskey "O">
+<!ENTITY viewSecurityDevices.label "Bezpečnostní zařízení">
+<!ENTITY viewSecurityDevices.accesskey "B">

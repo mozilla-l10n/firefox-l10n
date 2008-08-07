@@ -1,0 +1,14 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Zadejte adresu umístění (URL), nebo vyberte soubor, který chcete otevřít:">
+<!ENTITY enter.accesskey "Z">
+<!ENTITY chooseFile.label "Vybrat soubor…">
+<!ENTITY chooseFile.accesskey "S">
+<!ENTITY newWindow.label "Nové okno prohlížeče">
+<!ENTITY newTab.label "Nový panel prohlížeče">
+<!ENTITY topWindow.label "Nynější okno prohlížeče">
+<!ENTITY editNewWindow.label "Nové okno editoru">
+<!ENTITY open.label "Otevřít">
+<!ENTITY caption.label "Otevření adresy">
+<!ENTITY openWhere.label "Umístit do:">
+<!ENTITY openWhere.accesskey "U">

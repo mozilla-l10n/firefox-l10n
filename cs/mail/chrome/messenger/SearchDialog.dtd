@@ -1,0 +1,77 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Hledat zprávy ve složce:">
+<!ENTITY searchHeading.accesskey "H">
+<!ENTITY searchSubfolders.label "Hledat v podsložkách">
+<!ENTITY searchSubfolders.accesskey "l">
+<!ENTITY resetButton.label "Obnovit">
+<!ENTITY resetButton.accesskey "b">
+<!ENTITY optionsButton.label "Nastavení">
+<!ENTITY closeButton.label "Zavřít">
+<!ENTITY openButton.label "Otevřít">
+<!ENTITY openButton.accesskey "O">
+<!ENTITY deleteButton.label "Smazat">
+<!ENTITY deleteButton.accesskey "m">
+<!ENTITY searchDialogTitle.label "Hledat ve zprávách">
+<!ENTITY conditionDesc.label "Hledat ve zprávách jejichž:">
+<!ENTITY conditions.label "Podmínky">
+<!ENTITY results.label "Nalezené položky:">
+<!ENTITY fileHereMenu.label "Přesunout do složky">
+<!ENTITY fileHereMenu.accesskey "s">
+<!ENTITY fileButton.label "Přesunout">
+<!ENTITY fileButton.accesskey "P">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Otevřít složku se zprávami">
+<!ENTITY goToFolderButton.accesskey "t">
+<!ENTITY saveAsVFButton.label "Uložit hledání jako složku…">
+<!ENTITY saveAsVFButton.accesskey "a">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label "Hledat ve složce kontaktů:">
+<!ENTITY abSearchHeading.accesskey "H">
+<!ENTITY propertiesButton.label "Vlastnosti">
+<!ENTITY propertiesButton.accesskey "l">
+<!ENTITY composeButton.label "Napsat zprávu">
+<!ENTITY composeButton.accesskey "z">
+<!ENTITY abSearchDialogTitle.label "Rozšířené hledání v kontaktech">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Vlákno">
+<!ENTITY fromColumn.label "Od">
+<!ENTITY recipientColumn.label "Příjemce">
+<!ENTITY subjectColumn.label "Předmět">
+<!ENTITY dateColumn.label "Datum">
+<!ENTITY priorityColumn.label "Priorita">
+<!ENTITY tagsColumn.label "Štítek">
+<!ENTITY accountColumn.label "Účet">
+<!ENTITY statusColumn.label "Stav">
+<!ENTITY sizeColumn.label "Velikost">
+<!ENTITY junkStatusColumn.label "Druh zprávy">
+<!ENTITY linesColumn.label "Řádek">
+<!ENTITY unreadColumn.label "Nepřečtené">
+<!ENTITY totalColumn.label "Celkem">
+<!ENTITY readColumn.label "Přečteno">
+<!ENTITY receivedColumn.label "Doručeno">
+<!ENTITY starredColumn.label "Hvězdička">
+<!ENTITY locationColumn.label "Umístění">
+<!ENTITY idColumn.label "Pořadí přijetí">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Klepnutím vyberte sloupce pro zobrazení">
+<!ENTITY threadColumn.tooltip "Klepnutím zobrazíte vlákna zpráv">
+<!ENTITY fromColumn.tooltip "Klepnutím seřadíte podle odesílatele">
+<!ENTITY recipientColumn.tooltip "Klepnutím seřadíte podle příjemce">
+<!ENTITY subjectColumn.tooltip "Klepnutím seřadíte podle předmětu">
+<!ENTITY dateColumn.tooltip "Klepnutím seřadíte podle data">
+<!ENTITY priorityColumn.tooltip "Klepnutím seřadíte podle priority">
+<!ENTITY tagsColumn.tooltip "Klepnutím seřadíte podle štítku">
+<!ENTITY accountColumn.tooltip "Klepnutím seřadíte podle účtu">
+<!ENTITY statusColumn.tooltip "Klepnutím seřadíte podle stavu">
+<!ENTITY sizeColumn.tooltip "Klepnutím seřadíte podle velikosti">
+<!ENTITY junkStatusColumn.tooltip "Klepnutím seřadíte podle druhu zprávy">
+<!ENTITY unreadColumn.tooltip "Počet nepřečtených zpráv ve vlákně">
+<!ENTITY totalColumn.tooltip "Celkový počet zpráv ve vlákně">
+<!ENTITY readColumn.tooltip "Klepnutím seřadíte podle přečtených">
+<!ENTITY receivedColumn.tooltip "Klepnutím seřadíte podle datumu doručení">
+<!ENTITY starredColumn.tooltip "Klepnutím seřadíte podle hvězdičky">
+<!ENTITY locationColumn.tooltip "Klepnutím seřadíte podle umístění">
+<!ENTITY idColumn.tooltip "Klepnutím seřadíte podle pořadí přijetí">

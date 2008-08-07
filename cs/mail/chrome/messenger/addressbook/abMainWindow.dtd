@@ -1,0 +1,215 @@
+<!ENTITY addressbookWindow.title "Adresář">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label "Soubor">
+<!ENTITY fileMenu.accesskey "S">
+<!ENTITY newMenu.label "Nový">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newCard.label "Kontakt…">
+<!ENTITY newCard.accesskey "K">
+<!ENTITY newCard.key "N">
+<!ENTITY newListCmd.label "Skupina…">
+<!ENTITY newListCmd.accesskey "S">
+<!ENTITY newAddressBookCmd.label "Složka kontaktů…">
+<!ENTITY newAddressBookCmd.accesskey "k">
+<!ENTITY newLDAPDirectoryCmd.label "LDAP adresář…">
+<!ENTITY newLDAPDirectoryCmd.accesskey "D">
+<!ENTITY newMessageCmd.label "Zpráva">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.accesskey "Z">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label "Používat konktakty Mac OS X">
+<!ENTITY osxAddressBook.accesskey "O">
+<!ENTITY closeCmd.label "Zavřít">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "Z">
+<!ENTITY printSetupCmd.label "Vzhled stránky…">
+<!ENTITY printSetupCmd.accesskey "V">
+<!ENTITY printPreviewCardViewCmd.label "Náhled tisku kontaktu">
+<!ENTITY printPreviewCardViewCmd.accesskey "h">
+<!ENTITY printPreviewAddressBook.label "Náhled tisku složky">
+<!ENTITY printPreviewAddressBook.accesskey "l">
+<!ENTITY printCardViewCmd.label "Tisk kontaktu…">
+<!ENTITY printCardViewCmd.accesskey "T">
+<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printAddressBook.label "Tisk složky kontaktů…">
+<!ENTITY printAddressBook.accesskey "o">
+
+<!ENTITY quitApplicationCmdWin.label "Ukončit">
+<!ENTITY quitApplicationCmdWin.accesskey "U">
+<!ENTITY quitApplicationCmd.label "Ukončit">
+<!ENTITY quitApplicationCmd.accesskey "k">
+<!ENTITY quitApplicationCmd.key "Q">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "Úpravy">
+<!ENTITY editMenu.accesskey "a">
+<!ENTITY undoCmd.label "Zpět">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "Z">
+<!ENTITY redoCmd.label "Znovu">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "o">
+<!ENTITY cutCmd.label "Vyjmout">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "y">
+<!ENTITY copyCmd.label "Kopírovat">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Vložit">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY deleteCmd.label "Smazat">
+<!ENTITY deleteCmd.key "d">
+<!ENTITY deleteCmd.accesskey "m">
+<!ENTITY deleteAbCmd.label "Smazat adresář">
+<!ENTITY deleteCardCmd.label "Smazat kontakt">
+<!ENTITY deleteCardsCmd2.label "Smazat kontakty">
+<!ENTITY deleteListCmd.label "Smazat seznam">
+<!ENTITY deleteListsCmd.label "Smazat seznamy">
+<!ENTITY deleteItemsCmd.label "Smazat položky">
+<!ENTITY selectAllCmd.label "Vybrat vše">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY searchAddressesCmd.key "f">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY swapFirstNameLastNameCmd.label "Vyměnit křestní jméno/příjmení">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "m">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label "Vlastnosti…">
+<!ENTITY propertiesCmd.accesskey "V">
+<!ENTITY propertiesCmd.key "i">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label "Zobrazit">
+<!ENTITY viewMenu.accesskey "Z">
+<!ENTITY viewToolbarsMenu.label "Nástrojové lišty">
+<!ENTITY viewToolbarsMenu.accesskey "r">
+<!ENTITY showAbToolbarCmd.label "Lišta adresáře">
+<!ENTITY showAbToolbarCmd.accesskey "d">
+<!ENTITY showTaskbarCmd.label "Stavový řádek">
+<!ENTITY showTaskbarCmd.accesskey "t">
+<!ENTITY customizeToolbar.label "Vlastní…">
+<!ENTITY customizeToolbar.accesskey "V">
+<!ENTITY showCardPane.label "Obsah kontaktu">
+<!ENTITY showCardPane.accesskey "O">
+<!ENTITY menu_ShowNameAs.label "Zobrazit jméno jako">
+<!ENTITY menu_ShowNameAs.accesskey "b">
+<!ENTITY firstLastCmd.label "Jméno Příjmení">
+<!ENTITY firstLastCmd.accesskey "J">
+<!ENTITY lastFirstCmd.label "Příjmení, jméno">
+<!ENTITY lastFirstCmd.accesskey "P">
+<!ENTITY displayNameCmd.label "Zobrazené jméno">
+<!ENTITY displayNameCmd.accesskey "Z">
+<!ENTITY sortMenu.label "Seřadit podle">
+<!ENTITY sortMenu.accesskey "d">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Nástroje">
+<!ENTITY tasksMenu.accesskey "N">
+<!ENTITY messengerCmd.label "Pošta a Diskusní skupiny">
+<!ENTITY messengerCmd.accesskey "P">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY searchAddressesCmd.label "Hledat v kontaktech…">
+<!ENTITY searchAddressesCmd.accesskey "k">
+<!ENTITY importCmd.label "Importovat…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Exportovat…">
+<!ENTITY exportCmd.accesskey "x">
+<!ENTITY preferencesCmd.label "Možnosti…">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "M">
+<!ENTITY preferencesCmdUnix.label "Předvolby">
+<!ENTITY preferencesCmdUnix.accesskey "v">
+
+<!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newcardButton.label "Nový kontakt">
+<!ENTITY newcardButton.accesskey "k">
+<!ENTITY newlistButton.label "Nová skupina">
+<!ENTITY newlistButton.accesskey "s">
+<!ENTITY editButton.label "Vlastnosti">
+<!ENTITY editButton.accesskey "V">
+<!ENTITY newmsgButton.label "Nová zpráva">
+<!ENTITY newmsgButton.accesskey "N">
+<!ENTITY newIM.label "Zpráva přes IM">
+<!ENTITY newIM.accesskey "I">
+<!ENTITY deleteButton.label "Smazat">
+<!ENTITY deleteButton.accesskey "m">
+<!ENTITY throbberItem.title "Ukazatel činnosti">
+
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newcardButton.tooltip "Vytvoří nový kontakt">
+<!ENTITY newlistButton.tooltip "Vytvoří novou skupinu">
+<!ENTITY editButton.tooltip "Upraví označený kontakt">
+<!ENTITY newmsgButton.tooltip "Vytvoří novou zprávu">
+<!ENTITY newIM.tooltip "Pošle krátkou zprávu nebo začne rozhovor">
+<!ENTITY deleteButton.tooltip "Smaže označený kontakt nebo kontakty">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label "Složky kontaktů">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Jméno nebo e-mail">
+<!ENTITY SearchNameOrEmail.accesskey "n">
+<!ENTITY advancedButton.tooltip "Rozšířené hledání adres">
+<!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchItem.title "Rychlé hledání">
+
+<!-- Results Pane -->
+<!ENTITY GeneratedName.label "Jméno">
+<!ENTITY GeneratedName.accesskey "J">
+<!ENTITY PrimaryEmail.label "E-mail">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY ScreenName.label "Účet pro IM">
+<!ENTITY ScreenName.accesskey "I">
+<!ENTITY Company.label "Společnost">
+<!ENTITY Company.accesskey "l">
+<!ENTITY NickName.label "Přezdívka">
+<!ENTITY NickName.accesskey "z">
+<!ENTITY SecondEmail.label "Další e-mail">
+<!ENTITY SecondEmail.accesskey "i">
+<!ENTITY Department.label "Oddělení">
+<!ENTITY Department.accesskey "O">
+<!ENTITY JobTitle.label "Pozice">
+<!ENTITY JobTitle.accesskey "P">
+<!ENTITY CellularNumber.label "Mobil">
+<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY PagerNumber.label "Pager">
+<!ENTITY PagerNumber.accesskey "P">
+<!ENTITY FaxNumber.label "Fax">
+<!ENTITY FaxNumber.accesskey "F">
+<!ENTITY HomePhone.label "Telefon domů">
+<!ENTITY HomePhone.accesskey "d">
+<!ENTITY WorkPhone.label "Telefon do zaměstnání">
+<!ENTITY WorkPhone.accesskey "z">
+<!ENTITY sortAscending.label "Vzestupně">
+<!ENTITY sortAscending.accesskey "V">
+<!ENTITY sortDescending.label "Sestupně">
+<!ENTITY sortDescending.accesskey "S">
+<!ENTITY _PhoneticName.label "Jméno foneticky">
+<!ENTITY _PhoneticName.accesskey "f">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading "Kontakt">
+<!ENTITY home.heading "Bydliště">
+<!ENTITY other.heading "Ostatní">
+<!ENTITY phone.heading "Telefon">
+<!ENTITY work.heading "Zaměstnání">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading "Popis">
+<!ENTITY addresses.heading "Adresy">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label "Načíst mapu">
+<!ENTITY mapIt.tooltip "Zobrazí tuto adresu na mapě na webu">
+
+<!-- Status Bar -->
+<!ENTITY statusText.label "">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label "Okno">
+<!ENTITY minimizeWindow.label "Minimalizovat">
+<!ENTITY minimizeWindow.key "M">
+<!ENTITY bringAllToFront.label "Přenést vše do popředí">
+<!ENTITY zoomWindow.label "Zvětšit okno">

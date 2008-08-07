@@ -1,0 +1,82 @@
+<!ENTITY updateWizard.title "Aktualizace aplikace">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em"> 
+
+<!ENTITY checking.title "Kontrola aktualizací">
+<!ENTITY checking.label "Aplikace &brandShortName; zjišťuje dostupnost aktualizací…">
+
+<!ENTITY cancel.label "Zrušit">
+<!ENTITY cancel.accesskey "Z">
+
+<!ENTITY noupdatesfound.title "Aktualizace nenalezeny">
+<!ENTITY noupdatesfound.intro "Nebyly nalezeny žádné nové aktualizace. Aplikace &brandShortName; může pravidelně zjišťovat jejich dostupnost.">
+
+
+<!ENTITY incompatibleChecking.label "Zkontrolovat, zda tato aktualizace způsobí problémy s Vašimi doplňky…">
+<!ENTITY clickHere.label "Zobrazit více informací o této aktualizaci">
+
+<!ENTITY incompatible.warning "Tato aktualizace aplikace způsobí, že některá vaše rozšíření či motivy vzhledu nebudou fungovat dokud je neaktualizujete.">
+
+<!ENTITY listIncompatible.label "Zobrazit seznam">
+<!ENTITY listIncompatible.accesskey "Z">
+
+<!ENTITY upgrade.evangelism "Je důrazně doporučováno aktualizovat aplikaci &brandShortName; co možná nejdříve.">
+
+
+<!ENTITY license.instructions "Pokud souhlasíte s podmínkami tohoto licenčního ujednání, klepněte na Souhlasím a pokračujte v instalaci aktualizace.">
+
+
+<!ENTITY license.titleText "Licenční ujednání">
+<!ENTITY license.introText "Podmínky pro užití tohoto software.">
+<!ENTITY license.instructionText "Přečtěte si prosím pozorně následující licenční ujednání. Pro zobrazení celého textu použijte posuvníky.">
+<!ENTITY license.accept "Souhlasím s podmínkami tohoto licenčního ujednání">
+<!ENTITY license.accept.accesskey "S">
+<!ENTITY license.decline "Nesouhlasím s podmínkami tohoto licenčního ujednání">
+<!ENTITY license.decline.accesskey "N">
+
+<!ENTITY downloading.title "Stahování aktualizací">
+<!ENTITY downloading.intro "Stahování aktualizací…">
+<!ENTITY connecting.label "Připojování k aktualizačnímu serveru…">
+<!ENTITY verificationFailedText.label "Aplikaci &brandShortName; se nepodařilo ověřit integritu stažené přírůstkové aktualizace, proto nyní stahuje celý aktualizační balíček.">
+
+
+
+<!ENTITY details.link "Podrobnosti">
+<!ENTITY pause.label "Pozastavit">
+<!ENTITY pause.accesskey "P">
+<!ENTITY close.label "Ukončit">
+<!ENTITY close.accesskey "k">
+
+<!ENTITY error.label "Při kontrole, stahování či instalaci aktualizace došlo k chybě. Aplikaci &brandShortName; se nepodařilo aktualizovat, protože: ">
+
+
+<!ENTITY errorManual.label "Aplikaci &brandShortName; doporučujeme aktualizovat ručně stažením nejnovější verze  z této stránky: "> 
+
+
+<!ENTITY errorpatching.title "Aktualizace se nezdařila">
+<!ENTITY errorpatching.intro "Použití rozdílové aktualizace se nezdařilo. Aplikace &brandShortName; se pokusí stáhnout kompletní aktualizaci.">
+
+
+<!ENTITY finished.title "Aktualizace stažena">
+<!ENTITY finished.text "Aktualizace byla úspěšně stažena, ověřena a bude nainstalována při příštím restartu aplikace &brandShortName;.">
+
+
+<!ENTITY finishedBackground.title "Aktualizace je připravena k instalaci">
+<!ENTITY finishedBackground.text "Aplikace &brandShortName; stáhla a ověřila důležitou aktualizaci. Pro více informací klepněte na odkaz níže.">
+
+<!ENTITY finishedBackground.name "Aktualizace:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY finishedBackground.more1 "Pro instalaci aktualizace klepněte na Restartovat aplikaci &brandShortName;.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow "Pro zavření tohoto dialogu a pokračování v práci klepněte na Odložit. &brandShortName;. nainstaluje aktualizace automaticky při dalším restartu.">
+
+
+<!ENTITY installed.title "Aktualizace nainstalována">
+<!ENTITY installed.intro "Aktualizace byla úspěšně nainstalována.">
+<!ENTITY whatsnew.label "Přečtěte si, co je nového…">
+
+<!ENTITY update.details.label "Podrobnosti">
+<!ENTITY update.installedOn.label "Nainstalováno dne:">
+<!ENTITY update.status.label "Stav:">
+ 

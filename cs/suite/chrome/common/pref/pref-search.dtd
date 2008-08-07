@@ -1,0 +1,23 @@
+<!-- extracted from content/pref-search.xul -->
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+
+<!ENTITY pref.search.title "Hledání na webu">
+<!ENTITY legendHeader "Výchozí vyhledávací modul">
+<!ENTITY defaultSearchEngine.label "Hledat za použití:">
+<!ENTITY defaultSearchEngine.accesskey "H">
+
+<!ENTITY openSidebarSearchPanel.label "Otevřít vyhledávací panel v postranní liště, pokud jsou dostupné výsledky vyhledávání">
+<!ENTITY openSidebarSearchPanel.accesskey "O">
+
+<!ENTITY openContextSearchTab.label "Otevírat panel místo okna při vyhledávání z místní nabídky">
+<!ENTITY openContextSearchTab.accesskey "t">
+
+<!ENTITY searchResults.label "Výsledky hledání">
+
+<!ENTITY sidebarSearchTabPref.label "Zobrazit panel Hledat jako">
+<!ENTITY searchModeBasic.label "Zjednodušený">
+<!ENTITY searchModeBasic.accesskey "J">
+<!ENTITY searchModeAdvanced.label "Podrobný">
+<!ENTITY searchModeAdvanced.accesskey "P">
+

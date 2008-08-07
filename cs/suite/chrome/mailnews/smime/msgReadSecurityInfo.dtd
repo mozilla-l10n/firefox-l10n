@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "Zabezpečení zprávy">
+<!ENTITY signatureCert.label "Zobrazit certifikát pro podpis">
+<!ENTITY encryptionCert.label "Zobrazit certifikát pro šifrování">
+
+<!ENTITY signer.name "Podepsáno:">
+<!ENTITY recipient.name "Zašifrováno pro:">
+<!ENTITY email.address "Adresa elektronické pošty:">
+<!ENTITY issuer.name "Certifikát vydal:">

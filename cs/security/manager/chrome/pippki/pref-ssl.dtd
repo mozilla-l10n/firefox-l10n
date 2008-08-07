@@ -1,0 +1,67 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Bob Lord <lord@netscape.com>
+   -   Terry Hayes <thayes@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY SSLProtocolVersions.caption "Verze SSL protokolu">
+<!ENTITY SSLWarnings.caption "SSL upozornění">
+<!ENTITY SSLClientAuthMethod.caption "Výběr certifikátů klienta">
+
+<!ENTITY pref.ssl.title "SSL">
+<!ENTITY enable.ssl3 "Povolit SSL verze 3">
+<!ENTITY enable.ssl3.accesskey "3">
+<!ENTITY enable.tls "Povolit TLS">
+<!ENTITY enable.tls.accesskey "T">
+
+<!ENTITY warn.description "Aplikace &brandShortName; vás může upozornit na stav zabezpečení stránky, kterou si prohlížíte. Nastavit aplikaci &brandShortName; tak, aby ukazovala upozornění a zjišťovala pravomoci stránky před:">
+<!ENTITY warn.enteringsecure "Vstupem na stránku, která podporuje šifrování">
+<!ENTITY warn.enteringsecure.accesskey "V">
+<!ENTITY warn.enteringweak "Vstupem na stránku, která používá slabou šifru">
+<!ENTITY warn.enteringweak.accesskey "s">
+<!ENTITY warn.insecurepost "Zasláním dat z formuláře na nezabezpečené stránce na nezabezpečenou stránku">
+<!ENTITY warn.insecurepost.accesskey "Z">
+<!ENTITY warn.leavingsecure "Opuštění stránky, která podporuje šifrování">
+<!ENTITY warn.leavingsecure.accesskey "O">
+<!ENTITY warn.secureredirect "Přesměrováním z jedné zabezpečené stránky na druhou">
+<!ENTITY warn.secureredirecttoinsecure "Přesměrováním ze zabezpečené stránky na nezabezpečenou stránku">
+<!ENTITY warn.viewmixed "Zobrazením stránky se směsicí zašifrovaných i nezašifrovaných dat">
+<!ENTITY warn.viewmixed.accesskey "b">
+
+<!ENTITY certselect.description "Rozhodněte, jaký certifikát má aplikace &brandShortName; předkládat stránkám, které jej vyžadují">
+<!ENTITY certselect.auto "Vybírat automaticky">
+<!ENTITY certselect.auto.accesskey "a">
+<!ENTITY certselect.ask "Vždy se dotázat">
+<!ENTITY certselect.ask.accesskey "d">

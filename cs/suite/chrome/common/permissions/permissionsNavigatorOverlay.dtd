@@ -1,0 +1,45 @@
+<!-- the following is for the task menu overlay -->
+
+<!ENTITY cookieMessageTitle.label "Oprávnění ke cookies bylo změněno">
+<!ENTITY cookieDisplayCookiesCmd.label "Správa cookies">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "C">
+<!ENTITY cookieAllowCookiesCmd.label "Povolit cookies z tohoto serveru">
+<!ENTITY cookieAllowCookiesCmd.accesskey "P">
+<!ENTITY cookieAllowCookiesMsg.label "Cookies z tohoto serveru budou vždy povoleny.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Povolit cookies pro relaci z tohoto serveru">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Tento server bude moci nastavit cookies pouze pro aktuální relaci.">
+<!ENTITY cookieCookiesDefaultCmd.label "Použít výchozí oprávnění pro cookies">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "U">
+<!ENTITY cookieCookiesDefaultMsg.label "Cookies budou pro tento server povolena/zakázána na základě výchozího nastavení.">
+<!ENTITY cookieBlockCookiesCmd.label "Blokovat cookies z tohoto serveru">
+<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesMsg.label "Cookies z tohoto serveru budou vždy zakázány.">
+
+<!ENTITY cookieImageMessageTitle.label "Oprávnění k obrázkům změněno">
+<!ENTITY cookieDisplayImagesCmd.label "Správa obrázků">
+<!ENTITY cookieDisplayImagesCmd.accesskey "O">
+<!ENTITY cookieAllowImagesCmd.label "Povolit obrázky z tohoto serveru">
+<!ENTITY cookieAllowImagesCmd.accesskey "P">
+<!ENTITY cookieAllowImagesMsg.label "Obrázky z tohoto serveru budou vždy staženy.">
+<!ENTITY cookieImagesDefaultCmd.label "Použít výchozí nastavení práv k obrázkům">
+<!ENTITY cookieImagesDefaultCmd.accesskey "U">
+<!ENTITY cookieImagesDefaultMsg.label "Obrázky z tohoto serveru budou staženy na základě výchozího nastavení.">
+<!ENTITY cookieBlockImagesCmd.label "Blokovat obrázky z tohoto serveru">
+<!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesMsg.label "Obrázky z tohoto serveru nebudou nikdy stahovány.">
+
+<!ENTITY cookieAllowPopupsCmd.label "Povolit vyskakovací okna pro tento server">
+<!ENTITY cookieAllowPopupsCmd.accesskey "A">
+<!ENTITY cookieManagePopups.label "Správa vyskakovacích oken">
+<!ENTITY cookieManagePopups.accesskey "V">
+
+<!ENTITY cookieTutorialCmd.label "Rozumíme bezpečnosti">
+<!ENTITY cookieTutorialCmd.accesskey "u">
+
+<!ENTITY cookieCookieManager.label "Správce cookies">
+<!ENTITY cookieCookieManager.accesskey "c">
+<!ENTITY cookieImageManager.label "Správce obrázků">
+<!ENTITY cookieImageManager.accesskey "o">
+<!ENTITY cookiePopupManager.label "Správce vyskakovacích oken">
+<!ENTITY cookiePopupManager.accesskey "o">

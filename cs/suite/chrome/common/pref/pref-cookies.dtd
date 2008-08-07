@@ -1,0 +1,37 @@
+<!ENTITY pref.cookies.title "Cookies">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label "Pravidla pro akceptování cookies">
+
+<!ENTITY accAllCookiesRadio.label "Povolit všechny cookies">
+<!ENTITY accAllCookiesRadio.accesskey "c">
+
+<!ENTITY accOrgCookiesRadio.label "Povolit pouze cookies pro zdrojový server">
+<!ENTITY accOrgCookiesRadio.accesskey "o">
+
+<!ENTITY disableCookies.label "Blokovat cookies">
+<!ENTITY disableCookies.accesskey "B">
+
+<!ENTITY cookieRetentionPolicy.label "Pravidla pro zamítnutí cookies">
+
+<!ENTITY acceptNormally.label "Povolit cookies standardně">
+<!ENTITY acceptNormally.accesskey "n">
+
+<!ENTITY acceptForSession.label "Povolit cookies pouze pro aktuální relaci">
+<!ENTITY acceptForSession.accesskey "s">
+
+<!ENTITY acceptforNDays.label "Povolit cookies pro">
+<!ENTITY acceptforNDays.accesskey "c">
+<!ENTITY days.label "dny(ů)">
+
+<!ENTITY warnAboutCookies.label "Ptát se pro každou cookie">
+<!ENTITY warnAboutCookies.accesskey "A">
+<!ENTITY forCurrentSession.label "kromě cookies pro relaci">
+<!ENTITY forCurrentSession.accesskey "e">
+
+<!ENTITY manageCookies.label "Správa cookies a serverů">
+<!ENTITY manageCookiesDescription.label "Povolit zobrazení a správu uložených cookies na základě povolení či zamítnutí  pro konkrétní server. Nastavení pro konkrétní server má vyšší prioritu než nastavení výše.">
+
+<!ENTITY viewCookies.label "Správce cookies">
+<!ENTITY viewCookies.accesskey "C">

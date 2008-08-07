@@ -1,0 +1,3 @@
+<!-- folder pane context menu item -->
+<!ENTITY folderContextRSSSubscribe.label "Správce RSS kanálů…">
+<!ENTITY folderContextRSSSubscribe.accesskey "s">

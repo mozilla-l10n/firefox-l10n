@@ -1,0 +1,28 @@
+<!ENTITY find.label "Hledat:">
+<!ENTITY find.accesskey "H">
+<!ENTITY expand.label "Rozbalit">
+<!ENTITY expand.accesskey "R">
+<!ENTITY collapse.label "Sbalit">
+<!ENTITY collapse.accesskey "b">
+<!ENTITY byDate.label "Podle data">
+<!ENTITY byDate.accesskey "d">
+<!ENTITY bySite.label "Podle názvu stránky">
+<!ENTITY bySite.accesskey "s">
+<!ENTITY view.label "Zobrazit">
+<!ENTITY view.accesskey "Z">
+<!ENTITY byMostVisited.label "Podle počtu návštěv">
+<!ENTITY byMostVisited.accesskey "n">
+<!ENTITY byLastVisited.label "Podle poslední návštěvy">
+<!ENTITY byLastVisited.accesskey "P">
+<!ENTITY byDayAndSite.label "Podle data a serveru">
+<!ENTITY byDayAndSite.accesskey "a">
+<!ENTITY openLinkInWindow.label "Otevřít">
+<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openInNewTab.label "Otevřít v novém panelu">
+<!ENTITY openInNewTab.accesskey "p">
+<!ENTITY openInNewWindow.label "Otevřít v novém okně">
+<!ENTITY openInNewWindow.accesskey "O">
+<!ENTITY bookmarkLink.label "Přidat odkaz k záložkám…">
+<!ENTITY bookmarkLink.accesskey "P">
+<!ENTITY copyLink.label "Kopírovat adresu odkazu">
+<!ENTITY copyLink.accesskey "K">

@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Pro ušetření místa na disku nestahovat:">
+<!ENTITY doNotDownload.label "Pro ušetření místa na disku nestahovat pro offline použití:">
+<!ENTITY offlineNewFolder.label "Když vytvářím nové složky, označ je pro offline">
+<!ENTITY offlineNewFolder.accesskey "f">
+<!ENTITY offlineNotDownload.label "Zprávy větší než">
+<!ENTITY offlineNotDownload.accesskey "n">
+<!ENTITY kb.label "kB">
+<!ENTITY days.label "dní">
+<!ENTITY daysOld.label "dny(ů)">
+<!ENTITY message.label "zpráv">
+<!ENTITY nntpNotDownloadRead.label "Přečtené zprávy">
+<!ENTITY nntpNotDownloadRead.accesskey "P">
+<!ENTITY nntpDownloadMsg.label "Zprávy starších než">
+<!ENTITY nntpDownloadMsg.accesskey "t">
+<!ENTITY retentionCleanup.label "Pro ušetření místa na disku lze staré zprávy automaticky mazat">
+<!ENTITY retentionKeepMsg.label "Smazat zprávy starší než">
+<!ENTITY retentionKeepMsg.accesskey "S">
+<!ENTITY retentionKeepAll.label "Nemazat žádné zprávy">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepNew.label "Smazat vše mimo posledních">
+<!ENTITY retentionKeepNew.accesskey "m">
+<!ENTITY retentionKeepUnread.label "Vždy smazat přečtené zprávy">
+<!ENTITY retentionKeepUnread.accesskey "d"> 
+<!ENTITY nntpRemoveBody.label "Odstranit těla zpráv starších než">
+<!ENTITY nntpRemoveBody.accesskey "r">
+<!ENTITY offlineSelectNntp.label "Vybrat diskusní skupiny pro offline použití…">
+<!ENTITY offlineSelectNntp.accesskey "V">
+<!ENTITY offlineSelectImap.label "Vyberte složky pro použití v offline režimu…">
+<!ENTITY offlineSelectImap.accesskey "V">
+<!ENTITY offlineDesc.label "Režim offline vám umožňuje uložit zprávy, aby byly k dispozici když jste odpojeni od serveru. Tlačítkem &quot;Vybrat&quot; vyberte zprávy, které budou k dispozici když jste offline.">
+<!ENTITY makeInboxMsgsAvailable.label "Zpřístupnit zprávy ve složce Doručená pošta při práci offline">
+<!ENTITY makeInboxMsgsAvailable.accesskey "t">
+<!ENTITY offlineGroupTitle.label "Režim offline">
+<!ENTITY diskspaceGroupTitle.label "Místo na disku">

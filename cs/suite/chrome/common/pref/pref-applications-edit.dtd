@@ -1,0 +1,24 @@
+
+<!ENTITY editType.label "Upravit typ">
+<!ENTITY newType.label "Nový typ">
+<!ENTITY extension.label "Přípona:">
+<!ENTITY extension.accesskey "N">
+<!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
+<!ENTITY mimetype.label "Typ MIME:">
+<!ENTITY mimetype.accesskey "m">
+<!ENTITY description.label "Popis:">
+<!ENTITY description.accesskey "p">
+
+<!ENTITY handling.label "Pokud je detekován soubor tohoto typu">
+<!ENTITY useDefault.label "Použít nastavení systému">
+<!ENTITY useDefault.accesskey "s">
+<!ENTITY saveToDisk.label "Uložit na disk">
+<!ENTITY saveToDisk.accesskey "u">
+<!ENTITY application.label "Aplikace">
+<!ENTITY application.accesskey "a">
+
+<!ENTITY browse.label "Vybrat…">
+<!ENTITY browse.accesskey "v">
+
+<!ENTITY askBeforeOpen.label "Zeptat se před otevřením souborů tohoto typu">
+<!ENTITY askBeforeOpen.accesskey "d">

@@ -1,0 +1,23 @@
+<!ENTITY askOnSave.label "Složka pro přílohy">
+<!ENTITY alwaysAsk.label "U každého souboru se zeptat, kam ho uložit">
+<!ENTITY alwaysAsk.accesskey "k">
+<!ENTITY neverAsk.label "Uložit všechny přílohy do složky:">
+<!ENTITY neverAsk.accesskey "U">
+<!ENTITY desktop.label "Pracovní plocha">
+<!ENTITY downloads.label "Moje stažené soubory">
+<!ENTITY chooseFolderWin.label "Procházet…">
+<!ENTITY chooseFolderWin.accesskey "P">
+<!ENTITY chooseFolderMac.label "Vybrat…">
+<!ENTITY chooseFolderMac.accesskey "V">
+
+<!ENTITY fileTypes.label "Akce pro stahování">
+<!ENTITY configureActions.label "Zobrazit a upravit akce">
+<!ENTITY configureActions.accesskey "Z">
+<!ENTITY fileTypesDescription.label "Aplikace &brandShortName; může automaticky stahovat či otevírat soubory určitých typů.">
+
+<!ENTITY fileTypeColName.label "Typ souboru">
+<!ENTITY fileHandlerColName.label "Aplikace">
+<!ENTITY editFileHandler.label "Změnit akci…">
+<!ENTITY editFileHandler.accesskey "Z">
+<!ENTITY removeFileHandler.label "Odebrat">
+<!ENTITY removeFileHandler.accesskey "O">

@@ -1,0 +1,29 @@
+<!-- extracted from content/pref-cache.xul -->
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+
+<!ENTITY pref.cache.title "Vyrovnávací paměť">
+<!ENTITY pref.cache.caption "Nastavení vyrovnávací paměti">
+<!ENTITY cachePara "Často používané dokumenty mohou být ukládány do vyrovnávací paměti pro rychlejší přístup k webu. Při stažení dokumentu dojde k porovnání dokumentu z vyrovnávací paměti s dokumentem ze sítě, přičemž se vybere poslední verze dokumentu. (Klepnutím na tlačítko Obnovit zobrazíte vždy aktuální verzi stránky.)">
+<!ENTITY diskCache.label "Disková vyrovnávací paměť:">
+<!ENTITY diskCache.accesskey "D">
+<!ENTITY mbytes "MB">
+<!ENTITY diskCacheFolder.label "Umístění diskové vyrovnávací paměti:">
+<!ENTITY clearDiskCache.label "Vyčistit diskovou vyrovnávací paměť">
+<!ENTITY clearDiskCache.accesskey "D">
+<!ENTITY chooseDiskCacheFolder.label "Vybrat složku…">
+<!ENTITY chooseDiskCacheFolder.accesskey "B">
+<!ENTITY diskCacheFolderExplanation "Dočasné soubory budou uloženy v podadresáři &quot;Cache&quot; zadaného adresáře. Pro potvrzení změn je potřeba restartovat aplikaci &brandShortName;.">
+<!ENTITY docCache "Dokument ve vyrovnávací paměti je porovnáván s dokumentem na síti:">
+<!ENTITY oncePsessionRadio.label "Jednou za relaci">
+<!ENTITY oncePsessionRadio.accesskey "J">
+<!ENTITY everyTimeRadio.label "Při každém zhlédnutí stránky">
+<!ENTITY everyTimeRadio.accesskey "Z">
+<!ENTITY neverRadio.label "Nikdy">
+<!ENTITY neverRadio.accesskey "N">
+<!ENTITY autoRadio.label "Automaticky">
+<!ENTITY autoRadio.accesskey "A">
+
+<!ENTITY prefetchTitle.label "Načítat odkazy dopředu">
+<!ENTITY enablePrefetch.label "Načítat dopředu odkazy ze stránky v době nečinnosti. Odkazy se potom zobrazí rychleji">
+<!ENTITY enablePrefetch.accesskey "P">
+<!-- <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->

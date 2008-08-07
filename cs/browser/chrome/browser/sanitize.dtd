@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "Vymazání důvěrných dat">
+
+<!ENTITY sanitizeItems.label "Vymazat následující položky:">
+<!ENTITY clearDataSettings.label "Při mazání důvěrných dat z aplikace &brandShortName; vymazat následující:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label "Historie stránek">
+<!ENTITY itemHistory.accesskey "H">
+<!ENTITY itemFormSearchHistory.label "Formuláře a historie hledání">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "Uložená hesla">
+<!ENTITY itemPasswords.accesskey "U">
+<!ENTITY itemCookies.label "Cookies">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "Vyrovnávací paměť">
+<!ENTITY itemCache.accesskey "p">
+<!ENTITY itemOfflineApps.label "Offline obsah">
+<!ENTITY itemOfflineApps.accesskey "O">
+<!ENTITY itemDownloads.label "Historie stahování">
+<!ENTITY itemDownloads.accesskey "s"> 
+<!ENTITY itemSessions.label "Relace s autentizací">
+<!ENTITY itemSessions.accesskey "R">
+<!ENTITY window.width "30em">

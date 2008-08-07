@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Sean Umphlet <nosebleed@umphlet.com> (minor bugfixes)
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Pavel Franc <franc@czilla.cz> (translation)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Klávesové zkratky &brandFullName;u</title>
+  <link rel="stylesheet" type="text/css"
+    href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Klávesové zkratky &brandFullName;u</h1>
+
+<p>Toto je seznam nejvíce používaných klávesových zkratek v prohlížeči &brandFullName;. 
+<span class="unix">Pokud máte povolené upravitelné klávesové zkratky ve stylu Emacs v GNOME,
+můžete s nimi též pracovat ve &brandShortName;u. Pokud nastane nějaký konflikt 
+s výchozími klávesovými zkratkami (například s &accelKey;+<kbd>K</kbd>), klávesové 
+zkratky Emacs budou upřednostněny pokud se nacházíte v textovém editačním poli (též platí na 
+adresní řádek či pole vyhledávání). V těchto případech budou použity
+alternativní klávesové zkratky.</span></p>  
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Příkaz</th>
+      <th>Klávesové zkratky</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">Navigace</th>
+    </tr>
+    <tr>
+      <td>Zpět</td>
+       <td>
+         <span class="win">
+           &altKey;+<kbd>Šipka doleva</kbd><br/>
+          <kbd>Backspace</kbd>
+         </span>
+         <span class="unix">
+           &altKey;+<kbd>Šipka doleva</kbd><br/>
+           &accelKey;+<kbd>[</kbd>
+         </span>
+         <span class="mac">
+           &accelKey;+<kbd>[</kbd><br/>
+           &accelKey;+<kbd>Šipka doleva</kbd><br />
+           <kbd>Delete</kbd>
+         </span>
+       </td>
+    </tr>
+    <tr>
+      <td>Vpřed</td>
+      <td>
+         <span class="win">
+           &altKey;+<kbd>Šipka vpravo</kbd><br/>
+           &shiftKey;+<kbd>Backspace</kbd>
+         </span>
+         <span class="unix">
+           &altKey;+<kbd>Šipka vpravo</kbd><br/>
+           &accelKey;+<kbd>]</kbd>
+         </span>
+         <span class="mac">
+           &accelKey;+<kbd>]</kbd><br/>
+           &accelKey;+<kbd>Šipka vpravo</kbd><br />
+            &shiftKey;+<kbd>Delete</kbd>  
+         </span>
+       </td>
+    </tr>
+    <tr>
+      <td>Domů</td>
+      <td>&altKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Otevřít soubor</td>
+      <td>&accelKey;+<kbd>O</kbd></td>
+    </tr>
+    <tr>
+      <td>Obnovit</td>
+      <td><kbd>F5<br/></kbd>
+        &accelKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Obnovit (přemazat mezipaměť)</td>
+      <td><span class="noMac">&ctrlKey;+<kbd>F5</kbd><br/></span>
+        &accelKey;+&shiftKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Zastavit</td>
+      <td><span class="mac">&accelKey;+<kbd>.</kbd><br/></span>
+        <kbd>Esc</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Aktuální stránka</th>
+    </tr>
+    <tr>
+      <td>Přejít na stránce dolů</td>
+      <td><kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>Přejít na stránce nahoru</td>
+      <td><kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Přejít na další rámec</td>
+      <td><kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>Přejít na předchozí rámec</td>
+      <td>&shiftKey;+<kbd>F6</kbd></td>
+    </tr>
+    <tr class="noWin">
+      <td>Informace o stránce</td>
+      <td>&accelKey;+<kbd>I</kbd></td>
+    </tr>
+    <tr>
+      <td>Zdrojový kód stránky</td>
+      <td>&accelKey;+<kbd>U</kbd></td>
+    </tr>
+    <tr>
+      <td>Tisk</td>
+      <td>&accelKey;+<kbd>P</kbd></td>
+    </tr>
+    <tr>
+      <td>Uložit stránku jako</td>
+      <td>&accelKey;+<kbd>S</kbd></td>
+    </tr>
+    <tr>
+      <td>Velikost textu: Zmenšit</td>
+      <td>&accelKey;+<kbd>-</kbd></td>
+    </tr>
+    <tr>
+      <td>Velikost textu: Zvětšit</td>
+      <td>&accelKey;+<kbd>+</kbd></td>
+    </tr>
+    <tr>
+      <td>Velikost textu: Obnovit</td>
+      <td>&accelKey;+<kbd>0</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Úpravy</th>
+    </tr>
+    <tr>
+      <td>Kopírovat</td>
+      <td>&accelKey;+<kbd>C</kbd></td>
+    </tr>
+    <tr>
+      <td>Vyjmout</td>
+      <td>&accelKey;+<kbd>X</kbd></td>
+    </tr>
+    <tr>
+      <td>Vymazat</td>
+      <td><kbd>Delete</kbd></td>
+    </tr>
+    <tr>
+      <td>Vložit</td>
+      <td>&accelKey;+<kbd>V</kbd></td>
+    </tr>
+    <tr>
+      <td>Znovu</td>
+      <td><span class="win">&accelKey;+<kbd>Y</kbd></span>
+        <span class="noWin">&accelKey;+&shiftKey;+<kbd>Z</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Vybrat vše</td>
+      <td>&accelKey;+<kbd>A</kbd></td>
+    </tr>
+    <tr>
+      <td>Zpět (v editačním prvku)</td>
+      <td>&accelKey;+<kbd>Z</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Vyhledat</th>
+    </tr>
+    <tr>
+      <td>Najít</td>
+      <td>&accelKey;+<kbd>F</kbd></td>
+    </tr>
+    <tr>
+      <td>Najít další</td>
+      <td><kbd>F3</kbd><br/>
+        &accelKey;+<kbd>G</kbd></td>
+    </tr>
+    <tr>
+      <td>Hledat během psaní odkazy</td>
+      <td><kbd>'</kbd></td>
+    </tr>
+    <tr>
+      <td>Hledat během psaní text</td>
+      <td><kbd>/</kbd></td>
+    </tr>
+    <tr>
+      <td>Najít předchozí</td>
+      <td>&shiftKey;+<kbd>F3</kbd></td>
+    </tr>
+    <tr>
+      <td>Hledání na webu</td>
+      <td>&accelKey;+<kbd>K</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>E</kbd></span>
+        <span class="unix"><br/>&accelKey;+<kbd>J</kbd></span></td>
+    </tr>
+  </tbody>
+  <tbody id="windows_tabs">
+    <tr>
+      <th colspan="2">Okna a panely</th>
+    </tr>
+    <tr>
+      <td>Zavřít panel</td>
+      <td>&accelKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&ctrlKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Zavřít okno</td>
+      <td>&accelKey;+&shiftKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&altKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Nový panel</td>
+      <td>&accelKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>Nové okno</td>
+      <td>&accelKey;+<kbd>N</kbd></td>
+    </tr>
+    <tr>
+      <td>Další panel</td>
+      <td>&ctrlKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Right Arrow<br/></span>
+        &ctrlKey;+<kbd>Page Down</kbd></td>
+    </tr>
+    <tr>
+      <td>0tevřít adresu v novém panelu</td>
+      <td>&altKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Předchozí panel</td>
+      <td>&ctrlKey;+&shiftKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Left Arrow<br/></span>  
+        &ctrlKey;+<kbd>Page Up</kbd></td>
+    </tr>
+    
+     <tr>
+       <td>Přesunout panel doleva (když je vybrán)</td>
+       <td>&accelKey;+<kbd>Šipka doleva</kbd><br/>
+          &accelKey;+<kbd>Šipka nahoru</kbd></td>
+     </tr>
+     <tr>
+       <td>Přesunout panel doprava (když je vybrán)</td>
+       <td>&accelKey;+<kbd>Šipka doprava</kbd><br/>
+           &accelKey;+<kbd>Šipka dolu</kbd></td>
+     </tr>
+     <tr>
+       <td>Přesunout panel na začátek (když je vybrán)</td>
+       <td>&accelKey;+<kbd>Home</kbd></td>
+     </tr>
+     <tr>
+       <td>Přesunout panel na konec (když je vybrán)</td>
+       <td>&accelKey;+<kbd>End</kbd></td>
+     </tr>        
+     <tr>        
+      <td>Obnovit naposledy zavřený panel</td>                                      
+      <td>&accelKey;+&shiftKey;+<kbd>T</kbd></td>                               
+    </tr>                                                                       
+    <tr>
+      <td>Volba panelu (1 až 8)</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+(<kbd>1</kbd> to <kbd>8</kbd>)</td>
+    </tr>
+    <tr>                                                                        
+      <td>Volba posledního panelu</td>                                                  
+      <td><span class="noUnix">&accelKey;</span><span                           
+        class="unix">&altKey;</span>+<kbd>9</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Nástroje</th>
+    </tr>
+    <tr class="noUnix">
+      <td>Přidat všechny panely do záložek</td>
+      <td>&accelKey;+&shiftKey;+<kbd>D</kbd></td>    
+    </tr>
+    <tr>
+      <td>Přidat stránku do záložek</td>
+      <td>&accelKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>Záložky</td>
+      <td>&accelKey;+<kbd>B</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>I</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Prohlížení kurzorem</td>
+      <td><kbd>F7</kbd></td>
+    </tr>
+    <tr>
+      <td>Správce stahování</td>
+      <td><span class="noUnix">&accelKey;+<kbd>J</kbd></span>
+        <span class="unix">&accelKey;+<kbd>Y</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Historie</td>
+      <td><span class="noMac">&accelKey;+<kbd>H</kbd></span>
+        <span class="mac">&accelKey;+&shiftKey;+<kbd>H</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Vymazat důvěrná data</td>
+      <td>&accelKey;+&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Ostatní</th>
+    </tr>
+    <tr>
+      <td>Doplnění domény .cz</td>
+      <td>&accelKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Doplnění domény .net</td>
+      <td>&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Doplnění domény .org</td>
+      <td>&accelKey;+&shiftKey;+&enterKey;</td>
+    </tr>	
+    <tr>
+      <td>Vymazání vybrané položky zadané do formuláře</td>
+      <td><span class="noMac"><kbd>Del</kbd></span>                             
+        <span class="mac">&shiftKey;+<kbd>Del</kbd></span></td>
+    </tr>
+    <tr class="noMac">
+      <td>Celá obrazovka</td>
+      <td><kbd>F11</kbd></td>
+    </tr>
+    <tr>
+      <td>Zvolení adresního řádku</td>
+      <td><span class="noMac">&altKey;+<kbd>D</kbd><br/></span>
+        <kbd>F6</kbd><br />
+        &accelKey;+<kbd>L</kbd></td>
+    </tr>
+    <tr> 
+      <td>Změna vyhledávacího modul (v poli vyhledávání)</td> 
+      <td>&accelKey;+<kbd>Šipka nahoru</kbd><br/>
+        &accelKey;+<kbd>Šipka dolů</kbd><span class="noMac"><br/>                 
+        <kbd>F4</kbd></span></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="contentsBox"><em>16. září 2006</em></div>
+<p>Copyright &copy; &copyright.years; Spolupracovníci projektu Nápověda Mozilly.</p>
+
+
+</body>
+</html>

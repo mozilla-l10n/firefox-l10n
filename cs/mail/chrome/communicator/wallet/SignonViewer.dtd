@@ -1,0 +1,15 @@
+<!ENTITY windowtitle.label "Správce hesel">
+<!ENTITY windowalttitle.label "Správce formulářů">
+<!ENTITY tab.signonsstored.label "Uložená hesla">
+<!ENTITY tab.signonsnotstored.label "Neukládaná hesla">
+<!ENTITY tab.nopreview.label "Formuláře bez náhledu">
+<!ENTITY tab.nocapture.label "Neuložené formuláře">
+<!ENTITY spiel.signonsstored.label "Správce hesel uložil informace o přihlášení pro tyto servery:">
+<!ENTITY spiel.signonsnotstored.label "Správce hesel nebude ukládat informace o přihlášení pro tyto servery:">
+<!ENTITY spiel.nopreview.label "Správce formulářů nebude vytvářet náhled formulářů následujících serverů dříve, než je vyplní:">
+<!ENTITY spiel.nocapture.label "Správce formulářů se nebude dotazovat před uložením formulářů na následujících serverech:">
+<!ENTITY treehead.site.label "Server">
+<!ENTITY treehead.username.label "Uživatelské jméno">
+<!ENTITY treehead.password.label "Heslo">
+<!ENTITY remove.label "Odebrat">
+<!ENTITY removeall.label "Odstranit vše">

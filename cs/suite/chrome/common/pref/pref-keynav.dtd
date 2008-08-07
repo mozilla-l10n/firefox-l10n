@@ -1,0 +1,21 @@
+<!ENTITY pref.keyNav.title "Klávesnice">
+<!ENTITY tabNavigationBehavior.label "Navigace pomocí kláves">
+<!ENTITY tabNavigationLinks.label "Odkazy">
+<!ENTITY tabNavigationLinks.accesskey "K">
+<!ENTITY tabNavigationForms.label "Tlačítka, přepínací tlačítka, zaškrtávací boxy a seznamy">
+<!ENTITY tabNavigationForms.accesskey "T">
+<!ENTITY tabNavigationTextboxes.label "Pozn.: Vstupní textová políčka jsou vždy součástí přepínání.">
+<!ENTITY tabNavigationDesc.label "Pokud je stisknut Tab nebo Shift+Tab, přepnout mezi:">
+<!ENTITY findAsYouTypeBehavior.label "Najít přímo při psaní">
+<!ENTITY findAsYouTypeTip.label "Tip: pokud chcete ručně spustit funkci Najít psaný text, napište / pro hledání textu nebo ' pro hledání odkazů a následně napište hledaný text.">
+<!ENTITY findAsYouTypeTimeout.label "Vyčistit aktuální hledání po několika sekundách nečinnosti">
+<!ENTITY findAsYouTypeTimeout.accesskey "V">
+<!ENTITY findAsYouTypeSound.label "Přehrát zvuk, pokud není nalezen daný text">
+<!ENTITY findAsYouTypeSound.accesskey "P">
+<!ENTITY findAsYouTypeEnableAuto.label "Najít automaticky při psaní na webové stránce:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
+<!ENTITY findAsYouTypeAutoText.label "Libovolný text na stránce">
+<!ENTITY findAsYouTypeAutoText.accesskey "L">
+<!ENTITY findAsYouTypeAutoLinks.label "Pouze odkazy">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "o">
+

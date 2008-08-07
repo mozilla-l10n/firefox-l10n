@@ -1,0 +1,118 @@
+<!--
+   -
+   - ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is The JavaScript Debugger.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Ginda, <rginda@netscape.com>, original author
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY MainWindow.title "Debugger JavaScriptu">
+
+<!-- floating views -->
+<!ENTITY ViewFloat.tooltip "Klepnutím zde změníte pohled na ne/plovoucí">
+<!ENTITY ViewGrippy.tooltip "Tažením titulku posunute pohled">
+<!ENTITY ViewClose.tooltip "Klepnutím zde zavřete pohled">
+
+<!-- help menu -->
+<!ENTITY Help.commands "Příručka příkazů">
+<!ENTITY Help.about "O aplikaci Venkman">
+
+<!-- toolips -->
+<!ENTITY DebugBar.tooltip "Lišta ladění">
+<!ENTITY MenuBar.tooltip "Lišta nabídky">
+
+<!-- breakpoint view -->
+<!ENTITY Break.label "Zarážky">
+<!ENTITY BreakCol0.label "Názeve">
+<!ENTITY BreakCol1.label "Řádka/PC">
+
+<!-- locals view -->
+<!ENTITY Locals.label "Lokální proměnné">
+<!ENTITY LocalsCol0.header "Název">
+<!ENTITY LocalsCol1.header "Typ">
+<!ENTITY LocalsCol2.header "Hodnota">
+<!ENTITY LocalsCol3.header "Příznak">
+
+<!-- session view -->
+<!ENTITY Session.label "Interaktivní relace">
+
+<!-- script view -->
+<!ENTITY Scripts.label "Nahrané skripty">
+<!ENTITY ScriptsSearch.label "Hledat">
+<!ENTITY ScriptsSearch.tooltip "Klepnutím zde vymažete hledací pole">
+<!ENTITY ScriptsCol0.header "Název">
+<!ENTITY ScriptsCol1.header "Řádka">
+<!ENTITY ScriptsCol2.header "Délka">
+
+<!-- source view -->
+<!ENTITY Source.label "Zdrojový kód">
+<!ENTITY SourceHeader.tip "Lišta zdroje">
+<!ENTITY SourceCol0.display "Okraj">
+<!ENTITY SourceCol1.display "Číslo řádku">
+
+<!-- stack view -->
+<!ENTITY Stack.label "Zásobník volání">
+<!ENTITY StackCol0.header "Název">
+<!ENTITY StackCol1.header "Umístění">
+
+<!-- watch view -->
+<!ENTITY Watch.label "Kukátka">
+<!ENTITY WatchCol0.header "Název">
+<!ENTITY WatchCol1.header "Typ">
+<!ENTITY WatchCol2.header "Hodnota">
+<!ENTITY WatchCol3.header "Příznak">
+
+<!-- window view -->
+<!ENTITY Windows.label "Otevřená okna">
+<!ENTITY WindowsCol0.label "Soubor">
+
+<!-- breakpoint properties window -->
+<!ENTITY BPProps.URL.label "URL">
+<!ENTITY BPProps.Line.label "Řádka">
+<!ENTITY BPProps.PC.label "PC">
+<!ENTITY BPProps.FunctionName.label "Funkce">
+<!ENTITY BPProps.TriggerCount.label "Počet spouštěčů">
+<!ENTITY BPProps.OneTime.label "Vymazat zarážky po prvním spouštěči">
+<!ENTITY BPProps.Then.label "potom …">
+<!ENTITY BPProps.ConditionalCheck.label "Pokud je vyvolán spouštěč, proveď…">
+<!ENTITY BPProps.NeverStopRadio.label "Pokračovat bez ohledu na výsledek">
+<!ENTITY BPProps.AlwaysStopRadio.label "Skončit bez ohledu na výsledek">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Skončit pokud je výsledek pravda">
+<!ENTITY BPProps.EarlyReturnRadio.label "Předčasný návrat z volajícího s výsledkem">
+<!ENTITY BPProps.PassExceptionsCheck.label "Předat vyjímku volajícímu">
+<!ENTITY BPProps.LogResultCheck.label "Zaznamenat výsledek">
+<!ENTITY BPProps.Apply.label "Použít">
+<!ENTITY BPProps.Revert.label "Vrátit změny">
+<!ENTITY BPProps.Close.label "Zavřít">
+

@@ -1,0 +1,7 @@
+<!ENTITY window.title "Přizpůsobení záhlaví">
+<!ENTITY addButton.label "Přidat">
+<!ENTITY addButton.accesskey "P">
+<!ENTITY removeButton.label "Odebrat">
+<!ENTITY removeButton.accesskey "r">
+<!ENTITY newMsgHeader.label "Nové záhlaví zprávy:">
+<!ENTITY newMsgHeader.accesskey "N">

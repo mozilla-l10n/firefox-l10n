@@ -1,0 +1,20 @@
+<!ENTITY about.version "verze">
+
+<!ENTITY about.copy.beforeLink "Copyright &copy; 1998-2006">
+<!ENTITY about.copy.linkTitle "spolupracovníci">
+<!ENTITY about.copy.afterLink "projektu Mozilla.">
+
+<!ENTITY about.license.beforeLink "Další informace viz">
+<!ENTITY about.license.linkTitle "licence">
+<!ENTITY about.license.afterLink "tohoto produktu">
+
+<!ENTITY about.relnotes.beforeLink "Zobrazit">
+<!ENTITY about.relnotes.linkTitle "poznámky k vydání">
+<!ENTITY about.relnotes.afterLink "této verze.">
+
+<!ENTITY about.buildconfig.beforeLink "Zobrazit">
+<!ENTITY about.buildconfig.linkTitle "konfiguraci sestavení">
+<!ENTITY about.buildconfig.afterLink "použitou pro tuto verzi.">
+
+<!ENTITY about.buildIdentifier "Identifikátor sestavení: ">
+

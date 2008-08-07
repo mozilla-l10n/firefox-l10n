@@ -1,0 +1,7 @@
+<!ENTITY  incompatible.title        "Nekompatibilní doplňky">
+<!ENTITY  incompatible.intro        "Následující doplňky nejsou kompatibilní s touto aktualizací aplikace &brandShortName;, kterou jste právě nainstalovali:">
+<!ENTITY  incompatible.update       "Aplikace &brandShortName; bude pravidelně kontrolovat dostupnost novějších a kompatibilních verzí těchto doplňků.">
+<!ENTITY  incompatible.suffix       "Aktualizace aplikace &brandShortName; obsahuje některé důležitá bezpečnostní vylepšení. Pro zajištění vaší maximální
+                                     ochrany při používání Internetu je důrazně doporučováno provést tuto aktualizaci, přestože to způsobí nefunkčnost
+                                     některých nekompatibilních rozšíření či motivů vzhledu.">
+<!ENTITY  closebutton.label         "Ukončit">

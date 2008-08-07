@@ -1,0 +1,19 @@
+
+<!ENTITY findABookmark.label "Najít záložku…">
+<!ENTITY findABookmark.accesskey "n">
+<!ENTITY newBookmark.label "Nová záložka…">
+<!ENTITY newBookmark.accesskey "z">
+<!ENTITY newFolder.label "Nová složka…">
+<!ENTITY newFolder.accesskey "l">
+<!ENTITY newSeparator.label "Nový oddělovač">
+<!ENTITY newSeparator.accesskey "o">
+<!ENTITY setAsNewBookmarkFolder.label "Nastavit novou složku pro záložky">
+<!ENTITY setAsNewBookmarkFolder.accesskey "k">
+<!ENTITY setAsNewSearchFolder.label "Nastavit jako složku pro výsledky hledání">
+<!ENTITY setAsNewSearchFolder.accesskey "v">
+<!ENTITY setAsNewToolbarFolder.label "Nastavit jako novou osobní složku">
+<!ENTITY setAsNewToolbarFolder.accesskey "t">
+<!ENTITY exportBookmarks.label "Exportovat…">
+<!ENTITY exportBookmarks.accesskey "x">
+<!ENTITY importBookmarks.label "Importovat…">
+<!ENTITY importBookmarks.accesskey "I">

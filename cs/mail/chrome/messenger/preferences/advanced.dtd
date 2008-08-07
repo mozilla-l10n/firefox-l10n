@@ -1,0 +1,83 @@
+<!ENTITY itemGeneral.label "Obecné">
+<!ENTITY itemUpdate.label "Aktualizovat">
+<!ENTITY itemNetworking.label "Síť a místo na disku">
+<!ENTITY itemCertificates.label "Certifikáty">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label "Zobrazit pouze jméno odesílatele, pokud je v mém adresáři">
+<!ENTITY showCondensedAddresses.accesskey "s">
+
+<!ENTITY autoMarkAsRead.label "Automaticky označit zprávu jako přečtenou">
+<!ENTITY autoMarkAsRead.accesskey "A">
+<!ENTITY markAsReadNoDelay.label "Okamžitě po zobrazení">
+<!ENTITY markAsReadNoDelay.accesskey "O">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label "Po zobrazení po">
+<!ENTITY markAsReadDelay.accesskey "P">
+<!ENTITY secondsLabel.label "sekundách">
+<!ENTITY showFolderColumns.label "Zobrazit rozšířené sloupce v panelu složek">
+<!ENTITY showFolderColumns.accesskey "v">
+<!ENTITY rememberLastMsg.label "Pamatovat si poslední vybranou zprávu">
+<!ENTITY rememberLastMsg.accesskey "P">
+<!ENTITY openMsgIn.label "Otevírat zprávy v:">
+<!ENTITY reuseExpRadio0.label "Novém okně">
+<!ENTITY reuseExpRadio0.accesskey "N">
+<!ENTITY reuseExpRadio1.label "Aktuálním okně se zprávou">
+<!ENTITY reuseExpRadio1.accesskey "A">
+<!ENTITY reuseExpRadio2.label "Novém panelu">
+<!ENTITY reuseExpRadio2.accesskey "P">
+<!ENTITY connectionTimeout.label "Časový limit spojení: ">
+<!ENTITY connectionTimeout.accesskey "l">
+<!ENTITY connectionSeconds.label "sekund">
+<!ENTITY configEditDesc.label "Rozšířená konfigurace">
+<!ENTITY configEdit.label "Editor předvoleb…">
+<!ENTITY configEdit.accesskey "E">
+<!ENTITY returnReceiptsInfo.label "Určuje, jak aplikace &brandShortName; zachází s potvrzením o přečtení">
+<!ENTITY showReturnReceipts.label "Potvrzení o přečtení…">
+<!ENTITY showReturnReceipts.accesskey "P">
+
+<!-- Update -->
+<!ENTITY autoCheck.label "Opakovaně kontrolovat aktualizace pro:"> 
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "T">
+<!ENTITY enableAddonsUpdate.label "Nainstalované doplňky">
+<!ENTITY enableAddonsUpdate.accesskey "i">
+<!ENTITY checkNow.label "Zkontrolovat…">
+<!ENTITY whenUpdatesFound.label "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
+<!ENTITY modeAskMe.label "Vždy se dotázat, co dělat">
+<!ENTITY modeAskMe.accesskey "V">
+<!ENTITY modeAutomatic.label "Automaticky aktualizaci stáhnout a nainstalovat">
+<!ENTITY modeAutomatic.accesskey "A">
+<!ENTITY modeAutoAddonWarn.label "Upozornit, pokud by aktualizace zakázala některé doplňky">
+<!ENTITY modeAutoAddonWarn.accesskey "U">
+<!ENTITY showUpdates.label "Zobrazit historii aktualizací">
+<!ENTITY showUpdates.accesskey "Z"> 
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label "Nastavení připojení…">
+<!ENTITY showConnections.accesskey "s">
+<!ENTITY proxiesInfo.label "Konfigurovat připojení aplikace &brandShortName; k Internetu">
+<!ENTITY connectionsInfo.caption "Připojení">
+<!ENTITY offlineInfo.caption "Režim offline">
+<!ENTITY offlineInfo.label "Konfigurovat režim offline">
+<!ENTITY showOffline.label "Režim offline…">
+<!ENTITY showOffline.accesskey "o">
+
+<!ENTITY Diskspace "Místo na disku">
+<!ENTITY offlineCompact.label "Provést údržbu složek, pokud se tím ušetří přes">
+<!ENTITY offlineCompact.accesskey "k">
+<!ENTITY kb.label "kB">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo2.label "Spravovat certifikáty, seznamy zneplatnění, ověřování certifikátů a bezpečnostní zařízení">
+<!ENTITY viewCertificates.label "Certifikáty…">
+<!ENTITY viewCertificates.accesskey "C">
+<!ENTITY viewCRLs.label "Zneplatnění…">
+<!ENTITY viewCRLs.accesskey "Z">
+<!ENTITY validation.label "Ověřování…">
+<!ENTITY validation.accesskey "O">
+<!ENTITY viewSecurityDevices.label "Bezpečnostní zařízení…">
+<!ENTITY viewSecurityDevices.accesskey  "B">

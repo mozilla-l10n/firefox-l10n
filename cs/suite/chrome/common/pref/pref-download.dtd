@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title "Stahování">
+<!ENTITY downloadBehavior.label "Při začátku stahování">
+<!ENTITY downloadLocation.label "Při ukládání souboru">
+<!ENTITY finishedBehavior.label "Když se dokončí stahování">
+<!ENTITY openDM.label "Otevřít okno Správce stahování">
+<!ENTITY openDM.accesskey "o">
+<!ENTITY openProgressDialog.label "Otevřít dialog s průběhem">
+<!ENTITY openProgressDialog.accesskey "D">
+<!ENTITY doNothing.label "Neotevírat nic">
+<!ENTITY doNothing.accesskey "N">
+<!ENTITY promptDownload.label "Dotázat se na cílové umístění a jako výchozí nastavit:">
+<!ENTITY promptDownload.accesskey "D">
+<!ENTITY lastLocation.label "Naposledy použitou složku při stahování">
+<!ENTITY lastLocation.accesskey "L">
+<!ENTITY specifiedLocation.label "Přednastavenou cílovou složku">
+<!ENTITY specifiedLocation.accesskey "c">
+<!ENTITY autoDownload.label "Automaticky stahovat soubory do složky">
+<!ENTITY autoDownload.accesskey "A">
+<!ENTITY downloadFolder.label "Aktuální složka pro stahování:">
+<!ENTITY chooseDownloadFolder.label "Vybrat složku…">
+<!ENTITY chooseDownloadFolder.accesskey "B">
+<!ENTITY playSound.label "Přehrát zvukový soubor">
+<!ENTITY playSound.accesskey "s">
+<!ENTITY showAlert.label "Zobrazit výstrahu">
+<!ENTITY showAlert.accesskey "z">
+<!ENTITY browse.label "Procházet…">
+<!ENTITY browse.accesskey "P">
+<!ENTITY preview.label "Test">
+<!ENTITY preview.accesskey "t">
+<!ENTITY soundURL.label "URL zvuku:">
+<!ENTITY soundURL.accesskey "U">

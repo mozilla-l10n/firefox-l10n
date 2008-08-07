@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Ryan Flint <rflint@dslr.net>
+  Jeff Walden <jwalden+code@mit.edu>
+  Pavel Franc <franc@czilla.cz> (translation)
+  Lukas Petrovicky <lukas@petrovicky.net> (translation)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Nastavení &brandFullName;u</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&pref.pluralCaps; &brandFullName;u</h1>
+
+<p>Tento dokument vysvětluje všechny &pref.plural; dostupné v dialogu &pref.singularCaps; &brandFullName;u.</p>
+
+<div class="contentsBox">V této kapitole:
+  <ul>
+    <li><a href="#main_options">Hlavní</a></li>
+    <li><a href="#tabs_options">Panely</a></li>
+    <li><a href="#content_options">Obsah</a></li>
+    <li><a href="#feeds_options">Kanály</a></li>
+    <li><a href="#privacy_options">Soukromí</a></li>
+    <li><a href="#security_options">Zabezpečení</a></li>
+    <li><a href="#advanced_options">Rozšířené</a></li>
+  </ul>
+</div>
+
+<h2 id="main_options">Hlavní</h2>
+
+  <h3 id="startup">Spuštění</h3>
+  <p>Po otevření &brandShortName;u se jako výchozí stránka zobrazí vaše <a
+    href="glossary.xhtml#home_page">domovská stránka</a>. Může to být stránka,
+		kterou často navštěvujete, portál vyhledávače nebo e-mailová schránka, 
+		záleží na vás. V této části si můžete zvolit výchozí domovskou stránku
+		či nastavit, aby se při spouštění otevřela třeba skupina stránek.</p>
+    
+  <p><em>Při startu aplikace &brandShortName;</em><br/>
+		Běžně &brandShortName; při startu otevře vaši domovskou stránku (uvedenou v
+		poli níže), což odpovídá volbě <em>Zobrazit domovskou stránku</em>. Můžete
+		také při spuštění nechat zobrazit prázdnou stránku (třeba proto, abyste se
+		zbavili prodlevy při jejím načítání,) a to se stane, pokud zvolíte 
+		<em>Zobrazit prázdnou stránku</em>.</p>
+
+  <p>Poslední možností je nechat &brandShortName; otevřít stejná okna a panely,
+		které jste měli otevřené, když jste &brandShortName; používali naposledy, a
+		začít s Internetem pracovat právě tam, kde jste předtím skončili. To může
+		přijít vhod, pokud potřebujete nainstalovat např. aktualizaci operačního 
+		systému a nechcete přerušovat to, co právě děláte. Docílíte toho, zvolíte-li
+		<em>Zobrazit okna a panely z minula</em>.</p>
+
+  <p><em>Domovská stránka</em><br/>
+    Pokud jste nastavili &brandShortName; tak, aby při spuštění zobrazoval 
+		domovskou stránku, pak adresa této stránky patří sem. Poklepáním na některé
+		z tlačítek níže můžete jako domovskou stránku nastavit různé druhy 
+		stránek:</p>
+
+  <ul>
+    <li><em>Použít aktuální stránku</em> nastaví právě prohlíženou stránku (či
+			stránky, máte-li otevřeno více panelů) jako domovskou stránku.</li>
+    <li><em>Použít záložku</em> nastaví zvolenou záložku (či více záložek, 
+			zvolíte-li složku se záložkami) jako domovskou stránku.</li>
+    <li><em>Obnovit výchozí</em> nastaví domovskou stránku na její výchozí 
+			hodnotu.</li>
+  </ul>
+
+  <h3 id="downloads">Správce stahování</h3>
+  <p>Tato část obsahuje &pref.plural; které určují, jak bude &brandShortName;
+    stahovat soubory.</p>
+    
+  <p><em>Zobrazit okno správce stahování při začátku stahování</em><br/>
+    Je-li tato &pref.singular; zvolena, &brandShortName; pokaždé, když začnete
+		stahovat soubor, otevře okno <a href="download_manager.xhtml">Správce 
+		stahování</a>.</p>
+    
+  <p><em>Zavřít správce stahování po dokončení všech stahování</em><br/>
+    Zvolte, pokud chcete, aby &brandShortName; uzavřel okno Správce stahování
+		poté, co se dokončí všechna stahování.</p>
+      
+  <p><em id="download_folder">Uložit všechny soubory do</em><br/>
+		Běžně jsou všechny stahované soubory automaticky ukládány na Plochu, čímž
+		odpadá starost s určováním, kam ten který soubor uložit. Klepnutím na 
+		tlačítko <em>Procházet...</em> však můžete zvolit jakoukoliv jinou složku.</p>
+      
+  <p><em>U každého souboru se dotázat, kam ho uložit</em><br/>
+    Je-li tato &pref.singular; zvolena, &brandShortName; se, namísto aby použil
+		výše uvedenou složku, pokaždé zeptá, kam každý stahovaný soubor uložit.</p>
+  
+  <h3 id="system_defaults">Nastavení systému</h3>
+  <p><em>Při startu kontrolovat, zda je &brandShortName; výchozím 
+		prohlížečem</em><br/>
+    Zvolte, pokud si přejete, aby &brandShortName; při každém spuštění 
+		kontroloval, zda je výchozím prohlížečem. Tím zaručíte, že &brandShortName; 
+		bude použit pokaždé, když se pokusíte otevřít nějakou webovou stránku. 
+		Klepnutím na tlačítko <em>Zkontrolovat</em> tuto kontrolu můžete provést 
+		ihned.</p>
+
+
+<h2 id="tabs_options">Panely</h2>
+<p><em>Nové stránky otevírat:</em><br/>
+  Tato &pref.singular; určuje, zda se odkazy z jiných aplikací či z webových 
+	stránek, které chtějí otevřít odkaz v novém okně, budou otevírat <em>v novém 
+	okně</em> či <em>v novém panelu</em> naposledy používaného okna.</p>
+
+<p><strong>Poznámka:</strong> Pokud jste zvolili otevírat nové stránky 
+	v&nbsp;panelech, Firefox bude toto nastavení ignorovat a v novém okně otevře
+	takové stránky, u kterých autor uvedl, že pro správné zobrazení vyžadují 
+	konkrétní velikost okna.</p>
+  
+<p><em>Varovat, pokud zavírám okno s více panely</em><br/>
+  Pokud zavíráte okno s více otevřenými panely, &brandShortName; se vás dotáže, 
+	zda si skutečně přejete okno zavřít. Jedná se o prevenci proti nechtěným 
+	zavřením celého okna, když si ve skutečnosti přejete zavřít pouze aktuální 
+	panel. Po odškrtnutí této volby již nebudete dotazováni
+	a&nbsp;&brandShortName; automaticky zavře okno.</p>
+
+<p><em>Varovat, pokud by otevírání více panelů mohlo zpomalit aplikaci
+  &brandShortName;</em><br/>
+	Pokud se najednou pokusíte otevřít velké množství panelů, &brandShortName; vás
+	požádá o potvrzení. To vám pomůže vyhnout se zpomalení vašeho systému při 
+	načítání tolika stránek. Po odškrtnutí této volby &pref.singular; již nebudete 
+	dotazováni a&nbsp;&brandShortName; bude otevírat i&nbsp;velká množství 
+	panelů.</p>
+  
+<p><em>Vždy zobrazit lištu s panely</em><br/>
+  Pokud je v okně prohlížeče &brandShortName; zobrazena pouze jedna stránka, 
+	lišta s panely není zobrazena. Chcete-li zobrazovat lištu s panely vždy, 
+	zrušte výběr této možnosti.</p>
+
+<p><em>Přepnout na nový panel otevřený z odkazu</em><br/>
+	Klepnete-li pravým tlačítkem myši na odkaz (či pokud podržíte &accelKey; při
+	klepání levým tlačítkem), stránka se otevře v novém panelu. Tato stránka však
+	nebude zobrazena a bude se načítat v panelu na pozadí. Přejete-li si přenést
+	takový panel do popředí, zvolte tuto možnost.</p>
+
+
+<h2 id="content_options">Obsah</h2>
+
+  <p><em>Blokovat vyskakovací okna</em><br/>
+		Ve výchozím nastavení &brandShortName; blokuje nepříjemná vyskakovací okna 
+		na webových stránkách. Zrušení zaškrtnutí této možnosti znemožní blokování 
+		vyskakovacích oken.</p>
+
+  <p>Některé stránky mohou mít pro použití vyskakovacích oken dobré důvody. 
+		Proto je takovým stránkám dobré otevírat vyskakovací okna povolit. 
+		V takovém případě klepněte na tlačítko <em>Výjimky...</em>. V zobrazeném 
+		dialogu zadejte server pro který chcete vyskakovací okna povolit 
+		a klepněte na tlačítko <em>Povolit</em>. Pro odstranění serveru vyberte 
+		server ze seznamu a klepněte na tlačítko <em>Odebrat server</em>. Pro 
+		vyprázdnění celého seznamu klepněte na tlačítko <em>Odebrat všechny 
+		servery</em>.</p>
+ 
+	<p><em>Načíst automaticky obrázky</em><br/>
+		Ve výchozím nastavení jsou obrázky, které jsou na webových stránkách 
+		umístěny, načítány. Odškrtnutím této volby zakážete jejich načítání.</p>
+
+   <p>V závislosti na tom, zda máte povolené obrázky, můžete změnit servery, 
+		které jsou blokovány či povoleny. Klepnutím na tlačítko <em>Výjimky...</em> 
+		zobrazíte dialog, kde můžete zadat server, pro který chcete povolit či 
+		zakázat obrázky. Klepnutím na tlačítko <em>Povolit</em> povolíte načítání 
+		obrázků, klepnutím na tlačítko <em>Blokovat</em> jejich načítání 
+		zakážete.</p>
+
+  <p><em>Povolit JavaScript</em><br/>
+		JavaScript je skriptovací jazyk užívaný zejména pro tvorbu webových stránek. 
+		JavaScript je také často využíván pro dynamické ověřování formulářů 
+		a volbu tlačítek. JavaScript je často používán pro kontrolu formulářů 
+		a při stisku tlačítek. Zákaz JavaScriptu může způsobit nesprávnou funkci 
+		některých stránek. Pro přesnější nastavení, které prvky JavaScriptu povolit
+		a které ne, klepněte na tlačítko <em>Rozšířené...</em>.</p>
+
+  <h3 id="advanced_javascript">Rozšířené nastavení JavaScriptu</h3>
+  <dl>
+    <dt>Přemístit nebo změnit velikost okna</dt>
+    <dd>Zrušte označení této možnosti a skripty nebudou moci přemísťovat
+			okna a měnit jejich velikost.</dd>
+
+    <dt>Přenést okno do popředí nebo do pozadí</dt>
+    <dd>Zrušte označení této možnosti a skripty nebudou moci přenášet okna
+			z popředí do pozadí a obráceně.</dd>
+
+    <dt>Zakázat nebo nahradit místní nabídku</dt>
+    <dd>Zrušte označení této možnosti a skripty nebudou moci zakázat
+			či změnit běžnou místní nabídku &brandShortName;u.</dd>
+
+    <dt>Skrýt stavový řádek</dt>
+    <dd>Zrušte označení této možnosti, aby byl stavový řádek zobrazen také ve 
+			vyskakovacích oknech.</dd>
+
+    <dt>Měnit text ve stavovém řádku</dt>
+    <dd>Zrušte označení této možnosti a skripty nebudou moci měnit text ve
+			stavovém řádku (např. zobrazováním posunujících se zpráv či skrýváním cíle
+			odkazu).</dd>
+  </dl>
+
+  <p><em>Povolit Javu</em><br/>
+		Java je populární programovací jazyk pro webové stránky vyvinutý 
+		společností Sun Microsystems. Program napsaný v jazyce Java funguje na 
+		mnoha různých druzích počítačů, není nutno vytvářet pro každý vlastní 
+		verzi. Zrušení zaškrtnutí této možnosti zakáže Java aplety v prohlížeči 
+		&brandShortName;. Pro funkčnost Java apletů musí být nainstalován zásuvný 
+		modul Java.</p>
+
+  <h3 id="fonts_and_colors">Písma a barvy</h3>
+  
+    <p><em>Výchozí písmo</em> a <em>Velikost</em><br/>
+      Webové stránky jsou obvykle zobrazovány písmem a velikostí písma, která 
+			je zde určena. Webové stránky však mohou pro své zobrazování zvolit 
+			vlastní hodnoty tj. jiné, než které máte předvolené. Klepněte na tlačítko 
+			<em>Rozšířené...</em> pro přístup k více možnostem.</p>
+
+    <h4>Dialog pro nastavení písma:</h4>
+    <ol>
+
+      <li>Z nabídky <em>Znaková sada</em> zvolte jazykovou skupinu. Například 
+				pro nastavení výchozích písem pro jazyky Střední Evropy zvolte 
+				<em>Středoevropské jazyky</em>. Pro jazyky, které nejsou v seznamu, 
+				zvolte <em>Definovaná uživatelem</em>.</li>
+      <li>Určete, zda proporcionální text má být patkovým (jako 
+				&quot;Times New Roman&quot;) nebo bezpatkovým (jako &quot;Arial&quot;) 
+				písmem. Pak určete velikost písma pro proporcionální text.</li>
+      <li>Určete písmo, které chcete použít pro patková, bezpatková a 
+				<em>neproporcionální</em> písma. Je možno změnit velikost 
+				<code>Neproporcionálního písma</code>.</li>
+    </ol>
+    
+      <p>Dále lze nastavit také minimální velikost fontů použitých na obrazovce. 
+				To může být užitečné na některých stránkách, kde je použito velmi 
+				malé a stěží čitelné písmo.</p>
+
+      <p><em>Povolit stránkám používat vlastní písma namísto výše zvolených</em><br/>
+      	Ve výchozím nastavení &brandShortName; používá písma určená autorem 
+				webové stránky. Zrušením označení této možnosti zakážete webovým 
+				stránkám používat jejich vlastní nastavení.</p>
+
+      <p><em>Znaková sada</em><br/>
+				Znaková sada, která je zde vybrána, je použita k zobrazení webových 
+				stránek tehdy, když není určeno kódování, která má být použito.</p>
+
+    <h4>Dialog pro nastavení barev</h4>
+    <p><strong>Text a pozadí</strong><br/>
+    	Zde můžete změnit výchozí barvy textu a pozadí, které se použijí pro 
+			webové stránky, které neposkytují informaci o barvách. Barvy zvolíte 
+			klepnutím na vzorky barev.</p>
+
+    <p><em>Použít systémové barvy</em><br/>
+      Vyberte tuto možnost, chcete-li použít barvy určené v nastavení OS namísto 
+			barev určených výše.</p>
+
+    <p><strong>Barvy odkazů</strong><br/>
+			Zde můžete změnit výchozí barvu pro odkazy. Barvy zvolíte klepnutím na 
+			vzorky barev.</p>
+
+    <p><em>Podtrhávat odkazy</em><br/>
+			Ve výchozím nastavení jsou odkazy na webových stránkách podtrhávány. Pro 
+			zakázání tohoto nastavení odškrtněte tuto volbu. Povšimněte si, že řada 
+			stránek určuje ve stylech vlastní pravidla a tato volba tak na tyto stránka
+			nemá žádný efekt.</p>
+
+		<p><em>Povolit stránkám používat vlastní barvy namísto výše zvolených</em><br/>
+				Ve výchozím nastavení &brandShortName; používá barvy, které byly 
+				nadefinovány autorem webové stránky. Zakázáním této volby umožníte 
+				používat pouze barvy, které jsou nastaveny v tomto dialogu.</p>
+
+  <h3 id="file_types">Typy souborů</h3>
+  <p>Dialog Akce pro stahování, který otevřete klepnutím na tlačítko
+    <em>Spravovat...</em>, obsahuje typy souborů, které jste již stahovali.
+    Co má &brandShortName; udělat když narazí na další takový soubor můžete 
+		nastavit, když klepnete na tlačítko <em>Změnit akci...</em>.</p>
+
+  <p>Takto otevřete dialog Změnit akci, kde můžete nastavit, zda se má daný
+		typ souboru otevírat výchozí aplikací, nějakou zvolenou aplikací či 
+		zobrazit za pomoci nainstalovaného zásuvného modulu. Pokud například
+		prohlížíte velké množství webových multimediálních souborů, můžete 
+		nastavit &brandShortName; tak, aby tyto soubory vždy otevíral ve vašem
+		přehrávači multimédií namísto dotazování se, kam tyto soubory uložit.</p>
+
+  <ul>
+    <li><em>Otevřít je ve výchozí aplikaci:</em><br/>
+      Zvolte, pokud si přejete, aby se soubory daného typu otevíraly ve výchozí
+			aplikaci, určené operačním systémem.</li>
+    <li><em>Otevřít je v této aplikaci:</em><br/>
+      Zvolte, pokud si přejete, aby se soubory daného typu otevíraly v aplikaci,
+			kterou sami určíte klepnutím na tlačítko <em>Procházet...</em>.</li>
+    <li><em>Uložit je do počítače:</em><br/>
+      Zvolte, pokud si přejete, aby se soubory daného typu ukládaly do počítače 
+			(automaticky, pokud jste zvolili možnost <em>Uložit všechny soubory do</em> 
+			v záložce <em>Hlavní</em>).</li>
+    <li><em>Použít tento zásuvný modul:</em><br/>
+			Zvolte, pokud si přejete, aby se soubory daného typu zobrazovaly za 
+			pomoci nějakého z instalovaných zásuvných modulů.</li>
+  </ul>
+
+
+<h2 id="feeds_options">Kanály</h2>
+<p>Kanály jsou zvláštně formátované dokumenty, které shrnují obsah webových
+	stránek. Takový kanál může například shrnout poslední události na 
+	zpravodajském serveru či titulky posledních zápisků na vašem oblíbeném blogu.
+	Ve &brandShortName; můžete obsah těchto kanálů prohlížet, vytvářet z něj 
+	Aktuální záložky nebo jej přidat do nějaké čtečky kanálů na vašem počítači
+	či na Internetu. &pref.plural; v tomto panelu určují, jak se &brandShortName;
+	zachová, když na nějaký takový kanál narazí.</p>
+
+<p><em>Zobrazit náhled a zeptat se jakou čtečku použít</em><br/>
+  Při prohlížení kanálu ve &brandShortName;u uvidíte náhled jeho obsahu. Pokud
+	tuto možnost použijete, vždy máte v horní stránce takového náhledu na výběr, 
+	jak se přihlásit k odběru prohlíženého kanálu.</p>
+    
+<p><em>Odebírat kanál pomocí čtečky</em><br/>
+	Namísto zobrazení náhledu kanálu, když na nějaký narazíte, můžete si jej 
+	nechat přímo otevřít ve čtečce kanálů a to výběrem čtečky ze seznamu 
+	dostupných čteček. Klepnutím na <em>Vybrat aplikaci...</em> můžete použít 
+	aplikaci na vašem počítači. Další možností je nechat kanály automaticky 
+	ukládat jako Aktuální záložky. Pro volbu nějakého způsobu odebírání kanálu
+	jej prostě zvolte v seznamu.</p>
+
+
+<h2 id="privacy_options">Soukromí</h2>
+
+  <h3 id="privacy_history">Historie</h3>
+  <p><em>Pamatovat si navštívené stránky za posledních ... dnů</em><br/>
+    Zde lze určit, jak dlouho si bude &brandShortName; pamatovat stránky, které jste navštívili. Výchozí nastavení je 9 dní.</p>
+      
+  <p><em>Pamatovat si údaje ve formulářích a vyhledávacím poli</em><br/>
+    Když napíšete něco do formulářů či do vyhledávacího pole &brandShortName;u, 
+		tato informace se uloží, aby vám &brandShortName; mohl později poradit,
+		až budete takový formulář znovu vyplňovat. Pokud si to nepřejete, zrušte
+		označení této možnosti.</p>
+      
+  <p><em>Pamatovat si stažené soubory</em><br/>
+    Tato &pref.singular; ovládá, zda se v minulosti stažené soubory budou 
+		objevovat v okně správce stahování. Správce stahování (dostupný přes <span
+    class="menuPath">Nástroje</span> či stiskem <span
+    class="noUnix">&accelKey;+<kbd>J</kbd></span><span
+    class="unix">&accelKey;+<kbd>Y</kbd></span>) zobrazuje přehled naposledy
+		stahovaných souborů. &pref.plural; stahování jsou dostupné v panelu <a
+    href="#main_options"><em>Hlavní</em></a>.</p>
+  <p></p>
+
+  <h3 id="privacy_cookies">Cookies</h3>
+  <p>Cookie je soubor vytvořený webovou stránkou. Ukládá na vašem počítači 
+		informace, například &pref.plural; při návštěvě webové stránky.</p>
+
+  <p><em>Povolit serverům nastavovat cookies</em><br/>
+		Ve výchozím nastavení jsou cookies povoleny. Zrušením zaškrtnutí této 
+		položky zakážete používání cookies. Nezapomeňte, že některé stránky 
+		nemusejí správně fungovat, jsou-li cookies zakázány.</p>
+
+  <p><em>Ponechat do:</em></p>
+
+  <ul>
+    <li><em>konce doby platnosti</em><br/>
+      Toto je výchozí &pref.singular;. Umožňuje stránkám nastavit, jak dlouho má
+			&brandShortName; cookies uchovat. To umožňuje webovým stránkám pamatovat
+			si např. vaše přihlašovací údaje, i když zavřete prohlížeč.</li>
+    <li><em>ukončení aplikace &brandShortName;</em><br/>
+      Pokud zvolíte tuto možnost, &brandShortName; před uzavřením odstraní
+			všechny uložené cookies.</li>
+    <li><em>vždy se dotázat</em><br/>
+      Pokud zvolíte tuto možnost, &brandShortName; se pokaždé, když se stránka
+			pokusí cookies uložit, dotáže, zda a na jak dlouho cookies uložit.</li>
+  </ul>
+
+  <p>Přejete-li si určit, které stránky smí či nesmí nastavovat cookies, 
+		klepněte na tlačítko <em>Výjimky...</em>.</p>
+      
+  <p>Správce cookies zobrazíte klepnutím na tlačítko <em>Správce Cookies...</em>.</p>
+
+  <p>Více informací o cookies a jejich spravování (zejména stanovení webových 
+		stránek, které smějí nebo nesmějí cookies ukládat) najdete v kapitole <a 
+		href="cookies.xhtml">Správa cookies</a>.</p>
+
+  <h3 id="private_data">Důvěrná data</h3>
+  <p><em>Při ukončení aplikace &brandShortName; vymazat důvěrná data</em><br/>
+    Pokud si přejete, aby &brandShortName; před ukončením vymazal všechna 
+		důvěrná data, zvolte tuto možnost. Co vše se má v takovém případě vymazat
+		můžete určit klepnutím na tlačítko <em>Nastavení...</em>.</p>
+    
+  <p><em>Dotázat se před vymazáním důvěrných dat</em><br/>
+    Pokud zvolíte tuto možnost, &brandShortName; vás vždy před vymazáním 
+		důvěrných dat požádá o potvrzení.</p>
+  
+  <p>Pokud si přejete vymazat důvěrná data ihned, klepněte na tlačítko
+    <em>Nyní vymazat...</em>. K vymazání důvěrných dat z prostředí mimo 
+		&pref.plural; slouží klávesová zkratka &accelKey;+&shiftKey;+<kbd>Del</kbd>
+    či v hlavní nabídce položka <span class="menuPath">Nástroje &gt; Vymazat 
+		důvěrná data...</span>.</p>
+
+<h2 id="security_options">Zabezpečení</h2>
+
+<p><em>Vždy upozornit při pokusu o instalaci doplňku</em><br />
+	&brandShortName; se vás bude vždy dotazovat před instalací rozšíření či 
+	motivu vzhledu. Jako prevenci před nechtěnými dialogy snažící se o instalaci 
+	zákeřných rozšíření vás &brandShortName; bude varovat vždy, když se nějaké 
+	rozšíření pokusí o instalaci a tuto instalaci zablokuje. Pro povolení 
+	instalace z daného serveru klepněte na tlačítko <em>Výjimky</em>, v dialogu 
+	zadejte adresu serveru, z kterého chcete instalovat a klepněte na tlačítko 
+	<em>Povolit</em>. Odškrtněte tuto možnost, pokud si nepřejete být 
+	varováni.</p>
+    
+<p><em>Varovat pokud prohlížená stránka je považována za podvodnou</em><br/>
+	Zvolte, pokud si přejete, aby &brandShortName; aktivně kontroloval, zda
+	právě prohlížená stránka nemůže být pokusem o vylákání vašich osobních
+	informací (anglicky se tomu říká <em>phishing</em>).</p>
+
+<p><em>Použít místní seznam podezřelých stránek</em><br/>
+	Zvolte, pokud si přejete, aby &brandShortName; hledal danou stránku v často
+	aktualizovaném seznamu, uloženém ve vašem počítači. Během této kontroly nejsou
+	k poskytovatelům takovéto ochrany zasílány žádné údaje o vaší činnosti.
+	Protože se však techniky podvodných stránek vyvíjejí příliš rychle, není tato metoda
+	tak účinná, jako přímé ověřování prohlížených stránek s poskytovateli 
+	ochrany proti podvodným stránkám.</p>
+
+<p><em>Zkontrolovat dotazem na ... každou navštívenou stránku</em><br/>
+	Zvolte, pokud si přejete, aby &brandShortName; za pomoci zabezpečeného spojení
+	odeslal adresu právě prohlížené stránky vybranému poskytovateli 
+	ochrany proti podvodným stránkám k ověření její totožnosti. Tento způsob zaručuje
+	nejvyšší úroveň ochrany, ale poskytovateli ochrany proti podvodným stránkám je 
+	odeslána vaše IP adresa a verze prohlížeče a tento si je může uložit. Pokud
+	tuto možnost zvolíte, budete dotázání, zda souhlasíte se zásadami ochrany 
+	soukromí daného poskytovatele.</p>
+      
+  <h3 id="security_passwords">Hesla</h3>
+  <p><em>Pamatovat si hesla</em><br/>
+		&brandShortName; nabízí možnost bezpečného ukládání hesel vkládaných do 
+		webových formulářů. Odškrtnutím této volby zabráníte &brandShortName;u 
+		pamatovat si vaše hesla.</p>
+    
+    <p>I když tuto možnost zvolíte, stále budete při každém zadání nějakého 
+			hesla dotazování, zda si jej přejete uložit. Zvolíte-li <em>Nikdy pro tuto 
+			stránku</em>, daná stránka se přidá do seznamu výjimek. Tento seznam
+			si můžete prohlédnout či upravit klepnutím na tlačítko 
+			<em>Výjimky...</em>.</p>
+
+  <p id="set_change_master_password"><em>Použít hlavní heslo</em><br/>
+		&brandShortName; může ochránit citlivé informace jako jsou uložená hesla či 
+		certifikáty.  Pokud vytvoříte hlavní heslo, &brandShortName; bude vyžadovat 
+		jeho vložení jednou za relaci, jakmile to bude potřeba. Klepnutím na 
+		tlačítko <em>Změnit hlavní heslo...</em> můžete toto hlavní heslo nastavit, 
+		změnit či vymazat. Pokud bylo hlavní heslo již dříve nastaveno, budete
+		jej muset zadat, abyste jej mohli upravit či odstranit.</p>
+
+  <p><em>Zobrazit hesla...</em><br/>
+		Klepnutím na toto tlačítko se zobrazí dialog, kde můžete spravovat uložená 
+		hesla či jednotlivá z nich vymazat.</p>
+  
+  <h3 id="warning_messages">Bezpečnostní upozornění</h3>
+  <p>Klepněte na tlačítko <em>Nastavení...</em> a nastavte, jaká bezpečnostní
+    varování bude &brandShortName; zobrazovat, zatímco brouzdáte Internetem.</p>
+    
+    <h4>Dialog Bezpečnostní varování</h4>
+    <!--XXX massive suck!  do these provide *any* value whatsoever? -->
+    <dl>
+      <dt>Vstupuji na zabezpečenou stránku.</dt>
+      <dd>Zvolíte-li tuto možnost, &brandShortName; vás upozorní vždy, když 
+				vstoupíte na zabezpečenou stránku.</dd>
+
+      <dt>Vstupuji na zabezpečenou stránku používající slabé šifrování.</dt>
+      <dd>Zvolíte-li tuto možnost, &brandShortName; vás upozorní vždy, když 
+				vstoupíte na zabezpečenou stránku, která používá slabé šifrování.</dd>
+
+      <dt>Přecházím ze zabezpečené stránky na nezabezpečenou.</dt>
+      <dd>Zvolíte-li tuto možnost, &brandShortName; vás upozorní vždy, když
+				ze zabezpečené stránky přejdete na nezabezpečenou, například klepnutím
+				na odkaz na stránce, otevřením záložky nebo vepsáním nové adresy do
+				adresního řádku.</dd>
+
+      <dt>Odesílám informace nešifrovaně.</dt>
+      <dd>Zvolíte-li tuto možnost, &brandShortName; vás upozorní vždy, když
+				z formuláře odesíláte data, která nejsou šifrována.</dd>
+  
+      <dt>Vstupuji na zabezpečenou stránku obsahující nezabezpečené prvky.</dt>
+      <dd>Zvolíte-li tuto možnost, &brandShortName; vás upozorní vždy, když
+				stránka, kterou si právě prohlížíte, obsahuje kombinaci šifrovaných a
+				nešifrovaných prvků. Pokud šifrovaná stránka obsahuje nějaká nešifrovaná
+				data, měli byste před vložením citlivých informací vždy ověřit identitu
+				této stránky.</dd>
+    </dl>
+
+
+<h2 id="advanced_options">Rozšířené</h2>
+<p>Obsahuje &pref.plural;, které pravděpodobně nebude využívat mnoho lidí,
+	ale které jsou užitečné a v mnoha chvílích nezbytné.</p>
+
+  <h3 id="advanced_general">Obecné</h3>
+    <h4 id="accessibility">Usnadnění</h4>
+		<p><em>Používat kurzorové klávesy pro pohyb ve stránce</em><br/>
+  		Funkce, též známá jako Procházení stránky, určuje, zda se bude na 
+			stránce zobrazovat kurzor, který vám umožní označovat text pomocí 
+			klávesnice. Některé pomůcky pro usnadnění, jako například čtečky či 
+			lupy, používají kurzor k určování, která část okna je čtena či se má 
+			zvětšit. Tento mód můžete přepínat stisknutím klávesy <kbd>F7</kbd>.</p>
+  
+  	<p><em>Psaním vyhledávat text na stránce</em><br/>
+  		Když je tato &pref.singular; povolena, &brandShortName; vyhledává na 
+			aktuální stránce text, který zadáte z klávesnice. Při zadávání se 
+			automaticky otevře vyhledávací panel v dolní části okna, kde uvidíte 
+			informaci o tom, co jste zadali a nalezli.</p>
+
+    <h4 id="browsing">Prohlížení</h4>
+		<p><em>Použít automatické posunování</em><br/>
+			Automatické posunování je užitečná vlastnost, která umožňuje posunovat 
+			stránku stiskem prostředního tlačítka myši (obvykle kolečko) a pohybem 
+			myši nahoru a dolů. Ne všem se však tato funkce zamlouvá, proto je možné 
+			tuto vlastnost nepoužívat.</p>
+
+		<p><em>Použít jemné posunování</em><br/>
+			Funkce Jemné posunování může být velmi užitečná, pokud čtete větší 
+			množství dlouhých stránek. Standardně, pokud stisknete klávesu Page Down, 
+			pohled skočí přímo na spodní část strany. S použitím funkce Jemné 
+			posunování se stránka posunuje pomaleji, takže stále máte přehled 
+			o&nbsp;pozici v textu.</p>
+        
+    <p><em>Při psaní kontrolovat pravopis</em><br/>
+			Pokud je tato možnost povolena, zatímco píšete do formulářů, 
+			&brandShortName; zkontroluje váš pravopis a případně nabídne možnosti 
+			opravy. Možná budete muset stáhnout slovníky; <span
+      class="noMac">klepněte pravým tlačítkem</span><span class="mac">stiskněte 
+			&ctrlKey; a klepněte</span> na libovolné textové pole, povolte kontrolu 
+			pravopisu, pokud je to nutné, a následně použijte nabídku <span 
+			class="menuPath">Jazyky</span> ke stažení slovníku.</p>
+
+    <h4 id="languages">Jazyky</h4>
+    <p>Některé webové stránky jsou nabízeny ve více než jednom jazyce. Klepněte 
+			na tlačítko <em>Upravit jazyky</em> pro určení preferovaných jazyků.</p>
+
+     <p><strong>Dialog pro nastavení jazyků:</strong><br/>
+      Pro přidání jazyku klepněte na <em>Zvolte jazyk, který chcete 
+			přidat...</em>, zvolte jazyk a klepněte na tlačítko <em>Přidat</em>. 
+			Odstranění jazyku provedete tak, že jej vyberete ze seznamu aktivních 
+			a klepnete na tlačítko <em>Odebrat</em>. Jazyky můžete přeřadit a určit 
+			tak prioritu jejich použití tehdy, když je stránka dostupná ve dvou či 
+			více vámi vybraných jazycích. Učiníte tak použitím tlačítek <em>Přesunout 
+			výše</em> a <em>Přesunout níže</em>.</p>
+
+  <h3 id="advanced_network">Síť</h3>
+
+    <h4 id="connection_settings">Připojení</h4>
+    <p>Vaše připojení k Internetu může být realizováno prostřednictvím proxy
+			serveru. Ten se chová jako prostředník mezi vámi a Internetem, vkládá se
+			do každého spojení a zkouší, zda nemůže na požadavky odpovědět za použití
+			své vyrovnávací paměti. Proxy servery jsou používány pro zvýšení výkonu 
+			sítě, filtrování požadavků a skrývání počítačů před Internetem z důvodu
+			bezpečnosti. Často jsou součástí firemních firewallů.</p>
+
+    <h4>Dialog Nastavení připojení</h4>
+    <dl>
+      <dt>Přímé připojení k síti</dt>
+      <dd>Zvolte, pokud nepotřebujete používat proxy.</dd>
+
+      <dt>Automaticky detekovat nastavení</dt>
+      <dd>Zvolte, pokud si přejete, aby &brandShortName; automaticky detekoval
+				nastavení proxy serveru pro vaši síť.</dd>
+
+      <dt>Ruční konfigurace proxy serverů</dt>
+      <dd>Zvolte, pokud neznáte umístění proxy serveru (URL). Zeptejte se svého
+				systémového administrátora na jméno a čísla portů serverů, na kterých
+				běží proxy pro různé služby sítě, a vložte tyto informace do příslušných
+				polí.</dd>
+
+      <dt>Použít skript pro automatickou konfiguraci</dt>
+      <dd>Pokud vaše pracoviště má proxy konfigurační soubor, zeptejte se 
+				systémového administrátora na jeho URL a zadejte jej zde. Klepněte na 
+				<em>Znovu načíst</em> pro načtení těchto nastavení.</dd>
+    </dl>
+    
+	  <h4 id="advanced_cache">Vyrovnávací paměť</h4>
+	  <p>Navštívené stránky jsou ukládány do vyrovnávací paměti a při další 
+			návštěvě se tak zobrazí rychleji. Zde můžete určit, jak mnoho místa pro 
+			diskovou paměť vyhradíte a nebo obsah této vyrovnávací paměti vymazat.</p>
+             
+    <p><em>Použít nejvíce ... MB místa na disku pro vyrovnávací paměť</em><br/>                    
+      Umožňuje vám určit maximální velikost v megabytech, kterou bude moct vyrovnávací
+      paměť využít na disku vašeho počítače.</p>                                                        
+
+    <p><em>Nyní vymazat</em><br/>                                                  
+      Okamžitě vymaže aktuální obsah vyrovnávací paměti a uvolní tak místo na disku
+      použité touto pamětí.</p>
+
+	<h3 id="advanced_update">Aktualizace</h3>
+	<p>&brandShortName; umožňuje aktualizovat, zda jsou dostupné aktualizace pro 
+		nainstalované rozšíření a motivy vzhledu.</p>
+    
+	<p><em>Automaticky kontrolovat aktualizace pro:</em><br />
+		Ve výchozím nastavení &brandShortName; automaticky kontroluje dostupné 
+		aktualizace pro prohlížeč, instalované rozšíření &amp; motivy vzhledu 
+		a vyhledávací moduly. Díky tomu máte k dispozici vždy poslední dostupné 
+		verze. Odškrtnutím voleb níže můžete automatické aktualizace zrušit.</p>
+
+	<p><em>Je-li dostupná aktualizace pro aplikaci Firefox,</em></p>
+
+	<dl>
+  	<dt>Vždy se dotázat na další postup</dt>
+  	<dd>Aktualizace &brandShortName;u jsou ve výchozím nastavení instalovány 
+			automaticky. Tato volba vám umožní kontrolovat jak a kdy budou 
+			aktualizace instalovány.</dd>
+  	<dt>Automaticky aktualizaci stáhnout a nainstalovat</dt>
+  	<dd>Při aktivované této volbě bude &brandShortName; automaticky stahovat 
+			a při příštím spuštění instalovat aktualizace. Při zaškrtnutí volby 
+			<em>Upozornit, pokud by nainstalování aktualizace zakázalo některé 
+			doplňky</em> budete varováni před instalací aktualizace, která by 
+			způsobila zamezení funkčnosti některého rozšíření či motivu vzhledu. Díky 
+			včasnému varování budete moci odložit instalaci aktualizace na dobu, 
+			kdy bude k dispozici kompatibilní verze.</dd>
+  	<dd>Pokud jsou všechny rozšíření a motivy vzhledu kompatibilní nebo mohou 
+			být aktualizovány tak, aby se kompatibilními staly, provede 
+			&brandShortName; instalaci aktualizací.</dd>
+	</dl>
+
+	<p><em>Zobrazit historii aktualizací</em><br />
+		&brandShortName; automaticky zaznamenává všechny aktualizace, které jste 
+		provedli. Pro zobrazení těchto informací klepněte na toto tlačítko.</p>
+
+	<p><strong>Poznámka</strong>: Pro zobrazení těchto informací musí být 
+		&brandShortName; spuštěn pod <span class="win">administrátorským 
+		účtem</span><span class="noWin">uživatelem root</span> či pod uživatelem, 
+		který &brandShortName; nainstaloval a má práva aktualizace instalovat.</p>
+
+  <h3 id="advanced_encryption">Šifrování</h3>
+    <h4 id="protocols">Protokoly</h4>
+	  <p><em>Použít SSL 3.0</em><br/>
+			Určuje, zda pro bezpečné přijímání a odesílání informací použít SSL3 
+			(Secured Sockets Layer Level 3) - standardní protokol pro komunikaci se
+			zabezpečenými stránkami. Zákazem tohoto šifrování nebude možné 
+			přistupovat k některým stránkám.</p>
+
+  	<p><em>Použít TLS 1.0</em><br/>
+			Určuje, zda pro bezpečné přijímání a odesílání informací použít TLS 
+			(Transport Layer Security) - otevřený bezpečnostní standard podobný SSL3 
+			(Secure Sockets Layer). Zákazem tohoto šifrování nebude možné 
+			přistupovat k některým stránkám.</p>
+
+    <h4 id="certificates">Certifikáty</h4>
+		 <p>Certifikáty pomáhají provádět šifrování a dešifrování spojení k <a 
+				href="glossary.xhtml#secure_site">bezpečným serverům</a>.</p>
+
+      <p><em>Pokud stránka vyžaduje certifikát:</em><br/>
+				Když webový server požaduje bezpečné spojení, &brandShortName; ve 
+				výchozím nastavení použije odpovídající certifikát. Pokud si přejete 
+				manuálně vybrat certifikát (například si přejete používat určitý typ 
+				šifrování místo toho, který je automaticky vybrán), vyberte volbu 
+				<em>Vždy se dotázat</em> a budete mít kompletní kontrolu nad tím, jaké 
+				certifikáty budete používat během prohlížení webu.</p>
+
+ 			<p><em>Certifikáty</em><br/>
+				Klepnutím na tlačítko <em>Certifikáty...</em> se zobrazí dialog, kde 
+				můžete vidět uložené certifikáty, importovat nové, zálohovat či 
+				odstraňovat staré certifikáty.</p>
+
+  		<p><em>Zneplatnění</em><br/>
+				&brandShortName; může použít CRL (též známý jako Certificate Revocation 
+				Lists) k ujištění, že vaše certifikáty jsou platné. Pokud potřebujete 
+				přidat CRL do &brandShortName;u či zobrazit informace o CRL, které máte 
+				nainstalovány, klepněte na tlačítko <em>Zneplatnění...</em>.</p>  
+
+  		<p><em>Ověřování</em><br/>
+				OCSP (Online Certificate Status Protocol) je cestou k ověřování vašich 
+				certifikátů pokaždé, když jsou zobrazovány či používány. 
+				&brandShortName; ve výchozím nastavení nepoužívá OCSP, ale pokud jej 
+				chcete povolit, můžete tak učinit. Učiňte tak však pouze tehdy, když 
+				to vaše prostředí vyžaduje.</p>
+
+  		<p><em>Bezpečnostní zařízení</em><br/> 
+				Bezpečnostní zařízení mohou šifrovat a dešifrovat spojení a skladovat 
+				certifikáty a hesly. Pokud potřebujete použít jiné bezpečnostní zařízení 
+				než to, které je používáno ve &brandShortName;u, klepněte na tlačítko 
+				<em>Bezpečnostní zařízení...</em>.</p>
+
+<div class="contentsBox"><em>16. září 2006</em></div>
+<p>Copyright &copy; &copyright.years; Spolupracovníci projektu Nápověda Mozilly.</p>
+
+
+</body>
+</html>

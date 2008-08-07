@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Název:">
+<!ENTITY bookmarks.name.accesskey "N">
+<!ENTITY bookmarks.location.label "Adresa:">
+<!ENTITY bookmarks.location.accesskey "A">
+<!ENTITY bookmarks.keyword.label "Klíčové slovo:">
+<!ENTITY bookmarks.keyword.accesskey "K">
+<!ENTITY bookmarks.description.label "Popis:">
+<!ENTITY bookmarks.description.accesskey "P">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Aktuální titulky">
+<!ENTITY bookmarks.createIn.label "Vytvořit v:">
+<!ENTITY bookmarks.createIn.accesskey "V">
+<!ENTITY bookmarks.feed_location.label "Adresa kanálu:">
+<!ENTITY bookmarks.feed_location.accesskey "d">
+<!ENTITY bookmarks.site_location.label "Adresa stránky:">
+<!ENTITY bookmarks.site_location.accesskey "r">
+<!ENTITY bookmarks.loadInSidebar.label "Nahrát záložku v postranní liště">
+<!ENTITY bookmarks.loadInSidebar.accesskey "z">
+<!ENTITY bookmarks.expanderDown.tooltip "Zobrazí vše ve složce">
+<!ENTITY bookmarks.expanderUp.tooltip "Skryje zobrazenou sekci">
+<!ENTITY bookmarks.newFolderButton.label "Nová složka">
+<!ENTITY bookmarks.newFolderButton.accesskey "s">

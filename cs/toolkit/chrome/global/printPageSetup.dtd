@@ -1,0 +1,39 @@
+<!-- extracted from printjoboptions.xul -->
+<!ENTITY printSetup.title "Vzhled stránky…">
+<!ENTITY basic.tab "Formát a možnosti">
+<!ENTITY formatGroup.label "Formát">
+<!ENTITY orientation.label "Orientace:">
+<!ENTITY portrait "Na výšku">
+<!ENTITY landscape "Na šířku">
+<!ENTITY scale.label "Měřítko:">
+<!ENTITY scalePercent "&#037;">
+<!ENTITY shrinkToFit.label "Na šířku stránky">
+<!ENTITY optionsGroup.label "Možnosti">
+<!ENTITY printBG.label "Tisknout pozadí (barvy a obrázky)">
+<!ENTITY advanced.tab "Okraje a Záhlaví/zápatí">
+<!ENTITY marginGroup.label "Okraje (#1)">
+<!ENTITY marginUnits.inches "palce">
+<!ENTITY marginUnits.metric "milimetry">
+<!ENTITY marginTop.label "Nahoře:">
+<!ENTITY marginBottom.label "Dole:">
+<!ENTITY marginLeft.label "Vlevo:">
+<!ENTITY marginRight.label "Vpravo:">
+<!ENTITY headerFooter.label "Záhlaví &amp; zápatí">
+<!ENTITY hfLeft.label "Vlevo:">
+<!ENTITY hfCenter.label "Uprostřed:">
+<!ENTITY hfRight.label "Vpravo:">
+<!ENTITY headerLeft.tip "Záhlaví vlevo">
+<!ENTITY headerCenter.tip "Záhlaví uprostřed">
+<!ENTITY headerRight.tip "Záhlaví vpravo">
+<!ENTITY footerLeft.tip "Zápatí vlevo">
+<!ENTITY footerCenter.tip "Zápatí uprostřed">
+<!ENTITY footerRight.tip "Zápatí vpravo">
+<!ENTITY hfTitle "Nadpis">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "Datum/čas">
+<!ENTITY hfPage "Strana #">
+<!ENTITY hfPageAndTotal "Strana  # z #">
+<!ENTITY hfBlank "--prázdno--">
+<!ENTITY hfCustom "Vlastní…">
+<!ENTITY customPrompt.title "Vlastní…">
+<!ENTITY customPrompt.prompt "Zadejte prosím vlastní text pro záhlaví/zápatí">

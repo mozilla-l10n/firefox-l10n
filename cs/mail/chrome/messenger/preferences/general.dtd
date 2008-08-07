@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label "Nastavení systému">
+<!ENTITY alwaysCheckDefault.label "Při startu kontrolovat, zda je &brandShortName; výchozím poštovním klientem">
+<!ENTITY alwaysCheckDefault.accesskey "t">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+ There's some sort of bug which makes wrapping checkboxes not properly reflow,
+ causing the bottom border of the groupbox to be cut off; set this
+ appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Zkontrolovat">
+<!ENTITY checkNow.accesskey "n">
+
+<!ENTITY messengerStartPage.label "Úvodní stránka pošty">
+<!ENTITY enableStartPage.label "Při spuštění aplikace &brandShortName; zobrazovat úvodní stránku v oblasti zpráv">
+<!ENTITY enableStartPage.accesskey "s">
+<!ENTITY location.label "Adresa:">
+<!ENTITY location1.accesskey "A">
+<!ENTITY useDefault.label "Obnovit výchozí">
+<!ENTITY useDefault.accesskey "O">
+
+<!ENTITY bounceSystemDockIcon.label "Animovat ikonku v doku">
+<!ENTITY bounceSystemDockIcon.accesskey "A">
+
+<!ENTITY newMessagesArrive.label "Při příchodu nové zprávy:">
+<!ENTITY playSound.label "Přehrát zvuk">
+<!ENTITY playSound1.accesskey "P">
+<!ENTITY showAnimatedAlert.label "Zobrazit upozornění">
+<!ENTITY showAnimatedAlert.accesskey "Z">
+<!ENTITY customizeMailAlert.label "Přizpůsobit…">
+<!ENTITY customizeMailAlert.accesskey "b">
+
+<!ENTITY soundNotification1.caption "Zvuk">
+<!ENTITY play.label "Přehrát">
+<!ENTITY play.accesskey "h">
+<!ENTITY systemsound.label "Zvuk nové pošty v systému">
+<!ENTITY systemsoundMac.label "Zvuk výstrahy v systému">
+<!ENTITY systemsoundMac.accesskey "Z">
+<!ENTITY systemsound.accesskey "Z">
+<!ENTITY customsound.label "Vlastní .wav soubor">
+<!ENTITY customsound.accesskey "V">
+<!ENTITY browse.label "Procházet…">
+<!ENTITY browse.accesskey "c">

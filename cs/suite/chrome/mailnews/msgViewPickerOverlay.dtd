@@ -1,0 +1,18 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY viewPicker.label "Zobrazit:">
+<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewAll.label "Vše">
+<!ENTITY viewAll.accesskey "V">
+<!ENTITY viewUnread.label "Nepřečtené">
+<!ENTITY viewUnread.accesskey "N">
+<!ENTITY viewNotDeleted.label "Nesmazané">
+<!ENTITY viewNotDeleted.accesskey "s">
+<!ENTITY viewTags.label "Štítky">
+<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewCustomViews.label "Uživatelské pohledy">
+<!ENTITY viewCustomViews.accesskey "P">
+<!ENTITY viewVirtualFolder.label "Uložit výsledek jako složku">
+<!ENTITY viewVirtualFolder.accesskey "U">
+<!ENTITY viewCustomizeView.label "Vlastní…">
+<!ENTITY viewCustomizeView.accesskey "L">

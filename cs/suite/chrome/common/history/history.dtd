@@ -1,0 +1,35 @@
+<!-- extracted from ./history.xul -->
+
+<!ENTITY menuBar.tooltip "Lišta nabídky">
+<!ENTITY fileMenu.label "Soubor">
+<!ENTITY closeCmd.label "Zavřít">
+<!ENTITY editMenu.label "Upravit">
+<!ENTITY undoCmd.label "Zpět">
+<!ENTITY redoCmd.label "Znovu">
+<!ENTITY cutCmd.label "Vyjmout">
+<!ENTITY copyCmd.label "Kopírovat">
+<!ENTITY pasteCmd.label "Vložit">
+<!ENTITY deleteCmd.label "Smazat">
+<!ENTITY deleteHostnameCmd.accesskey "s">
+<!ENTITY deleteDomainCmd.accesskey "o">
+<!ENTITY selAllCmd.label "Vybrat vše">
+<!ENTITY findHisCmd.label "Hledat v historii…">
+<!ENTITY findHisCmd.commandkey "f">
+<!ENTITY findHisCmd.accesskey "L">
+<!ENTITY groupBy.label "Seskupit podle">
+<!ENTITY groupBy.accesskey "S">
+<!ENTITY groupByDay.label "Dne">
+<!ENTITY groupByDay.accesskey "D">
+<!ENTITY groupBySite.label "Serveru">
+<!ENTITY groupBySite.accesskey "R">
+<!ENTITY groupByNone.label "Neseskupit">
+<!ENTITY groupByNone.accesskey "N">
+<!ENTITY historyWindowTitle.label "Historie">
+<!ENTITY menuitem.view.unsorted.label "Neřadit">
+<!ENTITY menuitem.view.unsorted.accesskey "n">
+<!ENTITY sortAscending.label "Ascending">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "Descending">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY menuitem.view.show_columns.label "Zobrazit sloupce">
+<!ENTITY menuitem.view.show_columns.accesskey "S">

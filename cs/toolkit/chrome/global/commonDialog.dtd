@@ -1,0 +1,10 @@
+<!ENTITY header.label "Krátký nadpis">
+<!ENTITY message.label "Místo pro vzorový text.">
+<!ENTITY editfield0.label "Jméno uživatele:">
+<!ENTITY editfield1.label "Heslo:">
+<!ENTITY editfield2.label "Potvrzení hesla:">
+<!ENTITY checkbox.label "zaškrtnout">
+<!ENTITY copyCmd.label "Kopírovat">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Vybrat vše">
+<!ENTITY selectAllCmd.accesskey "a">

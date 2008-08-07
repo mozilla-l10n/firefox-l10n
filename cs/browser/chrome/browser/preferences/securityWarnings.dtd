@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title "Bezpečnostní varování">
+
+<!ENTITY security.warn_when "Zobrazit varování, pokud:">
+<!ENTITY security.warn_entering_secure.label "Vstupuji na zabezpečenou stránku.">
+<!ENTITY security.warn_entering_secure.accesskey "V">
+<!ENTITY security.warn_entering_weak.label "Vstupuji na zabezpečenou stránku používající slabé šifrování.">
+<!ENTITY security.warn_entering_weak.accesskey "s">
+<!ENTITY security.warn_leaving_secure.label "Přecházím ze zabezpečené stránky na nezabezpečenou.">
+<!ENTITY security.warn_leaving_secure.accesskey "P">
+<!ENTITY security.warn_submit_insecure.label "Odesílám informace nešifrovaně.">
+<!ENTITY security.warn_submit_insecure.accesskey "O">
+<!ENTITY security.warn_viewing_mixed.label "Vstupuji na zabezpečenou stránku obsahující nezabezpečené prvky.">
+<!ENTITY security.warn_viewing_mixed.accesskey "t">

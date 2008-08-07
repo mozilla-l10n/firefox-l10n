@@ -1,0 +1,80 @@
+<!-- extracted from content/pref-fonts.xul -->
+<!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
+
+<!ENTITY pref.fonts.title "Písma">
+
+<!ENTITY language.label "Znaková sada:">
+<!ENTITY language.accesskey "d">
+
+<!ENTITY typefaces.label "Řez písma">
+<!ENTITY sizes.label "Velikost (bodů)">
+
+<!ENTITY proportional.label "Proporcionální:">
+<!ENTITY proportional.accesskey "R">
+
+<!ENTITY serif.label "Patkové:">
+<!ENTITY serif.accesskey "p">
+<!ENTITY sans-serif.label "Bezpatkové:">
+<!ENTITY sans-serif.accesskey "b">
+<!ENTITY monospace.label "Neproporcionální:">
+<!ENTITY monospace.accesskey "n">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY fantasy.label "Ozdobné:">
+<!ENTITY fantasy.accesskey "o">
+<!ENTITY cursive.label "Kurzíva:">
+<!ENTITY cursive.accesskey "k">
+
+<!ENTITY fontsize.units "bodů">
+
+<!ENTITY font.langGroup.latin1 "Západní jazyky">
+<!ENTITY font.langGroup.latin2 "Středoevropské jazyky">
+<!ENTITY font.langGroup.japanese "Japonština">
+<!ENTITY font.langGroup.trad-chinese "Tradiční čínština (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "Zjednodušená čínština">
+<!ENTITY font.langGroup.trad-chinese-hk "Tradiční čínština (Hong Kong)">
+<!ENTITY font.langGroup.korean "Korejština">
+<!ENTITY font.langGroup.cyrillic "Azbuka">
+<!ENTITY font.langGroup.baltic "Baltské jazyky">
+<!ENTITY font.langGroup.el "Řečtina">
+<!ENTITY font.langGroup.turkish "Turecká">
+<!ENTITY font.langGroup.unicode "Unicode">
+<!ENTITY font.langGroup.user-def "Definovaná uživatelem">
+<!ENTITY font.langGroup.thai "Thajština">
+<!ENTITY font.langGroup.hebrew "Hebrejština">
+<!ENTITY font.langGroup.arabic "Arabština">
+<!ENTITY font.langGroup.devanagari "Devanagari">
+<!ENTITY font.langGroup.tamil "Tamilština">
+<!ENTITY font.langGroup.armenian "Arménština">
+<!ENTITY font.langGroup.bengali "Bengálština">
+<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
+<!ENTITY font.langGroup.ethiopic "Etiopština">
+<!ENTITY font.langGroup.georgian "Gruzínština">
+<!ENTITY font.langGroup.gujarati "Gudžarádština">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
+<!ENTITY font.langGroup.khmer "Khmérština">
+<!ENTITY font.langGroup.malayalam "Malajálamština">
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Minimální velikost fontů:">
+<!ENTITY minSize.accesskey "m">
+<!ENTITY minSize.none "Žádná">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Patkové">
+<!ENTITY useDefaultFontSansSerif.label "Bezpatkové">
+
+<!ENTITY newLanguages.label "Nové jazyky mohou být nastaveny pomocí panelu jazyků.">
+
+<!ENTITY useDocumentFonts.label "Povolit stránkám použít jiné písmo">
+<!ENTITY useDocumentFonts.accesskey "j">
+<!-- leaving this stuff in for now -->
+
+
+<!ENTITY header2 "Určuje-li si stránka vlastní písma">
+<!ENTITY useDefaultFont.label "Použít zde nastavená písma, bez ohledu na písma určovaná stránkou">
+<!ENTITY useDefaultFont.accesskey "u">
+<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY useDocFontNonDynamic.label "Použít písma určená stránkou s vyjímkou dynamických">
+<!ENTITY useDocFontNonDynamic.accesskey "s">
+<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY useDocFontDynamic.label "Použít všechna písma, která si stránka určí">
+<!ENTITY useDocFontDynamic.accesskey "v">

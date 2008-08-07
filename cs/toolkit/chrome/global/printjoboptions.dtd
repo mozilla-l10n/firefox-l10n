@@ -1,0 +1,18 @@
+<!-- extracted from printjoboptions.xul -->
+<!ENTITY printJobOptions.title "Vlastnosti tisku">
+<!ENTITY paperInput.label "Velikost papíru:">
+<!ENTITY plexInput.label "Mód plex:">
+<!ENTITY resolutionInput.label "Rozlišení/kvalita">
+<!ENTITY cmdInput.label "Příkaz pro tisk:">
+<!ENTITY jobTitleInput.label "Název">
+<!ENTITY colorGroup.label "Barva:">
+<!ENTITY grayRadio.label "Odstín šedi">
+<!ENTITY colorRadio.label "Barva">
+<!ENTITY colorspaceInput.label "Prostor barev:">
+<!ENTITY fontsGroup.label "Písma:">
+<!ENTITY downloadFonts.label "Stáhnout fonty pro tiskárnu?">
+<!ENTITY edgeMarginInput.label "Mezera mezi hranou papíru a okrajem (v palcích)">
+<!ENTITY topInput.label "Nahoře:">
+<!ENTITY bottomInput.label "Dole:">
+<!ENTITY leftInput.label "Zleva:">
+<!ENTITY rightInput.label "Zprava:">

@@ -1,0 +1,94 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Bezpečnostní nastavení">
+<!ENTITY serverSettings.label "Nastavení serveru">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "Poštovní server (POP)">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "Poštovní server (IMAP)">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Diskusní server (NNTP)">
+<!ENTITY webmail.label "Účet webové pošty">
+<!ENTITY serverType.label "Typ serveru:">
+<!ENTITY serverName.label "Název serveru:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "Jméno uživatele:">
+<!ENTITY userName.accesskey "J">
+<!ENTITY port.label "Port:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Výchozí:">
+<!ENTITY savePassword.label "Uložit heslo">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Kontrolovat nové zprávy každých">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "minut">
+<!ENTITY isSecure.label "Použít zabezpečené spojení (SSL)">
+<!ENTITY isSecure.accesskey "U">
+<!ENTITY socketType.label "Použít bezpečné spojení:">
+<!ENTITY neverSecure.label "Nikdy">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, pokud je dostupné">
+<!ENTITY sometimesSecure.accesskey "t">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Použít zabezpečenou autentizaci">
+<!ENTITY useSecAuth.accesskey "z">
+<!ENTITY leaveOnServer.label "Ponechat zprávy na serveru">
+<!ENTITY leaveOnServer.accesskey "h">
+<!ENTITY headersOnly.label "Stahovat pouze hlavičky zpráv">
+<!ENTITY headersOnly.accesskey "h">
+<!ENTITY deleteByAgeFromServer.label "Smazat zprávy na serveru starší více jak">
+<!ENTITY deleteByAgeFromServer.accesskey "m">
+<!ENTITY daysEnd.label "dny(ů)">
+<!ENTITY deleteOnServer2.label "Dokud je nesmažu">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "Automaticky stahovat nové zprávy">
+<!ENTITY downloadOnBiff.accesskey "a">
+<!ENTITY hostname.label "Jméno serveru">
+<!ENTITY username.label "Vaše přihlašovací jméno">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "Informace o POP serveru">
+<!ENTITY deleteMessagePrefix.label "Při odstranění zprávy:">
+<!ENTITY modelMoveToTrash.label "Přesunout zprávu do koše">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Označit zprávu jako odstraněnou">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Odstranit zprávu okamžitě">
+<!ENTITY modelDeleteImmediately.accesskey "d">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Při ukončení vymazat obsah složky s doručenou poštou">
+<!ENTITY expungeOnExit.accesskey "K">
+<!ENTITY emptyTrashOnExit.label "Při ukončení vysypat koš">
+<!ENTITY emptyTrashOnExit.accesskey "y">
+<!ENTITY loginAtStartup.label "Po spuštění zkontrolovat nové zprávy">
+<!ENTITY loginAtStartup.accesskey "Z">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Zobrazit dotaz před nahráním více než">
+<!ENTITY maxMessagesStart.accesskey "d">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "zpráv">
+<!ENTITY alwaysAuthenticate.label "Při připojování na tento server vždy požadovat autentizaci">
+<!ENTITY alwaysAuthenticate.accesskey "t">
+<!ENTITY newsrcFilePath.label "Soubor newsrc:">
+<!ENTITY localPath.label "Místní adresář:">
+<!ENTITY abbreviate.label "Zobrazit názvy skupin v okně poštovních složek jako:">
+<!ENTITY abbreviateOn.label "Celá jména (např.: 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Zkracovat jména (např.: 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Rozšířené…">
+<!ENTITY serverDefaultCharset.label "Výchozí znaková sada:">
+<!ENTITY advancedButton.accesskey "r">
+<!ENTITY localFolderPicker.label "Vybrat místní adresář">
+<!ENTITY browseFolder.label "Procházet…">
+<!ENTITY browseFolder.accesskey "P">
+<!ENTITY newsrcPicker.label "Vyberte soubor newsrc">
+<!ENTITY browseNewsrc.label "Procházet…">
+<!ENTITY browseNewsrc.accesskey "p">

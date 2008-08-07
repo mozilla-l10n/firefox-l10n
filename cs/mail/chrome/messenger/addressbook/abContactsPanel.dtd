@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label "Složky kontaktů:">
+<!ENTITY addressbookPicker.accesskey "S">
+<!ENTITY searchInput.label "Hledat:">
+<!ENTITY searchInput.accesskey "H">
+<!ENTITY SearchNameOrEmail.label "Jméno nebo e-mail">
+
+<!ENTITY deleteAddrBookCard.label "Smazat">
+<!ENTITY addrBookCardProperties.label "Vlastnosti">
+<!ENTITY addtoToFieldMenu.label "Přidat do pole Komu">
+<!ENTITY addtoCcFieldMenu.label "Přidat do pole Kopie">
+<!ENTITY addtoBccFieldMenu.label "Přidat do pole Skrytá kopie">
+
+<!ENTITY toButton.label "Přidat do Komu:">
+<!ENTITY toButton.accesskey "P">
+<!ENTITY ccButton.label "Přidat do Kopie:">
+<!ENTITY ccButton.accesskey "K">
+<!ENTITY bccButton.label "Přidat do Skryté kopie:">
+<!ENTITY bccButton.accesskey "S">

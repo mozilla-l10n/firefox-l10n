@@ -1,0 +1,4 @@
+<!ENTITY startDescription.label "Webová stránka se bez vašeho souhlasu pokusila otevřít vyskakovací okno, které aplikace &brandShortName; automaticky zavřela. Kdykoliv &brandShortName; zablokuje vyskakovací okno, uvidíte ve stavovém řádku ikonu.">
+<!ENTITY endDescription.label "Klepnutím na tuto ikonu můžete zjistit, jakým serverům &brandShortName; zakazuje otevírání vyskakovacích oken, a případně je povolit, pokud je to vyžadováno pro správnou funkci stránek.">
+<!ENTITY caption.label "O blokování vyskakovacích oken">
+<!ENTITY done.label "Hotovo">

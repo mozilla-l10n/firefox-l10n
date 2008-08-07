@@ -1,0 +1,16 @@
+<!ENTITY tree.header.name.label "Nadpis">
+<!ENTITY tree.header.name.accesskey "N">
+<!ENTITY tree.header.url.label "Umístění">
+<!ENTITY tree.header.url.accesskey "U">
+<!ENTITY tree.header.date.label "Poslední návštěva">
+<!ENTITY tree.header.date.accesskey "l">
+<!ENTITY tree.header.firstvisitdate.label "První návštěva">
+<!ENTITY tree.header.firstvisitdate.accesskey "P">
+<!ENTITY tree.header.referrer.label "Zdroj odkazu">
+<!ENTITY tree.header.referrer.accesskey "Z">
+<!ENTITY tree.header.hostname.label "Server">
+<!ENTITY tree.header.hostname.accesskey "S">
+<!ENTITY tree.header.visitcount.label "Počet návštěv">
+<!ENTITY tree.header.visitcount.accesskey "o">
+<!ENTITY bookmarkLinksCmd.label "Založit tyto odkazy">
+<!ENTITY bookmarkLinksCmd.accesskey "L">

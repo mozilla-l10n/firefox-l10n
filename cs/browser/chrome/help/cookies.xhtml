@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD; 
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Pavel Franc <franc@czilla.cz> (translation)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Správa cookies</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Správa cookies</h1>
+
+<p>Tento dokument vysvětluje, co jsou cookies, jak se používají a jak lze spravovat cookies uložené na vašem počítači pomocí Správce cookies v prohlížeči &brandFullName;.</p>
+
+<div class="contentsBox">V této kapitole:
+  <ul>
+    <li><a href="#what_is_a_cookie">Co je cookie?</a></li>
+    <li><a href="#setting_up_cookie_rules">Nastavení pravidel pro cookies</a></li>
+    <li><a href="#accepting_and_blocking_cookies">Přijímání a blokování cookies</a></li>
+    <li><a href="#cookies_exceptions">Správa výjimek</a></li>
+    <li><a href="#view_cookies">Správce cookies</a></li>
+  </ul>
+</div>
+
+<h2 id="what_is_a_cookie">Co je cookie?</h2>
+
+<p>Cookie je soubor vytvořený webovou stránkou a uložený na vašem počítači. Obsahuje např. informace o nastaveních souvisejících s návštěvou některé webové stránky. Při návštěvě stránky používající cookies, se tato stránka může dotázat, zda &brandShortName; povolí uložit jednu nebo více cookie na pevný disk počítače.</p>
+
+<p>Když se později na webovou stránku vrátíte, &brandShortName; odešle cookies, které s touto stránkou souvisejí. To umožní stránce přizpůsobit se podle vašich potřeb.</p>
+
+<p>Cookies mohou také obsahovat informace, které mohou identifikovat vaši osobu, tedy informace, které mohou být použity k vaší identifikaci nebo k vašemu kontaktování - například vaše jméno, e-mailovou adresu, adresu soukromou či pracovní nebo telefonní číslo. Nicméně webová stránka má přístup pouze k těm informacím, které sami poskytnete. Například, webová stránka nemůže zjistit vaši e-mailovou adresu, dokud ji sami nezadáte. Stejně tak webová stránka nemůže získat přístup k ostatním informacím na vašem počítači.</p>
+
+<p>Používáte-li výchozí nastavení pro cookies, jsou všechny tyto činnosti pro vás neviditelné. Nevíte, že webová stránka nastavuje cookies nebo že &brandShortName; odesílá cookies webové stránce. Nicméně je možno nastavit cookies tak, aby jste byli před nastavením cookies upozorněni. Můžete též omezit platnost cookies pouze na aktuální relaci &brandShortName;u.</p>
+
+
+<h2 id="setting_up_cookie_rules">Nastavení pravidel pro cookies</h2>
+
+<p>Podle výchozího nastavení &brandShortName; všechny cookies přijímá. Přejete-li si více kontrolovat ukládané cookies, proveďte následující kroky:</p>
+
+<p>Ve výchozím nastavení &brandShortName; akceptuje všechna cookies, včetně těch, které dovolují upravit stránky i pro jejich příští návštěvy. Pokud vám to takto nevyhovuje, můžete &brandShortName;u říci, aby při ukončení všechna cookies vymazal:</p>
+
+<ol>
+  <li>V hlavní nabídce zvolte &pref.menuPath; a otevřete panel Soukromí</li>
+  <li>V části Cookies zvolte z rozbalovací nabídky <span class="menuPath">Ponechat do</span>
+  volbu <em>ukončení aplikace Firefox</em>.</li>
+</ol>
+
+<p>Pokud chcete konkrétním serverům povolit skladovat cookies trvale (např. chcete, aby bylo na konkrétní stránce umožněno automatické přihlášení), klepněte na tlačítko <a href="#cookies_exceptions"><em>Výjimky...</em></a>, vložte adresu serveru a klepněte na tlačítko <em>Povolit</em>.</p>
+
+<h3 id="all_the_settings">Pokročilé nastavení cookies</h3>
+
+<p>Existuje řada &pref.plural;, které ovlivňují, jak &brandShortName; zachází s cookies.</p>
+
+<dl>
+  <dt>Povolit serverům nastavovat cookies</dt>
+  <dd><p>Pokud nechcete povolit webovým stránkám ukládat cookies na váš počítač, odškrtněte tuto &pref.singular;. Zakážete-li tuto &pref.singular;, některé stránky nemusí fungovat korektně. Jestliže chcete některým serverům povolit ukládání souborů cookies, otevřete <a href="#cookies_exceptions">okno výjimek</a> klepnutím na tlačítko <em>Výjimky...</em>, zadejte adresu serveru a klepněte na tlačítko <em>Povolit</em> či <em>Povolit pro relaci</em>.</p></dd>  
+
+  <dt>Ponechat do:</dt>
+  <dd>
+  <ul>
+    <li><em>konce doby platnosti</em><br/>
+      Pokud je tato možnost vybrána, cookies bude odstraněno teprve tehdy, až vyprší jeho platnost.</li>
+    <li><em>ukončení aplikace Firefox</em><br/>  
+      Jeli tato možnost vybrána, budou informace obsažené v cookies odstraněny po restartu &brandShortName;u. Webové servery vyžadující pro svou správnou funkci cookies budou stále pracovat, avšak po restartu &brandShortName;u se server bude tvářit jako byste jej navštívili poprvé.</li>
+    <li><em>vždy se dotázat</em><br/>  
+      Pokaždé, když navštívíte webový server, který bude chtít uložit na váš počítač cookies, budete dotázání, zda si to přejete.</li>
+  </ul>
+  </dd>
+</dl>
+
+<h2 id="accepting_and_blocking_cookies">Přijímání a blokování cookies</h2>
+
+<p>Pokud jste zvolili možnost <em>vždy se dotázat</em> u volby <em>Ponechat do</em>, zobrazí se vám dotazovací dialogu kdykoliv se některý server pokusí uložit cookies na váš počítač. Dialog obsahují následující volby:</p>
+
+<dl>
+  <dt>Povolit</dt>
+  <dd>Pro povolení konkrétní cookies pouze klepněte na tlačítko <em>Povolit</em>. Zvolte, jen pokud jste si skutečně jisti, že stránka je bezpečná.</dd>
+  <dt>Povolit pro relaci</dt>
+  <dd>Pokud chcete povolit konkrétní cookies pouze pro relaci tj. při ukončení &brandShortName;u bude vymazáno, klepněte na volbu <em>Povolit pro relaci</em>. Tuto volbu zvolte, pokud zvolený server nepracuje korektně bez cookies a vy si zároveň nepřejete mít cookies uloženy trvale.</dd>
+  <dt>Zakázat</dt>
+  <dd>Pokud nechcete cookies přijmout, klepněte na tlačítko <em>Zakázat</em>. Tuto volbou použijte tehdy, pokud si nejste jisti bezpečností serveru nebo máte podezření, že se někdo snaží narušit vaše soukromí.</dd>
+  <dt>Použít tuto volbu pro všechny cookies z tohoto serveru</dt>
+  <dd>Zaškrtněte tuto volbu před klepnutím na jakékoliv tlačítko, pokud si přejete, aby si &brandShortName; tuto volbu zapamatoval a již se vás příště neptal. Webový server bude přidán do <a href="#cookies_exceptions">okna výjimek</a>, kde můžete své rozhodnutí kdykoliv později změnit.</dd>
+</dl>
+
+<h2 id="cookies_exceptions">Správa výjimek</h2>
+
+<p>Okno výjimek otevřete klepnutím na tlačítko <em>Výjimky...</em> na panelu <em>Cookies</em> sekce <em>Soukromí</em>. V tomto okně můžete specifikovat výjimky pro používání cookies jednotlivými servery. Použitím výjimek můžete povolit všechna cookies, zakázat všechna cookies či povolit všechna cookies, ale automaticky je vymazávat při ukončování &brandShortName;u. Vše nezávisle na vašem nastavení cookies.</p>
+
+<p>Pro přidání serveru do seznamu jednoduše zadejte jeho doménové jméno do pole nadepsané <em>Adresa webového serveru</em>. Následně klepněte na tlačítko <em>Blokovat</em> pro blokování cookies z uvedeného serveru či <em>Povolit</em> pro povolení cookies z uvedeného serveru. Můžete též zvolit <em>Povolit pro relaci</em> pro povolení cookies z webového serveru. Cookies pak budou mazány při ukončování &brandShortName;u.</p>
+
+<p>Pro odebrání serveru ze seznamu vyberte zvolený server a klepněte na tlačítko <em>Odebrat server</em>. Pro vymazání celého serveru klepněte na tlačítko <em>Odebrat všechny servery</em>. Tím vymažete celý seznam výjimek, které jste nastavili.</p>
+
+<h2 id="view_cookies">Správce cookies</h2>
+
+<p>Použijte okno <em>Správce cookies</em> pro zobrazení seznamu uložených cookies. Získáte jej tak, že klepnete na tlačítko <em>Správce cookies</em> na panelu <em>Cookies</em>.</p>
+
+<p>V okně jsou vždy zobrazeny všechny cookies uložené na vašem počítači a seřazené podle serveru. Po rozbalení seznamu cookies u konkrétního serveru získáte více informací o uložených cookies. V dialogu lze též vyhledávat cookies dle zadaného klíčového slova</p>
+
+<p>Pro odstranění cookie ze seznamu jej postačí zvolit a klepnout na tlačítko <em>Odebrat cookie</em>. Pro odstranění všech cookies ze zvoleného serveru klepněte na tlačítko <em>Odebrat cookie(s)</em>. Pro odstranění všech uložených cookies klepněte na tlačítko <em>Odebrat všechny cookies</em>.</p>
+
+<div class="contentsBox"><em>16. září 2006</em></div>
+<p>Copyright &copy; &copyright.years; Spolupracovníci projektu Nápověda Mozilly.</p>
+
+
+</body>
+</html>

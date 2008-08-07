@@ -1,0 +1,14 @@
+
+<!ENTITY prefWindow.titleWin "Možnosti">
+<!ENTITY prefWindow.titleGNOME "Předvolby aplikace &brandShortName; ">
+<!ENTITY prefWindow.styleWindows "width: 44em; min-height: 39em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleGNOME "width: 48em; min-height: 40em;">
+
+<!ENTITY paneGeneral.title "Obecné">
+<!ENTITY paneDisplay.title "Zobrazení">
+<!ENTITY paneTags.title "Štítky">
+<!ENTITY paneComposition.title "Vytváření">
+<!ENTITY paneAttachments.title "Přílohy">
+<!ENTITY panePrivacy.title "Soukromí">
+<!ENTITY paneAdvanced.title "Rozšířené">
