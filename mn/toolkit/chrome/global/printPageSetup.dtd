@@ -1,0 +1,38 @@
+<!ENTITY advanced.tab "Зай авалт ба Толгой/Хөл">
+<!ENTITY basic.tab "Хэлбэршил ба Сонголт">
+<!ENTITY customPrompt.prompt "Дурын толгой болон хөл хэсгийн текст оруул">
+<!ENTITY customPrompt.title "Дурын...">
+<!ENTITY footerCenter.tip "Төв доод хэсэг">
+<!ENTITY footerLeft.tip "Зүүн доод хэсэг">
+<!ENTITY footerRight.tip "Баруун доод хэсэг">
+<!ENTITY formatGroup.label "Хэлбэршил">
+<!ENTITY headerCenter.tip "Төв толгой хэсэг">
+<!ENTITY headerFooter.label "Толгой ба хөл">
+<!ENTITY headerLeft.tip "Зүүн толгой хэсэг">
+<!ENTITY headerRight.tip "Баруун толгой хэсэг">
+<!ENTITY hfBlank "--хоосон--">
+<!ENTITY hfCenter.label "Төв:">
+<!ENTITY hfCustom "Дурын...">
+<!ENTITY hfDateAndTime "Огноо">
+<!ENTITY hfLeft.label "Зүүн:">
+<!ENTITY hfPage "Хуудас #">
+<!ENTITY hfPageAndTotal "Хуудас # , нийт #">
+<!ENTITY hfRight.label "Баруун:">
+<!ENTITY hfTitle "Гарчиг">
+<!ENTITY hfURL "Интернэт хаяг">
+<!ENTITY landscape "Хэвтээгээр">
+<!ENTITY marginBottom.label "Доод:">
+<!ENTITY marginGroup.label "Зай авалт (#1)">
+<!ENTITY marginLeft.label "Зүүн:">
+<!ENTITY marginRight.label "Баруун:">
+<!ENTITY marginTop.label "Дээд:">
+<!ENTITY marginUnits.inches "инч">
+<!ENTITY marginUnits.metric "миллиметр">
+<!ENTITY optionsGroup.label "Сонголт">
+<!ENTITY orientation.label "Чиглэл:">
+<!ENTITY portrait "Босоогоор">
+<!ENTITY printBG.label "Арын дэвсгэрийг хэвлэ (өнгө болон зураг)">
+<!ENTITY printSetup.title "Хуудасны тохиргоо">
+<!ENTITY scale.label "Хэмжээ:">
+<!ENTITY scalePercent "&#037;">
+<!ENTITY shrinkToFit.label "Хуудасны өргөнд багтааж сунга">

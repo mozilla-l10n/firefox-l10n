@@ -1,0 +1,78 @@
+<!ENTITY  fontsAndEncodingsDialog.title                       "Үсгийн маяг ба хувиргалт">
+<!ENTITY  window.width                            "43em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "43em">
+
+<!ENTITY  language.label                          "Үсгийн маяг:">
+<!ENTITY  language.accesskey                      "я">
+
+<!ENTITY  typefaces.label                         "Бичгийн хэлбэр">
+<!ENTITY  sizes.label                             "Хэмжээ (цэгээр)">
+<!ENTITY  proportionalSize.accesskey              "ж">
+<!ENTITY  monospaceSize.accesskey                 "г">
+
+<!ENTITY  proportional.label                      "Харьцангуй:">
+<!ENTITY  proportional.accesskey                  "й">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Ижил зайт:">
+<!ENTITY  monospace.accesskey                     "т">
+
+<!ENTITY  fontsize.units                          "цэг">
+
+<!ENTITY  font.langGroup.latin1                   "Баруун европ">
+<!ENTITY  font.langGroup.latin2                   "Төв европ">
+<!ENTITY  font.langGroup.japanese                 "Япон">
+<!ENTITY  font.langGroup.trad-chinese             "Үндэсний хятад (Тайвань)">
+<!ENTITY  font.langGroup.simpl-chinese            "Хялбаршуулсан хятад">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Үндэсний хятад (Гонг конг)">
+<!ENTITY  font.langGroup.korean                   "Солонгос">
+<!ENTITY  font.langGroup.cyrillic                 "Крилл">
+<!ENTITY  font.langGroup.baltic                   "Балтийн">
+<!ENTITY  font.langGroup.el                       "Грек">
+<!ENTITY  font.langGroup.turkish                  "Түрк">
+<!ENTITY  font.langGroup.unicode                  "Бусад хэл">
+<!ENTITY  font.langGroup.user-def                 "Хэрэглэгч тохируулсан">
+<!ENTITY  font.langGroup.thai                     "Тай">
+<!ENTITY  font.langGroup.hebrew                   "Еврей">
+<!ENTITY  font.langGroup.arabic                   "Араб">
+<!ENTITY  font.langGroup.devanagari               "Диванагари">
+<!ENTITY  font.langGroup.tamil                    "Тамил">
+<!ENTITY  font.langGroup.armenian                 "Армен">
+<!ENTITY  font.langGroup.bengali                  "Бенгали">
+<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.ethiopic                 "Этиоп">
+<!ENTITY  font.langGroup.georgian                 "Гүрж">
+<!ENTITY  font.langGroup.gujarati                 "Гужарат">
+<!ENTITY  font.langGroup.gurmukhi                 "Гүрмүки">
+<!ENTITY  font.langGroup.khmer                    "Кхмер">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Үсгийн бага хэмжээ:">
+<!ENTITY minSize.accesskey                        "ж">
+<!ENTITY minSize.none                             "Зааж өгөөгүй">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!ENTITY  newLanguages.label                      "Шинэ хэлийг хэлний самбарыг хэрэглэн тохируулна.">
+
+<!ENTITY  useDocumentFonts.label                  "Захианд өөр үсгийн маяг хэрэглэхийг зөвшөөр">
+<!ENTITY  useDocumentFonts.accesskey              "и">
+
+<!-- Language settings -->
+
+<!ENTITY sendDefaultCharset.label         "Илгээгдэж буй захиа:">
+<!ENTITY sendDefaultCharset.accesskey     "й">
+<!ENTITY languagesTitle1.label				  "Тэмдэг хувиргалт">
+<!ENTITY composingDescription.label       "Захиа илгээх болон хүлээн авах үед анхны тэмдэг хувиргалтыг хэрэглэ">
+
+<!ENTITY viewDefaultCharsetList.label     "Ирж буй захиа:">
+<!ENTITY viewDefaultCharsetList.accesskey	"ж">
+<!ENTITY replyInDefaultCharset2.label      "Боломжтой бол хариулж бичих үед анхны тэмдэг хувиргалт хэрэглэ">
+<!ENTITY replyInDefaultCharset2.accesskey   "э">

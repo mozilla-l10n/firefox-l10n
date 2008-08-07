@@ -1,0 +1,57 @@
+<!ENTITY itemJunk.label          "Тэнэмэл">
+<!ENTITY itemPhishing.label      "Хуурмаг захианууд">
+<!ENTITY itemPasswords.label     "Нууц үг">
+<!ENTITY itemAntiVirus.label     "Вирусны эсрэг програм">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Анхны тэнэмэл захианы тохиргоог хийнэ үү. Бүртгэл болгонд хамаарсан тохиргоог бүртгэлийн тохиргоо хэсэгт хийнэ.">
+<!ENTITY manualMark.label "Хэрэв би захиаг тэнэмэл гэж тэмдэглэвэл:">
+<!ENTITY manualMark.accesskey "т">
+<!ENTITY manualMarkModeMove.label "Тэднийг бүртгэлийн &quot;Тэнэмэл&quot; санд зөө">
+<!ENTITY manualMarkModeMove.accesskey "з">
+<!ENTITY manualMarkModeDelete.label "Тэднийг устга">
+<!ENTITY manualMarkModeDelete.accesskey "у">
+<!ENTITY markAsReadOnSpam.label "Тэнэмэл гэж танигдсан захиаг уншсан гэж тэмдэглэ">
+<!ENTITY markAsReadOnSpam.accesskey "ш">
+<!ENTITY enableJunkLogging.label "Тэнэмэлийн шүүлтүүрийн бүртгэл бичлэгийг идэвхижүүл">
+<!ENTITY enableJunkLogging.accesskey "ж">
+<!ENTITY openJunkLog.label "Бүртгэл бичлэгийг харуул">
+<!ENTITY openJunkLog.accesskey "л">
+<!ENTITY resetTrainingData.label "Дасгалжуулсан өгөгдлийг шинээр шинэчил">
+<!ENTITY resetTrainingData.accesskey "ч">
+
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector1.intro      "&brandShortName; нь ирсэн захиаг хуурамч сэжигтэй захиа эсэхийг нь шалган дүгнэлт хийж чадна.">
+<!ENTITY enablePhishingDetector1.label    "Намайг захиа уншиж байгаа үед уг захиаг хуурамч сэжигтэй эсэхийг нь надад хэл">
+<!ENTITY enablePhishingDetector1.accesskey  "й">
+<!ENTITY useDownloadedList.label "Хуурамч сэжигтэй захианы жагсаалт ашигла">
+<!ENTITY useDownloadedList.accesskey "ш">
+
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "&brandShortName; таны бүртгэлийн бүх мэдээллийн нууц үгийг санаж, сүүлд та нэвтрэх мэдээллээ дахин бичиж оруулах шаардлага гарахгүй.">
+<!ENTITY  encryptEnabled.label        "Хадгалсан нууц үгийг хувиргахад мастер нууц үгийг хэрэглэ">
+<!ENTITY  encryptEnabled.accesskey    "ц">
+<!ENTITY  masterPassword.intro        "Хэрэгв мастер нууц үг суугдсан бол таны бүх нууц үгийг хамгаалах болно. Гэхдээ та хэсэг тус бүрд нэг удаа оруулна.">
+<!ENTITY  setMasterPassword.label     "Мастер нууц үг">
+<!ENTITY  setMasterPassword.accesskey "М">
+<!ENTITY  removeMasterPassword.label  "Мастер нууц үг устга…">
+<!ENTITY  removeMasterPassword.accesskey "у">
+<!ENTITY  editPasswords.label         "Хадгалагдсан нууц үгсийг засварла">
+<!ENTITY  editPasswords.accesskey     "в">
+
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; ирж буй захиаг дотроо хадгалахаасс өмнө вирусны эсрэг програмаар дүгнэлт хийлгэх чадвартай.">
+<!ENTITY antiVirus.label      "Ирж буй захианд вирусны эсрэг програм хандахыг зөвшөөр">
+<!ENTITY antiVirus.accesskey  "ш">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "Вирус-эсэргүүцэгч">
+<!ENTITY paswords.label         "Нууц үг">
+<!ENTITY emailScams.label       "Хуурамч захиа">
+<!ENTITY junkMail.label         "Тэнэмэл захиа">
+<!ENTITY itemIntrusions.label   "Дайралт">
+<!ENTITY itemIntrusionsAndPasswords.label  "Дайралт болон нууц үг">
+<!ENTITY itemJunkMail.label     "Тэнэмэл захиа">

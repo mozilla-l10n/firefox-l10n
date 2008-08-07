@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "Импортлох хэсэг">
+
+<!ENTITY importFromWin.label               "Сонголт, Бүртгэлийн тохиргоо, Хаягийн тэмдэглэл, шүүлтүүр болон бусад өгөгдөл  импортлох:">
+<!ENTITY importFromNonWin.label           "Тохируулга, Бүртгэлийн тохиргоо Хаягийн тэмдэглэл ба бусад өгөгдөл импортлох:">
+
+<!ENTITY importFromNothing.label        "Юу ч бүү импортол">
+<!ENTITY importFromNothing.accesskey    "Ю">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Тохируулга ба захианы санг импортлох газар">
+<!ENTITY importItems.title              "Импортлох зүйлс">
+<!ENTITY importItems.label              "Импортлох зүйлсээ сонго">
+
+<!ENTITY migrating.title                "Импортлож байна…">
+<!ENTITY migrating.label                "Дараах зүйлс импортлогдож байна…">
+
+<!ENTITY selectProfile.title            "Хувийн орчинг сонго">
+<!ENTITY selectProfile.label            "Дараах хувийн орчин дараах газраас импортлогдох боломжтой:">
+
+<!ENTITY done.title                     "Импортлолт гүйцлээ">
+<!ENTITY done.label                     "Дараах зүйлс амжилттай импортлогдлоо:">

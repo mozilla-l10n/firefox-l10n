@@ -1,0 +1,22 @@
+<!ENTITY bookmarks.name.label                 "Нэр:">
+<!ENTITY bookmarks.name.accesskey             "Н">
+<!ENTITY bookmarks.location.label             "Байршил:">
+<!ENTITY bookmarks.location.accesskey         "Б">
+<!ENTITY bookmarks.keyword.label              "Түлхүүр үг:">
+<!ENTITY bookmarks.keyword.accesskey          "Т">
+<!ENTITY bookmarks.description.label          "Тодорхойлолт:">
+<!ENTITY bookmarks.description.accesskey      "д">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "Амьд гарчиг">
+<!ENTITY bookmarks.createIn.label             "Үүссэн байршил:">
+<!ENTITY bookmarks.createIn.accesskey         "Ү">
+<!ENTITY bookmarks.feed_location.label        "Мэдээний байршил:">
+<!ENTITY bookmarks.feed_location.accesskey    "М">
+<!ENTITY bookmarks.site_location.label        "Хуудасны байршил:">
+<!ENTITY bookmarks.site_location.accesskey    "Х">
+<!ENTITY bookmarks.loadInSidebar.label        "Энэ хаягийг хажуу самтбарт дууд">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "Э">
+<!ENTITY bookmarks.expanderDown.tooltip       "Хаягийн бүх санг харуул">
+<!ENTITY bookmarks.expanderUp.tooltip         "Нуу">
+<!ENTITY bookmarks.newFolderButton.label      "Шинэ сан">
+<!ENTITY bookmarks.newFolderButton.accesskey  "Ш">
+

@@ -1,0 +1,16 @@
+<!ENTITY button.allow.accesskey			"Т">
+<!ENTITY button.allow.label				"Тийм">
+<!ENTITY button.deny.accesskey			"Ү">
+<!ENTITY button.deny.label				"Үгүй">
+<!ENTITY button.session.accesskey		"з">
+<!ENTITY button.session.label			"Орчинд зөвшөөр">
+<!ENTITY dialog.remember.accesskey		"Э">
+<!ENTITY dialog.remember.label			"Энэ хуудасны бүх cookies-д миний сонголтыг хэрэглэ">
+<!ENTITY dialog.title					"Батал">
+<!ENTITY props.domain.label				"Компьютер:">
+<!ENTITY props.expires.label			"Хүчинтэй огноо:">
+<!ENTITY props.name.label				"Нэр:">
+<!ENTITY props.path.label				"Зам:">
+<!ENTITY props.policy.label				"Бодлого:">
+<!ENTITY props.secure.label				"Серверийн нууцлал:">
+<!ENTITY props.value.label				"Бүтэц:">

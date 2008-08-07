@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label        "Файлын төрөл">
+<!ENTITY  typeColumn.accesskey    "ө">
+
+<!ENTITY  actionColumn2.label      "Хэрхэн хандах">
+<!ENTITY  actionColumn2.accesskey  "н">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "Хайх:">
+<!ENTITY  filter.accesskey        "й">
+
+<!ENTITY  clear.label             "Цэвэрлэ">
+<!ENTITY  clear.accesskey         "э">

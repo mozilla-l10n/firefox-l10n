@@ -1,0 +1,68 @@
+<!ENTITY  fontsDialog.title                       "Үсгийн маяг">
+<!ENTITY  window.width                            "53em">
+<!ENTITY  window.macWidth                         "53em">
+<!ENTITY  window.unixWidth                        "53em">
+
+<!ENTITY  language.label                          "Үсгийн маяг:">
+<!ENTITY  language.accesskey                      "я">
+
+<!ENTITY  size.label                              "Хэмжээ:">
+<!ENTITY  sizeProportional.accesskey              "ж">
+<!ENTITY  sizeMonospace.accesskey                 "э">
+
+<!ENTITY  proportional.label                      "Харьцангуй:">
+<!ENTITY  proportional.accesskey                  "ь">
+
+<!ENTITY  serif.label                             "Сэриф:">
+<!ENTITY  serif.accesskey                         "С">
+<!ENTITY  sans-serif.label                        "Сан-Сэриф:">
+<!ENTITY  sans-serif.accesskey                    "н">
+<!ENTITY  monospace.label                         "Ижил зайтай:">
+<!ENTITY  monospace.accesskey                     "ж">
+
+<!ENTITY  font.langGroup.latin1                   "Барууны">
+<!ENTITY  font.langGroup.latin2                   "Төв европ">
+<!ENTITY  font.langGroup.japanese                 "Япон">
+<!ENTITY  font.langGroup.trad-chinese             "Үндэсний хятад (Тайвань)">
+<!ENTITY  font.langGroup.simpl-chinese            "Хялбаршуулсан хятад">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Үндэсний хятад (Гонг Конг)">
+<!ENTITY  font.langGroup.korean                   "Солонгос">
+<!ENTITY  font.langGroup.cyrillic                 "Крилл">
+<!ENTITY  font.langGroup.baltic                   "Балтик">
+<!ENTITY  font.langGroup.el                       "Грек">
+<!ENTITY  font.langGroup.turkish                  "Турк">
+<!ENTITY  font.langGroup.unicode                  "Бусад хэл">
+<!ENTITY  font.langGroup.user-def                 "Хэрэглэгч заасан">
+<!ENTITY  font.langGroup.thai                     "Тай">
+<!ENTITY  font.langGroup.hebrew                   "Иврит">
+<!ENTITY  font.langGroup.arabic                   "Араб">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Армен">
+<!ENTITY  font.langGroup.bengali                  "Бенгали">
+<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.ethiopic                 "Этиоп">
+<!ENTITY  font.langGroup.georgian                 "Гүрж">
+<!ENTITY  font.langGroup.gujarati                 "Гужарат">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Кхмэр">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.oriya                    "Орияа">
+<!ENTITY  font.langGroup.telugu                   "Тэлүгү">
+<!ENTITY  font.langGroup.kannada                  "Канада">
+<!ENTITY  font.langGroup.sinhala                  "Синхала">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Үсгийн бага хэмжээ:">
+<!ENTITY minSize.accesskey                        "ж">
+<!ENTITY minSize.none                             "Заагдаагүй">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Сэриф">
+<!ENTITY  useDefaultFontSansSerif.label           "Сан Сэриф">
+
+<!ENTITY  allowPagesToUse.label                   "Хуудсанд, миний энэ сонголтын оронд өөрийнхөө үсгийн маягаа хэрэглэхийг зөвшөөр">
+<!ENTITY  allowPagesToUse.accesskey               "д">
+
+<!ENTITY languages.customize.Charset.grouplabel         "Тэмдэг хувиргалт">
+<!ENTITY languages.customize.DefaultCharset.label       "Анхны тэмдэг хувиргалт:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "А">

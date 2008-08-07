@@ -1,0 +1,19 @@
+<!ENTITY copyCmd.accesskey "с">
+<!ENTITY copyCmd.label "Сануул">
+<!ENTITY cutCmd.accesskey "с">
+<!ENTITY cutCmd.label "Тасдаж сана">
+<!ENTITY deleteCmd.accesskey "у">
+<!ENTITY deleteCmd.label "Устга">
+<!ENTITY pasteCmd.accesskey "б">
+<!ENTITY pasteCmd.label "Санамж буулга">
+<!ENTITY selectAllCmd.accesskey "с">
+<!ENTITY selectAllCmd.label "Бүгдийг сонго">
+<!ENTITY undoCmd.accesskey "ц">
+<!ENTITY undoCmd.label "Буцаж үйлд">
+<!ENTITY spellAddToDictionary.label "Толь бичигт нэм">
+<!ENTITY spellAddToDictionary.accesskey "э">
+<!ENTITY spellCheckEnable.label "Энэ талбарт үгийн алдаа шалга">
+<!ENTITY spellCheckEnable.accesskey "й">
+<!ENTITY spellNoSuggestions.label "(үгийн залруулах алдаа байхгүй байна)">
+<!ENTITY spellDictionaries.label "Хэл">
+<!ENTITY spellDictionaries.accesskey "л">

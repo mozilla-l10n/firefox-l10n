@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Хайх:">
+<!ENTITY find.accesskey            "й">
+<!ENTITY expand.label              "Дэлгэ">
+<!ENTITY expand.accesskey          "Д">
+<!ENTITY collapse.label            "Хураа">
+<!ENTITY collapse.accesskey        "Х">
+<!ENTITY byDate.label "Огноогоор">
+<!ENTITY byDate.accesskey "О">
+<!ENTITY bySite.label "Хуудсаар">
+<!ENTITY bySite.accesskey "с">
+<!ENTITY view.label "Харах">
+<!ENTITY view.accesskey "р">
+<!ENTITY byMostVisited.label "Хамгийн их зорчсоноор">
+<!ENTITY byMostVisited.accesskey "з">
+<!ENTITY byLastVisited.label "Сүүлд зорчсоноор">
+<!ENTITY byLastVisited.accesskey "л">
+<!ENTITY byDayAndSite.label "Огноо ба Хуудсаар">
+<!ENTITY byDayAndSite.accesskey "б">
+<!ENTITY openLinkInWindow.label "Нээ">
+<!ENTITY openLinkInWindow.accesskey "Н">
+<!ENTITY openInNewTab.label "Шинэ самбарт нээ">
+<!ENTITY openInNewTab.accesskey "с">
+<!ENTITY openInNewWindow.label "Шинэ цонхонд нээ">
+<!ENTITY openInNewWindow.accesskey "ц">
+<!ENTITY bookmarkLink.label "Энэ холбоосын хаягийг хадгал...">
+<!ENTITY bookmarkLink.accesskey "Э">
+<!ENTITY copyLink.label "Холбоосын хаягийг сануул">
+<!ENTITY copyLink.accesskey "б">

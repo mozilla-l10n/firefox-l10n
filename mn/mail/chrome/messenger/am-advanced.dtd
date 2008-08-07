@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Илгээгч серверийн (SMTP) Тохиргоо">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Та олон захианы бүртгэлтэй байсан ч зөвхөн нэг илгээгч сервер  (SMTP) заагдсан байх хэрэгтэй. Захиа илгээгч серверийн нэрийг оруулна уу.">
+
+<!ENTITY smtpListAdd.accesskey "м">
+<!ENTITY smtpListAdd.label "Нэм…">
+<!ENTITY smtpListDelete.accesskey "л">
+<!ENTITY smtpListDelete.label "Арилга">
+<!ENTITY smtpListEdit.accesskey "а">
+<!ENTITY smtpListEdit.label "Засварла…">
+<!ENTITY smtpListSetDefault.accesskey "х">
+<!ENTITY smtpListSetDefault.label "Анхных болго">
+
+<!ENTITY serverDescription.label "Тодорхойлолт:">
+<!ENTITY serverName.label "Серверийн нэр:">
+<!ENTITY serverPort.label "Порт:">
+<!ENTITY userName.label "Хэрэглэгчийн нэр:">
+<!ENTITY useSecureConnection.label "Нууцлалтай холболт:">
+<!ENTITY useSecureAuthentication.label   "Нууцлалын нэвтрэлт:">

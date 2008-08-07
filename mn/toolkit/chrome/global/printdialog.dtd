@@ -1,0 +1,20 @@
+<!ENTITY allpagesRadio.label		"Бүх хуудсыг">
+<!ENTITY aslaidoutRadio.label		"Дэлгэцэд байрласан шиг">
+<!ENTITY copies.label				"Хувилбарууд">
+<!ENTITY descText.label				"Хэвлэгчийн тодорхойлолт:">
+<!ENTITY eachframesepRadio.label	"Хүрээ болгоныг тусад нь">
+<!ENTITY fileCheck.label			"Файл руу хэвлэ">
+<!ENTITY fpDialog.title				"Файл хадгал">
+<!ENTITY frompageInput.label		"хаанаас">
+<!ENTITY numCopies.label			"Хувилах дугаар:">
+<!ENTITY printButton.label			"Хэвлэ">
+<!ENTITY printDialog.title			"Хэвлэ">
+<!ENTITY printer.label				"Хэвлэгч">
+<!ENTITY printerInput.label			"Хэвлэгч:">
+<!ENTITY printframeGroup.label		"Хүрээг хэвлэ">
+<!ENTITY printrangeGroup.label		"Хэвлэх орчин">
+<!ENTITY propertiesButton.label		"Шинж чанар...">
+<!ENTITY rangeRadio.label			"Хуудас">
+<!ENTITY selectedframeRadio.label	"Сонгосон хүрээг">
+<!ENTITY selectionRadio.label		"Сонголт">
+<!ENTITY topageInput.label			"хаана">

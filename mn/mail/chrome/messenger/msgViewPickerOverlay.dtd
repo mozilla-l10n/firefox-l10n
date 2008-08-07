@@ -1,0 +1,14 @@
+<!ENTITY viewPicker.accesskey "х">
+<!ENTITY viewPicker.label "Харах:">
+<!ENTITY viewAll.label "Бүгд">
+<!ENTITY viewAll.accesskey "Б">
+<!ENTITY viewUnread.label "Уншигдаагүй">
+<!ENTITY viewUnread.accesskey "й">
+<!ENTITY viewTags.label "Таглаа">
+<!ENTITY viewTags.accesskey "Т">
+<!ENTITY viewCustomViews.label "Дурын харагдац">
+<!ENTITY viewCustomViews.accesskey "ц">
+<!ENTITY viewVirtualFolder.label "Санд нэр өгч хадгал…">
+<!ENTITY viewVirtualFolder.accesskey "С">
+<!ENTITY viewCustomizeView.label "Өөрчлөх…">
+<!ENTITY viewCustomizeView.accesskey "Ө">

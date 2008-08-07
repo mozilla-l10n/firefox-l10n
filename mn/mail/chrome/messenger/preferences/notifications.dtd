@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title       "Шинэ захианы анхааруулгыг өөрчлөх">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Сануулгыг аль талбарт харуулахыг сонгоно уу:">
+<!ENTITY previewText.label                "Захианы товч агуулгыг харуулсан текстэнд">
+<!ENTITY previewText.accesskey            "т">
+<!ENTITY subject.label                    "Гарчиг дээр">
+<!ENTITY subject.accesskey                "ч">
+<!ENTITY sender.label                     "Илгээгч дээр">
+<!ENTITY sender.accesskey                 "л">

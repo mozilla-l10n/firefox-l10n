@@ -1,0 +1,9 @@
+<!ENTITY center.label "Төвд">
+<!ENTITY closeWindow.key "w">
+<!ENTITY color.label "Өнгө:">
+<!ENTITY openDesktopPrefs.label "Ар дэвсгэрийн тохируулгыг нээ">
+<!ENTITY position.label "Байрлал:">
+<!ENTITY preview.label "Харах">
+<!ENTITY setDesktopBackground.title "Арын дэвсгэр зураг болго">
+<!ENTITY stretch.label "Сунга">
+<!ENTITY tile.label "Хуваа">

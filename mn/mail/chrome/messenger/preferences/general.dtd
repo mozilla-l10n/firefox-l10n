@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label              "Системийн анхны тохируулга">
+<!ENTITY alwaysCheckDefault.label          "Үргэлж эхлэх үед &brandShortName;-г захианы анхны ачаалагч эсэхийг шалга:">
+<!ENTITY alwaysCheckDefault.accesskey      "ш">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Одоо шалга">
+<!ENTITY checkNow.accesskey         "д">
+
+
+<!ENTITY messengerStartPage.label         "&brandShortName; Эхлэл хуудас">
+<!ENTITY enableStartPage.label            "&brandShortName; ачаалагдах үед захианы хэсэгт эхлэл хуудсыг харуул">
+<!ENTITY enableStartPage.accesskey        "ч">
+<!ENTITY location.label                   "Байршил:">
+<!ENTITY location1.accesskey               "л">
+<!ENTITY useDefault.label                 "Анхны горимыг сэргээ">
+<!ENTITY useDefault.accesskey             "с">
+
+<!ENTITY bounceSystemDockIcon.label       "Тэмдэгт зургийг хөдөлгө">
+<!ENTITY bounceSystemDockIcon.accesskey   "х">
+
+<!ENTITY newMessagesArrive.label          "Шинэ захиа ирэх үед:">
+<!ENTITY playSound.label                  "Ая тоглуул">
+<!ENTITY playSound1.accesskey              "я">
+<!ENTITY showAnimatedAlert.label          "Анхааруулга харуул">
+<!ENTITY showAnimatedAlert.accesskey      "а">
+<!ENTITY customizeMailAlert.label                "Өөрчил…">
+<!ENTITY customizeMailAlert.accesskey             "ч">
+<!ENTITY soundNotification1.caption       "Ая">
+<!ENTITY play.label                       "Тоглуул">
+<!ENTITY play.accesskey                   "Т">
+<!ENTITY systemsound.label                "Шинэ захианы анхдагч ая">
+<!ENTITY systemsoundMac.label             "Системийн анхааруулах ая">
+<!ENTITY systemsoundMac.accesskey         "и">
+<!ENTITY systemsound.accesskey            "и">
+<!ENTITY customsound.label                "Дараах хөгжмийн файлуудыг хэрэглэ">
+<!ENTITY customsound.accesskey            "ж">
+<!ENTITY browse.label                     "Зааж өг…">
+<!ENTITY browse.accesskey                 "ө">

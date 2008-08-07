@@ -1,0 +1,19 @@
+<!ENTITY alwaysEncryptMessage.label "Шаардагдсан (Бүх хүлээн авагчид гэрчилгээтэй байхаас бусад үед захиаг илгээж чадахгүй)">
+<!ENTITY certificate.button "Сонго…">
+<!ENTITY certificate_clear.button "Арилга">
+<!ENTITY encryptionCert.message "Танд ирсэн захианд нууцлал болон нууцлал тайлах энэ гэрчилгээг хэрэглэ:">
+<!ENTITY encryptionCert.notselected "Гэрчилгээ алга байна.">
+<!ENTITY encryptionChoiceLabel.label "Захиаг илгээх үед анхны нууцлалын тохиргоо:">
+<!ENTITY encryptionGroupTitle.label "Нууцлал хувиргалт">
+<!ENTITY managecerts.accesskey "ч">
+<!ENTITY certificates.label "Гэрчилгээ">
+<!ENTITY managecerts.label "Гэрчилгээг харах">
+<!ENTITY managedevices.accesskey "ж">
+<!ENTITY managedevices.label "Нууцлалын төхөөрөмж">
+<!ENTITY neverEncrypt.label "Хэзээ ч бүү хэрэглэ (нууц хувиргалт хэрэглэхгүй)">
+<!ENTITY securityHeading.label "Гарын үсэгтэй эсвэл нууцлалтай захиа илгээх болон хүлээж авахын тулд та электрон гарын үсгийн гэрчилгээ болон нууцлалын гэрчилгээг зааж өгөх ёстой.">
+<!ENTITY securityTitle.label "Нууцлал">
+<!ENTITY signMessage.label "Захианд электрон гарын үсэг зур (Анхных)">
+<!ENTITY signingCert.message "Энэ гэрчилгээг хэрэглэж илгээх захианд электрон гарын үсэг зур:">
+<!ENTITY signingCert.notselected "Гэрчилгээ алга байна.">
+<!ENTITY signingGroupTitle.label "Электрон гарын үсэг зурах">

@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Нууцлалын анхааруулга">
+
+<!ENTITY security.warn_when                       "Дараах тохиолдолд анхааруулах цонх харуул:">
+<!ENTITY security.warn_entering_secure.label      "Намайг нууцлалын хувиргууртай хуудас үзэх үед.">
+<!ENTITY security.warn_entering_secure.accesskey  "а">
+<!ENTITY security.warn_entering_weak.label        "Намайг нууцлалын бага хувиргууртай хуудас үзэх үед.">
+<!ENTITY security.warn_entering_weak.accesskey    "б">
+<!ENTITY security.warn_leaving_secure.label       "Намайг нууцлалын хувиргууртай эсвэл хувиргуургүй хуудаснаас гарах үед.">
+<!ENTITY security.warn_leaving_secure.accesskey   "й">
+<!ENTITY security.warn_submit_insecure.label      "Намайг нууцлалын хувиргуургүй мэдээлэл илгээх үед.">
+<!ENTITY security.warn_submit_insecure.accesskey  "и">
+<!ENTITY security.warn_viewing_mixed.label        "Намайг зарим хэсэгтээ нууцлалын хувиргуургүй мэдээлэл агуулсан нууцлалтай хуудас үзэх үед.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "й">

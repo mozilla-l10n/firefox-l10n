@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title                                  "Плагин ологч үйлчилгээ">
+<!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title;-д тавтай морил">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; одоо боломжтой плагиныг шалгаж байна...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Боломжтой плагины татаж авалт">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Дараах плагинууд боломжтой:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Дараах товч дээр дарж эдгээр плагиныг суулга.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Суулгах явцад зарим плагин надаас мэдээлэл шаардаж магадгүй.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Плагины лиценз">
+<!ENTITY pluginWizard.licensePage.accept.label               "Би зөвшөөрнө.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Би зөвшөөрөхгүй (плагин суугдахгүй).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Плагиныг суулгаж байна">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; плагин суулгаж байна...">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; дутагдсан плагиныг суулгаж дууслаа:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Плагины тухай мэдэх эсвэл гар аргаар дутагдаж байгаа плагиныг олох.">
+<!ENTITY pluginWizard.finalPage.restart.label                "Плагиныг ажиллуулахын тулд &brandShortName;-г шинээр ачаалах хэрэгтэй.">
+
+<!ENTITY missingPlugin.label                                 "Энд дарж плагиныг татаж авна уу.">

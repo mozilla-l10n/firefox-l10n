@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "Бүтээгч">
+<!ENTITY editorCheck.accesskey "б">
+
+<!ENTITY compose.label "Бүтээгч">
+<!ENTITY editing.label "Шинэ хуудасны тохиргоо">
+<!ENTITY toolbars.label "Багажит самбарууд">
+<!ENTITY publish.label "Хуудас бүтээх">

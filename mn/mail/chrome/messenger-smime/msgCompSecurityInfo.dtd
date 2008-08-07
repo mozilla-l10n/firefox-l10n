@@ -1,0 +1,12 @@
+<!ENTITY status.certificates "Гэрчилгээ:">
+<!ENTITY status.encrypted "Нууц хувиргалт:">
+<!ENTITY status.heading "Таны захианы бүтэц дараах маягаар илгээгдэнэ:">
+<!ENTITY status.signed "Баталгаат гарын үсэгтэй:">
+<!ENTITY subject.plaintextWarning "Тэмдэглэгээ: Захианы гарчиганд хэзээ ч нууц хувиргалт хийгдэхгүй.">
+<!ENTITY title.label "Захианы нууцлал">
+<!ENTITY tree.expiresDate "Хүчинтэй огноо:">
+<!ENTITY tree.issuedDate "Үүсгэсэн:">
+<!ENTITY tree.recipient "Хүлээн авагч">
+<!ENTITY tree.status "Төлөв байдал">
+<!ENTITY view.accesskey "ц">
+<!ENTITY view.label "Харагдац">

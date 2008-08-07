@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "&brandFullName;-н тухай">
+<!ENTITY credits.label          "Эрх эзэмшигчид">
+<!ENTITY credits.accesskey      "Э">
+<!ENTITY aboutLink.label        "&lt; &brandFullName;-н тухай">
+<!ENTITY aboutLink.accesskey    "й">
+<!ENTITY aboutVersion "хувилбар">
+<!ENTITY copyrightText "©1998-2008 Туслан дэмжигчид. Бүх эрх хуулиар хамгаалагдсан. Mozilla Thunderbird болон 
+                                 Thunderbird-н таних тэмдгүүд Мозила сангийн худалдааны тэмдэг.  Бүх эрх 
+                                 хуулиар хамгаалагдсан.">

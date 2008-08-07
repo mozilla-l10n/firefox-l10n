@@ -1,0 +1,9 @@
+<!ENTITY setPassword.title                 "Мастер нууц үгийг өөрчил">
+<!ENTITY setPassword.tokenName.label       "Нууцлалын төхөөрөмж">
+<!ENTITY setPassword.oldPassword.label     "Одоогийн нууц үг:">
+<!ENTITY setPassword.newPassword.label     "Шинэ нууц үг оруул:">
+<!ENTITY setPassword.reenterPassword.label "Дахин оруул:">
+<!ENTITY setPassword.meter.label           "Нууц үгийн чанарын хэмжүүр">
+<!ENTITY setPassword.meter.loading         "Дуудаж байна">
+<!ENTITY masterPasswordDescription.label   "Мастер нууц үг нь хуудасны нууц үг гэх мэт эмзэг мэдээллийг хамгаалахад хэрэглэгдэнэ.  Хэрэв та мастер нууц үг үүсгэвэл &brandShortName; нууц үгээр хамгаалагдсан хэсэг рүү хандахдаа тухайн хэсэгт нэг удаа танаас нууц үг асууна.">
+<!ENTITY masterPasswordWarning.label       "Та суулгасан мастер нууц үгээ санаж яваарай. Хэрэв та мастер нууц үгээ мартвал үүгээр хамгаалагдсан мэдээлэлдээ хандаж чадахгүй болно.">

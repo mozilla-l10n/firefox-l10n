@@ -1,0 +1,12 @@
+
+<!ENTITY  incompatible.title        "Тохиромжгүй зүйлс">
+<!ENTITY  incompatible.intro        "Дараах зүйлс &brandShortName;-г шинэчлэхэд тохиромжгүй ба хэрэв суугдвал хоригдох болно:">
+<!ENTITY  incompatible.update       "Тохиромжтой хувилбар бэлэн болохыг &brandShortName; байнга шалгах болно.">
+<!ENTITY  incompatible.suffix       "&brandShortName;-н шинэчлэл чухал нууцлалын сайжруулалт агуулсан байна. 
+                                     Хэдийгээр таны &brandShortName;-н  зарим өргөтгөл болон маяг
+		идэвхигүй болохоор байсан ч шинэчлэхийг санал болгож байна. Ингэсэнээр таны вэб хуудсанд зорчих нь
+		найдвартай хамгаалалттай болно.">
+                                     
+<!ENTITY  closebutton.label         "Хаа">
+                                     
+                                     

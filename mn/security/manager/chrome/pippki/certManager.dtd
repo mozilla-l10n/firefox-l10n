@@ -1,0 +1,138 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Ian McGreer <mcgreer@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY certmgr.tab.others2                  "Хүмүүс">
+<!ENTITY certmgr.tab.websites3                "Серверүүд">
+<!ENTITY certmgr.add.label                          "Нэм">
+<!ENTITY certmgr.add.accesskey                      "э">
+<!ENTITY certmgr.export.label                 "Экспортлох…">
+<!ENTITY certmgr.export.accesskey             "к">
+<!ENTITY certmgr.delete2.label                "Устга…">
+<!ENTITY certmgr.delete2.accesskey            "с">
+<!ENTITY certmgr.backup2.label                "Нөөцөл…">
+<!ENTITY certmgr.backup2.accesskey            "ө">
+<!ENTITY certmgr.backupall2.label             "Бүгдийг нөөцөл…">
+<!ENTITY certmgr.backupall2.accesskey         "Б">
+<!ENTITY certmgr.restore2.label               "Импорт…">
+<!ENTITY certmgr.restore2.accesskey           "м">
+<!ENTITY certmgr.ca.builtins                        "Суугдсан ГЭ">
+<!ENTITY certmgr.ca.mycas                           "ГЭ танаар зохицуулагдсан">
+<!ENTITY certmgr.cas                                "Танд дараах гэрчилгээний эрхийг таних файлд буй гэрчилгээ байна:">
+<!ENTITY certmgr.orphans                            "Бусад гэрчилгээний аль ч төрөлд нь хамаарахгүй гэрчилгээнүүд таны файлд байна:">
+<!ENTITY certmgr.certdetail.cn                      "Энгийн нэр (ЭН)">
+<!ENTITY certmgr.certdetail.md5fingerprint          "MD5 Fingerprint">
+<!ENTITY certmgr.certdetail.o                       "Байгууллага (Б)">
+<!ENTITY certmgr.certdetail.ou                      "Байгууллагын холбоо (БХ)">
+<!ENTITY certmgr.certdetail.serialnumber            "Цуврал дугаар">
+<!ENTITY certmgr.certdetail.sha1fingerprint         "SHA1 Fingerprint">
+<!ENTITY certmgr.certdetail.title                   "Гэрчилгээний нарийн мэдээлэл">
+<!ENTITY certmgr.certname                           "Гэрчилгээний нэр">
+<!ENTITY certmgr.certserver                   "Сервер">
+<!ENTITY certmgr.typesofoverrides             "Зааж өгөх">
+<!ENTITY certmgr.override_lifetime            "Үргэлж">
+<!ENTITY certmgr.close.label                        "Хаа">
+<!ENTITY certmgr.close.accesskey                    "Х">
+<!ENTITY certmgr.view2.label                  "Харагдац…">
+<!ENTITY certmgr.view2.accesskey              "ц">
+<!ENTITY certmgr.edit2.label                  "Завсарла…">
+<!ENTITY certmgr.edit2.accesskey              "в">
+<!ENTITY certmgr.deletecert.aftername               "Та энэ гэрчилгээг устгахдаа итгэлтэй байна уу?">
+<!ENTITY certmgr.deletecert.beforename              "Та энэ гэрчилгээг устгахыг асуугдсан байна:">
+<!ENTITY certmgr.deletecert.title                   "Гэрчилгээ устгах">
+<!ENTITY certmgr.deleteusercert.aftername           "Та энэ гэрчилгээг устгавал үүгээр нууцалсан захиаг уншиж чадахгүй болно.">
+<!ENTITY certmgr.deleteusercert.beforename          "Таны устгахыг хүссэн гэрчилгээ:">
+<!ENTITY certmgr.deleteusercert.title               "Өөрийнхөө гэрчилгээг устгах">
+<!ENTITY certmgr.detail.general_tab.title           "Ердийн">
+<!ENTITY certmgr.detail.general_tab.accesskey       "р">
+<!ENTITY certmgr.detail.prettyprint_tab.title       "Нарийвчилсан мэдээлэл">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey   "й">
+<!ENTITY certmgr.details.label                      "Гэрчилгээний талбар">
+<!ENTITY certmgr.details.accesskey                  "т">
+<!ENTITY certmgr.editca.label                       "ГЭ итгэлтийг завсарла">
+<!ENTITY certmgr.editca.accesskey                   "с">
+<!ENTITY certmgr.editcacert.title                   "ГЭ гэрчилгээнд итгэх тохиргоог засварлах">
+<!ENTITY certmgr.editcert.edittrust                 "Итгэх тохиргоог засварлах:">
+<!ENTITY certmgr.editcert.title                     "Нууц гэрчилгээний тохиргоог засварлах">
+<!ENTITY certmgr.editcert.trustemail                "Энэ гэрчилгээ захианы хэрэглэгчийг таниж чадна.">
+<!ENTITY certmgr.editcert.trustobjsign              "Энэ гэрчилгээ програм бичигчдийг таниж чадна">
+<!ENTITY certmgr.editcert.trustssl                  "Энэ гэрчилгээ вэб хуудсыг таниж чадна">
+<!ENTITY certmgr.editemailcert.donttrust            "Энэ гэрчилгээний эрхэд бүү итгэ">
+<!ENTITY certmgr.editemailcert.dotrust              "Энэ гэрчилгээний эрхд итгэ">
+<!ENTITY certmgr.editemailcert.edittrust            "Гэрчилгээнд итгэх тохиргоог засварла">
+<!ENTITY certmgr.editemailcert.title                "Захианы гэрчилгээнд итгэх тохиргоог засварлах">
+<!ENTITY certmgr.editsslcert.donttrust              "Энэ гэрчилгээний эрхд бүү итгэ">
+<!ENTITY certmgr.editsslcert.dotrust                "Энэ гэрчилгээний эрхд итгэ">
+<!ENTITY certmgr.editsslcert.edittrust              "Гэрчилгээнд итгэх тохиргоог засварла:">
+<!ENTITY certmgr.editsslcert.title                  "Вэб хуудасны гэрчилгээний итгэх тохиргоог засварлах">
+<!ENTITY certmgr.email                              "Захианы хаяг">
+<!ENTITY certmgr.expires                            "Дуусах хугацаа">
+<!ENTITY certmgr.fields.label                       "Утгын талбар">
+<!ENTITY certmgr.fields.accesskey                   "г">
+<!ENTITY certmgr.fingerprints.label                 "Fingerprints">
+<!ENTITY certmgr.hierarchy.label                    "Гэрчилгээний жагсаалт">
+<!ENTITY certmgr.hierarchy.accesskey                "ж">
+<!ENTITY certmgr.issued                             "Эхэлсэн хугацаа">
+<!ENTITY certmgr.issuerinfo.label                   "Зохиогч">
+<!ENTITY certmgr.mine                               "Танд таныг таних дараах байгууллагын гэрчилгээ байна:">
+<!ENTITY certmgr.others                             "Танд дараах хүмүүсийг таних файлд буй гэрчилгээ байна:">
+<!ENTITY certmgr.websites2                    "Танд эдгээр серверүүдийг таних гэрчилгээнүүдийг хадгалсан файл бий:">
+<!ENTITY certmgr.purpose                            "Зориулалт">
+<!ENTITY certmgr.serial                             "Цуврал дугаар">
+<!ENTITY certmgr.pending.label                "Шалгаж байгаа гэрчилгээнүүд…">
+<!ENTITY certmgr.subjectinfo.label                  "Зориулагдсан">
+<!ENTITY certmgr.tab.ca                             "Эрх">
+<!ENTITY certmgr.tab.orphan2                  "Бусад">
+<!ENTITY certmgr.tab.mine                           "Таны гэрчилгээ">
+<!ENTITY certmgr.title                              "Гэрчилгээ зохицуулагч">
+<!ENTITY certmgr.tokenname                          "Нууцлалын төхөөрөмж">
+<!ENTITY certmgr.validity.label                     "Хүчинтэй байх">
+<!ENTITY certmgr.addException.label           "Тодорхой зааж өгөх…">
+<!ENTITY certmgr.addException.accesskey       "ж">
+
+<!ENTITY exceptionMgr.title                   "Нууцлалын нэмэлт заалт">
+<!ENTITY exceptionMgr.exceptionButton         "Нууцлалын нэмэлт заалтыг батал">
+<!ENTITY exceptionMgr.exceptionButtonAccess   "б">
+<!ENTITY exceptionMgr.supplementalWarning     "Банкны эрх, худалдаа хийгч болон олон нийтийн хуудаснууд танаас үүнийг хийхийг асуухгүй байх болно.">
+<!ENTITY exceptionMgr.certlocation.caption2   "Сервер">
+<!ENTITY exceptionMgr.certlocation.url        "Байршил:">
+<!ENTITY exceptionMgr.certlocation.download   "Гэрчилгээ авах">
+<!ENTITY exceptionMgr.certlocation.accesskey  "Г">
+<!ENTITY exceptionMgr.certstatus.caption      "Гэрчилгээний төлөв">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Харагдац…">
+<!ENTITY exceptionMgr.certstatus.accesskey    "р">
+<!ENTITY exceptionMgr.permanent.label         "Энэ заалтыг үргэлж хадгал">
+<!ENTITY exceptionMgr.permanent.accesskey     "х">

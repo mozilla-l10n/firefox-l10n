@@ -1,0 +1,36 @@
+<!ENTITY  blockPopups.label           "Жижиг цонхыг хорих">
+<!ENTITY  blockPopups.accesskey       "Ж">
+<!ENTITY  popupExceptions.label       "Зөвшөөрөгдсөн хуудас">
+<!ENTITY  popupExceptions.accesskey   "ш">
+
+<!ENTITY  loadImages.label            "Зургийг автоматаар дууд">
+<!ENTITY  loadImages.accesskey        "З">
+<!ENTITY  exceptions.label            "Зөвшөөрөгдсөн хуудас">
+<!ENTITY  exceptions.accesskey        "д">
+
+<!ENTITY  enableJavaScript.label      "Жааваскриптийг зөвшөөр">
+<!ENTITY  enableJavaScript.accesskey  "а">
+<!ENTITY  advancedJS.label            "Нэмэлт...">
+<!ENTITY  advancedJS.accesskey        "м">
+
+<!ENTITY  enableJava.label            "Жааваг зөвшөөр">
+<!ENTITY  enableJava.accesskey        "ш">
+
+
+<!ENTITY  fontsAndColors.label        "Үсгийн маяг ба Өнгө">
+
+<!ENTITY  defaultFont.label           "Анхны үсгийн маяг:">
+<!ENTITY  defaultFont.accesskey       "я">
+<!ENTITY  defaultSize.label           "Хэмжээ:">
+<!ENTITY  defaultSize.accesskey       "э">
+
+<!ENTITY  advancedFonts.label         "Нэмэлт...">
+<!ENTITY  advancedFonts.accesskey     "м">
+
+<!ENTITY  colors.label                "Өнгө...">
+<!ENTITY  colors.accesskey            "н">
+
+<!ENTITY languages.label              "Хэл">
+<!ENTITY chooseLanguage.label         "Хуудас харуулахад хэрэглэгдэх хэлээ сонгоно уу">
+<!ENTITY chooseButton.label           "Сонго…">
+<!ENTITY chooseButton.accesskey       "н">

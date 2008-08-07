@@ -1,0 +1,28 @@
+<!ENTITY all.accesskey "Б">
+<!ENTITY all.label "Бүгд">
+<!ENTITY clear.accesskey "и">
+<!ENTITY clear.label "Арилга">
+<!ENTITY codeEval.label     "Бичлэг:">
+<!ENTITY codeEval.accesskey "ч">
+<!ENTITY closeCmd.commandkey "w">
+<!ENTITY errorConsole.title "Алдаа харуулагч цонх">
+<!ENTITY copyCmd.accesskey "С">
+<!ENTITY copyCmd.commandkey "C">
+<!ENTITY copyCmd.label "Сануул">
+<!ENTITY errColumn.label "Багана:">
+<!ENTITY errFile.label "Эх файл:">
+<!ENTITY errLine.label "Мөр:">
+<!ENTITY errors.accesskey "д">
+<!ENTITY errors.label "Алдаа">
+<!ENTITY evaluate.label "Шинжлэх">
+<!ENTITY evaluate.accesskey "ж"> 
+<!ENTITY focus1.commandkey "l">
+<!ENTITY focus2.commandkey "d">
+<!ENTITY messages.accesskey "З">
+<!ENTITY messages.label "Захиа">
+<!ENTITY sortFirst.accesskey "э">
+<!ENTITY sortFirst.label "Эхэн > Сүүл эрэмбэлэх дараалал">
+<!ENTITY sortLast.accesskey "С">
+<!ENTITY sortLast.label "Сүүл > Эхэн эрэмбэлэх дараалал">
+<!ENTITY warnings.accesskey "А">
+<!ENTITY warnings.label "Анхааруулга">

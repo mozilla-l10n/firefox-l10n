@@ -1,0 +1,17 @@
+<!ENTITY bottomInput.label "Доод:">
+<!ENTITY cmdInput.label "Хэвлэх:">
+<!ENTITY colorGroup.label "Өнгө:">
+<!ENTITY colorRadio.label "Өнгө">
+<!ENTITY colorspaceInput.label "Өнгөний зай авалт:">
+<!ENTITY downloadFonts.label "Хэвлэгч рүү үсгийн маяг татаж авах уу?">
+<!ENTITY edgeMarginInput.label "Цаасны ирмэгээс зай авалт хүртэлх зай">
+<!ENTITY fontsGroup.label "Үсгийн маяг:">
+<!ENTITY grayRadio.label "Хар цагаанаар">
+<!ENTITY jobTitleInput.label "Албан тушаал:">
+<!ENTITY leftInput.label "Зүүн:">
+<!ENTITY paperInput.label "Цаасны хэмжээ:">
+<!ENTITY plexInput.label "Бүхэл горим:">
+<!ENTITY printJobOptions.title "Хэвлэгчийн шинж чанар">
+<!ENTITY resolutionInput.label "Нягтшил/Чанар:">
+<!ENTITY rightInput.label "Баруун:">
+<!ENTITY topInput.label "Дээд:">

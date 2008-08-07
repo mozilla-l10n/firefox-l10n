@@ -1,0 +1,109 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Terry Hayes <thayes@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY caCertExists.message "Гэрчилгээ өмнө нь байна">
+<!ENTITY caCertExists.title "Байгаа гэрчилгээ">
+<!ENTITY certPicker.detailsLabel "Сонгосон гэрчилгээний нарийн мэдээлэл:">
+<!ENTITY certPicker.info "Гэрчилгээ:">
+<!ENTITY certPicker.title "Гэрчилгээ сонго">
+<!ENTITY chooseToken.message1 "Токэн сонгоно уу.">
+<!ENTITY chooseToken.title "Токэн диалог сонгох">
+<!ENTITY clientAuthAsk.message1 "Энэ хуудас таныг өөрийгөө гэрчилгээтэйгээ хамт таниулахыг хүсэж байна:">
+<!ENTITY clientAuthAsk.message2 "Таних явцыг харуулахын тулд гэрчилгээг сонгох:">
+<!ENTITY clientAuthAsk.message3 "Сонгосон гэрчилгээний нарийн мэдээлэл:">
+<!ENTITY clientAuthAsk.title "Хэрэглэгчийг таниулах хүсэлт">
+<!ENTITY createCertInfo.msg1 "Түлхүүр үг үүсгэлт үйлдэгдэж байна… Энэ нь хэсэг хугацаа авах байх…">
+<!ENTITY createCertInfo.msg2 "Түр хүлээнэ үү…">
+<!ENTITY createCertInfo.title "Хувийн түлхүүр үг үүсгэж байна">
+<!ENTITY downloadCert.message1 "Танаас шинэ Гэрчилгээний Эрх-д итгэхийг асуусан (ГЭ).">
+<!ENTITY downloadCert.message3 "Та ямар ч зорилгоор бай энэ ГЭ -д итгэхээсээ өмнө үүний гэрчилгээний тохиргоог мөн бодлого бас үйлдлийг нь харах хэрэгтэй (хэрэв боломжтой бол).">
+<!ENTITY downloadCert.title "Гэрчилгээ татаж авч байна">
+<!ENTITY downloadCert.trustEmail "Захианы хэрэглэгчийг танихад энэ ГЭ-д итгэ">
+<!ENTITY downloadCert.trustObjSign "Програм хөгжүүлэгчийг танихдаа энэ ГЭ-д итгэ">
+<!ENTITY downloadCert.trustSSL "Вэб хуудсыг танихдаа энэ ГЭ-д итгэ">
+<!ENTITY downloadCert.viewCert.label "Харах">
+<!ENTITY downloadCert.viewCert.text "CA гэрчилгээг тохируулах">
+<!ENTITY downloadCert.viewPolicy.label "Бодлого">
+<!ENTITY downloadCert.viewPolicy.text "ГЭ -н бодлого ба үйлдлийн тохиргоог харах">
+<!ENTITY escrowWarn.benefit1 "Хэрэв та нууцлалтай хувийн түлхүүр үг рүү хандах эрхээ алдвал, та энэ гэрчилгээний нөлөөгөөр хуулбарыг нь хүсэх давуу талтай.">
+<!ENTITY escrowWarn.message1 "Чухал: Энэ гэрчилгээний эрх нь таны нууцлалын түлхүүр үгийн нөөц хийхийг асууж байна.">
+<!ENTITY escrowWarn.message2 "Хэдийгээр таны нууцлах хувийн түлхүүр үг гэрчилгээний эрхээр хадгалагдах боловч таны зөвшөөрөлгүйгээр нууцлагдсан захиа эсвэл бичиг баримтыг уншихад хэрэглэгдэх боломжтой.">
+<!ENTITY escrowWarn.title "Нууцлалтай түлхүүр үгийн хуулбар">
+<!ENTITY formSigning.cert "Гэрчилгээнд гарын үсэг зурж байна">
+<!ENTITY formSigning.confirmPassword "Сонгосон гэрчилгээгээр энэ текст захианд гарын үсгээ баталгаажуулахын тулд мастер нууц үгээ оруулна уу:">
+<!ENTITY formSigning.title "Текстийн гарын үсгийн хүсэлт">
+<!ENTITY getPassword.password.label "Нууц үг:">
+<!ENTITY getPassword.title "Мастер нууц үг оруулна уу">
+<!ENTITY getPassword.tokenName.label "Нууцлалын төхөөрөмж">
+<!ENTITY pipalert.title "Алдаа - сэргээж чадахгүй байна">
+<!ENTITY piperror.title "Алдаа">
+<!ENTITY pkcs12.getpassword.message "Энэ гэрчилгээний нөөцийг нууцлахад хэрэглэж байсан нууц үгийг оруулна уу.">
+<!ENTITY pkcs12.getpassword.title "Нууц үг оруулах хэсэг">
+<!ENTITY pkcs12.setpassword.label1 "Гэрчилгээний нөөцлөх нууц үг:">
+<!ENTITY pkcs12.setpassword.label2 "Гэрчилгээний нөөцлөх нууц үг (дахиад):">
+<!ENTITY pkcs12.setpassword.message "Таны энд оруулах гэрчилгээний нөөцлөх нууц үг нь таны үүсгэх нөөцлөх файлыг хамгаалахад хэрэглэгдэнэ. Та энэ нууц үгийг нөөцлөх үйлдэлтэй хамт оруулах ёстой.">
+<!ENTITY pkcs12.setpassword.reminder "Чухал: Хэрэв та гэрчилгээний нөөцлөх нууц үгээ мартвал, та дахиж энэ нөөц хуулбарыг сэргээж чадахгүй болно. Найдвартай газар бичиж авна уу.">
+<!ENTITY pkcs12.setpassword.title "Гэрчилгээний нөөцлөх нууц үгийг сонго">
+<!ENTITY pref.security.general.certificates.title "Гэрчилгээ">
+<!ENTITY pref.security.general.header "Ерөнхий нууцлалын тохиргоо">
+<!ENTITY pref.security.general.lHeader "Нууцлал">
+<!ENTITY pref.security.general.level.title "Нууцлалын түвшин">
+<!ENTITY pref.security.general.manageCert.label "Гэрчилгээ зохицуулах">
+<!ENTITY pref.security.general.paranoid.label "Онцгой нууцлалын тохиргоо хэрэглэх">
+<!ENTITY pref.security.general.rHeader "Ерөнхий нууцлалын тохиргоо">
+<!ENTITY resetPassword.text "Хэрэв та мастер нууц үгийг шинэчилэх юм бол таны бүх хадгалсан вэб, захианы нууц үг, хүснэгт өгөгдлүүд, хувийн гэрчилгээ зэргүүд мартагдах болно. Та өөрийнхөө мастер нууц үгийг сэргээх итгэлтэй байна уу?">
+<!ENTITY resetPassword.title "Мастер Нууц үгийг дахин сэргээх">
+<!ENTITY resetPasswordButtonLabel "Сэргээ">
+<!ENTITY examineCert.label "Гэрчилгээг харах">
+<!ENTITY examineCert.accesskey "ч">
+<!ENTITY serverCrlNextupdate.message "Систем зохицуулагчаас тусламж хүснэ үү?">
+<!ENTITY setPassword.meter.label "Нууц үгийн чанарын хэмжүүр">
+<!ENTITY setPassword.meter.loading "Дуудаж байна">
+<!ENTITY setPassword.newPassword.label "Шинэ нууц үг:">
+<!ENTITY setPassword.oldPassword.label "Одоогийн нууц үг:">
+<!ENTITY setPassword.reenterPassword.label "Шинэ нууц үг (дахиад):">
+<!ENTITY setPassword.title "Мастер нууц үгийг соль">
+<!ENTITY setPassword.tokenName.label "Нууцлалын төхөөрөмж">
+<!-- Strings for protectedAuth dialog -->
+<!ENTITY protectedAuth.title "Хамгаалалттай нэвтрэх үйлдэл">
+<!ENTITY protectedAuth.msg "Энэ хэсэгт нэвтрэх үйлдэл гүйцэтгэнэ үү. Нэвтрэх арга нь таны тухайн хэсгээс хамаарна.">
+<!ENTITY protectedAuth.tokenName.label "Хэсэг:">
+
+<!-- Strings for protectedAuth dialog -->
+<!ENTITY protectedAuth.title "Хамгаалттай хэсгийн нэвтрэлт">
+<!ENTITY protectedAuth.msg "Энэ хэсэгт нэвтрэх үйлдэл хийх шаардлагатай. Нэвтрүүлэх аргачлал нь тухайн хэсгээс хамаарна.">
+<!ENTITY protectedAuth.tokenName.label "Хэсэг:">

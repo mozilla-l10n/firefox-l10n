@@ -1,0 +1,35 @@
+<!ENTITY days.label "өдөр">
+<!ENTITY daysOld.label "өдөр хуучин">
+<!ENTITY diskspaceGroupTitle.label "Дискний зай">
+<!ENTITY doNotDownload.label "Дискийн зайг хэмнэхийн тулд салангид үед хэрэглэхээр бүү татаж ав:">
+<!ENTITY doNotDownloadPop3Movemail.label "Дискийн зайг хэмнэхийн тулд салангид үед хэрэглэхээр бүү татаж ав:">
+<!ENTITY kb.label "KБ">
+<!ENTITY makeInboxMsgsAvailable.accesskey "б">
+<!ENTITY makeInboxMsgsAvailable.label "Намайг салангид үед, захиануудыг миний Ирсэн захиа санд унших боломжтой болго">
+<!ENTITY message.label "захиа">
+<!ENTITY nntpDownloadMsg.accesskey "в">
+<!ENTITY nntpDownloadMsg.label "Дараах хугацаанаас хойшхи захианы биеийг татаж ав">
+<!ENTITY nntpNotDownloadRead.accesskey "у">
+<!ENTITY nntpNotDownloadRead.label "Захиаг унш">
+<!ENTITY nntpRemoveBody.accesskey "в">
+<!ENTITY nntpRemoveBody.label "Зөвхөн дараахаас хуучирсан захианы биеийг устгах">
+<!ENTITY offlineSelectNntp.label "Салангид хэрэглэх мэдээгээ сонгоно уу…">
+<!ENTITY offlineSelectNntp.accesskey "н">
+<!ENTITY offlineDesc.label "Салангид-г сонгосоноор та серверээс салсан үедээ захиаг дотроо хуулж хэрэглэж болно. &quot;Сонгох&quot; товч дээр дарж салангид үед хэрэглэх захиагаа сонгоно уу.">
+<!ENTITY offlineGroupTitle.label "Салангид">
+<!ENTITY offlineNewFolder.accesskey "м">
+<!ENTITY offlineNewFolder.label "Намайг шинээр сан үүсгэх үед түүнийг салангид үед хэрэглэхээр сонго">
+<!ENTITY offlineNotDownload.accesskey "Д">
+<!ENTITY offlineNotDownload.label "Дараах хэмжээнээс хэтэрсэн хэмжээтэй захиаг бүү татаж ав">
+<!ENTITY offlineSelectImap.label "Салангид үед хэрэглэх санг сонго…">
+<!ENTITY offlineSelectImap.accesskey "г">
+<!ENTITY offlineSelectNntp.label "Салангид үед хэрэглэх мэдээний групыг сонго…">
+<!ENTITY retentionCleanup.label "Дискийн зайг хэмнэх үүднээс, хуучин захианууд түр устгагдаж болно.">
+<!ENTITY retentionKeepAll.accesskey "б">
+<!ENTITY retentionKeepAll.label "Ямар ч захиаг бүү устга">
+<!ENTITY retentionKeepMsg.accesskey "у">
+<!ENTITY retentionKeepMsg.label "Дараахаас хэтэрсэн захиаг устга">
+<!ENTITY retentionKeepNew.accesskey "с">
+<!ENTITY retentionKeepNew.label "Сүүлийн захианаас бусдыг устга">
+<!ENTITY retentionKeepUnread.accesskey "ш">
+<!ENTITY retentionKeepUnread.label "Уншсан захиаг үргэлж устга">

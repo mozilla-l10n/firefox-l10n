@@ -1,0 +1,70 @@
+<!ENTITY abSearchDialogTitle.label "Хаягийн тэмдэглэлд дэлгэрэнгүй хайлт">
+<!ENTITY abSearchHeading.accesskey "Х">
+<!ENTITY abSearchHeading.label "Хайх талбар:">
+<!ENTITY accountColumn.label "Бүртгэл">
+<!ENTITY accountColumn.tooltip "Бүртгэлээр нь эрэмбэл">
+<!ENTITY closeButton.label "Хаа">
+<!ENTITY closeCmd.key "W">
+<!ENTITY columnChooser.tooltip "Харуулах багануудыг сонго">
+<!ENTITY composeButton.accesskey "б">
+<!ENTITY composeButton.label "Захиа бичих">
+<!ENTITY conditionDesc.label "Дараах сонголттой тохирсон захиаг хайх:">
+<!ENTITY conditions.label "Шалгуур">
+<!ENTITY dateColumn.label "Огноо">
+<!ENTITY dateColumn.tooltip "Огноогоор эрэмбэл">
+<!ENTITY deleteButton.accesskey "У">
+<!ENTITY deleteButton.label "Устга">
+<!ENTITY fileButton.accesskey "й">
+<!ENTITY fileButton.label "Файл">
+<!ENTITY fileHereMenu.accesskey "Э">
+<!ENTITY fileHereMenu.label "Энд буй файл">
+<!ENTITY starredColumn.label "Одтой">
+<!ENTITY starredColumn.tooltip "Одоор нь эрэмбэл">
+<!ENTITY goToFolderButton.accesskey "н">
+<!ENTITY goToFolderButton.label "Захианы санг нээ">
+<!ENTITY idColumn.label "Хүлээж авсан эрэмбэ">
+<!ENTITY idColumn.tooltip "Хүлээн авсанаар нь эрэмбэл">
+<!ENTITY junkStatusColumn.label "Тэнэмэл захианы төлөв байдал">
+<!ENTITY junkStatusColumn.tooltip "Тэнэмэл төлвөөр нь эрэмбэл">
+<!ENTITY tagsColumn.label "Таг">
+<!ENTITY tagsColumn.tooltip "Тагаар нь эрэмбэл">
+<!ENTITY linesColumn.label "Мөр">
+<!ENTITY locationColumn.label "Байрлал">
+<!ENTITY locationColumn.tooltip "Байрлалаар нь эрэмбэл">
+<!ENTITY openButton.accesskey "Н">
+<!ENTITY openButton.label "Нээ">
+<!ENTITY optionsButton.label "Сонголт">
+<!ENTITY priorityColumn.label "Давуу эрх">
+<!ENTITY priorityColumn.tooltip "Давуу эрхээр нь эрэмбэл">
+<!ENTITY propertiesButton.accesskey "ж">
+<!ENTITY propertiesButton.label "Шинж чанар">
+<!ENTITY readColumn.label "Унших">
+<!ENTITY receivedColumn.label "Хүлээж авсан">
+<!ENTITY readColumn.tooltip "Уншсанаар нь эрэмбэл">
+<!ENTITY receivedColumn.tooltip "Хүлээж авсан огноогоор нь эрэмбэлнэ">
+<!ENTITY recipientColumn.label "Хүлээн авагч">
+<!ENTITY recipientColumn.tooltip "Хүлээн авагчаар нь эрэмбэл">
+<!ENTITY resetButton.accesskey "А">
+<!ENTITY resetButton.label "Арилга">
+<!ENTITY results.label "Үр дүн">
+<!ENTITY saveAsVFButton.accesskey "б">
+<!ENTITY saveAsVFButton.label "Хайх сан болгож хадгал">
+<!ENTITY searchDialogTitle.label "Захиа хайх">
+<!ENTITY searchHeading.accesskey "й">
+<!ENTITY searchHeading.label "Захиаг хайх талбар:">
+<!ENTITY searchSubfolders.accesskey "с">
+<!ENTITY searchSubfolders.label "Дэд санд хайх">
+<!ENTITY sizeColumn.label "Хэмжээ">
+<!ENTITY sizeColumn.tooltip "Хэмжээгээр нь эрэмбэл">
+<!ENTITY statusColumn.label "Төлөв байдал">
+<!ENTITY statusColumn.tooltip "Төлөв байдлаар нь эрэмбэл">
+<!ENTITY subjectColumn.label "Гарчиг">
+<!ENTITY subjectColumn.tooltip "Гарчигаар нь эрэмбэл">
+<!ENTITY threadColumn.label "Дараалал">
+<!ENTITY fromColumn.label "Хэнээс гэдгээр нь">
+<!ENTITY threadColumn.tooltip "Захианы дарааллыг харуул">
+<!ENTITY fromColumn.tooltip "Хэнээс гэдгээр нь эрэмбэлнэ">
+<!ENTITY totalColumn.label "Нийт">
+<!ENTITY totalColumn.tooltip "Дараалалд буй захианы нийт тоо">
+<!ENTITY unreadColumn.label "Уншигдаагүй">
+<!ENTITY unreadColumn.tooltip "Дараалалд буй уншигдаагүй захианы тоо">

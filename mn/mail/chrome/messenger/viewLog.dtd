@@ -1,0 +1,8 @@
+<!ENTITY clearLog.accesskey "а">
+<!ENTITY clearLog.label "Бүртгэл бичлэгийг арилга">
+<!ENTITY closeLog.accesskey "Х">
+<!ENTITY closeLog.label "Хаа">
+<!ENTITY enableLog.accesskey "з">
+<!ENTITY enableLog.label "Шүүлт бүртгэл бичлэгийг зөвшөөр">
+<!ENTITY viewLog.title "Шүүлт бүртгэл бичлэг">
+<!ENTITY viewLogInfo.text "Шүүлт тэмдэглэл бичлэг нь шүүлт яаж хийсэн тэмдэглэл бичлэгтэй файл юм. Дараах бөглөх цонхыг хэрэглэж тэмдэглэл бичлэгийг зөвшөөрүүлнэ.">

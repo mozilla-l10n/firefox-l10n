@@ -1,0 +1,10 @@
+<!ENTITY matchAll.accesskey "б">
+<!ENTITY matchAll.label "Дараахаас бүгд тохирсоныг">
+<!ENTITY matchAny.accesskey "а">
+<!ENTITY matchAny.label "Дараахаас аль тохирсоныг">
+<!ENTITY matchAllMsgs.label     "Тохирсон бүх захиаг">
+<!ENTITY matchAllMsgs.accesskey "з">
+<!ENTITY searchTermListAttributesFlexValue "5">
+<!ENTITY searchTermListButtonsFlexValue "2">
+<!ENTITY searchTermListOperatorsFlexValue "5">
+<!ENTITY searchTermListValueFlexValue "5">

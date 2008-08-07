@@ -1,0 +1,29 @@
+<!ENTITY activeColumn.label "Зөвшөөрсөн">
+<!ENTITY choosethis.label "энэ санг сонго">
+<!ENTITY choosethisnewsserver.label "энэ мэдээний серверийг сонго">
+<!ENTITY closeCmd.key "W">
+<!ENTITY deleteButton.accesskey "У">
+<!ENTITY deleteButton.label "Устга">
+<!ENTITY editButton.accesskey "З">
+<!ENTITY editButton.label "Засварлах…">
+<!ENTITY filterHeader.label "Зөвшөөрөгдсөн шүүлтүүд автоматаар дараах харуулсан дарааллаар ажиллана.">
+<!ENTITY filtersForPrefix.accesskey "Ш">
+<!ENTITY filtersForPrefix.label "Шүүлт хийх талбар:">
+<!ENTITY folderPickerPrefix.accesskey "ш">
+<!ENTITY folderPickerPrefix.label "Сонгосон шүүлтийг ажиллуулах талбар:">
+<!ENTITY helpButton.accesskey "Т">
+<!ENTITY helpButton.label "Тусламж">
+<!ENTITY nameColumn.label "Шүүлтийн нэр">
+<!ENTITY newButton.accesskey "Ш">
+<!ENTITY newButton.label "Шинэ…">
+<!ENTITY reorderDownButton.accesskey "ш">
+<!ENTITY reorderDownButton.label "Доош зөө">
+<!ENTITY reorderUpButton.accesskey "з">
+<!ENTITY reorderUpButton.label "Дээш зөө">
+<!ENTITY runFilters.accesskey "а">
+<!ENTITY runFilters.label "Одоо ажиллуул">
+<!ENTITY stopFilters.accesskey "З">
+<!ENTITY stopFilters.label "Зогс">
+<!ENTITY viewLogButton.accesskey "Ш">
+<!ENTITY viewLogButton.label "Шүүлт бүртгэл бичлэг">
+<!ENTITY window.title "Захианы шүүлтүүд">

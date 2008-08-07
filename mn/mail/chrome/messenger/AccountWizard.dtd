@@ -1,0 +1,69 @@
+<!ENTITY accnameDesc.label "Энэ бүртгэлдээ хандах нэр оруулна уу. (жишээлбэл &quot;Ажлын бүртгэл&quot;, &quot;Гэрийн бүртгэл&quot; эсвэл &quot;Мэдээний бүртгэл&quot;)">
+<!ENTITY accnameExample.label "Жишээлбэл, Ажлын бүртгэл, Гэрийн бүртгэл эсвэл Мэдээний бүртгэл">
+<!ENTITY accnameLabel.accesskey "Б">
+<!ENTITY accnameLabel.label "Бүртгэлийн нэр:">
+<!ENTITY accnameTitle.label "Бүртгэлийн нэр">
+<!ENTITY accountSetupInfo.label "Захиа хүлээж авахын тулд эхлээд та Захиа юмуу Мэдээний групийн бүртгэлийг тохируулсан байх хэрэгтэй.">
+<!ENTITY accountTypeDesc.label "Энэ хэсэгт Захиа ба Мэдээний групийн бүртгэлд шаардагдах мэдээллийг цуглуулах болно. Хэрэв та шаардлагатай мэдээллийг мэдэхгүй бол сүлжээ зохицуулагч юм уу Интернэтэд холбогдсон байгууллагадаа хандана уу.">
+<!ENTITY accountTypeDirections.label "Тохируулах бүртгэлийнхээ төрлийг сонгоно уу:">
+<!ENTITY accountTypeMail.accesskey "З">
+<!ENTITY accountTypeMail.label "Захианы бүртгэл">
+<!ENTITY accountTypeNews.accesskey "М">
+<!ENTITY accountTypeNews.label "Мэдээний групын бүртгэл">
+<!ENTITY accountTypeTitle.label "Шинэ бүртгэлийн тохиргоо">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!ENTITY clickFinish.label "Дуусга товч дээр дарж энэ тохиргоог хадгалан Бүртгэл хэсгээс гарна уу.">
+<!ENTITY clickFinish.labelMac "Гүйцэтгэв гэсэн товч дээр дарж эдгээр тохиргоог хадгалан Бүртгэл хэсгээс гарна уу.">
+<!ENTITY completionText.label "Дараах мэдээлэл зөв эсэхийг шалгана уу.">
+<!ENTITY completionTitle.label "Баяр хүргэе!">
+<!ENTITY deferStorage.label "Ерөнхий Ирсэн захиа санг хэрэглэ (захиаг дотоод санд хадгална)">
+<!ENTITY deferStorageDesc.label "Өөрийн санд энэ бүртгэлийн захиаг хадгалахын тулд үүний чагтал. Ингэвэл энэ бүртгэлийг хамгийн дээд бүртгэл мэт харуулах болно. Эс бөгөөс Ерөнхий ирэх захианы бүртгэлийн дотоод сангийн хэсэг болно.">
+<!ENTITY downloadOnLogin.label "Захиануудыг одоо татаж ав">
+<!ENTITY emailDesc.label "Захианы хаягаа оруулна уу. Энэ хаягаар бусад хүмүүс танд захиа бичнэ.">
+<!ENTITY emailExample.label "(жишээлбэл: user@example.net).">
+<!ENTITY emailLabel.accesskey "З">
+<!ENTITY emailLabel.label "Захианы хаяг:">
+<!ENTITY fullnameDesc.label "Таны илгээсэн захианы &quot;Хэнээс&quot; гэсэн талбарт харуулах нэрээ оруулна уу.">
+<!ENTITY fullnameExample.label "(Жишээлбэл, &quot;Ганхүлэгийн Батжолоо&quot;).">
+<!ENTITY fullnameLabel.accesskey "Т">
+<!ENTITY fullnameLabel.label "Таны нэр:">
+<!ENTITY haveSmtp1.prefix "Таны одоогийн илгээх сервер (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;, хэрэглэгдэх болно. Та илгээх серверээ Захиа ба Мэдээний групын тохиргоо цэсийг Засварла цэснээс сонгож өөрчилж болно.">
+<!ENTITY haveSmtp2.prefix "Таны одоогийн илгээх сервер(SMTP)-н хэрэглэгчийн нэр, &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;, хэрэглэгдэх болно. Та илгээх серверээ Захиа ба Мэдээний групын тохиргоо цэсийг Засварла цэснээс сонгож өөрчилж болно.">
+<!ENTITY haveSmtp3.prefix "Таны илгээх сервер (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix "&quot;, таны хүлээн авах сервертэй адил байна. Таны хүлээн авах хэрэглэгчийн нэр таних үед хэрэглэгдэх болно. Та тохиргоог Засварла цэсний Захиа ба мэдээний групын тохиргоо дотор өөрчилж болно.">
+<!ENTITY identityDesc.label "Бүртгэл бүр өөрийн гэсэн таних нэртэй байдаг ба түүгээрээ захиа хүлээн авахад бусдаас танигддаг.">
+<!ENTITY identityTitle.label "Таних нэр">
+<!ENTITY imapType.accesskey "I">
+<!ENTITY imapType.label "IMAP">
+<!ENTITY incomingServerLabel.accesskey "Х">
+<!ENTITY incomingServerLabel.label "Хүлээн авах сервер:">
+<!ENTITY incomingServerNameDesc.label "Хүлээн авах серверийн нэрийг оруулна уу. (Жишээлбэл, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServerTitle.label "Захиа хүлээн авах сервер">
+<!ENTITY incomingServerTypeDesc.label "Хэрэглэж байгаа хүлээж авах серверийн төрлийг сонгоно уу.">
+<!ENTITY incomingServerTypeLabel.label "Серверийн төрөл:">
+<!ENTITY loginTitle.label "Хэрэглэгчийн нэр">
+<!ENTITY newsServerLabel.accesskey "М">
+<!ENTITY newsServerLabel.label "Мэдээний групын сервер:">
+<!ENTITY newsServerNameDesc.label "Мэдээний серверийн нэрийг оруулна уу (NNTP) (жишээлбэл, &quot;news.example.net&quot;).">
+<!ENTITY newsServerNamePrefix.label "Мэдээний серверийн нэр (NNTP):">
+<!ENTITY nntpType.label "Мэдээний сервер">
+<!ENTITY popType.accesskey "P">
+<!ENTITY popType.label "POP">
+<!ENTITY serverNamePrefix.label "Хүлээн авах серверийн нэр:">
+<!ENTITY serverTitle.label "Серверийн мэдээлэл">
+<!ENTITY serverTypePrefix.label "Захиа хүлээн авах серверийн төрөл:">
+<!ENTITY smtpServerDesc.label "Илгээх захианы нэрийг оруулна уу (SMTP) (жишээлбэл, &quot;smtp.example.net&quot;).">
+<!ENTITY smtpServerLabel.accesskey "И">
+<!ENTITY smtpServerLabel.label "Илгээх сервер:">
+<!ENTITY smtpServerNamePrefix.label "Илгээх сервер (SMTP):">
+<!ENTITY smtpServerTitle.label "Илгээх сервер (SMTP)">
+<!ENTITY usernameDesc.label "Захианы эрх өгсөн байгууллагаас авсан хэрэглэгчийн нэрийг оруулна уу.">
+<!ENTITY usernameExample.label "(жишээлбэл, &quot;gbataa&quot;).">
+<!ENTITY usernameLabel.accesskey "Х">
+<!ENTITY usernameLabel.label "Хэрэглэгчийн нэр:">
+<!ENTITY usernameSmtpDesc.label "Захианы хаяг өгсөн байгууллагаас өгсөн илгээх хэрэглэгчийн нэрээ оруулна уу. (Энэ нь ихэвчлэн хүлээж авах хэрэглэгчийн нэртэйгээ ижил байдаг)">
+<!ENTITY usernameSmtpLabel.accesskey "И">
+<!ENTITY usernameSmtpLabel.label "Илгээх хэрэглэгчийн нэр:">
+<!ENTITY windowTitle.label "Бүртгэл хэсэг">

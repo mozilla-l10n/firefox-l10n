@@ -1,0 +1,54 @@
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Буц">
+<!ENTITY backButton.accesskey           "Б">
+<!ENTITY backButton.tooltip             "Нэг хуудсаар буц">
+<!ENTITY forwardButton.label            "Урагш">
+<!ENTITY forwardButton.accesskey        "У">
+<!ENTITY forwardButton.tooltip          "Нэг хуудсаар урагшил">
+<!ENTITY copyCmd.label                  "Сануул">
+<!ENTITY copyCmd.accesskey              "С">
+<!ENTITY selectAllCmd.label             "Бүгдийг сонго">
+<!ENTITY selectAllCmd.accesskey         "Б">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Эхлэл хуудас">
+<!ENTITY homeButton.tooltip             "Тусламжийн эхлэл хуудсанд оч">
+<!ENTITY printButton.label              "Хэвлэ">
+<!ENTITY printButton.tooltip            "Энэ хуудсыг хэвлэ">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY searchtab.label				"Хайх">
+<!ENTITY searchtab.accesskey            "й">
+<!ENTITY searchClose.tooltip            "Хайлтын үр дүнг хаа">
+<!ENTITY toctab.label					"Бүтэц">
+<!ENTITY toctab.accesskey               "Б">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Үргэлж өмнө нь">
+<!ENTITY zLevel.accesskey               "Ү">
+
+<!ENTITY fullZoomReduceBtn.label        "Харуулалтыг багасга">
+<!ENTITY fullZoomReduceBtn.accesskey    "б">
+<!ENTITY fullZoomEnlargeBtn.label       "Харуулалтыг томруул">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "т">
+

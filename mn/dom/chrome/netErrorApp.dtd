@@ -1,0 +1,9 @@
+<!-- Error messages that are likely to be overridden by applications go in this
+     file, all messages that likely don't need to tie into app-specific UI
+     should go into netError.dtd -->
+
+<!ENTITY securityOverride.linkText "Эсвэл та онцгой тохиолдол нэмж болох юм…">
+<!ENTITY securityOverride.warningText "
+<p>Хэрэв та урьд нь энэ серверээс ийм алдаа харж байгаагүй бөгөөд энэ хуудсанд итгэдэг бол онцгой тохиолдол нэмэх шаардлагаггүй.</p>
+<p>Хэрэв та онцгой тохиолдол нэмэхийг үнэхээр хүсэж байгаа бол нэмэлт нууцлалын хувиргуур хийх тохируулгадаа хийж болно.</p>
+">

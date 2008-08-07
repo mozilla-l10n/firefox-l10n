@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Хуубарлах болон Сангууд">
+<!ENTITY sendingPrefix.label "Захиаг илгээх үед автоматаар:">
+<!ENTITY fccMailFolder.label "Хуулбарыг байрлуулах газар:">
+<!ENTITY fccMailFolder.accesskey "Х">
+<!ENTITY fccReplyFollowsParent.label "Хариулсан захиануудыг байрлуулах сангийн байрлал">
+<!ENTITY fccReplyFollowsParent.accesskey "р">
+<!ENTITY chooseFolderButton.label "Сан сонго…">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Хуулбар2 захианы хаягууд:">
+<!ENTITY bccAddress.accesskey "Х">
+<!ENTITY specialFolderTitle.label "Тусгай сангууд">
+<!ENTITY draftMailFolder.label "Захианы ноорог хадгалах газар:">
+<!ENTITY templateMailFolder.label "Захиа түр хадгалах газар:">
+<!ENTITY saveMessageDlg.label "Захиа хадгалагдах үед лавлах самбарыг харуул.">
+<!ENTITY saveMessageDlg.accesskey "а">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Илгээгдсэн&quot; Сангийн байрлал:">
+<!ENTITY sentFolderOn.accesskey "Б">
+<!ENTITY sentInOtherFolder.label "Бусад:">
+<!ENTITY sentInOtherFolder.accesskey "Б">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Ноорог&quot; сангийн байрлал:">
+<!ENTITY draftsFolderOn.accesskey "б">
+<!ENTITY draftInOtherFolder.label "Бусад:">
+<!ENTITY draftInOtherFolder.accesskey "у">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Түр хадгалах&quot; Сангийн байрлал:">
+<!ENTITY templatesFolderOn.accesskey "б">
+<!ENTITY templateInOtherFolder.label "Бусад:">
+<!ENTITY templateInOtherFolder.accesskey "с">
+<!ENTITY specialFoldersTitle.label "Ноорог ба түр хадгалалт">
+<!ENTITY keepDrafts.label "Захианы ноорог хадгалах газар:">
+<!ENTITY keepTempltes.label "Захиа түр хадгалах газар:">

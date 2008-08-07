@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "&brandFullName;-н тухай">
+<!ENTITY copyright "Бүтээгчид">
+<!ENTITY copyright.accesskey    "Б">
+<!ENTITY aboutLink "&lt; &brandFullName;-н тухай">
+<!ENTITY aboutLink.accesskey    "й">
+<!ENTITY aboutVersion "хувилбар">
+<!ENTITY copyrightInfo "©1998-2008 Туслан дэмжигчид. Бүх эрх хуулиар хамгаалагдсан. Firefox болон 
+                                 Firefox-н таних тэмдгүүд нь Мозила сангийн худалдааны тэмдэг.  Бүх эрх 
+                                 хуулиар хамгаалагдсан.">

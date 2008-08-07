@@ -1,0 +1,16 @@
+<!ENTITY menu_securityEncryptIfPossible.accesskey "х">
+<!ENTITY menu_securityEncryptIfPossible.label "Хэрэв боломжтой бол нууцалж хувирга">
+<!ENTITY menu_securityEncryptRequire.accesskey "х">
+<!ENTITY menu_securityEncryptRequire.label "Энэ захиаг нууцалж хувирга">
+<!ENTITY menu_securityNoEncryption.accesskey "Э">
+<!ENTITY menu_securityNoEncryption.label "Энэ захиаг нууцалж үл хувирга">
+<!ENTITY menu_securitySign.accesskey "б">
+<!ENTITY menu_securitySign.label "Энэ захианд баталгаат гарын үсэг өг">
+<!ENTITY menu_securityStatus.accesskey "х">
+<!ENTITY menu_securityStatus.label "Нууцлалын мэдээллийг харах">
+<!ENTITY menu_viewSecurityStatus.accesskey "н">
+<!ENTITY menu_viewSecurityStatus.label "Захианы нууцлалын мэдээлэл">
+<!ENTITY securityButton.label "Нууцлал">
+<!ENTITY securityButton.tooltip "Нууцлалын тохиргоог харах юмуу өөрчлөх">
+<!ENTITY securityMenu.accesskey "ц">
+<!ENTITY securityMenu.label "Нууцлал">

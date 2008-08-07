@@ -1,0 +1,12 @@
+<!ENTITY add.label			"Нэм">
+<!ENTITY add.accessKey   	"Н">
+<!ENTITY additional.label	"Байгаа тэмдэг хувиргуурууд:">
+<!ENTITY current.label		"Идэвхитэй тэмдэг хувиргуур:">
+<!ENTITY remove.label		"Арилга">
+<!ENTITY remove.accessKey	"А">
+<!ENTITY title.label		"Тэмдгийн хувиргуурыг өөрчил">
+<!ENTITY moveUp.label    	"Дээш зөө">
+<!ENTITY moveUp.accessKey	"э">
+<!ENTITY moveDown.label  	"Доош зөө">
+<!ENTITY moveDown.accessKey	"о">
+

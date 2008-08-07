@@ -1,0 +1,8 @@
+<!ENTITY caption.label "Вэб хаяг нээ">
+<!ENTITY chooseFile.label "Файл сонго...">
+<!ENTITY enter.label "Вэб хаягаа оруул, эсвэл нээх дотоод файлынхаа байрлалыг заана уу:">
+<!ENTITY newTab.label "Шинэ самбар">
+<!ENTITY newWindow.label "Шинэ цонх">
+<!ENTITY openBtn.label "Нээ">
+<!ENTITY openWhere.label "Нээгдэх газар:">
+<!ENTITY topWindow.label "Одоогийн цонх">

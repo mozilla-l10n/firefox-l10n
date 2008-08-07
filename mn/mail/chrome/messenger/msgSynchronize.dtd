@@ -1,0 +1,17 @@
+<!ENTITY MsgSelect.label "Салангид үед хэрэглэх зүйлс">
+<!ENTITY MsgSelectDesc.label "Салангид үед хэрэглэх захианы сан ба мэдээний групыг сонго.">
+<!ENTITY MsgSelectInd.label "Татаж ав">
+<!ENTITY MsgSelectItems.label "Сангууд ба Мэдээний груп">
+<!ENTITY MsgSyncDesc.label "Хэрэв та аль хэдийн захианы сан болон мэдээний групыг салангид хэрэглэхээр сонгосон бол та одоо татаж аваад сал -г хэрэглэж болно. Үгүй бол &quot;Сонго&quot; товчийг дарж салангид хэрэглэх захианы сан болон мэдээний групыг сонгоно уу.">
+<!ENTITY MsgSyncDirections.label "Дараахыг татаж аваад салга:">
+<!ENTITY MsgSynchronize.label "Захиаг татаж аваад салга">
+<!ENTITY selectButton.accesskey "С">
+<!ENTITY selectButton.label "Сонго…">
+<!ENTITY sendMessage.accesskey "и">
+<!ENTITY sendMessage.label "Илгээгдээгүй захиаг илгээ">
+<!ENTITY syncTypeMail.accesskey "З">
+<!ENTITY syncTypeMail.label "Захианууд">
+<!ENTITY syncTypeNews.accesskey "М">
+<!ENTITY syncTypeNews.label "Мэдээний групын захиа">
+<!ENTITY workOffline.accesskey "с">
+<!ENTITY workOffline.label "Захиаг татаж аваад салж салангид үйлдэлд орж гүйцлээ.">

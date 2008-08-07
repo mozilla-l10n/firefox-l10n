@@ -1,0 +1,73 @@
+<!ENTITY  updateWizard.title              "Програм шинэчлэл">
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Шинэчлэл шалгаж байна">
+<!ENTITY  checking.label                  "&brandShortName; шинэчлэлийг шалгаж байна...">
+
+<!ENTITY  cancel.label                    "Цуцал">
+<!ENTITY  cancel.accesskey                "Ц">
+
+<!ENTITY  noupdatesfound.title            "Шинэчлэл олдсонгүй">
+<!ENTITY  noupdatesfound.intro            "Шинэ шинэчлэл алга байна. Магадгүй &brandShortName; шинэ шинэчлэлийг байнга шалгана.">
+
+<!ENTITY  incompatibleChecking.label      "Энэ нэмэгдэл нь танд байгаа өргөтгөл болон маягтай таарах эсэхийг нь шалгаж байна...">
+
+<!ENTITY  clickHere.label                 "Энэ шинэчлэлийн талаар нэмэлт мэдээлэл харах">
+
+<!ENTITY  incompatible.warning            "Энэ шинэчлэл нь таны зарим өргөтгөл ба маягийг шинэчлэгдэх хүртэл нь хорьж магадгүй.">
+<!ENTITY  listIncompatible.label          "Жагсаалтыг харуул">
+<!ENTITY  listIncompatible.accesskey      "Ж">
+
+<!ENTITY  upgrade.evangelism              "Таныг &brandShortName; аль болох түргэн шинэчлэхийг сануулж байна.">
+
+<!ENTITY  license.instructions            "Хэрэв та энэ гэрээг зөвшөөрвөл Би зөвшөөрнө товч дээр дарж шинэчлэл суулгахыг үргэлжлүүлнэ үү.">
+
+<!ENTITY  license.titleText               "Програмын лиценз зөвшөөрөл">
+<!ENTITY  license.introText               "Энэ програмыг хэрэглэх нөхцөл.">
+<!ENTITY  license.instructionText         "Дараах лиценз зөвшөөрлийг уншина уу. Гулгуулагч самбарыг ашиглан үлдсэн хэсгийг нь хараарай.">
+<!ENTITY  license.accept                  "Би энэ лиценз зөвшөөрлийг хүлээн зөвшөөрч байна">
+<!ENTITY  license.accept.accesskey        "Б">
+<!ENTITY  license.decline                 "Би энэ лиценз зөвшөөрлийг хүлээн ЗӨВШӨӨРӨХГҮЙ">
+<!ENTITY  license.decline.accesskey       "и">
+
+<!ENTITY  downloading.title               "Шинэчлэлийг татаж авч байна">
+<!ENTITY  downloading.intro               "Шинэчлэлийг татаж авч байна...">
+<!ENTITY  connecting.label                "Шинэчлэх сервертэй холбогдож байна...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; татаж авсан шинэчлэлийн нягтыг 
+                                           шалгаж чадахгүй байна. Иймд шинэчлэлийн багцыг дахин
+                                           бүхлээр нь татаж авч байна.">
+
+<!ENTITY  details.link                    "Нарийн мэдээлэл">
+<!ENTITY  pause.label                     "Завсарла">
+<!ENTITY  pause.accesskey                 "в">
+<!ENTITY  close.label                     "Хаа">
+<!ENTITY  close.accesskey                 "Х">
+
+<!ENTITY  error.label                     "Энэ шинэчлэлийг суулгахад алдаа гарлаа. &brandShortName; шинэчилж чадахгүй байгаа шалтгаан нь:">
+                                           
+<!ENTITY  errorManual.label               "Та &brandShortName;-г гар аргаар энэ холбоосд зорчиж сүүлийн хувилбарыг татаж авч шинэчилж болно:">
+<!ENTITY  errorpatching.title             "Шинэчлэлд алдаа гарсан">
+<!ENTITY  errorpatching.intro             "Зарим шинэчлэлүүд хэрэгжиж чадсангүй. 
+                                           &brandShortName; шинэчлэлийг бүхлээр нь дахин татаж авахыг оролдох болно.">
+
+
+<!ENTITY  finished.title                  "Шинэчлэл татаж авагдсан">
+<!ENTITY  finished.text                   "Шинэчлэл амжилттай татаж авагдаж бас шалгагдсан. Шинэчлэл нь &brandShortName;-г шинээр ачаалагдахаар суугдана.">
+
+<!ENTITY  finishedBackground.title        "Шинэчлэл суугдахад бэлэн">
+<!ENTITY  finishedBackground.text        "&brandShortName; сая чухал шинэчлэлийг татаж авч шалгаж гүйцлээ. Дараах холбоос дээр дарж нэмэлт мэдээллийг харна уу.">
+<!ENTITY  finishedBackground.name         "Шинэчлэл:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Шинэчлэлийг одоо суулгахын тулд &brandShortName;-г шинээр ачаал товч дээр дарна уу.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Одоо биш гэсэн товч дээр дарж энэ самбарыг хаагаад үргэлжлүүлэн ажиллана уу. &brandShortName; нь шинэчлэлийг дараагийн удаа дахин ачаалах үед суулгана.">
+<!ENTITY  installed.title                 "Шинэчлэл суугдсан">
+<!ENTITY  installed.intro                 "Шинэчлэл амжилттай суугдлаа.">
+<!ENTITY  whatsnew.label                  "Юу шинээр нэмэгдсэнийг унш...">
+
+<!ENTITY  update.details.label            "Нарийн мэдээлэл">
+<!ENTITY  update.installedOn.label        "Суугдсан газар:">
+<!ENTITY  update.status.label             "Төлөв:">
+                                           
+

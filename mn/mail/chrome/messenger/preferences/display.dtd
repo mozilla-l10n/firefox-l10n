@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "Хэлбэршүүлэлт">
+<!ENTITY itemTags.label                   "Тагнууд">
+<!ENTITY itemFonts.label                  "Үсгийн маяг">
+
+<!ENTITY textBegin.label                  "Хашилттай текстийн харагдац">
+<!ENTITY style.label                      "Хэлбэр:">
+<!ENTITY style.accesskey                  "л">
+<!ENTITY regularStyle.label               "Энгийн">
+<!ENTITY bold.label                       "Зузаан">
+<!ENTITY italic.label                     "Налуу">
+<!ENTITY boldItalic.label                 "Зузаан Налуу">
+<!ENTITY size.label                       "Хэмжээ:">
+<!ENTITY size.accesskey                   "ж">
+<!ENTITY regularSize.label                "Энгийн">
+<!ENTITY bigger.label                     "Арай том">
+<!ENTITY smaller.label                    "Арай бага">
+<!ENTITY color.label                      "Өнгө:">
+<!ENTITY color.accesskey                  "г">
+<!ENTITY displayWidth.label               "Текст захиа">
+<!ENTITY plainText.label				          "Дараах үсгийн маягийг хэрэглэ:">
+<!ENTITY displayText.label				        "Хашилттай текст захиаг харуулах үед:">
+<!ENTITY viewingPlainText.label			      "Текст захиаг харуулах үед:">
+<!ENTITY fixedWidth.label                 "Жигд өргөнтэй үсгийн маяг">
+<!ENTITY fixedWidth.accesskey             "г">
+<!ENTITY variableWidth.label              "Хувьсах өргөнтэй үсгийн маяг">
+<!ENTITY variableWidth.accesskey          "я">
+<!ENTITY readingMessagesHeader.label      "Ирж буй захианд">
+<!ENTITY colors.label                     "Өнгө">
+<!ENTITY overrideColors.label             "Захиа харуулахдаа дараах өнгөнөөс хэрэглэ:">
+<!ENTITY  textColor.label                 "Текст өнгө:">
+<!ENTITY  textColor.accesskey             "т">
+<!ENTITY  backgroundColor.label           "Арын дэвсгэр өнгө:">
+<!ENTITY  backgroundColor.accesskey       "ө">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "Сэтгэлийн хөдөлгөөнийг зургаар харуул">
+<!ENTITY convertEmoticons.accesskey       "з">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label    "Таг нь таны захиаг ангилах болон зэрэглэхэд хэрэглэгдэнэ.">
+<!ENTITY addTagButton.label       "Нэм">
+<!ENTITY addTagButton.accesskey   "м">
+<!ENTITY editTagButton.label      "Засварла">
+<!ENTITY editTagButton.accesskey   "с">
+<!ENTITY removeTagButton.label    "Устга">
+<!ENTITY removeTagButton.accesskey "т">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label       "&brandShortName;-д хэрэглэгдэх үсгийн маяг ба хувиргуурын тохируулга">
+<!ENTITY fontsAndEncodingsCaption.label      "Үсгийн маяг ба хувиргалт">
+<!ENTITY fontOptions.accesskey   "я">
+<!ENTITY fontOptions.label       "Үсгийн маяг…">
+

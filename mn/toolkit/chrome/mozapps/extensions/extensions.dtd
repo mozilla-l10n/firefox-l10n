@@ -1,0 +1,174 @@
+<!ENTITY addons.title                 "Нэмэгдлүүд">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "520">
+<!ENTITY em.height                        "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "Нэмэгдлүүд авах">
+<!ENTITY extensions.label                 "Өргөтгөлүүд">
+<!ENTITY themes.label                     "Маягууд">
+<!ENTITY locales.label                    "Хэл">
+<!ENTITY plugins.label                    "Плагинууд">
+<!ENTITY update.label                     "Шинэчлэлүүд">
+<!ENTITY install.label                    "Суулгац">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "Шинэчлэл хай">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "ч">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Таны нэмэдлүүдийн шинэчлэлийг хайна">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Таны харагдцын маягийн шинэчлэлийг хайна">
+<!ENTITY cmd.installLocalFile.label       "Суулга...">
+<!ENTITY cmd.installLocalFile.accesskey   "а">
+<!ENTITY cmd.installFileAddon.tooltip     "Нэмэгдлийг суулга">
+<!ENTITY cmd.installFileTheme.tooltip     "Маягийг суулга">
+<!ENTITY cmd.installUpdatesAll.label      "Шинэчлэлийг суулга">
+<!ENTITY cmd.installUpdatesAll.accesskey  "л">
+<!ENTITY cmd.installUpdatesAll.tooltip    "Сонгогдсон шинэчлэлийг суулгана">
+<!ENTITY cmd.restartApp2.label            "&brandShortName;-г шинээр ачаал">
+<!ENTITY cmd.restartApp2.accesskey        "ч">
+<!ENTITY cmd.restartApp2.tooltip          "Өөрчлөлтийг хэрэгжүүлэхийн тулд &brandShortName;-г шинээр ачаал">
+
+<!ENTITY cmd.skip.label                   "Алгас">
+<!ENTITY cmd.skip.accesskey               "л">
+<!ENTITY cmd.skip.tooltip                 "Шинэчлэлүүдийг алгас">
+<!ENTITY cmd.continue.label               "Үргэлжлүүл">
+<!ENTITY cmd.continue.accesskey           "ж">
+<!ENTITY cmd.continue.tooltip             "&brandShortName;-г ачаалахаа үргэлжлүүл">
+
+<!ENTITY cmd.enableAll.label              "Бүгдийг зөвшөөр">
+<!ENTITY cmd.enableAll.accesskey          "ү">
+<!ENTITY cmd.enableAll.tooltip            "Харуулсан бүх нэмэгдлүүдийг зөвшөөрнө">
+<!ENTITY cmd.disableAll.label             "Бүгдийг хорь">
+<!ENTITY cmd.disableAll.accesskey         "ь">
+<!ENTITY cmd.disableAll.tooltip           "Харуулсан бүх нэмэгдлүүдийг хорино">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "Маяг хэрэглэ">
+<!ENTITY cmd.useTheme.accesskey           "я">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName;-н харагдах маягийг өөрчил">
+
+<!ENTITY cmd.options.label                "Сонголт">
+<!ENTITY cmd.options.accesskey            "н">
+<!ENTITY cmd.options.tooltip              "Сонгосон өргөтгөлийн сонголт">
+<!ENTITY cmd.optionsUnix.label            "Тохируулга">
+<!ENTITY cmd.optionsUnix.accesskey        "х">
+<!ENTITY cmd.optionsUnix.tooltip          "Сонгосон өргөтгөлийн тохируулгыг засварла">
+
+<!ENTITY cmd.enable.label                 "Зөвшөөр">
+<!ENTITY cmd.enable.accesskey             "З">
+<!ENTITY cmd.enable.tooltip               "&brandShortName; шинээр ачаалагдсан үед энэ нэмэгдлийг зөвшөөрнө">
+
+<!ENTITY cmd.disable.label                "Хорь">
+<!ENTITY cmd.disable.accesskey            "Х">
+<!ENTITY cmd.disable.tooltip              "&brandShortName; шинээр ачаалагдсан үед энэ нэмэгдлийг хорино">
+<!ENTITY cmd.uninstall.label              "Үл суулга">
+<!ENTITY cmd.uninstall2.accesskey         "Ү">
+<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; шинээр ачаалагдсан үед энэ нэмэгдлийн суулгацыг болиулна">
+<!ENTITY cmd.cancelUninstall.label        "Үл суулгалтыг цуцал">
+<!ENTITY cmd.cancelUninstall.accesskey    "у">
+<!ENTITY cmd.cancelUninstall.tooltip      "Энэ нэмэгдлийн үл суулгалтыг цуцлана">
+<!ENTITY cmd.cancelInstall.label          "Суулгацыг цуцал">
+<!ENTITY cmd.cancelInstall.accesskey      "ц">
+<!ENTITY cmd.cancelInstall.tooltip        "Энэ нэмэгдлийн суулгацыг цуцал">
+<!ENTITY cmd.cancelUpgrade.label          "Шинэчлэлийг цуцал">
+<!ENTITY cmd.cancelUpgrade.accesskey      "и">
+<!ENTITY cmd.cancelUpgrade.tooltip        "Энэ нэмэгдлийн шинэчлэх явцыг цуцал">
+<!ENTITY cmd.installUpdate.label          "Шинэчлэлийг суулга">
+<!ENTITY cmd.installUpdate.accesskey      "а">
+<!ENTITY cmd.installUpdate.tooltip        "Энэ нэмэгдлийн шинэчлэлийг суулгана">
+<!ENTITY cmd.showUpdateInfo.label         "Мэдээллийг харуул">
+<!ENTITY cmd.showUpdateInfo.accesskey     "р">
+<!ENTITY cmd.showUpdateInfo.tooltip       "Энэ шинэчлэлийн тухай нэмэлт мэдээллийг харуул">
+<!ENTITY cmd.hideUpdateInfo.label         "Мэдээллийг нуу">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "н">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "Энэ шинэчлэлийн нэмэлт мэдээллийг нууна">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName; руу нэм…">
+<!ENTITY cmd.installSearchResult.accesskey "н">
+<!ENTITY cmd.installSearchResult.tooltip   "Энэ нэмэгдлийг татаж аваад суулга">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "Цуцал">
+<!ENTITY cancel.accesskey                 "ц">
+<!ENTITY cancelInstall.label              "Цуцал">
+<!ENTITY cancelInstall.accesskey          "у">
+<!ENTITY cancelUpgrade.label              "Цуцал">
+<!ENTITY cancelUpgrade.accesskey          "л">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "Вэб хуудсанд нь зорч">
+<!ENTITY cmd.homepage.accesskey           "ч">
+<!ENTITY cmd.about2.label                 "Энэ нэмэгдлийн тухай">
+<!ENTITY cmd.about.accesskey              "й">
+<!ENTITY cmd.checkUpdate.label            "Шинэчлэлийг нь ол">
+<!ENTITY cmd.checkUpdate.accesskey        "о">
+
+<!ENTITY cmd.includeUpdate.label          "Шинэчлэл оруул">
+<!ENTITY cmd.includeUpdate.accesskey      "у">
+<!ENTITY includeUpdate.label              "Энэ шинэчлэлийг оруул">
+<!ENTITY includeUpdate.accesskey          "г">
+<!ENTITY includeUpdate.tooltip            "Шинэчлэл суулгаж байх үед энэ нэмэгдлийг оруул">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "Аюулгүйн нууцлалын шинэчлэлийг дэмжээгүй.">
+<!ENTITY needsDependencies.label          "Нэмэлт зүйлс шаардаж байна.">
+<!ENTITY blocklisted.label                "Таныг хамгаалах үүднээс хорисон.">
+<!ENTITY toBeDisabled.label               "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед хоригдох болно.">
+<!ENTITY toBeEnabled.label                "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед зөвшөөрөгдөх болно.">
+<!ENTITY toBeInstalled.label               "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед суугдах болно.">
+<!ENTITY toBeUninstalled.label             "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед үл суугдах болно.">
+<!ENTITY toBeUpdated.label                "Энэ нэмэгдэл &brandShortName; шинээр ачаалагдсан үед шинэчлэгдэх болно.">
+
+<!ENTITY getExtensions.label            "Өргөтгөлүүд авах">
+<!ENTITY getThemes.label              "Маяг татаж авах">
+<!ENTITY getPlugins.label                 "Плагин татаж авах">
+
+<!ENTITY searchAddons.label               "Бүх нэмэгдэлд хайх">
+<!ENTITY browseAddons.label               "Бүх нэмэгдлүүдийг харах">
+<!ENTITY searchFailed.label               "&brandShortName; нэмэгдлүүд рүү хандаж чадахгүй байна.">
+<!ENTITY recommendedHeader.label          "Санал болгогдсон">
+<!ENTITY recommendedThrobber.label        "Санал болгогдсон нэмэгдлүүд рүү хандаж байна">
+<!ENTITY searchThrobber.label             "Нэмэгдэл хайж байна">
+<!ENTITY resetSearch.label                "Үр дүнг цэвэрлэ">
+<!ENTITY noSearchResults.label            "Үр дүнд байгаа бүх зүйлс өмнө нь суугдчихсан юмуу эсвэл бүтэц нь бүрэн биш байна.">
+<!ENTITY noRecommendedResults.label       "Бүх санал болголтууд өмнө нь суугдсан юмуу эсвэл бүтэц нь бүрэн биш байна.">
+<!ENTITY emptySearch.label                "Тохирсон нэмэгдэл олдсонгүй">
+<!ENTITY emptySearch.button               "OK">
+<!ENTITY cancelSearch.button              "Цуцал">
+<!ENTITY searchFailed.button              "OK">
+<!ENTITY searchResultHomepage.value       "Нэмэлт мэдээлэл">
+<!ENTITY searchBox.label                  "Бүх нэмэгдэлд хайх">
+<!ENTITY recommendedResults.label         "Бүх санал болгогдсон нэмэгдлүүдийг харах">
+<!ENTITY searchResultConnecting.label     "Холбогдож байна…">
+<!ENTITY searchResultInstalling.label     "Суулгаж байна…">
+<!ENTITY searchResultFailed.label         "Суулгацад алдаа гарлаа">
+<!ENTITY searchResultInstalled.label      "Суулгац гүйцлээ">
+<!ENTITY addonTypeExtension.label         "Өргөтгөл">
+<!ENTITY addonTypeTheme.label             "Харагдцын маяг">
+<!ENTITY missingThumbnail.label           "Урьдчилсан харуулалтгүй">
+
+<!ENTITY previewNoThemeSelected.label     "Маяг сонгогдоогүй байна">
+<!ENTITY previewNoPreviewImage.label      "Энэ маягт туршилтын харагдац алга">
+<!ENTITY moreInfo.label                   "Нэмэлт мэдээлэл">
+<!ENTITY infoNoAddonSelected.label        "Ямар ч шинэчлэл сонгогдоогүй байна">
+<!ENTITY infoNoUpdateInfo.label           "Энэ шинэчлэлд нэмэлт мэдээлэл байхгүй байна">
+<!ENTITY infoUpdateInfoError.label        "Энэ шинэчлэлийн нэмэлт мэдээллийг дуудах үед алдаа гарлаа">
+
+
+<!ENTITY updateSuccess.label              "Шинэчлэл амжилттай гүйцэтгэгдлээ.">
+<!ENTITY installSuccess.label             "Суулгац амжилттай гүйцэтгэгдлээ.">
+<!ENTITY installSuccessRestart.label      "Суулгацыг гүйцээхийн тулд шинээр ачаал.">
+<!ENTITY updateSuccessRestart.label       "Шинэчлэлийг гүйцээхийн тулд шинээр ачаал.">
+<!ENTITY installWaiting.label             "Хүлээж байна...">
+<!ENTITY installIncompatibleUpdate.label  "Хувилбарын тохиромжийг шалгаж байна...">
+<!ENTITY installFinishing.label           "Суулгаж байна...">
+<!ENTITY installFailure.label             "Суулгацад алдаа гарлаа.">
+<!ENTITY progressStatus.label             "Шинэчлэл буй эсэхийг шалгаж байна">
+
+<!ENTITY eula.title                       "Эцсийн хэрэглэгчийн зөвшилцөл">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "Зөвшөөрөөд суулга…">

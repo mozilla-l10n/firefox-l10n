@@ -1,0 +1,26 @@
+<!ENTITY alwaysSend.label "Үргэлж илгээ">
+<!ENTITY askMe.label "Надаас асуу">
+<!ENTITY leaveIt.accesskey "л">
+<!ENTITY leaveIt.label "Үүнийг миний Ирсэн захиа санд үлдээ">
+<!ENTITY moveToSent.accesskey "з">
+<!ENTITY moveToSent.label "Үүнийг миний &quot;Sent&quot; санд зөө">
+<!ENTITY never.accesskey "ү">
+<!ENTITY never.label "Хүлээж авсан мэдээг хэзээ ч үл илгээ">
+<!ENTITY neverSend.label "Хэзээ ч бүү илгээ">
+<!ENTITY notInToCc.accesskey "в">
+<!ENTITY notInToCc.label "Хэрэв би Хэнд эсвэл Хуулбар талбарт үгүй бол:">
+<!ENTITY otherCases.accesskey "т">
+<!ENTITY otherCases.label "Бусад бүх тохиолдолд:">
+<!ENTITY outsideDomain.accesskey "й">
+<!ENTITY outsideDomain.label "Хэрэв илгээгч нь миний домэйнээс өөр бол:">
+<!ENTITY pane.title "Захиа авсан мэдээг буцаах">
+<!ENTITY receiptArrive.label "Хэрэв илгээсэн захиаг авсан мэдээ ирвэл:">
+<!ENTITY requestMDN.label "Захиа авсан мэдээг буцаах хүсэлт хүлээж авах үед:">
+<!ENTITY requestReceipt.accesskey "З">
+<!ENTITY requestReceipt.label "Захиа илгээх үед үргэлж захиа хүлээж авсан мэдээг буцаахыг шаард">
+<!ENTITY returnSome.accesskey "б">
+<!ENTITY returnSome.label "Зарим захианд захиа хүлээн авсан мэдээ буцаахыг зөвшөөр">
+<!ENTITY useCustomPrefs.accesskey "и">
+<!ENTITY useCustomPrefs.label "Энэ бүртгэлийн захиа авсан мэдээг буцаах тохиргоог өөрчлөх">
+<!ENTITY useGlobalPrefs.accesskey "б">
+<!ENTITY useGlobalPrefs.label "Энэ бүртгэлд миний ердийн захиа авсан мэдээг буцаах тохиргоог хэрэглэ">

@@ -1,0 +1,23 @@
+<!ENTITY editBookmarkOverlay.name.label                      "Нэр:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "Н">
+<!ENTITY editBookmarkOverlay.location.label                  "Байршил:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "Б">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Мэдээний байршил:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "й">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Хуудасны байршил:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "д">
+<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Амьд гарчиг">
+<!ENTITY editBookmarkOverlay.folder.label                    "Сан:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Хаягийн бүх санг харуул">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Нуу">
+<!ENTITY editBookmarkOverlay.tags.label                      "Таглаанууд:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "Т">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label			 "Таглаануудыг таслалаар салга.">
+<!ENTITY editBookmarkOverlay.description.label               "Тодорхойлолт:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "о">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Түлхүүр үг:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "ү">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Бүх таглааг харуул">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Энэ хаягийг хажуу самбарт дууд">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "и">
+<!ENTITY editBookmarkOverlay.choose.label                    "Сонго…">

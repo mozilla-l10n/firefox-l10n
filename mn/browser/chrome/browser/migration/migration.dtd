@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title          "Импортлох цонх">
+
+<!ENTITY importFrom.label               "Сонголт, хаяг, түүх, нууц үгсийг импортлох байршил:">
+<!ENTITY importFromUnix.label           "Тохируулга, хаяг, түүх, нууц үгсийг импортлох байршил:">
+<!ENTITY importFromBookmarks.label      "Хаяг импортлох байршил:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird or Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Юу ч бүү импортол">
+<!ENTITY importFromNothing.accesskey    "Ю">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "HTML файлаас">
+<!ENTITY importFromHTMLFile.accesskey   "й">
+
+<!ENTITY noMigrationSources.label       "Хаяг, зорчсон түүх эсвэл нууц үг агуулсан програм олдсонгүй.">
+
+<!ENTITY importSource.title             "Тохиргоо ба өгөгдөл импортлох">
+<!ENTITY importItems.title              "Импортлох зүйлс">
+<!ENTITY importItems.label              "Алиныг нь импортлохоо сонго:">
+
+<!ENTITY migrating.title                "Импортолж байна...">
+<!ENTITY migrating.label                "Дараах зүйлс импортлогдож байна...">
+
+<!ENTITY selectProfile.title            "Хувийн орчинг сонго">
+<!ENTITY selectProfile.label            "Уг байрлалаас дараах зүйлсийг импортлох боломжтой байна:">
+
+<!ENTITY done.title                     "Импортлолт гүйцлээ">
+<!ENTITY done.label                     "Дараах зүйлс амжилттай импортлогдлоо:">
+

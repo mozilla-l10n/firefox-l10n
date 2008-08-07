@@ -1,0 +1,276 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Захиа бич: (гарчиггүй)">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label "Файл"> 
+<!ENTITY fileMenu.accesskey "Ф">
+<!ENTITY newMenu.label "Шинэ">
+<!ENTITY newMenu.accesskey "н">
+<!ENTITY newMessage.label "Захиа">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "и">
+<!ENTITY newCard.label "Хаягийн тэмдэглэл карт…">
+<!ENTITY newCard.accesskey "я">
+<!ENTITY attachMenu.label "Хавсарга">
+<!ENTITY attachMenu.accesskey "р">
+<!ENTITY attachFileCmd.label "Файл(ууд)…">
+<!ENTITY attachFileCmd.accesskey "й">
+<!ENTITY attachPageCmd.label "Вэб хуудас…">
+<!ENTITY attachPageCmd.accesskey "с">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Хувийн карт (vCard)">
+<!ENTITY attachVCardCmd.accesskey "к">
+<!ENTITY closeCmd.label "Хаа">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "Х">
+<!ENTITY saveCmd.label "Хадгал">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "л">
+<!ENTITY saveAsCmd.label "Нэр өгч хадгал">
+<!ENTITY saveAsCmd.accesskey "ө">
+<!ENTITY saveAsFileCmd.label "Файл…">
+<!ENTITY saveAsFileCmd.accesskey "л">
+<!ENTITY saveAsDraftCmd.label "Ноорог">
+<!ENTITY saveAsDraftCmd.accesskey "г">
+<!ENTITY saveAsTemplateCmd.label "Загвар">
+<!ENTITY saveAsTemplateCmd.accesskey "в">
+<!ENTITY sendNowCmd.label "Одоо илгээ">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "и">
+<!ENTITY sendLaterCmd.label "Сүүлд илгээ">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "л">
+<!ENTITY printSetupCmd.label "Хуудасны тохиргоо…">
+<!ENTITY printSetupCmd.accesskey "с">
+<!ENTITY printCmd.label "Хэвлэ…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "э">
+<!ENTITY quitApplicationCmdWin.label                    "Гарах"> 
+<!ENTITY quitApplicationCmdWin.accesskey                "х">
+<!ENTITY quitApplicationCmd.label                       "Хаа"> 
+<!ENTITY quitApplicationCmd.accesskey                   "Х">
+<!ENTITY quitApplicationCmd.key "Q"> 
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "Засварла"> 
+<!ENTITY editMenu.accesskey "с">
+<!ENTITY undoCmd.label "Буцаж үйлд">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "ц"> 
+<!ENTITY redoCmd.label "Дахин үйлд">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "й"> 
+<!ENTITY cutCmd.label "Тасдаж сануул">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "у"> 
+<!ENTITY copyCmd.label "Сануул">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "а"> 
+<!ENTITY pasteCmd.label "Санамж буулга">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "б">
+<!ENTITY editRewrapCmd.label "Мөр нугал">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "н">
+<!ENTITY deleteCmd.label "Устга">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "У">
+<!ENTITY selectAllCmd.label "Бүгдийг сонго">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "о"> 
+<!ENTITY findCmd.label "Хайж орлуул…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "ж">
+<!ENTITY findAgainCmd.label "Дахиад ол">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "д">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Өмнөхийг ол">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "ө"> 
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label "Харагдац"> 
+<!ENTITY viewMenu.accesskey "р">
+<!ENTITY viewToolbarsMenuNew.label "Багажит самбар"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "с"> 
+<!ENTITY showComposeToolbarCmd.label "Захианы самбар">
+<!ENTITY showComposeToolbarCmd.accesskey "х">
+<!ENTITY showFormatToolbarCmd.label "Хэлбэршүүлэх самбар">
+<!ENTITY showFormatToolbarCmd.accesskey "м">
+<!ENTITY showTaskbarCmd.label "Төлвийн самбар">
+<!ENTITY showTaskbarCmd.accesskey "б">
+<!ENTITY customizeToolbar.label "Өөрчил…">
+<!ENTITY customizeToolbar.accesskey "ч">
+
+<!ENTITY addressSidebar.label "Холбоо барих хажуу самбар"> 
+<!ENTITY addressSidebar.accesskey "ж"> 
+
+<!-- Format Menu -->
+<!ENTITY formatMenu.label "Хэлбэршүүлэл">
+<!ENTITY formatMenu.accesskey "л">
+
+<!-- Options Menu -->
+<!ENTITY optionsMenu.label "Сонголт">
+<!ENTITY optionsMenu.accesskey "т">
+<!ENTITY checkSpellingCmd.label "Үгийн алдаа шалга…">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key2 "VK_F7">
+<!ENTITY checkSpellingCmd.accesskey "ш">
+<!ENTITY enableInlineSpellChecker.label "Бичиж байх үед шалга">
+<!ENTITY enableInlineSpellChecker.accesskey "й">
+<!ENTITY quoteCmd.label "Захиаг хашилтанд хий">
+<!ENTITY quoteCmd.accesskey "ш">
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCard.label "Хувийн карт хавсарга (vCard)">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY returnReceiptMenu.label "Хүлээж авсанг мэдэгдэх">
+<!ENTITY returnReceiptMenu.accesskey "д">
+<!ENTITY dsnMenu.label "Илгээх төлвийн мэдэгдэл">
+<!ENTITY dsnMenu.accesskey "л">
+<!ENTITY outputFormatMenu.label "Хэлбэр">
+<!ENTITY outputFormatMenu.accesskey "б">
+<!ENTITY autoFormatCmd.label "Автоматаар тань">
+<!ENTITY autoFormatCmd.accesskey "т">
+<!ENTITY plainTextFormatCmd.label "Зөвхөн текст">
+<!ENTITY plainTextFormatCmd.accesskey "к">
+<!ENTITY htmlFormatCmd.label "Зөвхөн хэлбэртэй текст (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "е">
+<!ENTITY bothFormatCmd.label "Энгийн ба дүрэмтэй текст(HTML) ">
+<!ENTITY bothFormatCmd.accesskey "Э">
+<!ENTITY priorityMenu.label "Давуу эрх">
+<!ENTITY priorityMenu.accesskey "у">
+<!ENTITY priorityButton.label "Давуу эрх:">
+<!ENTITY lowestPriorityCmd.label "Хамгийн бага">
+<!ENTITY lowestPriorityCmd.accesskey "Х">
+<!ENTITY lowPriorityCmd.label "Бага">
+<!ENTITY lowPriorityCmd.accesskey "Б">
+<!ENTITY normalPriorityCmd.label "Энгийн">
+<!ENTITY normalPriorityCmd.accesskey "н">
+<!ENTITY highPriorityCmd.label "Өндөр">
+<!ENTITY highPriorityCmd.accesskey "ө">
+<!ENTITY highestPriorityCmd.label "Хамгийн өндөр">
+<!ENTITY highestPriorityCmd.accesskey "м">
+<!ENTITY fileCarbonCopyCmd.label "Хуулбарын энд илгээ">
+<!ENTITY fileCarbonCopyCmd.accesskey "э">
+<!ENTITY fileHereMenu.label "Файлыг энд">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Багаж">
+<!ENTITY tasksMenu.accesskey "Б">
+<!ENTITY messengerCmd.label "Захиа &amp; Мэдээ">
+<!ENTITY messengerCmd.accesskey "З">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Хаягийн тэмдэглэл">
+<!ENTITY addressBookCmd.accesskey "т">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY accountManagerCmd.label "Бүртгэлийн тохиргоо…">
+<!ENTITY accountManagerCmd.accesskey "г">
+<!ENTITY accountManagerCmdUnix.accesskey "л">
+<!ENTITY preferencesCmd.label "Сонголт…">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "С">
+<!ENTITY preferencesCmdUnix.label       "Тохируулга">
+<!ENTITY preferencesCmdUnix.accesskey   "л"> 
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Багасга">
+<!ENTITY bringAllToFront.label "Бүгдийг өмнө нь авчир">
+<!ENTITY zoomWindow.label "Томруул"> 
+<!ENTITY windowMenu.label "Цонх"> 
+
+<!-- Mail Toolbar -->
+<!ENTITY sendButton.label "Илгээ">
+<!ENTITY quoteButton.label "Хашилтанд хий">
+<!ENTITY addressButton.label "Холбоо барих">
+<!ENTITY attachButton.label "Хавсарга">
+<!ENTITY spellingButton.label "Үгийн алдаа шалга">
+<!ENTITY saveButton.label "Хадгал">
+<!ENTITY throbberItem.title "Идэвхижлийн заалт">
+
+<!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "Энэ захиаг одоо илгээх"> 
+<!ENTITY sendlaterButton.tooltip "Энэ захиаг сүүд илгээх"> 
+<!ENTITY quoteButton.tooltip "Өмнөх захиаг хашилтанд хийх"> 
+<!ENTITY addressButton.tooltip "Хүлээн авагчийг хаягийн тэмдэглэлээс сонгох"> 
+<!ENTITY attachButton.tooltip "Хавсралт оруулах"> 
+<!ENTITY saveButton.tooltip "Энэ захиаг хадгал"> 
+<!ENTITY cutButton.tooltip              "Тасдаж сануул">
+<!ENTITY copyButton.tooltip             "Сануул">
+<!ENTITY pasteButton.tooltip            "Санамж буулга">
+
+<!-- Headers -->
+<!ENTITY fromAddr.label "Хэнээс:">
+<!ENTITY fromAddr.accesskey "э">
+<!ENTITY toAddr.label "Хэнд:"> 
+<!ENTITY ccAddr.label "Хуулбар:"> 
+<!ENTITY bccAddr.label "Хуулбар1:"> 
+<!ENTITY replyAddr.label "Хариулах-хаяг:"> 
+<!ENTITY newsgroupsAddr.label "Мэдээний груп:"> 
+<!ENTITY followupAddr.label "Дагалдаж-Хэнд:"> 
+<!ENTITY subject.label "Гарчиг:">
+<!ENTITY subject.accesskey "ч">
+<!ENTITY attachments.label "Хавсралт:">
+<!ENTITY attachments.accesskey "т">
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+<!ENTITY formatToolbar.boldChar "З">
+<!ENTITY formatToolbar.italicChar "Н">
+<!ENTITY formatToolbar.underlineChar "Д">
+<!ENTITY SmileButton.tooltip "Инээмсэглэл оруулах">
+<!ENTITY smiley1Cmd.label "Инээсэн">
+<!ENTITY smiley2Cmd.label "Цэхэлзсэн">
+<!ENTITY smiley3Cmd.label "Ирмэсэн">
+<!ENTITY smiley4Cmd.label "Хэлээ гаргасан">
+<!ENTITY smiley5Cmd.label "Чангаар инээсэн">
+<!ENTITY smiley6Cmd.label "Гомдсон">
+<!ENTITY smiley7Cmd.label "Эргэлзсэн">
+<!ENTITY smiley8Cmd.label "Гайхсан">
+<!ENTITY smiley9Cmd.label "Үнссэн">
+<!ENTITY smiley10Cmd.label "Орилсон">
+<!ENTITY smiley11Cmd.label "Мундаг">
+<!ENTITY smiley12Cmd.label "Мөнгө зуусан">
+<!ENTITY smiley13Cmd.label "Хөлөө зуусан">
+<!ENTITY smiley14Cmd.label "Атаархсан">
+<!ENTITY smiley15Cmd.label "Уйлсан">
+<!ENTITY smiley16Cmd.label "Уруул мушийлгасан">
+
+<!-- Message Pane Context Menu -->
+<!ENTITY spellCheckNoSuggestions.label "Санал болголт байхгүй">
+<!ENTITY spellCheckIgnoreWord.label "Үгийг алгас">
+<!ENTITY spellCheckIgnoreWord.accesskey "л">
+<!ENTITY spellCheckAddToDictionary.label "Толь бичигт нэм">
+<!ENTITY spellCheckAddToDictionary.accesskey "ч">
+<!ENTITY undo.label "Буцаж үйлд">
+<!ENTITY undo.accesskey "й">
+<!ENTITY cut.label "Тасдаж сануул">
+<!ENTITY cut.accesskey "ж">
+<!ENTITY copy.label "Сануул">
+<!ENTITY copy.accesskey "С">
+<!ENTITY paste.label "Санамж буулга">
+<!ENTITY paste.accesskey "м">
+<!ENTITY pasteQuote.label "Хашилтанд санамж буулга">
+<!ENTITY pasteQuote.accesskey "ш">
+
+<!ENTITY openAttachment.label "Нээ">
+<!ENTITY openAttachment.accesskey "Н">
+<!ENTITY delete.label "Устга">
+<!ENTITY delete.accesskey "У">
+<!ENTITY renameAttachment.label "Нэр өөрчил…">
+<!ENTITY renameAttachment.accesskey "р">
+<!ENTITY selectAll.label "Бүгдийг сонго">
+<!ENTITY selectAll.accesskey "д">
+<!ENTITY attachFile.label "Файл(ууд) хавсарга…">
+<!ENTITY attachFile.accesskey "Ф">
+<!ENTITY attachPage.label "Вэб хуудас хавсарга…">
+<!ENTITY attachPage.accesskey "в">
+
+<!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "Холбоо барих">
+

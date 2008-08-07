@@ -1,0 +1,44 @@
+
+<!ENTITY  connectionsDialog.title       "Холболтын тохируулга">
+<!ENTITY window.width                   "37em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "Интернэтэд орох Проксиг тохируул">
+<!ENTITY  noProxyTypeRadio.label        "Проксигүй">
+<!ENTITY  noProxyTypeRadio.accesskey    "с">
+<!ENTITY  systemTypeRadio.label         "Системийн проксигийн тохиргоог хэрэглэ">
+<!ENTITY  systemTypeRadio.accesskey     "е">
+<!ENTITY  WPADTypeRadio.label           "Энэ сүлжээний проксиг автоматаар тань">
+<!ENTITY  WPADTypeRadio.accesskey       "в">
+<!ENTITY  manualTypeRadio.label         "Прокси гар тохируулга:">
+<!ENTITY  manualTypeRadio.accesskey     "а">
+<!ENTITY  autoTypeRadio.label           "Автомат прокси тохируулах хаяг:">
+<!ENTITY  autoTypeRadio.accesskey       "п">
+<!ENTITY  reload.label                  "Дахин дууд">
+<!ENTITY  reload.accesskey              "а">
+<!ENTITY  ftp.label                     "FTP Прокси:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Gopher Прокси:">
+<!ENTITY  gopher.accesskey              "g">
+<!ENTITY  http.label                    "HTTP Прокси:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL Прокси:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS Эзэн:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "Порт:">
+<!ENTITY  HTTPport.accesskey            "р">
+<!ENTITY  SSLport.accesskey             "п">
+<!ENTITY  FTPport.accesskey             "т">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.accesskey           "о">
+<!ENTITY  noproxy.label                 "Прокси хэрэггүй хаяг:">
+<!ENTITY  noproxy.accesskey             "и">
+<!ENTITY  noproxyExplain.label          "Жишээ: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Энэ проксиг бүх протоколд хэрэглэ">
+<!ENTITY  shareproxy.accesskey          "к">

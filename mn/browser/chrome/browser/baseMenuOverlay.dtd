@@ -1,0 +1,44 @@
+<!ENTITY aboutCmd.accesskey "т">
+<!ENTITY aboutCmd.label "&brandFullName;-н тухай">
+<!ENTITY bringAllToFront.label "Бүгдийг өмнө авчир">
+<!ENTITY helpContents.accesskey "Т">
+<!ENTITY helpContents.label "Тусламжийн бүтэц">
+<!ENTITY helpContentsMac.label "&brandShortName; тусламж">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY helpForIEUsers.label "Internet Explorer хэрэглэгчдэд">
+<!ENTITY helpMenu.accesskey "Т">
+<!ENTITY helpMenu.label "Тусламж">
+<!ENTITY helpMenuWin.accesskey "Т">
+<!ENTITY helpMenuWin.label "Тусламж">
+<!ENTITY helpReleaseNotes.accesskey "Х">
+<!ENTITY helpReleaseNotes.label "Хувилбарын тэмдэглэл">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Багасга">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey "/">
+<!ENTITY openHelpMac.frontendCommandkey "?">
+<!ENTITY openHelpMac.frontendModifiers "accel">
+<!ENTITY openHelpMac.modifiers "accel,shift">
+<!ENTITY updateCmd.accesskey "Ш">
+<!ENTITY updateCmd.label "Шинэчлэлийг шалга…">
+<!ENTITY windowMenu.label "Цонх">
+<!ENTITY zoomWindow.label "Томруулалт">
+
+<!ENTITY preferencesCmdMac.label        "Тохируулга…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+  
+<!ENTITY servicesMenuMac.label          "Үйлчилгээнүүд">
+
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName;-г нуу">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Бусдыг нь нуу">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label        "Бүгдийг харуул">

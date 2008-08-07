@@ -1,0 +1,121 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#				  Ehsan Akhgari <ehsan.akhgari@gmail.com>                                
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "630">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "c">
+<!ENTITY  copy.label            "Сануул">
+<!ENTITY  copy.accesskey        "С">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Бүгдийг сонго">
+<!ENTITY  selectall.accesskey   "Б">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Ердийн">
+<!ENTITY  generalTab.accesskey  "р">
+<!ENTITY  generalURL            "Интернэт хаяг:">
+<!ENTITY  generalType           "Төрөл:">
+<!ENTITY  generalMode           "Харуулах горим:">
+<!ENTITY  generalSize           "Хэмжээ:">
+<!ENTITY  generalReferrer       "Хандах интер.хаяг:">
+<!ENTITY  generalSource         "Эх байрлал:">
+<!ENTITY  generalModified       "Өөрчлөгдсөн огноо:">
+<!ENTITY  generalEncoding       "Хувиргалт:">
+<!ENTITY  generalMetaName       "Нэр">
+<!ENTITY  generalMetaContent    "Бүтэц">
+<!ENTITY  generalSecurityMore   "Нэмэлт">
+<!ENTITY  generalSecurityMore.accesskey "Н">
+
+<!ENTITY  mediaTab              "Дуу дүрс">
+<!ENTITY  mediaTab.accesskey    "Д">
+<!ENTITY  mediaLocation         "Байршил:">
+<!ENTITY  mediaText             "Тайлбар текст:">
+<!ENTITY  mediaAltHeader        "Мэдэгдэл текст">
+<!ENTITY  mediaAddress          "Хаяг">
+<!ENTITY  mediaType             "Төрөл">
+<!ENTITY  mediaSize             "Хэмжээ">
+<!ENTITY  mediaCount            "Тоо">
+<!ENTITY  mediaDimension        "Хэмжээ:">
+<!ENTITY  mediaLongdesc         "Бүрэн тодорхойлолт:">
+<!ENTITY  mediaBlockImage.accesskey "у">
+<!ENTITY  mediaSaveAs           "Нэр өгч хадгал…">
+<!ENTITY  mediaSaveAs.accesskey "ө">
+<!ENTITY  mediaSaveAs2.accesskey "г">
+<!ENTITY  mediaPreview          "Дуу дүрсийг харах:">
+
+<!ENTITY  feedTab               "Товч мэдээ">
+<!ENTITY  feedTab.accesskey     "д">
+<!ENTITY  feedSubscribe         "Бүртгүүл">
+<!ENTITY  feedSubscribe.accesskey "ү">
+
+<!ENTITY  permTab               "Хандах эрх">
+<!ENTITY  permTab.accesskey     "э">
+<!ENTITY  permUseDefault        "Анхдагч эрхийг хэрэглэ">
+<!ENTITY  permAllow             "Зөвшөөр">
+<!ENTITY  permAllowSession      "Зорчсон хэсэгт зөвшөөр">
+<!ENTITY  permBlock             "Хорь">
+<!ENTITY  permissionsFor        "Хандах эрхийн сан:">
+<!ENTITY  permImage             "Зурагнуудыг дууд">
+<!ENTITY  permPopup             "Цовхчигч цонхнуудыг нээ">
+<!ENTITY  permCookie            "Күүки суулга">
+<!ENTITY  permInstall           "Өргөтгөл болон маяг суулга">
+
+<!ENTITY  securityTab           "Нууцлал">
+<!ENTITY  securityTab.accesskey "ц">
+<!ENTITY  securityHeader        "Энэ хуудасны нууцлалын мэдээлэл">
+<!ENTITY  securityView.certView     "Гэрчилгээг харах">
+<!ENTITY  securityView.accesskey "х">
+<!ENTITY  securityView.unknown   "Үл мэдэгдэх">
+<!ENTITY  securityView.identity.header   "Вэб хуудасны танилт">
+<!ENTITY  securityView.identity.owner    "Эзэмшигч: ">
+<!ENTITY  securityView.identity.domain   "Вэб хуудас: ">
+<!ENTITY  securityView.identity.verifier "Шалгасан: ">
+
+<!ENTITY  securityView.privacy.header                   "Мэдээллийн журам болон түүх">
+<!ENTITY  securityView.privacy.history                  "Өнөөдрөөс өмнө нь би энэ хуудсанд зорчиж байсан уу?">
+<!ENTITY  securityView.privacy.cookies                  "Энэ вэб хуудас миний компьютер луу мэдээлэл (күүки) хадгалж байна уу?">
+<!ENTITY  securityView.privacy.viewCookies              "Күүкинүүдийг харах">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "р">
+<!ENTITY  securityView.privacy.passwords                "Би энэ вэб хуудсанд нууц үг хадгалсан уу?">
+<!ENTITY  securityView.privacy.viewPasswords            "Хадгалсан нууц үгсийг харах">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "а">
+
+<!ENTITY  securityView.technical.header                 "Техникийн мэдээлэл">
+

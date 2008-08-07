@@ -1,0 +1,8 @@
+<!ENTITY dialogCancel.label	"Цуцал">
+<!ENTITY dialogClose.label	"Хаа">
+<!ENTITY percentPrint		"#1&#037;">
+<!ENTITY preparing			"Бэлтгэж байна...">
+<!ENTITY printComplete		"Хэвлэж дууссан.">
+<!ENTITY printWindow.title	"Хэвлэж байна">
+<!ENTITY progress			"Явц :">
+<!ENTITY title				"Гарчиг:">

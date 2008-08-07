@@ -1,0 +1,13 @@
+<!ENTITY resetsettings.label                  "Тохиргоог шинээр хий">
+<!ENTITY resetpreferences.label               "Тохируулгыг шинээр...">
+<!ENTITY managecerts.caption                  "Гэрчилгээ зохицуулах">
+<!ENTITY managecerts.text                     "Гэрчилгээ зохицуулагчийг хэрэглэж бусад хүний сертификат эрх мөн өөрийн Сертификатыг зохицуулна.">
+<!ENTITY managecerts.button                   "Гэрчилгээ зохицуулах...">
+<!ENTITY managecerts.accesskey                "Г">
+<!ENTITY managedevices.caption                "Нууцлалын төхөөрөмжийг зохицуулах">
+<!ENTITY managedevices.text                   "Энэ товчийг хэрэглэж нууцлалын төхөөрөмжөө зохицуулна уу. (жишээлбэл нэвтрэх карт)">
+<!ENTITY managedevices.button                 "Нууцлалын төрөөрөмжийг зохицуулах...">
+<!ENTITY managedevices.accesskey              "Н">
+<!ENTITY ssl.label                            "SSL">
+<!ENTITY pref.certs.title                     "Гэрчилгээ">
+<!ENTITY certs.label                          "Гэрчилгээ">

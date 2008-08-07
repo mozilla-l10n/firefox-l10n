@@ -1,0 +1,430 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 ArentJan Banck <ajbanck@planet.nl>
+   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
+   -                 Matthew Willis <mattwillis@gmail.com>
+   -                 Simon Paquet <bugzilla@babylonsounds.com>
+   -                 Stefan Sitter <ssitter@googlemail.com>
+   -   Jeferson Hultmann <hultmann@gmail.com> (pt-BR l10n)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- General -->
+<!ENTITY calendar.file.default.name  "Миний цагалбар" >
+<!ENTITY calendar.calendar.label     "Цагалбар">
+<!ENTITY calendar.calendar.accesskey "Ц">
+
+
+<!ENTITY calendar.confirm.deleteallevents  "Та бүх сонгосон үйл явдлуудыг устгахдаа итгэлтэй байна уу?" >
+<!ENTITY calendar.confirm.deleteevent "Та ийм гарчигтай үйл явдлыг устгахдаа итгэлтэй байна уу: " >
+<!ENTITY calendar.confirm.deleteuntitledevent "Та энэ гарчиггүй үйл явдлыг устгахдаа итгэлтэй байна уу?" >
+
+<!ENTITY calendar.flat.topbar.choosedate       "Өдөр сонгох" >
+<!ENTITY calendar.flat.topbar.dayview          "Өдрийн харагдац" >
+<!ENTITY calendar.dayview.accesskey            "Ө" >
+<!ENTITY calendar.flat.topbar.weekview         "Долоо хоногийн харагдац" >
+<!ENTITY calendar.weekview.accesskey           "х" >
+<!ENTITY calendar.flat.topbar.monthview        "Сарын харагдац" >
+<!ENTITY calendar.monthview.accesskey          "р" >
+<!ENTITY calendar.flat.topbar.multiweekview    "Долоо хоногуудын харагдац" >
+<!ENTITY calendar.multiweekview.accesskey      "г" >
+<!ENTITY calendar.dayView.key                  "1" >
+<!ENTITY calendar.weekView.key                 "2" >
+<!ENTITY calendar.multiweekView.key            "3" >
+<!ENTITY calendar.monthView.key                "4" >
+
+
+<!ENTITY calendar.newtask.button.tooltip          "Шинэ даалгавар үүсгэ" >
+<!ENTITY calendar.newevent.button.tooltip         "Шинэ үйл явдал үүсгэ" >
+<!ENTITY calendar.delete.button.tooltip           "Сонгосон үйл явдлыг устга" >
+<!ENTITY calendar.edit.button.tooltip             "Сонгосон үйл явдлыг засварла" >
+
+<!ENTITY calendar.unifinder.todoitems.label       "Даалгаварууд" >
+<!ENTITY calendar.unifinder.hidecompletedtodos.label "Биелэгдсэн даалгаварыг нуу">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Биелэгдсэн даалгаварыг харуул">
+
+<!ENTITY calendar.calendartab.label "Өдөр">
+<!ENTITY calendar.listofcalendarstab.label "Цагалбарууд">
+<!ENTITY calendar.today.button.label       "Өнөөдөр">
+<!ENTITY calendar.tomorrow.button.label       "Маргааш">
+<!ENTITY calendar.nextweek.button.label       "Дараагийн долоо хоног">
+<!ENTITY calendar.thisweek.button.label       "Энэ долоо хоног">
+<!ENTITY calendar.soon.button.label           "Ойрын">
+
+<!ENTITY calendar.events.filter.all.label "Бүх үйл явдал">
+<!ENTITY calendar.events.filter.today.label "Өнөөдрийн үйл явдлууд">
+<!ENTITY calendar.events.filter.future.label "Ирээдүйн бүх үйл явдлууд">
+<!ENTITY calendar.events.filter.current.label "Сонгосон өдрийн">
+<!ENTITY calendar.events.filter.next7Days.label "Дараах 7 өдрийн үйл явдлууд">
+<!ENTITY calendar.events.filter.next14Days.label "Дараах 14 өдрийн үйл явдлууд">
+<!ENTITY calendar.events.filter.next31Days.label "Дараах 31 өдрийн үйл явдлууд">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Цагалбарын энэ сарын үйл явдал">
+
+<!ENTITY calendar.unifinder.tree.done.label          "Гүйцлээ">
+<!ENTITY calendar.unifinder.tree.priority.label      "Давуу эрх">
+<!ENTITY calendar.unifinder.tree.title.label         "Гарчиг">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; Биелсэн">
+<!ENTITY calendar.unifinder.tree.startdate.label     "Эхлэх">
+<!ENTITY calendar.unifinder.tree.enddate.label       "Дуусах">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Гүйцэтгэх">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Биелүүлсэн">
+<!ENTITY calendar.unifinder.tree.categories.label    "Төрөл">
+<!ENTITY calendar.unifinder.tree.location.label    "Байршил">
+<!ENTITY calendar.unifinder.tree.status.label    "Төлөв">
+<!ENTITY calendar.unifinder.tree.calendarname.label    "Цагалбарын нэр">
+<!ENTITY calendar.unifinder.close.tooltip            "Үйл явцын хайлт болон жагсаалтыг хаа">
+<!ENTITY calendar.find.key  "F">
+
+<!ENTITY calendar.today.button.tooltip        "Өнөөдрийг сонго" >
+<!ENTITY calendar.todaypane.button.tooltip        "Өнөөдрийн самбарыг харуул" >
+<!ENTITY calendar.choosedate.button.tooltip       "Өдрөө сонгох" >
+<!ENTITY calendar.unifinder.button.tooltip        "Үйл явдлыг олж жагсаах" >
+
+<!ENTITY calendar.day.button.tooltip          "Өдрийн харагдцанд сэлгэ" >
+<!ENTITY calendar.week.button.tooltip         "Долоо хоногийн харагдцанд сэлгэ" >
+<!ENTITY calendar.month.button.tooltip        "Сарын харагдцанд сэлгэ" >
+<!ENTITY calendar.multiweek.button.tooltip        "Долоо хоногуудын харагдцанд сэлгэ" >
+
+<!ENTITY calendar.nextday.button.tooltip        "Дараагийн өдөр" >
+<!ENTITY calendar.prevday.button.tooltip        "Өмнөх өдөр" >
+<!ENTITY calendar.nextweek.button.tooltip       "Дараах долоо хоног" >
+<!ENTITY calendar.prevweek.button.tooltip       "Өмнөх долоо хоног" >
+<!ENTITY calendar.nextmonth.button.tooltip      "Дараагийн сар" >
+<!ENTITY calendar.prevmonth.button.tooltip      "Өмнөх сар" >
+
+<!ENTITY calendar.newtask.button.label          "Шинэ даалгавар" >
+<!ENTITY calendar.newevent.button.label         "Шинэ үйл явдал" >
+<!ENTITY calendar.delete.button.label           "Устга" >
+<!ENTITY calendar.edit.button.label             "Засварла" >
+
+<!ENTITY calendar.choosedate.button.label       "Өдөр сонго" >
+
+<!ENTITY calendar.cut.button.tooltip            "Тасдаж сануул" >
+<!ENTITY calendar.copy.button.tooltip           "Сануул" >
+<!ENTITY calendar.paste.button.tooltip          "Санамж буулга" >
+<!ENTITY calendar.print.button.tooltip          "Цагалбарыг хэвлэ" >
+
+<!ENTITY calendar.cut.button.label              "Тасдаж сануул" >
+<!ENTITY calendar.copy.button.label             "Сануул" >
+<!ENTITY calendar.paste.button.label            "Санамж буулга" >
+<!ENTITY calendar.print.button.label            "Хэвлэ" >
+
+<!ENTITY calendar.import.button.tooltip            "Дотоод файлаас үйл явдал импортлоно." >
+<!ENTITY calendar.export.button.tooltip            "Дотоод файл руу үйл явдал экспортлоно." >
+<!ENTITY calendar.subscribe.button.tooltip         "Сүлжээний компьютерт буй цагалбарт бүртгүүлнэ." >
+<!ENTITY calendar.publish.button.tooltip            "Сүлжээний компьютерт үйл явдлыг бэлдэж гаргана." >
+
+<!ENTITY calendar.import.calendar                "Импорт…" >
+<!ENTITY calendar.export.calendar                "Цагалбарыг экспортол…" >
+
+<!ENTITY calendar.import.button.label              "Импорт" >
+<!ENTITY calendar.export.button.label              "Экспорт" >
+<!ENTITY calendar.subscribe.button.label           "Бүртгүүл" >
+<!ENTITY calendar.publish.button.label             "Бэлдэж гарга" >
+<!ENTITY calendar.unifinder.button.label           "Үйл явдал хайх" >
+
+<!ENTITY calendar.localreload.button.label   "Дотроо дахин дууд" >
+<!ENTITY calendar.localreload.button.tooltip  "Бүх дотоод цагалбарыг дахин дууд" >
+<!ENTITY calendar.remotereload.button.label   "Дахин дууд" >
+<!ENTITY calendar.remotereload.button.tooltip   "Бүх алсын цагалбарыг дахин дууд" >
+
+<!ENTITY calendar.day.button.label          "Өдрөөр" >
+<!ENTITY calendar.week.button.label         "Долоо хоногоор" >
+<!ENTITY calendar.month.button.label        "Сараар" >
+<!ENTITY calendar.multiweek.button.label        "Долоо хоногууд" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Зөвхөн ажлын өдрүүд" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "в" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Энэ харуулалтад буй даалгаварууд" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "б" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Биелэгдсэн даалгаваруудыг харуул" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "р" >
+
+<!ENTITY calendar.orientation.label "Харуулалтыг сэлгэ" >
+<!ENTITY calendar.orientation.accesskey "л" >
+
+<!ENTITY calendar.menu.options.close.key        "W">
+
+<!ENTITY calendar.search.options.searchfor " агуулсан">
+
+<!ENTITY calendar.menu.numberofweeks.label     "Долоо хоногийн тоо" >
+<!ENTITY calendar.menu.numberofweeks.accesskey "т" >
+<!ENTITY calendar.menu.numberofweeks.2      "2 долоо хоног" >
+<!ENTITY calendar.menu.numberofweeks.3      "3 долоо хоног" >
+<!ENTITY calendar.menu.numberofweeks.4      "4 долоо хоног" >
+<!ENTITY calendar.menu.numberofweeks.5      "5 долоо хоног" >
+<!ENTITY calendar.menu.numberofweeks.6      "6 долоо хоног" >
+
+<!ENTITY calendar.list.header.label                 "Цагалбар">
+
+<!ENTITY calendar.task.filter.title.label           "Харуул">
+<!ENTITY calendar.task.filter.all.label             "Бүгд">
+<!ENTITY calendar.task.filter.all.accesskey         "ү">
+<!ENTITY calendar.task.filter.today.label           "Өнөөдөр">
+<!ENTITY calendar.task.filter.today.accesskey       "р">
+<!ENTITY calendar.task.filter.next7days.label       "Дараагийн долоо хоног">
+<!ENTITY calendar.task.filter.next7days.accesskey   "д">
+<!ENTITY calendar.task.filter.notstarted.label      "Эхлээгүй даалгаварууд">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "й">
+<!ENTITY calendar.task.filter.overdue.label         "Онц биш даалгавар">
+<!ENTITY calendar.task.filter.overdue.accesskey     "ш">
+<!ENTITY calendar.task.filter.completed.label       "Биелэгдсэн даалгавар">
+<!ENTITY calendar.task.filter.completed.accesskey   "е">
+
+<!ENTITY calendar.task.edit.instructions.label       "Энд дарж шинэ даалгавар нэмнэ">
+<!ENTITY calendar.task.details.title.label           "Гарчиг:">
+<!ENTITY calendar.task.details.entrydate.label       "Эхлэх өдөр:">
+<!ENTITY calendar.task.details.duedate.label         "үргэлжлэх өдөр:">
+<!ENTITY calendar.task.details.organizer.label       "Эхлэх:">
+<!ENTITY calendar.task.details.priority.label        "Зэрэглэл:">
+<!ENTITY calendar.task.details.priority.low.label    "Бага">
+<!ENTITY calendar.task.details.priority.normal.label "Ердийн">
+<!ENTITY calendar.task.details.priority.high.label   "Өндөр">
+<!ENTITY calendar.task.details.status.label          "Төлөв:">
+<!ENTITY calendar.task.details.category.label        "Төрөл:">
+<!ENTITY calendar.task.details.repeat.label          "Давтамж:">
+
+<!ENTITY calendar.task.category.button.tooltip  "Даалгаварыг төрөлжүүлэх">
+<!ENTITY calendar.task.complete.button.tooltip  "Сонгосон даалгаваруудыг биелүүлсэн гэж тэмдэглэ">
+<!ENTITY calendar.task.priority.button.tooltip  "Зэрэглэлийг өөрчил">
+<!ENTITY calendar.task.delete.button.tooltip    "Сонгосон даалгаварыг устга">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label            "Бичиг баримт: Гүйцэтгэгдсэн">
+
+<!-- customizable toolbars -->
+<!ENTITY calendar.context.customize.label             "Өөрчил…">
+<!ENTITY calendar.context.customize.accesskey         "ч">
+<!ENTITY calendar.menu.customize.label                "Багажит самбарыг өөрчил…">
+<!ENTITY calendar.menu.customize.accesskey            "л">
+<!ENTITY calendar.maintoolbar.name                    "Үндсэн багажит самбар">
+<!ENTITY calendar.maintoolbar.accesskey               "Ү">
+
+<!-- Context Menu -->
+<!ENTITY calendar.context.newevent.label              "Шинэ үйл явдал…">
+<!ENTITY calendar.context.newevent.accesskey          "Ш">
+<!ENTITY calendar.context.newtodo.label               "Шинэ даалгавар…">
+<!ENTITY calendar.context.newtodo.accesskey           "и">
+<!ENTITY calendar.context.modifyevent.label           "Сонгосон үйл явдлыг засварла…">
+<!ENTITY calendar.context.modifyevent.accesskey       "о">
+<!ENTITY calendar.context.modifytask.label            "Даалгаварыг засварла…">
+<!ENTITY calendar.context.modifytask.accesskey        "з">
+<!ENTITY calendar.context.modifyitem.label            "Оруулгыг засварла">
+<!ENTITY calendar.context.modifyitem.accesskey        "з">
+<!ENTITY calendar.context.deleteevent.label           "Сонгосон үйл явдлыг устга">
+<!ENTITY calendar.context.deleteevent.accesskey       "у">
+<!ENTITY calendar.context.deletetask.label            "Даалгаварыг устга">
+<!ENTITY calendar.context.deletetask.accesskey        "с">
+<!ENTITY calendar.context.deleteitem.label            "Оруулгыг устга">
+<!ENTITY calendar.context.deleteitem.accesskey        "с">
+<!ENTITY calendar.context.cutevent.label              "Тасдаж сануул">
+<!ENTITY calendar.context.cutevent.accesskey          "ж">
+<!ENTITY calendar.context.copyevent.label             "Сануул">
+<!ENTITY calendar.context.copyevent.accesskey         "а">
+<!ENTITY calendar.context.pasteevent.label            "Санамж буулга">
+<!ENTITY calendar.context.pasteevent.accesskey        "б">
+<!ENTITY calendar.context.selectall.label             "Бүгдийг сонго">
+<!ENTITY calendar.context.selectall.accesskey         "г">
+<!ENTITY calendar.context.gototoday.label             "Өнөөдрийг сонго">
+<!ENTITY calendar.context.button.label                "Өнөөдрийн самбар" >
+<!ENTITY calendar.context.gototoday.accesskey         "д">
+<!ENTITY calendar.context.emailevent.label            "Сонгосон үйл явдлыг захиагаар илгээ…">
+<!ENTITY calendar.context.emailevent.accesskey        "и">
+
+<!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "Явц">
+<!ENTITY calendar.context.progress.accesskey          "ц">
+<!ENTITY calendar.context.priority.label              "Давуу эрх">
+<!ENTITY calendar.context.priority.accesskey          "в">
+<!ENTITY calendar.context.category.label              "Шинэ төрөл…">
+<!ENTITY calendar.context.category.accesskey          "ө">
+
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
+
+<!ENTITY calendar.context.markcompleted.label     "Биелэсэн гэж тэмдэглэ">
+<!ENTITY calendar.context.markcompleted.accesskey "е">
+
+<!ENTITY progress.notstarted           "Эхлээгүй">
+<!ENTITY progress.notstarted.accesskey "л">
+<!ENTITY progress.level.0             "0&percnt; биелсэн">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25&percnt; биелсэн">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50&percnt; биелсэн">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "75&percnt; биелсэн">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "100&percnt; биелсэн">
+<!ENTITY progress.level.100.accesskey  "1">
+
+<!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Шинэ цагалбар…">
+<!ENTITY calendar.context.newserver.accesskey          "Ш">
+<!ENTITY calendar.context.findcalendar.label           "Цагалбар хайх…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "й" >
+<!ENTITY calendar.context.deleteserver.label           "Цагалбарыг устга…">
+<!ENTITY calendar.context.deleteserver.accesskey       "т">
+<!ENTITY calendar.context.reloadserver.label           "Серверээс цагалбарыг дахин дууд">
+<!ENTITY calendar.context.reloadserver.accesskey       "с">
+<!ENTITY calendar.context.publish.label                "Цагалбарыг бүхлээр нь бэлдэж гарга">
+<!ENTITY calendar.context.publish.accesskey            "х">
+<!ENTITY calendar.context.export.label                 "Цагалбарыг экспортол…">
+<!ENTITY calendar.context.export.accesskey             "э">
+<!ENTITY calendar.context.properties.label             "Шинж чанар">
+<!ENTITY calendar.context.properties.accesskey         "ч">
+
+<!ENTITY calendar.context.convert.label                "Хувирга">
+<!ENTITY calendar.context.convert.accesskey            "в">
+<!ENTITY calendar.context.converttoevent.label         "Үйл явдал">
+<!ENTITY calendar.context.converttoevent.accesskey     "я">
+<!ENTITY calendar.context.converttomessage.label       "Захиа">
+<!ENTITY calendar.context.converttomessage.accesskey   "х">
+
+<!ENTITY calendar.context.showeventsof.label           "Үйл явдал харуул">
+<!ENTITY calendar.context.showeventsof.accesskey       "я">
+<!ENTITY calendar.context.showtasksof.label            "Даалгавар харуул">
+<!ENTITY calendar.context.showtasksof.accesskey        "х">
+
+<!ENTITY calendar.tasks.view.minimonth.label           "Бичил сар">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "ч">
+
+<!ENTITY calendar.tasks.view.calendarlist.label        "Цагалбарын жагсаалт">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "ж">
+
+<!ENTITY calendar.tasks.view.filtertasks.label           "Даалгаварт шүүлт хий">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "ш">
+
+<!-- Calendar Alarm Dialog -->
+
+<!ENTITY calendar.alarm.location.label              "Байршил:" >
+<!ENTITY calendar.alarm.details.label               "Нарийн мэдээлэл…" >
+
+<!ENTITY calendar.alarm.snoozefor.label             "Сэрүүлэг" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Бүгдэд нь сэрүүлэг" >
+<!-- In case your language needs a different word order, this entity can be used
+     to add words to the end of the "Snooze all for XXX minutes" line -->
+<!ENTITY calendar.alarm.snoozeall.suffix.label      "">
+<!ENTITY calendar.alarm.title.label                "Цагалбарын сэрүүлэг" >
+<!ENTITY calendar.alarm.dismiss.label               "Алгас" >
+<!ENTITY calendar.alarm.dismissall.label            "Бүгдийг алгас" >
+
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 минут" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 минут" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 минут" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 минут" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 минут" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 цаг" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 цаг" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 өдөр" >
+
+<!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Цагалбарыг засварла">
+<!ENTITY calendar.server.dialog.name.label          "Цагалбарын нэр:">
+
+<!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label    "Өнгө:">
+<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label   "CalDAV">
+<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label   "Хэлбэр:">
+<!ENTITY calendarproperties.location.label "Байрлал:">
+<!ENTITY calendarproperties.name.label     "Нэр:">
+<!ENTITY calendarproperties.readonly.label "Зөвхөн уншигдахаар">
+<!ENTITY calendarproperties.firealarms.label "Сэрүүлгүүдийг харуул">
+<!ENTITY calendarproperties.cache.label    "Түр хадгалагч (ТУРШИЛТЫНХ, шинээр ачаалах шаардлагатай)">
+
+<!-- Sunbird Help -->
+<!ENTITY calendar.help.label               "Тусламжийн бүтэц">
+<!ENTITY calendar.help.accesskey           "б">
+
+<!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Цагалбар бэлдэж гаргах">
+<!ENTITY calendar.publish.url.label                 "Хаяг бэлдэж гаргах">
+<!ENTITY calendar.publish.publish.button      "Бэлдэж гаргах">
+<!ENTITY calendar.publish.close.button      "Хаа">
+
+<!ENTITY calendar.publish.example.url.description   "http://www.myserver.com/webdav/test.ics гэх мэт">
+
+<!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Цагалбар сонго">
+
+<!-- Calendar Import Outlook CSV Dialog -->
+<!-- TRANSLATORS: all outlook*.label -fields should be translated word to word (or if possible
+                  copied from outlook csv file headers -->
+<!ENTITY calendar.importoutlook.dialog.title "Outlook CSV Импорт" >
+<!ENTITY calendar.importoutlook.mapconcepts.label "Дараах цагалбарыг бүтцийг өөрсдийнх нь Outlook CSV equivalents бүтцээр тааруулна уу:" >
+<!ENTITY calendar.importoutlook.outlooksubject.label "Гарчиг" >
+<!ENTITY calendar.importoutlook.outlookstartdate.label "Эхлэх өдөр" >
+<!ENTITY calendar.importoutlook.outlookstarttime.label "Эхлэх цаг" >
+<!ENTITY calendar.importoutlook.outlookenddate.label "Дуусах өдөр" >
+<!ENTITY calendar.importoutlook.outlookendtime.label "Дуусах цаг" >
+<!ENTITY calendar.importoutlook.outlooklocation.label "Байрлал" >
+<!ENTITY calendar.importoutlook.outlookdescription.label "Тодорхойлолт" >
+<!ENTITY calendar.importoutlook.outlookallday.label "Бүх өдрийн үйл явдал" >
+<!ENTITY calendar.importoutlook.outlookprivate.label "Хувийн" >
+<!ENTITY calendar.importoutlook.outlookalarm.label "Сануулга өгөх/болих" >
+<!ENTITY calendar.importoutlook.outlookalarmdate.label "Сануулах өдөр" >
+<!ENTITY calendar.importoutlook.outlookalarmtime.label "Сануулах цаг" >
+<!ENTITY calendar.importoutlook.outlookcategories.label "Төрөл" >
+<!ENTITY calendar.importoutlook.selectmeaning.label "Дараах үгийн утгыг сонго: " >
+<!ENTITY calendar.importoutlook.true.label "Үнэн" >
+<!ENTITY calendar.importoutlook.false.label "Худал" >
+
+<!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Цагалбарыг хэвлэ">
+<!ENTITY calendar.print.title.label "Гарчиг:">
+<!ENTITY calendar.print.layout.label "Байрлал:">
+<!ENTITY calendar.print.range.label "Хэвлэх зүйлс">
+<!ENTITY calendar.print.currentview.label "Одоогийн харагдцанд буй бүх үйл явдлыг">
+<!ENTITY calendar.print.selected.label "Сонгогдсон үйл явдлуудыг">
+<!ENTITY calendar.print.custom.label "Энэ хооронд буй үйл явдлыг жагсаа:">
+<!ENTITY calendar.print.from.label "Хаанаас:">
+<!ENTITY calendar.print.to.label "Хаана:">
+<!ENTITY calendar.print.settingsGroup.label "Хэвлэх тохиргоо">
+
+<!-- Error reporting -->
+<!ENTITY calendar.error.detail "Нарийн мэдээлэл...">
+<!ENTITY calendar.error.number "Алдааны дугаар:">
+<!ENTITY calendar.error.description "Тодорхойлолт:">
+<!ENTITY calendar.error.title "Алдаа гарлаа">
+
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+

@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "Нэмэлт бүртгэлийн тохиргоо">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "Нэмэлт IMAP серверийн тохиргоо">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP серверийн сан:">
+<!ENTITY serverDirectory.accesskey "с">
+<!ENTITY usingSubscription.label "Зөвхөн бүртгүүлсэн санг харуул">
+<!ENTITY usingSubscription.accesskey "а">
+<!ENTITY dualUseFolders.label "Захиа болон дэд санг агуулсан санг сервер агуулна">
+<!ENTITY dualUseFolders.accesskey "а">
+<!ENTITY useIdle.label "IDLE тушаалыг хэрэв сервер хангасан бол хэрэглэ">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Түр хадгалагч ойд холбогдсон серверийн дээд хэмжээ">
+<!ENTITY maximumConnectionsNumber.accesskey "р">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Энэ тохируулга таны IMAP серверийн заагч нэрийг тохируулна.">
+<!ENTITY personalNamespace.label "Хувийн нэрийн орчин:">
+<!ENTITY personalNamespace.accesskey "Х">
+<!ENTITY publicNamespace.label "Нийтийн:">
+<!ENTITY publicNamespace.accesskey "и">
+<!ENTITY otherUsersNamespace.label "Бусад хэрэглэгч:">
+<!ENTITY otherUsersNamespace.accesskey "Б">
+<!ENTITY overrideNamespaces.label "Сервер энэ нэрийг дарахыг зөвшөөрөх">
+<!ENTITY overrideNamespaces.accesskey "С">
+<!ENTITY pop3Desc.label "Энэ серверийн захиаг татаж авах үед, шинэ захиаг энд хадгал:">
+<!ENTITY folderStorage.label "Захиаг хадгалах газар">
+<!ENTITY globalInbox.label "Ерөнхий ирсэн захианы сан (Дотоод сангийн бүртгэл)">
+<!ENTITY globalInbox.accesskey "Е">
+<!ENTITY accountDirectory.label "Энэ серверийн бүртгэлийн ирсэн захиа сан">
+<!ENTITY accountDirectory.accesskey "с">
+<!ENTITY deferToServer.label "Өөр бүртгэлийн ирсэн захианы сан">
+<!ENTITY deferToServer.accesskey "Ө">
+<!ENTITY deferGetNewMail.label "Шинэ захиа авах үед энэ серверийг оруул">
+<!ENTITY deferGetNewMail.accesskey "е">

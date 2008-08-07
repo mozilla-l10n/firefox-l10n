@@ -1,0 +1,25 @@
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
+<!ENTITY alwaysUseUsername.accesskey "н">
+<!ENTITY alwaysUseUsername.label "Нэр болон нууц үгийг хэрэглэ">
+<!ENTITY isSecure.label "Нууцлалтай холболт хэрэглэ (SSL):">
+<!ENTITY neverSecure.accesskey "Х">
+<!ENTITY neverSecure.label "Хэзээ ч">
+<!ENTITY security.caption "Нууцлал ба Нэвтрэлт">
+<!ENTITY serverDescription.accesskey "й">
+<!ENTITY serverDescription.label "Тодорхойлолт:">
+<!ENTITY serverName.accesskey "н">
+<!ENTITY serverName.label "Серверийн нэр:">
+<!ENTITY serverPort.accesskey "р">
+<!ENTITY serverPort.label "Порт:">
+<!ENTITY serverPortDefault.label "Анхны порт:">
+<!ENTITY settings.caption "Тохируулга">
+<!ENTITY smtpEditTitle.label "SMTP Сервер">
+<!ENTITY sometimesSTARTTLS.accesskey "б">
+<!ENTITY sometimesSTARTTLS.label "Боломжтой бол STARTTLS">
+<!ENTITY userName.accesskey "н">
+<!ENTITY userName.label "Хэрэглэгчийн нэр:">
+<!ENTITY useSecAuth.label "Нууцлалтай нэвтрэлт ашигла">
+<!ENTITY useSecAuth.accesskey "ц">

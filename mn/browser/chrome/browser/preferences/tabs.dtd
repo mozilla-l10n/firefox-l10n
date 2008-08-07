@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "Шинэ цонхонд нээгдэх ёстой холбоосыг нээхдээ:">
+<!ENTITY inNewWindow.label            "шинэ цонхонд">
+<!ENTITY inNewWindow.accesskey        "ц">
+<!ENTITY inNewTab.label               "шинэ самбарт">
+<!ENTITY inNewTab.accesskey           "с">
+
+<!ENTITY warnCloseMultipleTabs.label  "Олон самбар хаах үед надад анхааруул">
+<!ENTITY warnCloseMultipleTabs.accesskey  "б">
+
+<!ENTITY warnOpenManyTabs.label       "Олон самбар нэг дор нээх үед &brandShortName; удаашрахаар бол надад анхааруул">
+<!ENTITY warnOpenManyTabs.accesskey   "л">
+
+<!ENTITY showTabBar.label             "Самбарын тавцанг үргэлж харуул">
+<!ENTITY showTabBar.accesskey         "м">
+
+<!ENTITY switchToNewTabs.label        "Хэрэв намайг шинэ самбарт холбоос нээвэл тэр самбарт шилж">
+<!ENTITY switchToNewTabs.accesskey    "Х">

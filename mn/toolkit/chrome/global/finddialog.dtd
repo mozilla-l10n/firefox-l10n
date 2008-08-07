@@ -1,0 +1,16 @@
+<!ENTITY cancelButton.label "Цуцал">
+<!ENTITY caseSensitiveCheckbox.accesskey "ч">
+<!ENTITY caseSensitiveCheckbox.label "Том/жижиг бичлэгт тохирсон">
+<!ENTITY closeButton.label "Хаа">
+<!ENTITY direction.label "Чиглэл">
+<!ENTITY down.accesskey "Д">
+<!ENTITY down.label "Доош">
+<!ENTITY findButton.accesskey "о">
+<!ENTITY findButton.label "Дараахыг ол">
+<!ENTITY findDialog.title "Энэ хуудсанд ол">
+<!ENTITY findField.accesskey "й">
+<!ENTITY findField.label "Хайх текст:">
+<!ENTITY up.accesskey "Д">
+<!ENTITY up.label "Дээш">
+<!ENTITY wrapCheckbox.accesskey "Б">
+<!ENTITY wrapCheckbox.label "Бүгд хамарсан">

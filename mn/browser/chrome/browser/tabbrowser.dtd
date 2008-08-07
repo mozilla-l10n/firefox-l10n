@@ -1,0 +1,18 @@
+<!ENTITY  untitledTab            "(Гарчиггүй)">
+<!ENTITY  newTab.label           "Шинэ самбар">
+<!ENTITY  newTab.accesskey       "Ш">
+<!ENTITY  closeTab.label         "Самбарыг хаа">
+<!ENTITY  closeTab.accesskey         "С">
+<!ENTITY  closeOtherTabs.accesskey  "Б">
+<!ENTITY  closeOtherTabs.label   "Бусад самбарыг хаа">
+<!ENTITY  reloadAllTabs.label    "Бүх самбарыг дахин дууд">
+<!ENTITY  reloadAllTabs.accesskey         "х">
+<!ENTITY  reloadTab.label        "Самбарыг дахин дууд">
+<!ENTITY  reloadTab.accesskey         "м">
+<!ENTITY  listAllTabs.label      "Бүх самбарын жагсаалтыг харуул">
+<!ENTITY  bookmarkAllTabs.label       "Бүх самбарын хаягийг хадгал…">
+<!ENTITY  bookmarkAllTabs.accesskey   "ү">
+<!ENTITY  bookmarkThisTab.label        "Энэ самбарын хаягийг хадгал…">
+<!ENTITY  bookmarkThisTab.accesskey    "Э">
+<!ENTITY  undoCloseTab.label          "Самбар хаасан үйлдлийг буц">
+<!ENTITY  undoCloseTab.accesskey      "й">

@@ -1,0 +1,15 @@
+<!ENTITY button.addFeed.accesskey "э">
+<!ENTITY button.addFeed.label "Нэм">
+<!ENTITY button.editFeed.accesskey "З">
+<!ENTITY button.editFeed.label "Засварла">
+<!ENTITY button.exportOPML.accesskey "Э">
+<!ENTITY button.exportOPML.label "Экспорт">
+<!ENTITY button.importOPML.accesskey "м">
+<!ENTITY button.importOPML.label "Импорт">
+<!ENTITY button.removeFeed.accesskey "р">
+<!ENTITY button.removeFeed.label "Арилга">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY feedTitle.label "Гарчиг:">
+<!ENTITY location.label "Хаяг:">
+<!ENTITY newsBlogSubscriptions.label "RSS Бүртгэлүүд">
+<!ENTITY subscriptionDesc.label "Тэмдэглэл: Оруулгын санг өөрчлөх юмуу устгахад өмнө татаж авсан сэдэвт нөлөөлөхгүй">

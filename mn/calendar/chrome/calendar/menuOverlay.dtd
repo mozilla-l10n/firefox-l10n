@@ -1,0 +1,333 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 Matthew Willis <mattwillis@gmail.com>
+   -                 Stefan Sitter <ssitter@googlemail.com>
+   -   Jeferson Hultmann <hultmann@gmail.com> (pt-BR l10n)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Event Menu -->
+<!ENTITY event.menu.label                       "Үйл явц">
+<!ENTITY event.menu.accesskey                   "я">
+
+<!ENTITY event.new.event                        "Шинэ үйл явц…">
+<!ENTITY event.new.event.key                    "N">
+<!ENTITY event.new.event.accesskey              "Ш">
+
+<!ENTITY event.new.todo                         "Шинэ даалгавар…">
+<!ENTITY event.new.todo.key                     "T">
+<!ENTITY event.new.todo.accesskey               "д">
+
+<!ENTITY calendar.new.server.label              "Шинэ цагалбар…">
+<!ENTITY calendar.new.server.key                "L">
+<!ENTITY calendar.new.server.accesskey          "э">
+
+<!ENTITY calendar.open.file.label               "Цагалбар файл нээ…">
+<!ENTITY calendar.open.file.key                 "O">
+<!ENTITY calendar.open.file.accesskey           "Ц">
+
+<!ENTITY event.edit.event                       "Сонголтыг засварла…">
+<!ENTITY event.edit.event.key                   "E">
+<!ENTITY event.edit.event.accesskey             "з">
+
+<!ENTITY event.delete.event                     "Сонгосон үйл явдлыг устга">
+<!ENTITY event.delete.event.accesskey           "ү">
+
+<!ENTITY event.delete.tasks                     "Сонгосон даалгаварыг устга">
+<!ENTITY event.delete.tasks.accesskey           "у">
+
+<!ENTITY event.mail.event                       "Захиа сонголт…">
+<!ENTITY event.mail.event.key                   "M">
+<!ENTITY event.mail.event.accesskey             "с">
+
+<!ENTITY calendar.print.label                   "Хэвлэ…">
+<!ENTITY calendar.print.key                     "P">
+<!ENTITY calendar.print.accesskey               "Х">
+
+<!ENTITY calendar.printpreview.label            "Хэвлэх харагдац">
+<!ENTITY calendar.printpreview.accesskey        "э">
+
+<!ENTITY calendar.pagesetup.label               "Хуудасны тохиргоо…">
+<!ENTITY calendar.pagesetup.accesskey           "т">
+
+<!ENTITY calendar.import.label                  "Импортол…">
+<!ENTITY calendar.import.key                    "I">
+<!ENTITY calendar.import.accesskey              "И">
+
+<!ENTITY calendar.export.label                  "Сонголтыг экспортол…">
+<!ENTITY calendar.export.accesskey              "э">
+
+<!ENTITY calendar.export.calendar.label         "Цагалбарыг экспортол…">
+<!ENTITY calendar.export.calendar.accesskey     "п">
+
+<!ENTITY calendar.export.selection.label        "Сонголтыг экспортол…">
+<!ENTITY calendar.export.selection.accesskey    "к">
+
+<!ENTITY calendar.subscribe.label               "Сүлжээний цагалбарт бүртгүүл…">
+<!ENTITY calendar.subscribe.accesskey           "ж">
+
+<!ENTITY calendar.reloadserver.label            "Сүлжээний цагалбарыг дахин дууд">
+<!ENTITY calendar.reloadserver.key              "R">
+<!ENTITY calendar.reloadserver.accesskey        "й">
+
+<!ENTITY calendar.publish.label                 "Бэлдэж гарга…">
+<!ENTITY calendar.publish.accesskey             "ж">
+
+<!ENTITY calendar.publish.calendar.label        "Цагалбарыг бэлдэж гарга…">
+<!ENTITY calendar.publish.calendar.accesskey    "б">
+
+<!ENTITY calendar.publish.selection.label       "Сонголтыг бэлдэж гарга…">
+<!ENTITY calendar.publish.selection.accesskey   "ж">
+
+<!ENTITY calendar.quit.label                    "Гарах">
+<!ENTITY calendar.quit.accesskey                "Г">
+<!ENTITY calendar.quit.key                      "Q">
+<!ENTITY calendar.quit.label.mac                "&brandShortName;аас гарах">
+<!ENTITY calendar.quit.modifiers.mac            "accel">
+
+<!ENTITY calendar.exit.label                    "Гарах">
+<!ENTITY calendar.exit.accesskey                "х">
+
+<!ENTITY calendar.about.label                   "Цагалбарын тухай">
+<!ENTITY calendar.about.accesskey               "н">
+
+<!ENTITY calendar.undo.label                    "Буцаж үйлд">
+<!ENTITY calendar.undo.key                      "Z">
+<!ENTITY calendar.undo.accesskey                "ц">
+
+<!ENTITY calendar.redo.label                    "Дахин үйлд">
+<!ENTITY calendar.redo.key                      "Y">
+<!ENTITY calendar.redo.accesskey                "х">
+
+<!ENTITY calendar.cut.label                     "Тасдаж сануул">
+<!ENTITY calendar.cut.key                       "X">
+<!ENTITY calendar.cut.accesskey                 "ж">
+
+<!ENTITY calendar.copy.label                    "Сануул">
+<!ENTITY calendar.copy.key                      "C">
+<!ENTITY calendar.copy.accesskey                "С">
+
+<!ENTITY calendar.paste.label                   "Санамж буулга">
+<!ENTITY calendar.paste.key                     "V">
+<!ENTITY calendar.paste.accesskey               "б">
+
+<!ENTITY calendar.selectall.label               "Бүгдийг сонго">
+<!ENTITY calendar.selectall.key                 "A">
+<!ENTITY calendar.selectall.accesskey           "Б">
+
+<!ENTITY toolbarsMenu.label                     "Багажит самбарууд">
+<!ENTITY toolbarsMenu.accesskey                 "т">
+
+<!ENTITY calendar.toolbar.label                 "Цагалбарын самбар">
+<!ENTITY calendar.toolbar.accesskey             "Ц">
+<!ENTITY task.toolbar.label                     "Даалгаварын самбар">
+<!ENTITY task.toolbar.accesskey                 "в">
+
+<!ENTITY mode.toolbar.label                     "Горимын самбар">
+<!ENTITY mode.toolbar.accesskey                 "с">
+
+<!ENTITY calendar.menu.customize.label          "Өөрчил…">
+<!ENTITY calendar.menu.customize.accesskey      "ө">
+
+<!ENTITY calendar.preferences.label             "Тохируулга…">
+<!ENTITY calendar.preferences.accesskey         "о">
+
+<!ENTITY showStatusBarCmd.label                 "Төлвийн самбар">
+<!ENTITY showStatusBarCmd.accesskey             "в">
+
+<!ENTITY showTaskBoxCmd.label                   "Даалгаварын жагсаалт">
+<!ENTITY showTaskBoxCmd.accesskey               "ж">
+
+<!ENTITY showUnifinderCmd.label                 "Үйл явц хайх">
+<!ENTITY showUnifinderCmd.accesskey             "й">
+
+<!ENTITY calendar.displaytodos.checkbox.label       "Даалгаваруудыг цагалбарт харуул">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "х">
+
+<!ENTITY calendar.menu.numberofweeks.label      "Долоо хоногуудын харагдцын хэмжээ">
+<!ENTITY calendar.menu.numberofweeks.2          "Хоёр долоо хоног">
+<!ENTITY calendar.menu.numberofweeks.3          "Гурван долоо хоног">
+<!ENTITY calendar.menu.numberofweeks.4          "Дөрвөн долоо хоног">
+<!ENTITY calendar.menu.numberofweeks.5          "Таван долоо хоног">
+<!ENTITY calendar.menu.numberofweeks.6          "Зургаан долоо хоног">
+
+<!ENTITY calendar.fullscreen.label              "Дэлгэц дүүрэн">
+<!ENTITY calendar.fullscreen.accesskey          "Д">
+
+<!ENTITY calendar.addons.label                  "Нэмэгдлүүд">
+<!ENTITY calendar.addons.accesskey              "э">
+
+<!ENTITY goMenu.label                           "Оч">
+<!ENTITY goMenu.accesskey                       "ч">
+
+<!ENTITY goTodayCmd.label                       "Өнөөдөр">
+<!ENTITY goTodayCmd.accesskey                   "н">
+
+<!ENTITY goDateCmd.label                        "Өдөр сонго…">
+<!ENTITY goDateCmd.accesskey                    "с">
+
+<!ENTITY goPreviousCmd.day.label                "Өмнөх өдөр">
+<!ENTITY goPreviousCmd.week.label               "Өмнөх долоо хоног">
+<!ENTITY goPreviousCmd.month.label              "Өмнөх сар">
+<!ENTITY goPreviousCmd.accesskey                "м">
+
+<!ENTITY goNextCmd.day.label                    "Дараагийн өдөр">
+<!ENTITY goNextCmd.week.label                   "Дараагийн долоо хоног">
+<!ENTITY goNextCmd.month.label                  "Дараагийн сар">
+<!ENTITY goNextCmd.accesskey                    "р">
+
+<!ENTITY taskMenu.label                         "Даалгаварууд">
+<!ENTITY taskMenu.accesskey                     "р">
+
+<!ENTITY toolsMenu.label                        "Багажнууд">
+<!ENTITY toolsMenu.accesskey                    "Б">
+
+<!ENTITY errorConsoleCmd.label                  "Алдаа харуулагч цонх">
+<!ENTITY errorConsoleCmd.accesskey              "ч">
+
+<!ENTITY navigatorCmd.label                     "Хөтлөгч">
+<!ENTITY navigatorCmd.accesskey                 "т">
+
+<!ENTITY messengerCmd.label                     "Захиа уншигч">
+<!ENTITY messengerCmd.accesskey                 "х">
+
+<!ENTITY addressBookCmd.label                   "Хаягийн бүртгэл">
+<!ENTITY addressBookCmd.accesskey               "б">
+
+<!ENTITY helpMenu.label                         "Тусламж">
+<!ENTITY helpMenu.accesskey                     "у">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+           for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label                      "Тусламж"> 
+<!ENTITY helpMenuWin.accesskey                  "ж">
+
+<!ENTITY walletPasswordManager.label            "Нууц үг зохицуулагч">
+<!ENTITY walletPasswordManager.accesskey        "ц">
+
+<!-- Toolbar items -->
+<!ENTITY fileMenu.label                         "Файл">
+<!ENTITY fileMenu.accesskey                     "Ф">
+
+<!ENTITY editMenu.label                         "Засварла">
+<!ENTITY editMenu.accesskey                     "а">
+<!ENTITY optionsCmd.label                       "Тохируулга…">
+<!ENTITY optionsCmd.accesskey                   "а">
+<!ENTITY preferencesCmd.label                   "Тохируулга…">
+<!ENTITY preferencesCmd.accesskey               "о">
+<!ENTITY preferencesCmdMac.label                "Тохируулга…">
+<!ENTITY preferencesCmdMac.commandkey           ",">
+<!ENTITY preferencesCmdMac.modifiers            "accel">
+
+<!ENTITY viewMenu.label                         "Харагдац">
+<!ENTITY viewMenu.accesskey                     "ц">
+
+<!ENTITY releaseCmd.label                       "Хувилбарын тэмдэглэл">
+<!ENTITY releaseCmd.accesskey                   "т">
+<!ENTITY aboutCmd.label                         "&brandFullName;ын тухай">
+<!ENTITY aboutCmd.accesskey                     "й">
+<!ENTITY updateCmd.label                        "Шинэчлэлийг шалга…">
+<!ENTITY updateCmd.accesskey                    "ш">
+
+<!-- Mac OS X "Window" menu items -->
+<!ENTITY windowMenu.label                       "Цонх">
+<!ENTITY minimizeWindow.label                   "Багасга">
+<!ENTITY zoomWindow.label                       "Томруул">
+<!ENTITY minimizeWindow.key                     "M">
+<!ENTITY bringAllToFront.label                  "Бүгдийг өмнө нүүрэнд харуул">
+
+<!-- Mac OS X Application menu items -->
+<!ENTITY servicesMenuMac.label          "Үйлчилгээнүүд">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName;ыг нуу">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Бусдыг нь нуу">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Бүгдийг харуул">
+
+<!ENTITY calendar.importcalendar.label          "Цагалбар импортол…">
+<!ENTITY calendar.importcalendar.accesskey      "и">
+
+<!ENTITY calendar.delete.label                  "Устга">
+<!ENTITY calendar.delete.accesskey              "У">
+
+<!ENTITY showCalendarlist.label                 "Цагалбарын жагсаалт">
+<!ENTITY showCalendarlist.accesskey             "ж">
+
+<!ENTITY showCurrentView.label                  "Одоогийн харагдац">
+<!ENTITY showCurrentView.accesskey              "х">
+
+<!ENTITY task.menu.label                        "Даалгавар">
+<!ENTITY task.menu.accesskey                    "в">
+
+<!ENTITY day.menu.label                         "Өдөр">
+<!ENTITY day.menu.accesskey                     "ө">
+
+<!ENTITY week.menu.label                        "Долоо хоног">
+<!ENTITY week.menu.accesskey                    "н">
+
+<!ENTITY month.menu.label                       "Сар">
+<!ENTITY month.menu.accesskey                   "р">
+
+<!ENTITY next.menu.label                        "Дараах">
+<!ENTITY next.menu.accesskey                    "х">
+
+<!ENTITY previous.menu.label                    "Өмнөх">
+<!ENTITY previous.menu.accesskey                "м">
+
+<!ENTITY calendar.subscribeshort.label          "Бүртгүүл…">
+<!ENTITY calendar.subscribeshort.accesskey      "ү">
+
+<!ENTITY calendar.unsubscribeshort.label        "Бүртгэлээ цуцлах…">
+<!ENTITY calendar.unsubscribeshort.accesskey    "ц">
+
+<!ENTITY calendar.properties.label              "Цагалбарын шинж чанар…">
+<!ENTITY calendar.properties.accesskey          "ч">
+
+<!ENTITY calendar.showtasks.label               "Даалгаваруудыг харуул…">
+<!ENTITY calendar.showtasks.accesskey           "у">
+
+<!ENTITY series.selectpastevents.label          "Энэ цувралын өнгөрсөн үйл явц">
+<!ENTITY series.selectpastevents.accesskey      "ц">
+
+<!ENTITY series.selectfutureevents.label        "Энэ цувралын ирээдүйн үйл явц">
+<!ENTITY series.selectfutureevents.accesskey    "в">
+
+<!ENTITY series.selectallevents.label           "Энэ цувралын бүх үйл явц">
+<!ENTITY series.selectallevents.accesskey       "б">
+
+<!ENTITY calendar.selectallevents.label         "Энэ цагалбарын бүх үйл явц">
+<!ENTITY calendar.selectallevents.accesskey     "г">

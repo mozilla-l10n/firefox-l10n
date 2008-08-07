@@ -1,0 +1,10 @@
+<!ENTITY checkbox.label		"бөглө">
+<!ENTITY editfield0.label	"Хэрэглэгчийн нэр:">
+<!ENTITY editfield1.label	"Нууц үг:">
+<!ENTITY editfield2.label	"Нууц үгээ батал:">
+<!ENTITY header.label		"Богино гарчиг">
+<!ENTITY message.label		"Зарим жишээ текст энд байрлана.">
+<!ENTITY copyCmd.label    "Хуул">
+<!ENTITY copyCmd.accesskey "л">
+<!ENTITY selectAllCmd.label "Бүгдийг сонго">
+<!ENTITY selectAllCmd.accesskey "с">

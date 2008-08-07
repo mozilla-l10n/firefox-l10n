@@ -1,0 +1,9 @@
+<!ENTITY identitiesListAdd.accesskey "м">
+<!ENTITY identitiesListAdd.label "Нэм…">
+<!ENTITY identitiesListDelete.accesskey "У">
+<!ENTITY identitiesListDelete.label "Устга">
+<!ENTITY identitiesListDesc.label "Олон таних нэрийн эрхтэй">
+<!ENTITY identitiesListEdit.accesskey "с">
+<!ENTITY identitiesListEdit.label "Засварла…">
+<!ENTITY identitiesListTitle.label "Энэ бүртгэлд хамаарах таних нэр
+">

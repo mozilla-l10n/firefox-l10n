@@ -1,0 +1,19 @@
+<!ENTITY about.version                "хувилбар">
+<!ENTITY about.copy.beforeLink        "&copy; Зохиогчийн эрх хуулиар 1998-2008 онд ">
+<!ENTITY about.copy.linkTitle        "Mozilla төсөлд">
+<!ENTITY about.copy.afterLink        "хамтран оролцогсдоор хамгаалагдсан.">
+
+<!ENTITY about.license.beforeLink     "Үүнийг уншина уу">
+
+<!ENTITY about.license.linkTitle      "энэ бүтээгдэхүүний">
+<!ENTITY about.license.afterLink      "лицензийн мэдээлэл.">
+
+<!ENTITY about.relnotes.beforeLink    "Үүнийг уншина уу">
+<!ENTITY about.relnotes.linkTitle     "энэ хувилбарт зориулсан">
+<!ENTITY about.relnotes.afterLink     "хувилбарын мэдээлэл.">
+
+<!ENTITY about.buildconfig.beforeLink "Үүнийг харна уу">
+<!ENTITY about.buildconfig.linkTitle  "энэ хувилбарт зориулсан">
+<!ENTITY about.buildconfig.afterLink  "хөрвүүлэлтийн тохируулга.">
+
+<!ENTITY about.buildIdentifier        "Хөрвүүлэлтийн таних тэмдэг: ">

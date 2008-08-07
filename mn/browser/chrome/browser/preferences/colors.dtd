@@ -1,0 +1,22 @@
+<!ENTITY  colorsDialog.title              "Өнгө">
+<!ENTITY window.width                     "45em">
+<!ENTITY  window.macWidth                 "45em">
+
+<!ENTITY  allowPagesToUse.label           "Хуудсанд миний сонголтын оронд өөрийнхөө өнгөө хэрэглэхийг зөвшөөр">
+<!ENTITY  allowPagesToUse.accesskey       "д">
+
+<!ENTITY  color                           "Текст ба Ар дэвсгэр">
+<!ENTITY  textColor.label                 "Текст:">
+<!ENTITY  textColor.accesskey             "к">
+<!ENTITY  backgroundColor.label           "Ар дэвсгэр:">
+<!ENTITY  backgroundColor.accesskey       "А">
+<!ENTITY  useSystemColors.label           "Системийн өнгө хэрэглэ">
+<!ENTITY  useSystemColors.accesskey       "с">
+
+<!ENTITY  underlineLinks.label            "Доогуур зурааст холбоос">
+<!ENTITY  underlineLinks.accesskey        "х">
+<!ENTITY  links                           "Холбоос өнгө">
+<!ENTITY  linkColor.label                 "Зорчоогүй холбоос:">
+<!ENTITY  linkColor.accesskey             "ч">
+<!ENTITY  visitedLinkColor.label          "Зорчсон холбоос:">
+<!ENTITY  visitedLinkColor.accesskey      "н">

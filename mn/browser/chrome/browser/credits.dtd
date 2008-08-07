@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Вэбийг шинээр нээцгээе">
+<!ENTITY credit.thanks "Онцгой талархлыг дараах хүмүүсд давшүүлж байна">
+
+<!ENTITY credit.thanks2      "Дараах хамтарч тусалсан хүмүүсд">
+<!ENTITY credit.contributors2 "онцгой талархал дэвшүүлж байна" >
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+ "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "">
+
+<!ENTITY credit.memory "Дурсгалд зориулав">
+<!ENTITY credit.poweredByGeckoReg "Ивээн тэтгэсэн Gecko&trade;">

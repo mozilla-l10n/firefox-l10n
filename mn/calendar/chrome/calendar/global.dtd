@@ -1,0 +1,138 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -   Jeferson Hultmann <hultmann@gmail.com> (pt-BR l10n)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY time.midnight "Шөнө дунд" >
+<!ENTITY time.1 "1:00 ҮӨ" >
+<!ENTITY time.2 "2:00 ҮӨ" >
+<!ENTITY time.3 "3:00 ҮӨ" >
+<!ENTITY time.4 "4:00 ҮӨ" >
+<!ENTITY time.5 "5:00 ҮӨ" >
+<!ENTITY time.6 "6:00 ҮӨ" >
+<!ENTITY time.7 "7:00 ҮӨ" >
+<!ENTITY time.8 "8:00 ҮӨ" >
+<!ENTITY time.9 "9:00 ҮӨ" >
+<!ENTITY time.10 "10:00 ҮӨ" >
+<!ENTITY time.11 "11:00 ҮӨ" >
+<!ENTITY time.noon "Үдээс өмнө" >
+<!ENTITY time.13 "1:00 ҮШ" >
+<!ENTITY time.14 "2:00 ҮШ" >
+<!ENTITY time.15 "3:00 ҮШ" >
+<!ENTITY time.16 "4:00 ҮШ" >
+<!ENTITY time.17 "5:00 ҮШ" >
+<!ENTITY time.18 "6:00 ҮШ" >
+<!ENTITY time.19 "7:00 ҮШ" >
+<!ENTITY time.20 "8:00 ҮШ" >
+<!ENTITY time.21 "9:00 ҮШ" >
+<!ENTITY time.22 "10:00 ҮШ" >
+<!ENTITY time.23 "11:00 ҮШ" >
+
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
+<!ENTITY day.1.Ddd "Ням" >
+<!ENTITY day.1.Ddd.accesskey "Н">
+<!ENTITY day.2.Ddd "Дав" >
+<!ENTITY day.2.Ddd.accesskey "Д">
+<!ENTITY day.3.Ddd "Мяг" >
+<!ENTITY day.3.Ddd.accesskey "М">
+<!ENTITY day.4.Ddd "Лха" >
+<!ENTITY day.4.Ddd.accesskey "Л">
+<!ENTITY day.5.Ddd "Пүр" >
+<!ENTITY day.5.Ddd.accesskey "П">
+<!ENTITY day.6.Ddd "Баа" >
+<!ENTITY day.6.Ddd.accesskey "Б">
+<!ENTITY day.7.Ddd "Бям" >
+<!ENTITY day.7.Ddd.accesskey "я">
+
+<!ENTITY day.1.DDD "НЯМ" >
+<!ENTITY day.2.DDD "ДАВ" >
+<!ENTITY day.3.DDD "МЯГ" >
+<!ENTITY day.4.DDD "ЛХА" >
+<!ENTITY day.5.DDD "ПҮР" >
+<!ENTITY day.6.DDD "БАА" >
+<!ENTITY day.7.DDD "БЯМ" >
+
+<!ENTITY day.1.name "Ням" >
+<!ENTITY day.2.name "Даваа" >
+<!ENTITY day.3.name "Мягмар" >
+<!ENTITY day.4.name "Лхагва" >
+<!ENTITY day.5.name "Пүрэв" >
+<!ENTITY day.6.name "Баасан" >
+<!ENTITY day.7.name "Бямба" >
+
+<!-- Month Names -->
+<!ENTITY month.1.MMM "ХУЛ" >
+<!ENTITY month.2.MMM "ҮХР" >
+<!ENTITY month.3.MMM "БАР" >
+<!ENTITY month.4.MMM "ТУУ" >
+<!ENTITY month.5.MMM "ЛУУ" >
+<!ENTITY month.6.MMM "МОГ" >
+<!ENTITY month.7.MMM "МОР" >
+<!ENTITY month.8.MMM "ХОН" >
+<!ENTITY month.9.MMM "БИЧ" >
+<!ENTITY month.10.MMM "ТАХ" >
+<!ENTITY month.11.MMM "НОХ" >
+<!ENTITY month.12.MMM "ГАХ" >
+
+<!-- Units -->
+<!ENTITY calendar.global.units.second   "секунд">
+<!ENTITY calendar.global.units.seconds  "секунд">
+<!ENTITY calendar.global.units.minute   "минут">
+<!ENTITY calendar.global.units.minutes  "минут">
+<!ENTITY calendar.global.units.hour     "цаг">
+<!ENTITY calendar.global.units.hours    "цаг">
+<!ENTITY calendar.global.units.day      "өдөр">
+<!ENTITY calendar.global.units.days     "өдрүүд">
+<!ENTITY calendar.global.units.week     "долоо хоног">
+<!ENTITY calendar.global.units.weeks    "долоо хоногууд">
+<!ENTITY calendar.global.units.month    "сар">
+<!ENTITY calendar.global.units.months   "сарууд">
+<!ENTITY calendar.global.units.year     "жил">
+<!ENTITY calendar.global.units.years    "жилүүд">
+
+<!ENTITY month.1.name "1 сар" >
+<!ENTITY month.2.name "2 сар" >
+<!ENTITY month.3.name "3 сар" >
+<!ENTITY month.4.name "4 сар" >
+<!ENTITY month.5.name "5 сар" >
+<!ENTITY month.6.name "6 сар" >
+<!ENTITY month.7.name "7 сар" >
+<!ENTITY month.8.name "8 сар" >
+<!ENTITY month.9.name "9 сар" >
+<!ENTITY month.10.name "10 сар" >
+<!ENTITY month.11.name "11 сар" >
+<!ENTITY month.12.name "12 сар" >

@@ -1,0 +1,83 @@
+<!ENTITY itemGeneral.label       "Ерөнхий">
+<!ENTITY itemUpdate.label        "Шинэчлэл">
+<!ENTITY itemNetworking.label    "Сүлжээ ба Дискийн зай">
+<!ENTITY itemCertificates.label  "Гэрчилгээ">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Миний хаягийн тэмдэглэлд буй хүмүүсийн зөвхөн харуулах нэрийг үзүүл">
+<!ENTITY showCondensedAddresses.accesskey "М">
+
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+<!ENTITY markAsRead.label              "Захиаг уншсан гэж тэмдэглэхээсээ өмнө">
+<!ENTITY markAsRead.accesskey          "л">
+<!ENTITY markAsReadEnd.label           "секунд хүлээ. ">
+<!ENTITY showFolderColumns.label       "Сангийн самбарт дэлгэсэн баганаар харуул">
+<!ENTITY showFolderColumns.accesskey   "а">
+<!ENTITY rememberLastMsg.label         "Сүүлд сонгосон захиаг сануул">
+<!ENTITY rememberLastMsg.accesskey     "д">
+<!ENTITY openMsgIn.label                "Захиаг энд нээ:">
+<!ENTITY reuseExpRadio0.label          "Шинэ захианы цонх">
+<!ENTITY reuseExpRadio0.accesskey      "ц">
+<!ENTITY reuseExpRadio1.label          "Идэвхитэй захианы цонх">
+<!ENTITY reuseExpRadio1.accesskey      "в">
+<!ENTITY reuseExpRadio2.label          "Шинэ захианы самбар">
+<!ENTITY reuseExpRadio2.accesskey      "с">
+<!ENTITY connectionTimeout.label       "Холболт дуусах цаг: ">
+<!ENTITY connectionTimeout.accesskey   "х">
+<!ENTITY connectionSeconds.label       "секунд">
+<!ENTITY configEditDesc.label          "Нэмэлт тохиргоо">
+<!ENTITY configEdit.label              "Тохиргоо засварлагч…">
+<!ENTITY configEdit.accesskey          "ч">
+<!ENTITY returnReceiptsInfo.label      "&brandShortName; илгээсэн захиаг хүлээн авсан мэдэгдэлтэй хэрхэн хандахыг тодорхойлох">
+<!ENTITY showReturnReceipts.label      "Захиа хүлээн авсан мэдэгдлүүд…">
+<!ENTITY showReturnReceipts.accesskey  "м">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Үүний шинэчлэлийг автоматаар шалга:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "T">
+
+<!ENTITY enableAddonsUpdate.label       "Суугдсан нэмэгдлүүд">  
+<!ENTITY enableAddonsUpdate.accesskey   "э">   
+
+
+<!ENTITY checkNow.label                 "Одоо шалга…">
+
+<!ENTITY whenUpdatesFound.label         "Хэрэв &brandShortName;-д шинэчлэл олдвол,">
+<!ENTITY modeAskMe.label                "Надаас юу хийхийг минь асуу">
+<!ENTITY modeAskMe.accesskey            "м"> 
+<!ENTITY modeAutomatic.label            "Автоматаар шинэчлэлийг татаж авч суулга">
+<!ENTITY modeAutomatic.accesskey        "в">  
+<!ENTITY modeAutoAddonWarn.label        "Хэрэв энэ нь ямар нэгэн нэмэгдлийг хорихоор бол надад анхааруул">
+<!ENTITY modeAutoAddonWarn.accesskey    "х">
+<!ENTITY showUpdates.label              "Шинэчлэсэн түүхийг харуул">
+<!ENTITY showUpdates.accesskey          "У">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Холболт…">
+<!ENTITY showConnections.accesskey     "б">
+<!ENTITY proxiesInfo.label             "Интернэтэд &brandShortName; хэрхэн холбогдсоныг тодорхойлох.">
+<!ENTITY connectionsInfo.caption       "Холболт">
+<!ENTITY offlineInfo.caption           "Салангид">
+<!ENTITY offlineInfo.label             "Салангид үеийн тохиргоо">
+<!ENTITY showOffline.label             "Салангид…">
+<!ENTITY showOffline.accesskey         "д">
+
+<!ENTITY Diskspace "Дискийн зай">
+<!ENTITY offlineCompact.label "Дараах хэмжээнээс хэтэрсэн үед санг багцал">
+<!ENTITY offlineCompact.accesskey "ж">
+<!ENTITY kb.label "KБ">
+
+<!-- Certificates -->                                                           
+<!ENTITY certificatesInfo2.label         "Гэрчилгээ, гэрчилгээний устгагдсан жагсаалт, гэрчилгээний баталгаа мөн нууцлалын төхөөрөмж зэргүүдийг зохицуулна.">
+<!ENTITY viewCertificates.label         "Гэрчилгээнүүдийг харах">                    
+<!ENTITY viewCertificates.accesskey     "р">                                    
+<!ENTITY viewCRLs.label                 "Устгагдсан жагсаалт">                     
+<!ENTITY viewCRLs.accesskey             "ж">                                    
+<!ENTITY validation.label                 "Нэвтрэх шалгалт">                         
+<!ENTITY validation.accesskey             "л">                                    
+<!ENTITY viewSecurityDevices.label      "Нууцлалын төхөөрөмж">                     
+<!ENTITY viewSecurityDevices.accesskey  "ц">                                    

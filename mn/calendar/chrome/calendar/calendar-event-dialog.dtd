@@ -1,0 +1,151 @@
+ <!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- LOCALIZATION NOTE This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY event.title.label                  "Оруулгыг засварла" >
+
+<!ENTITY newevent.title.label               "Гарчиг" >
+<!ENTITY newevent.title.accesskey           "ч" >
+<!ENTITY newevent.itemType.event.label      "Үйл явдал" >
+<!ENTITY newevent.itemType.todo.label       "Даалгавар" >
+<!ENTITY newevent.location.label            "Байршил" >
+<!ENTITY newevent.location.accesskey        "ш" >
+
+<!-- LOCALIZATION NOTE In the following New Event/Task dialog only sections,
+   - all accesskeys MUST be different. See Bug 357027 Comment #14 for more
+   - details  -->
+<!-- The following entities are for New Event dialog only -->
+<!ENTITY newevent.from.label                "Хэднээс" >
+<!ENTITY newevent.from.accesskey            "д" >
+<!ENTITY newevent.to.label                  "Хэдий хүртэл" >
+<!ENTITY newevent.to.accesskey              "й" >
+<!ENTITY newevent.alldayevent.label         "Бүх өдөржин" >
+<!ENTITY newevent.alldayevent.accesskey     "ж" >
+
+<!-- The following entities are for New Task dialog only -->
+<!ENTITY newevent.date.label                "Огноо" >
+<!ENTITY newevent.date.accesskey            "г" >
+<!ENTITY newtodo.duedate.label              "Ээлжит өдөр">
+<!ENTITY newtodo.duedate.accesskey          "ж">
+
+<!ENTITY newevent.repeat2.label             "Давталт" >
+<!ENTITY newevent.repeat2.accesskey         "в" >
+<!ENTITY newevent.set.label                 "Зааж өг…" >
+<!ENTITY newevent.set.accesskey             "с" >
+
+<!ENTITY newevent.server.label              "Цагалбар" >
+<!ENTITY newevent.server.accesskey          "а" >
+<!ENTITY newtodo.categories.label           "Төрөл">
+<!ENTITY newtodo.categories.accesskey       "ө">
+
+<!ENTITY newevent.description.label         "Тодорхойлолт" >
+<!ENTITY newevent.description.accesskey     "й" >
+
+<!ENTITY newevent.attendees.label           "Хамт оролцогчид" >
+<!ENTITY newevent.attendees.accesskey       "ц" >
+<!ENTITY newevent.attendees.sendEmail.label "Оролцогчдод урилгыг захиагаар илгээх">
+
+
+<!ENTITY newevent.privacy.label             "Нууцлал" >
+<!ENTITY newevent.privacy.accesskey         "ц" >
+<!ENTITY newevent.public.label              "Нийтийн" >
+<!ENTITY newevent.private.label             "Хувийн" >
+<!ENTITY newevent.confidential.label        "Баталгаат" >
+
+<!ENTITY newtodo.priority.label             "Давуу эрх">
+<!ENTITY newtodo.priority.accesskey         "э">
+<!ENTITY priority.level.none                "Зааж өгөөгүй">
+<!ENTITY priority.level.none.accesskey      "ж">
+<!ENTITY priority.level.low                 "Бага">
+<!ENTITY priority.level.low.accesskey       "а">
+<!ENTITY priority.level.medium              "Дунд">
+<!ENTITY priority.level.medium.accesskey    "д">
+<!ENTITY priority.level.high                "Өндөр">
+<!ENTITY priority.level.high.accesskey      "н">
+
+<!ENTITY newevent.status.label              "Төлөв байдал" >
+<!ENTITY newevent.status.accesskey          "в" >
+<!ENTITY newevent.status.none.label         "Зааж өгөөгүй" >
+<!ENTITY newevent.status.cancelled.label    "Цуцлагдсан" >
+
+<!-- The following entities are for New Event dialog only -->
+<!ENTITY newevent.status.tentative.label    "Түр зуур" >
+<!ENTITY newevent.status.confirmed.label    "Баталгажсан" >
+
+<!-- The following entities are for New Task dialog only -->
+<!ENTITY newevent.status.needsaction.label  "Үйлдэх шаардлагатай" >
+<!ENTITY newevent.status.inprogress.label   "Гүйцэтгэж байгаа" >
+<!ENTITY newevent.status.completed.label    "Дууссан огноо" >
+
+<!ENTITY newevent.alarm.label               "Сануулга" >
+<!ENTITY newevent.alarm.accesskey           "н" >
+<!ENTITY newevent.none.label                "байхгүй" >
+<!ENTITY newevent.15minutes.before.label    "15 минутын өмнө" >
+<!ENTITY newevent.30minutes.before.label    "30 минутын өмнө" >
+<!ENTITY newevent.custom.label              "Өөрчил…" >
+
+<!ENTITY newevent.uri.label                 "URL" >
+<!ENTITY newevent.uri.accesskey             "U" >
+<!ENTITY newevent.uri.visit.label           "URL хаяг уруу зорч" >
+<!ENTITY newevent.uri.visit.accesskey       "з" >
+
+<!-- The following entity is for New Task dialog only -->
+<!ENTITY newtodo.percentcomplete.label      "&#37; гүйцсэн">
+
+<!ENTITY calendar.more.label                "Нэмэлт">
+<!ENTITY calendar.less.label                "Багасга">
+
+<!-- Alarm -->
+<!ENTITY alarm.units.minutes                "минут" >
+<!ENTITY alarm.units.hours                  "цаг" >
+<!ENTITY alarm.units.days                   "өдөр" >
+
+<!ENTITY alarm.start.warning                "Энэ сануулгад эхлэх өдөр хэрэгтэй" >
+<!ENTITY alarm.due.warning                  "Энэ сануулгад ээлжлэх өдөр хэрэгтэй" >
+
+<!ENTITY newevent.before.label              "өмнө" >
+<!ENTITY newevent.after.label               "дараа" >
+
+<!-- Information messages -->
+<!ENTITY newevent.endtime.warning           "Таны эхлэх цаг дуусах цагны сүүлд байна.">
+<!ENTITY newevent.readonly.item.warning     "Энэ оруулга нь зөвхөн уншигдах цагалбар байна. Тийм болохоор засварлаж чадахгүй байж магадгүй.">
+<!ENTITY newevent.readonly.cal.warning      "Энэ цагалбар нь зөвхөн уншигдах зориулалттай байна.">
+<!ENTITY newtodo.repeatstart.warning        "Дахин харуулалтын эхлэх өдрийг зааж өгөх шаардлагатай.">

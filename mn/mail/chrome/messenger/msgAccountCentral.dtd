@@ -1,0 +1,16 @@
+<!ENTITY accountsSectionHdr.label "Бүртгэл">
+<!ENTITY advFeaturesSectionHdr.label "Нэмэгдэл боломжууд">
+<!ENTITY composeMsgLink.label "Шинэ захиа бичих">
+<!ENTITY emailSectionHdr.label "Захиа">
+<!ENTITY filtersLink.label "Захианд шүүлт үүсгэ">
+<!ENTITY junkSettings.label "Тэнэмэл захианы тохиргоо">
+<!ENTITY newAcctLink.label "Шинэ бүртгэл үүсгэх">
+<!ENTITY newsSectionHdr.label "Мэдээний груп">
+<!ENTITY offlineLink.label "Салангид үеийн тохиргоо">
+<!ENTITY readMsgsLink.label "Захиа унших">
+<!ENTITY rssSectionHdr.label "RSS Мэдээ &amp; Оруулгууд">
+<!ENTITY searchMsgsLink.label "Захиа хайх">
+<!ENTITY settingsLink.label "Энэ бүртгэлийн тохиргоог харах">
+<!ENTITY subscibeRSS.label "Бүртгэлүүд зохицуул">
+<!ENTITY subscribeImapFolders.label "Сангийн салбарыг зохицуулах">
+<!ENTITY subscribeNewsLink.label "Мэдээний групд бүртгүүлэх">

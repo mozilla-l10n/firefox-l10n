@@ -1,0 +1,28 @@
+<!ENTITY accountName.accesskey "Б">
+<!ENTITY accountName.label "Бүртгэлийн нэр:">
+<!ENTITY accountNameDesc.label "Бүртгэлийн нэр бүртгэл бүрийг танихад хэрэглэгдэнэ.">
+<!ENTITY accountTitle.label "Бүртгэлийн тохиргоо">
+<!ENTITY attachVCard.accesskey "х">
+<!ENTITY attachVCard.label "Миний нэрийн хуудсыг захианд хавсарга">
+<!ENTITY choose.accesskey "С">
+<!ENTITY choose.label "Сонго…">
+<!ENTITY edit.label "Засварлах…">
+<!ENTITY editVCard.accesskey "э">
+<!ENTITY editVCard.label "Нэрийн хуудсыг завсарлах…">
+<!ENTITY email.accesskey "а">
+<!ENTITY email.label "Захианы хаяг:">
+<!ENTITY identityDesc.label "Бүртгэл бүр өөрийн гэсэн таних нэртэй байдаг бөгөөд энэ нь таны захиаг унших үедээ хүмүүс харж болдог мэдээлэл юм.">
+<!ENTITY identityTitle.label "Анхны таних нэр">
+<!ENTITY manageIdentities.accesskey "ц">
+<!ENTITY manageIdentities.label "Таних нэрийг зохицуул…">
+<!ENTITY name.accesskey "н">
+<!ENTITY name.label "Таны нэр:">
+<!ENTITY organization.accesskey "Б">
+<!ENTITY organization.label "Байгууллага">
+<!ENTITY replyTo.accesskey "а">
+<!ENTITY replyTo.label "Хариулах хаяг:">
+<!ENTITY signature.accesskey "х">
+<!ENTITY signature.label "Дараах гарын үсгийг хавсарга:">
+<!ENTITY smtpDefaultServer.label "Анхны серверийг хэрэглэ">
+<!ENTITY smtpName.accesskey "л">
+<!ENTITY smtpName.label "Илгээх сервер (SMTP):">

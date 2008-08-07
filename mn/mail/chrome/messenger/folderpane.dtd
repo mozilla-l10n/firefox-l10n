@@ -1,0 +1,6 @@
+<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">
+<!ENTITY accounts.label "Бүртгэл">
+<!ENTITY folderSizeColumn.label "Хэмжээ">
+<!ENTITY nameColumn.label "Нэр">
+<!ENTITY totalColumn.label "Нийт">
+<!ENTITY unreadColumn.label "Уншигдаагүй">

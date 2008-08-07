@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "Шинж чанар өгөөгүй байна">
+
+<!ENTITY caption.label         "Элементийн шинж чанар">
+<!ENTITY image-sec.label       "Зургийн шинж чанар">
+<!ENTITY image-url.label       "Хаяг:">
+<!ENTITY image-type.label      "Type:">
+<!ENTITY image-desc.label      "Тодорхойлолт:">
+<!ENTITY image-alt.label       "Тайлбар текст:">
+<!ENTITY image-size.label      "Зургийн хэмжээ:">
+<!ENTITY image-filesize.label  "Файлын хэмжээ:">
+<!ENTITY insdel-sec.label      "Орлуулах/Устгах шинж чанар">
+<!ENTITY insdel-cite.label     "Мэдээлэл:">
+<!ENTITY insdel-date.label     "Огноо:">
+<!ENTITY link-sec.label        "Холбоосын шинж чанар">
+<!ENTITY link-url.label        "Хаяг:">
+<!ENTITY link-target.label     "Нээгдэх газар:">
+<!ENTITY link-type.label       "Оноосон төрөл:">
+<!ENTITY link-lang.label       "Оноосон хэл:">
+<!ENTITY link-rel.label        "Холбоо:">
+<!ENTITY link-rev.label        "Эсрэг холбоо:">
+<!ENTITY link-ping.label       "Анхааруулна:">
+<!ENTITY misc-sec.label        "Бусад шинж чанарууд">
+<!ENTITY misc-lang.label       "Текстийн хэл:">
+<!ENTITY misc-title.label      "Гарчиг:">
+<!ENTITY misc-tblsummary.label "Хүснэгтийн нийт мэдээлэл:">
+<!ENTITY quote-sec.label       "Урт мөрийн шинж чанар">
+<!ENTITY quote-cite.label      "Мэдээлэл:">

@@ -1,0 +1,14 @@
+
+<!ENTITY  prefWindow.titleWin     "Сонголт">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Тохируулга">
+<!ENTITY  prefWindow.styleWindows "width: 56em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 56em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 56em; min-height: 38.5em;">
+
+<!ENTITY paneGeneral.title        "Ерөнхий">
+<!ENTITY paneDisplay.title        "Харуулалт">
+<!ENTITY paneTags.title           "Таглаа">
+<!ENTITY paneComposition.title    "Захиа бичих">
+<!ENTITY paneAttachments.title    "Хавсралт">
+<!ENTITY panePrivacy.title        "Хувийн нууцлал">
+<!ENTITY paneAdvanced.title       "Нэмэлт">

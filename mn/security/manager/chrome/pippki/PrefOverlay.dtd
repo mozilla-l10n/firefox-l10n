@@ -1,0 +1,5 @@
+<!ENTITY certs.label "Гэрчилгээ">
+<!ENTITY masterpass.label "Мастер нууц үг">
+<!ENTITY security.label "Хувийн болон Нууцлал">
+<!ENTITY ssl.label "SSL">
+<!ENTITY validation.label "Хүчинтэй болголт">

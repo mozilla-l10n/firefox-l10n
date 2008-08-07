@@ -1,0 +1,28 @@
+<!ENTITY devmgr.button.changepw.label       "Нууц үг соль">
+<!ENTITY devmgr.button.changepw.accesskey   "ү">
+<!ENTITY devmgr.button.changeslotname.label  "Слотын нэрийг соль">
+<!ENTITY devmgr.button.changeslotname.accesskey "л">
+<!ENTITY devmgr.button.load.label           "Дууд">
+<!ENTITY devmgr.button.load.accesskey       "д">
+<!ENTITY devmgr.button.login.label          "Нэвтрэх">
+<!ENTITY devmgr.button.login.accesskey      "э">
+<!ENTITY devmgr.button.logout.label         "Гарах">
+<!ENTITY devmgr.button.logout.accesskey     "Г">
+<!ENTITY devmgr.button.unload.label         "Үл дууд">
+<!ENTITY devmgr.button.unload.accesskey     "у">
+<!ENTITY devmgr.details.title               "Нарийвчилсан мэдээлэл">
+<!ENTITY devmgr.details.title2              "Утга">
+<!ENTITY devmgr.devlist.label               "Нууц модуль ба төхөөрөмжүүд">
+<!ENTITY devmgr.status.label                "Төлөв байдал">
+<!ENTITY devmgr.title                       "Төхөөрөмжийн зохицуулагч">
+<!ENTITY devmgr.version.label               "Хувилбар">
+<!ENTITY loaddevice.browse                  "Зааж өг...">
+<!ENTITY loaddevice.browse.accesskey        "З">
+<!ENTITY loaddevice.filename                "Модулийн файлын нэр:">
+<!ENTITY loaddevice.filename.accesskey      "ф">
+<!ENTITY loaddevice.info                    "Та модульд нэмэх гэсэн мэдээллээ оруулна уу.">
+<!ENTITY loaddevice.modname                 "Модуль нэр:">
+<!ENTITY loaddevice.modname.accesskey       "М">
+<!ENTITY loaddevice.modname.default         "Шинэ PKCS#11 Модуль">
+<!ENTITY loaddevice.title                   "PKCS#11 төхөөрөмж дууд">
+<!ENTITY devmgr.button.fips.accesskey        "F">

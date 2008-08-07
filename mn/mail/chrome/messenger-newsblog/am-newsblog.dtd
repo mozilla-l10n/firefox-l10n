@@ -1,0 +1,14 @@
+<!ENTITY biffEnd.label "минут">
+<!ENTITY biffStart.accesskey "ж">
+<!ENTITY biffStart.label "Шинэ сэдвийг шалгах давтамж">
+<!ENTITY loginAtStartup.accesskey "Э">
+<!ENTITY loginAtStartup.label "Эхлэх үед шинэ сэдвийг шалга">
+<!ENTITY manageSubscriptions.accesskey "Б">
+<!ENTITY manageSubscriptions.label "Бүртгэлийг зохицуул…">
+<!ENTITY newsblogTitle.label "RSS Бүртгэлийн тохиргоо">
+<!ENTITY rss.accountName "Захиа &amp; Оруулга">
+<!ENTITY rss.hostName "Захиа &amp; Оруулга">
+<!ENTITY rss.wizardLongName "RSS Мэдээ &amp; Оруулгууд">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY useQuickMode.accesskey "А">
+<!ENTITY useQuickMode.label "Анхнаасаа, вэб хуудсыг дуудахын оронд, текст сэдвийн ерөнхий мэдээллийг харуул">

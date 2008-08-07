@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Тэнэмэл захианы тохиргоо">
+<!ENTITY trainingWarning.label "Хэрэв та идэвхижүүлэхийг хүсвэл эхлээд та &brandShortName;-г Тэнэмэл захиа багажит самбарыг ашиглан захиаг тэнэмэл болон тэнэмэл биш гэж дасгалжуулах хэрэгтэй. Ингэхдээ та тэнэмэл болон тэнэмэл бус хоёуланг нь таниулах чухал.">
+<!ENTITY level.label "Энэ бүртгэлд тэнэмэл захианы хяналтыг идэвхижүүл">
+<!ENTITY level.accesskey "б">
+
+<!ENTITY move.label "Шинэ тэнэмэл захиаг энд зөө:">
+<!ENTITY move.accesskey "м">
+<!ENTITY junkFolderOn.label "&quot;Тэнэмэл&quot; сангийн байрлал:">
+<!ENTITY junkFolderOn.accesskey "с">
+<!ENTITY otherFolder.label "Бусад:">
+<!ENTITY otherFolder.accesskey "у">
+<!ENTITY purge1.label "Дараах хугацаанаас хэтэрсэн тэнэмэл захиаг автоматаар устга">
+<!ENTITY purge1.accesskey "х">
+<!ENTITY purge2.label "өдөр">
+
+<!ENTITY whitelist.label "Хэрэв илгээгч нь дараах жагсаалтад байвал тэнэмэл гэж бүү тэмдэглэ: ">
+<!ENTITY whitelist.accesskey "в">
+
+<!ENTITY ispHeaders.label "Хэрэв тэнэмэл захианы толгой хэсэг дараахаар бэлтгэгдсэн бол итгэж болно: ">
+<!ENTITY ispHeaders.accesskey "т">

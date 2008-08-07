@@ -1,0 +1,12 @@
+
+<!ENTITY  history.title             "Түүхийг шинэчил">
+<!ENTITY  history.intro             "Дараах шинэчлэлүүд суугдсан:">
+<!ENTITY  closebutton.label         "Хаа">
+                                     
+<!ENTITY  noupdates.label           "Одоогоор шинэчлэл суугдаагүй байна">
+
+<!ENTITY  name.header               "Шинэчлэлийн нэр">
+<!ENTITY  date.header               "Суулгасан огноо">
+<!ENTITY  type.header               "Төрөл">
+<!ENTITY  state.header              "Төлөв">
+

@@ -1,0 +1,9 @@
+<!ENTITY description.accesskey "с">
+<!ENTITY description.label "Дараах сангийн дэд сан болгож үүсгэ:">
+<!ENTITY folderRestriction1.label "Энэ сервер захиаг хоёр тусгай төрлөөр хязгаарладаг.">
+<!ENTITY folderRestriction2.label "Шинэ санд агуулах зүйлсийг зөвшөөрөх:">
+<!ENTITY foldersOnly.label "Зөвхөн сан">
+<!ENTITY messagesOnly.label "Зөвхөн захиа">
+<!ENTITY name.accesskey "Н">
+<!ENTITY name.label "Нэр:">
+<!ENTITY newFolderDialog.title "Шинэ сан">

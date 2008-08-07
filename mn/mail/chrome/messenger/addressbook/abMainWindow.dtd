@@ -1,0 +1,222 @@
+<!ENTITY addressbookWindow.title                        "Хаягийн тэмдэглэл">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label                                 "Файл">
+<!ENTITY fileMenu.accesskey                             "й">
+<!ENTITY newMenu.label                                  "Шинэ">
+<!ENTITY newMenu.accesskey                              "Ш">
+<!ENTITY newCard.label                                  "Нэрийн хуудас карт…">
+<!ENTITY newCard.accesskey                              "к">
+<!ENTITY newCard.key                                    "N">
+<!ENTITY newListCmd.label                               "Захианы жагсаалт…">
+<!ENTITY newListCmd.accesskey                           "ж">
+<!ENTITY newAddressBookCmd.label                        "Хаягийн тэмдэглэл…">
+<!ENTITY newAddressBookCmd.accesskey                    "я">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP Сан…">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newMessageCmd.label                            "Захиа">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "и">
+<!ENTITY closeCmd.label                                 "Хаа">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "Х">
+<!ENTITY printSetupCmd.label                            "Хуудасны тохиргоо…">
+<!ENTITY printSetupCmd.accesskey                        "с">
+<!ENTITY printPreviewCardViewCmd.label                  "Картын хэвлэх харагдац">
+<!ENTITY printPreviewCardViewCmd.accesskey              "К">
+<!ENTITY printPreviewAddressBook.label                  "Хаягийн тэмдэглэлийн хэвлэх харагдац">
+<!ENTITY printPreviewAddressBook.accesskey              "я">
+<!ENTITY printCardViewCmd.label                         "Картыг хэвлэ…">
+<!ENTITY printCardViewCmd.accesskey                     "в">
+<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printAddressBook.label                         "Хаягийн тэмдэглэлийг хэвлэ…">
+<!ENTITY printAddressBook.accesskey                     "г">
+
+<!ENTITY quitApplicationCmdWin.label                    "Гарах"> 
+<!ENTITY quitApplicationCmdWin.accesskey                "х">
+<!ENTITY quitApplicationCmd.label                       "Гарах"> 
+<!ENTITY quitApplicationCmd.accesskey                   "х">
+<!ENTITY quitApplicationCmd.key "Q">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "Засварла">
+<!ENTITY editMenu.accesskey                             "с">
+<!ENTITY undoCmd.label                                  "Буцаж үйлд">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "ж">
+<!ENTITY redoCmd.label                                  "Дахин үйлд">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "й">
+<!ENTITY cutCmd.label                                   "Тасдаж сануул">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "с">
+<!ENTITY copyCmd.label                                  "Сануул">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "л">
+<!ENTITY pasteCmd.label                                 "Санамж буулга">
+<!ENTITY pasteCmd.key                                   "V">
+<!ENTITY pasteCmd.accesskey                             "С">
+<!ENTITY deleteCmd.label                                "Устга">
+<!ENTITY deleteCmd.key                                  "D">
+<!ENTITY deleteCmd.accesskey                            "г">
+<!ENTITY deleteAbCmd.label                              "Хаягийн тэмдэглэл устга">
+<!ENTITY deleteCardCmd.label                            "Карт устга">
+<!ENTITY deleteCardsCmd.label                           "Сонгосон картыг устга">
+<!ENTITY selectAllCmd.label                             "Бүгдийг сонго">
+<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY selectAllCmd.accesskey                         "Б">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Нэр/Овог нэрийг сэлгэ">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "в">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label                            "Шинж чанар…">
+<!ENTITY propertiesCmd.accesskey                        "ч">
+<!ENTITY propertiesCmd.key                              "i">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label                                 "Харах">
+<!ENTITY viewMenu.accesskey                             "х">
+<!ENTITY viewToolbarsMenu.label                         "Багажит самбар">
+<!ENTITY viewToolbarsMenu.accesskey                     "ж"> 
+<!ENTITY showAbToolbarCmd.label                         "Хаягийн тэмдэглэлийн багаж">
+<!ENTITY showAbToolbarCmd.accesskey                     "я">
+
+<!ENTITY showTaskbarCmd.label                           "Төлвийн самбар">
+<!ENTITY showTaskbarCmd.accesskey                       "ө">
+<!ENTITY customizeToolbar.label                         "Өөрчил…">
+<!ENTITY customizeToolbar.accesskey                     "ч">
+<!ENTITY showCardPane.label                             "Картын дүгнэлт самбар">
+<!ENTITY showCardPane.accesskey                         "К">
+<!ENTITY menu_ShowNameAs.label                          "Нэрийг дараах маягаар харуул">
+<!ENTITY menu_ShowNameAs.accesskey                      "э"> 
+<!ENTITY firstLastCmd.label                             "Нэр, Овог">
+<!ENTITY firstLastCmd.accesskey                         "о"> 
+<!ENTITY lastFirstCmd.label                             "Овог, Нэр">
+<!ENTITY lastFirstCmd.accesskey                         "г">
+<!ENTITY displayNameCmd.label                           "Нэр харуулах">
+<!ENTITY displayNameCmd.accesskey                       "а">
+<!ENTITY sortMenu.label                                 "Эрэмбэл">
+<!ENTITY sortMenu.accesskey                             "м">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "Багаж">
+<!ENTITY tasksMenu.accesskey                            "ж">
+<!ENTITY messengerCmd.label                             "Захиа &amp; Мэдээ">
+<!ENTITY messengerCmd.accesskey                         "и">
+<!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY searchAddressesCmd.label                       "Хаяг хайх…">
+<!ENTITY searchAddressesCmd.accesskey                   "й">
+<!ENTITY importCmd.label                                "Импортол…">
+<!ENTITY importCmd.accesskey                            "И">
+<!ENTITY exportCmd.label                                "Экспортол…">
+<!ENTITY exportCmd.accesskey                            "Э">
+<!ENTITY preferencesCmd.label                           "Сонголт…">
+<!ENTITY preferencesCmd.key                             "O">
+<!ENTITY preferencesCmd.accesskey                       "С">
+<!ENTITY preferencesCmdUnix.label                       "Тохируулга">
+<!ENTITY preferencesCmdUnix.accesskey                   "и"> 
+
+<!-- Address Book Toolbar and Context Menus -->  
+<!ENTITY newcardButton.label                            "Шинэ карт">
+<!ENTITY newcardButton.accesskey                        "к">
+<!ENTITY newlistButton.label                            "Шинэ жагсаалт">
+<!ENTITY newlistButton.accesskey                        "ж">
+<!ENTITY editButton.label                               "Шинж чанар">
+<!ENTITY editButton.accesskey                           "ч">
+<!ENTITY newmsgButton.label                             "Бичих">
+<!ENTITY newmsgButton.accesskey                         "Б">
+<!ENTITY newIM.label                                    "Бичил захиа">
+<!ENTITY newIM.accesskey                                "з">
+<!ENTITY deleteButton.label                             "Устга">
+<!ENTITY deleteButton.accesskey                         "У">
+<!ENTITY throbberItem.title                             "Идэвхижлийн заалт">
+
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newcardButton.tooltip                          "Шинэ хаягийн карт үүсгэ">
+<!ENTITY newlistButton.tooltip                          "Шинэ жагсаалт үүсгэ">
+<!ENTITY editButton.tooltip                             "Сонгосон картыг засварла">
+<!ENTITY newmsgButton.tooltip                           "Захиа илгээ">
+<!ENTITY newIM.tooltip                                  "Бичил захиа илгээх эсвэл чалчих">
+<!ENTITY deleteButton.tooltip                           "Сонгосон карт эсвэл хаягийн тэмдэглэлийг устга">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Хаягийн тэмдэглэл">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "Нэр эсвэл захианы хаяг">
+<!ENTITY SearchNameOrEmail.accesskey                    "я">
+<!ENTITY advancedButton.tooltip                         "Нэмэлт хаягийн хайлт">
+<!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY searchItem.title                               "Түргэн хайх">
+
+<!-- Results Pane -->
+<!ENTITY GeneratedName.label                            "Нэр">
+<!ENTITY GeneratedName.accesskey                        "Н">
+<!ENTITY PrimaryEmail.label                             "Захианы хаяг">
+<!ENTITY PrimaryEmail.accesskey                         "я">
+<!ENTITY ScreenName.label                               "Харуулах нэр">
+<!ENTITY ScreenName.accesskey                           "р">
+<!ENTITY Company.label                                  "Байгууллага">
+<!ENTITY Company.accesskey                              "й">
+<!ENTITY NickName.label                                 "Товч нэр">
+<!ENTITY NickName.accesskey                             "ч">
+<!ENTITY SecondEmail.label                              "Нэмэлт Захианы хаяг">
+<!ENTITY SecondEmail.accesskey                          "г">
+<!ENTITY Department.label                               "Хэлтэс">
+<!ENTITY Department.accesskey                           "с">
+<!ENTITY JobTitle.label                                 "Цол зэрэг">
+<!ENTITY JobTitle.accesskey                             "з">
+<!ENTITY CellularNumber.label                           "Гар утас">
+<!ENTITY CellularNumber.accesskey                       "с">
+<!ENTITY PagerNumber.label                              "Пэжер">
+<!ENTITY PagerNumber.accesskey                          "ж">
+<!ENTITY FaxNumber.label                                "Факс">
+<!ENTITY FaxNumber.accesskey                            "к">
+<!ENTITY HomePhone.label                                "Гэрийн утас">
+<!ENTITY HomePhone.accesskey                            "э">
+<!ENTITY WorkPhone.label                                "Ажлын утас">
+<!ENTITY WorkPhone.accesskey                            "ж">
+<!ENTITY sortAscending.label                            "Өгсөх эрэмбээр">
+<!ENTITY sortAscending.accesskey                        "Ө">
+<!ENTITY sortDescending.label                           "Уруудах эрэмбээр">
+<!ENTITY sortDescending.accesskey                       "У">
+<!ENTITY _PhoneticName.label                            "Дуудлага нэр">
+<!ENTITY _PhoneticName.accesskey                        "н">
+
+<!-- Results pane context menu -->
+<!ENTITY composeEmail.label                             "Ийшээ захиа бич">
+<!ENTITY composeEmail.accesskey                         "й">
+<!ENTITY deleteAddrBookCard.label                       "Устга">
+<!ENTITY deleteAddrBookCard.accesskey                   "У">
+<!ENTITY newAddrBookCard.label                          "Шинэ карт…">
+<!ENTITY newAddrBookCard.accesskey                      "к">
+<!ENTITY newAddrBookMailingList.label                   "Шинэ захианы жагсаалт…">
+<!ENTITY newAddrBookMailingList.accesskey               "Ш">
+<!ENTITY addrBookCardProperties.label                   "Шинж чанар">
+<!ENTITY addrBookCardProperties.accesskey               "н">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Холбоо барих">
+<!ENTITY home.heading                                   "Гэр">
+<!ENTITY other.heading                                  "Бусад">
+<!ENTITY phone.heading                                  "Утас">
+<!ENTITY work.heading                                   "Ажил">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Тодорхойлолт">
+<!ENTITY addresses.heading                              "Хаяг">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Газар зүйн байрлал">
+<!ENTITY mapIt.tooltip                                  "Вэбээс энэ хаягийн газар зүйн байрлалыг харуул">
+
+<!-- Status Bar -->
+<!ENTITY statusText.label "">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label "Цонх">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Багасга">
+<!ENTITY bringAllToFront.label "Бүгдийг өмнө нь авчир">
+<!ENTITY zoomWindow.label "Томруул">

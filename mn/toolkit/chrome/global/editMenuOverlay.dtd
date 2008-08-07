@@ -1,0 +1,31 @@
+<!ENTITY copyCmd.accesskey "С">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.label "Сануул">
+<!ENTITY cutCmd.accesskey "Т">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.label "Тасдаж сана">
+<!ENTITY deleteCmd.accesskey "У">
+<!ENTITY deleteCmd.label "Устга">
+<!ENTITY editMenu.accesskey "З">
+<!ENTITY editMenu.label "Засварла">
+<!ENTITY findAgainCmd.accesskey "А">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.label "Ахиад ол">
+<!ENTITY findCmd.accesskey "Х">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.label "Хайлт">
+<!ENTITY findPreviousCmd.accesskey "Ө">
+<!ENTITY findPreviousCmd.label "Өмнөхийг ол">
+<!ENTITY pasteCmd.accesskey "С">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.label "Санамж буулга">
+<!ENTITY redoCmd.accesskey "Д">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.label "Дахин үйлд">
+<!ENTITY selectAllCmd.accesskey "Б">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.label "Бүгдийг сонго">
+<!ENTITY undoCmd.accesskey "Б">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.label "Буцаж үйлд">

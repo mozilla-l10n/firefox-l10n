@@ -1,0 +1,206 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Сан">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Зохицуулах">
+<!ENTITY organize.accesskey    "ц">
+
+<!ENTITY file.accesskey						"Ф">
+<!ENTITY file.close.label              		"Хаа">
+<!ENTITY file.close.accesskey					"Х">
+<!ENTITY cmd.close.key							"w">
+<!ENTITY edit.label								"Засварла">
+<!ENTITY edit.accesskey							"З">
+<!ENTITY views.label							"Харагдац">
+<!ENTITY views.accesskey							"г">
+<!ENTITY view.toolbar.label						"Багаж">
+<!ENTITY view.toolbar.accesskey					"Б">
+<!ENTITY view.columns.label						"Багануудыг харуул">
+<!ENTITY view.columns.accesskey					"г">
+<!ENTITY view.sort.label                "Эрэмбэл">
+<!ENTITY view.sort.accesskey            "Э">
+<!ENTITY view.unsorted.label					"Эрэмбэгүй">
+<!ENTITY view.unsorted.accesskey				"й">
+<!ENTITY view.sortAscending.label				"А > Я эрэмбэрр">
+<!ENTITY view.sortAscending.accesskey			"А">
+<!ENTITY view.sortDescending.label				"Я > А эрэмбээр">
+<!ENTITY view.sortDescending.accesskey			"Я">
+<!ENTITY help.usingBookmarks.label				"Хаягийг хэрэглэх нь">
+<!ENTITY help.usingBookmarks.accesskey			"я">
+<!ENTITY help.usingHistory.label				"Түүхийг хэрэглэх нь">
+<!ENTITY help.usingHistory.accesskey			"Т">
+<!ENTITY help.advancedTips.label				"Нэмэлт заавар болон аргачлал">
+<!ENTITY help.advancedTips.accesskey			"Н">
+
+<!ENTITY cmd.findInBookmarks.label      "Хаяганд хайх…">
+<!ENTITY cmd.findInBookmarks.accesskey  "я">
+<!ENTITY cmd.findCurrent.label		"Одоогийн хуудсанд хай…">
+<!ENTITY cmd.findCurrent.accesskey		"й">
+
+<!ENTITY cmd.exportHTML.label           "HTML экспортлох…">
+<!ENTITY cmd.exportHTML.accesskey       "э">
+<!ENTITY cmd.importHTML.label           "HTML импортлох…">
+<!ENTITY cmd.importHTML.accesskey       "и">
+
+<!ENTITY cmd.backup.label               "Нөөцөл…">
+<!ENTITY cmd.backup.accesskey           "ц">
+<!ENTITY cmd.restore2.label              "Нөөцөөс сэргээ…">
+<!ENTITY cmd.restore2.accesskey          "с">
+<!ENTITY cmd.restoreFromFile.label      "Файл сонго…">
+<!ENTITY cmd.restoreFromFile.accesskey  "Ф">
+
+<!ENTITY cmd.select_all.label		"Бүгдийг сонго">
+<!ENTITY cmd.select_all.accesskey		"Б">
+<!ENTITY cmd.select_all.key		"a">
+<!ENTITY cmd.edit_cut.label		"Тасдаж сануул">
+<!ENTITY cmd.edit_cut.accesskey		"Т">
+<!ENTITY cmd.edit_cut.key		"x">
+<!ENTITY cmd.edit_copy.label		"Сануул">
+<!ENTITY cmd.edit_copy.accesskey		"С">
+<!ENTITY cmd.edit_copy.key		"c">
+<!ENTITY cmd.edit_paste.label		"Санамж буулга">
+<!ENTITY cmd.edit_paste.accesskey		"б">
+<!ENTITY cmd.edit_paste.key		"v">
+<!ENTITY cmd.edit_delete.label		"Устга">
+<!ENTITY cmd.edit_delete.accesskey		"У">
+<!ENTITY cmd.edit_undo.label		"Буцаж үйлд">
+<!ENTITY cmd.edit_undo.accesskey		"Б">
+<!ENTITY cmd.edit_undo.key		"z">
+<!ENTITY cmd.edit_redo.label		"Дахин үйлд">
+<!ENTITY cmd.edit_redo.accesskey		"Д">
+<!ENTITY cmd.edit_redo.key		"y">
+<!ENTITY cmd.open.label		"Нээ">
+<!ENTITY cmd.open.accesskey		"Н">
+<!ENTITY cmd.open_window.label		"Шинэ цонхонд нээ">
+<!ENTITY cmd.open_window.accesskey		"Ш">
+<!ENTITY cmd.open_tab.label		"Шинэ самбарт нээ">
+<!ENTITY cmd.open_tab.accesskey		"с">
+<!ENTITY cmd.open_all_in_tabs.label		"Бүгдийг нь самбарт нээ">
+<!ENTITY cmd.open_all_in_tabs.accesskey		"н">
+<!ENTITY cmd.properties.label		"Шинж чанар">
+<!ENTITY cmd.properties.accesskey		"и">
+<!ENTITY cmd.show_info.key		"i">
+<!ENTITY cmd.rename.label		"Нэр өөрчил">
+<!ENTITY cmd.rename.accesskey		"ө">
+<!ENTITY cmd.sortby_name.label		"Нэрээр эрэмбэл">
+<!ENTITY cmd.sortby_name.accesskey		"р">
+<!ENTITY cmd.context_sortby_name.accesskey		"э">
+<!ENTITY cmd.new_bookmark.label		"Шинэ хаяг…">
+<!ENTITY cmd.new_bookmark.accesskey		"Ш">
+<!ENTITY cmd.new_livemark.label		"Шинэ амьд хаяг…">
+<!ENTITY cmd.new_livemark.accesskey		"я">
+<!ENTITY cmd.new_folder.label		"Шинэ сан…">
+<!ENTITY cmd.new_folder.accesskey		"с">
+<!ENTITY cmd.context_new_folder.accesskey		"а">
+<!ENTITY cmd.new_separator.label		"Шинэ тусгаарлагч">
+<!ENTITY cmd.new_separator.accesskey		"т">
+<!ENTITY cmd.reloadLivebookmark.label		"Амьд хаягийг дахин дууд">
+<!ENTITY cmd.reloadLivebookmark.accesskey		"д">
+<!ENTITY cmd.reloadMicrosummary.label		"Амьд гарчгийг дахин дууд">
+<!ENTITY cmd.reloadMicrosummary.accesskey		"ч">
+<!ENTITY cmd.groupby_site.label		"Вэб хуудсаар нь бүлэглэ">
+<!ENTITY cmd.groupby_site.accesskey		"б">
+<!ENTITY cmd.groupby_page.label		"Хуудсаар нь бүлэглэ">
+<!ENTITY cmd.groupby_page.accesskey		"Х">
+<!ENTITY cmd.groupby_feed.label		"Бүртгэлээр нь бүлэглэ">
+<!ENTITY cmd.groupby_feed.accesskey		"ү">
+<!ENTITY cmd.groupby_post.label		"Захиагаар нь бүлэглэ">
+<!ENTITY cmd.groupby_post.accesskey		"З">
+<!ENTITY cmd.moveBookmarks.label		"Зөө…">   
+<!ENTITY cmd.moveBookmarks.accesskey		"З">                                                                   
+
+<!ENTITY col.name.label          "Нэр">
+<!ENTITY col.tags.label          "Таглаа">
+
+
+
+<!ENTITY search.allBookmarks.label                 "Бүх хаяганд">
+<!ENTITY search.allBookmarks.accesskey             "Б">
+<!ENTITY search.scopeFolder.label                  "Сонгосон санд">
+<!ENTITY search.scopeFolder.accesskey              "с">
+<!ENTITY search.scopeAll.label                     "Бүх хаяганд">
+<!ENTITY search.scopeAll.accesskey                 "я">
+<!ENTITY search.scopeMenu.label                    "Цэсний хаяганд">
+<!ENTITY search.scopeMenu.accesskey                "ц">
+<!ENTITY search.scopeToolbar.label                 "Багажны хаяганд">
+<!ENTITY search.scopeToolbar.accesskey             "г">
+<!ENTITY search.scopeDownloads.label               "Татаж авалтанд">
+<!ENTITY search.scopeDownloads.accesskey           "ж">
+<!ENTITY search.scopeHistory.label                 "Түүхэнд">
+<!ENTITY search.scopeHistory.accesskey             "д">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Хайгчийг харуул">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Хайгчийг нуу">
+<!ENTITY col.url.label		"Хаяг">
+<!ENTITY col.lastvisit.label		"Зорчсон өдөр">
+<!ENTITY col.visitcount.label		"Зорчсон тоо">
+<!ENTITY col.keyword.label		"Түлхүүр үг">
+<!ENTITY col.description.label		"Тодорхойлолт">
+<!ENTITY col.dateadded.label		"Нэмэгдсэн">
+<!ENTITY col.lastmodified.label		"Сүүлд өөрчлөгдсөн">
+<!ENTITY search.label		"Хайх:">
+<!ENTITY search.accesskey		"й">
+<!ENTITY search.collection.label		"Зөвхөн одоогийн цуглуулганд">
+<!ENTITY search.collection.accesskey		"З">
+<!ENTITY saveSearch.label		"Хадгал">
+<!ENTITY saveSearch.accesskey		"Х">
+<!ENTITY moreCriteria.label		"+">
+<!ENTITY advancedSearch.onlybookmarked.label		"Зөвхөн хаяг хай">
+<!ENTITY advancedSearch.match.label		"Таарсан ">
+<!ENTITY advancedSearch.all.label		"бүгд">
+<!ENTITY advancedSearch.any.label		"аль таарсан">
+<!ENTITY advancedSearch.rules.label		" дараах тохирсоноос:">
+<!ENTITY advancedSearch.subj_keyword.label		"уг текстийг агуулсан">
+<!ENTITY advancedSearch.subj_visited.label		"Зорчсон">
+<!ENTITY advancedSearch.subj_location.label		"Хаяг">
+<!ENTITY advancedSearch.location_startswith.label		"гэж эхэлсэн">
+<!ENTITY advancedSearch.location_is.label		"гэж">
+<!ENTITY advancedSearch.location_onsite.label		"хуудсанд байгаа">
+<!ENTITY advancedSearch.time_is.label		"огноо">
+<!ENTITY advancedSearch.time_before.label		"өмнө">
+<!ENTITY advancedSearch.time_after.label		"дараа">
+<!ENTITY advancedSearch.time_inlast.label		"сүүлд">
+<!ENTITY advancedSearch.last_days.label		"өдөр">
+<!ENTITY advancedSearch.last_weeks.label		"долоо хоног">
+<!ENTITY advancedSearch.last_months.label		"сар">
+<!ENTITY advancedSearch.plus.label		"+">
+<!ENTITY advancedSearch.minus.label		"-">
+<!ENTITY advancedSearch.groupby.label		"Бүлэглэ: ">
+<!ENTITY advancedSearch.groupby_host.label		"серверээр нь">
+<!ENTITY advancedSearch.groupby_domain.label		"домэйнээр нь">
+<!ENTITY advancedSearch.groupby_folder.label		"сангаар нь">
+<!ENTITY advancedSearch.sortby.label		"Эрэмбэл: ">
+<!ENTITY advancedSearch.sortby_title.label		"гарчигаар нь">
+<!ENTITY advancedSearch.sortby_date.label		"огноогоор нь">
+<!ENTITY advancedSearch.sortby_visit.label		"зорчсон давтамжаар нь">
+<!ENTITY advancedSearch.sortby_url.label		"хаягаар нь">
+<!ENTITY advancedSearch.sortby_asc.label		"өгсөх дарааллаар">
+<!ENTITY advancedSearch.sortby_desc.label		"буурах дарааллаар">
+<!ENTITY advancedSearch.max.label		"Хамгийн дээд үр дүн: ">
+<!ENTITY cmd.find.key		"f">
+<!ENTITY feed.subscribe.label		"Мэдээний цуврал">
+<!ENTITY feed.subscribe.tooltip		"Бүртгүүл">
+
+
+<!ENTITY view.detailsMacOSX.label  "Жагсаалт">
+<!ENTITY view.details.label        "Нарийн мэдээлэл">
+<!ENTITY view.details.accesskey    "р">
+
+<!ENTITY view.addons.label   "Нэмэгдлүүдийг харах">
+
+<!ENTITY maintenance.label   "Импортлох болон Нөөцлөх">
+<!ENTITY maintenance.accesskey  "И">
+
+<!ENTITY backCmd.label       "Буцах">
+<!ENTITY backCmd.accesskey   "Б">
+<!ENTITY backButton.tooltip  "Буцна">
+
+<!ENTITY forwardCmd.label       "Урагш">
+<!ENTITY forwardCmd.accesskey   "У">
+<!ENTITY forwardButton.tooltip  "Урагшилна">
+
+<!ENTITY detailsPane.more.label "Нэмэлт">
+<!ENTITY detailsPane.more.accesskey "э">
+<!ENTITY detailsPane.less.label "Цөөл">
+<!ENTITY detailsPane.less.accesskey "ө">
+<!ENTITY detailsPane.noPreviewAvailable.label "Харагдац">
+<!ENTITY detailsPane.selectAnItemText.description "Харахыг болон засварлахыг хүссэн зүйлээ сонгоно уу">

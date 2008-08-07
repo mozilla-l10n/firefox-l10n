@@ -1,0 +1,38 @@
+<!ENTITY  warnAddonInstall.label        "Вэб хуудас нэмэгдэл суулгахыг оролдох үед надад анхааруул">
+<!ENTITY  warnAddonInstall.accesskey    "б">
+
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+<!ENTITY  tellMaybeAttackSite.label     "Миний зорчиж буй хуудас хэрэв хорлонтой дайралт хийхээр сэжигтэй бол надад хэл">
+<!ENTITY  tellMaybeAttackSite.accesskey "й">
+
+<!ENTITY  tellMaybeForgery.label              "Намайг хуудас дуудах үед хуудасны хуурамч сэжигтэй эсэхийг нь надад хэл">
+<!ENTITY  tellMaybeForgery.accesskey          "м">
+
+<!ENTITY  addonExceptions.label         "Тодорхойлж өгөх…">
+<!ENTITY  addonExceptions.accesskey     "ж">
+
+<!ENTITY  passwords.label               "Нууц үгс">
+<!ENTITY  rememberPasswords.label       "Хуудасны нууц үгсийг сануул">
+<!ENTITY  rememberPasswords.accesskey   "Х">
+
+<!ENTITY  passwordExceptions.label      "Зөвшөөрөгдсөн хуудас…">
+<!ENTITY  passwordExceptions.accesskey  "ш">
+
+<!ENTITY  useMasterPassword.label       "Мастер нууц үг хэрэглэ">
+<!ENTITY  useMasterPassword.accesskey   "М">
+<!ENTITY  changeMasterPassword.label     "Мастер нууц үгийг өөрчил…">
+<!ENTITY  changeMasterPassword.accesskey "с">
+
+<!ENTITY  savedPasswords.label            "Нууц үгсийг харуул…">
+<!ENTITY  savedPasswords.accesskey        "х">
+
+<!ENTITY  warnings.label                "Анхааруулах мэдэгдэл">
+<!ENTITY  chooseWarnings.label          "Таныг вэб хуудсанд зорчих үед харуулах анхааруулгын мэдэгдлийг сонгоно уу">
+<!ENTITY  warningSettings.label         "Тохируулга…">
+<!ENTITY  warningSettings.accesskey     "о">

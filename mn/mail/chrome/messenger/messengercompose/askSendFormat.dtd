@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML Захианы асуулт">
+
+<!ENTITY recipient.label "Зарим жагсаалтанд буй хүлээн авагчид HTML захиа хүлээн авах боломжтой гэж жагсаалтад ороогүй байна.">
+
+<!ENTITY question.label "Та захиаг текст рүү хөрвүүлэх үү, эсвэл ямар ч байсан HTML хэлбэрээр нь илгээх үү?">
+
+<!ENTITY plainTextAndHtml.label "Текст ба HTML хэлбэрээр илгээ">
+<!ENTITY plainTextAndHtml.accesskey "б">
+<!ENTITY plainTextOnly.label "Зөвхөн текст хэлбэрээр илгээ">
+<!ENTITY plainTextOnly.accesskey "э">
+<!ENTITY htmlOnly.label "Зөвхөн HTML хэлбэрээр илгээ">
+<!ENTITY htmlOnly.accesskey "З">
+
+<!ENTITY send.label "Илгээ">
+<!ENTITY send.accesskey "л">

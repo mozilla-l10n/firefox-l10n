@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Захиа бичих болон Хаяглах">
+<!ENTITY addressingGroupTitle.label "Хаяглах">
+<!ENTITY addressingText.label "Хаяг хайх үед:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "Миний дотоод LDAP серверийн тохиргоог энэ бүртгэлд хэрэглэ">
+<!ENTITY useGlobal.accesskey "М">
+<!ENTITY editDirectories.label "Санг засварлах…">
+<!ENTITY editDirectories.accesskey "а">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Өөр LDAP сервер хэрэглэх:">
+<!ENTITY directories.accesskey "с">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label "Захиа бичих">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Захиаг HTML хэлбэрээр бич">
+<!ENTITY useHtml.accesskey "З">
+<!ENTITY autoQuote.label "Хариулж бичих үед автоматаар анхны захиаг хашилтанд хий">
+<!ENTITY autoQuote.accesskey "а">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "Дараа нь,">
+<!ENTITY then.accesskey "р">
+<!ENTITY aboveQuote.label "Хашилттай текстийн дээд хэсэгт миний хариулах захиаг эхлүүл">
+<!ENTITY belowQuote.label "Хашилттай текстийн доод хэсэгт миний хариулах захиаг эхлүүл">
+<!ENTITY selectAndQuote.label "хашилттай текстийг сонго">
+<!ENTITY place.label "мөн миний гарын үсгийг байрлуул">
+<!ENTITY place.accesskey "м">
+<!ENTITY belowText.label "хашилтын доор (санал болгогдсон)">
+<!ENTITY aboveText.label "дор нь миний хариулт (хашилтын дээр)">

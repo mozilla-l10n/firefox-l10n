@@ -1,0 +1,592 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
+<!ENTITY fileMenu.label "Файл">
+<!ENTITY filemenu.accesskey "й">
+<!ENTITY newBlankPageCmd.label "Бүтээгч хуудас">
+<!ENTITY newBlankPage.accesskey "у" >
+<!ENTITY newMenu.label "Шинэ">
+<!ENTITY openFileCmd.label "Файл нээ...">
+<!ENTITY fileopen.accesskey "э">
+<!ENTITY fileopen.keybinding "o">
+<!ENTITY openremoteCmd.label "Вэб хаяг нээ...">
+<!ENTITY fileopenremote.accesskey "н">
+<!ENTITY fileopenremote.keybinding "l">
+<!ENTITY fileRecentMenu.label "Сүүлд хэрэглэсэн хуудас">
+<!ENTITY filerecentmenu.accesskey "д">
+<!ENTITY fileRevert.label "Эсрэгээр">
+<!ENTITY filerevert.accesskey "р">
+<!ENTITY saveCmd.label "Хадгал">
+<!ENTITY filesave.accesskey "х">
+<!ENTITY filesave.keybinding "s">
+<!ENTITY saveAsCmd.label "Нэр өгч хадгал...">
+<!ENTITY filesaveas.accesskey "х">
+
+<!ENTITY publishCmd.label "Бэлэн болго">
+<!ENTITY publishcmd.accesskey "б">
+<!ENTITY publishAsCmd.label "Нэр өгч бүтээ...">
+<!ENTITY publishas.accesskey "н">
+<!ENTITY exportToTextCmd.label "Текст рүү экспортол">
+<!ENTITY fileexporttotext.accesskey "п">
+<!ENTITY saveAsChangeEncodingCmd.label "Тэмдэг хувиргуурыг өөрчлөх ба хадгалах">
+<!ENTITY filesaveandchangeencoding.accesskey "Т">
+<!ENTITY previewCmd.label "Хуудасны харагдац">
+<!ENTITY filepreview.accesskey "ц">
+<!ENTITY sendPageCmd.label "Хуудсыг илгээ...">
+<!ENTITY sendPage.accesskey "у">
+<!ENTITY printSetupCmd.label "Хуудасны тохиргоо">
+<!ENTITY fileprintsetup.accesskey "т">
+<!ENTITY printPreviewCmd.label "Хэвлэх харагдац">
+<!ENTITY fileprintpreview.accesskey "ц">
+<!ENTITY printCmd.label "Хэвлэ...">
+<!ENTITY printButtonCmd.label "Хэвлэ...">
+<!ENTITY fileprint.accesskey "в">
+<!ENTITY fileprint.keybinding "p">
+<!ENTITY closeCmd.label "Хаа">
+<!ENTITY fileclose.accesskey "х">
+<!ENTITY fileclose.keybinding "w">
+<!ENTITY exitCmd.label "Гарах">
+<!ENTITY fileexit.accesskey "р">
+<!ENTITY fileexit.keybinding "q">
+
+<!-- Edit menu items -->
+<!ENTITY editMenu.label "Засварла">
+<!ENTITY editmenu.accesskey "в">
+<!ENTITY pasteNoFormatting.label "Хэлбэржүүлэлгүй буулга">
+<!ENTITY pasteNoFormatting.accesskey "й">
+<!ENTITY pasteAs.label "Буулгахдаа">
+<!ENTITY pasteAs.accesskey "Б">
+<!ENTITY publishSettings.label "Хуудас бүтээх тохиргоо...">
+<!ENTITY publishSettings.accesskey "т">
+
+<!-- For a "Paste" submenu when more than 1 
+     clipboard formats are available -->
+<!ENTITY pasteHTMLCmd.label "HTML">
+<!ENTITY pasteHTML.accesskey "б">
+<!ENTITY pasteTextCmd.label "Текст">
+<!ENTITY pasteText.accesskey "т">
+<!ENTITY pasteImageCmd.label "Зураг">
+<!ENTITY pasteImage.accesskey "б">
+<!ENTITY pasteRowsCmd.label "Мөр">
+<!ENTITY pasteRows.accesskey "р">
+<!ENTITY pasteColumnsCmd.label "Багана">
+<!ENTITY pasteColumns.accesskey "а">
+<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
+     Set to: "Table" or "Nested Table" depending on context 
+     This accesskey must be in both strings -->
+<!ENTITY pasteTable.accesskey "у">
+<!ENTITY pasteLinkCmd.label "Холбоос">
+<!ENTITY editpastelink.accesskey "с">
+<!ENTITY pasteAsQuotationCmd.label "Хашилттай мэт буулга">
+<!ENTITY editpastequotation.accesskey "Х">
+<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY editStripQuotesCmd.label "Strip Quotes">
+<!ENTITY editRewrapCmd.label "Мөрөнд багтаа">
+<!ENTITY findCmd.label "Олж орлуул...">
+<!ENTITY editfind.accesskey "л">
+<!ENTITY editfind.keybinding "f">
+<!ENTITY editfind.keybinding2 "VK_F19">
+<!ENTITY findAgainCmd.label "Ахиад ол">
+<!ENTITY editfindnext.accesskey "о">
+<!ENTITY editfindnext.keybinding "g">
+<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.label "Өмнөхийг ол">
+<!ENTITY editfindprev.accesskey "о">
+<!ENTITY editfindprev.keybinding "g">
+<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY enableInlineSpellChecker.label "Бичиж эхлэнгүүт үгийн алдааг шалга">
+<!ENTITY enableInlineSpellChecker.accesskey "ж">
+<!ENTITY checkSpellingCmd.label "Үгийн алдаа шалга">
+<!ENTITY editcheckspelling.accesskey "а">
+<!ENTITY editcheckspelling.keybinding "k">
+<!ENTITY validateCmd.label "HTML-г хүчинтэй болго">
+<!ENTITY validate.accesskey "ч">
+<!ENTITY checkLinksCmd.label "Холбоосыг шалга">
+
+<!-- View menu items -->
+<!ENTITY viewPageSource.label "Хуудасны эх код">
+<!ENTITY viewpagesource.accesskey "к">
+<!ENTITY viewParagraphMarks.label "Улаан мөрийн тэмдэг">
+<!ENTITY viewparagraphmarks.accesskey "м">
+
+<!-- Insert menu items -->
+<!ENTITY insertMenu.label "Орлуул">
+<!ENTITY insertmenu.accesskey "р">
+<!ENTITY insertLinkCmd.label "Холбоос...">
+<!ENTITY insertlink.accesskey "Х">
+<!ENTITY insertlink.keybinding "l">
+<!ENTITY insertAnchorCmd.label "Нэрлэсэн зангуу...">
+<!ENTITY insertanchor.accesskey "с">
+<!ENTITY insertImageCmd.label "Зураг...">
+<!ENTITY insertimage.accesskey "З">
+<!ENTITY insertImageMapCmd.label "Зурагтай холбоос...">
+<!ENTITY insertHLineCmd.label "Хэвтээ шугам">
+<!ENTITY inserthline.accesskey "ш">
+<!ENTITY insertTableCmd.label "Хүснэгт...">
+<!ENTITY inserttable.accesskey "с">
+<!ENTITY insertFormMenu.label "Хүснэгт">
+<!ENTITY insertformmenu.accesskey "Х">
+<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertCharsCmd.label "Тэмдэгт ба дүрс...">
+<!ENTITY insertchars.accesskey "э">
+<!ENTITY insertBreakCmd.label "Мөр хугалах">
+<!ENTITY insertbreak.accesskey "а">
+<!ENTITY insertBreakAllCmd.label "Дараах зургийг хугал">
+<!ENTITY insertbreakall.accesskey "г">
+
+<!-- Insert form menu items -->
+<!ENTITY insertFormCmd.label "Хүснэгтэд зааж өгөх...">
+<!ENTITY insertform.accesskey "г">
+<!ENTITY insertInputTagCmd.label "Хүснэгтийн талбар...">
+<!ENTITY insertinputtag.accesskey "т">
+<!ENTITY insertInputImageCmd.label "Зургийн хэлбэр...">
+<!ENTITY insertinputimage.accesskey "з">
+<!ENTITY insertTextAreaCmd.label "Бүлэг текст...">
+<!ENTITY inserttextarea.accesskey "т">
+<!ENTITY insertSelectCmd.label "Жагсаалтын сонголт...">
+<!ENTITY insertselect.accesskey "у">
+<!ENTITY insertButtonCmd.label "Товч зааж өг...">
+<!ENTITY insertbutton.accesskey "о">
+<!ENTITY insertLabelCmd.label "Зэрэглэл тогтоох">
+<!ENTITY insertlabel.accesskey "р">
+<!ENTITY insertFieldSetCmd.label "Талбарын өгөгдлийг зааж өг...">
+<!ENTITY insertfieldset.accesskey "т">
+<!ENTITY insertIsIndexCmd.label "Жагсаасан хайлт">
+<!ENTITY insertisindex.accesskey "о">
+
+<!-- Used just in context popup. -->
+<!ENTITY spellCheckNoSuggestions.label "(Санал болголт олдсонгүй)">
+<!ENTITY spellCheckIgnoreWord.label "Үгийг үл тоо">
+<!ENTITY spellCheckIgnoreWord.accesskey "г">
+<!ENTITY spellCheckAddToDictionary.label "Үгийн санд нэм">
+<!ENTITY spellCheckAddToDictionary.accesskey "э">
+<!ENTITY createLinkCmd.label "Холбоос үүсгэ...">
+<!ENTITY createlink.accesskey "с">
+<!ENTITY editLinkCmd.label "Шинэ бүтээгчид холбоосыг засварла">
+<!ENTITY editlink.accesskey "б">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
+<!ENTITY undoCmd.label "Буцаж үйлд">
+<!ENTITY undo.accesskey "ц">
+<!ENTITY redoCmd.label "Дахин үйлд">
+<!ENTITY redo.accesskey "й">
+<!ENTITY cutCmd.label "Тасдаж сана">
+<!ENTITY cut.accesskey "а">
+<!ENTITY copyCmd.label "Сануул">
+<!ENTITY copy.accesskey "с">
+<!ENTITY pasteCmd.label "Санамж буулга">
+<!ENTITY paste.accesskey "б">
+<!ENTITY deleteCmd.label "Устга">
+<!ENTITY delete.accesskey "с">
+<!ENTITY clearCmd.label "Арилга">
+<!ENTITY clear.accesskey "а">
+<!ENTITY selectAllCmd.label "Бүгдийг сонго">
+<!ENTITY selectall.accesskey "г">
+
+<!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip "Үсгийн маяг сонго">
+<!ENTITY fontfaceMenu.label "Үсгийн маяг">
+<!ENTITY formatfontmenu.accesskey "с">
+<!ENTITY fontVarWidth.label "Хувьсах өргөнтэй">
+<!ENTITY fontvarwidth.accesskey "Х">
+<!ENTITY fontFixedWidth.label "Жигд өргөнтэй">
+<!ENTITY fontfixedwidth.accesskey "Ж">
+<!ENTITY formatfontfixed.keybinding "t">
+<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
+<!ENTITY fonthelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Цаг">
+<!ENTITY fonttimes.accesskey "Ц">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontcourier.accesskey "c">
+<!ENTITY localfontfaceMenu.label "Дотоод үсгийн маяг">
+<!ENTITY localfontmenu.accesskey "м">
+
+<!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.tooltip "Үсгийн өнгө сонго">
+<!ENTITY decreaseFontSize.label "Багасгаж">
+<!ENTITY decreasefontsize.accesskey "ж">
+<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY increaseFontSize.label "Томсгож">
+<!ENTITY increasefontsize.accesskey "т">
+<!ENTITY increaseFontSize.keybinding "+">
+<!ENTITY increaseFontSize.keybinding2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY fontsizeMenu.label "Хэмжээ">
+<!ENTITY formatsizemenu.accesskey "ж">
+<!ENTITY size-xx-smallCmd.label "хх-бага">
+<!ENTITY size-xx-small.accesskey "а">
+<!ENTITY size-x-smallCmd.label "х-бага">
+<!ENTITY size-x-small.accesskey "г">
+<!ENTITY size-smallCmd.label "бага">
+<!ENTITY size-small.accesskey "б">
+<!ENTITY size-mediumCmd.label "дундаж">
+<!ENTITY size-medium.accesskey "д">
+<!ENTITY size-largeCmd.label "том">
+<!ENTITY size-large.accesskey "т">
+<!ENTITY size-x-largeCmd.label "х-том">
+<!ENTITY size-x-large.accesskey "о">
+<!ENTITY size-xx-largeCmd.label "хх-том">
+<!ENTITY size-xx-large.accesskey "м">
+
+<!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Текстийн загвар">
+<!ENTITY formatstylemenu.accesskey "р">
+<!ENTITY styleBoldCmd.label "Зузаан">
+<!ENTITY stylebold.accesskey "З">
+<!ENTITY stylebold.keybinding "b">
+<!ENTITY styleItalicCmd.label "Налуу">
+<!ENTITY styleitalic.accesskey "а">
+<!ENTITY styleitalic.keybinding "i">
+<!ENTITY styleUnderlineCmd.label "Доогуур зураас">
+<!ENTITY styleunderline.accesskey "г">
+<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleStrikeThruCmd.label "Strikethrough">
+<!ENTITY stylestrikethru.accesskey "k">
+<!ENTITY styleSuperscriptCmd.label "Дээгүүр бичилт">
+<!ENTITY stylesuperscript.accesskey "э">
+<!ENTITY styleSubscriptCmd.label "Доогуур бичилт">
+<!ENTITY stylesubscript.accesskey "э">
+<!ENTITY styleNonbreakingCmd.label "Хугарахгүй">
+<!ENTITY stylenonbreaking.accesskey "й">
+<!ENTITY styleEm.label "Гол цөм">
+<!ENTITY styleEm.accesskey "л">
+<!ENTITY styleStrong.label "Үндсэн гол цөм">
+<!ENTITY styleStrong.accesskey "ц">
+<!ENTITY styleCite.label "Ишлэл">
+<!ENTITY styleCite.accesskey "ш">
+<!ENTITY styleAbbr.label "Товчлол">
+<!ENTITY styleAbbr.accesskey "Т">
+<!ENTITY styleAcronym.label "Товчлол">
+<!ENTITY styleAcronym.accesskey "ч">
+<!ENTITY styleCode.label "Код">
+<!ENTITY styleCode.accesskey "д">
+<!ENTITY styleSamp.label "Жишээ гаралт">
+<!ENTITY styleSamp.accesskey "ш">
+<!ENTITY styleVar.label "Хувьсагч">
+<!ENTITY styleVar.accesskey "ь">
+
+<!ENTITY formatFontColor.label "Текстийн өнгө...">
+<!ENTITY formatfontcolor.accesskey "к">
+<!ENTITY tableOrCellColor.label "Хүснэгт ба нүдний арын дэвсгэр өнгө...">
+<!ENTITY tableOrCellColor.accesskey "д">
+
+<!ENTITY formatremovestyles.keybinding "y">
+<!ENTITY formatremovelinks.keybinding "k">
+<!ENTITY formatRemoveNamedAnchors.label "Нэрлэсэн зангууг устга">
+<!ENTITY formatRemoveNamedAnchors.accesskey "у">
+<!ENTITY formatremovenamedanchors.keybinding "a">
+
+<!ENTITY formatindent.keybinding "]">
+<!ENTITY formatoutdent.keybinding "[">
+<!ENTITY paragraphMenu.label "Улаан мөр">
+<!ENTITY formatparagraphmenu.accesskey "У">
+<!ENTITY paragraphParagraphCmd.label "Улаан мөр">  
+<!ENTITY paragraphparagraph.accesskey "У">
+<!ENTITY heading1Cmd.label "Гарчиг 1">
+<!ENTITY heading1.accesskey "1">
+<!ENTITY heading2Cmd.label "Гарчиг 2">
+<!ENTITY heading2.accesskey "2">
+<!ENTITY heading3Cmd.label "Гарчиг 3">
+<!ENTITY heading3.accesskey "3">
+<!ENTITY heading4Cmd.label "Гарчиг 4">
+<!ENTITY heading4.accesskey "4">
+<!ENTITY heading5Cmd.label "Гарчиг 5">
+<!ENTITY heading5.accesskey "5">
+<!ENTITY heading6Cmd.label "Гарчиг 6">
+<!ENTITY heading6.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Хаяг">
+<!ENTITY paragraphaddress.accesskey "а">
+<!ENTITY paragraphPreformatCmd.label "Урьдчилан бэлдсэн">
+<!ENTITY paragraphpreformat.accesskey "У">
+<!ENTITY paragraphBlockquoteCmd.label "Blockquote">
+<!ENTITY paragraphblockquote.accesskey "b">
+
+<!-- List menu items -->
+<!ENTITY formatlistMenu.label "Жагсаалт">
+<!ENTITY formatlistmenu.accesskey "Ж">
+<!ENTITY noneCmd.label "Үгүй">
+<!ENTITY none.accesskey "Ю">
+<!ENTITY listBulletCmd.label "Сумтай">
+<!ENTITY listbullet.accesskey "С">
+<!ENTITY listNumberedCmd.label "Дугаарласан">
+<!ENTITY listnumbered.accesskey "Д">
+<!ENTITY listTermCmd.label "Term">
+<!ENTITY listterm.accesskey "t">
+<!ENTITY listDefinitionCmd.label "Тодорхойлолт">
+<!ENTITY listdefinition.accesskey "Т">
+<!ENTITY listProps.label "Жагсаалтын шинж чанар">
+<!ENTITY listprops.accesskey "Ж">
+
+<!ENTITY ParagraphSelect.tooltip "Улаан мөрийн сонголт">
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Үндсэн текст">
+<!ENTITY bodytext.accesskey "д">
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "Нэмэлт шинж чанар">
+<!ENTITY advancedproperties.accesskey "Н">
+
+<!ENTITY NormalAbbr.label "Текст">
+<!ENTITY ParagraphAbbr.label "У">  
+<!ENTITY Heading1Abbr.label "H1">
+<!ENTITY Heading2Abbr.label "H2">
+<!ENTITY Heading3Abbr.label "H3">
+<!ENTITY Heading4Abbr.label "H4">
+<!ENTITY Heading5Abbr.label "H5">
+<!ENTITY Heading6Abbr.label "H6">
+<!ENTITY BlockquoteAbbr.label "BQ">
+<!ENTITY AddressAbbr.label "Хаяг.">
+<!ENTITY PreformatAbbr.label "Урьдч.">
+
+<!-- Style Sheet submenu NOT IMPLEMENTED -->
+<!ENTITY stylesheetMenu.label "Хэлбэршүүлэх загварчлалыг хэрэгжүүл">
+<!ENTITY formatstylesheetmenu.accesskey "х">
+
+<!-- Align menu items -->
+<!ENTITY alignMenu.label "Зэрэгц">
+<!ENTITY formatalignmenu.accesskey "ц">
+<!ENTITY alignLeft.label "Зүүн">
+<!ENTITY alignleft.accesskey "з">
+<!ENTITY alignLeft.tooltip "Зүүн талд зэрэгц">
+<!ENTITY alignCenter.label "Төвд">
+<!ENTITY aligncenter.accesskey "в">
+<!ENTITY alignCenter.tooltip "Төвд зэрэгц">
+<!ENTITY alignRight.label "Баруун">
+<!ENTITY alignright.accesskey "б">
+<!ENTITY alignRight.tooltip "Баруун талд зэрэгц">
+<!ENTITY alignJustify.label "Мөр зэрэгц">
+<!ENTITY alignjustify.accesskey "з">
+<!ENTITY alignJustify.tooltip "Хоёр талдаа зэрэгц">
+
+<!-- Layer toolbar items -->
+<!ENTITY layer.tooltip "Тавцан">
+<!ENTITY layerSendToBack.tooltip "Ар талд илгээ">
+<!ENTITY layerBringToFront.tooltip "Эхэнд авчирах">
+
+<!ENTITY increaseIndent.label "Мөр эхлэх зайг ихэсгэ">
+<!ENTITY increaseindent.accesskey "и">
+<!ENTITY increaseindentkb "=">
+<!ENTITY decreaseIndent.label "Мөр эхлэх зайг багасга">
+<!ENTITY decreaseindent.accesskey "б">
+<!ENTITY decreaseindentkb "-">
+
+<!ENTITY grid.label "Торны байрлал">
+<!ENTITY grid.accesskey "б">
+
+<!ENTITY pageProperties.label "Хүснэгтийн шинж чанар...">
+<!ENTITY pageproperties.accesskey "ш">
+<!ENTITY colorsAndBackground.label "Хуудасны өнгө болон арын дэвсгэр...">
+<!ENTITY colorsandbackground.accesskey "д">
+
+<!-- Table Menu -->
+<!ENTITY tableMenu.label "Хүснэгт">
+<!ENTITY tablemenu.accesskey "х">
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Сонго">
+<!ENTITY tableselectmenu.accesskey "с">
+
+<!ENTITY tableSelectMenu2.label "Хүснэгт сонго">
+<!ENTITY tableInsertMenu2.label "Хүснэгт орлуул">
+<!ENTITY tableDeleteMenu2.label "Хүснэгт устга">
+
+<!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Орлуул">
+<!ENTITY tableinsertmenu.accesskey "р">
+<!ENTITY tableTable.label "Хүснэгт">
+<!ENTITY tabletable.accesskey "х">
+<!ENTITY tableRow.label "Мөр">
+<!ENTITY tableRows.label "Мөр">
+<!ENTITY tablerow.accesskey "р">
+<!ENTITY tableRowAbove.label "Дээд мөр">
+<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowBelow.label "Доод мөр">
+<!ENTITY tablerowbelow.accesskey "р">
+<!ENTITY tableColumn.label "Багана">
+<!ENTITY tableColumns.label "Багана">
+<!ENTITY tablecolumn.accesskey "н">
+<!ENTITY tableColumnBefore.label "Өмнөх багана">
+<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnAfter.label "Дараах багана">
+<!ENTITY tablecolumnafter.accesskey "б">
+<!ENTITY tableCell.label "Нүд">
+<!ENTITY tableCells.label "Хүснэгт нүд(нүүд)">
+<!ENTITY tablecell.accesskey "д">
+<!ENTITY tableCellContents.label "Нүдний бүтэц">
+<!ENTITY tablecellcontents.accesskey "б">
+<!ENTITY tableAllCells.label "Бүх нүд">
+<!ENTITY tableCellBefore.label "Өмнөх нүд">
+<!ENTITY tableallcells.accesskey "х">
+<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellAfter.label "Дараах нүд">
+<!ENTITY tablecellafter.accesskey "д">
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Устга">
+<!ENTITY tabledeletemenu.accesskey "У">
+
+<!ENTITY tableFix.label "Хүснэгтийн байрлалыг засах">
+<!ENTITY tablefix.accesskey "т">
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tablejoincells.accesskey "и">
+<!ENTITY tableSplitCell.label "Нүдийг хуваа">
+<!ENTITY tablesplitcell.accesskey "х">
+<!ENTITY convertToTable.label "Сонголтоос хүснэгт үүсгэ">
+<!ENTITY converttotable.accesskey "н">
+<!ENTITY tableProperties.label "Хүснэгтийн шинж чанар">
+<!ENTITY tableProperties.accesskey "ш">
+
+<!-- Tools menu -->
+<!ENTITY toolsmenu.accesskey "б">
+<!ENTITY toolbrowser.accesskey "ж">
+<!ENTITY toolplaineditor.accesskey "н">
+<!ENTITY toolsetfocus.accesskey "ж">
+
+<!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "Цэст самбар">
+<!ENTITY compositionToolbar.tooltip "Бүтээгч багажийн самбар">
+<!ENTITY formatToolbar.tooltip "Багажит самбарыг тохируулах">
+<!ENTITY newToolbarCmd.tooltip "Шинэ бүтээгч хуудас үүсгэ">
+<!ENTITY openToolbarCmd.label "Нээ">
+<!ENTITY openToolbarCmd.tooltip "Дотоод файлыг нээ">
+<!ENTITY saveToolbarCmd.tooltip "Файлыг дотоод байрлалд хадгал">
+<!ENTITY publishToolbarCmd.tooltip "Алсын байрлалд файлыг илгээ">
+<!ENTITY previewToolbarCmd.label "Хуудасны харагдац...">
+<!ENTITY previewToolbarCmd.tooltip "Энэ хуудсыг хөтлөгчид дууд">
+<!ENTITY printToolbarCmd.label "Хэвлэ">
+<!ENTITY printToolbarCmd.tooltip "Энэ хуудсыг хэвлэ">
+<!ENTITY findToolbarCmd.label "Хайлт">
+<!ENTITY findToolbarCmd.tooltip "Хуудсанд текст ол">
+<!ENTITY spellToolbarCmd.label "Үгийн алдаа шалгах">
+<!ENTITY spellToolbarCmd.tooltip "Сонгосон хэсэгт эсвэл бүхэл хуудсанд үгийн алдаа шалга">
+<!ENTITY imageToolbarCmd.label "Зураг">
+<!ENTITY imageToolbarCmd.tooltip "Шинэ зураг орлуул эсвэл сонгосон зургийн шинж чанарыг засварла">
+<!ENTITY hruleToolbarCmd.label "Хэвтээ шугам">
+<!ENTITY hruleToolbarCmd.tooltip "Хэвтээ шугам орлуулах эсвэл сонгосон шугамын шинж чанарыг засварлах">
+<!ENTITY tableToolbarCmd.label "Хүснэгт">
+<!ENTITY tableToolbarCmd.tooltip "Шинэ хүснэгт орлуул эсвэл сонгосон хүснэгтийн шинж чанарыг засварла">
+<!ENTITY linkToolbarCmd.label "Холбоос">
+<!ENTITY linkToolbarCmd.tooltip "Шинэ холбоос орлуул эсвэл сонгосон холбоосын шинж чанарыг засварла">
+<!ENTITY anchorToolbarCmd.label "Зангуу">
+<!ENTITY anchorToolbarCmd.tooltip "Шинэ нэртэй зангуу орлуул эсвэл сонгосон зангууны шинж чанарыг засварла">
+<!ENTITY textColorCaption.label "Текстийн өнгө">
+<!ENTITY TextColorButton.tooltip "Текстийн өнгө сонго">
+<!ENTITY BackgroundColorButton.tooltip "Арын дэвсгэрийн өнгө сонго">
+<!ENTITY throbber.tooltip "&vendorShortName;-н эхлэл хуудсанд оч">
+<!ENTITY HighlightColorButton.tooltip "Текстийн гэрэлтэх өнгийг сонго">
+
+<!-- Editor toolbar -->
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Үсгийн хэмжээг багасга">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Үсгийн хэмжээг томсго">
+<!ENTITY boldToolbarCmd.tooltip "Зузаан">
+<!ENTITY italicToolbarCmd.tooltip "Налуу">
+<!ENTITY underlineToolbarCmd.tooltip "Доогуур зураас">
+<!ENTITY bulletListToolbarCmd.tooltip "Сумтай жагсаалтыг хэрэглэ эсвэл устга">
+<!ENTITY numberListToolbarCmd.tooltip "Дугаарласан жагсаалтыг хэрэглэ эсвэл устга">
+<!ENTITY outdentToolbarCmd.tooltip "Мөр эхлэх зай (зүүн тийш багасга)">
+<!ENTITY indentToolbarCmd.tooltip "Мөр эхлэх зай (баруун тийш ихэсгэ)">
+<!ENTITY AlignPopupButton.tooltip "Текст мөр зэрэгцүүлэлт сонго">
+<!ENTITY InsertPopupButton.tooltip "Холбоос, Зангуу, Зураг, Хэвтээ шугам, эсвэл хүснэгт орлуул">
+<!ENTITY alignLeftButton.tooltip "Текстийг зүүн зай авалтад зэрэгцүүл">
+<!ENTITY alignCenterButton.tooltip "Текстийг төвд зэрэгц">
+<!ENTITY alignRightButton.tooltip "Баруун зай авалтад зэрэгц">
+<!ENTITY alignjustifyButton.tooltip "Зүүн ба баруун зай авалтад текстийг зэрэгцүүл">
+
+<!-- Formatting toolbar not used, but may be in future -->
+<!ENTITY formatToolbar.boldChar "З">
+<!ENTITY formatToolbar.italicChar "Н">
+<!ENTITY formatToolbar.underlineChar "Д">
+
+<!-- Used with color pickers in Format toolbar and Format Menu -->
+<!ENTITY colorPicker.default.label "Уншигчийн анхдагч өнгө">
+<!ENTITY colorPicker.default.accesskey "ө">
+<!ENTITY colorLabel.label "Өнгө:">
+<!ENTITY ok.label "OK">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Энгийн">
+<!ENTITY NormalMode.label "Энгийн засварлах горим">
+<!ENTITY NormalMode.accesskey "н">
+<!ENTITY NormalMode.tooltip "Хүснэгтийн хүрээ болон нэртэй зангууг харуул">
+<!ENTITY AllTagsMode.label "HTML таг">
+<!ENTITY AllTagsMode.accesskey "т">
+<!ENTITY AllTagsMode.tooltip "HTML тагийн бүх тэмдэгт зургийг харуул">
+
+<!ENTITY HTMLSourceMode.label "HTML эх бичлэг">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
+<!ENTITY SourceMode.label "Эх бичлэг">
+<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.tooltip "HTML эх бичлэгийг засварла">
+<!ENTITY PreviewMode.label "Харах">
+<!ENTITY PreviewMode.accesskey "р">
+<!ENTITY PreviewMode.tooltip " WYSIWYG мэт харуул (Хөтлөгч дээр харагдахаар)">
+
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
+<!ENTITY SourceTabDirection "ltr">
+
+<!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Сонго">
+<!ENTITY structSelect.accesskey     "с">
+<!ENTITY structRemoveTag.label      "Тагийг устга">
+<!ENTITY structRemoveTag.accesskey  "Т">
+<!ENTITY structChangeTag.label      "Тагийг солих">
+<!ENTITY structChangeTag.accesskey  "с">
+
+<!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Орлуул">
+<!ENTITY insertTOC.accesskey      "р">
+<!ENTITY updateTOC.label          "Шинэчил">
+<!ENTITY updateTOC.accesskey      "и">
+<!ENTITY removeTOC.label          "Арилга">
+<!ENTITY removeTOC.accesskey      "р">
+<!ENTITY tocMenu.label            "Бүтцийн хүснэгт...">
+<!ENTITY tocMenu.accesskey        "Б">

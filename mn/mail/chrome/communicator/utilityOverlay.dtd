@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"Файл"> 
+<!ENTITY fileMenu.accesskey				"й">
+<!ENTITY newMenu.label						"Шинэ">
+<!ENTITY newMenu.accesskey					"и">
+
+<!ENTITY editMenu.label					"Засварла"> 
+<!ENTITY editMenu.accesskey				"в"> 
+<!ENTITY undoCmd.label						"Буцаж үйлд">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"ц"> 
+<!ENTITY redoCmd.label						"Дахин үйлд">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"д"> 
+<!ENTITY cutCmd.label						"Тасдаж сана">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"с"> 
+<!ENTITY copyCmd.label						"Сануул">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"с"> 
+<!ENTITY pasteCmd.label						"Санамж буулга">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"б"> 
+<!ENTITY deleteCmd.label					"Устга">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"у"> 
+<!ENTITY selectAllCmd.label					"Бүгдийг сонго">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"с"> 
+<!ENTITY preferencesCmd.label				"Тохируулга…">
+<!ENTITY preferencesCmd.accesskey			"о"> 
+<!ENTITY preferencesCmdUnix.label       "Тохируулга">
+<!ENTITY preferencesCmdUnix.accesskey     "и"> 
+
+<!ENTITY findTypeTextCmd.label "Бичиж байхад текстийг ол">
+<!ENTITY findTypeTextCmd.accesskey "к">
+
+<!ENTITY viewMenu.label					"Харагдац"> 
+<!ENTITY viewMenu.accesskey				"ц"> 
+<!ENTITY viewToolbarsMenu.label				"Харуул/Нуу"> 
+<!ENTITY viewToolbarsMenu.accesskey			"л"> 
+<!ENTITY showTaskbarCmd.label					"Мэдээлэгч самбар">  
+<!ENTITY showTaskbarCmd.accesskey				"М"> 
+
+<!ENTITY direct.label                                   "Холбогдсон (прокси: үгүй)">
+<!ENTITY direct.accesskey                               "й">
+<!ENTITY manual.label                                   "Холбогдсон (прокси: гар тохиргоо)">
+<!ENTITY manual.accesskey                               "г">
+<!ENTITY pac.label                                      "Холбогдсон (прокси: автомат)">
+<!ENTITY pac.accesskey                                  "в">
+
+<!ENTITY proxy.label                                    "Прокси тохируулга…">
+<!ENTITY proxy.accesskey                                "т">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+
+<!ENTITY closeCmd.label			"Гарах">  
+<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.accesskey		"р">
+
+<!ENTITY closeWindow.label "Цонх хаа">
+
+<!ENTITY quitApplicationCmd.label	"Гарах"> 
+<!ENTITY quitApplicationCmd.key		"Q"> 
+<!ENTITY quitApplicationCmd.accesskey	"х">
+
+<!ENTITY quitApplicationCmdUnix.label	"Гарах"> 
+<!ENTITY quitApplicationCmdUnix.accesskey	"х">
+
+<!ENTITY quitApplicationCmdMac.label	"&brandShortName;-с гарах"> 
+<!ENTITY quitApplicationCmdMac.accesskey	"г">

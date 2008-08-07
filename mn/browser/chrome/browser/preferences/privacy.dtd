@@ -1,0 +1,53 @@
+<!ENTITY  history.label                 "Түүх">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Миний түүхийг хамгийн багадаа">
+<!ENTITY  rememberDaysBefore.accesskey  "й">
+<!ENTITY  rememberDaysAfter2.label       "өдөр хадгал">
+
+<!ENTITY  rememberForms.label           "Миний хүснэгт болон хайх самбарт оруулсан мэдээллийг хадгал.">
+
+<!ENTITY  rememberForms.accesskey       "М">
+<!ENTITY  rememberDownloads.label       "Миний юу татаж авсныг сана">
+<!ENTITY  rememberDownloads.accesskey   "с">
+
+<!ENTITY  cookies.label                 "Күүки">
+
+<!ENTITY  acceptCookies.label           "Хуудсанд күүкиг зөвшөөр">
+<!ENTITY  acceptCookies.accesskey       "в">
+
+<!ENTITY  acceptThirdParty.label        "Гуравдагч нийлүүлэгчийн күүкиг зөвшөөр">
+<!ENTITY  acceptThirdParty.accesskey    "у">
+
+<!ENTITY  keepUntil.label               "Байлгах хугацаа:">
+<!ENTITY  keepUntil.accesskey           "й">
+
+<!ENTITY  expire.label                  "тэдний хугацаа нь дуустал">
+<!ENTITY  close.label                   "Намайг &brandShortName;-г хаатал">
+<!ENTITY  askEachTime.label             "тухайн бүрд надаас асуу">
+
+<!ENTITY  cookieExceptions.label        "Зөвшөөрөгдсөн хуудас...">
+<!ENTITY  cookieExceptions.accesskey    "ш">
+
+<!ENTITY  showCookies.label             "Күүкиг харуул...">
+<!ENTITY  showCookies.accesskey         "а">
+
+<!ENTITY  privateData.label             "Хувийн өгөгдөл">
+
+<!ENTITY  alwaysClear.label              "Намайг &brandShortName;-г хаах үед үргэлж миний хувийн өгөгдлийг устга">
+<!ENTITY  alwaysClear.accesskey          "Н">
+
+<!ENTITY  askBeforeClear.label           "Хувийн өгөгдлийг минь устгахаасаа өмнө надаас асуу">
+<!ENTITY  askBeforeClear.accesskey       "в">
+
+<!ENTITY  clearDataSettings.label        "Тохиргоо...">
+<!ENTITY  clearDataSettings.accesskey    "х">
+
+<!ENTITY  clearDataNow.label             "Одоо арилга...">
+<!ENTITY  clearDataNow.label2            "Одоо арилга">
+<!ENTITY  clearDataNow.accesskey         "а">
+

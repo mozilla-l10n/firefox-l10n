@@ -1,0 +1,6 @@
+<!ENTITY removePassword.title              "Мастер нууц үгийг устга">
+<!ENTITY removeInfo.label                  "Та гүйцэтгэхийн тулд одоогийн нууц үгээ оруулах ёстой:">
+<!ENTITY removeWarning1.label              "Таны мастер нууц үг нь хуудасны нууц үг зэрэг нарийн мэдээллийг хамгаалахад хэрэглэгдэнэ.">
+<!ENTITY removeWarning2.label              "Хэрэв та мастер нууц үгээ устгавал таны компьютерт тулгарах хүндрэлээс хамгаалж чадахгүй болно.">
+<!ENTITY setPassword.oldPassword.label     "Одоогийн нууц үг:">
+

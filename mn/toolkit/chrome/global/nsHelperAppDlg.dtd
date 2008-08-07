@@ -1,0 +1,22 @@
+<!ENTITY alwaysHandle.accesskey				"ү">
+<!ENTITY alwaysHandle.label					"Энэ төрлийн файлтай ажиллахдаа үргэлж энэ үйлдлийг гүйцэтгэ">
+<!ENTITY badApp								"Таны заасан (&quot;#1&quot;) ачаалагч олдсонгүй. Нэрийг шалгах юмуу, эсвэл өөр ачаалагч сонго.">
+<!ENTITY badApp.title						"Ачаалагч програм олдсонгүй">
+<!ENTITY caption.label						"#1-г нээж байна">
+<!ENTITY chooseApp.accesskey				"с">
+<!ENTITY chooseApp.label					"Сонго...">
+<!ENTITY chooseAppFilePickerTitle			"Туслах ачаалагч програм сонго">
+<!ENTITY intro.attachment.label				"&quot;#3&quot;-г хавсаргалт мэт ажиллахыг хуудас санал болгож байна. Энэ файлын төрөл нь #2 (#1) бөгөөд байрлал нь:">
+<!ENTITY intro.attachment.noDesc.label		"&quot;#3&quot;-г хавсаргалт мэт ажиллахыг хуудас санал болгож байна. Энэ файлын төрөл нь #2 бөгөөд байрлал нь:">
+<!ENTITY intro.label						"&quot;#3&quot; файл нь #2 (#1), ба #4 төрлийх бөгөөд энэ файлтай яаж ажиллахыг мэдэхгүй байна. Энэ файлын байрлал:">
+<!ENTITY intro.noDesc.label					"&quot;#3&quot; файл нь #2, ба #4 төрлийх бөгөөд энэ файлтай яаж ажиллахыг мэдэхгүй байна. Энэ файлын байрлал:">
+<!ENTITY intro.sniffed.label				"#4 нь &quot;#3&quot; файлыг #2 (#1) төрлийн гэж танисан. Файлын байрлал нь:">
+<!ENTITY intro.sniffed.noDesc.label			"#4 нь &quot;#3&quot; файлыг #2 төрлийн гэж танисан. Файлын байрлал нь:">
+<!ENTITY openUsing.accesskey				"х">
+<!ENTITY openUsing.label					"Нээх програм нь">
+<!ENTITY prompt.label						"#1 энэ файлыг яах хэрэгтэй вэ?">
+<!ENTITY saveToDisk.accesskey				"д">
+<!ENTITY saveToDisk.label					"Дискэнд хадгал">
+<!ENTITY useSystemDefault.accesskey			"н">
+<!ENTITY useSystemDefault.label				"Анхны ачаалагч (#1)-р нээ">
+<!ENTITY useSystemDefault.noDesc.label		"Анхны ачаалагчаар нь нээ">

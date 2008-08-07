@@ -1,0 +1,27 @@
+<!ENTITY cancel "Цуцал">
+<!ENTITY close "Хаа">
+<!ENTITY completeMsg "#2 KБ татаж авагдаж дууслаа (зарцуулсан хугацаа #1)">
+<!ENTITY defaultTitle "Хадгалалт">
+<!ENTITY keep "Татаж авч дууссаны дараа энэ цонхыг нээлттэй үлдээ.">
+<!ENTITY launch "Файлыг ачаал">
+<!ENTITY longTimeFormat "#1:#2:#3">
+<!ENTITY openingSource "Нээгдэж буй байрлал:">
+<!ENTITY openingTarget "Үүгээр:">
+<!ENTITY openingTitle "#1-н #2&#037; Гүйцэтгэгдсэн">
+<!ENTITY pause "Завсарла">
+<!ENTITY pausedMsg "Татаж авалт завсарлагдсан">
+<!ENTITY percentMsg "#1&#037;">
+<!ENTITY progress "Явц :">
+<!ENTITY progressMsg "#2KБ-аас #1KБ-г ( #3KБ/сек хурдаар)">
+<!ENTITY resume "Дүгнэлт">
+<!ENTITY reveal "Файлын байрлалыг харуул">
+<!ENTITY savingSource "Хаанаас:">
+<!ENTITY savingTarget "Хаана:">
+<!ENTITY savingTitle "#1-н #2&#037; хадгалагдсан">
+<!ENTITY shortTimeFormat "#2:#3">
+<!ENTITY status "Төлөв байдал:">
+<!ENTITY timeElapsed "Зарцуулсан хугацаа:">
+<!ENTITY timeLeft "Үлдсэн хугацаа:">
+<!ENTITY unknownOpeningTitle "#1-г нээж байна">
+<!ENTITY unknownSavingTitle "#1-г хадгалж байна">
+<!ENTITY unknownTime "Үл мэдэгдсэн">

@@ -1,0 +1,14 @@
+<!ENTITY ocspDialog.title             "Гэрчилгээ баталгаажуулалт">
+<!ENTITY enableOCSP.label             "Интернэт гэрчилгээний төлвийг шалгах протокол (ИГТП) ашиглаж гэрчилгээг баталгаатай эсэхийг шалгадаг">
+<!ENTITY enableOCSP.accesskey         "г">
+<!ENTITY certOCSP2.label             "Хэрэв тухайн гэрчилгээ нь ИГТП сервер заагдсан байвал баталгаажуул">
+<!ENTITY certOCSP2.accesskey        "з">
+<!ENTITY proxyOCSP2.label          "Бүх гэрчилгээг дараах ИГТП сервер ашиглан баталгаажуул:">
+<!ENTITY proxyOCSP2.accesskey         "И">
+<!ENTITY serviceURL.label             "Үйлчилгээний хаяг:">
+<!ENTITY serviceURL.accesskey         "ч">
+<!ENTITY signingCA.label              "Хариулагч гарын үсэг зурагч:">
+<!ENTITY signingCA.accesskey          "г">
+<!ENTITY requireOCSP.label            "Хэрэв ИГТП сервертийн холболт амжилтгүй болвол тухайн гэрчилгээг хүчингүй гэж тооц">
+<!ENTITY requireOCSP.accesskey        "р">
+

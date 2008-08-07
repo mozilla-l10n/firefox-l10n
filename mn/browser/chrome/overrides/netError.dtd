@@ -1,0 +1,175 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Хуудас дуудах алдаа">
+<!ENTITY retry.label "Дахин оролд">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Холбогдож чадахгүй байна">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Хаяг хязгаарлагдсан байна">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Сервер олдсонгүй">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li><strong>www</strong>.example.com гэж бичихийн оронд
+    <strong>ww</strong>.example.com гэж бичсэн байж болох алдааг 
+    шалгана уу</li>
+  <li>Хэрэв та ямар ч хуудас дуудаж чадахгүй байгаа бол компьютерийнхээ сүлжээг
+    шалгана уу.</li>
+  <li>Хэрэв таны компьютер эсвэл сүлжээ галт хана, эсвэл проксигоор хамгаалагдсан бол
+    &brandShortName;-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Файл олдсонгүй">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Файлын нэрэнд буй томоор бичсэн үсгийг, эсвэл бичлэгийн алдаа буй эсэхийг шалга.</li>
+  <li>Файл зөөгдсөн, нэр өөрчлөгдсөн эсвэл устгагдсан эсэхийг шалга.</li>
+</ul>
+">
+
+
+<!ENTITY generic.title "Уучлаарай.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; энэ хуудсыг зарим шалтгаанаар дуудаж чадахгүй байна.</p>
+">
+
+<!ENTITY malformedURI.title "Хаяг зөв биш байна">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Ихэнх вэб хуудас голцуу
+    <strong>http://www.example.com/</strong></li> гэсэн хэлбэртэй байдаг.
+  <li>Та хөтлөх тэмдгийг (жишээлбэл 
+    <strong>/</strong>) хэрэглэж буй эсэхээ шалгана уу.</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "Холболт тасарсан">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Салангид горим">
+<!ENTITY netOffline.longDesc "
+<ul>
+  <li>Файл цэсэнд буй &quot;Салангид ажиллах&quot; цэсийн чагтыг болиулаад дахин оролдоно уу.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Бүтцийн хөрвүүлгийн алдаа">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Уг вэб хуудас бүтээсэн хүмүүстэй холбоо тогтоож уг алдааг мэдэгдэнэ үү.</li>
+</ul>
+">
+
+
+<!ENTITY unsafeContentType.title "Найдваргүй файлын төрөл">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Вэб хуудасны зохиогчтой холбоо барьж уг хүндрэлийг мэдэгдэнэ үү.</li>
+</ul>
+">
+<!ENTITY netReset.title "Холболт шинэчлэгдсэн">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Холболтын цаг дууссан">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Хаяг ойлгогдоогүй">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Та энэ хаягийг нээхийн тулд магадгүй өөр програм суулгах хэрэгтэй байж болзошгүй.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "Прокси сервер холболтоос татгалзлаа">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Проксигийн тохиргоо зөв эсэхийг шалгана уу.</li>
+  <li>Прокси сервер ажиллаж буй эсэхийг сүлжээ зохицуулагчаас лавлана уу.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "Прокси серверийг олж чадсангүй">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Проксигийн тохиргоо зөв эсэхийг шалгана уу.</li>
+  <li>Таны компьютер ажиллагаатай сүлжээнд холбогдсон эсэхээ шалга.</li>
+  <li>Хэрэв таны компьютер эсвэл сүлжээ галт хана, эсвэл проксигоор хамгаалагдсан бол
+    &brandShortName;-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "Хуудсанд зөв дамжуулалт хийгдсэнгүй">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Энэ хүндрэл заримдаа күүкиг хорих юм уу татгалзсан үед гардаг.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Хүсээгүй үед ирсэн серверийн хариулт">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Та компьютерт Хувийн нууцлалын зохицуулагч суулгасан эсэхээ шалгана уу.</li>
+  <li>Энэ магадгүй сервер дээр стандарт бус тохиргуулга хийсэнтэй холбоотой.</li>
+</ul>
+">
+
+
+<!ENTITY nssFailure2.title "Нууцлалын холболтын алдаа">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>Хүлээж авсан өгөгдлийг шалгаж чадахгүйн улмаас танд энэ хуудсыг харуулах боломжгүй байна. </li>
+  <li>Хуудасны зохиогчтой холбоо барьж уг хүндрэлийг мэдэгдэнэ үү. Эсвэл тусламж цэсэнд буй тушаалыг ашиглаж уг хуудасны алдааг мэдэгдэж болно.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Нууцлалын холболтын алдаа">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Энэ хүндрэл нь серверийн тохиргооноос юмуу эсвэл хэн нэгэн уг сервертэй ижил үйлдэл гүйцэтгэж буй мэт оролдлого хийсэн байж болох юм.</li>
+  <li>Хэрэв та урьд нь уг сервертэй амжилттай холбогдож байсан бол энэ алдаа нь түр зуурынх байж болох бөгөөд тийм тохиолдолд түр азнаад дахин оролдоно уу.</li>
+</ul>
+">
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Хуудас түр хугацаагаар хаагдсан, эсвэл завгүй байж магадгүй. Хэсэг хугацааны дараа
+    дахин оролдоно уу.</li>
+  <li>Хэрэв та ямар ч хуудас дуудаж чадахгүй байгаа бол компьютерийнхээ сүлжээг
+    шалгаарай.</li>
+  <li>Хэрэв таны компьютер эсвэл сүлжээ галт хана, эсвэл проксигоор хамгаалагдсан бол
+    &brandShortName;-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "Сэжигтэй довтлогч хуудас!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Довтлогч хуудас нь програм суулгаад таны мэдээллийг хулгайлах оролдлого хийх эсвэл таны компьютерийг ашиглаж бусдын компьютер луу довтлох эсвэл таныхыг эвдэх зэрэг хорлонтой үйлдлүүд хийдэг.</p>
+<p>Хэрэв вэб хуудасны зохиогч нар өөрийнх нь хуудас довтлогч хуудас хэмээн мэдээлэгдсэн байвал <a href='http://www.stopbadware.org/home/reviewinfo' > хуудас уруу хандаж шалгуулна уу</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Вэб хууралт хийгч сэжигтэй хуудас!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Энэ хуудсанд хувийн мэдээллээ оруулбал хулгайлагдах юмуу буруугаар хэрэглэгдэх муу үр дүнд хүргэж болзошгүй.</p>
+<p>Ийм төрлийн хууралт нь таны орж буй хуудсанд таны захианы хаяг зэргийг итгүүлж аваад хуурч ашиглах зорилготой байдаг.</p>
+">
+
+<!ENTITY securityOverride.linkText "Эсвэл та зарим онцгой тохиолдлууд нэмж болно…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Эндээс намайг гарга!">
+<!ENTITY securityOverride.exceptionButtonLabel "Онцгойлж зааж өгөх…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningText "
+<p>Хэрэв та интернэт холболттой бөгөөд уг хуудсанд тэр чигээр нь итгээгүй юмуу эсвэл уг сервер дээр урьд нь ийм алдаа харж байгаагүй бол онцгой тохиолдол нэмэх шаардлагаггүй.</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">

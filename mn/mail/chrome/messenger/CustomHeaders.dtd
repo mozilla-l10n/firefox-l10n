@@ -1,0 +1,7 @@
+<!ENTITY addButton.accesskey "э">
+<!ENTITY addButton.label "Нэм">
+<!ENTITY newMsgHeader.accesskey "Ш">
+<!ENTITY newMsgHeader.label "Шинэ захианы толгой хэсэг:">
+<!ENTITY removeButton.accesskey "р">
+<!ENTITY removeButton.label "Арилга">
+<!ENTITY window.title "Толгой хэсгийг өөрчлөх">

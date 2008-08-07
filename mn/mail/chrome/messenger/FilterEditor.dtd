@@ -1,0 +1,37 @@
+<!ENTITY window.title "Шүүх дүрэм">
+
+<!ENTITY filterName.label "Шүүлтийн нэр:">
+<!ENTITY filterName.accesskey "и">
+
+<!ENTITY junk.label "Тэнэмэл захиа">
+<!ENTITY notJunk.label "Тэнэмэл биш">
+
+<!ENTITY lowestPriorityCmd.label "хамгийн бага">
+<!ENTITY lowPriorityCmd.label "бага">
+<!ENTITY normalPriorityCmd.label "Энгийн">
+<!ENTITY highPriorityCmd.label "өндөр">
+<!ENTITY highestPriorityCmd.label "хамгийн өндөр">
+
+<!ENTITY conditionDesc.label "Ирж буй захианд:">
+<!ENTITY filterActionDesc.label "Дараах үйлдлийг гүйцэтгэ:">
+<!ENTITY filterActionDesc.accesskey "г">
+
+<!ENTITY newFolderButton.label "Шинэ сан…">
+<!ENTITY newFolderButton.accesskey "э">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Дараах санд зөө">
+<!ENTITY copyMessage.label "Захиаг энд хуул">
+<!ENTITY forwardTo.label "Дамжуулах хаяг:">
+<!ENTITY replyWithTemplate.label "Загвар захиа хэрэглэн хариул:">
+<!ENTITY markMessageRead.label "Захиаг уншсан гэж тэмдэглэ">
+<!ENTITY markMessageStarred.label "Од нэм">
+<!ENTITY setPriority.label "Давуу эрх өг:">
+<!ENTITY addTag.label "Захианы таглаа">
+<!ENTITY setJunkScore.label "Тэнэмэл төлөв суулга:">
+<!ENTITY deleteMessage.label "Захиаг устга">
+<!ENTITY deleteFromPOP.label "Pop3 серверээс устга">
+<!ENTITY fetchFromPOP.label "POP серверээс устга">
+<!ENTITY ignoreThread.label "Дарааллыг үл тоо">
+<!ENTITY watchThread.label "Дарааллыг харах">
+<!ENTITY stopExecution.label "Шүүлтүүрийн гүйцэтгэлийг зогсоо">

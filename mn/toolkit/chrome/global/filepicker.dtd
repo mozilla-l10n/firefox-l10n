@@ -1,0 +1,15 @@
+<!ENTITY filterMenuList.accesskey "т">
+<!ENTITY filterMenuList.label "Файлын төрөл:">
+<!ENTITY folderHome.tooltiptext "Эхлэл дээр оч">
+<!ENTITY folderNew.tooltiptext "Шинэ сан үүсгэ">
+<!ENTITY folderUp.tooltiptext "Нэг үе дээш оч">
+<!ENTITY lastModified.label "Сүүлд өөрчилсөн">
+<!ENTITY lookInMenuList.accesskey "Х">
+<!ENTITY lookInMenuList.label "Хайх газар:">
+<!ENTITY name.label "Нэр">
+<!ENTITY noPermissionError.label "Танд энэ санг харах зөвшөөрөл алга байна.">
+<!ENTITY showHiddenFiles.accesskey "Н">
+<!ENTITY showHiddenFiles.label "Нуугдмал файл болон санг харуул">
+<!ENTITY size.label "Хэмжээ">
+<!ENTITY textInput.accesskey "н">
+<!ENTITY textInput.label "Файлын нэр:">

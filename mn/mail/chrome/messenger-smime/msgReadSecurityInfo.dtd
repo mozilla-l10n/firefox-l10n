@@ -1,0 +1,7 @@
+<!ENTITY email.address "Захианы хаяг:">
+<!ENTITY encryptionCert.label "Гэрчилгээний нууцлалын хувиргалтыг харах">
+<!ENTITY issuer.name "Гэрчилгээ зохиосон:">
+<!ENTITY recipient.name "Нууц хувиргалт хийгдсэн:">
+<!ENTITY signatureCert.label "Гарын үсгийн гэрчилгээг харах">
+<!ENTITY signer.name "Гарын үсэг зурсан:">
+<!ENTITY status.label "Захианы нууцлал">

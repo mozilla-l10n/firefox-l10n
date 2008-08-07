@@ -1,0 +1,12 @@
+<!ENTITY addNewToolbar.label		"Шинэ багажит самбар нэм">
+<!ENTITY dialog.title				"Багажит самбарыг өөрчил">
+<!ENTITY dialog.style				"width: 635px; height: 400px;">
+<!ENTITY icons.label				"Тэмдэгт зураг">
+<!ENTITY iconsAndText.label			"Тэмдэгт зураг ба текст">
+<!ENTITY instructions.description	"Та самбараас юм арилгах эсвэл нэмэхдээ чирж тавин гүйцэтгэж болно.">
+<!ENTITY restoreDefaultSet.label	"Анхны тохиргоог сэргээ">
+<!ENTITY saveChanges.label			"Гүйцэтгэгдсэн">
+<!ENTITY show.label					"Харуул:">
+<!ENTITY text.label					"Текст">
+<!ENTITY undoChanges.label			"Өөрчлөлтийг буцаа">
+<!ENTITY useSmallIcons.label		"Жижиг тэмдэгт зураг хэрэглэ">

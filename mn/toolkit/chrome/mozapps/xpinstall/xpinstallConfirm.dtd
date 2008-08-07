@@ -1,0 +1,9 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "Програм суулгац">
+<!ENTITY dialog.style            "width: 52em">
+<!ENTITY warningMain.label "Та зөвхөн итгэдэг эх үүсвэрээс програм суулгах хэрэгтэй.">
+<!ENTITY warningSecondary.label "Зарим програм нь таны хувийн мэдээллийг илрүүлэх эсвэл компьютер эвдэх чадвартай байдаг.">
+
+<!ENTITY from.label "хаанаас:">
+

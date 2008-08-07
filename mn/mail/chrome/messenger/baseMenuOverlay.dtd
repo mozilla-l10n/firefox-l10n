@@ -1,0 +1,26 @@
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "Тусламж">
+<!ENTITY helpMenu.accesskey "с">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Тусламж">
+<!ENTITY helpMenuWin.accesskey "с">
+<!ENTITY releaseCmd.label "Хувилбарын тэмдэглэл">
+<!ENTITY releaseCmd.accesskey "а">
+<!ENTITY openHelp.label "Тусламжийн бүтэц">
+<!ENTITY openHelp.accesskey "ц">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "&brandShortName; тусламж">
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey           "/">
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
+
+<!ENTITY updateCmd.label "Шинэчлэл буйг шалга…">
+<!ENTITY updateCmd.accesskey "б">
+<!ENTITY aboutCmd.label "&brandFullName;-н тухай">
+<!ENTITY aboutCmd.accesskey "й">
+

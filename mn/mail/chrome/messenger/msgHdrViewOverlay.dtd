@@ -1,0 +1,73 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY bccField.label "Хуулбар2:">
+<!ENTITY ccField.label "Хуулбар:">
+<!ENTITY copyLinkCmd.accesskey "я">
+<!ENTITY copyLinkCmd.label "Холбоос хаягийг сануул">
+<!ENTITY dateField.label "Огноо:">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "Б">
+<!ENTITY deleteAllAttachmentsCmd.label "Бүгдийг устга…">
+<!ENTITY deleteAttachmentCmd.label "Устга">
+<!ENTITY detachAllAttachmentsCmd.accesskey "ү">
+<!ENTITY detachAllAttachmentsCmd.label "Бүгдийг үл хавсарга">
+<!ENTITY detachAttachmentCmd.label "Үл хавсарга…">
+<!ENTITY editMessage.label "Ноорог засварла…">
+<!ENTITY followupToField.label "Дагалдаж-Хэнд">
+<!ENTITY tagsHdr.label "Таг: ">
+<!ENTITY fromField.label "Хэнээс:">
+<!ENTITY newsgroupsField.label "Мэдээний груп:">
+<!ENTITY openAttachmentCmd.accesskey "Н">
+<!ENTITY openAttachmentCmd.label "Нээ">
+<!ENTITY organizationField.label "Байгууллага:">
+<!ENTITY originalWebsite.label "Вэб хуудас:">
+<!ENTITY replyToField.label "Хариулах хаяг:">
+<!ENTITY saveAll.label "Бүгдийг хадгал…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "Б">
+<!ENTITY saveAllAttachmentsCmd.label "Бүгдийг хадгал…">
+<!ENTITY saveAsAttachmentCmd.accesskey "х">
+<!ENTITY saveAsAttachmentCmd.label "Нэр өгч хадгал…">
+<!ENTITY senderField.label "Илгээгч:">
+<!ENTITY subjectField.label "Гарчиг">
+<!ENTITY toField.label "Хэнд:">
+<!ENTITY userAgentField.label "Хэрэглэгчийн-Агент">
+<!ENTITY referencesField.label "Лавлах хаяг: ">
+<!ENTITY messageIdField.label "Захианы дугаар: ">
+<!ENTITY inReplyToField.label "Хариулах хаяг: ">
+<!ENTITY CopyMessageId.label "Захианы дугаарыг хуул">
+<!ENTITY OpenMessageForMsgId.label "Захиаг дугаараар нь нээ">
+<!ENTITY OpenBrowserWithMsgId.label "Захиаг дугаараар хөтлөгчинд нээ">

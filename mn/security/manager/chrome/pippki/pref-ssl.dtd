@@ -1,0 +1,26 @@
+<!ENTITY SSLClientAuthMethod.caption            "Хэрэглэгчийн гэрчилгээний сонголт">
+<!ENTITY SSLProtocolVersions.caption            "SSL протоколын хувилбар">
+<!ENTITY SSLWarnings.caption                    "SSL Анхааруулга">
+<!ENTITY certselect.ask                         "Үргэлж асуу">
+<!ENTITY certselect.ask.accesskey               "Ү">
+<!ENTITY certselect.auto                        "Автоматаар сонго">
+<!ENTITY certselect.auto.accesskey              "в">
+<!ENTITY certselect.description                 "Вэб хуудаснаас шаардагдсан нууцлалын гэрчилгээг &brandShortName; сонгохдоо ">
+<!ENTITY enable.ssl3                            "SSL хувилбар 3 зөвшөөр">
+<!ENTITY enable.ssl3.accesskey                  "3">
+<!ENTITY enable.tls                             "TLS зөвшөөр">
+<!ENTITY enable.tls.accesskey                   "T">
+<!ENTITY pref.ssl.title                         "Нууц дамжуулалтын давхрага (SSL)">
+<!ENTITY warn.description                       "&brandShortName; таны үзэж буй вэб хуудасны нууцлалын төлөв байдлыг танд анхааруулж чадна. Дараах үйлдлийг хийхээс өмнө &brandShortName; танд анхааруулж мөн зөвшөөрөл асуу:">
+<!ENTITY warn.enteringsecure                    "Нууцлалтай хуудас дуудах үед">
+<!ENTITY warn.enteringsecure.accesskey          "Н">
+<!ENTITY warn.enteringweak                      "Бага түвшний нууцлалтай хуудас дуудах үед">
+<!ENTITY warn.enteringweak.accesskey            "Б">
+<!ENTITY warn.insecurepost                      "Хүснэгтийн өгөгдлийг нууцлалгүй хуудаснаас нууцлалгүй хуудас руу илгээх">
+<!ENTITY warn.insecurepost.accesskey            "Х">
+<!ENTITY warn.leavingsecure                     "Нууцлалтай хуудас орхих үед">
+<!ENTITY warn.leavingsecure.accesskey           "ц">
+<!ENTITY warn.secureredirect                    "Нэг нууцлалтай хуудаснаас өөр нууцлалтай хуудас руу дамжигдах үед">
+<!ENTITY warn.secureredirecttoinsecure          "Нууцлалтай хуудаснаас нууцлалгүй хуудас руу дамжих үед">
+<!ENTITY warn.viewmixed                         "Нууцлалтай/Нууцлалгүй холилдсон хуудас үзэх үед">
+<!ENTITY warn.viewmixed.accesskey               "у">

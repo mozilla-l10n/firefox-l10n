@@ -1,0 +1,22 @@
+<!ENTITY window.title                 "Тодорхойлж өгөх">
+<!ENTITY window.width                 "36em">
+
+<!ENTITY treehead.sitename.label      "Хуудас">
+<!ENTITY treehead.status.label        "Төлөв байдал">
+
+<!ENTITY removepermission.label       "Хуудсыг устга">
+<!ENTITY removepermission.accesskey   "у">
+<!ENTITY removeallpermissions.label   "Бүх хуудсыг устга">
+<!ENTITY removeallpermissions.accesskey "Б">
+<!ENTITY address.label                "Вэб хуудасны хаяг:">
+<!ENTITY block.label                  "Хорих">
+<!ENTITY block.accesskey              "р">
+<!ENTITY session.label                "Тухайн хэсэгт зөвшөөр">
+<!ENTITY session.accesskey            "з">
+<!ENTITY allow.label                  "Зөвшөөр">
+<!ENTITY allow.accesskey              "ш">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.close.label           "Хаа">
+<!ENTITY button.close.accesskey       "Х">
+

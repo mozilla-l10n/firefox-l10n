@@ -1,0 +1,5 @@
+<!ENTITY window.title              "Сан сонгох">
+<!ENTITY window.style              "width: 36em; height: 18em;">
+<!ENTITY moveTo.label              "Зөөх газар:">
+<!ENTITY newFolderButton.label     "Шинэ сан">
+<!ENTITY newFolderButton.accesskey "Ш">

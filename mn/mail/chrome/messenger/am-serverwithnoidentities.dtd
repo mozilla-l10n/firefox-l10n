@@ -1,0 +1,12 @@
+<!ENTITY accountName.accesskey "Б">
+<!ENTITY accountName.label "Бүртгэлийн нэр:">
+<!ENTITY accountSettingsDesc.label "Дараах бүртгэл бол онцгой бүртгэл байна. Үүнтэй хамаатай таних мэдээлэл алга.">
+<!ENTITY accountTitle.label "Бүртгэлийн тохиргоо">
+<!ENTITY browseFolder.accesskey "ө">
+<!ENTITY browseFolder.label "Зааж өг…">
+<!ENTITY emptyTrashOnExit.accesskey "в">
+<!ENTITY emptyTrashOnExit.label "Гарах үед хогийн савыг хоосол">
+<!ENTITY localFolderPicker.label "Дотоод санг сонго">
+<!ENTITY localPath.accesskey "Д">
+<!ENTITY localPath.label "Дотоод сан:">
+<!ENTITY messageStorage.label "Захианы хадгалалт">

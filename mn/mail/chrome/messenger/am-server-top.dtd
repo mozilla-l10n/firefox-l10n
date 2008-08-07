@@ -1,0 +1,80 @@
+<!ENTITY abbreviate.label "Захианы групын нэрийг Захианы санд харуулахдаа:">
+<!ENTITY abbreviateOff.label "Товчилсон нэр (Жишээлбэл, 'n.p.m.mail-news')">
+<!ENTITY abbreviateOn.label "Бүтэн нэр (Жишээлбэл, 'netscape.public.mozilla.mail-news')">
+<!ENTITY advancedButton.accesskey "э">
+<!ENTITY advancedButton.label "Нэмэгдэл…">
+<!ENTITY alwaysAuthenticate.accesskey "э">
+<!ENTITY alwaysAuthenticate.label "Энэ сервертэй холбогдох үед үргэлж нэр болон нууц үгээ шалгуул.">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY biffEnd.label "минут">
+<!ENTITY biffStart.accesskey "д">
+<!ENTITY biffStart.label "Шинэ захиа шалгах давтамж">
+<!ENTITY browseFolder.accesskey "ө">
+<!ENTITY browseFolder.label "Зааж өг…">
+<!ENTITY browseNewsrc.accesskey "ж">
+<!ENTITY browseNewsrc.label "Зааж өг…">
+<!ENTITY daysEnd.label "өдөр">
+<!ENTITY deleteByAgeFromServer.accesskey "а">
+<!ENTITY deleteByAgeFromServer.label "Хамгийн">
+<!ENTITY modelMoveToTrash.label "Энэ санд зөө:">
+<!ENTITY modelMoveToTrash.accesskey "Э">
+<!ENTITY modelMarkDeleted.label "Зүгээр л устгасан мэт тэмдэглэ">
+<!ENTITY modelMarkDeleted.accesskey "У">
+<!ENTITY deleteMessagePrefix.label "Намайг захиа устгах үед:">
+<!ENTITY deleteOnServer2.accesskey "с">
+<!ENTITY deleteOnServer2.label "Намайг захиа устгавал сервер дээрээс уг захиаг устга">
+<!ENTITY downloadOnBiff.accesskey "а">
+<!ENTITY downloadOnBiff.label "Автоматаар шинэ захиаг татаж ав">
+<!ENTITY emptyTrashOnExit.accesskey "х">
+<!ENTITY emptyTrashOnExit.label "Гарах үед Хогийн савыг хоосол">
+<!ENTITY expungeOnExit.accesskey "э">
+<!ENTITY expungeOnExit.label "(&quot;Expunge&quot;) Ирсэн захиа санг гарах үед цэвэрлэ">
+<!ENTITY headersOnly.accesskey "З">
+<!ENTITY headersOnly.label "Зөвхөн нөхөх толгой хэсгийг">
+<!ENTITY hostname.label "Сервер компьютерийн нэр">
+<!ENTITY imapServer.label "IMAP Захианы сервер">
+<!ENTITY isSecure.accesskey "х">
+<!ENTITY isSecure.label "Нууцлалтай холболт хэрэглэ (SSL)">
+<!ENTITY leaveOnServer.accesskey "с">
+<!ENTITY leaveOnServer.label "Захиануудыг сервер дээр үлдээ">
+<!ENTITY localFolderPicker.label "Дотоод санг сонго">
+<!ENTITY localPath.accesskey "Д">
+<!ENTITY localPath.label "Дотоод сан:">
+<!ENTITY loginAtStartup.accesskey "ш">
+<!ENTITY loginAtStartup.label "Эхлэх үед шинэ захиа шалга">
+<!ENTITY maxMessagesEnd.label "захиа">
+<!ENTITY maxMessagesStart.accesskey "т">
+<!ENTITY maxMessagesStart.label "Дараах тооноос хэтэрсэн захиа татаж авахын өмнө надаас асуу">
+<!ENTITY modelDeleteImmediately.label "Үүнийг шууд устга">
+<!ENTITY modelDeleteImmediately.accesskey "ү">
+
+<!ENTITY neverSecure.accesskey "ү">
+<!ENTITY neverSecure.label "Хэзээ ч үл">
+<!ENTITY newsServer.label "Мэдээний сервер (NNTP)">
+<!ENTITY newsrcFilePath.accesskey "э">
+<!ENTITY newsrcFilePath.label "Мэдээний эх файл:">
+<!ENTITY newsrcPicker.label "Мэдээний эх файлыг сонго">
+<!ENTITY popServer.label "POP Захианы сервер">
+<!ENTITY popServerTitle.label "POP серверийн мэдээлэл">
+<!ENTITY port.accesskey "р">
+<!ENTITY port.label "Порт:">
+<!ENTITY savePassword.label "Нууц үг хадгал">
+<!ENTITY securitySettings.label "Нууцлалын тохируулга:">
+<!ENTITY serverDefaultCharset.label "Анхны тэмдэг хувиргуур:">
+<!ENTITY serverName.accesskey "н">
+<!ENTITY serverName.label "Серверийн нэр:">
+<!ENTITY serverPortDefault.label "Анхных:">
+<!ENTITY serverSettings.label "Сервер тохиргоо:">
+<!ENTITY serverType.label "Серверийн төрөл:">
+<!ENTITY socketType.label "Нууцлалтай холболт хэрэглэ">
+<!ENTITY sometimesSecure.accesskey "ж">
+<!ENTITY sometimesSecure.label "TLS, боломжтой бол">
+<!ENTITY useSecAuth.accesskey "т">
+<!ENTITY useSecAuth.label "Нууцлалтай таньж нэвтрүүлэх үйлдлийг хэрэглэ">
+<!ENTITY userName.accesskey "э">
+<!ENTITY userName.label "Хэрэглэгчийн нэр:">
+<!ENTITY username.label "Таны холбогдох нэр">
+<!ENTITY webmail.label "ВэбЗахианы бүртгэл">

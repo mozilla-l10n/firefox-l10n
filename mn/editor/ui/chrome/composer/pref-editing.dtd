@@ -1,0 +1,28 @@
+<!ENTITY  pref.editing.title		   "Шинэ хуудасны тохиргоо">
+
+<!ENTITY  authorName.label          "Зохиогч:">
+<!ENTITY  authorName.accesskey      "о">
+<!ENTITY  pageColorHeader           "Анхдагч хуудасны харагдац">
+
+<!ENTITY defaultColorsRadio.label   "Уншигчийн анхны өнгө (Хуудсанд өнгө бүү өг)">
+<!ENTITY defaultColors.accesskey    "а">
+<!ENTITY customColorsRadio.label    "Дурын өнгө хэрэглэ:">
+<!ENTITY customColors.accesskey     "д">
+
+<!ENTITY normalText.label           "Энгийн текст">
+<!ENTITY normalText.accesskey       "Э">
+<!ENTITY linkText.label             "Холбоос текст">
+<!ENTITY linkText.accesskey         "Х">
+<!ENTITY activeLinkText.label       "Идэвхитэй холбоос текст">
+<!ENTITY activeLinkText.accesskey   "И">
+<!ENTITY visitedLinkText.label      "Зорчсон холбоос текст">
+<!ENTITY visitedLinkText.accesskey  "З">
+<!ENTITY background.label           "Арын дэвсгэр:">
+<!ENTITY background.accesskey       "А">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "Арын дэвсгэр зураг:">
+<!ENTITY backgroundImage.accesskey  "з">
+<!ENTITY chooseFile.label           "Файл сонго...">
+<!ENTITY chooseFile.accesskey       "л">
+

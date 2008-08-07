@@ -1,0 +1,25 @@
+<!ENTITY sanitizeDialog.title "Хувийн өгөгдлийг устга">
+
+<!ENTITY sanitizeItems.label "Дараах зүйлсийг одоо арилга:">
+<!ENTITY clearDataSettings.label      "Намайг хувийн өгөгдөл устга гэж &brandShortName;-с асуух үед дараах өгөгдлүүдийг устга:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label "Хуудсанд зорчсон түүх">
+<!ENTITY itemHistory.accesskey        "с">
+<!ENTITY itemFormSearchHistory.label "Хадгалагдсан хүснэгт ба хайлтын түүх">
+<!ENTITY itemFormSearchHistory.accesskey       "д">
+<!ENTITY itemPasswords.label "Хадгалагдсан нууц үгс">
+<!ENTITY itemPasswords.accesskey      "ц">
+<!ENTITY itemCookies.label "Күүки">
+<!ENTITY itemCookies.accesskey        "к">
+<!ENTITY itemCache.label "Түр хадгалагч">
+<!ENTITY itemCache.accesskey          "ч">
+<!ENTITY itemOfflineApps.label        "Салангид хуудасны өгөгдөл">
+<!ENTITY itemOfflineApps.accesskey    "ө">
+<!ENTITY itemDownloads.label "Татаж авсан түүх">
+<!ENTITY itemDownloads.accesskey      "ж">
+<!ENTITY itemSessions.label           "Нэвтэрсэн хэсгийн өгөгдлүүд">
+<!ENTITY itemSessions.accesskey       "т">
+<!ENTITY window.width                 "30em">
+

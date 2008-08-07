@@ -1,0 +1,16 @@
+<!ENTITY addressbookPicker.label            "Хаягийн тэмдэглэл:">
+<!ENTITY addressbookPicker.accesskey        "а">
+<!ENTITY searchInput.label                  "Хайх:">
+<!ENTITY searchInput.accesskey              "й">
+<!ENTITY SearchNameOrEmail.label            "Нэр эсвэл Захианы хаяг">
+
+<!ENTITY addtoToFieldMenu.label             "Хэнд гэсэн талбарт нэм">
+<!ENTITY addtoCcFieldMenu.label             "Хуулбар гэсэн талбарт нэм">
+<!ENTITY addtoBccFieldMenu.label            "Хуулбар1 гэсэн талбарт нэм">
+
+<!ENTITY toButton.label                     "Хэнд гэсэн дээр нэм:">
+<!ENTITY toButton.accesskey                 "н">
+<!ENTITY ccButton.label                     "Хуулбар гэсэн дээр нэм:">
+<!ENTITY ccButton.accesskey                 "у">
+<!ENTITY bccButton.label                    "Хуулбар2 луу нэм:">
+<!ENTITY bccButton.accesskey                "р">

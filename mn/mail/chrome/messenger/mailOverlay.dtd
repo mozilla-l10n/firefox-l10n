@@ -1,0 +1,6 @@
+<!ENTITY newCardCmd.accesskey "к">
+<!ENTITY newCardCmd.label "Хаягийн тэмдэглэл карт…">
+<!ENTITY newMessageCmd.accesskey "з">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Захиа">
+<!ENTITY newMessageCmd2.key "N">

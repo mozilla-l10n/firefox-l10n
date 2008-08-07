@@ -1,0 +1,66 @@
+<!ENTITY itemGeneral.label                   "Ерөнхийl">
+<!ENTITY itemAutoComplete.label              "Хаяглалт">
+<!ENTITY itemSpellCheck.label                "Үгийн алдаа шалгах">
+<!ENTITY itemSendFormat.label                "Илгээх хэлбэр">
+
+<!ENTITY forwardReply.label                   "Захиаг дамжуулж байна">
+<!ENTITY forwardMsg.label                     "Захиаг дамжуул:">
+<!ENTITY forwardMsg.accesskey                 "ж">
+<!ENTITY inline.label                         "Дотор нь">
+<!ENTITY inline.accesskey                     "н">
+<!ENTITY asAttachment.label                   "Хавсралт мэт">
+<!ENTITY asAttachment.accesskey               "а">
+<!ENTITY addExtension.label                   "файлын нэрэнд өргөтгөл нэм">
+<!ENTITY addExtension.accesskey               "й">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Үсгийн маяг:">
+<!ENTITY font.accesskey                       "я">
+<!ENTITY size.label                           "Хэмжээ:">
+<!ENTITY size.accesskey                       "ж">
+<!ENTITY fontColor.label                      "Текст:">
+<!ENTITY fontColor.accesskey                  "т">
+<!ENTITY bgColor.label                        "Ар дэвсгэр:">
+<!ENTITY bgColor.accesskey                    "в">
+
+<!ENTITY restoreHTMLDefaults.label    "Анхны горимыг сэргээ:">
+<!ENTITY restoreHTMLDefaults.accesskey           "г">
+<!ENTITY sendingMessagesHeader.label          "Захиа бичиж байна">
+<!ENTITY spellCheck.label                     "Илгээхээс өмнө үгийн алдааг шалга">
+<!ENTITY spellCheck.accesskey                 "И">
+<!ENTITY spellCheckInline.label               "Бичиж байх үед үгийн алдааг шалга">
+<!ENTITY spellCheckInline1.accesskey           "ч">
+<!ENTITY languagePopup.label                  "Хэл:">
+<!ENTITY languagePopup.accessKey              "э">
+<!ENTITY downloadDictionaries.label           "Бусад толь бичиг татаж авах">
+
+<!ENTITY useMIME.label                        "8 бит тэмдэгт агуулсан захианд 'хэвлэгдэхээр хашилт' MIME хувиргуур хэрэглэ">
+<!ENTITY useMIME.accesskey                    "б">
+<!ENTITY warnOnSendAccelKey.label             "Захиа илгээхдээ гарын товчлуур хэрэглэвэл лавлаж асуу">
+<!ENTITY warnOnSendAccelKey.accesskey         "х">
+<!ENTITY autoSave.label                       "Автоматаар хадгалах хэмнэл">
+<!ENTITY autoSave.accesskey                   "в">
+<!ENTITY autoSaveEnd.label                    "минут">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Текст захианд мөр нугарах тэмдэгт">
+<!ENTITY wrapOutMsg.accesskey                 "е">
+<!ENTITY char.label                           "тэмдэгт">
+
+<!ENTITY emailCollectionPicker.label           "Илгээгдэж буй захианы хаягийг автоматаар миний энд хадгал:">
+<!ENTITY emailCollectionPicker.accesskey       "л">
+<!ENTITY addressingTitle.label                 "Хаягийн гүйцээлт">
+<!ENTITY autocompleteText.label                "Захиаг хаяглах үед тохирох оруулгыг хайх газар:">
+<!ENTITY addressingEnable.label                "Хаягийн дотоод тэмдэглэлд">
+<!ENTITY addressingEnable.accesskey            "я">
+<!ENTITY directories.label                     "Сангийн сервер:">
+<!ENTITY directories.accesskey                 "С">
+<!ENTITY editDirectories.label                 "Санг засварла…">
+<!ENTITY editDirectories.accesskey             "з">
+<!ENTITY matchText.label                       "Хэрэв таны дотоод хаягийн тэмдэглэлд тохирол олдвол:">
+<!ENTITY skipDirectory.label                   "Санд бүү хай">
+
+<!ENTITY sendOptionsCaption.label              "Илгээх ба HTML Сонголт">
+<!ENTITY sendOptionsDescription.label          "Текст хэлбэрийн тохиргоо">
+<!ENTITY sendOptions.label                     "Илгээх сонголт…">
+<!ENTITY sendOptions.accesskey                 "л">
+
