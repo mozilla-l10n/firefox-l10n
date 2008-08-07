@@ -1,0 +1,22 @@
+<!ENTITY newMessageCmd.label "Wiadomość">
+<!ENTITY newMessageCmd.accesskey "i">
+<!ENTITY newMessageCmd.key "M">
+
+<!ENTITY newCardCmd.label "Wizytówka…">
+<!ENTITY newCardCmd.accesskey "W">
+
+<!ENTITY sendPage.label "Wyślij stronę…">
+<!ENTITY sendPage.accesskey "s">
+
+<!ENTITY contextSendThisPage.label "Send This Page…">
+<!ENTITY contextSendThisPage.accesskey "d">
+<!ENTITY contextSendThisLink.label "Send This Link…">
+<!ENTITY contextSendThisLink.accesskey "k">
+<!ENTITY contextSendImage.label "Wyślij obrazek…">
+<!ENTITY contextSendImage.accesskey "o">
+<!ENTITY contextSendFrame.label "Wyślij ramkę…">
+<!ENTITY contextSendFrame.accesskey "r">
+
+<!ENTITY sendLinkCmd.label "Wyślij odnośnik…">
+<!ENTITY sendLinkCmd.accesskey "d">
+

@@ -1,0 +1,6 @@
+<!ENTITY lang.version "1.9a1">
+<!ENTITY brandFullName "SeaMonkey">
+<!ENTITY brandShortName "SeaMonkey">
+<!ENTITY vendorShortName "SeaMonkey">
+<!ENTITY sidebarName "Panel boczny">
+<!ENTITY copyright.string "Copyright &copy; 2003-2008 Contributors to the Mozilla project.">

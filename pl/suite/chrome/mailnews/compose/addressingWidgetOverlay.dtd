@@ -1,0 +1,8 @@
+<!-- address labels -->
+<!ENTITY toAddr.label "Do:">
+<!ENTITY ccAddr.label "Kopia:">
+<!ENTITY bccAddr.label "Ukryta kopia:">
+<!ENTITY replyAddr.label "Odpowiedź do:">
+<!ENTITY newsgroupsAddr.label "Grupa dyskusyjna:">
+<!ENTITY followupAddr.label "Kontynuacja na:">
+

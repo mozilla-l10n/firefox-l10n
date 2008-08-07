@@ -1,0 +1,79 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.formatting.title "Format wysyłania">
+<!ENTITY sendMail.label "Format wiadomości">
+<!ENTITY sendMaildesc.label "Jeżeli co najmniej jeden z adresatów wiadomości wysyłanej w formacie HTML nie znajduje się na liście osób mogących otrzymywać takie wiadomości, to:">
+<!ENTITY askMe.label "zapytaj, jakiego formatu użyć przy wysłaniu wiadomości">
+<!ENTITY askMe.accesskey "a">
+<!ENTITY convertPlain.label "przekształć wiadomość na format tekstowy (część formatowania może zostać utracona)">
+<!ENTITY convertPlain.accesskey "t">
+<!ENTITY sendHTML.label "Użyj formatu HTML (niektórzy odbiorcy mogą nie odczytać wiadomości)">
+<!ENTITY sendHTML.accesskey "H">
+<!ENTITY sendBoth.label "Prześlij wiadomość w obydwu formatach: HTML oraz tekstowym (zwiększa rozmiar wysyłanej wiadomości)">
+<!ENTITY sendBoth.accesskey "e">
+<!ENTITY override.label "Poniższe ustawienia mogą zostać indywidualnie zmienione dla każdej wiadomości za pomocą menu Opcje, podczas komponowania wiadomości.">
+<!ENTITY receiveHTML.label 'Jeżeli wiadomo, że poszczególni adresaci mogą otrzymywać wiadomości w formacie HTML, należy wybrać opcję "Preferuje otrzymywać wiadomości w formacie HTML" w Książce Adresowej.'>
+
+<!-- Html and Plain Text Domains  -->
+<!ENTITY domain.title "Automatyczny wybór formatu HTML lub tekstowego - ustawienia domen">
+<!ENTITY domaindesc.label "W przypadku wysyłania poczty do adresatów w jednej z poniższych domen, Kurier Poczty automatycznie wybierze właściwy format wiadomości (tekstowy lub HTML). ">
+<!ENTITY HTMLdomaintitle.label "Domeny - format HTML">
+<!ENTITY HTMLdomaintitle.accesskey "h">
+<!ENTITY PlainTexttitle.label "Domeny - format tekstowy">
+<!ENTITY PlainTexttitle.accesskey "t">
+<!ENTITY AddButton.label "Dodaj…">
+<!ENTITY AddHtmlDomain.accesskey "a">
+<!ENTITY AddPlainText.accesskey "d">
+<!ENTITY DeleteButton.label "Usuń">
+<!ENTITY DeleteHtmlDomain.accesskey "U">
+<!ENTITY DeletePlainText.accesskey "s">
+
+<!-- Add HTML Domain Name -->
+<!ENTITY add.htmltitle "Dodaj domenę - HTML">
+<!ENTITY add.htmldomain "Nazwa domeny, której użytkownicy preferują otrzymywanie wiadomości w formacie HTML:">
+<!ENTITY add.htmldomain.accesskey "d">
+<!ENTITY add.plaintexttitle "Dodaj domenę - format tekstowy">
+<!ENTITY add.plaintextdomain "Nazwa domeny, której użytkownicy preferują otrzymywanie wiadomości w formacie tekstowym:">
+<!ENTITY add.plaintext.accesskey "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title "Błąd nazwy domeny">
+<!ENTITY duplicationError.label "Domena @string@ już istnieje na liście.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label "Listy domyślnego formatowania HTML i tekstowego nie mogą zawierać jednakowych domen. Nazwa domeny @string@ istnieje już na jednej z list.">

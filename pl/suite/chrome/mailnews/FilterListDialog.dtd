@@ -1,0 +1,28 @@
+<!ENTITY window.title "Filtry wiadomości">
+<!ENTITY nameColumn.label "Nazwa filtru">
+<!ENTITY activeColumn.label "Włączony">
+<!ENTITY newButton.label "Nowy…">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Edytuj…">
+<!ENTITY editButton.accesskey "e">
+<!ENTITY deleteButton.label "Usuń">
+<!ENTITY deleteButton.accesskey "U">
+<!ENTITY reorderUpButton.label "Przenieś w górę">
+<!ENTITY reorderUpButton.accesskey "g">
+<!ENTITY reorderDownButton.label "Przenieś w dół">
+<!ENTITY reorderDownButton.accesskey "d">
+<!ENTITY filterHeader.label "Włączone filtry będą uruchomione w następującej kolejności.">
+<!ENTITY filtersForPrefix.label "Filtry konta:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Dziennik filtru">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Filtruj">
+<!ENTITY runFilters.accesskey "F">
+<!ENTITY stopFilters.label "Wyłącz">
+<!ENTITY stopFilters.accesskey "W">
+<!ENTITY folderPickerPrefix.label "Zastosuj wybrane filtry w folderze:">
+<!ENTITY folderPickerPrefix.accesskey "Z">
+<!ENTITY choosethis.label "wybierz ten folder">
+<!ENTITY choosethisnewsserver.label "wybierz zaznaczony serwer news">
+<!ENTITY helpButton.label "Pomoc">
+<!ENTITY helpButton.accesskey "P">

@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title "Menedżer pobierania plików">
+<!ENTITY downloadBehavior.label "Rozpoczynając pobieranie plików:">
+<!ENTITY downloadLocation.label "Podczas zapisywania pliku">
+<!ENTITY finishedBehavior.label "Gdy pobieranie zostanie zakończone">
+<!ENTITY openDM.label "Otwórz Menedżera pobierania plików">
+<!ENTITY openDM.accesskey "m">
+<!ENTITY openProgressDialog.label "Wyświetl okno postępu">
+<!ENTITY openProgressDialog.accesskey "p">
+<!ENTITY doNothing.label "Nie otwieraj okna">
+<!ENTITY doNothing.accesskey "N">
+<!ENTITY promptDownload.label "Zapytaj i ustaw wybrany folder jako domyślny">
+<!ENTITY promptDownload.accesskey "r">
+<!ENTITY lastLocation.label "Ostatnio wybrany folder ">
+<!ENTITY lastLocation.accesskey "o">
+<!ENTITY specifiedLocation.label "Wybrany folder">
+<!ENTITY specifiedLocation.accesskey "e">
+<!ENTITY autoDownload.label "Pobieraj pliki automatycznie do wybranego folderu pobierania">
+<!ENTITY autoDownload.accesskey "A">
+<!ENTITY downloadFolder.label "Bieżący folder pobierania:">
+<!ENTITY chooseDownloadFolder.label "Wybierz folder…">
+<!ENTITY chooseDownloadFolder.accesskey "W">
+<!ENTITY playSound.label "Odegraj dźwięk">
+<!ENTITY playSound.accesskey "d">
+<!ENTITY showAlert.label "Pokaż okno">
+<!ENTITY showAlert.accesskey "n">
+<!ENTITY browse.label "Przeglądaj…">
+<!ENTITY browse.accesskey "P">
+<!ENTITY preview.label "Podgląd">
+<!ENTITY preview.accesskey "P">
+<!ENTITY soundURL.label "Adres URL dźwieku:">
+<!ENTITY soundURL.accesskey "U">

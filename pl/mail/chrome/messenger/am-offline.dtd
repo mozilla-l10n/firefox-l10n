@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Pobrane wiadomości przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
+<!ENTITY doNotDownload.label "Wiadomości udostępniane w trybie offline przechowywane są lokalnie na komputerze użytkownika. Aby zaoszczędzić miejsce na dysku:">
+<!ENTITY offlineNewFolder.label "Tworząc nowe foldery automatycznie dodawaj je do listy folderów dostępnych offline">
+<!ENTITY offlineNewFolder.accesskey "f">
+<!ENTITY offlineNotDownload.label "Nie pobieraj wiadomości większych niż">
+<!ENTITY offlineNotDownload.accesskey "p">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "dni">
+<!ENTITY daysOld.label "dni">
+<!ENTITY message.label "najnowszych wiadomości">
+<!ENTITY nntpNotDownloadRead.label "Nie pobieraj treści przeczytanych wiadomości">
+<!ENTITY nntpNotDownloadRead.accesskey "R">
+<!ENTITY nntpDownloadMsg.label "Nie pobieraj treści wiadomości starszych niż">
+<!ENTITY nntpDownloadMsg.accesskey "b">
+<!ENTITY retentionCleanup.label "W celu zaoszczędzenia miejsca na dysku, stare wiadomości mogą być nieodwracalnie usuwane">
+<!ENTITY retentionKeepMsg.label "Usuń wiadomości starsze niż">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Nie usuwaj żadnych wiadomości">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "Usuń wszystko, oprócz">
+<!ENTITY retentionKeepNew.accesskey "w">
+<!ENTITY retentionKeepUnread.label "Zawsze usuwaj przeczytane wiadomości">
+<!ENTITY retentionKeepUnread.accesskey "t">
+<!ENTITY nntpRemoveBody.label "Usuń treść wiadomości starszych niż">
+<!ENTITY nntpRemoveBody.accesskey "U">
+<!ENTITY offlineSelectNntp.label 		"Wybierz grupy dostępne w trybie offline…">
+<!ENTITY offlineSelectNntp.accesskey 		"g">
+<!ENTITY offlineSelectImap.label 		"Wybierz foldery dostępne w trybie offline…">
+<!ENTITY offlineSelectImap.accesskey 		"f">
+<!ENTITY offlineDesc.label "Wiadomości wybranych kont i folderów mogą zostać pobrane z serwera, aby były dostępne w trybie offline. Naciśnij poniższy przycisk, aby dokonać wyboru, które konta lub grupy dyskusyjne będą dostępne w trybie offline.">
+<!ENTITY makeInboxMsgsAvailable.label "Udostępnij wiadomości folderu Odebrane w trybie offline">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Tryb offline">
+<!ENTITY diskspaceGroupTitle.label "Miejsce na dysku">

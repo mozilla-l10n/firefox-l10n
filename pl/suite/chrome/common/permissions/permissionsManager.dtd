@@ -1,0 +1,14 @@
+<!ENTITY windowtitle.label "Wyjątki">
+<!ENTITY treehead.sitename.label "Nazwa witryny">
+<!ENTITY treehead.status.label "Status">
+<!ENTITY remove.label "Usuń witrynę">
+<!ENTITY remove.accesskey "U">
+<!ENTITY removeall.label "Usuń wszystkie witryny">
+<!ENTITY removeall.accesskey "w">
+<!ENTITY address.label "Adres witryny:">
+<!ENTITY block.label "Zablokuj">
+<!ENTITY block.accesskey "b">
+<!ENTITY session.label "Zezwól na czas sesji">
+<!ENTITY session.accesskey "s">
+<!ENTITY allow.label "Zezwól">
+<!ENTITY allow.accesskey "Z">

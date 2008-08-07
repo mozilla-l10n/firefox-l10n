@@ -1,0 +1,19 @@
+<!ENTITY about.version                "wersja">
+
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008">
+<!ENTITY about.copy.linkTitle         "Współtwórcy">
+<!ENTITY about.copy.afterLink         "projektu Mozilla.">
+
+<!ENTITY about.license.beforeLink     "Przeczytaj">
+<!ENTITY about.license.linkTitle      "informacje o licencji">
+<!ENTITY about.license.afterLink      "tego produktu.">
+
+<!ENTITY about.relnotes.beforeLink    "Przeczytaj">
+<!ENTITY about.relnotes.linkTitle     "informacje o wydaniu">
+<!ENTITY about.relnotes.afterLink     "dotyczące tej wersji.">
+
+<!ENTITY about.buildconfig.beforeLink "Zobacz">
+<!ENTITY about.buildconfig.linkTitle  "konfigurację użytą do kompilacji">
+<!ENTITY about.buildconfig.afterLink  "tego wydania.">
+
+<!ENTITY about.buildIdentifier        "Identyfikator kompilacji: ">

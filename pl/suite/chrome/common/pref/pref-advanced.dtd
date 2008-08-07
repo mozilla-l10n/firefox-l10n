@@ -1,0 +1,11 @@
+<!ENTITY pref.advanced.title "Zaawansowane">
+
+<!ENTITY prefEnableJava.caption "Funkcje pomagające w interpretacji stron WWW">
+
+<!ENTITY enbJavaCheck.label "Włącz obsługę języka Java">
+<!ENTITY enbJavaCheck.accesskey "j">
+
+<!ENTITY systemPref.caption "Preferencje systemowe">
+<!ENTITY systemPrefCheck.label "Pobierz ustawienia z systemu">
+<!ENTITY systemPrefCheck.accesskey "s">
+<!ENTITY systemPref.desc "With this option, &brandShortName; inherits preferences from the system. These system settings will override the &brandShortName; preferences.">

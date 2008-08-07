@@ -1,0 +1,33 @@
+<!ENTITY tab.cookiesonsystem.label "Zachowane ciasteczka">
+<!ENTITY tab.bannedservers.label "Ustawienia akceptacji ciasteczek">
+<!ENTITY div.bannedservers.label "Zarządzaj polityką akceptacji ciasteczek.">
+<!ENTITY div.cookiesonsystem.label "Lista ciasteczek przechowywanych na komputerze użytkownika.">
+<!ENTITY treehead.cookiename.label "Nazwa ciasteczka">
+<!ENTITY treehead.cookiedomain.label "Witryna">
+<!ENTITY treehead.cookieexpires.label "Wygasa">
+<!ENTITY treehead.infoselected.label "Informacje o wybranym ciasteczku">
+<!ENTITY button.removecookie.label "Usuń ciasteczko">
+<!ENTITY button.removeallcookies.label "Usuń wszystkie ciasteczka">
+
+<!ENTITY props.name.label "Nazwa:">
+<!ENTITY props.value.label "Zawartość:">
+<!ENTITY props.domain.label "Host:">
+<!ENTITY props.path.label "Ścieżka:">
+<!ENTITY props.secure.label "Wysyłaj:">
+<!ENTITY props.expires.label "Wygasa:">
+
+<!ENTITY treehead.sitename.label "Witryna">
+<!ENTITY treehead.status.label "Status">
+<!ENTITY windowtitle.label "Menedżer ciasteczek">
+<!ENTITY buttonaccept.label "Close">
+
+<!ENTITY blockSite.label "Blokuj">
+<!ENTITY allowSite.label "Zezwól">
+<!ENTITY allowSiteSession.label "Sesja">
+<!ENTITY removepermission.label "Usuń witrynę">
+<!ENTITY removeallpermissions.label "Usuń wszystkie witryny">
+
+<!ENTITY canSet.label "mogą ustawić ciasteczka">
+<!ENTITY cannotSet.label "nie mogą ustawić ciasteczka">
+
+<!ENTITY checkbox.label "Nie pozwól, aby usunięte ciasteczka były później ponownie zaakceptowane">

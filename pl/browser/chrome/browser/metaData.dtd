@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label "Brak ustawionych właściwości." >
+
+<!ENTITY caption.label "Właściwości elementu" >
+<!ENTITY image-sec.label "Właściwości obrazka" >
+<!ENTITY image-url.label "Adres:" >
+<!ENTITY image-type.label      "Typ:">
+<!ENTITY image-desc.label "Opis:" >
+<!ENTITY image-alt.label "Tekst alternatywny:" >
+<!ENTITY image-size.label      "Wymiary obrazka:">
+<!ENTITY image-filesize.label "Rozmiar pliku:" >
+<!ENTITY insdel-sec.label "Wstaw/Usuń właściwość" >
+<!ENTITY insdel-cite.label "Informacje:" >
+<!ENTITY insdel-date.label "Data:" >
+<!ENTITY link-sec.label "Właściwości odnośnika" >
+<!ENTITY link-url.label "Adres:" >
+<!ENTITY link-target.label "Zostanie otworzony w:" >
+<!ENTITY link-type.label "Typ celu:" >
+<!ENTITY link-lang.label "Docelowy język:" >
+<!ENTITY link-rel.label "Związek:" >
+<!ENTITY link-rev.label "Odwrotne powiązanie:" >
+<!ENTITY link-ping.label       "Powiadomi:">
+<!ENTITY misc-sec.label "Różne właściwości" >
+<!ENTITY misc-lang.label "Język tekstu:" >
+<!ENTITY misc-title.label "Tytuł:" >
+<!ENTITY misc-tblsummary.label "Podsumowanie tabeli:" >
+<!ENTITY quote-sec.label "Właściwości cytatu" >
+<!ENTITY quote-cite.label "Informacje:" >

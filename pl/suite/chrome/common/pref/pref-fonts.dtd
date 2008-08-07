@@ -1,0 +1,80 @@
+<!-- extracted from content/pref-fonts.xul -->
+
+<!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
+<!ENTITY pref.fonts.title "Czcionki">
+
+<!ENTITY language.label "Czcionki:">
+<!ENTITY language.accesskey "C">
+
+<!ENTITY typefaces.label "Krój czcionki">
+<!ENTITY sizes.label "Rozmiar (piksele)">
+
+<!ENTITY proportional.label "Proporcjonalna:">
+<!ENTITY proportional.accesskey "p">
+
+<!ENTITY serif.label "Szeryfowa:">
+<!ENTITY serif.accesskey "s">
+<!ENTITY sans-serif.label "Bezszeryfowa:">
+<!ENTITY sans-serif.accesskey "B">
+<!ENTITY monospace.label "O stałej szerokości:">
+<!ENTITY monospace.accesskey "O">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY fantasy.label "Fantazyjna:">
+<!ENTITY fantasy.accesskey "f">
+<!ENTITY cursive.label "Kursywa:">
+<!ENTITY cursive.accesskey "K">
+
+<!ENTITY fontsize.units "pikseli">
+
+<!ENTITY font.langGroup.latin1 "Zachodnie">
+<!ENTITY font.langGroup.latin2 "Środkowoeuropejskie">
+<!ENTITY font.langGroup.japanese "Japońskie">
+<!ENTITY font.langGroup.trad-chinese "Chińskie tradycyjne (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "Chińskie uproszczone">
+<!ENTITY font.langGroup.trad-chinese-hk "Chińskie tradycyjne (Hong Kong)">
+<!ENTITY font.langGroup.korean "Koreańskie">
+<!ENTITY font.langGroup.cyrillic "Cyrylica">
+<!ENTITY font.langGroup.baltic "Bałtyckie">
+<!ENTITY font.langGroup.el "Greckie">
+<!ENTITY font.langGroup.turkish "Tureckie">
+<!ENTITY font.langGroup.unicode "Inne języki">
+<!ENTITY font.langGroup.user-def "Użytkownika">
+<!ENTITY font.langGroup.thai "Tajskie">
+<!ENTITY font.langGroup.hebrew "Hebrajskie">
+<!ENTITY font.langGroup.arabic "Arabskie">
+<!ENTITY font.langGroup.devanagari "Symboliczne: Devanagari">
+<!ENTITY font.langGroup.tamil "Tamilskie">
+<!ENTITY font.langGroup.armenian "Armeńskie">
+<!ENTITY font.langGroup.bengali "Bengalskie">
+<!ENTITY font.langGroup.canadian "Zunifikowane kanadyjskie sylaby">
+<!ENTITY font.langGroup.ethiopic "Etiopskie">
+<!ENTITY font.langGroup.georgian "Gruzińskie">
+<!ENTITY font.langGroup.gujarati "Gujaratarskie">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhierskie">
+<!ENTITY font.langGroup.khmer "Khmerskie">
+<!ENTITY font.langGroup.malayalam "Malajskie">
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Minimalny rozmiar czcionki:">
+<!ENTITY minSize.accesskey "z">
+<!ENTITY minSize.none "Brak">
+
+<!-- default font type -->
+<!ENTITY useDefaultFontSerif.label "Szeryfowa">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+
+<!ENTITY newLanguages.label 'Nowe języki mogą być skonfigurowane przy użyciu panelu "Języki".'>
+
+<!ENTITY useDocumentFonts.label "Zezwalaj na użycie czcionek zadeklarowanych w wyświetlanych dokumentach">
+<!ENTITY useDocumentFonts.accesskey "o">
+
+<!-- leaving this stuff in for now -->
+
+<!ENTITY header2 "Kiedy strona używa określonych przez jej twórcę czcionek">
+<!ENTITY useDefaultFont.label "Użyj moich domyślnych czcionek, omijając te z dokumentu">
+<!ENTITY useDefaultFont.accesskey "u">
+<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY useDocFontNonDynamic.label "Użyj czcionek dokumentu">
+<!ENTITY useDocFontNonDynamic.accesskey "d">
+<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY useDocFontDynamic.label "Użyj wszystkich czcionek dokumentu">
+<!ENTITY useDocFontDynamic.accesskey "w">

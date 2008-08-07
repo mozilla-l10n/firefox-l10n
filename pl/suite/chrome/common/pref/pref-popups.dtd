@@ -1,0 +1,27 @@
+<!ENTITY pref.popups.title "Wyskakujące okna">
+
+<!ENTITY pref.popups.caption "Wyskakujące okna">
+
+<!ENTITY popupDesc.label "Specify how to handle popup windows that appear on top of or under the current browser window:">
+
+<!ENTITY popupBlock.label "Blokuj niepożądane wyskakujące okna">
+<!ENTITY popupBlock.accesskey "S">
+
+<!ENTITY popupExceptions.label "Akceptowane witryny…">
+<!ENTITY popupExceptions.accesskey "A">
+
+<!ENTITY whenBlock.description "Wykonaj poniższe czynności, gdy zostanie zablokowane wyskakujące okno:">
+<!ENTITY playSound.label "Odtwórz dźwięk:">
+<!ENTITY playSound.accesskey "O">
+
+<!ENTITY selectSound.label "Przeglądaj…">
+<!ENTITY selectSound.accesskey "e">
+<!ENTITY previewSound.label "Odtwórz">
+<!ENTITY previewSound.accesskey "O">
+<!ENTITY selectSound.title "Wybierz dźwięk odgrywany podczas blokowania wyskakującego okna ">
+
+<!ENTITY displayIcon.label "Display an icon in the browser status bar">
+<!ENTITY displayIcon.accesskey "D">
+
+<!ENTITY popupNote.description "Uwaga: Blokowanie wszystkich wyskakujących okien może zakłócić pracę niektórych witryn (np. okna logowania w bankach i sklepach). Naciśnij przycisk Pomoc, aby dowiedzieć się jak pozwolić niektórym witrynom na wyświetlanie wyskakujących okien.">
+

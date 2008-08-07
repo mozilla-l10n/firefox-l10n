@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "Nowe strony powinny być otwierane:">
+<!ENTITY inNewWindow.label            "w nowym oknie">
+<!ENTITY inNewWindow.accesskey        "o">
+<!ENTITY inNewTab.label               "w nowej karcie">
+<!ENTITY inNewTab.accesskey           "k">
+
+<!ENTITY warnCloseMultipleTabs.label      "Ostrzegaj przed zamknięciem wielu kart">
+<!ENTITY warnCloseMultipleTabs.accesskey  "t">
+
+<!ENTITY warnOpenManyTabs.label           "Ostrzegaj, jeśli otwarcie zbyt wielu kart może spowolnić program &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey       "z">
+
+<!ENTITY showTabBar.label             "Zawsze wyświetlaj pasek kart">
+<!ENTITY showTabBar.accesskey         "w">
+
+<!ENTITY switchToNewTabs.label        "Po otwarciu odnośnika w nowej karcie przechodź do niej automatycznie">
+<!ENTITY switchToNewTabs.accesskey    "P">

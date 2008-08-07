@@ -1,0 +1,93 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY offlineGoOfflineCmd.label "Pracuj w trybie offline">
+<!ENTITY offlineGoOfflineCmd.accesskey "l">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label "Plik">
+<!ENTITY fileMenu.accesskey "P">
+<!ENTITY newMenu.label "Nowy">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newBlankPageCmd.label "Strona Kompozytora Stron">
+<!ENTITY newBlankPageCmd.accesskey "s">
+<!ENTITY newBlankPageCmd.key "n">
+<!ENTITY newPageFromTemplateCmd.label "Stronę z szablonu">
+<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromDraftCmd.label "Nowa strona ze szkicu">
+<!ENTITY newPageFromDraftCmd.accesskey "s">
+<!ENTITY newNavigatorCmd.label "Browser Window">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "N">
+
+<!ENTITY editMenu.label "Edycja">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "Cofnij">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "C">
+<!ENTITY redoCmd.label "Przywróć">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "Wytnij">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Kopiuj">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Wklej">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "e">
+<!ENTITY deleteCmd.label "Usuń">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "U">
+<!ENTITY selectAllCmd.label "Zaznacz wszystko">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "Preferencje…">
+<!ENTITY preferencesCmd.key "E">
+<!ENTITY preferencesCmd.accesskey "P">
+<!ENTITY findTypeTextCmd.label "Znajdź wprowadzając - Tekst ">
+<!ENTITY findTypeTextCmd.accesskey "s">
+<!ENTITY findTypeLinksCmd.label "Znajdź wprowadzając - Odnośniki">
+<!ENTITY findTypeLinksCmd.accesskey "w">
+
+<!ENTITY viewMenu.label "Widok">
+<!ENTITY viewMenu.accesskey "W">
+<!ENTITY viewToolbarsMenu.label "Pokaż/Ukryj">
+<!ENTITY viewToolbarsMenu.accesskey "U">
+<!ENTITY showTaskbarCmd.label "Pasek stanu">
+<!ENTITY showTaskbarCmd.accesskey "s">
+
+<!ENTITY helpMenu.label "Pomoc">
+<!ENTITY helpMenu.accesskey "c">
+
+<!ENTITY releaseCmd.label "Informacje o wersji programu">
+<!ENTITY releaseCmd.accesskey "I">
+<!ENTITY updateCmd.label "Sprawdź dostępność aktualizacji…">
+<!ENTITY updateCmd.accesskey "C">
+<!ENTITY aboutCmd.label "O &brandShortName;">
+<!ENTITY aboutCmd.accesskey "M">
+<!ENTITY aboutCommPluginsCmd.label "O wtyczkach">
+<!ENTITY aboutCommPluginsCmd.accesskey "w">
+
+<!ENTITY direct.label "Online (Proxy: Brak)">
+<!ENTITY direct.accesskey "n">
+<!ENTITY manual.label "Online (Proxy: Ręczne)">
+<!ENTITY manual.accesskey "r">
+<!ENTITY pac.label "Online (Proxy: Automatyczne)">
+<!ENTITY pac.accesskey "a">
+<!ENTITY wpad.label "Online (Proxy: Automatyczne wykrywanie)">
+<!ENTITY wpad.accesskey "w">
+
+<!ENTITY proxy.label "Konfiguracja Proxy…">
+<!ENTITY proxy.accesskey "C">
+
+<!ENTITY bidiSwitchTextDirectionItem.label "Zmień kierunek tekstu">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "k">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey "p">
+<!ENTITY showPopupManager.label "Manage Popups">
+<!ENTITY showPopupManager.accesskey "M">
+<!ENTITY dontShowMessage.label "Don't show this message when popups are blocked">
+<!ENTITY dontShowMessage.accesskey "D">

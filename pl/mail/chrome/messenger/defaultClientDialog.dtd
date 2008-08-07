@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Domyślny klient">
+<!ENTITY defaultClient.intro  "&brandShortName; ma być domyślnym klientem:">
+
+<!ENTITY email.label "poczty">
+<!ENTITY newsgroups.label "grup dyskusyjnych">
+<!ENTITY rss.label "kanałów RSS">
+
+<!ENTITY checkOnStartup.label "Sprawdzaj to zawsze przy uruchamianiu programu &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "S">

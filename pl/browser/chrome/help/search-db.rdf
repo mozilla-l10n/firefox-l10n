@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="Opcje dostępności" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Preferencje dostępności" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="Opcje zabezpieczenia przed phishingiem" nc:link="prefs.xhtml#phishing" nc:platform="win os2"/></li>
+        <li><Description nc:name="Preferencje zabezpieczenia przed phishingiem" nc:link="prefs.xhtml#phishing" nc:platform="unix mac"/></li>
+        <li><Description nc:name="uwierzytelnianie (definicja)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="Przycisk Wstecz" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Blokowanie wyskakujących okien" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="zakładka (definicja)" nc:link="glossary.xhtml#bookmark"/></li>
+        <li><Description nc:name="Pasek zakładek (definicja)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="Przeglądanie" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="pamięć podręczna (definicja)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="certyfikat (definicja)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="Certyfikaty" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Konfiguracja rozszerzeń" nc:link="customization.xhtml#add_ons_configuring_extensions"/></li>
+        <li><Description nc:name="Listy odwołania certyfikatów (CRL)" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="klient (definicja)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="ciasteczko (definicja)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="kryptografia (definicja)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="rozszyfrowywanie (definicja)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="cyfrowy dowód tożsamości (definicja)" nc:link="glossary.xhtml#digital_ID"/></li>
+        <li><Description nc:name="Wyłączanie, włączanie, dezinstalacja dodatków" nc:link="customization.xhtml#add_ons_uninstalling"/></li>
+        <li><Description nc:name="szyfrowanie (definicja)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="język XML (definicja)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="źródło (kanał RSS) (definicja)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="protokół FTP (definicja)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="FIPS PUBS 140-1 (definicja)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="przycisk Do przodu" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="przechodzenie wstecz lub do przodu" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="przycisk Strona startowa" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="strona startowa (definicja)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="język HTML (definicja)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="importowanie Ulubionych z Internet Explorera" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="Internet (definicja)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="adres IP (definicja)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>
+        <li><Description nc:name="Java (definicja)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="JavaScript (definicja)" nc:link="glossary.xhtml#JavaScript"/></li>
+        <li><Description nc:name="Języki" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="Dynamiczna zakładka (definicja)" nc:link="glossary.xhtml#live_bookmark"/></li>
+        <li><Description nc:name="pasek adresu (definicja)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="hasło główne (definicja)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="pasek narzędzi nawigacyjnych (definicja)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="menedżer haseł (definicja)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="PKCS #11 (definicja)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="wtyczka (definicja)" nc:link="glossary.xhtml#plug-in"/></li>
+        <li><Description nc:name="Wtyczki" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="klucz prywatny (definicja)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="proxy (definicja)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="ostatnio przeglądane strony" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="przycisk Odśwież" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="wyszukiwarka (definicja)" nc:link="glossary.xhtml#search_engine"/></li>
+        <li><Description nc:name="wyszukiwanie za pomocą paska adresu" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="wyszukiwanie za pomocą paska wyszukiwania" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="wyszukiwanie na podstawie tekstu ze strony" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="bezpieczna witryna (definicja)" nc:link="glossary.xhtml#secure_site"/></li>
+        <li><Description nc:name="protokół SSL (definicja)" nc:link="glossary.xhtml#Secure_Sockets_Layer"/></li>
+        <li><Description nc:name="serwer (definicja)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="Ustawianie lub zmienianie hasła głównego" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Aktualizacje oprogramowania" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="pasek stanu (definicja)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="przycisk Zatrzymaj" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="Przełączanie motywów" nc:link="customization.xhtml#add_ons_switching_themes"/></li>
+        <li><Description nc:name="TLS (definicja)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="protokół TCP/IP (definicja)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="adres URL (definicja)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="Aktualizowanie dodatków" nc:link="customization.xhtml#add_ons_updating"/></li>
+        <li><Description nc:name="Weryfikacja" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="wyświetlanie źródła HTML" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="strona internetowa (definicja)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="witryna internetowa (definicja)" nc:link="glossary.xhtml#web_site"/></li>
+        <li><Description nc:name="sieć WWW (definicja)" nc:link="glossary.xhtml#World_Wide_Web"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>

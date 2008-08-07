@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://global/locale/brand.dtd" >
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %brandDTD;
+    %platformDTD;
+]
+>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Słowniczek</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<p>Hasła zawarte w&nbsp;poniższym słowniczku mają za
+zadanie jedynie pokrótce objaśnić znaczenie poszczególnych pojęć.
+Słowniczek ten nie jest pomyślany jako źródło kompletnego objaśnienia
+ich znaczeń.</p>
+<hr/>
+
+<h1 id="glossary">Słowniczek</h1>
+
+<dl>
+
+<dt id="Internet_protocol_address">adres IP</dt>
+<dd>(ang. <i>Internet
+Protocol</i>) Adres komputera w&nbsp;sieci komputerowej opartej na <a
+ href="#TCP_IP">protokole TCP/IP</a>. Każdy komputer podpięty do sieci
+Internet posiada swój własny adres IP. <a href="#client">Komputery-klienty</a>
+mogą mieć adres IP przyznany na stałe lub mogą go uzyskiwać
+dynamicznie przy każdym połączeniu z&nbsp;siecią.</dd>
+
+<dt id="Uniform_Resource_Locator">adres URL</dt>
+<dd>Ustandaryzowany adres pozwalający przeglądarce &brandShortName; odnaleźć
+plik lub inny zasób w&nbsp;sieci (np. <tt>http://www.mozilla.org/</tt>). Adresy
+URL wpisuje się w&nbsp;pasku adresu przeglądarki. Są one też stosowane w&nbsp;odnośnikach
+na stronach internetowych. Adres URL jest także nazywany
+adresem internetowym lub adresem sieciowym.</dd>
+
+<dt id="secure_site">bezpieczna witryna</dt>
+<dd>Witryna, która używa <a href="#encryption">szyfrowania połączenia</a>,
+  aby uchronić przesyłane informacje przed podejrzeniem ich przez osoby trzecie.
+  Podczas połączenia z&nbsp;bezpieczną witryną w&nbsp;<a href="#Status_Bar">pasku stanu</a> i&nbsp;
+  <a href="#location_bar">pasku adresu</a> wyświetlana jest ikona kłódki, a&nbsp;tło 
+  paska adresu zmienia kolor na żółty. Ponadto domena witryny bezpiecznej wyświetlana jest w&nbsp;pasku
+  stanu.
+</dd>
+<dd>Niektóre witryny mogą zawierać zarówno dane zabezpieczone jak i&nbsp;niezabezpieczone.
+  Zwykle dane niezabezpieczone nie są prywatnymi danymi użytkownika, ale nie ma
+  takiej gwarancji. Przy przeglądaniu tego rodzaju witryn w&nbsp;pasku stanu
+  i&nbsp;w&nbsp;pasku adresu wyświetlana jest przekreślona ikona kłódki. Domena witryny
+  w&nbsp;takiej sytuacji <em>nie</em> jest wyświetlana w&nbsp;pasku stanu, co ma zwrócić
+  uwagę użytkownika na to, że oglądana strona nie jest całkowicie bezpieczna.</dd>
+
+<dt id="certificate">certyfikat</dt>
+<dd>Cyfrowy odpowiednik dokumentu tożsamości. Zawiera on nazwę osoby lub
+innej organizacji i&nbsp;zaświadcza, że klucz publiczny (zawarty w&nbsp;tym
+certyfikacie) należy do niej. Przy cyfrowym podpisywaniu wiadomości
+poczty elektronicznej lub innych danych, podpis cyfrowy jest tworzony
+przy użyciu klucza prywatnego, powiązanego z&nbsp;kluczem publicznym
+certyfikatu.</dd>
+
+<dt id="cookie">ciasteczko</dt>
+<dd>Krótka informacja przechowywana na komputerze użytkownika przez niektóre
+  witryny. Podczas łączenia się z&nbsp;taką witryną, może ona zażądać od przeglądarki
+  &brandShortName; zapisania jednego lub więcej ciasteczek na dysku twardym.
+  Przy ponownym wejściu na tę witrynę, &brandShortName; przesyła jej poprzednio
+  zapisane ciasteczka należące do tej witryny. Ciasteczka pozwalają witrynom
+  rozpoznawać i&nbsp;przechowywać informacje o&nbsp;użytkownikach, takie jak zawartość
+  koszyka zakupów. Użytkownik może odpowiednio skonfigurować sposób, w&nbsp;jaki
+  ciasteczka są stosowane i&nbsp;jak wiele informacji chce pozwolić witrynom
+  w&nbsp;ten sposób zapisywać.</dd>
+
+<dt id="digital_ID">cyfrowy dowód tożsamości</dt>
+<dd>Zobacz <a
+ href="#certificate">certyfikat</a>.</dd>
+
+<dt id="live_bookmark">dynamiczne zakładki (kanały RSS)</dt>
+<dd>Specjalny typ zakładki, który zachowuje się jak folder zawierający odnośniki
+pobrane ze <a href="#feed">źródła (kanału RSS)</a>.  Dynamiczną zakładkę można
+utworzyć klikając odpowiednią ikonę na pasku adresu i&nbsp;w&nbsp;nowo otwartym menu odpowiednie źródło (kanał).</dd>
+
+ <dt id="FIPS_PUBS_140-1">FIPS PUBS 140-1.</dt>
+<dd>(ang. <i>Federal
+Information Processing Standards Publications 140-1</i>) Amerykańskie
+standardy rządowe opracowane w&nbsp;celu wprowadzenia do użytku modułów
+kryptograficznych (programowych lub sprzętowych). Moduły te mogą
+szyfrować i&nbsp;odszyfrowywać informacje lub wykonywać inne czynności
+kryptograficzne (jak tworzenie lub weryfikacja podpisów cyfrowych).
+Wiele takich rozwiązań zamawianych przez rząd amerykański musi spełniać
+wymogi jednego lub więcej standardu FIPS.</dd>
+
+<dt id="master_password">hasło główne</dt>
+<dd>Hasło używane do ochrony innych zapisanych haseł i&nbsp;danych prywatnych.
+  &brandShortName; poprosi o&nbsp;wprowadzenie hasła głównego, kiedy zajdzie
+  potrzeba skorzystania z&nbsp;takich danych. Jeśli zainstalowanych jest wiele
+  urządzeń zabezpieczających, każde z&nbsp;nich wymaga osobnego hasła głównego.</dd>
+
+<dt id="Internet">Internet</dt>
+<dd>Ogólnoświatowa sieć komputerowa
+łącząca sieci lokalne, sieci rozległe i&nbsp;wszystkie komputery do nich
+podłączone, oparta o&nbsp;protokół <a href="#TCP_IP">TCP/IP</a>. Początki Internetu sięgają 
+roku 1969. W&nbsp;pierwotnych zamiarach był
+pomyślany do wykorzystywania przez armię Stanów Zjednoczonych. W&nbsp;miarę
+rozwoju skupiał coraz więcej ośrodków akademickich i&nbsp;naukowych.
+Gwałtowny rozwój Internetu nastąpił w&nbsp;latach 90-tych XX wieku, kiedy
+zaczął być używany przez osoby prywatne i&nbsp;firmy. Obecnie Internet używany
+jest do przesyłania poczty elektronicznej, przeglądania <a href="#web_site">witryn WWW</a>,
+uczestnictwa w&nbsp;grupach dyskusyjnych i&nbsp;in.</dd>
+
+<dt id="Hypertext_Markup_Language">język HTML</dt>
+<dd>Format dokumentu dla stron internetowych. Standard HTML definiuje
+znaczniki, czyli elementy kodu określające rozmieszczenie tekstu,
+czcionki, styl, obrazki i&nbsp;inne składniki strony internetowej.</dd>
+
+
+<dt id="Java">język Java</dt>
+<dd>Język programowania stworzony przez firmę Sun Microsystems. Program
+napisany w&nbsp;Javie może działać na różnych rodzajach komputerów, uwalniając
+programistę od konieczności przygotowywania wielu różnych wersji. Po
+zainstalowaniu wtyczki Javy, &brandShortName; umożliwia automatyczne pobieranie 
+i&nbsp;uruchamianie programów napisanych w&nbsp;tym języku (zwanych apletami).</dd>
+
+<dt id="JavaScript">język JavaScript</dt>
+<dd>Język skryptowy powszechnie stosowany na stronach WWW. Programiści używają
+  JavaScriptu do zwiększenia interaktywności stron, w&nbsp;tym do dynamicznego 
+  sprawdzania poprawności formularzy. JavaScript i&nbsp;Javę można stosować
+  niezależnie, są to osobne języki.  JavaScript nie wymaga obecności
+  wtyczki Javy.</dd>
+
+<dt id="XML">język XML</dt>
+<dd>Otwarty standard opisu danych. W&nbsp;odróżnieniu od HTML, XML pozwala
+  programistom definiować specjalne znaczniki. Więcej informacji o&nbsp;języku 
+  XML można znaleźć na stronie organizacji W3C <a href="http://www.w3.org/XML/" 
+  target="_blank">Extensible Markup Language (XML)</a> (witryna w&nbsp;języku angielskim).</dd>
+
+<dt id="feed">kanał informacyjny (RSS, Atom)</dt>
+<dd>Dokument <a href="#XML">XML</a> zawierający listę odnośników
+do innych stron, który jest przetwarzany przez specjalne programy w&nbsp;celu
+śledzenia zmian na stronach. Technika ta używana jest przez witryny, których
+zawartość często się zmienia (wiadomości, dzienniki internetowe).
+Zob. także <a href="#live_bookmark">dynamiczne zakładki</a>.</dd>
+
+<dt id="client">klient</dt>
+<dd>Oprogramowanie (np. przeglądarka
+internetowa), które wysyła żądania do <a href="#server">serwera</a> i
+odbiera od niego informacje. Serwerem jest z&nbsp;reguły inny komputer.
+Komputer, na którym jest zainstalowane i&nbsp;uruchomione oprogramowanie
+klienckie jest również nazywany klientem.</dd>
+
+<dt id="private_key">klucz prywatny</dt>
+<dd>Jeden z&nbsp;pary kluczy używanych w&nbsp;kryptografii asymetrycznej. Służy
+do wykonywania zastrzeżonych czynności (odszyfrowywanie danych -
+odpowiadający klucz publiczny szyfruje, podpisywanie - odpowiadający
+klucz publiczny weryfikuje podpisy), dlatego jego rozpowszechnianie
+może w&nbsp;poważnym stopniu zagrażać bezpieczeństwu systemu.</dd>
+
+<dt id="cryptography">kryptografia</dt>
+<dd>Nauka zajmująca się układaniem szyfrów. Metody kryptograficzne stosowane
+  są do szyfrowania i&nbsp;rozszyfrowania informacji przesyłanych pomiędzy niektórymi
+  witrynami a&nbsp;przeglądarką &brandShortName;.</dd>
+
+<dt id="Password_Manager">menedżer haseł</dt>
+<dd>Część przeglądarki
+odpowiedzialna za kontrolę i&nbsp;zapisywanie haseł dostępowych do skrzynek
+poczty elektronicznej czy serwisów WWW. Menedżer haseł zapisuje te
+informacje na dysku twardym komputera i&nbsp;przywołuje je automatycznie w
+razie potrzeby.</dd>
+
+<dt id="PKCS_11">PKCS #11</dt>
+<dd>Standard kryptografii klucza publicznego związany z&nbsp;urządzeniami
+  zabezpieczającymi, takimi jak karty inteligentne.</dd>
+
+<dt id="cache">pamięć podręczna</dt>
+<dd>Zbiór kopii odwiedzonych w
+przeszłości stron WWW, umieszczony na dysku twardym lub w&nbsp;pamięci RAM komputera. Przyspiesza to
+wyświetlanie często odwiedzanych lub wcześniej odwiedzonych stron, gdyż
+przeglądarka może otworzyć je z&nbsp;dysku twardego, zamiast pobierać z
+sieci Internet. Po kliknięciu odnośnika (lub wpisania <a
+ href="#Uniform_Resource_Locator">adresu URL</a>) strony, przeglądarka
+porównuje jej zawartość przechowywaną (jeżeli strona była wcześniej
+odwiedzona) w&nbsp;pamięci podręcznej z&nbsp;zawartością strony znajdującą się w
+Internecie. Jeżeli obydwie strony są identyczne, użytkownikowi zostanie
+wyświetlona zawartość strony pochodząca z&nbsp;pamięci podręcznej
+przeglądarki.</dd>
+
+<dt id="location_bar">pasek adresu</dt>
+<dd>Pole tekstowe (i&nbsp;powiązane z&nbsp;nim przyciski) umieszczone w&nbsp;okolicach góry okna
+przeglądarki, w&nbsp;które można wprowadzać <a href="#Uniform_Resource_Locator">adresy
+URL</a>.</dd>
+
+<dt id="navigation_toolbar">pasek narzędzi nawigacyjnych</dt>
+<dd>Pasek narzędzi umieszczony w&nbsp;górnej części okna przeglądarki,
+zawierający m. in. przyciski <em>Wstecz</em> i&nbsp;<em>Do przodu</em>.</dd>
+
+<dt id="Status_Bar">pasek stanu</dt>
+<dd>Pasek narzędzi obecny na
+dole każdego okna programu &brandShortName;. W&nbsp;jego prawej części dostępne są ikony
+stanu.</dd>
+
+<dt id="Bookmarks_Toolbar">pasek zakładek</dt>
+<dd>Pasek narzędzi zaraz pod paskiem adresu, który zawiera najczęściej
+wykorzystywane zakładki użytkownika. Zakładki na pasku można grupować
+w foldery, dodawać, usuwać itp.</dd>
+
+<dt id="File_Transfer_Protocol">protokół FTP</dt>
+<dd>(ang. <i>File
+Transfer Protocol</i>). Protokół umożliwiający przesyłanie plików z&nbsp;i&nbsp;na serwer poprzez sieć TCP/IP. &brandShortName; umożliwia pobieranie plików z&nbsp;<a href="#server">serwerów</a> FTP.</dd>
+
+<dt id="Secure_Sockets_Layer">protokół SSL</dt>
+<dd>(ang. <i>Secure Sockets Layer</i>). Protokół pozwalający na wzajemne uwierzytelnienie
+  <a href="#client">klienta</a> i&nbsp;<a href="#server">serwera</a> podczas zestawiania
+  uwierzytelnionego i&nbsp;szyfrowanego połączenia. Protokół SSL działa ponad warstwą TCP, 
+  a&nbsp;poniżej warstw protokołów HTTP, LDAP, IMAP, NNTP i&nbsp;innych. Na protokole SSL oparty jest 
+  podobny protokół organizacji IETF, zwany TLS (ang. <i>Transport Layer Security</i>).<br/>
+  Zobacz też: <a href="#authentication">uwierzytelnianie</a>, <a href="#encryption">szyfrowanie</a>.</dd>
+
+ <dt id="TCP_IP">protokół TCP/IP</dt>
+<dd>Protokół sieciowy pozwalający na łączenie komputerów korzystających z&nbsp;różnych
+  systemów operacyjnym. TCP/IP jest najważniejszym protokołem Internetu i&nbsp;ogólnoświatowym
+  standardem komunikacyjnym.</dd>
+
+<dt id="TLS">protokół TLS</dt>
+<dd>Zobacz <a href="#Secure_Sockets_Layer">protokół SSL</a>.</dd>
+
+<dt id="proxy">proxy</dt>
+<dd>Program lub usługa pośrednicząca w&nbsp;komunikacji pomiędzy <a href="#server">serwerem</a>
+ a&nbsp;<a href="#client">klientem</a> w&nbsp;celu skrócenia czasu oczekiwania na
+ wykonanie żądanej czynności (np. wczytanie strony WWW - HTTP proxy).</dd>
+
+<dt id="decryption">rozszyfrowywanie</dt>
+<dd>Proces dekodowania zaszyfrowanych danych.<br/>
+Zobacz też: <a href="#encryption">szyfrowanie</a>.</dd>
+
+<dt id="server">serwer</dt>
+<dd>Oprogramowanie (np. zarządzające
+stronami internetowymi), które odbiera żądania od <a href="#client">klientów</a>
+i wysyła do nich informacje. Klientem z&nbsp;reguły jest inny komputer.
+Komputer, na którym jest zainstalowane i&nbsp;uruchomione oprogramowanie
+serwerowe, również nazywany jest serwerem.</dd>
+
+<dt id="World_Wide_Web">sieć WWW</dt>
+<dd>(ang. <i>World Wide Web</i>)
+Część zasobów Internetu wykorzystująca witryny
+przechowywane na <a href="#server">serwerach</a> i&nbsp;pokazywane przez <a
+ href="#client">klientów</a> zwanych przeglądarkami (jak &brandShortName;).</dd>
+
+<dt id="home_page">strona startowa</dt>
+<dd>Strona, którą przeglądarka
+będzie wczytywać i&nbsp;pokazywać przy każdym swoim uruchomieniu lub po
+naciśnięciu przycisku Strona startowa na pasku nawigacyjnym.</dd>
+
+<dt id="web_page">strona WWW</dt>
+<dd>Pojedynczy dokument w&nbsp;<a href="#World_Wide_Web">sieci WWW</a> identyfikowany
+  przez unikatowy adres URL. Strona WWW może zawierać tekst, odnośniki,
+  grafikę i&nbsp;inne treści.</dd>
+
+<dt id="web_page">strona internetowa</dt>
+<dd>Pojedynczy dokument
+używany w&nbsp;sieci Internet, posiadający unikalny adres URL i&nbsp;mogący
+zawierać tekst, treści multimedialne i&nbsp;odnośniki do innych stron lub
+witryn internetowych.</dd>
+ 
+ <dt id="encryption">szyfrowanie</dt>
+<dd>Procedura takiego
+przekształcania informacji, żeby była ona niemożliwa (lub bardzo
+trudna) do odczytania przez każdego, kto nie posiada odpowiedniego
+klucza.</dd>
+
+<dt id="authentication">uwierzytelnianie</dt>
+<dd>Używanie hasła,
+certyfikatu, osobistego numeru identyfikującego (numeru PIN) lub innej
+informacji do potwierdzenia swej tożsamości w&nbsp;sieci komputerowej.</dd>
+ 
+ <dt id="web_site">witryna internetowa</dt>
+<dd>Grupa powiązanych ze
+sobą za pomocą odnośników i&nbsp;zarządzanych przez jedną firmę (osobę,
+organizację) <a href="#web_page">stron WWW</a>. Witryna internetowa może zawierać tekst, treści
+multimedialne, jak i&nbsp;odnośniki do innych witryn.</dd>
+
+<dt id="plug-in">wtyczka</dt>
+<dd>Wtyczki rozszerzają możliwości programu &brandShortName; w&nbsp;zakresie wyświetlania stron,
+np. o&nbsp;odtwarzanie plików multimedialnych.  W&nbsp;przeciwieństwie do innych 
+aplikacji pomocniczych, wtyczki instalowane są do katalogu wtyczek (katalog 
+plugins w&nbsp;folderze programu &brandShortName;) i&nbsp;z&nbsp;reguły są
+uruchamiane w&nbsp;oknie przeglądarki. Typowymi przykładami są wtyczki Javy
+i Adobe Flash Player.</dd>
+
+<dt id="search_engine">wyszukiwarka</dt>
+<dd>Działający w&nbsp;sieci WWW program pozwalający użytkownikom na przeszukiwanie
+  zasobów WWW. Wyszukiwarka może przeszukiwać całą zawartość dokumentów
+  w&nbsp;witrynach albo tylko listę słów kluczowych, może także opierać się
+  na innych metodach katalogowania zasobów. Zazwyczaj użytkownik wpisuje
+  szukane hasło do pola wyszukiwania, a&nbsp;wyszukiwarka zwraca zbiór odnośników
+  do dokumentów związanych z&nbsp;tym hasłem.</dd>
+
+<dt id="bookmark">zakładka</dt>
+<dd>Zachowany w&nbsp;specjalnym pliku <a href="#Uniform_Resource_Locator">adres URL</a>
+strony WWW. Dostęp do strony spod tego adresu jest szybszy, gdyż można
+ją wywołać poprzez kliknięcie ikonki zakładki na osobistym pasku
+narzędzi lub wybierając nazwę zakładki (z&nbsp;reguły taka sama, jak tytuł
+strony) z&nbsp;menu Zakładki.</dd>
+</dl>
+
+<p>
+[&nbsp;<a href="#glossary">Powrót do początku Słowniczka</a>&nbsp;]
+</p>
+
+<div class="contentsBox"><em>14 września 2006</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+</body>
+</html>

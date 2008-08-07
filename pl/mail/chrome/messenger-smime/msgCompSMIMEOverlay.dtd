@@ -1,0 +1,16 @@
+<!ENTITY securityMenu.label "Zabezpieczenia wiadomości">
+<!ENTITY securityMenu.accesskey "b">
+<!ENTITY menu_securityEncryptIfPossible.label "Szyfruj, jeśli to możliwe">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "S">
+<!ENTITY menu_securityEncryptRequire.label "Zaszyfruj tę wiadomość">
+<!ENTITY menu_securityEncryptRequire.accesskey "W">
+<!ENTITY menu_securityNoEncryption.label "Nie szyfruj tej wiadomości">
+<!ENTITY menu_securityNoEncryption.accesskey "N">
+<!ENTITY menu_securitySign.label "Podpisz cyfrowo tę wiadomość">
+<!ENTITY menu_securitySign.accesskey "P">
+<!ENTITY menu_securityStatus.label "Pokaż informacje o zabezpieczeniach">
+<!ENTITY menu_securityStatus.accesskey "Z">
+<!ENTITY securityButton.label "Zabezpieczenia">
+<!ENTITY securityButton.tooltip "Wyświetl lub zmień ustawienia zabezpieczeń">
+<!ENTITY menu_viewSecurityStatus.label "Informacje o zabezpieczeniach wiadomości">
+<!ENTITY menu_viewSecurityStatus.accesskey "I">

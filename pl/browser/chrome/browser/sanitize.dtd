@@ -1,0 +1,22 @@
+<!ENTITY sanitizeDialog.title         "Czyszczenie danych prywatnych">
+<!ENTITY window.width                 "30em">
+
+<!ENTITY sanitizeItems.label          "Wyczyść następujące elementy:">
+<!ENTITY clearDataSettings.label      "Podczas czyszczenia danych prywatnych &brandShortName; ma usunąć:">
+
+<!ENTITY itemHistory.label            "historię przeglądanych stron">
+<!ENTITY itemHistory.accesskey        "h">  
+<!ENTITY itemFormSearchHistory.label           "dane formularzy i historię wyszukiwania">
+<!ENTITY itemFormSearchHistory.accesskey       "f">
+<!ENTITY itemPasswords.label          "zapamiętane hasła">
+<!ENTITY itemPasswords.accesskey      "z">     
+<!ENTITY itemCookies.label            "ciasteczka">
+<!ENTITY itemCookies.accesskey        "c">  
+<!ENTITY itemCache.label              "pamięć podręczną">
+<!ENTITY itemCache.accesskey          "p">
+<!ENTITY itemOfflineApps.label        "dane witryn trybu offline">
+<!ENTITY itemOfflineApps.accesskey    "d">
+<!ENTITY itemDownloads.label          "historię pobieranych plików">
+<!ENTITY itemDownloads.accesskey      "b"> 
+<!ENTITY itemSessions.label           "sesje uwierzytelnione"> 
+<!ENTITY itemSessions.accesskey       "s">

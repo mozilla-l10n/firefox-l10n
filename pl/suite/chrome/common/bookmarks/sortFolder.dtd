@@ -1,0 +1,20 @@
+<!ENTITY window.title "Sortuj folder">
+
+<!ENTITY sortOptions.label "Opcje">
+<!ENTITY description.label "&brandShortName; umożliwia sortowanie zakładek oddzielnie dla każdego folderu. Za pomocą poniższych opcji można dostosować sposób sortowania zakładek w tym folderze.">
+
+<!ENTITY sortBy.label "Sortuj według pola:">
+<!ENTITY sortBy.name.label "Nazwa">
+<!ENTITY sortBy.url.label "Adres">
+<!ENTITY sortBy.shortcutUrl.label "Słowo kluczowe">
+<!ENTITY sortBy.description.label "Opis">
+<!ENTITY sortBy.bookmarkAddDate.label "Dodano">
+<!ENTITY sortBy.lastModifiedDate.label "Ostatnio zmodyfikowano">
+<!ENTITY sortBy.lastVisitDate.label "Ostanio odwiedzono">
+
+<!ENTITY sortOrder.label "Sortowanie:">
+<!ENTITY sortAscending.label "Ascending">
+<!ENTITY sortDescending.label "Descending">
+
+<!ENTITY sortFoldersFirst.label "Foldery na początku">
+<!ENTITY sortRecursively.label "Razem z podfolderami">

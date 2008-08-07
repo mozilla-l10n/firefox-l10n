@@ -1,0 +1,8 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!ENTITY window.title "Tryb offline">
+<!ENTITY boxHeader "Tryb offline">
+<!ENTITY rHeader "Ustawienia trybu offline">
+<!ENTITY textStart "Podczas uruchamiania &brandShortName;:">
+<!ENTITY radioAskMode "Zapytaj w jakim trybie (online/offline) rozpocząć pracę">
+<!ENTITY radioUsePrev "Użyj trybu (online/offline), który był aktywny podczas zamykania programu">

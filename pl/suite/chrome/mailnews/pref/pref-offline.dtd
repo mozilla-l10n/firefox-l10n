@@ -1,0 +1,29 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!ENTITY pref.offline.title "Tryb offline i miejsce na dysku">
+<!ENTITY pref.offline.caption "Tryb offline">
+<!ENTITY textStartUp "Uruchamiając program:">
+<!ENTITY textStartUp.accesskey "W">
+<!ENTITY menuitemRememberPrevState "Remember previous online state">
+<!ENTITY menuitemAskMe "Ask me for online state at startup">
+<!ENTITY menuitemAlwaysOnline "Always start up online">
+<!ENTITY menuitemAlwaysOffline "Always start up offline">
+<!ENTITY menuitemAutomatic "Detect automatically (if available)">
+<!ENTITY textGoingOnline "Wysyłać niewysłane wiadomości po nawiązaniu połączenia?">
+<!ENTITY radioAutoSend "Tak">
+<!ENTITY radioAutoSend.accesskey "k">
+<!ENTITY radioNotSend "Nie">
+<!ENTITY radioNotSend.accesskey "e">
+<!ENTITY radioAskUnsent "Zapytaj">
+<!ENTITY radioAskUnsent.accesskey "Z">
+<!ENTITY textGoingOffline "Pobierać treść wiadomości podczas przejścia w tryb Offline?">
+<!ENTITY radioAutoDownload "Tak">
+<!ENTITY radioAutoDownload.accesskey "T">
+<!ENTITY radioNotDownload "Nie">
+<!ENTITY radioNotDownload.accesskey "N">
+<!ENTITY radioAskDownload "Zapytaj">
+<!ENTITY radioAskDownload.accesskey "p">
+<!ENTITY Diskspace "Miejsce na dysku">
+<!ENTITY offlineCompact.label "Automatycznie porządkuj foldery, gdy zaoszczędzi to więcej niż">
+<!ENTITY offlineCompact.accesskey "c">
+<!ENTITY kb.label "kB">

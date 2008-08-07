@@ -1,0 +1,213 @@
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY nothingAvailable.label "(Niczego nie znaleziono)">
+
+<!ENTITY browserCmd.label "Nowe okno przeglądarki">
+<!ENTITY browserCmd.accesskey "g">
+<!ENTITY tabCmd.label "Karta przeglądarki">
+<!ENTITY tabCmd.accesskey "t">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Otwórz adres internetowy…">
+<!ENTITY openCmd.accesskey "i">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Otwórz plik…">
+<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY recentTabs.label "Ostatnio zamknięte karty">
+<!ENTITY recentTabs.accesskey "R">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY editPageCmd.label "Edytuj stronę">
+<!ENTITY editPageCmd.accesskey "E">
+<!ENTITY editPageCmd.commandkey "e">
+<!ENTITY editFrameCmd.label "Edytuj ramkę">
+<!ENTITY editFrameCmd.accesskey "m">
+<!ENTITY editFrameSetCmd.label "Edytuj zestaw ramek">
+<!ENTITY editFrameSetCmd.accesskey "t">
+
+<!ENTITY uploadFile.label "Wyślij plik…">
+<!ENTITY uploadFile.accesskey "p">
+
+<!ENTITY printSetupCmd.label "Ustawienia strony…">
+<!ENTITY printSetupCmd.accesskey "U">
+<!ENTITY printPreviewCmd.label "Podgląd wydruku">
+<!ENTITY printPreviewCmd.accesskey "P">
+<!ENTITY printCmd.label "Drukuj…">
+<!ENTITY printCmd.accesskey "D">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY viewMenu.label "Widok">
+<!ENTITY viewMenu.accesskey "W">
+
+<!ENTITY toolbarsCmd.label "Pokaż/Ukryj">
+<!ENTITY toolbarsCmd.accesskey "U">
+<!ENTITY navbarCmd.label "Pasek narzędzi nawigacyjnych">
+<!ENTITY navbarCmd.accesskey "n">
+<!ENTITY personalbarCmd.label "Osobisty pasek narzędzi">
+<!ENTITY personalbarCmd.accesskey "O">
+<!ENTITY tabbarCmd.label "Pasek kart">
+<!ENTITY tabbarCmd.accesskey "p">
+<!ENTITY taskbarCmd.label "Pasek stanu">
+<!ENTITY taskbarCmd.accesskey "s">
+<!ENTITY componentbarCmd.label "Pasek komponentów">
+<!ENTITY componentbarCmd.accesskey "k">
+
+<!ENTITY useStyleSheetMenu.label "Użyj arkusza stylów">
+<!ENTITY useStyleSheetMenu.accesskey "s">
+<!ENTITY useStyleSheetNone.label "Brak">
+<!ENTITY useStyleSheetNone.accesskey "r">
+<!ENTITY useStyleSheetPersistentOnly.label "Domyślny arkusz stylów">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "D">
+<!ENTITY pageSourceCmd.label "Źródło strony">
+<!ENTITY pageSourceCmd.accesskey "d">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Informacje o stronie">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Tryb pełnoekranowy">
+<!ENTITY fullScreenCmd.accesskey "e">
+<!ENTITY translateMenu.label "Przetłumacz dokument">
+<!ENTITY translateMenu.accesskey "t">
+<!ENTITY translate.commandKey "t">
+
+<!ENTITY closeOtherTabs.label "Zamknij pozostałe karty">
+<!ENTITY closeOtherTabs.accesskey "T">
+<!ENTITY closeWindow.label "Zamknij okno">
+<!ENTITY closeWindow.accesskey "W">
+
+<!ENTITY minimizeButton.tooltip "Minimalizuj">
+<!ENTITY restoreButton.tooltip "Przywróć">
+
+<!-- I'd like all this to move to an overlay or something -->
+<!ENTITY bidiMenu.label "Opcje tekstu dwukierunkowego">
+<!ENTITY directionBidiMenu.label "Domyślny kierunek">
+<!ENTITY directionRTLBidiCmd.label "Od prawej do lewej">
+<!ENTITY directionLTRBidiCmd.label "Od lewej do prawej">
+<!ENTITY texttypeBidiMenu.label "Typ tekstu">
+<!ENTITY charsettexttypeBidiCmd.label "W zależności od wybranej strony kodowej">
+<!ENTITY logicaltexttypeBidiCmd.label "Logiczny">
+<!ENTITY visualtexttypeBidiCmd.label "Wizualny">
+<!ENTITY numeralBidiMenu.label "Kształt numeryczny">
+<!ENTITY regularcontextnumeralBidiCmd.label "Zależny od kontekstu">
+<!ENTITY hindicontextnumeralBidiCmd.label "Cyfry Hindi w dokumentach wyświetlanych w kierunku RTL (od prawej do lewej)">
+<!ENTITY arabicnumeralBidiCmd.label "Arabski">
+<!ENTITY hindinumeralBidiCmd.label "Hinduski">
+<!ENTITY controlstextmodeBidiMenu.label "Tryb tekstowy w kontrolkach">
+<!ENTITY logicalcontrolstextmodeBidiCmd.label "Logiczny">
+<!ENTITY visiualcontrolstextmodeBidiCmd.label "Wizualny">
+<!ENTITY containercontrolstextmodeBidiCmd.label "Tak jak w zawartym dokumencie">
+<!ENTITY charactersetBidiMenu.label "Zestaw znaków">
+<!ENTITY doccharactersetBidiCmd.label "Użyj kodowania określonego przez dokument">
+<!ENTITY defaultcharactersetBidiCmd.label "Używaj wybranej domyślnej strony kodowej ignorując stronę kodową określoną w dokumencie.">
+
+<!ENTITY webContentMenu.label "Języki i zawartość sieci WWW">
+<!ENTITY webContentMenu.accesskey "J">
+<!ENTITY downloadMore.label "Pobierz więcej">
+<!ENTITY downloadMore.accesskey "P">
+<!ENTITY applyTheme.label "Zastosuj motyw">
+<!ENTITY applyTheme.accesskey "a">
+<!ENTITY getNewThemesCmd.label "Pobierz nowe motywy">
+<!ENTITY getNewThemesCmd.accesskey "P">
+<!ENTITY searchMenu.label "Szukaj">
+<!ENTITY searchMenu.accesskey "s">
+<!ENTITY findOnCmd.label "Znajdź na tej stronie…">
+<!ENTITY findOnCmd.accesskey "Z">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Znajdź następne">
+<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Znajdź poprzednie">
+<!ENTITY findPrevCmd.accesskey "o">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!ENTITY searchInternetCmd.label "Szukaj w sieci">
+<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternet.commandKey "f">
+
+<!ENTITY clearPrivateDataCmd.label "Wyczyść prywatne dane…">
+<!ENTITY clearPrivateDataCmd.accesskey "e">
+
+<!ENTITY goMenu.label "Przejdź">
+<!ENTITY goMenu.accesskey "d">
+<!ENTITY goHomeCmd.label "Strona domowa">
+<!ENTITY goHomeCmd.accesskey "d">
+
+<!ENTITY bookmarksMenu.label "Zakładki">
+<!ENTITY bookmarksMenu.accesskey "Z">
+<!ENTITY addCurPageCmd.label "Dodaj do zakładek">
+<!ENTITY addCurPageCmd.accesskey "D">
+<!ENTITY addCurPageAsCmd.label "Archiwizuj zakładkę…">
+<!ENTITY addCurPageAsCmd.accesskey "A">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Dodaj do zakładek jako grupę kart…">
+<!ENTITY addCurTabsAsCmd.accesskey "G">
+<!ENTITY manBookmarksCmd.label "Menedżer zakładek…">
+<!ENTITY manBookmarksCmd.accesskey "z">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Subscribe to This Page">
+<!ENTITY feedsMenu.accesskey "S">
+<!ENTITY emptyItem.label "(Pusty)">
+
+<!ENTITY helpMenuCmd.label "Pomoc">
+<!ENTITY helpMenuCmd.accesskey "c">
+<!ENTITY helpContentsCmd.label "Spis treści">
+<!ENTITY softwareUpdatesCmd.label "Uaktualnienia oprogramowania">
+<!ENTITY technicalSupportCmd.label "Pomoc techniczna">
+<!ENTITY releaseNotesCmd.label "Informacje o wersji programu">
+
+<!ENTITY menuBar.tooltip "Pasek menu">
+<!ENTITY personalToolbar.tooltip "Pasek narzędzi osobistych">
+<!ENTITY navigationToolbar.tooltip "Pasek narzędzi nawigacyjnych">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label "Wstecz">
+<!ENTITY backButton.tooltip "Przejdź do poprzedniej strony (kliknij strzałkę, aby uzyskać listę stron)">
+<!ENTITY forwardButton.label "Do przodu">
+<!ENTITY forwardButton.tooltip "Przejdź do następnej strony (kliknij strzałkę, aby uzyskać listę stron)">
+<!ENTITY reloadButton.label "Odśwież">
+<!ENTITY reloadButton.tooltip "Odśwież bieżącą stronę">
+<!ENTITY stopButton.label "Zatrzymaj">
+<!ENTITY stopButton.tooltip "Zatrzymuje wczytywanie bieżącej strony">
+<!ENTITY searchButton.label "Szukaj">
+<!ENTITY searchButton.tooltip "Wprowadź słowo w polu po lewej stronie, a następnie kliknij przycisk Szukaj">
+<!ENTITY goButton.label "Idź">
+<!ENTITY goButton.tooltip "Wprowadź adres w polu po lewej stronie, a następnie kliknij przycisk Idź">
+<!ENTITY printButton.label "Drukuj">
+<!ENTITY printButton.tooltip "Drukuj bieżącą stronę">
+
+<!ENTITY throbber.tooltip "SeaMonkey.pl! Otwórz naszą stronę!">
+
+<!ENTITY locationBar.tooltip "Wprowadź termin, słowo kluczowe lub adres WWW">
+<!ENTITY locationBar.accesskey "l">
+<!ENTITY locationBar.title "Adres">
+
+<!ENTITY proxyIcon.tooltip "Przeciągnij i upuść tę ikonę, aby stworzyć odnośnik do tej strony">
+<!ENTITY internetKeyword.tooltip "Powróć do poprzednio wyświetlanej strony lub wybierz słowo kluczowe">
+
+<!-- Toolbar items --> 
+<!ENTITY bookmarksButton.label "Zakładki">
+<!ENTITY bookmarksButton.tooltip "Lista zakładek">
+<!ENTITY homeButton.label "Strona domowa">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label "Zakończono">
+
+<!ENTITY historyCmd.label "Historia">
+<!ENTITY historyCmd.accesskey "H">
+<!ENTITY history.commandKey "h">
+
+<!ENTITY popupIcon.tooltiptext "Odblokuj możliwość wyświetlania wyskakujących okien przez tę witrynę">
+
+<!ENTITY bidiSwitchPageDirectionItem.label "Zmień kierunek strony">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "s">

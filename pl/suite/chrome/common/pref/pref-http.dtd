@@ -1,0 +1,19 @@
+<!ENTITY pref.http.title "Protokół HTTP">
+
+<!-- Network-->
+<!ENTITY prefDirect.label "Ustawienia bezpośredniego połączenia">
+<!ENTITY prefProxy.label "Ustawienia połączeń proxy">
+<!ENTITY prefEnableHTTP10.label "Użyj protokołu HTTP 1.0">
+<!ENTITY prefEnableHTTP10.accesskey "U">
+<!ENTITY prefEnableHTTP10Proxy.accesskey "S">
+<!ENTITY prefEnableHTTP11.label "Użyj protokołu HTTP 1.1">
+<!ENTITY prefEnableHTTP11.accesskey "H">
+<!ENTITY prefEnableHTTP11Proxy.accesskey "T">
+<!ENTITY prefEnableKeepAlive.label "Włącz aktywne połączenia">
+<!ENTITY prefEnableKeepAlive.accesskey "C">
+<!ENTITY prefEnableKeepAliveProxy.accesskey "L">
+<!ENTITY prefEnablePipelining.label "Użyj przetwarzania potokowego">
+<!ENTITY prefEnablePipelining.accesskey "P">
+<!ENTITY prefEnablePipeliningProxy.accesskey "I">
+<!ENTITY prefPara "Poniższe opcje pozwalają na dostosowanie ustawień połączeń HTTP w celu zwiększenia wydajności lub kompatybilności. Niektóre serwery proxy wymagają protokołu HTTP w wersji HTTP/1.0 (szczegóły w notatkach do bieżącego wydania).">
+<!ENTITY prefPipeWarning "Uwaga: Przetwarzanie potokowe jest w fazie eksperymentalnej, pozwala na zwiększenie wydajności wczytywania stron, jednakże nie jest w pełni obsługiwane przez niektóre serwery oraz serwery proxy.">

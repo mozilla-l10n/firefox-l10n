@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title   "O programie &brandFullName;">
+<!ENTITY credits.label       "Twórcy">
+<!ENTITY credits.accesskey   "T">
+<!ENTITY aboutLink.label     "&lt; O programie &brandShortName;">
+<!ENTITY aboutLink.accesskey "O">
+<!ENTITY aboutVersion        "wersja">
+<!ENTITY copyrightText       "&#169;1998-2008 Współtwórcy. Wszelkie prawa zastrzeżone. Mozilla Thunderbird oraz logo Thunderbird są znakami towarowymi Mozilla Foundation. Wszelkie prawa zastrzeżone.">

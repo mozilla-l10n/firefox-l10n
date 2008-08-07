@@ -1,0 +1,12 @@
+<!ENTITY title.label "Zabezpieczenia wiadomości">
+<!ENTITY subject.plaintextWarning "Uwaga: Temat wiadomości nigdy nie zostanie zaszyfrowany.">
+<!ENTITY status.heading "Wiadomość zostanie zabezpieczona w następujący sposób:">
+<!ENTITY status.signed "Podpisano cyfrowo:">
+<!ENTITY status.encrypted "Zaszyfrowano:">
+<!ENTITY status.certificates "Certyfikaty:">
+<!ENTITY view.label "Pokaż">
+<!ENTITY view.accesskey "k">
+<!ENTITY tree.recipient "Odbiorca">
+<!ENTITY tree.status "Status">
+<!ENTITY tree.issuedDate "Wydany">
+<!ENTITY tree.expiresDate "Wygasa">

@@ -1,0 +1,18 @@
+
+<!ENTITY pref.policies.title "Zasady zabezpieczeń">
+
+<!ENTITY zoneIntro.label "&brandShortName; pozwala na ustawienie ograniczeń, które ustalają dostęp poszczególnych witryn do różnych funkcji przeglądarki, włączając w to język skryptowy oraz Javę.">
+
+<!ENTITY policies.label "Zasady:">
+<!ENTITY default.label "Domyślna zasada">
+<!ENTITY allWebsites.label "Wszystkie witryny">
+<!ENTITY trusted.label "Zaufane witryny">
+<!ENTITY annoyances.label "Typowe zakłócenia">
+<!ENTITY restricted.label "Witryny z ograniczeniami">
+
+<!ENTITY addSite.label "Dodaj witrynę…">
+<!ENTITY addSite.accesskey "D">
+<!ENTITY settings.label "Ustawienia dla">
+<!ENTITY settings.accesskey "s">
+
+<!ENTITY description.label "Opis zasad:">

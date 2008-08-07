@@ -1,0 +1,28 @@
+<!ENTITY find.label "Znajdź:" >
+<!ENTITY find.accesskey "n" >
+<!ENTITY expand.label "Rozwiń" >
+<!ENTITY expand.accesskey "R" >
+<!ENTITY collapse.label "Zwiń" >
+<!ENTITY collapse.accesskey "Z" >
+<!ENTITY byDate.label "Według daty" >
+<!ENTITY byDate.accesskey "d" >
+<!ENTITY bySite.label "Według witryny" >
+<!ENTITY bySite.accesskey "w" >
+<!ENTITY view.label "Porządkuj" >
+<!ENTITY view.accesskey "o">
+<!ENTITY byMostVisited.label "Według liczby wizyt" >
+<!ENTITY byMostVisited.accesskey "l" >
+<!ENTITY byLastVisited.label "Według ostatniej wizyty" >
+<!ENTITY byLastVisited.accesskey "o" >
+<!ENTITY byDayAndSite.label "Według daty i witryny" >
+<!ENTITY byDayAndSite.accesskey "t" >
+<!ENTITY openLinkInWindow.label "Otwórz" >
+<!ENTITY openLinkInWindow.accesskey "O" >
+<!ENTITY openInNewTab.label "Otwórz w nowej karcie" >
+<!ENTITY openInNewTab.accesskey "T" >
+<!ENTITY openInNewWindow.label "Otwórz w nowym oknie" >
+<!ENTITY openInNewWindow.accesskey "W" >
+<!ENTITY bookmarkLink.label "Dodaj zakładkę do odnośnika">
+<!ENTITY bookmarkLink.accesskey "a" >
+<!ENTITY copyLink.label "Kopiuj adres odnośnika" >
+<!ENTITY copyLink.accesskey "K" >

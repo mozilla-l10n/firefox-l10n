@@ -1,0 +1,5 @@
+<!ENTITY windowTitle.label "Zapisz i zmień kodowanie znaków" >
+<!ENTITY documentTitleTitle.label "Tytuł strony" >
+<!ENTITY documentCharsetTitle.label "Kodowanie znaków" >
+<!ENTITY documentCharsetDesc.label "Proszę wybrać kodowanie znaków dla zapisywanego dokumentu:" >
+<!ENTITY documentExportToText.label "Eksportuj do formatu tekstowego" >

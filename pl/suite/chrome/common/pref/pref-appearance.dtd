@@ -1,0 +1,18 @@
+<!ENTITY pref.appearance.title "Wygląd">
+<!ENTITY onStartLegend.label "Domyślny komponent otwierany po uruchomieniu &brandShortName;:">
+<!ENTITY navCheck.label "Przeglądarka">
+<!ENTITY navCheck.accesskey "n">
+<!ENTITY showToolsLegend.label "Paski narzędzi pokazuj jako">
+<!ENTITY picsNtextRadio.label "Ikony i tekst">
+<!ENTITY picsNtextRadio.accesskey "I">
+<!ENTITY picsOnlyRadio.label "Tylko ikony">
+<!ENTITY picsOnlyRadio.accesskey "o">
+<!ENTITY textonlyRadio.label "Tylko tekst">
+<!ENTITY textonlyRadio.accesskey "t">
+<!ENTITY showHideTooltips.label "Pokaż etykietki narzędzi">
+<!ENTITY showHideTooltips.accesskey "t">
+
+<!ENTITY pref.locales.title "User Interface Language">
+<!ENTITY selectLocale.label "Select the language for text that appears in dialog boxes, menus, toolbars and button labels:">
+<!ENTITY restartOnLangChange.label "Language preferences will take effect when you restart &brandShortName;.">
+

@@ -1,0 +1,6 @@
+
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Wiadomość">
+<!ENTITY newMessageCmd.accesskey "i">
+<!ENTITY newCardCmd.label "Wizytówka…">
+<!ENTITY newCardCmd.accesskey "W">

@@ -1,0 +1,47 @@
+<!ENTITY pref.navigator.title "Przeglądarka">
+
+<!ENTITY navRadio "Wyświetl">
+<!ENTITY navStartPageMenu.label "Browser Startup">
+<!ENTITY newWinPageMenu.label "po otwarciu okna">
+<!ENTITY newTabPageMenu.label "po otwarciu karty">
+
+<!ENTITY blankPageRadio.label "Pustą stronę">
+<!ENTITY blankPageRadio.accesskey "n">
+<!ENTITY homePageRadio.label "Stronę domową">
+<!ENTITY homePageRadio.accesskey "d">
+<!ENTITY lastPageRadio.label "Ostatnio odwiedzoną stronę">
+<!ENTITY lastPageRadio.accesskey "O">
+
+<!ENTITY header2.label "Strona domowa">
+<!ENTITY homePageIntro.label "Clicking the Home button takes you to this group of pages:">
+<!ENTITY useCurrent.label "Użyj bieżącej strony">
+<!ENTITY useCurrent.accesskey "u">
+<!ENTITY useCurrentGroup.label "Użyj bieżących kart">
+<!ENTITY useCurrentGroup.accesskey "k">
+<!ENTITY browseFile.label "Wybierz plik…">
+<!ENTITY browseFile.accesskey "W">
+<!ENTITY useDefault.label "Przywróć domyślne">
+<!ENTITY useDefault.accesskey "r">
+
+<!ENTITY toolbarIntro.label "Wybierz przyciski, które będą wyświetlane na pasku narzędzi:">
+
+<!ENTITY navToolbarIntro.label "Pasek nawigacyjny">
+<!ENTITY goButton.label "Idź">
+<!ENTITY goButton.accesskey "I">
+<!ENTITY searchButton.label "Szukaj">
+<!ENTITY searchButton.accesskey "S">
+<!ENTITY printButton.label "Drukuj">
+<!ENTITY printButton.accesskey "k">
+
+<!ENTITY persToolbarIntro.label "Osobisty pasek narzędzi">
+<!ENTITY homeButton.label "Strona domowa">
+<!ENTITY homeButton.accesskey "d">
+<!ENTITY bookmarksButton.label "Zakładki">
+<!ENTITY bookmarksButton.accesskey "k">
+
+<!ENTITY defaultBrowserGroup.label "Default Browser">
+<!ENTITY defaultBrowserButton.label "Set Default Browser">
+<!ENTITY defaultBrowserButton.accesskey "D">
+<!ENTITY alreadyDefaultText "&brandShortName; is already your default browser.">
+<!ENTITY defaultPendingText "&brandShortName; will be set as your default browser when you click OK.">
+<!ENTITY makeDefaultText "Set &brandShortName; as your default browser.">

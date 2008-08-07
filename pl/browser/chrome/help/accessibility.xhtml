@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+  Marek Stępień <marcoos@aviary.pl> (Polish translation)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Ułatwienia dostępu w&nbsp;programie &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Ułatwienia dostępu w&nbsp;programie &brandFullName;</h1>
+
+  <p>&brandShortName; zawiera szereg funkcji ułatwiających przeglądanie Internetu
+    dla wszystkich, w&nbsp;tym dla osób niedowidzących, niewidomych lub z&nbsp;ograniczonymi
+	możliwościami korzystania z&nbsp;myszy lub klawiatury.</p>
+
+  <div class="contentsBox">W tym rozdziale:
+    <ul>
+    <li><a href="#using_a_keyboard">Korzystanie z&nbsp;klawiatury</a></li>
+    <li><a href="#using_a_mouse">Korzystanie z&nbsp;myszy</a></li>
+    <li><a href="#fonts_and_colors">Czcionki i&nbsp;kolory</a></li>
+    <li><a href="#controlling_web_content">Kontrolowanie treści stron</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Zgodność z&nbsp;technikami wspomagającymi</a></li>
+    <li><a href="#finding_help_online">Poszukiwanie pomocy w&nbsp;Internecie</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Korzystanie z&nbsp;klawiatury</h2>
+
+  <h3 id="keyboard_shortcuts">Skróty klawiaturowe</h3>
+
+  <p>Spis dostępnych skrótów klawiaturowych znajduje się w&nbsp;rozdziale
+    <a href="shortcuts.xhtml">Skróty klawiaturowe programu &brandShortName;</a>.
+    Na naszych stronach internetowych można także znaleźć <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">porównanie skrótów
+    klawiaturowych</a> w&nbsp;programach &brandShortName;,
+    Microsoft Internet Explorer i&nbsp;Opera.</p>
+
+  <h3 id="always_use_cursor_keys">Używanie klawiszy kursora do nawigacji po stronach WWW</h3>
+
+  <p>Opcja <a href="prefs.xhtml#accessibility">Zawsze używaj klawiszy kursora do nawigacji po stronach</a> 
+    pozwala na przemieszczanie się na stronie w&nbsp;taki sposób, jakby był to
+	edytor tekstu w&nbsp;trybie tylko do odczytu.
+	Dzięki temu można zaznaczać treść przy pomocy klawiatury i&nbsp;kopiować
+	ją do schowka.  Aby to włączyć, wybierz z&nbsp;menu &pref.menuPath;,
+    w&nbsp;panelu <em>Zaawansowane</em> otwórz kartę <em>Ogólne</em>,
+	a następnie zaznacz opcję
+    <em>Zawsze używaj klawiszy kursora do nawigacji po stronach</em>.</p>
+
+  <p>Możesz także w&nbsp;dowolnej chwili wcisnąć klawisz <kbd>F7</kbd>, by
+    włączyć lub wyłączyć tę funkcję. Po naciśnięciu <kbd>F7</kbd>, &brandShortName; 
+	poprosi o&nbsp;potwierdzenie, ale można te potwierdzenia wyłączyć wybierając
+    <em>Nie pytaj ponownie.</em></p>
+
+  <h3 id="find_as_you_type">Rozpoczynanie wyszukiwania podczas wpisywania tekstu</h3>
+
+  <p>Opcja <a href="prefs.xhtml#accessibility">Rozpocznij wyszukiwanie podczas 
+    wpisywania tekstu</a> pozwala na szybkie odnajdywanie tekstu i&nbsp;odnośników
+	na stronie WWW. Funkcja ta może działać w&nbsp;dwóch trybach. Po wciśnięciu klawisza
+    <abbr title="ukośnik zwykły"><kbd>/</kbd></abbr> i&nbsp;wpisaniu liter
+	przeszukiwany będzie cały tekst na aktualnej stronie, a&nbsp;po wciśnięciu klawisza
+    <abbr title="apostrof"><kbd>'</kbd></abbr> przeszukiwane będą tylko odnośniki.
+	&brandShortName; będzie podświetlać odnajdywany tekst i&nbsp;odnośniki na bieżąco.</p>
+	
+  <p>Działanie tej funkcji można kontrolować przy użyciu skrótów klawiaturowych:</p>
+
+  <ul>
+    <li>Wpisanie kolejnych znaków zawęża poszukiwanie.  &brandShortName;
+	  podświetli następny pasujący do zapytania odnośnik lub tekst, albo
+	  poinformuje o&nbsp;niepowodzeniu wyszukiwania.</li>
+    <li>Wciśnięcie &accelKey;+<kbd>G</kbd> lub <kbd>F3</kbd> nakaże przeglądarce
+	  przejść do następnego wystąpienia poszukiwanej frazy.</li>
+    <li>Wciśnięcie &accelKey;+&shiftKey;+<kbd>G</kbd> lub &shiftKey;+<kbd>F3</kbd>
+	  nakaże przeglądarce przejść do poprzedniego wystąpienia
+	  poszukiwanej frazy.</li>
+    <li>Wciśnięcie <kbd>Backspace</kbd> usunie ostatnio wpisany znak.
+      &brandShortName; przejdzie do poprzednio podświetlonego tekstu.</li>
+    <li>Wciśnięcie <kbd>Esc</kbd> kończy wyszukiwanie. Wyszukiwanie można także
+      zakończyć klikając w&nbsp;dowolne miejsce na stronie, przesuwając stronę
+	  przy użyciu myszy lub klawiatury, albo po prostu odczekując chwilę.</li>
+  </ul>
+
+  <p>Zachowanie tej funkcji można zmienić w&nbsp;ustawieniach programu, otwierając
+    &pref.menuPath;, wybierając z&nbsp;panelu <em>Zaawansowane</em> kartę <em>Ogólne</em>
+    i&nbsp;zaznaczając opcję <em>Rozpocznij wyszukiwanie podczas wpisywania
+    tekstu</em>.  Jeśli to pole jest zaznaczone, można w&nbsp;dowolnej chwili
+	rozpocząć wyszukiwanie po prostu wpisując żądany tekst z&nbsp;klawiatury.
+    Domyślnie przeszukiwana będzie cała treść strony, ale nadal można
+    nacisnąć klawisz
+    <abbr title="apostrof"><kbd>'</kbd></abbr> lub
+    <abbr title="ukośnik zwykły"><kbd>/</kbd></abbr>, by rozpocząć
+	wyszukiwanie w&nbsp;danym trybie.</p>
+
+  <p>Można skorzystać z&nbsp;tej funkcji, by dotrzeć do przycisków, pól tekstowych
+    i&nbsp;innych elementów formularzy. Wystarczy odszukać tekst poprzedzający
+	element formularza i&nbsp;wcisnąć klawisz <kbd>Tab</kbd>. 
+    Wciśnięcie klawisza <kbd>Tab</kbd> automatycznie kończy wyszukiwanie
+	i przenosi użytkownika do pierwszego pola lub przycisku formularza za
+	podświetlonym tekstem.</p>
+	
+  <h2 id="using_a_mouse">Korzystanie z&nbsp;myszy</h2>
+
+  <h3 id="common_mouse_shortcuts">Typowe skróty myszy</h3>
+
+  <p>Spis typowych skrótów myszy znajduje się w&nbsp;rozdziale
+    <a href="mouse_shortcuts.xhtml">Skróty myszy programu &brandShortName;</a>.</p>
+
+  <h2 id="fonts_and_colors">Czcionki i&nbsp;kolory</h2>
+
+  <h3 id="overriding_page_fonts">Wymuszanie konkretnych czcionek na stronach</h3>
+
+  <p>Niektóre witryny używają trudnych do odczytania czcionek, a&nbsp;inne
+    korzystają z&nbsp;domyślnych czcionek przeglądarki. Domyślne czcionki można
+    ustawić wybierając z&nbsp;menu &pref.menuPath;, przechodząc do panelu
+    <em>Treść</em> i&nbsp;ustawiając żądany krój i&nbsp;rozmiar czcionki w&nbsp;sekcji
+    <em>Czcionki i&nbsp;kolory</em>.</p>
+
+  <p>Możliwe jest ustawienie domyślnych czcionek dla różnych stylów, w&nbsp;tym
+    dla szeryfowego, bezszeryfowego i&nbsp;o&nbsp;stałej szerokości, korzystając
+	z przycisku <em>Zaawansowane</em>. Wiele stron jednakże ustawia własne
+	czcionki, dlatego te ustawienia mogą nie odnosić skutku. Aby wymusić,
+	by przeglądarka zawsze korzystała z&nbsp;wybranych przez użytkownika czcionek,
+	bez względu na żądania stron, należy odznaczyć pole
+    <em>Pozwól stronom stosować inne czcionki niż ustawione tutaj</em>.</p>
+
+  <p>Uwaga: niektóre strony mogą nie być wyświetlane prawidłowo przy pewnych ustawieniach
+    czcionek.</p>
+
+  <h3 id="setting_a_minimum_font_size">Ustawianie minimalnego rozmiaru czcionek</h3>
+
+  <p>Niektóre witryny mogą używać zbyt małych, a&nbsp;przez to nieczytelnych, czcionek.
+    Aby ułatwić czytanie takich stron, można ustawić minimalny rozmiar czcionek.
+	Na stronach, które próbują ustawić mniejszą czcionkę, program &brandShortName;
+	będzie powiększał tekst do wybranego rozmiaru.</p>
+
+  <p>Aby ustawić minimalny rozmiar tekstu, należy wybrać z&nbsp;menu &pref.menuPath;, 
+    otworzyć panel <em>Treść</em> i&nbsp;kliknąć przycisk <em>Zaawansowane</em> w&nbsp;sekcji
+	<em>Czcionki i&nbsp;kolory</em>. Można ustawić minimalny rozmiar czcionki
+	korzystając z&nbsp;menu rozwijanego.</p>
+
+  <p>Uwaga: niektóre strony mogą nie być wyświetlane prawidłowo przy pewnych ustawieniach
+    minimalnego rozmiaru czcionki.</p>
+
+  <h3 id="resizing_page_text">Zmiana rozmiaru tekstu</h3>
+
+  <p>Aby chwilowo zmienić rozmiar wyświetlanego tekstu na dowolnej stronie, można użyć menu
+    <span class="menuPath">Widok &gt; Rozmiar tekstu</span>. Nowy rozmiar będzie używany
+    do chwili zamknięcia okna lub karty przeglądarki, nawet jeśli zostanie otwarta inna
+	strona.</p>
+	
+  <p>Do zmiany rozmiaru tekstu można używać następujących skrótów klawiaturowych:</p>
+
+  <ul>
+    <li>Wciśnięcie &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> zwiększa rozmiar
+	  tekstu. Domyślnie powiększa tekst do 120% oryginalnych rozmiarów, a&nbsp;następnie
+	  do 150%, 200%, 300%, 450%, 675%, 1013% i&nbsp;1519%.</li>
+    <li>Wciśnięcie &accelKey;+<kbd><abbr title="minus">-</abbr></kbd> zmniejsza rozmiar
+      tekstu. Domyślnie pomniejsza tekst do 90% oryginalnych rozmiarów, a&nbsp;następnie
+      do 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2% i&nbsp;1%.</li>
+    <li>Wciśnięcie &accelKey;+<kbd>0</kbd> przywraca domyślny rozmiar tekstu strony.</li>
+  </ul>
+
+  <p>Uwaga: niektóre strony mogą nie być wyświetlane prawidłowo po zwiększeniu
+    lub zmniejszeniu rozmiaru tekstu.</p>
+
+  <h3 id="overriding_page_colors">Wymuszanie konkretnych kolorów na stronach</h3>
+
+  <p>Niektóre witryny mogą stosować kolory tła i&nbsp;tekstu, które utrudniają
+    czytanie, a&nbsp;inne mogą opierać się na domyślnych ustawieniach przeglądarki.  
+	Domyślne kolory można ustawić wybierając z&nbsp;menu &pref.menuPath;,
+	otwierając Panel <em>Treść</em> i&nbsp;klikając przycisk <em>Kolory</em>
+    w&nbsp;sekcji <em>Czcionki i&nbsp;kolory</em>. Istnieje możliwość ustawienia
+	domyślnych kolorów tekstu i&nbsp;tła, jak też kolorów dla odwiedzonych
+	i nieodwiedzonych odnośników. Można także ustalić, czy odnośniki
+	mają być podkreślane.</p>
+
+  <p>Wiele stron stosuje jednakże własne kolory, dlatego te ustawienia
+    mogą nie odnosić skutku. Aby wymusić, by przeglądarka zawsze korzystała 
+	z kolorów wskazanych przez użytkownika, należy odznaczyć pole
+	<em>Pozwól stronom stosować inne kolory niż ustawione tutaj</em>.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Korzystanie z&nbsp;motywu o&nbsp;wysokim kontraście</h3>
+
+    <p>&brandShortName; automatycznie wykrywa, czy w&nbsp;systemie używany jest
+      motyw o&nbsp;wysokim kontraście i&nbsp;również wyświetla wszystko stosując
+	  schemat kolorystyczny o&nbsp;wysokim kontraście. Włączenie w&nbsp;systemie
+	  motywu o&nbsp;wysokim kontraście ma wyższy priorytet niż wszystkie
+	  ustawienia przeglądarki i&nbsp;stron WWW, ma wpływ zarówno na sam 
+	  interfejs programu &brandShortName; (wszystkie okna i&nbsp;menu), jak i&nbsp;na
+	  treść odwiedzanych stron WWW.</p>
+
+    <p class="win">Aby użyć motywu o&nbsp;wysokim kontraście, przejdź do
+      <span class="menuPath">Menu Start &gt; Panel sterowania &gt;
+      Opcje ułatwień dostępu &gt; Ekran</span> i&nbsp;zaznacz pole
+      <em>Użyj funkcji "Duży kontrast"</em><!-- cholera, kto im to tłumaczył?! ;-)) -->.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Kontrolowanie treści stron</h2>
+
+  <h3 id="blocking_popup_windows">Blokowanie wyskakujących okien</h3>
+
+  <p>Informacje na temat blokowania wyskakujących okien znajdują się w&nbsp;rozdziale <a href="popup.xhtml">Kontrola wyskakujących okien</a>.</p>
+
+  <h3 id="turning_off_java_applets">Wyłączanie apletów Javy</h3>
+
+  <p>Niektóre strony WWW zawierają bogate, interaktywne aplety stworzone
+    w&nbsp;technologii Java&trade;. Niektórzy użytkownicy mogą jednakże doświadczyć
+    pewnych problemów z&nbsp;używaniem klawiatury przy apletach Javy przechwytujących
+    klawiaturę i&nbsp;nie pozwalając na wyjście poza aplet, uniemożliwiając nawigację
+    po stronie. Jeśli stanowi to problem, można wyłączyć Javę wybierając z&nbsp;menu	
+	&pref.menuPath;, przechodząc do panelu <em>Treść</em> i&nbsp;odznaczając pole
+    <em>Włącz obsługę języka Java</em>.</p>
+
+  <h3 id="restricting_javascript_behavior">Ograniczanie możliwości JavaScriptu</h3>
+
+  <p>Można całkowicie wyłączyć JavaScript, przechodząc do &pref.menuPath;,
+    wybierając panel <em>Treść</em> i&nbsp;odznaczając pole <em>Włącz obsługę języka
+    JavaScript</em>.  Niektóre strony WWW opierają swoje działanie na JavaScripcie
+	i mogą przestać funkcjonować prawidłowo po wyłączeniu obsługi tego języka.</p>
+
+  <p>Jeśli pożądane jest tylko ograniczenie możliwości, a&nbsp;nie całkowite
+    wyłączenie JavaScriptu, można skorzystać z&nbsp;przycisku <em>Zaawansowane</em>
+	znajdującego się tuż obok pola <em>Włącz obsługę języka JavaScript</em>.
+	Otwarte zostanie okno <em>Zaawansowane ustawienia JavaScriptu</em>, w&nbsp;którym
+	można zdecydować, czy skrypty mogą zmieniać rozmiar i&nbsp;położenie okien,
+	przenosić okna na wierzch lub na spód, blokować lub podmieniać menu
+	kontekstowe, ukrywać pasek stanu lub zmieniać tekst wyświetlany na pasku
+	stanu.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Zgodność z&nbsp;technikami 
+    wspomagającymi</h2>
+
+  <p>Najnowsze informacje na temat zgodności z&nbsp;technikami wspomagającymi innych
+    producentów oprogramowania można znaleźć na stronie internetowej
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Zgodność z&nbsp;technikami wspomagającymi</a>.</p>
+
+  <h2 id="finding_help_online">Poszukiwanie pomocy w&nbsp;Internecie</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific prowadzi szereg
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">list dyskusyjnych
+      dla użytkowników programu JAWS</a>.</p>
+
+    <p>GW Micro prowadzi szereg
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">list dyskusyjnych dla
+      użytkowników programu Window Eyes</a>.</p>
+  </div>
+
+  <p>Możesz <span class="win">także</span> zadać pytania dotyczące dostępności na <a
+	href="http://www.mozillapl.org/forum/forum-15.html">polskim forum programu &brandShortName;</a> 
+    lub na <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">anglojęzycznym
+	forum pomocy technicznej programu &brandShortName;</a>.</p>
+
+  <div class="contentsBox"><em>12 września 2006</em></div>
+
+  <p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer
+    Project.</p>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Wprowadź adres internetowy (URL) strony WWW, pliku lub zasobu, który ma zostać otworzony:">
+<!ENTITY enter.accesskey "E">
+<!ENTITY chooseFile.label "Wybierz plik…">
+<!ENTITY chooseFile.accesskey "W">
+<!ENTITY newWindow.label "New browser window">
+<!ENTITY newTab.label "New browser tab">
+<!ENTITY topWindow.label "Current browser window">
+<!ENTITY editNewWindow.label "Nowe okno Kompozytora Stron">
+<!ENTITY open.label "Otwórz">
+<!ENTITY caption.label "Otwórz adres internetowy">
+<!ENTITY openWhere.label "W którym oknie otworzyć:">
+<!ENTITY openWhere.accesskey "O">

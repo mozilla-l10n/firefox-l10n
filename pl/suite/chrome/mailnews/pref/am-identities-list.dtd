@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Tożsamości skojarzone z bieżącym kontem">
+<!ENTITY identitiesListDesc.label "Obsługa wielu tożsamości">
+<!ENTITY identitiesListAdd.label "Dodaj…">
+<!ENTITY identitiesListAdd.accesskey "A">
+<!ENTITY identitiesListEdit.label "Edytuj…">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "Usuń">
+<!ENTITY identitiesListDelete.accesskey "U">

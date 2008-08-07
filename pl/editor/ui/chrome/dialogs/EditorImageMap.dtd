@@ -1,0 +1,48 @@
+<!ENTITY windowTitle.label "Edytor mapy obrazka" >
+<!ENTITY mapfileMenu.label "Plik" >
+<!ENTITY mapfilemenu.accesskey "f" >
+<!ENTITY clearCmd.label "Wyczyść" >
+<!ENTITY mapfileclear.accesskey "a" >
+<!ENTITY closeCmd.label "Zamknij" >
+<!ENTITY mapfileclose.accesskey "c" >
+<!ENTITY mapeditMenu.label "Edycja" >
+<!ENTITY mapeditmenu.accesskey "e" >
+<!ENTITY cutCmd.label "Wytnij" >
+<!ENTITY mapeditcut.accesskey "t" >
+<!ENTITY copyCmd.label "Kopiuj" >
+<!ENTITY mapeditcopy.accesskey "k" >
+<!ENTITY pasteCmd.label "Wklej" >
+<!ENTITY mapeditpaste.accesskey "e" >
+<!ENTITY selectallCmd.label "Zaznacz wszystko" >
+<!ENTITY mapselectall.accesskey "a" >
+<!ENTITY propsCmd.label "Właściwości aktywnego obszaru" >
+<!ENTITY mapeditprops.accesskey "h" >
+<!ENTITY mapviewMenu.label "Widok" >
+<!ENTITY mapviewmenu.accesskey "W" >
+<!ENTITY showhideTbarCmd.label "Ukryj pasek narzędzi" >
+<!ENTITY mapviewtbar.accesskey "t" >
+<!ENTITY mapviewScale.label "Skala" >
+<!ENTITY mapviewscale.accesskey "S" >
+<!ENTITY apercentCmd.label "100" >
+<!ENTITY zoomone.accesskey "p" >
+<!ENTITY bpercentCmd.label "200" >
+<!ENTITY zoomtwo.accesskey "2" >
+<!ENTITY cpercentCmd.label "400" >
+<!ENTITY zoomthree.accesskey "4" >
+<!ENTITY contrastCmd.label "Kontrast" >
+<!ENTITY contrast.accesskey "t" >
+<!ENTITY maphelpMenu.label "Pomoc" >
+<!ENTITY maphelpmenu.accesskey "c" >
+<!ENTITY aboutCmd.label "Informacje o" >
+<!ENTITY about.accesskey "I" >
+<!ENTITY zoominCmd.label "Powiększ" >
+<!ENTITY zoomoutCmd.label "Pomniejsz" >
+<!ENTITY delSpotCmd.label "Usuń aktywny obszar" >
+<!ENTITY clear.accesskey "c" >
+<!ENTITY selectall.accesskey "a" >
+<!ENTITY close.accesskey "Z" >
+<!ENTITY cut.accesskey "t" >
+<!ENTITY copy.accesskey "K" >
+<!ENTITY paste.accesskey "e" >
+<!ENTITY props.accesskey "i" >
+<!ENTITY tbar.accesskey "E" >

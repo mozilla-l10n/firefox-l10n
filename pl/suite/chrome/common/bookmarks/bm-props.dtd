@@ -1,0 +1,108 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Stephen Lamm          <slamm@netscape.com>
+   -   Robert John Churchill <rjc@netscape.com>
+   -   Ben Goodger           <ben@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY bookmarks.windowtitle.label 'Właściwości "**bm_title**"'>
+
+<!ENTITY generalInfo.label "Ogólne">
+<!ENTITY bookmarks.name.label "Nazwa:">
+<!ENTITY bookmarks.name.accesskey "N">
+<!ENTITY bookmarks.location.label "Adres:">
+<!ENTITY bookmarks.location.accesskey "A">
+<!ENTITY bookmarks.shortcut.label "Słowo kluczowe:">
+<!ENTITY bookmarks.shortcut.accesskey "K">
+<!ENTITY bookmarks.description.label "Opis:">
+<!ENTITY bookmarks.description.accesskey "O">
+
+<!ENTITY checkforupdates.legend.label "Sprawdzaj, czy strona została zaktualizowana">
+<!ENTITY when.label "Kiedy:">
+<!ENTITY when.accesskey "K">
+<!ENTITY from.label "od">
+<!ENTITY from.accesskey "d">
+<!ENTITY to.label "do: ">
+<!ENTITY to.accesskey "d">
+<!ENTITY every.label "co">
+<!ENTITY every.accesskey "c">
+<!ENTITY minutes.label "minut">
+<!ENTITY notifications.legend.label "Powiadomienia">
+
+<!ENTITY checknever.label "Nie sprawdzaj">
+<!ENTITY checkeveryday.label "Codziennie">
+<!ENTITY checkweekdays.label "W dni pracujące">
+<!ENTITY checkweekends.label "W weekendy">
+<!ENTITY checkmondays.label "W poniedziałki">
+<!ENTITY checktuesdays.label "We wtorki">
+<!ENTITY checkwednesdays.label "W środy">
+<!ENTITY checkthursdays.label "W czwartki">
+<!ENTITY checkfridays.label "W piątki">
+<!ENTITY checksaturdays.label "W soboty">
+<!ENTITY checksundays.label "W niedziele">
+
+<!ENTITY midnight.label "O północy">
+<!ENTITY AMone.label "1">
+<!ENTITY AMtwo.label "2">
+<!ENTITY AMthree.label "3">
+<!ENTITY AMfour.label "4">
+<!ENTITY AMfive.label "5">
+<!ENTITY AMsix.label "6">
+<!ENTITY AMseven.label "7">
+<!ENTITY AMeight.label "8">
+<!ENTITY AMnine.label "9">
+<!ENTITY AMten.label "10">
+<!ENTITY AMeleven.label "11">
+<!ENTITY noon.label "W południe">
+<!ENTITY PMone.label "13">
+<!ENTITY PMtwo.label "14">
+<!ENTITY PMthree.label "15">
+<!ENTITY PMfour.label "16">
+<!ENTITY PMfive.label "17">
+<!ENTITY PMsix.label "18">
+<!ENTITY PMseven.label "19">
+<!ENTITY PMeight.label "20">
+<!ENTITY PMnine.label "21">
+<!ENTITY PMten.label "22">
+<!ENTITY PMeleven.label "23">
+
+<!ENTITY notification.icon.label "Zmiana ikony">
+<!ENTITY notification.icon.accesskey "Z">
+<!ENTITY notification.sound.label "Odtworzenie dźwięku">
+<!ENTITY notification.sound.accesskey "O">
+<!ENTITY notification.alert.label "Wyświetl informację">
+<!ENTITY notification.alert.accesskey "W">
+<!ENTITY notification.window.label "Otwarcie strony w nowym oknie">
+<!ENTITY notification.window.accesskey "n">

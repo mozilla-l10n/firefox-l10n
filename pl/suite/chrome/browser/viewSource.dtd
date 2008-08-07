@@ -1,0 +1,27 @@
+<!-- extracted from content/viewSource.xul -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Źródło: ">
+
+<!ENTITY viewPartialSourceWindow.title "Źródło DOM">
+
+<!ENTITY menu_wrapLongLines.title "Zawijaj długie linie">
+<!ENTITY menu_wrapLongLines.accesskey "W">
+
+<!ENTITY menu_highlightSyntax.label "Podświetlanie składni">
+<!ENTITY menu_highlightSyntax.accesskey "P">
+
+<!ENTITY findNextCmd.label "Znajdź następny">
+<!ENTITY findNextCmd.accesskey "n">
+
+<!ENTITY goToLineCmd.label "Go to Line…">
+<!ENTITY goToLineCmd.accesskey "P">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY printSetupCmd.label "Ustawienia strony…">
+<!ENTITY printSetupCmd.accesskey "U">

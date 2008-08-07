@@ -1,0 +1,28 @@
+<!-- extracted from content/pref-cache.xul -->
+
+<!ENTITY pref.cache.title "Pamięć podręczna">
+<!ENTITY pref.cache.caption "Ustawienia pamięci podręcznej">
+<!ENTITY cachePara "Kopie często oglądanych stron WWW przechowywane są na dysku twardym komputera, co pozwala na skrócenie czasu koniecznego do pobrania elementów strony (naciśnięcie przycisku Odśwież w oknie przeglądarki spowoduje pobranie aktualnej wersji strony).">
+<!ENTITY diskCache.label "Rozmiar:">
+<!ENTITY diskCache.accesskey "a">
+<!ENTITY mbytes "MB">
+<!ENTITY diskCacheFolder.label "Adres katalogu pamięci podręcznej:">
+<!ENTITY clearDiskCache.label "Wyczyść pamięć podręczną">
+<!ENTITY clearDiskCache.accesskey "d">
+<!ENTITY chooseDiskCacheFolder.label "Wybierz katalog…">
+<!ENTITY chooseDiskCacheFolder.accesskey "k">
+<!ENTITY diskCacheFolderExplanation "Pliki pamięci podręcznej będą przechowywane w podkatalogu &quot;Cache&quot; wybranego katalogu. Aby zmiany zostały zaktualizowane, należy ponownie uruchomić &brandShortName;.">
+<!ENTITY docCache "Porównaj dokument zachowany w pamięci podręcznej z oryginałem w sieci:">
+<!ENTITY oncePsessionRadio.label "Jednokrotnie w trakcie każdej sesji">
+<!ENTITY oncePsessionRadio.accesskey "o">
+<!ENTITY everyTimeRadio.label "Podczas każdego połączenia">
+<!ENTITY everyTimeRadio.accesskey "e">
+<!ENTITY neverRadio.label "Nigdy">
+<!ENTITY neverRadio.accesskey "n">
+<!ENTITY autoRadio.label "Gdy strona jest nieaktualna">
+<!ENTITY autoRadio.accesskey "a">
+
+<!ENTITY prefetchTitle.label "Wstępne pobieranie ">
+<!ENTITY enablePrefetch.label "Pobierz wstępnie strony WWW w trakcie bezczynności, aby strony wskazywane przez odnośniki, były szybciej otwierane">
+<!ENTITY enablePrefetch.accesskey "p">
+<!-- <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->

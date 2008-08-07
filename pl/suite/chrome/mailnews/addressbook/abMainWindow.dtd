@@ -1,0 +1,146 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title "Książka adresowa">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newCard.label "Wizytówka…">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newCard.accesskey "w">
+<!ENTITY newListCmd.label "Lista dystrybucyjna…">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey "l">
+<!ENTITY newAddressBookCmd.label "Książka adresowa">
+<!ENTITY newAddressBookCmd.accesskey "k">
+<!ENTITY renameAddressBookCmd.label "Zmień nazwę Książki adresowej…">
+<!ENTITY renameAddressBookCmd.accesskey "R">
+<!ENTITY newLDAPDirectoryCmd.label "Katalog LDAP…">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey "D">
+<!ENTITY newIM.label "Komunikator">
+<!ENTITY printCardViewCmd.label "Drukuj wizytówkę…">
+<!ENTITY printCardViewCmd.accesskey "D">
+<!ENTITY printPreviewCardViewCmd.label "Podgląd wydruku wizytówki">
+<!ENTITY printPreviewCardViewCmd.accesskey "w">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
+<!ENTITY printCardViewCmd.key "D">
+<!ENTITY printAddressBook.label "Drukuj książkę adresową…">
+<!ENTITY printAddressBook.accesskey "a">
+<!ENTITY printPreviewAddressBook.label "Podgląd wydruku Książki adresowej">
+<!ENTITY printPreviewAddressBook.accesskey "P">
+<!ENTITY printSetupCmd.label "Ustawienia strony…">
+<!ENTITY printSetupCmd.accesskey "U">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label "Usuń książkę adresową">
+<!ENTITY deleteCardCmd.label "Usuń wizytówkę">
+<!ENTITY deleteCardsCmd.label "Usuń wybrane wizytówki">
+<!ENTITY deleteListCmd.label "Usuń listę">
+<!ENTITY deleteListsCmd.label "Usuń zaznaczone listy">
+<!ENTITY deleteItemsCmd.label "Usuń zaznaczone elementy">
+<!ENTITY swapFirstNameLastNameCmd.label "Zamień miejscami Imię/Nazwisko">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "w">
+<!ENTITY propertiesCmd.label "Właściwości…">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.key "i">
+
+<!-- View Menu -->
+<!ENTITY showAbToolbarCmd.label "Pasek narzędzi książki adresowej">
+<!ENTITY showAbToolbarCmd.accesskey "o">
+
+<!ENTITY showCardPane.label "Panel wizytówek">
+<!ENTITY showCardPane.accesskey "P">
+<!ENTITY menu_ShowNameAs.label "Pokaż nazwę jako">
+<!ENTITY menu_ShowNameAs.accesskey "P">
+<!ENTITY firstLastCmd.label "Imię Nazwisko">
+<!ENTITY firstLastCmd.accesskey "I">
+<!ENTITY lastFirstCmd.label "Nazwisko, Imię">
+<!ENTITY lastFirstCmd.accesskey "N">
+<!ENTITY displayNameCmd.label "Wyświetlana nazwa">
+<!ENTITY displayNameCmd.accesskey "W">
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label "Importuj…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Eksportuj…">
+<!ENTITY exportCmd.accesskey "E">
+<!ENTITY allowOnlineCheck.label "Sprawdź dostępność online (AOL)">
+<!ENTITY allowOnlineCheck.accesskey "S">
+
+<!ENTITY stopSearchingCmd.label "Zatrzymaj wyszukiwanie">
+
+<!-- Toolbar and Popup items -->  
+<!ENTITY newcardButton.label "Nowa wizytówka">
+<!ENTITY newcardButton.accesskey "N">
+<!ENTITY newlistButton.label "Nowa lista dystrybucyjna">
+<!ENTITY newlistButton.accesskey "L">
+<!ENTITY editButton.label "Właściwości">
+<!ENTITY editButton.accesskey "W">
+<!ENTITY newmsgButton.label "Nowa">
+<!ENTITY newmsgButton.accesskey "N">
+<!ENTITY deleteButton.label "Usuń">
+<!ENTITY deleteButton.accesskey "U">
+<!ENTITY newimButton.label "Komunikator">
+<!ENTITY newimButton.accesskey "K">
+<!ENTITY stopButton.label "Zatrzymaj">
+<!ENTITY searchButton.label "Szukaj">
+<!ENTITY showNames.label "Pokaż imiona/nazwiska zawierające:">
+
+<!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip "Pasek narzędzi książki adresowej">
+<!ENTITY newcardButton.tooltip "Utwórz nową wizytówkę">
+<!ENTITY newlistButton.tooltip "Utwórz nową listę dystrybucyjną">
+<!ENTITY editButton.tooltip "Edytuj wybraną wizytówkę">
+<!ENTITY newmsgButton.tooltip "Wyślij wiadomość">
+<!ENTITY newIM.tooltip "Połącz z adresatem za pomocą komunikatora">
+<!ENTITY deleteButton.tooltip "Usuń wybraną wizytówkę lub książkę adresową">
+<!ENTITY stopButton.tooltip "Zatrzymaj bieżący transfer">
+<!ENTITY searchButton.tooltip "Przeszukaj wybraną książkę adresową">
+<!ENTITY throbber.tooltip "&vendorShortName;PL! Otwórz naszą stronę!">
+<!ENTITY clearButton.tooltip "Wyczyść kryteria wyszukiwania i wyświetl wszystkie pozycje">
+<!ENTITY advancedButton.tooltip "Zaawansowane wyszukiwanie adresów">
+
+<!-- Status Bar -->  
+<!ENTITY statusText.label "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">

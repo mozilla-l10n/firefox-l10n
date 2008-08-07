@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Kopie i foldery">
+<!ENTITY sendingPrefix.label "Wysyłając wiadomości automatycznie: ">
+<!ENTITY fccMailFolder.label "umieszczaj ich kopie w:">
+<!ENTITY fccMailFolder.accesskey "i">
+<!ENTITY fccReplyFollowsParent.label "umieszczaj odpowiedzi w folderze wiadomości, na którą odpowiada użytkownik">
+<!ENTITY fccReplyFollowsParent.accesskey "o">
+<!ENTITY chooseFolderButton.label 		"Wybierz folder…">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "wyślij ukrytą kopię do:">
+<!ENTITY bccAddress.accesskey "k">
+<!ENTITY specialFolderTitle.label "Foldery specjalne">
+<!ENTITY draftMailFolder.label "Szkice wiadomości przechowuj w:">
+<!ENTITY templateMailFolder.label "Szablony wiadomości przechowuj w:">
+<!ENTITY saveMessageDlg.label "Wyświetl okno dialogowe potwierdzające zapisywanie wiadomości">
+<!ENTITY saveMessageDlg.accesskey "W">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "folderze Wysłane konta:">
+<!ENTITY sentFolderOn.accesskey "y">
+<!ENTITY sentInOtherFolder.label "folderze:">
+<!ENTITY sentInOtherFolder.accesskey "l">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "folderze Szkice konta:">
+<!ENTITY draftsFolderOn.accesskey "S">
+<!ENTITY draftInOtherFolder.label "folderze:">
+<!ENTITY draftInOtherFolder.accesskey "f">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "folderze Szablony konta:">
+<!ENTITY templatesFolderOn.accesskey "z">
+<!ENTITY templateInOtherFolder.label "innym folderze:">
+<!ENTITY templateInOtherFolder.accesskey "n">
+<!ENTITY specialFoldersTitle.label "Szkice i szablony">
+<!ENTITY keepDrafts.label "Szkice wiadomości przechowuj w:">
+<!ENTITY keepTempltes.label "Szablony wiadomości przechowuj w:">

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://global/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Jeff Walden <jwalden+code@mit.edu>
+  Stanisław Małolepszy <smalolepszy@aviary.pl> (Polish localization for Firefox 1.0)
+  Marek Stępień <marcoos@aviary.pl> (Polish localization for Firefox 1.5 and 2.0)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Opis menu przeglądarki &brandShortName;</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Opis menu przeglądarki &brandShortName;</h1>
+  <div>Niniejszy dokument opisuje polecenia menu przeglądarki &brandShortName;.</div>
+
+  <div class="contentsBox">W&nbsp;tej części opisano:
+    <ul>
+      <li><a href="#file">Menu Plik</a></li>
+      <li><a href="#edit">Menu Edycja</a></li>
+      <li><a href="#view">Menu Widok</a></li>
+      <li><a href="#go">Menu Historia</a></li>
+      <li><a href="#bookmarks">Menu Zakładki</a></li>
+      <li><a href="#tools">Menu Narzędzia</a></li>
+      <li><a href="#help">Menu Pomoc</a></li>
+    </ul>
+  </div>
+
+<div class="mac">
+  <h2 id="firefox">&brandShortName;</h2>
+    <h3 id="about_mac">O&nbsp;programie &brandFullName;</h3>
+  <p>Wyświetla okno dialogowe z&nbsp;informacjami o&nbsp;przeglądarce &brandShortName;, wraz z&nbsp;numerem wersji i&nbsp;skrócona listą twórców.</p>
+
+    <h3 id="prefs_mac">Preferencje...</h3>
+<p>Wyświetla okno <a href="prefs.xhtml">&pref.pluralCaps;</a>, w&nbsp;którym użytkownik może zmienić ustawienia przeglądarki &brandShortName;.</p>
+
+    <h3 id="quit_mac">Zakończ &brandShortName;</h3>
+<p>Zamyka wszystkie okna przeglądarki &brandShortName;, przerywa pobieranie plików. Aby zapobiec przypadkowemu zamknięciu, gdy otwartych jest kilka kart lub okien, wyświetlona zostanie prośba o&nbsp;potwierdzenie. Prośbę o&nbsp;potwierdzenie można wyłączyć &ndash; wystarczy odznaczyć pole <em>Ostrzegaj przed zamknięciem wielu kart</em> na karcie <em>Karty</em> w&nbsp;oknie &pref.menuPath;. Jeśli trwa pobieranie plików, &brandShortName; również ostrzeże użytkownika przed przypadkowym zamknięciem programu.</p>
+
+
+</div>
+
+<h2 id="file">Menu Plik</h2>
+
+  <h3 id="new_window">Nowe okno</h3>
+  <p>Otwiera nowe okno przeglądarki &brandShortName; i&nbsp;wczytuje do niego stronę startową.</p>
+
+  <h3 id="new_tab">Nowa karta</h3>
+  <p>Otwiera nową (pustą) kartę w&nbsp;aktywnym oknie przeglądarki &brandShortName;.</p>
+
+ <h3 id="open_location">Otwórz adres...</h3>
+  <p>Przenosi kursor do paska adresu, gdzie można wpisać adres witryny do odwiedzenia.</p>
+
+ <h3 id="open_file">Otwórz plik...</h3>
+  <p>Wczytuje do aktywnego okna plik znajdujący się na dysku lokalnym lub w&nbsp;sieci lokalnej. Użytkownik wskazuje plik w&nbsp;oknie dialogowym Otwórz plik. Przeglądarka &brandShortName; pozwala na przeglądanie plików HTML, XML, graficznych i&nbsp;tekstowych.</p>
+
+  <h3 id="close_tab">Zamknij kartę</h3>
+  <p>Zamyka aktywną kartę &mdash; aktywna staje się karta położona na prawo od niej. Polecenie to jest widoczne tylko wtedy, gdy otwarta jest przynajmniej jedna karta przeglądarki.</p>
+
+   <h3 id="close">Zamknij okno</h3>
+   <p>Zamyka aktywne okno przeglądarki.</p>
+   
+  <h3 id="save_page_as">Zapisz stronę jako...</h3>
+  <p>Zapisuje na dysku komputera bieżącą stronę. Strona może być zapisana jako kompletna (włącznie z&nbsp;grafiką i&nbsp;innymi elementami), jako tylko HTML (zapisywany jest kod HTML strony) lub jako plik tekstowy (zapisywany jest sam tekst strony). Należy wskazać właściwy typ pliku w&nbsp;oknie dialogowym Zapisz jako.</p>
+
+  <h3 id="send_page">Wyślij stronę...</h3>
+  <p>Wysyła odnośnik do bieżącej strony za pomocą poczty elektronicznej. Przeglądarka &brandShortName; wywołuje domyślny program do obsługi poczty i&nbsp;wpisuje adres strony w&nbsp;treści wiadomości. </p>
+
+  <h3 id="page_setup">Ustawienia strony...</h3>
+  <p>Pozwala na określenie ustawień wydruku strony: wielkości marginesów, treści nagłówka i&nbsp;stopki, orientacji papieru i&nbsp;innych</p>
+
+<div class="noMac">
+  <h3 id="print_preview">Podgląd wydruku</h3>
+  <p>Wyświetla podgląd wydruku strony zgodnie z&nbsp;ustawieniami wydruku określonymi w&nbsp;oknie Ustawienia strony.</p>
+</div>
+
+  <h3 id="print">Drukuj...</h3>
+  <p>Wyświetla okno dialogowe Drukuj, w&nbsp;którym użytkownik może określić parametry wydruku. Naciśnięcie <em>OK</em> rozpoczyna drukowanie.</p>
+
+  <h3 id="import">Importuj...</h3>
+  <p>Wyświetla okno dialogowe, które pozwala przejąć opcje, zakładki, historię, hasła z&nbsp;innych zainstalowanych przeglądarek jak np. Microsoft Internet Explorer, Netscape, Mozilla czy Opera.</p>
+  
+  <h3 id="work_offline">Pracuj w&nbsp;trybie offline</h3>
+  <p>Przełącza pomiędzy trybem online i&nbsp;offline. Tryb offline umożliwia przeglądanie bez aktywnego połączenia internetowego wcześniej odwiedzonych stron internetowych.</p>
+
+<div class="noMac">    
+<h3 id="exit">Zakończ</h3>
+<p>Zamyka wszystkie okna przeglądarki &brandShortName;, przerywa pobieranie plików. Aby zapobiec przypadkowemu zamknięciu, gdy otwartych jest kilka kart lub okien, wyświetlona zostanie prośba o&nbsp;potwierdzenie. Prośbę o&nbsp;potwierdzenie można wyłączyć &ndash; wystarczy odznaczyć pole <em>Ostrzegaj przed zamknięciem wielu kart</em> w&nbsp;panelu <em>Karty</em> w&nbsp;oknie &pref.menuPath;. Jeśli trwa pobieranie plików, &brandShortName; również ostrzeże użytkownika przed przypadkowym zamknięciem programu.</p>
+</div>
+
+
+<h2 id="edit">Menu Edycja</h2>
+
+  <h3 id="undo">Cofnij</h3>
+  <p>Cofa ostatnią zmianę dokonaną w&nbsp;formularzu na stronie.</p>
+
+  <h3 id="redo">Przywróć</h3>
+  <p>Przywraca stan formularza sprzed wydania polecenia Cofnij.</p>
+
+  <h3 id="cut">Wytnij</h3>
+  <p>Wycina z&nbsp;formularza zaznaczony tekst do pamięci podręcznej.</p>
+
+  <h3 id="copy">Kopiuj</h3>
+  <p>Kopiuje zaznaczony tekst do pamięci podręcznej.</p>
+  
+  <h3 id="paste">Wklej</h3>
+  <p>Wkleja tekst uprzednio zapisany w&nbsp;pamięci podręcznej do formularza na stronie.</p>
+
+  <h3 id="delete">Usuń</h3>
+  <p>Usuwa zaznaczony tekst z&nbsp;formularza na stronie.</p>
+
+  <h3 id="select_all">Zaznacz wszystko</h3>
+  <p>Zaznacza wszystkie elementy na stronie (tekst, grafikę, osadzone obiekty, itp.)</p>
+
+  <h3 id="find_in_this_page">Znajdź na tej stronie...</h3>
+  <p>Wyświetla pasek wyszukiwania u&nbsp;dołu okna przeglądarki.
+  Podczas wpisywania tekstu w&nbsp;pole wyszukiwania &brandShortName; automatycznie znajduje
+  i&nbsp;zaznacza pierwsze wystąpienie wprowadzonego tekstu na stronie.
+  <em>Znajdź następny</em> oraz  <em>Znajdź poprzedni</em> znajduje pozostałe wystąpienia tekstu na stronie.
+  <em>Podświetl</em> podświetla wszystkie wystąpienia tekstu na stronie.</p>
+  
+  <h3 id="find_again">Znajdź następne</h3>
+  <p>Odszukuje kolejne wystąpienie na bieżącej stronie tekstu uprzednio znalezionego poleceniem <em>Znajdź na tej stronie...</em></p>
+
+  <h3 class="unix" id="prefs">&pref.pluralCaps;</h3>
+  <p class="unix">Wyświetla okno <a href="prefs.xhtml">&pref.pluralCaps;</a>, w&nbsp;którym użytkownik może zmienić ustawienia przeglądarki &brandShortName;.</p>
+
+<h2 id="view">Menu Widok</h2>
+
+  <h3 id="toolbars">Paski narzędzi</h3>
+
+    <h4 id="navigation_toolbar">Pasek narzędzi nawigacyjnych</h4>
+    <p>Wyświetla/ukrywa pasek narzędzi nawigacyjnych z&nbsp;typowymi przyciskami: Wstecz, Do przodu, Odśwież, Zatrzymaj oraz polem tekstowym adresu.</p>
+
+    <h4 id="bookmarks_toolbar">Pasek zakładek</h4>
+    <p>Wyświetla/ukrywa pasek zakładek zawierający zakładki użytkownika.</p>
+
+    <h4 id="customize">Dostosuj...</h4>
+    <p>Wyświetla okno konfiguracyjne paska narzędzi nawigacyjnych. Okno to można wyświetlić także naciskając prawy przycisk myszy na pasku i&nbsp;wybierając <em>Dostosuj...</em> z&nbsp;menu kontekstowego. Szczegółowy opis konfiguracji paska znajduje się w&nbsp;rozdziale <a href="customization.xhtml#how_do_i_customize_the_toolbars">Dostosowywanie przeglądarki &brandShortName;.</a></p>
+
+  <h3 id="status_bar">Pasek stanu</h3>
+  <p>Wyświetla/ukrywa pasek stanu u&nbsp;dołu okna przeglądarki. Na pasku stanu często wyświetlane są dodatkowe informacje o&nbsp;stronie, ale nie zawsze są one potrzebne.</p>
+
+    <h3 id="sidebar">Panel boczny</h3>
+    <p>Panel boczny to fragment okna przeglądarki, który może zawierać dowolne, przydatne informacje. Mogą to być zakładki, historia lub też dowolna wybrana przez użytkownika strona. Naciśnięcie <b>x</b> w&nbsp;prawym górnym rogu panelu bocznego zamyka go.</p>
+
+    <h4 id="view_sidebar_bookmarks">Zakładki</h4>
+    <p>Wyświetla panel boczny zawierający zakładki użytkownika.</p>
+  
+    <h4 id="view_sidebar_history">Historia</h4>
+    <p>Wyświetla panel boczny "Historia" z&nbsp;listą ostatnio odwiedzanych stron. By określić, jak długo przeglądarka ma pamiętać odwiedzane strony, należy wybrać: &pref.menuPath;<span class="menuPath"> &gt; Prywatność</span>, a&nbsp;następnie przejść do karty <em>Historia</em> i&nbsp;określić liczbę dni.</p>
+
+
+  <h3 id="stop">Zatrzymaj</h3>
+  <p>Przerywa wczytywanie strony przez przeglądarkę. Inny sposób na przerwanie wczytywania strony, to naciśnięcie przycisku <em>Zatrzymaj</em> na pasku narzędzi nawigacyjnych.</p>
+
+  <h3 id="reload">Odśwież</h3>
+  <p>Wczytuje ponownie stronę aby pokazać jej aktualną wersję. Inny sposób na odświeżenie strony, to naciśnięcie przycisku <em>Odśwież</em> na pasku narzędzi nawigacyjnych.</p>
+
+  <h3 id="text_size">Rozmiar tekstu</h3>
+  <p>Gdy tekst na stronie jest zbyt mały lub zbyt duży, możesz go zmienić według własnych upodobań.</p>
+
+  <h4 id="increase_text_size">Zwiększ</h4>
+  <p>Zwiększa wielkość wyświetlanego tekstu strony o&nbsp;jednostkę. Polecenie można wywołać także naciskając klawisze <kbd>Ctrl +</kbd> lub skorzystać z&nbsp;<a href="mouse_shortcuts.xhtml">skrótów myszy</a></p>
+
+  <h4 id="decrease_text_size">Zmniejsz</h4>
+  <p>Zmniejsza wielkość wyświetlanego tekstu strony o&nbsp;jednostkę. Polecenie można wywołać także naciskając klawisze <kbd>Ctrl -</kbd> lub skorzystać z&nbsp;<a href="mouse_shortcuts.xhtml">skrótów myszy</a></p>
+
+
+  <h4 id="reset_text_size">Normalny rozmiar</h4>
+  <p>Przywraca pierwotną wielkość tekstu.</p>
+
+  <h3 id="page_style">Styl strony</h3>
+  <p>Umożliwia wybór stylu wyświetlanej strony. Domyślnie wybrany jest &quot;podstawowy styl strony&quot;, chyba że jej autor określił inaczej.</p>
+
+    <h4 id="no_style">Ignoruj style</h4>
+    <p>Usuwa formatowanie zapisane w&nbsp;stylach na wyświetlanej stronie.</p>
+
+    <h4 id="basic_page_style">Styl podstawowy</h4>
+    <p>Wyświetla stronę w&nbsp;stylu, który autor strony zdefiniował jako podstawowy.</p>   
+
+    <h4 id="alternate_style"></h4>
+    <p>Jeśli autor strony dołączył także inne style, &brandShortName; wyświetli ich listę umożliwiając wybór dowolnego z&nbsp;nich.</p>
+  
+  
+  
+  <h3 id="character_encoding">Zestaw znaków</h3>
+  <p>Pozwala samodzielnie wybrać zestaw znaków dla strony, na przykład w&nbsp;przypadku błędnego wyświetlania niektórych znaków.</p>
+
+  <h3 id="page_source">Źródło strony</h3>
+  <p>Wyświetla kod źródłowy bieżącej strony.</p>
+
+<div class="noMac">
+  <h3 id="full_screen">Tryb pełnoekranowy</h3>
+  <p>Powiększa okno przeglądarki na cały ekran. Jeżeli pasek narzędzi nawigacyjnych jest ukryty (a&nbsp;z&nbsp;nim przyciski <em>Minimalizuj, Przywróć</em>...), okno można pomniejszyć do poprzednich rozmiarów naciskając <kbd>F11</kbd>.</p>
+</div>
+
+<h2 id="go">Menu Historia</h2>
+  <p>Menu "Historia" zawiera listę ostatnio odwiedzonych stron internetowych oraz zamkniętych kart.</p>
+
+  <h3 id="back">Wstecz</h3>
+  <p>Wyświetla poprzednią stronę w&nbsp;historii przeglądanych stron. Polecenie działa tak samo jak naciśnięcie przycisku <em>Wstecz</em> na pasku narzędzi nawigacyjnych.</p>
+
+  <h3 id="forward">Do przodu</h3>
+  <p>Wyświetla następną stronę w&nbsp;historii przeglądanych stron. Polecenie działa tak samo jak naciśnięcie przycisku <em>Do przodu</em> na pasku narzędzi nawigacyjnych.</p>
+
+  <h3 id="home">Strona startowa</h3>
+  <p>Wyświetla stronę startową. Polecenie działa tak samo jak naciśnięcie przycisku <em>Strona startowa</em> na pasku narzędzi nawigacyjnych. 
+  Chcąc zmienić stronę startową należy wybrać &pref.menuPath; i&nbsp;przejść do panelu <em>Główne</em>, a&nbsp;następnie nacisnąć jeden z&nbsp;przycisków: <em>Użyj bieżącej strony</em> (jeśli akurat otwartych jest kilka kart, można mieć kilka stron startowych), <em>Użyj zakładki...</em> (pozwala na wybór strony lub kilku stron z&nbsp;zakładek) lub po prostu wpisać nowy adres strony startowej.</p>
+
+  <h3 id="closed_tabs">Ostatnio zamknięte karty</h3>
+  
+  <p>Pozwala przywrócić ostatnio zamknięte karty w&nbsp;aktualnym oknie. Aby to zrobić, wystarczy po prostu wybrać nazwę zamkniętej karty z&nbsp;tej listy. Więcej informacji na ten temat można znaleźć w&nbsp;rozdziale <a href="tabbed_browsing.xhtml#closing_tabs">Zamykanie i&nbsp;przywracanie kart</a>. </p>
+
+  <h3 id="go_history">Wyświetl w&nbsp;panelu bocznym</h3>
+    <p>Wyświetla panel boczny "Historia" z&nbsp;listą ostatnio odwiedzanych stron. By określić jak długo przeglądarka ma pamiętać odwiedzane strony należy wybrać: &pref.menuPath;<span class="menuPath"> &gt; Prywatność</span>, a&nbsp;następnie przejść do karty <em>Historia</em> i&nbsp;określić liczbę dni.</p>
+
+  
+<h2 id="bookmarks">Menu Zakładki</h2>
+<p>Menu pozwala na dostęp do wszystkich zakładek użytkownika.</p>
+
+  <h3 id="add_to_bookmarks">Dodaj zakładkę</h3>
+  <p>Pozwala dodać zakładkę do bieżącej strony. W&nbsp;oknie dialogowym można podać nazwę zakładki i&nbsp;folder, w&nbsp;którym ma zostać zapisana - w&nbsp;razie potrzeby można utworzyć nowy folder.
+  Zakładki można również dodać do całej grupy aktualnie otwartych kart.</p>
+
+  <h3 id="subscribe">Subskrybuj tę stronę...</h3>
+  <p>Wyświetla podgląd <a href="glossary.xhtml#feed">kanału</a> dostarczanego przez daną witrynę.
+  Korzystając ze strony podglądu można subskrybować kanał za pomocą <a href="glossary.xhtml#live_bookmark">dynamicznej
+  zakładki</a>, czytnika kanałów zainstalowanego na komputerze lub czytnika działającego jako usługa WWW.   
+  Jeśli użytkownik zdecyduje w&nbsp;panelu <a href="prefs.xhtml#applications_options">Aplikacje</a> w&nbsp;&pref.menuPath;, by subskrypcji zawsze dokonywać za pomocą dynamicznej zakładki lub czytnika kanałów, strona podglądu zostanie pominięta.</p>
+
+  <h3 id="bookmark_all_tabs">Dodaj zakładki do wszystkich kart...</h3>
+  <p>Tworzy nowy folder z&nbsp;zakładkami do wszystkich kart otwartych w&nbsp;bieżącym oknie. Zostanie 
+     wyświetlone okno dialogowe, w&nbsp;którym będzie można podać nazwę tego folderu oraz
+     ustalić jego położenie.</p>
+
+  <h3 id="organize_bookmarks">Zarządzaj zakładkami...</h3>
+  <p>Otwiera Menedżera zakładek. Narzędzie to pozwala użytkownikowi na edycję zakładek i&nbsp;ich właściwości. 
+  Można również zapisać zakładki w&nbsp;pliku zewnętrznym (wyeksportować je) lub wczytać (zaimportować) zakładki z&nbsp;innej przeglądarki.</p>
+
+
+<h2 id="tools">Narzędzia</h2>
+
+  <h3 id="web_search">Znajdź w&nbsp;Internecie</h3>
+  <p>Prowadzi kursor do pola wyszukiwania. Należy wpisać do niego tekst, aby szybko wyszukać informacje w&nbsp;Internecie. </p>
+
+  <h3 id="downloads">Pobieranie plików</h3>
+  <p>Wyświetla okno Menedżera pobierania plików. Jeżeli przeglądarka akurat pobiera pliki, użytkownik może kontrolować przebieg pobierania - wstrzymać je lub anulować. Wstrzymane pobieranie można podjąć na nowo bez utraty już pobranej części pliku; pobieranie anulowane podejmowane jest od nowa. Zamknięcie okna menedżera nie przerywa pobierania.</p>	
+
+  <h3 id="add_ons">Dodatki</h3>
+  <p>Otwiera okno Menedżera dodatków, służącego do przeglądania, instalacji, konfiguracji i&nbsp;dezinstalacji
+  rozszerzeń i&nbsp;motywów. Więcej informacji na ten temat można znaleźć w&nbsp;rozdziale
+  <a href="customization.xhtml#add_ons">Dodatki</a>.</p>
+
+  <h3 id="javascript_console">Konsola błędów</h3>
+  <p>Otwiera konsolę ułatwiającą testowanie i&nbsp;analizowanie problemów z&nbsp;kodem JavaScript. 
+  JavaScript jest językiem skryptowym często wykorzystywanym do tworzenia stron internetowych - 
+  pozwala m.in. tworzyć strony interaktywne, jest także często wykorzystywany do dynamicznego sprawdzania 
+  poprawności danych w&nbsp;formularzach i&nbsp;wyboru przycisków.</p>
+
+  <h3 id="page_info">Informacje o&nbsp;stronie</h3>
+  <p>Wyświetla okno zawierające szczegółowe dane na temat bieżącej strony,
+  takie jak typ dokumentu, użyte kodowanie, wielkość strony, dane o&nbsp;formularzach i&nbsp;mediach na stronie, dane o&nbsp;odnośnikach na stronie, informacje dotyczące zabezpieczeń i&nbsp;inne.</p>
+
+  <h3 id="clear_private_data">Wyczyść dane prywatne...</h3>
+  <p>Czyści elementy zaznaczone w&nbsp;ustawieniach usuwania danych prywatnych
+  w&nbsp;panelu Prywatność okna &pref.menuPath;. Domyślnie prosi o&nbsp;potwierdzenie.</p>
+
+  <h3 class="win" id="options">&pref.pluralCaps;</h3>
+  <p class="win"> <p>Wyświetla okno <a href="prefs.xhtml">&pref.pluralCaps;</a>, w&nbsp;którym użytkownik może zmienić ustawienia przeglądarki &brandShortName;.</p></p>
+
+<div class="mac">
+  <h2 id="window">Okno</h2>
+
+    <h3 id="minimize">Miniaturka</h3>
+    <p>Minimalizuje aktualne okno.</p>
+
+    <h3 id="zoom">Powiększenie</h3>
+    <p>Powiększa lub przywraca poprzedni rozmiar aktualnego okna.</p>
+
+    <h3 id="open-windows">(Otwarte okna)</h3>
+    <p>Lista tytułów otwartych okien programu &brandShortName;.</p>
+</div>
+
+<h2 id="help">Pomoc</h2>
+
+  <h3 id="help_contents">
+	<span class="noMac">Spis tematów</span>
+	<span class="mac">Pomoc programu &brandShortName;</span>
+  </h3>
+
+  <p>Otwiera okno pomocy, zawierające użyteczne informacje pomocne w&nbsp;użytkowaniu programu &brandShortName;.</p>
+
+<div class="win">
+  <h3 id="for_ie_users">Dla użytkowników Internet Explorer</h3>
+  <p>Otwiera okno pomocy wyświetlające informacje, które mogą pomóc użytkownikom programu Internet Explorer przy przejściu na przeglądarkę &brandShortName;.</p>
+</div>
+
+  <h3 id="relnotes">Informacje o&nbsp;wydaniu</h3>
+  <p>Otwiera stronę internetową z&nbsp;informacjami na temat instalacji, dezinstalacji
+oraz konfiguracji programu &brandShortName; oraz informacje z&nbsp;ostatniej chwili. Wymaga
+połączenia z&nbsp;Internetem.</p>
+
+  <h3 id="reporter">Zgłoś niedziałającą witrynę...</h3>
+  <p>Pozwala na poinformowanie autorów programu &brandShortName; o&nbsp;nieprawidłowo
+  działających witrynach internetowych.</p>
+
+  <h3 id="web_forgery">Zgłoś oszustwo internetowe... / To nie jest oszustwo</h3>
+  <p>Pozycja <em>Zgłoś oszustwo internetowe...</em> pozwala na zgłoszenie strony podejrzewanej
+    o&nbsp;stosowanie tzw. phishingu, czyli wyłudzania danych osobowych za pomocą sfałszowanych witryn.
+    Tego rodzaju fałszywe witryny udają witryny zaufane (banki, serwisy aukcyjne), w celu wyłudzenia danych
+    osobowych, haseł, numerów kart kredytowych i innych prywatnych informacji.</p>
+  
+  <p>Zabezpieczenie przed phishingiem w&nbsp;programie &brandShortName; obsługiwane jest
+    przez Google i&nbsp;właśnie tam wysłane zostaną informacje wprowadzone
+    w&nbsp;tym oknie. Dzięki nim Google będzie mogło poprawić funkcjonowanie
+    mechanizmu wykrywania oszustw. Zgłoszenie to będzie anonimowe,
+    zgodnie z&nbsp;zasadami zachowania prywatności Google. Do przesłania zgłoszenia konieczne
+    jest połączenie z&nbsp;Internetem.</p>
+
+  <h3 id="check_for_updates">Sprawdź dostępność aktualizacji...</h3>
+  <p>Sprawdza dostępność aktualizacji dla programu &brandShortName; i&nbsp;zainstalowanych
+  rozszerzeń. Zostanie wyświetlona lista dostępnych aktualizacji, z&nbsp;których będzie
+  można wybrać te, które użytkownik chce zainstalować.</p>
+
+<div class="noMac">
+  <h3 id="about_mozilla_firebird">O&nbsp;programie &brandFullName;</h3>
+  <p>Wyświetla okno dialogowe z&nbsp;informacjami o&nbsp;przeglądarce &brandShortName;, wraz z&nbsp;numerem wersji i
+  skrócona listą twórców.</p>
+</div>
+
+<div class="contentsBox"><em>24 września 2006</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+</body>
+</html>

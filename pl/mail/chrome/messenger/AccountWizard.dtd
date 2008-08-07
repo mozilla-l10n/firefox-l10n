@@ -1,0 +1,69 @@
+<!ENTITY windowTitle.label "Kreator kont">
+<!ENTITY accountWizard.size "width: 63em; height: 44em;">
+<!ENTITY accountSetupInfo.label "Aby otrzymywać wiadomości, musisz najpierw skonfigurować konto pocztowe lub konto grup dyskusyjnych.">
+<!ENTITY accountTypeTitle.label "Konfiguracja nowego konta">
+<!ENTITY accountTypeDesc.label "Kreator kont przystępuje do zebrania informacji niezbędnych do utworzenia nowego konta pocztowego lub konta grup dyskusyjnych. Skontaktuj się z administratorem sieci lub Twoim dostawcą usług internetowych, jeśli nie znasz wszystkich wymaganych danych.">
+<!ENTITY accountTypeDirections.label "Wybierz rodzaj konta, które chcesz skonfigurować:">
+<!ENTITY accountTypeMail.label "Konto pocztowe">
+<!ENTITY accountTypeMail.accesskey "p">
+<!ENTITY accountTypeNews.label "Konto grup dyskusyjnych">
+<!ENTITY accountTypeNews.accesskey "g">
+<!ENTITY identityTitle.label "Tożsamość">
+<!ENTITY identityDesc.label "Poniższe dane określają tożsamość posiadacza konta i umożliwiają odbiorcom wiadomości identyfikację nadawcy.">
+<!ENTITY fullnameDesc.label 'Wprowadź imię, nazwisko lub pseudonim, który będzie używany w polu "Od:" wysyłanych wiadomości'>
+<!ENTITY fullnameExample.label '(na przykład: "Michał Wołodyjowski").'>
+<!ENTITY fullnameLabel.label "Twoje imię, nazwisko lub pseudonim:">
+<!ENTITY fullnameLabel.accesskey "T">
+<!ENTITY emailLabel.label "Adres e-mail:">
+<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailDesc.label "Wprowadź swój adres e-mail, na który ma być nadsyłana korespondencja:">
+<!ENTITY emailExample.label "(na przykład: michal@wolodyjowski.pl).">
+<!ENTITY serverTitle.label "Informacje o serwerze">
+<!ENTITY incomingServerTitle.label "Serwer poczty przychodzącej">
+<!ENTITY incomingServerTypeDesc.label "Wybierz typ serwera poczty przychodzącej:">
+<!ENTITY incomingServerTypeLabel.label "Typ serwera:">
+<!ENTITY incomingServerNameDesc.label 'Wprowadź nazwę serwera poczty przychodzącej (na przykład: "pop.netscape.net"):'>
+<!ENTITY incomingServerLabel.label "Serwer poczty przychodzącej:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!ENTITY newsServerNameDesc.label 'Podaj adres serwera grup dyskusyjnych (NNTP) (na przykład: "news.netscape.net"):'>
+<!ENTITY smtpServerTitle.label "Nazwa serwera poczty wychodzącej (SMTP)">
+<!ENTITY smtpServerDesc.label 'Wprowadź nazwę serwera poczty wychodzącej (na przykład: "smtp.netscape.net"):'>
+<!ENTITY smtpServerLabel.label "Serwer poczty wychodzącej (SMTP):">
+<!ENTITY smtpServerLabel.accesskey "O">
+<!ENTITY newsServerLabel.label "Serwer grup dyskusyjnych:">
+<!ENTITY newsServerLabel.accesskey "N">
+<!ENTITY imapType.label "Serwer IMAP">
+<!ENTITY imapType.accesskey "I">
+<!ENTITY popType.label "Serwer POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Serwer grup dyskusyjnych">
+<!ENTITY haveSmtp1.prefix "Zostanie użyty domyślny serwer poczty wychodzącej (SMTP) - &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;. Ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
+<!ENTITY loginTitle.label "Nazwa użytkownika">
+<!ENTITY usernameDesc.label "Wprowadź nazwę użytkownika, która zostanie użyta podczas połączenia z serwerem poczty przychodzącej">
+<!ENTITY usernameExample.label '(na przykład: "michalw").'>
+<!ENTITY usernameLabel.label "Nazwa użytkownika:">
+<!ENTITY usernameLabel.accesskey "U">
+<!ENTITY usernameSmtpDesc.label "Wprowadź podaną przez dostawcę Internetu nazwę użytkownika, która zostanie użyta podczas połączenia z serwerem poczty wychodzącej (ta nazwa jest zazwyczaj identyczna z nazwą użytkownika serwera poczty przychodzącej).">
+<!ENTITY usernameSmtpLabel.label "Nazwa użytkownika:">
+<!ENTITY usernameSmtpLabel.accesskey "O">
+<!ENTITY haveSmtp2.prefix "Do wysyłania wiadomości z tego konta zostanie użyta nazwa użytkownika domyślnego serwera poczty wychodzącej (SMTP) - &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;. Nazwę użytkownika oraz inne ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
+<!ENTITY haveSmtp3.prefix "Wprowadzone nazwy serwerów poczty wychodzącej i przychodzącej są takie same: &quot;">
+<!ENTITY haveSmtp3.suffix "&quot;. Powyższa nazwa użytkownika będzie używana również podczas wysyłania wiadomości. Nazwę użytkownika oraz inne ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
+<!ENTITY accnameTitle.label "Nazwa konta">
+<!ENTITY accnameDesc.label 'Wprowadź nazwę, która będzie używana do oznaczenia tego konta (na przykład: "Konto osobiste", "Konto służbowe", "Grupy dyskusyjne").'>
+<!ENTITY accnameExample.label "Na przykład: Konto osobiste, Konto służbowe, Grupy dyskusyjne.">
+<!ENTITY accnameLabel.label "Nazwa konta:">
+<!ENTITY accnameLabel.accesskey "N">
+<!ENTITY completionTitle.label "Konfiguracja zakończona">
+<!ENTITY completionText.label "Kreator kont utworzy nowe konto używając poniższych danych. Czy wprowadzone dane są poprawne?">
+<!ENTITY serverTypePrefix.label "Typ serwera poczty przychodzącej:">
+<!ENTITY serverNamePrefix.label "Nazwa serwera poczty przychodzącej:">
+<!ENTITY smtpServerNamePrefix.label "Nazwa serwera poczty wychodzącej (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Nazwa serwera grup dyskusyjnych (NNTP):">
+<!ENTITY downloadOnLogin.label "Pobierz wiadomości">
+<!ENTITY deferStorageDesc.label "Odznaczenie poniższego pola wyboru spowoduje, że poczta dla tego konta będzie przechowywana w swoim własnym katalogu. Konto to będzie wtedy widoczne jako konto najwyższego poziomu. W przeciwnym wypadku konto to stanie się częścią globalnej skrzynki odbiorczej.">
+<!ENTITY deferStorage.label "Używaj globalnej skrzynki odbiorczej (poczta będzie przechowywana w folderach lokalnych)">
+<!ENTITY clickFinish.label 'Kliknij przycisk "Zakończ", aby zapamiętać wprowadzone dane i zakończyć konfigurację konta.'>
+<!ENTITY clickFinish.labelMac 'Kliknij przycisk "Zakończ", aby zapamiętać wprowadzone dane i zakończyć konfigurację konta.'>

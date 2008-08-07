@@ -1,0 +1,121 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Stephen Lamm <slamm@netscape.com>
+   -   Blake Ross <blakeross@telocity.com>
+   -   Mike Kowalski <mikejk@ameritech.net>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- extracted from ./bookmarks.xul -->
+<!ENTITY menuBar.tooltip "Pasek menu">
+<!ENTITY bookmarkToolbar.tooltip "Pasek narzędzi zakładek">
+<!ENTITY bookmarksSearch.tooltip "Pasek wyszukiwania w zakładkach">
+<!ENTITY menuitem.newBookmark.label "Zakładka">
+<!ENTITY command.newBookmark.accesskey "a">
+<!ENTITY menuitem.newFolder.label "Folder">
+<!ENTITY button.newFolder.label "Nowy folder">
+<!ENTITY button.newFolder.accesskey "N">
+<!ENTITY command.newFolder.accesskey "f">
+<!ENTITY menuitem.newSeparator.label "Separator">
+<!ENTITY button.newSeparator.label "Nowy separator">
+<!ENTITY button.newSeparator.accesskey "o">
+<!ENTITY command.newSeparator.accesskey "s">
+<!ENTITY menuitem.open.label "Otwórz plik zakładek…">
+<!ENTITY menuitem.open.accesskey "O">
+<!ENTITY menuitem.import.label "Importuj…">
+<!ENTITY menuitem.import.accesskey "I">
+<!ENTITY menuitem.export.label "Eksportuj…">
+<!ENTITY menuitem.export.accesskey "e">
+<!ENTITY menuitem.find.label "Szukaj w Zakładkach…">
+<!ENTITY command.findBookmarks.label "Szukaj…">
+<!ENTITY menuitem.find.accesskey "Z">
+<!ENTITY edit.find.keybinding "f">
+<!ENTITY command.properties.label "Właściwości…">
+<!ENTITY button.properties.accesskey "W">
+<!ENTITY command.properties.accesskey "i">
+<!ENTITY edit.properties.keybinding "i">
+<!ENTITY command.rename.label "Zmień nazwę…">
+<!ENTITY button.rename.accesskey "Z">
+<!ENTITY command.delete.label "Usuń">
+<!ENTITY button.delete.accesskey "U">
+<!ENTITY command.moveBookmark.label "Przenieś zakładkę…">
+<!ENTITY command.moveBookmarkShort.label "Przenieś…">
+<!ENTITY command.moveBookmark.accesskey "P">
+<!ENTITY command.addBookmark.label "Dodaj…">
+<!ENTITY command.manageBookmarks.label "Zarządzaj">
+<!ENTITY command.sortFolder.label "Sortuj folder…">
+<!ENTITY command.sortFolder.accesskey "S">
+<!ENTITY edit.sortFolder.keybinding "S">
+<!ENTITY command.sortFolderByName.label "Sortuj folder według Nazwy">
+<!ENTITY command.sortFolderByName.accesskey "N">
+
+<!ENTITY menuitem.view.command.toolbar.label "Wyświetl pasek narzędzi">
+<!ENTITY menuitem.view.command.toolbar.accesskey "W">
+<!ENTITY menuitem.view.command.searchbar.label "Pasek wyszukiwania">
+<!ENTITY menuitem.view.command.searchbar.accesskey "S">
+<!ENTITY menuitem.view.show_columns.label "Pokaż kolumny">
+<!ENTITY menuitem.view.show_columns.accesskey "P">
+<!ENTITY menuitem.newbookmarkfolder.label "Ustaw jako nowy folder zakładek">
+<!ENTITY menuitem.newbookmarkfolder.accesskey "f">
+<!ENTITY menuitem.newinternetsearchfolder.label "Ustaw jako nowy folder wyszukiwania internetowego">
+<!ENTITY menuitem.newinternetsearchfolder.accesskey "i">
+<!ENTITY menuitem.personaltoolbarfolder.label "Ustaw jako folder Osobistego paska narzędzi">
+<!ENTITY menuitem.personaltoolbarfolder.accesskey "O">
+
+<!ENTITY treecol.name.label "Nazwa">
+<!ENTITY treecol.name.accesskey "n">
+<!ENTITY treecol.name.tooltip "Posortuj zakładki według pola Nazwa">
+<!ENTITY treecol.url.label "Adres">
+<!ENTITY treecol.url.accesskey "A">
+<!ENTITY treecol.url.tooltip "Posortuj zakładki według pola Adres">
+<!ENTITY treecol.shortcut.label "Słowo kluczowe">
+<!ENTITY treecol.shortcut.accesskey "k">
+<!ENTITY treecol.shortcut.tooltip "Posortuj zakładki według pola Słowo kluczowe">
+<!ENTITY treecol.description.label "Opis">
+<!ENTITY treecol.description.accesskey "O">
+<!ENTITY treecol.description.tooltip "Posortuj zakładki według pola Opis">
+<!ENTITY treecol.addedon.label "Dodano">
+<!ENTITY treecol.addedon.accesskey "a">
+<!ENTITY treecol.addedon.tooltip "Posortuj zakładki według pola Dodano">
+<!ENTITY treecol.lastmod.label "Ostatnio zmodyfikowano">
+<!ENTITY treecol.lastmod.accesskey "m">
+<!ENTITY treecol.lastmod.tooltip "Posortuj zakładki według pola Ostatnio zmodyfikowano">
+<!ENTITY treecol.lastvisit.label "Ostatnio odwiedzono">
+<!ENTITY treecol.lastvisit.accesskey "w">
+<!ENTITY treecol.lastvisit.tooltip "Posortuj zakładki według pola Ostatnio odwiedzono">
+
+<!ENTITY bookmarksWindowTitle.label "Menedżer zakładek">
+
+<!ENTITY search.label "Szukaj">
+<!ENTITY search.accesskey "S">

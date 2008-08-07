@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Ostrzeżenia bezpieczeństwa">
+
+<!ENTITY security.warn_when                       "Wyświetlaj ostrzeżenie przy:">
+<!ENTITY security.warn_entering_secure.label      "otwieraniu szyfrowanej strony">
+<!ENTITY security.warn_entering_secure.accesskey  "o">
+<!ENTITY security.warn_entering_weak.label        "otwieraniu strony o niskim stopniu szyfrowania">
+<!ENTITY security.warn_entering_weak.accesskey    "t">
+<!ENTITY security.warn_leaving_secure.label       "przechodzeniu ze strony szyfrowanej do nieszyfrowanej">
+<!ENTITY security.warn_leaving_secure.accesskey   "p">
+<!ENTITY security.warn_submit_insecure.label      "przesyłaniu niezaszyfrowanych danych formularzy">
+<!ENTITY security.warn_submit_insecure.accesskey  "r">
+<!ENTITY security.warn_viewing_mixed.label        "otwieraniu szyfrowanej strony zawierającej niezaszyfrowane informacje">
+<!ENTITY security.warn_viewing_mixed.accesskey    "w">

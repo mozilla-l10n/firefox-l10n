@@ -1,0 +1,117 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Kacper Mikke <kacper@k-raj.com.pl>
+   -                 Marek Stępień <marcoos@aviary.pl> (Polish localization)
+   -                 Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl (Polish localization)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY time.midnight "0:00" >
+<!ENTITY time.1 "1:00" >
+<!ENTITY time.2 "2:00" >
+<!ENTITY time.3 "3:00" >
+<!ENTITY time.4 "4:00" >
+<!ENTITY time.5 "5:00" >
+<!ENTITY time.6 "6:00" >
+<!ENTITY time.7 "7:00" >
+<!ENTITY time.8 "8:00" >
+<!ENTITY time.9 "9:00" >
+<!ENTITY time.10 "10:00" >
+<!ENTITY time.11 "11:00" >
+<!ENTITY time.noon "12:00" >
+<!ENTITY time.13 "13:00" >
+<!ENTITY time.14 "14:00" >
+<!ENTITY time.15 "15:00" >
+<!ENTITY time.16 "16:00" >
+<!ENTITY time.17 "17:00" >
+<!ENTITY time.18 "18:00" >
+<!ENTITY time.19 "19:00" >
+<!ENTITY time.20 "20:00" >
+<!ENTITY time.21 "21:00" >
+<!ENTITY time.22 "22:00" >
+<!ENTITY time.23 "23:00" >
+
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
+<!ENTITY day.1.Ddd "Nie" >
+<!ENTITY day.1.Ddd.accesskey "N">
+<!ENTITY day.2.Ddd "Pon" >
+<!ENTITY day.2.Ddd.accesskey "P">
+<!ENTITY day.3.Ddd "Wto" >
+<!ENTITY day.3.Ddd.accesskey "W">
+<!ENTITY day.4.Ddd "Śro" >
+<!ENTITY day.4.Ddd.accesskey "r">
+<!ENTITY day.5.Ddd "Czw" >
+<!ENTITY day.5.Ddd.accesskey "C">
+<!ENTITY day.6.Ddd "Pią" >
+<!ENTITY day.6.Ddd.accesskey "i">
+<!ENTITY day.7.Ddd "Sob" >
+<!ENTITY day.7.Ddd.accesskey "S">
+
+<!ENTITY day.1.name "niedziela" >
+<!ENTITY day.2.name "poniedziałek" >
+<!ENTITY day.3.name "wtorek" >
+<!ENTITY day.4.name "środa" >
+<!ENTITY day.5.name "czwartek" >
+<!ENTITY day.6.name "piątek" >
+<!ENTITY day.7.name "sobota" >
+
+<!-- Units -->
+<!ENTITY calendar.global.units.minute   "minuta">
+<!ENTITY calendar.global.units.minutes  "minut">
+<!ENTITY calendar.global.units.hour     "godzina">
+<!ENTITY calendar.global.units.hours    "godzin">
+<!ENTITY calendar.global.units.day      "dzień">
+<!ENTITY calendar.global.units.days     "dni">
+
+<!ENTITY month.1.name "styczeń" >
+<!ENTITY month.2.name "luty" >
+<!ENTITY month.3.name "marzec" >
+<!ENTITY month.4.name "kwiecień" >
+<!ENTITY month.5.name "maj" >
+<!ENTITY month.6.name "czerwiec" >
+<!ENTITY month.7.name "lipiec" >
+<!ENTITY month.8.name "sierpień" >
+<!ENTITY month.9.name "wrzesień" >
+<!ENTITY month.10.name "październik" >
+<!ENTITY month.11.name "listopad" >
+<!ENTITY month.12.name "grudzień" >
+
+<!ENTITY onemonthbackward.tooltip "Poprzedni miesiąc" >
+<!ENTITY onemonthforward.tooltip "Następny miesiąc" >
+<!ENTITY showToday.tooltip "Przejdź do dnia dzisiejszego">
+<!ENTITY onedayforward.tooltip "Następny dzień">
+<!ENTITY onedaybackward.tooltip "Poprzedni dzień">
+<!ENTITY showselectedday.tooltip "Pokaż wydarzenia dla wybranego dnia">

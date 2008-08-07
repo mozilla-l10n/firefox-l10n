@@ -1,0 +1,18 @@
+<!-- extracted from content/pref-scripts.xul -->
+
+<!ENTITY pref.scripts.title "Scripts &amp; Plugins">
+
+<!ENTITY navigator.label "Przeglądarka">
+<!ENTITY navigator.accesskey "r">
+
+<!ENTITY enableJavaScript.label "Włącz interpretację kodu JavaScript w komponentach">
+<!ENTITY allowScripts.label "Pozwól skryptom na wykonanie następujących czynności:">
+<!ENTITY allowScripts.accesskey "s">
+<!ENTITY allowWindowMoveResize.label "Zmieniać rozmiar lub położenie istniejących okien">
+<!ENTITY allowWindowFlip.label "Zmieniać aktywne okno, przenosząc nieaktywne okno na górę">
+<!ENTITY allowWindowStatusChange.label "Zmieniać domyślny tekst wyświetlany w pasku stanu">
+<!ENTITY allowWindowImageSrcChange.label "Zamieniać obrazki (po wskazaniu na nie myszą)">
+<!ENTITY allowContextmenuDisable.label "Wyłączać lub zmieniać menu kontekstowe">
+<!ENTITY allowHideStatusBar.label "Ukrywać pasek stanu">
+
+<!ENTITY enablePlugin.label "Enable Plugins for">

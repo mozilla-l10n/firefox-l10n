@@ -1,0 +1,9 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Allegro</ShortName>
+<Description>Wyszukiwanie w aukcjach Allegro</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AABa/wBxHQAA6OLjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAESIiIiIiIRESERERERERESERERERERERIRERMRETERIhERMRERMREiEUMRERETESIRMRERERMRIhMRMRERExEiExMxERERMSIRMTExMTExIhERMTExMTEiERExMTEzESIRETExMTERIRERExMTEREhEREREREREhERIiIiIiIhEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Image>
+<Url type="text/html" method="GET" template="http://www.allegro.pl/search.php?string={searchTerms}&amp;sourceid=Mozilla-search">
+</Url>
+<SearchForm>http://www.allegro.pl/search_form.php</SearchForm>
+</SearchPlugin>

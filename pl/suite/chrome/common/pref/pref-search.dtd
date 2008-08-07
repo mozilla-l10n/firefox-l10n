@@ -1,0 +1,23 @@
+<!-- extracted from content/pref-search.xul -->
+
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+<!ENTITY pref.search.title "Wyszukiwanie">
+<!ENTITY legendHeader "Domyślna wyszukiwarka">
+<!ENTITY defaultSearchEngine.label "Domyślna wyszukiwarka internetowa:">
+<!ENTITY defaultSearchEngine.accesskey "S">
+
+<!ENTITY openSidebarSearchPanel.label "Otwórz kartę Szukaj w panelu bocznym po uruchomieniu wyszukiwania">
+<!ENTITY openSidebarSearchPanel.accesskey "o">
+
+<!ENTITY openContextSearchTab.label "Otwórz kartę zamiast okna dla internetowego wyszukiwania kontekstowego">
+<!ENTITY openContextSearchTab.accesskey "t">
+
+<!ENTITY searchResults.label "Wyniki wyszukiwania">
+
+<!ENTITY sidebarSearchTabPref.label "Interfejs wyszukiwania karty Szukaj w panelu bocznym">
+<!ENTITY searchModeBasic.label "Podstawowy">
+<!ENTITY searchModeBasic.accesskey "P">
+<!ENTITY searchModeAdvanced.label "Zaawansowany">
+<!ENTITY searchModeAdvanced.accesskey "Z">
+

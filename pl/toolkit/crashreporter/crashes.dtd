@@ -1,0 +1,7 @@
+<!ENTITY crashes.title              "Przesłane zgłoszenia awarii">
+<!ENTITY id.heading                 "ID zgłoszenia">
+<!ENTITY date.heading               "Data przesłania">
+<!ENTITY noReports.label            "Nie przesłano żadnych zgłoszeń awarii.">
+<!ENTITY noConfig.label             "Ten program nie został właściwie skonfigurowany do wyświetlania zgłoszeń awarii. Konieczne jest prawidłowe ustawienie opcji <code>breakpad.reportURL</code>">
+
+<!ENTITY clearReports.label         "Usuń zgłoszenia">

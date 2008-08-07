@@ -1,0 +1,15 @@
+
+<!ENTITY search.name.label "nazwa">
+<!ENTITY search.url.label "adres">
+<!ENTITY search.shortcut.label "słowo kluczowe">
+<!ENTITY search.description.label "opis">
+<!ENTITY search.startswith.label "zaczyna się od">
+<!ENTITY search.endswith.label "kończy się na">
+<!ENTITY search.is.label "jest">
+<!ENTITY search.isnot.label "nie jest">
+<!ENTITY search.contains.label "zawiera">
+<!ENTITY search.doesntcontain.label "nie zawiera">
+<!ENTITY save.query.label "Zapisz zapytanie w folderze Zakładki">
+<!ENTITY search.for.label "Znajdź zakładki, których">
+<!ENTITY findBookmark.title "Znajdź zakładki">
+<!ENTITY findButton.label "Znajdź">

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://global/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Sean Umphlet <nosebleed@umphlet.com> (minor bugfixes)
+  Jeff Walden <jwalden+code@mit.edu>
+  Marek Stepien <marcoos@aviary.pl> (parts of Polish l10n)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>&brandFullName; - skróty klawiaturowe</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandShortName; - skróty klawiaturowe</h1>
+
+<p class="noMargin">Oto lista najczęściej używanych skrótów klawiaturowych w&nbsp;przeglądarce &brandFullName;. <span class="unix"><strong>Uwaga:</strong> jeśli w&nbsp;środowisku GNOME zostaną włączone skróty edytowania tekstu w&nbsp;stylu Emacsa, to będą one działały także w&nbsp;przeglądarce &brandShortName;. W&nbsp;przypadku, gdy pojawi się konflikt między skrótami emacsowymi i&nbsp;domyślnymi skrótami przeglądarki &brandShortName; (tak, jak ma to miejsce w&nbsp;przypadku &accelKey;+<kbd>K</kbd>), skrót z&nbsp;Emacsa zadziała wtedy, gdy kursor będzie znajdował się w&nbsp;polu tekstowym, takim jak pasek adresu lub wyszukiwania. W&nbsp;takim przypadku należy użyć alternatywnego skrótu, o&nbsp;ile taki istnieje.</span></p>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Polecenie</th>
+      <th>Skrót klawiaturowy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="4">Nawigacja</th>
+    </tr>
+    <tr>
+      <td>Przejdź do poprzedniej strony</td>
+
+      <td>
+        <span class="win">
+          &altKey;+<kbd>Strzałka w&nbsp;lewo</kbd><br/>
+          <kbd>Backspace</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Strzałka w&nbsp;lewo</kbd><br/>
+          &accelKey;+<kbd>[</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>[</kbd><br/>
+          &accelKey;+<kbd>Strzałka w&nbsp;lewo</kbd><br />
+          <kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>Przejdź do następnej strony</td>
+      <td>
+        <span class="win">
+
+          &altKey;+<kbd>Strzałka w&nbsp;prawo</kbd><br/>
+          &shiftKey;+<kbd>Backspace</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Strzałka w&nbsp;prawo</kbd><br/>
+          &accelKey;+<kbd>]</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>]</kbd><br/>
+          &accelKey;+<kbd>Strzałka w&nbsp;prawo</kbd><br />
+          &shiftKey;+<kbd>Delete</kbd>
+        </span>
+
+      </td>
+    </tr>
+    <tr>
+      <td>Strona startowa</td>
+      <td>&altKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Otwórz plik</td>
+      <td>&accelKey;+<kbd>O</kbd></td>
+    </tr>
+    <tr>
+      <td>Odśwież</td>
+      <td><kbd>F5<br/></kbd>
+
+        &accelKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Odśwież (pomijając pamięć podręczną)</td>
+      <td><span class="noMac">&accelKey;+<kbd>F5</kbd><br/></span>
+        &accelKey;+&shiftKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Zatrzymaj wczytywanie</td>
+      <td><span class="mac">&accelKey;+<kbd>.</kbd><br/></span>
+        <kbd>Esc</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="4">Aktualna strona</th>
+    </tr>
+    <tr>
+      <td>Przejdź na koniec strony</td>
+      <td><kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>Przejdź na początek strony</td>
+      <td><kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Przejdź do następnej ramki</td>
+      <td><kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>Przejdź do poprzedniej ramki</td>
+      <td>&shiftKey;+<kbd>F6</kbd></td>
+    </tr>
+    <tr class="noWin">
+      <td>Informacje o&nbsp;stronie</td>
+      <td>&accelKey;+<kbd>I</kbd></td>
+    </tr>
+    <tr>
+      <td>Pokaż źródło strony</td>
+      <td>&accelKey;+<kbd>U</kbd></td>
+    </tr>
+    <tr>
+      <td>Wydrukuj</td>
+      <td>&accelKey;+<kbd>P</kbd></td>
+    </tr>
+    <tr>
+      <td>Zapisz stronę jako...</td>
+      <td>&accelKey;+<kbd>S</kbd></td>
+    </tr>
+    <tr>
+      <td>Rozmiar tekstu: Zmniejsz</td>
+      <td>&accelKey;+<kbd>-</kbd></td>
+    </tr>
+    <tr>
+      <td>Rozmiar tekstu: Zwiększ</td>
+      <td>&accelKey;+<kbd>+</kbd></td>
+    </tr>
+    <tr>
+      <td>Rozmiar tekstu: Normalny</td>
+      <td>&accelKey;+<kbd>0</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+
+    <tr>
+      <th colspan="4">Edycja</th>
+    </tr>
+
+    <tr>
+      <td>Cofnij</td>
+      <td>&accelKey;+<kbd>Z</kbd></td>
+    </tr>
+
+    <tr>
+      <td>Przywróć</td>
+      <td><span class="win">&accelKey;+<kbd>Y</kbd></span>
+        <span class="noWin">&accelKey;+&shiftKey;+<kbd>Z</kbd></span></td>
+    </tr>
+
+    <tr>
+      <td>Wytnij</td>
+      <td>&accelKey;+<kbd>X</kbd></td>
+    </tr>
+
+    <tr>
+      <td>Kopiuj</td>
+      <td>&accelKey;+<kbd>C</kbd></td>
+    </tr>
+
+    <tr>
+      <td>Wklej</td>
+      <td>&accelKey;+<kbd>V</kbd></td>
+    </tr>
+
+    <tr>
+      <td>Usuń</td>
+      <td><kbd>Delete</kbd></td>
+    </tr>
+
+    <tr>
+      <td>Zaznacz wszystko</td>
+      <td>&accelKey;+<kbd>A</kbd></td>
+    </tr>
+
+
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="4">Wyszukiwanie</th>
+    </tr>
+    <tr>
+      <td>Znajdź na tej stronie...</td>
+      <td>&accelKey;+<kbd>F</kbd></td>
+    </tr>
+    <tr>
+      <td>Znajdź ponownie</td>
+
+      <td><kbd>F3</kbd><br/>
+        &accelKey;+<kbd>G</kbd></td>
+    </tr>
+    <tr>
+      <td>Znajdź wprowadzając... (odnośnik)</td>
+
+      <td><kbd>'</kbd></td>
+     </tr>
+    <tr>
+      <td>Znajdź wprowadzając... (tekst)</td>
+
+      <td><kbd>/</kbd></td>
+    </tr>
+    <tr>
+      <td>Znajdź poprzednie</td>
+      <td>&shiftKey;+<kbd>F3</kbd></td>
+    </tr>
+    <tr>
+      <td>Znajdź w&nbsp;Internecie</td>
+      <td>&accelKey;+<kbd>K</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>E</kbd></span>
+        <span class="unix"><br/>&accelKey;+<kbd>J</kbd></span></td>
+    </tr>
+
+  </tbody>
+  <tbody id="windows_tabs">
+    <tr>
+      <th colspan="4">Okna i&nbsp;karty</th>
+    </tr>
+    <tr>
+      <td>Zamknij kartę</td>
+
+      <td>&accelKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&ctrlKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Zamknij okno</td>
+      <td>&accelKey;+&shiftKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&altKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <!-- LOCALIZATION NOTE:
+         "Left"/"Up" and "Right"/"Down" might need special treatment
+         for bidi locales, as used in the following two entries.
+    -->
+    <tr>
+
+      <td>Przenieś kartę w&nbsp;lewo
+          <br/>(kiedy karta jest zaznaczona)</td>
+      <td>&accelKey;+<kbd>Strzałka w&nbsp;lewo</kbd><br/>
+          &accelKey;+<kbd>Up Arrow</kbd></td>
+    </tr>
+
+    <tr>
+      <td>Przenieś kartę w&nbsp;prawo
+          <br/>(kiedy karta jest zaznaczona)</td>
+      <td>&accelKey;+<kbd>Strzałka w&nbsp;prawo</kbd><br/>
+          &accelKey;+<kbd>Down Arrow</kbd></td>
+    </tr>
+    <tr>
+      <td>Przenieś kartę na początek
+          <br/>(kiedy karta jest zaznaczona)</td>
+      <td>&accelKey;+<kbd>Home</kbd></td>
+    </tr>
+
+    <tr>
+      <td>Przenieś kartę na koniec
+          <br/>(kiedy karta jest zaznaczona)</td>
+      <td>&accelKey;+<kbd>End</kbd></td>
+    </tr>
+    <tr>
+
+      <td>Nowa karta</td>
+      <td>&accelKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+
+      <td>Nowe okno</td>
+      <td>&accelKey;+<kbd>N</kbd></td>
+    </tr>
+
+    <tr>
+      <td>Następna karta</td>
+      <td>&ctrlKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Strzałka w&nbsp;prawo<br/></span>
+        &ctrlKey;+<kbd>Page Down</kbd></td>
+    </tr>
+    <tr>
+      <td>Otwórz adres w&nbsp;nowej karcie<br/>
+      (w&nbsp;pasku adresu lub wyszukiwania)</td>
+      <td>&altKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Poprzednia karta</td>
+      <td>&ctrlKey;+&shiftKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Strzałka w&nbsp;lewo<br/></span>
+        &ctrlKey;+<kbd>Page Up</kbd></td>
+    </tr>
+    <tr>
+       <td>Przywróć ostatnio zamkniętą kartę</td>
+       <td>&accelKey;+&shiftKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>Wybierz kartę (od 1 do 8)</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+(<kbd>1</kbd> to <kbd>8</kbd>)</td>
+    </tr>
+	<tr>
+	  <td>Wybierz ostatnią kartę</td>
+      <td><span class="noUnix">&accelKey;</span><span
+         class="unix">&altKey;</span>+<kbd>9</kbd></td>
+     </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="4">Narzędzia</th>
+    </tr>
+
+    <tr>
+      <td>Dodaj zakładkę</td>
+      <td>&accelKey;+<kbd>D</kbd></td>
+     </tr>
+    <tr class="noUnix">
+      <td>Dodaj zakładki do wszystkich kart</td>
+      <td>&accelKey;+&shiftKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>Zakładki</td>
+      <td>&accelKey;+<kbd>B</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>I</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Przeglądanie z&nbsp;użyciem kursora</td>
+
+      <td><kbd>F7</kbd></td>
+    </tr>
+    <tr>
+      <td>Pobieranie plików</td>
+      <td><span class="noUnix">&accelKey;+<kbd>J</kbd></span>
+
+        <span class="unix">&accelKey;+<kbd>Y</kbd></span></td>
+    </tr>
+
+    <tr>
+      <td>Historia</td>
+      <td><span class="noMac">&accelKey;+<kbd>H</kbd></span>
+        <span class="mac">&accelKey;+&shiftKey;+<kbd>H</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Wyczyść dane prywatne</td>
+      <td>&accelKey;+&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="4">Różne</th>
+    </tr>
+    <tr>
+      <td>Dokończ adres .com</td>
+      <td>&accelKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Dokończ adres .net</td>
+      <td>&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Dokończ adres .org</td>
+      <td>&accelKey;+&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Usuń zaznaczoną wartość autouzupełniania <!-- autocomplete entry FIXME --></td>
+      <td><span class="noMac"><kbd>Del</kbd></span>
+	  <span class="mac">&shiftKey;+<kbd>Del</kbd></span></td>
+    </tr>
+    <tr class="noMac">
+      <td>Tryb pełnoekranowy</td>
+      <td><kbd>F11</kbd></td>
+    </tr>
+    <tr>
+      <td>Nowa wiadomość</td>
+      <td>&accelKey;<span class="mac">+&shiftKey;</span>+<kbd>M</kbd></td>
+    </tr>
+    <tr>
+      <td>Zaznacz pasek adresu</td>
+      <td><span class="noMac">&altKey;+<kbd>D</kbd><br/></span>
+        <kbd>F6</kbd><br />
+        &accelKey;+<kbd>L</kbd></td>
+    </tr>
+    <tr>
+      <td>Wybierz lub zarządzaj wyszukiwarkami)</td>
+      <td>&altKey;+<kbd>Strzałka w&nbsp;górę</kbd><br/>
+	  &altKey;+<kbd>Strzałka w&nbsp;dół</kbd><span class="noMac"><br/>
+	  <kbd>F4</kbd></span></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="contentsBox"><em>7 października 2007</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

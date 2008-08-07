@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Właściwości drukarki" >
+
+<!ENTITY paperInput.label "Rozmiar papieru:" >
+
+<!ENTITY plexInput.label "Tryb:" >
+
+<!ENTITY resolutionInput.label "Rozdzielczość/Jakość:">
+
+<!ENTITY cmdInput.label "Polecenie drukowania:" >
+
+<!ENTITY jobTitleInput.label "Nazwa zadania:">
+
+<!ENTITY colorGroup.label "Druk:" >
+<!ENTITY grayRadio.label "w odcieniach szarości" >
+<!ENTITY colorRadio.label "w kolorze" >
+
+<!ENTITY colorspaceInput.label "Przestrzeń kolorów:">
+
+<!ENTITY fontsGroup.label "Czcionki:">
+<!ENTITY downloadFonts.label "Prześlij czcionki na drukarkę">
+
+<!ENTITY edgeMarginInput.label "Odstęp pomiędzy brzegiem kartki a marginesem (w calach)" >
+<!ENTITY topInput.label "Górny:" >
+<!ENTITY bottomInput.label "Dolny:" >
+<!ENTITY leftInput.label "Lewy:" >
+<!ENTITY rightInput.label "Prawy:" >

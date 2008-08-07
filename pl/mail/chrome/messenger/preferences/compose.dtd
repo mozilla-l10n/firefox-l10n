@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label "Ogólne">
+<!ENTITY itemAutoComplete.label "Adresowanie">
+<!ENTITY itemSpellCheck.label "Pisownia">
+<!ENTITY itemSendFormat.label "Wysyłanie">
+
+<!ENTITY forwardReply.label "Przekazywanie wiadomości">
+<!ENTITY forwardMsg.label "Przekaż wiadomości:">
+<!ENTITY forwardMsg.accesskey "P">
+<!ENTITY inline.label "bezpośrednio">
+<!ENTITY inline.accesskey "b">
+<!ENTITY asAttachment.label "jako załącznik">
+<!ENTITY asAttachment.accesskey "a">
+<!ENTITY addExtension.label "dodaj rozszerzenie do nazwy pliku załącznika">
+<!ENTITY addExtension.accesskey "r">
+
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "Czcionka:">
+<!ENTITY font.accesskey "C">
+<!ENTITY size.label "Rozmiar:">
+<!ENTITY size.accesskey "R">
+<!ENTITY fontColor.label "Kolor tekstu:">
+<!ENTITY fontColor.accesskey "K">
+<!ENTITY bgColor.label "Kolor tła:">
+<!ENTITY bgColor.accesskey "l">
+<!ENTITY restoreHTMLDefaults.label "Przywróć domyślne">
+<!ENTITY restoreHTMLDefaults.accesskey "y">
+
+<!ENTITY sendingMessagesHeader.label "Tworzenie wiadomości">
+<!ENTITY spellCheck.label "Sprawdź pisownię przed wysłaniem wiadomości">
+<!ENTITY spellCheck.accesskey "z">
+<!ENTITY spellCheckInline.label "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
+<!ENTITY spellCheckInline1.accesskey "n">
+<!ENTITY languagePopup.label "Język:">
+<!ENTITY languagePopup.accessKey "J">
+<!ENTITY downloadDictionaries.label "Pobierz więcej słowników">
+
+<!ENTITY useMIME.label 'Dla wiadomości, które zawierają 8-bitowe znaki, użyj kodowania MIME "quoted printable"'>
+<!ENTITY useMIME.accesskey "d">
+<!ENTITY warnOnSendAccelKey.label "Wymagaj potwierdzenia, gdy do wysłania wiadomości użyty został skrót klawiaturowy">
+<!ENTITY warnOnSendAccelKey.accesskey "i">
+<!ENTITY autoSave.label "Zapisuj stan wiadomości co">
+<!ENTITY autoSave.accesskey "u">
+<!ENTITY autoSaveEnd.label 			"minut">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "Zawijaj linie wiadomości zawierające zwykły tekst o długości powyżej">
+<!ENTITY wrapOutMsg.accesskey "w">
+<!ENTITY char.label "znaków">
+
+<!ENTITY emailCollectionPicker.label  "Zapisuj adresy e-mail z poczty wychodzącej w książce:">
+<!ENTITY emailCollectionPicker.accesskey  "t">
+<!ENTITY addressingTitle.label "Automatyczne uzupełnianie adresu">
+<!ENTITY autocompleteText.label "Podczas adresowania wiadomości znajdź pasujące pozycje:">
+<!ENTITY addressingEnable.label "w lokalnych książkach adresowych">
+<!ENTITY addressingEnable.accesskey "h">
+<!ENTITY directories.label "na serwerze usług katalogowych:">
+<!ENTITY directories.accesskey "o">
+<!ENTITY editDirectories.label 			"Edytuj katalogi…">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY matchText.label "Jeżeli znaleziono pasującą pozycję w lokalnych książkach adresowych:">
+<!ENTITY skipDirectory.label "Nie szukaj w katalogu">
+
+<!ENTITY sendOptionsCaption.label "Opcje formatowania i wysyłania">
+<!ENTITY sendOptionsDescription.label "Ustawienia automatycznego formatowania wysyłanych wiadomości">
+<!ENTITY sendOptions.label 			"Opcje wysyłania…">
+<!ENTITY sendOptions.accesskey "S">

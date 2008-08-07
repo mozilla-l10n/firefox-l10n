@@ -1,0 +1,13 @@
+<!ENTITY accountManagerTitle.label "Konfiguracja kont">
+<!ENTITY addAccountButton.label 		"Dodaj konto…">
+<!ENTITY addAccountButton.accesskey "D">
+<!ENTITY setDefaultButton.label "Ustaw jako domyślne">
+<!ENTITY setDefaultButton.accesskey "j">
+<!ENTITY duplicateButton.label "Utwórz duplikat">
+<!ENTITY removeButton.label "Usuń konto">
+<!ENTITY removeButton.accesskey "U">
+<!ENTITY nameCol.label "Nazwa">
+<!ENTITY duplicate.label "Duplikat">
+<!ENTITY accountManager.size "width: 70em; height: 50em;">
+<!ENTITY macAccountManager.size "width: 72em; height: 50em;">
+<!ENTITY accountTree.width "width: 17em;">

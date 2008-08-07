@@ -1,0 +1,24 @@
+<!-- extracted from AccountManager.xul -->
+
+<!ENTITY accountManagerTitle.label "Konfiguracja kont">
+
+<!ENTITY addAccountButton.label "Dodaj konto…">
+<!ENTITY addAccountButton.accesskey "D">
+<!ENTITY setDefaultButton.label "Ustaw jako domyślne">
+<!ENTITY setDefaultButton.accesskey "d">
+<!ENTITY duplicateButton.label "Utwórz duplikat">
+<!ENTITY removeButton.label "Usuń konto">
+<!ENTITY removeButton.accesskey "U">
+
+<!ENTITY duplicate.label "Duplikat">
+
+<!-- AccountManager.xul -->
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     setting dialog, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit. 1em = the width of the letter 'm' in the selected font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY accountManager.size "width: 64em; height: 50em;">
+<!ENTITY macAccountManager.size "width: 70em; height: 50em;">
+<!ENTITY accountTree.width "width: 17em;">

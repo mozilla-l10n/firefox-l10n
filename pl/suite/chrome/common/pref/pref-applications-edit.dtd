@@ -1,0 +1,23 @@
+
+<!ENTITY editType.label "Edytuj Typ">
+<!ENTITY newType.label "Nowy typ">
+<!ENTITY extension.label "Rozszerzenie:">
+<!ENTITY extension.accesskey "R">
+<!ENTITY mimetype.label "Typ MIME:">
+<!ENTITY mimetype.accesskey "m">
+<!ENTITY description.label "Opis typu:">
+<!ENTITY description.accesskey "t">
+
+<!ENTITY handling.label "Domyślnie, pliki tego typu:">
+<!ENTITY useDefault.label "Otwórz za pomocą domyślnej aplikacji">
+<!ENTITY useDefault.accesskey "O">
+<!ENTITY saveToDisk.label "Zachowaj na dysku">
+<!ENTITY saveToDisk.accesskey "Z">
+<!ENTITY application.label "Otwórz za pomocą:">
+<!ENTITY application.accesskey "O">
+
+<!ENTITY browse.label "Choose...">
+<!ENTITY browse.accesskey "W">
+
+<!ENTITY askBeforeOpen.label "Zawsze pytaj przed rozpoczęciem pobierania plików tego typu">
+<!ENTITY askBeforeOpen.accesskey "Z">

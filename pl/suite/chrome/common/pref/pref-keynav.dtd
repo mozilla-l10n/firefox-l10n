@@ -1,0 +1,21 @@
+<!ENTITY pref.keyNav.title "Nawigacja za pomocą klawiatury">
+<!ENTITY tabNavigationBehavior.label "Nawigacja za pomocą przycisku Tab">
+<!ENTITY tabNavigationLinks.label "Odnośników">
+<!ENTITY tabNavigationLinks.accesskey "n">
+<!ENTITY tabNavigationForms.label "Przyciski, pola wyboru i listy wyboru">
+<!ENTITY tabNavigationForms.accesskey "P">
+<!ENTITY tabNavigationTextboxes.label "Uwaga: pola tekstowe zawsze brane są pod uwagę.">
+<!ENTITY tabNavigationDesc.label "Naciskając przycisk Tab lub Shift+Tab zmieniaj aktywny element w obrębie:">
+<!ENTITY findAsYouTypeBehavior.label "Ustawienia wyszukiwania Znajdź wprowadzając">
+<!ENTITY findAsYouTypeTip.label "Wskazówka: Wyszukiwanie Znajdź wprowadzając można uruchomić ręcznie, wprowadzając znak / (wyszukiwanie dowolnego tekstu) lub ' (wyszukiwanie wyłącznie odnośników), a następnie tekst, który ma zostać odnaleziony.">
+<!ENTITY findAsYouTypeTimeout.label "Zakończ bieżące wyszukiwanie po kilku sekundach braku aktywności">
+<!ENTITY findAsYouTypeTimeout.accesskey "Z">
+<!ENTITY findAsYouTypeSound.label "Odtwórz dźwięk, gdy wprowadzony tekst nie zostanie odnaleziony">
+<!ENTITY findAsYouTypeSound.accesskey "O">
+<!ENTITY findAsYouTypeEnableAuto.label "Automatycznie rozpocznij wyszukiwanie tekstu wprowadzonego podczas przeglądania strony. Wyszukuj:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "A">
+<!ENTITY findAsYouTypeAutoText.label "Dowolny tekst znajdujący się na stronie">
+<!ENTITY findAsYouTypeAutoText.accesskey "D">
+<!ENTITY findAsYouTypeAutoLinks.label "Wyłącznie odnośniki">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "o">
+

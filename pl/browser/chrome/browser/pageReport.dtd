@@ -1,0 +1,6 @@
+<!ENTITY caption.label "Zablokowane wyskakujące okna" >
+<!ENTITY intro.label "Witryny, którym zablokowano możliwość otwierania wyskakujących okien:" >
+<!ENTITY done.label "Zamknij" >
+<!ENTITY done.accesskey "Z" >
+<!ENTITY unblock.label "Odblokuj witrynę" >
+<!ENTITY unblock.accesskey "U" >

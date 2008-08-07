@@ -1,0 +1,4 @@
+<!ENTITY startDescription.label "Witryna bez pozwolenia podjęła próbę otwarcia wyskakującego okna, okno to zostało automatycznie zamknięte. Za każdym razem, gdy zostanie zablokowane wyskakujące okno, na pasku stanu wyświetli się ikona.">
+<!ENTITY endDescription.label "Po kliknięciu na tą ikonę zostanie wyświetlona lista stron, które nie mogą wyświetlać wyskakujących okien. Możliwe jest odblokowanie wyskakujących okien, jeżeli dana witryna wymaga takiej funkcjonalności w celu zapewnienia dostępu do istotnych funkcji." >
+<!ENTITY caption.label "O blokowaniu wyskakujących okien" >
+<!ENTITY done.label "Zamknij" >

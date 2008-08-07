@@ -1,0 +1,220 @@
+<!ENTITY msgComposeWindow.title "Komponowanie: (bez tematu)">
+
+<!ENTITY fromAddr.label "Nadawca:">
+<!ENTITY fromAddr.accesskey "d">
+<!ENTITY subject.label "Temat:">
+<!ENTITY subject.accesskey "T">
+<!ENTITY attachments.label "Załączniki:">
+<!ENTITY attachments.accesskey "a">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY newMessage.label "Wiadomość">
+<!ENTITY newMessage.accesskey "m">
+<!ENTITY saveCmd.label "Zapisz">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveAsCmd.label "Zapisz jako">
+<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsFileCmd.label "Plik…">
+<!ENTITY saveAsFileCmd.accesskey "P">
+<!ENTITY saveAsDraftCmd.label "Szkic">
+<!ENTITY saveAsDraftCmd.accesskey "c">
+<!ENTITY saveAsTemplateCmd.label "Szablon">
+<!ENTITY saveAsTemplateCmd.accesskey "b">
+<!ENTITY attachMenu.label "Załącz">
+<!ENTITY attachMenu.accesskey "z">
+<!ENTITY attachFileCmd.label "Plik…">
+<!ENTITY attachFileCmd.key "">
+<!ENTITY attachFileCmd.accesskey "l">
+<!ENTITY attachPageCmd.label "Stronę WWW…">
+<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachVCardCmd.label "Wizytówkę (vCard)">
+<!ENTITY attachVCardCmd.accesskey "w">
+<!ENTITY sendNowCmd.label "Wyślij teraz">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "t">
+<!ENTITY sendLaterCmd.label "Wyślij później">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "p">
+<!ENTITY printSetupCmd.label "Ustawienia strony…">
+<!ENTITY printSetupCmd.accesskey "U">
+<!ENTITY printCmd.label "Drukuj…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "D">
+<!ENTITY closeCmd.label "Zamknij">
+
+<!-- Edit menu items -->
+<!ENTITY editRewrapCmd.label "Zawiń wiersze">
+<!ENTITY editRewrapCmd.accesskey "Z">
+<!ENTITY findCmd.label "Znajdź i zamień…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "m">
+<!ENTITY findAgainCmd.label "Znajdź następne">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Znajdź poprzednie">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "o">
+<!ENTITY accountManagerCmd.label "Konfiguracja kont…">
+<!ENTITY accountManagerCmd.accesskey "g">
+
+<!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "Pasek narzędzi poczty">
+<!ENTITY showComposeToolbarCmd.accesskey "P">
+<!ENTITY showFormatToolbarCmd.label "Pasek narzędzi formatowania">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showParagraphMarksCmd.label "Pokaż znaczniki akapitu">
+<!ENTITY pageSourceCmd.label "Źródło strony">
+<!ENTITY pageSourceCmd.accesskey "d">
+<!ENTITY pageInfoCmd.label "Informacje o stronie">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY dcharMenu.label "Zestaw znaków">
+<!ENTITY dcharIso1Cmd.label "Zachodni (ISO-8859-1)">
+<!ENTITY dcharIso2Cmd.label "Środkowoeuropejski (ISO-8859-2)">
+<!ENTITY dcharIso3Cmd.label "Południowoeuropejski (ISO-8859-3)">
+<!ENTITY dcharIso4Cmd.label "Bałtycki (ISO-8859-4)">
+<!ENTITY dcharIso9Cmd.label "Turecki (ISO-8859-9)">
+<!ENTITY dcharIso10Cmd.label "Nordycki (ISO-8859-10)">
+<!ENTITY dcharIso14Cmd.label "Celtycki (ISO-8859-14)">
+<!ENTITY dcharIso15Cmd.label "Zachodni (ISO-8859-15)">
+<!ENTITY dcharJapanCmd.label "Japoński (ISO-2022-JP)">
+<!ENTITY dcharTradChiBigCmd.label "Chiński tradycyjny (Big5)">
+<!ENTITY dcharSimpChiGbCmd.label "Chiński uproszczony (GB2312)">
+<!ENTITY dcharKoreanCmd.label "Koreański (EUC-KR)">
+<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
+<!ENTITY dcharRusCmd.label "Cyrylica (KOI8-R)">
+<!ENTITY dcharUkrCmd.label "Cyrylica/Ukraiński (KOI8-U)">
+<!ENTITY dcharIsoGreekCmd.label "Grecki (ISO-8859-7)">
+<!ENTITY dcharVietViCmd.label "Wietnamski (VISCII)">
+<!ENTITY dcharThaiCmd.label "Tajski (TIS-620)">
+<!ENTITY dcharArmCmd.label "Armeński (ARMSCII-8)">
+<!ENTITY dcharDEFAULT.label "Ustaw domyślny zestaw znaków w wysyłanej poczcie">
+
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.accesskey "F">
+
+<!-- Options menu items -->
+<!ENTITY optionsMenu.label "Opcje">
+<!ENTITY optionsMenu.accesskey "j">
+
+<!ENTITY doNotCompleteAddrCmd.label "Nie uzupełniaj adresów">
+<!ENTITY showMatchingAddrCmd.label "Pokaż pasujące adresy">
+
+<!ENTITY addSignatureCmd.label "Dodaj plik sygnatury">
+
+<!ENTITY quoteCmd.label "Cytuj wiadomość">
+<!ENTITY quoteCmd.accesskey "C">
+<!ENTITY selectAddressCmd.label "Wybierz adresy…">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "W">
+
+<!ENTITY checkSpellingCmd.label "Sprawdź pisownię…">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.accesskey "S">
+<!ENTITY enableInlineSpellChecker.label "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+
+<!ENTITY priorityMenu.label "Priorytet">
+<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY lowestPriorityCmd.label "Najniższy">
+<!ENTITY lowestPriorityCmd.accesskey "a">
+<!ENTITY lowPriorityCmd.label "Niski">
+<!ENTITY lowPriorityCmd.accesskey "i">
+<!ENTITY normalPriorityCmd.label "Normalny">
+<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY highPriorityCmd.label "Wysoki">
+<!ENTITY highPriorityCmd.accesskey "W">
+<!ENTITY highestPriorityCmd.label "Najwyższy">
+<!ENTITY highestPriorityCmd.accesskey "j">
+
+<!ENTITY returnReceiptMenu.label "Żądaj potwierdzenia dostarczenia wiadomości">
+<!ENTITY returnReceiptMenu.accesskey "d">
+<!ENTITY outputFormatMenu.label "Wyślij wiadomość jako">
+<!ENTITY outputFormatMenu.accesskey "j">
+<!ENTITY autoFormatCmd.label "Wybierz automatycznie">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "Tylko tekst">
+<!ENTITY plainTextFormatCmd.accesskey "t">
+<!ENTITY htmlFormatCmd.label "Tylko HTML">
+<!ENTITY htmlFormatCmd.accesskey "H">
+<!ENTITY bothFormatCmd.label "Tekst oraz HTML">
+<!ENTITY bothFormatCmd.accesskey "o">
+
+<!ENTITY UuencodeAttachmentCmd.label "Załączniki typu Uuencode zamiast MIME">
+
+
+<!ENTITY fileCarbonCopyCmd.label "Zachowaj kopię wiadomości w folderze">
+<!ENTITY fileCarbonCopyCmd.accesskey "k">
+<!ENTITY fileHereMenu.label "Zachowaj tutaj">
+
+<!ENTITY debugMenu.label "Debug">
+<!ENTITY outputTextCmd.label "Tekst">
+<!ENTITY outputHTMLCmd.label "HTML">
+<!ENTITY insertTextCmd.label "Wstaw tekst">
+<!ENTITY testSelectionCmd.label "Testuj selekcję">
+<!ENTITY testTableLayoutCmd.label "Testuj układ tabeli">
+<!ENTITY testDocumentCmd.label "Testuj dokument">
+<!ENTITY showEmbeddedCmd.label "Pokaż osadzone obiekty">
+<!ENTITY dumpContentCmd.label "Wypisz drzewo zawartości">
+<!ENTITY runUnitTestsCmd.label "Rozpocznij testy jednostki">
+<!ENTITY startLogCmd.label "Rozpocznij logowanie">
+<!ENTITY stopLogCmd.label "Zakończ logowanie">
+<!ENTITY runLogCmd.label "Uruchom dziennik">
+
+<!ENTITY sendButton.label "Wyślij">
+<!ENTITY quoteButton.label "Cytuj">
+<!ENTITY addressButton.label "Adres">
+<!ENTITY attachButton.label "Załącz">
+<!ENTITY spellingButton.label "Pisownia">
+<!ENTITY saveButton.label "Zapisz jako">
+<!ENTITY stopButton.label "Zatrzymaj">
+
+<!ENTITY addressBar.tooltip "Pasek adresowania">
+<!ENTITY formatToolbar.tooltip "Pasek narzędzi formatowania">
+<!ENTITY sendButton.tooltip "Wyślij tę wiadomość">
+<!ENTITY sendlaterButton.tooltip "Wyślij tę wiadomość później">
+<!ENTITY quoteButton.tooltip "Zacytuj poprzednią wiadomość">
+<!ENTITY addressButton.tooltip "Wybierz adresata z Książki adresowej">
+<!ENTITY attachButton.tooltip "Dodaj pliki do tej wiadomości">
+<!ENTITY saveButton.tooltip "Zapisz wiadomość jako">
+<!ENTITY stopButton.tooltip "Zatrzymaj bieżący transfer">
+
+<!-- Toolbar items, imported from editorAppShell.xul -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+
+<!-- context menu items -->
+<!ENTITY spellCheckNoSuggestions.label "Nie znaleziono sugestii dla słowa">
+<!ENTITY spellCheckIgnoreWord.label "Ignoruj słowo">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Dodaj do słownika">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "Cofnij">
+<!ENTITY undo.accesskey "C">
+<!ENTITY cut.label "Wytnij">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "Kopiuj">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Wklej">
+<!ENTITY paste.accesskey "e">
+<!ENTITY pasteQuote.label "Wklej jako cytat">
+<!ENTITY pasteQuote.accesskey "y">
+
+<!ENTITY openAttachment.label "Open">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY delete.label "Usuń">
+<!ENTITY delete.accesskey "U">
+<!ENTITY renameAttachment.label "Rename…">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY selectAll.label "Zaznacz wszystko">
+<!ENTITY selectAll.accesskey "w">
+<!ENTITY attachFile.label "Załącz plik">
+<!ENTITY attachFile.accesskey "p">
+<!ENTITY attachPage.label "Załącz stronę WWW…">
+<!ENTITY attachPage.accesskey "W">

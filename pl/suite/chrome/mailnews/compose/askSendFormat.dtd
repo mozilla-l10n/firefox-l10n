@@ -1,0 +1,15 @@
+<!ENTITY windowTitle.label "Pytanie o pocztę w HTML">
+
+<!ENTITY recipient.label "Niektórzy adresaci wiadomości nie mogą otrzymywać poczty w formacie HTML.">
+
+<!ENTITY question.label "Chcesz wysłać wiadomość w formacie HTML, czy przekształcić ją na format tekstowy?">
+
+<!ENTITY plainTextAndHtml.label "Wyślij jako zwykły tekst i HTML">
+<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextOnly.label "Wyślij tylko jako zwykły tekst">
+<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY htmlOnly.label "Wyślij tylko HTML">
+<!ENTITY htmlOnly.accesskey "H">
+
+<!ENTITY send.label "Wyślij">
+<!ENTITY send.accesskey "S">

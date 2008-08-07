@@ -1,0 +1,56 @@
+<!ENTITY  history.label "Historia">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+ 
+  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter2.label;
+-->
+
+<!ENTITY  rememberDaysBefore.label          "Przechowuj historię przez co najmniej">
+<!ENTITY  rememberDaysBefore.accesskey      "s">
+<!ENTITY  rememberDaysAfter2.label          "dni">
+
+<!ENTITY  rememberForms.label           "Pamiętaj dane wprowadzone w formularzach i pasku wyszukiwania">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "Pamiętaj pobrane pliki">
+<!ENTITY  rememberDownloads.accesskey   "P">
+
+
+<!ENTITY  cookies.label                 "Ciasteczka">
+
+<!ENTITY  acceptCookies.label           "Akceptuj ciasteczka">
+<!ENTITY  acceptCookies.accesskey       "A">
+
+<!ENTITY  acceptThirdParty.label        "Akceptuj ciasteczka z innych witryn">
+<!ENTITY  acceptThirdParty.accesskey    "k">
+
+<!ENTITY  keepUntil.label               "Przechowuj:">
+<!ENTITY  keepUntil.accesskey           "h">
+<!ENTITY  expire.label                  "aż wygasną">
+<!ENTITY  close.label                   "do zamknięcia programu &brandShortName;">
+<!ENTITY  askEachTime.label             "pytaj za każdym razem">
+
+
+<!ENTITY  cookieExceptions.label        "Wyjątki…">
+<!ENTITY  cookieExceptions.accesskey    "W">
+
+<!ENTITY  showCookies.label             "Wyświetl ciasteczka…">
+<!ENTITY  showCookies.accesskey         "c">
+
+<!ENTITY  privateData.label              "Dane prywatne">
+
+<!ENTITY  alwaysClear.label              "Zawsze czyść dane prywatne przy zamykaniu programu &brandShortName;">
+<!ENTITY  alwaysClear.accesskey          "Z">
+
+
+<!ENTITY  askBeforeClear.label           "Poproś o potwierdzenie przed czyszczeniem danych prywatnych">
+<!ENTITY  askBeforeClear.accesskey       "o">
+
+<!ENTITY  clearDataSettings.label        "Ustawienia…">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "Wyczyść teraz…">
+<!ENTITY  clearDataNow.label2            "Wyczyść teraz">
+<!ENTITY  clearDataNow.accesskey         "y">

@@ -1,0 +1,121 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is calendar views.
+   -
+   - The Initial Developer of the Original Code is
+   - Oracle Corporation
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Shaver       <shaver@mozilla.org>
+   -   Simon Paquet      <bugzilla@babylonsounds.com>
+   -   Matthew Willis    <mattwillis@mac.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -   Berend Cornelius <berend.cornelius@sun.com>
+   -   Marek Stępień     <marcoos@aviary.pl> (Polish localization)
+   -   Hubert Gajewski   <hubert@hubertgajewski.com>, Aviary.pl (Polish localization)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+   
+<!-- Tools menu -->
+<!ENTITY lightning.taskLabel "Lightning">
+
+<!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "Wydarzenie…">
+<!ENTITY lightning.menupopup.new.task.label     "Zadanie…">
+<!ENTITY lightning.menupopup.new.calendar.label "Kalendarz…">
+
+<!-- Open menu popup in File menu -->  
+<!ENTITY lightning.menupopup.open.label               "Otwórz"> 
+<!ENTITY lightning.menupopup.open.accesskey           "O">   
+<!ENTITY lightning.menupopup.open.message.label       "Zapisana wiadomość…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "w">    
+<!ENTITY lightning.menupopup.open.calendar.label      "Plik kalendarza…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "k">            
+
+<!-- Messenger Sidebar -->
+<!ENTITY lightning.sidebar.invitations.label     "Zaproszenia">
+<!ENTITY lightning.sidebar.invitations.accesskey "a">
+<!ENTITY lightning.calendar.label                "Kalendarz">
+<!ENTITY lightning.calendar.accesskey            "K">
+<!ENTITY lightning.tasks.label                   "Zadania">
+<!ENTITY lightning.tasks.accesskey               "Z">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Poczta">
+<!ENTITY lightning.toolbar.mail.accesskey     "o">
+<!ENTITY lightning.toolbar.calendar.label     "Kalendarz">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.task.label         "Zadania">
+<!ENTITY lightning.toolbar.task.accesskey     "Z">
+
+<!-- Customize Toolbar Dialog -->
+<!ENTITY customize.toolbar.selector.label    "Pasek narzędzi:">
+<!ENTITY customize.toolbar.selector.mode     "Tryb wyświetlania">
+<!ENTITY customize.toolbar.selector.mail     "Poczta">
+<!ENTITY customize.toolbar.selector.calendar "Kalendarz">
+<!ENTITY customize.toolbar.selector.task     "Zadania">
+<!ENTITY customize.toolbar.location.label    "Położenie:">
+<!ENTITY customize.toolbar.location.top      "Góra">
+<!ENTITY customize.toolbar.location.bottom   "Dół">
+
+<!-- Messenger Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Dzień">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Tydzień">
+<!ENTITY lightning.toolbar.week.accesskey            "T">
+<!ENTITY lightning.toolbar.multiweek.label           "Wiele tygodni">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "n">                       
+<!ENTITY lightning.toolbar.month.label               "Miesiąc">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
+
+<!-- properties dialog, calendar creation wizard -->
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Wyświetlaj wydarzenia w panelu bieżących spraw">
+<!-- FIXME Task Mode - tryb widoku zadań (hubert) -->
+<!ENTITY lightning.calendarproperties.showtasks.label           "Wyświetlaj zadania w panelu bieżących spraw i w trybie widoku zadań">
+<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
+
+<!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.description "Ta wiadomość zawiera zaproszenie na wydarzenie">
+
+<!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.new  "I">
+<!ENTITY lightning.keys.todo.new   "D">
+
+<!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Utwórz nowy kalendarz">
+
+<!-- today-pane-specific --><!-- FIXME - mini-day, mini-month  (hubert) -->
+<!ENTITY todaypane.showMinimonth.label      "Pokaż kalendarz podręczny">
+<!ENTITY todaypane.showMinimonth.accesskey  "k">
+<!ENTITY todaypane.showMiniday.label        "Pokaż podgląd dnia">
+<!ENTITY todaypane.showMiniday.accesskey    "P">
+<!ENTITY todaypane.showNone.label           "Nie pokazuj niczego">
+<!ENTITY todaypane.showNone.accesskey       "N">
+<!ENTITY todaypane.showTodayPane.label      "Pokaż panel bieżących spraw">
+<!ENTITY todaypane.showTodayPane.accesskey  "o">

@@ -1,0 +1,16 @@
+<!ENTITY tree.header.name.label "Tytuł">
+<!ENTITY tree.header.name.accesskey "T">
+<!ENTITY tree.header.url.label "Adres">
+<!ENTITY tree.header.url.accesskey "L">
+<!ENTITY tree.header.date.label "Ostatnio odwiedzono">
+<!ENTITY tree.header.date.accesskey "V">
+<!ENTITY tree.header.firstvisitdate.label "Data pierwszych odwiedzin">
+<!ENTITY tree.header.firstvisitdate.accesskey "F">
+<!ENTITY tree.header.referrer.label "Odsyłacz">
+<!ENTITY tree.header.referrer.accesskey "R">
+<!ENTITY tree.header.hostname.label "Nazwa hosta">
+<!ENTITY tree.header.hostname.accesskey "H">
+<!ENTITY tree.header.visitcount.label "Liczba odwiedzin">
+<!ENTITY tree.header.visitcount.accesskey "C">
+<!ENTITY bookmarkLinksCmd.label "Ustaw te odnośniki jako zakładki">
+<!ENTITY bookmarkLinksCmd.accesskey "L">

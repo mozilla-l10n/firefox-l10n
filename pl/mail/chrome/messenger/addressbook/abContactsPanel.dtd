@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label "Książka adresowa:">
+<!ENTITY addressbookPicker.accesskey        "K">
+<!ENTITY searchInput.label "Szukaj:">
+<!ENTITY searchInput.accesskey              "S">
+<!ENTITY SearchNameOrEmail.label "Imię, nazwisko lub adres e-mail">
+
+<!ENTITY deleteAddrBookCard.label 		"Usuń">
+<!ENTITY addrBookCardProperties.label 		"Właściwości">
+<!ENTITY addtoToFieldMenu.label 'Dodaj do pola "Do"'>
+<!ENTITY addtoCcFieldMenu.label 'Dodaj do pola "Kopia"'>
+<!ENTITY addtoBccFieldMenu.label 'Dodaj do pola "Ukryta kopia"'>
+
+<!ENTITY toButton.label '"Do:"'>
+<!ENTITY toButton.accesskey                 "D">
+<!ENTITY ccButton.label '"Kopia:"'>
+<!ENTITY ccButton.accesskey                 "K">
+<!ENTITY bccButton.label                    '"Ukryta kopia:"'>
+<!ENTITY bccButton.accesskey                "B">

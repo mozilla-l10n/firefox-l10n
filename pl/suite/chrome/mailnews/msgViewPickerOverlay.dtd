@@ -1,0 +1,16 @@
+<!ENTITY viewPicker.label "Wyświetl:">
+<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewAll.label "Wszystkie">
+<!ENTITY viewAll.accesskey "s">
+<!ENTITY viewUnread.label "Nieprzeczytane">
+<!ENTITY viewUnread.accesskey "N">
+<!ENTITY viewNotDeleted.label "Not Deleted">
+<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewTags.label "Etykiety">
+<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewCustomViews.label "Widoki użytkownika">
+<!ENTITY viewCustomViews.accesskey "W">
+<!ENTITY viewVirtualFolder.label "Zapisz widok jako folder…">
+<!ENTITY viewVirtualFolder.accesskey "Z">
+<!ENTITY viewCustomizeView.label "Dostosuj…">
+<!ENTITY viewCustomizeView.accesskey "D">

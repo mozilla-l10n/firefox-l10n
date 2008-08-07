@@ -1,0 +1,28 @@
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
+<!ENTITY pref.mouseWheel.title "Przewijanie myszką">
+<!ENTITY mouseWheelPanel.label "Przewijanie dokumentów za pomocą rolki myszki może zostać zmodyfikowane przez dodatkowe użycie jednego z systemowych przycisków. Użycie rolki myszy z następującym modyfikatorem spowoduje: ">
+<!ENTITY usingJustTheWheel.label "bez modyfikatora">
+<!ENTITY usingWheelAndAlt.label "z przyciskiem &altKey.label;">
+<!ENTITY usingWheelAndCtrl.label "z przyciskiem &ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label "z przyciskiem &shiftKey.label;">
+<!ENTITY mousewheelGroup.label "Pionowe przewijanie">
+<!ENTITY mousewheelHorizGroup.label "Poziome przewijanie">
+<!ENTITY scroll.label "Przewinięcie dokumentu o">
+<!ENTITY scroll.accesskey "r">
+<!ENTITY scrollHoriz.accesskey "c">
+<!ENTITY scrollLines.label "lines">
+<!ENTITY scrollChars.label "characters">
+<!ENTITY useSystemDefault.label "Użyj domyślnych ustawień systemu">
+<!ENTITY useSystemDefault.accesskey "y">
+<!ENTITY useSystemDefaultHoriz.accesskey "d">
+<!ENTITY scrollPgUpPgDn.label "Przewinięcie dokumentu o jedną stronę w górę/dół">
+<!ENTITY scrollPgUpPgDn.accesskey "p">
+<!ENTITY scrollPgLtPgRt.label "Przewinięcie dokumentu o jedną stronę w lewo/prawo">
+<!ENTITY scrollPgLtPgRt.accesskey "o">
+<!ENTITY history.label "Przejście do następnej/poprzednio odwiedzonej strony">
+<!ENTITY history.accesskey "o">
+<!ENTITY historyHoriz.accesskey "b">
+<!ENTITY zoom.label "Zoom the page in or out">
+<!ENTITY zoom.accesskey "Z">
+<!ENTITY zoomHoriz.accesskey "e">

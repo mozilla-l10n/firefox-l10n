@@ -1,0 +1,38 @@
+<!ENTITY pref.cookies.title "Ciasteczka">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label "Zasady akceptowania ciasteczek">
+
+<!ENTITY accAllCookiesRadio.label "Akceptuj wszystkie ciasteczka">
+<!ENTITY accAllCookiesRadio.accesskey "A">
+
+<!ENTITY accOrgCookiesRadio.label "Akceptuj ciasteczka tylko z serwera, z którym nawiązano pierwotne połączenie">
+<!ENTITY accOrgCookiesRadio.accesskey "s">
+
+<!ENTITY disableCookies.label "Zablokuj ciasteczka">
+<!ENTITY disableCookies.accesskey "z">
+
+<!ENTITY cookieRetentionPolicy.label "Zapamiętywanie ciasteczek">
+
+<!ENTITY acceptNormally.label "Akceptuj ciasteczka normalnie">
+<!ENTITY acceptNormally.accesskey "n">
+
+<!ENTITY acceptForSession.label "Akceptuj tylko na czas bieżącej sesji">
+<!ENTITY acceptForSession.accesskey "s">
+
+<!ENTITY acceptforNDays.label "Akceptuj ciasteczka na okres">
+<!ENTITY acceptforNDays.accesskey "a">
+<!ENTITY days.label "dni">
+
+<!ENTITY warnAboutCookies.label "Pytaj za każdym razem">
+<!ENTITY warnAboutCookies.accesskey "P">
+<!ENTITY forCurrentSession.label "za wyjątkiem ciasteczek sesji">
+<!ENTITY forCurrentSession.accesskey "e">
+
+<!ENTITY manageCookies.label "Menedżer ciasteczek i witryn">
+<!ENTITY manageCookiesDescription.label "Pozwala na wyświetlanie i zarządzanie zachowanymi ciasteczkami jak i ustawieniami akceptowania oraz odrzucania ciasteczek dla konkretnych witryn, ustawienia te nadpiszą powyższe ustawienia.">
+
+<!ENTITY viewCookies.label "Menedżer ciasteczek">
+<!ENTITY viewCookies.accesskey "M">
+

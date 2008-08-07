@@ -1,0 +1,15 @@
+<!ENTITY windowtitle.label "Menedżer haseł">
+<!ENTITY windowalttitle.label "Menedżer formularzy: Witryny">
+<!ENTITY tab.signonsstored.label "Zapisane hasła">
+<!ENTITY tab.signonsnotstored.label "Hasła, które nie zostaną zapisane">
+<!ENTITY tab.nopreview.label "Formularze bez podglądu">
+<!ENTITY tab.nocapture.label "Formularze, które nie będą zapisane">
+<!ENTITY spiel.signonsstored.label "Menedżer haseł zapisał informacje o logowaniu dla następujących witryn:">
+<!ENTITY spiel.signonsnotstored.label "Menedżer haseł nigdy nie zapisze informacji o logowaniu dla następujących witryn:">
+<!ENTITY spiel.nopreview.label "Menedżer formularzy nie będzie próbował utworzyć podglądu formularzy przed ich wstępnym wypełnieniem z następujących stron:">
+<!ENTITY spiel.nocapture.label "Menedżer formularzy nie będzie nigdy pytał, czy zapisywać dane formularzy z następujących stron:">
+<!ENTITY treehead.site.label "Witryna">
+<!ENTITY treehead.username.label "Nazwa użytkownika">
+<!ENTITY treehead.password.label "Hasło">
+<!ENTITY remove.label "Usuń">
+<!ENTITY removeall.label "Usuń wszystkie">

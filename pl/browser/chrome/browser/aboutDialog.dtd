@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title "O programie &brandFullName;" >
+<!ENTITY copyright "Twórcy" >
+<!ENTITY copyright.accesskey    "T">
+<!ENTITY aboutLink "&lt; O programie &brandShortName;" >
+<!ENTITY aboutLink.accesskey    "O">
+<!ENTITY aboutVersion "wersja" >
+<!ENTITY copyrightInfo "&#169;1998-2008 Współtwórcy. Wszelkie prawa zastrzeżone. Nazwa Firefox oraz logo Firefox są zastrzeżonymi znakami towarowymi Mozilla Foundation. Wszelkie prawa zastrzeżone." >

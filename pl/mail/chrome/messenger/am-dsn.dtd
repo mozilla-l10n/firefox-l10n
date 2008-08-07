@@ -1,0 +1,16 @@
+<!ENTITY pane.title 				"Status dostarczenia wiadomości">
+<!ENTITY useGlobalPrefs.label 			"Użyj globalnych ustawień potwierdzenia dostarczenia wiadomości dla tego konta">
+<!ENTITY useGlobalPrefs.accesskey 		"U">
+<!ENTITY useCustomPrefs.label 			"Dostosuj ustawienia potwierdzenia dostarczenia wiadomości dla tego konta">
+<!ENTITY useCustomPrefs.accesskey 		"D">
+<!ENTITY requestAlways.label 			"Zawsze żądaj potwierdzenia dostarczenia wysyłanej wiadomości">
+<!ENTITY requestAlways.accesskey 		"Z">
+<!ENTITY optionTitle.label 			"Żądaj potwierdzenia dla:">
+<!ENTITY requestOnSucess.label 			"udanego dostarczenia">
+<!ENTITY requestOnSucess.accesskey 		"u">
+<!ENTITY requestOnFailure.label 		"niepowodzenia w dostarczaniu">
+<!ENTITY requestOnFailure.accesskey 		"n">
+<!ENTITY requestOnDelay.label 			"opóźnienia w dostarczaniu">
+<!ENTITY requestOnDelay.accesskey 		"o">
+<!ENTITY requestNever.label 			"nigdy nie przetwarzaj potwierdzeń statusu dostarczania">
+<!ENTITY requestNever.accesskey 		"n">

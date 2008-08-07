@@ -1,0 +1,105 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -		Marek Wawoczny <GmbH@mozillapl.org> (Polish localization)
+   -		Piotr Bartecki <pbartecki@mozillapl.org> (Polish localization)
+   -		Zbigniew Braniecki <gandalf@aviary.pl> (Polish localization)
+   -		Piotr Komoda <pitreck@aviary.pl> (Polish localization)
+   -		Marek Stępień <marcoos@aviary.pl> (Polish localization)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label            "Opublikuj stronę" >
+<!ENTITY windowTitleSettings.label    "Ustawienia publikacji" >
+<!ENTITY publishTab.label             "Opublikuj" >
+<!ENTITY settingsTab.label            "Ustawienia" >
+<!ENTITY publishButton.label          "Publikuj" >
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Nazwa witryny:" >
+<!ENTITY siteList.accesskey           "z">
+<!ENTITY siteList.tooltip             "Proszę wybrać serwer, na którym zostaną opublikowane pliki" >
+<!ENTITY newSiteButton.label          "Nowa witryna" >
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY docDirList.label             "Podkatalog witryny dla tej strony:" >
+<!ENTITY docDirList.accesskey         "P">
+<!ENTITY docDirList.tooltip           "Wskaż lub wprowadź nazwę zdalnego podkatalogu dla tej strony">
+<!ENTITY publishImgCheckbox.label     "Dołącz obrazki oraz inne pliki" >
+<!ENTITY publishImgCheckbox.tooltip   "Wraz ze stroną WWW opublikuj obrazki i inne powiązane pliki" >
+<!ENTITY publishImgCheckbox.accesskey "W">
+<!ENTITY sameLocationRadio.label      "Użyj tej samej lokalizacji, co strona" >
+<!ENTITY sameLocationRadio.tooltip    "Zachowaj pliki w tym samym katalogu co plik strony WWW" >
+<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY useSubdirRadio.label         "Użyj tego podkatalogu witryny:" >
+<!ENTITY useSubdirRadio.accesskey     "o">
+<!ENTITY useSubdirRadio.tooltip       "Publikuj pliki we wskazanym zdalnym podkatalogu">
+<!ENTITY otherDirList.tooltip         "Wskaż lub wprowadź nazwę zdalnego podkatalogu, w którym mają być opublikowane pliki">
+<!ENTITY pageTitle.label              "Tytuł strony:" >
+<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.tooltip            "Proszę wprowadzić tytuł strony, który jest widoczny m.in. w nazwie okna i zakładkach" >
+<!ENTITY pageTitleExample.label       'np.: "Moja strona domowa"' >
+<!ENTITY filename.label               "Nazwa pliku:" >
+<!ENTITY filename.accesskey           "l">
+<!ENTITY filename.tooltip             "Proszę wprowadzić nazwę pliku, wraz z rozszerzeniem '.html', pod którą zostanie zachowana bieżąca strona" >
+<!ENTITY filenameExample.label        'np.: "mojastrona.html"' >
+<!ENTITY relatedDocs.label            "Inne pliki WWW do opublikowania" >
+<!ENTITY setDefaultButton.label       "Ustaw jako domyślne" >
+<!ENTITY setDefaultButton.accesskey   "d"> 
+<!ENTITY setDefSiteAndDir.label       "Ustawienia domyślnej witryny oraz katalogu" >
+<!ENTITY removeButton.label           "Usuń witrynę" >
+<!ENTITY removeButton.accesskey       "U">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Publikowanie danych WWW" >
+<!ENTITY serverInfo.label             "Informacje o serwerze" >
+<!ENTITY loginInfo.label              "Dane logowania" >
+<!ENTITY siteName.label               "Nazwa witryny:" >
+<!ENTITY siteName.accesskey           "z">
+<!ENTITY siteName.tooltip             "Skrócona nazwa, która identyfikuje tę witrynę (np.: 'Moja strona domowa')" >
+<!ENTITY siteUrl.label                "Adres serwera (np.: 'ftp://ftp.mojisp.com.pl/mojlogin'):" >
+<!ENTITY siteUrl.accesskey            "A">
+<!ENTITY siteUrl.tooltip              "Adres FTP:// lub HTTP:// serwera, na który zostaną przesłane pliki" >
+<!ENTITY browseUrl.label              "Adres HTTP strony domowej (np.: 'http://www.mojisp.com.pl/mojlogin'):" >
+<!ENTITY browseUrl.accesskey          "H">
+<!ENTITY browseUrl.tooltip            "Adres HTTP:// głównego katalogu strony WWW (nie należy wprowadzać nazwy pliku) " >
+<!ENTITY username.label               "Nazwa użytkownika:" >
+<!ENTITY username.accesskey           "u">
+<!ENTITY username.tooltip             "Nazwa użytkownika używana podczas logowania się na ten serwer" >
+<!ENTITY password.label               "Hasło:" >
+<!ENTITY password.tooltip             "Hasło dostępu do serwera stron WWW bieżącego użytkownika" >
+<!ENTITY password.accesskey           "H">
+<!ENTITY savePassword.label           "Zapisz hasło" >
+<!ENTITY savePassword.tooltip         "Po zaznaczeniu tej opcji wprowadzone hasło zostanie zapamiętane w Menedżerze haseł" >
+<!ENTITY savePassword.accesskey       "s">

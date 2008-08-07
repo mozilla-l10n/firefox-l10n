@@ -1,0 +1,6 @@
+<!ENTITY windowTitle.label "Przyciąganie do siatki" >
+<!ENTITY enableSnapToGrid.label "Włącz przyciąganie do siatki" >
+<!ENTITY enableSnapToGrid.accessKey "e" >
+<!ENTITY sizeEditField.label "Rozmiar:" >
+<!ENTITY sizeEditField.accessKey "R" >
+<!ENTITY pixelsLabel.value "pikseli" >
