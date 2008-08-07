@@ -1,0 +1,19 @@
+<!ENTITY about.version                "versiunea">
+
+<!ENTITY about.copy.beforeLink        "Drepturile de autor &copy; pe 1998-2007 aparțin">
+<!ENTITY about.copy.linkTitle         "colaboratorilor">
+<!ENTITY about.copy.afterLink         "la proiectul Mozilla.">
+
+<!ENTITY about.license.beforeLink     "Citiți">
+<!ENTITY about.license.linkTitle      "informațiile legate de licențiere">
+<!ENTITY about.license.afterLink      "pentru acest produs.">
+
+<!ENTITY about.relnotes.beforeLink    "Citiți">
+<!ENTITY about.relnotes.linkTitle     "notele de lansare">
+<!ENTITY about.relnotes.afterLink     "pentru această versiune.">
+
+<!ENTITY about.buildconfig.beforeLink "Vedeți">
+<!ENTITY about.buildconfig.linkTitle  "configurația folosită">
+<!ENTITY about.buildconfig.afterLink  "pentru a construi această versiune.">
+
+<!ENTITY about.buildIdentifier        "Identificator de contrucție (Build identifier):">

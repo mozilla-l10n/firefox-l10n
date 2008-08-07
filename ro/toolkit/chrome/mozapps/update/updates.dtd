@@ -1,0 +1,69 @@
+<!ENTITY  updateWizard.title              "Actualizare program">
+
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "43em">
+
+<!ENTITY  checking.title                  "Căutare actualizări">
+<!ENTITY  checking.label                  "&brandShortName; verifică acum dacă există actualizări...">
+
+<!ENTITY  cancel.label                    "Renunță">
+<!ENTITY  cancel.accesskey                "R">
+
+<!ENTITY  noupdatesfound.title            "Nu s-au găsit actualizări">
+<!ENTITY  noupdatesfound.intro            "Nu sunt disponibile actualizări noi. &brandShortName; poate verifica periodic dacă sunt disponibile actualizări noi.">
+
+<!ENTITY  incompatibleChecking.label      "Se verifică dacă această actualizare are probleme cu extensiile și/sau temele dumneavoastră...">
+<!ENTITY  clickHere.label                 "Mai multe informații despre această actualizare">
+
+<!ENTITY  incompatible.warning            "Această actualizare va face ca unele din extensiile și/sau temele dumneavoastră să nu mai funcționeze până când nu vor fi și ele actualizate.">
+<!ENTITY  listIncompatible.label          "Arată lista">
+<!ENTITY  listIncompatible.accesskey      "l">
+
+<!ENTITY  upgrade.evangelism              "Vă recomandăm cu tărie să actualizați &brandShortName; cât mai curând posibil.">
+
+<!ENTITY  license.instructions            "Dacă sunteți de acord cu termenii din acest acord, apăsați „Sunt de acord” pentru a continua instalarea actualizării.">
+
+<!ENTITY  license.titleText               "Acord de licențiere software">
+<!ENTITY  license.introText               "Termeni și condiții pentru folosirea acestui program.">
+<!ENTITY  license.instructionText         "Vă rugăm citiți următorul acord de licențiere. Folosiți bara de derulare pentru a vedea restul acestui acord.">
+<!ENTITY  license.accept                  "Accept termenii acordului de licențiere">
+<!ENTITY  license.accept.accesskey        "A">
+<!ENTITY  license.decline                 "NU accept termenii acordului de licențiere">
+<!ENTITY  license.decline.accesskey       "N">
+
+<!ENTITY  downloading.title               "Descărcare actualizare">
+<!ENTITY  downloading.intro               "Se descarcă actualizarea...">
+<!ENTITY  connecting.label                "Conectare la serverul de actualizare...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; nu a putut verifica integritatea actualizării incrementale pe care a transferat-o, astfel că acum descarcă întregul pachet de actualizare.">
+
+<!ENTITY  details.link                    "Detalii">
+<!ENTITY  pause.label                     "Pauză">
+<!ENTITY  pause.accesskey                 "P">
+<!ENTITY  close.label                     "Închide">
+<!ENTITY  close.accesskey                 "c">
+
+<!ENTITY  error.label                     "Au apărut probleme la verificarea, descărcarea sau instalarea acestei actualizări. &brandShortName; a putut fi actualizat deoarece:">
+                                           
+<!ENTITY  errorManual.label               "Puteți actualiza  &brandShortName; manual vizitând această legătură și descărcând ultima versiune:">
+                                           
+<!ENTITY  errorpatching.title             "Actualizarea a eșuat">
+<!ENTITY  errorpatching.intro             "Actualizarea parțială nu a putut fi aplicată. &brandShortName; va încerca din nou, de data aceasta descărcând o actualizare completă.">
+
+<!ENTITY  finished.title                  "Actualizare descărcată">
+<!ENTITY  finished.text                   "Actualizarea a fost descărcată și verificată cu succes și va fi instalată la următoarea pornire a &brandShortName;.">
+
+<!ENTITY  finishedBackground.title        "Actualizarea este gata de instalare">
+<!ENTITY  finishedBackground.text         "&brandShortName; a descărcat și verificat o actualizare importantă. Faceți clic pe legătura de mai jos pentru mai multe detalii.">
+<!ENTITY  finishedBackground.name         "Actualizare:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Apăsați Repornește &brandShortName; pentru a instala actualizarea.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Apăsați Nu acum pentru a închide acest dialog și a continua lucrul. &brandShortName; va instala această actualizare la următoarea pornire.">
+
+<!ENTITY  installed.title                 "Actualizare instalată">
+<!ENTITY  installed.intro                 "Actualizarea a fost instalată cu succes.">
+<!ENTITY  whatsnew.label                  "Citiți mai multe despre ce e nou...">
+
+<!ENTITY  update.details.label            "Detalii">
+<!ENTITY  update.installedOn.label        "Instalat în:">
+<!ENTITY  update.status.label             "Stare:">

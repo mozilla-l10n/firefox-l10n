@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Meniul &brandFullName;</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Meniul &brandFullName;</h1>
+  <p>Această parte descrie fiecare element din meniul principal al ferestrei
+    &brandFullName;.</p>
+
+  <div class="contentsBox">În această secțiune:
+    <ul>
+      <li class="mac"><a href="#firefox">&brandShortName;</a></li>
+      <li><a href="#file">Fișier</a></li>
+      <li><a href="#edit">Editare</a></li>
+      <li><a href="#view">Vizualizare</a></li>
+      <li><a href="#go">Istoric</a></li>
+      <li><a href="#bookmarks">Semne de carte</a></li>
+      <li><a href="#tools">Unelte</a></li>
+      <li class="mac"><a href="#window">Fereastră</a></li>
+      <li><a href="#help">Ajutor</a></li>
+    </ul>
+  </div>
+
+<div class="mac">
+  <h2 id="firefox">&brandShortName;</h2>
+    <h3 id="about_mac">Despre &brandFullName;</h3>
+    <p>Afișează un dialog cu informații despre &brandShortName;, acestea incluzând
+      versiunea curentă și o scurtă listă de mulțumiri.</p>
+
+    <h3 id="prefs_mac">Preferințe...</h3>
+    <p>Afișează <a href="prefs.xhtml">fereastra de &pref.pluralCaps;</a>,
+      unde puteți schimba multe &pref.plural; din &brandShortName;.</p>
+
+    <h3 id="quit_mac">Părăsire &brandShortName;</h3>
+    <p>Închide toate ferestrele &brandShortName;, anulează orice descărcare activă și în cele din urmă închide
+        &brandShortName;. Dacă se întâmplă să selectați acest element de meniu când mai multe
+        file sau ferestre cu file sunt deschise, &brandShortName; vă va cere să confirmați
+        alegerea dumneavoastră pentru a preveni ieșirile accidentale. Puteți dezactiva această cerere de confirmare
+        nebifând căsuța <em>Avertizează la închiderea mai multor file</em> din panoul
+        <em>File</em> din &pref.menuPath;. &brandShortName; vă va avertiza și
+       dacă aveți descărcări în curs de desfășurare.</p>
+</div>
+
+<h2 id="file">Fișier</h2>
+
+  <h3 id="new_window">Fereastră nouă</h3>
+  <p>Deschide o fereastră nouă de &brandShortName;.</p>
+
+  <h3 id="new_tab">Filă nouă</h3>
+  <p>Deschide o filă nouă în fereastra &brandShortName; curentă.</p>
+
+  <h3 id="open_location">Deschide o adresă...</h3>
+  <p>Poziționează cursorul pe bara de adrese &brandShortName; ca dumneavoastră să puteți tasta noua adresă
+    pe care doriți să o vizitați.</p>
+
+  <h3 id="open_file">Deschide un fișier...</h3>
+  <p>Afișează dialogul de deschidere al unui fișier de unde puteți selecta un fișier de pe 
+    discurile dumneavoastră locale sau din rețea. Puteți vizualiza multe tipuri de fișiere cu &brandShortName;,
+    inclusiv fișiere HTML/XML, fișiere cu imagini, fișiere text și altele.</p>
+
+  <h3 id="close">Închide (Fereastra)</h3>
+  <p>Închide fereastra curentă.</p>
+
+  <h3 id="close_tab">Închide fila</h3>
+  <p>Închide fila curentă și selectează fila din dreapta. Această opțiune e vizibilă în meniu 
+    doar dacă sunt deschise mai multe file.</p>
+
+  <h3 id="save_page_as">Salvează pagina ca...</h3>
+  <p>Salvează pagina pe care navigați. Puteți salva pagina
+    întreagă (inclusiv elementele grafice), doar pagina HTML sau doar
+    textul paginii.</p>
+
+  <h3 id="send_page">Trimite legătura...</h3>
+  <p>Deschide fereastra de compunere a unui mesaj electronic folosind programul implicit de corespondență electronică
+    de pe calculatorul dumneavoastră pentru a vă permite să trimiteți cuiva legătura cu pagina curentă.</p>
+
+  <h3 id="page_setup">Aranjare în pagină...</h3>
+  <p>Afișează un dialog unde puteți aranja ceea ce doriți să tipăriți în pagină, specificând marginile
+    antetele, subsoluri și orientarea paginii.</p>
+
+  <div class="noMac">
+    <h3 id="print_preview">Previzualizare tipărire</h3>
+    <p>Afișează o previzualizare a documentului curent înainte de a fi tipărit. Aceasta
+      ține cont de setările făcute în dialogul Aranjare în pagină și de cele specificate de  autorul 
+      paginii.</p>
+  </div>
+
+  <h3 id="print">Tipărește...</h3>
+  <p>Afișează dialogul Tipărire, unde puteți specifica numărul de copii ce urmează a fi tipărite,
+    etc. Apăsați <em>OK</em> pentru a tipări pagina.</p>
+
+  <h3 id="import">Importă...</h3>
+  <p>Deschide dialogul asistentului de import care vă permite să importați &pref.plural;, semne de carte,
+    istoric, parole și alte date din alte navigatoare cum ar fi Microsoft Internet
+    Explorer, Netscape, Mozilla sau Opera.</p>
+
+  <h3 id="work_offline">Lucrează deconectat</h3>
+  <p>Alternează între modul de lucru conectat și deconectat. Modul deconectat vă permite să vizualizați
+    pagini web pe care le-ați vizitat anterior fără a vă conecta la
+    internet.</p>
+
+<div class="noMac">
+  <h3 id="exit">
+    <span class="win">Ieșire</span>
+    <span class="noWin">Ieșire</span>
+  </h3>
+  <p>Închide toate ferestrele &brandShortName;, anulează orice descărcare activă și în cele din urmă închide
+    &brandShortName;. Dacă se întâmplă să selectați acest element de meniu când mai multe
+    file sau ferestre cu file sunt deschise, &brandShortName; vă va cere să confirmați
+    alegerea dumneavoastră pentru a preveni ieșirile accidentale. Puteți dezactiva această cerere de confirmare
+    nebifând căsuța <em>Avertizează la închiderea mai multor file</em> din panoul
+    <em>File</em> din &pref.menuPath;. &brandShortName; vă va avertiza și
+   dacă aveți descărcări în curs de desfășurare.</p>
+</div>
+
+<h2 id="edit">Editare</h2>
+
+  <h3 id="undo">Anulează</h3>
+  <p>Anulează ultima acțiune dintr-un câmp cu text. Dacă decideți ulterior că nu doreați
+    să anulați o acțiune, folosiți comanda Refă.</p>
+
+  <h3 id="redo">Refă</h3>
+  <p>Execută din nou ultima acțiune anulată.</p>
+
+  <h3 id="cut">Taie</h3>
+  <p>Șterge textul selectat dintr-un câmp cu text și îl copiază în clipboard. Lipiți
+    textul altundeva folosind comanda Lipește.</p>
+
+  <h3 id="copy">Copiază</h3>
+  <p>Copiază textul selectat în clipboard. Lipiți textul într-un câmp cu text folosind
+    comanda Lipește.</p>
+
+  <h3 id="paste">Lipește</h3>
+  <p>Lipește textul stocat în clipboard într-un câmp cu text.</p>
+
+  <h3 id="delete">Șterge</h3>
+  <p>Șterge textul selectat dintr-un câmp cu text.</p>
+
+  <h3 id="select_all">Selectează tot</h3>
+  <p>Selectează tot textul și celelalte elemente de pe pagină.</p>
+
+  <h3 id="find_in_this_page">Caută în această pagină...</h3>
+  <p>Afișează bara de căutare în partea de jos a ferestrei navigatorului. Introduceți
+    textul pe care-l căutați în bară și pe măsură ce tastați &brandShortName; va
+    căuta automat în pagină și va selecta prima apariție a textului introdus.
+    Apăsați <em>Următoarea</em> sau <em>Precedenta</em> pentru a găsi
+    textul în alte locuri din pagină sau apăsați <em>Evidențiază aparițiile</em> 
+    pentru a evidenția toate aparițiile textului căutat în pagină.</p>
+
+  <h3 id="find_again">Caută din nou</h3>
+  <p>Caută următoarea apariție a textului specificat la folosirea
+  comenzii <em>Caută în această pagină...</em>.</p>
+
+  <h3 class="unix" id="prefs">&pref.pluralCaps;</h3>
+  <p class="unix">Afișează <a href="prefs.xhtml">fereastra &pref.pluralCaps;</a>,
+    unde puteți specifica multe &pref.plural; în &brandShortName;.</p>
+
+<h2 id="view">Vizualizare</h2>
+
+  <h3 id="toolbars">Bare de unelte</h3>
+
+    <h4 id="navigation_toolbar">Bară de navigare</h4>
+    <p>Alternează vizibilitatea barei de navigare care conține de obicei
+      butoanele standard de navigare (Înapoi, Înainte, Stop, etc.).</p>
+
+    <h4 id="bookmarks_toolbar">Bară pentru semne de carte</h4>
+    <p>Alternează vizibilitatea barei pentru semne de carte care conține
+      semne de carte puse la diverse saituri.</p>
+
+    <h4 id="customize">Personalizează...</h4>
+    <p>Afișează dialogul de personalizare. Puteți trage și plasa butoane pe și de pe
+      barele existente. Puteți de asemenea să <span
+      class="noMac">clicați dreapta</span><span class="mac">apăsați &ctrlKey;,
+      clic</span> pe bara de navigare și să alegeți <em>Personalizează...</em>
+      pentru a arăta acest dialog.</p>
+
+  <h3 id="status_bar">Bară de stare</h3>
+  <p>Alternează vizibilitatea barei de stare, situată în partea de jos a ferestrei.
+    Bara de stare afișează informații utile despre pagină, dar poate să nu fie
+    necesară oricui.</p>
+
+  <h3 id="sidebar">Bară laterală</h3>
+  <p>Bara laterală poate afișa semne de carte sau istoricul navigării. Puteți
+    închide oricând bara laterală clicând pe X din colțul dreapta sus.
+    </p>
+
+    <h4 id="view_sidebar_bookmarks">Semne de carte</h4>
+    <p>Afișează semnele de carte în bara laterală, păstrând astfel vizibile mereu semnele
+      de carte. Acest lucru poate fi util dacă folosiți semnele de carte des.</p>
+
+    <h4 id="view_sidebar_history">Istoric</h4>
+    <p>Afișează istoricul în bara laterală, istoric care memorează saiturile pe care
+      le-ați vizitat. Pentru a schimba câte zile ar trebui memorate saiturile, selectați
+      &pref.menuPath; și apoi panoul <em>Intimitate</em>.</p>
+
+  <h3 id="stop">Stop</h3>
+  <p>Oprește încărcarea paginii pe care navigați. Această acțiune este aceeași ca cea a 
+    apăsării butonului <em>Stop</em> de pe bara de navigare.</p>
+
+  <h3 id="reload">Reîncarcă</h3>
+  <p>Aduce cea mai recentă versiune a paginii.  Această acțiune este aceeași ca cea a
+    apăsării butonului <em>Reîncarcă</em> de pe bara de navigare.</p>
+
+  <h3 id="text_size">Mărime text</h3>
+  <p>Dacă textul de pe o pagină este prea mic sau prea mare, puteți să-l schimbați
+    la o mărime mai confortabilă.</p>
+
+    <h4 id="increase_text_size">Mărire</h4>
+    <p>Afișează textul de pe o pagină web cu o mărime mai mare. Puteți face acest lucru și 
+      cu mausul (vedeți <a href="mouse_shortcuts.xhtml">Scurtături de maus</a>
+      pentru instrucțiuni).</p>
+
+    <h4 id="decrease_text_size">Micșorare</h4>
+    <p>Afișează textul de pe o pagină web cu o mărime mai mic. Puteți face acest lucru și 
+      cu mausul (vedeți <a href="mouse_shortcuts.xhtml">Scurtături de maus</a>
+      pentru instrucțiuni).</p>
+
+    <h4 id="reset_text_size">Normal</h4>
+    <p>Afișează textul de pe o pagină web folosind mărimea lui normală.</p>
+
+  <h3 id="page_style">Stil pagină</h3>
+  <p>Vă permite să selectați un stil pentru pagina curentă. Implicit,
+    este selectat „Stilul principal” cu excepția cazurilor când autorul specifică
+    un stil implicit diferit.</p>
+
+    <h4 id="no_style">Fără stil</h4>
+    <p>Elimină formatarea făcută cu stilul dintr-o pagină.</p>
+
+    <h4 id="basic_page_style">Stilul principal</h4>
+    <p>Afișează pagina cu stilul general definit de autor.</p>
+
+    <h4 id="alternate_style"></h4>
+    <p>Dacă autorul a specificat un stil adițional de pagină, &brandShortName;
+     îl va lista pentru putea fi selectat de dumneavoastră.</p>
+
+  <h3 id="character_encoding">Codare caractere</h3>
+  <p>Vă permite să schimbați manual codarea caracterelor dintr-o pagină web.
+    &brandShortName; face acest lucru automat, dar sunt unele pagini care nu oferă suficiente informații, sau oferă informații greșite astfel încât &brandShortName; ar putea alege o codare greșită.</p>
+
+  <h3 id="page_source">Sursă pagină</h3>
+  <p>Afișează codul sursă pentru documentul curent. <!--A future version of
+    &brandShortName; will be capable of launching an external program for
+    viewing the source.--></p>
+
+  <div class="noMac">
+    <h3 id="full_screen">Pe tot ecranul</h3>
+    <p>Afișează fereastra pe întreg ecranul. Dacă bara de navigare este ascunsă,
+      puteți reveni oricând la modul de lucru normal apăsând
+      <kbd>F11</kbd>.</p>
+  </div>
+<h2 id="go">Istoric</h2>
+
+  <p>Meniul istoricului conține o listă a celor mai recent vizitate saituri web și
+    a filelor închise.</p>
+
+  <h3 id="back">Înapoi</h3>
+  <p>Navigați înapoi cu o pagină în istoric. Această acțiune este aceeași cu apăsarea
+    butonului <em>Înapoi</em> de pe bara de navigare.</p>
+
+  <h3 id="forward">Înainte</h3>
+  <p>Navigați înainte cu o pagină în istoric. Această acțiune este aceeași cu apăsarea
+    butonului <em>Înainte</em> de pe bara de navigare.</p>
+
+  <h3 id="home">Acasă</h3>
+  <p>Afișează pagina dumneavoastră de start. Această acțiune este aceeași ca apăsarea
+    butonului <em>Acasă</em> de pe bara de navigare. Pentru a schimba pagina de start,
+    selectați &pref.menuPath; și deschideți panoul <em>General</em>.  Puteți alege
+    o pagină goală, pagina curentă (sau un grup de file), un semn de carte, sau
+    o adresă introdusă manual.</p>
+
+  <h3 id="closed_tabs">File închise recent</h3>
+  <p>Vă permite să restaurați o filă pe care ați închis-o recent în fereastra curentă
+    prin selectarea ei din listă. Vedeți și subiectul despre <a href=
+    "tabbed_browsing.xhtml#closing_tabs">Închiderea și restaurarea filelor închise</a> pentru
+    mai multe informații.</p>
+
+  <h3 id="go_history">Arată în bara laterală</h3>
+  <p>Afișează istoricul în bara laterală, care ține evidența saiturilor pe care
+    le-ați vizitat. Pentru a schimba numărul de zile pentru care saiturile ar trebui memorate, selectați
+    &pref.menuPath; și apoi panoul <em>Intimitate</em>.</p>
+
+<h2 id="bookmarks">Semne de carte</h2>
+
+  <p>Acest meniu conține toate semnele de carte pe care le aveți stocate.</p>
+
+  <h3 id="add_to_bookmarks">Pune semn de carte aici...</h3>
+  <p>Adaugă pagina curentă la semnele dumneavoastră de carte. Va fi afișat un dialog
+    care vă permite să alegeți un titlu pentru semnul de carte și să specificați
+    unde doriți să fie stocat.</p>
+
+  <h3 id="subscribe">Abonare la această pagină...</h3>
+  <p>Arată o previzualizare a <a href="glossary.xhtml#feed">fluxului de informații</a> oferit de saitul curent.
+    Din pagina de previzualizare puteți să vă abonați la flux folosind 
+    un <a href="glossary.xhtml#live_bookmark">Semn de carte actualizabil</a>, un cititor de fluxuri de date
+    de pe calculatorul dumneavoastră, sau un serviciu web. Dacă ați ales să vă abonați întotdeauna
+    folosind un semn de carte actualizabil sau un cititor de fluxuri din panoul <em>Fluxuri</em> din
+    &pref.menuPath;, pagina de previzualizare nu va mai fi afișată.</p>
+
+  <h3 id="bookmark_all_tabs">Semne de carte la toate filele...</h3>
+  <p>Adaugă toate filele din fereastra curentă într-un nou dosar cu semne de carte. Va fi afișat un dialog
+    care vă permite să alegeți numele dosarului și să specificați
+    unde doriți să fie stocat.</p>
+
+  <h3 id="organize_bookmarks">Organizează semnele de carte...</h3>
+  <p>Afișează gestionarul semnelor de carte, o fereastră unde puteți modifica semnele dumneavoastră
+    de carte. Puteți sorta, redenumi și schimba proprietățile semnelor dumneavoastră de carte
+    precum și adăuga, șterge și muta semnele.</p>
+
+<h2 id="tools">Unelte</h2>
+
+  <h3 id="web_search">Căutare pe web</h3>
+  <p>Poziționează cursorul în căsuța de căutare pe web. Puteți astfel să tastați imediat termenii pe care
+    doriți să-i găsiți pe web.</p>
+
+  <h3 id="downloads">Descărcări</h3>
+  <p>Deschide gestionarul de descărcări, unde puteți vedea descărcările în curs de desfășurare
+    precum și cele încheiate.</p>
+
+  <h3 id="add_ons">Suplimente</h3>
+  <p>Deschide gestionarul de suplimente, unde puteți vedea, instala, configura, actualiza
+    și dezinstala extensiile și temele dumneavoastră. Pentru mai multe informații, vedeți și
+    ajutorul despre <a href="customization.xhtml#add_ons">Suplimente</a>.</p>
+
+  <h3 id="javascript_console">Consolă de erori</h3>
+  <p>Deschide o consolă de erori care ține evidența problemelor cu codul JavaScript.
+    JavaScript este un limbaj scriptic folosit des în construcția paginilor web.
+    Programatorii folosesc JavaScript pentru a face paginile web mai interactive; JavaScript
+    este adesea folosit pentru a valida dinamic formulare și a selecta butoane.</p>
+
+  <h3 id="page_info">Informații pagină</h3>
+  <p>Afișează informații extinse despre pagina web curentă, cum ar fi 
+    tipul documentului, codarea, mărimea și informații de securitate. De asemenea, dialogul
+    afișează și listele elementelor media și ale legăturilor utilizate în pagină.</p>
+
+  <h3 id="clear_private_data">Șterge datele private...</h3>
+  <p>Șterge datele private care sunt selectate în dialogul Ștergere date private
+    din panoul <em>Intimitate</em> din &pref.menuPath;.
+    Implicit, se afișează un dialog de confirmare.</p>
+
+  <h3 class="win" id="options">&pref.pluralCaps;</h3>
+  <p class="win">Afișează <a href="prefs.xhtml">fereastra &pref.pluralCaps;</a>,
+    unde puteți schimba multe din &pref.plural;le &brandShortName;.</p>
+
+<div class="mac">
+  <h2 id="window">Fereastră</h2>
+
+    <h3 id="minimize">Minimizează</h3>
+    <p>Minimizează fereastra curentă.</p>
+
+    <h3 id="zoom">Zoom</h3>
+    <p>Mărește sau restaurează fereastra curentă.</p>
+
+    <h3 id="open-windows">(Ferestre deschise)</h3>
+    <p>Afișează toate ferestrele deschise după titlul lor.</p>
+</div>
+
+<h2 id="help">Ajutor</h2>
+
+  <h3 id="help_contents">
+    <span class="noMac">Manual de utilizare</span>
+    <span class="mac">Manual de utilizare &brandShortName;</span>
+  </h3>
+  <p>Deschide fereastra cu manualul de ajutor pentru &brandShortName; care conține informatii utile
+    care vă pot ajuta să navigați pe web.</p>
+
+  <div class="win">
+    <h3 id="for_ie_users">Pentru utilizatorii Internet Explorer</h3>
+    <p>Deschide această fereastră de ajutor afișând informații care pot ajuta
+      utilizatorii de Internet Explorer să facă tranziția la &brandShortName;.</p>
+  </div>
+
+  <h3 id="relnotes">Note asupra ediției</h3>
+  <p>Furnizează informații despre instalarea, dezinstalarea și configurarea
+    &brandShortName;, precum și alte informații importante și anunțuri de ultimă
+    oră. Necesită o conexiune activă la internet.</p>
+
+  <h3 id="reporter">Raportează sait cu defecțiuni...</h3>
+  <p>Vă permite să raportați saituri web care nu funcționează corect în
+    &brandShortName; dezvoltatorilor &brandShortName;.</p>
+
+  <h3 id="web_forgery">Raportează sait suspect de contrafacere...</h3>
+  <p>Vă permite să raportați ceea ce credeți dumneavoastră că sunt saituri falsificate sau contrafăcute („phishing”).  
+    Protecția contra contrafacerilor în &brandShortName; se bazează pe Google și informațiile pe care 
+    le trimiteți către Google sunt folosite pentru a îmbunătăți această funcționalitate. 
+    Raportul dumneavoastră va fi anonim în concordanță cu politica de confidențialitate a Google. 
+    Această caracteristică necesită o conexiune activă la internet.</p>
+
+  <h3 id="check_for_updates">Caută actualizări...</h3>
+  <p>Afișează un dialog care verifică dacă sunt disponibile actualizări &brandShortName; și
+    în caz că sunt disponibile, vă întreabă dacă doriți să descărcați actualizarea. După ce
+    actualizarea a fost descărcată, dialogul vă cere să reporniți &brandShortName;
+    pentru ca actualizarea să poată fi instalată. Rețineți că numele acestui meniu se va
+    schimba pe măsură ce o actualizare se descarcă sau este gata de a fi instalată.</p>
+
+  <div class="noMac">
+    <h3 id="about_mozilla_firebird">Despre &brandFullName;</h3>
+    <p>Afișează o fereastră cu informații despre &brandShortName;, inclusiv
+      versiunea curentă și o scurtă listă de mulțumiri.</p>
+  </div>
+
+<div class="contentsBox"><em>12 septembrie 2006</em></div>
+<p>Drepturile de autor &copy; pe &copyright.years; aparțin colaboratorilor la proiectul Mozilla Help Viewer.</p>
+
+</body>
+</html>

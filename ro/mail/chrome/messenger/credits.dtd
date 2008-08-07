@@ -1,0 +1,30 @@
+<!ENTITY credit.title     "Merite pentru &brandFullName;">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.leads     "Conducerea inginerească">
+<!ENTITY credit.core      "Potera de dezvoltare a nucleului">
+<!ENTITY credit.gecko     "Motorul de afișare Gecko">
+<!ENTITY credit.thanks    "Mulțumiri speciale">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "">
+
+<!ENTITY credit.visuals     "Coordonator design vizual">
+<!ENTITY credit.theme       "Design temă">
+<!ENTITY credit.brand       "Identitate marcă">
+<!ENTITY credit.web         "Design web">
+<!ENTITY credit.update      "Actualizare Mozilla">
+<!ENTITY credit.qalead      "Conducerea asigurării de calitate">
+<!ENTITY credit.qa          "Asigurarea calității">
+<!ENTITY credit.build       "Construcție și lansare">
+<!ENTITY credit.infra       "Suport infrastructură">
+<!ENTITY credit.support     "Resurse pentru suport">
+<!ENTITY credit.manage      "Management de proiect">
+<!ENTITY credit.marketleads "Conducere marketing">
+<!ENTITY credit.market      "Marketing">
+<!ENTITY credit.creators    "Creat de">
+<!ENTITY credit.memory      "In memoriam">
+<!ENTITY credit.poweredByGecko "Bazat pe Gecko&trade;">

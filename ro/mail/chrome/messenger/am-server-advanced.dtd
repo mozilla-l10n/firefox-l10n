@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "Setări avansate pentru cont">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "Setări avansate pentru serverul IMAP">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "Director pe serverul IMAP:">
+<!ENTITY serverDirectory.accesskey "D">
+<!ENTITY usingSubscription.label "Afișează doar dosarele la care sunt abonat(ă)">
+<!ENTITY usingSubscription.accesskey "b">
+<!ENTITY dualUseFolders.label "Serverul suportă dosare care conțin subdosare și mesaje">
+<!ENTITY dualUseFolders.accesskey "v">
+<!ENTITY useIdle.label "Folosește comanda IDLE dacă serverul o suportă">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Număr maxim de conexiuni memorate temporar">
+<!ENTITY maximumConnectionsNumber.accesskey "x">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Următoarele preferințe specifică namespace-urile de pe serverul IMAP">
+<!ENTITY personalNamespace.label "Namespace personal:">
+<!ENTITY personalNamespace.accesskey "N">
+<!ENTITY publicNamespace.label "Public (partajat):">
+<!ENTITY publicNamespace.accesskey "P">
+<!ENTITY otherUsersNamespace.label "Alți utilizatori:">
+<!ENTITY otherUsersNamespace.accesskey "A">
+<!ENTITY overrideNamespaces.label "Permite serverului să suprascrie aceste nume de spații">
+<!ENTITY overrideNamespaces.accesskey "a">
+<!ENTITY pop3Desc.label "Când se descarcă mesaje pop3 de pe acest server, folosește următorul dosar pentru mesajele noi:" >
+<!ENTITY folderStorage.label "Unde se stochează mesajele">
+<!ENTITY globalInbox.label "Căsuța poștală globală (Contul local)">
+<!ENTITY globalInbox.accesskey "g">
+<!ENTITY accountDirectory.label "Căsuță poștală pentru contul acestui server">
+<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY deferToServer.label "Căsuța poștală pentru alt cont">
+<!ENTITY deferToServer.accesskey "C">
+<!ENTITY deferGetNewMail.label "Include acest server la recepționarea mesajelor noi">
+<!ENTITY deferGetNewMail.accesskey "I">

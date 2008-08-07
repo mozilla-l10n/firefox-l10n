@@ -1,0 +1,25 @@
+<!-- extracted from AccountManager.xul -->
+
+<!ENTITY accountManagerTitle.label "Setările contului">
+
+<!ENTITY addAccountButton.label "Adaugă cont...">
+<!ENTITY addAccountButton.accesskey "A">
+<!ENTITY setDefaultButton.label "Marchează ca implicit">
+<!ENTITY setDefaultButton.accesskey "M">
+<!ENTITY duplicateButton.label "Duplicare">
+<!ENTITY removeButton.label "Șterge cont">
+<!ENTITY removeButton.accesskey "t">
+
+<!ENTITY nameCol.label "Nume">
+<!ENTITY duplicate.label "Duplicare">
+
+<!-- AccountManager.xul -->
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     setting dialog, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit. 1em = the width of the letter 'm' in the selected font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY accountManager.size "width: 59em; height: 44em;"> 
+<!ENTITY macAccountManager.size "width: 63em; height: 44em;">
+<!ENTITY accountTree.width   "width: 17em;">

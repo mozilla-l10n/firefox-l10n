@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title          "Asistent de import">
+
+<!ENTITY importFrom.label               "Importă opțiuni, semne de carte, istoric, parole și alte date din:">
+<!ENTITY importFromUnix.label           "Importă preferințe, semne de carte, istoric, parole și alte date din:">
+<!ENTITY importFromBookmarks.label      "Importă semne de carte din:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird sau Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Nu importa nimic">
+<!ENTITY importFromNothing.accesskey    "u">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 sau Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "Dintr-un fișier HTML">
+<!ENTITY importFromHTMLFile.accesskey   "f">
+
+<!ENTITY noMigrationSources.label       "Nu s-a putut găsi niciun program care să conțină semne de carte, istoric, sau date despre parole.">
+
+<!ENTITY importSource.title             "Importă configurații și date din">
+<!ENTITY importItems.title              "Elemente de importat">
+<!ENTITY importItems.label              "Alegeți care elemente vor fi importate:">
+
+<!ENTITY migrating.title                "Se importă...">
+<!ENTITY migrating.label                "Se importă următoarele elemente...">
+
+<!ENTITY selectProfile.title            "Alegere profil">
+<!ENTITY selectProfile.label            "Puteți importa din următoarele profiluri:">
+
+<!ENTITY done.title                     "Import încheiat">
+<!ENTITY done.label                     "Următoarele elemente au fost importate cu succes:">
+

@@ -1,0 +1,9 @@
+<!ENTITY caption.label "Popup-uri blocate">
+
+<!ENTITY intro.label "Următoarele pagini au fost împiedicate să afișeze ferestre popup nesolicitate:">
+
+<!ENTITY done.label "Gata">
+<!ENTITY done.accesskey "t">
+
+<!ENTITY unblock.label "Deblochează sait">
+<!ENTITY unblock.accesskey "D">

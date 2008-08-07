@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Mesaj HTML">
+
+<!ENTITY recipient.label "O parte dintre destinatari nu sunt marcați ca fiind capabili de a primi email-uri HTML.">
+
+<!ENTITY question.label "Doriți să convertiți mesajul în format text sau să îl trimiteți în continuare ca HTML?">
+
+<!ENTITY plainTextAndHtml.label "Trimite și în format text și în HTML">
+<!ENTITY plainTextAndHtml.accesskey "T">
+<!ENTITY plainTextOnly.label "Trimite doar în format text">
+<!ENTITY plainTextOnly.accesskey "T">
+<!ENTITY htmlOnly.label "Trimite doar în format HTML">
+<!ENTITY htmlOnly.accesskey "T">
+
+<!ENTITY send.label "Trimite">
+<!ENTITY send.accesskey "T">

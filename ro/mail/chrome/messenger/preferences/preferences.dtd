@@ -1,0 +1,14 @@
+
+<!ENTITY  prefWindow.titleWin     "Opțiuni">
+<!ENTITY  prefWindow.titleGNOME   "Preferințe &brandShortName;">
+<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 50em; height: 37em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
+
+<!ENTITY paneGeneral.title        "General">
+<!ENTITY paneDisplay.title        "Afișare">
+<!ENTITY paneTags.title           "Etichete">
+<!ENTITY paneComposition.title    "Redactare">
+<!ENTITY paneAttachments.title    "Anexe">
+<!ENTITY panePrivacy.title        "Intimitate">
+<!ENTITY paneAdvanced.title       "Avansat">

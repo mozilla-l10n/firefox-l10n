@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label              "Opțiunile implicite ale sistemului">
+<!ENTITY alwaysCheckDefault.label          "Verifică întotdeauna la pornire dacă &brandShortName; este clientul implicit de mail">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Verifică acum">
+<!ENTITY checkNow.accesskey         "V">
+
+<!ENTITY messengerStartPage.label         "Pagina de pornire &brandShortName;">
+<!ENTITY enableStartPage.label            "Arată pagina de start în zona mesajelor la pornirea &brandShortName;">
+<!ENTITY enableStartPage.accesskey        "A">
+<!ENTITY location.label                   "Amplasare:">
+<!ENTITY location1.accesskey               "A">
+<!ENTITY useDefault.label                 "Restaurează">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "Animează iconița din doc">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "Când sosesc noi mesaje:">
+<!ENTITY playSound.label                  "Redă un sunet">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Afișează o alertă">
+<!ENTITY showAnimatedAlert.accesskey      "A">
+<!ENTITY customizeMailAlert.label         "Personalizează...">
+<!ENTITY customizeMailAlert.accesskey     "P">
+
+<!ENTITY soundNotification1.caption       "Sunet">
+<!ENTITY play.label                       "Redă">
+<!ENTITY play.accesskey                   "R">
+<!ENTITY systemsound.label                "Sunetul de sistem implicit pentru mesaj nou">
+<!ENTITY systemsoundMac.label             "Alertă sonoră a sistemului">
+<!ENTITY systemsoundMac.accesskey         "A">
+<!ENTITY systemsound.accesskey            "S">
+<!ENTITY customsound.label                "Utilizează următorul fișier de sunet">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Răsfoiește...">
+<!ENTITY browse.accesskey                 "R">

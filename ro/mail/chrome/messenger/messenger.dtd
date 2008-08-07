@@ -1,0 +1,679 @@
+<!ENTITY messengerWindow.title "Corespondență și grupuri de discuții">
+<!ENTITY titledefault.label    "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
+
+<!-- File Menu -->
+<!ENTITY newFolderCmd.label "Dosar...">
+<!ENTITY newFolderCmd.accesskey "D">
+<!ENTITY newTabCmd.label "Filă nouă">
+<!ENTITY newTabCmd.accesskey "F">
+<!ENTITY closeTabCmd.label "Închide fila">
+<!ENTITY closeTabCmd.accesskey "e">
+<!ENTITY newVirtualFolderCmd.label "Dosar virtual din rezultatele unei căutări">
+<!ENTITY newVirtualFolderCmd.accesskey "s">
+<!ENTITY newAccountCmd.label "Cont...">
+<!ENTITY newAccountCmd.accesskey "C">
+<!ENTITY openMessageMenu.label "Deschide">
+<!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat...">
+<!ENTITY openMessageFileCmd.accesskey "h">
+<!ENTITY openAttachmentCmd.label "Anexe">
+<!ENTITY openAttachmentCmd.accesskey "A">
+<!ENTITY saveAsMenu.label "Salvează ca">
+<!ENTITY saveAsMenu.accesskey "S">
+<!ENTITY saveAsFileCmd.label "Fișier">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.key "S">
+<!ENTITY saveAsTemplateCmd.label "Șablon">
+<!ENTITY saveAsTemplateCmd.accesskey "l">
+<!ENTITY getNewMsgCmd.key "T">
+<!ENTITY getNewMsgForCmd.label "Adu mesajele noi pentru">
+<!ENTITY getNewMsgForCmd.accesskey "o">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNextNMsgCmd.label "Adu următoarele 500 de discuții">
+<!ENTITY getNextNMsgCmd.accesskey "t">
+<!ENTITY sendUnsentCmd.label "Trimite mesajele netrimise">
+<!ENTITY sendUnsentCmd.accesskey "T">
+<!ENTITY subscribeCmd.label "Abonare...">
+<!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY renameFolder.label "Redenumește dosarul...">
+<!ENTITY renameFolder.accesskey "R">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Compactează dosarele">
+<!ENTITY compactFolder.accesskey    "m">
+<!ENTITY emptyTrashCmd.label "Golește coșul de gunoi">
+<!ENTITY emptyTrashCmd.accesskey    "G">
+<!ENTITY importCmd.label "Importă...">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY offlineMenu.label "Offline">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "Lucrează offline">
+<!ENTITY offlineGoOfflineCmd.accesskey "L">
+<!ENTITY synchronizeOfflineCmd.label "Descarcă și sincronizează...">
+<!ENTITY synchronizeOfflineCmd.accesskey "s">
+<!ENTITY settingsOfflineCmd.label "Setări pentru lucrul offline...">
+<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Adu mesajele selectate">
+<!ENTITY downloadSelectedCmd.accesskey "l">
+<!ENTITY downloadStarredCmd.label "Adu mesajele cu steluță">
+<!ENTITY downloadStarredCmd.accesskey "A">
+<!ENTITY printCmd.label "Tipărește...">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.key "P">
+<!ENTITY printPreviewCmd.label "Previzualizează tipărirea">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.key "v">
+<!ENTITY printSetupCmd.label "Aranjare în pagină...">
+<!ENTITY printSetupCmd.accesskey "j">
+
+<!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Șterge mesajul">
+<!ENTITY deleteMsgCmd.accesskey "g">
+<!ENTITY undeleteMsgCmd.label "Recuperează mesajul șters">
+<!ENTITY undeleteMsgCmd.accesskey "j">
+<!ENTITY cancelNewsMsgCmd.label "Anulează mesajul">
+<!ENTITY cancelNewsMsgCmd.accesskey "m">
+<!ENTITY deleteMsgsCmd.label "Șterge mesajele selectate">
+<!ENTITY deleteMsgsCmd.accesskey "g">
+<!ENTITY undeleteMsgsCmd.label "Recuperează mesajele selectate">
+<!ENTITY undeleteMsgsCmd.accesskey "j">
+<!ENTITY cancelNewsMsgsCmd.label "Anulează mesajele selectate">
+<!ENTITY cancelNewsMsgsCmd.accesskey "n">
+<!ENTITY deleteFolderCmd.label "Șterge dosar">
+<!ENTITY deleteFolderCmd.accesskey "d">
+<!ENTITY unsubscribeNewsgroupCmd.label "Dezabonare">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY selectMenu.label "Selectează">
+<!ENTITY selectMenu.accesskey "S">
+<!ENTITY all.label "Toate">
+<!ENTITY all.accesskey "a">
+<!ENTITY selectThreadCmd.label "Conversația">
+<!ENTITY selectThreadCmd.accesskey "C">
+<!ENTITY selectThreadCmd.key "A">
+<!ENTITY selectFlaggedCmd.label "Starred Messages">
+<!ENTITY selectFlaggedCmd.accesskey "S">
+<!ENTITY menuFavoriteFolder.label "Dosar favorit">
+<!ENTITY menuFavoriteFolder.accesskey "a">
+<!ENTITY folderPropsCmd.label "Proprietăți...">
+<!ENTITY folderPropsFolderCmd.label "Proprietăți dosar...">
+<!ENTITY folderPropsNewsgroupCmd.label "Proprietăți grup de discuții...">
+<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY accountManagerCmd.label "Setările conturilor...">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmdUnix.accesskey "r">
+<!ENTITY undoDeleteMsgCmd.label "Anulează ștergerea mesajului">
+<!ENTITY redoDeleteMsgCmd.label "Șterge mesajul din nou">
+<!ENTITY undoMoveMsgCmd.label "Anulează mutarea mesajului">
+<!ENTITY redoMoveMsgCmd.label "Mută mesajul din nou">
+<!ENTITY undoCopyMsgCmd.label "Anulează copierea mesajului">
+<!ENTITY redoCopyMsgCmd.label "Copiază mesajul din nou">
+<!ENTITY undoDefaultCmd.label "Desfă">
+<!ENTITY undoDefaultCmd.accesskey "D">
+<!ENTITY redoDefaultCmd.label "Refă">
+<!ENTITY redoDefaultCmd.accesskey "R">
+
+<!-- View Menu -->
+<!ENTITY showMessengerToolbarCmd.label "Bară de unelte pentru poștă">
+<!ENTITY showMessengerToolbarCmd.accesskey "B">
+<!ENTITY customizeToolbar.label "Personalizare...">
+<!ENTITY customizeToolbar.accesskey "P">
+
+<!ENTITY messagePaneLayoutStyle.label "Aspect">
+<!ENTITY messagePaneLayoutStyle.accesskey "p">
+<!ENTITY messagePaneClassic.label "Vedere clasică">
+<!ENTITY messagePaneClassic.accesskey "c">
+<!ENTITY messagePaneWide.label "Vedere pe lățime">
+<!ENTITY messagePaneWide.accesskey "V">
+<!ENTITY messagePaneVertical.label "Vedere verticală">
+<!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY threadPaneWide.label "Vedere ca listă lată">
+<!ENTITY threadPaneWide.accesskey "i">
+<!ENTITY showMessageCmd.label "Panoul de mesaj">
+<!ENTITY showMessageCmd.accesskey "m">
+
+<!ENTITY folderView.label "Dosare">
+<!ENTITY folderView.accesskey "D">
+<!ENTITY allFolders.label "Toate">
+<!ENTITY allFolders.accesskey "a">
+<!ENTITY unreadFolders.label "Necitite">
+<!ENTITY unreadFolders.accesskey "N">
+<!ENTITY favoriteFolders.label "Favorite">
+<!ENTITY favoriteFolders.accesskey "F">
+<!ENTITY recentFolders.label "Recente">
+<!ENTITY recentFolders.accesskey "R">
+
+<!-- Sort Menu -->
+<!ENTITY sortMenu.label "Sortează după">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortByDateCmd.label "Dată">
+<!ENTITY sortByDateCmd.accesskey "t">
+<!ENTITY sortByReceivedCmd.label "Received">
+<!ENTITY sortByReceivedCmd.accesskey "v">
+<!ENTITY sortByStarCmd.label "Steluță">
+<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByAttachmentsCmd.label "Anexe">
+<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByPriorityCmd.label "Prioritate">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "Mărime">
+<!ENTITY sortBySizeCmd.accesskey "r">
+<!ENTITY sortByStatusCmd.label "Stare">
+<!ENTITY sortByStatusCmd.accesskey "S">
+<!ENTITY sortByTagsCmd.label "Etichete">
+<!ENTITY sortByTagsCmd.accesskey "h">
+<!ENTITY sortByJunkStatusCmd.label "Statutul de spam">
+<!ENTITY sortByJunkStatusCmd.accesskey "p">
+<!ENTITY sortBySubjectCmd.label "Subiect">
+<!ENTITY sortBySubjectCmd.accesskey "b">
+<!ENTITY sortByFromCmd.label "From">
+<!ENTITY sortByFromCmd.accesskey "F">
+<!ENTITY sortByRecipientCmd.label "Destinatar">
+<!ENTITY sortByRecipientCmd.accesskey "t">
+<!ENTITY sortByUnreadCmd.label "Citire">
+<!ENTITY sortByUnreadCmd.accesskey "r">
+<!ENTITY sortByOrderReceivedCmd.label "Ordinea primirii">
+<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortAscending.label "Crescător">
+<!ENTITY sortAscending.accesskey "e">
+<!ENTITY sortDescending.label "Descrescător">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortThreaded.label "Grupează după conversații">
+<!ENTITY sortThreaded.accesskey "c">
+<!ENTITY sortUnthreaded.label "Nu grupa după conversații">
+<!ENTITY sortUnthreaded.accesskey "v">
+<!ENTITY groupBySort.label "Grupează după criteriul de sortare">
+<!ENTITY groupBySort.accesskey "G">
+<!ENTITY groupBySortCmd.key "G">
+<!ENTITY msgsMenu.label "Mesaje">
+<!ENTITY msgsMenu.accesskey "e">
+<!ENTITY threads.label "Conversații">
+<!ENTITY threads.accesskey "C">
+<!ENTITY allMsgsCmd.label "Toate">
+<!ENTITY allMsgsCmd.accesskey "a">
+<!ENTITY expandOrCollapseMenu.label "Extinde/Pliază">
+<!ENTITY expandOrCollapseMenu.accesskey "x">
+<!ENTITY expandAllThreadsCmd.label "Desfășoară toate conversațiile">
+<!ENTITY expandAllThreadsCmd.accesskey "e">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Pliază toate conversațiile">
+<!ENTITY collapseAllThreadsCmd.accesskey "c">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Necitite">
+<!ENTITY unreadMsgsCmd.accesskey "N">
+<!ENTITY threadsWithUnreadCmd.label "Conversații cu mesaje necitite">
+<!ENTITY threadsWithUnreadCmd.accesskey "s">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Conversații urmărite cu mesaje necitite">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "u">
+<!ENTITY ignoredThreadsCmd.label "Conversații ignorate">
+<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY headersMenu.label "Antete">
+<!ENTITY headersMenu.accesskey "n">
+<!ENTITY headersAllCmd.label "Toate">
+<!ENTITY headersAllCmd.accesskey "a">
+<!ENTITY headersNormalCmd.label "Normale">
+<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY bodyMenu.label "Corpul mesajului ca">
+<!ENTITY bodyMenu.accesskey "m">
+<!ENTITY bodyAllowHTML.label "HTML original">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "HTML simplificat">
+<!ENTITY bodySanitized.accesskey "s">
+<!ENTITY bodyAsPlaintext.label "Text simplu">
+<!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY viewAttachmentsInlineCmd.label "Afișează anexele în interiorul mesajului">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY reloadCmd.label "Reîncarcă">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY stopCmd.label "Oprește">
+<!ENTITY stopCmd.accesskey "O">
+<!ENTITY textZoomEnlargeCmd.label "Mai mare">
+<!ENTITY textZoomEnlargeCmd.accesskey "i">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY textZoomReduceCmd.label "Mai mică">
+<!ENTITY textZoomReduceCmd.accesskey "c">
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY textZoomResetCmd.label     "Normală">
+<!ENTITY textZoomResetCmd.accesskey "N">
+<!ENTITY textSize.label             "Mărimea textului">
+<!ENTITY textSize.accesskey             "x">
+
+<!ENTITY pageSourceCmd.label "Sursă mesaj">
+<!ENTITY pageSourceCmd.accesskey "u">
+<!ENTITY pageSourceCmd.key "U">
+
+<!-- Search Menu -->
+<!ENTITY searchMenu.label "Caută">
+<!ENTITY searchMenu.accesskey "C">
+
+<!ENTITY findMenu.label "Caută">
+<!ENTITY findMenu.accesskey "C">
+<!ENTITY findCmd.label "Caută în acest mesaj...">
+<!ENTITY findCmd.accesskey "C">
+<!ENTITY findCmd.key "F">
+<!ENTITY findAgainCmd.label "Caută din nou">
+<!ENTITY findAgainCmd.accesskey "d">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Caută mesaje...">
+<!ENTITY searchMailCmd.accesskey "m">
+<!ENTITY searchMailCmd.key "F">
+<!ENTITY searchAddressesCmd.label "Caută adrese...">
+<!ENTITY searchAddressesCmd.accesskey "s">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "Mergi">
+<!ENTITY goMenu.accesskey "M">
+<!ENTITY nextMenu.label "La următorul">
+<!ENTITY nextMenu.accesskey "u">
+<!ENTITY nextMsgCmd.label "Mesaj">
+<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.key "F">
+<!ENTITY nextUnreadMsgCmd.label "Mesaj necitit">
+<!ENTITY nextUnreadMsgCmd.accesskey "n">
+<!ENTITY nextUnreadMsgCmd.key "N">
+<!ENTITY nextStarredMsgCmd.label "Mesaj cu steluță">
+<!ENTITY nextStarredMsgCmd.accesskey "s">
+<!ENTITY nextUnreadThread.label "Conversație necitită">
+<!ENTITY nextUnreadThreadCmd.accesskey "T">
+<!ENTITY nextUnreadThreadCmd.key "T">
+<!ENTITY prevMenu.label "La precedentul">
+<!ENTITY prevMenu.accesskey "p">
+<!ENTITY prevMsgCmd.label "Mesaj">
+<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.label "Mesaj necitit">
+<!ENTITY prevUnreadMsgCmd.accesskey "n">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Înaintează">
+<!ENTITY goForwardCmd.accesskey "a">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Înapoi">
+<!ENTITY goBackCmd.accesskey "p">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevStarredMsgCmd.label "Mesaj cu steluță">
+<!ENTITY prevStarredMsgCmd.accesskey "s">
+<!ENTITY startPageCmd.label "Pagina de start a contului">
+<!ENTITY startPageCmd.accesskey "s">
+<!ENTITY msgMenu.label "Mesaj">
+<!ENTITY msgMenu.accesskey "M">
+<!ENTITY newMsgCmd.label "Mesaj nou">
+<!ENTITY newMsgCmd.accesskey "n">
+<!ENTITY newNewMsgCmd.label "Mesaj">
+<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY replyMsgCmd.label "Răspunde">
+<!ENTITY replyMsgCmd.accesskey "R">
+<!ENTITY replyMsgCmd.key  "R">
+<!ENTITY replySenderCmd.label "Răspunde doar expeditorului">
+<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyNewsgroupCmd.label "Răspunde pe grup">
+<!ENTITY replyNewsgroupCmd.accesskey  "g">
+<!ENTITY replyToAllMsgCmd.label "Răspunde tuturor">
+<!ENTITY replyToAllMsgCmd.accesskey  "p">
+<!ENTITY replyToAllMsgCmd.key  "R">
+<!ENTITY forwardMsgCmd.label "Înaintează">
+<!ENTITY forwardMsgCmd.accesskey "a">
+<!ENTITY forwardMsgCmd.key  "L">
+<!ENTITY forwardAsMenu.label "Înaintează ca">
+<!ENTITY forwardAsMenu.accesskey "c">
+<!ENTITY forwardAsInline.label "Mesaj inclus">
+<!ENTITY forwardAsInline.accesskey "i">
+<!ENTITY forwardAsAttachmentCmd.label "Anexă">
+<!ENTITY forwardAsAttachmentCmd.accesskey "A">
+<!ENTITY editMsgAsNewCmd.label "Editează ca mesaj nou">
+<!ENTITY editMsgAsNewCmd.accesskey "E">
+<!ENTITY editMsgAsNewCmd.key "E">
+<!ENTITY createFilter.label "Creează filtru din mesaj...">
+<!ENTITY createFilter.accesskey "a">
+<!ENTITY moveMsgMenu.label "Mută în">
+<!ENTITY moveMsgMenu.accesskey "M">
+<!ENTITY moveCopyMsgRecentMenu.label "Recente">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY copyMessageLocation.label "Copiază amplasarea mesajului">
+<!ENTITY copyMessageLocation.accesskey "m">
+<!ENTITY copyMsgMenu.label "Copiază în">
+<!ENTITY copyMsgMenu.accesskey "C">
+<!ENTITY moveToFolderAgain.label "Mută din nou">
+<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgainCmd.key "M">
+<!ENTITY killThreadMenu.label "Ignoră conversația">
+<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "K">
+<!ENTITY killSubthreadMenu.label "Ignore Subthread">
+<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Urmărește conversația">
+<!ENTITY watchThreadMenu.accesskey "U">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY fileHereMenu.label "Îndosariază aici">
+<!ENTITY fileHereMenu.accesskey "n">
+<!ENTITY copyHereMenu.label "Copiază aici">
+<!ENTITY copyHereMenu.accesskey "C">
+<!ENTITY tagMenu.label "Etichetă">
+<!ENTITY tagMenu.accesskey "h">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Marchează">
+<!ENTITY markMenu.accesskey "M">
+<!ENTITY markAsReadCmd.label "Ca citit">
+<!ENTITY markAsReadCmd.accesskey "C">
+<!ENTITY markAsReadCmd.key "M">
+<!ENTITY markAsUnreadCmd.label "Ca necitit">
+<!ENTITY markAsUnreadCmd.accesskey "n">
+<!ENTITY markThreadAsReadCmd.label "Conversația ca citită">
+<!ENTITY markThreadAsReadCmd.accesskey "t">
+<!ENTITY markThreadAsReadCmd.key "R">
+<!ENTITY markReadByDateCmd.label "Ca citite după o plajă de date...">
+<!ENTITY markReadByDateCmd.accesskey "d">
+<!ENTITY markReadByDateCmd.key "C">
+<!ENTITY markAllReadCmd.label "Toate ca citite">
+<!ENTITY markAllReadCmd.accesskey "a">
+<!ENTITY markAllReadCmd.key "C">
+<!ENTITY markStarredCmd.label "Cu o steluță">
+<!ENTITY markStarredCmd.accesskey "s">
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Ca spam">
+<!ENTITY markAsJunkCmd.accesskey "s">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Ca nefiind spam">
+<!ENTITY markAsNotJunkCmd.accesskey "n">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Rulează controlorii de mesaje spam">
+<!ENTITY recalculateJunkScoreCmd.accesskey "c">
+<!ENTITY openMessageWindowCmd.label "Deschide mesajul">
+<!ENTITY openMessageWindowCmd.accesskey "D">
+<!ENTITY openMessageWindowCmd.key "O">
+
+<!-- Windows Menu -->
+<!ENTITY windowMenu.label "Fereastră">
+<!ENTITY windowMenu.accesskey "F">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Unelte">
+<!ENTITY tasksMenu.accesskey "t">
+<!ENTITY addons.label "Suplimente">
+<!ENTITY addons.accesskey "S">
+<!ENTITY messengerCmd.label "Poștă și grupuri de discuții">
+<!ENTITY messengerCmd.accesskey "P">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Agendă de contacte">
+<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY runJunkControls.label "Controlează dosarul de mesaje spam">
+<!ENTITY runJunkControls.accesskey "C">
+<!ENTITY deleteJunk.label "Șterge mesajele spam din dosar">
+<!ENTITY deleteJunk.accesskey "l">
+<!ENTITY errorConsoleCmd.label "Consolă de erori">
+<!ENTITY errorConsoleCmd.accesskey "n">
+<!ENTITY filtersCmd.label "Filtre de mesaje...">
+<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY filtersApply.label "Filtrează dosarul">
+<!ENTITY filtersApply.accesskey "r">
+
+<!-- Mail Toolbar -->
+<!ENTITY getMsgButton.label "Primește">
+<!ENTITY newMsgButton.label "Scrie">
+<!ENTITY replyButton.label "Răspunde">
+<!ENTITY replyAllButton.label "Tuturor">
+<!ENTITY forwardButton.label "Înaintează">
+<!ENTITY fileButton.label "Îndosariază">
+<!ENTITY nextButton.label "Următorul">
+<!ENTITY previousButton.label "Precedentul">
+<!ENTITY backButton1.label "Înapoi">
+<!ENTITY goForwardButton1.label "Înainte">
+<!ENTITY deleteButton.label "Șterge">
+<!ENTITY markButton.label "Marchează">
+<!ENTITY printButton.label "Tipărește">
+<!ENTITY stopButton.label "Oprește">
+<!ENTITY throbberItem.title "Indicator de activitate">
+<!ENTITY updatesItem.title  "Actualizări">
+<!ENTITY junkButton.label "Spam">
+<!ENTITY notJunkButton.label "Nu e spam">
+<!ENTITY addressBookButton.label "Contacte">
+<!ENTITY searchItem.title "Căutare rapidă">
+<!ENTITY mailViewsToolbarItem.title "Vederi de mesaje">
+<!ENTITY folderLocationToolbarItem.title "Amplasare dosar">
+<!ENTITY tagButton.label "Etichetă">
+<!ENTITY compactButton.label "Compact">
+
+<!-- Mail Toolbar Tooltips-->
+<!ENTITY advancedButton.tooltip "Căutare avansată în mesaje">
+<!ENTITY clearButton.tooltip "Anulează criteriile de căutare și arată toate mesajele">
+<!ENTITY getMsgButton.tooltip "Ia mesajele noi de pe server">
+<!ENTITY getAllNewMsgCmd.label "Toate conturile">
+<!ENTITY getAllNewMsgCmd.accesskey "T">
+<!ENTITY getAllNewMsgCmd.key "T">
+<!ENTITY newMsgButton.tooltip "Creează un mesaj nou">
+<!ENTITY replyButton.tooltip "Răspunde la acest mesaj">
+<!ENTITY replyAllButton.tooltip "Răspunde expeditorului și tuturor destinatarilor">
+<!ENTITY forwardButton.tooltip "Înaintează mesajul selectat">
+<!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
+<!ENTITY nextButton.tooltip "Trece la următorul mesaj necitit">
+<!ENTITY previousButton.tooltip "Treci la precedentul mesaj necitit">
+<!ENTITY goForwardButton.tooltip "Mergi la mesajul următor">
+<!ENTITY goBackButton.tooltip "Mergi la mesajul precedent">
+<!ENTITY deleteButton.tooltip "Șterge mesajul sau dosarul selectat">
+<!ENTITY markButton.tooltip "Marchează mesajele">
+<!ENTITY printButton.tooltip "Tipărește acest mesaj">
+<!ENTITY stopButton.tooltip "Oprește transferul curent">
+<!ENTITY junkButton.tooltip "Marchează mesajul ca spam">
+<!ENTITY notJunkButton.tooltip "Marchează mesajele selectate ca spam">
+<!ENTITY addressBookButton.tooltip "Mergi la agenda de contacte">
+<!ENTITY tagButton.tooltip "Etichetează mesaje">
+<!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
+
+<!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "Etichetă nouă...">
+<!ENTITY addNewTag.accesskey "n">
+
+<!-- Folder Pane -->
+<!ENTITY folderColumn.label "Nume">
+<!ENTITY folderSizeColumn.label "Dimensiune">
+
+<!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Get Messages">
+<!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextOpenNewWindow.label "Deschide">
+<!ENTITY folderContextOpenNewWindow.accesskey "D">
+<!ENTITY folderContextOpenNewTab.label "Deschide în filă nouă">
+<!ENTITY folderContextOpenNewTab.accesskey "D">
+<!ENTITY folderContextNew.label "Subdosar nou...">
+<!ENTITY folderContextNew.accesskey "n">
+<!ENTITY folderContextRename.label "Redenumește">
+<!ENTITY folderContextRename.accesskey "R">
+<!ENTITY folderContextRemove.label "Șterge">
+<!ENTITY folderContextRemove.accesskey "g">
+<!ENTITY folderContextCompact.label "Compactează">
+<!ENTITY folderContextCompact.accesskey "m">
+<!ENTITY folderContextEmptyTrash.label "Golește coșul de gunoi">
+<!ENTITY folderContextEmptyTrash.accesskey "G">
+<!ENTITY folderContextEmptyJunk.label "Empty Junk">
+<!ENTITY folderContextEmptyJunk.accesskey "J">
+<!ENTITY folderContextSendUnsentMessages.label "Trimite mesajele netrimise">
+<!ENTITY folderContextSendUnsentMessages.accesskey "T">
+<!ENTITY folderContextUnsubscribe.label "Dezabonează-mă">
+<!ENTITY folderContextUnsubscribe.accesskey "z">
+<!ENTITY folderContextMarkNewsgroupRead.label "Marchează grupul ca citit">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "h">
+<!ENTITY folderContextMarkMailFolderRead.label "Marchează dosarul ca citit">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "z">
+<!ENTITY folderContextSubscribe.label "Abonare...">
+<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSearchMessages.label "Caută...">
+<!ENTITY folderContextSearchMessages.accesskey "C">
+<!ENTITY folderContextProperties.label "Proprietăți...">
+<!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextFavoriteFolder.label "Dosar favorite">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Numele sau mesajul conțin:">
+<!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY clearButton.label "Șterge">
+<!ENTITY clearButton.accesskey "Ș">
+
+<!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "Subiect">
+<!ENTITY searchFromMenu.label "From">
+<!ENTITY searchSubjectOrFromMenu.label "Subject or From">
+<!ENTITY searchRecipient.label "Destinatar sau CC">
+<!ENTITY searchMessageBody.label "Mesajul întreg">
+<!ENTITY saveAsVirtualFolderMenu.label "Salvează căutarea ca dosar...">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Conversație">
+<!ENTITY fromColumn.label "From">
+<!ENTITY recipientColumn.label "Destinatar">
+<!ENTITY subjectColumn.label "Subiect">
+<!ENTITY dateColumn.label "Dată">
+<!ENTITY priorityColumn.label "Prioritate">
+<!ENTITY tagsColumn.label "Etichetă">
+<!ENTITY accountColumn.label "Cont">
+<!ENTITY statusColumn.label "Stare">
+<!ENTITY sizeColumn.label "Dimensiune">
+<!ENTITY junkStatusColumn.label "Statut de spam">
+<!ENTITY linesColumn.label "Rânduri">
+<!ENTITY unreadColumn.label "Necitit">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Citit">
+<!ENTITY receivedColumn.label "Received">
+<!ENTITY starredColumn.label "Cu steluță">
+<!ENTITY locationColumn.label "Loc">
+<!ENTITY idColumn.label "Ordinea primirii">
+<!ENTITY attachmentColumn.label "Anexe">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Clic pentru a selecta coloanele de afișat">
+<!ENTITY threadColumn.tooltip "Clic pentru a grupa mesajele în conversații">
+<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY recipientColumn.tooltip "Clic pentru a sorta după destinatar">
+<!ENTITY subjectColumn.tooltip "Clic pentru a sorta după subiect">
+<!ENTITY dateColumn.tooltip "Clic pentru a sorta după dată">
+<!ENTITY priorityColumn.tooltip "Clic pentru a sorta după prioritate">
+<!ENTITY tagsColumn.tooltip "Clic pentru a sorta după etichete">
+<!ENTITY accountColumn.tooltip "Clic pentru a sorta după cont">
+<!ENTITY statusColumn.tooltip "Clic pentru a sorta după stare">
+<!ENTITY sizeColumn.tooltip "Clic pentru a sorta după mărime">
+<!ENTITY junkStatusColumn.tooltip "Clic pentru a sorta după statutul de spam">
+<!ENTITY unreadColumn.tooltip "Numărul de mesaje necitite din conversație">
+<!ENTITY totalColumn.tooltip "Numărul total de mesaje din conversație">
+<!ENTITY readColumn.tooltip "Clic pentru a sorta după citire">
+<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY starredColumn.tooltip "Clic pentru a sorta după steluță">
+<!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
+<!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">
+<!ENTITY attachmentColumn.tooltip "Clic pentru a sorta după anexe">
+
+<!-- Thread Pane Context Menu -->
+<!ENTITY contextOpenNewWindow.label "Deschide mesajul în fereastră nouă">
+<!ENTITY contextOpenNewWindow.accesskey "f">
+<!ENTITY contextOpenNewTab.label "Deschide mesajul într-o filă nouă">
+<!ENTITY contextOpenNewTab.accesskey "t">
+<!ENTITY contextEditAsNew.label "Editează ca mesaj nou...">
+<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextReplySender.label "Răspunde doar expeditorului">
+<!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyNewsgroup.label "Răspunde grupului de news">
+<!ENTITY contextReplyNewsgroup.accesskey "w">
+<!ENTITY contextReplyAll.label "Răspunde tuturor">
+<!ENTITY contextReplyAll.accesskey "s">
+<!ENTITY contextForward.label "Înaintează">
+<!ENTITY contextForward.accesskey "a">
+<!ENTITY contextForwardAsAttachment.label "Retrimite ca anexă">
+<!ENTITY contextForwardAsAttachment.accesskey "m">
+<!ENTITY contextMoveMsgMenu.label "Mută în">
+<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Recente">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextCopyMsgMenu.label "Copiază în">
+<!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextSaveAs.label "Salvează ca...">
+<!ENTITY contextSaveAs.accesskey "S">
+<!ENTITY contextPrint.label "Tipărește...">
+<!ENTITY contextPrint.accesskey "p">
+<!ENTITY contextPrintPreview.label "Previzualizare tipărire">
+<!ENTITY contextPrintPreview.accesskey "v">
+<!ENTITY contextDelete.label "Șterge">
+<!ENTITY contextDelete.accesskey "g">
+
+<!-- Junk Bar -->
+<!ENTITY junkBarMessage1.label "Junk Mail">
+<!ENTITY junkBarButton1.label "Not Junk">
+<!ENTITY junkInfoButton.label "?">
+
+<!-- Remote Content Bar -->
+<!ENTITY remoteContentMessage1.label "To protect your privacy, remote images have been blocked.">
+<!ENTITY loadRemoteContentButton1.label "Încarcă imaginile">
+
+<!-- Phishing Bar -->
+<!ENTITY phishingBarMessage1.label "Suspected Email Scam">
+<!ENTITY removePhishingBarButton1.label "Ignore Warning">
+<!ENTITY reportPhishingError.label "This isn't an email scam">
+
+<!-- Quick Search Bar -->
+<!ENTITY quickSearchCmd.key "K">
+
+<!-- Message Header Context Menu -->
+<!ENTITY AddToAddressBook.label "Adaugă la contacte...">
+<!ENTITY AddToAddressBook.accesskey "c">
+<!ENTITY SendMailTo.label "Compune mesaj către">
+<!ENTITY SendMailTo.accesskey "s">
+<!ENTITY CopyEmailAddress.label "Copiază adresa de email">
+<!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CreateFilterFrom.label "Create Filter From…">
+<!ENTITY CreateFilterFrom.accesskey "F">
+<!ENTITY BlockAddress.label "Blochează adresa">
+<!ENTITY BlockAddress.accesskey "a">
+<!ENTITY reportPhishingURL.label "Raportează înșelătorie prin email">
+<!ENTITY reportPhishingURL.accesskey "o">
+
+<!-- Content Pane Context Menu -->
+<!ENTITY saveLinkCmd.label "Save Link Target">
+<!ENTITY saveLinkCmd.accesskey "r">
+<!ENTITY saveImageCmd.label "Save Image">
+<!ENTITY saveImageCmd.accesskey "v">
+<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY copyLinkCmd.label "Copy Link Location">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyImageCmd.label "Copy Image Location">
+<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyEmailCmd.label "Copy Email Address">
+<!ENTITY copyEmailCmd.accesskey "E">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label "Gata">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.label "Minimizează">
+<!ENTITY minimizeWindow.key "M">
+<!ENTITY bringAllToFront.label "Adu-le pe toate în față">
+<!ENTITY zoomWindow.label "Lupă">
+
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac.label        "Preferences…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Services">
+<!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Show All">

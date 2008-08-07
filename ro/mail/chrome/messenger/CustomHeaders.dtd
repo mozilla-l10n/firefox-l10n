@@ -1,0 +1,7 @@
+<!ENTITY window.title "Personalizare antete">
+<!ENTITY addButton.label "Adaugă">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "Șterge">
+<!ENTITY removeButton.accesskey "t">
+<!ENTITY newMsgHeader.label "Nou antet mesaj:">
+<!ENTITY newMsgHeader.accesskey "N">

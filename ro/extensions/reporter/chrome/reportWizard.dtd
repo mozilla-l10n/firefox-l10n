@@ -1,0 +1,58 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "Raportează sait cu defecțiuni">
+
+<!ENTITY privacyNotice.label                        "Politica de confidențialitate">
+<!ENTITY reportWizardPrivacy.description            "Această unealtă vă oferă posibilitatea să raportați echipei de promovare ('evangelism team') saiturile care nu funcționează corect în &brandShortName;, sau nu permit accesul cu &brandShortName;. În acest fel ne puteți ajuta să asigurăm utilizatorilor &brandShortName; cea mai bună experiență posibilă. Vă rog acordați un moment pentru a citi următoarele, pentru a ști cum vom folosi noi informațiile pe care le colectăm, dacă dumneavoastră sunteți de acord să participați.">
+<!ENTITY reportWizardMustAgree.description          "Pentru a continua, trebuie să fiți de acord cu politica de confidențialitate de mai sus.">
+
+<!ENTITY dontShowPrivacyStatement.label             "Am citit și sunt de acord cu politica de confidențialitate.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "i">
+
+<!ENTITY reportForm.label                           "Completare raport">
+
+<!ENTITY reportForm.description                     "Dați-ne câteva detalii despre problema cu care v-ați întâlnit:">
+<!ENTITY reportForm.url.title                       "URL sait web:">
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!ENTITY reportForm.behind_login.title              "Saitul este protejat cu parolă"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "p">
+
+<!ENTITY reportForm.problem_type.title              "Tipul problemei:">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "Alegeți unul...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "Navigatorul nu e suportat de sait">
+<!ENTITY reportForm.problem_type.item2.title        "Nu mă pot autentifica">
+<!ENTITY reportForm.problem_type.item3.title        "Nu este afișat un plugin">
+<!ENTITY reportForm.problem_type.item4.title        "Lipsesc alte porțiuni din conținut">
+<!ENTITY reportForm.problem_type.item5.title        "Comportament incorect">
+<!ENTITY reportForm.problem_type.item6.title        "Aspect incorect">
+<!ENTITY reportForm.problem_type.item7.title        "Altă problemă">
+<!ENTITY reportForm.problem_type.item8.title        "Acces pentru cei cu dizabilități">
+<!ENTITY reportForm.problem_type.item9.title        "Conținutul afișat nu este cel așteptat">
+
+<!ENTITY reportForm.describe.title                  "Descrieți problema:">
+<!ENTITY reportForm.describe.accesskey              "D">
+
+<!ENTITY reportForm.platform.title                  "Platformă:">
+<!ENTITY reportForm.product.title                   "Produs:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "Useragent:">
+<!ENTITY reportForm.language.title                  "Limbă:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "Email (opțional):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "Politica de confidențialitate">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Afișează politica de confidențialitate">
+
+<!ENTITY reportResults.showDetail.title             "Arată detalii">
+<!ENTITY reportResults.showDetail.accesskey         "A">
+
+<!ENTITY sendReport.label                           "Trimitere raport">
+<!ENTITY sendReport.description                     "Trimit raportul către server...">
+
+<!ENTITY finish.label                               "Raport trimis">

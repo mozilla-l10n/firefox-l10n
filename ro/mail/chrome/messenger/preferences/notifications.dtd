@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "Personalizează alerta de mesaj nou">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Alege care câmpuri să fie afișate în notificare:">
+<!ENTITY previewText.label                "Previzualizarea textului din mesaj">
+<!ENTITY previewText.accesskey            "m">
+<!ENTITY subject.label                    "Subiectul">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "Expeditorul">
+<!ENTITY sender.accesskey                 "E">
+

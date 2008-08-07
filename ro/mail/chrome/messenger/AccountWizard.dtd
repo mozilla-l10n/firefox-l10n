@@ -1,0 +1,123 @@
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "Asistent de creat conturi">
+<!ENTITY accountWizard.size "width: 45em; height: 38em;">
+
+<!-- Entities for Account Type page -->
+
+<!ENTITY accountSetupInfo.label "Pentru a putea primi mesaje, trebuie să creați mai întâi un cont de email sau de news.">
+<!ENTITY accountTypeTitle.label "Creare cont nou">
+<!ENTITY accountTypeDesc.label "Acest asistent va aduna informațiile necesare pentru crearea unui cont de email sau pentru grupuri de discuții. Dacă nu cunoașteți informațiile cerute, contactați administratorul de sistem sau furnizorul de servicii internet.">
+<!ENTITY accountTypeDirections.label "Alegeți tipul de cont pe care doriți să-l creați:">
+<!ENTITY accountTypeMail.label "Cont de email">
+<!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeNews.label "Cont pentru grupuri de discuții">
+<!ENTITY accountTypeNews.accesskey "t">
+
+<!-- Entities for Identity page -->
+
+<!ENTITY identityTitle.label "Identitate">
+<!ENTITY identityDesc.label "Fiecare cont are propria identitate, adică datele prin care vă identificați față de ceilalți care primesc mesaje de la dumneavoastră">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Introduceți numele care doriți să apară în câmpul „From” („De la”) al mesajelor pe care le trimiteți">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(de exemplu, „Mihai Georgescu”).">
+<!ENTITY fullnameLabel.label "Numele dumneavoastră:">
+<!ENTITY fullnameLabel.accesskey "N">
+
+<!ENTITY emailLabel.label "Adresa de email:">
+<!ENTITY emailLabel.accesskey "A">
+<!ENTITY emailDesc.label "Introduceți adresa dumneavoastră de email; aceasta este adresa pe care alții o vor folosi pentru a vă trimite email-uri">
+<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
+<!ENTITY emailExample.label "(de exemplu: user@example.net).">
+
+<!-- Entities for Server page -->
+
+<!ENTITY serverTitle.label "Informații despre server">
+<!ENTITY incomingServerTitle.label "Server de primire">
+<!ENTITY incomingServerTypeDesc.label "Alegeți tipul serverului de primire pe care îl folosiți.">
+<!ENTITY incomingServerTypeLabel.label "Tip server:">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "Introduceți numele serverului de primire (de exemplu, „mail.example.net”).">
+<!ENTITY incomingServerLabel.label "Server de primire:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Introduceți numele serverului NNTP (de exemplu, „news.example.net”).">
+<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
+<!ENTITY smtpServerTitle.label "Server de trimitere (SMTP)">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "Introduceți numele serverului de trimitere (SMTP) (de exemplu, „smtp.example.net”).">
+<!ENTITY smtpServerLabel.label "Server de trimitere:">
+<!ENTITY smtpServerLabel.accesskey "t">
+<!ENTITY newsServerLabel.label "Server de news:">
+<!ENTITY newsServerLabel.accesskey "n">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Server de news">
+
+<!-- for when the user has an SMTP server pre-configured -->
+<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
+     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
+    inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Va fi folosit serverul de trimitere (SMTP) deja existent, „">
+<!ENTITY haveSmtp1.suffix "”. Puteți modifica setările serverului de trimitere alegând „Setările conturilor” din meniul „Unelte”.">
+
+<!-- Entities for Login page -->
+
+<!ENTITY loginTitle.label "Nume utilizator">
+<!ENTITY usernameDesc.label "Introduceți numele de utilizator pentru primit mesaje, dat de de furnizorul dumneavoastră de email">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(de exemplu, „jsmith”).">
+<!ENTITY usernameLabel.label "Nume utilizator pt primire:">
+<!ENTITY usernameLabel.accesskey "p">
+<!ENTITY usernameSmtpDesc.label "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de email (de obicei este același cu numele de utilizator pentru primire).">
+<!ENTITY usernameSmtpLabel.label "Nume utilizator pt trimitere:">
+<!ENTITY usernameSmtpLabel.accesskey "t">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Va fi folosit numele de utilizator pentru trimitere (SMTP) deja existent, „">
+<!ENTITY haveSmtp2.suffix "”. Puteți modifica setările serverului de trimitere alegând „Setările conturilor” din meniul „Unelte”.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "Serverul dumneavoastră de trimitere (SMTP), „">
+<!ENTITY haveSmtp3.suffix "”, este identic cu serverul de primire; se va folosi același nume de utilizator ca și cel de primire. Puteți modifica setările serverului de trimitere alegând „Setările contului” din meniul Unelte.">
+
+<!-- Entities for Account name page -->
+
+<!ENTITY accnameTitle.label "Nume cont">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Introduceți un nume pe care doriți să-l acordați acestui cont (de exemplu, &quot;Cont Serviciu&quot;, &quot;Cont Acasă&quot; sau &quot;Cont News&quot;).">
+<!ENTITY accnameExample.label "De exemplu, Cont Serviciu, Cont Acasă, sau Cont News">
+<!ENTITY accnameLabel.label "Nume cont:">
+<!ENTITY accnameLabel.accesskey "c">
+
+<!-- Entities for Done (Congratulations) page -->
+
+<!ENTITY completionTitle.label "Felicitări!">
+<!ENTITY completionText.label "Vă rog verificați ca datele de mai jos să fie corecte.">
+<!ENTITY serverTypePrefix.label "Tip server de primire:">
+<!ENTITY serverNamePrefix.label "Nume server de primire:">
+<!ENTITY smtpServerNamePrefix.label "Nume server de trimitere (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Nume server de news (NNTP):">
+<!ENTITY downloadOnLogin.label "Descarcă mesajele acum">
+<!ENTITY deferStorageDesc.label "Nu bifați aici pentru a stoca mesajele contului în directorul său, făcând astfel acest cont să apară pe nivelul cel mai de sus. În caz contrar mesajele vor fi în căsuța poștală globală din dosarele locale.">
+<!ENTITY deferStorage.label "Folosește căsuța poștală globală (stochează mesajele în dosarele locale)">
+<!ENTITY clickFinish.label "Apăsați Încheiere pentru a salva setările și a părăsi asistentul de creat conturi.">
+<!ENTITY clickFinish.labelMac "Click Done to save these settings and exit the Account Wizard.">

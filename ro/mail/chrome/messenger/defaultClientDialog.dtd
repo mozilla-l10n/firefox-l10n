@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Client implicit">
+<!ENTITY defaultClient.intro  "Folosește &brandShortName; ca și client implicit pentru:">
+
+<!ENTITY email.label "E-Mail">
+<!ENTITY newsgroups.label "Grupuri de știri">
+<!ENTITY rss.label "Fluxuri RSS">
+
+<!ENTITY checkOnStartup.label "Întotdeauna efectuează această verificare la pornirea &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "a">

@@ -1,0 +1,215 @@
+<!ENTITY addressbookWindow.title                        "Agendă de contacte">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label                                 "Fișier">
+<!ENTITY fileMenu.accesskey                             "F">
+<!ENTITY newMenu.label                                  "Creează">
+<!ENTITY newMenu.accesskey                              "C">
+<!ENTITY newCard.label                                  "Contact nou în agendă...">
+<!ENTITY newCard.accesskey                              "C">
+<!ENTITY newCard.key                                    "N">
+<!ENTITY newListCmd.label                               "O listă nouă de expediție...">
+<!ENTITY newListCmd.accesskey                           "l">
+<!ENTITY newAddressBookCmd.label                        "o nouă listă de contacte...">
+<!ENTITY newAddressBookCmd.accesskey                    "c">
+<!ENTITY newLDAPDirectoryCmd.label                      "un nou director LDAP...">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "d">
+<!ENTITY newMessageCmd.label                            "un mesaj nou">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "m">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
+<!ENTITY osxAddressBook.accesskey                       "O">
+<!ENTITY closeCmd.label                                 "Închide">
+<!ENTITY closeCmd.key                                   "w">
+<!ENTITY closeCmd.accesskey                             "h">
+<!ENTITY printSetupCmd.label                            "Aranjare în pagină...">
+<!ENTITY printSetupCmd.accesskey                        "j">
+<!ENTITY printPreviewCardViewCmd.label                  "Previz. imprimare fișă">
+<!ENTITY printPreviewCardViewCmd.accesskey              "v">
+<!ENTITY printPreviewAddressBook.label                  "Previz. imprimare carte adrese">
+<!ENTITY printPreviewAddressBook.accesskey              "z">
+<!ENTITY printCardViewCmd.label                         "Imprimă fișă...">
+<!ENTITY printCardViewCmd.accesskey                     "p">
+<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printAddressBook.label                         "Tipărește agenda de contacte...">
+<!ENTITY printAddressBook.accesskey                     "a">
+
+<!ENTITY quitApplicationCmdWin.label                    "Ieșire"> 
+<!ENTITY quitApplicationCmdWin.accesskey                "e">
+<!ENTITY quitApplicationCmd.label                       "Ieșire"> 
+<!ENTITY quitApplicationCmd.accesskey                   "e">
+<!ENTITY quitApplicationCmd.key "Q">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "Editare">
+<!ENTITY editMenu.accesskey                             "E">
+<!ENTITY undoCmd.label                                  "Desfă">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "D">
+<!ENTITY redoCmd.label                                  "Restaurează">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "R">
+<!ENTITY cutCmd.label                                   "Decupează">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "D">
+<!ENTITY copyCmd.label                                  "Copiază">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "C">
+<!ENTITY pasteCmd.label                                 "Inserează">
+<!ENTITY pasteCmd.key                                   "v">
+<!ENTITY pasteCmd.accesskey                             "I">
+<!ENTITY deleteCmd.label                                "Șterge">
+<!ENTITY deleteCmd.key                                  "d">
+<!ENTITY deleteCmd.accesskey                            "Ș">
+<!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">
+<!ENTITY deleteCardCmd.label                            "Șterge fișă">
+<!ENTITY deleteCardsCmd2.label                          "Delete Cards">
+<!ENTITY deleteListCmd.label                            "Delete List">
+<!ENTITY deleteListsCmd.label                           "Delete Lists">
+<!ENTITY deleteItemsCmd.label                           "Delete Items">
+<!ENTITY selectAllCmd.label                             "Selectează tot">
+<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY searchAddressesCmd.key                         "F">
+<!ENTITY selectAllCmd.accesskey                         "a">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Interschimbă numele cu prenumele">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "b">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "adevărat">
+<!ENTITY propertiesCmd.label                            "Proprietăți...">
+<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd.key                              "I">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label                                 "Vizualizare">
+<!ENTITY viewMenu.accesskey                             "V">
+<!ENTITY viewToolbarsMenu.label                         "Bare de unelte">
+<!ENTITY viewToolbarsMenu.accesskey                     "t"> 
+<!ENTITY showAbToolbarCmd.label                         "Bara Agendă">
+<!ENTITY showAbToolbarCmd.accesskey                     "a">
+<!ENTITY showTaskbarCmd.label                           "Bară de stare">
+<!ENTITY showTaskbarCmd.accesskey                       "s">
+<!ENTITY customizeToolbar.label                         "Personalizează...">
+<!ENTITY customizeToolbar.accesskey                     "P">
+<!ENTITY showCardPane.label                             "Panou fișă">
+<!ENTITY showCardPane.accesskey                         "P">
+<!ENTITY menu_ShowNameAs.label                          "Afișează numele în forma">
+<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY firstLastCmd.label                             "Prenume Nume">
+<!ENTITY firstLastCmd.accesskey                         "P"> 
+<!ENTITY lastFirstCmd.label                             "Nume, Prenume">
+<!ENTITY lastFirstCmd.accesskey                         "N">
+<!ENTITY displayNameCmd.label                           "Nume de afișat">
+<!ENTITY displayNameCmd.accesskey                       "a">
+<!ENTITY sortMenu.label                                 "Sortează după">
+<!ENTITY sortMenu.accesskey                             "S">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "Unelte">
+<!ENTITY tasksMenu.accesskey                            "t">
+<!ENTITY messengerCmd.label                             "Email și grupuri de discuții">
+<!ENTITY messengerCmd.accesskey                         "m">
+<!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY searchAddressesCmd.label                       "Caută adrese...">
+<!ENTITY searchAddressesCmd.accesskey                   "s">
+<!ENTITY importCmd.label                                "Import...">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "Export...">
+<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY preferencesCmd.label                           "Opțiuni...">
+<!ENTITY preferencesCmd.key                             "O">
+<!ENTITY preferencesCmd.accesskey                       "O">
+<!ENTITY preferencesCmdUnix.label                       "Preferințe">
+<!ENTITY preferencesCmdUnix.accesskey                   "n">
+
+<!-- Address Book Toolbar and Context Menus -->  
+<!ENTITY newcardButton.label                            "Fișă nouă">
+<!ENTITY newcardButton.accesskey                        "F">
+<!ENTITY newlistButton.label                            "Listă nouă">
+<!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY editButton.label                               "Proprietăți">
+<!ENTITY editButton.accesskey                           "P">
+<!ENTITY newmsgButton.label                             "Scrie mesaj">
+<!ENTITY newmsgButton.accesskey                         "m">
+<!ENTITY newIM.label                                    "Mesaj instantaneu">
+<!ENTITY newIM.accesskey                                "i">
+<!ENTITY deleteButton.label                             "Șterge">
+<!ENTITY deleteButton.accesskey                         "Ș">
+<!ENTITY throbberItem.title                             "Indicator de activitate">
+
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newcardButton.tooltip                          "Creează un contact nou în agenda de contacte">
+<!ENTITY newlistButton.tooltip                          "Creează o nouă listă">
+<!ENTITY editButton.tooltip                             "Editează fișa selectată">
+<!ENTITY newmsgButton.tooltip                           "Trimite un mesaj e-mail">
+<!ENTITY newIM.tooltip                                  "Trimite un mesaj instantaneu sau conversează prin chat">
+<!ENTITY deleteButton.tooltip                           "Șterge înregistrarea sau agenda de contacte selectată">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Agende de contacte">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "Nume sau email">
+<!ENTITY SearchNameOrEmail.accesskey                    "N">
+<!ENTITY advancedButton.tooltip                         "Căutare avansată în agendă">
+<!ENTITY quickSearchCmd.key                             "K">
+<!ENTITY searchItem.title "Căutare rapidă">
+
+<!-- Results Pane -->
+<!ENTITY GeneratedName.label                            "Nume">
+<!ENTITY GeneratedName.accesskey                        "N">
+<!ENTITY PrimaryEmail.label                             "Email">
+<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY ScreenName.label                               "Nume de afișat">
+<!ENTITY ScreenName.accesskey                           "N">
+<!ENTITY Company.label                                  "Organizația">
+<!ENTITY Company.accesskey                              "z">
+<!ENTITY NickName.label                                 "Pseudonim">
+<!ENTITY NickName.accesskey                             "i">
+<!ENTITY SecondEmail.label                              "A doua adresă de email">
+<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY Department.label                               "Departamentul">
+<!ENTITY Department.accesskey                           "r">
+<!ENTITY JobTitle.label                                 "Titlul">
+<!ENTITY JobTitle.accesskey                             "T">
+<!ENTITY CellularNumber.label                           "Mobil">
+<!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY PagerNumber.label                              "Pager">
+<!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY FaxNumber.label                                "Fax">
+<!ENTITY FaxNumber.accesskey                            "F">
+<!ENTITY HomePhone.label                                "Telefon de acasă">
+<!ENTITY HomePhone.accesskey                            "T">
+<!ENTITY WorkPhone.label                                "Telefon de serviciu">
+<!ENTITY WorkPhone.accesskey                            "T">
+<!ENTITY sortAscending.label                            "Crescător">
+<!ENTITY sortAscending.accesskey                        "C">
+<!ENTITY sortDescending.label                           "Descrescător">
+<!ENTITY sortDescending.accesskey                       "D">
+<!ENTITY _PhoneticName.label                            "Nume fonetic">
+<!ENTITY _PhoneticName.accesskey                        "o">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Contact">
+<!ENTITY home.heading                                   "Acasă">
+<!ENTITY other.heading                                  "Altele">
+<!ENTITY phone.heading                                  "Telefon">
+<!ENTITY work.heading                                   "Serviciu">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Descriere">
+<!ENTITY addresses.heading                              "Adrese ">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Hartă">
+<!ENTITY mapIt.tooltip                                  "Afișează o hartă de pe web cu această adresă">
+
+<!-- Status Bar -->
+<!ENTITY statusText.label "">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label "Fereastră">
+<!ENTITY minimizeWindow.label "Minimizează">
+<!ENTITY minimizeWindow.key "M">
+<!ENTITY bringAllToFront.label "Adu-le pe toate în față">
+<!ENTITY zoomWindow.label "Lupă">

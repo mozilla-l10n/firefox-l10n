@@ -1,0 +1,15 @@
+<!ENTITY brandMotto       "Redescoperă internetul">
+<!ENTITY credit.thanks    "Mulțumiri speciale">
+
+<!ENTITY credit.thanks2       "Multe mulțumiri">
+<!ENTITY credit.contributors2 "colaboratorilor">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Traducători</h3><ul><li>Alexandru Szasz</li><li>Iulian Ursache-Dogariu</li><li>Cristian Brînză</li></ul>">
+
+<!ENTITY credit.memory      "In memoriam">
+<!ENTITY credit.poweredByGeckoReg "Bazat pe Gecko&reg;">

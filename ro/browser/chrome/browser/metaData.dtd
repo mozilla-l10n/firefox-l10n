@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "Nicio proprietate.">
+
+<!ENTITY caption.label         "Proprietăți element">
+<!ENTITY image-sec.label       "Proprietăți imagine">
+<!ENTITY image-url.label       "Adresă:">
+<!ENTITY image-type.label      "Tip:">
+<!ENTITY image-desc.label      "Descriere:">
+<!ENTITY image-alt.label       "Text alternativ:">
+<!ENTITY image-size.label      "Dimensiuni imagine:">
+<!ENTITY image-filesize.label  "Mărime fișier:">
+<!ENTITY insdel-sec.label      "Proprietăți inserare/ștergere">
+<!ENTITY insdel-cite.label     "Info:">
+<!ENTITY insdel-date.label     "Data:">
+<!ENTITY link-sec.label        "Proprietăți legătură">
+<!ENTITY link-url.label        "Adresă:">
+<!ENTITY link-target.label     "Se deschide:">
+<!ENTITY link-type.label       "Tipul destinației:">
+<!ENTITY link-lang.label       "Limba destinației:">
+<!ENTITY link-rel.label        "Relația:">
+<!ENTITY link-rev.label        "Relația în sens invers:">
+<!ENTITY link-ping.label       "Se va notifica:">
+<!ENTITY misc-sec.label        "Proprietăți diverse">
+<!ENTITY misc-lang.label       "Limba textului:">
+<!ENTITY misc-title.label      "Titlu:">
+<!ENTITY misc-tblsummary.label "Sumar tabel:">
+<!ENTITY quote-sec.label       "Proprietăți citat">
+<!ENTITY quote-cite.label      "Info:">

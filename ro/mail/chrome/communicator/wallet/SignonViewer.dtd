@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "Gestionar de parole">
+<!ENTITY      windowalttitle.label            "Gestionar formulare: Situri">
+<!ENTITY      tab.signonsstored.label         "Parole salvate">
+<!ENTITY      tab.signonsnotstored.label      "Parole care nu se salvează">
+<!ENTITY      tab.nopreview.label             "Formulare care nu se previzualizează">
+<!ENTITY      tab.nocapture.label             "Formulare care nu se salvează">
+
+<!ENTITY      spiel.signonsstored.label       "Gestionarul de parole a salvat datele de autentificare pentru următoarele saituri:">
+<!ENTITY      spiel.signonsnotstored.label    "Gestionarul de parole nu salvează date de autentificare pentru următoarele saituri:">
+<!ENTITY      spiel.nopreview.label           "Gestionarul de formulare nu previzualizează formularele de la următoarele situri înainte de a vi le completa:">
+<!ENTITY      spiel.nocapture.label           "Gestionarul de formulare nu cere salvarea formularelor de la următoarele situri:">
+
+<!ENTITY      treehead.site.label             "Sit">
+<!ENTITY      treehead.username.label         "Nume user">
+<!ENTITY      treehead.password.label         "Parola">
+<!ENTITY      remove.label                    "Șterge">
+<!ENTITY      removeall.label                 "Șterge tot">

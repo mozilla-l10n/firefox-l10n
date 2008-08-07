@@ -1,0 +1,10 @@
+<!ENTITY header.label     "Titlu scurt"> 
+<!ENTITY message.label    "Aici vine o mostră de text.">
+<!ENTITY editfield0.label "Nume utilizator:"> 
+<!ENTITY editfield1.label "Parolă:"> 
+<!ENTITY editfield2.label "Confirmare parolă:"> 
+<!ENTITY checkbox.label   "bifă">
+<!ENTITY copyCmd.label    "Copiază">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Selectează tot">
+<!ENTITY selectAllCmd.accesskey "a">

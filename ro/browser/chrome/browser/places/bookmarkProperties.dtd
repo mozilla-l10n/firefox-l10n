@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                 "Nume:">
+<!ENTITY bookmarks.name.accesskey             "N">
+<!ENTITY bookmarks.location.label             "Adresă:">
+<!ENTITY bookmarks.location.accesskey         "A">
+<!ENTITY bookmarks.keyword.label              "Cuvânt cheie:">
+<!ENTITY bookmarks.keyword.accesskey          "h">
+<!ENTITY bookmarks.description.label          "Descriere:">
+<!ENTITY bookmarks.description.accesskey      "D">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "Titluri actualizabile">
+<!ENTITY bookmarks.createIn.label             "Creează în:">
+<!ENTITY bookmarks.createIn.accesskey         "C">
+<!ENTITY bookmarks.feed_location.label        "Adresă flux:">
+<!ENTITY bookmarks.feed_location.accesskey    "f">
+<!ENTITY bookmarks.site_location.label        "Adresă sait:">
+<!ENTITY bookmarks.site_location.accesskey    "s">
+<!ENTITY bookmarks.loadInSidebar.label        "Încarcă semnul în bara laterală">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "b">
+<!ENTITY bookmarks.expanderDown.tooltip       "Arată toate dosarele cu semne de carte">
+<!ENTITY bookmarks.expanderUp.tooltip         "Ascunde">
+<!ENTITY bookmarks.newFolderButton.label      "Dosar nou">
+<!ENTITY bookmarks.newFolderButton.accesskey  "n">

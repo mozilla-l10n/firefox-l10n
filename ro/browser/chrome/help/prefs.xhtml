@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Ryan Flint <rflint@dslr.net>
+  Jeff Walden <jwalden+code@mit.edu>
+  Myk Melez <myk@mozilla.org>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>&pref.pluralCaps; &brandFullName;</title>
+  <link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&pref.pluralCaps; &brandFullName; </h1>
+<p>Acest document explică toate &pref.plural;le disponibile în fereastra 
+  &pref.pluralCaps; din &brandFullName;.</p>
+
+<div class="contentsBox">În această secțiune:
+  <ul>
+    <li><a href="#main_options">&pref.pluralCaps; generale</a></li>
+    <li><a href="#tabs_options">&pref.pluralCaps; file</a></li>
+    <li><a href="#content_options">&pref.pluralCaps; conținut</a></li>
+    <li><a href="#feeds_options">&pref.pluralCaps; fluxuri</a></li>
+    <li><a href="#privacy_options">&pref.pluralCaps; confidențialitate</a></li>
+    <li><a href="#security_options">&pref.pluralCaps; securitate</a></li>
+    <li><a href="#advanced_options">&pref.pluralCaps; avansate</a></li>
+  </ul>
+</div>
+
+<h2 id="main_options">&pref.pluralCaps; generale</h2>
+
+  <h3 id="startup">Pornire</h3>
+  <p>Când deschideți &brandShortName;, setarea implicită face ca <a
+    href="glossary.xhtml#home_page">pagina dumneavoastră de start</a> să fie afișată.  Pagina dumneavoastră de start
+    poate fi un sait foarte vizitat, un motor de căutare, sau poate un cont de corespondență electronică;
+    alegerea vă aparține.  Puteți să schimbați pagina dumneavoastră de start sau puteți alege
+    să afișați o pagină diferită sau un set de pagini la pornire în această
+    secțiune.</p>
+    
+  <p><em>Când &brandShortName; pornește</em><br/>
+    Inițial, când &brandShortName; este pornit, se deschide pagina dumneavoastră de start (afișată în
+    căsuța situată mai jos), care corespunde opțiunii <em>Arată pagina
+    mea de start</em>.  Alternativ, puteți alege să afișați o pagină goală la
+    pornire (poate pentru a elimina timpul necesar încărcării acelei pagini de pe
+    internet) selectând opțiunea <em>arată o pagină goală</em>.</p>
+
+  <p>Ca o ultimă alternativă, puteți face &brandShortName; să redeschidă ferestrele
+    și filele pe care le aveați deschise ultima oară când ați rulat &brandShortName;; practic
+    acest lucru vă readuce la punctul în care erați ultima dată când ați navigat pe internet.
+    Această facilitate poate fi utilă pentru a salva ceea ce făceați în caz că trebuie să închideți
+    &brandShortName;, poate pentru a instala o actualizare pentru sistemul de operare. Puteți alege
+    această opțiune selectând <em>Arată ferestrele și filele pe care le aveam
+    deschise</em>.</p>
+
+  <p><em>Pagina de start</em><br/>
+    Dacă ați setat &brandShortName; să arate pagina dumneavoastră de start când porniți
+    &brandShortName;, puteți specifica pagina dumneavoastră de start tastând-o acolo.  Puteți și
+    să apăsați pe oricare dintre butoanele de sub căsuța cu text pentru a alege o pagină de start
+    specială:</p>
+
+  <ul>
+    <li><em>Folosește pagina curentă</em> setează pagina afișată în acel moment (sau paginile,
+      dacă aveți mai multe file deschise) ca pagina dumneavoastră de start</li>
+    <li><em>Folosește un semn de carte</em> setează semnul de carte selectat (sau dacă selectați un dosar,
+      setul de semne de carte din dosar) ca pagina dumneavoastră de start</li>
+    <li><em>Folosește opțiunea implicită</em> resetează pagina dumneavoastră de start la pagina de start
+      implicită</li>
+  </ul>
+
+  <h3 id="downloads">Descărcări</h3>
+  <p>Această secțiune conține &pref.plural;le care determină cum descarcă &brandShortName;
+    fișiere.</p>
+    
+  <p><em>Arată fereastra descărcărilor când se descarcă un fișier</em><br/>
+    Cu &pref.singular; aceasta selectată, &brandShortName; va deschide <a
+    href="download_manager.xhtml">fereastra Descărcări</a> când porniți 
+    descărcarea unui fișier.</p>
+    
+  <p><em>Închide fereastra după ce s-au descărcat toate fișierele</em><br/>
+    Selectați &pref.singular; aceasta pentru ca &brandShortName; să închidă fereastra Descărcări
+    după ce toate descărcările în curs de desfășurare s-au încheiat.</p>
+      
+  <p><em id="download_folder">Salvează fișierele în</em><br/>
+    Implicit, fișierele descărcate sunt salvate automat pe spațiul de lucru (Desktop),
+    eliminând astfel nevoia de a specifica un loc de descărcare pentru fiecare fișier pe care
+    îl descărcați.  Puteți alege alt dosar apăsând butonul <em><span
+    class="noMac">Răsfoiește...</span><span class="mac">Răsfoiește...</span></em>
+    .</p>
+      
+  <p><em>Întreabă-mă întotdeauna unde să fie salvate fișierele</em><br/>
+    Cu &pref.singular; aceasta selectată, &brandShortName; vă va întreba unde doriți
+    să salvați fiecare fișier descărcat (în loc să folosească locul implicit
+    specificat mai sus).</p>
+  
+  <h3 id="system_defaults">Opțiunile implicite ale sistemului</h3>
+  <p><em>Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul
+    implicit</em><br/>
+    Selectați această opțiune dacă doriți ca &brandShortName; să verifice dacă este 
+    navigatorul implicit la pornire.  Acest lucru asigură faptul că &brandShortName; este folosit
+    oricând o aplicație încearcă să afișeze o pagină web.  Puteți de asemenea clica pe 
+    butonul <em>Verifică acum</em> pentru a verifica acest lucru imediat.</p>
+
+
+<h2 id="tabs_options">&pref.pluralCaps; file</h2>
+<p><em>Noile pagini ar trebui deschise în:</em><br/>
+  &pref.singularCaps; aceasta controlează dacă legăturile din alte aplicații sau 
+  pagini web care cer să fie deschise într-o fereastră nouă sunt deschise în <em> o 
+  fereastră nouă</em> sau <em>o filă nouă</em> în cea mai recentă fereastră deschisă.</p>
+
+<p><strong>Notă:</strong> Dacă ați ales să deschideți paginile în file noi,
+  &brandShortName; va ignora &pref.singular; aceasta și va deschide o fereastră nouă
+  dintr-o legătură dacă autorul paginii a specifica că noua fereastră ar trebui să aibă
+  o mărime anume, pentru că unele pagini pot fi afișate corect doar la o
+  mărime anume.</p>
+  
+<p><em>Avertizează la închiderea mai multor file</em><br/>
+  Când închideți o fereastră cu mai multe file, &brandShortName; vă va cere
+  să confirmați alegerea dumneavoastră.  Acest lucru previne închiderea din greșeală a
+  întregii ferestre când dumneavoastră doreați de fapt închiderea filei curente.  Nu bifați
+  &pref.singular; aceasta pentru a dezactiva acest avertisment și a face ca &brandShortName;
+  să închidă automat fereastra.</p>
+
+<p><em>Avertizează când deschiderea mai multor file ar putea încetini
+  &brandShortName;</em><br/>
+  Când deschideți un număr mare de file dintr-o dată, &brandShortName; vă va cere să
+  confirmați alegerea dumneavoastră.  Acest lucru previne încetinirea sistemului dumneavoastră
+  în timp ce paginile sunt încărcate, dacă nu doreați să deschideți mai multe file.  Nu bifați &pref.singular; aceasta pentru
+  a dezactiva acest avertisment.</p>
+  
+<p><em>Arată întotdeauna bara de file</em><br/>
+  În mod normal, dacă vizualizați o singură pagină într-o fereastră &brandShortName;, bara de file
+  nu este afișată. Bifați &pref.singular; aceasta pentru a arăta întotdeauna bara de
+  file, inclusiv când fereastra &brandShortName; conține o singură 
+  pagină.</p>
+
+<p><em>La deschiderea unei legături într-o filă nouă, comută la ea imediat</em><br/>
+  Când apăsați butonul mijlociu al mausului pe o legătură web (sau țineți apăsat &accelKey; în timp ce apăsați
+  butonul stâng al mausului), pagina se va deschide într-o filă nouă. Acea pagină nu va
+  fi afișată imediat, ci se va încărca într-o filă în spatele celei curente. Bifați 
+  &pref.singular; aceasta pentru a comuta imediat la pagina încărcată și deschisă într-o
+  filă nouă.</p>
+
+
+<h2 id="content_options">&pref.pluralCaps; conținut</h2>
+<p><em>Blochează ferestrele popup</em><br/>
+  Implicit, &brandShortName; blochează supărătoarele ferestrele popup de pe saiturile web.
+  Dacă nu bifați &pref.singular; aceasta blocarea ferestrelor popup va fi dezactivată.</p>
+
+<p>Unele saituri web folosesc ferestre popup cu alt scop decât publicitatea.  Așadar, puteți
+  permite acestor saituri să deschidă ferestre popup. Pentru a face asta apăsați butonul
+  <em>Excepții...</em>, introduceți numele saitului și apăsați butonul <em>Permite</em>.  Pentru
+  a elimina un sait web din listă, selectați-l și apăsați butonul <em>Elimină
+  saitul</em>. Pentru a goli lista, apăsați <em>Elimină toate saiturile</em>.</p>
+
+<p><em>Încarcă imaginile automat</em><br/>
+  Implicit, &brandShortName; afișează imaginile din paginile web.  Nu bifați 
+  &pref.singular; aceasta pentru a nu afișa imaginile din paginile web.</p>
+
+<p>Dacă activați încărcarea automată a imaginilor, apăsând butonul <em>Excepții...</em>
+  puteți alege care dintre imagini nu se vor încărca automat.
+  Apăsând butonul <em>Excepții...</em> veți putea specifica pentru care saituri web doriți să fie
+  încărcare (sau nu) imaginile, indiferent de preferința manifestată aici. În lista
+  de excepții, introduceți saitul de la care doriți să permiteți sau să blocați încărcarea imaginilor
+  și apăsați <em>Permite</em> pentru a încărca imaginile, sau <em>Blochează</em> pentru
+  a le bloca.</p>
+  
+<p><em>Permite JavaScript</em><br/>
+  JavaScript este un limbaj scriptic folosit adesea pentru a construi pagini web
+  interactive.  Cu toate astea, face accesibile unele comportamente supărătoare ale paginilor web
+  Pentru a dezactiva JavaScript, nu bifați &pref.singular; aceasta.  Cu toate astea, rețineți că
+  dezactivând JavaScript ați putea da peste saituri care nu mai funcționează corect. Pentru un control mai fin al
+  comportamentului paginilor care utilizează JavaScript apăsați
+  <em>Avansat...</em>.</p>
+    
+  <h4 id="advanced_javascript">Parametri avansați JavaScript</h4>
+  <dl>
+    <dt>mute sau să redimensioneze ferestre existente</dt>
+    <dd>Nu bifați &pref.singular; aceasta pentru a dezactiva mutarea și redimensionarea ferestrelor comandată
+      de scripturi.</dd>
+
+    <dt>ridice sau să coboare ferestre</dt>
+    <dd>Nu bifați &pref.singular; aceasta pentru a vă asigura că scripturile nu pot ridica (aduce în față)
+      sau coborî (trimite în spate) ferestre.</dd>
+
+    <dt>dezactiveze sau să înlocuiască meniuri contextuale</dt>
+    <dd>Nu bifați &pref.singular; aceasta to prevent web pages from disabling or
+      changing the &brandShortName; context menu.</dd>
+
+    <dt>ascundă bara de stare</dt>
+    <dd>Nu bifați &pref.singular; aceasta pentru a forța afișarea barei de stare
+      în ferestrele popup.</dd>
+
+    <dt>schimbe textul din bara de stare</dt>
+    <dd>Nu bifați &pref.singular; aceasta pentru a nu permite schimbarea textului din bara de stare (cum
+      ar fi afișarea unui text derulant sau împiedicarea afișării adresei unei legături când cursorul mausului
+      se află peste aceasta).</dd>
+  </dl>
+    
+  <p><em>Permite Java</em><br/>
+    Java este un limbaj popular de programare pentru web.  Un singur program Java
+    poate rula pe diverse tipuri de calculatoare, evitând astfel nevoia 
+    de a crea versiuni separate ale programului pentru fiecare tip de
+    calculator.  Nu bifați &pref.singular; aceasta pentru a dezactiva applet-urile Java în
+    &brandShortName;.  Rețineți că pentru ca applet-urile Java să funcționeze, trebuie
+    să instalați plugin-ul Java.</p>
+
+  <h3 id="fonts_and_colors">Fonturi și culori</h3>
+  <p><em>Font implicit</em> și <em>Mărime</em><br/>
+    Web pages are usually displayed in the font and size specified here.
+    However, web pages can override these choices unless you specify otherwise
+    in the Fonts dialog.  Click the <em>Avansat...</em> button to access the
+    Fonts dialog and to change this and other fonts &pref.plural;.</p>
+
+    <h4 id="fonts_dialog">Dialogul Fonturi</h4>
+    <ol>
+      <li>Din lista coborâtoare <em>Fonturi pentru</em>, alegeți un grup de limbi.
+       De exemplu, pentru a seta fonturile implicite pentru limbile occidentale (vest-europene),
+        alegeți <em>Occidental</em>. Pentru o 
+        limbă care nu este în listă, alegeți <em>Alte limbi</em>.</li>
+      <li>Alegeți dacă textul proporțional ar trebui să fie serif (ca și „Times
+        New Roman”;) sau sans-serif (ca și „Arial”). Apoi specificați mărimea dorită a
+        fontului pentru textul proporțional.</li>
+      <li>Alegeți fontul care va fi utilizat pentru fonturile Serif, Sans-serif și Monospațiat.
+        Pentru <code>fonturi monospațiate</code> puteți să specificați și mărimea.</li>
+    </ol>
+
+    <p>Puteți și să setați o mărime minimă a fontului folosit pentru afișarea textului din paginile web. Acest lucru este util
+      pentru a preveni saiturile să folosească fonturi atât de mici încât textul scris cu ele să fie aproape indescifrabil.</p>
+
+    <p><em>Permite paginilor să își aleagă propriile fonturi în locul opțiunilor mele
+       de mai sus</em><br/>
+      Implicit, &brandShortName; folosește fonturi alese de autorul paginii
+      web. Dezactivând &pref.singular; aceasta veți forța toate saiturile să folosească fonturile
+      pe care le specificați dumneavoastră.</p>
+
+    <p><em>Codare caractere</em><br/>
+      Codarea caracterelor aleasă aici va fi utilizată pentru a afișa pagini care nu specifică
+      ce codare folosescu.</p>
+
+    <h4 id="colors_dialog">Dialogul Culori</h4>
+    <p><strong>Text și fundal</strong><br/>
+      Aici puteți schimba culoarea implicită a textului și a fundalului, culori care vor fi folosite
+      în paginile web care nu specifică această informație. Clic pe mostrele de culoare
+      pentru a selecta culori.</p>
+
+    <p><em>Folosește culorile sistemului</em><br/>
+      Bifați &pref.singular; aceasta pentru a folosi culorile definite în setările
+      sistemului dumneavoastră de operare în locul celor specificate mai sus.</p>
+
+    <p><strong>Culori legături</strong><br/>
+      Aici puteți schimba culorile implicite pentru legături web. Clic pe mostrele
+      de culoare pentru a selecta culori.</p>
+
+    <p><em>Subliniază legăturile</em><br/>
+      Implicit, legăturile din paginile web sunt subliniate. Nu bifați &pref.singular; aceasta
+      pentru a nu avea legături subliniate implicit. Rețineți că multe saituri specifică propriile reguli
+      de aplicare a stilului și &pref.singular; aceasta nu are efect pe aceste saituri.</p>
+
+    <p><em>Permite paginilor să își aleagă propriile culori în locul opțiunilor mele
+      de mai sus</em><br/>
+      Implicit, &brandShortName; folosește culorile specificate de autorul paginii
+      web. Dacă nu bifați &pref.singular; aceasta, veți forța toate saiturile să folosească
+      culorile specificate de dumneavoastră.</p>
+
+  <h3 id="file_types">Tipuri de fișiere</h3>
+  <p>Dialogul Acțiuni pentru descărcări, care poate fi deschis apăsând butonul
+    <em>Gestionare...</em>, conține tipuri de fișiere pe care le-ați descărcat.
+    Puteți alege ce ar trebui să facă &brandShortName; când clicați o un anumit
+    tip de fișier selectând tipul fișierului a cărui gestionare doriți să o modificați și apăsând
+    butonul <em>Schimbă acțiunea...</em>.</p>
+
+  <p>Acest lucru va deschide dialogul Schimbare acțiune, unde puteți alege între
+    a deschide tipul de fișier cu aplicația implicită, a-l deschide cu o aplicație
+    anume, a-l salva pe disc, sau a-l afișa cu un plugin instalat. De exemplu,
+    dacă vizualizați multe fișiere multimedia pe pagini web, puteți alege ca
+    &brandShortName; să deschidă întotdeauna fișiere multimedia în programul
+    dumneavoastră de redat asemenea fișiere, în loc de a întreba mereu unde
+    să fie salvat fiecare fișier.</p>
+
+  <ul>
+    <li><em>Deschide-le cu aplicația implicită:</em><br/>
+      Alegeți &pref.singular; aceasta pentru a deschide tipul de fișier în aplicația
+      implicită pentru acel tip de fișier (determinat de sistemul de operare).</li>
+    <li><em>Deschide-le cu această aplicație:</em><br/>
+      Alegeți &pref.singular; aceasta pentru a specifica o aplicație diferită pentru gestionarea
+      acestui tip de fișier. Veți vedea un dialog care vă cere să specificați
+      aplicația pe care doriți să o utilizați.</li>
+    <li><em>Salvează-le pe calculatorul meu:</em><br/>
+      &pref.singularCaps; aceasta va face ca fișierele să fie salvate pe disc (automat, dacă
+      ați selectat &pref.singular; <em>Salvează fișierele în</em> din panoul
+      <em>General</em>).</li>
+    <li><em>Folosește acest plugin:</em><br/>
+      Alegeți &pref.singular; aceasta pentru a lăsa un plugin să gestioneze acest tip de fișier.</li>
+  </ul>
+
+
+<h2 id="feeds_options">&pref.pluralCaps; fluxuri</h2>
+<p>Fluxurile (în engleză „feed-urile”) sunt documente formatate special care sumarizează conținutului
+  saiturilor web.  De exemplu, un flux (în engleză „feed”) ar putea sumariza ultimele titluri de știri de pe
+  un sait de știri sau ultimele postări într-un blog.  Puteți vizualiza conținutul acestor fluxuri în 
+  &brandShortName;, puteți crea semne de carte actualizabile sau le puteți adăuga într-un cititor de fluxuri
+  de pe calculatorul dumneavoastră sau de pe web.  &pref.pluralCaps; din acest panou determină ce face
+  &brandShortName; când dumneavoastră cereți vizualizarea unui flux.</p>
+
+<p><em>Arată-mi o previzualizare și întreabă-mă ce cititor de fluxuri voi folosi</em><br/>
+  Când vizualizați un flux în &brandShortName;, vi se va arăta o previzualizare a 
+  conținutului său. Cu &pref.singular; aceasta selectată, veți putea alege
+  întotdeauna ce doriți să folosiți pentru a vă abona la fluxul de date. Puteți alege folosind opțiunile
+  afișate în partea de sus a paginii care conține fluxul.</p>
+    
+<p><em>Abonează-mă la flux folosind</em><br/>
+  În loc de a afișa o previzualizare a fluxului când îl accesați, puteți să deschideți
+  fluxul direct în cititorul de fluxuri selectând un cititor din lista de cititoare de fluxuri
+  disponibile.  Puteți alege să folosiți o aplicație de pe calculatorul dumneavoastră
+  pentru a vă abona la fluxuri apăsând butonul <em>Alegere aplicație...</em>
+  și selectând aplicația de pe calculatorul dumneavoastră.  Alternativ, puteți să alegeți
+  abonarea automată la fluxuri salvându-le ca semne de carte actualizabile.
+  Pentru a alege o metodă de abonare nu trebuie decât să o selectați din listă.</p>
+
+
+<h2 id="privacy_options">&pref.pluralCaps; confidențialitate</h2>
+
+  <h3 id="privacy_history">Istoric</h3>
+  <p><em>Reține paginile vizitate în ultimele ... zile</em><br/>
+    Aici puteți specifica cât timp doriți ca &brandShortName; să țină minte ce pagini ați vizitat.
+    Valoarea implicită este de 9 zile.</p>
+      
+  <p><em>Reține ce introduc în formulare și bara de căutare</em><br/>
+    Când introduceți informații în formularele web sau bara de căutare din
+    &brandShortName;, acele informații sunt salvate pentru ca &brandShortName; să poată să
+    vă ofere sugestii când introduceți informații în formulare din nou.  Pentru a opri această funcționalitate,
+    nu bifați &pref.singular; aceasta.</p>
+      
+  <p><em>Reține ce am descărcat</em><br/>
+    &pref.singularCaps; aceasta controlează dacă descărcările încheiate din trecute sunt afișate sau nu
+    în fereastra descărcărilor.  Fereastra descărcărilor (accesibilă din <span
+    class="menuPath">Unelte</span> sau apăsând <span
+    class="noUnix">&accelKey;+<kbd>J</kbd></span><span
+    class="unix">&accelKey;+<kbd>Y</kbd></span>) afișează o listă cu descărcările dumneavoastră
+    recente.  &pref.pluralCaps;le descărcărilor sunt disponibile în panoul <a
+    href="#main_options"><em>General</em></a>.</p>
+
+  <h3 id="privacy_cookies">Cookie-uri</h3>
+  <p>Un cookie este un fișier creat de un sait web care stochează informații pe calculatorul dumneavoastră,
+    informații cum ar fi preferințe specifice saitului.</p>
+
+  <p><em>Acceptă cookie-uri de la saituri</em><br/>
+    Implicit, cookie-urile sunt permise.  Nu bifați &pref.singular; aceasta pentru a dezactiva
+    folosirea cookie-urilor.  Rețineți că unele saituri ar putea să nu funcționeze corect când cookie-urile
+    sunt dezactivate.</p>
+      
+  <p><em>Păstrează-le până când:</em></p>
+
+  <ul>
+    <li><em>expiră</em><br/>
+     Aceasta este &pref.singular; implicită. Când este setată, ea permite saiturilor web
+      să specifice cât durează un cookie ce va fi stocat de &brandShortName;. Acest lucru face
+      posibil ca un sait să țină minte preferințele dumneavoastră și informațiile de autentificare
+      între sesiunile de navigare.</li>
+    <li><em>închid &brandShortName;</em><br/>
+      Cu &pref.singular; aceasta selectată, &brandShortName; va elimina toate
+      cookie-urile stocate când este închis.</li>
+    <li><em>întreabă de fiecare dată</em><br/>
+      Cu &pref.singular; aceasta selectată, &brandShortName; vă va întreba cât timp doriți să
+      păstrați un cookie (sau să-l refuzați) de fiecare dată când un sait web
+      încearcă să seteze unul.</li>
+  </ul>
+
+  <p>Pentru a controla care saituri pot sau nu pot seta cookie-uri, apăsați
+    butonul <em>Excepții...</em>.</p>
+      
+  <p>Pentru a afișa gestionarul de cookie-uri apăsați <em>Arată cookie-urile...</em>.</p>
+
+  <p>Aflați mai multe despre cookie-uri, &pref.plural;le individuale și cum să
+    controlați ce saituri au permisiunea să stocheze cookie-uri pe calculatorul dumneavoastră
+    citind despre <a href="cookies.xhtml">Gestionarea cookie-urilor</a>.</p>
+      
+  <h3 id="private_data">Date private</h3>
+  <p><em>Șterge datele private de fiecare dată când închid &brandShortName;</em><br/>
+    Puteți alege ca &brandShortName; să curețe datele private după ce îl 
+    închideți.  Pentru a configura ce date sunt curățate, apăsați butonul <em>Setări...</em>.
+    </p>
+    
+  <p><em>Întreabă înainte de a șterge datele private</em><br/>
+    Cu &pref.singular; aceasta selectată, &brandShortName; vă va cere confirmarea
+    înainte de a curăța automat datele specificate prin apăsarea butonului
+    <em>Setări...</em>.</p>
+  
+  <p>Dacă doriți să ștergeți datele private imediat, puteți apăsa butonul
+    <em>Șterge acum...</em> pentru a face asta.  Pentru a curăța datele private din afara 
+    dialogului de preferințe, puteți să apăsați &accelKey;+&shiftKey;+<kbd>Del</kbd>
+    sau <span class="menuPath">Unelte &gt; Șterge datele private...</span>.</p>
+
+
+<h2 id="security_options">&pref.pluralCaps; securitate</h2>
+<p><em>Avertizează-mă când saiturile încearcă să instaleze suplimente</em><br/>
+  &brandShortName; vă va cere întotdeauna să confirmați instalarea suplimentelor.
+  Pentru a preveni instalările unor suplimente pe care nu le doriți fără a vi se cere confirmarea,
+  &brandShortName; vă avertizează când un sait web încearcă să instaleze un supliment
+  și blochează dialogul de instalare.  Pentru a permite instalări de suplimente de pe un sait anume,
+  apăsați <em>Excepții...</em>, introduceți numele saitului și apăsați
+  <em>Permite</em>.  Nu bifați &pref.singular; aceasta pentru a dezactiva acest avertisment pentru
+  toate saiturile.</p>
+    
+<p><em>Spune-mi dacă saitul pe care-l vizitez e suspect de a fi contrafăcut</em><br/>
+  Bifați &pref.singular; aceasta dacă doriți ca &brandShortName; să verifice activ
+  dacă saitul pe care îl vizitați poate fi o încercare de a vă păcăli să introduceți
+  informații personale (acest lucru este adesea referit ca <em>phishing</em>, folosit în engleză, 
+  și care provine de la „fishing”, și anume pescuitul după informații).</p>
+
+<p><em>Verifică folosind o listă descărcată de saituri suspecte</em><br/>
+  Cu &pref.singular; aceasta selectată, &brandShortName; va verifica saitul curent
+  căutându-l într-o listă actualizată frecvent și stocată pe calculatorul dumneavoastră.  Niciun fel de date
+  despre saiturile pe care le vizitați nu sunt transferate către terți sau furnizori de servicii de protecție contra
+  saiturilor contrafăcute în timpul navigării normale.  Fiindcă metodele de contrafacere evoluează rapid,
+  acest mod de protecție ar putea să nu fie atât de eficient ca și verificarea saitului de către
+  un furnizor de serviciu de protecție contra saiturilor contrafăcute.</p>
+
+<p><em>Verifică întrebând ... despre fiecare sait pe care-l vizitez</em><br/>
+  Cu &pref.singular; aceasta selectată, &brandShortName; va trimite adresa paginii curente
+  folosind o conexiune criptată către furnizorul selectat al serviciului de protecție contra saiturilor contrafăcute
+  pentru a verifica identitatea saitului.  Această metodă oferă cea mai mare protecție,
+  însă informații cum ar fi adresa dumneavoastră ip și versiunea navigatorului ar putea
+  fi transferate și stocate de furnizorul selectat.  După ce selectați &pref.singular; aceasta, vi se va solicita să
+  revizuiți și să vă dați acordul cu privire la politica de confidențialitate a furnizorului de servicii selectat.
+  </p>
+      
+  <h3 id="security_passwords">Parole</h3>
+  <p><em>Reține parolele pentru saituri</em><br/>
+    &brandShortName; poate stoca în siguranță parolele pe care le introduceți în formularele web pentru
+    a vă ușura autentificarea pe saiturile web.  Nu bifați această căsuță pentru a împiedica
+    &brandShortName; să rețină parolele dumneavoastră.</p>
+    
+    <p>Chiar dacă &pref.singular; aceasta este selectată, încă veți fi întrebat(ă)
+    dacă doriți să salvați parolele pentru un sait prima dată când vă autentificați pe el.  Dacă selectați
+    <em>Niciodată pentru acest sait</em>, saitul va fi adăugat la lista de excepții.
+    Pentru a accesa această listă sau pentru a elimina saituri din ea, apăsați butonul
+    <em>Excepții..</em>.</p>
+
+  <p id="set_change_master_password"><em>Folosește o parolă generală</em><br/>
+    &brandShortName; poate proteja datele private cum ar fi parolele salvate și
+    certificatele criptându-le cu o <a
+    href="glossary.xhtml#master_password">parolă generală</a>.  Dacă creați o
+    parolă generală, de fiecare dată când porniți &brandShortName;, vi se va cere să introduceți
+    parola cu prima ocazie când este accesat un certificat sau o parolă stocată.
+    Puteți seta, schimba sau elimina parola generală bifând sau nu 
+    &pref.singular; aceasta sau apăsând butonul
+    <em>Schimbă parola generală...</em>.  Dacă parola generală este deja setată,
+    va trebui să o introduceți pentru a schimba-o sau a elimina-o.</p>
+
+  <p><em>Arată parolele...</em><br/>
+    Puteți gestiona parolele salvate și șterge individual parole după ce apăsați pe butonul
+    <em>Arată parolele</em>.</p>
+  
+  <h3 id="warning_messages">Mesaje de avertizare</h3>
+  <p>Apăsați butonul <em>Setări...</em> pentru a configura avertismentele de securitate
+    pe care &brandShortName; le afișează în timp ce dumneavoastră navigați pe web.</p>
+    
+    <h4>Dialogul Avertismente de securitate</h4>
+    <!--XXX massive suck!  do these provide *any* value whatsoever? -->
+    <dl>
+      <dt>Sunt pe cale de a vizualiza o pagină criptată</dt>
+      <dd>Când &pref.singular; aceasta este activată, &brandShortName; vă va anunța
+        de fiecare dată când sunteți pe cale de a vizualiza o pagină criptată.</dd>
+
+      <dt>Sunt pe cale de a vizualiza o pagină care folosește o criptare slabă</dt>
+      <dd>Când &pref.singular; aceasta este activată, &brandShortName; vă va avertiza când
+        vizitați o pagină care folosește o criptare slabă.</dd>
+
+      <dt>Părăsesc o pagină criptată pentru una care nu e criptată</dt>
+      <dd>Când &pref.singular; aceasta este activată, &brandShortName; vă va avertiza
+        de fiecare dată când plecați de pe o pagină criptată către o pagină necriptată, fie pentru că
+        ați selectat o legătură de pe pagină, un semn de carte sau ați tastat o altă adresă 
+        în bara adresei.</dd>
+
+      <dt>Postez informații care nu sunt criptate</dt>
+      <dd>Când &pref.singular; aceasta este activată, &brandShortName; vă va avertiza
+        când postați prin intermediul unui formular date care nu sunt criptate.</dd>
+  
+      <dt>Sunt pe cale de a vizualiza o pagină criptată care conține niște informație 
+        necriptată</dt>
+      <dd>Când &pref.singular; aceasta este activată, &brandShortName; vă va avertiza când pagina pe care
+        o vizualizați conține un amestec de conținut criptat și necriptat.
+        Dacă o pagină criptată conține date necriptate, ar trebui să verificați identitatea
+        paginii pe care o vizualizați înainte de a introduce în date private în formularele
+        de pe ea.</dd>
+    </dl>
+
+
+<h2 id="advanced_options">&pref.pluralCaps; avansate</h2>
+<p>Panoul avansat conține multe &pref.plural; care sunt mai rar de folos majorității utilizatorilor,
+  dar care sunt uneori utile și alteori critice pentru alte persoane.
+  </p>
+
+  <h3 id="advanced_general">Fila general</h3>
+    <h4 id="accessibility">Accesibilitate</h4>
+    <p><em>Folosește întotdeauna săgețile pentru a naviga în pagini</em><br/>
+      Când &pref.singular; aceasta este activată, &brandShortName; va afișa un cursor mobil
+      în paginile web, cursor care vă permite să selectați text folosind tastatura.
+      Puteți alterna folosirea acestui mod de funcționare apăsând <kbd>F7</kbd>.</p>
+
+    <p><em>Caută textul în timp ce tastez</em><br/>
+      Când &pref.singular; aceasta este activată, &brandShortName; va căuta în pagina curentă
+      ceea ce tastați de îndată ce ați început să tastați și pe măsură ce tastați în continuare. Cât timp căutați
+      în pagină textul tastat, bara de căutare va fi afișată automat în partea de
+      jos a ferestrei pentru a arăta informații despre ceea ce s-a găsit.</p>
+
+    <h4 id="browsing">Navigare</h4>
+    <p><em>Folosește derularea automată</em><br/>
+      Derularea automată este o funcționalitate utilă care vă permite să derulați pagina apăsând butonul
+      mijlociu al mausului (uzual, rotița de derulare de pe maus) și mișcând mausul în sus sau în jos.
+      Unele persoane găsesc asta enervant, așa că derularea automată poate fi dezactivată apelând la
+      &pref.singular; aceasta.</p>
+
+    <p><em>Folosește derularea lină</em><br/>
+      Derularea lină vă poate fi de mare folos dacă citiți des pagini lungi.
+      În mod normal, când apăsați <kbd>Page Down</kbd>, în spațiul de vizualizat pagina va fi afișată direct
+      pagina următoare.  Cu navigarea lină activată, pagina este derulată fin în jos, pentru ca dumneavoastră să vedeți
+      cât de mult se derulează înainte.  Astfel, veți putea relua mai ușor cititul de unde ați rămas.
+      </p>
+        
+    <p><em>Verfică ortografia în timp ce tastez</em><br/>
+      Când &pref.singular; aceasta este activată, &brandShortName; va verifica ortografia dumneavoastră
+      și vă va oferi, când este posibil, corecții pe măsură ce tastați în formularele web.  Rețineți că
+      s-ar putea să fiți nevoit(ă) să descărcați un dicționar; pentru a face aceasta, <span
+      class="noMac">clic dreapta</span><span class="mac">apăsați &ctrlKey; și
+      clic</span> pe orice câmp text, activați ortografierea dacă este nevoie și apoi
+      folosiți meniul <span class="menuPath">Limbi</span> pentru a descărca
+      un dicționar.</p>
+
+    <h4 id="languages">Limbi</h4>
+    <p>Unele pagini web sunt disponibile în mai multe limbi. Apăsați butonul
+      <em>Alegere...</em> pentru a specifica limba sau limbile dumneavoastră preferate.
+      </p>
+
+    <p><strong>Dialogul limbi</strong><br/>
+      Pentru a adăuga o limbă, apăsați <em>Alegeți o limbă de adăugat...</em>, alegeți limba,
+      și apăsați butonul <em>Adaugă</em>.  Eliminați o limbă selectând-o
+      din lista de limbi active și apăsând
+      butonul <em>Elimină</em>.  Puteți și să reordonați limbile folosind butoanele <em>Mută
+       mai sus</em> și <em>Mută mai jos</em> pentru a specifica care este cea preferată în caz că
+      o pagină este disponibilă în mai multe limbi.</p>
+
+  <h3 id="advanced_network">Fila rețea</h3>
+
+    <h4 id="connection_settings">Conexiune</h4>
+    <p>Organizația dumneavoastră sau furnizorul dumneavoastră de internet v-ar putea cere să folosiți
+      un proxy.  Un proxy acționează ca un intermediar între calculatorul dumneavoastră și
+      internet.  Interceptează toate cererile către internet pentru a vedea dacă poate îndeplini
+      cererea folosind cache-ul său.  Serverele proxy sunt folosite pentru a îmbunătăți performanța,
+      a filtra cererile și a ascunde calculatorul dumneavoastră de celelalte prezente pe internet pentru
+      a mări gradul de securitate.  Serverele proxy sunt adesea parte a paravanelor de protecție.</p>
+
+    <h4>Dialogul de setare a conexiunii</h4>
+    <dl>
+      <dt>Conexiune directă la internet</dt>
+      <dd>Aceasta este &pref.singular; implicită. Alegeți-o dacă nu doriți să folosiți 
+        un server proxy.</dd>
+
+      <dt>Detectează automat parametrii proxy-ului pentru această rețea</dt>
+      <dd>Alegeți această opțiune dacă doriți ca &brandShortName; să încerce detectarea automată
+        a setărilor proxy pentru rețeaua dumneavoastră.</dd>
+
+      <dt>Configurare manuală proxy</dt>
+      <dd>Alegeți această opțiune dacă nu aveți o adresă a fișierului de configurare automată a serverului proxy. Cereți
+        administratorului sistemului dumneavoastră numele și numărul porturilor pentru serverele
+        ce rulează programe proxy pentru fiecare serviciu de rețea și introduceți aici
+        informațiile în câmpurile potrivite.</dd>
+
+      <dt>URL pentru configurare automată proxy</dt>
+      <dd>Dacă rețeaua dumneavoastră de acces la internet folosește un fișier de configurare a serverului proxy, cereți
+        administratorului de sistem adresa sa și introduceți-o aici. Apăsați <em>Reîncarcă</em> pentru a
+        încărca setările.</dd>
+    </dl>
+    
+    <h4 id="advanced_cache">Cache</h4>
+    <p>În mod normal, paginile pe care le vizualizați sunt stocate într-un dosar special pentru o
+      accesare mai rapidă a lor în caz că sunt vizualizate din nou.  Puteți specifica aici mărimea
+      spațiului folosit pe disc pentru această memorie cache.  Puteți și să goliți imediat
+      conținutul dosarului în care sunt stocate aceste pagini.</p>
+    
+    <p><em>Folosește până la ... MO de spațiu pentru cache</em><br/>
+      Vă permite să specificați mărimea maximă, în megaocteți, a memoriei cache
+      folosită de &brandShortName; pe calculatorul dumneavoastră.</p>
+    
+    <p><em>Șterge acum</em><br/>
+      Șterge imediat conținutul cache-ului, eliberând spațiul utilizat pe disc de memoria cache.
+      </p>
+  
+  <h3 id="advanced_update">Fila actualizare</h3>
+    <p>&brandShortName; poate verifica dacă există actualizări pentru suplimentele instalate sau chiar pentru
+      &brandShortName;.</p>
+
+    <p><em>Caută automat actualizări pentru:</em><br/>
+      Implicit, &brandShortName; verifică automat dacă există actualizări pentru sine, pentru
+      suplimente și pentru motoare de căutare pentru ca dumneavoastră să știți că aveți întotdeauna
+      cea mai recentă versiune.  Puteți schimba acest mod de funcționare folosind opțiunile
+      de mai jos.</p>
+
+    <p><em>Când sunt găsite actualizări pentru &brandShortName;,</em></p>
+
+    <dl>
+      <dt>Întreabă-mă ce doresc să fac</dt>
+      <dd>Implicit, actualizările &brandShortName; sunt instalate automat.
+        Selectați &pref.singular; aceasta pentru a controla manual cum și când sunt instalate
+        actualizările.</dd>
+      <dt>Descarcă și instalează actualizările automat</dt>
+      <dd>Când &pref.singular; aceasta este selectată, actualizările &brandShortName; vor fi
+        descărcate și instalate automat la următoarea pornire
+        &brandShortName;.  &pref.singularCaps; <em>Avertizează-mă dacă asta va duce la dezactivarea
+        unora dintre suplimentele mele</em>  determină dacă veți fi avertizat înainte de 
+        instalarea unei actualizări care ar necesita dezactivarea unui supliment incompatibil cu actualizarea
+        pentru că nu există nicio versiune compatibilă.  Avertismentul
+        vă permite să amânați instalarea actualizării cu prețul lipsei
+        eventualelor îmbunătățiri incluse în ea.<br/><br/>
+        Dacă toate extensiile și temele sunt compatibile sau pot fi actualizate la versiuni
+        compatibile, actualizarea &brandShortName; va fi instalată. La următoarea pornire,
+        vi se va propune să instalați actualizările suplimentelor ca să puteți
+        continua să le folosiți.</dd>
+    </dl>
+
+    <p><em>Arată istoricul actualizărilor</em><br/>
+      &brandShortName; înregistrează automat actualizările pe care le-ați instalat.
+      Puteți vedea informații despre aceste actualizări apăsând acest buton.</p>
+
+    <p><strong>Notă:</strong>  Trebuie să rulați &brandShortName; cu un cont cu drepturi de
+      <span class="win">administrare</span><span class="noWin">root</span>
+      sau ca utilizatorul care a instalat &brandShortName;
+      pentru a instala actualizări &brandShortName;.</p>
+
+  <h3 id="advanced_encryption">Fila criptare</h3>
+
+    <h4 id="protocols">Protocoale</h4>
+    <p><em>Folosește SSL 3.0</em><br/>
+      Specifică dacă doriți să trimiteți și să primiți informații securizate prin
+      SSL3 (Secure Sockets Layer, Level 3), un protocol standard pentru
+      comunicarea sigură cu saiturile web.  Dezactivarea acestei opțiuni v-ar putea
+      împiedica să vizitați unele saituri.</p>
+
+    <p><em>Folosește TLS 1.0</em><br/>
+      Specifică dacă doriți să trimiteți și să primiți informații securizate prin
+      TLS (Transport Layer Security), un standard de securitate similar cu SSL3
+      (Secure Sockets Layer).  Dezactivarea acestei opțiuni v-ar putea împiedica
+      să accesați anumite saituri.</p>
+
+    <h4 id="certificates">Certificate</h4>
+    <p>Certificatele ajută la efectuarea criptării și decriptării conexiunile la
+      <a href="glossary.xhtml#secure_site">saiturile sigure</a>.</p>
+
+    <p><em>Când un sait web solicită un certificat:</em><br/>
+      Inițial, când un sait web solicită o conexiune sigură, &brandShortName; va folosi
+      automat un certificat potrivit.  Dacă doriți să alegeți manual
+      un certificat (de exemplu, dacă doriți să folosiți un anumit tip de criptare
+      în locul celui selectat automat), alegeți 
+      &pref.singular; <em>Întreabă-mă de fiecare dată</em> și veți avea controlul complet
+      asupra certificatelor folosite în timp ce navigați.</p>
+
+    <p><em>Vizualizare certificate</em><br/>
+      Apăsați acest buton pentru a vizualiza certificatele stocate, pentru a importa certificate noi și
+      pentru a face o copie de siguranță sau pentru a șterge certificate vechi din &brandShortName;.</p>
+
+    <p><em>Liste de revocare</em><br/>
+      &brandShortName; poate utiliza liste de revocare a certificatelor (cunoscute și
+      sub numele de CRL-uri) pentru a asigura întotdeauna validitatea certificatelor dumneavoastră. Apăsați
+      butonul <em>Liste de revocare</em> pentru a gestiona CRL-urile instalate pe 
+      calculatorul dumneavoastră.</p>
+
+    <p><em>Verificare</em><br/>
+      &brandShortName; poate verifica validitatea certificatelor dumneavoastră folosind OCSP
+      (Online Certificate Status Protocol) de fiecare dată când sunt vizualizate sau utilizate.
+      &brandShortName; nu folosește OCSP implicit, dar dacă doriți să activați această verificare,
+      puteți să o faceți aici.  Probabil că veți avea nevoie să schimbați această opțiune doar
+      dacă mediul internet în care vă aflați o cere.</p>
+
+    <p><em>Dispozitive de securitate</em><br/>
+      Dispozitivele de securitate pot cripta și decripta conexiuni și stoca
+      certificate și parole.  Dacă trebuie să folosiți alt dispozitiv de securitate decât
+      cel din &brandShortName;, apăsați butonul <em>Dispozitive de securitate</em>.
+      </p>
+
+<div class="contentsBox"><em>09 octombrie 2007</em></div>
+<p>Drepturile de autor &copy; pe &copyright.years; aparțin colaboratorilor la proiectul Mozilla Help Viewer.</p>
+
+</body>
+</html>

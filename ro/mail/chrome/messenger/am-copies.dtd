@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Copii și dosare">
+<!ENTITY sendingPrefix.label "La trimiterea unui mesaj:">
+<!ENTITY fccMailFolder.label "Plasează automat o copie în:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "Pune răspunsurile în dosarul cu mesajul la care se răspunde">
+<!ENTITY fccReplyFollowsParent.accesskey "c">
+<!ENTITY chooseFolderButton.label "Alege dosar...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc la următoarele adrese:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Dosare speciale">
+<!ENTITY draftMailFolder.label "Păstrează mesajele nefinalizate în:">
+<!ENTITY templateMailFolder.label "Păstrează șabloanele de mesaje în:">
+<!ENTITY saveMessageDlg.label "Afișează dialog de confirmare la salvarea mesajelor">
+<!ENTITY saveMessageDlg.accesskey "s">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Dosarul „Mesaje trimise” din:">
+<!ENTITY sentFolderOn.accesskey "D">
+<!ENTITY sentInOtherFolder.label "Altul:">
+<!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Dosarul „Mesaje nefinalizate” din:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "Altul:">
+<!ENTITY draftInOtherFolder.accesskey "l">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Dosarul &quot;Șabloane&quot; din:">
+<!ENTITY templatesFolderOn.accesskey "o">
+<!ENTITY templateInOtherFolder.label "Altul:">
+<!ENTITY templateInOtherFolder.accesskey "t">
+<!ENTITY specialFoldersTitle.label "Mesaje nefinalizate și șabloane">
+<!ENTITY keepDrafts.label "Păstrează mesajele nefinalizate în:">
+<!ENTITY keepTempltes.label "Păstrează șabloanele de mesaje în:">

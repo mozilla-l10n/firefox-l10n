@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Proprietăți imprimantă">
+
+<!ENTITY paperInput.label "Mărime hârtie:">
+
+<!ENTITY plexInput.label "Mod plex:">
+
+<!ENTITY resolutionInput.label "Rezoluție/Calitate:">
+
+<!ENTITY cmdInput.label "Comandă pentru tipărire:">
+
+<!ENTITY jobTitleInput.label "Titlu job:">
+
+<!ENTITY colorGroup.label "Culoare:">
+<!ENTITY grayRadio.label "Nuanțe de gri">
+<!ENTITY colorRadio.label "Culoare">
+
+<!ENTITY colorspaceInput.label "Spațiu de culori:">
+
+<!ENTITY fontsGroup.label "Fonturi:">
+<!ENTITY downloadFonts.label "Trimit fonturile către imprimantă?">
+
+<!ENTITY edgeMarginInput.label "Distanța între marginea hârtiei și zona tipărită (țoli)">
+<!ENTITY topInput.label "Sus:">
+<!ENTITY bottomInput.label "Jos:">
+<!ENTITY leftInput.label "Stânga:">
+<!ENTITY rightInput.label "Dreapta:">

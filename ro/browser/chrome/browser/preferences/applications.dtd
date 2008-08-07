@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label        "Tip de conținut">
+<!ENTITY  typeColumn.accesskey    "T">
+
+<!ENTITY  actionColumn2.label     "Acțiune">
+<!ENTITY  actionColumn2.accesskey "A">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "Caută:">
+<!ENTITY  filter.accesskey        "C">
+
+<!ENTITY  clear.label             "Curăță">
+<!ENTITY  clear.accesskey         "u">

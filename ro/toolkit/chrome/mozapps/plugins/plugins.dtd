@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title                                  "Serviciul de căutare plugin-uri">
+<!ENTITY pluginWizard.firstPage.title                        "Bun venit la &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; caută acum plugin-uri disponibile...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Plugin-uri disponibile pentru descărcare">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Sunt disponibile următoarele plugin-uri:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Apăsați „Înainte >” pentru a instala aceste plugin-uri.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Unele plugin-uri ar putea să vă ceară informații suplimentare în timpul instalării.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Licențe plugin">
+<!ENTITY pluginWizard.licensePage.accept.label               "Sunt de acord.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Nu sunt de acord (plugin-ul nu va fi instalat).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Instalare plugin-uri">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; instalează plugin-urile...">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; a terminat de instalat plugin-urile lipsă:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Aflați mai multe despre plugin-uri sau căutați manual plugin-uri care vă lipsesc.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; trebuie repornit pentru ca plugin-urile să funcționeze.">
+  
+<!ENTITY missingPlugin.label                                 "Clic aici pentru a descărca plugin-ul.">

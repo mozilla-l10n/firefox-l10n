@@ -1,0 +1,276 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Redactare mesaj: (fără subiect)">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label "Fișier"> 
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newMenu.label "Creează">
+<!ENTITY newMenu.accesskey "C">
+<!ENTITY newMessage.label "Mesaj">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY newCard.label "Contact nou în agendă...">
+<!ENTITY newCard.accesskey "C">
+<!ENTITY attachMenu.label "Anexează">
+<!ENTITY attachMenu.accesskey "x">
+<!ENTITY attachFileCmd.label "Fișier(e)...">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "Pagină web...">
+<!ENTITY attachPageCmd.accesskey "w">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Fișă personală (vCard)">
+<!ENTITY attachVCardCmd.accesskey "F">
+<!ENTITY closeCmd.label "Închide">
+<!ENTITY closeCmd.key "w">
+<!ENTITY closeCmd.accesskey "c">
+<!ENTITY saveCmd.label "Salvează">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveAsCmd.label "Salvează ca">
+<!ENTITY saveAsCmd.accesskey "c">
+<!ENTITY saveAsFileCmd.label "Fișier...">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Ciornă">
+<!ENTITY saveAsDraftCmd.accesskey "C">
+<!ENTITY saveAsTemplateCmd.label "Șablon">
+<!ENTITY saveAsTemplateCmd.accesskey "l">
+<!ENTITY sendNowCmd.label "Trimite acum">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "T">
+<!ENTITY sendLaterCmd.label "Trimite mai târziu">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "r">
+<!ENTITY printSetupCmd.label "Aranjare în pagină...">
+<!ENTITY printSetupCmd.accesskey "j">
+<!ENTITY printCmd.label "Imprimă...">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY quitApplicationCmdWin.label                    "Ieșire"> 
+<!ENTITY quitApplicationCmdWin.accesskey                "I">
+<!ENTITY quitApplicationCmd.label                       "Ieșire"> 
+<!ENTITY quitApplicationCmd.accesskey                   "I">
+<!ENTITY quitApplicationCmd.key "Q"> 
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "Editare"> 
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "Desfă">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "D"> 
+<!ENTITY redoCmd.label "Restaurează">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY cutCmd.label "Taie">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "T"> 
+<!ENTITY copyCmd.label "Copiază">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C"> 
+<!ENTITY pasteCmd.label "Inserează">
+<!ENTITY pasteCmd.key "v">
+<!ENTITY pasteCmd.accesskey "I">
+<!ENTITY editRewrapCmd.label "Înfășoară rândurile">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "Î">
+<!ENTITY deleteCmd.label "Șterge">
+<!ENTITY deleteCmd.key "d">
+<!ENTITY deleteCmd.accesskey "Ș">
+<!ENTITY selectAllCmd.label "Selectează tot">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a"> 
+<!ENTITY findCmd.label "Caută și înlocuiește...">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "C">
+<!ENTITY findAgainCmd.label "Caută din nou">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "d">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Caută înapoi">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "n"> 
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label "Vizualizare"> 
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewToolbarsMenuNew.label "Bare de unelte"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "t"> 
+<!ENTITY showCompositionToolbarCmd.label "Composition Toolbar">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "Formatting Bar">
+<!ENTITY showFormattingBarCmd.accesskey "F">
+<!ENTITY showTaskbarCmd.label "Bară de stare">
+<!ENTITY showTaskbarCmd.accesskey "s">
+<!ENTITY customizeToolbar.label "Personalizează...">
+<!ENTITY customizeToolbar.accesskey "P">
+
+<!ENTITY addressSidebar.label "Listă de contacte"> 
+<!ENTITY addressSidebar.accesskey "o"> 
+
+<!-- Format Menu -->
+<!ENTITY formatMenu.label "Formatare">
+<!ENTITY formatMenu.accesskey "o">
+
+<!-- Options Menu -->
+<!ENTITY optionsMenu.label "Opțiuni">
+<!ENTITY optionsMenu.accesskey "p">
+<!ENTITY checkSpellingCmd.label "Verifică ortografia...">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key2 "VK_F7">
+<!ENTITY checkSpellingCmd.accesskey "V">
+<!ENTITY enableInlineSpellChecker.label "Verifică ortografia pe măsură ce tastez">
+<!ENTITY enableInlineSpellChecker.accesskey "s">
+<!ENTITY quoteCmd.label "Citează mesajul">
+<!ENTITY quoteCmd.accesskey "C">
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCard.label "Anexează vCard personal">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY returnReceiptMenu.label "Confirmare de primire">
+<!ENTITY returnReceiptMenu.accesskey "C">
+<!ENTITY dsnMenu.label "Delivery Status Notification">
+<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY outputFormatMenu.label "Format trimitere">
+<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY autoFormatCmd.label "Autodetecție">
+<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY plainTextFormatCmd.label "Doar text">
+<!ENTITY plainTextFormatCmd.accesskey "x">
+<!ENTITY htmlFormatCmd.label "Doar text îmbogățit (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "b">
+<!ENTITY bothFormatCmd.label "Text și HTML">
+<!ENTITY bothFormatCmd.accesskey "H">
+<!ENTITY priorityMenu.label "Prioritate">
+<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.label "Prioritate:">
+<!ENTITY lowestPriorityCmd.label "F. joasă">
+<!ENTITY lowestPriorityCmd.accesskey "s">
+<!ENTITY lowPriorityCmd.label "Joasă">
+<!ENTITY lowPriorityCmd.accesskey "J">
+<!ENTITY normalPriorityCmd.label "Normală">
+<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY highPriorityCmd.label "Înaltă">
+<!ENTITY highPriorityCmd.accesskey "t">
+<!ENTITY highestPriorityCmd.label "F. înaltă">
+<!ENTITY highestPriorityCmd.accesskey "a">
+<!ENTITY fileCarbonCopyCmd.label "Trimite copie în">
+<!ENTITY fileCarbonCopyCmd.accesskey "T">
+<!ENTITY fileHereMenu.label "Îndosariază aici">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Unelte">
+<!ENTITY tasksMenu.accesskey "t">
+<!ENTITY messengerCmd.label "Corespondență și grupuri de discuții">
+<!ENTITY messengerCmd.accesskey "C">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Agendă de contacte">
+<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY accountManagerCmd.label "Setările conturilor...">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmdUnix.accesskey "S">
+<!ENTITY preferencesCmd.label "Opțiuni...">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label       "Preferințe">
+<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "M">
+<!ENTITY minimizeWindow.label "Minimizează">
+<!ENTITY bringAllToFront.label "Adu-le pe toate în față">
+<!ENTITY zoomWindow.label "Lupă"> 
+<!ENTITY windowMenu.label "Fereastră">
+
+<!-- Mail Toolbar -->
+<!ENTITY sendButton.label "Trimite">
+<!ENTITY quoteButton.label "Citează">
+<!ENTITY addressButton.label "Adrese">
+<!ENTITY attachButton.label "Anexează">
+<!ENTITY spellingButton.label "Ortografie">
+<!ENTITY saveButton.label "Salvează">
+<!ENTITY throbberItem.title "Indicator de activitate">
+
+<!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "Trimite acum acest mesaj"> 
+<!ENTITY sendlaterButton.tooltip "Trimite acest mesaj mai târziu"> 
+<!ENTITY quoteButton.tooltip "Citează din mesajul anterior"> 
+<!ENTITY addressButton.tooltip "Selectați destinatarul din agenda de contacte"> 
+<!ENTITY attachButton.tooltip "Anexează un fișier la acest mesaj"> 
+<!ENTITY saveButton.tooltip "Salvează acest mesaj"> 
+<!ENTITY cutButton.tooltip              "Taie">
+<!ENTITY copyButton.tooltip             "Copiază">
+<!ENTITY pasteButton.tooltip            "Inserează">
+
+<!-- Headers -->
+<!ENTITY fromAddr.label "De la:">
+<!ENTITY fromAddr.accesskey "D">
+<!ENTITY toAddr.label "Către:"> 
+<!ENTITY ccAddr.label "Cc:"> 
+<!ENTITY bccAddr.label "Bcc:"> 
+<!ENTITY replyAddr.label "Răspuns către:"> 
+<!ENTITY newsgroupsAddr.label "Grup news:"> 
+<!ENTITY followupAddr.label "Urmare la:"> 
+<!ENTITY subject.label "Subiect:">
+<!ENTITY subject.accesskey "S">
+<!ENTITY attachments.label "Anexe:">
+<!ENTITY attachments.accesskey "A">
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
+<!ENTITY smiley1Cmd.label "Zâmbet">
+<!ENTITY smiley2Cmd.label "Scârbit">
+<!ENTITY smiley3Cmd.label "Clipit">
+<!ENTITY smiley4Cmd.label "Cu limba scoasă">
+<!ENTITY smiley5Cmd.label "Râzând">
+<!ENTITY smiley6Cmd.label "Rușinat">
+<!ENTITY smiley7Cmd.label "Nedecis">
+<!ENTITY smiley8Cmd.label "Surpriză">
+<!ENTITY smiley9Cmd.label "Sărut">
+<!ENTITY smiley10Cmd.label "Țipăt">
+<!ENTITY smiley11Cmd.label "Șmecher">
+<!ENTITY smiley12Cmd.label "Gură aurită">
+<!ENTITY smiley13Cmd.label "Ar trebui să taci">
+<!ENTITY smiley14Cmd.label "Nevinovat">
+<!ENTITY smiley15Cmd.label "Plânset">
+<!ENTITY smiley16Cmd.label "Buze pecetluite">
+
+<!-- Message Pane Context Menu -->
+<!ENTITY spellCheckNoSuggestions.label "Nici o sugestie găsită">
+<!ENTITY spellCheckIgnoreWord.label "Ignoră cuvânt">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Adaugă în dicționar">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "Desfă">
+<!ENTITY undo.accesskey "D">
+<!ENTITY cut.label "Taie">
+<!ENTITY cut.accesskey "T">
+<!ENTITY copy.label "Copiază">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "Inserează">
+<!ENTITY paste.accesskey "I">
+<!ENTITY pasteQuote.label "Lipește ca citat">
+<!ENTITY pasteQuote.accesskey "p">
+
+<!ENTITY openAttachment.label "Deschide">
+<!ENTITY openAttachment.accesskey "D">
+<!ENTITY delete.label "Șterge">
+<!ENTITY delete.accesskey "Ș">
+<!ENTITY renameAttachment.label "Rename…">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY selectAll.label "Selectează tot">
+<!ENTITY selectAll.accesskey "a">
+<!ENTITY attachFile.label "Anexează fișier(e)...">
+<!ENTITY attachFile.accesskey "f">
+<!ENTITY attachPage.label "Anexează pagină web...">
+<!ENTITY attachPage.accesskey "w">
+
+<!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "Adrese">
+

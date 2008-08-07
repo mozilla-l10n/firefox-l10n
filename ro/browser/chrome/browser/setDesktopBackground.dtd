@@ -1,0 +1,9 @@
+<!ENTITY position.label             "Poziție:">
+<!ENTITY tile.label                 "Mozaic">
+<!ENTITY center.label               "Centrat">
+<!ENTITY stretch.label              "Întins">
+<!ENTITY preview.label              "Previzualizare">
+<!ENTITY color.label                "Culoare:">
+<!ENTITY setDesktopBackground.title "Setare fundal pentru spațiul de lucru">
+<!ENTITY openDesktopPrefs.label     "Deschide Preferințe desktop">
+<!ENTITY closeWindow.key            "w">

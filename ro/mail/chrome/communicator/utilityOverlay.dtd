@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "Fișier">
+<!ENTITY fileMenu.accesskey        "F">
+<!ENTITY newMenu.label            "Creează">
+<!ENTITY newMenu.accesskey          "C">
+
+<!ENTITY editMenu.label          "Editare">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label            "Desfă">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "D">
+<!ENTITY redoCmd.label            "Refă">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label            "Taie">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "T">
+<!ENTITY copyCmd.label            "Copiază">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label            "Lipește">
+<!ENTITY pasteCmd.key            "v">
+<!ENTITY pasteCmd.accesskey          "L">
+<!ENTITY deleteCmd.label          "Șterge">
+<!ENTITY deleteCmd.key            "d">
+<!ENTITY deleteCmd.accesskey        "g">
+<!ENTITY selectAllCmd.label          "Selectează tot">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "o">
+<!ENTITY preferencesCmd.label        "Opțiuni...">
+<!ENTITY preferencesCmd.accesskey      "O">
+<!ENTITY preferencesCmdUnix.label       "Preferințe">
+<!ENTITY preferencesCmdUnix.accesskey     "e">
+
+<!ENTITY findTypeTextCmd.label "Caută textul în timp ce tastez">
+<!ENTITY findTypeTextCmd.accesskey "x">
+
+<!ENTITY viewMenu.label          "Vizualizare">
+<!ENTITY viewMenu.accesskey        "V">
+<!ENTITY viewToolbarsMenu.label        "Bare de unelte">
+<!ENTITY viewToolbarsMenu.accesskey      "B">
+<!ENTITY showTaskbarCmd.label          "Bară de stare">
+<!ENTITY showTaskbarCmd.accesskey        "s">
+
+<!ENTITY direct.label                                   "Conectat (proxy: fără)">
+<!ENTITY direct.accesskey                               "f">
+<!ENTITY manual.label                                   "Conectat (proxy: manual)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "Conectat (proxy: auto)">
+<!ENTITY pac.accesskey                                  "a">
+
+<!ENTITY proxy.label                                    "Configurare proxy...">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+
+<!ENTITY closeCmd.label      "Închide">
+<!ENTITY closeCmd.key      "w">
+<!ENTITY closeCmd.accesskey    "c">
+
+<!ENTITY closeWindow.label "Închide fereastra">
+
+<!ENTITY quitApplicationCmd.label  "Ieșire">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "I">
+
+<!ENTITY quitApplicationCmdUnix.label  "Ieșire">
+<!ENTITY quitApplicationCmdUnix.accesskey  "e">
+
+<!ENTITY quitApplicationCmdMac.label  "Quit &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "q">

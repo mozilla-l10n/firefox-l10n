@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "General">
+
+<!ENTITY accessibility.label             "Accesibilitate">
+
+<!ENTITY useCursorNavigation.label       "Folosește întotdeauna săgețile pentru a naviga în pagini">
+<!ENTITY useCursorNavigation.accesskey   "t">
+<!ENTITY searchStartTyping.label         "Caută textul în timp ce tastez">
+<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY blockAutoRefresh.label          "Avertizează-mă când saiturile încearcă să redirijeze sau să reîncarce pagina">
+<!ENTITY blockAutoRefresh.accesskey      "r">
+
+<!ENTITY browsing.label                  "Navigare">
+
+<!ENTITY useAutoScroll.label             "Folosește derularea automată">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Folosește derularea lină">
+<!ENTITY useSmoothScrolling.accesskey    "l">
+<!ENTITY checkSpelling.label             "Verfică ortografia în timp ce tastez">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "Opțiunile implicite ale sistemului">
+<!ENTITY alwaysCheckDefault.label        "Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul implicit"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "V">
+<!ENTITY checkNow.label                  "Verifică acum">
+<!ENTITY checkNow.accesskey              "a">
+
+<!ENTITY networkTab.label                "Rețea">
+
+<!ENTITY connection.label                "Conexiune">
+
+<!ENTITY connectionDesc.label            "Configurați cum se conectează &brandShortName; la Internet">
+<!ENTITY connectionSettings.label        "Setări...">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY offlineStorage.label            "Stocare offline">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Folosește până la">
+<!ENTITY useCacheBefore.accesskey        "p">
+<!ENTITY useCacheAfter.label             "MO de spațiu pentru cache">
+<!ENTITY clearCacheNow.label             "Curăță acum">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!ENTITY updateTab.label                 "Actualizare">
+
+<!ENTITY autoCheck.label                 "Caută automat actualizări pentru:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "Suplimente instalate">
+<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableSearchUpdate.label        "Motoare de căutare">
+<!ENTITY enableSearchUpdate.accesskey    "M">
+<!ENTITY whenUpdatesFound.label          "Când sunt găsite actualizări pentru &brandShortName;:">
+<!ENTITY askMe.label                     "Întreabă-mă ce doresc să fac">
+<!ENTITY askMe.accesskey                 "n">
+<!ENTITY modeAutomatic.label             "Descarcă și instalează actualizările automat">
+<!ENTITY modeAutomatic.accesskey         "D">
+<!ENTITY modeAutoAddonWarn.label         "Avertizează-mă dacă asta va duce la dezactivarea unora dintre suplimentele mele">
+<!ENTITY modeAutoAddonWarn.accesskey     "A">
+<!ENTITY updateHistory.label             "Arată istoricul actualizărilor">
+<!ENTITY updateHistory.accesskey         "i">
+
+<!ENTITY offlineNotify.label             "Spune-mi când un sait cere să stocheze date pentru uz offline">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "Excepții...">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList.label           "Următoarele saituri au date instalate pentru uz offline:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Șterge…">
+<!ENTITY offlineAppsListRemove.accesskey "r">
+<!ENTITY offlineAppRemove.confirm        "Șterge datele offline">
+
+<!ENTITY encryptionTab.label             "Criptare">
+
+<!ENTITY protocols.label                 "Protocoale">
+<!ENTITY useSSL3.label                   "Folosește SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Folosește TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certificate">
+<!ENTITY certSelection.description       "Când un server cere certificatul meu personal:">
+<!ENTITY certs.auto                      "Selectează automat unul">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       "Întreabă-mă de fiecare dată">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Vizualizare certificate">
+<!ENTITY viewCerts.accesskey             "z">
+<!ENTITY viewCRLs.label                  "Liste de revocare">
+<!ENTITY viewCRLs.accesskey              "r">
+<!ENTITY verify2.label                   "Validare">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Dispozitive de securitate">
+<!ENTITY viewSecurityDevices.accesskey   "D">

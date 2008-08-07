@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Anexează imaginea la mesaj">
+<!ENTITY attachImageSource.accesskey     "s">
+
+<!ENTITY attachLinkSource.label          "Anexează sursa acestei legături la mesaj">
+<!ENTITY attachLinkSource.accesskey      "s">

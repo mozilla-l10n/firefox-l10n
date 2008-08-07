@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Pentru a economisi spațiul pe disc, nu descărca:">
+<!ENTITY doNotDownload.label "Pentru a economisi spațiul pe disc, nu descărca pentru utilizare în mod deconectat:">
+<!ENTITY offlineNewFolder.label "Când creez dosare noi, marchează-le pentru utilizare în mod deconectat">
+<!ENTITY offlineNewFolder.accesskey "C">
+<!ENTITY offlineNotDownload.label "Mesaje mai mari de">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KO">
+<!ENTITY days.label "ZILE">
+<!ENTITY daysOld.label "zile">
+<!ENTITY message.label "mesaje">
+<!ENTITY nntpNotDownloadRead.label "Mesaje citite">
+<!ENTITY nntpNotDownloadRead.accesskey "c">
+<!ENTITY nntpDownloadMsg.label "Mesaje mai vechi de">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Pentru economisirea spațiului pe disc, se pot șterge automat mesajele vechi.">
+<!ENTITY retentionKeepMsg.label "Șterge mesajele mai vechi de">
+<!ENTITY retentionKeepMsg.accesskey "g">
+<!ENTITY retentionKeepAll.label "Nu șterge nici un mesaj">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepNew.label "Șterge toate în afară de ultimele">
+<!ENTITY retentionKeepNew.accesskey "u">
+<!ENTITY retentionKeepUnread.label "Șterge mereu mesajele citite">
+<!ENTITY retentionKeepUnread.accesskey "c">
+<!ENTITY nntpRemoveBody.label "Doar corpurile mesajelor de mai puțin de">
+<!ENTITY nntpRemoveBody.accesskey "p">
+<!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat...">
+<!ENTITY offlineSelectNntp.accesskey "A">
+<!ENTITY offlineSelectImap.label "Alegeți dosarele pentru utilizare în mod deconectat...">
+<!ENTITY offlineSelectImap.accesskey "A">
+<!ENTITY offlineDesc.label "Puteți descărca mesajele local pentru a le avea la dispoziție cât timp lucrați în mod deconectat.">
+<!ENTITY makeInboxMsgsAvailable.label "Fă mesajele din căsuța poștală disponibile când lucrez deconectat">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY diskspaceGroupTitle.label "Spațiu pe disc">

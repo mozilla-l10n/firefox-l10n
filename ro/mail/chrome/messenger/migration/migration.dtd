@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "Asistent de import">
+
+<!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
+
+<!ENTITY importFromNothing.label        "Nu importa nimic">
+<!ENTITY importFromNothing.accesskey    "u">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 sau Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Importă setări și dosare de mesaje din">
+<!ENTITY importItems.title              "Elemente de importat">
+<!ENTITY importItems.label              "Alegeți care elemente vor fi importate:">
+
+<!ENTITY migrating.title                "Se importă...">
+<!ENTITY migrating.label                "Se importă următoarele elemente...">
+
+<!ENTITY selectProfile.title            "Alegere profil">
+<!ENTITY selectProfile.label            "Puteți importa din următoarele profiluri:">
+
+<!ENTITY done.title                     "Import încheiat">
+<!ENTITY done.label                     "Următoarele elemente au fost importate cu succes:">

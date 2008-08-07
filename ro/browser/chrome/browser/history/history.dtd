@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Caută:">
+<!ENTITY find.accesskey            "C">
+<!ENTITY expand.label              "Desfășoară">
+<!ENTITY expand.accesskey          "e">
+<!ENTITY collapse.label            "Pliază">
+<!ENTITY collapse.accesskey        "P">
+<!ENTITY byDate.label "După dată">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "După sait">
+<!ENTITY bySite.accesskey "s">
+<!ENTITY view.label "Afișare">
+<!ENTITY view.accesskey "A">
+<!ENTITY byMostVisited.label "După cele mai vizitate">
+<!ENTITY byMostVisited.accesskey "v">
+<!ENTITY byLastVisited.label "După ultimele vizitate">
+<!ENTITY byLastVisited.accesskey "l">
+<!ENTITY byDayAndSite.label "După dată și sait">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "Deschide">
+<!ENTITY openLinkInWindow.accesskey "D">
+<!ENTITY openInNewTab.label "Deschide în filă nouă">
+<!ENTITY openInNewTab.accesskey "f">
+<!ENTITY openInNewWindow.label "Deschide în fereastră nouă">
+<!ENTITY openInNewWindow.accesskey "e">
+<!ENTITY bookmarkLink.label "Pune semn de carte la această legătură...">
+<!ENTITY bookmarkLink.accesskey "s">
+<!ENTITY copyLink.label "Copiază adresa legăturii">
+<!ENTITY copyLink.accesskey "C">

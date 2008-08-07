@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label                   "Generale">
+<!ENTITY itemAutoComplete.label              "Adrese">
+<!ENTITY itemSpellCheck.label                "Ortografie">
+<!ENTITY itemSendFormat.label                "Format de trimitere">
+
+<!ENTITY forwardReply.label                   "Înaintare mesaje">
+<!ENTITY forwardMsg.label                     "Înaintează mesajele:">
+<!ENTITY forwardMsg.accesskey                 "Î">
+<!ENTITY inline.label                         "Mesaj inclus">
+<!ENTITY inline.accesskey                     "i">
+<!ENTITY asAttachment.label                   "Ca anexă">
+<!ENTITY asAttachment.accesskey               "a">
+<!ENTITY addExtension.label                   "add extension to file name">
+<!ENTITY addExtension.accesskey               "f">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Font:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY size.label                           "Mărime:">
+<!ENTITY size.accesskey                       "M">
+<!ENTITY fontColor.label                      "Culoare text:">
+<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY bgColor.label                        "Culoare fundal:">
+<!ENTITY bgColor.accesskey                    "C">
+<!ENTITY restoreHTMLDefaults.label            "Restaurează setările implicite">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
+
+<!ENTITY sendingMessagesHeader.label          "Redactare mesaje">
+<!ENTITY spellCheck.label                     "Verifică ortografia înainte de a trimite">
+<!ENTITY spellCheck.accesskey                 "c">
+<!ENTITY spellCheckInline.label               "Activează verificarea ortografiei în timpul tastării">
+<!ENTITY spellCheckInline1.accesskey           "n">
+<!ENTITY languagePopup.label                  "Limba:">
+<!ENTITY languagePopup.accessKey              "L">
+<!ENTITY downloadDictionaries.label           "Descarcă mai multe dicționare">
+
+<!ENTITY useMIME.label                        "Pentru mesajele care conțin caractere pe 8 biți, folosește codarea MIME „quoted printable”">
+<!ENTITY useMIME.accesskey                    "o">
+<!ENTITY warnOnSendAccelKey.label             "Confirmă trimiterea când se folosesc scurtături de taste">
+<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY autoSave.label                       "Salvează automat la fiecare">
+<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSaveEnd.label                    "minute">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Încadrează mesajele text pe lățime la">
+<!ENTITY wrapOutMsg.accesskey                 "l">
+<!ENTITY char.label                           "caractere">
+
+<!ENTITY emailCollectionPicker.label           "Adaugă automat adresele de email din mesajele trimise la:">
+<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY addressingTitle.label                 "Completarea automată a adresei">
+<!ENTITY autocompleteText.label                "Când se scrie destinatarul, caută potriviri în:">
+<!ENTITY addressingEnable.label                "Agende locale de contacte">
+<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY directories.label                     "Server de directoare:">
+<!ENTITY directories.accesskey                 "d">
+<!ENTITY editDirectories.label                 "Editează directoarele...">
+<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY matchText.label                       "Dacă se găsește ceva potrivit în agendele locale de contacte:">
+<!ENTITY skipDirectory.label                   "Nu căuta în acest director">
+
+<!ENTITY sendOptionsCaption.label              "Opțiuni HTML și de trimitere">
+<!ENTITY sendOptionsDescription.label          "Configurează aspectul textului">
+<!ENTITY sendOptions.label                     "Opțiuni de trimitere...">
+<!ENTITY sendOptions.accesskey                 "O">

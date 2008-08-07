@@ -1,0 +1,5 @@
+<!ENTITY selectBookmark.title
+  "Setează pagina de start">
+<!ENTITY selectBookmark.label
+  "Alegeți un semn de carte care să fie pagina de start. Dacă alegeți un dosar, toate semnele de carte din el vor fi deschise în file.">
+

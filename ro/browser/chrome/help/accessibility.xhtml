@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Caracteristici de accesibilitate în &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Caracteristici de accesibilitate în &brandFullName;</h1>
+
+  <p>&brandShortName; include multe opțiuni care fac navigatorul și conținutul
+   web accesibil tuturor utilizatorilor, inclusiv celor care au o vedere slabă sau chiar deloc sau 
+   capacități limitate de a folosi o tastatură sau un maus.</p>
+
+  <div class="contentsBox">În această secțiune:
+    <ul>
+    <li><a href="#using_a_keyboard">Folosirea unei tastaturi</a></li>
+    <li><a href="#using_a_mouse">Folosirea unui maus</a></li>
+    <li><a href="#fonts_and_colors">Fonturi și culori</a></li>
+    <li><a href="#controlling_web_content">Control asupra conținutului web</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Compatibilitate
+      cu tehnologii de asistență</a></li>
+    <li><a href="#finding_help_online">Găsirea ajutorului online</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Folosirea unei tastaturi</h2>
+
+  <h3 id="keyboard_shortcuts">Scurtături folosind tastatura</h3>
+
+  <p>O listă de scurtături de taste utilizate des este disponibilă în
+    <a href="shortcuts.xhtml">Scurtături folosind tastatura în &brandShortName;</a>.
+    Online, puteți găsi <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">un tabel comparativ
+    al scurtăturilor de taste</a> implementate în &brandShortName;,
+    Microsoft Internet Explorer și Opera.</p>
+
+  <h3 id="always_use_cursor_keys">Folosește întotdeauna săgețile pentru a naviga
+    în pagini</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Folosind întotdeauna săgețile pentru a naviga
+    într-o pagină</a>, puteți să mișcați cursorul în cadrul paginii web ca și cum
+    ați fi într-un editor de texte.
+    Puteți folosi tastatura pentru a selecta conținut web și să-l copiați în
+    clipboard.  Puteți activa această opțiune deschizând &pref.menuPath;,
+    fila <em>General</em> din panoul <em>Avansat</em>,
+    și bifând &pref.singular; <em>Folosește întotdeauna săgețile pentru a naviga în pagini</em> 
+    .</p>
+
+  <p>Puteți apăsa <kbd>F7</kbd> oricând pentru a activa sau dezactiva această opțiune.
+    Când apăsați <kbd>F7</kbd>, &brandShortName; vă va întreba
+    dacă într-adevăr doriți să activați această opțiune.  Puteți dezactiva
+    această confirmare bifând <em>Nu mai afișa acest dialog.</em></p>
+
+  <h3 id="find_as_you_type">Caută textul în timp ce tastez</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Căutarea textului în timp ce tastați</a>
+    vă permite să navigați rapid la un text sau legături dintr-o pagină.  Această
+    caracteristică are două moduri de funcționare. Apăsați <abbr title="forward slash"><kbd>/</kbd></abbr>
+    și începeți să tastați pentru a căuta în întreg textul paginii curente sau apăsați
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> înainte de textul căutat pentru a căuta
+    doar în legături.  &brandShortName; va evidenția textul găsit sau legăturile pe măsură
+    ce dumneavoastră tastați.</p>
+
+  <p>Următoarele scurtături de taste controlează această caracteristică:</p>
+
+  <ul>
+    <li>Tastați mai multe caractere pentru a îngusta căutarea.  &brandShortName;
+      va evidenția următoarea legătură sau text găsit sau vă va anunța că
+      nu s-a găsit nimic potrivit textului căutat.</li>
+    <li>Apăsați &accelKey;+<kbd>G</kbd> sau <kbd>F3</kbd> pentru a găsi
+      următoarea apariție a textului pe care îl căutați.</li>
+    <li>Apăsați &accelKey;+&shiftKey;+<kbd>G</kbd> sau &shiftKey;+<kbd>F3</kbd>
+      pentru a găsi aparițiile anterioare ale textului căutat.</li>
+    <li>Apăsați <kbd>Backspace</kbd> pentru a șterge ultimul caracter tastat.
+      &brandShortName; se va întoarce la textul evidențiat anterior.</li>
+    <li>Apăsați <kbd>Esc</kbd> pentru a anula o căutare.  Puteți de asemenea să anulați
+      o căutare clicând în altă parte, derulând pagina cu mausul sau tastatura sau
+      pur și simplu așteptând să expire căutarea.</li>
+  </ul>
+
+  <p>Puteți schimba comportamentul implicit al acestei caracteristici selectând
+    &pref.menuPath;, deschizând fila <em>General</em> a panoului <em>Avansat</em>
+    și bifând &pref.singular; <em>Caută textul în timp ce tastez</em>
+    .  Dacă &pref.singular; este bifată, puteți începe să tastați oricând
+    pentru a începe o căutare în pagină. Implicit, căutarea se face în tot textul
+    paginii. Puteți încă să apăsați
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> sau
+    <abbr title="forward slash"><kbd>/</kbd></abbr> pentru a porni căutarea
+    explicit într-un mod sau altul.</p>
+
+  <p>Puteți folosi această caracteristică pentru a ajunge la butoane, casete de text și
+    alte controale din formulare.  Căutați după textul aflat în imediata apropiere a câmpului din formular
+    la care doriți să ajungeți și apăsați <kbd>Tab</kbd>. Apăsând <kbd>Tab</kbd> încheiați automat căutarea
+    și cursorul este poziționat pe câmpul sau butonul din formular aflat
+    după textul evidențiat.</p>
+
+  <h2 id="using_a_mouse">Folosirea unui maus</h2>
+
+  <h3 id="common_mouse_shortcuts">Scurtături uzuale folosind mausul</h3>
+
+  <p>O listă de scurtături uzuale de maus este disponibilă în
+    <a href="mouse_shortcuts.xhtml">Scurtături uzuale folosind mausul în &brandShortName;
+    </a>.</p>
+
+  <h2 id="fonts_and_colors">Fonturi și culori</h2>
+
+  <h3 id="overriding_page_fonts">Înlocuirea fonturilor folosite de pagini</h3>
+
+  <p>Unele saituri web afișează textul folosind fonturi care fac citirea anevoioasă. Alte
+    saituri se bazează pe fonturile implicite alese de navigator.  Puteți alege fonturile pe care le doriți a 
+    fi folosite implicit mergând la &pref.menuPath;, în panoul
+    <em>Conținut</em> și alegând un font și o mărime implicită în secțiunea 
+    <em>Fonturi și culori</em>.</p>
+
+  <p>Puteți specifica fonturi implicite pentru stiluri diferite, incluzând serif,
+    sans-serif și monospațiat clicând butonul <em>Avansat</em>.
+    Cu toate astea, multe pagini web își aleg singure fonturile, astfel că alegerile dumneavoastră
+    nu vor avea niciun efect pe asemenea pagini.  Pentru a înlocui fonturile definite de
+    asemenea pagini, debifați <em>Permite paginilor să își aleagă propriile fonturi în locul
+    opțiunilor mele de mai sus</em>.</p>
+
+  <p>Rețineți că unele pagini web ar putea fi afișate incorect din cauza fontului
+    implicit ales.</p>
+
+  <h3 id="setting_a_minimum_font_size">Alegerea unei mărimi minime a fontului</h3>
+
+  <p>Unele saituri web ar putea afișa text care este prea mic pentru a putea fi citit
+    ușor.  Pentru a face asemenea pagini mai ușor de citit, puteți seta o mărime minimă
+    a fontului. Pe paginile web care încearcă să afișeze text mai mic decât această
+    mărime, &brandShortName; va mări textul până la mărimea selectată.</p>
+
+  <p>Pentru a seta o mărime minimă a fontului, mergeți la &pref.menuPath;, selectați
+    panoul <em>Conținut</em> și apăsați butonul <em>Avansat</em> din secțiunea
+    <em>Fonturi și culori</em>.  Puteți specifica o mărime minimă a fontului
+    alegând o valoarea din listă.</p>
+
+  <p>Rețineți că unele pagini web ar putea fi afișate incorect din cauza impunerii
+    acestei mărimi minime a fontului.</p>
+
+  <h3 id="resizing_page_text">Schimbarea mărimii textului din pagină</h3>
+
+  <p>Puteți schimba temporar mărimea textului oricărei pagini web din meniul
+    <span class="menuPath">View &gt; Mărime text</span>.  Noua mărime
+    va rămâne până când închideți fereastra sau fila de navigare sau
+    până când navigați către altă pagină.</p>
+
+  <p>Următoarele scurtături de taste controlează mărimea textului:</p>
+
+  <ul>
+    <li>Apăsați &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> pentru
+      a crește mărimea textului.  Aceasta va mări textul la 120% din mărimea lui
+      originală, apoi 150%, 200%, 300%, 450%, 675%, 1013% și 1519%.</li>
+    <li>Apăsați &accelKey;+<kbd><abbr title="minus">-</abbr></kbd> pentru
+      a scădea mărimea textului.  Aceasta va scădea textul la 90% din mărimea lui
+      originală, apoi 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2% și 1%.</li>
+    <li>Apăsați &accelKey;+<kbd>0</kbd> pentru a readuce mărimea textului la
+      cea inițială.</li>
+  </ul>
+
+  <p>Rețineți că unele pagini web ar putea fi afișate incorect dacă micșorați sau
+      măriți textul.</p>
+
+  <h3 id="overriding_page_colors">Înlocuirea culorilor folosite de pagini</h3>
+
+  <p>Unele saituri web ar putea afișa text și culori pe fundal care îngreunează
+    cititul iar alte saituri s-ar putea baza pe culorile implicite ale navigatorului.
+    Puteți să specificați aceste culori implicite mergând la &pref.menuPath;,
+    selectând panoul <em>Conținut</em> și clicând butonul <em>Culori</em>
+    în secțiunea <em>Fonturi și culori</em>.  Puteți seta
+    culoarea implicită a textului și a fundalului, precum și culorile implicite pentru
+    legăturile vizitate și nevizitate.  Puteți de asemenea să specificați dacă
+    legăturile ar trebui subliniate.</p>
+
+  <p>Cu toate acestea, multe pagini web își aleg propriile culori, astfel că alegerile dumneavoastră
+    nu vor avea efect pe aceste pagini.  Pentru a înlocui culorile definite de aceste pagini web, debifați
+    &pref.singular; <em>Permite paginilor să își aleagă propriile culori în locul opțiunilor 
+    mele de mai sus</em> .</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Folosirea unei teme cu contrast puternic</h3>
+
+    <p>&brandShortName; detectează automat dacă folosiți o temă cu contrast
+      puternic și afișează totul respectând schema dumneavoastră de afișare.
+      Acest lucru va face ca navigatorul să nu țină seama de setările paginilor web
+      și va afecta însăși interfața &brandShortName; (toate
+      meniurile, ferestrele și casetele de dialog) și conținutul oricărei pagini web
+      pe care o vizitați.</p>
+
+    <p class="win">Pentru a folosi o temă cu contrast puternic, mergeți în
+      <span class="menuPath">meniul Start &gt; Panoul de control (Control Panel) &gt;
+      Opțiuni de accesibilitate (Accessibility Options) &gt; Afișare (Display)</span> și bifați
+      &pref.singular; <em>Folosește contrast înalt (Use High Contrast)</em> .</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Controlul asupra conținutului web</h2>
+
+  <h3 id="blocking_popup_windows">Blocarea ferestrelor popup</h3>
+
+  <p>Vedeți <a href="popup.xhtml">Controlul ferestrelor popup</a> pentru informații despre
+    blocarea ferestrelor popup.</p>
+
+  <h3 id="turning_off_java_applets">Dezactivarea applet-urilor Java</h3>
+
+  <p>Unele pagini web vă oferă o experiență interactivă mai bogată cu ajutorul unor 
+    applet-uri Java&trade;.  Cu toate acestea, unii utilizatori care se bazează pe navigarea cu tastatura
+    ar putea avea probleme cu unele applet-uri Java care poziționează cursorul automat în interiorul lor și
+	nu oferă o cale pentru a <q>ieși</q> din applet pentru a naviga
+    în restul paginii web.  Dacă acest lucru este o problemă pentru dumneavoastră,
+    puteți dezactiva Java mergând la &pref.menuPath;, selectând panoul
+    <em>Conținut</em> și debifând &pref.singular; <em>Permite Java</em>
+    .</p>
+
+  <h3 id="restricting_javascript_behavior">Restricționarea comportamentului JavaScript</h3>
+
+  <p>Puteți opri complet JavaScript mergând la &pref.menuPath;,
+    selectând panoul <em>Conținut</em> și debifând <em>Permite
+    JavaScript</em>.  Unele pagini web se bazează pe JavaScript și s-ar putea să nu funcționeze
+    corect dacă JavaScript este dezactivat.</p>
+
+  <p>Dacă nu doriți să dezactivați JavaScript complet, există de asemenea
+    un număr de setări avansate JavaScript care vă permit să controlați comportamentul
+    scripturilor.  Imediat după <em>Permite JavaScript</em>,
+    apăsați butonul <em>Avansat</em> pentru a deschide fereastra <em>Parametri
+    avansați JavaScript</em>.  Puteți permite scripturilor
+    să mute sau să redimensioneze ferestre, să ridice sau să minimizeze ferestre, să dezactiveze
+    sau să înlocuiască meniurile contextuale, să ascundă bara de stare sau să schimbe textul din
+    bara de stare.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Compatibilitatea cu
+    tehnologii de asistență</h2>
+
+  <p>Cele mai recente informații despre compatibilitatea cu tehnologii de asistență din partea unor terți
+    sunt disponibile în engleză online la
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Compatibility with assistive technologies</a>.</p>
+
+  <h2 id="finding_help_online">Găsirea ajutorului Online</h2>
+
+  <div class="win">
+	Puteți găsi ajutor online în engleză la următoarele surse:
+    <p>Freedom Scientific maintains a number of
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">mailing
+      lists for JAWS users</a>.</p>
+
+    <p>GW Micro maintains a number of
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">mailing
+      lists for Window Eyes users</a>.</p>
+  </div>
+
+  <p>Puteți <span class="win">de asemenea</span> posta întrebări legate de accesibilitate pe
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">forumul pentru suport &brandShortName;
+    </a>.</p>
+
+  <div class="contentsBox"><em>29 Aug 2006</em></div>
+
+  <p>Drepturile de autor &copy; pe &copyright.years; aparțin colaboratorilor la proiectul Mozilla Help Viewer.</p>
+
+</body>
+</html>

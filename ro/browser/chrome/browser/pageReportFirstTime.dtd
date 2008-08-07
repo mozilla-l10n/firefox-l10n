@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label            "Un sait web a încercat să deschidă o fereastră popup fără permisiunea dumneavoastră. &brandShortName; a închis automat fereastra popup.  De fiecare dată când &brandShortName; blochează popup-uri, apare o pictogramă în bara de stare.">
+
+<!ENTITY endDescription.label              "Puteți apăsa pe această pictogramă pentru a vedea ce saituri au fost blocate de către &brandShortName; și pentru a autoriza aceste saituri să deschidă ferestre popup dacă e nevoie de acestea pentru ca saitul să funcționeze corect.">
+
+<!ENTITY caption.label                     "Despre blocarea popup-urilor">
+
+<!ENTITY done.label "Gata">

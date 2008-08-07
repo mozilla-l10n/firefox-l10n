@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "Noile pagini ar trebui deschise în:">
+<!ENTITY inNewWindow.label            "o fereastră nouă">
+<!ENTITY inNewWindow.accesskey        "f">
+<!ENTITY inNewTab.label               "o filă nouă">
+<!ENTITY inNewTab.accesskey           "i">
+
+<!ENTITY warnCloseMultipleTabs.label  "Avertizează la închiderea mai multor file">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label       "Avertizează când deschiderea mai multor file ar putea încetini &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
+
+<!ENTITY showTabBar.label             "Arată întotdeauna bara de file">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY switchToNewTabs.label        "La deschiderea unei legături într-o filă nouă, comută la ea imediat">
+<!ENTITY switchToNewTabs.accesskey    "s">

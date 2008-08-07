@@ -1,0 +1,9 @@
+
+<!ENTITY  incompatible.title        "Incompatibilități">
+<!ENTITY  incompatible.intro        "Următoarele elemente nu sunt compatibile cu această actualizare &brandShortName; și vor fi dezactivate când este instalată:">
+<!ENTITY  incompatible.update       "&brandShortName; va căuta periodic actualizări pentru acestea pentru cazul în care devin disponibile versiuni compatibile.">
+<!ENTITY  incompatible.suffix       "Actualizările &brandShortName; conțin îmbunătățiri semnificative de securitate. Pentru protecția dumneavoastră, este foarte recomandat să actualizați &brandShortName; chiar dacă unele extensii și teme devin incompatibile.">
+                                     
+<!ENTITY  closebutton.label         "Închide">
+                                     
+                                     

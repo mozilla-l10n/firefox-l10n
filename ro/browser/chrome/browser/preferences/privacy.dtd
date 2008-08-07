@@ -1,0 +1,55 @@
+<!ENTITY  history.label "Istoric">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Păstrează istoricul navigării pentru cel puțin">
+<!ENTITY  rememberDaysBefore.accesskey  "i">
+<!ENTITY  rememberDaysAfter2.label      "zile">
+
+<!ENTITY  rememberForms.label           "Reține ce introduc în formulare și bara de căutare">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "Reține ce am descărcat">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "Cookie-uri">
+
+<!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la saituri">
+<!ENTITY  acceptCookies.accesskey       "A">
+
+<!ENTITY  acceptThirdParty.label        "Acceptă cookie-uri de la terți">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  keepUntil.label               "Păstrează-le până când:">
+<!ENTITY  keepUntil.accesskey           "P">
+
+<!ENTITY  expire.label                  "expiră">
+<!ENTITY  close.label                   "închid &brandShortName;">
+<!ENTITY  askEachTime.label             "întreabă de fiecare dată">
+
+<!ENTITY  cookieExceptions.label        "Excepții...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "Arată cookie-urile...">
+<!ENTITY  showCookies.accesskey         "c">
+
+
+<!ENTITY  privateData.label             "Date private">
+
+<!ENTITY  alwaysClear.label              "Șterge datele private de fiecare dată când închid &brandShortName;">
+<!ENTITY  alwaysClear.accesskey          "d">
+
+<!ENTITY  askBeforeClear.label           "Întreabă înainte de a șterge datele private">
+<!ENTITY  askBeforeClear.accesskey       "n">
+
+<!ENTITY  clearDataSettings.label        "Setări...">
+<!ENTITY  clearDataSettings.accesskey    "S">
+
+<!ENTITY  clearDataNow.label             "Șterge acum...">
+<!ENTITY  clearDataNow.label2            "Șterge acum">
+<!ENTITY  clearDataNow.accesskey         "m">

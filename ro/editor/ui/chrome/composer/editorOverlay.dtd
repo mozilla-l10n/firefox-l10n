@@ -1,0 +1,593 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
+<!ENTITY fileMenu.label "Fișier">
+<!ENTITY filemenu.accesskey "F">
+<!ENTITY newBlankPageCmd.label "Pagină Composer">
+<!ENTITY newBlankPage.accesskey "P" >
+<!ENTITY newMenu.label "Nouă">
+<!ENTITY openFileCmd.label "Deschide fișier...">
+<!ENTITY fileopen.accesskey "O">
+<!ENTITY fileopen.keybinding "O">
+<!ENTITY openremoteCmd.label "Deschide locație web...">
+<!ENTITY fileopenremote.accesskey "L">
+<!ENTITY fileopenremote.keybinding "L">
+<!ENTITY fileRecentMenu.label "Pagini recente">
+<!ENTITY filerecentmenu.accesskey "R">
+<!ENTITY fileRevert.label "Înapoi la ultima salvare">
+<!ENTITY filerevert.accesskey "v">
+<!ENTITY saveCmd.label "Salvează">
+<!ENTITY filesave.accesskey "S">
+<!ENTITY filesave.keybinding "S">
+<!ENTITY saveAsCmd.label "Salvează ca...">
+<!ENTITY filesaveas.accesskey "A">
+
+<!ENTITY publishCmd.label "Publică">
+<!ENTITY publishcmd.accesskey "B">
+<!ENTITY publishAsCmd.label "Publică ca...">
+<!ENTITY publishas.accesskey "h">
+<!ENTITY exportToTextCmd.label "Exportă ca text...">
+<!ENTITY fileexporttotext.accesskey "T">
+<!ENTITY saveAsChangeEncodingCmd.label "Salvează cu schimbarea codării de caractere">
+<!ENTITY filesaveandchangeencoding.accesskey "E">
+<!ENTITY previewCmd.label "Afișează în browser">
+<!ENTITY filepreview.accesskey "w">
+<!ENTITY sendPageCmd.label "Trimite pagina...">
+<!ENTITY sendPage.accesskey "d">
+<!ENTITY printSetupCmd.label "Aranjare în pagină...">
+<!ENTITY fileprintsetup.accesskey "U">
+<!ENTITY printPreviewCmd.label "Previzualizare tipărire">
+<!ENTITY fileprintpreview.accesskey "v">
+<!ENTITY printCmd.label "Imprimă...">
+<!ENTITY printButtonCmd.label "Imprimă...">
+<!ENTITY fileprint.accesskey "P">
+<!ENTITY fileprint.keybinding "P">
+<!ENTITY closeCmd.label "Închide">
+<!ENTITY fileclose.accesskey "C">
+<!ENTITY fileclose.keybinding "w">
+<!ENTITY exitCmd.label "Ieșire">
+<!ENTITY fileexit.accesskey "Q">
+<!ENTITY fileexit.keybinding "Q">
+
+<!-- Edit menu items -->
+<!ENTITY editMenu.label "Editare">
+<!ENTITY editmenu.accesskey "E">
+<!ENTITY pasteNoFormatting.label "Lipește fără formatare">
+<!ENTITY pasteNoFormatting.accesskey "i">
+<!ENTITY pasteAs.label "Lipește ca">
+<!ENTITY pasteAs.accesskey "a">
+<!ENTITY publishSettings.label "Opțiuni sit publicare...">
+<!ENTITY publishSettings.accesskey "b">
+
+<!-- For a "Paste" submenu when more than 1 
+     clipboard formats are available -->
+<!ENTITY pasteHTMLCmd.label "HTML">
+<!ENTITY pasteHTML.accesskey "h">
+<!ENTITY pasteTextCmd.label "Text">
+<!ENTITY pasteText.accesskey "T">
+<!ENTITY pasteImageCmd.label "imagine">
+<!ENTITY pasteImage.accesskey "I">
+<!ENTITY pasteRowsCmd.label "RÂNDURI">
+<!ENTITY pasteRows.accesskey "R">
+<!ENTITY pasteColumnsCmd.label "COLOANE">
+<!ENTITY pasteColumns.accesskey "C">
+<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
+     Set to: "Table" or "Nested Table" depending on context 
+     This accesskey must be in both strings -->
+<!ENTITY pasteTable.accesskey "A">
+<!ENTITY pasteLinkCmd.label "Legătură">
+<!ENTITY editpastelink.accesskey "L">
+<!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
+<!ENTITY editpastequotation.accesskey "Q">
+<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY editStripQuotesCmd.label "Îndepărtează ghilimelele">
+<!ENTITY editRewrapCmd.label "Înfășoară rândurile">
+<!ENTITY findCmd.label "Caută și înlocuiește...">
+<!ENTITY editfind.accesskey "F">
+<!ENTITY editfind.keybinding "F">
+<!ENTITY editfind.keybinding2 "VK_F19">
+<!ENTITY findAgainCmd.label "Caută din nou">
+<!ENTITY editfindnext.accesskey "G">
+<!ENTITY editfindnext.keybinding "G">
+<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.label "Caută înapoi">
+<!ENTITY editfindprev.accesskey "v">
+<!ENTITY editfindprev.keybinding "G">
+<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul tastării">
+<!ENTITY enableInlineSpellChecker.accesskey "s">
+<!ENTITY checkSpellingCmd.label "Verifică ortografia">
+<!ENTITY editcheckspelling.accesskey "h">
+<!ENTITY editcheckspelling.keybinding "K">
+<!ENTITY validateCmd.label "Validează HTML">
+<!ENTITY validate.accesskey "v">
+<!ENTITY checkLinksCmd.label "Verifică legăturile">
+
+<!-- View menu items -->
+<!ENTITY viewPageSource.label "Sursă pagină">
+<!ENTITY viewpagesource.accesskey "S">
+<!ENTITY viewParagraphMarks.label "Marcatori paragraf">
+<!ENTITY viewparagraphmarks.accesskey "P">
+
+<!-- Insert menu items -->
+<!ENTITY insertMenu.label "Inserare">
+<!ENTITY insertmenu.accesskey "I">
+<!ENTITY insertLinkCmd.label "Legătură...">
+<!ENTITY insertlink.accesskey "L">
+<!ENTITY insertlink.keybinding "L">
+<!ENTITY insertAnchorCmd.label "Ancoră cu nume...">
+<!ENTITY insertanchor.accesskey "A">
+<!ENTITY insertImageCmd.label "Imagine...">
+<!ENTITY insertimage.accesskey "I">
+<!ENTITY insertImageMapCmd.label "Hartă imagine...">
+<!ENTITY insertHLineCmd.label "Linie Orizontală">
+<!ENTITY inserthline.accesskey "O">
+<!ENTITY insertTableCmd.label "Tabel...">
+<!ENTITY inserttable.accesskey "T">
+<!ENTITY insertFormMenu.label "formular">
+<!ENTITY insertformmenu.accesskey "F">
+<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertCharsCmd.label "Caractere și simboluri...">
+<!ENTITY insertchars.accesskey "C">
+<!ENTITY insertBreakCmd.label "Întrerupere rând">
+<!ENTITY insertbreak.accesskey "B">
+<!ENTITY insertBreakAllCmd.label "Întrerupere sub imagine(i)">
+<!ENTITY insertbreakall.accesskey "K">
+
+<!-- Insert form menu items -->
+<!ENTITY insertFormCmd.label "Definește formular...">
+<!ENTITY insertform.accesskey "d">
+<!ENTITY insertInputTagCmd.label "Câmp formular...">
+<!ENTITY insertinputtag.accesskey "E">
+<!ENTITY insertInputImageCmd.label "Imagine formular...">
+<!ENTITY insertinputimage.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "Zonă text...">
+<!ENTITY inserttextarea.accesskey "T">
+<!ENTITY insertSelectCmd.label "Listă selecție...">
+<!ENTITY insertselect.accesskey "S">
+<!ENTITY insertButtonCmd.label "Definește buton...">
+<!ENTITY insertbutton.accesskey "B">
+<!ENTITY insertLabelCmd.label "Definește etichetă">
+<!ENTITY insertlabel.accesskey "e">
+<!ENTITY insertFieldSetCmd.label "Definește set câmpuri...">
+<!ENTITY insertfieldset.accesskey "F">
+<!ENTITY insertIsIndexCmd.label "Căutare index">
+<!ENTITY insertisindex.accesskey "X">
+
+<!-- Used just in context popup. -->
+<!ENTITY spellCheckNoSuggestions.label "(nici o sugestie găsită)">
+<!ENTITY spellCheckIgnoreWord.label "Ignoră cuvânt">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Adaugă în dicționar">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY createLinkCmd.label "Creează legătură...">
+<!ENTITY createlink.accesskey "K">
+<!ENTITY editLinkCmd.label "Editează legătura în fereastră nouă Composer">
+<!ENTITY editlink.accesskey "I">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
+<!ENTITY undoCmd.label "Desfă">
+<!ENTITY undo.accesskey "U">
+<!ENTITY redoCmd.label "Refă">
+<!ENTITY redo.accesskey "R">
+<!ENTITY cutCmd.label "Taie">
+<!ENTITY cut.accesskey "T">
+<!ENTITY copyCmd.label "Copiază">
+<!ENTITY copy.accesskey "C">
+<!ENTITY pasteCmd.label "Lipește">
+<!ENTITY paste.accesskey "P">
+<!ENTITY deleteCmd.label "Șterge">
+<!ENTITY delete.accesskey "d">
+<!ENTITY clearCmd.label "Golește">
+<!ENTITY clear.accesskey "L">
+<!ENTITY selectAllCmd.label "Selectează tot">
+<!ENTITY selectall.accesskey "A">
+
+<!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip "Alegeți un font">
+<!ENTITY fontfaceMenu.label "Font">
+<!ENTITY formatfontmenu.accesskey "F">
+<!ENTITY fontVarWidth.label "Lățime variabilă">
+<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontFixedWidth.label "Lățime fixă">
+<!ENTITY fontfixedwidth.accesskey "X">
+<!ENTITY formatfontfixed.keybinding "T">
+<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
+<!ENTITY fonthelvetica.accesskey "L">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fonttimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontcourier.accesskey "C">
+<!ENTITY localfontfaceMenu.label "Fonturi locale">
+<!ENTITY localfontmenu.accesskey "F">
+
+<!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.tooltip "Alegeți mărimea fontului">
+<!ENTITY decreaseFontSize.label "Mai mică">
+<!ENTITY decreasefontsize.accesskey "R">
+<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY increaseFontSize.label "Mai mare">
+<!ENTITY increasefontsize.accesskey "G">
+<!ENTITY increaseFontSize.keybinding "+">
+<!ENTITY increaseFontSize.keybinding2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY fontsizeMenu.label "Mărime">
+<!ENTITY formatsizemenu.accesskey "M">
+<!ENTITY size-xx-smallCmd.label "ff-mic">
+<!ENTITY size-xx-small.accesskey "A">
+<!ENTITY size-x-smallCmd.label "f-mic">
+<!ENTITY size-x-small.accesskey "M">
+<!ENTITY size-smallCmd.label "Mic">
+<!ENTITY size-small.accesskey "S">
+<!ENTITY size-mediumCmd.label "Mediu">
+<!ENTITY size-medium.accesskey "d">
+<!ENTITY size-largeCmd.label "Mare">
+<!ENTITY size-large.accesskey "L">
+<!ENTITY size-x-largeCmd.label "f-mare">
+<!ENTITY size-x-large.accesskey "X">
+<!ENTITY size-xx-largeCmd.label "ff-mare">
+<!ENTITY size-xx-large.accesskey "E">
+
+<!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Stil text">
+<!ENTITY formatstylemenu.accesskey "S">
+<!ENTITY styleBoldCmd.label "Aldin">
+<!ENTITY stylebold.accesskey "B">
+<!ENTITY stylebold.keybinding "B">
+<!ENTITY styleItalicCmd.label "Cursiv">
+<!ENTITY styleitalic.accesskey "I">
+<!ENTITY styleitalic.keybinding "I">
+<!ENTITY styleUnderlineCmd.label "Subliniat">
+<!ENTITY styleunderline.accesskey "U">
+<!ENTITY styleunderline.keybinding "U">
+<!ENTITY styleStrikeThruCmd.label "Tăiat">
+<!ENTITY stylestrikethru.accesskey "K">
+<!ENTITY styleSuperscriptCmd.label "Indice superior">
+<!ENTITY stylesuperscript.accesskey "P">
+<!ENTITY styleSubscriptCmd.label "Indice inferior">
+<!ENTITY stylesubscript.accesskey "S">
+<!ENTITY styleNonbreakingCmd.label "Neîntreruptibil">
+<!ENTITY stylenonbreaking.accesskey "N">
+<!ENTITY styleEm.label "Evidențiat">
+<!ENTITY styleEm.accesskey "d">
+<!ENTITY styleStrong.label "Evidențiat puternic">
+<!ENTITY styleStrong.accesskey "i">
+<!ENTITY styleCite.label "Citat">
+<!ENTITY styleCite.accesskey "C">
+<!ENTITY styleAbbr.label "Abreviere">
+<!ENTITY styleAbbr.accesskey "A">
+<!ENTITY styleAcronym.label "Acronim">
+<!ENTITY styleAcronym.accesskey "r">
+<!ENTITY styleCode.label "Cod">
+<!ENTITY styleCode.accesskey "o">
+<!ENTITY styleSamp.label "Exemplu de ieșire">
+<!ENTITY styleSamp.accesskey "x">
+<!ENTITY styleVar.label "Variabilă">
+<!ENTITY styleVar.accesskey "V">
+
+<!ENTITY formatFontColor.label "Culoare text...">
+<!ENTITY formatfontcolor.accesskey "C">
+<!ENTITY tableOrCellColor.label "Tabel sau culoare de fundal a celulei...">
+<!ENTITY tableOrCellColor.accesskey "b">
+
+<!ENTITY formatremovestyles.keybinding "Y">
+<!ENTITY formatremovelinks.keybinding "K">
+<!ENTITY formatRemoveNamedAnchors.label "Elimină ancorele cu nume">
+<!ENTITY formatRemoveNamedAnchors.accesskey "l">
+<!ENTITY formatremovenamedanchors.keybinding "A">
+
+<!ENTITY formatindent.keybinding "]">
+<!ENTITY formatoutdent.keybinding "[">
+<!ENTITY paragraphMenu.label "Paragraf">
+<!ENTITY formatparagraphmenu.accesskey "P">
+<!ENTITY paragraphParagraphCmd.label "Paragraf">  
+<!ENTITY paragraphparagraph.accesskey "P">
+<!ENTITY heading1Cmd.label "Subtitlu 1">
+<!ENTITY heading1.accesskey "1">
+<!ENTITY heading2Cmd.label "Subtitlu 2">
+<!ENTITY heading2.accesskey "2">
+<!ENTITY heading3Cmd.label "Subtitlu 3">
+<!ENTITY heading3.accesskey "3">
+<!ENTITY heading4Cmd.label "Subtitlu 4">
+<!ENTITY heading4.accesskey "4">
+<!ENTITY heading5Cmd.label "Subtitlu 5">
+<!ENTITY heading5.accesskey "5">
+<!ENTITY heading6Cmd.label "Subtitlu 6">
+<!ENTITY heading6.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Adresă">
+<!ENTITY paragraphaddress.accesskey "A">
+<!ENTITY paragraphPreformatCmd.label "Preformatat">
+<!ENTITY paragraphpreformat.accesskey "F">
+<!ENTITY paragraphBlockquoteCmd.label "Citat bloc">
+<!ENTITY paragraphblockquote.accesskey "B">
+
+<!-- List menu items -->
+<!ENTITY formatlistMenu.label "listă">
+<!ENTITY formatlistmenu.accesskey "L">
+<!ENTITY noneCmd.label "Nimic">
+<!ENTITY none.accesskey "N">
+<!ENTITY listBulletCmd.label "Buline">
+<!ENTITY listbullet.accesskey "B">
+<!ENTITY listNumberedCmd.label "Numerotare">
+<!ENTITY listnumbered.accesskey "M">
+<!ENTITY listTermCmd.label "Termen">
+<!ENTITY listterm.accesskey "T">
+<!ENTITY listDefinitionCmd.label "Definiție">
+<!ENTITY listdefinition.accesskey "d">
+<!ENTITY listProps.label "Proprietăți listă...">
+<!ENTITY listprops.accesskey "L">
+
+<!ENTITY ParagraphSelect.tooltip "Alegeți o formatare pentru paragraf">
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Corp text">
+<!ENTITY bodytext.accesskey "T">
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "Proprietăți avansate">
+<!ENTITY advancedproperties.accesskey "v">
+
+<!ENTITY NormalAbbr.label "Text">
+<!ENTITY ParagraphAbbr.label "P">  
+<!ENTITY Heading1Abbr.label "H1">
+<!ENTITY Heading2Abbr.label "H2
+">
+<!ENTITY Heading3Abbr.label "H3">
+<!ENTITY Heading4Abbr.label "H4">
+<!ENTITY Heading5Abbr.label "H5">
+<!ENTITY Heading6Abbr.label "H6">
+<!ENTITY BlockquoteAbbr.label "BQ">
+<!ENTITY AddressAbbr.label "Adr.">
+<!ENTITY PreformatAbbr.label "Adr.">
+
+<!-- Style Sheet submenu NOT IMPLEMENTED -->
+<!ENTITY stylesheetMenu.label "Aplică foaie de stil">
+<!ENTITY formatstylesheetmenu.accesskey "Y">
+
+<!-- Align menu items -->
+<!ENTITY alignMenu.label "Aliniere">
+<!ENTITY formatalignmenu.accesskey "A">
+<!ENTITY alignLeft.label "Stânga">
+<!ENTITY alignleft.accesskey "L">
+<!ENTITY alignLeft.tooltip "Aliniere stânga">
+<!ENTITY alignCenter.label "Centrat">
+<!ENTITY aligncenter.accesskey "C">
+<!ENTITY alignCenter.tooltip "Aliniere centru">
+<!ENTITY alignRight.label "Dreapta">
+<!ENTITY alignright.accesskey "R">
+<!ENTITY alignRight.tooltip "Aliniere dreapta">
+<!ENTITY alignJustify.label "Stânga/dreapta">
+<!ENTITY alignjustify.accesskey "j">
+<!ENTITY alignJustify.tooltip "Aliniere la stânga și la dreapta">
+
+<!-- Layer toolbar items -->
+<!ENTITY layer.tooltip "Strat">
+<!ENTITY layerSendToBack.tooltip "Trimite în fundal">
+<!ENTITY layerBringToFront.tooltip "Adu în prim-plan">
+
+<!ENTITY increaseIndent.label "Crește indentare">
+<!ENTITY increaseindent.accesskey "I">
+<!ENTITY increaseindentkb "=">
+<!ENTITY decreaseIndent.label "Scade indentare">
+<!ENTITY decreaseindent.accesskey "d">
+<!ENTITY decreaseindentkb "-">
+
+<!ENTITY grid.label "Grid poziționare">
+<!ENTITY grid.accesskey "d">
+
+<!ENTITY pageProperties.label "Titlul și proprietățile paginii...">
+<!ENTITY pageproperties.accesskey "G">
+<!ENTITY colorsAndBackground.label "Culorile și fundalul paginii...">
+<!ENTITY colorsandbackground.accesskey "U">
+
+<!-- Table Menu -->
+<!ENTITY tableMenu.label "Tabel">
+<!ENTITY tablemenu.accesskey "B">
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Selectează">
+<!ENTITY tableselectmenu.accesskey "S">
+
+<!ENTITY tableSelectMenu2.label "Selectează în tabel">
+<!ENTITY tableInsertMenu2.label "Inserează în tabel">
+<!ENTITY tableDeleteMenu2.label "Șterge din tabel">
+
+<!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Inserare">
+<!ENTITY tableinsertmenu.accesskey "I">
+<!ENTITY tableTable.label "Tabel">
+<!ENTITY tabletable.accesskey "T">
+<!ENTITY tableRow.label "RÂND">
+<!ENTITY tableRows.label "Rând(uri)">
+<!ENTITY tablerow.accesskey "R">
+<!ENTITY tableRowAbove.label "Rând deasupra">
+<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowBelow.label "Rând dedesubt">
+<!ENTITY tablerowbelow.accesskey "B">
+<!ENTITY tableColumn.label "Coloană">
+<!ENTITY tableColumns.label "Coloană(e)">
+<!ENTITY tablecolumn.accesskey "O">
+<!ENTITY tableColumnBefore.label "Coloană înainte">
+<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnAfter.label "Coloană după">
+<!ENTITY tablecolumnafter.accesskey "A">
+<!ENTITY tableCell.label "Celulă">
+<!ENTITY tableCells.label "Celulă(e)">
+<!ENTITY tablecell.accesskey "C">
+<!ENTITY tableCellContents.label "Conținut celulă">
+<!ENTITY tablecellcontents.accesskey "N">
+<!ENTITY tableAllCells.label "Toate celulele">
+<!ENTITY tableCellBefore.label "Celulă înainte">
+<!ENTITY tableallcells.accesskey "A">
+<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellAfter.label "Celulă după">
+<!ENTITY tablecellafter.accesskey "F">
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Șterge">
+<!ENTITY tabledeletemenu.accesskey "d">
+
+<!ENTITY tableFix.label "Repară macheta tabelului">
+<!ENTITY tablefix.accesskey "F">
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tablejoincells.accesskey "j">
+<!ENTITY tableSplitCell.label "Separă celula">
+<!ENTITY tablesplitcell.accesskey "C">
+<!ENTITY convertToTable.label "Creează tabel din selecție">
+<!ENTITY converttotable.accesskey "R">
+<!ENTITY tableProperties.label "Proprietăți tabel...">
+<!ENTITY tableProperties.accesskey "o">
+
+<!-- Tools menu -->
+<!ENTITY toolsmenu.accesskey "L">
+<!ENTITY toolbrowser.accesskey "B">
+<!ENTITY toolplaineditor.accesskey "P">
+<!ENTITY toolsetfocus.accesskey "F">
+
+<!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "Bară meniu">
+<!ENTITY compositionToolbar.tooltip "Bară redactare">
+<!ENTITY formatToolbar.tooltip "Bară formatare">
+<!ENTITY newToolbarCmd.tooltip "Creează o nouă pagină Composer">
+<!ENTITY openToolbarCmd.label "Deschide">
+<!ENTITY openToolbarCmd.tooltip "Deschide un fișier local">
+<!ENTITY saveToolbarCmd.tooltip "Salvează local fișierul">
+<!ENTITY publishToolbarCmd.tooltip "Încarcă fișierul într-o locație la distanță">
+<!ENTITY previewToolbarCmd.label "Răsfoiește">
+<!ENTITY previewToolbarCmd.tooltip "Încarcă această pagină în navigator">
+<!ENTITY printToolbarCmd.label "Imprimă">
+<!ENTITY printToolbarCmd.tooltip "Imprimă această pagină">
+<!ENTITY findToolbarCmd.label "Caută">
+<!ENTITY findToolbarCmd.tooltip "Caută text în pagină">
+<!ENTITY spellToolbarCmd.label "Ortografie">
+<!ENTITY spellToolbarCmd.tooltip "Verifică ortografia în zona selectată sau în întreaga pagină">
+<!ENTITY imageToolbarCmd.label "imagine">
+<!ENTITY imageToolbarCmd.tooltip "Inserează o nouă imagine sau editează proprietățile imaginii selectate">
+<!ENTITY hruleToolbarCmd.label "Linie">
+<!ENTITY hruleToolbarCmd.tooltip "Inserează o linie orizontală sau editează proprietățile liniei selectate">
+<!ENTITY tableToolbarCmd.label "Tabel">
+<!ENTITY tableToolbarCmd.tooltip "Inserează un nou tabel sau editează proprietățile tabelului selectat">
+<!ENTITY linkToolbarCmd.label "Legătură">
+<!ENTITY linkToolbarCmd.tooltip "Inserează o nouă legătură sau editează proprietățile legăturii selectate">
+<!ENTITY anchorToolbarCmd.label "Ancoră">
+<!ENTITY anchorToolbarCmd.tooltip "Inserează o nouă ancoră cu nume sau editează proprietățile ancorei selectate">
+<!ENTITY textColorCaption.label "Culoare text">
+<!ENTITY TextColorButton.tooltip "Alege culoarea pentru text">
+<!ENTITY BackgroundColorButton.tooltip "Alege culoarea pentru fundal">
+<!ENTITY throbber.tooltip "Pagina principală &vendorShortName;">
+<!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
+
+<!-- Editor toolbar -->
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Font mai mare">
+<!ENTITY boldToolbarCmd.tooltip "Aldin">
+<!ENTITY italicToolbarCmd.tooltip "Cursiv">
+<!ENTITY underlineToolbarCmd.tooltip "Subliniat">
+<!ENTITY bulletListToolbarCmd.tooltip "Aplică sau elimină listă cu buline">
+<!ENTITY numberListToolbarCmd.tooltip "Aplică sau elimină listă numerotată">
+<!ENTITY outdentToolbarCmd.tooltip "Scade indentarea textului (mută la stânga)">
+<!ENTITY indentToolbarCmd.tooltip "Crește indentarea textului (mută la dreapta)">
+<!ENTITY AlignPopupButton.tooltip "Alege alinierea textului">
+<!ENTITY InsertPopupButton.tooltip "Inserează legătură, ancoră, imagine, linie orizontală sau tabel">
+<!ENTITY alignLeftButton.tooltip "Aliniază textul la stânga">
+<!ENTITY alignCenterButton.tooltip "Centrează textul">
+<!ENTITY alignRightButton.tooltip "Aliniază textul la dreapta">
+<!ENTITY alignjustifyButton.tooltip "Aliniază textul la stânga și la dreapta">
+
+<!-- Formatting toolbar not used, but may be in future -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "S">
+
+<!-- Used with color pickers in Format toolbar and Format Menu -->
+<!ENTITY colorPicker.default.label "Culoarea implicită a cititorului">
+<!ENTITY colorPicker.default.accesskey "r">
+<!ENTITY colorLabel.label "Culoare:">
+<!ENTITY ok.label "OK">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY NormalMode.label "Mod editare normal">
+<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele cu nume">
+<!ENTITY AllTagsMode.label "Tag-uri HTML">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Afișează iconuri pentru toate tag-urile HTML">
+
+<!ENTITY HTMLSourceMode.label "Sursă HTML">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
+<!ENTITY SourceMode.label "Sursă">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Editează sursa HTML">
+<!ENTITY PreviewMode.label "Previzualizare">
+<!ENTITY PreviewMode.accesskey "P">
+<!ENTITY PreviewMode.tooltip "Afișează ca în navigator">
+
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
+<!ENTITY SourceTabDirection "ltr">
+
+<!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Selectează">
+<!ENTITY structSelect.accesskey     "S">
+<!ENTITY structRemoveTag.label      "Elimină tag">
+<!ENTITY structRemoveTag.accesskey  "E">
+<!ENTITY structChangeTag.label      "Modifică tag">
+<!ENTITY structChangeTag.accesskey  "M">
+
+<!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Inserează">
+<!ENTITY insertTOC.accesskey      "I">
+<!ENTITY updateTOC.label          "Actualizează">
+<!ENTITY updateTOC.accesskey      "A">
+<!ENTITY removeTOC.label          "Elimină">
+<!ENTITY removeTOC.accesskey      "E">
+<!ENTITY tocMenu.label            "Cuprins...">
+<!ENTITY tocMenu.accesskey        "C">

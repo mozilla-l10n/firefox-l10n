@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Tipărește">
+
+<!ENTITY printDialog.title "Tipărire">
+
+<!ENTITY fpDialog.title "Salvare fișier">
+
+<!ENTITY fileCheck.label "Tipărește în fișier">
+<!ENTITY propertiesButton.label "Proprietăți...">
+<!ENTITY descText.label "Descriere imprimantă:">
+<!ENTITY printer.label "Imprimantă">
+<!ENTITY printerInput.label "Imprimantă:">
+
+<!ENTITY printrangeGroup.label "Ce se tipărește?">
+<!ENTITY allpagesRadio.label "Toate paginile">
+<!ENTITY rangeRadio.label  "Paginile">
+<!ENTITY frompageInput.label  "de la">
+<!ENTITY topageInput.label  "la">
+<!ENTITY selectionRadio.label "Selecția">
+
+<!ENTITY copies.label "Copii">
+<!ENTITY numCopies.label "Număr de copii:">
+
+<!ENTITY printframeGroup.label "Tipărire cadre">
+<!ENTITY aslaidoutRadio.label "În aranjarea de pe ecran">
+<!ENTITY selectedframeRadio.label  "Doar cadrul selectat">
+<!ENTITY eachframesepRadio.label  "Fiecare cadru separat">

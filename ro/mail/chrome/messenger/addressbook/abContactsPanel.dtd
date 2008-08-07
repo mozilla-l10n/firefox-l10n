@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label            "Agendă de contacte:">
+<!ENTITY addressbookPicker.accesskey        "A">
+<!ENTITY searchInput.label                  "Căutare după:">
+<!ENTITY searchInput.accesskey              "C">
+<!ENTITY SearchNameOrEmail.label            "Nume sau email">
+
+<!ENTITY deleteAddrBookCard.label           "Delete">
+<!ENTITY addrBookCardProperties.label       "Properties">
+<!ENTITY addtoToFieldMenu.label             "Adaugă la câmpul Către">
+<!ENTITY addtoCcFieldMenu.label             "Adaugă la câmpul Cc">
+<!ENTITY addtoBccFieldMenu.label            "Adaugă la câmpul Bcc">
+
+<!ENTITY toButton.label                     "Adaugă la To:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Adaugă la Cc:">
+<!ENTITY ccButton.accesskey                 "A">
+<!ENTITY bccButton.label                    "Add to Bcc:">
+<!ENTITY bccButton.accesskey                "B">

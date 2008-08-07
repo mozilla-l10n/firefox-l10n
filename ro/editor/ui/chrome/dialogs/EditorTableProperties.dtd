@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title                "Proprietăți tabel">
+<!ENTITY applyButton.label                "Aplică">
+<!ENTITY applyButton.accesskey            "A">
+<!ENTITY closeButton.label                "Închide">
+<!ENTITY tableTab.label                   "Tabel">
+<!ENTITY cellTab.label                    "Celule">
+<!ENTITY tableRows.label                  "Rânduri:">
+<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableColumns.label               "Coloane:">
+<!ENTITY tableColumns.accessKey           "C">
+<!ENTITY tableHeight.label                "Înălțime:">
+<!ENTITY tableHeight.accessKey            "N">
+<!ENTITY tableWidth.label                 "Lățime:">
+<!ENTITY tableWidth.accessKey             "L">
+<!ENTITY tableBorderSpacing.label         "Borduri și spațiere">
+<!ENTITY tableBorderWidth.label           "Bordură:">
+<!ENTITY tableBorderWidth.accessKey       "B">
+<!ENTITY tableSpacing.label               "Spațiere:">
+<!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tablePadding.label               "Spațiu umplere:">
+<!ENTITY tablePadding.accessKey           "P">
+<!ENTITY tablePxBetwCells.label           "pixeli între celule">
+<!ENTITY tablePxBetwBrdrCellContent.label "pixeli între marginea și conținutul celulei">
+<!ENTITY tableAlignment.label             "Aliniere tabel:">
+<!ENTITY tableAlignment.accessKey         "A">
+<!ENTITY tableCaption.label               "Explicație:">
+<!ENTITY tableCaption.accessKey           "X">
+<!ENTITY tableCaptionAbove.label          "Deasupra tabelului">
+<!ENTITY tableCaptionBelow.label          "Sub tabel">
+<!ENTITY tableCaptionLeft.label           "La stânga tabelului">
+<!ENTITY tableCaptionRight.label          "La dreapta tabelului">
+<!ENTITY tableCaptionNone.label           "Nici una">
+<!ENTITY tableInheritColor.label           "(Lasă să se vadă culoarea paginii)">
+
+<!ENTITY cellPercent.label                "procente din tabel">
+<!ENTITY cellSelection.label              "Selecție">
+<!ENTITY cellSelectCell.label             "Celulă">
+<!ENTITY cellSelectRow.label              "RÂND">
+<!ENTITY cellSelectColumn.label           "Coloană">
+<!ENTITY cellSelectNext.label             "Înainte">
+<!ENTITY cellSelectNext.accessKey         "I">
+<!ENTITY cellSelectPrevious.label         "Înapoi">
+<!ENTITY cellSelectPrevious.accessKey     "P">
+<!ENTITY cellApplyBeforeMove.label        "Aplică schimbările înainte de modificarea selecției">
+<!ENTITY cellKeepCurrentData.label        "Păstrează setările actuale">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label         "Schimbările curente vor fi aplicate">
+<!ENTITY applyBeforeChange2.label         "înainte de modificarea selecției.">
+<!ENTITY cellRowSpan.label                "Întindere pe rânduri:">
+<!ENTITY cellColSpan.label                "Întindere pe coloane:">
+<!ENTITY cellContentAlignment.label       "Aliniere conținut">
+<!ENTITY cellHorizontal.label             "Orizontală:">
+<!ENTITY cellHorizontal.accessKey         "Z">
+<!ENTITY cellVertical.label               "Verticală:">
+<!ENTITY cellVertical.accessKey           "v">
+<!ENTITY cellStyle.label                  "Stil celulă:">
+<!ENTITY cellStyle.accessKey              "S">
+<!ENTITY cellNormal.label                 "Normală">
+<!ENTITY cellHeader.label                 "Antet">
+<!ENTITY cellTextWrap.label               "Înfășurare text:">
+<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellWrap.label                   "Înfășoară">
+<!ENTITY cellNoWrap.label                 "Nu înfășura">
+<!ENTITY cellAlignTop.label               "Sus">
+<!ENTITY cellAlignMiddle.label            "Mijloc">
+<!ENTITY cellAlignBottom.label            "Jos">
+<!ENTITY cellAlignJustify.label           "Îndreptat">
+<!ENTITY cellAlignAtChar.label            "La caracterul:">
+<!ENTITY cellInheritColor.label           "(Lasă să se vadă culoarea tabelului)">
+<!ENTITY cellUseCheckboxHelp.label        "Folosiți bifele pentru a indica ce proprietăți se aplică celulelor selectate">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "Mărime">
+<!ENTITY pixels.label                     "pixeli">
+<!ENTITY backgroundColor.label            "Culoare fundal:">
+<!ENTITY backgroundColor.accessKey        "F">
+<!ENTITY AlignLeft.label                  "Stânga">
+<!ENTITY AlignCenter.label                "Centru">
+<!ENTITY AlignRight.label                 "Dreapta">

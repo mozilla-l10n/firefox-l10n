@@ -1,0 +1,32 @@
+<!ENTITY startpage.welcome "Bun venit în &brandFullName;!">
+<!ENTITY startpage.intro "&brandFullName; este un client de email și știri. Este puternic și cu sursele disponibile oricui.">
+
+<!ENTITY startpage.features "Caracteristici">
+
+<!ENTITY startpage.junkControl "Controale adaptive de mesaje spam">
+<!ENTITY startpage.rssReader "Cititor RSS">
+<!ENTITY startpage.globalInbox "Suport pentru căsuță poștală globală">
+<!ENTITY startpage.searchFolders "Dosare de căutări salvate">
+<!ENTITY startpage.messageGroups "Grupare mesaje">
+<!ENTITY startpage.privacyProtect "Protecția intimității">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "Mai multe informații">
+
+<!ENTITY startpage.help "Ajutor pentru Thunderbird">
+<!ENTITY startpage.helpInfo "Pentru răspunsuri la întrebări frecvente, ponturi și ajutor general vizitați">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+
+<!ENTITY startpage.page "Pagina produsului Thunderbird">
+<!ENTITY startpage.pageInfo "Pentru informații despre produs, vizitați">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
+<!ENTITY startpage.extra "">
+
+<!ENTITY startpage.poweredByGecko "Bazat pe Gecko.">

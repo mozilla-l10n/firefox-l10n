@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label              "Dosar de anexe">
+<!ENTITY alwaysAsk.label              "Întreabă unde se va salva fiecare fișier">
+<!ENTITY alwaysAsk.accesskey          "a">
+<!ENTITY neverAsk.label               "Salvează toate anexele în acest dosar:">
+<!ENTITY neverAsk.accesskey           "S">
+<!ENTITY desktop.label                "Spațiul de lucru">
+<!ENTITY downloads.label              "Descărcările mele">
+<!ENTITY chooseFolderWin.label        "Răsfoiește...">
+<!ENTITY chooseFolderWin.accesskey    "R">
+<!ENTITY chooseFolderMac.label        "Alege...">
+<!ENTITY chooseFolderMac.accesskey    "A">
+
+
+<!ENTITY fileTypes.label              "Acțiuni pentru descărcări">
+<!ENTITY configureActions.label       "Acțiuni de vizualizare și editare...">
+<!ENTITY configureActions.accesskey   "v">
+<!ENTITY fileTypesDescription.label   "&brandShortName; poate salva sau deschide automat unele tipuri de anexe.">
+
+<!ENTITY fileTypeColName.label        "Tip de fișier">
+<!ENTITY fileHandlerColName.label     "Aplicație">
+<!ENTITY editFileHandler.label        "Schimbă acțiunea...">
+<!ENTITY editFileHandler.accesskey    "a">
+<!ENTITY removeFileHandler.label      "Elimină">
+<!ENTITY removeFileHandler.accesskey  "E">

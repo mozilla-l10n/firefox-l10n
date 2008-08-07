@@ -1,0 +1,92 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "Zâmbăreț">
+<!ENTITY insertSmiley.accesskey "Z">
+
+<!ENTITY smiley1Cmd.label "Zâmbitor">
+<!ENTITY smiley1Cmd.accesskey "Z">
+<!ENTITY smiley1Cmd.tooltip "Inserează o figură zâmbitoare">
+<!ENTITY smiley2Cmd.label "Încruntat">
+<!ENTITY smiley2Cmd.accesskey "c">
+<!ENTITY smiley2Cmd.tooltip "Inserează o figură încruntată">
+<!ENTITY smiley3Cmd.label "Făcând cu ochiul">
+<!ENTITY smiley3Cmd.accesskey "F">
+<!ENTITY smiley3Cmd.tooltip "Inserează o figură care face cu ochiul">
+<!ENTITY smiley4Cmd.label "Cu limba scoasă">
+<!ENTITY smiley4Cmd.accesskey "l">
+<!ENTITY smiley4Cmd.tooltip "Inserează o figură care scoate limba">
+<!ENTITY smiley5Cmd.label "Râzând">
+<!ENTITY smiley5Cmd.accesskey "R">
+<!ENTITY smiley5Cmd.tooltip "Inserează o figură care râde">
+<!ENTITY smiley6Cmd.label "Rușinat">
+<!ENTITY smiley6Cmd.accesskey "u">
+<!ENTITY smiley6Cmd.tooltip "Inserează o figură rușinată">
+<!ENTITY smiley7Cmd.label "Nehotărât">
+<!ENTITY smiley7Cmd.accesskey "N">
+<!ENTITY smiley7Cmd.tooltip "Inserează o figură nehotărâtă">
+<!ENTITY smiley8Cmd.label "Surprins">
+<!ENTITY smiley8Cmd.accesskey "p">
+<!ENTITY smiley8Cmd.tooltip "Inserează o figură surprinsă">
+<!ENTITY smiley9Cmd.label "Sărutând">
+<!ENTITY smiley9Cmd.accesskey "t">
+<!ENTITY smiley9Cmd.tooltip "Inserează o figură care trimite un sărut">
+<!ENTITY smiley10Cmd.label "Țipând">
+<!ENTITY smiley10Cmd.accesskey "d">
+<!ENTITY smiley10Cmd.tooltip "Inserează o figură care țipă">
+<!ENTITY smiley11Cmd.label "Șmecher">
+<!ENTITY smiley11Cmd.accesskey "c">
+<!ENTITY smiley11Cmd.tooltip "Inserează o figură șmecheră">
+<!ENTITY smiley12Cmd.label "Cu banul în gură">
+<!ENTITY smiley12Cmd.accesskey "a">
+<!ENTITY smiley12Cmd.tooltip "Inserează o figură cu gura în formă de dolar
+  ">
+<!ENTITY smiley13Cmd.label "Cu piciorul în gură">
+<!ENTITY smiley13Cmd.accesskey "g">
+<!ENTITY smiley13Cmd.tooltip "Inserează o figură distrusă">
+<!ENTITY smiley14Cmd.label "Inocent">
+<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.tooltip "Inserează o figură inocentă">
+<!ENTITY smiley15Cmd.label "Plângând">
+<!ENTITY smiley15Cmd.accesskey "g">
+<!ENTITY smiley15Cmd.tooltip "Inserează o figură care plânge">
+<!ENTITY smiley16Cmd.label "Cu buzele pecetluite">
+<!ENTITY smiley16Cmd.accesskey "b">
+<!ENTITY smiley16Cmd.tooltip "Inserează o figură cu buzele pecetluite">
+<!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
+

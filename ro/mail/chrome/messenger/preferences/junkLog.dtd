@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Jurnal de mesaje spam">
+<!ENTITY junkLogInfo.label "Jurnalul controlului de mesaje spam.">
+<!ENTITY clearLog.label "Golește jurnalul">
+<!ENTITY clearLog.accesskey "G">
+<!ENTITY closeLog.label "Închide">
+<!ENTITY closeLog.accesskey "Î">

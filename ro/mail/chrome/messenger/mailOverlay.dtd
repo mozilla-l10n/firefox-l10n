@@ -1,0 +1,8 @@
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Mesaj">
+<!ENTITY  newMessageCmd.accesskey         "M">
+ 
+<!ENTITY  newCardCmd.label                "Contact nou în agendă...">
+<!ENTITY  newCardCmd.accesskey            "C">
+ 

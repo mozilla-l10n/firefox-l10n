@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label            "Publicare pagină">
+<!ENTITY windowTitleSettings.label    "Setări de publicare">
+
+<!ENTITY publishTab.label             "Publică">
+<!ENTITY settingsTab.label            "Setări">
+
+<!ENTITY publishButton.label          "Publică">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Nume sit:">
+<!ENTITY siteList.accesskey           "N">
+<!ENTITY siteList.tooltip             "Alegeți situl pe care doriți să publicați">
+<!ENTITY newSiteButton.label          "Sit nou">
+<!ENTITY newSiteButton.accesskey      "S">
+<!ENTITY docDirList.label             "Subdirectorul acestei pagini pe sit:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Choose or enter the name of the remote subdirectory for this page">
+<!ENTITY publishImgCheckbox.label     "Include imaginile și celelalte fișiere">
+<!ENTITY publishImgCheckbox.accesskey "I">
+<!ENTITY publishImgCheckbox.tooltip   "Publică imaginile și celelalte fișiere de care are nevoie această pagină">
+<!ENTITY sameLocationRadio.label      "Folosește aceeași locație ca și pentru pagină">
+<!ENTITY sameLocationRadio.accesskey  "F">
+<!ENTITY sameLocationRadio.tooltip    "Publică fișierele la aceeași locație ca și pagina">
+<!ENTITY useSubdirRadio.label         "Folosește acest subdirector de pe sit:">
+<!ENTITY useSubdirRadio.accesskey     "F">
+<!ENTITY useSubdirRadio.tooltip       "Publish files to the selected remote subdirectory">
+<!ENTITY otherDirList.tooltip         "Choose or enter name of remote subdirectory where files will be published">
+<!ENTITY pageTitle.label              "Titlu pagină:">
+<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.tooltip            "Introduceți un titlu care să identifice pagina în fereastră și în semnele de carte">
+<!ENTITY pageTitleExample.label       "ex.: &quot;Pagina mea de web&quot;">
+<!ENTITY filename.label               "Nume fișier:">
+<!ENTITY filename.accesskey           "N">
+<!ENTITY filename.tooltip             "Introduceți un nume pentru acest fișier, adăugând '.html' în cazul unei pagini web">
+<!ENTITY filenameExample.label        "ex.: &quot;paginamea.html&quot;">
+<!ENTITY relatedDocs.label            "Alte fișiere de publicat">
+<!ENTITY setDefaultButton.label       "Implicit">
+<!ENTITY setDefaultButton.accesskey   "I">
+<!ENTITY setDefSiteAndDir.label       "Marchează ca sit și director implicit">
+<!ENTITY removeButton.label           "Elimină sit">
+<!ENTITY removeButton.accesskey       "E">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Situri de publicare">
+<!ENTITY serverInfo.label             "Informații server">
+<!ENTITY loginInfo.label              "Informații autentificare">
+<!ENTITY siteName.label               "Nume sit:">
+<!ENTITY siteName.accesskey           "N">
+<!ENTITY siteName.tooltip             "Un nume scurt care identifică acest sit de publicare (ex.: 'SitulMeu')">
+<!ENTITY siteUrl.label                "Adresa de publicare (ex.: 'ftp://ftp.isp.ro/numelemeu'):">
+<!ENTITY siteUrl.accesskey            "A">
+<!ENTITY siteUrl.tooltip              "Adresa FTP:// sau HTTP:// furnizată de ISP sau de serviciul de găzduire web">
+<!ENTITY browseUrl.label              "Adresa HTTP a paginii dumneavoastră personale (ex.: 'http://www.isp.ro/numelemeu'):">
+<!ENTITY browseUrl.accesskey          "A">
+<!ENTITY browseUrl.tooltip            "Adresa HTTP:// a directorului dumneavoastră personal (nu includeți nume de fișier)">
+<!ENTITY username.label               "Nume utilizator:">
+<!ENTITY username.accesskey           "N">
+<!ENTITY username.tooltip             "Numele de utilizator cu care vă autentificați la ISP sau la serviciul de găzduire web">
+<!ENTITY password.label               "Parolă:">
+<!ENTITY password.accesskey           "P">
+<!ENTITY password.tooltip             "Parola asociată numelui dumneavoastră de utilizator">
+<!ENTITY savePassword.label           "Salvează parola">
+<!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.tooltip         "Bifați pentru a vă salva securizat parola cu ajutorul Gestionarului de parole">

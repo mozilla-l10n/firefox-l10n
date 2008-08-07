@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Avertismente de securitate">
+
+<!ENTITY security.warn_when                       "Arată un dialog de avertizare când:">
+<!ENTITY security.warn_entering_secure.label      "Sunt pe cale de a vizualiza o pagină criptată.">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "Sunt pe cale de a vizualiza o pagină care folosește o criptare slabă.">
+<!ENTITY security.warn_entering_weak.accesskey    "g">
+<!ENTITY security.warn_leaving_secure.label       "Părăsesc o pagină criptată pentru una care nu e criptată.">
+<!ENTITY security.warn_leaving_secure.accesskey   "r">
+<!ENTITY security.warn_submit_insecure.label      "Postez informații care nu sunt criptate.">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "Sunt pe cale de a vizualiza o pagină criptată care conține niște informație necriptată.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

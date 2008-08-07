@@ -1,0 +1,54 @@
+<!ENTITY itemJunk.label          "Spam">
+<!ENTITY itemPhishing.label      "Înșelătorii prin email">
+<!ENTITY itemPasswords.label     "Parole">
+<!ENTITY itemAntiVirus.label     "Anti-virus">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Alegeți setările implicite pentru mesajele spam. Se pot alege și setări specifice fiecărui cont din setările contului.">
+<!ENTITY manualMark.label "Când marchez mesaje ca spam:">
+<!ENTITY manualMark.accesskey "C">
+<!ENTITY manualMarkModeMove.label "Mută-le în dosarul „Spam” al contului">
+<!ENTITY manualMarkModeMove.accesskey "M">
+<!ENTITY manualMarkModeDelete.label "Șterge-le">
+<!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY markAsReadOnSpam.label "Marchează mesajele detectate ca spam ca fiind citite">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableJunkLogging.label "Activează jurnalizarea pentru filtrarea de spam">
+<!ENTITY enableJunkLogging.accesskey "A">
+<!ENTITY openJunkLog.label "Arată jurnalul">
+<!ENTITY openJunkLog.accesskey "A">
+<!ENTITY resetTrainingData.label "Resetează datele de antrenament">
+<!ENTITY resetTrainingData.accesskey "d">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; poate analiza mesajele pentru a depista eventuale înșelătorii prin email menite să vă inducă în eroare.">
+<!ENTITY enablePhishingDetector1.label    "Spune-mi dacă mesajul pe care-l citesc pare să fie o înșelătorie">
+<!ENTITY enablePhishingDetector1.accesskey  "e">
+<!ENTITY useDownloadedList.label "Folosește o listă de mesaje suspecte de înșelătorie">
+<!ENTITY useDownloadedList.accesskey "u">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "&brandShortName;  poate reține informația legată de parole pentru toate conturile dumneavoastră astfel încât nu este necesar să vă reintroduceți detaliile de logare.">
+<!ENTITY  encryptEnabled.label        "Folosește o parolă generală pentru a cripta parolele stocate">
+<!ENTITY  encryptEnabled.accesskey    "s">
+<!ENTITY  masterPassword.intro        "Când este setată, parola principală protejează toate parolele dumneavoastră - dar aceasta trebuie introdusă pentru fiecare sesiune.">
+<!ENTITY  setMasterPassword.label     "Parola generală">
+<!ENTITY  setMasterPassword.accesskey "P">
+<!ENTITY  removeMasterPassword.label  "Elimină parola principală...">
+<!ENTITY  removeMasterPassword.accesskey "r">
+<!ENTITY  editPasswords.label         "Editează parolele salvate">
+<!ENTITY  editPasswords.accesskey     "i">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; poate ușura munca programelor anti-virus scanând mesajele de viruși înainte de a le stoca pe disc.">
+<!ENTITY antiVirus.label      "Permite programelor anti-virus să pună în carantină individual mesajele primite">
+<!ENTITY antiVirus.accesskey  "l">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "Anti-virus">
+<!ENTITY paswords.label         "Parole">
+<!ENTITY emailScams.label       "Înșelătorii prin email">
+<!ENTITY junkMail.label         "Mesaje spam (nesolicitate)">
+<!ENTITY itemIntrusions.label   "Intruziuni">
+<!ENTITY itemIntrusionsAndPasswords.label  "Intruziuni și parole">
+<!ENTITY itemJunkMail.label     "Mesaje spam (nesolicitate)">

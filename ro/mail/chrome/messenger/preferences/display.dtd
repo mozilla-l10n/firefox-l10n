@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "Formatare">
+<!ENTITY itemTags.label                   "Etichete">
+<!ENTITY itemFonts.label                  "Fonturi">
+
+<!ENTITY textBegin.label                  "Aspectul textului citat">
+<!ENTITY style.label                      "Stil">
+<!ENTITY style.accesskey                  "S">
+<!ENTITY regularStyle.label               "Normal">
+<!ENTITY bold.label                       "Îngroșat">
+<!ENTITY italic.label                     "Înclinat">
+<!ENTITY boldItalic.label                 "Îngroșat și înclinat">
+<!ENTITY size.label                       "Mărime:">
+<!ENTITY size.accesskey                   "M">
+<!ENTITY regularSize.label                "Normal">
+<!ENTITY bigger.label                     "Mai mare">
+<!ENTITY smaller.label                    "Mai mic">
+<!ENTITY color.label                      "Culoare:">
+<!ENTITY color.accesskey                  "C">
+<!ENTITY displayWidth.label               "Mesaje text">
+<!ENTITY plainText.label                  "Folosește următorul font:">
+<!ENTITY displayText.label                "Pentru afișarea mesajelor text citate:">
+<!ENTITY viewingPlainText.label            "Pentru afișarea mesajelor text:">
+<!ENTITY fixedWidth.label                 "Font cu lățime fixă">
+<!ENTITY fixedWidth.accesskey             "x">
+<!ENTITY variableWidth.label              "Font cu lățime variabilă">
+<!ENTITY variableWidth.accesskey          "v">
+<!ENTITY readingMessagesHeader.label      "Pentru mesajele primite">
+<!ENTITY colors.label                     "Culori">
+<!ENTITY overrideColors.label             "Culori folosite la afișarea mesajelor:">
+<!ENTITY textColor.label                  "Culoare text:">
+<!ENTITY textColor.accesskey              "t">
+<!ENTITY backgroundColor.label            "Culoare fundal:">
+<!ENTITY backgroundColor.accesskey        "C">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Arată simbolurile emotive ca imagini">
+<!ENTITY convertEmoticons.accesskey    "A">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label    "Etichetele pot fi folosite pentru a organiza mesajele dumneavoastră pe categorii și după priorități. ">
+<!ENTITY addTagButton.label       "Adaugă">
+<!ENTITY addTagButton.accesskey   "A">
+<!ENTITY editTagButton.label      "Modifică">
+<!ENTITY editTagButton.accesskey   "M">
+<!ENTITY removeTagButton.label    "Șterge">
+<!ENTITY removeTagButton.accesskey "Ș">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label  "Configurează fonturile și seturile de caractere folosite de &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label      "Fonturi și codări">
+<!ENTITY fontOptions.accesskey   "F">
+<!ENTITY fontOptions.label       "Fonturi...">

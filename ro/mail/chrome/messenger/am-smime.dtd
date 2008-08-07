@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Securitate">
+<!ENTITY securityHeading.label "Pentru a trimite și primi mesaje semnate electronic sau criptate, ar trebui să specificați un certificat pentru semnătură electronică precum și unul pentru criptare.">
+<!ENTITY encryptionGroupTitle.label "Criptare">
+<!ENTITY encryptionChoiceLabel.label "Modul de criptare implicit la trimiterea mesajelor:">
+<!ENTITY neverEncrypt.label "Nu cripta">
+<!ENTITY alwaysEncryptMessage.label "Criptează întotdeauna (mesajul se trimite doar dacă toți destinatarii au certificate)">
+<!ENTITY encryptionCert.message "Folosește acest certificat pentru a cripta și decripta mesajele pe care le primesc:">
+<!ENTITY encryptionCert.notselected "Nici unul">
+<!ENTITY certificate.button "Selectează...">
+<!ENTITY certificate_clear.button "Golește">
+<!ENTITY signingGroupTitle.label "Semnătură electronică">
+<!ENTITY signMessage.label "Semnează (implicit) mesajele">
+<!ENTITY signingCert.message "Folosește acest certificat pentru a semna electronic mesajele pe care le trimit:">
+<!ENTITY signingCert.notselected "Nici unul">
+
+<!ENTITY certificates.label     "Certificate">
+<!ENTITY managecerts.label      "Vezi certificate">
+<!ENTITY managecerts.accesskey  "V">
+<!ENTITY managedevices.label    "Dispozitive de securitate">
+<!ENTITY managedevices.accesskey "D">

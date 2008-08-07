@@ -1,0 +1,39 @@
+<!-- extracted from content/pref-composer.xul -->
+
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "Composer">
+
+<!ENTITY  saving                        "Salvare">
+<!ENTITY  AutoSaveCheck                 "Salvează automat la fiecare">
+<!ENTITY  minText                       "Minute">
+
+<!ENTITY  exterLegend.label             "Editoare externe">
+<!ENTITY  htmlSource                    "Sursă HTML:">
+<!ENTITY  imageeditor                   "Imagini:">
+<!ENTITY  chooseButton.label            "Alege">
+
+<!ENTITY  recentFiles.title             "Meniu pagini recente">
+<!ENTITY  documentsInMenu.label         "Număr maxim de pagini afișate:">
+<!ENTITY  documentsInMenu.accesskey     "p">
+
+<!ENTITY  savingFiles.title             "La salvarea sau publicarea paginilor">
+<!ENTITY  preserveExisting.label        "Păstrează formatarea originală a sursei">
+<!ENTITY  preserveExisting.accesskey    "o">
+<!ENTITY  preserveExisting.tooltip      "Păstrează caracterele rând-nou și formatarea originală a paginii">
+<!ENTITY  saveAssociatedFiles.label     "Salvează imaginile și celelalte fișiere asociate la salvarea paginilor">
+<!ENTITY  saveAssociatedFiles.accesskey "S">
+<!ENTITY  showPublishDialog.label       "Afișează întotdeauna dialogul Publicare la publicarea de pagini">
+<!ENTITY  showPublishDialog.accesskey   "A">
+
+<!ENTITY  composerEditing.label         "Editare">
+<!ENTITY  spellCheckInline.label        "Verific ortografia pe măsură ce scrieți">
+<!ENTITY  spellCheckInline.accesskey    "c">
+<!ENTITY  maintainStructure.label       "Menține aspectul tabelului când se introduc sau se șterg celule">
+<!ENTITY  maintainStructure.tooltip     "Păstrează forma dreptunghiulară a tabelului prin adăugarea de celule după inserări sau ștergeri">
+<!ENTITY  maintainStructure.accesskey   "M">
+<!ENTITY  useCSS.label                  "Folosește stiluri CSS în loc de elemente și atribute HTML">
+<!ENTITY  useCSS.accesskey              "F">
+<!ENTITY  crInPCreatesNewP.label        "Tasta Enter într-un paragraf creează întotdeauna un nou paragraf">
+<!ENTITY  crInPCreatesNewP.accesskey    "r">
