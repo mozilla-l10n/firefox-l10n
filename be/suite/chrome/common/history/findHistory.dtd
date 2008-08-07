@@ -1,0 +1,11 @@
+<!ENTITY search.name.label "загаловак">
+<!ENTITY search.url.label "месцазнаходжанне">
+<!ENTITY search.startswith.label "пачынаецца з">
+<!ENTITY search.endswith.label "канчаюцца на">
+<!ENTITY search.is.label "ёсць">
+<!ENTITY search.isnot.label "не">
+<!ENTITY search.contains.label "змяшчае">
+<!ENTITY search.doesntcontain.label "не змяшчае">
+<!ENTITY search.for.label "Знайсці наведаныя дакументы, якія">
+<!ENTITY findHistory.title "Знайсці ў гісторыі">
+<!ENTITY findButton.label "Знайсці">

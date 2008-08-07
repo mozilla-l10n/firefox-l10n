@@ -1,0 +1,10 @@
+<!--null-->
+<!ENTITY contact.heading "Сувязь">
+<!ENTITY home.heading "Хатні">
+<!ENTITY other.heading "Іншыя">
+<!ENTITY phone.heading "Тэляфон">
+<!ENTITY work.heading "Працоўны">
+<!ENTITY description.heading "Апісанне">
+<!ENTITY addresses.heading "Адрасы">
+<!ENTITY mapItButton.label "Атрымаць мапу">
+<!ENTITY mapIt.tooltip "Адлюстроўваць мапу гэтага адраса з Сеціва">

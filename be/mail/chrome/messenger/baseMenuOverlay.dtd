@@ -1,0 +1,16 @@
+<!ENTITY helpMenu.label "Даведка">
+<!ENTITY helpMenu.accesskey "Д">
+<!ENTITY helpMenuWin.label "Даведка">
+<!ENTITY helpMenuWin.accesskey "Д">
+<!ENTITY releaseCmd.label "Заўвагі пра выданне">
+<!ENTITY releaseCmd.accesskey "в">
+<!ENTITY openHelp.label "Змесціва даведкі">
+<!ENTITY openHelp.accesskey "д">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "Даведка &brandShortName;">
+<!ENTITY openHelpMac2.commandkey "?">
+<!ENTITY openHelpMac2.modifiers "accel">
+<!ENTITY updateCmd.label "Праверка існавання абнаўленняў…">
+<!ENTITY updateCmd.accesskey "а">
+<!ENTITY aboutCmd.label "Пра &brandFullName;">
+<!ENTITY aboutCmd.accesskey "П">

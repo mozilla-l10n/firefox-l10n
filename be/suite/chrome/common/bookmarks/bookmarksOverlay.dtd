@@ -1,0 +1,18 @@
+<!ENTITY findABookmark.label "Знайсці закладку…">
+<!ENTITY findABookmark.accesskey "З">
+<!ENTITY newBookmark.label "Новая закладка…">
+<!ENTITY newBookmark.accesskey "Н">
+<!ENTITY newFolder.label "Новая папка…">
+<!ENTITY newFolder.accesskey "в">
+<!ENTITY newSeparator.label "Новы раздзяляльнік">
+<!ENTITY newSeparator.accesskey "р">
+<!ENTITY setAsNewBookmarkFolder.label "Усталяваць як папку для новых закладак">
+<!ENTITY setAsNewBookmarkFolder.accesskey "з">
+<!ENTITY setAsNewSearchFolder.label "Усталяваць як новую папку Вынікаў Пошуку">
+<!ENTITY setAsNewSearchFolder.accesskey "ш">
+<!ENTITY setAsNewToolbarFolder.label "Усталяваць як папку паліцы ўласных прыладаў">
+<!ENTITY setAsNewToolbarFolder.accesskey "У">
+<!ENTITY exportBookmarks.label "Экспарт…">
+<!ENTITY exportBookmarks.accesskey "Э">
+<!ENTITY importBookmarks.label "Імпарт…">
+<!ENTITY importBookmarks.accesskey "І">

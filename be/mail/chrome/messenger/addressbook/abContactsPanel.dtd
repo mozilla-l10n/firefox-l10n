@@ -1,0 +1,16 @@
+<!ENTITY addressbookPicker.label "Адрасная кніга:">
+<!ENTITY addressbookPicker.accesskey "к">
+<!ENTITY searchInput.label "Пошук:">
+<!ENTITY searchInput.accesskey "ш">
+<!ENTITY SearchNameOrEmail.label "Імя або э-пошта">
+<!ENTITY deleteAddrBookCard.label "Выдаліць">
+<!ENTITY addrBookCardProperties.label "Уласцівасці">
+<!ENTITY addtoToFieldMenu.label "Дадаць да поля Да">
+<!ENTITY addtoCcFieldMenu.label "Дадаць да поля Са">
+<!ENTITY addtoBccFieldMenu.label "Дадаць да поля Сса">
+<!ENTITY toButton.label "Дадаць да Да:">
+<!ENTITY toButton.accesskey "Д">
+<!ENTITY ccButton.label "Дадаць да Са:">
+<!ENTITY ccButton.accesskey "С">
+<!ENTITY bccButton.label "Дадаць да Сса:">
+<!ENTITY bccButton.accesskey "а">

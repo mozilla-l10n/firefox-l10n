@@ -1,0 +1,199 @@
+<!ENTITY cckWizard.title "Рыштунак Уладкавання Спажыўца Файэрфокс (РУС)">
+<!ENTITY cckWizard.description "Гэтая прылада дазваляе вам стварыць пашырэнне, якое ўладкоўвае Файэрфокс. Гэтае пашырэнне можа быць усталявана карыстальнікам ці ўключана ў пакет усталявання.">
+<!ENTITY beforeYouBegin.label "Перад тым, як вы пачняце">
+<!ENTITY beforeYouBegin.description "Вырашыце, якія ўладкаванні вы хочаце зрабіць і стварыце/збярыце ўладкаваныя файлы, такія як:
+                                         <html:ul>
+                                         <html:li>Уладкованыя файлы ажыўлення для ажыўленай эмблемы азіральніка</html:li>
+                                         <html:li>Машыны пошуку</html:li>
+                                         <html:li>Убудовы азіральніка</html:li>
+                                         <html:li>Пашырэнні/тэмы</html:li>
+                                         </html:ul>">
+<!ENTITY configurePage.label "Наладкі пашырэнняў">
+<!ENTITY selectConfig.label "Выбар існай наладкі ці стварэнне новай">
+<!ENTITY selectConfig.description "Выберыце існую наладку ці пстрыкніце &apos;Новая&apos;, каб стварыць новую наладку і працапрастору, у якой будуць захоўвацца вашы дадатковыя файлы. Каб правіць існую наладку без перазапісу зыходнай наладкі, выберыце яе ў спісе і пстрыкніце &apos;Падвой&apos;.">
+<!ENTITY showConfig.label "Паказ звестак пра наладку">
+<!ENTITY newConfig.label "Новая">
+<!ENTITY copyConfig.label "Падвой">
+<!ENTITY deleteConfig.label "Выдаліць">
+<!ENTITY createConfig.title "Стварэнне новай наладкі">
+<!ENTITY copyConfig.title "Падваенне існай наладкі">
+<!ENTITY configName.label "Назва наладкі">
+<!ENTITY configLocation.label "Месцазнаходжанне наладкі">
+<!ENTITY saveOnExit.label "Самастойна захаваць наладку перад выхадам">
+<!ENTITY zipLocation.label "<html:b>Важна:</html:b> Нам неабходны ZIP ці 7-Zip, каб стварыць XPI. Скарыстайце кнопку 'Выбраць файл', каб вызначыць месцазнаходжанне гэтых выканальнікаў. Увага: мы таксама спрабуем ужываць ZIP.EXE, калі ён у вашым шляху.">
+<!ENTITY customizeExt.label "Уладкаванне пашырэння">
+<!ENTITY id.label "Унікальны вызначальнік:">
+<!ENTITY id.format "Фармат: companyname-cck@extensions.domainname.tld">
+<!ENTITY name.label "Назва:">
+<!ENTITY version.label "Версія:">
+<!ENTITY description.label "Апісанне:">
+<!ENTITY creator.label "Стваральнік:">
+<!ENTITY homepageURL.label "URL хатняй старонкі:">
+<!ENTITY updateURL.label "URL абнаўлення:">
+<!ENTITY icon.label "Значок:">
+<!ENTITY chooseFile.label "Выбраць файл...">
+<!ENTITY chooseDir.label "Выбраць дырэкторыю…">
+<!ENTITY filename.label "Назва файла:">
+<!ENTITY hidden.label "Не паказваць гэтае пашырэнне ў кіраўніку пашырэнняў.">
+<!ENTITY locked.label "Пдадухіляць высталяванне гэтага пашырэння (але яно можа быць забаронена).">
+<!ENTITY aboutconfig.label "Не дазваляць доступ да about:config">
+<!ENTITY customizePartOne.label "Уладкаванне азіральніка - Першая частка">
+<!ENTITY orgName.description "Вызначальнік кампаніі дадаецца ў радок спажыўца азіральніка, які (радок) з'яўляецца, калі вы адкрываеце меню Даведка і выбіраеце Пра Мазіла Файэрфокс. Ён неабходны.">
+<!ENTITY orgName.label "Увядзіце вызначальнік вашай кампаніі (да 10 знакаў, без прагалаў):">
+<!ENTITY orgName.caption "Вызначальнік кампаніі">
+<!ENTITY homePage.caption "Хатняя старонка">
+<!ENTITY homePage.label "Змоўчны URL хатняй старонкі:">
+<!ENTITY homePage.description "Гэтая старонка адлюстроўваецца, калі карыстальнікі ўпершыню запускаюць азіральнік Файэрфокс, ці калі яны пстрыкаюць кнопку Дадому.">
+<!ENTITY homePageWelcome.caption "Запрашальная старонка">
+<!ENTITY homePageWelcome.description "Запрашальная старонка адлюстроўваецца пры самым першым запуску Файэрфокс пасля стварэння профілю. Вы можаце замяніць гэтую старонку або вырашыць не адлюстроўваць яе наогул.">
+<!ENTITY homePageWelcome.label "URL запрашальнай старонкі:">
+<!ENTITY noWelcomePage.label "Не адлюстроўваць запрашальную старонку">
+<!ENTITY homePageOverride.caption "Старонка абнаўлення">
+<!ENTITY homePageOverride.description "Старонка абнаўлення адлюстроўваецца пасля абнаўлення на новую версію Файэрфокс. Вы можаце змяніць гэтую старонку ці вырашыць не адлюстроўваць яе наогул.">
+<!ENTITY homePageOverride.label "URL старонкі абнаўлення:">
+<!ENTITY noOverridePage.label "Не адлюстроўваць старонку абнаўлення">
+<!ENTITY titleBar.caption "Тэкст паліцы загалоўка акна азіральніка">
+<!ENTITY titleBar.label "Выбарачны тэкст паліцы загалоўка:">
+<!ENTITY titleBar.description "Тэкст, які вы ўведзяце (напрыклад: назва вашай кампаніі your company name), з'явіцца пасля загалоўка старонкі на паліцы загалоўка. Раіцца ўжываць фармат
+                                         <html:i>Мазіла Файэрфокс: Выданне Кампаніі</html:i>">
+<!ENTITY customizePartTwo.label "Уладкаванне азіральніка - Другая частка">
+<!ENTITY animLogo.caption "Ажыўленая эмблема">
+<!ENTITY animLogoURL.label "URL кнопкі эмблемы:">
+<!ENTITY animLogoURL.description "Увядзіце URL, куды карыстальнікі мусяць перайсці пасля націскання кнопкі ажыўленай эмблемы.">
+<!ENTITY animLogoTooltip.description "Увядзіце падказку, якую карыстальнікі мусяць пабачыць, калі мыш праходзіць над кнопкай ажыўленай эмблемы.">
+<!ENTITY animLogoTooltip.label "Падказка кнопкі эмблемы:">
+<!ENTITY animLogoAnim.description "Шлях да вашага файла ажыўленага GIF (16x16 пікселяў):">
+<!ENTITY animLogoStill.description "Шлях да вашага файла GIF або PNG спакою (16x16 пікселяў):">
+<!ENTITY customizePartThree.label "Уладкаванне азіральніка - Трэцяя частка">
+<!ENTITY helpMenu.caption "Меню Даведка">
+<!ENTITY helpMenu.description "Вы можаце дадаць адзінку ў меню Даведка, якая будзе ўтрымоўваць спасылку на вашу старонку падтрымкі пакупнікоў.">
+<!ENTITY helpMenuText.label "Тэкст адзінкі меню:">
+<!ENTITY helpMenuURL.label "URL адзінкі меню:">
+<!ENTITY helpMenuAccesskey.label "Клавіша доступу адзінкі меню:">
+<!ENTITY customizePartFour.label "Уладкаванне азіральніка - Чацвёртая частка">
+<!ENTITY allowedSites.caption "Дазволеныя пляцоўкі">
+<!ENTITY popupAllowedSites.label "Вы можаце вызначыць дамены, для якіх вынырцы дазволеныя. Пералічыце дамены праз коску.">
+<!ENTITY installAllowedSites.label "Вы можаце вызначыць дамены, якім дазволена ўсталёўваць праграмнае забеспячэнне (XPI). Пералічыце дамены праз коску.">
+<!ENTITY customizeBrowserPlugins.label "Уладкаванне ўбудоваў азіральніка">
+<!ENTITY browserPlugins.description "Ужывайце кнопкі ніжэй, каб дадаць убудовы азіральніка.">
+<!ENTITY plugins.label "Убудовы азіральніка">
+<!ENTITY plugins.description "Выберыце, калі ласка, убудову азіральніка і яе платформу.">
+<!ENTITY customizeSearchEngines.label "Наладка машынаў пошуку">
+<!ENTITY searchEngines.description "Ужывайце кнопкі ніжэй, каб дадаць машыны пошуку.">
+<!ENTITY defaultSearchEngine.label "Змоўчная машына пошуку">
+<!ENTITY engines.label "Машынаў пошуку">
+<!ENTITY engines.description "Выберыце, калі ласка, машыну пошуку і адпаведны малюнак (калі маецца).">
+<!ENTITY engine.label "Машына пошуку:">
+<!ENTITY engineIcon.label "Файл малюнку:">
+<!ENTITY file.label "Файл:">
+<!ENTITY folderTitle.label "Загаловак папкі:">
+<!ENTITY customizeToolbarOne.label "Уладкаванне прыладапаліцы закладак - Першая частка">
+<!ENTITY addToolbarFolder.caption "Даданне папкі на прыладапаліцу закладак">
+<!ENTITY addToolbarFolder.description "Ужывайце кнопкі ніжэй, каб дадаваць закладкі ў папку на прыладапаліцы закладак.">
+<!ENTITY addToolbarBookmark.caption "Даданне закладак на прылапаліцу закладак">
+<!ENTITY addToolbarBookmark.description "Ужывайце кнопкі ніжэй, каб дадаваць закладкі на прыладапаліцу закладак.">
+<!ENTITY customizeToolbarTwo.label "Уладкаванне прыладапаліцы закладак - Другая частка">
+<!ENTITY customizeBookmarksOne.label "Уладкаванне закладак - Першая частка">
+<!ENTITY customizeBookmarksTwo.label "Уладкаванне закладак - Другая частка">
+<!ENTITY addBookmarkFolder.caption "Даданне папкі закладак">
+<!ENTITY addBookmarkFolder.description "Ужывайце кнопкі ніжэй, каб стварыць папку для закладак.">
+<!ENTITY addBookmark.caption "Даданне закладак">
+<!ENTITY addBookmark.description "Ужывайце кнопкі ніжэй, каб дадаваць закладкі.">
+<!ENTITY toolbarLocation.label "Месцазнаходжанне адзінак прыладапаліцы">
+<!ENTITY toolbarLocationBegin.label "Памясціць адзінкі прыладапаліцы ў пачатку">
+<!ENTITY toolbarLocationEnd.label "Памясціць адзінкі прыладапаліцы ў канцы">
+<!ENTITY bookmarkLocation.label "Месцазнаходжанне адзінак закладак">
+<!ENTITY bookmarkLocationBegin.label "Памясціць адзінкі закладак у пачатку">
+<!ENTITY bookmarkLocationEnd.label "Памясціць адзінкі закладак у канцы">
+<!ENTITY bookmark.label "Закладка">
+<!ENTITY bookmark.description "Увод закладкі">
+<!ENTITY bookmarkTitle.label "Загаловак:">
+<!ENTITY bookmarkURL.label "URL:">
+<!ENTITY liveBookmark.label "Жывая закладка">
+<!ENTITY separator.label "Раздзяляльнік ">
+<!ENTITY customizePrefs.label "Уладкаванне перавагаў">
+<!ENTITY customizePrefs.description "Ужывайце кнопкі ніжэй, каб дадаваць змоўчныя перавагі.">
+<!ENTITY prefs.label "Перавагі">
+<!ENTITY prefName.label "Назва перавагі:">
+<!ENTITY prefValue.label "Значэнне:">
+<!ENTITY prefLock.label "Замкнуць перавагу">
+<!ENTITY newButton.label "Новы">
+<!ENTITY newButton.accesskey "Н">
+<!ENTITY deleteButton.label "Выдаліць">
+<!ENTITY deleteButton.accesskey "В">
+<!ENTITY editButton.label "Правіць">
+<!ENTITY editButton.accesskey "П">
+<!ENTITY moveUpButton.label "Рухаць угору">
+<!ENTITY moveUpButton.accesskey "г">
+<!ENTITY moveDownButton.label "Рухаць уніз">
+<!ENTITY moveDownButton.accesskey "н">
+<!ENTITY customizeRegistry.label "Уладкаванне метрыкі (толькі для Windows)">
+<!ENTITY registry.label "Метрыка">
+<!ENTITY registry.description "Ужывайце кнопкі ніжэй, каб дадаваць запісы ў метрыку Windows. Увага: гэтыя адзінкі будуць дадавацца/абнаўляцца кожны раз падчас запуску азіральніка.">
+<!ENTITY regDescription.label "Апісанне">
+<!ENTITY regRootKey.label "Каранёвы ключ">
+<!ENTITY regKey.label "Ключ">
+<!ENTITY regName.label "Назва">
+<!ENTITY regNameValue.label "Значэнне назвы">
+<!ENTITY regType.label "Тып">
+<!ENTITY customizeCerts.label "Уладкаванне пасведчанняў">
+<!ENTITY customizeCerts.description "Ужывайце кнопкі ніжэй, каб дадаваць пасведчанні для прадусталявання (толькі фармату PEM).">
+<!ENTITY customizeCerts.warning "<html:b>УВАГА: Калі вы дадасце пасведчанні ў Файэрфокс, вы НЕ МОЖАЦЕ
+                                         распаўсюджваць азіральнік нідзе, акрамя вашай кампаніі ці ўстановы, і называць яго Файэрфокс.
+                                         Гэтая асаблівасць прызначана галоўным чынам для карпаратыўных карыстальнікаў ці карыстальнікаў установаў,
+                                         якія будуць распаўсюджваць Файэрфокс унутры іх арганізацыяў.</html:b>">
+<!ENTITY certs.label "Пасведчанні">
+<!ENTITY cert.label "Пасведчанне">
+<!ENTITY cert.trustSSL "Давяраць гэтай КП апазнаваць пляцоўкі сеціва.">
+<!ENTITY cert.trustEmail "Давяраць гэтай КП апазнаваць э-паштовых карыстальнікаў.">
+<!ENTITY cert.trustObjSign "Давяраць гэтаму КП апазнаваць распрацоўцаў праграмнага забеспячэння.">
+<!ENTITY customizeBundles.label "Уладкаванне пашырэнняў/тэмаў">
+<!ENTITY customizeBundles.description "Ужывайце кнопкі ніжэй, каб выбіраць пашырэнні і тэмы для ўсталявання разам з вашым РУС.">
+<!ENTITY customizeBundles.warning "<html:b>УВАГА: Калі вы дадасце пашырэнні і/ці тэмы ў ваш РУС,
+                                         вы больш не зможаце ўсталёўваць РУС як частку ўсталявання Файэрфокс. Вы мусіце
+                                         ўсталёўваць у азіральніку.
+                                         </html:b>">
+<!ENTITY bundles.label "Пашырэнні/Тэмы">
+<!ENTITY customizeProxy.label "Уладкаванне наладак пасярэднікаў">
+<!ENTITY proxyTitle.label "Наладка пасярэднікаў дзеля доступу ў Інтэрнэт">
+<!ENTITY directTypeRadio.label "Непасрэднае злучэнне з Інтэрнэтам">
+<!ENTITY directTypeRadio.accesskey "Н">
+<!ENTITY WPADTypeRadio.label "Самавызначэнне наладжванняў пасярэднікаў для гэтай сеткі">
+<!ENTITY WPADTypeRadio.accesskey "С">
+<!ENTITY manualTypeRadio.label "Ручная наладка пасярэднікаў:">
+<!ENTITY manualTypeRadio.accesskey "Р">
+<!ENTITY autoTypeRadio.label "URL самастойнай наладкі пасярэднікаў:">
+<!ENTITY autoTypeRadio.accesskey "U">
+<!ENTITY configAutoconfigText.label "Месцазнаходжанне наладкі (URL):">
+<!ENTITY configAutoconfigText.accesskey "U">
+<!ENTITY autoCCKTypeRadio.label "Захаваць файл наладкаў пасярэднікаў у CCK:">
+<!ENTITY autoCCKTypeRadio.accesskey "ф">
+<!ENTITY reload.label "Абнавіць">
+<!ENTITY reload.accesskey "А">
+<!ENTITY ftp.label "Пасярэднік FTP:">
+<!ENTITY ftp.accesskey "П">
+<!ENTITY gopher.label "Пасярэднік Gopher:">
+<!ENTITY gopher.accesskey "П">
+<!ENTITY http.label "Пасярэднік HTTP:">
+<!ENTITY http.accesskey "П">
+<!ENTITY ssl.label "Пасярэднік SSL:">
+<!ENTITY ssl.accesskey "П">
+<!ENTITY socks.label "Трымальнік SOCKS:">
+<!ENTITY socks.accesskey "Т">
+<!ENTITY socks4.label "SOCKS в4">
+<!ENTITY socks4.accesskey "S">
+<!ENTITY socks5.label "SOCKS в5">
+<!ENTITY socks5.accesskey "S">
+<!ENTITY port.label "Порт:">
+<!ENTITY HTTPport.accesskey "П">
+<!ENTITY SSLport.accesskey "о">
+<!ENTITY FTPport.accesskey "р">
+<!ENTITY SOCKSport.accesskey "т">
+<!ENTITY noproxy.label "Без пасярэдніка:">
+<!ENTITY noproxy.accesskey "Б">
+<!ENTITY noproxyExplain.label "Прыклад: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Ужываць адзін пасярэднік для ўсіх пратаколаў">
+<!ENTITY shareproxy.accesskey "У">
+<!ENTITY showConfig.title "Паказаць наладку">
+<!ENTITY cckWizard.oncancel "Усе змененыя здаткі будуць захованы">
+<!ENTITY cckWizardFinish.description "Пстрыкніце Скончыць, каб стварыць ваш пакет РУС.">

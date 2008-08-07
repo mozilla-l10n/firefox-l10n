@@ -1,0 +1,17 @@
+<!--null-->
+<!ENTITY subscribeDialog.title "Падпіска">
+<!ENTITY subscribeButton.label "Падпісацца">
+<!ENTITY subscribeButton.accesskey "П">
+<!ENTITY unsubscribeButton.label "Адпісацца">
+<!ENTITY unsubscribeButton.accesskey "А">
+<!ENTITY newGroupsTab.label "Новыя купы">
+<!ENTITY newGroupsTab.accesskey "Н">
+<!ENTITY refreshButton.label "Паднавіць">
+<!ENTITY refreshButton.accesskey "н">
+<!ENTITY stopButton.label "Прыпыніць">
+<!ENTITY stopButton.accesskey "П">
+<!ENTITY server.label "Рахунак:">
+<!ENTITY server.accesskey "Р">
+<!ENTITY subscribedHeader.label "Падпіска">
+<!ENTITY namefield.label "Паказваць адзінкі, якія змяшчаюць:">
+<!ENTITY namefield.accesskey "к">

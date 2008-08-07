@@ -1,0 +1,23 @@
+<!ENTITY warnAddonInstall.label "Папярэджваць мяне, калі пляцоўкі спрабуюць усталяваць дадаткі">
+<!ENTITY warnAddonInstall.accesskey "П">
+<!ENTITY tellMaybeAttackSite.label "Папярэджваць мяне, калі старонка, якую я наведваю, падазраецца як нападная">
+<!ENTITY tellMaybeAttackSite.accesskey "я">
+<!ENTITY tellMaybeForgery.label "Папярэджваць мяне, калі я наведваю пляцоўку, якая падазраецца як падробка">
+<!ENTITY tellMaybeForgery.accesskey "П">
+<!ENTITY addonExceptions.label "Выключэнні…">
+<!ENTITY addonExceptions.accesskey "В">
+<!ENTITY passwords.label "Паролі">
+<!ENTITY rememberPasswords.label "Памятаць паролі для пляцовак">
+<!ENTITY rememberPasswords.accesskey "м">
+<!ENTITY passwordExceptions.label "Выключэнні…">
+<!ENTITY passwordExceptions.accesskey "ы">
+<!ENTITY useMasterPassword.label "Ужываць галоўны пароль">
+<!ENTITY useMasterPassword.accesskey "У">
+<!ENTITY changeMasterPassword.label "Змяніць галоўны пароль…">
+<!ENTITY changeMasterPassword.accesskey "З">
+<!ENTITY savedPasswords.label "Захаваныя паролі…">
+<!ENTITY savedPasswords.accesskey "П">
+<!ENTITY warnings.label "Паведамленні-папярэджанні">
+<!ENTITY chooseWarnings.label "Выбар папярэджанняў, якія вы хочаце бачыць падчас азірання сеціва">
+<!ENTITY warningSettings.label "Наладжванні…">
+<!ENTITY warningSettings.accesskey "Н">

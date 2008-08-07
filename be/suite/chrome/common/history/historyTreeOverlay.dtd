@@ -1,0 +1,16 @@
+<!ENTITY tree.header.name.label "Загаловак">
+<!ENTITY tree.header.name.accesskey "З">
+<!ENTITY tree.header.url.label "Месцазнаходжанне">
+<!ENTITY tree.header.url.accesskey "М">
+<!ENTITY tree.header.date.label "Апошняе наведванне">
+<!ENTITY tree.header.date.accesskey "А">
+<!ENTITY tree.header.firstvisitdate.label "Першае наведванне">
+<!ENTITY tree.header.firstvisitdate.accesskey "П">
+<!ENTITY tree.header.referrer.label "Спасылальнік">
+<!ENTITY tree.header.referrer.accesskey "С">
+<!ENTITY tree.header.hostname.label "Назва трымальніка">
+<!ENTITY tree.header.hostname.accesskey "т">
+<!ENTITY tree.header.visitcount.label "Колькасць наведванняў">
+<!ENTITY tree.header.visitcount.accesskey "К">
+<!ENTITY bookmarkLinksCmd.label "Дадаць гэтыя спасылкі ў закладкі">
+<!ENTITY bookmarkLinksCmd.accesskey "Д">

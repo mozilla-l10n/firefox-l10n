@@ -1,0 +1,8 @@
+<!ENTITY enter.label "Увядзіце месцазнаходжанне ў сеціве (URL), ці вызначце мясцовы файл, які вы хочаце адчыніць:">
+<!ENTITY chooseFile.label "Выбраць файл…">
+<!ENTITY newWindow.label "Новае акно">
+<!ENTITY newTab.label "Новая ўстаўка">
+<!ENTITY topWindow.label "Цяперашняе акно">
+<!ENTITY caption.label "Адчыніць месца ў Сеціве">
+<!ENTITY openWhere.label "Адчыніць у:">
+<!ENTITY openBtn.label "Адчыніць">

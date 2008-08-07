@@ -1,0 +1,7 @@
+<!ENTITY defaultClient.title "Змоўчны спажывец">
+<!ENTITY defaultClient.intro "Ужываць &brandShortName; як змоўчны спажывец:">
+<!ENTITY email.label "Э-Пошты">
+<!ENTITY newsgroups.label "Навінакупаў">
+<!ENTITY rss.label "Жывільнікаў RSS">
+<!ENTITY checkOnStartup.label "Заўсёды рабіць гэтую праверку падчас запуску &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "З">

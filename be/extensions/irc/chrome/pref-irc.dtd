@@ -1,0 +1,7 @@
+<!ENTITY pref-irc.window.title "ЧатЗіла">
+<!ENTITY pref-irc.open.title "Перавагі ЧатЗіла">
+<!ENTITY pref-irc.open.desc "Перавагі ЧатЗіла занадта вялізныя, каб памясціцца ў вакне перавагаў, таму вы можаце адкрыць іх акно перавагаў тут.">
+<!ENTITY pref-irc.open.label "Адкрыць перавагі ЧатЗіла">
+<!ENTITY pref-irc.open.accesskey "А">
+<!ENTITY startup.chat.label "ЧатЗіла">
+<!ENTITY startup.chat.accesskey "Ч">

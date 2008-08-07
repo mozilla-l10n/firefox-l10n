@@ -1,0 +1,175 @@
+<!ENTITY mainWindow.title "&brandShortName;">
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY nothingAvailable.label "(Няма даступных)">
+<!ENTITY browserCmd.label "Новае акно азіральніка">
+<!ENTITY browserCmd.accesskey "а">
+<!ENTITY tabCmd.label "Устаўку азіральніка">
+<!ENTITY tabCmd.accesskey "т">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Адчыніць месца ў Сеціве…">
+<!ENTITY openCmd.accesskey "М">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Адчыніць файл…">
+<!ENTITY openFileCmd.accesskey "Ф">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY recentTabs.label "Нядаўна зачыненыя закладкі">
+<!ENTITY recentTabs.accesskey "R">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY editPageCmd.label "Рэдагаваць старонку">
+<!ENTITY editPageCmd.accesskey "Р">
+<!ENTITY editPageCmd.commandkey "e">
+<!ENTITY editFrameCmd.label "Рэдагаваць рамку">
+<!ENTITY editFrameCmd.accesskey "м">
+<!ENTITY editFrameSetCmd.label "Рэдагаваць спалучэнне рамак">
+<!ENTITY editFrameSetCmd.accesskey "р">
+<!ENTITY uploadFile.label "Загрузіць файл…">
+<!ENTITY uploadFile.accesskey "Ф">
+<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
+<!ENTITY printSetupCmd.accesskey "л">
+<!ENTITY printPreviewCmd.label "Папярэдні прагляд">
+<!ENTITY printPreviewCmd.accesskey "г">
+<!ENTITY printCmd.label "Друкаваць…">
+<!ENTITY printCmd.accesskey "Д">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY viewMenu.label "Прагляд">
+<!ENTITY viewMenu.accesskey "г">
+<!ENTITY toolbarsCmd.label "Паказаць/Схаваць">
+<!ENTITY toolbarsCmd.accesskey "ц">
+<!ENTITY navbarCmd.label "Паліца з прыладамі Навігацыі">
+<!ENTITY navbarCmd.accesskey "Н">
+<!ENTITY personalbarCmd.label "Паліца з уласнымі прыладамі">
+<!ENTITY personalbarCmd.accesskey "А">
+<!ENTITY tabbarCmd.label "Паліца з устаўкамі">
+<!ENTITY tabbarCmd.accesskey "У">
+<!ENTITY taskbarCmd.label "Паліца з статусам">
+<!ENTITY taskbarCmd.accesskey "С">
+<!ENTITY componentbarCmd.label "Паліца з часткамі">
+<!ENTITY componentbarCmd.accesskey "Ч">
+<!ENTITY useStyleSheetMenu.label "Карыстацца стылем">
+<!ENTITY useStyleSheetMenu.accesskey "К">
+<!ENTITY useStyleSheetNone.label "Няма">
+<!ENTITY useStyleSheetNone.accesskey "Н">
+<!ENTITY useStyleSheetPersistentOnly.label "Змоўчны стыль">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "з">
+<!ENTITY pageSourceCmd.label "Зыходнік старонкі">
+<!ENTITY pageSourceCmd.accesskey "ы">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Звесткі пра старонку">
+<!ENTITY pageInfoCmd.accesskey "З">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Увесь экран">
+<!ENTITY fullScreenCmd.accesskey "У">
+<!ENTITY translateMenu.label "Перакласці старонку">
+<!ENTITY translateMenu.accesskey "к">
+<!ENTITY translate.commandKey "t">
+<!ENTITY closeOtherTabs.label "Зачыніць іншыя ўстаўкі">
+<!ENTITY closeOtherTabs.accesskey "і">
+<!ENTITY closeWindow.label "Зачыніць акно">
+<!ENTITY closeWindow.accesskey "а">
+<!ENTITY minimizeButton.tooltip "Мінімізаваць">
+<!ENTITY restoreButton.tooltip "Аднавіць">
+<!ENTITY bidiMenu.label "Наладкі напрамку тэксту">
+<!ENTITY directionBidiMenu.label "Змоўчны напрамак">
+<!ENTITY directionRTLBidiCmd.label "Справа налева">
+<!ENTITY directionLTRBidiCmd.label "Злева направа">
+<!ENTITY texttypeBidiMenu.label "Тып тэксту">
+<!ENTITY charsettexttypeBidiCmd.label "Аснованы на сукупнасці знакаў">
+<!ENTITY logicaltexttypeBidiCmd.label "Лагічны">
+<!ENTITY visualtexttypeBidiCmd.label "Наглядны">
+<!ENTITY numeralBidiMenu.label "Форма лічбаў">
+<!ENTITY regularcontextnumeralBidiCmd.label "Кантэкстуальны">
+<!ENTITY hindicontextnumeralBidiCmd.label "Лічэбнікі Хіндзі пры ПНЛ кірунку дакумента">
+<!ENTITY arabicnumeralBidiCmd.label "Арабскі">
+<!ENTITY hindinumeralBidiCmd.label "Хіндзі">
+<!ENTITY controlstextmodeBidiMenu.label "Тэкставы рэжым у кіроўцах">
+<!ENTITY logicalcontrolstextmodeBidiCmd.label "Лагічны">
+<!ENTITY visiualcontrolstextmodeBidiCmd.label "Наглядны">
+<!ENTITY containercontrolstextmodeBidiCmd.label "Як у дакуменце, які змяшчае гэты">
+<!ENTITY charactersetBidiMenu.label "Сукупнасць знакаў">
+<!ENTITY doccharactersetBidiCmd.label "Карыстацца сукупнасцю знакаў, якая вызначана дакументам">
+<!ENTITY defaultcharactersetBidiCmd.label "Карыстацца наборам знакаў, які вызначаны мною, замест набору, вызначанага дакументам">
+<!ENTITY webContentMenu.label "Мовы і змест Сеціва">
+<!ENTITY webContentMenu.accesskey "М">
+<!ENTITY downloadMore.label "Загрузіць яшчэ">
+<!ENTITY downloadMore.accesskey "З">
+<!ENTITY applyTheme.label "Ужыць тэму">
+<!ENTITY applyTheme.accesskey "У">
+<!ENTITY getNewThemesCmd.label "Атрымаць новыя тэмы">
+<!ENTITY getNewThemesCmd.accesskey "А">
+<!ENTITY searchMenu.label "Пошук">
+<!ENTITY searchMenu.accesskey "ш">
+<!ENTITY findOnCmd.label "Знайсці на гэтай старонцы…">
+<!ENTITY findOnCmd.accesskey "З">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Знайсці зноў">
+<!ENTITY findAgainCmd.accesskey "ў">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Знайсці папярэдні">
+<!ENTITY findPrevCmd.accesskey "я">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+<!ENTITY searchInternetCmd.label "Пошук у Сеціве">
+<!ENTITY searchInternetCmd.accesskey "ш">
+<!ENTITY searchInternet.commandKey "s">
+<!ENTITY clearPrivateDataCmd.label "Ачысціць прыватныя даныя…">
+<!ENTITY clearPrivateDataCmd.accesskey "ч">
+<!ENTITY goMenu.label "Рух">
+<!ENTITY goMenu.accesskey "р">
+<!ENTITY goHomeCmd.label "Дадому">
+<!ENTITY goHomeCmd.accesskey "Д">
+<!ENTITY bookmarksMenu.label "Закладкі">
+<!ENTITY bookmarksMenu.accesskey "З">
+<!ENTITY addCurPageCmd.label "Дадаць закладку да гэтай старонкі">
+<!ENTITY addCurPageCmd.accesskey "З">
+<!ENTITY addCurPageAsCmd.label "Дадаць закладку ў папку…">
+<!ENTITY addCurPageAsCmd.accesskey "П">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Дадаць закладку да гэтай групы ўставак…">
+<!ENTITY addCurTabsAsCmd.accesskey "Г">
+<!ENTITY manBookmarksCmd.label "Уладкаваць закладкі…">
+<!ENTITY manBookmarksCmd.accesskey "У">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Падпісацца на гэтую старонку">
+<!ENTITY feedsMenu.accesskey "П">
+<!ENTITY emptyItem.label "(Пусты)">
+<!ENTITY helpMenuCmd.label "Даведка">
+<!ENTITY helpMenuCmd.accesskey "Д">
+<!ENTITY helpContentsCmd.label "Змест даведкі">
+<!ENTITY softwareUpdatesCmd.label "Абнаўленні праграмнага забеспячэння">
+<!ENTITY technicalSupportCmd.label "Тэхнічная падтрымка">
+<!ENTITY releaseNotesCmd.label "Заўвагі аб выданні">
+<!ENTITY menuBar.tooltip "Паліца з меню">
+<!ENTITY personalToolbar.tooltip "Паліца з асабістымі прыладамі">
+<!ENTITY navigationToolbar.tooltip "Паліца з прыладамі навігацыі">
+<!ENTITY backButton.label "Назад">
+<!ENTITY backButton.tooltip "Папярэдняя старонка">
+<!ENTITY forwardButton.label "Наперад">
+<!ENTITY forwardButton.tooltip "Наступная старонка">
+<!ENTITY reloadButton.label "Абнавіць">
+<!ENTITY reloadButton.tooltip "Абнавіць гэтую старонку">
+<!ENTITY stopButton.label "Прыпыніць">
+<!ENTITY stopButton.tooltip "Прыпыніць загрузку гэтай старонкі">
+<!ENTITY searchButton.label "Пошук">
+<!ENTITY searchButton.tooltip "Увядзіце слова ў поле злева і пстрыкніце Пошук">
+<!ENTITY goButton.label "Пайсці">
+<!ENTITY goButton.tooltip "Увядзіце адрас месца ў поле злева і пстрыкніце Пайсці">
+<!ENTITY printButton.label "Друкаваць">
+<!ENTITY printButton.tooltip "Друкаваць гэту старонку">
+<!ENTITY throbber.tooltip "Пайсці на хатнюю старонку &vendorShortName;">
+<!ENTITY locationBar.tooltip "Увядзіце тэрмін, ключавое слова для пошуку ці адрас у сеціве">
+<!ENTITY locationBar.accesskey "в">
+<!ENTITY locationBar.title "Месцазнаходжанне">
+<!ENTITY proxyIcon.tooltip "Перацягніце і ўпусціце гэты значок, каб стварыць спасылку на гэту старонку">
+<!ENTITY internetKeyword.tooltip "Вярнуцца на папярэднюю старонку ці выбраць ключавое слова">
+<!ENTITY bookmarksButton.label "Закладкі">
+<!ENTITY bookmarksButton.tooltip "Спіс закладак">
+<!ENTITY homeButton.label "Дадому">
+<!ENTITY statusText.label "Гатова">
+<!ENTITY historyCmd.label "Гісторыя">
+<!ENTITY historyCmd.accesskey "і">
+<!ENTITY history.commandKey "h">
+<!ENTITY popupIcon.tooltiptext "Не затрымліваць вынырцы з гэтай пляцоўкі">
+<!ENTITY bidiSwitchPageDirectionItem.label "Пераключыць кірунак старонкі">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "к">

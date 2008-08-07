@@ -1,0 +1,96 @@
+<!--null-->
+<!ENTITY pageInfoWindow.dimensions "width: 100ch; height: 30em;">
+<!ENTITY copy.key "C">
+<!ENTITY copy.label "Капіяваць">
+<!ENTITY copy.accesskey "К">
+<!ENTITY selectall.key "A">
+<!ENTITY selectall.label "Вылучыць усё">
+<!ENTITY selectall.accesskey "у">
+<!ENTITY closeWindow.key "w">
+<!ENTITY generalTab "Агульныя">
+<!ENTITY generalTab.accesskey "А">
+<!ENTITY generalURL "Адрас:">
+<!ENTITY generalType "Тып:">
+<!ENTITY generalMode "Рэжым адлюстравання:">
+<!ENTITY generalSize "Памер:">
+<!ENTITY generalReferrer "Спасылальны URL:">
+<!ENTITY generalSource "Крыніца ў запасніку:">
+<!ENTITY generalModified "Зменена:">
+<!ENTITY generalEncoding "Кадаванне:">
+<!ENTITY generalMetaName "Назва">
+<!ENTITY generalMetaContent "Змест">
+<!ENTITY generalSecurityMore "Больш">
+<!ENTITY generalSecurityMore.accesskey "Б">
+<!ENTITY formsTab "Формы">
+<!ENTITY formsTab.accesskey "Ф">
+<!ENTITY formAction "Дзеянне формы">
+<!ENTITY formMethod "Сродак">
+<!ENTITY formName "Назва">
+<!ENTITY formNo "Не.">
+<!ENTITY formEncoding "Кадаванне:">
+<!ENTITY formTarget "Мэта:">
+<!ENTITY formFields "Палі:">
+<!ENTITY formLabel "Метка">
+<!ENTITY formFName "Назва поля">
+<!ENTITY formType "Тып">
+<!ENTITY formCValue "Цяперашняе значэнне">
+<!ENTITY linksTab "Спасылкі">
+<!ENTITY linksTab.accesskey "С">
+<!ENTITY linkNo "Не.">
+<!ENTITY linkName "Назва">
+<!ENTITY linkAddress "Адрас">
+<!ENTITY linkType "Тып">
+<!ENTITY linkTarget "Мэта">
+<!ENTITY linkAccessKey "Ключ доступу">
+<!ENTITY mediaTab "Медыя">
+<!ENTITY mediaTab.accesskey "М">
+<!ENTITY mediaURL "Адрас:">
+<!ENTITY mediaAlt "Дадатковы тэкст:">
+<!ENTITY mediaAltHeader "Дадатковы тэкст">
+<!ENTITY mediaAddress "Адрас">
+<!ENTITY mediaType "Тып">
+<!ENTITY mediaSize "Памер">
+<!ENTITY mediaCount "Колькасць">
+<!ENTITY mediaDimensions "Прызначаныя памеры:">
+<!ENTITY mediaPhysDimensions "Сапраўдныя памеры:">
+<!ENTITY mediaTitle "Загаловак:">
+<!ENTITY mediaLongdesc "Пашыранае апісанне:">
+<!ENTITY mediaBlockImage.accesskey "т">
+<!ENTITY mediaSaveAs "Захаваць як…">
+<!ENTITY mediaSaveAs.accesskey "З">
+<!ENTITY mediaSaveAs2.accesskey "я">
+<!ENTITY mediaPreview "Перадпрагляд медыя:">
+<!ENTITY feedTab "Жывільнікі">
+<!ENTITY feedTab.accesskey "Ж">
+<!ENTITY feedSubscribe "Падпісацца">
+<!ENTITY feedSubscribe.accesskey "П">
+<!ENTITY permTab "Дазволы">
+<!ENTITY permTab.accesskey "Д">
+<!ENTITY permUseDefault "Ужываць змоўчныя">
+<!ENTITY permAllow "Дазволіць">
+<!ENTITY permAllowSession "Дазволіць на час сэсіі">
+<!ENTITY permBlock "Затрымліваць">
+<!ENTITY permissionsFor "Дазволы для:">
+<!ENTITY permImage "Загружаць малюнкі">
+<!ENTITY permPopup "Адкрываць вокны-вынырцы">
+<!ENTITY permCookie "Усталёўваць біркі">
+<!ENTITY permInstall "Усталёўваць пашырэнні або тэмы">
+<!ENTITY securityTab "Бяспека">
+<!ENTITY securityTab.accesskey "Б">
+<!ENTITY securityHeader "Звесткі бяспекі для гэтай старонкі">
+<!ENTITY securityView.certView "Прагляд пасведчання">
+<!ENTITY securityView.accesskey "П">
+<!ENTITY securityView.unknown "Невядомы">
+<!ENTITY securityView.identity.header "Адмета пляцоўкі сеціва">
+<!ENTITY securityView.identity.owner "Уласнік:">
+<!ENTITY securityView.identity.domain "Пляцоўка сеціва:">
+<!ENTITY securityView.identity.verifier "Пацверджана:">
+<!ENTITY securityView.privacy.header "Адасабленне і гісторыя">
+<!ENTITY securityView.privacy.history "Наведваў я гэтую пляцоўку сеціва напярэдадні?">
+<!ENTITY securityView.privacy.cookies "Гэтая пляцоўка сеціва захоўвае звесткі (біркі) на маім кампутары?">
+<!ENTITY securityView.privacy.viewCookies "Прагляд бірак">
+<!ENTITY securityView.privacy.viewCookies.accessKey "б">
+<!ENTITY securityView.privacy.passwords "Захоўваў я якія паролі для гэтай пляцоўкі сеціва?">
+<!ENTITY securityView.privacy.viewPasswords "Прагляд захованых пароляў">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "п">
+<!ENTITY securityView.technical.header "Тэхнічныя падрабязнасці">

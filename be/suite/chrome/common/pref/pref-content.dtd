@@ -1,0 +1,20 @@
+<!ENTITY pref.content.title "Змесціва">
+<!ENTITY pref.content.description "Гэтыя наладжванні ўплываюць на тое, як пляцоўкі сеціва і змесціва лістоў адлюстроўваюцца ў &brandShortName;.">
+<!ENTITY siteIcons.label "Значкі пляцовак Сеціва">
+<!ENTITY useSiteIcons.label "Паказваць значкі пляцовак Сеціва">
+<!ENTITY useSiteIcons.accesskey "з">
+<!ENTITY useFavIcons.label "Нападліва шукаць значкі пляцовак Сеціва, калі пляцоўка не вызначае іх">
+<!ENTITY useFavIcons.accesskey "Н">
+<!ENTITY tbIconsDescription.label "Адлюстроўваць значкі пляцовак Сеціва ў меню і на прыладапаліцы закладак:">
+<!ENTITY tbIconsNever.label "Ніколі не паказваць значкі разам з закладкамі">
+<!ENTITY tbIconsNever.accesskey "Н">
+<!ENTITY tbIconsCache.label "Толькі тады, калі пляцоўка сеціва нядаўна загружалася">
+<!ENTITY tbIconsCache.accesskey "Т">
+<!ENTITY tbIconsAlways.label "Заўсёды загружаць значкі пляцовак сеціва для закладак">
+<!ENTITY tbIconsAlways.accesskey "ў">
+<!ENTITY enableAutomaticImageResizing.label "Сціскаць вялікія малюнкі да памераў акна азіральніка">
+<!ENTITY enableAutomaticImageResizing.accesskey "ц">
+<!ENTITY useSmoothScroll.label "Ужываць плаўнае пракручванне">
+<!ENTITY useSmoothScroll.accesskey "ж">
+<!ENTITY textZoomOnly.label "Павялічваць тэкст, а не старонкі цалкам">
+<!ENTITY textZoomOnly.accesskey "в">

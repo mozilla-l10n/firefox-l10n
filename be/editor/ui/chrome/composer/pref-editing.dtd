@@ -1,0 +1,23 @@
+<!ENTITY pref.editing.title "Наладжванні новых старонак">
+<!ENTITY authorName.label "Аўтар:">
+<!ENTITY authorName.accesskey "А">
+<!ENTITY pageColorHeader "Першапачатковы выгляд старонкі">
+<!ENTITY defaultColorsRadio.label "Першапачатковыя колеры чытача  (Не вызначае колеры старонкі )">
+<!ENTITY defaultColors.accesskey "з">
+<!ENTITY customColorsRadio.label "Ужываць выбраныя колеры:">
+<!ENTITY customColors.accesskey "в">
+<!ENTITY normalText.label "Звычайны тэкст">
+<!ENTITY normalText.accesskey "З">
+<!ENTITY linkText.label "Тэкст спасылкі">
+<!ENTITY linkText.accesskey "с">
+<!ENTITY activeLinkText.label "Тэкст актыўнай спасылкі">
+<!ENTITY activeLinkText.accesskey "к">
+<!ENTITY visitedLinkText.label "Тэкст наведанай спасылкі">
+<!ENTITY visitedLinkText.accesskey "н">
+<!ENTITY background.label "Фон:">
+<!ENTITY background.accesskey "Ф">
+<!ENTITY colon.character ":">
+<!ENTITY backgroundImage.label "Фонавы малюнак:">
+<!ENTITY backgroundImage.accesskey "м">
+<!ENTITY chooseFile.label "Выбраць файл…">
+<!ENTITY chooseFile.accesskey "В">

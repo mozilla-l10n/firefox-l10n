@@ -1,0 +1,69 @@
+<!ENTITY itemGeneral.label "Асноўныя">
+<!ENTITY itemUpdate.label "Абнаўленне">
+<!ENTITY itemNetworking.label "Сетка і дыскавая прастора">
+<!ENTITY itemCertificates.label "Пасведчанні">
+<!ENTITY showCondensedAddresses.label "Паказваць толькі адлюстравальнае імя для людзей з маёй адраснай кнігі">
+<!ENTITY showCondensedAddresses.accesskey "П">
+<!ENTITY autoMarkAsRead.label "Самастойна пазначаць лісты прачытанымі">
+<!ENTITY autoMarkAsRead.accesskey "ч">
+<!ENTITY markAsReadNoDelay.label "Неадкладна пры адлюстраванні">
+<!ENTITY markAsReadNoDelay.accesskey "Н">
+<!ENTITY markAsReadDelay.label "Пасля адлюстравання на працягу">
+<!ENTITY markAsReadDelay.accesskey "П">
+<!ENTITY secondsLabel.label "секундаў">
+<!ENTITY showFolderColumns.label "Паказваць пашыраныя слупкі ў шыбе папак">
+<!ENTITY showFolderColumns.accesskey "п">
+<!ENTITY rememberLastMsg.label "Памятаць апошні вылучаны ліст">
+<!ENTITY rememberLastMsg.accesskey "а">
+<!ENTITY openMsgIn.label "Адчыняць лісты ў:">
+<!ENTITY reuseExpRadio0.label "У новым акне лістоў">
+<!ENTITY reuseExpRadio0.accesskey "н">
+<!ENTITY reuseExpRadio1.label "У існым акне лістоў">
+<!ENTITY reuseExpRadio1.accesskey "і">
+<!ENTITY reuseExpRadio2.label "Новая ўстаўка для ліста">
+<!ENTITY reuseExpRadio2.accesskey "ў">
+<!ENTITY connectionTimeout.label "Часаспын злучэння:">
+<!ENTITY connectionTimeout.accesskey "з">
+<!ENTITY connectionSeconds.label "секундаў">
+<!ENTITY configEditDesc.label "Пашыраная наладка">
+<!ENTITY configEdit.label "Рэдактар наладкі…">
+<!ENTITY configEdit.accesskey "Р">
+<!ENTITY returnReceiptsInfo.label "Вызначыць, як &brandShortName; апрацоўвае квіткі атрымання">
+<!ENTITY showReturnReceipts.label "Квіткі атрымання…">
+<!ENTITY showReturnReceipts.accesskey "К">
+<!ENTITY autoCheck.label "Самастойна правяраць, ці існуюць абнаўленні да:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "р">
+<!ENTITY enableAddonsUpdate.label "Усталяваных дадаткаў">
+<!ENTITY enableAddonsUpdate.accesskey "У">
+<!ENTITY checkNow.label "Праверыць зараз…">
+<!ENTITY whenUpdatesFound.label "Калі знойдзены абнаўленні &brandShortName;:">
+<!ENTITY modeAskMe.label "Спытаць мяне, што я хачу зрабіць">
+<!ENTITY modeAskMe.accesskey "С">
+<!ENTITY modeAutomatic.label "Самастойна загружаць і ўсталёўваць абнаўленне">
+<!ENTITY modeAutomatic.accesskey "ў">
+<!ENTITY modeAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забароняцца мае дадаткі">
+<!ENTITY modeAutoAddonWarn.accesskey "П">
+<!ENTITY showUpdates.label "Паказаць гісторыю абнаўленняў">
+<!ENTITY showUpdates.accesskey "г">
+<!ENTITY showConnections.label "Злучэнне…">
+<!ENTITY showConnections.accesskey "З">
+<!ENTITY proxiesInfo.label "Вызначыць, як &brandShortName; мусіць злучацца з Інтэрнэтам.">
+<!ENTITY connectionsInfo.caption "Злучэнне">
+<!ENTITY offlineInfo.caption "Па-за сеткаю">
+<!ENTITY offlineInfo.label "Наладзіць працу па-за сеткаю">
+<!ENTITY showOffline.label "Па-за сеткаю…">
+<!ENTITY showOffline.accesskey "з">
+<!ENTITY Diskspace "Месца на дыску">
+<!ENTITY offlineCompact.label "Ушчыльняць папкі, калі яны захоўваюць больш, чым">
+<!ENTITY offlineCompact.accesskey "У">
+<!ENTITY kb.label "КБ">
+<!ENTITY certificatesInfo2.label "Кіраванне пасведчаннямі, спісамі адклікання, пацвярджэннем пасведчанняў і збудовамі бяспекі.">
+<!ENTITY viewCertificates.label "Прагляд пасведчанняў">
+<!ENTITY viewCertificates.accesskey "г">
+<!ENTITY viewCRLs.label "Спісы адклікання">
+<!ENTITY viewCRLs.accesskey "а">
+<!ENTITY validation.label "Пацвярджэнне">
+<!ENTITY validation.accesskey "ц">
+<!ENTITY viewSecurityDevices.label "Збудовы бяспекі">
+<!ENTITY viewSecurityDevices.accesskey "б">

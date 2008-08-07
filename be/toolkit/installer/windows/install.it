@@ -1,0 +1,147 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=204
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&Добра
+OK=Добра
+CANCEL=Скасаваць
+CANCEL_=&Скасаваць
+NEXT_=&Далей >
+BACK_=< &Назад
+IGNORE_=&Ігнараваць
+PROXY_MESSAGE=Каб наладзіць паслугач-пасярэднік для гэтай загрузкі, пстрыкніце кнопку Злучэнне…  
+PROXY_BUTTON=&Злучэнне…
+PROXYSETTINGS=Наладжванні пасярэдніка:
+PROXYSETTINGS_=Наладжванні &пасярэдніка
+SERVER=Паслугач:
+PORT=Порт:
+USERID=Імя карыстальніка:
+PASSWORD=Пароль:
+SELECTDIRECTORY=Выберыце дырэкторыю
+DIRECTORIES_=&Дырэкторыі:
+DRIVES_=Дыс&кі:
+STATUS=Засталося:
+FILE=Файл:
+URL=URL:
+TO=Шлях:
+ACCEPT_=&Прыняць
+DECLINE_=&Адхіліць
+PROGRAMFOLDER_=Папка меню "&Праграмы":
+EXISTINGFOLDERS_=&Існыя папкі:
+SETUPMESSAGE=Усталявальнік скончыў капіяваць файлы на ваш кампутар.  Вы мусіце перазапусціць Windows або ваш кампутар каб пачаць ужываць $ProductNameInternal$. Выберыце адзін з наступных параметраў і пстрыкніце Добра.
+RESTART=Перазапуск
+YESRESTART=Так, я хачу перазапусціць мой кампутар зараз.
+NORESTART=Не, я перазапушчу мой кампутар пазней.
+ADDITIONALCOMPONENTS_=&Дадатковыя часткі:
+DESCRIPTION=Апісанне
+TOTALDOWNLOADSIZE=Агульны памер загрузкі:
+SPACEAVAILABLE=Даступная прастора:
+COMPONENTS_=&Часткі:
+BROWSEINFO=Выберыце папку для ўсталявання $ProductName$:
+DESTINATIONDIRECTORY=Усталявальная папка
+BROWSE_=&Агляд…
+DOWNLOADSIZE=Памер загрузкі: %u КБ
+CURRENTSETTINGS=Цяперашнія наладжванні:
+INSTALLFOLDER=…у наступнае месца:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s, і:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Усталяваць
+DELETE_=&Выдаліць
+CONTINUE_=&Працяг
+SKIP_=&Прапусціць
+README=Пра&чытаць мяне
+PAUSE_=&Прыпыніць
+RESUME_=&Працягнуць
+CHECKED=Адзначаны
+UNCHECKED=Неадзначаны
+
+EXTRACTING=Выняцце…
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Немагчыма стварыць дыялог %s.
+ERROR_FAILED=Няўдача %s.
+ERROR_FILE_NOT_FOUND=Файл не знойдзены: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=Няўдача GetSystemDirectory().
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =Няўдача GetWindowsDirectory().
+DLGQUITTITLE=Выхад з усталявальніка
+DLGQUITMSG=Вы не скочылі ўсталяванне $ProductName$. Калі вы закрыеце Ўсталявальнік зараз, $ProductName$ не будзе ўсталяваны. Вы сапраўды хочаце скасаваць усталяванне?
+DLG_REBOOT_TITLE=Перазапуск Windows
+ERROR_GETPROCADDRESS=Няўдача GetProcAddress() для %s.
+ERROR_WRITEPRIVATEPROFILESTRING=Няўдача WritePrivateProfileString() для файла %s
+MSG_RETRIEVE_CONFIGINI=Пачакайце, калі ласка, пакуль усталявальнік не атрымае яго наладкавы сцэнар з павуціны…
+ERROR_CREATE_TEMP_DIR=Усталявальнік не здолеў стварыць часовую дырэкторыю: %s
+DLGBROWSETITLE=Выберыце дырэкторыю
+ERROR_DETERMINING_DISK_SPACE=Немагчыма вызначыць даступную дыскавую прастору для: %s
+DLG_DISK_SPACE_CHECK_TITLE=Праверка дыскавай прасторы
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Усталявальнік выявіў, што не хапае дыскавай прасторы для ўсталявання на %s, шлях: %sПатрабуецца: %sДаступна: %sПстрыкніце Паўтарыць, калі вызвалена месца на дыску, або Скасаваць каб адмяніць усталяванне.
+DLG_DISK_SPACE_CHECK_MSG=Усталявальнік выявіў, што не хапае дыскавай прасторы для ўсталявання на %s, шлях: %sПатрабуецца: %sДаступна: %sПстрыкніце Добра каб вярнуцца і выбраць іншы шлях для ўсталявання.
+ERROR_CREATE_DIRECTORY=Немагчыма стварыць папку: %sУпэўніцеся, што вы маеце дазвол на стварэнне гэтай папкі.
+ERROR_MESSAGE_TITLE=Памылка ўсталявання $ProductNameInternal$
+STR_FILE_NUMBER=Лік файлаў:
+STR_FILENAME=Назва файла:
+MSG_SMARTUPDATE_START=Падрыхтоўка ўсталявання, пачакайце, калі ласка…
+MSG_CONFIGURING=Наладжванне %s, пачакайце, калі ласка…
+ERROR_XPI_INSTALL=Здарылася памылка падчас усталявання
+ERROR_SETUP_REQUIREMENT=$ProductName$ можа працаваць толькі на Windows 95 або навейшай сістэме. Усталявальнік зараз закрыецца.
+DLG_EXTRACTING_TITLE=Усталяванне $ProductName$ - Развіццё
+STR_PROCESSINGFILE=Падрыхтоўка файла: %s
+STR_INSTALLING=Зараз усталёўваецца %s
+STR_COPYINGFILE=Капіяванне файла: %s
+MB_WARNING_STR=Папярэджанне
+MB_MESSAGE_STR=Паведамленне
+MB_ATTENTION_STR=Увага
+MSG_CREATE_DIRECTORY=Наступная дырэкторыя не існуе:%sВы хочаце стварыць яе?
+STR_CREATE_DIRECTORY=Стварыць дырэкторыю?
+ERROR_PROGRAM_FOLDER_NAME=Уведзена недапушчальная назва папкі меню "Праграмы".
+CB_DEFAULT=Змоўчны
+ERROR_DESTINATION_PATH=Уведзены недапушчальны шлях.
+STR_SETUP_TYPE=Тып усталявання:
+STR_SELECTED_COMPONENTS=Вылучаныя часткі:
+STR_DESTINATION_DIRECTORY=Усталявальная дырэкторыя:
+STR_PROGRAM_FOLDER=Папка меню "Праграмы":
+STR_DELETING_DESTINATION_DIR=Выдаленне ўсталявальнай дырэкторыі, каб выканаць абнаўленне, пачакайце, калі ласка…
+STR_SETUP=Усталяванне
+STR_DOWNLOAD_SITE=Загрузка з пляцоўкі:
+STR_SAVE_INSTALLER_FILES=Захаваць выпампаваныя файлы і файлы праграмы ўсталявання ў:
+MSG_INIT_SETUP=Падрыхтоўка ўсталявальніка, пачакайце, калі ласка…
+STR_MESSAGEBOX_TITLE=Усталяванне %s
+ERROR_GETVERSION=Няўдача GetVersionEx()!
+DLG_USAGE_TITLE=Ужыванне
+
+STATUS_EXTRACTING=Выняцце %s
+STATUS_LAUNCHING_SETUP=Запуск усталявальніка…
+ERROR_FILE_WRITE=Няўдача запісу файла %s
+TITLE=Усталяванне
+ERROR_OUT_OF_MEMORY=Па-за памяццю!
+
+ERROR_DLL_LOAD=Немагчыма загрузіць %s
+ERROR_STRING_LOAD=Немагчыма загрузіць радковы рэсурс %d
+ERROR_STRING_NULL=Выяўлены пусты паказальнік.
+ERROR_GLOBALALLOC=Памылка размеркавання памяці.
+MSG_FORCE_QUIT_PROCESS=Усталявальнік заўважыў, што %s (%s) яшчэ выконваецца. Пстрыкніце Добра каб закрыць %s і працягнуць усталяванне. Інакш, скарыстайце кіраўнік задач Windows каб зачыніць %s, тады пстрыкніце Добра каб працягнуць усталяванне.
+MSG_FORCE_QUIT_PROCESS_FAILED=Усталявальнік зараз зачыніцца. Усталяванне не можа быць працягнута, бо %s (%s) яшчэ выконваецца. Паспрабуйце ўручную закрыць %s з дапамогаю кіраўніка задач Windows, тады запусціце ўсталявальнік зноў.
+ERROR_PATH_WITHIN_WINDIR=$ProductName$ не можа быць усталяваны ў папку, якая знаходзіцца ў папцы Windows. Выберыце, калі ласка, іншую папку.
+

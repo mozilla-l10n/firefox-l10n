@@ -1,0 +1,20 @@
+<!ENTITY printButton.label "Друкаваць">
+<!ENTITY printDialog.title "Друкаваць">
+<!ENTITY fpDialog.title "Захаваць файл">
+<!ENTITY fileCheck.label "Друкаваць у файл">
+<!ENTITY propertiesButton.label "Уласцівасці…">
+<!ENTITY descText.label "Апісанне прынтара:">
+<!ENTITY printer.label "Прынтар">
+<!ENTITY printerInput.label "Назва прынтара:">
+<!ENTITY printrangeGroup.label "Дыяпазон друку">
+<!ENTITY allpagesRadio.label "Усе старонкі">
+<!ENTITY rangeRadio.label "Старонкі">
+<!ENTITY frompageInput.label "з">
+<!ENTITY topageInput.label "да">
+<!ENTITY selectionRadio.label "Вылучэнне">
+<!ENTITY copies.label "Копіі">
+<!ENTITY numCopies.label "Колькасць копіяў:">
+<!ENTITY printframeGroup.label "Друкаваць рамкі">
+<!ENTITY aslaidoutRadio.label "Так, як размешчаны на экране">
+<!ENTITY selectedframeRadio.label "Вылучаная рамка">
+<!ENTITY eachframesepRadio.label "Кожная рамка асобна">

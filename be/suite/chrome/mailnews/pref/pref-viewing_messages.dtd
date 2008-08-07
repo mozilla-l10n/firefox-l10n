@@ -1,0 +1,42 @@
+<!--null-->
+<!ENTITY pref.viewing.messages.title "Адлюстраванне лістоў">
+<!ENTITY style.label "Стыль:">
+<!ENTITY style.accesskey "С">
+<!ENTITY regular.label "Звычайны">
+<!ENTITY bold.label "Выразны">
+<!ENTITY italic.label "Рукапісны">
+<!ENTITY boldItalic.label "Выразны рукапісны">
+<!ENTITY size.label "Памер:">
+<!ENTITY size.accesskey "П">
+<!ENTITY bigger.label "Большы">
+<!ENTITY smaller.label "Меншы">
+<!ENTITY color.label "Колер:">
+<!ENTITY color.accesskey "К">
+<!ENTITY displayPlainText.caption "Простатэкставыя лісты">
+<!ENTITY plainTextFont.label "Ужываць наступную шырыню шрыфту:">
+<!ENTITY displayQuoted.label "Наладжванні лістоў-вытрымак:">
+<!ENTITY fixedWidth.label "Нязменны">
+<!ENTITY fixedWidth.accesskey "н">
+<!ENTITY variableWidth.label "Зменны">
+<!ENTITY variableWidth.accesskey "м">
+<!ENTITY readingMessagesHeader.label "Для атрыманых лістоў">
+<!ENTITY messageWrapping.label "Загінанне лістоў">
+<!ENTITY wrapInMsg.label "Загінаць тэкст, каб змяшчаўся ў шырыні акна">
+<!ENTITY wrapInMsg.accesskey "г">
+<!ENTITY convertEmoticons.label "Адлюстроўваць пачуццезнакі графічна">
+<!ENTITY convertEmoticons.accesskey "ч">
+<!ENTITY generalMessageDisplay.caption "Агульныя">
+<!ENTITY autoMarkAsRead.label "Самастойна пазначаць лісты прачытанымі">
+<!ENTITY autoMarkAsRead.accesskey "ч">
+<!ENTITY markAsReadNoDelay.label "Неадкладна пры адлюстраванні">
+<!ENTITY markAsReadNoDelay.accesskey "Н">
+<!ENTITY markAsReadDelay.label "Пасля адлюстравання на працягу">
+<!ENTITY markAsReadDelay.accesskey "П">
+<!ENTITY secondsLabel.label "секундаў">
+<!ENTITY openingMessages.label "Калі лісты адчыняюцца, адлюстроўваць іх у:">
+<!ENTITY newWindowRadio.label "Новым акне лістоў">
+<!ENTITY newWindowRadio.accesskey "н">
+<!ENTITY existingWindowRadio.label "Існым акне лістоў">
+<!ENTITY existingWindowRadio.accesskey "І">
+<!ENTITY disableContent.label "Затрымліваць малюнкі і іншае змесціва з адлеглых крыніцаў">
+<!ENTITY disableContent.accesskey "З">

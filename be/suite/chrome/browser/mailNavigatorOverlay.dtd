@@ -1,0 +1,17 @@
+<!ENTITY newMessageCmd.label "Ліст">
+<!ENTITY newMessageCmd.accesskey "Л">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newCardCmd.label "Картку адраснай кнігі…">
+<!ENTITY newCardCmd.accesskey "К">
+<!ENTITY sendPage.label "Даслаць старонку…">
+<!ENTITY sendPage.accesskey "Д">
+<!ENTITY contextSendThisPage.label "Даслаць гэтую старонку…">
+<!ENTITY contextSendThisPage.accesskey "с">
+<!ENTITY contextSendThisLink.label "Даслаць гэтую спасылку…">
+<!ENTITY contextSendThisLink.accesskey "у">
+<!ENTITY contextSendImage.label "Даслаць малюнак…">
+<!ENTITY contextSendImage.accesskey "М">
+<!ENTITY contextSendFrame.label "Даслаць рамку…">
+<!ENTITY contextSendFrame.accesskey "ц">
+<!ENTITY sendLinkCmd.label "Даслаць спасылку…">
+<!ENTITY sendLinkCmd.accesskey "п">

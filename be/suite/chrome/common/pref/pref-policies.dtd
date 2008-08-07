@@ -1,0 +1,13 @@
+<!ENTITY pref.policies.title "Палітыкі бяспекі">
+<!ENTITY zoneIntro.label "&brandShortName; дазваляе вам ствараць палітыкі, каб вызначыць доступ, які маюць пэўныя пляцоўкі сеціва да розных функцыянальнасцяў, уключаючы сцэнары і Java.">
+<!ENTITY policies.label "Палітыкі:">
+<!ENTITY default.label "Змоўчная палітыка">
+<!ENTITY allWebsites.label "Усе пляцоўкі Сеціва">
+<!ENTITY trusted.label "Надзейныя пляцоўкі">
+<!ENTITY annoyances.label "Агульныя нездавальненні">
+<!ENTITY restricted.label "Абмежаваныя пляцоўкі">
+<!ENTITY addSite.label "Дадаць пляцоўку…">
+<!ENTITY addSite.accesskey "Д">
+<!ENTITY settings.label "Наладжванні для">
+<!ENTITY settings.accesskey "л">
+<!ENTITY description.label "Апісанне палітыкі:">

@@ -1,0 +1,33 @@
+<!ENTITY systemDefaults.label "Сістэмныя змоўчкі">
+<!ENTITY alwaysCheckDefault.label "Заўсёды правяраць пры запуску, ці з'яўляецца &brandShortName; змоўчным спажыўцом пошты">
+<!ENTITY alwaysCheckDefault.accesskey "ў">
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Праверыць зараз">
+<!ENTITY checkNow.accesskey "р">
+<!ENTITY messengerStartPage.label "Пачатковая старонка &brandShortName;">
+<!ENTITY enableStartPage.label "Паказваць пачатковую старонку ў абсягу ліста, калі &brandShortName; запускаецца">
+<!ENTITY enableStartPage.accesskey "б">
+<!ENTITY location.label "Месцазнаходжанне(і):">
+<!ENTITY location1.accesskey "е">
+<!ENTITY useDefault.label "Узнавіць першапачатковую">
+<!ENTITY useDefault.accesskey "У">
+<!ENTITY bounceSystemDockIcon.label "Ажывіць значок у латку">
+<!ENTITY bounceSystemDockIcon.accesskey "а">
+<!ENTITY newMessagesArrive.label "Калі прыбываюць новыя лісты:">
+<!ENTITY playSound.label "Граць гук">
+<!ENTITY playSound1.accesskey "г">
+<!ENTITY showAnimatedAlert.label "Паказаць папярэджанне">
+<!ENTITY showAnimatedAlert.accesskey "П">
+<!ENTITY customizeMailAlert.label "Наладзіць…">
+<!ENTITY customizeMailAlert.accesskey "Н">
+<!ENTITY soundNotification1.caption "Гук">
+<!ENTITY play.label "Граць">
+<!ENTITY play.accesskey "Г">
+<!ENTITY systemsound.label "Змоўчны сістэмны гук для новай пошты">
+<!ENTITY systemsoundMac.label "Гук сістэмнага папярэджання">
+<!ENTITY systemsoundMac.accesskey "с">
+<!ENTITY systemsound.accesskey "З">
+<!ENTITY customsound.label "Карыстацца наступным файлам гуку">
+<!ENTITY customsound.accesskey "К">
+<!ENTITY browse.label "Агляд…">
+<!ENTITY browse.accesskey "А">

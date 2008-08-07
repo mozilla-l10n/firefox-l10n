@@ -1,0 +1,36 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Мінімізаваць">
+<!ENTITY bringAllToFront.label "Выцягнуць усе наперад">
+<!ENTITY zoomWindow.label "Павялічыць">
+<!ENTITY windowMenu.label "Акно">
+<!ENTITY helpMenu.label "Даведка">
+<!ENTITY helpMenu.accesskey "Д">
+<!ENTITY helpMenuWin.label "Даведка">
+<!ENTITY helpMenuWin.accesskey "Д">
+<!ENTITY aboutCmd.label "Пра &brandFullName;">
+<!ENTITY aboutCmd.accesskey "П">
+<!ENTITY helpContents.label "Змест даведкі">
+<!ENTITY helpContents.accesskey "д">
+<!ENTITY helpContentsMac.label "Даведка &brandShortName;">
+<!ENTITY helpForIEUsers.label "Для карыстальнікаў Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.commandkey "/">
+<!ENTITY openHelpMac.modifiers "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey "?">
+<!ENTITY openHelpMac.frontendModifiers "accel">
+<!ENTITY helpReleaseNotes.label "Заўвагі пра выданне">
+<!ENTITY helpReleaseNotes.accesskey "З">
+<!ENTITY updateCmd.label "Праверка існавання абнаўленняў…">
+<!ENTITY updateCmd.accesskey "а">
+<!ENTITY preferencesCmdMac.label "Перавагі…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel,shift">
+<!ENTITY servicesMenuMac.label "Службы">
+<!ENTITY hideThisAppCmdMac.label "Схаваць &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "accel,shift">
+<!ENTITY hideOtherAppsCmdMac.label "Схаваць іншыя">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY showAllAppsCmdMac.label "Паказаць усе">

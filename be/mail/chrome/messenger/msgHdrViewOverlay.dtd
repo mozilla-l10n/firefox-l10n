@@ -1,0 +1,37 @@
+<!--null-->
+<!ENTITY toField.label "Да:">
+<!ENTITY fromField.label "Ад:">
+<!ENTITY senderField.label "Адпраўнік:">
+<!ENTITY organizationField.label "Установа:">
+<!ENTITY replyToField.label "Зваротны адрас:">
+<!ENTITY subjectField.label "Тэма:">
+<!ENTITY ccField.label "Са:">
+<!ENTITY bccField.label "Сса:">
+<!ENTITY newsgroupsField.label "Навінакупы:">
+<!ENTITY followupToField.label "Водгук-Да: ">
+<!ENTITY tagsHdr.label "Меткі:">
+<!ENTITY dateField.label "Дата:">
+<!ENTITY userAgentField.label "Праграма">
+<!ENTITY referencesField.label "Спасылкі:">
+<!ENTITY messageIdField.label "Вызначальнік-ліста:">
+<!ENTITY inReplyToField.label "У-адказ-на:">
+<!ENTITY originalWebsite.label "Пляцоўка сеціва:">
+<!ENTITY saveAll.label "Захаваць усе…">
+<!ENTITY editMessage.label "Рэдагаваць чарнавік…">
+<!ENTITY openAttachmentCmd.label "Адчыніць">
+<!ENTITY openAttachmentCmd.accesskey "А">
+<!ENTITY saveAsAttachmentCmd.label "Захаваць як…">
+<!ENTITY saveAsAttachmentCmd.accesskey "Я">
+<!ENTITY detachAttachmentCmd.label "Адлучыць…">
+<!ENTITY deleteAttachmentCmd.label "Выдаліць">
+<!ENTITY saveAllAttachmentsCmd.label "Захаваць усе…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "З">
+<!ENTITY detachAllAttachmentsCmd.label "Адлучыць усе…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "А">
+<!ENTITY deleteAllAttachmentsCmd.label "Выдаліць усе…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "В">
+<!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyLinkCmd.accesskey "К">
+<!ENTITY CopyMessageId.label "Капіяваць вызначальнік-ліста:">
+<!ENTITY OpenMessageForMsgId.label "Адкрыць ліст з вызначальнікам:">
+<!ENTITY OpenBrowserWithMsgId.label "Адчыніць азіральнік з вызначальнікам-ліста">

@@ -1,0 +1,12 @@
+<!ENTITY pref.history.title "Гісторыя">
+<!ENTITY pref.history.caption "Гісторыя азірання">
+<!ENTITY historyPages.label "Гісторыя – гэта спіс напярэдадні наведаных старонак.">
+<!ENTITY pageHis.label "Памятаць наведаныя старонкі на працягу">
+<!ENTITY pageHis.accesskey "м">
+<!ENTITY days.label "дзён">
+<!ENTITY clearHistory.label "Знішчыць гісторыю">
+<!ENTITY clearHistory.accesskey "н">
+<!ENTITY locationBarHistory.caption "Гісторыя паліцы месцазнаходжання">
+<!ENTITY clearLocationBar.label "Знішчыць спіс пляцовак, якія захоўваюцца ў меню на адраснай паліцы.">
+<!ENTITY clearLocationBarButton.label "Ачысціць паліцу адрасоў">
+<!ENTITY clearLocationBarButton.accesskey "ч">

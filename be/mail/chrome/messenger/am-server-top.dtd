@@ -1,0 +1,77 @@
+<!ENTITY securitySettings.label "Наладкі бяспекі">
+<!ENTITY serverSettings.label "Наладжванні паслугача">
+<!ENTITY popServer.label "Паштовы паслугач POP">
+<!ENTITY imapServer.label "Паштовы паслугач IMAP">
+<!ENTITY newsServer.label "Паслугач навінаў (NNTP)">
+<!ENTITY webmail.label "Рахунак Сеціва-Пошты">
+<!ENTITY serverType.label "Тып паслугача:">
+<!ENTITY serverName.label "Назва паслугача:">
+<!ENTITY serverName.accesskey "Н">
+<!ENTITY userName.label "Імя карыстальніка:">
+<!ENTITY userName.accesskey "і">
+<!ENTITY port.label "Порт:">
+<!ENTITY port.accesskey "П">
+<!ENTITY serverPortDefault.label "Змоўчны:">
+<!ENTITY savePassword.label "Запамінаць пароль">
+<!ENTITY biffStart.label "Правяраць, ці існуюць новыя лісты, кожныя">
+<!ENTITY biffStart.accesskey "а">
+<!ENTITY biffEnd.label "хвілінаў">
+<!ENTITY isSecure.label "Карыстацца бяспечным злучэннем (SSL)">
+<!ENTITY isSecure.accesskey "б">
+<!ENTITY socketType.label "Ужываць бяспечнае злучэнне:">
+<!ENTITY neverSecure.label "Ніколі">
+<!ENTITY neverSecure.accesskey "н">
+<!ENTITY sometimesSecure.label "TLS, калі даступны">
+<!ENTITY sometimesSecure.accesskey "д">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Ужываць бяспечнае апазнаванне">
+<!ENTITY useSecAuth.accesskey "б">
+<!ENTITY leaveOnServer.label "Пакідаць лісты на паслугачы">
+<!ENTITY leaveOnServer.accesskey "п">
+<!ENTITY headersOnly.label "Атрымаць толькі загалоўкі">
+<!ENTITY headersOnly.accesskey "т">
+<!ENTITY deleteByAgeFromServer.label "Не болей чым на">
+<!ENTITY deleteByAgeFromServer.accesskey "ч">
+<!ENTITY daysEnd.label "дзён">
+<!ENTITY deleteOnServer2.label "Пакуль я не выдалю іх">
+<!ENTITY deleteOnServer2.accesskey "д">
+<!ENTITY downloadOnBiff.label "Самастойна загружаць новыя лісты">
+<!ENTITY downloadOnBiff.accesskey "С">
+<!ENTITY hostname.label "Назва трымальніка паслугача">
+<!ENTITY username.label "Ваша ўваходнае імя">
+<!ENTITY popServerTitle.label "Звесткі аб паслугачы POP">
+<!ENTITY deleteMessagePrefix.label "Калі я выдаляю ліст:">
+<!ENTITY modelMoveToTrash.label "Перамясціць яго ў гэтую папку:">
+<!ENTITY modelMoveToTrash.accesskey "е">
+<!ENTITY modelMarkDeleted.label "Толькі пазначыць яго выдаленым">
+<!ENTITY modelMarkDeleted.accesskey "з">
+<!ENTITY modelDeleteImmediately.label "Выдаліць яго неадкладна">
+<!ENTITY modelDeleteImmediately.accesskey "н">
+<!ENTITY expungeOnExit.label "Прыбраць (&quot;Знішчыць&quot;) папку Атрыманыя перад выхадам">
+<!ENTITY expungeOnExit.accesskey "П">
+<!ENTITY emptyTrashOnExit.label "Выкідаць смецце перад выхадам">
+<!ENTITY emptyTrashOnExit.accesskey "ы">
+<!ENTITY loginAtStartup.label "Правяраць, ці ёсць новыя лісты, пасля запуску">
+<!ENTITY loginAtStartup.accesskey "у">
+<!ENTITY maxMessagesStart.label "Пытацца мяне перад загрузкай больш чым">
+<!ENTITY maxMessagesStart.accesskey "а">
+<!ENTITY maxMessagesEnd.label "лістоў">
+<!ENTITY alwaysAuthenticate.label "Заўсёды патрабаваць апазнаванне ў час злучэння з гэтым паслугачом">
+<!ENTITY alwaysAuthenticate.accesskey "ў">
+<!ENTITY newsrcFilePath.label "файл newsrc:">
+<!ENTITY localPath.label "Мясцовая дырэкторыя:">
+<!ENTITY abbreviate.label "Паказваць назвы навінакупаў у шыбе паштовай папкі як:">
+<!ENTITY abbreviateOn.label "Цэлыя назвы (Напрыклад, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Скарочаныя назвы (Напрыклад, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Пашыраны…">
+<!ENTITY advancedButton.accesskey "ш">
+<!ENTITY serverDefaultCharset.label "Змоўчная кадоўка знакаў:">
+<!ENTITY localFolderPicker.label "Вылучыць мясцовую дырэкторыю">
+<!ENTITY browseFolder.label "Агляд…">
+<!ENTITY browseFolder.accesskey "г">
+<!ENTITY newsrcPicker.label "Выбраць файл newsrc">
+<!ENTITY browseNewsrc.label "Агляд…">
+<!ENTITY browseNewsrc.accesskey "г">

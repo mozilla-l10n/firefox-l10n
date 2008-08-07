@@ -1,0 +1,301 @@
+<!ENTITY mainWindow.title "&brandShortName;">
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY tabCmd.label "Новая ўстаўка">
+<!ENTITY tabCmd.accesskey "т">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Адчыніць месца…">
+<!ENTITY openLocationCmd.accesskey "М">
+<!ENTITY openFileCmd.label "Адчыніць файл…">
+<!ENTITY openFileCmd.accesskey "Ф">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
+<!ENTITY printSetupCmd.accesskey "л">
+<!ENTITY printPreviewCmd.label "Папярэдні прагляд">
+<!ENTITY printPreviewCmd.accesskey "г">
+<!ENTITY printCmd.label "Друкаваць…">
+<!ENTITY printCmd.accesskey "Д">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Імпарт…">
+<!ENTITY import.accesskey "І">
+<!ENTITY goOfflineCmd.label "Праца па-за сеткаю">
+<!ENTITY goOfflineCmd.accesskey "з">
+<!ENTITY navbarCmd.label "Паліца з прыладамі навігацыі">
+<!ENTITY navbarCmd.accesskey "Н">
+<!ENTITY personalbarCmd.label "Паліца з прыладамі закладак">
+<!ENTITY personalbarCmd.accesskey "З">
+<!ENTITY bookmarksToolbarItem.label "Адзінкі паліцы прыладаў закладак">
+<!ENTITY taskbarCmd.label "Паліца з статусам">
+<!ENTITY taskbarCmd.accesskey "С">
+<!ENTITY pageSourceCmd.label "Зыходнік старонкі">
+<!ENTITY pageSourceCmd.accesskey "ы">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Звесткі пра старонку">
+<!ENTITY pageInfoCmd.accesskey "З">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Увесь экран">
+<!ENTITY fullScreenCmd.accesskey "У">
+<!ENTITY fullScreenMinimize.tooltip "Мінімізаваць">
+<!ENTITY fullScreenRestore.tooltip "Аднавіць">
+<!ENTITY fullScreenClose.tooltip "Зачыніць">
+<!ENTITY fullScreenAutohide.label "Схаваць прыладапаліцы">
+<!ENTITY fullScreenAutohide.accesskey "х">
+<!ENTITY fullScreenExit.label "Выйсці з паўнаэкраннага рэжыму">
+<!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY closeWindow.label "Зачыніць акно">
+<!ENTITY closeWindow.accesskey "ч">
+<!ENTITY bookmarksMenu.label "Закладкі">
+<!ENTITY bookmarksMenu.accesskey "З">
+<!ENTITY bookmarkThisPageCmd.label "Дадаць закладку да старонкі">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "Падпісацца на гэтую старонку">
+<!ENTITY subscribeToPageMenuitem.label "Падпісацца на гэтую старонку…">
+<!ENTITY addCurPagesCmd.label "Дадаць закладкі да ўсіх уставак…">
+<!ENTITY organizeBookmarks.label "Уладкаваць закладкі…">
+<!ENTITY bookmarkAllCmd.label "Дадаць закладкі да ўсіх уставак…">
+<!ENTITY backCmd.label "Назад">
+<!ENTITY backCmd.accesskey "з">
+<!ENTITY backButton.tooltip "Папярэдняя старонка">
+<!ENTITY forwardCmd.label "Наперад">
+<!ENTITY forwardCmd.accesskey "п">
+<!ENTITY forwardButton.tooltip "Наступная старонка">
+<!ENTITY backForwardMenu.tooltip "Нядаўнія старонкі">
+<!ENTITY reloadCmd.label "Абнавіць">
+<!ENTITY reloadCmd.accesskey "в">
+<!ENTITY reloadButton.tooltip "Абнавіць гэтую старонку">
+<!ENTITY stopCmd.label "Прыпыніць">
+<!ENTITY stopCmd.accesskey "ы">
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY stopButton.tooltip "Прыпыніць загрузку гэтай старонкі">
+<!ENTITY goEndCap.tooltip "Пайсці па адрасу, які на паліцы месцазнаходжання">
+<!ENTITY printButton.label "Друкаваць">
+<!ENTITY printButton.tooltip "Друкаваць гэтую старонку">
+<!ENTITY locationItem.title "Месцазнаходжанне">
+<!ENTITY searchItem.title "Пошук">
+<!ENTITY throbberItem.title "Паказальнік чыннасці">
+<!ENTITY bookmarksItem.title "Закладкі">
+<!ENTITY homeButton.label "Дадому">
+<!ENTITY bookmarksButton.label "Закладкі">
+<!ENTITY bookmarksButton.tooltip "Паказаць вашы закладкі">
+<!ENTITY bookmarksSidebarCmd.accesskey "З">
+<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY historyButton.label "Гісторыя">
+<!ENTITY historyButton.tooltip "Адлюстраваць старонкі, якія вы праглядвалі нядаўна">
+<!ENTITY historySidebarCmd.accesskey "Г">
+<!ENTITY historySidebarCmd.commandKey "h">
+<!ENTITY toolsMenu.label "Прылады">
+<!ENTITY toolsMenu.accesskey "л">
+<!ENTITY keywordfield.label "Дадаць ключавое слова для гэтага пошуку…">
+<!ENTITY keywordfield.accesskey "К">
+<!ENTITY search.label "Пошук у Сеціве">
+<!ENTITY search.accesskey "ш">
+<!ENTITY downloads.label "Загрузкі">
+<!ENTITY downloads.tooltip "Адлюстроўваць развіццё дзейных загрузак">
+<!ENTITY downloads.accesskey "З">
+<!ENTITY downloads.commandkey "j">
+<!ENTITY downloadsUnix.commandkey "y">
+<!ENTITY addons.label "Дадаткі">
+<!ENTITY addons.tooltip "Прагляд і кіраванне ўсталяванымі дадаткамі">
+<!ENTITY addons.accesskey "Д">
+<!ENTITY errorConsoleCmd.label "Кансоль памылак">
+<!ENTITY errorConsoleCmd.accesskey "К">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY fileMenu.label "Файл">
+<!ENTITY fileMenu.accesskey "Ф">
+<!ENTITY newNavigatorCmd.label "Новае акно">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "Н">
+<!ENTITY editMenu.label "Праўка">
+<!ENTITY editMenu.accesskey "р">
+<!ENTITY undoCmd.label "Адмяніць">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "м">
+<!ENTITY redoCmd.label "Вярнуць">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "р">
+<!ENTITY cutCmd.label "Выразаць">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "р">
+<!ENTITY copyCmd.label "Капіяваць">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY pasteCmd.label "Уставіць">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "У">
+<!ENTITY deleteCmd.label "Выдаліць">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "д">
+<!ENTITY selectAllCmd.label "Вылучыць усё">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "ё">
+<!ENTITY preferencesCmd.label "Наладкі…">
+<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY preferencesCmdUnix.label "Перавагі">
+<!ENTITY preferencesCmdUnix.accesskey "П">
+<!ENTITY clearPrivateDataCmd.label "Ачысціць прыватныя даныя">
+<!ENTITY clearPrivateDataCmd.accesskey "п">
+<!ENTITY viewMenu.label "Прагляд">
+<!ENTITY viewMenu.accesskey "П">
+<!ENTITY viewToolbarsMenu.label "Паліцы прыладаў">
+<!ENTITY viewToolbarsMenu.accesskey "л">
+<!ENTITY viewSidebarMenu.label "Палічка">
+<!ENTITY viewSidebarMenu.accesskey "П">
+<!ENTITY viewCustomizeToolbar.label "Наладзіць…">
+<!ENTITY viewCustomizeToolbar.accesskey "л">
+<!ENTITY historyMenu.label "Гісторыя">
+<!ENTITY historyMenu.accesskey "Г">
+<!ENTITY historyUndoMenu.label "Нядаўна зачыненыя ўстаўкі">
+<!ENTITY historyHomeCmd.label "Дадому">
+<!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY urlbar.emptyText "Пошук у закладках і гісторыі">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
+<!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY openLinkCmd.label "Адчыніць спасылку ў новым акне">
+<!ENTITY openLinkCmd.accesskey "п">
+<!ENTITY openLinkCmdInTab.label "Адчыніць спасылку ў новай устаўцы">
+<!ENTITY openLinkCmdInTab.accesskey "й">
+<!ENTITY openFrameCmd.label "Адчыніць рамку ў новым акне">
+<!ENTITY openFrameCmd.accesskey "ч">
+<!ENTITY openFrameCmdInTab.label "Адчыніць рамку ў новай устаўцы">
+<!ENTITY openFrameCmdInTab.accesskey "ў">
+<!ENTITY showOnlyThisFrameCmd.label "Паказваць толькі гэтую рамку">
+<!ENTITY showOnlyThisFrameCmd.accesskey "г">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadFrameCmd.label "Абнавіць рамку">
+<!ENTITY reloadFrameCmd.accesskey "ь">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Праглядзець зыходнік вылучэння">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Праглядзець зыходнік MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "л">
+<!ENTITY viewPageSourceCmd.label "Праглядзець зыходнік старонкі">
+<!ENTITY viewPageSourceCmd.accesskey "З">
+<!ENTITY viewFrameSourceCmd.label "Праглядзець зыходнік рамкі">
+<!ENTITY viewFrameSourceCmd.accesskey "З">
+<!ENTITY viewPageInfoCmd.label "Праглядзець звесткі пра старонку">
+<!ENTITY viewPageInfoCmd.accesskey "З">
+<!ENTITY viewFrameInfoCmd.label "Праглядзець звесткі пра рамку">
+<!ENTITY viewFrameInfoCmd.accesskey "З">
+<!ENTITY showImageCmd.label "Паказаць малюнак">
+<!ENTITY showImageCmd.accesskey "П">
+<!ENTITY viewImageCmd.label "Праглядзець малюнак">
+<!ENTITY viewImageCmd.accesskey "М">
+<!ENTITY viewBGImageCmd.label "Праглядзець малюнак фону">
+<!ENTITY viewBGImageCmd.accesskey "Ф">
+<!ENTITY setDesktopBackgroundCmd.label "Усталяваць як фон працоўнага стала…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "У">
+<!ENTITY bookmarkPageCmd2.label "Дадаць закладку да гэтай старонкі">
+<!ENTITY bookmarkPageCmd2.accesskey "з">
+<!ENTITY bookmarkThisLinkCmd.label "Дадаць закладку да гэтай спасылкі">
+<!ENTITY bookmarkThisLinkCmd.accesskey "с">
+<!ENTITY bookmarkThisFrameCmd.label "Дадаць закладку да гэтай рамкі">
+<!ENTITY bookmarkThisFrameCmd.accesskey "р">
+<!ENTITY sendPageCmd.label "Даслаць старонку…">
+<!ENTITY sendPageCmd.accesskey "Д">
+<!ENTITY savePageCmd.label "Захаваць старонку як…">
+<!ENTITY savePageCmd.accesskey "Я">
+<!ENTITY savePageCmd.accesskey2 "с">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameCmd.label "Захаваць рамку як…">
+<!ENTITY saveFrameCmd.accesskey "к">
+<!ENTITY printFrameCmd.label "Друкаваць рамку…">
+<!ENTITY printFrameCmd.accesskey "Д">
+<!ENTITY saveLinkCmd.label "Захаваць спасылку як…">
+<!ENTITY saveLinkCmd.accesskey "С">
+<!ENTITY sendLinkCmd.label "Даслаць спасылку…">
+<!ENTITY sendLinkCmd.accesskey "ь">
+<!ENTITY saveImageCmd.label "Захаваць малюнак як…">
+<!ENTITY saveImageCmd.accesskey "х">
+<!ENTITY sendImageCmd.label "Даслаць малюнак…">
+<!ENTITY sendImageCmd.accesskey "ц">
+<!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyLinkCmd.accesskey "с">
+<!ENTITY copyLinkTextCmd.label "Капіяваць тэкст спасылкі">
+<!ENTITY copyLinkTextCmd.accesskey "э">
+<!ENTITY copyImageCmd.label "Капіяваць месцазнаходжанне малюнка">
+<!ENTITY copyImageCmd.accesskey "х">
+<!ENTITY copyImageContentsCmd.label "Капіяваць малюнак">
+<!ENTITY copyImageContentsCmd.accesskey "і">
+<!ENTITY blockImageCmd.accesskey "З">
+<!ENTITY metadataCmd.label "Уласцівасці">
+<!ENTITY metadataCmd.accesskey "У">
+<!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
+<!ENTITY copyEmailCmd.accesskey "Э">
+<!ENTITY thisFrameMenu.label "Гэтая рамка">
+<!ENTITY thisFrameMenu.accesskey "Р">
+<!ENTITY fullZoomEnlargeCmd.label "Павялічыць">
+<!ENTITY fullZoomEnlargeCmd.accesskey "в">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.label "Паменшыць">
+<!ENTITY fullZoomReduceCmd.accesskey "м">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label "Узнавіць">
+<!ENTITY fullZoomResetCmd.accesskey "У">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomToggleCmd.label "Павялічваць толькі тэкст">
+<!ENTITY fullZoomToggleCmd.accesskey "т">
+<!ENTITY fullZoom.label "Павялічэнне">
+<!ENTITY fullZoom.accesskey "П">
+<!ENTITY newTabButton.tooltip "Адчыніць новую ўстаўку">
+<!ENTITY newWindowButton.tooltip "Адчыніць новае вакно">
+<!ENTITY sidebarCloseButton.tooltip "Зачыніць палічку">
+<!ENTITY cutButton.tooltip "Выразаць">
+<!ENTITY copyButton.tooltip "Капіяваць">
+<!ENTITY pasteButton.tooltip "Уставіць">
+<!ENTITY quitApplicationCmdWin.label "Выйсці">
+<!ENTITY quitApplicationCmdWin.accesskey "В">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label "Выйсці">
+<!ENTITY quitApplicationCmd.accesskey "В">
+<!ENTITY quitApplicationCmdMac.label "Выйсці з &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key "Q">
+<!ENTITY closeCmd.label "Зачыніць">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "ч">
+<!ENTITY pageStyleMenu.label "Стыль старонкі">
+<!ENTITY pageStyleMenu.accesskey "С">
+<!ENTITY pageStyleNoStyle.label "Няма стылю">
+<!ENTITY pageStyleNoStyle.accesskey "Н">
+<!ENTITY pageStylePersistentOnly.label "Базавы стыль старонкі">
+<!ENTITY pageStylePersistentOnly.accesskey "Б">
+<!ENTITY pageReportIcon.tooltip "Змяніць наладжванні затрымання вынырцаў для гэтай пляцоўкі сеціва">
+<!ENTITY allowPopups.accesskey "Д">
+<!ENTITY editPopupSettingsUnix.label "Праўка перавагаў затрымальніка вынырцаў…">
+<!ENTITY editPopupSettings.label "Праўка наладжванняў затрымальніка вынырцаў…">
+<!ENTITY editPopupSettings.accesskey "П">
+<!ENTITY dontShowMessage.accesskey "Н">
+<!ENTITY bidiSwitchPageDirectionItem.label "Пераключыць кірунак старонкі">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "к">
+<!ENTITY bidiSwitchTextDirectionItem.label "Пераключыць кірунак тэксту">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "р">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY findOnCmd.label "Знайсці на гэтай старонцы…">
+<!ENTITY findOnCmd.accesskey "З">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Знайсці зноў">
+<!ENTITY findAgainCmd.accesskey "ў">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY spellAddDictionaries.label "Дадаць слоўнікі…">
+<!ENTITY spellAddDictionaries.accesskey "с">
+<!ENTITY editBookmark.done.label "Гатова">
+<!ENTITY editBookmark.cancel.label "Скасаваць">
+<!ENTITY editBookmark.removeBookmark.label "Выдаліць закладку">
+<!ENTITY editBookmark.removeBookmark.accessKey "д">
+<!ENTITY editBookmark.undo.label "Вярнуць">
+<!ENTITY editBookmark.undo.accessKey "В">
+<!ENTITY editBookmark.edit.label "Правіць…">
+<!ENTITY editBookmark.edit.accessKey "П">
+<!ENTITY identity.unverifiedsite2 "Гэтая пляцоўка сеціва не мае звестак пра адмету.">
+<!ENTITY identity.connectedTo "Вы з злучаны з">
+<!ENTITY identity.runBy "які падтрымліваецца">
+<!ENTITY identity.moreInfoLinkText "Падрабязнасці…">
+<!ENTITY downloadMonitor2.tooltip "Пстрыкніце, каб адкрыць акно загрузак">

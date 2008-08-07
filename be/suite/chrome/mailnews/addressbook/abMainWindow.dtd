@@ -1,0 +1,83 @@
+<!--null-->
+<!ENTITY addressbookWindow.title "Адрасная кніга">
+<!ENTITY newCard.label "Картку адраснай кнігі…">
+<!ENTITY newCard.accesskey "К">
+<!ENTITY newListCmd.label "Адрасны спіс…">
+<!ENTITY newListCmd.accesskey "С">
+<!ENTITY newAddressBookCmd.label "Адрасную кнігу…">
+<!ENTITY newAddressBookCmd.accesskey "К">
+<!ENTITY renameAddressBookCmd.label "Змяніць назву адраснай кнігі…">
+<!ENTITY renameAddressBookCmd.accesskey "я">
+<!ENTITY newLDAPDirectoryCmd.label "Дырэкторыю LDAP…">
+<!ENTITY newLDAPDirectoryCmd.accesskey "L">
+<!ENTITY newIM.label "ВМП">
+<!ENTITY printCardViewCmd.label "Надрукаваць картку…">
+<!ENTITY printCardViewCmd.accesskey "д">
+<!ENTITY printPreviewCardViewCmd.label "Папярэдні прагляд карткі">
+<!ENTITY printPreviewCardViewCmd.accesskey "г">
+<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printAddressBook.label "Надрукаваць адрасную кнігу…">
+<!ENTITY printAddressBook.accesskey "А">
+<!ENTITY printPreviewAddressBook.label "Папярэдні прагляд адраснай кнігі">
+<!ENTITY printPreviewAddressBook.accesskey "К">
+<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
+<!ENTITY printSetupCmd.accesskey "н">
+<!ENTITY deleteAbCmd.label "Выдаліць адрасную кнігу">
+<!ENTITY deleteCardCmd.label "Выдаліць картку">
+<!ENTITY deleteCardsCmd.label "Выдаліць вылучаныя карткі">
+<!ENTITY deleteListCmd.label "Выдаліць спіс">
+<!ENTITY deleteListsCmd.label "Выдаліць вылучаныя спісы">
+<!ENTITY deleteItemsCmd.label "Выдаліць вылучаныя адзінкі">
+<!ENTITY swapFirstNameLastNameCmd.label "Абменяць імя/прозвішча">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "м">
+<!ENTITY propertiesCmd.label "Уласцівасці…">
+<!ENTITY propertiesCmd.accesskey "і">
+<!ENTITY propertiesCmd.key "i">
+<!ENTITY showAbToolbarCmd.label "Паліца прыладаў адраснай кнігі">
+<!ENTITY showAbToolbarCmd.accesskey "р">
+<!ENTITY showCardPane.label "Шыба зводкі карткі">
+<!ENTITY showCardPane.accesskey "К">
+<!ENTITY menu_ShowNameAs.label "Паказваць імёны як">
+<!ENTITY menu_ShowNameAs.accesskey "І">
+<!ENTITY firstLastCmd.label "Імя Прозвішча">
+<!ENTITY firstLastCmd.accesskey "І">
+<!ENTITY lastFirstCmd.label "Прозвішча Імя">
+<!ENTITY lastFirstCmd.accesskey "П">
+<!ENTITY displayNameCmd.label "Адлюстроўнае імя">
+<!ENTITY displayNameCmd.accesskey "А">
+<!ENTITY importCmd.label "Імпарт…">
+<!ENTITY importCmd.accesskey "І">
+<!ENTITY exportCmd.label "Экспарт…">
+<!ENTITY exportCmd.accesskey "Э">
+<!ENTITY allowOnlineCheck.label "Праверыць прысутнасць у сетцы (AOL)">
+<!ENTITY allowOnlineCheck.accesskey "П">
+<!ENTITY stopSearchingCmd.label ".Спыніць пошук">
+<!ENTITY newcardButton.label "Новая картка">
+<!ENTITY newcardButton.accesskey "К">
+<!ENTITY newlistButton.label "Новы спіс">
+<!ENTITY newlistButton.accesskey "С">
+<!ENTITY editButton.label "Уласцівасці">
+<!ENTITY editButton.accesskey "У">
+<!ENTITY newmsgButton.label "Укласці">
+<!ENTITY newmsgButton.accesskey "У">
+<!ENTITY deleteButton.label "Выдаліць">
+<!ENTITY deleteButton.accesskey "д">
+<!ENTITY newimButton.label "Вокамгненнае паведамленне">
+<!ENTITY newimButton.accesskey "м">
+<!ENTITY stopButton.label ".Спыніць">
+<!ENTITY searchButton.label ".Пошук">
+<!ENTITY showNames.label "Паказаць імёны, якія змяшчаюць:">
+<!ENTITY addressbookToolbar.tooltip "Паліца прыладаў адраснай кнігі">
+<!ENTITY newcardButton.tooltip "Стварыць новую картку адраснай кнігі">
+<!ENTITY newlistButton.tooltip "Стварыць новы спіс">
+<!ENTITY editButton.tooltip "Рэдагаваць вылучаную картку">
+<!ENTITY newmsgButton.tooltip "Даслаць паштовы ліст">
+<!ENTITY newIM.tooltip "Даслаць вокамгненнае паведамленне ці распачаць гутарку">
+<!ENTITY deleteButton.tooltip "Выдаліць вылучаную картку або адрасную кнігу">
+<!ENTITY stopButton.tooltip "Спыніць цяперашні перанос">
+<!ENTITY searchButton.tooltip "Пошук у вылучанай адраснай кнізе">
+<!ENTITY throbber.tooltip "Пайсці на хатнюю старонку &vendorShortName;">
+<!ENTITY clearButton.tooltip "Ачысціць крытэры пошуку і паказаць усе запісы">
+<!ENTITY advancedButton.tooltip "Пашыраны пошук адрасоў">
+<!ENTITY statusText.label "">
+<!ENTITY hideSwapFnLnUI "false">

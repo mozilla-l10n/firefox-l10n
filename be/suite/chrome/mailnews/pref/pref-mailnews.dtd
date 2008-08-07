@@ -1,0 +1,36 @@
+<!--null-->
+<!ENTITY pref.mailnews.title "Пошта і Навінакупы">
+<!ENTITY generalSettings.caption "Агульныя наладжванні">
+<!ENTITY confirmMove.label "Пацвярджаць перамяшчэнне папак у Смецце">
+<!ENTITY confirmMove.accesskey "с">
+<!ENTITY useMessenger.label "Ужываць Пошту з MAPI-аснованых прыстасаванняў">
+<!ENTITY useMessenger.accesskey "У">
+<!ENTITY autounzip.label "Самастойна разгортваць файлы zip у час захоўвання далучэнняў">
+<!ENTITY autounzip.accesskey "р">
+<!ENTITY preserveThreading.label "Не парушаць нізкі падчас размеркавання лістоў">
+<!ENTITY preserveThreading.accesskey "н">
+<!ENTITY defaultMailSettings.description "Зрабіць &brandShortName; змоўчным прыстасаваннем для:">
+<!ENTITY setDefaultMail.label "Пошты">
+<!ENTITY setDefaultMail.accesskey "П">
+<!ENTITY setDefaultNews.label "Навінаў">
+<!ENTITY setDefaultNews.accesskey "Н">
+<!ENTITY messengerStartPage.caption "Пачатковая старонка пошты">
+<!ENTITY enableStartPage.label "Паказваць пачатковую старонку ў абсягу ліста, калі Пошта запускаецца">
+<!ENTITY enableStartPage.accesskey "к">
+<!ENTITY location.label "Месцазнаходжанне:">
+<!ENTITY location.accesskey "М">
+<!ENTITY useDefault.label "Аднавіць змоўчную">
+<!ENTITY useDefault.accesskey "А">
+<!ENTITY rememberLastMsg.label "Памятаць апошні вылучаны ліст">
+<!ENTITY rememberLastMsg.accesskey "П">
+<!ENTITY toolbarIntro.caption "Выберыце кнопкі, якія вы хочаце бачыць на паліцы прыладаў">
+<!ENTITY fileButton.label "Файл">
+<!ENTITY fileButton.accesskey "Ф">
+<!ENTITY nextButton.label "Наступны">
+<!ENTITY nextButton.accesskey "Н">
+<!ENTITY junkMailButton.label "Лухта">
+<!ENTITY junkMailButton.accesskey "Л">
+<!ENTITY printButton.label "Друкаваць">
+<!ENTITY printButton.accesskey "Д">
+<!ENTITY stopButton.label "Прыпыніць">
+<!ENTITY stopButton.accesskey "П">

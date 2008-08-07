@@ -1,0 +1,9 @@
+<!ENTITY notificationsDialog2.title "Наладка папярэджання пра новую пошту">
+<!ENTITY window.width "37em">
+<!ENTITY alertCustomization.intro "Выберыце, якія палі паказваць у папярэджанні:">
+<!ENTITY previewText.label "Перадпрагляд тэксту ліста:">
+<!ENTITY previewText.accesskey "л">
+<!ENTITY subject.label "Тэма">
+<!ENTITY subject.accesskey "Т">
+<!ENTITY sender.label "Адпраўнік">
+<!ENTITY sender.accesskey "А">

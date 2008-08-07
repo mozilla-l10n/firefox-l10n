@@ -1,0 +1,19 @@
+<!ENTITY editType.label "Рэдагаваць тып:">
+<!ENTITY newType.label "Новы тып">
+<!ENTITY extension.label "Пашырэнне:">
+<!ENTITY extension.accesskey "ш">
+<!ENTITY mimetype.label "Тып MIME:">
+<!ENTITY mimetype.accesskey "m">
+<!ENTITY description.label "Апісанне:">
+<!ENTITY description.accesskey "А">
+<!ENTITY handling.label "Калі сустракаецца файл гэтага тыпу">
+<!ENTITY useDefault.label "Адчыніць яго з дапамогаю змоўчнага прыстасавання">
+<!ENTITY useDefault.accesskey "з">
+<!ENTITY saveToDisk.label "Захаваць яго на дыску">
+<!ENTITY saveToDisk.accesskey "Д">
+<!ENTITY application.label "Адчыніць яго з дапамогай:">
+<!ENTITY application.accesskey "д">
+<!ENTITY browse.label "Выбраць...">
+<!ENTITY browse.accesskey "В">
+<!ENTITY askBeforeOpen.label "Заўсёды пытацца мяне перад апрацоўкай файлаў гэтага тыпу">
+<!ENTITY askBeforeOpen.accesskey "ў">

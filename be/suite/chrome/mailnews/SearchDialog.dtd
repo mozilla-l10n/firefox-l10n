@@ -1,0 +1,35 @@
+<!ENTITY searchHeading.label "Шукаць лісты ў:">
+<!ENTITY searchHeading.accesskey "ў">
+<!ENTITY searchSubfolders.label "Пошук у падпапках">
+<!ENTITY searchSubfolders.accesskey "о">
+<!ENTITY searchLocalSystem.label "Шукаць у мясцовай сістэме">
+<!ENTITY searchLocalSystem.accesskey "м">
+<!ENTITY resetButton.label "Ачысціць">
+<!ENTITY resetButton.accesskey "ч">
+<!ENTITY helpButton.label "Даведка">
+<!ENTITY helpButton.accesskey "Д">
+<!ENTITY optionsButton.label "Наладкі">
+<!ENTITY closeButton.label "Зачыніць">
+<!ENTITY openButton.label "Адчыніць">
+<!ENTITY openButton.accesskey "А">
+<!ENTITY deleteButton.label "Выдаліць">
+<!ENTITY deleteButton.accesskey "д">
+<!ENTITY searchDialogTitle.label "Пошук лістоў">
+<!ENTITY conditionDesc.label "Шукаць лісты, якія адпавядаюць:">
+<!ENTITY conditions.label "Крытэры">
+<!ENTITY results.label "Вынікі">
+<!ENTITY fileHereMenu.label "Пакласці тут">
+<!ENTITY fileHereMenu.accesskey "П">
+<!ENTITY fileButton.label "Файл">
+<!ENTITY fileButton.accesskey "Ф">
+<!ENTITY goToFolderButton.label "Адчыніць папку ліста">
+<!ENTITY goToFolderButton.accesskey "п">
+<!ENTITY saveAsVFButton.label "Захаваць як папку пошуку">
+<!ENTITY saveAsVFButton.accesskey "а">
+<!ENTITY abSearchHeading.label "Шукаць у:">
+<!ENTITY abSearchHeading.accesskey "Ш">
+<!ENTITY propertiesButton.label "Уласцівасці">
+<!ENTITY propertiesButton.accesskey "л">
+<!ENTITY composeButton.label "Укласці">
+<!ENTITY composeButton.accesskey "У">
+<!ENTITY abSearchDialogTitle.label "Удасканалены пошук у адраснай кнізе">

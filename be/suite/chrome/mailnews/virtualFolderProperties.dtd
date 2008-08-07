@@ -1,0 +1,11 @@
+<!ENTITY virtualFolderProperties.title "Новая папка захованага пошуку">
+<!ENTITY name.label "Назва:">
+<!ENTITY name.accesskey "н">
+<!ENTITY description.label "Стварыць як падпапку:">
+<!ENTITY description.accesskey "а">
+<!ENTITY searchTermCaption.label "Наладзіць меркі пошуку, якія ўжываюцца для гэтага захованага пошуку:">
+<!ENTITY folderSelectionCaption.label "Вылучыце папкі для пошуку:">
+<!ENTITY chooseFoldersButton.label "Выбраць…">
+<!ENTITY chooseFoldersButton.accesskey "В">
+<!ENTITY searchOnline.label "Сеткавы пошук (дае найноўшыя вынікі IMAP папак і папак навінаў, аднак павялічвае час адкрыцця папкі)">
+<!ENTITY searchOnline.accesskey "С">

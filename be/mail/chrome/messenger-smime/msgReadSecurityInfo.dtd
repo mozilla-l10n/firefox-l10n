@@ -1,0 +1,7 @@
+<!ENTITY status.label "Бяспека ліста">
+<!ENTITY signatureCert.label "Праглядзець пасведчанне подпісу">
+<!ENTITY encryptionCert.label "Праглядзець пасведчанне шыфру">
+<!ENTITY signer.name "Падпісана:">
+<!ENTITY recipient.name "Зашыфравана для:">
+<!ENTITY email.address "Адрас э-пошты:">
+<!ENTITY issuer.name "Пасведчанне выдадзена:">

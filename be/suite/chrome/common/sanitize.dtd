@@ -1,0 +1,19 @@
+<!ENTITY sanitizeDialog.title "Ачысціць прыватныя даныя">
+<!ENTITY sanitizeItems.label "Ачысціць наступныя адзінкі зараз:">
+<!ENTITY itemHistory.label "Гісторыя азірання">
+<!ENTITY itemHistory.accesskey "а">
+<!ENTITY itemDownloads.label "Гісторыя загрузак">
+<!ENTITY itemDownloads.accesskey "г">
+<!ENTITY itemFormSearchHistory.label "Захаваныя формы і гісторыя пошуку">
+<!ENTITY itemFormSearchHistory.accesskey "ф">
+<!ENTITY itemCache.label "Запаснік">
+<!ENTITY itemCache.accesskey "З">
+<!ENTITY itemCookies.label "Біркі">
+<!ENTITY itemCookies.accesskey "б">
+<!ENTITY itemOfflineApps.label "Пазасеткавыя здаткі пляцовак сеціва">
+<!ENTITY itemOfflineApps.accesskey "д">
+<!ENTITY itemPasswords.label "Захаваныя паролі">
+<!ENTITY itemPasswords.accesskey "п">
+<!ENTITY itemSessions.label "Апазнаныя сэсіі">
+<!ENTITY itemSessions.accesskey "с">
+<!ENTITY sanitizeButton.label "Ачысціць прыватныя даныя зараз">

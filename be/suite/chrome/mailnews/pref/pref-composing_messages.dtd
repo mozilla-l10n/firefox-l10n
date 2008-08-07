@@ -1,0 +1,33 @@
+<!--null-->
+<!ENTITY pref.composing.messages.title "Укладанне">
+<!ENTITY generalComposing.label "Агульныя">
+<!ENTITY forwardMsg.label "Накіроўваць лісты:">
+<!ENTITY inline.label "Усярэдзіне">
+<!ENTITY inline.accesskey "У">
+<!ENTITY asAttachment.label "Як далучэнне">
+<!ENTITY asAttachment.accesskey "Д">
+<!ENTITY warnOnSendAccelKey.label "Сцвердзіць дасыланне ліста, калі яно выклікана клавіятурным выклічнікам ">
+<!ENTITY warnOnSendAccelKey.accesskey "С">
+<!ENTITY autoSave.label "Самастойна захоўваць ліст кожныя">
+<!ENTITY autoSave.accesskey "а">
+<!ENTITY autoSaveEnd.label "хвілінаў">
+<!ENTITY wrapOutMsg.label "Загінаць радкі простатэкставых лістоў пасля">
+<!ENTITY wrapOutMsg.accesskey "г">
+<!ENTITY char.label "знакаў">
+<!ENTITY spellingHeader.label "Правапіс">
+<!ENTITY spellCheck.label "Правяраць правапіс перад дасыланнем">
+<!ENTITY spellCheck.accesskey "п">
+<!ENTITY spellCheckInline.label "Правераць правапіс у час укладання">
+<!ENTITY spellCheckInline.accesskey "р">
+<!ENTITY languagePopup.label "Мова:">
+<!ENTITY languagePopup.accessKey "М">
+<!ENTITY moreDictionaries.label "Загрузіць іншыя слоўнікі…">
+<!ENTITY defaultMessagesHeader.label "Змоўчкі для HTML лістоў">
+<!ENTITY font.label "Шрыфт:">
+<!ENTITY font.accesskey "Ш">
+<!ENTITY size.label "Памер:">
+<!ENTITY size.accesskey "П">
+<!ENTITY fontColor.label "Тэкст:">
+<!ENTITY fontColor.accesskey "Т">
+<!ENTITY bgColor.label "Фон:">
+<!ENTITY bgColor.accesskey "Ф">

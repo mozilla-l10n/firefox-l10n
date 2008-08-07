@@ -1,0 +1,12 @@
+<!--null-->
+<!ENTITY subscribechoosethis.label "выбраць гэты паслугач навінаў">
+<!ENTITY subscribeclickhere.label "пстрыкніце тут, каб выбраць паслугач навінаў">
+<!ENTITY newfolderchoosethis.label "выбраць для продка">
+<!ENTITY newfolderclickhere.label "Пстрыкніце тут, каб вылучыць">
+<!ENTITY renamefolderchoosethis.label "выберыце гэтую папку">
+<!ENTITY renamefolderclickhere.label "пстрыкніце тут, каб выбраць папку">
+<!ENTITY filemessageschoosethis.label "выберыце гэтую папку">
+<!ENTITY filemessagesclickhere.label "пстрыкніце тут, каб выбраць папку">
+<!ENTITY chooseaccountclickhere.label "Пстрыкніце тут, каб вылучыць рахунак">
+<!ENTITY choosefolderclickhere.label "Пстрыкніце тут, каб вылучыць папку">
+<!ENTITY chooseserverToDeferTo.label "Пстрыкніце тут, каб выбраць рахунак для захавання лістоў">

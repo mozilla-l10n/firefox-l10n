@@ -1,0 +1,24 @@
+<!ENTITY migrationWizard.title "Чараўнік імпарту">
+<!ENTITY importFromWin.label "Імпартаваць наладкі, наладкі рахункаў, адрасную кнігу, сіты і іншыя даныя з:">
+<!ENTITY importFromNonWin.label "Імпартаваць перавагі, наладкі рахункаў, адрасную кнігу, сіты і іншыя даныя з:">
+<!ENTITY importFromNothing.label "Не імпартаваць нічога">
+<!ENTITY importFromNothing.accesskey "н">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 або Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOExpress.label "Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
+<!ENTITY importFromEudora.label "Eudora">
+<!ENTITY importFromEudora.accesskey "E">
+<!ENTITY importSource.title "Імпарт наладак і паштовых папак">
+<!ENTITY importItems.title "Адзінкі для імпарту">
+<!ENTITY importItems.label "Выберыце адзінкі для імпарту:">
+<!ENTITY migrating.title "Імпарт…">
+<!ENTITY migrating.label "Наступныя адзінкі зараз імпартуюцца…">
+<!ENTITY selectProfile.title "Выбар профілю">
+<!ENTITY selectProfile.label "Наступныя профілі даступны для імпарту з:">
+<!ENTITY done.title "Імпарт здзейснены">
+<!ENTITY done.label "Наступныя адзінкі паспяхова імпартаваны:">

@@ -1,0 +1,70 @@
+<!ENTITY searchHeading.label "Шукаць лісты ў:">
+<!ENTITY searchHeading.accesskey "ў">
+<!ENTITY searchSubfolders.label "Пошук у падпапках">
+<!ENTITY searchSubfolders.accesskey "о">
+<!ENTITY resetButton.label "Ачысціць">
+<!ENTITY resetButton.accesskey "ч">
+<!ENTITY optionsButton.label "Наладкі">
+<!ENTITY closeButton.label "Зачыніць">
+<!ENTITY openButton.label "Адчыніць">
+<!ENTITY openButton.accesskey "А">
+<!ENTITY deleteButton.label "Выдаліць">
+<!ENTITY deleteButton.accesskey "д">
+<!ENTITY searchDialogTitle.label "Пошук лістоў">
+<!ENTITY conditionDesc.label "Шукаць лісты, якія адпавядаюць:">
+<!ENTITY conditions.label "Крытэры">
+<!ENTITY results.label "Вынікі">
+<!ENTITY fileHereMenu.label "Пакласці тут">
+<!ENTITY fileHereMenu.accesskey "П">
+<!ENTITY fileButton.label "Файл">
+<!ENTITY fileButton.accesskey "Ф">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Адчыніць папку ліста">
+<!ENTITY goToFolderButton.accesskey "п">
+<!ENTITY saveAsVFButton.label "Захаваць як папку пошуку">
+<!ENTITY saveAsVFButton.accesskey "а">
+<!ENTITY abSearchHeading.label "Шукаць у:">
+<!ENTITY abSearchHeading.accesskey "Ш">
+<!ENTITY propertiesButton.label "Уласцівасці">
+<!ENTITY propertiesButton.accesskey "л">
+<!ENTITY composeButton.label "Укласці">
+<!ENTITY composeButton.accesskey "У">
+<!ENTITY abSearchDialogTitle.label "Удасканалены пошук у адраснай кнізе">
+<!ENTITY threadColumn.label "Нізка">
+<!ENTITY fromColumn.label "Ад">
+<!ENTITY recipientColumn.label "Атрымальнік">
+<!ENTITY subjectColumn.label "Тэма">
+<!ENTITY dateColumn.label "Дата">
+<!ENTITY priorityColumn.label "Прыярытэт">
+<!ENTITY tagsColumn.label "Меткі">
+<!ENTITY accountColumn.label "Рахунак">
+<!ENTITY statusColumn.label "Статус">
+<!ENTITY sizeColumn.label "Памер">
+<!ENTITY junkStatusColumn.label "Статус лухты">
+<!ENTITY linesColumn.label "Радкі">
+<!ENTITY unreadColumn.label "Непрачытаныя">
+<!ENTITY totalColumn.label "Усяго">
+<!ENTITY readColumn.label "Прачытаныя">
+<!ENTITY receivedColumn.label "Атрыманы">
+<!ENTITY starredColumn.label "З зоркаю">
+<!ENTITY locationColumn.label "Месцазнаходжанне">
+<!ENTITY idColumn.label "Парадак атрымання">
+<!ENTITY columnChooser.tooltip "Пстрыкніце, каб вылучыць слупкі для адлюстравання">
+<!ENTITY threadColumn.tooltip "Пстрыкніце, каб адлюстраваць нізкі лістоў">
+<!ENTITY fromColumn.tooltip "Пстрыкніце, каб размяркоўваць па адпраўнікам">
+<!ENTITY recipientColumn.tooltip "Пстрыкніце, каб размяркоўваць па атрымальнікам">
+<!ENTITY subjectColumn.tooltip "Пстрыкніце, каб размеркаваць паводле тэмаў">
+<!ENTITY dateColumn.tooltip "Пстрыкніце, каб размеркаваць паводле датаў">
+<!ENTITY priorityColumn.tooltip "Пстрыкніце, каб размеркаваць паводле прыярытэтаў">
+<!ENTITY tagsColumn.tooltip "Пстрыкніце, каб размеркаваць паводле метак">
+<!ENTITY accountColumn.tooltip "Пстрыкніце, каб размеркаваць па рахункам">
+<!ENTITY statusColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу">
+<!ENTITY sizeColumn.tooltip "Пстрыкніце, каб размеркаваць паводле памеру">
+<!ENTITY junkStatusColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу лухты">
+<!ENTITY unreadColumn.tooltip "Колькасць непрачытаных лістоў у нізцы">
+<!ENTITY totalColumn.tooltip "Усяго лістоў у нізцы">
+<!ENTITY readColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу чытання">
+<!ENTITY receivedColumn.tooltip "Пстрыкніце, каб размяркоўваць па даце атрымання">
+<!ENTITY starredColumn.tooltip "Пстрыкніце, каб размеркаваць паводле зорак">
+<!ENTITY locationColumn.tooltip "Пстрыкніце, каб размеркаваць паводле месцазнаходжанняў">
+<!ENTITY idColumn.tooltip "Пстрыкніце, каб размеркаваць у парадку атрымання">

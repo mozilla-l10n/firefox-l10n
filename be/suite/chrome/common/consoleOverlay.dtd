@@ -1,0 +1,16 @@
+<!--null-->
+<!ENTITY menuBar.tooltip "Паліца з меню">
+<!ENTITY modeToolbar.tooltip "Паліца з прыладамі ўмоў">
+<!ENTITY entryToolbar.tooltip "Паліца з прыладамі ўвода Javascript">
+<!ENTITY toolbarsCmd.label "Паказаць/Схаваць">
+<!ENTITY toolbarsCmd.accesskey "х">
+<!ENTITY toolbarMode.label "Умова">
+<!ENTITY toolbarMode.accesskey "У">
+<!ENTITY toolbarEval.label "Увод JavaScript">
+<!ENTITY toolbarEval.accesskey "J">
+<!ENTITY all.accesskey "У">
+<!ENTITY errors.accesskey "м">
+<!ENTITY warnings.accesskey "р">
+<!ENTITY messages.accesskey "Л">
+<!ENTITY clear.accesskey "ч">
+<!ENTITY evaluate.accesskey "ц">

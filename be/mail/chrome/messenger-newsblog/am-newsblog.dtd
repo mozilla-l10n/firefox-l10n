@@ -1,0 +1,15 @@
+<!ENTITY newsblogTitle.label "Наладжванні рахунку RSS">
+<!ENTITY biffStart.label "Правяраць, ці існуюць новыя артыкулы, кожныя">
+<!ENTITY biffStart.accesskey "я">
+<!ENTITY biffEnd.label "хвілінаў">
+<!ENTITY loginAtStartup.label "Правяраць, ці існуюць новыя артыкулы, падчас запуску">
+<!ENTITY loginAtStartup.accesskey "П">
+<!ENTITY useQuickMode.label "Змоўчна паказваць зводку артыкула, а не загружаць старонку сеціва">
+<!ENTITY useQuickMode.accesskey "з">
+<!ENTITY manageSubscriptions.label "Кіраваць падпіскамі…">
+<!ENTITY manageSubscriptions.accesskey "К">
+<!ENTITY rss.accountName "Навіны і дзённікі">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "Навіны RSS і дзённікі">
+<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY rss.hostName "Навіны і дзённікі">

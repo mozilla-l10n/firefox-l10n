@@ -1,0 +1,10 @@
+<!ENTITY zoomEnlargeCmd.label "Большы">
+<!ENTITY zoomEnlargeCmd.accesskey "Б">
+<!ENTITY zoomEnlargeCmd.commandkey "+">
+<!ENTITY zoomEnlargeCmd.commandkey2 "=">
+<!ENTITY zoomReduceCmd.label "Меншы">
+<!ENTITY zoomReduceCmd.accesskey "М">
+<!ENTITY zoomReduceCmd.commandkey "-">
+<!ENTITY zoomResetCmd.commandkey "0">
+<!ENTITY zoomMenu.accesskey "п">
+<!ENTITY zoomOtherCmd.accesskey "І">

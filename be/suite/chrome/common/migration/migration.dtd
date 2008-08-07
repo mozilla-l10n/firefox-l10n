@@ -1,0 +1,20 @@
+<!ENTITY migrationWizard.title "Чараўнік імпарту">
+<!ENTITY importAllFrom.label "Імпартаваць усе адзінкі з:">
+<!ENTITY importBookmarksFrom.label "Імпартаваць закладкі з:">
+<!ENTITY importFromSeamonkey.label "SeaMonkey 1.x, Netscape 6/7 або Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "S">
+<!ENTITY importFromThunderbird.label "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
+<!ENTITY importFromFile.label "Файла">
+<!ENTITY importFromFile.accesskey "Ф">
+<!ENTITY importFromNothing.label "Не Імпартаваць нічога">
+<!ENTITY importFromNothing.accesskey "Н">
+<!ENTITY importSource.title "Імпартаваць наладжванні і здаткі">
+<!ENTITY importItems.title "Адзінкі для імпарту">
+<!ENTITY importItems.label "Вылучыце адзінкі для імпарту:">
+<!ENTITY selectProfile.title "Выбар профілю">
+<!ENTITY selectProfile.label "Даступны наступныя профілі для імпарту:">
+<!ENTITY migrating.title "Імпартаванне…">
+<!ENTITY migrating.label "Зараз імпартуюцца наступныя адзінкі…">
+<!ENTITY done.title "Імпарт выкананы">
+<!ENTITY done.label "Наступныя адзінкі паспяхова імпартаваны:">

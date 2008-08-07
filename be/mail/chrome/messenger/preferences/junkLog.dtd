@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Метрыка паштовай лухты">
+<!ENTITY junkLogInfo.label "Заносіць дзейнасць кіроўцаў паштовай лухтой у метрыку.">
+<!ENTITY clearLog.label "Ачысціць метрыку">
+<!ENTITY clearLog.accesskey "А">
+<!ENTITY closeLog.label "Зачыніць">
+<!ENTITY closeLog.accesskey "ч">

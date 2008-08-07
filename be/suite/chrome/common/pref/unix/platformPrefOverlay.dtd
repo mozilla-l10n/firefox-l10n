@@ -1,0 +1,5 @@
+<!ENTITY prefWindow.size "width: 53em; height: 41em;">
+<!ENTITY urlbar.label "Ctrl+Увод на паліцы месцазнаходжання">
+<!ENTITY urlbar.accesskey "м">
+<!ENTITY middleClick.label "Сярэд-пстрык, Ctrl+пстрык ці Ctrl+Увод па спасылкам на старонцы сеціва">
+<!ENTITY middleClick.accesskey "С">

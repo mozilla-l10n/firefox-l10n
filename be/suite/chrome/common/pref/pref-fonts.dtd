@@ -1,0 +1,60 @@
+<!ENTITY pref.fonts.title "Шрыфты">
+<!ENTITY language.label "Шрыфты для:">
+<!ENTITY language.accesskey "Ш">
+<!ENTITY typefaces.label "Шрыфт">
+<!ENTITY sizes.label "Памер (пікселяў)">
+<!ENTITY proportional.label "Суадносны:">
+<!ENTITY proportional.accesskey "С">
+<!ENTITY serif.label "Сэрыў:">
+<!ENTITY serif.accesskey "э">
+<!ENTITY sans-serif.label "Сан-Сэрыў:">
+<!ENTITY sans-serif.accesskey "а">
+<!ENTITY monospace.label "Роўнашырокі:">
+<!ENTITY monospace.accesskey "Р">
+<!ENTITY fantasy.label "Дзівосны:">
+<!ENTITY fantasy.accesskey "Д">
+<!ENTITY cursive.label "Рукапісны:">
+<!ENTITY cursive.accesskey "Р">
+<!ENTITY fontsize.units "пікселяў">
+<!ENTITY font.langGroup.latin1 "Заходняя">
+<!ENTITY font.langGroup.latin2 "Цэнтральна-Еўрапейская">
+<!ENTITY font.langGroup.japanese "Японская">
+<!ENTITY font.langGroup.trad-chinese "Традыцыйная Кітайская(Тайвань)">
+<!ENTITY font.langGroup.simpl-chinese "Спрошчаная Кітайская">
+<!ENTITY font.langGroup.trad-chinese-hk "Традыцыйная Кітайская(Гон Конг)">
+<!ENTITY font.langGroup.korean "Карэйская">
+<!ENTITY font.langGroup.cyrillic "Кірыліца">
+<!ENTITY font.langGroup.baltic "Балтыйская">
+<!ENTITY font.langGroup.el "Грэцкая">
+<!ENTITY font.langGroup.turkish "Турэцкая">
+<!ENTITY font.langGroup.unicode "Іншыя мовы">
+<!ENTITY font.langGroup.user-def "Вызначаны карыстальнікам">
+<!ENTITY font.langGroup.thai "Тайская">
+<!ENTITY font.langGroup.hebrew "Габрэйская">
+<!ENTITY font.langGroup.arabic "Арабская">
+<!ENTITY font.langGroup.devanagari "Дэванагары">
+<!ENTITY font.langGroup.tamil "Тамільская">
+<!ENTITY font.langGroup.armenian "Армянская">
+<!ENTITY font.langGroup.bengali "Бенгальская">
+<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
+<!ENTITY font.langGroup.ethiopic "Эфіопская">
+<!ENTITY font.langGroup.georgian "Грузінская">
+<!ENTITY font.langGroup.gujarati "Гуджараці">
+<!ENTITY font.langGroup.gurmukhi "Гурмукхі">
+<!ENTITY font.langGroup.khmer "Кхмерская">
+<!ENTITY font.langGroup.malayalam "Малайяламская">
+<!ENTITY minSize.label "Найменшы памер шрыфту:">
+<!ENTITY minSize.accesskey "м">
+<!ENTITY minSize.none "Няма">
+<!ENTITY useDefaultFontSerif.label "Сэрыў">
+<!ENTITY useDefaultFontSansSerif.label "Сан Сэрыў">
+<!ENTITY newLanguages.label "Новыя мовы могуць быць наладжаны ў Панэлі Моваў.">
+<!ENTITY useDocumentFonts.label "Дазволіць дакументам карыстацца іншымі шрыфтамі">
+<!ENTITY useDocumentFonts.accesskey "д">
+<!ENTITY header2 "Калі старонка сеціва прызначае свае асабістыя шрыфты">
+<!ENTITY useDefaultFont.label "Карыстацца вызначанымі мною шрыфтамі замест прапанованых старонкай">
+<!ENTITY useDefaultFont.accesskey "к">
+<!ENTITY useDocFontNonDynamic.label "Карыстацца шрыфтамі, якія прызначаны старонкай">
+<!ENTITY useDocFontNonDynamic.accesskey "п">
+<!ENTITY useDocFontDynamic.label "Карыстацца ўсімі шрыфтамі, якія прызначаны старонкай">
+<!ENTITY useDocFontDynamic.accesskey "ў">

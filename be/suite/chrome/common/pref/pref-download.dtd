@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title "Загрузкі">
+<!ENTITY downloadBehavior.label "Калі пачынаецца загрузка">
+<!ENTITY downloadLocation.label "Калі файл захоўваецца">
+<!ENTITY finishedBehavior.label "Калі загрузка здзейснена">
+<!ENTITY openDM.label "Адчыніць кіраўнік загрузак">
+<!ENTITY openDM.accesskey "г">
+<!ENTITY openProgressDialog.label "Адчыніць дыялог развіцця">
+<!ENTITY openProgressDialog.accesskey "р">
+<!ENTITY doNothing.label "Нічога не адчыняць">
+<!ENTITY doNothing.accesskey "Н">
+<!ENTITY promptDownload.label "Запытваць месца для загрузкі і адчыняць спачатку">
+<!ENTITY promptDownload.accesskey "з">
+<!ENTITY lastLocation.label "Апошнюю папку загрузкі">
+<!ENTITY lastLocation.accesskey "А">
+<!ENTITY specifiedLocation.label "Прызначаную папку загрузкі">
+<!ENTITY specifiedLocation.accesskey "п">
+<!ENTITY autoDownload.label "Самастойна загружаць файлы ў прызначаную папку">
+<!ENTITY autoDownload.accesskey "С">
+<!ENTITY downloadFolder.label "Цяперашняя папка загрузкі:">
+<!ENTITY chooseDownloadFolder.label "Выбраць папку…">
+<!ENTITY chooseDownloadFolder.accesskey "В">
+<!ENTITY playSound.label "Граць гук">
+<!ENTITY playSound.accesskey "г">
+<!ENTITY showAlert.label "Паказаць папярэджанне">
+<!ENTITY showAlert.accesskey "к">
+<!ENTITY browse.label "Агляд…">
+<!ENTITY browse.accesskey "г">
+<!ENTITY preview.label "Перадпрагляд">
+<!ENTITY preview.accesskey "п">
+<!ENTITY soundURL.label "URL гуку:">
+<!ENTITY soundURL.accesskey "U">

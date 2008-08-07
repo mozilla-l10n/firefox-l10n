@@ -1,0 +1,35 @@
+<!--null-->
+<!ENTITY pref.formatting.title "Фармат дасылання">
+<!ENTITY sendMail.label "Фармат дасылання">
+<!ENTITY sendMaildesc.label "Калі дасылаюцца фарматаваныя лісты (HTML) і адзін ці болей атрымальнікаў не пералічаны як здольныя атрымліваць HTML:">
+<!ENTITY askMe.label "Спытаць мяне, што зрабіць (Пошта прапануе вам выбраць фармат)">
+<!ENTITY askMe.accesskey "п">
+<!ENTITY convertPlain.label "Ператварыць ліст у просты тэкст (нейкія фарматаванні могуць згубіцца)">
+<!ENTITY convertPlain.accesskey "т">
+<!ENTITY sendHTML.label "Усё роўна дасылаць ліст як фарматаваны тэкст (HTML). (Асобныя паштовыя праграмы магчыма не змогуць адлюстраваць яго).">
+<!ENTITY sendHTML.accesskey "д">
+<!ENTITY sendBoth.label "Дасылаць ліст як просты тэкст і як HTML (павялічвае памер ліста)">
+<!ENTITY sendBoth.accesskey "а">
+<!ENTITY override.label "Вы можаце адмяніць гэтыя наладжванні для асобных лістоў, калі скарыстаеце меню Наладкі ў час укладання ліста.">
+<!ENTITY receiveHTML.label "Калі вы ведаеце, што асобны атрымальнік можа атрымліваць HTML пошту, дык прыміце адзнаку са скрынкі 'Дасылаць э-пошту як просты тэкст (без HTML)' у картцы атрымальніка ў адраснай кнізе. ">
+<!ENTITY domain.title "Дамены HTML і простага тэксту">
+<!ENTITY domaindesc.label "Калі вы дасылаеце ліст на адрас з аднаго з даменаў, пералічаных ніжэй, Пошта самастойна дасылае ліст у пажаданым фармаце (фарматаваны або просты тэкст).">
+<!ENTITY HTMLdomaintitle.label "HTML дамены">
+<!ENTITY HTMLdomaintitle.accesskey "M">
+<!ENTITY PlainTexttitle.label "Дамены простага тэксту">
+<!ENTITY PlainTexttitle.accesskey "П">
+<!ENTITY AddButton.label "Дадаць…">
+<!ENTITY AddHtmlDomain.accesskey "Д">
+<!ENTITY AddPlainText.accesskey "а">
+<!ENTITY DeleteButton.label "Выдаліць">
+<!ENTITY DeleteHtmlDomain.accesskey "ы">
+<!ENTITY DeletePlainText.accesskey "л">
+<!ENTITY add.htmltitle "Дадаць назву HTML дамену">
+<!ENTITY add.htmldomain "Назва HTML дамену:">
+<!ENTITY add.htmldomain.accesskey "Д">
+<!ENTITY add.plaintexttitle "Дадаць назву дамену простага тэксту">
+<!ENTITY add.plaintextdomain "Назва дамену простага тэксту:">
+<!ENTITY add.plaintext.accesskey "а">
+<!ENTITY domainnameError.title "Памылка назвы дамену">
+<!ENTITY duplicationError.label "Назва дамену @string@ ужо існуе  ў гэтым спісе.">
+<!ENTITY dualEntryError.label "Назва дамену не можа з'яўляцца адначасова ў HTML спісе і спісе простага тэксту. Назва дамену @string@ ўжо існуе.">

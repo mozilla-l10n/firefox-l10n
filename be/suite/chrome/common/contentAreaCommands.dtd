@@ -1,0 +1,111 @@
+<!ENTITY popupWindowRejectCmd.label "Адхіляць вокны-вынырцы з гэтай пляцоўкі">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label "Дазваляць вокны-вынырцы з гэтай пляцоўкі">
+<!ENTITY popupWindowAllowCmd.accesskey "">
+<!ENTITY openLinkCmd.label "Адчыніць спасылку ў новым акне">
+<!ENTITY openLinkCmd.accesskey "п">
+<!ENTITY openLinkCmdInTab.label "Адчыніць спасылку ў новай устаўцы">
+<!ENTITY openLinkCmdInTab.accesskey "й">
+<!ENTITY openLinkInWindowCmd.label "Адчыніць">
+<!ENTITY openLinkInWindowCmd.accesskey "А">
+<!ENTITY openFrameCmd.label "Адчыніць рамку ў новым акне">
+<!ENTITY openFrameCmd.accesskey "ч">
+<!ENTITY openFrameCmdInTab.label "Адчыніць рамку ў новай устаўцы">
+<!ENTITY openFrameCmdInTab.accesskey "ў">
+<!ENTITY showOnlyThisFrameCmd.label "Паказваць толькі гэтую рамку">
+<!ENTITY showOnlyThisFrameCmd.accesskey "Г">
+<!ENTITY addToBookmarksCmd.label "Дадаць закладку да гэтай старонкі">
+<!ENTITY addToBookmarksCmd.accesskey "З">
+<!ENTITY goBackCmd.label "Назад">
+<!ENTITY goBackCmd.accesskey "з">
+<!ENTITY goForwardCmd.label "Наперад">
+<!ENTITY goForwardCmd.accesskey "п">
+<!ENTITY goUpCmd.label "Угору">
+<!ENTITY goUpCmd.accesskey "У">
+<!ENTITY reloadCmd.label "Абнавіць">
+<!ENTITY reloadCmd.accesskey "в">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY stopCmd.label "Прыпыніць">
+<!ENTITY stopCmd.accesskey "ы">
+<!ENTITY reloadFrameCmd.label "Абнавіць рамку">
+<!ENTITY reloadFrameCmd.accesskey "ь">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Праглядзець зыходнік вылучэння">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Праглядзець зыходнік MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "л">
+<!ENTITY viewPageSourceCmd.label "Праглядзець зыходнік старонкі">
+<!ENTITY viewPageSourceCmd.accesskey "З">
+<!ENTITY viewFrameSourceCmd.label "Праглядзець зыходнік рамкі">
+<!ENTITY viewFrameSourceCmd.accesskey "З">
+<!ENTITY viewPageInfoCmd.label "Праглядзець звесткі пра старонку">
+<!ENTITY viewPageInfoCmd.accesskey "З">
+<!ENTITY viewFrameInfoCmd.label "Праглядзець звесткі пра рамку">
+<!ENTITY viewFrameInfoCmd.accesskey "З">
+<!ENTITY fitImageCmd.label "Расцягнуць малюнак у акне">
+<!ENTITY fitImageCmd.accesskey "ц">
+<!ENTITY reloadImageCmd.label "Абнавіць малюнак">
+<!ENTITY reloadImageCmd.accesskey "б">
+<!ENTITY viewImageCmd.label "Праглядзець малюнак">
+<!ENTITY viewImageCmd.accesskey "М">
+<!ENTITY viewBGImageCmd.label "Праглядзець малюнак фону">
+<!ENTITY viewBGImageCmd.accesskey "Ф">
+<!ENTITY setWallpaperCmd.label "Усталяваць як шпалеры">
+<!ENTITY setWallpaperCmd.accesskey "Ш">
+<!ENTITY bookmarkPageCmd.label "Дадаць закладку да гэтай старонкі">
+<!ENTITY bookmarkPageCmd.accesskey "С">
+<!ENTITY bookmarkLinkCmd.label "Дадаць закладку да гэтай спасылкі">
+<!ENTITY bookmarkLinkCmd.accesskey "і">
+<!ENTITY bookmarkFrameCmd.label "Дадаць закладку да гэтай рамкі">
+<!ENTITY bookmarkFrameCmd.accesskey "д">
+<!ENTITY savePageAsCmd.label "Захаваць старонку як…">
+<!ENTITY savePageCmd.label "Захаваць старонку">
+<!ENTITY savePageCmd.accesskey "а">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameAsCmd.label "Захаваць рамку як…">
+<!ENTITY saveFrameCmd.label "Захаваць рамку">
+<!ENTITY saveFrameCmd.accesskey "к">
+<!ENTITY saveLinkAsCmd.label "Захаваць мэту спасылкі як…">
+<!ENTITY saveLinkCmd.label "Захаваць мэту спасылкі">
+<!ENTITY saveLinkCmd.accesskey "т">
+<!ENTITY saveImageAsCmd.label "Захаваць малюнак як…">
+<!ENTITY saveImageCmd.label "Захаваць малюнак">
+<!ENTITY saveImageCmd.accesskey "м">
+<!ENTITY copyCmd.label "Капіяваць">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY selectAllCmd.label "Вылучыць усё">
+<!ENTITY selectAllCmd.accesskey "ё">
+<!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyLinkCmd.accesskey "М">
+<!ENTITY copyImageCmd.label "Капіяваць малюнак">
+<!ENTITY copyImageCmd.accesskey "л">
+<!ENTITY metadataCmd.label "Уласцівасці">
+<!ENTITY metadataCmd.accesskey "У">
+<!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
+<!ENTITY copyEmailCmd.accesskey "Э">
+<!ENTITY pasteCmd.label "Уставіць">
+<!ENTITY pasteCmd.accesskey "У">
+<!ENTITY cutCmd.label "Выразаць">
+<!ENTITY cutCmd.accesskey "р">
+<!ENTITY deleteCmd.label "Выдаліць">
+<!ENTITY deleteCmd.accesskey "д">
+<!ENTITY undoCmd.label "Адмяніць">
+<!ENTITY undoCmd.accesskey "м">
+<!ENTITY redoCmd.label "Вярнуць">
+<!ENTITY redoCmd.accesskey "р">
+<!ENTITY thisFrameMenu.label "Гэтая рамка">
+<!ENTITY thisFrameMenu.accesskey "Р">
+<!ENTITY search.accesskey "ш">
+<!ENTITY bidiSwitchPageDirectionItem.label "Пераключыць кірунак старонкі">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "р">
+<!ENTITY bidiSwitchTextDirectionItem.label "Пераключыць кірунак тэксту">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "т">
+<!ENTITY spellAddToDictionary.label "Дадаць у слоўнік">
+<!ENTITY spellAddToDictionary.accesskey "Д">
+<!ENTITY spellIgnoreWord.label "Ігнараваць слова">
+<!ENTITY spellIgnoreWord.accesskey "с">
+<!ENTITY spellCheckEnable.label "Правяраць правапіс">
+<!ENTITY spellCheckEnable.accesskey "п">
+<!ENTITY spellNoSuggestions.label "(няма прапановаў)">
+<!ENTITY spellDictionaries.label "Мовы">
+<!ENTITY spellDictionaries.accesskey "М">
+<!ENTITY spellAddDictionaries.label "Загрузіць іншыя слоўнікі…">
+<!ENTITY spellAddDictionaries.accesskey "З">

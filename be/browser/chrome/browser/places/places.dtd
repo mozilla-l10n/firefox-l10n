@@ -1,0 +1,189 @@
+<!ENTITY places.library.title "Бібліятэка">
+<!ENTITY places.library.width "740">
+<!ENTITY places.library.height "520">
+<!ENTITY organize.label "Уладкаваць">
+<!ENTITY organize.accesskey "У">
+<!ENTITY file.accesskey "Ф">
+<!ENTITY file.close.label "Зачыніць">
+<!ENTITY file.close.accesskey "ч">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "Праўка">
+<!ENTITY edit.accesskey "П">
+<!ENTITY views.label "Праявы">
+<!ENTITY views.accesskey "П">
+<!ENTITY view.toolbar.label "Прыладапаліца">
+<!ENTITY view.toolbar.accesskey "р">
+<!ENTITY view.columns.label "Паказаць слупкі">
+<!ENTITY view.columns.accesskey "с">
+<!ENTITY view.sort.label "Размеркаваць">
+<!ENTITY view.sort.accesskey "м">
+<!ENTITY view.unsorted.label "Неразмеркаваныя">
+<!ENTITY view.unsorted.accesskey "Н">
+<!ENTITY view.sortAscending.label "Размеркаваць ад А да Я">
+<!ENTITY view.sortAscending.accesskey "А">
+<!ENTITY view.sortDescending.label "Размеркаваць ад Я да А">
+<!ENTITY view.sortDescending.accesskey "Я">
+<!ENTITY help.usingBookmarks.label "Ужыванне закладак">
+<!ENTITY help.usingBookmarks.accesskey "з">
+<!ENTITY help.usingHistory.label "Ужыванне гісторыі">
+<!ENTITY help.usingHistory.accesskey "г">
+<!ENTITY help.advancedTips.label "Парады і хітрасці">
+<!ENTITY help.advancedTips.accesskey "х">
+<!ENTITY cmd.findInBookmarks.label "Знайсці ў закладках…">
+<!ENTITY cmd.findInBookmarks.accesskey "З">
+<!ENTITY cmd.findCurrent.label "Шукаць у гэтым зборы…">
+<!ENTITY cmd.findCurrent.accesskey "у">
+<!ENTITY cmd.exportHTML.label "Экспарт HTML…">
+<!ENTITY cmd.exportHTML.accesskey "Э">
+<!ENTITY cmd.importHTML.label "Імпарт HTML…">
+<!ENTITY cmd.importHTML.accesskey "І">
+<!ENTITY cmd.backup.label "Стварыць адноўку…">
+<!ENTITY cmd.backup.accesskey "С">
+<!ENTITY cmd.restore2.label "Аднавіць">
+<!ENTITY cmd.restore2.accesskey "н">
+<!ENTITY cmd.restoreFromFile.label "Выбраць файл…">
+<!ENTITY cmd.restoreFromFile.accesskey "В">
+<!ENTITY cmd.select_all.label "Вылучыць усё">
+<!ENTITY cmd.select_all.accesskey "у">
+<!ENTITY cmd.select_all.key "a">
+<!ENTITY cmd.edit_cut.label "Выразаць">
+<!ENTITY cmd.edit_cut.accesskey "В">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "Капіяваць">
+<!ENTITY cmd.edit_copy.accesskey "К">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "Уставіць">
+<!ENTITY cmd.edit_paste.accesskey "У">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "Выдаліць">
+<!ENTITY cmd.edit_delete.accesskey "В">
+<!ENTITY cmd.edit_undo.label "Адмяніць">
+<!ENTITY cmd.edit_undo.accesskey "А">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "Вярнуць">
+<!ENTITY cmd.edit_redo.accesskey "В">
+<!ENTITY cmd.edit_redo.key "y">
+<!ENTITY cmd.open.label "Адчыніць">
+<!ENTITY cmd.open.accesskey "А">
+<!ENTITY cmd.open_window.label "Адчыніць у новым акне">
+<!ENTITY cmd.open_window.accesskey "н">
+<!ENTITY cmd.open_tab.label "Адчыніць у новай устаўцы">
+<!ENTITY cmd.open_tab.accesskey "в">
+<!ENTITY cmd.open_all_in_tabs.label "Адчыніць усе ў устаўках">
+<!ENTITY cmd.open_all_in_tabs.accesskey "у">
+<!ENTITY cmd.properties.label "Уласцівасці">
+<!ENTITY cmd.properties.accesskey "У">
+<!ENTITY cmd.show_info.key "i">
+<!ENTITY cmd.rename.label "Перайменаваць">
+<!ENTITY cmd.rename.accesskey "П">
+<!ENTITY cmd.sortby_name.label "Размеркаваць па назве">
+<!ENTITY cmd.sortby_name.accesskey "н">
+<!ENTITY cmd.context_sortby_name.accesskey "н">
+<!ENTITY cmd.new_bookmark.label "Новая закладка…">
+<!ENTITY cmd.new_bookmark.accesskey "Н">
+<!ENTITY cmd.new_livemark.label "Новая жывая закладка…">
+<!ENTITY cmd.new_livemark.accesskey "ж">
+<!ENTITY cmd.new_folder.label "Новая папка…">
+<!ENTITY cmd.new_folder.accesskey "Н">
+<!ENTITY cmd.context_new_folder.accesskey "п">
+<!ENTITY cmd.new_separator.label "Новы раздзяляльнік">
+<!ENTITY cmd.new_separator.accesskey "р">
+<!ENTITY cmd.reloadLivebookmark.label "Абнавіць жывую закладку">
+<!ENTITY cmd.reloadLivebookmark.accesskey "А">
+<!ENTITY cmd.reloadMicrosummary.label "Абнавіць жывую закладку">
+<!ENTITY cmd.reloadMicrosummary.accesskey "А">
+<!ENTITY cmd.groupby_site.label "Купаваць па пляцоўкам">
+<!ENTITY cmd.groupby_site.accesskey "К">
+<!ENTITY cmd.groupby_page.label "Купаваць па старонкам">
+<!ENTITY cmd.groupby_page.accesskey "с">
+<!ENTITY cmd.groupby_feed.label "Купаваць па падпісцы">
+<!ENTITY cmd.groupby_feed.accesskey "п">
+<!ENTITY cmd.groupby_post.label "Купаваць па допісам">
+<!ENTITY cmd.groupby_post.accesskey "д">
+<!ENTITY cmd.moveBookmarks.label "Рухаць…">
+<!ENTITY cmd.moveBookmarks.accesskey "Р">
+<!ENTITY col.name.label "Назва">
+<!ENTITY col.tags.label "Тэгі">
+<!ENTITY col.url.label "Месцазнаходжанне">
+<!ENTITY col.lastvisit.label "Дата наведвання">
+<!ENTITY col.visitcount.label "Колькасць наведванняў">
+<!ENTITY col.keyword.label "Ключавое слова">
+<!ENTITY col.description.label "Апісанне">
+<!ENTITY col.dateadded.label "Дададзена">
+<!ENTITY col.lastmodified.label "Апошняе змяненне">
+<!ENTITY search.label "Пошук:">
+<!ENTITY search.accesskey "П">
+<!ENTITY search.collection.label "Толькі гэты збор">
+<!ENTITY search.collection.accesskey "з">
+<!ENTITY search.allBookmarks.label "Усе закладкі">
+<!ENTITY search.allBookmarks.accesskey "У">
+<!ENTITY search.scopeFolder.label "Выбраная папка">
+<!ENTITY search.scopeFolder.accesskey "п">
+<!ENTITY search.scopeAll.label "Усе закладкі">
+<!ENTITY search.scopeAll.accesskey "У">
+<!ENTITY search.scopeMenu.label "Меню закладак">
+<!ENTITY search.scopeMenu.accesskey "М">
+<!ENTITY search.scopeToolbar.label "Прыладапаліца закладак">
+<!ENTITY search.scopeToolbar.accesskey "П">
+<!ENTITY search.scopeDownloads.label "Загрузкі">
+<!ENTITY search.scopeDownloads.accesskey "З">
+<!ENTITY search.scopeHistory.label "Гісторыя">
+<!ENTITY search.scopeHistory.accesskey "Г">
+<!ENTITY search.scopeBarExpanderDown.tooltip "Паказаць будаўнік пошуку">
+<!ENTITY search.scopeBarExpanderUp.tooltip "Схаваць будаўнік пошуку">
+<!ENTITY saveSearch.label "Захаваць">
+<!ENTITY saveSearch.accesskey "З">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "Шукаць толькі закладкі">
+<!ENTITY advancedSearch.match.label "Адпавядаюць">
+<!ENTITY advancedSearch.all.label "усім">
+<!ENTITY advancedSearch.any.label "нейкаму">
+<!ENTITY advancedSearch.rules.label " з наступных правілаў:">
+<!ENTITY advancedSearch.subj_keyword.label "Які змяшчае тэкст">
+<!ENTITY advancedSearch.subj_visited.label "Наведаны">
+<!ENTITY advancedSearch.subj_location.label "Месцазнаходжанне">
+<!ENTITY advancedSearch.location_startswith.label "пачынаецца з">
+<!ENTITY advancedSearch.location_is.label "тоесны">
+<!ENTITY advancedSearch.location_onsite.label "на пляцоўцы">
+<!ENTITY advancedSearch.time_is.label "на">
+<!ENTITY advancedSearch.time_before.label "перад">
+<!ENTITY advancedSearch.time_after.label "пасля">
+<!ENTITY advancedSearch.time_inlast.label "у апошнія">
+<!ENTITY advancedSearch.last_days.label "дзён">
+<!ENTITY advancedSearch.last_weeks.label "тыдняў">
+<!ENTITY advancedSearch.last_months.label "месяцаў">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "Купаваць па:">
+<!ENTITY advancedSearch.groupby_host.label "трымальнікам">
+<!ENTITY advancedSearch.groupby_domain.label "даменам">
+<!ENTITY advancedSearch.groupby_folder.label "папкам">
+<!ENTITY advancedSearch.sortby.label "Размеркаваць па:">
+<!ENTITY advancedSearch.sortby_title.label "загалоўкам">
+<!ENTITY advancedSearch.sortby_date.label "датам">
+<!ENTITY advancedSearch.sortby_visit.label "колькасці наведванняў">
+<!ENTITY advancedSearch.sortby_url.label "url">
+<!ENTITY advancedSearch.sortby_asc.label "узыходна">
+<!ENTITY advancedSearch.sortby_desc.label "сыходна">
+<!ENTITY advancedSearch.max.label "Найбольшы лік вынікаў:">
+<!ENTITY cmd.find.key "f">
+<!ENTITY feed.subscribe.label "Жывільнік">
+<!ENTITY feed.subscribe.tooltip "Падпісацца">
+<!ENTITY view.detailsMacOSX.label "Спіс">
+<!ENTITY view.details.label "Падрабязнасці">
+<!ENTITY view.details.accesskey "д">
+<!ENTITY view.addons.label "Набыць дадаткі праяваў">
+<!ENTITY maintenance.label "Імпарт і адноўка">
+<!ENTITY maintenance.accesskey "І">
+<!ENTITY backCmd.label "Назад">
+<!ENTITY backCmd.accesskey "з">
+<!ENTITY backButton.tooltip "Вярнуцца назад">
+<!ENTITY forwardCmd.label "Наперад">
+<!ENTITY forwardCmd.accesskey "п">
+<!ENTITY forwardButton.tooltip "Пайсці наперад">
+<!ENTITY detailsPane.more.label "Больш">
+<!ENTITY detailsPane.more.accesskey "Б">
+<!ENTITY detailsPane.less.label "Менш">
+<!ENTITY detailsPane.less.accesskey "М">
+<!ENTITY detailsPane.noPreviewAvailable.label "Перадпрагляд">
+<!ENTITY detailsPane.selectAnItemText.description "Выбар адзінкі для прагляду і праўкі яе ўласцівасцяў">

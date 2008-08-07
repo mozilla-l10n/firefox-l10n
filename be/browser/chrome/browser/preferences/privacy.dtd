@@ -1,0 +1,32 @@
+<!ENTITY history.label "Гісторыя">
+<!ENTITY rememberDaysBefore.label "Трымаць маю гісторыю прынамсі">
+<!ENTITY rememberDaysBefore.accesskey "г">
+<!ENTITY rememberDaysAfter2.label "дзён">
+<!ENTITY rememberForms.label "Памятаць, што я ўводзіў у формы і на паліцы пошуку">
+<!ENTITY rememberForms.accesskey "ф">
+<!ENTITY rememberDownloads.label "Памятаць, што я выпампоўваў">
+<!ENTITY rememberDownloads.accesskey "п">
+<!ENTITY cookies.label "Біркі">
+<!ENTITY acceptCookies.label "Набываць біркі з пляцовак">
+<!ENTITY acceptCookies.accesskey "б">
+<!ENTITY acceptThirdParty.label "Набываць пабочныя біркі">
+<!ENTITY acceptThirdParty.accesskey "о">
+<!ENTITY keepUntil.label "Трымаць пакуль:">
+<!ENTITY keepUntil.accesskey "Т">
+<!ENTITY expire.label "яны не састарэюць">
+<!ENTITY close.label "Я не закрыю &brandShortName;">
+<!ENTITY askEachTime.label "пытаць мяне кожнага разу">
+<!ENTITY cookieExceptions.label "Выключэнні…">
+<!ENTITY cookieExceptions.accesskey "В">
+<!ENTITY showCookies.label "Паказаць біркі…">
+<!ENTITY showCookies.accesskey "П">
+<!ENTITY privateData.label "Прыватныя даныя">
+<!ENTITY alwaysClear.label "Заўсёды ачышчаць мае прыватныя даныя перад закрыццём &brandShortName;">
+<!ENTITY alwaysClear.accesskey "ў">
+<!ENTITY askBeforeClear.label "Спытаць мяне перад ачысткаю прыватных даных">
+<!ENTITY askBeforeClear.accesskey "С">
+<!ENTITY clearDataSettings.label "Наладжванні…">
+<!ENTITY clearDataSettings.accesskey "л">
+<!ENTITY clearDataNow.label "Ачысціць зараз…">
+<!ENTITY clearDataNow.label2 "Ачысціць зараз">
+<!ENTITY clearDataNow.accesskey "з">

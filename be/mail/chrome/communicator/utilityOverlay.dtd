@@ -1,0 +1,60 @@
+<!ENTITY fileMenu.label "Файл">
+<!ENTITY fileMenu.accesskey "ф">
+<!ENTITY newMenu.label "Стварыць">
+<!ENTITY newMenu.accesskey "С">
+<!ENTITY editMenu.label "Праўка">
+<!ENTITY editMenu.accesskey "П">
+<!ENTITY undoCmd.label "Адмяніць">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "м">
+<!ENTITY redoCmd.label "Вярнуць">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "В">
+<!ENTITY cutCmd.label "Выразаць">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "р">
+<!ENTITY copyCmd.label "Капіяваць">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "к">
+<!ENTITY pasteCmd.label "Уставіць">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "у">
+<!ENTITY deleteCmd.label "Выдаліць">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "д">
+<!ENTITY selectAllCmd.label "Вылучыць усё">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "л">
+<!ENTITY preferencesCmd.label "Наладкі…">
+<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY preferencesCmdUnix.label "Перавагі">
+<!ENTITY preferencesCmdUnix.accesskey "П">
+<!ENTITY findTypeTextCmd.label "Знаходзіць тэкст, што вы набіраеце">
+<!ENTITY findTypeTextCmd.accesskey "т">
+<!ENTITY viewMenu.label "Прагляд">
+<!ENTITY viewMenu.accesskey "г">
+<!ENTITY viewToolbarsMenu.label "Паліцы прыладаў">
+<!ENTITY viewToolbarsMenu.accesskey "П">
+<!ENTITY showTaskbarCmd.label "Паліца з статусам">
+<!ENTITY showTaskbarCmd.accesskey "С">
+<!ENTITY direct.label "У сетцы (пасярэднік: няма)">
+<!ENTITY direct.accesskey "н">
+<!ENTITY manual.label "У сетцы (пасярэднік: уручную)">
+<!ENTITY manual.accesskey "р">
+<!ENTITY pac.label "У сетцы (пасярэднік: аўта)">
+<!ENTITY pac.accesskey "с">
+<!ENTITY proxy.label "Наладка пасярэднікаў…">
+<!ENTITY proxy.accesskey "л">
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+<!ENTITY closeCmd.label "Зачыніць">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "ч">
+<!ENTITY closeWindow.label "Зачыніць вакно">
+<!ENTITY quitApplicationCmd.label "Выйсці">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "В">
+<!ENTITY quitApplicationCmdUnix.label "Выйсці">
+<!ENTITY quitApplicationCmdUnix.accesskey "В">
+<!ENTITY quitApplicationCmdMac.label "Выйсці з &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey "В">

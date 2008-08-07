@@ -1,0 +1,33 @@
+<!ENTITY menuBar.tooltip "Паліца з меню">
+<!ENTITY fileMenu.label "Файл">
+<!ENTITY closeCmd.label "Зачыніць">
+<!ENTITY editMenu.label "Праўка">
+<!ENTITY undoCmd.label "Адмяніць">
+<!ENTITY redoCmd.label "Вярнуць">
+<!ENTITY cutCmd.label "Выразаць">
+<!ENTITY copyCmd.label "Капіяваць">
+<!ENTITY pasteCmd.label "Уставіць">
+<!ENTITY deleteCmd.label "Выдаліць">
+<!ENTITY deleteHostnameCmd.accesskey "т">
+<!ENTITY deleteDomainCmd.accesskey "а">
+<!ENTITY selAllCmd.label "Вылучыць усё">
+<!ENTITY findHisCmd.label "Шукаць у гісторыі…">
+<!ENTITY findHisCmd.commandkey "f">
+<!ENTITY findHisCmd.accesskey "Ш">
+<!ENTITY groupBy.label "Згрупаваць па">
+<!ENTITY groupBy.accesskey "г">
+<!ENTITY groupByDay.label "Дзень">
+<!ENTITY groupByDay.accesskey "Д">
+<!ENTITY groupBySite.label "Пляцоўка">
+<!ENTITY groupBySite.accesskey "П">
+<!ENTITY groupByNone.label "Нічога">
+<!ENTITY groupByNone.accesskey "Н">
+<!ENTITY historyWindowTitle.label "Гісторыя">
+<!ENTITY menuitem.view.unsorted.label "Неразмеркаваныя">
+<!ENTITY menuitem.view.unsorted.accesskey "е">
+<!ENTITY sortAscending.label "Узыходна">
+<!ENTITY sortAscending.accesskey "У">
+<!ENTITY sortDescending.label "Сыходна">
+<!ENTITY sortDescending.accesskey "С">
+<!ENTITY menuitem.view.show_columns.label "Паказваць слупкі">
+<!ENTITY menuitem.view.show_columns.accesskey "с">

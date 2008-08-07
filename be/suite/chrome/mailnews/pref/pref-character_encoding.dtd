@@ -1,0 +1,12 @@
+<!--null-->
+<!ENTITY pref.character.encoding.title "Кадоўка знакаў">
+<!ENTITY messageDisplay.caption "Адлюстраванне лістоў">
+<!ENTITY viewDefaultCharset.label "Змоўчная кадоўка знакаў:">
+<!ENTITY viewDefaultCharset.accesskey "З">
+<!ENTITY composingMessages.caption "Укладанне лістоў">
+<!ENTITY useMIME.label "Ужываць MIME кадоўку 'quoted printable' для лістоў, якія змяшчаюць 8-бітавыя знакі. Пакіньце неадзначанай, каб дасылаць лісты як ёсць.">
+<!ENTITY useMIME.accesskey "У">
+<!ENTITY sendDefaultCharset.label "Змоўчная кадоўка знакаў:">
+<!ENTITY sendDefaultCharset.accesskey "д">
+<!ENTITY replyInDefaultCharset2.label "Ужываць, калі магчыма, змоўчную кадоўку знакаў у адказах. (Калі неадзначана, выкарыстоўваць яе будуць толькі новыя лісты.)">
+<!ENTITY replyInDefaultCharset2.accesskey "W">

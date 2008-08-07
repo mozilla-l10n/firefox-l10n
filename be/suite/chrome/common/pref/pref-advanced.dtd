@@ -1,0 +1,8 @@
+<!ENTITY pref.advanced.title "Пашыраны">
+<!ENTITY prefEnableJava.caption "Асаблівасці, якія дапамагаюць тлумачыць старонкі сеціва">
+<!ENTITY enbJavaCheck.label "Дазволіць Java">
+<!ENTITY enbJavaCheck.accesskey "j">
+<!ENTITY systemPref.caption "Сістэмныя перавагі">
+<!ENTITY systemPrefCheck.label "Ужываць перавагі сістэмы">
+<!ENTITY systemPrefCheck.accesskey "У">
+<!ENTITY systemPref.desc "Калі гэтая адзінка адзначана, &brandShortName; наследуе перавагі сістэмы. Сістэмныя перавагі зменяць перавагі &brandShortName;.">

@@ -1,0 +1,12 @@
+<!ENTITY securityWarnings.title "Папярэджанні бяспекі">
+<!ENTITY security.warn_when "Паказваць дыялог-папярэджанне:">
+<!ENTITY security.warn_entering_secure.label "Перад праглядам тайнапіснай старонкі.">
+<!ENTITY security.warn_entering_secure.accesskey "т">
+<!ENTITY security.warn_entering_weak.label "Перад праглядам тайнапіснай старонкі, якая выкарыстоўвае шыфр нізкай якасці.">
+<!ENTITY security.warn_entering_weak.accesskey "н">
+<!ENTITY security.warn_leaving_secure.label "Перад пераходам з тайнапіснай старонкі на незашыфраваную.">
+<!ENTITY security.warn_leaving_secure.accesskey "е">
+<!ENTITY security.warn_submit_insecure.label "Калі я падаю незашыфраваныя звесткі.">
+<!ENTITY security.warn_submit_insecure.accesskey "п">
+<!ENTITY security.warn_viewing_mixed.label "Перад праглядам тайнапіснай старонкі, якая змяшчае незашыфраваныя звесткі.">
+<!ENTITY security.warn_viewing_mixed.accesskey "а">

@@ -1,0 +1,7 @@
+<!ENTITY window.title "Наладзіць загалоўкі">
+<!ENTITY addButton.label "Дадаць">
+<!ENTITY addButton.accesskey "Д">
+<!ENTITY removeButton.label "Прыняць">
+<!ENTITY removeButton.accesskey "П">
+<!ENTITY newMsgHeader.label "Загаловак новага ліста:">
+<!ENTITY newMsgHeader.accesskey "Н">

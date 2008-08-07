@@ -1,0 +1,69 @@
+<!ENTITY windowTitle.label "Чараўнік Рахункаў">
+<!ENTITY accountWizard.size "width: 52em; height: 42em;">
+<!ENTITY accountSetupInfo.label "Каб атрымліваць лісты, вы павінны спярша ўсталяваць рахунак Пошты ці Навінакупы.">
+<!ENTITY accountTypeTitle.label "Наладжванне новага рахунку">
+<!ENTITY accountTypeDesc.label "Гэты чараўнік збярэ звесткі, неабходныя для ўсталявання рахунку Пошты ці Навінакупы. Калі вы не ведаеце патрэбную інфармацыю, звяжыцеся, калі ласка, з вашым сістэмным адміністратарам ці дастаўшчыком паслугаў Інтэрнэту.">
+<!ENTITY accountTypeDirections.label "Выберыце тып рахунку, які вы жадаеце ўсталяваць:">
+<!ENTITY accountTypeMail.label "Рахунак э-пошты">
+<!ENTITY accountTypeMail.accesskey "э">
+<!ENTITY accountTypeNews.label "Рахунак навінакупы">
+<!ENTITY accountTypeNews.accesskey "в">
+<!ENTITY identityTitle.label "Адмета">
+<!ENTITY identityDesc.label "Кожны рахунак мае адмету, або звесткі, якія вызначаюць вас для іншых, калі яны атрымліваюць вашы лісты.">
+<!ENTITY fullnameDesc.label "Увядзіце імя, якое вы хочаце бачыць у поле &quot;Ад&quot; вашых  выходных лістоў">
+<!ENTITY fullnameExample.label "(напрыклад: &quot;Юрась Братчык&quot;).">
+<!ENTITY fullnameLabel.label "Ваша імя:">
+<!ENTITY fullnameLabel.accesskey "В">
+<!ENTITY emailLabel.label "Адрас э-пошты:">
+<!ENTITY emailLabel.accesskey "Э">
+<!ENTITY emailDesc.label "Увядзіце ваш адрас э-пошты; той адрас, якім іншыя будуць карыстацца, каб дасылаць лісты да вас">
+<!ENTITY emailExample.label "(напрыклад: user@example.net).">
+<!ENTITY serverTitle.label "Звесткі аб паслугачы">
+<!ENTITY incomingServerTitle.label "Уваходны паслугач">
+<!ENTITY incomingServerTypeDesc.label "Вылучыце тып уваходнага паслугача, якім вы карыстаецеся.">
+<!ENTITY incomingServerTypeLabel.label "Тып паслугача:">
+<!ENTITY incomingServerNameDesc.label "Увядзіце назву вашага ўваходнага паслугача (напрыклад: &quot;mail.example.net&quot;).">
+<!ENTITY incomingServerLabel.label "Уваходны паслугач:">
+<!ENTITY incomingServerLabel.accesskey "П">
+<!ENTITY newsServerNameDesc.label "Увядзіце назву вашага паслугача навінаў (NNTP) (напрыклад: &quot;news.example.net&quot;).">
+<!ENTITY smtpServerTitle.label "Выходны паслугач (SMTP)">
+<!ENTITY smtpServerDesc.label "Увядзіце назву вашага выходнага паслугача (SMTP) (напрыклад: &quot;smtp.example.net&quot;).">
+<!ENTITY smtpServerLabel.label "Выходны паслугач:">
+<!ENTITY smtpServerLabel.accesskey "В">
+<!ENTITY newsServerLabel.label "Паслугач навінакупы:">
+<!ENTITY newsServerLabel.accesskey "Н">
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Паслугач навінаў">
+<!ENTITY haveSmtp1.prefix "Ваш існы выходны паслугач (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;, будзе выкарыстоўвацца. Вы можаце змяніць наладжванні выходнага паслугача, калі выбераце Наладжванні Рахунку Пошты і Навінакупаў у меню Рэдагаваць.">
+<!ENTITY loginTitle.label "Імёны карыстальнікаў">
+<!ENTITY usernameDesc.label "Увядзіце ўваходнае імя карыстальніка, якое надаў вам ваш дастаўшчык э-пошты">
+<!ENTITY usernameExample.label "(напрыклад: &quot;u-brattchyk&quot;).">
+<!ENTITY usernameLabel.label "Уваходнае імя карыстальніка:">
+<!ENTITY usernameLabel.accesskey "К">
+<!ENTITY usernameSmtpDesc.label "Увядзіце імя выходнага карыстальніка, якое даў вам ваш дастаўшчык э-пошты (звычайна яно тое ж, што і імя ўваходнага карыстальніка).">
+<!ENTITY usernameSmtpLabel.label "Выходнае імя карыстальніка:">
+<!ENTITY usernameSmtpLabel.accesskey "ы">
+<!ENTITY haveSmtp2.prefix "Ваша існае выходнае (SMTP) імя карыстальніка, &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;, будзе выкарыстоўвацца. Вы можаце змяніць наладжванні выходнага паслугача, калі выбераце Наладжванні Рахунку Пошты і Навінакупаў у меню Рэдагаваць.">
+<!ENTITY haveSmtp3.prefix "Ваш выходны паслугач (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix "&quot;, тоесны вашаму ўваходнаму паслугачу, ваша ўваходнае імя карыстальніка будзе ўжывацца, каб зварочвацца да яго. Вы можаце змяніць наладжванні выходнага паслугача, калі выбераце Наладжванні Рахунку ў меню Прылады.">
+<!ENTITY accnameTitle.label "Назва рахунку">
+<!ENTITY accnameDesc.label "Увядзіце пажаданую назву для спасылання на гэты рахунак (напрыклад: &quot;Праца&quot;, &quot;Хатні Рахунак&quot; ці &quot;Навіны&quot;).">
+<!ENTITY accnameExample.label "Напрыклад: Праца, Хатні Рахунак ці  Навіны">
+<!ENTITY accnameLabel.label "Назва рахунку:">
+<!ENTITY accnameLabel.accesskey "Р">
+<!ENTITY completionTitle.label "Віншаванні!">
+<!ENTITY completionText.label "Упэўніцеся, калі ласка, ці звесткі ўнізе правільныя.">
+<!ENTITY serverTypePrefix.label "Тып уваходнага паслугача:">
+<!ENTITY serverNamePrefix.label "Назва ўваходнага паслугача:">
+<!ENTITY smtpServerNamePrefix.label "Назва выходнага паслугача (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Назва паслугача навінаў (NNTP):">
+<!ENTITY downloadOnLogin.label "Загрузіць лісты зараз">
+<!ENTITY deferStorageDesc.label "Прыміце адзнаку з гэтай скрынкі, каб захоўваць пошту гэтага рахунку ў яго ўласнай дырэкторыі. Тады гэты рахунак будзе паказвацца на верхнім ўзроўні. Інакш ён будзе часткаю папкі Агульныя Атрыманыя рахунку Мясцовыя Папкі.">
+<!ENTITY deferStorage.label "Ужываць папку Агульныя Атрыманыя (захоўваць пошту ў Мясцовых Папках)">
+<!ENTITY clickFinish.label "Пстрыкніце Скончыць, каб захаваць вашы наладжванні і выйсці з Чараўніка Рахункаў.">
+<!ENTITY clickFinish.labelMac "Пстрыкніце Гатова, каб захаваць вашы наладжванні і выйсці з Чараўніка Рахункаў.">

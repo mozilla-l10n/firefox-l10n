@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Каб захаваць дыскавую прастору, не загружаць:">
+<!ENTITY doNotDownload.label "Каб захаваць дыскавую прастору, не загружаць для карыстання па-за сеткаю:">
+<!ENTITY offlineNewFolder.label "Калі я ствараю новыя папкі, вылучыць іх для ўжывання па-за сеткай">
+<!ENTITY offlineNewFolder.accesskey "К">
+<!ENTITY offlineNotDownload.label "Лісты, большыя чым">
+<!ENTITY offlineNotDownload.accesskey "б">
+<!ENTITY kb.label "КБ">
+<!ENTITY days.label "дзён">
+<!ENTITY daysOld.label "дзён">
+<!ENTITY message.label "апошніх лістоў">
+<!ENTITY nntpNotDownloadRead.label "Прачытаныя лісты">
+<!ENTITY nntpNotDownloadRead.accesskey "ч">
+<!ENTITY nntpDownloadMsg.label "Лісты, якім болей, чым">
+<!ENTITY nntpDownloadMsg.accesskey "б">
+<!ENTITY retentionCleanup.label "Каб вызваліць месца на дыску, старыя лісты можна назаўсёды выдаліць ">
+<!ENTITY retentionKeepMsg.label "Выдаліць лісты, якім больш за">
+<!ENTITY retentionKeepMsg.accesskey "з">
+<!ENTITY retentionKeepAll.label "Не выдаляць ніякіх лістоў">
+<!ENTITY retentionKeepAll.accesskey "н">
+<!ENTITY retentionKeepNew.label "Выдаліць усе, акрамя">
+<!ENTITY retentionKeepNew.accesskey "у">
+<!ENTITY retentionKeepUnread.label "Заўсёды выдаляць прачытаныя лісты">
+<!ENTITY retentionKeepUnread.accesskey "ч">
+<!ENTITY nntpRemoveBody.label "Толькі целы лістоў, якім менш, чым">
+<!ENTITY nntpRemoveBody.accesskey "ц">
+<!ENTITY offlineSelectNntp.label "Вылучыць навінакупы для карыстання па-за сеткаю…">
+<!ENTITY offlineSelectNntp.accesskey "с">
+<!ENTITY offlineSelectImap.label "Вылучыць папкі для карыстання па-за сеткаю…">
+<!ENTITY offlineSelectImap.accesskey "с">
+<!ENTITY offlineDesc.label "Вы можаце загружаць вашы лісты мясцова, такім чынам яны будуць даступны, калі вы працуеце па-за сеткай.">
+<!ENTITY makeInboxMsgsAvailable.label "Зрабіць лісты ў маёй папцы Атрыманыя даступнымі для працы па-за сеткай">
+<!ENTITY makeInboxMsgsAvailable.accesskey "р">
+<!ENTITY offlineGroupTitle.label "Па-за сеткай">
+<!ENTITY diskspaceGroupTitle.label "Дыскавая прастора">

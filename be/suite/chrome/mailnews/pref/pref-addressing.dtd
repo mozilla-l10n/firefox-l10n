@@ -1,0 +1,18 @@
+<!--null-->
+<!ENTITY pref.addressing.title "Адрасаванне">
+<!ENTITY emailCollectiontitle.label "Збіранне адрасоў э-пошты">
+<!ENTITY emailCollectionPicker.label "Дадаваць адрасы э-пошты ў маю:">
+<!ENTITY emailCollectionPicker.accesskey "Д">
+<!ENTITY emailCollectiontext.label "Адрасы э-пошты з выходных лістоў могуць самастойна дадавацца ў мясцовую адрасную кнігу.">
+<!ENTITY addressingTitle.label "Самазавяршэнне адрасоў">
+<!ENTITY highlightNonMatches.label "Падфарбоўваць адрасы, якія нельга самазавяршыць">
+<!ENTITY highlightNonMatches.accesskey "ф">
+<!ENTITY addressingEnable.label "Мясцовых адрасных кнігах">
+<!ENTITY addressingEnable.accesskey "А">
+<!ENTITY autocompleteText.label "Калі адрасуюцца лісты, шукаць адпаведныя запісы ў:">
+<!ENTITY directories.label "Паслугачы дырэкторыяў:">
+<!ENTITY directories.accesskey "Д">
+<!ENTITY editDirectories.label "Рэдагаваць дырэкторыі…">
+<!ENTITY editDirectories.accesskey "Р">
+<!ENTITY matchText.label "Калі існуе супадзенне ў вашых мясцовых адрасных кнігах:">
+<!ENTITY skipDirectory.label "Не шукаць у дырэкторыі">

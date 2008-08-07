@@ -1,0 +1,17 @@
+<!ENTITY junkSettings.label "Наладжванні лухты">
+<!ENTITY trainingWarning.label "Спачатку вы павінны натрэнаваць &brandShortName; вызначаць пошту-лухту. Ужывайце кнопку Лухта на паліцы прыладаў для пазначэння лістоў лухтою ці не. Вы мусіце вызначаць як лухтовыя, так і нелухтовыя лісты.">
+<!ENTITY level.label "Дазволіць прыстасоўныя кіроўцы поштай-лухтой для гэтага рахунку">
+<!ENTITY level.accesskey "Д">
+<!ENTITY move.label "Перамяшчаць новыя лісты-лухту ў:">
+<!ENTITY move.accesskey "П">
+<!ENTITY junkFolderOn.label "папку &quot;Лухта&quot; у:">
+<!ENTITY junkFolderOn.accesskey "Л">
+<!ENTITY otherFolder.label "Іншую:">
+<!ENTITY otherFolder.accesskey "І">
+<!ENTITY purge1.label "Самастойна выдаляць лісты-лухту, старэйшыя чым">
+<!ENTITY purge1.accesskey "С">
+<!ENTITY purge2.label "дзён">
+<!ENTITY whitelist.label "Не пазначаць лісты як лухту, калі адпраўнік у:">
+<!ENTITY whitelist.accesskey "Н">
+<!ENTITY ispHeaders.label "Давяраць загалоўкам, якія вызначаюць ліст як лухту, усталяваным:">
+<!ENTITY ispHeaders.accesskey "в">

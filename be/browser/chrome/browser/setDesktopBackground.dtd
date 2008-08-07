@@ -1,0 +1,9 @@
+<!ENTITY position.label "Месцазнаходжанне:">
+<!ENTITY tile.label "Чарапіцаю">
+<!ENTITY center.label "У сярэдзіне">
+<!ENTITY stretch.label "Расцягнуць">
+<!ENTITY preview.label "Перадпрагляд">
+<!ENTITY color.label "Колер:">
+<!ENTITY setDesktopBackground.title "Усталяваць фон працоўнага стала">
+<!ENTITY openDesktopPrefs.label "Адчыніць перавагі працоўнага стала">
+<!ENTITY closeWindow.key "w">

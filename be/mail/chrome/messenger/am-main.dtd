@@ -1,0 +1,28 @@
+<!ENTITY accountTitle.label "Наладжванні рахунку">
+<!ENTITY accountName.label "Назва рахунку:">
+<!ENTITY accountName.accesskey "Н">
+<!ENTITY accountNameDesc.label "Назва рахунку ўжываецца для вызначэння кожнага рахунку">
+<!ENTITY identityTitle.label "Змоўчная адмета">
+<!ENTITY identityDesc.label "Кожны рахунак мае адмету, або звесткі, якія іншыя людзі бачаць, калі чытаюць вашы лісты.">
+<!ENTITY name.label "Ваша імя:">
+<!ENTITY name.accesskey "І">
+<!ENTITY email.label "Адрас э-пошты:">
+<!ENTITY email.accesskey "Э">
+<!ENTITY replyTo.label "Зваротны адрас:">
+<!ENTITY replyTo.accesskey "З">
+<!ENTITY organization.label "Установа:">
+<!ENTITY organization.accesskey "У">
+<!ENTITY signature.label "Далучыць гэты подпіс:">
+<!ENTITY signature.accesskey "п">
+<!ENTITY edit.label "Рэдагаваць…">
+<!ENTITY choose.label "Выбраць…">
+<!ENTITY choose.accesskey "В">
+<!ENTITY editVCard.label "Рэдагаваць картку…">
+<!ENTITY editVCard.accesskey "К">
+<!ENTITY attachVCard.label "Далучаць маю vCard да лістоў">
+<!ENTITY attachVCard.accesskey "v">
+<!ENTITY manageIdentities.label "Кіраваць адметамі…">
+<!ENTITY manageIdentities.accesskey "а">
+<!ENTITY smtpName.label "Выходны паслугач (SMTP):">
+<!ENTITY smtpName.accesskey "В">
+<!ENTITY smtpDefaultServer.label "Ужываць змоўчны паслугач:">

@@ -1,0 +1,19 @@
+<!ENTITY enbJsCheckMailNews.label "Пошта і Навінакупы">
+<!ENTITY enbJsCheckMailNews.accesskey "П">
+<!ENTITY enbPluginCheckMailNews.label "Пошта і Навінакупы">
+<!ENTITY enbPluginCheckMailNews.accesskey "о">
+<!ENTITY mail.label "Пошта і Навінакупы">
+<!ENTITY mail.accesskey "П">
+<!ENTITY addressbook.label "Адрасная кніга">
+<!ENTITY addressbook.accesskey "А">
+<!ENTITY viewingMessages.label "Адлюстраванне лістоў">
+<!ENTITY notifications.label "Апавяшчэнне">
+<!ENTITY address.label "Адрасаванне">
+<!ENTITY composingMessages.label "Укладанне">
+<!ENTITY format.label "Фармат дасылання">
+<!ENTITY return.label "Квіткі атрымання">
+<!ENTITY disk.label "Дыскавая прастора">
+<!ENTITY junk.label "Пошта-лухта">
+<!ENTITY tags.label "Меткі">
+<!ENTITY characterEncoding.label "Кадоўка знакаў">
+<!ENTITY offline.label "Праца па-за сеткай і дыскавая прастора">

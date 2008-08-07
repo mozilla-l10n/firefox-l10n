@@ -1,0 +1,20 @@
+<!ENTITY pref.winHooks.title "Сістэма">
+<!ENTITY files.label "Windows павінна ўжываць &brandShortName;, каб адчыняць гэтыя тыпы файлаў:">
+<!ENTITY html.label "Дакументы HTML">
+<!ENTITY jpeg.label "Малюнкі JPEG">
+<!ENTITY gif.label "Малюнкі GIF">
+<!ENTITY png.label "Малюнкі PNG">
+<!ENTITY xbm.label "Малюнкі XBM">
+<!ENTITY bmp.label "Малюнкі BMP">
+<!ENTITY ico.label "Малюнкі ICO">
+<!ENTITY xml.label "Дакументы XML">
+<!ENTITY xhtml.label "Дакументы XHTML">
+<!ENTITY xul.label "Дакументы XUL">
+<!ENTITY protocols.label "Windows павінна ўжываць &brandShortName;, каб апрацоўваць гэтыя пратаколы:">
+<!ENTITY http.label "http: (Пратакол пераносу гіпертэксту)">
+<!ENTITY https.label "https: (Бяспечны HTTP)">
+<!ENTITY ftp.label "ftp: (Пратакол пераносу файлаў)">
+<!ENTITY chrome.label "chrome: (Пратакол Chrome)">
+<!ENTITY gopher.label "gopher: (Пратакол Gopher)">
+<!ENTITY showDialog.label "Папярэджваць мяне, калі іншыя прыстасаванні зменяць гэтыя наладжванні">
+<!ENTITY showDialog.accesskey "п">

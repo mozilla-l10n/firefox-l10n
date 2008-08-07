@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "Наладжванні">
+<!ENTITY security.caption "Бяспека і апазнаванне">
+<!ENTITY serverName.label "Назва паслугача:">
+<!ENTITY serverName.accesskey "Н">
+<!ENTITY serverDescription.label "Апісанне:">
+<!ENTITY serverDescription.accesskey "А">
+<!ENTITY serverPort.label "Порт:">
+<!ENTITY serverPort.accesskey "П">
+<!ENTITY alwaysUseUsername.label "Ужываць імя і пароль">
+<!ENTITY alwaysUseUsername.accesskey "У">
+<!ENTITY userName.label "Імя карыстальніка:">
+<!ENTITY userName.accesskey "К">
+<!ENTITY useSecAuth.label "Ужываць бяспечнае пазнаванне">
+<!ENTITY useSecAuth.accesskey "б">
+<!ENTITY isSecure.label "Ужываць бяспечнае злучэнне:">
+<!ENTITY neverSecure.label "Не">
+<!ENTITY neverSecure.accesskey "Н">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, калі даступны">
+<!ENTITY sometimesSTARTTLS.accesskey "д">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-праз-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "Паслугач SMTP">
+<!ENTITY serverPortDefault.label "Змоўчны:">

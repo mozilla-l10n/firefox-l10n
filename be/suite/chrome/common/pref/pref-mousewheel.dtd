@@ -1,0 +1,26 @@
+<!ENTITY pref.mouseWheel.title "Кола мышы">
+<!ENTITY mouseWheelPanel.label "Вызначыць паводзіны кола мышы, калі яна выкарыстоўваецца з змяняльнай клавішай:">
+<!ENTITY usingJustTheWheel.label "Без змяняльнай клавішы">
+<!ENTITY usingWheelAndAlt.label "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label "Вертыкальнае пракручванне">
+<!ENTITY mousewheelHorizGroup.label "Гарызантальнае пракручванне">
+<!ENTITY scroll.label "Пракруціць дакумент на">
+<!ENTITY scroll.accesskey "р">
+<!ENTITY scrollHoriz.accesskey "г">
+<!ENTITY scrollLines.label "радкоў">
+<!ENTITY scrollChars.label "знакаў">
+<!ENTITY useSystemDefault.label "Згодна сістэмнаму значэнню">
+<!ENTITY useSystemDefault.accesskey "з">
+<!ENTITY useSystemDefaultHoriz.accesskey "с">
+<!ENTITY scrollPgUpPgDn.label "Пракруціць на старонку ўверх ці ўніз">
+<!ENTITY scrollPgUpPgDn.accesskey "п">
+<!ENTITY scrollPgLtPgRt.label "Пракруціць на старонку ўлева ці направа">
+<!ENTITY scrollPgLtPgRt.accesskey "н">
+<!ENTITY history.label "Перайсці назад ці наперад згодна гісторыі азірання">
+<!ENTITY history.accesskey "п">
+<!ENTITY historyHoriz.accesskey "а">
+<!ENTITY zoom.label "Зрабіць старонку большай ці меншай">
+<!ENTITY zoom.accesskey "З">
+<!ENTITY zoomHoriz.accesskey "б">

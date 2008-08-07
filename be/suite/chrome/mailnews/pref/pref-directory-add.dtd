@@ -1,0 +1,35 @@
+<!--null-->
+<!ENTITY newDirectoryTitle.label "Уласцівасці паслугача дырэкторыяў">
+<!ENTITY directoryName.label "Назва:">
+<!ENTITY directoryName.accesskey "Н">
+<!ENTITY directoryHostname.label "Назва трымальніка:">
+<!ENTITY directoryHostname.accesskey "а">
+<!ENTITY directoryBaseDN.label "Базавая адрозная назва:">
+<!ENTITY directoryBaseDN.accesskey "А">
+<!ENTITY findButton.label "Знайсці">
+<!ENTITY findButton.accesskey "З">
+<!ENTITY directorySecure.label "Ужываць бяспечнае злучэнне (SSL)">
+<!ENTITY directorySecure.accesskey "ж">
+<!ENTITY directoryLogin.label "Адрозная назва прывязкі:">
+<!ENTITY directoryLogin.accesskey "р">
+<!ENTITY advancedOptionsButton.label "Пашыраныя наладкі">
+<!ENTITY advancedOptionsButton.accesskey "П">
+<!ENTITY General.tab "Агульныя">
+<!ENTITY Offline.tab "Па-за сеткаю">
+<!ENTITY Advanced.tab "Пашыраны">
+<!ENTITY advancedOptionsTitle.label "Пашыраныя наладкі">
+<!ENTITY portNumber.label "Нумар порта:">
+<!ENTITY portNumber.accesskey "п">
+<!ENTITY searchFilter.label "Сіта пошуку:">
+<!ENTITY searchFilter.accesskey "С">
+<!ENTITY scope.label "Межы: ">
+<!ENTITY scope.accesskey "М">
+<!ENTITY scopeOneLevel.label "Адзін узровень">
+<!ENTITY scopeOneLevel.accesskey "У">
+<!ENTITY scopeSubtree.label "Паддрэва">
+<!ENTITY scopeSubtree.accesskey "д">
+<!ENTITY return.label "Не вяртаць болей чым">
+<!ENTITY return.accesskey "в">
+<!ENTITY results.label "вынікаў">
+<!ENTITY offlineText.label "Вы можаце загрузіць мясцовую копію гэтай дырэкторыі, таму яна будзе даступнаю для ўжывання пад час працы па-за сеткаю.">
+<!ENTITY newDirectoryWidth "42em">

@@ -1,0 +1,18 @@
+<!ENTITY pref.locationBar.title "Паліца месцазнаходжання">
+<!ENTITY autoComplete.label "Самазавяршэнне">
+<!ENTITY enableAutoComplete.label "Самазавяршаць толькі падборам з гісторыі азірання падчас набору">
+<!ENTITY enableAutoComplete.accesskey "С">
+<!ENTITY autoCompleteAutoFill.label "Самазавяршаць найлепшым падборам">
+<!ENTITY autoCompleteAutoFill.accesskey "з">
+<!ENTITY autoCompleteShowPopup.label "Паказваць спіс адпаведных вынікаў">
+<!ENTITY autoCompleteShowPopup.accesskey "П">
+<!ENTITY autoCompleteMatchOnlyTyped.label "Падбіраць толькі пляцоўкі сеціва, якія вы папярэдне ўводзілі">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey "б">
+<!ENTITY searchEngine.label "Машыны пошуку ў Інтэрнет">
+<!ENTITY showSearchEngine.label "Паказаць змоўчную машыну пошуку">
+<!ENTITY showSearchEngine.accesskey "м">
+<!ENTITY unknownLocations.label "Невядомыя месцазнаходжанні">
+<!ENTITY domainGuessing.label "Дадаваць &quot;www.&quot; і &quot;.com&quot; да адрасу, калі старонка не знойдзена">
+<!ENTITY domainGuessing.accesskey "Д">
+<!ENTITY keywords.label "Выконваць пошук у Сеціве, калі ўведзены тэкст не з'яўляецца сеціўным адрасам">
+<!ENTITY keywords.accesskey "ш">

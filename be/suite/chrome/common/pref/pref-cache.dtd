@@ -1,0 +1,24 @@
+<!ENTITY pref.cache.title "Запаснік">
+<!ENTITY pref.cache.caption "Наладзіць запаснік">
+<!ENTITY cachePara "Запаснік трымае копіі старонак сеціва, якія вы часта наведваеце, на вашым дыску. (Вы заўсёды можаце атрымаць апошнюю версію старонкі, калі пстрыкніце Абнавіць).">
+<!ENTITY diskCache.label "Памер:">
+<!ENTITY diskCache.accesskey "м">
+<!ENTITY mbytes "МБ">
+<!ENTITY diskCacheFolder.label "Месцазнаходжанне папкі запасніку:">
+<!ENTITY clearDiskCache.label "Ачысціць запаснік">
+<!ENTITY clearDiskCache.accesskey "ч">
+<!ENTITY chooseDiskCacheFolder.label "Выбраць папку…">
+<!ENTITY chooseDiskCacheFolder.accesskey "п">
+<!ENTITY diskCacheFolderExplanation "Файлы ў запасніку будуць захоўвацца ў папцы з назвай &quot;Cache&quot; у вызначаным вамі каталогу. Перазапусціце &brandShortName;, каб змены набылі моц.">
+<!ENTITY docCache "Параўноўваць старонку ў запасніку са старонкай у сетцы:">
+<!ENTITY oncePsessionRadio.label "Аднойчы за сэсію">
+<!ENTITY oncePsessionRadio.accesskey "с">
+<!ENTITY everyTimeRadio.label "Кожны раз, калі я праглядаю старонку">
+<!ENTITY everyTimeRadio.accesskey "р">
+<!ENTITY neverRadio.label "Ніколі">
+<!ENTITY neverRadio.accesskey "Н">
+<!ENTITY autoRadio.label "Калі гэтая старонка састарэе">
+<!ENTITY autoRadio.accesskey "К">
+<!ENTITY prefetchTitle.label "Папярэдняе выбіранне спасылак">
+<!ENTITY enablePrefetch.label "Выбіраць старонкі сеціва ў час бяздзейнасці, такім чынам, калі спасылкі ў старонках распрацаваны для выбірання, загрузка адбываецца хутчэй.">
+<!ENTITY enablePrefetch.accesskey "б">

@@ -1,0 +1,20 @@
+<!ENTITY pref.smartUpdate.title "Усталяванне праграмнага забеспячэння">
+<!ENTITY smartTitle.label "Кіраванне ўсталяваннем праграмнага забеспячэння і абнаўленняў">
+<!ENTITY enableSU.label "Дазволіць пляцоўкам сеціва ўсталёўваць пашырэнні і абнаўленні">
+<!ENTITY enableSU.accesskey "Д">
+<!ENTITY allowedSites.label "Дазволеныя пляцоўкі">
+<!ENTITY allowedSites.accesskey "з">
+<!ENTITY verifyUpdates.caption "Абнаўленні">
+<!ENTITY autoUpdates.label "Самастойна правяраць, ці існуюць абнаўленні для:">
+<!ENTITY appUpdates.label "&brandShortName;">
+<!ENTITY appUpdates.accesskey "S">
+<!ENTITY daily.label "штодзённа">
+<!ENTITY appDaily.accesskey "д">
+<!ENTITY weekly.label "штотыдзень">
+<!ENTITY appWeekly.accesskey "т">
+<!ENTITY extensionsUpdates.label "Усталяваных дадаткаў">
+<!ENTITY extensionsUpdates.accesskey "У">
+<!ENTITY extensionsDaily.accesskey "з">
+<!ENTITY extensionsWeekly.accesskey "ы">
+<!ENTITY addonManagerButton.label "Кіраўнік дадаткаў">
+<!ENTITY addonManagerButton.accesskey "К">

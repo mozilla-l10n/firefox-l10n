@@ -1,0 +1,29 @@
+<!ENTITY navigatorCmd.label "Азіральнік">
+<!ENTITY navigatorCmd.accesskey "А">
+<!ENTITY navigatorCmd.commandkey "1">
+<!ENTITY editorCmd.label "Укладальнік">
+<!ENTITY editorCmd.accesskey "У">
+<!ENTITY editorCmd.commandkey "4">
+<!ENTITY securityInfoCmd.label ".Звесткі пра бяспеку">
+<!ENTITY securityInfoCmd.accesskey "Б">
+<!ENTITY javaConsoleCmd.label "Кансоль Java">
+<!ENTITY javaConsoleCmd.accesskey "j">
+<!ENTITY errorConsoleCmd.label "Кансоль памылак">
+<!ENTITY errorConsoleCmd.accesskey "К">
+<!ENTITY privacyMenu.label "Адасабленне і бяспека">
+<!ENTITY privacyMenu.accesskey "А">
+<!ENTITY taskNavigator.tooltip "Азіральнік">
+<!ENTITY taskComposer.tooltip "Укладальнік">
+<!ENTITY taskBar.tooltip "Паліца з статусам">
+<!ENTITY webDevelopment.label "Распрацоўкі Сеціва">
+<!ENTITY webDevelopment.accesskey "С">
+<!ENTITY windowMenu.label "Акно">
+<!ENTITY windowMenu.accesskey "А">
+<!ENTITY tasksMenu.label "Прылады">
+<!ENTITY tasksMenu.accesskey "л">
+<!ENTITY downloadManagerCmd.label "Кіраўнік загрузак">
+<!ENTITY downloadManagerCmd.accesskey "З">
+<!ENTITY addonsManagerCmd.label "Кіраўнік дадаткаў">
+<!ENTITY addonsManagerCmd.accesskey "д">
+<!ENTITY switchProfileCmd.label "Змяніць профіль…">
+<!ENTITY switchProfileCmd.accesskey "З">

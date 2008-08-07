@@ -1,0 +1,621 @@
+<!ENTITY messengerWindow.title "Пошта і Навінакупы">
+<!ENTITY titledefault.label "&brandShortName;">
+<!ENTITY titleSeparator.label " - ">
+<!ENTITY newFolderCmd.label "Папка…">
+<!ENTITY newFolderCmd.accesskey "П">
+<!ENTITY newTabCmd.label "Новая ўстаўка">
+<!ENTITY newTabCmd.accesskey "Н">
+<!ENTITY closeTabCmd.label "Зачыніць устаўку">
+<!ENTITY closeTabCmd.accesskey "ч">
+<!ENTITY newVirtualFolderCmd.label "Захаваны пошук…">
+<!ENTITY newVirtualFolderCmd.accesskey "п">
+<!ENTITY newAccountCmd.label "Рахунак…">
+<!ENTITY newAccountCmd.accesskey "Р">
+<!ENTITY openMessageMenu.label "Адчыніць">
+<!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
+<!ENTITY openMessageFileCmd.accesskey "А">
+<!ENTITY openAttachmentCmd.label "Далучэнні">
+<!ENTITY openAttachmentCmd.accesskey "Д">
+<!ENTITY saveAsMenu.label "Захаваць як">
+<!ENTITY saveAsMenu.accesskey "Я">
+<!ENTITY saveAsFileCmd.label "Файл">
+<!ENTITY saveAsFileCmd.accesskey "Ф">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Узор">
+<!ENTITY saveAsTemplateCmd.accesskey "У">
+<!ENTITY getNewMsgCmd.key "t">
+<!ENTITY getNewMsgForCmd.label "Атрымаць новыя лісты для">
+<!ENTITY getNewMsgForCmd.accesskey "я">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Усе рахункі">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "У">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Гэтачасовы рахунак">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "Г">
+<!ENTITY getNextNMsgCmd.label "Атрымаць наступныя 500 лістоў навінаў">
+<!ENTITY getNextNMsgCmd.accesskey "т">
+<!ENTITY sendUnsentCmd.label "Даслаць неадпраўленыя лісты">
+<!ENTITY sendUnsentCmd.accesskey "ь">
+<!ENTITY subscribeCmd.label "Падпісацца…">
+<!ENTITY subscribeCmd.accesskey "п">
+<!ENTITY renameFolder.label "Перайменаваць папку…">
+<!ENTITY renameFolder.accesskey "й">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Ушчыльніць папкі">
+<!ENTITY compactFolder.accesskey "ы">
+<!ENTITY emptyTrashCmd.label "Выкінуць смецце">
+<!ENTITY emptyTrashCmd.accesskey "ь">
+<!ENTITY importCmd.label "Імпарт…">
+<!ENTITY importCmd.accesskey "І">
+<!ENTITY offlineMenu.label "Па-за сеткай">
+<!ENTITY offlineMenu.accesskey "з">
+<!ENTITY offlineGoOfflineCmd.label "Працаваць па-за сеткай">
+<!ENTITY offlineGoOfflineCmd.accesskey "П">
+<!ENTITY synchronizeOfflineCmd.label "Загрузіць і сінхранізаваць зараз…">
+<!ENTITY synchronizeOfflineCmd.accesskey "с">
+<!ENTITY settingsOfflineCmd.label "Наладкі працы па-за сеткаю…">
+<!ENTITY settingsOfflineCmd.accesskey "Н">
+<!ENTITY downloadSelectedCmd.label "Атрымаць вылучаныя лісты">
+<!ENTITY downloadSelectedCmd.accesskey "л">
+<!ENTITY downloadStarredCmd.label "Атрымаць лісты з зоркамі">
+<!ENTITY downloadStarredCmd.accesskey "з">
+<!ENTITY printCmd.label "Друкаваць…">
+<!ENTITY printCmd.accesskey "Д">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Папярэдні прагляд друку">
+<!ENTITY printPreviewCmd.accesskey "г">
+<!ENTITY printPreviewCmd.key "v">
+<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
+<!ENTITY printSetupCmd.accesskey "у">
+<!ENTITY deleteMsgCmd.label "Выдаліць ліст">
+<!ENTITY deleteMsgCmd.accesskey "д">
+<!ENTITY undeleteMsgCmd.label "Адмяніць выдаленне ліста">
+<!ENTITY undeleteMsgCmd.accesskey "ы">
+<!ENTITY cancelNewsMsgCmd.label "Скасаваць ліст">
+<!ENTITY cancelNewsMsgCmd.accesskey "к">
+<!ENTITY deleteMsgsCmd.label "Выдаліць вылучаныя лісты">
+<!ENTITY deleteMsgsCmd.accesskey "д">
+<!ENTITY undeleteMsgsCmd.label "Адмяніць выдаленне вылучаных лістоў">
+<!ENTITY undeleteMsgsCmd.accesskey "ц">
+<!ENTITY cancelNewsMsgsCmd.label "Скасаваць вылучаныя лісты">
+<!ENTITY cancelNewsMsgsCmd.accesskey "к">
+<!ENTITY deleteFolderCmd.label "Выдаліць папку">
+<!ENTITY deleteFolderCmd.accesskey "д">
+<!ENTITY unsubscribeNewsgroupCmd.label "Адпісацца">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "д">
+<!ENTITY selectMenu.label "Вылучыць">
+<!ENTITY selectMenu.accesskey "В">
+<!ENTITY all.label "Усе">
+<!ENTITY all.accesskey "У">
+<!ENTITY selectThreadCmd.label "Нізка">
+<!ENTITY selectThreadCmd.accesskey "Н">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Лісты з зоркамі">
+<!ENTITY selectFlaggedCmd.accesskey "з">
+<!ENTITY menuFavoriteFolder.label "Улюбёная папка">
+<!ENTITY menuFavoriteFolder.accesskey "л">
+<!ENTITY folderPropsCmd.label "Уласцівасці…">
+<!ENTITY folderPropsFolderCmd.label "Уласцівасці папкі…">
+<!ENTITY folderPropsNewsgroupCmd.label "Уласцівасці навінакупы…">
+<!ENTITY folderPropsCmd.accesskey "ц">
+<!ENTITY accountManagerCmd.label "Наладжванні рахунку…">
+<!ENTITY accountManagerCmd.accesskey "р">
+<!ENTITY accountManagerCmdUnix.accesskey "р">
+<!ENTITY undoDeleteMsgCmd.label "Адмяніць выдаленне ліста">
+<!ENTITY redoDeleteMsgCmd.label "Вярнуць выдаленне ліста">
+<!ENTITY undoMoveMsgCmd.label "Адмяніць перамяшчэнне ліста">
+<!ENTITY redoMoveMsgCmd.label "Вярнуць рух ліста">
+<!ENTITY undoCopyMsgCmd.label "Адмяніць капіяванне ліста">
+<!ENTITY redoCopyMsgCmd.label "Паўтарыць капіяванне ліста">
+<!ENTITY undoDefaultCmd.label "Адмяніць">
+<!ENTITY undoDefaultCmd.accesskey "А">
+<!ENTITY redoDefaultCmd.label "Вярнуць">
+<!ENTITY redoDefaultCmd.accesskey "В">
+<!ENTITY showMessengerToolbarCmd.label "Паліца прыладаў пошты">
+<!ENTITY showMessengerToolbarCmd.accesskey "л">
+<!ENTITY customizeToolbar.label "Наладзіць…">
+<!ENTITY customizeToolbar.accesskey "Н">
+<!ENTITY messagePaneLayoutStyle.label "Раскладка">
+<!ENTITY messagePaneLayoutStyle.accesskey "Р">
+<!ENTITY messagePaneClassic.label "Класічны від">
+<!ENTITY messagePaneClassic.accesskey "К">
+<!ENTITY messagePaneWide.label "Шырокі від">
+<!ENTITY messagePaneWide.accesskey "Ш">
+<!ENTITY messagePaneVertical.label "Вертыкальны від">
+<!ENTITY messagePaneVertical.accesskey "В">
+<!ENTITY threadPaneWide.label "Шырокі спіс">
+<!ENTITY threadPaneWide.accesskey "ш">
+<!ENTITY showMessageCmd.label "Шыба лістоў">
+<!ENTITY showMessageCmd.accesskey "ш">
+<!ENTITY folderView.label "Папкі">
+<!ENTITY folderView.accesskey "П">
+<!ENTITY allFolders.label "Усе">
+<!ENTITY allFolders.accesskey "У">
+<!ENTITY unreadFolders.label "Непрачытаныя">
+<!ENTITY unreadFolders.accesskey "Н">
+<!ENTITY favoriteFolders.label "Улюбёныя">
+<!ENTITY favoriteFolders.accesskey "л">
+<!ENTITY recentFolders.label "Нядаўнія">
+<!ENTITY recentFolders.accesskey "я">
+<!ENTITY sortMenu.label "Размеркаваць па">
+<!ENTITY sortMenu.accesskey "м">
+<!ENTITY sortByDateCmd.label "Дата">
+<!ENTITY sortByDateCmd.accesskey "Д">
+<!ENTITY sortByReceivedCmd.label "Атрыманы">
+<!ENTITY sortByReceivedCmd.accesskey "А">
+<!ENTITY sortByStarCmd.label "Зорка">
+<!ENTITY sortByStarCmd.accesskey "З">
+<!ENTITY sortByAttachmentsCmd.label "Далучэнні">
+<!ENTITY sortByAttachmentsCmd.accesskey "Д">
+<!ENTITY sortByPriorityCmd.label "Прыярытэт">
+<!ENTITY sortByPriorityCmd.accesskey "П">
+<!ENTITY sortBySizeCmd.label "Памер">
+<!ENTITY sortBySizeCmd.accesskey "р">
+<!ENTITY sortByStatusCmd.label "Статус">
+<!ENTITY sortByStatusCmd.accesskey "у">
+<!ENTITY sortByTagsCmd.label "Меткі">
+<!ENTITY sortByTagsCmd.accesskey "М">
+<!ENTITY sortByJunkStatusCmd.label "Статус лухты">
+<!ENTITY sortByJunkStatusCmd.accesskey "х">
+<!ENTITY sortBySubjectCmd.label "Тэма">
+<!ENTITY sortBySubjectCmd.accesskey "Т">
+<!ENTITY sortByFromCmd.label "Ад">
+<!ENTITY sortByFromCmd.accesskey "А">
+<!ENTITY sortByRecipientCmd.label "Атрымальнік">
+<!ENTITY sortByRecipientCmd.accesskey "т">
+<!ENTITY sortByUnreadCmd.label "Прачытаны">
+<!ENTITY sortByUnreadCmd.accesskey "ч">
+<!ENTITY sortByOrderReceivedCmd.label "У парадку атрымання">
+<!ENTITY sortByOrderReceivedCmd.accesskey "А">
+<!ENTITY sortAscending.label "Узыходны">
+<!ENTITY sortAscending.accesskey "У">
+<!ENTITY sortDescending.label "Сыходны">
+<!ENTITY sortDescending.accesskey "С">
+<!ENTITY sortThreaded.label "Нізкаваны">
+<!ENTITY sortThreaded.accesskey "Н">
+<!ENTITY sortUnthreaded.label "Ненізкаваны">
+<!ENTITY sortUnthreaded.accesskey "е">
+<!ENTITY groupBySort.label "Згрупаваныя размеркаваннем">
+<!ENTITY groupBySort.accesskey "г">
+<!ENTITY groupBySortCmd.key "G">
+<!ENTITY msgsMenu.label "Лісты">
+<!ENTITY msgsMenu.accesskey "ы">
+<!ENTITY threads.label "Нізкі">
+<!ENTITY threads.accesskey "з">
+<!ENTITY allMsgsCmd.label "Усе">
+<!ENTITY allMsgsCmd.accesskey "У">
+<!ENTITY expandOrCollapseMenu.label "Разгарнуць/Згарнуць">
+<!ENTITY expandOrCollapseMenu.accesskey "г">
+<!ENTITY expandAllThreadsCmd.label "Разгарнуць усе нізкі">
+<!ENTITY expandAllThreadsCmd.accesskey "Р">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Згарнуць усе нізкі">
+<!ENTITY collapseAllThreadsCmd.accesskey "З">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Непрачытаныя">
+<!ENTITY unreadMsgsCmd.accesskey "Н">
+<!ENTITY threadsWithUnreadCmd.label "Нізкі з непрачытанымі">
+<!ENTITY threadsWithUnreadCmd.accesskey "е">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Нізкі пад наглядам з непрачытанымі">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "г">
+<!ENTITY ignoredThreadsCmd.label "Ігнараваныя нізкі">
+<!ENTITY ignoredThreadsCmd.accesskey "І">
+<!ENTITY headersMenu.label "Загалоўкі">
+<!ENTITY headersMenu.accesskey "З">
+<!ENTITY headersAllCmd.label "Усе">
+<!ENTITY headersAllCmd.accesskey "У">
+<!ENTITY headersNormalCmd.label "Звычайныя">
+<!ENTITY headersNormalCmd.accesskey "З">
+<!ENTITY bodyMenu.label "Цела ліста як">
+<!ENTITY bodyMenu.accesskey "Ц">
+<!ENTITY bodyAllowHTML.label "Першапачатковы HTML">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "Просты HTML">
+<!ENTITY bodySanitized.accesskey "П">
+<!ENTITY bodyAsPlaintext.label "Просты тэкст">
+<!ENTITY bodyAsPlaintext.accesskey "Т">
+<!ENTITY viewAttachmentsInlineCmd.label "Адлюстроўваць далучэнні ўсярэдзіне">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "Ў">
+<!ENTITY reloadCmd.label "Абнавіць">
+<!ENTITY reloadCmd.accesskey "а">
+<!ENTITY stopCmd.label "Спыніць">
+<!ENTITY stopCmd.accesskey "С">
+<!ENTITY textZoomEnlargeCmd.label "Павялічыць">
+<!ENTITY textZoomEnlargeCmd.accesskey "в">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomReduceCmd.label "Паменшыць">
+<!ENTITY textZoomReduceCmd.accesskey "м">
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY textZoomResetCmd.label "Звычайны">
+<!ENTITY textZoomResetCmd.accesskey "З">
+<!ENTITY textSize.label "Памер тэксту">
+<!ENTITY textSize.accesskey "П">
+<!ENTITY pageSourceCmd.label "Зыходнік ліста">
+<!ENTITY pageSourceCmd.accesskey "ы">
+<!ENTITY pageSourceCmd.key "u">
+<!ENTITY searchMenu.label "Пошук">
+<!ENTITY searchMenu.accesskey "ш">
+<!ENTITY findMenu.label "Знайсці">
+<!ENTITY findMenu.accesskey "З">
+<!ENTITY findCmd.label "Знайсці ў гэтым лісце…">
+<!ENTITY findCmd.accesskey "З">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "Знайсці зноў">
+<!ENTITY findAgainCmd.accesskey "ў">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Пошук лістоў…">
+<!ENTITY searchMailCmd.accesskey "П">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Пошук адрасоў…">
+<!ENTITY searchAddressesCmd.accesskey "ш">
+<!ENTITY goMenu.label "Рух">
+<!ENTITY goMenu.accesskey "Р">
+<!ENTITY nextMenu.label "Наступны">
+<!ENTITY nextMenu.accesskey "Н">
+<!ENTITY nextMsgCmd.label "Ліст">
+<!ENTITY nextMsgCmd.accesskey "л">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Непрачытаны ліст">
+<!ENTITY nextUnreadMsgCmd.accesskey "Н">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "Ліст з зоркаю">
+<!ENTITY nextStarredMsgCmd.accesskey "з">
+<!ENTITY nextUnreadThread.label "Непрачытаная нізка">
+<!ENTITY nextUnreadThreadCmd.accesskey "т">
+<!ENTITY nextUnreadThreadCmd.key "t">
+<!ENTITY prevMenu.label "Папярэдні">
+<!ENTITY prevMenu.accesskey "П">
+<!ENTITY prevMsgCmd.label "Ліст">
+<!ENTITY prevMsgCmd.accesskey "Л">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.label "Непрачытаны ліст">
+<!ENTITY prevUnreadMsgCmd.accesskey "Н">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Наперад">
+<!ENTITY goForwardCmd.accesskey "н">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Назад">
+<!ENTITY goBackCmd.accesskey "Н">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevStarredMsgCmd.label "Ліст з зоркаю">
+<!ENTITY prevStarredMsgCmd.accesskey "з">
+<!ENTITY startPageCmd.label "Пачатковая старонка Пошты">
+<!ENTITY startPageCmd.accesskey "П">
+<!ENTITY msgMenu.label "Ліст">
+<!ENTITY msgMenu.accesskey "л">
+<!ENTITY newMsgCmd.label "Новы ліст">
+<!ENTITY newMsgCmd.accesskey "Н">
+<!ENTITY newNewMsgCmd.label "Ліст">
+<!ENTITY newNewMsgCmd.accesskey "л">
+<!ENTITY replyMsgCmd.label "Адказаць">
+<!ENTITY replyMsgCmd.accesskey "А">
+<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replySenderCmd.label "Адказаць толькі адпраўніку">
+<!ENTITY replySenderCmd.accesskey "А">
+<!ENTITY replyNewsgroupCmd.label "Адказаць навінакупе">
+<!ENTITY replyNewsgroupCmd.accesskey "ь">
+<!ENTITY replyToAllMsgCmd.label "Адказаць усім">
+<!ENTITY replyToAllMsgCmd.accesskey "з">
+<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY forwardMsgCmd.label "Накіраваць">
+<!ENTITY forwardMsgCmd.accesskey "к">
+<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardAsMenu.label "Накіраваць як">
+<!ENTITY forwardAsMenu.accesskey "к">
+<!ENTITY forwardAsInline.label "Убудаванне">
+<!ENTITY forwardAsInline.accesskey "б">
+<!ENTITY forwardAsAttachmentCmd.label "Далучэнне">
+<!ENTITY forwardAsAttachmentCmd.accesskey "Д">
+<!ENTITY editMsgAsNewCmd.label "Рэдагаваць ліст як новы">
+<!ENTITY editMsgAsNewCmd.accesskey "Р">
+<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY createFilter.label "Стварыць сіта з ліста…">
+<!ENTITY createFilter.accesskey "с">
+<!ENTITY moveMsgMenu.label "Рухаць">
+<!ENTITY moveMsgMenu.accesskey "Р">
+<!ENTITY moveCopyMsgRecentMenu.label "Апошні">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "А">
+<!ENTITY copyMessageLocation.label "Капіяваць месцазнаходжанне ліста">
+<!ENTITY copyMessageLocation.accesskey "м">
+<!ENTITY copyMsgMenu.label "Капіяваць">
+<!ENTITY copyMsgMenu.accesskey "К">
+<!ENTITY moveToFolderAgain.label "Перамясціць ізноў">
+<!ENTITY moveToFolderAgain.accesskey "і">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Ігнараваць нізку">
+<!ENTITY killThreadMenu.accesskey "І">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Ігнараваць паднізку">
+<!ENTITY killSubthreadMenu.accesskey "п">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Сачыць за нізкай">
+<!ENTITY watchThreadMenu.accesskey "С">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY fileHereMenu.label "Пакласці тут">
+<!ENTITY fileHereMenu.accesskey "П">
+<!ENTITY copyHereMenu.label "Капіяваць сюды">
+<!ENTITY copyHereMenu.accesskey "К">
+<!ENTITY tagMenu.label "Метка">
+<!ENTITY tagMenu.accesskey "М">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Пазначыць">
+<!ENTITY markMenu.accesskey "ь">
+<!ENTITY markAsReadCmd.label "Прачытанымі">
+<!ENTITY markAsReadCmd.accesskey "ч">
+<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markAsUnreadCmd.label "Непрачытанымі">
+<!ENTITY markAsUnreadCmd.accesskey "Н">
+<!ENTITY markThreadAsReadCmd.label "Нізку як прачытаную">
+<!ENTITY markThreadAsReadCmd.accesskey "Н">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Як прачытаныя паводле даты…">
+<!ENTITY markReadByDateCmd.accesskey "Д">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Усе прачытаныя">
+<!ENTITY markAllReadCmd.accesskey "У">
+<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "Дадаць зорку">
+<!ENTITY markStarredCmd.accesskey "з">
+<!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Як лухту">
+<!ENTITY markAsJunkCmd.accesskey "х">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Як не лухту">
+<!ENTITY markAsNotJunkCmd.accesskey "Н">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Выканаць кіроўцы поштай-лухтой">
+<!ENTITY recalculateJunkScoreCmd.accesskey "К">
+<!ENTITY openMessageWindowCmd.label "Адчыніць ліст">
+<!ENTITY openMessageWindowCmd.accesskey "А">
+<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY windowMenu.label "Акно">
+<!ENTITY windowMenu.accesskey "А">
+<!ENTITY tasksMenu.label "Прылады">
+<!ENTITY tasksMenu.accesskey "л">
+<!ENTITY addons.label "Дадаткі">
+<!ENTITY addons.accesskey "д">
+<!ENTITY messengerCmd.label "Пошта і Навінакупы">
+<!ENTITY messengerCmd.accesskey "П">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Адрасная кніга">
+<!ENTITY addressBookCmd.accesskey "а">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY runJunkControls.label "Ужыць кіроўцаў паштовай лухтой у папцы ">
+<!ENTITY runJunkControls.accesskey "х">
+<!ENTITY deleteJunk.label "Выдаліць пошту, пазначаную як лухта, з папкі ">
+<!ENTITY deleteJunk.accesskey "д">
+<!ENTITY errorConsoleCmd.label "Кансоль памылак">
+<!ENTITY errorConsoleCmd.accesskey "п">
+<!ENTITY filtersCmd.label "Сіты лістоў…">
+<!ENTITY filtersCmd.accesskey "С">
+<!ENTITY filtersApply.label "Ужыць сіты на папцы">
+<!ENTITY filtersApply.accesskey "У">
+<!ENTITY getMsgButton.label "Атрымаць">
+<!ENTITY newMsgButton.label "Укласці">
+<!ENTITY replyButton.label "Адказаць">
+<!ENTITY replyAllButton.label "Адк. усім">
+<!ENTITY forwardButton.label "Накіраваць">
+<!ENTITY fileButton.label "Файл">
+<!ENTITY nextButton.label "Наступны">
+<!ENTITY previousButton.label "Папярэдні">
+<!ENTITY backButton1.label "Назад">
+<!ENTITY goForwardButton1.label "Наперад">
+<!ENTITY deleteButton.label "Выдаліць">
+<!ENTITY markButton.label "Пазначыць">
+<!ENTITY printButton.label "Друкаваць">
+<!ENTITY stopButton.label "Прыпыніць">
+<!ENTITY throbberItem.title "Паказнік дзейнасці">
+<!ENTITY updatesItem.title "Абнаўленні">
+<!ENTITY junkButton.label "Лухта">
+<!ENTITY notJunkButton.label "Не лухта">
+<!ENTITY addressBookButton.label "Адрасная кніга">
+<!ENTITY searchItem.title "Хуткі пошук">
+<!ENTITY mailViewsToolbarItem.title "Віды пошты">
+<!ENTITY folderLocationToolbarItem.title "Месцазнаходжанне папкі">
+<!ENTITY tagButton.label "Метка">
+<!ENTITY compactButton.label "Ушчыльніць">
+<!ENTITY advancedButton.tooltip "Пашыраны пошук лістоў">
+<!ENTITY clearButton.tooltip "Ачысціць крытэры пошуку і паказаць усе лісты">
+<!ENTITY getMsgButton.tooltip "Атрымаць новыя лісты">
+<!ENTITY getAllNewMsgCmd.label "Атрымаць усе новыя лісты">
+<!ENTITY getAllNewMsgCmd.accesskey "А">
+<!ENTITY getAllNewMsgCmd.key "t">
+<!ENTITY newMsgButton.tooltip "Стварыць новы ліст">
+<!ENTITY replyButton.tooltip "Адказаць на ліст">
+<!ENTITY replyAllButton.tooltip "Адказаць адпраўніку і ўсім атрымальнікам">
+<!ENTITY forwardButton.tooltip "Накіраваць вылучаны ліст">
+<!ENTITY fileButton.tooltip "Перамясціць вылучаны ліст">
+<!ENTITY nextButton.tooltip "Перамясціцца да наступнага непрачытанага ліста">
+<!ENTITY previousButton.tooltip "Перамясціцца да папярэдняга непрачытанага ліста">
+<!ENTITY goForwardButton.tooltip "Перамясціцца да наступнага ліста">
+<!ENTITY goBackButton.tooltip "Перамясціцца да папярэдняга ліста">
+<!ENTITY deleteButton.tooltip "Выдаліць вылучаны ліст ці папку">
+<!ENTITY markButton.tooltip "Пазначыць лісты">
+<!ENTITY printButton.tooltip "Надрукаваць гэты ліст">
+<!ENTITY stopButton.tooltip "Прыпыніць цяперашні перанос">
+<!ENTITY junkButton.tooltip "Пазначыць вылучаныя лісты як лухту">
+<!ENTITY notJunkButton.tooltip "Пазначыць вылучаныя лісты як не лухту">
+<!ENTITY addressBookButton.tooltip "Перайсці ў адрасную кнігу">
+<!ENTITY tagButton.tooltip "Меткі лістоў">
+<!ENTITY compactButton.tooltip "Прыняць выдаленыя лісты з вылучанай папкі">
+<!ENTITY addNewTag.label "Новая метка…">
+<!ENTITY addNewTag.accesskey "Н">
+<!ENTITY folderColumn.label "Назва">
+<!ENTITY folderSizeColumn.label "Памер">
+<!ENTITY folderContextGetMessages.label "Атрымаць лісты">
+<!ENTITY folderContextGetMessages.accesskey "А">
+<!ENTITY folderContextOpenNewWindow.label "Адчыніць">
+<!ENTITY folderContextOpenNewWindow.accesskey "ч">
+<!ENTITY folderContextOpenNewTab.label "Адчыніць у новай устаўцы">
+<!ENTITY folderContextOpenNewTab.accesskey "у">
+<!ENTITY folderContextNew.label "Новая падпапка…">
+<!ENTITY folderContextNew.accesskey "Н">
+<!ENTITY folderContextRename.label "Перайменаваць">
+<!ENTITY folderContextRename.accesskey "й">
+<!ENTITY folderContextRemove.label "Выдаліць">
+<!ENTITY folderContextRemove.accesskey "д">
+<!ENTITY folderContextCompact.label "Ушчыльніць">
+<!ENTITY folderContextCompact.accesskey "У">
+<!ENTITY folderContextEmptyTrash.label "Выкінуць смецце">
+<!ENTITY folderContextEmptyTrash.accesskey "ь">
+<!ENTITY folderContextEmptyJunk.label "Выкінуць лухту">
+<!ENTITY folderContextEmptyJunk.accesskey "л">
+<!ENTITY folderContextSendUnsentMessages.label "Даслаць неадпраўленыя лісты">
+<!ENTITY folderContextSendUnsentMessages.accesskey "ь">
+<!ENTITY folderContextUnsubscribe.label "Адпісацца">
+<!ENTITY folderContextUnsubscribe.accesskey "А">
+<!ENTITY folderContextMarkNewsgroupRead.label "Пазначыць навінакупу прачытанай">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "ь">
+<!ENTITY folderContextMarkMailFolderRead.label "Пазначыць папку прачытанай">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "ь">
+<!ENTITY folderContextSubscribe.label "Падпісацца…">
+<!ENTITY folderContextSubscribe.accesskey "п">
+<!ENTITY folderContextSearchMessages.label "Пошук…">
+<!ENTITY folderContextSearchMessages.accesskey "ш">
+<!ENTITY folderContextProperties.label "Уласцівасці…">
+<!ENTITY folderContextProperties.accesskey "ц">
+<!ENTITY folderContextFavoriteFolder.label "Улюбёная папка">
+<!ENTITY folderContextFavoriteFolder.accesskey "л">
+<!ENTITY SearchNameOrEmail.label "Імя або адрас змяшчаюць:">
+<!ENTITY SearchNameOrEmail.accesskey "І">
+<!ENTITY clearButton.label "Ачысціць">
+<!ENTITY clearButton.accesskey "ч">
+<!ENTITY searchSubjectMenu.label "Тэма">
+<!ENTITY searchFromMenu.label "Ад">
+<!ENTITY searchSubjectOrFromMenu.label "Тэма або Ад">
+<!ENTITY searchRecipient.label "Да ці Са">
+<!ENTITY searchMessageBody.label "Гэты ліст">
+<!ENTITY saveAsVirtualFolderMenu.label "Захаваць пошук як папку…">
+<!ENTITY threadColumn.label "Нізка">
+<!ENTITY fromColumn.label "Ад">
+<!ENTITY recipientColumn.label "Атрымальнік">
+<!ENTITY subjectColumn.label "Тэма">
+<!ENTITY dateColumn.label "Дата">
+<!ENTITY priorityColumn.label "Прыярытэт">
+<!ENTITY tagsColumn.label "Метка">
+<!ENTITY accountColumn.label "Рахунак">
+<!ENTITY statusColumn.label "Статус">
+<!ENTITY sizeColumn.label "Памер">
+<!ENTITY junkStatusColumn.label "Статус лухты">
+<!ENTITY linesColumn.label "Радкі">
+<!ENTITY unreadColumn.label "Непрачытаных">
+<!ENTITY totalColumn.label "Усяго">
+<!ENTITY readColumn.label "Прачытаных">
+<!ENTITY receivedColumn.label "Атрыманы">
+<!ENTITY starredColumn.label "З зоркаю">
+<!ENTITY locationColumn.label "Месцазнаходжанне">
+<!ENTITY idColumn.label "Парадак атрымання">
+<!ENTITY attachmentColumn.label "Далучэнні">
+<!ENTITY columnChooser.tooltip "Пстрыкніце, каб вылучыць слупкі для адлюстравання">
+<!ENTITY threadColumn.tooltip "Пстрыкніце, каб адлюстраваць нізкі лістоў">
+<!ENTITY fromColumn.tooltip "Пстрыкніце, каб размяркоўваць па адпраўнікам">
+<!ENTITY recipientColumn.tooltip "Пстрыкніце, каб размяркоўваць па атрымальнікам">
+<!ENTITY subjectColumn.tooltip "Пстрыкніце, каб размеркаваць паводле тэмаў">
+<!ENTITY dateColumn.tooltip "Пстрыкніце, каб размеркаваць паводле датаў">
+<!ENTITY priorityColumn.tooltip "Пстрыкніце, каб размеркаваць паводле прыярытэтаў">
+<!ENTITY tagsColumn.tooltip "Пстрыкніце, каб размеркаваць паводле метак">
+<!ENTITY accountColumn.tooltip "Пстрыкніце, каб размеркаваць па рахункам">
+<!ENTITY statusColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу">
+<!ENTITY sizeColumn.tooltip "Пстрыкніце, каб размеркаваць паводле памеру">
+<!ENTITY junkStatusColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу лухты">
+<!ENTITY unreadColumn.tooltip "Колькасць непрачытаных лістоў у нізцы">
+<!ENTITY totalColumn.tooltip "Усяго лістоў у нізцы">
+<!ENTITY readColumn.tooltip "Пстрыкніце, каб размеркаваць паводле статусу чытання">
+<!ENTITY receivedColumn.tooltip "Пстрыкніце, каб размяркоўваць па даце атрымання">
+<!ENTITY starredColumn.tooltip "Пстрыкніце, каб размеркаваць паводле зорак">
+<!ENTITY locationColumn.tooltip "Пстрыкніце, каб размеркаваць паводле месцазнаходжанняў">
+<!ENTITY idColumn.tooltip "Пстрыкніце, каб размеркаваць у парадку атрымання">
+<!ENTITY attachmentColumn.tooltip "Пстрыкніце, каб размеркаваць паводле далучэнняў">
+<!ENTITY contextOpenNewWindow.label "Адчыніць ліст у новым акне">
+<!ENTITY contextOpenNewWindow.accesskey "А">
+<!ENTITY contextOpenNewTab.label "Адчыніць ліст у новай устаўцы">
+<!ENTITY contextOpenNewTab.accesskey "у">
+<!ENTITY contextEditAsNew.label "Рэдагаваць як новы…">
+<!ENTITY contextEditAsNew.accesskey "Р">
+<!ENTITY contextReplySender.label "Адказаць толькі адпраўніку">
+<!ENTITY contextReplySender.accesskey "А">
+<!ENTITY contextReplyNewsgroup.label "Адказаць навінакупе">
+<!ENTITY contextReplyNewsgroup.accesskey "ь">
+<!ENTITY contextReplyAll.label "Адказаць усім">
+<!ENTITY contextReplyAll.accesskey "У">
+<!ENTITY contextForward.label "Накіраваць">
+<!ENTITY contextForward.accesskey "к">
+<!ENTITY contextForwardAsAttachment.label "Накіраваць як далучэнні">
+<!ENTITY contextForwardAsAttachment.accesskey "Д">
+<!ENTITY contextMoveMsgMenu.label "Перамясціць у">
+<!ENTITY contextMoveMsgMenu.accesskey "м">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Апошні">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "А">
+<!ENTITY contextCopyMsgMenu.label "Капіяваць у">
+<!ENTITY contextCopyMsgMenu.accesskey "К">
+<!ENTITY contextSaveAs.label "Захаваць як…">
+<!ENTITY contextSaveAs.accesskey "Я">
+<!ENTITY contextPrint.label "Друкаваць…">
+<!ENTITY contextPrint.accesskey "Д">
+<!ENTITY contextPrintPreview.label "Папярэдні прагляд друку">
+<!ENTITY contextPrintPreview.accesskey "п">
+<!ENTITY contextDelete.label "Выдаліць">
+<!ENTITY contextDelete.accesskey "В">
+<!ENTITY junkBarMessage1.label "Пошта-лухта">
+<!ENTITY junkBarButton1.label "Не лухта">
+<!ENTITY junkInfoButton.label "?">
+<!ENTITY remoteContentMessage1.label "Каб абараніць ваша адасабленне, адлеглыя малюнкі затрыманы.">
+<!ENTITY loadRemoteContentButton1.label "Загрузіць малюнкі">
+<!ENTITY phishingBarMessage1.label "Падазраецца як э-паштовая ашука">
+<!ENTITY removePhishingBarButton1.label "Ігнараваць папярэджанне">
+<!ENTITY reportPhishingError.label "Гэта не э-паштовая ашука">
+<!ENTITY quickSearchCmd.key "k">
+<!ENTITY AddToAddressBook.label "Дадаць у адрасную кнігу…">
+<!ENTITY AddToAddressBook.accesskey "к">
+<!ENTITY SendMailTo.label "Укласці ліст да">
+<!ENTITY SendMailTo.accesskey "у">
+<!ENTITY CopyEmailAddress.label "Капіяваць адрас э-пошты">
+<!ENTITY CopyEmailAddress.accesskey "э">
+<!ENTITY CreateFilterFrom.label "Стварыць сіта з…">
+<!ENTITY CreateFilterFrom.accesskey "c">
+<!ENTITY BlockAddress.label "Блакаваць адрас">
+<!ENTITY BlockAddress.accesskey "Б">
+<!ENTITY reportPhishingURL.label "Паведаміць пра э-паштовую ашуку">
+<!ENTITY reportPhishingURL.accesskey "П">
+<!ENTITY saveLinkCmd.label "Захаваць мэту спасылкі">
+<!ENTITY saveLinkCmd.accesskey "М">
+<!ENTITY saveImageCmd.label "Захаваць малюнак">
+<!ENTITY saveImageCmd.accesskey "З">
+<!ENTITY copyCmd.label "Капіяваць">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY selectAllCmd.label "Вылучыць усё">
+<!ENTITY selectAllCmd.accesskey "у">
+<!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyLinkCmd.accesskey "с">
+<!ENTITY copyImageCmd.label "Капіяваць месцазнаходжанне малюнка">
+<!ENTITY copyImageCmd.accesskey "м">
+<!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
+<!ENTITY copyEmailCmd.accesskey "э">
+<!ENTITY statusText.label "Гатова">
+<!ENTITY minimizeWindow.label "Мінімізаваць">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Выцягнуць усе наперад">
+<!ENTITY zoomWindow.label "Павялічыць">
+<!ENTITY preferencesCmdMac.label "Перавагі…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY servicesMenuMac.label "Службы">
+<!ENTITY hideThisAppCmdMac.label "Схаваць &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY hideOtherAppsCmdMac.label "Схаваць іншыя">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY showAllAppsCmdMac.label "Паказаць усе">

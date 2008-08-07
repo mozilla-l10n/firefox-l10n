@@ -1,0 +1,17 @@
+<!ENTITY printJobOptions.title "Уласцівасці прынтара">
+<!ENTITY paperInput.label "Памер паперы:">
+<!ENTITY plexInput.label "Стан спляцення">
+<!ENTITY resolutionInput.label "Выяваздольнасць/Якасць:">
+<!ENTITY cmdInput.label "Загад друку:">
+<!ENTITY jobTitleInput.label "Загаловак работы:">
+<!ENTITY colorGroup.label "Колер:">
+<!ENTITY grayRadio.label "Адценні шэрага">
+<!ENTITY colorRadio.label "Колер">
+<!ENTITY colorspaceInput.label "Колерапрастора:">
+<!ENTITY fontsGroup.label "Шрыфты:">
+<!ENTITY downloadFonts.label "Загрузіць шрыфты на прынтар?">
+<!ENTITY edgeMarginInput.label "Прагал ад краю паперы да прымежку">
+<!ENTITY topInput.label "Угары:">
+<!ENTITY bottomInput.label "Знізу:">
+<!ENTITY leftInput.label "Злева:">
+<!ENTITY rightInput.label "Справа:">

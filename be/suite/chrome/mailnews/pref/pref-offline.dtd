@@ -1,0 +1,27 @@
+<!ENTITY pref.offline.title "Праца па-за сеткай і дыскавая прастора">
+<!ENTITY pref.offline.caption "Па-за сеткай">
+<!ENTITY textStartUp "Пры запуску:">
+<!ENTITY textStartUp.accesskey "П">
+<!ENTITY menuitemRememberPrevState "Памятаць папярэдні сеткавы статус">
+<!ENTITY menuitemAskMe "Пры запуску спытаць мяне, ці ўваходзіць у сетку">
+<!ENTITY menuitemAlwaysOnline "Заўсёды ўваходзіць у сетку пры запуску">
+<!ENTITY menuitemAlwaysOffline "Ніколі не ўваходзіць у сетку пры запуску">
+<!ENTITY menuitemAutomatic "Вызначаць самастойна (калі даступна)">
+<!ENTITY textGoingOnline "Адаслаць неадпраўленыя лісты пасля ўвахода ў сетку?">
+<!ENTITY radioAutoSend "Так">
+<!ENTITY radioAutoSend.accesskey "Т">
+<!ENTITY radioNotSend "Не">
+<!ENTITY radioNotSend.accesskey "Н">
+<!ENTITY radioAskUnsent "Спытаць мяне">
+<!ENTITY radioAskUnsent.accesskey "ы">
+<!ENTITY textGoingOffline "Загружаць лісты для карыстання па-за сеткаю перад адлучэннем ад сеткі?">
+<!ENTITY radioAutoDownload "Так">
+<!ENTITY radioAutoDownload.accesskey "а">
+<!ENTITY radioNotDownload "Не">
+<!ENTITY radioNotDownload.accesskey "е">
+<!ENTITY radioAskDownload "Спытаць мяне">
+<!ENTITY radioAskDownload.accesskey "з">
+<!ENTITY Diskspace "Дыскавая прастора">
+<!ENTITY offlineCompact.label "Ушчыльняць папкі, калі яны захоўваюць больш">
+<!ENTITY offlineCompact.accesskey "У">
+<!ENTITY kb.label "КБ">

@@ -1,0 +1,6 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Ліст">
+<!ENTITY newMessageCmd.accesskey "л">
+<!ENTITY newCardCmd.label "Картку адраснай кнігі…">
+<!ENTITY newCardCmd.accesskey "К">

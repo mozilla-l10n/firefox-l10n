@@ -1,0 +1,31 @@
+<!ENTITY appear.label "Выгляд">
+<!ENTITY content.label "Змесціва">
+<!ENTITY fonts.label "Шрыфты">
+<!ENTITY colors.label "Колеры">
+<!ENTITY navigator.label "Азіральнік">
+<!ENTITY history.label "Гісторыя">
+<!ENTITY bidi.label "Наладкі напрамку тэксту">
+<!ENTITY languages.label "Мовы">
+<!ENTITY applications.label "Дапаможныя прыстасаванні">
+<!ENTITY locationBar.label "Паліца месцазнаходжання">
+<!ENTITY tabWindows.label "Азіранне з устаўкамі">
+<!ENTITY compose.label "Укладальнік">
+<!ENTITY editing.label "Наладжванні новай старонкі">
+<!ENTITY publish.label "Публікаванне">
+<!ENTITY offline.label "Па-за сеткай">
+<!ENTITY security.label "Адасабленне і бяспека">
+<!ENTITY cookies.label "Біркі">
+<!ENTITY images.label "Малюнкі">
+<!ENTITY popups.label "Вокны-Вынырцы">
+<!ENTITY advance.label "Пашыраны">
+<!ENTITY down.label "Загрузка">
+<!ENTITY cache.label "Запаснік">
+<!ENTITY proxies.label "Пасярэднікі">
+<!ENTITY httpnetworking.label "Сетка HTTP">
+<!ENTITY smart.label "Усталяванне праграмнага забеспячэння">
+<!ENTITY download.label "Загрузкі">
+<!ENTITY keynav.label "Клавіятурная навігацыя">
+<!ENTITY search.label "Пошук у Інтэрнэце">
+<!ENTITY policies.label "Палітыкі бяспекі">
+<!ENTITY mousewheel.label "Кола мышы">
+<!ENTITY scriptsAndWindows.label "Сцэнары і ўбудовы">

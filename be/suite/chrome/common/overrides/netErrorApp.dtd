@@ -1,0 +1,9 @@
+<!ENTITY securityOverride.linkText "Ці вы можаце дадаць выключэнне…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Кепскія навіны, перакінуць мяне на хатнюю старонку замест">
+<!ENTITY securityOverride.exceptionButtonLabel "Дадаць выключэнне">
+<!ENTITY securityOverride.warningText "
+<p>Вы не павінны дадаваць выключэнне, калі вы ўжываеце злучэнне з інтэрнэтам, якому вы цалкам не давяраеце, ці калі вам не даводзілася бачыць папярэджанне для гэтага паслугача.</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">

@@ -1,0 +1,16 @@
+<!ENTITY pluginWizard.title "Служба пошуку ўбудоваў">
+<!ENTITY pluginWizard.firstPage.title "Калі ласка &pluginWizard.title;">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; зараз правярае, ці існуюць даступныя ўбудовы…">
+<!ENTITY pluginWizard.availablePluginsPage.title "Даступныя загрузкі ўбудоваў">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Даступны наступныя ўбудовы:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Націсніце Далей, каб усталяваць гэтыя ўбудовы.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Асобныя ўбудовы магчыма запатрабуюць у вас дадатковыя звесткі падчас усталявання.">
+<!ENTITY pluginWizard.licensePage.title "Ліцэнзіі ўбудовы">
+<!ENTITY pluginWizard.licensePage.accept.label "Я згодзен(на).">
+<!ENTITY pluginWizard.licensePage.deny.label "Я не згодзен(на) (убудова не ўсталюецца).">
+<!ENTITY pluginWizard.installPluginsPage.title "Усталяванне ўбудоваў">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; усталёўвае ўбудовы…">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; скончыў усталяванне адсутных убудоваў:">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Знайсці больш звестак пра ўбудовы або знайсці адсутныя ўбудовы ўручную.">
+<!ENTITY pluginWizard.finalPage.restart.label "Трэба перазапусціць &brandShortName;, каб убудова(ы) пачала(і) працаваць.">
+<!ENTITY missingPlugin.label "Пстрыкніце тут, каб загрузіць убудову.">

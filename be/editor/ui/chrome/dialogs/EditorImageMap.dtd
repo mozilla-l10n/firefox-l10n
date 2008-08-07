@@ -1,0 +1,87 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Dan Haddix (dan6992@hotmail.com)
+   -   Brian King (briano9@yahoo.com)
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY windowTitle.label "Рэдактар мапы малюнка">
+<!ENTITY mapfileMenu.label "Файл">
+<!ENTITY mapfilemenu.accesskey "Ф">
+<!ENTITY clearCmd.label "Ачысціць">
+<!ENTITY mapfileclear.accesskey "ы">
+<!ENTITY closeCmd.label "Зачыніць">
+<!ENTITY mapfileclose.accesskey "ч">
+<!ENTITY mapeditMenu.label "Праўка">
+<!ENTITY mapeditmenu.accesskey "П">
+<!ENTITY cutCmd.label "Выразаць">
+<!ENTITY mapeditcut.accesskey "р">
+<!ENTITY copyCmd.label "Капіяваць">
+<!ENTITY mapeditcopy.accesskey "К">
+<!ENTITY pasteCmd.label "Уставіць">
+<!ENTITY mapeditpaste.accesskey "У">
+<!ENTITY selectallCmd.label "Вылучыць усё">
+<!ENTITY mapselectall.accesskey "У">
+<!ENTITY propsCmd.label "Уласцівасці плямы">
+<!ENTITY mapeditprops.accesskey "У">
+<!ENTITY mapviewMenu.label "Прагляд">
+<!ENTITY mapviewmenu.accesskey "г">
+<!ENTITY showhideTbarCmd.label "Схаваць паліцу прыладаў">
+<!ENTITY mapviewtbar.accesskey "П">
+<!ENTITY mapviewScale.label "Павялічэнне">
+<!ENTITY mapviewscale.accesskey "в">
+<!ENTITY apercentCmd.label "100">
+<!ENTITY zoomone.accesskey "1">
+<!ENTITY bpercentCmd.label "200">
+<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY cpercentCmd.label "450">
+<!ENTITY zoomthree.accesskey "4">
+<!ENTITY contrastCmd.label "Кантраст">
+<!ENTITY contrast.accesskey "К">
+<!ENTITY maphelpMenu.label "Даведка">
+<!ENTITY maphelpmenu.accesskey "Д">
+<!ENTITY aboutCmd.label "Пра">
+<!ENTITY about.accesskey "П">
+<!ENTITY zoominCmd.label "Павялічыць">
+<!ENTITY zoomoutCmd.label "Паменшыць">
+<!ENTITY delSpotCmd.label "Выдаліць пляму">
+<!ENTITY clear.accesskey "ы">
+<!ENTITY selectall.accesskey "У">
+<!ENTITY close.accesskey "ч">
+<!ENTITY cut.accesskey "р">
+<!ENTITY copy.accesskey "К">
+<!ENTITY paste.accesskey "У">
+<!ENTITY props.accesskey "У">
+<!ENTITY tbar.accesskey "t">

@@ -1,0 +1,42 @@
+<!ENTITY migrationWizard.title "Чараўнік Імпарту">
+<!ENTITY importFrom.label "Імпарт наладак, закладак, гісторыі, пароляў і іншых даных з:">
+<!ENTITY importFromUnix.label "Імпарт Перавагаў, Закладак, Гісторыі, Пароляў ці іншых даных з:">
+<!ENTITY importFromBookmarks.label "Імпарт Закладак з:">
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird ці Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Не імпартаваць нічога">
+<!ENTITY importFromNothing.accesskey "н">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 або Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label "З файла HTML">
+<!ENTITY importFromHTMLFile.accesskey "ф">
+<!ENTITY noMigrationSources.label "Не знойдзены ніякія праграмы, якія б утрымлівалі закладкі, гісторыю або паролі.">
+<!ENTITY importSource.title "Імпарт наладжванняў і даных">
+<!ENTITY importItems.title "Адзінкі для імпарту">
+<!ENTITY importItems.label "Выберыце, якія адзінкі трэба імпартаваць:">
+<!ENTITY migrating.title "Імпарт…">
+<!ENTITY migrating.label "Наступныя адзінкі зараз імпартуюцца…">
+<!ENTITY selectProfile.title "Выбар Профілю">
+<!ENTITY selectProfile.label "Наступныя профілі даступныя для імпарту з:">
+<!ENTITY done.title "Імпарт Выкананы">
+<!ENTITY done.label "Наступныя адзінкі паспяхова імпартаваны:">

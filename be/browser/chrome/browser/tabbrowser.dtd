@@ -1,0 +1,18 @@
+<!ENTITY untitledTab "(Без загалоўка)">
+<!ENTITY newTab.label "Новая ўстаўка">
+<!ENTITY newTab.accesskey "Н">
+<!ENTITY closeTab.label "Зачыніць устаўку">
+<!ENTITY closeTab.accesskey "З">
+<!ENTITY closeOtherTabs.accesskey "і">
+<!ENTITY closeOtherTabs.label "Зачыніць іншыя ўстаўкі">
+<!ENTITY reloadAllTabs.label "Абнавіць усе ўстаўкі">
+<!ENTITY reloadAllTabs.accesskey "у">
+<!ENTITY reloadTab.label "Абнавіць устаўку">
+<!ENTITY reloadTab.accesskey "в">
+<!ENTITY listAllTabs.label "Пералічыць усе ўстаўкі">
+<!ENTITY bookmarkAllTabs.label "Дадаць закладкі да ўсіх уставак…">
+<!ENTITY bookmarkAllTabs.accesskey "Д">
+<!ENTITY bookmarkThisTab.label "Дадаць закладку да гэтай устаўкі">
+<!ENTITY bookmarkThisTab.accesskey "к">
+<!ENTITY undoCloseTab.label "Адмена закрыцця ўстаўкі">
+<!ENTITY undoCloseTab.accesskey "А">

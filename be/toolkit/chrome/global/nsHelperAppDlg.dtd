@@ -1,0 +1,22 @@
+<!ENTITY caption.label "Адчынянне #1">
+<!ENTITY intro.label "Файл &quot;#3&quot; належыць да тыпу  #2 (#1), і #4 не ведае як апрацоўваць файлы гэтага тыпу. Файл змяшчаецца ў:">
+<!ENTITY intro.noDesc.label "Файл &quot;#3&quot; належыць да тыпу  #2, і #4 не ведае як апрацоўваць файлы гэтага тыпу. Файл змяшчаецца ў:">
+<!ENTITY intro.attachment.label "Пляцоўка падказвае, што &quot;#3&quot; апрацоўваецца як далучэнне. Яно тыпу #2 (#1) і змяшчаецца ў:">
+<!ENTITY intro.attachment.noDesc.label "Пляцоўка падказвае, што &quot;#3&quot; апрацоўваецца як далучэнне. Яно тыпу #2 і змяшчаецца ў:">
+<!ENTITY intro.sniffed.label "#4 выявіў, што тып файл &quot;#3&quot;, хутчэй за ўсё, #2 (#1). Файл размешчаны ў:">
+<!ENTITY intro.sniffed.noDesc.label "#4 выявіў, што тып файл &quot;#3&quot;, хутчэй за ўсё, #2. Файл размешчаны ў:">
+<!ENTITY prompt.label "Што #1 мусіць зрабіць з гэтым файлам?">
+<!ENTITY alwaysHandle.label "Заўсёды выконваць гэтае дзеянне калі апрацоўваюцца файлы гэтага тыпу">
+<!ENTITY alwaysHandle.accesskey "ў">
+<!ENTITY saveToDisk.label "Захаваць яго на дыску">
+<!ENTITY saveToDisk.accesskey "З">
+<!ENTITY useSystemDefault.label "Адчыніць яго змоўчным прыстасаваннем (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Адчыніць яго змоўчным прыстасаваннем">
+<!ENTITY useSystemDefault.accesskey "А">
+<!ENTITY openUsing.label "Адчыніць яго з дапамогай">
+<!ENTITY openUsing.accesskey "д">
+<!ENTITY chooseApp.label "Выбар…">
+<!ENTITY chooseApp.accesskey "В">
+<!ENTITY chooseAppFilePickerTitle "Выберыце дапаможнае прыстасаванне">
+<!ENTITY badApp "Прызначанае вамі прыстасаванне (&quot;#1&quot;) немагчыма знайсці. Праверце назву файла ці выберыце іншае прыстасаванне. ">
+<!ENTITY badApp.title "Прыстасаванне не знойдзена">

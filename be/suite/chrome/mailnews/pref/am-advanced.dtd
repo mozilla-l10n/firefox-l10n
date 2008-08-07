@@ -1,0 +1,16 @@
+<!ENTITY smtpServer.label "Наладжванні выходнага паслугача (SMTP)">
+<!ENTITY smtpDesc.label "Хоць вы можаце прызначыць больш за адзін выходны паслугач (SMTP), гэта раіцца толькі для дасведчаных карыстальнікаў. Усталяванне некалькіх паслугачоў SMTP можа прывесці да памылак падчас дасылання лістоў.">
+<!ENTITY smtpListAdd.label "Дадаць…">
+<!ENTITY smtpListAdd.accesskey "д">
+<!ENTITY smtpListEdit.label "Правіць…">
+<!ENTITY smtpListEdit.accesskey "П">
+<!ENTITY smtpListDelete.label "Выдаліць">
+<!ENTITY smtpListDelete.accesskey "В">
+<!ENTITY smtpListSetDefault.label "Усталяваць як змоўчны">
+<!ENTITY smtpListSetDefault.accesskey "з">
+<!ENTITY serverDescription.label "Апісанне:">
+<!ENTITY serverName.label "Назва паслугача:">
+<!ENTITY serverPort.label "Порт:">
+<!ENTITY userName.label "Імя карыстальніка:">
+<!ENTITY useSecureConnection.label "Бяспечнае злучэнне:">
+<!ENTITY useSecureAuthentication.label "Бяспечнае апазнаванне:">

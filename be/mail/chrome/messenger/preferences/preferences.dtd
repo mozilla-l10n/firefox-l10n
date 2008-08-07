@@ -1,0 +1,12 @@
+<!ENTITY prefWindow.titleWin "Наладкі">
+<!ENTITY prefWindow.titleGNOME "Перавагі &brandShortName;">
+<!ENTITY prefWindow.styleWindows "width: 54em; min-height: 46em;">
+<!ENTITY prefWindow.styleMac "width: 54em;">
+<!ENTITY prefWindow.styleGNOME "width: 55em; min-height: 43em;">
+<!ENTITY paneGeneral.title "Агульныя">
+<!ENTITY paneDisplay.title "Адлюстраванне">
+<!ENTITY paneTags.title "Меткі">
+<!ENTITY paneComposition.title "Укладанне">
+<!ENTITY paneAttachments.title "Далучэнні">
+<!ENTITY panePrivacy.title "Адасабленне">
+<!ENTITY paneAdvanced.title "Пашыраны">

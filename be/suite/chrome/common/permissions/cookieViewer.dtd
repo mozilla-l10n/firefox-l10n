@@ -1,0 +1,28 @@
+<!ENTITY tab.cookiesonsystem.label "Захаваныя біркі">
+<!ENTITY tab.bannedservers.label "Пляцоўкі бірак">
+<!ENTITY div.bannedservers.label "Кіраванне пляцоўкамі, якія могуць ці не захоўваць біркі на вашым кампутары.">
+<!ENTITY div.cookiesonsystem.label "Прагляд і выдаленне бірак, якія захоўваюцца на вашым кампутары.">
+<!ENTITY treehead.cookiename.label "Назва біркі">
+<!ENTITY treehead.cookiedomain.label "Пляцоўка">
+<!ENTITY treehead.cookieexpires.label "Высіліцца">
+<!ENTITY treehead.infoselected.label "Звесткі аб вылучанай бірцы">
+<!ENTITY button.removecookie.label "Выдаліць бірку">
+<!ENTITY button.removeallcookies.label "Выдаліць усе біркі">
+<!ENTITY props.name.label "Назва:">
+<!ENTITY props.value.label "Змест:">
+<!ENTITY props.domain.label "Трымальнік:">
+<!ENTITY props.path.label "Шлях:">
+<!ENTITY props.secure.label "Дасылаецца праз:">
+<!ENTITY props.expires.label "Высіліцца:">
+<!ENTITY treehead.sitename.label "Пляцоўка">
+<!ENTITY treehead.status.label "Статус">
+<!ENTITY windowtitle.label "Кіраўнік бірак">
+<!ENTITY buttonaccept.label "Зачыніць">
+<!ENTITY blockSite.label "Блакаваць">
+<!ENTITY allowSite.label "Дазволіць">
+<!ENTITY allowSiteSession.label "Сэсія">
+<!ENTITY removepermission.label "Выдаліць пляцоўку">
+<!ENTITY removeallpermissions.label "Выдаліць усе пляцоўкі">
+<!ENTITY canSet.label "можа ўсталёўваць біркі">
+<!ENTITY cannotSet.label "не можа ўсталёўваць біркі">
+<!ENTITY checkbox.label "Не дазваляць пляцоўкам, якія ўсталёўвалі выдаленыя біркі, усталёўваць біркі зноў">

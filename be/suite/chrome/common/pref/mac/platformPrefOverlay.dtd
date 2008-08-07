@@ -1,0 +1,5 @@
+<!ENTITY prefWindow.size "width: 59em; height: 41em;">
+<!ENTITY urlbar.label "⌘+Return на паліцы месцазнаходжання">
+<!ENTITY urlbar.accesskey "м">
+<!ENTITY middleClick.label "Сярэд-пстрык, ⌘+пстрык ці ⌘+Return па спасылкам на старонцы сеціва">
+<!ENTITY middleClick.accesskey "С">

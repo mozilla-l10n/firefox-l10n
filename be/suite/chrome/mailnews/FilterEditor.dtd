@@ -1,0 +1,33 @@
+<!--null-->
+<!ENTITY window.title "Правілы сіта">
+<!ENTITY filterName.label "Назва сіта:">
+<!ENTITY filterName.accesskey "і">
+<!ENTITY junk.label "Лухта">
+<!ENTITY notJunk.label "Не лухта">
+<!ENTITY lowestPriorityCmd.label "Найніжэйшы">
+<!ENTITY lowPriorityCmd.label "Нізкі">
+<!ENTITY normalPriorityCmd.label "Звычайны">
+<!ENTITY highPriorityCmd.label "Высокі">
+<!ENTITY highestPriorityCmd.label "Найвышэйшы">
+<!ENTITY conditionDesc.label "Для ўваходных лістоў, якія:">
+<!ENTITY filterActionDesc.label "Выканаць гэтыя дзеянні:">
+<!ENTITY filterActionDesc.accesskey "В">
+<!ENTITY newFolderButton.label "Новая папка…">
+<!ENTITY newFolderButton.accesskey "Н">
+<!ENTITY moveMessage.label "Рухаць ліст у">
+<!ENTITY copyMessage.label "Капіяваць ліст у">
+<!ENTITY forwardTo.label "Накіраваць ліст да">
+<!ENTITY replyWithTemplate.label "Адказаць паводле ўзору">
+<!ENTITY markMessageRead.label "Пазначыць прачытаным">
+<!ENTITY markMessageStarred.label "Пазначыць сцяжком">
+<!ENTITY labelMessage.label "Памеціць ліст як">
+<!ENTITY setPriority.label "Прызначыць прыярытэт">
+<!ENTITY addTag.label "Дадаць метку да ліста">
+<!ENTITY setJunkScore.label "Усталяваць статус лухты">
+<!ENTITY deleteMessage.label "Выдаліць ліст">
+<!ENTITY deleteFromPOP.label "Выдаліць з паслугача POP">
+<!ENTITY fetchFromPOP.label "Атрымаць з паслугача POP">
+<!ENTITY ignoreThread.label "Ігнараваць нізку">
+<!ENTITY ignoreSubthread.label "Ігнараваць паднізку">
+<!ENTITY watchThread.label "Сачыць за нізкай">
+<!ENTITY stopExecution.label "Спыніць выкананне сіта">

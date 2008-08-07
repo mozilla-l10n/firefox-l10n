@@ -1,0 +1,77 @@
+<!ENTITY generalTab.label "Асноўныя">
+<!ENTITY accessibility.label "Даступнасць">
+<!ENTITY useCursorNavigation.label "Заўсёды ўжываць клавішы-стрэлкі для перамяшчэння ў старонках">
+<!ENTITY useCursorNavigation.accesskey "с">
+<!ENTITY searchStartTyping.label "Шукаць тэкст, які я пачынаю набіраць">
+<!ENTITY searchStartTyping.accesskey "Ш">
+<!ENTITY blockAutoRefresh.label "Папярэджваць мяне, калі пляцоўкі сеціва спрабуюць перанакіраваць ці абнавіць старонку">
+<!ENTITY blockAutoRefresh.accesskey "я">
+<!ENTITY browsing.label "Азіранне">
+<!ENTITY useAutoScroll.label "Ужываць самапракручванне">
+<!ENTITY useAutoScroll.accesskey "с">
+<!ENTITY useSmoothScrolling.label "Ужываць плаўнае пракручванне">
+<!ENTITY useSmoothScrolling.accesskey "л">
+<!ENTITY checkSpelling.label "Правяраць правапіс падчас набору">
+<!ENTITY checkSpelling.accesskey "п">
+<!ENTITY systemDefaults.label "Сістэмныя змоўчкі">
+<!ENTITY alwaysCheckDefault.label "Заўсёды правяраць пры запуску, ці з'яўляецца &brandShortName; змоўчным азіральнікам">
+<!ENTITY alwaysCheckDefault.accesskey "З">
+<!ENTITY checkNow.label "Праверыць зараз">
+<!ENTITY checkNow.accesskey "П">
+<!ENTITY networkTab.label "Сетка">
+<!ENTITY connection.label "Злучэнне">
+<!ENTITY connectionDesc.label "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">
+<!ENTITY connectionSettings.label "Наладжванні…">
+<!ENTITY connectionSettings.accesskey "л">
+<!ENTITY offlineStorage.label "Пазасеткавае захаванне">
+<!ENTITY useCacheBefore.label "Ужываць да">
+<!ENTITY useCacheBefore.accesskey "У">
+<!ENTITY useCacheAfter.label "МБ прасторы для запасніку">
+<!ENTITY clearCacheNow.label "Ачысціць зараз">
+<!ENTITY clearCacheNow.accesskey "ч">
+<!ENTITY updateTab.label "Абнаўленне">
+<!ENTITY autoCheck.label "Самастойна правяраць, ці існуюць абнаўленні да:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "а">
+<!ENTITY enableAddonsUpdate.label "Усталяваных дадаткаў">
+<!ENTITY enableAddonsUpdate.accesskey "д">
+<!ENTITY enableSearchUpdate.label "Машынаў пошуку">
+<!ENTITY enableSearchUpdate.accesskey "ш">
+<!ENTITY whenUpdatesFound.label "Калі знойдзены абнаўленні &brandShortName;:">
+<!ENTITY askMe.label "Пытацца мяне, што я буду рабіць">
+<!ENTITY askMe.accesskey "т">
+<!ENTITY modeAutomatic.label "Самастойна загружаць і ўсталёўваць абнаўленне">
+<!ENTITY modeAutomatic.accesskey "ў">
+<!ENTITY modeAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забароняцца мае дадаткі">
+<!ENTITY modeAutoAddonWarn.accesskey "П">
+<!ENTITY updateHistory.label "Паказаць гісторыю абнаўленняў">
+<!ENTITY updateHistory.accesskey "а">
+<!ENTITY offlineNotify.label "Паведамляць мне, калі пляцоўка сеціва просіць захаваць здаткі для пазасеткавага ўжывання">
+<!ENTITY offlineNotify.accesskey "в">
+<!ENTITY offlineNotifyExceptions.label "Выключэнні…">
+<!ENTITY offlineNotifyExceptions.accesskey "ы">
+<!ENTITY offlineAppsList.label "Наступныя пляцоўкі сеціва маюць здаткі, захованыя для пазасеткавага ўжывання:">
+<!ENTITY offlineAppsList.height "8em">
+<!ENTITY offlineAppsListRemove.label "Выдаліць…">
+<!ENTITY offlineAppsListRemove.accesskey "В">
+<!ENTITY offlineAppRemove.confirm "Выдаліць пазасеткавыя здаткі">
+<!ENTITY encryptionTab.label "Тайнапіс">
+<!ENTITY protocols.label "Пратаколы">
+<!ENTITY useSSL3.label "Ужываць SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Ужываць TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Пасведчанні">
+<!ENTITY certSelection.description "Калі паслугач патрабуе маё асабістае пасведчанне:">
+<!ENTITY certs.auto "Выбраць адзін самастойна">
+<!ENTITY certs.auto.accesskey "с">
+<!ENTITY certs.ask "Пытацца ў мяне кожны раз">
+<!ENTITY certs.ask.accesskey "р">
+<!ENTITY viewCerts.label "Прагляд пасведчанняў">
+<!ENTITY viewCerts.accesskey "г">
+<!ENTITY viewCRLs.label "Спісы адклікання">
+<!ENTITY viewCRLs.accesskey "к">
+<!ENTITY verify2.label "Пацвярджэнне">
+<!ENTITY verify2.accesskey "П">
+<!ENTITY viewSecurityDevices.label "Збудовы бяспекі">
+<!ENTITY viewSecurityDevices.accesskey "б">

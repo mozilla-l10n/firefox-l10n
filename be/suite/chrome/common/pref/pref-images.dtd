@@ -1,0 +1,19 @@
+<!ENTITY pref.images.title "Малюнкі">
+<!ENTITY imageBlocking.label "Палітыка набывання малюнкаў">
+<!ENTITY imageDetails "Прызначыць, як &brandShortName; мусіць апрацоўваць малюнкі.">
+<!ENTITY accAllImagesRadio.label "Набываць усе малюнкі">
+<!ENTITY accAllImagesRadio.accesskey "Н">
+<!ENTITY accOrgImagesRadio.label "Набываць малюнкі толькі з зыходнага паслугача">
+<!ENTITY accOrgImagesRadio.accesskey "з">
+<!ENTITY disableImages.label "Не загружаць ніякіх малюнкаў">
+<!ENTITY disableImages.accesskey "н">
+<!ENTITY viewImagesExplanation.label "Праглядзець спіс пляцовак, для якіх захоўваюцца наладкі набывання малюнкаў">
+<!ENTITY viewImages.label "Уладкаваць дазволы малюнкаў">
+<!ENTITY viewImages.accesskey "Д">
+<!ENTITY animLoopingTitle.label "Ажыўленыя малюнкі павінны паўтарацца">
+<!ENTITY animLoopAsSpecified.label "Столькі, колькі малюнак прызначыў">
+<!ENTITY animLoopAsSpecified.accesskey "к">
+<!ENTITY animLoopOnce.label "Аднойчы">
+<!ENTITY animLoopOnce.accesskey "А">
+<!ENTITY animLoopNever.label "Ніколі">
+<!ENTITY animLoopNever.accesskey "Н">

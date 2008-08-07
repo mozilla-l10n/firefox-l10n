@@ -1,0 +1,34 @@
+<!ENTITY preferencesCmd.label "Перавагі…">
+<!ENTITY preferencesCmd.key ",">
+<!ENTITY preferencesCmd.modifiers "accel">
+<!ENTITY servicesMenu.label "Службы">
+<!ENTITY hideThisAppCmd.label "Схаваць &brandShortName;">
+<!ENTITY hideThisAppCmd.key "H">
+<!ENTITY hideThisAppCmd.modifiers "accel">
+<!ENTITY hideOtherAppsCmd.label "Схаваць іншыя">
+<!ENTITY hideOtherAppsCmd.key "H">
+<!ENTITY hideOtherAppsCmd.modifiers "accel,alt">
+<!ENTITY showAllAppsCmd.label "Паказаць усе">
+<!ENTITY quitApplicationCmd.label "Выйсці з &brandShortName;">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.modifiers "accel">
+<!ENTITY closeCmd.label "Закрыць">
+<!ENTITY closeCmd.key "W">
+<!ENTITY printSetupCmd.label "Усталяванне старонкі…">
+<!ENTITY printSetupCmd.accesskey "У">
+<!ENTITY redoCmd.label "Вярнуць">
+<!ENTITY redoCmd.key "Z">
+<!ENTITY historyCmd.key "H">
+<!ENTITY findTypeTextCmd.key "">
+<!ENTITY findTypeLinksCmd.key "">
+<!ENTITY accel.emacs_conflict "accel">
+<!ENTITY minimizeWindowCmd.label "Мінімізаваць">
+<!ENTITY minimizeWindowCmd.key "M">
+<!ENTITY zoomWindowCmd.label "Павялічэнне">
+<!ENTITY openHelpCmd.label "Даведка &brandShortName;">
+<!ENTITY openHelpCmd.accesskey "Д">
+<!ENTITY openHelpCmd.key "?">
+<!ENTITY openHelpCmd.modifiers "accel">
+<!ENTITY ctrlKey.label "Ctrl">
+<!ENTITY altKey.label "Option">
+<!ENTITY shiftKey.label "Shift">

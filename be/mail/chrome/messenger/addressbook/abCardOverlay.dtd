@@ -1,0 +1,93 @@
+<!--null-->
+<!ENTITY Contact.tab "Сувязь">
+<!ENTITY Contact.accesskey "С">
+<!ENTITY Name.box "Імя">
+<!ENTITY NameField1.id "LastName">
+<!ENTITY NameField2.id "FirstName">
+<!ENTITY PhoneticField1.id "PhoneticLastName">
+<!ENTITY PhoneticField2.id "PhoneticFirstName">
+<!ENTITY NameField1.label "Імя:">
+<!ENTITY NameField1.accesskey "І">
+<!ENTITY NameField2.label "Прозвішча:">
+<!ENTITY NameField2.accesskey "А">
+<!ENTITY PhoneticField1.label "Фанетычна:">
+<!ENTITY PhoneticField2.label "Фанетычна:">
+<!ENTITY DisplayName.label "Адлюстроўнае:">
+<!ENTITY DisplayName.accesskey "л">
+<!ENTITY NickName.label "Мянушка:">
+<!ENTITY NickName.accesskey "М">
+<!ENTITY Internet.box "Інтэрнэт">
+<!ENTITY PrimaryEmail.label "Э-Пошта:">
+<!ENTITY PrimaryEmail.accesskey "Э">
+<!ENTITY SecondEmail.label "Дадатковая э-пошта:">
+<!ENTITY SecondEmail.accesskey "ш">
+<!ENTITY PreferMailFormat.label "Аддае перавагу атрыманню лістоў у фармаце:">
+<!ENTITY PreferMailFormat.accesskey "д">
+<!ENTITY PlainText.label "Просты тэкст">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "Невядома">
+<!ENTITY ScreenName.label "Экраннае імя:">
+<!ENTITY ScreenName.accesskey "я">
+<!ENTITY allowRemoteContent.label "Дазволіць адлеглыя малюнкі ў HTML-лістах.">
+<!ENTITY allowRemoteContent.accesskey "г">
+<!ENTITY Phones.box "Тэляфоны">
+<!ENTITY WorkPhone.label "Працоўны:">
+<!ENTITY WorkPhone.accesskey "ц">
+<!ENTITY HomePhone.label "Хатні:">
+<!ENTITY HomePhone.accesskey "Х">
+<!ENTITY FaxNumber.label "Факс:">
+<!ENTITY FaxNumber.accesskey "Ф">
+<!ENTITY PagerNumber.label "Гартач:">
+<!ENTITY PagerNumber.accesskey "Г">
+<!ENTITY CellularNumber.label "Мабільнік:">
+<!ENTITY CellularNumber.accesskey "б">
+<!ENTITY Address.tab "Адрас">
+<!ENTITY Address.accesskey "А">
+<!ENTITY Home.box "Хатні">
+<!ENTITY HomeAddress.label "Адрас:">
+<!ENTITY HomeAddress.accesskey "А">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey "">
+<!ENTITY HomeCity.label "Горад:">
+<!ENTITY HomeCity.accesskey "Г">
+<!ENTITY HomeState.label "Вобласць/Край:">
+<!ENTITY HomeState.accesskey "В">
+<!ENTITY HomeZipCode.label "Паштовы індэкс:">
+<!ENTITY HomeZipCode.accesskey "і">
+<!ENTITY HomeCountry.label "Краіна:">
+<!ENTITY HomeCountry.accesskey "К">
+<!ENTITY HomeWebPage.label "Старонка Сеціва:">
+<!ENTITY HomeWebPage.accesskey "С">
+<!ENTITY Work.box "Працоўны">
+<!ENTITY JobTitle.label "Пасада:">
+<!ENTITY JobTitle.accesskey "А">
+<!ENTITY Department.label "Аддзел:">
+<!ENTITY Department.accesskey "д">
+<!ENTITY Company.label "Установа:">
+<!ENTITY Company.accesskey "У">
+<!ENTITY WorkAddress.label "Адрас:">
+<!ENTITY WorkAddress.accesskey "А">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
+<!ENTITY WorkCity.label "Горад:">
+<!ENTITY WorkCity.accesskey "Г">
+<!ENTITY WorkState.label "Вобласць/Край:">
+<!ENTITY WorkState.accesskey "В">
+<!ENTITY WorkZipCode.label "Паштовы індэкс:">
+<!ENTITY WorkZipCode.accesskey "і">
+<!ENTITY WorkCountry.label "Краіна:">
+<!ENTITY WorkCountry.accesskey "К">
+<!ENTITY WorkWebPage.label "Старонка Сеціва:">
+<!ENTITY WorkWebPage.accesskey "С">
+<!ENTITY Other.tab "Іншае">
+<!ENTITY Other.accesskey "ш">
+<!ENTITY Custom1.label "Іншае 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "Іншае 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "Іншае 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "Іншае 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.box "Заўвагі">
+<!ENTITY Notes.accesskey "З">

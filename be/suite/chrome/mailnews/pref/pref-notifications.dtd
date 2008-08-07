@@ -1,0 +1,21 @@
+<!--null-->
+<!ENTITY pref.notifications.title "Апавяшчэнні">
+<!ENTITY notifications.caption "Апавяшчэнні">
+<!ENTITY newMessagesArrive.label "Калі прыбываюць новыя лісты:">
+<!ENTITY playSound.label "Прайграць гук">
+<!ENTITY playSound.accesskey "г">
+<!ENTITY showAnimatedAlert.label "Паказаць папярэджанне">
+<!ENTITY showAnimatedAlert.accesskey "я">
+<!ENTITY showTrayIcon.label "Паказаць значок у латку">
+<!ENTITY showTrayIcon.accesskey "л">
+<!ENTITY bounceSystemDockIcon.label "Ажывіць значок">
+<!ENTITY bounceSystemDockIcon.accesskey "А">
+<!ENTITY preview.label "Папярэдні прагляд">
+<!ENTITY preview.accesskey "П">
+<!ENTITY systemsound.label "Сістэмны гук новай пошты">
+<!ENTITY systemsound.accesskey "П">
+<!ENTITY customsound.label "Выбарачны файл .wav">
+<!ENTITY customsound.accesskey "В">
+<!ENTITY browse.label "Агляд…">
+<!ENTITY browse.accesskey "А">
+<!ENTITY browse.title "Выбраць файл">

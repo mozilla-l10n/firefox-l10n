@@ -1,0 +1,58 @@
+<!ENTITY itemGeneral.label "Асноўныя">
+<!ENTITY itemAutoComplete.label "Адрасаванне">
+<!ENTITY itemSpellCheck.label "Праверка правапісу">
+<!ENTITY itemSendFormat.label "Фармат дасылання">
+<!ENTITY forwardReply.label "Накіраванне лістоў">
+<!ENTITY forwardMsg.label "Накіроўваць лісты:">
+<!ENTITY forwardMsg.accesskey "Н">
+<!ENTITY inline.label "Усярэдзіне">
+<!ENTITY inline.accesskey "у">
+<!ENTITY asAttachment.label "Як далучэнне">
+<!ENTITY asAttachment.accesskey "д">
+<!ENTITY addExtension.label "дадаць пашырэнне да назвы файла">
+<!ENTITY addExtension.accesskey "ф">
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "Шрыфт:">
+<!ENTITY font.accesskey "Ш">
+<!ENTITY size.label "Памер:">
+<!ENTITY size.accesskey "м">
+<!ENTITY fontColor.label "Колер тэксту:">
+<!ENTITY fontColor.accesskey "т">
+<!ENTITY bgColor.label "Колер фону:">
+<!ENTITY bgColor.accesskey "ф">
+<!ENTITY restoreHTMLDefaults.label "Аднавіць змоўчныя">
+<!ENTITY restoreHTMLDefaults.accesskey "А">
+<!ENTITY sendingMessagesHeader.label "Укладанне лістоў">
+<!ENTITY spellCheck.label "Правяраць правапіс перад дасыланнем">
+<!ENTITY spellCheck.accesskey "п">
+<!ENTITY spellCheckInline.label "Дазволіць праверку правапісу падчас набору">
+<!ENTITY spellCheckInline1.accesskey "п">
+<!ENTITY languagePopup.label "Мова:">
+<!ENTITY languagePopup.accessKey "М">
+<!ENTITY downloadDictionaries.label "Загрузіць іншыя слоўнікі">
+<!ENTITY useMIME.label "Ужываць MIME кадоўку 'quoted printable' для лістоў, якія змяшчаюць 8-бітавыя знакі">
+<!ENTITY useMIME.accesskey "ж">
+<!ENTITY warnOnSendAccelKey.label "Пацвярджаць дасыланне ліста, калі яно выклікана клавіятурным выклічнікам">
+<!ENTITY warnOnSendAccelKey.accesskey "в">
+<!ENTITY autoSave.label "Самазахаванне кожныя">
+<!ENTITY autoSave.accesskey "з">
+<!ENTITY autoSaveEnd.label "хвілінаў">
+<!ENTITY wrapOutMsg.label "Загінаць радкі лістоў простага тэксту пасля">
+<!ENTITY wrapOutMsg.accesskey "г">
+<!ENTITY char.label "знакаў">
+<!ENTITY emailCollectionPicker.label "Самастойна дадаваць выходныя э-паштовыя адрасы ў маю:">
+<!ENTITY emailCollectionPicker.accesskey "С">
+<!ENTITY addressingTitle.label "Самазавяршэнне адрасоў">
+<!ENTITY autocompleteText.label "Калі адрасуюцца лісты, шукаць адпаведныя запісы:">
+<!ENTITY addressingEnable.label "У мясцовых адрасных кнігах">
+<!ENTITY addressingEnable.accesskey "м">
+<!ENTITY directories.label "На паслугачу дырэкторыяў:">
+<!ENTITY directories.accesskey "д">
+<!ENTITY editDirectories.label "Рэдагаваць дырэкторыі…">
+<!ENTITY editDirectories.accesskey "Р">
+<!ENTITY matchText.label "Калі існуе супадзенне ў вашых мясцовых адрасных кнігах:">
+<!ENTITY skipDirectory.label "Не шукаць у дырэкторыі">
+<!ENTITY sendOptionsCaption.label "Наладкі дасылання і HTML">
+<!ENTITY sendOptionsDescription.label "Наладкі паводзінаў пры фарматаванні тэксту">
+<!ENTITY sendOptions.label "Наладкі дасылання…">
+<!ENTITY sendOptions.accesskey "с">

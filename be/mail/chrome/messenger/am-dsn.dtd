@@ -1,0 +1,16 @@
+<!ENTITY pane.title "Пацвярджэнне дастаўкі">
+<!ENTITY useGlobalPrefs.label "Ужываць мае агульныя перавагі пацвярджэння дастаўкі для гэтага рахунку">
+<!ENTITY useGlobalPrefs.accesskey "У">
+<!ENTITY useCustomPrefs.label "Уладкаваць пацвярджэнне дастаўкі для гэтага рахунку">
+<!ENTITY useCustomPrefs.accesskey "л">
+<!ENTITY requestAlways.label "Заўсёды патрабаваць пацвярджэнне дастаўкі, калі дасылаюцца лісты">
+<!ENTITY requestAlways.accesskey "З">
+<!ENTITY optionTitle.label "Прасіць пацвярджэнне пры:">
+<!ENTITY requestOnSucess.label "Поспеху дастаўкі">
+<!ENTITY requestOnSucess.accesskey "П">
+<!ENTITY requestOnFailure.label "Няўдачы дастаўкі">
+<!ENTITY requestOnFailure.accesskey "Н">
+<!ENTITY requestOnDelay.label "Затрымцы дастаўкі">
+<!ENTITY requestOnDelay.accesskey "З">
+<!ENTITY requestNever.label "Ніколі не патрабаваць пацвярджэнне дастаўкі">
+<!ENTITY requestNever.accesskey "і">

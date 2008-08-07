@@ -1,0 +1,93 @@
+<!--
+   -
+   - ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is The JavaScript Debugger.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Ginda, <rginda@netscape.com>, original author
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY MainWindow.title "Наладчык JavaScript">
+<!ENTITY ViewFloat.tooltip "Пстрыкніце тут, каб прымацаваць/адмацаваць гэтую праяву">
+<!ENTITY ViewGrippy.tooltip "Перацягвайце паліцу загалоўка, каб перамясціць праяву">
+<!ENTITY ViewClose.tooltip "Пстрыкніце тут, каб зачыніць гэтую праяву">
+<!ENTITY Help.commands "Спасылка на загад">
+<!ENTITY Help.about "Пра Венкман">
+<!ENTITY DebugBar.tooltip "Прыладапаліца наладкі">
+<!ENTITY MenuBar.tooltip "Паліца меню">
+<!ENTITY Break.label "Перапыняльнікі">
+<!ENTITY BreakCol0.label "Назва">
+<!ENTITY BreakCol1.label "Радок/PC">
+<!ENTITY Locals.label "Мясцовыя зменныя">
+<!ENTITY LocalsCol0.header "Назва">
+<!ENTITY LocalsCol1.header "Тып">
+<!ENTITY LocalsCol2.header "Значэнне">
+<!ENTITY LocalsCol3.header "Сцяжкі">
+<!ENTITY Session.label "Узаемадзейная сэсія">
+<!ENTITY Scripts.label "Загружаныя сцэнары">
+<!ENTITY ScriptsSearch.label "Пошук">
+<!ENTITY ScriptsSearch.tooltip "Пстрыкніце тут, каб ачысціць поле пошуку">
+<!ENTITY ScriptsCol0.header "Назва">
+<!ENTITY ScriptsCol1.header "Радок">
+<!ENTITY ScriptsCol2.header "Даўжыня">
+<!ENTITY Source.label "Зыходны код">
+<!ENTITY SourceHeader.tip "Прыладапаліца зыходнага коду">
+<!ENTITY SourceCol0.display "Прымежак">
+<!ENTITY SourceCol1.display "Нумар радка">
+<!ENTITY Stack.label "Стос выклікаў">
+<!ENTITY StackCol0.header "Назва">
+<!ENTITY StackCol1.header "Месцазнаходжанне">
+<!ENTITY Watch.label "Назіранні">
+<!ENTITY WatchCol0.header "Назва">
+<!ENTITY WatchCol1.header "Тып">
+<!ENTITY WatchCol2.header "Значэнне">
+<!ENTITY WatchCol3.header "Сцяжкі">
+<!ENTITY Windows.label "Адкрытыя вокны">
+<!ENTITY WindowsCol0.label "Файл">
+<!ENTITY BPProps.URL.label "URL">
+<!ENTITY BPProps.Line.label "Радок">
+<!ENTITY BPProps.PC.label "PC">
+<!ENTITY BPProps.FunctionName.label "Функцыя">
+<!ENTITY BPProps.TriggerCount.label "Лік спрацаванняў">
+<!ENTITY BPProps.OneTime.label "Ачышчаць перапыняльнікі пасля першага спрацавання">
+<!ENTITY BPProps.Then.label "Тады …">
+<!ENTITY BPProps.ConditionalCheck.label "Калі спрацоўвае, выконваць…">
+<!ENTITY BPProps.NeverStopRadio.label "Працягваць незалежна ад выніку">
+<!ENTITY BPProps.AlwaysStopRadio.label "Спыніцца незалежна ад выніку">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Спыніцца, калі вынік станоўчы">
+<!ENTITY BPProps.EarlyReturnRadio.label "Заўчаснае вяртанне з выклікальніку з вынікам">
+<!ENTITY BPProps.PassExceptionsCheck.label "Перадаваць выключэнні выклікальніку">
+<!ENTITY BPProps.LogResultCheck.label "Запісваць вынік">
+<!ENTITY BPProps.Apply.label "Ужыць">
+<!ENTITY BPProps.Revert.label "Вярнуць">
+<!ENTITY BPProps.Close.label "Зачыніць">

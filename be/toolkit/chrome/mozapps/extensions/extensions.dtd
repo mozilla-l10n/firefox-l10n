@@ -1,0 +1,148 @@
+<!ENTITY addons.title "Дадаткі">
+<!ENTITY em.width "570">
+<!ENTITY em.height "416">
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY search.label "Атрымаць дадаткі">
+<!ENTITY extensions.label "Пашырэнні">
+<!ENTITY themes.label "Тэмы">
+<!ENTITY locales.label "Мовы">
+<!ENTITY plugins.label "Убудовы">
+<!ENTITY update.label "Абнаўленні">
+<!ENTITY install.label "Усталяванне">
+<!ENTITY cmd.checkUpdatesAll.label "Знайсці абнаўленні">
+<!ENTITY cmd.checkUpdatesAll.accesskey "З">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Знайсці абнаўленні вашых дадаткаў">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Знайсці абнаўленні вашых тэмаў">
+<!ENTITY cmd.installLocalFile.label "Усталяваць…">
+<!ENTITY cmd.installLocalFile.accesskey "с">
+<!ENTITY cmd.installFileAddon.tooltip "Усталяваць дадатак">
+<!ENTITY cmd.installFileTheme.tooltip "Усталяваць тэму">
+<!ENTITY cmd.installUpdatesAll.label "Усталяваць абнаўленні">
+<!ENTITY cmd.installUpdatesAll.accesskey "У">
+<!ENTITY cmd.installUpdatesAll.tooltip "Усталяваць вылучаныя абнаўленні">
+<!ENTITY cmd.restartApp2.label "Перазапусціць &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey "П">
+<!ENTITY cmd.restartApp2.tooltip "Перазапусціць &brandShortName;, каб ужыць змяненні">
+<!ENTITY cmd.skip.label "Прапусціць">
+<!ENTITY cmd.skip.accesskey "р">
+<!ENTITY cmd.skip.tooltip "Прапусціць гэтыя абнаўленні">
+<!ENTITY cmd.continue.label "Працягнуць">
+<!ENTITY cmd.continue.accesskey "а">
+<!ENTITY cmd.continue.tooltip "Працягнуць загрузку &brandShortName;">
+<!ENTITY cmd.enableAll.label "Дазволіць усе">
+<!ENTITY cmd.enableAll.accesskey "у">
+<!ENTITY cmd.enableAll.tooltip "Дазволіць усе адлюстрованыя дадаткі">
+<!ENTITY cmd.disableAll.label "Забараніць усе">
+<!ENTITY cmd.disableAll.accesskey "б">
+<!ENTITY cmd.disableAll.tooltip "Забараняе ўсе адлюстрованыя дадаткі">
+<!ENTITY cmd.useTheme.label "Ужыць тэму">
+<!ENTITY cmd.useTheme.accesskey "ж">
+<!ENTITY cmd.useTheme.tooltip "Змяняе тэму &brandShortName;.">
+<!ENTITY cmd.options.label "Наладкі">
+<!ENTITY cmd.options.accesskey "Н">
+<!ENTITY cmd.options.tooltip "Наладзіць вылучанае пашырэнне">
+<!ENTITY cmd.optionsUnix.label "Перавагі">
+<!ENTITY cmd.optionsUnix.accesskey "П">
+<!ENTITY cmd.optionsUnix.tooltip "Рэдагаваць перавагі вылучанага пашырэння">
+<!ENTITY cmd.enable.label "Дазволіць">
+<!ENTITY cmd.enable.accesskey "Д">
+<!ENTITY cmd.enable.tooltip "Дазволіць гэты дадатак пасля перазапуску &brandShortName;">
+<!ENTITY cmd.disable.label "Забараніць">
+<!ENTITY cmd.disable.accesskey "З">
+<!ENTITY cmd.disable.tooltip "Забараняе гэты дадатак пасля перазапуску &brandShortName;">
+<!ENTITY cmd.uninstall.label "Высталяваць">
+<!ENTITY cmd.uninstall2.accesskey "В">
+<!ENTITY cmd.uninstall2.tooltip "Высталяваць гэты дадатак пры перазапуску &brandShortName;">
+<!ENTITY cmd.cancelUninstall.label "Скасаваць высталяванне">
+<!ENTITY cmd.cancelUninstall.accesskey "С">
+<!ENTITY cmd.cancelUninstall.tooltip "Скасаваць высталяванне гэтага дадатка">
+<!ENTITY cmd.cancelInstall.label "Скасаваць усталяванне">
+<!ENTITY cmd.cancelInstall.accesskey "С">
+<!ENTITY cmd.cancelInstall.tooltip "Скасаваць усталяванне гэтага дадатка">
+<!ENTITY cmd.cancelUpgrade.label "Скасаваць абнаўленне">
+<!ENTITY cmd.cancelUpgrade.accesskey "С">
+<!ENTITY cmd.cancelUpgrade.tooltip "Скасаваць абнаўленне гэтага дадатка">
+<!ENTITY cmd.installUpdate.label "Усталяваць абнаўленне">
+<!ENTITY cmd.installUpdate.accesskey "У">
+<!ENTITY cmd.installUpdate.tooltip "Усталяваць абнаўленне гэтага дадатка">
+<!ENTITY cmd.showUpdateInfo.label "Паказаць звесткі">
+<!ENTITY cmd.showUpdateInfo.accesskey "к">
+<!ENTITY cmd.showUpdateInfo.tooltip "Паказаць мне звесткі пра гэтыя абнаўленні">
+<!ENTITY cmd.hideUpdateInfo.label "Схаваць звесткі">
+<!ENTITY cmd.hideUpdateInfo.accesskey "х">
+<!ENTITY cmd.hideUpdateInfo.tooltip "Схаваць звесткі пра гэтыя абнаўленні">
+<!ENTITY cmd.installSearchResult.label "Дадаць да &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "Д">
+<!ENTITY cmd.installSearchResult.tooltip "Загрузіць і ўсталяваць гэты дадатак">
+<!ENTITY cancel.label "Скасаваць">
+<!ENTITY cancel.accesskey "С">
+<!ENTITY cancelInstall.label "Скасаваць">
+<!ENTITY cancelInstall.accesskey "С">
+<!ENTITY cancelUpgrade.label "Скасаваць">
+<!ENTITY cancelUpgrade.accesskey "С">
+<!ENTITY cmd.homepage.label "Наведаць хатнюю старонку">
+<!ENTITY cmd.homepage.accesskey "х">
+<!ENTITY cmd.about2.label "Пра дадатак">
+<!ENTITY cmd.about.accesskey "п">
+<!ENTITY cmd.checkUpdate.label "Знайсці абнаўленне">
+<!ENTITY cmd.checkUpdate.accesskey "З">
+<!ENTITY cmd.includeUpdate.label "Уключыць абнаўленне">
+<!ENTITY cmd.includeUpdate.accesskey "н">
+<!ENTITY includeUpdate.label "Уключыць гэтае абнаўленне">
+<!ENTITY includeUpdate.accesskey "н">
+<!ENTITY includeUpdate.tooltip "Уключыць гэты дадатак падчас усталявання абнаўленняў">
+<!ENTITY insecureUpdate.label "Не ўтрымлівае абнаўленняў бяспекі.">
+<!ENTITY needsDependencies.label "Патрабуюцца дадатковыя адзінкі">
+<!ENTITY blocklisted.label "Забаронена дзеля вашай аховы.">
+<!ENTITY toBeDisabled.label "Гэты дадатак будзе забаронены падчас перазапуску &brandShortName;.">
+<!ENTITY toBeEnabled.label "Гэты дадатак будзе дазволены падчас перазапуску &brandShortName;.">
+<!ENTITY toBeInstalled.label "Гэты дадатак будзе ўсталяваны падчас перазапуску &brandShortName;.">
+<!ENTITY toBeUninstalled.label "Гэты дадатак будзе высталяваны падчас перазапуску &brandShortName;.">
+<!ENTITY toBeUpdated.label "Гэты дадатак будзе абноўлены пасля перазапуску &brandShortName;.">
+<!ENTITY getExtensions.label "Набыць пашырэнні">
+<!ENTITY getThemes.label "Набыць тэмы">
+<!ENTITY getPlugins.label "Набыць убудовы">
+<!ENTITY searchAddons.label "Пошук усіх дадаткаў">
+<!ENTITY browseAddons.label "Агляд усіх дадаткаў">
+<!ENTITY searchFailed.label "&brandShortName; не можа атрымаць дадаткі">
+<!ENTITY recommendedHeader.label "Раіцца">
+<!ENTITY recommendedThrobber.label "Атрыманне параеных дадаткаў">
+<!ENTITY searchThrobber.label "Пошук дадаткаў">
+<!ENTITY resetSearch.label "Ачысціць вынікі">
+<!ENTITY noSearchResults.label "Усе вынікі ўжо ўсталяваны ці з'яўляюцца несумяшчальнымі.">
+<!ENTITY noRecommendedResults.label "Усе парады ўжо ўсталяваны ці з'яўляюцца несумяшчальнымі.">
+<!ENTITY emptySearch.label "Няма адпаведных дадаткаў">
+<!ENTITY emptySearch.button "Добра">
+<!ENTITY cancelSearch.button "Скасаваць">
+<!ENTITY searchFailed.button "Добра">
+<!ENTITY searchResultHomepage.value "Падрабязней">
+<!ENTITY searchBox.label "Пошук усіх дадаткаў">
+<!ENTITY recommendedResults.label "Пабачыць усе параеныя дадаткі">
+<!ENTITY searchResultConnecting.label "Злучэнне…">
+<!ENTITY searchResultInstalling.label "Усталяванне…">
+<!ENTITY searchResultFailed.label "Усталяванне пацярпела няўдачу">
+<!ENTITY searchResultInstalled.label "Усталяванне выканана">
+<!ENTITY addonTypeExtension.label "Пашырэнне">
+<!ENTITY addonTypeTheme.label "Тэма">
+<!ENTITY missingThumbnail.label "Няма перадпрагляду">
+<!ENTITY previewNoThemeSelected.label "Тэма не вылучана">
+<!ENTITY previewNoPreviewImage.label "Гэтая тэма не мае выявы папярэдняга прагляду">
+<!ENTITY moreInfo.label "Падрабязней">
+<!ENTITY infoNoAddonSelected.label "Няма вылучаных абнаўленняў">
+<!ENTITY infoNoUpdateInfo.label "Гэтае абнаўленне не мае ніякіх дадатковых звестак">
+<!ENTITY infoUpdateInfoError.label "Здарылася памылка падчас загрузкі звестак пра гэтае абнаўленне">
+<!ENTITY updateSuccess.label "Абнаўленне паспяхова скончана.">
+<!ENTITY installSuccess.label "Усталяванне паспяхова скончана.">
+<!ENTITY installSuccessRestart.label "Перазапусціце, каб скончыць усталяванне.">
+<!ENTITY updateSuccessRestart.label "Перазапусціце, каб скончыць абнаўленне.">
+<!ENTITY installWaiting.label "Чаканне…">
+<!ENTITY installIncompatibleUpdate.label "Праверка сумяшчальнасці…">
+<!ENTITY installFinishing.label "Усталяванне…">
+<!ENTITY installFailure.label "Няўдача ўсталявання.">
+<!ENTITY progressStatus.label "Пошук абнаўленняў">
+<!ENTITY eula.title "Ліцэнзійнае пагадненне карыстальніка">
+<!ENTITY eula.width "580px">
+<!ENTITY eula.height "410px">
+<!ENTITY eula.accept "Пагадзіцца і ўсталяваць…">

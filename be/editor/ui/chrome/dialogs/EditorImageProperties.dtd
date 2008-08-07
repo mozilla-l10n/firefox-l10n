@@ -1,0 +1,97 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY windowTitle.label "Уласцівасці малюнка">
+<!ENTITY pixelsPopup.value "пікселяў">
+<!ENTITY percentPopup.value "адсоткаў">
+<!ENTITY locationEditField.label "Месцазнаходжанне малюнка:">
+<!ENTITY locationEditField.accessKey "з">
+<!ENTITY locationEditField.tooltip "Набярыце назву файла малюнка ці месцазнаходжанне">
+<!ENTITY title.label "Падказка:">
+<!ENTITY title.accessKey "П">
+<!ENTITY title.tooltip "Атрыбут html 'title'. які адлюстроўваецца як падказка">
+<!ENTITY altText.label "Дадатковы тэкст:">
+<!ENTITY altText.accessKey "Д">
+<!ENTITY altTextEditField.tooltip "Набярыце тэкст для адлюстравання замест малюнка">
+<!ENTITY noAltText.label "Не ўжываць дадатковы тэкст">
+<!ENTITY noAltText.accessKey "Н">
+<!ENTITY previewBox.label "Папярэдні прагляд малюнка">
+<!ENTITY MoreFewerButton.tooltip "Адлюстроўваць больш ці менш уласцівасцей для рэдагавання">
+<!ENTITY actualSize.label "Сапраўдны памер:">
+<!ENTITY actualSizeRadio.label "Сапраўдны памер">
+<!ENTITY actualSizeRadio.accessKey "ў">
+<!ENTITY actualSizeRadio.tooltip "Вярнуцца да сапраўднага памеру малюнка">
+<!ENTITY customSizeRadio.label "Выбарачны памер">
+<!ENTITY customSizeRadio.accessKey "б">
+<!ENTITY customSizeRadio.tooltip "Змяніць памер малюнка на старонцы">
+<!ENTITY heightEditField.label "Вышыня:">
+<!ENTITY heightEditField.accessKey "В">
+<!ENTITY widthEditField.label "Шырыня:">
+<!ENTITY widthEditField.accessKey "Ш">
+<!ENTITY constrainCheckbox.label "Суадносны">
+<!ENTITY constrainCheckbox.accessKey "С">
+<!ENTITY constrainCheckbox.tooltip "Захоўваць суадносіны памеру малюнка">
+<!ENTITY imagemapBox.label "Мапа малюнка">
+<!ENTITY removeImageMapButton.label "Выдаліць">
+<!ENTITY removeImageMapButton.accessKey "д">
+<!ENTITY editImageMapButton.label "Рэдагаваць…">
+<!ENTITY editImageMapButton.tooltip "Стварыць адметныя пункты для пстрыкання для гэтага малюнка">
+<!ENTITY alignment.label "Выраўноўваць тэкст да малюнку">
+<!ENTITY bottomPopup.value "Унізе">
+<!ENTITY topPopup.value "Угары">
+<!ENTITY centerPopup.value "Пасярэдзіне">
+<!ENTITY wrapRightPopup.value "Агортваць справа">
+<!ENTITY wrapLeftPopup.value "Абгортваць злева">
+<!ENTITY spacingBox.label "Прагалы">
+<!ENTITY spacingBox.tooltip "Набраць лік для велічыні прагалаў навокал малюнка">
+<!ENTITY leftRightEditField.label "Злева і справа:">
+<!ENTITY leftRightEditField.accessKey "С">
+<!ENTITY topBottomEditField.label "Угары і ўнізе:">
+<!ENTITY topBottomEditField.accessKey "г">
+<!ENTITY borderEditField.label "Суцэльная мяжа:">
+<!ENTITY borderEditField.accessKey "М">
+<!ENTITY showImageLinkBorder.label "Паказваць мяжу навокал злучанага малюнка">
+<!ENTITY showImageLinkBorder.accessKey "М">
+<!ENTITY makePageBackgroundCheckbox.label "Зрабіць фонам старонкі">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Скарыстаць малюнак як фон вашай старонкі">
+<!ENTITY editImageButton.label "Рэдагаваць малюнак">
+<!ENTITY editImageButton.tooltip "Рэдагаваць файл малюнка ў іншай праграме">
+<!ENTITY imageInputTab.label "Форма">
+<!ENTITY imageLocationTab.label "Месцазнаходжанне">
+<!ENTITY imageDimensionsTab.label "Вымярэнні">
+<!ENTITY imageAppearanceTab.label "Выгляд">
+<!ENTITY imageLinkTab.label "Спасылка">

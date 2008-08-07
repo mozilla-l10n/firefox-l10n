@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Назва:">
+<!ENTITY bookmarks.name.accesskey "Н">
+<!ENTITY bookmarks.location.label "Месцазнаходжанне:">
+<!ENTITY bookmarks.location.accesskey "М">
+<!ENTITY bookmarks.keyword.label "Ключавое слова:">
+<!ENTITY bookmarks.keyword.accesskey "К">
+<!ENTITY bookmarks.description.label "Апісанне:">
+<!ENTITY bookmarks.description.accesskey "А">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Жывыя загалоўкі">
+<!ENTITY bookmarks.createIn.label "Стварыць у:">
+<!ENTITY bookmarks.createIn.accesskey "С">
+<!ENTITY bookmarks.feed_location.label "Месцазнаходжанне жывільніка:">
+<!ENTITY bookmarks.feed_location.accesskey "ж">
+<!ENTITY bookmarks.site_location.label "Месцазнаходжанне пляцоўкі:">
+<!ENTITY bookmarks.site_location.accesskey "п">
+<!ENTITY bookmarks.loadInSidebar.label "Загрузіць гэтую закладку на палічку">
+<!ENTITY bookmarks.loadInSidebar.accesskey "г">
+<!ENTITY bookmarks.expanderDown.tooltip "Паказаць усе папкі закладак">
+<!ENTITY bookmarks.expanderUp.tooltip "Схаваць">
+<!ENTITY bookmarks.newFolderButton.label "Новая папка">
+<!ENTITY bookmarks.newFolderButton.accesskey "в">

@@ -1,0 +1,22 @@
+<!ENTITY offlineDialog.title "Наладкі працы па-за сеткаю">
+<!ENTITY textStartUp "Пры запуску:">
+<!ENTITY radioRememberPrevState.label "Памятаць папярэдні стан злучэння з сеткаю">
+<!ENTITY radioRememberPrevState.accesskey "П">
+<!ENTITY radioAskMe.label "Спытаць мяне пра стан злучэння з сеткаю пасля запуску">
+<!ENTITY radioAskMe.accesskey "с">
+<!ENTITY radioAlwaysOnline.label "Заўсёды ўваходзіць у сетку пры запуску">
+<!ENTITY radioAlwaysOnline.accesskey "З">
+<!ENTITY textGoingOnline "Дасылаць неадпраўленыя лісты пасля ўваходу ў сетку?">
+<!ENTITY radioAutoSend.label "Так">
+<!ENTITY radioAutoSend.accesskey "Т">
+<!ENTITY radioNotSend.label "Не">
+<!ENTITY radioNotSend.accesskey "Н">
+<!ENTITY radioAskUnsent.label "Спытаць мяне">
+<!ENTITY radioAskUnsent.accesskey "ы">
+<!ENTITY textGoingOffline "Загружаць лісты для карыстання па-за сеткаю перад выхадам з сеткі?">
+<!ENTITY radioAutoDownload.label "Так">
+<!ENTITY radioAutoDownload.accesskey "а">
+<!ENTITY radioNotDownload.label "Не">
+<!ENTITY radioNotDownload.accesskey "е">
+<!ENTITY radioAskDownload.label "Спытаць мяне">
+<!ENTITY radioAskDownload.accesskey "С">

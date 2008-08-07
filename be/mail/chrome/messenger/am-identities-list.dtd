@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Адметы, спалучаныя з гэтым рахункам">
+<!ENTITY identitiesListDesc.label "Падтрымка шматлікіх адметаў">
+<!ENTITY identitiesListAdd.label "Дадаць…">
+<!ENTITY identitiesListAdd.accesskey "Д">
+<!ENTITY identitiesListEdit.label "Правіць…">
+<!ENTITY identitiesListEdit.accesskey "П">
+<!ENTITY identitiesListDelete.label "Выдаліць">
+<!ENTITY identitiesListDelete.accesskey "В">

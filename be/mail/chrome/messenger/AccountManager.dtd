@@ -1,0 +1,13 @@
+<!ENTITY accountManagerTitle.label "Наладжванні рахунку">
+<!ENTITY addAccountButton.label "Дадаць рахунак…">
+<!ENTITY addAccountButton.accesskey "Р">
+<!ENTITY setDefaultButton.label "Змоўчны рахунак">
+<!ENTITY setDefaultButton.accesskey "З">
+<!ENTITY duplicateButton.label "Падвоіць">
+<!ENTITY removeButton.label "Выдаліць рахунак">
+<!ENTITY removeButton.accesskey "д">
+<!ENTITY nameCol.label "Назва">
+<!ENTITY duplicate.label "Падвоіць">
+<!ENTITY accountManager.size "width: 74em; height: 55em;">
+<!ENTITY macAccountManager.size "width: 74em; height: 55em;">
+<!ENTITY accountTree.width "width: 18em;">

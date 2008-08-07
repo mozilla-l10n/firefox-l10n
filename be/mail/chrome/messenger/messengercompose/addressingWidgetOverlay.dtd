@@ -1,0 +1,6 @@
+<!ENTITY toAddr.label "Да:">
+<!ENTITY ccAddr.label "Са:">
+<!ENTITY bccAddr.label "Сса:">
+<!ENTITY replyAddr.label "Зваротны адрас:">
+<!ENTITY newsgroupsAddr.label "Навінакупа:">
+<!ENTITY followupAddr.label "Водгук-Да:">

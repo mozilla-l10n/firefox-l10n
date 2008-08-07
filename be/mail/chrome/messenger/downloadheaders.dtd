@@ -1,0 +1,9 @@
+<!--null-->
+<!ENTITY all.label "Загрузіць ўсе загалоўкі">
+<!ENTITY all.accesskey "з">
+<!ENTITY download.label "Загрузіць">
+<!ENTITY download.accesskey "р">
+<!ENTITY headers.label "загалоўкаў">
+<!ENTITY headers.accesskey "г">
+<!ENTITY mark.label "Пазначыць астатнія загалоўкі прачытанымі">
+<!ENTITY mark.accesskey "ч">

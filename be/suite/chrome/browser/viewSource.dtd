@@ -1,0 +1,16 @@
+<!ENTITY mainWindow.title "&brandShortName;">
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Зыходнік:">
+<!ENTITY viewPartialSourceWindow.title "Зыходнік DOM">
+<!ENTITY menu_wrapLongLines.title "Загінаць доўгія радкі">
+<!ENTITY menu_wrapLongLines.accesskey "г">
+<!ENTITY menu_highlightSyntax.label "Падфарбоўка сінтаксісу">
+<!ENTITY menu_highlightSyntax.accesskey "ф">
+<!ENTITY findNextCmd.label "Знайсці наступны">
+<!ENTITY findNextCmd.accesskey "Н">
+<!ENTITY goToLineCmd.label "Перайсці да радка…">
+<!ENTITY goToLineCmd.accesskey "й">
+<!ENTITY goToLineCmd.commandkey "l">
+<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
+<!ENTITY printSetupCmd.accesskey "л">

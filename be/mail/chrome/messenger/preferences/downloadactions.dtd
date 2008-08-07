@@ -1,0 +1,25 @@
+<!ENTITY downloadactionsWindow.title "Дзеянні загрузкі">
+<!ENTITY window.width "500">
+<!ENTITY window.height "320">
+<!ENTITY fileTypesDescription.label "Самастойна выконваць спалучанае дзеянне з кожным з наступных тыпаў файлаў:">
+<!ENTITY fileHandlerColumn.label "Дзеянне">
+<!ENTITY fileHandlerColumn.accesskey "Д">
+<!ENTITY fileTypeColumn.label "Тып файла">
+<!ENTITY fileTypeColumn.accesskey "Т">
+<!ENTITY fileMIMETypeColumn.label "Тып MIME">
+<!ENTITY fileMIMETypeColumn.accesskey "M">
+<!ENTITY fileExtensionColumn.label "Пашырэнне">
+<!ENTITY fileExtensionColumn.accesskey "П">
+<!ENTITY remove.label "Выдаліць дзеянне">
+<!ENTITY remove.accesskey "д">
+<!ENTITY edit.label "Змяніць дзеянне…">
+<!ENTITY edit.accesskey "м">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.label "Пошук:">
+<!ENTITY filter.accesskey "П">
+<!ENTITY clear.label "Ачысціць">
+<!ENTITY clear.accesskey "А">
+<!ENTITY button.close.label "Зачыніць">
+<!ENTITY button.close.accesskey "ч">

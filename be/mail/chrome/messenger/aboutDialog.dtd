@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "Пра &brandFullName;">
+<!ENTITY credits.label "Удзельнікі">
+<!ENTITY credits.accesskey "У">
+<!ENTITY aboutLink.label "&lt; Пра &brandFullName;">
+<!ENTITY aboutLink.accesskey "П">
+<!ENTITY aboutVersion "версія">
+<!ENTITY copyrightText "©1998-2008 Укладчыкі. Усе правы абаронены. Мазіла Тандэрбёрд (Mozilla Thunderbird) і эмблема
+                                 Тандэрбёрд (Thunderbird) – гандлёвыя маркі Заснавання Мазіла (Mozilla Foundation).
+				 Усе правы абаронены.">

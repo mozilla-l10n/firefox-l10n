@@ -1,0 +1,10 @@
+<!ENTITY matchAll.label "Адпавядаюць усім з наступных">
+<!ENTITY matchAll.accesskey "у">
+<!ENTITY matchAny.label "Адпавядаюць якому-небудзь з наступных">
+<!ENTITY matchAny.accesskey "я">
+<!ENTITY matchAllMsgs.label "Адпавядаюць усім лістам">
+<!ENTITY matchAllMsgs.accesskey "А">
+<!ENTITY searchTermListAttributesFlexValue "6">
+<!ENTITY searchTermListOperatorsFlexValue "6">
+<!ENTITY searchTermListValueFlexValue "6">
+<!ENTITY searchTermListButtonsFlexValue "3">

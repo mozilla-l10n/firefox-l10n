@@ -1,0 +1,11 @@
+<!ENTITY windowTitle.label "Пытанне аб HTML пошце">
+<!ENTITY recipient.label "Асобныя атрымальнікі не пералічаны як здольныя атрымліваць HTML э-пошту.">
+<!ENTITY question.label "Вы жадаеце ператварыць ліст у просты тэкст ці даслаць яго як HTML усё роўна?">
+<!ENTITY plainTextAndHtml.label "Даслаць просты тэкст і HTML">
+<!ENTITY plainTextAndHtml.accesskey "і">
+<!ENTITY plainTextOnly.label "Даслаць толькі просты тэкст">
+<!ENTITY plainTextOnly.accesskey "т">
+<!ENTITY htmlOnly.label "Даслаць толькі HTML">
+<!ENTITY htmlOnly.accesskey "H">
+<!ENTITY send.label "Даслаць">
+<!ENTITY send.accesskey "Д">

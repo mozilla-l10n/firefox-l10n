@@ -1,0 +1,25 @@
+<!ENTITY tabHeader.label "Азіранне з устаўкамі">
+<!ENTITY tabDisplay.label "Адлюстраванне уставак">
+<!ENTITY autoHide.label "Хаваць паліцу ўставак, калі адчынена толькі адна ўстаўка">
+<!ENTITY autoHide.accesskey "х">
+<!ENTITY background.label "Пераключацца ў новыя ўстаўкі, адчыненыя са спасылак">
+<!ENTITY background.accesskey "П">
+<!ENTITY loadGroup.label "Калі адчыняецца група закладак">
+<!ENTITY loadGroupAppend.label "Дадаць устаўкі">
+<!ENTITY loadGroupAppend.accesskey "Д">
+<!ENTITY loadGroupReplace.label "Замяніць існыя ўстаўкі">
+<!ENTITY loadGroupReplace.accesskey "м">
+<!ENTITY openTabs.label "Адчыняць устаўкі замест вакон">
+<!ENTITY newWindow.label "Паводзіны пры адкрыцці спасылак">
+<!ENTITY newWindowDescription.label "Адкрыццё спасылак падразумявае адкрыццё новага акна ў">
+<!ENTITY external.label "Спасылкі з іншых прыстасаванняў">
+<!ENTITY externalDescription.label "Адкрываць спасылкі, перададзеныя з іншых прыстасаванняў,">
+<!ENTITY openCurrent.label "У гэтачасовых устаўцы/акне">
+<!ENTITY newWindowGroupCurrent.accesskey "г">
+<!ENTITY externalGroupCurrent.accesskey "э">
+<!ENTITY openTab.label "У новай устаўцы ў гэтачасовым акне">
+<!ENTITY newWindowGroupTab.accesskey "н">
+<!ENTITY externalGroupTab.accesskey "о">
+<!ENTITY openWindow.label "У новым акне">
+<!ENTITY newWindowGroupWindow.accesskey "а">
+<!ENTITY externalGroupWindow.accesskey "к">

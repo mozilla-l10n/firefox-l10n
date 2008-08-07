@@ -1,0 +1,13 @@
+<!ENTITY newPagesIn.label "Новыя старонкі павінны адчыняцца ў:">
+<!ENTITY inNewWindow.label "новым вакне">
+<!ENTITY inNewWindow.accesskey "в">
+<!ENTITY inNewTab.label "новай устаўцы">
+<!ENTITY inNewTab.accesskey "у">
+<!ENTITY warnCloseMultipleTabs.label "Папярэджваць пра зачыненне шматлікіх уставак">
+<!ENTITY warnCloseMultipleTabs.accesskey "ш">
+<!ENTITY warnOpenManyTabs.label "Папярэджваць мяне, калі адкрыццё шматлікіх уставак можа замарудзіць &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "а">
+<!ENTITY showTabBar.label "Заўсёды паказваць паліцу ўставак">
+<!ENTITY showTabBar.accesskey "ў">
+<!ENTITY switchToNewTabs.label "Калі я адкрываю спасылку ў новай устаўцы, пераключыцца ў яе адразу">
+<!ENTITY switchToNewTabs.accesskey "і">
