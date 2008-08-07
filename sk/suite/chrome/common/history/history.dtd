@@ -1,0 +1,35 @@
+<!-- extracted from ./history.xul -->
+
+<!ENTITY menuBar.tooltip            "Panel Ponuka">
+<!ENTITY fileMenu.label             "Súbor">
+<!ENTITY closeCmd.label             "Zavrieť">
+<!ENTITY editMenu.label             "Upraviť"> 
+<!ENTITY undoCmd.label              "Spať">
+<!ENTITY redoCmd.label              "Znovu">
+<!ENTITY cutCmd.label               "Vystrihnúť">
+<!ENTITY copyCmd.label              "Kopírovať">
+<!ENTITY pasteCmd.label             "Prilepiť">
+<!ENTITY deleteCmd.label            "Odstrániť">
+<!ENTITY deleteHostnameCmd.accesskey "S">
+<!ENTITY deleteDomainCmd.accesskey  "d">
+<!ENTITY selAllCmd.label            "Vybrať všetko">
+<!ENTITY findHisCmd.label           "Hľadať v histórii…">
+<!ENTITY findHisCmd.commandkey      "f">
+<!ENTITY findHisCmd.accesskey       "H">
+<!ENTITY groupBy.label              "Zoskupiť podľa">
+<!ENTITY groupBy.accesskey          "Z">
+<!ENTITY groupByDay.label           "Deň">
+<!ENTITY groupByDay.accesskey       "D">
+<!ENTITY groupBySite.label          "Stránka">
+<!ENTITY groupBySite.accesskey      "S">
+<!ENTITY groupByNone.label          "Žiadne">
+<!ENTITY groupByNone.accesskey      "i">
+<!ENTITY historyWindowTitle.label   "História">
+<!ENTITY menuitem.view.unsorted.label "Neusporiadené">
+<!ENTITY menuitem.view.unsorted.accesskey "u">
+<!ENTITY sortAscending.label         "Vzostupne">
+<!ENTITY sortAscending.accesskey     "V">
+<!ENTITY sortDescending.label        "Zostupne">
+<!ENTITY sortDescending.accesskey    "o">
+<!ENTITY menuitem.view.show_columns.label "Zobraziť stĺpce">
+<!ENTITY menuitem.view.show_columns.accesskey "s">

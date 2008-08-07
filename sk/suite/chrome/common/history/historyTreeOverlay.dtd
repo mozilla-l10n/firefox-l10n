@@ -1,0 +1,16 @@
+<!ENTITY tree.header.name.label               "Titulok">
+<!ENTITY tree.header.name.accesskey           "T">
+<!ENTITY tree.header.url.label                "Umiestnenie">
+<!ENTITY tree.header.url.accesskey            "U">
+<!ENTITY tree.header.date.label               "Naposledy navštívená">
+<!ENTITY tree.header.date.accesskey           "N">
+<!ENTITY tree.header.firstvisitdate.label     "Prvý krát navštívená">
+<!ENTITY tree.header.firstvisitdate.accesskey "P">
+<!ENTITY tree.header.referrer.label           "Odkazujúca stránka">
+<!ENTITY tree.header.referrer.accesskey       "O">
+<!ENTITY tree.header.hostname.label           "Server">
+<!ENTITY tree.header.hostname.accesskey       "S">
+<!ENTITY tree.header.visitcount.label         "Počet návštev">
+<!ENTITY tree.header.visitcount.accesskey     "v">
+<!ENTITY bookmarkLinksCmd.label               "Pridať tieto odkazy medzi záložky">
+<!ENTITY bookmarkLinksCmd.accesskey           "t">

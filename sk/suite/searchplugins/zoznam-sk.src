@@ -1,0 +1,23 @@
+# Made by Mozilla.sk (www.mozilla.sk)
+
+<search
+ name="Zoznam"
+ description="Zoznam.sk"
+ action="http://www.zoznam.sk/hladaj"
+ searchForm="http://www.zoznam.sk/"
+ method="GET"
+ queryEncoding="windows-1250"
+ queryCharset="windows-1250"
+>
+
+<input name="c" value="odkazy">
+<input name="s" user="">
+<input name="ref" value="mozilla-search">
+
+</search>
+
+<browser
+   update="https://addons.mozilla.org/searchplugins/updates/zoznam-sk.src" 
+   updateIcon="https://addons.mozilla.org/searchplugins/updates/zoznam-sk.png" 
+   updateCheckDays="3"
+>

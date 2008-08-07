@@ -1,0 +1,24 @@
+
+<!ENTITY  editType.label                        "Upraviť typ">
+<!ENTITY  newType.label                         "Nový typ">
+<!ENTITY  extension.label                       "Prípona:">
+<!ENTITY  extension.accesskey                   "P">
+<!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
+<!ENTITY  mimetype.label                        "MIME:">
+<!ENTITY  mimetype.accesskey                    "m">
+<!ENTITY  description.label                     "Popis:">
+<!ENTITY  description.accesskey                 "o">
+
+<!ENTITY  handling.label                        "Ak je zistený súbor tohto typu">
+<!ENTITY  useDefault.label                      "Otvoriť použitím predvolenej aplikácie">
+<!ENTITY  useDefault.accesskey                  "o">
+<!ENTITY  saveToDisk.label                      "Uložiť na disk">
+<!ENTITY  saveToDisk.accesskey                  "U">
+<!ENTITY  application.label                     "Otvoriť čím:">
+<!ENTITY  application.accesskey                 "t">
+
+<!ENTITY  browse.label                          "Vybrať…">
+<!ENTITY  browse.accesskey                      "V">
+
+<!ENTITY  askBeforeOpen.label                   "Vždy sa opýtať pred spracovaním tohto typu súboru">
+<!ENTITY  askBeforeOpen.accesskey               "s">

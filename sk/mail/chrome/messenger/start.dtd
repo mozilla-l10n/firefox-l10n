@@ -1,0 +1,32 @@
+<!ENTITY startpage.welcome "Víta vás &brandFullName;!">
+<!ENTITY startpage.intro "&brandFullName; je výkonný klient pre elektronickú poštu a diskusné skupiny.">
+
+<!ENTITY startpage.features "Vlastnosti">
+
+<!ENTITY startpage.junkControl "Adaptívna kontrola nevyžiadanej pošty">
+<!ENTITY startpage.rssReader "Prehliadač správ RSS">
+<!ENTITY startpage.globalInbox "Podpora globálnej schránky">
+<!ENTITY startpage.searchFolders "Priečinky hľadaných správ">
+<!ENTITY startpage.messageGroups "Zoskupovanie správ">
+<!ENTITY startpage.privacyProtect "Ochrana súkromia">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla-world.org/sk/products/thunderbird/junkmail">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla-world.org/sk/products/thunderbird/rss">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla-world.org/sk/products/thunderbird/global-inbox">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla-world.org/sk/products/thunderbird/search-folders">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla-world.org/sk/products/thunderbird/message-grouping">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla-world.org/sk/products/thunderbird/privacy-protection">
+
+<!ENTITY startpage.moreInfo "Ďalšie informácie">
+
+<!ENTITY startpage.help "slovenských stránkach Thunderbirdu">
+<!ENTITY startpage.helpInfo "Často kladené otázky (FAQ), tipy a triky nájdete na">
+<!ENTITY startpage.helpURL "http://www.mozilla-world.org/sk/products/thunderbird/support">
+
+<!ENTITY startpage.page "oficiálnych stránkach Thunderbirdu">
+<!ENTITY startpage.pageInfo "Informácie o programe nájdete na">
+<!ENTITY startpage.pageURL "http://www.mozilla-europe.org/sk/products/thunderbird/">
+
+<!ENTITY startpage.extra "">
+
+<!ENTITY startpage.poweredByGecko "Poháňané jadrom Gecko.">

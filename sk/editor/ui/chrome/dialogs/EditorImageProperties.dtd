@@ -1,0 +1,119 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+   
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Vlastnosti obrázka">
+
+<!ENTITY pixelsPopup.value "bodov">
+<!ENTITY percentPopup.value "percent">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Umiestnenie obrázka">
+<!ENTITY locationEditField.accessKey "U">
+<!ENTITY locationEditField.tooltip "Zadajte názov súboru alebo umiestnenie obrázka">
+<!ENTITY title.label "Pomocný názov:">
+<!ENTITY title.accessKey "P">
+<!ENTITY title.tooltip "HTML atribút 'title', ktorý sa zobrazí pri zastavení myši nad obrázkom">
+<!ENTITY altText.label "Alternatívny text:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Alternatívny text">
+<!ENTITY noAltText.label "Nepoužiť alternatívny text">
+<!ENTITY noAltText.accessKey "N">
+
+<!ENTITY previewBox.label "Ukážka obrázka">
+<!ENTITY MoreFewerButton.tooltip "Zobraziť viac alebo menej vlastností">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Skutočná veľkosť:">
+<!ENTITY actualSizeRadio.label "Skutočná veľkosť">
+<!ENTITY actualSizeRadio.accessKey "S">
+<!ENTITY actualSizeRadio.tooltip "Vrátiť na skutočnú veľkosť obrázka">
+<!ENTITY customSizeRadio.label "Vlastná veľkosť">
+<!ENTITY customSizeRadio.accessKey "a">
+<!ENTITY customSizeRadio.tooltip "Vlastná veľkosť">
+<!ENTITY heightEditField.label "Výška">
+<!ENTITY heightEditField.accessKey "V">
+<!ENTITY widthEditField.label "Šírka">
+<!ENTITY widthEditField.accessKey "r">
+<!ENTITY constrainCheckbox.label "Obmedziť">
+<!ENTITY constrainCheckbox.accessKey "O">
+<!ENTITY constrainCheckbox.tooltip "Obmedziť">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Mapa">
+<!ENTITY removeImageMapButton.label "Odstrániť mapu">
+<!ENTITY removeImageMapButton.accessKey "O">
+<!ENTITY editImageMapButton.label "Upraviť mapu…">
+<!ENTITY editImageMapButton.tooltip "Upraviť mapu">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Zarovnať text k obrázku">
+<!ENTITY bottomPopup.value "dole">
+<!ENTITY topPopup.value "hore">
+<!ENTITY centerPopup.value "v prostriedku">
+<!ENTITY wrapRightPopup.value "zalomiť doprava">
+<!ENTITY wrapLeftPopup.value "zalomiť doľava">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Rozostup">
+<!ENTITY spacingBox.tooltip "Rozostup">
+<!ENTITY leftRightEditField.label "Vľavo a vpravo">
+<!ENTITY leftRightEditField.accessKey "V">
+<!ENTITY topBottomEditField.label "Hore a dole">
+<!ENTITY topBottomEditField.accessKey "H">
+<!ENTITY borderEditField.label "Plný okraj">
+<!ENTITY borderEditField.accessKey "P">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Zobraziť rám okolo obrázka z odkazom">
+<!ENTITY showImageLinkBorder.accessKey "b">
+
+<!-- These controls may be added some day; currently not used -->
+<!ENTITY makePageBackgroundCheckbox.label "Na pozadie">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Na pozadie">
+<!ENTITY editImageButton.label "Upraviť obrázok">
+<!ENTITY editImageButton.tooltip "Upraviť obrázok">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Formulár">
+<!ENTITY imageLocationTab.label "Umiestnenie">
+<!ENTITY imageDimensionsTab.label "Rozmery">
+<!ENTITY imageAppearanceTab.label "Zobrazenie">
+<!ENTITY imageLinkTab.label "Odkaz">

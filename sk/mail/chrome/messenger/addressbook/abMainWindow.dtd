@@ -1,0 +1,215 @@
+<!ENTITY addressbookWindow.title                        "Adresár">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label                                 "Súbor">
+<!ENTITY fileMenu.accesskey                             "S">
+<!ENTITY newMenu.label                                  "Nový">
+<!ENTITY newMenu.accesskey                              "N">
+<!ENTITY newCard.label                                  "Karta Adresára…">
+<!ENTITY newCard.accesskey                              "K">
+<!ENTITY newCard.key                                    "N">
+<!ENTITY newListCmd.label                               "Rozosielací zoznam">
+<!ENTITY newListCmd.accesskey                           "R">
+<!ENTITY newAddressBookCmd.label                        "Adresár">
+<!ENTITY newAddressBookCmd.accesskey                    "A">
+<!ENTITY newLDAPDirectoryCmd.label                      "Priečinok LDAP…">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
+<!ENTITY newMessageCmd.label                            "Správa">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "S">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Použiť adresár systému Mac OS X">
+<!ENTITY osxAddressBook.accesskey                       "o">
+<!ENTITY closeCmd.label                                 "Zavrieť okno">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "Z">
+<!ENTITY printSetupCmd.label                            "Nastavenie tlače…">
+<!ENTITY printSetupCmd.accesskey                        "a">
+<!ENTITY printPreviewCardViewCmd.label                  "Ukážka pred tlačou karty">
+<!ENTITY printPreviewCardViewCmd.accesskey              "U">
+<!ENTITY printPreviewAddressBook.label                  "Ukážka pred tlačou adresára">
+<!ENTITY printPreviewAddressBook.accesskey              "e">
+<!ENTITY printCardViewCmd.label                         "Tlačiť kartu…">
+<!ENTITY printCardViewCmd.accesskey                     "T">
+<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printAddressBook.label                         "Tlačiť adresár…">
+<!ENTITY printAddressBook.accesskey                     "d">
+
+<!ENTITY quitApplicationCmdWin.label                    "Koniec">
+<!ENTITY quitApplicationCmdWin.accesskey                "K">
+<!ENTITY quitApplicationCmd.label                       "Koniec">
+<!ENTITY quitApplicationCmd.accesskey                   "K">
+<!ENTITY quitApplicationCmd.key                         "Q">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "Upraviť">
+<!ENTITY editMenu.accesskey                             "U">
+<!ENTITY undoCmd.label                                  "Späť">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "S">
+<!ENTITY redoCmd.label                                  "Znovu">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "Z">
+<!ENTITY cutCmd.label                                   "Vystrihnúť">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "V">
+<!ENTITY copyCmd.label                                  "Kopírovať">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "K">
+<!ENTITY pasteCmd.label                                 "Prilepiť">
+<!ENTITY pasteCmd.key                                   "V">
+<!ENTITY pasteCmd.accesskey                             "P">
+<!ENTITY deleteCmd.label                                "Odstrániť">
+<!ENTITY deleteCmd.key                                  "D">
+<!ENTITY deleteCmd.accesskey                            "O">
+<!ENTITY deleteAbCmd.label                              "Odstrániť adresár">
+<!ENTITY deleteCardCmd.label                            "Odstrániť kartu">
+<!ENTITY deleteCardsCmd2.label                          "Odstrániť karty">
+<!ENTITY deleteListCmd.label                            "Odstrániť zoznam">
+<!ENTITY deleteListsCmd.label                           "Odstrániť zoznamy">
+<!ENTITY deleteItemsCmd.label                           "Odstrániť položky">
+<!ENTITY selectAllCmd.label                             "Vybrať všetko">
+<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY selectAllCmd.accesskey                         "a">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Vymeniť meno a priezvisko">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI                                 "true">
+<!ENTITY propertiesCmd.label                            "Vlastnosti…">
+<!ENTITY propertiesCmd.accesskey                        "l">
+<!ENTITY propertiesCmd.key                              "i">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label                                 "Zobraziť">
+<!ENTITY viewMenu.accesskey                             "Z">
+<!ENTITY viewToolbarsMenu.label                         "Panely s nástrojmi">
+<!ENTITY viewToolbarsMenu.accesskey                     "P">
+<!ENTITY showAbToolbarCmd.label                         "Panel nástrojov Adresár">
+<!ENTITY showAbToolbarCmd.accesskey                     "A">
+<!ENTITY showTaskbarCmd.label                           "Stavový riadok">
+<!ENTITY showTaskbarCmd.accesskey                       "S">
+<!ENTITY customizeToolbar.label                         "Prispôsobiť…">
+<!ENTITY customizeToolbar.accesskey                     "P">
+<!ENTITY showCardPane.label                             "Panel súhrnu karty">
+<!ENTITY showCardPane.accesskey                         "s">
+<!ENTITY menu_ShowNameAs.label                          "Meno zobraziť ako">
+<!ENTITY menu_ShowNameAs.accesskey                      "M">
+<!ENTITY firstLastCmd.label                             "Meno priezvisko">
+<!ENTITY firstLastCmd.accesskey                         "M">
+<!ENTITY lastFirstCmd.label                             "Priezvisko meno">
+<!ENTITY lastFirstCmd.accesskey                         "P">
+<!ENTITY displayNameCmd.label                           "Zobrazované meno">
+<!ENTITY displayNameCmd.accesskey                       "Z">
+<!ENTITY sortMenu.label                                 "Usporiadať">
+<!ENTITY sortMenu.accesskey                             "U">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "Nástroje">
+<!ENTITY tasksMenu.accesskey                            "N">
+<!ENTITY messengerCmd.label                             "Pošta a diskusie">
+<!ENTITY messengerCmd.accesskey                         "P">
+<!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY searchAddressesCmd.label                       "Hľadať adresy…">
+<!ENTITY searchAddressesCmd.accesskey                   "H">
+<!ENTITY importCmd.label                                "Import…">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "Export…">
+<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY preferencesCmd.label                           "Možnosti…">
+<!ENTITY preferencesCmd.key                             "O">
+<!ENTITY preferencesCmd.accesskey                       "M">
+<!ENTITY preferencesCmdUnix.label                       "Možnosti">
+<!ENTITY preferencesCmdUnix.accesskey                   "M">
+
+<!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newcardButton.label                            "Nová karta">
+<!ENTITY newcardButton.accesskey                        "k">
+<!ENTITY newlistButton.label                            "Nový zoznam">
+<!ENTITY newlistButton.accesskey                        "z">
+<!ENTITY editButton.label                               "Vlastnosti">
+<!ENTITY editButton.accesskey                           "l">
+<!ENTITY newmsgButton.label                             "Nová správa">
+<!ENTITY newmsgButton.accesskey                         "N">
+<!ENTITY newIM.label                                    "Rýchla správa">
+<!ENTITY newIM.accesskey                                "R">
+<!ENTITY deleteButton.label                             "Odstrániť">
+<!ENTITY deleteButton.accesskey                         "d">
+<!ENTITY throbberItem.title                             "Indikátor činnosti">
+
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newcardButton.tooltip                          "Vytvoriť novú kartu">
+<!ENTITY newlistButton.tooltip                          "Vytvoriť nový zoznam">
+<!ENTITY editButton.tooltip                             "Upraviť vybranú kartu">
+<!ENTITY newmsgButton.tooltip                           "Odoslať správu">
+<!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať chatovať (Instant message - IM)">
+<!ENTITY deleteButton.tooltip                           "Odstrániť označenú kartu alebo adresár">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Adresáre">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "Meno alebo E-mail obsahuje:">
+<!ENTITY SearchNameOrEmail.accesskey                    "M">
+<!ENTITY advancedButton.tooltip                         "Pokročilé hľadanie adresy">
+<!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY searchItem.title                               "Rýchle vyhľadávanie">
+
+<!-- Results Pane -->
+<!ENTITY GeneratedName.label                            "Meno">
+<!ENTITY GeneratedName.accesskey                        "M">
+<!ENTITY PrimaryEmail.label                             "E-mailová adresa">
+<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY ScreenName.label                               "Účet pre IM">
+<!ENTITY ScreenName.accesskey                           "I">
+<!ENTITY Company.label                                  "Organizácia">
+<!ENTITY Company.accesskey                              "O">
+<!ENTITY NickName.label                                 "Prezývka">
+<!ENTITY NickName.accesskey                             "r">
+<!ENTITY SecondEmail.label                              "Ďalšia e-mailová adresa">
+<!ENTITY SecondEmail.accesskey                          "a">
+<!ENTITY Department.label                               "Oddelenie">
+<!ENTITY Department.accesskey                           "d">
+<!ENTITY JobTitle.label                                 "Titul">
+<!ENTITY JobTitle.accesskey                             "T">
+<!ENTITY CellularNumber.label                           "Mobil">
+<!ENTITY CellularNumber.accesskey                       "b">
+<!ENTITY PagerNumber.label                              "Pager">
+<!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY FaxNumber.label                                "Fax">
+<!ENTITY FaxNumber.accesskey                            "x">
+<!ENTITY HomePhone.label                                "Telefón domov">
+<!ENTITY HomePhone.accesskey                            "f">
+<!ENTITY WorkPhone.label                                "Telefón do zamestnania">
+<!ENTITY WorkPhone.accesskey                            "s">
+<!ENTITY sortAscending.label                            "Vzostupne">
+<!ENTITY sortAscending.accesskey                        "V">
+<!ENTITY sortDescending.label                           "Zostupne">
+<!ENTITY sortDescending.accesskey                       "Z">
+<!ENTITY _PhoneticName.label                            "Výslovnosť mena">
+<!ENTITY _PhoneticName.accesskey                        "n">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Kontakt">
+<!ENTITY home.heading                                   "Domov">
+<!ENTITY other.heading                                  "Iné">
+<!ENTITY phone.heading                                  "Telefón">
+<!ENTITY work.heading                                   "Zamestnanie">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Popis">
+<!ENTITY addresses.heading                              "Adresy">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Zobraziť mapu">
+<!ENTITY mapIt.tooltip                                  "Prevziať z internetu mapu a zobraziť na nej túto adresu">
+
+<!-- Status Bar -->
+<!ENTITY statusText.label                               "">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label                               "Okno">
+<!ENTITY minimizeWindow.label                           "Minimalizovať okno">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Všetko preniesť do popredia">
+<!ENTITY zoomWindow.label                               "Lupa">

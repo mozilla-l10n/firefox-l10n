@@ -1,0 +1,45 @@
+<!-- the following is for the task menu overlay -->
+
+<!ENTITY cookieMessageTitle.label "Povolenia pre cookies zmenené">
+<!ENTITY cookieDisplayCookiesCmd.label "Spravovať uložené cookies">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "S">
+<!ENTITY cookieAllowCookiesCmd.label "Povoliť cookies z tejto stránky">
+<!ENTITY cookieAllowCookiesCmd.accesskey "P">
+<!ENTITY cookieAllowCookiesMsg.label "Cookies z tejto stránky budú vždy povolené.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Povoliť cookies relácie z tejto stránky">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "r">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Táto stránka bude môcť ukladať cookies pre danú reláciu.">
+<!ENTITY cookieCookiesDefaultCmd.label "Použiť predvolené povolenie pre cookies">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "u">
+<!ENTITY cookieCookiesDefaultMsg.label "Cookies z tejto stránky budú akceptované alebo zamietnuté podľa predvolených nastavení.">
+<!ENTITY cookieBlockCookiesCmd.label "Blokovať cookies z tejto stránky">
+<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesMsg.label "Cookies z tejto stránky budú vždy zamietnuté.">
+
+<!ENTITY cookieImageMessageTitle.label "Povolenia pre obrázky zmenené">
+<!ENTITY cookieDisplayImagesCmd.label "Spravovať povolenia pre obrázky">
+<!ENTITY cookieDisplayImagesCmd.accesskey "S">
+<!ENTITY cookieAllowImagesCmd.label "Povoliť obrázky z tejto stránky">
+<!ENTITY cookieAllowImagesCmd.accesskey "P">
+<!ENTITY cookieAllowImagesMsg.label "Obrázky z tejto stránky budú vždy prevzaté.">
+<!ENTITY cookieImagesDefaultCmd.label "Použiť predvolené povolenia pre obrázky">
+<!ENTITY cookieImagesDefaultCmd.accesskey "u">
+<!ENTITY cookieImagesDefaultMsg.label "Obrázky z tejto stránky budú prevzaté podľa predvolených nastavení.">
+<!ENTITY cookieBlockImagesCmd.label "Blokovať obrázky z tejto stránky">
+<!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesMsg.label "Obrázky z tejto stránky nebudú nikdy prevzaté.">
+
+<!ENTITY cookieAllowPopupsCmd.label                  "Povoliť vyskakovacie okná pre túto stránku">
+<!ENTITY cookieAllowPopupsCmd.accesskey              "P">
+<!ENTITY cookieManagePopups.label                    "Spravovať vyskakovacie okná">
+<!ENTITY cookieManagePopups.accesskey                "S">
+
+<!ENTITY cookieTutorialCmd.label "O súkromí">
+<!ENTITY cookieTutorialCmd.accesskey "k">
+
+<!ENTITY cookieCookieManager.label "Správca cookies">
+<!ENTITY cookieCookieManager.accesskey "c">
+<!ENTITY cookieImageManager.label "Správca obrázkov">
+<!ENTITY cookieImageManager.accesskey "b">
+<!ENTITY cookiePopupManager.label "Správca vyskakovacích okien">
+<!ENTITY cookiePopupManager.accesskey "k">

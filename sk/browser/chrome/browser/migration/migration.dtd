@@ -1,0 +1,50 @@
+
+<!ENTITY migrationWizard.title "Sprievodca importom">
+
+<!ENTITY importFrom.label "Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z:">
+<!ENTITY importFromUnix.label "Importovať nastavenia, záložky, históriu, heslá a ostatné údaje z:">
+<!ENTITY importFromBookmarks.label "Importovať záložky z:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird alebo Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Nič neimportovať">
+<!ENTITY importFromNothing.accesskey "N">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 alebo Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "t">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "f">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label       "Zo súboru HTML">
+<!ENTITY importFromHTMLFile.accesskey   "s">
+
+<!ENTITY noMigrationSources.label       "Nebol nájdený žiadny program, ktorý by obsahoval záložky, históriu alebo uložené heslá.">
+
+<!ENTITY importSource.title             "Import nastavení a údajov">
+<!ENTITY importItems.title              "Položky na import">
+<!ENTITY importItems.label              "Vyberte, ktoré položky chcete importovať:">
+
+<!ENTITY migrating.title                "Importuje sa…">
+<!ENTITY migrating.label                "Práve sa importujú tieto položky…">
+
+<!ENTITY selectProfile.title            "Výber profilu">
+<!ENTITY selectProfile.label            "Importovať možno tieto profily:">
+
+<!ENTITY done.title                     "Import dokončený">
+<!ENTITY done.label                     "Úspešne boli importované tieto položky:">

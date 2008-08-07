@@ -1,0 +1,31 @@
+<!ENTITY downloadactionsWindow.title          "Akcie preberania">
+<!ENTITY window.width                         "480">
+<!ENTITY window.height                        "310">
+
+<!ENTITY fileTypesDescription.label           "Automaticky vykonať priradenú akciu ku každému z nasledujúcich typov súborov:">
+
+<!ENTITY fileHandlerColumn.label              "Akcia">
+<!ENTITY fileHandlerColumn.accesskey          "A">
+<!ENTITY fileTypeColumn.label                 "Typ súboru">
+<!ENTITY fileTypeColumn.accesskey             "T">
+<!ENTITY fileMIMETypeColumn.label             "Typ MIME">
+<!ENTITY fileMIMETypeColumn.accesskey         "M">
+<!ENTITY fileExtensionColumn.label            "Prípona">
+<!ENTITY fileExtensionColumn.accesskey        "P">
+
+<!ENTITY remove.label                         "Odstrániť akciu">
+<!ENTITY remove.accesskey                     "O">
+<!ENTITY edit.label                           "Zmeniť akciu…">
+<!ENTITY edit.accesskey                       "a">
+
+<!ENTITY windowClose.key                      "w">
+<!ENTITY focusSearch1.key                     "f">
+<!ENTITY focusSearch2.key                     "k">
+
+<!ENTITY filter.label                         "Hľadať:">
+<!ENTITY filter.accesskey                     "H">
+<!ENTITY clear.label                          "Vymazať">
+<!ENTITY clear.accesskey                      "V">
+
+<!ENTITY button.close.label                   "Zavrieť">
+<!ENTITY button.close.accesskey               "Z">

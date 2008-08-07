@@ -1,0 +1,15 @@
+<!ENTITY  pref.history.title                "História">
+
+<!ENTITY  pref.history.caption              "História prehliadania">
+<!ENTITY  historyPages.label                "História je zoznam v minulosti navštívených stránok.">
+<!ENTITY  pageHis.label                     "Pamätať si stránky navštívené počas posledných">
+<!ENTITY  pageHis.accesskey                 "a">
+<!ENTITY  days.label                        "dní">
+<!ENTITY  clearHistory.label                "Vymazať históriu">
+<!ENTITY  clearHistory.accesskey            "V">
+
+<!ENTITY  locationBarHistory.caption        "História panela s adresou">
+<!ENTITY  clearLocationBar.label            "Vymazať zoznam stránok uložený v paneli s adresou">
+<!ENTITY  clearLocationBarButton.label      "Vymazať panel s adresou">
+<!ENTITY  clearLocationBarButton.accesskey  "m">
+  

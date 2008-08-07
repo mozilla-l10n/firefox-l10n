@@ -1,0 +1,6 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Nastavenie pohľadu">
+<!ENTITY mailViewHeading.label "Názov pohľadu:">
+<!ENTITY mailViewHeading.accesskey "N">
+<!ENTITY searchTermCaption.label "Ak je vybraný tento pohľad, zobraziť iba správy, ktoré:">

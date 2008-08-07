@@ -1,0 +1,30 @@
+<!-- LOCALIZATION NOTE : FILE "Windows integration" preferences -->
+
+<!ENTITY pref.winHooks.title  "Systém">
+
+<!-- These entities are used on the "File Types" section of the dialog. -->
+<!ENTITY files.label          "Windows použije &brandShortName; na otvorenie týchto typov súborov:">
+<!ENTITY html.label           "Dokumenty HTML">
+<!ENTITY jpeg.label           "Obrázky JPEG">
+<!ENTITY gif.label            "Obrázky GIF">
+<!ENTITY png.label            "Obrázky PNG">
+<!ENTITY xbm.label            "Obrázky XBM">
+<!ENTITY bmp.label            "Obrázky BMP">
+<!ENTITY ico.label            "Obrázky ICO">
+<!ENTITY xml.label            "Dokumenty XML">
+<!ENTITY xhtml.label          "Dokumenty XHTML">
+<!ENTITY xul.label            "Dokumenty XUL">
+
+<!-- These entities are used on the "Protocols" section of the dialog. -->
+<!ENTITY protocols.label      "Windows by mal použiť &brandShortName; na spracovanie týchto protokolov:">
+<!ENTITY http.label           "http: (Hypertext Transfer Protocol)">
+<!ENTITY https.label          "https: (Zabezpečené HTTP)">
+<!ENTITY ftp.label            "ftp: (File Transfer Protocol)">
+<!--LOCALIZATION NOTE (chrome.label): Don't translate 'chrome' -->
+<!ENTITY chrome.label         "chrome: (protokol Chrome)">
+<!ENTITY gopher.label         "gopher: (protokol Gopher)">
+
+<!-- This entity is for the "show this dialog" checkbox. -->
+<!ENTITY showDialog.label     "Upozorniť ma, ak iné aplikácie zmenia tieto nastavenia">
+<!ENTITY showDialog.accesskey "U">
+

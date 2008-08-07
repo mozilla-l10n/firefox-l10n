@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title       "Nastavenie režimu offline">
+
+<!ENTITY textStartUp               "Pri štarte:">
+<!ENTITY radioRememberPrevState.label "Pamätať si predchádzajúci stav online/offline">
+<!ENTITY radioRememberPrevState.accesskey "P">
+<!ENTITY radioAskMe.label "Opýtať sa na stav online/offline">
+<!ENTITY radioAskMe.accesskey "O">
+<!ENTITY radioAlwaysOnline.label "Vždy štartovať do režimu online">
+<!ENTITY radioAlwaysOnline.accesskey "V">
+
+<!ENTITY textGoingOnline "Odoslať neodoslanú poštu pri prechode do režimu online?">
+<!ENTITY radioAutoSend.label "Áno, odoslať">
+<!ENTITY radioAutoSend.accesskey "d">
+<!ENTITY radioNotSend.label "Nie, neodoslať">
+<!ENTITY radioNotSend.accesskey "n">
+<!ENTITY radioAskUnsent.label "Vždy sa opýtať">
+<!ENTITY radioAskUnsent.accesskey "a">
+<!ENTITY textGoingOffline "Pri prechode do režimu offline prevziať správy na použitie v tomto režime?">
+<!ENTITY radioAutoDownload.label "Áno, prevziať">
+<!ENTITY radioAutoDownload.accesskey "z">
+<!ENTITY radioNotDownload.label "Nie, nepreberať">
+<!ENTITY radioNotDownload.accesskey "e">
+<!ENTITY radioAskDownload.label "Vždy sa opýtať">
+<!ENTITY radioAskDownload.accesskey "t">

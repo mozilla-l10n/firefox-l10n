@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label             "Nastavenie systému">
+<!ENTITY alwaysCheckDefault.label         "Pri štarte kontrolovať, či je &brandShortName; predvoleným poštovým klientom">
+<!ENTITY alwaysCheckDefault.accesskey     "k">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height        "3em">
+<!ENTITY checkNow.label                   "Skontrolovať">
+<!ENTITY checkNow.accesskey               "t">
+
+<!ENTITY messengerStartPage.label         "Úvodná stránka &brandShortName;u">
+<!ENTITY enableStartPage.label            "Pri štarte &brandShortName;u zobraziť stránku v oblasti správy">
+<!ENTITY enableStartPage.accesskey        "z">
+<!ENTITY location.label                   "Adresa:">
+<!ENTITY location1.accesskey              "A">
+<!ENTITY useDefault.label                 "Obnoviť predvolenú">
+<!ENTITY useDefault.accesskey             "r">
+
+<!ENTITY bounceSystemDockIcon.label       "Animovať ikonu v doku">
+<!ENTITY bounceSystemDockIcon.accesskey   "m">
+
+<!ENTITY newMessagesArrive.label          "Keď príde nová správa:">
+<!ENTITY playSound.label                  "Prehrať zvuk">
+<!ENTITY playSound1.accesskey             "h">
+<!ENTITY showAnimatedAlert.label          "Zobraziť upozornenie">
+<!ENTITY showAnimatedAlert.accesskey      "b">
+<!ENTITY customizeMailAlert.label         "Prispôsobiť…">
+<!ENTITY customizeMailAlert.accesskey     "o">
+
+<!ENTITY soundNotification1.caption       "Zvuk">
+<!ENTITY play.label                       "Ukážka">
+<!ENTITY play.accesskey                   "U">
+<!ENTITY systemsound.label                "Predvolený systémový zvuk pre novú správu">
+<!ENTITY systemsoundMac.label             "Systémové zvukové upozornenie">
+<!ENTITY systemsoundMac.accesskey         "S">
+<!ENTITY systemsound.accesskey            "S">
+<!ENTITY customsound.label                "Použiť nasledovný zvukový súbor">
+<!ENTITY customsound.accesskey            "n">
+<!ENTITY browse.label                     "Prehľadávať…">
+<!ENTITY browse.accesskey                 "P">

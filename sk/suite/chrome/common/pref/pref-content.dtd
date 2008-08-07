@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
+
+<!ENTITY pref.content.title                     "Obsah">
+<!ENTITY pref.content.description               "Tieto nastavenia ovplyvňujú zobrazenie webových stránok a obsahu správ v programe &brandShortName;.">
+<!ENTITY siteIcons.label                        "Ikony webových stránok">
+<!ENTITY useSiteIcons.label                     "Zobrazovať ikony webových stránok">
+<!ENTITY useSiteIcons.accesskey                 "Z">
+<!ENTITY useFavIcons.label                      "Agresívne hľadať ikony webových stránok, ak nie sú definované">
+<!ENTITY useFavIcons.accesskey                  "A">
+<!ENTITY tbIconsDescription.label               "Zobrazovanie ikon webových stránok v ponuke záložiek a v paneli nástrojov:">
+<!ENTITY tbIconsNever.label                     "Nikdy nezobrazovať ikony v záložkach">
+<!ENTITY tbIconsNever.accesskey                 "N">
+<!ENTITY tbIconsCache.label                     "Len ak bola stránka nedávno načítaná">
+<!ENTITY tbIconsCache.accesskey                 "L">
+<!ENTITY tbIconsAlways.label                    "Vždy načítať ikony webových stránok v záložkách">
+<!ENTITY tbIconsAlways.accesskey                "V">
+<!ENTITY enableAutomaticImageResizing.label     "Meniť veľkosť veľkých obrázkov na veľkosť okna">
+<!ENTITY enableAutomaticImageResizing.accesskey "M">
+<!ENTITY useSmoothScroll.label                  "Použiť plynulé posúvanie">
+<!ENTITY useSmoothScroll.accesskey              "o">
+<!ENTITY textZoomOnly.label                     "Meniť veľkosť textu namiesto celého obsahu stránok">
+<!ENTITY textZoomOnly.accesskey                 "e">

@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Prevzatie certifikátov">
+<!ENTITY info.message "Vyhľadávajú sa certifikáty adresátov. Môže to trvať niekoľko minút.">
+<!ENTITY stop.label "Zastaviť vyhľadávanie">

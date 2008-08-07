@@ -1,0 +1,148 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+  
+<!ENTITY Contact.tab                     "Kontakt">
+<!ENTITY Contact.accesskey               "K">
+<!ENTITY Name.box                        "Meno">
+
+<!-- LOCALIZATION NOTE: 
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
+
+<!ENTITY NameField1.label               "Meno:">
+<!ENTITY NameField1.accesskey           "M">
+<!ENTITY NameField2.label               "Priezvisko:">
+<!ENTITY NameField2.accesskey           "v">
+<!ENTITY PhoneticField1.label           "Výslovnosť:">
+<!ENTITY PhoneticField2.label           "Výslovnosť:">
+<!ENTITY DisplayName.label              "Zobrazované meno:">
+<!ENTITY DisplayName.accesskey          "Z">
+<!ENTITY NickName.label                 "Prezývka:">
+<!ENTITY NickName.accesskey             "r">
+
+<!ENTITY Internet.box                   "Internet">
+<!ENTITY PrimaryEmail.label             "E-mailová adresa:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Ďalšia e-mailová adresa:">
+<!ENTITY SecondEmail.accesskey          "a">
+<!ENTITY PreferMailFormat.label         "Preferuje príjem správ vo formáte:">
+<!ENTITY PreferMailFormat.accesskey     "u">
+<!ENTITY PlainText.label                "Len text">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Neznámy">
+<!ENTITY ScreenName.label               "Účet pre IM:">
+<!ENTITY ScreenName.accesskey           "I">
+
+<!ENTITY allowRemoteContent.label       "V správach vo formáte HTML povoliť vzdialené obrázky">
+<!ENTITY allowRemoteContent.accesskey   "H">
+
+<!ENTITY Phones.box                     "Telefóny">
+<!ENTITY WorkPhone.label                "Zamestnanie:">
+<!ENTITY WorkPhone.accesskey            "s">
+<!ENTITY HomePhone.label                "Domov:">
+<!ENTITY HomePhone.accesskey            "D">
+<!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY CellularNumber.label           "Mobil:">
+<!ENTITY CellularNumber.accesskey       "b">
+
+<!ENTITY Address.tab                    "Adresa">
+<!ENTITY Address.accesskey              "A">
+<!ENTITY Home.box                       "Domov">
+<!ENTITY HomeAddress.label              "Adresa:">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Mesto:">
+<!ENTITY HomeCity.accesskey             "M">
+<!ENTITY HomeState.label                "Štát:">
+<!ENTITY HomeState.accesskey            "t">
+<!ENTITY HomeZipCode.label              "PSČ:">
+<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeCountry.label              "Krajina:">
+<!ENTITY HomeCountry.accesskey          "K">
+<!ENTITY HomeWebPage.label              "Webová stránka:">
+<!ENTITY HomeWebPage.accesskey          "W">
+<!ENTITY Work.box                       "Zamestnanie">
+<!ENTITY JobTitle.label                 "Titul:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "Oddelenie:">
+<!ENTITY Department.accesskey           "l">
+<!ENTITY Company.label                  "Organizácia:">
+<!ENTITY Company.accesskey              "O">
+<!ENTITY WorkAddress.label              "Adresa:">
+<!ENTITY WorkAddress.accesskey          "r">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Mesto:">
+<!ENTITY WorkCity.accesskey             "e">
+<!ENTITY WorkState.label                "Štát:">
+<!ENTITY WorkState.accesskey            "á">
+<!ENTITY WorkZipCode.label              "PSČ:">
+<!ENTITY WorkZipCode.accesskey          "S">
+<!ENTITY WorkCountry.label              "Krajina:">
+<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkWebPage.label              "Webová stránka:">
+<!ENTITY WorkWebPage.accesskey          "b">
+
+<!ENTITY Other.tab                      "Ostatné">
+<!ENTITY Other.accesskey                "O">
+<!ENTITY Custom1.label                  "Ostatné 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Ostatné 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Ostatné 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Ostatné 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.box                      "Poznámky">
+<!ENTITY Notes.accesskey                "z">

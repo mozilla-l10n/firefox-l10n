@@ -1,0 +1,29 @@
+<!-- unix -->
+<!-- LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey --> 
+
+<!ENTITY closeCmd.label                 "Zavrieť">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "Z">
+
+<!ENTITY quitApplicationCmd.label       "Koniec"> 
+<!ENTITY quitApplicationCmd.key         "q"> 
+<!ENTITY quitApplicationCmd.accesskey   "K">
+
+<!ENTITY redoCmd.label                  "Znovu">  
+<!ENTITY redoCmd.key                    "Y">  
+<!ENTITY redoCmd.accesskey              "Z">
+
+<!ENTITY findTypeTextCmd.key            "/">
+<!ENTITY findTypeLinksCmd.key           "'">
+
+<!ENTITY accel.emacs_conflict           "accel,shift">
+
+<!-- Help viewer -->
+<!ENTITY openHelpCmd.label              "Obsah Pomocníka">
+<!ENTITY openHelpCmd.accesskey          "O">
+<!ENTITY openHelpCmd.key                "VK_F1">
+
+<!-- Key labels, for mousewheel prefs -->
+<!ENTITY ctrlKey.label                  "Ctrl">
+<!ENTITY altKey.label                   "Alt">
+<!ENTITY shiftKey.label                 "Shift">

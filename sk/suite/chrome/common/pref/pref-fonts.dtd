@@ -1,0 +1,80 @@
+<!-- extracted from content/pref-fonts.xul -->
+
+<!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
+<!ENTITY  pref.fonts.title                        "Písma">
+
+<!ENTITY  language.label                          "Písma pre:">
+<!ENTITY  language.accesskey                      "m">
+
+<!ENTITY  typefaces.label                         "Druh písma">
+<!ENTITY  sizes.label                             "Veľkosť (pixelov)">
+
+<!ENTITY  proportional.label                      "S premenlivou šírkou:">
+<!ENTITY  proportional.accesskey                  "S">
+
+<!ENTITY  serif.label                             "Pätkové (Serif):">
+<!ENTITY  serif.accesskey                         "t">
+<!ENTITY  sans-serif.label                        "Bezpätkové (Sans-serif):">
+<!ENTITY  sans-serif.accesskey                    "B">
+<!ENTITY  monospace.label                         "Pevná šírka:">
+<!ENTITY  monospace.accesskey                     "r">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY  fantasy.label                           "Ozdobné:">
+<!ENTITY  fantasy.accesskey                       "z">
+<!ENTITY  cursive.label                           "Kurzíva:">
+<!ENTITY  cursive.accesskey                       "K">
+
+<!ENTITY  fontsize.units                          "pixelov">
+
+<!ENTITY font.langGroup.latin1                    "Západné">
+<!ENTITY font.langGroup.latin2                    "Stredoeurópske">
+<!ENTITY font.langGroup.japanese                  "Japonské">
+<!ENTITY font.langGroup.trad-chinese              "Tradičné čínske (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese             "Zjednodušené čínske">
+<!ENTITY font.langGroup.trad-chinese-hk           "Tradičné čínske (Hong Kong)">
+<!ENTITY font.langGroup.korean                    "Kórejské">
+<!ENTITY font.langGroup.cyrillic                  "Azbuka">
+<!ENTITY font.langGroup.baltic                    "Pobaltské">
+<!ENTITY font.langGroup.el                        "Grécke">
+<!ENTITY font.langGroup.turkish                   "Turecké">
+<!ENTITY font.langGroup.unicode                   "Unicode">
+<!ENTITY font.langGroup.user-def                  "Vlastné">
+<!ENTITY font.langGroup.thai                      "Thajské">
+<!ENTITY font.langGroup.hebrew                    "Hebrejské">
+<!ENTITY font.langGroup.arabic                    "Arabské">
+<!ENTITY font.langGroup.devanagari                "Devanagari">
+<!ENTITY font.langGroup.tamil                     "Tamilské">
+<!ENTITY font.langGroup.armenian                  "Arménske">
+<!ENTITY font.langGroup.bengali                   "Bengálske">
+<!ENTITY font.langGroup.canadian                  "Jednotné kanadské">
+<!ENTITY font.langGroup.ethiopic                  "Etiópske">
+<!ENTITY font.langGroup.georgian                  "Georgiánske">
+<!ENTITY font.langGroup.gujarati                  "Gujarati">
+<!ENTITY font.langGroup.gurmukhi                  "Gurmukhi">
+<!ENTITY font.langGroup.khmer                     "Khmérske">
+<!ENTITY font.langGroup.malayalam                 "Malajské">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Minimálna veľkosť písma:">
+<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.none                             "Žiadne">
+
+<!-- default font type -->
+<!ENTITY useDefaultFontSerif.label                "Pätkové (serif)">
+<!ENTITY useDefaultFontSansSerif.label            "Bezpätkové (sans-serif)">
+
+<!ENTITY  newLanguages.label                      "Nové jazyky môžete pridať použitím panela Jazyky.">
+
+<!ENTITY  useDocumentFonts.label                  "Povoliť dokumentom používať iné písma">
+<!ENTITY  useDocumentFonts.accesskey              "a">
+
+<!-- leaving this stuff in for now -->
+
+<!ENTITY  header2                                 "Ak stránka definuje vlastné písma">
+<!ENTITY  useDefaultFont.label                    "Použiť predvolené písma, ignorovať písma definované stránkou">
+<!ENTITY  useDefaultFont.accesskey                "u">
+<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY  useDocFontNonDynamic.label              "Použiť písma definované stránkou">
+<!ENTITY  useDocFontNonDynamic.accesskey          "d">
+<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY  useDocFontDynamic.label                 "Použiť všetky písma definované stránkou">
+<!ENTITY  useDocFontDynamic.accesskey             "v">

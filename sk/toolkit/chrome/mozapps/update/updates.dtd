@@ -1,0 +1,79 @@
+<!ENTITY  updateWizard.title              "Aktualizácia softvéru">
+
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Zisťujú sa aktualizácie">
+<!ENTITY  checking.label                  "&brandShortName; kontroluje dostupnosť aktualizácií…">
+
+<!ENTITY  cancel.label                    "Zrušiť">
+<!ENTITY  cancel.accesskey                "Z">
+
+<!ENTITY  noupdatesfound.title            "Nenájdené žiadne aktualizácie">
+<!ENTITY  noupdatesfound.intro            "Neboli nájdené žiadne nové aktualizácie. &brandShortName; môže 
+                                           pravidelne zisťovať ich dostupnosť.">
+
+<!ENTITY  incompatibleChecking.label      "Kontroluje sa, či táto aktualizácia nespôsobí problémy s vašimi rozšíreniami/témami…">
+<!ENTITY  clickHere.label                 "Zobraziť viac informácií o tejto aktualizácii">
+
+<!ENTITY  incompatible.warning            "Táto aktualizácia programu spôsobí, že niektoré rozšírenia a témy
+                                           nebudú fungovať, ak ich neaktualizujete.">
+<!ENTITY  listIncompatible.label          "Zobraziť zoznam">
+<!ENTITY  listIncompatible.accesskey      "b">
+
+<!ENTITY  upgrade.evangelism              "Dôrazne odporúčame čo najskôr aktualizovať &brandShortName;.">
+
+<!ENTITY  license.instructions            "Ak súhlasíte s podmienkami tejto licenčnej zmluvy, kliknite na tlačidlo Súhlasím
+                                           a pokračujte v inštalácii aktualizácie.">
+
+<!ENTITY  license.titleText               "Softvérová licenčná zmluva">
+<!ENTITY  license.introText               "Licenčné podmienky na používanie tohto softvéru.">
+<!ENTITY  license.instructionText         "Prečítajte si nasledujúcu licenčnú zmluvu. Na zobrazenie zvyšku textu použite posúvač.">
+<!ENTITY  license.accept                  "SÚHLASÍM s licenčnou zmluvou">
+<!ENTITY  license.accept.accesskey        "S">
+<!ENTITY  license.decline                 "NESÚHLASÍM s licenčnou zmluvou">
+<!ENTITY  license.decline.accesskey       "N">
+
+<!ENTITY downloading.title                "Prevzatie aktualizácie">
+<!ENTITY downloading.intro                "Preberá sa aktualizácia…">
+<!ENTITY connecting.label                 "Pripája sa k aktualizačnému serveru…">
+<!ENTITY verificationFailedText.label     "&brandShortName; nedokázal overiť integritu  
+                                           prevzatej rozdielovej aktualizácie. Mali by ste prevziať
+                                           kompletný aktualizačný balík.">
+
+<!ENTITY details.link                     "Podrobnosti">
+<!ENTITY pause.label                      "Pozastaviť">
+<!ENTITY pause.accesskey                  "P">
+<!ENTITY close.label                      "Zavrieť">
+<!ENTITY close.accesskey                  "e">
+
+<!ENTITY error.label                      "Pri kontrole, preberaní alebo inštalácii aktualizácie došlo k chybe. &brandShortName;
+                                           sa nepodarilo aktualizovať, pretože: ">
+
+<!ENTITY errorManual.label                "&brandShortName; odporúčame aktualizovať ručne prevzatím najnovšej verzie 
+                                           z tejto stránky: ">
+                                           
+<!ENTITY errorpatching.title              "Aktualizácia neúspešná">
+<!ENTITY errorpatching.intro              "Použitie rozdielovej aktualizácie bolo neúspešné. 
+                                           &brandShortName; sa pokúsi prevziať kompletnú aktualizáciu.">
+                                           
+<!ENTITY finished.title                   "Aktualizácia dokončená">
+<!ENTITY finished.text                    "Aktualizácie boli úspešne prevzaté a overené. Aktualizácia bude dokončená po reštartovaní programu &brandShortName;.">
+                                           
+<!ENTITY finishedBackground.title         "Aktualizácie sú pripravené na inštaláciu">
+<!ENTITY finishedBackground.text          "&brandShortName; práve dokončil preberanie a overenie dôležitých aktualizácií. 
+                                           Ak sa chcete dozvedieť viac informácií, kliknite na zobrazený odkaz.">
+<!ENTITY  finishedBackground.name         "Aktualizácia:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Kliknutím na tlačidlo Reštartovať zatvoríte všetky okná aplikácie &brandShortName; a nainštalujete aktualizácie.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Kliknutím na tlačidlo Teraz nie zavriete toto dialógové okno a môžete pokračovať bez reštartovania. Aktualizácie sa
+                                           nainštalujú automaticky pri ďalšom spustení aplikácie &brandShortName;.">
+                                           
+<!ENTITY installed.title                  "Aktualizácia nainštalovaná">
+<!ENTITY installed.intro                  "Aktualizácia bola úspešne nainštalovaná.">
+<!ENTITY whatsnew.label                   "Prečítajte si, čo je nové…">
+
+<!ENTITY update.details.label             "Podrobnosti">
+<!ENTITY update.installedOn.label         "Nainštalovaná:">
+<!ENTITY update.status.label              "Stav:">

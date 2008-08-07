@@ -1,0 +1,21 @@
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Server odchádzajúcej pošty (SMTP)">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Pre odosielanú poštu (SMTP) stačí uviesť jeden server aj v prípade, že máte niekoľko e-mailových účtov. Zadajte názov servera, ktorý používate najčastejšie.">
+
+<!ENTITY smtpListAdd.label "Pridať…">
+<!ENTITY smtpListAdd.accesskey "r">
+<!ENTITY smtpListEdit.label "Upraviť…">
+<!ENTITY smtpListEdit.accesskey "U">
+<!ENTITY smtpListDelete.label "Odstrániť">
+<!ENTITY smtpListDelete.accesskey "d">
+<!ENTITY smtpListSetDefault.label "Nastaviť ako predvolený">
+<!ENTITY smtpListSetDefault.accesskey "a">
+
+<!ENTITY serverDescription.label "Popis: ">
+<!ENTITY serverName.label "Názov servera: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label "Používateľské meno: ">
+<!ENTITY useSecureConnection.label "Zabezpečené pripojenie: ">
+<!ENTITY useSecureAuthentication.label   "Bezpečná autentifikácia: ">

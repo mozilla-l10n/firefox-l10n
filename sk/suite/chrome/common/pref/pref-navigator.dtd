@@ -1,0 +1,47 @@
+<!ENTITY pref.navigator.title           "Prehliadač">
+
+<!ENTITY navRadio                       "Zobraziť">
+<!ENTITY navStartPageMenu.label         "pri spustení prehliadača">
+<!ENTITY newWinPageMenu.label           "v novom okne">
+<!ENTITY newTabPageMenu.label           "na novej karte">
+
+<!ENTITY blankPageRadio.label           "Prázdnu stránku">
+<!ENTITY blankPageRadio.accesskey       "r">
+<!ENTITY homePageRadio.label            "Domovskú stránku">
+<!ENTITY homePageRadio.accesskey        "D">
+<!ENTITY lastPageRadio.label            "Naposledy navštívenú stránku">
+<!ENTITY lastPageRadio.accesskey        "N">
+
+<!ENTITY header2.label                  "Domovská stránka">
+<!ENTITY homePageIntro.label            "Kliknutím na tlačidlo Domov prejdete na túto skupinu stránok:">
+<!ENTITY useCurrent.label               "Použiť aktuálnu stránku">
+<!ENTITY useCurrent.accesskey           "s">
+<!ENTITY useCurrentGroup.label          "Použiť aktuálnu skupinu">
+<!ENTITY useCurrentGroup.accesskey      "u">
+<!ENTITY browseFile.label               "Vybrať súbor…">
+<!ENTITY browseFile.accesskey           "V">
+<!ENTITY useDefault.label               "Obnoviť predvolené">
+<!ENTITY useDefault.accesskey           "b">
+
+<!ENTITY toolbarIntro.label             "Vyberte tlačidlá, ktoré budú zobrazené na paneloch nástrojov:">
+
+<!ENTITY navToolbarIntro.label          "Navigačný panel">
+<!ENTITY goButton.label                 "Prejsť">
+<!ENTITY goButton.accesskey             "e">
+<!ENTITY searchButton.label             "Hľadať">
+<!ENTITY searchButton.accesskey         "H">
+<!ENTITY printButton.label              "Tlačiť">
+<!ENTITY printButton.accesskey          "T">
+
+<!ENTITY persToolbarIntro.label         "Osobný panel">
+<!ENTITY homeButton.label               "Domov">
+<!ENTITY homeButton.accesskey           "o">
+<!ENTITY bookmarksButton.label          "Záložky">
+<!ENTITY bookmarksButton.accesskey      "Z">
+
+<!ENTITY defaultBrowserGroup.label      "Predvolený prehliadač">
+<!ENTITY defaultBrowserButton.label     "Nastaviť predvolený prehliadač">
+<!ENTITY defaultBrowserButton.accesskey "a">
+<!ENTITY alreadyDefaultText             "&brandShortName; už je nastavený ako predvolený prehliadač.">
+<!ENTITY defaultPendingText             "&brandShortName; bude po kliknutí na tlačidlo OK nastavený ako predvolený prehliadač.">
+<!ENTITY makeDefaultText                "Nastaviť &brandShortName; ako predvolený prehliadač.">

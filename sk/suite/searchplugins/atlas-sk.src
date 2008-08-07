@@ -1,0 +1,24 @@
+# Made by Mozilla.sk (www.mozilla.sk)
+# Atlas.sk Firefox searchbar plugin by help@atlas-as.sk
+
+<search
+   name="Atlas"
+   description="Atlas.sk"
+   method="GET"
+   action="http://www.atlas.sk/search.php"
+   searchForm="http://www.atlas.sk/"
+   queryEncoding="utf-8"
+   queryCharset="utf-8"
+>
+
+<input name="phrase" user>
+<input name="sourceid" value="mozilla-search">
+
+</search>
+
+<browser
+   update="http://www.mozilla.sk/wp-content/download/searchplugins/atlas-sk.src"
+   updateIcon="http://www.mozilla.sk/wp-content/download/searchplugins/atlas-sk.png"
+   updateCheckDays="3"
+>
+

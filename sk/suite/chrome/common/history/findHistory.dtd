@@ -1,0 +1,13 @@
+
+<!ENTITY search.name.label              "titulok">
+<!ENTITY search.url.label               "umiestnenie">
+<!ENTITY search.startswith.label        "začína s">
+<!ENTITY search.endswith.label          "končí s">
+<!ENTITY search.is.label                "je">
+<!ENTITY search.isnot.label             "nie je">
+<!ENTITY search.contains.label          "obsahuje">
+<!ENTITY search.doesntcontain.label     "neobsahuje">
+<!ENTITY search.for.label               "Hľadať navštívené dokumenty, ktorých">
+<!ENTITY findHistory.title              "Hľadať v Histórii">
+<!ENTITY findButton.label               "Hľadať">
+

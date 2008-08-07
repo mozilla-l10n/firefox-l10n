@@ -1,0 +1,88 @@
+<!-- Main menu --> 
+
+<!ENTITY prefs.label                  "Možnosti...">
+<!ENTITY quit.label                   "Koniec">
+<!ENTITY tabs.label                   "Karty">
+<!ENTITY newtab.label                 "Nová karta">
+
+<!-- Toolbar -->
+
+<!ENTITY backButton.label             "Naspäť">
+<!ENTITY backButton.tooltip           "Naspäť o jednu stránku">
+<!ENTITY forwardButton.label          "Dopredu">
+<!ENTITY forwardButton.tooltip        "Dopredu o jednu stránku">
+<!ENTITY reloadButton.label           "Obnoviť">
+<!ENTITY reloadButton.tooltip         "Obnoviť aktuálnu stránku">
+<!ENTITY stopButton.label             "Zastaviť">
+<!ENTITY stopButton.tooltip           "Zastaviť načítavanie tejto stránky">
+<!ENTITY searchButton.label           "Hľadať">
+<!ENTITY searchButton.tooltip         "Vyhľadá slovo napísané do ľavého poľa">
+
+<!ENTITY toggleSNavOn.label           "Navigácia pomocou šipiek">
+<!ENTITY toggleSNavOff.label          "Posun stránky pomocou šipiek">
+
+<!ENTITY gotoFullScreen.label         "Režim celej obrazovky">
+<!ENTITY toggleFullScreen.label       "Prepnúť na celú obrazovku">
+<!ENTITY toggleSSR.label              "Prepnúť do režimu jedného stĺpca">
+
+<!ENTITY openFrameInTab.label         "Zobraziť rámec na novej karte">
+
+<!ENTITY textSizePlus.label           "Veľkosť textu +">
+<!ENTITY textSizeMinus.label          "Veľkosť textu -">
+
+<!-- Context menu -->
+
+<!ENTITY homeCmd.label                "Domov">
+<!ENTITY backCmd.label                "Naspäť">
+<!ENTITY forwardCmd.label             "Dopredu">
+<!ENTITY stopCmd.label                "Zastaviť">
+<!ENTITY goCmd.label                  "Prejsť na">
+<!ENTITY panCmd.label                 "Posun výrezu">
+<!ENTITY reloadCmd.label              "Obnoviť">
+<!ENTITY linknewtab.label             "Otvoriť odkaz na novej karte">
+<!ENTITY bookmarks.label              "Záložky...">
+<!ENTITY bookmarkthispage.label       "Pridať stránku medzi záložky">
+<!ENTITY contextCopy.label            "Kopírovať" >
+<!ENTITY contextPaste.label           "Prilepiť" >
+
+<!-- Page modifiers --> 
+
+<!ENTITY togglet_google.label          "Zobraziť ako Google Mobile" >
+
+<!-- deprecated...--> 
+
+<!ENTITY decksb.label                  "Hľadať na del.icio.us" >
+<!ENTITY decksearch.label              "Hľadať na Google" >
+<!ENTITY deckdefault.label             "Prehliadať servery" >
+
+<!-- toolbar view options --> 
+
+<!ENTITY zoom.label                    "Zväčšenie" >
+<!ENTITY zoomText.label                "Text:" >
+<!ENTITY zoomUIText.label              "Používateľské rozhranie:" >
+<!ENTITY zoomTextPlus.label            "+" >
+<!ENTITY zoomTextMinus.label           " - " >
+
+<!-- toolbar view rss --> 
+<!ENTITY rssText.label                 "Značka:" >
+<!ENTITY rssBMtitle.label              "Spoločné záložky" >
+
+<!-- toolbar search -->
+<!ENTITY searchText.label              "Vyhľadať: " >
+<!ENTITY searchToolbar.label           "Hľadať" >
+
+<!-- toolbar find -->
+<!ENTITY findText.label              "Nájsť: " >
+<!ENTITY findToolbar.label           "Nájsť..." >
+<!ENTITY nextText.label              "Ďalej" >
+
+<!-- toolbar download -->
+<!ENTITY downloadText.label          "Sťahovanie " >
+<!ENTITY downloadCancelText.label    "Zrušiť" >
+
+<!-- toolbar pan -->
+<!ENTITY panText.label               "Posun výrezu povolený. Kliknite pre zakázanie." >
+
+<!-- toolbar homebar -->
+<!ENTITY homebarToolbar.label        "Prepnúť domovský panel" >
+

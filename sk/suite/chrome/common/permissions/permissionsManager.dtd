@@ -1,0 +1,14 @@
+<!ENTITY windowtitle.label              "Výnimky">
+<!ENTITY treehead.sitename.label        "Server">
+<!ENTITY treehead.status.label          "Stav">
+<!ENTITY remove.label                   "Odstrániť server">
+<!ENTITY remove.accesskey               "d">
+<!ENTITY removeall.label                "Odstrániť všetky servery">
+<!ENTITY removeall.accesskey            "e">
+<!ENTITY address.label                  "Adresa webovej stránky:">
+<!ENTITY block.label                    "Blokovať">
+<!ENTITY block.accesskey                "B">
+<!ENTITY session.label                  "Povoliť pre reláciu">
+<!ENTITY session.accesskey              "r">
+<!ENTITY allow.label                    "Povoliť">
+<!ENTITY allow.accesskey                "o">

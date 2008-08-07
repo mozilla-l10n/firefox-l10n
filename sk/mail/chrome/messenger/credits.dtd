@@ -1,0 +1,30 @@
+<!ENTITY credit.title     "O programe &brandFullName;">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.leads     "Hlavní inžinieri">
+<!ENTITY credit.core      "Hlavní vývojári">
+<!ENTITY credit.gecko     "Vykresľovacie jadro Gecko">
+<!ENTITY credit.thanks    "Špeciálne poďakovanie">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Vedúci prekladu do slovenčiny</h3><ul><li>Branislav Rozbora</li></ul><h3>Preklady</h3><ul><li>Vlado Valaštiak (wladow)</li></ul><h3>Korektúry</h3><ul><li>Peter Mikšík (SlovakSoft)</li></ul><h3>Slovník pre kontrolu pravopisu</h3><ul><li>Zdenko Podobný</li></ul>">
+
+<!ENTITY credit.visuals     "Koordinátor vizuálneho návrhu">
+<!ENTITY credit.theme       "Návrh témy">
+<!ENTITY credit.brand       "Značka">
+<!ENTITY credit.web         "Web dizajn">
+<!ENTITY credit.update      "Aktualizácie">
+<!ENTITY credit.qalead      "Vedúci zaistenia kvality">
+<!ENTITY credit.qa          "Zaistenie kvality">
+<!ENTITY credit.build       "Vydanie">
+<!ENTITY credit.infra       "Podpora infraštruktúry">
+<!ENTITY credit.support     "Podporné zdroje">
+<!ENTITY credit.manage      "Vedenie projektu">
+<!ENTITY credit.marketleads "Vedúci marketingu">
+<!ENTITY credit.market      "Marketing">
+<!ENTITY credit.creators    "Vytvorené">
+<!ENTITY credit.memory      "V spomienke na">
+<!ENTITY credit.poweredByGecko "Poháňané jadrom Gecko&trade;">

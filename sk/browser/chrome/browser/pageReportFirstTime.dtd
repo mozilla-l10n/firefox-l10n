@@ -1,0 +1,4 @@
+<!ENTITY startDescription.label "Server sa pokúsil otvoriť vyskakovacie okno bez vášho povolenia. &brandShortName; vyskakovacie okno automaticky zablokoval. Vždy, keď &brandShortName; zablokuje tieto vyskakovacie okná, v stavovom riadku uvidíte ikonu.">
+<!ENTITY endDescription.label "Kliknutím na túto ikonu zobrazíte zoznam serverov, ktorým &brandShortName; zablokoval možnosť otvárať vyskakovacie okná. Ak sú vyskakovacie okná potrebné pre správnu funkciu stránok, môžete vybraným serverom ich otváranie povoliť.">
+<!ENTITY caption.label "Informácie o blokovaní vyskakovacích okien">
+<!ENTITY done.label "Hotovo">

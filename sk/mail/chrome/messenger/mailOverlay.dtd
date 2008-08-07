@@ -1,0 +1,7 @@
+<!ENTITY newMessageCmd2.key              "N">
+<!ENTITY newMessageCmd.key               "M">
+<!ENTITY newMessageCmd.label             "Správa">
+<!ENTITY newMessageCmd.accesskey         "S">
+
+<!ENTITY newCardCmd.label                "Karta Adresára…">
+<!ENTITY newCardCmd.accesskey            "K">

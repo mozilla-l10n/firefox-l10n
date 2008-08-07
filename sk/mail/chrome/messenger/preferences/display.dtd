@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "Formátovanie">
+<!ENTITY itemTags.label                   "Popisy">
+<!ENTITY itemFonts.label                  "Písma">
+
+<!ENTITY textBegin.label                  "Vzhľad citovaného textu">
+<!ENTITY style.label                      "Štýl:">
+<!ENTITY style.accesskey                  "t">
+<!ENTITY regularStyle.label               "Normálne">
+<!ENTITY bold.label                       "Tučné">
+<!ENTITY italic.label                     "Kurzíva">
+<!ENTITY boldItalic.label                 "Tučná kurzíva">
+<!ENTITY size.label                       "Veľkosť:">
+<!ENTITY size.accesskey                   "o">
+<!ENTITY regularSize.label                "Normálne">
+<!ENTITY bigger.label                     "Väčšie">
+<!ENTITY smaller.label                    "Menšie">
+<!ENTITY color.label                      "Farba:">
+<!ENTITY color.accesskey                  "a">
+<!ENTITY displayWidth.label               "Textové správy">
+<!ENTITY plainText.label                  "Použiť nasledovný druh písma:">
+<!ENTITY displayText.label                "Pri zobrazovaní citácií v textových správach:">
+<!ENTITY viewingPlainText.label           "Pri zobrazovaní textových správ:">
+<!ENTITY fixedWidth.label                 "s pevnou šírkou">
+<!ENTITY fixedWidth.accesskey             "e">
+<!ENTITY variableWidth.label              "s premenlivou šírkou">
+<!ENTITY variableWidth.accesskey          "v">
+<!ENTITY readingMessagesHeader.label      "Pre prichádzajúce správy">
+<!ENTITY colors.label                     "Farby">
+<!ENTITY overrideColors.label             "Pri zobrazovaní správ použiť nasledovné farby:">
+<!ENTITY  textColor.label                 "Farba textu:">
+<!ENTITY  textColor.accesskey             "F">
+<!ENTITY  backgroundColor.label           "Farba pozadia:">
+<!ENTITY  backgroundColor.accesskey       "b">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "Zobraziť emotikony ako grafiku">
+<!ENTITY convertEmoticons.accesskey       "m">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label     "Farebné popisy je možné použiť na triedenie vašich správ podľa kategórie a priorít.">
+<!ENTITY addTagButton.label        "Pridať">
+<!ENTITY addTagButton.accesskey    "P">
+<!ENTITY editTagButton.label       "Upraviť">
+<!ENTITY editTagButton.accesskey   "U">
+<!ENTITY removeTagButton.label     "Odstrániť">
+<!ENTITY removeTagButton.accesskey "O">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label  "Nastavenie písma a kódovania v programe &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label     "Písma a kódovanie">
+<!ENTITY fontOptions.accesskey              "P">
+<!ENTITY fontOptions.label                  "Písma…">

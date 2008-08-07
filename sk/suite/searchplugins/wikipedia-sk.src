@@ -1,0 +1,42 @@
+# Mozilla search plugin for Slovak Wikipedia sk.wikipedia.org
+# by Carey Evans <carey.evans@gmail.com>.
+# http://carey.geek.nz/code/wikipedia-searchplugin/
+# This file is released into the public domain.
+# Thanks: Michael Franz.
+#
+# Version: 1.4.2 (2005-07-27)
+# Country: SK
+# Language: sk
+
+<search
+	version="7.1"
+	name="Wikipedia"
+	description="Wikipédia, otvorená encyklopédia"
+	sourceTextEncoding="0"
+	method="GET"
+	action="http://sk.wikipedia.org/wiki/%C5%A0peci%C3%A1lne:Search"
+	queryCharset="UTF-8"
+	searchForm="http://sk.wikipedia.org/"
+>
+
+<input name="search" user>
+<input name="fulltext" value="fulltext">
+<input name="sourceid" value="mozilla-search">
+
+<interpret
+	browserResultType="result"
+	charset="UTF-8"
+	language="sk"
+	resultListStart="<div id='results'></div>"
+	resultListEnd="<hr/>"
+	resultItemStart="<li style='padding-bottom: 1em'>"
+	resultItemEnd="</li>"
+>
+
+</search>
+
+<browser
+	update="https://addons.mozilla.org/searchplugins/updates/wikipedia-sk.src"
+	updateIcon="https://addons.mozilla.org/searchplugins/updates/wikipedia-sk.png"
+	updateCheckDays="3"
+>

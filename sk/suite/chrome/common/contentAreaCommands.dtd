@@ -1,0 +1,112 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "Zakázať vyskakovacie okná z tejto stránky">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label      "Povoliť vyskakovacie okná z tejto stránky">
+<!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY openLinkCmd.label            "Otvoriť odkaz v novom okne">
+<!ENTITY openLinkCmd.accesskey        "O">
+<!ENTITY openLinkCmdInTab.label       "Otvoriť odkaz na novej karte">
+<!ENTITY openLinkCmdInTab.accesskey   "k">
+<!ENTITY openLinkInWindowCmd.label    "Otvoriť">
+<!ENTITY openLinkInWindowCmd.accesskey "O">
+<!ENTITY openFrameCmd.label           "Otvoriť rámec v novom okne">
+<!ENTITY openFrameCmd.accesskey       "n">
+<!ENTITY openFrameCmdInTab.label      "Otvoriť rámec na novej karte">
+<!ENTITY openFrameCmdInTab.accesskey  "k">
+<!ENTITY showOnlyThisFrameCmd.label     "Zobraziť len tento rámec">
+<!ENTITY showOnlyThisFrameCmd.accesskey "l">
+<!ENTITY addToBookmarksCmd.label      "Pridať medzi záložky">
+<!ENTITY addToBookmarksCmd.accesskey  "P">
+<!ENTITY goBackCmd.label              "Naspäť">
+<!ENTITY goBackCmd.accesskey          "N">
+<!ENTITY goForwardCmd.label           "Dopredu">
+<!ENTITY goForwardCmd.accesskey       "D">
+<!ENTITY goUpCmd.label                "Hore">
+<!ENTITY goUpCmd.accesskey            "H">
+<!ENTITY reloadCmd.label              "Obnoviť">
+<!ENTITY reloadCmd.accesskey          "b">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "Zastaviť">
+<!ENTITY stopCmd.accesskey            "s">
+<!ENTITY reloadFrameCmd.label         "Obnoviť rámec">
+<!ENTITY reloadFrameCmd.accesskey     "b">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Zobraziť zdrojový kód výberu">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Zobraziť zdrojový kód MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "r">
+<!ENTITY viewPageSourceCmd.label      "Zobraziť zdrojový kód stránky">
+<!ENTITY viewPageSourceCmd.accesskey  "k">
+<!ENTITY viewFrameSourceCmd.label     "Zobraziť zdrojový kód rámca">
+<!ENTITY viewFrameSourceCmd.accesskey "r">
+<!ENTITY viewPageInfoCmd.label        "Zobraziť informácie o stránke">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
+<!ENTITY viewFrameInfoCmd.label       "Zobraziť informácie o rámci">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY fitImageCmd.label            "Roztiahnuť na veľkosť okna">
+<!ENTITY fitImageCmd.accesskey        "v">
+<!ENTITY reloadImageCmd.label         "Obnoviť obrázok">
+<!ENTITY reloadImageCmd.accesskey     "n">
+<!ENTITY viewImageCmd.label           "Zobraziť obrázok">
+<!ENTITY viewImageCmd.accesskey       "b">
+<!ENTITY viewBGImageCmd.label         "Zobraziť obrázok pozadia">
+<!ENTITY viewBGImageCmd.accesskey     "b">
+<!ENTITY setWallpaperCmd.label        "Nastaviť ako pozadie pracovnej plochy">
+<!ENTITY setWallpaperCmd.accesskey    "N">
+<!ENTITY bookmarkPageCmd.label        "Vytvoriť záložku pre túto stránku">
+<!ENTITY bookmarkPageCmd.accesskey    "z">
+<!ENTITY bookmarkLinkCmd.label        "Vytvoriť záložku pre tento odkaz">
+<!ENTITY bookmarkLinkCmd.accesskey    "i">
+<!ENTITY bookmarkFrameCmd.label       "Vytvoriť záložku pre tento rámec">
+<!ENTITY bookmarkFrameCmd.accesskey   "V">
+<!ENTITY savePageAsCmd.label          "Uložiť stránku ako…">
+<!ENTITY savePageCmd.label            "Uložiť stránku">
+<!ENTITY savePageCmd.accesskey        "r">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameAsCmd.label         "Uložiť rámec ako…">
+<!ENTITY saveFrameCmd.label           "Uložiť rámec">
+<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY saveLinkAsCmd.label          "Uložiť cieľ odkazu ako…">
+<!ENTITY saveLinkCmd.label            "Uložiť cieľ odkazu">
+<!ENTITY saveLinkCmd.accesskey        "d">
+<!ENTITY saveImageAsCmd.label         "Uložiť obrázok ako…">
+<!ENTITY saveImageCmd.label           "Uložiť obrázok">
+<!ENTITY saveImageCmd.accesskey       "l">
+<!ENTITY copyCmd.label                "Kopírovať">
+<!ENTITY copyCmd.accesskey            "K">
+<!ENTITY selectAllCmd.label           "Vybrať všetko">
+<!ENTITY selectAllCmd.accesskey       "a">
+<!ENTITY copyLinkCmd.label            "Kopírovať adresu odkazu">
+<!ENTITY copyLinkCmd.accesskey        "u">
+<!ENTITY copyImageCmd.label           "Kopírovať obrázok">
+<!ENTITY copyImageCmd.accesskey       "a">
+<!ENTITY metadataCmd.label            "Vlastnosti">
+<!ENTITY metadataCmd.accesskey        "V">
+<!ENTITY copyEmailCmd.label           "Kopírovať e-mailovú adresu">
+<!ENTITY copyEmailCmd.accesskey       "e">
+<!ENTITY pasteCmd.label               "Prilepiť">
+<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY cutCmd.label                 "Vystrihnúť">
+<!ENTITY cutCmd.accesskey             "V">
+<!ENTITY deleteCmd.label              "Odstrániť">
+<!ENTITY deleteCmd.accesskey          "d">
+<!ENTITY undoCmd.label                "Späť">
+<!ENTITY undoCmd.accesskey            "S">
+<!ENTITY redoCmd.label                "Dopredu">
+<!ENTITY redoCmd.accesskey            "D">
+<!ENTITY thisFrameMenu.label          "Tento rámec">
+<!ENTITY thisFrameMenu.accesskey      "T">
+<!ENTITY search.accesskey             "W">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Prepnúť smer textu stránky">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "m">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Prepnúť smer textu">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "s">
+<!ENTITY spellAddToDictionary.label     "Pridať do slovníka">
+<!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellIgnoreWord.label          "Ignorovať slovo">
+<!ENTITY spellIgnoreWord.accesskey      "v">
+<!ENTITY spellCheckEnable.label         "Skontrolovať pravopis">
+<!ENTITY spellCheckEnable.accesskey     "t">
+<!ENTITY spellNoSuggestions.label       "(Žiadne pravopisné návrhy)">
+<!ENTITY spellDictionaries.label        "Jazyky">
+<!ENTITY spellDictionaries.accesskey    "J">
+<!ENTITY spellAddDictionaries.label     "Prevziať ďalšie slovníky…">
+<!ENTITY spellAddDictionaries.accesskey "P">

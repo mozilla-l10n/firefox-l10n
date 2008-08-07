@@ -1,0 +1,54 @@
+<!ENTITY itemJunk.label                        "Nevyžiadaná pošta">
+<!ENTITY itemPhishing.label                    "Podvodné správy">
+<!ENTITY itemPasswords.label                   "Heslá">
+<!ENTITY itemAntiVirus.label                   "Antivírus">
+
+<!-- Junk Mail Controls --> 
+<!ENTITY junkMail.intro                        "Ak chcete zmeniť špecifické nastavenia nevyžiadanej pošty svojho účtu, prejdite do jeho nastavenia.">
+<!ENTITY manualMark.label                      "Keď manuálne označím správy ako nevyžiadané:">
+<!ENTITY manualMark.accesskey                  "K">
+<!ENTITY manualMarkModeMove.label              "Presunúť ich do priečinka &quot;SPAM&quot; v danom účte"> 
+<!ENTITY manualMarkModeMove.accesskey          "u">
+<!ENTITY manualMarkModeDelete.label            "Odstrániť ich">
+<!ENTITY manualMarkModeDelete.accesskey        "d">
+<!ENTITY markAsReadOnSpam.label                "Označiť správy identifikované ako nevyžiadané za prečítané">
+<!ENTITY markAsReadOnSpam.accesskey            "O">
+<!ENTITY enableJunkLogging.label               "Povoliť protokol z rozpoznávania nevyžiadanej pošty">
+<!ENTITY enableJunkLogging.accesskey           "P">
+<!ENTITY openJunkLog.label                     "Zobraziť protokol">
+<!ENTITY openJunkLog.accesskey                 "Z">
+<!ENTITY resetTrainingData.label               "Vymazať zozbierané údaje">
+<!ENTITY resetTrainingData.accesskey           "V">
+
+<!-- Phishing Detector --> 
+<!ENTITY phishingDetector1.intro               "&brandShortName; môže analyzovať prichádzajúcu poštu na prípadné podvodné správy tým, že odhalí techniku použitú na vaše oklamanie.">
+<!ENTITY enablePhishingDetector1.label         "Upozorniť v prípade, ak je čítaná správa podozrivá">
+<!ENTITY enablePhishingDetector1.accesskey     "U">
+<!ENTITY useDownloadedList.label               "Použiť prevzatý zoznam podozrivých podvodných e-mailov">
+<!ENTITY useDownloadedList.accesskey           "P">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro                  "&brandShortName; si môže zapamätať vaše prihlasovacie údaje pre jednotlivé účty, takže ich už nebudete musieť znovu zadávať.">
+<!ENTITY encryptEnabled.label                  "Použiť hlavné heslo a zašifrovať uložené heslá">
+<!ENTITY encryptEnabled.accesskey              "P">
+<!ENTITY masterPassword.intro                  "Ak je nastavené hlavné heslo, chráni všetky vaše ostatné heslá - jeho zadávanie je však vyžadované pri každej relácii.">
+<!ENTITY setMasterPassword.label               "Hlavné heslo">
+<!ENTITY setMasterPassword.accesskey           "H">
+<!ENTITY removeMasterPassword.label            "Odstrániť hlavné heslo…">
+<!ENTITY removeMasterPassword.accesskey        "O">
+<!ENTITY editPasswords.label                   "Upraviť uložené heslá">
+<!ENTITY editPasswords.accesskey               "U">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro                       "&brandShortName; môže antivírusovým programom umožniť analýzu správ prichádzajúcej pošty na výskyt vírusov ešte skôr, ako budú uložené do priečinkov pošty.">
+<!ENTITY antiVirus.label                       "Povoliť antivírusovým klientom prehliadať jednotlivé doručené správy">
+<!ENTITY antiVirus.accesskey                   "P">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "Antivírus">
+<!ENTITY paswords.label         "Heslá">
+<!ENTITY emailScams.label       "Podvodné správy">
+<!ENTITY junkMail.label         "Nevyžiadaná pošta">
+<!ENTITY itemIntrusions.label   "Obťažovanie">
+<!ENTITY itemIntrusionsAndPasswords.label  "Obťažovanie a heslá">
+<!ENTITY itemJunkMail.label     "Nevyžiadaná pošta">

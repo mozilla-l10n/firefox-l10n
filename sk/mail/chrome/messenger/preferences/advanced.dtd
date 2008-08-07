@@ -1,0 +1,83 @@
+<!ENTITY itemGeneral.label              "Všeobecné">
+<!ENTITY itemUpdate.label               "Aktualizácie">
+<!ENTITY itemNetworking.label           "Sieť a miesto na disku">
+<!ENTITY itemCertificates.label         "Certifikáty">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label   "Zobrazovať mená len pre adresy uložené v osobných adresároch">
+<!ENTITY showCondensedAddresses.accesskey "b">
+
+<!ENTITY autoMarkAsRead.label           "Automaticky označovať správy ako prečítané">
+<!ENTITY autoMarkAsRead.accesskey       "A">
+<!ENTITY markAsReadNoDelay.label        "Okamžite po zobrazení">
+<!ENTITY markAsReadNoDelay.accesskey    "m">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label          "Po">
+<!ENTITY markAsReadDelay.accesskey      "o">
+<!ENTITY secondsLabel.label             "sekundách od zobrazenia">
+<!ENTITY showFolderColumns.label        "Zobraziť rozbalené stĺpce v paneli priečinkov">
+<!ENTITY showFolderColumns.accesskey    "Z">
+<!ENTITY rememberLastMsg.label          "Pamätať si naposledy označenú správu">
+<!ENTITY rememberLastMsg.accesskey      "s">
+<!ENTITY openMsgIn.label                "Správy otvárať v:">
+<!ENTITY reuseExpRadio0.label           "V novom okne správy">
+<!ENTITY reuseExpRadio0.accesskey       "n">
+<!ENTITY reuseExpRadio1.label           "V existujúcom okne so správou">
+<!ENTITY reuseExpRadio1.accesskey       "x">
+<!ENTITY reuseExpRadio2.label           "Na novej karte správy">
+<!ENTITY reuseExpRadio2.accesskey       "k">
+<!ENTITY connectionTimeout.label        "Časový limit pripojenia:">
+<!ENTITY connectionTimeout.accesskey    "m">
+<!ENTITY connectionSeconds.label        "sekúnd">
+<!ENTITY configEditDesc.label           "Pokročilé nastavenia">
+<!ENTITY configEdit.label               "Editor nastavení…">
+<!ENTITY configEdit.accesskey           "E">
+<!ENTITY returnReceiptsInfo.label       "Zistiť ako &brandShortName; spracováva potvrdenia o prečítaní">
+<!ENTITY showReturnReceipts.label       "Potvrdenia o prečítaní…">
+<!ENTITY showReturnReceipts.accesskey   "P">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Pravidelne kontrolovať aktualizácie pre:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAddonsUpdate.label       "Nainštalované doplnky">
+<!ENTITY enableAddonsUpdate.accesskey   "N">
+<!ENTITY checkNow.label                 "Skontrolovať teraz…">
+<!ENTITY whenUpdatesFound.label         "Ak sú dostupné aktualizácie pre &brandShortName;:">
+<!ENTITY modeAskMe.label                "Vždy sa opýtať, čo urobiť">
+<!ENTITY modeAskMe.accesskey            "o">
+<!ENTITY modeAutomatic.label            "Automaticky aktualizácie prevziať a nainštalovať">
+<!ENTITY modeAutomatic.accesskey        "A">
+<!ENTITY modeAutoAddonWarn.label        "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
+<!ENTITY modeAutoAddonWarn.accesskey    "U">
+<!ENTITY showUpdates.label              "Zobraziť históriu aktualizácií">
+<!ENTITY showUpdates.accesskey          "h">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label          "Nastavenia…">
+<!ENTITY showConnections.accesskey      "N">
+<!ENTITY proxiesInfo.label              "Nastaviť spôsob, akým sa &brandShortName; pripája k sieti Internet">
+<!ENTITY connectionsInfo.caption        "Pripojenie">
+<!ENTITY offlineInfo.caption            "Režim offline">
+<!ENTITY offlineInfo.label              "Konfigurácia nastavení režimu offline">
+<!ENTITY showOffline.label              "Nastavenia…">
+<!ENTITY showOffline.accesskey          "a">
+
+<!ENTITY Diskspace                      "Miesto na disku">
+<!ENTITY offlineCompact.label           "Vykonať údržbu priečinkov, ak sa tým ušetrí viac ako">
+<!ENTITY offlineCompact.accesskey       "V">
+<!ENTITY kb.label                       "kB">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo2.label        "Správa certifikátov, zrušené certifikáty, overenie certifikátov a bezpečnostných zariadení.">
+<!ENTITY viewCertificates.label         "Certifikáty">
+<!ENTITY viewCertificates.accesskey     "C">
+<!ENTITY viewCRLs.label                 "Zrušené certifikáty">
+<!ENTITY viewCRLs.accesskey             "r">
+<!ENTITY validation.label               "Overenie">
+<!ENTITY validation.accesskey           "O">
+<!ENTITY viewSecurityDevices.label      "Zariadenia">
+<!ENTITY viewSecurityDevices.accesskey  "Z">

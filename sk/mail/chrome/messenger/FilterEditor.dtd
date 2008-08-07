@@ -1,0 +1,38 @@
+<!ENTITY window.title "Úprava filtra">
+
+<!ENTITY filterName.label "Názov filtra:">
+<!ENTITY filterName.accesskey "N">
+
+<!ENTITY junk.label "Spam">
+<!ENTITY notJunk.label "Nie Spam">
+
+<!ENTITY lowestPriorityCmd.label "Najnižšia">
+<!ENTITY lowPriorityCmd.label "Nízka">
+<!ENTITY normalPriorityCmd.label "Normálna">
+<!ENTITY highPriorityCmd.label "Vysoká">
+<!ENTITY highestPriorityCmd.label "Najvyššia">
+
+<!ENTITY conditionDesc.label "Pre prichádzajúce správy, ktoré:">
+<!ENTITY filterActionDesc.label "Vykonať tieto akcie:">
+<!ENTITY filterActionDesc.accesskey "V">
+
+<!ENTITY newFolderButton.label "Nový priečinok…">
+<!ENTITY newFolderButton.accesskey "N">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Presunúť do priečinka">
+<!ENTITY copyMessage.label "Kopírovať do priečinka">
+<!ENTITY forwardTo.label "Odoslať ďalej komu">
+<!ENTITY replyWithTemplate.label "Odpovedať pomocou šablóny">
+<!ENTITY markMessageRead.label "Označiť ako prečítané">
+<!ENTITY markMessageStarred.label "Pridať hviezdičku">
+<!ENTITY setPriority.label "Zmeniť prioritu na">
+<!ENTITY addTag.label "Priradiť správe popis">
+<!ENTITY setJunkScore.label "Nastaviť druh správy na">
+<!ENTITY deleteMessage.label "Odstrániť správu">
+<!ENTITY deleteFromPOP.label "Odstrániť zo servera POP">
+<!ENTITY fetchFromPOP.label "Prevziať telo správy zo servera POP">
+<!ENTITY ignoreThread.label "Ignorovať vlákno">
+<!ENTITY ignoreSubthread.label "Ignorovať podvlákno">
+<!ENTITY watchThread.label "Sledovať vlákno">
+<!ENTITY stopExecution.label "Zastaviť vykonávanie filtra">                           

@@ -1,0 +1,15 @@
+
+<!ENTITY search.name.label              "názov">
+<!ENTITY search.url.label               "umiestnenie">
+<!ENTITY search.shortcut.label          "kľúčové slovo">
+<!ENTITY search.description.label       "popis">
+<!ENTITY search.startswith.label        "začína s">
+<!ENTITY search.endswith.label          "končí s">
+<!ENTITY search.is.label                "je">
+<!ENTITY search.isnot.label             "nie je">
+<!ENTITY search.contains.label          "obsahuje">
+<!ENTITY search.doesntcontain.label     "neobsahuje">
+<!ENTITY save.query.label               "Uložiť požiadavku medzi záložky">
+<!ENTITY search.for.label               "Hľadať záložky, ktorých">
+<!ENTITY findBookmark.title             "Hľadať záložky">
+<!ENTITY findButton.label               "Hľadať">

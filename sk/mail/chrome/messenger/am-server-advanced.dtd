@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label                "Pokročilé nastavenia účtu">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label                  "Pokročilé nastavenie servera IMAP">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label               "Priečinok na serveri IMAP:">
+<!ENTITY serverDirectory.accesskey           "e">
+<!ENTITY usingSubscription.label             "Zobrazovať len prihlásené priečinky">
+<!ENTITY usingSubscription.accesskey         "b">
+<!ENTITY dualUseFolders.label                "Server podporuje priečinky obsahujúce správy a podpriečinky">
+<!ENTITY dualUseFolders.accesskey            "S">
+<!ENTITY useIdle.label                       "Použiť príkaz IDLE, ak ho server podporuje">
+<!ENTITY useIdle.accesskey                   "I">
+<!ENTITY maximumConnectionsNumber.label      "Maximálny počet spojení servera k vyrovnávacej pamäti">
+<!ENTITY maximumConnectionsNumber.accesskey  "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label                 "Tieto nastavenia definujú priestory názvov na vašom serveri IMAP">
+<!ENTITY personalNamespace.label             "Osobný:">
+<!ENTITY personalNamespace.accesskey         "n">
+<!ENTITY publicNamespace.label               "Verejný (zdieľaný):">
+<!ENTITY publicNamespace.accesskey           "V">
+<!ENTITY otherUsersNamespace.label           "Ostatní používatelia:">
+<!ENTITY otherUsersNamespace.accesskey       "a">
+<!ENTITY overrideNamespaces.label            "Povoliť serveru použiť vlastné priestory">
+<!ENTITY overrideNamespaces.accesskey        "u">
+<!ENTITY pop3Desc.label                      "Pri preberaní novej pošty z tohto servera POP použiť na ukladanie nasledujúci priečinok:">
+<!ENTITY folderStorage.label                 "Kam ukladať poštu">
+<!ENTITY globalInbox.label                   "Globálne doručená pošta">
+<!ENTITY globalInbox.accesskey               "G">
+<!ENTITY accountDirectory.label              "Doručená pošta pre tento účet">
+<!ENTITY accountDirectory.accesskey          "D">
+<!ENTITY deferToServer.label                 "Doručená pošta pre iný účet">
+<!ENTITY deferToServer.accesskey             "r">
+<!ENTITY deferGetNewMail.label               "Zahrnúť tento server pri preberaní novej pošty">
+<!ENTITY deferGetNewMail.accesskey           "Z">

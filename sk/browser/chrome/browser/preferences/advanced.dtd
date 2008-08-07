@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+     
+<!ENTITY generalTab.label                "Všeobecné">
+
+<!ENTITY accessibility.label             "Zjednodušenie ovládania">
+
+<!ENTITY useCursorNavigation.label       "Vždy používať kurzorové klávesy na navigáciu na stránkach">
+<!ENTITY useCursorNavigation.accesskey   "V">
+<!ENTITY searchStartTyping.label         "Povoliť vyhľadávanie textu počas písania">
+<!ENTITY searchStartTyping.accesskey     "h">
+<!ENTITY blockAutoRefresh.label          "Upozorniť, ak sa webová stránka pokúša o presmerovanie alebo obnovenie">
+<!ENTITY blockAutoRefresh.accesskey      "U">
+
+<!ENTITY browsing.label                  "Prehliadanie">
+
+<!ENTITY useAutoScroll.label             "Použiť automatický posun">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Použiť plynulý posun">
+<!ENTITY useSmoothScrolling.accesskey    "o">
+<!ENTITY checkSpelling.label             "Kontrolovať pravopis počas písania">
+<!ENTITY checkSpelling.accesskey         "K">
+
+<!ENTITY systemDefaults.label          "Nastavenie systému">
+<!ENTITY alwaysCheckDefault.label      "Pri štarte kontrolovať, či je &brandShortName; predvoleným prehliadačom">
+<!ENTITY alwaysCheckDefault.accesskey  "r">
+<!ENTITY checkNow.label                "Skontrolovať">
+<!ENTITY checkNow.accesskey            "t">
+
+<!ENTITY networkTab.label                "Sieť">
+
+<!ENTITY connection.label                "Pripojenie">
+
+<!ENTITY connectionDesc.label            "Nastaviť spôsob, akým sa &brandShortName; pripája k sieti Internet">
+<!ENTITY connectionSettings.label        "Nastavenia…">
+<!ENTITY connectionSettings.accesskey    "N">
+
+<!ENTITY offlineStorage.label            "Ukladací priestor režimu offline">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Vyhradiť">
+<!ENTITY useCacheBefore.accesskey        "h">
+<!ENTITY useCacheAfter.label             "MB diskového priestoru">
+<!ENTITY clearCacheNow.label             "Vymazať teraz">
+<!ENTITY clearCacheNow.accesskey         "e">
+
+<!ENTITY updateTab.label                 "Aktualizácie">
+
+<!ENTITY autoCheck.label                 "Automaticky kontrolovať aktualizácie pre:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "Nainštalované doplnky">
+<!ENTITY enableAddonsUpdate.accesskey    "N">
+<!ENTITY enableSearchUpdate.label        "Vyhľadávacie moduly">
+<!ENTITY enableSearchUpdate.accesskey    "V">
+<!ENTITY whenUpdatesFound.label          "Ak sú dostupné aktualizácie pre &brandShortName;:">
+<!ENTITY askMe.label                     "Vždy sa opýtať, čo urobiť">
+<!ENTITY askMe.accesskey                 "o">
+<!ENTITY modeAutomatic.label             "Automaticky aktualizácie prevziať a nainštalovať">
+<!ENTITY modeAutomatic.accesskey         "A">
+<!ENTITY modeAutoAddonWarn.label         "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
+<!ENTITY modeAutoAddonWarn.accesskey     "U">
+<!ENTITY updateHistory.label             "Zobraziť históriu aktualizácií">
+<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY offlineNotify.label             "Upozorniť, ak stránka ponúka možnosť uložiť údaje na použitie v režime offline">
+<!ENTITY offlineNotify.accesskey         "U">
+<!ENTITY offlineNotifyExceptions.label   "Výnimky…">
+<!ENTITY offlineNotifyExceptions.accesskey "V">
+
+<!ENTITY offlineAppsList.label           "Tieto webové stránky uložili údaje na použitie v režime offline:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Odstrániť…">
+<!ENTITY offlineAppsListRemove.accesskey "O">
+<!ENTITY offlineAppRemove.confirm        "Odstránenie údajov pre režim offline">
+
+<!ENTITY encryptionTab.label             "Šifrovanie">
+
+<!ENTITY protocols.label                 "Protokoly">
+<!ENTITY useSSL3.label                   "Použiť SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Použiť TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certifikáty">
+<!ENTITY certSelection.description       "Pokiaľ stránka požaduje môj osobný certifikát:">
+<!ENTITY certs.auto                      "Vybrať automaticky">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Vždy sa opýtať">
+<!ENTITY certs.ask.accesskey             "t">
+<!ENTITY viewCerts.label                 "Certifikáty">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewCRLs.label                  "Zrušené certifikáty">
+<!ENTITY viewCRLs.accesskey              "r">
+<!ENTITY verify2.label                   "Overenie">
+<!ENTITY verify2.accesskey               "O">
+<!ENTITY viewSecurityDevices.label       "Zariadenia">
+<!ENTITY viewSecurityDevices.accesskey   "Z">
+

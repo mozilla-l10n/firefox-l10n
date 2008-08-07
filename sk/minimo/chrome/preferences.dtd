@@ -1,0 +1,68 @@
+
+
+<!ENTITY advanced.label              "Pokročilé">
+<!ENTITY privacy.label               "Súkromie"> 
+<!ENTITY proxy.label                 "Proxy">
+<!ENTITY general.label               "Všeobecné">
+<!ENTITY okayButton.label            "Uložiť">
+<!ENTITY cancelButton.label          "Zrušiť">
+
+
+<!-- Toolbar -->
+
+<!ENTITY closeWindow "Z">
+
+<!-- Privacy pane -->
+
+<!ENTITY sanitizeButton.label        "Vymazať všetko">
+<!ENTITY sanitizeBookmarks.label     "Odstrániť všetky záložky">
+
+<!-- ConnectionsDialogPane --> 
+
+<!ENTITY networkCaption.label        "Sieť">
+<!ENTITY proxyCaption.label          "Nastavenia HTTP proxy">
+<!ENTITY useproxyCheckbox.label      "Použiť proxy">
+<!ENTITY proxyPortCaption.label      "Port">
+<!ENTITY proxyURL.label              "URL adresa">
+
+<!ENTITY downloadMediaCaption.label  "Prednastavený priečinok pre sťahovania">
+<!ENTITY useDownloadDir.label        "Použiť priečinok sťahovaní">
+<!ENTITY dontAskForLaunch.label      "Vždy sťahovať na ukladaciu kartu, ak je dostupná">
+<!ENTITY setSaveDirectory.label      "Nastaviť ukladací priečinok">
+
+<!-- Home pane --> 
+
+<!ENTITY homeCaption.label           "Domovská stránka">
+<!ENTITY zoom.label                  "Ovládanie zväčšenia">
+<!ENTITY zoomui.label                "Používateľské rozhranie">
+<!ENTITY zoomcontent.label           "Obsah stránok">
+<!ENTITY loadHomePageCurrent.label   "Použiť domovské stránky">
+<!ENTITY loadHomePageBlank.label     "Použiť prázdnu stránku">
+
+<!-- System Integration --> 
+
+<!ENTITY systemCaption.label         "Integrácia do systému">
+<!ENTITY setDefaultBrowser.label     "Nastaviť Minimo ako predvolený prehliadač">
+
+<!-- Small Screen Settings --> 
+
+<!ENTITY sssCaption.label            "Nastavenia obrazovky">
+<!ENTITY imagesCheckbox.label        "Zobraziť obrázky">
+<!ENTITY useSSRCheckbox.label        "Použiť SSR">
+<!ENTITY usesiteSSRCheckbox.label    "Použiť špecifikácie SSR">
+
+<!-- Advanced Settings --> 
+
+<!ENTITY miscCaption.label           "Rôzne nastavenia">
+<!ENTITY useSWKeyboard.label         "Použiť softvérovú klávesnicu">
+<!ENTITY dumpJSConsole.label         "Pri ukončení vypísať JS konzolu">
+<!ENTITY useDiskCache.label          "Použiť diskovú vyrovnávaciu pamäť">
+<!ENTITY storeCacheStorageCard.label "Použiť diskovú vyrovnávaciu pamäť, ak je dostupná pamäťová karta">
+<!ENTITY enablePreFetching.label     "Povoliť prednačítavanie">
+<!ENTITY cacheSettings.label         "Disková vyrovnávacia pamäť">
+<!ENTITY cacheSize.label             "Veľkosť vyrovn. pamäti (KB)">
+
+<!-- Summary Pane -->
+
+<!ENTITY summaryCaption.label        "Súhrn zmien">
+

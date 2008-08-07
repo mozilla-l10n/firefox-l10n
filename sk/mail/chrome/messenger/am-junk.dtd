@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Nevyžiadaná pošta">
+<!ENTITY trainingWarning.label "Ak je táto funkcia povolená, musíte najskôr &brandShortName; naučiť nevyžiadanú poštu identifikovať. Pomocou tlačidla Spam na paneli s nástrojmi označte doručené správy ako normálne alebo ako nevyžiadané.">
+<!ENTITY level.label "Povoliť rozpoznávanie nevyžiadanej pošty pre tento účet">
+<!ENTITY level.accesskey "v">
+
+<!ENTITY move.label "Správy rozpoznané ako nevyžiadané (SPAM) automaticky presúvať do:">
+<!ENTITY move.accesskey "m">
+<!ENTITY junkFolderOn.label "priečinok &quot;SPAM&quot; v účte:">
+<!ENTITY junkFolderOn.accesskey "r">
+<!ENTITY otherFolder.label "inde:">
+<!ENTITY otherFolder.accesskey "i">
+<!ENTITY purge1.label "Automaticky odstraňovať správy označené ako nevyžiadané po">
+<!ENTITY purge1.accesskey "A">
+<!ENTITY purge2.label "dňoch">
+
+<!ENTITY whitelist.label "Neoznačovať správy ako nevyžiadané, ak sa odosielateľ nachádza v:">
+<!ENTITY whitelist.accesskey "e">
+
+<!ENTITY ispHeaders.label "Dôverovať príznaku nevyžiadanej pošty (SPAM) od: ">
+<!ENTITY ispHeaders.accesskey "D">

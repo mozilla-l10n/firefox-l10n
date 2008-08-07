@@ -1,0 +1,26 @@
+<!ENTITY pref.images.title              "Obrázky">
+
+<!ENTITY imageBlocking.label            "Zásady akceptovania obrázkov">
+
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY imageDetails                   "Nastavenie spôsobu, ktorým &brandShortName; spracováva obrázky.">
+
+<!ENTITY accAllImagesRadio.label        "Povoliť všetky obrázky">
+<!ENTITY accAllImagesRadio.accesskey    "o">
+<!ENTITY accOrgImagesRadio.label        "Povoliť obrázky, ktoré pochádzajú z rovnakého servera ako stránka">
+<!ENTITY accOrgImagesRadio.accesskey    "r">
+<!ENTITY disableImages.label            "Nenačítavať obrázky">
+<!ENTITY disableImages.accesskey        "N">
+<!ENTITY viewImagesExplanation.label    "Zobraziť zoznam stránok, pre ktoré sú uchovávané informácie o obrázkoch">
+<!ENTITY viewImages.label               "Spravovať povolenia pre obrázky">
+<!ENTITY viewImages.accesskey           "S">
+<!ENTITY animLoopingTitle.label         "Počet animácií animovaných obrázkov">
+<!ENTITY animLoopAsSpecified.label      "Podľa nastavenia v obrázku">
+<!ENTITY animLoopAsSpecified.accesskey  "d">
+<!ENTITY animLoopOnce.label             "Raz">
+<!ENTITY animLoopOnce.accesskey         "R">
+<!ENTITY animLoopNever.label            "Nikdy">
+<!ENTITY animLoopNever.accesskey        "k">

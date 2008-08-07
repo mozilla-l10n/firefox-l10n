@@ -1,0 +1,25 @@
+<!-- extracted from content/pref-proxies.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
+<!ENTITY  pref.proxies.title            "Servery proxy">
+<!ENTITY  pref.proxies.desc             "Server proxy je sieťová služba, ktorá umožňuje filtrovať a urýchliť pripojenie k sieti Internet.">
+<!ENTITY  proxyTitle.label              "Nastavenie serverov proxy pre prístup k sieti Internet">
+<!ENTITY  directTypeRadio.label         "Priame pripojenie k sieti Internet">
+<!ENTITY  directTypeRadio.accesskey     "i">
+<!ENTITY  manualTypeRadio.label         "Ručné nastavenie serverov proxy:">
+<!ENTITY  manualTypeRadio.accesskey     "u">
+<!ENTITY  wpadTypeRadio.label           "Automatická detekcia nastavení tejto siete">
+<!ENTITY  wpadTypeRadio.accesskey       "d">
+<!ENTITY  autoTypeRadio.label           "Adresa URL pre automatické nastavenie serverov proxy:">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "Obnoviť">
+<!ENTITY  reload.accesskey              "b">
+<!ENTITY  http.label                    "Server proxy:">
+<!ENTITY  http.accesskey                "S">
+<!ENTITY  port.label                    "Port:">
+<!ENTITY  HTTPport.accesskey            "o">
+<!ENTITY  advanced.label                "Rozšírené…">
+<!ENTITY  advanced.accesskey            "R">
+<!ENTITY  noproxy.label                 "Nepoužívať proxy pre:">
+<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxyExplain.label          "Príklad: .mozilla.org, .net.nz, 192.168.1.0/24">

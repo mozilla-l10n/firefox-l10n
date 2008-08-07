@@ -1,0 +1,74 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.mailnews.title              "Pošta a diskusné skupiny">
+<!ENTITY generalSettings.caption          "Všeobecné nastavenia">
+<!ENTITY confirmMove.label                "Zobraziť potvrdenie pri presune správ do Koša">
+<!ENTITY confirmMove.accesskey            "b">
+<!ENTITY useMessenger.label               "Použiť Poštu z aplikácií založených na MAPI">
+<!ENTITY useMessenger.accesskey           "i">
+<!ENTITY autounzip.label                  "Pri ukladaní príloh automaticky rozbaliť súbory typu zip">
+<!ENTITY autounzip.accesskey              "m">
+<!ENTITY preserveThreading.label          "Pri usporiadaní správ zachovať vlákna">
+<!ENTITY preserveThreading.accesskey      "c">
+
+<!ENTITY defaultMailSettings.description  "Nastaviť &brandShortName; ako predvolenú aplikáciu pre:">
+<!ENTITY setDefaultMail.label             "Pošta">
+<!ENTITY setDefaultMail.accesskey         "o">
+<!ENTITY setDefaultNews.label             "Diskusné skupiny">
+<!ENTITY setDefaultNews.accesskey         "k">
+
+<!ENTITY messengerStartPage.caption       "Úvodná stránka pošty">
+<!ENTITY enableStartPage.label            "Pri spustení pošty zobraziť stránku v oblasti správy">
+<!ENTITY enableStartPage.accesskey        "r">
+<!ENTITY location.label                   "Adresa:">
+<!ENTITY location.accesskey               "d">
+<!ENTITY useDefault.label                 "Obnoviť predvolenú">
+<!ENTITY useDefault.accesskey             "v">
+<!ENTITY rememberLastMsg.label            "Pamätať si naposledy označenú správu">
+<!ENTITY rememberLastMsg.accesskey        "e">
+<!ENTITY toolbarIntro.caption             "Vyberte tlačidlá, ktoré chcete vidieť na paneli s nástrojmi">
+<!ENTITY fileButton.label                 "Uložiť">
+<!ENTITY fileButton.accesskey             "U">
+<!ENTITY nextButton.label                 "Ďalšia">
+<!ENTITY nextButton.accesskey             "a">
+<!ENTITY junkMailButton.label             "Spam">
+<!ENTITY junkMailButton.accesskey         "S">
+<!ENTITY printButton.label                "Tlačiť">
+<!ENTITY printButton.accesskey            "T">
+<!ENTITY stopButton.label                 "Zastaviť">
+<!ENTITY stopButton.accesskey             "Z">

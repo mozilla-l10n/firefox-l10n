@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
+<!ENTITY pref.locationBar.title                "Panel Adresa">
+
+<!ENTITY autoComplete.label                    "Automatické dokončovanie">
+<!ENTITY enableAutoComplete.label              "Počas zadávania adresy automaticky dokončovať použitím histórie prehliadania">
+<!ENTITY enableAutoComplete.accesskey          "a">
+<!ENTITY autoCompleteAutoFill.label            "Automaticky doplniť najvhodnejší výsledok">
+<!ENTITY autoCompleteAutoFill.accesskey        "u">
+<!ENTITY autoCompleteShowPopup.label           "Zobraziť zoznam nájdených výsledkov">
+<!ENTITY autoCompleteShowPopup.accesskey       "b">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Ponúkať len predtým zadané webové stránky">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "o">
+
+<!ENTITY searchEngine.label                    "Internetový vyhľadávací modul">
+<!ENTITY showSearchEngine.label                "Zobraziť predvolený vyhľadávací modul">
+<!ENTITY showSearchEngine.accesskey            "Z">
+
+<!ENTITY unknownLocations.label                "Neznáme adresy">
+<!ENTITY domainGuessing.label                  "Pridať &quot;www.&quot; a &quot;.com&quot; k zadanej adrese, ak webová stránka nebola nájdená">
+<!ENTITY domainGuessing.accesskey              "N">
+<!ENTITY keywords.label                        "Vykonať vyhľadávanie na webe, ak zadaný text nie je webová adresa">
+<!ENTITY keywords.accesskey                    "V">

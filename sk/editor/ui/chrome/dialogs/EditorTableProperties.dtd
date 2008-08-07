@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+   
+<!ENTITY tableWindow.title "Vlastnosti tabuľky">
+<!ENTITY applyButton.label "Použiť">
+<!ENTITY applyButton.accesskey "P">
+<!ENTITY closeButton.label "Zavrieť">
+<!ENTITY tableTab.label "Tabuľka">
+<!ENTITY cellTab.label "Bunky">
+<!ENTITY tableRows.label "Riadkov:">
+<!ENTITY tableRows.accessKey "d">
+<!ENTITY tableColumns.label "Stĺpcov:">
+<!ENTITY tableColumns.accessKey "c">
+<!ENTITY tableHeight.label "Výška">
+<!ENTITY tableHeight.accessKey "V">
+<!ENTITY tableWidth.label "Šírka:">
+<!ENTITY tableWidth.accessKey "r">
+<!ENTITY tableBorderSpacing.label "Okraje a rozostup">
+<!ENTITY tableBorderWidth.label "Šírka okrajov:">
+<!ENTITY tableBorderWidth.accessKey "o">
+<!ENTITY tableSpacing.label "Rozostup:">
+<!ENTITY tableSpacing.accessKey "s">
+<!ENTITY tablePadding.label "Veľkosť:">
+<!ENTITY tablePadding.accessKey "e">
+<!ENTITY tablePxBetwCells.label "bodov medzi bunkami">
+<!ENTITY tablePxBetwBrdrCellContent.label "bodov medzi okrajom a obsahom bunky">
+<!ENTITY tableAlignment.label "Zarovnanie tabuľky:">
+<!ENTITY tableAlignment.accessKey "n">
+<!ENTITY tableCaption.label "Titulok:">
+<!ENTITY tableCaption.accessKey "T">
+<!ENTITY tableCaptionAbove.label "Nad tabuľkou">
+<!ENTITY tableCaptionBelow.label "Pod tabuľkou">
+<!ENTITY tableCaptionLeft.label "Vľavo od tabuľky">
+<!ENTITY tableCaptionRight.label "Vpravo od tabuľky">
+<!ENTITY tableCaptionNone.label "Žiadny">
+<!ENTITY tableInheritColor.label "(Viditeľná farba stránky)">
+
+<!ENTITY cellPercent.label "percent tabuľky">
+<!ENTITY cellSelection.label "Výber">
+<!ENTITY cellSelectCell.label "Bunka">
+<!ENTITY cellSelectRow.label "Riadok">
+<!ENTITY cellSelectColumn.label "Stĺpec">
+<!ENTITY cellSelectNext.label "Ďalší">
+<!ENTITY cellSelectNext.accessKey "a">
+<!ENTITY cellSelectPrevious.label "Predchádzajúci">
+<!ENTITY cellSelectPrevious.accessKey "e">
+<!ENTITY cellApplyBeforeMove.label "Aplikovať zmeny pred presunom">
+<!ENTITY cellKeepCurrentData.label "Nechať aktuálne nastavenie">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label "Aktuálne zmeny budú použité">
+<!ENTITY applyBeforeChange2.label "pred zmenou výberu.">
+<!ENTITY cellRowSpan.label "Rozsah riadku:">
+<!ENTITY cellColSpan.label "Rozsah stĺpca:">
+<!ENTITY cellContentAlignment.label "Zarovnanie obsahu">
+<!ENTITY cellHorizontal.label "Horizontálne:">
+<!ENTITY cellHorizontal.accessKey "H">
+<!ENTITY cellVertical.label "Vertikálne:">
+<!ENTITY cellVertical.accessKey "V">
+<!ENTITY cellStyle.label "Štýl bunky:">
+<!ENTITY cellStyle.accessKey "b">
+<!ENTITY cellNormal.label "Normálny">
+<!ENTITY cellHeader.label "Hlavička">
+<!ENTITY cellTextWrap.label "Zalamovanie textu:">
+<!ENTITY cellTextWrap.accessKey "m">
+<!ENTITY cellWrap.label "Zalamovať">
+<!ENTITY cellNoWrap.label "Nezalamovať">
+<!ENTITY cellAlignTop.label "Hore">
+<!ENTITY cellAlignMiddle.label "Do stredu">
+<!ENTITY cellAlignBottom.label "Dole">
+<!ENTITY cellAlignJustify.label "Obojstranne">
+<!ENTITY cellAlignAtChar.label "Na znaku:">
+<!ENTITY cellInheritColor.label "(Viditeľná farba tabuľky)">
+<!ENTITY cellUseCheckboxHelp.label "Označte tie vlastnosti, ktoré sa majú aplikovať na všetky vybrané bunky.">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label "Veľkosť">
+<!ENTITY pixels.label "bodov">
+<!ENTITY backgroundColor.label "Farba pozadia:">
+<!ENTITY backgroundColor.accessKey "F">
+<!ENTITY AlignLeft.label "Doľava">
+<!ENTITY AlignCenter.label "Na stred">
+<!ENTITY AlignRight.label "Doprava">

@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Identity priradené k tomuto účtu">
+<!ENTITY identitiesListDesc.label "Správca viacnásobnej identity">
+<!ENTITY identitiesListAdd.label "Pridať…">
+<!ENTITY identitiesListAdd.accesskey "P">
+<!ENTITY identitiesListEdit.label "Upraviť…">
+<!ENTITY identitiesListEdit.accesskey "U">
+<!ENTITY identitiesListDelete.label "Odstrániť">
+<!ENTITY identitiesListDelete.accesskey "O">

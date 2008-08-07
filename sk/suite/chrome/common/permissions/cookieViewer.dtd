@@ -1,0 +1,33 @@
+<!ENTITY     tab.cookiesonsystem.label      "Uložené súbory cookies">
+<!ENTITY     tab.bannedservers.label        "Webové stránky a súbory cookies">
+<!ENTITY     div.bannedservers.label        "Spravovať stránky, ktoré môžu a nemôžu ukladať cookies vo vašom počítači.">
+<!ENTITY     div.cookiesonsystem.label      "Zobraziť a odstrániť súbory cookies, ktoré sú uložené vo vašom počítači.">
+<!ENTITY     treehead.cookiename.label      "Názov cookie">
+<!ENTITY     treehead.cookiedomain.label    "Stránka"> 
+<!ENTITY     treehead.cookieexpires.label   "Platnosť do"> 
+<!ENTITY     treehead.infoselected.label    "Informácie o označenom cookie">
+<!ENTITY     button.removecookie.label      "Odstrániť cookie">
+<!ENTITY     button.removeallcookies.label  "Odstrániť všetky cookies">
+
+<!ENTITY     props.name.label               "Názov:">
+<!ENTITY     props.value.label              "Obsah:">
+<!ENTITY     props.domain.label             "Server:">
+<!ENTITY     props.path.label               "Cesta:">
+<!ENTITY     props.secure.label             "Odoslané pre:">
+<!ENTITY     props.expires.label            "Platnosť do:">
+
+<!ENTITY     treehead.sitename.label        "Stránka">
+<!ENTITY     treehead.status.label          "Stav">
+<!ENTITY     windowtitle.label              "Správca cookies">
+<!ENTITY     buttonaccept.label             "Zavrieť">
+
+<!ENTITY     blockSite.label                "Blokovať">
+<!ENTITY     allowSite.label                "Povoliť">
+<!ENTITY     allowSiteSession.label         "Relácia">
+<!ENTITY     removepermission.label         "Odstrániť stránku">
+<!ENTITY     removeallpermissions.label     "Odstrániť všetky stránky">
+
+<!ENTITY     canSet.label                   "môže nastavovať cookies">
+<!ENTITY     cannotSet.label                "nemôže nastavovať cookies">
+
+<!ENTITY     checkbox.label                 "Nepovoliť stránkam, ktorých cookies boli odstránené, nastavovať cookies v budúcnosti">

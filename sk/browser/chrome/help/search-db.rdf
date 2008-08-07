@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="Aktívna záložka (definícia)" nc:link="glossary.xhtml#live_bookmark"/></li>
+        <li><Description nc:name="Aktualizácia doplnkov" nc:link="customization.xhtml#add_ons_updating"/></li>
+        <li><Description nc:name="Aktualizácia softvéru" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="Autorizácia (definícia)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="Blokovanie vyskakovacích okien" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="Certifikát (definícia)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="Certifikáty" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="cookie (definícia)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="Dešifrovanie (definícia)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="Digitálne ID (definícia)" nc:link="glossary.xhtml#digital_ID"/></li>
+        <li><Description nc:name="Domovská stránka (definícia)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="Extensible Markup Language (XML) (definícia)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="File Transfer Protocol (FTP) (definícia)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="FIPS PUBS 140-1 (definícia)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="hlavné heslo (definícia)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="Hypertext Markup Language (HTML) (definícia)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="Importovanie obľúbených položiek z Internet Explorera" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="Internet (definícia)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="Internet protocol (IP) address (definícia)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>
+        <li><Description nc:name="Java (definícia)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="JavaScript (definícia)" nc:link="glossary.xhtml#JavaScript"/></li>
+        <li><Description nc:name="Jazyky" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="kanál (definícia)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="klient (definícia)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="Kryptografia (definícia)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="modul (definícia)" nc:link="glossary.xhtml#Plugin"/></li>
+        <li><Description nc:name="Moduly" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="Naposledy navštívené webové stránky" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Nastavenie alebo zmena hlavného hesla" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Nastavenie rozšírení" nc:link="customization.xhtml#add_ons_configuring_extensions"/></li>
+        <li><Description nc:name="Nastavenie ochrany proti podvodným stránkam" nc:link="prefs.xhtml#phishing" nc:platform="win os2"/></li>
+        <li><Description nc:name="Nastavenie ochrany proti podvodným stránkam" nc:link="prefs.xhtml#phishing" nc:platform="unix mac"/></li>
+        <li><Description nc:name="Navigačný panel (definícia)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="Overenie" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Panel so záložkami (definícia)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="Panel s adresou (definícia)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="Prehliadanie" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="Prepínanie tém vzhľadu" nc:link="customization.xhtml#add_ons_switching_themes"/></li>
+        <li><Description nc:name="PKCS #11 (definícia)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="prejdenie naspäť alebo dopredu" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="proxy (definícia)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="Secure Sockets Layer (SSL) (definícia)" nc:link="glossary.xhtml#SSL"/></li>
+        <li><Description nc:name="server (definícia)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="Správca hesiel (definícia)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="Stavový riadok (definícia)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="súkromný kľúč (definícia)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="Šifrovanie (definícia)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="TCP/IP (Transmission Control Protocol/Internet Protocol) (definícia)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="Tlačidlo Domov" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="Tlačidlo Dopredu" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Tlačidlo Naspäť" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Tlačidlo Obnoviť" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="Tlačidlo Zastaviť" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="TLS (definícia)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="Uniform Resource Locator (URL) (definícia)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="vyhľadávací modul (definícia)" nc:link="glossary.xhtml#search_engine"/></li>
+        <li><Description nc:name="vyhľadávanie využitím panela s adresou" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="vyhľadávanie využitím panela Vyhľadávanie" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="vyhľadávanie využitím textu na stránke" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="Vyrovnávacia pamäť (definícia)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="webový server (definícia)" nc:link="glossary.xhtml#web_site"/></li>
+        <li><Description nc:name="webová stránka (definícia)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="World Wide Web (definícia)" nc:link="glossary.xhtml#World_Wide_Web"/></li>
+        <li><Description nc:name="zabezpečný server (definícia)" nc:link="glossary.xhtml#secure_site"/></li>
+        <li><Description nc:name="Zakázanie, povolenie, odinštalovanie doplnkov" nc:link="customization.xhtml#add_ons_uninstalling"/></li>
+        <li><Description nc:name="Záložka (definícia)" nc:link="glossary.xhtml#bookmark"/></li>
+        <li><Description nc:name="Zjednodušenie ovládania" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Zjednodušenie ovládania" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="Zobrazenie HTML kódu" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="Zoznam zrušených certifikátov" nc:link="prefs.xhtml#certificates"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>

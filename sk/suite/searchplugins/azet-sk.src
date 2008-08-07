@@ -1,0 +1,21 @@
+# Made by Mozilla.sk (www.mozilla.sk)
+# Azet.sk Firefox searchbar plugin by sektormastere@atlas.sk
+
+<SEARCH
+   version = "1.0" 
+   name="Azet"
+   description="Azet.sk Search"
+   method="get"
+   action="http://www.azet.sk/katalog/vyhladavanie/"
+>
+
+<input name="sq" user>
+
+</search>
+
+<browser
+   update="http://www.mozilla.sk/wp-content/download/searchplugins/azet-sk.src"
+   updateIcon="http://www.mozilla.sk/wp-content/download/searchplugins/azet-sk.png"
+   updateCheckDays="3"
+>
+

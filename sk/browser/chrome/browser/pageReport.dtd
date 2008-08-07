@@ -1,0 +1,6 @@
+<!ENTITY caption.label "Zablokované vyskakovacie okná">
+<!ENTITY intro.label "Zobrazenie vyskakovacích okien bolo zakázané nasledujúcim stránkam:">
+<!ENTITY done.label "Hotovo">
+<!ENTITY done.accesskey "H">
+<!ENTITY unblock.label "Odblokovať server">
+<!ENTITY unblock.accesskey "O">

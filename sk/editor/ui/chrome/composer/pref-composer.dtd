@@ -1,0 +1,39 @@
+<!-- extracted from content/pref-composer.xul -->
+
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+
+<!--LOCALIZATION NOTE (title.label): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "Composer">
+
+<!ENTITY  saving                        "Ukladanie">
+<!ENTITY  AutoSaveCheck                 "Automaticky ukladať každých ">
+<!ENTITY  minText                       "minút">
+
+<!ENTITY  exterLegend.label             "Externé editory">
+<!ENTITY  htmlSource                    "Zdrojový kód HTML:">
+<!ENTITY  imageeditor                   "Obrázky:">
+<!ENTITY  chooseButton.label            "Vybrať">
+
+<!ENTITY  recentFiles.title             "Ponuka naposledy otvorených stránok">
+<!ENTITY  documentsInMenu.label         "Maximálny počet zobrazených stránok:">
+<!ENTITY  documentsInMenu.accesskey     "M">
+
+<!ENTITY  savingFiles.title             "Pri ukladaní alebo publikovaní súborov">
+<!ENTITY  preserveExisting.label        "Ponechať pôvodné formátovanie">
+<!ENTITY  preserveExisting.accesskey    "o">
+<!ENTITY  preserveExisting.tooltip      "Ponechá pôvodné zakončenie riadkov a štruktúru stránky">
+<!ENTITY  saveAssociatedFiles.label     "Pri ukladaní stránok ukladať aj obrázky a iné súvisiace súbory">
+<!ENTITY  saveAssociatedFiles.accesskey "s">
+<!ENTITY  showPublishDialog.label       "Pri publikovaní stránok vždy zobrazovať dialógové okno publikovania">
+<!ENTITY  showPublishDialog.accesskey   "a">
+
+<!ENTITY  composerEditing.label         "Úprava">
+<!ENTITY  spellCheckInline.label        "Kontrolovať pravopis počas písania">
+<!ENTITY  spellCheckInline.accesskey    "K">
+<!ENTITY  maintainStructure.label       "Udržiavať rozloženie tabuľky pri vkladaní alebo mazaní buniek">
+<!ENTITY  maintainStructure.tooltip     "Zachováva pravidelný tvar tabuľky automatickým pridávaním buniek po pridaní alebo vymazaní buniek">
+<!ENTITY  maintainStructure.accesskey   "d">
+<!ENTITY  useCSS.label                  "Používať štýly CSS namiesto prvkov a atribútov HTML">
+<!ENTITY  useCSS.accesskey              "u">
+<!ENTITY  crInPCreatesNewP.label        "Návrat na začiatok riadku pomocou klávesy Enter vytvorí nový odstavec">
+<!ENTITY  crInPCreatesNewP.accesskey    "N">

@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Predvolené nastavenia">
+<!ENTITY defaultClient.intro  "Použiť &brandShortName; ako predvolený program pre:">
+
+<!ENTITY email.label "Poštu">
+<!ENTITY newsgroups.label "Diskusné skupiny">
+<!ENTITY rss.label "Kanály RSS">
+
+<!ENTITY checkOnStartup.label "Pri štarte &brandShortName;u vždy vykonať túto kontrolu">
+<!ENTITY checkOnStartup.accesskey "a">

@@ -1,0 +1,19 @@
+
+<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+<!ENTITY messengerCmd.label					"Pošta a diskusné skupiny">
+<!ENTITY messengerCmd.accesskey				"o">
+<!ENTITY messengerCmd.commandkey			"2">
+<!ENTITY addressBookCmd.label				"Adresár">  
+<!ENTITY addressBookCmd.accesskey			"A">
+<!ENTITY addressBookCmd.commandkey			"5">
+
+<!ENTITY taskMessenger.tooltip  "Pošta a diskusné skupiny">
+<!ENTITY taskAddressBook.tooltip  "Adresár kontaktov">
+
+<!-- searchAddressesCmd is also used by addressbook -->
+<!ENTITY searchAddressesCmd.label                       "Hľadať adresy…">
+<!ENTITY searchAddressesCmd.accesskey                   "H">
+
+<!ENTITY searchMailCmd.label "Hľadať správy…">
+<!ENTITY searchMailCmd.accesskey "s">
+<!ENTITY searchMailCmd.key "f">

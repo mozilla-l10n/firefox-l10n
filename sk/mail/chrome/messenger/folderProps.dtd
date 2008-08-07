@@ -1,0 +1,99 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+   
+<!ENTITY folderProps.windowtitle.label          "Vlastnosti">
+
+<!ENTITY generalInfo.label                      "Všeobecné informácie">
+<!ENTITY folderCharsetTab.label                 "Štandardné kódovanie:">
+<!ENTITY folderCharsetTab.accesskey             "k">
+<!ENTITY folderCharsetOverride.label            "Použiť pre všetky správy v priečinku (ignorovať kódovanie definované v správe)">
+<!ENTITY folderCharsetOverride.accesskey        "P">
+<!ENTITY folderRebuildSummaryFile.label         "Preindexovať">
+<!ENTITY folderRebuildSummaryFile.accesskey     "x">
+<!ENTITY folderRebuildSummaryFileTip.label      "Vytvorí nový indexový súbor">    
+
+<!ENTITY retention.label                        "Pravidlá manipulácie so správami">
+<!ENTITY retentionUseDefault.label              "Použiť predvolené nastavenia servera">
+<!ENTITY retentionUseDefault.accesskey          "P">
+<!ENTITY days.label                             "dní">
+<!ENTITY daysOld.label                          "dní">
+<!ENTITY message.label                          "správ">
+<!ENTITY retentionCleanup.label                 "Automatickým odstraňovaním starých správ je možné získať miesto na disku.">
+<!ENTITY retentionKeepMsg.label                 "Odstrániť správy staršie ako">
+<!ENTITY retentionKeepMsg.accesskey             "O">
+<!ENTITY retentionKeepAll.label                 "Neodstraňovať žiadne správy">
+<!ENTITY retentionKeepAll.accesskey             "N">
+<!ENTITY retentionKeepNew.label                 "Odstrániť všetko okrem posledných">
+<!ENTITY retentionKeepNew.accesskey             "d">
+<!ENTITY retentionKeepUnread.label              "Vždy odstrániť prečítané správy">
+<!ENTITY retentionKeepUnread.accesskey          "V">
+
+<!ENTITY folderOfflineTab.label                 "Režim offline">
+<!ENTITY folderCheckForNewMessages.label        "Kontrolovať, či tento priečinok neobsahuje nové správy">
+<!ENTITY folderCheckForNewMessages.accesskey    "K">
+
+<!ENTITY offlineFolder.check.label              "Používať tento priečinok offline">
+<!ENTITY offlineFolder.check.accesskey          "u">
+<!ENTITY offlineFolder.button.label             "Prevziať">
+<!ENTITY offlineFolder.button.accesskey         "P">
+
+<!ENTITY selectofflineNewsgroup.check.label     "Označiť túto diskusiu na použitie v režime offline">
+<!ENTITY selectofflineNewsgroup.check.accesskey "O">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Použiť štandardné nastavenie účtu">
+<!ENTITY offlineNewsgroup.button.label          "Prevziať">
+<!ENTITY offlineNewsgroup.button.accesskey      "P">
+
+<!ENTITY folderProps.information.label          "Informácia:">
+<!ENTITY folderProps.name.label                 "Názov:">
+<!ENTITY folderProps.name.accesskey             "N">
+<!ENTITY folderProps.location.label             "Umiestnenie:">                   
+<!ENTITY folderProps.location.accesskey         "U">                           
+
+<!ENTITY folderSharingTab.label                 "Zdieľanie">
+<!ENTITY privilegesDesc.label                   "Zdieľať tento a iné priečinky s používateľmi na sieti, zobraziť a nastaviť prístupové práva">
+<!ENTITY privileges.button.label                "Prístupové práva…">
+<!ENTITY privileges.button.accesskey            "P">
+<!ENTITY permissionsDesc.label                  "Máte nasledujúce prístupové práva:">
+<!ENTITY folderType.label                       "Typ priečinka:">
+
+<!ENTITY folderQuotaTab.label                   "Kvóta">
+<!ENTITY folderQuotaRoot.label                  "Hlavná kvóta:">
+<!ENTITY folderQuotaUsage.label                 "Využitie:">
+<!ENTITY folderQuotaStatus.label                "Stav:">

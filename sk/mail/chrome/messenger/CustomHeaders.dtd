@@ -1,0 +1,7 @@
+<!ENTITY window.title "Úprava hlavičiek">
+<!ENTITY addButton.label "Pridať">
+<!ENTITY addButton.accesskey "a">
+<!ENTITY removeButton.label "Odstrániť">
+<!ENTITY removeButton.accesskey "d">
+<!ENTITY newMsgHeader.label "Nová hlavička správy:">
+<!ENTITY newMsgHeader.accesskey "N">

@@ -1,0 +1,122 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is calendar views.
+   -
+   - The Initial Developer of the Original Code is
+   - Oracle Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Shaver <shaver@mozilla.org>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Matthew Willis <mattwillis@mac.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Martin Schroeder <mschroeder@mozilla.x-home.org>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+   
+<!-- Tools menu -->
+<!ENTITY lightning.taskLabel "Lightning">
+
+<!-- New menu popup in File menu -->
+<!ENTITY lightning.menupopup.new.event.label    "Udalosť…">
+<!ENTITY lightning.menupopup.new.task.label     "Úloha…">
+<!ENTITY lightning.menupopup.new.calendar.label "Kalendár…">
+
+<!-- Open menu popup in File menu -->
+<!ENTITY lightning.menupopup.open.label               "Otvoriť">
+<!ENTITY lightning.menupopup.open.accesskey           "O">
+<!ENTITY lightning.menupopup.open.message.label       "Uloženú správu…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "U">
+<!ENTITY lightning.menupopup.open.calendar.label      "Súbor kalendára…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
+
+<!-- Messenger Sidebar -->
+<!ENTITY lightning.sidebar.invitations.label "Pozvánky">
+<!ENTITY lightning.sidebar.invitations.accesskey "P">
+<!ENTITY lightning.calendar.label            "Kalendár">
+<!ENTITY lightning.calendar.accesskey        "K">
+<!ENTITY lightning.tasks.label               "Úlohy">
+<!ENTITY lightning.tasks.accesskey           "l">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Pošta">
+<!ENTITY lightning.toolbar.mail.accesskey     "o">
+<!ENTITY lightning.toolbar.calendar.label     "Kalendár">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.task.label         "Úlohy">
+<!ENTITY lightning.toolbar.task.accesskey     "h">
+
+<!-- Customize Toolbar Dialog -->
+<!ENTITY customize.toolbar.selector.label    "Panel nástrojov:">
+<!ENTITY customize.toolbar.selector.mode     "Režim panela nástrojov">
+<!ENTITY customize.toolbar.selector.mail     "Panel nástrojov Pošta">
+<!ENTITY customize.toolbar.selector.calendar "Panel nástrojov Kalendár">
+<!ENTITY customize.toolbar.selector.task     "Panel nástrojov Úloha">
+<!ENTITY customize.toolbar.location.label    "Umiestnenie:">
+<!ENTITY customize.toolbar.location.top      "Hore">
+<!ENTITY customize.toolbar.location.bottom   "Dole">
+
+<!-- Messenger Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Deň">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Týždeň">
+<!ENTITY lightning.toolbar.week.accesskey            "T">
+<!ENTITY lightning.toolbar.multiweek.label           "Viac týždňov">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "V">
+<!ENTITY lightning.toolbar.month.label               "Mesiac">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
+
+<!-- properties dialog, calendar creation wizard -->
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Zobraziť udalosti v paneli Dnes">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Zobraziť úlohy v paneli Dnes a v režime Úlohy">
+<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
+
+<!-- iMIP Bar (meeting support) -->
+<!ENTITY lightning.imipbar.description "Táto správa obsahuje pozvánku na udalosť.">
+
+<!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.new "U">
+<!ENTITY lightning.keys.todo.new "h">
+
+<!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Vytvoriť nový kalendár">
+
+<!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Zobraziť Mini Mesiac">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Zobrazť Mini Deň">
+<!ENTITY todaypane.showMiniday.accesskey  "d">
+<!ENTITY todaypane.showNone.label "Nezobrazovať nič">
+<!ENTITY todaypane.showNone.accesskey "N">
+<!ENTITY todaypane.showTodayPane.label "Zobraziť panel Dnes">
+<!ENTITY todaypane.showTodayPane.accesskey "o">

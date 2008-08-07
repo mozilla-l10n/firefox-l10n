@@ -1,0 +1,15 @@
+<!ENTITY Menubar.tooltip    "Hlavná ponuka">
+<!ENTITY Toolbar.tooltip    "Hlavný panel nástrojov">
+
+
+<!ENTITY multiline-expand.tooltip   "Zmení pole na viacriadkové (Ctrl+Up)">
+<!ENTITY multiline-contract.tooltip "Zmení pole na jednoriadkové (Ctrl+Down)">
+<!ENTITY multiline-send.tooltip     "Odošle tento text (Ctrl+Enter)">
+<!ENTITY server-nick.tooltip        "Zmení prezývku alebo nastaví stav Neprítomný. Stlačením tlačidla Esc prejdete na vstupné pole.">
+
+<!ENTITY Underline.label             "Podčiarknuté">
+<!ENTITY Bold.label                  "Tučné">
+<!ENTITY Reverse.label               "Inverzné zobrazenie">
+<!ENTITY Normal.label                "Normálne">
+<!ENTITY Color.label                 "Farba">
+<!ENTITY ForeBack.label              "xx=Popr yy=Poz">

@@ -1,0 +1,20 @@
+<!-- extracted from content/pref-scripts.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
+<!ENTITY pref.scripts.title              "Skripty a zásuvné moduly">
+
+<!ENTITY navigator.label                 "Prehliadač">
+<!ENTITY navigator.accesskey             "r">
+
+<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
+<!ENTITY enableJavaScript.label          "Povoliť JavaScript pre">
+<!ENTITY allowScripts.label              "Povoliť skriptom:">
+<!ENTITY allowScripts.accesskey          "s">
+<!ENTITY allowWindowMoveResize.label     "Premiestnenie alebo zmena veľkosti existujúcich okien">
+<!ENTITY allowWindowFlip.label           "Premiestnenie okien do popredia alebo pozadia">
+<!ENTITY allowWindowStatusChange.label   "Zmeniť text v stavovom riadku">
+<!ENTITY allowWindowImageSrcChange.label "Zmeniť obrázky">
+<!ENTITY allowContextmenuDisable.label   "Zakázať alebo nahradiť kontextovú ponuku">
+<!ENTITY allowHideStatusBar.label        "Skryť stavový riadok">
+
+<!ENTITY enablePlugin.label              "Povoliť zásuvné moduly pre">

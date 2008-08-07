@@ -1,0 +1,23 @@
+<!ENTITY changeAction.title                   "Zmeniť akciu">
+<!ENTITY window.width                         "36em">
+
+<!ENTITY whenDownloading.label                "Keď sa objavia súbory typu:">
+
+<!ENTITY openDefault.label                    "Otvoriť ich pomocou predvolenej aplikácie">
+<!ENTITY openDefault.accesskey                "O">
+<!ENTITY openApplication.label                "Otvoriť ich pomocou tejto aplikácie:">
+<!ENTITY openApplication.accesskey            "e">
+<!ENTITY changeApp.label                      "Prehľadávať…">
+<!ENTITY changeApp.accesskey                  "r">
+<!ENTITY saveToDisk.label                     "Uložiť ich na disk">
+<!ENTITY saveToDisk.accesskey                 "s">
+<!ENTITY saveToDefaultFolder.label            "v predvolenom priečinku">
+<!ENTITY saveToDefaultFolder.accesskey        "d">
+<!ENTITY saveToThisFolder.label               "v tomto priečinku:">
+<!ENTITY saveToThisFolder.accesskey           "m">
+<!ENTITY chooseFolder.label                   "Prehľadávať…">
+<!ENTITY chooseFolder.accesskey               "P">
+<!ENTITY saveToAskMe.label                    "opýtať sa, kde súbor uložiť">
+<!ENTITY saveToAskMe.accesskey                "a">
+<!ENTITY usePlugin.label                      "Použiť tento zásuvný modul:">
+<!ENTITY usePlugin.accesskey                  "z">

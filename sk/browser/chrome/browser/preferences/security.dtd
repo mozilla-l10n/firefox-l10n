@@ -1,0 +1,43 @@
+<!ENTITY  warnAddonInstall.label        "Upozorniť ma, ak sa stránky pokúšajú inštalovať doplnky">
+<!ENTITY  warnAddonInstall.accesskey    "U">
+
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+   useDownloadedList.label convey the meaning "suspected" (and not something like
+   "known").
+ -->
+<!ENTITY  tellMaybeAttackSite.label     "Upozorniť v prípade, že je navštívená stránka škodlivá">
+<!ENTITY  tellMaybeAttackSite.accesskey "r">
+
+<!ENTITY  tellMaybeForgery.label      "Upozorniť v prípade, že je navštívená stránka podvodná">
+<!ENTITY  tellMaybeForgery.accesskey  "o">
+
+<!ENTITY  addonExceptions.label         "Výnimky…">
+<!ENTITY  addonExceptions.accesskey     "V">
+
+
+<!ENTITY  passwords.label               "Heslá">
+
+<!ENTITY  rememberPasswords.label       "Pamätať si heslá stránok">
+<!ENTITY  rememberPasswords.accesskey   "a">
+<!ENTITY  passwordExceptions.label      "Výnimky…">
+<!ENTITY  passwordExceptions.accesskey  "m">
+
+<!ENTITY  useMasterPassword.label        "Použiť hlavné heslo">
+<!ENTITY  useMasterPassword.accesskey    "e">
+<!ENTITY  changeMasterPassword.label     "Zmeniť hlavné heslo…">
+<!ENTITY  changeMasterPassword.accesskey "h">
+
+<!ENTITY  savedPasswords.label            "Uložené heslá…">
+<!ENTITY  savedPasswords.accesskey        "s">
+
+
+<!ENTITY  warnings.label                "Bezpečnostné upozornenia">
+
+<!ENTITY  chooseWarnings.label          "Upozornenia, ktoré sa majú zobrazovať pri prehliadaní webu">
+
+<!ENTITY  warningSettings.label         "Nastavenia…">
+<!ENTITY  warningSettings.accesskey     "N">
+

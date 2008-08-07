@@ -1,0 +1,24 @@
+<!ENTITY securityTitle.label           "Bezpečnosť">
+<!ENTITY securityTab.label             "Bezpečnosť">
+<!ENTITY securityHeading.label         "Ak chcete posielať a prijímať podpísané alebo šifrované správy, mali by ste zadať certifikát pre šifrovanie a certifikát pre digitálne podpisovanie.">
+<!ENTITY encryptionGroupTitle.label    "Šifrovanie">
+<!ENTITY encryptionChoiceLabel.label   "Prednastavené šifrovanie pri posielaní správ:">
+<!ENTITY neverEncrypt.label            "Nikdy (nepoužívať šifrovanie)">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label    "Vždy (neumožní odoslanie, ak všetci adresáti nemajú certifikát)">
+<!ENTITY alwaysEncryptMessage.accesskey "d">
+<!ENTITY encryptionCert.message        "Na šifrovanie a dešifrovanie správ posielaných vám používať tento osobný certifikát:">
+<!ENTITY encryptionCert.notselected    "Žiaden certifikát nie je zadaný">
+<!ENTITY digitalSign.certificate.button "Vybrať…">
+<!ENTITY digitalSign.certificate.accesskey "b">
+<!ENTITY digitalSign.certificate_clear.button "Vymazať">
+<!ENTITY digitalSign.certificate_clear.accesskey "V">
+<!ENTITY encryption.certificate.button "Vybrať…">
+<!ENTITY encryption.certificate.accesskey "a">
+<!ENTITY encryption.certificate_clear.button "Vymazať">
+<!ENTITY encryption.certificate_clear.accesskey "z">
+<!ENTITY signingGroupTitle.label       "Digitálne podpisovanie">
+<!ENTITY signMessage.label             "Digitálne podpisovať správy (predvolene)">
+<!ENTITY signMessage.accesskey "D">
+<!ENTITY signingCert.message           "Na digitálne podpisovanie správ používať tento osobný certifikát:">
+<!ENTITY signingCert.notselected       "Nie je nastavený žiadny certifikát">

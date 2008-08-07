@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Notifikácia o stave doručenia">
+<!ENTITY useGlobalPrefs.label       "Pre tento účet použiť globálne nastavenia notifikácie o stave doručenia">
+<!ENTITY useGlobalPrefs.accesskey   "r">
+<!ENTITY useCustomPrefs.label       "Prispôsobiť nastavenia notifikácie o stave doručenia pre tento účet">
+<!ENTITY useCustomPrefs.accesskey   "s">
+<!ENTITY requestAlways.label        "Pri odosielaní správy vždy vyžadovať notifikáciu o stave doručenia">
+<!ENTITY requestAlways.accesskey    "v">
+<!ENTITY optionTitle.label          "Vyžiadať notifikáciu pri:">
+<!ENTITY requestOnSucess.label      "Úspešnom doručení">
+<!ENTITY requestOnSucess.accesskey  "d">
+<!ENTITY requestOnFailure.label     "Neúspešnom doručení">
+<!ENTITY requestOnFailure.accesskey "e">
+<!ENTITY requestOnDelay.label       "Zdržaní doručenia">
+<!ENTITY requestOnDelay.accesskey   "Z">
+<!ENTITY requestNever.label         "Nikdy nevyžadovať notifikáciu o stave doručenia">
+<!ENTITY requestNever.accesskey     "k">

@@ -1,0 +1,14 @@
+<!ENTITY zoomEnlargeCmd.label       "Priblížiť">
+<!ENTITY zoomEnlargeCmd.accesskey   "i">
+<!ENTITY zoomEnlargeCmd.commandkey  "+">
+<!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY zoomReduceCmd.label        "Vzdialiť">
+<!ENTITY zoomReduceCmd.accesskey    "V">
+<!ENTITY zoomReduceCmd.commandkey   "-">
+
+<!ENTITY zoomResetCmd.commandkey    "0">
+
+<!-- see zoomOtherLabel in viewZoomOverlay.properties -->
+<!ENTITY zoomMenu.accesskey         "L">
+<!ENTITY zoomOtherCmd.accesskey     "n">

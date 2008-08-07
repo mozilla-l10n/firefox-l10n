@@ -1,0 +1,102 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Thunderbird Preferences System
+   -
+   - The Initial Developer of the Original Code is
+   - Scott MacGregor
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.calendar.advanced.generalTab.label "Všeobecné">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "Heslá">
+<!ENTITY pref.calendar.advanced.updateTab.label "Aktualizácie">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Šifrovanie">
+
+<!-- General -->
+<!ENTITY pref.calendar.advanced.showConnections.label     "Nastavenie pripojenia…">
+<!ENTITY pref.calendar.advanced.showConnections.accesskey "N">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Nastaviť spôsob, akým sa &brandShortName; pripája k sieti Internet.">
+<!ENTITY pref.calendar.advanced.configEdit.caption "Pokročilé nastavenia">
+<!ENTITY pref.calendar.advanced.configEdit.button "Editor nastavení…">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "E">
+
+<!-- Passwords -->
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; si môže zapamätať vaše prihlasovacie údaje pre jednotlivé vaše kalendáre, takže ich už nebudete musieť nabudúce znovu zadávať.">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "Použiť hlavné heslo a zašifrovať uložené heslá">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "P">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Ak je nastavené hlavné heslo, chráni všetky vaše ostatné heslá - jeho zadávanie je však vyžadované pri každej relácii.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Zmeniť hlavné heslo…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "Z">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "Zobraziť uložené heslá…">
+<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "u">
+
+<!-- Update -->
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Automaticky kontrolovať aktualizácie pre:">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "S">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Nainštalované doplnky">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "N">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Ak sú dostupné aktualizácie pre &brandShortName;:">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Vždy sa opýtať, čo urobiť">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "o">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "Automaticky aktualizácie prevziať a nainštalovať">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "A">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "U">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "Zobraziť históriu aktualizácií…">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "h">
+
+<!-- Encryption -->
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "Protokoly">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "Použiť SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "Použiť TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "Certifikáty">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "Pokiaľ server požaduje môj osobný certifikát:">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "Vybrať automaticky">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "m">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "Vždy sa opýtať">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "t">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Certifikáty">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "C">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Zrušené certifikáty">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "r">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "Overenie">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "O">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Zariadenia">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "Z">

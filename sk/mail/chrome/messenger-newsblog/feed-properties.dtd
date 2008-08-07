@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title "Vlastnosti kanála RSS">
+
+<!ENTITY feedFolder.label "Ukladať príspevky do priečinka:">
+<!ENTITY feedFolder.accesskey "U">
+
+<!ENTITY feedLocation.label "Adresa kanála RSS:">
+<!ENTITY feedLocation.accesskey "A">
+
+<!ENTITY choosethisfolder.label "vybrať tento priečinok">
+
+<!ENTITY quickMode.label "Zobraziť stručný obsah príspevku namiesto načítania celej webovej stránky">
+<!ENTITY quickMode.accesskey "Z">
+
+<!ENTITY copyLinkCmd.label "Kopírovať adresu odkazu">
+<!ENTITY copyLinkCmd.accesskey "K">
+
+<!ENTITY pasteLinkCmd.label       "Prilepiť">
+<!ENTITY pasteLinkCmd.accesskey   "P">

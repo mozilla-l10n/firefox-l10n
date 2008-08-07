@@ -1,0 +1,27 @@
+
+<!ENTITY migrationWizard.title           "Sprievodca importovaním">
+
+<!ENTITY importAllFrom.label             "Importovať všetky položky z:">
+<!ENTITY importBookmarksFrom.label       "Importovať záložky z:">
+
+<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey   "S">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
+<!ENTITY importFromFile.label            "Zo súboru">
+<!ENTITY importFromFile.accesskey        "s">
+<!ENTITY importFromNothing.label         "Nič neimportovať">
+<!ENTITY importFromNothing.accesskey     "N">
+
+<!ENTITY importSource.title              "Import nastavení a údajov">
+<!ENTITY importItems.title               "Položky na importovanie">
+<!ENTITY importItems.label               "Vyberte, ktoré položky chcete importovať:">
+
+<!ENTITY selectProfile.title             "Výber profilu">
+<!ENTITY selectProfile.label             "Importovať možno tieto profily:">
+
+<!ENTITY migrating.title                 "Importuje sa…">
+<!ENTITY migrating.label                 "Práve sa importujú tieto položky…">
+
+<!ENTITY done.title                      "Import dokončený">
+<!ENTITY done.label                      "Úspešne boli importované tieto položky:">

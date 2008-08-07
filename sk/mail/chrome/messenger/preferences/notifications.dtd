@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title       "Prispôsobenie upozornenia na novú správu">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Vyberte, ktoré položky sa majú v upozornení zobraziť:">
+<!ENTITY previewText.label                "Ukážka textu správy">
+<!ENTITY previewText.accesskey            "U">
+<!ENTITY subject.label                    "Predmet">
+<!ENTITY subject.accesskey                "P">
+<!ENTITY sender.label                     "Odosielateľ">
+<!ENTITY sender.accesskey                 "O">

@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Kvôli úspore miesta na disku nepreberať:">
+<!ENTITY doNotDownload.label "Kvôli úspore miesta na disku nepreberať pre použitie v režime offline:">
+<!ENTITY offlineNewFolder.label "Pri vytváraní nových priečinkov ich označovať pre použitie v režime offline">
+<!ENTITY offlineNewFolder.accesskey "z">
+<!ENTITY offlineNotDownload.label "Správy väčšie ako ">
+<!ENTITY offlineNotDownload.accesskey "S">
+<!ENTITY kb.label "kB">
+<!ENTITY days.label "dní">
+<!ENTITY daysOld.label "dní">
+<!ENTITY message.label "správ">
+<!ENTITY nntpNotDownloadRead.label "Prečítané správy">
+<!ENTITY nntpNotDownloadRead.accesskey "e">
+<!ENTITY nntpDownloadMsg.label "Správy staršie ako">
+<!ENTITY nntpDownloadMsg.accesskey "v">
+<!ENTITY retentionCleanup.label "Ak chcete získať miesto na disku, je možné staré správy automaticky odstraňovať.">
+<!ENTITY retentionKeepMsg.label "Odstrániť správy staršie ako">
+<!ENTITY retentionKeepMsg.accesskey "d">
+<!ENTITY retentionKeepAll.label "Neodstraňovať žiadne správy">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepNew.label "Odstrániť všetko okrem posledných">
+<!ENTITY retentionKeepNew.accesskey "k">
+<!ENTITY retentionKeepUnread.label "Vždy odstrániť prečítané správy">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "Odstrániť telá správ starších ako">
+<!ENTITY nntpRemoveBody.accesskey "t">
+<!ENTITY offlineSelectNntp.label "Vyberte diskusné skupiny, ktoré chcete používať v režime offline…">
+<!ENTITY offlineSelectNntp.accesskey "b">
+<!ENTITY offlineSelectImap.label "Vyberte priečinky, ktoré chcete používať v režime offline…">
+<!ENTITY offlineSelectImap.accesskey "c">
+<!ENTITY offlineDesc.label "Je možné prevziať správy na váš počítač tak, aby boli k dispozícii, keď pracujete v režime offline.">
+<!ENTITY makeInboxMsgsAvailable.label "Sprístupniť správy v priečinku Doručená pošta počas práce v režime offline.">
+<!ENTITY makeInboxMsgsAvailable.accesskey "f">
+<!ENTITY offlineGroupTitle.label "Režim offline">
+<!ENTITY diskspaceGroupTitle.label "Miesto na disku">

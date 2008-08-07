@@ -1,0 +1,28 @@
+<!ENTITY find.label "Hľadať:">
+<!ENTITY find.accesskey "H">
+<!ENTITY expand.label "Rozbaliť">
+<!ENTITY expand.accesskey "R">
+<!ENTITY collapse.label "Zbaliť">
+<!ENTITY collapse.accesskey "Z">
+<!ENTITY byDate.label "podľa dátumu">
+<!ENTITY byDate.accesskey "d">
+<!ENTITY bySite.label "podľa servera">
+<!ENTITY bySite.accesskey "s">
+<!ENTITY view.label "Zobraziť">
+<!ENTITY view.accesskey "b">
+<!ENTITY byMostVisited.label "podľa počtu návštev">
+<!ENTITY byMostVisited.accesskey "a">
+<!ENTITY byLastVisited.label "podľa poslednej návštevy">
+<!ENTITY byLastVisited.accesskey "l">
+<!ENTITY byDayAndSite.label "podľa dátumu a servera">
+<!ENTITY byDayAndSite.accesskey "m">
+<!ENTITY openLinkInWindow.label "Otvoriť">
+<!ENTITY openLinkInWindow.accesskey "t">
+<!ENTITY openInNewTab.label "Otvoriť na novej karte">
+<!ENTITY openInNewTab.accesskey "k">
+<!ENTITY openInNewWindow.label "Otvoriť v novom okne">
+<!ENTITY openInNewWindow.accesskey "n">
+<!ENTITY bookmarkLink.label "Vytvoriť záložku pre tento odkaz">
+<!ENTITY bookmarkLink.accesskey "V">
+<!ENTITY copyLink.label "Kopírovať adresu odkazu">
+<!ENTITY copyLink.accesskey "u">

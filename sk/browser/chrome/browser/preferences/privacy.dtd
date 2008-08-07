@@ -1,0 +1,56 @@
+<!ENTITY  history.label "História">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Históriu uchovávať minimálne">
+<!ENTITY  rememberDaysBefore.accesskey  "H">
+<!ENTITY  rememberDaysAfter2.label      "dní">
+
+<!ENTITY  rememberForms.label           "Pamätať si údaje zadávané do formulárov a vyhľadávacieho panela">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "Pamätať si informácie o prevzatých súboroch">
+<!ENTITY  rememberDownloads.accesskey   "m">
+
+
+<!ENTITY  cookies.label                 "Cookies">
+
+<!ENTITY  acceptCookies.label           "Povoliť serverom nastavovať cookies">
+<!ENTITY  acceptCookies.accesskey       "s">
+
+<!ENTITY  acceptThirdParty.label        "Povoliť cookies tretích strán">
+<!ENTITY  acceptThirdParty.accesskey    "t">
+
+<!ENTITY  keepUntil.label               "Uchovávať cookies do:">
+<!ENTITY  keepUntil.accesskey           "U">
+
+<!ENTITY  expire.label                  "vypršania platnosti">
+<!ENTITY  close.label                   "ukončenia &brandShortName;u">
+<!ENTITY  askEachTime.label             "vždy sa opýtať">
+
+<!ENTITY  cookieExceptions.label        "Výnimky…">
+<!ENTITY  cookieExceptions.accesskey    "n">
+
+<!ENTITY  showCookies.label             "Zobraziť cookies…">
+<!ENTITY  showCookies.accesskey         "c">
+
+
+<!ENTITY  privateData.label             "Súkromné údaje">
+
+<!ENTITY  alwaysClear.label             "Pri ukončení &brandShortName;u vždy odstrániť súkromné údaje">
+<!ENTITY  alwaysClear.accesskey         "r">
+
+<!ENTITY  askBeforeClear.label          "Pred odstránením súkromných údajov sa vždy opýtať">
+<!ENTITY  askBeforeClear.accesskey      "o">
+
+<!ENTITY  clearDataSettings.label       "Nastavenia…">
+<!ENTITY  clearDataSettings.accesskey   "a">
+
+<!ENTITY  clearDataNow.label            "Odstrániť teraz…">
+<!ENTITY  clearDataNow.label2           "Odstrániť okamžite">
+<!ENTITY  clearDataNow.accesskey        "d">
+

@@ -1,0 +1,33 @@
+<!-- win -->
+<!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
+                         You may want to translate the Cmd.key and accesskey --> 
+
+<!ENTITY closeCmd.label                 "Zavrieť">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "Z">
+
+<!ENTITY quitApplicationCmd.label       "Koniec"> 
+<!ENTITY quitApplicationCmd.key         "Q"> 
+<!ENTITY quitApplicationCmd.accesskey   "K">
+
+<!ENTITY redoCmd.label                  "Znovu">  
+<!ENTITY redoCmd.key                    "Y">  
+<!ENTITY redoCmd.accesskey              "Z">
+
+<!ENTITY findTypeTextCmd.key            "/">
+<!ENTITY findTypeLinksCmd.key           "'">
+
+<!ENTITY accel.emacs_conflict           "accel">
+
+<!-- Help viewer -->
+<!ENTITY openHelpCmd.label              "Obsah pomocníka">
+<!ENTITY openHelpCmd.accesskey          "O">
+<!ENTITY openHelpCmd.key                "VK_F1">
+<!ENTITY helpForIEUsers.label           "Pre používateľov Internet Explorera">
+<!ENTITY helpForIEUsers.accesskey       "I">
+
+<!-- Key labels, for mousewheel prefs -->
+<!ENTITY ctrlKey.label                  "Ctrl">
+<!ENTITY altKey.label                   "Alt">
+<!ENTITY shiftKey.label                 "Shift">
+

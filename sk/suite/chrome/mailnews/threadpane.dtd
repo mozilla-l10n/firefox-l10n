@@ -1,0 +1,80 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Vlákno">
+<!ENTITY fromColumn.label "Od">
+<!ENTITY recipientColumn.label "Adresát">
+<!ENTITY subjectColumn.label "Predmet">
+<!ENTITY dateColumn.label "Dátum">
+<!ENTITY priorityColumn.label "Priorita">
+<!ENTITY tagsColumn.label "Popis">
+<!ENTITY accountColumn.label "Účet">
+<!ENTITY statusColumn.label "Stav">
+<!ENTITY sizeColumn.label "Veľkosť">
+<!ENTITY junkStatusColumn.label "Spam">
+<!ENTITY linesColumn.label "Riadky">
+<!ENTITY unreadColumn.label "Neprečítané">
+<!ENTITY totalColumn.label "Celkovo">
+<!ENTITY readColumn.label "Prečítané">
+<!ENTITY receivedColumn.label "Prijaté">
+<!ENTITY flagColumn.label "Vlajka">
+<!ENTITY locationColumn.label "Umiestnenie">
+<!ENTITY idColumn.label "Poradie prijatia">
+<!ENTITY attachmentColumn.label "Prílohy">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Kliknutím vyberiete stĺpce">
+<!ENTITY threadColumn.tooltip "Kliknutím usporiadate správy do vlákien">
+<!ENTITY fromColumn.tooltip "Kliknutím usporiadate podľa stĺpca Od">
+<!ENTITY recipientColumn.tooltip "Kliknutím usporiadate podľa adresáta">
+<!ENTITY subjectColumn.tooltip "Kliknutím usporiadate podľa predmetu">
+<!ENTITY dateColumn.tooltip "Kliknutím usporiadate podľa dátumu">
+<!ENTITY priorityColumn.tooltip "Kliknutím usporiadate podľa priority">
+<!ENTITY tagsColumn.tooltip "Kliknutím usporiadate podľa popisu">
+<!ENTITY accountColumn.tooltip "Kliknutím usporiadate podľa účtov">
+<!ENTITY statusColumn.tooltip "Kliknutím usporiadate podľa stavu">
+<!ENTITY sizeColumn.tooltip "Kliknutím usporiadate podľa veľkosti">
+<!ENTITY junkStatusColumn.tooltip "Kliknutím zoskupíte nevyžiadanú poštu (Spam)">
+<!ENTITY unreadColumn.tooltip "Počet nečítaných správ vo vlákne">
+<!ENTITY totalColumn.tooltip "Celkový počet správ vo vlákne">
+<!ENTITY readColumn.tooltip "Kliknutím zoskupíte čítané / nečítané správy">
+<!ENTITY receivedColumn.tooltip "Kliknutím usporiadate podľa dátumu prijatia">
+<!ENTITY flagColumn.tooltip "Kliknutím zoskupíte správy označené vlajkou">
+<!ENTITY locationColumn.tooltip "Kliknutím usporiadate podľa umiestnenia">
+<!ENTITY idColumn.tooltip "Kliknutím usporiadate podľa poradia, v akom boli správy prijaté">
+<!ENTITY attachmentColumn.tooltip "Kliknutím zoskupíte správy s prílohou">

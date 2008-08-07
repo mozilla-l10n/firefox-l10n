@@ -1,0 +1,77 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Hľadať správy v priečinku:">
+<!ENTITY searchHeading.accesskey     "s">
+<!ENTITY searchSubfolders.label      "Hľadať v podpriečinkoch">
+<!ENTITY searchSubfolders.accesskey  "d">
+<!ENTITY resetButton.label           "Obnoviť">
+<!ENTITY resetButton.accesskey       "b">
+<!ENTITY optionsButton.label         "Možnosti">
+<!ENTITY closeButton.label           "Zavrieť">
+<!ENTITY openButton.label            "Otvoriť">
+<!ENTITY openButton.accesskey        "t">
+<!ENTITY deleteButton.label          "Odstrániť">
+<!ENTITY deleteButton.accesskey      "r">
+<!ENTITY searchDialogTitle.label     "Hľadanie v správach">
+<!ENTITY conditionDesc.label         "Hľadať správy, ktoré:">
+<!ENTITY conditions.label            "Kritéria">
+<!ENTITY results.label               "Výsledky">
+<!ENTITY fileHereMenu.label          "Uložiť sem">
+<!ENTITY fileHereMenu.accesskey      "U">
+<!ENTITY fileButton.label            "Uložiť">
+<!ENTITY fileButton.accesskey        "U">
+<!ENTITY closeCmd.key                "W">
+<!ENTITY goToFolderButton.label      "Otvoriť priečinok správy">
+<!ENTITY goToFolderButton.accesskey  "O">
+<!ENTITY saveAsVFButton.label        "Uložiť ako priečinok hľadania">
+<!ENTITY saveAsVFButton.accesskey    "k">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Hľadať v adresári:">
+<!ENTITY abSearchHeading.accesskey   "a">
+<!ENTITY propertiesButton.label      "Vlastnosti">
+<!ENTITY propertiesButton.accesskey  "V">
+<!ENTITY composeButton.label         "Nová správa">
+<!ENTITY composeButton.accesskey     "N">
+<!ENTITY abSearchDialogTitle.label   "Pokročilé hľadanie v adresári">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label          "Vlákno">
+<!ENTITY fromColumn.label            "Od">
+<!ENTITY recipientColumn.label       "Adresát">
+<!ENTITY subjectColumn.label         "Predmet">
+<!ENTITY dateColumn.label            "Dátum">
+<!ENTITY priorityColumn.label        "Priorita">
+<!ENTITY tagsColumn.label            "Popis">
+<!ENTITY accountColumn.label         "Účet">
+<!ENTITY statusColumn.label          "Stav">
+<!ENTITY sizeColumn.label            "Veľkosť">
+<!ENTITY junkStatusColumn.label      "Spam">
+<!ENTITY linesColumn.label           "Riadky">
+<!ENTITY unreadColumn.label          "Neprečítané">
+<!ENTITY totalColumn.label           "Celkovo">
+<!ENTITY readColumn.label            "Prečítané">
+<!ENTITY receivedColumn.label        "Prijaté">
+<!ENTITY starredColumn.label         "Hviezdička">
+<!ENTITY locationColumn.label        "Umiestnenie">
+<!ENTITY idColumn.label              "Poradie prijatia">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip       "Kliknutím vyberiete stĺpce, ktoré chcete zobraziť">
+<!ENTITY threadColumn.tooltip        "Kliknutím zoskupíte správy do vlákien">
+<!ENTITY fromColumn.tooltip          "Kliknutím usporiadate podľa odosielateľa">
+<!ENTITY recipientColumn.tooltip     "Kliknutím usporiadate podľa adresáta">
+<!ENTITY subjectColumn.tooltip       "Kliknutím usporiadate podľa predmetu">
+<!ENTITY dateColumn.tooltip          "Kliknutím usporiadate podľa dátumu">
+<!ENTITY priorityColumn.tooltip      "Kliknutím usporiadate podľa priority">
+<!ENTITY tagsColumn.tooltip          "Kliknutím usporiadate podľa popisu">
+<!ENTITY accountColumn.tooltip       "Kliknutím usporiadate podľa účtov">
+<!ENTITY statusColumn.tooltip        "Kliknutím usporiadate podľa stavu">
+<!ENTITY sizeColumn.tooltip          "Kliknutím usporiadate podľa veľkosti">
+<!ENTITY junkStatusColumn.tooltip    "Kliknutím zoskupíte podľa príznaku SPAM (nevyžiadaná pošta)">
+<!ENTITY unreadColumn.tooltip        "Počet nečítaných správ vo vlákne">
+<!ENTITY totalColumn.tooltip         "Celkový počet správ vo vlákne">
+<!ENTITY readColumn.tooltip          "Kliknutím usporiadate podľa príznaku prečítania správy">
+<!ENTITY receivedColumn.tooltip      "Kliknutím usporiadate podľa dátumu prijatia">
+<!ENTITY starredColumn.tooltip       "Kliknutím zoskupíte správy vyznačené hviezdičkou">
+<!ENTITY locationColumn.tooltip      "Kliknutím usporiadate podľa umiestnenia">
+<!ENTITY idColumn.tooltip            "Kliknutím usporiadate podľa poradia, v akom boli správy prijaté">

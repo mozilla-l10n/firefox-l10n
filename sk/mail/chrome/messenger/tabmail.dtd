@@ -1,0 +1,12 @@
+<!ENTITY  untitledTab              "(bez názvu)">
+<!ENTITY  newTab.label             "Nová karta">
+<!ENTITY  newTab.accesskey         "N">
+<!ENTITY  closeTab.label           "Zavrieť kartu">
+<!ENTITY  closeTab.accesskey       "Z">
+<!ENTITY  closeOtherTabs.accesskey "o">
+<!ENTITY  closeOtherTabs.label     "Zavrieť ostatné karty">
+<!ENTITY  reloadAllTabs.label      "Znova načítať obsah všetkých kariet">
+<!ENTITY  reloadAllTabs.accesskey  "a">
+<!ENTITY  reloadTab.label          "Znova načítať obsah karty">
+<!ENTITY  reloadTab.accesskey      "n">
+<!ENTITY  listAllTabs.label        "Zoznam všetkých kariet">

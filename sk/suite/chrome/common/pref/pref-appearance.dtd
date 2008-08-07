@@ -1,0 +1,26 @@
+<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
+<!ENTITY pref.appearance.title "Vzhľad">
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY onStartLegend.label                    "Po spustení &brandShortName; otvoriť">
+<!ENTITY navCheck.label                         "Prehliadač">
+<!ENTITY navCheck.accesskey                     "r">
+<!ENTITY showToolsLegend.label                  "Zobraziť panely s nástrojmi ako">
+<!ENTITY picsNtextRadio.label                   "Ikony a text">
+<!ENTITY picsNtextRadio.accesskey               "I">
+<!ENTITY picsOnlyRadio.label                    "Iba obrázky">
+<!ENTITY picsOnlyRadio.accesskey                "b">
+<!ENTITY textonlyRadio.label                    "Iba text">
+<!ENTITY textonlyRadio.accesskey                "x">
+<!ENTITY showHideTooltips.label                 "Zobrazovať bublinové popisy">
+<!ENTITY showHideTooltips.accesskey             "o">
+
+<!ENTITY pref.locales.title                     "Jazyk používateľského rozhrania">
+<!ENTITY selectLocale.label                     "Vyberte jazyk, v ktorom sa budú zobrazovať dialógové okná, ponuky, panely nástrojov a menovky tlačidiel:">
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLangChange.label              "Zmena nastavenia jazyka sa prejaví po reštartovaní programu &brandShortName;.">
+

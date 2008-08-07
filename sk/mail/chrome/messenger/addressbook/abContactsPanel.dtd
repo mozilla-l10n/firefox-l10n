@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label            "Adresár:">
+<!ENTITY addressbookPicker.accesskey        "A">
+<!ENTITY searchInput.label                  "Hľadať:">
+<!ENTITY searchInput.accesskey              "H">
+<!ENTITY SearchNameOrEmail.label            "Meno alebo e-mail">
+
+<!ENTITY deleteAddrBookCard.label           "Odstrániť">
+<!ENTITY addrBookCardProperties.label       "Vlastnosti">
+<!ENTITY addtoToFieldMenu.label             "Pridať do poľa Komu">
+<!ENTITY addtoCcFieldMenu.label             "Pridať do poľa Kópia">
+<!ENTITY addtoBccFieldMenu.label            "Pridať do poľa Skrytá kópia">
+
+<!ENTITY toButton.label                     "Pridať do Komu:">
+<!ENTITY toButton.accesskey                 "K">
+<!ENTITY ccButton.label                     "Pridať do Kópia:">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "Pridať do Skrytá kópia:">
+<!ENTITY bccButton.accesskey                "S">

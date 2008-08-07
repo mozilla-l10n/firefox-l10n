@@ -1,0 +1,146 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=238
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&OK
+OK=OK
+CANCEL=Zruši
+CANCEL_=Z&ruši
+NEXT_=&Ïalej >
+BACK_=< &Spä
+IGNORE_=&Ignorova
+PROXY_MESSAGE=Nastavenie proxy serveru pre sahovanie zmeníte kliknutím na tlaèítko Pripojenie...
+PROXY_BUTTON=&Pripojenie...
+PROXYSETTINGS=Nastavenie proxy:
+PROXYSETTINGS_=&Nastavenie proxy
+SERVER=Server:
+PORT=Port:
+USERID=Id používate¾a:
+PASSWORD=Heslo:
+SELECTDIRECTORY=Výber adresára
+DIRECTORIES_=&Adresáre:
+DRIVES_=&Disky:
+STATUS=Ostáva:
+FILE=Súbor:
+URL=URL:
+TO=Cie¾:
+ACCEPT_=&SÚHLASÍM
+DECLINE_=&NESÚHLASÍM
+PROGRAMFOLDER_=&Programový prieèinok:
+EXISTINGFOLDERS_=E&xistujúce prieèinky:
+SETUPMESSAGE=Inštalaèný program dokonèil kopírovanie súborov do poèítaèa. Pred použitím programu $ProductNameInternal$ musíte systém Windows reštartova. Vyberte si jednu z nasledovných možností a kliknite na OK pre dokonèenie inštalácie.
+RESTART=Reštartova
+YESRESTART=Áno, chcem teraz reštartova poèítaè.
+NORESTART=Nie, poèítaè reštartujem neskôr.
+ADDITIONALCOMPONENTS_=&Ïalšie komponenty:
+DESCRIPTION=Popis
+TOTALDOWNLOADSIZE=Celková ve¾kos inštalácie:
+SPACEAVAILABLE=Dostupné miesto:
+COMPONENTS_=&Komponenty:
+BROWSEINFO=Vyberte prieèinok pre inštaláciu programu $ProductName$:
+DESTINATIONDIRECTORY=Cie¾ový adresár
+BROWSE_=P&rechádza...
+DOWNLOADSIZE=Celkovo stiahnuté: %u KB
+CURRENTSETTINGS=Aktuálne nastavenie:
+INSTALLFOLDER=...do nasledovného prieèinku:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s a:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Inštalova
+DELETE_=&Vymaza
+CONTINUE_=&Pokraèova
+SKIP_=Presk&oèi
+README=Súbor È&ítaj ma
+PAUSE_=&Pozastavi
+RESUME_=Po&kraèova
+CHECKED=Oznaèené
+UNCHECKED=Neoznaèené
+
+EXTRACTING=Rozbaluje sa...
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Nemožno vytvori dialóg %s.
+ERROR_FAILED=%s zlyhalo.
+ERROR_FILE_NOT_FOUND=Súbor nenájdený: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=Procedúra GetSystemDirectory() zlyhala.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED=Procedúra GetWindowsDirectory() zlyhala.
+DLGQUITTITLE=Ukonèenie inštalaèného programu
+DLGQUITMSG=Inštalácia programu $ProductName$ nie je kompletná. Pokia¾ teraz inštalaèný program ukonèíte, program $ProductName$ sa nenainštaluje. Inštalaèný program je možné spusti neskôr. Naozaj chcete inštaláciu preruši?
+DLG_REBOOT_TITLE=Reštartuje sa Windows
+ERROR_GETPROCADDRESS=Procedúra GetProcAddress() od %s zlyhala.
+ERROR_WRITEPRIVATEPROFILESTRING=Procedúra WritePrivateProfileString() zlyhala pre súbor %s
+MSG_RETRIEVE_CONFIGINI=Èakajte prosím pokia¾ inštalaèný program nenaèíta požadovaný súbor Config.ini z webového serveru...
+ERROR_CREATE_TEMP_DIR=Inštalaèný program nemohol vytvori adresár TEMP: %s
+DLGBROWSETITLE=Výber adresára
+ERROR_DETERMINING_DISK_SPACE=Nemožno zisti dostupné miesto na disku pre: %s
+DLG_DISK_SPACE_CHECK_TITLE=Kontrola miesta na disku
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Inštalaèný program zistil nedostatok miesta na disku %s pre pokraèovanie inštalácie do: %sje požadované: %sDostupné: %sKliknite na Znovu pokia¾ je už k dispozícií dostatok miesta alebo na Zruši pre ukonèenie inštalácie.
+DLG_DISK_SPACE_CHECK_MSG=Inštalaèný program zistil nedostatok miesta na disku %s pre pokraèovanie inštalácie do: %sje požadované: %sDostupné: %sKliknite na OK pre návrat spä a výber iného cie¾ového zariadenia.
+ERROR_CREATE_DIRECTORY=Adresár nemožno vytvori: %sUistite sa, že máte práva na vytvorenie adresára.
+ERROR_MESSAGE_TITLE=Chyba pri inštalácii programu $ProductNameInternal$
+STR_FILE_NUMBER=Poèet súborov:
+STR_FILENAME=Názov súboru:
+MSG_SMARTUPDATE_START=Pripravuje sa inštalácia, èakajte prosím...
+MSG_CONFIGURING=Nastavuje sa %s, èakajte prosím...
+ERROR_XPI_INSTALL=Pri inštalácii nastala chyba
+ERROR_SETUP_REQUIREMENT=$ProductName$ môže pracova len na operaènom systéme Windows95 alebo vyššom! Inštalaèný program sa ukonèuje...
+DLG_EXTRACTING_TITLE=Inštalácia $ProductName$ - Priebeh inštalácie
+STR_PROCESSINGFILE=Pripravuje sa súbor: %s
+STR_INSTALLING=Inštaluje sa: %s
+STR_COPYINGFILE=Kopíruje sa súbor: %s
+MB_WARNING_STR=Varovanie
+MB_MESSAGE_STR=Správa
+MB_ATTENTION_STR=Upozornenie
+MSG_CREATE_DIRECTORY=Nasledujúci adresár neexistuje:%s Chcete ho vytvori?
+STR_CREATE_DIRECTORY=Vytvori adresár?
+ERROR_PROGRAM_FOLDER_NAME=Nesprávny názov programového prieèinka.
+CB_DEFAULT=Pôvodný
+ERROR_DESTINATION_PATH=Zadaná nesprávna cesta.
+STR_SETUP_TYPE=Typ inštalácie:
+STR_SELECTED_COMPONENTS=Vybrané komponenty:
+STR_DESTINATION_DIRECTORY=Cie¾ový adresár:
+STR_PROGRAM_FOLDER=Programový prieèinok:
+STR_DELETING_DESTINATION_DIR=Odstraòuje sa cie¾ový adresár z dôvodu vykonania aktualizácie, èakajte prosím...
+STR_SETUP=Nastavenie
+STR_DOWNLOAD_SITE=Server pre sahovanie:
+STR_SAVE_INSTALLER_FILES=Uloži sahované programy a inštalaèný program do:
+MSG_INIT_SETUP=Inicializuje sa inštalaèný program, èakajte prosím...
+STR_MESSAGEBOX_TITLE=Nastavenie %s
+ERROR_GETVERSION=Procedúra GetVersionEx() zlyhala!
+DLG_USAGE_TITLE=Použitie
+
+STATUS_EXTRACTING=Rozbaluje sa %s
+STATUS_LAUNCHING_SETUP=Spúša sa inštalaèný program...
+ERROR_FILE_WRITE=Nedá sa zapisova do súboru %s
+TITLE=Inštalácia
+ERROR_OUT_OF_MEMORY=Nedostatok pamäti!
+
+ERROR_DLL_LOAD=Nepodarilo sa naèíta %s
+ERROR_STRING_LOAD=Nepodarilo sa naèíta reazec s ID %d
+ERROR_STRING_NULL=Vyskytol sa nulový ukazovate¾.
+ERROR_GLOBALALLOC=Chyba alokácie pamäti.
+MSG_FORCE_QUIT_PROCESS=Inštalaèný program zistil, že program %s (%s) je stále spustený.  Kliknite na OK pre ukonèenie %s a pokraèujte v inštalácii.  Alebo môžete pre ukonèenie programu %s použi Správcu úloh a potom kliknú na OK pre pokraèovanie v inštalácií.
+MSG_FORCE_QUIT_PROCESS_FAILED=Inštalácia sa teraz ukonèí.  Inštalaèný program nemôže pokraèova, pretože %s (%s) je stále spustený. Pokúste sa ruène program %s ukonèi pomocou Správcu úloh a potom spustite inštalaèný program znovu.
+ERROR_PATH_WITHIN_WINDIR=$ProductName$ nemožno nainštalova, pretože ste vybrali adresár v systémovom prieèinku Windows a nebude pokraèova v inštalácií. Vyberte prosím iný adresár.

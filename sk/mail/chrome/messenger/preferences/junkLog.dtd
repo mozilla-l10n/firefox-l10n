@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Protokol rozpoznávania nevyžiadanej pošty">
+<!ENTITY junkLogInfo.label "Protokol aktivity rozpoznávania nevyžiadanej pošty.">
+<!ENTITY clearLog.label "Vymazať protokol">
+<!ENTITY clearLog.accesskey "V">
+<!ENTITY closeLog.label "Zavrieť">
+<!ENTITY closeLog.accesskey "Z">

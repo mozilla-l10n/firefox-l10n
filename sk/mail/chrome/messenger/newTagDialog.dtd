@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Vytvoriť nový popis">
+<!ENTITY name.label              "Názov popisu:">
+<!ENTITY name.accesskey          "N">

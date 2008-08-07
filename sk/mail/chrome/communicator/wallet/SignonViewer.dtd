@@ -1,0 +1,17 @@
+<!ENTITY windowtitle.label            "Uložené heslá">
+<!ENTITY windowalttitle.label         "Správca formulárov">
+<!ENTITY tab.signonsstored.label      "Uložené heslá">
+<!ENTITY tab.signonsnotstored.label   "Heslá, ktoré sa neukladajú">
+<!ENTITY tab.nopreview.label          "Formuláre bez zobrazovania ukážky">
+<!ENTITY tab.nocapture.label          "Formuláre bez ukladania">
+
+<!ENTITY spiel.signonsstored.label    "Prehliadač uložil prihlasovacie informácie pre nasledujúce serveri:">
+<!ENTITY spiel.signonsnotstored.label "Prehliadač nebude nikdy ukladať prihlasovacie informácie pre nasledujúce serveri:">
+<!ENTITY spiel.nopreview.label        "Prehliadač nebude zobrazovať ukážku predvyplnených formulárov pre nasledujúce serveri:">
+<!ENTITY spiel.nocapture.label        "Prehliadač nebude ponúkať ukladanie dát formulárov z nasledujúcich serverov:">
+
+<!ENTITY treehead.site.label          "Server">
+<!ENTITY treehead.username.label      "Používateľské meno">
+<!ENTITY treehead.password.label      "Heslo">
+<!ENTITY remove.label                 "Odstrániť">
+<!ENTITY removeall.label              "Odstrániť všetky">

@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Kópie a priečinky">
+<!ENTITY sendingPrefix.label "Pri odosielaní správ automaticky:">
+<!ENTITY fccMailFolder.label "Uložiť kópiu do:">
+<!ENTITY fccMailFolder.accesskey "U">
+<!ENTITY fccReplyFollowsParent.label "Umiestniť odpovede v priečinku, v ktorom sa nachádza pôvodná správa">
+<!ENTITY fccReplyFollowsParent.accesskey "m">
+<!ENTITY chooseFolderButton.label "Vybrať priečinok:">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label 'Odoslať Skrytú kópiu (BCC) na tieto adresy:'>
+<!ENTITY bccAddress.accesskey "S">
+<!ENTITY specialFolderTitle.label "Špeciálne priečinky">
+<!ENTITY draftMailFolder.label "Návrhy správ ukladať do:">
+<!ENTITY templateMailFolder.label "Šablóny správ ukladať do:">
+<!ENTITY saveMessageDlg.label "Pri ukladaní správ zobraziť dialógové okno s potvrdením">
+<!ENTITY saveMessageDlg.accesskey "b">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "priečinok &quot;Odoslaná pošta&quot; v účte:">
+<!ENTITY sentFolderOn.accesskey "k">
+<!ENTITY sentInOtherFolder.label "inde:">
+<!ENTITY sentInOtherFolder.accesskey "i">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "priečinok &quot;Návrhy&quot; v účte:">
+<!ENTITY draftsFolderOn.accesskey "v">
+<!ENTITY draftInOtherFolder.label "inde:">
+<!ENTITY draftInOtherFolder.accesskey "d">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "priečinok &quot;Šablóny&quot; v účte:">
+<!ENTITY templatesFolderOn.accesskey "r">
+<!ENTITY templateInOtherFolder.label "inde:">
+<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY specialFoldersTitle.label "Návrhy a šablóny">
+<!ENTITY keepDrafts.label "Návrhy správ ukladať do:">
+<!ENTITY keepTempltes.label "Šablóny správ ukladať do:">

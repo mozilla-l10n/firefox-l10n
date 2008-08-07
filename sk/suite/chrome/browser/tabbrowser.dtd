@@ -1,0 +1,17 @@
+<!ENTITY  untitledTab              "(bez názvu)">
+<!ENTITY  newTab.label             "Nová karta">
+<!ENTITY  newTab.accesskey         "N">
+<!ENTITY  closeTab.label           "Zavrieť kartu">
+<!ENTITY  closeTab.accesskey       "Z">
+<!ENTITY  closeOtherTabs.accesskey "a">
+<!ENTITY  closeOtherTabs.label     "Zavrieť ostatné karty">
+<!ENTITY  reloadAllTabs.label      "Obnoviť všetky karty">
+<!ENTITY  reloadAllTabs.accesskey  "b">
+<!ENTITY  reloadTab.label          "Obnoviť kartu">
+<!ENTITY  reloadTab.accesskey      "O">
+<!ENTITY  bookmarkGroup.label    "Pridať túto skupinu kariet medzi záložky">
+<!ENTITY  bookmarkGroup.accesskey  "P">
+<!ENTITY  closeTabButton.tooltip   "Zavrieť aktuálnu kartu">
+<!ENTITY  newTabButton.tooltip   "Otvoriť novú kartu">
+<!ENTITY  undoCloseTab.label    "Obnoviť zatvorenú kartu">
+<!ENTITY  undoCloseTab.accesskey  "r">

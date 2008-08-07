@@ -1,0 +1,170 @@
+<!ENTITY addons.title                     "Doplnky">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "635">
+<!ENTITY em.height                        "420">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "Získať doplnky">
+<!ENTITY extensions.label                 "Rozšírenia">
+<!ENTITY themes.label                     "Témy">
+<!ENTITY locales.label                    "Jazykové balíky">
+<!ENTITY plugins.label                    "Zásuvné moduly">
+<!ENTITY update.label                     "Aktualizácie">
+<!ENTITY install.label                    "Inštalácie">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "Hľadať aktualizácie">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "H">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Hľadanie aktualizácií doplnkov">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Hľadanie aktualizácií tém">
+<!ENTITY cmd.installLocalFile.label       "Nainštalovať">
+<!ENTITY cmd.installLocalFile.accesskey   "N">
+<!ENTITY cmd.installFileAddon.tooltip     "Nainštaluje doplnky">
+<!ENTITY cmd.installFileTheme.tooltip     "Nainštaluje témy">
+<!ENTITY cmd.installUpdatesAll.label      "Nainštalovať aktualizácie">
+<!ENTITY cmd.installUpdatesAll.accesskey  "N">
+<!ENTITY cmd.installUpdatesAll.tooltip    "Nainštaluje vybrané aktualizácie">
+<!ENTITY cmd.restartApp2.label             "Reštartovať &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey         "R">
+<!ENTITY cmd.restartApp2.tooltip           "Zmeny sa prejavia až po reštarte aplikácie &brandShortName;">
+<!ENTITY cmd.skip.label                   "Preskočiť">
+<!ENTITY cmd.skip.accesskey               "P">
+<!ENTITY cmd.skip.tooltip                 "Preskočiť tieto aktualizácie">
+<!ENTITY cmd.continue.label               "Pokračovať">
+<!ENTITY cmd.continue.accesskey           "k">
+<!ENTITY cmd.continue.tooltip             "Pokračovať v načítavaní aplikácie &brandShortName;">
+
+<!ENTITY cmd.enableAll.label              "Povoliť všetko">
+<!ENTITY cmd.enableAll.accesskey          "v">
+<!ENTITY cmd.enableAll.tooltip            "Povoliť všetky zobrazené doplnky">
+<!ENTITY cmd.disableAll.label             "Zakázať všetko">
+<!ENTITY cmd.disableAll.accesskey         "k">
+<!ENTITY cmd.disableAll.tooltip           "Zakázať všetky zobrazené doplnky">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "Použiť tému">
+<!ENTITY cmd.useTheme.accesskey           "u">
+<!ENTITY cmd.useTheme.tooltip             "Zmení tému vzhľadu aplikácie &brandShortName;">
+<!ENTITY cmd.options.label                "Možnosti">
+<!ENTITY cmd.options.accesskey            "M">
+<!ENTITY cmd.options.tooltip              "Konfigurácia nastavení vybraného rozšírenia">
+<!ENTITY cmd.optionsUnix.label            "Možnosti">
+<!ENTITY cmd.optionsUnix.accesskey        "M">
+<!ENTITY cmd.optionsUnix.tooltip          "Konfigurácia nastavení vybraného rozšírenia">
+<!ENTITY cmd.enable.label                 "Povoliť">
+<!ENTITY cmd.enable.accesskey             "P">
+<!ENTITY cmd.enable.tooltip               "Povoliť tento doplnok po reštarte aplikácie &brandShortName;">
+<!ENTITY cmd.disable.label                "Zakázať">
+<!ENTITY cmd.disable.accesskey            "Z">
+<!ENTITY cmd.disable.tooltip              "Zakázať tento doplnok po reštarte aplikácie &brandShortName;">
+<!ENTITY cmd.uninstall.label              "Odinštalovať">
+<!ENTITY cmd.uninstall2.accesskey         "O">
+<!ENTITY cmd.uninstall2.tooltip           "Odinštalovať tento doplnok po reštarte aplikácie &brandShortName;">
+<!ENTITY cmd.cancelUninstall.label        "Zrušiť odinštalovanie">
+<!ENTITY cmd.cancelUninstall.accesskey    "Z">
+<!ENTITY cmd.cancelUninstall.tooltip      "Zrušiť odinštalovanie tohto doplnku">
+<!ENTITY cmd.cancelInstall.label          "Zrušiť inštaláciu">
+<!ENTITY cmd.cancelInstall.accesskey      "Z">
+<!ENTITY cmd.cancelInstall.tooltip        "Zrušiť inštaláciu tohto doplnku">
+<!ENTITY cmd.cancelUpgrade.label          "Zrušiť aktualizáciu">
+<!ENTITY cmd.cancelUpgrade.accesskey      "Z">
+<!ENTITY cmd.cancelUpgrade.tooltip        "Zrušiť aktualizáciu tohto doplnku">
+<!ENTITY cmd.installUpdate.label          "Nainštalovať aktualizáciu">
+<!ENTITY cmd.installUpdate.accesskey      "I">
+<!ENTITY cmd.installUpdate.tooltip        "Nainštalovať aktualizáciu pre tento doplnok">
+<!ENTITY cmd.showUpdateInfo.label         "Zobraziť informácie">
+<!ENTITY cmd.showUpdateInfo.accesskey     "Z">
+<!ENTITY cmd.showUpdateInfo.tooltip       "Zobrazí ďalšie informácie o týchto aktualizáciách">
+<!ENTITY cmd.hideUpdateInfo.label         "Skryť informácie">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "S">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "Skryje informácie o týchto aktualizáciách">
+<!ENTITY cmd.installSearchResult.label     "Pridať do programu &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "P">
+<!ENTITY cmd.installSearchResult.tooltip   "Prevziať a nainštalovať tento doplnok">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "Zrušiť">
+<!ENTITY cancel.accesskey                 "Z">
+<!ENTITY cancelInstall.label              "Zrušiť">
+<!ENTITY cancelInstall.accesskey          "Z">
+<!ENTITY cancelUpgrade.label              "Zrušiť">
+<!ENTITY cancelUpgrade.accesskey          "Z">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "Navštíviť domovskú stránku">
+<!ENTITY cmd.homepage.accesskey           "N">
+<!ENTITY cmd.about2.label                 "Informácie o doplnku">
+<!ENTITY cmd.about.accesskey              "I">
+<!ENTITY cmd.checkUpdate.label            "Hľadať aktualizácie">
+<!ENTITY cmd.checkUpdate.accesskey        "H">
+
+<!ENTITY cmd.includeUpdate.label          "Pridať aktualizáciu">
+<!ENTITY cmd.includeUpdate.accesskey      "r">
+<!ENTITY includeUpdate.label              "Pridať túto aktualizáciu">
+<!ENTITY includeUpdate.accesskey          "d">
+<!ENTITY includeUpdate.tooltip            "Pridať tento doplnok do inštalácie aktualizácií">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "Neposkytuje zabezpečené aktualizácie.">
+<!ENTITY needsDependencies.label          "Vyžaduje ďalšie doplnky.">
+<!ENTITY blocklisted.label                "Zakázané z dôvodu vašej ochrany.">
+<!ENTITY toBeDisabled.label               "Tento doplnok bude zakázaný po reštarte aplikácie &brandShortName;">
+<!ENTITY toBeEnabled.label                "Tento doplnok bude povolený po reštarte aplikácie &brandShortName;">
+<!ENTITY toBeInstalled.label              "Tento doplnok bude nainštalovaný po reštarte aplikácie &brandShortName;">
+<!ENTITY toBeUninstalled.label            "Tento doplnok bude odinštalovaný po reštarte aplikácie &brandShortName;">
+<!ENTITY toBeUpdated.label                "Tento doplnok bude aktualizovaný po reštarte aplikácie &brandShortName;">
+
+<!ENTITY getExtensions.label              "Získať rozšírenia">
+<!ENTITY getThemes.label                  "Získať témy">
+<!ENTITY getPlugins.label                 "Získať zásuvné moduly">
+
+<!ENTITY searchAddons.label               "Hľadať v doplnkoch">
+<!ENTITY browseAddons.label               "Prehľadávať všetky doplnky">
+<!ENTITY searchFailed.label               "Programu &brandShortName; sa nepodarilo načítať doplnky.">
+<!ENTITY recommendedHeader.label          "Odporúčané">
+<!ENTITY recommendedThrobber.label        "Získavajú sa odporúčané doplnky">
+<!ENTITY searchThrobber.label             "Hľadajú sa doplnky">
+<!ENTITY resetSearch.label                "Vymazať výsledky">
+<!ENTITY noSearchResults.label            "Všetky nájdené doplnky sú už nainštalované alebo nie sú kompatibilné.">
+<!ENTITY noRecommendedResults.label       "Všetky odporúčané doplnky sú už nainštalované alebo nie sú kompatibilné.">
+<!ENTITY emptySearch.label                "Neboli nájdené žiadne doplnky">
+<!ENTITY emptySearch.button               "OK">
+<!ENTITY cancelSearch.button              "Zrušiť">
+<!ENTITY searchFailed.button              "OK">
+<!ENTITY searchResultHomepage.value       "Viac informácií">
+<!ENTITY searchBox.label                  "Hľadať v doplnkoch">
+<!ENTITY recommendedResults.label         "Zobraziť všetky odporúčané doplnky">
+<!ENTITY searchResultConnecting.label     "Pripája sa…">
+<!ENTITY searchResultInstalling.label     "Inštaluje sa…">
+<!ENTITY searchResultFailed.label         "Inštalácia zlyhala">
+<!ENTITY searchResultInstalled.label      "Inštalácia dokončená">
+<!ENTITY addonTypeExtension.label         "Rozšírenie">
+<!ENTITY addonTypeTheme.label             "Téma">
+<!ENTITY missingThumbnail.label           "Bez ukážky">
+
+<!ENTITY previewNoThemeSelected.label     "Žiadna téma nie je vybraná">
+<!ENTITY previewNoPreviewImage.label      "Pre túto tému nie je ukážka dostupná">
+<!ENTITY moreInfo.label                   "Ďalšie informácie">
+<!ENTITY infoNoAddonSelected.label        "Nie je označená žiadna aktualizácia">
+<!ENTITY infoNoUpdateInfo.label           "Pre túto aktualizáciu nie sú dostupné žiadne dodatočné informácie.">
+<!ENTITY infoUpdateInfoError.label        "Pri načítavaní informácií o tejto aktualizácii sa vyskytla chyba.">
+
+<!ENTITY updateSuccess.label              "Aktualizácia úspešne dokončená.">
+<!ENTITY installSuccess.label             "Inštalácia úspešne dokončená.">
+<!ENTITY installSuccessRestart.label      "Inštalácia bude dokončená po reštarte aplikácie.">
+<!ENTITY updateSuccessRestart.label       "Aktualizácia bude dokončená po reštarte aplikácie.">
+<!ENTITY installWaiting.label             "Čakajte…">
+<!ENTITY installIncompatibleUpdate.label  "Kontrola kompatibility…">
+<!ENTITY installFinishing.label           "Inštaluje sa…">
+<!ENTITY installFailure.label             "Inštalácia zlyhala.">
+
+<!ENTITY progressStatus.label             "Kontrola aktualizácií">
+
+<!ENTITY eula.title                       "Licenčná zmluva">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "Prijať a nainštalovať…">

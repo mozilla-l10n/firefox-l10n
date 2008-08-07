@@ -1,0 +1,147 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title                        "Adresár">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newCard.label                                  "Karta Adresára…">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newCard.accesskey                              "K">
+<!ENTITY newListCmd.label                               "Rozosielací zoznam">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newListCmd.accesskey                           "R">
+<!ENTITY newAddressBookCmd.label                        "Adresár">
+<!ENTITY newAddressBookCmd.accesskey                    "A">
+<!ENTITY renameAddressBookCmd.label                     "Premenovať adresár…"> 
+<!ENTITY renameAddressBookCmd.accesskey                 "r">  
+<!ENTITY newLDAPDirectoryCmd.label                      "Priečinok LDAP…">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
+<!ENTITY newIM.label                                    "IM">
+<!ENTITY printCardViewCmd.label                         "Tlačiť kartu…">
+<!ENTITY printCardViewCmd.accesskey                     "T">
+<!ENTITY printPreviewCardViewCmd.label                  "Ukážka pred tlačou karty">
+<!ENTITY printPreviewCardViewCmd.accesskey              "U">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
+<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printAddressBook.label                         "Tlačiť adresár…">
+<!ENTITY printAddressBook.accesskey                     "d">
+<!ENTITY printPreviewAddressBook.label                  "Ukážka pred tlačou adresára">
+<!ENTITY printPreviewAddressBook.accesskey              "e">
+<!ENTITY printSetupCmd.label                            "Nastavenie tlače…">
+<!ENTITY printSetupCmd.accesskey                        "a">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label                              "Odstrániť adresár">
+<!ENTITY deleteCardCmd.label                            "Odstrániť kartu">
+<!ENTITY deleteCardsCmd.label                           "Odstrániť označené karty">
+<!ENTITY deleteListCmd.label                            "Odstrániť zoznam">
+<!ENTITY deleteListsCmd.label                           "Odstrániť označené zoznamy">
+<!ENTITY deleteItemsCmd.label                           "Odstrániť označené položky">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Vymeniť meno a priezvisko">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "m">
+<!ENTITY propertiesCmd.label                            "Vlastnosti…">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY propertiesCmd.accesskey                        "l">
+<!ENTITY propertiesCmd.key                              "i">
+
+<!-- View Menu -->
+<!ENTITY showAbToolbarCmd.label                         "Panel nástrojov Adresár">
+<!ENTITY showAbToolbarCmd.accesskey                     "A">
+
+<!ENTITY showCardPane.label                             "Panel súhrnu karty">
+<!ENTITY showCardPane.accesskey                         "s">
+
+<!ENTITY menu_ShowNameAs.label                          "Meno zobraziť ako">
+<!ENTITY menu_ShowNameAs.accesskey                      "M">
+<!ENTITY firstLastCmd.label                             "Meno priezvisko">
+<!ENTITY firstLastCmd.accesskey                         "M">
+<!ENTITY lastFirstCmd.label                             "Priezvisko, meno">
+<!ENTITY lastFirstCmd.accesskey                         "P">
+<!ENTITY displayNameCmd.label                           "Zobrazované meno">
+<!ENTITY displayNameCmd.accesskey                       "Z">
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label                                "Import…">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "Export…">
+<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY allowOnlineCheck.label                         "Kontrolovať prítomnosť online (AOL)">
+<!ENTITY allowOnlineCheck.accesskey                     "K">
+
+<!ENTITY stopSearchingCmd.label                         ".Zastaviť vyhľadávanie"> 
+
+<!-- Toolbar and Popup items -->  
+<!ENTITY newcardButton.label                            "Nová karta">
+<!ENTITY newcardButton.accesskey                        "k">
+<!ENTITY newlistButton.label                            "Nový zoznam">
+<!ENTITY newlistButton.accesskey                        "z">
+<!ENTITY editButton.label                               "Vlastnosti">
+<!ENTITY editButton.accesskey                           "l">
+<!ENTITY newmsgButton.label                             "Nová správa">
+<!ENTITY newmsgButton.accesskey                         "N">
+<!ENTITY deleteButton.label                             "Odstrániť">
+<!ENTITY deleteButton.accesskey                         "d">  
+<!ENTITY newimButton.label                              "Rýchla správa">  
+<!ENTITY newimButton.accesskey                          "R">  
+<!ENTITY stopButton.label                               ".Zastaviť">  
+<!ENTITY searchButton.label                             ".Hľadať">  
+<!ENTITY showNames.label                                "Zobraziť mená obsahujúce:">  
+
+<!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip                     "Panel Adresár">
+<!ENTITY newcardButton.tooltip                          "Vytvoriť novú kartu">
+<!ENTITY newlistButton.tooltip                          "Vytvoriť nový zoznam">
+<!ENTITY editButton.tooltip                             "Upraviť označenú kartu">
+<!ENTITY newmsgButton.tooltip                           "Odoslať správu">
+<!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať chatovať (Instant message - IM)">
+<!ENTITY deleteButton.tooltip                           "Odstrániť označenú kartu alebo adresár">
+<!ENTITY stopButton.tooltip                             "Zastaviť aktuálny prenos"> 
+<!ENTITY searchButton.tooltip                           "Hľadať v aktuálnom adresári"> 
+<!ENTITY throbber.tooltip                               "Prejsť na domovskú stránku &vendorShortName;">
+<!ENTITY clearButton.tooltip                            "Vymazať vyhľadávanie a zobraziť všetky položky">
+<!ENTITY advancedButton.tooltip                         "Pokročilé hľadanie adresy">
+
+<!-- Status Bar -->
+<!ENTITY statusText.label "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "true">

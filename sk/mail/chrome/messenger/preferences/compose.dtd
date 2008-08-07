@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label                   "Všeobecné">
+<!ENTITY itemAutoComplete.label              "Adresovanie">
+<!ENTITY itemSpellCheck.label                "Pravopis">
+<!ENTITY itemSendFormat.label                "Formát odosielaných správ">
+
+<!ENTITY forwardReply.label                  "Odosielanie správ ďalej">
+<!ENTITY forwardMsg.label                    "Správy odoosielať ďalej:">
+<!ENTITY forwardMsg.accesskey                "S">
+<!ENTITY inline.label                        "V texte">
+<!ENTITY inline.accesskey                    "t">
+<!ENTITY asAttachment.label                  "Ako príloha">
+<!ENTITY asAttachment.accesskey              "A">
+<!ENTITY addExtension.label                  "pridať príponu k názvu súboru">
+<!ENTITY addExtension.accesskey              "r">
+
+<!ENTITY htmlComposeHeader.label             "Správy vo formáte HTML">
+<!ENTITY font.label                          "Písmo:">
+<!ENTITY font.accesskey                      "P">
+<!ENTITY size.label                          "Veľkosť:">
+<!ENTITY size.accesskey                      "e">
+<!ENTITY fontColor.label                     "Farba textu:">
+<!ENTITY fontColor.accesskey                 "F">
+<!ENTITY bgColor.label                       "Farba pozadia:">
+<!ENTITY bgColor.accesskey                   "z">
+<!ENTITY restoreHTMLDefaults.label           "Obnoviť predvolené">
+<!ENTITY restoreHTMLDefaults.accesskey       "O">
+
+<!ENTITY sendingMessagesHeader.label         "Písanie správ">
+<!ENTITY spellCheck.label                    "Kontrolovať pravopis pred odoslaním">
+<!ENTITY spellCheck.accesskey                "K">
+<!ENTITY spellCheckInline.label              "Povoliť kontrolu pravopisu počas písania">
+<!ENTITY spellCheckInline1.accesskey         "o">
+<!ENTITY languagePopup.label                 "Jazyk:">
+<!ENTITY languagePopup.accessKey             "a">
+<!ENTITY downloadDictionaries.label          "Prevziať ďalšie slovníky">
+
+<!ENTITY useMIME.label                       "Pre správy obsahujúce 8-bitové znaky používať MIME kódovanie znakov">
+<!ENTITY useMIME.accesskey                   "M">
+<!ENTITY warnOnSendAccelKey.label            "Žiadať potvrdenie pri odosielaní správy pomocou klávesovej skratky">
+<!ENTITY warnOnSendAccelKey.accesskey        "v">
+<!ENTITY autoSave.label                      "Automaticky ukladať každých">
+<!ENTITY autoSave.accesskey                  "u">
+<!ENTITY autoSaveEnd.label                   "minút">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                    "Zalamovať textové správy po">
+<!ENTITY wrapOutMsg.accesskey                "x">
+<!ENTITY char.label                          "znakoch">
+
+<!ENTITY emailCollectionPicker.label         "Adresy odosielaných e-mailov automaticky pridať do:">
+<!ENTITY emailCollectionPicker.accesskey     "o">
+<!ENTITY addressingTitle.label               "Automatické dokončovanie adries">
+<!ENTITY autocompleteText.label              "Pri určovaní adries správ hľadať zodpovedajúce položky v:">
+<!ENTITY addressingEnable.label              "Lokálne adresáre">
+<!ENTITY addressingEnable.accesskey          "L">
+<!ENTITY directories.label                   "Adresárový server:">
+<!ENTITY directories.accesskey               "A">
+<!ENTITY editDirectories.label               "Upraviť adresáre…">
+<!ENTITY editDirectories.accesskey           "U">
+<!ENTITY matchText.label                     "Ak niečo v lokálnom adresári zodpovedá:">
+<!ENTITY skipDirectory.label                 "Nehľadať v adresári">
+
+<!ENTITY sendOptionsCaption.label            "Nastavenie odosielania a HTML">
+<!ENTITY sendOptionsDescription.label        "Konfigurácia správania formátovania textov">
+<!ENTITY sendOptions.label                   "Nastavenie odosielania…">
+<!ENTITY sendOptions.accesskey               "N">

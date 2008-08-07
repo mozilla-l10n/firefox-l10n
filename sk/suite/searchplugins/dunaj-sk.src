@@ -1,0 +1,31 @@
+# Made by Mozilla.sk (www.mozilla.sk)
+# Dunaj.sk Firefox searchbar plugin by spikee.wz.cz
+
+<search 
+   name="Dunaj"
+   description="Internetový obchod - dunaj.sk"
+   method="GET"
+   action="http://dunaj.sk/default.asp"
+>
+
+<input name="bShowGoodsList" value="True">
+<input name="bShowSearchForm" value="True">
+<input name="sSearchBasic" user>
+<input name="x" value="0">
+<input name="y" value="0">
+<input name="nDepartmentID" value="10000">
+
+<interpret 
+    browserResultType="result" 
+    resultListStart="<!--a-->" 
+    resultListEnd="<!--z-->" 
+    resultItemStart="<!--m-->" 
+    resultItemEnd="<!--n-->"
+>
+</search>
+
+<browser
+   update="http://www.mozilla.sk/wp-content/download/searchplugins/dunaj-sk.src"
+   updateIcon="http://www.mozilla.sk/wp-content/download/searchplugins/dunaj-sk.png"
+   updateCheckDays="3"
+>

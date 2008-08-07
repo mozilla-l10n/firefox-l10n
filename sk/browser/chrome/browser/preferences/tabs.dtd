@@ -1,0 +1,18 @@
+<!ENTITY newPagesIn.label             "Nové stránky sa majú otvárať:">
+<!ENTITY inNewWindow.label            "v novom okne">
+<!ENTITY inNewWindow.accesskey        "o">
+<!ENTITY inNewTab.label               "na novej karte">
+<!ENTITY inNewTab.accesskey           "k">
+
+<!ENTITY warnCloseMultipleTabs.label      "Upozorniť pri zatváraní viacerých kariet">
+<!ENTITY warnCloseMultipleTabs.accesskey  "z">
+
+<!ENTITY warnOpenManyTabs.label           "Upozorniť, ak by otvorenie viacerých kariet spôsobilo spomalenie &brandShortName;u">
+<!ENTITY warnOpenManyTabs.accesskey       "U">
+
+<!ENTITY showTabBar.label             "Vždy zobraziť panel kariet">
+<!ENTITY showTabBar.accesskey         "V">
+
+<!ENTITY switchToNewTabs.label        "Pri otvorení odkazu na novej karte ju preniesť do popredia">
+<!ENTITY switchToNewTabs.accesskey    "r">
+

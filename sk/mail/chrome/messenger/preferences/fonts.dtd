@@ -1,0 +1,77 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "Písma a kódovanie">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY language.label                           "Písma pre:">
+<!ENTITY language.accesskey                       "m">
+
+<!ENTITY typefaces.label                          "Druh písma">
+<!ENTITY sizes.label                              "Veľkosť:">
+<!ENTITY proportionalSize.accesskey               "V">
+<!ENTITY monospaceSize.accesskey                  "e">
+
+<!ENTITY proportional.label                       "S premenlivou šírkou:">
+<!ENTITY proportional.accesskey                   "S">
+
+<!ENTITY serif.label                              "Pätkové (serif):">
+<!ENTITY serif.accesskey                          "t">
+<!ENTITY sans-serif.label                         "Bezpätkové (sans-serif):">
+<!ENTITY sans-serif.accesskey                     "B">
+<!ENTITY monospace.label                          "Pevná šírka:">
+<!ENTITY monospace.accesskey                      "r">
+
+<!ENTITY fontsize.units                           "bodov">
+
+<!ENTITY font.langGroup.latin1                    "Západné">
+<!ENTITY font.langGroup.latin2                    "Stredoeurópske">
+<!ENTITY font.langGroup.japanese                  "Japonské">
+<!ENTITY font.langGroup.trad-chinese              "Tradičné čínske">
+<!ENTITY font.langGroup.simpl-chinese             "Zjednodušené čínske">
+<!ENTITY font.langGroup.trad-chinese-hk           "Tradičné čínske (Hong Kong)">
+<!ENTITY font.langGroup.korean                    "Kórejské">
+<!ENTITY font.langGroup.cyrillic                  "Azbuka">
+<!ENTITY font.langGroup.baltic                    "Pobaltské">
+<!ENTITY font.langGroup.el                        "Grécke">
+<!ENTITY font.langGroup.turkish                   "Turecké">
+<!ENTITY font.langGroup.unicode                   "Iné jazyky">
+<!ENTITY font.langGroup.user-def                  "Vlastné">
+<!ENTITY font.langGroup.thai                      "Thajské">
+<!ENTITY font.langGroup.hebrew                    "Hebrejské">
+<!ENTITY font.langGroup.arabic                    "Arabské">
+<!ENTITY font.langGroup.devanagari                "Devanagari">
+<!ENTITY font.langGroup.tamil                     "Tamilské">
+<!ENTITY font.langGroup.armenian                  "Arménske">
+<!ENTITY font.langGroup.bengali                   "Bengali">
+<!ENTITY font.langGroup.canadian                  "Jednotná kanadština">
+<!ENTITY font.langGroup.ethiopic                  "Ethiopic">
+<!ENTITY font.langGroup.georgian                  "Georgianské">
+<!ENTITY font.langGroup.gujarati                  "Gujarati">
+<!ENTITY font.langGroup.gurmukhi                  "Gurmukhi">
+<!ENTITY font.langGroup.khmer                     "Khmer">
+<!ENTITY font.langGroup.malayalam                 "Malayalam">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Minimálna veľkosť písma:">
+<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.none                             "Žiadne">
+
+<!-- default font type -->
+<!ENTITY useDefaultFontSerif.label                "Pätkové (serif)">
+<!ENTITY useDefaultFontSansSerif.label            "Bezpätkové (sans-serif)">
+
+<!ENTITY newLanguages.label                       "Nové jazyky je možné pridať pomocou panela Jazyky.">
+
+<!ENTITY useDocumentFonts.label                   "Povoliť správam používať iné písma">
+<!ENTITY useDocumentFonts.accesskey               "a">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Odosielaná pošta:">
+<!ENTITY sendDefaultCharset.accesskey     "d">
+<!ENTITY languagesTitle1.label            "Kódovania">
+<!ENTITY composingDescription.label       "Nastaviť predvolené kódovanie pre prichádzajúcu a odosielanú poštu">
+
+<!ENTITY viewDefaultCharsetList.label     "Doručená pošta:">
+<!ENTITY viewDefaultCharsetList.accesskey "u">
+<!ENTITY replyInDefaultCharset2.label     "Ak je to možné, v odpovediach používať predvolené kódovanie">
+<!ENTITY replyInDefaultCharset2.accesskey "n">
