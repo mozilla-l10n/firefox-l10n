@@ -1,0 +1,147 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&OK
+OK=OK
+CANCEL=Peruuta
+CANCEL_=&Peruuta
+NEXT_=&Seuraava >
+BACK_=< &Edellinen
+IGNORE_=&Hylkää
+PROXY_MESSAGE=Aseta yhteyden välityspalvelin napsauttamalla Yhteysasetukset-painiketta. 
+PROXY_BUTTON=&Yhteysasetukset
+PROXYSETTINGS=Välityspalvelimen asetukset:
+PROXYSETTINGS_=&Välityspalvelimen asetukset
+SERVER=Palvelin:
+PORT=Portti:
+USERID=Käyttäjätunnus:
+PASSWORD=Salasana:
+SELECTDIRECTORY=Valitse kansio
+DIRECTORIES_=&Kansiot:
+DRIVES_=Ase&mat:
+STATUS=Aikaa jäljellä:
+FILE=Tiedosto:
+URL=Osoite:
+TO=Kansioon:
+ACCEPT_=&Hyväksy
+DECLINE_=&Älä hyväksy
+PROGRAMFOLDER_=&Ohjelmakansio:
+EXISTINGFOLDERS_=Olemassa ole&vat kansiot:
+SETUPMESSAGE=Asennusohjelma on kopioinut tiedostot tietokoneellesi. Ennen kuin voit käyttää $ProductNameInternal$ia sinun tulee käynnistää Windows tai tietokoneesi uudestaan. Valitse jokin seuraavista vaihtoehdoista ja napsauta OK kun olet valmis.
+RESTART=Käynnistä uudelleen
+YESRESTART=Kyllä, haluan käynnistää tietokoneeni uudelleen nyt.
+NORESTART=Ei, käynnistän tietokoneeni uudelleen myöhemmin.
+ADDITIONALCOMPONENTS_=&Lisäkomponentit:
+DESCRIPTION=Kuvaus
+TOTALDOWNLOADSIZE=Latauksen kokonaiskoko:
+SPACEAVAILABLE=Vapaata tilaa:
+COMPONENTS_=K&omponentit:
+BROWSEINFO=Valitse kansio, johon $ProductName$ asennetaan:
+DESTINATIONDIRECTORY=Asennuskansio
+BROWSE_=&Selaa…
+DOWNLOADSIZE=Latauksen koko: %u kt
+CURRENTSETTINGS=Nykyiset asetukset:
+INSTALLFOLDER=…kansioon:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s sekä
+PRIMCOMPNOOTHERS=%s
+INSTALL_=A&senna
+DELETE_=P&oista
+CONTINUE_=&Jatka
+SKIP_=&Ohita
+README=Lue&minut-tiedosto
+PAUSE_=&Pysäytä
+RESUME_=&Jatka
+CHECKED=Valittu
+UNCHECKED=Ei valittu
+
+EXTRACTING=Puretaan…
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Valikon %s luonti ei onnistunut.
+ERROR_FAILED=%s epäonnistui.
+ERROR_FILE_NOT_FOUND=Tiedostoa %s ei löytynyt
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=GetSystemDirectory() epäonnistui.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =GetWindowsDirectory() epäonnistui.
+DLGQUITTITLE=Lopeta asennus
+DLGQUITMSG=$ProductName$in asennus ei ole vielä valmis. Jos nyt lopetat asennusohjelman $ProductName$ia ei asenneta. Lopetetaanko asennus?
+DLG_REBOOT_TITLE=Käynnistetään Windows uudelleen
+ERROR_GETPROCADDRESS=GetProcAddress() of %s epäonnistui.
+ERROR_WRITEPRIVATEPROFILESTRING=WritePrivateProfileString() tiedostolle %s epäonnistui.
+MSG_RETRIEVE_CONFIGINI=Ole hyvä ja odota kun asennusohjelma hakee asetustiedostonsa verkosta… 
+ERROR_CREATE_TEMP_DIR=Asennusohjelma ei kyennyt luomaan väliaikaiskansiota %s
+DLGBROWSETITLE=Valitse kansio
+ERROR_DETERMINING_DISK_SPACE=Vapaata tilaa ei kyetty lukemaan asemalle: %s
+DLG_DISK_SPACE_CHECK_TITLE=Vapaan tilan tarkistus
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Asennusohjelma on havainnut, että vapaata tilaa %sille ei ole riittävästi kohteessa %s. Tarvitaan %s ja vapaana on %s. Napsauta Yritä uudelleen jos tilaa on vapautettu tai Peruuta jos haluat keskeyttää asennuksen.
+DLG_DISK_SPACE_CHECK_MSG=Asennusohjelma on havainnut, että vapaata tilaa %sille ei ole riittävästi kohteessa %s. Tarvitaan %s ja vapaana on %s. Napsauta OK ja valitse toinen kohdekansio.
+ERROR_CREATE_DIRECTORY=Ei voitu luoda kansiota: %sVarmista, että sinulla on oikeudet luoda kansio.
+ERROR_MESSAGE_TITLE=$ProductNameInternal$ asennusohjelmavirhe
+STR_FILE_NUMBER=Tiedostojen lukumäärä:
+STR_FILENAME=Tiedostonimi:
+MSG_SMARTUPDATE_START=Valmistellaan asennusta. Ole hyvä ja odota…
+MSG_CONFIGURING=Asetetaan %sia. Ole hyvä ja odota…
+ERROR_XPI_INSTALL=Asennuksessa tapahtui virhe
+ERROR_SETUP_REQUIREMENT=$ProductName$ vaatii Windows 95:n tai uudemman version Windowsista. Asennus keskeytetään.
+DLG_EXTRACTING_TITLE=$ProductName$ asennusohjelma - Asennuksen eteneminen
+STR_PROCESSINGFILE=Valmistellaan tiedostoa: %s
+STR_INSTALLING=Asennetaan %s
+STR_COPYINGFILE=Kopioidaan tiedostoa: %s
+MB_WARNING_STR=Varoitus
+MB_MESSAGE_STR=Viesti
+MB_ATTENTION_STR=Huomio
+MSG_CREATE_DIRECTORY=Kansiota %s ei ole olemassa. Luodaanko se?
+STR_CREATE_DIRECTORY=Luodaanko kansio?
+ERROR_PROGRAM_FOLDER_NAME=Syötetty kansion nimi on virheellinen.
+CB_DEFAULT=Oletus
+ERROR_DESTINATION_PATH=Syötetty polku on virheellinen.
+STR_SETUP_TYPE=Asennustyyppi:
+STR_SELECTED_COMPONENTS=Valitut ohjelmakomponentit:
+STR_DESTINATION_DIRECTORY=Kohdekansio:
+STR_PROGRAM_FOLDER=Ohjelmakansio:
+STR_DELETING_DESTINATION_DIR=Poistetaan kohdekansiota, jotta voidaan päivittää. Ole hyvä ja odota…
+STR_SETUP=Asennus
+STR_DOWNLOAD_SITE=Latauspalvelin:
+STR_SAVE_INSTALLER_FILES=Tallenna ladatut ja asennusohjelman tiedostot kansioon:
+MSG_INIT_SETUP=Käynnistetään asennusohjelmaa; ole hyvä ja odota…
+STR_MESSAGEBOX_TITLE=%s asennus
+ERROR_GETVERSION=GetVersionEx() epäonnistui!
+DLG_USAGE_TITLE=Käyttötapa
+
+STATUS_EXTRACTING=Puretaan %s
+STATUS_LAUNCHING_SETUP=Käynnistetään asennusohjelmaa…
+ERROR_FILE_WRITE=Tiedoston %s kirjoitus epäonnistui
+TITLE=Asennus
+ERROR_OUT_OF_MEMORY=Muisti loppu!
+
+ERROR_DLL_LOAD=Lataus epäonnistui: %s
+ERROR_STRING_LOAD=Merkkijonoresurssitunnuksen %d lataus epäonnistui
+ERROR_STRING_NULL=Tyhjä merkkijonovirhe.
+ERROR_GLOBALALLOC=Muistin allokointivirhe.
+MSG_FORCE_QUIT_PROCESS=Asennusohjelma on havainnut, että %s (%s) on käynnissä. Napsauta OK lopettaaksesi %sin ja jatkaaksesi asennusta. Vaihtoehtoisesti lopeta %s Windowsin tehtävienhallinnalla ja napsauta sitten OK jatkaaksesi asennusta.
+MSG_FORCE_QUIT_PROCESS_FAILED=Asennus keskeytetään. Asennusohjelma ei voi jatkaa, koska %s on edelleen käynnissä. Yritä käsin lopettaa %s Windowsin tehtävienhallinnalla ja käynnistä asennusohjelma sitten uudestaan.
+ERROR_PATH_WITHIN_WINDIR=$ProductName$ia ei voi asentaa Windowsin ohjelmakansion alakansioon. Ole hyvä ja valitse toinen kansio.
+

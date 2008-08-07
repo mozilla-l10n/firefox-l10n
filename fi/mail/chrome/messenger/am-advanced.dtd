@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label  "Lähtevän postin palvelimen asetukset">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label  "Lähtevälle postille voidaan määrittää useita palvelimia (SMTP), mutta tätä ei suositella kuin kokeneille käyttäjille. Usean SMTP-palvelimen määrittäminen voi aiheuttaa virheitä lähetettäessä viestejä.">
+
+<!ENTITY smtpListAdd.label   "Lisää…">
+<!ENTITY smtpListAdd.accesskey   "L">
+<!ENTITY smtpListEdit.label  "Muokkaa…">
+<!ENTITY smtpListEdit.accesskey  "M">
+<!ENTITY smtpListDelete.label  "Poista">
+<!ENTITY smtpListDelete.accesskey  "o">
+<!ENTITY smtpListSetDefault.label  "Aseta oletukseksi">
+<!ENTITY smtpListSetDefault.accesskey  "A">
+
+<!ENTITY serverDescription.label  "Kuvaus:">
+<!ENTITY serverName.label  "Palvelin:">
+<!ENTITY serverPort.label  "Portti:">
+<!ENTITY userName.label    "Käyttäjätunnus:">
+<!ENTITY useSecureConnection.label    "Suojattu yhteys:">
+<!ENTITY useSecureAuthentication.label   "Suojattu todennus: ">

@@ -1,0 +1,77 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label          "Etsi kohteesta:">
+<!ENTITY searchHeading.accesskey      "k">
+<!ENTITY searchSubfolders.label       "Etsi alikansioista">
+<!ENTITY searchSubfolders.accesskey   "a">
+<!ENTITY resetButton.label            "Tyhjennä">
+<!ENTITY resetButton.accesskey        "T">
+<!ENTITY optionsButton.label          "Valinnat">
+<!ENTITY closeButton.label            "Sulje">
+<!ENTITY openButton.label             "Avaa">
+<!ENTITY openButton.accesskey         "v">
+<!ENTITY deleteButton.label           "Poista">
+<!ENTITY deleteButton.accesskey       "o">
+<!ENTITY searchDialogTitle.label      "Etsi viesteistä">
+<!ENTITY conditionDesc.label          "Etsi viestejä, joissa:">
+<!ENTITY conditions.label             "Peruste">
+<!ENTITY results.label                "Tulokset">
+<!ENTITY fileHereMenu.label           "Tallenna tänne">
+<!ENTITY fileHereMenu.accesskey       "T">
+<!ENTITY fileButton.label             "Siirrä">
+<!ENTITY fileButton.accesskey         "S">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY goToFolderButton.label       "Avaa viestikansio">
+<!ENTITY goToFolderButton.accesskey   "i">
+<!ENTITY saveAsVFButton.label         "Tallenna hakukansiona">
+<!ENTITY saveAsVFButton.accesskey     "h">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label        "Etsi kohteesta:">
+<!ENTITY abSearchHeading.accesskey    "k">
+<!ENTITY propertiesButton.label       "Ominaisuudet">
+<!ENTITY propertiesButton.accesskey   "O">
+<!ENTITY composeButton.label          "Kirjoita">
+<!ENTITY composeButton.accesskey      "K">
+<!ENTITY abSearchDialogTitle.label    "Etsi osoitekirjasta">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label  "Viestiketju">
+<!ENTITY fromColumn.label  "Lähettäjä">
+<!ENTITY recipientColumn.label  "Vastaanottaja">
+<!ENTITY subjectColumn.label  "Aihe">
+<!ENTITY dateColumn.label  "Päiväys">
+<!ENTITY priorityColumn.label  "Tärkeysaste">
+<!ENTITY tagsColumn.label  "Tunnukset">
+<!ENTITY accountColumn.label  "Tili">
+<!ENTITY statusColumn.label  "Tila">
+<!ENTITY sizeColumn.label  "Koko">
+<!ENTITY junkStatusColumn.label  "Roskapostitila">
+<!ENTITY linesColumn.label  "Rivejä">
+<!ENTITY unreadColumn.label  "Lukematta">
+<!ENTITY totalColumn.label  "Yhteensä">
+<!ENTITY readColumn.label  "Luettu">
+<!ENTITY receivedColumn.label "Vastaanotettu">
+<!ENTITY starredColumn.label "Tähti">
+<!ENTITY locationColumn.label  "Sijainti">
+<!ENTITY idColumn.label  "Saapumisjärjestys">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip  "Valitse näkyvät sarakkeet">
+<!ENTITY threadColumn.tooltip  "Napsauta näyttääksesi viestiketjut">
+<!ENTITY fromColumn.tooltip  "Napsauta järjestääksesi lähettäjän mukaan">
+<!ENTITY recipientColumn.tooltip  "Napsauta järjestääksesi vastaanottajan mukaan">
+<!ENTITY subjectColumn.tooltip  "Napsauta järjestääksesi aiheen mukaan">
+<!ENTITY dateColumn.tooltip  "Napsauta järjestääksesi päiväyksen mukaan">
+<!ENTITY priorityColumn.tooltip  "Napsauta järjestääksesi tärkeysasteen mukaan">
+<!ENTITY tagsColumn.tooltip  "Napsauta järjestääksesi tunnusten mukaan">
+<!ENTITY accountColumn.tooltip  "Napsauta järjestääksesi tilin mukaan">
+<!ENTITY statusColumn.tooltip  "Napsauta järjestääksesi tilan mukaan">
+<!ENTITY sizeColumn.tooltip  "Napsauta järjestääksesi koon mukaan">
+<!ENTITY junkStatusColumn.tooltip  "Napsauta järjestääksesi roskapostitilan mukaan">
+<!ENTITY unreadColumn.tooltip  "Viestiketjun lukematta olevien viestien määrä.">
+<!ENTITY totalColumn.tooltip  "Viestien määrä viestiketjussa">
+<!ENTITY readColumn.tooltip  "Napsauta järjestääksesi luettujen mukaan">
+<!ENTITY receivedColumn.tooltip "Napsauta järjestääksesi vastaanottopäivän mukaan">
+<!ENTITY starredColumn.tooltip  "Napsauta järjestääksesi tähden olemassaolon mukaan">
+<!ENTITY locationColumn.tooltip  "Napsauta järjestääksesi sijainnin mukaan">
+<!ENTITY idColumn.tooltip  "Napsauta järjestääksesi saapumisjärjestyksen mukaan">

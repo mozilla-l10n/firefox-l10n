@@ -1,0 +1,43 @@
+<!ENTITY caption.label          "Avataan #1">
+
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+<!ENTITY intro.label            "Tiedosto &quot;#3&quot; on tyyppiä #2 (#1) ja #4 ei osaa käsitellä tätä tiedostotyyppiä. Tämän tiedoston sijainti on:">
+<!ENTITY intro.noDesc.label     "Tiedosto &quot;#3&quot; on tyyppiä #2 ja #4 ei osaa käsitellä tätä tiedostotyyppiä. Tämän tiedoston sijainti on:">
+
+<!ENTITY intro.attachment.label  "Sivuston mukaan &quot;#3&quot; tulisi käsitellä liitetiedostona. Se on tyyppiä #2 (#1) ja sen sijainti on:">
+<!ENTITY intro.attachment.noDesc.label  "Sivuston mukaan &quot;#3&quot; tulisi käsitellä liitetiedostona. Se on tyyppiä #2 ja sen sijainti on:">
+
+<!ENTITY intro.sniffed.label  "#4 on tunnistanut tiedoston #3 olevan todennäköisesti tyyppiä #2 (#1). Tiedoston sijainti on:">
+<!ENTITY intro.sniffed.noDesc.label  "#4 on tunnistanut tiedoston #3 olevan todennäköisesti tyyppiä #2. Tiedoston sijainti on:">
+
+<!ENTITY prompt.label           "Mitä #1:n tulisi tehdä tälle tiedostolle?">
+
+<!ENTITY alwaysHandle.label      "Toimi aina näin tämän tiedostotyypin kanssa">
+<!ENTITY alwaysHandle.accesskey  "T">
+
+<!ENTITY saveToDisk.label       "Tallenna levylle">
+<!ENTITY saveToDisk.accesskey   "T">
+
+<!ENTITY useSystemDefault.label         "Avaa oletusohjelmalla (#1)">
+<!ENTITY useSystemDefault.noDesc.label  "Avaa oletusohjelmalla">
+<!ENTITY useSystemDefault.accesskey     "a">
+
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+<!ENTITY openUsing.label        "Avaa ohjelmalla:">
+<!ENTITY openUsing.accesskey    "o">
+
+<!ENTITY chooseApp.label        "Valitse…">
+<!ENTITY chooseApp.accesskey    "v">
+
+<!ENTITY chooseAppFilePickerTitle  "Valitse ohjelma">
+
+<!ENTITY badApp                  "Antamaasi ohjelmaa (&quot;#1&quot;) ei löytynyt. Tarkista tiedostonimi tai valitse toinen ohjelma.">
+<!ENTITY badApp.title            "Ohjelmaa ei löytynyt">

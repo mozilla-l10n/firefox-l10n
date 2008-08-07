@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Ryan Flint <rflint@dslr.net>
+  Jeff Walden <jwalden+code@mit.edu>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>&brandFullName;in asetukset</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandFullName;in asetukset</h1>
+<p>Tässä dokumentissa käsitellään &brandFullName;in asetusikkunasta 
+säädettäviä asetuksia.</p>
+
+<div class="contentsBox">Tässä osassa:
+  <ul>
+    <li><a href="#main_options">Yleiset asetukset</a></li>
+    <li><a href="#tabs_options">Välilehtiasetukset</a></li>
+    <li><a href="#content_options">Sisältöasetukset</a></li>
+    <li><a href="#feeds_options">Syötteiden asetukset</a></li>
+    <li><a href="#privacy_options">Tietosuoja-asetukset</a></li>
+    <li><a href="#security_options">Turvallisuusasetukset</a></li>
+    <li><a href="#advanced_options">Lisäasetukset</a></li>
+  </ul>
+</div>
+
+<h2 id="main_options">Yleiset asetukset</h2>
+
+  <h3 id="startup">Käynnistys</h3>
+  <p>Kun &brandShortName; käynnistyy, se oletuksena avaa <a
+    href="glossary.xhtml#home_page">aloitussivusi</a>.  Aloitussivu voi olla esimerkiksi
+    usein vierailtu sivu, hakukone, sähköpostipalvelu tai mitä vain haluat. 
+    Tästä kohdasta voit asettaa, mitä sivuja &brandShortName; avaa
+    käynnistyessään.</p>
+
+    
+  <p><em>Kun &brandShortName; käynnistetään</em><br/>
+    Oletuksena &brandShortName; käynnistyessään avaa aloitussivun, joka näkyy
+    pudotusvalikon alla olevassa tekstikentässä. &brandShortName; voi myös avata
+    käynnistyessään tyhjän sivun, jolloin ei tarvitse odotella sivun latautumista
+    käynnistymisen yhteydessä. Valitse pudotusvalikosta kohta <em>Avaa tyhjä sivu</em> 
+    jos haluat &brandShortName;in avaavan tyhjän sivun käynnistyessään.</p>
+
+  <p>Vaihtoehtoisesti &brandShortName; voi myös avata samat osoitteet, jotka olivat
+    auki kun &brandShortName; suljettiin viimeisen kerran. &brandShortName; avaa 
+    nämä edellisen istunnon osoitteet sulkemistilannetta vastaaviin välilehtiin 
+    ja ikkunoihin. Näin voit jatkaa selaamista kuin et olisi sammuttanutkaan 
+    &brandShortName;ia. Toiminnon avulla voit myös esimerkiksi tallentaa 
+    selaustilanteen järjestelmäpäivityksen ajaksi. Ota istunnon tallennus 
+    käyttöön valitsemalla pudotusvalikosta <em>Avaa viimeisen istunnon ikkunat ja välilehdet</em>.</p>
+
+  <p><em>Aloitussivu</em><br/>
+    Jos &brandShortName; on asetettu avaamaan aloitussivu käynnistyessään,
+    sivun osoite lukee tässä osoitepalkissa. Aloitussivun osoitteen voi 
+    kirjoittaa osoitepalkkiin tai valita sen palkin alla olevien painikkeiden 
+    avulla:</p>
+
+  <ul>
+    <li><em>Käytä avointa sivua</em> asettaa aloitussivuksi avoinna olevan sivun,
+      tai jos sivuja on useita, sivut.</li>
+    <li><em>Käytä kirjanmerkkiä</em> avaa ikkunan, josta voit valita kirjanmerkin
+      aloitussivuksi. Jos valitse kirjanmerkkikansion, kansion kirjanmerkit avautuvat välilehtiin.</li>
+    <li><em>Palauta oletusasetus</em> palauttaa aloitussivuksi &brandShortName;in
+      oletuksen</li>
+  </ul>
+
+  <h3 id="downloads">Lataukset</h3>
+  <p>Tässä yleisten asetusten kohdassa määritellään, kuinka &brandShortName;
+    toimii ladattaessa tiedostoja.</p>
+    
+  <p><em>Latausikkuna on auki ladattaessa tiedostoa</em><br/>
+    Jos tämä asetus on valittu, &brandShortName; avaa <a
+    href="download_manager.xhtml">latausikkunan</a> aina tiedostonlatauksen
+     alkaessa.</p>
+    
+  <p><em>Sulje se, kun kaikki lataukset ovat valmiina</em><br/>
+    Kun tämä asetus on valittuna &brandShortName; sulkee latausikkunan
+    kun kaikki tiedostonlataukset ovat päättyneet.</p>
+      
+  <p><em id="download_folder">Tallenna kansioon</em><br/>
+    Kohta on oletuksena valittu ja oletuskansiona on työpöytä, jotta ladatut 
+    tiedostot löytyisivät helposti ja lataaminen olisi mahdollisimman 
+    vaivatonta. Voit asettaa jonkin muun tallennuskansion valitsemalla 
+    <em>Selaa...</em>.</p>
+      
+  <p><em>Kysy aina tiedoston tallennuskansio</em><br/>
+    Jos tämä asetus on valittu, &brandShortName; kysyy tallennuskansion 
+    jokaiselle ladattavalle tiedostolle.</p>
+
+  
+  <h3 id="system_defaults">Järjestelmän oletukset</h3>
+  <p><em>&brandShortName; tarkistaa käynnistyessään, onko se oletusselain</em><br/>
+    Jos haluat, että &brandShortName; huomauttaa käynnistyessään jos se ei ole 
+    järjestelmän oletusselaimena, valitse tämä asetus. Kun &brandShortName; on 
+    oletusselaimena, HTML-tiedostot ja WWW-osoitteet aukeavat &brandShortName;issa.
+    Napsauttamalla <em>Tarkista heti</em> -painiketta voit tarkistaa, onko 
+    &brandShortName; järjestelmän oletusselain.</p>
+
+
+<h2 id="tabs_options">Välilehtiasetukset</h2>
+<p><em>Uudet sivut avataan:</em><br/>
+  Valinnalla voit kontrolloida, miten &brandShortName; käsittelee toisista ohjelmista tulevia tai verkkosivuilta 
+  valittuja linkkejä, jotka yrittävät avata uutta ikkunaa. Voit asettaa nämä linkit avautumaan <em>uuteen ikkunaan</em> tai 
+  <em>uuteen välilehteen</em> viimeiseksi käytetyssä ikkunassa.</p>
+
+<p><strong>Huom.:</strong> Vaikka linkit on asetettu avautumaan uuteen 
+  välilehteen, &brandShortName; ohittaa tämän asetuksen kun avattavan sivun 
+  ikkunalle on määritelty tietty koko. &brandShortName; tekee näin, koska 
+  jotkin sivut vaativat määrätyn kokoisen ikkunan näkyäkseen oikein.</p>
+
+
+<p><em>Varoita, kun yritän sulkea useita välilehtiä samanaikaisesti</em><br/>
+  &brandShortName; voi varoittaa sinua, kun olet sulkemassa ikkunaa, jossa on
+  useita välilehtiä auki. Näin et vahingossa sulje ikkunaa kun tarkoituksesi
+  oli sulkea vain välilehti. Poista valinta kohdasta, jos et halua tällaista
+  varoitusta.</p>
+
+
+<p><em>Varoita, kun usean välilehden avaaminen voi hidastaa &brandShortName;in 
+  toimintaa</em><br/>
+  &brandShortName; voi varoittaa sinua, kun olet avaamassa niin suurta määrää välilehtiä,
+  että niiden avaaminen hidastaisi merkittävästi tietokoneesi toimintaa pidemmäksi
+  aikaa. Näin et vahingossa hidasta järjestelmäsi toimintaa sivujen latautumisen ajaksi.
+  Poista valinta kohdasta, jos et haluat tällaista varoitusta.</p>
+  
+<p><em>Välilehtipalkki on aina esillä</em><br/>
+  Kun &brandShortName;in ikkunassa on avoinna vain yksi sivu, välilehtipalkki ei 
+  normaalisti ole näkyvissä. Valitse tämä asetus, jos haluat, että välilehtipalkki 
+  on aina näkyvissä.</p>
+
+
+<p><em>Valitse linkistä avattu välilehti</em><br/>
+  Kun napsautat linkkiä hiiren keskimmäisellä painikkeella tai pidät 
+  &accelKey;-näppäintä pohjassa napsauttaessasi linkkiä hiiren vasemmalla 
+  painikkeella, sivu avautuu uuteen välilehteen. Välilehti latautuu oletuksena 
+  taustalle. Jotta se latautuisi näkyviin, se on itse valittava. Valitse asetus
+  jos haluat, että välilehti avautuu automaattisesti näkyviin.</p>
+
+
+<h2 id="content_options">Sisältöasetukset</h2>
+<p><em>Estä ponnahdusikkunat</em><br/>
+  &brandShortName;issa on ponnahdusikkunat oletuksena estetty. Kun poistat rastin
+  valinnasta, ponnahdusikkunoiden avautuminen sallitaan.</p>
+
+<p>Jotkut sivustot tarvitsevat ponnahdusikkunoita toimiakseen oikein. Voit poistaa 
+  eston tällaisilta sivustoilta lisäämällä sivuston osoitteen sallittujen luetteloon. 
+  Lisää sivusto luetteloon napsauttamalla painiketta <em>Poikkeukset...</em>, kirjoita kenttään
+  sivun osoite ja napsauta <em>Salli</em>. Poista sivusto listalta valitsemalla se ja napsauttamalla 
+  <em>Poista sivusto</em>. Tyhjennä koko luettelo valitsemalla <em>Poista kaikki sivustot</em>.</p>
+
+<p><em>Lataa kuvat automaattisesti</em><br/>
+  Normaalisti kaikki sivulla olevat kuvat ladataan. Poista valinta kohdasta 
+  jos haluat, että kuvia ei ladata.</p>
+
+<p>Riippumatta siitä ladataanko kuvat automaattisesti, voit estää tai sallia 
+  kuvien latausoikeuden määrätyiltä sivustoilta napsauttamalla 
+  <em>Poikkeukset...</em>. Kirjoita osoite, jolta haluat sallia tai estää 
+  kuvien lataamisen, ja napsauta <em>Salli</em> tai <em>Estä</em>.</p>
+
+
+
+
+<p><em>Salli JavaScript-komentosarjat</em><br/>
+  JavaScript on verkkosivuilla käytettävä yksinkertainen komentosarjakieli. 
+  JavaScriptiä käytetään usein esimerkiksi sivujen valikoissa ja painikkeissa. 
+  JavaScriptin estäminen voi haitata joidenkin sivujen toimintaa. JavaScriptin
+  asetuksia voi säätää tarkemmin napsauttamalla 
+  <em>Lisäasetukset...</em>-painiketta.</p>
+
+
+  <h4 id="advanced_javascript">JavaScriptin lisäasetukset</h4>
+  <dl>
+    <dt>Siirtää tai muuttaa ikkunoiden kokoa</dt>
+    <dd>Poista valinta jos et halua, että sivut voivat siirtää selainikkunoita 
+      tai muuttaa niiden kokoa.</dd>
+
+    <dt>Nostaa tai laskea ikkunoita</dt>
+    <dd>Poista valinta jos et halua, että sivut voivat tuoda ikkunoita 
+      päällimmäisiksi tai viedä niitä alemmaksi.</dd>
+
+    <dt>Poistaa tai muuttaa ponnahdusvalikkoa</dt>
+    <dd>Poista valinta jos et halua, että sivut voivat poistaa käytöstä tai 
+      muuttaa &brandShortName;in ponnahdusvalikkoa.</dd>
+
+    <dt>Piilottaa tilarivin</dt>
+    <dd>Poista valinta jos et halua, että sivut voivat piilottaa ikkunan 
+      tilarivin.</dd>
+
+    <dt>Muuttaa ikkunan tilarivin tekstiä</dt>
+    <dd>Poista valinta jos et halua, että sivut voivat näyttää tilarivillä
+      esimerkiksi vieriviä tekstejä tai piilottaa linkkien osoitteet.</dd>
+
+  </dl>
+
+<p><em>Salli Java-sovelmat</em><br/>
+  Java on Internet-sivuilla yleisesti käytetty ohjelmointikieli. Sama
+  Java-sovelma voidaan suorittaa useilla erimallisilla tietokoneilla. Poista
+  valinta kohdasta, jos et halua &brandShortName;in suorittavan Java-sovelmia.
+  Huomaa myös, että Java-liitännäisen täytyy olla asennettuna, jotta
+  Java-sovelmat toimisivat.</p>
+
+
+  <h3 id="fonts_and_colors">Kirjasinlajit ja värit</h3>
+  <p><em>Oletuskirjasinlaji</em> ja <em>koko</em><br/>
+    Verkkosivut yleensä näytetään tässä määriteltyä kirjasinlajia ja kirjasinkokoa
+    käyttäen. Sivut voivat myös ohittaa nämä asetukset jos sitä ei ole erikseen estetty.
+    Voit estää sen ja asettaa muita kirjasinlajiasetuksia napsauttamalla 
+    <em>Lisäasetukset...</em>-painiketta.</p>
+
+    <h4>Kirjasinten lisäasetukset -ikkuna:</h4>
+    <ol>
+      <li>Valitse <em>Merkistö</em>-pudotusvalikosta kielialue tai 
+        kirjoitustapa. Voit esimerkiksi määrittää länsimaisten merkistökoodausten 
+        kirjasimet valitsemalla merkistöksi <em>Länsimainen</em> ja sitten valitsemalla 
+        kirjasinlajit. Jos haluttua kieltä ei löydy listasta, valitse <em>Muut kielet</em>.</li>
+      <li>Valitse haluatko suhteellisen kirjasinlajin olevan pääteviivallisesta 
+       (kuten &quot;Times New Roman&quot;) vai pääteviivattomasta -kirjasinperheestä 
+       (kuten &quot;Arial&quot;) ja määritä suhteellisen tekstin kirjasinten oletuskoko.</li>
+      <li>Valitse se kirjasinlaji, jota haluat käyttää oletuksena pääteviivallisena, 
+       pääteviivattomana ja <code>tasalevyisenä</code> kirjasinlajina.</li>
+    </ol>
+
+    <p>Kirjasinten pienimmän näytöllä näkyvän koon voi määrittää pudotusvalikosta <em>Pienin kirjasinkoko</em>. 
+      Tällöin tekstin koko ei muutu niin pieneksi, ettei sitä voi lukea.</p>
+
+    <p><em>Sivut voivat käyttää omia kirjasinlajejaan oletusten sijaan</em><br/>
+      Oletuksena on, että &brandShortName; käyttää sivun tekijän määrittelemiä 
+      kirjasinlajeja. Kun valitset tämän, kaikilla sivuilla käytetään määrittelemiäsi
+      kirjasinlajeja.</p>
+
+
+    <p><em>Merkistökoodaus</em><br/>
+      Jos sivu ei määritä käytettävää merkistökoodausta, tätä käytetään.</p>
+
+
+    <h4 id="colors_dialog">Väriasetukset</h4>
+    <p><strong>Teksti ja tausta</strong><br/>
+      Jos sivulla ei ole erikseen määritelty tekstin ja taustan värejä, käytetään 
+      tässä valittuja värejä. Napsauta värineliötä ja valitse avautuvasta ikkunasta
+      haluamasi väri.</p>
+
+    <p><em>Käytä järjestelmän värejä</em><br/>
+      Valitse tämä ruutu, kun haluat käyttää tekstissä ja taustassa yllä olevien 
+      värien sijasta käyttöjärjestelmän asetusten värejä.</p>
+
+    <p><strong>Linkkien värit</strong><br/>
+      Jos sivulla ei ole erikseen määritelty sivun linkkien värejä, käytetään tässä 
+      määriteltyjä värejä. Napsauta värineliötä ja valitse avautuvasta ikkunasta haluamasi väri.</p>
+
+    <p><em>Alleviivaa linkit</em><br/>
+      Tätä asetusta noudatetaan, jos sivulla ei ole erikseen määritetty, 
+      alleviivataanko linkit. Oletuksena on, että linkit alleviivataan. Kun poistat 
+      valinnan ruudusta, linkkejä ei alleviivata.</p>
+
+    <p><em>Sivut voivat käyttää omia värejään oletusten sijaan</em><br/>
+      Oletuksena on, että &brandShortName; käyttää sivun tekijän määrittelemiä 
+      värejä. Kun valitset tämän, kaikilla sivuilla käytetään määrittelemiäsi 
+      värejä.</p>
+
+
+  <h3 id="file_types">Tiedostotyypit</h3>
+  <p>&brandShortName; tapaa käsitellä eri tiedostotyyppejä voi muuttaa 
+    lataustoimintojen ikkunasta, jonka voi avata napsauttamalla tämän kohdan
+    <em>Muokkaa...</em>-painiketta. Ikkunassa on listattuna tiedostotyyppejä, joita
+    olet ladannut tai joita varten olet asentanut liitännäisen. Kun haluat muuttaa &brandShortName;in
+    toimintoa, valitse tiedostotyyppi ja napsauta painiketta <em>Muuta toimintoa...</em>.</p>
+
+  <p>Muuta toimintoa -ikkunasta voit määrittää ohjelman, jolla tiedostotyyppi aina 
+    avautuu, tai voit määrittää, että se tallennetaan aina levylle. Jos esimerkiksi 
+    lataat usein mediatiedostoja, kannattaa ehkä määrittää ne 
+    avautumaan aina mediasoittimessa sen sijaan että toimenpidettä kysyttäisiin 
+    joka tiedoston kohdalla.</p>
+
+
+  <ul>
+    <li><em>Avaa ne oletusohjelmalla:</em><br/>
+      Kun valitset tämän, nämä tiedostot avataan käyttöjärjestelmän kyseiselle 
+      tyypille määräämällä ohjelmalla.</li>
+    <li><em>Avaa ne ohjelmalla:</em><br/>
+      Kun valitset tämän, voit määrittää tiedoston avaamiseen käytettävän ohjelman. 
+      Vaihda-painikkeesta avautuu valikko, josta voit valita käytettävän 
+      ohjelman.</li>
+    <li><em>Tallenna levylle</em><br/>
+      Kun valitset Tallenna levylle, tiedosto tallentuu kiintolevylle. Jos olet 
+      määrittänyt oletustallennuskansion, tiedosto tallentuu siihen automaattisesti. </li>
+
+    <li><em>Käytä liitännäistä:</em><br/>
+      Jos on olemassa liitännäinen, joka avaa tiedoston, sen voi asettaa tästä oletustoiminnoksi tiedostolle.</li>
+  </ul>
+
+
+<h2 id="feeds_options">Syötteiden asetukset</h2>
+<p>Syötteet ovat määrätyllä tavalla muodostettuja yhteenvetotiedostoja sivuston
+  sisällöstä. Syöte voi sisältää esimerkiksi uutissivuston uusimmat uutisotsikot
+  tai verkkopäiväkirjasivun viimeisimmät merkinnät. &brandShortName; osaa näyttää
+  syötteet live-kirjanmerkkeinä tai avata ne toiseen syötteenlukijaohjelmaan tai
+  -verkkopalveluun. Tässä paneelissa on &brandShortName;in syötteitä koskevat 
+  asetukset.</p>
+
+<p><em>Näytä esikatselu ja kysy, mitä syötteenlukijaa käytetään</em><br/>
+  Kun syötteen linkkiä napsautetaan &brandShortName;issa, &brandShortName; avaa
+  oletuksena esikatselun syötteen sisällöstä ja tarjoaa mahdollisuuden avata 
+  syöte paneelissa listattuihin ohjelmiin tai palveluihin.</p>
+
+    
+<p><em>Tilaa syöte ohjelmaan tai palveluun</em><br/>
+  Jos kohta on valittuna, &brandShortName; syötteen esikatselun sijaan avaa sen
+  suoraan tämän kohdan alla valittuun syötteenlukijaan. Voit valita verkkopalvelun
+  suoraan listasta tai minkä tahansa syötteenlukuohjelman koneeltasi napsauttamalla 
+  <em>Valitse ohjelma...</em> -painiketta ja etsimällä avautuvasta ikkunasta haluttu 
+  ohjelma. Tilaa syötteet automaattisesti &brandShortName;in omiksi 
+  live-kirjanmerkeiksi valitsemalla luettelosta <em>Live-kirjanmerkit</em>.</p>
+
+
+
+<h2 id="privacy_options">Tietosuoja-asetukset</h2>
+
+  <h3 id="privacy_history">Historiatiedot</h3>
+  <p><em>Säilytä vieraillut sivut sivuhistoriassa ... päivää</em><br/>
+    Sivuhistoriaan tallentuvat osoitteet sivuista, joilla olet käynyt. Voit määritellä, kuinka 
+    monta päivää sivut säilyvät &brandShortName;in muistissa. Oletus on 9 päivää.</p>
+
+  <p><em>Tallenna lomakkeisiin ja hakupalkkiin kirjoitetut tiedot</em><br/>
+    &brandShortName; tallentaa WWW-lomakkeisiin kirjoittamasi tiedot ja tarjoaa 
+    vaihtoehtoja, kun myöhemmin kirjoitat WWW-lomakkeeseen. Poista valinta, jos 
+    haluat toiminnon pois käytöstä.</p>
+
+
+  <p><em>Pidä listaa ladatuista tiedostoista</em><br/>
+    &brandShortName; listaa ladatut tiedostot latausikkunassa ja kun tämä 
+    asetus on valittuna, tiedot latauksesta säilyvät latausikkunassa kunnes ne 
+    erikseen poistetaan. Avaa latausikkuna valitsemalla <span
+    class="menuPath">Työkalut &gt; Lataukset</span> tai painamalla <span
+    class="noUnix">&accelKey;+<kbd>J</kbd></span><span
+    class="unix">&accelKey;+<kbd>Y</kbd></span>. Muita latausasetuksia voi 
+    muokata <a href="#main_options"><em>Yleisten asetusten</em></a> paneelista.</p>
+
+  <h3 id="privacy_cookies">Evästeet</h3>
+  <p>Eväste on verkkosivun koneellesi luoma tiedosto, johon tallentuu tietoa 
+    esimerkiksi sivustolla tekemistäsi asetuksista. </p>
+
+  <p><em>Sivustot voivat asettaa evästeitä</em><br/>
+    Evästeet sallitaan oletuksena. Jos haluat estää evästeet, poista valinta. 
+    Huomaa, että jotkut sivut eivät toimi kunnolla, ellei evästeitä 
+    sallita.</p>
+
+  <p><em>Säilytä evästeet:</em></p>
+
+  <ul>
+    <li><em>kunnes ne vanhenevat</em><br/>
+      Jos tämä kohta on valittu, evästeet poistetaan kun ne itse ovat 
+      määränneet vanhenevansa. Tämä on oletus.</li>
+
+
+    <li><em>kunnes &brandShortName; suljetaan</em><br/>
+      Jos tämä asetus on valittu, kaikki evästeet poistetaan kun &brandShortName; 
+      käynnistetään uudestaan.</li>
+    <li><em>kysy aina erikseen</em><br/>
+      Jos tämä ruutu on valittu, &brandShortName; kysyy lupaa jokaisen 
+      evästeen asettamiseen.</li>
+
+  </ul>
+
+  <p>Voit sallia tai estää evästeet sivustokohtaisesti napsauttamalla 
+    <em>Poikkeukset...</em>-painiketta ja lisäämällä halutut sivustot listaan.</p>
+
+  <p>Saat näkyviin koneelle tallennetut evästeet, kun napsautat <em>Näytä evästeet</em>.</p>
+
+  <p>Lue lisää evästeistä ja siitä kuinka voit sallia tai estää niiden 
+    asettamisen koneellesi ohjeen kohdasta <a 
+    href="cookies.xhtml">Evästeiden hallinta</a>.</p>
+
+  <h3 id="private_data">Yksityisyystiedot</h3>
+  <p><em>Tyhjennä valitut yksityisyystiedot, aina kun &brandShortName; suljetaan</em><br/>
+    Voit asettaa halutut yksityisyystiedot poistettavaksi aina kun &brandShortName; 
+    suljetaan. Valitse poistettavat yksityisyystiedot napsauttamalla 
+    <em>Asetukset...</em>-painiketta.</p>
+    
+  <p><em>Kysy lupa tietojen poistamiseen</em><br/>
+    Kun asetus on valittu, &brandShortName; varmistaa aina yksityisyystietojen
+    poistamisen.</p>
+
+  
+  <p>Jos haluat välittömästi poistaa tallennetut yksityisyystiedot, napsauta
+    <em>Tyhjennä heti...</em> -painiketta. Yksityisyystiedot voi poistaa myös,
+    joko painamalla &accelKey;+&shiftKey;+<kbd>Del</kbd>, tai valitsemalla 
+    <span class="menuPath">Työkalut &gt; Poista yksityisyystietoja...</span>.</p>
+
+
+<h2 id="security_options">Turvallisuusasetukset</h2>
+<p><em>Varoita, kun lisäosia yritetään asentaa sivustoilta</em><br/>
+  &brandShortName; kysyy aina lupaa ennen kuin se asentaa lisäosia. Kun lisäosaa 
+  asennetaan verkkosivustolta, jolta lisäosia ei aiemmin ole asennettu, &brandShortName; 
+  näyttää varoituspalkin työkalupalkkien alla. Sivustot, joilta lisäosia voi
+  asentaa on erikseen listattu poikkeuslistaan, jota voi muokata napsauttamalla 
+  <em>Poikkeukset...</em>-painiketta. Kirjoita tekstikenttään sivuston osoite ja 
+  valitse <em>Salli</em>. Poista tästä kohdasta valinta, jos et halua 
+  &brandShortName;in varoittavan lisäosien asentamisesta tuntemattomilta sivustoilta.</p>
+
+<p><em>Varoita, kun avattavan sivun epäillään olevan huijausyritys</em><br/>
+  Kun kohta on valittu, &brandShortName; varoittaa käyttäjää sivuista, joita epäillään huijaussivuiksi.
+  Huijaussivut yrittävät saada vierailijaansa paljastamaan itsestään tärkeitä henkilö- tai pankkitietoja.
+  Tällaisia huijauksia kutsutaan usein phishing-huijauksiksi tai tietojen kalasteluksi.</p>
+
+<p><em>Käytä ladattua listaa epäillyistä huijaussivustoista</em><br/>
+  &brandShortName;issa on usein päivitettävä lista epäillyistä sivuista, johon
+  &brandShortName; vertaa avattua sivua, kun tämä asetus on valittu. Tällä tavalla
+  tietoa vierailluista sivuista ei välity kolmannen osapuolen huijaussivujen 
+  tunnistuspalveluihin (kuten seuraavassa kohdassa). Koska verkkohuijauksia 
+  kuitenkin syntyy ja kuolee nopeassa tahdissa, tämän toiminnon tarjoama turvan taso ei ole  
+  yhtä korkea kuin jos jokainen sivu tarkistettaisiin verkossa olevasta tunnistuspalvelusta.</p>
+
+<p><em>Tarkista jokainen vierailtu sivu palvelusta ...</em><br/>
+  &brandShortName; voi tarkistaa jokaisen avatun sivun verkossa olevasta kolmannen 
+  osapuolen ylläpitämästä huijaussivujen tunnistuspalvelusta. Tämän toiminnon 
+  tarjoama turvan taso on suurin mahdollinen, mutta sen käyttäminen välttämättä 
+  paljastaa palveluntarjoajalle verkko-osoitteesi, selaimen version ja mahdollisesti 
+  muita tietoja. Tiedot lähetetään salattuna, joten vain tietojen vastaanottaja voi 
+  lukea ne. Kun tämä asetus valitaan, huijaustentunnistuksen tarjoajan tietosuojakäytäntö 
+  näytetään ja se täytyy hyväksyä, jotta asetus astuu voimaan.</p>
+      
+  <h3 id="security_passwords">Salasanat</h3>
+  <p><em>Tallenna sivustojen salasanat</em><br/>
+    &brandShortName; säilyttää turvallisesti WWW-lomakkeisiin kirjoitetut 
+    salasanat, mikä helpottaa Internet-sivuille kirjautumista. Poista valinta, 
+    jos et halua &brandShortName;in tallentavan salasanoja.</p>
+    
+    <p>Vaikka asetus on valittu, &brandShortName; silti kysyy tallennetaanko
+    sivuston salasanaa jokaisen uuden sivuston kohdalla. Jos valitset 
+    <em>Ei koskaan tälle palvelimelle</em>, sivusto lisätään automaattisesti
+    poikkeuslistalle. Voit poistaa ja lisätä sivustoja poikkeuslistalle napsauttamalla
+    <em>Poikkeukset...</em>-painiketta.</p>
+
+  <p id="set_change_master_password"><em>Käytä pääsalasanaa</em><br/>
+    &brandShortName; voi suojata tärkeät tiedot, kuten salasanasi ja 
+    varmenteesi <a href="glossary.xhtml#master_password">pääsalasanalla</a>.  
+    Pääsalasanan luonnin jälkeen &brandShortName; kysyy sitä kerran istunnossa, 
+    kun sitä tarvitaan. Voit asettaa ja poistaa pääsalasanan valitsemalla tai 
+    poistamalla valinnan tästä asetuksesta ja voit muuttaa pääsalasanaa 
+    napsauttamalla <em>Muuta pääsalasanaa...</em>-painiketta. Jos pääsalasana 
+    on jo asetettu, &brandShortName; kysyy sitä ennen kuin voit poistaa sen 
+    tai muuttaa sitä.</p>
+
+
+  <p><em>Näytä tallennetut salasanat...</em><br/>
+    Voit muuttaa salasanojen asetuksia ja poistaa yksittäisiä salasanoja kohdasta 
+    <em>Näytä tallennetut salasanat</em>.</p>
+  
+  <h3 id="warning_messages">Varoitusviestit</h3>
+  <p>Napsauta kohdan <em>Asetukset...</em>-painiketta valitaksesi selaustilanteet,
+    joissa &brandShortName; näyttää varoituksen.</p>
+    
+    <h4>Turvallisuusvaroitusten ikkuna</h4>
+    <!--XXX massive suck!  do these provide *any* value whatsoever? -->
+    <dl>
+      <dt>Avattaessa salattua sivua</dt>
+      <dd>&brandShortName; näyttää selausvaroituksen siirryttäessä salatulle 
+        sivulle.</dd>
+
+      <dt>Avattaessa heikosti salattua sivua</dt>
+      <dd>&brandShortName; näyttää selausvaroituksen siirryttäessä sivulle,
+        jonka salaus on heikko.</dd>
+
+      <dt>Siirryttäessä salatulta sivulta salaamattomalla sivulle</dt>
+      <dd>&brandShortName; näyttää selausvaroituksen siirryttäessä vahvasti 
+        salatulta sivulta sivulle, jota ei ole salattu.</dd>
+
+
+
+      <dt>Lähetettäessä tietoa salaamatta</dt>
+      <dd>&brandShortName; näyttää selausvaroituksen, kun se on lähettämässä 
+        jotain käyttäjän johonkin lomakkeeseen antamaa tietoa salaamatta.</dd>
+  
+      <dt>Avattaessa salattua sivua, jossa on salaamattomia osia</dt>
+      <dd>&brandShortName; näyttää selausvaroituksen, kun salattuna avattava 
+        sivu sisältääkin tietoa, joka lähetettiin salaamatta. Tarkista sivun
+        identiteetti ennen kuin lähetät sivustolle mitään tietoja.</dd>
+
+
+
+    </dl>
+
+
+<h2 id="advanced_options">Lisäasetukset</h2>
+<p>Lisäasetuspaneelissa on asetuksia, joita useimmat tuskin käyttävät, mutta 
+  ne voivat olla joillekin tarpeellisia, ehkä jopa tärkeitä.</p>
+
+
+  <h3 id="advanced_general">Yleiset-välilehti</h3>
+    <h4 id="accessibility">Esteettömyystoiminnot</h4>
+    <p><em>Liiku sivuilla nuolinäppäimillä</em><br/>
+      Toiselta nimeltään tätä toimintoa kutsutaan selaamiseksi kohdistimella ja 
+      asetuksen myötä näkyvä kohdistin ilmestyy &brandShortName;in selainikkunaan. 
+      Tilan saa päälle tai pois painamalla <kbd>F7</kbd>-näppäintä.</p>
+
+    <p><em>Ala etsiä tekstistä heti kirjoitettaessa</em><br/>
+      Kun toiminto on valittu, &brandShortName; rupeaa välittömästi etsimään sivulta 
+      kirjoitettavaa tekstiä. Ikkunan alareunassa oleva pikahakupalkki aukeaa
+      automaattisesti kun tekstiä ruvetaan kirjoittamaan</p>
+
+
+    <h4 id="browsing">Selaus</h4>
+    <p><em>Vieritä sivua automaattisesti</em><br/>
+      Voit vierittää sivua automaattisella tekstinvierityksellä napsauttamalla 
+      hiiren keskimmäistä painiketta (yleensä hiiren rulla) ja liikuttamalla hiirtä 
+      eteen- tai taaksepäin. Jos toiminto häiritsee, sen voi valita tästä pois 
+      käytöstä.</p>
+
+    <p><em>Vieritä sivua portaattomasti</em><br/>
+      Portaaton tekstinvieritys voi olla hyödyllinen luettaessa pitkiä sivuja.
+      Normaalisti Page Down -näppäin siirtää näkymän yhden sivun alaspäin, mutta 
+      kun valittuna on portaaton vieritys, näkymä siirtyy portaattomasti jolloin 
+      näet paremmin, paljonko sivulla edetään, ja lukemista on helpompi jatkaa 
+      aiemmasta kohdasta.</p>
+
+    <p><em>Oikolue käyttäjän kirjoitukset</em><br/>
+      Kun asetus on valittu, &brandShortName; oikolukee käyttäjän kirjoitukset 
+      ja ehdottaa korjauksia. Oikea oikolukusanasto täytyy olla asennettuna, 
+      jotta oikoluku on mahdollista. Lataa sanasto haluamaasi kieleen <span 
+      class="noMac">napsauttamalla hiiren oikealla painikkeella</span><span 
+      class="mac">painamalla &ctrlKey; ja napsauttamalla</span> mitä tahansa 
+      tekstikenttää, asettamalla ponnahdusvalikosta oikoluku päälle jos se ei jo ole, 
+      ja sitten valitsemalla ponnahdusvalikosta <span class="menuPath">Kielet &gt; Hae sanastoja...</span>.</p>
+
+    <h4 id="languages">Kielet</h4>
+    <p>Sivuista voi olla erikielisiä versioita. Voit asettaa eri kieliversiot 
+      tärkeysjärjestykseen napsauttamalla <em>Valitse...</em> ja järjestämällä 
+      kielet.</p>
+
+    <p><strong>Kieli-ikkuna:</strong><br/>
+      Jos haluat lisätä kielen luetteloon, valitse kieli pudotusvalikosta 
+      <em>Valitse lisättävä kieli...</em> ja napsauta <em>Lisää</em>-painiketta. 
+      Jos haluat poistaa kielen aktiivisten kielten luettelosta, valitse se ja
+      napsauta <em>Poista</em>. Voit muuttaa kielten tärkeysjärjestystä, jotta oikea kieli valittaisiin,
+      kun jokin sivu on saatavilla useammalla valitsemallasi kielellä. Järjestä 
+      kielet painikkeilla <em>Siirrä ylös</em> ja <em>Siirrä alas</em>.</p>
+
+  <h3 id="advanced_network">Verkko-välilehti</h3>
+
+    <h4 id="connection_settings">Yhteysasetukset</h4>
+    <p>Yritykset ja yhteisöt eivät yleensä salli suoraa Internet-yhteyttä 
+      verkostaan. Näin ehkäistään luottamuksellisten tietojen leviäminen 
+      ulkopuolisille. Esto toteutetaan yleensä palomuurilla.
+      Jos käytössä on palomuuri, selain voi joutua välittämään liikenteen 
+      välityspalvelimen kautta. Välityspalvelin estää tietomurrot yrityksen tai 
+      yhteisön sisäiseen tietoverkkoon.</p>
+
+    <h4>Määritä välityspalvelinasetukset</h4>
+    <dl>
+      <dt>Suora yhteys Internetiin</dt>
+      <dd>Tämä on oletusasetus. Valitse tämä jos et halua käyttää
+        välityspalvelimia.</dd>
+
+      <dt>Automaattiset välityspalvelinasetukset</dt>
+      <dd>Jos palveluntarjoajasi välityspalvelin tukee automaattista 
+        välityspalvelimen asetusta, valitse tämä.</dd>
+
+      <dt>Aseta välityspalvelinasetukset käsin</dt>
+      <dd>Käytä tätä, jos välityspalvelimen automaattinen asetus ei onnistu. 
+        Pyydä järjestelmän ylläpitäjältä palveluiden (HTTP, SSL, FTP jne.) 
+        välityspalvelimien nimet ja porttien numerot ja lisää tiedot asianomaisiin 
+        kenttiin.</dd>
+
+      <dt>Nouda välityspalvelinasetukset osoitteesta:</dt>
+      <dd>Jos välityspalvelimella on asetustiedosto, pyydä järjestelmän 
+        ylläpitäjältä sen osoite ja lisää se tähän. Lataa tai päivitä asetukset 
+        napsauttamalla <em>Päivitä</em>.</dd>
+    </dl>
+
+    <h4 id="advanced_cache">Väliaikaistiedostot</h4>
+    <p>Vierailtu sivu tallentuu normaalisti väliaikaistiedostokansioon, jolloin 
+      sitä ei tarvitse ladata uudestaan, kun palaat sille. Tässä voit määritellä, 
+      paljonko levytilaa &brandShortName; käyttää väliaikaistiedostoille. Voit
+      myös tyhjentää välimuistin.</p>
+
+    <p><em>Käytä enintään ... Mt:a levytilaa väliaikaistiedostoille</em><br/>
+      Asettaa väliaikaistiedostojen suurimman mahdollisen viemän tilan 
+      megatavuissa.</p>
+    
+    <p><em>Tyhjennä heti</em><br/>
+      Tyhjentää väliaikaistiedostot välittömästi ja vapauttaa niiden levyltä  
+      viemän tilan.</p>
+
+  <h3 id="advanced_update">Päivitys-välilehti</h3>
+    <p>&brandShortName; voi aika ajoin tarkistaa, onko asennetuille lisäosille 
+      tai &brandShortName;ille itselleen julkaistu päivityksiä.</p>
+
+    <p><em>Hae päivityksiä väliajoin:</em><br/>
+      &brandShortName; hakee oletuksena automaattisesti päivityksiä itseensä,
+      asennettuihin lisäosiin ja hakukoneisiin. Päivitysten haun voi ottaa pois 
+      jokaisesta kohdasta poistamalla valinta asianmukaisesta kohdasta.</p>
+
+
+    <p><em>Kun päivitys &brandShortName;iin löytyy:</em></p>
+
+    <dl>
+      <dt>Kysy, mitä tehdään</dt>
+      <dd>&brandShortName; päivitykset asennetaan tyypillisesti automaattisesti. 
+        Valitsemalla tämän kohdan, voit hallinnoida koska ja miten päivitykset 
+        asennetaan.</dd>
+      <dt>Lataa ja asenna päivitykset automaattisesti</dt>
+      <dd>Kun tämä asetus on valittuna, &brandShortName;in päivitykset ladataan
+        ja asennetaan automaattisesti kun ohjelma käynnistetään seuraavan kerran.
+        Jos kohta <em>Varoita, jos päivitys poistaa käytöstä lisäosia</em> on 
+        valittuna, &brandShortName; varoittaa jos asennettuun epäyhteensopivaan
+        lisäosaan ei löydy päivitystä. Varoituksen yhteydessä on mahdollista 
+        jättää päivitys myöhemmäksi ajankohdaksi, mutta silloin päivityksen
+        korjaukset jäävät saamatta.<br/><br/>
+        Jos kaikki laajennukset ja teemat ovat yhteensopivia päivityksen 
+        kanssa tai ne voidaan päivittää samalla, päivitys asennetaan 
+        automaattisesti. Käynnistettäessä &brandShortName;ia kysytään 
+        tarvittaessa lupa päivittää lisäosat, jotta niitä voidaan 
+        käyttää.</dd>
+    </dl>
+
+    <p><em>Näytä päivityshistoria</em><br/>
+      Tiedot asennetuista päivityksistä tallennetaan automaattisesti. Näitä
+      tietoja voi tarkastella napsauttamalla painiketta.</p>
+
+    <p><strong>Huom:</strong> &brandShortName;in päivitys onnistuu vain
+      <span class="win">järjestelmänvalvojana</span><span class="noWin">pääkäyttäjänä</span>
+      tai sinä käyttäjänä, joka alunperin asensi &brandShortName;in.</p>
+
+
+  <h3 id="advanced_encryption">Salaus-välilehti</h3>
+    
+    <h4 id="protocols">Yhteyskäytännöt</h4>
+    <p><em>Salli SSL 3.0 -turvakäytäntö</em><br/>
+      Jos kohta on valittuna, voit lähettää ja vastaanottaa tietoja käyttäen 
+      SSL3 -turvakäytäntöä (Secured Sockets Layer taso 3). Jos 
+      turvakäytäntöä ei sallita, kaikki Internet-sivut eivät 
+      toimi.</p>
+
+    <p><em>Salli TLS 1.0 -turvakäytäntö</em><br/>
+      Jos kohta on valittuna, voit lähettää ja vastaanottaa tietoja käyttäen 
+      TLS-turvakäytäntöä (Transport Layer Security), joka on ominaisuuksiltaan 
+      SSL3:a vastaava avoin standardi suojatusta yhteyskäytännöstä. Jos 
+      turvakäytäntöä ei sallita, kaikki Internet-sivut eivät toimi</p>
+
+    <h4 id="certificates">Varmenteet</h4>
+    <p>Varmenteiden avulla yhteys <a 
+      href="glossary.xhtml#secure_site">suojattuun sivustoon</a> voidaan salata ja vuorollaan purkaa.</p>
+
+    <p><em>Sivuston vaatiessa varmennetta:</em><br/>
+      Kun sivusto pyytää suojattua yhteyttä, &brandShortName; automaattisesti 
+      valitsee asianmukaisen varmenteen. Jos haluat itse valita käytettävän 
+      varmenteen (jos haluat esimerkiksi valita käytettävän salaustyypin), 
+      valitse kohta <em>Kysy joka kerta</em> jolloin &brandShortName; antaa 
+      sinun valita aina selatessa käytetyt varmenteet.</p>
+
+
+    <p><em>Näytä varmenteet</em><br/>
+      Napsauta <em>Näytä varmenteet</em> tutkiaksesi tallennettuja varmenteita, tuodaksesi uusia 
+      varmenteita, ottaaksesi varmuuskopioita varmenteistasi ja poistaaksesi vanhoja varmenteita.</p>
+
+    <p><em>Sulkulistat</em><br/>
+      &brandShortName; voi tarkistaa varmenteiden kelvollisuuden sulkulistoilta 
+      (lyhenteenä CRL). Voit lisätä tai tutkia olemassa olevia sulkulistoja 
+      napsauttamalla <em>Sulkulistat</em>-painiketta.</p>
+
+
+    <p><em>Kelpuutus</em><br/>
+      OCSP eli yhteydenaikainen varmenteiden tilantarkistusyhteyskäytäntö on tapa
+      tarkistaa varmenteen kelvollisuus jokaisella käyttö- tai näyttökerralla.
+      &brandShortName; ei oletuksena käytä OCSP:tä, mutta jos Internet-liittymäsi 
+      vaatii sen käyttämistä, se otetaan käyttöön täältä.</p>
+
+
+    <p><em>Turvallisuuslaitteet</em><br/>
+      Turvallisuuslaitteet voivat salata ja purkaa verkkoliikennettä ja säilyttää 
+      varmenteita ja salasanoja. Napsauta <em>Turvallisuuslaitteet</em> käyttääksesi
+      jotain toista turvallisuuslaitetta kuin &brandShortName;in 
+      oletusturvalaitetta.</p>
+
+<div class="contentsBox"><em>12. syyskuuta 2005</em></div>
+<p>Tekijänoikeudet &copy; 2003-2007 Mozillan ohjeselainprojektin tekijät.</p>
+
+</body>
+</html>

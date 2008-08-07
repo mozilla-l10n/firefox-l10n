@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label                    "Yleiset">
+<!ENTITY itemAutoComplete.label               "Osoitteisto">
+<!ENTITY itemSpellCheck.label                 "Oikoluku">
+<!ENTITY itemSendFormat.label                 "Lähetysmuoto">
+
+<!ENTITY forwardReply.label                    "Viestien välitys">
+<!ENTITY forwardMsg.label                      "Välitä viestit:">
+<!ENTITY forwardMsg.accesskey                  "V">
+<!ENTITY inline.label                          "Viestirungossa">
+<!ENTITY inline.accesskey                      "i">
+<!ENTITY asAttachment.label                    "Liitteenä">
+<!ENTITY asAttachment.accesskey                "L">
+<!ENTITY addExtension.label                   "lisää tiedostonimeen pääte">
+<!ENTITY addExtension.accesskey               "s">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Kirjasin:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY size.label                           "Koko:">
+<!ENTITY size.accesskey                       "o">
+<!ENTITY fontColor.label                      "Tekstin väri:">
+<!ENTITY fontColor.accesskey                  "s">
+<!ENTITY bgColor.label                        "Taustaväri:">
+<!ENTITY bgColor.accesskey                    "a">
+<!ENTITY restoreHTMLDefaults.label            "Palauta oletukset">
+<!ENTITY restoreHTMLDefaults.accesskey        "P">
+
+<!ENTITY sendingMessagesHeader.label           "Lähtevät viestit">
+<!ENTITY spellCheck.label                      "Oikolue viestit ennen lähettämistä">
+<!ENTITY spellCheck.accesskey                  "O">
+<!ENTITY spellCheckInline.label                "Oikolue teksti kirjoitettaessa">
+<!ENTITY spellCheckInline1.accesskey            "k">
+<!ENTITY languagePopup.label                   "Kieli:">
+<!ENTITY languagePopup.accessKey               "K">
+<!ENTITY downloadDictionaries.label            "Hae sanastoja">
+
+<!ENTITY useMIME.label                         'Käytä "quoted printable" MIME-koodausta viesteissä, jotka sisältävät 8-bittisiä merkkejä'>
+<!ENTITY useMIME.accesskey                     "K">
+<!ENTITY warnOnSendAccelKey.label              "Pyydä vahvistus kun viesti lähetetään pikanäppäimillä">
+<!ENTITY warnOnSendAccelKey.accesskey          "y">
+<!ENTITY autoSave.label                        "Tallenna viestit automaattisesti">
+<!ENTITY autoSave.accesskey                    "T">
+<!ENTITY autoSaveEnd.label                     "minuutin välein">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                      "Rivitä muotoilemattomat viestit">
+<!ENTITY wrapOutMsg.accesskey                  "R">
+<!ENTITY char.label                            "merkin leveyteen">
+
+<!ENTITY emailCollectionPicker.label            "Lisää lähetettyjen viestien vastaanottajat osoitekirjaan:">
+<!ENTITY emailCollectionPicker.accesskey        "L">
+<!ENTITY addressingTitle.label                  "Osoitteen automaattinen täydennys">
+<!ENTITY autocompleteText.label                 "Kirjoitettaessa vastaanottajia, etsi vastineita kohteesta:">
+<!ENTITY addressingEnable.label                 "Paikalliset osoitekirjat">
+<!ENTITY addressingEnable.accesskey             "P">
+<!ENTITY directories.label                      "Hakemistopalvelin:">
+<!ENTITY directories.accesskey                  "H">
+<!ENTITY editDirectories.label                  "Muokkaa hakemistoja…">
+<!ENTITY editDirectories.accesskey              "M">
+<!ENTITY matchText.label                        "Jos osuma löytyy omasta osoitekirjasta:">
+<!ENTITY skipDirectory.label                    "Älä hae hakemistosta">
+
+<!ENTITY sendOptionsCaption.label               "Lähetys- ja HTML-asetukset">
+<!ENTITY sendOptionsDescription.label           "Muokkaa viestimuodon lähetysasetuksia:">
+<!ENTITY sendOptions.label                      "Lähetysasetukset…">
+<!ENTITY sendOptions.accesskey                  "L">

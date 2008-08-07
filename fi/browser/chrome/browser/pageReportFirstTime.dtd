@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label             "Sivusto yritti avata ponnahdusikkunan, jonka &brandShortName; esti automaattisesti. Huomio-kuvake tilarivillä ilmoittaa tästä.">
+
+<!ENTITY endDescription.label               "Napsauttamalla kuvaketta näet, minkä sivuston ponnahdusikkuna estettiin ja voit halutessasi sallia sivuston ponnahdusikkunat.">
+
+<!ENTITY caption.label                      "Ponnahdusikkunoiden estämisestä">
+
+<!ENTITY done.label  "Valmis">

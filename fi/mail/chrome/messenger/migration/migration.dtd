@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title           "Ohjattu profiilin tuonti">
+
+<!ENTITY importFromWin.label            "Tuo asetukset, tilien asetukset, osoitteisto, viestisuodattimet ja muut tiedot ohjelmasta:">
+<!ENTITY importFromNonWin.label         "Tuo asetukset, tilien asetukset, osoitteisto, viestisuodattimet ja muut tiedot ohjelmasta:">
+
+<!ENTITY importFromNothing.label         "Älä tuo mitään">
+<!ENTITY importFromNothing.accesskey     "Ä">
+<!ENTITY importFromSeamonkey.label       "Netscape 6, 7 tai Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey   "N">
+<!ENTITY importFromNetscape4.label       "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey   "4">
+<!ENTITY importFromOExpress.label        "Outlook Express">
+<!ENTITY importFromOExpress.accesskey    "u">
+<!ENTITY importFromOutlook.label         "Outlook">
+<!ENTITY importFromOutlook.accesskey     "O">
+<!ENTITY importFromEudora.label          "Eudora">
+<!ENTITY importFromEudora.accesskey      "E">
+
+<!ENTITY importSource.title              "Tuo asetukset ja postikansiot ohjelmasta">
+<!ENTITY importItems.title               "Tuotavat tiedot">
+<!ENTITY importItems.label               "Valitse tuotavat tiedot:">
+
+<!ENTITY migrating.title                 "Tuodaan…">
+<!ENTITY migrating.label                 "Seuraavia tietoja tuodaan…">
+
+<!ENTITY selectProfile.title             "Valitse profiili">
+<!ENTITY selectProfile.label             "Seuraavat profiilit voidaan tuoda ohjelmista:">
+
+<!ENTITY done.title                      "Tuonti valmis">
+<!ENTITY done.label                      "Seuraavat tiedot tuotiin:">

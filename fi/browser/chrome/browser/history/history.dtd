@@ -1,0 +1,28 @@
+<!ENTITY find.label                 "Etsi:">
+<!ENTITY find.accesskey             "E">
+<!ENTITY expand.label               "Laajenna">
+<!ENTITY expand.accesskey           "L">
+<!ENTITY collapse.label             "Supista">
+<!ENTITY collapse.accesskey         "S">
+<!ENTITY byDate.label  "Päivä">
+<!ENTITY byDate.accesskey  "ä">
+<!ENTITY bySite.label  "Otsikko">
+<!ENTITY bySite.accesskey  "O">
+<!ENTITY view.label  "Järjestä">
+<!ENTITY view.accesskey  "J">
+<!ENTITY byMostVisited.label  "Käyntien lkm">
+<!ENTITY byMostVisited.accesskey  "K">
+<!ENTITY byLastVisited.label  "Käyntijärjestys">
+<!ENTITY byLastVisited.accesskey  "n">
+<!ENTITY byDayAndSite.label  "Päivä ja palvelin">
+<!ENTITY byDayAndSite.accesskey  "P">
+<!ENTITY openLinkInWindow.label  "Avaa">
+<!ENTITY openLinkInWindow.accesskey  "A">
+<!ENTITY openInNewTab.label  "Avaa uuteen välilehteen">
+<!ENTITY openInNewTab.accesskey  "v">
+<!ENTITY openInNewWindow.label  "Avaa uuteen ikkunaan">
+<!ENTITY openInNewWindow.accesskey  "i">
+<!ENTITY bookmarkLink.label  "Lisää kohde kirjanmerkkeihin…">
+<!ENTITY bookmarkLink.accesskey  "L">
+<!ENTITY copyLink.label  "Kopioi linkin osoite">
+<!ENTITY copyLink.accesskey  "K">

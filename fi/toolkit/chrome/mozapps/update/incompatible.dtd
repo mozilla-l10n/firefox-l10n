@@ -1,0 +1,13 @@
+
+<!ENTITY  incompatible.title         "Epäyhteensopivia lisäosia">
+<!ENTITY  incompatible.intro         "Seuraavat lisäosat eivät ole yhteensopivia päivitetyn &brandShortName;in 
+                                      kanssa ja ne otetaan pois käytöstä päivityksen yhteydessä:">
+<!ENTITY  incompatible.update        "&brandShortName; hakee niihin väliajoin yhteensopivuuspäivityksiä.">
+
+<!ENTITY  incompatible.suffix        "&brandShortName;in päivitykset sisältävät tärkeitä tietoturvaparannuksia. 
+                                      Suosittelemme, että &brandShortName; päivitetään vaikka jotkin asennetut 
+                                      laajennukset ja teemat lakkaisivat toimimasta päivityksen myötä.">
+                                     
+<!ENTITY  closebutton.label          "Sulje">
+                                     
+                                     

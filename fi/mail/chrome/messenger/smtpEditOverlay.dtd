@@ -1,0 +1,25 @@
+<!ENTITY settings.caption  "Asetukset">
+<!ENTITY security.caption  "Turvallisuus ja todennus">
+<!ENTITY serverName.label  "Palvelin:">
+<!ENTITY serverName.accesskey  "P">
+<!ENTITY serverDescription.label  "Kuvaus:">
+<!ENTITY serverDescription.accesskey  "K">
+<!ENTITY serverPort.label  "Portti:">
+<!ENTITY serverPort.accesskey  "o">
+<!ENTITY alwaysUseUsername.label  "Käytä tunnusta ja salasanaa">
+<!ENTITY alwaysUseUsername.accesskey  "K">
+<!ENTITY userName.label  "Käyttäjätunnus:">
+<!ENTITY userName.accesskey  "ä">
+<!ENTITY useSecAuth.label "Käytä suojattua todennusta">
+<!ENTITY useSecAuth.accesskey "y">
+<!ENTITY isSecure.label  "Käytä suojattua yhteyttä:">
+<!ENTITY neverSecure.label  "Ei koskaan">
+<!ENTITY neverSecure.accesskey  "E">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, jos mahdollista">
+<!ENTITY sometimesSTARTTLS.accesskey "j">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP SSL-yhteydellä">
+<!ENTITY alwaysSMTPOverSSL.accesskey "S">
+<!ENTITY smtpEditTitle.label "SMTP-palvelin">
+<!ENTITY serverPortDefault.label "Oletus:">

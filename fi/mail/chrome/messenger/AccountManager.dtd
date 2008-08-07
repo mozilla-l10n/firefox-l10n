@@ -1,0 +1,25 @@
+<!-- extracted from AccountManager.xul -->
+
+<!ENTITY accountManagerTitle.label  "Tilien asetukset">
+
+<!ENTITY addAccountButton.label  "Lisää tili…">
+<!ENTITY addAccountButton.accesskey  "L">
+<!ENTITY setDefaultButton.label  "Aseta oletukseksi">
+<!ENTITY setDefaultButton.accesskey  "o">
+<!ENTITY duplicateButton.label  "Kopioi">
+<!ENTITY removeButton.label  "Poista tili">
+<!ENTITY removeButton.accesskey  "o">
+
+<!ENTITY nameCol.label  "Nimi">
+<!ENTITY duplicate.label  "Kopioi">
+
+<!-- AccountManager.xul -->
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     setting dialog, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit. 1em = the width of the letter 'm' in the selected font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
+<!ENTITY accountManager.size  "width: 64em; height: 47em;">
+<!ENTITY macAccountManager.size  "width: 66em; height: 48.5em;">
+<!ENTITY accountTree.width    "width: 18em;">

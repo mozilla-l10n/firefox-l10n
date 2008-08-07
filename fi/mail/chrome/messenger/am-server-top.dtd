@@ -1,0 +1,96 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label  "Turva-asetukset">
+<!ENTITY serverSettings.label  "Palvelimen asetukset">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label  "POP-sähköpostipalvelin">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label  "IMAP-sähköpostipalvelin">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label  "Keskusteluryhmäpalvelin (NNTP)">
+<!ENTITY webmail.label  "WebMail-tili">
+<!ENTITY serverType.label  "Palvelintyyppi:">
+<!ENTITY serverName.label  "Palvelin:">
+<!ENTITY serverName.accesskey  "P">
+<!ENTITY userName.label  "Käyttäjätunnus:">
+<!ENTITY userName.accesskey  "K">
+<!ENTITY port.label  "Portti:">
+<!ENTITY port.accesskey  "o">
+<!ENTITY serverPortDefault.label  "Oletus:">
+<!ENTITY savePassword.label  "Tallenna salasana">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label  "Hae uusia viestejä">
+<!ENTITY biffStart.accesskey  "H">
+<!ENTITY biffEnd.label  "minuutin välein">
+<!ENTITY isSecure.label  "Käytä suojattua yhteyttä (SSL)">
+<!ENTITY isSecure.accesskey  "ä">
+<!ENTITY socketType.label  "Käytä suojattua yhteyttä:">
+<!ENTITY neverSecure.label  "Ei koskaan">
+<!ENTITY neverSecure.accesskey  "E">
+<!ENTITY sometimesSecure.label  "TLS, jos mahdollista">
+<!ENTITY sometimesSecure.accesskey  "j">
+<!ENTITY alwaysSecure.label  "TLS">
+<!ENTITY alwaysSecure.accesskey  "T">
+<!ENTITY alwaysSSL.label  "SSL">
+<!ENTITY alwaysSSL.accesskey  "S">
+<!ENTITY useSecAuth.label  "Käytä suojattua käyttäjätunnuksen todennusta">
+<!ENTITY useSecAuth.accesskey  "y">
+<!ENTITY leaveOnServer.label  "Jätä viestit palvelimelle">
+<!ENTITY leaveOnServer.accesskey  "J">
+<!ENTITY headersOnly.label  "Nouda vain otsakkeet">
+<!ENTITY headersOnly.accesskey  "o">
+<!ENTITY deleteByAgeFromServer.label  "Poista viestit palvelimelta kun ne ovat">
+<!ENTITY deleteByAgeFromServer.accesskey  "s">
+<!ENTITY daysEnd.label  "päivän ikäisiä">
+<!ENTITY deleteOnServer2.label "Poista viestit palvelimelta, kun ne poistetaan saapuneet-kansiosta">
+<!ENTITY deleteOnServer2.accesskey "a">
+<!ENTITY downloadOnBiff.label  "Nouda uudet viestit automaattisesti">
+<!ENTITY downloadOnBiff.accesskey  "N">
+<!ENTITY hostname.label  "Palvelimen nimi">
+<!ENTITY username.label  "Käyttäjätunnuksesi">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label  "POP-palvelimen tiedot">
+<!ENTITY deleteMessagePrefix.label  "Kun viesti poistetaan:">
+<!ENTITY modelMoveToTrash.label  "Siirrä viesti roskakoriin">
+<!ENTITY modelMoveToTrash.accesskey "i">
+<!ENTITY modelMarkDeleted.label  "Merkitse viesti poistetuksi">
+<!ENTITY modelMarkDeleted.accesskey "p">
+<!ENTITY modelDeleteImmediately.label  "Poista viesti heti">
+<!ENTITY modelDeleteImmediately.accesskey "h">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label  "Lopetettaessa poista poistettavaksi merkityt viestit lopullisesti saapuneet-kansiosta">
+<!ENTITY expungeOnExit.accesskey  "L">
+<!ENTITY emptyTrashOnExit.label  "Tyhjennä roskakori kun ohjelma lopetetaan">
+<!ENTITY emptyTrashOnExit.accesskey  "e">
+<!ENTITY loginAtStartup.label  "Tarkista saapunut posti käynnistyksen yhteydessä">
+<!ENTITY loginAtStartup.accesskey  "T">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label  "Kysy ennen kuin noudetaan yli">
+<!ENTITY maxMessagesStart.accesskey  "K">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label  "viestiä">
+<!ENTITY alwaysAuthenticate.label  "Vaadi todennusta otettaessa yhteyttä tähän palvelimeen">
+<!ENTITY alwaysAuthenticate.accesskey  "V">
+<!ENTITY newsrcFilePath.label  "newsrc-tiedosto:">
+<!ENTITY newsrcFilePath.accesskey  "n">
+<!ENTITY localPath.label  "Paikallinen hakemisto:">
+<!ENTITY localPath.accesskey  "a">
+<!ENTITY abbreviate.label  "Näytä keskusteluryhmien nimet Postikansiot-paneelissa">
+<!ENTITY abbreviateOn.label  "Kokonaisina (esimerkiksi netscape.public.mozilla.mail-news)">
+<!ENTITY abbreviateOff.label  "Lyhennä nimet (esimerkiksi &quot;n.p.m.mail-news&quot;)">
+<!ENTITY advancedButton.label  "Lisäasetukset…">
+<!ENTITY advancedButton.accesskey "L">
+<!ENTITY serverDefaultCharset.label "Oletusmerkistökoodaus:">
+<!ENTITY localFolderPicker.label  "Valitse paikalliskansioiden sijainti">
+<!ENTITY browseFolder.label  "Selaa…">
+<!ENTITY browseFolder.accesskey  "e">
+<!ENTITY newsrcPicker.label  "Valitse newsrc-tiedosto">
+<!ENTITY browseNewsrc.label  "Selaa…">
+<!ENTITY browseNewsrc.accesskey  "S">

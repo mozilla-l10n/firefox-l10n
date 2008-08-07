@@ -1,0 +1,54 @@
+<!ENTITY itemJunk.label          "Roskaposti">
+<!ENTITY itemPhishing.label       "Sähköpostihuijaukset">
+<!ENTITY itemPasswords.label      "Salasanat">
+<!ENTITY itemAntiVirus.label      "Virustorjunta">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Muokkaa alta roskapostisuodattimen oletusasetuksia. Tilikohtaisia asetuksia voi muokata Tilien asetuksista.">
+<!ENTITY manualMark.label "Kun merkitsen viestin roskapostiksi:">
+<!ENTITY manualMark.accesskey "K">
+<!ENTITY manualMarkModeMove.label "Siirrä se tilin roskapostikansioon">
+<!ENTITY manualMarkModeMove.accesskey "S">
+<!ENTITY manualMarkModeDelete.label "Poista se">
+<!ENTITY manualMarkModeDelete.accesskey "P">
+<!ENTITY markAsReadOnSpam.label "Merkitse roskapostiviestit luetuiksi">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableJunkLogging.label "Pidä roskapostilokia">
+<!ENTITY enableJunkLogging.accesskey "P">
+<!ENTITY openJunkLog.label "Näytä loki">
+<!ENTITY openJunkLog.accesskey "N">
+<!ENTITY resetTrainingData.label "Nollaa harjoitustiedot">
+<!ENTITY resetTrainingData.accesskey "N">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro       "&brandShortName; voi yrittää tunnistaa viestejä sähköpostihuijauksiksi tavanomaisia huijaustekniikoita etsien.">
+<!ENTITY enablePhishingDetector1.label    "Näytä varoitus epäillyistä sähköpostihuijauksista">
+<!ENTITY enablePhishingDetector1.accesskey  "N">
+<!ENTITY useDownloadedList.label "Käytä ladattua listaa epäillyistä sähköpostihuijauksista">
+<!ENTITY useDownloadedList.accesskey "K">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro          "&brandShortName; tallentaa sähköpostitilien salasanat, jotta niitä ei tarvitse kirjoittaa joka kerta kun yhteys palvelimeen luodaan.">
+<!ENTITY  encryptEnabled.label         "Salaa tallennetut kirjautumistiedot pääsalasanalla">
+<!ENTITY  encryptEnabled.accesskey     "S">
+<!ENTITY  masterPassword.intro         "Kun pääsalasana on asetettu, sillä suojataan muita salasanoja ja se kysytään tarvittaessa kerran joka istunnossa.">
+<!ENTITY  setMasterPassword.label      "Pääsalasana">
+<!ENTITY  setMasterPassword.accesskey  "A">
+<!ENTITY  removeMasterPassword.label   "Poista pääsalasana…">
+<!ENTITY  removeMasterPassword.accesskey  "o">
+<!ENTITY  editPasswords.label         "Muokkaa tallennettuja salasanoja">
+<!ENTITY  editPasswords.accesskey     "M">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro       "&brandShortName;issä virustorjuntaohjelman voi antaa tarkistaa saapuvat sähköpostiviestit virusten varalta ennen kuin ne tallennetaan tietokoneelle.">
+<!ENTITY antiVirus.label       "Virustorjuntaohjelmat voivat asettaa yksittäiset viestit karanteeniin">
+<!ENTITY antiVirus.accesskey   "V">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "Virustorjunta">
+<!ENTITY paswords.label         "Salasanat">
+<!ENTITY emailScams.label       "Sähköpostihuijaukset">
+<!ENTITY junkMail.label         "Roskaposti">
+<!ENTITY itemIntrusions.label   "Tietoturvakysymykset">
+<!ENTITY itemIntrusionsAndPasswords.label  "Tietoturvakysymykset ja salasanat">
+<!ENTITY itemJunkMail.label     "Roskaposti">

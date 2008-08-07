@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label  "Viestinäkymän asetukset">
+<!ENTITY mailViewHeading.label  "Viestinäkymän nimi:">
+<!ENTITY mailViewHeading.accesskey  "V">
+<!ENTITY searchTermCaption.label  "Kun tämä näkymä on valittu, näytä vain viestit jotka:">
+

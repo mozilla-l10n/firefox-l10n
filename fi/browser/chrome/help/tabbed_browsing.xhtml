@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Selaus välilehdillä</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Selaus välilehdillä</h1>
+
+<p>Välilehdillä selaaminen on toiminto, joka mahdollistaa sivujen avaamisen
+selainikkunan välilehtiin. Välilehtiin voi esimerkiksi avata linkkejä ilman, 
+että ne häiritsevät avoimen sivun lukemista. Välilehtiä ei täydy käyttää, mutta
+niiden avulla selaamisesta voi tulla tehokkaampi ja miellyttävämpi 
+kokemus.</p>
+
+<div class="contentsBox">Tässä osassa:
+  <ul>
+    <li><a href="#creating_loading_tabs">Välilehtien avaaminen ja lataaminen</a></li>
+    <li><a href="#moving_tabs">Ikkunan välilehtien järjestäminen</a></li>
+    <li><a href="#closing_tabs">Välilehtien sulkeminen ja palauttaminen</a></li>
+    <li><a href="#customizing">Välilehdillä selaamisen asetukset</a></li>
+    <li><a href="#tips_tricks">Vinkkejä välilehtien käyttöön</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_loading_tabs">Välilehtien avaaminen ja lataaminen</h2>
+
+  <p>Avaa uusi välilehti näppäinkomennolla &accelKey;+<kbd>T</kbd>, valitsemalla
+     <span class="menuPath">Tiedosto &gt; Uusi välilehti</span> tai 
+     kaksoisnapsauttamalla tyhjää kohtaa välilehtipalkissa.</p>
+
+  <p>Näin voit avata linkin välilehteen:</p>
+
+  <ul>
+    <li>Napsauta linkkiä hiiren keskimmäisellä painikkeella. (Jos hiiresi on 
+	rullahiiri, rulla toimii yleensä keskimmäisenä painikkeena.)</li>
+    <li>Vedä linkki hiirellä tyhjään kohtaan välilehtipalkissa. (Jos vain yksi
+	sivu on avattu, välilehtipalkki voi olla piilossa. Otsikon  <a
+	href="#customizing">Välilehdillä selaamisen asetukset</a> 
+	alta voit lukea kuinka tätä asetusta muutetaan.)</li>
+    <li>Vedä linkki välilehtipalkkiin avataksesi linkin siinä välilehdessä.</li>
+    <li>Napsauta linkkiä <span class="noMac">hiiren oikealla painikkeella</span><span
+	class="mac">painaen samalla &ctrlKey;-näppäintä</span> ja valitse 
+	ponnahdusvalikosta <span class="menuPath">Avaa uuteen välilehteen</span>.</li>
+  </ul>
+
+<p>Avaa osoitepalkkiin kirjoitettu osoite uuteen välilehteen näppäinkomennolla
+&altKey;+&enterKey;.</p>
+
+<h2 id="moving_tabs">Ikkunan välilehtien järjestäminen</h2>
+
+<p>Välilehdet listataan välilehtipalkissa siinä järjestyksessä kun ne avattiin,
+joka ei aina ole paras järjestys. Voit siirtää välilehteä oikealle tai vasemmalle
+ottamalla siitä kiinni hiirellä ja viemällä osoittimen haluttuun kohtaan. Kun 
+siirrät osoitinta, &brandShortName; havainnollistaa välilehden tulevaa sijaintia
+pienellä nuolella. Välilehtiä voi siirrellä myös 
+<a href="shortcuts.xhtml#windows_tabs">näppäinkomennoilla</a>.
+</p>
+
+<h2 id="closing_tabs">Välilehtien sulkeminen ja palauttaminen</h2>
+
+  <p>Sulje aktiivinen välilehti näppäinkomennolla &accelKey;+<kbd>W</kbd>, napsauttamalla välilehden korvakkeen ruksia, 
+napsauttamalla välilehteä hiiren keskimmäisellä painikkeella tai valitsemalla 
+<span class="menuPath">Tiedosto &gt; Sulje välilehti</span>. Sulje kaikki välilehdet
+paitsi aktiivinen välilehti napsauttamalla välilehteä <span class="noMac">hiiren oikealla painikkeella</span>
+<span class="mac">painaen samalla &ctrlKey;-näppäintä</span> ja valitse 
+<span class="menuPath">Sulje muut välilehdet</span>.</p>
+
+<p>&brandShortName; pitää listaa viimeiseksi suljetuista välilehdistä. Voit palauttaa 
+suljetun välilehden valitsemalla sen <span class="menuPath">Sivuhistoria &gt; Suljetut välilehdet</span> 
+-valikosta. Voit palauttaa kaikki muistissa olevat suljetut välilehdet valitsemalla 
+<span class="menuPath">Sivuhistoria &gt; Suljetut välilehdet &gt; 
+Avaa kaikki välilehtiin</span>. Palauta suljettuja välilehtiä painamalla
+&accelKey;+&shiftKey;+<kbd>T</kbd>.</p>
+
+<h2 id="customizing">Välilehdillä selaamisen asetukset</h2>
+  <p>Muokkaa välilehtien asetuksia valitsemalla &pref.menuPath; ja
+<a href="prefs.xhtml#tabs_options"><em>Välilehdet</em>-paneeli</a>.</p>
+
+<h2 id="tips_tricks">Vinkkejä välilehtien käyttöön</h2>
+
+<dl>
+
+  <dt id="bookmarking_tabbed_browsing">Kirjanmerkit ja välilehdillä selaaminen</dt>
+  <dd>Näin luot kirjanmerkit avoimista välilehdistä:</dd>
+  <dd>
+    <ol>
+      <li><span class="noUnix">Paina &accelKey;+&shiftKey;<kbd>D</kbd> tai 
+valitse</span><span class="unix">Valitse</span> <span class="menuPath">Kirjanmerkit
+      &gt; Luo kirjanmerkit välilehdistä</span> luodaksesi kirjanmerkkikansion
+avoimen ikkunan kaikista välilehdistä.</li>
+      <li>Avaa kirjanmerkkikansion kirjanmerkit välilehtiin valitsemalla kansion
+	valikosta <span class="menuPath">Avaa välilehtiin</span>. 
+	Kirjanmerkkikansion kirjanmerkit voi avata välilehtiin myös napsauttamalla
+	kansiota hiiren keskimmäisellä painikkeella. Avautuvat välilehdet korvaavat vanhat, jo avoinna olevat välilehdet.</li>
+    </ol>
+  </dd>
+
+  <dt id="home_page_as_tabs">Avaa useita aloitussivuja välilehtiin</dt>
+  <dd>Sen sijaan, että &brandShortName; avaisi ainoastaan yhden sivun 
+    käynnistyessään, voit asettaa sen avaamaan useita sivuja välilehdille. 
+    Avaa ensin haluamasi sivut välilehtiin ja valitse sitten &pref.menuPath;, 
+    <a href="prefs.xhtml#main_options"><em>Yleiset</em></a>-paneeli ja 
+    kohdasta <em>Käynnistä</em> napsauta <em>Käytä avoimia sivuja</em> 
+    -painiketta. Seuraavan kerran kun käynnistät &brandShortName;in tai 
+    napsautat aloitussivu-painiketta työkalupalkissa, asettamasi aloitussivut aukeavat välilehtiin.</dd>
+
+  <dt>Uusi välilehti -painikkeen lisääminen työkalupalkkiin</dt>
+  <dd>Voit lisätä työkalupalkkiin Uusi välilehti -painikkeen helpottamaan 
+välilehtien avaamista <a 
+href="customization.xhtml#rearranging_toolbar_items">muokkaamalla työkalupalkkia</a>.</dd>
+
+  <dt id="keyboard_shortcuts">Näppäinkomennot</dt>
+  <dd>&brandShortName;issa on monia välilehtiä koskevia näppäinkomentoja. Katso
+koko lista <a href="shortcuts.xhtml#windows_tabs">Näppäinkomennot</a>-sivulta.
+</dd>
+
+</dl>
+
+<div class="contentsBox"><em>12. syyskuuta 2006</em></div>
+<p>Tekijänoikeudet &copy; 2003-2007 Mozillan ohjeselainprojektin tekijät.</p>
+
+</body>
+</html>

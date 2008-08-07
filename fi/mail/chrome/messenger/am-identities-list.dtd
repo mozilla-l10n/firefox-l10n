@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label  "Tähän tiliin liitetyt käyttäjätiedot">
+<!ENTITY identitiesListDesc.label  "Useiden käyttäjätietojen tuki">
+<!ENTITY identitiesListAdd.label   "Lisää…">
+<!ENTITY identitiesListAdd.accesskey   "L">
+<!ENTITY identitiesListEdit.label  "Muokkaa…">
+<!ENTITY identitiesListEdit.accesskey  "M">
+<!ENTITY identitiesListDelete.label  "Poista">
+<!ENTITY identitiesListDelete.accesskey  "o">

@@ -1,0 +1,19 @@
+<!ENTITY about.version                "versio">
+
+<!ENTITY about.copy.beforeLink        "Tekijänoikeudet &copy; 1998-2008 ovat Mozilla-projektin">
+<!ENTITY about.copy.linkTitle         "tekijöiden">
+<!ENTITY about.copy.afterLink         "omaisuutta.">
+
+<!ENTITY about.license.beforeLink     "Lue tuotteen">
+<!ENTITY about.license.linkTitle      "lisenssitiedot.">
+<!ENTITY about.license.afterLink      "">
+
+<!ENTITY about.relnotes.beforeLink    "Lue tämän version">
+<!ENTITY about.relnotes.linkTitle     "julkaisutiedot.">
+<!ENTITY about.relnotes.afterLink     "">
+
+<!ENTITY about.buildconfig.beforeLink "Tarkista tämän version">
+<!ENTITY about.buildconfig.linkTitle  "koostamisasetukset.">
+<!ENTITY about.buildconfig.afterLink  "">
+
+<!ENTITY about.buildIdentifier        "Koosteen tunniste: ">

@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="Esteettömyysasetukset" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Esteettömyysasetukset" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="todentaminen (määritelmä)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="Edellinen sivu" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Ponnahdusikkunoiden esto" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="kirjanmerkki (määritelmä)" nc:link="glossary.xhtml#bookmark"/></li>
+        <li><Description nc:name="Kirjanmerkkipalkki (määritelmä)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="Selaaminen" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="väliaikaistiedostot (määritelmä)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="varmenne (määritelmä)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="Varmenteet" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Varmenteiden sulkulista" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="asiakas (määritelmä)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="Laajennusten asetusten muuttaminen" nc:link="customization.xhtml#add_ons_configuring_extensions"/></li>
+        <li><Description nc:name="eväste (määritelmä)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="kryptografia (määritelmä)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="purkaminen, salauksen (määritelmä)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="digitaalinen tunnus (määritelmä)" nc:link="glossary.xhtml#digital_ID"/></li>
+        <li><Description nc:name="Lisäosien käyttöönotto, poistaminen käytöstä, poistaminen" nc:link="customization.xhtml#add_ons_uninstalling"/></li>
+        <li><Description nc:name="salaaminen (määritelmä)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="Extensible Markup Language (XML) (määritelmä)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="syöte (määritelmä)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="File Transfer Protocol (FTP) (määritelmä)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="FIPS PUBS 140-1 (määritelmä)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="Seuraava sivu" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="palaaminen käydyille sivuille" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Aloitussivupainike" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="Aloitussivu (määritelmä)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="Hypertext Markup Language (HTML) (määritelmä)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="Internet Explorerin suosikkien tuonti" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="Internet (määritelmä)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="Internetin yhteyskäytäntöosoite (määritelmä)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>
+        <li><Description nc:name="Java (määritelmä)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="JavaScript (määritelmä)" nc:link="glossary.xhtml#JavaScript"/></li>
+        <li><Description nc:name="Kielet" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="Live-kirjanmerkki (määritelmä)" nc:link="glossary.xhtml#live_bookmark"/></li>
+        <li><Description nc:name="Osoitepalkki (määritelmä)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="pääsalasana (määritelmä)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="Navigointipalkki (määritelmä)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="Salasanojen hallinta (määritelmä)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="PKCS #11 (määritelmä)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="Liitännäinen (määritelmä)" nc:link="glossary.xhtml#Plugin"/></li>
+        <li><Description nc:name="Liitännäiset" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="salainen avain (määritelmä)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="välityspalvelin (määritelmä)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="äskettäin vieraillut sivut" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Päivitä-painike" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="hakukone (määritelmä)" nc:link="glossary.xhtml#search_engine"/></li>
+        <li><Description nc:name="hakeminen osoitepalkilta" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="hakeminen hakupalkista" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="hakeminen tekstiä maalaamalla" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="suojattu sivusto (määritelmä)" nc:link="glossary.xhtml#secure_site"/></li>
+        <li><Description nc:name="Secure Sockets Layer (SSL) (määritelmä)" nc:link="glossary.xhtml#SSL"/></li>
+        <li><Description nc:name="palvelin (määritelmä)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="Pääsalasanan asettaminen tai muuttaminen" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Ohjelmistopäivitykset" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="Tilarivi (määritelmä)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="Pysäytä-painike" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="Teeman vaihtaminen" nc:link="customization.xhtml#add_ons_switching_themes"/></li>
+        <li><Description nc:name="TLS (määritelmä)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="TCP/IP (Transmission Control Protocol/Internet Protocol) (määritelmä)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="Uniform Resource Locator (URL) (määritelmä)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="Lisäosien päivittäminen" nc:link="customization.xhtml#add_ons_updating"/></li>
+        <li><Description nc:name="Kelpuutus" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="HTML-lähdekoodin näyttäminen" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="www-sivu (määritelmä)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="www-sivusto (määritelmä)" nc:link="glossary.xhtml#web_site"/></li>
+        <li><Description nc:name="World Wide Web (määritelmä)" nc:link="glossary.xhtml#World_Wide_Web"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>

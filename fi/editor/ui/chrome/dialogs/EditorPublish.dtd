@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label          "Julkaise sivu">
+<!ENTITY windowTitleSettings.label  "Julkaisuasetukset">
+
+<!ENTITY publishTab.label          "Julkaise">
+<!ENTITY settingsTab.label         "Asetukset">
+
+<!ENTITY publishButton.label       "Julkaise">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label            "Sivuston nimi:">
+<!ENTITY siteList.accesskey           "S">
+<!ENTITY siteList.tooltip          "Valitse nimi sivustolle, jonka haluat julkaista">
+<!ENTITY newSiteButton.label       "Uusi sivusto">
+<!ENTITY newSiteButton.accesskey      "s">
+<!ENTITY docDirList.label          "Tämän sivun alihakemisto sivustossa:">
+<!ENTITY docDirList.accesskey         "a">
+<!ENTITY docDirList.tooltip           "Valitse tai kirjoita alihakemisto etäpalvelimella">
+<!ENTITY publishImgCheckbox.label  "Sisällytä kuvat ja muut tiedostot">
+<!ENTITY publishImgCheckbox.accesskey "S">
+<!ENTITY publishImgCheckbox.tooltip  "Julkaise kuvat ja muut tiedostot, joihin tällä sivulla viitataan">
+<!ENTITY sameLocationRadio.label   "Käytä samaa sijaintia kuin sivun sijainti">
+<!ENTITY sameLocationRadio.accesskey  "K">
+<!ENTITY sameLocationRadio.tooltip  "Julkaise tiedostot samassa sijainnissa kuin sivu">
+<!ENTITY useSubdirRadio.label      "Käytä tätä sivuston alihakemistoa:">
+<!ENTITY useSubdirRadio.accesskey     "t">
+<!ENTITY useSubdirRadio.tooltip       "Julkaise tiedostot valittuun alihakemistoon palvelimella">
+<!ENTITY otherDirList.tooltip         "Valitse tai kirjoita alihakemisto, johon tiedostot julkaistaan">
+<!ENTITY pageTitle.label           "Sivun otsikko:">
+<!ENTITY pageTitle.accesskey          "S">
+<!ENTITY pageTitle.tooltip         "Kirjoita otsikko, joka näkyy mm. selainikkunan otsikkorivillä ja kirjanmerkeissä">
+<!ENTITY pageTitleExample.label    "esim.: &quot;Oma kotisivuni&quot;">
+<!ENTITY filename.label            "Tiedostonimi:">
+<!ENTITY filename.accesskey           "T">
+<!ENTITY filename.tooltip          "Kirjoita tälle tiedostolle nimi, ja lisää verkkosivuihin ppte &quot;.html&quot;">
+<!ENTITY filenameExample.label     "esim.: &quot;sivuni.html&quot;">
+<!ENTITY relatedDocs.label         "Muita julkaistavia tiedostoja">
+<!ENTITY setDefaultButton.label    "Aseta oletukseksi">
+<!ENTITY setDefaultButton.accesskey   "o">
+<!ENTITY setDefSiteAndDir.label    "Aseta oletussivustoksi ja -hakemistoksi">
+<!ENTITY removeButton.label        "Poista sivusto">
+<!ENTITY removeButton.accesskey       "P">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label    "Julkaisusivustot">
+<!ENTITY serverInfo.label      "Sivuston tiedot">
+<!ENTITY loginInfo.label       "Kirjautumistiedot">
+<!ENTITY siteName.label        "Sivuston nimi:">
+<!ENTITY siteName.accesskey           "v">
+<!ENTITY siteName.tooltip      "Tämän julkaisusivuston yksilöllinen lempinimi (esim. &quot;OmaSivusto&quot;)">
+<!ENTITY siteUrl.label         "Julkaisuosoite (esim.: &quot;ftp://ftp.palveluntarjoaja.com/käyttäjätunnus&quot;):">
+<!ENTITY siteUrl.accesskey            "J">
+<!ENTITY siteUrl.tooltip       "FTP:// tai HTTP:// -osoite, jonka palveluntarjoajasi on antanut">
+<!ENTITY browseUrl.label       "WWW-sivustosi HTTP-osoite (esim.: &quot;http://www.palveluntarjoaja.com/käyttäjätunnus&quot;):">
+<!ENTITY browseUrl.accesskey          "W">
+<!ENTITY browseUrl.tooltip     "Kotihakemistosi HTTP://-osoite (älä laita tiedoston nimeä)">
+<!ENTITY username.label        "Käyttäjätunnus:">
+<!ENTITY username.accesskey           "K">
+<!ENTITY username.tooltip      "Käyttäjätunnus, jolla kirjaudut (esim. palveluntarjoajasi) sivustopalveluun">
+<!ENTITY password.label        "Salasana:">
+<!ENTITY password.accesskey           "S">
+<!ENTITY password.tooltip      "Käyttäjätunnuksesi salasana">
+<!ENTITY savePassword.label    "Tallenna salasana">
+<!ENTITY savePassword.accesskey       "T">
+<!ENTITY savePassword.tooltip  "Jos haluat tallentaa salasanasi turvallisesti salasanojen hallintaan, valitse">

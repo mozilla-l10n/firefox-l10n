@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Toimitustilan ilmoitukset">
+<!ENTITY useGlobalPrefs.label       "Yleiset asetukseni toimitustilan ilmoituksista pätevät tälle tilillä">
+<!ENTITY useGlobalPrefs.accesskey   "Y">
+<!ENTITY useCustomPrefs.label       "Muokkaa toimitustilan ilmoitusten asetuksia tällä tilillä">
+<!ENTITY useCustomPrefs.accesskey   "M">
+<!ENTITY requestAlways.label        "Pyydä toimitustilan ilmoitus aina, kun lähetetään viestejä">
+<!ENTITY requestAlways.accesskey    "P">
+<!ENTITY optionTitle.label          "Pyydä tilailmoitusta vain kun:">
+<!ENTITY requestOnSucess.label      "Toimitus onnistui">
+<!ENTITY requestOnSucess.accesskey  "T">
+<!ENTITY requestOnFailure.label     "Toimitus epäonnistui">
+<!ENTITY requestOnFailure.accesskey "o">
+<!ENTITY requestOnDelay.label       "Toimitus on viivästynyt">
+<!ENTITY requestOnDelay.accesskey   "i">
+<!ENTITY requestNever.label         "Älä koskaan vastaanota ilmoituksia toimitustilasta">
+<!ENTITY requestNever.accesskey     "Ä">

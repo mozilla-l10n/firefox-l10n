@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label  "Tilin lisäasetukset">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label  "IMAP-palvelimen lisäasetukset">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label  "IMAP-palvelinhakemisto:">
+<!ENTITY serverDirectory.accesskey  "I">
+<!ENTITY usingSubscription.label  "Näytä vain tilatut kansiot">
+<!ENTITY usingSubscription.accesskey  "N">
+<!ENTITY dualUseFolders.label  "Palvelin tukee kansioita, joissa on alikansioita ja viestejä">
+<!ENTITY dualUseFolders.accesskey  "P">
+<!ENTITY useIdle.label  "Käytä IDLE-komentoa, jos palvelin tukee sitä">
+<!ENTITY useIdle.accesskey  "K">
+<!ENTITY maximumConnectionsNumber.label  "Suurin sallittu määrä välimuistiin tallennettuja palvelinyhteyksiä">
+<!ENTITY maximumConnectionsNumber.accesskey  "S">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label  "Nämä asetukset määrittävät IMAP-palvelimesi nimiavaruudet">
+<!ENTITY personalNamespace.label  "Käyttäjäkohtainen:">
+<!ENTITY personalNamespace.accesskey  "ä">
+<!ENTITY publicNamespace.label  "Julkinen (yhteiskäytössä):">
+<!ENTITY publicNamespace.accesskey  "u">
+<!ENTITY otherUsersNamespace.label  "Muut käyttäjät:">
+<!ENTITY otherUsersNamespace.accesskey  "M">
+<!ENTITY overrideNamespaces.label  "Palvelin voi korvata nämä nimiavaruudet">
+<!ENTITY overrideNamespaces.accesskey  "a">
+<!ENTITY pop3Desc.label  "Käytä seuraavaa kansiota tämän tilin saapuville sähköposteille:">
+<!ENTITY folderStorage.label  "Mihin saapuvat viestit tallennetaan">
+<!ENTITY globalInbox.label  "Saapuvat viestit yhteiseen saapuneet-kansioon">
+<!ENTITY globalInbox.accesskey  "S">
+<!ENTITY accountDirectory.label  "Saapuvat viestit tämän tilin saapuneet-kansioon">
+<!ENTITY accountDirectory.accesskey  "a">
+<!ENTITY deferToServer.label  "Saapuvat viestit toisen tilin saapuneet-kansioon">
+<!ENTITY deferToServer.accesskey  "p">
+<!ENTITY deferGetNewMail.label  "Nouda tilin viestit samalla kun muidenkin tilien viestit">
+<!ENTITY deferGetNewMail.accesskey  "N">

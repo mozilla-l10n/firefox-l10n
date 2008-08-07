@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title          "Lataustoiminnot">
+<!ENTITY  window.width                          "480">
+<!ENTITY  window.height                         "310">
+
+<!ENTITY  fileTypesDescription.label           "Suorita määrätty toiminto seuraavien tiedostotyyppien kanssa:">
+
+<!ENTITY  fileHandlerColumn.label              "Toiminto">
+<!ENTITY  fileHandlerColumn.accesskey          "T">
+<!ENTITY  fileTypeColumn.label                 "Tiedostotyyppi">
+<!ENTITY  fileTypeColumn.accesskey             "e">
+<!ENTITY  fileMIMETypeColumn.label             "MIME-tyyppi">
+<!ENTITY  fileMIMETypeColumn.accesskey         "M">
+<!ENTITY  fileExtensionColumn.label            "Pääte">
+<!ENTITY  fileExtensionColumn.accesskey        "P">
+
+<!ENTITY  remove.label                         "Poista toiminto">
+<!ENTITY  remove.accesskey                     "o">
+<!ENTITY  edit.label                           "Muuta toimintoa…">
+<!ENTITY  edit.accesskey                       "M">
+
+<!ENTITY  windowClose.key                      "w">
+<!ENTITY  focusSearch1.key                     "f">
+<!ENTITY  focusSearch2.key                     "k">
+
+<!ENTITY  filter.label                         "Etsi:">
+<!ENTITY  filter.accesskey                     "E">
+<!ENTITY  clear.label                          "Tyhjennä">
+<!ENTITY  clear.accesskey                      "T">
+
+<!ENTITY  button.close.label                   "Sulje">
+<!ENTITY  button.close.accesskey               "S">
+

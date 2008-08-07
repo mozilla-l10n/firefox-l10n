@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label  "Tulosta">
+
+<!ENTITY printDialog.title  "Tulosta">
+
+<!ENTITY fpDialog.title  "Tallenna tiedosto">
+
+<!ENTITY fileCheck.label  "Tulosta tiedostoon">
+<!ENTITY propertiesButton.label  "Ominaisuudet…">
+<!ENTITY descText.label  "Tulostimen kuvaus:">
+<!ENTITY printer.label  "Tulostin">
+<!ENTITY printerInput.label  "Tulostin:">
+
+<!ENTITY printrangeGroup.label  "Tulostusalue">
+<!ENTITY allpagesRadio.label  "Kaikki sivut">
+<!ENTITY rangeRadio.label   "Sivut">
+<!ENTITY frompageInput.label   "sivulta">
+<!ENTITY topageInput.label   "sivulle">
+<!ENTITY selectionRadio.label  "Valinta">
+
+<!ENTITY copies.label  "Kopioita">
+<!ENTITY numCopies.label  "Kopioiden määrä:">
+
+<!ENTITY printframeGroup.label  "Tulosta kehykset">
+<!ENTITY aslaidoutRadio.label  "Asettelu kuten ruudulla">
+<!ENTITY selectedframeRadio.label   "Valittu kehys">
+<!ENTITY eachframesepRadio.label   "Jokainen kehys erikseen">
+

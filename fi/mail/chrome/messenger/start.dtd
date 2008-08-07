@@ -1,0 +1,37 @@
+<!ENTITY startpage.welcome  "Tervetuloa &brandFullName;iin!">
+<!ENTITY startpage.intro  "&brandFullName; on tehokas vapaan lähdekoodin sähköposti- ja keskusteluryhmäohjelma.">
+
+<!ENTITY startpage.features  "Ominaisuudet">
+
+<!ENTITY startpage.junkControl  "Oppiva roskapostisuodatin">
+<!ENTITY startpage.rssReader  "RSS-lukija">
+<!ENTITY startpage.globalInbox  "Yhdistetty saapuneet-kansio">
+<!ENTITY startpage.searchFolders  "Tallennetut haut">
+<!ENTITY startpage.messageGroups  "Viestien ryhmittely">
+<!ENTITY startpage.privacyProtect  "Tietoturvallinen">
+
+<!ENTITY startpage.junkControlURL  "http://www.mozilla-world.org/fi/products/thunderbird/junkmail">
+<!ENTITY startpage.rssReaderURL  "http://www.mozilla-world.org/fi/products/thunderbird/rss">
+<!ENTITY startpage.globalInboxURL  "http://www.mozilla-world.org/fi/products/thunderbird/global-inbox">
+<!ENTITY startpage.searchFoldersURL  "http://www.mozilla-world.org/fi/products/thunderbird/search-folders">
+<!ENTITY startpage.messageGroupsURL  "http://www.mozilla-world.org/fi/products/thunderbird/message-grouping">
+<!ENTITY startpage.privacyProtectURL  "http://www.mozilla-world.org/fi/products/thunderbird/privacy-protection">
+
+<!ENTITY startpage.moreInfo  "Lisätietoja">
+
+<!ENTITY startpage.help  "Thunderbirdin sivulta">
+<!ENTITY startpage.helpInfo  "Vastauksia usein kysyttyihin kysymyksiin, vinkkejä ja yleiset käyttöohjeet löydät Mozilla.fi:stä">
+<!ENTITY startpage.helpURL  "http://www.mozilla-world.org/fi/products/thunderbird/support">
+
+<!ENTITY startpage.page  "tuotesivulta">
+<!ENTITY startpage.pageInfo  "Thunderbirdin tuotetiedot Mozilla Europen">
+<!ENTITY startpage.pageURL  "http://www.mozilla-europe.org/fi/products/thunderbird/">
+
+<!ENTITY startpage.extra "<h2>Suomenkielinen oikoluku</h2>
+<p>Thunderbirdille on olemassa epävirallinen suomenkielinen oikoluku, joka 
+käyttää ilmaista <a href='http://users.tkk.fi/~pry/soikko/'>Soikko</a>-oikolukijaa. 
+Lataa ja asenna tarvittavat laajennukset <a 
+href='http://www.mozilla.fi/wiki/Suomen_kielen_oikoluku'>Mozilla.fi</a>:stä.
+</p>">
+
+<!ENTITY startpage.poweredByGecko  "Voimanlähteenä Gecko.">

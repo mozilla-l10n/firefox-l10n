@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title       "Tietoja &brandFullName;ista">
+<!ENTITY copyright               "Tekijät">
+<!ENTITY copyright.accesskey    "T">
+<!ENTITY aboutLink               "&lt; Ohjelmatiedot">
+<!ENTITY aboutLink.accesskey    "O">
+<!ENTITY aboutVersion            "versio">
+<!ENTITY copyrightInfo          "&#169;1998-2008 Tekijät. Kaikki oikeudet pidätetään. Firefox ja
+                                 Firefox-logo ovat Mozilla-säätiön tavaramerkkejä.  Kaikki oikeudet 
+                                 pidätetään.">

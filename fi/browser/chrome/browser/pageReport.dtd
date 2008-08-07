@@ -1,0 +1,10 @@
+<!ENTITY caption.label  "Estetyt ponnahdusikkunat">
+
+<!ENTITY intro.label  "Seuraavien sivujen pyynnöt avata 
+ponnahdusikkuna evättiin:">
+
+<!ENTITY done.label  "Valmis">
+<!ENTITY done.accesskey  "V">
+
+<!ENTITY unblock.label  "Pura esto sivustolta">
+<!ENTITY unblock.accesskey  "P">

@@ -1,0 +1,148 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY Contact.tab                      "Yhteystieto">
+<!ENTITY Contact.accesskey               "Y">
+<!ENTITY Name.box                         "Nimi">
+
+<!-- LOCALIZATION NOTE: 
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                   "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                   "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id               "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id               "PhoneticLastName">
+
+<!ENTITY NameField1.label                "Etunimi:">
+<!ENTITY NameField1.accesskey            "E">
+<!ENTITY NameField2.label                "Sukunimi:">
+<!ENTITY NameField2.accesskey            "S">
+<!ENTITY PhoneticField1.label            "Foneettinen:">
+<!ENTITY PhoneticField2.label            "Foneettinen:">
+<!ENTITY DisplayName.label               "Näytä:">
+<!ENTITY DisplayName.accesskey           "N">
+<!ENTITY NickName.label                  "Lempinimi:">
+<!ENTITY NickName.accesskey              "L">
+
+<!ENTITY Internet.box                    "Verkkotiedot">
+<!ENTITY PrimaryEmail.label              "Sähköpostiosoite:">
+<!ENTITY PrimaryEmail.accesskey          "S">
+<!ENTITY SecondEmail.label               "Toinen sähköpostiosoite:">
+<!ENTITY SecondEmail.accesskey           "T">
+<!ENTITY PreferMailFormat.label          "Mieluisin muoto sähköpostille:">
+<!ENTITY PreferMailFormat.accesskey      "M">
+<!ENTITY PlainText.label                 "Pelkkä teksti">
+<!ENTITY HTML.label                      "HTML">
+<!ENTITY Unknown.label                   "Tuntematon">
+<!ENTITY ScreenName.label                "Näyttönimi:">
+<!ENTITY ScreenName.accesskey            "N">
+
+<!ENTITY allowRemoteContent.label       "Salli HTML-postissa linkitetyt, toisilla palvelimilla olevat kuvat.">
+<!ENTITY allowRemoteContent.accesskey   "S">
+
+<!ENTITY Phones.box                      "Puhelinnumerot">
+<!ENTITY WorkPhone.label                 "Työpuhelin:">
+<!ENTITY WorkPhone.accesskey             "T">
+<!ENTITY HomePhone.label                 "Koti:">
+<!ENTITY HomePhone.accesskey             "K">
+<!ENTITY FaxNumber.label                 "Faksi:">
+<!ENTITY FaxNumber.accesskey             "F">
+<!ENTITY PagerNumber.label               "Hakulaite:">
+<!ENTITY PagerNumber.accesskey           "H">
+<!ENTITY CellularNumber.label            "Matkapuhelin:">
+<!ENTITY CellularNumber.accesskey        "M">
+
+<!ENTITY Address.tab                     "Osoite">
+<!ENTITY Address.accesskey              "O">
+<!ENTITY Home.box                        "Koti">
+<!ENTITY HomeAddress.label               "Osoite:">
+<!ENTITY HomeAddress.accesskey          "s">
+<!ENTITY HomeAddress2.label              "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                  "Kaupunki:">
+<!ENTITY HomeCity.accesskey             "K">
+<!ENTITY HomeState.label                 "Lääni:">
+<!ENTITY HomeState.accesskey            "L">
+<!ENTITY HomeZipCode.label               "Postinumero:">
+<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeCountry.label               "Maa:">
+<!ENTITY HomeCountry.accesskey          "M">
+<!ENTITY HomeWebPage.label               "Verkkosivut:">
+<!ENTITY HomeWebPage.accesskey          "V">
+<!ENTITY Work.box                        "Työ">
+<!ENTITY JobTitle.label                  "Ammattinimi:">
+<!ENTITY JobTitle.accesskey             "A">
+<!ENTITY Department.label                "Osasto:">
+<!ENTITY Department.accesskey           "a">
+<!ENTITY Company.label                   "Organisaatio:">
+<!ENTITY Company.accesskey              "r">
+<!ENTITY WorkAddress.label               "Osoite:">
+<!ENTITY WorkAddress.accesskey          "i">
+<!ENTITY WorkAddress2.label              "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                  "Kaupunki:">
+<!ENTITY WorkCity.accesskey             "u">
+<!ENTITY WorkState.label                 "Lääni:">
+<!ENTITY WorkState.accesskey            "ä">
+<!ENTITY WorkZipCode.label               "Postinumero:">
+<!ENTITY WorkZipCode.accesskey          "t">
+<!ENTITY WorkCountry.label               "Maa:">
+<!ENTITY WorkCountry.accesskey          "M">
+<!ENTITY WorkWebPage.label               "Verkkosivut:">
+<!ENTITY WorkWebPage.accesskey          "e">
+
+<!ENTITY Other.tab                       "Muuta">
+<!ENTITY Other.accesskey                "t">
+<!ENTITY Custom1.label                   "Oma 1:">
+<!ENTITY Custom1.accesskey               "1">
+<!ENTITY Custom2.label                   "Oma 2:">
+<!ENTITY Custom2.accesskey               "2">
+<!ENTITY Custom3.label                   "Oma 3:">
+<!ENTITY Custom3.accesskey               "3">
+<!ENTITY Custom4.label                   "Oma 4:">
+<!ENTITY Custom4.accesskey               "4">
+<!ENTITY Notes.box                       "Huomautuksia">
+<!ENTITY Notes.accesskey                "H">

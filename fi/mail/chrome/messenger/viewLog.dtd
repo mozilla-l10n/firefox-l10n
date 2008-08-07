@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title  "Suodatinloki">
+<!ENTITY viewLogInfo.text  "Suodatinloki on tiedosto, joka pitää kirjaa suoritetuista suodattimista.">
+<!ENTITY clearLog.label  "Tyhjennä loki">
+<!ENTITY clearLog.accesskey  "T">
+<!ENTITY enableLog.label  "Ota suodatinloki käyttöön">
+<!ENTITY enableLog.accesskey  "s">
+<!ENTITY closeLog.label  "Sulje">
+<!ENTITY closeLog.accesskey  "S">

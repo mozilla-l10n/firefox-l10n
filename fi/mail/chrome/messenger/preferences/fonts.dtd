@@ -1,0 +1,77 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "Kirjasinlajit ja merkistökoodaukset">
+<!ENTITY  window.width                             "46em">
+<!ENTITY  window.macWidth                          "46em">
+<!ENTITY  window.unixWidth                         "45em">
+
+<!ENTITY  language.label                           "Merkistö:">
+<!ENTITY  language.accesskey                       "M">
+
+<!ENTITY  typefaces.label                          "Kirjasin">
+<!ENTITY  sizes.label                              "Koko:">
+<!ENTITY  proportionalSize.accesskey              "K">
+<!ENTITY  monospaceSize.accesskey                 "o">
+
+<!ENTITY  proportional.label                       "Suhteellinen:">
+<!ENTITY  proportional.accesskey                   "S">
+
+<!ENTITY  serif.label                              "Pääteviivallinen:">
+<!ENTITY  serif.accesskey                          "P">
+<!ENTITY  sans-serif.label                         "Pääteviivaton:">
+<!ENTITY  sans-serif.accesskey                     "ä">
+<!ENTITY  monospace.label                          "Tasavälinen:">
+<!ENTITY  monospace.accesskey                      "T">
+
+<!ENTITY  fontsize.units                           "kuvapistettä">
+
+<!ENTITY  font.langGroup.latin1                    "Länsimainen">
+<!ENTITY  font.langGroup.latin2                    "Keskieurooppalainen">
+<!ENTITY  font.langGroup.japanese                  "Japanilainen">
+<!ENTITY  font.langGroup.trad-chinese              "Perinteinen kiinalainen (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese             "Yksinkertaistettu kiinalainen">
+<!ENTITY  font.langGroup.trad-chinese-hk           "Perinteinen kiinalainen (Hongkong)">
+<!ENTITY  font.langGroup.korean                    "Korealainen">
+<!ENTITY  font.langGroup.cyrillic                  "Kyrillinen">
+<!ENTITY  font.langGroup.baltic                    "Balttilainen">
+<!ENTITY  font.langGroup.el                        "Kreikkalainen">
+<!ENTITY  font.langGroup.turkish                   "Turkkilainen">
+<!ENTITY  font.langGroup.unicode                   "Muut kielet">
+<!ENTITY  font.langGroup.user-def                  "Käyttäjän määrittelemä">
+<!ENTITY  font.langGroup.thai                      "Thaimaalainen">
+<!ENTITY  font.langGroup.hebrew                    "Heprealainen">
+<!ENTITY  font.langGroup.arabic                    "Arabialainen">
+<!ENTITY  font.langGroup.devanagari                "Devanagari">
+<!ENTITY  font.langGroup.tamil                     "Tamili">
+<!ENTITY  font.langGroup.armenian                  "Armenialainen">
+<!ENTITY  font.langGroup.bengali                   "Bengalilainen">
+<!ENTITY  font.langGroup.canadian                  "Kanadalainen tavumerkistö">
+<!ENTITY  font.langGroup.ethiopic                  "Etiopialainen">
+<!ENTITY  font.langGroup.georgian                  "Georgialainen">
+<!ENTITY  font.langGroup.gujarati                  "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                  "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                     "Khmer">
+<!ENTITY  font.langGroup.malayalam                 "Malaiji">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                             "Pienin kirjasinkoko:">
+<!ENTITY minSize.accesskey                         "e">
+<!ENTITY minSize.none                              "Ei ole">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label                "Pääteviivallinen">
+<!ENTITY  useDefaultFontSansSerif.label            "Pääteviivaton">
+
+<!ENTITY  newLanguages.label                       "Uusien kielien käytön voi määrittää kielipaneelista">
+
+<!ENTITY  useDocumentFonts.label                   "Sivut voivat käyttää omia kirjasinlajejaan oletusten sijaan">
+<!ENTITY  useDocumentFonts.accesskey               "i">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Lähtevät viestit:">
+<!ENTITY sendDefaultCharset.accesskey     "L">
+<!ENTITY languagesTitle1.label		  "Merkistökoodaukset">
+<!ENTITY composingDescription.label       "Aseta oletusmerkistökoodaus lähteville ja saapuville viesteille">
+
+<!ENTITY viewDefaultCharsetList.label     "Saapuvat viestit:">
+<!ENTITY viewDefaultCharsetList.accesskey "a">
+<!ENTITY replyInDefaultCharset2.label     "Jos mahdollista, käytä vastatessa oletusmerkistökoodausta">
+<!ENTITY replyInDefaultCharset2.accesskey "J">

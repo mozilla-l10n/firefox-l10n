@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label                "Salasanojen hallinta">
+<!ENTITY      windowalttitle.label             "Lomakkeiden hallinta: sivustot">
+<!ENTITY      tab.signonsstored.label          "Tallennetut salasanat">
+<!ENTITY      tab.signonsnotstored.label       "Salasanoja ei tallenneta">
+<!ENTITY      tab.nopreview.label              "Lomakkeet, joita ei esikatsella">
+<!ENTITY      tab.nocapture.label              "Ei tallennettavat lomakkeet">
+
+<!ENTITY      spiel.signonsstored.label        "Salasanojen hallinta on tallentanut seuraavien palvelimien kirjautumistiedot:">
+<!ENTITY      spiel.signonsnotstored.label     "Salasanojen hallinta ei tallenna seuraavien palvelimien kirjautumistietoja :">
+<!ENTITY      spiel.nopreview.label            "Lomakkeiden hallinta ei koskaan näytä seuraavien sivustojen lomakkeita esitäyttämättä niitä:">
+<!ENTITY      spiel.nocapture.label            "Lomakkeiden hallinta ei kysy koskaan seuraavien sivustojen lomakekenttien tallentamista:">
+
+<!ENTITY      treehead.site.label              "Sivusto">
+<!ENTITY      treehead.username.label          "Käyttäjätunnus">
+<!ENTITY      treehead.password.label          "Salasana">
+<!ENTITY      remove.label                     "Poista">
+<!ENTITY      removeall.label                  "Poista kaikki">

@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label  "RSS-tilin asetukset">
+
+<!ENTITY biffStart.label  "Hae uusia artikkeleita">
+<!ENTITY biffStart.accesskey  "H">
+<!ENTITY biffEnd.label  "minuutin välein">
+
+<!ENTITY loginAtStartup.label  "Hae uusia artikkeleita ohjelman käynnistyessä">
+<!ENTITY loginAtStartup.accesskey  "a">
+
+<!ENTITY useQuickMode.label  "Älä lataa artikkelin www-sivua, vaan näytä vain yhteenveto">
+<!ENTITY useQuickMode.accesskey  "Ä">
+
+<!ENTITY manageSubscriptions.label  "Muokkaa tilauksia…">
+<!ENTITY manageSubscriptions.accesskey  "M">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "Uutiset ja verkkopäiväkirjat">
+<!ENTITY rss.wizardShortName        "RSS">
+<!ENTITY rss.wizardLongName         "RSS-uutiset ja -verkkopäiväkirjat">
+<!ENTITY rss.hostName               "RSS-tili">

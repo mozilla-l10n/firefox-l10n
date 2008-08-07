@@ -1,0 +1,7 @@
+
+<!ENTITY editPageCmd.label                 "Muokkaa sivua Composerissa">
+<!ENTITY editPageCmd.accesskey             "M">
+
+<!ENTITY editLinkCmd.label                 "Muokkaa linkkiä Composerissa">
+<!ENTITY editLinkCmd.accesskey             "M">
+

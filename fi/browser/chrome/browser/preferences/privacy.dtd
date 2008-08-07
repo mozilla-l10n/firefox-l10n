@@ -1,0 +1,55 @@
+<!ENTITY  history.label "Historiatiedot">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Säilytä sivuhistoria ainakin">
+<!ENTITY  rememberDaysBefore.accesskey  "S">
+<!ENTITY  rememberDaysAfter2.label      "päivältä">
+
+<!ENTITY  rememberForms.label           "Tallenna lomakkeisiin ja hakupalkkiin kirjoitetut tiedot">
+<!ENTITY  rememberForms.accesskey       "T">
+
+<!ENTITY  rememberDownloads.label       "Pidä listaa ladatuista tiedostoista">
+<!ENTITY  rememberDownloads.accesskey   "P">
+
+
+<!ENTITY  cookies.label                 "Evästeet">
+
+<!ENTITY  acceptCookies.label           "Sivustot voivat asettaa evästeitä">
+<!ENTITY  acceptCookies.accesskey       "v">
+
+<!ENTITY  acceptThirdParty.label        "Salli kolmannen osapuolen evästeet">
+<!ENTITY  acceptThirdParty.accesskey    "m">
+
+<!ENTITY  keepUntil.label               "Säilytä evästeet:">
+<!ENTITY  keepUntil.accesskey           "ä">
+
+<!ENTITY  expire.label                  "kunnes ne vanhenevat">
+<!ENTITY  close.label                   "kunnes &brandShortName; suljetaan">
+<!ENTITY  askEachTime.label             "kysy aina erikseen">
+
+<!ENTITY  cookieExceptions.label        "Poikkeukset…">
+<!ENTITY  cookieExceptions.accesskey    "k">
+
+<!ENTITY  showCookies.label             "Näytä evästeet…">
+<!ENTITY  showCookies.accesskey         "N">
+
+
+<!ENTITY  privateData.label             "Yksityisyystiedot">
+
+<!ENTITY  alwaysClear.label              "Tyhjennä valitut yksityisyystiedot, aina kun &brandShortName; suljetaan">
+<!ENTITY  alwaysClear.accesskey          "h">
+
+<!ENTITY  askBeforeClear.label           "Kysy lupa tietojen poistamiseen">
+<!ENTITY  askBeforeClear.accesskey       "K">
+
+<!ENTITY  clearDataSettings.label        "Asetukset…">
+<!ENTITY  clearDataSettings.accesskey    "A">
+
+<!ENTITY  clearDataNow.label             "Tyhjennä heti…">
+<!ENTITY  clearDataNow.label2            "Tyhjennä heti">
+<!ENTITY  clearDataNow.accesskey         "e">

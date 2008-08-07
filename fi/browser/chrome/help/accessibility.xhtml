@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author) // Jyri-Petteri Paloposki <zeip@mozilla.fi> (Finnish translation)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>&brandFullName;in esteettömyystoiminnot</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/> <style TYPE="text/css"> .contentsBox {width:350px !important;}</style>
+</head>
+
+<body>
+
+  <h1>&brandFullName;in esteettömyystoiminnot</h1>
+
+  <p>&brandShortName; sisältää monia ominaisuuksia, joiden tarkoituksena on 
+    tehdä selaimesta ja verkon sisällöstä käytettävä kaikille, myös heikkonäköisille, 
+    sokeille ja heikosti näppäimistöä tai hiirtä hallitseville.</p>
+
+  <div class="contentsBox">Tässä osassa:
+    <ul>
+    <li><a href="#using_a_keyboard">Näppäimistön käyttö</a></li>
+    <li><a href="#using_a_mouse">Hiiren käyttö</a></li>
+    <li><a href="#fonts_and_colors">Kirjasinlajit ja värit</a></li>
+    <li><a href="#controlling_web_content">Verkkosivujen sisällön hallitseminen</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Avustavien ohjelmien 
+        yhteensopivuus</a></li>
+    <li><a href="#finding_help_online">Tukea verkossa</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Näppäimistön käyttö</h2>
+
+  <h3 id="keyboard_shortcuts">Näppäinkomennot</h3>
+
+  <p>Lista näppäinkomennoista on sivulla
+    <a href="shortcuts.xhtml">&brandShortName;in näppäinkomennot</a>. 
+    Verkossa on <a target="_blank" 
+    href="http://www.mozilla.org/support/firefox/keyboard">vertailutaulukko</a> [en]
+    &brandShortName;in, Microsoft Internet Explorerin ja Operan 
+    näppäinkomentojen eroista.</p>
+
+  <h3 id="always_use_cursor_keys">Liiku sivuilla nuolinäppäimillä</h3>
+
+
+  <p><a href="prefs.xhtml#accessibility">Liiku sivulla nuolinäppäimillä</a> -toiminto 
+    antaa sinulle mahdollisuuden selata verkkosivuja aivan kuin käyttäisit 
+    tekstinkäsittelijää vain-luku -tilassa. Voit valita ja kopioida tekstiä 
+    leikepöydälle näppäimistöllä. Ota tämä ominaisuus käyttöön valitsemalla 
+    &pref.menuPath;, avaamalla <em>Yleiset</em>-välilehti
+    <em>Lisäasetukset</em>-paneelista ja valitsemalla <em>Liiku sivuilla 
+    nuolinäppäimillä</em> -asetus.</p>
+
+
+  <p>Voit ottaa tai poistaa toiminnon käytöstä painamalla <kbd>F7</kbd>-näppäintä 
+    milloin tahansa. Kun painat <kbd>F7</kbd>, &brandShortName; kysyy haluatko
+    varmasti ottaa ominaisuuden käyttöön. Voit estää kysymyksen valitsemalla 
+    <em>Älä näytä tätä valintaikkunaa enää uudestaan.</em></p>
+
+  <h3 id="find_as_you_type">Ala etsiä tekstistä heti kirjoitettaessa</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Ala etsiä tekstistä heti kirjoitettaessa</a> 
+    -toiminnolla voit nopeasti tehdä hakuja sivun tekstistä tai linkeistä. 
+    Toiminnolla on kaksi käyttötapaa. Kun painat <abbr 
+    title="kauttaviiva"><kbd>/</kbd></abbr>-näppäintä ja alat kirjoittamaan, 
+    &brandShortName; suorittaa haun avatun sivun tekstistä, kun taas painat <abbr 
+    title="heittomerkki"><kbd>'</kbd></abbr>-näppäintä, &brandShortName; suorittaa haun sivun linkeistä. 
+    &brandShortName; korostaa hakua vastaavan tekstin ja linkin valinnalla samalla kun kirjoitat.</p>
+
+  <p>Seuraavat näppäinkomennot ohjaavat tätä toimintoa:</p>
+
+  <ul>
+    <li>Kirjoita lisää merkkejä tarkentaaksesi hakua. &brandShortName; korostaa 
+      seuraavan hakua vastaavan linkin tai tekstin, tai värjää pikahakupalkin tekstikentän
+      punaiseksi merkiksi siitä, ettei mitään löytynyt.</li>
+    <li>Paina &accelKey;+<kbd>G</kbd> tai <kbd>F3</kbd>
+      siirtyäksesi seuraavaan hakua vastaavaan merkkijonoon.</li>
+    <li>Paina &accelKey;+&shiftKey;+<kbd>G</kbd> tai &shiftKey;+<kbd>F3</kbd>
+      siirtyäksesi edelliseen hakua vastaavaan merkkijonoon.</li>
+    <li>Paina <kbd>Askelpalautinta</kbd> kumotaksesi viimeisen kirjoittamasi 
+      merkin. &brandShortName; suorittaa haun jäljellä olevilla merkeillä.</li>
+    <li>Paina <kbd>Esc</kbd>-näppäintä peruaksesi haun. Voit peruttaa haun 
+      myös vaihtamalla aktiivista ikkunaa, selaamalla sivua tai odottamalla 
+      aikarajan ylittymistä.</li>
+  </ul>
+
+  <p>Voit vaihtaa ominaisuuden oletustilaa valitsemalla &pref.menuPath;, 
+    avaamalla <em>Lisäasetukset</em>-paneelin <em>Yleiset</em>-välilehden ja 
+    valitsemalla kohdan <em>Ala etsiä tekstistä heti kirjoitettaessa</em>. Kun 
+    tämä asetus on valittu, haku käynnistyy välittömästi kun alat kirjoittaa. 
+    Oletuksena pikahaut suoritetaan sivun tekstistä. Voit kuitenkin edelleen 
+    erikseen painaa <abbr title="heittomerkki"><kbd>'</kbd></abbr> tai
+    <abbr title="kauttaviiva"><kbd>/</kbd></abbr>-näppäintä hakeaksesi 
+    tietyssä tilassa.</p>
+
+
+  <p>Voit siirtyä tämän toiminnon avulla nopeasti lomakepainikkeisiin, 
+    tekstilaatikoihin ja muihin lomakkeenosiin etsimällä haluttua lomakekenttää 
+    välittömästi edeltävää tekstiä ja painamalla <kbd>Tab</kbd>-näppäintä. 
+    <kbd>Tab</kbd>-näppäimen painaminen ei muuta hakua vaan valitsee 
+    korostettua tekstiä seuraavan lomakekentän tai painikkeen.</p>
+
+  <h2 id="using_a_mouse">Hiiren käyttö</h2>
+
+  <h3 id="common_mouse_shortcuts">Yleisiä hiirikomentoja</h3>
+
+  <p>Lista yleisistä hiirikomennoista on sivulla <a 
+    href="mouse_shortcuts.xhtml">Hiiren pikavalinnat</a>.</p>
+
+
+  <h2 id="fonts_and_colors">Kirjasinlajit ja värit</h2>
+
+  <h3 id="overriding_page_fonts">Sivun kirjasinlajien ohittaminen</h3>
+
+  <p>Jotkut verkkosivut saattavat näyttää tekstin vaikealukuisella kirjasimella
+    kun taas toiset sivustot luottavat selaimen oletuskirjasimeen. Voit asettaa
+    oletuskirjasimet valitsemalla &pref.menuPath;, avaamalla 
+    <em>Sisältö</em>-paneelin ja valitsemalla oletuskirjasinlajin ja -koon 
+    <em>Kirjasinlajit ja värit</em> -kohdasta.</p>
+
+  <p>Voit asettaa oletuskirjasimet eri tyyleille, kuten pääteviivallinen, 
+    pääteviivaton ja tasavälinen napsauttamalla <em>Lisäasetukset</em>-painiketta.
+    Monet verkkosivut määrittävät kuitenkin omat kirjasimensa ja näillä sivuilla
+    valinnoillasi ei ole vaikutusta. Ohittaaksesi sivujen asettamat kirjasimet 
+    poista valinta kohdasta <em>Sivut voivat käyttää omia kirjasinlajejaan 
+    oletusten sijaan</em>.</p>
+
+  <p>Huomaa että jotkin sivut saattavat näkyä väärin riippuen 
+    valitsemastasi oletuskirjasinlajista.</p>
+
+  <h3 id="setting_a_minimum_font_size">Pienimmän kirjasinkoon asettaminen</h3>
+
+  <p>Joidenkin verkkosivujen teksti saattaa olla epämukavan pientä. 
+    Helpottaaksesi näiden sivujen lukemista voit valita pienimmän 
+    kirjasinkoon. &brandShortName; suurentaa tekstin valitsemaasi kokoon 
+    sivuilla, jotka pyrkivät näyttämään valittua kokoa pienempää tekstiä.</p>
+
+  <p>Asettaaksesi pienimmän kirjasinkoon, valitse &pref.menuPath;, avaa 
+    <em>Sisältö</em>-paneeli ja napsauta <em>Lisäasetukset</em>-painiketta 
+    <em>Kirjasinlajit ja värit</em>-osiosta. Voit asettaa pienimmän 
+    kirjasinkoon valitsemalla sen pudotusvalikosta.</p>
+
+  <p>Huomaa, että jotkin sivut saattavat näkyä väärin
+    riippuen valitsemastasi pienimmästä kirjasinkoosta. </p>
+
+  <h3 id="resizing_page_text">Sivun tekstien koon muuttaminen</h3>
+
+  <p>Voit muuttaa minkä tahansa verkkosivun tekstien kokoa <span 
+    class="menuPath">Näytä &gt; Tekstin koko</span> -valikosta. Vaikka siirtyisit 
+    toiselle sivulle, uusi koko säilyy valittuna kunnes suljet selainikkunan tai 
+    välilehden.</p>
+
+  <p>Seuraavat näppäinkomennot muuttavat tekstin kokoa:</p>
+
+  <ul>
+    <li>Paina &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> suurentaaksesi 
+      tekstin kokoa. Tämä suurentaa tekstiä ensin 120 %:iin alkuperäisestä
+      koosta, sitten 150 %:iin, ja edelleen 200 %, 300 %, 450 %, 675 %, 1013 %, ja 1519 %:iin.</li>
+    <li>Paina &accelKey;+<kbd><abbr title="miinus">-</abbr></kbd> pienentääksesi 
+      tekstin kokoa. Tämä pienentää tekstiä ensin 90 %:iin alkuperäisestä
+      koosta, sitten 50 %:iin, ja edelleen 33 %, 22 %, 15 %, 10 %, 7 %, 4 %, 3 %, 2 %, ja 1 %:iin.</li>
+    <li>Paina &accelKey;+<kbd>0</kbd> palauttaaksesi tekstin koon 
+      verkkosivun oletuskooksi. </li>
+  </ul>
+
+  <p>Huomaa, että jotkin verkkosivut saattavat näkyä väärin jos suurennat 
+      tai pienennät tekstin kokoa.</p>
+
+  <h3 id="overriding_page_colors">Sivun värien ohittaminen</h3>
+
+  <p>Jotkin verkkosivut saattavat näyttää tekstiä ja taustavärejä jotka 
+    ovat vaikeita lukea kun taas toiset sivustot luottavat selaimen 
+    oletusväreihin. Voit asettaa oletusvärisi valitsemalla &pref.menuPath;,
+    avaamalla <em>Sisältö</em>-paneelin ja napsauttamallla 
+    <em>Värit</em>-painiketta <em>Kirjasinlajit ja värit</em>-osiossa. Voit 
+    asettaa oletusvärin tekstille ja taustavärille sekä oletusvärit 
+    avatuille ja avaamattomille linkeille. Voit myös asettaa alleviivataanko 
+    linkit.</p>
+
+  <p>Monet verkkosivut asettavat omat värinsä, jolloin asetuksesi eivät ole 
+    voimassa. Ohittaaksesi verkkosivujen määrittämät värit, poista valinta 
+    kohdasta <em>Sivut voivat käyttää omia värejään oletusten sijaan</em>.</p>
+
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Suurikontrastisen teeman käyttö</h3>
+
+    <p>&brandShortName; tunnistaa automaattisesti jos käyttöjärjestelmäsi on 
+      asetettu käyttämään suurikontrastista teemaa ja näyttää kaiken 
+      suurikontrastisen väriteeman mukaisesti. Tämä ohittaa kaikki muut selaimen 
+      tai verkkosivujen asetukset ja vaikuttaa &brandShortName;in 
+      käyttöliittymään (kaikki valikot, ikkunat ja valintaikkunat) ja kaikkien 
+      vierailemiesi verkkosivujen sisältöön.</p>
+
+    <p class="win">Käytä suurikontrastista teemaa valitsemalla
+      <span class="menuPath">Käynnistä &gt;  Ohjauspaneeli &gt;
+      Helppokäyttötoiminnot &gt; Näyttö</span> ja valitsemalla <em>Suuri 
+      kontrasti</em>-asetus.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Verkkosivujen sisällön hallitseminen</h2>
+
+  <h3 id="blocking_popup_windows">Ponnahdusikkunoiden esto</h3>
+
+  <p>Lue ponnahdusikkunoiden estämisestä sivulta <a 
+    href="popup.xhtml">Ponnahdusikkunoiden hallinta</a>.</p>
+
+  <h3 id="turning_off_java_applets">Java-sovelmien kytkeminen pois toiminnasta</h3>
+
+  <p>Jotkut verkkosivut käyttävät Java™-sovelmia monipuolistamaan sisältöänsä.
+    Sovelmat saattavat kuitenkin aiheuttaa joissakin tapauksissa ongelmia. 
+    Ongelmia syntyy muun muassa silloin, kun käyttäjä tahtoo selata sivuja 
+    näppäimistöllään, eikä sovelma tarjoa helppoa tapaa siirtää kohdistinta 
+    pois sovelmasta. Jos tahdot poistaa Java-sovelmat käytöstä esimerkiksi tästä 
+    syystä, valitse &pref.menuPath;, avaa <em>Sisältö</em>-paneeli, 
+    ja poista valinta <em>Salli Java-sovelmat</em> -kohdasta.</p>
+
+
+  <h3 id="restricting_javascript_behavior">JavaScript-komentosarjojen rajoittaminen</h3>
+
+  <p>Voit ottaa JavaScript-komentosarjat kokonaan pois käytöstä valitsemalla 
+    &pref.menuPath;, avaamalla <em>Sisältö</em>-paneelin ja poistamalla valinnan
+    kohdasta <em>Salli JavaScript-komentosarjat</em>. Jotkin sivut perustavat 
+    toimintansa JavaScriptiin eivätkä välttämättä toimi kunnolla, jos JavaScript on pois käytöstä.</p>
+
+  <p>Jos et halua poistaa JavaScriptiä käytöstä kokonaan, voit rajoittaa 
+    komentosarjojen toimintaa useilla lisäasetuksilla. Muokkaa JavaScriptin 
+    lisäasetuksia napsauttamalla <em>Lisäasetukset</em>-painiketta heti 
+    <em>Salli JavaScript-komentosarjat</em> -kohdan vierestä. Voit valita, 
+    voivatko komentosarjat siirtää ikkunoita tai muuttaa niiden kokoa, suurentaa 
+    tai pienentää ikkunoita, muuttaa ponnahdusvalikoita taikka piilottaa 
+    tilarivin tai muuttaa sen tekstiä.</p>
+
+
+  <h2 id="compatibility_with_assistive_technologies">Avustavien ohjelmien yhteensopivuus</h2>
+
+
+  <p>Tuoreimmat tiedot kolmansien osapuolien toimittamien avustavien 
+    ohjelmien yhteensopivuudesta on verkkosivulla <a target="_blank" 
+    href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Compatibility with assistive technologies</a> [en].</p>
+
+  <h2 id="finding_help_online">Tukea verkossa</h2>
+
+  <p>Kirjoitushetkellä suomenkielisiä esteettömyysresursseja verkossa ei ollut 
+    kirjoittajien tiedossa, mutta olet tervetullut esittämään kysymyksiä 
+    esteettömyystoiminnoista <a target="_blank" 
+    href="http://www.mozilla.fi/keskustelu/">Mozilla.fi:n keskustelualueelle</a>. 
+    Englanniksi voit tukeutua <a target="_blank" 
+href="http://forums.mozillazine.org/viewforum.php?f=38">&brandShortName;in englanninkieliseen tukialueeseen</a> [en].</p>
+
+  <p>Muita englanninkielisiä esteettömyysohjelmiin liittyviä tukipalveluja
+    on ainakin Freedom Scientificillä (<a target="_blank" 
+href="http://www.freedomscientific.com/fs_support/User_Groups.asp">JAWS-käyttäjien sähköpostilistoja</a>)
+    ja GW Microlla (<a target="_blank" 
+href="http://www.gwmicro.com/Support/Email_Lists/">Window Eyes -käyttäjien sähköpostilistoja</a>).
+    Molemmat ohjelmat ovat kirjoitushetkellä saatavilla vain Windows-järjestelmille.</p>
+
+  <div class="contentsBox"><em>29. elokuuta 2006</em></div>
+
+  <p>Tekijänoikeudet &copy; 2003-2007 Mozillan ohjeselainprojektin tekijät.</p>
+
+
+</body>
+</html>

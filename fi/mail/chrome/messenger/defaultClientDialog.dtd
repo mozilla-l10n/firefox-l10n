@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Oletusohjelma-asetukset">
+<!ENTITY defaultClient.intro  "&brandShortName; on oletusohjelmana:">
+
+<!ENTITY email.label "Sähköpostille">
+<!ENTITY newsgroups.label "Keskusteluryhmille">
+<!ENTITY rss.label "RSS-syötteille">
+
+<!ENTITY checkOnStartup.label "&brandShortName; tarkistaa käynnistyessään, onko se oletusohjelmana.">
+<!ENTITY checkOnStartup.accesskey "T">

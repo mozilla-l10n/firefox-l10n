@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label  "Säästääksesi tilaa, älä lataa:">
+<!ENTITY doNotDownload.label  "Säästääksesi tilaa, älä lataa yhteydetöntä tilaa varten:">
+<!ENTITY offlineNewFolder.label  "Luotaessa uusia kansioita, aseta ne käytettäväksi yhteydettömässä tilassa">
+<!ENTITY offlineNewFolder.accesskey  "L">
+<!ENTITY offlineNotDownload.label  "Viestejä, joiden koko on yli">
+<!ENTITY offlineNotDownload.accesskey  "e">
+<!ENTITY kb.label  "kt">
+<!ENTITY days.label  "päivää">
+<!ENTITY daysOld.label  "päivää vanhoja">
+<!ENTITY message.label  "viestiä">
+<!ENTITY nntpNotDownloadRead.label  "Luettuja viestejä">
+<!ENTITY nntpNotDownloadRead.accesskey  "L">
+<!ENTITY nntpDownloadMsg.label  "Viestejä, jotka ovat yli">
+<!ENTITY nntpDownloadMsg.accesskey  "s">
+<!ENTITY retentionCleanup.label  "Kiintolevytilaa voi vapauttaa poistamalla vanhoja viestejä pysyvästi.">
+<!ENTITY retentionKeepMsg.label  "Poista viestit, jotka ovat yli">
+<!ENTITY retentionKeepMsg.accesskey  "o">
+<!ENTITY retentionKeepAll.label  "Älä poista mitään viestejä">
+<!ENTITY retentionKeepAll.accesskey  "Ä">
+<!ENTITY retentionKeepNew.label  "Poista kaikki paitsi viimeiset">
+<!ENTITY retentionKeepNew.accesskey  "P">
+<!ENTITY retentionKeepUnread.label  "Poista aina luetut viestit">
+<!ENTITY retentionKeepUnread.accesskey  "t">
+<!ENTITY nntpRemoveBody.label  "Vain ne viestit, jotka ovat yli">
+<!ENTITY nntpRemoveBody.accesskey  "n">
+<!ENTITY offlineSelectNntp.label  "Valitse yhteydettömässä tilassa käytettävät ryhmät…">
+<!ENTITY offlineSelectNntp.accesskey "V">
+<!ENTITY offlineSelectImap.label  "Valitse yhteydettömässä tilassa käytettävät kansiot…">
+<!ENTITY offlineSelectImap.accesskey "V">
+<!ENTITY offlineDesc.label  "Viestit voidaan ladata tietokoneelle niin, että niitä voi lukea yhteydettömässä tilassa.">
+<!ENTITY makeInboxMsgsAvailable.label  "Aseta saapuneet-kansio käytettäväksi yhteydettömässä tilassa">
+<!ENTITY makeInboxMsgsAvailable.accesskey  "A">
+<!ENTITY offlineGroupTitle.label  "Yhteydetön tila">
+<!ENTITY diskspaceGroupTitle.label  "Levytilan käyttö">

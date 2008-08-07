@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                   "Muuta toimintoa">
+<!ENTITY  window.width                          "36em">
+
+<!ENTITY  whenDownloading.label                "Ladattaessa tätä tiedostotyyppiä olevia tiedostoja:">
+
+<!ENTITY  openDefault.label                    "Avaa ne oletusohjelmalla:">
+<!ENTITY  openDefault.accesskey                "A">
+<!ENTITY  openApplication.label                "Avaa ne ohjelmalla:">
+<!ENTITY  openApplication.accesskey            "v">
+<!ENTITY  changeApp.label                      "Selaa…">
+<!ENTITY  changeApp.accesskey                  "S">
+<!ENTITY  saveToDisk.label                     "Tallenna levylle">
+<!ENTITY  saveToDisk.accesskey                 "T">
+<!ENTITY  saveToDefaultFolder.label            "oletustallennuskansioon">
+<!ENTITY  saveToDefaultFolder.accesskey        "e">
+<!ENTITY  saveToThisFolder.label               "kansioon:">
+<!ENTITY  saveToThisFolder.accesskey           "k">
+<!ENTITY  chooseFolder.label                   "Selaa…">
+<!ENTITY  chooseFolder.accesskey               "S">
+<!ENTITY  saveToAskMe.label                    "kysy aina tallennuspaikka">
+<!ENTITY  saveToAskMe.accesskey                "n">
+<!ENTITY  usePlugin.label                      "Käytä liitännäistä:">
+<!ENTITY  usePlugin.accesskey                  "K">

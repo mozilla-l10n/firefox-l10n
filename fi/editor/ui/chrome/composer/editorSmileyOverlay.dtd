@@ -1,0 +1,91 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label  "Hymiö">
+<!ENTITY insertSmiley.accesskey  "H">
+
+<!ENTITY smiley1Cmd.label  "Hymy">
+<!ENTITY smiley1Cmd.accesskey  "H">
+<!ENTITY smiley1Cmd.tooltip  "Lisää hymyilevä hymiö">
+<!ENTITY smiley2Cmd.label  "Suru">
+<!ENTITY smiley2Cmd.accesskey  "S">
+<!ENTITY smiley2Cmd.tooltip  "Lisää vakava hymiö">
+<!ENTITY smiley3Cmd.label  "Silmänisku">
+<!ENTITY smiley3Cmd.accesskey  "m">
+<!ENTITY smiley3Cmd.tooltip  "Lisää silmänisku hymiö">
+<!ENTITY smiley4Cmd.label  "Kieli ulkona">
+<!ENTITY smiley4Cmd.accesskey  "K">
+<!ENTITY smiley4Cmd.tooltip  "Lisää kieli poskessa -hymiö">
+<!ENTITY smiley5Cmd.label  "Naurava">
+<!ENTITY smiley5Cmd.accesskey  "N">
+<!ENTITY smiley5Cmd.tooltip  "Lisää naurava hymiö">
+<!ENTITY smiley6Cmd.label  "Nolo">
+<!ENTITY smiley6Cmd.accesskey  "l">
+<!ENTITY smiley6Cmd.tooltip  "Lisää nolostunut hymiö">
+<!ENTITY smiley7Cmd.label  "Epävarma">
+<!ENTITY smiley7Cmd.accesskey  "a">
+<!ENTITY smiley7Cmd.tooltip  "Lisää epävarma hymiö">
+<!ENTITY smiley8Cmd.label  "Yllätys">
+<!ENTITY smiley8Cmd.accesskey  "Y">
+<!ENTITY smiley8Cmd.tooltip  "Lisää yllättynyt hymiö">
+<!ENTITY smiley9Cmd.label  "Suukko">
+<!ENTITY smiley9Cmd.accesskey  "u">
+<!ENTITY smiley9Cmd.tooltip  "Lisää pusu-hymiö">
+<!ENTITY smiley10Cmd.label  "Huuto">
+<!ENTITY smiley10Cmd.accesskey  "t">
+<!ENTITY smiley10Cmd.tooltip  "Lisää huutava hymiö">
+<!ENTITY smiley11Cmd.label  "Hieno">
+<!ENTITY smiley11Cmd.accesskey  "e">
+<!ENTITY smiley11Cmd.tooltip  "Lisää viileä hymiö">
+<!ENTITY smiley12Cmd.label  "Rahat-suuhun">
+<!ENTITY smiley12Cmd.accesskey  "r">
+<!ENTITY smiley12Cmd.tooltip  "Lisää rahat suussa -hymiö">
+<!ENTITY smiley13Cmd.label  "Jalka-suussa">
+<!ENTITY smiley13Cmd.accesskey  "J">
+<!ENTITY smiley13Cmd.tooltip  "Lisää jalat suussa -hymiö">
+<!ENTITY smiley14Cmd.label  "Viaton">
+<!ENTITY smiley14Cmd.accesskey  "o">
+<!ENTITY smiley14Cmd.tooltip  "Lisää viaton hymiö">
+<!ENTITY smiley15Cmd.label  "Itku">
+<!ENTITY smiley15Cmd.accesskey  "I">
+<!ENTITY smiley15Cmd.tooltip  "Lisää itkevä hymiö">
+<!ENTITY smiley16Cmd.label  "Vaikenee">
+<!ENTITY smiley16Cmd.accesskey  "V">
+<!ENTITY smiley16Cmd.tooltip  "Lisää sinetöidyt huulet -hymiö">
+<!ENTITY SmileButton.tooltip  "Lisää hymiö">
+

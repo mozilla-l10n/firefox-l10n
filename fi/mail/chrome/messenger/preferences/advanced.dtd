@@ -1,0 +1,79 @@
+<!ENTITY itemGeneral.label        "Yleiset">
+<!ENTITY itemUpdate.label         "Päivitys">
+<!ENTITY itemNetworking.label    "Verkkoyhteys ja levytila">
+<!ENTITY itemCertificates.label  "Varmenteet">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label   "Näytä osoitekirjassa olevien nimet ilman sähköpostiosoitetta">
+<!ENTITY showCondensedAddresses.accesskey  "N">
+
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+<!ENTITY markAsRead.label               "Merkitse viesti luetuksi, kun on kulunut">
+<!ENTITY markAsRead.accesskey           "M">
+<!ENTITY markAsReadEnd.label            "sekuntia viestin avaamisesta">
+<!ENTITY showFolderColumns.label        "Näytä sarakevalinnat kansiopaneelissa">
+<!ENTITY showFolderColumns.accesskey    "ä">
+<!ENTITY rememberLastMsg.label          "Käynnistyessä avaa viimeiseksi luettu viesti">
+<!ENTITY rememberLastMsg.accesskey      "K">
+<!ENTITY openMsgIn.label               "Avaa uudet viestit:">
+<!ENTITY reuseExpRadio0.label           "Uuteen viesti-ikkunaan">
+<!ENTITY reuseExpRadio0.accesskey       "U">
+<!ENTITY reuseExpRadio1.label           "Auki olevaan viesti-ikkunaan">
+<!ENTITY reuseExpRadio1.accesskey       "A">
+<!ENTITY reuseExpRadio2.label          "Uuteen viestivälilehteen">
+<!ENTITY reuseExpRadio2.accesskey      "v">
+<!ENTITY connectionTimeout.label        "Aikakatkaise yhteys">
+<!ENTITY connectionTimeout.accesskey    "y">
+<!ENTITY connectionSeconds.label        "sekunnin jälkeen">
+<!ENTITY configEditDesc.label           "Kaikkien asetusten muokkaus">
+<!ENTITY configEdit.label               "Asetusten muokkain…">
+<!ENTITY configEdit.accesskey           "e">
+<!ENTITY returnReceiptsInfo.label      "Aseta kuinka &brandShortName; käsittelee vastaanottokuittauksia">
+<!ENTITY showReturnReceipts.label      "Vastaanottokuittaukset…">
+<!ENTITY showReturnReceipts.accesskey  "V">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                 "Hae päivityksiä väliajoin:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;iin">
+<!ENTITY enableAppUpdate.accesskey       "T">
+<!ENTITY enableAddonsUpdate.label       "Asennettuihin lisäosiin">
+<!ENTITY enableAddonsUpdate.accesskey   "A">
+<!ENTITY checkNow.label                  "Hae heti…">
+<!ENTITY whenUpdatesFound.label          "Kun päivityksiä &brandShortName;iin löytyy:">
+<!ENTITY modeAskMe.label                 "Kysy, mitä tehdään">
+<!ENTITY modeAskMe.accesskey             "K">
+<!ENTITY modeAutomatic.label             "Lataa ja asenna päivitykset automaattisesti">
+<!ENTITY modeAutomatic.accesskey         "L">
+<!ENTITY modeAutoAddonWarn.label        "Varoita, jos päivitys poistaa käytöstä lisäosia">
+<!ENTITY modeAutoAddonWarn.accesskey    "V">
+<!ENTITY showUpdates.label               "Näytä päivityshistoria">
+<!ENTITY showUpdates.accesskey           "N">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Yhteysasetukset…">
+<!ENTITY showConnections.accesskey     "Y">
+<!ENTITY proxiesInfo.label             "Määritä yhteyden välityspalvelimet.">
+<!ENTITY connectionsInfo.caption       "Yhteysasetukset">
+<!ENTITY offlineInfo.caption           "Yhteydetön tila">
+<!ENTITY offlineInfo.label             "Määritä verkkoyhteydettömän tilan asetukset">
+<!ENTITY showOffline.label             "Yhteydetön tila…">
+<!ENTITY showOffline.accesskey         "h">
+
+<!ENTITY Diskspace "Levytilan käyttö">
+<!ENTITY offlineCompact.label "Tiivistä kansiot aina kun se säästää yli">
+<!ENTITY offlineCompact.accesskey "T">
+<!ENTITY kb.label "kt">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo2.label        "Hallinnoi varmenteita, sulkulistoja, varmenteiden kelpuutusta ja turvalaitteita.">
+<!ENTITY viewCertificates.label         "Näytä varmenteet">
+<!ENTITY viewCertificates.accesskey     "N">
+<!ENTITY viewCRLs.label                 "Sulkulistat">
+<!ENTITY viewCRLs.accesskey             "S">
+<!ENTITY validation.label               "Kelpuutus">
+<!ENTITY validation.accesskey           "K">
+<!ENTITY viewSecurityDevices.label      "Turvallisuuslaitteet">
+<!ENTITY viewSecurityDevices.accesskey  "T">

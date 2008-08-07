@@ -1,0 +1,16 @@
+<!ENTITY addressbookPicker.label             "Osoitekirja:">
+<!ENTITY addressbookPicker.accesskey        "O">
+<!ENTITY searchInput.label                   "Etsi:">
+<!ENTITY searchInput.accesskey              "E">
+<!ENTITY SearchNameOrEmail.label             "Nimestä tai osoitteesta">
+
+<!ENTITY addtoToFieldMenu.label              "Lisää vastaanottajakenttään">
+<!ENTITY addtoCcFieldMenu.label              "Lisää kopiokenttään">
+<!ENTITY addtoBccFieldMenu.label             "Lisää piilokopiokenttään">
+
+<!ENTITY toButton.label                     "Vastaanottaja:">
+<!ENTITY toButton.accesskey                 "V">
+<!ENTITY ccButton.label                     "Kopio:">
+<!ENTITY ccButton.accesskey                 "K">
+<!ENTITY bccButton.label                    "Piilokopio:">
+<!ENTITY bccButton.accesskey                "P">

@@ -1,0 +1,15 @@
+<!ENTITY reportSite                   "Sivusto">
+<!ENTITY reportProblemType            "Ongelmatyyppi">
+<!ENTITY reportDecsription            "Kuvaus">
+<!ENTITY reportPlatform               "Alusta">
+<!ENTITY reportProduct                "Tuote">
+<!ENTITY reportoscpu                  "Käyttöjärjestelmä">
+<!ENTITY reportGecko                  "Gecko">
+<!ENTITY reportBuildConfig            "Ohjelman käännösasetukset">
+<!ENTITY reportUseragent              "Selaintunniste">
+<!ENTITY reportLanguage               "Kieli">
+<!ENTITY reportCharset                "Merkistö">
+<!ENTITY reportEmail                  "Sähköposti">
+<!ENTITY error                        "Virhetiedot">
+<!ENTITY faultCode                    "Koodi">
+<!ENTITY faultMessage                 "Viesti">

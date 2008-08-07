@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title          "Poista yksityisyystietoja">
+
+<!ENTITY sanitizeItems.label           "Poista seuraavat tiedot:">
+<!ENTITY clearDataSettings.label      "Seuraavat yksityisyystiedot pitäisi pyydettäessä poistaa:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label             "Sivuhistoria">
+<!ENTITY itemHistory.accesskey         "S">
+<!ENTITY itemFormSearchHistory.label   "Tallennetut lomake- ja hakutiedot">
+<!ENTITY itemFormSearchHistory.accesskey "T">
+<!ENTITY itemPasswords.label           "Tallennetut salasanat">
+<!ENTITY itemPasswords.accesskey       "a">
+<!ENTITY itemCookies.label             "Evästeet">
+<!ENTITY itemCookies.accesskey         "E">
+<!ENTITY itemCache.label               "Väliaikaistiedostot">
+<!ENTITY itemCache.accesskey           "V">
+<!ENTITY itemOfflineApps.label        "Yhteydettömän tilan tiedot">
+<!ENTITY itemOfflineApps.accesskey    "Y">
+<!ENTITY itemDownloads.label           "Latauslista">
+<!ENTITY itemDownloads.accesskey       "L">
+<!ENTITY itemSessions.label            "Todennetut istunnot">
+<!ENTITY itemSessions.accesskey        "d">
+<!ENTITY window.width                 "30em">

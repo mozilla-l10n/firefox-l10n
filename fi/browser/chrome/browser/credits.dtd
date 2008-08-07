@@ -1,0 +1,18 @@
+<!ENTITY brandMotto       "Selain, joka iskee kipinää">
+<!ENTITY credit.thanks    "Erityiskiitokset">
+
+<!ENTITY credit.thanks2      "Suurkiitokset">
+<!ENTITY credit.contributors2 "tekijöille" >
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation  "<h3>Lokalisointi Suomeen</h3><ul>
+<li>Suomennosprojekti<br />
+http://www.mozilla.fi</li>
+<li>Kaikki apua tarjonneet</li></ul>">
+
+<!ENTITY credit.memory      "Lämpimästi muistaen">
+<!ENTITY credit.poweredByGeckoReg "Voimanlähteenä Gecko&reg;">

@@ -1,0 +1,32 @@
+<!ENTITY credit.title      "&brandFullName; tekijät">
+<!ENTITY brandMotto        "Myrskylinnut matkaan!">
+<!ENTITY credit.leads      "Pääsuunnittelijat">
+<!ENTITY credit.core       "Ydinkehittäjätiimi">
+<!ENTITY credit.gecko      "Gecko-asettelijamoottori">
+<!ENTITY credit.thanks     "Erityiskiitokset">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation "<h3>Lokalisointi Suomeen</h3><ul>
+-->
+<!ENTITY credit.translation  "<h3>Lokalisointi Suomeen</h3><ul>
+<li>Suomennosprojekti<br />
+http://www.mozilla.fi</li>
+<li>Kaikki apua tarjonneet</li></ul>">
+
+<!ENTITY credit.visuals      "Visuaalisen ilmeen koordinointi">
+<!ENTITY credit.theme        "Teeman suunnittelu">
+<!ENTITY credit.brand        "Merkki-identiteetti">
+<!ENTITY credit.web          "WWW-ulkoasun suunnittelu">
+<!ENTITY credit.update       "Mozilla-päivitys">
+<!ENTITY credit.qalead       "Laaduntarkkailusta vastaava">
+<!ENTITY credit.qa           "Laaduntarkkailu">
+<!ENTITY credit.build        "Pakettien luonti ja julkaisu">
+<!ENTITY credit.infra        "Laitteistotuki">
+<!ENTITY credit.support      "Tukiresurssit">
+<!ENTITY credit.manage       "Projektinhallinta">
+<!ENTITY credit.marketleads  "Markkinoinnista vastaavat">
+<!ENTITY credit.market       "Markkinointi">
+<!ENTITY credit.creators     "Tekijät">
+<!ENTITY credit.memory       "Lämpimästi muistaen">
+<!ENTITY credit.poweredByGecko  "Voimanlähteenä Gecko&trade;">

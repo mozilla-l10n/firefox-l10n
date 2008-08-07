@@ -1,0 +1,39 @@
+<!-- extracted from content/pref-composer.xul -->
+
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title                "Composer">
+
+<!ENTITY  saving                     "Tallentaminen">
+<!ENTITY  AutoSaveCheck              "Tallenna automaattisesti joka">
+<!ENTITY  minText                    ". minuutti">
+
+<!ENTITY  exterLegend.label          "Ulkoiset muokkaimet">
+<!ENTITY  htmlSource                 "HTML-lähdekoodi:">
+<!ENTITY  imageeditor                "Kuvat:">
+<!ENTITY  chooseButton.label         "Valitse">
+
+<!ENTITY  recentFiles.title          "Viimeisimmät sivut -valikko">
+<!ENTITY  documentsInMenu.label      "Suurin määrä, jota sivuja listataan:e">
+<!ENTITY  documentsInMenu.accesskey  "S">
+
+<!ENTITY  savingFiles.title              "Kun tallennan tai julkaisen sivun">
+<!ENTITY  preserveExisting.label         "Säilytän lähteen muotoilu">
+<!ENTITY  preserveExisting.accesskey     "S">
+<!ENTITY  preserveExisting.tooltip       "Säilytän rivinvaihdot ja sivun muotoilu">
+<!ENTITY  saveAssociatedFiles.label      "Tallenna myös sivuun liittyvät kuvat ja muut tiedostot sivua tallennettaessa">
+<!ENTITY  saveAssociatedFiles.accesskey  "T">
+<!ENTITY  showPublishDialog.label        "Näytä julkaisuikkuna aina sivuja julkaistaessa">
+<!ENTITY  showPublishDialog.accesskey    "N">
+
+<!ENTITY  composerEditing.label          "Muokkaus">
+<!ENTITY  spellCheckInline.label        "Oikolue kirjoitettaessa">
+<!ENTITY  spellCheckInline.accesskey    "k">
+<!ENTITY  maintainStructure.label        "Säilytä taulukon muotoilu lisättäessä tai poistettaessa soluja">
+<!ENTITY  maintainStructure.tooltip      "Säilyttää taulukon neliömuodon lisäämällä automaattisesti soluja kun soluja lisätään tai poistetaan">
+<!ENTITY  maintainStructure.accesskey    "t">
+<!ENTITY  useCSS.label                   "Käytä CSS-tyylejä HTML-elementtien ja attribuuttien sijaan">
+<!ENTITY  useCSS.accesskey               "C">
+<!ENTITY  crInPCreatesNewP.label         "Rivinvaihto kirjoitettaessa kappaletta aloittaa aina uuden kappaleen.">
+<!ENTITY  crInPCreatesNewP.accesskey     "U">

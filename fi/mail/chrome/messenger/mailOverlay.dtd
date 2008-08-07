@@ -1,0 +1,8 @@
+<!ENTITY  newMessageCmd2.key               "N">
+<!ENTITY  newMessageCmd.key                "M">
+<!ENTITY  newMessageCmd.label              "Viesti">
+<!ENTITY  newMessageCmd.accesskey          "V">
+ 
+<!ENTITY  newCardCmd.label                 "Osoitekirjan kortti…">
+<!ENTITY  newCardCmd.accesskey             "O">
+ 

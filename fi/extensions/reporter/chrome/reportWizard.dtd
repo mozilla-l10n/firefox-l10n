@@ -1,0 +1,58 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                          "Ilmoita viallinen sivusto">
+
+<!ENTITY privacyNotice.label                         "Tietosuojakäytäntö">
+<!ENTITY reportWizardPrivacy.description             "Tällä työkalulla voit helposti kertoa evankelistatiimillemme WWW-sivuista, jotka eivät toimi kunnolla &brandShortName;illa tai estävät sillä selaamisen. Näin voit auttaa meitä luomaan parhaan mahdollisen selauskokemuksen &brandShortName;in käyttäjille. Ole hyvä ja lue alla oleva kuvaus, kuinka käytämme kerättyjä tietoja, ennen kuin lähetät ilmoituksesi.">
+<!ENTITY reportWizardMustAgree.description           "Jatkaaksesi sinun täytyy hyväksyä yllä oleva tietosuojakäytäntö.">
+
+<!ENTITY dontShowPrivacyStatement.label              "Olen lukenut ja hyväksyn yllä olevan tietosuojakäytännön.">
+<!ENTITY dontShowPrivacyStatement.accesskey          "O">
+
+<!ENTITY reportForm.label                            "Täytä ilmoitus">
+
+<!ENTITY reportForm.description                      "Kerro meille lyhyesti ongelmasta:">
+<!ENTITY reportForm.url.title                        "Sivuston osoite:">
+<!ENTITY reportForm.url.accesskey                    "S">
+
+<!ENTITY reportForm.behind_login.title              "Sivusto on salasanasuojattu"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey           "s">
+
+<!ENTITY reportForm.problem_type.title               "Ongelmatyyppi:">
+<!ENTITY reportForm.problem_type.accesskey           "O">
+
+<!ENTITY reportForm.problem_type.chooseOne.title     "Valitse yksi…">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title         "Selain ei ole tuettu">
+<!ENTITY reportForm.problem_type.item2.title         "Sisäänkirjautuminen ei onnistu">
+<!ENTITY reportForm.problem_type.item3.title         "Liitännäinen ei näy">
+<!ENTITY reportForm.problem_type.item4.title         "Sivulta puuttuu jotain muuta sisältöä">
+<!ENTITY reportForm.problem_type.item5.title         "Sivu toimii väärin">
+<!ENTITY reportForm.problem_type.item6.title         "Sivu näyttää väärältä">
+<!ENTITY reportForm.problem_type.item7.title         "Muu ongelma">
+<!ENTITY reportForm.problem_type.item8.title         "Ongelma esteettömyystoiminnoissa">
+<!ENTITY reportForm.problem_type.item9.title        "Sivun tuloste on virheellinen">
+
+<!ENTITY reportForm.describe.title                   "Kuvaile ongelmaa:">
+<!ENTITY reportForm.describe.accesskey               "K">
+
+<!ENTITY reportForm.platform.title                   "Alusta:">
+<!ENTITY reportForm.product.title                    "Tuote:">
+<!ENTITY reportForm.gecko.title                      "Gecko:">
+<!ENTITY reportForm.useragent.title                  "Selaintunniste:">
+<!ENTITY reportForm.language.title                   "Kieli:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                      "Sähköposti (valinnainen):">
+<!ENTITY reportForm.email.accesskey                  "p">
+
+<!ENTITY reportForm.privacyPolicy.title              "Tietosuojakäytäntö">
+<!ENTITY reportForm.privacyPolicy.tooltip            "Näytä tietosuojakäytäntö">
+
+<!ENTITY reportResults.showDetail.title              "Näytä yksityiskohdat">
+<!ENTITY reportResults.showDetail.accesskey          "N">
+
+<!ENTITY sendReport.label                            "Lähetetään ilmoitusta">
+<!ENTITY sendReport.description                      "Lähetetään ilmoitusta palvelimelle…">
+
+<!ENTITY finish.label                                "Ilmoitus lähetettiin">

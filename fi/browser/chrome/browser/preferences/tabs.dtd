@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "Uudet sivut avataan:">
+<!ENTITY inNewWindow.label            "Uuteen ikkunaan">
+<!ENTITY inNewWindow.accesskey        "i">
+<!ENTITY inNewTab.label               "Uuteen välilehteen">
+<!ENTITY inNewTab.accesskey           "v">
+
+<!ENTITY warnCloseMultipleTabs.label  "Varoita, kun yritän sulkea useita välilehtiä samanaikaisesti">
+<!ENTITY warnCloseMultipleTabs.accesskey  "r">
+
+<!ENTITY warnOpenManyTabs.label       "Varoita, kun usean välilehden avaaminen voi hidastaa &brandShortName;in toimintaa">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
+
+<!ENTITY showTabBar.label             "Välilehtipalkki on aina esillä">
+<!ENTITY showTabBar.accesskey         "p">
+
+<!ENTITY switchToNewTabs.label        "Valitse linkistä avattu välilehti">
+<!ENTITY switchToNewTabs.accesskey    "a">

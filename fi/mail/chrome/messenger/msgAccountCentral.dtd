@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label         "Sähköposti">
+<!ENTITY readMsgsLink.label            "Lue viestejä">
+<!ENTITY composeMsgLink.label          "Kirjoita uusi viesti">
+
+<!ENTITY newsSectionHdr.label          "Keskusteluryhmät">
+<!ENTITY subscribeNewsLink.label       "Muokkaa tilattuja keskusteluryhmiä">
+
+<!ENTITY accountsSectionHdr.label      "Tilit">
+<!ENTITY subscribeImapFolders.label    "Muokkaa tilattuja kansioita">
+<!ENTITY settingsLink.label            "Muokkaa tämän tilin asetuksia">
+<!ENTITY newAcctLink.label             "Luo uusi tili">
+
+<!ENTITY advFeaturesSectionHdr.label   "Lisäominaisuudet">
+<!ENTITY searchMsgsLink.label          "Etsi viesteistä">
+<!ENTITY filtersLink.label             "Muokkaa viestisuodattimia">
+<!ENTITY junkSettings.label            "Roskapostin asetukset">
+<!ENTITY offlineLink.label             "Yhteydettömän tilan asetukset">
+
+
+<!ENTITY rssSectionHdr.label           "RSS-uutiset ja -verkkopäiväkirjat">
+<!ENTITY subscibeRSS.label             "Muokkaa tilauksia">

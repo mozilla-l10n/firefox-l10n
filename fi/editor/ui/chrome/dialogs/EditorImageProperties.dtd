@@ -1,0 +1,119 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label  "Kuvan ominaisuudet">
+
+<!ENTITY pixelsPopup.value  "kuvapistettä">
+<!ENTITY percentPopup.value  "prosenttia">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label  "Kuvan sijainti:">
+<!ENTITY locationEditField.accessKey  "K">
+<!ENTITY locationEditField.tooltip  "Kirjoita kuvan tiedostonimi tai sijainti">
+<!ENTITY title.label  "Työkaluvihje:">
+<!ENTITY title.accessKey  "T">
+<!ENTITY title.tooltip  'HTML määre "title", joka näkyy työkaluvihjeenä'>
+<!ENTITY altText.label  "Vaihtoehtoinen teksti:">
+<!ENTITY altText.accessKey  "V">
+<!ENTITY altTextEditField.tooltip  "Kirjoita kuvan tilalla näytettävä teksti">
+<!ENTITY noAltText.label  "Älä käytä vaihtoehtoista tekstiä">
+<!ENTITY noAltText.accessKey  "Ä">
+
+<!ENTITY previewBox.label  "Kuvan esikatselu">
+<!ENTITY MoreFewerButton.tooltip  "Näytä enemmän tai vähemmän muokattavia ominaisuuksia">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label  "Todellinen koko:">
+<!ENTITY actualSizeRadio.label  "Todellinen koko">
+<!ENTITY actualSizeRadio.accessKey  "T">
+<!ENTITY actualSizeRadio.tooltip  "Palaa kuvan todelliseen kokoon">
+<!ENTITY customSizeRadio.label  "Mukautettu koko">
+<!ENTITY customSizeRadio.accessKey  "M">
+<!ENTITY customSizeRadio.tooltip  "Muuta kuvan kokoa näytöllä">
+<!ENTITY heightEditField.label  "Korkeus:">
+<!ENTITY heightEditField.accessKey  "K">
+<!ENTITY widthEditField.label  "Leveys:">
+<!ENTITY widthEditField.accessKey  "e">
+<!ENTITY constrainCheckbox.label  "Säilytä muoto">
+<!ENTITY constrainCheckbox.accessKey  "S">
+<!ENTITY constrainCheckbox.tooltip  "Säilytä kuvan suhteet ennallaan">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label  "Kuvan kartta">
+<!ENTITY removeImageMapButton.label  "Poista">
+<!ENTITY removeImageMapButton.accessKey  "P">
+<!ENTITY editImageMapButton.label  "Muokkaa…">
+<!ENTITY editImageMapButton.tooltip  "Luo napsautettavia alueita tälle kuvalle">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label  "Linjaa teksti kuvaan">
+<!ENTITY bottomPopup.value  "Pohjalle">
+<!ENTITY topPopup.value  "Ylös">
+<!ENTITY centerPopup.value  "Keskelle">
+<!ENTITY wrapRightPopup.value  "Rivitä oikealle">
+<!ENTITY wrapLeftPopup.value  "Rivitä vasemmalle">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label  "Vapaa tila">
+<!ENTITY spacingBox.tooltip  "Anna suuruus kuvaa ympäröivälle tilalle">
+<!ENTITY leftRightEditField.label  "Vasemmalla ja oikealla:">
+<!ENTITY leftRightEditField.accessKey  "V">
+<!ENTITY topBottomEditField.label  "Ylhäällä ja alhaalla:">
+<!ENTITY topBottomEditField.accessKey  "Y">
+<!ENTITY borderEditField.label  "Jatkuva reunaviiva:">
+<!ENTITY borderEditField.accessKey  "n">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label  "Näytä linkkikuvan ympärillä reunus">
+<!ENTITY showImageLinkBorder.accessKey  "N">
+
+<!-- These controls may be added some day; currently not used -->
+<!ENTITY makePageBackgroundCheckbox.label  "Tee taustakuvaksi">
+<!ENTITY makePageBackgroundCheckbox.tooltip  "Käytä kuvaa sivusi taustakuvana">
+<!ENTITY editImageButton.label  "Muokkaa kuvaa">
+<!ENTITY editImageButton.tooltip  "Muokkaa kuvaa toisessa ohjelmassa">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label  "Lomake">
+<!ENTITY imageLocationTab.label  "Sijainti">
+<!ENTITY imageDimensionsTab.label  "Mitat">
+<!ENTITY imageAppearanceTab.label  "Ulkoasu">
+<!ENTITY imageLinkTab.label  "Linkki">

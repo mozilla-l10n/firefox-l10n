@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label  "Viestin turvallisuus">
+<!ENTITY signatureCert.label  "Näytä allekirjoituksen varmenne">
+<!ENTITY encryptionCert.label  "Näytä salausvarmenne">
+
+<!ENTITY signer.name  "Allekirjoittaja:">
+<!ENTITY recipient.name  "Salattu vastaanottajalle:">
+<!ENTITY email.address  "Sähköpostiosoite:">
+<!ENTITY issuer.name  "Varmenteen myöntäjä:">
