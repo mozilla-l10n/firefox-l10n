@@ -1,0 +1,13 @@
+<!ENTITY window.title                      "Standaardapplicatie-instellingen">
+<!ENTITY window.width                      "400px">
+<!ENTITY checkNow.label                    "Nu controleren">
+<!ENTITY whenStartingCheckFor.label        "Bij het opstarten, &brandShortName; laten controleren of het de standaardapplicatie is voor">
+<!ENTITY mailApplication.label             "E-mail">
+<!ENTITY mailApplication.accesskey         "M">
+<!ENTITY checkMailNow.accesskey            "C">
+<!ENTITY newsApplication.label             "Nieuws">
+<!ENTITY newsApplication.accesskey         "N">
+<!ENTITY checkNewsNow.accesskey            "h">
+<!ENTITY rssFeeds.label                    "RSS-feeds">
+<!ENTITY rssFeeds.accesskey                "R">
+<!ENTITY checkFeedAggregatorNow.accesskey  "e">

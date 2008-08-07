@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "Gjin eigenskippen ynsteld.">
+
+<!ENTITY caption.label         "Eleminteigenskippen">
+<!ENTITY image-sec.label       "Ofbyldingseigenskippen">
+<!ENTITY image-url.label       "Lokaasje:">
+<!ENTITY image-type.label      "Type:">
+<!ENTITY image-desc.label      "Beskriuwing:">
+<!ENTITY image-alt.label       "Alternatieve tekst:">
+<!ENTITY image-size.label      "Ofbyldings ôfmjittings:">
+<!ENTITY image-filesize.label  "Bestânsgrutte:">
+<!ENTITY insdel-sec.label      "Eigenskippen ynfoegje/foartsmitte">
+<!ENTITY insdel-cite.label     "Ynfo:">
+<!ENTITY insdel-date.label     "Datum:">
+<!ENTITY link-sec.label        "Keppelingseigenskippen">
+<!ENTITY link-url.label        "Adres:">
+<!ENTITY link-target.label     "Sil iepenje yn:">
+<!ENTITY link-type.label       "Doeltype:">
+<!ENTITY link-lang.label       "Doeltaal:">
+<!ENTITY link-rel.label        "Relaasje:">
+<!ENTITY link-rev.label        "Oarsom relaasje:">
+<!ENTITY link-ping.label       "Sil bekend meitsje:">
+<!ENTITY misc-sec.label        "Oerige eigenskippen">
+<!ENTITY misc-lang.label       "Teksttaal:">
+<!ENTITY misc-title.label      "Titel:">
+<!ENTITY misc-tblsummary.label "Tabelgearfetting:">
+<!ENTITY quote-sec.label       "Sitaateigenskippen">
+<!ENTITY quote-cite.label      "Ynfo:">

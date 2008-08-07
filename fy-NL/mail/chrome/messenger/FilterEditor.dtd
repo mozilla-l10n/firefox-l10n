@@ -1,0 +1,53 @@
+<!ENTITY window.title "Filterregels">
+<!ENTITY subject.label "Onderwerp">
+<!ENTITY sender.label "Afzender">
+<!ENTITY date.label "Datum">
+<!ENTITY anyText.label "Elke tekst">
+<!ENTITY keyword.label "Trefwoord">
+<!ENTITY age.label "Leeftijd in dagen">
+<!ENTITY to.label "Aan">
+
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "Status">
+<!ENTITY priority.label "Prioriteit">
+<!ENTITY body.label "Kern">
+<!ENTITY contains.label "bevat">
+<!ENTITY nocontains.label "bevat geen">
+<!ENTITY filterName.label "Filternaam:">
+<!ENTITY filterName.accesskey "F">
+
+<!ENTITY junk.label "Ongewenst bericht">
+<!ENTITY notJunk.label "Geen ongewenst bericht">
+
+<!ENTITY lowestPriorityCmd.label "Laagst">
+<!ENTITY lowPriorityCmd.label "Laag">
+<!ENTITY normalPriorityCmd.label "Normaal">
+<!ENTITY highPriorityCmd.label "Hoog">
+<!ENTITY highestPriorityCmd.label "Hoogst">
+
+<!ENTITY conditionDesc.label "Voor inkomende berichten:">
+<!ENTITY filterActionDesc.label "Deze acties uitvoeren:">
+<!ENTITY filterActionDesc.accesskey "V">
+
+<!ENTITY newFolderButton.label "Nieuwe map...">
+<!ENTITY newFolderButton.accesskey "N">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Bericht verplaatsen naar">
+<!ENTITY copyMessage.label "Bericht kopiëren naar">
+<!ENTITY forwardTo.label "Bericht doorsturen naar">
+<!ENTITY replyWithTemplate.label "Met sjabloon antwoorden">
+<!ENTITY markMessageRead.label "Bericht als gelezen markeren">
+<!ENTITY markMessageStarred.label "Ster toevoegen">
+<!ENTITY labelMessage.label "Bericht labelen als">
+<!ENTITY setPriority.label "Prioriteit veranderen naar">
+<!ENTITY addTag.label "Bericht labelen">
+<!ENTITY setJunkScore.label "Ongewenst-berichtstatus instellen op">
+<!ENTITY deleteMessage.label "Bericht verwijderen">
+<!ENTITY deleteFromPOP.label "Van POP-server verwijderen">
+<!ENTITY fetchFromPOP.label "Van POP-server ophalen">
+<!ENTITY ignoreThread.label "Conversatie negeren">
+<!ENTITY watchThread.label "Conversatie volgen">
+<!ENTITY stopExecution.label "Uitvoeren filter stoppen">

@@ -1,0 +1,25 @@
+<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+
+<!ENTITY messengerCmd.label "E-mail &amp; nieuwsgroepen">
+<!ENTITY messengerCmd.accesskey "E">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Adresboek">
+<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.commandkey "2">
+
+<!ENTITY taskMessenger.tooltip "E-mail &amp; nieuwsgroepen">
+<!ENTITY taskAddressBook.tooltip "Adresboek">
+
+<!-- searchAddressesCmd is also used by addressbook -->
+<!ENTITY searchAddressesCmd.label "Adressen zoeken...">
+<!ENTITY searchAddressesCmd.accesskey "A">
+
+<!ENTITY searchMailCmd.label "Berichten zoeken...">
+<!ENTITY searchMailCmd.accesskey "B">
+<!ENTITY searchMailCmd.key "f">
+
+<!ENTITY errorConsoleCmd.label "Foutconsole">
+<!ENTITY errorConsoleCmd.accesskey "F">
+
+<!ENTITY tasksMenu.label "Extra">
+<!ENTITY tasksMenu.accesskey "E">

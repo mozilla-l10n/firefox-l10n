@@ -1,0 +1,122 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Kopiearje">
+<!ENTITY  copy.accesskey        "K">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Alles selektearje">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Algemien">
+<!ENTITY  generalTab.accesskey  "A">
+<!ENTITY  generalURL            "URL:">
+<!ENTITY  generalType           "Type:">
+<!ENTITY  generalMode           "Render Modus:">
+<!ENTITY  generalSize           "Grutte:">
+<!ENTITY  generalReferrer       "Ferwizende URL:">
+<!ENTITY  generalSource         "Bufferboarne:">
+<!ENTITY  generalModified       "Wizige:">
+<!ENTITY  generalEncoding       "Kodearring:">
+<!ENTITY  generalMetaName       "Namme">
+<!ENTITY  generalMetaContent    "Ynhâld">
+<!ENTITY  generalSecurityMore   "Mear">
+<!ENTITY  generalSecurityMore.accesskey "M">
+
+<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Lokaasje:">
+<!ENTITY  mediaText             "Assosjearre tekst:">
+<!ENTITY  mediaAltHeader        "Alternatieve tekst">
+<!ENTITY  mediaAddress          "Adres">
+<!ENTITY  mediaType             "Type">
+<!ENTITY  mediaSize             "Grutte">
+<!ENTITY  mediaCount            "Oantal">
+<!ENTITY  mediaDimension        "Ofmjittings:">
+<!ENTITY  mediaLongdesc         "Lange omskriuwing:">
+<!ENTITY  mediaBlockImage.accesskey "l">
+<!ENTITY  mediaSaveAs           "Bewarje as...">
+<!ENTITY  mediaSaveAs.accesskey "j">
+<!ENTITY  mediaSaveAs2.accesskey "j">
+<!ENTITY  mediaPreview          "Mediafoarbyld:">
+
+<!ENTITY  feedTab               "Feeds">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "abonnearje">
+<!ENTITY  feedSubscribe.accesskey "a">
+
+<!ENTITY  permTab               "Tastemmings">
+<!ENTITY  permTab.accesskey     "T">
+<!ENTITY  permUseDefault        "Standert brûke">
+<!ENTITY  permAllow             "Tastean">
+<!ENTITY  permAllowSession      "Tastean foar sesje">
+<!ENTITY  permBlock             "Blokkearje">
+<!ENTITY  permissionsFor        "Tastemmings foar:">
+<!ENTITY  permImage             "Ofbyldings lade">
+<!ENTITY  permPopup             "Popupfinster iepenje">
+<!ENTITY  permCookie            "Cookies ynstelle">
+<!ENTITY  permInstall           "Utwreidings of tema's ynstallearje">
+
+<!ENTITY  securityTab           "Befeiliging">
+<!ENTITY  securityTab.accesskey "B">
+<!ENTITY  securityHeader        "Befeiligingsynformaasje foar dizze side">
+<!ENTITY  securityView.certView "Sertifikaat besjen">
+<!ENTITY  securityView.accesskey "b">
+<!ENTITY  securityView.unknown   "Unbekend">
+
+
+<!ENTITY  securityView.identity.header   "Webstee identiteit">
+<!ENTITY  securityView.identity.owner    "Eigner: ">
+<!ENTITY  securityView.identity.domain   "Webstee: ">
+<!ENTITY  securityView.identity.verifier "Befêstige troch: ">
+
+<!ENTITY  securityView.privacy.header                   "Privacy &amp; Skiednis">
+<!ENTITY  securityView.privacy.history                  "Haw ik dizze webstee al earder as hjoed besocht?">
+<!ENTITY  securityView.privacy.cookies                  "Bewarret dizze webstee ynformaasje (cookies) op myn kompjûter?">
+<!ENTITY  securityView.privacy.viewCookies              "Cookies besjen">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Haw ik wachtwurden bewarre foar dizze webstee?">
+<!ENTITY  securityView.privacy.viewPasswords            "Bewarre wachtwurden besjen">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Technyske details">

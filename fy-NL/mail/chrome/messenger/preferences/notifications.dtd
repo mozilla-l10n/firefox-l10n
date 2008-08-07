@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title       "Waarschuwing bij nieuwe e-mail aanpassen">
+<!ENTITY window.width                     "34em">
+
+<!ENTITY alertCustomization.intro         "Kies welke velden worden getoond in de waarschuwingsnotificatie:">
+<!ENTITY previewText.label                "Voorbeeldweergavetekst">
+<!ENTITY previewText.accesskey            "V">
+<!ENTITY subject.label                    "Onderwerp">
+<!ENTITY subject.accesskey                "O">
+<!ENTITY sender.label                     "Afzender">
+<!ENTITY sender.accesskey                 "A">

@@ -1,0 +1,54 @@
+<!ENTITY itemJunk.label          "Ongewenste berichten">
+<!ENTITY itemPhishing.label      "E-mailscams">
+<!ENTITY itemPasswords.label     "Wachtwoorden">
+<!ENTITY itemAntiVirus.label     "Antivirus">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Stel uw standaardinstellingen voor ongewenste-berichtendetectie in. Accountspecifieke instellingen kunnen worden geconfigureerd in Accountinstellingen.">
+<!ENTITY manualMark.label "Wanneer ik berichten markeer als ongewenst:">
+<!ENTITY manualMark.accesskey "W">
+<!ENTITY manualMarkModeMove.label "ze verplaatsen naar de map &quot;Ongewenst&quot; van de account">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "ze verwijderen">
+<!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY markAsReadOnSpam.label "Berichten die zijn gedetecteerd als ongewenst, markeren als gelezen">
+<!ENTITY markAsReadOnSpam.accesskey "k">
+<!ENTITY enableJunkLogging.label "Ongewenste-berichtenlogboek activeren">
+<!ENTITY enableJunkLogging.accesskey "a">
+<!ENTITY openJunkLog.label "Logboek tonen">
+<!ENTITY openJunkLog.accesskey "L">
+<!ENTITY resetTrainingData.label "Trainingsgegevens herinitialiseren">
+<!ENTITY resetTrainingData.accesskey "r">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro "&brandShortName; kan berichten analyseren op verdachte e-mailscams door te kijken naar veelvoorkomende technieken die worden gebruikt om u te misleiden.">
+<!ENTITY enablePhishingDetector1.label    "Mij vertellen of het gelezen bericht een verdachte e-mailscam is">
+<!ENTITY enablePhishingDetector1.accesskey  "e">
+<!ENTITY useDownloadedList.label "Een gedownloade lijst van verdachte e-mailscams gebruiken">
+<!ENTITY useDownloadedList.accesskey "d">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro        "&brandShortName; kan wachtwoordinformatie voor al uw accounts onthouden, zodat u niet telkens uw inloggegevens hoeft in te voeren.">
+<!ENTITY encryptEnabled.label        "Een hoofdwachtwoord gebruiken om opgeslagen wachtwoorden te versleutelen">
+<!ENTITY encryptEnabled.accesskey    "h">
+<!ENTITY masterPassword.intro        "Indien ingesteld beveiligt het hoofdwachtwoord al uw wachtwoorden - maar u moet het eens per sessie invoeren.">
+<!ENTITY setMasterPassword.label     "Hoofdwachtwoord">
+<!ENTITY setMasterPassword.accesskey "o">
+<!ENTITY removeMasterPassword.label  "Hoofdwachtwoord verwijderen...">
+<!ENTITY removeMasterPassword.accesskey "v">
+<!ENTITY editPasswords.label         "Opgeslagen wachtwoorden bewerken">
+<!ENTITY editPasswords.accesskey     "b">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; kan het antivirussoftware makkelijk maken om inkomende e-mailberichten op virussen te controleren voordat ze lokaal worden opgeslagen.">
+<!ENTITY antiVirus.label      "Antivirusprogramma’s toestaan om individuele inkomende berichten in quarantaine te plaatsen">
+<!ENTITY antiVirus.accesskey  "u">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "Antivirus">
+<!ENTITY paswords.label         "Wachtwoorden">
+<!ENTITY emailScams.label       "E-mailscams">
+<!ENTITY junkMail.label         "Ongewenste berichten">
+<!ENTITY itemIntrusions.label   "Ongeautoriseerde toegang">
+<!ENTITY itemIntrusionsAndPasswords.label  "Ongeautoriseerde toegang &amp; wachtwoorden">
+<!ENTITY itemJunkMail.label     "Ongewenste berichten">

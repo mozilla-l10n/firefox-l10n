@@ -1,0 +1,58 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "Stikken webstee rapportearje">
+
+<!ENTITY privacyNotice.label                        "Privacy-oerienkomst">
+<!ENTITY reportWizardPrivacy.description            "Dit helpprogramma stelt jo in steat om it evangelisaasjeteam yn te ljochten oer websteeën welke net goed yn Firefox wurkje of Firefox útslute. Dit is jo manier om ús te helpen de best mooglike erfaring foar Firefox-brûkers te fersekerjen. Nim de tiid om de folgjende ynformaasje te lêzen oer hoe't wy omgean mei de ynformaasje dy't wy sammelje as jo beslisse om mei te dwaan.">
+<!ENTITY reportWizardMustAgree.description          "Om fierder te gean motte jo mei de boppesteande privacy-oerienkomst ynstemme.">
+
+<!ENTITY dontShowPrivacyStatement.label             "Ik ha de boppesteande privacy-oerienkomst lêzen en akseptearre.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "I">
+
+<!ENTITY reportForm.label                           "Rapport ynfulle">
+
+<!ENTITY reportForm.description                     "Fertel ús wat mear oer it probleem der't jo tsjin oan rûn binne:">
+<!ENTITY reportForm.url.title                       "Webstee-URL:">
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!ENTITY reportForm.behind_login.title              "Webstee is mei in wachtwurd befeilige"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "W">
+
+<!ENTITY reportForm.problem_type.title              "Probleemtype:">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "Kies ien fan de opsjes...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "Browser wurd net ûndersteund">
+<!ENTITY reportForm.problem_type.item2.title        "Kin net ynlogge">
+<!ENTITY reportForm.problem_type.item3.title        "Ynstekker wurd net sjen litten">
+<!ENTITY reportForm.problem_type.item4.title        "Oare ynhâld mist">
+<!ENTITY reportForm.problem_type.item5.title        "Reagearret ferkeard">
+<!ENTITY reportForm.problem_type.item6.title        "Ferskiint ferkeard">
+<!ENTITY reportForm.problem_type.item7.title        "Oar probleem">
+<!ENTITY reportForm.problem_type.item8.title        "Beheinden tagonklikheid">
+<!ENTITY reportForm.problem_type.item9.title        "Ofdruk is ferkeard">
+
+<!ENTITY reportForm.describe.title                  "Probleembeskriuwing:">
+<!ENTITY reportForm.describe.accesskey              "P">
+
+<!ENTITY reportForm.platform.title                  "Platform:">
+<!ENTITY reportForm.product.title                   "Produkt:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "Useragent:">
+<!ENTITY reportForm.language.title                  "Taal:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "E-mail (opsjoneel):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "Privacy-oerienkomst">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Privacy-oerienkomst besjen">
+
+<!ENTITY reportResults.showDetail.title             "Details sjen litte">
+<!ENTITY reportResults.showDetail.accesskey         "S">
+
+<!ENTITY sendReport.label                           "Rapport oan it ferstjoeren">
+<!ENTITY sendReport.description                     "It rapport nei de tsjinner oan it ferstjoeren...">
+
+<!ENTITY finish.label                               "Rapport ferstjoert">

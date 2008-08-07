@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Printereigenskippen">
+
+<!ENTITY paperInput.label "Papierformaat:">
+
+<!ENTITY plexInput.label "Plex-modus:">
+
+<!ENTITY resolutionInput.label "Resoluusje/Kwaliteit:">
+
+<!ENTITY cmdInput.label "Ofdrukkommando:">
+
+<!ENTITY jobTitleInput.label "Opdrachttitel:">
+
+<!ENTITY colorGroup.label "Kleur:">
+<!ENTITY grayRadio.label "Griistinten">
+<!ENTITY colorRadio.label "Kleur">
+
+<!ENTITY colorspaceInput.label "Kleurromte:">
+
+<!ENTITY fontsGroup.label "Lettertypen:">
+<!ENTITY downloadFonts.label "Laad lettertypen yn nei de printer?">
+
+<!ENTITY edgeMarginInput.label "Romte tusken râne en tekst">
+<!ENTITY topInput.label "Boppe:">
+<!ENTITY bottomInput.label "Under:">
+<!ENTITY leftInput.label "Links:">
+<!ENTITY rightInput.label "Rjochts:">

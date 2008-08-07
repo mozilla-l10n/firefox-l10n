@@ -1,0 +1,53 @@
+<!ENTITY printCmd.commandkey            "P" >
+
+<!ENTITY findOnCmd.commandkey           "F" >
+<!ENTITY findAgainCmd.commandkey        "G" >
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Tebek">
+<!ENTITY backButton.accesskey           "T">
+<!ENTITY backButton.tooltip             "Gean ien side tebek">
+<!ENTITY forwardButton.label            "Foarút">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "Gean ien side foarút">
+<!ENTITY copyCmd.label                  "Kopieare">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Alles selektearje">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Startside">
+<!ENTITY homeButton.tooltip             "Gean nei de startside fan Help">
+<!ENTITY printButton.label              "Ofdrukke">
+<!ENTITY printButton.tooltip            "Dizze side ôfdrukke">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY searchtab.label               "Sykje">
+<!ENTITY searchtab.accesskey            "S">
+<!ENTITY searchClose.tooltip            "Sykrisseltaten slute">
+<!ENTITY toctab.label                  "Ynhâld">
+<!ENTITY toctab.accesskey               "Y">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Altyd boppe-op">
+<!ENTITY zLevel.accesskey               "T">
+
+<!ENTITY fullZoomReduceBtn.label        "Utzoome">
+<!ENTITY fullZoomReduceBtn.accesskey    "U">
+<!ENTITY fullZoomEnlargeBtn.label       "Ynzoome">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "Y">

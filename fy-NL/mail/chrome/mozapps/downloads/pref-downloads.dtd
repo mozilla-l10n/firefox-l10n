@@ -1,0 +1,21 @@
+<!ENTITY alwaysAsk.label "Vraag me waar elke bijlage opgeslagen moet worden">
+<!ENTITY askOnSave.label "Bijlagemap">
+<!ENTITY choose.label "Ander...">
+<!ENTITY closeWhenDone.label "Sluit de bijlagenbeheerder als alle bijlagen compleet zijn.">
+<!ENTITY desktop.label "Bureaublad">
+<!ENTITY downloadManagerWindow.label "Downloadbeheerder">
+<!ENTITY downloads.label "Mijn downloads">
+<!ENTITY editFileHandler.accesskey "A">
+<!ENTITY editFileHandler.label "Actie aanpassen...">
+<!ENTITY fileHandlerColName.label "Toepassing">
+<!ENTITY fileTypeColName.label "Bestandtype">
+<!ENTITY fileTypes.label "Bestandstypen">
+<!ENTITY fileTypesDescription.label "Automatisch voor de volgende bestandstypen de verbonden actie uitvoeren:">
+<!ENTITY lHeader "Bijlagen">
+<!ENTITY neverAsk.label "Alle bijlagen opslaan in deze map:">
+<!ENTITY plugins.accesskey "p">
+<!ENTITY plugins.label "Plug-Ins...">
+<!ENTITY removeFileHandler.accesskey "V">
+<!ENTITY removeFileHandler.label "Verwijderen">
+<!ENTITY showFolder.label "Map weergeven">
+<!ENTITY showWhenStarting.label "Laat downloadbeheerdervenster zien wanneer een download begint.">

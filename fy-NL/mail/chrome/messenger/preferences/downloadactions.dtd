@@ -1,0 +1,31 @@
+<!ENTITY  downloadactionsWindow.title         "Downloadacties">
+<!ENTITY  window.width                        "480">
+<!ENTITY  window.height                       "310">
+
+<!ENTITY  fileTypesDescription.label          "Automatisch de geassocieerde actie uitvoeren bij elk van de volgende bestandstypen:">
+
+<!ENTITY  fileHandlerColumn.label             "Actie">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "Bestandstype">
+<!ENTITY  fileTypeColumn.accesskey            "t">
+<!ENTITY  fileMIMETypeColumn.label            "MIME-type">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "Extensie">
+<!ENTITY  fileExtensionColumn.accesskey       "E">
+
+<!ENTITY  remove.label                        "Actie verwijderen">
+<!ENTITY  remove.accesskey                    "v">
+<!ENTITY  edit.label                          "Actie wijzigen...">
+<!ENTITY  edit.accesskey                      "g">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "Zoeken:">
+<!ENTITY  filter.accesskey                    "Z">
+<!ENTITY  clear.label                         "Wissen">
+<!ENTITY  clear.accesskey                     "W">
+
+<!ENTITY  button.close.label                  "Sluiten">
+<!ENTITY  button.close.accesskey              "S">

@@ -1,0 +1,10 @@
+<!ENTITY  history.title             "Fernijingsskiednis">
+<!ENTITY  history.intro             "De folgjende fernijings binne ynstallearre:">
+<!ENTITY  closebutton.label         "Slute">
+
+<!ENTITY  noupdates.label           "Der binne noch gjin fernijings ynstallearre">
+
+<!ENTITY  name.header               "Fernijingsnamme">
+<!ENTITY  date.header               "Ynstallaasjedatum">
+<!ENTITY  type.header               "Type">
+<!ENTITY  state.header              "Steat">

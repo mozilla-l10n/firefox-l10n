@@ -1,0 +1,18 @@
+<!ENTITY  untitledTab            		"(Gjin titel)">
+<!ENTITY  newTab.label           		"Nij ljepblêd">
+<!ENTITY  newTab.accesskey       		"N">
+<!ENTITY  closeTab.label         		"Ljepblêd slute">
+<!ENTITY  closeTab.accesskey        	"L">
+<!ENTITY  closeOtherTabs.accesskey  	"S">
+<!ENTITY  closeOtherTabs.label   		"Slút oare ljepblêden">
+<!ENTITY  reloadAllTabs.label    		"Alle ljepblêden op 'e nij lade">
+<!ENTITY  reloadAllTabs.accesskey   	"A">
+<!ENTITY  reloadTab.label        		"Ljepblêd op 'e nij lade">
+<!ENTITY  reloadTab.accesskey       	"n">
+<!ENTITY  listAllTabs.label      		"Alle ljepblêdtitels werjaan">
+<!ENTITY  bookmarkAllTabs.label       	"Blêdwizer meitsje fan alle ljepblêden">
+<!ENTITY  bookmarkAllTabs.accesskey   	"B">
+<!ENTITY  bookmarkThisTab.label        	"Blêdwizer meitsje fan dit ljepblêd">
+<!ENTITY  bookmarkThisTab.accesskey    	"D">
+<!ENTITY  undoCloseTab.label          	"Ljepblêd slute ûngedien meitsje">
+<!ENTITY  undoCloseTab.accesskey      	"m">

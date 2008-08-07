@@ -1,0 +1,55 @@
+<!ENTITY  history.label "Skiednis">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Bewarje myn skiednis op syn minst">
+<!ENTITY  rememberDaysBefore.accesskey  "s">
+<!ENTITY  rememberDaysAfter2.label      "dagen">
+
+<!ENTITY  rememberForms.label           "Ynformaasje dy't ik ynfier yn webformulieren en de sykbalke ûnthâlde">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "Ynlaadskiednis ûnthâlde">
+<!ENTITY  rememberDownloads.accesskey   "Y">
+
+
+<!ENTITY  cookies.label                 "Cookies">
+
+<!ENTITY  acceptCookies.label           "Cookies fan websteeën akseptearje">
+<!ENTITY  acceptCookies.accesskey       "C">
+
+<!ENTITY  acceptThirdParty.label        "Akseptearje cookies fan tredden">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  keepUntil.label               "Bewarje oant:">
+<!ENTITY  keepUntil.accesskey           "B">
+
+<!ENTITY  expire.label                  "se ferrinne">
+<!ENTITY  close.label                   "ik &brandShortName; ôfslút">
+<!ENTITY  askEachTime.label             "my elke kear freegje">
+
+<!ENTITY  cookieExceptions.label        "Utsûnderings...">
+<!ENTITY  cookieExceptions.accesskey    "U">
+
+<!ENTITY  showCookies.label             "Cookies sjen litte...">
+<!ENTITY  showCookies.accesskey         "t">
+
+
+<!ENTITY  privateData.label             "Priveegegevens">
+
+<!ENTITY  alwaysClear.label              "Altyd myn priveegegevens opkjinje as ik &brandShortName; ôfslút">
+<!ENTITY  alwaysClear.accesskey          "a">
+
+<!ENTITY  askBeforeClear.label           "My freegje foar priveegegevens op te skjinjen">
+<!ENTITY  askBeforeClear.accesskey       "f">
+
+<!ENTITY  clearDataSettings.label        "Ynstellings...">
+<!ENTITY  clearDataSettings.accesskey    "s">
+
+<!ENTITY  clearDataNow.label             "No opskjinje...">
+<!ENTITY  clearDataNow.label2            "No opskjinje">
+<!ENTITY  clearDataNow.accesskey         "N">

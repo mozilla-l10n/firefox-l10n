@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Ofdrukke">
+
+<!ENTITY printDialog.title "Ofdrukke">
+
+<!ENTITY fpDialog.title "Bestân bewarje">
+
+<!ENTITY fileCheck.label "Ofdrukke nei bestân">
+<!ENTITY propertiesButton.label "Eigenskippen...">
+<!ENTITY descText.label "Printeromskriuwing:">
+<!ENTITY printer.label "Printer">
+<!ENTITY printerInput.label "Printer:">
+
+<!ENTITY printrangeGroup.label "Ofdrukberyk">
+<!ENTITY allpagesRadio.label "Alle sides">
+<!ENTITY rangeRadio.label  "Sides">
+<!ENTITY frompageInput.label  "fan">
+<!ENTITY topageInput.label  "oant">
+<!ENTITY selectionRadio.label "Seleksje">
+
+<!ENTITY copies.label "Oantal">
+<!ENTITY numCopies.label "Oantal ôfdrukken:">
+
+<!ENTITY printframeGroup.label "Dielfinsters ôfdrukke">
+<!ENTITY aslaidoutRadio.label "Lyk as op het skerm te sjen is">
+<!ENTITY selectedframeRadio.label  "It selektearde dielfinster">
+<!ENTITY eachframesepRadio.label  "Elk dielfinster ôfsunderlik">

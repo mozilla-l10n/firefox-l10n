@@ -1,0 +1,42 @@
+<!ENTITY credit.title     "&brandFullName; credits">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.leads     "Hoofdontwikkelaars">
+<!ENTITY credit.core      "Hoofdontwikkelingsgroep">
+<!ENTITY credit.gecko     "Gecko Layout Engine">
+<!ENTITY credit.thanks    "Speciale dank aan">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Nederlandse vertaling</h3>
+          <ul><li>Gert-Paul van der Beek</li>
+            <li>Samir Boulema</li>
+            <li>Tim Maks van den Broek</li>
+            <li>Arjan Eerden</li>
+            <li>Ton Kensen</li>
+            <li>Hendrik Maryns</li>
+            <li>Paul Oranje</li>
+            <li>Martijn Ras</li>
+            <li>René van Roon</li>
+            <li>Julius Schwartzenberg</li>
+            <li>Paul Wagenaars</li>
+          </ul>">
+
+<!ENTITY credit.visuals     "Coördinator visueel ontwerp">
+<!ENTITY credit.theme       "Themadesign">
+<!ENTITY credit.brand       "Merkidentiteit">
+<!ENTITY credit.web         "Webdesign">
+<!ENTITY credit.update      "Mozilla Update">
+<!ENTITY credit.qalead      "Hoofd kwaliteitscontrole">
+<!ENTITY credit.qa          "Kwaliteitscontrole">
+<!ENTITY credit.build       "Build en uitgave">
+<!ENTITY credit.infra       "Infrastructuurondersteuning">
+<!ENTITY credit.support     "Ondersteuningshulpbronnen">
+<!ENTITY credit.manage      "Projectmanagement">
+<!ENTITY credit.marketleads "Hoofd marketing">
+<!ENTITY credit.market      "Marketing">
+<!ENTITY credit.creators    "Gemaakt door">
+<!ENTITY credit.memory      "In dierbare herinnering aan">
+<!ENTITY credit.poweredByGecko "Aangedreven door Gecko&trade;">

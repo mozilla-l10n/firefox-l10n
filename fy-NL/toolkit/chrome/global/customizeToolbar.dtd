@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Arkbalke wizigje">
+<!ENTITY dialog.style "width: 860px; height: 440px;">
+<!ENTITY instructions.description "Jo kinne ûnderdielen tafoegje of fuortsmite troch se nei of fan de arkbalke te sleepjen.">
+<!ENTITY show.label "Sjen litte:">
+<!ENTITY iconsAndText.label "Ikoantsjes en tekst">
+<!ENTITY icons.label "Ikoantsje">
+<!ENTITY text.label "Tekst">
+<!ENTITY useSmallIcons.label "Lytse ikoantsjes">
+<!ENTITY restoreDefaultSet.label "Standertynstellings tebek sette">
+<!ENTITY addNewToolbar.label "Nije arkbalke">
+<!ENTITY saveChanges.label "Dien">
+<!ENTITY undoChanges.label "Wizigings ûngedien meitsje">

@@ -1,0 +1,82 @@
+<!ENTITY  updateWizard.title              "Programm-fernijing">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Kontrolearje op fernijings">
+<!ENTITY  checking.label                  "&brandShortName; kontrolearret no op fernijings...">
+
+<!ENTITY  cancel.label                    "Ofbrekke">
+<!ENTITY  cancel.accesskey                "O">
+
+<!ENTITY  noupdatesfound.title            "Gjin fernijings fûn">
+<!ENTITY  noupdatesfound.intro            "Der binne gjin nije fernijings beskikber. &brandShortName; kin
+                                           periodiek kontrolearje op nije fernijings.">
+
+<!ENTITY  incompatibleChecking.label      "Oan it kontrolearjen of dizze fernijing problemen feroarsaakje kin by jo oare útwreidings en/of tema's...">
+<!ENTITY  clickHere.label                 "Besjoch mear ynformaasje oer dizze fernijing">
+
+<!ENTITY  incompatible.warning            "Dizze fernijing sil derfoar soargje dat sommige fan jo útwreidings
+                                           en/of tema's net mear wurkje oant se bywurke binne.">
+<!ENTITY  listIncompatible.label          "List sjen litte">
+<!ENTITY  listIncompatible.accesskey      "L">
+
+<!ENTITY  upgrade.evangelism              "It wurdt oanrêt &brandShortName; sa fluch 
+                                           mooglik te fernijen.">
+
+<!ENTITY  license.instructions            "Als u instemt met de voorwaarden van deze overeenkomst, klik dan hieronder 
+                                           op Ik ga akkoord om door te gaan met de installatie van deze update.">
+
+<!ENTITY  license.titleText               "Lisinsjeoerienkomst">
+<!ENTITY  license.introText               "Betingsten en kondysjes foar it gebrûk fan dit programma.">
+<!ENTITY  license.instructionText         "Lês asjebleaft de folgjende lisinsje-oerienkomst troch. Brûk de skowbalke om de rest fan dizze oerienkomst te besjen.">
+<!ENTITY  license.accept                  "Ik akseptear de betingsten fan de lisinsje-oerienkomst">
+<!ENTITY  license.accept.accesskey        "k">
+<!ENTITY  license.decline                 "Ik akseptear de betingsten fan de lisinsje-oerienkomst NET">
+<!ENTITY  license.decline.accesskey       "N">
+
+<!ENTITY  downloading.title               "Fernijing ynlade">
+<!ENTITY  downloading.intro               "Fernijing ynlade...">
+<!ENTITY  connecting.label                "Ferbine mei de updatetsjinner...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; wie net yn steat om de yntegriteit fan de
+                                           ynkrementele fernijing dy't ynladen is te kontrolearjen en laad
+                                           derom no it folsleine fernijingspakket yn.">
+
+<!ENTITY  details.link                    "Details">
+<!ENTITY  pause.label                     "Pausearje">
+<!ENTITY  pause.accesskey                 "e">
+<!ENTITY  close.label                     "Slute">
+<!ENTITY  close.accesskey                 "S">
+
+<!ENTITY  error.label                     "Der wie in probleem by it kontrolearjen op, of it ynladen of ynstallearjen
+                                           fan dizze fernijing. &brandShortName; koe net bywurke wurde omdat:">
+                                           
+<!ENTITY  errorManual.label               "Jo kinne &brandShortName; mei de hân bywurkje troch dizze keppeling te
+                                           besykjen en de lêste ferzje yn te laden:">
+
+<!ENTITY  errorpatching.title             "Fernijing mislearre">
+<!ENTITY  errorpatching.intro             "It part fan de fernijing koe net tapast wurde. 
+                                           &brandShortName; sil it op 'e nij probearje troch in folsleine fernijing yn te laden.">
+
+<!ENTITY  finished.title                  "Fernijing ynladen">
+<!ENTITY  finished.text                   "De fernijing is súksesfol ynladen en kontrolearre. Jo moatte &brandShortName; 
+                                           no op 'e nij starte sadat de fernijing ynstallearre wurde kin.">
+
+<!ENTITY  finishedBackground.title        "Fernijing klear om te ynstallearjen">
+<!ENTITY  finishedBackground.text         "&brandShortName; hat krekt it ynladen fan in belangrike fernijing foltôge
+                                           en moat no op 'e nij start wurde sadat de fernijing ynstallearre wurde kin.">
+<!ENTITY  finishedBackground.name         "Fernijing:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Klik op &brandShortName; no op 'e nij starte om alle &brandShortName;-finsters te sluten en de fernijing
+                                           te ynstallearjen.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Klik No Net om dit finster te sluten en fierder te gean mei wurkjen. &brandShortName;
+                                           sil de fernijing ynstallearje as it de folgjende kear start.">
+
+<!ENTITY  installed.title                 "Fernijing ynstallearre">
+<!ENTITY  installed.intro                 "De fernijing is súksesfol ynstallearre.">
+<!ENTITY  whatsnew.label                  "Lês mear oer wat der nij is...">
+
+<!ENTITY  update.details.label            "Details">
+<!ENTITY  update.installedOn.label        "Ynstallearre op:">
+<!ENTITY  update.status.label             "Steat:">

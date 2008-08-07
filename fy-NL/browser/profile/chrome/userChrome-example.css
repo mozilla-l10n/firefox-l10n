@@ -1,0 +1,106 @@
+/*
+
+ * Bewerk dit bestand en kopieer het als userChrome.css naar uw 
+
+ * profielmap/chrome/
+
+ */
+
+
+
+/*
+
+ * Dit bestand mag gebruikt worden om het uitzicht van Mozilla's gebruikersinterface aan te passen
+
+ * Overweeg om !important te gebruiken voor regels waarvan u wilt dat ze voorgaan op 
+
+ * de standaardinstellingen.
+
+ */
+
+
+
+/*
+
+ * De lijn met @namespace niet verwijderen -- deze is nodig voor correct functioneren
+
+ */
+
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* de standaard namespace op XUL zetten */
+
+
+
+
+
+/*
+
+ * Enkele mogelijke toegankelijkheidsverbeteringen:
+
+ */
+
+/*
+
+ * Zet alle standaard lettertypegroottes op 20 pt:
+
+ *
+
+ * * {
+
+ *   font-size: 20pt !important
+
+ * }
+
+ */
+
+/*
+
+ * Maak menu-items in het bijzonder 15 pt in plaats van de standaardgrootte:
+
+ *
+
+ * menupopup > * {
+
+ *   font-size: 15pt !important
+
+ * }
+
+ */
+
+/*
+
+ * Gebruik voor de locatiebalk (URL) een lettertype met vaste breedte
+
+ *
+
+ * #urlbar {
+
+ *    font-family: monospace !important;
+
+ * }
+
+ */
+
+
+
+/*
+
+ * Verwijder de throbber en zijn vervelende bewegen:
+
+ *
+
+ * #throbber-box {
+
+ *   display: none !important;
+
+ * }
+
+ */
+
+
+
+/*
+
+ * Voor meer voorbeelden, zie http://www.mozilla.org/unix/customizing.html
+
+ */
+

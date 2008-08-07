@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Geavanceerde accountinstellingen">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "Geavanceerde IMAP-serverinstellingen">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.label "IMAP-serverdirectory">
+<!ENTITY usingSubscription.accesskey "o">
+<!ENTITY usingSubscription.label "Alleen aangemelde mappen tonen">
+<!ENTITY dualUseFolders.accesskey "a">
+<!ENTITY dualUseFolders.label "Server ondersteunt mappen met submappen en berichten">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY useIdle.label "IDLE-commando gebruiken als de server het ondersteunt">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY maximumConnectionsNumber.label "Maximumaantal serververbindingen in de buffer">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "Deze instellingen omschrijven de namespaces op uw IMAP-server">
+<!ENTITY personalNamespace.accesskey "e">
+<!ENTITY personalNamespace.label "Persoonlijke namespace:">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY publicNamespace.label "Publiek (gedeeld):">
+<!ENTITY otherUsersNamespace.accesskey "n">
+<!ENTITY otherUsersNamespace.label "Andere gebruikers:">
+<!ENTITY overrideNamespaces.accesskey "S">
+<!ENTITY overrideNamespaces.label "Server toestaan om deze namespaces te negeren">
+<!ENTITY pop3Desc.label "Bij het downloaden van e-mail van deze POP3-server, de volgende map voor nieuwe e-mail gebruiken:">
+<!ENTITY folderStorage.label "Waar e-mail op te slaan">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY globalInbox.label "Globaal Postvak IN (onder Lokale mappen)">
+<!ENTITY accountDirectory.accesskey "P">
+<!ENTITY accountDirectory.label "Postvak IN van deze serveraccount">
+<!ENTITY deferToServer.accesskey "r">
+<!ENTITY deferToServer.label "Postvak IN van een andere account">
+<!ENTITY deferGetNewMail.accesskey "b">
+<!ENTITY deferGetNewMail.label "Deze server bij het ophalen van nieuwe berichten betrekken">

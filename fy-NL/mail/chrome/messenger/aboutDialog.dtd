@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title      "Oer &brandFullName;">
+<!ENTITY credits.label          "Meiwurkers">
+<!ENTITY credits.accesskey      "M">
+<!ENTITY aboutLink.label        "&lt; Oer &brandFullName;">
+<!ENTITY aboutLink.accesskey    "O">
+<!ENTITY aboutVersion           "Ferzje">
+<!ENTITY copyrightText          "&#169;1998-2007 Meiwurkers. Alle rjochten foarbehâlden. Mozilla Thunderbird en de 
+                                 Thunderbird-logo’s binne hannelsmerken fan de Mozilla Foundation.  Alle rjochten 
+                                 foarbehâlden.">

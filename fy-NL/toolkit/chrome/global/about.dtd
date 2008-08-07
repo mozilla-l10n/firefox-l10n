@@ -1,0 +1,19 @@
+<!ENTITY about.version                "ferzje">
+
+<!ENTITY about.copy.beforeLink        "Auteursrjocht &copy; 1998-2008 troch">
+<!ENTITY about.copy.linkTitle         "meiwurkers">
+<!ENTITY about.copy.afterLink         "fan it Mozilla-projekt.">
+
+<!ENTITY about.license.beforeLink     "Lês de">
+<!ENTITY about.license.linkTitle      "lisinsje-ynformaasje">
+<!ENTITY about.license.afterLink      "foar dit produkt.">
+
+<!ENTITY about.relnotes.beforeLink    "Lês de">
+<!ENTITY about.relnotes.linkTitle     "útjefteopmerkings">
+<!ENTITY about.relnotes.afterLink     "foar dizze ferzje.">
+
+<!ENTITY about.buildconfig.beforeLink "Besjoch de brûkte">
+<!ENTITY about.buildconfig.linkTitle  "buildkonfiguraasje">
+<!ENTITY about.buildconfig.afterLink  "foar dizze ferzje.">
+
+<!ENTITY about.buildIdentifier        "Buildnamme: ">

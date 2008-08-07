@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label "Bestân">
+<!ENTITY fileMenu.accesskey "B">
+<!ENTITY newMenu.label "Nij">
+<!ENTITY newMenu.accesskey "N">
+
+<!ENTITY editMenu.label "Bewurkje">
+<!ENTITY editMenu.accesskey "w">
+<!ENTITY undoCmd.label "Ungedien meitsje">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "U">
+<!ENTITY redoCmd.label "Op 'e nij útfiere">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "n">
+<!ENTITY cutCmd.label "Knippe">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "n">
+<!ENTITY copyCmd.label "Kopiearje">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Plakke">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY deleteCmd.label "Fuortsmite">
+<!ENTITY deleteCmd.key "d">
+<!ENTITY deleteCmd.accesskey "F">
+<!ENTITY selectAllCmd.label "Alles selektearje">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY preferencesCmd.label "Opsjes...">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Foarkarren">
+<!ENTITY preferencesCmdUnix.accesskey "k">
+
+<!ENTITY findTypeTextCmd.label "Tekst sykje by it typen">
+<!ENTITY findTypeTextCmd.accesskey "s">
+
+<!ENTITY viewMenu.label "Byld">
+<!ENTITY viewMenu.accesskey "L">
+<!ENTITY viewToolbarsMenu.label "Arkbalken">
+<!ENTITY viewToolbarsMenu.accesskey "A">
+<!ENTITY showTaskbarCmd.label "Steatbalke">
+<!ENTITY showTaskbarCmd.accesskey "S">
+
+<!ENTITY direct.label "Ferbining (proxy: gjin)">
+<!ENTITY direct.accesskey "n">
+<!ENTITY manual.label "Ferbining (proxy: hânmjittich)">
+<!ENTITY manual.accesskey "h">
+<!ENTITY pac.label "Ferbining (proxy: auto)">
+<!ENTITY pac.accesskey "a">
+
+<!ENTITY proxy.label "Proxykonfiguraasje...">
+<!ENTITY proxy.accesskey "P">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Slute">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "S">
+
+<!ENTITY closeWindow.label "Finster slute">
+
+<!ENTITY quitApplicationCmd.label "Ofslute">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "O">
+
+<!ENTITY quitApplicationCmdUnix.label "Ofslute">
+<!ENTITY quitApplicationCmdUnix.accesskey "O">
+
+<!ENTITY quitApplicationCmdMac.label	"&brandShortName; ôfslute"> 
+<!ENTITY quitApplicationCmdMac.accesskey	"s">

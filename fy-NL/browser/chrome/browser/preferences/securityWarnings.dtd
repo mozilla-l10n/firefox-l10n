@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Befeiligingswarskôgings">
+
+<!ENTITY security.warn_when                       "In warskôgingsfinster sjen litte as:">
+<!ENTITY security.warn_entering_secure.label      "Ik in befeilige side besjen wol.">
+<!ENTITY security.warn_entering_secure.accesskey  "b">
+<!ENTITY security.warn_entering_weak.label        "Ik in side besjen wol dy't in lege graad fan fersifering brûkt.">
+<!ENTITY security.warn_entering_weak.accesskey    "l">
+<!ENTITY security.warn_leaving_secure.label       "Ik in befeilige side ferlit.">
+<!ENTITY security.warn_leaving_secure.accesskey   "f">
+<!ENTITY security.warn_submit_insecure.label      "Ik ynformaasje ferstjoer dy't net fersifere is.">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "Ik in befeilige side besjen wol dy't net-fersifere ynformaasje befat.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "y">

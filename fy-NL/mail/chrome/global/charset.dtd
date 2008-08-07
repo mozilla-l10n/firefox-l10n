@@ -1,0 +1,20 @@
+<!ENTITY charsetMenu.label "Tekenset">
+<!ENTITY charsetMenu.accesskey "T">
+<!ENTITY charsetMenuAutodet.label "Automatysk werkenne">
+<!ENTITY charsetMenuAutodet.accesskey "A">
+<!ENTITY charsetMenuMore.label "Mear">
+<!ENTITY charsetMenuMore.accesskey "M">
+<!ENTITY charsetMenuMore1.label "West-Europeesk">
+<!ENTITY charsetMenuMore1.accesskey "W">
+<!ENTITY charsetMenuMore2.label "East-Europeesk">
+<!ENTITY charsetMenuMore2.accesskey "E">
+<!ENTITY charsetMenuMore3.label "East-Asiatysk">
+<!ENTITY charsetMenuMore3.accesskey "s">
+<!ENTITY charsetMenuMore4.label "SE- &amp; SW-Asiatysk">
+<!ENTITY charsetMenuMore4.accesskey "S">
+<!ENTITY charsetMenuMore5.label "Midden-Easters">
+<!ENTITY charsetMenuMore5.accesskey "d">
+<!ENTITY charsetMenuUnicode.label "Unikoade">
+<!ENTITY charsetMenuUnicode.accesskey "U">
+<!ENTITY charsetCustomize.label "Oanpasse...">
+<!ENTITY charsetCustomize.accesskey "O">

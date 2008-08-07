@@ -1,0 +1,145 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&OK
+OK=OK
+CANCEL=Ofbrekke
+CANCEL_=&Ofbrekke
+NEXT_=&Folgende >
+BACK_=< &Tebek
+IGNORE_=&Negearje
+PROXY_MESSAGE=Klik op de knop Ferbining... om in proxytsjinner foar it ynladen yn te stellen. 
+PROXY_BUTTON=&Ferbining...
+PROXYSETTINGS=Proxy-ynstellings:
+PROXYSETTINGS_=&Proxy-ynstellings
+SERVER=Tsjinner:
+PORT=Poarte:
+USERID=Brûkers-ID:
+PASSWORD=Wachtwurd:
+SELECTDIRECTORY=Selektearje in map
+DIRECTORIES_=&Mappen:
+DRIVES_=&Stasjon:
+STATUS=Restearend:
+FILE=Bestân:
+URL=URL:
+TO=Nei paad:
+ACCEPT_=&Akseptearje
+DECLINE_=&Wegerje
+PROGRAMFOLDER_=&Programmamap:
+EXISTINGFOLDERS_=&Besteande mappen:
+SETUPMESSAGE=De ynstallaasje is klear mei it kopiearjen fan bestannen nei jo komputer. Foardat jo $ProductNameInternal$ brûke kinne, motte jo Windows of jo komputer op 'e nij starte. Kies ien fan de folgjende opsjes en klik op OK om de ynstallaasje dien te meitsjen.
+RESTART=Op 'e nij starte
+YESRESTART=Ja, ik wol myn komputer no op 'e nij starte.
+NORESTART=Nee, ik wol myn komputer letter op 'e nij starte.
+ADDITIONALCOMPONENTS_=&Ekstra komponinten:
+DESCRIPTION=Beskriuwing
+TOTALDOWNLOADSIZE=Totaal op te heljen grutte:
+SPACEAVAILABLE=Beskikbere romte:
+COMPONENTS_=K&omponenten:
+BROWSEINFO=Kies in map om $ProductName$ yn te ynstallearjen:
+DESTINATIONDIRECTORY=Ynstallaasjemap
+BROWSE_=Blêdzje...
+DOWNLOADSIZE=Ynlaadgrutte: %u KB
+CURRENTSETTINGS=Hjoeddeisk ynstellings:
+INSTALLFOLDER=...nei de folgjende lokaasje:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s, en:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Ynstallearje
+DELETE_=&Fourtsmite
+CONTINUE_=&Trochgean
+SKIP_=Oer&slaan
+README=&Lês my
+PAUSE_=&Pausearje
+RESUME_=F&ierder gean
+CHECKED=Markeard
+UNCHECKED=Net markeard
+
+EXTRACTING=Dwaande út te pakken...
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Koe dialoochfinster %s net meitsje.
+ERROR_FAILED=%s is mislearre.
+ERROR_FILE_NOT_FOUND=Bestân net fûn: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=GetSystemDirectory() is mislearre.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED=GetWindowsDirectory() is mislearre.
+DLGQUITTITLE=Ynstallaasje ôfslute
+DLGQUITMSG=Jo ha it ynstallearjen fan $ProductName$ net ôfmakke. As jo de ynstallaasje no beëinigje, sil $ProductName$ net ynstallearre wêze. Witte jo seker dat jo de ynstallaasje ôfbrekke wolle?
+DLG_REBOOT_TITLE=Dwaande Windows op 'e nij te starten
+ERROR_GETPROCADDRESS=GetProcAddress() fan %s is mislearre.
+ERROR_WRITEPRIVATEPROFILESTRING=WritePrivateProfileString() is mislearre foar bestân %s
+MSG_RETRIEVE_CONFIGINI=Wacht asjebleaft wilst de ynstallaasje it konfiguraasjescript fan it web ophellet... 
+ERROR_CREATE_TEMP_DIR=De ynstallaasje wie net yn steat om de map TEMP oan te meitsjen: %s
+DLGBROWSETITLE=Selektearje in map
+ERROR_DETERMINING_DISK_SPACE=Koe de beskikbere skiifromte net bepale foar: %s
+DLG_DISK_SPACE_CHECK_TITLE=Skiifromtekontrole
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Der is net genôch skiifromte fûn om troch te gean mei de ynstallaasje op %s foar it paad %sNedich: %sBeskikbar: %sKlik op Op 'e nij as der mear skiifromte beskikber makke is of klik op Annulearje om de ynstallaasje te annulearjen.
+DLG_DISK_SPACE_CHECK_MSG=Der is net genôch skiifromte fûn om troch te gean mei de ynstallaasje op %s foar it paad %sNedich: %sBeskikbar: %sKlik op OK om tebek te gean en in oar paad te kiezen.
+ERROR_CREATE_DIRECTORY=Koe de map %s net meitsje. Wês wis dat jo tastemming ha om de map oan te meitsjen.
+ERROR_MESSAGE_TITLE=$ProductNameInternal$-ynstallaasjeflater
+STR_FILE_NUMBER=Oantal bestannen:
+STR_FILENAME=Bestânsnamme:
+MSG_SMARTUPDATE_START=Dwaande de ynstallaasje ta te rieden, wacht asjebleaft...
+MSG_CONFIGURING=Dwaande %s te konfigurearjen, wacht asjebleaft...
+ERROR_XPI_INSTALL=Der is in flater bart tiidens de ynstallaasje
+ERROR_SETUP_REQUIREMENT=$ProductName$ kin inkelt útfierd wurde ûnder Windows 95 of nijer. De ynstallaasje sil no ôfslute. 
+DLG_EXTRACTING_TITLE=$ProductName$-ynstallaasje - ynstallaasjefoartgong
+STR_PROCESSINGFILE=Dwaande bestân ta te berieden: %s
+STR_INSTALLING=No dwaande mei %s te ynstallearjen
+STR_COPYINGFILE=Dwaande bestân te kopiearjen: %s
+MB_WARNING_STR=Warskôging
+MB_MESSAGE_STR=Berjocht
+MB_ATTENTION_STR=Oandacht
+MSG_CREATE_DIRECTORY=De folgende map bestiet net: %sWolle jo dizze oanmeitsje?
+STR_CREATE_DIRECTORY=Map oanmeitsje?
+ERROR_PROGRAM_FOLDER_NAME=Net jildige programmamapnamme ynfierd.
+CB_DEFAULT=Standert
+ERROR_DESTINATION_PATH=Net jildig paad ynfierd.
+STR_SETUP_TYPE=Ynstallaasjetype:
+STR_SELECTED_COMPONENTS=Selektearre komponenten:
+STR_DESTINATION_DIRECTORY=Doelmap:
+STR_PROGRAM_FOLDER=Programmamap:
+STR_DELETING_DESTINATION_DIR=Dwaande doelmap fourt te smiten om de nije ferzje ynstallearje te kinnen, wacht asjebleaft...
+STR_SETUP=Ynstallaasje
+STR_DOWNLOAD_SITE=Ynlaadside:
+STR_SAVE_INSTALLER_FILES=Ynladen bestannen en bestannen fan de ynstallaasje bewarje yn:
+MSG_INIT_SETUP=Dwaande de ynstallaasje ta te rieden, wacht asjebleaft...
+STR_MESSAGEBOX_TITLE=%s-ynstallaasje
+ERROR_GETVERSION=GetVersionEx() is mislearre!
+DLG_USAGE_TITLE=Gebrûk
+
+STATUS_EXTRACTING=Dwaande %s út te pakken
+STATUS_LAUNCHING_SETUP=Dwaande de ynstallaasje te starten...
+ERROR_FILE_WRITE=Net in steat bestân %s fourt te skriuwen
+TITLE=Ynstallaasje
+ERROR_OUT_OF_MEMORY=Net genôch skiifromte!
+
+ERROR_DLL_LOAD=Koe %s net lade
+ERROR_STRING_LOAD=Koe string boarne ID %d net lade
+ERROR_STRING_NULL=Null pointer tsjin kommen.
+ERROR_GLOBALALLOC=Unthâldallokaasjeflater.
+MSG_FORCE_QUIT_PROCESS=By it ynstallearjen is fêststeld dat %s (%s) noch altyd aktyf is. Klik op OK om %s ôf te sluten en om troch te gean mei de ynstallaasje. Brûk als alternatyf Windows Taakbeheer om %s ôf te sluten en klik dêrnei op OK om troch te gean mei de ynstallaasje.
+MSG_FORCE_QUIT_PROCESS_FAILED=De ynstallaasje sil no ôfslute. De ynstallaasje koe net trochgean omdat %s (%s) noch altyd útfierd wurdt. Probearje %s hânmjittig ôf te sluten troch gebrûk te meitsjen fan Windows Taakbehear en de ynstallaasje dêrnei op 'e nij út te fieren.
+ERROR_PATH_WITHIN_WINDIR=$ProductName$ kin net ynstallearre wurde yn in submap fan de Windows-map. Kies asjebleaft in oare map.

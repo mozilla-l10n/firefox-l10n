@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title    				"Bibleteek">
+<!ENTITY places.library.width  					"700">
+<!ENTITY places.library.height 					"500">
+<!ENTITY organize.label  						"Organisearje">
+<!ENTITY organize.accesskey    					"O">
+
+<!ENTITY file.accesskey  						"F">
+<!ENTITY file.close.label  						"Slute">
+<!ENTITY file.close.accesskey  					"S">
+<!ENTITY cmd.close.key  						"w">
+<!ENTITY edit.label  							"Bewurkje">
+<!ENTITY edit.accesskey  						"w">
+<!ENTITY views.label  							"Byld">
+<!ENTITY views.accesskey  						"B">
+<!ENTITY view.toolbar.label  					"Arkbalke">
+<!ENTITY view.toolbar.accesskey  				"a">
+<!ENTITY view.columns.label  					"Toan Kolommen">
+<!ENTITY view.columns.accesskey  				"T">
+<!ENTITY view.sort.label  						"Sortearre">
+<!ENTITY view.sort.accesskey  					"s">
+<!ENTITY view.unsorted.label  					"Net sortearre">
+<!ENTITY view.unsorted.accesskey  				"N">
+<!ENTITY view.sortAscending.label  				"Sortearfolchoarder A > Z">
+<!ENTITY view.sortAscending.accesskey  			"A">
+<!ENTITY view.sortDescending.label  			"Sortearfolchoarder Z > A">
+<!ENTITY view.sortDescending.accesskey  		"Z">
+<!ENTITY help.usingBookmarks.label  			"Blêdwizers brûke">
+<!ENTITY help.usingBookmarks.accesskey  		"B">
+<!ENTITY help.usingHistory.label  				"Skiednis brûke">
+<!ENTITY help.usingHistory.accesskey  			"S">
+<!ENTITY help.advancedTips.label  				"Avansearre tips &amp; trúks">
+<!ENTITY help.advancedTips.accesskey  			"t">
+
+<!ENTITY cmd.findInBookmarks.label  			"Sykje yn Blêdwizers...">
+<!ENTITY cmd.findInBookmarks.accesskey  		"S">
+<!ENTITY cmd.findCurrent.label  				"Sykje yn aktuele kolleksje...">
+<!ENTITY cmd.findCurrent.accesskey  			"y">
+
+<!ENTITY cmd.exportHTML.label  					"Eksportearje HTML...">
+<!ENTITY cmd.exportHTML.accesskey  				"E">
+<!ENTITY cmd.importHTML.label  					"Ymportearje HTML...">
+<!ENTITY cmd.importHTML.accesskey  				"Y">
+
+<!ENTITY cmd.backup.label  						"Reservekopie...">
+<!ENTITY cmd.backup.accesskey  					"R">
+<!ENTITY cmd.restore2.label  					"Tebeksette">
+<!ENTITY cmd.restore2.accesskey  				"T">
+<!ENTITY cmd.restoreFromFile.label  			"Kies Bestân...">
+<!ENTITY cmd.restoreFromFile.accesskey  		"K">
+
+<!ENTITY cmd.select_all.label  					"Selektearje Alles">
+<!ENTITY cmd.select_all.accesskey  				"A">
+<!ENTITY cmd.select_all.key  					"a">
+
+<!ENTITY cmd.edit_cut.label  					"Knippe">
+<!ENTITY cmd.edit_cut.accesskey  				"n">
+<!ENTITY cmd.edit_cut.key  						"x">
+<!ENTITY cmd.edit_copy.label  					"Kopieare">
+<!ENTITY cmd.edit_copy.accesskey  				"K">
+<!ENTITY cmd.edit_copy.key  					"c">
+<!ENTITY cmd.edit_paste.label  					"Plakke">
+<!ENTITY cmd.edit_paste.accesskey  				"P">
+<!ENTITY cmd.edit_paste.key  					"v">
+<!ENTITY cmd.edit_delete.label  				"Fuortsmite">
+<!ENTITY cmd.edit_delete.accesskey  			"D">
+<!ENTITY cmd.edit_undo.label  					"Ungedien meitsje">
+<!ENTITY cmd.edit_undo.accesskey  				"U">
+<!ENTITY cmd.edit_undo.key  					"z">
+<!ENTITY cmd.edit_redo.label  					"Op 'e nij útfiere">
+<!ENTITY cmd.edit_redo.accesskey  				"n">
+<!ENTITY cmd.edit_redo.key  					"y">
+
+<!ENTITY cmd.open.label   						"Iepenje">
+<!ENTITY cmd.open.accesskey  					"I">
+<!ENTITY cmd.open_window.label  				"Iepenje yn in Nij Finster">
+<!ENTITY cmd.open_window.accesskey  			"N">
+<!ENTITY cmd.open_tab.label  					"Iepenje yn in Nij Ljepblêd">
+<!ENTITY cmd.open_tab.accesskey  				"L">
+<!ENTITY cmd.open_all_in_tabs.label  			"Iepenje Alles yn Ljepblêden">
+<!ENTITY cmd.open_all_in_tabs.accesskey  		"j">
+
+<!ENTITY cmd.properties.label  					"Eigenskippen">
+<!ENTITY cmd.properties.accesskey  				"E">
+
+<!ENTITY cmd.show_info.key  					"i">
+
+<!ENTITY cmd.rename.label  						"Werneame">
+<!ENTITY cmd.rename.accesskey  					"W">
+
+<!ENTITY cmd.sortby_name.label  				"Sortearje op namme">
+<!ENTITY cmd.sortby_name.accesskey  			"S">
+<!ENTITY cmd.context_sortby_name.accesskey  	"r">
+
+<!ENTITY cmd.new_bookmark.label  				"Nije Blêdwizer...">
+<!ENTITY cmd.new_bookmark.accesskey  			"B">
+<!ENTITY cmd.new_livemark.label  				"Nije Live Blêdwizer...">
+<!ENTITY cmd.new_livemark.accesskey  			"L">
+<!ENTITY cmd.new_folder.label  					"Nije Map...">
+<!ENTITY cmd.new_folder.accesskey  				"M">
+<!ENTITY cmd.context_new_folder.accesskey  		"M">
+<!ENTITY cmd.new_separator.label  				"Nij Skiedingsteken">
+<!ENTITY cmd.new_separator.accesskey  			"S">
+
+<!ENTITY cmd.reloadLivebookmark.label  			"Live Blêdwizer op 'e nij Lade">
+<!ENTITY cmd.reloadLivebookmark.accesskey  		"L">
+<!ENTITY cmd.reloadMicrosummary.label  			"Live Titel op 'e nij Lade">
+<!ENTITY cmd.reloadMicrosummary.accesskey  		"T">
+
+<!ENTITY cmd.groupby_site.label  				"Groepearje op Webstee">
+<!ENTITY cmd.groupby_site.accesskey  			"W">
+<!ENTITY cmd.groupby_page.label   				"Groepearje op Side">
+<!ENTITY cmd.groupby_page.accesskey  			"S">
+<!ENTITY cmd.groupby_feed.label  				"Groepearje op Abonnemint">
+<!ENTITY cmd.groupby_feed.accesskey  			"A">
+<!ENTITY cmd.groupby_post.label  				"Groepearje op Post">
+<!ENTITY cmd.groupby_post.accesskey 			"P">
+
+<!ENTITY cmd.moveBookmarks.label         		"Ferpleats...">
+<!ENTITY cmd.moveBookmarks.accesskey         	"F">
+
+<!ENTITY col.name.label  						"Namme">
+<!ENTITY col.tags.label  						"Labels">
+<!ENTITY col.url.label  						"Lokaasje">
+<!ENTITY col.lastvisit.label  					"Besykdatum">
+<!ENTITY col.visitcount.label  					"Besykteller">
+<!ENTITY col.keyword.label  					"Kaaiwurd">
+<!ENTITY col.description.label  				"Omskriuwing">
+<!ENTITY col.dateadded.label  					"Tafoege">
+<!ENTITY col.lastmodified.label  				"Lêst Oanpast">
+
+<!ENTITY search.label  							"Sykje:">
+<!ENTITY search.accesskey  						"S">
+<!ENTITY search.collection.label  				"Allinnich Aktuele Kolleksje">
+<!ENTITY search.collection.accesskey  			"K">
+<!ENTITY search.allBookmarks.label  			"Alle Blêdwizers">
+<!ENTITY search.allBookmarks.accesskey  		"A">
+<!ENTITY search.scopeFolder.label               "Selektearre Map">
+<!ENTITY search.scopeFolder.accesskey           "a">
+<!ENTITY search.scopeAll.label                  "Alle Blêdwizers">
+<!ENTITY search.scopeAll.accesskey              "A">
+<!ENTITY search.scopeMenu.label                 "Blêdwizers Menu">
+<!ENTITY search.scopeMenu.accesskey             "M">
+<!ENTITY search.scopeToolbar.label              "Blêdwizers Arkbalke">
+<!ENTITY search.scopeToolbar.accesskey          "A">
+<!ENTITY search.scopeDownloads.label            "Ynladen Bestannen">
+<!ENTITY search.scopeDownloads.accesskey        "B">
+<!ENTITY search.scopeHistory.label              "Skiednis">
+<!ENTITY search.scopeHistory.accesskey          "k">
+<!ENTITY search.scopeBarExpanderDown.tooltip    "Toan sykmakker">
+<!ENTITY search.scopeBarExpanderUp.tooltip      "Ferbergje sykmakker">
+<!ENTITY saveSearch.label  						"Bewarje">
+<!ENTITY saveSearch.accesskey  					"B">
+<!ENTITY moreCriteria.label  					"+">
+<!ENTITY advancedSearch.onlybookmarked.label  	"Allinnich Blêdwizers trochsykje">
+<!ENTITY advancedSearch.match.label  			"Foldogge oan ">
+<!ENTITY advancedSearch.all.label  				"alle">
+<!ENTITY advancedSearch.any.label  				"ien fan de">
+<!ENTITY advancedSearch.rules.label  			" folgjende riges:">
+<!ENTITY advancedSearch.subj_keyword.label  	"Befat de tekst">
+<!ENTITY advancedSearch.subj_visited.label  	"Besocht">
+<!ENTITY advancedSearch.subj_location.label  	"Lokaasje">
+<!ENTITY advancedSearch.location_startswith.label  "begjint mei">
+<!ENTITY advancedSearch.location_is.label  		"is">
+<!ENTITY advancedSearch.location_onsite.label  	"is op webstee">
+<!ENTITY advancedSearch.time_is.label   		"op">
+<!ENTITY advancedSearch.time_before.label  		"foar">
+<!ENTITY advancedSearch.time_after.label  		"nei">
+<!ENTITY advancedSearch.time_inlast.label  		"yn de lêste">
+<!ENTITY advancedSearch.last_days.label  		"dagen">
+<!ENTITY advancedSearch.last_weeks.label  		"wiken">
+<!ENTITY advancedSearch.last_months.label  		"moanen">
+<!ENTITY advancedSearch.plus.label  			"+">
+<!ENTITY advancedSearch.minus.label  			"-">
+<!ENTITY advancedSearch.groupby.label  			"Groepearje op: ">
+<!ENTITY advancedSearch.groupby_host.label  	"host">
+<!ENTITY advancedSearch.groupby_domain.label  	"domein">
+<!ENTITY advancedSearch.groupby_folder.label  	"map">
+<!ENTITY advancedSearch.sortby.label  			"Sortearje op: ">
+<!ENTITY advancedSearch.sortby_title.label  	"titel">
+<!ENTITY advancedSearch.sortby_date.label  		"datum">
+<!ENTITY advancedSearch.sortby_visit.label  	"besykteller">
+<!ENTITY advancedSearch.sortby_url.label  		"url">
+<!ENTITY advancedSearch.sortby_asc.label  		"oprinnend">
+<!ENTITY advancedSearch.sortby_desc.label  		"ôfrinnend">
+<!ENTITY advancedSearch.max.label  				"Maksimum risseltaten: ">
+
+<!ENTITY cmd.find.key  							"f">
+
+<!ENTITY feed.subscribe.label  					"Feed">
+<!ENTITY feed.subscribe.tooltip  				"Abonnearje">
+
+<!ENTITY view.detailsMacOSX.label  				"List">
+<!ENTITY view.details.label   					"Details">
+<!ENTITY view.details.accesskey  				"D">
+
+<!ENTITY view.addons.label  					"Krij Byld Tafoegings">
+
+<!ENTITY maintenance.label  					"Ymport en Reservekopie">
+<!ENTITY maintenance.accesskey  				"Y">
+
+<!ENTITY backCmd.label  						"Tebek">
+<!ENTITY backCmd.accesskey  					"b">
+<!ENTITY backButton.tooltip  					"Gean tebek">
+
+<!ENTITY forwardCmd.label  						"Foarút">
+<!ENTITY forwardCmd.accesskey  					"F">
+<!ENTITY forwardButton.tooltip  				"Gean foarút">
+
+<!ENTITY detailsPane.more.label			        "Mear">
+<!ENTITY detailsPane.more.accesskey 			"e">
+<!ENTITY detailsPane.less.label			        "Minder">
+<!ENTITY detailsPane.less.accesskey 			"e">
+<!ENTITY detailsPane.noPreviewAvailable.label   "Foarbyld">
+<!ENTITY detailsPane.selectAnItemText.description	"Selektearje in item om te besjen en de eigenskippen te bewurkjen">

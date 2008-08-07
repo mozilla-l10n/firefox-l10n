@@ -1,0 +1,37 @@
+<!ENTITY startup.label             "Opstarte">
+
+<!ENTITY startupPage.label         "As &brandShortName; start:">
+<!ENTITY startupPage.accesskey     "t">
+<!ENTITY startupHomePage.label     "Myn begjinside toane">
+<!ENTITY startupBlankPage.label    "In lege side toane">
+<!ENTITY startupLastSession.label  "Myn finsters en ljepblêden fan de foarige kear toane">
+<!ENTITY location.label            "Begjinside:">
+<!ENTITY location.accesskey        "s">
+<!ENTITY useCurrentPage.label      "Aktuele side brûke">
+<!ENTITY useCurrentPage.accesskey  "A">
+<!ENTITY useMultiple.label         "Aktuele siden brûke">
+<!ENTITY useBookmark.label         "Blêdwizer brûke">
+<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY restoreDefault.label      "Standert werstelle">
+<!ENTITY restoreDefault.accesskey  "S">
+
+<!ENTITY downloads.label     "Ynladen bestannen">
+
+<!ENTITY showWhenDownloading.label     "Ynlaadbehearder toane tiidens it ynladen fan in bestân">
+<!ENTITY showWhenDownloading.accesskey "Y">
+<!ENTITY closeWhenDone.label           "Slute as alle bestannen ynladen binne">
+<!ENTITY closeWhenDone.accesskey       "u">
+<!ENTITY saveTo.label                  "Bestannen bewarje yn">
+<!ENTITY saveTo.accesskey              "b">
+<!ENTITY chooseFolderWin.label         "Blêdzje...">
+<!ENTITY chooseFolderWin.accesskey     "d">
+<!ENTITY chooseFolderMac.label         "Kieze...">
+<!ENTITY chooseFolderMac.accesskey     "e">
+<!ENTITY alwaysAsk.label               "My altyd freegje wêr't bestannen bewarre wurde moatte">
+<!ENTITY alwaysAsk.accesskey           "f">
+
+<!ENTITY addonsMgr.label            "Tafoegings">
+<!ENTITY manageAddonsDescWin.label     "Opsjes fan jo tafoegings oanpasse.">
+<!ENTITY manageAddonsDescUnix2.label "Foarkarren fan jo tafoegings oanpasse.">
+<!ENTITY manageAddons.label         "Tafoegings beheare...">
+<!ENTITY manageAddons.accesskey     "h">

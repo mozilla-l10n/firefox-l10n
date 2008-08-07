@@ -1,0 +1,63 @@
+<!ENTITY itemGeneral.label                   "Algemeen">
+<!ENTITY itemAutoComplete.label              "Adressering">
+<!ENTITY itemSpellCheck.label                "Spelling">
+<!ENTITY itemSendFormat.label                "Verzendopmaak">
+
+<!ENTITY forwardReply.label                   "Berichten doorsturen">
+<!ENTITY forwardMsg.label                     "Berichten doorsturen:">
+<!ENTITY forwardMsg.accesskey                 "d">
+<!ENTITY inline.label                         "In het bericht">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.label                   "Als bijlage">
+<!ENTITY asAttachment.accesskey               "b">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Lettertype:">
+<!ENTITY font.accesskey                       "L">
+<!ENTITY size.label                           "Grootte:">
+<!ENTITY size.accesskey                       "G">
+<!ENTITY fontColor.label                      "Tekstkleur:">
+<!ENTITY fontColor.accesskey                  "k">
+<!ENTITY bgColor.label                        "Achtergrondkleur:">
+<!ENTITY bgColor.accesskey                    "A">
+<!ENTITY restoreHTMLDefaults.label            "Standaardwaarden herstellen">
+<!ENTITY restoreHTMLDefaults.accesskey        "S">
+
+<!ENTITY sendingMessagesHeader.label          "Berichten opstellen">
+<!ENTITY spellCheck.label                     "Spelling controleren voor het verzenden">
+<!ENTITY spellCheck.accesskey                 "c">
+<!ENTITY spellCheckInline.label               "Spelling controleren tijdens het typen">
+<!ENTITY spellCheckInline1.accesskey          "n">
+<!ENTITY languagePopup.label                  "Taal:">
+<!ENTITY languagePopup.accessKey              "T">
+<!ENTITY downloadDictionaries.label           "Meer woordenboeken downloaden">
+
+<!ENTITY useMIME.label                        "‘Quoted printable’ MIME-codering gebruiken voor berichten die 8-bits tekens bevatten">
+<!ENTITY useMIME.accesskey                    "o">
+<!ENTITY warnOnSendAccelKey.label             "Bevestiging vragen bij gebruik van sneltoets om berichten te verzenden">
+<!ENTITY warnOnSendAccelKey.accesskey         "B">
+<!ENTITY autoSave.label                       "Elke">
+<!ENTITY autoSave.accesskey                   "E">
+<!ENTITY autoSaveEnd.label                    "minuten automatisch opslaan">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Platte-tekstberichten afbreken op">
+<!ENTITY wrapOutMsg.accesskey                 "P">
+<!ENTITY char.label                           "tekens">
+
+<!ENTITY emailCollectionPicker.label           "E-mailadressen van uitgaande berichten automatisch toevoegen aan mijn:">
+<!ENTITY emailCollectionPicker.accesskey       "u">
+<!ENTITY addressingTitle.label                 "Automatische adresaanvulling">
+<!ENTITY autocompleteText.label                "Bij het adresseren van berichten, naar overeenkomsten zoeken in:">
+<!ENTITY addressingEnable.label                "Lokale adresboeken">
+<!ENTITY addressingEnable.accesskey            "r">
+<!ENTITY directories.label                     "Directoryserver:">
+<!ENTITY directories.accesskey                 "y">
+<!ENTITY editDirectories.label                 "Directory’s bewerken...">
+<!ENTITY editDirectories.accesskey             "w">
+<!ENTITY matchText.label                       "Als er een overeenkomst is in uw lokale adresboeken:">
+<!ENTITY skipDirectory.label                   "Niet in de directory zoeken">
+
+<!ENTITY sendOptionsCaption.label              "HTML- en verzendopties">
+<!ENTITY sendOptionsDescription.label          "Tekstopmaakgedrag configureren">
+<!ENTITY sendOptions.label                     "Verzendopties...">
+<!ENTITY sendOptions.accesskey                 "V">

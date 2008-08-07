@@ -1,0 +1,8 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title 			"Programmatuer-ynstallaasje">
+<!ENTITY dialog.style           "width: 45em">
+<!ENTITY warningMain.label 		"Ynstallearje allinnich tafoegings fan boarnen dy't jo fertrouwe.">
+<!ENTITY warningSecondary.label "Kweawollende programmatuer kin jo kompjûter of jo privacy skansearje.">
+
+<!ENTITY from.label 			"fan:">

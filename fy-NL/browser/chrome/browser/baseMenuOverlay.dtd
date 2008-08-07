@@ -1,0 +1,49 @@
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Minimalisearje">
+<!ENTITY bringAllToFront.label    "Alles nei foaren bringe">
+<!ENTITY zoomWindow.label         "Zoom">
+<!ENTITY windowMenu.label         "Finster">
+
+<!ENTITY helpMenu.label           "Help"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Help"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutCmd.label           "Oer &brandFullName;">
+<!ENTITY aboutCmd.accesskey       "F">
+<!ENTITY helpContents.label       "Helpynhâld">
+<!ENTITY helpContents.accesskey   "H">
+<!ENTITY helpContentsMac.label    "&brandShortName; Help">
+<!ENTITY helpForIEUsers.label     "Foar Internet Explorer-brûkers">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey      "VK_F1">
+<!ENTITY openHelpMac.commandkey   "VK_HELP">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
+
+<!ENTITY helpReleaseNotes.accesskey     "U">
+<!ENTITY helpReleaseNotes.label         "Utjefte opmerkings">
+<!ENTITY updateCmd.accesskey            "o">
+<!ENTITY updateCmd.label                "Op nije ferzjes kontrolearje...">
+
+<!ENTITY preferencesCmdMac.label        "Foarkarren...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+
+<!ENTITY servicesMenuMac.label          "Tsjinsten">
+
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; ferstopje">
+<!ENTITY hideThisAppCmdMac.commandkey   "f">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Oare ferbergje">
+<!ENTITY hideOtherAppsCmdMac.commandkey "f">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label        "Alles sjen litte">
+

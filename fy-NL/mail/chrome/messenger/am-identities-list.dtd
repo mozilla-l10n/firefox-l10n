@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Identiteiten geassocieerd met deze account">
+<!ENTITY identitiesListDesc.label "Ondersteuning voor meerdere identiteiten">
+<!ENTITY identitiesListAdd.label "Toevoegen...">
+<!ENTITY identitiesListAdd.accesskey "T">
+<!ENTITY identitiesListEdit.label "Bewerken...">
+<!ENTITY identitiesListEdit.accesskey "B">
+<!ENTITY identitiesListDelete.label "Verwijderen">
+<!ENTITY identitiesListDelete.accesskey "V">

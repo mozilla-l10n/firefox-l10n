@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Side-ynstellings">
+
+<!ENTITY basic.tab           "Formaat &amp; opsjes">
+
+<!ENTITY formatGroup.label   "Formaat">
+
+<!ENTITY orientation.label   "Oriïntaasje:">
+<!ENTITY portrait            "Steand">
+<!ENTITY landscape           "Lizzend">
+
+<!ENTITY scale.label         "Op grutte:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Ferlytsje oant papierformaat">
+
+<!ENTITY optionsGroup.label  "Opsjes">
+
+<!ENTITY printBG.label       "Eftergrun ôfdrukke (kleuren &amp; ôfbyldings)">
+
+<!ENTITY advanced.tab        "Marges &amp; kop-/foetteksten">
+
+<!ENTITY marginGroup.label   "Marges (#1)">
+<!ENTITY marginUnits.inches  "inches">
+<!ENTITY marginUnits.metric  "millimeters">
+<!ENTITY marginTop.label     "Boppe:">
+<!ENTITY marginBottom.label  "Under:">
+<!ENTITY marginLeft.label    "Links:">
+<!ENTITY marginRight.label   "Rjochts:">
+
+<!ENTITY headerFooter.label  "Kop- &amp; foetteksten">
+
+<!ENTITY hfLeft.label        "Links:">
+<!ENTITY hfCenter.label      "Midden:">
+<!ENTITY hfRight.label       "Rjochts:">
+<!ENTITY headerLeft.tip      "Linker koptekst">
+<!ENTITY headerCenter.tip    "Middelste koptekst">
+<!ENTITY headerRight.tip     "Rjochter koptekst">
+<!ENTITY footerLeft.tip      "Linker foettekst">
+<!ENTITY footerCenter.tip    "Middelste foettekst">
+<!ENTITY footerRight.tip     "Rjochter foettekst">
+
+<!ENTITY hfTitle             "Titel">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Datum/Tiid">
+<!ENTITY hfPage              "Side #">
+<!ENTITY hfPageAndTotal      "Side # fan #">
+<!ENTITY hfBlank             "--blanko--">
+<!ENTITY hfCustom            "Oanpast...">
+
+<!ENTITY customPrompt.title  "Oanpast...">
+<!ENTITY customPrompt.prompt "Meitsje jo eigen kop-/foettekst">

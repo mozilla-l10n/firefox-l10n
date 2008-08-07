@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "Actie wijzigen">
+<!ENTITY  window.width                        "36em">
+
+<!ENTITY  whenDownloading.label               "Bij het downloaden van dit type bestanden:">
+
+<!ENTITY  openDefault.label                   "Ze openen met de standaardtoepassing:">
+<!ENTITY  openDefault.accesskey               "s">
+<!ENTITY  openApplication.label               "Ze openen met deze toepassing:">
+<!ENTITY  openApplication.accesskey           "d">
+<!ENTITY  changeApp.label                     "Bladeren...">
+<!ENTITY  changeApp.accesskey                 "B">
+<!ENTITY  saveToDisk.label                    "Ze opslaan op mijn computer">
+<!ENTITY  saveToDisk.accesskey                "o">
+<!ENTITY  saveToDefaultFolder.label           "in de standaard downloadmap">
+<!ENTITY  saveToDefaultFolder.accesskey       "t">
+<!ENTITY  saveToThisFolder.label              "in deze map:">
+<!ENTITY  saveToThisFolder.accesskey          "m">
+<!ENTITY  chooseFolder.label                  "Bladeren...">
+<!ENTITY  chooseFolder.accesskey              "l">
+<!ENTITY  saveToAskMe.label                   "mij vragen waar het bestand moet worden opgeslagen">
+<!ENTITY  saveToAskMe.accesskey               "v">
+<!ENTITY  usePlugin.label                     "Deze plug-in gebruiken:">
+<!ENTITY  usePlugin.accesskey                 "p">

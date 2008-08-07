@@ -1,0 +1,79 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "Lettertypen &amp; tekensets">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "Lettertypen voor:">
+<!ENTITY  language.accesskey                      "L">
+
+<!ENTITY  typefaces.label                         "Lettertype">
+<!ENTITY  sizes.label                             "Grootte (pixels)">
+<!ENTITY  proportionalSize.accesskey              "G">
+<!ENTITY  monospaceSize.accesskey                 "e">
+
+<!ENTITY  proportional.label                      "Proportioneel:">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "Met schreef:">
+<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  sans-serif.label                        "Schreefloos:">
+<!ENTITY  sans-serif.accesskey                    "c">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!ENTITY  fontsize.units                          "pixels">
+
+<!ENTITY  font.langGroup.latin1                   "Westers">
+<!ENTITY  font.langGroup.latin2                   "Centraal-Europees">
+<!ENTITY  font.langGroup.japanese                 "Japans">
+<!ENTITY  font.langGroup.trad-chinese             "Traditioneel Chinees (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Vereenvoudigd Chinees">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Traditioneel Chinees (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Koreaans">
+<!ENTITY  font.langGroup.cyrillic                 "Cyrillisch">
+<!ENTITY  font.langGroup.baltic                   "Baltisch">
+<!ENTITY  font.langGroup.el                       "Grieks">
+<!ENTITY  font.langGroup.turkish                  "Turks">
+<!ENTITY  font.langGroup.unicode                  "Andere talen">
+<!ENTITY  font.langGroup.user-def                 "Door gebruiker gedefinieerd">
+<!ENTITY  font.langGroup.thai                     "Thai">
+<!ENTITY  font.langGroup.hebrew                   "Hebreeuws">
+<!ENTITY  font.langGroup.arabic                   "Arabisch">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Armeens">
+<!ENTITY  font.langGroup.bengali                  "Bengaals">
+<!ENTITY  font.langGroup.canadian                 "Verenigd Canadees lettergreepschrift">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopisch">
+<!ENTITY  font.langGroup.georgian                 "Georgisch">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Minimale lettergrootte:">
+<!ENTITY minSize.accesskey                        "n">
+<!ENTITY minSize.none                             "Geen">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Met schreef">
+<!ENTITY  useDefaultFontSansSerif.label           "Schreefloos">
+
+<!ENTITY  newLanguages.label                      "Nieuwe talen kunnen worden geconfigureerd in het paneel Talen.">
+
+<!ENTITY  useDocumentFonts.label                  "Berichten toestaan om andere lettertypen te gebruiken">
+<!ENTITY  useDocumentFonts.accesskey              "a">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Uitgaande e-mailberichten:">
+<!ENTITY sendDefaultCharset.accesskey     "U">
+<!ENTITY languagesTitle1.label            "Tekensets">
+<!ENTITY composingDescription.label       "Standaard tekensets voor verzenden en ontvangen van e-mailberichten">
+
+<!ENTITY viewDefaultCharsetList.label     "Inkomende e-mailberichten:">
+<!ENTITY viewDefaultCharsetList.accesskey "I">
+<!ENTITY forceCharsetOverride.label       "Standaard tekenset toepassen op alle berichten">
+<!ENTITY forceCharsetOverride.accesskey   "o">
+<!ENTITY replyInDefaultCharset.label      "Standaard tekenset gebruiken in antwoorden">
+<!ENTITY replyInDefaultCharset.accesskey  "b">

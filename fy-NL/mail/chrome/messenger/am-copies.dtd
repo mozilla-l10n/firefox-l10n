@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Kopieën &amp; mappen">
+<!ENTITY sendingPrefix.label "Bij het verzenden van berichten, automatisch:">
+<!ENTITY fccMailFolder.label "Een kopie plaatsen in:">
+<!ENTITY fccMailFolder.accesskey "k">
+<!ENTITY fccReplyFollowsParent.label "Antwoorden plaatsen in de map van het bericht waarop wordt geantwoord">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Map kiezen...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc naar deze e-mailadressen:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Speciale mappen">
+<!ENTITY draftMailFolder.label "Berichtconcepten bewaren in:">
+<!ENTITY templateMailFolder.label "Berichtsjablonen bewaren in:">
+<!ENTITY saveMessageDlg.label "Bevestiging weergeven als berichten zijn opgeslagen">
+<!ENTITY saveMessageDlg.accesskey "w">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Map &quot;Verzonden&quot; in:">
+<!ENTITY sentFolderOn.accesskey "V">
+<!ENTITY sentInOtherFolder.label "Anders:">
+<!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Map &quot;Concepten&quot; in:">
+<!ENTITY draftsFolderOn.accesskey "C">
+<!ENTITY draftInOtherFolder.label "Anders:">
+<!ENTITY draftInOtherFolder.accesskey "n">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Map &quot;Sjablonen&quot; in:">
+<!ENTITY templatesFolderOn.accesskey "S">
+<!ENTITY templateInOtherFolder.label "Anders:">
+<!ENTITY templateInOtherFolder.accesskey "d">
+<!ENTITY specialFoldersTitle.label "Concepten en sjablonen">
+<!ENTITY keepDrafts.label "Berichtconcepten bewaren in:">
+<!ENTITY keepTempltes.label "Berichtsjablonen bewaren in:">

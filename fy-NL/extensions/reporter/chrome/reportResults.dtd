@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "Webstee">
+<!ENTITY reportProblemType           "Probleemtype">
+<!ENTITY reportDecsription           "Beskriuwing">
+<!ENTITY reportPlatform              "Platfoarm">
+<!ENTITY reportProduct               "Produkt">
+<!ENTITY reportoscpu                 "OS">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Bouwkonfiguraasje">
+<!ENTITY reportUseragent             "Useragent">
+<!ENTITY reportLanguage              "Taal">
+<!ENTITY reportCharset               "Karakterset">
+<!ENTITY reportEmail                 "E-mail">
+<!ENTITY error                       "Flaterdetails">
+<!ENTITY faultCode                   "Koade">
+<!ENTITY faultMessage                "Berjocht">

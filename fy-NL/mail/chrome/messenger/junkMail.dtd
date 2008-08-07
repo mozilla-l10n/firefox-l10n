@@ -1,0 +1,44 @@
+<!ENTITY window.title "Ongewenste-berichtenverwerking">
+<!ENTITY mainDescription.label "&brandShortName; heeft een aantal manieren om ongewenste berichten te detecteren. Deze filters bekijken inkomende berichten en identificeren die welke het meest waarschijnlijk ongewenst zijn.">
+
+<!-- Tab titles -->
+<!ENTITY settingsTab.label "Instellingen">
+<!ENTITY adaptiveTab.label "Zelflerend filter">
+
+<!-- Settings tab -->
+<!ENTITY move.label "Inkomende berichten die zijn aangemerkt als ongewenst verplaatsen naar:">
+<!ENTITY otherFolder.label "Anders:">
+<!ENTITY junkFolderOn.label "map &quot;Ongewenst&quot; in:">
+<!ENTITY purge1.label "Ongewenste berichten ouder dan">
+<!ENTITY purge1.accesskey "d">
+<!ENTITY purge2.label "dagen automatisch uit deze map verwijderen">
+<!ENTITY manualMark.label "Wanneer ik handmatig berichten markeer als ongewenst:">
+<!ENTITY manualMarkModeMove.label "ze verplaatsen naar de map &quot;Ongewenst&quot;">
+<!ENTITY manualMarkModeDelete.label "ze verwijderen">
+<!ENTITY renderWithSafeHtml.label "HTML veilig weergeven bij HTML-berichten die zijn gemarkeerd als ongewenst">
+<!ENTITY log.label "Bijhouden">
+<!ENTITY handling.label "Behandeling">
+
+<!ENTITY account.label "Instellingen configureren voor:">
+<!ENTITY account.accesskey "c">
+<!ENTITY viewLog.label "Ongewenste-berichtenlogboek">
+<!ENTITY viewLog.accesskey "O">
+
+<!ENTITY loggingDescription.label "Het ongewenste-berichtenlogboek bekijken en configureren.">
+
+<!-- Adaptive Filter tab -->
+
+<!ENTITY adaptiveCaption.label "Zelflerend filter">
+<!ENTITY trainingWarning.label "Wanneer geactiveerd, moet &brandShortName; eerst worden getraind om ongewenste berichten te identificeren. Dit gebeurt door met de werkbalkknop &quot;Ongewenst bericht&quot; aan te geven of berichten wel of niet ongewenst zijn. U moet beide aangeven, zowel ongewenst als gewenst.">
+<!ENTITY level.label "Zelflerende ongewenste-berichtendetectie activeren">
+<!ENTITY level.accesskey "A">
+
+<!ENTITY resetTrainingDescription.label "Resetten van de trainingsdata die door het zelflerende filter wordt gebruikt, betekent dat u het filter opnieuw moet trainen.">
+<!ENTITY resetTrainingData.label "Trainingsdata resetten">
+<!ENTITY resetTrainingData.accesskey "R">
+
+<!ENTITY whitelist.label "Berichten niet als ongewenst markeren als de afzender zich bevindt in mijn: ">
+<!ENTITY whitelist.accesskey "m">
+
+<!ENTITY ispHeaders.label "Ongewenst-berichtkoppen vertrouwen die zijn ingesteld door: ">
+<!ENTITY ispHeaders.accesskey "v">

@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                 "Namme:">
+<!ENTITY bookmarks.name.accesskey             "N">
+<!ENTITY bookmarks.location.label             "Lokaasje:">
+<!ENTITY bookmarks.location.accesskey         "L">
+<!ENTITY bookmarks.keyword.label              "Kaaiwurd:">
+<!ENTITY bookmarks.keyword.accesskey          "K">
+<!ENTITY bookmarks.description.label          "Beskruiwing:">
+<!ENTITY bookmarks.description.accesskey      "B">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "Live titels">
+<!ENTITY bookmarks.createIn.label             "Makke op:">
+<!ENTITY bookmarks.createIn.accesskey         "M">
+<!ENTITY bookmarks.feed_location.label        "Feedlokaasje:">
+<!ENTITY bookmarks.feed_location.accesskey    "F">
+<!ENTITY bookmarks.site_location.label        "Websteelokaasje:">
+<!ENTITY bookmarks.site_location.accesskey    "W">
+<!ENTITY bookmarks.loadInSidebar.label        "Blêdwizer yn sidebalke lade">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "s">
+<!ENTITY bookmarks.expanderDown.tooltip       "Alle blêdwizersmappen sjen litte">
+<!ENTITY bookmarks.expanderUp.tooltip         "Ferbergje">
+<!ENTITY bookmarks.newFolderButton.label      "Nije map">
+<!ENTITY bookmarks.newFolderButton.accesskey  "e">

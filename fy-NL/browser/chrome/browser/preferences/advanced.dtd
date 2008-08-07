@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label               "Algemien">
+
+<!ENTITY accessibility.label            "Tagonklikheid">
+
+<!ENTITY useCursorNavigation.label       "Hieltyd de pylktoetsen brûke om te navigearjen yn sides">
+<!ENTITY useCursorNavigation.accesskey   "p">
+<!ENTITY searchStartTyping.label         "Nei tekst sykje as ik begjin mei typen">
+<!ENTITY searchStartTyping.accesskey     "t">
+<!ENTITY blockAutoRefresh.label          "Warskôgje my as in webside probeart om troch te stjoeren of de side op 'e nij laadt">
+<!ENTITY blockAutoRefresh.accesskey      "r">
+
+<!ENTITY browsing.label                 "Navigearje">
+
+<!ENTITY useAutoScroll.label         "Automatysk skowe brûke">
+<!ENTITY useAutoScroll.accesskey     "m">
+<!ENTITY useSmoothScrolling.label       "Floeiend skowe brûke">
+<!ENTITY useSmoothScrolling.accesskey   "l">
+<!ENTITY checkSpelling.label             "Kontrolearje myn stavering as ik typ">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "Systeemstanderts">
+<!ENTITY alwaysCheckDefault.label        "Tiidens it opstarten altyd kontrolearje oft &brandShortName; de standert browser is"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "T">
+<!ENTITY checkNow.label                  "No kontrolearje">
+<!ENTITY checkNow.accesskey              "N">
+
+<!ENTITY networkTab.label                "Netwurk">
+
+<!ENTITY connection.label                "Ferbining">
+
+<!ENTITY connectionDesc.label            "Bepaal hoe't &brandShortName; ferbining makket mei Ynternet">
+<!ENTITY connectionSettings.label        "Ynstellings...">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY offlineStorage.label            "Opslach sûnder ferbining">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label           "Brûk oant">
+<!ENTITY useCacheBefore.accesskey       "B">
+<!ENTITY useCacheAfter.label            "MB romte foar de buffer">
+<!ENTITY clearCacheNow.label            "No Leechmeitsje">
+<!ENTITY clearCacheNow.accesskey        "L">
+
+<!ENTITY updateTab.label                "Fernijing">
+
+<!ENTITY autoCheck.label       			"Automatysk kontrolearje op nije ferzjes fan:">
+<!ENTITY enableAppUpdate.label        	"&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "F">
+<!ENTITY enableAddonsUpdate.label       "Ynstallearre Tafoegingss">
+<!ENTITY enableAddonsUpdate.accesskey   "Y">
+<!ENTITY enableSearchUpdate.label       "Sykmasines">
+<!ENTITY enableSearchUpdate.accesskey   "i">
+<!ENTITY whenUpdatesFound.label         "As der fernijings foar &brandShortName; fûn binne,">
+<!ENTITY askMe.label                    "My freegje wat ik dwaan wol">
+<!ENTITY askMe.accesskey                "r">
+<!ENTITY modeAutomatic.label            "Automatysk de fernijing ynlade en ynstallearje">
+<!ENTITY modeAutomatic.accesskey        "d">
+<!ENTITY modeAutoAddonWarn.label        "My warskôgje as dit útwreidings of tema’s útskeakelje sil">
+<!ENTITY modeAutoAddonWarn.accesskey    "w">
+<!ENTITY updateHistory.label            "Fernijingsskiednis sjen litte">
+<!ENTITY updateHistory.accesskey        "F">
+
+<!ENTITY offlineNotify.label             "My fertelle as in webstee freget om gegevens te bewarjen foar offline gebrûk">
+<!ENTITY offlineNotify.accesskey         "e">
+<!ENTITY offlineNotifyExceptions.label   "Utsûnderings">
+<!ENTITY offlineNotifyExceptions.accesskey "u">
+
+<!ENTITY offlineAppsList.label           "De folgjende websteeën hawwe gegevens ynstallearre foar gebrûk as jo gjin ferbining hawwe">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Fuortsmite...">
+<!ENTITY offlineAppsListRemove.accesskey "F">
+<!ENTITY offlineAppRemove.confirm        "Bewarre gegevens fuortsmite">
+
+<!ENTITY encryptionTab.label             "Fersifering">
+
+<!ENTITY protocols.label                "Protokollen">
+<!ENTITY useSSL3.label                "SSL 3.0 brûke">
+<!ENTITY useSSL3.accesskey              "3">
+<!ENTITY useTLS1.label                "TLS 1.0 brûke">
+<!ENTITY useTLS1.accesskey              "1">
+<!ENTITY certificates.label             "Sertifikaten">
+<!ENTITY certSelection.description       "As in webstee in sertifikaat fereasket:">
+<!ENTITY certs.auto              "Automatysk ien selektearje">
+<!ENTITY certs.auto.accesskey      "a">
+<!ENTITY certs.ask               "My elke kear freegje">
+<!ENTITY certs.ask.accesskey       "e">
+<!ENTITY viewCerts.label         "Sertifikaten besjen">
+<!ENTITY viewCerts.accesskey     "S">
+<!ENTITY viewCRLs.label                 "Ynlûklisten">
+<!ENTITY viewCRLs.accesskey             "Y">
+<!ENTITY verify2.label                 "Ferifikaasje">
+<!ENTITY verify2.accesskey             "F">
+<!ENTITY viewSecurityDevices.label      "Feiligheidsapparaten">
+<!ENTITY viewSecurityDevices.accesskey  "a">

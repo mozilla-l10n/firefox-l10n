@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "Privee-gegevens opskjinje">
+
+<!ENTITY sanitizeItems.label          "De folgjende ûnderdielen no fuortsmite:">
+<!ENTITY clearDataSettings.label      "As ik &brandShortName; freegje myn priveegegevens op te skjinjen, it folgjende fuortsmite:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Blêderskiednis">
+<!ENTITY itemHistory.accesskey        "N">
+<!ENTITY itemFormSearchHistory.label           "Bewarre formulier- en sykskiednis">
+<!ENTITY itemFormSearchHistory.accesskey       "f">
+<!ENTITY itemPasswords.label          "Bewarre wachtwurden">
+<!ENTITY itemPasswords.accesskey      "w">
+<!ENTITY itemCookies.label            "Cookies">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "Buffer">
+<!ENTITY itemCache.accesskey          "B">
+<!ENTITY itemOfflineApps.label        "Bewarre Websteegegevens">
+<!ENTITY itemOfflineApps.accesskey    "W">
+<!ENTITY itemDownloads.label          "Ynlaadskiednis">
+<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemSessions.label           "Autentisearre sesjes">
+<!ENTITY itemSessions.accesskey       "s">
+<!ENTITY window.width                 "30em">

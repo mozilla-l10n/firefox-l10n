@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Sykje:">
+<!ENTITY find.accesskey            "Z">
+<!ENTITY expand.label              "Utklappe">
+<!ENTITY expand.accesskey          "U">
+<!ENTITY collapse.label            "Ynklappe">
+<!ENTITY collapse.accesskey        "I">
+<!ENTITY byDate.label "Op datum">
+<!ENTITY byDate.accesskey "d">
+<!ENTITY bySite.label "Op webstee">
+<!ENTITY bySite.accesskey "w">
+<!ENTITY view.label "Besjen">
+<!ENTITY view.accesskey "B">
+<!ENTITY byMostVisited.label "Op meast besjoen">
+<!ENTITY byMostVisited.accesskey "m">
+<!ENTITY byLastVisited.label "Op lêst besjoen">
+<!ENTITY byLastVisited.accesskey "l">
+<!ENTITY byDayAndSite.label "Op datum en webstee">
+<!ENTITY byDayAndSite.accesskey "e">
+<!ENTITY openLinkInWindow.label "Iepenje">
+<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openInNewTab.label "Yn in nij ljepblêd iepenje">
+<!ENTITY openInNewTab.accesskey "l">
+<!ENTITY openInNewWindow.label "Yn in nij finster iepenje">
+<!ENTITY openInNewWindow.accesskey "f">
+<!ENTITY bookmarkLink.label "Blêdwizer fan dizze keppeling meitsje">
+<!ENTITY bookmarkLink.accesskey "m">
+<!ENTITY copyLink.label "Keppelingslokaasje kopiearje">
+<!ENTITY copyLink.accesskey "k">
