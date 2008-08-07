@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Configuración del servidor saliente (SMTP)">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Sólo es necesario especificar un servidor de correo saliente (SMTP), incluso si tiene varias cuentas de correo. Introduzca el nombre del servidor saliente que use más frecuentemente para acceder al correo.">
+
+<!ENTITY smtpListAdd.label  "Agregar...">
+<!ENTITY smtpListAdd.accesskey  "g">
+<!ENTITY smtpListEdit.label "Editar...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Remover">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "Predeterminado">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "Descripción: ">
+<!ENTITY serverName.label "Servidor: ">
+<!ENTITY serverPort.label "Puerto: ">
+<!ENTITY userName.label   "Usuario: ">
+<!ENTITY useSecureConnection.label   "Conexión segura: ">

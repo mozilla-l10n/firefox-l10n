@@ -1,0 +1,6 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+<!ENTITY viewPicker.label "Ver:">
+<!ENTITY viewPicker.accesskey "r">
+<!ENTITY viewPickerCustomView.label "Personalizar...">
+<!ENTITY viewPickerAll.label "Todo">
+<!ENTITY viewPickerUnread.label "No leídos">

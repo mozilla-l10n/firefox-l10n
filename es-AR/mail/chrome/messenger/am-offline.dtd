@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Para ahorrar espacio en disco, no descargar:">
+<!ENTITY doNotDownload.label "Para ahorrar espacio en disco, no descargar para su uso sin conexión:">
+<!ENTITY offlineNewFolder.label "Al crear carpetas nuevas, seleccionarlas para el modo sin conexión">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "Mensajes de tamaño superior a">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "días">
+<!ENTITY daysOld.label "días de antigüedad">
+<!ENTITY message.label "mensajes">
+<!ENTITY nntpNotDownloadRead.label "Mensajes leídos">
+<!ENTITY nntpNotDownloadRead.accesskey "l">
+<!ENTITY nntpDownloadMsg.label "Mensajes de más de">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente">
+<!ENTITY retentionKeepMsg.label "Borrar mensajes más de">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "No borrar ningún mensaje">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "Borrar todos menos los últimos">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Siempre borrar mensajes leídos">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "Sólo los cuerpos de mensajes con más de">
+<!ENTITY nntpRemoveBody.accesskey "o">
+<!ENTITY offlineSelectNntp.label "Seleccionar grupos de noticias para su uso sin conexión...">
+<!ENTITY offlineSelectImap.label "Seleccionar carpetas para su uso sin conexión...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "Puede descargar sus mensajes localmente para tenerlos disponibles cuando trabaje sin conexión.">
+<!ENTITY makeInboxMsgsAvailable.label "Hacer que los mensajes en mi carpeta de entrada estén disponibles cuando trabaje desconectado">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Sin conexión">
+<!ENTITY diskspaceGroupTitle.label "Espacio en disco">

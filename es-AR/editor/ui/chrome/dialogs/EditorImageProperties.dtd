@@ -1,0 +1,109 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+<!-- Window title -->
+<!ENTITY windowTitle.label "Propiedades de la imagen">
+<!ENTITY pixelsPopup.value "píxeles">
+<!ENTITY percentPopup.value "porcentaje">
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "URL de la imagen:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "Teclee el nombre de archivo de la imagen o su ubicación">
+<!ENTITY title.label "Consejo:">
+<!ENTITY title.accessKey "C">
+<!ENTITY title.tooltip "El atributo HTML 'title' que se muestra como consejo">
+<!ENTITY altText.label "Texto alternativo:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Teclee el texto a mostar en lugar de la imagen">
+<!ENTITY noAltText.label "No usar texto alternativo">
+<!ENTITY noAltText.accessKey "D">
+<!ENTITY previewBox.label "Vista preliminar">
+<!ENTITY MoreFewerButton.tooltip "Mostrar más o menos propiedades a editar">
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Tamaño real:">
+<!ENTITY actualSizeRadio.label "Tamaño real">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "Restablecer al tamaño real de la imagen">
+<!ENTITY customSizeRadio.label "Tamaño personalizado">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "Cambiar el tamaño de la imagen al establecido en la página">
+<!ENTITY heightEditField.label "Altura:">
+<!ENTITY heightEditField.accessKey "u">
+<!ENTITY widthEditField.label "Anchura:">
+<!ENTITY widthEditField.accessKey "n">
+<!ENTITY constrainCheckbox.label "Mantener aspecto">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "Mantener la proporción en el aspecto de la imagen">
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Mapa de imagen">
+<!ENTITY removeImageMapButton.label "Eliminar">
+<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY editImageMapButton.label "Editar...">
+<!ENTITY editImageMapButton.tooltip "Crear zonas que reaccionen al hacer clic en esta imagen">
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Alinear el texto con la imagen">
+<!ENTITY bottomPopup.value "En la parte inferior">
+<!ENTITY topPopup.value "En la parte superior
+">
+<!ENTITY centerPopup.value "En el centro">
+<!ENTITY wrapRightPopup.value "El texto fluye por la derecha">
+<!ENTITY wrapLeftPopup.value "El texto fluye por la izquierda">
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Espacio">
+<!ENTITY spacingBox.tooltip "Teclee un número para la cantidad de espacio alrededor de la imagen">
+<!ENTITY leftRightEditField.label "Izquierda y derecha:">
+<!ENTITY leftRightEditField.accessKey "I">
+<!ENTITY topBottomEditField.label "Parte superior y parte inferior:">
+<!ENTITY topBottomEditField.accessKey "P">
+<!ENTITY borderEditField.label "Borde sólido:">
+<!ENTITY borderEditField.accessKey "B">
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Mostrar el borde alrededor de la imagen-enlace">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!-- These controls may be added some day; currently not used -->
+<!ENTITY makePageBackgroundCheckbox.label "Hacer fondo de página">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Usar imagen como fondo para su página">
+<!ENTITY editImageButton.label "Editar imagen">
+<!ENTITY editImageButton.tooltip "Editar archivo de imagen en otro programa">
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Formulario">
+<!ENTITY imageLocationTab.label "Ubicación">
+<!ENTITY imageDimensionsTab.label "Dimensiones">
+<!ENTITY imageAppearanceTab.label "Apariencia">
+<!ENTITY imageLinkTab.label "Enlace">

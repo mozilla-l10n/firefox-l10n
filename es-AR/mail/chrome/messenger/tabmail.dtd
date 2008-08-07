@@ -1,0 +1,12 @@
+<!ENTITY  untitledTab              "(Sin título)">
+<!ENTITY  newTab.label             "Nueva pestaña">
+<!ENTITY  newTab.accesskey         "N">
+<!ENTITY  closeTab.label           "Cerrar pestaña">
+<!ENTITY  closeTab.accesskey       "c">
+<!ENTITY  closeOtherTabs.accesskey "o">
+<!ENTITY  closeOtherTabs.label     "Cerrar las otras pestañas">
+<!ENTITY  reloadAllTabs.label      "Recargar todas las pestañas">
+<!ENTITY  reloadAllTabs.accesskey  "A">
+<!ENTITY  reloadTab.label          "Recargar pestaña">
+<!ENTITY  reloadTab.accesskey      "r">
+<!ENTITY  listAllTabs.label        "Listar todas las pestañas">

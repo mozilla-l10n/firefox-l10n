@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                 "Nombre:">
+<!ENTITY bookmarks.name.accesskey             "N">
+<!ENTITY bookmarks.location.label             "Dirección:">
+<!ENTITY bookmarks.location.accesskey         "i">
+<!ENTITY bookmarks.keyword.label              "Palabra clave:">
+<!ENTITY bookmarks.keyword.accesskey          "P">
+<!ENTITY bookmarks.description.label          "Descripción:">
+<!ENTITY bookmarks.description.accesskey      "D">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "Títulos vivos">
+<!ENTITY bookmarks.createIn.label             "Crear en:">
+<!ENTITY bookmarks.createIn.accesskey         "C">
+<!ENTITY bookmarks.feed_location.label        "Dirección del canal:">
+<!ENTITY bookmarks.feed_location.accesskey    "C">
+<!ENTITY bookmarks.site_location.label        "Dirección del sitio:">
+<!ENTITY bookmarks.site_location.accesskey    "S">
+<!ENTITY bookmarks.loadInSidebar.label        "Cargar este marcador en la barra lateral">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "o">
+<!ENTITY bookmarks.expanderDown.tooltip       "Mostrar todas las carpetas de marcadores">
+<!ENTITY bookmarks.expanderUp.tooltip         "Ocultar">
+<!ENTITY bookmarks.newFolderButton.label      "Nueva carpeta">
+<!ENTITY bookmarks.newFolderButton.accesskey  "e">

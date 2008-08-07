@@ -1,0 +1,32 @@
+<!-- extracted from am-copies.xul -->
+<!ENTITY copyAndFolderTitle.label "Configuración de carpetas y copias">
+<!ENTITY sendingPrefix.label "Al enviar mensajes, automáticamente:">
+<!ENTITY fccMailFolder.label "Poner una copia en:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY chooseFolderButton.label "Elegir carpeta...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Cco a estas direcciones:">
+<!ENTITY bccAddress.accesskey "C">
+<!ENTITY specialFolderTitle.label "Carpetas especiales">
+<!ENTITY draftMailFolder.label "Guardar los borradores de mensajes en:">
+<!ENTITY templateMailFolder.label "Guardar las plantillas de mensajes en:">
+<!ENTITY saveMessageDlg.label "Mostrar diálogo de confirmación cuando se guarden los mensajes">
+<!ENTITY saveMessageDlg.accesskey "s">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): do not translate "Sent" in below line. see bug #64199 -->
+<!ENTITY sentFolderOn.label "Carpeta &quot;Enviados&quot; en:">
+<!ENTITY sentFolderOn.accesskey "E">
+<!ENTITY sentInOtherFolder.label "Otro:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): do not translate "Drafts" in below line. see bug #64199 -->
+<!ENTITY draftsFolderOn.label "Carpeta &quot;Borradores&quot; en:">
+<!ENTITY draftsFolderOn.accesskey "d">
+<!ENTITY draftInOtherFolder.label "Otro:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): do not translate "Templates" in below line. see bug #23625 -->
+<!ENTITY templatesFolderOn.label "Carpeta &quot;Plantillas&quot; en">
+<!ENTITY templatesFolderOn.accesskey "n">
+<!ENTITY templateInOtherFolder.label "Otro:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "Borradores y plantillas">
+<!ENTITY keepDrafts.label "Guardar los borradores de mensajes en:">
+<!ENTITY keepTempltes.label "Guardar las plantillas de mensajes en:">

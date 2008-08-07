@@ -1,0 +1,23 @@
+<!ENTITY dialog.title                  "Acuses de recibo">
+<!ENTITY receiptSettings.label         "Acuses de recibo">
+<!ENTITY requestReceipt.label          "Al enviar mensajes, siempre pedir un acuse de recibo">
+<!ENTITY requestReceipt.accesskey      "W">
+<!ENTITY receiptArrive.label           "Cuando llegue un acuse de recibo:">
+<!ENTITY leaveIt.label                 "Dejarlo en mi bandeja de entrada">
+<!ENTITY leaveIt.accesskey             "i">
+<!ENTITY moveToSent.label              "Moverlo a mi carpeta &quot;Enviados&quot;">
+<!ENTITY moveToSent.accesskey          "m">
+<!ENTITY requestMDN.label              "Cuando recibo una solicitud de acuse de recibo:">
+<!ENTITY never.label                   "Nunca enviar un acuse de recibo">
+<!ENTITY never.accesskey               "n">
+<!ENTITY returnSome.label              "Permitir acuses de recibo de algunos mensajes">
+<!ENTITY returnSome.accesskey          "r">
+<!ENTITY notInToCc.label               "Si no estoy en A: o CC: del mensaje:">
+<!ENTITY notInToCc.accesskey           "f">
+<!ENTITY outsideDomain.label           "Si el remitente está fuera de mi dominio web:">
+<!ENTITY outsideDomain.accesskey       "t">
+<!ENTITY otherCases.label              "En todos los demás casos:">
+<!ENTITY otherCases.accesskey          "a">
+<!ENTITY askMe.label                   "Preguntarme">
+<!ENTITY alwaysSend.label              "Siempre enviar">
+<!ENTITY neverSend.label               "Nunca enviar">

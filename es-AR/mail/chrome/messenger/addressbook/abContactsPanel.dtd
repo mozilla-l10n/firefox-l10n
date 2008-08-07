@@ -1,0 +1,16 @@
+<!ENTITY addressbookPicker.label "Libreta de direcciones:">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchInput.label "Buscar:">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY SearchNameOrEmail.label "Nombre o Correo electrónico">
+
+<!ENTITY addtoToFieldMenu.label "Añadir a campo Para">
+<!ENTITY addtoCcFieldMenu.label "Añadir a campo CC">
+<!ENTITY addtoBccFieldMenu.label "Añadir a campo CCO">
+
+<!ENTITY toButton.label "Añadir a Para:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label "Añadir a Cc:">
+<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY bccButton.label                    "Añadir a Bcc:">
+<!ENTITY bccButton.accesskey                "B">

@@ -1,0 +1,96 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Opciones de seguridad">
+<!ENTITY serverSettings.label "Configuración del servidor">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "Servidor de correo POP">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "Servidor de correo IMAP">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Servidor de noticias">
+<!ENTITY webmail.label "Cuenta WebMail">
+<!ENTITY serverType.label "Tipo de servidor:">
+<!ENTITY serverName.label "Nombre del servidor:">
+<!ENTITY serverName.accesskey "s">
+<!ENTITY userName.label "Nombre de usuario:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "Puerto:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Predeterminado:">
+<!ENTITY savePassword.label "Guardar contraseña">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Buscar nuevos mensajes cada ">
+<!ENTITY biffStart.accesskey "j">
+<!ENTITY biffEnd.label "minutos">
+<!ENTITY isSecure.label "Usar conexión segura (SSL)">
+<!ENTITY isSecure.accesskey "U">
+<!ENTITY socketType.label "Usar conexión segura:">
+<!ENTITY neverSecure.label "Nunca">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, si está disponible">
+<!ENTITY sometimesSecure.accesskey "i">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Usar identificación segura">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "Dejar los mensajes en el servidor.">
+<!ENTITY leaveOnServer.accesskey "a">
+<!ENTITY headersOnly.label "Descargar sólo los encabezados">
+<!ENTITY headersOnly.accesskey "f">
+<!ENTITY deleteByAgeFromServer.label "Borrar mensajes del servidor tras">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "días">
+<!ENTITY deleteOnServer2.label "Hasta que los borre">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "Descargar automáticamente los mensajes nuevos">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "Nombre del servidor">
+<!ENTITY username.label "Nombre de la cuenta">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "Información del servidor POP">
+<!ENTITY deleteMessagePrefix.label "Cuando borre un mensaje:">
+<!ENTITY modelMoveToTrash.label "Moverlo a la papelera">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Marcarlo como borrado">
+<!ENTITY modelMarkDeleted.accesskey "b">
+<!ENTITY modelDeleteImmediately.label "Eliminarlo inmediatamente">
+<!ENTITY modelDeleteImmediately.accesskey "d">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Limpiar carpeta de entrada al salir">
+<!ENTITY expungeOnExit.accesskey "e">
+<!ENTITY emptyTrashOnExit.label "Vaciar papelera al salir">
+<!ENTITY emptyTrashOnExit.accesskey "V">
+<!ENTITY loginAtStartup.label "Comprobar si hay mensajes nuevos al iniciar">
+<!ENTITY loginAtStartup.accesskey "C">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+    of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Preguntarme antes de descargar más de">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "mensajes">
+<!ENTITY alwaysAuthenticate.label "Siempre solicitar identificación cuando se conecte con este servidor">
+<!ENTITY alwaysAuthenticate.accesskey "p">
+<!ENTITY newsrcFilePath.label "archivo newsrc:">
+<!ENTITY newsrcFilePath.accesskey "w">
+<!ENTITY localPath.label "Directorio local:">
+<!ENTITY localPath.accesskey "l">
+<!ENTITY abbreviate.label "Mostar los nombres de los grupos de noticas en la carpeta de correo como:">
+<!ENTITY abbreviateOn.label "Nombres completos (Por ejemplo, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Nombres abreviados (Por ejemplo,'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Avanzadas...">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY serverDefaultCharset.label "Codificación de caracteres predeterminada:">
+<!ENTITY localFolderPicker.label "Seleccione directorio local">
+<!ENTITY browseFolder.label "Examinar...">
+<!ENTITY browseFolder.accesskey "x">
+<!ENTITY newsrcPicker.label "Seleccionar archivo newsrc">
+<!ENTITY browseNewsrc.label "Examinar...">
+<!ENTITY browseNewsrc.accesskey "E">

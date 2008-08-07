@@ -1,0 +1,10 @@
+<!ENTITY aboutDialog.title "Acerca de &brandFullName;">
+<!ENTITY copyright "Créditos">
+<!ENTITY copyright.accesskey    "C">
+<!ENTITY aboutLink              "&lt; Acerca de &brandFullName;">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY aboutVersion "versión">
+<!ENTITY copyrightInfo          "&#169;1998-2008 Contribuyentes. Todos los derechos reservados. Firefox y los
+                              logos de Firefox son marcas registradas de The Mozilla Foundation.
+                              Todos los derechos reservados.">
+

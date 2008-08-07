@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title        "Personalizar nueva alerta de correo">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Seleccione qué campos mostrar en la alerta de notificación:">
+<!ENTITY previewText.label                "Vista previa del mensaje (texto)">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "Asunto">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "Remitente">
+<!ENTITY sender.accesskey                 "e">

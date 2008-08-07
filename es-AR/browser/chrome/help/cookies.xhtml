@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Administrando Cookies</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Administrando Cookies</h1>
+
+<p>Este documento explica qu&eacute; son las cookies, c&oacute;mo se utilizan, y c&oacute;mo puede tener
+  control sobre las cookies guardadas en su computadora usando el Administrador de Cookies de
+  &brandFullName;.</p>
+
+<div class="contentsBox">En esta secci&oacute;n:
+  <ul>
+    <li><a href="#what_is_a_cookie">&#191;Qu&#233; es una Cookie?</a></li>
+    <li><a href="#setting_up_cookie_rules">Reglas de cookies</a></li>
+    <li><a href="#accepting_and_blocking_cookies">Aceptando y bloqueando Cookies</a></li>
+    <li><a href="#the_cookie_manager">Administrando Cookies</a></li>
+  </ul>
+</div>
+
+<h2 id="what_is_a_cookie">&#191;Qu&#233; es una Cookie?</h2>
+
+<p>Una cookie es un archivo creado por un sitio de Internet para guardar informaci&oacute;n en su 
+  computadora, como sus preferencias al visitar aquel sitio. Al visitar un sitio
+  que usa cookies, el sitio puede pedir a &brandShortName; establecer una o m&aacute;s cookies
+  en su disco r&iacute;gido.</p>
+
+<p>Posteriormente, cuando regrese al sitio, &brandShortName; env&iacute;a de vuelta las cookies que
+  pertenecen al sitio. &Eacute;sto permite al sitio mostrarle informaci&oacute;n personalizada
+  seg&uacute;n sus necesidades.</p>
+
+<p>Las cookies tambi&eacute;n pueden guardar informaci&oacute;n personalmente identificable. O sea,
+  informaci&oacute;n que puede ser usada para identificarlo o contactarlo, como
+  su nombre, direcciones de correo electr&oacute;nico, vivienda o trabajo y hasta su n&uacute;mero telef&oacute;nico. Sin embargo, un
+  sitio web solamente tiene acceso a la informaci&oacute;n personal que usted suministre. Por
+  ejemplo, un sitio web no puede determinar su direcci&oacute;n de correo electr&oacute;nico a menos que se la provea. Tambi&eacute;n,
+  un sitio web no puede tener acceso a otra informaci&oacute;n en su computadora.</p>
+
+<p>Cuando use las opciones de cookies predeterminadas, esta actividad es invisible,
+  y usted no sabr&aacute; cuando un sitio web est&aacute; estableciendo una cookie o cuando &brandShortName;
+  est&aacute; enviando sus cookies a un sitio web. Sin embargo, usted puede cambiar sus &pref.plural; de cookies para que se 
+  le pregunte antes se establecer una cookie.</p>
+
+<h2 id="setting_up_cookie_rules">Reglas de cookies</h2>
+
+<p>Por defecto, &brandShortName; acepta todas las cookies. Si quiere tener m&aacute;s control sobre
+qu&eacute; cookies se guardan, siga estas instrucciones:</p>
+
+<ol>
+  <li>Seleccione &pref.menuPath;.</li>
+  <li>Haga clic en el panel Privacidad y luego en la pesta&ntilde;a Cookies.</li>
+  <li>Selecccione la &pref.singular; <em>preguntarme siempre</em> en <span class="menuPath">
+    Mantener cookies</span>.</li>
+</ol>
+
+<p><img src="&images.baseURL;/cookie_ask.png" alt=""
+  width="425" height="317"/></p>
+
+<p>Despu&eacute;s de hacer &eacute;sto, puede decidir exactamente qu&eacute; cookies deben guardarse y cuales no.</p>
+
+<h3 id="other_settings">Otras opciones</h3>
+
+<p>Hay tambi&eacute;n otras &pref.plural; que afectan como se administran las cookies en &brandShortName;.
+  No se las necesita para que las reglas de cookies funcionen pero lo mismo se explican:</p>
+
+<dl>
+  <dt>Permitir a los sitios establecer cookies</dt>
+  <dd><p>Si no quiere que ning&uacute;n sitio guarde cookies en su computadora, desmarque
+    esta &pref.singular;. Note que algunos sitios no funcionar&aacute;n correctamente cuando
+    se deshabiliten las cookies.</p></dd>
+  <dt>para el sitio web original solamente</dt>
+  <dd>
+    <p>Si &brandShortName; guarda una cookie de un sitio, solamente se la devolver&aacute;
+      a ese sitio en particular.  &brandShortName; no proveer&aacute; a un sitio
+      las cookies establecidas por otro. Cuando un sitio web solamente recibe sus propias
+      cookies, puede aprender de sus actividades mientras est&eacute; en ese sitio
+      pero no de sus actividades en general al navegar por la web.</p>
+    <p>Sin embargo, a veces un sitio web muestra contenido que est&aacute; ubicado en otro
+      sitio. Ese contenido puede ser cualquier cosa como una imagen, un texo o
+      publicidad. El otro sitio web tambi&eacute;n tiene la habilidad de 
+      guardar una cookie en &brandShortName;, aunque usted no lo haya visitado
+      directamente.</p>
+    <p>Las cookies que son guardadas por un sitio diferente al que est&aacute; visitando
+      se llaman cookies de terceras partes o cookies extranjeras. Los sitios web a veces
+      usan cookies de terceras partes con GIFs transparentes, que son im&aacute;genes especiales
+      que ayudan a los sitios a contar usuarios, rastrear respuestas de correos electr&oacute;nicos, aprender m&aacute;s sobre c&oacute;mo los
+      visitantes usan el sitio, o personalizar su experiencia de navegaci&oacute;n.
+      (Los GIFs transparentes tambi&eacute;n se conocen como <i>web beacons</i> o <i>web bugs</i>.) Cuando esta
+      &pref.singular; est&aacute; marcada, bloquea estas cookies extranjeras evitando que 
+      se guarden.</p>
+  </dd>
+  <dt>Mantener cookies:</dt>
+  <dd>
+  <ul>
+    <li><strong>hasta que expiren</strong>: Si esta &pref.singular; es seleccionada,
+      la informaci&oacute;n de la cookie ser&aacute; removida cuando llegue la fecha
+      de expiraci&oacute;n.</li>
+    <li><strong>hasta que cierre &brandShortName;:</strong> Si esta &pref.singular; es
+      seleccionada, la informaci&oacute;n de la cookie ser&aacute; removida al reiniciar
+      &brandShortName;. Los sitios web que requieran el uso de cookies seguir&aacute;n
+      funcionando, pero si reinicia &brandShortName;, el sitio web pensar&aacute; que
+      ingres&oacute; al sitio por primera vez nuevamente.</li>
+    <li><strong>preguntarme siempre:</strong> Muestra una alerta cada vez que un sitio web
+      trate de guardar una cookie para preguntar si desea que esa cookie sea
+      guardada.</li>
+  </ul>
+  </dd>
+</dl>
+
+<h2 id="accepting_and_blocking_cookies">Acceptando y bloqueando Cookies</h2>
+
+<p>Asumiendo que ha habilitado las reglas de cookies explicadas anteriormente, ver&aacute; un
+  di&aacute;logo cuando un sitio trade de guardar una cookie en su computadora:</p>
+
+<p><img src="&images.baseURL;/cookie_accept.png"
+  alt="" width="286" height="87"/></p>
+
+<dl>
+  <dt>Permitiendo una cookie</dt>
+  <dd>Para permitir esta cookie en particular, haga clic en <em>Permitir</em>. Si conf&iacute;a en
+    el sitio y no quiere que este di&aacute;logo se muestre cada vez que el sitio trata de 
+    guardar una cookie, marque <em>Usar mi selecci&oacute;n para todas las cookies de este
+    sitio</em> y haga clik en <em>Permitir</em>. &brandShortName; lo
+    recordar&aacute; y nunca m&aacute;s le preguntar&aacute; por cookies de este sitio. Si posteriormente
+    se arrepiente de su elecci&oacute;n, lea acerca del <em>Administrador de cookies</em>.</dd>
+  <dt>Bloqueando una cookie</dt>
+  <dd>Si no quiere que esta cookie se guarde, haga clic en Denegar. Si no conf&iacute;a
+    en el sitio o sospecha que est&aacute; comprometiendo su privacidad, marque <em>Usar 
+    mi selecci&oacute;n para todas las cookies de este sitio</em> y haga clic en
+    <em>Bloquear</em>. &brandShortName; pondr&aacute; este sitio en la lista de
+    sitios bloqueados y nunca guardar&aacute; sus cookies. Esta opci&oacute;n puede deshacerse mediante
+    el Adminstrador de cookies.</dd>
+</dl>
+
+<h2 id="the_cookie_manager">Administrando cookies</h2>
+
+<p>Use el Administrador de cookies para ver y remover cookies y administrar &pref.plural; de cookies
+  por sitio. Se accede mediante la pesta&ntilde;a Cookies en el panel Privacidad
+  de &pref.singularCaps;.</p>
+
+<h3 id="the_cookie_list">El administrador de cookies</h3>
+
+<p><img src="&images.baseURL;/cookie_list.png"
+  width="274" height="297" alt=""/></p>
+
+<p>El di&aacute;logo del <em>Administrador de cookies</em> muestra todas las cookies guardadas actulamente en su
+  computadora, agrupadas por sitio. Puede expandir los sitios y seleccionar una cookie para  
+  mostrar m&aacute;s informaci&oacute;n sobre ella. Tambi&eacute;n puede buscar un sitio o cookie
+  por nombre ingres&aacute;ndolo en la barra de b&uacute;squedas. Para acceder al Administrador de Cookies, haga clic en
+  el bot&oacute;n <em>Ver cookies</em> en las &pref.plural; de cookies.</p>
+
+<p>Para remover una cookie de la lista, selecci&oacute;nela y haga clic en <em>Remover cookie</em>.
+  Para remover las cookies de un sitio, seleccione el sitio y haga clic en <em>Remover
+  cookie(s)</em>. Para limpiar todas las cookies haga clic en <em>Remover todas las cookies</em>.
+  (&Eacute;sto es lo mismo que hacer clic en  el bot&oacute;n <em>Borrar cookies ahora</em> de la
+  <a href="prefs.xhtml#privacy_cookies">pesta&ntilde;a Cookies</a> del panel Privacidad de
+  la ventana de &pref.pluralCaps;.)</p>
+
+<h3 id="the_site_list">La lista de sitios</h3>
+
+<p><img src="&images.baseURL;/cookie_manager.png"
+  alt="" width="247" height="291"/></p>
+
+<p>&Eacute;sta es la lista de sitios que o se les permite o se les bloquea la posibilidad de guardar
+  cookies en su computadora. En la columna Estado, puede ver si un sitio est&aacute;
+  bloqueado o permitido. Use el bot&oacute;n <em>Excepciones</em> en &pref.plural; de cookies para
+  acceder a esta ventana.</p>
+
+<p>Para agregar un sitio a esta lista, ingrese el nombre del sitio en el
+  campo <em>Direcci&oacute;n del sitio web:</em>.  Haga clic en <em>Bloquear</em> para
+  rechazar cookies del sitio, o haga clic en <em>Permitir</em> para permitir cookies de
+  ese sitio.</p>
+
+<p>Para remover un sitio de la lista, selecci&oacute;nelo y haga clic en <em>Remover sitio</em>. Para
+  borrar la lista completamente, haga clic en <em>Remover todos los sitios</em>. &Eacute;sto reiniciar&aacute;
+  las reglas de cookies y ver&aacute; los di&aacute;logos para cada cookie nuevamente.</p>
+
+<div class="contentsBox"><em>8 Julio 2005</em></div>
+<p>Copyright &copy; 2003-2005 Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

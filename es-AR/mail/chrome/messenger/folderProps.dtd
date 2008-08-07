@@ -1,0 +1,99 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+           
+<!ENTITY folderProps.windowtitle.label "Propiedades">
+
+<!ENTITY generalInfo.label "Información general">
+<!ENTITY folderCharsetTab.label "Juego de caracteres predeterminado:">
+<!ENTITY folderCharsetTab.accesskey              "e">
+<!ENTITY folderCharsetOverride.label "Aplicar la configuración predeterminada a todos los mensajes de la carpeta (ignorando la autodetección y la configuración de codificación de caracteres de cada mensaje)">
+<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderRebuildSummaryFile.label          "Reconstruir índice">
+<!ENTITY folderRebuildSummaryFile.accesskey      "R">
+<!ENTITY folderRebuildSummaryFileTip.label       "Reconstruir archivo resumen"> 
+
+<!ENTITY retention.label "Política de retención">
+<!ENTITY retentionUseDefault.label  "Usar configuración del servidor">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY days.label "días">
+<!ENTITY daysOld.label "días old">
+<!ENTITY message.label "mensajes">
+<!ENTITY retentionCleanup.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente">
+<!ENTITY retentionKeepMsg.label "Borrar mensajes más de">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "No borrar ningúun mensaje">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "Borrar todos menos los últimos">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Siempre borrar los mensajes leídos">
+<!ENTITY retentionKeepUnread.accesskey "r">
+
+<!ENTITY folderOfflineTab.label "Sin conexión">
+<!ENTITY folderCheckForNewMessages.label "Comprobar esta carpeta en busca de nuevos mensajes">
+<!ENTITY folderCheckForNewMessages.accesskey     "C">
+
+<!ENTITY offlineFolder.check.label "Seleccionar esta carpeta para usar sin conexión">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label "Descargar ahora">
+<!ENTITY offlineFolder.button.accesskey          "D">
+
+<!ENTITY selectofflineNewsgroup.check.label "Seleccionar este grupo de noticias para usar sin conexión">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Utilizar la configuración por defecto de la cuenta">
+<!ENTITY offlineNewsgroup.button.label "Descargar ahora">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
+
+<!ENTITY folderProps.information.label "Información:">
+<!ENTITY folderProps.name.label "Nombre:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Ubicación:">
+<!ENTITY folderProps.location.accesskey          "U">
+
+<!ENTITY folderSharingTab.label "Compartir">
+<!ENTITY privilegesDesc.label "Compartir ésta y otras carpetas con usuarios de la red y mostrar y configurar los privilegios de acceso">
+<!ENTITY privileges.button.label "Privilegios...">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label "Tiene los siguientes permisos:">
+<!ENTITY folderType.label "Tipo de carpeta:">
+
+<!ENTITY folderQuotaTab.label "Cuota">
+<!ENTITY folderQuotaRoot.label "Cuota raíz:">
+<!ENTITY folderQuotaUsage.label "Uso:">
+<!ENTITY folderQuotaStatus.label "Estado:">

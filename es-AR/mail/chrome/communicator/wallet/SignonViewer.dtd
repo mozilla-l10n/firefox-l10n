@@ -1,0 +1,15 @@
+<!ENTITY windowtitle.label "Administrador de contraseñas">
+<!ENTITY windowalttitle.label "Administrador de formularios: sitios">
+<!ENTITY tab.signonsstored.label "Contraseñas guardadas">
+<!ENTITY tab.signonsnotstored.label "Contraseñas que nunca se guardarán">
+<!ENTITY tab.nopreview.label "Formularios sin vista previa">
+<!ENTITY tab.nocapture.label "Formularios que nunca se guardarán">
+<!ENTITY spiel.signonsstored.label "El administrador de contraseñas ha guardado la información de inicio de sesión para los siguientes sitios:">
+<!ENTITY spiel.signonsnotstored.label "El administrador de contraseñas no guardará nunca la información de inicio de sesión para los siguientes sitios:">
+<!ENTITY spiel.nopreview.label "El administrador de formularios nunca le mostrará previamente los formularios procedentes de los siguientes sitios antes de pre-cumplimentarlos por usted:">
+<!ENTITY spiel.nocapture.label "El administrador de formularios nunca le preguntará si quiere guardar los formularios de los siguientes sitios:">
+<!ENTITY treehead.site.label "Sitio">
+<!ENTITY treehead.username.label "Nombre de usuario">
+<!ENTITY treehead.password.label "Contraseña">
+<!ENTITY remove.label "Eliminar">
+<!ENTITY removeall.label "Eliminar todos">

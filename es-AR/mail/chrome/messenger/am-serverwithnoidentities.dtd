@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Configuración de la cuenta">
+<!ENTITY accountSettingsDesc.label "La siguiente cuenta es especial. No tiene identidades asociadas.">
+<!ENTITY accountName.label "Nombre de la cuenta:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "Almacenamiento de mensajes">
+<!ENTITY emptyTrashOnExit.label "Vaciar papelar al salir">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY localPath.label "Directorio local:">
+<!ENTITY localPath.accesskey "l">
+<!ENTITY localFolderPicker.label "Seleccione directorio local">
+<!ENTITY browseFolder.label "Examinar...">
+<!ENTITY browseFolder.accesskey "x">

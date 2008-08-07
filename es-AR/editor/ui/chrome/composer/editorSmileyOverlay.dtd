@@ -1,0 +1,91 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "Emoticón">
+<!ENTITY insertSmiley.accesskey "E">
+
+<!ENTITY smiley1Cmd.label "Sonriendo">
+<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "Insertar una cara sonriente">
+<!ENTITY smiley2Cmd.label "Triste">
+<!ENTITY smiley2Cmd.accesskey "T">
+<!ENTITY smiley2Cmd.tooltip "Insertar una cara triste">
+<!ENTITY smiley3Cmd.label "Pícaro">
+<!ENTITY smiley3Cmd.accesskey "P">
+<!ENTITY smiley3Cmd.tooltip "Insertar una cara pícara">
+<!ENTITY smiley4Cmd.label "Sacando la lengua">
+<!ENTITY smiley4Cmd.accesskey "l">
+<!ENTITY smiley4Cmd.tooltip "Insertar una cara sacando la lengua">
+<!ENTITY smiley5Cmd.label "Riendo">
+<!ENTITY smiley5Cmd.accesskey "R">
+<!ENTITY smiley5Cmd.tooltip "Insertar una cara riendo">
+<!ENTITY smiley6Cmd.label "Avergonzado">
+<!ENTITY smiley6Cmd.accesskey "e">
+<!ENTITY smiley6Cmd.tooltip "Insertar una cara avergonzada">
+<!ENTITY smiley7Cmd.label "Indeciso">
+<!ENTITY smiley7Cmd.accesskey "I">
+<!ENTITY smiley7Cmd.tooltip "Insertar una cara indecisa">
+<!ENTITY smiley8Cmd.label "Sorprendido">
+<!ENTITY smiley8Cmd.accesskey "p">
+<!ENTITY smiley8Cmd.tooltip "Insertar una cara sorprendida">
+<!ENTITY smiley9Cmd.label "Beso">
+<!ENTITY smiley9Cmd.accesskey "B">
+<!ENTITY smiley9Cmd.tooltip "Insertar una cara dando un beso">
+<!ENTITY smiley10Cmd.label "Gritando">
+<!ENTITY smiley10Cmd.accesskey "o">
+<!ENTITY smiley10Cmd.tooltip "Insertar una cara gritona">
+<!ENTITY smiley11Cmd.label "Cool">
+<!ENTITY smiley11Cmd.accesskey "y">
+<!ENTITY smiley11Cmd.tooltip "Insertar una cara cool">
+<!ENTITY smiley12Cmd.label "Dinero en la boca">
+<!ENTITY smiley12Cmd.accesskey "D">
+<!ENTITY smiley12Cmd.tooltip "Insertar una cara con dinero en la boca">
+<!ENTITY smiley13Cmd.label "Pie en la boca">
+<!ENTITY smiley13Cmd.accesskey "o">
+<!ENTITY smiley13Cmd.tooltip "Insertar una cara con el pie en la boca">
+<!ENTITY smiley14Cmd.label "Inocente">
+<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.tooltip "Insertar una cara inocente">
+<!ENTITY smiley15Cmd.label "Llorando">
+<!ENTITY smiley15Cmd.accesskey "r">
+<!ENTITY smiley15Cmd.tooltip "Insertar una cara llorando">
+<!ENTITY smiley16Cmd.label "Labios sellados">
+<!ENTITY smiley16Cmd.accesskey "a">
+<!ENTITY smiley16Cmd.tooltip "Insertar una cara con los labios sellados">
+<!ENTITY SmileButton.tooltip "Insertar un emoticón">
+

@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label            "Publicar página">
+<!ENTITY windowTitleSettings.label    "Opciones de publicación">
+
+<!ENTITY publishTab.label             "Publicar">
+<!ENTITY settingsTab.label            "Opciones">
+
+<!ENTITY publishButton.label          "Publicar">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Nombre del sitio:">
+<!ENTITY siteList.accesskey           "e">
+<!ENTITY siteList.tooltip             "Seleccione el sitio que desea publicar">
+<!ENTITY newSiteButton.label          "Nuevo sitio">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY docDirList.label             "Subdirectorio del sitio para esta página:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Seleccione o ingrese el nombre del subdirectorio remoto para esta página">
+<!ENTITY publishImgCheckbox.label     "Incluír imágenes y otros archivos">
+<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.tooltip   "Publicar imágenes y otros archivos referenciados por esta página">
+<!ENTITY sameLocationRadio.label      "Usar la misma ubicación que la página">
+<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY sameLocationRadio.tooltip    "Publicar archivos a la misma ubicación que la página">
+<!ENTITY useSubdirRadio.label         "Usear el subdirectorio de este sitio:">
+<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.tooltip       "Publicar archivos al subdirectorio remoto seleccionado">
+<!ENTITY otherDirList.tooltip         "Seleccionar o ingresar el nombre del subdirectorio remoto donde se publicarán los archivos">
+<!ENTITY pageTitle.label              "Título de la página:">
+<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.tooltip            "Ingrese un título para identificar la página en la ventana y en los marcadores">
+<!ENTITY pageTitleExample.label       "ej.: &quot;Mi página web&quot;">
+<!ENTITY filename.label               "Nombre:">
+<!ENTITY filename.accesskey           "N">
+<!ENTITY filename.tooltip             "Ingrese un nombre para este archivo, incluyendo '.html' para una página web">
+<!ENTITY filenameExample.label        "ej.: &quot;mipagina.html&quot;">
+<!ENTITY relatedDocs.label            "Otros archivos a publicar">
+<!ENTITY setDefaultButton.label       "Establecer como predeterminado">
+<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY setDefSiteAndDir.label       "Establecer como sitio y directorio predeterminado">
+<!ENTITY removeButton.label           "Eliminar sitio">
+<!ENTITY removeButton.accesskey       "R">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Publicar sitios">
+<!ENTITY serverInfo.label             "Información de servidor">
+<!ENTITY loginInfo.label              "Información de ingreso">
+<!ENTITY siteName.label               "Nombre del sitio:">
+<!ENTITY siteName.accesskey           "e">
+<!ENTITY siteName.tooltip             "Un nombre que identifica este sitio (ej.: 'MiSitio')">
+<!ENTITY siteUrl.label                "Dirección de publicación (ej.: 'ftp://ftp.miproveedor.com/miusuario'):">
+<!ENTITY siteUrl.accesskey            "a">
+<!ENTITY siteUrl.tooltip              "Las direcciones FTP:// o HTTP:// provistas por su proveedor de Internet o servicio de web hosting">
+<!ENTITY browseUrl.label              "Dirección HTTP de su página (ej.: 'http://www.miproveedor.com/miusuario'):">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.tooltip            "La dirección HTTP:// de su directorio de inicio (no incluya nombre de archivo)">
+<!ENTITY username.label               "Usuario:">
+<!ENTITY username.accesskey           "U">
+<!ENTITY username.tooltip             "El nombre de usuario con el que ingresa a su proveedor para el servicio de hosting">
+<!ENTITY password.label               "Contraseña:">
+<!ENTITY password.accesskey           "w">
+<!ENTITY password.tooltip             "La contrseña asociada con su nombre de usuario">
+<!ENTITY savePassword.label           "Guardar contraseña">
+<!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.tooltip         "Seleccione para guardar su contraseña de forma segura usando el administrador de contraseñas">

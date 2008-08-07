@@ -1,0 +1,102 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "General">
+
+<!ENTITY accessibility.label             "Accesibilidad">
+
+<!ENTITY useCursorNavigation.label       "Siempre usar las teclas del cursor para navegar entre páginas">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "Buscar en el texto cuando comience a tipear">
+<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY blockAutoRefresh.label          "Alertarme cuando un sitio web intente redireccionar o recargar la página">
+<!ENTITY blockAutoRefresh.accesskey      "r">
+
+<!ENTITY browsing.label                  "Navegar">
+
+<!ENTITY useAutoScroll.label             "Usar desplazamiento automático">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Usar desplazamiento suave">
+<!ENTITY useSmoothScrolling.accesskey    "s">
+<!ENTITY checkSpelling.label             "Verificar mi ortografía al escribir">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "Opciones de sistema">
+<!ENTITY alwaysCheckDefault.label        "Siempre verificar si &brandShortName; es el navegador predeterminado al iniciar"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "g">
+<!ENTITY checkNow.label                  "Verificar ahora">
+<!ENTITY checkNow.accesskey              "V">
+
+<!ENTITY networkTab.label                "Red">
+
+<!ENTITY connection.label                "Conexión">
+
+<!ENTITY connectionDesc.label            "Configurar cómo &brandShortName; se conectará a Internet">
+<!ENTITY connectionSettings.label        "Configuración…">
+<!ENTITY connectionSettings.accesskey    "C">
+
+<!ENTITY offlineStorage.label            "Almacenamiento sin conexión">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Usar hasta">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB de espacio para el cache">
+<!ENTITY clearCacheNow.label             "Limpiar ahora">
+<!ENTITY clearCacheNow.accesskey         "L">
+
+<!ENTITY updateTab.label                 "Actualizaciones">
+
+<!ENTITY autoCheck.label                 "Automáticamente chequear por actualizaciones de:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "Extensiones instaladas">
+<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableSearchUpdate.label        "Motores de búsqueda">
+<!ENTITY enableSearchUpdate.accesskey    "M">
+<!ENTITY whenUpdatesFound.label          "Cuando se encuentren actualizaciones de &brandShortName;:">
+<!ENTITY askMe.label                     "Preguntarme qué deseo hacer">
+<!ENTITY askMe.accesskey                 "P">
+<!ENTITY modeAutomatic.label             "Automáticamente descargar e instalar la actualización">
+<!ENTITY modeAutomatic.accesskey         "d">
+<!ENTITY modeAutoAddonWarn.label         "Avisarme si deshabilitará alguna de mis extensiones">
+<!ENTITY modeAutoAddonWarn.accesskey     "x">
+<!ENTITY updateHistory.label             "Mostar el historial de actualizaciones">
+<!ENTITY updateHistory.accesskey         "H">
+
+<!ENTITY offlineNotify.label             "Informarme cuando un sitio web pida guardar datos para usar sin conexión">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "Excepciones…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList.label           "Los siguientes sitios web tiene datos instalados para uso sin conexión:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Eliminar…">
+<!ENTITY offlineAppsListRemove.accesskey "r">
+<!ENTITY offlineAppRemove.confirm        "Eliminar datos sin conexión">
+
+<!ENTITY encryptionTab.label             "Encriptación">
+
+<!ENTITY protocols.label                 "Protocolos">
+<!ENTITY useSSL3.label                   "Usar SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Usar TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certificados">
+<!ENTITY certSelection.description       "Cuando un servidor requiera mi certificado personal:">
+<!ENTITY certs.auto                      "Seleccionar uno automáticamente">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "Preguntarme cada vez">
+<!ENTITY certs.ask.accesskey             "P">
+<!ENTITY viewCerts.label                 "Ver Certificados">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCRLs.label                  "Lista de revocados">
+<!ENTITY viewCRLs.accesskey              "R">
+<!ENTITY verify2.label                   "Validación">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Dispositivos de Seguridad">
+<!ENTITY viewSecurityDevices.accesskey   "D">
+

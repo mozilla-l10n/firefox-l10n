@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Notificación de estado de envío">
+<!ENTITY useGlobalPrefs.label       "Usar mis preferencias globales de notificación de estado de envío para esta cuenta">
+<!ENTITY useGlobalPrefs.accesskey   "U">
+<!ENTITY useCustomPrefs.label       "Personalizar la notificación de estado de envío para esta cuenta">
+<!ENTITY useCustomPrefs.accesskey   "C">
+<!ENTITY requestAlways.label        "Al enviar mensajes, siempre pedir una notificación de estado de envío">
+<!ENTITY requestAlways.accesskey    "v">
+<!ENTITY optionTitle.label          "Pedir notificación por :">
+<!ENTITY requestOnSucess.label      "Éxito en el envío">
+<!ENTITY requestOnSucess.accesskey  "x">
+<!ENTITY requestOnFailure.label     "Fallo en el envío">
+<!ENTITY requestOnFailure.accesskey "F">
+<!ENTITY requestOnDelay.label       "Retraso en el envío">
+<!ENTITY requestOnDelay.accesskey   "R">
+<!ENTITY requestNever.label         "Nunca recibir notificación de estado de envío">
+<!ENTITY requestNever.accesskey     "N">

@@ -1,0 +1,42 @@
+<!ENTITY caption.label "Abriendo #1">
+
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+<!ENTITY intro.label "El archivo &quot;#3&quot; es de tipo #2 (#1), y #4 no puede manejar este tipo de archivo. El archivo está ubicado en:">
+<!ENTITY intro.noDesc.label "El archivo &quot;#3&quot; es de tipo #2, y #4 no puede manejar este tipo de archivo. El archivo está ubicado en:">
+
+<!ENTITY intro.attachment.label "El sitio ha sugerido que &quot;#3&quot; debe manejarse como un adjunto. Es de tipo #2 (#1) ubicado en:">
+<!ENTITY intro.attachment.noDesc.label "El sitio ha sugerido que &quot;#3&quot; debe ser manejado como un adjunto. Es de tipo #2 ubicado en:">
+
+<!ENTITY intro.sniffed.label "#4 ha detectado que el archivo &quot;#3&quot; pareciera ser del tipo #2 (#1). El archivo está en:">
+<!ENTITY intro.sniffed.noDesc.label "#4 ha detectado que el archivo &quot;#3&quot; pareciera ser del tipo #2. El archivo está en:">
+
+<!ENTITY prompt.label "¿Que debería hacer #1 con este archivo? ">
+
+<!ENTITY alwaysHandle.label "Siempre ejecutar esta acción al manejar archivos de este tipo">
+<!ENTITY alwaysHandle.accesskey "a">
+
+<!ENTITY saveToDisk.label "Guardar a disco">
+<!ENTITY saveToDisk.accesskey "s">
+
+<!ENTITY useSystemDefault.label "Abrir con la aplicación predeterminada (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Abrir con la aplicación predeterminada">
+<!ENTITY useSystemDefault.accesskey "o">
+
+<!ENTITY openUsing.label "Abrir con">
+<!ENTITY openUsing.accesskey "o">
+
+<!ENTITY chooseApp.label "Seleccionar...">
+<!ENTITY chooseApp.accesskey "c">
+
+<!ENTITY chooseAppFilePickerTitle "Escoger aplicación">
+
+<!ENTITY badApp "La aplicación que especificó [&quot;#1&quot;] no pudo ser encontrada. Verifique el nombre del archivo o elija otra aplicación.">
+<!ENTITY badApp.title "Aplicación no hallada">

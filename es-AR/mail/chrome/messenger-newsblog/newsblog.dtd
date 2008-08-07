@@ -1,0 +1,4 @@
+<!-- folder pane context menu item -->
+<!ENTITY folderContextRSSSubscribe.label "Administrar suscripciones...">
+<!ENTITY folderContextRSSSubscribe.accesskey "m">
+

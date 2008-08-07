@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Cliente predeterminado">
+<!ENTITY defaultClient.intro  "Usar &brandShortName; como el cliente predeterminado para:">
+
+<!ENTITY email.label "Correo electrónico">
+<!ENTITY newsgroups.label "Grupos de noticias">
+<!ENTITY rss.label "Canales RSS">
+
+<!ENTITY checkOnStartup.label "Siempre verificar ésto al iniciar &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "A">

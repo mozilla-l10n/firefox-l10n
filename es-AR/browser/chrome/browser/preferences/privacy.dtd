@@ -1,0 +1,56 @@
+<!ENTITY  history.label "Historial">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
+-->
+<!ENTITY  rememberDaysBefore.label          "Mantener mi historial por al menos">
+<!ENTITY  rememberDaysBefore.accesskey      "h">
+<!ENTITY  rememberDaysAfter2.label           "días">
+
+
+<!ENTITY  rememberForms.label           "Recordar lo que haya ingresado en formularios y en la barra de búsqueda">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "Recordar lo que haya descargado">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "Cookies">
+
+<!ENTITY  acceptCookies.label           "Permitir a los sitios establecer cookies">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.label        "Aceptar cookies de terceros">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY  keepUntil.label               "Conservar hasta:">
+<!ENTITY  keepUntil.accesskey           "n">
+
+<!ENTITY  expire.label                  "que expiren">
+<!ENTITY  close.label                   "cierre &brandShortName;">
+<!ENTITY  askEachTime.label             "preguntarme cada vez">
+
+<!ENTITY  cookieExceptions.label        "Excepciones...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "Mostrar Cookies...">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "Datos Privados">
+
+<!ENTITY  alwaysClear.label              "Siempre borrar mis datos privados cuando cierre &brandShortName;">
+<!ENTITY  alwaysClear.accesskey          "b">
+
+<!ENTITY  askBeforeClear.label           "Preguntarme antes de borrar mis datos privados">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  clearDataSettings.label        "Opciones...">
+<!ENTITY  clearDataSettings.accesskey    "O">
+
+<!ENTITY  clearDataNow.label             "Borrar ahora...">
+<!ENTITY  clearDataNow.label2            "Borrar ahora">
+<!ENTITY  clearDataNow.accesskey         "h">

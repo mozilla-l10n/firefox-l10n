@@ -1,0 +1,40 @@
+<!ENTITY  connectionsDialog.title       "Opciones de conexión">
+<!ENTITY  window.width                   "37em">
+
+<!ENTITY  proxyTitle.label              "Configurar proxys para acceder a Internet">
+<!ENTITY  directTypeRadio.label         "Conexión directa a Internet">
+<!ENTITY  directTypeRadio.accesskey     "d">
+<!ENTITY  WPADTypeRadio.label           "Detectar automáticamente la configuración del proxy para esta red">
+<!ENTITY  WPADTypeRadio.accesskey       "y">
+<!ENTITY  manualTypeRadio.label         "Configuración manual de proxy:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "URL de configuración automática de proxy:">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "Recargar">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  ftp.label                     "Proxy FTP:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Proxy Gopher:">
+<!ENTITY  gopher.accesskey              "g">
+<!ENTITY  http.label                    "Proxy HTTP:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "Proxy SSL:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "Servidor SOCKS:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "Puerto:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Sin proxy para:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Ejemplo: .mozilla.org, .net.ar, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Usar este servidor proxy para todos los protocolos">
+<!ENTITY  shareproxy.accesskey          "x">
