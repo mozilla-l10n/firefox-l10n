@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+  Romi Hardiyanto <romi.hardiyanto@gmail.com> (original translator, Bahasa 
+    Indonesia), 02 Januari 2008
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Fitur Aksesibilitas &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Fitur Aksesibilitas &brandFullName;</h1>
+
+  <p>&brandShortName; mempunyai banyak fitur untuk mempermudah akses program 
+  browser dan isi dari situs web, termasuk di antaranya fitur untuk mereka yang 
+  mempunyai kemampuan penglihatan yang rendah, tuna-netra, atau kemampuan 
+  terbatas dalam mengakses papan kunci dan mouse.</p>
+
+  <div class="contentsBox">Pada bab ini:
+    <ul>
+    <li><a href="#using_a_keyboard">Menggunakan Papan Kunci</a></li>
+    <li><a href="#using_a_mouse">Menggunakan Mouse</a></li>
+    <li><a href="#fonts_and_colors">Huruf dan Warna</a></li>
+    <li><a href="#controlling_web_content">Mengontrol Isi Web</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Kompatibilitas dengan
+    Teknologi Pembantu (Assistive Technologies)</a></li>
+    <li><a href="#finding_help_online">Mencari Bantuan Online</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Menggunakan Papan Kunci</h2>
+
+  <h3 id="keyboard_shortcuts">Tombol Pintas Papan Kunci</h3>
+
+  <p>Daftar tombol pintas papan kunci yang umum tersedia di
+    <a href="shortcuts.xhtml">Tombol Pintas Papan Kunci &brandShortName;</a>.
+    Informasi online dapat ditemukan di <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">tabel perbandingan 
+    tombol pintas papan kunci</a>  yang digunakan  &brandShortName;,
+    Microsoft Internet Explorer, dan Opera.</p>
+
+  <h3 id="always_use_cursor_keys">Selalu gunakan kursor papan kunci untuk 
+  navigasi dalam halaman web</h3>
+
+  <p>Pilihan <a href="prefs.xhtml#accessibility">Selalu gunakan kursor papan 
+    kunci untuk navigasi dalam halaman web</a> memudahkan anda untuk bergerak 
+    dalam halaman web seperti halnya dalam mode penyunting read-only.
+    Anda dapat menggunakan papan kunci untuk memilih isi pada halaman web dan 
+    menyalinnya ke clipboard. Anda dapat menggunakan fitur ini dengan melalui 
+    &pref.menuPath;, tab <em>Utama</em> pada panel <em>Canggih</em>, dan 
+    menandai &pref.singular; <em>Selalu gunakan kursor papan kunci untuk 
+    navigasi dalam halaman web
+    </em>.</p>
+
+  <p>Anda dapat menekan tombol <kbd>F7</kbd> untuk mematikan fungsi ini. Ketika 
+    anda menekan tombol <kbd>F7</kbd>, &brandShortName; akan menanyakan apakah 
+    Anda benar-benar ingin mematikan fitur ini. Anda dapat mematikan peringatan 
+    ini dengan menandai pilihan <em>Jangan tampilkan dialog ini lagi</em>.</p>
+
+  <h3 id="find_as_you_type">Mulai pencarian sejak diketikkan</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Mulai pencarian sejak diketikkan</a>
+    memudahkan anda berpindah ke teks atau tautan lain dalam halaman web.
+    Fitur ini mempunyai dua mode penggunaan. Tekan <abbr title="forward slash">
+    <kbd>/</kbd></abbr> dan mulai mengetikkan kata yang akan dicari pada halaman
+    saat ini atau tekan <abbr title="apostrophe"><kbd>'</kbd></abbr> sebelum 
+    tulisan yang ingin dicari untuk hanya mencari tautan saja. &brandShortName; 
+    akan menerangi (highlight) teks yang cocok atau tautan yang cocok sejak Anda
+    mulai mengetik.</p>
+
+  <p>Tombol pintas papan kunci berikut mengontrol fitur ini:</p>
+
+  <ul>
+    <li>Ketik terus untuk menemukan kata yang lebih cocok.  &brandShortName;
+      akan menerangi tautan atau teks yang cocok berikutnya, atau memperingatkan
+      anda jika tidak ada yang cocok.</li>
+    <li>Tekan &accelKey;+<kbd>G</kbd> atau <kbd>F3</kbd> untuk menemukan teks 
+      atau tautan yang cocok berikutnya.</li>
+    <li>Tekan &accelKey;+&shiftKey;+<kbd>G</kbd> atau &shiftKey;+<kbd>F3</kbd>
+      untuk menemukan teks atau tautan yang cocok sebelum teks yang sedang 
+      ditampilkan atau yang muncul sebelum teks yang dicari.</li>
+    <li>Tekan <kbd>Backspace</kbd> untuk menghapus karakter terakhir yang Anda 
+      ketik pada Bar Pencarian. &brandShortName; akan mengingat teks yang 
+      sebelumnya telah diterangi.</li>
+    <li>Tekan <kbd>Esc</kbd> untuk membatalkan pencarian. Anda juga dapat 
+      membatalkan pencarian dengan memindahkan fokus, menggeser halaman dengan
+      mouse atau papan kunci, atau menunggu saja hingga waktu habis.</li>
+  </ul>
+
+  <p>Anda bisa mengubah perilaku default fitur ini &pref.menuPath;, membuka tab 
+    <em>Umum</em> pada panel <em>Canggih</em> dan menandai &pref.singular; 
+    <em>Mulai pencarian sejak diketikkan</em>. Jika &pref.singular; ini 
+    ditandai, Anda dapat mengetikkan secara langsung kata yang ingin dicari. 
+    Secara default pencarian dimulai untuk semua teks yang ada pada halaman. 
+    Anda masih dapat menekan <abbr title="apostrophe"><kbd>'</kbd></abbr> atau
+    <abbr title="forward slash"><kbd>/</kbd></abbr> untuk mulai mencari dalam
+    salah satu mode.</p>
+
+  <p>Anda juga bisa memanfaatkan fitur ini untuk mencari pada nama tombol, kotak 
+    isian, atau jenis isian form lainnya. Cari teks sebelum isian form yang 
+    diinginkan dan tekan <kbd>Tab</kbd>. Menekan <kbd>Tab</kbd> otomatis akan
+    menghentikan pencarian dan memindahkan fokus ke isian form berikutnya, atau
+    tombol setelah teks yang diterangi.</p>
+
+  <h2 id="using_a_mouse">Menggunakan Mouse</h2>
+
+  <h3 id="common_mouse_shortcuts">Tombol Pintas Mouse yang Umum</h3>
+
+  <p>Daftar tombol pintas papan kunci yang umum tersedia di
+    <a href="mouse_shortcuts.xhtml">Tombol Pintas Papan Kunci 
+    &brandShortName;</a>.</p>
+
+  <h2 id="fonts_and_colors">Huruf dan Warna</h2>
+
+  <h3 id="overriding_page_fonts">Mengganti Huruf Halaman</h3>
+
+  <p>Beberapa situs web mungkin menampilkan teks menggunakan huruf yang susah
+    dibaca, sedangkan situs lain mungkin menggunakan huruf default pada program 
+    browser. Anda dapat mengatur huruf default dengan membuka &pref.menuPath;, 
+    memilih panel <em>Isi</em>, dan memilih huruf default dan ukurannya pada
+    bagian <em>Huruf &amp; Warna</em>.</p>
+
+  <p>Anda dapat menentukan huruf default untuk beberapa gaya, termasuk serif,
+    tanpa-serif (sans-serif), dan spasi tetap (monospace) dengan mengklik 
+    tombol <em>Canggih</em>.
+    Walau demikian, banyak halaman web yang menentukan sendiri huruf yang akan 
+    digunakan, sehingga pilihan pengaturan Anda tidak akan berpengaruh pada
+    halaman-halaman tersebut. Untuk mengganti huruf yang ditentukan oleh 
+    halaman seperti itu, hapus tanda pada &pref.singular; <em>Izinkan halaman
+    memilih hurufnya sendiri</em>.</p>
+
+  <p>Perhatikan bahwa beberapa halaman web akan ditampilkan tidak terlalu baik,
+    tergantung pilihan huruf default Anda.</p>
+
+  <h3 id="setting_a_minimum_font_size">Mengatur Ukuran Huruf Minimum</h3>
+
+  <p>Beberapa situs web mungkin menampilkan teks dengan ukuran huruf yang 
+    terlalu kecil untuk dapat dibaca dengan nyaman. Untuk membuat halaman 
+    tersebut mudah dibaca, Anda dapat menentukan ukuran huruf minimum. Pada 
+    halaman web yang mencoba untuk menampilkan teks dengan ukuran yang lebih
+    kecil dari yang telah anda atur, &brandShortName; akan memperbesar ukuran
+    teks sesuai dengan ukuran yang telah diatur.</p>
+
+  <p>Untuk mengatur ukuran huruf minimum, buka &pref.menuPath;, pilih panel 
+    <em>Isi</em> dan klik tombol <em>Canggih</em> pada bagian
+    <em>Huruf &amp; Warna</em>. Anda dapat menentukan ukuran huruf minimum pada
+    pilihan tersebut.</p>
+
+  <p>Perhatikan bahwa beberapa halaman web akan ditampilkan tidak terlalu baik,
+    tergantung ukuran huruf minimum yang anda atur.</p>
+
+  <h3 id="resizing_page_text">Memperbesar Ukuran Huruf Teks</h3>
+
+  <p>Anda dapat mengubah ukuran huruf teks pada halaman web untuk sementara 
+    melalui menu <span class="menuPath">Tampilan &gt; Ukuran Teks</span>. Ukuran
+    yang dipilih akan tetap diberlakukan sampai Anda menutup jendela atau tab
+    program browser, meskipun anda telah berpindah ke situs web lainnya.</p>
+
+  <p>Tombol pintas papan kunci berfungsi mengontrol ukuran teks:</p>
+
+  <ul>
+    <li>Tekan &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> untuk 
+      memperbesar ukuran teks. Teks akan diperbesar sebesar 120% dari ukuran 
+      semula, kemudian berturut-turut 150%, 200%, 300%, 450%, 675%, 1013%, dan 
+      1519% dari ukuran semula.</li>
+    <li>Tekan &accelKey;+<kbd><abbr title="minus">-</abbr></kbd> untuk 
+      memperkecil ukuran teks. Teks akan diperkecil sebesar 90% dari ukuran 
+      semula, kemudian berturut-turut 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2%, 
+      dan 1% dari ukuran semula.</li>
+    <li>Tekan &accelKey;+<kbd>0</kbd> untuk mengembalikan ukuran teks default 
+      yang ditentukan oleh halaman.</li>
+  </ul>
+
+  <p>Perhatikan bahwa beberapa halaman web akan ditampilkan tidak terlalu baik,
+    jika anda memperbesar atau memperkecil ukuran huruf teksnya.</p>
+
+  <h3 id="overriding_page_colors">Mengganti Pengaturan Warna Halaman</h3>
+
+  <p>Beberapa situs web mungkin menampilkan teks dan warna latar belakang yang
+    susah untuk dibaca, sedangkan situs lain mungkin menggunakan pengaturan 
+    warna default program browser. Anda dapat mengatur warna default melalui
+    &pref.menuPath;, pilih panel <em>Isi</em> dan klik tombol <em>Warna</em>
+    pada bagian <em>Huruf &amp; Warna</em>. Anda dapat mengatur warna default 
+    untuk teks dan untuk latar belakang, beserta warna default untuk tautan yang
+    telah atau belum dikunjungi. Anda juga dapat mengatur apakah tautan harus
+    ditampilkan dengan garis bawah.</p>
+
+  <p>Akan tetapi, banyak situs web yang membuat pengaturan warna sendiri. 
+    Sehingga sehingga pengaturan anda menjadi tidak berpengaruh. Untuk mengganti
+    warna yang ditentukan oleh halaman web, hapus tanda pada &pref.singular; 
+    <em>Izinkan halaman memilih warna sendiri</em>.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Menggunakan Tema dengan Tingkat Kontras
+    Tinggi</h3>
+
+    <p>&brandShortName; otomatis mendeteksi jika anda menggunakan tema dengan
+      tingkat kontras yang tinggi dan menampilkan semuanya dengan skema warna
+      dengan tingkat kontras tinggi. Hal ini menggantikan semua pengaturan 
+      program browser ataupun yang diatur oleh halaman web. Selain itu, hal ini
+      juga berpengaruh pada antarmuka &brandShortName; (semua menu, jendela, dan
+      kotak dialog) dan isi halaman yang sedang dikunjungi.</p>
+
+    <p class="win">Untuk menggunakan Tema dengan Tingkat Kontras Tinggi, buka
+      <span class="menuPath">Start Menu &gt; Control Panel &gt;  Accessibility
+      Options &gt; Display</span> and tandai  &pref.singular; <em>Use High 
+      Contrast</em>.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Mengontrol Kandungan Isi Web</h2>
+
+  <h3 id="blocking_pop-up_windows">Memblokir Jendela Pop-up</h3>
+
+  <p>Silakan dibaca <a href="pop-up.xhtml">Mengontrol Pop-up</a> untuk informasi
+    mengenai pemblokiran jendela pop-up.</p>
+
+  <h3 id="turning_off_java_applets">Mematikan Java Applet</h3>
+
+  <p>Beberapa situs web menyediakan antarmuka yang kaya fitur dengan
+    menggunakan applet Java&trade;. Akan tetapi, beberapa pengguna yang harus
+    menggunakan papan kunci untuk bernavigasi mungkin akan mendapatkan masalah
+    dengan beberapa applet Java yang secara otomatis mengatur fokus dan tidak
+    menyediakan cara untuk <q>keluar</q> dari applet dan pindah ke bagian 
+    halaman lainnya. Jika hal ini mengakibatkan masalah bagi Anda, anda dapat
+    mematikan fitur Java melalui &pref.menuPath;, memilih panel
+    <em>Isi</em> and hapus tanda pada &pref.singular; 
+    <em>Aktifkan Java</em>.</p>
+
+  <h3 id="restricting_javascript_behavior">Membatasi Perilaku JavaScript</h3>
+
+  <p>Anda dapat mematikan total fungsi JavaScript melalui &pref.menuPath;,
+    memilih panel <em>Isi</em>, dan menghapus tanda pada pilihan <em>Aktifkan
+    JavaScript</em>. Beberapa halaman web bergantung pada fitur JavaScript ini
+    dan mungkin tidak dapat berjalan dengan baik jika fitur JavaScript 
+    dimatikan.</p>
+
+  <p>Jika anda tidak menginginkan untuk mematikan total fitur JavaScript, ada 
+    beberapa pengaturan JavaScript yang dimaksudkan untuk membatasi perilaku 
+    skrip tersebut. 
+    Segera setelah menandai pilihan  <em>Aktifkan JavaScript</em>,
+    klik tombol <em>Canggih</em> untuk membuka jendela <em>Pengaturan JavaScript
+    Canggih</em>. Anda dapat mengontrol skrip apakah diizinkan untuk
+    menggeser atau mengganti ukuran jendela, menaikkan/menurunkan jendela, 
+    mematikan atau mengganti menu konteks, menyembunyikan bar status, atau
+    mengubah teks di bar status.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Kompatibilitas dengan
+    Teknologi Pembantu (Assistive Technologies)</h2>
+
+  <p>Informasi terbaru tentang kompatibilitas dengan teknologi pihak ketiga
+    dapat diakses online di
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Compatibility with assistive technologies</a>.</p>
+
+  <h2 id="finding_help_online">Mencari Bantuan Online</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific mengelola banyak
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">mailing
+      lists untuk pengguna JAWS</a>.</p>
+
+    <p>GW Micro mengelola banyak
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">mailing
+      lists untuk pengguna Window Eyes</a>.</p>
+  </div>
+
+  <p>Anda <span class="win">juga</span> dapat mengirimkan pertanyaan mengenai
+    aksesibilitas ke 
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">
+    Forum Dukungan &brandShortName;</a>.</p>
+
+  <div class="contentsBox"><em>29 Aug 2006</em></div>
+  <p>Hak Cipta &copy; &copyright.years; Kontributor Proyek Mozilla Help Viewer.</p>
+
+</body>
+</html>

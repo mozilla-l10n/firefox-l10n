@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Kesukaan Toolbar">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY instructions.description "Anda dapat menambah atau menghapus dengan menyeret objek ke atau dari toolbar.">
+<!ENTITY show.label "Tampilkan:">
+<!ENTITY iconsAndText.label "Ikon dan Teks">
+<!ENTITY icons.label "Ikon">
+<!ENTITY text.label "Teks">
+<!ENTITY useSmallIcons.label "Gunakan Ikon Kecil">
+<!ENTITY restoreDefaultSet.label "Kembalikan Kelompok Default">
+<!ENTITY addNewToolbar.label "Tambah Toolbar Baru">
+<!ENTITY saveChanges.label "Selesai">
+<!ENTITY undoChanges.label "Batalkan Perubahan">

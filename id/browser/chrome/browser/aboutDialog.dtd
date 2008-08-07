@@ -1,0 +1,8 @@
+<!ENTITY aboutDialog.title "Tentang &brandFullName;">
+<!ENTITY copyright "Kredit">
+<!ENTITY copyright.accesskey "K">
+<!ENTITY aboutLink "&lt; Tentang &brandFullName;">
+<!ENTITY aboutLink.accesskey "T">
+<!ENTITY aboutVersion "versi">
+<!ENTITY copyrightInfo "©1998-2008 Kontributor. Hak Cipta Dilindungi Undang-Undang. Firefox dan logo
+                                 Firefox adalah merek dagang Yayasan Mozilla. Hak Cipta Dilindungi Undang-Undang.">

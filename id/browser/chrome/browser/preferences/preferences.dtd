@@ -1,0 +1,12 @@
+<!ENTITY prefWindow.titleWin "Pengaturan">
+<!ENTITY prefWindow.titleGNOME "Pengaturan &brandShortName;">
+<!ENTITY prefWin.styleWin2 "width: 47em; min-height: 39em;">
+<!ENTITY prefWin.styleMac2 "width: 52em; min-height: 40em;">
+<!ENTITY prefWin.styleGNOME2 "width: 47em; min-height: 39.5em;">
+<!ENTITY paneMain.title "Utama">
+<!ENTITY paneTabs.title "Tab">
+<!ENTITY paneContent.title "Isi">
+<!ENTITY paneApplications.title "Aplikasi">
+<!ENTITY panePrivacy.title "Privasi">
+<!ENTITY paneSecurity.title "Keamanan">
+<!ENTITY paneAdvanced.title "Canggih">

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+  Dody Suria Wijaya <dodysw@gmail.com> (original translator, Bahasa 
+    Indonesia)
+  R. Hardiyanto <romihardiyanto@gmail.com> (sync with ff2), 26 Desember 2007
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Penjelajahan dengan Tab</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Penjelajahan dengan Tab</h1>
+
+<p>Penjelajahan dengan Tab mengizinkan Anda membuka tab, yang masing-masing 
+  menampilkan sebuah halaman web, dalam satu jendela &brandShortName;. Anda 
+  dapat membuka tautan di tab baru, tempat tautan akan dimuat ketika Anda sedang
+  membaca halaman awal. Anda tidak harus menggunakan tab, namun bila Anda 
+  menggunakannya Anda, mungkin Anda akan berpendapat bahwa menjelajah dengan tab 
+  adalah cara yang lebih baik dan lebih cepat untuk menjelajah Web.</p>
+
+<div class="contentsBox">Pada bab ini:
+  <ul>
+    <li><a href="#creating_loading_tabs">Menciptakan dan Memuat Tab</a></li>
+    <li><a href="#moving_tabs">Memindahkan Tab di dalam Jendela</a></li>
+    <li><a href="#closing_tabs">Menutup Tab</a></li>
+    <li><a href="#customizing">Mengubah Kesukaan Penjelajahan dengan Tab</a></li>
+    <li><a href="#tips_tricks">Tips dan Trik</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_loading_tabs">Menciptakan dan Memuat Tab</h2>
+
+<p>Untuk membuka tab baru, tekan &accelKey;+<kbd>T</kbd>, 
+  pilih <span class="menuPath">Berkas &gt; Tab Baru</span>, atau klik ganda 
+  pada ruang kosong di bar Tab.</p>
+
+<p>Untuk memuat tautan di dalam tab, Anda dapat melakukan salah satu hal 
+  berikut:</p>
+
+<ul>
+  <li>Klik tautan dengan tombol tengah. (Bila Anda memiliki mouse dengan roda di 
+    tengah, mengklik rodanya sama dengan dengan mengklik tombol tengah).</li>
+  <li>Seret tautan dan letakkan pada ruang kosong di bar Tab. (Apabila 
+    hanya satu halaman web yang terbuka, bar Tab mungkin tersembunyi. 
+    Lihat <a href="#customizing">Mengatur Penjelajahan dengan Tab</a> untuk 
+    informasi tentang cara mengubahnya).</li>
+  <li>Seret dan letakkan tautan ke sebuah tab untuk membuka tautan di tab 
+    tersebut.</li>
+  <li><span class="noMac">Klik kanan</span><span class="mac">Tekan 
+    &ctrlKey;, klik pada</span> tautan dan pilih <span class="menuPath">Buka 
+    Tautan di Tab Baru</span> dari menu konteks.</li>
+</ul>
+
+<p>Untuk membuka sebuah URL di Bar Lokasi di tab baru, masukkan URL-nya dan 
+  tekan &altKey;+&enterKey;.</p>
+
+<h2 id="moving_tabs">Memindahkan Tab di dalam Jendela</h2>
+
+<p>Tab ditampilkan sesuai urutan waktu dibuka, yang mungkin tidak selalu Anda 
+  inginkan. Untuk memindahkan tab ke lokasi lain di dalam satu jendela 
+  &brandShortName;, cukup geser tab ke lokasi baru dengan menggunakan mouse
+  Anda. Saat Anda menggeser tab tersebut, &brandShortName; menampilkan indikator
+  kecil untuk menunjukkan di mana tab tersebut akan dipindahkan. Cara lainnya 
+  adalah Anda dapat menggunakan <a
+  href="shortcuts.xhtml#windows_tabs">tombol pintas</a> untuk memindahkan tab 
+  di dalam jendela bila diinginkan.</p>
+
+<h2 id="closing_tabs">Menutup Tab</h2>
+
+<p>Untuk menutup tab yang sedang aktif, tekan &accelKey;+<kbd>W</kbd>, klik 
+  tombol Tutup Tab, klik tombol tengah pada tab, atau pilih 
+  <span class="menuPath">Berkas &gt; Tutup Tab</span>.  Untuk menutup semua tab
+  kecuali yang sedang aktif, <span class="noMac">klik kanan</span><span 
+  class="mac">tekan &ctrlKey;, klik</span> pada tab tersebut dan 
+  pilih <span class="menuPath">Tutup Tab Lainnya</span>.</p>
+
+<h2 id="customizing">Mengatur Penjelajahan dengan Tab</h2>
+  <p>Untuk mengubah &pref.plural; menjelajah dengan tab, pilih &pref.menuPath; 
+  dan buka panel <a href="prefs.xhtml#tabs_options"><em>Tab</em></a>.</p>
+
+<h2 id="tips_tricks">Tips dan Trik</h2>
+
+<dl>
+
+  <dt id="bookmarking_tabbed_browsing">Bookmark dan Penjelajahan dengan Tab</dt>
+  <dd>Untuk membuat bookmark sekelompok tab:</dd>
+  <dd>
+    <ol>
+      <li><span class="noUnix">Tekan &accelKey;+&shiftKey;+<kbd>D</kbd> atau 
+        pilih </span><span class="unix">Pilih</span> <span 
+        class="menuPath">Bookmark &gt; Buat Bookmark Semua Tab</span> 
+        untuk menambahkan semua tab di jendela aktif menjadi sebuah folder 
+        bookmark baru.</li>
+      <li>Untuk membuka bookmark pada tab, buka menu folder bookmark dan pilih 
+        <span class="menuPath">Buka di Tab baru</span>. Anda dapat juga mengklik
+        tengah pada folder untuk membuka isinya pada tab. Bookmark tersebut akan
+        terbuka di tab yang terbuka, bukan di tab baru.</li>
+    </ol>
+  </dd>
+
+  <dt id="home_page_as_tabs">Beranda sebagai Tab</dt>
+  <dd>Daripada hanya menggunakan satu situs web sebagai Beranda, Anda dapat 
+    menjadikan sekelompok tab sebagai Beranda Anda. Pilih situs-situs web 
+    favorit Anda dan buka bersamaan pada tab-tab dalam satu jendela. Pilih 
+    &pref.menuPath; dan buka panel <a 
+    href="prefs.xhtml#general_options"><em>Utama</em></a>. Di bawah 
+    <em>Memulai</em>, tekan tombol <em>Gunakan Halaman sekarang</em>. Sekarang 
+    setiap kali Anda menekan tombol Rumah, situs-situs web favorit Anda akan
+    dimuat dengan hanya satu klik.</dd>
+
+  <dt>Menambah Tombol Tab Baru di Toolbar</dt>
+  <dd>Anda dapat menambah tombol Tab Baru di toolbar untuk membuka tab baru
+    dengan mudah, dengan <a 
+    href="customization.xhtml#rearranging_toolbar_items">Mengkomposisi Item 
+    Toolbar</a>.</dd>
+
+  <dt id="keyboard_shortcuts">Tombol pintas papan kunci</dt>
+  <dd>&brandShortName; memiliki sekelompok tombol pintas yang berhubungan
+    dengan penjelajahan dengan tab; lihat daftar lengkapnya di <a 
+    href="shortcuts.xhtml#windows_tabs">Tombol Pintas Papan Kunci</a>.</dd>
+
+</dl>
+
+<div class="contentsBox"><em>12 September 2006</em></div>
+<p>Hak Cipta &copy; &copyright.years; Kontributor Proyek Mozilla Help Viewer.</p>
+
+</body>
+</html>
+

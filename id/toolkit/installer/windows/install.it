@@ -1,0 +1,146 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&OK
+OK=OK
+CANCEL=Batal
+CANCEL_=&Batal
+NEXT_=Ma&ju >
+BACK_=< Mun&dur
+IGNORE_=&Abaikan
+PROXY_MESSAGE=Untuk mengatur server Proxy proses unduhan, klik tombol Sambungan…. 
+PROXY_BUTTON=&Sambungan…
+PROXYSETTINGS=Pengaturan Proxy:
+PROXYSETTINGS_=&Pengaturan Proxy
+SERVER=Server:
+PORT=Port:
+USERID=ID Pengguna:
+PASSWORD=Kata Sandi:
+SELECTDIRECTORY=Pilih direktori
+DIRECTORIES_=&Direktori:
+DRIVES_=Dri&ve:
+STATUS=Sisa:
+FILE=Berkas:
+URL=URL:
+TO=Ke Path:
+ACCEPT_=&Setuju
+DECLINE_=&TIDAK Setuju
+PROGRAMFOLDER_=&Program Folder:
+EXISTINGFOLDERS_=Folder yang &Ada:
+SETUPMESSAGE=Setup selesai menyalin berkas ke dalam komputer anda. Sebelum anda dapat menggunakan $ProductNameInternal$, anda harus merestart Windows atau komputer. Pilih salah satu dari pilihan berikut dan klik OK untuk menyelesaikan setup.
+RESTART=Restart
+YESRESTART=Ya, saya ingin merestart komputer saya sekarang.
+NORESTART=Tidak, saya akan merestart komputer nanti.
+ADDITIONALCOMPONENTS_=&Komponen Tambahan:
+DESCRIPTION=Deskripsi
+TOTALDOWNLOADSIZE=Ukuran seluruh unduhan:
+SPACEAVAILABLE=Kapasitas sisa:
+COMPONENTS_=K&omponen:
+BROWSEINFO=Pilih sebuah Folder untuk tempat pemasangan $ProductName$:
+DESTINATIONDIRECTORY=Folder Instalasi
+BROWSE_=&Telusuri…
+DOWNLOADSIZE=Ukuran Unduhan: %u KB
+CURRENTSETTINGS=Pengaturan sekarang:
+INSTALLFOLDER=…ke lokasi berikut:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s, dan:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Pasang
+DELETE_=&Hapus
+CONTINUE_=&Lanjut
+SKIP_=&Lewati
+README=B&aca Saya
+PAUSE_=&Tunda
+RESUME_=&Lanjutkan
+CHECKED=Ditandai
+UNCHECKED=Tidak ditandai
+
+EXTRACTING=Mengekstrak…
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Tidak dapat membuat dialog %s.
+ERROR_FAILED=%s gagal.
+ERROR_FILE_NOT_FOUND=Berkas tidak ditemukan: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=GetSystemDirectory() gagal.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =GetWindowsDirectory() gagal.
+DLGQUITTITLE=Keluar dari Setup
+DLGQUITMSG=Anda belum menyelesaikan pemasangan $ProductName$. Jika anda keluar sekarang, $ProductName$ tidak akan dipasang. Yakin akan membatalkan Setup?
+DLG_REBOOT_TITLE=Merestart Windows
+ERROR_GETPROCADDRESS=GetProcAddress() dari %s gagal.
+ERROR_WRITEPRIVATEPROFILESTRING=WritePrivateProfileString() gagal untuk berkas %s
+MSG_RETRIEVE_CONFIGINI=Silakan menunggu, Setup sedang mengambil skrip konfigurasi dari web… 
+ERROR_CREATE_TEMP_DIR=Setup gagal membuat direktori TEMP: %s
+DLGBROWSETITLE=Pilih direktori
+ERROR_DETERMINING_DISK_SPACE=Tidak dapat menghitung kapasitas sisa harddisk untuk: %s
+DLG_DISK_SPACE_CHECK_TITLE=Pemeriksaan kapasitas harddisk
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Setup menemukan bahwa kapasitas harddisk tidak cukup untuk melanjutkan pemasangan di %s untuk path: %Dibutuhkan: %Tersedia: %sKlik Coba lagi jika kapasitas sisa harddisk telah tersedia, atau klik Batal untuk membatalkan Setup.
+DLG_DISK_SPACE_CHECK_MSG=Setup menemukan bahwa kapasitas harddisk tidak cukup untuk melanjutkan pemasangan di %s untuk path: %Dibutuhkan: %Tersedia: %sKlik OK untuk kembali dan pilih folder tujuan lainnya.
+ERROR_CREATE_DIRECTORY=Tidak bisa membuat folder: %sPastikan anda mempunyai akses untuk membuat folder tersebut.
+ERROR_MESSAGE_TITLE=Kesalahan Setup $ProductNameInternal$
+STR_FILE_NUMBER=Jumlah berkas:
+STR_FILENAME=Nama berkas:
+MSG_SMARTUPDATE_START=Menyiapkan Pemasangan, mohon menunggu…
+MSG_CONFIGURING=Mengatur %s, mohon menunggu…
+ERROR_XPI_INSTALL=Kesalahan terjadi saat pemasangan
+ERROR_SETUP_REQUIREMENT=$ProductName$ hanya dapat berjalan pada Windows 95 atau lebih baru. Setup akan dihentikan. 
+DLG_EXTRACTING_TITLE= Setup $ProductName$ - Kemajuan Pemasangan
+STR_PROCESSINGFILE=Menyiapkan berkas: %s
+STR_INSTALLING=Sedang memasang %s
+STR_COPYINGFILE=Menyalin berkas: %s
+MB_WARNING_STR=Peringatan
+MB_MESSAGE_STR=Pesan
+MB_ATTENTION_STR=Perhatian
+MSG_CREATE_DIRECTORY=Direktori berikut tidak ada; %sApakah ingin dibuat?
+STR_CREATE_DIRECTORY=Buat Direktori?
+ERROR_PROGRAM_FOLDER_NAME=Folder program yang dimasukkan tidak sah.
+CB_DEFAULT=Default
+ERROR_DESTINATION_PATH=Path yang dimasukkan tidak sah.
+STR_SETUP_TYPE=Jenis Setup:
+STR_SELECTED_COMPONENTS=Komponen yang Dipilih:
+STR_DESTINATION_DIRECTORY=Directori Tujuan:
+STR_PROGRAM_FOLDER=Folder Program:
+STR_DELETING_DESTINATION_DIR=Menghapus direktori tujuan agar bisa di-upgrade, mohon tunggu…
+STR_SETUP=Setup
+STR_DOWNLOAD_SITE=Situs Unduhan:
+STR_SAVE_INSTALLER_FILES=Simpan berkas unduhan dan Setup ke:
+MSG_INIT_SETUP=Memulai Setup, mohon tunggu…
+STR_MESSAGEBOX_TITLE=Setup %s
+ERROR_GETVERSION=GetVersionEx() gagal!
+DLG_USAGE_TITLE=Penggunaan
+
+STATUS_EXTRACTING=Mengekstrak %s
+STATUS_LAUNCHING_SETUP=Menjalankan Setup…
+ERROR_FILE_WRITE=Gagal menulis berkas  %s
+TITLE=Instalasi
+ERROR_OUT_OF_MEMORY=Kehabisan memori!
+
+ERROR_DLL_LOAD=Tidak bisa memuat %s
+ERROR_STRING_LOAD=Tidak bisa memuat resource string ID %d
+ERROR_STRING_NULL=Pointer null ditemukan.
+ERROR_GLOBALALLOC=Kesalahan alokasi memori.
+MSG_FORCE_QUIT_PROCESS=Setup mendeteksi %s (%s) masih berjalan.  Klik OK untuk keluar dari %s dan melanjutkan pemasangan. Atau, gunakan Windows Task Manager untuk mematikan %s, dan klik OK untuk melanjutkan pemasangan.
+MSG_FORCE_QUIT_PROCESS_FAILED=Setup akan keluar. Setup tidak bisa dilanjutkan karena %s (%s) masih dibuka. Coba tutup %s secara manual dengan menggunakan Windows Task Manager, dan jalankan Setup kembali.
+ERROR_PATH_WITHIN_WINDIR=$ProductName$ tidak bisa dipasang ke folder yang berada di dalam folder Windows. Silakan memilih folder lainnya.

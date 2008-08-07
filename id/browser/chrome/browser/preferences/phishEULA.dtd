@@ -1,0 +1,7 @@
+<!ENTITY phishDlg.title "Persyaratan Layanan Perlindungan terhadap Pemalsuan (Phishing)">
+<!ENTITY phishDlg.height "40em">
+<!ENTITY phishDlg.width "35em">
+<!ENTITY acceptToS.label "Saya menyetujui persyaratan Layanan Perlindungan terhadap Pemalsuan (Phishing) ini">
+<!ENTITY declineToS.label "Saya TIDAK menyetujui persyaratan Layanan Perlindungan terhadap Pemalsuan (Phishing) ini">
+<!ENTITY accept.label "Setuju dan Lanjutkan">
+<!ENTITY cancel.label "Batal">

@@ -1,0 +1,74 @@
+<!--null-->
+<!ENTITY pageInfoWindow.width "600">
+<!ENTITY pageInfoWindow.height "500">
+<!ENTITY copy.key "C">
+<!ENTITY copy.label "Salin">
+<!ENTITY copy.accesskey "S">
+<!ENTITY selectall.key "A">
+<!ENTITY selectall.label "Pilih Semua">
+<!ENTITY selectall.accesskey "A">
+<!ENTITY closeWindow.key "w">
+<!ENTITY generalTab "Umum">
+<!ENTITY generalTab.accesskey "U">
+<!ENTITY generalURL "Alamat:">
+<!ENTITY generalType "Jenis:">
+<!ENTITY generalMode "Mode Render:">
+<!ENTITY generalSize "Besar:">
+<!ENTITY generalReferrer "URL Perujuk:">
+<!ENTITY generalSource "Cache Sumber:">
+<!ENTITY generalModified "Diubah:">
+<!ENTITY generalEncoding "Pengodean:">
+<!ENTITY generalMetaName "Nama">
+<!ENTITY generalMetaContent "Isi">
+<!ENTITY generalSecurityMore "Lanjut">
+<!ENTITY generalSecurityMore.accesskey "l">
+<!ENTITY mediaTab "Media">
+<!ENTITY mediaTab.accesskey "M">
+<!ENTITY mediaLocation "Lokasi:">
+<!ENTITY mediaText "Teks yang Berhubungan:">
+<!ENTITY mediaAltHeader "Teks Alternatif">
+<!ENTITY mediaAddress "Alamat">
+<!ENTITY mediaType "Jenis">
+<!ENTITY mediaSize "Besar">
+<!ENTITY mediaCount "Jumlah">
+<!ENTITY mediaDimension "Dimensi:">
+<!ENTITY mediaLongdesc "Deskripsi Lengkap:">
+<!ENTITY mediaBlockImage.accesskey "B">
+<!ENTITY mediaSaveAs "Simpan dengan Nama…">
+<!ENTITY mediaSaveAs.accesskey "S">
+<!ENTITY mediaSaveAs2.accesskey "e">
+<!ENTITY mediaPreview "Pratinjau Media:">
+<!ENTITY feedTab "Feed">
+<!ENTITY feedTab.accesskey "F">
+<!ENTITY feedSubscribe "Berlangganan">
+<!ENTITY feedSubscribe.accesskey "l">
+<!ENTITY permTab "Hak Akses">
+<!ENTITY permTab.accesskey "a">
+<!ENTITY permUseDefault "Gunakan Pengaturan Default">
+<!ENTITY permAllow "Izinkan">
+<!ENTITY permAllowSession "Izinkan selama Sesi">
+<!ENTITY permBlock "Blokir">
+<!ENTITY permissionsFor "Hak akses untuk:">
+<!ENTITY permImage "Muat Gambar">
+<!ENTITY permPopup "Buka Jendela Pop-up">
+<!ENTITY permCookie "Simpan Cookie">
+<!ENTITY permInstall "Memasang Ekstensi atau Tema">
+<!ENTITY securityTab "Keamanan">
+<!ENTITY securityTab.accesskey "K">
+<!ENTITY securityHeader "Informasi keamanan untuk halaman ini">
+<!ENTITY securityView.certView "Tampilkan Sertifikat">
+<!ENTITY securityView.accesskey "S">
+<!ENTITY securityView.unknown "Tidak Diketahui">
+<!ENTITY securityView.identity.header "Identitas Situs Web">
+<!ENTITY securityView.identity.owner "Pemilik:">
+<!ENTITY securityView.identity.domain "Situs web:">
+<!ENTITY securityView.identity.verifier "Diverifikasi oleh:">
+<!ENTITY securityView.privacy.header "Privasi &amp; Keamanan">
+<!ENTITY securityView.privacy.history "Pernahkah situs ini dikunjungi hari ini?">
+<!ENTITY securityView.privacy.cookies "Apakah situs web ini menyimpan informasi (cookie) dalam komputer saya?">
+<!ENTITY securityView.privacy.viewCookies "Tampilkan Cookie">
+<!ENTITY securityView.privacy.viewCookies.accessKey "c">
+<!ENTITY securityView.privacy.passwords "Pernahkah kata sandi untuk situs web ini disimpan?">
+<!ENTITY securityView.privacy.viewPasswords "Kata Sandi Tersimpan">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "s">
+<!ENTITY securityView.technical.header "Detil Teknis">

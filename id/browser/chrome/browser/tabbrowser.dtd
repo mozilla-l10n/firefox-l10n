@@ -1,0 +1,18 @@
+<!ENTITY untitledTab "(Tanpa Judul)">
+<!ENTITY newTab.label "Tab Baru">
+<!ENTITY newTab.accesskey "T">
+<!ENTITY closeTab.label "Tutup Tab">
+<!ENTITY closeTab.accesskey "u">
+<!ENTITY closeOtherTabs.accesskey "l">
+<!ENTITY closeOtherTabs.label "Tutup Tab Lainnya">
+<!ENTITY reloadAllTabs.label "Muat Ulang Semua Tab">
+<!ENTITY reloadAllTabs.accesskey "m">
+<!ENTITY reloadTab.label "Muat Ulang Tab">
+<!ENTITY reloadTab.accesskey "l">
+<!ENTITY listAllTabs.label "Daftar tab">
+<!ENTITY bookmarkAllTabs.label "Buat Bookmark Semua Tab…">
+<!ENTITY bookmarkAllTabs.accesskey "s">
+<!ENTITY bookmarkThisTab.label "Buat Bookmark untuk Tab Ini">
+<!ENTITY bookmarkThisTab.accesskey "k">
+<!ENTITY undoCloseTab.label "Batalkan Menutup Tab">
+<!ENTITY undoCloseTab.accesskey "B">

@@ -1,0 +1,28 @@
+<!ENTITY find.label "Cari:">
+<!ENTITY find.accesskey "C">
+<!ENTITY expand.label "Ekspansi">
+<!ENTITY expand.accesskey "E">
+<!ENTITY collapse.label "Rubuhkan">
+<!ENTITY collapse.accesskey "R">
+<!ENTITY byDate.label "Berdasarkan Tanggal">
+<!ENTITY byDate.accesskey "T">
+<!ENTITY bySite.label "Berdasarkan Situs">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "Tampilkan">
+<!ENTITY view.accesskey "L">
+<!ENTITY byMostVisited.label "Berdasarkan Jumlah Kunjungan">
+<!ENTITY byMostVisited.accesskey "J">
+<!ENTITY byLastVisited.label "Berdasarkan Kunjungan Terakhir">
+<!ENTITY byLastVisited.accesskey "K">
+<!ENTITY byDayAndSite.label "Berdasarkan Tanggal dan Situs">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "Buka">
+<!ENTITY openLinkInWindow.accesskey "B">
+<!ENTITY openInNewTab.label "Buka di Tab Baru">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "Buka di Jendela Baru">
+<!ENTITY openInNewWindow.accesskey "J">
+<!ENTITY bookmarkLink.label "Buat Bookmark Tautan Ini…">
+<!ENTITY bookmarkLink.accesskey "B">
+<!ENTITY copyLink.label "Salin Lokasi Tautan">
+<!ENTITY copyLink.accesskey "S">

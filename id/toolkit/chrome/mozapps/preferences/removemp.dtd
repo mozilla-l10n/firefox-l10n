@@ -1,0 +1,5 @@
+<!ENTITY removePassword.title "Hapus Kata Sandi Utama">
+<!ENTITY removeInfo.label "Anda harus memasukkan kata sandi Anda untuk melanjutkan:">
+<!ENTITY removeWarning1.label "Kata Sandi Utama Anda digunakan untuk melindungi informasi sensitif seperti kata sandi log-masuk situs.">
+<!ENTITY removeWarning2.label "Apabila Anda menghapus Kata Sandi Utama Anda, informasi milik Anda tidak akan dilindungi apabila komputer Anda dibobol.">
+<!ENTITY setPassword.oldPassword.label "Kata sandi lama:">

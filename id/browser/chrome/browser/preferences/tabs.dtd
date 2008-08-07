@@ -1,0 +1,13 @@
+<!ENTITY newPagesIn.label "Halaman baru akan dibuka di:">
+<!ENTITY inNewWindow.label "jendela baru">
+<!ENTITY inNewWindow.accesskey "j">
+<!ENTITY inNewTab.label "tab baru">
+<!ENTITY inNewTab.accesskey "t">
+<!ENTITY warnCloseMultipleTabs.label "Ingatkan jika akan menutup banyak tab sekaligus">
+<!ENTITY warnCloseMultipleTabs.accesskey "u">
+<!ENTITY warnOpenManyTabs.label "Ingatkan jika membuka banyak tab sekaligus akan membuat &brandShortName; melambat">
+<!ENTITY warnOpenManyTabs.accesskey "l">
+<!ENTITY showTabBar.label "Selalu tampilkan Bar Tab">
+<!ENTITY showTabBar.accesskey "b">
+<!ENTITY switchToNewTabs.label "Jika tautan dibuka di sebuah tab baru, langsung pindah ke tab tersebut">
+<!ENTITY switchToNewTabs.accesskey "l">

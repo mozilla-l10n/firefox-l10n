@@ -1,0 +1,23 @@
+<!ENTITY warnAddonInstall.label "Peringatkan jika situs web mencoba memasang Pengaya">
+<!ENTITY warnAddonInstall.accesskey "g">
+<!ENTITY tellMaybeAttackSite.label "Beritahukan jika situs yang dikunjungi diduga sebagai tersangka situs penyerang">
+<!ENTITY tellMaybeAttackSite.accesskey "y">
+<!ENTITY tellMaybeForgery.label "Beritahukan jika situs yang dikunjungi diduga sebagai tersangka pemalsuan web">
+<!ENTITY tellMaybeForgery.accesskey "w">
+<!ENTITY addonExceptions.label "Pengecualian…">
+<!ENTITY addonExceptions.accesskey "p">
+<!ENTITY passwords.label "Kata Sandi">
+<!ENTITY rememberPasswords.label "Ingat kata sandi untuk situs web">
+<!ENTITY rememberPasswords.accesskey "i">
+<!ENTITY passwordExceptions.label "Pengecualian…">
+<!ENTITY passwordExceptions.accesskey "c">
+<!ENTITY useMasterPassword.label "Gunakan Kata Sandi Utama">
+<!ENTITY useMasterPassword.accesskey "m">
+<!ENTITY changeMasterPassword.label "Ubah Kata Sandi Utama…">
+<!ENTITY changeMasterPassword.accesskey "u">
+<!ENTITY savedPasswords.label "Kata Sandi Tersimpan…">
+<!ENTITY savedPasswords.accesskey "K">
+<!ENTITY warnings.label "Pesan Peringatan">
+<!ENTITY chooseWarnings.label "Pilih pesan peringatan apa saja yang ingin ditampilkan saat menjelajah web">
+<!ENTITY warningSettings.label "Pengaturan…">
+<!ENTITY warningSettings.accesskey "n">

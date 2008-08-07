@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Terry Hayes <thayes@netscape.com>
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY setPassword.title "Ubah Kata Sandi Utama">
+<!ENTITY setPassword.tokenName.label "Perangkat Keamanan">
+<!ENTITY setPassword.oldPassword.label "Kata sandi lama:">
+<!ENTITY setPassword.newPassword.label "Kata sandi baru:">
+<!ENTITY setPassword.reenterPassword.label "Kata sandi baru (ulangi):">
+<!ENTITY setPassword.meter.label "Ukuran kualitas kata sandi">
+<!ENTITY setPassword.meter.loading "Memuat">
+<!ENTITY resetPasswordButtonLabel "Kembalikan">
+<!ENTITY resetPassword.title "Reset Kata Sandi Utama">
+<!ENTITY resetPassword.text "Jika anda mereset kata sandi utama, semua kata sandi web dan email, data form, sertifikat pribadi, dan kunci pribadi akan hilang. Yakin akan mereset kata sandi utama?">
+<!ENTITY getPassword.title "Ketikkan Kata Sandi Utama">
+<!ENTITY getPassword.tokenName.label "Perangkat Keamanan">
+<!ENTITY getPassword.password.label "Kata Sandi:">
+<!ENTITY piperror.title "Kesalahan">
+<!ENTITY pipalert.title "Kesalahan - tidak bisa ditanggulangi">
+<!ENTITY pref.security.general.lHeader "Keamanan">
+<!ENTITY pref.security.general.rHeader "Pengaturan untuk keamanan umum">
+<!ENTITY pref.security.general.header "Pengaturan untuk keamanan umum">
+<!ENTITY pref.security.general.level.title "Tingkat Keamanan">
+<!ENTITY pref.security.general.paranoid.label "Gunakan pengaturan yang paling hati-hati">
+<!ENTITY pref.security.general.certificates.title "Sertifikat">
+<!ENTITY pref.security.general.manageCert.label "Kelola Sertifikat">
+<!ENTITY downloadCert.title "Mengunduh Sertifikat">
+<!ENTITY downloadCert.message1 "Anda diminta untuk mempercayai Otoritas Sertifikat (CA) yang baru.">
+<!ENTITY downloadCert.trustSSL "Percayai CA ini untuk mengidentifikasi situs web.">
+<!ENTITY downloadCert.trustEmail "Percayai CA ini untuk mengidentifikasi pengguna email.">
+<!ENTITY downloadCert.trustObjSign "Percayai CA ini untuk mengidentifikasi pengembang perangkat lunak.">
+<!ENTITY downloadCert.message3 "Sebelum mempercayai CA ini untuk kegunaan apapun, sebaiknya anda memeriksa sertifikat ini serta kebijakan dan prosedurnya jika ada.">
+<!ENTITY downloadCert.viewCert.label "Tampilkan">
+<!ENTITY downloadCert.viewPolicy.label "Kebijakan">
+<!ENTITY downloadCert.viewCert.text "Periksa sertifikat CA">
+<!ENTITY downloadCert.viewPolicy.text "Periksa prosedur dan kebijakan CA">
+<!ENTITY caCertExists.title "Sertifikat Sudah Ada">
+<!ENTITY caCertExists.message "Sertifikat sudah ada.">
+<!ENTITY clientAuthAsk.title "Permintaan Identifikasi Pengguna">
+<!ENTITY clientAuthAsk.message1 "Situs telah meminta identifikasi anda dengan sertifikat:">
+<!ENTITY clientAuthAsk.message2 "Pilih sertifikat untuk mewakili proses identifikasi:">
+<!ENTITY clientAuthAsk.message3 "Detil sertifikat yang dipilih:">
+<!ENTITY certPicker.title "Pilih Sertifikat">
+<!ENTITY certPicker.info "Sertifikat:">
+<!ENTITY certPicker.detailsLabel "Detil sertifikat yang dipilih:">
+<!ENTITY pkcs12.setpassword.title "Masukkan Kata Sandi Cadangan Sertifikat">
+<!ENTITY pkcs12.setpassword.message "Kata sandi cadangan sertifikat yang dimasukkan melindungi berkas cadangan yang akan dibuat. Anda harus memasukkan kata sandi untuk meneruskan membuat cadangan.">
+<!ENTITY pkcs12.setpassword.label1 "Kata sandi cadangan sertifikat:">
+<!ENTITY pkcs12.setpassword.label2 "Kata sandi cadangan sertifikat (ulangi):">
+<!ENTITY pkcs12.setpassword.reminder "Penting: Jika anda lupa kata sandi cadangan sertifikat, anda tidak akan dapat mengembalikan cadangan ini nantinya. Mohon disimpan di lokasi yang aman.">
+<!ENTITY pkcs12.getpassword.title "Dialog Kata Sandi">
+<!ENTITY pkcs12.getpassword.message "Masukkan kata sandi yang digunakan untuk mengenkripsi cadangan sertifikat.">
+<!ENTITY chooseToken.title "Silakan memilih Dialog Token">
+<!ENTITY chooseToken.message1 "Silakan memilih token.">
+<!ENTITY escrowWarn.title "Salinan Kunci Enkripsi">
+<!ENTITY escrowWarn.message1 "Penting: otoritas sertifikat berikut telah meminta anda untuk membuat salinan cadangan enkripsi kunci pribadi.">
+<!ENTITY escrowWarn.benefit1 "Keuntungannya adalah jika anda kehilangan akses ke enkripsi kunci pribadi, anda dapat meminta salinan dari otoritas sertifikat ini,">
+<!ENTITY escrowWarn.message2 "Walau demikian, enkripsi kunci pribadi anda akan disimpan oleh otoritas sertifikat, dan dapat digunakan untuk membaca email atau dokumen terenkripsi anda tanpa izin anda.">
+<!ENTITY examineCert.label "Tampilkan Sertifikat">
+<!ENTITY examineCert.accesskey "S">
+<!ENTITY serverCrlNextupdate.message "Silakan menghubungi administrator sistem untuk mendapat bantuan.">
+<!ENTITY createCertInfo.title "Membuat Kunci Pribadi">
+<!ENTITY createCertInfo.msg1 "Pembuatan Kunci dalam proses. Membutuhkan beberapa saat…">
+<!ENTITY createCertInfo.msg2 "Silakan tunggu…">
+<!ENTITY formSigning.title "Permintaan Penandatanganan Teks">
+<!ENTITY formSigning.cert "Penandatangan Sertifikat">
+<!ENTITY formSigning.confirmPassword "Untuk konfirmasi persetujuan anda untuk menandatangani pesan teks dengan sertifikat pilihan anda, silakan masukkan kata sandi utama:">
+<!ENTITY protectedAuth.title "Otentikasi Token Terproteksi">
+<!ENTITY protectedAuth.msg "Silakan token berikut diotentikasi. Metode otentikasi bergantung pada tipe token Anda.">
+<!ENTITY protectedAuth.tokenName.label "Token:">

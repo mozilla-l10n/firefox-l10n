@@ -1,0 +1,17 @@
+<!ENTITY printJobOptions.title "Properti Printer">
+<!ENTITY paperInput.label "Ukuran Kertas:">
+<!ENTITY plexInput.label "Mode bolak-balik:">
+<!ENTITY resolutionInput.label "Resolusi/Kualitas:">
+<!ENTITY cmdInput.label "Perintah Cetak:">
+<!ENTITY jobTitleInput.label "Judul Job:">
+<!ENTITY colorGroup.label "Warna:">
+<!ENTITY grayRadio.label "Skala Abu-abu">
+<!ENTITY colorRadio.label "Warna">
+<!ENTITY colorspaceInput.label "Ruang warna:">
+<!ENTITY fontsGroup.label "Huruf:">
+<!ENTITY downloadFonts.label "Unduh huruf ke printer?">
+<!ENTITY edgeMarginInput.label "Jarak antara ujung kertas ke Marjin">
+<!ENTITY topInput.label "Atas:">
+<!ENTITY bottomInput.label "Bawah:">
+<!ENTITY leftInput.label "Kiri:">
+<!ENTITY rightInput.label "Kanan:">

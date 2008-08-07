@@ -1,0 +1,36 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Kecilkan">
+<!ENTITY bringAllToFront.label "Bawa Semua ke Depan">
+<!ENTITY zoomWindow.label "Perbesaran">
+<!ENTITY windowMenu.label "Jendela">
+<!ENTITY helpMenu.label "Bantuan">
+<!ENTITY helpMenu.accesskey "n">
+<!ENTITY helpMenuWin.label "Bantuan">
+<!ENTITY helpMenuWin.accesskey "n">
+<!ENTITY aboutCmd.label "Tentang &brandFullName;">
+<!ENTITY aboutCmd.accesskey "T">
+<!ENTITY helpContents.label "Daftar Isi Bantuan">
+<!ENTITY helpContents.accesskey "I">
+<!ENTITY helpContentsMac.label "Bantuan untuk &brandShortName;">
+<!ENTITY helpForIEUsers.label "Untuk Pengguna Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "E">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.commandkey "/">
+<!ENTITY openHelpMac.modifiers "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey "?">
+<!ENTITY openHelpMac.frontendModifiers "accel">
+<!ENTITY helpReleaseNotes.label "Catatan Rilis">
+<!ENTITY helpReleaseNotes.accesskey "C">
+<!ENTITY updateCmd.label "Cek Versi Baru…">
+<!ENTITY updateCmd.accesskey "v">
+<!ENTITY preferencesCmdMac.label "Pengaturan…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY servicesMenuMac.label "Layanan">
+<!ENTITY hideThisAppCmdMac.label "Sembunyikan &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY hideOtherAppsCmdMac.label "Sembunyikan Lainnya">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY showAllAppsCmdMac.label "Tampilkan Semua">

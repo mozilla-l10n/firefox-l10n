@@ -1,0 +1,17 @@
+<!--null-->
+<!ENTITY windowtitle.label "&brandShortName; - Pilih Profil Pengguna">
+<!ENTITY profilename.label "Nama Profil:">
+<!ENTITY start.label "Jalankan &brandShortName;">
+<!ENTITY exit.label "Keluar">
+<!ENTITY availprofiles.label "Profil yang Tersedia">
+<!ENTITY newButton.label "Buat Profil…">
+<!ENTITY newButton.accesskey "B">
+<!ENTITY renameButton.label "Ganti Nama Profil…">
+<!ENTITY renameButton.accesskey "R">
+<!ENTITY deleteButton.label "Hapus Profil…">
+<!ENTITY deleteButton.accesskey "H">
+<!ENTITY pmDescription.label "&brandShortName; menyimpan informasi tentang pengaturan dan data lainnya di profil Anda.">
+<!ENTITY offlineState.label "Bekerja offline">
+<!ENTITY offlineState.accesskey "o">
+<!ENTITY autoSelect.label "Jangan tanyakan saat memulai">
+<!ENTITY autoSelect.accesskey "s">

@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title "Bersihkan Data Pribadi">
+<!ENTITY sanitizeItems.label "Hapus data berikut sekarang:">
+<!ENTITY clearDataSettings.label "Saat &brandShortName; diminta untuk membersihkan data pribadi, yang harus dihapus:">
+<!ENTITY itemHistory.label "Riwayat Jelajah Web">
+<!ENTITY itemHistory.accesskey "R">
+<!ENTITY itemFormSearchHistory.label "Isian Form yang Disimpan dan Riwayat Pencarian">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "Kata Sandi Tersimpan">
+<!ENTITY itemPasswords.accesskey "S">
+<!ENTITY itemCookies.label "Cookie">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "Cache">
+<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemOfflineApps.label "Data Situs Web Offline">
+<!ENTITY itemOfflineApps.accesskey "W">
+<!ENTITY itemDownloads.label "Riwayat Unduhan">
+<!ENTITY itemDownloads.accesskey "U">
+<!ENTITY itemSessions.label "Otentikasi Sesi">
+<!ENTITY itemSessions.accesskey "O">
+<!ENTITY window.width "30em">

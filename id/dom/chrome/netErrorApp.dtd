@@ -1,0 +1,4 @@
+<!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
+<!ENTITY securityOverride.warningText "
+<p>Sebaiknya anda tidak menambahkan pengecualian jika anda sedang menggunakan jaringan internet yang tidak anda percayai atau jika biasanya anda tidak melihat peringatan tentang server ini.</p>
+<p>Jika anda masih ingin membuat pengecualian untuk situs ini, anda dapat menambahkannya pada pengaturan enkripsi canggih.</p>">
