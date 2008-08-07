@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "Gestor de Senhas">
+<!ENTITY      windowalttitle.label            "Gestor de Formulários: Sítios">
+<!ENTITY      tab.signonsstored.label         "Senhas Guardadas">
+<!ENTITY      tab.signonsnotstored.label      "Senhas Nunca Guardadas">
+<!ENTITY      tab.nopreview.label             "Formulários nunca Pré-Visualizados">
+<!ENTITY      tab.nocapture.label             "Formulários nunca guardados">
+
+<!ENTITY      spiel.signonsstored.label       "O Gestor de Senhas guardou a informação de inicio de sessão para os seguintes sítios:">
+<!ENTITY      spiel.signonsnotstored.label    "O Gestor de Senhas não vai guardar nunca a informação de inicio de sessão para os seguintes sítios:">
+<!ENTITY      spiel.nopreview.label           "O Gestor de Formulários nunca vai visualizar formulários dos seguintes sítios antes de os preencher por si:">
+<!ENTITY      spiel.nocapture.label           "O Gestor de Formulários não vai pedir nunca para guardar formulários dos seguintes sítios:">
+
+<!ENTITY      treehead.site.label             "Sítio">
+<!ENTITY      treehead.username.label         "Nome de utilizador">
+<!ENTITY      treehead.password.label         "Senha">
+<!ENTITY      remove.label                    "Remover">
+<!ENTITY      removeall.label                 "Remover Tudo">

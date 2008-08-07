@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Inscrições RSS">
+<!ENTITY subscriptionDesc.label "Nota: Eliminar ou alterar a pasta de uma fonte não irá afectar os artigos já transferidos.">
+<!ENTITY feedTitle.label "Título:">
+<!ENTITY location.label  "Localização:">
+
+<!ENTITY button.addFeed.label       "Adicionar">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "Editar">
+<!ENTITY button.editFeed.accesskey  "e">
+<!ENTITY button.removeFeed.label "Remover">
+<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.importOPML.label "Importar">
+<!ENTITY button.importOPML.accesskey   "i">
+<!ENTITY button.exportOPML.label "Exportar">
+<!ENTITY button.exportOPML.accesskey   "t">
+
+<!ENTITY cmd.close.commandKey             "W">

@@ -1,0 +1,23 @@
+<!ENTITY dialog.title                  "Recibos de Leitura">
+<!ENTITY receiptSettings.label         "Recibos de Leitura">
+<!ENTITY requestReceipt.label          "Ao enviar mensagens, pedir sempre um recibo de leitura">
+<!ENTITY requestReceipt.accesskey      "o">
+<!ENTITY receiptArrive.label           "Quando chega um recibo:">
+<!ENTITY leaveIt.label                 "Deixar na caixa de entrada">
+<!ENTITY leaveIt.accesskey             "D">
+<!ENTITY moveToSent.label              "Mover para a minha pasta &quot;Enviados&quot;">
+<!ENTITY moveToSent.accesskey          "v">
+<!ENTITY requestMDN.label              "Quando recebo um pedido de um recibo de leitura:">
+<!ENTITY never.label                   "Nunca enviar um recibo de leitura">
+<!ENTITY never.accesskey               "N">
+<!ENTITY returnSome.label              "Permitir Recibos de Leitura para algumas mensagens">
+<!ENTITY returnSome.accesskey          "e">
+<!ENTITY notInToCc.label               "Se não estiver na mensagem em Para ou Cc:">
+<!ENTITY notInToCc.accesskey           "S">
+<!ENTITY outsideDomain.label           "Se o remetente estiver fora do meu domínio:">
+<!ENTITY outsideDomain.accesskey       "t">
+<!ENTITY otherCases.label              "Em todos os outros casos:">
+<!ENTITY otherCases.accesskey          "a">
+<!ENTITY askMe.label                   "Perguntar-me">
+<!ENTITY alwaysSend.label              "Enviar sempre">
+<!ENTITY neverSend.label               "Nunca Enviar">

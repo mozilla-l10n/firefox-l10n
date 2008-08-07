@@ -1,0 +1,55 @@
+<!ENTITY history.label "Histórico">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Guardar o meu histórico por, pelo menos,">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  rememberDaysAfter2.label       "dias.">
+
+<!ENTITY rememberForms.label "Guardar a informação inserida em formulários e na barra de pesquisa.">
+<!ENTITY rememberForms.accesskey "g">
+
+<!ENTITY rememberDownloads.label "Guardar informações de transferências">
+<!ENTITY rememberDownloads.accesskey "t">
+
+
+<!ENTITY cookies.label "Cookies">
+
+<!ENTITY  acceptCookies.label           "Aceitar cookies de sítios">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  acceptThirdParty.label        "Aceitar cookies de terceiros">
+<!ENTITY  acceptThirdParty.accesskey    "t">
+
+<!ENTITY  keepUntil.label               "Guardar até:">
+<!ENTITY  keepUntil.accesskey           "G">
+
+<!ENTITY  expire.label                  "estas expirarem">
+<!ENTITY  close.label                   "fechar o &brandShortName;">
+<!ENTITY  askEachTime.label             "perguntar sempre que necessário">
+
+<!ENTITY cookieExceptions.label "Excepções...">
+<!ENTITY cookieExceptions.accesskey "x">
+
+<!ENTITY showCookies.label "Mostrar as cookies...">
+<!ENTITY showCookies.accesskey "S">
+
+<!ENTITY  privateData.label             "Dados privados">
+
+<!ENTITY  askBeforeClear.label           "Perguntar antes de limpar dados privados">
+<!ENTITY  askBeforeClear.accesskey       "a">
+
+<!ENTITY alwaysClear.label "Limpar sempre os meus dados privados ao fechar o &brandShortName;">
+<!ENTITY alwaysClear.accesskey "r">
+
+<!ENTITY clearDataSettings.label "Definições...">
+<!ENTITY clearDataSettings.accesskey "f">
+
+<!ENTITY  clearDataNow.label             "Limpar agora...">
+<!ENTITY  clearDataNow.label2            "Limpar agora">
+<!ENTITY  clearDataNow.accesskey         "A">
+

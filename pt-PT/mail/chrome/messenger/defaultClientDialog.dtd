@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Cliente Pré-definido">
+<!ENTITY defaultClient.intro  "Usar o &brandShortName; como o cliente pré-definido para:">
+
+<!ENTITY email.label "Correio electrónico">
+<!ENTITY newsgroups.label "Grupos de Discussão">
+<!ENTITY rss.label "Fontes RSS">
+
+<!ENTITY checkOnStartup.label "Verificar sempre ao iniciar o &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "V">

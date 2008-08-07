@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Assistente de importação">
+
+<!ENTITY importFrom.label "Importar opções, marcadores, histórico, senhas e outros dados do:">
+<!ENTITY importFromUnix.label "Importar preferências, marcadores, histórico, senhas e outros dados do:">
+<!ENTITY importFromBookmarks.label "Importar marcadores do:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird ou Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Não importar nada">
+<!ENTITY importFromNothing.accesskey "N">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 ou Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label "De um ficheiro HTML">
+<!ENTITY importFromHTMLFile.accesskey "f">
+
+<!ENTITY noMigrationSources.label "Não foram encontrados programas que contenham marcadores, histórico ou senhas.">
+
+<!ENTITY importSource.title "Importar definições e dados">
+<!ENTITY importItems.title "Itens a importar">
+<!ENTITY importItems.label "Seleccione os itens a importar:">
+
+<!ENTITY migrating.title "A importar...">
+<!ENTITY migrating.label "Os itens seguintes estão a ser importados...">
+
+<!ENTITY selectProfile.title "Seleccione o perfil">
+<!ENTITY selectProfile.label "Os perfis seguintes estão disponíveis para a importação do:">
+
+<!ENTITY done.title "Importação concluída">
+<!ENTITY done.label "Os itens seguintes foram importados com sucesso:">
+

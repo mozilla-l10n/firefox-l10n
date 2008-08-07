@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+Translators:
+  António Manuel Dias (European Portuguese)
+  Rita Farinha <rita.farinha@intraneia.com> (European Portuguese)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Navegar com separadores</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Navegar com separadores</h1>
+
+<p>A navegação com separadores permite-lhe abrir vários separadores, cada um
+  mostrando uma página, numa única janela do &brandShortName;.  Pode abrir ligações
+  em novos separadores, onde serão carregadas enquanto lê a página actual.  O uso da
+  navegação com separadores não é obrigatório mas, se a usar, poderá descobrir que a
+  sua utilização é uma melhor forma, e mais rápida, de navegar na Web.</p>
+
+<div class="contentsBox">Nesta secção:
+  <ul>
+    <li><a href="#creating_loading_tabs">Criar e carregar separadores</a></li>
+    <li><a href="#moving_tabs">Mover separadores numa janela</a></li>
+    <li><a href="#closing_tabs">Fechar e repor separadores</a></li>
+    <li><a href="#customizing">Configurar a navegação com separadores</a></li>
+    <li><a href="#tips_tricks">Dicas e truques</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_loading_tabs">Criar e carregar separadores</h2>
+
+<p>Para abrir um novo separador, prima &accelKey;+<kbd>T</kbd>, seleccione <span
+  class="menuPath">Ficheiro &gt; Novo separador</span>, ou clique duas vezes sobre
+  a Barra de separadores.</p>
+
+<p>Para carregar uma ligação num separador, pode usar um dos seguintes
+  métodos:</p>
+
+<ul>
+  <li>Clique com o botão do meio na ligação. (Se tem um rato com roda,
+    clicar com a roda é equivalente a clicar com o botão do meio.)</li>
+  <li>Arraste a ligação e largue-a num espaço vazio da Barra de separadores.
+    (Se estiver aberta apenas uma página, a Barra de separadores pode estar
+    escondida. Ver <a href="#customizing">Configurar a navegação com
+    separadores</a> para informação em como alterar este comportamento.)</li>
+  <li>Arraste e largue a ligação num separador aberto para a abrir nesse
+    separador.</li>
+  <li><span class="noMac">Clique com o botão do lado direito do rato </span><span
+    class="mac">Prima &ctrlKey;, e clique</span> na ligação e escolha <span
+    class="menuPath">Abrir a ligação num novo separador</span> no menu de contexto.</li>
+</ul>
+
+<p>Para abrir um URL na Barra de navegação num novo separador, insira o URL e
+  prima &altKey;+&enterKey;.</p>
+
+<h2 id="moving_tabs">Mover separadores numa janela</h2>
+
+<p>Os separadores são apresentados pela ordem em que foram abertos, que pode nem sempre
+  ser a ordem que deseja.  Para mover um separador para uma localização diferente
+  numa janela do &brandShortName; arraste-o utilizando o rato.  Enquanto arrasta
+  o separador, o &brandShortName; mostra um pequeno indicador para mostrar para onde
+  o separador irá ser movido.  Pode também usar <a
+  href="shortcuts.xhtml#windows_tabs">atalhos de teclado</a> para mover separadores
+  dentro da janela, se o desejar.</p>
+
+<h2 id="closing_tabs">Fechar e repor separadores</h2>
+
+<p>Para fechar o separador actual, prima &accelKey;+<kbd>W</kbd>, clique no botão
+  Fechar separador, clique no separador com o botão do meio, ou seleccione
+  <span class="menuPath">Ficheiro &gt; Fechar separador</span>.  Para fechar todos os
+  separadores excepto o actual, <span class="noMac">clique com o botão direito do rato</span>
+  <span class="mac">prima &ctrlKey;, clique</span> no separador e escolha
+  <span class="menuPath">Fechar todos os outros separadores</span>.</p>
+
+<h2 id="customizing">Configurar a navegação com separadores</h2>
+  <p>Para configurar a navegação com separadores seleccione &pref.menuPath;
+    e abra o <a href="prefs.xhtml#tabs_options">painel <em>Separadores</em></a>.</p>
+
+<h2 id="tips_tricks">Dicas e truques</h2>
+
+<dl>
+
+  <dt id="bookmarking_tabbed_browsing">Marcadores e navegação com separadores</dt>
+  <dd>Para adicionar um conjunto de separadores aos marcadores:</dd>
+  <dd>
+    <ol>
+      <li><span class="noUnix">Prima &accelKey;+&shiftKey;+<kbd>D</kbd> ou
+        seleccione</span><span class="unix">Seleccione</span>
+        <span class="menuPath">Marcadores &gt; Adicionar os separadores aos marcadores</span>
+        para adicionar todos os separadores da janela actual a uma nova pasta de
+        marcadores.</li>
+      <li>Para abrir marcadores em separadores, abra uma pasta de marcadores e
+        escolha <span class="menuPath">Abrir em separadores</span>.  Pode igualmente
+        clicar com o botão do meio do rato na pasta para abrir todo o seu conteúdo em
+        separadores.  Os marcadores serão abertos em separadores existentes, não
+        em novos.</li>
+    </ol>
+  </dd>
+
+  <dt id="home_page_as_tabs">Página inicial como separadores</dt>
+  <dd>Em vez de usar uma única página como a sua página inicial, pode configurar
+    um conjunto de separadores como página inicial.  Seleccione as suas páginas
+    preferidas e abra-as em separadores num única janela.  Seleccione &pref.menuPath;
+    e abra o <a href="prefs.xhtml#general_options">painel <em>Geral</em></a>.  Debaixo
+    de <em>Página inicial</em>, prima o botão <em>Utilizar as páginas actuais</em>.
+    Agora, ao premir o botão Página inicial, as suas páginas preferidas serão
+    carregadas com um único clique.</dd>
+
+  <dt>Adicionar um botão de novo separador à barra de ferramentas</dt>
+  <dd>Pode adicionar um botão de Novo separador à barra de ferramentas para abrir
+    novos separadores facilmente, <a
+    href="customization.xhtml#rearranging_toolbar_items">personalizando as suas barras de ferramentas</a>.</dd>
+
+  <dt id="keyboard_shortcuts">Atalhos de teclado</dt>
+  <dd>O &brandShortName; tem um grande conjunto de atalhos relacionados com a navegação
+    com separadores; pode ver a lista completa em <a
+    href="shortcuts.xhtml#windows_tabs">Atalhos de teclado</a>.</dd>
+
+</dl>
+
+<div class="contentsBox"><em>12 de Setembro de 2006</em></div>
+<p>Copyright &copy; 2003-2006 Colaboradores do projecto de visualização da
+  Ajuda Mozilla.</p>
+
+</body>
+</html>

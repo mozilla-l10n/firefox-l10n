@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "Mudar Acção">
+<!ENTITY  window.width                         "36em">
+
+<!ENTITY  whenDownloading.label               "Ao transferir ficheiros como estes:">
+
+<!ENTITY  openDefault.label                   "Abrir com a aplicação pré-definida:">
+<!ENTITY  openDefault.accesskey               "A">
+<!ENTITY  openApplication.label               "Abrir com esta aplicação:">
+<!ENTITY  openApplication.accesskey           "e">
+<!ENTITY  changeApp.label                     "Navegar...">
+<!ENTITY  changeApp.accesskey                 "N">
+<!ENTITY  saveToDisk.label                    "Guardar no meu computador">
+<!ENTITY  saveToDisk.accesskey                "G">
+<!ENTITY  saveToDefaultFolder.label           "na pasta de transferências pré-definidas">
+<!ENTITY  saveToDefaultFolder.accesskey       "n">
+<!ENTITY  saveToThisFolder.label              "nesta pasta:">
+<!ENTITY  saveToThisFolder.accesskey          "p">
+<!ENTITY  chooseFolder.label                  "Navegar...">
+<!ENTITY  chooseFolder.accesskey              "g">
+<!ENTITY  saveToAskMe.label                   "Perguntar-me onde guardar o ficheiro">
+<!ENTITY  saveToAskMe.accesskey               "a">
+<!ENTITY  usePlugin.label                     "Usar este Plugin:">
+<!ENTITY  usePlugin.accesskey                 "P">

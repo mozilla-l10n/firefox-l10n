@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title      "Sobre o &brandShortName;">
+<!ENTITY credits.label                "Créditos">
+<!ENTITY credits.accesskey      "C">
+<!ENTITY aboutLink.label              "&lt; Sobre o &brandShortName;">
+<!ENTITY aboutLink.accesskey    "S">
+<!ENTITY aboutVersion           "versão">
+<!ENTITY copyrightText          "&#169;1998-2007 Colaboradores. Todos os Direitos Reservados. Mozilla Thunderbird e  
+                                 os logotipos do Thunderbird são marcas registadas da Fundação Mozilla.  Todos os direitos
+                                 reservados.">

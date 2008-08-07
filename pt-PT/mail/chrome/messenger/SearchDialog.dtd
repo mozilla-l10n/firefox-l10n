@@ -1,0 +1,77 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Procurar mensagens em:">
+<!ENTITY searchHeading.accesskey     "r">
+<!ENTITY searchSubfolders.label      "Procurar em Sub-pastas">
+<!ENTITY searchSubfolders.accesskey  "o">
+<!ENTITY resetButton.label           "Limpar">
+<!ENTITY resetButton.accesskey       "L">
+<!ENTITY optionsButton.label         "Opções">
+<!ENTITY closeButton.label           "Fechar">
+<!ENTITY openButton.label            "Abrir">
+<!ENTITY openButton.accesskey        "A">
+<!ENTITY deleteButton.label          "Eliminar">
+<!ENTITY deleteButton.accesskey      "l">
+<!ENTITY searchDialogTitle.label     "Procurar Mensagens">
+<!ENTITY conditionDesc.label         "Procurar Mensagens que Coincidam:">
+<!ENTITY conditions.label            "Critério">
+<!ENTITY results.label               "Resultados">
+<!ENTITY fileHereMenu.label          "Ficheiro Aqui">
+<!ENTITY fileHereMenu.accesskey      "h">
+<!ENTITY fileButton.label            "Ficheiro">
+<!ENTITY fileButton.accesskey        "F">
+<!ENTITY closeCmd.key                "w"> 
+<!ENTITY goToFolderButton.label      "Abrir Pasta das Mensagens">
+<!ENTITY goToFolderButton.accesskey  "b">
+<!ENTITY saveAsVFButton.label        "Guardar como pasta de Procura">
+<!ENTITY saveAsVFButton.accesskey    "c">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Procurar em:">
+<!ENTITY abSearchHeading.accesskey   "u">
+<!ENTITY propertiesButton.label      "Propriedades">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "Escrever">
+<!ENTITY composeButton.accesskey     "s">
+<!ENTITY abSearchDialogTitle.label   "Pesquisa Avançada do Livro de Endereços">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Tópico">
+<!ENTITY fromColumn.label "De">
+<!ENTITY recipientColumn.label "Destinatário">
+<!ENTITY subjectColumn.label "Assunto">
+<!ENTITY dateColumn.label "Data">
+<!ENTITY priorityColumn.label "Prioridade">
+<!ENTITY tagsColumn.label "Etiquetas">
+<!ENTITY accountColumn.label "Conta">
+<!ENTITY statusColumn.label "Estado">
+<!ENTITY sizeColumn.label "Tamanho">
+<!ENTITY junkStatusColumn.label "Estado do Lixo Electrónico">
+<!ENTITY linesColumn.label "Linhas">
+<!ENTITY unreadColumn.label "Não lidas">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Lida">
+<!ENTITY receivedColumn.label "Recebida">
+<!ENTITY starredColumn.label "Com Estrela">
+<!ENTITY locationColumn.label "Localização">
+<!ENTITY idColumn.label "Ordem de chegada">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Clique para seleccionar as colunas a mostrar">
+<!ENTITY threadColumn.tooltip "Clique para mostrar tópicos da mensagem"> 
+<!ENTITY fromColumn.tooltip "Clique para ordenar por remetente">
+<!ENTITY recipientColumn.tooltip "Clique para ordenar por receptor">
+<!ENTITY subjectColumn.tooltip "Clique para ordenar por assunto">
+<!ENTITY dateColumn.tooltip "Clique para ordenar por data">
+<!ENTITY priorityColumn.tooltip "Clique para ordenar por prioridade">
+<!ENTITY tagsColumn.tooltip "Clique para ordenar por etiquetas">
+<!ENTITY accountColumn.tooltip "Clique para ordenar por conta">
+<!ENTITY statusColumn.tooltip "Clique para ordenar por estado">
+<!ENTITY sizeColumn.tooltip "Clique para ordenar por tamanho">
+<!ENTITY junkStatusColumn.tooltip "Clique para ordenar por estado do lixo">
+<!ENTITY unreadColumn.tooltip "Número de mensagens não lidas no tópico">
+<!ENTITY totalColumn.tooltip "Número total de mensagens no tópico">
+<!ENTITY readColumn.tooltip "Clique para ordenar por lidas">
+<!ENTITY receivedColumn.tooltip "Clique para ordenar por data de recepção">
+<!ENTITY starredColumn.tooltip "Clique para ordenar por estrela">
+<!ENTITY locationColumn.tooltip "Clique para ordenar por localização">
+<!ENTITY idColumn.tooltip "Clique para ordenar por ordem recebida">

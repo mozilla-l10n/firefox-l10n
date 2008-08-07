@@ -1,0 +1,39 @@
+<!-- extracted from content/pref-composer.xul -->
+
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "Compositor">
+
+<!ENTITY  saving                        "A guardar">
+<!ENTITY  AutoSaveCheck                 "Automaticamente a cada">
+<!ENTITY  minText                       "minutos">
+
+<!ENTITY  exterLegend.label             "Editores Externos">
+<!ENTITY  htmlSource                    "Origem HTML:">
+<!ENTITY  imageeditor                   "Imagens:">
+<!ENTITY  chooseButton.label            "Escolher">
+
+<!ENTITY  recentFiles.title             "Menu de Páginas Recentes">
+<!ENTITY  documentsInMenu.label         "Número Máximo de Páginas na Lista:">
+<!ENTITY  documentsInMenu.accesskey     "n">
+
+<!ENTITY  savingFiles.title             "Ao Guardar ou Publicar Páginas">
+<!ENTITY  preserveExisting.label        "Preservar a formatação original">
+<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.tooltip      "Preservar as quebras de linha e a formatação original da página">
+<!ENTITY  saveAssociatedFiles.label     "Ao guardar páginas guardar imagens e ficheiros associados">
+<!ENTITY  saveAssociatedFiles.accesskey "g">
+<!ENTITY  showPublishDialog.label       "Mostrar sempre o diálogo de Publicação quando publicar páginas">
+<!ENTITY  showPublishDialog.accesskey   "A">
+
+<!ENTITY  composerEditing.label         "Ao Editar">
+<!ENTITY  spellCheckInline.label        "Verificar ortografia enquanto escreve">
+<!ENTITY  spellCheckInline.accesskey    "V">
+<<!ENTITY  maintainStructure.label       "Manter o esquema da tabela ao inserir ou eliminar células">
+<!ENTITY  maintainStructure.tooltip     "Preservar a forma rectangular da tabela adicionando células automaticamente ao inserir ou apagar células">
+<!ENTITY  maintainStructure.accesskey   "r">
+<!ENTITY  useCSS.label                  "Utilizar estilos CSS em vez de elementos e atributos HTML">
+<!ENTITY  useCSS.accesskey              "U">
+<!ENTITY  crInPCreatesNewP.label        "Retornar um Parágrafo sempre que cria um novo parágrafo">
+<!ENTITY  crInPCreatesNewP.accesskey    "R">

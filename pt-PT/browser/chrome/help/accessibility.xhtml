@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+Translators:
+  Henrique Costa <henrique@interacesso.pt> (European Portuguese)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Funcionalidades de acessibilidade do &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Funcionalidades de acessibilidade do &brandFullName;</h1>
+
+  <p>O &brandShortName; inclui várias funcionalidades para tornar o navegador e os conteúdos web acessíveis a todos os utilizadores, incluindo aqueles que têm a sua visão diminuída, são invisuais ou têm uma capacidade limitada para usar o teclado ou o rato.</p>
+
+  <div class="contentsBox">Nesta secção :
+    <ul>
+    <li><a href="#using_a_keyboard">Utilizar o teclado</a></li>
+    <li><a href="#using_a_mouse">Utilizar o rato</a></li>
+    <li><a href="#fonts_and_colors">Tipos de letra e cores</a></li>
+    <li><a href="#controlling_web_content">Controlar os conteúdos Web</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Compatibilidade com tecnologias assistentes</a></li>
+    <li><a href="#finding_help_online">Encontrar ajuda em modo ligado</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Utilizar o teclado</h2>
+
+  <h3 id="keyboard_shortcuts">Atalhos de teclado</h3>
+
+  <p>Uma lista de atalhos de teclado comuns está disponível em 
+    <a href="shortcuts.xhtml">Atalhos de teclado do &brandFullName;</a>.
+    Em modo ligado, pode encontrar <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">um quadro de comparação dos atalhos de teclado</a> implementados no &brandShortName;,
+    Microsoft Internet Explorer e Opera.</p>
+
+  <h3 id="always_use_cursor_keys">Utilizar sempre as teclas do cursor para navegar nas páginas</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Utilizar sempre as teclas do cursor para navegar nas páginas</a> possibilita-lhe movimentar-se pelos conteúdos web como se estivesse dentro de um editor só de leitura.
+    Pode usar o teclado para seleccionar conteúdos web e o copiar para a área de transferência.  Pode activar esta funcionalidade seleccionando  &pref.menuPath;,
+    abrindo o separador  <em>Geral</em> do painel  <em>Avançado</em>
+    e marcando  <em>Permitir que o texto possa ser seleccionado  com o teclado </em>&pref.singular;.</p>
+  <p>Pode premir <kbd>F7</kbd> em qualquer altura para activar ou desactivar esta funcionalidade.  Quando premir  <kbd>F7</kbd>, o &brandShortName; irá pedir para confirmar se pretende mesmo activar esta funcionalidade.  Pode desactivar esta pergunta marcando <em>Não mostrar este diálogo novamente.</em></p>
+
+  <h3 id="find_as_you_type">Procurar ao escrever</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Procurar ao  escrever</a> permite navegar rapidamente para no texto ou para  ligações numa página  web.  Esta funcionalidade tem dois modos. Pressione
+    <abbr title="forward slash"><kbd>/</kbd></abbr> e comece a escrever para localizar em todo o texto da página corrente ou pressione
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> no início da frase para procurar apenas em  ligações. O  &brandShortName; irá destacar o texto ou ligações que correspondam à frase entretanto escrita.</p>
+
+  <p>Os seguintes atalhos controlam esta funcionalidade:</p>
+
+  <ul>
+    <li>Escreva mais caracteres para afunilar a pesquisa. O  &brandShortName;
+      irá destacar a próxima ligação ou texto igual ou irá alertá-lo de que nada foi encontrado.</li>
+    <li>Pressione &accelKey;+<kbd>G</kbd> ou <kbd>F3</kbd> para encontrar a próxima ocorrência da frase procurada.</li>
+    <li>Pressione &accelKey;+&shiftKey;+<kbd>G</kbd> ou &shiftKey;+<kbd>F3</kbd>
+      para encontrar a ocorrência anterior da frase procurada.</li>
+    <li>Pressione <kbd>Backspace</kbd> para desfazer a escrita do último  caracter. O 
+      &brandShortName; retornará ou texto previamente destacado.</li>
+    <li>Pressione <kbd>Esc</kbd> para cancelar a localização.  Pode também cancelar a pesquisa alterando o  foco, deslizando a página com o rato ou teclado ou simplesmente esperar pelo temporizador.</li>
+  </ul>
+
+  <p>Pode alterar o comportamento por omissão destas funcionalidades seleccionando 
+    &pref.menuPath;, abrindo o separador  <em>Geral</em> do painel 
+    <em>Avançado</em> e marcando  <em>Procurar ao escrever </em> &pref.singular;.  Se esta opção estiver marcada,
+    sempre que começar a escrever irá automaticamente começar a pesquisa em linha.
+    Por omissão a pesquisa automática procura em todo o texto da página.
+    Pode explicitamente premir
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> ou
+    <abbr title="forward slash"><kbd>/</kbd></abbr> para começar num modo ou no outro.</p>
+
+  <p>Pode usar esta funcionalidade para encontrar botões, caixas de texto e outros controlos de formulários.  Procure o texto imediatamente antes do controlo do formulário que pretende e pressione <kbd>Tab</kbd>. Ao premir <kbd>Tab</kbd> automaticamente sai da procura e coloca o foco no próximo campo do formulário ou botão depois de destacar o texto.</p>
+
+  <h2 id="using_a_mouse">Utilizar o rato</h2>
+
+  <h3 id="common_mouse_shortcuts">Atalhos de rato comuns</h3>
+
+  <p>Uma lista de atalhos de rato comuns está disponível em <a href="mouse_shortcuts.xhtml">Atalhos de rato do &brandShortName;</a>.</p>
+
+  <h2 id="fonts_and_colors">Tipos de letra e cores</h2>
+
+  <h3 id="overriding_page_fonts">Sobrepor os tipos de letra da página</h3>
+
+  <p>Alguns sítios podem usar tipos de letra que são difíceis de ler e outros sítios podem estar baseados nos tipos de letra por omissão do navegador.  Pode fixar os seus tipos de letra por omissão em  &pref.menuPath;, seleccionando o painel 
+    <em>Conteúdos</em> e  seleccionando os tipos por omissão na secção
+    <em>Tipos de letra &amp; cores</em>.</p>
+
+  <p>Pode especificar tipos por omissão para diferentes estilos, incluindo serifada,
+    sans-serif e monoespaço clicando no botão <em>Avançado...</em>.
+    No entanto, muitas páginas  web especificam os seus próprios tipos de letra, por isso as suas escolhas podem não ter efeito nestas páginas.  Para sobrepor os tipos de letra definidos nestas páginas, desmarque a   &pref.singular;<em> Permitir às páginas a escolha do seu tipo de letra em vez das escolhas acima</em>.</p>
+
+  <p>Note que algumas páginas web podem ter uma visualização incorrecta dependendo das suas escolhas para o tipo de letra por omissão.</p>
+
+  <h3 id="setting_a_minimum_font_size">Fixar o tamanho mínimo dos tipos de letra</h3>
+
+  <p>Alguns sítios web podem mostrar texto que é muito pequeno para poder ser lido confortavelmente.  Para tornar essas páginas mais fáceis de ler, pode fixar o tamanho mínimo para os tipos de letra. Nas páginas web que utilizarem  texto mais pequeno que esse tamanho, o &brandShortName; irá aumentar o  texto para o tamanho mínimo definido por si.</p>
+
+  <p>Para definir o tamanho mínimo para os tipos de letra, vá a &pref.menuPath;, seleccione o painel 
+    <em>Conteúdos</em> e clique no botão <em>Avançado...</em> na secção <em>Tipos de letra &amp; cores</em>.  Pode especificar um tamanho mínimo para os tipos de letra nos menus suspensos.</p>
+
+  <p>Note que algumas páginas web podem ser visualizadas incorrectamente dependendo das suas escolhas para o tamanho mínimo do tipo de letra.</p>
+
+  <h3 id="resizing_page_text">Redimensionar o texto da página</h3>
+
+  <p>Pode temporariamente alterar o tamanho do texto em qualquer página web no menu
+    <span class="menuPath">Ver &gt; Tamanho do texto</span>.  O novo tamanho ir-se-á manter até fechar a janela ou separador do navegador, mesmo que navegue para um sítio web diferente.</p>
+
+  <p>Os seguintes atalhos de teclado controlam o tamanho do texto:</p>
+
+  <ul>
+    <li>Pressione &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> para aumentar o tamanho do texto.  Isto ampliará o texto para 120% do seu tamanho  original, seguidamente para 150%, 200%, 300%, 450%, 675%, 1013%, e 1519%.</li>
+    <li>Pressione &accelKey;+<kbd><abbr title="minus">-</abbr></kbd> para diminuir o tamanho do texto.  Isto reduzirá o texto para 90% do seu tamanho  original, seguidamente para 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2%, e 1%.</li>
+    <li>Pressione &accelKey;+<kbd>0</kbd> para reinicializar o tamanho do texto para o tamanho por omissão da página web.</li>
+  </ul>
+
+  <p>Note que algumas páginas web podem ser visualizadas incorrectamente se aumentar ou reduzir o tamanho do texto.</p>
+
+  <h3 id="overriding_page_colors">Sobrepor as cores da página</h3>
+
+  <p>Alguns sítios web podem usar cores para o texto e de fundo da página que são difíceis de ler e outros sítios podem-se basear nas cores do navegador por omissão.  Pode fixar as cores por omissão em  &pref.menuPath;,
+    seleccionando o painel  <em>Conteúdos</em> e clicando no botão  <em>Cores</em>
+    na secção de <em>Tipos de letra &amp; cores</em>.  Pode também fixar as cores por omissão para o texto e para o fundo da página, bem como as cores por omissão para as ligações
+    visitados e por visitar.  Pode também especificar se as 
+    ligações devem ou não ser sublinhadas.</p>
+
+  <p>No entanto, muitas páginas web fixam as suas próprias cores, por isso as suas escolhas podem não ser visíveis.  Para sobrepor as cores definidas pelas páginas web, desmarque a &amp;pref.singular; <em>Permitir às páginas escolher as suas próprias cores, em vez das acima seleccionadas</em>.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Usar temas de alto contraste</h3>
+
+    <p>O &brandShortName; detecta automaticamente  se está a  usar um tema de alto contraste e visualiza todo o conteúdo usando o esquema de cores de alto contraste escolhido.  Isto ir-se-á sobrepor a todas as preferências do navegador ou das páginas  web e  afectará a interface do &brandShortName; propriamente dita (todos os
+      menus, janelas e caixas de diálogo) e o conteúdo de qualquer página  web que tenha visitado.</p>
+
+    <p class="win">Para usar um tema de alto contraste, vá ao menu 
+      <span class="menuPath">Iniciar &gt; Painel de controlo &gt;
+      Opções de acessibilidade &gt; Visualização </span> e marque a &pref.singular; <em>Utilizar 'Alto contraste'</em>.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Controlar os conteúdos web</h2>
+
+  <h3 id="blocking_popup_windows">Bloquear janelas popup</h3>
+
+  <p>Veja <a href="popup.xhtml">Controlar popups</a> para informações em como bloquear janelas popup.</p>
+  <h3 id="turning_off_java_applets">Desligar applets Java </h3>
+
+  <p>Algumas páginas web  providenciam uma experiência interactiva rica em applets Java&trade;.  No entanto, alguns utilizadores que apenas usem o teclado para navegar, poderão ter alguns problemas com alguns applets Java  que automaticamente fixam o 
+    foco e não providenciam qualquer mecanismo para sair da applet e navegar para o resto da página web.  Se isto é um problema para si,
+    pode  desactivar o Java em &pref.menuPath;, seleccionando
+    <em>Conteúdos</em> e desmarcando a
+    &pref.singular;  <em>Activar  Java</em>.</p>
+
+  <h3 id="restricting_javascript_behavior">Restringir o comportamento do JavaScript</h3>
+
+  <p>Pode desligar o JavaScript completamente nas  &pref.menuPath;,
+    seleccionando o painel de  <em>Conteúdos</em> e desmarcando  <em>Activar
+    JavaScript</em>.  Algumas páginas  web depende do JavaScript e podem não funcionar correctamente com o JavaScript inibido.</p>
+
+  <p>Se quiser inibir o JavaScript completamente, existem vários parâmetros avançados para o  JavaScript for forma a restringir o comportamento dos 
+    scripts.  Imediatamente a seguir à caixa de verificação <em>Activar  JavaScript</em>,
+    clique o botão <em>Avançado...</em> para abrir a janela  <em>Definições avançadas de JavaScript</em>.  Pode controlar se é permitido aos scripts mover ou redimensionar janelas existentes, subir ou baixar janelas, desactivar ou substituir menus de contexto, esconder a barra de estado ou alterar o texto da barra de estado.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Compatibilidade com tecnologias assistentes</h2>
+
+  <p>A informação mais actual sobre a sobre a compatibilidade com tecnologias assistentes de terceiros encontra-se disponível em 
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Compatibilidade com tecnologias assistentes</a>.(N.T.: À data de tradução a página ainda não estava disponível) </p>
+
+  <h2 id="finding_help_online">Encontrar ajuda em modo ligado</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific mantém várias 
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">listas de distribuição para utilizadores  JAWS</a>.</p>
+
+    <p>GW Micro mantém várias
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/"></a><a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">listas de distribuição para utilizadores </a><a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/"> Window Eyes</a>.</p>
+  </div>
+
+  <p>Pode também colocar questões sobre  acessibilidade no
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">Forum de supporte do &brandShortName;</a>.</p>
+
+  <div class="contentsBox"><em>22 de Maio de 2006</em></div>
+
+  <p>Copyright © 2003-2006 Colaboradores do projecto de visualização da Ajuda Mozilla.</p>
+
+</body>
+</html>

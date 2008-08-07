@@ -1,0 +1,43 @@
+<!ENTITY caption.label "A abrir #1">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "O ficheiro &quot;#3&quot; é do tipo #2 (#1), e o #4 não sabe como tratar este tipo de ficheiro. O ficheiro está no:">
+<!ENTITY intro.noDesc.label "O ficheiro &quot;#3&quot; é do tipo #2, e o #4 não sabe como tratar este tipo de ficheiro. O ficheiro está no:">
+
+<!ENTITY intro.attachment.label "O sítio sugeriu que &quot;#3&quot; seja tratado como um anexo. É do tipo #2 (#1) e está no:">
+<!ENTITY intro.attachment.noDesc.label "O sítio sugeriu que &quot;#3&quot; seja tratado como um anexo. É do tipo #2 e está no:">
+
+<!ENTITY intro.sniffed.label "O #4 detectou que o ficheiro &quot;#3&quot; é provavelmente do tipo #2 (#1). O ficheiro está no:">
+<!ENTITY intro.sniffed.noDesc.label "O #4 detectou que o ficheiro &quot;#3&quot; é provavelmente do tipo #2. O ficheiro está no:">
+
+<!ENTITY prompt.label "O que deve o #1 fazer com este ficheiro?">
+
+<!ENTITY alwaysHandle.label "Executar esta acção sempre que trabalhar com ficheiros deste tipo">
+<!ENTITY alwaysHandle.accesskey "s">
+
+<!ENTITY saveToDisk.label "Guardá-lo no disco">
+<!ENTITY saveToDisk.accesskey "G">
+
+<!ENTITY useSystemDefault.label "Abri-lo com a aplicação por omissão (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Abri-lo com a aplicação por omissão">
+<!ENTITY useSystemDefault.accesskey "A">
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+
+<!ENTITY openUsing.label "Abri-lo com">
+<!ENTITY openUsing.accesskey "c">
+
+<!ENTITY chooseApp.label "Escolher...">
+<!ENTITY chooseApp.accesskey "E">
+
+<!ENTITY chooseAppFilePickerTitle "Escolher a aplicação auxiliar">
+
+<!ENTITY badApp "A aplicação que especificou (&quot;#1&quot;) não foi encontrada. Verifique o nome do ficheiro ou seleccione outra aplicação.">
+<!ENTITY badApp.title "Aplicação não encontrada">

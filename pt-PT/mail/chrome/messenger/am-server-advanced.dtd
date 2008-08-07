@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Configurações Avançadas da Conta">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "Configurações Avançadas do servidor IMAP ">
+<!ENTITY serverDirectory.label "Pasta do servidor IMAP:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "Mostrar apenas pastas subscritas">
+<!ENTITY usingSubscription.accesskey "r">
+<!ENTITY dualUseFolders.label "O servidor suporta pastas que contenham Sub-pastas e mensagens">
+<!ENTITY dualUseFolders.accesskey "p">
+<!ENTITY useIdle.label "Usar comando IDLE se o servidor o suportar">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Número máximo de ligações para a cache">
+<!ENTITY maximumConnectionsNumber.accesskey "m">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "Estas configurações especificam os namespaces no seu servidor IMAP">
+<!ENTITY personalNamespace.label "Namespace Pessoal:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Pública (partilhada):">
+<!ENTITY publicNamespace.accesskey "b">
+<!ENTITY otherUsersNamespace.label "Outros Utilizadores:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "Permitir ao servidor ultrapassar estes namespaces">
+<!ENTITY overrideNamespaces.accesskey "a">
+<!ENTITY pop3Desc.label "Quando transferir correio pop deste servidor, usar a pasta seguinte para novo correio:" >
+<!ENTITY folderStorage.label "Onde Guardar Correio">
+<!ENTITY globalInbox.label "Caixa de Entrada Geral (Conta das pastas Locais)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "Caixa de Entrada para esta conta do Servidor">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "Caixa de Entrada para uma conta diferente do servidor">
+<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferGetNewMail.label "Incluir este servidor na recepção de correio">
+<!ENTITY deferGetNewMail.accesskey "I">

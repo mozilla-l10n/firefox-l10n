@@ -1,0 +1,83 @@
+<!ENTITY itemGeneral.label       "Geral">
+<!ENTITY itemUpdate.label        "Actualização">
+<!ENTITY itemNetworking.label    "Rede e espaço em disco">
+<!ENTITY itemCertificates.label  "Certificados">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Mostrar apenas o nome para pessoas nos meus contactos">
+<!ENTITY showCondensedAddresses.accesskey "M">
+
+<!ENTITY autoMarkAsRead.label          "Marcar mensagens automaticament como lidas">
+<!ENTITY autoMarkAsRead.accesskey      "a">
+<!ENTITY markAsReadNoDelay.label       "Imediatamente após apresentação">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Após apresentação de">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "segundos">
+<!ENTITY showFolderColumns.label       "Mostrar o selector de colunas no painel de pastas">
+<!ENTITY showFolderColumns.accesskey   "o">
+<!ENTITY rememberLastMsg.label         "Lembrar a última mensagem seleccionada">
+<!ENTITY rememberLastMsg.accesskey     "L">
+<!ENTITY openMsgIn.label               "Abrir mensagens em:">
+<!ENTITY reuseExpRadio0.label          "Nova Janela">
+<!ENTITY reuseExpRadio0.accesskey      "v">
+<!ENTITY reuseExpRadio1.label          "Janela existente">
+<!ENTITY reuseExpRadio1.accesskey      "J">
+<!ENTITY reuseExpRadio2.label          "Novo separador">
+<!ENTITY reuseExpRadio2.accesskey      "N">
+<!ENTITY connectionTimeout.label       "Tempo limite da ligação:">
+<!ENTITY connectionTimeout.accesskey   "ç">
+<!ENTITY connectionSeconds.label       "segundos">
+<!ENTITY configEditDesc.label          "Configuração avançada:">
+<!ENTITY configEdit.label              "Editor de config...">
+<!ENTITY configEdit.accesskey          "d">
+<!ENTITY returnReceiptsInfo.label      "Indique como é que o &brandShortName; trata as confirmações de leitura.">
+<!ENTITY showReturnReceipts.label      "Confirmações de leitura...">
+<!ENTITY showReturnReceipts.accesskey  "C">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Verificar automaticamente se há actualizações para:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "Complementos instalados">
+<!ENTITY enableAddonsUpdate.accesskey   "C">
+<!ENTITY checkNow.label                 "Verificar agora...">
+<!ENTITY whenUpdatesFound.label         "Ao encontrar actualizações do &brandShortName;:">
+<!ENTITY modeAskMe.label                "Perguntar-me o que fazer">
+<!ENTITY modeAskMe.accesskey            "z">
+<!ENTITY modeAutomatic.label            "Receber e instalar a actualização automaticamente">
+<!ENTITY modeAutomatic.accesskey        "z">
+<!ENTITY modeAutoAddonWarn.label        "Alertar caso desactive algum complemento">
+<!ENTITY modeAutoAddonWarn.accesskey    "A">
+<!ENTITY showUpdates.label              "Histórico de actualizações">
+<!ENTITY showUpdates.accesskey          "H">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Ligação...">
+<!ENTITY showConnections.accesskey     "L">
+<!ENTITY proxiesInfo.label             "Indique como é que o &brandShortName; se liga à internet.">
+<!ENTITY connectionsInfo.caption       "Ligação">
+<!ENTITY offlineInfo.caption           "Modo Desligado">
+<!ENTITY offlineInfo.label             "Configurar o Modo Desligado.">
+<!ENTITY showOffline.label             "Desligado...">
+<!ENTITY showOffline.accesskey         "D">
+
+<!ENTITY Diskspace "Espaço em Disco">
+<!ENTITY offlineCompact.label "Compactar pastas se se puder libertar pelo menos">
+<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY kb.label "KB">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo2.label         "Gerir certificados, listas de revogação, verificação de certificados e dispositivos de segurança.">
+<!ENTITY viewCertificates.label         "Certificados">
+<!ENTITY viewCertificates.accesskey     "e">
+<!ENTITY viewCRLs.label                 "Revogações">
+<!ENTITY viewCRLs.accesskey             "R">
+<!ENTITY validation.label                 "Validação">
+<!ENTITY validation.accesskey             "i">
+<!ENTITY viewSecurityDevices.label      "Disp. de segurança">
+<!ENTITY viewSecurityDevices.accesskey  "D">

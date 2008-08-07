@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+Translators:
+  Bruno Duarte <geral@brunoduarte.com> (European Portuguese)
+  Rita Farinha <rita.farinha@intraneia.com> (European Portuguese)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Referência dos menus do &brandFullName;</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Referência dos menus do &brandFullName;</h1>
+  <p>Esta referência dos menus descreve cada item de menu da janela principal
+    do &brandFullName;.</p>
+
+  <div class="contentsBox">Nesta secção:
+    <ul>
+      <li class="mac"><a href="#firefox">&brandShortName;</a></li>
+      <li><a href="#file">Ficheiro</a></li>
+      <li><a href="#edit">Editar</a></li>
+      <li><a href="#view">Ver</a></li>
+      <li><a href="#go">Histórico</a></li>
+      <li><a href="#bookmarks">Marcadores</a></li>
+      <li><a href="#tools">Ferramentas</a></li>
+      <li class="mac"><a href="#window">Janela</a></li>
+      <li><a href="#help">Ajuda</a></li>
+    </ul>
+  </div>
+
+<div class="mac">
+  <h2 id="firefox">&brandShortName;</h2>
+    <h3 id="about_mac">Sobre &brandFullName;</h3>
+    <p>Exibe uma caixa de diálogo com informações sobre o &brandShortName;, incluindo a versão 
+      actual e uma breve lista de créditos.</p>
+
+    <h3 id="prefs_mac">Preferências</h3>
+    <p class="win">Exibe a janela de <a href="prefs.xhtml">&pref.pluralCaps;</a>, 
+      onde poderá modificar várias &pref.plural; do &brandShortName;.</p>
+
+    <h3 id="quit_mac">Sair do &brandShortName;</h3>
+    <p>Fecha todas as janelas abertas do &brandShortName;, cancelando qualquer 
+      transferência em curso, e sai completamente do &brandShortName;. Se 
+      clicar neste item com separadores e janelas abertas ou transferências em curso, o &brandShortName; 
+      irá perguntar se deseja realmente sair. 
+      Pode desactivar este aviso desmarcando a opção <em>Avisar ao 
+      fechar múltiplos separadores</em> no painel <em>Separadores</em> em &pref.menuPath;.
+      O &brandShortName; irá sempre mostrar um aviso se tiver transferências em curso.</p>
+</div>
+
+<h2 id="file">Ficheiro</h2>
+
+  <h3 id="new_window">Nova janela</h3>
+  <p>Abre uma nova janela do &brandShortName;.</p>
+
+  <h3 id="new_tab">Novo separador</h3>
+  <p>Abre um novo separador na janela do &brandShortName; seleccionada.</p>
+
+  <h3 id="open_location">Abrir endereço...</h3>
+  <p>Posiciona o cursor do teclado no campo de endereço da Barra de navegação do 
+    &brandShortName; para que possa introduzir o endereço do sítio que deseja visitar.</p>
+
+  <h3 id="open_file">Abrir ficheiro...</h3>
+  <p>Exibe a caixa de diálogo Abrir ficheiro onde pode seleccionar um ficheiro do seu 
+    disco rígido ou rede. Pode visualizar vários tipos de ficheiros no 
+    &brandShortName;, incluindo ficheiros HTML/XML, imagens, textos e outros.</p>
+
+  <h3 id="close">Fechar janela</h3>
+  <p>Fecha a janela actual.</p>
+
+  <h3 id="close_tab">Fechar separador</h3>
+  <p>Fecha o separador actual e selecciona o separador à direita. Este item de menu só 
+    será visível se mais de um separador estiverem abertos na janela seleccionada.</p>
+
+  <h3 id="save_page_as">Guardar página como...</h3>
+    <p>Guarda a página actual. Pode escolher entre guardar a página toda 
+      (completa, inclusive com imagens), apenas a página HTML, ou apenas o texto da página.</p>
+
+  <h3 id="send_page">Enviar ligação...</h3>
+    <p>Abre a janela de composição de mensagens usando o cliente de correio electrónico por omissão 
+      do seu computador para que possa enviar uma mensagem com uma ligação para a página actual.</p>
+
+  <h3 id="page_setup">Configurar página...</h3>
+    <p>Exibe a caixa de diálogo Configurar página, onde pode ajustar as 
+      configurações de impressão, tais como margens, cabeçalho e rodapé e 
+      orientação da página.</p>
+
+  <div class="noMac">
+    <h3 id="print_preview">Pré-visualizar impressão</h3>
+    <p>Mostra como a página actual ficará quando for impressa. Esta irá reflectir as 
+      configurações ajustadas na caixa de diálogo Configurar página e as configurações
+      da própria página.</p>
+  </div>
+
+  <h3 id="print">Imprimir...</h3>
+    <p>Exibe a caixa de diálogo Imprimir, onde pode especificar o número de 
+      cópias a serem impressas, etc. Clique em <em>OK</em> para imprimir a página.</p>
+
+  <h3 id="import">Importar...</h3>
+    <p>Abre o Assistente de importação, que permitirá importar opções, 
+      favoritos, histórico, senhas e outros dados de <em>navegadores</em> como o 
+      Microsoft Internet Explorer, Netscape, Mozilla ou Opera.</p>
+
+  <h3 id="work_offline">Trabalhar em modo desligado</h3>
+    <p>Alterna entre os modos ligado e desligado. O modo desligado permite  
+      visualizar páginas que já tenha visitado sem a necessidade 
+      de estar ligado à internet.</p>
+
+<div class="noMac">
+  <h3 id="exit">
+    <span class="win">Sair</span>
+    <span class="noWin">Sair</span>
+  </h3>
+    <p>Fecha todas as janelas abertas do &brandShortName;, cancelando qualquer 
+      transferência em curso, e sai completamente do &brandShortName;. Se 
+      clicar neste item com separadores e janelas abertas ou transferências em curso, o &brandShortName; 
+      irá perguntar se deseja realmente sair. 
+      Pode desactivar este aviso desmarcando a opção <em>Avisar ao 
+      fechar múltiplos separadores</em> no painel <em>Separadores</em> em &pref.menuPath;.
+      O &brandShortName; irá sempre mostrar um aviso se tive transferências em curso.</p>
+</div>
+
+<h2 id="edit">Editar</h2>
+
+  <h3 id="undo">Anular</h3>
+    <p>Anula a última acção efectuada num campo de texto. Se mais tarde decidir que não 
+      quer anular a acção, use o comando Refazer.</p>
+
+  <h3 id="redo">Refazer</h3>
+  <p>Refaz o último comando anulado.</p>
+
+  <h3 id="cut">Cortar</h3>
+  <p>Corta o texto seleccionado num campo de texto e guarda-o na área de 
+    transferência. Cole o texto em qualquer outro lugar usando o comando Colar.</p>
+
+  <h3 id="copy">Copiar</h3>
+  <p>Copia o texto seleccionado num campo de texto e guarda-o na área de transferência. 
+    Cole o texto num campo de texto usando o comando Colar.</p>
+
+  <h3 id="paste">Colar</h3>
+  <p>Cola texto guardado na área de transferência num campo de texto.</p>
+
+  <h3 id="delete">Apagar</h3>
+  <p>Apaga o texto seleccionado num campo de texto.</p>
+
+  <h3 id="select_all">Seleccionar tudo</h3>
+  <p>Selecciona o texto todo e outros itens da página.</p>
+
+  <h3 id="find_in_this_page">Procurar nesta página...</h3>
+  <p>Exibe a barra de ferramentas Procura no fundo da janela do &brandShortName;.
+    Introduza no campo de texto da barra Procura o texto que deseja encontrar, 
+    enquanto você escreve o &brandShortName; localizará automaticamente e 
+    seleccionará na página a primeira ocorrência do termo que introduziu. Clique 
+    em <em>Seguinte</em> ou <em>Anterior</em> para procurar o termo noutros 
+    locais da página e clique em <em>Marcar todas</em> para realçar todas as 
+    ocorrências do texto na página.</p>
+
+  <h3 id="find_again">Procurar novamente</h3>
+  <p>Procura a próxima ocorrência do texto especificado no comando 
+    <em>Procurar nesta página...</em></p>
+
+  <h3 class="unix" id="prefs">&pref.pluralCaps;</h3>
+  <p class="unix">Exibe a <a href="prefs.xhtml">janela de &pref.plural;</a>
+    onde poderá mudar várias &pref.plural; do &brandShortName;.</p>
+
+<h2 id="view">Ver</h2>
+
+  <h3 id="toolbars">Barras de ferramentas</h3>
+
+    <h4 id="navigation_toolbar">Barra de navegação</h4>
+    <p>Altera a visibilidade da Barra de navegação, que normalmente contém os 
+      botões padrão de navegação (Retroceder, Avançar, Parar, etc.).</p>
+
+    <h4 id="bookmarks_toolbar">Barra de marcadores</h4>
+    <p>Altera a visibilidade da Barra de marcadores, que contém marcadores
+      para os sítios favoritos.</p>
+
+    <h4 id="customize">Personalizar...</h4>
+    <p>Exibe a caixa de diálogo de personalização das barras de ferramentas. 
+      Poderá arrastar os itens que quiser para dentro ou para fora de uma 
+      das barras de ferramentas. Poderá também <span class="noMac">clicar com o botão direito</span>
+      <span class="mac">premir &ctrlKey; e clicar</span> na Barra de navegação e clicar em 
+      <em>Personalizar...</em> para exibir esta caixa de diálogo.</p>
+
+  <h3 id="status_bar">Barra de estado</h3>
+  <p>Altera a visibilidade da barra de estado, localizada na base da janela do 
+    &brandShortName;. A barra de estado exibe informações sobre as páginas.</p>
+
+  <h3 id="sidebar">Barra lateral</h3>
+  <p>A barra lateral poderá exibir os seus marcadores ou o seu histórico. Poderá fechar
+    a barra lateral clicando no X do canto superior direito.</p>
+
+    <h4 id="view_sidebar_bookmarks">Marcadores</h4>
+    <p>Exibe os marcadores na barra lateral, que serão continuamente visíveis.
+      Isto poderá ser muito útil se acede aos marcadores com frequência.</p>
+
+    <h4 id="view_sidebar_history">Histórico</h4>
+    <p>Exibe o histórico na barra lateral, que mantém constantemente visível o histórico de sítios visitados. 
+      Para ajustar o número de dias memorizados pelo &brandShortName;, clique 
+      em &pref.menuPath; e seleccione o painel <em>Privacidade</em>.</p>
+
+  <h3 id="stop">Parar</h3>
+  <p>Pára de carregar a página que está a visitar. Isto é equivalente a clicar
+    no botão <em>Parar</em> da Barra de ferramentas.</p>
+
+  <h3 id="reload">Recarregar</h3>
+  <p>Obtém a versão mais recente da página actual. Isto é equivalente a clicar
+    no botão <em>Recarregar</em> da Barra de ferramentas.</p>
+	
+  <h3 id="text_size">Tamanho do texto</h3>
+  <p>Se o texto da página estiver muito pequeno ou muito grande, pode alterá-lo para um tamanho mais confortável.</p>
+
+    <h4 id="increase_text_size">Aumentar</h4>
+    <p>Aumenta em uma unidade o tamanho do texto da página actual. Poderá também 
+      aumentar ou diminuir o tamanho do texto usando o rato (mais informações 
+      em <a href="mouse_shortcuts.xhtml">Atalhos do Rato</a>)</p>
+			
+    <h4 id="decrease_text_size">Diminuir</h4>
+    <p>Diminui em uma unidade o tamanho do texto da página actual. Poderá também 
+      aumentar ou diminuir o tamanho do texto usando o rato (mais informações 
+      em <a href="mouse_shortcuts.xhtml">Atalhos do Rato</a>)</p>
+			
+    <h4 id="reset_text_size">Normal</h4>
+    <p>Exibe o texto da página actual usando o tamanho da letra por omissão.</p>
+
+  <h3 id="page_style">Estilo de página</h3>
+  <p>Permite que seleccione um estilo para a página exibida. Por omissão, 
+    &quot;Estilo de página básico&quot; está seleccionado, a não ser que o autor da página 
+    especifique um estilo diferente.</p>
+
+    <h4 id="no_style">Sem estilos</h4>
+    <p>Remove toda a formatação de estilos da página.</p>
+
+    <h4 id="basic_page_style">Estilo de página básico</h4>
+    <p>Exibe a página com o estilo principal especificado pelo autor.</p>
+
+    <h4 id="alternate_style"></h4>
+    <p>Se o autor especificar estilos alternativos para a página, o 
+      &brandShortName; irá listá-los aqui para que os possa seleccionar.</p>
+
+  <h3 id="character_encoding">Codificação de caracteres</h3>
+  <p>Permite que altere manualmente a codificação de caracteres de uma página. 
+    Normalmente, o &brandShortName; faz isto automaticamente.</p>
+
+  <h3 id="page_source">Código fonte da página</h3>
+  <p>Exibe o código fonte da página actual. <!--A future version of
+    &brandShortName; will be capable of launching an external program for
+    viewing the source.--></p>
+
+  <div class="noMac">
+    <h3 id="full_screen">Ecrã inteiro</h3>
+    <p>Altera para o modo Ecrã inteiro. Se a Barra de navegação estiver escondida,  
+      pode restaurar a janela do &brandShortName; premindo <kbd>F11</kbd>.</p>
+  </div>
+
+<h2 id="go">Histórico</h2>
+	<p>O menu Histórico contém uma lista das últimas páginas visitadas.</p>
+
+  <h3 id="back">Retroceder</h3>
+  <p>Retrocede uma página visitada no histórico. Isto equivale a clicar no botão 
+    <em>Retrocede uma página</em> na Barra de ferramentas.</p>
+
+  <h3 id="forward">Avançar</h3>
+  <p>Avança uma página visitada no histórico. Isto equivale a clicar no botão 
+    <em>Avança uma página</em> na Barra de ferramentas.</p>
+
+  <h3 id="home">Início</h3>
+  <p>Exibe a página inicial. Isto equivale a clicar no botão 
+    <em>Página inicial</em> na Barra de ferramentas. Para mudar a página inicial, 
+    clique em &pref.menuPath; e seleccione o separador <em>Geral</em>. Pode escolher 
+    entre usar uma página em branco, a página exibida (ou grupo de separadores), um marcador 
+    ou introduzir um endereço manualmente.</p>
+
+  <h3 id="closed_tabs">Separadores fechados recentemente</h3>
+  <p>Permite-lhe recuperar um separador fechado recentemente na janela actual, seleccionando-a da lista. Para mais informações, veja o tópico <a href="tabbed_browsing.xhtml#closing_tabs">Fechar e Recuperar Separadores</a>.</p>
+
+  <h3 id="go_history">Mostrar na barra lateral</h3>
+  <p>Exibe o painel Histórico, que mantém visível o histórico das páginas visitadas. 
+    Para ajustar o número de dias a serem memorizados pelo &brandShortName;, clique em 
+    &pref.menuPath; e seleccione o painel <em>Privacidade</em>.</p>
+
+<h2 id="bookmarks">Marcadores</h2>
+
+  <p>Este menu contém todos os marcadores guardados.</p>
+
+  <h3 id="add_to_bookmarks">Adicionar aos marcadores...</h3>
+  <p>Adiciona a página actual aos marcadores. Uma caixa de diálogo será exibida, 
+    permitindo escolher um título para o marcador e especificar a pasta de 
+    armazenamento.</p>
+
+ <h3 id="subscribe">Subscrever a esta página...</h3>
+
+  <p>Apresenta uma pré-visualização da <a href="glossary.xhtml#feed">fonte</a> do
+    sítio actual. Através da página de pré-visualização, pode subscrever a fonte utilizando
+    um <a href="glossary.xhtml#live_bookmark">Marcador Dinâmico</a>, um leitor de fontes
+    no seu computador, ou um serviço web. Se escolheu subscrever sempre
+    utilizando um Marcador Dinâmico ou um leitor de fontes do painel <em>Fontes</em> de
+    <span class="win menuPath">Ferramentas &gt; Opções</span><span class="unix menuPath">Editar &gt; Preferências</span><span class="mac menuPath">Firefox &gt; Preferências</span>, não verá a página de pré-visualização.</p>
+
+
+  <h3 id="bookmark_all_tabs">Adicionar os separadores aos marcadores</h3>
+  <p>Adiciona todas os separadores da janela a uma nova pasta dos marcadores. Uma 
+    caixa de diálogo será exibida, permitindo escolher um título para a pasta e 
+    especificar onde a quer guardar.</p>
+
+  <h3 id="organize_bookmarks">Organizar marcadores...</h3>
+  <p>Exibe o Gestor de marcadores, uma janela onde pode organizar os seus 
+    marcadores. Pode ordená-los, renomeá-los e modificar as suas propriedades, 
+    bem como adicionar novos marcadores, mover e remover os existentes.</p>
+
+<h2 id="tools">Ferramentas</h2>
+  <h3 id="web_search">Pesquisa web</h3>
+  <p>Posiciona o cursor do teclado no campo de pesquisa da Barra de navegação
+    para que possa introduzir a expressão que deseja pesquisar.</p>
+
+  <h3 id="downloads">Transferências</h3>
+  <p>Abre o Gestor de transferências, onde poderá ver as transferências actuais e as finalizadas.</p>
+
+  <h3 id="add_ons">Extras</h3>
+  <p>Abre o Gestor de extras, onde poderá ver, instalar, configurar, actualizar e desinstalar as suas extensões e temas.
+    Para mais informações, leia o 
+    tópico <a href="customization.xhtml#add_ons">Extras</a> da ajuda.</p>
+
+  <h3 id="javascript_console">Consola de erros</h3>
+  <p>Abre a Consola do JavaScript, que regista erros nos códigos JavaScript das 
+    páginas. JavaScript é uma linguagem de scripts utilizada com frequência na 
+    construção de páginas web. Os programadores utilizam o JavaScript para 
+    tornar as páginas mais interactivas; o JavaScript também é bastante usado para 
+    validar dinamicamente formulários e botões de selecção.</p>
+
+  <h3 id="page_info">Informação da página</h3>
+  <p>Exibe diversas informações sobre a página actual, tais como o tipo de documento, 
+    codificação, tamanho e informações de segurança. Também exibe listas de imagens, sons e vídeos e 
+    apontadores disponíveis na página.</p>
+
+  <h3 id="clear_private_data">Limpar dados privados...</h3>
+  <p>Limpa os itens seleccionados na caixa de diálogo <em>Limpar dados privados</em> 
+    do painel <em>Privacidade</em> em &pref.menuPath;. Por omissão, o &brandShortName; exige 
+    confirmação antes de executar a limpeza.</p>
+	
+  <h3 class="win" id="options">&pref.pluralCaps;</h3>
+  <p class="win">Exibe a janela de <a href="prefs.xhtml">&pref.pluralCaps;</a>, 
+    onde poderá modificar várias &pref.plural; do &brandShortName;.</p>
+
+<div class="mac">
+  <h2 id="window">Janela</h2>
+
+    <h3 id="minimize">Minimizar</h3>
+    <p>Minimiza a janela actual.</p>
+
+    <h3 id="zoom">Zoom</h3>
+    <p>Aumenta ou restaura a janela actual.</p>
+
+    <h3 id="open-windows">Abrir janelas</h3>
+    <p>Exibe uma lista de todas as janelas abertas por título.</p>
+</div>
+
+<h2 id="help">Ajuda</h2>
+
+  <h3 id="help_contents">
+    <span class="noMac">Tópicos de ajuda</span>
+    <span class="mac">Ajuda do &brandShortName;</span>
+  </h3>
+  <p>Abre a janela de ajuda do &brandShortName;, que contém informações 
+    úteis que poderão ajudá-lo na navegação pela internet.</p>
+
+  <div class="win">
+    <h3 id="for_ie_users">Para utilizadores do Internet Explorer</h3>
+    <p>Abre a janela de ajuda do &brandShortName; e exibe informações que poderão
+      auxiliar os utilizadores do Internet Explorer a mudar para o &brandShortName;.</p>
+  </div>
+
+  <h3 id="relnotes">Notas de lançamento</h3>
+  <p>Exibe informações sobre a instalação, desinstalação e configuração do 
+    &brandShortName;, além de outras informações importantes e as últimas 
+    modificações do &brandShortName;. Requer uma ligação à Internet.</p>
+	
+  <h3 id="reporter">Reportar sítios com problemas...</h3>
+  <p>Permite-lhe avisar a equipa do &brandShortName; sobre sítios que não
+    funcionam correctamente no &brandShortName;.</p>
+
+  <h3 id="web_forgery">Denunciar tentativa de falsificação...</h3>
+  <p>Permite-lhe reportar sítios que acredite serem falsificados ou de engodo.  
+    A Phishing Protection no &brandShortName; é fornecida pelo Google. Os
+    dados que submeter serão enviados para o Google e utilizados para melhorar
+    esta funcionalidade. O seu relatório será anónimo de acordo com a 
+    política de privacidade do Google.  Requer uma ligação à Internet.</p>
+
+  <h3 id="check_for_updates">Procurar por actualizações...</h3>
+  <p>Exibe uma caixa de diálogo que verifica a existência de actualizações para Firefox e pergunta se as quer descarregar caso existam. Depois
+de uma actualização ter sido descarregada, a caixa de diálogo pede-lhe para reiniciar o &brandShortName;. Tenha em atenção que o nome deste item do menu será outro quando a actualização for descarregada ou estiver pronta a ser instalada.</p>
+
+  <div class="noMac">
+    <h3 id="about_mozilla_firebird">Sobre o &brandFullName;</h3>
+    <p>Exibe uma caixa de diálogo com informações sobre o &brandShortName;, incluindo a versão 
+      actual e uma breve lista de créditos.</p>
+  </div>
+
+<div class="contentsBox"><em>12 de Setembro de 2006</em></div>
+<p>Copyright &copy; 2003-2006 Colaboradores do projecto de visualização da
+  Ajuda Mozilla.</p>
+
+</body>
+</html>

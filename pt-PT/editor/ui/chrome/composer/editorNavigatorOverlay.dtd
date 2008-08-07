@@ -1,0 +1,7 @@
+
+<!ENTITY editPageCmd.label                "Editar Página no Compositor"> 
+<!ENTITY editPageCmd.accesskey            "i">
+
+<!ENTITY editLinkCmd.label                "Editar ligação no Compositor">
+<!ENTITY editLinkCmd.accesskey            "E">
+

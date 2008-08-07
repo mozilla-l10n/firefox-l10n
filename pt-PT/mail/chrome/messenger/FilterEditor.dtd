@@ -1,0 +1,39 @@
+<!ENTITY window.title "Regras dos Filtros">
+
+<!ENTITY filterName.label "Nome do Filtro:">
+<!ENTITY filterName.accesskey "N">
+
+<!ENTITY junk.label "Lixo Electrónico">
+<!ENTITY notJunk.label "Não é Lixo Electrónico">
+
+<!ENTITY lowestPriorityCmd.label "Muito Baixa">
+<!ENTITY lowPriorityCmd.label "Baixa">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY highPriorityCmd.label "Alta">
+<!ENTITY highestPriorityCmd.label "Muito Alta">
+
+<!ENTITY conditionDesc.label "Para mensagens que cheguem:">
+<!ENTITY filterActionDesc.label "Efectuar estas acções:">
+<!ENTITY filterActionDesc.accesskey "f">
+
+<!ENTITY newFolderButton.label "Nova pasta...">
+<!ENTITY newFolderButton.accesskey "o">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Mover Mensagem para">
+<!ENTITY copyMessage.label "Copiar Mensagem para">
+<!ENTITY forwardTo.label "Reencaminhar Mensagem para">
+<!ENTITY replyWithTemplate.label "Responder com papel de carta">
+<!ENTITY markMessageRead.label "Marcar como Lida">
+<!ENTITY markMessageStarred.label "Adicionar Estrela">
+<!ENTITY setPriority.label "Configurar prioridade para">
+<!ENTITY addTag.label "Tag na mensagem">
+<!ENTITY setJunkScore.label "Configurar o Estado do Lixo Electrónico para">
+<!ENTITY deleteMessage.label "Apagar Mensagem">
+<!ENTITY deleteFromPOP.label "Apagar do Servidor POP">
+<!ENTITY fetchFromPOP.label "Procurar a partir do servidor POP">
+<!ENTITY ignoreThread.label "Ignorar Tópico">
+<!ENTITY ignoreSubthread.label "Ignorar Sub-tópico">
+<!ENTITY watchThread.label "Ver Tópico">
+<!ENTITY stopExecution.label "Parar Execução do Filtro">
+

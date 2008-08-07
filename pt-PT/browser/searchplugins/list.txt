@@ -1,0 +1,7 @@
+google
+yahoo-br
+sapo
+priberam
+wikipedia-ptpt
+amazon-en-GB
+

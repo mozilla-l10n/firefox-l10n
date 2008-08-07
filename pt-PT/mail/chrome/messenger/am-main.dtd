@@ -1,0 +1,34 @@
+<!-- extracted from am-main.xul -->
+
+<!ENTITY accountTitle.label "Configuração de Conta">
+<!ENTITY accountName.label "Nome da Conta:">
+<!ENTITY accountName.accesskey "n">
+<!ENTITY accountNameDesc.label "O nome da conta é usado para identificar cada conta">
+<!ENTITY identityTitle.label "Identidade Pré-Definida">
+<!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação que as outras pessoas vêem quando lêem as suas mensagens.">
+<!ENTITY name.label "O seu Nome:">
+<!ENTITY name.accesskey "N">
+<!ENTITY email.label "Endereço de Correio Electrónico:">
+<!ENTITY email.accesskey "E">
+<!ENTITY replyTo.label "Responder ao Endereço:">
+<!ENTITY replyTo.accesskey "R">
+<!ENTITY organization.label "Organização:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "Anexar esta assinatura:">
+<!ENTITY signature.accesskey "t">
+<!ENTITY edit.label "Editar...">
+<!ENTITY choose.label "Escolher...">
+<!ENTITY choose.accesskey "l">
+<!ENTITY editVCard.label "Editar Cartão...">
+<!ENTITY editVCard.accesskey "d">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Anexar o meu vCard à mensagem">
+<!ENTITY attachVCard.accesskey "u">
+
+<!ENTITY manageIdentities.label "Gerir Identidades...">
+<!ENTITY manageIdentities.accesskey "i">
+
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+<!ENTITY smtpName.label "Servidor de Envio (SMTP):">
+<!ENTITY smtpName.accesskey "S">
+<!ENTITY smtpDefaultServer.label "Usar servidor pré-definido">

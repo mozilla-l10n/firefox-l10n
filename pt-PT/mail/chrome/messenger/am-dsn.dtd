@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Relatório de Entrega">
+<!ENTITY useGlobalPrefs.label       "Usar as minhas definições gerais de relatórios para esta conta">
+<!ENTITY useGlobalPrefs.accesskey   "U">
+<!ENTITY useCustomPrefs.label       "Personalizar o relatório de entrega para esta conta">
+<!ENTITY useCustomPrefs.accesskey   "z">
+<!ENTITY requestAlways.label        "Ao enviar mensagens, pedir sempre um relatório de entrega">
+<!ENTITY requestAlways.accesskey    "A">
+<!ENTITY optionTitle.label          "Pedir relatório para:">
+<!ENTITY requestOnSucess.label      "Sucesso na entrega">
+<!ENTITY requestOnSucess.accesskey  "S">
+<!ENTITY requestOnFailure.label     "Falha na entrega">
+<!ENTITY requestOnFailure.accesskey "F">
+<!ENTITY requestOnDelay.label       "Atraso na entrega">
+<!ENTITY requestOnDelay.accesskey   "s">
+<!ENTITY requestNever.label         "Nunca receber relatório de entrega">
+<!ENTITY requestNever.accesskey     "N">

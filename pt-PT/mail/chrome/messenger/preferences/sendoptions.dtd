@@ -1,0 +1,41 @@
+<!ENTITY dialog.title                 "Opções de envio">
+<!ENTITY sendMail.title               "Formato Texto">
+<!ENTITY sendMaildesc.label           "Quando envia mensagens no formato HTML e um ou mais destinatários não estão indicados como aptos a receber em HTML:">
+<!ENTITY askMe.label                  "Perguntar-me o que fazer">
+<!ENTITY askMe.accesskey              "P">
+<!ENTITY convertPlain.label           "Converter a mensagem para formato de texto">
+<!ENTITY convertPlain.accesskey       "C">
+<!ENTITY sendHTML.label               "Enviar a mensagem em HTML de qualquer maneira">
+<!ENTITY sendHTML.accesskey           "n">
+<!ENTITY sendBoth.label               "Enviar a mensagem tanto em formato de texto como em HTML">
+<!ENTITY sendBoth.accesskey           "E">
+<!ENTITY receiveHTML.label            "Se souber que um destinatário em particular pode receber mensagens em HTML, desmarque a opção 'Enviar correio electrónico no formato de texto' no contacto do destinatário no livro de endereços.">
+<!ENTITY override.label               "Nota: Use o Livro de Endereços para especificar o formato de texto preferido para os destinatários.">
+
+<!ENTITY domaindesc.label             "Quando envia uma mensagem para um endereço com um dos nomes do domínio indicados em baixo o, &brandShortName; envia automaticamente a mensagem no formato correcto.">
+<!ENTITY HTMLTab.label                "Domínios HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Domínios do formato de texto">
+<!ENTITY PlainTextTab.accesskey       "t">
+<!ENTITY AddHtmlDomain.label              "Adicionar...">
+<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddPlainText.label           "Adicionar…">
+<!ENTITY AddPlainText.accesskey       "a">
+<!ENTITY DeleteHtmlDomain.label           "Eliminar">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.label        "Eliminare">
+<!ENTITY DeletePlainText.accesskey    "i">
+
+<!ENTITY add.htmltitle                "Adicionar Nome do Domínio HTML">
+<!ENTITY add.htmldomain               "Nome do Domínio HTML:">
+<!ENTITY add.htmldomain.accesskey     "T">
+<!ENTITY add.plaintexttitle           "Adicionar um Nome de Domínio">
+<!ENTITY add.plaintextdomain          "Nome do Domínio em formato de texto:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Erro no Nome do Domínio">
+<!ENTITY duplicationError.label       "O Nome do Domínio @string@ já existe nesta lista.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Um Nome do Domínio não pode aparecer em ambas as listas de HTML e Formato Texto. O Nome do Domínio @string@ já existe.">

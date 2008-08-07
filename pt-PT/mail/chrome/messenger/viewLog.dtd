@@ -1,0 +1,9 @@
+<!ENTITY viewLog.title "Registo dos Filtros">
+<!ENTITY viewLogInfo.text "O Registo do Filtro documenta os filtros que funcionaram nesta conta. Use a caixa de verificação abaixo para activar a entrada.">
+<!ENTITY clearLog.label "Limpar Registo">
+<!ENTITY clearLog.accesskey "L">
+<!ENTITY enableLog.label "Activar o Registo do Filtro">
+<!ENTITY enableLog.accesskey "A">
+<!ENTITY closeLog.label "Fechar">
+<!ENTITY closeLog.accesskey "F">
+
