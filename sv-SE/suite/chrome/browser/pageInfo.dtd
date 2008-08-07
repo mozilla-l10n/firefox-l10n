@@ -1,0 +1,151 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001-2007
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#   		  Niklas Lundström <d00-nlu@nada.kth.se>
+#		  Mikael Hedberg <hedberg@novasphere.net>
+#		  Hasse Wallanger <jasajudeju@telia.com>
+#		  Lars P M <larspeemm@netscape.net>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
+
+<!ENTITY  copy.key              "c">
+<!ENTITY  copy.label            "Kopiera">
+<!ENTITY  copy.accesskey        "K">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Markera allt">
+<!ENTITY  selectall.accesskey   "M">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Allmänt">
+<!ENTITY  generalTab.accesskey      "A">
+<!ENTITY  generalURL            "Adress:">
+<!ENTITY  generalType           "Typ:">
+<!ENTITY  generalMode           "Renderingsläge:">
+<!ENTITY  generalSize           "Storlek:">
+<!ENTITY  generalReferrer       "Hänvisande URL:">
+<!ENTITY  generalSource         "Källa:">
+<!ENTITY  generalModified       "Senast ändrad:">
+<!ENTITY  generalEncoding       "Kodning:">
+<!ENTITY  generalMetaName       "Namn:">
+<!ENTITY  generalMetaContent    "Innehåll:">
+<!ENTITY  generalSecurityMore   "Mer">
+<!ENTITY  generalSecurityMore.accesskey "e">
+
+<!ENTITY  formsTab              "Formulär">
+<!ENTITY  formsTab.accesskey        "F">
+<!ENTITY  formAction            "Formuläråtgärd">
+<!ENTITY  formMethod            "Metod">
+<!ENTITY  formName              "Namn">
+<!ENTITY  formNo                "Nr.">
+<!ENTITY  formEncoding          "Kodning:">
+<!ENTITY  formTarget            "Mål:">
+<!ENTITY  formFields            "Fält:">
+<!ENTITY  formLabel             "Etikett">
+<!ENTITY  formFName             "Fältnamn">
+<!ENTITY  formType              "Typ">
+<!ENTITY  formCValue            "Nuvarande värde">
+
+<!ENTITY  linksTab              "Länkar">
+<!ENTITY  linksTab.accesskey        "L">
+<!ENTITY  linkNo                "Nr">
+<!ENTITY  linkName              "Namn">
+<!ENTITY  linkAddress           "Adress">
+<!ENTITY  linkType              "Typ">
+<!ENTITY  linkTarget            "Mål">
+<!ENTITY  linkAccessKey         "Snabbtangent">
+
+<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab.accesskey        "M">
+<!ENTITY  mediaURL              "Adress:">
+<!ENTITY  mediaAlt              "Ersättningstext:">
+<!ENTITY  mediaAltHeader        "Ersättningstext">
+<!ENTITY  mediaAddress          "Adress">
+<!ENTITY  mediaType             "Typ">
+<!ENTITY  mediaSize             "Storlek">
+<!ENTITY  mediaCount            "Antal gånger">
+<!ENTITY  mediaDimensions       "Dimensioner:">
+<!ENTITY  mediaPhysDimensions   "Egentlig storlek:">
+<!ENTITY  mediaTitle            "Titel:">
+<!ENTITY  mediaLongdesc         "Lång beskrivning:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Spara som…">
+<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs2.accesskey "p">
+<!ENTITY  mediaPreview          "Förhandsgranskning:">
+
+<!ENTITY  feedTab               "Kanaler">
+<!ENTITY  feedTab.accesskey     "K">
+<!ENTITY  feedSubscribe         "Prenumerera">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab               "Tillåtelser">
+<!ENTITY  permTab.accesskey     "T">
+<!ENTITY  permUseDefault        "Använd förinställning">
+<!ENTITY  permAllow             "Tillåt">
+<!ENTITY  permAllowSession      "Tillfälliga">
+<!ENTITY  permBlock             "Blockera">
+<!ENTITY  permissionsFor        "Tillåtelser för:">
+<!ENTITY  permImage             "Hämta bilder">
+<!ENTITY  permPopup             "Öppna extrafönster">
+<!ENTITY  permCookie            "Lagra kakor">
+<!ENTITY  permInstall           "Installera tillägg eller teman">
+
+<!ENTITY  securityTab           "Säkerhet">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Säkerhetsinformation om sidan">
+<!ENTITY  securityView.certView "Visa certifikatet">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Okänd">
+
+
+<!ENTITY  securityView.identity.header   "Webbplatsens identitet">
+<!ENTITY  securityView.identity.owner    "Innehavare: ">
+<!ENTITY  securityView.identity.domain   "Webbplats: ">
+<!ENTITY  securityView.identity.verifier "Verifierad av: ">
+
+<!ENTITY  securityView.privacy.header                   "Integritet &amp; Historik">
+<!ENTITY  securityView.privacy.history                  "Har jag besökt den här webbplatsen tidigare i dag?">
+<!ENTITY  securityView.privacy.cookies                  "Lagrar den här webbplatsen uppgifter (kakor) på min dator?">
+<!ENTITY  securityView.privacy.viewCookies              "Visa kakor">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Har jag sparat några lösenord för den här webbplatsen?">
+<!ENTITY  securityView.privacy.viewPasswords            "Visa sparade lösenord">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "ö">
+
+<!ENTITY  securityView.technical.header                 "Tekniska detaljer">

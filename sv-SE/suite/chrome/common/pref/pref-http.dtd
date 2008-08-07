@@ -1,0 +1,19 @@
+<!ENTITY pref.http.title                     "HTTP-anslutning">
+
+<!-- Network-->
+<!ENTITY prefDirect.label                    "Direktanslutningsalternativ">
+<!ENTITY prefProxy.label                     "Proxyserveranslutningsalternativ">
+<!ENTITY prefEnableHTTP10.label              "Använd HTTP 1.0">
+<!ENTITY prefEnableHTTP10.accesskey          "A">
+<!ENTITY prefEnableHTTP10Proxy.accesskey     "n">
+<!ENTITY prefEnableHTTP11.label              "Använd HTTP 1.1">
+<!ENTITY prefEnableHTTP11.accesskey          "v">
+<!ENTITY prefEnableHTTP11Proxy.accesskey     "d">
+<!ENTITY prefEnableKeepAlive.label           "Aktivera keep-alive">
+<!ENTITY prefEnableKeepAlive.accesskey       "k">
+<!ENTITY prefEnableKeepAliveProxy.accesskey  "t">
+<!ENTITY prefEnablePipelining.label          "Aktivera pipelining">
+<!ENTITY prefEnablePipelining.accesskey      "p">
+<!ENTITY prefEnablePipeliningProxy.accesskey "i">
+<!ENTITY prefPara                            "HTTP-anslutningar kan finjusteras med dessa inställningar för att förbättra antingen prestanda eller kompatibilitet. Till exempel fungerar inte en del proxyservrar utan HTTP/1.0 (se dokumentationen för mer information).">
+<!ENTITY prefPipeWarning                     "VARNING: Pipelining är en experimentell funktion, utvecklad för att öka hastigheten vid inläsning av webbsidor, som dessvärre har bristfälligt stöd i en del webb- och proxyservrar.">

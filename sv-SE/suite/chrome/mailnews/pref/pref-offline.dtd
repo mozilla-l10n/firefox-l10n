@@ -1,0 +1,30 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY pref.offline.title               "Nedkopplat läge &amp; Diskutrymme">
+<!ENTITY pref.offline.caption             "Nedkopplat läge">
+<!ENTITY textStartUp                      "Vid start:">
+<!ENTITY textStartUp.accesskey            "V">
+<!ENTITY menuitemRememberPrevState        "Kom ihåg föregående uppkopplingsläge">
+<!ENTITY menuitemAskMe                    "Fråga om uppkoppling vid start">
+<!ENTITY menuitemAlwaysOnline             "Starta alltid i uppkopplat läge">
+<!ENTITY menuitemAlwaysOffline            "Starta alltid i nedkopplat läge">
+<!ENTITY menuitemAutomatic                "Avgör automatiskt (om möjligt)">
+<!ENTITY textGoingOnline                  "Skicka utgående meddelanden vid uppkoppling?">
+<!ENTITY radioAutoSend                    "Ja">
+<!ENTITY radioAutoSend.accesskey          "J">
+<!ENTITY radioNotSend                     "Nej">
+<!ENTITY radioNotSend.accesskey           "N">
+<!ENTITY radioAskUnsent                   "Fråga">
+<!ENTITY radioAskUnsent.accesskey         "r">
+<!ENTITY textGoingOffline                 "Hämta meddelanden för läsning i nedkopplat läge vid nedkoppling?">
+<!ENTITY radioAutoDownload                "Ja">
+<!ENTITY radioAutoDownload.accesskey      "a">
+<!ENTITY radioNotDownload                 "Nej">
+<!ENTITY radioNotDownload.accesskey       "e">
+<!ENTITY radioAskDownload                 "Fråga">
+<!ENTITY radioAskDownload.accesskey       "å">
+<!ENTITY Diskspace                        "Diskutrymme">
+<!ENTITY offlineCompact.label             "Komprimera mappar när det sparar mer än">
+<!ENTITY offlineCompact.accesskey         "m">
+<!ENTITY kb.label                         "kB">

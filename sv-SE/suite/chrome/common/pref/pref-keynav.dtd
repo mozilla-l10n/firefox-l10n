@@ -1,0 +1,21 @@
+<!ENTITY pref.keyNav.title "Tangentnavigering">
+<!ENTITY tabNavigationBehavior.label "Tabulatornavigering">
+<!ENTITY tabNavigationLinks.label "Länkar">
+<!ENTITY tabNavigationLinks.accesskey "L">
+<!ENTITY tabNavigationForms.label "Knappar, alternativknappar, markeringsalternativ och urvalslistor">
+<!ENTITY tabNavigationForms.accesskey "K">
+<!ENTITY tabNavigationTextboxes.label "Observera att textfält alltid utgör en del i tabulatorkedjan.">
+<!ENTITY tabNavigationDesc.label "När tab- eller skift- och tab-tangenterna trycks ned, flytta mellan:">
+<!ENTITY findAsYouTypeBehavior.label "Hitta medan du skriver">
+<!ENTITY findAsYouTypeTip.label "Tips: För att manuellt starta &quot;Hitta medan du skriver&quot; så skriv / för att hitta text eller ' för att hitta länkar, följt av texten som du vill hitta.">
+<!ENTITY findAsYouTypeTimeout.label "Avbryt sökandet efter några sekunders inaktivitet">
+<!ENTITY findAsYouTypeTimeout.accesskey "A">
+<!ENTITY findAsYouTypeSound.label "Ge en ljudsignal om texten inte hittas">
+<!ENTITY findAsYouTypeSound.accesskey "s">
+<!ENTITY findAsYouTypeEnableAuto.label "Hitta automatiskt när du skriver in på en webbsida:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "w">
+<!ENTITY findAsYouTypeAutoText.label "Vilken som helst text på sidan">
+<!ENTITY findAsYouTypeAutoText.accesskey "V">
+<!ENTITY findAsYouTypeAutoLinks.label "Länkar enbart">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "ä">
+

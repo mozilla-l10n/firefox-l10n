@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "För att spara diskutrymme, hämta inte:">
+<!ENTITY doNotDownload.label "För att spara diskutrymme, hämta inte för nedkopplat läge:">
+<!ENTITY offlineNewFolder.label "Nya mappar ska kunna användas när jag arbetar i nedkopplat läge">
+<!ENTITY offlineNewFolder.accesskey "y">
+<!ENTITY offlineNotDownload.label "Meddelanden större än">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "kB">
+<!ENTITY days.label "dagar">
+<!ENTITY daysOld.label "dagar">
+<!ENTITY message.label "meddelandena">
+<!ENTITY nntpNotDownloadRead.label "Lästa meddelanden">
+<!ENTITY nntpNotDownloadRead.accesskey "s">
+<!ENTITY nntpDownloadMsg.label "Meddelanden äldre än">
+<!ENTITY nntpDownloadMsg.accesskey "ä">
+<!ENTITY retentionCleanup.label "För att spara diskutrymme kan gamla meddelanden tas bort">
+<!ENTITY retentionKeepMsg.label "Ta bort meddelanden äldre än">
+<!ENTITY retentionKeepMsg.accesskey "e">
+<!ENTITY retentionKeepAll.label "Ta inte bort några meddelanden">
+<!ENTITY retentionKeepAll.accesskey "b">
+<!ENTITY retentionKeepNew.label "Ta bort alla utom de senaste">
+<!ENTITY retentionKeepNew.accesskey "a">
+<!ENTITY retentionKeepUnread.label "Ta alltid bort lästa meddelanden">
+<!ENTITY retentionKeepUnread.accesskey "n">
+<!ENTITY nntpRemoveBody.label "Endast innehållet i meddelanden yngre än">
+<!ENTITY nntpRemoveBody.accesskey "y">
+<!ENTITY offlineSelectNntp.label "Välj diskussionsgrupper för arbete i nedkopplat läge…">
+<!ENTITY offlineSelectNntp.accesskey "V">
+<!ENTITY offlineSelectImap.label "Välj mappar för arbete i nedkopplat läge…">
+<!ENTITY offlineSelectImap.accesskey "V">
+<!ENTITY offlineDesc.label "Funktionen Arbeta i nedkopplat läge gör det möjligt att hämta meddelanden så att du kan läsa dem även när du arbetar nedkopplad.">
+<!ENTITY makeInboxMsgsAvailable.label "Inkommande meddelanden ska göras tillgängliga när jag arbetar i nedkopplat läge">
+<!ENTITY makeInboxMsgsAvailable.accesskey "I">
+<!ENTITY offlineGroupTitle.label "Arbeta i nedkopplat läge">
+<!ENTITY diskspaceGroupTitle.label "Diskutrymme">

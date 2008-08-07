@@ -1,0 +1,20 @@
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Server för utgående e-post (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Även om du kan ange mer än en server för utgående (SMTP), rekommenderas det endast för avancerade användare. Att ha flera SMTP-servrar inställda kan orsaka problem när meddelanden skickas.">
+
+<!ENTITY smtpListAdd.label  "Lägg till…">
+<!ENTITY smtpListAdd.accesskey  "ä">
+<!ENTITY smtpListEdit.label "Redigera…">
+<!ENTITY smtpListEdit.accesskey "R">
+<!ENTITY smtpListDelete.label "Ta bort">
+<!ENTITY smtpListDelete.accesskey "b">
+<!ENTITY smtpListSetDefault.label "Ange standard">
+<!ENTITY smtpListSetDefault.accesskey "e">
+
+<!ENTITY serverDescription.label "Beskrivning: ">
+<!ENTITY serverName.label "Servernamn: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label   "Användarnamn: ">
+<!ENTITY useSecureConnection.label   "Säker anslutning: ">
+<!ENTITY useSecureAuthentication.label   "Säker autentisering: ">

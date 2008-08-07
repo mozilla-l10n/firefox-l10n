@@ -1,0 +1,25 @@
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Källkoden till: ">
+
+<!ENTITY viewPartialSourceWindow.title "DOM-källa">
+
+<!ENTITY menu_wrapLongLines.title "Bryt långa rader"> 
+<!ENTITY menu_wrapLongLines.accesskey "B">
+
+<!ENTITY menu_highlightSyntax.label "Syntaxmarkering">
+<!ENTITY menu_highlightSyntax.accesskey "S">
+
+<!ENTITY findNextCmd.label "Sök nästa">
+<!ENTITY findNextCmd.accesskey "n">
+
+<!ENTITY goToLineCmd.label "Gå till rad…">
+<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY printSetupCmd.label "Utskriftsinställningar…">
+<!ENTITY printSetupCmd.accesskey "u">

@@ -1,0 +1,110 @@
+<!--
+   - The contents of this file are subject to the Mozilla Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/MPL/
+   - 
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   - 
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   - 
+   - The Original Code is the Mozilla Swedish translation for Mozilla 1.0.
+   - 
+   - The Initial Developer of the Original Code is Henrik Olsson.
+   - 
+   - Contributor(s):
+   - Henrik Olsson <henriko@algonet.se>
+   - Mikael Hedberg <hedberg@novasphere.net>
+   - Hasse Wallanger <jasajudeju@telia.com>
+  -->
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Sök efter meddelanden i:">
+<!ENTITY searchHeading.accesskey     "m">
+<!ENTITY searchSubfolders.label      "Sök i undermappar">
+<!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY resetButton.label           "Rensa">
+<!ENTITY resetButton.accesskey       "N">
+<!ENTITY optionsButton.label         "Alternativ">
+<!ENTITY closeButton.label           "Stäng">
+<!ENTITY openButton.label            "Öppna">
+<!ENTITY openButton.accesskey        "Ö">
+<!ENTITY deleteButton.label          "Ta bort">
+<!ENTITY deleteButton.accesskey      "T">
+<!ENTITY searchDialogTitle.label     "Sök efter meddelanden">
+<!ENTITY conditionDesc.label         "Sök efter meddelande som matchar:">
+<!ENTITY conditions.label            "Sökkriterier">
+<!ENTITY results.label               "Sökresultat">
+<!ENTITY fileHereMenu.label          "Arkivera här">
+<!ENTITY fileHereMenu.accesskey      "h">
+<!ENTITY fileButton.label            "Arkivera">
+<!ENTITY fileButton.accesskey        "v">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY goToFolderButton.label      "Öppna mapp">
+<!ENTITY goToFolderButton.accesskey  "p">
+<!ENTITY saveAsVFButton.label        "Spara som sökmapp">
+<!ENTITY saveAsVFButton.accesskey    "k">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Sök i:">
+<!ENTITY abSearchHeading.accesskey   "ö">
+<!ENTITY propertiesButton.label      "Egenskaper">
+<!ENTITY propertiesButton.accesskey  "E">
+<!ENTITY composeButton.label         "Skriv">
+<!ENTITY composeButton.accesskey     "r">
+<!ENTITY abSearchDialogTitle.label   "Avancerad sökning i adressbok">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "Tråd">
+<!ENTITY fromColumn.label "Från">
+<!ENTITY recipientColumn.label "Mottagare">
+<!ENTITY subjectColumn.label "Ämne">
+<!ENTITY dateColumn.label "Datum">
+<!ENTITY priorityColumn.label "Prioritet">
+<!ENTITY tagsColumn.label "Etikett">
+<!ENTITY accountColumn.label "Konto">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Storlek">
+<!ENTITY junkStatusColumn.label "Skräpstatus">
+<!ENTITY linesColumn.label "Rader">
+<!ENTITY unreadColumn.label "Olästa">
+<!ENTITY totalColumn.label "Totalt">
+<!ENTITY readColumn.label "Lästa">
+<!ENTITY receivedColumn.label "Mottagen">
+<!ENTITY starredColumn.label "Märken">
+<!ENTITY locationColumn.label "Plats">
+<!ENTITY idColumn.label "Mottagen ordning">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "Klicka för att välja vilka kolumner som ska visas">
+<!ENTITY threadColumn.tooltip "Klicka för att visa meddelandetrådar">
+<!ENTITY fromColumn.tooltip "Klicka för att ordna efter avsändare">
+<!ENTITY recipientColumn.tooltip "Klicka för att ordna efter mottagare">
+<!ENTITY subjectColumn.tooltip "Klicka för att ordna efter ämne">
+<!ENTITY dateColumn.tooltip "Klicka för att ordna efter datum">
+<!ENTITY priorityColumn.tooltip "Klicka för att ordna efter prioritet">
+<!ENTITY tagsColumn.tooltip "Klicka för att ordna efter etikett">
+<!ENTITY accountColumn.tooltip "Klicka för att ordna efter konto">
+<!ENTITY statusColumn.tooltip "Klicka för att ordna efter status">
+<!ENTITY sizeColumn.tooltip "Klicka för att ordna efter storlek">
+<!ENTITY junkStatusColumn.tooltip "Klicka för att ordna efter skräpstatus">
+<!ENTITY unreadColumn.tooltip "Antalet olästa meddelanden i tråden">
+<!ENTITY totalColumn.tooltip "Totala antalet meddelanden i tråden">
+<!ENTITY readColumn.tooltip "Klicka för att ordna efter lästa">
+<!ENTITY receivedColumn.tooltip "Klicka för att ordna efter mottagningsdatum">
+<!ENTITY starredColumn.tooltip "Klicka för att ordna efter märken">
+<!ENTITY locationColumn.tooltip "Klicka för att ordna efter plats">
+<!ENTITY idColumn.tooltip "Klicka för att ordna efter mottagen ordning">

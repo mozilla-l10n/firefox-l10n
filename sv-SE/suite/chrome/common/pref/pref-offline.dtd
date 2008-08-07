@@ -1,0 +1,12 @@
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY window.title  "Nedkopplat läge">
+<!ENTITY boxHeader  "Nedkopplat läge">
+<!ENTITY rHeader  "Nedkopplat läge">
+<!--LOCALIZATION NOTE (textStart): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY textStart   "När &brandShortName; startar:">
+<!ENTITY radioAskMode  "Fråga om jag vill ha uppkopplat eller nedkopplat läge">
+<!ENTITY radioUsePrev  "Kom ihåg föregående status"> 

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+  Hasse Wallanger <hasse@jasajudeju.se> (översättning)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Tillgänglighetsfunktioner i &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Tillgänglighetsfunktioner i &brandFullName;</h1>
+
+  <p>&brandShortName; har flera funktioner som gör att webbläsaren och innehåll
+    på webbsidor är tillgängliga för alla användare, även för de med svag syn
+    eller blinda, eller de som har svårt att använda tangentbord eller mus.</p>
+
+  <div class="contentsBox">I detta avsnitt:
+    <ul>
+    <li><a href="#using_a_keyboard">Använda tangentbordet</a></li>
+    <li><a href="#using_a_mouse">Använda musen</a></li>
+    <li><a href="#fonts_and_colors">Teckensnitt och färger</a></li>
+    <li><a href="#controlling_web_content">Styra webbinnehåll</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Kompatibilitet med
+      datorhjälpmedel</a></li>
+    <li><a href="#finding_help_online">Hitta hjälp på Internet</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Använda tangentbordet</h2>
+
+  <h3 id="keyboard_shortcuts">Kortkommandon</h3>
+
+  <p>En lista på de vanligaste kortkommandona finns i avsnittet
+    <a href="shortcuts.xhtml">&brandShortName; kortkommandon</a>.
+    På Internet finns <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">en jämförelselista
+    över kortkommandon</a> i &brandShortName;, Microsoft Internet Explorer och
+    Opera.</p>
+
+  <h3 id="always_use_cursor_keys">Använd alltid piltangenterna för att navigera
+    i sidor</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Använd alltid piltangenterna för att
+    navigera i sidor</a> låter dig hoppa mellan webbinnehåll som om du arbetade
+    i en redigerare. Du kan använda tangentbordet för att markera innehåll på
+    en webbsida och kopiera det till urklipp. Du kan aktivera denna funktion
+    genom att välja &pref.menuPath;, öppna fliken <em>Allmänt</em> i panelen
+    <em>Avancerat</em> och kryssa i <em>Använd alltid piltangenterna för att
+    navigera i sidor</em>.</p>
+
+  <p>Du kan även trycka <kbd>F7</kbd> för starta eller stänga av denna funktion.
+    När du trycker <kbd>F7</kbd> kommer &brandShortName; att fråga om du
+    verkligen vill använda funktionen. Du kan avaktivera denna fråga genom att
+    välja <em>Visa inte denna dialogruta igen.</em></p>
+
+  <h3 id="find_as_you_type">Sök efter text när jag börjar skriva</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Sök efter text när jag börjar
+    skriva</a> låter dig snabbt gå till text eller hyperlänkar på en
+    webbsida. Denna funktion har två lägen, tryck
+    <abbr title="snedstreck"><kbd>/</kbd></abbr> och börja skriv för att söka
+    bland all text på den aktuella sidan, eller tryck
+    <abbr title="apostrof"><kbd>'</kbd></abbr> innan du skriver för att endast
+    söka bland hyperlänkar. &brandShortName; kommer att markera matchande text
+    eller länk under tiden du skriver.</p>
+
+  <p>Följande kortkommandon styr denna funktion:</p>
+
+  <ul>
+    <li>Skriv in fler tecken för att begränsa sökningen. &brandShortName;
+      kommer att markera nästa matchande länk eller text, eller meddela att
+      inget hittades.</li>
+    <li>Tryck &accelKey;+<kbd>G</kbd> eller <kbd>F3</kbd> för att hitta nästa
+      förekomst av den aktuella söksträngen.</li>
+    <li>Tryck &accelKey;+&shiftKey;+<kbd>G</kbd> eller &shiftKey;+<kbd>F3</kbd>
+      för att hitta föregående förekomst av den aktuella söksträngen.</li>
+    <li>Tryck <kbd>Backsteg</kbd> för att ångra det senaste tecknet du skrev.
+      &brandShortName; återgår till den senast markerade texten.</li>
+    <li>Tryck <kbd>Esc</kbd> för att avbryta en sökning. Du kan även avbryta en
+      sökning genom att byta fokus, rulla sidan med musen eller tangentbordet,
+      eller helt enkelt vänta tills tiden löper ut.</li>
+  </ul>
+
+  <p>Du kan ändra standardbeteendet för denna funktion genom att välja
+    &pref.menuPath;, öppna fliken <em>Allmänt</em> i panelen
+    <em>Avancerat</em> och kryssa i <em>Sök efter text när jag börjar
+    skriva</em>. Om detta alternativ är valt startar en sökning
+    automatiskt när du börjar skriva. En sådan automatisk sökning söker normalt
+    bland all text på sidan. Du kan fortfarande trycka
+    <abbr title="apostrof"><kbd>'</kbd></abbr> eller
+    <abbr title="snedstreck"><kbd>/</kbd></abbr> för att välja sökmetod.</p>
+
+  <p>Du kan använda denna funktion för att gå till knappar, textrutor och andra
+    formulärkontroller. Sök på texten strax före formulärkontrollen du vill gå
+    till och tryck sedan på <kbd>Tabb</kbd>. När du trycker på <kbd>Tabb</kbd>
+    avslutas automatiskt sökningen och fokus flyttas till nästa formulärfält
+    eller knapp efter den markerade texten.</p>
+
+  <h2 id="using_a_mouse">Använda musen</h2>
+
+  <h3 id="common_mouse_shortcuts">Vanliga muskommandon</h3>
+
+  <p>En lista på vanliga muskommandon finns i avsnittet
+    <a href="mouse_shortcuts.xhtml">&brandShortName; muskommandon</a>.</p>
+
+  <h2 id="fonts_and_colors">Teckensnitt och färger</h2>
+
+  <h3 id="overriding_page_fonts">Åsidosätta sidans teckensnitt</h3>
+
+  <p>En del webbsidor använder teckensnitt som kan vara svåra att läsa,
+    och andra sidor kan vara beroende av webbläsarens standardteckensnitt. Du
+    kan välja standardteckensnitt genom att gå till &pref.menuPath;, välja
+    panelen <em>Innehåll</em> och sedan välja ett teckensnitt och en storlek i
+    sektionen <em>Teckensnitt &amp; Färger</em>.</p>
+
+  <p>Du kan ange standardteckensnitt för olika stilar, inklusive serif,
+    sans-serif och fast bredd genom att klicka på knappen
+    <em>Avancerat…</em>. Många webbsidor anger dock egna teckensnitt och dina
+    val kommer inte att ha någon effekt på sådana sidor. För att åsidosätta
+    teckensnitt angivna på sådana sidor, avmarkera <em>Låt sidor använda egna
+    teckensnitt, i stället för ovanstående</em>.</p>
+
+  <p>Tänk på att vissa webbsidor kanske inte visas på rätt sätt beroende på
+    vilket teckensnitt du valt.</p>
+
+  <h3 id="setting_a_minimum_font_size">Ange en minimistorlek</h3>
+
+  <p>En del webbplatser kanske har text som är för liten för att du ska kunna
+    läsa den. För att underlätta läsning av sådana sidor kan du ange en
+    minimistorlek på text. På webbsidor som försöker visa en text med mindre
+    storlek än denna kommer &brandShortName; att förstora texten till den
+    angivna minimistorleken.</p>
+
+  <p>För att ange en minimistorlek på text, gå till &pref.menuPath;, välj
+    panelen <em>Innehåll</em> och klicka på knappen <em>Avancerat…</em> i
+    sektionen <em>Teckensnitt &amp; Färger</em>. Du kan välja en minimistorlek
+    från rullgardinsmenyn <em>Minsta storlek:</em>.</p>
+
+  <p>Tänk på att vissa webbsidor kanske inte visas på rätt sätt beroende på
+    ditt val av minimistorlek.</p>
+
+  <h3 id="resizing_page_text">Ändra storlek på sidtext</h3>
+
+  <p>Du kan temporärt ändra storlek på texten på en webbsida i menyn
+    <span class="menuPath">Visa &gt; Textstorlek</span>. Den nya storleken
+    kommer då att användas tills du stänger fönstret eller fliken, även om du
+    går till en annan webbplats.</p>
+
+  <p>Följande kortkommandon styr textstorleken:</p>
+
+  <ul>
+    <li>Tryck &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> för att öka
+      textstorleken. Detta zoomar texten till 120% av den ursprungliga
+      storleken, sedan till 150%, 200%, 300%, 450%, 675%, 1013% och 1519%.</li>
+    <li>Tryck &accelKey;+<kbd><abbr title="minus">-</abbr></kbd> för att
+      minska textstorleken. Detta zoomar texten till 90% av den ursprungliga
+      storleken, sedan till 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2% och
+      1%.</li>
+    <li>Tryck &accelKey;+<kbd>0</kbd> för att återställa textstorleken till
+      webbsidans standardstorlek.</li>
+  </ul>
+
+  <p>Tänk på att vissa webbsidor kanske inte visas på rätt sätt om du ökar
+    eller minskar textstorleken.</p>
+
+  <h3 id="overriding_page_colors">Åsidosätta sidfärger</h3>
+
+  <p>En del webbplatser kan använda färger för text och bakgrund som gör det
+    svårt att läsa sidan medan andra platser använder webbläsarens
+    standardfärger. Du kan ange standardfärger genom att gå till
+    &pref.menuPath;, välja panelen <em>Innehåll</em> och klicka på knappen
+    <em>Färger…</em> i sektionen <em>Teckensnitt &amp; Färger</em>. Där kan
+    du välja färger för text och bakgrund och även vilka färger som ska
+    användas för besökta och obesökta hyperlänkar. Du kan även välja om
+    hyperlänkar ska vara understrukna.</p>
+
+  <p>Många webbsidor anger dock egna färger så standardfärgerna kommer inte
+    alltid att användas. För att åsidosätta färger angivna av webbsidor,
+    avmarkera <em>Låt sidor använda egna färger, i stället för
+    ovanstående</em>.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Använda ett högkontrasttema</h3>
+
+    <p>&brandShortName; upptäcker automatiskt om du använder ett
+      högkontrasttema och visar allting med detta färgschema. Alla andra
+      inställningar för webbläsaren eller webbsidor åsidosätts och gränssnittet
+      i &brandShortName; (alla menyer, fönster och dialogrutor) och innehållet
+      på webbsidor anpassas.</p>
+
+    <p class="win">För att använda ett tema med hög kontrast, gå till
+      <span class="menuPath">Start-menyn &gt; Kontrollpanelen &gt;
+      Hjälpmedel &gt; Bildskärm</span> och markera alternativet
+      <em>Använd Högkontrast</em>.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Styra webbinnehåll</h2>
+
+  <h3 id="blocking_popup_windows">Blockera popup-fönster</h3>
+
+  <p>Se <a href="popup.xhtml">Kontrollera popup-fönster</a> för information om
+    hur du blockerar popup-fönster.</p>
+
+  <h3 id="turning_off_java_applets">Stänga av Java-appletar</h3>
+
+  <p>En del webbplatser använder Java&trade;-appletar för att ge ett rikare
+    innehåll till sina sidor. För de som navigerar med tangentbordet kan det
+    leda till problem med vissa Java-appletar som automatiskt sätter fokus
+    och inte ger någon möjlighet till att ”gå ur” appleten för att
+    navigera till andra delar av webbsidan. Om detta är ett problem för dig kan
+    du avaktivera Java genom att gå till &pref.menuPath;, välja panelen
+    <em>Innehåll</em> och avmarkera <em>Aktivera Java</em>.</p>
+
+  <h3 id="restricting_javascript_behavior">Begränsa JavaScript-funktioner</h3>
+
+  <p>Du kan stänga av JavaScript-användning helt genom att gå till
+    &pref.menuPath;, välja panelen <em>Innehåll</em> och avmarkera <em>Aktivera
+    JavaScript</em>. En del webbsidor är dock beroende av JavaScript och kanske
+    inte fungerar på rätt sätt om du avaktiverar JavaScript.</p>
+
+  <p>Om du inte vill avaktivera JavaScript helt finns det andra inställningar
+    du kan göra som begränsar användningen av JavaScript. Till höger om
+    kryssrutan <em>Aktivera JavaScript</em> kan du klicka på knappen
+    <em>Avancerat…</em> för att öppna fönstret <em>Avancerade
+    JavaScript-funktioner</em>. Där kan du bestämma om skript ska kunna flytta
+    eller ändra storlek på fönster, höja eller sänka fönster, avaktivera eller
+    byta ut snabbmenyer, dölja Status-fältet eller ändra texten i
+    Status-fältet.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Kompatibilitet med
+    datorhjälpmedel</h2>
+
+  <p>Den senaste informationen om kompatibilitet med olika datorhjälpmedel
+    finns på webbplatsen
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Compatibility with assistive technologies</a>.</p>
+
+  <h2 id="finding_help_online">Hitta hjälp på Internet</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific har ett antal
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">
+      mejlinglistor för JAWS-användare</a>.</p>
+
+    <p>GW Micro har ett antal
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">
+      mejlinglistor för Window Eyes-användare</a>.</p>
+  </div>
+
+  <p>Du kan <span class="win">även</span> posta frågor om tillgänglighet på
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">&brandShortName;
+    Support forum</a>.</p>
+
+  <br />
+  <p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer
+    Project.</p>
+
+</body>
+</html>

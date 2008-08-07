@@ -1,0 +1,254 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 Matthew Willis <mattwillis@gmail.com>
+   -                 Stefan Sitter <ssitter@googlemail.com>
+   -                 Berend Cornelius <berend.cornelius@sun.com>
+   -                 Philipp Kewisch <mozilla@kewis.ch>
+   -                 Simon Paquet <bugzilla@babylonsounds.com>
+   -                 Stefan Lewitas <stefan.lewitas@gmail.com>
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Event Menu -->
+<!ENTITY event.new.event                        "Ny händelse…">
+<!ENTITY event.new.event.key                    "N">
+<!ENTITY event.new.event.accesskey              "N">
+
+<!ENTITY event.new.todo                         "Ny uppgift…">
+<!ENTITY event.new.todo.key                     "T">
+<!ENTITY event.new.todo.accesskey               "t">
+
+<!ENTITY calendar.new.server.label              "Ny kalender…">
+<!ENTITY calendar.new.server.key                "L">
+<!ENTITY calendar.new.server.accesskey          "k">
+
+<!ENTITY calendar.open.file.label               "Öppna kalenderfil…">
+<!ENTITY calendar.open.file.key                 "O">
+<!ENTITY calendar.open.file.accesskey           "Ö">
+
+<!ENTITY event.edit.event                       "Redigera…">
+<!ENTITY event.edit.event.key                   "E">
+<!ENTITY event.edit.event.accesskey             "R">
+
+<!ENTITY event.delete.event                     "Ta bort händelse">
+<!ENTITY event.delete.event.accesskey           "T">
+
+<!ENTITY event.delete.tasks                     "Ta bort vald uppgift">
+<!ENTITY event.delete.tasks.accesskey           "u">
+
+<!ENTITY calendar.print.label                   "Skriv ut…">
+<!ENTITY calendar.print.key                     "P">
+<!ENTITY calendar.print.accesskey               "u">
+
+<!ENTITY calendar.pagesetup.label               "Utskriftsformat…">
+<!ENTITY calendar.pagesetup.accesskey           "f">
+
+<!ENTITY calendar.import.label                  "Importera…">
+<!ENTITY calendar.import.key                    "I">
+<!ENTITY calendar.import.accesskey              "i">
+
+<!ENTITY calendar.export.calendar.label         "Exportera kalender…">
+<!ENTITY calendar.export.calendar.accesskey     "E">
+<!ENTITY calendar.export.selection.label        "Exportera urval…">
+<!ENTITY calendar.export.selection.accesskey    "x">
+
+<!ENTITY calendar.subscribe.label               "Prenumerera på kalender…">
+<!ENTITY calendar.subscribe.accesskey           "P">
+
+<!ENTITY calendar.reloadserver.label            "Uppdatera länkad kalender">
+<!ENTITY calendar.reloadserver.key              "R">
+<!ENTITY calendar.reloadserver.accesskey        "d">
+
+<!ENTITY calendar.publish.label                 "Publicera…">
+<!ENTITY calendar.publish.accesskey             "u">
+<!ENTITY calendar.publish.calendar.label        "Publicera kalender…">
+<!ENTITY calendar.publish.calendar.accesskey    "b">
+<!ENTITY calendar.publish.selection.label       "Publicera urval…">
+<!ENTITY calendar.publish.selection.accesskey   "c">
+
+<!ENTITY calendar.quit.label                    "Avsluta">
+<!ENTITY calendar.quit.accesskey                "A">
+<!ENTITY calendar.quit.key                      "Q">
+<!ENTITY calendar.quit.label.mac                "Avsluta &brandShortName;">
+
+<!ENTITY calendar.exit.label                    "Avsluta">
+<!ENTITY calendar.exit.accesskey                "A">
+
+<!ENTITY calendar.undo.label                    "Ångra">
+<!ENTITY calendar.undo.key                      "z">
+<!ENTITY calendar.undo.accesskey                "Å">
+
+<!ENTITY calendar.redo.label                    "Gör om">
+<!ENTITY calendar.redo.key                      "y">
+<!ENTITY calendar.redo.accesskey                "G">
+
+<!ENTITY calendar.cut.label                     "Klipp ut">
+<!ENTITY calendar.cut.key                       "x">
+<!ENTITY calendar.cut.accesskey                 "K">
+
+<!ENTITY calendar.copy.label                    "Kopiera">
+<!ENTITY calendar.copy.key                      "c">
+<!ENTITY calendar.copy.accesskey                "o">
+
+<!ENTITY calendar.paste.label                   "Klistra in">
+<!ENTITY calendar.paste.key                     "v">
+<!ENTITY calendar.paste.accesskey               "l">
+
+<!ENTITY calendar.selectall.label               "Välj allt">
+<!ENTITY calendar.selectall.key                 "a">
+<!ENTITY calendar.selectall.accesskey           "a">
+
+<!ENTITY toolbarsMenu.label                     "Verktygsfält">
+<!ENTITY toolbarsMenu.accesskey                 "y">
+
+<!ENTITY calendar.toolbar.label                 "Kalender">
+<!ENTITY calendar.toolbar.accesskey             "K">
+<!ENTITY task.toolbar.label                     "Verktygsfält Uppgifter">
+<!ENTITY task.toolbar.accesskey                 "g">
+
+<!ENTITY mode.toolbar.label                     "Typ">
+<!ENTITY mode.toolbar.accesskey                 "T">
+
+<!ENTITY calendar.menu.customize.label          "Anpassa...">
+<!ENTITY calendar.menu.customize.accesskey      "A">
+
+<!ENTITY showStatusBarCmd.label                 "Statusfältet">
+<!ENTITY showStatusBarCmd.accesskey             "a">
+
+<!ENTITY showTaskBoxCmd.label                   "Uppgiftsfältet">
+<!ENTITY showTaskBoxCmd.accesskey               "l">
+
+<!ENTITY showUnifinderCmd.label                 "Sök händelser">
+<!ENTITY showUnifinderCmd.accesskey             "ö">
+
+<!ENTITY calendar.displaytodos.checkbox.label       "Visa Uppgifter i kalender">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "V">
+
+<!ENTITY calendar.menu.numberofweeks.label      "Flerveckorsvy">
+<!ENTITY calendar.menu.numberofweeks.2          "Två veckor">
+<!ENTITY calendar.menu.numberofweeks.3          "Tre veckor">
+<!ENTITY calendar.menu.numberofweeks.4          "Fyra veckor">
+<!ENTITY calendar.menu.numberofweeks.5          "Fem veckor">
+<!ENTITY calendar.menu.numberofweeks.6          "Sex veckor">
+
+<!ENTITY calendar.fullscreen.label              "Helskärm">
+<!ENTITY calendar.fullscreen.accesskey          "H">
+
+<!ENTITY calendar.addons.label                  "Tillägg">
+<!ENTITY calendar.addons.accesskey              "T">
+
+<!ENTITY goMenu.label                           "Gå till">
+<!ENTITY goMenu.accesskey                       "G">
+
+<!ENTITY goTodayCmd.label                       "Idag">
+<!ENTITY goTodayCmd.accesskey                   "I">
+
+<!ENTITY goDateCmd.label                        "Datum…">
+<!ENTITY goDateCmd.accesskey                    "D">
+
+<!ENTITY goPreviousCmd.day.label                "Föregående dag">
+<!ENTITY goPreviousCmd.week.label               "Föregående vecka">
+<!ENTITY goPreviousCmd.month.label              "Föregående månad">
+<!ENTITY goPreviousCmd.accesskey                "ö">
+
+<!ENTITY goNextCmd.day.label                    "Nästa dag">
+<!ENTITY goNextCmd.week.label                   "Nästa vecka">
+<!ENTITY goNextCmd.month.label                  "Nästa månad">
+<!ENTITY goNextCmd.all.accesskey                "ä">
+
+<!ENTITY toolsMenu.label                        "Verktyg">
+<!ENTITY toolsMenu.accesskey                    "V">
+
+<!ENTITY errorConsoleCmd.label                  "Felkonsol">
+<!ENTITY errorConsoleCmd.accesskey              "F">
+
+<!ENTITY addressBookCmd.label                   "Adressbok">
+<!ENTITY addressBookCmd.accesskey               "A">
+
+<!ENTITY helpMenu.label                         "Hjälp">
+<!ENTITY helpMenu.accesskey                     "H">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+           for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label                      "Hjälp"> 
+<!ENTITY helpMenuWin.accesskey                  "H">
+
+<!-- Toolbar items -->
+<!ENTITY fileMenu.label                         "Arkiv">
+<!ENTITY fileMenu.accesskey                     "A">
+
+<!ENTITY editMenu.label                         "Redigera">
+<!ENTITY editMenu.accesskey                     "R">
+<!ENTITY optionsCmd.label                       "Inställningar…">
+<!ENTITY optionsCmd.accesskey                   "I">
+<!ENTITY preferencesCmd.label                   "Inställningar">
+<!ENTITY preferencesCmd.accesskey               "I">
+<!ENTITY preferencesCmdMac.label                "Inställningar…">
+<!ENTITY preferencesCmdMac.commandkey           ",">
+<!ENTITY preferencesCmdMac.modifiers            "accel">
+
+<!ENTITY viewMenu.label                         "Visa">
+<!ENTITY viewMenu.accesskey                     "s">
+
+<!ENTITY releaseCmd.label                       "Versionsfakta">
+<!ENTITY releaseCmd.accesskey                   "V">
+<!ENTITY aboutCmd.label                         "Om &brandFullName;">
+<!ENTITY aboutCmd.accesskey                     "O">
+<!ENTITY updateCmd.label                        "Sök efter uppdateringar…">
+<!ENTITY updateCmd.accesskey                    "ö">
+
+<!-- Mac OS X "Window" menu items -->
+<!ENTITY windowMenu.label                       "Fönster">
+<!ENTITY minimizeWindow.label                   "Minimera">
+<!ENTITY zoomWindow.label                       "Zooma">
+<!ENTITY minimizeWindow.key                     "M">
+<!ENTITY bringAllToFront.label                  "Visa alla överst">
+
+<!-- Mac OS X Application menu items -->
+<!ENTITY servicesMenuMac.label          "Tjänster">
+<!ENTITY hideThisAppCmdMac.label        "Göm &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Göm övriga">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Visa alla">
+
+<!ENTITY calendar.importcalendar.label          "Importera kalender…">
+
+<!ENTITY showCurrentView.label                  "Aktuell vy">
+<!ENTITY showCurrentView.accesskey              "v">
+
+<!ENTITY calendar.properties.label              "Kalenderinställningar…">
+<!ENTITY calendar.properties.accesskey          "i">

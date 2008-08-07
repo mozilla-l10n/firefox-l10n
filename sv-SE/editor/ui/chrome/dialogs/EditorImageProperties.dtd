@@ -1,0 +1,121 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   - Niklas Lundström <d00-nlu@nada.kth.se>
+   - Lars P M <larspeemm@netscape.net>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+ 
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Egenskaper för bild">
+
+<!ENTITY pixelsPopup.value "pixlar">
+<!ENTITY percentPopup.value "procent">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Bildens plats:">
+<!ENTITY locationEditField.accessKey "s">
+<!ENTITY locationEditField.tooltip "Ange bildens filnamn eller plats">
+<!ENTITY title.label "Hjälptext:">
+<!ENTITY title.accessKey "ä">
+<!ENTITY title.tooltip "HTML-attributet «title» visar en hjälptext">
+<!ENTITY altText.label "Ersättningstext:">
+<!ENTITY altText.accessKey "E">
+<!ENTITY altTextEditField.tooltip "Skriv in text som ska visas i stället för bild">
+<!ENTITY noAltText.label "Använd inte alternativ text">
+<!ENTITY noAltText.accessKey "i">
+
+<!ENTITY previewBox.label "Förhandsgranska bild">
+<!ENTITY MoreFewerButton.tooltip "Visa fler eller färre egenskaper att redigera">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Ursprunglig storlek:">
+<!ENTITY actualSizeRadio.label "Ursprunglig storlek">
+<!ENTITY actualSizeRadio.accessKey "U">
+<!ENTITY actualSizeRadio.tooltip "Återgå till bildens ursprungliga storlek">
+<!ENTITY customSizeRadio.label "Anpassad storlek">
+<!ENTITY customSizeRadio.accessKey "A">
+<!ENTITY customSizeRadio.tooltip "Ändra bildens storlek på sidan">
+<!ENTITY heightEditField.label "Höjd:">
+<!ENTITY heightEditField.accessKey "ö">
+<!ENTITY widthEditField.label "Bredd:">
+<!ENTITY widthEditField.accessKey "B">
+<!ENTITY constrainCheckbox.label "Behåll proportioner">
+<!ENTITY constrainCheckbox.accessKey "e">
+<!ENTITY constrainCheckbox.tooltip "Behåll bredd/höjdförhållande">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Bildkarta">
+<!ENTITY removeImageMapButton.label "Ta bort">
+<!ENTITY removeImageMapButton.accessKey "b">
+<!ENTITY editImageMapButton.label "Redigera...">
+<!ENTITY editImageMapButton.tooltip "Skapa klickbara områden för denna bild">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Ställ text till bilden">
+<!ENTITY bottomPopup.value "Nederst">
+<!ENTITY topPopup.value "Överst">
+<!ENTITY centerPopup.value "I mitten">
+<!ENTITY wrapRightPopup.value "Ombrytning till höger">
+<!ENTITY wrapLeftPopup.value "Ombrytning till vänster">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Blankutrymme">
+<!ENTITY spacingBox.tooltip "Skriv in ett tal för utrymme kring bilden">
+<!ENTITY leftRightEditField.label "Vänster och höger:">
+<!ENTITY leftRightEditField.accessKey "V">
+<!ENTITY topBottomEditField.label "Över och under:">
+<!ENTITY topBottomEditField.accessKey "Ö">
+<!ENTITY borderEditField.label "Heldragen ram:">
+<!ENTITY borderEditField.accessKey "e">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Visa ram runt länkad bild">
+<!ENTITY showImageLinkBorder.accessKey "u">
+
+<!-- These controls may be added some day; currently not used -->
+<!ENTITY makePageBackgroundCheckbox.label "Använd som sidbakgrund">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Använd denna bild som bakgrund till din sida.">
+<!ENTITY editImageButton.label "Redigera bild">
+<!ENTITY editImageButton.tooltip "Redigera bilden i ett annat program">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Formulär">
+<!ENTITY imageLocationTab.label "Plats">
+<!ENTITY imageDimensionsTab.label "Dimensioner">
+<!ENTITY imageAppearanceTab.label "Utseende">
+<!ENTITY imageLinkTab.label "Länk">

@@ -1,0 +1,151 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+   - Henrik Olsson <henriko@algonet.se>
+   - Mikael Hedberg <hedberg@novasphere.net>
+   - Hasse Wallanger <jasajudeju@telia.com>
+   - Lars P M <larspeemm@netscape.net>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title "Adressbok">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newCard.label						"Kort i adressbok…">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newCard.accesskey                              "t">  
+<!ENTITY newListCmd.label                               "Sändlista…">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey                           "l">  
+<!ENTITY newAddressBookCmd.label			"Adressbok…">
+<!ENTITY newAddressBookCmd.accesskey                    "b">
+<!ENTITY renameAddressBookCmd.label                     "Byt namn på adressbok…"> 
+<!ENTITY renameAddressBookCmd.accesskey                 "y">  
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP-katalog…">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newIM.label                                    "IM">
+<!ENTITY printCardViewCmd.label				"Skriv ut kort…">
+<!ENTITY printCardViewCmd.accesskey                     "k">
+<!ENTITY printPreviewCardViewCmd.label                  "Förhandsgranska kort">
+<!ENTITY printPreviewCardViewCmd.accesskey              "F">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
+<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printAddressBook.label                         "Skriv ut adressbok…"> 
+<!ENTITY printAddressBook.accesskey                     "u"> 
+<!ENTITY printPreviewAddressBook.label                  "Förhandsgranska adressbok"> 
+<!ENTITY printPreviewAddressBook.accesskey              "g">
+<!ENTITY printSetupCmd.label                            "Utskriftsformat…">
+<!ENTITY printSetupCmd.accesskey                        "o">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label					"Ta bort adressbok">
+<!ENTITY deleteCardCmd.label				"Ta bort kort">
+<!ENTITY deleteCardsCmd.label				"Ta bort markerade kort">
+<!ENTITY deleteListCmd.label                            "Ta bort lista">
+<!ENTITY deleteListsCmd.label                           "Ta bort markerade listor">
+<!ENTITY deleteItemsCmd.label                           "Ta bort markerade poster">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Låt för- och efternamn byta plats">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "f">  
+<!ENTITY propertiesCmd.label                            "Egenskaper">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY propertiesCmd.accesskey                        "E">  
+<!ENTITY propertiesCmd.key                              "i">  
+
+<!-- View Menu -->
+<!ENTITY showAbToolbarCmd.label                         "Adressverktyg"> 
+<!ENTITY showAbToolbarCmd.accesskey                     "A">  
+
+<!ENTITY showCardPane.label                             "Kortsummeringsyta">
+<!ENTITY showCardPane.accesskey                         "K">
+  
+<!ENTITY menu_ShowNameAs.label				"Visa namn som">
+<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY firstLastCmd.label                             "Förnamn Efternamn">  
+<!ENTITY firstLastCmd.accesskey                         "F"> 
+<!ENTITY lastFirstCmd.label                             "Efternamn, Förnamn">  
+<!ENTITY lastFirstCmd.accesskey				"E"> 
+<!ENTITY displayNameCmd.label				"Kortnamn">  
+<!ENTITY displayNameCmd.accesskey			"m"> 
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label                                "Importera…"> 
+<!ENTITY importCmd.accesskey                            "I"> 
+<!ENTITY exportCmd.label                                "Exportera…">  
+<!ENTITY exportCmd.accesskey                            "x"> 
+<!ENTITY allowOnlineCheck.label                         "Sök online-status (AOL)">
+<!ENTITY allowOnlineCheck.accesskey                     "ö">
+
+<!ENTITY stopSearchingCmd.label                         ".Avbryt sökandet"> 
+
+<!-- Toolbar and Popup items -->  
+<!ENTITY newcardButton.label "Nytt kort">
+<!ENTITY newcardButton.accesskey                        "k">  
+<!ENTITY newlistButton.label                            "Ny lista">  
+<!ENTITY newlistButton.accesskey                        "l">  
+<!ENTITY editButton.label                               "Egenskaper ">  
+<!ENTITY editButton.accesskey                           "E">  
+<!ENTITY newmsgButton.label                             "Skriv nytt">  
+<!ENTITY newmsgButton.accesskey                         "n">  
+<!ENTITY deleteButton.label                             "Ta bort">  
+<!ENTITY deleteButton.accesskey                         "b">  
+<!ENTITY newimButton.label                              "Snabbmeddelande">  
+<!ENTITY newimButton.accesskey                          "S">  
+<!ENTITY stopButton.label                               ".Stopp">  
+<!ENTITY searchButton.label                             ".Sök">  
+<!ENTITY showNames.label                                "Visa namn som innehåller:">  
+
+<!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip                     "Verktygsfält för adressboken">
+<!ENTITY newcardButton.tooltip "Skapa ett nytt kort i adressboken">
+<!ENTITY newlistButton.tooltip                          "Skapa en sändlista"> 
+<!ENTITY editButton.tooltip                             "Redigera markerat adresskort"> 
+<!ENTITY newmsgButton.tooltip "Skapa nytt meddelande">
+<!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta"> 
+<!ENTITY deleteButton.tooltip "Ta bort markerade kort eller adressboken">
+<!ENTITY stopButton.tooltip "Avbryt den aktuella överföringen">
+<!ENTITY searchButton.tooltip "Sök i den valda adressboken">
+<!ENTITY throbber.tooltip                               "Går till &vendorShortName;s webbplats">
+<!ENTITY clearButton.tooltip                            "Nollställer alla sökkriterier och visar därmed alla poster">
+<!ENTITY advancedButton.tooltip                         "Avancerad adressökning">
+
+<!-- Status Bar -->  
+<!ENTITY statusText.label                               "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "false">

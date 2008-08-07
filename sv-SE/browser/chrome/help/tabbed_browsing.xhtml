@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+  Hasse Wallanger <jasajudeju@telia.com> (översättning)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Använda flikar</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Använda flikar</h1>
+
+<p>Om du använder flikar kan du öppna flera webbsidor i ett och samma
+  &brandShortName;-fönster. Du kan öppna länkar i nya flikar där de hämtas i
+  bakgrunden medan du kan fortsätta läsa den aktuella sidan. Du behöver inte
+  använda flikar, men det kan vara ett snabbare sätt att surfa på webben.</p>
+
+<div class="contentsBox">I detta avsnitt:
+  <ul>
+    <li><a href="#creating_loading_tabs">Skapa och ladda flikar</a></li>
+    <li><a href="#moving_tabs">Flytta flikar inom ett fönster</a></li>
+    <li><a href="#closing_tabs">Stänga flikar</a></li>
+    <li><a href="#customizing">Anpassa flikar</a></li>
+    <li><a href="#tips_tricks">Tips och tricks</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_loading_tabs">Skapa och ladda flikar</h2>
+
+<p>För att öppna en ny flik, tryck &accelKey;+<kbd>T</kbd>, välj <span
+  class="menuPath">Arkiv &gt; Ny flik</span>, eller dubbelklicka på en tom yta
+  i Flikfältet.</p>
+
+<p>För att öppna en länk i en ny flik, använd ett av följande sätt:</p>
+
+<ul>
+  <li>Mittenklicka på länken. (Om du har en hjulmus är ett klick med hjulet
+    oftast liktydigt med ett mittenklick.)</li>
+  <li>Dra länken och släpp den på en tom yta i Flikfältet. (Om endast en
+    webbsida är öppen kan Flikfältet vara dolt. Se <a
+    href="#customizing">Anpassa flikar</a> för information om hur du ändrar på
+    detta.)</li>
+  <li>Dra och släpp länken på en flik för att öppna länken i den fliken.</li>
+  <li><span class="noMac">Högerklicka</span><span
+    class="mac">&ctrlKey;+klicka</span> på länken och välj <span
+    class="menuPath">Öppna länk i ny flik</span> från snabbmenyn.</li>
+</ul>
+
+<p>För att öppna en URL i Adressfältet i en ny flik, skriv in URL:en och tryck
+  &altKey;+&enterKey;.</p>
+
+<h2 id="moving_tabs">Flytta flikar inom ett fönster</h2>
+
+<p>Flikar visas i den ordning de har öppnats, något som kanske inte alltid är
+  önskvärt. Om du vill flytta en flik till en annan plats i fönstret kan du dra
+  den dit med hjälp av musen. När du drar fliken visar &brandShortName; en
+  liten markör där fliken kommer att hamna. Du kan även använda
+  <a href="shortcuts.xhtml#windows_tabs">tangentbordskommandon</a> för att
+  flytta flikar.</p>
+
+<h2 id="closing_tabs">Stänga och återställa flikar</h2>
+
+<p>För att stänga den aktuella fliken, tryck &accelKey;+<kbd>W</kbd>, klicka
+  på knappen <em>Stäng flik</em>, mittenklicka på fliken, eller välj
+  <span class="menuPath">Arkiv &gt; Stäng flik</span>. För att stänga alla
+  andra flikar än den aktuella, <span class="noMac">högerklicka</span><span
+  class="mac">&ctrlKey;+klicka</span> på fliken och välj <span
+  class="menuPath">Stäng alla andra flikar</span>.</p>
+  
+<p>Ett &brandShortName;-fönster sparar en lista på de flikar du nyligen stängt.
+  Du kan återställa en flik genom att välja den från <span
+  class="menuPath">Historik &gt; Nyligen stängda flikar</span>. Du kan
+  återställa alla flikar genom att välja <span class="menuPath">Historik &gt;
+  Nyligen stängda flikar &gt; Öppna alla i flikar</span>. Tryck
+  &accelKey;+&shiftKey;+<kbd>T</kbd> för att öppna dem en och en i omvänd
+  ordning.</p>
+
+<h2 id="customizing">Anpassa flikar</h2>
+
+<p>För att ändra inställningar för flikar, välj &pref.menuPath; och öppna
+  panelen <a href="prefs.xhtml#tabs_options"><em>Flikar</em></a>.</p>
+
+<h2 id="tips_tricks">Tips och tricks</h2>
+
+<dl>
+
+  <dt id="bookmarking_tabbed_browsing">Bokmärken och flikar</dt>
+  <dd>För att lägga till ett bokmärke för en grupp av flikar:</dd>
+  <dd>
+    <ol>
+      <li><span class="noUnix">Tryck &accelKey;+&shiftKey;+<kbd>D</kbd> eller
+        välj</span><span class="unix">Välj</span>
+        <span class="menuPath">Bokmärken &gt; Bokmärke för alla flikar</span>
+        för att spara alla flikar i det aktuella fönstret i en ny
+        bokmärkesmapp.</li>
+      <li>För att öppna bokmärkena i flikar, öppna snabbmenyn för en
+        bokmärkesmapp och välj <span class="menuPath">Öppna i flikar</span>. Du
+        kan även mittenklicka på en mapp för att öppna dess innehåll i flikar.
+        Bokmärkena kommer att öppnas i redan existerande flikar, inte i
+        nya.</li>
+    </ol>
+  </dd>
+
+  <dt id="home_page_as_tabs">Flikar som startsida</dt>
+  <dd>I stället för att använda endast en webbsida som din startsida, kan du ha
+    en grupp av flikar som startsida. Välj ut ett antal favoritwebbplatser
+    och öppna dem som flikar i ett fönster. Välj &pref.menuPath; och öppna
+    panelen <a href="prefs.xhtml#main_options"><em>Allmänt</em></a>. I
+    sektionen <em>Vid start</em>, klicka på knappen <em>Använd aktuella
+    sidor</em>. När du sedan klickar på knappen Startsida i &brandShortName;
+    kommer alla dina favoritwebbplatser att öppnas i varsin flik.</dd>
+
+  <dt>Lägga till en verktygsknapp för Ny flik</dt>
+  <dd>För att enkelt kunna öppna nya flikar kan du lägga till knappen
+    <em>Ny flik</em> till verktygsfältet genom att
+    <a href="customization.xhtml#rearranging_toolbar_items">anpassa
+    verktygsfälten</a>.</dd>
+
+  <dt id="keyboard_shortcuts">Kortkommandon</dt>
+  <dd>&brandShortName; har en komplett uppsättning tangentbordskommandon
+    relaterade till flikar; se den fullständiga listan i <a href=
+    "shortcuts.xhtml#windows_tabs">Kortkommandon</a>.</dd>
+
+</dl>
+
+<br /><br />
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+</body>
+</html>

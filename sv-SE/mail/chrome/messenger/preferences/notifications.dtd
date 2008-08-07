@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "Anpassa meddelande om ny e-post">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Välj vilka fält som ska visas i meddelanderutan:">
+<!ENTITY previewText.label                "Meddelandetext">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "Ämne">
+<!ENTITY subject.accesskey                "Ä">
+<!ENTITY sender.label                     "Avsändare">
+<!ENTITY sender.accesskey                 "A">
+

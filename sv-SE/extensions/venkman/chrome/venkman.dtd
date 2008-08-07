@@ -1,0 +1,119 @@
+<!--
+   -
+   - ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is The JavaScript Debugger.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Ginda, <rginda@netscape.com>, original author
+   -   Lars P M <larspeemm@netscape.net>, translator
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY MainWindow.title "Avlusare för JavaScript">
+
+<!-- floating views -->
+<!ENTITY ViewFloat.tooltip      "Klicka här för att låta denna vy flyta/ej flyta">
+<!ENTITY ViewGrippy.tooltip     "Dra rubriklisten för att flytta denna vy">
+<!ENTITY ViewClose.tooltip      "Klicka här för att stänga denna vy">
+
+<!-- help menu -->
+<!ENTITY Help.commands     "Kommandoreferens">
+<!ENTITY Help.about        "Om Venkman">
+
+<!-- toolips -->
+<!ENTITY DebugBar.tooltip "Avlusningsfält">
+<!ENTITY MenuBar.tooltip  "Menyrad">
+
+<!-- breakpoint view -->
+<!ENTITY Break.label        "Avbrottspunkter">
+<!ENTITY BreakCol0.label    "Namn">
+<!ENTITY BreakCol1.label    "Rad/tp">
+
+<!-- locals view -->
+<!ENTITY Locals.label       "Lokala variabler">
+<!ENTITY LocalsCol0.header  "Namn">
+<!ENTITY LocalsCol1.header  "Typ">
+<!ENTITY LocalsCol2.header  "Värde">
+<!ENTITY LocalsCol3.header  "Flaggor">
+
+<!-- session view -->
+<!ENTITY Session.label      "Interaktiv session">
+
+<!-- script view -->
+<!ENTITY Scripts.label         "Inlästa skript">
+<!ENTITY ScriptsSearch.label   "Sök">
+<!ENTITY ScriptsSearch.tooltip "Klicka här för att rensa sökfältet">
+<!ENTITY ScriptsCol0.header    "Namn">
+<!ENTITY ScriptsCol1.header    "Rad">
+<!ENTITY ScriptsCol2.header    "Antal">
+
+<!-- source view -->
+<!ENTITY Source.label       "Källkod">
+<!ENTITY SourceHeader.tip   "Källverktygsfält">
+<!ENTITY SourceCol0.display "Marginal">
+<!ENTITY SourceCol1.display "Radnummer">
+
+<!-- stack view -->
+<!ENTITY Stack.label        "Anropsstack">
+<!ENTITY StackCol0.header   "Namn">
+<!ENTITY StackCol1.header   "Plats">
+
+<!-- watch view -->
+<!ENTITY Watch.label        "Bevakningar">
+<!ENTITY WatchCol0.header   "Namn">
+<!ENTITY WatchCol1.header   "Typ">
+<!ENTITY WatchCol2.header   "Värde">
+<!ENTITY WatchCol3.header   "Flaggor">
+
+<!-- window view -->
+<!ENTITY Windows.label      "Öppna fönster">
+<!ENTITY WindowsCol0.label  "Fil">
+
+<!-- breakpoint properties window -->
+<!ENTITY BPProps.URL.label          "URL">
+<!ENTITY BPProps.Line.label         "Rad">
+<!ENTITY BPProps.PC.label           "tp">
+<!ENTITY BPProps.FunctionName.label "Funktion">
+<!ENTITY BPProps.TriggerCount.label "Träffräkning">
+<!ENTITY BPProps.OneTime.label      "Avlägsna avbrottspunkt efter första träffen">
+<!ENTITY BPProps.Then.label         "Sedan ...">
+<!ENTITY BPProps.ConditionalCheck.label      "Vid träff, exekvera...">
+<!ENTITY BPProps.NeverStopRadio.label        "Fortsätt oavsett resultat">
+<!ENTITY BPProps.AlwaysStopRadio.label       "Avbryt oavsett resultat">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Avbryt om resultatet är liktydigt med true">
+<!ENTITY BPProps.EarlyReturnRadio.label  "Tidigt svar från anropstolken med resultatet">
+<!ENTITY BPProps.PassExceptionsCheck.label   "Förmedla undantagsfel till anropstolken">
+<!ENTITY BPProps.LogResultCheck.label        "Logga resultat">
+<!ENTITY BPProps.Apply.label  "Verkställ">
+<!ENTITY BPProps.Revert.label "Återställ">
+<!ENTITY BPProps.Close.label  "Stäng">
+

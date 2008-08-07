@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -   Henrik Olsson <henriko@algonet.se>
+   -   Mikael Hedberg <hedberg@novasphere.net>
+   -   Per Larsson <tucker@algonet.se>
+   -   Hasse Wallanger <jasajudeju@telia.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label           "Egenskaper">
+
+<!ENTITY generalInfo.label                       "Allmänt">
+<!ENTITY folderCharsetTab.label                  "Standardkodning:">
+<!ENTITY folderCharsetTab.accesskey              "S">
+<!ENTITY folderCharsetOverride.label             "Använd standardkodningen för alla meddelanden i mappen (all automatisk igenkänning, och inställningar gjorda i meddelandena sätts ur spel).">
+<!ENTITY folderCharsetOverride.accesskey         "ö">
+<!ENTITY folderRebuildSummaryFile.label          "Återskapa index">
+<!ENTITY folderRebuildSummaryFile.accesskey      "Å">
+<!ENTITY folderRebuildSummaryFileTip.label       "Återskapa sammanfattningsfil">
+
+<!ENTITY retention.label                         "Behåll meddelanden">
+<!ENTITY retentionUseDefault.label               "Använd inställningen för servern">
+<!ENTITY retentionUseDefault.accesskey           "v">
+<!ENTITY days.label                              "dagarna">
+<!ENTITY daysOld.label                           "dagar">
+<!ENTITY message.label                           "meddelandena">
+<!ENTITY retentionCleanup.label                  "För att spara diskutrymme kan gamla meddelanden tas bort">
+<!ENTITY retentionKeepMsg.label                  "Ta bort meddelanden äldre än">
+<!ENTITY retentionKeepMsg.accesskey              "e">
+<!ENTITY retentionKeepAll.label                  "Ta inte bort några meddelanden">
+<!ENTITY retentionKeepAll.accesskey              "b">
+<!ENTITY retentionKeepNew.label                  "Ta bort alla utom de senaste">
+<!ENTITY retentionKeepNew.accesskey              "T">
+<!ENTITY retentionKeepUnread.label               "Ta alltid bort lästa meddelanden">
+<!ENTITY retentionKeepUnread.accesskey           "o">
+
+<!ENTITY folderOfflineTab.label                  "Arbeta nedkopplad">
+<!ENTITY folderCheckForNewMessages.label         "Kontrollera om denna mapp har nya meddelanden">
+<!ENTITY folderCheckForNewMessages.accesskey     "K">
+
+<!ENTITY offlineFolder.check.label               "Den här mappen ska kunna användas när jag arbetar nedkopplad">
+<!ENTITY offlineFolder.check.accesskey           "m">
+<!ENTITY offlineFolder.button.label              "Hämta nu">
+<!ENTITY offlineFolder.button.accesskey          "H">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Den här diskussionsgruppen ska kunna användas när jag arbetar nedkopplad">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "D">
+<!ENTITY UseDefaultofflineNewsgroup.check.label  "Använd standardinställning för kontot ">
+<!ENTITY offlineNewsgroup.button.label           "Hämta nu">
+<!ENTITY offlineNewsgroup.button.accesskey       "ä">
+
+<!ENTITY folderProps.information.label           "Information:">
+<!ENTITY folderProps.name.label	                 "Namn:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Adress:">
+<!ENTITY folderProps.location.accesskey          "A">
+
+<!ENTITY folderSharingTab.label                  "Delning">
+<!ENTITY privilegesDesc.label                    "Dela ut den här och andra mappar i nätverket och sätt vilka privilegier som ska gälla">
+<!ENTITY privileges.button.label                 "Privilegier">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Du har dessa privilegier:">
+<!ENTITY folderType.label                        "Typ av mapp:">
+
+<!ENTITY folderQuotaTab.label                    "Kvot">
+<!ENTITY folderQuotaRoot.label                   "Kvot-rot:">
+<!ENTITY folderQuotaUsage.label                  "Användning:">
+<!ENTITY folderQuotaStatus.label                 "Status:">

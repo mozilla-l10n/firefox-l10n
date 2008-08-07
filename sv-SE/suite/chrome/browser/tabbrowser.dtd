@@ -1,0 +1,17 @@
+<!ENTITY  untitledTab              "(Namnlös)">
+<!ENTITY  newTab.label             "Ny flik">
+<!ENTITY  newTab.accesskey         "N">
+<!ENTITY  closeTab.label           "Stäng flik">
+<!ENTITY  closeTab.accesskey       "S">
+<!ENTITY  closeOtherTabs.label     "Stäng alla andra flikar">
+<!ENTITY  closeOtherTabs.accesskey "ä">
+<!ENTITY  reloadAllTabs.label      "Uppdatera alla flikar">
+<!ENTITY  reloadAllTabs.accesskey  "a">
+<!ENTITY  reloadTab.label          "Uppdatera flik">
+<!ENTITY  reloadTab.accesskey      "U">
+<!ENTITY  bookmarkGroup.label    "Bokmärke vid den här flikgruppen">
+<!ENTITY  closeTabButton.tooltip   "Stäng den aktuella fliken">
+<!ENTITY  bookmarkGroup.accesskey  "B">
+<!ENTITY  newTabButton.tooltip     "Öppna en ny flik">
+<!ENTITY  undoCloseTab.label    "Ångra Stäng flik">
+<!ENTITY  undoCloseTab.accesskey  "Å">

@@ -1,0 +1,28 @@
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
+<!ENTITY pref.mouseWheel.title           "Mushjul">
+<!ENTITY mouseWheelPanel.label           "Ange hur mushjulet ska fungera tillsammans med denna ändringstangent: ">
+<!ENTITY usingJustTheWheel.label         "Ingen ändringstangent">
+<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label           "Vertikal rullning">
+<!ENTITY mousewheelHorizGroup.label      "Horisontell rullning">
+<!ENTITY scroll.label                    "Rulla dokumentet med ">
+<!ENTITY scroll.accesskey                "R">
+<!ENTITY scrollHoriz.accesskey           "l">
+<!ENTITY scrollLines.label               "rader">
+<!ENTITY scrollChars.label               "tecken">
+<!ENTITY useSystemDefault.label          "Använd systemstandard">
+<!ENTITY useSystemDefault.accesskey      "ä">
+<!ENTITY useSystemDefaultHoriz.accesskey "d">
+<!ENTITY scrollPgUpPgDn.label            "Rulla en sida upp eller en sida ned">
+<!ENTITY scrollPgUpPgDn.accesskey        "u">
+<!ENTITY scrollPgLtPgRt.label            "Rulla en sida åt vänster eller en sida åt höger">
+<!ENTITY scrollPgLtPgRt.accesskey        "å">
+<!ENTITY history.label                   "Gå bakåt eller framåt i historiken">
+<!ENTITY history.accesskey               "k">
+<!ENTITY historyHoriz.accesskey          "b">
+<!ENTITY zoom.label                      "Zooma in eller ut sidan">
+<!ENTITY zoom.accesskey                  "Z">
+<!ENTITY zoomHoriz.accesskey             "e">

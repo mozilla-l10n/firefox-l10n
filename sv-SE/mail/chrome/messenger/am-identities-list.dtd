@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Identiteter som är associerade med det här kontot">
+<!ENTITY identitiesListDesc.label "Stöd för flera identiteter">
+<!ENTITY identitiesListAdd.label  "Lägg till…">
+<!ENTITY identitiesListAdd.accesskey  "L">
+<!ENTITY identitiesListEdit.label "Redigera…">
+<!ENTITY identitiesListEdit.accesskey "R">
+<!ENTITY identitiesListDelete.label "Ta bort">
+<!ENTITY identitiesListDelete.accesskey "T">

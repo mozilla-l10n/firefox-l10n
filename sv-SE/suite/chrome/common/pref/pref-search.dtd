@@ -1,0 +1,22 @@
+
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+<!ENTITY  pref.search.title               "Sökning på Internet">
+<!ENTITY  legendHeader                    "Förinställd söktjänst">
+<!ENTITY  defaultSearchEngine.label       "Sök med:">
+<!ENTITY  defaultSearchEngine.accesskey   "k">
+
+<!ENTITY  openSidebarSearchPanel.label    "Öppna sökfliken i sidofältet när sökresultat finns tillgängliga">
+<!ENTITY  openSidebarSearchPanel.accesskey "n">
+
+<!ENTITY openContextSearchTab.label       "Öppna en flik istället för ett fönster vid sökning från snabbvalsmenyn">
+<!ENTITY openContextSearchTab.accesskey   "p">
+
+<!ENTITY  searchResults.label             "Sökresultat">
+
+<!ENTITY  sidebarSearchTabPref.label      "Inställning av sidofältets sökflik">
+<!ENTITY  searchModeBasic.label           "Enkel">
+<!ENTITY  searchModeBasic.accesskey       "e">
+<!ENTITY  searchModeAdvanced.label        "Avancerad">
+<!ENTITY  searchModeAdvanced.accesskey    "c">
+

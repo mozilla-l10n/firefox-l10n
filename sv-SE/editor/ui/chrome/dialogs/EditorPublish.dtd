@@ -1,0 +1,104 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   - Niklas Lundström <d00-nlu@nada.kth.se>
+   - Lars P M <larspeemm@netscape.net>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label         "Publicera sida">
+<!ENTITY windowTitleSettings.label "Publiceringsinställningar">
+
+<!ENTITY publishTab.label         "Publicera">
+<!ENTITY settingsTab.label        "Inställningar">
+
+<!ENTITY publishButton.label      "Publicera">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label           "Platsnamn:">
+<!ENTITY siteList.accesskey           "P">
+<!ENTITY siteList.tooltip         "Välj platsen som du ska publicera på">
+<!ENTITY newSiteButton.label      "Ny plats">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY docDirList.label         "Underkatalog för den här sidan:">
+<!ENTITY docDirList.accesskey         "U">
+<!ENTITY docDirList.tooltip      "Välj eller skriv in namnet på den externa underkatalogen för den här sidan">
+<!ENTITY publishImgCheckbox.label "Inkludera bilder och andra filer">
+<!ENTITY publishImgCheckbox.accesskey "b">
+<!ENTITY publishImgCheckbox.tooltip "Publicera bilder och andra filer som denna sida refererar till">
+<!ENTITY sameLocationRadio.label  "Använd samma plats som för sidan">
+<!ENTITY sameLocationRadio.accesskey  "s">
+<!ENTITY sameLocationRadio.tooltip "Publicera filer till samma adress som sidans">
+<!ENTITY useSubdirRadio.label     "Använd den här sidans underkatalog:">
+<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.tooltip        "Publicera filer till den markerade fjärrunderkatalogen">
+<!ENTITY otherDirList.tooltip    "Välj eller skriv in namnet på fjärrunderkatalogen, dit filer skall publiceras">
+<!ENTITY pageTitle.label          "Sidtitel:">
+<!ENTITY pageTitle.accesskey          "t">
+<!ENTITY pageTitle.tooltip        "Skriv in en titel for att identifiera sidan i fönstret och i bokmärkena">
+<!ENTITY pageTitleExample.label   "t.ex.: &quot;Min webbsida&quot;">
+<!ENTITY filename.label           "Filnamn:">
+<!ENTITY filename.accesskey           "F">
+<!ENTITY filename.tooltip         "Skriv in ett namn på den här filen, inklusive '.html' för en webbsida">
+<!ENTITY filenameExample.label    "t.ex.: &quot;minsida.html&quot;">
+<!ENTITY relatedDocs.label        "Andra filer att publicera">
+<!ENTITY setDefaultButton.label   "Använd som förvald">
+<!ENTITY setDefaultButton.accesskey   "v">
+<!ENTITY setDefSiteAndDir.label   "Använd som förvald plats och katalog">
+<!ENTITY removeButton.label       "Ta bort plats">
+<!ENTITY removeButton.accesskey       "T">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label   "Publiceringsplatser">
+<!ENTITY serverInfo.label     "Serverinformation">
+<!ENTITY loginInfo.label      "Inloggningsuppgifter">
+<!ENTITY siteName.label       "Webbplatsnamn:">
+<!ENTITY siteName.accesskey           "e">
+<!ENTITY siteName.tooltip     "Ett kortnamn som identifierar den här publiceringsplatsen (t.ex.: 'Min_hemsida')">
+<!ENTITY siteUrl.label        "Publiceringsadress (t.ex.: 'ftp://ftp.myisp.com/mittanvandarnamn'):">
+<!ENTITY siteUrl.accesskey            "u">
+<!ENTITY siteUrl.tooltip      "FTP://- eller HTTP://-adressen utdelad av din Internetleverantör eller ditt webbhotell">
+<!ENTITY browseUrl.label      "HTTP-adress till din hemsida (t.ex.: 'http://www.myisp.com/mittanvandarnamn'):">
+<!ENTITY browseUrl.accesskey          "m">
+<!ENTITY browseUrl.tooltip    "HTTP://-adressen till din hemkatalog (inkludera inte filnamnet)">
+<!ENTITY username.label       "Användarnamn:">
+<!ENTITY username.accesskey           "A">
+<!ENTITY username.tooltip     "Användarnamnet för att logga in till din Internetleverantör eller ditt webbhotell">
+<!ENTITY password.label       "Lösenord:">
+<!ENTITY password.accesskey           "L">
+<!ENTITY password.tooltip     "Lösenordet som hör till ditt användarnamn">
+<!ENTITY savePassword.label   "Spara lösenord">
+<!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.tooltip "Välj detta för att lagra lösenordet på ett säkert sätt med lösenordshanteraren">

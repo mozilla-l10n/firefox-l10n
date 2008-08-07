@@ -1,0 +1,8 @@
+
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Meddelande">
+<!ENTITY  newMessageCmd.accesskey         "M">
+ 
+<!ENTITY  newCardCmd.label                "Adresskort…">
+<!ENTITY  newCardCmd.accesskey            "A">
+ 

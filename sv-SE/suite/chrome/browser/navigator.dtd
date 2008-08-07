@@ -1,0 +1,211 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY nothingAvailable.label "(Inget tillgängligt)">
+
+<!ENTITY browserCmd.label					"Nytt fönster">
+<!ENTITY browserCmd.accesskey				"t">
+<!ENTITY tabCmd.label "Flik">
+<!ENTITY tabCmd.accesskey "l">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Öppna webbplats…">
+<!ENTITY openCmd.accesskey "w">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Öppna fil…">
+<!ENTITY openFileCmd.accesskey "p">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY recentTabs.label "Nyligen stängda flikar">
+<!ENTITY recentTabs.accesskey "y">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY editPageCmd.label					"Redigera sida">
+<!ENTITY editPageCmd.accesskey				"d">
+<!ENTITY editPageCmd.commandkey "e">
+<!ENTITY editFrameCmd.label "Redigera ram">
+<!ENTITY editFrameCmd.accesskey				"m">
+<!ENTITY editFrameSetCmd.label		  "Redigera ramuppsättning">
+<!ENTITY editFrameSetCmd.accesskey		"t">
+
+<!ENTITY uploadFile.label "Lägg upp fil…">
+<!ENTITY uploadFile.accesskey "g">
+
+<!ENTITY printSetupCmd.label "Utskriftsformat…">
+<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printPreviewCmd.label "Förhandsgranska">
+<!ENTITY printPreviewCmd.accesskey "h">
+<!ENTITY printCmd.label "Skriv ut…">
+<!ENTITY printCmd.accesskey "u">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY viewMenu.label "Visa">
+<!ENTITY viewMenu.accesskey "V">
+
+<!ENTITY toolbarsCmd.label "Visa/Dölj">
+<!ENTITY toolbarsCmd.accesskey "i">
+<!ENTITY navbarCmd.label "Navigationsfält">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "Eget verktygsfält">
+<!ENTITY personalbarCmd.accesskey "E">
+<!ENTITY tabbarCmd.label "Flikfält">
+<!ENTITY tabbarCmd.accesskey "l">
+<!ENTITY taskbarCmd.label "Statusfält">
+<!ENTITY taskbarCmd.accesskey "t">
+<!ENTITY componentbarCmd.label "Komponentfält">
+<!ENTITY componentbarCmd.accesskey "K">
+
+<!ENTITY useStyleSheetMenu.label "Använd formatmall">
+<!ENTITY useStyleSheetMenu.accesskey "v">
+<!ENTITY useStyleSheetNone.label "Ingen">
+<!ENTITY useStyleSheetNone.accesskey "I">
+<!ENTITY useStyleSheetPersistentOnly.label "(Basformatering)">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "B">
+<!ENTITY pageSourceCmd.label "Källkod">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Sidinformation">
+<!ENTITY pageInfoCmd.accesskey "s">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Helskärm">
+<!ENTITY fullScreenCmd.accesskey "H">
+<!ENTITY translateMenu.label "Översätt">
+<!ENTITY translateMenu.accesskey "t">
+<!ENTITY translate.commandKey "t">
+
+<!ENTITY closeOtherTabs.label "Stäng alla andra flikar">
+<!ENTITY closeOtherTabs.accesskey "a">
+<!ENTITY closeWindow.label "Stäng fönstret">
+<!ENTITY closeWindow.accesskey "f">
+
+<!ENTITY minimizeButton.tooltip       "Minimera">
+<!ENTITY restoreButton.tooltip        "Återställ">
+
+<!-- I'd like all this to move to an overlay or something -->
+<!ENTITY bidiMenu.label "Dubbelriktningsinställningar">
+<!ENTITY directionBidiMenu.label "Förinställd riktning">
+<!ENTITY directionRTLBidiCmd.label "Höger till vänster">
+<!ENTITY directionLTRBidiCmd.label "Vänster till höger">
+<!ENTITY texttypeBidiMenu.label "Texttyp">
+<!ENTITY charsettexttypeBidiCmd.label "Baserad på teckenuppsättning">
+<!ENTITY logicaltexttypeBidiCmd.label "Logiskt">
+<!ENTITY visualtexttypeBidiCmd.label "Visuellt">
+<!ENTITY numeralBidiMenu.label "Sifferform">
+<!ENTITY regularcontextnumeralBidiCmd.label "kontextuell">
+<!ENTITY hindicontextnumeralBidiCmd.label "Hindi numerals on RTL Document Direction">
+<!ENTITY arabicnumeralBidiCmd.label "Arabisk">
+<!ENTITY hindinumeralBidiCmd.label "Hindi">
+<!ENTITY controlstextmodeBidiMenu.label "Textläge i kontroller">
+<!ENTITY logicalcontrolstextmodeBidiCmd.label "Logisk">
+<!ENTITY visiualcontrolstextmodeBidiCmd.label "Visuell">
+<!ENTITY containercontrolstextmodeBidiCmd.label "Som innehållande dokument">
+<!ENTITY charactersetBidiMenu.label "Teckenuppsättning">
+<!ENTITY doccharactersetBidiCmd.label "Använd teckenuppsättningen som angivits i dokumentet">
+<!ENTITY defaultcharactersetBidiCmd.label "Använd min förvalda teckenuppsättning, i stället för den som angivits i dokumentet">
+
+<!ENTITY webContentMenu.label "Språk och webbinnehåll">
+<!ENTITY webContentMenu.accesskey "l">
+<!ENTITY downloadMore.label "Ladda ned mer">
+<!ENTITY downloadMore.accesskey "d">
+<!ENTITY applyTheme.label				"Använd tema">
+<!ENTITY applyTheme.accesskey	"A"> 
+<!ENTITY getNewThemesCmd.label "Hämta nya teman">
+<!ENTITY getNewThemesCmd.accesskey                             "n">
+<!ENTITY searchMenu.label "Sök">
+<!ENTITY searchMenu.accesskey "S">
+<!ENTITY findOnCmd.label "Sök på sidan…">
+<!ENTITY findOnCmd.accesskey "p">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Sök nästa">
+<!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Sök föregående">
+<!ENTITY findPrevCmd.accesskey "f">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!ENTITY searchInternetCmd.label "Sök på Internet">
+<!ENTITY searchInternetCmd.accesskey "p">
+<!ENTITY searchInternet.commandKey "s">
+
+<!ENTITY clearPrivateDataCmd.label "Rensa ut personliga uppgifter…">
+<!ENTITY clearPrivateDataCmd.accesskey "a">
+
+<!ENTITY goMenu.label "Gå till">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY goHomeCmd.label "Startsidan">
+<!ENTITY goHomeCmd.accesskey "S">
+
+<!ENTITY bookmarksMenu.label "Bokmärken">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY addCurPageCmd.label "Lägg till aktuell sida">
+<!ENTITY addCurPageCmd.accesskey "a">
+<!ENTITY addCurPageAsCmd.label "Lägg till sidan här…">
+<!ENTITY addCurPageAsCmd.accesskey "g">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Lägg till flikgruppen…">
+<!ENTITY addCurTabsAsCmd.accesskey "f">
+<!ENTITY manBookmarksCmd.label "Hantera bokmärken…">
+<!ENTITY manBookmarksCmd.accesskey "m">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Prenumerera på den här sidan">
+<!ENTITY feedsMenu.accesskey "P">
+<!ENTITY emptyItem.label "(Tom)">
+
+<!ENTITY helpMenuCmd.label "Hjälp">
+<!ENTITY helpMenuCmd.accesskey "H">
+<!ENTITY helpContentsCmd.label "Hjälpinnehåll">
+<!ENTITY softwareUpdatesCmd.label "Programuppdateringar">
+<!ENTITY technicalSupportCmd.label "Teknisk support">
+<!ENTITY releaseNotesCmd.label "Versionsfakta">
+
+<!ENTITY menuBar.tooltip              "Menyrad">
+<!ENTITY personalToolbar.tooltip          "Eget verktygsfält">
+<!ENTITY navigationToolbar.tooltip        "Navigationsfält">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label             "Bakåt">
+<!ENTITY backButton.tooltip           "Gå tillbaka en sida">
+<!ENTITY forwardButton.label          "Framåt">
+<!ENTITY forwardButton.tooltip        "Gå framåt en sida">
+<!ENTITY reloadButton.label           "Uppdatera">
+<!ENTITY reloadButton.tooltip         "Uppdatera aktuell sida">
+<!ENTITY stopButton.label             "Stopp">
+<!ENTITY stopButton.tooltip           "Avbryt inläsningen av denna sida">
+<!ENTITY searchButton.label           "Sök">
+<!ENTITY searchButton.tooltip         "Skriv in ett ord i fältet till vänster och klicka på Sök">
+<!ENTITY goButton.label               "Gå">
+<!ENTITY goButton.tooltip             "Gå direkt till webbsidan i adressfältet">
+<!ENTITY printButton.label            "Skriv ut">
+<!ENTITY printButton.tooltip          "Skriv ut den här sidan">
+
+<!ENTITY throbber.tooltip             "Gå till &vendorShortName;s webbplats">
+
+<!ENTITY locationBar.tooltip          "Adress- och sökfält">
+<!ENTITY locationBar.accesskey        "d">
+<!ENTITY locationBar.title            "Adress">
+
+<!ENTITY proxyIcon.tooltip            "Dra och släpp den här ikonen för att skapa en länk till den här sidan">
+<!ENTITY internetKeyword.tooltip      "Återgå till tidigare visad sida eller välj nyckelord">
+
+<!-- Toolbar items --> 
+<!ENTITY  bookmarksButton.label       "Bokmärken">
+<!ENTITY  bookmarksButton.tooltip     "Lista över bokmärken">
+<!ENTITY  homeButton.label            "Startsida">
+
+<!-- Statusbar -->
+<!ENTITY  statusText.label            "Dokument: Klart">
+
+<!ENTITY historyCmd.label           "Historik">  
+<!ENTITY historyCmd.accesskey       "i">
+<!ENTITY history.commandKey       "h">
+
+<!ENTITY popupIcon.tooltiptext      "Tillåt den här webbplatsens extrafönster">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Byt sidriktning">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "y">
+

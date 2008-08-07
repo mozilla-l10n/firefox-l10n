@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
+<!ENTITY pref.applications.title        "Hjälpprogram">
+
+<!ENTITY typeColumn.label        "Typ av innehåll">
+<!ENTITY typeColumn.accesskey    "T">
+
+<!ENTITY actionColumn2.label     "Åtgärd">
+<!ENTITY actionColumn2.accesskey "Å">
+
+<!ENTITY filter.label            "Sök:">
+<!ENTITY filter.accesskey        "S">
+
+<!ENTITY clear.label             "Rensa">
+<!ENTITY clear.accesskey         "R">

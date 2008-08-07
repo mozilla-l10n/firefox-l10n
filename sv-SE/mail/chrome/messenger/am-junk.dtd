@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Skräppost">
+<!ENTITY trainingWarning.label "Om du vill aktivera detta måste du först träna upp &brandShortName; i att identifiera skräppost genom att använda knappen Skräppost i verktygsfältet för att märka meddelanden som skräp eller inte skräp. Du behöver identifiera både sådant som är skräp och sådant som inte är skräp.">
+<!ENTITY level.label "Aktivera skräppost-kontroll">
+<!ENTITY level.accesskey "A">
+
+<!ENTITY move.label "Flytta ny skräppost till:">
+<!ENTITY move.accesskey "F">
+<!ENTITY junkFolderOn.label "”Skräp”-mappen i:">
+<!ENTITY junkFolderOn.accesskey "S">
+<!ENTITY otherFolder.label "Annan plats:">
+<!ENTITY otherFolder.accesskey "n">
+<!ENTITY purge1.label "Ta automatiskt bort skräppost äldre än">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "dagar">
+
+<!ENTITY whitelist.label "Märk inte e-post som skräp om avsändaren finns i: ">
+<!ENTITY whitelist.accesskey "M">
+
+<!ENTITY ispHeaders.label "Lita på skräppostrubriker satta av: ">
+<!ENTITY ispHeaders.accesskey "å">

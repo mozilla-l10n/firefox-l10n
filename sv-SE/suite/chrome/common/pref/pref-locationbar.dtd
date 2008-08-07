@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
+<!ENTITY pref.locationBar.title                "Adressfält">
+
+<!ENTITY autoComplete.label                    "Automatisk komplettering">
+<!ENTITY enableAutoComplete.label              "Komplettera automatiskt ur din surfandehistorik medan du skriver">
+<!ENTITY enableAutoComplete.accesskey          "o">
+<!ENTITY autoCompleteAutoFill.label            "Komplettera automatiskt med den bästa matchningen">
+<!ENTITY autoCompleteAutoFill.accesskey        "m">
+<!ENTITY autoCompleteShowPopup.label           "Visa en lista med matchande resultat">
+<!ENTITY autoCompleteShowPopup.accesskey       "s">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Matcha endast adresser som du skrivit in tidigare">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "c">
+
+<!ENTITY searchEngine.label                    "Söktjänst för Internet">
+<!ENTITY showSearchEngine.label                "Visa förinställd söktjänst">
+<!ENTITY showSearchEngine.accesskey            "f">
+
+<!ENTITY unknownLocations.label                "Okända adresser">
+<!ENTITY domainGuessing.label                  "Lägg till &quot;www.&quot; och &quot;.com&quot; till adressen om en webbplats inte hittas">
+<!ENTITY domainGuessing.accesskey              "ä">
+<!ENTITY keywords.label                        "Utför en sökning på webben när angiven text inte är en webbadress">
+<!ENTITY keywords.accesskey                    "U">

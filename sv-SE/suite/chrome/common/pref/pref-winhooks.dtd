@@ -1,0 +1,30 @@
+<!-- LOCALIZATION NOTE : FILE "Windows integration" preferences -->
+
+<!ENTITY pref.winHooks.title  "System">
+
+<!-- These entities are used on the "File Types" section of the dialog. -->
+<!ENTITY files.label     "Windows ska använda &brandShortName; för att öppna dessa filtyper:">
+<!ENTITY html.label      "HTML-dokument">
+<!ENTITY jpeg.label      "JPEG-bilder">
+<!ENTITY gif.label       "GIF-bilder">
+<!ENTITY png.label       "PNG-bilder">
+<!ENTITY xbm.label       "XBM-bilder">
+<!ENTITY bmp.label       "BMP-bilder">
+<!ENTITY ico.label       "ICO-bilder">
+<!ENTITY xml.label       "XML-dokument">
+<!ENTITY xhtml.label     "XHTML-dokument">
+<!ENTITY xul.label       "XUL-dokument">
+
+<!-- These entities are used on the "Internet Shortcuts" section of the dialog. -->
+<!ENTITY protocols.label      "Windows ska använda &brandShortName; för att hantera dessa protokoll:">
+<!ENTITY http.label      "http: (protokoll för överföring av HTML-dokument etc.)">
+<!ENTITY https.label      "https: (protokoll för säker överföring av HTML-dokument etc.)">
+<!ENTITY ftp.label        "ftp: (protokoll för överföring av filer)">
+<!--LOCALIZATION NOTE (chrome.label): Don't translate 'chrome' -->
+<!ENTITY chrome.label     "chrome: (Chrome-protokoll)">
+<!ENTITY gopher.label     "gopher: (Gopher-protokoll)">
+
+<!-- This entity is for the "show this dialog" checkbox. -->
+<!ENTITY showDialog.label "Varna om andra program ändrar dessa inställningar">
+<!ENTITY showDialog.accesskey "a">
+

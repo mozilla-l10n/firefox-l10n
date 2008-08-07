@@ -1,0 +1,65 @@
+<!--
+   - The contents of this file are subject to the Mozilla Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/MPL/
+   - 
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   - 
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   - 
+   - The Original Code is the Mozilla Swedish translation for Mozilla 1.0.
+   - 
+   - The Initial Developer of the Original Code is Henrik Olsson.
+   - 
+   - Contributor(s):
+   - Henrik Olsson <henriko@algonet.se>
+   - Hasse Wallanger <jasajudeju@telia.com>
+  -->
+<!-- extracted from am-main.xul -->
+
+<!ENTITY accountTitle.label "Kontoinställningar">
+<!ENTITY accountName.label "Kontonamn:">
+<!ENTITY accountName.accesskey "K">
+<!ENTITY accountNameDesc.label "Detta är endast för din egen del, så du vet vilka konton som är vilka">
+<!ENTITY identityTitle.label "Standardidentitet">
+<!ENTITY identityDesc.label "Varje konto har en egen identitet som andra ser och identifierar dig med när du skickar meddelanden.">
+<!ENTITY name.label "Ditt namn:">
+<!ENTITY name.accesskey "n">
+<!ENTITY email.label "E-postadress:">
+<!ENTITY email.accesskey "E">
+<!ENTITY replyTo.label "Svara till e-postadress:">
+<!ENTITY replyTo.accesskey "S">
+<!ENTITY organization.label "Organisation:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "Bifoga signatur:">
+<!ENTITY signature.accesskey "B">
+<!ENTITY edit.label "Redigera…">
+<!ENTITY choose.label "Välj…">
+<!ENTITY choose.accesskey "V">
+<!ENTITY editVCard.label "Redigera kort…">
+<!ENTITY editVCard.accesskey "R">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Bifoga visitkort (vCard)">
+<!ENTITY attachVCard.accesskey "C">
+
+<!ENTITY manageIdentities.label "Hantera identiteter…">
+<!ENTITY manageIdentities.accesskey "a">
+
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+<!ENTITY smtpName.label "Utgående server (SMTP):">
+<!ENTITY smtpName.accesskey "U">
+<!ENTITY smtpDefaultServer.label "Använd standardservern">

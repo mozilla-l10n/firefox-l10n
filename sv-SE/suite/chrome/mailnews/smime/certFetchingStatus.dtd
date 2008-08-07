@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Hämtar certifikat">
+<!ENTITY info.message "Söker i katalogen efter mottagares certifikat. Detta kan ta några minuter.">
+<!ENTITY stop.label "Avbryt sökningen">

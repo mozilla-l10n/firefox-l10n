@@ -1,0 +1,14 @@
+
+<!ENTITY prefWindow.titleWin      "Inställningar">
+<!ENTITY prefWindow.titleGNOME    "&brandShortName; Inställningar">
+<!ENTITY prefWindow.styleWindows  "width: 44em; min-height: 38.5em;">
+<!ENTITY prefWindow.styleMac      "width: 47em;">
+<!ENTITY prefWindow.styleGNOME    "width: 44em; min-height: 38em;">
+
+<!ENTITY paneGeneral.title        "Allmänt">
+<!ENTITY paneDisplay.title        "Visa">
+<!ENTITY paneTags.title           "Etiketter">
+<!ENTITY paneComposition.title    "Skriva">
+<!ENTITY paneAttachments.title    "Bilagor">
+<!ENTITY panePrivacy.title        "Sekretess">
+<!ENTITY paneAdvanced.title       "Avancerat">

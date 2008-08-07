@@ -1,0 +1,26 @@
+<!ENTITY pref.images.title              "Bilder">
+
+<!ENTITY imageBlocking.label            "Principer för att acceptera bilder">
+
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY imageDetails                   "Ange hur &brandShortName; ska hantera bilder.">
+
+<!ENTITY accAllImagesRadio.label        "Acceptera alla bilder">
+<!ENTITY accAllImagesRadio.accesskey    "a">
+<!ENTITY accOrgImagesRadio.label        "Acceptera endast bilder som kommer från ursprungsservern">
+<!ENTITY accOrgImagesRadio.accesskey    "n">
+<!ENTITY disableImages.label            "Hämta inga bilder">
+<!ENTITY disableImages.accesskey        "i">
+<!ENTITY viewImagesExplanation.label    "Visa en lista över webbplatser för vilka information om bildacceptans finns lagrad">
+<!ENTITY viewImages.label               "Visa tillstånd för bilder">
+<!ENTITY viewImages.accesskey           "V">
+<!ENTITY animLoopingTitle.label         "Animeringssekvensen i animerade bilder ska visas">
+<!ENTITY animLoopAsSpecified.label      "Så många gånger som anges i bilden">
+<!ENTITY animLoopAsSpecified.accesskey  "m">
+<!ENTITY animLoopOnce.label             "En gång">
+<!ENTITY animLoopOnce.accesskey         "E">
+<!ENTITY animLoopNever.label            "Aldrig">
+<!ENTITY animLoopNever.accesskey        "d">

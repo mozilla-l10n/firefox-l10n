@@ -1,0 +1,20 @@
+<!ENTITY window.title "Sortera mapp">
+
+<!ENTITY sortOptions.label "Sorteringsalternativ">
+<!ENTITY description.label "&brandShortName; kan sortera individuella mappar. Använd dessa alternativ för att anpassa ordningen i denna mapp.">
+
+<!ENTITY sortBy.label "Sortera på:">
+<!ENTITY sortBy.name.label "Namn">
+<!ENTITY sortBy.url.label "Adress">
+<!ENTITY sortBy.shortcutUrl.label "Nyckelord">
+<!ENTITY sortBy.description.label "Beskrivning">
+<!ENTITY sortBy.bookmarkAddDate.label "Tillagd den">
+<!ENTITY sortBy.lastModifiedDate.label "Senast ändrad">
+<!ENTITY sortBy.lastVisitDate.label "Senast besökt">
+
+<!ENTITY sortOrder.label "I ordning:">
+<!ENTITY sortAscending.label "Stigande">
+<!ENTITY sortDescending.label "Fallande">
+
+<!ENTITY sortFoldersFirst.label "Placera mappar först">
+<!ENTITY sortRecursively.label "Behåll (upprepa) ordningen">

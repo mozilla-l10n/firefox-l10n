@@ -1,0 +1,37 @@
+<!ENTITY pref.cookies.title             "Kakor (cookies)">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label             "Principer för att acceptera kakor">
+
+<!ENTITY accAllCookiesRadio.label       "Tillåt alla kakor">
+<!ENTITY accAllCookiesRadio.accesskey   "a">
+
+<!ENTITY accOrgCookiesRadio.label       "Tillåt kakor från ursprungsplatsen enbart">
+<!ENTITY accOrgCookiesRadio.accesskey   "o">
+
+<!ENTITY disableCookies.label           "Tillåt inte kakor">
+<!ENTITY disableCookies.accesskey       "i">
+
+<!ENTITY cookieRetentionPolicy.label    "Principer för kakors lagringstid">
+
+<!ENTITY acceptNormally.label           "Tillåt att kakor lagras på normalt sätt">
+<!ENTITY acceptNormally.accesskey       "T">
+
+<!ENTITY acceptForSession.label         "Tillåt att kakor lagras endast under aktuell session">
+<!ENTITY acceptForSession.accesskey     "s">
+
+<!ENTITY acceptforNDays.label           "Tillåt att kakor lagras under">
+<!ENTITY acceptforNDays.accesskey       "u">
+<!ENTITY days.label                     "dagar">
+
+<!ENTITY warnAboutCookies.label         "Varna mig innan en kaka lagras">
+<!ENTITY warnAboutCookies.accesskey     "r">
+<!ENTITY forCurrentSession.label        "förutom om tillfälliga kakor">
+<!ENTITY forCurrentSession.accesskey    "f">
+
+<!ENTITY manageCookies.label            "Hantera kakor och webbplatser">
+<!ENTITY manageCookiesDescription.label "Låter dig visa och hantera lagrade kakor och inställningar för accepterande och blockerande av kakor för olika platser. Inställningar för en plats kommer att åsidosätta ovanstående inställningar.">
+
+<!ENTITY viewCookies.label              "Hantera lagrade kakor">
+<!ENTITY viewCookies.accesskey          "n">

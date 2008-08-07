@@ -1,0 +1,94 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Säkerhetsinställningar">
+<!ENTITY serverSettings.label "Serverinställningar">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "Server för e-post (POP)">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "Server för e-post (IMAP)">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Server för grupper (NNTP)">
+<!ENTITY webmail.label "Webbpostkonto">
+<!ENTITY serverType.label "Servertyp:">
+<!ENTITY serverName.label "Server:">
+<!ENTITY serverName.accesskey "e">
+<!ENTITY userName.label "Användarnamn:">
+<!ENTITY userName.accesskey "n">
+<!ENTITY port.label "Port:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Förvald:">
+<!ENTITY savePassword.label "Lagra lösenord">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Kontrollera var ">
+<!ENTITY biffStart.accesskey "r">
+<!ENTITY biffEnd.label "minut om det kommit nya meddelanden">
+<!ENTITY isSecure.label "Använd säker anslutning (SSL)">
+<!ENTITY isSecure.accesskey "A">
+<!ENTITY socketType.label "Använd säker anslutning:">
+<!ENTITY neverSecure.label "Aldrig">
+<!ENTITY neverSecure.accesskey "A">
+<!ENTITY sometimesSecure.label "TLS, om tillgängligt">
+<!ENTITY sometimesSecure.accesskey "o">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "S">
+<!ENTITY useSecAuth.label "Använd säker autentisering">
+<!ENTITY useSecAuth.accesskey "u">
+<!ENTITY leaveOnServer.label "Lämna kvar meddelanden på servern">
+<!ENTITY leaveOnServer.accesskey "m">
+<!ENTITY headersOnly.label "Hämta endast brevhuvudet">
+<!ENTITY headersOnly.accesskey "b">
+<!ENTITY deleteByAgeFromServer.label "som längst">
+<!ENTITY deleteByAgeFromServer.accesskey "ä">
+<!ENTITY daysEnd.label "dagar">
+<!ENTITY deleteOnServer2.label "tills jag tar bort dem">
+<!ENTITY deleteOnServer2.accesskey "j">
+<!ENTITY downloadOnBiff.label "Hämta ny e-post automatiskt">
+<!ENTITY downloadOnBiff.accesskey "y">
+<!ENTITY hostname.label "Värdserverns namn">
+<!ENTITY username.label "Ditt inloggningsnamn">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "Information om POP-servern">
+<!ENTITY deleteMessagePrefix.label "När jag tar bort ett meddelande:">
+<!ENTITY modelMoveToTrash.label "Flytta det till papperskorgen">
+<!ENTITY modelMoveToTrash.accesskey "F">
+<!ENTITY modelMarkDeleted.label "Märk det som borttaget">
+<!ENTITY modelMarkDeleted.accesskey "M">
+<!ENTITY modelDeleteImmediately.label "Ta bort det genast">
+<!ENTITY modelDeleteImmediately.accesskey "b">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Rensa (&quot;töm&quot;) inkorgen när programmet avslutas">
+<!ENTITY expungeOnExit.accesskey "ä">
+<!ENTITY emptyTrashOnExit.label "Töm papperskorgen när programmet avslutas">
+<!ENTITY emptyTrashOnExit.accesskey "ö">
+<!ENTITY loginAtStartup.label "Kontrollera om det kommit nya meddelanden vid start"> 
+<!ENTITY loginAtStartup.accesskey "d">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Fråga innan fler än">
+<!ENTITY maxMessagesStart.accesskey "å">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "meddelanden hämtas">
+<!ENTITY alwaysAuthenticate.label "Begär alltid autentisering vid anslutning till denna server">
+<!ENTITY alwaysAuthenticate.accesskey "B">
+<!ENTITY newsrcFilePath.label "filen newsrc:">
+<!ENTITY localPath.label "Lokal sökväg:">
+<!ENTITY abbreviate.label "Visa namn på diskussionsgrupper i mappanelen som:">
+<!ENTITY abbreviateOn.label "Hela namnet (t.ex. 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Förkortat namn (t.ex. 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Avancerat…">
+<!ENTITY serverDefaultCharset.label "Förinställd teckenkodning:">
+<!ENTITY advancedButton.accesskey "c">
+<!ENTITY localFolderPicker.label "Välj lokal mapp">
+<!ENTITY browseFolder.label "Välj…">
+<!ENTITY browseFolder.accesskey "V">
+<!ENTITY newsrcPicker.label "Välj filen newsrc">
+<!ENTITY browseNewsrc.label "Välj…">
+<!ENTITY browseNewsrc.accesskey "ä">

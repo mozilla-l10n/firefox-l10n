@@ -1,0 +1,66 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Stephen Lamm <slamm@netscape.com>
+   -   Blake Ross <BlakeR1234@aol.com>
+   -   Samir Gehani <sgehani@netscape.com>
+   -   Mikael Hedberg <hedberg@novasphere.net>
+   -   Lars P M <larspeemm@netscape.net>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY sidebar.panels.label           "Sidofält">
+<!ENTITY sidebar.reload.label        "Uppdatera">
+<!ENTITY sidebar.reload.accesskey       "U">
+<!ENTITY sidebar.picker.label           "Flikar">
+<!ENTITY sidebar.customize.label        "Anpassa sidofält…">
+<!ENTITY sidebar.customize.accesskey    "a">
+<!ENTITY sidebar.hide.label             "Dölj flik">
+<!ENTITY sidebar.hide.accesskey         "D">
+<!ENTITY sidebar.switch.label           "Växla till flik">
+<!ENTITY sidebar.switch.accesskey       "V">
+<!ENTITY sidebarCmd.label               "Sidofält">
+<!ENTITY sidebarCmd.accesskey           "f">
+<!ENTITY sidebar.loading.label          "Läser in…">
+<!ENTITY sidebar.loadstopped.label      "Inläsning avbruten">
+<!ENTITY sidebar.loading.stop.label     "Avbryt">
+<!ENTITY sidebar.loading.stop.accesskey "b">
+
+<!ENTITY sidebar.no-panels.state     "Sidofältet är för närvarande tomt.">
+<!ENTITY sidebar.no-panels.add       'Du kan lägga till flikar genom att trycka på "Flikar"-knappen ovan.'>
+<!ENTITY sidebar.no-panels.hide      'Om du vill dölja sidofältet helt, klicka på Visa-menyn ovan och välj "Sidofält".'>
+<!ENTITY sidebar.sbDirectory.label   "Webbkatalog…">
+
+<!ENTITY sidebar.pagenotfound.label  "Denna flik är för tillfället inte tillgänglig.">
+<!ENTITY sidebar.close.tooltip       "Stäng sidofältet">
+<!ENTITY sidebar.open.tooltip        "Öppna sidofältet">

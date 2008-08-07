@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Skräppost-logg">
+<!ENTITY junkLogInfo.label "Logg över skräppostfiltrets aktivitet.">
+<!ENTITY clearLog.label "Rensa logg">
+<!ENTITY clearLog.accesskey "R">
+<!ENTITY closeLog.label "Stäng">
+<!ENTITY closeLog.accesskey "ä">

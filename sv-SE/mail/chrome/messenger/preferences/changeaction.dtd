@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "Redigera filtyp">
+<!ENTITY  window.width                        "36em">
+
+<!ENTITY  whenDownloading.label               "Vid hämtning av dessa filer:">
+
+<!ENTITY  openDefault.label                   "Öppna med standardprogrammet:">
+<!ENTITY  openDefault.accesskey               "Ö">
+<!ENTITY  openApplication.label               "Öppna med detta program:">
+<!ENTITY  openApplication.accesskey           "d">
+<!ENTITY  changeApp.label                     "Bläddra…">
+<!ENTITY  changeApp.accesskey                 "B">
+<!ENTITY  saveToDisk.label                    "Spara till disk">
+<!ENTITY  saveToDisk.accesskey                "S">
+<!ENTITY  saveToDefaultFolder.label           "i standardmappen för hämtningar">
+<!ENTITY  saveToDefaultFolder.accesskey       "t">
+<!ENTITY  saveToThisFolder.label              "i denna mapp:">
+<!ENTITY  saveToThisFolder.accesskey          "m">
+<!ENTITY  chooseFolder.label                  "Bläddra…">
+<!ENTITY  chooseFolder.accesskey              "ä">
+<!ENTITY  saveToAskMe.label                   "fråga mig var filen ska sparas">
+<!ENTITY  saveToAskMe.accesskey               "v">
+<!ENTITY  usePlugin.label                     "Använd denna insticksmodul:">
+<!ENTITY  usePlugin.accesskey                 "A">

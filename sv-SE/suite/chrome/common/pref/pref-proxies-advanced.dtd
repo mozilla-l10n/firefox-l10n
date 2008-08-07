@@ -1,0 +1,30 @@
+<!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
+<!ENTITY  pref.proxies.advanced.title "Avancerade proxyinställningar">
+<!ENTITY  protocols.caption           "Protokollspecifika proxyservrar">
+<!ENTITY  protocols.description       "Normalt kan samma proxy hantera alla protokoll som listas här.">
+<!ENTITY  ftp.label                   "FTP-proxy:">
+<!ENTITY  ftp.accesskey               "F">
+<!ENTITY  gopher.label                "Gopher-proxy:">
+<!ENTITY  gopher.accesskey            "G">
+<!ENTITY  http.label                  "HTTP-proxy:">
+<!ENTITY  http.accesskey              "T">
+<!ENTITY  reuseProxy.label            "Använd inställningarna för HTTP-proxyn för alla protokoll">
+<!ENTITY  reuseProxy.accesskey        "A">
+<!ENTITY  ssl.label                   "SSL-proxy:">
+<!ENTITY  ssl.accesskey               "S">
+<!ENTITY  socks.caption               "Generisk proxy">
+<!ENTITY  socks.description           "En SOCKS-proxy är en generisk proxy som ibland används i vissa organisationer.">
+<!ENTITY  socks.label                 "SOCKS-proxy:">
+<!ENTITY  socks.accesskey             "O">
+<!ENTITY  socks4.label                "SOCKS v4">
+<!ENTITY  socks4.accesskey            "C">
+<!ENTITY  socks5.label                "SOCKS v5">
+<!ENTITY  socks5.accesskey            "K">
+<!ENTITY  socksRemoteDNS.label        "Använd för att slå upp värdnamn (rekommenderas för SOCKS v5)">
+<!ENTITY  socksRemoteDNS.accesskey    "n">
+<!ENTITY  port.label                  "Port:">
+<!ENTITY  HTTPport.accesskey          "P">
+<!ENTITY  SSLport.accesskey           "o">
+<!ENTITY  FTPport.accesskey           "r">
+<!-- No accesskey for gopher (':' doesn't go well) -->
+<!ENTITY  SOCKSport.accesskey         "t">

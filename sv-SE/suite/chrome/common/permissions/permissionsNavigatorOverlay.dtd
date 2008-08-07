@@ -1,0 +1,45 @@
+<!-- the following is for the task menu overlay -->
+
+<!ENTITY cookieMessageTitle.label "Inställningar för kakor har ändrats">
+<!ENTITY cookieDisplayCookiesCmd.label "Hantera lagrade kakor">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "H">
+<!ENTITY cookieAllowCookiesCmd.label "Tillåt kakor från denna webbplats">
+<!ENTITY cookieAllowCookiesCmd.accesskey "T">
+<!ENTITY cookieAllowCookiesMsg.label "Kakor från denna webbplats blockeras inte ">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Tillåt tillfälliga kakor från denna webbplats">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "ä">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Denna webbplats kommer endast att kunna använda kakor under den aktuella sessionen.">
+<!ENTITY cookieCookiesDefaultCmd.label "Använd förinställningarna för kakor">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "A">
+<!ENTITY cookieCookiesDefaultMsg.label "Kakor från denna webbplats accepteras eller blockeras enligt förinställningarna.">
+<!ENTITY cookieBlockCookiesCmd.label "Blockera kakor från denna webbplats">
+<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesMsg.label "Kakor från denna webbplats blockeras alltid">
+
+<!ENTITY cookieImageMessageTitle.label "Bildinställningarna har ändrats">
+<!ENTITY cookieDisplayImagesCmd.label "Hantera bildinställningar">
+<!ENTITY cookieDisplayImagesCmd.accesskey "H">
+<!ENTITY cookieAllowImagesCmd.label "Tillåt bilder från denna webbplats">
+<!ENTITY cookieAllowImagesCmd.accesskey "T">
+<!ENTITY cookieAllowImagesMsg.label "Bilder från denna webbplats hämtas alltid">
+<!ENTITY cookieImagesDefaultCmd.label "Använd förinställningarna för bilder">
+<!ENTITY cookieImagesDefaultCmd.accesskey "A">
+<!ENTITY cookieImagesDefaultMsg.label "Bilder från denna webbplats hämtas enligt förinställningarna">
+<!ENTITY cookieBlockImagesCmd.label "Blockera bilder från denna webbplats">
+<!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesMsg.label "Bilder från denna webbplats hämtas aldrig">
+
+<!ENTITY cookieAllowPopupsCmd.label                  "Tillåt extrafönster från denna webbplats">
+<!ENTITY cookieAllowPopupsCmd.accesskey              "T">
+<!ENTITY cookieManagePopups.label                    "Hantera extrafönster">
+<!ENTITY cookieManagePopups.accesskey                "H">
+
+<!ENTITY cookieTutorialCmd.label "Personlig integritet">
+<!ENTITY cookieTutorialCmd.accesskey "p">
+
+<!ENTITY cookieCookieManager.label "Hantera kakor">
+<!ENTITY cookieCookieManager.accesskey "o">
+<!ENTITY cookieImageManager.label "Hantera bilder">
+<!ENTITY cookieImageManager.accesskey "b">
+<!ENTITY cookiePopupManager.label "Hantera extrafönster">
+<!ENTITY cookiePopupManager.accesskey "e">

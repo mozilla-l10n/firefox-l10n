@@ -1,0 +1,151 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+   - Henrik Olsson <henriko@algonet.se>
+   - Hasse Wallanger <jasajudeju@telia.com>   
+   - Lars P M <larspeemm@netscape.net>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY Contact.tab                     "Kontakt"> 
+<!ENTITY Contact.accesskey               "K">
+<!ENTITY Name.box                        "Namn"> 
+
+<!-- LOCALIZATION NOTE: 
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName"> 
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName"> 
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+
+<!ENTITY NameField1.label               "Förnamn:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "Efternamn:">
+<!ENTITY NameField2.accesskey           "t">
+<!ENTITY PhoneticField1.label           "Fonetisk:">
+<!ENTITY PhoneticField2.label           "Fonetisk:">
+<!ENTITY DisplayName.label              "Kortnamn:">
+<!ENTITY DisplayName.accesskey          "o">
+<!ENTITY NickName.label                 "Smeknamn:">
+<!ENTITY NickName.accesskey             "S">
+
+<!ENTITY Internet.box                   "Internet">
+<!ENTITY PrimaryEmail.label		"E-postadress:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Annan e-post:">
+<!ENTITY SecondEmail.accesskey          "n">
+<!ENTITY PreferMailFormat.label         "Föredrar att få meddelanden kodade som:">
+<!ENTITY PreferMailFormat.accesskey     "d">
+<!ENTITY PlainText.label                "Oformaterad text">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Vet ej">
+<!ENTITY ScreenName.label               "Skärmnamn:">
+<!ENTITY ScreenName.accesskey           "m">
+
+<!ENTITY allowRemoteContent.label       "Tillåt fjärrbilder i HTML-meddelanden.">
+<!ENTITY allowRemoteContent.accesskey   "i">
+
+<!ENTITY Phones.box                     "Telefonnummer">
+<!ENTITY WorkPhone.label                "Arbete:">
+<!ENTITY WorkPhone.accesskey            "b">
+<!ENTITY HomePhone.label                "Hem:">
+<!ENTITY HomePhone.accesskey            "H">
+<!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Sökare:">
+<!ENTITY PagerNumber.accesskey          "r">
+<!ENTITY CellularNumber.label           "Mobil:">
+<!ENTITY CellularNumber.accesskey       "l">
+
+<!ENTITY Address.tab			"Adress">
+<!ENTITY Address.accesskey              "A"> 
+<!ENTITY Home.box			"Hem"> 
+<!ENTITY HomeAddress.label		"Adress:"> 
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label		""> 
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label			"Ort:">
+<!ENTITY HomeCity.accesskey             "O">
+<!ENTITY HomeState.label		"Delstat/Region:"> 
+<!ENTITY HomeState.accesskey            "s">
+<!ENTITY HomeZipCode.label		"Postnummer:"> 
+<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeCountry.label		"Land:">
+<!ENTITY HomeCountry.accesskey          "L">
+<!ENTITY HomeWebPage.label		"Webbplats:"> 
+<!ENTITY HomeWebPage.accesskey          "W">
+<!ENTITY Work.box			"Arbete"> 
+<!ENTITY JobTitle.label			"Titel:"> 
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label		"Avdelning:"> 
+<!ENTITY Department.accesskey           "v">
+<!ENTITY Company.label			"Organisation:">
+<!ENTITY Company.accesskey              "r">
+<!ENTITY WorkAddress.label		"Adress:"> 
+<!ENTITY WorkAddress.accesskey          "e">
+<!ENTITY WorkAddress2.label		""> 
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label			"Ort:">
+<!ENTITY WorkCity.accesskey             "t">
+<!ENTITY WorkState.label		"Delstat/Region:"> 
+<!ENTITY WorkState.accesskey            "g">
+<!ENTITY WorkZipCode.label		"Postnummer:"> 
+<!ENTITY WorkZipCode.accesskey          "u">
+<!ENTITY WorkCountry.label		"Land:">
+<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkWebPage.label		"Webbplats:"> 
+<!ENTITY WorkWebPage.accesskey          "b">
+
+<!ENTITY Other.tab                      "Övrigt">
+<!ENTITY Other.accesskey                "Ö">
+<!ENTITY Custom1.label                  "Övrigt 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Övrigt 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Övrigt 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Övrigt 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.box                      "Anteckningar">
+<!ENTITY Notes.accesskey                "n">

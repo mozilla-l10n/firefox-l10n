@@ -1,0 +1,77 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "Teckensnitt &amp; teckenuppsättningar">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "Teckensnitt för:">
+<!ENTITY  language.accesskey                      "c">
+
+<!ENTITY  typefaces.label                         "Stilsort">
+<!ENTITY  sizes.label                             "Storlek:">
+<!ENTITY  proportionalSize.accesskey              "t">
+<!ENTITY  monospaceSize.accesskey                 "o">
+
+<!ENTITY  proportional.label                      "Variabel bredd:">
+<!ENTITY  proportional.accesskey                  "V">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Fast bredd:">
+<!ENTITY  monospace.accesskey                     "F">
+
+<!ENTITY  fontsize.units                          "pixlar">
+
+<!ENTITY  font.langGroup.latin1                   "Västeuropeiska språk">
+<!ENTITY  font.langGroup.latin2                   "Centraleuropeiska språk">
+<!ENTITY  font.langGroup.japanese                 "Japanska">
+<!ENTITY  font.langGroup.trad-chinese             "Kinesiska, traditionell (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Kinesiska, förenklad">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Kinesiska, traditionell (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Koreanska">
+<!ENTITY  font.langGroup.cyrillic                 "Kyrilliska språk">
+<!ENTITY  font.langGroup.baltic                   "Baltiska språk">
+<!ENTITY  font.langGroup.el                       "Grekiska">
+<!ENTITY  font.langGroup.turkish                  "Turkiska">
+<!ENTITY  font.langGroup.unicode                  "Andra språk">
+<!ENTITY  font.langGroup.user-def                 "Användaranpassad">
+<!ENTITY  font.langGroup.thai                     "Thai">
+<!ENTITY  font.langGroup.hebrew                   "Hebreiska">
+<!ENTITY  font.langGroup.arabic                   "Arabiska">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Armeniska">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.canadian                 "Enhetlig kanadensisk stavelseskrift">
+<!ENTITY  font.langGroup.ethiopic                 "Etiopiska">
+<!ENTITY  font.langGroup.georgian                 "Georgiska">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Minsta storlek:">
+<!ENTITY minSize.accesskey                        "M">
+<!ENTITY minSize.none                             "Ingen">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!ENTITY  newLanguages.label                      "Nya språk kan konfigureras i panelen Språk.">
+
+<!ENTITY  useDocumentFonts.label                  "Låt meddelanden använda andra teckensnitt">
+<!ENTITY  useDocumentFonts.accesskey              "L">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Utgående e-post:">
+<!ENTITY sendDefaultCharset.accesskey     "U">
+<!ENTITY languagesTitle1.label            "Teckenuppsättningar">
+<!ENTITY composingDescription.label       "Ange standardteckenuppsättning för utgående och inkommande e-post">
+
+<!ENTITY viewDefaultCharsetList.label     "Inkommande e-post:">
+<!ENTITY viewDefaultCharsetList.accesskey "e">
+<!ENTITY replyInDefaultCharset2.label     "Använd om möjligt standardteckenuppsättningen för svar">
+<!ENTITY replyInDefaultCharset2.accesskey "d">

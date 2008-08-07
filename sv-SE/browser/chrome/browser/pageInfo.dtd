@@ -1,0 +1,123 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#                 Hasse Wallanger <hasse@jasajudeju.se>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "555">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Kopiera">
+<!ENTITY  copy.accesskey        "o">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Markera allt">
+<!ENTITY  selectall.accesskey   "M">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Allmänt">
+<!ENTITY  generalTab.accesskey  "A">
+<!ENTITY  generalURL            "Adress:">
+<!ENTITY  generalType           "Typ:">
+<!ENTITY  generalMode           "Renderingsläge:">
+<!ENTITY  generalSize           "Storlek:">
+<!ENTITY  generalReferrer       "Anvisande URL:">
+<!ENTITY  generalSource         "Cachekälla:">
+<!ENTITY  generalModified       "Ändrad:">
+<!ENTITY  generalEncoding       "Kodning:">
+<!ENTITY  generalMetaName       "Namn">
+<!ENTITY  generalMetaContent    "Innehåll">
+<!ENTITY  generalSecurityMore   "Mer">
+<!ENTITY  generalSecurityMore.accesskey "e">
+
+<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Adress:">
+<!ENTITY  mediaText             "Tillhörande text:">
+<!ENTITY  mediaAltHeader        "Alternativ text">
+<!ENTITY  mediaAddress          "Adress">
+<!ENTITY  mediaType             "Typ">
+<!ENTITY  mediaSize             "Storlek">
+<!ENTITY  mediaCount            "Antal gånger">
+<!ENTITY  mediaDimension        "Storlek:">
+<!ENTITY  mediaLongdesc         "Lång beskrivning:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Spara som…">
+<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs2.accesskey "p">
+<!ENTITY  mediaPreview          "Förhandsgranskning:">
+
+<!ENTITY  feedTab               "RSS">
+<!ENTITY  feedTab.accesskey     "R">
+<!ENTITY  feedSubscribe         "Prenumerera">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab               "Rättigheter">
+<!ENTITY  permTab.accesskey     "t">
+<!ENTITY  permUseDefault        "Använd standard">
+<!ENTITY  permAllow             "Tillåt">
+<!ENTITY  permAllowSession      "Tillåt för sessionen">
+<!ENTITY  permBlock             "Blockera">
+<!ENTITY  permissionsFor        "Rättigheter för:">
+<!ENTITY  permImage             "Hämta bilder">
+<!ENTITY  permPopup             "Öppna popup-fönster">
+<!ENTITY  permCookie            "Sätta kakor">
+<!ENTITY  permInstall           "Installera tillägg eller teman">
+
+<!ENTITY  securityTab           "Säkerhet">
+<!ENTITY  securityTab.accesskey "ä">
+<!ENTITY  securityHeader        "Säkerhetsinformation för den här sidan">
+<!ENTITY  securityView.certView "Visa certifikat">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Okänt">
+
+
+<!ENTITY  securityView.identity.header   "Webbplatsens identitet">
+<!ENTITY  securityView.identity.owner    "Ägare: ">
+<!ENTITY  securityView.identity.domain   "Webbplats: ">
+<!ENTITY  securityView.identity.verifier "Verifierad av: ">
+
+<!ENTITY  securityView.privacy.header                   "Sekretess &amp; historik">
+<!ENTITY  securityView.privacy.history                  "Har jag besökt den här webbplatsen tidigare dagar?">
+<!ENTITY  securityView.privacy.cookies                  "Lagrar den här webbplatsen information (kakor) på min dator?">
+<!ENTITY  securityView.privacy.viewCookies              "Visa kakor">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Har jag sparat några lösenord för den här webbplatsen?">
+<!ENTITY  securityView.privacy.viewPasswords            "Visa sparade lösenord">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "ö">
+
+<!ENTITY  securityView.technical.header                 "Tekniska detaljer">

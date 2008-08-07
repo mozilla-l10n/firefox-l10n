@@ -1,0 +1,124 @@
+<!--
+   - The contents of this file are subject to the Mozilla Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/MPL/
+   - 
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   - 
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   - 
+   - The Original Code is the Mozilla Swedish translation for Mozilla 1.0.
+   - 
+   - The Initial Developer of the Original Code is Henrik Olsson.
+   - 
+   - Contributor(s):
+   - Henrik Olsson <henriko@algonet.se>
+   - Hasse Wallanger <hasse@jasajudeju.se>
+  -->
+
+<!ENTITY securitySettings.label "Säkerhetsinställningar">
+<!ENTITY serverSettings.label "Serverinställningar">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Server för diskussionsgrupper (NNTP)">
+<!ENTITY webmail.label "Webbaserat e-postkonto (WebMail)">
+<!ENTITY serverType.label "Typ av teknik:">
+<!ENTITY serverName.label "Servernamn:">
+<!ENTITY serverName.accesskey "e">
+<!ENTITY userName.label "Användarnamn:">
+<!ENTITY userName.accesskey "n">
+<!ENTITY port.label "Port:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Standard:">
+<!ENTITY savePassword.label "Spara lösenord">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Kontrollera var ">
+<!ENTITY biffStart.accesskey "K">
+<!ENTITY biffEnd.label "minut om det kommit nya meddelanden">
+<!ENTITY isSecure.label "Använd säker förbindelse (SSL)">
+<!ENTITY isSecure.accesskey "ö">
+<!ENTITY socketType.label "Använd säker anslutning:">
+<!ENTITY neverSecure.label "Aldrig">
+<!ENTITY neverSecure.accesskey "A">
+<!ENTITY sometimesSecure.label "TLS, om tillgängligt">
+<!ENTITY sometimesSecure.accesskey "">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "S">
+<!ENTITY useSecAuth.label "Använd säker autentisering">
+<!ENTITY useSecAuth.accesskey "u">
+<!ENTITY leaveOnServer.label "Lämna kvar meddelanden på servern">
+<!ENTITY leaveOnServer.accesskey "å">
+<!ENTITY headersOnly.label "Hämta endast rubrikerna">
+<!ENTITY headersOnly.accesskey "r">
+<!ENTITY deleteByAgeFromServer.label "Som längst">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "dagar">
+<!ENTITY deleteOnServer2.label "Tills jag tar bort dem">
+<!ENTITY deleteOnServer2.accesskey "j">
+<!ENTITY downloadOnBiff.label "Hämta alla nya meddelanden automatiskt">
+<!ENTITY downloadOnBiff.accesskey "H">
+<!ENTITY hostname.label "Serveradress">
+<!ENTITY username.label "Ditt användarnamn">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "Uppgifter för POP">
+<!ENTITY deleteMessagePrefix.label "När jag tar bort ett meddelande:">
+<!ENTITY modelMoveToTrash.label "Flytta det till mappen:">
+<!ENTITY modelMoveToTrash.accesskey "F">
+<!ENTITY modelMarkDeleted.label "Märk det bara som borttaget">
+<!ENTITY modelMarkDeleted.accesskey "ä">
+<!ENTITY modelDeleteImmediately.label "Ta bort det omedelbart">
+<!ENTITY modelDeleteImmediately.accesskey "o">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Städa Inkorgen vid stängning">
+<!ENTITY expungeOnExit.accesskey "I">
+<!ENTITY emptyTrashOnExit.label "Töm papperskorgen vid stängning">
+<!ENTITY emptyTrashOnExit.accesskey "v">
+<!ENTITY loginAtStartup.label "Kontrollera om det kommit nya meddelanden vid start">
+<!ENTITY loginAtStartup.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+   of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Fråga innan mer än ">
+<!ENTITY maxMessagesStart.accesskey "F">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "meddelanden hämtas">
+<!ENTITY alwaysAuthenticate.label "Begär alltid inloggning vid anslutning till denna server">
+<!ENTITY alwaysAuthenticate.accesskey "">
+<!ENTITY newsrcFilePath.label "newsrc-fil:">
+<!ENTITY localPath.label "Lokal katalog:">
+<!ENTITY abbreviate.label "Visa namn på diskussionsgrupper:">
+<!ENTITY abbreviateOn.label "i sin helhet (Exempelvis, ”netscape.public.mozilla.mail-news”)">
+<!ENTITY abbreviateOff.label "som förkortning (Exempelvis, ”n.p.m.mail-news”)">
+<!ENTITY advancedButton.label "Avancerat…">
+<!ENTITY advancedButton.accesskey "c">
+<!ENTITY serverDefaultCharset.label "Standardteckenuppsättning:">
+<!ENTITY localFolderPicker.label "Välj lokal katalog">
+<!ENTITY browseFolder.label "Bläddra…">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "Välj newsrc-fil">
+<!ENTITY browseNewsrc.label "Bläddra…">
+<!ENTITY browseNewsrc.accesskey "d">

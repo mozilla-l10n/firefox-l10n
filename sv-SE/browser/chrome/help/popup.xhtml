@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Hasse Wallanger <jasajudeju@telia.com> (översättning)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Kontrollera popup-fönster</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Kontrollera popup-fönster</h1>
+
+<div class="contentsBox">
+  I detta avsnitt:
+  <ul>
+    <li><a href="#what_are_popups">Vad är popup-fönster?</a></li>
+    <li><a href="#popup_blocker_preferences">Inställningar för
+      popup-fönster</a></li>
+  </ul>
+</div>
+
+<h2 id="what_are_popups">Vad är popup-fönster?</h2>
+<p>Popup-fönster är fönster som visas automatiskt och utan din tillåtelse. De
+  kan variera i storlek men täcker oftast inte hela skärmen. En del
+  popup-fönster öppnas framför det aktuella webbläsarfönstret, medan andra
+  öppnas bakom det aktuella fönstret.</p>
+
+<p>&brandShortName; ger dig möjlighet att kontrollera båda typerna av
+  popup-fönster genom <a
+  href="prefs.xhtml#content_options">&pref.pluralCaps;-panelen Innehåll</a>.
+  Popup-blockering är aktiverad som
+  standard, så du behöver inte göra något för att förhindra att popup-fönster
+  visas i &brandShortName;.</p>
+
+<p>När ett popupfönster har blockerats kommer &brandShortName; att visa ett
+  informationsfält i överkant på sidan och en ikon
+  <img src="chrome://browser/skin/Info.png" width="16" height="16"
+  alt=""/> i Statusfältet. När du klickar på knappen <em>Inställningar</em> i
+  informationsfältet eller på ikonen i Statusfältet kommer en meny att visas
+  med följande alternativ:</p>
+
+<ul>
+  <li>Tillåt/Blockera popupfönster för [webbplatsen]</li>
+  <li>Redigera <a href="#popup_blocker_preferences">Popup-inställningar</a></li>
+  <li>Visa inte det här meddelandet (informationsfältet) när popup-fönster
+    blockeras</li>
+  <li>Visa [blockerat popupfönster]</li>
+</ul>
+
+<p><strong>Att blockera popup-fönster kan leda till problem på en del
+  webbplatser</strong>: En del webbplatser, t.ex. en del banker, använder
+  popup-fönster för vissa viktiga funktioner. Om du blockerar alla
+  popup-fönster kommer du att gå miste om dessa. För att låta vissa webbplatser
+  använda popup-fönster medan du blockerar alla andra kan du lägga till de
+  webbplatserna till en lista på godkända platser</p>
+
+<p><strong>Blockering av popup-fönster fungerar inte alltid</strong>: Även om
+  &brandShortName; blockerar de flesta popup-fönster, kan vissa webbplatser,
+  även om de blockeras, använda andra metoder för att visa popup-fönster.</p>
+
+<h2 id="popup_blocker_preferences">Inställningar för popup-blockering</h2>
+
+<p>Inställningarna för popup-blockering finns i &pref.menuPath; <a
+  href="prefs.xhtml#content_options">Innehåll</a>.</p>
+
+<p>Där kan du göra följande inställningar:</p>
+
+<ul>
+  <li><strong>Blockera popup-fönster</strong>: Avmarkera det här alternativet
+    om du inte vill blockera popup-fönster</li>
+  <li><strong>Undantag</strong>: Här visas en lista på webbplatser som du vill
+    tillåta popup-fönster ifrån. Dialogrutan har följande alternativ:
+  <ul>
+    <li><strong>Tillåt</strong>: Skriv in en adress till en webbplats och
+      klicka på denna knapp för att lägga till den till listan.</li>
+    <li><strong>Ta bort</strong>: Klicka på denna knapp för att ta bort en
+      markerad webbplats från listan.</li>
+    <li><strong>Ta bort alla</strong>: Klicka på denna knapp för att ta bort
+      alla webbplatser från listan.</li>
+  </ul>
+  </li>
+</ul>
+
+<p><strong>Notera</strong>: Blockering av popup-fönster kan ibland misslyckas,
+  och kan också vara ett hinder för vissa webbplatser. För mer information om
+  blockering av popup-fönster, se <a href="#what_are_popups">Vad är
+  popup-fönster</a>.</p>
+
+<br />
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+</body>
+</html>

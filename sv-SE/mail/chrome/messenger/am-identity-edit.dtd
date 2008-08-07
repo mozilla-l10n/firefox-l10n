@@ -1,0 +1,6 @@
+<!ENTITY identityTitle.label "Identitetsinställningar">
+<!ENTITY identityListDesc.label "Anpassa inställningarna för den här identiteten:">
+
+<!ENTITY settingsTab.label       "Inställningar">
+<!ENTITY copiesFoldersTab.label "Kopior &amp; mappar">
+<!ENTITY addressingTab.label    "Skriva &amp; adressera">

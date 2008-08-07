@@ -1,0 +1,26 @@
+<!ENTITY tabHeader.label "Flikar">
+<!ENTITY tabDisplay.label "Visa flikar">
+<!ENTITY autoHide.label "Dölj raden med flikar när bara en flik är öppen">
+<!ENTITY autoHide.accesskey "j">
+<!ENTITY background.label "Växla till nya flikar som öppnas från länkar">
+<!ENTITY background.accesskey "V">
+<!ENTITY loadGroup.label "Vid öppning av ett gruppmärke">
+<!ENTITY loadGroupAppend.label "Lägg till nya flikar">
+<!ENTITY loadGroupAppend.accesskey "L">
+<!ENTITY loadGroupReplace.label "Ersätt befintliga flikar">
+<!ENTITY loadGroupReplace.accesskey "b">
+<!ENTITY openTabs.label "Öppna flikar istället för fönster vid">
+
+<!ENTITY newWindow.label "Öppna länkar">
+<!ENTITY newWindowDescription.label "Öppna länkar som vill öppna nya fönster i">
+<!ENTITY external.label "Länkar från andra program">
+<!ENTITY externalDescription.label "Öppna länkar som kommer från andra program i">
+<!ENTITY openCurrent.label "Aktuell flik/fönster">
+<!ENTITY newWindowGroupCurrent.accesskey "A">
+<!ENTITY externalGroupCurrent.accesskey "u">
+<!ENTITY openTab.label "En ny flik i aktuellt fönster">
+<!ENTITY newWindowGroupTab.accesskey "E">
+<!ENTITY externalGroupTab.accesskey "n">
+<!ENTITY openWindow.label "Ett nytt fönster">
+<!ENTITY newWindowGroupWindow.accesskey "f">
+<!ENTITY externalGroupWindow.accesskey "t">

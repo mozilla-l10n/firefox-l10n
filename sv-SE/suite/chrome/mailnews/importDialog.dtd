@@ -1,0 +1,74 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+     Jeff Beckley <beckley@qualcomm.com>
+     Henrik Olsson <henriko@algonet.se>
+     Lars P M <larspeemm@netscape.net>
+
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY importDialog.windowTitle "Importera">
+<!ENTITY importDialog.allTitle    "Importera allting">
+<!ENTITY importDialog.mailTitle   "E-post">
+<!ENTITY importDialog.addressbookTitle "Adressböcker">
+<!ENTITY importDialog.settingsTitle "Inställningar">
+<!ENTITY importDialog.filtersTitle "Filter">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importTitle.label        "Guide för import till &brandShortName; E-post">
+<!ENTITY importShortDesc.label    "Importera e-post, adressböcker, inställningar och filter från andra program">
+
+<!ENTITY importDescription1.label "Denna guide hjälper dig att importera e-post, innehållet i adressböcker, inställningar och/eller filter från andra e-postprogram och vanliga adressboksformat till &brandShortName;.">
+<!ENTITY importDescription2.label "När de väl har importerats kan du använda dem i &brandShortName; E-post och/eller adressboken.">
+
+<!ENTITY selectDescription.label  "Välj det program som du vill importera från:">
+
+<!ENTITY back.label               "&lt; Bakåt">
+<!ENTITY forward.label            "Nästa &gt;">
+<!ENTITY finish.label             "Slutför">
+<!ENTITY cancel.label             "Avbryt">
+
+<!ENTITY select.label             "Välj vilken typ av material som ska importeras:">
+
+<!ENTITY title.label              "Titel">
+<!ENTITY processing.label         "Importerar…">
+
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x har bara en e-postadress per kontaktkort medan &brandShortName; har två (Privat och Arbete).">
+<!ENTITY FieldDiscInputText2.label	"Välj till vilken kategori du vill importera e-postadresserna:">
+<!ENTITY FieldDiscWarning.label  "Denna kategori kommer att användas för alla poster i den valda adressboken: ">
+<!ENTITY importDialog.homeTitle   "Privat">
+<!ENTITY importDialog.workTitle "Arbete">

@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title           "Biblioteket">
+<!ENTITY places.library.width           "700">
+<!ENTITY places.library.height          "500">
+<!ENTITY organize.label                 "Ordna">
+<!ENTITY organize.accesskey             "O">
+
+<!ENTITY file.accesskey                 "A">
+<!ENTITY file.close.label               "Stäng">
+<!ENTITY file.close.accesskey           "ä">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Redigera">
+<!ENTITY edit.accesskey                 "R">
+<!ENTITY views.label                    "Vyer">
+<!ENTITY views.accesskey                "V">
+<!ENTITY view.toolbar.label             "Verktygsfält">
+<!ENTITY view.toolbar.accesskey         "V">
+<!ENTITY view.columns.label             "Visa kolumner">
+<!ENTITY view.columns.accesskey         "k">
+<!ENTITY view.sort.label                "Sortera">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Osorterade">
+<!ENTITY view.unsorted.accesskey        "O">
+<!ENTITY view.sortAscending.label       "Ordna A > Ö">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Ordna Ö > A">
+<!ENTITY view.sortDescending.accesskey  "Ö">
+<!ENTITY help.usingBookmarks.label      "Använda bokmärken">
+<!ENTITY help.usingBookmarks.accesskey  "b">
+<!ENTITY help.usingHistory.label        "Använda historiken">
+<!ENTITY help.usingHistory.accesskey    "ä">
+<!ENTITY help.advancedTips.label        "Avancerade tips &amp; tricks">
+<!ENTITY help.advancedTips.accesskey    "t">
+
+<!ENTITY cmd.findInBookmarks.label      "Sök i Bokmärken…">
+<!ENTITY cmd.findInBookmarks.accesskey  "S">
+<!ENTITY cmd.findCurrent.label          "Sök i aktuell grupp…">
+<!ENTITY cmd.findCurrent.accesskey      "ö">
+
+<!ENTITY cmd.exportHTML.label           "Exportera HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "Importera HTML…">
+<!ENTITY cmd.importHTML.accesskey       "I">
+
+<!ENTITY cmd.backup.label               "Säkerhetskopiera…">
+<!ENTITY cmd.backup.accesskey           "S">
+<!ENTITY cmd.restore2.label             "Återställ">
+<!ENTITY cmd.restore2.accesskey         "Å">
+<!ENTITY cmd.restoreFromFile.label      "Välj fil…">
+<!ENTITY cmd.restoreFromFile.accesskey  "V">
+
+<!ENTITY cmd.select_all.label      "Markera allt">
+<!ENTITY cmd.select_all.accesskey  "M">
+<!ENTITY cmd.select_all.key        "a">
+
+<!ENTITY cmd.edit_cut.label         "Klipp ut">
+<!ENTITY cmd.edit_cut.accesskey     "K">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "Kopiera">
+<!ENTITY cmd.edit_copy.accesskey    "o">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "Klistra in">
+<!ENTITY cmd.edit_paste.accesskey   "l">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "Ta bort">
+<!ENTITY cmd.edit_delete.accesskey  "T">
+<!ENTITY cmd.edit_undo.label        "Ångra">
+<!ENTITY cmd.edit_undo.accesskey    "Å">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "Gör om">
+<!ENTITY cmd.edit_redo.accesskey    "G">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.open.label                  "Öppna">
+<!ENTITY cmd.open.accesskey              "Ö">
+<!ENTITY cmd.open_window.label           "Öppna i nytt fönster">
+<!ENTITY cmd.open_window.accesskey       "f">
+<!ENTITY cmd.open_tab.label              "Öppna i ny flik">
+<!ENTITY cmd.open_tab.accesskey          "n">
+<!ENTITY cmd.open_all_in_tabs.label      "Öppna alla i flikar">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "n">
+
+<!ENTITY cmd.properties.label      "Egenskaper">
+<!ENTITY cmd.properties.accesskey  "E">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "Byt namn">
+<!ENTITY cmd.rename.accesskey  "B">
+
+<!ENTITY cmd.sortby_name.label              "Ordna efter namn">
+<!ENTITY cmd.sortby_name.accesskey          "d">
+<!ENTITY cmd.context_sortby_name.accesskey  "d">
+
+<!ENTITY cmd.new_bookmark.label            "Nytt bokmärke…">
+<!ENTITY cmd.new_bookmark.accesskey        "b">
+<!ENTITY cmd.new_livemark.label            "Nytt aktivt bokmärke…">
+<!ENTITY cmd.new_livemark.accesskey        "k">
+<!ENTITY cmd.new_folder.label              "Ny mapp…">
+<!ENTITY cmd.new_folder.accesskey          "N">
+<!ENTITY cmd.context_new_folder.accesskey  "a">
+<!ENTITY cmd.new_separator.label           "Ny avskiljare">
+<!ENTITY cmd.new_separator.accesskey       "v">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Uppdatera aktivt bokmärke">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "U">
+<!ENTITY cmd.reloadMicrosummary.label      "Uppdatera aktiv titel">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "U">
+
+<!ENTITY cmd.groupby_site.label      "Gruppera efter webbplats">
+<!ENTITY cmd.groupby_site.accesskey  "P">
+<!ENTITY cmd.groupby_page.label      "Gruppera efter sida">
+<!ENTITY cmd.groupby_page.accesskey  "S">
+<!ENTITY cmd.groupby_feed.label      "Gruppera efter prenumeration">
+<!ENTITY cmd.groupby_feed.accesskey  "e">
+<!ENTITY cmd.groupby_post.label      "Gruppera efter post">
+<!ENTITY cmd.groupby_post.accesskey  "o">
+
+<!ENTITY cmd.moveBookmarks.label                  "Flytta…">
+<!ENTITY cmd.moveBookmarks.accesskey              "F">
+
+<!ENTITY col.name.label          "Namn">
+<!ENTITY col.tags.label          "Taggar">
+<!ENTITY col.url.label           "Adress">
+<!ENTITY col.lastvisit.label     "Besökt">
+<!ENTITY col.visitcount.label    "Antal besök">
+<!ENTITY col.keyword.label       "Nyckelord">
+<!ENTITY col.description.label   "Beskrivning">
+<!ENTITY col.dateadded.label     "Ursprungsdatum">
+<!ENTITY col.lastmodified.label  "Senast ändrad">
+
+<!ENTITY search.label                              "Sök:">
+<!ENTITY search.accesskey                          "S">
+<!ENTITY search.collection.label                   "Endast denna grupp">
+<!ENTITY search.collection.accesskey               "E">
+<!ENTITY search.allBookmarks.label                 "Alla bokmärken">
+<!ENTITY search.allBookmarks.accesskey             "A">
+<!ENTITY search.scopeFolder.label                  "Markerad mapp">
+<!ENTITY search.scopeFolder.accesskey              "M">
+<!ENTITY search.scopeAll.label                     "Alla bokmärken">
+<!ENTITY search.scopeAll.accesskey                 "A">
+<!ENTITY search.scopeMenu.label                    "Bokmärken-menyn">
+<!ENTITY search.scopeMenu.accesskey                "B">
+<!ENTITY search.scopeToolbar.label                 "Bokmärkesfältet">
+<!ENTITY search.scopeToolbar.accesskey             "o">
+<!ENTITY search.scopeDownloads.label               "Filhämtningar">
+<!ENTITY search.scopeDownloads.accesskey           "F">
+<!ENTITY search.scopeHistory.label                 "Historik">
+<!ENTITY search.scopeHistory.accesskey             "H">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Visa sökuppbyggnad">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Dölj sökuppbyggnad">
+<!ENTITY saveSearch.label                          "Spara">
+<!ENTITY saveSearch.accesskey                      "S">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "Sök endast bokmärken">
+<!ENTITY advancedSearch.match.label                "Matcha ">
+<!ENTITY advancedSearch.all.label                  "alla">
+<!ENTITY advancedSearch.any.label                  "någon">
+<!ENTITY advancedSearch.rules.label                " av följande regler:">
+<!ENTITY advancedSearch.subj_keyword.label         "Innehåller texten">
+<!ENTITY advancedSearch.subj_visited.label         "Besökta">
+<!ENTITY advancedSearch.subj_location.label        "Adressen">
+<!ENTITY advancedSearch.location_startswith.label  "börjar med">
+<!ENTITY advancedSearch.location_is.label          "är">
+<!ENTITY advancedSearch.location_onsite.label      "finns på webbplatsen">
+<!ENTITY advancedSearch.time_is.label              "på">
+<!ENTITY advancedSearch.time_before.label          "innan">
+<!ENTITY advancedSearch.time_after.label           "efter">
+<!ENTITY advancedSearch.time_inlast.label          "de senaste">
+<!ENTITY advancedSearch.last_days.label            "dagarna">
+<!ENTITY advancedSearch.last_weeks.label           "veckorna">
+<!ENTITY advancedSearch.last_months.label          "månaderna">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "Gruppera efter: ">
+<!ENTITY advancedSearch.groupby_host.label         "värd">
+<!ENTITY advancedSearch.groupby_domain.label       "domän">
+<!ENTITY advancedSearch.groupby_folder.label       "mapp">
+<!ENTITY advancedSearch.sortby.label               "Sortera efter: ">
+<!ENTITY advancedSearch.sortby_title.label         "titel">
+<!ENTITY advancedSearch.sortby_date.label          "datum">
+<!ENTITY advancedSearch.sortby_visit.label         "antal besök">
+<!ENTITY advancedSearch.sortby_url.label           "url">
+<!ENTITY advancedSearch.sortby_asc.label           "stigande">
+<!ENTITY advancedSearch.sortby_desc.label          "fallande">
+<!ENTITY advancedSearch.max.label                  "Maximalt antal resultat: ">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "Kanal">
+<!ENTITY feed.subscribe.tooltip  "Prenumerera">
+
+<!ENTITY view.detailsMacOSX.label  "Lista">
+<!ENTITY view.details.label        "Detaljer">
+<!ENTITY view.details.accesskey    "D">
+
+<!ENTITY view.addons.label   "Hämta vyer-tillägg">
+
+<!ENTITY maintenance.label      "Importera och säkerhetskopiera">
+<!ENTITY maintenance.accesskey  "I">
+
+<!ENTITY backCmd.label       "Bakåt">
+<!ENTITY backCmd.accesskey   "B">
+<!ENTITY backButton.tooltip  "Gå bakåt">
+
+<!ENTITY forwardCmd.label       "Framåt">
+<!ENTITY forwardCmd.accesskey   "F">
+<!ENTITY forwardButton.tooltip  "Gå framåt">
+
+<!ENTITY detailsPane.more.label                    "Mer">
+<!ENTITY detailsPane.more.accesskey                "M">
+<!ENTITY detailsPane.less.label                    "Mindre">
+<!ENTITY detailsPane.less.accesskey                "M">
+<!ENTITY detailsPane.noPreviewAvailable.label      "Förhandsgranskning">
+<!ENTITY detailsPane.selectAnItemText.description  "Markera en post för att visa och redigera dess egenskaper">

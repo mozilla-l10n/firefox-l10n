@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label                   "Allmänt">
+<!ENTITY itemAutoComplete.label              "Adressering">
+<!ENTITY itemSpellCheck.label                "Stavning">
+<!ENTITY itemSendFormat.label                "Format">
+
+<!ENTITY forwardReply.label                   "Vidarebefordra meddelanden">
+<!ENTITY forwardMsg.label                     "Vidarebefordra meddelanden:">
+<!ENTITY forwardMsg.accesskey                 "V">
+<!ENTITY inline.label                         "Infogade">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.label                   "Bifogade">
+<!ENTITY asAttachment.accesskey               "o">
+<!ENTITY addExtension.label                   "med ett filnamnstillägg">
+<!ENTITY addExtension.accesskey               "m">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Teckensnitt:">
+<!ENTITY font.accesskey                       "T">
+<!ENTITY size.label                           "Storlek:">
+<!ENTITY size.accesskey                       "S">
+<!ENTITY fontColor.label                      "Textfärg:">
+<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY bgColor.label                        "Bakgrundsfärg:">
+<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY restoreHTMLDefaults.label            "Återställ standard">
+<!ENTITY restoreHTMLDefaults.accesskey        "Å">
+
+<!ENTITY sendingMessagesHeader.label          "Skriva meddelanden">
+<!ENTITY spellCheck.label                     "Kontrollera stavningen innan meddelanden skickas">
+<!ENTITY spellCheck.accesskey                 "K">
+<!ENTITY spellCheckInline.label               "Använd automatisk stavningskontroll">
+<!ENTITY spellCheckInline1.accesskey          "A">
+<!ENTITY languagePopup.label                  "Språk:">
+<!ENTITY languagePopup.accessKey              "S">
+<!ENTITY downloadDictionaries.label           "Hämta fler ordlistor">
+
+<!ENTITY useMIME.label                        "För meddelanden som innehåller 8-bitars tecken, använd MIME-kodningen ”quoted printable”">
+<!ENTITY useMIME.accesskey                    "F">
+<!ENTITY warnOnSendAccelKey.label             "Bekräfta när du skickar meddelanden med tangentbordskommando">
+<!ENTITY warnOnSendAccelKey.accesskey         "ä">
+<!ENTITY autoSave.label                       "Autospara var">
+<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSaveEnd.label                    "minut">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "Radbryt oformaterade meddelanden efter">
+<!ENTITY wrapOutMsg.accesskey                 "R">
+<!ENTITY char.label                           "tecken">
+
+<!ENTITY emailCollectionPicker.label           "Spara automatiskt utgående e-postadresser i:">
+<!ENTITY emailCollectionPicker.accesskey       "S">
+<!ENTITY addressingTitle.label                 "Automatisk komplettering av e-postadresser">
+<!ENTITY autocompleteText.label                "Vid adressering av meddelanden, sök efter matchande e-postadresser i:">
+<!ENTITY addressingEnable.label                "Lokala adressböcker">
+<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY directories.label                     "Katalogserver:">
+<!ENTITY directories.accesskey                 "K">
+<!ENTITY editDirectories.label                 "Redigera kataloger…">
+<!ENTITY editDirectories.accesskey             "R">
+<!ENTITY matchText.label                       "Om en matchande e-postadress hittas i lokala adressböcker:">
+<!ENTITY skipDirectory.label                   "Sök inte i katalogen">
+
+<!ENTITY sendOptionsCaption.label              "Alternativ för Skicka och HTML">
+<!ENTITY sendOptionsDescription.label          "Anpassa valet av textformat:">
+<!ENTITY sendOptions.label                     "Anpassa…">
+<!ENTITY sendOptions.accesskey                 "A">

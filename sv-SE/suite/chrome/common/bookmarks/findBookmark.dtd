@@ -1,0 +1,15 @@
+
+<!ENTITY search.name.label              "namn">
+<!ENTITY search.url.label               "adress">
+<!ENTITY search.shortcut.label          "nyckelord">
+<!ENTITY search.description.label       "beskrivning">
+<!ENTITY search.startswith.label        "börjar med">
+<!ENTITY search.endswith.label          "slutar med">
+<!ENTITY search.is.label                "är">
+<!ENTITY search.isnot.label             "är inte">
+<!ENTITY search.contains.label          "innehåller">
+<!ENTITY search.doesntcontain.label     "innehåller inte">
+<!ENTITY save.query.label               "Spara sökning som bokmärke">
+<!ENTITY search.for.label               "Sök bokmärken vars">
+<!ENTITY findBookmark.title             "Sök bokmärken">
+<!ENTITY findButton.label               "Sök">

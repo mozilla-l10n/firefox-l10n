@@ -1,0 +1,83 @@
+<!ENTITY itemGeneral.label       "Allmänt">
+<!ENTITY itemUpdate.label        "Uppdateringar">
+<!ENTITY itemNetworking.label    "Nätverk &amp; diskutrymme">
+<!ENTITY itemCertificates.label  "Certifikat">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "Visa endast kortnamnen för personer som finns i adressboken">
+<!ENTITY showCondensedAddresses.accesskey "V">
+
+<!ENTITY autoMarkAsRead.label          "Märk automatiskt meddelanden som lästa">
+<!ENTITY autoMarkAsRead.accesskey      "ä">
+<!ENTITY markAsReadNoDelay.label       "Omedelbart vid visning">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Efter att ha visats i">
+<!ENTITY markAsReadDelay.accesskey     "r">
+<!ENTITY secondsLabel.label            "sekunder">
+<!ENTITY showFolderColumns.label       "Visa kolumner i Mappar-fältet">
+<!ENTITY showFolderColumns.accesskey   "s">
+<!ENTITY rememberLastMsg.label         "Kom ihåg senast markerade meddelande">
+<!ENTITY rememberLastMsg.accesskey     "o">
+<!ENTITY openMsgIn.label               "Öppna meddelanden i:">
+<!ENTITY reuseExpRadio0.label          "ett nytt fönster">
+<!ENTITY reuseExpRadio0.accesskey      "e">
+<!ENTITY reuseExpRadio1.label          "befintligt fönster">
+<!ENTITY reuseExpRadio1.accesskey      "b">
+<!ENTITY reuseExpRadio2.label          "en ny meddelandeflik">
+<!ENTITY reuseExpRadio2.accesskey      "n">
+<!ENTITY connectionTimeout.label       "Avbryt anslutningsförsök efter">
+<!ENTITY connectionTimeout.accesskey   "v">
+<!ENTITY connectionSeconds.label       "sekunder">
+<!ENTITY configEditDesc.label          "Avancerade inställningar">
+<!ENTITY configEdit.label              "Konfigurationsredigerare…">
+<!ENTITY configEdit.accesskey          "K">
+<!ENTITY returnReceiptsInfo.label      "Ange hur &brandShortName; ska hantera mottagningskvitto">
+<!ENTITY showReturnReceipts.label      "Mottagningskvitton…">
+<!ENTITY showReturnReceipts.accesskey  "M">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Sök automatiskt efter uppdateringar till:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "u">
+<!ENTITY enableAddonsUpdate.label       "Tillägg">
+<!ENTITY enableAddonsUpdate.accesskey   "T">
+<!ENTITY checkNow.label                 "Kontrollera nu…">
+<!ENTITY whenUpdatesFound.label         "När det finns uppdateringar till &brandShortName;:">
+<!ENTITY modeAskMe.label                "Fråga vad jag vill göra">
+<!ENTITY modeAskMe.accesskey            "F">
+<!ENTITY modeAutomatic.label            "Hämta och installera uppdateringen automatiskt">
+<!ENTITY modeAutomatic.accesskey        "H">
+<!ENTITY modeAutoAddonWarn.label        "Varna om tillägg kommer att avaktiveras">
+<!ENTITY modeAutoAddonWarn.accesskey    "o">
+<!ENTITY showUpdates.label              "Visa tidigare uppdateringar">
+<!ENTITY showUpdates.accesskey          "V">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Anslutning…">
+<!ENTITY showConnections.accesskey     "A">
+<!ENTITY proxiesInfo.label             "Ange hur &brandShortName; ansluter till Internet.">
+<!ENTITY connectionsInfo.caption       "Anslutning">
+<!ENTITY offlineInfo.caption           "Nedkopplat läge">
+<!ENTITY offlineInfo.label             "Ange inställningar för nedkopplat läge">
+<!ENTITY showOffline.label             "Nedkopplat läge…">
+<!ENTITY showOffline.accesskey         "N">
+
+<!ENTITY Diskspace                   "Diskutrymme">
+<!ENTITY offlineCompact.label        "Komprimera mappar när det kan spara över">
+<!ENTITY offlineCompact.accesskey    "K">
+<!ENTITY kb.label                    "kB">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo2.label        "Hantera certifikat, listor på indragna certifikat, certifikatvalidering och säkerhetsenheter.">
+<!ENTITY viewCertificates.label         "Visa certifikat">
+<!ENTITY viewCertificates.accesskey     "c">
+<!ENTITY viewCRLs.label                 "Listor på indragna certifikat">
+<!ENTITY viewCRLs.accesskey             "L">
+<!ENTITY validation.label               "Validering">
+<!ENTITY validation.accesskey           "V">
+<!ENTITY viewSecurityDevices.label      "Säkerhetsenheter">
+<!ENTITY viewSecurityDevices.accesskey  "S">

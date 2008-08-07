@@ -1,0 +1,33 @@
+<!ENTITY     tab.cookiesonsystem.label      "Lagrade kakor">
+<!ENTITY     tab.bannedservers.label        "Kakor och webbplatser">
+<!ENTITY     div.bannedservers.label        "Hantera webbplatser som får eller inte får lagra kakor på din dator.">
+<!ENTITY     div.cookiesonsystem.label      "Visa och ta bort kakor som lagrats på din dator.">
+<!ENTITY     treehead.cookiename.label      "Kaknamn">
+<!ENTITY     treehead.cookiedomain.label    "Webbplats"> 
+<!ENTITY     treehead.cookieexpires.label   "Förfaller"> 
+<!ENTITY     treehead.infoselected.label    "Information om den valda kakan">
+<!ENTITY     button.removecookie.label      "Ta bort kakan">
+<!ENTITY     button.removeallcookies.label  "Ta bort alla kakor">
+
+<!ENTITY     props.name.label               "Namn:">
+<!ENTITY     props.value.label              "Information:">
+<!ENTITY     props.domain.label             "Värd:">
+<!ENTITY     props.path.label               "Sökväg:">
+<!ENTITY     props.secure.label             "Skicka vid:">
+<!ENTITY     props.expires.label            "Förfaller:">
+
+<!ENTITY     treehead.sitename.label        "Webbplats">
+<!ENTITY     treehead.status.label          "Status">
+<!ENTITY     windowtitle.label              "Kakhanteraren">
+<!ENTITY     buttonaccept.label             "Stäng">
+
+<!ENTITY     blockSite.label                "Blockera">
+<!ENTITY     allowSite.label                "Tillåt">
+<!ENTITY     allowSiteSession.label         "Tillfälliga">
+<!ENTITY     removepermission.label         "Ta bort">
+<!ENTITY     removeallpermissions.label     "Ta bort alla">
+
+<!ENTITY     canSet.label                   "får lagra kakor">
+<!ENTITY     cannotSet.label                "får inte lagra kakor">
+
+<!ENTITY     checkbox.label                 "Låt inte webbplatser vars kakor du har tagit bort lagra nya kakor">

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Sean Umphlet <nosebleed@umphlet.com> (minor bugfixes)
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Hasse Wallanger <hasse@jasajudeju.se> (översättning)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>&brandFullName; kortkommandon</title>
+  <link rel="stylesheet" type="text/css"
+    href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandFullName; kortkommandon</h1>
+
+<p>Här är en lista på de vanligaste kortkommandona i &brandFullName;.
+  <span class="unix">Om du har aktiverat textredigeringskortkommandon i
+  Emacs-stil i GNOME kommer dessa även att fungera i &brandShortName;. När ett
+  Emacs-kommando är i konflikt med ett standardkortkommando (såsom är
+  fallet med &accelKey;+<kbd>K</kbd>), kommer Emacs-kommandot att ha
+  förtur om fokus befinner sig i en textruta (detta inkluderar Adressfältet och
+  Sökfältet). I sådana fall bör du använda de alternativa kortkommandon som
+  finns listade nedan.</span></p>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Kommando</th>
+      <th>Genväg</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">Navigering</th>
+    </tr>
+    <tr>
+      <td>Bakåt</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>Vänsterpil</kbd><br/>
+          <kbd>Backsteg</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Vänsterpil</kbd><br/>
+          &accelKey;+<kbd>Ö</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>Ö</kbd><br/>
+          &accelKey;+<kbd>Vänsterpil</kbd><br/>
+          <kbd>Backsteg</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>Framåt</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>Högerpil</kbd><br/>
+          &shiftKey;+<kbd>Backsteg</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Högerpil</kbd><br/>
+          &accelKey;+<kbd>Ä</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>Ä</kbd><br/>
+          &accelKey;+<kbd>Högerpil</kbd><br/>
+          &shiftKey;+<kbd>Backsteg</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>Startsida</td>
+      <td>&altKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Stopp</td>
+      <td><span class="mac">&accelKey;+<kbd>.</kbd><br/></span>
+        <kbd>Esc</kbd></td>
+    </tr>
+    <tr>
+      <td>Uppdatera</td>
+      <td><kbd>F5<br/></kbd>
+        &accelKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Uppdatera (gå förbi cachen)</td>
+      <td><span class="noMac">&accelKey;+<kbd>F5</kbd><br/></span>
+        &accelKey;+&shiftKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Öppna fil</td>
+
+      <td>&accelKey;+<kbd>O</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Aktuell sida</th>
+    </tr>
+    <tr>
+      <td>Flytta till nästa ram</td>
+      <td><kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>Flytta till föregående ram</td>
+      <td>&shiftKey;+<kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>Gå till slutet av sidan</td>
+      <td><kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>Gå till början av sidan</td>
+      <td><kbd>Home</kbd></td>
+    </tr>
+    <tr class="noWin">
+      <td>Sidinfo</td>
+      <td>&accelKey;+<kbd>I</kbd></td>
+    </tr>
+    <tr>
+      <td>Källkod</td>
+      <td>&accelKey;+<kbd>U</kbd></td>
+    </tr>
+    <tr>
+      <td>Skriv ut</td>
+      <td>&accelKey;+<kbd>P</kbd></td>
+    </tr>
+    <tr>
+      <td>Spara sida som</td>
+      <td>&accelKey;+<kbd>S</kbd></td>
+    </tr>
+    <tr>
+      <td>Textstorlek: Större</td>
+      <td>&accelKey;+<kbd>+</kbd></td>
+    </tr>
+    <tr>
+      <td>Textstorlek: Mindre</td>
+      <td>&accelKey;+<kbd>-</kbd></td>
+    </tr>
+    <tr>
+      <td>Textstorlek: Normal</td>
+      <td>&accelKey;+<kbd>0</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Redigera</th>
+    </tr>
+    <tr>
+      <td>Gör om</td>
+      <td><span class="win">&accelKey;+<kbd>Y</kbd></span>
+        <span class="noWin">&accelKey;+&shiftKey;+<kbd>Z</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Klipp ut</td>
+      <td>&accelKey;+<kbd>X</kbd></td>
+    </tr>
+    <tr>
+      <td>Klistra in</td>
+      <td>&accelKey;+<kbd>V</kbd></td>
+    </tr>
+    <tr>
+      <td>Kopiera</td>
+      <td>&accelKey;+<kbd>C</kbd></td>
+    </tr>
+    <tr>
+      <td>Markera allt</td>
+      <td>&accelKey;+<kbd>A</kbd></td>
+    </tr>
+    <tr>
+      <td>Ta bort</td>
+      <td><kbd>Delete</kbd></td>
+    </tr>
+    <tr>
+      <td>Ångra</td>
+      <td>&accelKey;+<kbd>Z</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Sökningar</th>
+    </tr>
+    <tr>
+      <td>Sök</td>
+      <td>&accelKey;+<kbd>F</kbd></td>
+    </tr>
+    <tr>
+      <td>Sök igen</td>
+      <td><kbd>F3</kbd><br/>
+        &accelKey;+<kbd>G</kbd></td>
+    </tr>
+    <tr>
+      <td>Sök direkt, länkar</td>
+      <td><kbd>'</kbd><br />(apostrof)</td>
+    </tr>
+    <tr>
+      <td>Sök direkt, text</td>
+      <td><kbd>/</kbd></td>
+    </tr>
+    <tr>
+      <td>Sök föregående</td>
+      <td>&shiftKey;+<kbd>F3</kbd></td>
+    </tr>
+    <tr>
+      <td>Webbsökning</td>
+      <td>&accelKey;+<kbd>K</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>E</kbd></span>
+        <span class="unix"><br/>&accelKey;+<kbd>J</kbd></span></td>
+    </tr>
+  </tbody>
+  <tbody id="windows_tabs">
+    <tr>
+      <th colspan="2">Fönster &amp; flikar</th>
+    </tr>
+    <!-- LOCALIZATION NOTE:
+         "Left"/"Up" and "Right"/"Down" might need special treatment
+         for bidi locales, as used in the following two entries.
+    -->
+    <tr>
+      <td>Flytta flik till vänster<br/>
+        (när fliken har fokus)</td>
+      <td>&accelKey;+<kbd>Vänsterpil</kbd><br/>
+          &accelKey;+<kbd>Uppåtpil</kbd></td>
+    </tr>
+    <tr>
+      <td>Flytta flik till höger<br/>
+        (när fliken har fokus)</td>
+      <td>&accelKey;+<kbd>Högerpil</kbd><br/>
+          &accelKey;+<kbd>Nedåtpil</kbd></td>
+    </tr>
+    <tr>
+      <td>Föregående flik</td>
+      <td>&ctrlKey;+&shiftKey;+<kbd>Tabb</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Vänsterpil<br/></span>
+        &ctrlKey;+<kbd>Page Up</kbd></td>
+    </tr>
+    <tr>
+      <td>Lägg fliken först<br/>
+        (när fliken har fokus)</td>
+      <td>&accelKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Lägg fliken sist<br/>
+        (när fliken har fokus)</td>
+      <td>&accelKey;+<kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>Ny flik</td>
+      <td>&accelKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>Nytt fönster</td>
+      <td>&accelKey;+<kbd>N</kbd></td>
+    </tr>
+    <tr>
+      <td>Nästa flik</td>
+      <td>&ctrlKey;+<kbd>Tabb</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Högerpil<br/></span>
+        &ctrlKey;+<kbd>Page Down</kbd></td>
+    </tr>
+    <tr>
+      <td>Stäng flik</td>
+      <td>&accelKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&ctrlKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Stäng fönster</td>
+      <td>&accelKey;+&shiftKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&altKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Välj flik (1 till 8)</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+(<kbd>1</kbd> till <kbd>8</kbd>)</td>
+    </tr>
+    <tr>
+      <td>Välj sista fliken</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+<kbd>9</kbd></td>
+    </tr>
+    <tr>
+      <td>Återställa nyligen stängd flik</td>
+      <td>&accelKey;+&shiftKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>Öppna adress i ny flik<br/>
+        (från Adressfältet eller Sökfältet)</td>
+      <td>&altKey;+&enterKey;</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Verktyg</th>
+    </tr>
+    <tr>
+      <td>Bokmärken</td>
+      <td>&accelKey;+<kbd>B</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>I</kbd></span></td>
+    </tr>
+    <tr class="noUnix">
+      <td>Bokmärke för alla flikar</td>
+      <td>&accelKey;+&shiftKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>Filhämtaren</td>
+      <td><span class="noUnix">&accelKey;+<kbd>J</kbd></span>
+        <span class="unix">&accelKey;+<kbd>Y</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Historik</td>
+      <td><span class="noMac">&accelKey;+<kbd>H</kbd></span>
+        <span class="mac">&accelKey;+&shiftKey;+<kbd>H</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Lägg till bokmärke</td>
+      <td>&accelKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>Markörbläddra</td>
+      <td><kbd>F7</kbd></td>
+    </tr>
+    <tr>
+      <td>Rensa ut känslig data</td>
+      <td>&accelKey;+&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Övrigt</th>
+    </tr>
+    <tr class="noMac">
+      <td>Helskärm</td>
+      <td><kbd>F11</kbd></td>
+    </tr>
+    <tr>
+      <td>Komplettera .se-adress</td>
+      <td>&accelKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Komplettera .net-adress</td>
+      <td>&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Komplettera .org-adress</td>
+      <td>&accelKey;+&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Markera Adressfältet</td>
+      <td><span class="noMac">&altKey;+<kbd>D</kbd><br/></span>
+        <kbd>F6</kbd><br />
+        &accelKey;+<kbd>L</kbd></td>
+    </tr>
+    <tr>
+      <td>Ta bort markerad post i den automatiska kompletteringen</td>
+      <td><span class="noMac"><kbd>Del</kbd></span>
+        <span class="mac">&shiftKey;+<kbd>Del</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Välj eller hantera sökmotorer<br/>
+        (när fokus är i Sökfältet)</td>
+      <td>&altKey;+<kbd>Uppåtpil</kbd><br/>
+        &altKey;+<kbd>Nedåtpil</kbd><span class="noMac"><br/>
+        <kbd>F4</kbd></span></td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

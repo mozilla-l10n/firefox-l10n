@@ -1,0 +1,27 @@
+<!ENTITY pref.popups.title              "Extrafönster (popup)">
+
+<!ENTITY pref.popups.caption            "Extrafönster">
+
+<!ENTITY popupDesc.label                "Ange hur du vill hantera extrafönster som öppnas bakom eller framför det aktuella fönstret:">
+
+<!ENTITY popupBlock.label               "Blockera oönskade extrafönster">
+<!ENTITY popupBlock.accesskey           "B">
+
+<!ENTITY popupExceptions.label          "Tillåtna webbplatser…">
+<!ENTITY popupExceptions.accesskey      "T">
+
+<!ENTITY whenBlock.description          "När ett extrafönster har blockerats:">
+<!ENTITY playSound.label                "Ge en ljudsignal:">
+<!ENTITY playSound.accesskey            "l">
+
+<!ENTITY selectSound.label              "Välj…">
+<!ENTITY selectSound.accesskey          "ä">
+<!ENTITY previewSound.label             "Lyssna">
+<!ENTITY previewSound.accesskey         "y">
+<!ENTITY selectSound.title              "Välj en ljudfil">
+
+<!ENTITY displayIcon.label              "Visa en ikon i statusfältet">
+<!ENTITY displayIcon.accesskey          "V">
+
+<!ENTITY popupNote.description          "Obs! Om du blockerar extrafönster kan en del viktiga funktioner på vissa webbplatser upphöra att fungera, till exempel bankers och shoppingplatsers inloggningsfönster. Klicka på Hjälp om du vill veta mer om hur du låter vissa webbplatser öppna fönster samtidigt som du blockerar andra. Blockerade webbplatser kan kringgå detta och använda andra metoder att öppna extrafönster.">
+

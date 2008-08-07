@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Leveranskvitton">
+<!ENTITY useGlobalPrefs.label       "Använd mina globala inställningar för leveranskvitton för det här kontot">
+<!ENTITY useGlobalPrefs.accesskey   "A">
+<!ENTITY useCustomPrefs.label       "Anpassa leveranskvitton för det här kontot">
+<!ENTITY useCustomPrefs.accesskey   "s">
+<!ENTITY requestAlways.label        "När meddelanden skickas, begär alltid ett leveranskvitto">
+<!ENTITY requestAlways.accesskey    "N">
+<!ENTITY optionTitle.label          "Begär kvitto på :">
+<!ENTITY requestOnSucess.label      "Lyckad leverans">
+<!ENTITY requestOnSucess.accesskey  "L">
+<!ENTITY requestOnFailure.label     "Misslyckad leverans">
+<!ENTITY requestOnFailure.accesskey "M">
+<!ENTITY requestOnDelay.label       "Försenad leverans">
+<!ENTITY requestOnDelay.accesskey   "F">
+<!ENTITY requestNever.label         "Ta aldrig emot leveranskvitton">
+<!ENTITY requestNever.accesskey     "T">

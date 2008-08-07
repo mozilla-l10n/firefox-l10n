@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title      "Om &brandFullName;">
+<!ENTITY credits.label          "Medarbetare">
+<!ENTITY credits.accesskey      "M">
+<!ENTITY aboutLink.label        "&lt; Om &brandFullName;">
+<!ENTITY aboutLink.accesskey    "O">
+<!ENTITY aboutVersion           "version">
+<!ENTITY copyrightText          "&#169;1998-2008 Medarbetarna. Alla rättigheter förbehållna. Mozilla
+                                 Thunderbird och Thunderbird-logotyper är varumärken som tillhör Mozilla
+                                 Foundation. Alla rättigheter förbehållna.">

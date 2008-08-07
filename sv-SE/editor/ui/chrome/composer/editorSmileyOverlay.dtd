@@ -1,0 +1,93 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -    Hasse Wallanger <jasajudeju@telia.com>
+   -    Lars P M <larspeemm@netscape.net>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "Smilis">
+<!ENTITY insertSmiley.accesskey "S">
+
+<!ENTITY smiley1Cmd.label "Ler">
+<!ENTITY smiley1Cmd.accesskey "L">
+<!ENTITY smiley1Cmd.tooltip "Infoga ett leende ansiktsuttryck">
+<!ENTITY smiley2Cmd.label "Bister">
+<!ENTITY smiley2Cmd.accesskey "B">
+<!ENTITY smiley2Cmd.tooltip "Infoga ett bistert ansiktsuttryck">
+<!ENTITY smiley3Cmd.label "Blinkar">
+<!ENTITY smiley3Cmd.accesskey "i">
+<!ENTITY smiley3Cmd.tooltip "Infoga ett blinkande ansiktsuttryck">
+<!ENTITY smiley4Cmd.label "Dreglar">
+<!ENTITY smiley4Cmd.accesskey "D">
+<!ENTITY smiley4Cmd.tooltip "Infoga ett dreglande ansiktsuttryck">
+<!ENTITY smiley5Cmd.label "Skrattar">
+<!ENTITY smiley5Cmd.accesskey "S">
+<!ENTITY smiley5Cmd.tooltip "Infoga ett skrattande ansiktsuttryck">
+<!ENTITY smiley6Cmd.label "Generad">
+<!ENTITY smiley6Cmd.accesskey "G">
+<!ENTITY smiley6Cmd.tooltip "Infoga ett generat ansiktsuttryck">
+<!ENTITY smiley7Cmd.label "Rådvill">
+<!ENTITY smiley7Cmd.accesskey "å">
+<!ENTITY smiley7Cmd.tooltip "Infoga ett rådvillt ansiktsuttryck">
+<!ENTITY smiley8Cmd.label "Överraskad">
+<!ENTITY smiley8Cmd.accesskey "Ö">
+<!ENTITY smiley8Cmd.tooltip "Infoga ett överraskat ansiktsuttryck">
+<!ENTITY smiley9Cmd.label "Puss">
+<!ENTITY smiley9Cmd.accesskey "P">
+<!ENTITY smiley9Cmd.tooltip "Infoga ett pussande ansiktsuttryck">
+<!ENTITY smiley10Cmd.label "Skriker">
+<!ENTITY smiley10Cmd.accesskey "k">
+<!ENTITY smiley10Cmd.tooltip "Infoga ett skrikande ansiktsuttryck">
+<!ENTITY smiley11Cmd.label "Cool">
+<!ENTITY smiley11Cmd.accesskey "C">
+<!ENTITY smiley11Cmd.tooltip "Infoga ett coolt ansiktsuttryck">
+<!ENTITY smiley12Cmd.label "Skrytmåns">
+<!ENTITY smiley12Cmd.accesskey "r">
+<!ENTITY smiley12Cmd.tooltip "Infoga ett skrytande ansiktsuttryck">
+<!ENTITY smiley13Cmd.label "Bortgjord">
+<!ENTITY smiley13Cmd.accesskey "j">
+<!ENTITY smiley13Cmd.tooltip "Infoga ett bortgjort ansiktsuttryck">
+<!ENTITY smiley14Cmd.label "Oskyldig">
+<!ENTITY smiley14Cmd.accesskey "O">
+<!ENTITY smiley14Cmd.tooltip "Infoga ett oskyldigt ansiktsuttryck">
+<!ENTITY smiley15Cmd.label "Lipar">
+<!ENTITY smiley15Cmd.accesskey "a">
+<!ENTITY smiley15Cmd.tooltip "Infoga ett gråtande ansiktsuttryck">
+<!ENTITY smiley16Cmd.label "Tiger">
+<!ENTITY smiley16Cmd.accesskey "e">
+<!ENTITY smiley16Cmd.tooltip "Infoga ett tigande ansiktsuttryck">
+<!ENTITY SmileButton.tooltip "Infoga ett leende ansiktsuttryck">
+

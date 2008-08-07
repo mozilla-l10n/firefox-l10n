@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "Rensa ut känslig data">
+
+<!ENTITY sanitizeItems.label          "Ta bort följande poster:">
+<!ENTITY clearDataSettings.label      "När jag ber &brandShortName; att rensa ut känslig data ska följande tas bort:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Webbläsarhistorik">
+<!ENTITY itemHistory.accesskey        "W">
+<!ENTITY itemFormSearchHistory.label  "Sparad formulärdata och sökhistorik">
+<!ENTITY itemFormSearchHistory.accesskey "S">
+<!ENTITY itemPasswords.label          "Sparade lösenord">
+<!ENTITY itemPasswords.accesskey      "ö">
+<!ENTITY itemCookies.label            "Kakor">
+<!ENTITY itemCookies.accesskey        "K">
+<!ENTITY itemCache.label              "Cache">
+<!ENTITY itemCache.accesskey          "C">
+<!ENTITY itemOfflineApps.label        "Nedkopplad webbplatsdata">
+<!ENTITY itemOfflineApps.accesskey    "N">
+<!ENTITY itemDownloads.label          "Filhämtningshistorik">
+<!ENTITY itemDownloads.accesskey      "F">
+<!ENTITY itemSessions.label           "Autentiserade sessioner">
+<!ENTITY itemSessions.accesskey       "A">
+<!ENTITY window.width                 "30em">

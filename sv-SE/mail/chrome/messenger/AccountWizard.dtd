@@ -1,0 +1,156 @@
+<!--
+   - The contents of this file are subject to the Mozilla Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/MPL/
+   - 
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   - 
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   - 
+   - The Original Code is the Mozilla Swedish translation for Mozilla 1.0.
+   - 
+   - The Initial Developer of the Original Code is Henrik Olsson.
+   - 
+   - Contributor(s):
+   - Henrik Olsson <henriko@algonet.se>
+   - Hasse Wallanger <hasse@jasajudeju.se>
+  -->
+
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "Kontoguiden">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+
+<!-- Entities for Account Type page -->
+
+<!ENTITY accountSetupInfo.label "För att kunna ta emot meddelanden måste du först lägga till ett e-post- eller diskussionsgruppskonto.">
+<!ENTITY accountTypeTitle.label "Nytt konto">
+<!ENTITY accountTypeDesc.label "Den här guiden samlar in de uppgifter som behövs för att lägga till ett nytt konto för e-post eller diskussionsgrupper. Om du inte känner till de uppgifter som behövs, fråga din systemadministratör eller din Internetleverantör (ISP).">
+<!ENTITY accountTypeDirections.label "Välj vilken typ av konto du vill lägga till:">
+<!ENTITY accountTypeMail.label "Konto för e-post">
+<!ENTITY accountTypeMail.accesskey "o">
+<!ENTITY accountTypeNews.label "Konto för diskussionsgrupper">
+<!ENTITY accountTypeNews.accesskey "n">
+
+<!-- Entities for Identity page -->
+
+<!ENTITY identityTitle.label "Identitet">
+<!ENTITY identityDesc.label "Varje konto har en egen identitet som andra ser och identifierar dig med när du skickar meddelanden.">
+
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Skriv in det namn du vill ska visas som avsändare i meddelanden du skickar">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(exempelvis, ”Sven Svensson”).">
+<!ENTITY fullnameLabel.label "Ditt namn:">
+<!ENTITY fullnameLabel.accesskey "D">
+
+<!ENTITY emailLabel.label "E-postadress:">
+<!ENTITY emailLabel.accesskey "E">
+<!ENTITY emailDesc.label "Skriv in den e-postadress du vill att andra ska använda när de skickar e-post till dig">
+<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
+<!ENTITY emailExample.label "(exempelvis, sven.svensson@example.net).">
+<!-- SWEDISH NOTE Hela domänen example.net är reserverad för dokumentation så jag antar att det inte blir några problem att översätta user till sven.svensson . -->
+
+<!-- Entities for Server page -->
+
+<!ENTITY serverTitle.label "Serverinställningar">
+<!ENTITY incomingServerTitle.label "Server för inkommande e-post">
+<!ENTITY incomingServerTypeDesc.label "Välj vilken typ av server som ska användas för att hämta inkommande e-post.">
+<!ENTITY incomingServerTypeLabel.label "Servertyp:">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "Skriv in namnet på servern för inkommande e-post (exempelvis, ”mail.example.net”).">
+<!ENTITY incomingServerLabel.label "Server för inkommande e-post:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Skriv in namnet på servern för diskussionsgrupper (NNTP) (exempelvis, ”news.example.net”).">
+<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
+<!ENTITY smtpServerTitle.label "Server för utgående e-post (SMTP)">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "Skriv in namnet på servern för utgående e-post (SMTP) (exempelvis, ”smtp.example.net”).">
+<!ENTITY smtpServerLabel.label "Server för utgående e-post:">
+<!ENTITY smtpServerLabel.accesskey "U">
+<!ENTITY newsServerLabel.label "Server för diskussionsgrupper:">
+<!ENTITY newsServerLabel.accesskey "v">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Server för diskussionsgrupper">
+
+<!-- for when the user has an SMTP server pre-configured -->
+<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
+     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
+    inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Din befintliga server för utgående e-post (SMTP), ”">
+<!ENTITY haveSmtp1.suffix "”, kommer att användas. Du kan ändra vilken server som används för utgående e-post senare genom att välja Kontoinställningar i Verktyg-menyn.">
+
+<!-- Entities for Login page -->
+
+<!ENTITY loginTitle.label "Användarnamn">
+<!ENTITY usernameDesc.label "Skriv in det användarnamn för inkommande e-post du fått av din e-post-leverantör ">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(exempelvis, ”svenna42”).">
+<!ENTITY usernameLabel.label "Användarnamn för inkommande:">
+<!ENTITY usernameLabel.accesskey "A">
+<!ENTITY usernameSmtpDesc.label "Skriv in eventuellt användarnamn för utgående e-post du fått av din e-post-leverantör (detta kan ofta vara samma användarnamn som för inkommande).">
+<!ENTITY usernameSmtpLabel.label "Användarnamn för utgående:">
+<!ENTITY usernameSmtpLabel.accesskey "ä">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Ditt existerande användarnamn för utgående e-post (SMTP), ”">
+<!ENTITY haveSmtp2.suffix "”, kommer att användas. Du kan modifiera inställningarna för utgående e-post genom att välja Kontoinställningar… i Verktyg-menyn.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "Din server för utgående e-post (SMTP), ”">
+<!ENTITY haveSmtp3.suffix "”, är identisk med din server för inkommande e-post, ditt användarnamn för inkommande e-post kommer att användas vid anslutningen. Du kan modifiera inställningarna för utgående e-post genom att välja Kontoinställningar… i Verktyg-menyn.">
+
+<!-- Entities for Account name page -->
+
+<!ENTITY accnameTitle.label "Kontonamn">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Detta är endast för din egen del, så du vet vilka konton som är vilka (exempelvis, ”Jobbkontot”, ”Min privata e-post” eller ”Diskussionsgrupperna”).">
+<!ENTITY accnameExample.label "Exempelvis, Jobbkontot, Min privata e-post eller Diskussionsgrupperna">
+<!ENTITY accnameLabel.label "Kontonamn:">
+<!ENTITY accnameLabel.accesskey "K">
+
+<!-- Entities for Done (Congratulations) page -->
+
+<!ENTITY completionTitle.label "Gratulerar!">
+<!ENTITY completionText.label "Var god och kontrollera att uppgifterna nedan är korrekta.">
+<!ENTITY serverTypePrefix.label "Teknik för att hämta e-post:">
+<!ENTITY serverNamePrefix.label "Server för inkommande e-post:">
+<!ENTITY smtpServerNamePrefix.label "Server för utgående e-post (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Server för diskussionsgrupper (NNTP):">
+<!ENTITY downloadOnLogin.label "Hämta meddelanden nu">
+<!ENTITY deferStorageDesc.label "Avmarkera denna kryssruta för att lagra e-post för det här kontot i en egen katalog. Det gör att kontot kommer att visas som ett eget konto i kontolistan. Annars kommer det att vara en del av en global Inkorg i kontot Lokala mappar.">
+<!ENTITY deferStorage.label "Använd en global Inkorg (lagra e-posten i Lokala mappar)">
+<!ENTITY clickFinish.label "Klicka på Slutför för att spara kontoinställningarna och avsluta kontoguiden.">
+<!ENTITY clickFinish.labelMac "Klicka på Klar för att spara kontoinställningarna och avsluta kontoguiden.">

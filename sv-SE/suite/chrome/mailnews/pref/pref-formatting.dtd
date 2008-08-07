@@ -1,0 +1,83 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+   - Henrik Olsson <henriko@algonet.se>
+   - Mikael Hedberg <hedberg@novasphere.net>
+   - Lars P M <larspeemm@netscape.net>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.formatting.title        "Skicka i format">
+<!ENTITY sendMail.label               "Skicka i format">
+<!ENTITY sendMaildesc.label           "Gör så här när meddelanden i HTML-format ska skickas till mottagare som inte är registrerade för att ta emot den här typen av meddelanden:">
+<!ENTITY askMe.label                  "Fråga hur det ska skickas (e-postklienten ber dig att välja ett format)">
+<!ENTITY askMe.accesskey              "a">
+<!ENTITY convertPlain.label           "Konvertera meddelandet till oformaterad text (viss formatering kan gå förlorad)">
+<!ENTITY convertPlain.accesskey       "K">
+<!ENTITY sendHTML.label               "Skicka meddelandet i HTML-format trots allt (vissa mottagare kanske inte kan läsa det)">
+<!ENTITY sendHTML.accesskey           "S">
+<!ENTITY sendBoth.label               "Skicka meddelandet som både oformaterad text och HTML (tar upp mer diskutrymme)">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY override.label               "Du kan åsidosätta inställningarna i ett meddelande via Alternativ-menyn i fönstret för att skriva meddelanden.">
+<!ENTITY receiveHTML.label            "Om du vet att en viss mottagare kan ta emot e-post som skickas i HTML-format, kan du ändra valet för 'Föredrar att få meddelanden som:' på mottagarens kort i adressboken.">
+
+<!-- Html and Plain Text Domains  -->
+<!ENTITY domain.title                 "Domäner för HTML- respektive oformaterad text">
+<!ENTITY domaindesc.label             "När meddelanden skickas till en adress inom följande domäner, kommer e-postklienten automatiskt att skicka meddelandet i önskat format (formaterad eller oformaterad text).">
+<!ENTITY HTMLdomaintitle.label        "HTML-domäner">
+<!ENTITY HTMLdomaintitle.accesskey    "M">
+<!ENTITY PlainTexttitle.label         "Oformaterad text">
+<!ENTITY PlainTexttitle.accesskey     "O">
+<!ENTITY AddButton.label              "Lägg till…">
+<!ENTITY AddHtmlDomain.accesskey      "l">
+<!ENTITY AddPlainText.accesskey       "t">
+<!ENTITY DeleteButton.label           "Ta bort">
+<!ENTITY DeleteHtmlDomain.accesskey   "b">
+<!ENTITY DeletePlainText.accesskey    "r">
+
+<!-- Add HTML Domain Name -->
+<!ENTITY add.htmltitle                "Lägg till domän">
+<!ENTITY add.htmldomain               "Domän kapabel att ta emot formaterad text (HTML):">
+<!ENTITY add.htmldomain.accesskey     "d">
+<!ENTITY add.plaintexttitle           "Lägg till domän">
+<!ENTITY add.plaintextdomain          "Domän som bara ska ha oformaterad text:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Felaktigt domännamn">
+<!ENTITY duplicationError.label       "Domännamnet @string@ är redan upplagt i listan.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Domännamnet kan inte finnas i båda listorna samtidigt. Domännamnet @string@ är redan upplagt.">
+

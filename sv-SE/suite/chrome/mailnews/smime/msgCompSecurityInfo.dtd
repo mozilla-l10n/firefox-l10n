@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Meddelandesäkerhet">
+<!ENTITY subject.plaintextWarning "OBS! Ämnesraden till e-postmeddelanden krypteras aldrig.">
+<!ENTITY status.heading "Innehållet i ditt meddelande kommer att skickas som följande:">
+<!ENTITY status.signed "Elektroniskt signerat:">
+<!ENTITY status.encrypted "Krypterat:">
+<!ENTITY status.certificates "Certifikat:">
+<!ENTITY view.label "Visa">
+<!ENTITY view.accesskey "V">
+<!ENTITY tree.recipient "Mottagare">
+<!ENTITY tree.status "Status">
+<!ENTITY tree.issuedDate "Utfärdat">
+<!ENTITY tree.expiresDate "Förfaller">

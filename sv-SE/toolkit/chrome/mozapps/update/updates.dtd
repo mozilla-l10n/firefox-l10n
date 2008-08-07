@@ -1,0 +1,80 @@
+<!ENTITY  updateWizard.title              "Programuppdateringar">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Söker efter uppdateringar">
+<!ENTITY  checking.label                  "&brandShortName; söker nu efter uppdateringar…">
+
+<!ENTITY  cancel.label                    "Avbryt">
+<!ENTITY  cancel.accesskey                "A">
+
+<!ENTITY  noupdatesfound.title            "Inga uppdateringar hittades">
+<!ENTITY  noupdatesfound.intro            "Det finns inga nya uppdateringar att hämta. &brandShortName; kan
+                                           regelbundet söka efter nya uppdateringar.">
+
+<!ENTITY  incompatibleChecking.label      "Kontrollerar om uppdateringen kommer att skapa problem för dina tillägg och/eller teman…">
+<!ENTITY  clickHere.label                 "Visa mer information om den här uppdateringen">
+
+<!ENTITY  incompatible.warning            "Efter den här uppdateringen kommer några av dina tillägg och/eller 
+                                           teman att sluta fungera till dess de har uppdaterats.">
+<!ENTITY  listIncompatible.label          "Visa lista">
+<!ENTITY  listIncompatible.accesskey      "V">
+
+<!ENTITY  upgrade.evangelism              "Vi rekommenderar att du snarast möjligt uppgraderar &brandShortName;.">
+
+<!ENTITY  license.instructions            "Om du godkänner villkoren i detta avtal klickar du på Jag godkänner 
+                                           nedan för att fortsätta med installationen av uppdateringen.">
+
+<!ENTITY  license.titleText               "Programvarulicens">
+<!ENTITY  license.introText               "Villkor för att använda denna programvara.">
+<!ENTITY  license.instructionText         "Läs följande licensavtal. Använd rullisten för att se resten av avtalet.">
+<!ENTITY  license.accept                  "Jag accepterar villkoren i licensavtalet">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "Jag accepterar INTE villkoren i licensavtalet">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  downloading.title               "Hämta uppdatering">
+<!ENTITY  downloading.intro               "Hämtar uppdateringen…">
+<!ENTITY  connecting.label                "Ansluter till uppdateringsservern…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; kunde inte verifiera integriteten hos den 
+                                           programfix som har hämtats, därför kommer ett komplett
+                                           uppdateringspaket att hämtas.">
+
+<!ENTITY  details.link                    "Detaljer">
+<!ENTITY  pause.label                     "Paus">
+<!ENTITY  pause.accesskey                 "P">
+<!ENTITY  close.label                     "Stäng">
+<!ENTITY  close.accesskey                 "ä">
+
+<!ENTITY  error.label                     "Problem uppstod vid sökning, hämtning eller installation av den här 
+                                           uppdateringen. &brandShortName; kunde inte uppdateras eftersom:">
+                                           
+<!ENTITY  errorManual.label               "Du kan uppgradera &brandShortName; manuellt genom att besöka den här länken
+                                           och hämta den senaste versionen:">
+                                           
+<!ENTITY  errorpatching.title             "Uppdateringen misslyckades">
+<!ENTITY  errorpatching.intro             "Programfixen kunde inte installeras. 
+                                           &brandShortName; kommer att försöka igen genom att hämta ett komplett uppdateringspaket.">
+
+<!ENTITY  finished.title                  "Uppdatering hämtad">
+<!ENTITY  finished.text                   "Uppdateringen har hämtats och verifierats och kommer att installeras
+                                           nästa gång &brandShortName; startas.">
+
+<!ENTITY  finishedBackground.title        "Uppdateringen är klar att installera">
+<!ENTITY  finishedBackground.text         "&brandShortName; har hämtat och verifierat en viktig uppdatering. 
+                                           Klicka på nedanstående länk för ytterligare detaljer.">
+<!ENTITY  finishedBackground.name         "Uppdatering:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Klicka på Starta om &brandShortName; nu för att installera uppdateringen.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Klicka på Inte nu för att stänga denna dialogruta och fortsätta arbetet. &brandShortName;
+                                           kommer att installera uppdateringen vid nästa start.">
+
+<!ENTITY  installed.title                 "Uppdatering installerad">
+<!ENTITY  installed.intro                 "Uppdateringen har installerats.">
+<!ENTITY  whatsnew.label                  "Läs om vad som är nytt…">
+
+<!ENTITY  update.details.label            "Detaljer">
+<!ENTITY  update.installedOn.label        "Installerad:">
+<!ENTITY  update.status.label             "Status:">

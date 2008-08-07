@@ -1,0 +1,55 @@
+<!ENTITY  history.label "Historik">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Spara min historik i minst">
+<!ENTITY  rememberDaysBefore.accesskey  "m">
+<!ENTITY  rememberDaysAfter2.label      "dagar">
+
+<!ENTITY  rememberForms.label           "Spara det som skrivs in i formulär och i Sökfältet">
+<!ENTITY  rememberForms.accesskey       "S">
+
+<!ENTITY  rememberDownloads.label       "Kom ihåg vilka filer som hämtats">
+<!ENTITY  rememberDownloads.accesskey   "o">
+
+
+<!ENTITY  cookies.label                 "Kakor">
+
+<!ENTITY  acceptCookies.label           "Tillåt att webbplatser lagrar kakor">
+<!ENTITY  acceptCookies.accesskey       "w">
+
+<!ENTITY  acceptThirdParty.label        "Tillåt tredjepartskakor">
+<!ENTITY  acceptThirdParty.accesskey    "T">
+
+<!ENTITY  keepUntil.label               "Behåll tills:">
+<!ENTITY  keepUntil.accesskey           "B">
+
+<!ENTITY  expire.label                  "de förfaller">
+<!ENTITY  close.label                   "&brandShortName; stängs">
+<!ENTITY  askEachTime.label             "fråga varje gång">
+
+<!ENTITY  cookieExceptions.label        "Undantag…">
+<!ENTITY  cookieExceptions.accesskey    "U">
+
+<!ENTITY  showCookies.label             "Visa kakor…">
+<!ENTITY  showCookies.accesskey         "V">
+
+
+<!ENTITY  privateData.label              "Känslig data">
+
+<!ENTITY  alwaysClear.label              "Rensa alltid ut känslig data när &brandShortName; avslutas">
+<!ENTITY  alwaysClear.accesskey          "R">
+
+<!ENTITY  askBeforeClear.label           "Fråga innan rensning av känslig data">
+<!ENTITY  askBeforeClear.accesskey       "F">
+
+<!ENTITY  clearDataSettings.label        "Inställningar…">
+<!ENTITY  clearDataSettings.accesskey    "ä">
+
+<!ENTITY  clearDataNow.label             "Rensa nu…">
+<!ENTITY  clearDataNow.label2            "Rensa nu">
+<!ENTITY  clearDataNow.accesskey         "n">

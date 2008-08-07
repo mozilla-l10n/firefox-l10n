@@ -1,0 +1,12 @@
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
+<!ENTITY pref.advanced.title        "Avancerat">
+
+<!ENTITY prefEnableJava.caption     "Aktivera funktioner som hjälper till att tolka webbsidor">
+
+<!ENTITY enbJavaCheck.label         "Aktivera Java">
+<!ENTITY enbJavaCheck.accesskey     "J">
+
+<!ENTITY systemPref.caption         "Systeminställningar">
+<!ENTITY systemPrefCheck.label      "Använd inställningar från systemet">
+<!ENTITY systemPrefCheck.accesskey  "ä">
+<!ENTITY systemPref.desc            "Med detta valalternativ tar &brandShortName; över inställningar från systemet. Dessa systeminställningar kommer att åsidosätta &brandShortName;s inställningar.">

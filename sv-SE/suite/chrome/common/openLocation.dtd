@@ -1,0 +1,13 @@
+
+<!ENTITY enter.label "Skriv in den adress (URL), eller ange den lokala fil som du vill öppna:">  
+<!ENTITY enter.accesskey "S">
+<!ENTITY chooseFile.label "Välj fil…">
+<!ENTITY chooseFile.accesskey "V">
+<!ENTITY newWindow.label "Nytt fönster">
+<!ENTITY newTab.label "Ny flik">
+<!ENTITY topWindow.label "Aktuellt fönster">
+<!ENTITY editNewWindow.label "Nytt fönster i Composer">
+<!ENTITY open.label "Öppna">
+<!ENTITY caption.label "Öppna webbadress">
+<!ENTITY openWhere.label "Öppna i:">
+<!ENTITY openWhere.accesskey "i">

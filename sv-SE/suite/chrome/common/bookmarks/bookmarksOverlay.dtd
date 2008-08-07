@@ -1,0 +1,22 @@
+
+<!ENTITY  findABookmark.label               "Hitta ett bokmärke…">
+<!ENTITY  findABookmark.accesskey           "h">
+<!ENTITY  newBookmark.label                 "Nytt bokmärke…">
+<!ENTITY  newBookmark.accesskey             "n">
+<!ENTITY  newFolder.label                   "Ny mapp…">
+<!ENTITY  newFolder.accesskey               "m">
+<!ENTITY  newSeparator.label                "Ny avskiljare">
+<!ENTITY  newSeparator.accesskey            "a">
+<!ENTITY  setAsNewBookmarkFolder.label      "Använd som ny bokmärkesmapp">
+<!ENTITY  setAsNewBookmarkFolder.accesskey  "b">
+<!ENTITY  setAsNewSearchFolder.label        "Använd som ny mapp för sökresultat">
+<!ENTITY  setAsNewSearchFolder.accesskey    "r">
+<!ENTITY  setAsNewToolbarFolder.label       "Använd som ny mapp för eget verktygsfält">
+<!ENTITY  setAsNewToolbarFolder.accesskey   "p">
+<!ENTITY  exportBookmarks.label             "Exportera…">
+<!ENTITY  exportBookmarks.accesskey         "x">
+<!ENTITY  importBookmarks.label             "Importera…">
+<!ENTITY  importBookmarks.accesskey         "i">
+
+
+

@@ -1,0 +1,229 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Skriv: (ämne saknas)">
+
+<!ENTITY fromAddr.label "Från:">
+<!ENTITY fromAddr.accesskey "å">
+<!ENTITY subject.label  "Ämne:">
+<!ENTITY subject.accesskey "Ä">
+<!ENTITY attachments.label "Bilagor:">
+<!ENTITY attachments.accesskey "B">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY newMessage.label "Meddelande">  
+<!ENTITY newMessage.accesskey "M">  
+<!ENTITY saveCmd.label "Spara">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "r">
+<!ENTITY saveAsCmd.label "Spara som">
+<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsFileCmd.label "Fil…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Utkast">
+<!ENTITY saveAsDraftCmd.accesskey "U">
+<!ENTITY saveAsTemplateCmd.label "Mall">
+<!ENTITY saveAsTemplateCmd.accesskey "M">
+<!ENTITY attachMenu.label "Bifoga">
+<!ENTITY attachMenu.accesskey "B">
+<!ENTITY attachFileCmd.label "Bifoga fil…">
+<!ENTITY attachFileCmd.key "">
+<!ENTITY attachFileCmd.accesskey "B">
+<!ENTITY attachPageCmd.label "Bifoga webbsida…">
+<!ENTITY attachPageCmd.accesskey "W">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Visitkort (vCard)">
+<!ENTITY attachVCardCmd.accesskey "V">
+<!ENTITY sendNowCmd.label "Skicka nu">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "i">
+<!ENTITY sendLaterCmd.label "Skicka senare">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "k">
+<!ENTITY printSetupCmd.label "Utskriftsformat…">
+<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printCmd.label "Skriv ut…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "u">
+<!ENTITY closeCmd.label "Stäng">
+
+<!-- Edit menu items -->
+<!ENTITY editRewrapCmd.label "Radbryt">
+<!ENTITY editRewrapCmd.accesskey  "y">
+<!ENTITY findCmd.label "Sök och ersätt…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "S">
+<!ENTITY findAgainCmd.label "Sök nästa">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "ö">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Sök föregående">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "f">
+<!ENTITY accountManagerCmd.label "Kontoinställningar för E-post &amp; Grupper…">
+<!ENTITY accountManagerCmd.accesskey "ä">
+
+<!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "Verktyg för e-post">
+<!ENTITY showComposeToolbarCmd.accesskey "V">
+<!ENTITY showFormatToolbarCmd.label "Formateringsverktyg">
+<!ENTITY showFormatToolbarCmd.accesskey "o">
+<!ENTITY showParagraphMarksCmd.label ".Visa styckesmarkeringar">
+<!ENTITY pageSourceCmd.label ".Sidans källkod">
+<!ENTITY pageSourceCmd.accesskey "S">
+<!ENTITY pageInfoCmd.label ".Sidinformation">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY dcharMenu.label "Teckenuppsättning">
+<!ENTITY dcharIso1Cmd.label "Västerländsk (ISO-8859-1)">
+<!ENTITY dcharIso2Cmd.label "Centraleuropeisk (ISO-8859-2)">
+<!ENTITY dcharIso3Cmd.label "Sydeuropeisk (ISO-8859-3)">
+<!ENTITY dcharIso4Cmd.label "Baltisk (ISO-8859-4)">
+<!ENTITY dcharIso9Cmd.label "Turkisk (ISO-8859-9)">
+<!ENTITY dcharIso10Cmd.label "Nordisk (ISO-8859-10)">
+<!ENTITY dcharIso14Cmd.label "Keltisk (ISO-8859-14)">
+<!ENTITY dcharIso15Cmd.label "Västerländsk (ISO-8859-15)">
+<!ENTITY dcharJapanCmd.label "Japansk (ISO-2022-JP)">
+<!ENTITY dcharTradChiBigCmd.label "Traditionell kinesisk (Big5)">
+<!ENTITY dcharSimpChiGbCmd.label "Förenklad kinesisk (GB2312)">
+<!ENTITY dcharKoreanCmd.label "Koreansk (EUC-KR)">
+<!ENTITY dcharUtf8Cmd.label "Unicode (UTF-8)">
+<!ENTITY dcharRusCmd.label "Kyrillisk (KOI8-R)">
+<!ENTITY dcharUkrCmd.label "Kyrillisk/Ukrainsk (KOI8-U)">
+<!ENTITY dcharIsoGreekCmd.label "Grekisk (ISO-8859-7)">
+<!ENTITY dcharVietViCmd.label "Vietnamesisk (VISCII)">
+<!ENTITY dcharThaiCmd.label "Thailändsk (TIS-620)">
+<!ENTITY dcharArmCmd.label "Armenisk (ARMSCII-8)">
+<!ENTITY dcharDEFAULT.label "Förinställ teckenuppsättning för skickande av e-post">
+
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "Formatering">
+<!ENTITY formatMenu.accesskey "o">
+
+<!-- Options menu items -->
+<!ENTITY optionsMenu.label "Alternativ">
+<!ENTITY optionsMenu.accesskey "l">
+
+<!ENTITY doNotCompleteAddrCmd.label ".Komplettera inte adresser automatiskt">
+<!ENTITY showMatchingAddrCmd.label ".Visa matchande adresser">
+
+<!ENTITY addSignatureCmd.label ".Lägg till signatur">
+
+<!ENTITY quoteCmd.label "Citera meddelande">
+<!ENTITY quoteCmd.accesskey "i">
+<!ENTITY selectAddressCmd.label "Välj adresser…">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "V">
+
+<!ENTITY checkSpellingCmd.label "Kontrollera stavningen…">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.accesskey "t">
+<!ENTITY enableInlineSpellChecker.label "Automatisk stavningskontroll">
+<!ENTITY enableInlineSpellChecker.accesskey "u">
+
+<!ENTITY priorityMenu.label "Prioritet">
+<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY lowestPriorityCmd.label "Lägsta">
+<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowPriorityCmd.label "Låg">
+<!ENTITY lowPriorityCmd.accesskey "g">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY highPriorityCmd.label "Hög">
+<!ENTITY highPriorityCmd.accesskey "H">
+<!ENTITY highestPriorityCmd.label "Högsta">
+<!ENTITY highestPriorityCmd.accesskey "s">
+
+<!ENTITY returnReceiptMenu.label "Begär mottagningskvitto">
+<!ENTITY returnReceiptMenu.accesskey "B">
+<!ENTITY outputFormatMenu.label "Format">
+<!ENTITY outputFormatMenu.accesskey  "f">
+<!ENTITY autoFormatCmd.label "Automatisk avkänning">
+<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY plainTextFormatCmd.label "Endast oformaterad text">
+<!ENTITY plainTextFormatCmd.accesskey "E">
+<!ENTITY htmlFormatCmd.label "Endast formaterad text (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "Både oformaterad och formaterad (HTML) text">
+<!ENTITY bothFormatCmd.accesskey "o">
+
+<!ENTITY UuencodeAttachmentCmd.label "Använd Uuencode istället för MIME för bilagor">
+
+
+<!ENTITY fileCarbonCopyCmd.label "Skicka kopia till">
+<!ENTITY fileCarbonCopyCmd.accesskey "o">
+<!ENTITY fileHereMenu.label "Arkivera här">
+
+<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
+<!-- Debug Menu, imported from editorAppShell.dtd -->
+<!ENTITY debugMenu.label "Debug">
+<!ENTITY outputTextCmd.label "Output Text">
+<!ENTITY outputHTMLCmd.label "Output HTML">
+<!ENTITY insertTextCmd.label "Insert Text">
+<!ENTITY testSelectionCmd.label "Test Selection">
+<!ENTITY testTableLayoutCmd.label "Test Table Layout">
+<!ENTITY testDocumentCmd.label "Test Document">
+<!ENTITY showEmbeddedCmd.label "Show Embedded Objects">
+<!ENTITY dumpContentCmd.label "Dump Content Tree">
+<!ENTITY runUnitTestsCmd.label "Run Unit Tests">
+<!ENTITY startLogCmd.label "Start Log">
+<!ENTITY stopLogCmd.label "Stop Log">
+<!ENTITY runLogCmd.label "Run Log">
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!-- Toolbar items -->
+<!ENTITY sendButton.label "Skicka">
+<!ENTITY quoteButton.label "Citera">
+<!ENTITY addressButton.label "Adress">
+<!ENTITY attachButton.label "Bifoga">
+<!ENTITY spellingButton.label "Stavning">
+<!ENTITY saveButton.label "Spara">
+<!ENTITY stopButton.label "Stopp">
+
+<!--tooltips-->
+<!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+<!ENTITY addressBar.tooltip "Adressfält">
+<!ENTITY formatToolbar.tooltip "Formateringsverktyg">
+<!ENTITY sendButton.tooltip "Skicka meddelandet nu">
+<!ENTITY sendlaterButton.tooltip "Skicka meddelandet senare"> 
+<!ENTITY quoteButton.tooltip "Citerar föregående meddelande"> 
+<!ENTITY addressButton.tooltip "Välj en mottagare ur en adressbok">
+<!ENTITY attachButton.tooltip "Bifoga en fil till meddelandet">
+<!ENTITY saveButton.tooltip "Spara det här meddelandet">
+<!ENTITY stopButton.tooltip "Avbryt den aktuella överföringen">
+
+<!-- Toolbar items, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+
+<!-- context menu items -->
+<!ENTITY spellCheckNoSuggestions.label "Inga förslag hittades">
+<!ENTITY spellCheckIgnoreWord.label "Ignorera ord">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Lägg till i ordbok">
+<!ENTITY spellCheckAddToDictionary.accesskey "ä">
+<!ENTITY undo.label "Ångra">
+<!ENTITY undo.accesskey "Å">
+<!ENTITY cut.label "Klipp ut">
+<!ENTITY cut.accesskey "K">
+<!ENTITY copy.label "Kopiera">
+<!ENTITY copy.accesskey "o">
+<!ENTITY paste.label "Klistra in">
+<!ENTITY paste.accesskey "l">
+<!ENTITY pasteQuote.label "Klistra in som citat">
+<!ENTITY pasteQuote.accesskey "c">
+
+<!ENTITY openAttachment.label "Öppna">
+<!ENTITY openAttachment.accesskey "Ö">
+<!ENTITY delete.label "Ta bort">
+<!ENTITY delete.accesskey "T">
+<!ENTITY renameAttachment.label "Byt namn…">
+<!ENTITY renameAttachment.accesskey "n">
+<!ENTITY selectAll.label "Markera allt">
+<!ENTITY selectAll.accesskey "M">
+<!ENTITY attachFile.label "Bifoga fil(er)…">
+<!ENTITY attachFile.accesskey "f">
+<!ENTITY attachPage.label "Bifoga webbsida…">
+<!ENTITY attachPage.accesskey "w">

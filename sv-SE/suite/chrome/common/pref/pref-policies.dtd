@@ -1,0 +1,19 @@
+
+<!ENTITY  pref.policies.title "Säkerhetsscheman">
+
+<!ENTITY  zoneIntro.label     "Med &brandShortName; kan du skapa scheman som avgör vilken tillgång olika webbsidor har till olika funktioner, inklusive aspekter av skriptning och Java.">
+
+<!ENTITY  policies.label      "Scheman:">
+<!ENTITY  default.label       "Förvalt schema">
+<!ENTITY  allWebsites.label   "Alla webbplatser">
+<!ENTITY  trusted.label       "Tillförlitliga webbplatser">
+<!ENTITY  annoyances.label    "Vanliga störningsmoment">
+<!ENTITY  restricted.label    "Webbplatser med restriktioner">
+
+<!ENTITY  addSite.label       "Lägg till webbplats…">
+<!ENTITY  addSite.accesskey   "a">
+<!ENTITY  settings.label      "Inställningar för ">
+<!ENTITY  settings.accesskey  "s">
+
+<!ENTITY  description.label   "Beskrivning av schema:">
+

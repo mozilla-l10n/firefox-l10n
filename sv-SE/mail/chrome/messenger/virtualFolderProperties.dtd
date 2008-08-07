@@ -1,0 +1,14 @@
+<!ENTITY virtualFolderProperties.title "Ny mapp för sparad sökning">
+<!ENTITY name.label                 "Namn:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Skapa som undermapp till:">
+<!ENTITY description.accesskey      "S">
+
+<!ENTITY searchTermCaption.label "Anpassa de sökkriterier som används för den här virtuella mappen: ">
+
+<!ENTITY folderSelectionCaption.label "Välj mappar att söka i: ">
+<!ENTITY chooseFoldersButton.label "Välj…">
+<!ENTITY chooseFoldersButton.accesskey "V">
+
+<!ENTITY searchOnline.label "Sök online (ger uppdaterade resultat för IMAP och nyhetsmappar men förlänger tiden det tar att öppna mappen)">
+<!ENTITY searchOnline.accesskey "o">

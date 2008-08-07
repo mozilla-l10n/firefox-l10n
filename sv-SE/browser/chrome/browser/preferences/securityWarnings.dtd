@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Säkerhetsvarningar">
+
+<!ENTITY security.warn_when                       "Visa en varning när jag:">
+<!ENTITY security.warn_entering_secure.label      "Kommer till en krypterad sida.">
+<!ENTITY security.warn_entering_secure.accesskey  "K">
+<!ENTITY security.warn_entering_weak.label        "Kommer till en sida som använder svag kryptering.">
+<!ENTITY security.warn_entering_weak.accesskey    "o">
+<!ENTITY security.warn_leaving_secure.label       "Går från en krypterad sida till en okrypterad.">
+<!ENTITY security.warn_leaving_secure.accesskey   "G">
+<!ENTITY security.warn_submit_insecure.label      "Skickar information som inte är krypterad.">
+<!ENTITY security.warn_submit_insecure.accesskey  "S">
+<!ENTITY security.warn_viewing_mixed.label        "Kommer till en krypterad sida som innehåller viss okrypterad information.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "m">

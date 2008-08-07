@@ -1,0 +1,25 @@
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "Hjälp">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Hjälp">
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY releaseCmd.label "Versionsfakta">
+<!ENTITY releaseCmd.accesskey "V">
+<!ENTITY openHelp.label "Hjälpinnehåll">
+<!ENTITY openHelp.accesskey "H">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "&brandShortName; Hjälp">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
+
+<!ENTITY updateCmd.label      "Sök efter uppdateringar…">
+<!-- SVENSK NOTERING: updateCmd.accesskey används även för menyposterna
+  updatesItem_xxx som finns i messenger.properties. Bokstaven måste alltså
+  finnas både i updateCmd.label och i updatesItem_xxx-strängarna. I det här
+  fallet kan vi använda "u" eftersom %S i updatesItem_downloading skrivs ut som
+  "Thunderbird". Se bugg 315226 -->
+<!ENTITY updateCmd.accesskey  "u">
+<!ENTITY aboutCmd.label "Om &brandFullName;">
+<!ENTITY aboutCmd.accesskey "O">

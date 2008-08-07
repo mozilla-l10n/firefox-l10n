@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Bifoga den här bilden till meddelandet">
+<!ENTITY attachImageSource.accesskey     "o">
+
+<!ENTITY attachLinkSource.label          "Bifoga källan för den här länken till meddelandet">
+<!ENTITY attachLinkSource.accesskey      "o">

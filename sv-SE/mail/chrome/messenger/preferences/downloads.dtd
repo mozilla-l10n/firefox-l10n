@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label              "Mapp för bilagor">
+<!ENTITY alwaysAsk.label              "Fråga var varje bilaga ska sparas">
+<!ENTITY alwaysAsk.accesskey          "F">
+<!ENTITY neverAsk.label               "Spara alla bilagor i denna mapp:">
+<!ENTITY neverAsk.accesskey           "S">
+<!ENTITY desktop.label                "Skrivbordet">
+<!ENTITY downloads.label              "Hämtade filer">
+<!ENTITY chooseFolderWin.label        "Bläddra…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "Välj…">
+<!ENTITY chooseFolderMac.accesskey    "ä">
+
+
+<!ENTITY fileTypes.label              "Åtgärder vid filhämtningar">
+<!ENTITY configureActions.label       "Visa &amp; redigera filtyper…">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypesDescription.label   "&brandShortName; kan automatiskt hämta och öppna filer av vissa typer.">
+
+<!ENTITY fileTypeColName.label        "Filtyp">
+<!ENTITY fileHandlerColName.label     "Program">
+<!ENTITY editFileHandler.label        "Redigera…">
+<!ENTITY editFileHandler.accesskey    "R">
+<!ENTITY removeFileHandler.label      "Ta bort">
+<!ENTITY removeFileHandler.accesskey  "T">

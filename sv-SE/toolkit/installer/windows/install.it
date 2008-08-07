@@ -1,0 +1,147 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&OK
+OK=OK
+CANCEL=Avbryt
+CANCEL_=&Avbryt
+NEXT_=&Nästa >
+BACK_=< &Föregående
+IGNORE_=&Ignorera
+PROXY_MESSAGE=För att konfigurera en proxyserver för denna filhämtning, klicka på knappen Anslutning.... 
+PROXY_BUTTON=&Anslutning...
+PROXYSETTINGS=Proxy-inställningar:
+PROXYSETTINGS_=&Proxy-inställningar
+SERVER=Server:
+PORT=Port:
+USERID=Användar-id:
+PASSWORD=Lösenord:
+SELECTDIRECTORY=Välj en mapp
+DIRECTORIES_=&Mappar:
+DRIVES_=D&iskar:
+STATUS=Återstår:
+FILE=Fil:
+URL=URL:
+TO=Till:
+ACCEPT_=&Acceptera
+DECLINE_=&Neka
+PROGRAMFOLDER_=&Programmapp:
+EXISTINGFOLDERS_=E&xisterande mappar:
+SETUPMESSAGE=Installationsprogrammet har slutfört kopieringen av filer till din dator.  Innan du kan använda $ProductNameInternal$ måste du starta om Windows eller din dator. Välj ett av följande alternativ och klicka på OK för att avsluta installationen.
+RESTART=Starta om
+YESRESTART=Ja, jag vill starta om min dator nu.
+NORESTART=Nej, jag vill starta om min dator senare.
+ADDITIONALCOMPONENTS_=&Ytterligare komponenter:
+DESCRIPTION=Beskrivning
+TOTALDOWNLOADSIZE=Total storlek på installationen:
+SPACEAVAILABLE=Tillgängligt utrymme:
+COMPONENTS_=K&omponenter:
+BROWSEINFO=Välj en mapp att installera $ProductName$ i:
+DESTINATIONDIRECTORY=Installationsmapp
+BROWSE_=B&läddra...
+DOWNLOADSIZE=Hämtningsstorlek: %u kB
+CURRENTSETTINGS=Aktuell inställning:
+INSTALLFOLDER=...till följande plats:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s och:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Installera
+DELETE_=&Ta bort
+CONTINUE_=&Fortsätt
+SKIP_=&Hoppa över
+README=L&äs mig
+PAUSE_=&Paus
+RESUME_=S&tarta om
+CHECKED=Markerad
+UNCHECKED=Avmarkerad
+
+EXTRACTING=Extraherar...
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Kan inte skapa %s dialog.
+ERROR_FAILED=%s misslyckades.
+ERROR_FILE_NOT_FOUND=Filen kan inte hittas: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=GetSystemDirectory() misslyckades.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =GetWindowsDirectory() misslyckades.
+DLGQUITTITLE=Avslutar installationsprogrammet
+DLGQUITMSG=Du har inte slutfört installationen av $ProductName$. Om du avslutar Installationsprogrammet nu kommer $ProductName$ inte att installeras. Är du säker på att du vill avsluta Installationsprogrammet?
+DLG_REBOOT_TITLE=Starta om Windows
+ERROR_GETPROCADDRESS=GetProcAddress() av %s misslyckades.
+ERROR_WRITEPRIVATEPROFILESTRING=WritePrivateProfileString() misslyckades för filen %s
+MSG_RETRIEVE_CONFIGINI=Vänta medan installationsprogrammet hämtar konfigurationsskriptet som behövs av installationsprogrammet från webben...
+ERROR_CREATE_TEMP_DIR=Installationsprogrammet kunde inte skapa TEMP-mappen: %s
+DLGBROWSETITLE=Välj en mapp
+ERROR_DETERMINING_DISK_SPACE=Kan inte avgöra det tillgängliga diskutrymmet för: %s
+DLG_DISK_SPACE_CHECK_TITLE=Kontroll av diskutrymme
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Installationsprogrammet har upptäckt att det saknas utrymme på disken för att fortsätta med installationen av %s på sökvägen: %sNödvändigt: %sTillgängligt: %sKlicka på Försök igen om mer utrymme har frigjorts, eller klicka på Avbryt för att avbryta installationen.
+DLG_DISK_SPACE_CHECK_MSG=Installationsprogrammet har upptäckt att det saknas utrymme på disken för att fortsätta med installationen av %s på sökvägen: %sNödvändigt: %sTillgängligt: %sKlicka på OK för att gå tillbaka och välja en annan destination.
+ERROR_CREATE_DIRECTORY=Kan inte skapa mappen: %sFörsäkra dig om att du har tillstånd att skapa mappen.
+ERROR_MESSAGE_TITLE=$ProductNameInternal$ Installationsprogram - Fel
+STR_FILE_NUMBER=Filräknare:
+STR_FILENAME=Filnamn:
+MSG_SMARTUPDATE_START=Förbereder installationen, vänta...
+MSG_CONFIGURING=Konfigurerar %s, vänta...
+ERROR_XPI_INSTALL=Ett fel uppstod under installationen
+ERROR_SETUP_REQUIREMENT=$ProductName$ kan endast köras på Windows 95 eller senare. Installationsprogrammet kommer att avslutas. 
+DLG_EXTRACTING_TITLE=$ProductName$ Installationsprogram - Installationsförlopp
+STR_PROCESSINGFILE=Förbereder filen: %s
+STR_INSTALLING=Installerar %s
+STR_COPYINGFILE=Kopierar filen: %s
+MB_WARNING_STR=Varning
+MB_MESSAGE_STR=Meddelande
+MB_ATTENTION_STR=Notera
+MSG_CREATE_DIRECTORY=Följande mapp finns inte:%sVill du skapa den?
+STR_CREATE_DIRECTORY=Skapa mapp?
+ERROR_PROGRAM_FOLDER_NAME=Ogiltigt namn på programmapp angavs.
+CB_DEFAULT=Standard
+ERROR_DESTINATION_PATH=Ogiltig sökväg angavs.
+STR_SETUP_TYPE=Installationstyp:
+STR_SELECTED_COMPONENTS=Valda komponenter:
+STR_DESTINATION_DIRECTORY=Destinationsmapp:
+STR_PROGRAM_FOLDER=Programmapp:
+STR_DELETING_DESTINATION_DIR=Tar bort destinationsmapp för att kunna uppgradera, vänta...
+STR_SETUP=Installation
+STR_DOWNLOAD_SITE=Hämta från:
+STR_SAVE_INSTALLER_FILES=Spara hämtade programfiler och installationsprogrammet till:
+MSG_INIT_SETUP=Initierar installationsprogrammet, vänta...
+STR_MESSAGEBOX_TITLE=%s Installation
+ERROR_GETVERSION=GetVersionEx() misslyckades!
+DLG_USAGE_TITLE=Användning
+
+STATUS_EXTRACTING=Extraherar %s
+STATUS_LAUNCHING_SETUP=Startar installationsprogrammet...
+ERROR_FILE_WRITE=Kan inte skriva filen %s
+TITLE=Installation
+ERROR_OUT_OF_MEMORY=Slut på minne!
+
+ERROR_DLL_LOAD=Kan inte ladda %s
+ERROR_STRING_LOAD=Kan inte ladda stringresurs-ID %d
+ERROR_STRING_NULL=Tom pekare påträffad.
+ERROR_GLOBALALLOC=Fel vid minnesallokering.
+MSG_FORCE_QUIT_PROCESS=Installationsprogrammet har upptäckt att %s (%s) fortfarande körs.  Klicka på OK för att avsluta %s och fortsätta med installationen. Du kan också använda Windows Aktivitetshanterare för att avsluta %s, och sedan klicka på OK för att fortsätta med installationen.
+MSG_FORCE_QUIT_PROCESS_FAILED=Installationsprogrammet kommer att avslutas. Installationsprogrammet kan inte fortsätta på grund av att %s (%s) fortfarande körs. Försök att manuellt avsluta %s med Windows Aktivitetshanterare, och kör sedan installationsprogrammet igen.
+ERROR_PATH_WITHIN_WINDIR=$ProductName$ kan inte installeras i en mapp som finns i Windows-mappen. Välj en annan mapp.
+

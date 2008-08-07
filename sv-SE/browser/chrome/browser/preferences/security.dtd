@@ -1,0 +1,42 @@
+<!ENTITY  warnAddonInstall.label        "Varna när webbplatser vill installera tillägg">
+<!ENTITY  warnAddonInstall.accesskey    "V">
+
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+<!ENTITY  tellMaybeAttackSite.label     "Varna mig om platsen som besöks är en misstänkt skadlig plats">
+<!ENTITY  tellMaybeAttackSite.accesskey "n">
+
+<!ENTITY  tellMaybeForgery.label     "Varna mig om platsen som besöks är en misstänkt bluff">
+<!ENTITY  tellMaybeForgery.accesskey "m">
+
+<!ENTITY  addonExceptions.label         "Undantag…">
+<!ENTITY  addonExceptions.accesskey     "U">
+
+
+<!ENTITY  passwords.label               "Lösenord">
+
+<!ENTITY  rememberPasswords.label       "Spara lösenord för webbplatser">
+<!ENTITY  rememberPasswords.accesskey   "S">
+<!ENTITY  passwordExceptions.label      "Undantag…">
+<!ENTITY  passwordExceptions.accesskey  "d">
+
+<!ENTITY  useMasterPassword.label        "Använd ett huvudlösenord">
+<!ENTITY  useMasterPassword.accesskey    "A">
+<!ENTITY  changeMasterPassword.label     "Byt huvudlösenord…">
+<!ENTITY  changeMasterPassword.accesskey "B">
+
+<!ENTITY  savedPasswords.label           "Sparade lösenord…">
+<!ENTITY  savedPasswords.accesskey       "ö">
+
+
+<!ENTITY  warnings.label                "Varningsmeddelanden">
+
+<!ENTITY  chooseWarnings.label          "Välj vilka varningar som ska visas under webbläsning">
+
+<!ENTITY  warningSettings.label         "Inställningar…">
+<!ENTITY  warningSettings.accesskey     "ä">

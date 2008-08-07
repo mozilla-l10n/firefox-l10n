@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title         "Åtgärder vid filhämtningar">
+<!ENTITY  window.width                        "480">
+<!ENTITY  window.height                       "310">
+
+<!ENTITY  fileTypesDescription.label          "Utför den associerade åtgärden automatiskt för följande filtyper:">
+
+<!ENTITY  fileHandlerColumn.label             "Åtgärd">
+<!ENTITY  fileHandlerColumn.accesskey         "Å">
+<!ENTITY  fileTypeColumn.label                "Filtyp">
+<!ENTITY  fileTypeColumn.accesskey            "F">
+<!ENTITY  fileMIMETypeColumn.label            "MIME-typ">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "Filtillägg">
+<!ENTITY  fileExtensionColumn.accesskey       "t">
+
+<!ENTITY  remove.label                        "Ta bort">
+<!ENTITY  remove.accesskey                    "T">
+<!ENTITY  edit.label                          "Redigera…">
+<!ENTITY  edit.accesskey                      "e">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "Sök:">
+<!ENTITY  filter.accesskey                    "S">
+<!ENTITY  clear.label                         "Rensa">
+<!ENTITY  clear.accesskey                     "R">
+
+<!ENTITY  button.close.label                  "Stäng">
+<!ENTITY  button.close.accesskey              "ä">
+

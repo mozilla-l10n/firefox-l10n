@@ -1,0 +1,34 @@
+
+<!ENTITY menuBar.tooltip            "Menyrad">
+<!ENTITY fileMenu.label             "Arkiv">
+<!ENTITY closeCmd.label             "Stäng">
+<!ENTITY editMenu.label             "Redigera"> 
+<!ENTITY undoCmd.label              "Ångra">
+<!ENTITY redoCmd.label              "Gör om">
+<!ENTITY cutCmd.label               "Klipp ut">
+<!ENTITY copyCmd.label              "Kopiera">
+<!ENTITY pasteCmd.label             "Klistra in">
+<!ENTITY deleteCmd.label            "Ta bort">
+<!ENTITY deleteHostnameCmd.accesskey "a">
+<!ENTITY deleteDomainCmd.accesskey  "d">
+<!ENTITY selAllCmd.label            "Markera allt">
+<!ENTITY findHisCmd.label           "Sök i historiken…">
+<!ENTITY findHisCmd.commandkey      "f">
+<!ENTITY findHisCmd.accesskey       "S">
+<!ENTITY groupBy.label              "Gruppera på">
+<!ENTITY groupBy.accesskey          "G">
+<!ENTITY groupByDay.label           "Dag">
+<!ENTITY groupByDay.accesskey       "D">
+<!ENTITY groupBySite.label          "Plats">
+<!ENTITY groupBySite.accesskey      "P">
+<!ENTITY groupByNone.label          "Inget">
+<!ENTITY groupByNone.accesskey      "N">
+<!ENTITY historyWindowTitle.label   "Historik">
+<!ENTITY menuitem.view.unsorted.label "Osorterat">
+<!ENTITY menuitem.view.unsorted.accesskey "O">
+<!ENTITY sortAscending.label "Stigande">
+<!ENTITY sortAscending.accesskey "a">
+<!ENTITY sortDescending.label "Fallande">
+<!ENTITY sortDescending.accesskey "F">
+<!ENTITY menuitem.view.show_columns.label "Visa kolumner">
+<!ENTITY menuitem.view.show_columns.accesskey "s">

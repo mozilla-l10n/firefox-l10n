@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "Nya sidor ska öppnas i:">
+<!ENTITY inNewWindow.label            "ett nytt fönster">
+<!ENTITY inNewWindow.accesskey        "e">
+<!ENTITY inNewTab.label               "en ny flik">
+<!ENTITY inNewTab.accesskey           "n">
+
+<!ENTITY warnCloseMultipleTabs.label  "Varna när jag stänger flera flikar">
+<!ENTITY warnCloseMultipleTabs.accesskey  "V">
+
+<!ENTITY warnOpenManyTabs.label       "Varna när öppnande av många flikar kan göra &brandShortName; långsam">
+<!ENTITY warnOpenManyTabs.accesskey   "ö">
+
+<!ENTITY showTabBar.label             "Visa alltid flikfältet">
+<!ENTITY showTabBar.accesskey         "a">
+
+<!ENTITY switchToNewTabs.label        "När jag öppnar en länk i en ny flik, flytta genast fokus till den">
+<!ENTITY switchToNewTabs.accesskey    "ä">

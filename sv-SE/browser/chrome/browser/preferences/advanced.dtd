@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Allmänt">
+
+<!ENTITY accessibility.label             "Tillgänglighet">
+
+<!ENTITY useCursorNavigation.label       "Använd alltid piltangenterna för att navigera i sidor">
+<!ENTITY useCursorNavigation.accesskey   "A">
+<!ENTITY searchStartTyping.label         "Sök efter text när jag börjar skriva">
+<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY blockAutoRefresh.label          "Varna när webbplatser försöker styra om eller hämta om sidan">
+<!ENTITY blockAutoRefresh.accesskey      "w">
+
+<!ENTITY browsing.label                  "Webbläsning">
+
+<!ENTITY useAutoScroll.label             "Använd autorullning">
+<!ENTITY useAutoScroll.accesskey         "n">
+<!ENTITY useSmoothScrolling.label        "Använd mjuk rullning">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkSpelling.label             "Använd automatisk stavningskontroll">
+<!ENTITY checkSpelling.accesskey         "v">
+
+<!ENTITY systemDefaults.label            "Systeminställningar">
+<!ENTITY alwaysCheckDefault.label        "Kontrollera vid start om &brandShortName; är standardwebbläsare"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "K">
+<!ENTITY checkNow.label                  "Kontrollera nu">
+<!ENTITY checkNow.accesskey              "o">
+
+<!ENTITY networkTab.label                "Nätverk">
+
+<!ENTITY connection.label                "Anslutning">
+
+<!ENTITY connectionDesc.label            "Ange hur &brandShortName; ansluter till Internet">
+<!ENTITY connectionSettings.label        "Inställningar…">
+<!ENTITY connectionSettings.accesskey    "n">
+
+<!ENTITY offlineStorage.label            "Nedkopplad lagring">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Använd upp till">
+<!ENTITY useCacheBefore.accesskey        "A">
+<!ENTITY useCacheAfter.label             "MB utrymme för cachen">
+<!ENTITY clearCacheNow.label             "Rensa nu">
+<!ENTITY clearCacheNow.accesskey         "R">
+
+<!ENTITY updateTab.label                 "Uppdateringar">
+
+<!ENTITY autoCheck.label                 "Sök automatiskt efter uppdateringar till:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "Tillägg">
+<!ENTITY enableAddonsUpdate.accesskey    "T">
+<!ENTITY enableSearchUpdate.label        "Sökmotorer">
+<!ENTITY enableSearchUpdate.accesskey    "S">
+<!ENTITY whenUpdatesFound.label          "När det finns uppdateringar till &brandShortName;:">
+<!ENTITY askMe.label                     "Fråga vad jag vill göra">
+<!ENTITY askMe.accesskey                 "v">
+<!ENTITY modeAutomatic.label             "Hämta och installera uppdateringen automatiskt">
+<!ENTITY modeAutomatic.accesskey         "ä">
+<!ENTITY modeAutoAddonWarn.label         "Varna om några tillägg kommer att avaktiveras">
+<!ENTITY modeAutoAddonWarn.accesskey     "o">
+<!ENTITY updateHistory.label             "Visa tidigare uppdateringar">
+<!ENTITY updateHistory.accesskey         "a">
+
+<!ENTITY offlineNotify.label             "Meddela mig när en webbplats vill lagra data för nedkopplad användning">
+<!ENTITY offlineNotify.accesskey         "M">
+<!ENTITY offlineNotifyExceptions.label   "Undantag…">
+<!ENTITY offlineNotifyExceptions.accesskey "U">
+
+<!ENTITY offlineAppsList.label           "Följande webbplatser har data lagrad för nedkopplad användning:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Ta bort…">
+<!ENTITY offlineAppsListRemove.accesskey "T">
+<!ENTITY offlineAppRemove.confirm        "Ta bort lagrad data">
+
+<!ENTITY encryptionTab.label             "Kryptering">
+
+<!ENTITY protocols.label                 "Protokoll">
+<!ENTITY useSSL3.label                   "Använd SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Använd TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certifikat">
+<!ENTITY certSelection.description       "När en server efterfrågar mitt personliga certifikat:">
+<!ENTITY certs.auto                      "Välj ett automatiskt">
+<!ENTITY certs.auto.accesskey            "V">
+<!ENTITY certs.ask                       "Fråga varje gång">
+<!ENTITY certs.ask.accesskey             "F">
+<!ENTITY viewCerts.label                 "Visa certifikat">
+<!ENTITY viewCerts.accesskey             "c">
+<!ENTITY viewCRLs.label                  "Spärrlistor">
+<!ENTITY viewCRLs.accesskey              "S">
+<!ENTITY verify2.label                   "Validering">
+<!ENTITY verify2.accesskey               "d">
+<!ENTITY viewSecurityDevices.label       "Säkerhetsenheter">
+<!ENTITY viewSecurityDevices.accesskey   "k">

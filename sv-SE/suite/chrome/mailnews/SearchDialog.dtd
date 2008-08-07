@@ -1,0 +1,40 @@
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Sök efter meddelanden i:">
+<!ENTITY searchHeading.accesskey     "e">
+<!ENTITY searchSubfolders.label      "Sök i undermappar">
+<!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY searchLocalSystem.label     "Sök lokalt">
+<!ENTITY searchLocalSystem.accesskey "l">
+<!ENTITY resetButton.label           "Rensa">
+<!ENTITY resetButton.accesskey       "R">
+<!ENTITY helpButton.label            "Hjälp">
+<!ENTITY helpButton.accesskey        "H">
+<!ENTITY optionsButton.label         "Alternativ">
+<!ENTITY closeButton.label           "Stäng">
+<!ENTITY openButton.label            "Öppna">
+<!ENTITY openButton.accesskey        "Ö">
+<!ENTITY deleteButton.label          "Ta bort">
+<!ENTITY deleteButton.accesskey      "b">
+<!ENTITY searchDialogTitle.label     "Sök efter meddelanden">
+<!ENTITY conditionDesc.label         "Sök efter meddelande som matchar:">
+<!ENTITY conditions.label            "Sökkriterier">
+<!ENTITY results.label               "Sökresultat">
+<!ENTITY fileHereMenu.label          "Arkivera här">
+<!ENTITY fileHereMenu.accesskey      "h">
+<!ENTITY fileButton.label            "Arkivera">
+<!ENTITY fileButton.accesskey        "v">
+<!ENTITY goToFolderButton.label      "Öppna mappen">
+<!ENTITY goToFolderButton.accesskey  "m">
+<!ENTITY saveAsVFButton.label        "Spara som sökmapp">
+<!ENTITY saveAsVFButton.accesskey    "k">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Sök i:">
+<!ENTITY abSearchHeading.accesskey   "ö">
+<!ENTITY propertiesButton.label      "Egenskaper">
+<!ENTITY propertiesButton.accesskey  "E">
+<!ENTITY composeButton.label         "Skriv">
+<!ENTITY composeButton.accesskey     "r">
+<!ENTITY abSearchDialogTitle.label   "Avancerad sökning i adressbok">
+

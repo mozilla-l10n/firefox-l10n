@@ -1,0 +1,596 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -   Niklas Lundström <d00-nlu@nada.kth.se>
+   -   Mikael Hedberg <hedberg@novasphere.net>
+   -   Lars P M <larspeemm@netscape.net>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
+<!ENTITY fileMenu.label "Arkiv">
+<!ENTITY filemenu.accesskey "A">
+<!ENTITY newBlankPageCmd.label "Ny sida i Composer">
+<!ENTITY newBlankPage.accesskey "s" >
+<!ENTITY newMenu.label "Ny">
+<!ENTITY openFileCmd.label "Öppna fil...">
+<!ENTITY fileopen.accesskey "p">
+<!ENTITY fileopen.keybinding "o">
+<!ENTITY openremoteCmd.label "Öppna webbplats...">
+<!ENTITY fileopenremote.accesskey "w">
+<!ENTITY fileopenremote.keybinding "l">
+<!ENTITY fileRecentMenu.label "Senaste sidor">
+<!ENTITY filerecentmenu.accesskey "r">
+<!ENTITY fileRevert.label "Återgå till senast sparade">
+<!ENTITY filerevert.accesskey "Å">
+<!ENTITY saveCmd.label "Spara">
+<!ENTITY filesave.accesskey "s">
+<!ENTITY filesave.keybinding "s">
+<!ENTITY saveAsCmd.label "Spara som...">
+<!ENTITY filesaveas.accesskey "a">
+
+<!ENTITY publishCmd.label "Publicera">
+<!ENTITY publishcmd.accesskey "b">
+<!ENTITY publishAsCmd.label "Publicera som...">
+<!ENTITY publishas.accesskey "l">
+<!ENTITY exportToTextCmd.label "Exportera som text...">
+<!ENTITY fileexporttotext.accesskey "x">
+<!ENTITY saveAsChangeEncodingCmd.label "Spara och ändra teckenkodning">
+<!ENTITY filesaveandchangeencoding.accesskey "ä">
+<!ENTITY previewCmd.label "Surfa till sidan">
+<!ENTITY filepreview.accesskey "d">
+<!ENTITY sendPageCmd.label "Skicka sidan...">
+<!ENTITY sendPage.accesskey "c">
+<!ENTITY printSetupCmd.label "Utskriftsformat...">
+<!ENTITY fileprintsetup.accesskey "o">
+<!ENTITY printPreviewCmd.label "Förhandsgranska">
+<!ENTITY fileprintpreview.accesskey "g">
+<!ENTITY printCmd.label "Skriv ut...">
+<!ENTITY printButtonCmd.label "Skriv ut...">
+<!ENTITY fileprint.accesskey "u">
+<!ENTITY fileprint.keybinding "p">
+<!ENTITY closeCmd.label "Stäng">
+<!ENTITY fileclose.accesskey "t">
+<!ENTITY fileclose.keybinding "w">
+<!ENTITY exitCmd.label "Avsluta">
+<!ENTITY fileexit.accesskey "v">
+<!ENTITY fileexit.keybinding "q">
+
+<!-- Edit menu items -->
+<!ENTITY editMenu.label "Redigera">
+<!ENTITY editmenu.accesskey "e">
+<!ENTITY pasteNoFormatting.label "Klistra in utan formatering">
+<!ENTITY pasteNoFormatting.accesskey "u">
+<!ENTITY pasteAs.label "Klistra in som">
+<!ENTITY pasteAs.accesskey "a">
+<!ENTITY publishSettings.label "Publiceringsinställningar...">
+<!ENTITY publishSettings.accesskey "P">
+
+<!-- For a "Paste" submenu when more than 1 
+     clipboard formats are available -->
+<!ENTITY pasteHTMLCmd.label "HTML">
+<!ENTITY pasteHTML.accesskey "h">
+<!ENTITY pasteTextCmd.label "Text">
+<!ENTITY pasteText.accesskey "t">
+<!ENTITY pasteImageCmd.label "Bilder">
+<!ENTITY pasteImage.accesskey "i">
+<!ENTITY pasteRowsCmd.label "Rader">
+<!ENTITY pasteRows.accesskey "r">
+<!ENTITY pasteColumnsCmd.label "Kolumner">
+<!ENTITY pasteColumns.accesskey "o">
+<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
+     Set to: "Table" or "Nested Table" depending on context 
+     This accesskey must be in both strings -->
+<!ENTITY pasteTable.accesskey "a">
+<!ENTITY pasteLinkCmd.label "Länk">
+<!ENTITY editpastelink.accesskey "l">
+<!ENTITY pasteAsQuotationCmd.label "Klistra in som citat">
+<!ENTITY editpastequotation.accesskey "c">
+<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY editStripQuotesCmd.label "Trunkera citat">
+<!ENTITY editRewrapCmd.label "Flöda om">
+<!ENTITY findCmd.label "Sök och ersätt...">
+<!ENTITY editfind.accesskey "S">
+<!ENTITY editfind.keybinding "f">
+<!ENTITY editfind.keybinding2 "VK_F19">
+<!ENTITY findAgainCmd.label "Sök nästa">
+<!ENTITY editfindnext.accesskey "ä">
+<!ENTITY editfindnext.keybinding "g">
+<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.label "Sök föregående">
+<!ENTITY editfindprev.accesskey "f">
+<!ENTITY editfindprev.keybinding "g">
+<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY enableInlineSpellChecker.label "Stavningskontrollera medan du skriver">
+<!ENTITY enableInlineSpellChecker.accesskey "v">
+<!ENTITY checkSpellingCmd.label "Stavningskontroll">
+<!ENTITY editcheckspelling.accesskey "a">
+<!ENTITY editcheckspelling.keybinding "k">
+<!ENTITY validateCmd.label "Validera HTML">
+<!ENTITY validate.accesskey "V">
+<!ENTITY checkLinksCmd.label "Kontrollera länkar">
+
+<!-- View menu items -->
+<!ENTITY viewPageSource.label "Sidkod">
+<!ENTITY viewpagesource.accesskey "s">
+<!ENTITY viewParagraphMarks.label "Stycketecken">
+<!ENTITY viewparagraphmarks.accesskey "c">
+
+
+<!-- Insert menu items -->
+<!ENTITY insertMenu.label "Infoga">
+<!ENTITY insertmenu.accesskey "I">
+<!ENTITY insertLinkCmd.label "Länk...">
+<!ENTITY insertlink.accesskey "l">
+<!ENTITY insertlink.keybinding "l">
+<!ENTITY insertAnchorCmd.label "Namngivet ankare...">
+<!ENTITY insertanchor.accesskey "a">
+<!ENTITY insertImageCmd.label "Bild...">
+<!ENTITY insertimage.accesskey "i">
+<!ENTITY insertImageMapCmd.label "Multiklickbar bild">
+<!ENTITY insertHLineCmd.label "Vågrät linje">
+<!ENTITY inserthline.accesskey "r">
+<!ENTITY insertTableCmd.label "Tabell...">
+<!ENTITY inserttable.accesskey "T">
+<!ENTITY insertFormMenu.label "Formulär">
+<!ENTITY insertformmenu.accesskey "F">
+<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertCharsCmd.label "Tecken och symboler...">
+<!ENTITY insertchars.accesskey "c">
+<!ENTITY insertBreakCmd.label "Radbrytning">
+<!ENTITY insertbreak.accesskey "b">
+<!ENTITY insertBreakAllCmd.label "Bryt under bild(er)">
+<!ENTITY insertbreakall.accesskey "y">
+
+<!-- Insert form menu items -->
+<!ENTITY insertFormCmd.label "Definiera formulär...">
+<!ENTITY insertform.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Formulärfält...">
+<!ENTITY insertinputtag.accesskey "l">
+<!ENTITY insertInputImageCmd.label "Formulärbild...">
+<!ENTITY insertinputimage.accesskey "i">
+<!ENTITY insertTextAreaCmd.label "Textarea...">
+<!ENTITY inserttextarea.accesskey "T">
+<!ENTITY insertSelectCmd.label "Lista...">
+<!ENTITY insertselect.accesskey "s">
+<!ENTITY insertButtonCmd.label "Definiera knapp...">
+<!ENTITY insertbutton.accesskey "k">
+<!ENTITY insertLabelCmd.label "Definiera etiketter">
+<!ENTITY insertlabel.accesskey "e">
+<!ENTITY insertFieldSetCmd.label "Definiera fältmängd...">
+<!ENTITY insertfieldset.accesskey "f">
+<!ENTITY insertIsIndexCmd.label "Indexsökning">
+<!ENTITY insertisindex.accesskey "x">
+
+<!-- Used just in context popup. -->
+<!ENTITY spellCheckNoSuggestions.label "(Inga stavningsförslag)">
+<!ENTITY spellCheckIgnoreWord.label "Ignorera ordet">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Lägg till ordlistan">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY createLinkCmd.label "Skapa länk...">
+<!ENTITY createlink.accesskey "p">
+<!ENTITY editLinkCmd.label "Redigera länk i nytt Composer-fönster">
+<!ENTITY editlink.accesskey "ä">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
+<!ENTITY undoCmd.label "Ångra">
+<!ENTITY undo.accesskey "n">
+<!ENTITY redoCmd.label "Gör om">
+<!ENTITY redo.accesskey "r">
+<!ENTITY cutCmd.label "Klipp ut">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copyCmd.label "Kopiera">
+<!ENTITY copy.accesskey "K">
+<!ENTITY pasteCmd.label "Klistra in">
+<!ENTITY paste.accesskey "i">
+<!ENTITY deleteCmd.label "Ta bort">
+<!ENTITY delete.accesskey "b">
+<!ENTITY clearCmd.label "Rensa">
+<!ENTITY clear.accesskey "R">
+<!ENTITY selectAllCmd.label "Markera allt">
+<!ENTITY selectall.accesskey "a">
+
+<!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip "Välj teckensnitt">
+<!ENTITY fontfaceMenu.label "Teckensnitt">
+<!ENTITY formatfontmenu.accesskey "T">
+<!ENTITY fontVarWidth.label "Variabelt breddsteg">
+<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontFixedWidth.label "Fast breddsteg">
+<!ENTITY fontfixedwidth.accesskey "F">
+<!ENTITY formatfontfixed.keybinding "t">
+<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
+<!ENTITY fonthelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fonttimes.accesskey "t">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontcourier.accesskey "c">
+<!ENTITY localfontfaceMenu.label "Lokala teckensnitt">
+<!ENTITY localfontmenu.accesskey "o">
+
+<!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.tooltip "Välj teckenstorlek">
+<!ENTITY decreaseFontSize.label "Mindre">
+<!ENTITY decreasefontsize.accesskey "r">
+<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY increaseFontSize.label "Större">
+<!ENTITY increasefontsize.accesskey "t">
+<!ENTITY increaseFontSize.keybinding "+">
+<!ENTITY increaseFontSize.keybinding2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY fontsizeMenu.label "Storlek">
+<!ENTITY formatsizemenu.accesskey "o">
+<!ENTITY size-xx-smallCmd.label "extra extra liten">
+<!ENTITY size-xx-small.accesskey "i">
+<!ENTITY size-x-smallCmd.label "extra liten">
+<!ENTITY size-x-small.accesskey "e">
+<!ENTITY size-smallCmd.label "liten">
+<!ENTITY size-small.accesskey "l">
+<!ENTITY size-mediumCmd.label "medelstor">
+<!ENTITY size-medium.accesskey "m">
+<!ENTITY size-largeCmd.label "stor">
+<!ENTITY size-large.accesskey "s">
+<!ENTITY size-x-largeCmd.label "extra stor">
+<!ENTITY size-x-large.accesskey "x">
+<!ENTITY size-xx-largeCmd.label "extra extra stor">
+<!ENTITY size-xx-large.accesskey "o">
+
+<!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Textvariant">
+<!ENTITY formatstylemenu.accesskey "v">
+<!ENTITY styleBoldCmd.label "Halvfet">
+<!ENTITY stylebold.accesskey "H">
+<!ENTITY stylebold.keybinding "b">
+<!ENTITY styleItalicCmd.label "Kursiv">
+<!ENTITY styleitalic.accesskey "i">
+<!ENTITY styleitalic.keybinding "i">
+<!ENTITY styleUnderlineCmd.label "Understruken">
+<!ENTITY styleunderline.accesskey "U">
+<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleStrikeThruCmd.label "Genomstruken">
+<!ENTITY stylestrikethru.accesskey "G">
+<!ENTITY styleSuperscriptCmd.label "Upphöjd">
+<!ENTITY stylesuperscript.accesskey "p">
+<!ENTITY styleSubscriptCmd.label "Nedsänkt">
+<!ENTITY stylesubscript.accesskey "s">
+<!ENTITY styleNonbreakingCmd.label "Utan radbrytning">
+<!ENTITY stylenonbreaking.accesskey "d">
+<!ENTITY styleEm.label "Betoning">
+<!ENTITY styleEm.accesskey "e">
+<!ENTITY styleStrong.label "Starkare betoning">
+<!ENTITY styleStrong.accesskey "t">
+<!ENTITY styleCite.label "Citat">
+<!ENTITY styleCite.accesskey "c">
+<!ENTITY styleAbbr.label "Förkortning">
+<!ENTITY styleAbbr.accesskey "k">
+<!ENTITY styleAcronym.label "Akronym">
+<!ENTITY styleAcronym.accesskey "r">
+<!ENTITY styleCode.label "Kod">
+<!ENTITY styleCode.accesskey "o">
+<!ENTITY styleSamp.label "Sampel">
+<!ENTITY styleSamp.accesskey "m">
+<!ENTITY styleVar.label "Variabel">
+<!ENTITY styleVar.accesskey "v">
+
+<!ENTITY formatFontColor.label "Textfärg...">
+<!ENTITY formatfontcolor.accesskey "f">
+<!ENTITY tableOrCellColor.label "Bakgrundsfärg för tabell eller cell...">
+<!ENTITY tableOrCellColor.accesskey "u">
+
+<!ENTITY formatremovestyles.keybinding "y">
+<!ENTITY formatremovelinks.keybinding "k">
+<!ENTITY formatRemoveNamedAnchors.label "Ta bort namngivna ankare">
+<!ENTITY formatRemoveNamedAnchors.accesskey "a">
+<!ENTITY formatremovenamedanchors.keybinding "a">
+
+<!ENTITY formatindent.keybinding "Ä">
+<!ENTITY formatoutdent.keybinding "Ö">
+<!ENTITY paragraphMenu.label "Stycke">
+<!ENTITY formatparagraphmenu.accesskey "y">
+<!ENTITY paragraphParagraphCmd.label "Stycke">  
+<!ENTITY paragraphparagraph.accesskey "t">
+<!ENTITY heading1Cmd.label "Rubrik 1">
+<!ENTITY heading1.accesskey "1">
+<!ENTITY heading2Cmd.label "Rubrik 2">
+<!ENTITY heading2.accesskey "2">
+<!ENTITY heading3Cmd.label "Rubrik 3">
+<!ENTITY heading3.accesskey "3">
+<!ENTITY heading4Cmd.label "Rubrik 4">
+<!ENTITY heading4.accesskey "4">
+<!ENTITY heading5Cmd.label "Rubrik 5">
+<!ENTITY heading5.accesskey "5">
+<!ENTITY heading6Cmd.label "Rubrik 6">
+<!ENTITY heading6.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Adress">
+<!ENTITY paragraphaddress.accesskey "a">
+<!ENTITY paragraphPreformatCmd.label "Formaterat">
+<!ENTITY paragraphpreformat.accesskey "f">
+<!ENTITY paragraphBlockquoteCmd.label "Blockcitat">
+<!ENTITY paragraphblockquote.accesskey "B">
+
+<!-- List menu items -->
+<!ENTITY formatlistMenu.label "Lista">
+<!ENTITY formatlistmenu.accesskey "l">
+<!ENTITY noneCmd.label "Ingen">
+<!ENTITY none.accesskey "n">
+<!ENTITY listBulletCmd.label "Punktad">
+<!ENTITY listbullet.accesskey "P">
+<!ENTITY listNumberedCmd.label "Numrerad">
+<!ENTITY listnumbered.accesskey "m">
+<!ENTITY listTermCmd.label "Definierad term">
+<!ENTITY listterm.accesskey "t">
+<!ENTITY listDefinitionCmd.label "Definition">
+<!ENTITY listdefinition.accesskey "D">
+<!ENTITY listProps.label "Egenskaper för lista">
+<!ENTITY listprops.accesskey "l">
+
+<!ENTITY ParagraphSelect.tooltip "Välj ett styckeformat">
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Brödtext">
+<!ENTITY bodytext.accesskey "x">
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "Avancerade egenskaper">
+<!ENTITY advancedproperties.accesskey "v">
+
+<!ENTITY NormalAbbr.label "Text">
+<!ENTITY ParagraphAbbr.label "P">  
+<!ENTITY Heading1Abbr.label "H1">
+<!ENTITY Heading2Abbr.label "H2">
+<!ENTITY Heading3Abbr.label "H3">
+<!ENTITY Heading4Abbr.label "H4">
+<!ENTITY Heading5Abbr.label "H5">
+<!ENTITY Heading6Abbr.label "H6">
+<!ENTITY BlockquoteAbbr.label "BC">
+<!ENTITY AddressAbbr.label "Adr.">
+<!ENTITY PreformatAbbr.label "Form.">
+
+<!-- Style Sheet submenu NOT IMPLEMENTED -->
+<!ENTITY stylesheetMenu.label "Använd formatmall">
+<!ENTITY formatstylesheetmenu.accesskey "n">
+
+<!-- Align menu items -->
+<!ENTITY alignMenu.label "Kantställ">
+<!ENTITY formatalignmenu.accesskey "K">
+<!ENTITY alignLeft.label "Vänster">
+<!ENTITY alignleft.accesskey "V">
+<!ENTITY alignLeft.tooltip "Vänsterställd text">
+<!ENTITY alignCenter.label "Centrerad">
+<!ENTITY aligncenter.accesskey "C">
+<!ENTITY alignCenter.tooltip "Centrerad text">
+<!ENTITY alignRight.label "Höger">
+<!ENTITY alignright.accesskey "r">
+<!ENTITY alignRight.tooltip "Högerställd text">
+<!ENTITY alignJustify.label "Justerad">
+<!ENTITY alignjustify.accesskey "J">
+<!ENTITY alignJustify.tooltip "Utsluten sats">
+
+<!-- Layer toolbar items -->
+<!ENTITY layer.tooltip "Absolut positionering">
+<!ENTITY layerSendToBack.tooltip "Placera bakom">
+<!ENTITY layerBringToFront.tooltip "Placera framför">
+
+<!ENTITY increaseIndent.label "Öka indrag">
+<!ENTITY increaseindent.accesskey "i">
+<!ENTITY increaseindentkb "=">
+<!ENTITY decreaseIndent.label "Minska indrag">
+<!ENTITY decreaseindent.accesskey "d">
+<!ENTITY decreaseindentkb "-">
+
+<!ENTITY grid.label "Positioneringsnät">
+<!ENTITY grid.accesskey "P">
+
+<!ENTITY pageProperties.label "Titel och egenskaper för sida...">
+<!ENTITY pageproperties.accesskey "h">
+<!ENTITY colorsAndBackground.label "Färger och bakgrund för sida...">
+<!ENTITY colorsandbackground.accesskey "u">
+
+<!-- Table Menu -->
+<!ENTITY tableMenu.label "Tabell">
+<!ENTITY tablemenu.accesskey "b">
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Markera">
+<!ENTITY tableselectmenu.accesskey "M">
+
+<!ENTITY tableSelectMenu2.label "Markera tabell">
+<!ENTITY tableInsertMenu2.label "Infoga tabell">
+<!ENTITY tableDeleteMenu2.label "Ta bort tabell">
+
+<!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Infoga">
+<!ENTITY tableinsertmenu.accesskey "I">
+<!ENTITY tableTable.label "Tabell">
+<!ENTITY tabletable.accesskey "T">
+<!ENTITY tableRow.label "Rad">
+<!ENTITY tableRows.label "Rad(er)">
+<!ENTITY tablerow.accesskey "R">
+<!ENTITY tableRowAbove.label "Rad ovanför">
+<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowBelow.label "Rad nedanför">
+<!ENTITY tablerowbelow.accesskey "a">
+<!ENTITY tableColumn.label "Kolumn">
+<!ENTITY tableColumns.label "Kolumn(er)">
+<!ENTITY tablecolumn.accesskey "o">
+<!ENTITY tableColumnBefore.label "Kolumn före">
+<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnAfter.label "Kolumn efter">
+<!ENTITY tablecolumnafter.accesskey "e">
+<!ENTITY tableCell.label "Cell">
+<!ENTITY tableCells.label "Cell(er)">
+<!ENTITY tablecell.accesskey "c">
+<!ENTITY tableCellContents.label "Cellinnehåll">
+<!ENTITY tablecellcontents.accesskey "n">
+<!ENTITY tableAllCells.label "Alla celler">
+<!ENTITY tableCellBefore.label "Cell före">
+<!ENTITY tableallcells.accesskey "a">
+<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellAfter.label "Cell efter">
+<!ENTITY tablecellafter.accesskey "f">
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Ta bort">
+<!ENTITY tabledeletemenu.accesskey "T">
+
+<!ENTITY tableFix.label "Åtgärda tabellayout">
+<!ENTITY tablefix.accesskey "t">
+<!-- text for "Sammanfoga celler" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tablejoincells.accesskey "S">
+<!ENTITY tableSplitCell.label "Dela cell">
+<!ENTITY tablesplitcell.accesskey "D">
+<!ENTITY convertToTable.label "Skapa tabell av markering">
+<!ENTITY converttotable.accesskey "l">
+<!ENTITY tableProperties.label "Egenskaper för tabell...">
+<!ENTITY tableProperties.accesskey "E">
+
+<!-- Tools menu -->
+<!ENTITY toolsmenu.accesskey "l">
+<!ENTITY toolbrowser.accesskey "b">
+<!ENTITY toolplaineditor.accesskey "p">
+<!ENTITY toolsetfocus.accesskey "f">
+
+<!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "Menyrad">
+<!ENTITY compositionToolbar.tooltip "Filverktyg">
+<!ENTITY formatToolbar.tooltip "Formateringsverktyg">
+<!ENTITY newToolbarCmd.tooltip "Skapa en ny sida i Composer">
+<!ENTITY openToolbarCmd.label "Öppna">
+<!ENTITY openToolbarCmd.tooltip "Öppna en lokal fil">
+<!ENTITY saveToolbarCmd.tooltip "Spara filen lokalt">
+<!ENTITY publishToolbarCmd.tooltip "Publicera fil">
+<!ENTITY previewToolbarCmd.label "Surfa till">
+<!ENTITY previewToolbarCmd.tooltip "Surfa till den här sidan i webbläsaren">
+<!ENTITY printToolbarCmd.label "Skriv ut">
+<!ENTITY printToolbarCmd.tooltip "Skriv ut den här sidan">
+<!ENTITY findToolbarCmd.label "Sök">
+<!ENTITY findToolbarCmd.tooltip "Sök text på sidan">
+<!ENTITY spellToolbarCmd.label "Stavning">
+<!ENTITY spellToolbarCmd.tooltip "Kontrollera stavningen i markering eller på hela sidan">
+<!ENTITY imageToolbarCmd.label "Bild">
+<!ENTITY imageToolbarCmd.tooltip "Infoga ny bild eller ändra egenskaperna för markerad bild">
+<!ENTITY hruleToolbarCmd.label "V. linje">
+<!ENTITY hruleToolbarCmd.tooltip "Infoga vågrät linje eller ändra egenskaperna för markerad linje">
+<!ENTITY tableToolbarCmd.label "Tabell">
+<!ENTITY tableToolbarCmd.tooltip "Infoga tabell eller ändra egenskaperna för markerad tabell">
+<!ENTITY linkToolbarCmd.label "Länk">
+<!ENTITY linkToolbarCmd.tooltip "Infoga ny länk eller ändra egenskaperna för markerad länk">
+<!ENTITY anchorToolbarCmd.label "Ankare">
+<!ENTITY anchorToolbarCmd.tooltip "Infoga ett nytt namngivet ankare eller ändra egenskaperna för markerat ankare">
+<!ENTITY textColorCaption.label "Textfärg">
+<!ENTITY TextColorButton.tooltip "Välj färg för texten">
+<!ENTITY BackgroundColorButton.tooltip "Välj färg för bakgrunden">
+<!ENTITY throbber.tooltip "Gå till &vendorShortName;s webbplats">
+<!ENTITY HighlightColorButton.tooltip "Välj markeringsfärg för text">
+
+<!-- Editor toolbar -->
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mindre teckenstorlek">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Större teckenstorlek">
+<!ENTITY boldToolbarCmd.tooltip "Halvfet">
+<!ENTITY italicToolbarCmd.tooltip "Kursiv">
+<!ENTITY underlineToolbarCmd.tooltip "Understruken">
+<!ENTITY bulletListToolbarCmd.tooltip "Tillämpa eller ta bort lista med bomber">
+<!ENTITY numberListToolbarCmd.tooltip "Tillämpa eller ta bort numrerad lista">
+<!ENTITY outdentToolbarCmd.tooltip "Dra ut text (flytta åt vänster)">
+<!ENTITY indentToolbarCmd.tooltip "Dra in text (flytta åt höger)">
+<!ENTITY AlignPopupButton.tooltip "Välj kantställning">
+<!ENTITY InsertPopupButton.tooltip "Infoga länk, ankare, bild, vågrät linje eller tabell">
+<!ENTITY alignLeftButton.tooltip "Vänsterställ texten">
+<!ENTITY alignCenterButton.tooltip "Centrera texten">
+<!ENTITY alignRightButton.tooltip "Högerställ texten">
+<!ENTITY alignjustifyButton.tooltip "Justera (slå ut) texten">
+
+<!-- formatting toolbar not used, but may be in future -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+
+<!-- Used with color pickers in Format toolbar and Format Menu -->
+<!ENTITY colorPicker.default.label "Webbläsarens förvalda färg">
+<!ENTITY colorPicker.default.accesskey "r">
+<!ENTITY colorLabel.label "Färg:">
+<!ENTITY ok.label "OK">
+
+<!-- Display Mode Toolbar and View Menu items -->
+<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY NormalMode.label "Normalt redigeringsläge">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Visa tabellramar och namngivna ankare">
+<!ENTITY AllTagsMode.label "HTML-taggar">
+<!ENTITY AllTagsMode.accesskey "t">
+<!ENTITY AllTagsMode.tooltip "Visa ikoner för alla HTML-taggar">
+
+<!ENTITY HTMLSourceMode.label "HTML-kod">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
+<!ENTITY SourceMode.label "Källkod">
+<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.tooltip "Redigera HTML-koden">
+<!ENTITY PreviewMode.label "Förhandsgranska">
+<!ENTITY PreviewMode.accesskey "F">
+<!ENTITY PreviewMode.tooltip "Visa som WYSIWYG (som i webbläsaren)">
+
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
+<!ENTITY SourceTabDirection "ltr">
+
+<!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Markera">
+<!ENTITY structSelect.accesskey     "M">
+<!ENTITY structRemoveTag.label      "Ta bort tagg">
+<!ENTITY structRemoveTag.accesskey  "T">
+<!ENTITY structChangeTag.label      "Ändra tagg">
+<!ENTITY structChangeTag.accesskey  "n">
+
+<!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Infoga">
+<!ENTITY insertTOC.accesskey      "I">
+<!ENTITY updateTOC.label          "Uppdatera">
+<!ENTITY updateTOC.accesskey      "U">
+<!ENTITY removeTOC.label          "Ta bort">
+<!ENTITY removeTOC.accesskey      "T">
+<!ENTITY tocMenu.label            "Innehållsförteckning...">
+<!ENTITY tocMenu.accesskey        "n">

@@ -1,0 +1,21 @@
+<!ENTITY sanitizeDialog.title            "Rensa ut personliga uppgifter">
+<!ENTITY sanitizeItems.label             "Rensa ut följande poster nu:">
+
+<!ENTITY itemHistory.label               "Webbsurfandehistorik">
+<!ENTITY itemHistory.accesskey           "W">
+<!ENTITY itemDownloads.label             "Filhämtningshistorik">
+<!ENTITY itemDownloads.accesskey         "h">
+<!ENTITY itemFormSearchHistory.label     "Sparade formulärdata och sökhistorik">
+<!ENTITY itemFormSearchHistory.accesskey "S">
+<!ENTITY itemCache.label                 "Cache">
+<!ENTITY itemCache.accesskey             "C">
+<!ENTITY itemCookies.label               "Kakor">
+<!ENTITY itemCookies.accesskey           "K">
+<!ENTITY itemOfflineApps.label           "Webbplatsdata i nedkopplat läge">
+<!ENTITY itemOfflineApps.accesskey       "b">
+<!ENTITY itemPasswords.label             "Sparade lösenord">
+<!ENTITY itemPasswords.accesskey         "ö">
+<!ENTITY itemSessions.label              "Autentiserade sessioner">
+<!ENTITY itemSessions.accesskey          "A">
+
+<!ENTITY sanitizeButton.label            "Rensa ut personliga uppgifter nu">

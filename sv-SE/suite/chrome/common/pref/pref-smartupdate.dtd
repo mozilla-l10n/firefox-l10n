@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+<!ENTITY pref.smartUpdate.title               "Programinstallation">
+<!ENTITY smartTitle.label                     "Hantera programinstallationer och uppdateringar">
+<!ENTITY enableSU.label                       "Tillåt webbplatser att installera programtillägg och uppdateringar">
+<!ENTITY enableSU.accesskey                   "T">
+<!ENTITY allowedSites.label                   "Tillåtna platser">
+<!ENTITY allowedSites.accesskey               "p">
+
+<!ENTITY verifyUpdates.caption                "Uppdateringar">
+<!ENTITY autoUpdates.label                    "Kontrollera automatiskt om det finns uppdateringar till:">
+<!ENTITY appUpdates.label                     "&brandShortName;">
+<!ENTITY appUpdates.accesskey                 "S">
+<!ENTITY daily.label                          "dagligen">
+<!ENTITY appDaily.accesskey                   "d">
+<!ENTITY weekly.label                         "varje vecka">
+<!ENTITY appWeekly.accesskey                  "v">
+<!ENTITY extensionsUpdates.label              "Installerade tillägg">
+<!ENTITY extensionsUpdates.accesskey          "n">
+<!ENTITY extensionsDaily.accesskey            "i">
+<!ENTITY extensionsWeekly.accesskey           "k">
+<!ENTITY addonManagerButton.label             "Tilläggshanteraren">
+<!ENTITY addonManagerButton.accesskey         "ä">
