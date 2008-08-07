@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label "Cap propietat definida.">
+
+<!ENTITY caption.label "Propietats d'element">
+<!ENTITY image-sec.label "Propietats de la imatge">
+<!ENTITY image-url.label "Ubicació:">
+<!ENTITY image-type.label      "Tipus:">
+<!ENTITY image-desc.label "Descripció:">
+<!ENTITY image-alt.label "Text alternatiu:">
+<!ENTITY image-size.label      "Dimensions de la imatge:">
+<!ENTITY image-filesize.label "Mida del fitxer:">
+<!ENTITY insdel-sec.label "Insereix/suprimeix propietats">
+<!ENTITY insdel-cite.label "Informació:">
+<!ENTITY insdel-date.label "Data:">
+<!ENTITY link-sec.label "Propietats de l'enllaç">
+<!ENTITY link-url.label "Adreça:">
+<!ENTITY link-target.label "S'obrirà a:">
+<!ENTITY link-type.label "Tipus d'objectiu:">
+<!ENTITY link-lang.label "Llengua objectiu:">
+<!ENTITY link-rel.label "Relació:">
+<!ENTITY link-rev.label "Relació inversa:">
+<!ENTITY link-ping.label       "Es notificarà:">
+<!ENTITY misc-sec.label "Propietats misceŀlànies">
+<!ENTITY misc-lang.label "Llengua del text">
+<!ENTITY misc-title.label "Títol:">
+<!ENTITY misc-tblsummary.label "Resum de la taula:">
+<!ENTITY quote-sec.label "Propietats de citació">
+<!ENTITY quote-cite.label "Informació:">

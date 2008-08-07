@@ -1,0 +1,22 @@
+
+<!ENTITY findABookmark.label "Cerca una adreça d'interès">
+<!ENTITY findABookmark.accesskey "C">
+<!ENTITY newBookmark.label "Nova adreça d'interès..">
+<!ENTITY newBookmark.accesskey "n">
+<!ENTITY newFolder.label "Nova carpeta...">
+<!ENTITY newFolder.accesskey "e">
+<!ENTITY newSeparator.label "Nou separador">
+<!ENTITY newSeparator.accesskey "s">
+<!ENTITY setAsNewBookmarkFolder.label "Estableix com a carpeta nova d'adreces d'interès">
+<!ENTITY setAsNewBookmarkFolder.accesskey "b">
+<!ENTITY setAsNewSearchFolder.label "Estableix com a carpeta nova de resultats de cerca">
+<!ENTITY setAsNewSearchFolder.accesskey "r">
+<!ENTITY setAsNewToolbarFolder.label "Estableix  com a carpeta nova de la barra d'eines personal">
+<!ENTITY setAsNewToolbarFolder.accesskey "p">
+<!ENTITY exportBookmarks.label "Exporta...">
+<!ENTITY exportBookmarks.accesskey "x">
+<!ENTITY importBookmarks.label "Importa...">
+<!ENTITY importBookmarks.accesskey "i">
+
+
+

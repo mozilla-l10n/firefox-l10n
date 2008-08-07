@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "Paràmetres de configuració">
+<!ENTITY security.caption "Seguretat i autenticació">
+<!ENTITY serverName.label "Nom del servidor:">
+<!ENTITY serverName.accesskey "s">
+<!ENTITY serverDescription.label "Descripció:">
+<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverPort.label "Port:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Utilitza el nom i la contrasenya">
+<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY userName.label "Nom d'usuari:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY useSecAuth.label "Utilitza autenticació segura">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY isSecure.label "Utilitza una connexió segura:">
+<!ENTITY neverSecure.label "No">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, si és disponible">
+<!ENTITY sometimesSTARTTLS.accesskey "A">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SSL sobre SMTP">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "Servidor SMTP">
+<!ENTITY serverPortDefault.label "Per defecte:">

@@ -1,0 +1,13 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY window.title "Fora de línia i espai de disc">
+<!ENTITY boxHeader "Fora de línia i espai de disc">
+<!ENTITY rHeader "Fora de línia">
+<!--LOCALIZATION NOTE (textStart): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+-->
+<!ENTITY textStart "En iniciar el &brandShortName;:">
+<!ENTITY radioAskMode "Demana'm si vull el mode en línia o fora de línia">
+<!ENTITY radioUsePrev "Utilitza el meu estat anterior (en línia o fora de línia)">

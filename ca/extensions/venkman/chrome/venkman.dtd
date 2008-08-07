@@ -1,0 +1,114 @@
+<!--
+   -
+   - The contents of this file are subject to the Mozilla Public License
+   - Version 1.1 (the "License"); you may not use this file except in
+   - compliance with the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/ 
+   - 
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License. 
+   -
+   - The Original Code is The JavaScript Debugger
+   - 
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation
+   - Portions created by Netscape are
+   - Copyright (C) 1998 Netscape Communications Corporation.
+   - All Rights Reserved.
+   -
+   - Alternatively, the contents of this file may be used under the
+   - terms of the GNU Public License (the "GPL"), in which case the
+   - provisions of the GPL are applicable instead of those above.
+   - If you wish to allow use of your version of this file only
+   - under the terms of the GPL and not to allow others to use your
+   - version of this file under the MPL, indicate your decision by
+   - deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL.  If you do not delete
+   - the provisions above, a recipient may use your version of this
+   - file under either the MPL or the GPL.
+   -
+   - Contributor(s):
+   -  Robert Ginda, <rginda@netscape.com>, original author
+   -
+   -->
+
+<!ENTITY MainWindow.title "Depurador de JavaScript">
+
+<!-- floating views -->
+<!ENTITY ViewFloat.tooltip      "Cliqueu ací per a fer aquesta vista flotable/no flotable">
+<!ENTITY ViewGrippy.tooltip     "Arrossegueu la barra de títol per a moure aquesta vista">
+<!ENTITY ViewClose.tooltip      "Cliqueu ací per a tancar aquesta vista">
+
+<!-- help menu -->
+<!ENTITY Help.commands     "Referència de les ordres">
+<!ENTITY Help.about        "Quant al Venkman">
+
+<!-- toolips -->
+<!ENTITY DebugBar.tooltip "Barra d'eines de depuració">
+<!ENTITY MenuBar.tooltip  "Barra de menú">
+
+<!-- breakpoint view -->
+<!ENTITY Break.label        "Punts de ruptura">
+<!ENTITY BreakCol0.label    "Nom">
+<!ENTITY BreakCol1.label    "Línia/PC">
+
+<!-- locals view -->
+<!ENTITY Locals.label       "Variables locals">
+<!ENTITY LocalsCol0.header  "Nom">
+<!ENTITY LocalsCol1.header  "Tipus">
+<!ENTITY LocalsCol2.header  "Valors">
+<!ENTITY LocalsCol3.header  "Indicadors">
+
+<!-- session view -->
+<!ENTITY Session.label      "Sessió interactiva">
+
+<!-- script view -->
+<!ENTITY Scripts.label         "Scripts carregats">
+<!ENTITY ScriptsSearch.label   "Cerca">
+<!ENTITY ScriptsSearch.tooltip "Cliqueu ací per a buidar el camp de cerca">
+<!ENTITY ScriptsCol0.header    "Nom">
+<!ENTITY ScriptsCol1.header    "Línia">
+<!ENTITY ScriptsCol2.header    "Longitud">
+
+<!-- source view -->
+<!ENTITY Source.label       "Codi font">
+<!ENTITY SourceHeader.tip   "Barra d'eines del codi">
+<!ENTITY SourceCol0.display "Marge">
+<!ENTITY SourceCol1.display "Número de línia">
+
+<!-- stack view -->
+<!ENTITY Stack.label        "Pila de crides">
+<!ENTITY StackCol0.header   "Nom">
+<!ENTITY StackCol1.header   "Ubicació">
+
+<!-- watch view -->
+<!ENTITY Watch.label        "Punts de control">
+<!ENTITY WatchCol0.header   "Nom">
+<!ENTITY WatchCol1.header   "Tipus">
+<!ENTITY WatchCol2.header   "Valor">
+<!ENTITY WatchCol3.header   "Indicadors">
+
+<!-- window view -->
+<!ENTITY Windows.label      "Finestres obertes">
+<!ENTITY WindowsCol0.label  "Fitxer">
+
+<!-- breakpoint properties window -->
+<!ENTITY BPProps.URL.label          "URL">
+<!ENTITY BPProps.Line.label         "Línia">
+<!ENTITY BPProps.PC.label           "PC">
+<!ENTITY BPProps.FunctionName.label "Funció">
+<!ENTITY BPProps.TriggerCount.label "Compte d'activacions">
+<!ENTITY BPProps.OneTime.label      "Buida el punt de ruptura després de la primera activació">
+<!ENTITY BPProps.Then.label         "Després...">
+<!ENTITY BPProps.ConditionalCheck.label      "Quan s'activi, executa...">
+<!ENTITY BPProps.NeverStopRadio.label        "Continua independentment del resultat">
+<!ENTITY BPProps.AlwaysStopRadio.label       "Atura't independentment del resultat">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Atura't si el resultat és cert">
+<!ENTITY BPProps.EarlyReturnRadio.label  "Retorn avançat del cridador amb el resultat">
+<!ENTITY BPProps.PassExceptionsCheck.label   "Passa les excepcions al cridador">
+<!ENTITY BPProps.LogResultCheck.label        "Registra el resultat">
+<!ENTITY BPProps.Apply.label  "Sol·licita">
+<!ENTITY BPProps.Revert.label "Reverteix">
+<!ENTITY BPProps.Close.label  "Tanca">

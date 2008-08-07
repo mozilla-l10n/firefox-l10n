@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+]>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <rdf:Description about="urn:root">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="firefox-help" nc:name="Benvinguda a l'ajuda" nc:link="firefox_welcome.xhtml"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird" nc:name="Utilitzar el &brandFullName;" nc:link="using_firebird.xhtml"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-download-manager" nc:name="Utilitzar el gestor de baixades" nc:link="download_manager.xhtml"/></rdf:li>
+        <rdf:li><rdf:Description ID="customize-firebird" nc:name="Personalització del &brandFullName;" nc:link="customization.xhtml"/></rdf:li>
+        <rdf:li>
+          <rdf:Description ID="prefs-win" nc:name="Opcions" nc:link="prefs.xhtml" nc:platform="win os2">
+            <nc:subheadings rdf:resource="#prefs-tree"/>
+          </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+          <rdf:Description ID="prefs-unix" nc:name="Preferències" nc:link="prefs.xhtml" nc:platform="unix mac">
+            <nc:subheadings rdf:resource="#prefs-tree"/>
+          </rdf:Description>
+        </rdf:li>
+        <rdf:li><rdf:Description ID="popup-blocker" nc:name="Controlar les finestres emergents" nc:link="popup.xhtml"/></rdf:li>
+        <rdf:li><rdf:Description ID="cookies" nc:name="Gestió de les galetes" nc:link="cookies.xhtml"/></rdf:li>
+        <rdf:li><rdf:Description ID="tabbed-browsing" nc:name="Navegació per pestanyes" nc:link="tabbed_browsing.xhtml"/></rdf:li>
+        <rdf:li><rdf:Description ID="firebird-keyboard-shortcuts" nc:name="Dreceres del teclat" nc:link="shortcuts.xhtml"/></rdf:li>
+        <rdf:li><rdf:Description ID="firebird-mouse-shortcuts" nc:name="Dreceres del ratolí" nc:link="mouse_shortcuts.xhtml"/></rdf:li>
+        <rdf:li> <rdf:Description ID="a11y" nc:name="Característiques d'accessibilitat" nc:link="accessibility.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="menu" nc:name="Referència del menú" nc:link="menu_reference.xhtml"/></rdf:li>
+        <rdf:li><rdf:Description ID="ieusers" nc:name="Per als usuaris de l'Internet Explorer" nc:link="forieusers.xhtml"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-navigating-web-pages" nc:name="Navegar pel Web" nc:link="using_firebird.xhtml#navigating_web_pages"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-searching" nc:name="Cercar a Internet" nc:link="using_firebird.xhtml#searching"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-copying-saving-and-printing-pages" nc:name="Copiar, desar i imprimir pàgines" nc:link="using_firebird.xhtml#copying_saving_and_printng_pages"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-improving-speed-and-efficiency" nc:name="Millorar la velocitat i l'eficiència" nc:link="using_firebird.xhtml#improving_speed_and_efficiency"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-download-manager">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-download-manager-whatis" nc:name="Què és el gestor de baixades?" nc:link="download_manager.xhtml#what_is_download_manager"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-download-manager-can-i-do" nc:name="Què puc fer amb el gestor de baixades?" nc:link="download_manager.xhtml#do_with_download_manager"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-download-manager-prefs-win" nc:name="Opcions del gestor de baixades" nc:link="download_manager.xhtml#download_manager_options" nc:platform="win os2"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-download-manager-prefs-unix" nc:name="Preferències del gestor de baixades" nc:link="download_manager.xhtml#download_manager_options" nc:platform="unix mac"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-navigating-web-pages">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-viewing-your-home-page" nc:name="Visualitzar la vostra pàgina d'inici" nc:link="using_firebird.xhtml#viewing_your_home_page"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-moving-to-another-page" nc:name="Anar a una pàgina web" nc:link="using_firebird.xhtml#moving_to_another_page"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-clicking-a-link" nc:name="Fent clic en un enllaç" nc:link="using_firebird.xhtml#clicking_a_link"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-retracing-your-steps" nc:name="Desfer els vostres passos" nc:link="using_firebird.xhtml#retracing_your_steps"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-stopping-and-reloading" nc:name="Aturar i actualitzar una pàgina" nc:link="using_firebird.xhtml#stopping_and_reloading"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-tabbed-browsing" nc:name="La navegació per pestanyes" nc:link="using_firebird.xhtml#tabbed_browsing"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-sidebar" nc:name="Utilitzar la barra lateral" nc:link="using_firebird.xhtml#using_the_sidebar"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-searching">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="use-firebird-searching-the-web" nc:name="Cercar al Web" nc:link="using_firebird.xhtml#searching_the_web"/></rdf:li>
+        <rdf:li><rdf:Description ID="use-firebird-searching-on-selected-words-in-a-web-page" nc:name="Cercar les paraules seleccionades a una pàgina web" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></rdf:li>
+        <rdf:li><rdf:Description ID="use-firebird-searching-within-a-page" nc:name="Cercar a Internet un text que hàgiu seleccionat d'una pàgina" nc:link="using_firebird.xhtml#searching_within_a_page"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-copying-saving-and-printing-pages">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-copying-part-of-a-page" nc:name="Copiar el text d'una pàgina" nc:link="using_firebird.xhtml#copying_part_of_a_page"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-saving-all-or-part-of-a-page" nc:name="Desar una pàgina al disc" nc:link="using_firebird.xhtml#saving_all_or_part_of_a_page"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-printing-a-page" nc:name="Imprimir una pàgina" nc:link="using_firebird.xhtml#printing_a_page"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-using-print-preview" nc:name="Exemple d'impressió" nc:link="using_firebird.xhtml#using_print_preview" nc:platform="win unix os2"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-using-page-setup" nc:name="Configuració de la pàgina" nc:link="using_firebird.xhtml#using_page_setup"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-improving-speed-and-efficiency">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-managing-different-file-types" nc:name="Gestionar diferents tipus de fitxer" nc:link="using_firebird.xhtml#managing_different_file_types"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-making-firebird-default-browser" nc:name="Fer com a navegador per defecte" nc:link="using_firebird.xhtml#making_firebird_your_default_browser"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-cache-prefs-win" nc:name="Opcions de la memòria cau" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="win os2"/></rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-cache-prefs-unix" nc:name="Configuració de la memòria cau" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="mac unix"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#customize-firebird">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="customize-toolbars" nc:name="Barres d'eines" nc:link="customization.xhtml#toolbars"/> </rdf:li>
+	  <rdf:li> <rdf:Description ID="add-ons" nc:name="Complements (extensions i temes)" nc:link="customization.xhtml#add_ons"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+
+  </rdf:Description>
+
+  <rdf:Description about="#customize-toolbar">
+    <nc:subheadings>
+      <rdf:Seq>
+          <rdf:li> <rdf:Description ID="customize-toolbar-rearrange" nc:name="Reorganitzar els elements de les barres d'eines" nc:link="customization.xhtml#rearranging_toolbar_items"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="customize-toolbars-adding" nc:name="Amagar, afegir o suprimir les barres d'eines" nc:link="customization.xhtml#adding_removing_toolbars"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#add-ons">
+    <nc:subheadings>
+      <rdf:Seq>
+           <rdf:li> <rdf:Description ID="add-ons-installing" nc:name="Aconseguir i instaŀlar complements" nc:link="customization.xhtml#add_ons_installing"/> </rdf:li>
+           <rdf:li> <rdf:Description ID="add-ons-manager" nc:name="Utilitzar el gestor de complements" nc:link="customization.xhtml#add_ons_manager"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#popup-blocker">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="popup-blocker-what-are-popups" nc:name="Què són les finestres emergents?" nc:link="popup.xhtml#what_are_popups"/></rdf:li>
+        <rdf:li><rdf:Description ID="popup-blocker-prefs-win" nc:name="Opcions del blocatge de finestres emergents" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="win os2"/></rdf:li>
+        <rdf:li><rdf:Description ID="popup-blocker-prefs-unix" nc:name="Preferències del blocatge de finestres emergents" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="unix mac"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#cookies">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="cookies-what-is-a-cookie" nc:name="Què és una galeta?" nc:link="cookies.xhtml#what_is_a_cookie"/></rdf:li>
+        <rdf:li><rdf:Description ID="cookies-setting-up-cookie-rules" nc:name="Establir normes per a les galetes" nc:link="cookies.xhtml#setting_up_cookie_rules"/></rdf:li>
+        <rdf:li><rdf:Description ID="cookies-all-the-settings" nc:name="Paràmetres de les galetes" nc:link="cookies.xhtml#all_the_settings"/></rdf:li>
+        <rdf:li><rdf:Description ID="cookies-accepting-and-blocking-cookies" nc:name="Acceptar i blocar les galetes" nc:link="cookies.xhtml#accepting_and_blocking_cookies"/></rdf:li>
+        <rdf:li><rdf:Description ID="cookies-exceptions" nc:name="La finestra d'excepcions de les galetes" nc:link="cookies.xhtml#cookies_exceptions"/></rdf:li>
+        <rdf:li><rdf:Description ID="cookies-view" nc:name="La finestra de visualització de les galetes" nc:link="cookies.xhtml#view_cookies"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#tabbed-browsing">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="tabbed-browsing-creating-loading-tabs" nc:name="Crear i carregar pestanyes" nc:link="tabbed_browsing.xhtml#creating_loading_tabs"/></rdf:li>
+        <rdf:li><rdf:Description ID="tabbed-browsing-moving-tabs" nc:name="Moure les pestanyes per la finestra" nc:link="tabbed_browsing.xhtml#moving_tabs"/></rdf:li>
+        <rdf:li><rdf:Description ID="tabbed-browsing-closing-tabs" nc:name="Tancar i restaurar pestanyes" nc:link="tabbed_browsing.xhtml#closing_tabs"/></rdf:li>
+        <rdf:li><rdf:Description ID="tabbed-browsing-customizing" nc:name="Personalitzar la navegació per pestanyes" nc:link="tabbed_browsing.xhtml#customizing"/></rdf:li>
+        <rdf:li><rdf:Description ID="tabbed-browsing-tips-tricks" nc:name="Consells útils" nc:link="tabbed_browsing.xhtml#tips_tricks"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-keyboard-navigation" nc:name="Utilització del teclat" nc:link="accessibility.xhtml#using_a_keyboard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-mouse-navigation" nc:name="Utilització del ratolí" nc:link="accessibility.xhtml#using_a_mouse"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-fonts-and-colors" nc:name="Tipus de lletra i colors" nc:link="accessibility.xhtml#fonts_and_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-web-content" nc:name="Control del contingut de la web" nc:link="accessibility.xhtml#controlling_web_content"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-compatibility" nc:name="Compatibilitat amb tecnologies assistives" nc:link="accessibility.xhtml#compatibility_with_assistive_technologies"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-online" nc:name="Ajuda en línia" nc:link="accessibility.xhtml#finding_help_online"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-keyboard-navigation">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-keyboard-shortcuts" nc:name="Dreceres del teclat" nc:link="accessibility.xhtml#keyboard_shortcuts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-caret-browsing" nc:name="Utilitzar sempre les tecles del cursor per a navegar en les pàgines" nc:link="accessibility.xhtml#always_use_cursor_keys"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-typeahead-find" nc:name="Cerca d'un text quan es comença a teclejar" nc:link="accessibility.xhtml#find_as_you_type"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-mouse-navigation">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-mouse-shortcuts" nc:name="Dreceres més comunes del ratolí" nc:link="accessibility.xhtml#common_mouse_shortcuts"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-fonts-and-colors">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-override-fonts" nc:name="Substitució dels tipus de lletra de la pàgina" nc:link="accessibility.xhtml#overriding_page_fonts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-minimum-font-size" nc:name="Establiment d'una mida de text mínima" nc:link="accessibility.xhtml#setting_a_minimum_font_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-text-zoom" nc:name="Canvi de la mida del text de la pàgina" nc:link="accessibility.xhtml#resizing_page_text"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-override-colors" nc:name="Substitució dels colors de la pàgina" nc:link="accessibility.xhtml#overriding_page_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-high-contrast" nc:name="Utilització d'un tema d'alt contrast" nc:link="accessibility.xhtml#using_a_high_contrast_theme" nc:platform="win unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-web-content">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-popup-windows" nc:name="Blocatge de les finestres emergents" nc:link="accessibility.xhtml#blocking_popup_windows"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-java" nc:name="Desactivació de les miniaplicacions de Java" nc:link="accessibility.xhtml#turning_off_java_applets"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-javascript" nc:name="Restricció del comportament de JavaScript" nc:link="accessibility.xhtml#restricting_javascript_behavior"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-firefox" nc:name="&brandShortName;" nc:link="menu_reference.xhtml#firefox" nc:platform="mac"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file" nc:name="Fitxer" nc:link="menu_reference.xhtml#file"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-edit" nc:name="Edita" nc:link="menu_reference.xhtml#edit"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view" nc:name="Visualitza" nc:link="menu_reference.xhtml#view"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-go" nc:name="Historial" nc:link="menu_reference.xhtml#go"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-bookmarks" nc:name="Adreces d'interès" nc:link="menu_reference.xhtml#bookmarks"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-tools" nc:name="Eines" nc:link="menu_reference.xhtml#tools"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-window" nc:name="Finestra" nc:link="menu_reference.xhtml#window" nc:platform="mac"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-help" nc:name="Ajuda" nc:link="menu_reference.xhtml#help"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-firefox">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-firefox-about" nc:name="Quant al &brandFullName;" nc:link="menu_reference.xhtml#about_mac"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-firefox-preferences" nc:name="Preferències…" nc:link="menu_reference.xhtml#prefs_mac"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-firefox-quit" nc:name="Surt del &brandShortName;" nc:link="menu_reference.xhtml#quit_mac"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-file">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-file-new-window" nc:name="Nova finestra" nc:link="menu_reference.xhtml#new_window"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-new-tab" nc:name="Nova pestanya" nc:link="menu_reference.xhtml#new_tab"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-open-location" nc:name="Obre una ubicació…" nc:link="menu_reference.xhtml#open_location"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-open-file" nc:name="Obre un fitxer…" nc:link="menu_reference.xhtml#open_file"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-close" nc:name="Tanca la finestra" nc:link="menu_reference.xhtml#close"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-close-tab" nc:name="Tanca la pestanya" nc:link="menu_reference.xhtml#close_tab"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-save-page-as" nc:name="Anomena i desa la pàgina…" nc:link="menu_reference.xhtml#save_page_as"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-send-page" nc:name="Envia la pàgina…" nc:link="menu_reference.xhtml#send_page"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-page-setup" nc:name="Configuració de la pàgina…" nc:link="menu_reference.xhtml#page_setup"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-print-preview" nc:name="Exemple d'impressió" nc:link="menu_reference.xhtml#print_preview" nc:platform="win unix os2"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-print" nc:name="Imprimeix…" nc:link="menu_reference.xhtml#print"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-import" nc:name="Importa…" nc:link="menu_reference.xhtml#import"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-work-offline" nc:name="Treballa fora de línia" nc:link="menu_reference.xhtml#work_offline"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-exit-win" nc:name="Surt" nc:link="menu_reference.xhtml#exit" nc:platform="win os2"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-file-exit-unix" nc:name="Surt" nc:link="menu_reference.xhtml#exit" nc:platform="unix"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-edit">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-view-undo" nc:name="Desfés" nc:link="menu_reference.xhtml#undo"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-redo" nc:name="Refés" nc:link="menu_reference.xhtml#redo"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-cut" nc:name="Retalla" nc:link="menu_reference.xhtml#cut"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-copy" nc:name="Copia" nc:link="menu_reference.xhtml#copy"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-paste" nc:name="Enganxa" nc:link="menu_reference.xhtml#paste"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-delete" nc:name="Suprimeix" nc:link="menu_reference.xhtml#delete"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-select-all" nc:name="Selecciona-ho tot" nc:link="menu_reference.xhtml#select_all"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-find-in-this-page" nc:name="Cerca en aquesta pàgina…" nc:link="menu_reference.xhtml#find_in_this_page"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-find-again" nc:name="Torna a cercar" nc:link="menu_reference.xhtml#find_again"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-preferences" nc:name="Preferències" nc:link="menu_reference.xhtml#prefs" nc:platform="unix"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-view-toolbars" nc:name="Barres d'eines" nc:link="menu_reference.xhtml#toolbars"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-status-bar" nc:name="Barra d'estat" nc:link="menu_reference.xhtml#status_bar"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-sidebar" nc:name="Barra lateral" nc:link="menu_reference.xhtml#sidebar"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-stop" nc:name="Atura" nc:link="menu_reference.xhtml#stop"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-reload" nc:name="Actualitza" nc:link="menu_reference.xhtml#reload"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-text-size" nc:name="Mida del text" nc:link="menu_reference.xhtml#text_size"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-page-style" nc:name="Estil de la pàgina" nc:link="menu_reference.xhtml#page_style"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-character-encoding" nc:name="Codificació de caràcters" nc:link="menu_reference.xhtml#character_encoding"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-page-source" nc:name="Font de la pàgina" nc:link="menu_reference.xhtml#page_source"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-full-screen" nc:name="Pantalla completa" nc:link="menu_reference.xhtml#full_screen" nc:platform="win unix os2" /></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-toolbars">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-view-toolbars-navigation" nc:name="Barra de navegació" nc:link="menu_reference.xhtml#navigation_toolbar"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-toolbars-bookmarks" nc:name="Barra de les adreces d'interès" nc:link="menu_reference.xhtml#bookmarks_toolbar"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-toolbars-customize" nc:name="Personalitza" nc:link="menu_reference.xhtml#customize"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-sidebar">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-view-sidebar-bookmarks" nc:name="Adreces d'interès" nc:link="menu_reference.xhtml#view_sidebar_bookmarks"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-sidebar-history" nc:name="Historial" nc:link="menu_reference.xhtml#view_sidebar_history"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-text-size">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-view-text-size-increase" nc:name="Augmenta" nc:link="menu_reference.xhtml#increase_text_size"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-text-size-decrease" nc:name="Redueix" nc:link="menu_reference.xhtml#decrease_text_size"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-text-size-reset" nc:name="Restableix" nc:link="menu_reference.xhtml#reset_text_size"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-page-style">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-view-page-style-no-style" nc:name="Sense estil" nc:link="menu_reference.xhtml#no_style"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-view-page-style-basic-page-style" nc:name="Estil de pàgina bàsic" nc:link="menu_reference.xhtml#basic_page_style"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-go">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-go-back" nc:name="Enrere" nc:link="menu_reference.xhtml#back"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-go-forward" nc:name="Endavant" nc:link="menu_reference.xhtml#forward"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-go-home" nc:name="Pàgina d'inici" nc:link="menu_reference.xhtml#home"/></rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-closed-tabs" nc:name="Pestanyes tancades recentment" nc:link="menu_reference.xhtml#closed_tabs"/> </rdf:li>
+        <rdf:li><rdf:Description ID="menu-go-history" nc:name="Mostra en la barra lateral" nc:link="menu_reference.xhtml#go_history"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-bookmarks">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-bookmarks-add-to-bookmarks" nc:name="Afegeix a les adreces d'interès" nc:link="menu_reference.xhtml#add_to_bookmarks"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-bookmarks-bookmark-all-tabs" nc:name="Afegeix totes les pestanyes com a adreces d'interès…" nc:link="menu_reference.xhtml#bookmark_all_tabs"/></rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-subscribe" nc:name="Subscriu a aquesta pàgina…" nc:link="menu_reference.xhtml#subscribe"/> </rdf:li>
+        <rdf:li><rdf:Description ID="menu-bookmarks-organize-bookmarks" nc:name="Organitza les adreces d'interès…" nc:link="menu_reference.xhtml#organize_bookmarks"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-tools">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-tools-web-search" nc:name="Cerca al Web" nc:link="menu_reference.xhtml#web_search"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-tools-downloads" nc:name="Baixades" nc:link="menu_reference.xhtml#downloads"/></rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-add-ons" nc:name="Complements" nc:link="menu_reference.xhtml#add_ons"/> </rdf:li>
+	<rdf:li><rdf:Description ID="menu-tools-javascript-console" nc:name="Consola de JavaScript" nc:link="menu_reference.xhtml#javascript_console"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-tools-page-info" nc:name="Informació de la pàgina" nc:link="menu_reference.xhtml#page_info"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-tools-clear-private-data" nc:name="Neteja les dades personals" nc:link="menu_reference.xhtml#clear_private_data"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-tools-options" nc:name="Opcions" nc:link="menu_reference.xhtml#options" nc:platform="win os2"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-window">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-window-minimize" nc:name="Minimitza" nc:link="menu_reference.xhtml#minimize"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-window-zoom" nc:name="Zoom" nc:link="menu_reference.xhtml#zoom"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-window-open-windows" nc:name="(Obre les finestres)" nc:link="menu_reference.xhtml#open-windows"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-help">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="menu-help-help-contents" nc:name="Continguts de l'ajuda" nc:link="menu_reference.xhtml#help_contents"/></rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-help-contents-mac" nc:name="Ajuda del &brandShortName;" nc:link="menu_reference.xhtml#help_contents" nc:platform="mac"/> </rdf:li>
+        <rdf:li><rdf:Description ID="menu-help-for-ie-users" nc:name="Per als usuaris de l'Internet Explorer" nc:link="menu_reference.xhtml#for_ie_users" nc:platform="win"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-help-relnotes" nc:name="Notes de la versió" nc:link="menu_reference.xhtml#relnotes"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-help-report-broken-web-site" nc:name="Informa d'un lloc web no funcional…" nc:link="menu_reference.xhtml#reporter"/></rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-report-web-forgery" nc:name="Informa d'un lloc web fraudulent…" nc:link="menu_reference.xhtml#web_forgery"/> </rdf:li>
+        <rdf:li><rdf:Description ID="menu-help-check-for-updates" nc:name="Comprova si hi ha actualitzacions…" nc:link="menu_reference.xhtml#check_for_updates"/></rdf:li>
+        <rdf:li><rdf:Description ID="menu-help-about-mozilla-firebird" nc:name="Quant al &brandFullName;" nc:link="menu_reference.xhtml#about_mozilla_firebird" nc:platform="win unix os2"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#ieusers">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="ieusers-firebird-ie-terminology-differences" nc:name="Diferències de terminologia" nc:link="forieusers.xhtml#firebird_and_internet_explorer_terminology_differences"/></rdf:li>
+        <rdf:li><rdf:Description ID="ieusers-about-your-ie-settings" nc:name="Importació de la vostra configuració i preferits" nc:link="forieusers.xhtml#about_your_ie_settings"/></rdf:li>
+        <rdf:li><rdf:Description ID="ieusers-firebirds-features" nc:name="Característiques del &brandFullName;" nc:link="forieusers.xhtml#firebirds_features"/></rdf:li>
+        <rdf:li><rdf:Description ID="ieusers-keyboard-shortcuts" nc:name="Dreceres del teclat" nc:link="forieusers.xhtml#keyboard_shortcuts"/></rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <!-- The following nodes are intentionally linkable but not displayable -->
+  <rdf:Description ID="prefs-languages" nc:name="Llengües" nc:link="prefs.xhtml#languages"/>
+  <Description rdf:ID="prefs-fonts-and-colors" nc:name="Tipus de lletra i colors" nc:link="prefs.xhtml#fonts_and_colors"/>
+  <Description rdf:ID="prefs-connection-settings" nc:name="Paràmetres de connexió" nc:link="prefs.xhtml#connection_settings"/>
+
+  <!-- The following nodes are trees used multiple times in the hierarchy
+       (for platform-specific reasons).  To display one of these trees,
+       include an nc:subheadings element with an rdf:ID attribute set to
+       "#" plus the value of the rdf:ID for the appropriate tree within
+       the appropriate rdf:Description element. -->
+
+  <Seq rdf:ID="prefs-tree">
+    <li><Description ID="prefs-main" nc:name="Principal" nc:link="prefs.xhtml#main_options"/></li>
+    <li><Description ID="prefs-tabs" nc:name="Pestanyes" nc:link="prefs.xhtml#tabs_options"/></li>
+    <li><Description ID="prefs-content" nc:name="Contingut" nc:link="prefs.xhtml#content_options"/></li>
+    <li><Description ID="prefs-feeds" nc:name="Canals" nc:link="prefs.xhtml#feeds_options"/></li>
+    <li><Description ID="prefs-privacy" nc:name="Privadesa" nc:link="prefs.xhtml#privacy_options"/></li>
+    <li><Description ID="prefs-security" nc:name="Seguretat" nc:link="prefs.xhtml#security_options"/></li>
+    <li><Description ID="prefs-advanced" nc:name="Avançat" nc:link="prefs.xhtml#advanced_options"/></li>
+  </Seq>
+
+  <!-- The following are subnodes of trees used multiple times in the hierarchy. -->
+
+  <Description rdf:about="#prefs-main">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-startup" nc:name="Inici" nc:link="prefs.xhtml#startup"/></li>
+        <li><Description rdf:ID="prefs-downloads" nc:name="Baixades" nc:link="prefs.xhtml#downloads"/></li>
+        <li><Description rdf:ID="prefs-system-defaults" nc:name="Paràmetres predeterminats del sistema" nc:link="prefs.xhtml#system_defaults"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-content">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-advanced-javascript" nc:name="Paràmetres avançats de JavaScript" nc:link="prefs.xhtml#advanced_javascript"/></li>
+        <li><Description rdf:ID="prefs-fonts-and-colors" nc:name="Tipus de lletra i colors" nc:link="prefs.xhtml#fonts_and_colors"/></li>
+        <li><Description rdf:ID="prefs-file-types" nc:name="Tipus de fitxer" nc:link="prefs.xhtml#file_types"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-privacy">
+    <nc:subheadings>
+      <rdf:Seq>
+        <li><Description rdf:ID="prefs-privacy-history" nc:name="Historial" nc:link="prefs.xhtml#privacy_history"/></li>
+        <li><Description rdf:ID="prefs-privacy-cookies" nc:name="Galetes" nc:link="prefs.xhtml#privacy_cookies"/></li>
+        <li><Description rdf:ID="prefs-clear-private-data" nc:name="Dades privades" nc:link="prefs.xhtml#private_data"/></li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-security">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-passwords" nc:name="Contrasenyes" nc:link="prefs.xhtml#security_passwords"/></li>
+        <li><Description rdf:ID="prefs-warning-messages" nc:name="Missatges d'avís" nc:link="prefs.xhtml#warning_messages"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-advanced">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-advanced-general" nc:name="General" nc:link="prefs.xhtml#advanced_general"/></li>
+        <li><Description rdf:ID="prefs-advanced-network" nc:name="Xarxa" nc:link="prefs.xhtml#advanced_network"/></li>
+        <li><Description rdf:ID="prefs-advanced-update" nc:name="Actualització" nc:link="prefs.xhtml#advanced_update"/></li>
+        <li><Description rdf:ID="prefs-advanced-encryption" nc:name="Xifratge" nc:link="prefs.xhtml#advanced_encryption"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+
+</rdf:RDF>

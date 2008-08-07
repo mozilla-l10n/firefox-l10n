@@ -1,0 +1,30 @@
+<!-- LOCALIZATION NOTE : FILE "Windows integration" preferences -->
+
+<!ENTITY pref.winHooks.title  "Sistema">
+
+<!-- These entities are used on the "File Types" section of the dialog. -->
+<!ENTITY files.label "El Windows ha d'utilitzar el &brandShortName; per a obrir aquests fitxers:">
+<!ENTITY html.label "Documents HTML">
+<!ENTITY jpeg.label "Imatges JPEG">
+<!ENTITY gif.label "Imatges GIF">
+<!ENTITY png.label "Imatges PNG">
+<!ENTITY xbm.label "Imatges XBM">
+<!ENTITY bmp.label "Imatges BMP">
+<!ENTITY ico.label "Imatges ICO">
+<!ENTITY xml.label "Documents XML">
+<!ENTITY xhtml.label "Documents XHTML">
+<!ENTITY xul.label "Documents XUL">
+
+<!-- These entities are used on the "Internet Shortcuts" section of the dialog. -->
+<!ENTITY protocols.label "El Windows ha d'utilitzar el &brandShortName; per a gestionar aquests protocols:">
+<!ENTITY http.label "http: (Protocol de transferència d'Hypertext)">
+<!ENTITY https.label "https: (HTTP segur)">
+<!ENTITY ftp.label "ftp: (Protocol de transferència de fitxers)">
+<!--LOCALIZATION NOTE (chrome.label): Don't translate 'chrome' -->
+<!ENTITY chrome.label "chrome: (Chrome Protocol)">
+<!ENTITY gopher.label "gopher: (Protocol del Gopher)">
+
+<!-- This entity is for the "show this dialog" checkbox. -->
+<!ENTITY showDialog.label "Avisa'm si altres aplicacions canvien aquests paràmetres">
+<!ENTITY showDialog.accesskey "A">
+

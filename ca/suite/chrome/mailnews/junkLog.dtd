@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Registre de correu brossa">
+<!ENTITY junkLogInfo.label "Registre de l'activitat de control del correu brossa.">
+<!ENTITY clearLog.label "Buida el registre">
+<!ENTITY clearLog.accesskey "B">
+<!ENTITY closeLog.label "Tanca">
+<!ENTITY closeLog.accesskey "c">

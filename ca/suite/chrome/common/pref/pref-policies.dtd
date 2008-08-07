@@ -1,0 +1,19 @@
+
+<!ENTITY  pref.policies.title "Polítiques de seguretat">
+
+<!ENTITY zoneIntro.label "El &brandShortName; us permet crear normes que controlen l'accés que tenen determinats llocs web a diversos aspectes del seu funcionament, incloent seqüenciació i Java. ">
+
+<!ENTITY policies.label "Normes:">
+<!ENTITY default.label "Normes predeterminades">
+<!ENTITY allWebsites.label "Tots els llocs web">
+<!ENTITY trusted.label "Llocs fiables">
+<!ENTITY annoyances.label "Molèsties comunes">
+<!ENTITY restricted.label "Llocs restringits">
+
+<!ENTITY addSite.label "Afegeix un lloc...">
+<!ENTITY addSite.accesskey "a">
+<!ENTITY settings.label "Paràmetres per a ">
+<!ENTITY settings.accesskey "s">
+
+<!ENTITY description.label "Descripció de les normes:">
+ 

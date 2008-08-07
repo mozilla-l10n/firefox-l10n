@@ -1,0 +1,21 @@
+<!-- extracted from content/pref-debug.xul -->
+
+<!--LOCALIZATION NOTE : FILE DONT_TRANSLATE This file should not be translated -->
+
+<!ENTITY lHeader "Depura els esdeveniments">
+<!ENTITY rHeader "Preferències de depuració d'esdeveniments">
+
+<!-- Event Debugging -->
+<!ENTITY debugEventDebugging.label "Depuració d'esdeveniments">
+<!ENTITY debugPaintFlashing.label "Paint Flashing (Bloc Maj activa/desactiva)">
+<!ENTITY debugPaintDumping.label "Paint Dumping">
+<!ENTITY debugInvalidateDumping.label "Invalida l'abocament">
+<!ENTITY debugEventDumping.label "Abocament d'esdeveniments">
+<!ENTITY debugMotionEventDumping.label "Abocament d'esdeveniments de moviment">
+<!ENTITY debugCrossingEventDumping.label "Abocament d'esdeveniments d'encreuament">
+
+<!-- Reflow events -->
+<!ENTITY debugReflowEvents.label "Depuració de reflux">
+<!ENTITY debugReflowShowFrameCounts.label "Mostra el recompte de marcs">
+<!ENTITY debugReflowDumpFrameCounts.label "Aboca el recompte de marcs">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Aboca els recomptes de marc a marc">

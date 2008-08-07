@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Gestió de les galetes</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Gestió de les galetes</h1>
+
+<p>Aquest document explica què són les galetes, per a què s'utilitzen,
+  i com podeu controlar les galetes que teniu emmagatzemades al vostre disc dur amb el
+  Gestor de galetes del &brandFullName;.</p>
+
+<div class="contentsBox">En aquesta secció:
+  <ul>
+    <li><a href="#what_is_a_cookie">Què és una galeta?</a></li>
+    <li><a href="#setting_up_cookie_rules">Establir normes per a les galetes</a></li>
+    <li><a href="#accepting_and_blocking_cookies">Acceptar i blocar les galetes</a></li>
+    <li><a href="#cookies_exceptions">La finestra d'excepcions de les galetes</a></li>
+    <li><a href="#view_cookies">La finestra de visualització de les galetes</a></li>
+  </ul>
+</div>
+
+<h2 id="what_is_a_cookie">Què és una galeta?</h2>
+
+<p>Una galeta és un fitxer creat per un lloc web que s'emmagatzema al vostre ordinador i que
+  conté certa informació, com ara les vostres preferències sobre aquella web. Quan
+  visiteu un lloc que fa servir galetes, el lloc demana permís al &brandShortName; per
+  desar una o diverses galetes al vostre disc dur.</p>
+
+<p>Després, quan torneu a aquest mateix lloc, el &brandShortName; torna les galetes que
+  anteriorment havia desat. Això permet veure pàgines personalitzades, adequades a les
+  vostres preferències.</p>
+
+<p>Les galetes també poden contenir informació que permeti identificar-vos, tal com
+  el vostre nom, adreça electrònica, adreça postal, o número de telèfon. No obstant,
+  heu de tenir en compte que qualsevol lloc web només té les dades que vosaltres
+  mateixos li doneu. Per exemple, un lloc web no pot obtenir la vostre adreça
+  electrònica si no és que vosaltres mateixos la faciliteu (e.g. l'escriviu en un
+  formulari). Els llocs web tampoc tenen accés a cap altra informació desada al vostre
+  ordinador.</p>
+
+<p>En la configuració per defecte, tot aquest mecanisme és invisible de cara a
+  l'usuari, i no sabreu si un lloc web crea una galeta o si el &brandShortName; torna
+  una galeta al lloc web al qual pertany. No obstant, podeu configurar el &brandShortName;
+  per a que us demani si accepteu cada una de les galetes.</p>
+
+<h2 id="setting_up_cookie_rules">Establir normes per a les galetes</h2>
+
+<p>Per defecte el &brandShortName; accepta totes les galetes. Si voleu tenir més control
+  sobre les galetes que es desen al vostre ordinador, seguiu les següents instruccions:</p>
+
+<ol>
+  <li>Seleccioneu &pref.menuPath; i obriu el quadre de <em>Privadesa</em>.</li>
+  <li>Seleccioneu <em>que tanqui el &brandShortName;</em> des del menú
+    <span class="menuPath">Conserva-les fins</span>.</li>
+</ol>
+
+<p>Si voleu atorgar als llocs en què confieu la capacitat de poder emmagatzemar
+  galetes de forma permanent (ex., permetre que entreu automàticament a un
+  lloc), feu clic a <a href="#cookies_exceptions"><em>Excepcions…</em></a>,
+  introduïu l'adreça del lloc, i feu clic a <em>Permetre</em>.</p>
+
+<h2 id="all_the_settings">Paràmetres de les galetes</h2>
+
+<p>També hi ha altres &pref.plural; que afecten la gestió de les galetes del
+  &brandShortName;.</p>
+
+<dl>
+  <dt>Accepta galetes dels llocs web</dt>
+  <dd><p>Si no voleu que cap lloc emmagatzemi
+    galetes al vostre ordinador, desmarqueu aquesta &pref.singular;. Tingueu en
+    compte que algunes webs pot ser que no funcionin bé si teniu les galetes
+    inhabilitades. Si voleu atorgar a alguns llocs la capacitat d'emmagatzemar
+    galetes, obriu la <a href='#cookies_exceptions'>finestra d'excepcions de les
+    galetes</a> fent clic a <em>Excepcions…</em>, introduïu l'adreça del lloc i
+    feu clic a <em>Permet</em> o <em>Permet per a aquesta sessió</em>.</p></dd>
+  <dt>Conserva-les fins:</dt>
+  <dd>
+  <ul>
+    <li><em>que vencin</em><br />
+      Si se selecciona aquesta &pref.singular;,
+      se suprimirà la informació de la galeta quan aquesta arribi a la seua data de 
+      venciment.</li>
+    <li><em>que tanqui el &brandShortName;</em><br /> 
+      Si se selecciona aquesta &pref.singular;, 
+      la informació de la galeta se suprimirà quan reinicieu el
+      &brandShortName;. Els llocs web que necessiten l'ús de galetes continuaran
+      funcionant, però si reinicieu el &brandShortName;, el lloc web creurà que hi entreu 
+      un altre cop per primera vegada.</li>
+    <li><em>demana-m'ho cada vegada</em><br /> 
+      Mostra una avís cada vegada que
+      que un lloc prova d'emmagatzemar una galeta, per a demanar-vos si la voleu emmagatzemar.</li>
+  </ul>
+  </dd>
+</dl>
+
+<h2 id="accepting_and_blocking_cookies">Acceptar i blocar les galetes</h2>
+
+<p>Si heu triat <em>demana-m'ho cada vegada</em> del menú <em>Conserva-les
+  fins</em>, veureu un diàleg amb les següents opcions sempre que un lloc
+  provi d'emmagatzemar una galeta al vostre ordinador:</p>
+
+<dl>
+  <dt>Permet</dt>
+  <dd>Per a admetre aquesta galeta en particular, només cal que feu un clic a
+    <em>Permet</em>. Utilitzeu aquesta opció si confieu en el lloc.</dd>
+  <dt>Permet per a aquesta sessió</dt>
+  <dd>Si voleu permetre la galeta per a la sessió actual, però que es
+    suprimeixi quan sortiu del &brandShortName;, cliqueu <em>Permet per
+    aquesta sessió</em>. Utilitzeu-ho si el lloc web no funciona sense les
+    galetes però no voleu que les seues galetes s'emmagatzemin permanentment.</dd>
+  <dt>Denega</dt>
+  <dd>Si no voleu emmagatzemar la galeta, feu un clic a <em>Denega</em>.
+    Utilitzeu-ho si no confieu en el lloc o sospiteu que pot comprometre
+    la vostra privadesa.</dd>
+  <dt>Utilitza la meua elecció per a totes les galetes d'aquest lloc</dt>
+  <dd>Seleccioneu aquest quadre de verificació abans de clicar qualsevol dels
+    botons si voleu que el &brandShortName; recordi la vostra decisió i no ho
+    torni a demanar. El lloc s'afegirà a la finestra d'<a href='#cookies_exceptions'>
+    excepcions de galetes</a>, on podeu modificar la vostra elecció sempre que
+    vulgueu més endavant.</dd>
+</dl>
+
+<h2 id="cookies_exceptions">La finestra d'excepcions de les galetes</h2>
+
+<p>Accediu a aquesta finestra clicant al botó <em>Excepcions…</em> a les
+  &pref.plural; de les galetes. Aquí podeu definir excepcions a les vostres
+  &pref.plural; generals per a les galetes de llocs específics. Utilitzant
+  les excepcions, podeu permetre totes les galetes, rebutjar-les totes, o
+  permetre-les però suprimir-les quan sortiu del &brandShortName;,
+  independentment d'altres opcions que tingueu definides.</p>
+
+<p>Per a afegir un lloc a la llista, simplement introduïu el nom de domini del
+  lloc al camp <em>Adreça del lloc web</em>. Llavors feu clic a <em>Bloca</em>
+  per a rebutjar les galetes del lloc, feu clic a <em>Permet</em> per a
+  permetre-les o cliqueu a <em>Permet per a aquesta sessió</em> per a permetre-les
+  des d'aquest lloc però suprimir-les quan sortiu del &brandShortName;.</p>
+
+<p>Per a treure un lloc de la llista, seleccioneu-lo i feu clic a <em>Suprimeix
+  el lloc</em>. Per a esborrar completament tota la llista, feu clic a
+  <em>Suprimeix tots els llocs</em>. Això eliminarà totes les normes establertes
+  i s'aplicaran les &pref.plural; generals per a les galetes.</p>
+
+<h2 id="view_cookies">La finestra de visualització de les galetes</h2>
+
+<p>Utilitzeu la finestra <em>Visualitza les galetes</em> per a veure o eliminar
+  les galetes. Per a accedir-hi, cliqueu al botó <em>Visualitza les galetes</em>
+  a les &pref.plural; de les galetes.</p>
+
+<p>Aquesta finestra mostra una llista de totes les galetes que actualment teniu
+  emmagatzemades al vostre ordinador. Les podeu seleccionar per a veure
+  informació addicional sobre cada una d'elles. Podeu també cercar un lloc o un
+  nom d'una galeta escrivint-ho a la barra de cerca.</p>
+
+<p>Per a eliminar una galeta de la llista, seleccioneu-la i feu clic a
+  <em>Suprimeix la galeta</em>. Per a eliminar totes les galetes, feu clic a
+  <em>Suprimeix totes les galetes</em>.</p>
+
+<div class="contentsBox"><em>12 de setembre del 2006</em></div>
+<p>Copyright &copy; &copyright.years; Coŀlaboradors del projecte d'ajuda de Mozilla.</p>
+
+</body>
+</html>

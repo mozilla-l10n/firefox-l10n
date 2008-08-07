@@ -1,0 +1,28 @@
+<!ENTITY window.title "Filtres de missatge">
+<!ENTITY nameColumn.label "Nom del filtre">
+<!ENTITY activeColumn.label "Habilitat">
+<!ENTITY newButton.label "Nou...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Edita...">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "Suprimeix">
+<!ENTITY deleteButton.accesskey "u">
+<!ENTITY reorderUpButton.label "Mou cap amunt">
+<!ENTITY reorderUpButton.accesskey "M">
+<!ENTITY reorderDownButton.label "Mou cap avall">
+<!ENTITY reorderDownButton.accesskey "o">
+<!ENTITY filterHeader.label "Els filtres habilitats s'executen automàticament en l'ordre que s'indica a sota.">
+<!ENTITY filtersForPrefix.label "Filtres per a:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Registre dels filtres">
+<!ENTITY viewLogButton.accesskey "l">
+<!ENTITY runFilters.label "Executa ara">
+<!ENTITY runFilters.accesskey "r">
+<!ENTITY stopFilters.label "Atura">
+<!ENTITY stopFilters.accesskey "u">
+<!ENTITY folderPickerPrefix.label "Executa manualment el(s) filtre(s) seleccionat(s) a la carpeta:">
+<!ENTITY folderPickerPrefix.accesskey "i">
+<!ENTITY choosethis.label "escull aquesta carpeta">
+<!ENTITY choosethisnewsserver.label "tria aquest servidor de grups de discussió">
+<!ENTITY helpButton.label "Ajuda">
+<!ENTITY helpButton.accesskey "j">

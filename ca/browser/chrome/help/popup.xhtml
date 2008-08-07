@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Controlar les finestres emergents</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Controlar les finestres emergents</h1>
+<p>Aquest document explica les &pref.plural; disponibles en el &brandFullName;
+  per tal de controlar les finestres emergents.</p>
+
+<div class="contentsBox">
+  En aquesta secció:
+  <ul>
+    <li><a href="#what_are_popups">Què són les finestres emergents?</a></li>
+    <li><a href="#popup_blocker_preferences">&pref.pluralCaps; del blocatge de finestres emergents</a></li>
+  </ul>
+</div>
+
+<h2 id="what_are_popups">Què són les finestres emergents?</h2>
+<p>Les finestres emergents són finestres que apareixen automàticament sense el
+  seu permís. Poden tenir diferents mides, però habitualment no ocupen tota la
+  pantalla. Algunes finestres emergents s'obren sobre la finestra actual, però
+  altres apareixen sota.</p>
+
+<p>El &brandShortName; us permet controlar les finestres emergents a partir del
+  <a href="prefs.xhtml#content_options">quadre de Contingut</a> de les &pref.pluralCaps;.
+  El blocatge de les finestres emergents està activat per defecte, de manera que no us heu de preocupar d'activar-lo per a evitar que aquestes apareguin en el &brandShortName;.</p>
+
+<p>Quan es bloca una finestra emergent, el &brandShortName; mostra una barra
+  d'informació o una icona <img src="chrome://browser/skin/Info.png" width="16" height="16" alt=""/>
+  a la barra d'estat. Quan feu clic al botó de la barra d'informació o a la icona
+  de la barra d'estat es mostra un menú amb les següents &pref.plural;:</p>
+
+<ul>
+  <li>Permet/bloca els emergents per a aquest lloc</li>
+  <li>Editeu les <a href="#popup_blocker_preferences">&pref.plural; del blocatge
+    d'emergents</a></li>
+  <li>No mostris el missatge d'informació quan les finestres emergents estiguin blocades</li>
+  <li>(Mostra una finestra emergent blocada)</li>
+</ul>
+
+<p><strong>Blocar finestres emergents pot interferir amb alguns llocs web</strong>:
+  Alguns llocs web, incloent-hi alguns bancs, utilitzen les finestres emergents
+  per a tasques importants. Per a permetre que alguns llocs utilitzin les
+  finestres emergents, però seguint bloquejant la resta, podeu afegir llocs
+  específics a la llista de llocs que poden obrir finestres emergents.</p>
+
+<p><strong>El blocatge de finestres emergents no sempre funciona</strong>:
+  Malgrat que el &brandShortName; bloca la majoria de finestres emergents,
+  alguns llocs poden mostrar-ne utilitzant mètodes indirectes, encara que
+  estigui activat el blocatge.</p>
+
+<h2 id="popup_blocker_preferences">Les &pref.plural; del blocatge de finestres emergents</h2>
+
+
+<p>Les &pref.pluralCaps; del blocatge d'emergents es troben en el <a
+  href="prefs.xhtml#content_options">quadre de contingut</a> de &pref.menuPath;.</p>
+
+<p>Allà hi teniu les següents opcions:</p>
+
+<ul>
+  <li><strong>Bloca les finestres emergents</strong>. Desmarqueu aquesta &pref.singular; per a
+    inhabilitar el blocatge d'emergents.</li>
+  <li><strong>Llocs permesos</strong>: Aquesta és una llista de llocs als quals vulgueu permetre mostrar finestres emergents. El quadre conté les següents &pref.plural;:
+  <ul>
+    <li><strong>Permet</strong>: Feu clic ací per a afegir un lloc a la llista d'excepcions.</li>
+    <li><strong>Suprimeix el lloc</strong>: Feu clic ací per a eliminar un lloc de la llista d'excepcions.</li>
+    <li><strong>Suprimeix tots els llocs</strong>: Feu clic ací per a eliminar tots els llocs de la llista d'excepcions.</li>
+  </ul>
+  </li>
+</ul>
+
+<p><strong>Nota</strong>: El blocatge de finestres emergents podria no funcionar i podria interferir amb alguns llocs. Per a més informació de com blocar les finestres emergents, consulteu <a href="#what_are_popups">Què són les finestres emergents</a>.</p>
+
+<div class="contentsBox"><em>12 de setembre del 2006</em></div>
+<p>Copyright &copy; &copyright.years; Coŀlaboradors del projecte d'ajuda de Mozilla.</p>
+</body>
+</html>

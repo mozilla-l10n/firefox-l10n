@@ -1,0 +1,104 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
+
+
+<!ENTITY folderProps.windowtitle.label "Propietats">
+
+<!ENTITY generalInfo.label "Informació general">
+<!ENTITY folderCharsetTab.label "Codificació de caràcters per defecte:">
+<!ENTITY folderCharsetTab.accesskey              "e">
+<!ENTITY folderCharsetOverride.label "Aplica el valor per defecte a tots els missatges (ignora el joc de caràcters indicat a la capçalera MIME)">
+<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderRebuildSummaryFile.label          "Reconstrueix l'índex">
+<!ENTITY folderRebuildSummaryFile.accesskey      "R">
+<!ENTITY folderRebuildSummaryFileTip.label       "Reconstrueix el fitxer de resum"> 
+
+<!ENTITY folderOfflineTab.label "Fora de línia">
+<!ENTITY folderCheckForNewMessages.label "Cerca missatges nous a aquesta carpeta">
+<!ENTITY folderCheckForNewMessages.accesskey     "C">
+
+<!ENTITY retention.label "Política de retenció">
+<!ENTITY retentionUseDefault.label  "Utilitza els paràmetres per defecte del servidor">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY days.label "dies">
+<!ENTITY daysOld.label "dies d'antiguitat">
+<!ENTITY message.label "missatges">
+<!ENTITY retentionNotDownloadRead.label "Llegeix els missatges">
+<!ENTITY retentionNotDownloadRead.accesskey "L">
+<!ENTITY retentionDownloadMsg.label "Missatges de més de">
+<!ENTITY retentionDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Per a recuperar espai de disc, els missatges antics poden suprimir-se permanentment">
+<!ENTITY retentionKeepMsg.label "Suprimeix els missatges de més de">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "No suprimeixis cap missatge">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepNew.label "Suprimeix-ho tot excepte els darrers">
+<!ENTITY retentionKeepNew.accesskey "r">
+<!ENTITY retentionKeepUnread.label "Suprimeix sempre els missatges llegits">
+<!ENTITY retentionKeepUnread.accesskey "l">
+
+<!ENTITY offlineFolder.check.label "Selecciona aquesta carpeta per al seu ús fora de línia">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label "Baixa-ho ara">
+<!ENTITY offlineFolder.button.accesskey          "B">
+
+<!ENTITY selectofflineNewsgroup.check.label "Selecciona aquest grup de discussió per al seu ús fora de línia">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Utilitza el valor per defecte dels paràmetres del compte">
+<!ENTITY offlineNewsgroup.button.label "Baixa-ho ara">
+<!ENTITY offlineNewsgroup.button.accesskey       "B">
+
+<!ENTITY folderProps.information.label "Informació:">
+<!ENTITY folderProps.name.label "Nom:">
+<!ENTITY folderProps.name.accesskey              "N">
+
+<!ENTITY folderSharingTab.label "S'està compartint">
+<!ENTITY privilegesDesc.label "Comparteix aquesta i altres carpetes amb els usuaris de la xarxa i visualitza i defineix els privilegis d'accés">
+<!ENTITY privileges.button.label "Privilegis">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label "Teniu els permisos següents:">
+<!ENTITY folderType.label "Tipus de carpeta:">
+
+<!ENTITY folderQuotaTab.label "Quota">
+<!ENTITY folderQuotaRoot.label "Quota Root:">
+<!ENTITY folderQuotaUsage.label "Utilització:">
+<!ENTITY folderQuotaStatus.label "Estat">

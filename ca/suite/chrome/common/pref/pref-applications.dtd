@@ -1,0 +1,23 @@
+<!-- extracted from content/pref-applications.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
+<!ENTITY pref.applications.title        "Aplicacions ajudants">
+<!ENTITY pref.applications.caption      "Especifica com gestionar els fitxers segons cada tipus de fitxer">
+<!ENTITY fileTypes.label "Tipus de fitxer:">
+<!ENTITY aimLaunchSelect.label "Execució de l'AOL Instant Messenger">
+<!ENTITY newTypeButton.label "Nou tipus...">
+<!ENTITY newTypeButton.accesskey "N">
+<!ENTITY editButton.label "Edita...">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY removeButton.label "Suprimeix">
+<!ENTITY removeButton.accesskey "i">
+<!ENTITY file "Detalls del tipus de fitxer">
+<!ENTITY exten "Extensió:">
+<!ENTITY mimeDesc "Descripció:">
+<!ENTITY handle                         "Quan es trobi:">
+<!ENTITY handle.accesskey               "Q">
+<!ENTITY fileOpening.label "Obertura de fitxers">
+<!ENTITY plugins.label "Servei de cerca de connectors">
+<!ENTITY pluginFinder.label "Utilitza sempre el servei de cerca de connectors de Netscape ">
+<!ENTITY pluginFinder.accesskey         "a">
+<!ENTITY pluginFinderDesc.label "Si no s'ha activat aquesta opció, només s'utilitza els connectors de Netscape PFS quan la pàgina web no ha especificat la ubicació d'un connector que que el requereixi.">

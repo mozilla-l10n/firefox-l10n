@@ -1,0 +1,20 @@
+<!-- extracted from content/pref-debug.xul -->
+
+<!--LOCALIZATION NOTE : FILE DONT_TRANSLATE This file should not be translated -->
+
+<!ENTITY lHeader "Depura la xarxa">
+<!ENTITY rHeader "Preferències de depuració de xarxa">
+
+<!-- Network-->
+<!ENTITY debugNetworking.label "Xarxa">
+<!ENTITY dirFormat "Format de llistat del directori">
+<!ENTITY raw.label "En brut">
+<!ENTITY html.label "HTML">
+<!ENTITY xul.label "XUL (basat en arbre)">
+<!ENTITY httpVersion.label "Versió HTTP">
+
+<!-- Cache -->
+<!ENTITY debugCache.label "Memòria cau">
+<!ENTITY debugDisableXULCache.label "Inhabilita la memòria cau XUL">
+<!ENTITY debugEnableMemCache.label "Habilita la memòria cau">
+<!ENTITY debugEnableDiskCache.label "Habilita la memòria cau de disc">

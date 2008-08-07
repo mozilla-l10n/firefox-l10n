@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Propietats d'impressió">
+
+<!ENTITY paperInput.label "Mida del paper:">
+
+<!ENTITY plexInput.label "Mode plex:">
+
+<!ENTITY resolutionInput.label "Resolució/Qualitat:">
+
+<!ENTITY cmdInput.label "Ordre d'impressió:">
+
+<!ENTITY jobTitleInput.label "Títol del treball:">
+
+<!ENTITY colorGroup.label "Color:">
+<!ENTITY grayRadio.label "Escala de grisos">
+<!ENTITY colorRadio.label "Color">
+
+<!ENTITY colorspaceInput.label "Espai de color:">
+
+<!ENTITY fontsGroup.label "Tipus de lletra:">
+<!ENTITY downloadFonts.label "Voleu baixar tipus de lletra per a la impressora?">
+
+<!ENTITY edgeMarginInput.label "Espai des del costat del paper fins al marge (polzades)">
+<!ENTITY topInput.label "Part superior:">
+<!ENTITY bottomInput.label "Part inferior:">
+<!ENTITY leftInput.label "Esquerra:">
+<!ENTITY rightInput.label "Dreta:">

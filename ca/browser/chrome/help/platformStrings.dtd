@@ -1,0 +1,45 @@
+<!-- LOCALIZATION NOTE : This file contains platform-specific strings which
+                         occur in large numbers throughout Help docs.
+                         Generally, for these strings it's less code to store
+                         them here than to hard-code the value of the entity
+                         in every place it's used, or using an entity is less
+                         confusing than typing a string like the jumbled messes
+                         used below for "preference" and derivatives.  Feel free
+                         to add more strings here as long as you run them by the
+                         Help module owner first (to prevent excessive use of
+                         such strings when other methods are preferable). -->
+
+<!-- Options -->
+
+<!ENTITY pref.menuPath     '<span class="win menuPath">Eines &gt; Opcions</span><span
+                              class="unix menuPath">Edita &gt; Preferències</span><span
+                              class="mac menuPath">&brandShortName; &gt; Preferències</span>' >
+<!ENTITY pref.singular     '<span class="win">opció</span><span
+                             class="noWin">preferència</span>' >
+<!ENTITY pref.plural       '<span class="win">opcions</span><span
+                             class="noWin">preferències</span>' >
+<!ENTITY pref.singularCaps '<span class="win">Opció</span><span
+                             class="noWin">Preferència</span>' >
+<!ENTITY pref.pluralCaps   '<span class="win">Opcions</span><span
+                             class="noWin">Preferències</span>' >
+
+<!-- Keys -->
+
+<!ENTITY ctrlKey            '<kbd>Control</kbd>' >
+<!ENTITY accelKey           '<kbd class="noMac">Control</kbd><kbd
+                             class="mac">Cmd</kbd>' >
+<!ENTITY altKey             '<kbd class="noMac">Alt</kbd><kbd
+                             class="mac">Opt</kbd>' >
+<!ENTITY shiftKey           '<kbd>Maj</kbd>' >
+<!ENTITY enterKey           '<kbd class="noMac">Retorn</kbd><kbd
+                             class="mac">Retorn</kbd>' >
+
+<!-- Image Location Base URL -->
+<!-- NOTA_DEL_TRADUCTOR: Per algun motiu no es pot fer servir l'adreça completa
+     del chrome (chrome://browser/locale/help/images/) -->
+<!ENTITY images.baseURL     'images'>
+
+<!-- Copyright years -->
+
+<!ENTITY copyright.years    '2003-2008'>
+

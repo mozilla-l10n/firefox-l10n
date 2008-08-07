@@ -1,0 +1,42 @@
+<!ENTITY  pref.navigator.title      "Navegador">
+
+<!ENTITY navRadio "En iniciar">
+<!ENTITY navStartPageMenu.label "Inici del navegador">
+<!ENTITY newWinPageMenu.label "Nova finestra">
+<!ENTITY newTabPageMenu.label "Pestanya nova">
+
+<!ENTITY blankPageRadio.label "Pàgina en blanc">
+<!ENTITY blankPageRadio.accesskey "n">
+<!ENTITY homePageRadio.label "Pàgina d'inici">
+<!ENTITY homePageRadio.accesskey "g">
+<!ENTITY lastPageRadio.label "Darrera pàgina visitada">
+<!ENTITY lastPageRadio.accesskey "D">
+
+<!ENTITY header2.label "Pàgina d'inici">
+<!ENTITY homePageIntro.label "En prémer el botó Inici anireu a aquesta pàgina.">
+<!ENTITY location.label "Ubicació:">
+<!ENTITY location.accesskey "a">
+<!ENTITY useCurrent.label "Utilitza la pàgina actual">
+<!ENTITY useCurrent.accesskey "U">
+<!ENTITY useCurrentGroup.label "Utilitza el grup actual">
+<!ENTITY useCurrentGroup.accesskey "t">
+<!ENTITY browseFile.label "Trieu un fitxer...">
+<!ENTITY browseFile.accesskey "T">
+<!ENTITY useDefault.label "Valor per defecte">
+<!ENTITY useDefault.accesskey "V">
+
+<!ENTITY toolbarIntro.label "Seleccioneu els botons que voleu veure a les barres d'eines">
+
+<!ENTITY  navToolbarIntro.label     "Barra de navegació">
+<!ENTITY goButton.label "Vés">
+<!ENTITY  goButton.accesskey        "s">
+<!ENTITY searchButton.label "Cerca">
+<!ENTITY  searchButton.accesskey    "r">
+<!ENTITY printButton.label "Imprimeix">
+<!ENTITY  printButton.accesskey     "p">
+
+<!ENTITY  persToolbarIntro.label    "Barra d'eines personal">
+<!ENTITY homeButton.label "Inici">
+<!ENTITY  homeButton.accesskey      "n">
+<!ENTITY bookmarksButton.label "Adreces d'interès">
+<!ENTITY  bookmarksButton.accesskey "c">

@@ -1,0 +1,18 @@
+<!ENTITY newPagesIn.label             "Obre les noves pàgines en:">
+<!ENTITY inNewWindow.label            "una nova finestra">
+<!ENTITY inNewWindow.accesskey        "f">
+<!ENTITY inNewTab.label               "una nova pestanya">
+<!ENTITY inNewTab.accesskey           "t">
+
+<!ENTITY warnCloseMultipleTabs.label      "Avisa'm en tancar diverses pestanyes de cop">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label           "Avisa'm quan en obrir moltes pestanyes pugui alentir-se el &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey       "o">
+
+<!ENTITY showTabBar.label             "Mostra sempre la barra de pestanyes">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY switchToNewTabs.label        "En obrir un enllaç en una nova pestanya, vés-hi immediatament">
+<!ENTITY switchToNewTabs.accesskey    "s">
+

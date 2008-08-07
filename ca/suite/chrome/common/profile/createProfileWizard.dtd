@@ -1,0 +1,23 @@
+<!-- LOCALIZATION NOTE (window.title.label): Don't translate "&brandShortName" -->
+<!ENTITY window.title.label "Gestor de perfils del &brandShortName;">
+<!ENTITY newprofile.title "Crea un perfil">
+<!ENTITY window.size "width: 52em; height: 39em;">
+
+<!-- First wizard page -->
+<!ENTITY profileCreationExplanation_1.text "El &brandShortName; emmagatzema, al vostre perfil personal, informació sobre els vostres paràmetres, preferències, adreces d'interès i correu.">
+<!ENTITY profileCreationExplanation_2.text "Si compartiu aquesta còpia del &brandShortName; amb altres usuaris, podeu utilitzar perfils per conservar la informació de cada usuari per separat. Per fer-ho, cada usuari ha de crear el seu propi perfil.">
+<!ENTITY profileCreationExplanation_3.text "Si sou l'única persona que utilitza aquesta còpia del &brandShortName;, heu de tenir com a mínim un perfil. Si ho voleu, podeu crear-vos diversos perfils per emmagatzemar diferents jocs de paràmetres i preferències. Per exemple, podeu tenir perfils diferents per a la feina i per a l'ús personal.">
+<!ENTITY profileCreationExplanation_4.text "Per començar a crear el vostre perfil, feu un clic a Endavant.">
+
+<!-- Second wizard page -->
+<!ENTITY profileCreationIntro.text "Si creeu diferents perfils podreu diferenciar-los pel seu nom. Podeu utilitzar el nom que es proposa ací o utilitzar-ne un de propi.">
+<!ENTITY profilePrompt.label "Introduïu el nom nou del perfil:">
+<!ENTITY profilePrompt.accesskey "I">
+<!ENTITY profileDirExplanation.text "S'han desat els vostres paràmetres d'usuari, preferències, adreces d'interès i correu a:">
+<!ENTITY profileDefaultName "Usuari per defecte">
+<!ENTITY button.choosefolder.label "Trieu una carpeta...">
+<!ENTITY button.choosefolder.accesskey "c">
+<!ENTITY button.usedefault.label "Usa la carpeta per defecte">
+<!ENTITY button.usedefault.accesskey "U">
+<!ENTITY button.langSelection.label "Regió...">
+<!ENTITY button.langSelection.accesskey "R">

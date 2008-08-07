@@ -1,0 +1,94 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Paràmetres de seguretat">
+<!ENTITY serverSettings.label "Paràmetres del servidor">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "Servidor de correu POP">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "Servidor de correu IMAP">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Servidor de grups de discussió (NNTP)">
+<!ENTITY webmail.label "Compte Webmail">
+<!ENTITY serverType.label "Tipus de servidor:">
+<!ENTITY serverName.label "Nom del servidor:">
+<!ENTITY serverName.accesskey "s">
+<!ENTITY userName.label "Nom d'usuari:">
+<!ENTITY userName.accesskey "u">
+<!ENTITY port.label "Port:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Per defecte:">
+<!ENTITY savePassword.label "Desa la contrasenya">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Comprova si hi ha nous missatges cada ">
+<!ENTITY biffStart.accesskey "h">
+<!ENTITY biffEnd.label "minuts">
+<!ENTITY isSecure.label "Utilitza una connexió segura (SSL)">
+<!ENTITY isSecure.accesskey "z">
+<!ENTITY socketType.label "Utilitza una connexió segura:">
+<!ENTITY neverSecure.label "Mai">
+<!ENTITY neverSecure.accesskey "M">
+<!ENTITY sometimesSecure.label "TLS, si és disponible">
+<!ENTITY sometimesSecure.accesskey "o">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Utilitza l'autenticació segura">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "Deixa els missatges al servidor">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "Recull només les capçaleres">
+<!ENTITY headersOnly.accesskey "R">
+<!ENTITY deleteByAgeFromServer.label "Com a màxim">
+<!ENTITY deleteByAgeFromServer.accesskey "x">
+<!ENTITY daysEnd.label "dies">
+<!ENTITY deleteOnServer2.label "Fins que els suprimeixi">
+<!ENTITY deleteOnServer2.accesskey "e">
+<!ENTITY downloadOnBiff.label "Baixa automàticament els missatges nous">
+<!ENTITY downloadOnBiff.accesskey "a">
+<!ENTITY hostname.label "Nom de l'ordinador central del servidor">
+<!ENTITY username.label "El vostre nom d'entrada:">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "Informació del servidor POP">
+<!ENTITY deleteMessagePrefix.label "Quan suprimeixi un missatge:">
+<!ENTITY deleteMessagePrefix.accesskey "Q">
+<!ENTITY modelMoveToTrash.label "Mou-lo a la carpeta Paperera">
+<!ENTITY modelMarkDeleted.label "Marca'l com a suprimit">
+<!ENTITY modelDeleteImmediately.label "Elimina'l immediatament">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Neteja (&quot;Esborra&quot;) la Safata d'entrada en sortir">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "Buida la paperera en sortir">
+<!ENTITY emptyTrashOnExit.accesskey "B">
+<!ENTITY loginAtStartup.label "En iniciar, comprova si hi ha correu nou">
+<!ENTITY loginAtStartup.accesskey "c">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Demana-m'ho abans de baixar més de">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "missatges">
+<!ENTITY alwaysAuthenticate.label "Sol·licita sempre autenticació en connectar amb aquest servidor">
+<!ENTITY alwaysAuthenticate.accesskey "l">
+<!ENTITY newsrcFilePath.label "Fitxer newsrc:">
+<!ENTITY newsrcFilePath.accesskey "F">
+<!ENTITY localPath.label "Directori local:">
+<!ENTITY localPath.accesskey "D">
+<!ENTITY abbreviate.label "Mostra els noms dels grups de discussió a la subfinestra de la carpeta de la Missatgeria com a:">
+<!ENTITY abbreviateOn.label "Noms sencers (per exemple, «netscape.public.mozilla.mail-news»)">
+<!ENTITY abbreviateOff.label "Noms abreujats (per exemple, «n.p.m.mail-news»)">
+<!ENTITY advancedButton.label "Avançat...">
+<!ENTITY serverDefaultCharset.label "Codificació de caràcters per defecte:">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY localFolderPicker.label "Seleccioneu el directori local">
+<!ENTITY browseFolder.label "Navega...">
+<!ENTITY browseFolder.accesskey "N">
+<!ENTITY newsrcPicker.label "Selecciona el fitxer newsrc">
+<!ENTITY browseNewsrc.label "Navega...">
+<!ENTITY browseNewsrc.accesskey "e">

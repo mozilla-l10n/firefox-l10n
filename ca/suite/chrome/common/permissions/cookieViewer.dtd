@@ -1,0 +1,38 @@
+<!ENTITY tab.cookiesonsystem.label "Galetes emmagatzemades">
+<!ENTITY tab.bannedservers.label "Llocs de galetes">
+<!ENTITY div.bannedservers.label "Gestiona els llocs que poden o no poden emmagatzemar galetes en el vostre ordinador.">
+<!ENTITY div.cookiesonsystem.label "Visualitza i suprimeix les galetes que s'emmagatzemen al vostre ordinador.">
+<!ENTITY treehead.cookiename.label "Nom de la galeta">
+<!ENTITY treehead.cookiedomain.label "Lloc">
+<!ENTITY treehead.cookiestatus.label "Estat">
+<!ENTITY treehead.cookieexpires.label "Expira">
+<!ENTITY treehead.infoselected.label "Informació de la galeta seleccionada">
+<!ENTITY button.removecookie.label "Suprimeix la galeta">
+<!ENTITY button.removeallcookies.label "Suprimeix totes les galetes">
+
+<!ENTITY props.name.label "Nom:">
+<!ENTITY props.value.label "Contingut:">
+<!ENTITY props.domain.label "Servidor central:">
+<!ENTITY props.path.label "Camí:">
+<!ENTITY props.secure.label "Enviat per:">
+<!ENTITY props.expires.label "Expira:">
+<!ENTITY props.policy.label "Política:">
+
+<!ENTITY treehead.sitename.label "Lloc">
+<!ENTITY treehead.status.label "Estat">
+<!ENTITY windowtitle.label "Gestor de galetes">
+
+<!ENTITY blockSite.label "Bloca">
+<!ENTITY allowSite.label "Permet">
+<!ENTITY allowSiteSession.label "Sessió">
+<!ENTITY removepermission.label "Suprimeix el lloc">
+<!ENTITY removeallpermissions.label "Suprimeix tots els llocs">
+<!ENTITY removeimage.label "Suprimeix el lloc">
+<!ENTITY removeallimages.label "Suprimeix tots els llocs">
+
+<!ENTITY canSet.label "pot deixar galetes">
+<!ENTITY cannotSet.label "no pot deixar galetes">
+<!ENTITY canLoad.label "pot carregar imatges">
+<!ENTITY cannotLoad.label "no pot carregar imatges">
+
+<!ENTITY checkbox.label "No permet que els llocs que deixen galetes suprimides en deixin en un futur">

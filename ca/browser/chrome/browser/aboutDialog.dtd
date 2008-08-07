@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "Quant al &brandFullName;">
+<!ENTITY copyright "Crèdits">
+<!ENTITY copyright.accesskey    "C">
+<!ENTITY aboutLink "&lt; Quant al &brandFullName;">
+<!ENTITY aboutLink.accesskey    "Q">
+<!ENTITY aboutVersion "versió">
+<!ENTITY copyrightInfo           "&#169;1998-2008 Coŀlaboradors. Tots els drets reservats. El Firefox i els
+				 seus logotips són marques registrades de la Fundació Mozilla. Tots els drets 
+				 reservats.">

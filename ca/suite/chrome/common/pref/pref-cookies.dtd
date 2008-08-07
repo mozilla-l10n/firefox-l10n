@@ -1,0 +1,43 @@
+<!ENTITY pref.cookies.title "Galetes">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label "Política d'acceptació de galetes">
+
+<!ENTITY accAllCookiesRadio.label "Permet totes les galetes">
+<!ENTITY accAllCookiesRadio.accesskey "g">
+
+<!ENTITY accOrgCookiesRadio.label "Permet només dels llocs que les originen">
+<!ENTITY accOrgCookiesRadio.accesskey "o">
+
+<!ENTITY accP3PCookiesRadio.label "Permet d'acord amb els paràmetres">
+<!ENTITY accP3PCookiesRadio.accesskey "p">
+
+<!ENTITY disableCookies.label "Bloca les galetes">
+<!ENTITY disableCookies.accesskey "B">
+
+<!ENTITY cookieRetentionPolicy.label "Política de retenció de galetes">
+
+<!ENTITY acceptNormally.label "Accepta les galetes normalment">
+<!ENTITY acceptNormally.accesskey "n">
+
+<!ENTITY acceptForSession.label "Accepta només per a la sessió actual">
+<!ENTITY acceptForSession.accesskey "s">
+
+<!ENTITY acceptforNDays.label "Accepta les galetes per a">
+<!ENTITY acceptforNDays.accesskey "r">
+<!ENTITY days.label "dies">
+
+<!ENTITY warnAboutCookies.label "Demana-ho per cada galeta">
+<!ENTITY warnAboutCookies.accesskey "D">
+<!ENTITY forCurrentSession.label "excepte per a les galetes de sessió">
+<!ENTITY forCurrentSession.accesskey "e">
+
+<!ENTITY manageCookies.label "Gestiona les galetes i els llocs">
+<!ENTITY manageCookiesDescription.label "Us permet visualitzar i gestionar les galetes emmagatzemades i els paràmetres d'acceptació i rebuig de galetes per cada lloc. Aquests paràmetres a nivell particular tindran preferència davant de la configuració anterior.">
+
+<!ENTITY viewCookies.label "Gestor de galetes">
+<!ENTITY viewCookies.accesskey "G">
+<!ENTITY viewP3P.label "Paràmetres de privadesa">
+<!ENTITY viewP3P.accesskey "V">
+

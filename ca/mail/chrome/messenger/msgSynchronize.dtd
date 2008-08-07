@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Baixa i sincronitza els missatges">
+<!ENTITY MsgSelect.label "Seleccioneu els elements per al seu ús fora de línia">
+<!ENTITY MsgSyncDesc.label "Si ja heu seleccionat les carpetes de correu o els grups de discussió per al seu ús fora de línia, podeu baixar-los i/o sincronitzar-los ara. Si no, utilitzeu el botó &quot;Seleccioneu&quot; per seleccionar les carpetes de correu i els grups de discussió per al seu ús fora de línia.">
+<!ENTITY MsgSyncDirections.label "Baixa i/o sincronitza els següents:">
+<!ENTITY syncTypeMail.label "Missatges de correu">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "Missatges del grup de discussió">
+<!ENTITY syncTypeNews.accesskey "g">
+<!ENTITY sendMessage.label "Envia els missatges per enviar">
+<!ENTITY sendMessage.accesskey "v">
+<!ENTITY workOffline.label "Treballa fora de línia en completar la baixada i/o sincronització">
+<!ENTITY workOffline.accesskey "f">
+<!ENTITY selectButton.label "Seleccioneu...">
+<!ENTITY selectButton.accesskey "S">
+<!ENTITY MsgSelectDesc.label "Seleccioneu les carpetes de correu i els grups de discussió que voleu utilitzar fora de línia. Com més en seleccioneu, més augmentarà el temps de baixada.">
+<!ENTITY MsgSelectInd.label "Baixa">
+<!ENTITY MsgSelectItems.label "Nom de l'element fora de línia">

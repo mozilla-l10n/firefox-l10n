@@ -1,0 +1,88 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY offlineGoOfflineCmd.label "Treballa fora de línia">
+<!ENTITY offlineGoOfflineCmd.accesskey "b">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label "Fitxer">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "Nou">
+<!ENTITY newMenu.accesskey "n">
+<!ENTITY newBlankPageCmd.label "Nova finestra del Redactor">
+<!ENTITY newBlankPageCmd.accesskey "e">
+<!ENTITY newBlankPageCmd.key "n">
+<!ENTITY newPageFromTemplateCmd.label "Pàgina utilitzant una plantilla">
+<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromDraftCmd.label "Pàgina utilitzant un esborrany">
+<!ENTITY newPageFromDraftCmd.accesskey "y">
+<!-- LOCALIZATION NOTE  (newNavigatorCmd.label): Do NOT translate "Navigator" -->
+<!ENTITY newNavigatorCmd.label "Finestra del Navegador">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "n">
+
+<!ENTITY editMenu.label "Edita">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "Desfés">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "D">
+<!ENTITY redoCmd.label "Refés">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY cutCmd.label "Retalla">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copia">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Enganxa">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "x">
+<!ENTITY deleteCmd.label "Suprimeix">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "u">
+<!ENTITY selectAllCmd.label "Selecciona-ho tot">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY preferencesCmd.label "Preferències...">
+<!ENTITY preferencesCmd.key "E">
+<!ENTITY preferencesCmd.accesskey "e">
+<!ENTITY findTypeTextCmd.label "Cerca text a mesura que escric">
+<!ENTITY findTypeTextCmd.accesskey "q">
+<!ENTITY findTypeLinksCmd.label "Cerca enllaços a mesura que escric">
+<!ENTITY findTypeLinksCmd.accesskey "l">
+
+<!ENTITY viewMenu.label "Visualitza">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewToolbarsMenu.label "Mostra/Amaga">
+<!ENTITY viewToolbarsMenu.accesskey "g">
+<!ENTITY showTaskbarCmd.label "Barra d'estat">
+<!ENTITY showTaskbarCmd.accesskey "s">
+
+<!ENTITY helpMenu.label "Ajuda">
+<!ENTITY helpMenu.accesskey "j">
+
+<!-- NOTE (whatNewCmd.label): This is not used in Mozilla but is used in Netscape -->
+<!ENTITY whatNewCmd.label "Novetats">
+
+<!ENTITY releaseCmd.label "Notes de la versió">
+<!ENTITY releaseCmd.accesskey "v">
+<!ENTITY aboutCmd.label "Quant al &brandShortName;">
+<!ENTITY aboutCmd.accesskey "a">
+<!ENTITY aboutCommPluginsCmd.label "Quant als connectors">
+<!ENTITY aboutCommPluginsCmd.accesskey "l">
+
+<!ENTITY direct.label "En línia (servidor intermediari: cap)">
+<!ENTITY direct.accesskey "c">
+<!ENTITY manual.label "En línia (servidor intermediari: manual)">
+<!ENTITY manual.accesskey "m">
+<!ENTITY pac.label "En línia (servidor intermediari: automàtic)">
+<!ENTITY pac.accesskey "i">
+<!ENTITY wpad.label "En línia (servidor intermediari: descobriment automàtic)">
+<!ENTITY wpad.accesskey "d">
+
+<!ENTITY proxy.label "Configuració del servidor intermediari...">
+<!ENTITY proxy.accesskey "C">
+
+<!ENTITY bidiSwitchTextDirectionItem.label        "Commuta la direcció del text">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">

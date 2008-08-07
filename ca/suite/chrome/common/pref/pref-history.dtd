@@ -1,0 +1,15 @@
+<!ENTITY  pref.history.title                "Historial">
+
+<!ENTITY  pref.history.caption              "Historial de navegació">
+<!ENTITY historyPages.label "L'historial és una llista de les pàgines que heu visitat anteriorment.">
+<!ENTITY pageHis.label "Les pàgines de l'historial vencen en">
+<!ENTITY pageHis.accesskey "e">
+<!ENTITY days.label "dies.">
+<!ENTITY clearHistory.label "Buida l'historial">
+<!ENTITY clearHistory.accesskey "r">
+
+<!ENTITY  locationBarHistory.caption        "Historial de la barra d'ubicació">
+<!ENTITY clearLocationBar.label "Buida la llista de llocs emmagatzemats al menú de la barra d'ubicació.">
+<!ENTITY clearLocationBarButton.label "Buida la barra d'ubicació">
+<!ENTITY clearLocationBarButton.accesskey "b">
+  

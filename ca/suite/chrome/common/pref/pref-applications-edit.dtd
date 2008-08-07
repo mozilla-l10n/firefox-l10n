@@ -1,0 +1,24 @@
+
+<!ENTITY editType.label "Edita el tipus">
+<!ENTITY newType.label "Nou tipus">
+<!ENTITY extension.label "Extensió:">
+<!ENTITY extension.accesskey "E">
+<!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
+<!ENTITY mimetype.label "Tipus MIME:">
+<!ENTITY mimetype.accesskey "m">
+<!ENTITY description.label "Descripció:">
+<!ENTITY description.accesskey "d">
+
+<!ENTITY handling.label "Quan es trobi un fitxer d'aquest tipus">
+<!ENTITY useDefault.label "Utilitza el valor per defecte del sistema">
+<!ENTITY useDefault.accesskey "u">
+<!ENTITY saveToDisk.label "Desa'l al disc">
+<!ENTITY saveToDisk.accesskey "s">
+<!ENTITY application.label "Aplicació">
+<!ENTITY application.accesskey "a">
+
+<!ENTITY browse.label "Tria...">
+<!ENTITY browse.accesskey "T">
+
+<!ENTITY askBeforeOpen.label "Demana-m'ho abans d'obrir fitxers baixats d'aquest tipus">
+<!ENTITY askBeforeOpen.accesskey "n">

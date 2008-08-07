@@ -1,0 +1,53 @@
+<!ENTITY printCmd.commandkey "p">
+
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label "Enrere">
+<!ENTITY backButton.accesskey "e">
+<!ENTITY backButton.tooltip "Vés una pàgina enrere">
+<!ENTITY forwardButton.label "Endavant">
+<!ENTITY forwardButton.accesskey "v">
+<!ENTITY forwardButton.tooltip "Vés una pàgina endavant">
+<!ENTITY copyCmd.label                  "Copia">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "Selecciona-ho tot">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label "Inici">
+<!ENTITY homeButton.tooltip "Vés a la pàgina d'inici de l'ajuda">
+<!ENTITY printButton.label "Imprimeix">
+<!ENTITY printButton.tooltip "Imprimeix aquesta pàgina">
+<!ENTITY fullZoomReduceBtn.label "Redueix">
+<!ENTITY fullZoomReduceBtn.accesskey "d">
+<!ENTITY fullZoomEnlargeBtn.label "Augmenta">
+<!ENTITY fullZoomEnlargeBtn.accesskey "g">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY searchtab.label "Cerca">
+<!ENTITY searchtab.accesskey "r">
+<!ENTITY searchClose.tooltip            "Tanca els resultats de la cerca">
+<!ENTITY toctab.label "Continguts">
+<!ENTITY toctab.accesskey "C">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Sempre a dalt">
+<!ENTITY zLevel.accesskey               "t">

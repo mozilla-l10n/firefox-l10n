@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Configuració de la pàgina">
+
+<!ENTITY basic.tab "Format i opcions">
+
+<!ENTITY formatGroup.label "Format">
+
+<!ENTITY orientation.label "Orientació:">
+<!ENTITY portrait "Vertical">
+<!ENTITY landscape "Apaïsat">
+
+<!ENTITY scale.label "Escala:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Encongeix per a ajustar l'amplada de la pàgina">
+
+<!ENTITY optionsGroup.label "Opcions">
+
+<!ENTITY printBG.label "Imprimeix el fons (colors i imatges)">
+
+<!ENTITY advanced.tab "Marges i capçalera/peu de pàgina">
+
+<!ENTITY marginGroup.label "Marges (#1)">
+<!ENTITY marginUnits.inches "polzades">
+<!ENTITY marginUnits.metric "miŀlímetres">
+<!ENTITY marginTop.label "Part superior:">
+<!ENTITY marginBottom.label "Part inferior:">
+<!ENTITY marginLeft.label "Esquerra:">
+<!ENTITY marginRight.label "Dreta:">
+
+<!ENTITY headerFooter.label "Capçaleres i peus de pàgina">
+
+<!ENTITY hfLeft.label "Esquerra:">
+<!ENTITY hfCenter.label "Centre:">
+<!ENTITY hfRight.label "Dreta:">
+<!ENTITY headerLeft.tip      "Capçalera esquerra">
+<!ENTITY headerCenter.tip    "Capçalera central">
+<!ENTITY headerRight.tip     "Capçalera dreta">
+<!ENTITY footerLeft.tip      "Peu de pàgina esquerre">
+<!ENTITY footerCenter.tip    "Peu de pàgina central">
+<!ENTITY footerRight.tip     "Peu de pàgina dret">
+
+<!ENTITY hfTitle "Títol">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "Data/Hora">
+<!ENTITY hfPage "Pàgina #">
+<!ENTITY hfPageAndTotal "Pàgina # de #">
+<!ENTITY hfBlank "--blanc--">
+<!ENTITY hfCustom "Personalitza…">
+
+<!ENTITY customPrompt.title "Personalitza…">
+<!ENTITY customPrompt.prompt "Introduïu el vostre text de capçalera/peu de pàgina">

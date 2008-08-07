@@ -1,0 +1,110 @@
+<!-- Note: due to bug 143065, the only remainaing accesskeys available to be
+      used in this file are: "j" and "q" -->
+
+<!ENTITY generalTab.label               "General">
+
+<!ENTITY accessibility.label "Accessibilitat">
+
+<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
+     in the Advanced pane are: "b", "j", "o", "q", "z" -->
+
+<!ENTITY useCursorNavigation.label       "Utilitza sempre les tecles de cursor per a navegar en les pàgines">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "Cerca un text quan comenci a teclejar">
+<!ENTITY searchStartTyping.accesskey     "r">
+<!ENTITY blockAutoRefresh.label          "Avisa'm quan els llocs web provin de redirigir o actualitzar la pàgina">
+<!ENTITY blockAutoRefresh.accesskey      "d">
+
+<!ENTITY browsing.label                  "Navegació">
+
+<!ENTITY useAutoScroll.label             "Utilitza el desplaçament automàtic">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Utilitza el desplaçament suau">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkSpelling.label             "Comprova l'ortografia mentre escric">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label  "Paràmetres predeterminats del sistema">
+
+<!ENTITY alwaysCheckDefault.label      "A l'inici comprova sempre si el &brandShortName; és el navegador per defecte"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey  "t">
+
+<!ENTITY checkNow.label             "Comprova-ho ara">
+<!ENTITY checkNow.accesskey         "h">
+
+<!ENTITY networkTab.label                "Xarxa">
+
+<!ENTITY connection.label                "Connexió">
+
+<!ENTITY connectionDesc.label            "Configureu com el &brandShortName; es connecta a Internet">
+<!ENTITY connectionSettings.label        "Paràmetres…">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY offlineStorage.label            "Emmagatzemament fora de línia">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label            "Utilitza fins a">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB d'espai per a la memòria cau">
+
+<!ENTITY clearCacheNow.label             "Neteja-la ara">
+<!ENTITY clearCacheNow.accesskey         "j">
+
+<!ENTITY updateTab.label                 "Actualització">
+
+<!ENTITY autoCheck.label                 "Comprova automàticament si hi ha actualitzacions de:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "Complements instaŀlats">
+<!ENTITY enableAddonsUpdate.accesskey    "m">
+<!ENTITY enableSearchUpdate.label        "Motors de cerca">
+<!ENTITY enableSearchUpdate.accesskey    "r">
+<!ENTITY whenUpdatesFound.label          "Quan es trobin actualitzacions del &brandShortName;:">
+<!ENTITY askMe.label                     "Demana'm què vull fer">
+<!ENTITY askMe.accesskey                 "D">
+<!ENTITY modeAutomatic.label             "Baixa-les automàticament i instaŀla-les">
+<!ENTITY modeAutomatic.accesskey         "B">
+<!ENTITY modeAutoAddonWarn.label         "Avisa'm si s'inhabilitaran alguns dels meus complements">
+<!ENTITY modeAutoAddonWarn.accesskey     "v">
+<!ENTITY updateHistory.label             "Mostra l'historial d'actualització">
+<!ENTITY updateHistory.accesskey         "h">
+
+<!ENTITY offlineNotify.label             "Avisa'm quan un lloc web demani emmagatzemar dades per a un ús fora de línia">
+<!ENTITY offlineNotify.accesskey         "v">
+<!ENTITY offlineNotifyExceptions.label   "Excepcions…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList.label           "Els llocs web següents tenen dades emmagatzemades per a un ús fora de línia:">
+<!ENTITY offlineAppsList.height          "8em">
+<!ENTITY offlineAppsListRemove.label     "Suprimeix…">
+<!ENTITY offlineAppsListRemove.accesskey "r">
+<!ENTITY offlineAppRemove.confirm        "Suprimeix les dades d'ús en fora de línia">
+
+<!ENTITY encryptionTab.label             "Xifratge">
+
+<!ENTITY protocols.label                 "Protocols">
+<!ENTITY useSSL3.label                   "Utilitza SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Utilitza TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certificats">
+<!ENTITY certSelection.description       "Quan un servidor demani el meu certificat personal:">
+<!ENTITY certs.auto                      "Selecciona'n un automàticament">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "Demana-m'ho cada vegada">
+<!ENTITY certs.ask.accesskey             "g">
+<!ENTITY viewCerts.label                 "Visualitza els certificats">
+<!ENTITY viewCerts.accesskey             "V">
+<!ENTITY viewCRLs.label                  "Llistes de revocació">
+<!ENTITY viewCRLs.accesskey              "r">
+<!ENTITY verify2.label                   "Validació">
+<!ENTITY verify2.accesskey               "i">
+<!ENTITY viewSecurityDevices.label       "Dispositius de seguretat">
+<!ENTITY viewSecurityDevices.accesskey   "D">
+

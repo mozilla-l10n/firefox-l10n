@@ -1,0 +1,15 @@
+
+<!ENTITY search.name.label "nom">
+<!ENTITY search.url.label "ubicació">
+<!ENTITY search.shortcut.label "paraula clau">
+<!ENTITY search.description.label "descripció">
+<!ENTITY search.startswith.label "comença per">
+<!ENTITY search.endswith.label "acaba amb">
+<!ENTITY search.is.label "és">
+<!ENTITY search.isnot.label "no és">
+<!ENTITY search.contains.label "conté">
+<!ENTITY search.doesntcontain.label "no conté">
+<!ENTITY save.query.label "Desa la consulta a la llista d'adreces d'interés">
+<!ENTITY search.for.label "Cerca les adreces d'interès que ">
+<!ENTITY findBookmark.title "Cerca adreces d'interès">
+<!ENTITY findButton.label               "Cerca">

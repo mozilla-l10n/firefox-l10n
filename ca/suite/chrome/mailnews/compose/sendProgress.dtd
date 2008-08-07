@@ -1,0 +1,17 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "S'estan enviant els missatges">
+<!ENTITY titlePrefixSave "S'estan desant els missatges -">
+<!ENTITY titlePrefixSend "S'estan enviant els missatges -">
+<!ENTITY status "Estat:">
+<!ENTITY progress "Progrés:">
+
+<!-- LOCALIZATION NOTE (percentMsg):
+
+    This string is used to format the text to the right of the progress
+    meter.
+
+    #1 will be replaced by the percentage of the file that has been saved -->
+<!ENTITY percentMsg "#1&#037;">
+
+<!ENTITY messageSent "El missatge ha estat enviat">
+<!ENTITY messageSaved "El missatge ha estat desat">

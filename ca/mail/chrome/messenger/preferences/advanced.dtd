@@ -1,0 +1,85 @@
+<!ENTITY itemGeneral.label       "General">
+<!ENTITY itemUpdate.label        "Actualització">
+<!ENTITY itemNetworking.label    "Xarxa i espai de disc">
+<!ENTITY itemCertificates.label  "Certificats">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label "Mostra només el 'Nom a mostrar' per a aquella gent a la meua llibreta d'adreces.">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!ENTITY autoMarkAsRead.label          "Marca els missatges com a llegits automàticament">
+<!ENTITY autoMarkAsRead.accesskey      "a">
+<!ENTITY markAsReadNoDelay.label       "Immediatament en mostrar-los">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "Després de mostrar-los durant">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "segons">
+<!ENTITY showFolderColumns.label "Mostra les columnes expandides a la subfinestra de la carpeta.">
+<!ENTITY showFolderColumns.accesskey   "c">
+<!ENTITY rememberLastMsg.label         "Recorda el darrer missatge seleccionat">
+<!ENTITY rememberLastMsg.accesskey     "d">
+<!ENTITY openMsgIn.label               "Obre els missatges en:">
+<!ENTITY reuseExpRadio0.label          "Una finestra de missatge nova">
+<!ENTITY reuseExpRadio0.accesskey      "f">
+<!ENTITY reuseExpRadio1.label          "Una finestra de missatge ja existent">
+<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY reuseExpRadio2.label          "Una pestanya de missatge nova">
+<!ENTITY reuseExpRadio2.accesskey      "t">
+<!ENTITY connectionTimeout.label       "Temps d'espera de la connexió: ">
+<!ENTITY connectionTimeout.accesskey   "m">
+<!ENTITY connectionSeconds.label       "segons">
+<!ENTITY configEditDesc.label          "Configuració avançada">
+<!ENTITY configEdit.label              "Editor de configuració...">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "Determina com el &brandShortName; gestiona els avisos de rebuda">
+<!ENTITY showReturnReceipts.label      "Avisos de rebuda...">
+<!ENTITY showReturnReceipts.accesskey  "r">
+
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Comprova automàticament les actualitzacions del:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableAddonsUpdate.label       "Complements instaŀlats">
+<!ENTITY enableAddonsUpdate.accesskey   "m">
+<!ENTITY checkNow.label                 "Comprova-ho ara...">
+<!ENTITY whenUpdatesFound.label         "Quan es trobin actualitzacions del &brandShortName;,">
+<!ENTITY modeAskMe.label                "Demana'm què vull fer">
+<!ENTITY modeAskMe.accesskey            "D">
+<!ENTITY modeAutomatic.label            "Baixa i instaŀla automàticament l'actualització">
+<!ENTITY modeAutomatic.accesskey        "B">
+<!ENTITY modeAutoAddonWarn.label        "Avisa'm si s'inhabilitaran alguns dels meus complements">
+<!ENTITY modeAutoAddonWarn.accesskey    "v">
+<!ENTITY showUpdates.label              "Mostra l'historial d'actualització">
+<!ENTITY showUpdates.accesskey          "u">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "Connexió...">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "Determina com el &brandShortName; es connecta a Internet.">
+<!ENTITY connectionsInfo.caption       "Connexió">
+<!ENTITY offlineInfo.caption           "Fora de línia">
+<!ENTITY offlineInfo.label             "Configura els paràmetres de fora de línia">
+<!ENTITY showOffline.label             "Fora de línia...">
+<!ENTITY showOffline.accesskey         "o">
+
+<!ENTITY Diskspace "Espai de disc">
+<!ENTITY offlineCompact.label "Compacta les carpetes quan s'hi desi">
+<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY kb.label "kB">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo2.label        "Gestiona els certificats, les llistes de revocació, la validació de certificats i els dispositius de seguretat.">
+<!ENTITY viewCertificates.label         "Visualitza els certificats">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "Llistes de revocació">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY validation.label               "Validació">
+<!ENTITY validation.accesskey           "d">
+<!ENTITY viewSecurityDevices.label      "Dispositius de seguretat">
+<!ENTITY viewSecurityDevices.accesskey  "u">
+

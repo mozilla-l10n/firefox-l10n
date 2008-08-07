@@ -1,0 +1,18 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY viewPicker.label "Visualitza:">
+<!ENTITY viewPicker.accesskey "i">
+
+<!ENTITY viewAll.label "Tot">
+<!ENTITY viewAll.accesskey "o">
+<!ENTITY viewUnread.label "Per llegir">
+<!ENTITY viewUnread.accesskey "g">
+<!ENTITY viewTags.label "Etiquetes">
+<!ENTITY viewTags.accesskey "t">
+<!ENTITY viewCustomViews.label "Visualitzacions personalitzades">
+<!ENTITY viewCustomViews.accesskey "V">
+<!ENTITY viewVirtualFolder.label "Desa la visualització com una carpeta...">
+<!ENTITY viewVirtualFolder.accesskey "s">
+<!ENTITY viewCustomizeView.label "Personalitza...">
+<!ENTITY viewCustomizeView.accesskey "P">
+

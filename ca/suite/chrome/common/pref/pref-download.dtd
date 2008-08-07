@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title            "Baixades">
+<!ENTITY downloadBehavior.label "En iniciar una baixada">
+<!ENTITY downloadLocation.label         "En desar un fitxer">
+<!ENTITY finishedBehavior.label         "Quan acabi una baixada">
+<!ENTITY openDM.label "Obre el gestor de baixades">
+<!ENTITY openDM.accesskey "b">
+<!ENTITY openProgressDialog.label "Obre un diàleg de progrés">
+<!ENTITY openProgressDialog.accesskey "d">
+<!ENTITY doNothing.label "No obris res">
+<!ENTITY doNothing.accesskey "N">
+<!ENTITY promptDownload.label           "Pregunta la ubicació de baixada i per defecte a">
+<!ENTITY promptDownload.accesskey       "r">
+<!ENTITY lastLocation.label             "Darrera carpeta de baixades">
+<!ENTITY lastLocation.accesskey         "D">
+<!ENTITY specifiedLocation.label        "Carpeta de baixades">
+<!ENTITY specifiedLocation.accesskey    "e">
+<!ENTITY autoDownload.label             "Baixa els fitxers automàticament a la carpeta de baixades definida">
+<!ENTITY autoDownload.accesskey         "a">
+<!ENTITY downloadFolder.label           "Carpeta de baixades actual:">
+<!ENTITY chooseDownloadFolder.label     "Tria la carpeta...">
+<!ENTITY chooseDownloadFolder.accesskey "T">
+<!ENTITY playSound.label                "Reprodueix un so">
+<!ENTITY playSound.accesskey            "s">
+<!ENTITY showAlert.label                "Mostra un avís">
+<!ENTITY showAlert.accesskey            "o">
+<!ENTITY browse.label                   "Navega...">
+<!ENTITY browse.accesskey               "g">
+<!ENTITY preview.label "Previsualitza la imatge">
+<!ENTITY preview.accesskey              "v">
+<!ENTITY soundURL.label                 "URL del so:">
+<!ENTITY soundURL.accesskey             "U">

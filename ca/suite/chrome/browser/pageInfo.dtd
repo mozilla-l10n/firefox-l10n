@@ -1,0 +1,121 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code.
+   -
+   - The Initial Developer of the Original Code is Daniel Brooks.
+   - Portions created by the Initial Developer are Copyright (C) 2001-2004
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
+
+
+<!ENTITY preface "Informació de:">
+
+<!ENTITY title "Informació de la pàgina">
+<!ENTITY description "Informació sobre la pàgina actual">
+<!ENTITY pageInfoWindow.width "425">
+<!ENTITY pageInfoWindow.height "470">
+
+<!ENTITY copy.key "c">
+<!ENTITY  copy.label            "Copia">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Selecciona-ho tot">
+<!ENTITY  selectall.accesskey   "a">
+<!ENTITY closeWindow.key "w">
+
+<!ENTITY generalTab "General">
+<!ENTITY  generalAccesskey      "G">
+<!ENTITY generalTitle "Títol:">
+<!ENTITY generalURL "URL:">
+<!ENTITY generalMode "Mode de representació:">
+<!ENTITY generalType "Tipus:">
+<!ENTITY generalSize "Mida:">
+<!ENTITY generalReferrer "URL referent:">
+<!ENTITY generalSource "Origen:">
+<!ENTITY generalSent "Enviat:">
+<!ENTITY generalModified "Modificat:">
+<!ENTITY generalExpires "Venciment:">
+<!ENTITY generalEncoding "Codificació:">
+<!ENTITY generalMeta "Meta:">
+<!ENTITY generalMetaName "Nom:">
+<!ENTITY generalMetaContent "Contingut">
+
+<!ENTITY formsTab "Formularis">
+<!ENTITY  formsAccesskey        "F">
+<!ENTITY formAction "Acció de formulari">
+<!ENTITY formMethod "Mètode">
+<!ENTITY formName "Nom">
+<!ENTITY formNo "Núm.">
+<!ENTITY formEncoding "Codificació:">
+<!ENTITY formTarget "Objectiu:">
+<!ENTITY formFields "Camps:">
+<!ENTITY formLabel "Etiqueta">
+<!ENTITY formFName "Nom de camp">
+<!ENTITY formType "Tipus">
+<!ENTITY formCValue "Valor actual">
+
+<!ENTITY linksTab "Enllaços">
+<!ENTITY  linksAccesskey        "L">
+<!ENTITY linkNo "Núm.">
+<!ENTITY linkName "Nom">
+<!ENTITY linkAddress "Adreça">
+<!ENTITY linkType "Tipus">
+<!ENTITY linkTarget "Objectiu">
+<!ENTITY linkAccessKey "Clau d'accés">
+
+<!ENTITY mediaTab "Multimèdia">
+<!ENTITY  mediaAccesskey        "M">
+<!ENTITY mediaHeader "Imatges a aquesta pàgina">
+<!ENTITY mediaURL "URL:">
+<!ENTITY mediaBase "URL base:">
+<!ENTITY mediaAlt "Text alternatiu:">
+<!ENTITY mediaAltHeader "Text alternatiu">
+<!ENTITY mediaNo "Núm.">
+<!ENTITY mediaName "Nom">
+<!ENTITY mediaAddress "Adreça">
+<!ENTITY mediaType "Tipus">
+<!ENTITY  mediaCount            "Compte">
+<!ENTITY mediaPlugin "Connector:">
+<!ENTITY mediaCharset "Codificació:">
+<!ENTITY mediaDimensions "Dimensions:">
+<!ENTITY  mediaPhysDimensions   "Dimensions reals:">
+<!ENTITY mediaEncryption "Xifratge:">
+<!ENTITY mediaTitle "Atribut títol:">
+<!ENTITY mediaLongdesc "Atribut longdesc:">
+<!ENTITY mediaSaveAs "Anomena i desa...">
+<!ENTITY mediaSaveAs.accesskey "S">
+<!ENTITY  mediaPreview          "Visualització prèvia dels fitxers multimèdia:">
+
+<!ENTITY framesTab "Marcs">
+<!ENTITY  framesTab.accesskey   "r">
+<!ENTITY frameName "Nom">
+<!ENTITY frameAddress "Adreça">
+<!ENTITY frameType "Tipus">

@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "Adjunta aquesta imatge al missatge">
+<!ENTITY attachImageSource.accesskey     "s">
+
+<!ENTITY attachLinkSource.label          "Adjunta la font d'aquest enllaç al missatge">
+<!ENTITY attachLinkSource.accesskey      "s">

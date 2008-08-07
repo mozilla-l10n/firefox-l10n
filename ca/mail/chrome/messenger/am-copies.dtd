@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Paràmetres de còpia i carpetes">
+<!ENTITY sendingPrefix.label "En enviar missatges, automàticament:">
+<!ENTITY fccMailFolder.label "Deixa'n una còpia a:">
+<!ENTITY fccMailFolder.accesskey "D">
+<!ENTITY fccReplyFollowsParent.label "Deixa les respostes en la carpeta del missatge que es respon">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Trieu una carpeta...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Cco una altra adreça:">
+<!ENTITY bccAddress.accesskey "C">
+<!ENTITY specialFolderTitle.label "Carpetes especials">
+<!ENTITY draftMailFolder.label "Conserva els esborranys a:">
+<!ENTITY templateMailFolder.label "Conserva les plantilles a:">
+<!ENTITY saveMessageDlg.label "Mostra un diàleg de confirmació quan els missatges s'hagin desat">
+<!ENTITY saveMessageDlg.accesskey "s">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Carpeta &quot;Enviat&quot;:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "Altres:">
+<!ENTITY sentInOtherFolder.accesskey "A">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Carpeta &quot;Esborranys&quot;:">
+<!ENTITY draftsFolderOn.accesskey "b">
+<!ENTITY draftInOtherFolder.label "Altres:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Carpeta &quot;Plantilles&quot;:">
+<!ENTITY templatesFolderOn.accesskey "P">
+<!ENTITY templateInOtherFolder.label "Altres:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "Esborranys i plantilles">
+<!ENTITY keepDrafts.label "Conserva els esborranys a:">
+<!ENTITY keepTempltes.label "Conserva les plantilles a:">

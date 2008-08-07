@@ -1,0 +1,150 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Catalan Translation: Projecte Mozilla en català - Softcatalà - http://www.softcatala.org/projectes/mozilla/ -->
+
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title "Llibreta d'adreces">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newCard.label "Targeta de la llibreta d'adreces...">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newCard.accesskey "c">
+<!ENTITY newListCmd.label "Llista de correu...">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey "L">
+<!ENTITY newAddressBookCmd.label "Llibreta d'adreces...">
+<!ENTITY newAddressBookCmd.accesskey "b">
+<!ENTITY renameAddressBookCmd.label                     "Canvia el nom de la llibreta d'adreces..."> 
+<!ENTITY renameAddressBookCmd.accesskey                 "v">  
+<!ENTITY newLDAPDirectoryCmd.label "Directori LDAP...">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey "D">
+<!ENTITY newIM.label "MI">
+<!ENTITY printCardViewCmd.label "Imprimeix la targeta...">
+<!ENTITY printCardViewCmd.accesskey "p">
+<!ENTITY printPreviewCardViewCmd.label "Exemple d'impressió de la targeta	">
+<!ENTITY printPreviewCardViewCmd.accesskey "t">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
+<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printAddressBook.label "Imprimeix la llibreta d'adreces...">
+<!ENTITY printAddressBook.accesskey "a">
+<!ENTITY printPreviewAddressBook.label "Exemple d'impressió de la llibreta d'adreces	">
+<!ENTITY printPreviewAddressBook.accesskey "b">
+<!ENTITY printSetupCmd.label "Configuració de la pàgina...">
+<!ENTITY printSetupCmd.accesskey "g">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label "Suprimeix la llibreta d'adreces">
+<!ENTITY deleteCardCmd.label "Suprimeix la targeta">
+<!ENTITY deleteCardsCmd.label "Suprimeix les targetes seleccionades">
+<!ENTITY deleteListCmd.label                            "Suprimeix la llista">
+<!ENTITY deleteListsCmd.label                           "Suprimeix les llistes seleccionades">
+<!ENTITY deleteItemsCmd.label                           "Suprimeix els elements seleccionats">
+<!ENTITY swapFirstNameLastNameCmd.label "Intercanvia el nom i el cognom">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "v">
+<!ENTITY propertiesCmd.label "Propietats...">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.key "i">
+
+<!-- View Menu -->
+<!ENTITY showAbToolbarCmd.label "Barra de la llibreta d'adreces">
+<!ENTITY showAbToolbarCmd.accesskey "r">
+
+<!ENTITY showCardPane.label "Subfinestra de la targeta">
+<!ENTITY showCardPane.accesskey "b">
+  
+<!ENTITY menu_ShowNameAs.label "Mostra el nom com a">
+<!ENTITY menu_ShowNameAs.accesskey "n">
+<!ENTITY firstLastCmd.label "Nom Cognom">
+<!ENTITY firstLastCmd.accesskey "N">
+<!ENTITY lastFirstCmd.label "Cognom, Nom">
+<!ENTITY lastFirstCmd.accesskey "C">
+<!ENTITY displayNameCmd.label "Nom a mostrar">
+<!ENTITY displayNameCmd.accesskey "m">
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label "Importa...">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Exporta...">
+<!ENTITY exportCmd.accesskey "E">
+<!ENTITY allowOnlineCheck.label                         "Comprova la presència en línia (AOL)">
+<!ENTITY allowOnlineCheck.accesskey                     "C">
+
+<!ENTITY stopSearchingCmd.label                         ".Atura la cerca"> 
+
+<!-- Toolbar and Popup items -->  
+<!ENTITY newcardButton.label "Nova targeta">
+<!ENTITY newcardButton.accesskey "N">
+<!ENTITY newlistButton.label "Nova llista">
+<!ENTITY newlistButton.accesskey "l">
+<!ENTITY editButton.label "Propietats">
+<!ENTITY editButton.accesskey "P">
+<!ENTITY newmsgButton.label "Redacta">
+<!ENTITY newmsgButton.accesskey "e">
+<!ENTITY deleteButton.label "Suprimeix">
+<!ENTITY deleteButton.accesskey "u">
+<!ENTITY newimButton.label                              "Missatge instantani">  
+<!ENTITY newimButton.accesskey                          "i">  
+<!ENTITY stopButton.label "Atura">
+<!ENTITY searchButton.label                             ".Cerca">  
+<!ENTITY showNames.label                                "Mostra els noms que continguin:">  
+
+<!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip                     "Barra de la llibreta d'adreces">
+<!ENTITY newcardButton.tooltip "Crea una nova targeta de llibreta d'adreces">
+<!ENTITY newlistButton.tooltip "Crea una nova llista">
+<!ENTITY editButton.tooltip "Edita la targeta seleccionada">
+<!ENTITY newmsgButton.tooltip "Crea un nou missatge">
+<!ENTITY newIM.tooltip "Envia un missatge instantani o fa un xat">
+<!ENTITY deleteButton.tooltip "Suprimeix la targeta o llibreta d'adreces seleccionada">
+<!ENTITY stopButton.tooltip                             "Atura la transferència actual"> 
+<!ENTITY searchButton.tooltip                           "Cerca la llibreta d'adreces seleccionada"> 
+<!ENTITY throbber.tooltip "Vés a la pàgina inicial del &vendorShortName;">
+<!ENTITY clearButton.tooltip "Neteja el criteri de cerca i mostra totes les entrades">
+<!ENTITY advancedButton.tooltip "Cerca d'adreces avançada">
+
+<!-- Status Bar -->  
+<!ENTITY statusText.label "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "false">

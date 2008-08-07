@@ -1,0 +1,19 @@
+
+<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+<!ENTITY messengerCmd.label "Missatgeria">
+<!ENTITY messengerCmd.accesskey "r">
+<!ENTITY messengerCmd.commandkey "2">
+<!ENTITY addressBookCmd.label "Llibreta d'adreces">
+<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.commandkey "5">
+
+<!ENTITY taskMessenger.tooltip "Missatgeria">
+<!ENTITY taskAddressBook.tooltip "Llibreta d'adreces">
+
+<!-- searchAddressesCmd is also used by addressbook -->
+<!ENTITY searchAddressesCmd.label "Cerca les adreces...">
+<!ENTITY searchAddressesCmd.accesskey "A">
+
+<!ENTITY searchMailCmd.label "Cerca missatges...">
+<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.key "f">

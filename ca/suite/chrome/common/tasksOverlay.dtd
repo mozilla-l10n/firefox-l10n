@@ -1,0 +1,40 @@
+<!-- extracted from tasksOverlay.xul -->
+<!-- LOCALIZATION NOTE (navigatorCmd.label): DONT_TRANSLATE -->  
+<!ENTITY navigatorCmd.label "Navegador">
+<!ENTITY navigatorCmd.accesskey "n">
+<!ENTITY navigatorCmd.commandkey "1">
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label "Redactor">
+<!ENTITY editorCmd.accesskey "c">
+<!ENTITY editorCmd.commandkey "4">
+
+<!ENTITY securityInfoCmd.label ".Informació de seguretat">
+<!ENTITY securityInfoCmd.accesskey "s">
+<!ENTITY javaConsoleCmd.label "Consola de Java">
+<!ENTITY javaConsoleCmd.accesskey "j">
+
+<!ENTITY errorConsoleCmd.label "Consola d'errors">
+<!ENTITY errorConsoleCmd.accesskey "C">
+
+<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
+<!ENTITY privacyMenu.label "Privadesa i seguretat">
+<!ENTITY privacyMenu.accesskey "p">
+
+<!ENTITY taskNavigator.tooltip "Navegador">
+<!ENTITY taskComposer.tooltip "Redactor">
+<!ENTITY taskBar.tooltip "Barra d'estat">
+
+<!ENTITY webDevelopment.label "Desenvolupament web">
+<!ENTITY webDevelopment.accesskey "W">
+
+<!ENTITY windowMenu.label "Finestra">
+<!ENTITY windowMenu.accesskey "N">
+
+<!ENTITY tasksMenu.label "Tasques">
+<!ENTITY tasksMenu.accesskey "t">
+
+<!ENTITY downloadManagerCmd.label "Gestor de baixades">
+<!ENTITY downloadManagerCmd.accesskey "D">
+
+<!ENTITY switchProfileCmd.label "Commuta el perfil...">
+<!ENTITY switchProfileCmd.accesskey "p">

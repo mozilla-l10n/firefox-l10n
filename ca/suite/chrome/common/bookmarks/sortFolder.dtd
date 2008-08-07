@@ -1,0 +1,20 @@
+<!ENTITY window.title "Ordena la carpeta">
+
+<!ENTITY sortOptions.label "Opcions d'ordenació">
+<!ENTITY description.label "El &brandShortName; pot ordenar carpetes individuals. Utilitzeu aquestes opcions per personalitzar l'ordenació d'aquesta carpeta.">
+
+<!ENTITY sortBy.label "Ordena per:">
+<!ENTITY sortBy.name.label "Nom">
+<!ENTITY sortBy.url.label "Ubicació">
+<!ENTITY sortBy.shortcutUrl.label "Paraula clau">
+<!ENTITY sortBy.description.label "Descripció">
+<!ENTITY sortBy.bookmarkAddDate.label "Afegit">
+<!ENTITY sortBy.lastModifiedDate.label "Darrera modificació">
+<!ENTITY sortBy.lastVisitDate.label "Visitada per darrer cop el">
+
+<!ENTITY sortOrder.label "Tipus d'ordenació:">
+<!ENTITY sortOrder.ascending.label "A > Z">
+<!ENTITY sortOrder.descending.label "Z > A">
+
+<!ENTITY sortFoldersFirst.label "Ordena primer les carpetes">
+<!ENTITY sortRecursively.label "Ordena de manera recursiva">

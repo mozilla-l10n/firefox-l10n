@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+  Xavi Ivars <xavi.ivars@gmail.com> - Softcatalà (translator)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Característiques d'accessibilitat del &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Característiques d'accessibilitat del &brandFullName;</h1>
+
+  <p>&brandShortName; inclou moltes característiques per a fer el navegador i el 
+    contingut web accessible a tots els usuaris, fins i tot aquells que tenen problemes
+    de vista, o una capacitat limitada per a utilitzar el teclat o el ratolí.</p>
+
+  <div class="contentsBox">En aquesta secció:
+    <ul>
+    <li><a href="#using_a_keyboard">Utilització del teclat</a></li>
+    <li><a href="#using_a_mouse">Utilització el ratolí</a></li>
+    <li><a href="#fonts_and_colors">Tipus de lletra i colors</a></li>
+    <li><a href="#controlling_web_content">Control del contingut web</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Compatibilitat amb
+      tecnologies assistives</a></li>
+    <li><a href="#finding_help_online">Ajuda en línia</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Utilització del teclat</h2>
+
+  <h3 id="keyboard_shortcuts">Utilització de les dreceres de teclat</h3>
+
+  <p>Una llista de les dreceres de teclat més comunes es troba a disponible en
+    <a href="shortcuts.xhtml">dreceres de teclat del &brandShortName;</a>.
+    En línia, podeu trobar <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">una comparació de 
+    les dreceres de teclat </a> implementades al &brandShortName;,
+    al Microsoft Internet Explorer, i a l'Opera.</p>
+
+  <h3 id="always_use_cursor_keys">Utilitzar sempre les tecles del cursor per a navegar en
+    les pàgines</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Utilitza sempre les tecles del cursor per a navegar en les pàgines</a> us permet moure-us per dins del contingut de la web
+    com si es trobéssiu dins d'un editor de només lectura.
+    Podeu utilitzar el teclat per a seleccionar contingut de la web i copiar-lo al
+    portaretalls.  Podeu habilitar aquesta característica seleccionant &pref.menuPath;,
+    obrint la pestanya <em>General</em> al quadre <em>Avançat</em>,
+    i seleccionant la &pref.singular; <em>Utilitza sempre les tecles del cursor per a navegar en les pàgines</em>.</p>
+
+  <p>Podeu prémer <kbd>F7</kbd> en qualsevol moment per tal d'habilitar o inhabilitar
+    aquesta característica. Quan premeu <kbd>F7</kbd>, el &brandShortName; us preguntarà
+    si realment voleu habilitar la característica. Podeu inhabilitar aquest dialeg de 
+    confirmació seleccionant <em>No em tornis a mostrar aquest quadre de diàleg.</em></p>
+
+  <h3 id="find_as_you_type">Cerca d'un text quan es comença a teclejar</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Cerca un text quan comenci a teclejar</a>
+    us permet navegar ràpidament fins al text o els hiperenllaços a la pàgina web.
+    Aquesta característica té dos modes de funcionament. Premeu
+    <abbr title="forward slash"><kbd>/</kbd></abbr> i comenceu a teclejar per a cercar
+    sobre tot el text de la pàgina actual, o premeu
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> abans de la vostra cadena per a cercar només  
+    sobre els hiperenllaços. El &brandShortName; us remarcarà el text o els hiperenllaços 
+    coincidents a mesura que teclegeu..</p>
+
+  <p>Les següents dreceres de teclat controlen aquesta característica:</p>
+
+  <ul>
+    <li>Teclegeu més caràcters per a afinar la vostra cerca. El &brandShortName;
+      us remarcarà el següent text o hiperenllaç coincident o us alertarà que no hi 
+      ha coincidències.</li>
+    <li>Premeu &accelKey;+<kbd>G</kbd> o <kbd>F3</kbd> per a cercar la següent coincidència
+      de la vostra cadena de cerca actual.</li>
+    <li>Premeu &accelKey;+&shiftKey;+<kbd>G</kbd> o &shiftKey;+<kbd>F3</kbd>
+      per a cercar la coincidència anterior de la vostra cadena de cerca actual.</li>
+    <li>Premeu <kbd>Backspace</kbd> per a desfer l'últim caràcter que heu escrit.
+      El &brandShortName; tornarà al text remarcat prèviament.</li>
+    <li>Premeu <kbd>Esc</kbd> per a canceŀlar la cerca. També podeu cancelar la cerca
+      cambiant el fòcus del ratolí, baixant la pàgina amb el ratolí o teclat, o senzillament esperant 
+      un poc de temps.</li>
+  </ul>
+
+  <p>Podeu canviar el comportament predeterminat d'aquesta característica si seleccioneu
+    &pref.menuPath;, obriu la pestanya <em>General</em> del quadre 
+    <em>Avançat</em>, i marqueu la &pref.singular; <em>Cerca un text quan comenci a teclejar</em>.
+    Si aquesta &pref.singular; està marcada, podeu comencar a teclejar en qualsevol moment
+    per a començar automàticament una cerca en línia. Per defecte, les cerques que comencen automàticament
+    actuen sobre tots els textos de la pàgina. Podeu prémer explicitament
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> o
+    <abbr title="forward slash"><kbd>/</kbd></abbr> per a començar a cercar d'una manera o d'una altra.</p>
+
+  <p>Podeu utilitzar aquesta característica per a arribar a botons, caixes de text i altres 
+    controls de formulari. Cerqueu el text que es troba just abans del control de formulari 
+    que vulgueu i premeu <kbd>Tab</kbd>. Si premeu <kbd>Tab</kbd> automàticament ixireu de 
+    la cerca, i el fòcus es posicionarà sobre el següent camp de formulari o botó 
+    després del text remarcat.</p>
+
+  <h2 id="using_a_mouse">Utilització del ratolí</h2>
+
+  <h3 id="common_mouse_shortcuts">Dreceres més comunes del ratolí</h3>
+
+  <p>Una llista de les dreceres del ratolí més comunes la podeu trobar a 
+    <a href="mouse_shortcuts.xhtml">Dreceres del ratolí del &brandShortName;</a>.</p>
+
+  <h2 id="fonts_and_colors">Tipus de lletra i colors</h2>
+
+  <h3 id="overriding_page_fonts">Substitució dels tipus de lletra de la pàgina</h3>
+
+  <p>Alguns llocs web mostren textos en tipus de lletra difícils de llegir,
+    i alguns altres llocs utilitzen els tipus de lletra predeterminats del navegador.
+    Podeu establir els vostres tipus de lletra predeterminads si aneu a &pref.menuPath; i seleccioneu
+    el quadre <em>Contingut</em>, i després seleccioneu el tipus de lletra i la mida predeterminada a
+    la secció de <em>Tipus de lletra i Colors</em>.</p>
+
+  <p>Podeu especificar tipus de lletra predeterminats per a diferents estils, incloent serif,
+    sans-serif, i monospace fent clic al botó d'<em>Avançat</em>.
+    De tota manera, moltes pàgines web especifiquen els seus tipus de lletra propis, per la qual cosa
+    la vostra elecció no tindrà efecte en aquestes pàgines. Per a sobreescriure els tipus de lletra definits
+    per a aqueixes pàgines, desseleccioneu la &pref.singular; <em>Permet a les pàgines mostrar els tipus de lletra propis, 
+    en comptes dels predeterminats</em>.</p>
+
+  <p>Tingueu en compte que algunes pàgines web poden visualitzar-se incorrectament segons la vostra
+    elecció de tipus de lletra predeterminada.</p>
+
+  <h3 id="setting_a_minimum_font_size">Establiment d'una mida de text mínima</h3>
+
+  <p>Alguns llocs web poden mostrar text que és massa menut per a llegir-lo 
+    còmodament. Per a facilitar la lectura d'aquestes pàgines, podeu establir
+    una mida de text mínima. A les pàgines on hi hagi textos més menuts que aquesta mida, 
+    el &brandShortName; augmentarà el text fins a la mida que hàgiu triat.</p>
+
+  <p>Per a establir la mida mínima del text, aneu a &pref.menuPath; i seleccioneu el quadre
+    <em>Contingut</em>, i després feu clic al botó d'<em>Avançat</em> de la secció
+    <em>Tipus de lletra i Colors</em>. Podeu especificar la mida de text mínima al menú desplegable.</p>
+
+  <p>Tingueu en compte que algunes pàgines es poden visualitzar incorrectament 
+  segons la mida de text mínima que hagueu escollit.</p>
+
+  <h3 id="resizing_page_text">Canvi de la mida del text de la pàgina</h3>
+
+  <p>Podeu canviar temporalment la mida del text de qualsevol pàgina al menú
+    <span class="menuPath">Visualitza &gt; Mida del text</span>. La nova mida
+    es mantindrà fins que tanqueu la finestra o pestanya del navegador
+    fins i tot si canvieu de lloc web.</p>
+
+  <p>Les següents dreceres de teclat controlen la mida del text:</p>
+
+  <ul>
+    <li>Premeu &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> per a
+      augmentar la mida del text.  Açò redimensiona el text a un 120% de la mida original,
+      després a un 150%, 200%, 300%, 450%, 675%, 1013%, i 1519%.</li>
+    <li>Premeu &accelKey;+<kbd><abbr title="minus">-</abbr></kbd> per a
+      disminuir la mida del text. Açò redimensiona el text a un 90% de la mida original,
+      després a un 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2%, i 1%.</li>
+    <li>Premeu &accelKey;+<kbd>0</kbd> per a restablir la mida del text a la mida predeterminada de la pàgina.</li>
+  </ul>
+
+  <p>Tingueu en compte que que algunes pàgines es poden visualitzar incorrectament si augmenteu o
+     disminuïu la mida del text.</p>
+
+  <h3 id="overriding_page_colors">Substitució dels colors de la pàgina</h3>
+
+  <p>Alguns llocs web mostren el text i els colors de fons de forma que resulta difícil de llegir,
+    i altres llocs utilitzen els colors predeterminats del navegador. Podeu establir els colors
+    prederminats si aneu a &pref.menuPath;, seleccioneu el quadre 
+    <em>Contingut</em> i feu clic al botó <em>Colors</em>
+    de la secció <em>Tipus de lletra i Colors</em>. Podeu establir els colors
+    de text i de fons predeterminats, així com els colors predeterminats per als 
+    hiperenllaços visitats i no visitats. També podeu indicar si els hiperenllaços s'han de mostrar subratllats.</p>
+
+  <p>De tota manera, moltes pàgines estableixen els seus propis colors, de manera que les vostres preferències
+    no tindràn efecte. Per a substituir els colors definits per les pàgines web, desseleccioneu
+    la &pref.singular; <em>Permet a les pàgines triar els colors propis, 
+    en comptes dels predeterminats</em>.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Utilització d'un tema d'alt contrast</h3>
+
+    <p>El &brandShortName; detecta automàticament si esteu utilitzant un tema d'alt contrast,
+      i ho mostra tot seguint el vostre esquema de color d'alt contrast.
+      Açò substitueix totes les altres preferències (del navegador o de la pàgina web), i 
+      afecta la pròpia interfície del &brandShortName; (tots els menús, finestres
+      caixes de diàleg) i el contingut de qualsevol pàgina web que visiteu.</p>
+
+    <p class="win">Per a utilitzar un tema d'alt contrast, aneu a
+      <span class="menuPath">Menú Inicia &gt; Tauler de Control &gt;
+      Opcions d'accessibilitat &gt; Visualització</span> i marqueu la 
+      &pref.singular; <em>Utilitza l'alt contrast</em>.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Control del contingut de la web</h2>
+
+  <h3 id="blocking_popup_windows">Blocatge de les finestres emergents</h3>
+
+  <p>Llegiu <a href="popup.xhtml">Control de les finestres emergents</a> per a obtenir més informació
+    relativa a com blocar les finestres emergents.</p>
+
+  <h3 id="turning_off_java_applets">Desactivació de les miniaplicacions de Java</h3>
+
+  <p>Algunes pàgines web proporcionen una experiència amb molta interactivitat mitjançant miniaplicacions de Java&trade;.
+    De tota manera, aquells usuaris que basen llur navegació en el teclat poden
+    tenir problemes amb algunes miniaplicacions de Java que agafen el focus automàticament, i no aporten cap manera per a 
+    <q>eixir</q> de la miniaplicació i navegar per la resta de la pàgina web. Si açò és un problema, podeu inhabilitar el
+    Java si aneu a &pref.menuPath;, seleccioneu <em>Contingut</em> i desmarqueu la &pref.singular; 
+    <em>Habilita el Java</em>.</p>
+
+  <h3 id="restricting_javascript_behavior">Restricció del comportament de JavaScript</h3>
+
+  <p>Podeu inhabilitar totalment el JavaScript si aneu a &pref.menuPath;,
+    i dins del quadre <em>Contingut</em> desmarqueu <em>Habilita el JavaScript</em>.  
+    Algunes pàgines web necessiten JavaScript i potser que no funcionin correctament si
+    es troba desactivat.</p>
+
+  <p>Si no voleu inhabilitar-lo totalment, també podeu configurar certes
+    característiques avançades del JavaScript per a restringir el comportament
+    d'algunes pàgines. Just al costat de la preferència <em>Habilita el JavaScript</em>,
+    feu clic al botó <em>Avançat</em> per a obrir la finestra de <em>Paràmetres avançats del JavaScript</em>. 
+    Podeu controlar quins scripts tenen permès moure o redimensionar finestres existents, 
+    així com aixecar o abaixar finestres, inhabilitar o substituir menús contextuals, amagar la barra d'estat
+    o canviar el text que hi ha en ella.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Compatibilitat amb tecnologies assistives</h2>
+
+  <p>L'última informació relativa a la compatibilitat amb tecnologies assistives de tercers
+    es troba en línia a
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Mozilla Accessible: 
+    Compatibilitat amb tecnologies assistives</a>.</p>
+
+  <h2 id="finding_help_online">Ajuda en línia</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific mantenen un nombre elevat de
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">llistes 
+    de correu per a usuaris de JAWS</a>.</p>
+
+    <p>GW Micro manté 
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">llistes de correu
+      per a usuaris de Window Eyes</a>.</p>
+  </div>
+
+  <p><span class="win">També</span> podeu formular preguntes sobre l'accessibilitat en el 
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">Fòrum 
+    d'ajuda del &brandShortName;</a>.</p>
+
+  <div class="contentsBox"><em>29 d'agost del 2006</em></div>
+
+  <p>Copyright &copy; &copyright.years; Coŀlaboradors del projecte d'ajuda de Mozilla.</p>
+
+</body>
+</html>

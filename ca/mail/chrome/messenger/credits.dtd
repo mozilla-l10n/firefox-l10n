@@ -1,0 +1,46 @@
+<!ENTITY credit.title     "Crèdits del &brandFullName;">
+<!ENTITY brandMotto "Endavant els Thunderbirds!">
+<!ENTITY credit.leads "Caps d'enginyeria">
+<!ENTITY credit.core "Desenvolupament central">
+<!ENTITY credit.gecko "Motor de format Gecko">
+<!ENTITY credit.thanks "Agraïments especials per a">
+
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation 
+"<h3>Traducció</h3>
+ <ul>
+ <li><i><a href='http://www.softcatala.org'>Softcatalà</a></i></li>
+ </ul>
+ <ul>
+ <li>Ernest Adrogué</li>
+ <li>Hèctor Batalla</li>
+ <li>Ermengol Bota</li>
+ <li>Pau Cabot</li>
+ <li>Antoni Camon</li>
+ <li>Toni Hermoso</li>
+ <li>Xavi Ivars</li>
+ <li>Quico Llach</li>
+ <li>Jordi Mas</li>
+ </ul>">
+
+<!ENTITY credit.visuals "Coordinador de disseny visual">
+<!ENTITY credit.theme "Disseny del tema">
+<!ENTITY credit.brand "Identitat de marca">
+<!ENTITY credit.web "Disseny web">
+<!ENTITY credit.update "Mozilla Update">
+<!ENTITY credit.qalead "Cap de gestió de qualitat">
+<!ENTITY credit.qa "Gestió de qualitat">
+<!ENTITY credit.build "Versió">
+<!ENTITY credit.infra "Infraestructures de suport">
+<!ENTITY credit.support "Recursos de suport">
+<!ENTITY credit.manage "Gestió del projecte">
+<!ENTITY credit.marketleads "Caps de màrqueting">
+<!ENTITY credit.market "Màrqueting">
+<!ENTITY credit.creators "Creat per">
+<!ENTITY credit.memory "En record de">
+<!ENTITY credit.poweredByGecko "Funciona amb Gecko&trade;">

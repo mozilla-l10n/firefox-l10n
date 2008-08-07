@@ -1,0 +1,52 @@
+<!ENTITY window.title "Regles de filtratge">
+<!ENTITY subject.label "assumpte">
+<!ENTITY sender.label "remitent">
+<!ENTITY date.label "data">
+<!ENTITY anyText.label "qualsevol text">
+<!ENTITY keyword.label "paraula clau">
+<!ENTITY age.label "antiguitat en dies">
+<!ENTITY to.label "per a">
+<!ENTITY size.label "mida">
+
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+<!ENTITY cc.label "CC">
+
+<!ENTITY status.label "estat">
+<!ENTITY priority.label "prioritat">
+<!ENTITY body.label "cos">
+<!ENTITY contains.label "conté">
+<!ENTITY nocontains.label "no conté">
+<!ENTITY watchThread.label "Vigila la cadena">
+<!ENTITY forwardTo.label "Reenvia-ho a">
+<!ENTITY replyWithTemplate.label "Reenvia-ho amb plantilla">
+<!ENTITY filterName.label "Nom del filtre:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Correu brossa">
+<!ENTITY notJunk.label "Correu legítim">
+
+<!ENTITY lowestPriorityCmd.label "Mínima">
+<!ENTITY lowPriorityCmd.label "Baixa">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY highPriorityCmd.label "Alta">
+<!ENTITY highestPriorityCmd.label "Màxima">
+
+<!ENTITY conditionDesc.label "Per als missatges d'entrada que coincideixin amb:">
+<!ENTITY filterActionDesc.label "Realitza les següents accions:">
+<!ENTITY filterActionDesc.accesskey "z">
+
+<!ENTITY newFolderButton.label "Carpeta nova...">
+<!ENTITY newFolderButton.accesskey "n">
+
+<!ENTITY moveMessage.label "Mou el missatge a">
+<!ENTITY copyMessage.label "Copia el missatge a">
+<!ENTITY markMessageRead.label "Marca'l com a llegit">
+<!ENTITY markMessageStarred.label "Marca'l amb un senyalador">
+<!ENTITY labelMessage.label "Etiqueta el missatge com">
+<!ENTITY setPriority.label "Defineix la prioritat a">
+<!ENTITY addTag.label "Etiqueta el missatge">
+<!ENTITY setJunkScore.label "Especifica l'estat del correu brossa com a">
+<!ENTITY deleteMessage.label "Suprimeix el missatge">
+<!ENTITY deleteFromPOP.label "Suprimeix-lo del servidor POP">
+<!ENTITY fetchFromPOP.label "Baixa'l del servidor POP ">
+<!ENTITY ignoreThread.label "Ignora la cadena">

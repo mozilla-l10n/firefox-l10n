@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+  Joan Sala Soler <joansala@gmail.com> (l10n)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Navegació per pestanyes</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Navegació per pestanyes</h1>
+
+<p>La navegació per mitjà de pestanyes us permet obrir diverses pestanyes, en
+  cadascuna de les quals es mostra una pàgina web, dins d'una sola finestra del
+  &brandShortName;. Podeu obrir els enllaços en pestanyes noves, a on es
+  carregaran mentre llegiu la pàgina actual. Si ho preferiu no cal que utilitzeu
+  la navegació per mitjà de pestanyes però si ho feu descobrireu que és una
+  manera millor i més ràpida de navegar pel web.</p>
+
+<div class="contentsBox">En aquesta secció:
+  <ul>
+    <li><a href="#creating_loading_tabs">Crear i carregar pestanyes</a></li>
+    <li><a href="#moving_tabs">Moure les pestanyes per la finestra</a></li>
+    <li><a href="#closing_tabs">Tancar les pestanyes</a></li>
+    <li><a href="#customizing">Personalitzar la navegació per pestanyes</a></li>
+    <li><a href="#tips_tricks">Consells útils</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_loading_tabs">Crear i carregar pestanyes</h2>
+
+<p>Per a obrir una nova pestanya premeu &accelKey;+<kbd>T</kbd>, seleccioneu <span
+  class="menuPath">Fitxer &gt; Nova pestanya</span> o feu un doble clic en un espai
+  buit de la barra de pestanyes.</p>
+
+<p>Per a carregar un enllaç en una pestanya, podeu triar una de les següents opcions:</p>
+
+<ul>
+  <li>Feu un clic en l'enllaç amb el botó central. (Si teniu un ratolí amb roda, fer un clic
+   amb la roda és equivalent a fer-lo amb el botó central.)</li>
+  <li>Arrossegueu l'enllaç i deixeu-lo anar en un espai buit de la barra de
+   pestanyes. (Si només teniu oberta una pàgina web, pot ser que la barra de
+   pestanyes estigui amagada. Vegeu <a href="#customizing">com personalitzar la
+   navegació per pestanyes</a> per a trobar informació sobre com canviar-ho).</li>
+  <li>Arrossegueu l'enllaç i deixeu-lo anar en una pestanya per a obrir-lo en aquella pestanya.</li>
+  <li><span class="noMac">Feu un clic amb el botó dret</span><span class="mac">Premeu &ctrlKey;,
+    feu un clic</span> en l'enllaç, i trieu l'opció del menú contextual <span
+    class="menuPath">Obre l'enllaç en una nova pestanya</span>.</li>
+</ul>
+
+<p>Per tal d'obrir un URL que es trobi a la barra d'ubicació en una pestanya,
+  introduïu l'URL i premeu &altKey;+&enterKey;.</p>
+
+<h2 id="moving_tabs">Moure les pestanyes per la finestra</h2>
+
+<p>Les pestanyes es mostren en l'ordre en el que les obriu, la qual cosa no
+  serà sempre el que voleu. Per a moure una pestanya cap a una ubicació diferent
+  d'una finestra del &brandShortName;, senzillament arrossegueu-la utilitzant
+  el ratolí. Mentre esteu arrossegant la pestanya, el &brandShortName; visualitza
+  un petit indicador per a mostrar a on es mourà la pestanya. Si ho preferiu
+  també podeu utilitzar les <a href="shortcuts.xhtml#windows_tabs">dreceres del
+  teclat</a> per a moure les pestanyes per la finestra.</p>
+
+<h2 id="closing_tabs">Tancar i restaurar pestanyes</h2>
+
+<p>Per tal de tancar la pestanya actual, premeu &accelKey;+<kbd>W</kbd>, feu clic en
+  el botó Tanca la pestanya, feu clic amb el botó central en la pestanya o
+  seleccioneu <span class="menuPath">Fitxer &gt; Tanca la pestanya</span>. 
+  Per a tancar totes les pestanyes excepte l'actual <span class="noMac">feu clic
+  amb el botó dret</span><span class="mac">mantingueu el botó &ctrlKey; mentre
+  feu clic</span> en la pestanya i trieu <span class="menuPath">Tanca les
+  altres pestanyes</span>.</p>
+
+<p>La finestra del &brandShortName; conserva una llista de les pestanyes que heu tancat recentment. Podeu
+  restaurar qualsevol pestanya seleccionant-la de <span class="menuPath">Historial &gt;
+  Pestanyes tancades recentment</span>. Podeu restaurar-les totes seleccionant <span
+  class="menuPath">Historial &gt; Pestanyes tancades recentment &gt; Obre-ho tot en pestanyes
+  </span>. Premeu &accelKey;+&shiftKey;+<kbd>T</kbd> per a obrir-les una per una en
+  odre invers.</p>
+
+<h2 id="customizing">Personalitzar la navegació per pestanyes</h2>
+
+  <p>Per a configurar la navegació per mitjà de pestanyes, seleccioneu &pref.menuPath;
+    i obriu el quadre <a href="prefs.xhtml#tabs_options"><em>Pestanyes</em></a>.</p>
+
+<h2 id="tips_tricks">Consells útils</h2>
+
+<dl>
+
+  <dt id="bookmarking_tabbed_browsing">Les adreces d'interès i la navegació per pestanyes</dt>
+  <dd>Per tal d'afegir un grup de pestanyes a les adreces d'interès:</dd>
+  <dd>
+    <ol>
+      <li>Premeu &accelKey;+<kbd>D</kbd> o seleccioneu <span
+        class="menuPath">Adreces d'interès &gt; Afegeix la pàgina a les
+        adreces d'interès</span>.</li>
+      <li>Marqueu el quadre de verificació <em>Afegeix totes les pestanyes
+        a una carpeta de les adreces d'interès</em> per a emmagatzemar totes
+        les pestanyes de la finestra actual a una carpeta de les adreces
+        d'interès.</li>
+      <li>Per a obrir les adreces d'interès en pestanyes, obriu el menú d'una carpeta
+        de les adreces d'interès i trieu <span class="menuPath">Obre en pestanyes</span>.
+        També podeu clicar amb el botó central a la carpeta per a obrir-ne el
+        contingut en pestanyes. Les adreces d'interès s'obriran en les pestanyes
+        existents en comptes de fer-ho en pestanyes noves.</li>
+    </ol>
+  </dd>
+
+  <dt id="home_page_as_tabs">La pàgina d'inici i les pestanyes</dt>
+  <dd>En lloc d'utilitzar una sola pàgina com a pàgina d'inici podeu fer que
+    la vostra pàgina d'inici sigui un grup de pestanyes. Seleccioneu els vostres
+    llocs web favorits i obriu-los en pestanyes en una mateixa finestra.
+    Seleccioneu &pref.menuPath; i obriu el quadre <a
+    href="prefs.xhtml#main_options"><em>Principal</em></a>. A la secció
+    <em>Inici</em> premeu el botó <em>Utilitza les pàgines actuals</em>.
+    Aleshores, quan premeu el botó Pàgina d'inici, els vostres llocs
+    web favorits s'obriran només amb un clic.</dd>
+
+  <dt>Com afegir a la barra d'eines el botó Nova pestanya</dt>
+  <dd>Podeu afegir el botó Nova pestanya a la barra d'eines per a obrir
+    pestanyes noves més fàcilment <a
+    href="customization.xhtml#rearranging_toolbar_items">personalitzant
+    la barra d'eines</a>.</dd>
+
+  <dt id="keyboard_shortcuts">Dreceres del teclat</dt>
+  <dd>El &brandShortName; té un ampli conjunt de dreceres del teclat relacionades
+    amb la navegació per pestanyes; vegeu-ne el llistat complet a la secció <a
+    href="shortcuts.xhtml#windows_tabs">Dreceres del teclat</a>.</dd>
+
+</dl>
+
+<div class="contentsBox"><em>12 de setembre del 2006</em></div>
+<p>Copyright &copy; &copyright.years; Coŀlaboradors del projecte d'ajuda de Mozilla.</p>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "S'estan baixant els certificats">
+<!ENTITY info.message "S'estan cercant certificats dels destinataris al directori. Això pot trigar uns minuts. ">
+<!ENTITY stop.label "Atura la cerca">

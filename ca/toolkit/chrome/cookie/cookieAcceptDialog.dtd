@@ -1,0 +1,19 @@
+<!ENTITY props.name.label "Nom:	">
+<!ENTITY props.value.label "Informació">
+<!ENTITY props.domain.label "Ordinador central:">
+<!ENTITY props.path.label "Camí">
+<!ENTITY props.secure.label "Servidor segur:">
+<!ENTITY props.expires.label "Venciment:">
+<!ENTITY props.policy.label "Normes d'ús:">
+
+<!ENTITY button.allow.label "Permet">
+<!ENTITY button.allow.accesskey "P">
+<!ENTITY button.session.label "Permet per a aquesta sessió">
+<!ENTITY button.session.accesskey "s">
+<!ENTITY button.deny.label "Denega">
+<!ENTITY button.deny.accesskey "D">
+
+<!ENTITY dialog.title "Confirmeu">
+<!ENTITY dialog.remember.label "Utilitza la meua elecció per a totes les galetes d'aquest lloc">
+<!ENTITY dialog.remember.accesskey "U">
+

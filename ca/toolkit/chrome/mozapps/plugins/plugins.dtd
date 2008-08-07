@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title "Servei de cerca de connectors">
+<!ENTITY pluginWizard.firstPage.title                        "Sou al &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "El &brandShortName; està comprovant els connectors disponibles…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Baixades de connectors disponibles">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Els següents connectors estan disponibles:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Premeu Següent per instaŀlar aquests connectors.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Alguns connectors poden necessitar que faciliteu informació addicional durant la instaŀlació.">
+
+<!ENTITY pluginWizard.licensePage.title "Llicències dels connectors">
+<!ENTITY pluginWizard.licensePage.accept.label "Hi estic d'acord.">
+<!ENTITY pluginWizard.licensePage.deny.label "No hi estic d'acord (el connector no s'instaŀlarà).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "S'estan instaŀlant els connectors">
+<!ENTITY pluginWizard.installPluginsPage.description.label "El &brandShortName; està instaŀlant els connectors…">
+
+<!ENTITY pluginWizard.finalPage.description.label "El &brandShortName; ha acabat d'instaŀlar els connectors que hi mancaven:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Informeu-vos sobre els connectors o cerqueu manualments els connectors que hi manquen.">
+<!ENTITY pluginWizard.finalPage.restart.label "Cal que es reiniciï el &brandShortName; per a que els connectors funcionin.">
+<!ENTITY missingPlugin.label                                 "Feu clic ací per a baixar el connector.">
+

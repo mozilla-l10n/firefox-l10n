@@ -1,0 +1,35 @@
+<!-- extracted from ./history.xul -->
+
+<!ENTITY menuBar.tooltip "Barra de menús">
+<!ENTITY fileMenu.label "Fitxer">
+<!ENTITY closeCmd.label "Tanca">
+<!ENTITY editMenu.label "Edita">
+<!ENTITY undoCmd.label "Desfés">
+<!ENTITY redoCmd.label "Refés">
+<!ENTITY cutCmd.label "Retalla">
+<!ENTITY copyCmd.label "Copia">
+<!ENTITY pasteCmd.label "Enganxa">
+<!ENTITY deleteCmd.label "Suprimeix">
+<!ENTITY deleteHostnameCmd.accesskey "l">
+<!ENTITY deleteDomainCmd.accesskey "o">
+<!ENTITY selAllCmd.label "Selecciona-ho tot">
+<!ENTITY findHisCmd.label "Cerca a l'historial">
+<!ENTITY findHisCmd.commandkey "f">
+<!ENTITY findHisCmd.accesskey "s">
+<!ENTITY groupBy.label "Agrupa per">
+<!ENTITY groupBy.accesskey "G">
+<!ENTITY groupByDay.label "Dia">
+<!ENTITY groupByDay.accesskey "D">
+<!ENTITY groupBySite.label "Lloc">
+<!ENTITY groupBySite.accesskey "L">
+<!ENTITY groupByNone.label "Cap">
+<!ENTITY groupByNone.accesskey "C">
+<!ENTITY historyWindowTitle.label "Historial">
+<!ENTITY menuitem.view.unsorted.label "Sense ordenar">
+<!ENTITY menuitem.view.unsorted.accesskey "r">
+<!ENTITY menuitem.view.ascending.label "Ordenació A > Z">
+<!ENTITY menuitem.view.ascending.accesskey "a">
+<!ENTITY menuitem.view.descending.label "Ordenació Z > A">
+<!ENTITY menuitem.view.descending.accesskey "z">
+<!ENTITY menuitem.view.show_columns.label "Mostra les columnes">
+<!ENTITY menuitem.view.show_columns.accesskey "s">

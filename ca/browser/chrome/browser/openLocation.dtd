@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Introduïu la ubicació web (URL), o especifiqueu el fitxer local que voldríeu obrir:">
+<!ENTITY chooseFile.label "Trieu un fitxer…">
+<!ENTITY newWindow.label "Obre una finestra">
+<!ENTITY newTab.label "Obre una pestanya">
+<!ENTITY topWindow.label "Finestra actual">
+<!ENTITY caption.label "Obre una ubicació web">
+<!ENTITY openWhere.label "Obre a:">
+<!ENTITY openBtn.label "Obre">

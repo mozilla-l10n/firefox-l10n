@@ -1,0 +1,39 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Cerca missatges a:">
+<!ENTITY searchHeading.accesskey "r">
+<!ENTITY searchSubfolders.label "Cerca subcarpetes">
+<!ENTITY searchSubfolders.accesskey "s">
+<!ENTITY searchLocalSystem.label     "Cerca el sistema local">
+<!ENTITY searchLocalSystem.accesskey "i">
+<!ENTITY resetButton.label "Buida">
+<!ENTITY resetButton.accesskey "B">
+<!ENTITY helpButton.label            "Ajuda">
+<!ENTITY helpButton.accesskey        "j">
+<!ENTITY optionsButton.label "Opcions">
+<!ENTITY closeButton.label "Tanca">
+<!ENTITY openButton.label "Obre">
+<!ENTITY openButton.accesskey "O">
+<!ENTITY deleteButton.label "Suprimeix">
+<!ENTITY deleteButton.accesskey "u">
+<!ENTITY searchDialogTitle.label "Cerca de missatges">
+<!ENTITY conditionDesc.label "Cerca els missatges que coincideixin amb:">
+<!ENTITY conditions.label "Criteris">
+<!ENTITY results.label "Resultats">
+<!ENTITY fileHereMenu.label "Arxiva'l ací">
+<!ENTITY fileHereMenu.accesskey "A">
+<!ENTITY fileButton.label "Arxiva">
+<!ENTITY fileButton.accesskey "A">
+<!ENTITY goToFolderButton.label "Vés a la carpeta de missatges">
+<!ENTITY goToFolderButton.accesskey "V">
+<!ENTITY saveAsVFButton.label "Desa com una carpeta de cerca">
+<!ENTITY saveAsVFButton.accesskey "D">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label "Cerca a:">
+<!ENTITY abSearchHeading.accesskey   "e">
+<!ENTITY propertiesButton.label "Propietats...">
+<!ENTITY propertiesButton.accesskey "P">
+<!ENTITY composeButton.label "Redacta">
+<!ENTITY composeButton.accesskey "d">
+<!ENTITY abSearchDialogTitle.label "Cerca avançada de la llibreta d'adreces">
+

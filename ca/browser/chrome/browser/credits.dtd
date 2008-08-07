@@ -1,0 +1,32 @@
+<!ENTITY brandMotto "Torneu a descobrir el Web">
+<!ENTITY credit.thanks "Agraïments especials per a">
+
+<!ENTITY credit.thanks2      "Moltes gràcies als nostres">
+<!ENTITY credit.contributors2 "coŀlaboradors" >
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation 
+"<h3>Traducció</h3>
+ <ul>
+ <li><i><a href='http://www.softcatala.org'>Softcatalà</a></i></li>
+ </ul>
+ <ul>
+ <li>Ernest Adrogué</li>
+ <li>Jaume Bargalló</li>
+ <li>Hèctor Batalla</li>
+ <li>Ermengol Bota</li> 
+ <li>Pau Cabot</li>
+ <li>Antoni Camon</li>
+ <li>Toni Hermoso</li>
+ <li>Xavi Ivars</li>
+ <li>Quico Llach</li>
+ <li>Jordi Mas</li>
+ <li>Joaquim Perez</li>
+ </ul>">
+
+<!ENTITY credit.memory "En record de">
+<!ENTITY credit.poweredByGeckoReg "Funciona amb Gecko&reg;">

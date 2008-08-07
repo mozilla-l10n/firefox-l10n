@@ -1,0 +1,20 @@
+<!ENTITY newMessageCmd.label "Missatge">
+<!ENTITY newMessageCmd.accesskey "M">
+<!ENTITY newMessageCmd.key "M">
+
+<!ENTITY newCardCmd.label "Targeta de la llibreta d'adreces...">
+<!ENTITY newCardCmd.accesskey "l">
+
+<!ENTITY sendPage.label "Envia la pàgina...">
+<!ENTITY sendPage.accesskey "a">
+
+<!ENTITY contextSendPage.label "Envia la pàgina...">
+<!ENTITY contextSendPage.accesskey "v">
+<!ENTITY contextSendImage.label "Envia la imatge...">
+<!ENTITY contextSendImage.accesskey "v">
+<!ENTITY contextSendFrame.label "Envia el marc...">
+<!ENTITY contextSendFrame.accesskey "n">
+
+<!ENTITY sendLinkCmd.label "Envia l'enllaç...">
+<!ENTITY sendLinkCmd.accesskey "i">
+

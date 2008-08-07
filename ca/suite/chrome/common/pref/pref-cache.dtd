@@ -1,0 +1,30 @@
+<!-- extracted from content/pref-cache.xul -->
+
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+<!ENTITY  pref.cache.title              "Memòria cau">
+<!ENTITY  pref.cache.caption            "Defineix les opcions de la memòria cau">
+<!ENTITY cachePara "La memòria cau conserva còpies al disc dur de les pàgines web que es visiten sovint; això redueix el temps de connexió a Internet. (Feu clic a Actualitza per obtenir sempre la darrera versió de la pàgina.)">
+<!ENTITY diskCache.label "Memòria cau de disc:">
+<!ENTITY diskCache.accesskey "d">
+<!ENTITY mbytes "MB">
+<!ENTITY diskCacheFolder.label "Carpeta de la memòria cau:">
+<!ENTITY clearDiskCache.label "Buida">
+<!ENTITY clearDiskCache.accesskey "b">
+<!ENTITY chooseDiskCacheFolder.label "Trieu una carpeta...">
+<!ENTITY chooseDiskCacheFolder.accesskey "T">
+<!ENTITY  diskCacheFolderExplanation    "Els fitxers de la memòria cau es desaran en una subcarpeta anomenada «Cache» en el directori que indiqueu. Reinicieu el &brandShortName; per tal que els canvis tinguin efecte.">
+<!ENTITY docCache "Compara la pàgina de la memòria cau amb la pàgina a la xarxa:">
+<!ENTITY oncePsessionRadio.label "Una vegada per sessió">
+<!ENTITY oncePsessionRadio.accesskey "U">
+<!ENTITY everyTimeRadio.label "Cada vegada que visualitzi la pàgina">
+<!ENTITY everyTimeRadio.accesskey "C">
+<!ENTITY neverRadio.label "Mai">
+<!ENTITY neverRadio.accesskey "M">
+<!ENTITY autoRadio.label "Automàticament">
+<!ENTITY autoRadio.accesskey "a">
+
+<!ENTITY prefetchTitle.label "Càrrega prèvia d'enllaços">
+<!-- <!ENTITY enablePrefetch.label         "Enable link prefetching"> -->
+<!ENTITY enablePrefetch.label "Durant la inactivitat, prepara les pàgines web designades de manera que els enllaços que incloguin es carreguin més ràpidament.">
+<!ENTITY enablePrefetch.accesskey "D">
+<!-- <!ENTITY prefetchDesc.label           "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->

@@ -1,0 +1,17 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Pregunta del correu HTML">
+
+<!ENTITY recipient.label "Alguns dels destinataris no figuren com que puguin rebre correu HTML.">
+
+<!ENTITY question.label "Voleu convertir el missatge a text net igualment?">
+
+<!ENTITY plainTextAndHtml.label "Envia'l en text net i en HTML">
+<!ENTITY plainTextAndHtml.accesskey "e">
+<!ENTITY plainTextOnly.label "Envia'l només en text net">
+<!ENTITY plainTextOnly.accesskey "x">
+<!ENTITY htmlOnly.label "Envia'l només en HTML">
+<!ENTITY htmlOnly.accesskey "H">
+
+<!ENTITY send.label "Envia">
+<!ENTITY send.accesskey "v">
+

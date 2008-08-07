@@ -1,0 +1,13 @@
+
+<!ENTITY search.name.label "Títol">
+<!ENTITY search.url.label "ubicació">
+<!ENTITY search.startswith.label "comença per">
+<!ENTITY search.endswith.label "acaba amb">
+<!ENTITY search.is.label "és">
+<!ENTITY search.isnot.label "no és">
+<!ENTITY search.contains.label "conté">
+<!ENTITY search.doesntcontain.label "no conté">
+<!ENTITY search.for.label "Cerca els documents visitats que">
+<!ENTITY findHistory.title "Cerca a l'historial">
+<!ENTITY findButton.label               "Cerca">
+

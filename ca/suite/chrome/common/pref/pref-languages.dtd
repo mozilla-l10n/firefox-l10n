@@ -1,0 +1,45 @@
+<!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
+
+<!ENTITY languages.customize.prefLangDescript "De vegades, les pàgines web estan disponibles en diverses llengües. Trieu, per ordre de preferència, les llengües que voleu visualitzar les pàgines web.">
+<!ENTITY languages.customize.lHeader "Llengües">
+<!ENTITY languages.customize.rHeader "Llengües en què es visualitzen les pàgines web">
+<!ENTITY langtitle.label "Llengües per a les pàgines web">
+<!ENTITY languages.customize.prefAddLangDescript "Seleccioneu la(es) llengua(gües) que voleu afegir.">
+<!ENTITY languages.customize.engOrder.label "1">
+<!ENTITY languages.customize.engOption.label "Anglès">
+<!ENTITY languages.customize.addButton.label "Afegeix...">
+<!ENTITY languages.customize.addButton.accesskey "A">
+<!ENTITY languages.customize.deleteButton.label "Suprimeix">
+<!ENTITY languages.customize.deleteButton.accesskey "m">
+<!ENTITY languages.customize.title.label "Personalitza les llengües">
+<!ENTITY languages.customize.add.title.label "Afegeix llengües">
+<!ENTITY languages.customize.left.header "Codificació de caràcters">
+<!ENTITY charset.customize.right.header "Seleccioneu els jocs de caràcters suportats">
+<!ENTITY languages.customize.available.label "Llengües:">
+<!ENTITY languages.customize.active.label "Llengües en ordre de preferència:">
+<!ENTITY languages.customize.reorder.label "Torna a ordenar">
+<!ENTITY languages.customize.remove.label "Suprimeix">
+<!ENTITY languages.customize.additional.label "Jocs de caràcters disponibles">
+<!ENTITY languages.customize.add.label "Afegeix">
+<!ENTITY languages.customize.others.label "Altres:">
+<!ENTITY languages.customize.others.accesskey "a">
+<!ENTITY languages.customize.Charset.grouplabel "Codificació de caràcters">
+<!ENTITY languages.customize.DefaultCharset.label "Codificació per defecte:">
+<!ENTITY languages.customize.DefaultCharset.accesskey "C">
+<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
+<!ENTITY languages.customize.others.examples "p.ex.: en-bz, ar-jo">
+<!ENTITY languages.customize.cancel.label "Canceŀla">
+<!ENTITY languages.customize.save.label "Desa">
+<!ENTITY languages.customize.ok.label "D'acord">
+<!ENTITY languages.customize.save.popup "Si us plau, reinicieu el navegador per tal que els canvis tinguin efecte...">
+<!ENTITY languages.customize.moveUp.label "Amunt">
+<!ENTITY languages.customize.moveUp.accesskey "u">
+<!ENTITY languages.customize.moveDown.label "Avall">
+<!ENTITY languages.customize.moveDown.accesskey "v">
+
+<!ENTITY spelling.label                                 "Ortografia">
+<!ENTITY checkSpelling.label                            "Verifica l'ortografia mentre s'escriu:">
+<!ENTITY checkSpelling.accesskey                        "V">
+<!ENTITY dontCheckSpelling.label                        "Mai">
+<!ENTITY multilineCheckSpelling.label                   "En els quadres multilineals">
+<!ENTITY alwaysCheckSpelling.label                      "En tots els quadres">

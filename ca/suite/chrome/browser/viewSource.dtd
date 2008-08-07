@@ -1,0 +1,27 @@
+<!-- extracted from content/viewSource.xul -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator "- ">
+<!ENTITY mainWindow.preface "Font de: ">
+
+<!ENTITY viewPartialSourceWindow.title "Font DOM">
+
+<!ENTITY menu_wrapLongLines.title "Ajusta les línies llargues">
+<!ENTITY menu_wrapLongLines.accesskey "r">
+
+<!ENTITY menu_highlightSyntax.label "Ressaltament de la sintaxi">
+<!ENTITY menu_highlightSyntax.accesskey "s">
+
+<!ENTITY findNextCmd.label "Cerca el següent">
+<!ENTITY findNextCmd.accesskey "n">
+
+<!ENTITY goToLineCmd.label "Vés a la línia...">
+<!ENTITY goToLineCmd.accesskey "V">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY printSetupCmd.label "Configuració de la pàgina...">
+<!ENTITY printSetupCmd.accesskey "C">

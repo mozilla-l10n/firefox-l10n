@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Per a estalviar espai, no baixis:">
+<!ENTITY doNotDownload.label "Per a estalviar espai, no baixis per a treballar-hi fora de línia:">
+<!ENTITY offlineNewFolder.label "Quan creï carpetes noves, selecciona-les per a treballar-hi fora de línia">
+<!ENTITY offlineNewFolder.accesskey "h">
+<!ENTITY offlineNotDownload.label "No baixis missatges si són més grans de">
+<!ENTITY offlineNotDownload.accesskey "d">
+<!ENTITY kb.label "kB">
+<!ENTITY days.label "dies">
+<!ENTITY daysOld.label "dies">
+<!ENTITY message.label "missatges">
+<!ENTITY nntpNotDownloadRead.label "Llegeix els missatges">
+<!ENTITY nntpNotDownloadRead.accesskey "L">
+<!ENTITY nntpDownloadMsg.label "Baixa els cossos dels missatges des de">
+<!ENTITY nntpDownloadMsg.accesskey "o">
+<!ENTITY nntpRemoveBody.label "Suprimeix només els cossos dels missatges més antics de">
+<!ENTITY nntpRemoveBody.accesskey "E">
+<!ENTITY retentionCleanup.label "Per a recuperar espai de disc, els missatges antics poden suprimir-se permanentment">
+<!ENTITY retentionKeepMsg.label "Suprimeix els missatges de més de">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "No suprimeixis cap missatge">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepNew.label "Suprimeix-ho tot excepte els darrers">
+<!ENTITY retentionKeepNew.accesskey "r">
+<!ENTITY retentionKeepUnread.label "Suprimeix sempre els missatges llegits">
+<!ENTITY retentionKeepUnread.accesskey "u">
+<!ENTITY offlineSelectNntp.label "Seleccioneu els grups de discussió per ús fora de línia...">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineSelectImap.label "Seleccioneu les carpetes per ús fora de línia...">
+<!ENTITY offlineSelectImap.accesskey "S">
+<!ENTITY offlineDesc.label "El mode fora de línia us permet baixar els missatges localment de manera que estiguin disponibles quan no estigueu connectat al servidor. Utilitzeu el botó &quot;Selecciona&quot; per a decidir quins missatges estaran disponibles quan estigueu fora de línia.">
+<!ENTITY makeInboxMsgsAvailable.label "Fes que els missatges de la meua safata d'entrada estiguin disponibles quan treballi fora de línia">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Fora de línia">
+<!ENTITY diskspaceGroupTitle.label "Espai de disc">

@@ -1,0 +1,23 @@
+
+<!ENTITY enbJsCheckMailNews.label "Missatgeria">
+<!ENTITY enbJsCheckMailNews.accesskey "M">
+<!ENTITY enbPluginCheckMailNews.label "Missatgeria">
+<!ENTITY enbPluginCheckMailNews.accesskey "i">
+
+<!ENTITY mail.label "Missatgeria">
+<!ENTITY mail.accesskey "m">
+<!ENTITY addressbook.label "Llibreta d'adreces">
+<!ENTITY addressbook.accesskey "a">
+<!ENTITY viewingMessages.label "Visualització">
+<!ENTITY notifications.label "Avisos">
+<!ENTITY address.label "Adreçament">
+<!ENTITY composingMessages.label "Redacció">
+<!ENTITY format.label "Format d'enviament">
+<!ENTITY return.label "Confirmacions de recepció">
+<!ENTITY disk.label "Espai de disc">
+<!ENTITY junk.label                       "Correu brossa">
+<!ENTITY tags.label "Etiquetes">
+<!ENTITY characterEncoding.label          "Codificació de caràcters">
+<!ENTITY offline.label "Fora de línia i espai de disc">
+
+

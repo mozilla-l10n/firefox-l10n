@@ -1,0 +1,14 @@
+<!ENTITY windowtitle.label              "Excepcions">
+<!ENTITY treehead.sitename.label        "Lloc">
+<!ENTITY treehead.status.label          "Estat">
+<!ENTITY remove.label                   "Suprimeix el lloc">
+<!ENTITY remove.accesskey               "r">
+<!ENTITY removeall.label                "Suprimeix tots els llocs">
+<!ENTITY removeall.accesskey            "e">
+<!ENTITY address.label                  "Adreça del lloc web:">
+<!ENTITY block.label                    "Bloca">
+<!ENTITY block.accesskey                "B">
+<!ENTITY session.label                  "Permet per aquesta sessió">
+<!ENTITY session.accesskey              "s">
+<!ENTITY allow.label                    "Permet">
+<!ENTITY allow.accesskey                "P">

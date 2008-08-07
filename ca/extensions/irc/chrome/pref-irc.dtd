@@ -1,0 +1,8 @@
+<!ENTITY pref-irc.window.title "Chatzilla">
+
+<!ENTITY pref-irc.open.title "Les preferències del Chatzilla">
+<!ENTITY pref-irc.open.desc "Les preferències del Chatzilla són massa extenses per a poder ajustar-se a aquesta finestra. En comptes, podeu obrir la finestra de preferències des d'ací.">
+<!ENTITY pref-irc.open.label "Obre les preferències del Chatzilla">
+<!ENTITY pref-irc.open.accesskey "O">
+<!ENTITY startup.chat.label "ChatZilla">
+<!ENTITY startup.chat.accesskey "Z">

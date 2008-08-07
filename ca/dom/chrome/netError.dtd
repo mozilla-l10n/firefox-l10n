@@ -1,0 +1,88 @@
+<!ENTITY loadError.label "Error de càrrega de la pàgina">
+<!ENTITY retry.label "Torneu-ho a provar">
+
+<!-- Specific error messages -->
+
+<!ENTITY generic.longDesc "La pàgina no s'ha pogut carregar, possiblement perquè no existeix o perquè la ubicació no és correcta.&lt;br/&gt;Assegureu-vos que la ubicació es vàlida i formatada correctament. ">
+
+<!ENTITY malformedURI.title "Error d'adreça no vàlida">
+<!ENTITY malformedURI.longDesc "L'adreça (URL) no té un format vàlid i no es pot llegir. Una adreça típica comença amb &quot;http://&quot;, seguit d'una adreça (com ara www.mozilla.org) i un camí al contingut (o simplement &quot;/&quot;). Un error habitual és utilitzar barres inverses (\) en comptes de barres normals (/).">
+
+<!ENTITY fileNotFound.title "Error de fitxer no trobat">
+<!ENTITY fileNotFound.longDesc "No pot trobar-se el fitxer que s'especifica a l'adreça (URL). Comproveu que el fitxer existeix i que teniu permisos suficients per a visualitzar-lo.">
+
+<!ENTITY dnsNotFound.title "Error d'adreça no trobada">
+<!ENTITY dnsNotFound.longDesc "L'adreça (URL) no correspon a cap lloc conegut i no s'ha pogut carregar. Això pot ser degut a un error en escriure l'adreça, o bé que el lloc no existeixi. Si esteu segur que l'adreça és correcta, o bé si es repeteix també a molts llocs, pot tractar-se d'un problema del vostre servidor intermediari (si en feu servir) o de la cerca amb el servei de noms del directori. En aquests casos, consulteu la documentació del vostre sistema o demaneu ajuda a l'administrador o proveïdor d'Internet (ISP).">
+
+<!ENTITY protocolNotFound.title "Error de protocol desconegut">
+<!ENTITY protocolNotFound.longDesc "L'adreça (URL) comença per un protocol que el navegador no reconeix. Un protocol és la part inicial de l'adreça, com ara http: o ftp:, i que indica al navegador com connectar al lloc. En aquest cas, el protocol és desconegut, i per tant la càrrega no pot continuar. Comproveu que l'adreça és correcta abans de tornar-ho a provar. ">
+
+<!ENTITY connectionFailure.title "Error de connexió">
+<!ENTITY connectionFailure.longDesc "El navegador no ha pogut connectar amb el lloc indicat, tot i que existeix. Això pot ser perquè el lloc no accepta connexions del vostre ordinador, perquè el servei està inoperatiu, o bé perquè el lloc no admet el servei o el port al qual heu provat de connectar.">
+
+<!ENTITY netTimeout.title "Error de temps excedit de la xarxa">
+<!ENTITY netTimeout.longDesc "El navegador ha esgotat el temps disponible per a provar de connectar amb el lloc indicat. Potser el lloc està sobrecarregat i això l'alenteixi, o bé per problemes a la xarxa no es puguin rebre les dades a temps. Si és probable que el lloc estigui saturat, potser cal que espereu uns moments abans de tornar a fer la soŀlicitud. ">
+
+<!ENTITY redirectLoop.title "Error de bucle de redirecció">
+<!ENTITY redirectLoop.longDesc "El navegador ha aturat una connexió perquè el lloc s'està redirigint les soŀlicituds a ell mateix de tal manera que impedeix que mai es puguin completar.">
+
+<!ENTITY unknownSocketType.title "Error de sòcol desconegut">
+<!ENTITY unknownSocketType.longDesc "El lloc ha respost a la soŀlicitud de la xarxa d'una manera inesperada. Això pot ser degut a que l'adreça (URL) utilitza un protocol incorrecte per al port indicat, o a una configuració no estàndard del lloc que està executant altres serveis que els esperats.">
+
+<!ENTITY contentEncodingError.title "Error de codificació del contingut">
+<!ENTITY contentEncodingError.longDesc "<p>No pot mostrar-se la pàgina que esteu provant de visualitzar perquè utilitza una forma de compressió no vàlida o que no funciona en aquesta aplicació.</p><ul><li>Si us plau, contacteu amb els propietaris del lloc web per a informar-los d'aquest problema.</li></ul>">
+
+<!ENTITY unsafeContentType.title "Tipus de fitxer insegur">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Poseu-vos en contacte amb els propietaris del lloc web per a informar-los del problema.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Error de reinici de la xarxa">
+<!ENTITY netReset.longDesc "L'enllaç al lloc s'ha perdut de manera inesperada mentre es negociava una connexió o es transferien dades. Això pot ser degut a una fallada de la xarxa en algun lloc entre el lloc i el vostre ordinador. Si el problema continua consulteu la documentació del sistema o demaneu ajuda a l'administrador o proveïdor d'Internet (ISP). ">
+
+<!ENTITY netOffline.title "Error de fora de línia">
+<!ENTITY netOffline.longDesc "El navegador és fora de línia i no es pot connectar al lloc soŀlicitat. Poseu-lo en línia abans de tornar-ho a provar. ">
+
+<!ENTITY deniedPortAccess.title "El port s'ha restringit per motius de seguretat">
+<!ENTITY deniedPortAccess.longDesc "<p>L'adreça soŀlicitada especifica un port (e.g. <q>mozilla.org:80</q> per al 80 a mozilla.org) que normalment s'utilitza per a propòsits <em>diferents</em> de la navegació web. El navegador ha canceŀlat la soŀlicitud per a garantir la vostra protecció i seguretat.</p>">
+<!ENTITY generic.title "No es pot completar la soŀlicitud">
+<!ENTITY netInterrupt.title "S'ha interromput la transferència de dades">
+<!ENTITY netInterrupt.longDesc "<p>El navegador s'ha connectat amb èxit, però la connexió s'ha interromput mentre es transferia informació. Si us plau, torneu-ho a provar.</p><ul><li>Podeu navegar per altres llocs web? Comproveu la connexió de l'ordinador a la xarxa.</li><li>Encara teniu problemes? Si us plau, demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
+<!ENTITY proxyConnectFailure.title "S'ha rebutjat la connexió al servidor intermediari">
+<!ENTITY proxyConnectFailure.longDesc "<p>S'ha configurat el navegador perquè utilitzi un servidor intermediari, però s'ha rebutjat la connexió.</p><ul><li>És correcta la configuració del servidor intermediari? Comproveu els seus paràmetres i torneu-ho a provar.</li><li>Esteu segur que el servidor intermediari permet connexions des d'aquesta xarxa?</li><li>Encara teniu problemes? Si us plau, demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
+<!ENTITY proxyResolveFailure.title "No s'ha trobat el servidor intermediari">
+<!ENTITY proxyResolveFailure.longDesc "<p>S'ha configurat el navegador perquè utilitzi un servidor intermediari, però aquest no s'ha pogut trobar.</p><ul><li>És correcta la configuració del servidor intermediari? Comproveu els seus paràmetres i torneu-ho a provar.</li><li>L'ordinador està connectat a una xarxa activa?</li><li>Encara teniu problemes? Si us plau, demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
+
+<!ENTITY nssFailure2.title "Ha fallat la connexió segura">
+<!ENTITY nssFailure2.longDesc "<p>La pàgina que esteu provant de visualitzar no pot mostrar-se perquè no pot verificar-se l'autenticitat de les dades rebudes.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per a informar-los del problema.</li></ul>">
+
+<!ENTITY nssBadCert.title "La connexió segura ha fallat">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+  <li>Això podria ser un problema amb la configuració del servidor, o bé podria ser
+que algú estigués provant de fer-se passar pel servidor.</li>
+  <li>Si us hi heu connectat sense cap problema alguna altra vegada, l'error podria
+ser temporal, i podeu provar-ho de nou més tard.</li>
+</ul>
+">
+
+<!ENTITY malwareBlocked.title "Lloc sospitós de ser atacant!">
+<!ENTITY malwareBlocked.longDesc "
+<p>Els llocs atacants instaŀlen programari que roba informació privada, utilitzen el vostre ordinador per a atacar-ne d'altres, o fan malbé el vostre sistema.</p>
+<p>Els propietaris que creguin que llurs llocs web s'han informat de forma errònia, poden <a href='http://www.stopbadware.org/home/reviewinfo' >demanar que es rev
+isin</a>.</p>
+">
+
+<!ENTITY phishingBlocked.title "Lloc sospitós de ser una falsificació web!">
+<!ENTITY phishingBlocked.longDesc "
+<p>Introduir informació personal en aquesta pàgina podria resultar en una suplantació d'indentitat o algun altre tipus de frau.</p>
+<p>Aquest tipus de falsificacions web s'utilitzen en enganys coneguts com a pesca electrònica (phishing), amb què webs i adreces electròniques fraudulentes s'utilitzen per a imitar fonts en què podeu confiar-hi.</p>
+">
+
+<!-- Include app-specific error messages - do not change this in localization!
+     Some applications might override netErrorApp.dtd with their specific version,
+     this inclusion needs to be intact for that approach to work correctly. -->
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
+

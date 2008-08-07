@@ -1,0 +1,25 @@
+<!-- win -->
+<!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
+                         You may want to translate the Cmd.key and accesskey --> 
+
+<!ENTITY closeCmd.label "Tanca">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "t">
+
+<!ENTITY quitApplicationCmd.label "Surt">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "u">
+
+<!ENTITY redoCmd.label "Refés">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY accel.emacs_conflict "accel">
+
+<!-- Help viewer -->
+<!ENTITY openHelpCmd.label              "Continguts de l'ajuda">
+<!ENTITY openHelpCmd.accesskey          "j">
+<!ENTITY openHelpCmd.key                "VK_F1">

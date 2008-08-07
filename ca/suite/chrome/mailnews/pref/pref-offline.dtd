@@ -1,0 +1,28 @@
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY pref.offline.title "Fora de línia i espai de disc">
+<!ENTITY pref.offline.caption "Fora de línia">
+<!ENTITY textStartUp "En iniciar-se:">
+<!ENTITY radioRememberPrevState "Recorda l'estat de connexió en línia">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe "Demana'm per l'estat de connexió en línia a l'inici">
+<!ENTITY radioAskMe.accesskey "D">
+<!ENTITY textGoingOnline "En connectar-me, amb els missatges per enviar:">
+<!ENTITY radioAutoSend "Envia-los automàticament">
+<!ENTITY radioAutoSend.accesskey "u">
+<!ENTITY radioNotSend "No els enviïs">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Demana'm si els vull enviar">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "En desconnectar-me, amb els missatges per a llegir-los fora de línia:">
+<!ENTITY radioAutoDownload "Baixa'ls automàticament">
+<!ENTITY radioAutoDownload.accesskey "B">
+<!ENTITY radioNotDownload "No els baixis">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload "Demana'm si els vull baixar">
+<!ENTITY radioAskDownload.accesskey "i">
+<!ENTITY Diskspace "Espai de disc">
+<!ENTITY offlineCompact.label "Compacta les carpetes quan s'estalviïn més de">
+<!ENTITY offlineCompact.accesskey "C">
+<!ENTITY kb.label "kB">

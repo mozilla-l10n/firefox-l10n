@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+	<li><Description nc:name="Actualització dels complements" nc:link="customization.xhtml#add_ons_updating"/></li>
+        <li><Description nc:name="Actualitzacions de programari" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="Adreça d'interès (definició)" nc:link="glossary.xhtml#bookmark"/> </li>
+        <li><Description nc:name="Adreça d'interès activa (definició)" nc:link="glossary.xhtml#live_bookmark"/> </li>
+        <li><Description nc:name="Adreça de protocol d'Internet (IP) (definició)" nc:link="glossary.xhtml#Internet_protocol_address"/> </li>
+        <li><Description nc:name="Anar endavant o enrere" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Autentificació (definició)" nc:link="glossary.xhtml#authentication"/> </li>
+        <li><Description nc:name="Barra de les adreces d'interès (definició)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/> </li>
+        <li><Description nc:name="Barra de navegació (definició)" nc:link="glossary.xhtml#navigation_toolbar"/> </li>
+        <li><Description nc:name="Barra d'estat (definició)" nc:link="glossary.xhtml#Status_Bar"/> </li>
+        <li><Description nc:name="Barra d'ubicació (definició)" nc:link="glossary.xhtml#location_bar"/> </li>
+        <li><Description nc:name="Blocatge de les finestres emergents" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="Botó atura" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="Botó actualitza" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="Botó endavant" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Botó enrere" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Boto inici" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="Canal (definició)" nc:link="glossary.xhtml#feed"/> </li>
+	<li><Description nc:name="Canvi dels temes" nc:link="customization.xhtml#add_ons_switching_themes"/></li>
+        <li><Description nc:name="Capa de sòcols segurs (SSL) (definició)" nc:link="glossary.xhtml#SSL"/> </li>
+        <li><Description nc:name="Cerca amb la barra d'ubicació" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Cerca amb la barra de cerca" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="Cerca amb text de la pàgina" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="Certificat (definició)" nc:link="glossary.xhtml#certificate"/> </li>
+        <li><Description nc:name="Certificats" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Clau privada (definició)" nc:link="glossary.xhtml#private_key"/> </li>
+        <li><Description nc:name="Client (definició)" nc:link="glossary.xhtml#client"/> </li>
+	<li><Description nc:name="Configuració de les extensions" nc:link="customization.xhtml#add_ons_configuring_extensions"/></li>
+        <li><Description nc:name="Connector (definició)" nc:link="glossary.xhtml#Plugin"/> </li>
+        <li><Description nc:name="Connectors" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="Contrasenya mestra (definició)" nc:link="glossary.xhtml#master_password"/> </li>
+        <li><Description nc:name="Criptografia (definició)" nc:link="glossary.xhtml#cryptography"/> </li>ç
+        <li><Description nc:name="Definir o canviar la contrasenya mestra" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Desxifratge (definició)" nc:link="glossary.xhtml#decryption"/> </li>
+        <li><Description nc:name="FIPS PUBS 140-1 (definició)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/> </li>
+        <li><Description nc:name="Galeta (definició)" nc:link="glossary.xhtml#cookie"/> </li>
+        <li><Description nc:name="Gestor de contrasenyes (definició)" nc:link="glossary.xhtml#Password_Manager"/> </li>
+        <li><Description nc:name="Identificador digital (definició)" nc:link="glossary.xhtml#digital_ID"/> </li>
+        <li><Description nc:name="Importació dels preferits de l'Internet Explorer" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+	<li><Description nc:name="Inhabilitat, habilitar i desinstaŀlar complements" nc:link="customization.xhtml#add_ons_uninstalling"/></li>
+        <li><Description nc:name="Internet (definició)" nc:link="glossary.xhtml#Internet"/> </li>
+        <li><Description nc:name="Java (definició)" nc:link="glossary.xhtml#Java"/> </li>
+        <li><Description nc:name="JavaScript (definició)" nc:link="glossary.xhtml#JavaScript"/> </li>
+        <li><Description nc:name="Llengües" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="Llenguatge d'etiquetatge d'hipertext (HTML) (definició)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/> </li>
+        <li><Description nc:name="Llenguatge d'etiquetatge extensible (XML) (definició)" nc:link="glossary.xhtml#XML"/> </li>
+        <li><Description nc:name="Llistes de revocació de certificats" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Lloc web (definició)" nc:link="glossary.xhtml#web_site"/> </li>
+        <li><Description nc:name="Lloc web segur (definició)" nc:link="glossary.xhtml#secure_site"/> </li>
+        <li><Description nc:name="Memòria cau (definició)" nc:link="glossary.xhtml#cache"/> </li>
+        <li><Description nc:name="Motor de cerca (definició)" nc:link="glossary.xhtml#search_engine"/> </li>
+        <li><Description nc:name="Navegació" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="Opcions d'accessibilitat" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Pàgina d'inici (definició)" nc:link="glossary.xhtml#home_page"/> </li>
+        <li><Description nc:name="Pàgina web (definició)" nc:link="glossary.xhtml#web_page"/> </li>
+        <li><Description nc:name="Pàgines web visitades recentment" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="PKCS #11 (definició)" nc:link="glossary.xhtml#PKCS_11"/> </li>
+        <li><Description nc:name="Preferències d'accessibilitat" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="Protocol de control de la transmissió/Protocol d'Internet (TCP/IP) (definició)" nc:link="glossary.xhtml#TCP_IP"/> </li>
+        <li><Description nc:name="Protocol de transferència de fitxers (FTP) (definició)" nc:link="glossary.xhtml#File_Transfer_Protocol"/> </li>
+        <li><Description nc:name="Servidor (definició)" nc:link="glossary.xhtml#server"/> </li>
+        <li><Description nc:name="Servidor intermediari (definició)" nc:link="glossary.xhtml#proxy"/> </li>
+        <li><Description nc:name="TLS (definició)" nc:link="glossary.xhtml#TLS"/> </li>
+        <li><Description nc:name="Ubicador de recursos uniforme (URL) (definició)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/> </li>
+        <li><Description nc:name="Verificació" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Visualització de la font de la pàgina" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="World Wide Web (definició)" nc:link="glossary.xhtml#World_Wide_Web"/> </li>
+        <li><Description nc:name="Xifratge (definició)" nc:link="glossary.xhtml#encryption"/> </li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>

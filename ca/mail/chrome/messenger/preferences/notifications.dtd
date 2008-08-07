@@ -1,0 +1,11 @@
+<!ENTITY notificationsDialog2.title       "Personalització de l'avís de nou correu">
+<!ENTITY window.width                     "36em">
+
+<!ENTITY alertCustomization.intro         "Trieu quins camps es mostraran en les notificacions d'avís:">
+<!ENTITY previewText.label                "Text de previsualització del missatge">
+<!ENTITY previewText.accesskey            "m">
+<!ENTITY subject.label                    "Assumpte">
+<!ENTITY subject.accesskey                "s">
+<!ENTITY sender.label                     "Remitent">
+<!ENTITY sender.accesskey                 "e">
+

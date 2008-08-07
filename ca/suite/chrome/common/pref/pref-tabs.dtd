@@ -1,0 +1,26 @@
+<!ENTITY tabHeader.label "Navegació en pestanyes">
+<!ENTITY tabDisplay.label "Visualització de pestanyes">
+<!ENTITY autoHide.label "Amaga la barra de pestanyes quan només n'hi hagi una d'oberta">
+<!ENTITY autoHide.accesskey "g">
+<!ENTITY background.label "Carrega els enllaços en segon terme">
+<!ENTITY background.accesskey "s">
+<!ENTITY loadGroup.label "En obrir un grup d'adreces d'interès">
+<!ENTITY loadGroupAppend.label "Afegeix pestanyes">
+<!ENTITY loadGroupAppend.accesskey "A">
+<!ENTITY loadGroupReplace.label "Substitueix les pestanyes existents">
+<!ENTITY loadGroupReplace.accesskey "x">
+<!ENTITY openTabs.label "Obre pestanyes en comptes de finestres per a">
+
+<!ENTITY newWindow.label "Comportament en obrir enllaços">
+<!ENTITY newWindowDescription.label "Obrir enllaços vol dir obrir-los en una nova finestra en">
+<!ENTITY external.label "Enllaços d'altres aplicacions">
+<!ENTITY externalDescription.label "Obre els enllaços d'altres aplicacions en">
+<!ENTITY openCurrent.label "La pestanya/finestra actual">
+<!ENTITY newWindowGroupCurrent.accesskey "c">
+<!ENTITY externalGroupCurrent.accesskey "u">
+<!ENTITY openTab.label "Una nova pestanya en la finestra actual">
+<!ENTITY newWindowGroupTab.accesskey "n">
+<!ENTITY externalGroupTab.accesskey "e">
+<!ENTITY openWindow.label "Una nova finestra">
+<!ENTITY newWindowGroupWindow.accesskey "f">
+<!ENTITY externalGroupWindow.accesskey "o">

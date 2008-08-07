@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Coŀlaboradors:
+  David Tenser <tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Ryan Flint <rflint@dslr.net>
+  Jeff Walden <jwalden+code@mit.edu>
+  Traducció al català - Softcatalà
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Les opcions del &brandFullName; </title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Les &pref.plural; del &brandFullName; </h1>
+<div>Ací s'expliquen les diferents &pref.plural;
+disponibles en el diàleg de &pref.plural; del &brandFullName;.</div>
+
+<div class="contentsBox">Trobareu en aquesta secció:
+  <ul>
+    <li><a href="#main_options">&pref.pluralCaps; principals</a></li>
+    <li><a href="#tabs_options">&pref.pluralCaps; de les pestanyes</a></li>
+    <li><a href="#content_options">&pref.pluralCaps; del contingut</a></li>
+    <li><a href="#feeds_options">&pref.pluralCaps; dels canals</a></li>
+    <li><a href="#privacy_options">&pref.pluralCaps; de la privadesa</a></li>
+    <li><a href="#security_options">&pref.pluralCaps; de la seguretat</a></li>
+    <li><a href="#advanced_options">&pref.pluralCaps; avançades</a></li>
+  </ul>
+</div>
+
+<h2 id="main_options">&pref.pluralCaps; principals</h2>
+
+  <h3 id="startup">Inici</h3>
+  <p>Quan obriu el &brandShortName;, per defecte es mostra la vostra <a
+    href="glossary.xhtml#home_page">pàgina d'inici</a>.  La vostra pàgina d'inici
+    pot ser un lloc web que visiteu habitualment, un motor de cerca, o potser també
+    el vostre compte de correu web; la decisió és plenament vostra.  Podeu canviar la vostra pàgina d'inici o
+    triar mostrar a l'inici una pàgina diferent, o conjunt de pàgines diferents, 
+    en aquesta secció.</p>
+    
+  <p><em>Quan s'iniciï el &brandShortName;</em><br/>
+    Per defecte, quan el &brandShortName; s'inicia, obre la vostra pàgina d'inici (que es mostra
+    en el quadre de text immediatament a continuació), que correspon a l'opció <em>Mostra
+    la meua pàgina d'inici</em>. Per altra banda, podeu triar mostrar una pàgina en blanc
+    a l'inici (potser per a disminuir el temps necessari per a carregar aqueixa pàgina
+    d'Internet) si seleccioneu l'opció <em>Mostra una pàgina en blanc</em>.</p>
+
+  <p>Com a darrera alternativa, podeu fer que el &brandShortName; torni a obrir les finestres
+    i pestanyes que hàgiu obert la darrera vegada que vàreu executar el &brandShortName;, i així
+    restaurar-vos allà on éreu quan vàreu deixar de navegar per Internet.
+    Açò pot ser una forma fàcil de conservar allò que estàveu fent quan vàreu haver de tancar
+    el &brandShortName;, potser per a instaŀlar una actualització del sistema operatiu. Podeu triar
+    aquesta opció si seleccioneu <em>Mostra les finestres i pestanyes de la darrera
+    vegada</em>.</p>
+
+  <p><em>Pàgina d'inici</em><br/>
+    Si heu definit que el &brandShortName; mostri la vostra pàgina d'inici quan inicieu
+    el &brandShortName;, cal que especifiqueu aquesta pàgina escrivint-la ací. Podeu també
+    fer clic a qualsevol dels botons de sota del quadre de text per a triar una pàgina d'inici
+    especial:</p>
+
+  <ul>
+    <li><em>Utilitza la pàgina actual</em> defineix que la pàgina que es mostra en aqueix moment (o pàgines,
+      si teniu més d'una pestanya oberta) esdevingui la vostra pàgina d'inici.</li>
+    <li><em>Utilitza una adreça d'interès</em> defineix l'adreça d'interès seleccionada (o si seleccioneu una
+      carpeta, les adreces d'aquella carpeta) com la vostra pàgina d'inici.</li>
+    <li><em>Restaura els paràmetres per defecte</em> canvia la vostra pàgina d'inici per aquella
+      definida per defecte.</li>
+  </ul>
+
+
+  <h3 id="downloads">Baixades</h3>
+  <p>Aquesta secció conté les &pref.plural; per a determinar com el &brandShortName;
+    baixa els fitxers.</p>
+    
+  <p><em>Mostra la finestra de baixades quan es baixi un fitxer</em><br/>
+    Si se selecciona aquesta &pref.singular;, el &brandShortName; obrirà la <a
+    href="download_manager.xhtml">finestra de baixades</a> quan comenceu a
+    baixar un fitxer.</p>
+    
+  <p><em>Tanca-la quan totes les baixades hagin finalitzat</em><br/>
+    Seleccioneu aquesta &pref.singular; per a fer que el &brandShortName; tanqui la
+    finestra de baixades quan totes les que estiguin en curs acabin.</p>
+      
+  <p><em id="download_folder">Desa els fitxers a</em><br/>
+    Per defecte, els fitxers baixats es desen automàticament a l'escriptori,
+    evitant el tràfec d'especificar on deixar cada fitxer que voleu
+    baixar. Podeu triar una carpeta diferent si cliqueu al botó 
+    <em><span class="noMac">Navega…</span><span class="mac">Trieu…</span></em>.</p>
+      
+  <p><em>Demana'm sempre on desar els fitxers</em><br/>
+    Si seleccioneu aquesta &pref.singular;, el &brandShortName; us demanarà
+    on voleu desar cada fitxer que baixeu (en comptes d'utilitzar una ubicació
+    per defecte com s'especifica a dalt).</p>
+  
+  <h3 id="system_defaults">Paràmetres predeterminats del sistema</h3>
+  <p><em>A l'inici comprova si el &brandShortName; és el navegador per
+    defecte</em><br/>
+    Seleccioneu aquesta opció si voleu que el &brandShortName; comprovi si és el
+    navegador per defecte a l'inici. Això garantirà que el &brandShortName; s'utilitzi
+    sempre que una aplicació intenti mostrar una pàgina web.  També podeu fer clic al botó
+    <em>Comprova-ho ara</em> per a comprovar-ho en aqueix mateix moment.</p>
+
+<h2 id="tabs_options">&pref.pluralCaps; de les pestanyes</h2>
+
+<p><em>Obre les noves pàgines en:</em><br/>
+  Aquesta &pref.singular; controla si els enllaços d'altres aplicacions, o de
+  de pàgines web que soŀliciten obrir-los en noves finestres, s'obren en <em>una nova
+  finestra</em> o en <em>una nova pestanya</em> de la finestra més recent.</p>
+
+<p><strong>Nota:</strong> Si heu triat obrir les pàgines en noves pestanyes,
+  el &brandShortName; ignorarà aquesta &pref.singular; i obrirà una nova finestra
+  d'un enllaç si l'autor de la pàgina ha especificat que la nova finestra ha de tenir
+  una mida específica, perquè algunes pàgines només poden mostrar-se correctament amb una
+  mida específica.</p>
+  
+<p><em>Avisa'm en tancar diverses pestanyes de cop</em><br/>
+  Quan tanqueu una finestra amb diverses pestanyes, el &brandShortName; us demanarà
+  que ho confirmeu. Això evita que pugueu tancar accidentalment
+  tota la finestra quan realment només volíeu tancar la pestanya actual. Desmarqueu aquesta
+  &pref.singular; per a inhabilitar l'avís i fer que el &brandShortName;
+  tanqui la finestra automàticament.</p>
+
+<p><em>Avisa'm quan en obrir moltes pestanyes pugui alentir-se el
+  &brandShortName;</em><br/>
+  Quan obriu un gran nombre de pestanyes de cop, el &brandShortName; us demanarà que
+  ho confirmeu. Això evita que pugueu alentir el vostre sistema
+  mentre les pàgines s'estan carregant. Desmarqueu aquesta &pref.singular;
+  per a inhabilitar l'avís.</p>
+  
+<p><em>Mostra sempre la barra de pestanyes</em><br/>
+  Si només esteu visualitzant una pestanya en la finestra del &brandShortName;,
+  normalment no es mostra la barra de pestanyes. Marqueu aquesta &pref.singular; per
+  a mostrar-la sempre, fins i tot quan la finestra del &brandShortName; només contingui
+  una pàgina.</p>
+
+<p><em>Quan obri un enllaç en una nova pestanya, vés-hi immediatament</em><br/>
+  Quan feu clic amb el botó del mig en un enllaç (o quan premeu &accelKey; en clicar
+  amb el boto primari del ratolí), la pàgina s'obrirà en una nova pestanya. Aqueixa pàgina
+  no es mostrarà davant i es carregarà en segon pla en una pestanya. Marqueu aquesta
+  &pref.singular; si el que voleu és carregar i mostrar la pàgina en una pestanya
+  en primer pla.</p>
+
+<h2 id="content_options">&pref.pluralCaps; del contingut</h2>
+
+  <p><em>Bloca les finestres emergents</em>
+  <br/>Per defecte, el &brandShortName; bloca les finestres emergents que ben sovint
+    serveixen per a mostrar publicitat, i fan més nosa que servei.
+    Si desmarqueu aquesta &pref.singular; s'inhabilitarà el blocatge d'emergents.</p>
+
+  <p>Per altra banda, alguns llocs web utilitzen les finestres emergents per a usos
+    legítims. Llavors, podeu permetre que aquests llocs puguin mostrar finestres emergents. 
+    Per a fer-ho, podeu fer clic al botó <em>Excepcions…</em>, introduïu el
+    nom del lloc, i feu clic a <em>Permet</em>. Per a suprimir un lloc web de la llista, 
+    seleccioneu-lo i cliqueu a <em>Suprimeix el lloc</em>.
+    Si voleu suprimir tots els llocs de cop, feu clic a <em>Suprimeix tots els llocs</em>.</p>
+
+  <p><em>Carrega les imatges automàticament</em>
+  <br/>Per defecte el &brandShortName; mostra les imatges de les pàgines web. Desmarqueu aquesta
+  &pref.singular; per a inhabilitar-les completament.</p>
+
+  <p>Depenent si heu habilitat o no les imatges, podeu canviar quins llocs estan
+    blocats o quins llocs poden carregar imatges clicant a <em>Excepcions…</em>.
+    Introduïu el lloc d'on vulgueu permetre o blocar les imatges i feu clic a
+    <em>Permet</em> per a permetre les imatges, o cliqueu a <em>Bloca</em> per a
+    blocar-les.</p>
+
+  <p><em>Habilita el JavaScript</em><br/>
+   El JavaScript és un llenguatge script, (llenguatges pensats per a fer petits programes),
+   utilitzat habitualment per a construir pàgines web dinàmiques. No obstant això, fa que siguin
+   possibles certs altres comportaments més empipadors.
+   Si voleu inhabilitar el JavaScript, cal tenir present que moltes pàgines
+   web no us funcionaran correctament. Per a un control més acurat del que pot i no pot fer
+   el JavaScript, podeu fer clic a <em>Avançat…</em>.</p> 
+
+  <h4 id="advanced_javascript">Paràmetres avançats del JavaScript</h4>
+  <dl>
+    <dt>Moure o canviar la mida de finestres ja existents</dt>
+    <dd>Desmarqueu aquesta &pref.singular; per a inhabilitar que els scripts moguin o 
+    canviïn la mida de les finestres.</dd>
+
+    <dt>Aixecar o abaixar finestres</dt>
+    <dd>Desmarqueu aquesta &pref.singular; per a assegurar que els scripts no puguin aixecar
+	o abaixar les finestres.</dd>
+
+    <dt>Inhabilitar o reemplaçar menús contextuals</dt>
+    <dd>Desmarqueu aquesta &pref.singular; per a evitar que les pàgines web inhabilitin o canviïn
+	el menú contextual del &brandShortName;.</dd>
+
+    <dt>Amagar la barra d'estat</dt>
+    <dd>Desmarqueu aquesta &pref.singular; per a forçar que la barra d'estat es mostri
+	en les finestres emergents.</dd>
+
+    <dt>Canviar el text de la barra d'estat</dt>
+    <dd>Desmarqueu aquesta &pref.singular; per a inhabilitar que el text de la
+    barra d'estat es mogui o que amagui l'adreça web.</dd>
+  </dl>
+
+ <p><em>Habilita el Java</em><br/>
+       El Java és un llenguatge de programació molt popular desenvolupat per Sun Microsystems.
+       Un programa de Java pot executar-se en diferents tipus d'ordinadors, 
+       evitant així que els programadors hagin de fer diverses versions per a cada
+       tipus de sistema.
+       Desmarqueu aquesta &pref.singular; per a inhabilitar les miniaplicacions de Java al &brandShortName;.
+       Si voleu que us funcionin els programes Java, us caldrà que instaŀleu el connector del Java.</p>
+ 
+
+    <h3 id="fonts_and_colors">Tipus de lletra i colors</h3>
+    <p><em>Tipus de lletra per defecte</em> i <em>Mida</em><br/>
+	  Normalment, les pàgines web es mostren amb el tipus de lletra i mida que s'especifica ací. Altrament les pàgines web poden substituir aquestes opcions, excepte si especifiqueu el contrari al diàleg avançat del tipus de lletra.Feu clic al botó <em>Avançat…</em> per a accedir a més 
+      &pref.plural; del tipus de lletra.</p>
+
+    <h4 id="fonts_dialog">Diàleg del tipus de lletra:</h4>
+
+      <ol>
+        <li>Des de la llista del menú desplegable <em>Tipus de lletra per a</em> trieu un caràcters per a les llengües.
+          Per exemple, per exemple per a definir el tipus de lletra per defecte per a la majoria de llengües 
+	d'Europa Occidental (com ara llengües romàniques com el català), trieu <em>Occidental</em>.
+	 Per a un grup no present en aquesta llista, trieu <em>Definit per l'usuari</em>.</li>
+        <li>Seleccioneu si el text proporcional hauria de ser serif (com &quot;Times
+          New Roman&quot;) o sans-serif (com &quot;Arial&quot;). Llavors especifiqueu
+          la mida del tipus de lletra que voleu per al text proporcional.</li>
+        <li>Especifiqueu el tipus de lletra per a Serif, Sans-serif i Monospace.
+          També podeu canviar la mida dels <code>tipus de lletra Monospace</code>.</li>
+      </ol>
+
+      <p>Endemés, també podeu definir la mida mínima de la lletra que s'utilitzarà a la pantalla.
+        Això pot ser útil per a alguns llocs que utilitzen tipus de lletra molt petits
+        que difícilment poden llegir-se.</p>
+
+      <p><em>Permet a les pàgines mostrar els tipus de lletra propis, en comptes dels predeterminats</em><br/>
+        Per defecte, el &brandShortName; utilitza els tipus de lletra especificats per la pàgina web de
+        l'autor. Inhabilitant aquesta &pref.singular; es forçarà que tots els llocs utilitzin
+        el seu tipus de lletra.</p>
+
+      <p><em>Codificació de caràcters</em><br/>
+        La codificació de caràcters ací seleccionada s'utilitzarà per a mostrar les pàgines que no
+        especifiquen quina codificació utilitzen.</p>
+
+    <h4 id="colors_dialog">Diàleg dels colors:</h4>
+
+   <p><strong>Text i fons</strong><br/>
+	  Ací podeu canviar el color de les lletres i del fons de la pàgina que es farà servir en les pàgines
+	  que no hagin especificat colors. Per a modificar el color feu clic al botó que us mostra un
+	  exemple del color que actualment es fa servir.</p>
+
+    <p><em>Utilitza els colors del sistema</em><br/>
+      Si marqueu aquesta &pref.singular;, aleshores en comptes d'usar els colors per defecte que heu seleccionat ací,
+	  es faran servir els colors per defecte del vostre sistema operatiu.</p>
+
+    <p><strong>Colors dels enllaços</strong><br/>
+	Ací podeu canviar els colors per defecte per als enllaços web. Feu clic als exemples de
+	color per a seleccionar-ne un.</p>
+
+    <p><em>Subratlla els enllaços</em><br/>
+      Per defecte, els enllaços se subratllen a les pàgines web. Però podeu canviar-ho si
+	  desmarqueu aquesta &pref.singular;. 
+	  Recordeu que açò només defineix el comportament
+	  per defecte de les pàgines que no tenen definides unes regles pròpies.</p>
+
+      <p><em>Permet a les pàgines triar els colors propis, en comptes dels predeterminats</em><br/>
+        Per defecte, el &brandShortName; utilitza els colors especificats per la pàgina web de
+        l'autor. Inhabilitant aquesta &pref.singular; forçarà que tots els llocs utilitzin els vostres
+        colors per defecte.</p>
+
+  <h3 id="file_types">Tipus de fitxer</h3>
+    <p>El diàleg d'accions de les baixades, que pot obrir-se fent clic al botó 
+      <em>Gestiona…</em>, conté els tipus de fitxer que heu
+      baixat. Podeu triar què hauria de fer el &brandShortName; quan cliqueu
+      a un tipus de fitxer específic seleccionant el tipus de fitxer que voleu modificar i llavors
+      fent clic al botó <em>Canvia l'acció…</em>.</p>
+
+    <p>Això mostrarà un diàleg de canvi d'acció on podeu triar si voleu que
+      el tipus de fitxer s'obri amb l'aplicació per defecte, una seleccionada per
+      l'usuari, que es desi al disc, o que es mostri amb un connector instaŀlat. Per
+      exemple, si visualitzeu molts fitxers multimèdia de les pàgines web, podríeu voler
+      especificar que el &brandShortName; obri sempre els fitxers multimèdia en el vostre reproductor
+      preferit en comptes de demanar-vos on ha de desar-se cada fitxer.</p>
+
+    <ul>
+      <li><em>Obre'ls amb l'aplicació per defecte:</em><br/>
+        Seleccioneu aquesta &pref.singular; per a obrir aquest tipus de fitxer amb
+        l'aplicació per defecte (determinat pel sistema operatiu).</li>
+      <li><em>Obre'ls amb aquesta aplicació:</em><br/>
+        Seleccioneu aquesta &pref.singular; per a especificar una altra aplicació que
+        que gestioni aquest tipus de fitxer. Veureu un diàleg que us demanarà que especifiqueu
+        quina voleu.</li>
+      <li><em>Desa'ls al meu ordinador:</em><br/>
+        Aquesta &pref.singular; desarà els fitxers al disc. Si teniu la &pref.singular;
+        <em>Desa tots els fitxers en aquest directori</em> habilitada, els fitxers
+        es desaran automàticament.</li>
+      <li><em>Utilitza aquest connector:</em><br/>
+        Seleccioneu aquesta &pref.singular; perquè el connector gestioni aquest tipus de fitxer.</li>
+    </ul>
+
+<h2 id="feeds_options">&pref.pluralCaps; dels canals</h2>
+<p>Els canals són uns documents amb un format especial que resumeixen el contingut dels
+  llocs web. Per exemple, un canal pot resumir els darrers titulars d'un portal
+  de notícies o els darrers articles d'un bloc. Podeu visualitzar el contingut dels canals en el
+  &brandShortName;, crear-ne adreces d'interès actives, o afegir-los a un lector de canals del
+  vostre ordinador o d'un servei web. Les &pref.plural; d'aquesta subfinestra determinen com actua el
+  &brandShortName; quan visualitzeu un canal.</p>
+
+<p><em>Mostra'm una previsualització i demana'm quin lector de canals es farà servir</em><br/>
+  Quan visualitzeu un canal en el &brandShortName;, se us mostrarà una previsualització dels
+  seus continguts. Si seleccioneu aquesta &pref.singular;, sempre podreu triar què
+  voleu fer servir per a subscriure-us al canal des de la part superior de la
+  pàgina de previsualització.</p>
+    
+<p><em>Subscriu-me al canal fent servir:</em><br/>
+  En comptes de mostrar una previsualització del canal que esteu visualitzant, podeu obrir
+  el canal directament en seleccionar un lector de la llista de lectors disponibles.
+  Podeu triar fer servir una aplicació del vostre ordinador
+  per a subscriure-us als canals fent clic al botó <em>Trieu una aplicació…</em>
+  i trobar l'aplicació al vostre ordinador. Com alternativa, podeu triar subscriure-us
+  automàticament als canals desant-los com adreces d'interès actives.
+  Per a triar un mètode de subscripció, seleccioneu-lo simplement de la llista.</p>
+
+
+<h2 id="privacy_options">&pref.pluralCaps; de la privadesa</h2>
+
+   
+  <h3 id="privacy_history">Historial</h3>
+  <p><em>Recorda les pàgines visitades els darrers … dies</em><br/>  
+     Ací podeu especificar fins quan voleu que el &brandShortName;  recordi les pàgines que heu 
+     visitat. Per defecte el valor és de 9 dies.</p>
+
+  <p><em>Recorda el que introdueixi a formularis i a la barra de cerca</em><br/>
+    Quan introduïu informació a formularis o a la barra de cerca del
+    &brandShortName;, la informació es desarà perquè el &brandShortName; pugui
+    fer suggeriments quan torneu a introduir-hi informació. Per a aturar
+    aquest comportament, desmarqueu aquesta &pref.singular;.</p>
+      
+  <p><em>Recorda el que he baixat</em><br/>
+    Aquesta &pref.singular; controla si es mostraran les antigues baixades en la
+    finestra de baixades.  La finestra de baixades (accessible des d'<span
+    class="menuPath">Eines</span> o en prémer <span
+    class="noUnix">&accelKey;+<kbd>J</kbd></span><span
+    class="unix">&accelKey;+<kbd>Y</kbd></span>) mostra una llista de les vostres
+    baixades més recents.  Les &pref.plural; de baixada són disponibles en el quadre <a
+    href="#main_options"><em>Principal</em></a>.</p>
+
+  <h3 id="privacy_cookies">Galetes</h3>
+  <p>Una galeta és un fitxer creat per un lloc web que emmagatzema informació en el vostre that stores information on your
+    ordinador, com ara preferències específiques de visita.</p>
+
+  <p><em>Accepta galetes dels llocs web</em><br/>
+    Per defecte, les galetes estan habilitades. Desmarca aquesta &pref.singular; per a inhabilitar
+    l'ús de galetes. Tingueu en compte que alguns llocs potser no funcionen adequadement quan les galetes
+    estan inhabilitades.</p>
+      
+  <p><em>Conserva-les fins:</em></p>
+
+  <ul>
+    <li><em>que vencin</em><br/>
+      Aquesta és la &pref.singular; per defecte. Quan està activada, es permet que els llocs
+      web especifiquin fins quan el &brandShortName; emmagatzemarà una galeta. Açò permet
+      que un lloc web recordi les vostres preferències i informació de sessió
+      una i altra vegada.</li>
+    <li><em>que tanqui el &brandShortName;</em><br/>
+      Si se selecciona aquesta &pref.singular;, el &brandShortName; suprimirà
+      totes les galetes emmagatzemades quan es tanqui.</li>
+    <li><em>demana-m'ho cada vegada</em><br/>
+      Si s'activa aquesta &pref.singular;, el &brandShortName; us demanarà quant de temps
+      voleu conservar una galeta (o rebutjar-la completament) cada vegada que un lloc
+      web intenti deixar-ne una.</li>
+  </ul>
+
+  <p>Per a controlar quins llocs poden o no deixar galetes, feu clic al botó
+    <em>Excepcions…</em>.</p>
+      
+  <p>Per a mostrar el gestor de galetes feu clic al botó <em>Mostra les galetes…</em>.</p>
+
+  <p>Si voleu saber més de com funcionen les galetes, les &pref.plural; individuals, i com controlar
+    els llocs als quals els està permès emmagatzemar galetes en el vostre ordinador,
+    llegiu el capítol <a href="cookies.xhtml">Com gestionar les galetes</a>.</p>
+
+  <h3 id="private_data">Dades privades</h3>
+
+  <p><em>Neteja sempre les dades privades en tancar el &brandShortName;</em><br/>
+    Podeu triar que el &brandShortName; netegi les vostres dades privades quan es
+    tanqui. Per a configurar quines dades es netegen, feu clic al botó <em>Paràmetres…</em>.</p>
+    
+  <p><em>Demana-m'ho abans de netejar les dades privades</em><br/>
+    Si seleccioneu aquesta &pref.singular;, el &brandShortName; us demanarà permís
+    abans de netejar automàticament les dades especificades en fer clic al botó
+    <em>Paràmetres…</em>.</p>
+  
+  <p>Si desitgeu netejar les dades en  aquell mateix moment, podeu fer clic al botó
+    <em>Neteja-ho ara…</em> per a fer-ho. Per a netejar les vostres dades privades des de
+    fora del diàleg de preferències, premeu &accelKey;+&shiftKey;+<kbd>Supr</kbd>
+    o bé seleccioneu <span class="menuPath">Eines &gt; Neteja les dades privades…</span>.</p>
+
+
+<h2 id="security_options">&pref.pluralCaps; de seguretat</h2>
+<p><em>Avisa'm quan els llocs web intentin instaŀlar complements</em><br/>
+  El &brandShortName; us demanarà sempre que confirmeu la instaŀlació de complements.
+  Per a evitar soŀlicituds d'instaŀlacions no volgudes que puguin portar a instaŀlacions
+  accidentals, el &brandShortName; us avisa quan un lloc web intenta instaŀlar un
+  complement i bloca el diàleg d'instaŀlació.  Per a permetre instaŀlacions des d'un
+  lloc específic, feu clic a <em>Excepcions…</em>, introduïu el nom del lloc, i llavors cliqueu a
+  <em>Permet</em>. Desmarqueu aquesta &pref.singular; per a inhabilitat els avisos per a tots
+  els llocs web.</p>
+    
+<p><em>Avisa'm si el lloc que estigui visitant pogués ser sospitós de ser una falsificació</em><br/>
+  Marqueu aquest &pref.singular; si voleu que el &brandShortName; comprovi activament si
+  el lloc que esteu visitant pogués ser realment un intent d'enganyar-vos perquè hi
+  proporcioneu informació personal (això sovint es coneix amb el nom de <em>pesca electrònica</em>).</p>
+
+<p><em>Comprova-ho utilitzant una llista baixada de llocs sospitosos</em><br/>
+  Si se selecciona aquesta &pref.singular;, el &brandShortName; comprovarà el lloc web
+  actual fent servir una llista d'actualització freqüent emmagatzemada al vostre ordinador. No es transmetrà cap dada
+  dels llocs que visiteu a les terceres parts que proporcionen protecció davant la pesca electrònica
+  durant una navegació normal. Atès que les tècniques de pesca electrònica i els llocs implicats evolucionen ràpidament,
+  aquest mode de protecció podria no ser tan efectiu com el que pot oferir un proveïdor contra la pesca electrònica,
+  que verifica cada lloc que visiteu.</p>
+
+<p><em>Comprova-ho demanant-ho a … per a cada lloc que visiti</em><br/>
+  Si se selecciona aquesta &pref.singular;, el &brandShortName; enviarà l'adreça de
+  la pàgina actual a través d'una connexió xifrada a un tercer proveïdor seleccionat que
+  ofereix un servei de protecció davant la pesca electrònica per tal de verificar la identitat del document. Aquest mètode ofereix la
+  major protecció possible, però informació com ara la vostra adreça IP i la versió del vostre navegador
+  pot ser transferida o emmagatzemada als servidors del proveïdor. Se us demanarà que
+  llegiu i estigueu d'acord amb la política de privadesa del proveïdor de dades després que
+  hàgiu seleccionat aquesta &pref.singular;.</p>
+      
+  <h3 id="security_passwords">Contrasenyes</h3>
+  <p><em>Recorda les contrasenyes dels llocs web</em><br/>
+    El &brandShortName; pot desar de forma segurar les contrasenyes que introduïu en els formularis web
+    per a facilitar l'inici de sessió en els llocs web.  Desmarqueu aquest quadre de verificació per a evitar que
+    el &brandShortName; se'n recordi de les vostres contrasenyes.</p>
+    
+    <p>Fins i tot si activeu aquesta &pref.singular;, se us demanarà si voleu
+    desar les contrasenyes d'un lloc web quan el visiteu per primera vegada. Si seleccioneu
+    <em>Mai per a aquest lloc</em>, el lloc s'afegirà a la llista d'excepcions.
+    Per a accedir-hi o suprimir-ne llocs, feu clic al botó
+    <em>Excepcions…</em>.</p>
+
+  <p id="set_change_master_password"><em>Utilitza una contrasenya mestra</em><br/>
+    El &brandShortName; pot protegir informació sensible com ara contrasenyes desades i
+    certificats xifrant-los amb una <a
+    href="glossary.xhtml#master_password">contrasenya mestra</a>.  Si creeu una
+    contrasenya mestra, cada vegada que inicieu el &brandShortName;, se us demanarà que introduïu
+    la contrasenya la primera vegada que calgui accedir a un certificat o a una contrasenya
+    emmagatzemada. Podeu definir, canviar o suprimir la contrasenya mestra si
+    marqueu o desmarqueu aquesta &pref.singular; o en fer clic al botó
+    <em>Canvia la contrasenya mestra…</em>. Si ja s'ha definit una contrasenya mestra,
+    caldrà que la introduïu primer per a canviar o suprimir l'anterior.</p>
+
+  <p><em>Mostra les contrasenyes…</em><br/>
+    Podeu gestionar les contrasenyes desades i suprimir-ne individualment si feu clic
+    al botó <em>Mostra les contrasenyes</em>.</p>
+  
+  <h3 id="warning_messages">Missatges d'avís</h3>
+  <p>Feu clic al botó <em>Paràmetres…</em> per a configurar els avisos de seguretat que el
+    &brandShortName; mostra mentre navegueu.</p>
+    
+    <h4>Diàlegs dels avisos de seguretat</h4>
+    <!--XXX massive suck!  do these provide *any* value whatsoever? -->
+    <dl>
+      <dt>En visualitzar una pàgina xifrada.</dt>
+      <dd>Quan s'habilita aquesta &pref.singular;, el &brandShortName; us notificarà
+        cada vegada que aneu a visualitzar una pàgina xifrada.</dd>
+
+      <dt>En visualitzar una pàgina de xifratge de baix nivell.</dt>
+      <dd>Si s'habilita aquesta &pref.singular;, el &brandShortName; us avisarà quan
+        visiteu una pàgina que utilitza xifratge de baix nivell.</dd>
+
+      <dt>En deixar una pàgina xifrada per una que no ho està</dt>
+      <dd>Si s'habilita aquesta &pref.singular;, el &brandShortName; us avisarà
+        cada vegada que canvieu d'una pàgina xifrada a una sense xifrar, tant si
+        seleccioneu un enllaç de la pàgina, o una adreça d'interès, com sí escriviu
+        una nova adreça a la barra d'ubicació.</dd>
+
+      <dt>En trametre informació que no està xifrada</dt>
+      <dd>Quan s'habilita aquesta &pref.singular;, el &brandShortName; us avisarà
+        quan trameteu dades a través d'un formulari que no estigui xifrat.</dd>
+  
+      <dt>En visualitzar una pàgina xifrada però que contingui informació sense xifrar</dt>
+      <dd>Si s'habilita aquesta &pref.singular;, el &brandShortName; us avisarà quan
+        la pàgina que estigueu visualitzant contingui una barreja de contingut xifrat i
+        sense xifrar. Si una pàgina xifrada conté dades sense xifrar, caldria que verifiqueu
+        la identitat de la pàgina que esteu visualitzant abans que hi pugueu introduir-hi
+        dades privades.</dd>
+    </dl>
+
+<h2 id="advanced_options">&pref.pluralCaps; avançades</h2>
+  <p>El quadre Avançat conté moltes &pref.plural; que són menys probables que utilitzi
+      la majoria de la gent però que poden ser útils, i fins i tot, crítiques per
+      a algunes persones.</p>
+
+  <h3 id="advanced_general">Pestanya general</h3>
+
+    <h4 id="accessibility">Accessibilitat</h4>
+      <p><em>Permet que el text es pugui seleccionar amb el teclat</em><br/>
+        Coneguda també com a navegació intercalada (caret browsing), especifica si un cursor que es mou
+        es mostrarà, permetent-vos seleccionar text amb el teclat. Algunes ajudes d'accessibilitat,
+        com ara els lectors i magnificadors de pantalla, utilitzen
+        la intercalació del sistema per a determinar quina àrea de la pantalla han de llegir o
+        magnificar. Podeu commutar a aquest mode prement <kbd>F7</kbd>.</p>
+
+      <p><em>Comença a cercar quan comenci a escriure</em><br/>
+        Quan s'habilita aquesta &pref.singular; el &brandShortName; intentarà
+        cercar en la pàgina actual el que esteu escrivint a mesura que ho feu.
+        Mentre cerqueu el text escrit a la pàgina, la barra de cerca es mostrarà
+        automàticament a la part inferior de la finestra per a mostrar-vos informació
+	del que heu trobat.</p>
+
+
+  <h4 id="browsing">Navegació</h4>
+
+  <p><em>Utilitza el desplaçament automàtic</em><br/>
+    El desplaçament automàtic és una característica molt útil per a desplaçar la pàgina amunt o avall fàcilment
+	 prement el botó del mig del ratolí (habitualment la rodeta) i movent-lo amunt o avall. Hi ha qui troba que és
+	una característica emprenyadora, per això pot inhabilitar-se des d'aquesta &pref.singular;.</p>
+
+  <p><em>Utilitza el desplaçament suau</em><br/>
+	El desplaçament suau pot ser molt útil si llegiu un munt de textos llargs. Normalment quan premeu el botó <kbd>Pàgina avall</kbd>,
+	la visualització fa un salt sobtat. Amb el desplaçament suau, veureu que la pàgina es desplaça avall
+	suaument fins arribar a la següent posició, facilitant a la vista que no es perdi el punt que s'estava llegint.</p>
+
+    <p><em>Comprova l'ortografia mentre escric</em><br/>
+      Quan s'habiliti aquesta preferència, el &brandShortName; comprovarà l'ortografia
+      i oferirà possibles correccions a mesura que escriviu en formularis web. Tingueu en compte
+      que us pot caler baixar un diccionari; per a fer-ho, <span
+      class="noMac">feu clic amb el botó secundari</span><span class="mac">premeu &ctrlKey; i
+      feu clic</span> en qualsevol camp de text, habiliteu la comprovació ortogràfica si fos necessari, i
+      llavors feu servir el menú <span class="menuPath">Llengües</span> per a
+      baixar un diccionari.</p>
+
+
+    <h4 id="languages">Llengües</h4>
+
+      <p>Algunes pàgines web s'ofereixen en més d'una llengua. Feu clic al botó
+        <em>Trieu…</em> per a especificar les vostres llengües
+        preferides.</p>
+
+      <p><strong>Diàleg de les llengües:</strong><br/>
+        Per a afegir una llengua, premeu <em>Seleccioneu una llengua per afegir…</em>, trieu
+        la llengua, i cliqueu al botó <em>Afegeix</em>. Podeu suprimir una llengua
+        seleccionant-la de la llista de llengües actives i fent clic al botó
+        <em>Elimina</em>.</p>
+
+      <p>Podeu ordenar les llengües per a determinar quina és la preferida quan una pàgina
+        sigui disponible en dos o més llengües. Per a açò, utilitzeu els botons
+        <em>Mou amunt</em> i <em>Mou avall</em>.</p>
+
+  <h3 id="advanced_network">Pestanya de xarxa</h3>
+
+    <h4 id="connection_settings">Connexió</h4>
+    <p>La vostra organització o proveïdor de serveis d'Internet pot oferir-vos o demanar-vos que
+      utilitzeu un servidor intermediari. Un servidor intermediari actua com a un intermediari entre el vostre ordinador i
+      Internet. Intercepta totes les soŀlicituds a Internet per a veure si pot satisfer-les
+      amb la seua memòria cau. Els servidors intermediaris s'utilitzen per a millorar
+      l'eficència, filtrar les soŀlicituds, i amagar el vostre ordinador d'Internet per a
+      augmentar la seguretat. Els servidors intermediaris són sovint una part dels tallafocs d'empresa.</p>
+
+    <h4>Diàleg dels paràmetres de connexió</h4>
+    <dl>
+      <dt>Connexió directa a Internet</dt>
+      <dd>Aquesta és la &pref.singular; per defecte. Trieu-la si no voleu fer servir
+        un servidor intermediari.</dd>
+
+      <dt>Detecta automàticament els paràmetres del servidor intermediari per a aquesta xarxa</dt>
+      <dd>Trieu-ho si voleu que el &brandShortName; detecti automàticament els
+        paràmetres del servidor intermediari de la vostra xarxa.</dd>
+
+      <dt>Configuració manual del servidor intermediari</dt>
+      <dd>Trieu-ho si el servidor intermediari no té una ubicació de configuració definda (URL). Demaneu al
+        vostre administrador de sistemes els noms i números de port dels servidors que
+        executen el programari del servidor intermediari per a cada servei de xarxa, i introduïu
+        aquesta informació en els camps apropiats.</dd>
+
+      <dt>URL de configuració automàtica del servidor intermediari</dt>
+      <dd>Si el vostre lloc de treball té un fitxer de configuració del servidor intermediari, demaneu a
+        l'administrador de sistemes el seu URL i introduïu-lo ací. Feu clic a <em>Actualitza</em> per
+        a carregar-ne la configuració.</dd>
+    </dl>
+
+  <h4 id="advanced_cache">Memòria cau</h4>
+  <p>Les pàgines que aneu visitant es van desant en un directori especial, per així 
+     quan torneu a visitar la mateixa pàgina i aquesta no hagi canviat, la podeu descarregar 
+	 més ràpidament del vostre disc, en comptes de la xarxa.
+	 Ací podeu especificar quanta memòria del vostre disc voleu destinar com a memòria cau.
+	També podeu netejar immediatament els continguts de la memòria cau.</p>
+
+    <p><em>Utilitza fins a … MB d'espai per a la memòria cau</em><br/>
+      Us permet especificar la mida màxima, en megabytes, de la memòria cau del
+      vostre ordinador.</p>
+    
+    <p><em>Neteja-ho ara</em><br/>
+      Neteja immediatament els continguts actuals de la memòria cau, alliberant l'espai de disc
+      utilitzat per la memòria cau.</p>
+
+  <h3 id="advanced_update">Pestanya d'actualització</h3>
+    <p>El &brandShortName; pot comprovar si hi ha actualitzacions disponibles per a
+      extensions, temes, o del mateix &brandShortName;.</p>
+
+    <p><em>Comprova automàticament les actualitzacions de:</em><br/>
+      Per defecte el &brandShortName; comprova automàticament les actualitzacions d'ell mateix
+      com de les extensions i els temes, així sempre sabreu que teniu la versió més actualitzada.
+      Podeu desactivar aquest comportament desmarcant ací el quadre de verificació. 
+      </p>
+
+    <p><em>Quan es trobin actualitzacions del &brandShortName;,</em></p>
+
+    <dl>
+      <dt>Demana'm què vull fer</dt>
+      <dd>Les actualitzacions del &brandShortName; s'instaŀlen típicament de forma
+        automàtica per defecte. Seleccioneu aquesta &pref.singular; per a controlar manualment com i quan
+        s'instaŀlen les actualitzacions.</dd>
+      <dt>Baixa i instaŀla automàticament l'actualització</dt>
+      <dd>Quan es selecciona aquesta &pref.singular;, les actualitzacions del &brandShortName;
+        es baixaran automàticament i s'instaŀlaran el següent cop que es reiniciï el
+        &brandShortName;. Amb la &pref.singular; <em>Avisa'm si s'inhabilitaran
+        extensions o temes</em> es determinarà si rebreu un avís
+        abans de la instaŀlació d'una actualització que impliqui que una
+        extensió o tema incompatible hagi d'inhabilitar-se perquè no hi ha
+        cap versió més nova i compatible.  L'avís us permetrà que posposeu
+        la instaŀlació de l'actualització, encara que sigui a expenses de les millores
+        que s'hi inclouen.</dd>
+      <dd>Si totes les extensions i temes són compatibles o poden actualitzar-se a una versió 
+        compatible, l'actualització del &brandShortName; s'instaŀlarà. Un cop reinicieu
+        se us demanarà que instaŀleu aquelles actualitzacions d'extensions i temes
+        necessàries perquè pugueu continuar fent-les servir.</dd>
+    </dl>
+
+    <p><em>Mostra l'historial d'actualització</em><br/>
+      El &brandShortName; enregistra automàticament les actualitzacions que heu instaŀlat.
+      Podeu visualitzar informació d'aquestes actualitzacions fent clic a aquest botó.</p>
+
+    <p><strong>Nota:</strong> Heu d'executar el &brandShortName; com a
+      <span class="win">administrador</span><span class="noWin">usuari primari</span>
+      o bé amb l'usuari amb el que originalment vau instaŀlar el &brandShortName; per a
+      poder instaŀlar les actualitzacions del &brandShortName;.</p>
+
+  <h3 id="advanced_encryption">Pestanya de xifratge</h3>
+
+    <h4 id="protocols">Protocols</h4>
+
+  <p><em>Utilitza SSL 3.0</em><br/>
+	Especifica si voleu enviar i rebre informació segura a través de SSL3
+        (Capa de sòcols segura, nivell 3). Aquest és un protocol estàndard per a la comunicació
+	segura dels llocs web. Si l'inhabiliteu, no podreu visitar alguns llocs segurs.</p>
+
+  <p><em>Utilitza TLS 1.0</em><br/>
+        Especifica si voleu enviar i rebre informació segura a través de TLS 
+	(Capa de transport segura), un protocol de seguretat obert semblant al SSL3.
+	Si l'inhabiliteu, no podreu visitar alguns llocs segurs.</p>
+
+
+    <h4 id="certificates">Certificats</h4>
+      <p>Els certificats ajuden a realitzar xifratges i desxifratges de connexions als
+        <a href="glossary.xhtml#secure_site">llocs segurs</a>.</p>
+
+      <p><em>Quan un lloc web demana un certificat:</em><br/>
+        Quan un lloc web demana una connexió segura, el &brandShortName; utilitzarà
+        per defecte un certificat apropiat automàticament. Si voleu triar un certificat 
+	manualment (per exemple, si voleu utilitzar un cert tipus de xifratge en comptes
+        del que se selecciona automàticament), seleccioneu
+        la &pref.singular; <em>Demana-m'ho cada vegada</em> i tindreu control total
+        dels certificats mentre navegueu.</p>
+
+      <p><em>Visualitza els certificats</em><br/>
+        Feu un clic a aquest botó per a visualitzar els certificats emmagatzemats, importar nous
+	certificats i fer una còpia de seguretat o suprimir aquells antics al &brandShortName;.</p>
+
+      <p><em>Llistes de revocació</em><br/>
+        El &brandShortName; pot utilitzar unes llistes de revocació de certificats (també conegudes
+        com CRLs) per a assegurar que els vostres certificats siguin vàlids. Feu un clic al botó
+        de <em>Llistes de revocació</em> per a gestionar les CRLs instaŀlades al vostre
+        ordinador.</p>
+
+      <p><em>Verificació</em><br/>
+        L'OCSP (El protocol d'estat de certificat en línia) és una forma de validar els vostres
+        certificats cada cop que es visualitzen o s'utilitzen. El &brandShortName; no
+        utilitza el OCSP per defecte, però si voleu, podeu habilitar-ho des d'aquesta secció.
+        Segurament només caldrà que ho canvieu si el vostre entorn d'Internet us ho demana.</p>
+
+      <p><em>Dispositius de seguretat</em><br/>
+        Els dispositius de seguretat poden xifrar i desxifrar connexions i emmagatzemar
+        certificats i contrasenyes. Si heu d'utilitzar un dispositiu de seguretat diferent
+        del que trobem al &brandShortName;, feu clic al botó <em>Dispositius de seguretat</em>.</p>
+
+
+<div class="contentsBox"><em>12 de setembre del 2006</em></div>
+<p>Copyright &copy; &copyright.years; Coŀlaboradors del projecte d'ajuda de Mozilla.</p>
+
+</body>
+</html>

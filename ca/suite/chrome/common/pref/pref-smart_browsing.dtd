@@ -1,0 +1,31 @@
+<!-- extracted from content/pref-smart_browsing.xul -->
+
+<!--LOCALIZATION NOTE : FILE The SmartBrowsing prefs dialog -->
+<!ENTITY pref.smartBrowsing.title              "Navegació inteŀligent">
+
+<!--LOCALIZATION NOTE (internetKeywordsHeader.label): DONT_TRANSLATE -->
+<!ENTITY internetKeywordsHeader.label "Paraules clau d'Internet">
+<!ENTITY internetKeywordsDescription.label "Les paraules clau d'Internet habiliten, des de la barra d'ubicació, l'accés ràpid a serveis com ara valors de borsa, cerca i altres informacions.">
+<!ENTITY moreInformation.label "Més informació...">
+<!ENTITY moreInformation.accesskey "m">
+<!--LOCALIZATION NOTE (enableKeyCheck.label): Do not translate 'Internet Keywords' -->
+<!ENTITY keywordsEnabled.label "Habilita les paraules clau d'Internet">
+<!ENTITY keywordsEnabled.accesskey "c">
+
+<!ENTITY autoCompleteHeader.label "Compleció automàtica de la barra d'ubicació">
+<!ENTITY autoCompleteEnabled.label "Habilita la compleció automàtica de la barra d'ubicació">
+<!ENTITY autoCompleteEnabled.accesskey "l">
+
+<!ENTITY autoCompleteAdvanced.label "Avançat...">
+<!ENTITY autoCompleteAdvanced.accesskey "A">
+<!ENTITY autoCompleteAdvanced.title "Preferències de la compleció automàtica">
+<!ENTITY autoCompleteAutoFill.label "Completa automàticament amb la millor coincidència a mesura que s'escriu">
+<!ENTITY autoCompleteShowPopup.label "Mostra la llista dels resultats que coincideixen">
+<!ENTITY autoCompleteShowSearch.label "Mostra el motor de cerca a Internet">
+<!ENTITY autoCompleteMatchOnlyTyped.label "Fes coincidir només els llocs web que s'han teclejat anteriorment">
+<!ENTITY autocompletePreview.label "Visualització prèvia">
+
+<!ENTITY domainGuessingHeader.label "Suposició de dominis">
+<!ENTITY domainGuessingEnabled.label "Si no es troba una pàgina web, afegeix automàticament «www.» i «.com» a la ubicació.">
+<!ENTITY domainGuessingEnabled.accesskey       "u">
+

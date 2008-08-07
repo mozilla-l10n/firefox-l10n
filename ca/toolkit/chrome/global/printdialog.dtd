@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Imprimeix">
+
+<!ENTITY printDialog.title "Imprimeix">
+
+<!ENTITY fpDialog.title "Desa el fitxer">
+
+<!ENTITY fileCheck.label "Imprimeix a un fitxer">
+<!ENTITY propertiesButton.label "Propietats…">
+<!ENTITY descText.label "Descripció de la impressora:">
+<!ENTITY printer.label "Impressora">
+<!ENTITY printerInput.label "Impressora:">
+
+<!ENTITY printrangeGroup.label "Abast d'impressió">
+<!ENTITY allpagesRadio.label "Totes les pàgines">
+<!ENTITY rangeRadio.label "Pàgines">
+<!ENTITY frompageInput.label "de">
+<!ENTITY topageInput.label "a ">
+<!ENTITY selectionRadio.label "Selecció">
+
+<!ENTITY copies.label "Còpies">
+<!ENTITY numCopies.label "Nombre de còpies:">
+
+<!ENTITY printframeGroup.label "Imprimeix els marcs">
+<!ENTITY aslaidoutRadio.label "Tal com es veuen a la pantalla">
+<!ENTITY selectedframeRadio.label "El marc seleccionat">
+<!ENTITY eachframesepRadio.label "Cada marc per separat">
+
