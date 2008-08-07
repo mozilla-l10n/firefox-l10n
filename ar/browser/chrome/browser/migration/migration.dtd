@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "مرشِد الاستيراد">
+
+<!ENTITY importFrom.label "استورد الخيارات، العلامات، التّاريخ، كلمات السرّ و بيانات أخرى من:">
+<!ENTITY importFromUnix.label "استورد التّفضيلات، العلامات، التّاريخ، كلمات السرّ و بيانات أخرى من:">
+<!ENTITY importFromBookmarks.label "استورد العلامات من:">
+
+<!ENTITY importFromIE.label "مايكروسوفت إنترنت إكسبلورر">
+<!ENTITY importFromIE.accesskey "م">
+<!ENTITY importFromPhoenix.label "فايرفوكس 0.8، فيربرد أو فيونكس">
+<!ENTITY importFromPhoenix.accesskey "ف">
+<!ENTITY importFromNothing.label "لا تستورد أي شيء">
+<!ENTITY importFromNothing.accesskey "ل">
+<!ENTITY importFromSeamonkey.label "نتسكيب 6,7 أو موزيلا 1.*">
+<!ENTITY importFromSeamonkey.accesskey "ن">
+<!ENTITY importFromNetscape4.label "نتسكيب 4.*">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "أوبرا">
+<!ENTITY importFromOpera.accesskey "ر">
+<!ENTITY importFromCamino.label "كامينو">
+<!ENTITY importFromCamino.accesskey "و">
+<!ENTITY importFromSafari.label "سافاري">
+<!ENTITY importFromSafari.accesskey "س">
+<!ENTITY importFromOmniWeb.label "أُمني وِب">
+<!ENTITY importFromOmniWeb.accesskey "ي">
+<!ENTITY importFromICab.label "آيكاب">
+<!ENTITY importFromICab.accesskey "آ">
+<!ENTITY importFromKonqueror.label "كُنكَرر">
+<!ENTITY importFromKonqueror.accesskey "ك">
+<!ENTITY importFromEpiphany.label "إبِفني">
+<!ENTITY importFromEpiphany.accesskey "إ">
+<!ENTITY importFromGaleon.label "جاليون">
+<!ENTITY importFromGaleon.accesskey "ج">
+<!ENTITY importFromHTMLFile.label "من ملف HTML">
+<!ENTITY importFromHTMLFile.accesskey "م">
+
+<!ENTITY noMigrationSources.label "لم يُعثر على أي برامج تحتوي على بيانات علامات، تاريخ، أو كلمات سرّ.">
+
+<!ENTITY importSource.title "استورد الإعدادات و البيانات">
+<!ENTITY importItems.title "العناصر المراد استيرادها">
+<!ENTITY importItems.label "اختر أي العناصر تريد استيرادها:">
+
+<!ENTITY migrating.title "يستورد...">
+<!ENTITY migrating.label "يجري استيراد العناصر التالية...">
+
+<!ENTITY selectProfile.title "اختر الملفّ الشّخصيّ">
+<!ENTITY selectProfile.label "تتوفّر الملفّات الشّخصيّة التّالية للاستيراد منها:">
+
+<!ENTITY done.title "تمّ الاستيراد">
+<!ENTITY done.label "تمّ استيراد العناصر التّالية بنجاح:">
+

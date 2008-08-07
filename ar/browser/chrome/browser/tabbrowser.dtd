@@ -1,0 +1,18 @@
+<!ENTITY untitledTab "(غير مُعنون)">
+<!ENTITY newTab.label "لسان جديد">
+<!ENTITY newTab.accesskey "ل">
+<!ENTITY closeTab.label "أغلق اللسان">
+<!ENTITY closeTab.accesskey "غ">
+<!ENTITY closeOtherTabs.accesskey "خ">
+<!ENTITY closeOtherTabs.label "أغلق الألسنة الأخرى">
+<!ENTITY reloadAllTabs.label "أعِد تحميل جميع الألسنة">
+<!ENTITY reloadAllTabs.accesskey "ج">
+<!ENTITY reloadTab.label "أعِد تحميل اللسان">
+<!ENTITY reloadTab.accesskey "ع">
+<!ENTITY listAllTabs.label "اسرد كل الألسنة">
+<!ENTITY bookmarkAllTabs.label "علّم كل الألسنة...">
+<!ENTITY bookmarkAllTabs.accesskey "ك">
+<!ENTITY bookmarkThisTab.label "علّم هذا اللسان">
+<!ENTITY bookmarkThisTab.accesskey "ه">
+<!ENTITY undoCloseTab.label "تراجع عن غلق اللسان">
+<!ENTITY undoCloseTab.accesskey "ت">

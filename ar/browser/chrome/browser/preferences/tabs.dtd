@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label "تُفتح الصفحات الجديدة في:">
+<!ENTITY inNewWindow.label "نافذة جديدة">
+<!ENTITY inNewWindow.accesskey "ج">
+<!ENTITY inNewTab.label "لسان جديد">
+<!ENTITY inNewTab.accesskey "ل">
+
+<!ENTITY warnCloseMultipleTabs.label "نبّهني عند محاولة إغلاق عدّة ألسنة">
+<!ENTITY warnCloseMultipleTabs.accesskey "ه">
+
+<!ENTITY warnOpenManyTabs.label "نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "ف">
+
+<!ENTITY showTabBar.label "أظهر شريط الألسنة دوما">
+<!ENTITY showTabBar.accesskey "ش">
+
+<!ENTITY switchToNewTabs.label "عند فتح وصلة في لسان جديد، انتقل إليها مباشرة">
+<!ENTITY switchToNewTabs.accesskey "ل">

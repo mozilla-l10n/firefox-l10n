@@ -1,0 +1,9 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "تثبيت البرمجيات">
+<!ENTITY dialog.style "width: 45em">
+<!ENTITY warningMain.label "ثبّت الإضافات من الأشخاص الذين تثِق فيهم فقط.">
+<!ENTITY warningSecondary.label "يمكن للبرمجيات الخبيثة أن تضرّ بالحاسوب أو تنتهك خصوصيّتك.">
+
+<!ENTITY from.label "مِن:">
+

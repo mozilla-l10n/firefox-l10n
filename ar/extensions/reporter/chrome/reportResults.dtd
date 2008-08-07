@@ -1,0 +1,15 @@
+<!ENTITY reportSite "الموقع">
+<!ENTITY reportProblemType "نوع المشكلة">
+<!ENTITY reportDecsription "الوصف">
+<!ENTITY reportPlatform "المنصّة">
+<!ENTITY reportProduct "المُنْتَج">
+<!ENTITY reportoscpu "نظام التّشغيل">
+<!ENTITY reportGecko "جيكو">
+<!ENTITY reportBuildConfig "إعدادات البناء">
+<!ENTITY reportUseragent "وكيل المستخدم">
+<!ENTITY reportLanguage "اللّغة">
+<!ENTITY reportCharset "طقم المحارف">
+<!ENTITY reportEmail "البريد">
+<!ENTITY error "تفاصيل الخطأ">
+<!ENTITY faultCode "الرّمز">
+<!ENTITY faultMessage "الرّسالة">

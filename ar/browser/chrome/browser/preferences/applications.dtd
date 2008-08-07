@@ -1,0 +1,14 @@
+<!ENTITY typeColumn.label "نوع المحتوى">
+<!ENTITY typeColumn.accesskey "ن">
+
+<!ENTITY actionColumn2.label "الإجراء">
+<!ENTITY actionColumn2.accesskey "ج">
+
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "ابحث:">
+<!ENTITY filter.accesskey "ب">
+
+<!ENTITY clear.label "امسح">
+<!ENTITY clear.accesskey "م">

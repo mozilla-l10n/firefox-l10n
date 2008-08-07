@@ -1,0 +1,16 @@
+<!ENTITY brandMotto "أعِد اكتشاف الوِب">
+<!ENTITY credit.thanks "شكر خاصّ لـ">
+
+<!ENTITY credit.thanks2 "شكر كبير">
+<!ENTITY credit.contributors2 "المساهمين">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>المترجمون:</h3> <ul> <li>أيمن حوريّة (aymanh@gmail.com)</li> <li>جهاد عفيفي (djihed@gmail.com)</li> <li>خالد حسني (khaledhosny@eglug.org)</li> <li>سبأ برتو (sebabarto@gmail.com)</li> <li>عبد الرحمن حسني (abdohosny@gmail.com)</li> <li>علاء كساب (alakasab@hotmail.com)</li><li>تحت إشراف عربآيز: www.arabeyes.org</li> </ul> 
+">
+
+<!ENTITY credit.memory "تخليدا لذكرى">
+<!ENTITY credit.poweredByGeckoReg "يُعمل بجيكو&reg;">

@@ -1,0 +1,102 @@
+/*
+ * This file contains all localizable skin settings such as 
+ * font, layout, and geometry.
+ *
+ * Taken from the he l10n of Fx/Tb
+ *   Contributor(s):
+ *   Tsahi Asher (tsahi_75@yahoo.com)
+ *   Reuven Gonen  (linxspider@yahoo.com)
+ */
+
+window { 
+  font: 3mm tahoma,arial,helvetica,sans-serif;
+}
+
+
+/**************************
+ **  Global Settings     **
+ **************************/
+
+/* Make UI RTL */
+window, prefwindow, dialog, wizard, page, menu {
+  direction: rtl;
+}
+
+/* Remove window resizer until we find how to change 
+   its direction to "bottomleft" */
+resizer[dir="bottomright"] {
+  display: none;
+}
+
+
+/********************
+ **  Firefox       **
+ ********************/
+
+/**  Fix address bar directionality  **/
+/* make address bar remain LTR */
+#urlbar {
+  direction: ltr !important;
+}
+
+/* Align autocomplete popups items in urlbar to left in firefox */
+popup[type="autocomplete"], .autocomplete-history-popup {
+  direction: ltr !important;
+}
+/***** End address bar fix ******/
+
+/* Set LTR for url and file paths and align them to the right - Bug 289934  */
+#link-url-text, #source, #path, #url, #feedurl, #downloadFolder,
+#urltext, #statusbar-display {
+  direction: ltr !important;
+  text-align: right !important;
+}
+
+/* Set LTR for startpage, user agent and part of JavaScript console  */
+#browserStartupHomepage, #userAgent, #ConsoleBox, #ToolbarEval {
+  direction: ltr !important;
+}
+
+/* Set LTR for login and password dialogs  */
+#password1Textbox, #password2Textbox, #loginTextbox {
+  direction: ltr !important;
+}
+
+/* Right-align the safebrowsing titlebox background - Bug 399003 */
+#safebrowsing-palm-message-titlebox {
+  background-position: top right !important;
+}
+
+
+/********************
+ **  Thunderbird   **
+*********************/
+#statusbar-display {
+  direction: ltr !important;
+  text-align: right !important;
+}
+
+/* Set Folder Pane on the left side of window */
+#mailContentWrapper {
+  direction: ltr !important;
+}
+
+/* Set Mail Content titlebar as RTL */
+#searchBox {
+  direction: rtl !important;
+}
+
+/* Set Statusbar to LTR */
+#statusText {
+  direction: ltr !important;
+  text-align: right !important;
+}
+
+
+/********************
+ **  Extensions    **
+ ********************/
+#adblockPreferencesWindow {
+  direction: ltr !important;
+} 
+

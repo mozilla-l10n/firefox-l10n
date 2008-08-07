@@ -1,0 +1,42 @@
+<!ENTITY warnAddonInstall.label "حذّرني عندما يحاول موقع تثبيت إضافات">
+<!ENTITY warnAddonInstall.accesskey "ح">
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+
+<!ENTITY tellMaybeAttackSite.label "أخبرني إذا كان الموقع الذي أزوره موقعا هجوميا مشتبها">
+<!ENTITY tellMaybeAttackSite.accesskey "ه">
+
+<!ENTITY tellMaybeForgery.label "أخبرني إذا كان الموقع الذي أزوره موقع احتيال مشتبه">
+<!ENTITY tellMaybeForgery.accesskey "ح">
+
+<!ENTITY addonExceptions.label "الاستثناءات...">
+<!ENTITY addonExceptions.accesskey "ث">
+
+
+<!ENTITY passwords.label "كلمات السر">
+
+<!ENTITY rememberPasswords.label "تذكر كلمات سر المواقع">
+<!ENTITY rememberPasswords.accesskey "ت">
+<!ENTITY passwordExceptions.label "الاستثناءات...">
+<!ENTITY passwordExceptions.accesskey "س">
+
+<!ENTITY useMasterPassword.label "استخدم كلمة سر رئيسيّة">
+<!ENTITY useMasterPassword.accesskey "س">
+<!ENTITY changeMasterPassword.label "غيّر كلمة السر الرئيسية...">
+<!ENTITY changeMasterPassword.accesskey "ر">
+
+<!ENTITY savedPasswords.label "كلمات السرّ المحفوظة...">
+<!ENTITY savedPasswords.accesskey "ك">
+
+
+<!ENTITY warnings.label "رسائل التحذير">
+
+<!ENTITY chooseWarnings.label "اختر رسائل التحذير التي تريد رؤيتها عند تصفّح الوِب">
+
+<!ENTITY warningSettings.label "الإعدادات...">
+<!ENTITY warningSettings.accesskey "ع">

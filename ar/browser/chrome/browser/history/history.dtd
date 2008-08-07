@@ -1,0 +1,28 @@
+<!ENTITY find.label "ابحث:">
+<!ENTITY find.accesskey "ب">
+<!ENTITY expand.label "مدّد">
+<!ENTITY expand.accesskey "د">
+<!ENTITY collapse.label "قلِّص">
+<!ENTITY collapse.accesskey "ق">
+<!ENTITY byDate.label "حسب التاريخ">
+<!ENTITY byDate.accesskey "ت">
+<!ENTITY bySite.label "حسب الموقع">
+<!ENTITY bySite.accesskey "م">
+<!ENTITY view.label "اعرض">
+<!ENTITY view.accesskey "ع">
+<!ENTITY byMostVisited.label "حسب الأكثر زيارة">
+<!ENTITY byMostVisited.accesskey "ز">
+<!ENTITY byLastVisited.label "حسب المزار أخيرا">
+<!ENTITY byLastVisited.accesskey "م">
+<!ENTITY byDayAndSite.label "حسب التاريخ و الموقع">
+<!ENTITY byDayAndSite.accesskey "س">
+<!ENTITY openLinkInWindow.label "افتح">
+<!ENTITY openLinkInWindow.accesskey "ف">
+<!ENTITY openInNewTab.label "افتح في لسان جديد">
+<!ENTITY openInNewTab.accesskey "ل">
+<!ENTITY openInNewWindow.label "افتح في نافذة جديدة">
+<!ENTITY openInNewWindow.accesskey "ف">
+<!ENTITY bookmarkLink.label "علّم هذه الوصلة...">
+<!ENTITY bookmarkLink.accesskey "ع">
+<!ENTITY copyLink.label "انسخ موقع الوصلة">
+<!ENTITY copyLink.accesskey "ن">

@@ -1,0 +1,42 @@
+<!ENTITY caption.label "يجري فتح #1">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "الملفّ &quot;#3&quot; من النّوع #2 (#1)، ولا يعرف #4 كيفيّة معالجة نوع الملفّات هذا. الملف موجود في:">
+<!ENTITY intro.noDesc.label "الملفّ &quot;#3&quot; من النّوع #2، ولا يعرف #4 كيفيّة معالجة نوع الملفّات هذا. الملف موجود في:">
+
+<!ENTITY intro.attachment.label "اقترح الموقع معالجة &quot;#3&quot; كمرفق. إنّه من النّوع #2 (#1) و متواجد في:">
+<!ENTITY intro.attachment.noDesc.label "اقترح الموقع معالجة &quot;#3&quot; كمرفق. إنّه من النّوع #2 و متواجد في:">
+
+<!ENTITY intro.sniffed.label "وجد #4 أن الملفّ &quot;#3&quot; هو غالبا من النّوع #2 (#1). هذا الملفّ موجود في:">
+<!ENTITY intro.sniffed.noDesc.label "وجد #4 أن الملفّ &quot;#3&quot; هو غالبا من النّوع #2. هذا الملفّ موجود في:">
+
+<!ENTITY prompt.label "ماذا يجب على #1 أن يفعل بهذا الملفّ؟">
+
+<!ENTITY alwaysHandle.label "قم دائما بهذا الإجراء لمعالجة هذا النوع من الملفات">
+<!ENTITY alwaysHandle.accesskey "ق">
+
+<!ENTITY saveToDisk.label "احفظه على القرص">
+<!ENTITY saveToDisk.accesskey "ق">
+
+<!ENTITY useSystemDefault.label "افتحه بالتطبيق المبدئي (#1)">
+<!ENTITY useSystemDefault.noDesc.label "افتحه بالتّطبيق المبدئي">
+<!ENTITY useSystemDefault.accesskey "ف">
+
+<!ENTITY openUsing.label "افتح بتطبيق آخر">
+<!ENTITY openUsing.accesskey "ت">
+
+<!ENTITY chooseApp.label "اختر...">
+<!ENTITY chooseApp.accesskey "خ">
+
+<!ENTITY chooseAppFilePickerTitle "اختر التّطبيق المساعد">
+
+<!ENTITY badApp "تعذّر إيجاد التّطبيق الذي حدّدته (&quot;#1&quot;). الرّجاء فحص اسم الملفّ أو اختيار تطبيق آخر.">
+<!ENTITY badApp.title "التّطبيق غير موجود">

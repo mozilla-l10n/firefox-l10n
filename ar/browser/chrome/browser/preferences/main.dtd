@@ -1,0 +1,37 @@
+<!ENTITY startup.label "البدء">
+
+<!ENTITY startupPage.label "عند بدء &brandShortName;:">
+<!ENTITY startupPage.accesskey "ب">
+<!ENTITY startupHomePage.label "اعرض صفحتي الرئيسية">
+<!ENTITY startupBlankPage.label "اعرض صفحة فارغة">
+<!ENTITY startupLastSession.label "اعرض نوافذي و ألسنتي من المرّة السابقة">
+<!ENTITY location.label "الصفحة الرئيسية:">
+<!ENTITY location.accesskey "ص">
+<!ENTITY useCurrentPage.label "استخدم الصفحة الحالية">
+<!ENTITY useCurrentPage.accesskey "ح">
+<!ENTITY useMultiple.label "استخدم الصفحات الحالية">
+<!ENTITY useBookmark.label "استخدم علامة">
+<!ENTITY useBookmark.accesskey "ع">
+<!ENTITY restoreDefault.label "استعد المبدئي">
+<!ENTITY restoreDefault.accesskey "س">
+
+<!ENTITY downloads.label "التّنزيلات">
+
+<!ENTITY showWhenDownloading.label "اعرض نافذة التنزيلات عند تنزيل ملفّ">
+<!ENTITY showWhenDownloading.accesskey "ز">
+<!ENTITY closeWhenDone.label "أغلقها عند اكتمال كل التنزيلات">
+<!ENTITY closeWhenDone.accesskey "غ">
+<!ENTITY saveTo.label "احفظ الملفّات في">
+<!ENTITY saveTo.accesskey "ح">
+<!ENTITY chooseFolderWin.label "تصفّح...">
+<!ENTITY chooseFolderWin.accesskey "ص">
+<!ENTITY chooseFolderMac.label "اختر...">
+<!ENTITY chooseFolderMac.accesskey "ت">
+<!ENTITY alwaysAsk.label "اسألني دائما عن مكان حفظ الملفّات">
+<!ENTITY alwaysAsk.accesskey "د">
+
+<!ENTITY addonsMgr.label "الإضافات">
+<!ENTITY manageAddonsDescWin.label "غيّر خيارات إضافاتك">
+<!ENTITY manageAddonsDescUnix2.label "غيّر تفضيلات إضافاتك">
+<!ENTITY manageAddons.label "أدِر الإضافات...">
+<!ENTITY manageAddons.accesskey "د">

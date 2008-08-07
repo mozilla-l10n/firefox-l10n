@@ -1,0 +1,48 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "صغّر">
+<!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
+<!ENTITY zoomWindow.label "قرّب">
+<!ENTITY windowMenu.label "نافذة">
+
+<!ENTITY helpMenu.label "مساعدة">
+<!ENTITY helpMenu.accesskey "م">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "مساعدة">
+<!ENTITY helpMenuWin.accesskey "م">
+<!ENTITY aboutCmd.label "عنْ &brandFullName;">
+<!ENTITY aboutCmd.accesskey "ع">
+<!ENTITY helpContents.label "محتويات المساعدة">
+<!ENTITY helpContents.accesskey "ح">
+<!ENTITY helpContentsMac.label "مساعدة &brandShortName;">
+<!ENTITY helpForIEUsers.label "لمستعملي إنترنت إكسبلورر">
+<!ENTITY helpForIEUsers.accesskey "ك">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey "/">
+<!ENTITY openHelpMac.modifiers "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey "?">
+<!ENTITY openHelpMac.frontendModifiers "accel">
+
+<!ENTITY helpReleaseNotes.label "ملاحظات الإصدار">
+<!ENTITY helpReleaseNotes.accesskey "ص">
+<!ENTITY updateCmd.label "التمس التحديثات...">
+<!ENTITY updateCmd.accesskey "ت">
+
+<!ENTITY preferencesCmdMac.label "التفضيلات...">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+
+<!ENTITY servicesMenuMac.label "الخدمات">
+
+<!ENTITY hideThisAppCmdMac.label "اخفِ &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "خ">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label "اخفِ الآخرين">
+<!ENTITY hideOtherAppsCmdMac.commandkey "خ">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label "أظهر الكل">

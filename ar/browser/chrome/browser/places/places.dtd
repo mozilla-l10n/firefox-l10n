@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title "مكتبة">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label "نظّم">
+<!ENTITY organize.accesskey "ظ">
+
+<!ENTITY file.accesskey "م">
+<!ENTITY file.close.label "أغلق">
+<!ENTITY file.close.accesskey "غ">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "حرّر">
+<!ENTITY edit.accesskey "ح">
+<!ENTITY views.label "المشاهد">
+<!ENTITY views.accesskey "ش">
+<!ENTITY view.toolbar.label "شريط الأدوات">
+<!ENTITY view.toolbar.accesskey "ش">
+<!ENTITY view.columns.label "أظهر الأعمدة">
+<!ENTITY view.columns.accesskey "ع">
+<!ENTITY view.sort.label "رتّب">
+<!ENTITY view.sort.accesskey "ر">
+<!ENTITY view.unsorted.label "غير مرتبة">
+<!ENTITY view.unsorted.accesskey "غ">
+<!ENTITY view.sortAscending.label "ترتيب أ > ي">
+<!ENTITY view.sortAscending.accesskey "أ">
+<!ENTITY view.sortDescending.label "ترتيب ي > أ">
+<!ENTITY view.sortDescending.accesskey "ي">
+<!ENTITY help.usingBookmarks.label "استعمال العلامات">
+<!ENTITY help.usingBookmarks.accesskey "ع">
+<!ENTITY help.usingHistory.label "استعمال التاريخ">
+<!ENTITY help.usingHistory.accesskey "ت">
+<!ENTITY help.advancedTips.label "تلميحات وحيل متقدمة">
+<!ENTITY help.advancedTips.accesskey "ح">
+
+<!ENTITY cmd.findInBookmarks.label "ابحث في العلامات...">
+<!ENTITY cmd.findInBookmarks.accesskey "ب">
+<!ENTITY cmd.findCurrent.label "ابحث في المجموعة الحالية...">
+<!ENTITY cmd.findCurrent.accesskey "ث">
+
+<!ENTITY cmd.exportHTML.label "صدّر HTML...">
+<!ENTITY cmd.exportHTML.accesskey "ص">
+<!ENTITY cmd.importHTML.label "استورِد HTML...">
+<!ENTITY cmd.importHTML.accesskey "س">
+
+<!ENTITY cmd.backup.label "احفظ احتياطيا...">
+<!ENTITY cmd.backup.accesskey "ط">
+<!ENTITY cmd.restore2.label "استعِد">
+<!ENTITY cmd.restore2.accesskey "ت">
+<!ENTITY cmd.restoreFromFile.label "اختر ملفا...">
+<!ENTITY cmd.restoreFromFile.accesskey "خ">
+
+<!ENTITY cmd.select_all.label "اختر الكل">
+<!ENTITY cmd.select_all.accesskey "ك">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label "قص">
+<!ENTITY cmd.edit_cut.accesskey "ق">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "انسخ">
+<!ENTITY cmd.edit_copy.accesskey "ن">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "الصق">
+<!ENTITY cmd.edit_paste.accesskey "ل">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "احذف">
+<!ENTITY cmd.edit_delete.accesskey "ذ">
+<!ENTITY cmd.edit_undo.label "تراجع">
+<!ENTITY cmd.edit_undo.accesskey "ر">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "أعِد">
+<!ENTITY cmd.edit_redo.accesskey "ع">
+<!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.open.label "افتح">
+<!ENTITY cmd.open.accesskey "ف">
+<!ENTITY cmd.open_window.label "افتح في نافذة جديدة">
+<!ENTITY cmd.open_window.accesskey "ج">
+<!ENTITY cmd.open_tab.label "افتح في لسان جديد">
+<!ENTITY cmd.open_tab.accesskey "ل">
+<!ENTITY cmd.open_all_in_tabs.label "افتح الكل في ألسنة">
+<!ENTITY cmd.open_all_in_tabs.accesskey "ف">
+
+<!ENTITY cmd.properties.label "الخصائص">
+<!ENTITY cmd.properties.accesskey "خ">
+
+<!ENTITY cmd.show_info.key "i">
+
+<!ENTITY cmd.rename.label "غيّر الاسم">
+<!ENTITY cmd.rename.accesskey "س">
+
+<!ENTITY cmd.sortby_name.label "رتب بالاسم">
+<!ENTITY cmd.sortby_name.accesskey "س">
+<!ENTITY cmd.context_sortby_name.accesskey "ر">
+
+<!ENTITY cmd.new_bookmark.label "علامة جديدة...">
+<!ENTITY cmd.new_bookmark.accesskey "ع">
+<!ENTITY cmd.new_livemark.label "علامة حيّة جديدة...">
+<!ENTITY cmd.new_livemark.accesskey "ح">
+<!ENTITY cmd.new_folder.label "مجلد جديد...">
+<!ENTITY cmd.new_folder.accesskey "ج">
+<!ENTITY cmd.context_new_folder.accesskey "م">
+<!ENTITY cmd.new_separator.label "فاصل جديد">
+<!ENTITY cmd.new_separator.accesskey "ف">
+
+<!ENTITY cmd.reloadLivebookmark.label "أعِد تحميل العلامات الحية">
+<!ENTITY cmd.reloadLivebookmark.accesskey "ع">
+<!ENTITY cmd.reloadMicrosummary.label "أعِد تحميل العناوين الحية">
+<!ENTITY cmd.reloadMicrosummary.accesskey "ع">
+
+<!ENTITY cmd.groupby_site.label "اجمع بالموقع">
+<!ENTITY cmd.groupby_site.accesskey "م">
+<!ENTITY cmd.groupby_page.label "اجمع بالصفحة">
+<!ENTITY cmd.groupby_page.accesskey "ص">
+<!ENTITY cmd.groupby_feed.label "اجمع بالاشتراك">
+<!ENTITY cmd.groupby_feed.accesskey "ش">
+<!ENTITY cmd.groupby_post.label "اجمع بالارسال">
+<!ENTITY cmd.groupby_post.accesskey "ر">
+
+<!ENTITY cmd.moveBookmarks.label "انقل...">
+<!ENTITY cmd.moveBookmarks.accesskey "ن">
+
+<!ENTITY col.name.label "الاسم">
+<!ENTITY col.tags.label "الوسوم">
+<!ENTITY col.url.label "المكان">
+<!ENTITY col.lastvisit.label "تاريخ الزيارة">
+<!ENTITY col.visitcount.label "عدد الزيارات">
+<!ENTITY col.keyword.label "كلمة مفتاحية">
+<!ENTITY col.description.label "الوصف">
+<!ENTITY col.dateadded.label "مُضاف">
+<!ENTITY col.lastmodified.label "آخر تعديل">
+
+<!ENTITY search.label "ابحث:">
+<!ENTITY search.accesskey "ب">
+<!ENTITY search.collection.label "المجموعة الحالية فقط">
+<!ENTITY search.collection.accesskey "ح">
+<!ENTITY search.allBookmarks.label "كل العلامات">
+<!ENTITY search.allBookmarks.accesskey "ك">
+<!ENTITY search.scopeFolder.label "اختر مجلدا">
+<!ENTITY search.scopeFolder.accesskey "م">
+<!ENTITY search.scopeAll.label "كل العلامات">
+<!ENTITY search.scopeAll.accesskey "ك">
+<!ENTITY search.scopeMenu.label "قائمة العلامات">
+<!ENTITY search.scopeMenu.accesskey "ق">
+<!ENTITY search.scopeToolbar.label "شريط العلامات">
+<!ENTITY search.scopeToolbar.accesskey "ش">
+<!ENTITY search.scopeDownloads.label "التنزيلات">
+<!ENTITY search.scopeDownloads.accesskey "ز">
+<!ENTITY search.scopeHistory.label "التّاريخ">
+<!ENTITY search.scopeHistory.accesskey "ت">
+<!ENTITY search.scopeBarExpanderDown.tooltip "أظهر باني البحث">
+<!ENTITY search.scopeBarExpanderUp.tooltip "اخفِ باني البحث">
+<!ENTITY saveSearch.label "احفظ">
+<!ENTITY saveSearch.accesskey "ح">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "ابحث في العلامات فقط">
+<!ENTITY advancedSearch.match.label "طابِق">
+<!ENTITY advancedSearch.all.label "كل">
+<!ENTITY advancedSearch.any.label "أي">
+<!ENTITY advancedSearch.rules.label " القواعد التالية:">
+<!ENTITY advancedSearch.subj_keyword.label "تحتوي النص">
+<!ENTITY advancedSearch.subj_visited.label "مُزارة">
+<!ENTITY advancedSearch.subj_location.label "المكان">
+<!ENTITY advancedSearch.location_startswith.label "تبدأ به">
+<!ENTITY advancedSearch.location_is.label "يكون">
+<!ENTITY advancedSearch.location_onsite.label "في الموقع">
+<!ENTITY advancedSearch.time_is.label "يعمل">
+<!ENTITY advancedSearch.time_before.label "قبل">
+<!ENTITY advancedSearch.time_after.label "بعد">
+<!ENTITY advancedSearch.time_inlast.label "في آخر">
+<!ENTITY advancedSearch.last_days.label "أيّام">
+<!ENTITY advancedSearch.last_weeks.label "أسابيع">
+<!ENTITY advancedSearch.last_months.label "شهور">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "اجمع بـ:">
+<!ENTITY advancedSearch.groupby_host.label "المستضيف">
+<!ENTITY advancedSearch.groupby_domain.label "النطاق">
+<!ENTITY advancedSearch.groupby_folder.label "المجلد">
+<!ENTITY advancedSearch.sortby.label "رتب بـ:">
+<!ENTITY advancedSearch.sortby_title.label "العنوان">
+<!ENTITY advancedSearch.sortby_date.label "التّاريخ">
+<!ENTITY advancedSearch.sortby_visit.label "عدد الزيارات">
+<!ENTITY advancedSearch.sortby_url.label "المسار">
+<!ENTITY advancedSearch.sortby_asc.label "تصاعدي">
+<!ENTITY advancedSearch.sortby_desc.label "تنازلي">
+<!ENTITY advancedSearch.max.label "أقصى نتائج: ">
+
+<!ENTITY cmd.find.key "f">
+
+<!ENTITY feed.subscribe.label "تلقيمة">
+<!ENTITY feed.subscribe.tooltip "اشترِك">
+
+<!ENTITY view.detailsMacOSX.label "قائمة">
+<!ENTITY view.details.label "التفاصيل">
+<!ENTITY view.details.accesskey "ت">
+
+<!ENTITY view.addons.label "احصل على إضافات المشاهد">
+
+<!ENTITY maintenance.label "التصدير والحفظ الاحتياطي">
+<!ENTITY maintenance.accesskey "ص">
+
+<!ENTITY backCmd.label "للخلف">
+<!ENTITY backCmd.accesskey "خ">
+<!ENTITY backButton.tooltip "اذهب للخلف">
+
+<!ENTITY forwardCmd.label "للأمام">
+<!ENTITY forwardCmd.accesskey "م">
+<!ENTITY forwardButton.tooltip "اذهب إلى الأمام">
+
+<!ENTITY detailsPane.more.label "أكثر">
+<!ENTITY detailsPane.more.accesskey "ك">
+<!ENTITY detailsPane.less.label "أقل">
+<!ENTITY detailsPane.less.accesskey "ق">
+<!ENTITY detailsPane.noPreviewAvailable.label "معاينة">
+<!ENTITY detailsPane.selectAnItemText.description "اختر عنصرا لعرضه وتحرير خصائصه">

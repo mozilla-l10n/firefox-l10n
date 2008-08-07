@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "قص">
+<!ENTITY cutCmd.accesskey "ق">
+<!ENTITY copyCmd.label "انسخ">
+<!ENTITY copyCmd.accesskey "ن">
+<!ENTITY pasteCmd.label "الصق">
+<!ENTITY pasteCmd.accesskey "ل">
+<!ENTITY undoCmd.label "تراجع">
+<!ENTITY undoCmd.accesskey "ر">
+<!ENTITY selectAllCmd.label "اختر الكل">
+<!ENTITY selectAllCmd.accesskey "ك">
+<!ENTITY deleteCmd.label "احذف">
+<!ENTITY deleteCmd.accesskey "ذ">
+
+<!ENTITY spellAddToDictionary.label "أضِف في القاموس">
+<!ENTITY spellAddToDictionary.accesskey "ف">
+<!ENTITY spellCheckEnable.label "دقق الإملاء">
+<!ENTITY spellCheckEnable.accesskey "م">
+<!ENTITY spellNoSuggestions.label "(لا اقتراحات إملاء)">
+<!ENTITY spellDictionaries.label "اللغات">
+<!ENTITY spellDictionaries.accesskey "غ">

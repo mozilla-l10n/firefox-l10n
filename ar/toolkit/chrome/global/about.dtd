@@ -1,0 +1,19 @@
+<!ENTITY about.version "الإصدارة">
+
+<!ENTITY about.copy.beforeLink "حقوق النشر &copy; 1998-2008">
+<!ENTITY about.copy.linkTitle "للمساهمين">
+<!ENTITY about.copy.afterLink "في مشروع موزيلا.">
+
+<!ENTITY about.license.beforeLink "اقرأ">
+<!ENTITY about.license.linkTitle "معلومات الترخيص">
+<!ENTITY about.license.afterLink "لهذا المنتج.">
+
+<!ENTITY about.relnotes.beforeLink "اقرأ">
+<!ENTITY about.relnotes.linkTitle "ملاحظات الإصدارة">
+<!ENTITY about.relnotes.afterLink "لهذه الإصدارة.">
+
+<!ENTITY about.buildconfig.beforeLink "انظر">
+<!ENTITY about.buildconfig.linkTitle "إعدادات البناء">
+<!ENTITY about.buildconfig.afterLink "المستخدمة لهذه الإصدارة.">
+
+<!ENTITY about.buildIdentifier "معرف البناء: ">

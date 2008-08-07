@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "اطبع">
+
+<!ENTITY printDialog.title "اطبع">
+
+<!ENTITY fpDialog.title "احفظ الملف">
+
+<!ENTITY fileCheck.label "اطبع لملفّ">
+<!ENTITY propertiesButton.label "الخصائص...">
+<!ENTITY descText.label "وصف الطّابعة:">
+<!ENTITY printer.label "الطابعة">
+<!ENTITY printerInput.label "اسم الطّابعة:">
+
+<!ENTITY printrangeGroup.label "مدى الطّباعة">
+<!ENTITY allpagesRadio.label "كل الصّفحات">
+<!ENTITY rangeRadio.label "الصّفحات">
+<!ENTITY frompageInput.label "من">
+<!ENTITY topageInput.label "إلى">
+<!ENTITY selectionRadio.label "التحديد">
+
+<!ENTITY copies.label "نُسَخ">
+<!ENTITY numCopies.label "عدد النُسخ:">
+
+<!ENTITY printframeGroup.label "اطبع الإطارات">
+<!ENTITY aslaidoutRadio.label "كما هي متوضّعة على الشّاشة">
+<!ENTITY selectedframeRadio.label "الإطار المحدد">
+<!ENTITY eachframesepRadio.label "كل إطار بشكل منفصل">

@@ -1,0 +1,102 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label "عام">
+
+<!ENTITY accessibility.label "الإعانة">
+
+<!ENTITY useCursorNavigation.label "استعمل دائما مفاتيح الأسهم للتنقل داخل الصفحات">
+<!ENTITY useCursorNavigation.accesskey "س">
+<!ENTITY searchStartTyping.label "ابحث عن النص عندما أبدأ الكتابة">
+<!ENTITY searchStartTyping.accesskey "ح">
+<!ENTITY blockAutoRefresh.label "حذّرني عندما تحاول مواقع وِب إعادة توجيه أو تحميل الصفحة">
+<!ENTITY blockAutoRefresh.accesskey "و">
+
+<!ENTITY browsing.label "التّصفّح">
+
+<!ENTITY useAutoScroll.label "استخدم اللّف الآلي">
+<!ENTITY useAutoScroll.accesskey "ف">
+<!ENTITY useSmoothScrolling.label "استخدم اللّف السلس:">
+<!ENTITY useSmoothScrolling.accesskey "ف">
+<!ENTITY checkSpelling.label "دقق الإملاء أثناء الكتابة">
+<!ENTITY checkSpelling.accesskey "ك">
+
+<!ENTITY systemDefaults.label "مبدئيّات النظام">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label "دائما تحقق من كون &brandShortName; المتصفّح المبدئي عند بداية التشغيل">
+<!ENTITY alwaysCheckDefault.accesskey "د">
+<!ENTITY checkNow.label "تحقق الآن">
+<!ENTITY checkNow.accesskey "ن">
+
+<!ENTITY networkTab.label "الشبكة">
+
+<!ENTITY connection.label "الاتصال">
+
+<!ENTITY connectionDesc.label "اضبط كيف يتصل &brandShortName; بالإنترنت">
+<!ENTITY connectionSettings.label "الإعدادات...">
+<!ENTITY connectionSettings.accesskey "ع">
+
+<!ENTITY offlineStorage.label "الحفظ للاستخدام دون اتصال">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "استعمل حتى">
+<!ENTITY useCacheBefore.accesskey "ح">
+<!ENTITY useCacheAfter.label "م.بايت من المساحة للذّاكرة المخبّأة">
+<!ENTITY clearCacheNow.label "امسح الآن">
+<!ENTITY clearCacheNow.accesskey "م">
+
+<!ENTITY updateTab.label "حدِّث">
+
+<!ENTITY autoCheck.label "التمس آليّا تحديثات لـ:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "ف">
+<!ENTITY enableAddonsUpdate.label "الإضافات المثبتة">
+<!ENTITY enableAddonsUpdate.accesskey "ض">
+<!ENTITY enableSearchUpdate.label "محركات البحث">
+<!ENTITY enableSearchUpdate.accesskey "ح">
+<!ENTITY whenUpdatesFound.label "عند وجود تحديثات لـ &brandShortName;:">
+<!ENTITY askMe.label "اسألني ماذا أفعل">
+<!ENTITY askMe.accesskey "س">
+<!ENTITY modeAutomatic.label "نزِّل وثبِّت التحديث آليا">
+<!ENTITY modeAutomatic.accesskey "ن">
+<!ENTITY modeAutoAddonWarn.label "نبّهني إذا كان هذا سيعطّل أي إضافات">
+<!ENTITY modeAutoAddonWarn.accesskey "ب">
+<!ENTITY updateHistory.label "أظهر تاريخ التحديث">
+<!ENTITY updateHistory.accesskey "ظ">
+
+<!ENTITY offlineNotify.label "نبّهني عندما يطلب موقع تخزين بيانات للاستخدام دون اتصال.">
+<!ENTITY offlineNotify.accesskey "ه">
+<!ENTITY offlineNotifyExceptions.label "الاستثناءات...">
+<!ENTITY offlineNotifyExceptions.accesskey "ث">
+
+<!ENTITY offlineAppsList.label "للمواقع التالية بيانات منزّلة للاستخدام دون اتصال:">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "احذف...">
+<!ENTITY offlineAppsListRemove.accesskey "ح">
+<!ENTITY offlineAppRemove.confirm "احذف بيانات الاستخدام دون اتصال">
+
+<!ENTITY encryptionTab.label "التعمية">
+
+<!ENTITY protocols.label "البروتوكولات">
+<!ENTITY useSSL3.label "استعمل SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "استعمل TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "الشّهادات">
+<!ENTITY certSelection.description "عندما يطلب خادوم شهادتي الشخصيّة:">
+<!ENTITY certs.auto "حدد واحدة آليّا">
+<!ENTITY certs.auto.accesskey "ل">
+<!ENTITY certs.ask "اسألني كلّ مرّة">
+<!ENTITY certs.ask.accesskey "س">
+<!ENTITY viewCerts.label "أظهر الشهادات">
+<!ENTITY viewCerts.accesskey "ظ">
+<!ENTITY viewCRLs.label "قوائم السحب">
+<!ENTITY viewCRLs.accesskey "ق">
+<!ENTITY verify2.label "التحقّق">
+<!ENTITY verify2.accesskey "ت">
+<!ENTITY viewSecurityDevices.label "أجهزة الأمن">
+<!ENTITY viewSecurityDevices.accesskey "ج">

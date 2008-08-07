@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "امسح البيانات الشخصية">
+
+<!ENTITY sanitizeItems.label "امسح العناصر التّالية الآن:">
+<!ENTITY clearDataSettings.label "عندما أطلب من &brandShortName; مسح بياناتي الشخصيّة، عليه أن يمسح:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "تاريخ التصفح">
+<!ENTITY itemHistory.accesskey "ت">
+<!ENTITY itemFormSearchHistory.label "تاريخ البحث و الاستمارات المحفوظ">
+<!ENTITY itemFormSearchHistory.accesskey "ب">
+<!ENTITY itemPasswords.label "كلمات السر المحفوظة">
+<!ENTITY itemPasswords.accesskey "ك">
+<!ENTITY itemCookies.label "السكاكر">
+<!ENTITY itemCookies.accesskey "س">
+<!ENTITY itemCache.label "الذاكرة المؤقتة">
+<!ENTITY itemCache.accesskey "ذ">
+<!ENTITY itemOfflineApps.label "بيانات المواقع للعمل دون اتصال">
+<!ENTITY itemOfflineApps.accesskey "ب">
+<!ENTITY itemDownloads.label "تاريخ التنزيلات">
+<!ENTITY itemDownloads.accesskey "ت">
+<!ENTITY itemSessions.label "الجلسات الموثقة">
+<!ENTITY itemSessions.accesskey "ج">
+<!ENTITY window.width "30em">

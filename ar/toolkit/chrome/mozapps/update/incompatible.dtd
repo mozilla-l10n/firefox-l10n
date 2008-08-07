@@ -1,0 +1,8 @@
+
+<!ENTITY incompatible.title "عناصر غير متوافقة">
+<!ENTITY incompatible.intro "العناصر التالية غير متوافقة مع تحديث &brandShortName; هذا، سيتم تعطيلها عند التحديث:">
+<!ENTITY incompatible.update "سيقوم &brandShortName; بالتماس التحديثات الجديدة لها عند توفر إصدارات متوافقة.">
+<!ENTITY incompatible.suffix "تحتوي تحديثات &brandShortName; على تحسينات أمنية. لأمن الحاسوب، يستحسن تحديث &brandShortName; حتى عند وجود امتدادات وسِمات غير متوافقة.">
+                                     
+<!ENTITY closebutton.label "أغلق">
+

@@ -1,0 +1,68 @@
+<!ENTITY updateWizard.title "تحديث البرمجيات">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "يجري التماس التحديثات">
+<!ENTITY checking.label "يلتمس &brandShortName; التحديثات الآن...">
+
+<!ENTITY cancel.label "ألغِ">
+<!ENTITY cancel.accesskey "غ">
+
+<!ENTITY noupdatesfound.title "لم يُعثر على تحديثات">
+<!ENTITY noupdatesfound.intro "لا تتوفر تحديثات. قد يلتمس &brandShortName; التحديثات الجديدة دوريا.">
+
+<!ENTITY incompatibleChecking.label "يفحص إذا كان هذا التحديث سيتسبب في مشاكل مع امتداداتك و/أو سِماتك...">
+<!ENTITY clickHere.label "اعرض المزيد من التّفاصيل عن هذا التّحديث">
+
+<!ENTITY incompatible.warning "سيجعل هذا التّحديث بعض امتداداتك و/أو سِماتك متوقفة عن العمل حتى يتمّ تحديثها.">
+<!ENTITY listIncompatible.label "اعرض قائمة">
+<!ENTITY listIncompatible.accesskey "ق">
+
+<!ENTITY upgrade.evangelism "ينصح بشدّة تحديث &brandShortName; عاجلا قدر الإمكان.">
+
+<!ENTITY license.instructions "إذا كنت موافقا على شروط هذه الاتّفاقية، انقر موافق بأسفل لمتابعة تنزيل التّحديث.">
+
+<!ENTITY license.titleText "اتفاقية ترخيص البرمجية">
+<!ENTITY license.introText "شروط استخدام هذه البرمجية.">
+<!ENTITY license.instructionText "رجاءً اقرء اتفاقية الترخيص التالية. استخدم شريط التمرير لقراءة باقي الاتفاقية.">
+<!ENTITY license.accept "أوافق على شروط اتفاقية الترخيص">
+<!ENTITY license.accept.accesskey "و">
+<!ENTITY license.decline "لا أوافق على شروط اتفاقية الترخيص">
+<!ENTITY license.decline.accesskey "ل">
+
+<!ENTITY downloading.title "يجري تنزيل التّحديث">
+<!ENTITY downloading.intro "يُنزّل التحديثات...">
+<!ENTITY connecting.label "يتّصل بخادوم التحديثات...">
+<!ENTITY verificationFailedText.label "لم يتمكّن &brandShortName; من التّحقق من تكامل التحديث المتزايد الذي نزّله، لذلك فإنّه ينزّل تحديثا كاملا الآن.">
+
+<!ENTITY details.link "التفاصيل">
+<!ENTITY pause.label "ألبث">
+<!ENTITY pause.accesskey "ل">
+<!ENTITY close.label "أغلق">
+<!ENTITY close.accesskey "غ">
+
+<!ENTITY error.label "كان هناك مشاكل في فحص، تنزيل أو تثبيت هذا التحديث. &brandShortName; لا يمكن تحديثه لأن:">
+                                           
+<!ENTITY errorManual.label "يمكنك تحديث &brandShortName; يدويّا بزيارة هذه الوصلة و تنزيل أحدث إصدار:">
+                                           
+<!ENTITY errorpatching.title "فشل التّحديث">
+<!ENTITY errorpatching.intro "تعذّر تطبيق التّحديث الجزئي. سيحاول &brandShortName; مرّة أخرى بتنزيل كلّ التّحديث.">
+
+<!ENTITY finished.title "تمّ تنزيل التّحديث">
+<!ENTITY finished.text "تم تنزيل و التحقّق من التحديث بنجاح. عليك الآن إعادة تشغيل &brandShortName; لتثبيت التحديث.">
+
+<!ENTITY finishedBackground.title "التّحديث جاهز للتّثبيت">
+<!ENTITY finishedBackground.text "أتمّ &brandShortName; للتو تنزيل تحديث هامّ و يجب الآن إعادة تشغيله لتثبيت التحديث.">
+<!ENTITY finishedBackground.name "تحديث:">
+<!ENTITY finishedBackground.more1 "انقر أعِد التشغيل &brandShortName; الآن لإغلاق كلّ نوافذ &brandShortName; و تثبيت التحديث.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow "انقر ليس الآن لإغلاق هذا الحوار و متابعة العمل. سيثبت &brandShortName; التحديث عندما يبدأ مرة ثانية">
+
+<!ENTITY installed.title "تمّ تثبيت التحديث">
+<!ENTITY installed.intro "تمّ تثبيت التّحديث بنجاح.">
+<!ENTITY whatsnew.label "اقرأ المزيد عن الجديد...">
+
+<!ENTITY update.details.label "التفاصيل">
+<!ENTITY update.installedOn.label "مثبّت في:">
+<!ENTITY update.status.label "الحالة:">

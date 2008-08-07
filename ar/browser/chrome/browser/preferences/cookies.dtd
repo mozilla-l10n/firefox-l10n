@@ -1,0 +1,30 @@
+<!ENTITY window.width "36em">
+
+<!ENTITY cookiesonsystem.label "السكاكر التّالية مخزّنة على حاسوبك:">
+<!ENTITY cookiename.label "اسم السكّرة">
+<!ENTITY cookiedomain.label "الموقع">
+<!ENTITY button.removecookie.label "أزل السكّرة">
+<!ENTITY button.removecookie.accesskey "ر">
+<!ENTITY button.removeallcookies.label "أزل كل السكاكر">
+<!ENTITY button.removeallcookies.accesskey "ك">
+
+<!ENTITY props.name.label "الاسم:">
+<!ENTITY props.value.label "المحتوى:">
+<!ENTITY props.domain.label "المستضيف:">
+<!ENTITY props.path.label "المسار:">
+<!ENTITY props.secure.label "أرسل لـ‌:">
+<!ENTITY props.expires.label "انتهاء الصّلاحية:">
+
+<!ENTITY window.title "سكاكر">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "ابحث:">
+<!ENTITY filter.accesskey "ب">
+<!ENTITY clear.label "امسح">
+<!ENTITY clear.accesskey "م">
+
+<!ENTITY button.close.label "أغلق">
+<!ENTITY button.close.accesskey "غ">
+
