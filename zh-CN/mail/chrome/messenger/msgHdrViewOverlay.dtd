@@ -1,0 +1,37 @@
+<!--null-->
+<!ENTITY toField.label "收件人： ">
+<!ENTITY fromField.label "发件人： ">
+<!ENTITY senderField.label "发件人：">
+<!ENTITY organizationField.label "组织：">
+<!ENTITY replyToField.label "回复地址：">
+<!ENTITY subjectField.label "主题： ">
+<!ENTITY ccField.label "抄送： ">
+<!ENTITY bccField.label "密件抄送：">
+<!ENTITY newsgroupsField.label "新闻组： ">
+<!ENTITY followupToField.label "跟踪地址： ">
+<!ENTITY tagsHdr.label "标签：">
+<!ENTITY dateField.label "日期： ">
+<!ENTITY userAgentField.label "用户代理： ">
+<!ENTITY referencesField.label "引用：">
+<!ENTITY messageIdField.label "消息-ID: ">
+<!ENTITY inReplyToField.label "In-Reply-To: ">
+<!ENTITY originalWebsite.label "网站：">
+<!ENTITY saveAll.label "全部保存…">
+<!ENTITY editMessage.label "编辑草稿…">
+<!ENTITY openAttachmentCmd.label "打开">
+<!ENTITY openAttachmentCmd.accesskey "O">
+<!ENTITY saveAsAttachmentCmd.label "另存为…">
+<!ENTITY saveAsAttachmentCmd.accesskey "A">
+<!ENTITY detachAttachmentCmd.label "移除…">
+<!ENTITY deleteAttachmentCmd.label "删除">
+<!ENTITY saveAllAttachmentsCmd.label "全部保存…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "S">
+<!ENTITY detachAllAttachmentsCmd.label "全部移除…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "D">
+<!ENTITY deleteAllAttachmentsCmd.label "全部删除…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+<!ENTITY copyLinkCmd.label "复制链接地址">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY CopyMessageId.label "复制 消息-ID">
+<!ENTITY OpenMessageForMsgId.label "打开消息 ID 为">
+<!ENTITY OpenBrowserWithMsgId.label "使用浏览器打开消息 ID 为">

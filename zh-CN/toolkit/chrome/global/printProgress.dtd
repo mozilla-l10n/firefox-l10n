@@ -1,0 +1,8 @@
+<!ENTITY printWindow.title "正在打印">
+<!ENTITY title "标题：">
+<!ENTITY progress "进度：">
+<!ENTITY preparing "准备…">
+<!ENTITY printComplete "打印完成。">
+<!ENTITY dialogCancel.label "取消">
+<!ENTITY dialogClose.label "关闭">
+<!ENTITY percentPrint "#1&#037;">

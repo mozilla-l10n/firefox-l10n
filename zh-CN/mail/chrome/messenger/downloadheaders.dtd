@@ -1,0 +1,9 @@
+<!--null-->
+<!ENTITY all.label "下载所有消息头">
+<!ENTITY all.accesskey "D">
+<!ENTITY download.label "下载">
+<!ENTITY download.accesskey "o">
+<!ENTITY headers.label "消息头">
+<!ENTITY headers.accesskey "h">
+<!ENTITY mark.label "标记剩余消息头为已读">
+<!ENTITY mark.accesskey "M">

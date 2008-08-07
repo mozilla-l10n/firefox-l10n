@@ -1,0 +1,89 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Thunderbird Preferences System
+   -
+   - The Initial Developer of the Original Code is
+   - Scott MacGregor
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Matthew Willis <lilmatt@mozilla.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY pref.calendar.advanced.generalTab.label "常规">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "密码">
+<!ENTITY pref.calendar.advanced.updateTab.label "更新">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "加密">
+<!ENTITY pref.calendar.advanced.showConnections.label "连接设置…">
+<!ENTITY pref.calendar.advanced.showConnections.accesskey "o">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label "决定 &brandShortName; 如何连接到因特网">
+<!ENTITY pref.calendar.advanced.configEdit.caption "高级配置">
+<!ENTITY pref.calendar.advanced.configEdit.button "配置编辑器…">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "g">
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; 能记住您的所有日历密码信息，这样您就不需要重复输入登录信息。">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "使用主密码来加密已经保存的密码">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "P">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "主密码可保护您所有的密码，但是设置后，您必须在每个会话中输入一次。">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "更换主密码…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "M">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "查看已保存的密码…">
+<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "V">
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "自动检查更新：">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "已安装附加组件">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "n">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "当找到 &brandShortName; 的更新时：">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "询问我">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "k">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "自动下载并安装更新">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "d">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "如果可能禁用我的附加组件，提醒我">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "W">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "显示更新历史…">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "U">
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "协议">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.label "使用 SSL 3.0">
+<!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.label "使用 TLS 1.0">
+<!ENTITY pref.calendar.advanced.encryption.useTLS1.accesskey "1">
+<!ENTITY pref.calendar.advanced.encryption.certificates.label "证书">
+<!ENTITY pref.calendar.advanced.encryption.certSelection.description "当服务器需要我的个人证书时：">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto "自动选择">
+<!ENTITY pref.calendar.advanced.encryption.certs.auto.accesskey "l">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask "每次询问我">
+<!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.label "查看证书">
+<!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "s">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "证书吊销列表">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
+<!ENTITY pref.calendar.advanced.encryption.verify2.label "验证">
+<!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "安全设备">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "y">

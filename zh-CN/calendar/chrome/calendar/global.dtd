@@ -1,0 +1,105 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY time.midnight "午夜">
+<!ENTITY time.1 "1:00 上午">
+<!ENTITY time.2 "2:00 上午">
+<!ENTITY time.3 "3:00 上午">
+<!ENTITY time.4 "4:00 上午">
+<!ENTITY time.5 "5:00 上午">
+<!ENTITY time.6 "6:00 上午">
+<!ENTITY time.7 "7:00 上午">
+<!ENTITY time.8 "8:00 上午">
+<!ENTITY time.9 "9:00 上午">
+<!ENTITY time.10 "10:00 上午">
+<!ENTITY time.11 "11:00 上午">
+<!ENTITY time.noon "中午">
+<!ENTITY time.13 "1:00 下午">
+<!ENTITY time.14 "2:00 下午">
+<!ENTITY time.15 "3:00 下午">
+<!ENTITY time.16 "4:00 下午">
+<!ENTITY time.17 "5:00 下午">
+<!ENTITY time.18 "6:00 下午">
+<!ENTITY time.19 "7:00 下午">
+<!ENTITY time.20 "8:00 下午">
+<!ENTITY time.21 "9:00 下午">
+<!ENTITY time.22 "10:00 下午">
+<!ENTITY time.23 "11:00 下午">
+<!ENTITY day.1.Ddd "日">
+<!ENTITY day.1.Ddd.accesskey "S">
+<!ENTITY day.2.Ddd "一">
+<!ENTITY day.2.Ddd.accesskey "M">
+<!ENTITY day.3.Ddd "二">
+<!ENTITY day.3.Ddd.accesskey "T">
+<!ENTITY day.4.Ddd "三">
+<!ENTITY day.4.Ddd.accesskey "W">
+<!ENTITY day.5.Ddd "四">
+<!ENTITY day.5.Ddd.accesskey "h">
+<!ENTITY day.6.Ddd "五">
+<!ENTITY day.6.Ddd.accesskey "F">
+<!ENTITY day.7.Ddd "六">
+<!ENTITY day.7.Ddd.accesskey "a">
+<!ENTITY day.1.name "星期日">
+<!ENTITY day.2.name "星期一">
+<!ENTITY day.3.name "星期二">
+<!ENTITY day.4.name "星期三">
+<!ENTITY day.5.name "星期四">
+<!ENTITY day.6.name "星期五">
+<!ENTITY day.7.name "星期六">
+<!ENTITY calendar.global.units.minute "分钟">
+<!ENTITY calendar.global.units.minutes "分钟">
+<!ENTITY calendar.global.units.hour "小时">
+<!ENTITY calendar.global.units.hours "小时">
+<!ENTITY calendar.global.units.day "天">
+<!ENTITY calendar.global.units.days "天">
+<!ENTITY month.1.name "一月">
+<!ENTITY month.2.name "二月">
+<!ENTITY month.3.name "三月">
+<!ENTITY month.4.name "四月">
+<!ENTITY month.5.name "五月">
+<!ENTITY month.6.name "六月">
+<!ENTITY month.7.name "七月">
+<!ENTITY month.8.name "八月">
+<!ENTITY month.9.name "九月">
+<!ENTITY month.10.name "十月">
+<!ENTITY month.11.name "十一月">
+<!ENTITY month.12.name "十二月">
+<!ENTITY onemonthbackward.tooltip "延后一月">
+<!ENTITY onemonthforward.tooltip "提前一月">
+<!ENTITY showToday.tooltip "转至今天">
+<!ENTITY onedayforward.tooltip "提前一天">
+<!ENTITY onedaybackward.tooltip "延后一天">
+<!ENTITY showselectedday.tooltip "显示所选日期的事件">

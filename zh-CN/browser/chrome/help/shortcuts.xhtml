@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Sean Umphlet <nosebleed@umphlet.com> (minor bugfixes)
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>&brandFullName; Keyboard Shortcuts</title>
+  <link rel="stylesheet" type="text/css"
+    href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandFullName; 键盘快捷键</h1>
+
+<p>在这里列出的是 &brandFullName; 中最常用的键盘快捷键。<span class="unix">如果您在 Gnome 中启用了 Emacs 风格的文本编辑快捷键，它们在 &brandShortName; 中同样有效。当 Emacs 文本编辑快捷键与默认快捷键冲突时（例如 &accelKey;+<kbd>K</kbd>），如果光标定位在文本框内（包括地址栏和搜索栏），将优先使用 Emacs 的快捷键设置。在这种情况下，您应该使用下面列表中的备选快捷键。</span></p>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>命令</th>
+      <th>快捷键</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">导航</th>
+    </tr>
+    <tr>
+      <td>后退</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>左方向键</kbd><br/>
+          <kbd>退格键</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>左方向键</kbd><br/>
+          &accelKey;+<kbd>[</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>[</kbd><br/>
+          &accelKey;+<kbd>左方向键</kbd><br/>
+          <kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>前进</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>右方向键</kbd><br/>
+          &shiftKey;+<kbd>退格键</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>右方向键</kbd><br/>
+          &accelKey;+<kbd>]</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>]</kbd><br/>
+          &accelKey;+<kbd>右方向键</kbd><br/>
+          &shiftKey;+<kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>主页</td>
+      <td>&altKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>打开文件</td>
+      <td>&accelKey;+<kbd>O</kbd></td>
+    </tr>
+    <tr>
+      <td>重新载入</td>
+      <td><kbd>F5<br/></kbd>
+        &accelKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>重新载入（覆盖缓存）</td>
+      <td><span class="noMac">&accelKey;+<kbd>F5</kbd><br/></span>
+        &accelKey;+&shiftKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>停止</td>
+      <td><span class="mac">&accelKey;+<kbd>.</kbd><br/></span>
+        <kbd>Esc</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">当前页面</th>
+    </tr>
+    <tr>
+      <td>到页面底部</td>
+      <td><kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>到页面顶端</td>
+      <td><kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>移至下一帧</td>
+      <td><kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>移至上一帧</td>
+      <td>&shiftKey;+<kbd>F6</kbd></td>
+    </tr>
+    <tr class="noWin">
+      <td>页面信息</td>
+      <td>&accelKey;+<kbd>I</kbd></td>
+    </tr>
+    <tr>
+      <td>页面源代码</td>
+      <td>&accelKey;+<kbd>U</kbd></td>
+    </tr>
+    <tr>
+      <td>打印</td>
+      <td>&accelKey;+<kbd>P</kbd></td>
+    </tr>
+    <tr>
+      <td>页面另存为</td>
+      <td>&accelKey;+<kbd>S</kbd></td>
+    </tr>
+    <tr>
+      <td>文字大小：缩小文字</td>
+      <td>&accelKey;+<kbd>-</kbd></td>
+    </tr>
+    <tr>
+      <td>文字大小：放大文字</td>
+      <td>&accelKey;+<kbd>+</kbd></td>
+    </tr>
+    <tr>
+      <td>文字大小：正常</td>
+      <td>&accelKey;+<kbd>0</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">编辑</th>
+    </tr>
+    <tr>
+      <td>复制</td>
+      <td>&accelKey;+<kbd>C</kbd></td>
+    </tr>
+    <tr>
+      <td>剪切</td>
+      <td>&accelKey;+<kbd>X</kbd></td>
+    </tr>
+    <tr>
+      <td>删除</td>
+      <td><kbd>Delete</kbd></td>
+    </tr>
+    <tr>
+      <td>粘贴</td>
+      <td>&accelKey;+<kbd>V</kbd></td>
+    </tr>
+    <tr>
+      <td>重做</td>
+      <td><span class="win">&accelKey;+<kbd>Y</kbd></span>
+        <span class="noWin">&accelKey;+&shiftKey;+<kbd>Z</kbd></span></td>
+    </tr>
+    <tr>
+      <td>全选</td>
+      <td>&accelKey;+<kbd>A</kbd></td>
+    </tr>
+    <tr>
+      <td>取消</td>
+      <td>&accelKey;+<kbd>Z</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">网页搜索</th>
+    </tr>
+    <tr>
+      <td>查找</td>
+      <td>&accelKey;+<kbd>F</kbd></td>
+    </tr>
+    <tr>
+      <td>查找下一个</td>
+      <td><kbd>F3</kbd><br/>
+        &accelKey;+<kbd>G</kbd></td>
+    </tr>
+    <tr>
+      <td>输入查找链接</td>
+      <td><kbd>'</kbd></td>
+    </tr>
+    <tr>
+      <td>输入查找文本</td>
+      <td><kbd>/</kbd></td>
+    </tr>
+    <tr>
+      <td>查找上一个</td>
+      <td>&shiftKey;+<kbd>F3</kbd></td>
+    </tr>
+    <tr>
+      <td>网页搜索</td>
+      <td>&accelKey;+<kbd>K</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>E</kbd></span>
+        <span class="unix"><br/>&accelKey;+<kbd>J</kbd></span></td>
+    </tr>
+  </tbody>
+  <tbody id="windows_tabs">
+    <tr>
+      <th colspan="2">窗口与标签页</th>
+    </tr>
+    <tr>
+      <td>关闭标签页</td>
+      <td>&accelKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&ctrlKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>关闭窗口</td>
+      <td>&accelKey;+&shiftKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&altKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <!-- LOCALIZATION NOTE:
+         "Left"/"Up" and "Right"/"Down" might need special treatment
+         for bidi locales, as used in the following two entries.
+    -->
+    <tr>
+      <td>切换至左侧标签页（当选中标签时）</td>
+      <td>&accelKey;+<kbd>左方向键</kbd><br/>
+          &accelKey;+<kbd>上方向键</kbd></td>
+    </tr>
+    <tr>
+      <td>切换至右侧标签页（当选中标签时）</td>
+      <td>&accelKey;+<kbd>右方向键</kbd><br/>
+          &accelKey;+<kbd>下方向键</kbd></td>
+    </tr>
+    <tr>
+      <td>切换至起始标签页（当选中标签时）</td>
+      <td>&accelKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>切换至结尾标签页（当选中标签时）</td>
+      <td>&accelKey;+<kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>新标签页</td>
+      <td>&accelKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>新开窗口</td>
+      <td>&accelKey;+<kbd>N</kbd></td>
+    </tr>
+    <tr>
+      <td>下一标签页</td>
+      <td>&ctrlKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+右方向键<br/></span>
+        &ctrlKey;+<kbd>Page Down</kbd></td>
+    </tr>
+    <tr>
+      <td>在新标签页中打开地址</td>
+      <td>&altKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>上一标签页</td>
+      <td>&ctrlKey;+&shiftKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+左方向键<br/></span>
+        &ctrlKey;+<kbd>Page Up</kbd></td>
+    </tr>
+    <tr>
+      <td>撤消最近关闭的标签页</td>
+      <td>&accelKey;+&shiftKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>选中标签页（1到8）</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+(<kbd>1</kbd> to <kbd>8</kbd>)</td>
+    </tr>
+    <tr>
+      <td>上次选中的标签页</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+<kbd>9</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">工具</th>
+    </tr>
+    <tr class="noUnix">
+      <td>将所有标签页加为书签</td>
+      <td>&accelKey;+&shiftKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>将当前标签页加为书签</td>
+      <td>&accelKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>书签</td>
+      <td>&accelKey;+<kbd>B</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>I</kbd></span></td>
+    </tr>
+    <tr>
+      <td>光标浏览</td>
+      <td><kbd>F7</kbd></td>
+    </tr>
+    <tr>
+      <td>下载</td>
+      <td><span class="noUnix">&accelKey;+<kbd>J</kbd></span>
+        <span class="unix">&accelKey;+<kbd>Y</kbd></span></td>
+    </tr>
+    <tr>
+      <td>历史</td>
+      <td><span class="noMac">&accelKey;+<kbd>H</kbd></span>
+        <span class="mac">&accelKey;+&shiftKey;+<kbd>H</kbd></span></td>
+    </tr>
+    <tr>
+      <td>清除私有数据</td>
+      <td>&accelKey;+&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">其它</th>
+    </tr>
+    <tr>
+      <td>补全 .com 地址</td>
+      <td>&accelKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>补全 .net 地址</td>
+      <td>&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>补全 .org 地址</td>
+      <td>&accelKey;+&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>删除选中的自动补全项</td>
+      <td><span class="noMac"><kbd>Del</kbd></span>
+        <span class="mac">&shiftKey;+<kbd>Del</kbd></span></td>
+    </tr>
+    <tr class="noMac">
+      <td>全屏</td>
+      <td><kbd>F11</kbd></td>
+    </tr>
+    <tr>
+      <td>选中地址栏</td>
+      <td><span class="noMac">&altKey;+<kbd>D</kbd><br/></span>
+        <kbd>F6</kbd><br />
+        &accelKey;+<kbd>L</kbd></td>
+    </tr>
+    <tr>
+      <td>选中或者管理搜索引擎<br/>
+        (当搜索栏被选中时)</td>
+      <td>&altKey;+<kbd>上方向键</kbd><br/>
+        &altKey;+<kbd>下方向键</kbd><span class="noMac"><br/>
+        <kbd>F4</kbd></span></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="contentsBox"><em>2006 年 7 月 26 日</em></div>
+<p>&copy; 2003-2006，版权由 Mozilla Help Viewer Project 的贡献者所有。</p>
+
+</body>
+</html>

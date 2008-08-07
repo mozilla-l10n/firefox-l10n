@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+]
+>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>术语表</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+本术语表仅为提供信息之用，绝不表示它是一个可以信赖的完整或权威的术语描述，也不是所涉及技术的隐私性或安全性的额外说明。
+
+----
+
+<h1 id="glossary">术语表</h1>
+
+<dl>
+
+<dt id="authentication">authentication（认证）</dt>
+<dd>使用密码、证书、个人识别码（PIN），或其他信息来验证一个人在计算机网络上的身份。</dd>
+
+<dt id="bookmark">bookmark（书签）</dt>
+<dd>存储起来的网页地址（<a href="#Uniform_Resource_Locator">URL</a>），通过单击书签工具栏上的某个书签图标，
+或者在“书签”菜单中选择一个书签名，您可以方便地打开网页。</dd>
+
+<dt id="Bookmarks_Toolbar">Bookmarks Toolbar（书签工具栏）</dt>
+<dd>&brandShortName; 中可定制的工具栏，缺省情况下它显示在地址栏的下面。
+它显示的是您最喜欢的一组书签（或者包含一组书签的文件夹），
+您可以增加或删除这些书签。</dd>
+
+<dt id="cache">cache（缓存）</dt>
+<dd>一组存储在您计算机硬盘上或内存中的网页，
+在您浏览网页时，浏览器会收集这些网页的拷贝。
+当您单击一个链接或输入地址
+  <a href="#Uniform_Resource_Locator">URL</a> 来请求一个网页时，如果缓存中已经有该页的拷贝，
+&brandShortName; 就会对缓存页面和原始页面进行比较。
+如果页面相同，&brandShortName; 就会使用缓存中的页面，
+而不是再去下载网站上的。这样可以节省下载和处理的时间。</dd>
+
+<dt id="certificate">certificate（证书）</dt>
+<dd>可认为是身份证的数字化。
+证书指明了个人或公司或其他实体的名字，
+并对其中包括的属于这些实体的公钥提供了证明。
+当您对一条消息或其他数据进行数字签名时，
+要用到您的私钥，它和证书中的公钥是配对的。</dd>
+
+<dt id="client">client（客户端）</dt>
+<dd>一种软件，就像因特网浏览器一样，它可以向<a href="#server">服务器</a>发送请求或接收信息。服务器通常运行在不同的计算机上。
+运行客户端软件的计算机通常也被称作客户端。</dd>
+
+<dt id="cookie">cookie</dt>
+<dd>由一些网站存储在您计算机上的一小段信息。
+当您访问这些网站时，网站会请求 &brandShortName; 在您的硬盘上放一个或几个 Cookie，
+这样当您再次访问该网站时，&brandShortName; 会把属于这个网站的 Cookie 发送给它。
+这个网站就能获取一些关于您的信息，比如您购物车里的物品等。
+您可以对 Cookie 选项进行设置，以决定如何使用它们，以及您想让网站在里面存储多少信息。</dd>
+
+<dt id="cryptography">cryptography（密码学）</dt>
+<dd>打乱数据（加密）和重整数据（解密）的技术与实践。
+比如，在商业网站和 &brandShortName; 之间就可以用加密技术来对信息进行加密和解密。</dd>
+
+<dt id="decryption">decryption（解密）</dt>
+<dd>把加密数据重新整理好的过程。另请参见
+  <a href="#encryption">加密</a>。</dd>
+
+<dt id="digital_ID">digital ID（数字 ID）</dt>
+<dd>参见<a href="#certificate">证书</a>。</dd>
+
+<dt id="encryption">encryption（加密）</dt>
+<dd>一种打乱信息的处理方法，它可以伪装其本来意义。
+比如，在计算机之间使用加密的连接，就可以让第三方很难把这个连接上的信息流复原（或<em>解密</em>）。加密之后的信息就只能被拥有适当钥匙的人解密。</dd>
+
+<dt id="XML">Extensible Markup Language (XML)（可扩展标记语言 (XML)）</dt>
+<dd>一种描述数据的开放标准。和 HTML 不同，XML 允许网页开发者定义特别标签。
+想获取更多信息，请参考网上的 W3C 文档<a href="http://www.w3.org/XML/">可扩展标记语言 (XML)</a>。</dd>
+
+<dt id="feed">feed（新闻源）</dt>
+<dd>一个 <a href="#XML">XML</a> 网页，其中包含了一系列指向其他网页的链接。
+一些特殊的程序可以读取这个新闻源，并从链接中生成一个新闻头条的清单。这个清单会根据其来源变化。
+新闻网站使用这种技术来快速地发布最新消息，个人网络日志也经常使用它，以便在有新文章时通知其读者。
+另请参见<a href="#live_bookmark">实时书签</a>。</dd>
+
+<dt id="File_Transfer_Protocol">File Transfer Protocol (FTP)（文件传输协议 (FTP)）</dt>
+<dd>一种网络标准，用它可以让用户在网络上把文件从一台计算机传到另一台计算机。
+您可以在 &brandShortName; 中使用 FTP 来获取文件。</dd>
+
+<dt id="FIPS_PUBS_140-1">FIPS PUBS 140-1（美国联邦信息处理标准出版物 140-1）</dt>
+<dd>美国联邦信息处理标准出版物 140-1 是一个美国政府标准，它规定了加密模块的实现方法；
+加密模块指用来对数据进行加密、解密操作或其他保密操作（比如生成或验证数字签名）
+的硬件或软件。出售给美国政府的许多产品都必须满足 FIPS 标准的一项或多项。</dd>
+
+<dt id="home_page">home page（主页）</dt>
+<dd>&brandShortName; 在每次启动时都会显示的一个页面；当您单击<em>主页</em>按钮时也会显示此页面。这个词也指一个网站的主页面，通过它您可以找到网站的其他页面。</dd>
+
+<dt id="Hypertext_Markup_Language">Hypertext Markup Language (HTML)（超文本标记语言 (HTML)）</dt>
+<dd>网页所用的文档格式。HTML 标准定义了标签，或称代码，
+用它们可以定义文字布局、字体、样式、图片以及其他构成一个页面的元素。</dd>
+
+<dt id="Internet">Internet（因特网）</dt>
+<dd>一个世界范围的网络，它连接了成百上千万台计算机，
+这些计算机通过标准的协议进行通信，比如
+  <a href="#TCP_IP">TCP/IP</a>。因特网最初是由美国军事部门在 1969 年开发的，随后有许多教育及研究机构加入，
+在 20 世纪 90 年代后期，成百上千万的商业机构、各种组织及个人连入因特网。
+今天，因特网被用于电子邮件、浏览<a href="#World_Wide_Web">万维网 (WWW)</a>、即时通讯、邮件列表、用户组以及许多其他用途。</dd>
+
+<dt id="Internet_protocol_address">Internet protocol address (IP address)（因特网协议地址（IP地址））</dt>
+<dd>计算机用在
+  <a href="#TCP_IP">TCP/IP</a> 网络上的地址。因特网上的每一台计算机都有一个 IP 地址。<a href="#client">客户机</a>或是有一个永久性的 IP，或是有一个当它们连接到网络时动态分配的 IP 地址。</dd>
+
+<dt id="Java">Java</dt>
+<dd>Sun 微系统公司开发的一种编程语言。Java 程序可以在多种不同种类的计算机上运行，
+这就可以避免让程序员为每一种计算机都开发一个单独版本的程序。
+Java 安装后，&brandShortName; 会自动下载并运行 Java 程序（也称为 Java 小应用程序）。</dd>
+
+<dt id="JavaScript">JavaScript</dt>
+<dd>一种通常用于构建网页的脚本语言。程序员用 JavaScript 来让网页更具交互性。JavaScript 常用于对表单输入或选择按钮进行动态验证。JavaScript 可以和 Java 一起使用，但准确地说它们是不同的语言。
+运行 JavaScript 无需安装 Java。</dd>
+
+<dt id="live_bookmark">Live Bookmark（实时书签）</dt>
+<dd>一种特殊的书签，它就像一个文件夹，其中包含
+  <a href="#feed">新闻源 (Feed) </a>中的链接。通过访问带有新闻源的网站，单击地址态栏上的“实时书签”图标，
+然后选择您想使用的新闻源，就可以创建一个实时书签。</dd>
+
+<dt id="location_bar">Location Bar（地址栏）</dt>
+<dd>靠近 &brandShortName; 顶端的一个区域，它带有输入框和相关按钮，其中您可以输入 <a href="#Uniform_Resource_Locator">URL</a> 或搜索关键词。</dd>
+
+<dt id="master_password">master password（主密码）</dt>
+<dd>一个专门用来保护已被储存的密码和其他个人数据的密码。
+当您要查看这些数据的时候，&brandShortName; 会提示输入这个主密码。
+如果您有多个安全设备，每个设备都会需要一个不同的主密码。</dd>
+
+<dt id="navigation_toolbar">Navigation Toolbar（导航工具栏）</dt>
+<dd>位于 &brandShortName; 顶端的工具栏，其中包括<em>后退</em>和<em>前进</em>按钮。</dd>
+
+<dt id="Password_Manager">Password Manager（密码管理器）</dt>
+<dd>&brandShortName; 的一个组件，它可以把您访问网站时输入的部分或全部密码存储在硬盘上，
+当您再次访问这个网站时，它就会帮您自动输入这些密码。</dd>
+
+<dt id="PKCS_11">PKCS #11</dt>
+<dd>公钥加密标准，它可以管理安全设备，比如智能卡。</dd>
+
+<dt id="Plugin">Plugin（插件）</dt>
+<dd>插件可以为 &brandShortName; 增加新的功能，比如播放音频或视频片段。
+与其他辅助程序不同，插件会安装在 &brandShortName; 主安装目录下的插件目录内。
+并且通常可以在 &brandShortName; 内部启动。比如，
+音频插放插件可以播放网页或 Email 里面的音频文件。Macromedia Flash 播放器和 Java 都是插件。</dd>
+
+<dt id="private_key">private key（私钥）</dt>
+<dd>公钥加密技术中所用钥匙对中的一个。私钥必须保护好，
+它是用来对用相应公钥加密的数据进行解密的。</dd>
+
+<dt id="proxy">proxy（代理）</dt>
+<dd>一种中介或“掮客”程序，它同时作为
+  <a href="#server">服务器</a>和<a href="#client">客户端</a>，它会根据其他客户程序的要求发出网络请求。</dd>
+
+<dt id="search_engine">search engine（搜索引擎）</dt>
+<dd>一种基于万维网的程序，用户通过它可以从 WWW 上搜索并取得特定的信息。
+搜索引擎可以对网页文档进行全文搜索，也可以搜索一系列的关键词。
+它同样也会使用专业人员进行手工索引的文档。通常，用户在搜索框内输入一个词或短语，
+搜索引擎就会显示出与之相关的一系列网页链接。</dd>
+
+<dt id="secure_site">secure site（安全站点）</dt>
+<dd>一种站点，它通过 &brandShortName; 在连接中使用 <a href="#encryption">加密</a> 技术，以防止其他恶意网络用户查看传输的数据。
+当您访问安全站点时，&brandShortName; 会在<a href="#Status_Bar">状态栏</a>和
+  <a href="#location_bar">地址栏</a>显示一个锁的图标。&brandShortName; 还会在状态栏上显示网站的域名，
+同时会把地址栏的背景变成黄色。</dd>
+<dd>某些网站会同时包含有安全与非安全数据；非安全数据通常是非私人性质的，不过并非总是如此。
+对于这类站点，&brandShortName; 会在状态栏以及地址栏上显示一个带有斜线的锁，同时在状态栏上<em>将不会</em>显示站点的域名。这样，您就可以知道当前这个网页并不是完全安全的。</dd>
+
+<dt id="SSL">Secure Sockets Layer (SSL)（安全套接字层 (SSL)）</dt>
+<dd>一种协议，它可以在
+  <a href="#client">客户端</a>和<a href="#server">服务器</a>
+  进行双向认证，以建立起一个经过认证和加密的连接。
+SSL 运行在 TCP/IP 之上，而在 HTTP、LDAP、IMAP、NNTP 等高级网络协议之下。
+新的因特网工程工作小组 (Internet Engineering
+ Task Force, IETF) 标准被称作传输层安全 (Transport Layer Security, TLS)，它是基于 SSL 的。参见<a href="#authentication">认证</a>，
+  <a href="#encryption">加密</a>。</dd>
+
+<dt id="server">server（服务器）</dt>
+<dd>一种软件（比如提供网页服务的），它可以从<a href="#client">客户端</a>接受请求并发送信息。服务器软件通常运行在和客户端不同的计算机上。
+运行有服务器软件的计算机也被称为服务器。</dd>
+
+<dt id="Status_Bar">Status Bar（状态栏）</dt>
+<dd>&brandShortName; 窗口底部的工具栏。它的右端会显示一些状态图标。</dd>
+
+<dt id="TLS">TLS</dt>
+<dd>参见<a href="#SSL">安全套接字层 (SSL)</a>。</dd>
+
+<dt id="TCP_IP">Transmission Control Protocol/Internet Protocol (TCP/IP)（传输控制协议/因特网协议 (TCP/IP)）</dt>
+<dd>一种 UNIX 协议，它可以把运行不同操作系统的计算机连接起来。TCP/IP 是因特网的一种基本协议，并已成为全球标准。</dd>
+
+<dt id="Uniform_Resource_Locator">Uniform Resource Locator (URL)（统一资源定位符(URL)）</dt>
+<dd>可以告诉 &brandShortName; 如何找到一个文件或其他 Web 资源的标准地址，如 <tt>http://www.mozilla.org</tt>。在 &brandShortName; 的地址栏中输入 URL，就可以访问到网页。URL 也用在网页上的链接中，它指向其他网页。它也被称为因特网或 Web 地址。</dd>
+
+<dt id="web_page">web page（网页）</dt>
+<dd>WWW 中一个单独的文档，它可以由一个唯一的地址或 URL 来指定。
+一个网页可能包含文字、超链接以及图片。</dd>
+
+<dt id="web_site">web site（网站）</dt>
+<dd>由一个公司、组织或个人管理的、由超链接组织在一起的一组相关的网页。
+一个网站可能包含文字、图片、声音、视频文件以及指向其他网站的链接。</dd>
+
+<dt id="World_Wide_Web">万维网 (World Wide Web, WWW)</dt>
+<dd>也被称为 Web，它是因特网的一部分，由一组网页组成，并存在 Web <a href="#server">服务器上</a>，而由
+  <a href="#client">客户端</a>，也就是 Web 浏览器（如 &brandShortName;）来显示。</dd>
+
+</dl>
+
+<p>
+[&nbsp;<a href="#glossary">返回术语表起始处</a>&nbsp;]
+</p>
+
+<div class="contentsBox"><em>2005 年 4 月 7 日</em></div>
+<p>&copy; 2003-2006，版权由 Mozilla Help Viewer Project 的贡献者所有。</p>
+
+</body>
+</html>

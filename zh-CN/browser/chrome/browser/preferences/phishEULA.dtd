@@ -1,0 +1,7 @@
+<!ENTITY phishDlg.title "反钓鱼服务条款">
+<!ENTITY phishDlg.height "40em">
+<!ENTITY phishDlg.width "35em">
+<!ENTITY acceptToS.label "我接受该反钓鱼服务条款">
+<!ENTITY declineToS.label "我拒绝接受该反钓鱼服务条款">
+<!ENTITY accept.label "接受并继续">
+<!ENTITY cancel.label "取消">

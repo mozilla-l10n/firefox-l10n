@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "垃圾邮件日志">
+<!ENTITY junkLogInfo.label "记录垃圾邮件控制活动。">
+<!ENTITY clearLog.label "清空日志">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY closeLog.label "关闭">
+<!ENTITY closeLog.accesskey "o">

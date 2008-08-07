@@ -1,0 +1,10 @@
+<!--null-->
+<!ENTITY contact.heading "联系">
+<!ENTITY home.heading "家庭">
+<!ENTITY other.heading "其他">
+<!ENTITY phone.heading "电话">
+<!ENTITY work.heading "工作">
+<!ENTITY description.heading "描述">
+<!ENTITY addresses.heading "地址">
+<!ENTITY mapItButton.label "获取地图">
+<!ENTITY mapIt.tooltip "从web显示一幅此地址的地图">

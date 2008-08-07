@@ -1,0 +1,31 @@
+<!ENTITY window.title "过滤器规则">
+<!ENTITY filterName.label "过滤器名称:">
+<!ENTITY filterName.accesskey "i">
+<!ENTITY junk.label "垃圾">
+<!ENTITY notJunk.label "非垃圾">
+<!ENTITY lowestPriorityCmd.label "最低">
+<!ENTITY lowPriorityCmd.label "低">
+<!ENTITY normalPriorityCmd.label "正常">
+<!ENTITY highPriorityCmd.label "高">
+<!ENTITY highestPriorityCmd.label "最高">
+<!ENTITY conditionDesc.label "对于新消息，如果：">
+<!ENTITY filterActionDesc.label "执行动作:">
+<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY newFolderButton.label "新建文件夹…">
+<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY moveMessage.label "移动消息至">
+<!ENTITY copyMessage.label "复制消息至">
+<!ENTITY forwardTo.label "转发消息至">
+<!ENTITY replyWithTemplate.label "使用模板回复">
+<!ENTITY markMessageRead.label "标记为已读">
+<!ENTITY markMessageStarred.label "添加星标">
+<!ENTITY setPriority.label "设置优先级为">
+<!ENTITY addTag.label "为消息添加标签">
+<!ENTITY setJunkScore.label "设置垃圾状态为">
+<!ENTITY deleteMessage.label "删除消息">
+<!ENTITY deleteFromPOP.label "从 POP 服务器删除">
+<!ENTITY fetchFromPOP.label "从 POP 服务器下载">
+<!ENTITY ignoreThread.label "忽略论题">
+<!ENTITY ignoreSubthread.label "忽略子论题">
+<!ENTITY watchThread.label "观察论题">
+<!ENTITY stopExecution.label "停止执行过滤器">

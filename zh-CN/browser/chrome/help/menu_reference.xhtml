@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>&brandFullName; 菜单参考</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandFullName; 菜单参考</h1>
+  <p>菜单参考对 &brandFullName; 主窗口中的每一个菜单项都进行了讲解。</p>
+
+  <div class="contentsBox">本节内容包括：
+    <ul>
+      <li class="mac"><a href="#firefox">&brandShortName;</a></li>
+      <li><a href="#file">文件</a></li>
+      <li><a href="#edit">编辑</a></li>
+      <li><a href="#view">查看</a></li>
+      <li><a href="#go">历史</a></li>
+      <li><a href="#bookmarks">书签</a></li>
+      <li><a href="#tools">工具</a></li>
+      <li class="mac"><a href="#window">窗口</a></li>
+      <li><a href="#help">帮助</a></li>
+    </ul>
+  </div>
+
+<div class="mac">
+  <h2 id="firefox">&brandShortName;</h2>
+    <h3 id="about_mac">关于 &brandFullName;</h3>
+    <p>显示一个对话框，其中显示关于 &brandShortName; 的一些信息，
+包括当前版本以及一个简单的致谢名单。</p>
+
+    <h3 id="prefs_mac">首选项...</h3>
+    <p>显示<a href="prefs.xhtml">&pref.pluralCaps; 窗口</a>,
+      在这里您可以修改 &brandShortName; 里的许多 &pref.plural;。</p>
+
+    <h3 id="quit_mac">退出 &brandShortName;</h3>
+    <p>关闭 &brandShortName; 中所有打开的窗口，包括正在进行的下载以及其他 &brandShortName; 
+窗口。如果在您选择这一菜单项时，还有其他打开的标签页或窗口，&brandShortName; 
+会询问您以防止误操作。您可以通过以下方式关闭该警告：在 &pref.menuPath; 的<em>标签式浏览</em>面板中，取消选中<em>关闭多个标签页时警告我</em>复选框。如果您正在下载任何文件，&brandShortName; 也会警告你。</p>
+</div>
+
+<h2 id="file">文件</h2>
+
+  <h3 id="new_window">新建窗口</h3>
+  <p>打开一个新的 &brandShortName; 窗口。</p>
+
+  <h3 id="new_tab">新建标签页</h3>
+  <p>在当前 &brandShortName; 窗口中打开一个新的标签页。</p>
+
+  <h3 id="open_location">打开位置...</h3>
+  <p>光标会定位到 &brandShortName; 的地址栏上，您可以输入一个新地址来访问它。</p>
+
+  <h3 id="open_file">打开文件...</h3>
+  <p>显示一个“打开文件”对话框，在这里您可以从本地硬盘或网络上选择文件。
+您可以在 &brandShortName; 中查看多种类型的文件，包括 HTML/XML、图像文件、文本文件等。</p>
+
+  <h3 id="close">关闭（窗口）</h3>
+  <p>关闭当前窗口。</p>
+
+  <h3 id="close_tab">关闭标签页</h3>
+  <p>关闭当前标签页并选中最右边的标签页。
+本菜单项仅在当前窗口中打开的标签页多于一个时才可见。</p>
+
+  <h3 id="save_page_as">页面另存为...</h3>
+  <p>保存您正在浏览的网页。您可以选择保存包括图片在内的整个网页、
+HTML 页面内容或文本页面内容。</p>
+
+  <h3 id="send_page">发送链接...</h3>
+  <p>启动您的计算机上的缺省电子邮件程序，打开一个写邮件的窗口，
+然后就可以发出一个包含当前页面链接的邮件。</p>
+
+  <h3 id="page_setup">页面设置...</h3>
+  <p>显示一个页面设置对话框，在这里您可以设定一些打印选项，比如页边距、
+页眉、页脚以及页面方向等。</p>
+
+  <div class="noMac">
+    <h3 id="print_preview">打印预览</h3>
+    <p>显示当前文档打印后的效果。它可以反映出页面设置窗口中的设置
+以及页面作者的一些设置。</p>
+  </div>
+
+  <h3 id="print">打印...</h3>
+  <p>显示打印对话框，在这里您可以设定打印份数等参数，单击<em>打印</em>即可打印当前页面。</p>
+
+  <h3 id="import">导入...</h3>
+  <p>打开“导入向导”对话框，在这里您可以从其他浏览器导入
+ &pref.plural;、书签、历史、密码以及其他数据，这些浏览器包括微软 
+Internet Explorer、Netscape、Mozilla 或 Opera。</p>
+
+  <h3 id="work_offline">脱机工作</h3>
+  <p>在脱机和在线模式之间切换。脱机模式可以让您在不连接到互联网的情况下
+查看您以前访问过的网页。</p>
+
+<div class="noMac">
+  <h3 id="exit">
+    <span class="win">退出</span>
+    <span class="noWin">退出</span>
+  </h3>
+  <p>关闭 &brandShortName; 中所有打开的窗口，包括正在进行的下载以及其他 &brandShortName; 
+窗口。如果在您选择这一菜单项时，还有其他打开的标签页或窗口，&brandShortName; 
+会询问您以防止误操作。您可以通过以下方式关闭该警告：在 &pref.menuPath; 的<em>标签式浏览</em>面板中，取消选中<em>关闭多个标签页时警告我</em>复选框。如果你正在下载任何文件，&brandShortName; 也会警告你。</p>
+</div>
+
+<h2 id="edit">编辑</h2>
+
+  <h3 id="undo">撤消</h3>
+  <p>撤消在文本域内的最后一次操作。如果您稍后又不想撤消了，
+使用“重做”命令即可。</p>
+
+  <h3 id="redo">重做</h3>
+  <p>重新执行上一次撤消的命令。</p>
+
+  <h3 id="cut">剪切</h3>
+  <p>从文本域中剪切选中的文本并存到剪贴板中。使用“粘贴”命令即可将它粘贴到其他地方。</p>
+
+  <h3 id="copy">复制</h3>
+  <p>把选中的文字拷贝到剪贴板中。使用“粘贴”命令可将它粘贴到文本域中。</p>
+
+  <h3 id="paste">粘贴</h3>
+  <p>把存在剪贴板中的文字粘贴到文本域中。</p>
+
+  <h3 id="delete">删除</h3>
+  <p>从文本域中删除选中的文字。</p>
+
+  <h3 id="select_all">选择全部</h3>
+  <p>选中页面中的所有文字及其他元素。</p>
+
+  <h3 id="find_in_this_page">在当前页查找...</h3>
+  <p>在浏览器窗口的底部显示查找工具条。在工具条中输入您想查找的文字，
+随着您的输入，&brandShortName; 会自动找到并选中当前页面中出现的第一个匹配文字。单击
+<em>查找下一个</em>或者<em>查找上一个</em>来找到页面内其他位置的匹配文字，单击<em>高亮显示</em>可以让页面内匹配的文字以高亮显示出来。</p>
+
+  <h3 id="find_again">再次查找</h3>
+  <p>查找在使用<em>在当前页查找...</em>命令时指定的文字的下一个匹配项。</p>
+
+  <h3 class="unix" id="prefs">&pref.pluralCaps;</h3>
+  <p class="unix">显示 <a href="prefs.xhtml">&pref.pluralCaps; 窗口</a>,
+    在这里您可以改变 &brandShortName; 的许多&pref.plural;。</p>
+
+<h2 id="view">查看</h2>
+
+  <h3 id="toolbars">工具栏</h3>
+
+    <h4 id="navigation_toolbar">导航工具栏</h4>
+    <p>切换导航工具栏的显示与否。导航工具栏通常包含标准的导航按钮（后退、前进、停止等）。</p>
+
+    <h4 id="bookmarks_toolbar">书签工具栏</h4>
+    <p>切换书签工具栏的显示与否。书签工具栏包括指向不同网站的书签。</p>
+
+    <h4 id="customize">定制...</h4>
+    <p>显示工具栏定制对话框。在这里您可以在工具栏上拖放按钮。您也可以通过<span
+      class="noMac">右击</span><span class="mac">按下 &ctrlKey; 键，
+单击</span>导航工具栏并选择<em>定制...</em>来显示此对话框。</p>
+
+  <h3 id="status_bar">状态栏</h3>
+  <p>切换状态栏显示与否。状态栏显示在窗口的底部，
+包含一些同页面相关的有用信息，但可能不是每个人都需要它。</p>
+
+  <h3 id="sidebar">侧栏</h3>
+  <p>侧栏可以显示您的书签或浏览历史。您可以通过单击右上角的 X 来关闭侧栏。</p>
+
+    <h4 id="bookmarks_sidebar">书签</h4>
+    <p>显示书签侧栏，这可以让您随时都能看到书签。如果您经常使用书签，
+这会非常有用。</p>
+
+    <h4 id="history_sidebar">历史</h4>
+    <p>显示历史侧栏，它能够显示您已经访问过的那些网址。如果想改变记忆网址的天数，
+选择 &pref.menuPath; 并选择<em>隐私</em>面板。</p>
+
+  <h3 id="stop">停止</h3>
+  <p>停止下载您正在浏览的当前页面。其效果等同于单击工具栏上的<em>停止</em>按钮。</p>
+
+  <h3 id="reload">重新载入</h3>
+  <p>获取当前页面的最新版本。这等同于单击工具栏上的<em>重新载入</em>按钮。</p>
+
+  <h3 id="text_size">文本大小</h3>
+  <p>如果网页上的文字太大或太小，您可以把它改成更舒服的字体大小。</p>
+
+    <h4 id="increase_text_size">放大文本</h4>
+    <p>以大一号尺寸来显示网页上的文字。同样的操作您也可以用鼠标来完成（参见<a href="mouse_shortcuts.xhtml">鼠标快捷键</a>以获取更多信息）。</p>
+
+    <h4 id="decrease_text_size">缩小文本</h4>
+    <p>以小一号的尺寸来显示网页文字。同样的操作也可以用鼠标来完成（参见<a href="mouse_shortcuts.xhtml">鼠标快捷键</a>以获取更多信息）。</p>
+
+    <h4 id="reset_text_size">正常</h4>
+    <p>用正常大小显示网页文字。</p>
+
+  <h3 id="page_style">页面风格</h3>
+  <p>这里允许您为当前页面选一个风格。默认情况下会选定“基本页面风格”，
+除非作者指定了另外的默认风格。</p>
+
+    <h4 id="no_style">无风格</h4>
+    <p>取消页面的格式。</p>
+
+    <h4 id="basic_page_style">基本页面风格</h4>
+    <p>用作者指定的普通风格来显示页面。</p>
+
+    <h4 id="alternate_style"></h4>
+    <p>如果作者指定了额外的页面风格，&brandShortName;
+会把它们列在此处以供选择。</p>
+
+  <h3 id="character_encoding">字符编码</h3>
+  <p>这里可以手动改变网页的字符编码。通常，&brandShortName; 会自动选择字符编码。</p>
+
+  <h3 id="page_source">页面源代码</h3>
+  <p>显示当前页面的源代码。 <!--将来版本的 &brandShortName; 将会加入使用外部程序显示源代码的功能。--></p>
+
+  <div class="noMac">
+    <h3 id="full_screen">全屏</h3>
+    <p>用全屏模式显示页面。如果在此模式下导航栏也被隐藏了，
+您还可以用这种方法返回窗口模式，按下 <kbd>F11</kbd>。</p>
+  </div>
+<h2 id="go">历史</h2>
+
+  <p>“历史”菜单里是一个最新访问过的网址和打开的标签页的列表。</p>
+
+   <h3 id="back">后退</h3>
+  <p>在历史列表中后退一个页面。这等同于单击工具栏上的<em>后退</em>按钮。</p>
+
+  <h3 id="forward">前进</h3>
+  <p>在历史列表中前进一个页面。这等同于单击工具栏上的<em>前进</em>按钮。</p>
+
+  <h3 id="home">主页</h3>
+  <p>显示您的主页。这等同于单击导航栏上的<em>主页</em>按钮。要想改变主页，
+选择 &pref.menuPath;，打开“主要”面板；
+您可以指定一个空白页、当前页（或一组标签页）、
+一个书签、或是一个手工输入的地址来作为主页。</p>
+
+  <h3 id="closed_tabs">最近关闭的标签页</h3>
+  <p>在这里通过从列表中选择相应的项目，您可以恢复打开当前窗口中最新关闭的标签页。参阅主题<a href=
+    "tabbed_browsing.xhtml#closing_tabs">关闭和恢复标签页</a>获得更多信息。</p>
+
+  <h3 id="go_history">显示于侧栏</h3>
+  <p>显示历史侧栏，它会跟踪你访问过的网站。要改变记忆网站的天数，选择 &pref.menuPath; 并选择<em>隐私</em>面板。</p>
+
+<h2 id="bookmarks">书签</h2>
+
+  <p>这一菜单包括所有您存储的书签。</p>
+
+  <h3 id="add_to_bookmarks">将本页加入书签</h3>
+  <p>把当前页面加到书签中。选择这一命令会弹出一个对话框，
+让您为这个书签设定标题并指定把它存储在什么地方。</p>
+
+  <h3 id="subscribe">订阅此页...</h3>
+  <p>显示该网站提供的<a href="glossary.xhtml#feed">新闻源</a>的预览。通过预览页，您可以使用<a href="glossary.xhtml#live_bookmark">实时书签</a>、您的电脑上的新闻源阅读程序或者一个网络服务订阅这个新闻源。如果您在 &pref.menuPath; 的<em>收取点</em>面板中选择了总是使用实时书签或者某个新闻源阅读器，则预览页会被跳过。</p>
+
+  <h3 id="bookmark_all_tabs">将全部标签页加为书签...</h3>
+  <p>将当前窗口的所有标签页加到一个新的书签文件夹中。会显示一个对话框让您选择文件夹的名称并指定它要存储到什么位置。</p>
+
+  <h3 id="manage_bookmarks">管理书签...</h3>
+  <p>显示书签管理器窗口，在这里您可以修改书签，
+可以对书签进行排序、重命名以及修改它的属性，
+还可以添加、删除或者移动书签的位置。</p>
+
+<h2 id="tools">工具</h2>
+
+  <h3 id="web_search">网页搜索</h3>
+  <p>高亮显示网页搜索栏。您可以在其中输入您想搜索的关键词。</p>
+
+  <h3 id="downloads">下载项</h3>
+  <p>打开下载管理器，在这里可以看到正在进行的或是已经完成的下载项目。</p>
+
+  <h3 id="add_ons">附加组件</h3>
+  <p>打开附加组件管理器，在这里您可以查看、安装、设置、更新和卸载扩展及主题。要获得更多信息，参阅帮助主题<a href="customization.xhtml#add_ons">附加组件</a>。</p>
+
+  <h3 id="javascript_console">错误控制台</h3>
+  <p>打开错误控制台，它可以跟踪 JavaScript 代码中的错误。JavaScript 是一种脚本语言，通常用于构建网页。程序员用 JavaScript
+来让网页更具交互性；它经常被用于表单验证和选择按钮。</p>
+
+  <h3 id="page_info">页面信息</h3>
+  <p>显示当前页面的更多信息，比如文档类型、编码、文件大小以及安全信息。
+这个窗口还会显示该页面中所用的媒体和链接列表。</p>
+
+  <h3 id="clear_private_data">清除私有数据...</h3>
+  <p>清除在“清除私有数据”对话框中被选中的项，该对话框在 &pref.menuPath; 的<em>隐私</em>面板中。
+默认会显示一个确认对话框。</p>
+
+  <h3 class="win" id="options">&pref.pluralCaps;</h3>
+  <p class="win">显示 <a href="prefs.xhtml">&pref.pluralCaps;窗口</a>，在这里您可以改变 &brandShortName; 的许多&pref.plural;。</p>
+
+<div class="mac">
+  <h2 id="window">窗口</h2>
+
+    <h3 id="minimize">最小化</h3>
+    <p>最小化当前窗口。</p>
+
+    <h3 id="zoom">缩放</h3>
+    <p>放大或缩小当前窗口。</p>
+
+    <h3 id="open-windows">（打开窗口）</h3>
+    <p>显示所有打开窗口的标题。</p>
+</div>
+
+<h2 id="help">帮助</h2>
+
+  <h3 id="help_contents">
+    <span class="noMac">帮助内容</span>
+    <span class="mac">&brandShortName; 帮助</span>
+  </h3>
+  <p>打开 &brandShortName; 帮助窗口，里面的内容对您浏览网页非常有帮助。</p>
+
+  <div class="win">
+    <h3 id="for_ie_users">致 Internet Explorer 用户</h3>
+    <p>这个帮助窗口中的信息可以帮助 Internet Explorer 用户转换到 
+&brandShortName;。</p>
+  </div>
+
+  <h3 id="relnotes">发行说明</h3>
+  <p>提供安装、卸载和设置 &brandShortName; 的相关信息，还包括其他重要信息以及后发布的通告。需要可用的 Internet 连接。</p>
+
+  <h3 id="web_forgery">汇报伪造网站...</h3>
+  <p>在这里汇报您确信为伪造或者“钓鱼”的网站。&brandShortName; 的反钓鱼保护功能由 Google 提供，您汇报的信息会发送给 Google 用于改进这个功能。您的汇报内容会受到 Google 的隐私策略的保护。需要可用的 Internet 连接。</p>
+
+  <h3 id="reporter">汇报不兼容网站...</h3>
+  <p>在这里将 &brandShortName; 中不能正常工组的网站汇报给 &brandShortName; 的开发者。</p>
+
+  <h3 id="check_for_updates">检查更新...</h3>
+  <p>显示一个对话框检查 &brandShortName; 的更新，当有任何可用的更新时询问您是否要下载。下载更新后，会有对话框提示您重新启动 &brandShortName; 以便安装更新。注意，当正在下载一个更新或者准备好安装一个更新时，这个菜单项目的名称会发生变化。</p>
+
+  <div class="noMac">
+    <h3 id="about_mozilla_firebird">关于 &brandFullName;</h3>
+    <p>显示一个对话框，其中是关于 &brandShortName; 的信息，包括
+当前的版本以及一个简短的致谢名单。</p>
+  </div>
+
+<div class="contentsBox"><em>2006 年 9 月 23 日</em></div>
+<p>>&copy; 2003-2006，版权由 Mozilla Help Viewer Project 的贡献者所有。</p>
+
+</body>
+</html>

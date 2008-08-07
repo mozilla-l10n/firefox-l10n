@@ -1,0 +1,35 @@
+<!--null-->
+<!ENTITY newDirectoryTitle.label "目录服务器属性">
+<!ENTITY directoryName.label "名称：">
+<!ENTITY directoryName.accesskey "n">
+<!ENTITY directoryHostname.label "主机名：">
+<!ENTITY directoryHostname.accesskey "o">
+<!ENTITY directoryBaseDN.label "基准标识名：">
+<!ENTITY directoryBaseDN.accesskey "b">
+<!ENTITY findButton.label "查找">
+<!ENTITY findButton.accesskey "f">
+<!ENTITY directorySecure.label "使用安全连接 (SSL)">
+<!ENTITY directorySecure.accesskey "U">
+<!ENTITY directoryLogin.label "使用用户名和密码来登录">
+<!ENTITY directoryLogin.accesskey "L">
+<!ENTITY advancedOptionsButton.label "高级选项">
+<!ENTITY advancedOptionsButton.accesskey "a">
+<!ENTITY General.tab "基本信息">
+<!ENTITY Offline.tab "脱机">
+<!ENTITY Advanced.tab "高级">
+<!ENTITY advancedOptionsTitle.label "高级选项">
+<!ENTITY portNumber.label "端口号：">
+<!ENTITY portNumber.accesskey "p">
+<!ENTITY searchFilter.label "搜索过滤器：">
+<!ENTITY searchFilter.accesskey "f">
+<!ENTITY scope.label "范围：">
+<!ENTITY scope.accesskey "c">
+<!ENTITY scopeOneLevel.label "一级">
+<!ENTITY scopeOneLevel.accesskey "L">
+<!ENTITY scopeSubtree.label "子树">
+<!ENTITY scopeSubtree.accesskey "S">
+<!ENTITY return.label "不返回超过">
+<!ENTITY return.accesskey "r">
+<!ENTITY results.label "结果">
+<!ENTITY offlineText.label "您可以将此目录下载到本地，这样它在脱机工作时也可用。">
+<!ENTITY newDirectoryWidth "36em">

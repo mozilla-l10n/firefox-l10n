@@ -1,0 +1,13 @@
+<!ENTITY newPagesIn.label "新页面应该打开到:">
+<!ENTITY inNewWindow.label "新窗口">
+<!ENTITY inNewWindow.accesskey "w">
+<!ENTITY inNewTab.label "新标签页">
+<!ENTITY inNewTab.accesskey "t">
+<!ENTITY warnCloseMultipleTabs.label "关闭多个标签页时警告我">
+<!ENTITY warnCloseMultipleTabs.accesskey "m">
+<!ENTITY warnOpenManyTabs.label "打开多个可能会影响 &brandShortName; 速度的标签页时警告我">
+<!ENTITY warnOpenManyTabs.accesskey "o">
+<!ENTITY showTabBar.label "总是显示标签栏">
+<!ENTITY showTabBar.accesskey "b">
+<!ENTITY switchToNewTabs.label "在新标签页中打开链接时，立即切换至新标签页">
+<!ENTITY switchToNewTabs.accesskey "s">

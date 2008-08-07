@@ -1,0 +1,97 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY windowTitle.label "图像属性">
+<!ENTITY pixelsPopup.value "像素">
+<!ENTITY percentPopup.value "百分比">
+<!ENTITY locationEditField.label "图像 URL：">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "输入图像的文件名或地址">
+<!ENTITY title.label "工具提示：">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip " html 的 'title'  属性用于显示一个工具提示">
+<!ENTITY altText.label "替代文本：">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "输入替代图像显示的文本">
+<!ENTITY noAltText.label "不使用替代文本">
+<!ENTITY noAltText.accessKey "D">
+<!ENTITY previewBox.label "预览图像">
+<!ENTITY MoreFewerButton.tooltip "切换可编辑属性集的显示(多或少两种模式)">
+<!ENTITY actualSize.label "实际大小：">
+<!ENTITY actualSizeRadio.label "实际大小">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "恢复为图像的实际大小">
+<!ENTITY customSizeRadio.label "定制大小">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "将图像的大小变为显示于页面中">
+<!ENTITY heightEditField.label "高度:">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY widthEditField.label "宽度：">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY constrainCheckbox.label "限制">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "保持图像比例">
+<!ENTITY imagemapBox.label "图像映射">
+<!ENTITY removeImageMapButton.label "移除">
+<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY editImageMapButton.label "编辑…">
+<!ENTITY editImageMapButton.tooltip "为此图像创建可点击的热点">
+<!ENTITY alignment.label "将文本与图像对齐">
+<!ENTITY bottomPopup.value "在底部">
+<!ENTITY topPopup.value "在顶部">
+<!ENTITY centerPopup.value "居中">
+<!ENTITY wrapRightPopup.value "折行右对齐">
+<!ENTITY wrapLeftPopup.value "折行左对齐">
+<!ENTITY spacingBox.label "单元间隔">
+<!ENTITY spacingBox.tooltip "输入图像周围的间隔值">
+<!ENTITY leftRightEditField.label "左右空间：">
+<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY topBottomEditField.label "上下空间：">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "实心边框：">
+<!ENTITY borderEditField.accessKey "B">
+<!ENTITY showImageLinkBorder.label "显示已链接图片的边框">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY makePageBackgroundCheckbox.label "制作页面背景">
+<!ENTITY makePageBackgroundCheckbox.tooltip "使用本图片作为页面背景">
+<!ENTITY editImageButton.label "编辑图像">
+<!ENTITY editImageButton.tooltip "在其他程序中编辑图片">
+<!ENTITY imageInputTab.label "表单">
+<!ENTITY imageLocationTab.label "地址">
+<!ENTITY imageDimensionsTab.label "尺寸">
+<!ENTITY imageAppearanceTab.label "外观">
+<!ENTITY imageLinkTab.label "链接">
