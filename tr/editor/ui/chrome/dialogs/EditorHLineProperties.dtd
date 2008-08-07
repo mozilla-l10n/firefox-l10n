@@ -1,0 +1,19 @@
+<!ENTITY alignmentBox.label "Yerleştirme">
+<!ENTITY centerRadio.accessKey "C">
+<!ENTITY centerRadio.label "Merkez">
+<!ENTITY dimensionsBox.label "Boyutlar">
+<!ENTITY heightEditField.accessKey "S">
+<!ENTITY heightEditField.label "Yükseklik:">
+<!ENTITY leftRadio.accessKey "L">
+<!ENTITY leftRadio.label "Sol">
+<!ENTITY pixelsPopup.value "piksel">
+<!ENTITY rightRadio.accessKey "R">
+<!ENTITY rightRadio.label "Sağ">
+<!ENTITY saveSettings.accessKey "n">
+<!ENTITY saveSettings.label "Öntanımlı olarak kullan">
+<!ENTITY saveSettings.tooltip "Yeni yatay satırlar eklemede kullanmak için bu ayarları kaydet">
+<!ENTITY threeDShading.accessKey "G">
+<!ENTITY threeDShading.label "3-D Gölgelendirme">
+<!ENTITY widthEditField.accessKey "K">
+<!ENTITY widthEditField.label "Genişlik:">
+<!ENTITY windowTitle.label "Yatay Satır Özellikleri">

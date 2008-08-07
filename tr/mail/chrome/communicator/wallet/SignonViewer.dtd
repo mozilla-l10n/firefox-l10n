@@ -1,0 +1,15 @@
+<!ENTITY remove.label "Sil">
+<!ENTITY removeall.label "Tümünü sil">
+<!ENTITY spiel.nocapture.label "Form yöneticisi aşağıdaki sayfalardaki formlara girilen verilerin kaydedilmesi için asla sormayacak:">
+<!ENTITY spiel.nopreview.label "Otomatik olarak doldurmadığınız sürece, form yöneticisi aşağıdaki sayfalardan önizleme yapamıyor:">
+<!ENTITY spiel.signonsnotstored.label "Parola yöneticisi aşağıdaki sayfaların oturum giriş bilgilerini kaydetmeyecek:">
+<!ENTITY spiel.signonsstored.label "Parola yöneticisi aşağıdaki sayfaların oturum giriş bilgilerini kaydetti:">
+<!ENTITY tab.nocapture.label "Formları Asla Kaydetme">
+<!ENTITY tab.nopreview.label "Önizlemesiz Formlar">
+<!ENTITY tab.signonsnotstored.label "Parolaları Asla Kaydetme">
+<!ENTITY tab.signonsstored.label "Kayıtlı Parolalar">
+<!ENTITY treehead.password.label "Parola">
+<!ENTITY treehead.site.label "Sayfa">
+<!ENTITY treehead.username.label "Kullanıcı ismi">
+<!ENTITY windowalttitle.label "Form Yöneticisi: Siteler">
+<!ENTITY windowtitle.label "Parola Yöneticisi">

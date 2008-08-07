@@ -1,0 +1,13 @@
+<!ENTITY htmlOnly.label "Sadece HTML olarak gönder">
+<!ENTITY htmlOnly.accesskey "H">
+<!ENTITY plainTextAndHtml.label "Düz metin ve HTML olarak gönder">
+<!ENTITY plainTextAndHtml.accesskey "a">
+
+<!ENTITY plainTextOnly.label "Sadece düz metin olarak gönder">
+<!ENTITY plainTextOnly.accesskey "D">
+<!ENTITY question.label "İletiyi düz metne çevirmek mi, yoksa ne olursa olsun HTML olarak göndermek istersiniz?">
+<!ENTITY recipient.label "Alıcıların bazıları listeye göre HTML iletileri kabul edemiyorlar.">
+
+<!ENTITY send.label "Gönder">
+<!ENTITY send.accesskey "G">
+<!ENTITY windowTitle.label "HTML posta sorusu">

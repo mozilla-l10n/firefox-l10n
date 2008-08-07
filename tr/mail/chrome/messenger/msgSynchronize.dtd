@@ -1,0 +1,17 @@
+<!ENTITY MsgSelect.label "Kapalı hat için kullanılacaklar">
+<!ENTITY MsgSelectDesc.label "Posta dizinlerini ve haber gruplarını çevrimdışı kullanımı için seç.">
+<!ENTITY MsgSelectInd.label "İndir">
+<!ENTITY MsgSelectItems.label "Dizinler ve Haber Grupları">
+<!ENTITY MsgSyncDesc.label "Posta Dizinlerini ve Haber gruplarını çevrimdışı kullanımı için seçtiyseniz, şimdi indirebilir yada eşzamanlayabilirsiniz.Bundan başka,&quot;Seç&quot; düğmesini tıklayarak posta dizinlerini ve haber gruplarını çevrimdışı kullanımı için seçebilirsiniz.">
+<!ENTITY MsgSyncDirections.label "Şunu İndir ve/veya Eşzamanla:">
+<!ENTITY MsgSynchronize.label "Postaları İndir ve Eşzamanla">
+<!ENTITY selectButton.accesskey "e">
+<!ENTITY selectButton.label "Seç...">
+<!ENTITY sendMessage.accesskey "G">
+<!ENTITY sendMessage.label "Gönderilmemiş postaları gönder">
+<!ENTITY syncTypeMail.accesskey "e">
+<!ENTITY syncTypeMail.label "Posta Mesajları">
+<!ENTITY syncTypeNews.accesskey "H">
+<!ENTITY syncTypeNews.label "Haber grubu mesajları">
+<!ENTITY workOffline.accesskey "a">
+<!ENTITY workOffline.label "İndirme ve/veya Eşzamanlama bittikten sonra çevrimdışı çalış">

@@ -1,0 +1,16 @@
+<!ENTITY newPagesIn.label             "Yeni sayfalar burada açılsın:">
+<!ENTITY inNewWindow.label            "yeni pencerede">
+<!ENTITY inNewWindow.accesskey        "e">
+<!ENTITY inNewTab.label               "yeni sekmede">
+<!ENTITY inNewTab.accesskey           "s">
+
+<!ENTITY warnCloseMultipleTabs.label  "Çok sayıda sekme kapatılırken beni uyar">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label       "Çok sayıda sekme açmanın &brandShortName; uygulamasını yavaşlatabileceği anlarda beni uyar">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
+
+<!ENTITY showTabBar.label             "Sekme çubuğunu her zaman göster">
+<!ENTITY showTabBar.accesskey         "K">
+<!ENTITY switchToNewTabs.label        "Bir bağlantıyı yeni bir sekmede açtığımda hemen o sekmeye geç">
+<!ENTITY switchToNewTabs.accesskey    "S">

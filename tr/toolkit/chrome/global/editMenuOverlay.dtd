@@ -1,0 +1,31 @@
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY copyCmd.key "c">
+<!ENTITY copyCmd.label "Kopyala">
+<!ENTITY cutCmd.accesskey "K">
+<!ENTITY cutCmd.key "x">
+<!ENTITY cutCmd.label "Kes">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY deleteCmd.label "Sil">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.label "Düzenle">
+<!ENTITY findAgainCmd.accesskey "O">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.label "Sonrakini bul">
+<!ENTITY findCmd.accesskey "B">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.label "Bul ve değiştir...">
+<!ENTITY findPreviousCmd.accesskey "n">
+<!ENTITY findPreviousCmd.label "Öncekini bul">
+<!ENTITY pasteCmd.accesskey "Y">
+<!ENTITY pasteCmd.key "v">
+<!ENTITY pasteCmd.label "Yapıştır">
+<!ENTITY redoCmd.accesskey "Y">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.label "Yinele">
+<!ENTITY selectAllCmd.accesskey "T">
+<!ENTITY selectAllCmd.key "a">
+<!ENTITY selectAllCmd.label "Tümünü seç">
+<!ENTITY undoCmd.accesskey "R">
+<!ENTITY undoCmd.key "z">
+<!ENTITY undoCmd.label "Geri al">

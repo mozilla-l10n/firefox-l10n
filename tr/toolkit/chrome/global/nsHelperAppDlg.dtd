@@ -1,0 +1,22 @@
+<!ENTITY alwaysHandle.accesskey "H">
+<!ENTITY alwaysHandle.label "Herzaman bu tür dosyalar için bu işlemi uygula">
+<!ENTITY badApp "Seçtiğiniz [&quot;#1&quot;] uygulaması  bulanamıyor. Dosya adını kontrol edin veya  başka bir uygulama seçin.">
+<!ENTITY badApp.title "Uygulama bulunamadı">
+<!ENTITY caption.label "Açılan #1">
+<!ENTITY chooseApp.accesskey "S">
+<!ENTITY chooseApp.label "Seçin...">
+<!ENTITY chooseAppFilePickerTitle "Uygulama seç">
+<!ENTITY intro.attachment.label "Bu site eklenti olarak &quot;#3&quot; önerdi. Bu bir #2 (#1) dosya türü gibi gözüküyor ve burda bulunuyor:">
+<!ENTITY intro.attachment.noDesc.label "Bu site eklenti olarak &quot;#3&quot; önerdi. Bu bir #2  dosya türü gibi gözüküyor ve burda bulunuyor:">
+<!ENTITY intro.label " &quot;#3&quot; dosyası bir #2 (#1) dosyasıdır ve #4 bu dosyayı nasıl çalıştıracağı bilmiyor. Dosya konumu:">
+<!ENTITY intro.noDesc.label "&quot;#3&quot; dosyası bir #2 (#1) dosyasıdır ve #4 bu dosyayı nasıl çalıştıracağı bilmiyor. Dosya konumu:">
+<!ENTITY intro.sniffed.label "#4 has detected that the file &quot;#3&quot; is likely to be of type #2 (#1). The file is located at:">
+<!ENTITY intro.sniffed.noDesc.label "#4 has detected that the file &quot;#3&quot; is likely to be of type #2. The file is located at:">
+<!ENTITY openUsing.accesskey "K">
+<!ENTITY openUsing.label "Birlikte aç">
+<!ENTITY prompt.label "Bu   #1  dosyası ile ne yapayım?">
+<!ENTITY saveToDisk.accesskey "d">
+<!ENTITY saveToDisk.label "Bu dosyayı diske kaydet">
+<!ENTITY useSystemDefault.accesskey "u">
+<!ENTITY useSystemDefault.label "Öntanımlı uygulama ile aç (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Öntanımlı uygulama ile aç">

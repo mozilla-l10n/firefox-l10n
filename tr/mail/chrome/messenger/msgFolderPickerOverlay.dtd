@@ -1,0 +1,11 @@
+<!ENTITY chooseaccountclickhere.label "Hesap için tıklayınız">
+<!ENTITY choosefolderclickhere.label "Dizini seçmek için burayı tıklayın">
+<!ENTITY chooseserverToDeferTo.label "mesajları kaydetmek için kullanılacak hesabı seçmek için buraya tıklayın">
+<!ENTITY filemessageschoosethis.label "Bu dizini seçin">
+<!ENTITY filemessagesclickhere.label "Dizini seçmek için burayı tıklayın">
+<!ENTITY newfolderchoosethis.label "Bunu ana için seçiniz">
+<!ENTITY newfolderclickhere.label "Seçmek için burayı tıklayınız">
+<!ENTITY renamefolderchoosethis.label "Bu dizini seçin">
+<!ENTITY renamefolderclickhere.label "Dizini seçmek için burayı tıklayın">
+<!ENTITY subscribechoosethis.label "Bu Haber grubu sunucusunu seçin">
+<!ENTITY subscribeclickhere.label "Haber grubu sunucusunu seçmek için tıklayınız">

@@ -1,0 +1,16 @@
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label " İleri'ye tıklayın ve seçtiklerinizi kurun.">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Aşağıdaki eklentiler mevcut:">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Bazı eklentiler kurulum esnasında sizden ek bilgi isteyebilir.">
+<!ENTITY pluginWizard.availablePluginsPage.title "Mevcut Eklentiyi İndir">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "Şu anda  &brandShortName; kullanılabilecek eklentilere bakıyor...">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; eksik eklentilerin kurulumu tamamlandı:">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Eklentilere ilişkin ayrıntılı bilgi edinin ya da eksik eklentiyi kendiniz arayın.">
+<!ENTITY pluginWizard.finalPage.restart.label "Eklentilerin çalışması için &brandShortName; kapatılıp tekrar açılması gerekli.">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; eklentiyi kuruyor...">
+<!ENTITY pluginWizard.installPluginsPage.title "Eklentiler Kuruluyor">
+<!ENTITY pluginWizard.licensePage.title "Eklenti Lisansları">
+<!ENTITY pluginWizard.licensePage.accept.label "Kabul ediyorum">
+<!ENTITY pluginWizard.licensePage.deny.label "Kabul etmiyorum (Eklenti kurulmaz)">
+<!ENTITY pluginWizard.title "Eklenti Bulma Servisi">
+<!ENTITY pluginWizard.firstPage.title         "&pluginWizard.title; Bölümüne Hoşgeldiniz">
+<!ENTITY missingPlugin.label                                 "Eklentiyi indirmek için tıklayınız.">

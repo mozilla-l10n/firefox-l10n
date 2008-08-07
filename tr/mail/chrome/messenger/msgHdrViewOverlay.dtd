@@ -1,0 +1,38 @@
+<!ENTITY bccField.label "Gizli adres: ">
+<!ENTITY ccField.label "İlgili adres: ">
+<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
+<!ENTITY dateField.label "Tarih:">
+<!ENTITY detachAllAttachmentsCmd.label    "Tümünü çıkart...">  
+<!ENTITY detachAllAttachmentsCmd.accesskey    "T">  
+<!ENTITY deleteAllAttachmentsCmd.label    "Tümünü sil...">  
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "M"> 
+<!ENTITY detachAttachmentCmd.label    "Çıkart...">  
+<!ENTITY deleteAttachmentCmd.label    "Sil...">  
+<!ENTITY editMessage.label "Taslağı Düzenle...">
+<!ENTITY followupToField.label "Kime bölümünü takipet:">
+<!ENTITY fromField.label "Kimden:">
+<!ENTITY newsgroupsField.label "Haber Grupları:">
+<!ENTITY openAttachmentCmd.accesskey "ç">
+<!ENTITY openAttachmentCmd.label "Aç">
+<!ENTITY organizationField.label "Organizasyon:">
+<!ENTITY originalWebsite.label "Web sayfası:">
+
+<!ENTITY replyToField.label "Cevapla:">
+<!ENTITY saveAll.label "Hepsini Kaydet...">
+<!ENTITY saveAllAttachmentsCmd.accesskey "e">
+<!ENTITY saveAllAttachmentsCmd.label "Tümünü kaydet...">
+<!ENTITY saveAsAttachmentCmd.accesskey "A">
+<!ENTITY saveAsAttachmentCmd.label "Farklı kaydet...">
+<!ENTITY senderField.label "Gönderen: ">
+<!ENTITY subjectField.label "Konu:">
+<!ENTITY toField.label "Kime:">
+<!ENTITY userAgentField.label "Kullanıcı:">
+<!ENTITY tagsHdr.label "Etiketler: ">
+<!ENTITY referencesField.label "Referanslar: ">
+<!ENTITY messageIdField.label "İleti kimliği: ">
+<!ENTITY inReplyToField.label "Ata ileti: ">
+
+<!ENTITY CopyMessageId.label "İleti kimliğini kopyala">
+<!ENTITY OpenMessageForMsgId.label "Bu kimliği taşıyan iletiyi aç">
+<!ENTITY OpenBrowserWithMsgId.label "Tarayıcıyı bu kimlik numarasıyla aç">

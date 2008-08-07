@@ -1,0 +1,16 @@
+<!ENTITY accountsSectionHdr.label "Hesaplar">
+<!ENTITY advFeaturesSectionHdr.label "Geniş Seçenekler">
+<!ENTITY composeMsgLink.label "Yeni posta yaz">
+<!ENTITY emailSectionHdr.label "E-Posta">
+<!ENTITY filtersLink.label "Posta süzgeci yarat">
+<!ENTITY junkSettings.label "Gereksiz posta ayarları">
+<!ENTITY newAcctLink.label "Yeni hesap aç">
+<!ENTITY newsSectionHdr.label "Haber Grupları">
+<!ENTITY offlineLink.label "Çevrimdışı ayarları">
+<!ENTITY readMsgsLink.label "Postaları oku">
+<!ENTITY rssSectionHdr.label "Canlı yer imi ve Blok">
+<!ENTITY searchMsgsLink.label "Postaları ara">
+<!ENTITY settingsLink.label "Bu hesabın ayarlarını görüntüle">
+<!ENTITY subscibeRSS.label "Kayıtları Yönet">
+<!ENTITY subscribeImapFolders.label "Dosya üyeliklerini düzenle">
+<!ENTITY subscribeNewsLink.label "Haber gruplarına üye ol">

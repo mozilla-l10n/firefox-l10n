@@ -1,0 +1,13 @@
+<!ENTITY altFieldset.label "Sıcaknokta Alt Metni:">
+<!ENTITY browseButton.label "Taranıyor...">
+<!ENTITY commonFieldset.label "Ortak Hedefler:">
+<!ENTITY link.label "Sıcaknokta Bağlantısı">
+<!ENTITY new.value "Yeni Pencere">
+<!ENTITY none.value "(hiçbiri)">
+<!ENTITY parent.value "Ana çerçeve">
+<!ENTITY same.value "Aynı Çerçeve">
+<!ENTITY target.label "Sıcaknokta Hedefi">
+<!ENTITY targetFieldset.label "Hedef Ayar">
+<!ENTITY urlFieldset.label "Sıcaknokta URL:">
+<!ENTITY whole.value "Tüm sayfa">
+<!ENTITY windowTitle.label "Önemli nokta özellikleri">

@@ -1,0 +1,14 @@
+<!ENTITY FormAction.accesskey "U">
+<!ENTITY FormAction.label "Hareket URL si:">
+<!ENTITY FormEncType.accesskey "i">
+<!ENTITY FormEncType.label "Şifreleme:">
+<!ENTITY FormMethod.accesskey "Y">
+<!ENTITY FormMethod.label "Yöntem:">
+<!ENTITY FormName.accesskey "F">
+<!ENTITY FormName.label "Form ismi:">
+<!ENTITY FormTarget.accesskey "H">
+<!ENTITY FormTarget.label "Hedef çerçeve:">
+<!ENTITY RemoveForm.accesskey "M">
+<!ENTITY RemoveForm.label "Formu kaldır">
+<!ENTITY Settings.label "Ayarlar">
+<!ENTITY windowTitle.label "Form özellikleri">

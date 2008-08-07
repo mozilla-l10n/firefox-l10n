@@ -1,0 +1,19 @@
+<!ENTITY about.version                "sürüm">
+
+<!ENTITY about.copy.beforeLink        "Telif hakkı &copy; 1998-2006">
+<!ENTITY about.copy.linkTitle         "Katkıda Bulunanlar">
+<!ENTITY about.copy.afterLink         "">
+
+<!ENTITY about.license.beforeLink     "Bu ürünün">
+<!ENTITY about.license.linkTitle      "lisans bilgilerini">
+<!ENTITY about.license.afterLink      "okuyun.">
+
+<!ENTITY about.relnotes.beforeLink    "Bu ürünü">
+<!ENTITY about.relnotes.linkTitle     "sürüm notlarını">
+<!ENTITY about.relnotes.afterLink     "okuyun.">
+
+<!ENTITY about.buildconfig.beforeLink "Bu yapıda kullanılan">
+<!ENTITY about.buildconfig.linkTitle  "yapılandırılışa">
+<!ENTITY about.buildconfig.afterLink  "bakın.">
+
+<!ENTITY about.buildIdentifier        "Yapı belirleyici kimlik: ">

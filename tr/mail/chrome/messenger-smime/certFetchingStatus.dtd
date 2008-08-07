@@ -1,0 +1,3 @@
+<!ENTITY info.message "Alıcı sertifikalarını dizinde ara. Bu işlem uzun sürebilir.">
+<!ENTITY stop.label "Aramayı durdur">
+<!ENTITY title.label "Sertifikayı indir">

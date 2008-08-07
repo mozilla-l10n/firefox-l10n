@@ -1,0 +1,6 @@
+<!ENTITY bccAddr.label "Gizli kopya:">
+<!ENTITY ccAddr.label "İlgili kopyası:">
+<!ENTITY followupAddr.label "Takip adresi:">
+<!ENTITY newsgroupsAddr.label "Haber grubu:">
+<!ENTITY replyAddr.label "Yanıt adresi:">
+<!ENTITY toAddr.label "Nereye:">

@@ -1,0 +1,19 @@
+<!ENTITY certs.label "Sertifikalar">
+
+<!ENTITY managecerts.accesskey "a">
+<!ENTITY managecerts.button "Sertifikaları yönet...">
+<!ENTITY  managecerts.caption      "Sertifikaları yönet">
+<!ENTITY  managedevices.caption    "Güvenlik aygıtlarını yönet">
+<!ENTITY  pref.certs.title         "Sertifikalar">
+
+<!ENTITY managecerts.text "Sertifika Yoneticisini kişisel sertifikalarınız kadar diger şahıslar ve sertifika haklarını dogrulamak için de kullanın.">
+<!ENTITY managedevices.accesskey "K">
+<!ENTITY managedevices.button "Güvenlik aygıtı yönet...">
+
+<!ENTITY managedevices.text "Akıllı kartlarda olduğu gibi, güvenlik aygıtlarını yönetmek için bu düğmeyi kullanın.">
+<!ENTITY resetpreferences.label "Tercihleri sıfırla...">
+<!ENTITY resetsettings.label "Ayarları sıfırla">
+
+
+
+<!ENTITY ssl.label "SSL">

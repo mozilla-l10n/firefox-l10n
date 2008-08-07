@@ -1,0 +1,19 @@
+<!ENTITY AccessKey.accesskey "E">
+<!ENTITY AccessKey.label "Erişim Tuşu:">
+<!ENTITY ButtonDisabled.accesskey "K">
+<!ENTITY ButtonDisabled.label "Kullanılamaz">
+<!ENTITY ButtonName.accesskey "A">
+<!ENTITY ButtonName.label "Adı:">
+<!ENTITY ButtonType.accesskey "R">
+<!ENTITY ButtonType.label "Türü">
+<!ENTITY ButtonValue.accesskey "D">
+<!ENTITY ButtonValue.label "Değer:">
+<!ENTITY RemoveButton.accesskey "m">
+<!ENTITY RemoveButton.label "Düğmeyi kaldır">
+<!ENTITY Settings.label "Ayarlar">
+<!ENTITY button.value "Düğme">
+<!ENTITY reset.value "Sıfırla">
+<!ENTITY submit.value "Gönder">
+<!ENTITY tabIndex.accesskey "e">
+<!ENTITY tabIndex.label "Sekme indeksi:">
+<!ENTITY windowTitle.label "Düğme Özellikleri">

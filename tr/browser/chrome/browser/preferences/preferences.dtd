@@ -1,0 +1,13 @@
+<!ENTITY  prefWindow.titleWin     "Seçenekler">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Tercihleri">
+<!ENTITY  prefWin.styleWin2     "width: 45.8em; min-height: 39em;"> 
+<!ENTITY  prefWin.styleMac2   	"width: 50em; min-height: 50em">
+<!ENTITY  prefWin.styleGNOME2  	"width: 46em; min-height: 40em;">
+
+<!ENTITY  panePrivacy.title       "Gizlilik">
+<!ENTITY  paneAdvanced.title      "Gelişmiş">
+<!ENTITY  paneContent.title       "İçerik">
+<!ENTITY  paneTabs.title          "Sekmeler">
+<!ENTITY  paneMain.title          "Ana">
+<!ENTITY  paneSecurity.title      "Güvenlik">
+<!ENTITY  paneApplications.title        "Uygulamalar">

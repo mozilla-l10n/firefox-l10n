@@ -1,0 +1,11 @@
+<!ENTITY adjustDesc.label "Bağlantıları sayfanın bulunduğu alandan çalışacak sekilde ayarla. (Yerel sayfalara bağlantılar				yerel sürümler mevcut olduğunda çalışacaktır.)">
+<!ENTITY composerHeader.label "Yayınla">
+<!ENTITY defaultHeader.label "Öntanimlı yayınlama adresi">
+<!ENTITY keepCheck.label "İmgeleri sayfa ile birlikte koru">
+<!ENTITY maintainCheckbox.label "Besleyen bağlantılar">
+<!ENTITY publishFtp.label "Eğer bir FTP sayfasında yayınlanıyorsa, gösterilecek HTTP adresini girin:">
+<!ENTITY publishhtp.label "Eğer bir FTP sayfasında yayınlanıyorsa, gösterilecek HTTP adresini girin:">
+<!ENTITY saveDesc.label "İmgelerin kopyasını sayfanın bulunduğu alana kaydet. İmgeler daima				sayfanın yerel sürümlerinde ve sayfa yayınlandığında görünecektir.">
+<!ENTITY tip.label "İpucu: Eğer uzaktan yayınlama kullanacaksanız, her iki seçeneği de kontrol edin">
+
+<!ENTITY pref.publish.title "Yayınla">

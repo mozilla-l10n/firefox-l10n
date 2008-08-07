@@ -1,0 +1,14 @@
+<!ENTITY ListType.label "Liste Tipi">
+<!ENTITY bulletList.value "Maddeli (numarasız) Liste">
+<!ENTITY bulletStyle.label "Madde Tipi:">
+<!ENTITY changeEntireListRadio.accessKey "t">
+<!ENTITY changeEntireListRadio.label "Tüm listeyi değiştir">
+<!ENTITY changeListMsg.label "Liste tipini değiştirirken:">
+<!ENTITY changeSelectedRadio.accessKey "L">
+<!ENTITY changeSelectedRadio.label "Seçili öğeleri değiştir">
+<!ENTITY definitionList.value "Tanımlama Listesi">
+<!ENTITY none.value "Hiçbiri">
+<!ENTITY numberList.value "Numaralı Liste">
+<!ENTITY startingNumber.accessKey "B">
+<!ENTITY startingNumber.label "Buradan başla:">
+<!ENTITY windowTitle.label "Liste Özellikleri">

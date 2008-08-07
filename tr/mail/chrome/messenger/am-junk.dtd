@@ -1,0 +1,26 @@
+<!ENTITY junkFolderOn.label "Yandaki hesabın &quot;Gereksiz Posta&quot; dizinine taşı.">
+<!ENTITY junkFolderOn.accesskey "i">
+
+<!ENTITY level.accesskey "e">
+<!ENTITY level.label "Gereksiz posta kontrolünü etkinleştir">
+
+
+<!ENTITY move.label "Gereksiz posta tespit edildiğinde gelen mesajları">
+<!ENTITY move.accesskey "M">
+
+<!ENTITY otherFolder.label "Başka bir dizine taşı (yan tarafdan seçin).">
+<!ENTITY otherFolder.accesskey "r">
+
+<!ENTITY purge1.accesskey "m">
+<!ENTITY purge1.label "Gereksiz posta olarak işaretlenen postaların otomatik silinme süresi: ">
+<!ENTITY purge2.label "gün">
+<!ENTITY junkSettings.label "Gereksiz posta ayarları">
+
+<!ENTITY trainingWarning.label "Eğer bu özellik açılmışsa, Gereksiz Mesaj araç çubuğunu kullanarak &brandShortName; uygulamasına mesajları 'gereksiz' olarak işaretleyip, işaretlemeyeceğini göstermelisiniz. Gereksiz ve gerekli mesajları tanımlamalısınız.">
+
+<!ENTITY whitelist.accesskey "E">
+<!ENTITY whitelist.label "Eğer aşağıdaki gönderen benim adres defterimde kayıtlı ise Gereksiz Posta olarak işaretleme:">
+
+
+<!ENTITY ispHeaders.label "Güvenli posta başlıkları: ">
+<!ENTITY ispHeaders.accesskey "T">

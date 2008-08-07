@@ -1,0 +1,7 @@
+<!ENTITY email.address "E-posta adresi:">
+<!ENTITY encryptionCert.label "Şifreleme sertifikasını görüntüle">
+<!ENTITY issuer.name "Sertifika yayınlayan">
+<!ENTITY recipient.name "Bunun için şifrelenmiş:">
+<!ENTITY signatureCert.label "İmza sertifikasını görüntüle">
+<!ENTITY signer.name "İmzalayan:">
+<!ENTITY status.label "İleti güvenliği">

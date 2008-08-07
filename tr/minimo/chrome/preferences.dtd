@@ -1,0 +1,66 @@
+<!ENTITY advanced.label              "Gelişmiş">
+<!ENTITY privacy.label               "Gizlilik"> 
+<!ENTITY proxy.label                 "Vekil Sunucu">
+<!ENTITY general.label               "Genel">
+<!ENTITY okayButton.label            "Kaydet">
+<!ENTITY cancelButton.label          "Vazgeç">
+
+
+<!-- Toolbar -->
+
+<!ENTITY closeWindow "C">
+
+<!-- Privacy pane -->
+
+<!ENTITY sanitizeButton.label        "Tümünü temizle">
+<!ENTITY sanitizeBookmarks.label     "Tüm yer imlerini sil">
+
+<!-- ConnectionsDialogPane --> 
+
+<!ENTITY networkCaption.label        "Ağ">
+<!ENTITY proxyCaption.label          "HTTP vekil sunucu ayarları">
+<!ENTITY useproxyCheckbox.label      "Vekil sunucu kullan">
+<!ENTITY proxyPortCaption.label      "Bağlantı noktası">
+<!ENTITY proxyURL.label              "URL">
+
+<!ENTITY downloadMediaCaption.label  "Öntanımlı indirme konumu">
+<!ENTITY useDownloadDir.label        "İndirme dizini kullan">
+<!ENTITY dontAskForLaunch.label      "Takılıysa hep depolama kartına indir">
+<!ENTITY setSaveDirectory.label      "Kaydetme dizinini belirle">
+
+<!-- Home pane --> 
+
+<!ENTITY homeCaption.label           "Başlangıç sayfası">
+<!ENTITY loadHomePageCurrent.label   "Geçerli sayfaları kullan">
+<!ENTITY loadHomePageBlank.label     "Boş sayfa kullan">
+
+<!-- System Integration --> 
+
+<!ENTITY systemCaption.label         "Sistemle bütünleşme">
+<!ENTITY setDefaultBrowser.label     "Minimo'yu öntanımlı tarayıcı olarak ayarla">
+
+<!ENTITY fullScreenEnabled.label     "Tam ekran kipi devrede">
+<!ENTITY homebarEnabled.label        "Başlangıç çubuğu devrede">
+
+<!-- Small Screen Settings --> 
+
+<!ENTITY sssCaption.label            "Küçük ekran ayarları">
+<!ENTITY imagesCheckbox.label        "Resimleri göster">
+<!ENTITY useSSRCheckbox.label        "SSR kullan">
+<!ENTITY usesiteSSRCheckbox.label    "Siteye göre SSR kullan">
+
+<!-- Advanced Settings --> 
+
+<!ENTITY miscCaption.label           "Diğer ayarlar">
+<!ENTITY useSWKeyboard.label         "Yazılım klavyesi kullan">
+<!ENTITY dumpJSConsole.label         "Kapanışta JS konsolunu bırak">
+<!ENTITY useDiskCache.label          "Disk önbelleği kullan">
+<!ENTITY useDiskCacheNone.label      "Hiçbirini kullanma">
+<!ENTITY downloadPrompt.label        "Dosya konumunu sor">
+<!ENTITY enablePreFetching.label     "Önceden alımı devreye sok">
+<!ENTITY cacheSettings.label         "Disk önbelleği">
+<!ENTITY cacheSize.label             "Önbellek boyutu (KB)">
+
+<!-- Summary Pane -->
+
+<!ENTITY summaryCaption.label        "Değişikliklerin özeti">

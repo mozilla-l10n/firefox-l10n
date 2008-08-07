@@ -1,0 +1,5 @@
+<!ENTITY pageInfo.securityHeader "Sayfanın güvenlik bilgileri">
+<!ENTITY pageInfo.securityTab "Güvenlik">
+<!ENTITY pageInfo.securityTab.accesskey "G">
+<!ENTITY pageInfo.view.accesskey "G">
+<!ENTITY pageInfo.view.label "Göster">

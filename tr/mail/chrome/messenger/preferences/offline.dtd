@@ -1,0 +1,25 @@
+<!ENTITY offlineDialog.title       "Çevrim dışı çalışma ayarları">
+
+<!ENTITY textStartUp   "Başlangıçta bunları yap:">
+<!ENTITY radioRememberPrevState.label "Önceki bağlanma durumunu hatırla">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe.label "Bana çevrim içi olunup olunmayacağını sor">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline.label "Hep çevrim içi başla">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Çevrim içi olunca gönderilmeyen iletiler gönderilsin mi?">
+<!ENTITY radioAutoSend.label "Evet">
+<!ENTITY radioAutoSend.accesskey "E">
+<!ENTITY radioNotSend.label "Hayır">
+<!ENTITY radioNotSend.accesskey "H">
+<!ENTITY radioAskUnsent.label "Bana sor">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Çevrim dışı olurken indirilmeyen iletiler indirilsin mi?">
+<!ENTITY radioAutoDownload.label "Evet">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload.label "Hayır">
+<!ENTITY radioNotDownload.accesskey "h">
+<!ENTITY radioAskDownload.label "Bana sor">
+<!ENTITY radioAskDownload.accesskey "o">
+

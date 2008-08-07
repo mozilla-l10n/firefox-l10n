@@ -1,0 +1,32 @@
+<!ENTITY addToUserDictionaryButton.accessKey "S">
+<!ENTITY addToUserDictionaryButton.label "Sözcük ekle">
+<!ENTITY checkwordButton.accessKey "o">
+<!ENTITY checkwordButton.label "Kelimeyi kontrol et">
+<!ENTITY closeButton.accessKey "K">
+<!ENTITY closeButton.label "Kapat">
+<!ENTITY editUserDictionaryButton.accessKey "D">
+<!ENTITY editUserDictionaryButton.label "Düzenle...">
+<!ENTITY ignoreAllButton.accessKey "N">
+<!ENTITY ignoreAllButton.label "Hepsini görmemezlikten gel">
+<!ENTITY ignoreButton.accessKey "G">
+<!ENTITY ignoreButton.label "Görmezden gel">
+<!ENTITY languagePopup.accessKey "d">
+<!ENTITY languagePopup.label "Dil:">
+<!ENTITY misspelledWord.label "Hatalı sözcük:">
+<!ENTITY moreDictionaries.label "Daha fazla indir">
+<!ENTITY recheckButton.accessKey "s">
+<!ENTITY recheckButton.label "Sayfayı tekrar kontrol et">
+<!ENTITY replaceAllButton.accessKey "T">
+<!ENTITY replaceAllButton.label "Tümünü değiştir">
+<!ENTITY replaceButton.accessKey "E">
+<!ENTITY replaceButton.label "Değiştir">
+<!ENTITY sendButton.accessKey "G">
+<!ENTITY sendButton.label "Gönder">
+<!ENTITY stopButton.accessKey "D">
+<!ENTITY stopButton.label "Dur">
+<!ENTITY suggestions.accessKey "n">
+<!ENTITY suggestions.label "Öneriler:">
+<!ENTITY userDictionary.label "Kişisel sözlük:">
+<!ENTITY windowTitle.label "Yazımı Denetle">
+<!ENTITY wordEditField.accessKey "D">
+<!ENTITY wordEditField.label "Değiştirilecek:">

@@ -1,0 +1,23 @@
+<!ENTITY aboveQuote.label "Cevabı alıntı metnin üstünden yazmaya başla">
+<!ENTITY aboveText.label "benim cevabımın altına koy (alıntı metnin üstüne)">
+<!ENTITY addressing.label "Adresleme">
+<!ENTITY addressingGroupTitle.label "Adreslendirme">
+<!ENTITY addressingText.label "Adreslere bakılırken,">
+<!ENTITY autoQuote.accesskey "A">
+<!ENTITY autoQuote.label "Cevap yazarken özgün metni alıntı olarak tekrar yaz">
+<!ENTITY belowQuote.label "Cevap alıntı metnin altında başlasın">
+<!ENTITY belowText.label "alıntı metnin altına koy (tavsiye edilen)">
+<!ENTITY compositionGroupTitle.label "Düzenle">
+<!ENTITY directories.accesskey "F">
+<!ENTITY directories.label "Farklı  LDAP sunucusu kullan:">
+<!ENTITY editDirectories.accesskey "e">
+<!ENTITY editDirectories.label "Dizinleri düzenle...">
+<!ENTITY place.accesskey "v">
+<!ENTITY place.label "ve benim imzam">
+<!ENTITY selectAndQuote.label "alıntı metni işaretle">
+<!ENTITY then.accesskey "S">
+<!ENTITY then.label "Sonra">
+<!ENTITY useGlobal.accesskey "L">
+<!ENTITY useGlobal.label "LDAP sunucumun ayarlarını bu hesap için kullan">
+<!ENTITY useHtml.accesskey "H">
+<!ENTITY useHtml.label "Mesajı HTML olarak yaz">

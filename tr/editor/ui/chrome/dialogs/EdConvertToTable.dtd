@@ -1,0 +1,9 @@
+<!ENTITY collapseSpaces.label "Ekstra boşlukları dikkate alma">
+<!ENTITY collapseSpaces.tooltip "Yakın boşlukları bir ayraç olarak çevir">
+<!ENTITY commaRadio.label "Virgül">
+<!ENTITY deleteCharCheck.label "Ayraç işaretini sil">
+<!ENTITY instructions1.label "Düzenleyici, seçim içersindeki herbir paragraf için yeni bir tablo sırası yaratıyor.">
+<!ENTITY instructions2.label "Seçimi kolonlara ayırmak için kullanılan işareti seç:">
+<!ENTITY otherRadio.label "Diğer işaret:">
+<!ENTITY spaceRadio.label "Boşluk">
+<!ENTITY windowTitle.label "Tablo olarak çevir">

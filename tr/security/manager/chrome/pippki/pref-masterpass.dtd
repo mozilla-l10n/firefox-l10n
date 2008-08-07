@@ -1,0 +1,23 @@
+<!ENTITY changepassword.accesskey "a">
+<!ENTITY changepassword.button "Parola değiştir...">
+<!ENTITY changepassword.caption "Ana parolayı değiştir">
+<!ENTITY changepassword.text "Ana parolanız, ağ parolaları ve sertifikalar gibi hassas bilgileri korur.">
+<!ENTITY pref.masterpass.title "Ana parolalar">
+
+<!ENTITY managepassword.askeverytime "Her lazım olduğunda">
+<!ENTITY  managepassword.askeverytime.accesskey  "E">
+
+<!ENTITY managepassword.askfirsttime "İlk lazım olduğunda">
+<!ENTITY  managepassword.askfirsttime.accesskey  "D">
+
+<!ENTITY managepassword.asktimeout "Eğer ,">
+<!ENTITY  managepassword.asktimeout.accesskey    "E">
+
+<!ENTITY managepassword.caption "Ana parola zaman aşımı">
+<!ENTITY managepassword.text "&brandShortName; sizin ana parolanızı istiyor:">
+<!ENTITY managepassword.timeout.unit "dakika veya daha fazla zaman zarfı içinde kullanılmazsa">
+<!ENTITY resetpassword.accesskey "r">
+<!ENTITY resetpassword.button "Parolayı sıfırla">
+<!ENTITY resetpassword.caption "Ana parolayı sıfırla">
+<!ENTITY resetpassword.text "Eğer ana parolanızı sıfırlarsanız, bütün kaydolan Ağ ve E-Posta parolanızı, veri formlarınız,  kişisel Sertifikalarız ve özel anahtarlarınız kaybolur.">
+

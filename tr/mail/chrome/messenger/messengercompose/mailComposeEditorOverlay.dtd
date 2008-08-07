@@ -1,0 +1,5 @@
+<!ENTITY attachImageSource.label         "İletiye bu resim dosyasını ekle">
+<!ENTITY attachImageSource.accesskey     "s">
+
+<!ENTITY attachLinkSource.label          "İletiye bu bağlantının kaynak kodunu ekle">
+<!ENTITY attachLinkSource.accesskey      "s">

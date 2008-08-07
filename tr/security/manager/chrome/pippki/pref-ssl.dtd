@@ -1,0 +1,37 @@
+<!ENTITY  SSLProtocolVersions.caption       "SSL İletişim Kuralı Sürümleri">
+<!ENTITY  SSLWarnings.caption               "SSL Uyarıları">
+<!ENTITY  SSLClientAuthMethod.caption       "İstemci Sertifika Seçimi">
+
+<!ENTITY pref.ssl.title                     "SSL">
+
+
+<!ENTITY enable.ssl3                        "SSL3'ü etkinleştir">
+<!ENTITY enable.ssl3.accesskey              "S">
+<!ENTITY enable.tls                         "TLS'yi etkinleştir">
+<!ENTITY enable.tls.accesskey               "T">
+
+<!ENTITY certselect.ask "Her zaman sor">
+<!ENTITY certselect.ask.accesskey           "E">
+
+<!ENTITY certselect.auto "Otomatik seç">
+<!ENTITY certselect.auto.accesskey          "A">
+
+<!ENTITY certselect.description "Gerektiğinde &brandShortName; tarayıcısının güvenlik sertifikasını nasıl seçeceğine karar verin:">
+
+<!ENTITY warn.description "&brandShortName; sizi baktığınız sayfanın güvenlik durumuyla ilgili olarak uyarabilir. &brandShortName; uygulamasını bu işlemlerden önce izin istemek amacıyla sizi uyarmak üzere ayarlayabilirsiniz:">
+<!ENTITY warn.enteringsecure "Şifrelenmeyi destekleyen bir sayfanın çağrılması">
+<!ENTITY warn.enteringsecure.accesskey      "L">
+
+<!ENTITY warn.enteringweak "Düşük derecede şifrelemeyi kullanan bir sayfanın çağrılması">
+<!ENTITY warn.enteringweak.accesskey        "D">
+
+<!ENTITY warn.insecurepost "Şifrelenmemiş bir sayfadan şifrelenmiş bir sayfaya form verilerinin gönderilmesi">
+<!ENTITY warn.insecurepost.accesskey        "S" >
+
+<!ENTITY warn.leavingsecure "Şifrelenmeyi destekleyen sayfanın terk edilmesi">
+<!ENTITY warn.leavingsecure.accesskey       "a">
+
+<!ENTITY warn.secureredirect "Şifrelenmiş bir sayfadan ötekisine yönlendirme">
+<!ENTITY warn.secureredirecttoinsecure "Şifrelenmiş bir sayfadan şifrelenmemiş bir sayfaya yönlendirme">
+<!ENTITY warn.viewmixed "Güvenli/Güvensiz içerikli çeşitli sayfaların gösterimi">
+<!ENTITY warn.viewmixed.accesskey           "K">

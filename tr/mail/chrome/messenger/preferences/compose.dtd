@@ -1,0 +1,71 @@
+<!ENTITY itemGeneral.label                   "Genel">
+<!ENTITY itemAutoComplete.label              "Adreslendirme">
+<!ENTITY itemSpellCheck.label                "Yazım Kontrol">
+<!ENTITY itemSendFormat.label                "Gönderme Biçemi">
+
+<!ENTITY forwardReply.label "Mesaj İletme">
+<!ENTITY forwardMsg.label                     "Mesajları">
+<!ENTITY forwardMsg.accesskey                 "m">
+<!ENTITY inline.label "Mesaj içinde ilet">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.accesskey "e">
+<!ENTITY asAttachment.label "Eklenti olarak ilet">
+
+<!ENTITY sendingMessagesHeader.label "Posta Yazarken">
+<!ENTITY spellCheck.accesskey "a">
+<!ENTITY spellCheck.label "Yazım hatalarını göndermeden önce kontrol et.">
+<!ENTITY spellCheckInline.label               "Girdiğim gibi doğru yazım kontrolunu etkinleştir">
+<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY languagePopup.label                  "Diller:">
+<!ENTITY languagePopup.accessKey              "D">
+<!ENTITY downloadDictionaries.label           "Diğer sözlükleri indir">
+
+<!ENTITY useMIME.accesskey "a">
+<!ENTITY useMIME.label "8-bit karakterli mesajları 'Tırnakla Basılabilir' olarak kodla. (Mesajları olduğu gibi göndermek için bu seçeneği etkin duruma  getirmeyin)">
+
+
+<!ENTITY warnOnSendAccelKey.accesskey "K">
+<!ENTITY warnOnSendAccelKey.label "Kısayol tuşları mesaj göndermek için kullanılırsa onayla">
+
+<!ENTITY autoSave.label                       "Her ">
+<!ENTITY autoSave.accesskey                   "e">
+<!ENTITY autoSaveEnd.label                    " saniyede kaydet">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+
+<!ENTITY wrapOutMsg.accesskey "S">
+<!ENTITY wrapOutMsg.label "Metin mesajlarda ">
+<!ENTITY char.label                           "karakter">
+
+<!ENTITY emailCollectionPicker.label           "Giden e-postaları otomatik olarak buraya ekle:">
+<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY addressingTitle.label                 "Otomatik Adres Tamamlama">
+<!ENTITY autocompleteText.label                "Adreslendirme yaparken eşleşme için buraya bak:">
+<!ENTITY addressingEnable.label                "Yerel adres defteri">
+<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY directories.label                     "Dizin sunucusu:">
+<!ENTITY directories.accesskey                 "D">
+<!ENTITY editDirectories.label                 "Dizinleri Düzenle...">
+<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY matchText.label                       "Yerel adres defeterimde ile eşleşirse:">
+<!ENTITY skipDirectory.label                   "Dizin içinde arama yapma">
+
+
+<!ENTITY sendOptionsCaption.label "Gönderim ve HTML Özellikleri">
+<!ENTITY sendOptionsDescription.label "Metin biçimi davranışını ayarlayın...">
+<!ENTITY sendOptions.accesskey "m">
+<!ENTITY sendOptions.label "Gönderim Özellikleri...">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Yazıtipi:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY size.label                           "Boyut:">
+<!ENTITY size.accesskey                       "B">
+<!ENTITY fontColor.label                      "Metin rengi:">
+<!ENTITY fontColor.accesskey                  "t">
+<!ENTITY bgColor.label                        "Arkaplan rengi:">
+<!ENTITY bgColor.accesskey                    "n">
+<!ENTITY restoreHTMLDefaults.label            "Öntanımlıları geri getir">
+<!ENTITY restoreHTMLDefaults.accesskey        "g">
+
+<!ENTITY addExtension.label                   "dosya adına uzantı ekle">
+<!ENTITY addExtension.accesskey               "D">

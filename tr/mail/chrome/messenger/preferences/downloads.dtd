@@ -1,0 +1,22 @@
+<!ENTITY alwaysAsk.label "Her dosya kaydında bana sor">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY askOnSave.label "İndirme Dizini">
+<!ENTITY desktop.label "Masaüstü">
+<!ENTITY downloads.label "Kendi dosyalarım">
+<!ENTITY editFileHandler.accesskey "m">
+<!ENTITY editFileHandler.label "İşlemi değiştir">
+<!ENTITY fileHandlerColName.label "Uygulama">
+<!ENTITY fileTypeColName.label "Dosya türü">
+<!ENTITY neverAsk.label "Tüm indirilen dosyaları burada sakla:">
+<!ENTITY neverAsk.accesskey           "S">
+<!ENTITY removeFileHandler.accesskey "S">
+<!ENTITY removeFileHandler.label "Sil">
+<!ENTITY chooseFolderWin.label        "Gözat...">
+<!ENTITY chooseFolderWin.accesskey    "G">
+<!ENTITY chooseFolderMac.label        "Gözat...">
+<!ENTITY chooseFolderMac.accesskey    "G">
+<!ENTITY configureActions.label       "Gösterme ve Düzenleme...">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypes.label  "İndirme İşlemleri">
+
+<!ENTITY fileTypesDescription.label   "Eklentiler için tanımlanan dosya türleri &brandShortName; tarafından otomatik olarak kaydedilebilir veya açılabilir.">

@@ -1,0 +1,72 @@
+<!ENTITY caCertExists.message "Bu sertifika daha önceden kayıtlı.">
+<!ENTITY caCertExists.title "Sertifika mevcut">
+<!ENTITY certPicker.detailsLabel "Seçilen sertifika detayları:">
+<!ENTITY certPicker.info "Sertifika:">
+<!ENTITY certPicker.title "Sertifika seçin">
+<!ENTITY chooseToken.message1 "Lütfen bir simge secin.">
+<!ENTITY chooseToken.title "Simge Seçim Kutusu">
+<!ENTITY clientAuthAsk.message1 "Bu bölge sizin kendi sertifikanızın tanımlamasını istiyor:">
+<!ENTITY clientAuthAsk.message2 "Tanımlamada kullanılacak sertifikayı seçin:">
+<!ENTITY clientAuthAsk.message3 "Seçilen sertifika detayları:">
+<!ENTITY clientAuthAsk.title "Kullanıcı Belirleme Sorgulaması">
+<!ENTITY createCertInfo.msg1 "Anahtar oluşturuluyor...Bu işlem biraz uzun sürebilir...">
+<!ENTITY createCertInfo.msg2 "Lütfen bekleyin...">
+<!ENTITY createCertInfo.title "Özel anahtar oluştur">
+
+<!ENTITY downloadCert.message1 "Yeni bir Sertifika Yöneticisinin (CA) güvenliğini sordunuz.">
+<!ENTITY downloadCert.message3 "Her türlü amaç için bu CA ya güvenmeden önce , Sertifikanın Güvenliğini ve Prosedürünü kontrol etmelisiniz.">
+<!ENTITY downloadCert.title "Sertifika indiriliyor">
+<!ENTITY downloadCert.trustEmail "Bu CA E-Posta kullanıcılarını belirlemek için güvenilir.">
+<!ENTITY downloadCert.trustObjSign "Bu CA yazılım geliştiricilerin belirlenmesinde güvenilir.">
+<!ENTITY downloadCert.trustSSL "Bu CA web sayfalarını belirlemede güvenli.">
+<!ENTITY downloadCert.viewCert.label "Göster">
+<!ENTITY downloadCert.viewCert.text "CA sertifikasını kontrol et">
+<!ENTITY downloadCert.viewPolicy.label "Güvenlik">
+<!ENTITY downloadCert.viewPolicy.text "CA Poliçesini ve Prosedurunu kontrol et">
+<!ENTITY escrowWarn.benefit1 "Burdaki avantajınız, eğer Anahtar kaybı halinde Sertifika yetkilisinden bir kopyasını talep edebilirsiniz.">
+<!ENTITY escrowWarn.message1 "Önemli: Sertifika yetkilisi, şifrelemede kullandığınız  özel anahtarlarınız için bir yedekleme yapmanızı rica etti.">
+<!ENTITY escrowWarn.message2 "Herşeye rağmen  sertifika yetkilisi tarafından şifrelenmiş özel anahtarınız kaydoldu ve şifrelenmiş e-posta veya belgelerinizi  sizin izniniz olmadan okumak amacı ile kullanılabilir.">
+<!ENTITY escrowWarn.title "Anahtar şifreleme kopyası">
+
+<!ENTITY formSigning.cert "İmzalanan Seritifikalar">
+<!ENTITY formSigning.confirmPassword "Bu metni seçtiğiniz sertifika ile imzalamak için lütfen Ana parolanızı onaylayınız:">
+<!ENTITY formSigning.title "Metin yazı sorgulaması">
+<!ENTITY getPassword.password.label "Parola:">
+<!ENTITY getPassword.title "Ana parolanızı girin">
+<!ENTITY getPassword.tokenName.label "Güvenlik Aygıtları">
+<!ENTITY pipalert.title "Hata - düzeltilemedi">
+<!ENTITY piperror.title "Hata">
+<!ENTITY pkcs12.getpassword.message "Lütfen Güvenlik sertifikasını ve onun özel Anahtarını yedekleyen parolanızı girin.">
+<!ENTITY pkcs12.getpassword.title "Parola Giriş Penceresi">
+<!ENTITY pkcs12.setpassword.label1 "Sertifika yedekleme parolası:">
+<!ENTITY pkcs12.setpassword.label2 "Sertifika yedekleme parolası (tekrar):">
+<!ENTITY pkcs12.setpassword.message "Koyduğunuz Sertifika yedekleme parolası , oluşturmak istediğiniz yedekleme dosyalarını korur. Yedeklemeye devam etmek için bu parolayı koymak zorundasınız. ">
+<!ENTITY pkcs12.setpassword.reminder "Önemli: Eğer sertifika yedekleme parolanızı unutursanız, bu yedeklemeyi daha sonra yeniden oluşturamazsınız. Lütfen bunu güvenli bir ortamda saklayın.">
+<!ENTITY pkcs12.setpassword.title "Sertifika yedekleme parolanızı secin">
+<!ENTITY pref.security.general.certificates.title "Sertifikalar">
+<!ENTITY pref.security.general.header "Genel güvenlik ayarları">
+<!ENTITY pref.security.general.lHeader "Güvenlik">
+<!ENTITY pref.security.general.level.title "Güvenlik Düzeyi">
+<!ENTITY pref.security.general.manageCert.label "Sertifikaları yönet">
+<!ENTITY pref.security.general.paranoid.label "Paranoid güvenlik ayarlarını kullan">
+<!ENTITY pref.security.general.rHeader "Genel güvenlik ayarları">
+<!ENTITY resetPassword.text "Eğer ana parolanızı sıfırlarsanız, Web ve E-Posta parolanız, Form verileriniz, kişisel sertifiklarını ve özel Anahtarlarınız kaybolur.  Ana parolanızı sıfırlamak istediğinizden emin misiniz?">
+<!ENTITY resetPassword.title "Ana Parolayı Sıfırla">
+<!ENTITY serverCrlNextupdate.message "Lütfen yardım için Sistem yöneticinize danışın.">
+<!ENTITY setPassword.meter.label "Parola kalite ölçümü">
+<!ENTITY setPassword.meter.loading "Yükleniyor">
+<!ENTITY setPassword.newPassword.label "Yeni parola:">
+<!ENTITY setPassword.oldPassword.label "Güncel parola:">
+<!ENTITY setPassword.reenterPassword.label "Yeni parola (tekrar):">
+<!ENTITY setPassword.title "Ana Parolayı Değiştir">
+<!ENTITY setPassword.tokenName.label "Güvenlik Aygıtları">
+<!ENTITY resetPasswordButtonLabel "Sıfırla">
+
+<!ENTITY examineCert.label "Sertifikayı göster">
+<!ENTITY examineCert.accesskey "S">
+
+<!-- Strings for protectedAuth dialog -->
+<!ENTITY protectedAuth.title "Korunmuş İşaretin Kimlik Doğrulaması">
+<!ENTITY protectedAuth.msg "Lütfen işarete kimliğinizi doğrulayın. Kimlik doğrulama yöntemi işaretinizin türüne göre değişir.">
+<!ENTITY protectedAuth.tokenName.label "İşaret:">
+

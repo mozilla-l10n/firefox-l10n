@@ -1,0 +1,13 @@
+<!ENTITY addDirectory.accesskey "E">
+<!ENTITY addDirectory.label "Ekle">
+<!ENTITY autocomplete.title "LDAP Dizin Sunucusu">
+<!ENTITY deleteDirectory.accesskey "s">
+<!ENTITY deleteDirectory.label "Sil">
+<!ENTITY directories.label "LDAP Dizin Sunucusu:">
+<!ENTITY directoriesText.accesskey "B">
+<!ENTITY directoriesText.label "Bir LDAP dizin sunucusu seçin:">
+<!ENTITY directory.label "Bir dizin ekle">
+<!ENTITY editDirectory.accesskey "z">
+<!ENTITY editDirectory.label "Düzenle">
+
+<!ENTITY pref.ldap.window.title  "LDAP Dizin Sunucuları">

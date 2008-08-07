@@ -1,0 +1,42 @@
+<!ENTITY dialog.title                 "Gönderme Seçenekleri">
+<!ENTITY sendMail.title               "Metin Biçimi">
+<!ENTITY sendMaildesc.label           "İletiyi HTML biçiminde gönderirken ve alıcılardan biri ya da daha fazlası HTML iletilerini alamıyorken:">
+<!ENTITY askMe.label                  "Ne yapılacağını bana sor">
+<!ENTITY askMe.accesskey              "N">
+<!ENTITY convertPlain.label           "İletiyi düz metne çevir">
+<!ENTITY convertPlain.accesskey       "D">
+<!ENTITY sendHTML.label               "Yine de HTML olarak gönder">
+<!ENTITY sendHTML.accesskey           "D">
+<!ENTITY sendBoth.label               "İletiyi hem düz metin, hem de HTML olarak gönder">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY receiveHTML.label            "Belirli bir alıcının HTML biçimindeki iletileri alabildiğini biliyorsanız, bu alıcının adres defterindeki kartında yer alan 'İletileri düz metin olarak gönder' seçeneğinin önündeki işareti kaldırın.">
+<!ENTITY override.label               "Not: Alıcılara özel gönderim biçimini ayarlamak için adres defterini kullanın.">
+
+<!ENTITY domaindesc.label             "İçinde aşağıdaki alan adlarından biri geçen bir adrese ileti gönderdiğinizde, &brandShortName; bunu otomatik olarak doğru biçimde gönderir. ">
+<!ENTITY HTMLTab.label                "HTML Alan Adları">
+<!ENTITY HTMLTab.accesskey            "h">
+<!ENTITY PlainTextTab.label           "Düz Metin Alan Adları">
+<!ENTITY PlainTextTab.accesskey       "Z">
+
+<!ENTITY AddHtmlDomain.label          "Ekle...">
+<!ENTITY AddHtmlDomain.accesskey      "E">
+<!ENTITY AddPlainText.label           "Ekle...">
+<!ENTITY AddPlainText.accesskey       "K">
+<!ENTITY DeleteHtmlDomain.label       "Sil">
+<!ENTITY DeleteHtmlDomain.accesskey   "S">
+<!ENTITY DeletePlainText.label        "Sil">
+<!ENTITY DeletePlainText.accesskey    "L">
+
+<!ENTITY add.htmltitle                "HTML Alan Adı Ekleme">
+<!ENTITY add.htmldomain               "HTML Alan Adı:">
+<!ENTITY add.htmldomain.accesskey     "d">
+<!ENTITY add.plaintexttitle           "Düz Metin Alan Adı Ekleme">
+<!ENTITY add.plaintextdomain          "Düz Metin Alan Adı:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "Alan Adı Hatası">
+<!ENTITY duplicationError.label       "@string@ alan adı listede zaten var.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "Bir alan adı hem HTML hem de düz metin listesinde bulunamaz. @string@ zaten listede var.">

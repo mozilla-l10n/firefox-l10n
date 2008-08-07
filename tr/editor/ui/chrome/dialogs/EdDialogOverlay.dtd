@@ -1,0 +1,13 @@
+<!ENTITY AdvancedEditButton.accessKey "e">
+<!ENTITY AdvancedEditButton.label "Gelişmiş düzenle...">
+<!ENTITY AdvancedEditButton.tooltip "HTML öznitelikleri, biçim öznitelikleri ve JavaScript ekle veya değiştir">
+<!ENTITY LinkURLEditField.accessKey "B">
+<!ENTITY LinkURLEditField.label "Bir web sayfası konumu veya bir yerel dosya girin veya açılır listeden isimlendirilmiş belirteç ya da başlık seçin:">
+<!ENTITY makeUrlRelative.accessKey "S">
+<!ENTITY makeUrlRelative.label "URL sayfa konumuna bağlıdır">
+<!ENTITY makeUrlRelative.tooltip "Bağıl ve tam URL arasında değişiklik var. Bunu değiştirmeden önce sayfayı kaydetmelisiniz.">
+
+<!ENTITY chooseFileButton.label "Dosya seç...">
+<!ENTITY chooseFileButton.accessKey "D">
+<!ENTITY chooseFileLinkButton.label "Dosya seç...">
+<!ENTITY chooseFileLinkButton.accessKey "o">

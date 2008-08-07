@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Sekmeli Tarama</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Sekmeli Tarama</h1>
+
+<p>Sekmeli tarama internette gezinmeyi daha elverişli kılar. Bu bölümde sekmeli tarama özelliğinin kullanımı ve yapacağınız ayarlamalar sayesinde internette nasıl daha hızlı gezeceğiniz açıklanıyor.</p>
+
+<div class="contentsBox">Bölüm içeriği:
+  <ul>
+    <li><a href="#using_tabbed_browsing">Sekmeli Tarama</a></li>
+    <li><a href="#creating_loading_tabs">Sekme Açma ve Yükleme</a></li>
+    <li><a href="#moving_tabs">Penceredeki Sekmeleri Taşıma</a></li>
+    <li><a href="#customizing">Sekmeli Taramayı Özelleştirme</a></li>
+  </ul>
+</div>
+
+<h2 id="using_tabbed_browsing">Sekmeli Tarama</h2>
+
+<p>Sekmeli tarama özelliği sayesinde her sayfayı ayrı bir sekmede ancak tek bir &brandShortName; penceresinde açabilirsiniz. Bu da size masaüstünde alan kazandırır.</p>
+
+<p>Sekmeli tarama size "bir sonrakini açma" şansı da sunar. Uzun bir sayfayı okuyorsanız, sayfadaki bağlantıları yeni sekmede açabilirsiniz. Siz okumanıza devam ederken tıkladığınız bağlantılar diğer sekmelerde açılır.</p>
+
+  <h3 id="creating_loading_tabs">Sekme Açma ve Yükleme</h3>
+
+  <p>Yeni bir sekme açmak için çeşitli yollar mevcuttur. &accelKey;+<kbd>T</kbd> tuş bileşimini kullanarak, <span
+    class="menuPath">Dosya  &gt; Yeni sekme</span> yolunu izleyerek ya da sekme çubuğundaki boş bir yere tıklayarak yeni sekme açabilirsiniz.</p>
+
+  <p>Herhangi bir bağlantıyı sekmede açmak için şunları yapabilirsiniz:</p>
+
+  <ul>
+    <li>Bağlantıya farenin orta tuşuyla tıklayın. (Tekerlekli farelerde tekerleğe tıklamak orta tuşa tıklamaya eşdeğerdir.)</li>
+    <li>Bağlantıyı sekme çubuğundaki bir yere taşıyıp bırakın. (Sadece tek bir sayfaya bakıyorsanız sekme çubuğu gizlenmiş olabilir. Bunu nasıl değiştireceğinizi <a
+      href="#customizing">Sekmeli Taramayı Özelleştirme</a> bölümünden öğrenebilirsiniz.)</li>
+    <li>Bağlantıyı istediğiniz sekmede açmak için bu bağlatıyı o sekmenin üzerine taşıyıp bırakın.</li>
+    <li><span class="noMac">Bağlantıya sağ tıklayıp</span><span class="mac">&ctrlKey; tuşuna basıp</span> içerik menüsündeki <span
+      class="menuPath">Bağlantıyı yeni sekmede aç</span> komutuna tıklayın.</li>
+  </ul>
+
+  <p>Konum çubuğundaki URL'yi yeni sekmede açmak için URL'yi yazıp &altKey;+&enterKey; tuşlarına basın.</p>
+
+<h3 id="moving_tabs">Penceredeki Sekmeleri Taşıma</h3>
+
+<p>Sekmeler onları açtığınız sırayla gösterilir ve bu sıra her zaman istediğiniz sıra olmayabilir. Bir sekmeyi &brandShortName; penceresi içinde başka bir yere taşımak için sadece o sekmeyi farenizle sürükleyin. Siz sekmeyi sürüklerken &brandShortName; sekmenin nereye taşınacağını gösteren ufak bir işaret gösterir. Ayrıca sekmeleri <a href="#keyboard_shortcuts">klavye kısayollarını</a> kullanarak da taşıyabilirsiniz.</p>
+
+
+  <h3 id="closing_tabs">Sekmeleri Kapatma</h3>
+
+  <p>Geçerli sekmeyi kapatmak için &accelKey;+<kbd>W</kbd> tuşlarını kullanın, sekme kapatma düğmesine basın, sekmeye farenin orta tuşuyla tıklayın ya da <span class="menuPath">Dosya &gt;
+    Sekmeyi kapat</span> yolunu izleyin.</p>
+
+  <p>Geçerli sekme dışındaki tüm sekmeleri kapatmak için <span
+    class="noMac">sekmeye sağ tıklayıp</span><span class="mac">&ctrlKey; tuşuna basıp</span> <span class="menuPath">Diğer sekmeleri kapat</span> komutunu seçin.</p>
+
+  <h3 id="keyboard_shortcuts">Klavye Kısayolları</h3>
+
+  <p>Sekmeleri fareyle seçmek kolaydır, ancak sekmeler arasında klavyeyi kullanarak da geçiş yapabilirsiniz. Bunun için &ctrlKey;+<kbd>Page Up</kbd> (ya da &ctrlKey;+<kbd>Sekme</kbd>) ve &ctrlKey;+<kbd>Page Down</kbd> (ya da &ctrlKey;+&shiftKey;+<kbd>Sekme</kbd>) tuşlarını kullanın. Ayrıca ilk sekmeyi <span class="noUnix">&accelKey;</span><span
+    class="unix">&altKey;</span>+<kbd>1</kbd> ile ve 9. sekmeyi de <span class="noUnix">&accelKey;</span><span
+    class="unix">&altKey;</span>+<kbd>9</kbd> ile seçebilirsiniz.</p>
+
+  <h3 id="bookmarking_tabbed_browsing">Yer İmleri ve Sekmeli Tarama</h3>
+
+  <p>Belli bir sekme kümesini yer imlerine eklemek için şunları yapın:</p>
+
+  <ol>
+    <li>&accelKey;+<kbd>D</kbd> tuşlarına basın ya da <span class="menuPath">Yer imleri
+      &gt; Sayfayı yer imlerine ekle</span> yolunu izleyin.</li>
+    <li>Baktığınız sayfadaki tüm sekmeleri aynı yer imi dizini içinde saklamak için <em>Tüm sekmeleri bir dizinde sakla</em> seçeneğini işareyleyin.</li>
+    <li>Yer imlerini sekmelerde açmak için herhangi bir yer imi dizinini açıp <span
+      class="menuPath">Sekmelerde aç</span> komutuna tıklayın. Ayrıca farenin orta tuşuna tıklayarak da aynı işi yapabilirsiniz. Yer imleri yeni sekmelerde değil, zaten açılmış olanlarda açılacaktır.</li>
+  </ol>
+
+  <h3 id="home_page_as_tabs">Sekmeli Başlangıç</h3>
+
+  <p>Başlangıç sayfası olarak sadece tek bir sayfa seçmek yerine birden çok sayfayı farklı sekmelerde açabilirsiniz. Beğendiğiniz sayfaları tek bir pencerede ve sekmelerde açın. &pref.menuPath; bölümündeki <em>Genel</em> sekmesine tıklayın. <em>Başlangıç</em> başlığı altında yer alan <em>Geçerli sayfaları kullan</em> düğmesine basın. Bundan böyle <em>Başlangıç</em> düğmesine bastığınızda beğendiğiniz sayfalar tek tıklamayla açılacaktır</p>
+
+<h2 id="customizing">Sekmeli Taramayı Özelleştirme</h2>
+
+<p>Sekmeli tarama özelliklerini kendinize göre ayarlamak için &pref.menuPath; yolunu izleyin ve <em>Sekmeler</em> bölümüne gelin. Bu özelliğe ilişkin ayarlar <a href="prefs.xhtml#tabs_options">Sekmeli Tarama</a> kısmında yer alır.</p>
+
+  <h3 id="tips">Yardımcı İpuçları</h3>
+
+  <ul>
+    <li>Kolayca yeni sekme açmak amacıyla <a href="customization.xhtml#rearranging_toolbar_items">araç çubuğunu özelleştirerek</a> buraya yeni sekme açma düğmesi ekleyebilirsiniz.</li>
+    <li>Her ne kadar &brandShortName; zaten çok kullanılan sekmeli tarama özellikleriyle donatılmış da olsa, <a href="customization.xhtml#extensions">eklentiler</a> kullanarak bu özelliği daha da zenginleştirebilirsiniz.</li>
+  </ul>
+
+<div class="contentsBox"><em>30 Haziran 2005</em></div>
+<p>Telif Hakkı &copy; Mozilla.org'a katkıda bulunanlar.</p>
+
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!-- Main menu --> 
+<!ENTITY closetab.label               "Sekmeyi kapat">
+<!ENTITY homebase.label               "Başlangıç">
+<!ENTITY prefs.label                  "Tercihler...">
+<!ENTITY quit.label                   "Çık">
+<!ENTITY tabs.label                   "Tarayıcı sekmeleri">
+<!ENTITY newtab.label                 "Yeni sekme">
+<!ENTITY fileopen.label               "Dosya aç">
+<!-- Toolbar -->
+
+<!ENTITY backButton.label             "Geri">
+<!ENTITY backButton.tooltip           "Bir sayfa geriye git">
+<!ENTITY forwardButton.label          "İleri">
+<!ENTITY forwardButton.tooltip        "Bir sayfa ileriye git">
+<!ENTITY reloadButton.label           "Tazele">
+<!ENTITY reloadButton.tooltip         "Bakılan sayfayı tazele">
+<!ENTITY stopButton.label             "Dur">
+<!ENTITY stopButton.tooltip           "Bu sayfayı yüklemeyi kes">
+<!ENTITY searchButton.label           "Ara">
+<!ENTITY searchButton.tooltip         "Soldaki alana bir sözcük yazıp Ara düğmesine basın">
+
+<!ENTITY toggleSNavOn.label           "Ok tuşlarıyla gez">
+<!ENTITY toggleSNavOff.label          "Ok tuşlarıyla kaydır">
+
+<!ENTITY gotoFullScreen.label         "Tam ekran kipi">
+<!ENTITY toggleFullScreen.label       "Ekran boyutunu değiştir">
+<!ENTITY toggleSSR.label              "Tek sütun kipini değiştir">
+
+<!ENTITY openFrameInTab.label         "Çerçeveyi yeni sekmede göster">
+
+<!ENTITY textSizePlus.label           "Metin boyutu +">
+<!ENTITY textSizeMinus.label          "Metin boyutu -">
+
+<!-- Context menu -->
+
+<!ENTITY homeCmd.label                "Başlangıç">
+<!ENTITY backCmd.label                "Geri">
+<!ENTITY forwardCmd.label             "İleri">
+<!ENTITY stopCmd.label                "Dur">
+<!ENTITY goCmd.label                  "Git">
+<!ENTITY panCmd.label                 "Çevrin">
+<!ENTITY reloadCmd.label              "Tazele">
+<!ENTITY linknewtab.label             "Bağlantıyı yeni sekmede aç">
+<!ENTITY bookmarks.label              "Bookmarks...">
+<!ENTITY bookmarkthispage.label       "Sayfayı yer imlerine ekle">
+<!ENTITY contextCopy.label            "Kopyala" >
+<!ENTITY contextPaste.label           "Yapıştır" >
+
+<!-- Page modifiers --> 
+
+<!ENTITY togglet_google.label          "Google Mobile olarak göster" >
+
+<!-- deprecated...--> 
+
+<!ENTITY decksb.label                  "del.icio.us'ta ara" >
+<!ENTITY decksearch.label              "Google'da ara" >
+<!ENTITY deckdefault.label             "Sitelerde gez" >
+
+<!-- toolbar view options --> 
+
+
+<!-- toolbar view rss --> 
+<!ENTITY rssText.label                 "Etiket:" >
+<!ENTITY rssBMtitle.label              "Sosyal yer imleri" >
+
+<!-- toolbar search -->
+<!ENTITY searchText.label              "Aranacak şey: " >
+<!ENTITY searchToolbar.label           "Arama" >
+
+<!-- toolbar find -->
+<!ENTITY findText.label              "Bul: " >
+<!ENTITY findToolbar.label           "Bul..." >
+<!ENTITY nextText.label              "Sonraki" >
+
+<!-- toolbar download -->
+<!ENTITY downloadText.label          "İndirme yöneticisi" >
+<!ENTITY downloadCancelText.label    "Vazgeç" >
+
+<!-- toolbar pan -->
+<!ENTITY panText.label               "Çevrinme etkin. Etkisizleştirmek için tıklayın ya da dokunun." >
+
+<!-- toolbar homebar -->
+<!ENTITY homebarToolbar.label        "Başlangıç çubuğunu değiştir" >

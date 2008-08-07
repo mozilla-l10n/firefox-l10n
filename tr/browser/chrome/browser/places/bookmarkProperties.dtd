@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                 "Ad:">
+<!ENTITY bookmarks.name.accesskey             "D">
+<!ENTITY bookmarks.location.label             "Konum:">
+<!ENTITY bookmarks.location.accesskey         "o">
+<!ENTITY bookmarks.keyword.label              "Anahtar kelime:">
+<!ENTITY bookmarks.keyword.accesskey          "K">
+<!ENTITY bookmarks.description.label          "Açıklama:">
+<!ENTITY bookmarks.description.accesskey      "A">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "Besleme başlıkları">
+<!ENTITY bookmarks.createIn.label             "Burada oluştur:">
+<!ENTITY bookmarks.createIn.accesskey         "B">
+<!ENTITY bookmarks.feed_location.label        "Besleme konumu:">
+<!ENTITY bookmarks.feed_location.accesskey    "L">
+<!ENTITY bookmarks.site_location.label        "Site konumu:">
+<!ENTITY bookmarks.site_location.accesskey    "S">
+<!ENTITY bookmarks.loadInSidebar.label        "Yer imini kenar çubuğunda aç">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "R">
+<!ENTITY bookmarks.expanderDown.tooltip       "Bütün yer imi dizinlerini göster">
+<!ENTITY bookmarks.expanderUp.tooltip         "Gizle">
+<!ENTITY bookmarks.newFolderButton.label      "Yeni dizin">
+<!ENTITY bookmarks.newFolderButton.accesskey  "e">

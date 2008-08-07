@@ -1,0 +1,60 @@
+<!ENTITY MoreFewerButton.tooltip "Düzenlemek için birkaç tane yada daha fazla özellik göster">
+<!ENTITY actualSize.label "Gerçek boyut:">
+<!ENTITY actualSizeRadio.accessKey "e">
+<!ENTITY actualSizeRadio.label "Gerçek boyut">
+<!ENTITY actualSizeRadio.tooltip "Görüntüyü gerçek boyutlarına döndür">
+<!ENTITY alignment.label "Metni Görüntüye Yerleştir">
+<!ENTITY altText.accessKey "a">
+<!ENTITY altText.label "Alternatif metin:">
+<!ENTITY altTextEditField.tooltip "Görüntünün yerinde görüntülenecek olan metni yazın">
+<!ENTITY borderEditField.accessKey "r">
+<!ENTITY borderEditField.label "Katı Çerçeve:">
+<!ENTITY bottomPopup.value "Altta">
+<!ENTITY centerPopup.value "Ortada">
+<!ENTITY constrainCheckbox.accessKey "L">
+<!ENTITY constrainCheckbox.label "Zorla">
+<!ENTITY constrainCheckbox.tooltip "Görüntünün orantısını ayarla">
+<!ENTITY customSizeRadio.accessKey "L">
+<!ENTITY customSizeRadio.label "Özel Boyut">
+<!ENTITY customSizeRadio.tooltip "Görüntünün boyutunu sayfada göründüğü gibi değiştir">
+<!ENTITY editImageButton.label "Görüntüyü Düzenle">
+<!ENTITY editImageButton.tooltip "Görüntü dosyasını başka bir program ile düzenle">
+<!ENTITY editImageMapButton.label "Düzenle...">
+<!ENTITY editImageMapButton.tooltip "Bu görüntü için tıklanabilir noktalar oluştur">
+<!ENTITY heightEditField.accessKey "Y">
+<!ENTITY heightEditField.label "Yükseklik:">
+<!ENTITY imageAppearanceTab.label "Görünüm">
+<!ENTITY imageDimensionsTab.label "Boyutlar">
+<!ENTITY imageInputTab.label "Form">
+<!ENTITY imageLinkTab.label "Bağlantı">
+<!ENTITY imageLocationTab.label "Konum">
+<!ENTITY imagemapBox.label "Görüntü Haritası">
+<!ENTITY leftRightEditField.accessKey "l">
+<!ENTITY leftRightEditField.label "Sol ve Sağ:">
+<!ENTITY locationEditField.accessKey "r">
+<!ENTITY locationEditField.label "Resim dosyası adresi:">
+<!ENTITY locationEditField.tooltip "Görüntünün adını ve konumunu yazın">
+<!ENTITY makePageBackgroundCheckbox.label "Sayfa Zemini Yap">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Görüntüyü sayfanız için zemin olarak kullan">
+<!ENTITY noAltText.accessKey "a">
+<!ENTITY noAltText.label "Alternatif metin kullanma">
+<!ENTITY percentPopup.value "yüzde">
+<!ENTITY pixelsPopup.value "piksel">
+<!ENTITY previewBox.label "Resim dosyası önizleme">
+<!ENTITY removeImageMapButton.accessKey "K">
+<!ENTITY removeImageMapButton.label "Kaldır">
+<!ENTITY showImageLinkBorder.accessKey "V">
+<!ENTITY showImageLinkBorder.label "Bağlantılı görüntünün etrafında çerçeve göster">
+<!ENTITY spacingBox.label "Aralık">
+<!ENTITY spacingBox.tooltip "Görüntü çevresinde boşluk miktarı için bir sayı yazın.">
+<!ENTITY title.accessKey "t">
+<!ENTITY title.label "Tip:">
+<!ENTITY title.tooltip "Görüntülenen 'title' özniteliğini tip olarak">
+<!ENTITY topBottomEditField.accessKey "s">
+<!ENTITY topBottomEditField.label "Üst ve Alt:">
+<!ENTITY topPopup.value "Üstte">
+<!ENTITY widthEditField.accessKey "G">
+<!ENTITY widthEditField.label "Genişlik:">
+<!ENTITY windowTitle.label "Resim Dosyası Özellikleri">
+<!ENTITY wrapLeftPopup.value "Sola kaydır">
+<!ENTITY wrapRightPopup.value "Sağa kaydır">

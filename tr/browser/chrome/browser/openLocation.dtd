@@ -1,0 +1,8 @@
+<!ENTITY caption.label "Ağ adresi aç">
+<!ENTITY chooseFile.label "Dosya seç...">
+<!ENTITY enter.label "Ağ konumunu (URL) girin ya da açmak istediğiniz yerel dosyayı belirtin:">
+<!ENTITY newTab.label "Yeni sekme">
+<!ENTITY newWindow.label "Yeni pencere">
+<!ENTITY openBtn.label "Aç">
+<!ENTITY openWhere.label "Burada aç:">
+<!ENTITY topWindow.label "Geçerli pencere">

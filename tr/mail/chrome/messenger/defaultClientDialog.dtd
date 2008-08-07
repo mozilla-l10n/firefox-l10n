@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Öntanımlı İstemci Ayarları">
+<!ENTITY defaultClient.intro  "&brandShortName; başlarken aşağıdaki uygulamalar için öntanımlı uygulama olarak ayarlanabilir:">
+
+<!ENTITY email.label "E-Posta">
+<!ENTITY newsgroups.label "Haber Grupları">
+<!ENTITY rss.label "Geri besleme">
+
+<!ENTITY checkOnStartup.label "&brandShortName; her başladığında kontrol et">
+<!ENTITY checkOnStartup.accesskey "A">

@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label        "İçerik türü">
+<!ENTITY  typeColumn.accesskey    "T">
+
+<!ENTITY  actionColumn2.label      "Eylem"> 
+<!ENTITY  actionColumn2.accesskey  "e"> 
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "Ara:">
+<!ENTITY  filter.accesskey        "a">
+
+<!ENTITY  clear.label             "Temizle">
+<!ENTITY  clear.accesskey         "z">

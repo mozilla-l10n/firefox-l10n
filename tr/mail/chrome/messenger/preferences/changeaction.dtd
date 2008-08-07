@@ -1,0 +1,22 @@
+<!ENTITY  changeAction.title                  "İşlemleri Değiştir">
+<!ENTITY  window.width                         "38em">
+<!ENTITY whenDownloading.label "Bu Tür Dosyaları İndirirken">
+
+<!ENTITY openDefault.label "Öntanımlı uygulama ile aç:">
+<!ENTITY  openDefault.accesskey               "u">
+<!ENTITY openApplication.label "Aşağıdaki uygulama ile aç:">
+<!ENTITY  openApplication.accesskey           "e">
+<!ENTITY  changeApp.label                     "Gözat...">
+<!ENTITY  changeApp.accesskey                 "G">
+<!ENTITY saveToDisk.label "Sabit diske kaydet">
+<!ENTITY  saveToDisk.accesskey                "S">
+<!ENTITY  saveToDefaultFolder.label           "varsayılan indirme dizinine kaydet">
+<!ENTITY  saveToDefaultFolder.accesskey       "d">
+<!ENTITY  saveToThisFolder.label              "bu dizine kaydet:">
+<!ENTITY  saveToThisFolder.accesskey          "b">
+<!ENTITY  chooseFolder.label                  "Gözat...">
+<!ENTITY  chooseFolder.accesskey              "T">
+<!ENTITY  saveToAskMe.label                   "nereye kaydedileceğini bana sor">
+<!ENTITY  saveToAskMe.accesskey               "a">
+<!ENTITY  usePlugin.label                     "Bu eklentiyi kullan:">
+<!ENTITY  usePlugin.accesskey                 "E">

@@ -1,0 +1,7 @@
+<!ENTITY addButton.accesskey "k">
+<!ENTITY addButton.label "Ekle">
+<!ENTITY newMsgHeader.accesskey "N">
+<!ENTITY newMsgHeader.label "Yeni posta başlığı:">
+<!ENTITY removeButton.accesskey "R">
+<!ENTITY removeButton.label "Kaldır">
+<!ENTITY window.title "Başlıkları öntanımla">

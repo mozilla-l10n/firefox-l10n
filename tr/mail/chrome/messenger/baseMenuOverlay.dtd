@@ -1,0 +1,24 @@
+﻿<!-- Help Menu -->
+<!ENTITY helpMenu.label "Yardım">
+<!ENTITY helpMenu.accesskey "Y">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Yardım">
+<!ENTITY helpMenuWin.accesskey "Y">
+<!ENTITY releaseCmd.label "Sürüm notları">
+<!ENTITY releaseCmd.accesskey "S">
+<!ENTITY openHelp.label "Yardım içeriği">
+<!ENTITY openHelp.accesskey "d">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "&brandShortName; Yardımı">
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
+
+<!ENTITY updateCmd.label "Güncellemelere bak...">
+<!ENTITY updateCmd.accesskey "g">
+<!ENTITY aboutCmd.label "&brandFullName; hakkında">
+<!ENTITY aboutCmd.accesskey "h">

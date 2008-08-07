@@ -1,0 +1,13 @@
+<!ENTITY AlignCenter.label "Merkez">
+<!ENTITY AlignDefault.label "Öntanımlı">
+<!ENTITY AlignLeft.label "Sol">
+<!ENTITY AlignRight.label "Sağ">
+<!ENTITY EditLegendText.accesskey "D">
+<!ENTITY EditLegendText.label "Gösterge düzenle:">
+<!ENTITY Legend.accesskey "G">
+<!ENTITY Legend.label "Gösterge">
+<!ENTITY LegendAlign.accesskey "S">
+<!ENTITY LegendAlign.label "Gösterge hizala:">
+<!ENTITY RemoveFieldSet.accesskey "L">
+<!ENTITY RemoveFieldSet.label "Alan kümesini kaldır">
+<!ENTITY windowTitle.label "Alan kümesi özellikleri">

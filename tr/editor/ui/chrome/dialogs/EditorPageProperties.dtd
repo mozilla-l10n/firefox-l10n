@@ -1,0 +1,12 @@
+<!ENTITY EditHEADSource1.label "Gelişmiş kullanıcılar:">
+<!ENTITY EditHEADSource2.label "&lt;Başlık&gt;  bölümünün içeriğini düzenlemek için, &quot;HTML Kaynak kodunu&quot; Düzenle menüsü veya  Araç çubuğu düzenle modunu kullanın.">
+<!ENTITY authorInput.accessKey "a">
+<!ENTITY authorInput.label "Yazar:">
+<!ENTITY descriptionInput.accessKey "A">
+<!ENTITY descriptionInput.label "Açıklama:">
+<!ENTITY lastModified.label "Son Güncelleme:">
+<!ENTITY location.label "Konum:">
+<!ENTITY locationNewPage.label "[Yeni sayfa, henüz kaydedilmedi]">
+<!ENTITY titleInput.accessKey "B">
+<!ENTITY titleInput.label "Başlık:">
+<!ENTITY windowTitle.label "Sayfa özellikleri">

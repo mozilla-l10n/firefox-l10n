@@ -1,0 +1,57 @@
+<!ENTITY itemFormatting.label             "Biçimlendirme">
+
+<!ENTITY itemFonts.label                  "Yazıtipleri">
+<!ENTITY itemTags.label                   "Etiketler">
+
+<!ENTITY style.accesskey "T">
+<!ENTITY style.label "Stil:">
+<!ENTITY textBegin.label "Tırnaklanmış düzmetin">
+
+
+<!ENTITY regularStyle.label "Düzenli">
+<!ENTITY bold.label                       "Kalın">
+<!ENTITY italic.label                     "Eğik">
+<!ENTITY boldItalic.label                 "Kalın ve eğik">
+<!ENTITY size.label                       "Boyut:">
+<!ENTITY size.accesskey                   "B">
+<!ENTITY regularSize.label                "Düzenli">
+<!ENTITY bigger.label                     "Daha büyük">
+<!ENTITY smaller.label                    "Daha küçük">
+<!ENTITY color.label                      "Renk:">
+<!ENTITY color.accesskey                  "R">
+<!ENTITY displayWidth.label "Düz Metin Mesajlar">
+<!ENTITY plainText.label "Kullanılacak yazıtipi:">
+<!ENTITY displayText.label "Tırnakla belirtilmiş düzmetini görüntülerken aşağıdaki ayarları kullan:">
+<!ENTITY viewingPlainText.label "Düz metin mesajlar görüntülerken,">
+
+<!ENTITY fixedWidth.accesskey "t">
+<!ENTITY fixedWidth.label "Öntanımlı yazıtipi boyutu">
+<!ENTITY variableWidth.accesskey "a">
+<!ENTITY variableWidth.label "Yazıtipi genişliği">
+<!ENTITY readingMessagesHeader.label "Gelen iletiler için">
+
+<!ENTITY convertEmoticons.accesskey "D">
+<!ENTITY convertEmoticons.label "Duygu simgelerini grafik olarak göster.">
+
+<!ENTITY textColor.accesskey "T">
+<!ENTITY textColor.label "Metin rengi:">
+<!ENTITY backgroundColor.accesskey "p">
+<!ENTITY backgroundColor.label "Arkaplan rengi:">
+
+<!ENTITY fontOptions.accesskey   "Y">
+<!ENTITY fontOptions.label       "Yazıtipleri...">
+
+
+
+<!-- labels -->
+<!ENTITY displayTagsText.label    "Etiketler mesajlarınızda kategori oluşturmaya veya önemlilik derecesine göre sıralamanıza yarar.">
+<!ENTITY addTagButton.label       "Ekle">
+<!ENTITY addTagButton.accesskey   "E">
+<!ENTITY editTagButton.label      "Düzenle">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label    "Sil">
+<!ENTITY removeTagButton.accesskey "l">
+<!ENTITY colors.label                      "Renkler:">
+<!ENTITY overrideColors.label             "İletileri gösterirken bu renkleri kullan:">
+<!ENTITY fontAndEncodingsDescription.label  "&brandShortName; tarafından kullanılan renk ve karakter kodlamalarını ayarlayın">
+<!ENTITY fontsAndEncodingsCaption.label      "Yazıtipleri ve Karakter Kodlamaları">

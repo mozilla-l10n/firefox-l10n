@@ -1,0 +1,32 @@
+<!ENTITY startpage.welcome "&brandFullName;'e Hoş Geldiniz!">
+<!ENTITY startpage.intro "&brandFullName; güçlü, açık kaynaklı posta ve haber okuyucudur.">
+
+<!ENTITY startpage.features "Özellikler">
+
+<!ENTITY startpage.junkControl "Uyumlu İstenmeyen Posta Denetimi">
+<!ENTITY startpage.rssReader "RSS Okuyucu">
+<!ENTITY startpage.globalInbox "Genel Gelen Kutusu Desteği">
+<!ENTITY startpage.searchFolders "Arama Dizinlerini Kaydetme">
+<!ENTITY startpage.messageGroups "İleti Gruplama">
+<!ENTITY startpage.privacyProtect "Kişisel Gizlilik Koruması">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "Daha Fazla Bilgi">
+
+<!ENTITY startpage.help "Thunderbird Yardımı">
+<!ENTITY startpage.helpInfo "Sıkça sorulan sorular, ipuçları ve genel yardım için ziyaret edin:">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+
+<!ENTITY startpage.page "Thunderbird Ürün Sayfası">
+<!ENTITY startpage.pageInfo "Daha fazla bilgi için ziyaret edin:">
+<!ENTITY startpage.pageURL "http://www.mozilla-europe.org/tr/products/thunderbird/">
+
+<!ENTITY startpage.extra "">
+
+<!ENTITY startpage.poweredByGecko "Arkasında Gecko var.">

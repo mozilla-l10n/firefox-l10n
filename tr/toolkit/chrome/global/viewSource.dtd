@@ -1,0 +1,64 @@
+<!ENTITY closeCmd.accesskey "K">
+<!ENTITY closeCmd.commandkey "w">
+<!ENTITY closeCmd.label "Kapat">
+<!ENTITY fileMenu.accesskey "D">
+<!ENTITY fileMenu.label "Dosya">
+<!ENTITY goToLineCmd.accesskey "S">
+<!ENTITY goToLineCmd.commandkey "L">
+<!ENTITY goToLineCmd.label "Satıra git...">
+<!ENTITY mainWindow.preface "Kaynak: ">
+<!ENTITY mainWindow.title "&brandFullName;">
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!ENTITY mainWindow.titlemodifierseparator "  -  ">
+<!ENTITY menu_highlightSyntax.accesskey "s">
+<!ENTITY menu_highlightSyntax.label "Sözdizimi vurgusu">
+<!ENTITY menu_textEnlarge.accesskey "b">
+<!ENTITY menu_textEnlarge.label "Metin boyutunu büyüt">
+<!ENTITY menu_textReduce.accesskey "k">
+<!ENTITY menu_textReduce.label "Metin boyutunu küçült">
+<!ENTITY menu_wrapLongLines.accesskey "U">
+<!ENTITY menu_wrapLongLines.title "Uzun satırları kes">
+<!ENTITY pageSetupCmd.accesskey "f">
+<!ENTITY pageSetupCmd.label "Sayfa düzeni...">
+<!ENTITY printCmd.accesskey "Y">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.label "Yazdır...">
+<!ENTITY printPreviewCmd.accesskey "z">
+<!ENTITY printPreviewCmd.label "Yazdırma önizleme">
+<!ENTITY reloadCmd.label "Tazele">
+<!ENTITY reloadCmd.accesskey "Z">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY savePageCmd.accesskey "a">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY savePageCmd.label "Faklı kaydet...">
+
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be 
+empty.  -->
+
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
+
+
+
+<!ENTITY menu_textSize.label "Metin boyutu">
+<!ENTITY menu_textSize.accesskey "T">
+<!ENTITY menu_textReset.label "Normal">
+<!ENTITY menu_textReset.accesskey "N">
+<!ENTITY viewMenu.accesskey "G">
+<!ENTITY viewMenu.label "Görünüm">
+<!ENTITY findOnCmd.label     "Bu sayfada ara...">
+<!ENTITY findOnCmd.accesskey "B">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Sonrakini bul">
+<!ENTITY findAgainCmd.accesskey "S">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">

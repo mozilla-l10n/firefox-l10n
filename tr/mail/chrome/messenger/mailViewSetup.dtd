@@ -1,0 +1,4 @@
+<!ENTITY mailViewHeading.accesskey "E">
+<!ENTITY mailViewHeading.label "Mesaj gösterme ismi:">
+<!ENTITY mailViewSetupTitle.label "Mesaj Gösterim Ayarları">
+<!ENTITY searchTermCaption.label "Bu gösterim seçilirse, sadece buna uyan mesajları göster:">

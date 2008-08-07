@@ -1,0 +1,109 @@
+<!ENTITY checkSpelling.label             "Yazarken yazım denetimi gerçekleştir">
+<!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY certs.ask                       "Her seferinde bana sor">
+<!ENTITY certs.ask.accesskey             "b">
+
+<!ENTITY generalTab.label               "Genel">
+<!ENTITY accessibility.label            "Erişilebilirlik">
+
+<!ENTITY browsing.label                 "Tarama">
+
+<!ENTITY useSmoothScrolling.label "Yumuşak kaydırmayı kullan">
+<!ENTITY useSmoothScrolling.accesskey   "m">
+
+<!ENTITY updateTab.label                "Yazılım Güncelleme">
+
+<!ENTITY enableAddonsUpdate.label        "Kurulu eklentiler">
+<!ENTITY enableAddonsUpdate.accesskey    "n">
+
+<!ENTITY modeAutoAddonWarn.label         "Bu işlem kurulu eklentilerimden herhangi birini devre dışı bırakacaksa beni uyar">
+<!ENTITY modeAutoAddonWarn.accesskey     "u">
+
+<!ENTITY protocols.label                "İletişim Kuralları">
+
+<!ENTITY useSSL3.label                  "SSL 3.0 kullan">
+<!ENTITY useSSL3.accesskey              "3">
+<!ENTITY useTLS1.label                  "TLS 1.0 kullan">
+<!ENTITY useTLS1.accesskey              "1">
+<!ENTITY certificates.label             "Sertifikalar">
+
+<!ENTITY blockAutoRefresh.label          "Siteler sayfaları tazelemek ya da yönlendirmek istediğinde beni uyar">
+<!ENTITY blockAutoRefresh.accesskey      "r">
+
+<!ENTITY viewSecurityDevices.label      "Güvenlik aygıtları">
+<!ENTITY viewSecurityDevices.accesskey  "G">
+
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "F">
+<!ENTITY autoCheck.label                "Seçili öğeler için güncellemelere bak:">
+
+<!ENTITY whenUpdatesFound.label         "&brandShortName; için güncelleme bulunursa,">
+
+<!ENTITY modeAutomatic.label            "Güncellemeleri otomatik olarak indir ve kur">
+<!ENTITY modeAutomatic.accesskey        "d">
+
+<!ENTITY enableSearchUpdate.label       "Arama motorları">
+<!ENTITY enableSearchUpdate.accesskey   "M">
+
+
+<!ENTITY useCursorNavigation.label       "Sayfaların içinde hareket ederken her zaman işaretçi tuşlarını kullan">
+<!ENTITY useCursorNavigation.accesskey   "S">
+
+<!ENTITY searchStartTyping.label         "Ben yazmaya başlar başlamaz arama yap">
+<!ENTITY searchStartTyping.accesskey     "B">
+
+<!ENTITY useAutoScroll.label             "Otomatik kaydırmayı kullan">
+<!ENTITY useAutoScroll.accesskey         "a">
+
+<!ENTITY networkTab.label                "Ağ">
+<!ENTITY connection.label                "Bağlantı">
+<!ENTITY connectionDesc.label            "&brandShortName; tarayıcısının internete nasıl bağlanacağını ayarlayın">
+<!ENTITY connectionSettings.label        "Ayarlar...">
+<!ENTITY connectionSettings.accesskey    "a">
+
+<!ENTITY useCacheBefore.label            "Önbellekte en fazla">
+<!ENTITY useCacheBefore.accesskey        "E">
+<!ENTITY useCacheAfter.label             "megabayt veri tut">
+
+<!ENTITY askMe.label                     "Ne yapmak istediğimi sor">
+<!ENTITY askMe.accesskey                 "s">
+
+<!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
+<!ENTITY updateHistory.accesskey         "G">
+
+<!ENTITY encryptionTab.label             "Şifreleme">
+
+<!ENTITY certs.auto                      "Birini otomatik olarak seç">
+<!ENTITY certs.auto.accesskey            "B">
+
+<!ENTITY viewCerts.label                 "Sertifikaları göster">
+<!ENTITY viewCerts.accesskey             "S">
+<!ENTITY viewCRLs.label                  "Hükümsüz sayılanlar listesi">
+<!ENTITY viewCRLs.accesskey              "R">
+<!ENTITY verify2.label                    "Doğrulama">
+<!ENTITY verify2.accesskey                "O">
+<!ENTITY clearCacheNow.label             "Şimdi temizle">
+<!ENTITY clearCacheNow.accesskey         "z">
+<!ENTITY systemDefaults.label  "Öntanımlı sistem ayarları">
+<!ENTITY alwaysCheckDefault.label      "Her başlangıçta &brandShortName; tarayıcısının öntanımlı olup olmadığına bak"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey  "b">
+<!ENTITY checkNow.label             "Şimdi bak">
+<!ENTITY checkNow.accesskey         "m">
+
+<!ENTITY offlineStorage.label            "Çevrim dışı depolama">
+
+<!ENTITY offlineAppsList.height          "7em">
+
+<!ENTITY offlineAppRemove.confirm        "Çevrim dışı veriyi sil">
+
+<!ENTITY offlineAppsListRemove.label     "Kaldır...">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY certSelection.description       "Sunucu kişisel onay belgemi istediğinde:">
+<!ENTITY offlineNotify.label             "Bir site çevrim dışı kullanım için veri depolamak istediğinde bana söyle">
+<!ENTITY offlineNotify.accesskey         "T">
+<!ENTITY offlineNotifyExceptions.label   "Ayrıcalıklar...">
+<!ENTITY offlineNotifyExceptions.accesskey "a">
+<!ENTITY offlineAppsList.label           "Aşağıdaki siteler çevrim dışı kullanım için veri depoladılar:">
+
+
+

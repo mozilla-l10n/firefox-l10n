@@ -1,0 +1,31 @@
+<!ENTITY safeb.palm.accept.label "Beni buradan kurtar!">
+<!ENTITY safeb.palm.accept.statustext "Başlangıç sayfama yol al">
+<!ENTITY safeb.palm.decline.label "Bu uyarıyı yok say">
+<!ENTITY safeb.palm.decline.statustext "Uyarıyı kapat" >
+
+<!ENTITY safeb.urlbaricon.tooltip "Bu sayfa tehlikeli olabilir. Ayrıntıları öğrenmek için tıklayın.">
+<!ENTITY safeb.palm.warning.title "Sahtekârlık şüphesi">
+<!ENTITY safeb.palm.message.p1 "Bu sayfanın, kullanıcıların kişisel ve mali bilgilerini ele geçirmek üzere tasarlanan bir düzmece olduğu bildirildi. Bu sayfada yapılacak herhangi bir kişisel bilgi girişi, kimlik hırsızlığı veya başka bir tür dolandırıcılığa yol açabilir.">
+<!ENTITY safeb.palm.message.p1.linkText "Devamını okuyun »">
+<!ENTITY safeb.palm.p1.linkStatusText "Devamını okuyun…">
+<!ENTITY safeb.palm.message.p2.start "Bu tür sahtekârlık yöntemleri yemleme diye anılan hileli işlerde kullanılır. Yemlemede, kötü kişiler, güvenebileceğiniz meşru kişileri taklit edip hileli sayfalar hazırlayarak sizi oltaya düşürmeye çalışırlar. Sizi bu tür saldırılardan">
+<!ENTITY safeb.palm.message.p2.linkText " &brandShortName; uygulamasının nasıl koruduğu hakkında">
+<!ENTITY safeb.palm.message.p2.end " daha fazla bilgi alabilirsiniz.">
+
+<!ENTITY safeb.palm.notforgery.label2 "Bu sahtekârlık değil...">
+<!ENTITY safeb.palm.report.label "Bu site neden engellendi?">
+
+
+<!ENTITY safeb.blocked.malware.title "Saldırgan olarak bildirilmiş site!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "<span id='malware_sitename'/> konumundaki sitenin saldırı sitesi olduğu bildirildi ve açılması güvenlik tercihlerinize dayanılarak engellendi.">
+
+<!ENTITY safeb.blocked.malware.longDesc "<p>Saldırı sitesi olarak tanımlanan siteler özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırı amacıyla kullanan ya da sisteminize zarar veren programları kurmaya çalışan sitelerdir.</p><p>Bazı saldırı siteleri zararlı yazılımları bilerek dağıtırken, çoğu site, sahibinin bilgisi ve izni dışında bu amaçla kullanılır.</p>">
+
+<!ENTITY safeb.blocked.phishing.title "Sahtekâr olarak bildirilmiş site!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+<!ENTITY safeb.blocked.phishing.shortDesc "<span id='phishing_sitename'/> konumundaki sitenin sahtekârlık (yemleme) sitesi olduğu bildirildi ve açılması güvenlik tercihlerinize dayanılarak engellendi.">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>Bu tür sahtekârlık girişimleriyle güvenebileceğiniz kuruluşlar taklit edilerek sizden kişisel veya mali bilgileriniz sızdırılmaya çalışılır.</p><p>Bu sayfada gerçekleşecek herhangi bir bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla son bulabilir.</p>">
+
+

@@ -1,0 +1,18 @@
+<!ENTITY background.accessKey "b">
+<!ENTITY background.label "Bunun için arkaplan:">
+<!ENTITY cell.accessKey "H">
+<!ENTITY cell.label "Hücre(ler)">
+<!ENTITY default.accessKey "n">
+<!ENTITY default.label "Öntanımlı">
+<!ENTITY lastPickedColor.accessKey "S">
+<!ENTITY lastPickedColor.label "Son toplanan renk">
+<!ENTITY palette.label "Palet:">
+<!ENTITY setColor1.label "Bir renge tıklayın veya">
+<!ENTITY setColor2.accessKey "h">
+<!ENTITY setColor2.label "bir HTML renk kodu girin">
+<!ENTITY setColorExample.label "(Ör.: &quot;#0000ff&quot; veya &quot;blue&quot;):">
+<!ENTITY standardPalette.label "Standart">
+<!ENTITY table.accessKey "t">
+<!ENTITY table.label "Tablo">
+<!ENTITY webPalette.label "Tüm web renkleri">
+<!ENTITY windowTitle.label "Renk">

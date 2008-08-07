@@ -1,0 +1,18 @@
+<!ENTITY actionQuestion.label "&brandShortName; bu dosya ile ne yapsın?">
+<!ENTITY chooseHandler.accesskey "T">
+<!ENTITY chooseHandler.label "Gözat...">
+<!ENTITY chooseHandlerMac.accesskey "S">
+<!ENTITY chooseHandlerMac.label "Seçin...">
+<!ENTITY from.label "Nereden:">
+<!ENTITY intro.label "İndirmek istediğiniz dosya:">
+<!ENTITY openWith.accesskey "A">
+<!ENTITY openWith.label "Birlikte aç">
+<!ENTITY other.label "Diğer...">
+<!ENTITY rememberChoice.accesskey "b">
+<!ENTITY rememberChoice.label "Bu tür dosyalar indirilirken hep bu işlemi gerçekleştir">
+
+<!ENTITY saveFile.accesskey "D">
+<!ENTITY saveFile.label "Sabit diske kaydet">
+
+<!ENTITY whichIsA.label "Türü:">
+<!ENTITY  unknownPromptText.label     "Bu dosyayı kaydetmek ister misiniz?">

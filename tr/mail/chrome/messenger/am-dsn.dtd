@@ -1,0 +1,16 @@
+<!ENTITY pane.title                 "Teslimat durumu bildirisi">
+<!ENTITY useGlobalPrefs.label       "Bu hesapta genel teslimat durumu bildirisi tercihlerimi kullan">
+<!ENTITY useGlobalPrefs.accesskey   "U">
+<!ENTITY useCustomPrefs.label       "Bu hesaba ilişkin teslimat durumu bildirimini özelleştir">
+<!ENTITY useCustomPrefs.accesskey   "z">
+<!ENTITY requestAlways.label        "İleti gönderirken hep teslimat durum bildirisi iste">
+<!ENTITY requestAlways.accesskey    "s">
+<!ENTITY optionTitle.label          "Bu durumda bildiri iste:">
+<!ENTITY requestOnSucess.label      "Başarılı teslimat">
+<!ENTITY requestOnSucess.accesskey  "E">
+<!ENTITY requestOnFailure.label     "Başarısız teslimat">
+<!ENTITY requestOnFailure.accesskey "M">
+<!ENTITY requestOnDelay.label       "Gecikmeli teslimat">
+<!ENTITY requestOnDelay.accesskey   "G">
+<!ENTITY requestNever.label         "Teslimat durum bildirilerini hiçbir zaman alma">
+<!ENTITY requestNever.accesskey     "H">

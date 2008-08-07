@@ -1,0 +1,93 @@
+<!ENTITY Address.tab "Adres">
+<!ENTITY Address.accesskey              "A">
+<!ENTITY CellularNumber.accesskey "e">
+<!ENTITY CellularNumber.label "Cep Telefonu:">
+<!ENTITY Company.label "Organizasyon:">
+<!ENTITY Company.accesskey              "O">
+<!ENTITY Contact.tab "Adres">
+<!ENTITY Contact.accesskey               "D">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom1.label "Özel 1:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom2.label "Özel 2:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom3.label "Özel 3:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Custom4.label "Özel 4:">
+<!ENTITY Department.label "Bölüm:">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY DisplayName.accesskey "ö">
+<!ENTITY DisplayName.label "Görüntü:">
+<!ENTITY FaxNumber.accesskey "k">
+<!ENTITY FaxNumber.label "Faks:">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Home.box "Başlangıç">
+<!ENTITY HomeAddress.label "Adres:">
+<!ENTITY HomeAddress.accesskey          "S">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label "Şehir:">
+<!ENTITY HomeCity.accesskey             "H">
+<!ENTITY HomeCountry.label "Ülke:">
+<!ENTITY HomeCountry.accesskey          "L">
+<!ENTITY HomePhone.accesskey "e">
+<!ENTITY HomePhone.label "Ev:">
+<!ENTITY HomeState.label "Bölge:">
+<!ENTITY HomeState.accesskey            "B">
+<!ENTITY HomeWebPage.label "Web sayfası:">
+<!ENTITY HomeWebPage.accesskey          "W">
+<!ENTITY HomeZipCode.label "Posta Kodu:">
+<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY Internet.box "İnternet">
+<!ENTITY JobTitle.label "Ünvan:">
+<!ENTITY JobTitle.accesskey             "a">
+<!ENTITY Name.box "Adı">
+<!ENTITY NameField1.accesskey "A">
+<!ENTITY NameField1.id "FirstName">
+<!ENTITY NameField1.label "Adı:">
+<!ENTITY NameField2.accesskey "S">
+<!ENTITY NameField2.id "LastName">
+<!ENTITY NameField2.label "Soyadı:">
+<!ENTITY NickName.accesskey "i">
+<!ENTITY NickName.label "Takma isim:">
+<!ENTITY Notes.box "Notlar">
+<!ENTITY Notes.accesskey                "N">
+<!ENTITY Other.tab "Diğer">
+<!ENTITY Other.accesskey                "D">
+<!ENTITY PagerNumber.accesskey "a">
+<!ENTITY PagerNumber.label "Çağrı Cihazı:">
+<!ENTITY Phones.box "Telefonlar">
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!ENTITY PhoneticField1.label "Phonetic :">
+<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY PhoneticField2.label "Phonetic :">
+<!ENTITY PlainText.label "Düz Metin">
+<!ENTITY PreferMailFormat.accesskey "A">
+<!ENTITY PreferMailFormat.label "Alıcı için tercih edilen ileti gönderme şekli :">
+<!ENTITY PrimaryEmail.accesskey "e">
+<!ENTITY PrimaryEmail.label "E-posta:">
+<!ENTITY ScreenName.accesskey "D">
+<!ENTITY ScreenName.label "Ekran adı:">
+<!ENTITY SecondEmail.accesskey "E">
+<!ENTITY SecondEmail.label "Ek E-posta:">
+<!ENTITY Unknown.label "Bilinmiyor">
+<!ENTITY Work.box "İş">
+<!ENTITY WorkAddress.label "Adres:">
+<!ENTITY WorkAddress.accesskey          "r">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label "Şehir:">
+<!ENTITY WorkCity.accesskey             "i">
+<!ENTITY WorkCountry.label "Ülke:">
+<!ENTITY WorkCountry.accesskey          "K">
+<!ENTITY WorkPhone.accesskey "ş">
+<!ENTITY WorkPhone.label "İş:">
+<!ENTITY WorkState.label "Bölge:">
+<!ENTITY WorkState.accesskey            "e">
+<!ENTITY WorkWebPage.label "Web Sayfası:">
+<!ENTITY WorkWebPage.accesskey          "b">
+<!ENTITY WorkZipCode.label "Posta kodu:">
+<!ENTITY WorkZipCode.accesskey          "P">
+
+<!ENTITY allowRemoteContent.label       "HTML mesajlardaki resim dosyalarını kabul et.">
+<!ENTITY allowRemoteContent.accesskey   "M">

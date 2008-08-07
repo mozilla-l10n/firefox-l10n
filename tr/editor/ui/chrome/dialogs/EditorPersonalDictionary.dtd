@@ -1,0 +1,13 @@
+<!ENTITY AddButton.accessKey "E">
+<!ENTITY AddButton.label "Ekle">
+<!ENTITY CloseButton.accessKey "K">
+<!ENTITY CloseButton.label "Kapat">
+<!ENTITY DictionaryList.accessKey "e">
+<!ENTITY DictionaryList.label "Sözcükler:">
+<!ENTITY RemoveButton.accessKey "K">
+<!ENTITY RemoveButton.label "Kaldır">
+<!ENTITY ReplaceButton.accessKey "D">
+<!ENTITY ReplaceButton.label "Değiştir">
+<!ENTITY windowTitle.label "Özel Sözlük">
+<!ENTITY wordEditField.accessKey "n">
+<!ENTITY wordEditField.label "Yeni sözcük:">

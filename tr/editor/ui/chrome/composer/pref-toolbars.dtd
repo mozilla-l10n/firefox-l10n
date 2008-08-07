@@ -1,0 +1,30 @@
+<!ENTITY absolutePosition.label "Salt konumlandırma">
+<!ENTITY anchor.label "Hedef">
+<!ENTITY bold.label "Koyu">
+<!ENTITY bullets.label "Diyez işaretleri">
+<!ENTITY composition.caption "Oluşturulan araç çubuğunda bu düğme alanını göster:">
+<!ENTITY copy.label "Kopyala">
+<!ENTITY cut.label "Kes">
+<!ENTITY decreaseZIndex.label "Arkaplana gönder">
+<!ENTITY find.label "Bul">
+<!ENTITY formatting.caption "Aşağıdaki düğmeleri düzenleme araç çubuğunda göster:">
+<!ENTITY pref.toolbars.title "Araç Çubuğu">
+<!ENTITY hline.label "Yatay çizgi">
+<!ENTITY image.label "Grafik">
+<!ENTITY increaseZIndex.label "Önplana getir">
+<!ENTITY indent.label "İçeriye">
+<!ENTITY italic.label "Eğik">
+<!ENTITY larger.label "Daha büyük">
+<!ENTITY link.label "Bağlantı">
+<!ENTITY new.label "Yeni">
+<!ENTITY numbers.label "Sayılar">
+<!ENTITY open.label "Aç">
+<!ENTITY outdent.label "Dışa doğru">
+<!ENTITY paste.label "Ekle">
+<!ENTITY preview.label "Ara">
+<!ENTITY print.label "Yazdır">
+<!ENTITY publish.label "Yayınla">
+<!ENTITY save.label "Kaydet">
+<!ENTITY smaller.label "Daha küçük">
+<!ENTITY table.label "Tablo">
+<!ENTITY underline.label "Altı çizgili">

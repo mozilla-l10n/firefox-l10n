@@ -1,0 +1,5 @@
+<!ENTITY conflictResolve.label "Hangi sürümün korunacağını seç:">
+<!ENTITY conflictWarning.label "Bu sayfa başka bir program tarafından değiştirilmiştir, ancak Düzenleyici içersinde kaydetmediğiniz değişikler var.">
+<!ENTITY keepCurrentPageButton.label "Mevcut sayfa değişikliklerini koru">
+<!ENTITY useOtherPageButton.label "Mevcut sayfayı diğer değişikliklerle değiştir">
+<!ENTITY windowTitle.label "Düzenleme değişikliklerini seç">

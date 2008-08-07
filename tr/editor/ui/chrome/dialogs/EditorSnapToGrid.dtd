@@ -1,0 +1,6 @@
+<!ENTITY enableSnapToGrid.accessKey "E">
+<!ENTITY enableSnapToGrid.label "Izgara arasına eklemeyi etkinleştir">
+<!ENTITY pixelsLabel.value "piksel">
+<!ENTITY sizeEditField.accessKey "B">
+<!ENTITY sizeEditField.label "Boyut:">
+<!ENTITY windowTitle.label "Izgaralara yerleştir">

@@ -1,0 +1,32 @@
+<!ENTITY CellularNumber.accesskey "e">
+<!ENTITY CellularNumber.label "Cep Telefonu">
+<!ENTITY Company.accesskey "O">
+<!ENTITY Company.label "Organizasyon">
+<!ENTITY Department.accesskey "M">
+<!ENTITY Department.label "Bölüm">
+<!ENTITY FaxNumber.accesskey "f">
+<!ENTITY FaxNumber.label "Faks">
+<!ENTITY GeneratedName.accesskey "a">
+<!ENTITY GeneratedName.label "Adı ">
+<!ENTITY HomePhone.accesskey "e">
+<!ENTITY HomePhone.label "Ev Telefonu">
+<!ENTITY JobTitle.accesskey "b">
+<!ENTITY JobTitle.label "Başlık">
+<!ENTITY NickName.accesskey "t">
+<!ENTITY NickName.label "Takma adı">
+<!ENTITY PagerNumber.accesskey "Ç">
+<!ENTITY PagerNumber.label "Çağrı Cihazı">
+<!ENTITY PrimaryEmail.accesskey "p">
+<!ENTITY PrimaryEmail.label "E-posta">
+<!ENTITY ScreenName.accesskey "e">
+<!ENTITY ScreenName.label "Ekran adı">
+<!ENTITY SecondEmail.accesskey "ş">
+<!ENTITY SecondEmail.label "Başka e-posta">
+<!ENTITY WorkPhone.accesskey "İ">
+<!ENTITY WorkPhone.label "İş Telefonu">
+<!ENTITY _PhoneticName.accesskey "O">
+<!ENTITY _PhoneticName.label "Fonetik İsmi">
+<!ENTITY sortAscending.accesskey "u">
+<!ENTITY sortAscending.label "yukarıya doğru">
+<!ENTITY sortDescending.accesskey "a">
+<!ENTITY sortDescending.label "aşağıya doğru">

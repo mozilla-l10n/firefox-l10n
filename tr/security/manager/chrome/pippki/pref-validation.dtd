@@ -1,0 +1,47 @@
+<!ENTITY crl.autoupdate.fail.cnt.label "Önceki Ardışık Güncelleme Hataları:">
+<!ENTITY crl.autoupdate.fail.reason.label "Son Güncelleme Hata Detayları:">
+<!ENTITY crl.import.nextupdate.label "Sonraki Güncelleme tarihi.">
+<!ENTITY crl.import.status.title "CRL Aktarma Durumu">
+<!ENTITY crl.import.success.message "Sertifika İptal Listesi (CRL) başarılı bir şekilde aktarıldı.">
+<!ENTITY crl.issuer.label "CRL yi yayınlayan :">
+<!ENTITY crl.issuer.org.label "Organizasyon: ">
+<!ENTITY crl.issuer.orgunit.label "Birim:">
+<!ENTITY edit.button "Ayarlar">
+<!ENTITY serviceURL.accesskey "s">
+<!ENTITY serviceURL.label "Servis URL:">
+<!ENTITY signingCA.accesskey "y">
+<!ENTITY signingCA.label "Yanıtlayan imzacı:">
+<!ENTITY validation.advanced.label "Ayarlar">
+<!ENTITY validation.advanced.accesskey "A">
+<!ENTITY validation.crl.autoupdate.enable.label "Bu CRL için Otomatik Güncellmeyi etkinleştir">
+<!ENTITY validation.crl.autoupdate.freq.label1 "Her zaman güncelle">
+<!ENTITY validation.crl.autoupdate.freq.label2 "Gün(ler)">
+<!ENTITY validation.crl.autoupdate.time.label1 "Güncelle">
+<!ENTITY validation.crl.autoupdate.time.label2 "Sonraki güncelleme tarihinden önceki Gün(ler)">
+<!ENTITY validation.crl.autoupdate.title "Otomatik CRL güncelleme tercihleri">
+<!ENTITY validation.crl.autoupdate.url.label "CRL aktarılacağı yer:">
+<!ENTITY validation.crl.description "Sertifika Veritabanınıza kayıtlı Sertifika İptal Listesinin (CRL) yönetiminde CRL Yöneticisini kullan">
+<!ENTITY validation.crl.caption "CRL">
+<!ENTITY validation.crlautoupdateenabled.label "Otomatik Güncelleme">
+<!ENTITY validation.crlautoupdatestatus.label "Otomatik Güncelleme Durumu">
+<!ENTITY validation.crllastupdate.label "Son Güncelleme">
+<!ENTITY validation.crlmanager.label "CRLs yönet">
+<!ENTITY validation.crlname.label "İsmi">
+<!ENTITY validation.crlnextupdate.label "Sonraki Güncelleme">
+<!ENTITY validation.deletecrl.label "Sil">
+<!ENTITY validation.deletecrl.accesskey "S">
+<!ENTITY validation.managecrls.accesskey "C">
+<!ENTITY validation.managecrls.button "CRLs yönet...">
+<!ENTITY validation.ocsp.caption "OCSP">
+<!ENTITY pref.validation.title "Onaylama">
+<!ENTITY validation.updatecrl.label "Güncelleme">
+<!ENTITY validation.updatecrl.accesskey "G">
+<!ENTITY  validation.crlmanager.description       "Sertifika İptal Listesi (CRL) aşağıdaki veri bankasına kaydedildi:">
+<!ENTITY enableOCSP.label                         "Sertifikaların şu anki geçerliliğini doğrulamak için Çevrim İçi Sertifika Durumu İletişim Kuralı (OCSP)'nı kullan">
+<!ENTITY enableOCSP.accesskey                     "S">
+<!ENTITY certOCSP2.label                          "OCSP sunucusu belirten bir sertifikayı doğrula">
+<!ENTITY certOCSP2.accesskey                      "s">
+<!ENTITY validation.requireOCSP.description       "OCSP sunucu bağlantısı koparsa, sertifikaya geçersiz muamelesi yap">
+<!ENTITY validation.requireOCSP.accesskey         "K">
+<!ENTITY proxyOCSP2.label                    "Tüm sertifikaları aşağıdaki OCSP sunucusunu kullanarak doğrula:">
+<!ENTITY proxyOCSP2.accesskey                     "a">

@@ -1,0 +1,17 @@
+<!ENTITY ocspDialog.title             "Onaylama">
+<!ENTITY serviceURL.accesskey "S">
+<!ENTITY serviceURL.label "Servis URL:">
+<!ENTITY signingCA.accesskey "y">
+<!ENTITY signingCA.label "Yanıtlayan imzacı:">
+
+
+<!ENTITY enableOCSP.label             "Sertifikaların şu anki geçerliliğini doğrulamak için Çevrim İçi Sertifika Durumu İletişim Kuralı (OCSP)'nı kullan">
+<!ENTITY enableOCSP.accesskey         "U">
+
+<!ENTITY certOCSP2.label              "OCSP sunucusu belirten bir sertifikayı doğrula">
+<!ENTITY certOCSP2.accesskey          "D">
+
+<!ENTITY proxyOCSP2.label             "Tüm sertifikaları aşağıdaki OCSP sunucusunu kullanarak doğrula:">
+<!ENTITY proxyOCSP2.accesskey         "a">
+<!ENTITY requireOCSP.label            "OCSP sunucu bağlantısı koparsa, sertifikaya geçersiz muamelesi yap">
+<!ENTITY requireOCSP.accesskey        "K">

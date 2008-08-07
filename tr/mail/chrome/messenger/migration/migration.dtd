@@ -1,0 +1,25 @@
+
+<!ENTITY done.label "Aşağıdaki öğeler başarılı şekilde içe aktarıldı:">
+<!ENTITY done.title "İçe aktarma tamamlandı">
+<!ENTITY importFromWin.label "Tercihleri, yer imlerini, geçmiş bilgisini, parolaları ve diğer verileri buradan içe aktar:">
+<!ENTITY importFromNonWin.label         "Tercihleri, hesap ayarlarını, adres defterini, süzgeçleri ve diğer verileri buradan içe aktar:">
+<!ENTITY importFromEudora.accesskey "E">
+<!ENTITY importFromEudora.label "Eudora">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromNetscape4.label "Netscape  4.x">
+<!ENTITY importFromNothing.accesskey "B">
+<!ENTITY importFromNothing.label "İçe birşey aktarma">
+<!ENTITY importFromOExpress.accesskey "U">
+<!ENTITY importFromOExpress.label "Outlook  Express">
+<!ENTITY importFromOutlook.accesskey "O">
+<!ENTITY importFromOutlook.label "Outlook">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 veya Mozilla 1.x">
+<!ENTITY importItems.label "İçe aktarılacak öğeyi seçin:">
+<!ENTITY importItems.title "İçe aktarılacak öğeler">
+<!ENTITY importSource.title "Ayarları ve verileri içe aktarma">
+<!ENTITY migrating.label "Aşağıdaki öğeler başarılı bir şekilde içe aktarıldı...">
+<!ENTITY migrating.title "İçe aktarılıyor...">
+<!ENTITY migrationWizard.title "İçe aktarma sihirbazı">
+<!ENTITY selectProfile.label "Aşağıdaki kimlikler buradan içe aktarılabilir:">
+<!ENTITY selectProfile.title "Kimlik seç">

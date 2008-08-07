@@ -1,0 +1,16 @@
+<!ENTITY menu_securityEncryptIfPossible.accesskey "E">
+<!ENTITY menu_securityEncryptIfPossible.label "Mümkünse şifrele">
+<!ENTITY menu_securityEncryptRequire.accesskey "R">
+<!ENTITY menu_securityEncryptRequire.label "İletiyi şifrele">
+<!ENTITY menu_securityNoEncryption.accesskey "F">
+<!ENTITY menu_securityNoEncryption.label "Şifresiz ileti">
+<!ENTITY menu_securitySign.accesskey "U">
+<!ENTITY menu_securitySign.label "Bu iletiye sayısal imza ekle">
+<!ENTITY menu_securityStatus.accesskey "g">
+<!ENTITY menu_securityStatus.label "Güvenlik bilgilerini göster">
+<!ENTITY menu_viewSecurityStatus.accesskey "B">
+<!ENTITY menu_viewSecurityStatus.label "İleti güvenlik bilgisi">
+<!ENTITY securityButton.label "Güvenlik">
+<!ENTITY securityButton.tooltip "Güvenllik ayarlarını göster veya değiştir">
+<!ENTITY securityMenu.accesskey "e">
+<!ENTITY securityMenu.label "Güvenlik">

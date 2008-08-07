@@ -1,0 +1,13 @@
+<!ENTITY AttName.label "Öznitelik:">
+<!ENTITY AttValue.label "Değer:">
+<!ENTITY PropertyName.label "Özellik:">
+<!ENTITY WindowTitle.label "Gelişmiş Özellik Düzenleyici">
+<!ENTITY currentattributesfor.label "Bunun için geçerli öznitelikler:">
+<!ENTITY editAttribute.label "Bir öğenin değerini değiştirmek için üzerine tıklayın">
+<!ENTITY removeAttribute.label "Kaldır">
+<!ENTITY tabCSS.label "Inline Style (CSS)">
+<!ENTITY tabHTML.label "HTML Öznitelikleri">
+<!ENTITY tabJSE.label "JavaScript Olayları">
+<!ENTITY tree.attributeHeader.label "Öznitelik">
+<!ENTITY tree.propertyHeader.label "Özellik">
+<!ENTITY tree.valueHeader.label "Değer">

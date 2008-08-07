@@ -1,0 +1,5 @@
+<!ENTITY documentCharsetDesc.label "Farklı kaydetmek istediğiniz karakter kümesini seçin:">
+<!ENTITY documentCharsetTitle.label "Karakter Kümesi">
+<!ENTITY documentExportToText.label "Metin olarak dışa aktar">
+<!ENTITY documentTitleTitle.label "Sayfa başlığı">
+<!ENTITY windowTitle.label "Karakter kümesi olarak kaydet">

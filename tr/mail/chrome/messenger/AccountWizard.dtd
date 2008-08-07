@@ -1,0 +1,69 @@
+<!ENTITY accnameDesc.label "Hesaba uygun bir ad verin (ör. iş hesabı, ev hesabı).">
+<!ENTITY accnameExample.label "Örneğin iş hesabı, ev hesabı ya da haber hesabı.">
+<!ENTITY accnameLabel.accesskey "a">
+<!ENTITY accnameLabel.label "Hesap İsmi:">
+<!ENTITY accnameTitle.label "Hesap İsmi">
+<!ENTITY accountSetupInfo.label "İletilere ulaşabilmek için ilk önce posta ve haber grubu hesabı eklemeniz gerekir.">
+<!ENTITY accountTypeDesc.label "Bu sihirbaz, posta ve haber grubu hesapları için gerekli bilgileri toplayacaktır. Gerekli bilgileri bilmiyorsanız ağ yöneticiniz ile veya internet sağlayıcınız ile  temasa geçin ve gerekli bilgileri öğreniniz.">
+<!ENTITY accountTypeDirections.label "Ayarlamak istediğiniz hesap türünü seçin:">
+<!ENTITY accountTypeMail.accesskey "p">
+<!ENTITY accountTypeMail.label "E-posta hesabı">
+<!ENTITY accountTypeNews.accesskey "e">
+<!ENTITY accountTypeNews.label "Haber grubu hesabı">
+<!ENTITY accountTypeTitle.label "Yeni Hesap Ayarları">
+<!ENTITY accountWizard.size "width: 50em; height: 40em;">
+<!ENTITY clickFinish.label "Hesap sihirbazından çıkmak ve ayarları kaydetmek için Bitir'i tıklayın.">
+<!ENTITY clickFinish.labelMac "Hesap sihirbazınızdan çıkmak ve ayarları kaydetmek için Bitir'i tıklayın.">
+<!ENTITY completionText.label "Lütfen aşağıdaki bilgilerin doğruluğunu kontrol edin.">
+<!ENTITY completionTitle.label "Tebrikler!">
+<!ENTITY deferStorage.label "Genel gelen kutusunu kullan (postalar yerel dizinde kaydedilir)">
+<!ENTITY deferStorageDesc.label "Bu hesaba ait e-postaları kendi dizininde saklamak istiyorsanız, bu kutucuğu işaretlemeyin. Bu işlem hesabın üst seviye olarak görünmesini sağlayacaktır. Aksi takdirde, &quot;Yerel Gelen Kutusu&quot; hesabının parçası olacaktır.">
+<!ENTITY downloadOnLogin.label "İletileri şimdi indir">
+<!ENTITY emailDesc.label "E-posta adresinizi giriniz. Herkes bu adresi size posta göndermek için kullanacaktır.">
+<!ENTITY emailExample.label "(ör. erkan@linux-sevenler.org)">
+<!ENTITY emailLabel.accesskey "e">
+<!ENTITY emailLabel.label "E-posta adresi:">
+<!ENTITY fullnameDesc.label "Giden iletiler için &quot;Gönderen&quot; kısmına isminizi giriniz">
+<!ENTITY fullnameExample.label "(ör. &quot;erkaN Kaplan&quot;).">
+<!ENTITY fullnameLabel.accesskey "S">
+<!ENTITY fullnameLabel.label "İsminiz:">
+<!ENTITY haveSmtp1.prefix "Giden E-posta (SMTP) için mevcut sunucu ismi &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;, kullanılacak. Giden sunucu ayarlarını Posta ve Haber Grubu Hesap Ayarları bölümünden değiştirebilirsiniz.">
+<!ENTITY haveSmtp2.prefix "Giden E-posta (SMTP) için mevcut kullanıcı ismini verin, &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;, kullanılacak. Giden sunucu ayarlarını Posta ve Haber Grubu Hesap Ayarları bölümünden değiştirebilirsiniz.">
+<!ENTITY haveSmtp3.prefix "Giden E-posta (SMTP) için sunucu ismi,  &quot;">
+<!ENTITY haveSmtp3.suffix "&quot;,  gelen e-posta için sunucu ismi ile aynı. Gelen sunucu için kullanıcı isminiz erişim amaçlı kullanılacak. Giden sunucu ayarlarınızı Posta ve Haber Grubu Hesap Ayarları bölümünden ayarlayabilirsiniz.">
+<!ENTITY identityDesc.label "Her hesabın kendi kimliği vardır. Postanızı alan  kişi sizi bu kimlikteki bilgilerden tanır.">
+<!ENTITY identityTitle.label "Kimlik">
+<!ENTITY imapType.accesskey "M">
+<!ENTITY imapType.label "IMAP">
+<!ENTITY incomingServerLabel.accesskey "G">
+<!ENTITY incomingServerLabel.label "Gelen Posta Sunucusu:">
+<!ENTITY incomingServerNameDesc.label "Gelen Posta sunucu ismini giriniz (Örnek, &quot;mail.linux-sevenler.org&quot;).">
+<!ENTITY incomingServerTitle.label "Gelen Posta Sunucusu">
+<!ENTITY incomingServerTypeDesc.label "Kullandığınız Gelen Posta sunucunun türünü seçin.">
+<!ENTITY incomingServerTypeLabel.label "Sunucu Türü:">
+<!ENTITY loginTitle.label "Kullanıcı İsmi">
+<!ENTITY newsServerLabel.accesskey "H">
+<!ENTITY newsServerLabel.label "Haber grubu sunucusu:">
+<!ENTITY newsServerNameDesc.label "Haber Sunucu İsmini giriniz (NNTP) ( Örnek, &quot;news.linux-sevenler.org&quot;).">
+<!ENTITY newsServerNamePrefix.label "Haber Sunucusu İsmi (NNTP):">
+<!ENTITY nntpType.label "Haber Sunucusu">
+<!ENTITY popType.accesskey "p">
+<!ENTITY popType.label "POP">
+<!ENTITY serverNamePrefix.label "Gelen Posta Sunucusu İsmi:">
+<!ENTITY serverTitle.label "Sunucu Bilgileri">
+<!ENTITY serverTypePrefix.label "Gelen Posta Sunucusu Türü:">
+<!ENTITY smtpServerDesc.label "Giden Posta Sunucu isminizi giriniz (SMTP) (Örnek, &quot;smtp.linux-sevenler.org&quot;).">
+<!ENTITY smtpServerLabel.accesskey "P">
+<!ENTITY smtpServerLabel.label "Giden Posta Sunucusu:">
+<!ENTITY smtpServerNamePrefix.label "Giden Posta Sunucusu İsmi (SMTP):">
+<!ENTITY smtpServerTitle.label "Giden Posta Sunucusu (SMTP)">
+<!ENTITY usernameDesc.label "E-posta sunucunuz tarafından sağlanmış kullanıcı isminizi giriniz">
+<!ENTITY usernameExample.label "(Örnek, &quot;eKaplan&quot;).">
+<!ENTITY usernameLabel.accesskey "U">
+<!ENTITY usernameLabel.label "Kullanıcı ismi:">
+<!ENTITY usernameSmtpDesc.label "Giden E-posta için E-posta sağlayıcınızdan aldığınız kullanıcı ismini verin (normal olarak gelen e-posta ile aynı olan isimdir).">
+<!ENTITY usernameSmtpLabel.accesskey "A">
+<!ENTITY usernameSmtpLabel.label "Giden E-posta için kullanıcı ismi:">
+<!ENTITY windowTitle.label "Hesap Sihirbazı">

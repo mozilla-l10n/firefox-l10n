@@ -1,0 +1,33 @@
+<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x da herkart için bir posta adresi var, &brandShortName; ikitane (İş ve Ev)var.">
+<!ENTITY FieldDiscInputText2.label "Aktarmak istediğiniz Posta adreslerinin içeriğini seçin:">
+<!ENTITY FieldDiscWarning.label "Tüm seçilmiş adres defterleri için kullanılacaktır:">
+<!ENTITY back.label "&lt; Geri">
+<!ENTITY cancel.label "Vazgeç">
+<!ENTITY finish.label "Bitir">
+<!ENTITY forward.label "Sonraki &gt;">
+
+<!ENTITY importDialog.addressbookTitle "Adres Defterlerimi aktar">
+<!ENTITY importDialog.homeTitle "Başlangıç">
+<!ENTITY importDialog.mailTitle "Postalarımı aktar.">
+<!ENTITY importDialog.settingsTitle "Ayarlarımı aktar.">
+<!ENTITY importDialog.windowTitle "İçeri Aktarma">
+<!ENTITY importDialog.workTitle "İş">
+<!ENTITY importTitle.label "&brandShortName; Posta İçeri Aktarma Sihirbazı">
+<!ENTITY processing.label "İçeri aktarılıyor...">
+<!ENTITY select.label "İçeri aktarmak istediklerim:">
+<!ENTITY selectDescription.label "İçeri aktarmak istediğiniz yazılımı seçin:">
+<!ENTITY title.label "Başlık">
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+<!ENTITY importDialog.allTitle    "Hepsini içe aktar">
+<!ENTITY importDialog.filtersTitle "Süzgeçler">
+
+
+<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">
+
+<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
+
+<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+
+
+

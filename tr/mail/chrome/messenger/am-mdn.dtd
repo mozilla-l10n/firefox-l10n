@@ -1,0 +1,26 @@
+<!ENTITY alwaysSend.label "Her zaman gönder">
+<!ENTITY askMe.label "Bana sor">
+<!ENTITY leaveIt.accesskey "G">
+<!ENTITY leaveIt.label "Gelen posta kutusunda bırak">
+<!ENTITY moveToSent.accesskey "n">
+<!ENTITY moveToSent.label "Gönderilen dizinine taşı">
+<!ENTITY never.accesskey "n">
+<!ENTITY never.label "Asla alındı onayı gönderme">
+<!ENTITY neverSend.label "Asla gönderme">
+<!ENTITY notInToCc.accesskey "e">
+<!ENTITY notInToCc.label "Eğer ben Gönderilen veya Bilgilendirilen kısmında değil isem:">
+<!ENTITY otherCases.accesskey "o">
+<!ENTITY otherCases.label "Öteki tüm konular için:">
+<!ENTITY outsideDomain.accesskey "N">
+<!ENTITY outsideDomain.label "Gönderen benim ağımın dışında ise:">
+<!ENTITY pane.title "Alındı Onayları">
+<!ENTITY receiptArrive.label "Alındı onayı geldiğinde:">
+<!ENTITY requestMDN.label "Alındı onayı isteği aldığımda:">
+<!ENTITY requestReceipt.accesskey "p">
+<!ENTITY requestReceipt.label "E-postaları gönderirken her zaman alındı onayı iste">
+<!ENTITY returnSome.accesskey "A">
+<!ENTITY returnSome.label "Bazı mesajlara alındı onayı ver">
+<!ENTITY useCustomPrefs.accesskey "E">
+<!ENTITY useCustomPrefs.label "Bu hesap için alındı onayını öntanımla">
+<!ENTITY useGlobalPrefs.accesskey "N">
+<!ENTITY useGlobalPrefs.label "Genel alındı onayı ayarlarımı kullan">

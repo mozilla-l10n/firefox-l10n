@@ -1,0 +1,12 @@
+<!ENTITY borderEditField.accessKey "K">
+<!ENTITY borderEditField.label "Kenar:">
+<!ENTITY borderEditField.tooltip "Tablonun kenarı için bir numara yaz, veya Tablo kenarı olmaması için sıfır (0) yaz">
+<!ENTITY numColumnsEditField.accessKey "K">
+<!ENTITY numColumnsEditField.label "Kolonlar:">
+<!ENTITY numRowsEditField.accessKey "S">
+<!ENTITY numRowsEditField.label "Sıralar:">
+<!ENTITY pixels.label "piksel">
+<!ENTITY size.label "Boyut">
+<!ENTITY widthEditField.accessKey "G">
+<!ENTITY widthEditField.label "Genişlik:">
+<!ENTITY windowTitle.label "Tablo ekle">

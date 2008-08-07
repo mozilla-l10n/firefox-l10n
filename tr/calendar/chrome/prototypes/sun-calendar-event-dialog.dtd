@@ -1,0 +1,288 @@
+<!--   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is Sun Microsystems.
+   - Portions created by the Initial Developer are Copyright (C) 2006
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Michael Büttner <michael.buettner@sun.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Menubar -->
+<!ENTITY  event.menu.file.label                           "Dosya">
+<!ENTITY  event.menu.file.accesskey                       "D">
+<!ENTITY  event.menu.file.new.label                       "Yeni">
+<!ENTITY  event.menu.file.new.accesskey                   "N">
+
+<!ENTITY event.priority.label                             "Önemlilik:">
+
+<!ENTITY  event.menu.file.new.event.label                 "Olay">
+<!ENTITY  event.menu.file.new.event.accesskey             "L">
+<!ENTITY  event.menu.file.new.message.label               "Mesaj">
+<!ENTITY  event.menu.file.new.message.accesskey           "M">
+<!ENTITY  event.menu.file.new.address.label               "Adres Defteri Kartı">
+<!ENTITY  event.menu.file.new.address.accesskey           "R">
+<!ENTITY  event.menu.file.close.label                     "Kapat">
+<!ENTITY  event.menu.file.close.accesskey                 "P">
+<!ENTITY  event.menu.file.save.label                      "Kaydet">
+<!ENTITY  event.menu.file.save.accesskey                  "K">
+<!ENTITY  event.menu.file.page.setup.label                "Sayfa düzeni">
+<!ENTITY  event.menu.file.page.setup.accesskey            "ü">
+<!ENTITY  event.menu.file.print.label                     "Yazdır">
+<!ENTITY  event.menu.file.print.accesskey                 "y">
+<!ENTITY  event.menu.file.exit.label                      "Çık">
+<!ENTITY  event.menu.file.exit.accesskey                  "k">
+
+<!ENTITY  event.menu.edit.label                           "Düzenle">
+<!ENTITY  event.menu.edit.accesskey                       "E">
+<!ENTITY  event.menu.edit.undo.label                      "Geri">
+<!ENTITY  event.menu.edit.undo.accesskey                  "g">
+<!ENTITY  event.menu.edit.redo.label                      "Yinele">
+<!ENTITY  event.menu.edit.redo.accesskey                  "N">
+<!ENTITY  event.menu.edit.cut.label                       "Kes">
+<!ENTITY  event.menu.edit.cut.accesskey                   "s">
+<!ENTITY  event.menu.edit.copy.label                      "Kopyala">
+<!ENTITY  event.menu.edit.copy.accesskey                  "l">
+<!ENTITY  event.menu.edit.paste.label                     "Yapıştır">
+<!ENTITY  event.menu.edit.paste.accesskey                 "P">
+<!ENTITY  event.menu.edit.select.all.label                "Tümünü seç">
+<!ENTITY  event.menu.edit.select.all.accesskey            "m">
+
+<!ENTITY  event.menu.view.label                           "Görünüm">
+<!ENTITY  event.menu.view.accesskey                       "M">
+<!ENTITY  event.menu.view.toolbars.label                  "Araç çubukları">
+<!ENTITY  event.menu.view.toolbars.accesskey              "r">
+<!ENTITY  event.menu.view.toolbars.event.label            "Olay araç çubuğu">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "a">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Özelleştir">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "z">
+
+<!ENTITY  event.menu.options.label                        "Seçenekler">
+<!ENTITY  event.menu.options.accesskey                    "K">
+<!ENTITY  event.menu.options.spellcheck.label             "Yazım denetimi...">
+<!ENTITY  event.menu.options.spellcheck.accesskey         "D">
+<!ENTITY  event.menu.options.inline.spellcheck.label      "Yazarken kontrol et">
+<!ENTITY  event.menu.options.inline.spellcheck.accesskey  "y">
+<!ENTITY  event.menu.options.timezone.label               "Zaman dilimi">
+<!ENTITY  event.menu.options.timezone.accesskey           "z">
+<!ENTITY  event.menu.options.priority.label               "Önemlilik">
+<!ENTITY  event.menu.options.priority.accesskey           "m">
+<!ENTITY  event.menu.options.priority.none.label          "Yok">
+<!ENTITY  event.menu.options.priority.none.accesskey      "o">
+<!ENTITY  event.menu.options.priority.low.label           "Düşük">
+<!ENTITY  event.menu.options.priority.low.accesskey       "k">
+<!ENTITY  event.menu.options.priority.normal.label        "Normal">
+<!ENTITY  event.menu.options.priority.normal.accesskey    "N">
+<!ENTITY  event.menu.options.priority.high.label          "Yüksek">
+<!ENTITY  event.menu.options.priority.high.accesskey      "e">
+<!ENTITY  event.menu.options.privacy.label                "Özel">
+<!ENTITY  event.menu.options.privacy.accesskey            "L">
+<!ENTITY  event.menu.options.privacy.public.label         "Genel olay">
+<!ENTITY  event.menu.options.privacy.public.accesskey     "N">
+<!ENTITY  event.menu.options.privacy.confidential.label   "Sadece zamanı ve günü göster">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey "S">
+<!ENTITY  event.menu.options.privacy.private.label        "Özel olay">
+<!ENTITY  event.menu.options.privacy.private.accesskey    "Z">
+<!ENTITY  event.menu.options.show.time.label              "Zamanı böyle göster:">
+<!ENTITY  event.menu.options.show.time.accesskey          "Z">
+<!ENTITY  event.menu.options.show.time.busy.label         "Meşğul">
+<!ENTITY  event.menu.options.show.time.busy.accesskey     "l">
+<!ENTITY  event.menu.options.show.time.free.label         "Boş">
+<!ENTITY  event.menu.options.show.time.free.accesskey     "B">
+
+<!ENTITY event.help.label                                 "Yardım">
+<!ENTITY event.help.accesskey                             "M">
+<!ENTITY event.help.release.notes.label                   "Sürüm notları">
+<!ENTITY event.help.release.notes.accesskey               "R">
+<!ENTITY event.help.help.label                            "&brandShortName; Yardım">
+<!ENTITY event.help.help.accesskey                        "M">
+<!ENTITY event.help.about.label                           "&brandShortName; Hakkında">
+<!ENTITY event.help.about.accesskey                       "A">
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label                        "Kaydet ve kapat">
+<!ENTITY  event.toolbar.attendees.label                   "Katılımcıları davet et">
+<!ENTITY  event.toolbar.spellcheck.label                  "Yazım denetimi">
+<!ENTITY  event.toolbar.privacy.label                     "Gizlilik">
+
+<!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Başlık:" >
+<!ENTITY event.title.textbox.accesskey                    "B">
+<!ENTITY event.location.label                             "Konum:" >
+<!ENTITY event.location.accesskey                         "K">
+<!ENTITY event.categories.label                           "Kategori:">
+<!ENTITY event.categories.accesskey                       "g">
+<!ENTITY event.calendar.label                             "Takvim:" >
+<!ENTITY event.calendar.accesskey                         "T">
+<!ENTITY event.attendees.label                            "Katılımcılar:" >
+<!ENTITY event.attendees.accesskey                        "K" >
+<!ENTITY event.alldayevent.label                          "Bütün gün olayları" >
+<!ENTITY event.alldayevent.accesskey                      "T">
+
+<!ENTITY event.from.label                                 "Başlangıç:" >
+<!ENTITY event.from.accesskey                             "G">
+<!ENTITY task.from.label                                  "Başlangıç:" >
+<!ENTITY task.from.accesskey                              "B">
+<!ENTITY event.to.label                                   "Bitiş:" >
+<!ENTITY event.to.accesskey                               "T">
+<!ENTITY task.to.label                                    "Bitiş:" >
+<!ENTITY task.to.accesskey                                "T">
+<!ENTITY task.status.label                                "Durum:" >
+<!ENTITY task.status.accesskey                            "r">
+<!ENTITY event.repeat.label                               "Tekrarlama:" >
+<!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.reminder.label                             "Hatırlatma:" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "Açıklama:" >
+<!ENTITY event.description.accesskey                      "K">
+<!ENTITY event.link.label                                 "Bağlantı:" >
+<!ENTITY event.link.accesskey                             "T" >
+<!ENTITY event.link.change.label                          "Değiştir..." >
+<!ENTITY event.link.change.accesskey                      "i" >
+
+<!ENTITY event.private.label                              "Özel" >
+<!ENTITY event.public.label                               "Genel" >
+<!ENTITY event.confidential.label                         "Sadece tarih ve zaman" >
+<!ENTITY event.priority.label                             "Önemlilik:">
+
+<!ENTITY event.reminder.none.label                        "Hatırlatıcı yok " >
+<!ENTITY event.reminder.5minutes.before.label             "5 dakika önce" >
+<!ENTITY event.reminder.10minutes.before.label            "10 dakika önce" >
+<!ENTITY event.reminder.15minutes.before.label            "15 dakika önce" >
+<!ENTITY event.reminder.30minutes.before.label            "30 dakika önce" >
+<!ENTITY event.reminder.45minutes.before.label            "45 dakika önce" >
+<!ENTITY event.reminder.1hour.before.label                "1 saat önce" >
+<!ENTITY event.reminder.2hours.before.label               "2 saat önce" >
+<!ENTITY event.reminder.5hours.before.label               "5 saat önce" >
+<!ENTITY event.reminder.15hours.before.label              "15 saat önce" >
+<!ENTITY event.reminder.1day.before.label                 "1 gün önce" >
+<!ENTITY event.reminder.2days.before.label                "2 gün önce" >
+<!ENTITY event.reminder.1week.before.label                "1 hafta önce" >
+<!ENTITY event.reminder.custom.label                      "Özel" >
+
+<!-- Recurrence dialog -->
+
+<!ENTITY recurrence.title.label                         "Tekrarlamaları düzenle">
+
+<!ENTITY event.repeat.does.not.repeat.label             "Tekrarlama">
+<!ENTITY event.repeat.daily.label                       "Günlük">
+<!ENTITY event.repeat.weekly.label                      "Haftalık">
+<!ENTITY event.repeat.every.weekday.label               "Her hafta">
+<!ENTITY event.repeat.bi.weekly.label                   "Tek haftalık">
+<!ENTITY event.repeat.monthly.label                     "Aylık">
+<!ENTITY event.repeat.yearly.label                      "Yıllık">
+<!ENTITY event.repeat.custom.label                      "Özel">
+
+<!ENTITY event.recurrence.pattern.label                 "Tekrarlama deseni">
+<!ENTITY event.recurrence.occurs.label                  "Tekrarlama" >
+<!ENTITY event.recurrence.day.label                     "günlük" >
+<!ENTITY event.recurrence.week.label                    "haftalık" >
+<!ENTITY event.recurrence.month.label                   "aylık" >
+<!ENTITY event.recurrence.year.label                    "yıllık" >
+<!ENTITY event.recurrence.pattern.every.label           "Her" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Her hafta" >
+<!ENTITY event.recurrence.on.label                      "On:" >
+<!ENTITY event.recurrence.the.label                     "Her" >
+<!ENTITY event.recurrence.repeat.first.label            "Birinci">
+<!ENTITY event.recurrence.repeat.second.label           "İkinci">
+<!ENTITY event.recurrence.repeat.third.label            "Ücüncü">
+<!ENTITY event.recurrence.repeat.fourth.label           "Dördüncü">
+<!ENTITY event.recurrence.repeat.fifth.label            "Beşinci">
+<!ENTITY event.recurrence.repeat.last.label             "Sonuncu ">
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Ayın günü">
+<!ENTITY event.recurrence.repeat.recur.label            "Günlük tekrarlama">
+<!ENTITY event.recurrence.every.label                   "Her:" >
+<!ENTITY event.recurrence.of.label                      "of" >
+<!ENTITY event.recurrence.range.label                   "Tekrarlama sınırı">
+<!ENTITY event.recurrence.forever.label                 "Sınırsız" >
+<!ENTITY event.recurrence.repeat.for.label              "Oluştur" >
+<!ENTITY event.recurrence.appointments.label            "Randevu" >
+<!ENTITY event.repeat.until.label                       "Tekrarlama sınırı" >
+<!ENTITY event.recurrence.preview.label                 "Önceki">
+
+<!-- Reminder dialog -->
+<!ENTITY reminder.title.label                           "Özel hatırlatıcı">
+<!ENTITY reminder.reminder.label                        "Hatırlatıcı">
+<!ENTITY reminder.action.alert.label                    "Uyarı göster">
+<!ENTITY reminder.action.sound.label                    "Ses dosyası çal">
+<!ENTITY reminder.action.email.label                    "E-posta gönder">
+<!ENTITY reminder.new.label                             "Yeni">
+<!ENTITY reminder.delete.label                          "Sil">
+<!ENTITY reminder.rename.label                          "İsimlendir">
+<!ENTITY reminder.relation.start.label                  "olay başlarken">
+<!ENTITY reminder.relation.end.label                    "olay biterken">
+<!ENTITY reminder.action.label                          "Hatırlatma işlemini seçin">
+
+<!-- Attendees dialog -->
+<!ENTITY invite.title.label              "Katılımcı davet et">
+<!ENTITY event.organizer.label           "Düzenleyen">
+<!ENTITY event.freebusy.suggest.slot     "Hatırlatma zamanı:">
+<!ENTITY event.freebusy.next.slot        "Sonraki hatırlatma " >
+<!ENTITY event.freebusy.previous.slot    " Önceki hatırlatma" >
+<!ENTITY event.freebusy.zoom             "Odaklama:">
+<!ENTITY event.freebusy.plus             "Sonraki saat" >
+<!ENTITY event.freebusy.minus            "Önceki saat" >
+<!ENTITY event.freebusy.legend.free      "Boş" >
+<!ENTITY event.freebusy.legend.busy      "Meşgul" >
+<!ENTITY event.freebusy.legend.unknown   "Bilgi mevcut değil" >
+
+<!ENTITY repeat.units.weeks.both         "Hafta" >
+<!ENTITY repeat.units.months.both        "Ay" >
+<!ENTITY repeat.units.years.both         "Yıl" >
+
+<!-- Timezone dialog -->
+
+<!ENTITY timezone.title.label            "Lütfen zaman dilimini ayarlayın">
+
+<!-- Read-Only dialog -->
+
+<!ENTITY read.only.general.label         "Genel">
+<!ENTITY read.only.title.label           "Başlık:">
+<!ENTITY read.only.date.label            "Tarih:">
+<!ENTITY read.only.repeat.label          "Tekrar:">
+<!ENTITY read.only.location.label        "Konum:">
+<!ENTITY read.only.organizer.label       "Düzenleyen:">
+<!ENTITY read.only.category.label        "Kategori:">
+<!ENTITY read.only.reply.label           "Cevap:">
+<!ENTITY read.only.accept.label          "Katılmak istiyorum">
+<!ENTITY read.only.decline.label         "Katılmak istemiyorum">
+<!ENTITY read.only.needs.action.label    "Sonra onaylamak istiyorum">
+<!ENTITY read.only.reminder.label        "Hatırlatıcı:">
+<!ENTITY read.only.attendees.label       "Katılımcılar">
+<!ENTITY read.only.description.label     "Açıklama">
+<!ENTITY read.only.documents.label       "Belgeler">
+<!ENTITY  event.toolbar.link.label                        "Bağlantı ekle">
+
+<!ENTITY  event.menu.options.attendees.label              "Katılımcı davet et...">
+<!ENTITY  event.menu.options.attendees.accesskey          "T">
+<!ENTITY  event.menu.options.link.label                   "Bağlantı ekle...">
+<!ENTITY  event.menu.options.link.accesskey               "L">
+<!ENTITY event.invite.attendees.label                     "Katılımcı davet et...">
+<!ENTITY event.invite.attendees.accesskey                 "T">
+<!ENTITY event.email.attendees.label                      "Bütün katılımcılara e-posta yaz...">
+<!ENTITY event.email.attendees.accesskey                  "A">
+<!ENTITY event.email.tentative.attendees.label            "Kararsız katılımcılara e-posta yaz...">
+<!ENTITY event.email.tentative.attendees.accesskey        "R">

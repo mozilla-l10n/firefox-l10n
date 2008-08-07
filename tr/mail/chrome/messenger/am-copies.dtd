@@ -1,0 +1,30 @@
+<!ENTITY bccAddress.accesskey "b">
+<!ENTITY bccAddress.label "Bcc başka Adres:">
+<!ENTITY chooseFolderButton.label "Dosyalar seçiliyor...">
+<!ENTITY copyAndFolderTitle.label "Kopyalar ve Dizinleri">
+<!ENTITY draftInOtherFolder.accesskey "D">
+<!ENTITY draftInOtherFolder.label "Diğer">
+<!ENTITY draftMailFolder.label "E-postaları taslak içinde bırak:">
+<!ENTITY draftsFolderOn.accesskey "T">
+<!ENTITY draftsFolderOn.label "&quot;Taslak&quot; Dizini:">
+<!ENTITY fccMailFolder.accesskey "p">
+<!ENTITY fccMailFolder.label "Bir kopyasını buraya koy:">
+<!ENTITY keepDrafts.label "E-postaları Taslak içinde bırak:">
+<!ENTITY keepTempltes.label "E-postaların şablonlarını burda sakla:">
+<!ENTITY saveMessageDlg.accesskey "s">
+<!ENTITY saveMessageDlg.label "Mesajlar kaydoldulurken onaylama penceresini göster">
+<!ENTITY sendingPrefix.label "Postaları Otomatik Gönderirken">
+<!ENTITY sentFolderOn.accesskey "E">
+<!ENTITY sentFolderOn.label "&quot;Gönderilen Mesajlar&quot; Dizini:">
+<!ENTITY sentInOtherFolder.accesskey "D">
+<!ENTITY sentInOtherFolder.label "Diğer">
+<!ENTITY specialFolderTitle.label "Özel Dizinler">
+<!ENTITY specialFoldersTitle.label "Taslaklar ve Geçici Dizinler">
+<!ENTITY templateInOtherFolder.accesskey "R">
+<!ENTITY templateInOtherFolder.label "Diğer:">
+<!ENTITY templateMailFolder.label "E-postaları Geçici dizininde bırak:">
+<!ENTITY templatesFolderOn.accesskey "G">
+<!ENTITY templatesFolderOn.label "&quot;Geçici&quot; Dizini:">
+
+<!ENTITY fccReplyFollowsParent.label "Yanıtları yanıtlanan iletinin dizinine koy">
+<!ENTITY fccReplyFollowsParent.accesskey "l">

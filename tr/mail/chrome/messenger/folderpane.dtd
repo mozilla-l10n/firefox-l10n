@@ -1,0 +1,6 @@
+<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">
+<!ENTITY accounts.label "Hesaplar">
+<!ENTITY folderSizeColumn.label "Boyut">
+<!ENTITY nameColumn.label "Adı">
+<!ENTITY totalColumn.label "Toplam">
+<!ENTITY unreadColumn.label "Okunmamış">

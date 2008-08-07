@@ -1,0 +1,24 @@
+<!ENTITY  engineManager.title       "Arama motorları listesinin yönetimi">
+<!ENTITY  engineManager.style       "min-width: 35em;">
+<!ENTITY  engineManager.intro       "Kurulu olan arama motorları:">
+
+<!-- Buttons -->
+<!ENTITY  up.label                  "Yukarıya taşı">
+<!ENTITY  up.accesskey              "U">
+<!ENTITY  dn.label                  "Aşağıya taşı">
+<!ENTITY  dn.accesskey              "T">
+<!ENTITY  remove.label              "Kaldır">
+<!ENTITY  remove.accesskey          "R">
+
+<!ENTITY  addEngine.label           "Daha fazla arama motoru bul...">
+<!ENTITY  addEngine.accesskey       "A">
+<!ENTITY  enableSuggest.label       "Arama önerilerini göster">
+<!ENTITY  enableSuggest.accesskey   "S">
+
+<!ENTITY  restoreDefaults.label     "Öntanımlıları geri getir">
+<!ENTITY  restoreDefaults.accesskey "e">
+
+<!ENTITY  columnLabel.name          "İsim">
+<!ENTITY  columnLabel.keyword       "Anahtar kelime">
+<!ENTITY  edit.label                "Anahtar kelime düzenle...">
+<!ENTITY  edit.accesskey            "t">

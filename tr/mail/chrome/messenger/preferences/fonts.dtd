@@ -1,0 +1,83 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "Yazıtipleri ve krakter kodlaması">
+
+<!ENTITY  window.width                             "43em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "43em">
+
+<!ENTITY  language.label                          "Yazıtipleri:">
+<!ENTITY  language.accesskey                      "t">
+
+<!ENTITY typefaces.label "Yazıtipi">
+<!ENTITY  sizes.label                             "Boyut (piksel)">
+<!ENTITY  proportionalSize.accesskey              "e">
+<!ENTITY  monospaceSize.accesskey                 "p">
+
+<!ENTITY proportional.accesskey "O">
+<!ENTITY proportional.label "Orantılı:">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "m">
+
+<!ENTITY fontsize.units "piksel">
+
+<!ENTITY font.langGroup.arabic "Arapça">
+<!ENTITY font.langGroup.baltic "Baltık">
+<!ENTITY font.langGroup.cyrillic "Islavca">
+<!ENTITY font.langGroup.devanagari "Devanagari Dili">
+<!ENTITY font.langGroup.el "Yunanca">
+<!ENTITY font.langGroup.hebrew "İbranice">
+<!ENTITY font.langGroup.japanese "Japonca">
+<!ENTITY font.langGroup.korean "Korece">
+<!ENTITY font.langGroup.latin1 "Batı Avrupa">
+<!ENTITY font.langGroup.latin2 "Orta Avrupa">
+<!ENTITY font.langGroup.simpl-chinese "Basitleştirilmiş Çince">
+<!ENTITY font.langGroup.tamil "Tamil Dili">
+<!ENTITY font.langGroup.thai "Tay Dili">
+<!ENTITY font.langGroup.trad-chinese "Geleneksel Çince">
+<!ENTITY font.langGroup.trad-chinese-hk "Geleneksel Çince (Hong Kong)">
+<!ENTITY font.langGroup.turkish "Türkçe">
+<!ENTITY font.langGroup.unicode "Unikodu">
+<!ENTITY font.langGroup.user-def "Kullanıcı Tanımlı">
+<!ENTITY  font.langGroup.armenian                 "Armenian">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
+<!ENTITY  font.langGroup.georgian                 "Georgian">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+
+<!-- Minimum font size -->
+
+<!ENTITY minSize.accesskey "Z">
+<!ENTITY minSize.label "En küçük yazı boyutu:">
+<!ENTITY minSize.none "Hiçbiri">
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!ENTITY newLanguages.label "Diller paneli kullanılarak yeni diller düzenlenebilir.">
+
+<!ENTITY useDocumentFonts.accesskey "a">
+<!ENTITY useDocumentFonts.label "Mesajların diğer yazıtiplerini kullanmasına izin ver">
+
+<!ENTITY  proportional.label                      "Yazıtipi oranı:">
+<!ENTITY  proportional.accesskey                  "O">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Giden posta:">
+<!ENTITY sendDefaultCharset.accesskey     "d">
+<!ENTITY languagesTitle1.label	    "Karakter kodlaması">
+<!ENTITY composingDescription.label       "Posta alıp gönderirken öntanımlı karakter kodlamasını kullan">
+<!ENTITY viewDefaultCharsetList.label     "Gelen posta:">
+<!ENTITY viewDefaultCharsetList.accesskey	"I">
+
+
+<!ENTITY replyInDefaultCharset2.label      "Yanıtlarda mümkünse öntanımlı karakter kodlamayı kullan">
+<!ENTITY replyInDefaultCharset2.accesskey "Y">
+

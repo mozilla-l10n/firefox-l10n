@@ -1,0 +1,150 @@
+ <!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- LOCALIZATION NOTE This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY event.title.label                  "Öğeyi düzenle" >
+
+<!ENTITY newevent.title.label               "Başlık" >
+<!ENTITY newevent.title.accesskey           "B" >
+<!ENTITY newevent.itemType.event.label      "Olay" >
+<!ENTITY newevent.itemType.todo.label       "İş" >
+<!ENTITY newevent.location.label            "Konum" >
+<!ENTITY newevent.location.accesskey        "K" >
+
+<!-- LOCALIZATION NOTE In the following New Event/Task dialog only sections,
+   - all accesskeys MUST be different. See Bug 357027 Comment #14 for more
+   - details  -->
+<!-- The following entities are for New Event dialog only -->
+<!ENTITY newevent.from.label                "Gönderen" >
+<!ENTITY newevent.from.accesskey            "G" >
+<!ENTITY newevent.to.label                  "Kime" >
+<!ENTITY newevent.to.accesskey              "K" >
+<!ENTITY newevent.alldayevent.label         "Bütün gün" >
+<!ENTITY newevent.alldayevent.accesskey     "ü" >
+
+<!-- The following entities are for New Task dialog only -->
+<!ENTITY newevent.date.label                "Tarih" >
+<!ENTITY newevent.date.accesskey            "a" >
+<!ENTITY newtodo.duedate.label              "Son tarih">
+<!ENTITY newtodo.duedate.accesskey          "T">
+
+<!ENTITY newevent.repeat2.label             "Tekrarlama" >
+<!ENTITY newevent.repeat2.accesskey         "R" >
+<!ENTITY newevent.set.label                 "Set pattern…" >
+<!ENTITY newevent.set.accesskey             "n" >
+
+<!ENTITY newevent.server.label              "Takvim" >
+<!ENTITY newevent.server.accesskey          "T" >
+<!ENTITY newtodo.categories.label           "Kategori">
+<!ENTITY newtodo.categories.accesskey       "o">
+
+<!ENTITY newevent.description.label         "Açıklama" >
+<!ENTITY newevent.description.accesskey     "K" >
+
+<!ENTITY newevent.attendees.label           "Katılanlar" >
+<!ENTITY newevent.attendees.accesskey       "a" >
+<!ENTITY newevent.attendees.sendEmail.label "Katılanları posta yolu ile çağır">
+
+<!ENTITY newevent.privacy.label             "Gizli" >
+<!ENTITY newevent.privacy.accesskey         "G" >
+<!ENTITY newevent.public.label              "Genel" >
+<!ENTITY newevent.private.label             "Özel" >
+<!ENTITY newevent.confidential.label        "Güvenli" >
+
+<!ENTITY newtodo.priority.label             "Önemlilik">
+<!ENTITY newtodo.priority.accesskey         "N">
+<!ENTITY priority.level.none                "Tanımlanmadı">
+<!ENTITY priority.level.none.accesskey      "N">
+<!ENTITY priority.level.low                 "Düşük">
+<!ENTITY priority.level.low.accesskey       "D">
+<!ENTITY priority.level.medium              "Orta">
+<!ENTITY priority.level.medium.accesskey    "R">
+<!ENTITY priority.level.high                "Yüksek">
+<!ENTITY priority.level.high.accesskey      "K">
+
+<!ENTITY newevent.status.label              "Durum" >
+<!ENTITY newevent.status.accesskey          "U" >
+<!ENTITY newevent.status.none.label         "Tanımlanmadı" >
+<!ENTITY newevent.status.cancelled.label    "Vazgeçildi" >
+
+<!-- The following entities are for New Event dialog only -->
+<!ENTITY newevent.status.tentative.label    "Geçici" >
+<!ENTITY newevent.status.confirmed.label    "Onaylandı" >
+
+<!-- The following entities are for New Task dialog only -->
+<!ENTITY newevent.status.needsaction.label  "İşlem gerekli" >
+<!ENTITY newevent.status.inprogress.label   "Hazırlanıyor" >
+<!ENTITY newevent.status.completed.label    "Tamamlandı" >
+
+<!ENTITY newevent.alarm.label               "Alarm" >
+<!ENTITY newevent.alarm.accesskey           "m" >
+<!ENTITY newevent.none.label                "yok" >
+<!ENTITY newevent.15minutes.before.label    "15 dakika önceden" >
+<!ENTITY newevent.30minutes.before.label    "30 dakika önceden" >
+<!ENTITY newevent.custom.label              "Özelleştir…" >
+
+<!ENTITY newevent.uri.label                 "URL" >
+<!ENTITY newevent.uri.accesskey             "U" >
+<!ENTITY newevent.uri.visit.label           "Adrese git" >
+<!ENTITY newevent.uri.visit.accesskey       "D" >
+
+<!-- The following entity is for New Task dialog only -->
+<!ENTITY newtodo.percentcomplete.label      "&#37; tamamlandı">
+
+<!ENTITY calendar.more.label                "Daha fazla">
+<!ENTITY calendar.less.label                "daha küçük">
+
+<!-- Alarm -->
+<!ENTITY alarm.units.minutes                "dakika" >
+<!ENTITY alarm.units.hours                  "saat" >
+<!ENTITY alarm.units.days                   "gün" >
+
+<!ENTITY alarm.start.warning                "Bu alarm için başlangıç tarihi gereklidir" >
+<!ENTITY alarm.due.warning                  "Bu alarm için bitiş tarihi gereklidir" >
+
+<!ENTITY newevent.before.label              "önce" >
+<!ENTITY newevent.after.label               "sonra" >
+
+<!-- Information messages -->
+<!ENTITY newevent.endtime.warning           "Başlangıç tarihiniz bitiş tarihinden sonradır.">
+<!ENTITY newevent.readonly.item.warning     "Bu öğe salt okunur bir takvimin içindedir.  Öğeyi düzenleyemezsiniz.">
+<!ENTITY newevent.readonly.cal.warning      "Bu takvim salt okunurdur.">
+<!ENTITY newtodo.repeatstart.warning        "Tekrarlanan zamanlar için başlangıç tarihi girin.">

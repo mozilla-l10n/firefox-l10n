@@ -1,0 +1,23 @@
+<!ENTITY windowtitle.label      "&brandShortName; - Kullanıcı kimliği seçin">
+
+<!ENTITY profilename.label	"Kimlik adı:">
+
+<!ENTITY start.label	"&brandShortName; uygulamasını başlat">
+<!ENTITY exit.label	"Çık">
+
+<!ENTITY availprofiles.label	"Kullanılabilen kimlikler">
+
+<!ENTITY newButton.label	"Kimlik oluştur...">
+<!ENTITY newButton.accesskey	"O">
+<!ENTITY renameButton.label		"Kimliğin adını değiştir...">
+<!ENTITY renameButton.accesskey	"D">
+<!ENTITY deleteButton.label	"Kimliği sil...">
+<!ENTITY deleteButton.accesskey	"S">
+
+<!ENTITY pmDescription.label	"&brandShortName; ayarlarınız, tercihleriniz ve kullanıcı kimliğinizdeki diğer öğelerle ilgili bilgileri depolar.">
+
+<!ENTITY offlineState.label	"Çevrim dışı çalış">
+<!ENTITY offlineState.accesskey	"E">
+
+<!ENTITY autoSelect.label	"Başlangıçta sorma">
+<!ENTITY autoSelect.accesskey	"b">

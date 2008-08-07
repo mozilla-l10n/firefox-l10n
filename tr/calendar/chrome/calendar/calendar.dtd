@@ -1,0 +1,416 @@
+
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 ArentJan Banck <ajbanck@planet.nl>
+   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- General -->
+<!ENTITY calendar.file.default.name  "Benim Takvimim" >
+<!ENTITY calendar.confirm.deleteallevents  "Bütün olayları silmek istediğinizden emin misiniz??" >
+<!ENTITY calendar.confirm.deleteevent "Bu başlıkdaki olaylar silinsin mi : " >
+<!ENTITY calendar.confirm.deleteuntitledevent "Başlıksız olayları silinsin mi ?" >
+<!ENTITY onthe-text            "Tarih ">
+<!ENTITY last-text             "Son ">
+<!ENTITY ofthemonth-text       " ayında.">
+<!ENTITY calendar.flat.topbar.choosedate       "Tarihe git" >
+<!ENTITY calendar.flat.topbar.dayview          "Günlük göster" >
+<!ENTITY calendar.dayview.accesskey            "G" >
+<!ENTITY calendar.flat.topbar.weekview         "Haftalık göster" >
+<!ENTITY calendar.weekview.accesskey           "H" >
+<!ENTITY calendar.flat.topbar.monthview        "Aylık göster" >
+<!ENTITY calendar.monthview.accesskey          "A" >
+<!ENTITY calendar.flat.topbar.multiweekview    "Çok haftalı" >
+<!ENTITY calendar.multiweekview.accesskey      "o" >
+<!ENTITY calendar.dayView.key                  "1" >
+<!ENTITY calendar.weekView.key                 "2" >
+<!ENTITY calendar.multiweekView.key            "3" >
+<!ENTITY calendar.monthView.key                "4" >
+<!ENTITY calendar.find.key  "F">
+<!ENTITY calendar.newtask.button.tooltip          "Yeni bir görev oluştur" >
+<!ENTITY calendar.newevent.button.tooltip         "Yeni takvim olayı oluştur" >
+<!ENTITY calendar.delete.button.tooltip           "Seçili olayları sil" >
+<!ENTITY calendar.edit.button.tooltip             "Seçili olayları düzenle" >
+<!ENTITY calendar.unifinder.todoitems.label       "Görevler" >
+<!ENTITY calendar.unifinder.hidecompletedtodos.label "Tamamlanan görevleri sakla">
+<!ENTITY calendar.calendartab.label "Takvim">
+<!ENTITY calendar.listofcalendarstab.label "Takvim Listesi">
+
+<!ENTITY calendar.events.filter.all.label "Bütün olaylar">
+<!ENTITY calendar.events.filter.today.label "Bugünkü olaylar">
+<!ENTITY calendar.events.filter.future.label "Gelecekdeki bütün olaylar">
+<!ENTITY calendar.events.filter.current.label "Güncel seçili gün">
+<!ENTITY calendar.events.filter.next7Days.label "İlerki 7 gündeki olaylar">
+<!ENTITY calendar.events.filter.next14Days.label "İlerki 14 gündeki olaylar">
+<!ENTITY calendar.events.filter.next31Days.label "İlerki 31 gün içindeki olaylar">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Bu aydaki olaylar">
+<!ENTITY calendar.unifinder.tree.done.label          "Tamamlandı">
+<!ENTITY calendar.unifinder.tree.priority.label      "Önemlilik">
+<!ENTITY calendar.unifinder.tree.title.label         "Başlık">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#037; Tamam">
+<!ENTITY calendar.unifinder.tree.startdate.label     "Başlangıç">
+<!ENTITY calendar.unifinder.tree.enddate.label       "Bitiş">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Uyan">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Tamamlandı">
+<!ENTITY calendar.unifinder.tree.categories.label    "Kategoriler">
+<!ENTITY calendar.unifinder.tree.location.label    "Konum">
+<!ENTITY calendar.unifinder.tree.status.label    "Durum">
+<!ENTITY calendar.unifinder.tree.calendarname.label    "Takvim İsmi">
+
+<!ENTITY calendar.choosedate.button.tooltip       "Gidilecek tarihi seçin" >
+
+
+
+<!ENTITY calendar.nextday.button.tooltip        "Sonraki gün" >
+<!ENTITY calendar.prevday.button.tooltip        "Önceki gün" >
+<!ENTITY calendar.nextweek.button.tooltip       "Sonraki hafta" >
+<!ENTITY calendar.prevweek.button.tooltip       "Önceki hafta" >
+<!ENTITY calendar.nextmonth.button.tooltip      "Sonraki ay" >
+<!ENTITY calendar.prevmonth.button.tooltip      "Önceki ay" >
+
+<!ENTITY calendar.newtask.button.label          "Yeni görev" >
+<!ENTITY calendar.newevent.button.label         "Yeni olay" >
+<!ENTITY calendar.delete.button.label           "Sil" >
+<!ENTITY calendar.edit.button.label             "Düzenle" >
+
+<!ENTITY calendar.choosedate.button.label       "Tarih seç" >
+
+<!ENTITY calendar.cut.button.tooltip            "Kes" >
+<!ENTITY calendar.copy.button.tooltip           "Kopyala" >
+<!ENTITY calendar.paste.button.tooltip          "Ekle" >
+<!ENTITY calendar.print.button.tooltip          "Takvimi yazdır" >
+
+<!ENTITY calendar.cut.button.label              "Kes" >
+<!ENTITY calendar.copy.button.label             "Kopyala" >
+<!ENTITY calendar.paste.button.label            "Ekle" >
+<!ENTITY calendar.print.button.label            "Yazdır" >
+
+<!ENTITY calendar.import.button.tooltip            "Olayları yerel bir dosyadan içe aktar." >
+<!ENTITY calendar.export.button.tooltip            "Olayları yerel bir dosyaya aktar." >
+<!ENTITY calendar.subscribe.button.tooltip         "Uzak bir makinadaki takvim dosyasına kaydol." >
+<!ENTITY calendar.publish.button.tooltip            "Uzak bir bilgisayardaki olayları yayınla." >
+
+<!ENTITY calendar.import.button.label              "İçe aktar" >
+<!ENTITY calendar.export.button.label              "Dışa aktar" >
+<!ENTITY calendar.subscribe.button.label           "Kaydol" >
+<!ENTITY calendar.publish.button.label             "Yayınla" >
+
+<!ENTITY calendar.localreload.button.label   "Yerel takvimleri tekrar yükle" >
+<!ENTITY calendar.localreload.button.tooltip  "Bütün yerel takvimleri tekrar yükle" >
+<!ENTITY calendar.remotereload.button.label   "Tekrar Yükle" >
+<!ENTITY calendar.remotereload.button.tooltip   "Uzaktaki takvimleri tekrar yükle" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Sadece Pazartesi-Cuma" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "S" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Görünümdeki görevler" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "n" >
+<!ENTITY calendar.search.options.searchfor " içeriyorsa">
+<!ENTITY calendar.menu.numberofweeks.label     "Hafta sayısı" >
+<!ENTITY calendar.menu.numberofweeks.accesskey "H" >
+<!ENTITY calendar.menu.numberofweeks.2      "2 Hafta" >
+<!ENTITY calendar.menu.numberofweeks.3      "3 Hafta" >
+<!ENTITY calendar.menu.numberofweeks.4      "4 Hafta" >
+<!ENTITY calendar.menu.numberofweeks.5      "5 Hafta" >
+<!ENTITY calendar.menu.numberofweeks.6      "6 Hafta" >
+<!ENTITY calendar.menu.options.close.key        "W">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label            "Belge: Tamamlandı">
+
+<!-- customizable toolbars -->
+<!ENTITY calendar.context.customize.label             "Uydur">
+<!ENTITY calendar.context.customize.accesskey         "U">
+<!ENTITY calendar.menu.customize.label                "Sembol çubuğu uydur">
+<!ENTITY calendar.menu.customize.accesskey            "L">
+<!ENTITY calendar.maintoolbar.name                    "Araç çubuğu">
+<!ENTITY calendar.maintoolbar.accesskey               "H">
+
+<!-- Context Menu -->
+<!ENTITY calendar.context.newevent.label              "Yeni olay">
+<!ENTITY calendar.context.newevent.accesskey          "o">
+<!ENTITY calendar.context.newtodo.label               "Yeni görev">
+<!ENTITY calendar.context.newtodo.accesskey           "y">
+<!ENTITY calendar.context.modifyevent.label           "Seçili olayı düzenle">
+<!ENTITY calendar.context.modifyevent.accesskey       "e">
+<!ENTITY calendar.context.modifytask.label            "Görev düzenle">
+<!ENTITY calendar.context.modifytask.accesskey        "e">
+<!ENTITY calendar.context.deleteevent.label           "İşaretli olayı sil">
+<!ENTITY calendar.context.deleteevent.accesskey       "o">
+<!ENTITY calendar.context.deletetask.label            "Görevi sil">
+<!ENTITY calendar.context.deletetask.accesskey        "l">
+<!ENTITY calendar.context.cutevent.label              "Kes">
+<!ENTITY calendar.context.cutevent.accesskey          "s">
+<!ENTITY calendar.context.copyevent.label             "Kopyala">
+<!ENTITY calendar.context.copyevent.accesskey         "k">
+<!ENTITY calendar.context.pasteevent.label            "Yapıştır">
+<!ENTITY calendar.context.pasteevent.accesskey        "p">
+<!ENTITY calendar.context.selectall.label             "Hepsini seç">
+<!ENTITY calendar.context.selectall.accesskey         "p">
+<!ENTITY calendar.context.gototoday.label             "Bugüne git">
+<!ENTITY calendar.context.gototoday.accesskey         "g">
+
+<!ENTITY calendar.context.emailevent.label            "Seçili olay(lar)ı postala">
+<!ENTITY calendar.context.emailevent.accesskey        "i">
+
+<!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "İlerleme">
+<!ENTITY calendar.context.progress.accesskey          "l">
+<!ENTITY calendar.context.priority.label              "Önemlilik">
+<!ENTITY calendar.context.priority.accesskey          "n">
+
+<!ENTITY percnt "&#037;" ><!--=percent sign-->
+
+<!ENTITY progress.level.0             "0&percnt;">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25&percnt;">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50&percnt;">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "75&percnt;">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "100&percnt;">
+<!ENTITY progress.level.100.accesskey  "1">
+
+<!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Yeni takvim">
+<!ENTITY calendar.context.newserver.accesskey          "m">
+<!ENTITY calendar.context.deleteserver.label           "Takvimleri silr">
+<!ENTITY calendar.context.deleteserver.accesskey       "l">
+<!ENTITY calendar.context.reloadserver.label           "Uzaktaki takvimleri tazele">
+<!ENTITY calendar.context.reloadserver.accesskey       "e">
+<!ENTITY calendar.context.publish.label                "Bütün Takvimi yayınla">
+<!ENTITY calendar.context.publish.accesskey            "T">
+
+<!ENTITY calendar.server.dialog.title.edit          "Takvim düzenle">
+<!ENTITY calendar.server.dialog.name.label          "İsim">
+
+<!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Takvim yayınla">
+<!ENTITY calendar.publish.url.label                 "URL yayınla">
+<!ENTITY calendar.publish.publish.button      "Yayınla">
+<!ENTITY calendar.publish.close.button      "Kapat">
+<!ENTITY calendar.publish.example.url.description   "Örnek:  http://www.myserver.com/webdav/test.ics">
+
+
+<!-- Calendar Import Outlook CSV Dialog -->
+<!-- TRANSLATORS: all outlook*.label -fields should be translated word to word (or if possible
+                  copied from outlook csv file headers -->
+<!ENTITY calendar.importoutlook.dialog.title "Outlook-CSV-İçe aktarma" >
+<!ENTITY calendar.importoutlook.mapconcepts.label "Lütfen aşağıdaki takvim reçetesini Outlook-CSV ile bağlayın:" >
+<!ENTITY calendar.importoutlook.outlooksubject.label "Konu" >
+<!ENTITY calendar.importoutlook.outlookstartdate.label "Baş. Tarihi" >
+<!ENTITY calendar.importoutlook.outlookstarttime.label "Baş. Saati" >
+<!ENTITY calendar.importoutlook.outlookenddate.label "Bitiş tarihi" >
+<!ENTITY calendar.importoutlook.outlookendtime.label "Bitiş saati" >
+<!ENTITY calendar.importoutlook.outlooklocation.label "Yer" >
+<!ENTITY calendar.importoutlook.outlookdescription.label "Tanım" >
+<!ENTITY calendar.importoutlook.outlookallday.label "Bütün gün olayları" >
+<!ENTITY calendar.importoutlook.outlookprivate.label "zel" >
+<!ENTITY calendar.importoutlook.outlookalarm.label "Alarm aç/kapat" >
+<!ENTITY calendar.importoutlook.outlookalarmdate.label "Alarm tarihi" >
+<!ENTITY calendar.importoutlook.outlookalarmtime.label "Alarm saati" >
+<!ENTITY calendar.importoutlook.outlookcategories.label "Kategoriler" >
+<!ENTITY calendar.importoutlook.selectmeaning.label "Aşağıdaki kelimelerin anlamlarını seçin:" >
+<!ENTITY calendar.importoutlook.true.label "Doğru" >
+<!ENTITY calendar.importoutlook.false.label "Yanlış" >
+
+<!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Bir Takvimi yazdır">
+<!ENTITY calendar.print.layout.label "Düzen:">
+<!ENTITY calendar.print.range.label "Ne yazdırılacak">
+<!ENTITY calendar.print.currentview.label "Güncel görünümdeki olaylar">
+<!ENTITY calendar.print.selected.label "Seçili olaylar">
+<!ENTITY calendar.print.custom.label "Özel tarih arası:">
+<!ENTITY calendar.print.from.label "Burdan:">
+<!ENTITY calendar.print.to.label "Buraya:">
+<!ENTITY calendar.print.settingsGroup.label "Yazdırma ayarları">
+<!ENTITY calendar.print.title.label "Başlık:">
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+
+<!ENTITY calendar.import.calendar                "İçe aktar…" >
+<!ENTITY calendar.export.calendar                "Takvimi dışa aktar…" >
+<!ENTITY calendar.context.modifyitem.label            "Öğeyi düzenle">
+<!ENTITY calendar.context.modifyitem.accesskey        "E">
+<!ENTITY calendar.context.deleteitem.label            "Öğeyi sil">
+<!ENTITY calendar.context.deleteitem.accesskey        "l">
+<!ENTITY calendar.context.properties.label             "Özellikler">
+<!ENTITY calendar.context.properties.accesskey         "K">
+
+<!ENTITY calendar.alarm.title.label                "Takvim alarm" >
+<!ENTITY calendar.alarm.dismiss.label               "Vazgeç" >
+<!ENTITY calendar.alarm.dismissall.label            "Tümünden vazgeç" >
+
+<!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label    "Renk:">
+<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label   "CalDAV">
+<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label   "Biçem:">
+<!ENTITY calendarproperties.location.label "Konum:">
+<!ENTITY calendarproperties.name.label     "Adı:">
+<!ENTITY calendarproperties.readonly.label "Salt okunur">
+<!ENTITY calendarproperties.cache.label    "Önbellek (Deneme aşamasında, tekrar başlatılması gerekli)">
+
+<!ENTITY calendar.context.export.label                 "Takvimi dışa aktar…">
+<!ENTITY calendar.context.export.accesskey             "a">
+
+<!-- Sunbird Help -->
+<!ENTITY calendar.help.label               "Yardım içeriği">
+
+<!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Takvim seç">
+
+<!-- Error reporting -->
+<!ENTITY calendar.error.detail "Detaylar...">
+<!ENTITY calendar.error.number "Hata numarası:">
+<!ENTITY calendar.error.description "Açıklama:">
+<!ENTITY calendar.error.title "Bir hata oluştur">
+
+<!ENTITY calendar.today.button.label       "Bugün" >
+<!ENTITY calendar.today.button.tooltip            "Bugüne git" >
+<!ENTITY calendar.day.button.tooltip            "Günlük gösterime geç" >
+<!ENTITY calendar.week.button.tooltip           "Haftalık gösterime geç" >
+<!ENTITY calendar.month.button.tooltip          "Aylık gösterime geç" >
+<!ENTITY calendar.multiweek.button.tooltip      "Çok haftalı gösterme geç" >
+<!ENTITY calendar.day.button.label              "Gün" >
+<!ENTITY calendar.week.button.label             "Hafta" >
+<!ENTITY calendar.month.button.label            "Ay" >
+<!ENTITY calendar.multiweek.button.label        "Çok haftalı" >
+
+<!ENTITY calendar.todaypane.button.tooltip        "Bugün panelini göster" >
+<!ENTITY calendar.orientation.label "Görünümü döndür" >
+<!ENTITY calendar.orientation.accesskey "ö" >
+
+<!ENTITY calendar.context.button.label                "Bugün paneli" >
+
+<!ENTITY calendar.task.edit.instructions.label "Yeni bir görev eklemek için buraya tıklayın">
+<!ENTITY calendar.task.details.title.label     "Başlık:">
+
+
+<!ENTITY calendar.alarm.location.label              "Konum:" >
+<!ENTITY calendar.alarm.details.label               "Detaylar…" >
+
+<!ENTITY calendar.alarm.snoozefor.label             "Bunlar için yeniden hatırlatma" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Hepsi için yeniden anımsatma" >
+
+<!-- In case your language needs a different word order, this entity can be used
+     to add words to the end of the "Snooze all for XXX minutes" line -->
+<!ENTITY calendar.alarm.snoozeall.suffix.label      "">
+
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 dakika" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 dakika" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 dakika" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 dakika" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 dakika" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 Saat" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 Saat" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 Gün" >
+
+<!ENTITY calendar.tomorrow.button.label       "Yarın">
+<!ENTITY calendar.nextweek.button.label       "Sonraki hafta">
+
+<!ENTITY calendar.unifinder.button.tooltip        "Olayları arama ve listeleme" >
+<!ENTITY calendar.unifinder.button.label           "Olayları ara" >
+<!ENTITY calendar.context.findcalendar.label           "Takvim ara" >
+<!ENTITY calendar.context.findcalendar.accesskey       "T" >
+
+<!ENTITY calendar.calendar.label     "Takvim">
+<!ENTITY calendar.calendar.accesskey "CT">
+<!ENTITY calendar.thisweek.button.label       "Bu hafta">
+<!ENTITY calendar.task.filter.title.label           "Göster">
+<!ENTITY calendar.task.filter.all.label             "Hepsini">
+<!ENTITY calendar.task.filter.all.accesskey         "H">
+<!ENTITY calendar.task.filter.today.label           "Bugünü">
+<!ENTITY calendar.task.filter.today.accesskey       "B">
+<!ENTITY calendar.task.filter.next7days.label       "Sonraki 7 günü">
+<!ENTITY calendar.task.filter.next7days.accesskey   "N">
+<!ENTITY calendar.task.filter.notstarted.label      "Başlamayan görevler">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.overdue.label         "Süresi geçen görevler">
+<!ENTITY calendar.task.filter.overdue.accesskey     "R">
+<!ENTITY calendar.task.filter.completed.label       "Tamamlanan görevler">
+<!ENTITY calendar.task.filter.completed.accesskey   "M">
+<!ENTITY calendar.task.details.title.label           "Başlık:">
+<!ENTITY calendar.task.details.entrydate.label       "Başlangıç tarihi:">
+<!ENTITY calendar.task.details.duedate.label         "Bitiş tarihi:">
+<!ENTITY calendar.task.details.organizer.label       "Gönderen:">
+<!ENTITY calendar.task.details.priority.label        "Önemlilik derecesi:">
+<!ENTITY calendar.task.details.priority.low.label    "Düşük">
+<!ENTITY calendar.task.details.priority.normal.label "Normal">
+<!ENTITY calendar.task.details.priority.high.label   "Yüksek">
+<!ENTITY calendar.task.details.status.label          "Durumu:">
+<!ENTITY calendar.task.details.category.label        "Kategorisi:">
+<!ENTITY calendar.task.details.repeat.label          "Tekrarlama:">
+<!ENTITY calendar.context.markcompleted.label     "Tamamlanmış olarak işaretle">
+<!ENTITY calendar.context.markcompleted.accesskey "o">
+<!ENTITY calendar.context.convert.label                "Buna çevir:">
+<!ENTITY calendar.context.convert.accesskey            "n">
+<!ENTITY calendar.context.converttoevent.label         "Olay">
+<!ENTITY calendar.context.converttoevent.accesskey     "E">
+<!ENTITY calendar.context.converttomessage.label       "Mesaj">
+<!ENTITY calendar.context.converttomessage.accesskey   "M">
+<!ENTITY calendar.tasks.view.minimonth.label           "Küçük ay">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "A">
+<!ENTITY calendar.tasks.view.calendarlist.label        "Takvim listesi">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
+<!ENTITY calendar.tasks.view.sorttasks.label           "Görevleri sırala">
+<!ENTITY calendar.tasks.view.sorttasks.accesskey       "S">
+<!ENTITY calendarproperties.firealarms.label "Uyarıları göster">
+
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Biten görevleri göster">
+<!ENTITY calendar.completedtasks.checkbox.label     "Biten görevleri göster" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "B" >
+<!ENTITY calendar.list.header.label                 "Takvim">
+<!ENTITY calendar.task.category.button.tooltip  "Görevleri kategorileştir">
+<!ENTITY calendar.task.complete.button.tooltip  "Tamamlanan görevleri işaretle">
+<!ENTITY calendar.task.priority.button.tooltip  "Öncelik sıralamasını değiştir">
+<!ENTITY calendar.task.delete.button.tooltip    "Seçili görevleri sil">
+<!ENTITY calendar.context.category.label              "Yeni kategori...">
+<!ENTITY calendar.context.category.accesskey          "Y">
+<!ENTITY progress.notstarted           "Başlamadı">
+<!ENTITY progress.notstarted.accesskey "B">
+<!ENTITY calendar.context.showtasksof.label            "Gösterilecek görevler: ">
+<!ENTITY calendar.context.showtasksof.accesskey        "S">
+<!ENTITY calendar.context.showeventsof.label           "Gösterilecek olaylar">
+<!ENTITY calendar.context.showeventsof.accesskey       "S">
+<!ENTITY calendar.soon.button.label           "Yakın zamanda">

@@ -1,0 +1,59 @@
+<!ENTITY itemJunk.label          "Gereksiz">
+
+<!ENTITY itemPhishing.label      "Yemleme">
+<!ENTITY itemPasswords.label     "Parolalar">
+<!ENTITY itemAntiVirus.label     "Antivirüs">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "&brandShortName; tüm hesaplarınızın parola bilgilerini anımsayabilir. Böylelikle giriş yapmaya ilişkin ayrıntıları bir daha girmek zorunda kalmazsınız.">
+<!ENTITY  encryptEnabled.label        "Saklı parolaları şifrelemek için ana parolayı kullan">
+<!ENTITY  encryptEnabled.accesskey    "s">
+<!ENTITY  masterPassword.intro        "Ayarlanması durumunda, ana parola hesaplarınızın parolalarını korur. Ancak ana parolayı her oturumda girmeniz gerekir.">
+<!ENTITY  setMasterPassword.label     "Ana Parola">
+<!ENTITY  setMasterPassword.accesskey "P">
+<!ENTITY  removeMasterPassword.label  "Ana Parolayı Kaldır...">
+<!ENTITY  removeMasterPassword.accesskey "R">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; gelen postalarınızın yerel diske kaydedilmeden önce virüs taramasından geçirilmesini kolaylaştırır.">
+<!ENTITY antiVirus.label      "Anti virüs istemcilerinin belirli iletileri diğerlerinden uzak tutmasına izin ver.">
+<!ENTITY antiVirus.accesskey  "l">
+
+
+<!ENTITY junkMail.intro "Hesaplarınıza özel gereksiz posta ayarlarını uygulamak için hesap ayarlarınıza gidiniz.">
+<!ENTITY manualMark.label "Eğer bir mesaj &quot;Gereksiz Posta&quot; olarak seçilirse (kendiniz işaretlerseniz)">
+<!ENTITY manualMark.accesskey "E">
+<!ENTITY manualMarkModeMove.label "Hemen &quot;Gereksiz Posta&quot; dizinine taşı">
+<!ENTITY manualMarkModeMove.accesskey "o">
+
+<!ENTITY manualMarkModeDelete.label "Hemen postayı sil">
+<!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY enableJunkLogging.label "Gereksiz posta süzgeç günlüğünü etkinleştir">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "Günlüğü göster">
+<!ENTITY openJunkLog.accesskey "L">
+<!ENTITY resetTrainingData.label "Öğrenme verilerini sıfırla">
+<!ENTITY resetTrainingData.accesskey "V">
+<!ENTITY  editPasswords.label         "Kayıtlı parolaları düzenle">
+<!ENTITY  editPasswords.accesskey     "d">
+
+<!ENTITY antiVirusCaption.label "Anti virus">
+<!ENTITY paswords.label         "Parolalar">
+<!ENTITY emailScams.label       "E-posta düzmeceleri">
+<!ENTITY junkMail.label         "Gereksiz posta">
+<!ENTITY itemJunkMail.label     "Gereksiz posta">
+<!ENTITY itemIntrusions.label   "Zorla girişler">
+<!ENTITY itemIntrusionsAndPasswords.label  "Zorla girişler ve Parolalar">
+
+
+<!ENTITY markAsReadOnSpam.label "Gereksiz olarak sınıflandırılan iletileri okunmuş olarak işaretle">
+<!ENTITY markAsReadOnSpam.accesskey "k">
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro      "&brandShortName; sizi kandırma amacıyla yaygın olarak kullanılan teknikleri arayarak iletileri olası e-posta ile dolandırmacılık girişimlerine karşı çözümleyebilir.">
+<!ENTITY enablePhishingDetector1.label    "Okuduğum ileti düzmece olma şüphesi taşıyan bir e-postaysa bana söyle">
+<!ENTITY enablePhishingDetector1.accesskey  "P">
+
+<!ENTITY useDownloadedList.label "Düzmece olma süphesi taşıyan e-postaların indirilen listesini kullan">
+<!ENTITY useDownloadedList.accesskey "D">
+
+

@@ -1,0 +1,9 @@
+<!ENTITY description.accesskey "K">
+<!ENTITY description.label "Aşağıdaki dizinin içinde oluştur:">
+<!ENTITY folderRestriction1.label "Bu sunucu dizinleri iki biçimde kısıtlar.">
+<!ENTITY folderRestriction2.label "Yeni Dizin aşağıdakileri içerebilir:">
+<!ENTITY foldersOnly.label "Sadece dizinler">
+<!ENTITY messagesOnly.label "Sadece postalar">
+<!ENTITY name.accesskey "D">
+<!ENTITY name.label "Dizin ismi:">
+<!ENTITY newFolderDialog.title "Yeni dosya">

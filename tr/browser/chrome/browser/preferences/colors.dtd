@@ -1,0 +1,22 @@
+<!ENTITY  colorsDialog.title              "Renkler">
+<!ENTITY window.width                     "42em">
+<!ENTITY  window.macWidth                 "42em">
+
+<!ENTITY  allowPagesToUse.label           "Seçtiklerim dışında internet sayfalarının kendi renklerini kullanmasına izin ver.">
+<!ENTITY  allowPagesToUse.accesskey       "d">
+
+<!ENTITY  color                           "Metin ve Arkaplan">
+<!ENTITY  textColor.label                 "Metin:">
+<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  backgroundColor.label           "Arkaplan:">
+<!ENTITY  backgroundColor.accesskey       "p">
+<!ENTITY  useSystemColors.label           "Sistem renklerini kullan">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "Bağlantıların altını çiz">
+<!ENTITY  underlineLinks.accesskey        "i">
+<!ENTITY  links                           "Bağlantı Renkleri">
+<!ENTITY  linkColor.label                 "Ziyaret edilmemiş bağlantılar:">
+<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  visitedLinkColor.label          "Ziyaret edilmiş bağlantılar:">
+<!ENTITY  visitedLinkColor.accesskey      "z">

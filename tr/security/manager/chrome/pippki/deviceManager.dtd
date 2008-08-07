@@ -1,0 +1,41 @@
+<!ENTITY devmgr.button.changepw.label "Parola değiştir">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
+
+<!ENTITY devmgr.button.changeslotname.label "Yuva adını değiştir">
+<!ENTITY devmgr.button.changeslotname.accesskey "Y">
+
+<!ENTITY devmgr.button.load.label "Yükle">
+<!ENTITY devmgr.button.load.accesskey           "L">
+
+
+<!ENTITY devmgr.button.login.label "Giriş yap">
+<!ENTITY devmgr.button.login.accesskey          "p">
+
+<!ENTITY devmgr.button.logout.label "Oturumu kapat">
+<!ENTITY devmgr.button.logout.accesskey         "O">
+
+<!ENTITY devmgr.button.unload.label "Boşalt">
+<!ENTITY devmgr.button.unload.accesskey         "B">
+
+<!ENTITY devmgr.details.title "Ayrıntılar">
+<!ENTITY devmgr.details.title2 "Değer">
+<!ENTITY devmgr.devlist.label "Güvenlik Parçaları ve Aygıtları">
+<!ENTITY devmgr.status.label "Durum">
+<!ENTITY devmgr.title "Aygıt Yöneticisi">
+<!ENTITY devmgr.version.label "Sürüm">
+
+<!ENTITY loaddevice.browse "Gözat...">
+<!ENTITY loaddevice.browse.accesskey            "G">
+
+<!ENTITY loaddevice.filename "Modul dosyası:">
+<!ENTITY loaddevice.filename.accesskey          "D">
+
+<!ENTITY loaddevice.info "Eklemek istedeginiz modulle ilgili bilgileri girin.">
+
+<!ENTITY loaddevice.modname "Modul Adı:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+
+<!ENTITY loaddevice.modname.default "Yeni PKCS#11 Modulu">
+<!ENTITY loaddevice.title "PKCS#11 Aygıtını Yükle">
+
+<!ENTITY devmgr.button.fips.accesskey           "F">

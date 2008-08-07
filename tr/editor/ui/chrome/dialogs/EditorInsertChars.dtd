@@ -1,0 +1,13 @@
+<!ENTITY accentLower.label "Vurgulu küçük harf ">
+<!ENTITY accentUpper.label "Vurgulu büyük harf">
+<!ENTITY category.label "Kategori">
+<!ENTITY character.accessKey "K">
+<!ENTITY character.label "Karakter:">
+<!ENTITY commonSymbols.label "Genel semboller">
+<!ENTITY letter.accessKey "H">
+<!ENTITY letter.label "Harf:">
+<!ENTITY otherLower.label "Diğer küçük harf">
+<!ENTITY otherUpper.label "Diğer büyük harf">
+<!ENTITY windowTitle.label "Karakter ekle">
+<!ENTITY insertButton.label "Ekle">
+<!ENTITY closeButton.label "Kapat">

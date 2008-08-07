@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Çerez Yönetimi</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Çerez Yönetimi</h1>
+
+<p>Bu belge çerezlerin ne olduğu, nasıl kullanıldıkları ve bilgisayarınızda &brandFullName; Çerez Yöneticisi tarafından tutulan çerezlerin nasıl denetlenebileceği konularında açıklamalar içermektedir.</p>
+
+<div class="contentsBox">Bölüm içeriği:
+  <ul>
+    <li><a href="#what_is_a_cookie">Çerez Nedir?</a></li>
+    <li><a href="#setting_up_cookie_rules">Çerez Kuralı Koyma</a></li>
+    <li><a href="#accepting_and_blocking_cookies">Çerezlerin Kabulü ve Reddi</a></li>
+    <li><a href="#cookies_exceptions">Çerez Ayrıcalık Penceresi</a></li>
+    <li><a href="#view_cookies">Çerez Penceresi</a></li>
+  </ul>
+</div>
+
+<h2 id="what_is_a_cookie">Çerez Nedir?</h2>
+
+<p>Çerez, herhangi bir internet sitesi tarafından bilgisayarınıza bırakılan bir dosyadır. Bu çerez dosyalarında oturum bilgileri ve benzeri veriler saklanır. Çerez kullanan bir siteyi ziyaret ettiğinizde, bu site &brandShortName; tarayıcınıza sabit diskinize bir ya da birden fazla çerez bırakma konusunda talep gönderebilir.</p>
+
+<p>Ardından, siz bu siteye geri döndüğünüzde, &brandShortName; bırakılan çerezi ait olduğu bu siteye geri gönderir. Bu, sitenin ihtiyaçlarınızı karşılamak üzere yapmış olduğunuz ayarlar doğrultusunda gösterilmesini sağlar.</p>
+
+<p>Ayrıca çerezler, kişiyi tanımlamada kullanılabilecek bilgiler de içerebilir. Bu tür bilgiler kim olduğunuzun belirlenmesinde ya da sizle temasa geçmek için kullanılabilir. Bu bilgiler arasında adınız, e-posta adresiniz, ev ve iş adresleriniz ya da telefon numaranız bulunabilir. Ancak, bir sitenin ulaşabileceği bilgiler sizin ona sunduklarınızla sınırlıdır. Örneğin bir site, siz ona bildirmedikçe elektronik posta adresinizin ne olduğunu bilemez. Öte yandan hiçbir site bilgisayarınızda bulunan diğer bilgilere ulaşamaz.</p>
+
+<p>Öntanımlı çerez ayarlarını kullandığınızda çerez alış verişi sizin farkedemeyeceğiniz şekilde gerçekleşir; bir sitenin çerez bırakması ya da &brandShortName; tarayıcınızın çerezi geri gönderdiğini görmezsiniz. Ancak çerezlerle ilgili düzenleme yaparak çerezlerin bırakılmasından haberdar olabilirsiniz.</p>
+
+<h2 id="setting_up_cookie_rules">Çerez Kuralı Koyma</h2>
+
+<p>&brandShortName; öntanımlı olarak bütün çerezleri kabul eder. Buna sizi sürekli olarak farkedecek çerezler dahildir. Bu size uymazsa, çerezlerin &brandShortName; kapatıldığında &brandShortName; tarafından silinmesi yolunu seçebilirsiniz.</p>
+
+<ol>
+  <li>&pref.menuPath; yolunu izleyin.</li>
+  <li><em>Gizlilik</em> bölümündeki <em>Çerezler</em> sekmesine tıklayın.</li>
+  <li><em>Çerez kabul yöntemi</em> açılır menüsünden <em>&brandShortName; kapatılana kadar</em> seçeneğini seçin.</li>
+</ol>
+
+<p>Güvendiğiniz sitelere, örneğin otomatik olarak oturum açmasına olanak sağlamak üzere, sürekli çerez bırakma yetkisi verebilirsiniz. Bunun için <a href="#cookies_exceptions"><em>Ayrıcalıklar</em></a> düğmesine basın, site adresini girin ve <em>İzin ver</em> düğmesine basın.</p>
+
+<h3 id="all_the_settings">Tüm Ayarlar</h3>
+
+<p>Bunlar &brandShortName; uygulamasının çerez kontrolünü etkileyen seçeneklerdir:</p>
+
+<dl>
+  <dt>Sitelerin çerez bırakmasına izin ver</dt>
+  <dd><p>Hiçbir sitenin bilgisayarınıza çerez bırakmasını istemiyorsanız bu seçeneği işaretlemeyin. Kimi sitelerin çerezler devre dışıyken düzgün işlemeyeceğini unutmayın. Belirli sitelere çerez bırakma izni vermek istiyorsanız <em>Ayrıcalıklar</em> düğmesine basark <a href="#cookies_exceptions">çerez ayrıcalık penceresini</a> açın. Daha sonra site adresini girip <em>İzin ver</em> ya da <em>Oturum boyunca izin ver</em> düğmesine basın.</p></dd>
+  <dt>üçüncü kişilerin çerez bırakmasını engelle</dt>
+  <dd>
+    <p>&brandShortName; bir sitenin çerezini tuttuğunda, o çerezi yine aynı siteye gönderecektir. &brandShortName; diğer sitelerin bu çereze erişmelerini ise engeller. Bir site sadece kendi çerezlerine erişip okuyabileceğinden, sadece kendisi ziyaret edilirken ortaya konan etkinlikler hakkında fikir sahibi olabilir; genel olarak internette ne yaptığınızı ise öğrenemez.</p>
+    <p>Ancak kimi sitelerde, diğer sitelerde (üçüncü kişiler) barındırılan öğeler bulunur. Bu, herhangi bir resim, metin parçası ya da reklam olabilir. Her ne kadar doğrudan onu ziyaret etmiyor olsanız bile, bu öğeyi bünyesinde barındıran sunucu &brandShortName; üzerinden bilgisayarınıza çerez bırakabilir.</p>
+    <p>Bir siteyi ziyaret ederken başka bir site tarafından bırakılan çerezler "üçüncü kişilere ait çerezler" ya da "yabancı çerezler" olarak adlandırılır. Siteler kimi zaman saydam GIF resimleri aracılığıyla bilgisayarınıza bu tür "yabancı çerezler" bırakabilir. Bu resimler ziyaretçi adedini sayma, e-posta yanıtlarını izleme, ziyaretçinin site içi davranışları hakkında daha fazla bilgi edinme ve tarama deneyiminizi size göre uyarlama amacıyla kullanılabilir. (Saydam GIF'ler "web işaretçisi" ya da "web paraziti" olarak da bilinir.) Bu seçenek işaretliyse üçüncü kişilerce bırakılabilecek yabancı çerezlerin önü kesilmiş olur.</p>
+  </dd>
+  <dt>silerek engellediklerim dışındakilere izin ver</dt>
+  <dd><p>Bu seçenek işaretliyken <em>Çerezler</em> penceresinde yer alan bir çerezi silerseniz, &brandShortName; bu çerezi bırakan sitenin bir daha çerez bırakmasına izin vermez. Yani silinen çerezin sahibi olan site engellenir.</p></dd>
+  <dt>Çerez kabul yöntemi:</dt>
+  <dd>
+  <ul>
+    <li><strong>Süreleri dolana kadar tut</strong>: Bu seçiliyse çerez belirtilen yaşam süresinin sonunda tamamen silinir.</li>
+    <li><strong>&brandShortName; kapatılana kadar tut</strong>: Bu seçiliyse çerezlere ilişkin tüm bilgiler &brandShortName; yeniden başlatıldığında silinir. Çerez kullanımı gerektiren siteler hâlâ olması gerektiği gibi çalışacaktır. Ancak, &brandShortName; uygulamasının yeniden başlatılması durumunda, site size sanki onu ilk kez ziyaret ediyormuşsunuz gibi muamele eder.</li>
+    <li><strong>Her zaman bana sor</strong>: Bu seçiliyse &brandShortName; ziyaret edilmekte olan ve çerez bırakmak isteyen sitenin talebini kabul edip etmediğinizi sorar.</li>
+  </ul>
+  </dd>
+</dl>
+
+<h2 id="accepting_and_blocking_cookies">Çerezlerin Kabulü ve Reddi</h2>
+
+<p><em>Çerez kabul yöntemi</em> seçeneklerinden <em>Her zaman bana sor</em> seçeneğini tercih ettiyseniz, herhangi bir site bilgisayarınızda çerez bırakmaya çalıştığında aşağıdaki seçeneklerle karşılaşacaksınız:</p>
+
+<dl>
+  <dt>İzin ver</dt>
+  <dd>Çereze izin vermek için <em>İzin ver</em> düğmesine basın. Siteye güveniyorsanız bu yolu takip edin.</dd>
+  <dt>Oturum için kabul et</dt>
+  <dd>Çereze izin vermek, ancak &brandShortName; kapatıldığında silinmiş olmasını istiyorsanız <em>Oturum için kabul et</em> düğmesine basın. Sitenin çerez bırakmadan düzgün işleyemediği, ancak bu sitenin sürekli çerez bırakmasını istemediğiniz koşulda bu yolu izleyin.</dd>
+  <dt>Reddet</dt>
+  <dd>Çerezin bilgisayarınızda tutulmasını istemiyorsanız <em>Reddet</em> düğmesine basın. Siteye güvenmiyorsanız ya da kişisel gizliliğinize gölge düşüreceğini sanıyorsanız bu yolu tercih edin.</dd>
+  <dt>Bu sayfanın bütün çerezlerinde bu seçimi kullan</dt>
+  <dd>&brandShortName; tarayıcınızın verdiğiniz kararı aklında tutması ve bir daha size danışmaması için bunu işaretleyin. Böylece site, <a href="#cookies_exceptions">çerez ayrıcalık penceresine</a> eklenecektir. Verdiğiniz karardan daha sonra bu pencereyi açarak geri dönebilirsiniz.</dd>
+</dl>
+
+<h2 id="cookies_exceptions">Çerez Ayrıcalık Penceresi</h2>
+
+<p>Bu pencereye çerez seçeneklerindeki <em>Ayrıcalıklar</em> düğmesine basarak ulaşabilirsiniz. Burada belirli sitelere ayrıcalıklar tanınabilir. İstisnalar arasında bütün çerezlere izin verme ya da reddetme; diğer tercihleriniz ne olursa olsun çerezleri kabul edip &brandShortName; kapatıldığında silebilme seçenekleri yer alır.</p>
+
+<p>Bu listeye bir site eklemek için <em>Site adresi</em> satırına sitenin alan adını yazın. Bu adresten gelen çerezleri engellemek için <em>Engelle</em> düğmesine, bunlara izin vermek için <em>İzin ver</em> düğmesine ya da sadece oturum boyunca geçerli olmalarını sağlamak üzere <em>Oturum boyunca izin ver</em> düğmesine basın.</p>
+
+<p>Listeden bir site silmek için siteyi seçip <em>Siteyi sil</em> düğmesine basın. Listeyi tamamen boşaltmak için ise <em>Tüm siteleri sil</em> düğmesini kullanın. Bu işlem tüm ayrıcalıkları ortadan kaldırarak genel çerez kabul tercihinizin uygulanmasının önünü açar.</p>
+
+<h2 id="view_cookies">Çerez Penceresi</h2>
+
+<p><em>Çerezleri göster</em> düğmesi aracılığıyla çerezlere bakıp onları silebileceğiniz pencereyi açın. Bunun için <em>Çerezleri göster</em> düğmesine basmanız yeterlidir.</p>
+
+<p>Bu pencere bilgisayarınızda saklanan çerezlerin site site gruplanmış vaziyette görülmesini sağlar. Site isimlerinin önündeki simgeye tıklayıp çerez görünümünü geliştirerek, o sitenin çerezleriyle ilgili daha fazla bilgiye ulaşabilirsiniz. Arama çubuğuna aradığınızı yazarak belirli siteye ya da çereze bakabilirsiniz.</p>
+
+<p>Listeden bir çerezi silmek için onu seçip <em>Çerezi sil</em> düğmesine basın. Bir sitenin bütün çerezlerini silmek için ise siteyi seçip <em>Çerezleri sil</em> düğmesine basın. Çerezleri topyekûn temizlemek için de <em>Tüm çerezleri sil</em> düğmesini kullanın. (Bu işlem Seçenekler penceresinde yer alan <em>Gizlilik</em> bölümündeki <a href="prefs.xhtml#privacy_cookies"><em>Çerezler</em></a> sekmesi üzerinde bulunan <em>Çerezleri temizle</em> düğmesine basmaya eşdeğerdir.)</p>
+
+<div class="contentsBox"><em>7 Temmuz 2005</em></div>
+<p>Telif Hakkı &copy; Mozilla.org'a katkıda bulunanlar.</p>
+
+</body>
+</html>

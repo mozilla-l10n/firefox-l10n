@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title        "Yeni Mesaj Var Ayarları">
+<!ENTITY window.width                     "36em">
+<!ENTITY alertCustomization.intro         "Uyarılarda hangi alanların gösterileceğini seçin:">
+<!ENTITY previewText.label                "Mesaj önizleme metni">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "Konu">
+<!ENTITY subject.accesskey                "K">
+<!ENTITY sender.label                     "Gönderen">
+<!ENTITY sender.accesskey                 "e">
+

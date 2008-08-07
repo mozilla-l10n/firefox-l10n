@@ -1,0 +1,68 @@
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY copyCmd.key "c">
+<!ENTITY copyCmd.label "Kopyala">
+<!ENTITY cutCmd.accesskey "K">
+<!ENTITY cutCmd.key "x">
+<!ENTITY cutCmd.label "Kes">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.label "Sil">
+<!ENTITY direct.accesskey "M">
+<!ENTITY direct.label "Çevrim içi (vekil sunucusuz)">
+<!ENTITY editMenu.accesskey "z">
+<!ENTITY editMenu.label "Düzenle">
+<!ENTITY fileMenu.accesskey "d">
+<!ENTITY fileMenu.label "Dosya">
+
+<!ENTITY findTypeTextCmd.accesskey "e">
+<!ENTITY findTypeTextCmd.label "Metinde yazarken ara">
+
+<!ENTITY manual.accesskey "e">
+<!ENTITY manual.label                                   "Çevrim içi (el ile)">
+
+<!ENTITY newMenu.accesskey "Y">
+<!ENTITY newMenu.label "Yeni">
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+<!ENTITY closeCmd.label			"Kapat">  
+<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.accesskey		"K">
+
+<!ENTITY pac.accesskey "M">
+<!ENTITY pac.label "Çevrim içi  (vekil sunucu otomatik)">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.key "v">
+<!ENTITY pasteCmd.label "Yapıştır">
+<!ENTITY preferencesCmd.accesskey "E">
+<!ENTITY preferencesCmd.label "Seçenekler...">
+<!ENTITY preferencesCmdUnix.accesskey "C">
+<!ENTITY preferencesCmdUnix.label "Tercihler">
+<!ENTITY proxy.accesskey "c">
+<!ENTITY proxy.label "Vekil sunucu ayaları....">
+<!ENTITY redoCmd.accesskey "Y">
+<!ENTITY redoCmd.key "y">
+<!ENTITY redoCmd.label "Yinele">
+
+<!ENTITY selectAllCmd.accesskey "N">
+<!ENTITY selectAllCmd.key "a">
+<!ENTITY selectAllCmd.label "Tümünü seç">
+<!ENTITY showTaskbarCmd.accesskey "m">
+<!ENTITY showTaskbarCmd.label "Durum çubuğu">
+<!ENTITY undoCmd.accesskey "r">
+<!ENTITY undoCmd.key "z">
+<!ENTITY undoCmd.label "Geri al">
+<!ENTITY viewMenu.accesskey "G">
+<!ENTITY viewMenu.label "Göster">
+<!ENTITY viewToolbarsMenu.accesskey "ö">
+<!ENTITY viewToolbarsMenu.label "Göster/Gizle">
+<!ENTITY quitApplicationCmd.label	"Çık"> 
+<!ENTITY quitApplicationCmd.key		"Q"> 
+<!ENTITY quitApplicationCmd.accesskey	"k">
+
+<!ENTITY quitApplicationCmdUnix.label	"Çık"> 
+<!ENTITY quitApplicationCmdUnix.accesskey	"K">
+
+<!ENTITY quitApplicationCmdMac.label	"Çık"> 
+<!ENTITY quitApplicationCmdMac.accesskey	"K">
+
+<!ENTITY closeWindow.label "Pencereyi kapat">

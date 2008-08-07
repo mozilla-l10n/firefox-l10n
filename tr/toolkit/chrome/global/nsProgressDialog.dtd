@@ -1,0 +1,27 @@
+<!ENTITY cancel "Vazgeç">
+<!ENTITY close "Kapat">
+<!ENTITY completeMsg "İndirme tamamlandı ve #2 KB indirildi ( geçen süre #1)">
+<!ENTITY defaultTitle "Kaydoluyor">
+<!ENTITY keep "Bu pencereyi indirme tamamen bittikten sonra açık bırak.">
+<!ENTITY launch "Dosyayı başlat">
+<!ENTITY longTimeFormat "#1:#2:#3">
+<!ENTITY openingSource "Açılan:">
+<!ENTITY openingTarget "Beraber:">
+<!ENTITY openingTitle "#2&#037; -> #1 Tamamlandı">
+<!ENTITY pause "Ara ver">
+<!ENTITY pausedMsg "İndirme durdu">
+<!ENTITY percentMsg "#1&#037;">
+<!ENTITY progress "İlerleme:">
+<!ENTITY progressMsg "#1 KB  ->  #2 KB ( #3 KB/sn)">
+<!ENTITY resume "Devam et">
+<!ENTITY reveal "Dosya konumunu göster">
+<!ENTITY savingSource "Kaydedilen:">
+<!ENTITY savingTarget "Nereye:">
+<!ENTITY savingTitle "#2&#037; -> #1 Kaydoldu">
+<!ENTITY shortTimeFormat "#2:#3">
+<!ENTITY status "Durum:">
+<!ENTITY timeElapsed "Geçen süre:">
+<!ENTITY timeLeft "Kalan zaman:">
+<!ENTITY unknownOpeningTitle "Açılan  #1">
+<!ENTITY unknownSavingTitle "Kaydolan #1">
+<!ENTITY unknownTime "Bilinmiyor">

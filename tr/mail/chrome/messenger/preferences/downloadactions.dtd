@@ -1,0 +1,31 @@
+<!ENTITY  downloadactionsWindow.title         "İndirme İşlemleri">
+<!ENTITY  fileTypesDescription.label          "Aşağıdaki dosya türleri için belirtilen işlemleri uygula:">
+<!ENTITY  window.width                         "500">
+<!ENTITY  window.height                        "330">
+
+<!ENTITY  fileHandlerColumn.label             "Uygulama">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "Dosya Türleri">
+<!ENTITY  fileTypeColumn.accesskey            "T">
+<!ENTITY  fileMIMETypeColumn.label            "MIME Türleri">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "Eklentiler">
+<!ENTITY  fileExtensionColumn.accesskey       "E">
+
+<!ENTITY  remove.label                        "Uygulamayı kaldır">
+<!ENTITY  remove.accesskey                    "R">
+<!ENTITY  edit.label                          "Uygulamayı değiştir...">
+<!ENTITY  edit.accesskey                      "D">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "Ara:">
+<!ENTITY  filter.accesskey                    "A">
+<!ENTITY  clear.label                         "Temizle">
+<!ENTITY  clear.accesskey                     "T">
+
+<!ENTITY  button.close.label                  "Kapat">
+<!ENTITY  button.close.accesskey              "K">
+

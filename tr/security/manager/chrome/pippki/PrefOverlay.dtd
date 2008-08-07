@@ -1,0 +1,5 @@
+<!ENTITY certs.label "Sertifikalar">
+<!ENTITY masterpass.label "Ana parolalar">
+<!ENTITY security.label "Kişisel Gizlilik ve Güvenlik">
+<!ENTITY ssl.label "SSL">
+<!ENTITY validation.label "Onaylama">

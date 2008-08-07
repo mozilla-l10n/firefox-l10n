@@ -1,0 +1,23 @@
+<!ENTITY activeLinkText.accesskey "A">
+<!ENTITY activeLinkText.label "Etkin bağlantı rengi">
+<!ENTITY authorName.accesskey "a">
+<!ENTITY authorName.label "Yazar:">
+<!ENTITY background.accesskey "A">
+<!ENTITY background.label "Arkaplan:">
+<!ENTITY backgroundImage.accesskey "A">
+<!ENTITY backgroundImage.label "Arkaplan resmi:">
+<!ENTITY chooseFile.accesskey "ç">
+<!ENTITY chooseFile.label "Dosya seç...">
+<!ENTITY colon.character ":">
+<!ENTITY customColors.accesskey "c">
+<!ENTITY customColorsRadio.label "Özel renkleri kullan:">
+<!ENTITY defaultColors.accesskey "t">
+<!ENTITY defaultColorsRadio.label "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
+<!ENTITY pref.editing.title "Yeni sayfa ayarları">
+<!ENTITY linkText.accesskey "B">
+<!ENTITY linkText.label "Bağlantı metni">
+<!ENTITY normalText.accesskey "R">
+<!ENTITY normalText.label "Normal metin">
+<!ENTITY pageColorHeader "Öntanımlı sayfa görünüşü">
+<!ENTITY visitedLinkText.accesskey "Z">
+<!ENTITY visitedLinkText.label "Ziyaret edilmiş bağlantı metni">

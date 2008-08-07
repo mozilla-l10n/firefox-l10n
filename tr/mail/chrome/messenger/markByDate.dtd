@@ -1,0 +1,5 @@
+<!ENTITY markByDateLower.accesskey "N">
+<!ENTITY markByDateLower.label "Gönderen:">
+<!ENTITY markByDateUpper.accesskey "K">
+<!ENTITY markByDateUpper.label "Kime">
+<!ENTITY messageMarkByDate.label "Tarihe göre postaları okunmuş olarak işaretle">

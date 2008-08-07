@@ -1,0 +1,45 @@
+
+<!ENTITY  connectionsDialog.title       "Bağlantı Ayarları">
+<!ENTITY window.width                   "46em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "Vekil sunucuları düzenleyin">
+<!ENTITY  noProxyTypeRadio.label         "Vekil sunucu yok">
+<!ENTITY  noProxyTypeRadio.accesskey     "e">
+<!ENTITY  WPADTypeRadio.label           "Vekil sunucu ayarlarını otomatik tanı">
+<!ENTITY  WPADTypeRadio.accesskey       "V">
+<!ENTITY  manualTypeRadio.label         "Vekil sunucu ayarları">
+<!ENTITY  manualTypeRadio.accesskey     "U">
+<!ENTITY  autoTypeRadio.label           "Otomatik vekil sunucu ayarları (URL):">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "Yenile">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  ftp.label                     "FTP vekil sunucusu:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Gopher vekil sunucusu:">
+<!ENTITY  gopher.accesskey              "g">
+<!ENTITY  http.label                    "HTTP vekil sunucusu:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL vekil sunucusu:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS sunucusu:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "Port:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Vekil sunucu kullanma:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Örnek: .mozilla.org, .com.tr, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Tüm iletişim kuralları için bu vekil sunucuyu kullan">
+<!ENTITY  shareproxy.accesskey          "T">
+
+<!ENTITY  systemTypeRadio.label         "Sistem vekil sunucu ayarlarını kullan">
+<!ENTITY  systemTypeRadio.accesskey     "S">

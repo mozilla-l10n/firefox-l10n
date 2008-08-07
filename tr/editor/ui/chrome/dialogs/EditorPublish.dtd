@@ -1,0 +1,62 @@
+<!ENTITY browseUrl.label "Homepage sayfanızın adresi (örn.: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.accesskey          "H">
+<!ENTITY browseUrl.tooltip "Ana dizininizin HTTP://-Adresi (dosya ismi vermeyin)">
+<!ENTITY docDirList.label "Bu sayfa için sayfa altklasörü:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Bu sayfa için bir dizin seçin veya girin">
+<!ENTITY filename.label "Dosya adı:">
+<!ENTITY filename.accesskey           "a">
+<!ENTITY filename.tooltip "Bu dosya için '.html' şeklinde Websayfa ismini verin">
+<!ENTITY filenameExample.label "örn,: &quot;mypage.html&quot;">
+<!ENTITY loginInfo.label "Bağlantı Bilgileri">
+<!ENTITY newSiteButton.label "Yeni sayfa">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY pageTitle.label "Sayfa başlığı:">
+<!ENTITY pageTitle.accesskey          "F">
+<!ENTITY pageTitle.tooltip "Penceredeki ve Yer imlerindeki sayfaları belirlemek için bir başlık adı verin">
+<!ENTITY pageTitleExample.label "örn.: &quot;Benim Web Sayfam&quot;">
+<!ENTITY password.label "Parola:">
+<!ENTITY password.accesskey "P">
+<!ENTITY password.tooltip "Kullanıcı ismine ait parola">
+<!ENTITY publishImgCheckbox.label "İmgeleri ve diğer dosyaları dahil et">
+<!ENTITY publishImgCheckbox.accesskey "g">
+<!ENTITY publishImgCheckbox.tooltip "Bu sayfanın dosyalarını referanse eden grafik ve diğerlerini yayınla">
+<!ENTITY publishSites.label "Yayınlanan Siteler">
+<!ENTITY publishTab.label "Yayınla">
+<!ENTITY publishButton.label      "Yayınla">
+<!ENTITY relatedDocs.label "Yayınlanacak diğer dosyalar">
+<!ENTITY removeButton.label "Sayfa Kaldır">
+<!ENTITY removeButton.accesskey       "R">
+<!ENTITY sameLocationRadio.label "Sayfa ile aynı adresi kullan">
+<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY sameLocationRadio.tooltip "Sayfadaki adresdeki gibi dosyaları yayınla">
+<!ENTITY savePassword.label "Parolayı kaydet">
+<!ENTITY savePassword.accesskey       "K">
+<!ENTITY savePassword.tooltip "Parolanızı , parola yöneticisi ile kaydetmek için bunu seçin.">
+<!ENTITY serverInfo.label "Sunucu bilgileri">
+<!ENTITY setDefSiteAndDir.label "Öntanımlı sayfayı ve klasör olarak ayarla">
+<!ENTITY setDefaultButton.label "Öntanımlı olarak seç">
+<!ENTITY setDefaultButton.accesskey   "L">
+<!ENTITY settingsTab.label "Ayarlar">
+
+<!ENTITY siteList.tooltip "Yayınlamak istediğiniz sayfayı seçin">
+<!ENTITY siteName.label "Sayfa Adı:">
+<!ENTITY siteName.accesskey           "d">
+<!ENTITY siteName.tooltip "Yayınlama sayfasını tanımlayan takma bir isim verin (örn: 'Benimsitem')">
+<!ENTITY siteUrl.label "URL Yayınlama (İSS veya Sistem yöneticiniz tarafından sağlanır):">
+<!ENTITY siteUrl.accesskey            "a">
+<!ENTITY siteUrl.tooltip "ISS veya Web Hosting Servisi tarfından sizin hizmetinize sunulan FTP://- veya HTTP://- Adresi">
+<!ENTITY useSubdirRadio.label "Bu sayfa altklasörünü kullan:">
+<!ENTITY useSubdirRadio.accesskey     "k">
+<!ENTITY useSubdirRadio.tooltip       "Seçilen alt dizinleri yayınla">
+<!ENTITY username.label "Kullanıcı adı:">
+<!ENTITY username.accesskey           "U">
+<!ENTITY username.tooltip "ISS veya Web Hosting Servisi için kullandığınız kullanıcı adı">
+<!ENTITY windowTitle.label "Sayfa yayınla">
+<!ENTITY windowTitleSettings.label "Yayın ayarları">
+
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Site Adı:">
+<!ENTITY siteList.accesskey           "e">
+<!ENTITY otherDirList.tooltip         "Dosyaların kaydedileceği alt dizini seçin veya girin">

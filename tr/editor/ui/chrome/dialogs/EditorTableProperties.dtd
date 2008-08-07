@@ -1,0 +1,76 @@
+<!ENTITY AlignCenter.label "Merkez">
+<!ENTITY AlignLeft.label "Sol">
+<!ENTITY AlignRight.label "Sağ">
+<!ENTITY applyBeforeChange1.label "Geçerli değişiklikler uygulanacak">
+<!ENTITY applyBeforeChange2.label "seçimi değiştirmeden önce.">
+<!ENTITY backgroundColor.accessKey "Z">
+<!ENTITY backgroundColor.label "Zemin Rengi:">
+<!ENTITY cellAlignAtChar.label "Bu karakterden:">
+<!ENTITY cellAlignBottom.label "Alt">
+<!ENTITY cellAlignJustify.label "Ayarla">
+<!ENTITY cellAlignMiddle.label "Orta">
+<!ENTITY cellAlignTop.label "Üst">
+<!ENTITY cellApplyBeforeMove.label "Seçimi değiştirmeden önce değişiklikleri uygula">
+<!ENTITY cellColSpan.label "Kolon Genişliği:">
+<!ENTITY cellContentAlignment.label "İçerik Yerleşimi">
+<!ENTITY cellHeader.label "Başlık">
+<!ENTITY cellHorizontal.accessKey "T">
+<!ENTITY cellHorizontal.label "Yatay:">
+<!ENTITY cellInheritColor.label "(Tablonun baştan başa rengini göster)">
+<!ENTITY cellKeepCurrentData.label "Geçerli ayarları koru">
+<!ENTITY cellNoWrap.label "Kaydırma">
+<!ENTITY cellNormal.label "Normal">
+<!ENTITY cellPercent.label "tablonun yüzdesi">
+<!ENTITY cellRowSpan.label "Satır Genişliği:">
+<!ENTITY cellSelectCell.label "Hücre">
+<!ENTITY cellSelectColumn.label "Kolon">
+<!ENTITY cellSelectNext.accessKey "N">
+<!ENTITY cellSelectNext.label "Sonraki">
+<!ENTITY cellSelectPrevious.accessKey "N">
+<!ENTITY cellSelectPrevious.label "Önceki">
+<!ENTITY cellSelectRow.label "Satır">
+<!ENTITY cellSelection.label "Seçim">
+<!ENTITY cellStyle.accessKey "H">
+<!ENTITY cellStyle.label "Hücre biçimi:">
+<!ENTITY cellTab.label "Hücreler">
+<!ENTITY cellTextWrap.accessKey "M">
+<!ENTITY cellTextWrap.label "Metin Kaydırma:">
+<!ENTITY cellUseCheckboxHelp.label "Tüm seçilen hücrelere hangi özelliklerin uygulandığını belirlemek için işaret kutucuğunu kullan">
+<!ENTITY cellVertical.accessKey "D">
+<!ENTITY cellVertical.label "Düşey:">
+<!ENTITY cellWrap.label "Kaydır">
+<!ENTITY pixels.label "piksel">
+<!ENTITY size.label "Boyut">
+<!ENTITY tableAlignment.accessKey "T">
+<!ENTITY tableAlignment.label "Tablo Yerleşimi:">
+<!ENTITY tableBorderSpacing.label "Çerçeveler ve Aralıklar">
+<!ENTITY tableBorderWidth.accessKey "R">
+<!ENTITY tableBorderWidth.label "Kenar:">
+<!ENTITY tableCaption.accessKey "B">
+<!ENTITY tableCaption.label "Başlık:">
+<!ENTITY tableCaptionAbove.label "Tablonun Üstünde">
+<!ENTITY tableCaptionBelow.label "Tablonun Altında">
+<!ENTITY tableCaptionLeft.label "Tablonun solu">
+<!ENTITY tableCaptionNone.label "Hiçbiri">
+<!ENTITY tableCaptionRight.label "Tablonun sağı">
+<!ENTITY tableColumns.accessKey "n">
+<!ENTITY tableColumns.label "Kolonlar:">
+<!ENTITY tableHeight.accessKey "K">
+<!ENTITY tableHeight.label "Yükseklik:">
+<!ENTITY tableInheritColor.label "(Baştan başa sayfa rengini göster)">
+<!ENTITY tablePadding.accessKey "o">
+<!ENTITY tablePadding.label "Dolgu:">
+<!ENTITY tablePxBetwBrdrCellContent.label "piksel, hücre çerçevesi ile içerik arasında">
+<!ENTITY tablePxBetwCells.label "piksel hücreler arasında">
+<!ENTITY tableRows.accessKey "S">
+<!ENTITY tableRows.label "Sıralar:">
+<!ENTITY tableSpacing.accessKey "A">
+<!ENTITY tableSpacing.label "Aralık:">
+<!ENTITY tableTab.label "Tablo">
+<!ENTITY tableWidth.accessKey "N">
+<!ENTITY tableWidth.label "Genişlik:">
+<!ENTITY tableWindow.title "Tablo Özellikleri">
+<!ENTITY applyButton.label                "Uygula">
+<!ENTITY applyButton.accesskey            "A">
+
+<!ENTITY closeButton.label     "Kapat">

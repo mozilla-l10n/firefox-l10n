@@ -1,0 +1,36 @@
+<!ENTITY alwaysAsk.label "Bana dosyaların nereye kaydedileceğini her seferinde sor">
+<!ENTITY alwaysAsk.accesskey "A">
+
+<!ENTITY chooseFolderWin.label        "Gözat...">
+<!ENTITY chooseFolderWin.accesskey    "z">
+<!ENTITY chooseFolderMac.label        "Seç...">
+<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY closeWhenDone.label "İndirme işleri bitince indirme penceresini kapat">
+<!ENTITY closeWhenDone.accesskey "b">
+<!ENTITY downloads.label     "İndirme">
+<!ENTITY location.label            "Konum:">
+<!ENTITY location.accesskey        "K">
+<!ENTITY restoreDefault.label      "Öntanımlıları geri getir">
+<!ENTITY restoreDefault.accesskey  "R">
+<!ENTITY startup.label             "Başlangıç">
+<!ENTITY startupPage.label         "&brandShortName; açıldığında:">
+<!ENTITY startupPage.accesskey     "d">
+<!ENTITY startupHomePage.label     "Giriş sayfamı göster">
+<!ENTITY startupBlankPage.label    "Boş bir sayfa göster">
+<!ENTITY startupLastSession.label  "Son oturumdaki pencereleri ve sekmeleri göster">
+<!ENTITY useCurrentPage.label      "Güncel sayfayı kullan">
+<!ENTITY useCurrentPage.accesskey  "G">
+<!ENTITY useMultiple.label         "Güncel sayfaları kullan">
+<!ENTITY useBookmark.label         "Yer imi kullan">
+<!ENTITY useBookmark.accesskey     "Y">
+<!ENTITY showWhenDownloading.label     "Dosya indirirken indirme penceresini göster">
+<!ENTITY showWhenDownloading.accesskey "D">
+<!ENTITY saveTo.label "Dosya kayıt yeri">
+<!ENTITY saveTo.accesskey "a">
+
+<!ENTITY addonsMgr.label            "Eklentiler">
+<!ENTITY manageAddons.label         "Eklentileri yönet...">
+<!ENTITY manageAddons.accesskey     "K">
+
+<!ENTITY manageAddonsDescWin.label     "Eklentilerinizin ayarlarını değiştirin">
+<!ENTITY manageAddonsDescUnix2.label   "Eklentilerinizle ilgili tercihleri değiştirin.">

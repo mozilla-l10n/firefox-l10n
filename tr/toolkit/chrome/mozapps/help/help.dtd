@@ -1,0 +1,54 @@
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Geri">
+<!ENTITY backButton.accesskey           "G">
+<!ENTITY backButton.tooltip             "Bir sayfa geriye git">
+<!ENTITY forwardButton.label            "İleri">
+<!ENTITY forwardButton.accesskey        "r">
+<!ENTITY forwardButton.tooltip          "Bir sayfa ileriye git">
+<!ENTITY copyCmd.label                  "Kopyala">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Tümünü seç">
+<!ENTITY selectAllCmd.accesskey         "T">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Başlangıç">
+<!ENTITY homeButton.tooltip             "Yardım ana sayfasına gider">
+<!ENTITY printButton.label              "Yazdır">
+<!ENTITY printButton.tooltip            "Bu sayfayı yazdırır">
+<!ENTITY closeWindow.commandkey         "W">
+<!ENTITY searchtab.label    	  	"Ara">
+<!ENTITY searchtab.accesskey            "A">
+<!ENTITY searchClose.tooltip            "Arama sonuçlarını kapat">
+<!ENTITY toctab.label       	  	"İçerik">
+<!ENTITY toctab.accesskey               "E">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be 
+empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Hep ön planda tut">
+<!ENTITY zLevel.accesskey               "T">
+
+<!ENTITY fullZoomReduceBtn.label        "Yazı boyutunu küçült">
+<!ENTITY fullZoomReduceBtn.accesskey    "B">
+<!ENTITY fullZoomEnlargeBtn.label       "Yazı boyutunu büyüt">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "U">

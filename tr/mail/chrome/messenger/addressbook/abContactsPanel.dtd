@@ -1,0 +1,21 @@
+<!ENTITY SearchNameOrEmail.label "İsim veya E-posta">
+<!ENTITY addressbookPicker.label "Adres defteri:">
+<!ENTITY addressbookPicker.accesskey        "T">
+<!ENTITY addtoBccFieldMenu.label "Gizli adrese ekle">
+<!ENTITY addtoCcFieldMenu.label "İlgili adrese ekle">
+<!ENTITY addtoToFieldMenu.label "İlgili adrese ekle">
+
+<!ENTITY ccButton.label "İlgili adrese ekle">
+<!ENTITY ccButton.accesskey                 "d">
+
+<!ENTITY bccButton.label                    "Gizli adrese ekle:">
+<!ENTITY bccButton.accesskey                "L">
+
+<!ENTITY searchInput.label "Ara:">
+<!ENTITY searchInput.accesskey              "A">
+
+<!ENTITY toButton.label "Kime bölümüne ekle:">
+<!ENTITY toButton.accesskey                 "E">
+<!ENTITY deleteAddrBookCard.label           "Sil">
+<!ENTITY addrBookCardProperties.label       "Özellikler">
+

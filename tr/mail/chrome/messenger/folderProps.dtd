@@ -1,0 +1,53 @@
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Hesap ayarlarındaki öntanımlamayı uyarla">
+<!ENTITY folderCharsetOverride.label "Öntanımlamayı bu dizindeki postalara uyumla.">
+<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderCharsetTab.label "Öntanımlı karakter kodlaması:">
+<!ENTITY folderCharsetTab.accesskey              "E">
+<!ENTITY folderCheckForNewMessages.label "Bu klasörde yeni mesajları kontrol et">
+<!ENTITY folderCheckForNewMessages.accesskey     "j">
+<!ENTITY folderOfflineTab.label "Çevrimdışı">
+<!ENTITY folderProps.information.label "Bilgiler:">
+<!ENTITY folderProps.name.label "İsmi:">
+<!ENTITY folderProps.name.accesskey              "s">
+<!ENTITY folderProps.windowtitle.label "Özellikler">
+<!ENTITY folderQuotaRoot.label "Kota kökü:">
+<!ENTITY folderQuotaStatus.label "Durum:">
+<!ENTITY folderQuotaTab.label "Kota">
+<!ENTITY folderQuotaUsage.label "Kullanım:">
+<!ENTITY folderRebuildSummaryFile.label          "Tamir">
+<!ENTITY folderRebuildSummaryFile.accesskey      "T">
+<!ENTITY folderRebuildSummaryFileTip.label       "Özet dosyasını tamir et"> 
+<!ENTITY folderSharingTab.label                  "Ortak Kullanma">
+<!ENTITY folderType.label "Dizin Türü:">
+<!ENTITY generalInfo.label "Genel Bilgiler">
+<!ENTITY offlineFolder.button.label "Hemen İndir">
+<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY offlineFolder.check.label "Bu dizini çevrimdışı kullanım için seç">
+<!ENTITY offlineFolder.check.accesskey           "V">
+<!ENTITY offlineNewsgroup.button.label "Hemen İndir">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
+<!ENTITY permissionsDesc.label "Şu izinleriniz var:">
+<!ENTITY privileges.button.label "Öncelikli haklar">
+<!ENTITY privileges.button.accesskey             "H">
+<!ENTITY privilegesDesc.label "Bu ve diğer dizinleri ağdaki kullanıcılarla paylaş">
+<!ENTITY selectofflineNewsgroup.check.label "Bu haber grubunu çevrimdışı kullanımı için seç">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "u">
+
+<!ENTITY retention.label "Kayıt Güvenliği">
+<!ENTITY retentionUseDefault.label  "Sunucu varsayılanlarını kullan">
+<!ENTITY retentionUseDefault.accesskey "S">
+<!ENTITY days.label " günden eski mesajları sil">
+<!ENTITY daysOld.label " gün eski">
+<!ENTITY message.label " mesajı bırak.">
+<!ENTITY retentionCleanup.label "Boş yer kazanmak için eski mesajlarınızı düzenli aralıklar ile silebilirsiniz.">
+<!ENTITY retentionKeepMsg.label "Son ">
+<!ENTITY retentionKeepMsg.accesskey "N">
+<!ENTITY retentionKeepAll.label "Hiçbir mesajı silme.">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "Hepsini sil fakat son ">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Okunan mesajları devamlı sil">
+<!ENTITY retentionKeepUnread.accesskey "S">
+
+<!ENTITY folderProps.location.label              "Konum:">
+<!ENTITY folderProps.location.accesskey          "M">

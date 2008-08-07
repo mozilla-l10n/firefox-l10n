@@ -1,0 +1,16 @@
+<!ENTITY biffEnd.label "dakika">
+<!ENTITY biffStart.accesskey "K">
+<!ENTITY biffStart.label "Abonelikleri denetleme sıklığı: ">
+<!ENTITY loginAtStartup.accesskey "K">
+<!ENTITY loginAtStartup.label "Başlangıçta yeni öğeleri yükle">
+<!ENTITY manageSubscriptions.accesskey "A">
+<!ENTITY manageSubscriptions.label "Aboneliklerini denetle...">
+<!ENTITY newsblogTitle.label "RSS hesap ayarları">
+<!ENTITY useQuickMode.accesskey "H">
+<!ENTITY useQuickMode.label "Her öğenin tamamını yüklemektense özetini göster">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "Haber grupları ve günlükler">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "RSS beslemeleri ve günlükler">
+<!ENTITY rss.hostName               "Haber  grupları ve günlükler">

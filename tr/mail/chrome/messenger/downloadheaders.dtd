@@ -1,0 +1,8 @@
+<!ENTITY all.label "Tüm başlıkları indir">
+<!ENTITY all.accesskey      "t">
+<!ENTITY download.label "Sadece">
+<!ENTITY download.accesskey "a">
+<!ENTITY headers.label "ileti indir">
+<!ENTITY headers.accesskey  "t">
+<!ENTITY mark.label "Kalan başlıkları okunmuş olarak işaretle">
+<!ENTITY mark.accesskey     "M">

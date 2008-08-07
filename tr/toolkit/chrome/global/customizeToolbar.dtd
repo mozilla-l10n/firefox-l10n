@@ -1,0 +1,12 @@
+<!ENTITY addNewToolbar.label "Yeni araç çubuğu">
+<!ENTITY dialog.title "Araç çubuğunu özelleştirme">
+<!ENTITY icons.label "Simgeler">
+<!ENTITY iconsAndText.label "Simge ve metin">
+<!ENTITY instructions.description "Araç çubuklarına eklemek veya kaldırmak üzere öğeleri sürükleyin.">
+<!ENTITY restoreDefaultSet.label "Öntanımlıyı yükle">
+<!ENTITY saveChanges.label "Tamam">
+<!ENTITY show.label "Görünüm:">
+<!ENTITY text.label "Metin">
+<!ENTITY undoChanges.label "Değişiklikleri geri al">
+<!ENTITY useSmallIcons.label "Küçük simgeleri kullan">
+<!ENTITY dialog.style "width: 635px; height: 400px;">

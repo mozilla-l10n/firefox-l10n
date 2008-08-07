@@ -1,0 +1,23 @@
+<!ENTITY copyCmd.accesskey "p">
+<!ENTITY copyCmd.label "Kopyala">
+<!ENTITY cutCmd.accesskey "K">
+<!ENTITY cutCmd.label "Kes">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY deleteCmd.label "Sil">
+<!ENTITY pasteCmd.accesskey "Y">
+<!ENTITY pasteCmd.label "Yapıştır">
+<!ENTITY selectAllCmd.accesskey "T">
+<!ENTITY selectAllCmd.label "Tümünü seç">
+<!ENTITY undoCmd.accesskey "G">
+<!ENTITY undoCmd.label "Geri al">
+
+<!ENTITY spellAddToDictionary.label "Sözlüğe ekle">
+<!ENTITY spellAddToDictionary.accesskey "S">
+
+<!ENTITY spellCheckEnable.label "Yazımı denetle">
+<!ENTITY spellCheckEnable.accesskey "Y">
+
+<!ENTITY spellNoSuggestions.label "(Yazım önerisi yok)">
+<!ENTITY spellDictionaries.label "Diller">
+<!ENTITY spellDictionaries.accesskey "l">
+

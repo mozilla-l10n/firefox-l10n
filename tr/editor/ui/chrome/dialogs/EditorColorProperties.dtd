@@ -1,0 +1,22 @@
+<!ENTITY activeLinkText.accessKey "E">
+<!ENTITY activeLinkText.label "Etkin bağlantı rengi">
+<!ENTITY background.accessKey "A">
+<!ENTITY background.label "Arkaplan:">
+<!ENTITY backgroundImage.accessKey "k">
+<!ENTITY backgroundImage.label "Arkaplan resmi:">
+<!ENTITY backgroundImage.tooltip "Bir görüntü dosyasını sayfanızda zemin gibi kullanın">
+<!ENTITY colon.character ":">
+<!ENTITY customColorsRadio.accessKey "r">
+<!ENTITY customColorsRadio.label "Özel renkleri kullan:">
+<!ENTITY customColorsRadio.tooltip "Bu renkler okuyucunun gözatıcı ayarlarından önceliklidir">
+<!ENTITY defaultColorsRadio.accessKey "d">
+<!ENTITY defaultColorsRadio.label "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
+<!ENTITY defaultColorsRadio.tooltip "Sadece okuyucunun gözatıcı ayarlarrındaki renkleri kullan">
+<!ENTITY linkText.accessKey "e">
+<!ENTITY linkText.label "Bağlantı metni">
+<!ENTITY normalText.accessKey "n">
+<!ENTITY normalText.label "Normal metin">
+<!ENTITY pageColors.label "Sayfa renkleri">
+<!ENTITY visitedLinkText.accessKey "B">
+<!ENTITY visitedLinkText.label "Ziyaret edilmiş bağlantı metni">
+<!ENTITY windowTitle.label "Sayfa renkleri ve zemini">

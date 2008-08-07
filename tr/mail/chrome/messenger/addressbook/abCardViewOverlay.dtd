@@ -1,0 +1,9 @@
+<!ENTITY addresses.heading "Adresler">
+<!ENTITY contact.heading "Adres">
+<!ENTITY description.heading "Açıklama">
+<!ENTITY home.heading "Başlangıç">
+<!ENTITY mapIt.tooltip "Web üzerinde bu adresin bir haritasını görüntüle">
+<!ENTITY mapItButton.label "Harita göster">
+<!ENTITY other.heading "Diğer">
+<!ENTITY phone.heading "Telefon">
+<!ENTITY work.heading "İş">

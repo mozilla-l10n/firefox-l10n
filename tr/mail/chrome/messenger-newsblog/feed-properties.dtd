@@ -1,0 +1,13 @@
+<!ENTITY choosethisfolder.label "bu dosyayı seçin">
+<!ENTITY feedFolder.accesskey "K">
+<!ENTITY feedFolder.label "Kayıtlı canlı yer imleri:">
+<!ENTITY feedLocation.accesskey "C">
+<!ENTITY feedLocation.label "Canlı yer imi adresi:">
+<!ENTITY quickMode.accesskey "S">
+<!ENTITY quickMode.label "Web sayfasını yüklemek yerine sayfaların bir özetini göster">
+<!ENTITY window.title "Canlı yer imi özellikleri">
+<!ENTITY copyLinkCmd.label        "Bağlantı konumunu kopyala"> 
+<!ENTITY copyLinkCmd.accesskey    "K"> 
+
+<!ENTITY pasteLinkCmd.label       "Yapıştır">
+<!ENTITY pasteLinkCmd.accesskey   "P">

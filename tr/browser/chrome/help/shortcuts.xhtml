@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Sean Umphlet <nosebleed@umphlet.com> (minor bugfixes)
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>&brandFullName; Klavye Kısayolları</title>
+  <link rel="stylesheet" type="text/css"
+    href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandFullName; Klavye Kısayolları</h1>
+
+<p>Bu, &brandFullName; tarayıcısında sıkça kullanılan klavye kısayollarının bir listesidir.  <span class="unix">GNOME'de Emacs tarzı metin düzenleme kısayollarını devreye soktuysanız, bunlar &brandShortName; tarayıcısında da çalışacaktır. Emacs metin düzenleme kısayollarıyla öntanımlı kısayollar çakıştığında (ör. &accelKey;+<kbd>K</kbd>), metin kutusunda çalışılıyorsa (ki buna konum ve arama çubukları dahildir) Emacs kısayolu kullanılır. Bu gibi durumlarda aşağıda listelenen diğer klavye kısayollarından birini kullanmalısınız.</span></p>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Komut</th>
+      <th>Kısayol</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">Gezinti</th>
+    </tr>
+    <tr>
+      <td>Geri Git</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>Sol Ok</kbd><br/>
+          <kbd>Geriye Doğru Silme</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Sol Ok</kbd><br/>
+          &accelKey;+<kbd>[</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>[</kbd><br/>
+          &accelKey;+<kbd>Sol Ok</kbd><br/>
+          <kbd>Silme</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>İleri Git</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>Sağ Ok</kbd><br/>
+          &shiftKey;+<kbd>Geriye Doğru Silme</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>Sağ Ok</kbd><br/>
+          &accelKey;+<kbd>]</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>]</kbd><br/>
+          &accelKey;+<kbd>Sağ Ok</kbd><br/>
+          &shiftKey;+<kbd>Silme</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>Sayfanın Başına Dön</td>
+      <td>&altKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Dosya Aç</td>
+      <td>&accelKey;+<kbd>O</kbd></td>
+    </tr>
+    <tr>
+      <td>Tazele</td>
+      <td><kbd>F5<br/></kbd>
+        &accelKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Tazele (önbelleğe yazarak)</td>
+      <td><span class="noMac">&accelKey;+<kbd>F5</kbd><br/></span>
+        &accelKey;+&shiftKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>Dur</td>
+      <td><span class="mac">&accelKey;+<kbd>.</kbd><br/></span>
+        <kbd>Esc</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Geçerli Sayfa</th>
+    </tr>
+    <tr>
+      <td>Sayfanın Sonuna Git</td>
+      <td><kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>Sayfanın Başına Git</td>
+      <td><kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Sonraki Çerçeveye Geç</td>
+      <td><kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>Önceki Çerçeveye Geç</td>
+      <td>&shiftKey;+<kbd>F6</kbd></td>
+    </tr>
+    <tr class="noWin">
+      <td>Sayfa Bilgisini Göster</td>
+      <td>&accelKey;+<kbd>I</kbd></td>
+    </tr>
+    <tr>
+      <td>Sayfa Kaynağını Göster</td>
+      <td>&accelKey;+<kbd>U</kbd></td>
+    </tr>
+    <tr>
+      <td>Yazdır</td>
+      <td>&accelKey;+<kbd>P</kbd></td>
+    </tr>
+    <tr>
+      <td>Sayfayı Farklı Kaydet</td>
+      <td>&accelKey;+<kbd>S</kbd></td>
+    </tr>
+    <tr>
+      <td>Metin Boyutunu Küçült</td>
+      <td>&accelKey;+<kbd>-</kbd></td>
+    </tr>
+    <tr>
+      <td>Metin Boyutunu Büyüt</td>
+      <td>&accelKey;+<kbd>+</kbd></td>
+    </tr>
+    <tr>
+      <td>Metin Boyutunu Eski Haline Getir</td>
+      <td>&accelKey;+<kbd>0</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Düzenleme</th>
+    </tr>
+    <tr>
+      <td>Kopyala</td>
+      <td>&accelKey;+<kbd>C</kbd></td>
+    </tr>
+    <tr>
+      <td>Kes</td>
+      <td>&accelKey;+<kbd>X</kbd></td>
+    </tr>
+    <tr>
+      <td>Sil</td>
+      <td><kbd>Silme</kbd></td>
+    </tr>
+    <tr>
+      <td>Yapıştır</td>
+      <td>&accelKey;+<kbd>V</kbd></td>
+    </tr>
+    <tr>
+      <td>Geri Al</td>
+      <td><span class="win">&accelKey;+<kbd>Y</kbd></span>
+        <span class="noWin">&accelKey;+&shiftKey;+<kbd>Z</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Tümünü Seç</td>
+      <td>&accelKey;+<kbd>A</kbd></td>
+    </tr>
+    <tr>
+      <td>Yinele</td>
+      <td>&accelKey;+<kbd>Z</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Arama</th>
+    </tr>
+    <tr>
+      <td>Bul</td>
+      <td>&accelKey;+<kbd>F</kbd></td>
+    </tr>
+    <tr>
+      <td>Sonrakini Bul</td>
+      <td><kbd>F3</kbd><br/>
+        &accelKey;+<kbd>G</kbd></td>
+    </tr>
+    <tr>
+      <td>Yazarken Bağlantıda Bul</td>
+      <td><kbd>'</kbd></td>
+    </tr>
+    <tr>
+      <td>Yazarken Metinde Bul</td>
+      <td><kbd>/</kbd></td>
+    </tr>
+    <tr>
+      <td>Öncekini Bul</td>
+      <td>&shiftKey;+<kbd>F3</kbd></td>
+    </tr>
+    <tr>
+      <td>İnternette Ara</td>
+      <td>&accelKey;+<kbd>K</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>E</kbd></span>
+        <span class="unix"><br/>&accelKey;+<kbd>J</kbd></span></td>
+    </tr>
+  </tbody>
+  <tbody id="windows_tabs">
+    <tr>
+      <th colspan="2">Pencereler ve Sekmeler</th>
+    </tr>
+    <tr>
+      <td>Sekmeyi Kapat</td>
+      <td>&accelKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&ctrlKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Pencereyi Kapat</td>
+      <td>&accelKey;+&shiftKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&altKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <!-- LOCALIZATION NOTE:
+         "Left"/"Up" and "Right"/"Down" might need special treatment
+         for bidi locales, as used in the following two entries.
+    -->
+    <tr>
+      <td>Sekmeyi Sola Taşı (seçiliyken)</td>
+      <td>&accelKey;+<kbd>Sol Ok</kbd><br/>
+          &accelKey;+<kbd>Yukarı Yönde Ok</kbd></td>
+    </tr>
+    <tr>
+      <td>Sekmeyi Sağa Taşı (seçiliyken)</td>
+      <td>&accelKey;+<kbd>Sağ Ok</kbd><br/>
+          &accelKey;+<kbd>Aşağı Yönde Ok</kbd></td>
+    </tr>
+    <tr>
+      <td>Sekmeyi Başa Taşı (seçiliyken)</td>
+      <td>&accelKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>Sekmeyi Sona Taşı (seçiliyken)</td>
+      <td>&accelKey;+<kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>Yeni Sekme Aç</td>
+      <td>&accelKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>Yeni Pencere Aç</td>
+      <td>&accelKey;+<kbd>N</kbd></td>
+    </tr>
+    <tr>
+      <td>Sonraki Sekmeye Geç</td>
+      <td>&ctrlKey;+<kbd>Sekme</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+Sağ Ok<br/></span>
+        &ctrlKey;+<kbd>Page Down</kbd></td>
+    </tr>
+    <tr>
+      <td>Adresi Yeni Sekmede Aç</td>
+      <td>&altKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Önceki Sekmeye Geç</td>
+      <td>&ctrlKey;+&shiftKey;+<kbd>Sekme</kbd><br/>  
+        <span class="mac">&accelKey;+&altKey;+Sol Ok<br/></span>
+        &ctrlKey;+<kbd>Page Up</kbd></td>
+    </tr>
+    <tr>
+      <td>Sekmeyi Seç (1'den 8'e)</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+(<kbd>1</kbd> to <kbd>8</kbd>)</td>
+</tr>
+<tr>
+      <td>Son Sekmeyi Seç</td>
+      <td><span class="noUnix">&accelKey;</span><span class="unix">&altKey;</span>+<kbd>9</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Araçlar</th>
+    </tr>
+    <tr class="noUnix">
+      <td>Tüm Sekmeleri Yer İmlerine Ekle</td>
+      <td>&accelKey;+&shiftKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>Bu Sayfayı Yer İmlerine Ekle</td>
+      <td>&accelKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>Yer İmleri</td>
+      <td>&accelKey;+<kbd>B</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>I</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Caret Tarama Kipi</td>
+      <td><kbd>F7</kbd></td>
+    </tr>
+    <tr>
+      <td>İndirme</td>
+      <td><span class="noUnix">&accelKey;+<kbd>J</kbd></span>
+        <span class="unix">&accelKey;+<kbd>Y</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Geçmiş</td>
+      <td><span class="noMac">&accelKey;+<kbd>H</kbd></span>
+        <span class="mac">&accelKey;+&shiftKey;+<kbd>H</kbd></span></td>
+    </tr>
+    <tr>
+      <td>Özel Verileri Temizle</td>
+      <td>&accelKey;+&shiftKey;+<kbd>Silme</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">Çeşitli</th>
+    </tr>
+    <tr>
+      <td>Adrese .com Takısı Ekle</td>
+      <td>&accelKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Adrese .net Takısı Ekle</td>
+      <td>&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Adrese .org Takısı Ekle</td>
+      <td>&accelKey;+&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>Seçili Otomatik Tamamlama Girdisini Sil</td>
+     <td><span class="noMac"><kbd>Silme</kbd></span>
+            <span class="mac">&shiftKey;+<kbd>Silme</kbd></span></td>
+    </tr>
+    <tr class="noMac">
+      <td>Tam Ekranda Göster</td>
+      <td><kbd>F11</kbd></td>
+    </tr>
+    <tr>
+      <td>Konum Çubuğunu Seç</td>
+      <td><span class="noMac">&altKey;+<kbd>D</kbd><br/></span>
+        <kbd>F6</kbd><br />
+        &accelKey;+<kbd>L</kbd></td>
+    </tr>
+    <tr>
+      <td>Arama Motorlarını Seç ya da Yönet<br/>
+        (arama kutusu seçiliyken)</td>
+      <td>&altKey;+<kbd>Yukarı Yönde Ok</kbd><br/>
+&altKey;+<kbd>Aşağı Yönde Ok</kbd><span class="noMac"><br/>
+<kbd>F4</kbd></span></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="contentsBox"><em>6 Haziran 2006</em></div>
+<p>Telif Hakkı &copy; Mozilla.org'a katkıda bulunanlar.</p>
+
+</body>
+</html>

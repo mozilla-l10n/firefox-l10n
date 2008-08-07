@@ -1,0 +1,25 @@
+﻿<!ENTITY settings.caption "Ayarlar">
+<!ENTITY security.caption "Güvenlik ve kimlik doğrulama">
+<!ENTITY serverName.label "Sunucu adı:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "Tanım:">
+<!ENTITY serverDescription.accesskey "M">
+<!ENTITY serverPort.label "İletişim noktası:">
+<!ENTITY serverPort.accesskey "O">
+<!ENTITY alwaysUseUsername.label "Kullanıcı adı ve parola kullan">
+<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY userName.label "Kullanıcı adı:">
+<!ENTITY userName.accesskey "d">
+<!ENTITY useSecAuth.label "Güvenli kimlik doğrulama kullan">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY isSecure.label "Güvenli bağlantı kullan:">
+<!ENTITY neverSecure.label "Hayır">
+<!ENTITY neverSecure.accesskey "H">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS (varsa)">
+<!ENTITY sometimesSTARTTLS.accesskey "a">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SSL üzerinden SMTP">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP sunucusu">
+<!ENTITY serverPortDefault.label "Öntanımlı:">

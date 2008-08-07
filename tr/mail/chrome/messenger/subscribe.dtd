@@ -1,0 +1,17 @@
+<!ENTITY namefield.accesskey "e">
+<!ENTITY namefield.label "İçerenleri göster:">
+<!ENTITY refreshButton.accesskey "T">
+<!ENTITY refreshButton.label "Tazele">
+<!ENTITY server.accesskey "A">
+<!ENTITY server.label "Hesap:">
+<!ENTITY stopButton.accesskey "u">
+<!ENTITY stopButton.label "Dur">
+<!ENTITY subscribeButton.accesskey "o">
+<!ENTITY subscribeButton.label "Üye ol">
+<!ENTITY subscribeDialog.title "Üye ol">
+<!ENTITY subscribedHeader.label "Üye ol">
+<!ENTITY unsubscribeButton.accesskey "y">
+<!ENTITY unsubscribeButton.label "Üyelikten çık">
+<!ENTITY newGroupsTab.label           "Yeni gruplar">
+<!ENTITY newGroupsTab.accesskey       "N">
+

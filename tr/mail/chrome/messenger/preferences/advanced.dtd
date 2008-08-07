@@ -1,0 +1,85 @@
+<!ENTITY itemGeneral.label       "Genel">
+<!ENTITY itemUpdate.label        "Güncelleme">
+<!ENTITY openMsgIn.label               "Yeni postayı">
+
+<!-- General Settings -->
+<!ENTITY showCondensedAddresses.label "Adres defterimdeki kişilerin sadece ekran ismini göster.">
+<!ENTITY showCondensedAddresses.accesskey "d">
+
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+<!ENTITY reuseExpRadio2.label          "Yeni mesaj sekmesi">
+<!ENTITY reuseExpRadio2.accesskey      "s">
+<!ENTITY markAsRead.label "Mesajı okunmuş olarak işaretlemek için gerekli olan süre: ">
+<!ENTITY markAsRead.accesskey          "M">
+<!ENTITY markAsReadEnd.label "saniye.">
+<!ENTITY showFolderColumns.label "Dizin alanında genişletilmiş sütunları göster.">
+<!ENTITY showFolderColumns.accesskey   "s">
+<!ENTITY rememberLastMsg.label         "Son seçilen mesajı hatırla.">
+<!ENTITY rememberLastMsg.accesskey     "h">
+
+<!ENTITY reuseExpRadio0.label          "Yeni bir pencerede aç">
+<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio1.label          "Mevcut bir mesajın içinde aç">
+<!ENTITY reuseExpRadio1.accesskey      "c">
+<!ENTITY connectionTimeout.label       "Bağlantı zaman aşımı süresi: ">
+<!ENTITY connectionTimeout.accesskey   "T">
+<!ENTITY connectionSeconds.label       "saniye">
+<!ENTITY configEditDesc.label          "Gelişmiş ayarlar">
+<!ENTITY configEdit.label              "Ayar Düzenleyici">
+<!ENTITY configEdit.accesskey          "y">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "Periyodik olarak güncellemeleri kontrol edilecekler:">
+
+
+<!ENTITY checkNow.label                 "Şimdi kontrol et...">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY showUpdates.label              "Güncelleme geçmişini göster">
+<!ENTITY showUpdates.accesskey          "N">
+<!ENTITY whenUpdatesFound.label         "Eğer &brandShortName; için güncelleme bulunursa,">
+<!ENTITY modeAskMe.label                "Ne yapılacağını bana sor">
+<!ENTITY modeAskMe.accesskey            "A">
+<!ENTITY modeAutomatic.label            "Güncellemeleri otomatik olarak indir ve kur">
+<!ENTITY modeAutomatic.accesskey	"d">
+<!ENTITY Diskspace 			"Boş Disk Alanı">
+<!ENTITY offlineCompact.label 		"Dizinler ">
+<!ENTITY offlineCompact.accesskey 	"z">
+<!ENTITY kb.label 			" KB'dan fazla olursa sıkıştır.">
+
+
+
+<!ENTITY enableAddonsUpdate.label       "Kurulu eklentiler">
+<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY modeAutoAddonWarn.label        "Herhangi bir eklentimi etkisiz kılarsa beni uyar">
+<!ENTITY modeAutoAddonWarn.accesskey    "B">
+
+<!ENTITY itemNetworking.label    "Ağ ve disk alanı">
+<!ENTITY itemCertificates.label  "Sertifikalar">
+<!ENTITY returnReceiptsInfo.label      "&brandShortName; uygulamasının alındı onayı gönderme ayarlarını yapın.">
+<!ENTITY showReturnReceipts.label      "Alındı onayı...">
+<!ENTITY showReturnReceipts.accesskey  "A">
+<!ENTITY showConnections.label         "Bağlantı...">
+<!ENTITY showConnections.accesskey     "b">
+<!ENTITY proxiesInfo.label             "&brandShortName; uygulamasının internete nasıl bağlanacağını ayarlayın.">
+<!ENTITY connectionsInfo.caption       "Bağlantı">
+<!ENTITY offlineInfo.caption           "Çevrim dışı">
+<!ENTITY offlineInfo.label             "Çevrim dışı çalışma ayarları">
+<!ENTITY showOffline.label             "Çevrim dışı...">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY viewCertificates.label         "Sertifikaları göster">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "Hükümsüz sayılanları göster">
+<!ENTITY viewCRLs.accesskey             "e">
+
+<!ENTITY viewSecurityDevices.label      "Güvenlik aygıtları">
+<!ENTITY viewSecurityDevices.accesskey  "g">
+
+
+<!ENTITY certificatesInfo2.label      "Sertifikaları, hükümsüz sayılanlar listesini, sertifika geçerlilik denetimini ve güvenlik aygıtlarını yönetin.">
+<!ENTITY validation.label               "Doğrulama">
+<!ENTITY validation.accesskey           "d">
+

@@ -1,0 +1,78 @@
+<!ENTITY copy.key              "C">
+<!ENTITY copy.label            "Kopyala">
+<!ENTITY copy.accesskey        "K">
+<!ENTITY closeWindow.key       "w">
+<!ENTITY generalEncoding "Kodlama:">
+<!ENTITY generalMetaContent "İçerik:">
+<!ENTITY generalMetaName "Adı:">
+<!ENTITY generalModified "Değişme tarihi:">
+<!ENTITY generalReferrer "Yönlendiren URL:">
+<!ENTITY generalSize "Boyut:">
+<!ENTITY generalSource "Kaynak: ">
+<!ENTITY generalTab "Genel">
+<!ENTITY generalTab.accesskey  "G">
+<!ENTITY generalType "Tür:">
+<!ENTITY generalURL "URL:">
+<!ENTITY mediaText "Alternatif metin:">
+<!ENTITY mediaAltHeader "Alternatif metin">
+<!ENTITY mediaCount            "Sayaç">
+<!ENTITY mediaDimension "Boyutlar:">
+<!ENTITY mediaLongdesc "Ayrıntılı açıklama:">
+
+<!ENTITY mediaPreview          "Ortam önizleme:">
+<!ENTITY  mediaBlockImage.accesskey "O">
+<!ENTITY mediaSaveAs "Farklı kaydet...">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY mediaSaveAs.accesskey "F">
+<!ENTITY mediaTab "Ortam">
+<!ENTITY mediaTab.accesskey "O">
+
+<!ENTITY mediaType "Türü">
+
+<!ENTITY pageInfoWindow.height "531">
+<!ENTITY pageInfoWindow.width "438">
+<!ENTITY selectall.key         "A">
+<!ENTITY selectall.label       "Tümünü seç">
+<!ENTITY selectall.accesskey   "S">
+<!ENTITY  generalSecurityMore.accesskey "d">
+<!ENTITY  mediaAddress          "Adres">
+<!ENTITY  mediaSize             "Boyut">
+<!ENTITY  feedTab               "Beslemeler">
+<!ENTITY  feedTab.accesskey     "B">
+<!ENTITY  permTab               "İzinler">
+<!ENTITY  permTab.accesskey     "Z">
+<!ENTITY  permUseDefault        "Varsayılanı kullan">
+<!ENTITY  permAllow             "İzin ver">
+<!ENTITY  permAllowSession      "Oturum boyunca izin ver">
+<!ENTITY  permBlock             "Engelle">
+<!ENTITY  permissionsFor        "İzinler:">
+<!ENTITY  permImage             "Resimleri yükle">
+<!ENTITY  permPopup             "İstemeyen pencereleri aç">
+<!ENTITY  permCookie            "Çerez bırak">
+<!ENTITY  permInstall           "Eklenti veya tema kur">
+<!ENTITY  securityTab           "Güvenlik">
+<!ENTITY  securityTab.accesskey "G">
+<!ENTITY  securityHeader        "Sayfanın güvenlik bilgileri">
+<!ENTITY  securityView.certView    "Sertifikaları göster">
+<!ENTITY  securityView.accesskey "G">
+<!ENTITY  securityView.unknown   "Bilinmiyor">
+<!ENTITY  securityView.identity.header   "Sayfa kimliği">
+<!ENTITY  securityView.identity.owner    "Sahibi: ">
+<!ENTITY  securityView.identity.domain   "Site ismi: ">
+<!ENTITY  securityView.identity.verifier "Onaylayan: ">
+<!ENTITY  securityView.privacy.header                   "Güvenlik ve Geçmiş">
+<!ENTITY  securityView.privacy.history                  "Bu siteyi önceden ziyaret ettim mi?">
+<!ENTITY  securityView.privacy.cookies                  "Bu site bilgisayarıma çerez yerleştirdi mi?">
+<!ENTITY  securityView.privacy.viewCookies              "Çerezleri göster">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "R">
+<!ENTITY  securityView.privacy.passwords                "Bu sayfaya ait herhangi bir parola kaydettim mi?">
+<!ENTITY  securityView.privacy.viewPasswords            "Kayıtlı parolaları göster">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "P">
+<!ENTITY  securityView.technical.header                 "Teknik ayrıntılar">
+
+<!ENTITY  feedSubscribe         "Abone ol">
+<!ENTITY  feedSubscribe.accesskey "o">
+<!ENTITY  generalSecurityMore   "Devamı">
+
+<!ENTITY  generalMode           "Yorum kipi:">
+<!ENTITY  mediaLocation         "Konum:">

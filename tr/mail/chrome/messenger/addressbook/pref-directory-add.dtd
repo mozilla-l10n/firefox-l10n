@@ -1,0 +1,34 @@
+<!ENTITY Advanced.tab "Gelişmiş">
+<!ENTITY General.tab "Genel">
+<!ENTITY Offline.tab "Çevrimdışı">
+<!ENTITY advancedOptionsButton.accesskey "g">
+<!ENTITY advancedOptionsButton.label "Gelişmiş özellikler">
+<!ENTITY advancedOptionsTitle.label "Gelişmiş Özellikler">
+<!ENTITY directoryBaseDN.accesskey "T">
+<!ENTITY directoryBaseDN.label "Temel DN:">
+<!ENTITY directoryHostname.accesskey "M">
+<!ENTITY directoryHostname.label "Makina adı:">
+<!ENTITY directoryLogin.accesskey "K">
+<!ENTITY directoryLogin.label "Kullanıcı adı ve parola ile oturum aç">
+<!ENTITY directoryName.accesskey "s">
+<!ENTITY directoryName.label "İsim:">
+<!ENTITY directorySecure.accesskey "ü">
+<!ENTITY directorySecure.label "Güvenli bağlantı kullan (SSL)">
+<!ENTITY findButton.accesskey "b">
+<!ENTITY findButton.label "Bul">
+<!ENTITY newDirectoryTitle.label "Dizin Sunucusu Özellikleri">
+<!ENTITY newDirectoryWidth "36em">
+<!ENTITY offlineText.label "Çevrimdışı çalıştığınızda kullanabilmek için bu dizinin yerel bir kopyasını bilgisayarınıza alabilirsiniz.">
+<!ENTITY portNumber.accesskey "P">
+<!ENTITY portNumber.label "Port numarası:">
+<!ENTITY results.label "Sonuçları geri ver">
+<!ENTITY return.accesskey "H">
+<!ENTITY return.label "Daha fazla döndürme">
+<!ENTITY scope.accesskey "p">
+<!ENTITY scope.label "Kapsam:">
+<!ENTITY scopeOneLevel.accesskey "b">
+<!ENTITY scopeOneLevel.label "Bir düzey ">
+<!ENTITY scopeSubtree.accesskey "a">
+<!ENTITY scopeSubtree.label "Altağaç">
+<!ENTITY searchFilter.accesskey "R">
+<!ENTITY searchFilter.label "Arama filtresi:">

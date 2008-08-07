@@ -1,0 +1,21 @@
+<!ENTITY backwardsCheckbox.accesskey "y">
+<!ENTITY backwardsCheckbox.label "Geriye doğru ara">
+<!ENTITY caseSensitiveCheckbox.accesskey "B">
+<!ENTITY caseSensitiveCheckbox.label "Büyük/küçük harfe duyarlı">
+<!ENTITY closeButton.label "Kapat">
+<!ENTITY findField.accesskey "A">
+<!ENTITY findField.label "Aranacak:">
+<!ENTITY findNextButton.accesskey "s">
+<!ENTITY findNextButton.label "Sonrakini bul">
+<!ENTITY notFoundWarning.label "Girdiğiniz metin bulunamadı.">
+<!ENTITY replaceAllButton.accesskey "T">
+<!ENTITY replaceAllButton.label "Tümünü değiştir">
+<!ENTITY replaceAndFindButton.accesskey "D">
+<!ENTITY replaceAndFindButton.label "Değiştir ve bul">
+<!ENTITY replaceButton.accesskey "E">
+<!ENTITY replaceButton.label "Değiştir">
+<!ENTITY replaceDialog.title "Bul ve değiştir">
+<!ENTITY replaceField.accesskey "D">
+<!ENTITY replaceField.label "Değiştirilecek:">
+<!ENTITY wrapCheckbox.accesskey "B">
+<!ENTITY wrapCheckbox.label "Baştan başla">

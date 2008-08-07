@@ -1,0 +1,16 @@
+<!ENTITY smtpDesc.label "Sadece bir tane giden posta sunucusu(SMTP) belirlemeniz yeterlidir. Giden posta sunucunuzun ismini giriniz.">
+<!ENTITY smtpServer.label "Giden Posta Sunucusu(SMTP) Ayarları">
+<!ENTITY smtpListAdd.label  "Ekle...">
+<!ENTITY smtpListAdd.accesskey  "L">
+<!ENTITY smtpListEdit.label "Düzenle...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Kaldır">
+<!ENTITY smtpListDelete.accesskey "R">
+<!ENTITY smtpListSetDefault.label "Varsayılanları yükle">
+<!ENTITY smtpListSetDefault.accesskey "V">
+<!ENTITY userName.label   "Kullanıcı ismi: ">
+<!ENTITY useSecureConnection.label   "Güvenli Bağlantı: ">
+<!ENTITY serverDescription.label "Açıklama: ">
+<!ENTITY serverName.label "Sunucu ismi: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY useSecureAuthentication.label   "Güvenli kimlik doğrulama: ">

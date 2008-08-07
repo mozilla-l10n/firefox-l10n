@@ -1,0 +1,15 @@
+<!ENTITY  newsBlogSubscriptions.label 	"Canlı yer imi aboneliklerim">
+<!ENTITY  subscriptionDesc.label 			"Not: Canlı yer imi dizinlerinin silinmesi önceden indirilmiş makaleleri etkilemez. ">
+<!ENTITY  feedTitle.label 				"Başlık: ">
+<!ENTITY  location.label 					"Konum: ">
+<!ENTITY  button.addFeed.label 			"Ekle">
+<!ENTITY  button.addFeed.accesskey   		"E">
+<!ENTITY  button.editFeed.label      		"Düzenle">
+<!ENTITY  button.editFeed.accesskey  		"E">
+<!ENTITY  button.removeFeed.label 		"Kaldır">
+<!ENTITY  button.removeFeed.accesskey   	"R">
+<!ENTITY  button.importOPML.label 		"İçe aktar">
+<!ENTITY  button.importOPML.accesskey   	"K">
+<!ENTITY  cmd.close.commandKey             	"w">
+<!ENTITY button.exportOPML.label "Dışa aktar">
+<!ENTITY button.exportOPML.accesskey   "T">

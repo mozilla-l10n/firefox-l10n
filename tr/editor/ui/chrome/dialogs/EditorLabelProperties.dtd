@@ -1,0 +1,11 @@
+<!ENTITY AccessKey.accesskey "E">
+<!ENTITY AccessKey.label "Erişim Tuşu:">
+<!ENTITY EditLabelText.accesskey "D">
+<!ENTITY EditLabelText.label "Metni Düzenle:">
+<!ENTITY LabelFor.accesskey "K">
+<!ENTITY LabelFor.label "Kontrol İçin:">
+<!ENTITY RemoveLabel.accesskey "L">
+<!ENTITY RemoveLabel.label "Etiketi kaldır">
+<!ENTITY Settings.accesskey "A">
+<!ENTITY Settings.label "Ayarlar">
+<!ENTITY windowTitle.label "Etiket özellikleri">

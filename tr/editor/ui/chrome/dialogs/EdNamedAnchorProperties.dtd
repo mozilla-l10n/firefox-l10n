@@ -1,0 +1,4 @@
+<!ENTITY anchorNameEditField.accessKey "e">
+<!ENTITY anchorNameEditField.label "Belirteç İsmi:">
+<!ENTITY nameInput.tooltip "Bu isimlendirilmiş belirteç (hedef) için benzersiz bir isim girin">
+<!ENTITY windowTitle.label "İsimlendirilmiş Belirteç Özellikleri">

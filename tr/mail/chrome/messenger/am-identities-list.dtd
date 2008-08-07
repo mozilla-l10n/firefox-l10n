@@ -1,0 +1,8 @@
+<!ENTITY identitiesListAdd.accesskey "E">
+<!ENTITY identitiesListAdd.label "Ekle">
+<!ENTITY identitiesListDelete.accesskey "S">
+<!ENTITY identitiesListDelete.label "Sil">
+<!ENTITY identitiesListDesc.label "Çoklu Kimlik Desteği">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListEdit.label "Düzenle...">
+<!ENTITY identitiesListTitle.label "Bu Hesapla İlişkilendirilmiş Kimlikler">

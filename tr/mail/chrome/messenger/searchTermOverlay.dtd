@@ -1,0 +1,10 @@
+<!ENTITY matchAll.accesskey "n">
+<!ENTITY matchAll.label "Bunların hepsine uysun.">
+<!ENTITY matchAny.accesskey "u">
+<!ENTITY matchAny.label "Bunlardan birisine uysun.">
+<!ENTITY searchTermListAttributesFlexValue "4">
+<!ENTITY searchTermListOperatorsFlexValue "4">
+<!ENTITY searchTermListValueFlexValue "4">
+<!ENTITY searchTermListButtonsFlexValue "2">
+<!ENTITY matchAllMsgs.label     "Bütün iletiler uysun">
+<!ENTITY matchAllMsgs.accesskey "m">

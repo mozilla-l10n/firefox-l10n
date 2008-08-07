@@ -1,0 +1,8 @@
+<!ENTITY dialogCancel.label "Vazgeç">
+<!ENTITY dialogClose.label "Kapat">
+<!ENTITY percentPrint "#1&#037;">
+<!ENTITY preparing "Hazırlanıyor...">
+<!ENTITY printComplete "Yazdırma tamamlandı.">
+<!ENTITY printWindow.title "Yazdırılan">
+<!ENTITY progress "İlerleme:">
+<!ENTITY title "Başlık:">

@@ -1,0 +1,13 @@
+<!ENTITY AddressTitle.label "Aşağıda posta listesine isimleri yazın veya adresleri sürükleyin:">
+<!ENTITY DownButton.label "Aşağıya">
+<!ENTITY ListDescription.accesskey "a">
+<!ENTITY ListDescription.label "Tanımlama:">
+<!ENTITY ListName.accesskey "i">
+<!ENTITY ListName.label "Liste Adı:">
+<!ENTITY ListNickName.accesskey "a">
+<!ENTITY ListNickName.label "Liste takma adı:">
+<!ENTITY RemoveButton.label "Kaldır">
+<!ENTITY UpButton.label "yukarıya">
+<!ENTITY addToAddressBook.accesskey "B">
+<!ENTITY addToAddressBook.label "Buraya ekle:">
+<!ENTITY mailListWindow.title "Posta Listesi">

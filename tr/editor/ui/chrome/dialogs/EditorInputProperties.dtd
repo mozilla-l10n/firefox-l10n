@@ -1,0 +1,41 @@
+<!ENTITY Accept.accesskey "B">
+<!ENTITY Accept.label "Kabul etme tipleri:">
+<!ENTITY AccessKey.accesskey "E">
+<!ENTITY AccessKey.label "Erişim tuşu:">
+<!ENTITY GroupName.label "Grup adı:">
+<!ENTITY ImageProperties.accesskey "e">
+<!ENTITY ImageProperties.label "Resim dosyası özellikleri...">
+<!ENTITY InitialValue.label "Başlangıç değeri:">
+<!ENTITY InputChecked.accesskey "B">
+<!ENTITY InputChecked.label "Başlangıçta işaretli">
+<!ENTITY InputDisabled.accesskey "K">
+<!ENTITY InputDisabled.label "Kullanılamaz">
+<!ENTITY InputName.label "Alan ismi">
+<!ENTITY InputReadOnly.accesskey "S">
+<!ENTITY InputReadOnly.label "Salt okunur">
+<!ENTITY InputSelected.accesskey "B">
+<!ENTITY InputSelected.label "Başlangıçta seçili">
+<!ENTITY InputSettings.label "Alan ayarları">
+<!ENTITY InputType.accesskey "L">
+<!ENTITY InputType.label "Alan tipi">
+<!ENTITY InputValue.label "Alan değeri:">
+<!ENTITY Name.accesskey "n">
+<!ENTITY TextLength.accesskey "s">
+<!ENTITY TextLength.label "Asgari uzunluk:">
+<!ENTITY TextSize.accesskey "A">
+<!ENTITY TextSize.label "Alan boyutu:">
+<!ENTITY Value.accesskey "v">
+<!ENTITY button.value "Düğme">
+<!ENTITY checkbox.value "İşaret kutucuğu">
+<!ENTITY file.value "Dosya">
+<!ENTITY hidden.value "Gizli">
+<!ENTITY image.value "Görüntü">
+<!ENTITY password.value "Parola">
+<!ENTITY radio.value "Radyo düğmesi">
+<!ENTITY reset.value "Sıfırla düğmesi">
+<!ENTITY submit.value "Gönder düğmesi">
+<!ENTITY tabIndex.accesskey "e">
+<!ENTITY tabIndex.label "Sekme indeksi:">
+<!ENTITY text.value "Metin">
+<!ENTITY windowTitle.label "Form alanı özellikleri">
+<!ENTITY windowTitleImage.label "Form görüntüsü özellikleri">

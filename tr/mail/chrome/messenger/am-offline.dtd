@@ -1,0 +1,37 @@
+<!ENTITY days.label "günden eski mesajları sil.">
+<!ENTITY daysOld.label "günden eski mesajları indir.">
+<!ENTITY diskspaceGroupTitle.label "Disk Alanı">
+<!ENTITY doNotDownload.label "Sabit diske kaydet ( Çevrimdışı kullanım için indirme):">
+<!ENTITY doNotDownloadPop3Movemail.label "Yer sıkıntısı çekmemek için indirilmeyenler:">
+<!ENTITY kb.label " KB den büyük ise indirme.">
+<!ENTITY makeInboxMsgsAvailable.accesskey "e">
+<!ENTITY makeInboxMsgsAvailable.label "Çevrimdışı çalışacağım zaman gelen posta dizinindeki postalarda çalışmamı sağla">
+<!ENTITY message.label "mesajı bırak.">
+
+<!ENTITY nntpDownloadMsg.accesskey "N">
+<!ENTITY nntpDownloadMsg.label "Son ">
+
+<!ENTITY nntpNotDownloadRead.accesskey "S">
+<!ENTITY nntpNotDownloadRead.label "Mesajları oku">
+<!ENTITY nntpRemoveBody.accesskey "e">
+<!ENTITY nntpRemoveBody.label "Belirtilenden eskimiş postaların içeriklerini sil :">
+<!ENTITY offlineDesc.label "İletilerinizi yerel olarak kaydederek onlara çevrim dışıyken de ulaşabilirsiniz.">
+<!ENTITY offlineGroupTitle.label "Çevrimdışı">
+<!ENTITY offlineNewFolder.accesskey "e">
+<!ENTITY offlineNewFolder.label "Yeni dizin yarattığımda, Çevrimdışı çalışmasını sağla">
+<!ENTITY offlineNotDownload.accesskey "R">
+<!ENTITY offlineNotDownload.label "Mesajlar ">
+
+<!ENTITY offlineSelectImap.label "Çevrim dışı kullanım için dizin seçin...">
+<!ENTITY offlineSelectImap.accesskey "S">
+<!ENTITY offlineSelectNntp.label "Çevrim dışı kullanım için Haber grubu seçin...">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY retentionCleanup.label "Boşyer kazanmak için eski mesajlarınızı düzenli aralıklar ile silebilirsiniz.">
+<!ENTITY retentionKeepMsg.label "Son ">
+<!ENTITY retentionKeepMsg.accesskey "N">
+<!ENTITY retentionKeepAll.label "Hiçbir mesajı silme.">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "Hepsini sil fakat son">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "Okunan mesajları daima sil.">
+<!ENTITY retentionKeepUnread.accesskey "r">

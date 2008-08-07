@@ -1,0 +1,4 @@
+<!ENTITY fieldList.label "Adres Alanları">
+<!ENTITY fieldMapExport.add "Alan Ekle->">
+<!ENTITY fieldMapExport.addAll "Tümünü ekle ->">
+<!ENTITY fieldMapExport.title "Adres defterini dışarı aktar">

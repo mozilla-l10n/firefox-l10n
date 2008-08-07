@@ -1,0 +1,43 @@
+<!ENTITY  window.width                   "46em">
+<!ENTITY  connectionsDialog.title       "Bağlantı ayarları">
+<!ENTITY autoTypeRadio.accesskey "A">
+<!ENTITY autoTypeRadio.label "Otomatik vekil sunucu ayarlama adresi:">
+<!ENTITY directTypeRadio.accesskey "D">
+<!ENTITY directTypeRadio.label "Doğrudan bağlantı">
+<!ENTITY  ftp.label                     "FTP Vekil Sunucusu:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Gopher Vekil Sunucusu:">
+<!ENTITY  gopher.accesskey              "g">
+
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.accesskey           "t">
+
+<!ENTITY http.accesskey "H">
+<!ENTITY http.label "HTTP Vekil Sunucusu">
+<!ENTITY manualTypeRadio.accesskey "i">
+<!ENTITY manualTypeRadio.label "Vekil sunucu kullan">
+<!ENTITY noproxy.accesskey "N">
+<!ENTITY noproxy.label "Vekil sunucu kullanma">
+<!ENTITY noproxyExplain.label "Örnek: .linux-sevenler.org">
+
+<!ENTITY proxyTitle.label "Internet Vekil Sunucu Ayarları">
+<!ENTITY reload.accesskey "T">
+<!ENTITY reload.label "Tekrar yükle">
+<!ENTITY socks.accesskey "C">
+<!ENTITY socks.label "SOCKS Makina:">
+<!ENTITY socks4.accesskey "K">
+<!ENTITY socks4.label "SOCKS  v4">
+<!ENTITY socks5.accesskey "V">
+<!ENTITY socks5.label "SOCKS  v5">
+<!ENTITY ssl.accesskey "S">
+<!ENTITY ssl.label "SSL Vekil sunucusu:">
+<!ENTITY  shareproxy.label              "Vekil sunucuyu bütün protokollerde kullan">
+<!ENTITY  shareproxy.accesskey          "V">
+<!ENTITY  WPADTypeRadio.label           "Vekil sunucu ayarlarını otomatik tanı">
+<!ENTITY  WPADTypeRadio.accesskey       "S">
+
+

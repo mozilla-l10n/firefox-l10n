@@ -1,0 +1,10 @@
+<!ENTITY brandMotto "The Browser, Reloaded">
+<!ENTITY credit.memory "Adına Adadıklarımız.">
+<!ENTITY credit.thanks "Özel Olarak Teşekkür Ettiklerimiz">
+<!ENTITY credit.thanks2      "Teşekkürlerimizi sunuyoruz:">
+
+<!ENTITY credit.translation "<h3>Çevirmenler</h3><ul><li>Mozilla Türkiye</li><li>Erkan Kaplan</li><li>Ahmet Serkan Tıratacı</li></ul>">
+
+<!ENTITY credit.poweredByGeckoReg "Gücünün kaynağı Gecko&reg;.">
+
+<!ENTITY credit.contributors2 "Katkıda Bulunanlar">

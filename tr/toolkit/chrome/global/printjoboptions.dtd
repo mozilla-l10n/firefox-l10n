@@ -1,0 +1,17 @@
+<!ENTITY bottomInput.label "Alt:">
+<!ENTITY cmdInput.label "Yazdırma komutu:">
+<!ENTITY colorGroup.label "Renkler:">
+<!ENTITY colorRadio.label "Renkler">
+<!ENTITY colorspaceInput.label "Renk boşluğu:">
+<!ENTITY edgeMarginInput.label "Kenar boşluk uzunluğunun sınırı (inc)">
+<!ENTITY fontsGroup.label "Yazıtipleri:">
+<!ENTITY downloadFonts.label "Yazıcı için yazıtipi indirilsin mi?">
+<!ENTITY grayRadio.label "GrayScale">
+<!ENTITY jobTitleInput.label "Görev başlığı:">
+<!ENTITY leftInput.label "Sol:">
+<!ENTITY paperInput.label "Sayfa boyutu:">
+<!ENTITY plexInput.label "Plex modu:">
+<!ENTITY printJobOptions.title "Yazıcı Özellikleri">
+<!ENTITY resolutionInput.label "Çözülüm/Kalite:">
+<!ENTITY rightInput.label "Sağ:">
+<!ENTITY topInput.label "Üst:">

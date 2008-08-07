@@ -1,0 +1,28 @@
+<!ENTITY all.accesskey "H">
+<!ENTITY all.label "Hepsi">
+<!ENTITY clear.accesskey "l">
+<!ENTITY clear.label "Temizle">
+<!ENTITY closeCmd.commandkey "W">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY copyCmd.commandkey "c">
+<!ENTITY copyCmd.label "Kopyala">
+<!ENTITY errColumn.label "Sütun:">
+<!ENTITY errFile.label "Kaynak dosya:">
+<!ENTITY errLine.label "Satır:">
+<!ENTITY errors.accesskey "r">
+<!ENTITY errors.label "Hatalar">
+<!ENTITY codeEval.label     "Kod:">
+<!ENTITY codeEval.accesskey "o">
+<!ENTITY evaluate.label "Değerlendirme">
+<!ENTITY evaluate.accesskey "m">
+<!ENTITY focus1.commandkey "l">
+<!ENTITY focus2.commandkey "D">
+<!ENTITY messages.accesskey "m">
+<!ENTITY messages.label "Mesajlar">
+<!ENTITY sortFirst.accesskey "S">
+<!ENTITY sortFirst.label "İlk > Son  sıralama düzeni">
+<!ENTITY sortLast.accesskey "K">
+<!ENTITY sortLast.label "Son > İlk sıralama düzeni">
+<!ENTITY warnings.accesskey "U">
+<!ENTITY warnings.label "Uyarılar">
+<!ENTITY errorConsole.title "Hata Konsolu">

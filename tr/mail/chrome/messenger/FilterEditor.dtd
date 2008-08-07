@@ -1,0 +1,38 @@
+<!ENTITY addTag.label "İletiyi etiketle">
+<!ENTITY conditionDesc.label "Gelen E-posta:">
+<!ENTITY filterActionDesc.accesskey "u">
+<!ENTITY filterActionDesc.label "Bu işlemi uygula:">
+<!ENTITY filterName.accesskey "s">
+<!ENTITY filterName.label "Süzgeç İsmi:">
+<!ENTITY highPriorityCmd.label "Yüksek">
+<!ENTITY highestPriorityCmd.label "En yüksek">
+<!ENTITY junk.label "Gereksiz">
+<!ENTITY lowPriorityCmd.label "Düşük">
+<!ENTITY lowestPriorityCmd.label "En düşük">
+<!ENTITY newFolderButton.accesskey "n">
+<!ENTITY newFolderButton.label "Yeni Dizin...">
+
+<!ENTITY normalPriorityCmd.label "normal">
+<!ENTITY notJunk.label "Gereksiz değil">
+
+<!ENTITY setJunkScore.label "Gereksiz konumunu buna ayarla:">
+<!ENTITY watchThread.label "Dizilimleri gözetle">
+<!ENTITY window.title "Süzgeç Kuralları">
+<!ENTITY forwardTo.label "İlet:">
+<!ENTITY replyWithTemplate.label "Şablon ile cevapla:">
+
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Postayı taşı:">
+<!ENTITY copyMessage.label "Postayı kopyala">
+<!ENTITY markMessageRead.label "Postayı okunmuş olarak işaretle">
+<!ENTITY markMessageStarred.label "Postayı işaretle">
+
+<!ENTITY setPriority.label "Önemlilik">
+<!ENTITY deleteMessage.label "Postayı sil">
+<!ENTITY deleteFromPOP.label "POP Sunucusundan sil">
+<!ENTITY fetchFromPOP.label "POP Sunucudan mesaj gövdesini getir.">
+<!ENTITY ignoreThread.label "Dizilimi görmezden gel">
+<!ENTITY stopExecution.label "Süzgeç yürütümünü durdur">
+
+

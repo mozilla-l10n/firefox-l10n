@@ -1,0 +1,195 @@
+<!ENTITY CellularNumber.accesskey "m">
+<!ENTITY CellularNumber.label "Mobil">
+<!ENTITY Company.accesskey "Z">
+<!ENTITY Company.label "Organizasyon">
+<!ENTITY Department.accesskey "m">
+<!ENTITY Department.label "Bölüm">
+<!ENTITY FaxNumber.accesskey "f">
+<!ENTITY FaxNumber.label "Faks">
+<!ENTITY GeneratedName.accesskey "S">
+<!ENTITY GeneratedName.label "İsim">
+<!ENTITY HomePhone.accesskey "v">
+<!ENTITY HomePhone.label "Ev telefonu">
+<!ENTITY JobTitle.accesskey "B">
+<!ENTITY JobTitle.label "Başlık">
+<!ENTITY NickName.accesskey "T">
+<!ENTITY NickName.label "Takma isim">
+<!ENTITY PagerNumber.accesskey "h">
+<!ENTITY PagerNumber.label "Çağrı cihazı">
+<!ENTITY PrimaryEmail.accesskey "e">
+<!ENTITY PrimaryEmail.label "E-posta">
+<!ENTITY ScreenName.accesskey "s">
+<!ENTITY ScreenName.label "Ekran ismi">
+<!ENTITY searchItem.title "Hızlı arama">
+<!ENTITY SearchNameOrEmail.accesskey "S">
+<!ENTITY SearchNameOrEmail.label "İsim veya posta içerirse:">
+<!ENTITY SecondEmail.accesskey "L">
+<!ENTITY SecondEmail.label "Seçmeli e-posta">
+<!ENTITY WorkPhone.accesskey "T">
+<!ENTITY WorkPhone.label "İş telefonu">
+<!ENTITY _PhoneticName.accesskey "O">
+<!ENTITY _PhoneticName.label "Phonetic ismi">
+
+<!ENTITY addressbookWindow.title "Adres defteri">
+<!ENTITY addresses.heading "Adresler">
+
+<!ENTITY advancedButton.tooltip "Gelişmiş adres arama">
+<!ENTITY bringAllToFront.label "Hepsini ön plana al">
+
+
+<!ENTITY closeCmd.accesskey "K">
+<!ENTITY closeCmd.key "w">
+<!ENTITY closeCmd.label "Kapat">
+
+
+<!ENTITY contact.heading "Adres">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY copyCmd.key "c">
+<!ENTITY copyCmd.label "Kopyala">
+<!ENTITY customizeToolbar.accesskey "z">
+<!ENTITY customizeToolbar.label "Özelleştir...">
+<!ENTITY cutCmd.accesskey "K">
+<!ENTITY cutCmd.key "x">
+<!ENTITY cutCmd.label "Kes">
+<!ENTITY deleteAbCmd.label "Adres defteri sil">
+
+
+<!ENTITY deleteButton.accesskey "s">
+<!ENTITY deleteButton.label "Sil">
+<!ENTITY deleteButton.tooltip "Seçilen kartı veya adres defterini sil">
+<!ENTITY deleteCardCmd.label "Kartı Sil">
+<!ENTITY deleteCardsCmd.label "Seçilen Kartları Sil">
+<!ENTITY deleteCmd.accesskey "s">
+<!ENTITY deleteCmd.key "d">
+<!ENTITY deleteCmd.label "Sil">
+<!ENTITY description.heading "Açıklama">
+<!ENTITY dirTreeHeader.label "Adres defteri">
+<!ENTITY displayNameCmd.accesskey "r">
+<!ENTITY displayNameCmd.label "Görüntülenecek isim">
+<!ENTITY editButton.accesskey "Z">
+<!ENTITY editButton.label "Özellikler">
+<!ENTITY editButton.tooltip "Seçilen kartı düzenle">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.label "Düzenle">
+<!ENTITY exportCmd.accesskey "a">
+<!ENTITY exportCmd.label "Dışa aktar...">
+<!ENTITY fileMenu.accesskey "D">
+<!ENTITY fileMenu.label "Dosya">
+<!ENTITY firstLastCmd.accesskey "ı">
+<!ENTITY firstLastCmd.label "Adı Soyadı">
+
+<!ENTITY hideSwapFnLnUI "true">
+
+
+<!ENTITY home.heading "Home">
+<!ENTITY importCmd.accesskey "t">
+<!ENTITY importCmd.label "İçe aktar...">
+<!ENTITY lastFirstCmd.accesskey "a">
+<!ENTITY lastFirstCmd.label "Soyadı, Adı">
+<!ENTITY mapIt.tooltip "Web üzerinden bu adresin bir haritasını göster">
+<!ENTITY mapItButton.label "Kart getir">
+<!ENTITY menu_ShowNameAs.accesskey "ö">
+<!ENTITY menu_ShowNameAs.label "İsmi farklı göster:">
+<!ENTITY messengerCmd.accesskey "p">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY messengerCmd.label "E-posta ve Haber Grupları">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Küçült">
+
+
+<!ENTITY newAddressBookCmd.accesskey "A">
+<!ENTITY newAddressBookCmd.label "Adres defteri...">
+<!ENTITY newCard.accesskey "d">
+<!ENTITY newCard.key "N">
+<!ENTITY newCard.label "Adres defteri kartı...">
+<!ENTITY newIM.accesskey "M">
+<!ENTITY newIM.label "IM">
+<!ENTITY newIM.tooltip "Instand mesajı gönder veya chat yap">
+<!ENTITY newLDAPDirectoryCmd.accesskey "D">
+<!ENTITY newLDAPDirectoryCmd.label "LDAP dizini...">
+<!ENTITY newListCmd.accesskey "L">
+<!ENTITY newListCmd.label "Posta listesi...">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMenu.label "Yeni">
+<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY newMessageCmd.key "m">
+<!ENTITY newMessageCmd.label "Mesajlar">
+<!ENTITY newcardButton.accesskey "y">
+<!ENTITY newcardButton.label "Yeni Kart">
+<!ENTITY newcardButton.tooltip "Yeni bir adres defteri kartı oluştur">
+<!ENTITY newlistButton.accesskey "Y">
+<!ENTITY newlistButton.label "Yeni Liste">
+<!ENTITY newlistButton.tooltip "Yeni bir liste oluştur">
+<!ENTITY newmsgButton.accesskey "y">
+<!ENTITY newmsgButton.label "Yeni posta">
+<!ENTITY newmsgButton.tooltip "Yeni posta yaz">
+<!ENTITY other.heading "Diğer">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.key "v">
+<!ENTITY pasteCmd.label "Yapıştır">
+<!ENTITY phone.heading "Telefon">
+<!ENTITY preferencesCmd.accesskey "z">
+<!ENTITY preferencesCmd.key "o">
+<!ENTITY preferencesCmd.label "Özellikler...">
+<!ENTITY preferencesCmdUnix.accesskey "C">
+<!ENTITY preferencesCmdUnix.label "Tercihler">
+<!ENTITY printAddressBook.accesskey "a">
+<!ENTITY printAddressBook.label "Adres defterini yazdır...">
+<!ENTITY printCardViewCmd.accesskey "k">
+<!ENTITY printCardViewCmd.key "p">
+<!ENTITY printCardViewCmd.label "Kartı yazdır...">
+<!ENTITY printPreviewAddressBook.accesskey "r">
+<!ENTITY printPreviewAddressBook.label "Adres defteri yazdırma önizleme">
+<!ENTITY printPreviewCardViewCmd.accesskey "K">
+<!ENTITY printPreviewCardViewCmd.label "Kart yazdırma önizleme">
+<!ENTITY printSetupCmd.accesskey "y">
+<!ENTITY printSetupCmd.label "Sayfa düzeni...">
+<!ENTITY propertiesCmd.accesskey "r">
+<!ENTITY propertiesCmd.key "i">
+<!ENTITY propertiesCmd.label "Özellikler...">
+<!ENTITY quickSearchCmd.key "K">
+<!ENTITY quitApplicationCmd.accesskey "k">
+<!ENTITY quitApplicationCmd.key "q">
+<!ENTITY quitApplicationCmd.label "Çık">
+<!ENTITY quitApplicationCmdWin.accesskey "K">
+<!ENTITY quitApplicationCmdWin.label "Çık">
+<!ENTITY redoCmd.accesskey "Y">
+<!ENTITY redoCmd.key "y">
+<!ENTITY redoCmd.label "Yinele">
+
+<!ENTITY searchAddressesCmd.accesskey "A">
+<!ENTITY searchAddressesCmd.key "F">
+<!ENTITY searchAddressesCmd.label "Adres ara...">
+<!ENTITY selectAllCmd.accesskey "e">
+<!ENTITY selectAllCmd.key "a">
+<!ENTITY selectAllCmd.label "Hepsini seç">
+<!ENTITY showAbToolbarCmd.accesskey "r">
+<!ENTITY showAbToolbarCmd.label "Araç çubuğunu göster">
+<!ENTITY showCardPane.accesskey "k">
+<!ENTITY showCardPane.label "Kart özetleri levhası">
+<!ENTITY showTaskbarCmd.label                           "Durum çubuğu">
+<!ENTITY showTaskbarCmd.accesskey                       "D">
+
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortAscending.label "Artarak">
+<!ENTITY sortDescending.accesskey "n">
+<!ENTITY sortDescending.label "Azalan">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortMenu.label "Sırala">
+<!ENTITY statusText.label "">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "i">
+<!ENTITY swapFirstNameLastNameCmd.label "Ad/Soyad isimlerini değiştir">
+<!ENTITY tasksMenu.accesskey "L">
+<!ENTITY tasksMenu.label "Araçlar">
+
+<!ENTITY throbberItem.title "Durum göstergesi">
+<!ENTITY undoCmd.accesskey "R">
+<!ENTITY undoCmd.key "z">
+<!ENTITY undoCmd.label "Geri al">
+<!ENTITY viewMenu.accesskey "n">
+<!ENTITY viewMenu.label "Görünüm">
+<!ENTITY viewToolbarsMenu.accesskey "R">
+<!ENTITY viewToolbarsMenu.label "Araç çubuğu">
+<!ENTITY windowMenu.label "Pencere">
+<!ENTITY work.heading "İş">
+<!ENTITY zoomWindow.label "Ölçek">

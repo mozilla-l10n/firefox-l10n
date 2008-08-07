@@ -1,0 +1,21 @@
+<!ENTITY aboutCmd.label ".Hakkında">
+<!ENTITY editMode.label "Düzenleme Kipi">
+<!ENTITY editorWindow.titlemodifier "Düzenleyici">
+<!ENTITY editorWindow.titlemodifiermenuseparator " -">
+<!ENTITY formatMenu.label "Biçim">
+<!ENTITY formatmenu.accesskey "B">
+<!ENTITY helpMenu.label "Yardım">
+<!ENTITY statusText.label "Sayfa yüklemesi tamamlandı">
+
+<!ENTITY viewMenu.label "Göster ">
+<!ENTITY viewmenu.accesskey "G">
+<!-- View menu items -->
+
+<!ENTITY compositionToolbarCmd.label "Mesaj yazma araç çubuğu">
+<!ENTITY compositiontb.accesskey "M">
+<!ENTITY formattingToolbarCmd.label "Biçem araç çubuğu">
+<!ENTITY formattingtb.accesskey "B">
+<!ENTITY editmodeToolbarCmd.label "Modus araç çubuğu düzenle">
+<!ENTITY editmodetb.accesskey "E">
+<!ENTITY taskbarCmd.label "Durum çubuğu">
+<!ENTITY taskbarCmd.accesskey "u">

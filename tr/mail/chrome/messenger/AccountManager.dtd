@@ -1,0 +1,13 @@
+<!ENTITY accountManager.size "width: 70em; height: 54em;">
+<!ENTITY accountManagerTitle.label "Posta ve Haber Grubu Hesap Ayarları">
+<!ENTITY accountTree.width "width:  20em;">
+<!ENTITY addAccountButton.accesskey "h">
+<!ENTITY addAccountButton.label "Hesap Ekle...">
+<!ENTITY duplicate.label "İkile">
+<!ENTITY duplicateButton.label "İkile">
+<!ENTITY macAccountManager.size "width: 70em; height: 50em;">
+<!ENTITY nameCol.label "İsim">
+<!ENTITY removeButton.accesskey "h">
+<!ENTITY removeButton.label "Hesabı Sil">
+<!ENTITY setDefaultButton.accesskey "o">
+<!ENTITY setDefaultButton.label "Varsayılan Olarak Ayarla">

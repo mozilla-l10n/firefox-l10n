@@ -1,0 +1,9 @@
+<!ENTITY position.label             "Konum:">
+<!ENTITY tile.label                 "Döşe">
+<!ENTITY center.label               "Merkez">
+<!ENTITY stretch.label              "Genişlet">
+<!ENTITY preview.label              "Önizleme">
+<!ENTITY color.label                "Renk:">
+<!ENTITY setDesktopBackground.title "Masaüstü arkaplanı olarak ayarla">
+<!ENTITY openDesktopPrefs.label     "Masaüstü tercihlerini aç">
+<!ENTITY closeWindow.key            "w">

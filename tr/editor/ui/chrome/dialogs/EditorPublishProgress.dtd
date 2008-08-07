@@ -1,0 +1,11 @@
+<!ENTITY docSubdir.label "Sayfa altklasörü:">
+<!ENTITY failed.label "Hatalı">
+<!ENTITY fileList.label "Yayınlama Durumu">
+<!ENTITY filenameHeader.label "Dosya Adı">
+<!ENTITY keepOpen "Yayınlama tamamlandıktan sonra bu pencereyi açık tut.">
+<!ENTITY otherSubdir.label "İmge Altklasörü:">
+<!ENTITY siteUrl.label "Sayfa URL:">
+<!ENTITY status.label "Yayınlama...">
+<!ENTITY statusHeader.label "Durum">
+<!ENTITY succeeded.label "Tamamlandi">
+<!ENTITY closeButton.label     "Kapat">

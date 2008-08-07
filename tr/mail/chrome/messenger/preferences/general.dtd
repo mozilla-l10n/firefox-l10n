@@ -1,0 +1,38 @@
+<!ENTITY systemDefaults.label             	"Varsayılan Ayarlar">
+<!ENTITY alwaysCheckDefault.label          "&brandShortName; başlarken öntanımlı uygulama olarak ayarlanabilir">
+<!ENTITY alwaysCheckDefault.accesskey      "n">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Şimdi kontrol et">
+<!ENTITY checkNow.accesskey         "M">
+<!ENTITY messengerStartPage.label         "&brandShortName; Başlangıç Sayfası">
+<!ENTITY enableStartPage.accesskey "g">
+<!ENTITY enableStartPage.label "&brandShortName; açıldığında ileti alanında başlangıç sayfasını göster">
+<!ENTITY location.label "Konum:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.accesskey "r">
+<!ENTITY useDefault.label "Öntanımlı Ayarlara Dön">
+<!ENTITY bounceSystemDockIcon.accesskey "o">
+<!ENTITY bounceSystemDockIcon.label "Küçük simgeyi oynat">
+<!ENTITY newMessagesArrive.label          "Yeni Mesaj Geldiğinde">
+<!ENTITY playSound.label                  "Ses dosyası çal">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Beni uyar">
+<!ENTITY showAnimatedAlert.accesskey      "y">
+<!ENTITY customizeMailAlert.label         "Özelleştir...">
+<!ENTITY customizeMailAlert.accesskey     "z">
+<!ENTITY play.label                       "Çal">
+<!ENTITY play.accesskey                   "L">
+<!ENTITY systemsoundMac.label             "Sistem uyarı ses dosyaları">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY soundNotification1.caption       "Ses dosyası">
+<!ENTITY systemsound.label                "Yeni posta var için öntanımlı ses dosyası">
+<!ENTITY browse.label                     "Gözat...">
+<!ENTITY browse.accesskey                 "G">
+<!ENTITY customsound.label                "Aşağıdaki ses dosyalarını kullan">
+<!ENTITY customsound.accesskey            "U">

@@ -1,0 +1,13 @@
+<!ENTITY status.certificates "Sertifikalar:">
+<!ENTITY status.encrypted "Şifreleme:">
+<!ENTITY status.heading "Mesajınızın içeriği bunlara gönderilecektir:">
+<!ENTITY status.signed "Sayısal imzalı:">
+<!ENTITY subject.plaintextWarning "Lütfen unutmayın: E-postaların konu başlıkları asla şifrelenmezler.">
+<!ENTITY title.label "Mesaj güvenliği">
+<!ENTITY tree.expiresDate "Geçerlilik tarihi:">
+<!ENTITY tree.issuedDate "Yayınlayıcı:">
+<!ENTITY tree.recipient "Alıcı:">
+<!ENTITY tree.status "Durum:">
+<!ENTITY view.label "Göster">
+<!ENTITY view.accesskey "G">
+

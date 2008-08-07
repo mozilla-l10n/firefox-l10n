@@ -1,0 +1,32 @@
+<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY accountDirectory.label "Sunucunun 'Gelen' kutusunda sakla">
+
+<!ENTITY deferGetNewMail.accesskey "S">
+<!ENTITY deferGetNewMail.label "Yeni mesajları indirirken sunucudan da indir.">
+<!ENTITY deferToServer.accesskey "K">
+<!ENTITY deferToServer.label "Yandaki hesapların 'Gelen' kutusunda sakla">
+<!ENTITY dualUseFolders.accesskey "s">
+<!ENTITY dualUseFolders.label "Sunucu, altdizinler ve mesaj alındığı dizinleri destekliyor.">
+<!ENTITY folderStorage.label "Posta kayıt yeri">
+<!ENTITY globalInbox.accesskey "g">
+<!ENTITY globalInbox.label "Gelen kutusunda sakla (Yerel gelen kutusu)">
+<!ENTITY imapAdvanced.label "Gelişmiş IMAP sunucu ayarları">
+<!ENTITY maximumConnectionsNumber.accesskey "N">
+<!ENTITY maximumConnectionsNumber.label "Önbelleğe alınacak bağlantı sayısı üst sınırı">
+<!ENTITY namespaceDesc.label "Bu ayarlar IMAP sunucunuzu tanımlar.">
+<!ENTITY otherUsersNamespace.accesskey "i">
+<!ENTITY otherUsersNamespace.label "Diğer kullanıcılar:">
+<!ENTITY overrideNamespaces.accesskey "N">
+<!ENTITY overrideNamespaces.label "Sunucuya bu Namespaces aktarılmasına izin ver">
+<!ENTITY personalNamespace.accesskey "z">
+<!ENTITY personalNamespace.label "Özel namespace:">
+<!ENTITY pop3Desc.label "Bu sunucunun pop3 hesaplarını indirdikten sonra, hesabın yerel dizinndeki 'Gelen' kutusundaki  saklayabilirsiniz.">
+<!ENTITY publicNamespace.accesskey "E">
+<!ENTITY publicNamespace.label "Genel (ortak kullanılan):">
+<!ENTITY serverAdvanced.label "Gelişmiş hesap ayarları">
+<!ENTITY serverDirectory.accesskey "D">
+<!ENTITY serverDirectory.label "IMAP sunucu dizini:">
+<!ENTITY useIdle.accesskey "l">
+<!ENTITY useIdle.label "Sunucu desteklerse IDLE komutunu kullan">
+<!ENTITY usingSubscription.accesskey "e">
+<!ENTITY usingSubscription.label "Sadece üye olunan klasörleri göster">

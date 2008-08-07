@@ -1,0 +1,52 @@
+<!ENTITY SmileButton.tooltip "Gülen yüzler ekle">
+<!ENTITY insertSmiley.accesskey "s">
+<!ENTITY insertSmiley.label "Gülümseme">
+<!ENTITY smiley10Cmd.accesskey "r">
+<!ENTITY smiley10Cmd.label "Bağır">
+<!ENTITY smiley11Cmd.accesskey "c">
+<!ENTITY smiley11Cmd.label "Cool">
+<!ENTITY smiley12Cmd.accesskey "A">
+<!ENTITY smiley12Cmd.label "Ağzı paralı">
+<!ENTITY smiley13Cmd.accesskey "e">
+<!ENTITY smiley13Cmd.label "Çenede ayak">
+<!ENTITY smiley14Cmd.accesskey "u">
+<!ENTITY smiley14Cmd.label "Suçsuz">
+<!ENTITY smiley15Cmd.accesskey "A">
+<!ENTITY smiley15Cmd.label "Ağlamaklı">
+<!ENTITY smiley16Cmd.accesskey "D">
+<!ENTITY smiley16Cmd.label "Dudaklar kapalı">
+<!ENTITY smiley1Cmd.accesskey "G">
+<!ENTITY smiley1Cmd.label "Gülümseme">
+<!ENTITY smiley2Cmd.accesskey "K">
+<!ENTITY smiley2Cmd.label "Kızma">
+<!ENTITY smiley3Cmd.accesskey "G">
+<!ENTITY smiley3Cmd.label "Göz kırpma">
+<!ENTITY smiley4Cmd.accesskey "t">
+<!ENTITY smiley4Cmd.label "Dil çıkartma">
+<!ENTITY smiley5Cmd.accesskey "l">
+<!ENTITY smiley5Cmd.label "Gülme">
+<!ENTITY smiley6Cmd.accesskey "E">
+<!ENTITY smiley6Cmd.label "Engellendi">
+<!ENTITY smiley7Cmd.accesskey "K">
+<!ENTITY smiley7Cmd.label "Kararsız">
+<!ENTITY smiley8Cmd.accesskey "m">
+<!ENTITY smiley8Cmd.label "Şaşırmış">
+<!ENTITY smiley9Cmd.accesskey "p">
+<!ENTITY smiley9Cmd.label "Öpücük">
+
+<!ENTITY smiley1Cmd.tooltip "Gülümseyen bir yüz ekler">
+<!ENTITY smiley2Cmd.tooltip "Kızgın bir yüz ekler">
+<!ENTITY smiley3Cmd.tooltip "Gözkırpan bir yüz ekler">
+<!ENTITY smiley4Cmd.tooltip "Dil çıkartan bir yüz ekler">
+<!ENTITY smiley5Cmd.tooltip "Gülen bir yüz ekler">
+<!ENTITY smiley6Cmd.tooltip "Engelleyen bir yüz ekler">
+<!ENTITY smiley7Cmd.tooltip "Kararsız bir yüz ekler">
+<!ENTITY smiley8Cmd.tooltip "Şaşırmış bir yüz ekler">
+<!ENTITY smiley9Cmd.tooltip "Öpen bir yüz ekler">
+<!ENTITY smiley10Cmd.tooltip "Bağıran bir yüz ekler">
+<!ENTITY smiley11Cmd.tooltip "Sakin bir yüz ekler">
+<!ENTITY smiley12Cmd.tooltip "Ağzı kapalı bir yüz ekler">
+<!ENTITY smiley13Cmd.tooltip "Çenede ayaklı bir yüz ekler">
+<!ENTITY smiley14Cmd.tooltip "Masum bir yüz ekler">
+<!ENTITY smiley15Cmd.tooltip "Ağlayan bir yüz ekler">
+<!ENTITY smiley16Cmd.tooltip "Dudakları kapalı bir yüz ekler">

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="Erişilebilirlik Seçenekleri" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Erişilebilirlik Tercihleri" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="kimlik doğrulama (tanım)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="Geri Düğmesi" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="İstenmeden Açılan Pencereleri Engelleme" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="yer imi (tanım)" nc:link="glossary.xhtml#bookmark"/></li>
+        <li><Description nc:name="Yer İmi Araç Çubuğu (tanım)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="Tarama" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="önbellek (tanım)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="sertifika (tanım)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="Sertifikalar" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Sertifika Reddetme Listesi" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="istemci (tanım)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="çerez (tanım)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="şifreleme (tanım)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="şifre çözme (tanım)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="sayısal kimlik (tanım)" nc:link="glossary.xhtml#digital_ID"/></li>
+        <li><Description nc:name="şifreleme (tanım)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="Uzatılabilir İşaretleme Dili (XML) (tanım)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="feed (tanım)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="Dosya Aktarım İletişim Kuralı (FTP) (tanım)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="FIPS PUBS 140-1 (tanım)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="İleri Düğmesi" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="ileri ve geri gitme" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Başlangıç Düğmesi" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="Başlangıç Sayfası (tanım)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="Hipermetin İşaretleme Dili (HTML) (tanım)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="Internet Explorer'daki Sık Kullanılanlar'ı Aktarma" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="İnternet (tanım)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="İnternet İletişim Kuralı (IP) address (tanım)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>
+        <li><Description nc:name="Java (tanım)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="JavaScript (tanım)" nc:link="glossary.xhtml#JavaScript"/></li>
+        <li><Description nc:name="Diller" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="Canlı Yer İmi (tanım)" nc:link="glossary.xhtml#live_bookmark"/></li>
+        <li><Description nc:name="Konum Çubuğu (tanım)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="ana parola (tanım)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="Gezinti Araç Çubuğu (tanım)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="Parola Yöneticisi (tanım)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="PKCS #11 (tanım)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="Yan Uygulama (tanım)" nc:link="glossary.xhtml#Plugin"/></li>
+        <li><Description nc:name="Yan Uygulamalar" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="özel anahtar (tanım)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="vekil sunucu (tanım)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="en son ziyaret edilen siteler" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Tazele Düğmesi" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="arama motoru (tanım)" nc:link="glossary.xhtml#search_engine"/></li>
+        <li><Description nc:name="konum çubuğunu kullanarak arama" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="arama çubuğunu kullanarak arama" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="sayfadaki metni kullanarak arama" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="güvenli site (tanım)" nc:link="glossary.xhtml#secure_site"/></li>
+        <li><Description nc:name="Güvenli Soket Katmanı (SSL) (tanım)" nc:link="glossary.xhtml#SSL"/></li>
+        <li><Description nc:name="sunucu (tanım)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="Ana Parola Koyma ya da Değiştirme" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Yazılım Güncelleme" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="Durum Çubuğu (tanım)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="Dur Düğmesi" c:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="TLS (tanım)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="TCP/IP (Aktarım Denetleme İletişim Kuralı/İnternet İletişim Kuralı) (tanım)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="Kaynak Konumlayıcı (URL) (tanım)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="Doğrulama" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="HTML Kaynağına Bakma" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="web sayfası (tanım)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="web sitesi (tanım)" nc:link="glossary.xhtml#web_site"/></li>
+        <li><Description nc:name="Dünya Çapında Ağ (World Wide Web) (tanım)" nc:link="glossary.xhtml#World_Wide_Web"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>
