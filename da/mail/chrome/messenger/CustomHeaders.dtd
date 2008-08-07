@@ -1,0 +1,7 @@
+<!ENTITY window.title "Tilpas meddelelseshoveder">
+<!ENTITY addButton.label "Tilføj">
+<!ENTITY addButton.accesskey "T">
+<!ENTITY removeButton.label "Fjern">
+<!ENTITY removeButton.accesskey "R">
+<!ENTITY newMsgHeader.label "Nyt meddelelseshoved:">
+<!ENTITY newMsgHeader.accesskey "N">

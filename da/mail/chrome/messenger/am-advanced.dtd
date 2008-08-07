@@ -1,0 +1,15 @@
+<!ENTITY smtpServer.label "Udgående serverindstillinger (SMTP)">
+<!ENTITY smtpDesc.label "Når der sendes meddelser fra denne identitet, skal følgende udgående postserver (SMTP) bruges:">
+<!ENTITY smtpListAdd.label "Tilføj...">
+<!ENTITY smtpListAdd.accesskey "T">
+<!ENTITY smtpListEdit.label "Rediger...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Slet">
+<!ENTITY smtpListDelete.accesskey "S">
+<!ENTITY smtpListSetDefault.label "Vælg som standard">
+<!ENTITY smtpListSetDefault.accesskey "V">
+<!ENTITY serverDescription.label "Beskrivelse:">
+<!ENTITY serverName.label "Servernavn:">
+<!ENTITY serverPort.label "Port:">
+<!ENTITY userName.label "Brugernavn:">
+<!ENTITY useSecureConnection.label "Sikker forbindelse:">

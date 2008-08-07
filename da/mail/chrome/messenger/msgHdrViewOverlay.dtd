@@ -1,0 +1,33 @@
+<!ENTITY toField.label "Til:">
+<!ENTITY fromField.label "Fra:">
+<!ENTITY senderField.label "Afsender:">
+<!ENTITY organizationField.label "Organisation:">
+<!ENTITY replyToField.label "Svar til (Reply-To):">
+<!ENTITY subjectField.label "Emne:">
+<!ENTITY ccField.label "Kopi til (Cc):">
+<!ENTITY bccField.label "Skjult kopi til (Bcc):">
+<!ENTITY newsgroupsField.label "Nyhedsgrupper:">
+<!ENTITY followupToField.label "Følg op på (Followup-To):">
+<!ENTITY tagsHdr.label "Mærker:">
+<!ENTITY dateField.label "Dato:">
+<!ENTITY userAgentField.label "E-mail program:">
+<!ENTITY originalWebsite.label "Hjemmeside:">
+<!ENTITY saveAll.label "Gem alle..">
+<!ENTITY editMessage.label "Rediger kladde...">
+<!ENTITY attachmentsTree.label "Vedhæftede filer:">
+<!ENTITY openAttachmentCmd.label "Åbn...">
+<!ENTITY openAttachmentCmd.accesskey "Å">
+<!ENTITY saveAsAttachmentCmd.label "Gem som...">
+<!ENTITY saveAsAttachmentCmd.accesskey "G">
+<!ENTITY printAttachmentCmd.label ".Udskriv">
+<!ENTITY printAttachmentCmd.accesskey "U">
+<!ENTITY detachAttachmentCmd.label "Fjern">
+<!ENTITY deleteAttachmentCmd.label "Slet">
+<!ENTITY saveAllAttachmentsCmd.label "Gem alle...">
+<!ENTITY saveAllAttachmentsCmd.accesskey "a">
+<!ENTITY detachAllAttachmentsCmd.label "Fjern all...">
+<!ENTITY detachAllAttachmentsCmd.accesskey "F">
+<!ENTITY deleteAllAttachmentsCmd.label "Slet all...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "S">
+<!ENTITY copyLinkCmd.label "Kopier link">
+<!ENTITY copyLinkCmd.accesskey "K">

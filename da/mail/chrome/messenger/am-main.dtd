@@ -1,0 +1,28 @@
+<!ENTITY accountTitle.label "Kontoindstillinger">
+<!ENTITY accountName.label "Kontonavn:">
+<!ENTITY accountName.accesskey "K">
+<!ENTITY accountNameDesc.label "Kontonavnet bliver brugt til at identificerer hver konto">
+<!ENTITY identityTitle.label "Identitet">
+<!ENTITY identityDesc.label "Hver konto har en identitet, som er de oplysninger andre ser om dig, når de læser dine meddelelser.">
+<!ENTITY name.label "Dit navn:">
+<!ENTITY name.accesskey "N">
+<!ENTITY email.label "E-mail-adresse:">
+<!ENTITY email.accesskey "E">
+<!ENTITY replyTo.label "Svar til adresse:">
+<!ENTITY replyTo.accesskey "s">
+<!ENTITY organization.label "Organisation:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "Vedhæft denne underskrift:">
+<!ENTITY signature.accesskey "t">
+<!ENTITY edit.label "Rediger...">
+<!ENTITY choose.label "Vælg...">
+<!ENTITY choose.accesskey "V">
+<!ENTITY editVCard.label "Rediger kortet...">
+<!ENTITY editVCard.accesskey "d">
+<!ENTITY attachVCard.label "Vedhæft personligt visitkort i meddelelser (vCard)">
+<!ENTITY attachVCard.accesskey "v">
+<!ENTITY manageIdentities.label "Rediger identiteter...">
+<!ENTITY manageIdentities.accesskey "i">
+<!ENTITY smtpName.label "Server:">
+<!ENTITY smtpName.accesskey "S">
+<!ENTITY smtpDefaultServer.label "Brug standard server">

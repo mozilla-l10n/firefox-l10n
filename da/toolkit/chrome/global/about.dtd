@@ -1,0 +1,19 @@
+<!ENTITY about.version                "version">
+
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008">
+<!ENTITY about.copy.linkTitle         "Mozilla projektets bidragsydere">
+<!ENTITY about.copy.afterLink         ".">
+
+<!ENTITY about.license.beforeLink     "Læs dette produkts">
+<!ENTITY about.license.linkTitle      "licensinformation">
+<!ENTITY about.license.afterLink      ".">
+
+<!ENTITY about.relnotes.beforeLink    "Læs">
+<!ENTITY about.relnotes.linkTitle     "udgivelsesnoterne">
+<!ENTITY about.relnotes.afterLink     "for denne version.">
+
+<!ENTITY about.buildconfig.beforeLink "Se">
+<!ENTITY about.buildconfig.linkTitle  "build-konfigurationen">
+<!ENTITY about.buildconfig.afterLink  "for denne version.">
+
+<!ENTITY about.buildIdentifier        "Build-identifikation: ">

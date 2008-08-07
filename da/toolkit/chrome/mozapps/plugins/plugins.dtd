@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title                                  "Plug-in Finder Tjenesten">
+<!ENTITY pluginWizard.firstPage.title                        "Velkommen til &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; undersøger nu for tilgænglige plug-ins…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Tilgænglige plug-ins">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Følgende plug-ins er tilgænglige:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Klik Næste for at installere disse plug-ins.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Nogle plug-ins kan måske kræve ydreligere informationer fra dig under installationen.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Plug-in licenser">
+<!ENTITY pluginWizard.licensePage.accept.label               "Jeg accepterer.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Jeg accepterer IKKE (plug-in vil ikke blive installeret).">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Installerer plug-ins">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; installerer plug-ins…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; blev færdig med at installere de manglende plug-ins:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Hør mere om plug-ins eller find selv flere plug-ins.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; skal genstartes for at de nye plug-ins kan blive aktiveret.">
+
+<!ENTITY missingPlugin.label                                 "Klik her for at hente plug-in.">

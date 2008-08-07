@@ -1,0 +1,13 @@
+<!ENTITY mailListWindow.title "Postliste">
+<!ENTITY addToAddressBook.label "Tilføj til:">
+<!ENTITY ListName.label "Liste navn:">
+<!ENTITY ListNickName.label "Liste kaldenavn:">
+<!ENTITY ListDescription.label "Beskrivelse:">
+<!ENTITY AddressTitle.label "Indtast navne eller træk adresser ind i postlisten nedenfor:">
+<!ENTITY RemoveButton.label "Fjern">
+<!ENTITY UpButton.label "Flyt op">
+<!ENTITY DownButton.label "Flyt ned">
+<!ENTITY addToAddressBook.accesskey "T">
+<!ENTITY ListName.accesskey "L">
+<!ENTITY ListNickName.accesskey "k">
+<!ENTITY ListDescription.accesskey "B">

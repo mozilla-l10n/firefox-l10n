@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title          "Guiden Importer fra andre programmer">
+
+<!ENTITY importFrom.label               "Importer indstillinger, bogmærker, historik, adgangskoder og andre data fra:">
+<!ENTITY importFromUnix.label           "Importer præferencer, bogmærker, historik, adgangskoder og andre data fra:">
+<!ENTITY importFromBookmarks.label      "Importer bogmærker fra:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird eller Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "Importer intet">
+<!ENTITY importFromNothing.accesskey    "I">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 eller Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "6">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "b">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "Fra en HTML fil">
+<!ENTITY importFromHTMLFile.accesskey   "F">
+
+<!ENTITY noMigrationSources.label       "Der blev ikke fundet nogle programmer, der indeholder bogmærker, historik eller adgangskoder.">
+
+<!ENTITY importSource.title             "Importer indstillinger og data fra">
+<!ENTITY importItems.title              "Objekter som skal importeres">
+<!ENTITY importItems.label              "Vælg hvilke objekter, der skal importeres:">
+
+<!ENTITY migrating.title                "Importerer…">
+<!ENTITY migrating.label                "Følgende objekter er igang med at blive importeret…">
+
+<!ENTITY selectProfile.title            "Vælg profil">
+<!ENTITY selectProfile.label            "Følgende profiler er tilgængelige til importing fra:">
+
+<!ENTITY done.title                     "Importering komplet">
+<!ENTITY done.label                     "Følgende elementer blev importeret succesfuldt:">
+

@@ -1,0 +1,11 @@
+<!ENTITY windowTitle.label "Etikette egenskaber">
+<!ENTITY Settings.label "Indstillinger">
+<!ENTITY Settings.accesskey "I">
+<!ENTITY EditLabelText.label "Rediger tekst:">
+<!ENTITY EditLabelText.accesskey "R">
+<!ENTITY LabelFor.label "Kontrol:">
+<!ENTITY LabelFor.accesskey "K">
+<!ENTITY AccessKey.label "Tilgængelighedsnøgle:">
+<!ENTITY AccessKey.accesskey "T">
+<!ENTITY RemoveLabel.label "Fjern etikette">
+<!ENTITY RemoveLabel.accesskey "F">

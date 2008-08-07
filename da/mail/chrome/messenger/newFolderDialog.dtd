@@ -1,0 +1,9 @@
+<!ENTITY newFolderDialog.title "Ny mappe">
+<!ENTITY name.label "Navn:">
+<!ENTITY name.accesskey "N">
+<!ENTITY description.label "Opret som en undermappe til:">
+<!ENTITY description.accesskey "O">
+<!ENTITY folderRestriction1.label "Denne server begrænser mapper til to specieller typer.">
+<!ENTITY folderRestriction2.label "Tillad at den nye mappe indeholder:">
+<!ENTITY foldersOnly.label "Kun mapper">
+<!ENTITY messagesOnly.label "kun meddelelser">

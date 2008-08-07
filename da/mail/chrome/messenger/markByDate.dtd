@@ -1,0 +1,5 @@
+<!ENTITY messageMarkByDate.label "Marker meddelelser som læste efter dato">
+<!ENTITY markByDateLower.label "Marker meddelelser som læst fra:">
+<!ENTITY markByDateLower.accesskey "F">
+<!ENTITY markByDateUpper.accesskey "T">
+<!ENTITY markByDateUpper.label "Til:">

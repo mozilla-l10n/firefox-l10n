@@ -1,0 +1,6 @@
+<!ENTITY windowTitle.label "Ret ind til gitter">
+<!ENTITY enableSnapToGrid.label "Aktiver &quot;Ret ind til gitter&quot;">
+<!ENTITY enableSnapToGrid.accessKey "A">
+<!ENTITY sizeEditField.label "Størrelse:">
+<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY pixelsLabel.value "pixler">

@@ -1,0 +1,10 @@
+<!ENTITY header.label     "Kort titel">
+<!ENTITY message.label    "Noget prøvetekst skal skrives her.">
+<!ENTITY editfield0.label "Brugernavn:">
+<!ENTITY editfield1.label "Adgangskode:">
+<!ENTITY editfield2.label "Bekræft adgangskode:">
+<!ENTITY checkbox.label   "marker">
+<!ENTITY copyCmd.label    "Kopier">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Marker alt">
+<!ENTITY selectAllCmd.accesskey "a">

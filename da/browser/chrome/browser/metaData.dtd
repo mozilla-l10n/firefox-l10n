@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "Ingen egenskaber angivet.">
+
+<!ENTITY caption.label         "Elementegenskaber:">
+<!ENTITY image-sec.label       "Billedegenskaber:">
+<!ENTITY image-url.label       "Sted:">
+<!ENTITY image-type.label      "Type:">
+<!ENTITY image-desc.label      "Beskrivelse:">
+<!ENTITY image-alt.label       "Alternativ tekst:">
+<!ENTITY image-size.label      "Billedets størrelse:">
+<!ENTITY image-filesize.label  "Filens størrelse:">
+<!ENTITY insdel-sec.label      "Indsætte/fjerne egenskaber">
+<!ENTITY insdel-cite.label     "Oplysninger:">
+<!ENTITY insdel-date.label     "Dato:">
+<!ENTITY link-sec.label        "Linkegenskaber">
+<!ENTITY link-url.label        "Adresse:">
+<!ENTITY link-target.label     "Åbner i:">
+<!ENTITY link-type.label       "Destinationstype:">
+<!ENTITY link-lang.label       "Destinationssprog:">
+<!ENTITY link-rel.label        "Relation:">
+<!ENTITY link-rev.label        "Baglæns relation:">
+<!ENTITY link-ping.label       "Vil give besked til:">
+<!ENTITY misc-sec.label        "Forskellige egenskaber:">
+<!ENTITY misc-lang.label       "Tekstsprog:">
+<!ENTITY misc-title.label      "Titel:">
+<!ENTITY misc-tblsummary.label "Tabeloversigt:">
+<!ENTITY quote-sec.label       "Citategenskaber">
+<!ENTITY quote-cite.label      "Oplysninger:">

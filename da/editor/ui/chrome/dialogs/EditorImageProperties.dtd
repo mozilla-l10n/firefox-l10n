@@ -1,0 +1,60 @@
+<!ENTITY windowTitle.label "Billedegenskaber">
+<!ENTITY pixelsPopup.value "pixler">
+<!ENTITY percentPopup.value "procent">
+<!ENTITY locationEditField.label "Billedets placering:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "Skriv billedets navn eller placering">
+<!ENTITY title.label "Titel">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip "HTML-attributten &quot;title&quot; der vises som et værktøjstip">
+<!ENTITY altText.label "Alternativ tekst:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Skriv den tekst der skal skrives på billedets plads">
+<!ENTITY noAltText.label "Brug ikke alternativ tekst">
+<!ENTITY noAltText.accessKey "D">
+<!ENTITY previewBox.label "Vis billedet">
+<!ENTITY MoreFewerButton.tooltip "Vis flere eller færre egenskaber at ændre på">
+<!ENTITY actualSize.label "Billedets egen størrelse:">
+<!ENTITY actualSizeRadio.label "Billedets egen størrelse">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "Brug billedets egen størrelse">
+<!ENTITY customSizeRadio.label "Indstil størrelse">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "Ændr billedets størrelse når det vises på siden">
+<!ENTITY heightEditField.label "Højde:">
+<!ENTITY heightEditField.accessKey "H">
+<!ENTITY widthEditField.label "Bredde:">
+<!ENTITY widthEditField.accessKey "B">
+<!ENTITY constrainCheckbox.label "Bundet">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "Bevar billedets størrelsesforhold">
+<!ENTITY imagemapBox.label "Aktive billedområder">
+<!ENTITY removeImageMapButton.label "Fjern">
+<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY editImageMapButton.label "Rediger...">
+<!ENTITY editImageMapButton.tooltip "Gør områder på billedet til aktive områder med link">
+<!ENTITY alignment.label "Juster teksten langs billedet">
+<!ENTITY bottomPopup.value "Forneden">
+<!ENTITY topPopup.value "Foroven">
+<!ENTITY centerPopup.value "I centrum">
+<!ENTITY wrapRightPopup.value "Ombryd til højre">
+<!ENTITY wrapLeftPopup.value "Ombryd til venstre">
+<!ENTITY spacingBox.label "Afstand">
+<!ENTITY spacingBox.tooltip "Skriv et nummer for hvor meget luft der skal være omkring billedet">
+<!ENTITY leftRightEditField.label "Venstre og højre:">
+<!ENTITY leftRightEditField.accessKey "V">
+<!ENTITY topBottomEditField.label "Top og bund:">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "Udfyldt ramme:">
+<!ENTITY borderEditField.accessKey "U">
+<!ENTITY showImageLinkBorder.label "Farvet kant rundt om billeder der er link">
+<!ENTITY showImageLinkBorder.accessKey "U">
+<!ENTITY makePageBackgroundCheckbox.label "Lav sidens baggrund">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Brug billede som sidebaggrund">
+<!ENTITY editImageButton.label "Rediger billede">
+<!ENTITY editImageButton.tooltip "Rediger billedfil i et andet program">
+<!ENTITY imageInputTab.label "Formular">
+<!ENTITY imageLocationTab.label "Sted">
+<!ENTITY imageDimensionsTab.label "Dimensioner">
+<!ENTITY imageAppearanceTab.label "Udseende">
+<!ENTITY imageLinkTab.label "Link">

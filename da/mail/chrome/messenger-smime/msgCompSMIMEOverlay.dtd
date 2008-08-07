@@ -1,0 +1,16 @@
+<!ENTITY securityMenu.label "Sikkerhed">
+<!ENTITY securityMenu.accesskey "e">
+<!ENTITY menu_securityEncryptIfPossible.label "Krypter hvis muligt">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "h">
+<!ENTITY menu_securityEncryptRequire.label "Krypter denne meddelelse">
+<!ENTITY menu_securityEncryptRequire.accesskey "K">
+<!ENTITY menu_securityNoEncryption.label "Krypter ikke denne meddelelse">
+<!ENTITY menu_securityNoEncryption.accesskey "i">
+<!ENTITY menu_securitySign.label "Underskriv meddelelsen digitalt">
+<!ENTITY menu_securitySign.accesskey "U">
+<!ENTITY menu_securityStatus.label "Meddelelsens sikkerhedsoplysninger">
+<!ENTITY menu_securityStatus.accesskey "S">
+<!ENTITY securityButton.label "Sikkerhed">
+<!ENTITY securityButton.tooltip "Vis eller ændre sikkerhedsindstillinger">
+<!ENTITY menu_viewSecurityStatus.label "Sikkerhedsoplysninger">
+<!ENTITY menu_viewSecurityStatus.accesskey "o">

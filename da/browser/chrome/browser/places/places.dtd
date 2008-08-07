@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Arkiv">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Organiser">
+<!ENTITY organize.accesskey    "O">
+
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "Luk">
+<!ENTITY file.close.accesskey           "L">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Rediger">
+<!ENTITY edit.accesskey                 "e">
+<!ENTITY views.label                    "Visninger">
+<!ENTITY views.accesskey                "V">
+<!ENTITY view.toolbar.label             "Værktøjsbjælke">
+<!ENTITY view.toolbar.accesskey         "æ">
+<!ENTITY view.columns.label             "Vis kolonner">
+<!ENTITY view.columns.accesskey         "k">
+<!ENTITY view.sort.label                "Sorter">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Usorteret">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "Stigende sorteringsorden">
+<!ENTITY view.sortAscending.accesskey   "S">
+<!ENTITY view.sortDescending.label      "Faldende sorteringsorden">
+<!ENTITY view.sortDescending.accesskey  "F">
+<!ENTITY help.usingBookmarks.label      "Brug af bogmærker">
+<!ENTITY help.usingBookmarks.accesskey  "B">
+<!ENTITY help.usingHistory.label        "Brug af historik">
+<!ENTITY help.usingHistory.accesskey    "i">
+<!ENTITY help.advancedTips.label        "Avancerede tips &amp; tricks">
+<!ENTITY help.advancedTips.accesskey    "t">
+
+<!ENTITY cmd.findInBookmarks.label      "Find i bogmærker…">
+<!ENTITY cmd.findInBookmarks.accesskey  "F">
+<!ENTITY cmd.findCurrent.label          "Find i nuværende samling…">
+<!ENTITY cmd.findCurrent.accesskey      "i">
+
+<!ENTITY cmd.exportHTML.label           "Eksporter HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "Importer HTML…">
+<!ENTITY cmd.importHTML.accesskey       "I">
+
+<!ENTITY cmd.backup.label               "Sikkerhedskopier…">
+<!ENTITY cmd.backup.accesskey           "S">
+<!ENTITY cmd.restore2.label             "Gendan">
+<!ENTITY cmd.restore2.accesskey         "G">
+<!ENTITY cmd.restoreFromFile.label      "Vælg fil…">
+<!ENTITY cmd.restoreFromFile.accesskey  "V">
+
+<!ENTITY cmd.select_all.label "Vælg alt">
+<!ENTITY cmd.select_all.accesskey "a">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label         "Klip">
+<!ENTITY cmd.edit_cut.accesskey     "p">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "Kopier">
+<!ENTITY cmd.edit_copy.accesskey    "K">
+<!ENTITY cmd.edit_copy.key          "k">
+<!ENTITY cmd.edit_paste.label       "Indsæt">
+<!ENTITY cmd.edit_paste.accesskey   "I">
+<!ENTITY cmd.edit_paste.key         "d">
+<!ENTITY cmd.edit_delete.label      "Slet">
+<!ENTITY cmd.edit_delete.accesskey  "S">
+<!ENTITY cmd.edit_undo.label        "Fortryd">
+<!ENTITY cmd.edit_undo.accesskey    "F">
+<!ENTITY cmd.edit_undo.key          "t">
+<!ENTITY cmd.edit_redo.label        "Gendan">
+<!ENTITY cmd.edit_redo.accesskey    "G">
+<!ENTITY cmd.edit_redo.key          "a">
+
+<!ENTITY cmd.open.label                  "Åbn">
+<!ENTITY cmd.open.accesskey              "Å">
+<!ENTITY cmd.open_window.label           "Åbn i et nyt vindue">
+<!ENTITY cmd.open_window.accesskey       "v">
+<!ENTITY cmd.open_tab.label              "Åbn i et nyt faneblad">
+<!ENTITY cmd.open_tab.accesskey          "f">
+<!ENTITY cmd.open_all_in_tabs.label      "Åbn alle i faneblade">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "a">
+
+<!ENTITY cmd.properties.label      "Egenskaber">
+<!ENTITY cmd.properties.accesskey  "E">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "Omdøb">
+<!ENTITY cmd.rename.accesskey  "O">
+
+<!ENTITY cmd.sortby_name.label              "Sorter efter navn">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "Nyt bogmærke…">
+<!ENTITY cmd.new_bookmark.accesskey        "b">
+<!ENTITY cmd.new_livemark.label            "Nyt live bogmærke…">
+<!ENTITY cmd.new_livemark.accesskey        "l">
+<!ENTITY cmd.new_folder.label              "Ny mappe…">
+<!ENTITY cmd.new_folder.accesskey          "a">
+<!ENTITY cmd.context_new_folder.accesskey  "m">
+<!ENTITY cmd.new_separator.label           "Ny separator">
+<!ENTITY cmd.new_separator.accesskey       "p">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Genindlæs live bogmærke">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "G">
+<!ENTITY cmd.reloadMicrosummary.label      "Genindlæs live titel">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "G">
+
+<!ENTITY cmd.groupby_site.label      "Grupper efter websted">
+<!ENTITY cmd.groupby_site.accesskey  "s">
+<!ENTITY cmd.groupby_page.label      "Grupper efter side">
+<!ENTITY cmd.groupby_page.accesskey  "s">
+<!ENTITY cmd.groupby_feed.label      "Goupper efter abonnement">
+<!ENTITY cmd.groupby_feed.accesskey  "a">
+<!ENTITY cmd.groupby_post.label      "Grupper efter postering">
+<!ENTITY cmd.groupby_post.accesskey  "p">
+
+<!ENTITY cmd.moveBookmarks.label                  "Flyt…">
+<!ENTITY cmd.moveBookmarks.accesskey              "F">
+
+<!ENTITY col.name.label          "Navn">
+<!ENTITY col.tags.label          "Mærkater">
+<!ENTITY col.url.label           "Placering">
+<!ENTITY col.lastvisit.label     "Senest besøgt">
+<!ENTITY col.visitcount.label    "Besøgstal">
+<!ENTITY col.keyword.label       "Nøgleord">
+<!ENTITY col.description.label   "Beskrivelse">
+<!ENTITY col.dateadded.label     "Tilføjet">
+<!ENTITY col.lastmodified.label  "Sidst ændret">
+
+<!ENTITY search.label                              "Søg:">
+<!ENTITY search.accesskey                          "S">
+<!ENTITY search.collection.label                   "Kun nuværende samling">
+<!ENTITY search.collection.accesskey               "K">
+<!ENTITY search.allBookmarks.label                 "Alle bogmærker">
+<!ENTITY search.allBookmarks.accesskey             "A">
+<!ENTITY search.scopeFolder.label                  "Valgt mappe">
+<!ENTITY search.scopeFolder.accesskey              "m">
+<!ENTITY search.scopeAll.label                     "Alle bogmærker">
+<!ENTITY search.scopeAll.accesskey                 "A">
+<!ENTITY search.scopeMenu.label                    "Bogmærke-menu">
+<!ENTITY search.scopeMenu.accesskey                "m">
+<!ENTITY search.scopeToolbar.label                 "Bogmærke-bjælke">
+<!ENTITY search.scopeToolbar.accesskey             "b">
+<!ENTITY search.scopeDownloads.label               "Filhentninger">
+<!ENTITY search.scopeDownloads.accesskey           "F">
+<!ENTITY search.scopeHistory.label                 "Historik">
+<!ENTITY search.scopeHistory.accesskey             "H">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Vis søgningsbygger">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Skjul søgningsbygger">
+<!ENTITY saveSearch.label                          "Gem">
+<!ENTITY saveSearch.accesskey                      "g">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "Søg kun i bogmærker">
+<!ENTITY advancedSearch.match.label                "Match ">
+<!ENTITY advancedSearch.all.label                  "alle">
+<!ENTITY advancedSearch.any.label                  "nogen">
+<!ENTITY advancedSearch.rules.label                " af følgende regler:">
+<!ENTITY advancedSearch.subj_keyword.label         "Indeholdende teksten">
+<!ENTITY advancedSearch.subj_visited.label         "Besøgt">
+<!ENTITY advancedSearch.subj_location.label        "Placering">
+<!ENTITY advancedSearch.location_startswith.label  "starter med">
+<!ENTITY advancedSearch.location_is.label          "er">
+<!ENTITY advancedSearch.location_onsite.label      "er på websted">
+<!ENTITY advancedSearch.time_is.label              "på">
+<!ENTITY advancedSearch.time_before.label          "før">
+<!ENTITY advancedSearch.time_after.label           "efter">
+<!ENTITY advancedSearch.time_inlast.label          "i de sidste">
+<!ENTITY advancedSearch.last_days.label            "dage">
+<!ENTITY advancedSearch.last_weeks.label           "uger">
+<!ENTITY advancedSearch.last_months.label          "måneder">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "Grupper efter: ">
+<!ENTITY advancedSearch.groupby_host.label         "vært">
+<!ENTITY advancedSearch.groupby_domain.label       "domæne">
+<!ENTITY advancedSearch.groupby_folder.label       "mappe">
+<!ENTITY advancedSearch.sortby.label               "Sorter efter: ">
+<!ENTITY advancedSearch.sortby_title.label         "titel">
+<!ENTITY advancedSearch.sortby_date.label          "dato">
+<!ENTITY advancedSearch.sortby_visit.label         "besøgstal">
+<!ENTITY advancedSearch.sortby_url.label           "url">
+<!ENTITY advancedSearch.sortby_asc.label           "stigende">
+<!ENTITY advancedSearch.sortby_desc.label          "faldende">
+<!ENTITY advancedSearch.max.label                  "Maksimum resultater: ">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "Feed">
+<!ENTITY feed.subscribe.tooltip  "Abonner">
+
+<!ENTITY view.detailsMacOSX.label  "Liste">
+<!ENTITY view.details.label        "Detaljer">
+<!ENTITY view.details.accesskey    "D">
+
+<!ENTITY view.addons.label   "Hent visnings-tilføjelser">
+
+<!ENTITY maintenance.label      "Funktioner">
+<!ENTITY maintenance.accesskey  "u">
+
+<!ENTITY backCmd.label       "Tilbage">
+<!ENTITY backCmd.accesskey   "b">
+<!ENTITY backButton.tooltip  "Gå tilbage">
+
+<!ENTITY forwardCmd.label       "Frem">
+<!ENTITY forwardCmd.accesskey   "F">
+<!ENTITY forwardButton.tooltip  "Gå frem">
+
+<!ENTITY detailsPane.more.label "Mere">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "Mindre">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "Forhåndsvisning">
+<!ENTITY detailsPane.selectAnItemText.description "Vælg et element til visning og redigering af dets egenskaber">

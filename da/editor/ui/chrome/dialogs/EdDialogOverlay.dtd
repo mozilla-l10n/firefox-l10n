@@ -1,0 +1,11 @@
+<!ENTITY AdvancedEditButton.label "Avanceret redigering...">
+<!ENTITY AdvancedEditButton.accessKey "E">
+<!ENTITY AdvancedEditButton.tooltip "Tilføj eller ændr HTML-attributter, stil-attributter og JavaScript">
+<!ENTITY chooseButton.label "Vælg fil...">
+<!ENTITY chooseFile.accessKey "F">
+<!ENTITY chooseFileLink.accessKey "V">
+<!ENTITY makeUrlRelative.label "Relativ URL ift. sidens placering">
+<!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.tooltip "Skift mellem relative og absolutte URL&quot;er. Du skal gemme siden før du ændrer dette.">
+<!ENTITY LinkURLEditField.label "Skriv en hjemmesideadresse, en lokal fil eller vælg et linkmål eller en overskrift fra popoplisten:">
+<!ENTITY LinkURLEditField.accessKey "L">

@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "Fjern private oplysninger fra &brandShortName;">
+
+<!ENTITY sanitizeItems.label          "Ryd følgende områder nu:">
+<!ENTITY clearDataSettings.label      "Når jeg beder &brandShortName; om at fjerne mine private data skal den fjerne:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Browserhistorik">
+<!ENTITY itemHistory.accesskey        "B">
+<!ENTITY itemFormSearchHistory.label  "Gemt formular- og søgehistorik">
+<!ENTITY itemFormSearchHistory.accesskey "G">
+<!ENTITY itemPasswords.label          "Gemte adgangskoder">
+<!ENTITY itemPasswords.accesskey      "a">
+<!ENTITY itemCookies.label            "Cookies">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "Cache">
+<!ENTITY itemCache.accesskey          "e">
+<!ENTITY itemOfflineApps.label        "Offline data">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloads.label          "Filhentningshistorik">
+<!ENTITY itemDownloads.accesskey      "F">
+<!ENTITY itemSessions.label           "Bekræftede sessions">
+<!ENTITY itemSessions.accesskey       "s">
+<!ENTITY window.width                 "30em">

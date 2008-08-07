@@ -1,0 +1,9 @@
+<!ENTITY caption.label "Blokerede popups">
+
+<!ENTITY intro.label "Følgende sider er forhindret i at vise popup-vinduer:">
+
+<!ENTITY done.label "Færdig">
+<!ENTITY done.accesskey "F">
+
+<!ENTITY unblock.label "Afbloker websted">
+<!ENTITY unblock.accesskey "A">

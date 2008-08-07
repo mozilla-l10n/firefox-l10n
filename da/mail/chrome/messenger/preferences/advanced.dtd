@@ -1,0 +1,67 @@
+<!ENTITY itemGeneral.label "Generelt">
+<!ENTITY itemUpdate.label "Opdater">
+<!ENTITY itemOffline.label "Offline &amp; diskplads">
+<!ENTITY showCondensedAddresses.label "Vis kun &quot;Vis som&quot;-feltet for personer i min adressebog">
+<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY markAsRead.label "Marker viste meddelelser som læst efter">
+<!ENTITY markAsRead.accesskey "M">
+<!ENTITY markAsReadEnd.label "sekunder.">
+<!ENTITY markAsReadEnd.accesskey "d">
+<!ENTITY showFolderColumns.label "Vis udvidede kolonner i mapperuden.">
+<!ENTITY showFolderColumns.accesskey "k">
+<!ENTITY rememberLastMsg.label "Husk den sidst valgte meddelelse">
+<!ENTITY rememberLastMsg.accesskey "H">
+<!ENTITY reuseExp.label "Åben meddelelser i:">
+<!ENTITY reuseExpRadio0.label "Et nyt meddelelsesvindue">
+<!ENTITY reuseExpRadio0.accesskey "n">
+<!ENTITY reuseExpRadio1.label "Et eksisterende meddelelsesvindue">
+<!ENTITY reuseExpRadio1.accesskey "e">
+<!ENTITY connectionTimeout.label "Forbindelsestidgrænse">
+<!ENTITY connectionTimeout.accesskey "o">
+<!ENTITY connectionSeconds.label "sekunder">
+<!ENTITY configEditDesc.label "Avanceret konfiguration">
+<!ENTITY configEdit.label "Konfigurations redigering...">
+<!ENTITY configEdit.accesskey "K">
+<!ENTITY autoCheck.label "Kontroller automatisk efter opdateringer til:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "T">
+<!ENTITY enableExtensionUpdate.label "Installerede udvidelser og temaer">
+<!ENTITY enableExtensionUpdate.accesskey "I">
+<!ENTITY checkNow.label "Undersøg nu...">
+<!ENTITY appCheckNow.accesskey "n">
+<!ENTITY extensionsCheckNow.accesskey "u">
+<!ENTITY whenUpdatesFound.label "Når der findes opdateringer til &brandShortName;:">
+<!ENTITY modeAskMe.label "Spørg mig hvad der skal gøres">
+<!ENTITY modeAskMe.accesskey "S">
+<!ENTITY modeAutomatic.label "Hent automatisk og påbegynd installation">
+<!ENTITY modeAutomatic.accesskey "H">
+<!ENTITY modeAutoWarn.label "Advar mig, hvis dette vil deaktivere udvidelser eller temaer">
+<!ENTITY modeAutoWarn.accesskey "A">
+<!ENTITY showUpdates.label "Vis opdateringshistorik">
+<!ENTITY showUpdates.accesskey "V">
+<!ENTITY offline.label "Offline">
+<!ENTITY textStartUp "Ved opstart:">
+<!ENTITY radioRememberPrevState "Husk sidste online-status">
+<!ENTITY radioRememberPrevState.accesskey "H">
+<!ENTITY radioAskMe "Spørg mig efter online-status ved opstart">
+<!ENTITY radioAskMe.accesskey "A">
+<!ENTITY radioAlwaysOnline "Start altid online">
+<!ENTITY radioAlwaysOnline.accesskey "S">
+<!ENTITY textGoingOnline "Send meddelelser i Udbakke, når jeg går online:">
+<!ENTITY radioAutoSend "Ja">
+<!ENTITY radioAutoSend.accesskey "J">
+<!ENTITY radioNotSend "Nej">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Spørg mig">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Download meddelelser til offline-brug, når jeg går offline?">
+<!ENTITY radioAutoDownload "Ja">
+<!ENTITY radioAutoDownload.accesskey "a">
+<!ENTITY radioNotDownload "Nej">
+<!ENTITY radioNotDownload.accesskey "e">
+<!ENTITY radioAskDownload "Spørg mig">
+<!ENTITY radioAskDownload.accesskey "p">
+<!ENTITY Diskspace "Diskplads">
+<!ENTITY offlineCompact.label "Komprimer mapper, når det kan spare mere end">
+<!ENTITY offlineCompact.accesskey "K">
+<!ENTITY kb.label "KB">

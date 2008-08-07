@@ -1,0 +1,15 @@
+<!ENTITY brandMotto       "Genopdag nettet">
+<!ENTITY credit.thanks    "Specielt tak til">
+
+<!ENTITY credit.thanks2       "Mange tak til vores">
+<!ENTITY credit.contributors2 "bidragydere" >
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>Dansk oversættelse</h3><ul><li>Søren Lønbæk Nygaard Christensen</li><li>Søren Munk Skrøder</li></ul>">
+
+<!ENTITY credit.memory      "Dedikeret til mindet om">
+<!ENTITY credit.poweredByGeckoReg "Powered by Gecko&reg;">

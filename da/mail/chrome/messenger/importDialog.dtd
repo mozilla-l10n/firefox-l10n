@@ -1,0 +1,21 @@
+<!ENTITY importDialog.windowTitle "Importer">
+<!ENTITY importDialog.mailTitle "E-mail">
+<!ENTITY importDialog.addressbookTitle "Adressebøger">
+<!ENTITY importDialog.settingsTitle "Indstillinger">
+<!ENTITY importTitle.label "&brandShortName; e-mail import guide">
+<!ENTITY importDesc.label "Importer e-mail, adressebøger og indstillinger fra andre programmer">
+<!ENTITY importDescription.label "Denne guide vil importere e-mail-meddelelser, adressebogsindhold og/eller indstillinger fra andre postprogrammer og standard-adressebogsformater til &brandShortName;.">
+<!ENTITY importDescription2.label "Når de er blevet importeret, kan du få adgang til dem fra &brandShortName;s postprogram og/eller adressebog.">
+<!ENTITY selectDescription.label "Vælg venligst det program du ønsker at importere fra:">
+<!ENTITY back.label "&lt; Tilbage">
+<!ENTITY forward.label "Næste &gt;">
+<!ENTITY finish.label "Færdig">
+<!ENTITY cancel.label "Annuller">
+<!ENTITY select.label "Vælg den type materiale der skal importeres:">
+<!ENTITY title.label "Titel">
+<!ENTITY processing.label "Importerer...">
+<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x har en e-mail-adresse for hvert kort, men &brandShortName; har to (Hjem og arbejde).">
+<!ENTITY FieldDiscInputText2.label "Vælg den kategori, hvori du ønsker at gemme de importerede e-mail-adresser:">
+<!ENTITY FieldDiscWarning.label "Denne kategori vil blive benyttet til alle poster i den vagle adressebog:">
+<!ENTITY importDialog.homeTitle "Hjem">
+<!ENTITY importDialog.workTitle "Arbejde">

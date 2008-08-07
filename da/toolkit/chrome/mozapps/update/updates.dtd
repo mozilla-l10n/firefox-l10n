@@ -1,0 +1,81 @@
+<!ENTITY updateWizard.title              "Software opdatering">
+
+<!ENTITY window.width                    "36em">
+<!ENTITY window.macWidth                 "39em">
+
+<!ENTITY checking.title                  "Søger efter opdateringer">
+<!ENTITY checking.label                  "&brandShortName; leder nu efter opdateringer…">
+
+<!ENTITY cancel.label                    "Annuller">
+<!ENTITY cancel.accesskey                "A">
+
+<!ENTITY noupdatesfound.title            "Ingen tilgængelige opdateringer">
+<!ENTITY noupdatesfound.intro            "Der er ingen opdateringer tilgængelige. &brandShortName; vil periodisk undersøge 
+																					om der er tilgængelige opdateringer.">
+
+<!ENTITY  incompatibleChecking.label     "Undersøger om denne opdatering vil volde problemer med dine nuværende udvidelser og/eller temaer…">
+<!ENTITY clickHere.label                 "For mere generel information om denne opdatering, klik her">
+
+<!ENTITY incompatible.warning            "Denne opdatering vil resultere i at nogle af dine udvidelser og/eller temaer vil 
+																					stoppe med at fungere indtil de er opdateret.">
+<!ENTITY listIncompatible.label          "Vis liste">
+<!ENTITY listIncompatible.accesskey      "l">
+
+<!ENTITY upgrade.evangelism              "Det anbefales kraftigt at du opgraderer &brandShortName; 
+																					så snart som muligt.">
+
+<!ENTITY license.instructions            "Hvis du kan acceptere vilkårerne i denne aftale, så klik på 'Jeg accepterer' 
+																					nedenfor for at fortsætte denne opdatering.">
+																					
+<!ENTITY  license.titleText               "Software-licens aftale">
+<!ENTITY  license.introText               "Vilkår og betingelser for at anvende denne software.">
+<!ENTITY  license.instructionText         "Læs venligst den følgende licensaftale. Brug rullebjælken for at se resten af aftalen.">
+<!ENTITY  license.accept                  "Jeg accepterer licensaftalen">
+<!ENTITY  license.accept.accesskey        "a">
+<!ENTITY  license.decline                 "Jeg accepterer IKKE licensaftalen">
+<!ENTITY  license.decline.accesskey       "I">
+
+<!ENTITY downloading.title               "Henter opdatering">
+<!ENTITY downloading.intro               "Henter opdateringen…">
+<!ENTITY connecting.label                "Forbinder til opdateringsserver…">
+<!ENTITY verificationFailedText.label    "&brandShortName; var ikke i stand til at verificere korrektheden af 
+																					versionsopdateringen som blev hentet, så den henter nu i stedet 
+																					den komplette opdateringspakke.">
+
+<!ENTITY details.link                    "Detaljer">
+<!ENTITY pause.label                     "Pause">
+<!ENTITY pause.accesskey                 "P">
+<!ENTITY close.label                     "Luk">
+<!ENTITY close.accesskey                 "u">
+
+<!ENTITY error.label                     "Der var problemer med søgningen efter, hentning eller installation af, 
+																					denne opdatering. &brandShortName; kunne ikke opdateres fordi:">
+                                           
+<!ENTITY errorManual.label               "Du kan opdatere &brandShortName; manuelt ved at besøge dette link 
+																					og downloade den nyeste version:">
+                                           
+<!ENTITY errorpatching.title             "Opdatering fejlede">
+<!ENTITY errorpatching.intro             "Den delvise opdatering kunne ikke anvendes. 
+																					&brandShortName; vil forsøge igen ved at hente en komplet opdatering.">
+
+<!ENTITY finished.title                  "Opdatering hentet">
+<!ENTITY finished.text                   "Opdateringen blev succesfuldt hentet og verificeret og vil blive installeret 
+																					næste gang &brandShortName; starter.">
+
+<!ENTITY  finishedBackground.title        "Opdatering klar til at blive installeret">
+<!ENTITY  finishedBackground.text         "&brandShortName; har hentet og bekræftet en vigtig opdatering.
+                                           Klik på linket herunder for flere detaljer.">
+<!ENTITY  finishedBackground.name         "Opdatering:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Klik 'Genstart &brandShortName; nu' for at installere opdateringen nu.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Klik 'Senere' for at lukke denne dialog og fortsætte med at arbejde. &brandShortName;
+                                           vil installere opdateringen næste gang den starter.">
+
+<!ENTITY  installed.title                 "Opdatering installeret">
+<!ENTITY  installed.intro                 "Opdateringen blev korrekt installeret.">
+<!ENTITY  whatsnew.label                  "Læs mere om hvad der er nyt…">
+
+<!ENTITY  update.details.label            "Detaljer">
+<!ENTITY  update.installedOn.label        "Installeret den:">
+<!ENTITY  update.status.label             "Status:">

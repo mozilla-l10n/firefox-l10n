@@ -1,0 +1,5 @@
+<!ENTITY windowTitle.label "Gem og ændr tegnsæt">
+<!ENTITY documentTitleTitle.label "Sidetitel">
+<!ENTITY documentCharsetTitle.label "Tegnsæt">
+<!ENTITY documentCharsetDesc.label "Gem dokumentet med følgende tegnsæt:">
+<!ENTITY documentExportToText.label "Eksporter som tekst">

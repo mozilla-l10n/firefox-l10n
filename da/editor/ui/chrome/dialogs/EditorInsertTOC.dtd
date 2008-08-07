@@ -1,0 +1,13 @@
+<!ENTITY Window.title "Indholdsfortegnelse">
+<!ENTITY buildToc.label "Opret indholdsfortegnelse fra:">
+<!ENTITY style.label "Stil:">
+<!ENTITY tag.label "Mærke:">
+<!ENTITY class.label "Klasse:">
+<!ENTITY header1.label "Niveau 1">
+<!ENTITY header2.label "Niveau 2">
+<!ENTITY header3.label "Niveau 3">
+<!ENTITY header4.label "Niveau 4">
+<!ENTITY header5.label "Niveau 5">
+<!ENTITY header6.label "Niveau 6">
+<!ENTITY makeReadOnly.label "Skrivebeskyt indholdsfortegnelsen">
+<!ENTITY orderedList.label "Nummerer alle punkter i indholdsfortegnelsen">

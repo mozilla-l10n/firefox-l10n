@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "Nye sider skal åbnes i:">
+<!ENTITY inNewWindow.label            "et nyt vindue">
+<!ENTITY inNewWindow.accesskey        "v">
+<!ENTITY inNewTab.label               "et nyt faneblad">
+<!ENTITY inNewTab.accesskey           "f">
+
+<!ENTITY warnCloseMultipleTabs.label  "Advar mig, når jeg lukker flere faneblade">
+<!ENTITY warnCloseMultipleTabs.accesskey  "l">
+
+<!ENTITY warnOpenManyTabs.label       "Advar mig, når jeg åbner flere faneblade, som kan gøre &brandShortName; langsommere">
+<!ENTITY warnOpenManyTabs.accesskey   "å">
+
+<!ENTITY showTabBar.label             "Vis altid fanebladsbjælken">
+<!ENTITY showTabBar.accesskey         "a">
+
+<!ENTITY switchToNewTabs.label        "Skift automatisk fokus til et nyt faneblad, når jeg åbner et link deri">
+<!ENTITY switchToNewTabs.accesskey    "S">

@@ -1,0 +1,15 @@
+<!ENTITY newsBlogSubscriptions.label "RSS-abonnementer">
+<!ENTITY subscriptionDesc.label "Håndter dine RSS-abonnementer.">
+<!ENTITY feedTitle.label "Titel:">
+<!ENTITY location.label "Startside:">
+<!ENTITY button.addFeed.label "Tilføj">
+<!ENTITY button.addFeed.accesskey "T">
+<!ENTITY button.editFeed.label "Rediger">
+<!ENTITY button.editFeed.accesskey "R">
+<!ENTITY button.removeFeed.label "Fjern">
+<!ENTITY button.removeFeed.accesskey "F">
+<!ENTITY button.importOPML.label "Importer">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "Eksporter">
+<!ENTITY button.exportOPML.accesskey "E">
+<!ENTITY cmd.close.commandKey "w">

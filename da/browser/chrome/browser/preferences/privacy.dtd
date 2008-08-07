@@ -1,0 +1,55 @@
+<!ENTITY  history.label "Historik">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Husk min historik i mindst">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  rememberDaysAfter2.label      "dage">
+
+<!ENTITY  rememberForms.label           "Husk hvad jeg indtaster i formularer og søgefeltet">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "Husk hvad jeg har hentet">
+<!ENTITY  rememberDownloads.accesskey   "e">
+
+
+<!ENTITY  cookies.label                 "Cookies">
+
+<!ENTITY  acceptCookies.label           "Accepter cookies fra sider">
+<!ENTITY  acceptCookies.accesskey       "A">
+
+<!ENTITY  acceptThirdParty.label        "Accepter tredjeparts cookies">
+<!ENTITY  acceptThirdParty.accesskey    "c">
+
+<!ENTITY  keepUntil.label               "Behold indtil:">
+<!ENTITY  keepUntil.accesskey           "B">
+
+<!ENTITY  expire.label                  "de udløber">
+<!ENTITY  close.label                   "jeg lukker &brandShortName;">
+<!ENTITY  askEachTime.label             "spørg mig hver gang">
+
+<!ENTITY  cookieExceptions.label        "Undtagelser…">
+<!ENTITY  cookieExceptions.accesskey    "U">
+
+<!ENTITY  showCookies.label             "Vis cookies…">
+<!ENTITY  showCookies.accesskey         "V">
+
+
+<!ENTITY  privateData.label             "Private data">
+
+<!ENTITY  alwaysClear.label              "Ryd altid mine private data når jeg lukker &brandShortName;">
+<!ENTITY  alwaysClear.accesskey          "R">
+
+<!ENTITY  askBeforeClear.label           "Spørg mig før private data ryddes">
+<!ENTITY  askBeforeClear.accesskey       "S">
+
+<!ENTITY  clearDataSettings.label        "Indstillinger…">
+<!ENTITY  clearDataSettings.accesskey    "I">
+
+<!ENTITY  clearDataNow.label             "Ryd nu…">
+<!ENTITY  clearDataNow.label2            "Ryd nu">
+<!ENTITY  clearDataNow.accesskey         "n">

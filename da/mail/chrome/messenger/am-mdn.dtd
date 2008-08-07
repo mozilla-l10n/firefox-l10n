@@ -1,0 +1,26 @@
+<!ENTITY pane.title "Kvitteringer">
+<!ENTITY useGlobalPrefs.label "Brug mine globale kvitteringsindstillinger for denne konto">
+<!ENTITY useGlobalPrefs.accesskey "g">
+<!ENTITY useCustomPrefs.label "Tilpas kvitteringsindstillinger for denne konto">
+<!ENTITY useCustomPrefs.accesskey "T">
+<!ENTITY requestReceipt.label "Bed altid om en kvittering, når der sendes meddelelser">
+<!ENTITY requestReceipt.accesskey "B">
+<!ENTITY receiptArrive.label "Når en kvittering ankommer:">
+<!ENTITY leaveIt.label "Lad den ligge i Indbakke">
+<!ENTITY leaveIt.accesskey "L">
+<!ENTITY moveToSent.label "Flyt den til mappen Sendt">
+<!ENTITY moveToSent.accesskey "F">
+<!ENTITY requestMDN.label "Når jeg bliver bedt om en returkvittering:">
+<!ENTITY returnSome.label "Tillad kvitteringer for nogle meddelelser">
+<!ENTITY returnSome.accesskey "k">
+<!ENTITY never.label "Send aldrig en kvittering">
+<!ENTITY never.accesskey "a">
+<!ENTITY notInToCc.label "Hvis jeg ikke er i meddelelsens Til eller Kopi til felt:">
+<!ENTITY notInToCc.accesskey "T">
+<!ENTITY outsideDomain.label "Hvis afsenderen er udenfor mit domæne:">
+<!ENTITY outsideDomain.accesskey "s">
+<!ENTITY otherCases.label "I alle andre tilfælde:">
+<!ENTITY otherCases.accesskey "I">
+<!ENTITY askMe.label "Spørg mig">
+<!ENTITY alwaysSend.label "Send altid">
+<!ENTITY neverSend.label "Send aldrig">

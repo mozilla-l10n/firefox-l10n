@@ -1,0 +1,29 @@
+<!ENTITY window.title "Meddelelses filtre">
+<!ENTITY nameColumn.label "Filternavn">
+<!ENTITY activeColumn.label "Aktiveret">
+<!ENTITY newButton.label "Nyt...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Rediger...">
+<!ENTITY editButton.accesskey "R">
+<!ENTITY deleteButton.label "Slet">
+<!ENTITY deleteButton.accesskey "S">
+<!ENTITY reorderUpButton.label "Flyt op">
+<!ENTITY reorderUpButton.accesskey "o">
+<!ENTITY reorderDownButton.label "Flyt ned">
+<!ENTITY reorderDownButton.accesskey "n">
+<!ENTITY filterHeader.label "Aktiverede filtre køres automatisk i den rækkefølge, der er vist nedenfor.">
+<!ENTITY filtersForPrefix.label "Filtrer for:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Filterlog">
+<!ENTITY viewLogButton.accesskey "l">
+<!ENTITY runFilters.label "Kør nu">
+<!ENTITY runFilters.accesskey "K">
+<!ENTITY stopFilters.label "Stop">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Kør de valgte filtre på:">
+<!ENTITY folderPickerPrefix.accesskey "i">
+<!ENTITY choosethis.label "vælg denne mappe">
+<!ENTITY choosethisnewsserver.label "vælg denne nyhedsserver">
+<!ENTITY helpButton.label "Hjælp">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W">

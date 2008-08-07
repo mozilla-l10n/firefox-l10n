@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Indstillinger">
+<!ENTITY security.caption "Sikkerhed og godkendelse">
+<!ENTITY serverName.label "Servernavn:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "Beskrivelse:">
+<!ENTITY serverDescription.accesskey "k">
+<!ENTITY serverPort.label "Port:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Benyt brugernavn og adgangskode">
+<!ENTITY alwaysUseUsername.accesskey "e">
+<!ENTITY userName.label "Brugernavn:">
+<!ENTITY userName.accesskey "B">
+<!ENTITY isSecure.label "Brug sikker forbindelse:">
+<!ENTITY neverSecure.label "Nej">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, hvis muligt">
+<!ENTITY sometimesSecure.accesskey "m">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP-server">
+<!ENTITY serverPortDefault.label "Standard:">

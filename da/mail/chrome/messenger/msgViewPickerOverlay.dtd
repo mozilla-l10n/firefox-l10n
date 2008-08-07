@@ -1,0 +1,5 @@
+<!ENTITY viewPicker.label "Vis:">
+<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewPickerCustomView.label "Tilpas...">
+<!ENTITY viewPickerAll.label "Alle">
+<!ENTITY viewPickerUnread.label "Ulæste">

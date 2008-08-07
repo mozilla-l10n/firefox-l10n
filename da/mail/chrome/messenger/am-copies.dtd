@@ -1,0 +1,27 @@
+<!ENTITY copyAndFolderTitle.label "Kopier &amp; mapper">
+<!ENTITY sendingPrefix.label "Gør følgende, ved afsendelse af meddelelser:">
+<!ENTITY fccMailFolder.label "Anbring en kopi i:">
+<!ENTITY fccMailFolder.accesskey "A">
+<!ENTITY chooseFolderButton.label "Vælg mappe...">
+<!ENTITY bccAddress.label "Skjult kopi til andre adresser:">
+<!ENTITY bccAddress.accesskey "S">
+<!ENTITY specialFolderTitle.label "Specielle mapper">
+<!ENTITY draftMailFolder.label "Gem meddelelses kladder i:">
+<!ENTITY templateMailFolder.label "Gem meddelelses skabeloner i:">
+<!ENTITY saveMessageDlg.label "Vis godkendelsesdialog, når meddelelser bliver gemt">
+<!ENTITY saveMessageDlg.accesskey "g">
+<!ENTITY sentFolderOn.label "&quot;Sendt&quot;-mappen på:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "Andet:">
+<!ENTITY sentInOtherFolder.accesskey "n">
+<!ENTITY draftsFolderOn.label "&quot;Kladder&quot;-mappen på:">
+<!ENTITY draftsFolderOn.accesskey "k">
+<!ENTITY draftInOtherFolder.label "Andet:">
+<!ENTITY draftInOtherFolder.accesskey "d">
+<!ENTITY templatesFolderOn.label "&quot;Skabeloner&quot;-mappen på:">
+<!ENTITY templatesFolderOn.accesskey "o">
+<!ENTITY templateInOtherFolder.label "Andet:">
+<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY specialFoldersTitle.label "Kladder og skabeloner">
+<!ENTITY keepDrafts.label "Gem meddelelses kladder i:">
+<!ENTITY keepTempltes.label "Gem meddelelses skabeloner i:">

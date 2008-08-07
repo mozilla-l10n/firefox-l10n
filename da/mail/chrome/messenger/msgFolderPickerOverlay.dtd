@@ -1,0 +1,11 @@
+<!ENTITY subscribechoosethis.label "vælg denne nyhedsgruppeserver">
+<!ENTITY subscribeclickhere.label "klik her for at vælge en nyhedsgruppeserver">
+<!ENTITY newfolderchoosethis.label "vælg dette for den overordnede">
+<!ENTITY newfolderclickhere.label "Klik her for at vælge">
+<!ENTITY renamefolderchoosethis.label "vælg denne mappe">
+<!ENTITY renamefolderclickhere.label "klik her for at vælge en mappe">
+<!ENTITY filemessageschoosethis.label "vælg denne mappe">
+<!ENTITY filemessagesclickhere.label "klik her for at vælge en mappe">
+<!ENTITY chooseaccountclickhere.label "Klik her for at vælge en konto">
+<!ENTITY choosefolderclickhere.label "Klik her for at vælge en mappe">
+<!ENTITY chooseserverToDeferTo.label "klik her for at benytte en anden konto til opbevaring af meddelelser">

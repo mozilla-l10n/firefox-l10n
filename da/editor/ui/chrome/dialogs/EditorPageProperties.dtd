@@ -1,0 +1,12 @@
+<!ENTITY windowTitle.label "Side egenskaber">
+<!ENTITY location.label "Startside:">
+<!ENTITY lastModified.label "Sidst ændret">
+<!ENTITY titleInput.label "Titel:">
+<!ENTITY titleInput.accessKey "T">
+<!ENTITY authorInput.label "Forfatter:">
+<!ENTITY authorInput.accessKey "F">
+<!ENTITY descriptionInput.label "Beskrivelse:">
+<!ENTITY descriptionInput.accessKey "B">
+<!ENTITY locationNewPage.label "[Ny side - ikke gemt endnu]">
+<!ENTITY EditHEADSource1.label "Avanceret brugere:">
+<!ENTITY EditHEADSource2.label "For at redigere indhold af &lt;hoved&gt; regionen, benyt &quot;HTML kildekode&quot; i Vis menuen eller Redigeringstilstand værktøjslinjen.">

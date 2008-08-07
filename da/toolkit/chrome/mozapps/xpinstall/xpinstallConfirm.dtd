@@ -1,0 +1,9 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title            "Software installation">
+<!ENTITY dialog.style            "width: 45em">
+<!ENTITY warningMain.label       "Du bør kun installere tilføjelser fra kilder, du stoler på.">
+<!ENTITY warningSecondary.label  "Ondsindet software kan skade din computer eller kompromittere din anonymitet.">
+
+<!ENTITY from.label "fra:">
+

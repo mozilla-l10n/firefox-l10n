@@ -1,0 +1,21 @@
+<!ENTITY newprofile.title             "Guiden Opret profil">
+<!ENTITY window.size                  "width: 47em; height: 35em;">
+
+<!-- First wizard page -->
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; opbevarer information om dine indstillinger og præferencer i din brugerprofil.">
+<!ENTITY profileCreationExplanation_2.text  "Hvis du deler denne kopi af &brandShortName; med andre brugere, kan i bruge profiler til at holde hinandens brugerinformation adskilt. For at gøre dette, skal hver bruger oprette sin egen profil.">
+<!ENTITY profileCreationExplanation_3.text  "Hvis du er den eneste person, der benytter denne kopi af &brandShortName;, skal du have mindst en profil. Hvis du ønsker det kan du oprette flere profiler til dig selv, hvori du kan gemme forskellige indstillinger og præferencer. F.eks. ønsker du måske at have forskellige profiler til forretnings- og personligt brug.">
+<!ENTITY profileCreationExplanation_4.text  "For at påbegynde opretningen af din profil, tryk på 'Næste'.">
+<!ENTITY profileCreationExplanation_4Mac.text  "For at påbegynde oprettelse af din profil, tryk på 'Fortsæt'.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "For at påbegynde opretningen af din profil, tryk på 'Næste'.">
+
+<!-- Second wizard page -->
+<!ENTITY profileCreationIntro.text      "Hvis du opretter flere profiler kan du adskille dem på profilnavnet. Du kan anvende det givne navn, eller angive et selv.">
+<!ENTITY profilePrompt.label            "Indtast nyt profilnavn:">
+<!ENTITY profilePrompt.accesskey        "I">
+<!ENTITY profileDirectoryExplanation.text     "Dine brugerindstillinger, præferencer, bogmærker og mail vil blive opbevaret i:">
+<!ENTITY profileDefaultName             "Standardbruger">
+<!ENTITY button.choosefolder.label      "Vælg mappe…">
+<!ENTITY button.choosefolder.accesskey  "V">
+<!ENTITY button.usedefault.label        "Anvend standardmappe">
+<!ENTITY button.usedefault.accesskey    "A">

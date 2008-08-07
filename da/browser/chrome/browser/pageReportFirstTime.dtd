@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label            "Et websted har forsøgt at åbne et popup-vindue uden din tilladelse. &brandShortName; har automatisk lukket popup-vinduet.  Når &brandShortName; blokerer disse popups, vil du se et ikon i statuslinjen. ">
+
+<!ENTITY endDescription.label              "Du kan klikke på dette ikon for at se hvilke websteder &brandShortName; blokerede og tillade disse websteder at åbne popups hvis det er påkrævet for at webstedet fungerer korrekt.">
+
+<!ENTITY caption.label                     "Om popop-blokering">
+
+<!ENTITY done.label "Færdig">

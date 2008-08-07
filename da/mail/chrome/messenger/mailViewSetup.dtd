@@ -1,0 +1,4 @@
+<!ENTITY mailViewSetupTitle.label "Opsæt meddelelsesvisning">
+<!ENTITY mailViewHeading.label "Meddelelsesvisningsnavn:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Indstil søgekriterierne for denne virtuelle mappe:">

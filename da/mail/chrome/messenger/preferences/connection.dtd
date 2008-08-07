@@ -1,0 +1,40 @@
+<!ENTITY connectionsDialog.title "Forbindelsesindstillinger">
+<!ENTITY window.width "37em">
+<!ENTITY proxyTitle.label "Konfigurer proxier til at tilgå internettet">
+<!ENTITY directTypeRadio.label "Direkte forbindelse til internettet">
+<!ENTITY directTypeRadio.accesskey "d">
+<!ENTITY WPADTypeRadio.label "Opdag proxy-indstillinger for dette netværk automatisk">
+<!ENTITY WPADTypeRadio.accesskey "p">
+<!ENTITY manualTypeRadio.label "Manuel proxy-konfiguration">
+<!ENTITY manualTypeRadio.accesskey "m">
+<!ENTITY autoTypeRadio.label "Automatisk proxy-konfigurations URL:">
+<!ENTITY autoTypeRadio.accesskey "a">
+<!ENTITY configAutoconfigText.label "Konfigurations placering (URL):">
+<!ENTITY configAutoconfigText.accesskey "K">
+<!ENTITY reload.label "Genindlæs">
+<!ENTITY reload.accesskey "l">
+<!ENTITY ftp.label "FTP proxy:">
+<!ENTITY ftp.accesskey "F">
+<!ENTITY gopher.label "Gopher proxy:">
+<!ENTITY gopher.accesskey "G">
+<!ENTITY http.label "HTTP proxy:">
+<!ENTITY http.accesskey "h">
+<!ENTITY ssl.label "SSL proxy">
+<!ENTITY ssl.accesskey "s">
+<!ENTITY socks.label "SOCKS vært:">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "k">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY port.label "Port:">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY FTPport.accesskey "r">
+<!ENTITY gopherPort.accesskey "e">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "Ingen proxy for:">
+<!ENTITY noproxy.accesskey "n">
+<!ENTITY noproxyExplain.label "Eksempel: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Benyt denne proxy-server til alle protokollerne">
+<!ENTITY shareproxy.accesskey "B">

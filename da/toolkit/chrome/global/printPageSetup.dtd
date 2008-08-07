@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Sideopsætning">
+
+<!ENTITY basic.tab           "Format og indstillinger">
+
+<!ENTITY formatGroup.label   "Formater">
+
+<!ENTITY orientation.label   "Orientering:">
+<!ENTITY portrait            "Stående">
+<!ENTITY landscape           "Liggende">
+
+<!ENTITY scale.label         "Skaler:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Tilpas til sidebredden">
+
+<!ENTITY optionsGroup.label  "Valgmuligheder">
+
+<!ENTITY printBG.label       "Udskriv baggrunden (farver &amp; baggrundsbilleder)">
+
+<!ENTITY advanced.tab        "Margener og sidehoved/sidefod">
+
+<!ENTITY marginGroup.label   "Margener (#1)">
+<!ENTITY marginUnits.inches  "tommer">
+<!ENTITY marginUnits.metric  "millimeter">
+<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginBottom.label  "Bund:">
+<!ENTITY marginLeft.label    "Venstre:">
+<!ENTITY marginRight.label   "Højre:">
+
+<!ENTITY headerFooter.label  "Sidehoveder og sidefødder">
+
+<!ENTITY hfLeft.label        "Venstre:">
+<!ENTITY hfCenter.label      "Centrer:">
+<!ENTITY hfRight.label       "Højre:">
+<!ENTITY headerLeft.tip      "Venstre teksthoved">
+<!ENTITY headerCenter.tip    "Center teksthoved">
+<!ENTITY headerRight.tip     "Højre teksthoved">
+<!ENTITY footerLeft.tip      "Venstre tekstfod">
+<!ENTITY footerCenter.tip    "Center tekstfod">
+<!ENTITY footerRight.tip     "Højre tekstfod">
+
+<!ENTITY hfTitle             "Titel">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Dato/Tid">
+<!ENTITY hfPage              "Side #">
+<!ENTITY hfPageAndTotal      "Side # af #">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "Brugerdefineret…">
+
+<!ENTITY customPrompt.title  "Brugerdefineret…">
+<!ENTITY customPrompt.prompt "Skriv teksten til dit brugerdefinerede sidehoved/sidefod">

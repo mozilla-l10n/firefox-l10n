@@ -1,0 +1,23 @@
+<!ENTITY addressing.label "Komposition &amp; adressering">
+<!ENTITY addressingGroupTitle.label "Adressering">
+<!ENTITY addressingText.label "Ved opslag af adresser:">
+<!ENTITY useGlobal.label "Brug mine globale LDAP-serverindstillinger for denne konto">
+<!ENTITY useGlobal.accesskey "U">
+<!ENTITY editDirectories.label "Rediger LDAP...">
+<!ENTITY editDirectories.accesskey "R">
+<!ENTITY directories.label "Benyt en anden LDAP-server:">
+<!ENTITY directories.accesskey "B">
+<!ENTITY compositionGroupTitle.label "Nye meddelelser">
+<!ENTITY useHtml.label "Skriv meddelelser i HTML-format">
+<!ENTITY useHtml.accesskey "H">
+<!ENTITY autoQuote.label "Citer altid den originale meddelelse i svar">
+<!ENTITY autoQuote.accesskey "C">
+<!ENTITY then.label "Så,">
+<!ENTITY then.accesskey "S">
+<!ENTITY aboveQuote.label "start mit svar over den citerede tekst">
+<!ENTITY belowQuote.label "start mit svar under den citerede tekst">
+<!ENTITY selectAndQuote.label "marker den citerede tekst">
+<!ENTITY place.label "og placer mit signatur">
+<!ENTITY place.accesskey "p">
+<!ENTITY belowText.label "under det citerede (anbefalet)">
+<!ENTITY aboveText.label "under mit svar (over citatet)">

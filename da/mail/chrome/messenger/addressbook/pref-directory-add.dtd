@@ -1,0 +1,34 @@
+<!ENTITY newDirectoryTitle.label "Katalogserver-egenskaber">
+<!ENTITY directoryName.label "Navn:">
+<!ENTITY directoryName.accesskey "N">
+<!ENTITY directoryHostname.label "Værtsnavn:">
+<!ENTITY directoryHostname.accesskey "V">
+<!ENTITY directoryBaseDN.label "Base DN:">
+<!ENTITY directoryBaseDN.accesskey "b">
+<!ENTITY findButton.label "Find">
+<!ENTITY findButton.accesskey "f">
+<!ENTITY directorySecure.label "Brug sikker forbindelse (SSL)">
+<!ENTITY directorySecure.accesskey "i">
+<!ENTITY directoryLogin.label "Bind DN:">
+<!ENTITY directoryLogin.accesskey "L">
+<!ENTITY advancedOptionsButton.label "Avancerede indstillinger">
+<!ENTITY advancedOptionsButton.accesskey "A">
+<!ENTITY General.tab "Generelt">
+<!ENTITY Offline.tab "Offline">
+<!ENTITY Advanced.tab "Avanceret">
+<!ENTITY advancedOptionsTitle.label "Avancerede indstillinger">
+<!ENTITY portNumber.label "Port nummer:">
+<!ENTITY portNumber.accesskey "p">
+<!ENTITY searchFilter.label "Søge filter:">
+<!ENTITY searchFilter.accesskey "f">
+<!ENTITY scope.label "Scope:">
+<!ENTITY scope.accesskey "v">
+<!ENTITY scopeOneLevel.label "Et niveau">
+<!ENTITY scopeOneLevel.accesskey "E">
+<!ENTITY scopeSubtree.label "Underniveau">
+<!ENTITY scopeSubtree.accesskey "U">
+<!ENTITY return.label "Returner ikke flere end">
+<!ENTITY return.accesskey "R">
+<!ENTITY results.label "Resultater">
+<!ENTITY offlineText.label "Du kan hente en lokal kopi af dette katalog så det kan bruges når du arbejder offline.">
+<!ENTITY newDirectoryWidth "36em">

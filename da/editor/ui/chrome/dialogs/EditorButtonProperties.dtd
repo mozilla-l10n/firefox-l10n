@@ -1,0 +1,19 @@
+<!ENTITY windowTitle.label "Knap egenskaber">
+<!ENTITY Settings.label "Indstillinger">
+<!ENTITY ButtonType.label "Type">
+<!ENTITY ButtonType.accesskey "T">
+<!ENTITY submit.value "Indsend">
+<!ENTITY reset.value "Nulstil">
+<!ENTITY button.value "Knap">
+<!ENTITY ButtonName.label "Navn:">
+<!ENTITY ButtonName.accesskey "N">
+<!ENTITY ButtonValue.label "Værdi:">
+<!ENTITY ButtonValue.accesskey "V">
+<!ENTITY tabIndex.label "Tabulator index:">
+<!ENTITY tabIndex.accesskey "T">
+<!ENTITY ButtonDisabled.label "Deaktiveret">
+<!ENTITY ButtonDisabled.accesskey "D">
+<!ENTITY AccessKey.label "Tilgængelighedsnøgle:">
+<!ENTITY AccessKey.accesskey "n">
+<!ENTITY RemoveButton.label "Fjern">
+<!ENTITY RemoveButton.accesskey "F">

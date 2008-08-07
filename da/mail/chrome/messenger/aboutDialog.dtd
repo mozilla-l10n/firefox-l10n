@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title "Om &brandShortName;">
+<!ENTITY credits "Bidragydere">
+<!ENTITY aboutLink "&lt; Om &brandShortName;">
+<!ENTITY aboutVersion "version">
+<!ENTITY copyrightText "&#169;1998-2008 Bidragydere. Alle rettigheder forbeholdes. Mozilla Thunderbird og
+Thunderbird-logoer er varemærker tilhørende Mozilla Foundation. Alle rettigheder
+forbeholdes.">

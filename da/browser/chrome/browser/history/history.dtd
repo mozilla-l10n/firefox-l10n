@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Søg:">
+<!ENTITY find.accesskey            "ø">
+<!ENTITY expand.label              "Udvid">
+<!ENTITY expand.accesskey          "U">
+<!ENTITY collapse.label            "Sammenklap">
+<!ENTITY collapse.accesskey        "S">
+<!ENTITY byDate.label "Efter dato">
+<!ENTITY byDate.accesskey "d">
+<!ENTITY bySite.label "Efter websted">
+<!ENTITY bySite.accesskey "s">
+<!ENTITY view.label "Vis">
+<!ENTITY view.accesskey "V">
+<!ENTITY byMostVisited.label "Efter mest besøgte">
+<!ENTITY byMostVisited.accesskey "b">
+<!ENTITY byLastVisited.label "Efter sidst besøgte">
+<!ENTITY byLastVisited.accesskey "ø">
+<!ENTITY byDayAndSite.label "Efter dato og websted">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "Åbn">
+<!ENTITY openLinkInWindow.accesskey "Å">
+<!ENTITY openInNewTab.label "Åbn i nyt faneblad">
+<!ENTITY openInNewTab.accesskey "f">
+<!ENTITY openInNewWindow.label "Åbn i nyt vindue">
+<!ENTITY openInNewWindow.accesskey "Å">
+<!ENTITY bookmarkLink.label "Bogmærk dette link">
+<!ENTITY bookmarkLink.accesskey "B">
+<!ENTITY copyLink.label "Kopier link-adresse">
+<!ENTITY copyLink.accesskey "K">

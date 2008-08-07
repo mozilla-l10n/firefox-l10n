@@ -1,0 +1,56 @@
+<!ENTITY itemFormatting.label "Formatering">
+<!ENTITY itemLabels.label "Etiketter">
+<!ENTITY itemFonts.label "Skrifttyper">
+<!ENTITY textBegin.label "Citeret ren tekst udseende">
+<!ENTITY style.label "Stil:">
+<!ENTITY style.accesskey "S">
+<!ENTITY regularStyle.label "Normal">
+<!ENTITY bold.label "Fed">
+<!ENTITY italic.label "Kursiv">
+<!ENTITY boldItalic.label "Fed kursiv">
+<!ENTITY size.label "Størrelse:">
+<!ENTITY size.accesskey "t">
+<!ENTITY regularSize.label "Normal">
+<!ENTITY bigger.label "Større">
+<!ENTITY smaller.label "Mindre">
+<!ENTITY color.label "Farve:">
+<!ENTITY color.accesskey "f">
+<!ENTITY displayWidth.label "Meddelelser i ren tekst">
+<!ENTITY plainText.label "Brug denne skrifttype:">
+<!ENTITY displayText.label "Ved visning af citerede ren tekst meddelelser:">
+<!ENTITY viewingPlainText.label "Ved visning af ren tekst meddelelser:">
+<!ENTITY fixedWidth.label "Fast bredde">
+<!ENTITY fixedWidth.accesskey "F">
+<!ENTITY variableWidth.label "Variabel bredde">
+<!ENTITY variableWidth.accesskey "V">
+<!ENTITY readingMessagesHeader.label "For indkommende meddelelser">
+<!ENTITY messageWrapping.label "Tekstombrydning">
+<!ENTITY wrapInMsg.label "Ombryd tekst til vinduesbredden">
+<!ENTITY wrapInMsg.accesskey "O">
+<!ENTITY convertEmoticons.label "Vis smiley-ansigter som grafik.">
+<!ENTITY convertEmoticons.accesskey "V">
+<!ENTITY htmlColors.label "HTML-meddelelser">
+<!ENTITY overrideSender.label "Ved visning af HTML-meddelelser, benyt følgende:">
+<!ENTITY overrideSender.accesskey "H">
+<!ENTITY textColor.label "Tekstfarve">
+<!ENTITY textColor.accesskey "T">
+<!ENTITY backgroundColor.label "Baggrundsfarve">
+<!ENTITY backgroundColor.accesskey "B">
+<!ENTITY labelsSettings.label "Etiketter">
+<!ENTITY displayLabelsText.label "Etiketter kan blive brugt til at kategorisere og prioritere dine meddelelser.">
+<!ENTITY restoreDefaults.label "Gendan standard">
+<!ENTITY restoreDefaults.accesskey "G">
+<!ENTITY fontsDescription.label "Konfigurer skrifttyperne brugt i &brandShortName;">
+<!ENTITY fontsCaption.label "Skrifttyper">
+<!ENTITY fontOptions.accesskey "S">
+<!ENTITY fontOptions.label "Skrifttyper...">
+<!ENTITY sendDefaultCharset.label "Udgående meddelelser:">
+<!ENTITY sendDefaultCharset.accesskey "U">
+<!ENTITY languagesTitle.label "Tegnsæt">
+<!ENTITY composingDescription.label "Sæt standardtegnsæt for udgående og indkommende meddelelser">
+<!ENTITY viewDefaultCharsetList.label "Indkommende meddelelser:">
+<!ENTITY viewDefaultCharsetList.accesskey "I">
+<!ENTITY forceCharsetOverride.label "Anvend standard tegnsæt på alle indkommende meddelelser">
+<!ENTITY forceCharsetOverride.accesskey "A">
+<!ENTITY replyInDefaultCharset.label "Benyt standard tegnsæt i besvarelser">
+<!ENTITY replyInDefaultCharset.accesskey "B">

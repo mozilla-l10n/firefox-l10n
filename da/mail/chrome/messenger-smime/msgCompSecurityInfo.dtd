@@ -1,0 +1,12 @@
+<!ENTITY title.label "Meddelelses sikkerhed">
+<!ENTITY subject.plaintextWarning "Bemærk: Emnelinjerne i meddelelser er aldrig krypteret.">
+<!ENTITY status.heading "Indeholdet af din meddelelse vil blive sendt som følgende:">
+<!ENTITY status.signed "Underskrevet digitalt:">
+<!ENTITY status.encrypted "Krypteret:">
+<!ENTITY status.certificates "Certifikater:">
+<!ENTITY view.label "Vis">
+<!ENTITY view.accesskey "V">
+<!ENTITY tree.recipient "Modtager:">
+<!ENTITY tree.status "Status:">
+<!ENTITY tree.issuedDate "Udstedt:">
+<!ENTITY tree.expiresDate "Udløber:">

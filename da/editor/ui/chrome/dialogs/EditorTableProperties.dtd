@@ -1,0 +1,75 @@
+<!ENTITY tableWindow.title "Tabelegenskaber">
+<!ENTITY applyButton.label "Anvend">
+<!ENTITY applyButton.accesskey "A">
+<!ENTITY closeButton.label "Luk">
+<!ENTITY tableTab.label "Tabel">
+<!ENTITY cellTab.label "Celler">
+<!ENTITY tableRows.label "Rækker:">
+<!ENTITY tableRows.accessKey "R">
+<!ENTITY tableColumns.label "Kolonner:">
+<!ENTITY tableColumns.accessKey "K">
+<!ENTITY tableHeight.label "Højde:">
+<!ENTITY tableHeight.accessKey "H">
+<!ENTITY tableWidth.label "Bredde:">
+<!ENTITY tableWidth.accessKey "B">
+<!ENTITY tableBorderSpacing.label "Rammer og afstand">
+<!ENTITY tableBorderWidth.label "Ramme:">
+<!ENTITY tableBorderWidth.accessKey "m">
+<!ENTITY tableSpacing.label "Afstand:">
+<!ENTITY tableSpacing.accessKey "S">
+<!ENTITY tablePadding.label "Indryk:">
+<!ENTITY tablePadding.accessKey "I">
+<!ENTITY tablePxBetwCells.label "pixler mellem cellerne">
+<!ENTITY tablePxBetwBrdrCellContent.label "pixler mellem cellens ramme og indholdet">
+<!ENTITY tableAlignment.label "Tabel-justering:">
+<!ENTITY tableAlignment.accessKey "T">
+<!ENTITY tableCaption.label "Overskrift:">
+<!ENTITY tableCaption.accessKey "O">
+<!ENTITY tableCaptionAbove.label "Over tabel">
+<!ENTITY tableCaptionBelow.label "Under tabelen">
+<!ENTITY tableCaptionLeft.label "Til venstre for tabelen">
+<!ENTITY tableCaptionRight.label "Til højre for tabelen">
+<!ENTITY tableCaptionNone.label "Ingen">
+<!ENTITY tableInheritColor.label "(Dæk ikke sidens baggrundsfarve)">
+<!ENTITY cellPercent.label "procent af tabellen">
+<!ENTITY cellSelection.label "Det valgte">
+<!ENTITY cellSelectCell.label "Celle">
+<!ENTITY cellSelectRow.label "Række">
+<!ENTITY cellSelectColumn.label "Kolonne">
+<!ENTITY cellSelectNext.label "Næste">
+<!ENTITY cellSelectNext.accessKey "N">
+<!ENTITY cellSelectPrevious.label "Forige">
+<!ENTITY cellSelectPrevious.accessKey "F">
+<!ENTITY cellApplyBeforeMove.label "Gem ændringer før markeringen ændres">
+<!ENTITY cellKeepCurrentData.label "Bevar nuværende indstillinger">
+<!ENTITY applyBeforeChange1.label "Nuværende ændringer bliver gemt">
+<!ENTITY applyBeforeChange2.label "før ændring af markeringen.">
+<!ENTITY cellRowSpan.label "Rækkespænd:">
+<!ENTITY cellColSpan.label "Kolonnespænd:">
+<!ENTITY cellContentAlignment.label "Justering af indholdet">
+<!ENTITY cellHorizontal.label "Vandret:">
+<!ENTITY cellHorizontal.accessKey "o">
+<!ENTITY cellVertical.label "Lodret:">
+<!ENTITY cellVertical.accessKey "V">
+<!ENTITY cellStyle.label "Celle-stil:">
+<!ENTITY cellStyle.accessKey "C">
+<!ENTITY cellNormal.label "Normal">
+<!ENTITY cellHeader.label "Hoved">
+<!ENTITY cellTextWrap.label "Ombryd tekst:">
+<!ENTITY cellTextWrap.accessKey "T">
+<!ENTITY cellWrap.label "Ombryd">
+<!ENTITY cellNoWrap.label "Ombryd ikke">
+<!ENTITY cellAlignTop.label "Top">
+<!ENTITY cellAlignMiddle.label "Midten">
+<!ENTITY cellAlignBottom.label "Bunden">
+<!ENTITY cellAlignJustify.label "Lige margen">
+<!ENTITY cellAlignAtChar.label "Ved tegn:">
+<!ENTITY cellInheritColor.label "(Dæk ikke tabellens baggrundsfarve)">
+<!ENTITY cellUseCheckboxHelp.label "Brug afkrydsningsfelter til at bestemme hvilke egenskaber der gælder alle markerede celler">
+<!ENTITY size.label "Størrelse:">
+<!ENTITY pixels.label "pixler">
+<!ENTITY backgroundColor.label "Baggrundsfarve">
+<!ENTITY backgroundColor.accessKey "B">
+<!ENTITY AlignLeft.label "Venstre">
+<!ENTITY AlignCenter.label "Centrer">
+<!ENTITY AlignRight.label "Højre">

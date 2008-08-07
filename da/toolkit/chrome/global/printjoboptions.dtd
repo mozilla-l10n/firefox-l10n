@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Egenskaber for printer">
+
+<!ENTITY paperInput.label "Papirstørrelse:">
+
+<!ENTITY plexInput.label "Plex modus:">
+
+<!ENTITY resolutionInput.label "Opløsning/Kvalitet:">
+
+<!ENTITY cmdInput.label "Printkommando:">
+
+<!ENTITY jobTitleInput.label "Jobtitel:">
+
+<!ENTITY colorGroup.label "Farve:">
+<!ENTITY grayRadio.label "Gråskala">
+<!ENTITY colorRadio.label "Farve">
+
+<!ENTITY colorspaceInput.label "Farverum:">
+
+<!ENTITY fontsGroup.label "Skrifttyper:">
+<!ENTITY downloadFonts.label "Hent skrifttyper til printer?">
+
+<!ENTITY edgeMarginInput.label "Mellemrum fra kant af papir til margen (millimeter/tommer)">
+<!ENTITY topInput.label "Top:">
+<!ENTITY bottomInput.label "Bund:">
+<!ENTITY leftInput.label "Venstre:">
+<!ENTITY rightInput.label "Højre:">

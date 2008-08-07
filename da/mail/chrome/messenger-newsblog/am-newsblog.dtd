@@ -1,0 +1,14 @@
+<!ENTITY newsblogTitle.label "RSS-kontoindstillinger">
+<!ENTITY biffStart.label "Kontroller efter nye artikler hvert">
+<!ENTITY biffStart.accesskey "K">
+<!ENTITY biffEnd.label "minut">
+<!ENTITY loginAtStartup.label "Søg efter ny post ved opstart">
+<!ENTITY loginAtStartup.accesskey "S">
+<!ENTITY useQuickMode.label "Vis artikeltekst i stedet for, at hente hjemmeside">
+<!ENTITY useQuickMode.accesskey "V">
+<!ENTITY manageSubscriptions.label "Håndter abonnementer...">
+<!ENTITY manageSubscriptions.accesskey "H">
+<!ENTITY rss.accountName "Nyheder &amp; blogs">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "RSS-nyheder &amp; blogs">
+<!ENTITY rss.hostName "Nyheder &amp; blogs">

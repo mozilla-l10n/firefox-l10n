@@ -1,0 +1,43 @@
+<!ENTITY windowTitle.label "HTML-post spørgsmål">
+<!ENTITY windowTitleSettings.label "Publish Settings">
+<!ENTITY publishTab.label "Publish">
+<!ENTITY settingsTab.label "Indstillinger">
+<!ENTITY publishButton.label "Publish">
+<!ENTITY siteList.label "Site Name:">
+<!ENTITY siteList.tooltip "Choose the site that you want to publish to">
+<!ENTITY newSiteButton.label "New Site">
+<!ENTITY siteDirList.label "Select or type a directory name in your publishing site:">
+<!ENTITY siteDirList.tooltip "Choose or enter the name of the remote subdirectory to publish to">
+<!ENTITY docDirList.label "Site subdirectory for this page:">
+<!ENTITY publishImgCheckbox.label "Include images and other files">
+<!ENTITY publishImgCheckbox.tooltip "Publish images and other files referenced by this page">
+<!ENTITY sameLocationRadio.label "Use same location as page">
+<!ENTITY sameLocationRadio.tooltip "Publish files to the same location as the page">
+<!ENTITY useSubdirRadio.label "Use this site subdirectory:">
+<!ENTITY useSubdir.tooltip "Choose or enter name of remote subdirectory where files will be published">
+<!ENTITY chooseDirButton.label "Choose...">
+<!ENTITY pageTitle.label "Page Title:">
+<!ENTITY pageTitle.tooltip "Enter a title to identify the page in the window and in bookmarks">
+<!ENTITY pageTitleExample.label "e.g.: &quot;My Web Page&quot;">
+<!ENTITY filename.label "Filename:">
+<!ENTITY filename.tooltip "Enter a name for this file, including &quot;.html&quot; for a web page">
+<!ENTITY filenameExample.label "e.g,: &quot;mypage.html&quot;">
+<!ENTITY relatedDocs.label "Other files to publish">
+<!ENTITY setDefaultButton.label "Vælg som standard">
+<!ENTITY setDefSiteAndDir.label "Set as Default Site and Directory">
+<!ENTITY removeButton.label "Fjern">
+<!ENTITY publishSites.label "Publishing Sites">
+<!ENTITY serverInfo.label "Server Information">
+<!ENTITY loginInfo.label "Login Information">
+<!ENTITY siteName.label "Site Name:">
+<!ENTITY siteName.tooltip "A nickname that identifies this publishing site (e.g.: &quot;MySite&quot;)">
+<!ENTITY siteUrl.label "Publishing address (e.g.: &quot;ftp://ftp.myisp.com/myusername&quot;):">
+<!ENTITY siteUrl.tooltip "The FTP:// or HTTP:// address provided by your ISP or web hosting service">
+<!ENTITY browseUrl.label "HTTP address of your homepage (e.g.: &quot;http://www.myisp.com/myusername&quot;):">
+<!ENTITY browseUrl.tooltip "The HTTP:// address of your home directory (don&quot;t include filename)">
+<!ENTITY username.label "Dit loginnavn">
+<!ENTITY username.tooltip "The user name you use to log in to your ISP or web hosting service">
+<!ENTITY password.label "Password:">
+<!ENTITY password.tooltip "The password associated with your user name">
+<!ENTITY savePassword.label "Gem adgangskode">
+<!ENTITY savePassword.tooltip "Select this to save your password securely using Password Manager">

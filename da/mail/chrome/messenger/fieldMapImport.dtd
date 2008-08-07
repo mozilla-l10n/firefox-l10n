@@ -1,0 +1,16 @@
+<!ENTITY fieldMapImport.title "Importer adressebog">
+<!ENTITY fieldMapImport.size "width: 47em; height: 38em;">
+<!ENTITY fieldMapImport.recordNumber "Importeret data af post:">
+<!ENTITY fieldMapImport.next "Næste">
+<!ENTITY fieldMapImport.next.accesskey "N">
+<!ENTITY fieldMapImport.previous "Forrige">
+<!ENTITY fieldMapImport.previous.accesskey "F">
+<!ENTITY fieldMapImport.text "Brug Flyt op og Flyt ned til at tilpasse adressebogsfelterne til venstre, til de korrekte data der skal importeres til højre. Afmarker de emner du ikke ønsker at importere.">
+<!ENTITY fieldMapImport.up "Flyt op">
+<!ENTITY fieldMapImport.up.accesskey "o">
+<!ENTITY fieldMapImport.down "Flyt ned">
+<!ENTITY fieldMapImport.down.accesskey "e">
+<!ENTITY fieldMapImport.fieldListTitle "Adressebogsfelter">
+<!ENTITY fieldMapImport.dataTitle "Vælg data der skal importeres">
+<!ENTITY fieldMapImport.skipFirstRecord "Første post indeholder feltnavne">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">

@@ -1,0 +1,8 @@
+<!ENTITY addressbookPicker.label "Adressebog:">
+<!ENTITY searchInput.label "Søg efter:">
+<!ENTITY SearchNameOrEmail.label "Navn eller e-mail">
+<!ENTITY addtoToFieldMenu.label "Tilføj til Til-feltet">
+<!ENTITY addtoCcFieldMenu.label "Tilføj til Kopi-til-feltet">
+<!ENTITY addtoBccFieldMenu.label "Tilføj til Skjult-kopi-til-feltet">
+<!ENTITY toButton.label "Til ->">
+<!ENTITY ccButton.label "Kopi til ->">

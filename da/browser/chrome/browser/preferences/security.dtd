@@ -1,0 +1,42 @@
+<!ENTITY  warnAddonInstall.label        "Advar mig når websteder forsøger at installere tilføjelser">
+<!ENTITY  warnAddonInstall.accesskey    "A">
+
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+<!ENTITY  tellMaybeAttackSite.label     "Fortæl mig hvis webstedet, jeg besøger, er mistænkt for at sprede skadelige programmer">
+<!ENTITY  tellMaybeAttackSite.accesskey "F">
+
+<!ENTITY  tellMaybeForgery.label     "Fortæl mig hvis webstedet, jeg besøger, er mistænkt for netsvindel">
+<!ENTITY  tellMaybeForgery.accesskey "o">
+
+<!ENTITY  addonExceptions.label         "Undtagelser…">
+<!ENTITY  addonExceptions.accesskey     "t">
+
+
+<!ENTITY  passwords.label               "Adgangskoder">
+
+<!ENTITY  rememberPasswords.label       "Husk adgangskoder for websteder">
+<!ENTITY  rememberPasswords.accesskey   "w">
+<!ENTITY  passwordExceptions.label      "Undtagelser…">
+<!ENTITY  passwordExceptions.accesskey  "U">
+
+<!ENTITY  useMasterPassword.label        "Benyt en hovedadgangskode">
+<!ENTITY  useMasterPassword.accesskey    "B">
+<!ENTITY  changeMasterPassword.label     "Ændr hovedadgangskode…">
+<!ENTITY  changeMasterPassword.accesskey "h">
+
+<!ENTITY  savedPasswords.label            "Gemte adgangskoder…">
+<!ENTITY  savedPasswords.accesskey        "G">
+
+
+<!ENTITY  warnings.label                "Advarsler">
+
+<!ENTITY  chooseWarnings.label          "Vælg hvilke advarsler du ønsker at se mens du surfer på nettet">
+
+<!ENTITY  warningSettings.label         "Indstillinger…">
+<!ENTITY  warningSettings.accesskey     "I">
