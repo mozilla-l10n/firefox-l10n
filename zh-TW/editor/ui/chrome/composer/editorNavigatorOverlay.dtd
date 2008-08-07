@@ -1,0 +1,7 @@
+
+<!ENTITY editPageCmd.label "編輯此頁">
+<!ENTITY editPageCmd.accesskey "e">
+
+<!ENTITY editLinkCmd.label "編輯此鏈結目標">
+<!ENTITY editLinkCmd.accesskey "E">
+

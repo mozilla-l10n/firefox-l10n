@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "頁面設定">
+
+<!ENTITY basic.tab "格式與選項">
+
+<!ENTITY formatGroup.label "格式">
+
+<!ENTITY orientation.label "方向:">
+<!ENTITY portrait "直式">
+<!ENTITY landscape "橫式">
+
+<!ENTITY scale.label "縮放:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "縮放以配合頁面寬度">
+
+<!ENTITY optionsGroup.label "選項">
+
+<!ENTITY printBG.label "列印背景 (顏色與圖片) ">
+
+<!ENTITY advanced.tab "邊界與標頭／註腳">
+
+<!ENTITY marginGroup.label "邊界 (#1) ">
+<!ENTITY marginUnits.inches "英吋">
+<!ENTITY marginUnits.metric "公釐 (mm)">
+<!ENTITY marginTop.label "頂端:">
+<!ENTITY marginBottom.label "底端:">
+<!ENTITY marginLeft.label "左邊:">
+<!ENTITY marginRight.label "右邊:">
+
+<!ENTITY headerFooter.label "標頭與註腳">
+
+<!ENTITY hfLeft.label "左邊:">
+<!ENTITY hfCenter.label "中間:">
+<!ENTITY hfRight.label "右邊:">
+<!ENTITY headerLeft.tip "頁首左方">
+<!ENTITY headerCenter.tip "頁首中間">
+<!ENTITY headerRight.tip "頁首右方">
+<!ENTITY footerLeft.tip "頁尾左方">
+<!ENTITY footerCenter.tip "頁尾中間">
+<!ENTITY footerRight.tip "頁尾右方">
+
+<!ENTITY hfTitle "標題">
+<!ENTITY hfURL "網址">
+<!ENTITY hfDateAndTime "日期／時間">
+<!ENTITY hfPage "頁碼 #">
+<!ENTITY hfPageAndTotal "頁碼 #／#">
+<!ENTITY hfBlank "--空白--">
+<!ENTITY hfCustom "自訂…">
+
+<!ENTITY customPrompt.title "自訂…">
+<!ENTITY customPrompt.prompt "輸入你自訂的標頭／註腳文字">

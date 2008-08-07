@@ -1,0 +1,119 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "圖片屬性">
+
+<!ENTITY pixelsPopup.value "像素">
+<!ENTITY percentPopup.value "百分比">
+<!-- These are in the Location tab panel -->
+
+<!ENTITY locationEditField.label "圖片位址 (URL):">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "輸入圖片檔的檔名路徑或網址">
+<!ENTITY title.label "提示文字:">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip "顯示 HTML 屬性 'title'  為提示文字(tooltip)">
+<!ENTITY altText.label "替代文字:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "輸入出現在圖片位置的文字">
+<!ENTITY noAltText.label "不要使用替代文字">
+<!ENTITY noAltText.accessKey "D">
+
+<!ENTITY previewBox.label "圖片預覽">
+<!ENTITY MoreFewerButton.tooltip "顯示更多或較少的屬性">
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
+<!ENTITY actualSize.label "實際大小:">
+<!ENTITY actualSizeRadio.label "實際大小:">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "使用此圖片的原始大小">
+<!ENTITY customSizeRadio.label "自定大小">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "改變此圖片顯示時的大小">
+<!ENTITY heightEditField.label "高度:">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY widthEditField.label "寬度:">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY constrainCheckbox.label "固定長寬比">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "維護此圖片的長寬比">
+<!-- These controls are in the Image Map box of the expanded area -->
+
+<!ENTITY imagemapBox.label "圖片對應 Map">
+<!ENTITY removeImageMapButton.label "移除">
+<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY editImageMapButton.label "編輯...">
+<!ENTITY editImageMapButton.tooltip "建立圖片上可以點選的Hotspot">
+<!-- These are the options for image alignment -->
+
+<!ENTITY alignment.label "文字對齊圖片方式:">
+<!ENTITY bottomPopup.value "底部">
+<!ENTITY topPopup.value "頂端">
+<!ENTITY centerPopup.value "中間">
+<!ENTITY wrapRightPopup.value "圖片右邊">
+<!ENTITY wrapLeftPopup.value "圖片左邊">
+<!-- These controls are in the Spacing Box -->
+
+<!ENTITY spacingBox.label "空白">
+<!ENTITY spacingBox.tooltip "輸入此圖片週圍的空白數量">
+<!ENTITY leftRightEditField.label "左右兩邊">
+<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY topBottomEditField.label "頂端和底部:">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "實心框線:">
+<!ENTITY borderEditField.accessKey "B">
+<!-- These controls are in the Link Box -->
+
+<!ENTITY showImageLinkBorder.label "在鏈結圖片外加框">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!-- These controls may be added some day; currently not used -->
+
+<!ENTITY makePageBackgroundCheckbox.label "設定為頁面背景">
+<!ENTITY makePageBackgroundCheckbox.tooltip "設定頁面背景為此圖片">
+<!ENTITY editImageButton.label "編輯圖片">
+<!ENTITY editImageButton.tooltip "用其它程式編輯圖片">
+<!-- These tabs are currently used in the image input dialog -->
+
+<!ENTITY imageInputTab.label "表單">
+<!ENTITY imageLocationTab.label "位址">
+<!ENTITY imageDimensionsTab.label "尺寸">
+<!ENTITY imageAppearanceTab.label "外觀設定">
+<!ENTITY imageLinkTab.label "鏈結">

@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label "此網站試圖開啟彈出型視窗，很可能是廣告視窗；不過 &brandShortName; 幫你擋下來了。每當發生這種情形時，你會在 &brandShortName; 狀態列看到一個圖示。">
+
+<!ENTITY endDescription.label "你可以點選此圖示以檢視 &brandShortName; 禁止開新彈出 (廣告) 視窗的網站，並可直接修改成可開新視窗。">
+
+<!ENTITY caption.label "關於阻擋彈出型廣告視窗 (Popup)">
+
+<!ENTITY done.label "完成">

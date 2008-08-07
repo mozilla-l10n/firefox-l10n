@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]
+>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>詞彙表</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<p>這份詞彙表僅供參考，而不代表這是一份可信賴的完整或權威性用語定義，
+  也不是技術上隱私或安全性的詳細說明。</p>
+<hr/>
+
+<h1 id="glossary">詞彙表</h1>
+
+<dl>
+
+<dt id="authentication">鑑別</dt>
+<dd>以密碼、憑證、個人識別碼 (PIN) 或其他資訊於網路上證明使用者確為其人。</dd>
+
+<dt id="bookmark">書籤</dt>
+<dd> 將網頁位址 (<a href="#Uniform_Resource_Locator">URL</a>) 儲存後便稱為書籤，
+ 您可以按下書籤工具列的圖示（或由書籤功能表中選擇該書籤）連到已儲存的位址。</dd>
+
+<dt id="Bookmarks_Toolbar">書籤工具列</dt>
+<dd>預設會出現於 &brandShortName; 位址列下方的工具列。此工具列能供使用者自訂，
+ 內含您最常用的書籤（或存有其他書籤的資料夾），亦可用以儲存或刪除書籤。</dd>
+
+<dt id="cache">快取</dt>
+<dd>A collection of web page copies stored on your computer's hard disk or in
+  its random-access memory (RAM). &brandShortName; accumulates these copies as you
+  browse the Web. When you click a link or type a
+  <a href="#Uniform_Resource_Locator">URL</a> to fetch a particular web page for
+  which the cache already contains a copy, &brandShortName; compares the cached copy
+  to the original. If there have been no changes, &brandShortName; uses the cached
+  copy rather than refetching the original, saving processing and download time.</dd>
+
+<dt id="certificate">憑證</dt>
+<dd>The digital equivalent of an ID card. A certificate specifies the name of an
+  individual, company, or other entity and certifies that a public key, which
+  is included in the certificate, belongs to that entity. When you digitally
+  sign a message or other data, the digital signature for that message is
+  created with the aid of the private key that corresponds to the public key
+  in your certificate.</dd>
+
+<dt id="client">用戶端</dt>
+<dd>通常運作在不同的電腦上，請求和接收 <a href="#server">伺服器</a> 資訊的軟體
+（例如網路瀏覽器）。執行用戶端軟體的電腦通常就被為用戶端。</dd>
+
+<dt id="cookie">Cookie</dt>
+<dd>A small bit of information stored on your computer by some web sites. When
+  you visit such a site, the site asks &brandShortName; to place one or more cookies
+  on your hard disk. Later, when you return to the site, &brandShortName; sends the
+  site the cookies that belong to it. Cookies help web sites keep track of
+  information about you, such as the contents of your shopping cart. You can set
+  your cookies options to control how cookies are used and how much information
+  you are willing to let web sites store on them.</dd>
+
+<dt id="cryptography">密碼學</dt>
+<dd>The art and practice of scrambling (encrypting) and unscrambling (decrypting)
+  information. For example, cryptographic techniques are used to scramble and unscramble
+  information flowing between commercial web sites and &brandShortName;.</dd>
+
+<dt id="decryption">解密</dt>
+<dd>The process of unscrambling data that has been encrypted. See also
+  <a href="#encryption">encryption</a>.</dd>
+
+<dt id="digital_ID">數位 ID</dt>
+<dd>請見 <a href="#certificate">憑證</a>。</dd>
+
+<dt id="encryption">加密</dt>
+<dd>藉由擾亂資訊的方式來混淆其真正意含的過程。舉例來說，電腦間的加密連線可讓其
+不容易被第三者解讀、或是<strong>解密</strong>連線間外流的資訊。加密的資訊只能在有適
+當的金鑰時被正確解密。</dd>
+
+<dt id="XML">延伸標記語言 (XML)</dt>
+<dd>An open standard for describing data. Unlike HTML, XML allows the
+  developer of a web page to define special tags. For more information,
+  see the online W3C document <a href="http://www.w3.org/XML/">Extensible
+  Markup Language (XML)</a>.</dd>
+
+<dt id="feed">消息來源 (Feed)</dt>
+<dd>An <a href="#XML">XML</a> web page that contains a list of links to
+  other web pages.  Special programs can read feeds to create a list
+  of headlines from the links, automatically updating the list as it changes.
+  News web sites use feeds to quickly publish the latest headlines, and
+  personal online journals often use feeds to quickly notify visitors about
+  new entries.  See also <a href="#live_bookmark">Live Bookmark</a>.</dd>
+
+<dt id="File_Transfer_Protocol">檔案傳輸協定 (FTP)</dt>
+<dd>一種可讓使用者在網路上傳送檔案至其他電腦的標準。您可以透過 &brandShortName; 
+   執行 FTP 來取得這些檔案。</dd>
+
+<dt id="FIPS_PUBS_140-1">FIPS PUBS 140-1</dt>
+<dd>聯邦資訊處理標準出版品 (FIPS PUBS) 140-1 是美國政府加密模組實作的國家標準 &mdash;
+  即定義軟硬體加解密或執行其他加密作業（比如建立或驗證數位簽章等等) 的方式。
+  要銷售給美國政府的產品都需要遵從起碼一個以上的 FIPS 標準。</dd>
+
+<dt id="home_page">首頁</dt>
+<dd>當您每次執行 &brandShortName; 時或是按下<strong>首頁</strong>按鈕時會顯示的預設頁面。
+    通常是指可以讓您瀏覽該網站其餘頁面的首頁部份。</dd>
+
+<dt id="Hypertext_Markup_Language">超文件標示語言 (HTML)</dt>
+<dd>指網頁的文件格式。超文件標示語言標準定義了標籤或是程式碼來定義文字的佈局
+    、字型、樣式、圖片或是其他可組成網頁的元素。</dd>
+
+<dt id="Internet">網際網路</dt>
+<dd>數以百萬計使用 <a href="#Transmission_Control_Protocol_Internet_Protocol">TCP/IP</a>
+    作為連接彼此的通訊協定的世界性電腦網路。於 1969 年由美國國防部制定，
+    網際網路的成長包括教育及研究機構，並且於 1990 年代末期更包含了數以萬計的商業、
+    機構以及個人用戶。而今日網際網路可用來收送電子郵件、瀏覽<a href="#World_Wide_Web">網際網路</a>、
+    即時通訊、郵遞論壇及討論群組及滿足其他需求。</dd>
+
+<dt id="Internet_protocol_address">IP 位址</dt>
+<dd>The address of a computer on a
+  <a href="#TCP_IP">TCP/IP</a> network.
+  Every computer on the Internet has an IP address. <a href="#client">Clients</a>
+  have either a permanent IP address or one that is dynamically assigned to them
+  each time they connect with the network.</dd>
+
+<dt id="Java">Java</dt>
+<dd>A programming language developed by Sun Microsystems. A single Java program
+  can run on many different kinds of computers, thus avoiding the need for
+  programmers to create a separate version of each program for each kind of
+  computer. After Java is installed, &brandShortName; can automatically download
+  and run Java programs (also called applets).</dd>
+
+<dt id="JavaScript">JavaScript</dt>
+<dd>A scripting language commonly used to construct web pages. Programmers use
+  JavaScript to make web pages more interactive; JavaScript is often used to
+  dynamically validate forms and select buttons. JavaScript can be used with
+  Java, but it is technically a separate language. Java is not required for
+  JavaScript to work correctly.</dd>
+
+<dt id="live_bookmark">即時書籤</dt>
+<dd>一種特殊資料夾類型的書籤，含有 <a href="#feed">消息來源 (Feed)</a>的連結。
+   當您瀏覽擁有消息來源的網站時您可以建立即時書籤，或按下位址列上的即時書籤圖示
+   並選擇您想訂閱的消息來源。</dd>
+
+<dt id="location_bar">位址列</dt>
+<dd>接近 &brandShortName; 視窗頂端的區域（含相關的按鈕），您可以在這裡鍵入
+    <a href="#Uniform_Resource_Locator">URL</a> 或是要搜尋的項目。</dd>
+
+<dt id="master_password">主控密碼</dt>
+<dd>用以保護已存密碼和其他私密資料的密碼。當您要存取這些資料時 &brandShortName; 
+    會提示您需要這組密碼。假如您有多個安全裝置，每組安全裝置均需要一組私人的主控密碼。</dd>
+
+<dt id="navigation_toolbar">瀏覽工具列</dt>
+<dd>最靠近 &brandShortName; 視窗頂端的工具列，預設包含 <strong>上一頁</strong> 
+   與 <strong>下一頁</strong> 的按鈕。</dd>
+
+<dt id="Password_Manager">密碼管理員</dt>
+<dd>&brandShortName; 中用來幫助您記憶部份或全部的使用者名稱與密碼的功能，
+    這些資料通常會在您電腦的硬碟中並且當您瀏覽這些網站時會自動幫您鍵入。</dd>
+
+<dt id="PKCS_11">PKCS #11</dt>
+<dd>The public-key cryptography standard that governs security devices such
+  as smart cards.</dd>
+
+<dt id="Plugin">外掛程式 (Plugin)</dt>
+<dd>Plugins add new capabilities to &brandShortName;, such as the ability to
+  play audio or video clips. Unlike other kinds of helper applications, a Plugin
+  installs itself into the Plugins directory within the main
+  &brandShortName; installation directory and typically can be opened within
+  &brandShortName; itself (internally). For example, an audio Plugin lets you
+  listen to audio files on a web page or in an e-mail message. Macromedia
+  Flash Player and Java are both examples of Plugin applications.</dd>
+
+<dt id="private_key">私密金鑰</dt>
+<dd>公開金鑰密碼組中的一部分。私密金鑰需妥善保管以用來解密正確的公開金鑰所加密的資料。</dd>
+
+<dt id="proxy">代理伺服器 (Proxy)</dt>
+<dd>在<a href="#server">伺服器</a>與<a href="#client">用戶端</a>中間作為中介或「中間人」的程式，
+    負責送出請求動作到其他用戶端。</dd>
+
+<dt id="search_engine">搜尋引擎</dt>
+<dd>一種以網頁為基礎，可能使用者搜尋並接收網際網路上特定資訊的程式。
+    搜尋引擎可供搜尋網頁文件的完整文字內容或是關鍵字列表，他也可能
+    使用程式管理員手動檢索取回的網頁文件和目錄資料。
+    通常使用者會在搜尋框鍵入文字或片語，而搜尋引擎會將跟其有關連的鏈結顯示出來。</dd>
+
+<dt id="secure_site">安全網站</dt>
+<dd>A site that uses <a href="#encryption">encryption</a> in connections
+  with &brandShortName; to prevent other malicious Internet users from
+  viewing transmitted data.  When you visit secure sites, &brandShortName;
+  displays a lock icon in the <a href="#Status_Bar">Status Bar</a> and the
+  <a href="#location_bar">Location Bar</a>.  &brandShortName; also
+  displays the site's domain name in the Status Bar (to prevent malicious
+  sites from stealing your data) and turns the background of the Location
+  Bar to yellow.</dd>
+<dd>Some sites may consist of both secure and insecure data; the insecure data
+  usually is non-private, although it isn't guaranteed to be so.  For such
+  sites &brandShortName; will display a lock icon with a slash through it in
+  the Status Bar and Location Bar and will <em>not</em> display the site's
+  domain name in the Status Bar so that you know that the current web page
+  isn't completely secure.</dd>
+
+<dt id="SSL">Secure Sockets Layer (SSL)</dt>
+<dd>A protocol that allows mutual authentication between a
+  <a href="#client">client</a> and a <a href="#server">server</a>
+  for the purpose of establishing an authenticated and encrypted
+  connection. SSL runs above TCP/IP and below HTTP, LDAP, IMAP, NNTP,
+  and other high-level network protocols. The new Internet Engineering
+  Task Force (IETF) standard called Transport Layer Security (TLS) is
+  based on SSL. See also <a href="#authentication">authentication</a>,
+  <a href="#encryption">encryption</a>.</dd>
+
+<dt id="server">伺服器</dt>
+<dd>通常運作在不同的電腦上，接受請求和送出資訊給 <a href="#client">用戶端</a>的軟體
+  （如提供網頁功能的軟體。）執行伺服端軟體的電腦通常就稱為伺服器。</dd>
+
+<dt id="Status_Bar">狀態列</dt>
+<dd>顯示在所有 &brandShortName; 視窗下方的工具列。他會在其右側顯示狀態圖示。</dd>
+
+<dt id="TLS">TLS</dt>
+<dd>請見 <a href="#SSL">Secure Sockets Layer (SSL)</a>。</dd>
+
+<dt id="TCP_IP">傳輸控制／網際網路協定 (TCP/IP)</dt>
+<dd>一種用來連接執行不同作業系統的 UNIX 通訊協定。
+    TCP/IP 是一個非常出色的網際網路通訊協定並且為一項全球標準。</dd>
+
+<dt id="Uniform_Resource_Locator">Uniform Resource Locator (URL)</dt>
+<dd>The standardized address that tells &brandShortName; how to locate a file or
+  other resource on the Web (for example, <tt>http://www.mozilla.org</tt>).
+  Type URLs into &brandShortName;'s Location Bar to access web pages. URLs
+  are also used in the links on web pages go to other web pages. Also known
+  as an Internet or Web address.</dd>
+
+<dt id="web_page">網頁</dt>
+<dd>網際網路上指定了特定位址或 URL 的單一文件。網頁上可能會包含文字、超鏈結以及圖片。</dd>
+
+<dt id="web_site">網站</dt>
+<dd>一群由企業、機構或個人所維護，藉由超鏈結所串起的相關網頁。
+   網站可能包含文字、圖片、聲音或影像檔案以及與其他網站間的鏈結。</dd>
+
+<dt id="World_Wide_Web">全球資訊網</dt>
+<dd>亦稱為 Web，以 <a href="#server">伺服器</a> 上的網頁所組成，為網際網路的一部分。
+    閱覽網頁用的 <a href="#client">用戶端程式</a> 即稱為瀏覽器 (例如 &brandShortName;)。</dd>
+
+</dl>
+
+<p>
+[&nbsp;<a href="#glossary">回到詞彙表頁首</a>&nbsp;]
+</p>
+
+<div class="contentsBox"><em>07 April 2005</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

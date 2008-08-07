@@ -1,0 +1,19 @@
+<!-- extracted from content/pref-publish.xul -->
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+
+<!ENTITY pref.publish.title "輸出">
+<!ENTITY composerHeader.label "輸出">
+<!ENTITY maintainCheckbox.label "維護鏈結">
+<!ENTITY keepCheck.label "一起保留文件內的圖片">
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+
+<!ENTITY adjustDesc.label "由頁面的位置調整鏈結. (本地頁面的鏈結可在 本地版本存在時使用) ">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY saveDesc.label "複製圖片到此頁面的網址. (圖片在 本地或輸出至遠端後都會出現)">
+<!ENTITY tip.label "秘訣: 如果要輸出到遠端，把兩個選項都選起來。">
+<!ENTITY defaultHeader.label "預設輸出位置">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY publishFtp.label "若是輸出到 FTP，請輸入要用HTTP瀏覽時的網址:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY publishhtp.label "若是輸出到 FTP，請輸入要用HTTP瀏覽時的網址:">
+

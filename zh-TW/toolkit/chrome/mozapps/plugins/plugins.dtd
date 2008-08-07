@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title "外掛程式尋找服務">
+<!ENTITY pluginWizard.firstPage.title "歡迎使用 &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; 目前正在檢查是否有可用的外掛程式…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "可用的外掛程式下載">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "找到下列外掛程式:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "請按下一步以安裝這些外掛程式。">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "有些外掛程式安裝時需要你提供額外的資訊。">
+
+<!ENTITY pluginWizard.licensePage.title "外掛程式授權條款">
+<!ENTITY pluginWizard.licensePage.accept.label "我同意。">
+<!ENTITY pluginWizard.licensePage.deny.label "我不同意 (不會安裝外掛程式) 。">
+
+<!ENTITY pluginWizard.installPluginsPage.title "安裝外掛程式中">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; 正在安裝外掛程式…">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; 已完成安裝下列的外掛程式:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "關於 Plugins 的進一步訊息或手動尋找所需的外掛程式。">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; 重新啟動後才能使用這些外掛程式。">
+  
+<!ENTITY missingPlugin.label "按這裡下載外掛程式。">

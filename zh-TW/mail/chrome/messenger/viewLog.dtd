@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "篩選記錄">
+<!ENTITY viewLogInfo.text "篩選記錄是記錄此帳號執行篩選條件的過程，勾選此項以使用記錄功能。">
+<!ENTITY clearLog.label "清除記錄">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY enableLog.label "使用篩選記錄">
+<!ENTITY enableLog.accesskey "E">
+<!ENTITY closeLog.label "關閉">
+<!ENTITY closeLog.accesskey "o">

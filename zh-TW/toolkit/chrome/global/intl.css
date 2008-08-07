@@ -1,0 +1,27 @@
+/*
+ * This file contains all localizable skin settings such as 
+ *   font, layout, and geometry
+ */
+window { 
+  font-size: 3mm;
+}
+
+/* to workaround Mac: */
+/*
+* {
+  font-family: "Apple LiGothic Medium";
+  "Apple LiGothic Medium",Tahoma,Arial,Helvetica,"Lucida Grande",sans-serif;
+}
+*/
+
+/* let user modify by pref: */
+/*
+* {
+  font-family: sans-serif;
+}
+*/
+
+/* if we have per-platform conf... */
+/*
+@import url("chrome://global-platform/locale/intl.css");
+*/

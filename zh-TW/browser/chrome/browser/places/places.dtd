@@ -1,0 +1,216 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "收藏庫">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "管理">
+<!ENTITY organize.accesskey    "O">
+
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "關閉">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "編輯">
+<!ENTITY edit.accesskey                 "E">
+<!ENTITY views.label                    "檢視">
+<!ENTITY views.accesskey                "V">
+<!ENTITY view.toolbar.label             "工具列">
+<!ENTITY view.toolbar.accesskey         "o">
+<!ENTITY view.columns.label             "顯示欄位">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "排序">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "不排序">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "遞增排序 (A > Z)">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "遞減排序 (Z > A)">
+<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY help.usingBookmarks.label      "使用書籤">
+<!ENTITY help.usingBookmarks.accesskey  "B">
+<!ENTITY help.usingHistory.label        "使用瀏覽記錄">
+<!ENTITY help.usingHistory.accesskey    "i">
+<!ENTITY help.advancedTips.label        "進階秘訣及小密技">
+<!ENTITY help.advancedTips.accesskey    "T">
+
+<!ENTITY cmd.findInBookmarks.label      "在書籤中尋找…">
+<!ENTITY cmd.findInBookmarks.accesskey  "F">
+<!ENTITY cmd.findCurrent.label          "在目前書籤集中尋找…">
+<!ENTITY cmd.findCurrent.accesskey      "i">
+
+<!ENTITY cmd.exportHTML.label           "匯出為 HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "匯入為 HTML…">
+<!ENTITY cmd.importHTML.accesskey       "I">
+
+
+<!ENTITY cmd.backup.label               "備份…">
+<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "回復">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "選擇檔案…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+
+<!ENTITY cmd.select_all.label "全選">
+<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label         "剪下">
+<!ENTITY cmd.edit_cut.accesskey     "t">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "複製">
+<!ENTITY cmd.edit_copy.accesskey    "C">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "貼上">
+<!ENTITY cmd.edit_paste.accesskey   "P">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "刪除">
+<!ENTITY cmd.edit_delete.accesskey  "D">
+<!ENTITY cmd.edit_undo.label        "復原">
+<!ENTITY cmd.edit_undo.accesskey    "U">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "取消復原">
+<!ENTITY cmd.edit_redo.accesskey    "R">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.open.label                  "開啟">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "用新視窗中開啟">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_tab.label              "用新分頁中開啟">
+<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_all_in_tabs.label      "全部用新分頁開啟">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
+
+<!ENTITY cmd.properties.label      "屬性">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "重新命名">
+<!ENTITY cmd.rename.accesskey  "R">
+
+<!ENTITY cmd.sortby_name.label              "依名稱排序">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "新增書籤…">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_livemark.label            "新增即時書籤…">
+<!ENTITY cmd.new_livemark.accesskey        "L">
+<!ENTITY cmd.new_folder.label              "新增資料夾…">
+<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "新增分隔線">
+<!ENTITY cmd.new_separator.accesskey       "S">
+
+<!ENTITY cmd.reloadLivebookmark.label      "重新載入即時書籤">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadMicrosummary.label      "重新載入即時標題">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+
+<!ENTITY cmd.groupby_site.label      "依網站分組">
+<!ENTITY cmd.groupby_site.accesskey  "S">
+<!ENTITY cmd.groupby_page.label      "依頁面分組">
+<!ENTITY cmd.groupby_page.accesskey  "P">
+<!ENTITY cmd.groupby_feed.label      "依訂閱分組">
+<!ENTITY cmd.groupby_feed.accesskey  "S">
+<!ENTITY cmd.groupby_post.label      "依文章分組">
+<!ENTITY cmd.groupby_post.accesskey  "P">
+
+<!ENTITY cmd.moveBookmarks.label                  "移動…">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.name.label          "名稱">
+<!ENTITY col.tags.label          "標籤">
+<!ENTITY col.url.label           "網址">
+<!ENTITY col.lastvisit.label     "瀏覽日期">
+<!ENTITY col.visitcount.label    "瀏覽次數">
+<!ENTITY col.keyword.label       "關鍵字">
+<!ENTITY col.description.label   "敘述">
+<!ENTITY col.dateadded.label     "加入日期">
+<!ENTITY col.lastmodified.label  "最後更改日期">
+
+<!ENTITY search.label                              "搜尋範圍:">
+<!ENTITY search.accesskey                          "S">
+<!ENTITY search.collection.label                   "僅限目前書籤集">
+<!ENTITY search.collection.accesskey               "C">
+<!ENTITY search.allBookmarks.label                 "所有書籤">
+<!ENTITY search.allBookmarks.accesskey             "A">
+<!ENTITY search.scopeFolder.label                  "所選的資料夾">
+<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeAll.label                     "所有書籤">
+<!ENTITY search.scopeAll.accesskey                 "A">
+<!ENTITY search.scopeMenu.label                    "書籤功能表">
+<!ENTITY search.scopeMenu.accesskey                "M">
+<!ENTITY search.scopeToolbar.label                 "書籤工具列">
+<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeDownloads.label               "下載項目">
+<!ENTITY search.scopeDownloads.accesskey           "D">
+<!ENTITY search.scopeHistory.label                 "瀏覽記錄">
+<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "顯示搜尋條件建立器">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "隱藏搜尋條件建立器">
+<!ENTITY saveSearch.label                          "儲存">
+<!ENTITY saveSearch.accesskey                      "S">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "只搜尋書籤項目">
+<!ENTITY advancedSearch.match.label                "符合下列 ">
+<!ENTITY advancedSearch.all.label                  "所有">
+<!ENTITY advancedSearch.any.label                  "任一">
+<!ENTITY advancedSearch.rules.label                " 的規則:">
+<!ENTITY advancedSearch.subj_keyword.label         "包含下列文字">
+<!ENTITY advancedSearch.subj_visited.label         "瀏覽日期">
+<!ENTITY advancedSearch.subj_location.label        "網址">
+<!ENTITY advancedSearch.location_startswith.label  "以下列字串開頭">
+<!ENTITY advancedSearch.location_is.label          "為">
+<!ENTITY advancedSearch.location_onsite.label      "於此網站">
+<!ENTITY advancedSearch.time_is.label              "為">
+<!ENTITY advancedSearch.time_before.label          "此日期之前">
+<!ENTITY advancedSearch.time_after.label           "此日期之後">
+<!ENTITY advancedSearch.time_inlast.label          "在過去">
+<!ENTITY advancedSearch.last_days.label            "天內">
+<!ENTITY advancedSearch.last_weeks.label           "週內">
+<!ENTITY advancedSearch.last_months.label          "月內">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "分組依照: ">
+<!ENTITY advancedSearch.groupby_host.label         "主機">
+<!ENTITY advancedSearch.groupby_domain.label       "網域">
+<!ENTITY advancedSearch.groupby_folder.label       "資料夾">
+<!ENTITY advancedSearch.sortby.label               "排序依照: ">
+<!ENTITY advancedSearch.sortby_title.label         "標題">
+<!ENTITY advancedSearch.sortby_date.label          "日期">
+<!ENTITY advancedSearch.sortby_visit.label         "瀏覽次數">
+<!ENTITY advancedSearch.sortby_url.label           "網址">
+<!ENTITY advancedSearch.sortby_asc.label           "遞增排序">
+<!ENTITY advancedSearch.sortby_desc.label          "遞減排序">
+<!ENTITY advancedSearch.max.label                  "最大搜尋結果: ">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "消息來源">
+<!ENTITY feed.subscribe.tooltip  "訂閱">
+
+<!ENTITY view.detailsMacOSX.label  "列表顯示">
+<!ENTITY view.details.label        "詳細資訊">
+<!ENTITY view.details.accesskey    "D">
+
+<!ENTITY view.addons.label   "取得檢視類擴充套件">
+
+<!ENTITY maintenance.label      "匯入及備份">
+<!ENTITY maintenance.accesskey  "I">
+
+<!ENTITY backCmd.label       "上一頁">
+<!ENTITY backCmd.accesskey   "B">
+<!ENTITY backButton.tooltip  "回上一頁">
+
+<!ENTITY forwardCmd.label       "下一頁">
+<!ENTITY forwardCmd.accesskey   "F">
+<!ENTITY forwardButton.tooltip  "到下一頁">
+
+<!ENTITY detailsPane.more.label "更多欄位">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "減少欄位">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "預覽">
+<!ENTITY detailsPane.selectAnItemText.description "請選擇一個項目以檢視或編輯其屬性">

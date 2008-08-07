@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Sean Umphlet <nosebleed@umphlet.com> (minor bugfixes)
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>&brandFullName; 鍵盤操作捷徑</title>
+  <link rel="stylesheet" type="text/css"
+    href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandFullName; 鍵盤操作捷徑（熱鍵列表）</h1>
+
+<p>下面列出 &brandFullName; 最常用的鍵盤操作捷徑。
+<span class="unix">如果您使用 GNOME，啟用了 Emacs 樣式熱鍵，則 &brandShortName; 也會受影響。
+  當 Emacs 樣式熱鍵與預設的熱鍵衝突時（例如 &accelKey;+<kbd>K</kbd>），Emacs 樣式熱鍵會在文字
+  方塊優先生效（包含位址列和搜尋列）。 這種情況請使用下列提到的替代熱鍵。</span></p>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>命令</th>
+      <th>捷徑</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">瀏覽</th>
+    </tr>
+    <tr>
+      <td>上一頁</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>左方向鍵 ←</kbd><br/>
+          <kbd>Backspace</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>左方向鍵 ←</kbd><br/>
+          &accelKey;+<kbd>[</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>[</kbd><br/>
+          &accelKey;+<kbd>左方向鍵 ←</kbd><br/>
+		  <kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>下一頁</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>右方向鍵 →</kbd><br/>
+          &shiftKey;+<kbd>Backspace</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>右方向鍵 →</kbd><br/>
+          &accelKey;+<kbd>]</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>]</kbd><br/>
+          &accelKey;+<kbd>右方向鍵 →</kbd><br/>
+          &shiftKey;+<kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>首頁</td>
+      <td>&altKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>開啟檔案</td>
+      <td>&accelKey;+<kbd>O</kbd></td>
+    </tr>
+    <tr>
+      <td>重新載入</td>
+      <td><kbd>F5<br/></kbd>
+        &accelKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>重新載入（強制更新快取內容）</td>
+      <td><span class="noMac">&accelKey;+<kbd>F5</kbd><br/></span>
+        &accelKey;+&shiftKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>停止</td>
+      <td><span class="mac">&accelKey;+<kbd>.</kbd><br/></span>
+        <kbd>Esc</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">目前頁面</th>
+    </tr>
+    <tr>
+      <td>頁尾</td>
+      <td><kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>頁首</td>
+      <td><kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>移至下個頁框</td>
+      <td><kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>移至上個頁框</td>
+      <td>&shiftKey;+<kbd>F6</kbd></td>
+    </tr>
+    <tr class="noWin">
+      <td>頁面資訊</td>
+      <td>&accelKey;+<kbd>I</kbd></td>
+    </tr>
+    <tr>
+      <td>頁面原始碼</td>
+      <td>&accelKey;+<kbd>U</kbd></td>
+    </tr>
+    <tr>
+      <td>列印</td>
+      <td>&accelKey;+<kbd>P</kbd></td>
+    </tr>
+    <tr>
+      <td>頁面另存新檔</td>
+      <td>&accelKey;+<kbd>S</kbd></td>
+    </tr>
+    <tr>
+      <td>縮小文字 </td>
+      <td>&accelKey;+<kbd>-</kbd></td>
+    </tr>
+    <tr>
+      <td>放大文字 </td>
+      <td>&accelKey;+<kbd>+</kbd></td>
+    </tr>
+    <tr>
+      <td>標準文字大小</td>
+      <td>&accelKey;+<kbd>0</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">編輯</th>
+    </tr>
+    <tr>
+      <td>複製</td>
+      <td>&accelKey;+<kbd>C</kbd></td>
+    </tr>
+    <tr>
+      <td>剪下</td>
+      <td>&accelKey;+<kbd>X</kbd></td>
+    </tr>
+    <tr>
+      <td>刪除</td>
+      <td><kbd>Delete</kbd></td>
+    </tr>
+    <tr>
+      <td>貼上</td>
+      <td>&accelKey;+<kbd>V</kbd></td>
+    </tr>
+    <tr>
+      <td>取消「復原」</td>
+      <td><span class="win">&accelKey;+<kbd>Y</kbd></span>
+        <span class="noWin">&accelKey;+&shiftKey;+<kbd>Z</kbd></span></td>
+    </tr>
+    <tr>
+      <td>全選</td>
+      <td>&accelKey;+<kbd>A</kbd></td>
+    </tr>
+    <tr>
+      <td>復原</td>
+      <td>&accelKey;+<kbd>Z</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">搜尋</th>
+    </tr>
+    <tr>
+      <td>尋找文字</td>
+      <td>&accelKey;+<kbd>F</kbd></td>
+    </tr>
+    <tr>
+      <td>找下一個</td>
+      <td><kbd>F3</kbd><br/>
+        &accelKey;+<kbd>G</kbd></td>
+    </tr>
+    <tr>
+      <td>鏈結隨打即找</td>
+      <td><kbd>'</kbd></td>
+    </tr>
+    <tr>
+      <td>文字隨打即找</td>
+      <td><kbd>/</kbd></td>
+    </tr>
+    <tr>
+      <td>找前一個</td>
+      <td>&shiftKey;+<kbd>F3</kbd></td>
+    </tr>
+    <tr>
+      <td>網路搜尋</td>
+      <td>&accelKey;+<kbd>K</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>E</kbd></span>
+        <span class="unix"><br/>&accelKey;+<kbd>J</kbd></span></td>
+    </tr>
+  </tbody>
+  <tbody id="windows_tabs">
+    <tr>
+      <th colspan="2">瀏覽視窗與分頁</th>
+    </tr>
+    <tr>
+      <td>關閉分頁</td>
+      <td>&accelKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&ctrlKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>關閉視窗</td>
+      <td>&accelKey;+&shiftKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&altKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <!-- LOCALIZATION NOTE:
+         "Left"/"Up" and "Right"/"Down" might need special treatment
+         for bidi locales, as used in the following two entries.
+    -->
+    <tr>
+      <td>左移目前分頁</td>
+      <td>&accelKey;+<kbd>左方向鍵 ←</kbd><br/>
+          &accelKey;+<kbd>上方向鍵 ↑</kbd></td>
+    </tr>
+    <tr>
+      <td>右移目前分頁</td>
+      <td>&accelKey;+<kbd>右方向鍵 →</kbd><br/>
+          &accelKey;+<kbd>下方向鍵 ↓</kbd></td>
+    </tr>
+    <tr>
+      <td>目前分頁移至最左邊</td>
+      <td>&accelKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>目前分頁移至最右邊</td>
+      <td>&accelKey;+<kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>開新分頁</td>
+      <td>&accelKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>開新視窗</td>
+      <td>&accelKey;+<kbd>N</kbd></td>
+    </tr>
+    <tr>
+      <td>後一個分頁</td>
+      <td>&ctrlKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+右方向鍵 →<br/></span>
+        &ctrlKey;+<kbd>Page Down</kbd></td>
+    </tr>
+    <tr>
+      <td>用新分頁開啟鏈結</td>
+      <td>&altKey;+&enterKey;</td>
+    </tr>
+	<tr>
+      <td>前一個分頁</td>
+      <td>&ctrlKey;+&shiftKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+左方向鍵 ←<br/></span>
+        &ctrlKey;+<kbd>Page Up</kbd></td>
+    </tr>
+    <tr>
+      <td>復原最後關閉的分頁</td>
+      <td>&accelKey;+&shiftKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>切換至指定分頁 (1 到 8)</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+(數字鍵 <kbd>1</kbd> - <kbd>8</kbd>)</td>
+    </tr>
+    <tr>
+      <td>選擇最後使用的分頁</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+<kbd>9</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">工具</th>
+    </tr>
+    <tr class="noUnix">
+      <td>所有分頁加入書籤</td>
+      <td>&accelKey;+&shiftKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>此頁加入書籤</td>
+      <td>&accelKey;+<kbd>D</kbd></td>
+    </tr>
+     <tr>
+      <td>顯示書籤</td>
+      <td>&accelKey;+<kbd>B</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>I</kbd></span></td>
+    </tr>
+    <tr>
+      <td>鍵盤瀏覽</td>
+      <td><kbd>F7</kbd></td>
+    </tr>
+    <tr>
+      <td>下載管理員</td>
+      <td><span class="noUnix">&accelKey;+<kbd>J</kbd></span>
+        <span class="unix">&accelKey;+<kbd>Y</kbd></span></td>
+    </tr>
+    <tr>
+      <td>瀏覽記錄</td>
+      <td><span class="noMac">&accelKey;+<kbd>H</kbd></span>
+        <span class="mac">&accelKey;+&shiftKey;+<kbd>H</kbd></span></td>
+    </tr>
+    <tr>
+      <td>清除隱私資料</td>
+      <td>&accelKey;+&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">其它</th>
+    </tr>
+    <tr>
+      <td>快速填入 .com 網址</td>
+      <td>&accelKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>快速填入 .net 網址</td>
+      <td>&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>快速填入 .org 網址</td>
+      <td>&accelKey;+&shiftKey;+&enterKey;</td>
+    </tr>
+    
+    <tr>
+      <td>刪除已選填入項目</td>
+      <td>&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+    <tr class="noMac">
+      <td>全螢幕</td>
+      <td><kbd>F11</kbd></td>
+    </tr>
+    <tr>
+      <td>切換至網址列</td>
+      <td><span class="noMac">&altKey;+<kbd>D</kbd><br/></span>
+        <kbd>F6</kbd><br />
+        &accelKey;+<kbd>L</kbd></td>
+    </tr>
+    <tr>
+      <td>選擇或管理搜尋引擎（須先切換到搜尋列）</td>
+      <td>&altKey;+<kbd>上方向鍵 ↑</kbd><br/>
+         &altKey;+<kbd>下方向鍵 ↓</kbd><span class="noMac"><br/>
+         <kbd>F4</kbd></span></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="contentsBox"><strong>26 July 2006</strong></div>
+<div>Copyright &copy; 2003-2006 Contributors to the Mozilla Help Viewer Project.
+<br/>Copyright &copy; 2005-2006 Traditional Chinese Translation by Hung-Te Lin.</div>
+
+</body>
+</html>

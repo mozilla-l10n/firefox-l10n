@@ -1,0 +1,10 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Yahoo!奇摩拍賣</ShortName>
+<Description>Yahoo!奇摩拍賣</Description>
+<InputEncoding>BIG5</InputEncoding>
+<Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeklEQVQ4jaWSMQqAMBAEJ5KvWAnWeVce4ruuDqTyJ4LETizMrZht7zjmdhcGFSzPzVtI2x68eQRY09JdsEzzjkSAYtXF/E1QrH57AYDz+E/gSZnsHljTcvvz9maxyqQIlFyCZzq9pKQHKoXhF2SVFYWssmqprLLyYFgXp3YrkpPWCyYAAAAASUVORK5CYII=</Image>
+<Url type="text/html" method="GET" template="http://tw.search.bid.yahoo.com/search/ac">
+  <Param name="p" value="{searchTerms}"/>
+</Url>
+<SearchForm>http://tw.search.bid.yahoo.com/search/ac</SearchForm>
+</SearchPlugin>

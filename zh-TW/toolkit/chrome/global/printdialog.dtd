@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "列印">
+
+<!ENTITY printDialog.title "列印">
+
+<!ENTITY fpDialog.title "儲存檔案">
+
+<!ENTITY fileCheck.label "印至檔案">
+<!ENTITY propertiesButton.label "屬性…">
+<!ENTITY descText.label "印表機說明:">
+<!ENTITY printer.label "印表機">
+<!ENTITY printerInput.label "印表機名稱:">
+
+<!ENTITY printrangeGroup.label "列印範圍">
+<!ENTITY allpagesRadio.label "所有頁面">
+<!ENTITY rangeRadio.label "頁">
+<!ENTITY frompageInput.label "從">
+<!ENTITY topageInput.label "到">
+<!ENTITY selectionRadio.label "只印選取範圍">
+
+<!ENTITY copies.label "備份">
+<!ENTITY numCopies.label "份數:">
+
+<!ENTITY printframeGroup.label "列印頁框">
+<!ENTITY aslaidoutRadio.label "如螢幕顯示">
+<!ENTITY selectedframeRadio.label "已選取的頁框">
+<!ENTITY eachframesepRadio.label "各頁框獨立列印">

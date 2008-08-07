@@ -1,0 +1,55 @@
+<!ENTITY history.label "歷史記錄">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "保留我的瀏覽記錄最少">
+<!ENTITY rememberDaysBefore.accesskey "h">
+<!ENTITY  rememberDaysAfter2.label      "天">
+
+<!ENTITY rememberForms.label "儲存我在表單與搜尋列輸入的內容">
+<!ENTITY rememberForms.accesskey "f">
+
+<!ENTITY rememberDownloads.label "保留我的下載記錄">
+<!ENTITY rememberDownloads.accesskey "d">
+
+
+<!ENTITY cookies.label "Cookie">
+
+<!ENTITY acceptCookies.label "允許網站設定 Cookie">
+<!ENTITY acceptCookies.accesskey "c">
+
+<!ENTITY  acceptThirdParty.label        "接受來自第三方的 Cookie">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+<!ENTITY keepUntil.label "保留 Cookie 直到:">
+<!ENTITY keepUntil.accesskey "K">
+
+<!ENTITY expire.label "Cookie 過期">
+<!ENTITY close.label "關閉 &brandShortName;">
+<!ENTITY askEachTime.label "每次都詢問我">
+
+<!ENTITY cookieExceptions.label "例外網站…">
+<!ENTITY cookieExceptions.accesskey "E">
+
+<!ENTITY showCookies.label "顯示 Cookies…">
+<!ENTITY showCookies.accesskey "S">
+
+
+<!ENTITY privateData.label "隱私資料">
+
+<!ENTITY alwaysClear.label "結束 &brandShortName; 時清除隱私資料">
+<!ENTITY alwaysClear.accesskey "w">
+
+<!ENTITY askBeforeClear.label "清除隱私資料時詢問我">
+<!ENTITY askBeforeClear.accesskey "A">
+
+<!ENTITY clearDataSettings.label "設定…">
+<!ENTITY clearDataSettings.accesskey "t">
+
+<!ENTITY clearDataNow.label "立刻清除…">
+<!ENTITY clearDataNow.label2 "立刻清除">
+<!ENTITY clearDataNow.accesskey "N">

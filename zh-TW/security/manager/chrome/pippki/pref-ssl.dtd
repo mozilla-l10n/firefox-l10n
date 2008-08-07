@@ -1,0 +1,68 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Bob Lord <lord@netscape.com>
+   -   Terry Hayes <thayes@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY SSLProtocolVersions.caption "SSL 協定版本">
+<!ENTITY SSLWarnings.caption "SSL 警告">
+<!ENTITY SSLClientAuthMethod.caption "客戶端認證方式選擇">
+
+<!ENTITY pref.ssl.title "Secure Sockets Layer (SSL)">
+<!ENTITY enable.ssl3 "使用 SSL v3">
+<!ENTITY enable.ssl3.accesskey "3">
+<!ENTITY enable.tls "使用 TLS">
+<!ENTITY enable.tls.accesskey "T">
+
+<!ENTITY warn.description "&brandShortName; 可以警示你有關正在檢視的網頁的安全性狀態。 設定 &brandShortName; 在下列情形前顯示警告及詢問權限:">
+<!ENTITY warn.enteringsecure "載入支援加密的網頁時">
+<!ENTITY warn.enteringsecure.accesskey "L">
+<!ENTITY warn.enteringweak "載入使用較低等級加密的網頁時">
+<!ENTITY warn.enteringweak.accesskey "o">
+<!ENTITY warn.insecurepost "由未加密網頁傳送資料到未加密網頁時">
+<!ENTITY warn.insecurepost.accesskey "S">
+<!ENTITY warn.leavingsecure "離開加密網頁時">
+<!ENTITY warn.leavingsecure.accesskey "a">
+<!ENTITY warn.secureredirect "由加密的網頁轉向另一個網頁時">
+<!ENTITY warn.secureredirecttoinsecure "由支援加密的網頁轉向未加密的網頁時">
+<!ENTITY warn.viewmixed "檢視加密與未加密資料混合出現的網頁時">
+<!ENTITY warn.viewmixed.accesskey "V">
+
+<!ENTITY certselect.description "決定 &brandShortName; 如何選取安全憑證以代表需要的網站:">
+<!ENTITY certselect.auto "自動選擇">
+<!ENTITY certselect.auto.accesskey "A">
+<!ENTITY certselect.ask "每次都要詢問">
+<!ENTITY certselect.ask.accesskey "E">
+

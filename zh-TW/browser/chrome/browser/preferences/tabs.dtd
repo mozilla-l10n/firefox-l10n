@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label "新頁面要開啟於:">
+<!ENTITY inNewWindow.label "新視窗">
+<!ENTITY inNewWindow.accesskey "w">
+<!ENTITY inNewTab.label "新分頁">
+<!ENTITY inNewTab.accesskey "t">
+
+<!ENTITY warnCloseMultipleTabs.label "關閉多個分頁前發出警告">
+<!ENTITY warnCloseMultipleTabs.accesskey "m">
+
+<!ENTITY warnOpenManyTabs.label "開啟大量分頁使 &brandShortName; 變慢時警告">
+<!ENTITY warnOpenManyTabs.accesskey "o">
+
+<!ENTITY showTabBar.label "總是顯示分頁工具列">
+<!ENTITY showTabBar.accesskey "b">
+
+<!ENTITY switchToNewTabs.label "用新分頁開啟鏈結後自動切換至該分頁">
+<!ENTITY switchToNewTabs.accesskey "s">

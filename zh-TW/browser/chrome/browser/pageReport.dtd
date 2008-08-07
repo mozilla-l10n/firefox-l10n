@@ -1,0 +1,9 @@
+<!ENTITY caption.label "不讓此網站開新彈出 (廣告) 視窗">
+
+<!ENTITY intro.label "禁止下列網頁在未經要求時開啟彈出 (廣告) 視窗:">
+
+<!ENTITY done.label "完成">
+<!ENTITY done.accesskey "D">
+
+<!ENTITY unblock.label "接受此網站">
+<!ENTITY unblock.accesskey "U">

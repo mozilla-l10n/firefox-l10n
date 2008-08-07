@@ -1,0 +1,6 @@
+<!-- Error messages that are likely to be overridden by applications go in this
+     file, all messages that likely don't need to tie into app-specific UI
+     should go into netError.dtd -->
+
+<!ENTITY securityOverride.linkText "或者你也可以新增例外網站…">
+<!ENTITY securityOverride.warningText "<p>若你不想在連線到該伺服器時看到警告訊息，才需要加入該網站到例外網站清單中。但是若你直接與網際網路連線又不是完全信任該網站，你就不應該將該網站加入例外網站。</p> <p>若你還是想要將本網站加到例外網站清單中，你可以於進階加密設定中新增。</p>">

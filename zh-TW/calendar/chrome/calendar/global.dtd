@@ -1,0 +1,137 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY time.midnight "午夜" >
+<!ENTITY time.1 "上午 1:00" >
+<!ENTITY time.2 "上午 2:00" >
+<!ENTITY time.3 "上午 3:00" >
+<!ENTITY time.4 "上午 4:00" >
+<!ENTITY time.5 "上午 5:00" >
+<!ENTITY time.6 "上午 6:00" >
+<!ENTITY time.7 "上午 7:00" >
+<!ENTITY time.8 "上午 8:00" >
+<!ENTITY time.9 "上午 9:00" >
+<!ENTITY time.10 "上午 10:00" >
+<!ENTITY time.11 "上午 11:00" >
+<!ENTITY time.noon "正午" >
+<!ENTITY time.13 "下午 1:00" >
+<!ENTITY time.14 "下午 2:00" >
+<!ENTITY time.15 "下午 3:00" >
+<!ENTITY time.16 "下午 4:00" >
+<!ENTITY time.17 "下午 5:00" >
+<!ENTITY time.18 "下午 6:00" >
+<!ENTITY time.19 "下午 7:00" >
+<!ENTITY time.20 "下午 8:00" >
+<!ENTITY time.21 "下午 9:00" >
+<!ENTITY time.22 "下午 10:00" >
+<!ENTITY time.23 "下午 11:00" >
+
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
+<!ENTITY day.1.Ddd "日" >
+<!ENTITY day.1.Ddd.accesskey "S">
+<!ENTITY day.2.Ddd "一" >
+<!ENTITY day.2.Ddd.accesskey "M">
+<!ENTITY day.3.Ddd "二" >
+<!ENTITY day.3.Ddd.accesskey "T">
+<!ENTITY day.4.Ddd "三" >
+<!ENTITY day.4.Ddd.accesskey "W">
+<!ENTITY day.5.Ddd "四" >
+<!ENTITY day.5.Ddd.accesskey "h">
+<!ENTITY day.6.Ddd "五" >
+<!ENTITY day.6.Ddd.accesskey "F">
+<!ENTITY day.7.Ddd "六" >
+<!ENTITY day.7.Ddd.accesskey "a">
+
+<!ENTITY day.1.DDD "日" >
+<!ENTITY day.2.DDD "一" >
+<!ENTITY day.3.DDD "二" >
+<!ENTITY day.4.DDD "三" >
+<!ENTITY day.5.DDD "四" >
+<!ENTITY day.6.DDD "五" >
+<!ENTITY day.7.DDD "六" >
+
+<!ENTITY day.1.name "星期日" >
+<!ENTITY day.2.name "星期一" >
+<!ENTITY day.3.name "星期二" >
+<!ENTITY day.4.name "星期三" >
+<!ENTITY day.5.name "星期四" >
+<!ENTITY day.6.name "星期五" >
+<!ENTITY day.7.name "星期六" >
+
+<!-- Month Names -->
+<!ENTITY month.1.MMM "一月" >
+<!ENTITY month.2.MMM "二月" >
+<!ENTITY month.3.MMM "三月" >
+<!ENTITY month.4.MMM "四月" >
+<!ENTITY month.5.MMM "五月" >
+<!ENTITY month.6.MMM "六月" >
+<!ENTITY month.7.MMM "七月" >
+<!ENTITY month.8.MMM "八月" >
+<!ENTITY month.9.MMM "九月" >
+<!ENTITY month.10.MMM "十月" >
+<!ENTITY month.11.MMM "十一月" >
+<!ENTITY month.12.MMM "十二月" >
+
+<!-- Units -->
+<!ENTITY calendar.global.units.second   "秒">
+<!ENTITY calendar.global.units.seconds  "秒">
+<!ENTITY calendar.global.units.minute   "分">
+<!ENTITY calendar.global.units.minutes  "分">
+<!ENTITY calendar.global.units.hour     "時">
+<!ENTITY calendar.global.units.hours    "時">
+<!ENTITY calendar.global.units.day      "日">
+<!ENTITY calendar.global.units.days     "日">
+<!ENTITY calendar.global.units.week     "週">
+<!ENTITY calendar.global.units.weeks    "週">
+<!ENTITY calendar.global.units.month    "月">
+<!ENTITY calendar.global.units.months   "月">
+<!ENTITY calendar.global.units.year     "年">
+<!ENTITY calendar.global.units.years    "年">
+
+<!ENTITY month.1.name "一月" >
+<!ENTITY month.2.name "二月" >
+<!ENTITY month.3.name "三月" >
+<!ENTITY month.4.name "四月" >
+<!ENTITY month.5.name "五月" >
+<!ENTITY month.6.name "六月" >
+<!ENTITY month.7.name "七月" >
+<!ENTITY month.8.name "八月" >
+<!ENTITY month.9.name "九月" >
+<!ENTITY month.10.name "十月" >
+<!ENTITY month.11.name "十一月" >
+<!ENTITY month.12.name "十二月" >

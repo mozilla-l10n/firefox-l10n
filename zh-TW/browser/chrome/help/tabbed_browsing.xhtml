@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>分頁瀏覽</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>分頁瀏覽</h1>
+
+<p>分頁瀏覽讓您可以用「分頁(Tab)」在單一 &brandShortName; 
+	視窗內同時顯示多個不同的網頁，
+	還可以把鏈結開啟到新的分頁去背景載入而不影響到您正在閱讀的前景分頁。
+	您也可以不要用分頁，不過這是更好、更方便、更快速的新方法，用過的人都說讚。
+	</p>
+
+<div class="contentsBox">本節內容:
+  <ul>
+    <li><a href="#creating_loading_tabs">建立與載入分頁</a></li>
+    <li><a href="#moving_tabs">改變分頁順序（移動分頁）</a></li>
+    <li><a href="#closing_tabs">關閉分頁</a></li>
+    <li><a href="#customizing">自訂分頁瀏覽</a></li>
+    <li><a href="#tips_tricks">小技巧</a></li>
+  </ul>
+</div>
+
+<h2 id="creating_loading_tabs">建立與載入分頁</h2>
+
+<p>開啟新分頁請按 &accelKey;+<kbd>T</kbd>、或從選單的 <span
+		class="menuPath">檔案 &gt; 新增分頁</span>
+	、或在分頁工具列的空白處用滑鼠連按兩下。</p>
+
+<p>要用分頁開啟鏈結有下列方法:</p>
+
+<ul>
+	<li>在鏈結上按中鍵。（若有滾輪則按滾輪）</li>
+	<li>拖放鏈結到分頁工具列的空白處。
+		（只有一個分頁時工具列會自動隱藏起來，想改變此設定請見
+		<a href="#customizing">自訂分頁瀏覽</a>）</li>
+	<li>拖放鏈結到想用來開啟網頁的分頁。</li>
+	<li>用<span class="noMac">右鍵</span><span class="mac">&ctrlKey;+左鍵</span>
+		點選鏈結並選取 <span class="menuPath">用新分頁開啟鏈結</span>。</li>
+</ul>
+
+<p>想要讓在網址列輸入的網址開在新分頁可按
+  &altKey;+&enterKey; 。</p>
+
+<h2 id="moving_tabs">改變分頁順序（移動分頁）</h2>
+
+<p>分頁的順序是照開啟時間排的，所以您可能會想改變順序、把常用的放前面。
+	移動分頁只要用滑鼠拖放即可，或是用鍵盤（參見<a
+		href="shortcuts.xhtml#windows_tabs">鍵盤操作捷徑</a>）。</p>
+
+<h2 id="closing_tabs">關閉與回復分頁</h2>
+
+<p>關閉目前的分頁請按 &accelKey;+<kbd>W</kbd> 或按分頁列上的關閉鈕，
+	或是選單的 <span class="menuPath">檔案 &gt; 關閉分頁</span>。
+	另外在分頁工具列叫出右鍵選單後還有更多關閉分頁的功能。</p>
+
+<p>&brandShortName; 保留了最近關閉的分頁清單。您可以從
+  <span class="menuPath">歷史 &gt; 最近關閉的分頁</span> 中選擇您想回
+  復的分頁。要想回復全部的分頁請選 <span
+  class="menuPath">歷史 &gt; 最近關閉的分頁 &gt; 開啟所有分頁 </span>。
+  或按 &accelKey;+&shiftKey;+<kbd>T</kbd> 依序復原分頁。</p>
+
+<h2 id="customizing">自訂分頁瀏覽</h2>
+  <p>要改變分頁瀏覽習慣設定請選 &pref.menuPath; 並切至
+    <a href="prefs.xhtml#tabs_options"><strong>分頁</strong></a> 項目 。</p>
+
+<h2 id="tips_tricks">小技巧</h2>
+
+<dl>
+
+  <dt id="bookmarking_tabbed_browsing">書籤與分頁瀏覽</dt>
+  <dd>要把已開啟的許多分頁一次全加進書籤記錄:</dd>
+  <dd>
+    <ol>
+      <li>按 &accelKey;+<kbd>D</kbd> 或  <span
+        class="menuPath">書籤 &gt; 所有分頁加入書籤</span>。</li>
+      <li>開啟時從書籤選單找到您的記錄並選
+        <span class="menuPath">全部同時開啟</span> 或用中鍵開啟。
+		注意已開啟的分頁會被蓋掉。</li>
+    </ol>
+  </dd>
+
+  <dt id="home_page_as_tabs">設定分頁群組為首頁群組</dt>
+  <dd>您可以設定一整組網頁為首頁。
+	  先把分頁都開好後選取 &pref.menuPath; 並切換至 <a
+    href="prefs.xhtml#general_options"><strong>一般</strong></a>，在
+	<strong>首頁</strong> 按下 <strong>使用目前所有分頁</strong>。</dd>
+
+  <dt>增加「新增分頁」按鈕到工具列</dt>
+  <dd>您可以把新增分頁的按鈕加到工具列上以快速建立分頁。 請見<a
+	  href="customization.xhtml#rearranging_toolbar_items">自訂工具列</a>。</dd>
+
+  <dt id="keyboard_shortcuts">鍵盤操作捷徑</dt>
+  <dd>&brandShortName; 有非常多分頁瀏覽用的快捷按鍵，請見
+	  <a href="shortcuts.xhtml#windows_tabs">鍵盤操作捷徑</a>。</dd>
+
+</dl>
+
+<div class="contentsBox"><strong>26 July 2006</strong></div>
+<div>Copyright &copy; 2003-2005 Contributors to the Mozilla Help Viewer Project.
+<br/>Copyright &copy; 2005 Traditional Chinese Translation by Hung-Te Lin.</div>
+
+</body>
+</html>

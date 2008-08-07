@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>&brandFullName; 的輔助功能</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>&brandFullName; 的輔助功能</h1>
+
+  <p>&brandShortName;內建許多輔助功能，可讓所有視力不佳、視覺障礙，或是行動不便的使用者更容易的瀏覽網頁。</p>
+  
+  <div class="contentsBox">本節內容：
+    <ul>
+    <li><a href="#using_a_keyboard">使用鍵盤操作</a></li>
+    <li><a href="#using_a_mouse">使用滑鼠操作</a></li>
+    <li><a href="#fonts_and_colors">字體與色彩</a></li>
+    <li><a href="#controlling_web_content">自訂網頁內容</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">輔助工具相容性</a></li>
+    <li><a href="#finding_help_online">尋找線上說明</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">使用鍵盤操作</h2>
+
+  <h3 id="keyboard_shortcuts">鍵盤操作捷徑</h3>
+   <p>通用快速鍵列表請見 <a href="shortcuts.xhtml">&brandShortName; 快捷鍵</a>。
+    若您已經連到網路，也可以查閱 &brandShortName;、
+    Microsoft Internet Explorer、以及 Opera 瀏覽器的 <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">快捷鍵對照表</a>。</p>
+ 
+  <h3 id="allow_text_to_be_selected_with_the_keyboard">總是使用鍵盤方向鍵瀏覽網頁</h3>
+
+  <p><a href="prefs.xhtml#accessibility">「鍵盤瀏覽功能」</a>可讓您以游標遊走於網頁內容中，就像是在唯讀的記事本中操作一般。
+  您可以使用鍵盤選擇網頁，也能複製到剪貼簿中。要啟用此功能，請選擇 &pref.menuPath; ，開啟<strong>進階</strong>面板中的
+  <strong>一般</strong>分頁，並選取<strong>總是使用鍵盤方向鍵瀏覽網頁</strong> &pref.singular;。</p>
+
+  <p>您也可以隨時按下 <kbd>F7</kbd> 切換此功能。當您按下 <kbd>F7</kbd> 時，&brandShortName; 會詢問
+  您是否要啟用此項功能，選取<strong>不要再顯示此視窗</strong>就可永遠關閉這個提示。</p>
+  
+  <h3 id="begin_finding_when_you_begin_typing">隨打即找</h3>
+  
+  <p><a href="prefs.xhtml#accessibility">隨打即找</a>可讓您快速尋找網頁中的文字或鏈結。這項功能提供兩種模式。
+  按下鍵盤上的 <abbr title="forward slash"><kbd>/</kbd></abbr> 鍵後輸入您想於本頁搜尋的文字，或按鍵盤上的
+  <abbr title="apostrophe"><kbd>'</kbd></abbr> 鍵搜尋本頁中的所有鏈結。&brandShortName; 會立刻將符合的文字
+  或鏈結以高亮度標記。</p>
+
+  <p>下面是本功能其他的快捷鍵：</p>
+
+  <ul>
+   <li>輸入更多字元可進一步縮小您的搜尋結果。&brandShortName; 會以高亮度標記出符合的鏈結或文字，或告訴您
+      找不到符合的內容。</li>
+   <li>按 &accelKey;+<kbd>G</kbd> 或 <kbd>F3</kbd> 可跳到下一個符合的內容。</li>
+   <li>按 &accelKey;+&shiftKey;+<kbd>G</kbd> 或 &shiftKey;+<kbd>F3</kbd> 可回到上一個符合的內容。</li>
+   <li>按 <kbd>Backspace</kbd> 刪除前一個字元，&brandShortName; 也會自動還原位置至前一次找到的文字。</li>
+   <li>按 <kbd>Esc</kbd> 取消搜尋。您也可在其他地方按一下、或稍等一下等搜尋列消失來取消搜尋。</li>
+  </ul>
+  
+  <p>您也可以改變此功能的預設模式，選擇
+    &pref.menuPath;，開啟<strong>進階</strong>面板中的<strong>一般</strong>分頁，再選 <strong>隨打即找</strong> &pref.singular;。
+    如勾選此選項，您就可以隨時輸入要搜尋的文字進行搜尋，預設的動作會搜尋整個頁面的內容。您也可以按
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> 只搜尋鏈結或按 <abbr title="forward slash"><kbd>/</kbd></abbr> 只搜尋文字。</p>
+
+  <p>這也可以找到並捲動到按鈕、文字方塊或其他表單元件的所在位置。只要先搜尋表單元件位置前的字詞，按下 <kbd>Tab</kbd> 即可。
+     再按一次 <kbd>Tab</kbd> 結束搜尋並移到高亮度標記後的下一個欄位或按鈕。</p>
+
+  <h2 id="using_a_mouse">使用滑鼠操作</h2>
+
+  <h3 id="common_mouse_shortcuts">通用滑鼠快捷操作方式</h3>
+
+  <p>請見 <a href="mouse_shortcuts.xhtml">&brandShortName; 滑鼠快捷操作速查</a>。</p>
+
+  <h2 id="fonts_and_colors">字體和色彩</h2>
+
+  <h3 id="overriding_page_fonts">使用自訂字型</h3>
+
+  <p>有些網站使用難以閱讀的字型顯示文字，有些則用瀏覽器的預設字型顯示。您可以從 &pref.menuPath;，
+     選擇<strong>內容</strong>面板後，到<strong>字型與色彩</strong>設定您的預設字型與大小。</p>
+
+  <p>您可以按下<strong>進階</strong>鈕為預設字型設定不同樣式。由於許多網頁會自行指定字型，
+     您的設定有可能會被忽略。要強制使用您自己的字型，請不要勾選<strong>優先使用網頁指定的字型</strong> &pref.singular;。</p>
+
+  <p>註：有些網頁可能無法正確的顯示您設定的字型。</p>
+
+  <h3 id="setting_a_minimum_font_size">設定最小字型大小</h3>
+
+  <p>有些網站的字型設定過小以至無法舒適的閱讀。您可以設定最小字型大小讓這些頁面更容易閱讀。
+  &brandShortName; 會以您設定的最小大小為準顯示。</p>
+  
+
+  <p>要設定最小字型大小，請至 &pref.menuPath;，選取<strong>內容</strong>面板，再按下
+  <strong>字型與色彩</strong>中的<strong>進階</strong>鈕。從下拉選單中設定最小字型大小。</p>
+
+  <p>註：有些網頁可能無法正確的套用您設定的最小字型大小。</p>
+
+  <h3 id="resizing_page_text">縮放網頁文字</h3>
+
+  <p>您可以從 <span class="menuPath">檢視 &gt; 文字大小</span> 中暫時改變網頁的文字大小。
+  即使您瀏覽不同的網站，改變後的大小也會保留直到您關閉瀏覽器或該分頁時。</p>
+
+  <p>下面是其他有關文字大小的快捷鍵：</p>
+
+  <ul>
+    <li>按 &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> 放大文字。範圍從原來大小的
+    120%, 150%, 200%, 300%, 450%, 675%, 1013%, 到 1519% 。</li>
+    <li>按 &accelKey;+<kbd><abbr title="minus">-</abbr></kbd> 縮小文字。範圍從原來的
+    90%, 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2%, 最小到 1%。</li>
+    <li>按 &accelKey;+<kbd>0</kbd> 會回復到原本的文字大小。</li>
+  </ul>
+
+  <p>註：有些網頁可能無法正確的縮放文字。</p>
+
+  <h3 id="overriding_page_colors">自訂頁面色彩</h3>
+
+  <p>有些網站使用難以閱讀的文字或背景色彩顯示，有些則使用瀏覽器的預設色彩。
+   您可以從 &pref.menuPath; ，選擇 <strong>內容</strong> 面板後，並按下
+   <strong>字型與色彩</strong>中的<strong>色彩</strong>按鈕設定預設色彩。
+   您可以設定預設的文字與背景色彩、已拜訪或未拜訪的鏈結色彩，甚至選擇鏈結下方是否要加底線。</p>
+
+  <p>由於許多網頁會自行指定色彩，您的設定有可能會被忽略。要強制使用您自己的色彩設定，
+  請不要勾選<strong>優先使用網頁指定的字型</strong> &pref.singular;。</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">使用高對比佈景主題</h3>
+
+    <p>&brandShortName; 在您使用高對比佈景主題時，也會自動以高對比色彩顯示網頁及介面。
+    這會強制取代瀏覽器或網站的設定，&brandShortName; 的操作介面（選單、視窗、對話視窗等）也會隨之影響。</p>
+
+    <p class="win">要使用高對比度佈景主題，請到 
+    <span class="menuPath">開始功能表 &gt; 控制台 &gt; 協助工具選項 &gt; 顯示</span> ，選擇
+      <strong>使用高對比</strong> &pref.singular;。</p>
+   </div>
+
+  <h2 id="controlling_web_content">自訂網頁內容</h2>
+
+  <h3 id="blocking_popup_windows">阻擋彈出型視窗</h3>
+
+  <p>請見 <a href="popup.xhtml">控制彈出型視窗</a> 了解有關阻擋彈出型視窗的說明。</p>
+
+  <h3 id="turning_off_java_applets">停用 Java Applets</h3>
+
+  <p>有些網頁會用到 Java&trade; applets 提供豐富的互動體驗。但有些只能靠鍵盤瀏覽的
+     使用者卻會因為 Java applets 自動切換焦點卻沒有提供「跳離」該 Applet 的方式
+     而在瀏覽網路時遇到困難。如果這會對您造成困擾，您可以從 &pref.menuPath;，
+     選擇<strong>內容</strong>面板，不要勾選 <strong>可使用 Java</strong> &pref.singular;
+     取消對 Java 的支援。</p>
+
+  <h3 id="restricting_javascript_behavior">限制 JavaScript 行為</h3>
+
+  <p>您可以完全關閉 JavaScript 的支援。從 &pref.menuPath; 中，
+     選擇 <strong>內容</strong>面板，不要勾選<strong>可用 JavaScript </strong>的選項即可。
+     但有些網頁會因為 JavaScript 被關閉而無法正確執行。</p>
+
+  <p>若您不希望完全關閉 JavaScript ，我們提供了一些有關 JavaScript 的設定限制其行為。
+     請按下<strong>可用 JavaScript</strong> 後的<strong>進階</strong>按鈕，打開 <strong>進階 JavaScript 設定</strong>視窗。您可以設定是否允許 scripts 移動或改變視窗的位置或大小、停用或取代右鍵選單、隱藏或改變狀態列的文字等。</p>
+
+  <h2 id="compatibility_with_assistive_technologies">輔助工具相容性</h2>
+
+  <p>關於和第三方輔助工具的相容性，最新的資訊請上 <a target="_blank" href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Compatibility with assistive technologies</a> 網站查詢。</p>
+
+  <h2 id="finding_help_online">尋找線上說明</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific 上有一些 <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">JAWS 使用者的通信論壇</a> 可訂閱。</p>
+
+    <p>GW Micro 上有一些 <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">Windows Eyes 使用者的通信論壇</a> 可供訂閱。</p>
+  </div>
+
+  <p>您<span class="win">也</span>可以到 <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">&brandShortName; 支援論壇</a> 詢問相關問題。</p>
+
+  <div class="contentsBox"><strong>29 Aug 2006</strong></div>
+
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer
+    Project.</p>
+
+</body>
+</html>

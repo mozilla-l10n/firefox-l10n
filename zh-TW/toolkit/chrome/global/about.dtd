@@ -1,0 +1,19 @@
+<!ENTITY about.version "版本">
+
+<!ENTITY about.copy.beforeLink "Copyright &copy; 1998-2008 by">
+<!ENTITY about.copy.linkTitle "contributors">
+<!ENTITY about.copy.afterLink "to the Mozilla Project.">
+
+<!ENTITY about.license.beforeLink "閱讀此程式的">
+<!ENTITY about.license.linkTitle "授權資訊">
+<!ENTITY about.license.afterLink "。">
+
+<!ENTITY about.relnotes.beforeLink "閱讀此程式的">
+<!ENTITY about.relnotes.linkTitle "新鮮事">
+<!ENTITY about.relnotes.afterLink "。">
+
+<!ENTITY about.buildconfig.beforeLink "參見此版本所用的">
+<!ENTITY about.buildconfig.linkTitle "編譯組態">
+<!ENTITY about.buildconfig.afterLink "參數。">
+
+<!ENTITY about.buildIdentifier "編譯識別字: ">

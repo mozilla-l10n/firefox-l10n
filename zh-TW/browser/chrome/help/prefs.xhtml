@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>&brandFullName; 選項</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandFullName; &pref.pluralCaps;</h1>
+<p>這份文件解釋了所有 &brandFullName; &pref.pluralCaps;視窗可調整的 &pref.plural;。</p>
+
+<div class="contentsBox">本節內容:
+  <ul>
+    <li><a href="#general_options">一般&pref.pluralCaps;</a></li>
+    <li><a href="#privacy_options">個人隱私&pref.pluralCaps;</a></li>
+    <li><a href="#content_options">內容&pref.pluralCaps;</a></li>
+    <li><a href="#tabs_options">分頁&pref.pluralCaps;</a></li>
+    <li><a href="#downloads_options">下載&pref.pluralCaps;</a></li>
+    <li><a href="#advanced_options">進階&pref.pluralCaps;</a></li>
+  </ul>
+</div>
+
+<h2 id="general_options">一般&pref.pluralCaps;</h2>
+
+  <h3 id="home_page">首頁</h3>
+
+    <p>這裡可設定做為啟動 &brandShortName; 時或按下首頁按鈕時顯示的網頁或分頁群組。
+      輸入網址即可。</p>
+
+    <p>若按下 <strong>使用目前網頁</strong> 
+       則會把目前正在瀏覽的所有分頁設為首頁，也可以設定 <strong>多個首頁</strong>。
+       當您開啟多個分頁時，此按鈕會將<strong>所有分頁群組</strong>設為首頁。</p>
+
+    <p>若想使用書籤裡記錄的網址，請按<strong>使用書籤...</strong>。
+       若選書籤目錄則會用多個分頁同時載入目錄內所有的網址。</p>
+
+    <p>若您不想載入任何網頁當首頁，請選<strong>使用空白頁</strong>。</p>
+
+  <h3 id="default_browser">預設瀏覽器</h3>
+    <p><strong>啟動時檢查 &brandShortName; 是否為預設瀏覽器</strong><br/>
+      若您希望 &brandShortName; 永遠都是預設瀏覽器可勾選此項。
+      另外也可按<strong>立刻檢查</strong>直接檢查。</p>
+
+  <h3 id="connection_settings">連線設定</h3>
+
+    <p>您的網路環境可能要使用 Proxy 代理伺服器才能正確連線。
+       這方面的設定請洽詢您的系統管理者或網路提供者 (ISP)。
+       Proxy 扮演電腦和網路之間中繼者的角色，他會攔截所有的網路請求並
+       看看能否能從快取中提供資料。Proxy 常用來增加網路速度、過濾資料
+       和隱藏 IP 增加安全性。企業中的防火牆常需要使用 Proxy。</p>
+
+    <h4>連線設定視窗:</h4>
+      <dl>
+        <dt>直接連線到網際網路</dt>
+        <dd>這是預設的&pref.singular;，用於不需設定 Proxy 時。</dd>
+
+        <dt>自動偵測此網路的 Proxy 設定</dt>
+        <dd>若您希望 &brandShortName; 自動偵測 Proxy 設定
+          (要所在網路有支援才行)請選取此項。</dd>
+
+        <dt>手動設定 Proxy</dt>
+        <dd>若沒有自動設定網址 (PAC) 請向系統管理員或網路提供者(ISP)
+          詢問伺服器的主機名稱或 IP 與 Port 的資料後填於此處。</dd>
+
+        <dt>Proxy 自動設定位址(URL):</dt>
+        <dd>若您的所在網路有 Proxy 自動設定檔，請向系統管理員或網路提供者(ISP)
+            取得設定檔網址後填入此處後按<strong>重新載入</strong>。</dd>
+      </dl>
+
+<h2 id="privacy_options">個人隱私&pref.pluralCaps;</h2>
+
+  <p><strong>個人隱私</strong>設定包含了您曾去過哪些網站、看過哪些網頁、密碼等等。
+    各項都有<strong>清除</strong>可用來移除已存的記錄。如果您想刪除所有密碼，
+    選密碼管理員視窗中的<strong>檢視已儲存密碼</strong>然後按<strong>全部移除</strong>鈕。</p>
+
+  <h3 id="clear_private_data">清除隱私資料</h3>
+  <p>&brandShortName; 可用
+    &accelKey;+&shiftKey;+<kbd>Del</kbd> 或選取 
+	<span class="menuPath">工具 &gt; 清除隱私資料...</span>
+    以快速清除您使用 &brandShortName; 所留下的種種記錄。</p>
+
+  <h3 id="privacy_history">瀏覽記錄</h3>
+    <p>這裡可以指定要瀏覽記錄要保留多久。 預設是 9 天。</p>
+
+  <h3 id="privacy_saved_forms">已存表單</h3>
+    <p><strong>儲存我輸入於表單與文字搜尋列的內容</strong><br/>
+      若選取此項則 &brandShortName; 會把您輸入的內容全都記錄
+      並在您填入類似資料時自動給予建議。</p>
+
+  <h3 id="privacy_passwords">密碼</h3>
+    <p><strong>記住密碼</strong><br/>
+      &brandShortName; 可以安全的儲存各項密碼以方便使用網路服務。
+      若不選此項則 &brandShortName; 就不會儲存密碼。</p>
+
+    <p id="set_change_master_password"><strong>設定主控密碼...</strong><br/>
+      &brandShortName; 可以用「主控密碼」來保護其它私密的資料如各網站的帳號密碼與憑證等。
+      建立主控密碼後每次使用 &brandShortName; 且用到被保護的資料時都要先輸入一次主控密碼。
+      </p>
+
+    <p id="remove_master_password"><strong>移除主控密碼...</strong><br/>
+      按下此按鈕以移除主控密碼。
+      這個功能要輸入目前已設的主控密碼才行。</p>
+
+    <p><strong>檢視已存密碼</strong><br/>
+      您可以用<strong>檢視已存密碼</strong>按鈕
+      以管理、刪除已存的各項密碼。</p>
+
+  <h3 id="privacy_download_history">下載記錄</h3>
+    <p>下載管理員 (可由 <span class="menuPath">工具</span>、
+      <span class="noUnix">&accelKey;+<kbd>J</kbd></span><span class="unix">&accelKey;+<kbd>Y</kbd></span>
+      或<strong>檢視下載記錄</strong>按鈕來存取)
+      記錄了目前與過去下載檔案的資料。</p>
+
+    <p><strong>由下載管理員中移除檔案記錄:</strong><br/>
+      選取要清除下載記錄的時機: 是
+	  <strong>成功下載後</strong>、
+      <strong>關閉 &brandShortName; 時</strong>或是
+      <strong>手動</strong>。
+      按下<strong>立刻清除下載記錄</strong>或是下載管理員的
+      <strong>清除</strong>可清除已完成檔案的記錄。</p>
+
+  <h3 id="privacy_cookies">Cookies</h3>
+    <p>Cookie 是網站存於您電腦上的資料，用於儲存您的習慣或其它資訊。</p>
+
+    <p><strong>允許網站設定 Cookie</strong><br/>
+      此項預設是開啟的。
+      若關閉則有些網站可能會無法正常運作。</p>
+
+    <p>若要顯示Cookie 管理員請按<strong>檢視 Cookies</strong>。</p>
+
+    <p>關於 Cookie 的其它說明請見
+      <a href="cookies.xhtml">管理 Cookies</a>。</p>
+
+  <h3 id="privacy_cache">快取</h3>
+    <p>瀏覽的網頁通常會在您的電腦上的特殊目錄 (快取) 中有份複本
+       以加速瀏覽網頁所需的連線與讀取時間。</p>
+
+<h2 id="content_options">內容&pref.pluralCaps;</h2>
+
+  <p><strong>拒絕彈出型(Popup)廣告視窗</strong><br/>
+    &brandShortName; 預設開啟內建擋廣告功能。
+    關閉此項設定等於停用擋廣告。</p>
+
+  <p>有些網站把重要功能如登入做在彈出型視窗裡。
+    這種情形請選<strong>允許的網站</strong>並輸入網站再按<strong>允許</strong>。</p>
+
+  <p>若想由允許的列表內刪除某個網站只要選取它後按<strong>移除網站</strong>即可。
+    清空列表請按<strong>移除全部網站</strong>。</p>
+
+  <p><strong>允許網站安裝軟體</strong><br/>
+    &brandShortName; 預設允許網站安裝擴充套件與佈景主題等各種軟體
+     (不過一定會先要求您確認要安裝) 。</p>
+
+  <p>此項設定開啟時就可以直接安裝佈景主題。 不過由於擴充套件的功能及危險性大得多，
+    安裝時您還要另外指定是否信任該網站 (按<strong>允許的網站</strong>、輸入網址、
+    並按<strong>允許</strong>) 。 </p>
+
+  <p><strong>載入圖片</strong><br/>
+    預設會自動載入網頁所需的圖片。 若不選此項則完全不載入圖片。</p>
+
+  <ul>
+    <li><strong>只允許同網站的圖片(站內鏈結)</strong><br/>
+      此選項會停止跨站的圖片資源 (常見的有廣告或計數器) ，只有同網站的內容才可載入。</li>
+  </ul>
+
+  <p>另外<strong>例外</strong>可用來設定某些特別想<strong>允許</strong>或<strong>拒絕</strong>的網站。</p>
+
+  <p><strong>可使用 Java</strong><br/>
+    Java 是由 Sun Microsystems 公司開發給網頁使用的程式語言。
+    單一個 Java 程式可以在許多不同平台上執行，所以程式設計師就
+    不需要為不同平台編寫個別的版本就能夠運作。
+    若要使用 Java，除了開啟此項外還要裝好 Java Plugin。</p>
+
+  <p><strong>可使用 JavaScript</strong><br/>
+    JavaScript 是常用於網頁的程序式描述語言(Scripting)，
+    但與 Java 不同。 JavaScript 常用於動態顯示的網頁。
+    停用 JavaScript 很可能會讓大多數的網站出問題。</p>
+
+  <h4 id="advanced_javascript">JavaScript 進階設定</h4>
+  <dl>
+    <dt>移動或改變視窗大小</dt>
+    <dd>未選此項時視窗不會忽大忽小或滿桌面亂跑。</dd>
+
+    <dt>改變視窗順序</dt>
+    <dd>未選此項時視窗不會忽然跳出來或跑不見。</dd>
+
+    <dt>停用或取代右鍵選單</dt>
+    <dd>未選此項時右鍵選單永遠都可以直接叫出來，不會被網頁改掉。</dd>
+
+    <dt>隱藏狀態列</dt>
+    <dd>未選此項時狀態列不會忽然消失。</dd>
+
+    <dt>改變狀態列文字</dt>
+    <dd>未選此項時狀態列文字就不會被亂改。</dd>
+  </dl>
+
+  <h3 id="fonts_and_colors">字型與色彩</h3>
+    <p><strong>預設字型</strong> 與 <strong>大小</strong><br/>
+      網頁通常會用這裡指定的字型大小來顯示。</p>
+
+    <p>按下<strong>進階...</strong>按鈕可設定進一步的字型&pref.plural;。</p>
+
+    <h4>進階字型設定視窗:</h4>
+
+      <ol>
+        <li>由<strong>對應此種語言</strong>選取要改變的項目。</li>
+        <li>指定各種字體需求所想用的字型與相關設定。</li>
+      </ol>
+      <p>還有在此也可設定螢幕上字型最小可以到多小。 
+         這可以解決某些網站喜歡設超小字造成不易閱讀的情形。</p>
+
+      <p><strong>允許網頁自行指定字型</strong><br/>
+        &brandShortName; 預設會照網頁指定的字型來顯示，
+        若未選取此項則會忽略所有網頁內的設定而用您指定的預設字型。</p>
+
+      <p><strong>預設字元編碼方式</strong><br/>
+        網頁未指定字元編碼型態時預設使用的字元編碼 (Character Encoding)</p>
+
+    <h4>色彩設定視窗:</h4>
+      <p><strong>文字與背景</strong><br/>
+        設定預設的文字與背景顏色。</p>
+
+      <p><strong>使用系統顏色</strong><br/>
+        若選取此項則會用您的系統預設的色彩取代上面的設定。</p>
+
+      <p><strong>鏈結顏色</strong><br/>
+      改變網頁鏈結的顏色。</p>
+
+      <p><strong>鏈結加底線</strong><br/>
+        網頁鏈結預設會加上底線。</p>
+
+      <p><strong>允許網頁自行指定色彩</strong><br/>
+        &brandShortName; 預設會照網頁指定的色彩來顯示。 
+        若不選取此項則會將所有網頁都用前面設定的色彩來顯示而忽略網頁的指定色彩。</p>
+
+<h2 id="tabs_options">分頁&pref.pluralCaps;</h2>
+  <p><strong>開啟指定要開新視窗的鏈結時使用:</strong><br/>
+     &pref.singular; 可以設定當網頁指定要開新視窗時，要用<strong>新視窗</strong>或<strong>最後顯示的分頁</strong>來開啟網頁。</p>
+
+  <p><strong>註:</strong>如果您選擇開在新分頁，但網頁設計師已指定要以指定大小的新視窗開啟，
+    &brandShortName; 會忽略這個 &pref.singular; 並開啟新視窗。因為某些頁面只能在特定大小上正常運作。</p>
+
+  <p><strong>只有一個分頁時自動隱藏分頁工具列</strong><br/>
+    若 &brandShortName; 視窗內只顯示一個網頁(分頁)，預設不會顯示分頁工具列。</p>
+
+  <p><strong>用分頁開啟鏈結後自動切換至新分頁</strong><br/>
+    在鏈結上按中鍵或 &accelKey;+左鍵 時會用新分頁開啟鏈結，且不會直接顯示該分頁
+     (於背景載入) 。 若想直接切過去 (前景載入) 請選取此項。</p>
+
+  <p><strong>關閉多個分頁時發出警告</strong><br/>
+    若關閉視窗時仍有多個分頁開啟， &brandShortName; 可以提醒您是否真的要全部關閉。</p>
+
+<h2 id="downloads_options">下載&pref.pluralCaps;</h2>
+
+  <p>這些設定可控制 &brandShortName; 如何處理不同類型的檔案如
+     應用程式、壓縮檔、或多媒體影音檔。</p>
+
+  <h3 id="download_folder">下載目錄</h3>
+    <p><strong>每次都問我要存至何處</strong><br/>
+      每次下載檔案時 &brandShortName; 都會讓您個別指定下載後要儲存到哪。</p>
+
+    <p><strong>所有檔案都存入此目錄:</strong><br/>
+      &brandShortName; 預設會設定至桌面以方便您使用下載的檔案。
+      若要設定為別的目錄請按<strong>瀏覽</strong>。</p>
+
+  <h3 id="download_manager">下載管理員</h3>
+    <p><strong>開始下載時自動顯示下載管理員 </strong><br/>
+      若選取此項則開始下載檔案時會自動顯示下載管理員。</p>
+
+    <p><strong>當所有下載完成時關閉下載管理員</strong><br/>
+      選擇要不要在所有檔案下載完成時關閉下載管理員。</p>
+
+    <p><strong>全部下載完成後關閉下載管理員</strong><br/>
+      若選取此項則所有下載都結束時會自動關閉下載管理員。</p>
+
+  <h3 id="download_actions">下載處理方式</h3>
+    <p>選取<strong>檢視與編輯處理方式</strong>可以檢視所有您已設定的檔案類型。
+      點選個別項目可設定您要 &brandShortName; 如何處理此類檔案。</p>
+
+    <ul>
+      <li><strong>用預設程式開啟:</strong><br/>
+        由您的系統設定決定要用什麼開啟此類檔案。</li>
+      <li><strong>用指定的程式開啟:</strong><br/>
+        由指定的程式開啟此類檔案，按瀏覽可選取程式。</li>
+      <li><strong>存入我的電腦:</strong><br/>
+        不自動開啟，改為儲存檔案。如果您有設定<strong>所有檔案都存入此目錄</strong> &pref.singular; 
+        ，檔案會自動儲存到您設定的資料夾。</li>
+      <li><strong>使用此 Plugin:</strong><br/>
+        若是多媒體影音檔通常會設為此項，用對應的 Plugin 來直接顯示與開啟。</li>
+    </ul>
+
+    <p>要移除某種檔案類型的設定只要選取它後按<strong>移除處理方式</strong>即可。</p>
+
+<h2 id="advanced_options">進階&pref.pluralCaps;</h2>
+  <p> 這些設定是一般不需要不建議新手自行設定的項目，
+      但對有經驗的使用者來說可能是非常強大好用的功能。</p>
+
+  <h3 id="advanced_general">一般</h3>
+
+    <h4 id="accessibility">輕鬆使用界面(Accessibility)</h4>
+      <p><strong>可用鍵盤選取文字</strong><br/>
+        又名鍵盤瀏覽(Caret Browsing)，會多顯示一個代表鍵盤的游標，
+        可用方向鍵等一般鍵盤操作移動與選取文字等等。
+        切換此模式的熱鍵是<kbd>F7</kbd>。</p>
+
+      <p><strong>使用隨打即找(Find as you type)</strong><br/>
+        此項設定開啟時只要您一打字瀏覽器就自動進入搜尋文字模式，
+        對於快速查詢大量資料非常有用。 但若您因此無法在表單內打字請先關閉此項。</p>
+
+    <h4 id="browsing">瀏覽</h4>
+      <p><strong>自動縮放圖片以配合瀏覽器視窗大小</strong><br/>
+        選取此項會縮放比螢幕大的圖片，讓它可以完整顯示於您的螢幕上。
+        想回到原始比例只要在圖片上點一下即可。</p>
+
+      <p><strong>使用自動捲動(Autoscrolling)</strong><br/>
+        自動捲動讓您可在壓住滑鼠中鍵時捲動畫面 
+        (若您的滑鼠有滾輪則可由 &pref.singular; 取消)。</p>
+
+      <p><strong>使用平滑捲動(Smooth Scrolling)</strong><br/>
+        平滑捲動在您閱讀一堆超長網頁時很有幫助。
+        通常按下 <kbd>Page Down</kbd> 翻頁時會直接顯示下一頁，
+        開啟此項時有捲頁的動畫效果，讓您可以知道到底捲動了多少行。</p>
+
+    <h4 id="languages">語言</h4>
+
+      <p>有些網頁提供多個語言的版本。
+        <strong>編輯語言...</strong>按鈕可設定您喜歡哪些語言。</p>
+
+      <p><strong>語言設定視窗:</strong><br/>
+		  想新增語言請按<strong>選取要加入的語言...</strong>
+		  並選取要新增的語言後按<strong>新增</strong>。
+		  移除則由列表中選取後按<strong>移除</strong>。</p>
+
+	  <p>要調整語言的偏好選用順序請選取語言後按<strong>上移</strong>與
+		 <strong>下移</strong>按鈕。</p>
+
+  <h3 id="advanced_update">更新</h3>
+    <p>&brandShortName; 可以自動檢查是否有佈景主題、擴充套件、或是 &brandShortName;
+      本身的新版或更新檔可供安裝。</p>
+
+    <p><strong>自動檢查是否有更新:</strong><br/>
+      &brandShortName; 預設會自動檢查主程式本身與所有已裝的佈景主題及擴充套件是否有新版。
+      若不想自動檢查請取消此項。 另外若想手動檢查可按對應的
+      <strong>立刻檢查...</strong> 按鈕。</p>
+
+    <p><strong>找到 &brandShortName; 的更新檔時,</strong></p>
+
+    <dl>
+      <dt>詢問我要怎麼處理</dt>
+      <dd>&brandShortName; 的更新檔預設會自動安裝。
+        選取此項後會改成手動控制安裝。</dd>
+      <dt>自動下載與安裝更新檔</dt>
+      <dd>選取此項後會自動下載更新檔並在下次重新啟動時自動安裝。
+        <strong>先警告我是否會影響到已安裝的套件或佈景主題</strong> 
+        此選項在找到的更新檔會使得已安裝的擴充套件或佈景主題會被停用
+         (因為不相容且尚無對應的新版) 時會先發出警告。</dd>
+      <dd>若所有佈景主題與擴充套件都相容 (或有相容的新版可安裝) 且可正常運作，
+        則會直接安裝更新檔。 在重新啟動 &brandShortName; 
+        後也會同時昇級這些佈景主題與擴充套件讓您可以繼續使用。</dd>
+    </dl>
+
+    <p><strong>顯示更新歷史</strong><br/>
+      &brandShortName; 會自動記錄您安裝過的更新檔。
+      按此可檢視這些更新檔案裝時的訊息。</p>
+
+    <p><strong>註:</strong> 您需要有管理者權限 
+      (<span class="win">Administrator</span><span class="noWin">root</span>)
+      才能安裝更新檔。</p>
+
+  <h3 id="advanced_security">安全</h3>
+    <h4 id="protocols">通訊協定</h4>
+      <p><strong>使用 SSL 2.0</strong><br/>
+        指定使用 SSL2 (Secure Socket Layer Level 2, 標準的安全傳輸協定)
+        做為檔案傳輸加解密的方法。
+        所有的正常安全網站都應該支援這種通訊協定。</p>
+
+      <p><strong>使用 SSL 3.0</strong><br/>
+        指定使用 SSL3 (Secure Socket Layer Level 3, SSL2 的加強版)
+        做為檔案傳輸加解密的方法。
+        但注意可能有網站不支援此種方法。</p>
+
+      <p><strong>使用 TLS 1.0</strong><br/>
+        指定使用 TLS (Transport Layer Security, 類似 SSL3 的一種標準) 
+        做為檔案傳輸加解密的方法。
+        但注意可能有網站不支援此種方法。</p>
+
+    <h4 id="certificates">憑證</h4>
+      <p>憑證有助於與 <a href="glossary.xhtml#secure_site">安全網站</a>
+      間連線的加密與解密。 對於下列專有名詞的深入說明請見
+      <a href="http://grca.nat.gov.tw/">政府機關公開金鑰基礎建設</a> 
+      或 <a href="http://www.pki.org.tw/">亞洲公開金鑰基礎建設論壇</a>。</p>
+
+      <p><strong>當網站需要憑證時:</strong><br/>
+        當網站要求建立安全連線時， &brandShortName; 會自動使用合適的憑證。
+        若想手動選擇憑證請用 &pref.singular; <strong>每次都詢問我</strong>。</p>
+
+      <p><strong>檢視憑證</strong><br/>
+        按此檢視已安裝的憑證、匯入新憑證、備份或刪除舊憑證。</p>
+
+      <p><strong>廢止清冊</strong><br/>
+        &brandShortName; 支援憑證廢止清冊(Certificate Revocation List, CRL)
+        以確定您的憑證是有效的。
+        點選<strong>廢止清冊</strong>按鈕以管理已安裝的廢止清冊。</p>
+
+      <p><strong>驗證</strong><br/>
+        OCSP (線上憑證狀態通訊協定，Online Certificate Status Protocol) 
+        是用來驗證您的憑證是否有效，預設不使用。
+        若想啟用請按此。</p>
+
+      <p><strong>安全裝置</strong><br/>
+        安全裝置可用來加密與解密連線並儲存憑證與密碼。
+        如果您需要使用外接的安全裝置，請點選<strong>安全裝置</strong>。</p>
+
+  <h3 id="advanced_safebrowsing">防詐騙</h3>
+    <p><strong>瀏覽時檢查是否為詐騙網站</strong><br/>
+      若選取此項，&brandShortName; 會檢查正瀏覽的網站是否為偽造網站，試圖誤導您
+      送出個人隱私資料。</p>
+
+    <p><strong>使用本機儲存的清單</strong><br/>
+      選取此選項後，會使用儲存在電腦中的黑名單來與正瀏覽網站比對，不會和其他網站交換資料。
+      但詐騙技術日新月異，這種方式很可能不如與其他網站比對來的有效。</p>
+
+    <p><strong>與網站比對</strong><br/>
+      此選項會將目前網頁的瀏覽資訊以加密方式送到您所選的網站以比對是否為偽造網頁。
+      這種方式最有效，但選用前請仔細閱讀該網站的隱私政策。</p>
+	        
+<div class="contentsBox"><strong>24 May 2006</strong></div>
+<div>Copyright &copy; 2003-2006 Contributors to the Mozilla Help Viewer Project.
+<br/>Copyright &copy; 2005-2006 Traditional Chinese Translation by Hung-Te Lin.</div>
+
+</body>
+</html>

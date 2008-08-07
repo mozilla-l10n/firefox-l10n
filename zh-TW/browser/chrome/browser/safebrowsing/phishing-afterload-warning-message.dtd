@@ -1,0 +1,29 @@
+<!ENTITY safeb.palm.warning.title "可能是偽造網站">
+
+<!ENTITY safeb.palm.message.p1 "此網頁可能是特別設計用來誘騙使用者透露其個人或財務資訊。在此網頁上輸入的任何個人資訊可能會導致身分被盜用或遭受其他詐騙行為。 &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "更多資訊 &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "更多資訊 &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "這些類型的偽造網頁含有常見的詐騙攻擊特徵，可能是罪犯所製作用來模仿你信任的合法來源之詐騙網頁。你可以找到更多有關 ">
+<!ENTITY safeb.palm.message.p2.linkText "&brandShortName; 如何保護你">
+<!ENTITY safeb.palm.message.p2.end "的詳細資訊。">
+
+<!ENTITY safeb.palm.accept.label "帶我離開這裡！">
+<!ENTITY safeb.palm.accept.statustext "瀏覽至我的首頁">
+<!ENTITY safeb.palm.decline.label "忽略此警告">
+<!ENTITY safeb.palm.decline.statustext "關閉警告">
+<!ENTITY safeb.palm.notforgery.label2 "這不是偽造網站…">
+<!ENTITY safeb.palm.report.label "為什麼要封鎖此網站？">
+
+<!ENTITY safeb.urlbaricon.tooltip "這個網頁可能有危險性，按一下以取得詳細資料。">
+
+<!ENTITY safeb.blocked.malware.title "已知的有害網站！">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "這個在 <span id='malware_sitename'/> 的網站已被回報是有害網站，依據你所選擇的安全設定予以阻擋。">
+<!ENTITY safeb.blocked.malware.longDesc "<p>有害網站會嘗試安裝能竊取隱私資訊、利用你的電腦攻擊他人或破壞作業系統等的惡意軟體到你的電腦上。</p><p>某些有害網站會故意安裝有害軟體到電腦上，但更多網站是在連網站擁有者都不知情的情況下，成為有害軟體散佈的溫床。</p>">
+
+<!ENTITY safeb.blocked.phishing.title "已知的偽造網站！">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "這個在 <span id='phishing_sitename'/> 的網站已被回報是偽造網站，依據你所選擇的安全設定予以阻擋。">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>偽造網站是特別設計成你所信任的網站，用來誘騙使用者透露其個人或財務資訊。</p><p>在這個網站輸入的任何資訊都會導致身分被盜用或遭受其他詐騙行為。</p>">
+
