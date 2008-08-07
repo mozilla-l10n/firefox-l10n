@@ -1,0 +1,8 @@
+<!ENTITY history.title "Cronologia aggiornamenti">
+<!ENTITY history.intro "I seguenti aggiornamenti sono stati installati:">
+<!ENTITY closebutton.label "Chiudi">
+<!ENTITY noupdates.label "Nessun aggiornamento installato">
+<!ENTITY name.header "Nome aggiornamento">
+<!ENTITY date.header "Data installazione">
+<!ENTITY type.header "Tipo">
+<!ENTITY state.header "Stato">

@@ -1,0 +1,272 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Sun Microsystems code.
+   -
+   - The Initial Developer of the Original Code is Sun Microsystems.
+   - Portions created by the Initial Developer are Copyright (C) 2006
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Michael Büttner <michael.buettner@sun.com>
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   -   Stefan Sitter <ssitter@gmail.com>
+   -   Iacopo Benesperi
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY event.menu.file.label "File">
+<!ENTITY event.menu.file.accesskey "F">
+<!ENTITY event.menu.file.new.label "Nuovo">
+<!ENTITY event.menu.file.new.accesskey "N">
+<!ENTITY event.menu.file.new.event.label "Evento">
+<!ENTITY event.menu.file.new.event.accesskey "E">
+<!ENTITY event.menu.file.new.message.label "Messaggio">
+<!ENTITY event.menu.file.new.message.accesskey "M">
+<!ENTITY event.menu.file.new.address.label "Scheda rubrica">
+<!ENTITY event.menu.file.new.address.accesskey "h">
+<!ENTITY event.menu.file.close.label "Chiudi">
+<!ENTITY event.menu.file.close.accesskey "C">
+<!ENTITY event.menu.file.save.label "Salva">
+<!ENTITY event.menu.file.save.accesskey "v">
+<!ENTITY event.menu.file.page.setup.label "Imposta pagina">
+<!ENTITY event.menu.file.page.setup.accesskey "I">
+<!ENTITY event.menu.file.print.label "Stampa">
+<!ENTITY event.menu.file.print.accesskey "S">
+<!ENTITY event.menu.file.exit.label "Esci">
+<!ENTITY event.menu.file.exit.accesskey "E">
+<!ENTITY event.menu.edit.label "Modifica">
+<!ENTITY event.menu.edit.accesskey "M">
+<!ENTITY event.menu.edit.undo.label "Annulla">
+<!ENTITY event.menu.edit.undo.accesskey "A">
+<!ENTITY event.menu.edit.redo.label "Ripeti">
+<!ENTITY event.menu.edit.redo.accesskey "R">
+<!ENTITY event.menu.edit.cut.label "Taglia">
+<!ENTITY event.menu.edit.cut.accesskey "T">
+<!ENTITY event.menu.edit.copy.label "Copia">
+<!ENTITY event.menu.edit.copy.accesskey "C">
+<!ENTITY event.menu.edit.paste.label "Incolla">
+<!ENTITY event.menu.edit.paste.accesskey "I">
+<!ENTITY event.menu.edit.select.all.label "Seleziona tutto">
+<!ENTITY event.menu.edit.select.all.accesskey "z">
+<!ENTITY event.menu.view.label "Visualizza">
+<!ENTITY event.menu.view.accesskey "V">
+<!ENTITY event.menu.view.toolbars.label "Barre degli strumenti">
+<!ENTITY event.menu.view.toolbars.accesskey "B">
+<!ENTITY event.menu.view.toolbars.event.label "Barra degli strumenti evento">
+<!ENTITY event.menu.view.toolbars.event.accesskey "a">
+<!ENTITY event.menu.view.toolbars.customize.label "Personalizza…">
+<!ENTITY event.menu.view.toolbars.customize.accesskey "P">
+<!ENTITY event.menu.options.label "Opzioni">
+<!ENTITY event.menu.options.accesskey "O">
+<!ENTITY event.menu.options.attendees.label "Invita partecipanti…">
+<!ENTITY event.menu.options.attendees.accesskey "I">
+<!ENTITY event.menu.options.spellcheck.label "Correzione ortografica...">
+<!ENTITY event.menu.options.spellcheck.accesskey "C">
+<!ENTITY event.menu.options.inline.spellcheck.label "Controllo ortografico durante la digitazione">
+<!ENTITY event.menu.options.inline.spellcheck.accesskey "C">
+<!ENTITY event.menu.options.link.label "Aggiungi collegamento…">
+<!ENTITY event.menu.options.link.accesskey "u">
+<!ENTITY event.menu.options.timezone.label "Fuso orario">
+<!ENTITY event.menu.options.timezone.accesskey "F">
+<!ENTITY event.menu.options.priority.label "Priorità">
+<!ENTITY event.menu.options.priority.accesskey "P">
+<!ENTITY event.menu.options.priority.none.label "Nessuna">
+<!ENTITY event.menu.options.priority.none.accesskey "N">
+<!ENTITY event.menu.options.priority.low.label "Bassa">
+<!ENTITY event.menu.options.priority.low.accesskey "B">
+<!ENTITY event.menu.options.priority.normal.label "Normale">
+<!ENTITY event.menu.options.priority.normal.accesskey "o">
+<!ENTITY event.menu.options.priority.high.label "Alta">
+<!ENTITY event.menu.options.priority.high.accesskey "A">
+<!ENTITY event.menu.options.privacy.label "Privacy">
+<!ENTITY event.menu.options.privacy.accesskey " v">
+<!ENTITY event.menu.options.privacy.public.label "Evento pubblico">
+<!ENTITY event.menu.options.privacy.public.accesskey "u">
+<!ENTITY event.menu.options.privacy.confidential.label "Visualizza solo l'ora e la data">
+<!ENTITY event.menu.options.privacy.confidential.accesskey "V">
+<!ENTITY event.menu.options.privacy.private.label "Evento privato">
+<!ENTITY event.menu.options.privacy.private.accesskey "E">
+<!ENTITY event.menu.options.show.time.label "Visualizza l'ora come">
+<!ENTITY event.menu.options.show.time.accesskey "o">
+<!ENTITY event.menu.options.show.time.busy.label "Occupato">
+<!ENTITY event.menu.options.show.time.busy.accesskey "O">
+<!ENTITY event.menu.options.show.time.free.label "Libero">
+<!ENTITY event.menu.options.show.time.free.accesskey "L">
+<!ENTITY event.help.label "Aiuto">
+<!ENTITY event.help.accesskey "A">
+<!ENTITY event.help.release.notes.label "Note di rilascio">
+<!ENTITY event.help.release.notes.accesskey "N">
+<!ENTITY event.help.help.label "Aiuto per &brandShortName;">
+<!ENTITY event.help.help.accesskey "A">
+<!ENTITY event.help.about.label "Info su &brandShortName;">
+<!ENTITY event.help.about.accesskey "n">
+<!ENTITY event.invite.attendees.label "Invita partecipanti…">
+<!ENTITY event.invite.attendees.accesskey "n">
+<!ENTITY event.email.attendees.label "Scirvi una e-mail a tutti i partecipanti…">
+<!ENTITY event.email.attendees.accesskey "S">
+<!ENTITY event.email.tentative.attendees.label "Scirvi una e-mail ai partecipanti non certi…">
+<!ENTITY event.email.tentative.attendees.accesskey "u">
+<!ENTITY event.toolbar.save.label "Salva ed esci">
+<!ENTITY event.toolbar.attendees.label "Invita partecipanti">
+<!ENTITY event.toolbar.spellcheck.label "Correttore ortografico">
+<!ENTITY event.toolbar.privacy.label "Privacy">
+<!ENTITY event.toolbar.link.label "Aggiungi collegamento">
+<!ENTITY event.title.textbox.label "Titolo:">
+<!ENTITY event.title.textbox.accesskey "T">
+<!ENTITY event.location.label "Luogo:">
+<!ENTITY event.location.accesskey "L">
+<!ENTITY event.categories.label "Categoria:">
+<!ENTITY event.categories.accesskey "o">
+<!ENTITY event.calendar.label "Calendario:">
+<!ENTITY event.calendar.accesskey "C">
+<!ENTITY event.attendees.label "Partecipanti:">
+<!ENTITY event.attendees.accesskey "P">
+<!ENTITY event.alldayevent.label "Eventi di tutto il giorno">
+<!ENTITY event.alldayevent.accesskey "E">
+<!ENTITY event.from.label "Inizio:">
+<!ENTITY event.from.accesskey "I">
+<!ENTITY task.from.label "Inizio:">
+<!ENTITY task.from.accesskey "I">
+<!ENTITY event.to.label "Fine:">
+<!ENTITY event.to.accesskey "F">
+<!ENTITY task.to.label "Data di scadenza:">
+<!ENTITY task.to.accesskey "D">
+<!ENTITY task.status.label "Stato:">
+<!ENTITY task.status.accesskey "S">
+<!ENTITY event.repeat.label "Ripetizione:">
+<!ENTITY event.repeat.accesskey "o">
+<!ENTITY event.reminder.label "Promemoria:">
+<!ENTITY event.reminder.accesskey "P">
+<!ENTITY event.description.label "Descrizione">
+<!ENTITY event.description.accesskey "D">
+<!ENTITY event.link.label "Collegamento:">
+<!ENTITY event.link.accesskey "e">
+<!ENTITY event.link.change.label "Cambia...">
+<!ENTITY event.link.change.accesskey "C">
+<!ENTITY event.private.label "Privato">
+<!ENTITY event.public.label "Pubblico">
+<!ENTITY event.confidential.label "Solo data e ora">
+<!ENTITY event.priority.label "Importanza:">
+<!ENTITY event.reminder.none.label "Nessun promemoria">
+<!ENTITY event.reminder.5minutes.before.label "5 minuti prima">
+<!ENTITY event.reminder.10minutes.before.label "10 minuti prima">
+<!ENTITY event.reminder.15minutes.before.label "15 minuti prima">
+<!ENTITY event.reminder.30minutes.before.label "30 minuti prima">
+<!ENTITY event.reminder.45minutes.before.label "45 minuti prima">
+<!ENTITY event.reminder.1hour.before.label "1 ora prima">
+<!ENTITY event.reminder.2hours.before.label "2 ore prima">
+<!ENTITY event.reminder.5hours.before.label "5 ore prima">
+<!ENTITY event.reminder.15hours.before.label "15 ore prima">
+<!ENTITY event.reminder.1day.before.label "1 giorno prima">
+<!ENTITY event.reminder.2days.before.label "2 giorni prima">
+<!ENTITY event.reminder.1week.before.label "1 settimana prima">
+<!ENTITY event.reminder.custom.label "Personalizzato...">
+<!ENTITY recurrence.title.label "Modifica ricorrenza">
+<!ENTITY event.repeat.does.not.repeat.label "Nessuna ripetizione">
+<!ENTITY event.repeat.daily.label "Giornaliera">
+<!ENTITY event.repeat.weekly.label "Settimanale">
+<!ENTITY event.repeat.every.weekday.label "Ogni giorno della settimana">
+<!ENTITY event.repeat.bi.weekly.label "Bisettimanale">
+<!ENTITY event.repeat.monthly.label "Mensile">
+<!ENTITY event.repeat.yearly.label "Annuale">
+<!ENTITY event.repeat.custom.label "Personalizzato...">
+<!ENTITY event.recurrence.pattern.label "Modello di ricorrenza">
+<!ENTITY event.recurrence.occurs.label "Ripeti">
+<!ENTITY event.recurrence.day.label "giornalmente">
+<!ENTITY event.recurrence.week.label "settimanalmente">
+<!ENTITY event.recurrence.month.label "mensilmente">
+<!ENTITY event.recurrence.year.label "annualmente">
+<!ENTITY event.recurrence.pattern.every.label "Ogni">
+<!ENTITY event.recurrence.pattern.every.weekday.label "Ogni giorno della settimana">
+<!ENTITY event.recurrence.on.label "Di:">
+<!ENTITY event.recurrence.the.label "Il">
+<!ENTITY event.recurrence.repeat.first.label "Primo">
+<!ENTITY event.recurrence.repeat.second.label "Secondo">
+<!ENTITY event.recurrence.repeat.third.label "Terzo">
+<!ENTITY event.recurrence.repeat.fourth.label "Quarto">
+<!ENTITY event.recurrence.repeat.fifth.label "Quinto">
+<!ENTITY event.recurrence.repeat.last.label "Ultimo ">
+<!ENTITY event.recurrence.repeat.dayofmonth.label "Giorno del mese">
+<!ENTITY event.recurrence.repeat.recur.label "Ricorre il giorno(i)">
+<!ENTITY event.recurrence.every.label "Ogni:">
+<!ENTITY event.recurrence.of.label "di">
+<!ENTITY event.recurrence.range.label "Intervallo di ricorrenza">
+<!ENTITY event.recurrence.forever.label "Nessuna data di fine">
+<!ENTITY event.recurrence.repeat.for.label "Crea">
+<!ENTITY event.recurrence.appointments.label "Appuntamento(i)">
+<!ENTITY event.repeat.until.label "Ripeti fino a">
+<!ENTITY event.recurrence.preview.label "Anteprima">
+<!ENTITY month.1.name "Gennaio">
+<!ENTITY month.2.name "Febbraio">
+<!ENTITY month.3.name "Marzo">
+<!ENTITY month.4.name "Aprile">
+<!ENTITY month.5.name "Mag">
+<!ENTITY month.6.name "Giugno">
+<!ENTITY month.7.name "Luglio">
+<!ENTITY month.8.name "Agosto">
+<!ENTITY month.9.name "Settembre">
+<!ENTITY month.10.name "Ottobre">
+<!ENTITY month.11.name "Novembre">
+<!ENTITY month.12.name "Dicembre">
+<!ENTITY reminder.title.label "Promemoria personalizzato">
+<!ENTITY reminder.reminder.label "Promemoria">
+<!ENTITY reminder.due.label "Quando il promemoria scade">
+<!ENTITY reminder.action.alert.label "Visualizza un avvertimeno">
+<!ENTITY reminder.action.sound.label "Esegui un suono">
+<!ENTITY reminder.action.email.label "Invia un'e-mail">
+<!ENTITY reminder.new.label "Nuovo">
+<!ENTITY reminder.delete.label "Elimina">
+<!ENTITY reminder.rename.label "Rinomina">
+<!ENTITY reminder.relation.start.label "l'evento inizia">
+<!ENTITY reminder.relation.end.label "l'evento finisce">
+<!ENTITY invite.title.label "Invita partecipanti">
+<!ENTITY event.organizer.label "Agenda">
+<!ENTITY event.freebusy.suggest.slot "Suggerisci intervallo di tempo:">
+<!ENTITY event.freebusy.next.slot "Posizione successiva">
+<!ENTITY event.freebusy.previous.slot "Posizione precedente">
+<!ENTITY event.freebusy.zoom "Zoom:">
+<!ENTITY event.freebusy.plus "Ora successiva">
+<!ENTITY event.freebusy.minus "Ora precedente">
+<!ENTITY event.freebusy.legend.free "Libero">
+<!ENTITY event.freebusy.legend.busy "Occupato">
+<!ENTITY event.freebusy.legend.unknown "Nessuna informazione">
+<!ENTITY repeat.units.weeks.both "Settimana(e)">
+<!ENTITY repeat.units.months.both "Mese(i)">
+<!ENTITY repeat.units.years.both "Anno(i)">
+<!ENTITY timezone.title.label "Per favore specificare il fuso orario">
+<!ENTITY read.only.general.label "Generale">
+<!ENTITY read.only.title.label "Titolo">
+<!ENTITY read.only.date.label "Data:">
+<!ENTITY read.only.repeat.label "Ripeti:">
+<!ENTITY read.only.location.label "Luogo:">
+<!ENTITY read.only.organizer.label "Organizzatore:">
+<!ENTITY read.only.reply.label "Rispondi:">
+<!ENTITY read.only.accept.label "Parteciperò">
+<!ENTITY read.only.decline.label "Non parteciperò">
+<!ENTITY read.only.needs.action.label "Confermerò più tardi">
+<!ENTITY read.only.reminder.label "Promemoria:">
+<!ENTITY read.only.attendees.label "Partecipanti">
+<!ENTITY read.only.description.label "Descrizione">
+<!ENTITY read.only.documents.label "Documenti">

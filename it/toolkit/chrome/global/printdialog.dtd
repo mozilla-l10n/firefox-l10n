@@ -1,0 +1,20 @@
+<!ENTITY printButton.label "Stampa">
+<!ENTITY printDialog.title "Stampa">
+<!ENTITY fpDialog.title "Salva file">
+<!ENTITY fileCheck.label "Stampa su file">
+<!ENTITY propertiesButton.label "Proprietà…">
+<!ENTITY descText.label "Descrizione stampante:">
+<!ENTITY printer.label "Stampante">
+<!ENTITY printerInput.label "Stampante:">
+<!ENTITY printrangeGroup.label "Intervallo di stampa">
+<!ENTITY allpagesRadio.label "Tutte le pagine">
+<!ENTITY rangeRadio.label "Pagine">
+<!ENTITY frompageInput.label "da">
+<!ENTITY topageInput.label "a">
+<!ENTITY selectionRadio.label "Selezione">
+<!ENTITY copies.label "Copie">
+<!ENTITY numCopies.label "Numero di copie:">
+<!ENTITY printframeGroup.label "Stampa riquadri">
+<!ENTITY aslaidoutRadio.label "Come visualizzati a schermo">
+<!ENTITY selectedframeRadio.label "Il riquadro selezionato">
+<!ENTITY eachframesepRadio.label "Ciascun riquadro separatamente">

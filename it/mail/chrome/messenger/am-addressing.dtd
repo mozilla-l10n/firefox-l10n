@@ -1,0 +1,23 @@
+<!ENTITY addressing.label "Composizione ed indirizzi">
+<!ENTITY addressingGroupTitle.label "Indirizzi">
+<!ENTITY addressingText.label "Quando si cercano indirizzi:">
+<!ENTITY useGlobal.label "Usa le mie preferenze globali per i server LDAP per questo account">
+<!ENTITY useGlobal.accesskey "U">
+<!ENTITY editDirectories.label "Modifica cartelle...">
+<!ENTITY editDirectories.accesskey "M">
+<!ENTITY directories.label "Usa un diverso server LDAP:">
+<!ENTITY directories.accesskey "d">
+<!ENTITY compositionGroupTitle.label "Composizione">
+<!ENTITY useHtml.label "Componi i messaggi in HTML">
+<!ENTITY useHtml.accesskey "C">
+<!ENTITY autoQuote.label "Inserisci automaticamente il messaggio originale nella risposta">
+<!ENTITY autoQuote.accesskey "i">
+<!ENTITY then.label "dopodiché">
+<!ENTITY then.accesskey "o">
+<!ENTITY aboveQuote.label "inizia la risposta sopra il testo a cui si risponde">
+<!ENTITY belowQuote.label "inizia la risposta sotto il testo a cui si risponde">
+<!ENTITY selectAndQuote.label "seleziona il testo a cui rispondi">
+<!ENTITY place.label "e metti la firma">
+<!ENTITY place.accesskey "t">
+<!ENTITY belowText.label "sotto il testo a cui si risponde (raccomandato)">
+<!ENTITY aboveText.label "sotto la risposta (sopra il testo a cui si risponde)">

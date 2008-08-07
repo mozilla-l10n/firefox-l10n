@@ -1,0 +1,25 @@
+<!ENTITY settings.caption "Impostazioni">
+<!ENTITY security.caption "Sicurezza ed autenticazione">
+<!ENTITY serverName.label "Nome server:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "Descrizione:">
+<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverPort.label "Porta:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Utilizza nome utente e password">
+<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY userName.label "Nome utente:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY useSecAuth.label "Usa autenticazione sicura">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY isSecure.label "Utilizza connessione sicura (SSL):">
+<!ENTITY neverSecure.label "No">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, se disponibile">
+<!ENTITY sometimesSTARTTLS.accesskey "n">
+<!ENTITY alwaysSTARTTLS.label "STARTTLS">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY alwaysSMTPOverSSL.label "SMPT-su-SSL">
+<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY smtpEditTitle.label "Server SMTP">
+<!ENTITY serverPortDefault.label "Predefinito:">

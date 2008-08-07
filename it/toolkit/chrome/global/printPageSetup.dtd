@@ -1,0 +1,38 @@
+<!ENTITY printSetup.title "Impostazione pagina">
+<!ENTITY basic.tab "Formato e opzioni">
+<!ENTITY formatGroup.label "Formato">
+<!ENTITY orientation.label "Orientamento:">
+<!ENTITY portrait "Verticale">
+<!ENTITY landscape "Orizzontale">
+<!ENTITY scale.label "Scala:">
+<!ENTITY scalePercent "&#037;">
+<!ENTITY shrinkToFit.label "Adatta alla larghezza del foglio">
+<!ENTITY optionsGroup.label "Opzioni">
+<!ENTITY printBG.label "Stampa lo sfondo (immagini e colori)">
+<!ENTITY advanced.tab "Margini e intestazione/piè di pagina">
+<!ENTITY marginGroup.label "Margini (#1)">
+<!ENTITY marginUnits.inches "pollici">
+<!ENTITY marginUnits.metric "millimetri">
+<!ENTITY marginTop.label "In alto:">
+<!ENTITY marginBottom.label "In basso:">
+<!ENTITY marginLeft.label "A sinistra:">
+<!ENTITY marginRight.label "A destra:">
+<!ENTITY headerFooter.label "Intestazione e piè di pagina">
+<!ENTITY hfLeft.label "A sinistra:">
+<!ENTITY hfCenter.label "Al centro:">
+<!ENTITY hfRight.label "A destra:">
+<!ENTITY headerLeft.tip "Intestazione a sinistra">
+<!ENTITY headerCenter.tip "Intestazione al centro">
+<!ENTITY headerRight.tip "Intestazione a destra">
+<!ENTITY footerLeft.tip "Piè di pagina a sinistra">
+<!ENTITY footerCenter.tip "Piè di pagina al centro">
+<!ENTITY footerRight.tip "Piè di pagina a destra">
+<!ENTITY hfTitle "Titolo">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "Data/ora">
+<!ENTITY hfPage "Pagina #">
+<!ENTITY hfPageAndTotal "Pagina # di #">
+<!ENTITY hfBlank "--vuoto--">
+<!ENTITY hfCustom "Personalizza…">
+<!ENTITY customPrompt.title "Personalizza…">
+<!ENTITY customPrompt.prompt "Inserire un testo per l'intestazione e il piè di pagina">

@@ -1,0 +1,35 @@
+<!ENTITY dialog.title "Opzioni di invio">
+<!ENTITY sendMail.title "Formato testo">
+<!ENTITY sendMaildesc.label "Quando si inviano messaggi in HTML ed uno o più destinatari non sono elencati come in grado di ricevere HTML:">
+<!ENTITY askMe.label "Chiedi cosa fare">
+<!ENTITY askMe.accesskey "c">
+<!ENTITY convertPlain.label "Converti il messaggio in testo semplice">
+<!ENTITY convertPlain.accesskey "c">
+<!ENTITY sendHTML.label "Manda comunque il messaggio in HTML">
+<!ENTITY sendHTML.accesskey "s">
+<!ENTITY sendBoth.label "Invia il messaggio sia in testo semplice sia in HTML">
+<!ENTITY sendBoth.accesskey "e">
+<!ENTITY receiveHTML.label "Se sei a conoscenza che un particolare destinatario può ricevere posta HTML, togli il check dal 'Invia posta come testo semplice (no HTML)'  nella scheda del destinatario nella Rubrica.">
+<!ENTITY override.label "Nota: Usa la Rubrica per specificare il formato testo preferito per ogni singolo destinatario">
+<!ENTITY domaindesc.label "Quando si invia un messaggio ad un indirizzo appartenente ad uno dei domini presenti nel seguente elenco &brandShortName; manda automaticamente il messaggio nel formato corretto.">
+<!ENTITY HTMLTab.label "Domini HTML">
+<!ENTITY HTMLTab.accesskey "h">
+<!ENTITY PlainTextTab.label "Domini testo semplice">
+<!ENTITY PlainTextTab.accesskey "D">
+<!ENTITY AddHtmlDomain.label "Aggiungere...">
+<!ENTITY AddHtmlDomain.accesskey "a">
+<!ENTITY AddPlainText.label "Aggiungere...">
+<!ENTITY AddPlainText.accesskey "g">
+<!ENTITY DeleteHtmlDomain.label "Cancellare">
+<!ENTITY DeleteHtmlDomain.accesskey "l">
+<!ENTITY DeletePlainText.label "Cancellare">
+<!ENTITY DeletePlainText.accesskey "E">
+<!ENTITY add.htmltitle "Aggiungere un dominio HTML:">
+<!ENTITY add.htmldomain "Nome dominio HTML:">
+<!ENTITY add.htmldomain.accesskey "d">
+<!ENTITY add.plaintexttitle "Aggiungi un nome dominio testo semplice:">
+<!ENTITY add.plaintextdomain "Nome dominio testo semplice:">
+<!ENTITY add.plaintext.accesskey "d">
+<!ENTITY domainnameError.title "Nome Dominio Errato">
+<!ENTITY duplicationError.label "Il nome di dominio  @string@ già esiste in questa lista.">
+<!ENTITY dualEntryError.label "Un nome di dominio non può apparire sia nella lista 'testo semplice' sia in quella 'HTML'. Il nome di dominio @string@ è già presente.">

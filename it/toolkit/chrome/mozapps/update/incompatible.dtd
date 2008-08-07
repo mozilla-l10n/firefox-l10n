@@ -1,0 +1,9 @@
+<!ENTITY incompatible.title "Oggetti incompatibili">
+<!ENTITY incompatible.intro "I seguenti componenti non sono compatibili con questo aggiornamento di &brandShortName; e
+                                     verranno disattivati una volta installato:">
+<!ENTITY incompatible.update "&brandShortName; controllerà periodicamente se verranno rese
+                                     disponibili nuove versioni compatibili.">
+<!ENTITY incompatible.suffix "Gli aggiornamenti di &brandShortName; apportano importanti miglioramenti nella sicurezza. È fortemente raccomandato
+                                     aggiornare &brandShortName; anche se alcune estensioni e alcuni temi
+                                     diventeranno incompatibili.">
+<!ENTITY closebutton.label "Chiudi">

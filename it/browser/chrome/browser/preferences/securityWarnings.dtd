@@ -1,0 +1,12 @@
+<!ENTITY securityWarnings.title "Avvisi di sicurezza">
+<!ENTITY security.warn_when "Mostra un avviso di sicurezza quando:">
+<!ENTITY security.warn_entering_secure.label "Si sta per visualizzare una pagina cifrata.">
+<!ENTITY security.warn_entering_secure.accesskey "e">
+<!ENTITY security.warn_entering_weak.label "Si sta per visualizzare una pagina con una cifratura di basso livello.">
+<!ENTITY security.warn_entering_weak.accesskey "r">
+<!ENTITY security.warn_leaving_secure.label "Si abbandona una pagina cifrata per una non cifrata.">
+<!ENTITY security.warn_leaving_secure.accesskey "S">
+<!ENTITY security.warn_submit_insecure.label "Si inviano informazioni non cifrate.">
+<!ENTITY security.warn_submit_insecure.accesskey "n">
+<!ENTITY security.warn_viewing_mixed.label "Si sta per visualizzare una pagina che contiene alcune informazioni non cifrate.">
+<!ENTITY security.warn_viewing_mixed.accesskey "a">

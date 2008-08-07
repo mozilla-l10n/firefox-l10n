@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Guida ai menu di &brandFullName;</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>Guida ai menu di &brandFullName;</h1>
+  <p>Questo documento descrive tutti gli elementi di ogni menu della finestra 
+     principale di &brandFullName;.</p>
+
+  <div class="contentsBox">In questa sezione:
+    <ul>
+      <li class="mac"><a href="#firefox">&brandShortName;</a></li>
+      <li><a href="#file">File</a></li>
+      <li><a href="#edit">Modifica</a></li>
+      <li><a href="#view">Visualizza</a></li>
+      <li><a href="#go">Cronologia</a></li>
+      <li><a href="#bookmarks">Segnalibri</a></li>
+      <li><a href="#tools">Strumenti</a></li>
+      <li class="mac"><a href="#window">Finestra</a></li>
+      <li><a href="#help"><span class="win">?</span><span class="noWin">Guida</span></a></li>
+    </ul>
+  </div>
+
+<div class="mac">
+  <h2 id="firefox">&brandShortName;</h2>
+    <h3 id="about_mac">Informazioni su &brandFullName;</h3>
+    <p>Visualizza una finestra di dialogo con le informazioni relative a &brandShortName;, 
+      la versione corrente ed altre note.</p>
+
+    <h3 id="prefs_mac">Preferenze...</h3>
+    <p>Visualizza la <a href="prefs.xhtml">finestra delle &pref.pluralCaps;</a> in cui 
+      &egrave; possibile cambiare molte delle impostazioni di &brandShortName;.</p>
+
+    <h3 id="quit_mac">Esci da &brandShortName;</h3>
+    <p>Chiude tutte le finestre aperte in &brandShortName;, inclusi tutti i download in corso,
+      ed esce completamente da &brandShortName;. Se si attiva questo comando e vi sono aperte pi&ugrave; 
+	  schede o finestre &brandShortName; chieder&agrave; una conferma
+	  prima di uscire per evitare chiusure accidentali; &egrave; possibile disattivare questo 
+	  messaggio disattivando l'opzione <em>Avvisa quando si chiudono pi&ugrave; schede contemporaneamente</em> 
+	  nel pannello <em>Schede</em> in &pref.menuPath;. &brandShortName; visualizzer&agrave; l'avviso anche se sono 
+	  in corso dei download.</p>
+</div>
+
+<h2 id="file">File</h2>
+
+  <h3 id="new_window">Nuova finestra</h3>
+  <p>Apre una nuova finestra di &brandShortName;.</p>
+
+  <h3 id="new_tab">Nuova scheda</h3>
+  <p>Apre una nuova scheda nella finestra corrente di &brandShortName;.</p>
+
+  <h3 id="open_location">Apri indirizzo...</h3>
+  <p>Sposta il cursore nella Barra degli Indirizzi di &brandShortName; in modo da poter digitare l'indirizzo 
+  che si vuole visitare.</p>
+
+  <h3 id="open_file">Apri file...</h3>
+  <p>Visualizza la finestra di dialogo Apri file in cui &egrave; possibile selezionare 
+  un file dal proprio computer o dalla propria rete. &Egrave; possibile visualizzare diversi 
+  tipi di file direttamente in &brandShortName;, inclusi file HTML/XML, immagini, file di testo ed altri ancora.</p>
+
+  <h3 id="close">Chiudi (finestra)</h3>
+  <p>Chiude la finestra corrente.</p>
+
+  <h3 id="close_tab">Chiudi scheda</h3>
+  <p>Questa voce del menu &egrave; visibile solo se &egrave; presente pi&ugrave; di una scheda aperta. 
+  Questo comando chiude la scheda corrente e attiva la prima scheda sulla destra.</p>
+
+  <h3 id="save_page_as">Salva pagina come...</h3>
+  <p>Salva la pagina visualizzata. &Egrave; possibile salvare tutta 
+  la pagina (completa di grafica), 
+  solo il codice HTML o solo il testo della pagina.</p>
+
+  <h3 id="send_page">Invia link...</h3>
+  <p>Apre la finestra di composizione nuovo messaggio nel programma di posta predefinito e permette di  
+  inviare un messaggio contenente un collegamento alla pagina corrente. Questa funzionalit&agrave; &egrave; 
+  disponibile soltanto in Windows, Mac OS X e OS/2.</p>
+
+  <h3 id="page_setup">Imposta pagina...</h3>
+  <p>Visualizza la finestra di dialogo Imposta pagina in cui &egrave; possibile specificare le opzioni di stampa 
+  come i margini, le intestazioni e i pi&egrave; di pagina, l'orientamento della pagina.</p>
+
+	<div class="noMac">
+    <h3 id="print_preview">Anteprima di stampa</h3>
+    <p>Visualizza un'anteprima di come il documento apparir&agrave; quando sar&agrave; stampato. 
+  		Riflette le opzioni scelte in Imposta pagina e le intenzioni dell'autore 
+  		della pagina.</p>
+  </div>
+
+  <h3 id="print">Stampa...</h3>
+  <p>Visualizza la finestra di stampa in cui &egrave; possibile specificare il numero di copie da stampare, ecc. 
+  Fare clic su <em>OK</em> per stampare la pagina.</p>
+
+  <h3 id="import">Importa...</h3>
+  <p>Apre la finestra dell'Importazione guidata che permette di importare &pref.plural;, segnalibri, 
+  cronologia, password e altri dati da browser come Microsoft Internet Explorer, 
+  Netscape, Mozilla o Opera.</p>
+
+  <h3 id="work_offline">Lavora scollegato</h3>
+  <p>Passa dallo stato in linea a quello scollegato. Lo stato scollegato 
+    permette di visualizzare le pagine visitate
+    in precedenza senza bisogno di essere connessi ad Internet.</p>
+
+<div class="noMac">
+  <h3 id="exit">
+    <span class="win">Esci</span>
+    <span class="noWin">Esci</span>
+  </h3>
+  <p>Chiude tutte le finestre aperte di &brandShortName;, inclusi tutti i download attivi, 
+  ed esce completamente da &brandShortName;. Se si seleziona questa opzione quando si hanno 
+  aperte pi&ugrave; schede o finestre  &brandShortName; chieder&agrave; una 
+  conferma dell'azione per prevenire chiusure accidentali; &egrave; possibile disattivare questo 
+  messaggio disattivando l'opzione <em>Avvisa quando si chiudono pi&ugrave; schede contemporaneamente</em> 
+  nel pannello <em>Schede</em> in &pref.menuPath;. &brandShortName; visualizzer&agrave; l'avviso anche se sono 
+  in corso dei download.</p>
+</div>
+
+<h2 id="edit">Modifica</h2>
+
+  <h3 id="undo">Annulla</h3>
+  <p>Annulla l'ultima azione in un modulo. Se successivamente si decide che non si voleva annullare 
+  l'azione fare clic sul comando Ripeti.</p>
+
+  <h3 id="redo">Ripeti</h3>
+  <p>Ripete l'ultimo comando annullato.</p>
+
+  <h3 id="cut">Taglia</h3>
+  <p>Taglia il testo selezionato da un modulo web e lo salva negli appunti. Incollare il testo ovunque 
+  lo si desideri utilizzando il comando Incolla.</p>
+
+  <h3 id="copy">Copia</h3>
+  <p>Copia il testo selezionato negli appunti. Incollare il testo ovunque lo si 
+  desideri utilizzando il comando Incolla.</p>
+
+  <h3 id="paste">Incolla</h3>
+  <p>Incolla il testo presente negli appunti in un modulo web.</p>
+
+  <h3 id="delete">Elimina</h3>
+  <p>Cancella il testo selezionato da un modulo web.</p>
+
+  <h3 id="select_all">Seleziona tutto</h3>
+  <p>Seleziona tutto il testo di una pagina.</p>
+
+  <h3 id="find_in_this_page">Trova in questa pagina...</h3>
+  <p>Visualizza la barra di ricerca nella parte inferiore della finestra del browser.  
+  Inserire il testo che si vuole cercare nella barra; appena si comincia a 
+  digitare &brandShortName; inizier&agrave; automaticamente a cercare  e 
+  selezionare all'interno della pagina la prima occorrenza del testo inserito. Fare clic su <em>Trova 
+  successivo</em> o <em>Trova precedente</em> per cercare le altre occorrenze del testo; fare clic su <em>Evidenzia</em> per evidenziare 
+  tutte le occorrenze del testo nella pagina attualmente visualizzata.</p>
+
+  <h3 id="find_again">Trova successivo</h3>
+  <p>Cerca il punto successivo nella pagina in cui si trova il testo inserito 
+  precedentemente con <em>Trova in questa pagina....</em>.</p>
+
+  <h3 class="unix" id="prefs">&pref.pluralCaps;</h3>
+  <p class="unix">Visualizza la <a href="prefs.xhtml">finestra &pref.pluralCaps;</a>, dove &egrave; 
+  possibile modificare molte impostazioni di &brandShortName;.</p>
+
+<h2 id="view">Visualizza</h2>
+
+  <h3 id="toolbars">Barre degli strumenti</h3>
+
+    <h4 id="navigation_toolbar">Barra di navigazione</h4>
+    <p>Gestisce la visibilit&agrave; della barra di navigazione che solitamente contiene i 
+	pulsanti standard di navigazione (Indietro, Avanti, Stop, ecc.).</p>
+
+    <h4 id="bookmarks_toolbar">Barra dei segnalibri</h4>
+    <p>Gestisce la visibilit&agrave; della barra dei segnalibri che contiene 
+	i collegamenti a vari siti.</p>
+
+    <h4 id="customize">Personalizza...</h4>
+    <p>Visualizza la finestra per personalizzare le barre attraverso cui &egrave; possibile trascinare 
+	  pulsanti da e verso le barre. In alternativa <span
+      class="noMac">fare clic col tasto destro del mouse</span><span class="mac">fare &ctrlKey;+
+      clic</span> sulla Barra di navigazione e selezionare <em>Personalizza...</em> 
+	  per aprire la finestra di dialogo.</p>
+
+  <h3 id="status_bar">Barra di stato</h3>
+  <p>Gestisce la visibilit&agrave; della barra di stato, situata nella parte bassa della finestra. 
+  La Barra di stato visualizza informazioni utili sulla pagina visualizzata 
+  ma potrebbe non essere indispensabile a tutti gli utenti.</p>
+
+  <h3 id="sidebar">Barra laterale</h3>
+  <p>La barra laterale permette di visualizzare  i segnalibri o la cronologia. &Egrave; sempre possibile 
+  chiudere la barra laterale facendo clic sulla X nell'angolo in 
+  alto a destra.</p>
+
+    <h4 id="bookmarks_Sidebar">Segnalibri</h4>
+    <p>Visualizza i segnalibri nella barra laterale permettendo di mantenere visibili i propri segnalibri  
+	   durante la navigazione. Questo pu&ograve; rivelarsi utile se si usano spesso i segnalibri.</p>
+
+    <h4 id="histoy">Cronologia</h4>
+    <p>Visualizza la cronologia nella barra laterale permettendo di tenere traccia dei siti visitati. Per modificare 
+	   il numero di giorni per cui un sito deve essere ricordato, selezionare &pref.menuPath; ed 
+	   attivare il pannello <em>Privacy</em>.</p>
+
+  <h3 id="stop">Stop</h3>
+  <p>Interrompe il caricamento della pagina corrente. Equivale a fare clic sul 
+  pulsante <em>Stop</em> nella Barra di navigazione.</p>
+
+  <h3 id="reload">Ricarica</h3>
+  <p>Usare questo comando per ricaricare la pagina corrente o scaricare una versione aggiornata della pagina. 
+	&Egrave; l'equivalente del pulsante <em>Ricarica</em> nella barra di navigazione.</p>
+
+  <h3 id="text_size">Dimensione testo</h3>
+  <p>Se il testo all'interno di una pagina &egrave; troppo piccolo o troppo grande, &egrave; 
+  possibile visualizzarlo con una dimensione pi&ugrave; adatta.</p>
+
+    <h4 id="increase_text_size">Aumenta</h4>
+    <p>Visualizza il testo della pagina con una dimensione aumentata di un'unit&agrave;. &Egrave; 
+	anche possibile modificare la dimensione del testo usando il mouse (consultare la pagina <a href="mouse_shortcuts.xhtml">scorciatoie da mouse</a> 
+      per ulteriori informazioni).</p>
+
+    <h4 id="decrease_text_size">Diminuisci</h4>
+    <p>Visualizza il testo della pagina con una dimensione ridotta di un'unit&agrave;. &Egrave; anche 
+	possibile modificare la dimensione del testo usando il mouse (consultare la pagina <a href="mouse_shortcuts.xhtml">scorciatoie da mouse</a> 
+      per ulteriori informazioni).</p>
+
+    <h4 id="reset_text_size">Normale</h4>
+    <p>Visualizza il testo della pagina con la dimensione normale.</p>
+
+  <h3 id="page_style">Stile pagina</h3>
+  <p>Permette di selezionare uno stile per la pagina corrente. Come impostazione predefinita 
+    &egrave; selezionato &quot;Stile di pagina base&quot;, a meno che l'autore abbia indicato
+    uno stile diverso.</p>
+
+    <h4 id="no_style">Nessuno stile</h4>
+    <p>Rimuove gli stili di formattazione dalla pagina.</p>
+
+    <h4 id="basic_page_style">Stile di pagina base</h4>
+    <p>Visualizza la pagina con lo stile generico stabilito dall'autore.</p>
+
+    <h4 id="alternate_style"></h4>
+    <p>Se l'autore ha specificato stili aggiuntivi per la pagina &brandShortName;
+     visualizzer&agrave; un elenco degli stili selezionabili.</p>
+
+  <h3 id="character_encoding">Codifica caratteri</h3>
+  <p>Permette di modificare manualmente la codifica caratteri di una pagina web. 
+  &brandShortName; come impostazioni predefinita seleziona automaticamente la codifica corretta.</p>
+
+  <h3 id="page_source">Sorgente pagina</h3>
+  <p>Visualizza il codice sorgente del documento corrente. <!--Nelle prossime versioni
+  &brandShortName; sar&agrave; in grado di aprire un programma esterno per 
+  visualizzare il codice sorgente.--></p>
+
+  <div class="noMac">
+   <h3 id="full_screen">A tutto schermo</h3>
+   <p>Visualizza la finestra a tutto schermo. Se la Barra di navigazione &egrave; nascosta  
+    sar&agrave; comunque possibile ripristinare la finestra in ogni momento premendo 
+    <kbd>F11</kbd>.</p>
+  </div>  
+
+<h2 id="go">Cronologia</h2>
+
+  <p>Il menu Cronologia contiene una lista dei siti web visitati di recente e delle ultime 
+	schede chiuse.</p>
+
+  <h3 id="back">Indietro</h3>
+  <p>Si sposta all'indietro nella cronologia. Equivale a fare clic 
+  sul pulsante <em>Indietro</em> nella Barra di navigazione.</p>
+
+  <h3 id="foward">Avanti</h3>
+  <p>Si sposta in avanti nella cronologia. Equivale a fare clic 
+  sul pulsante <em>Avanti</em> nella Barra di navigazione.</p>
+
+  <h3 id="home">Pagina iniziale</h3>
+  <p>Visualizza la pagina iniziale. Equivale a fare
+  clic sul pulsante <em>Pagina iniziale </em> nella Barra di navigazione. 
+  Per cambiare la pagina iniziale selezionare &pref.menuPath; ed attivare il pannello 
+  <em>Principale</em>. &Egrave; possibile specificare una pagina bianca, la pagina corrente 
+  (o un gruppo di schede), un segnalibro o un indirizzo inserito manualmente.</p>
+
+  <h3 id="closed_tabs">Schede chiuse di recente</h3>                                
+  <p>Permette di ripristinare nella finestra corrente una delle ultime schede chiuse selezionandola dall'elenco. 
+	Per ulteriori informazioni leggere la sezione <a href="tabbed_browsing.xhtml#closing_tabs">Chiudere e ripristinare le schede</a>.</p>
+
+  <h3 id="go_history">Mostra nella barra laterale</h3>
+  <p>Visualizza nella barra laterale la Cronologia con l'elenco dei siti visitati.
+	Per impostare il numero di giorni per cui un sito deve essere mantenuto nella cronologia selezionare  
+    &pref.menuPath; e accedere al pannello <em>Privacy</em>.</p>
+
+<h2 id="bookmarks">Segnalibri</h2>
+
+  <p>Questo menu contiene i segnalibri salvati.</p>
+
+  <h3 id="add_to_bookmarks">Aggiungi pagina nei segnalibri...</h3>
+  <p>Aggiunge la pagina corrente ai segnalibri. Verr&agrave; visualizzata una finestra 
+  che permetter&agrave; di scegliere un titolo per il segnalibro e 
+  specificare dove si vuole salvarlo.</p>
+  
+  <h3 id="subscribe">Abbonati a questa pagina...</h3>     
+  <p>Visualizza un'anteprima del <a href="glossary.xhtml#feed">feed</a> messo a disposizione 
+	dal sito corrente. Dalla pagina di anteprima &egrave; possibile abbonarsi al feed usando 
+	un <a href="glossary.xhtml#live_bookmark">segnalibro live</a>, un lettore di feed presente 
+	sul proprio computer oppure un servizio on-line. La pagina di anteprima non verr&agrave; visualizzata se
+	nel pannello <em>Feed</em> in &pref.menuPath; si &egrave; scelto di abbonarsi utilizzando un 
+	lettore di feed oppure un segnalibro live.</p>
+
+  <h3 id="bookmark_all_tabs">Tutte le schede nei segnalibri...</h3>                          
+  <p>Aggiunge tutte le schede della finestra corrente in una nuova cartella di segnalibri. Verr&agrave; visualizzata
+    una finestra di dialogo in cui &egrave; possibile specificare il nome da assegnare alla cartella e la 
+    posizione in cui crearla.</p>                                         
+
+  <h3 id="organize_bookmarks">Gestione segnalibri...</h3>
+  <p>Visualizza la Gestione segnalibri, una finestra dove &egrave; possibile 
+  modificare i propri segnalibri. &Egrave; possibile riordinare, rinominare e 
+  cambiare le propriet&agrave; dei segnalibri, cos&igrave; come aggiungerne di nuovi, rimuoverli o spostarli.</p>
+
+<h2 id="tools">Strumenti</h2>
+
+  <h3 id="web_search">Cerca sul web</h3>
+  <p>Attiva la Barra di ricerca. In questo modo &egrave; possibile 
+  digitare i termini che si vogliono cercare sul web.</p>
+
+  <h3 id="downloads">Download</h3>
+  <p>Apre la Gestione download in cui &egrave; possibile visualizzare i 
+  download correnti e completati.</p>
+
+  <h3 id="add_ons">Componenti aggiuntivi</h3>   
+  <p>Apre la gestione componenti aggiuntivi in cui &egrave; possibile visualizzare, installare, 
+	 configurare, aggiornare e disinstallare estensioni e temi. Per ulteriori informazioni 
+	 consultare l'argomento <a href="customization.xhtml#add_ons">Componenti aggiuntivi</a> della guida.</p>
+
+   <h3 id="javascript_console">Console degli errori</h3>
+  <p>La console degli errori &egrave; utile per effettuare il debug delle pagine web o tenere traccia dei problemi nel codice JavaScript.
+  JavaScript &egrave; un linguaggio di scripting usato comunemente per costruire pagine web; i programmatori usano JavaScript per rendere le pagine 
+  interattive; JavaScript &egrave; spesso usato per controllare dinamicamente 
+  moduli e pulsanti di selezione. </p>
+
+  <h3 id="page_info">Informazioni sulla pagina</h3>
+  <p>La finestra informazioni sulla pagina visualizza informazioni dettagliate 
+  sulla pagina web corrente, come il tipo di documento, la codifica, la dimensione, 
+  la sicurezza. La finestra visualizza anche un elenco degli elementi multimediali e dei collegamenti usati nella pagina.</p>
+
+  <h3 id="sanitize">Elimina i dati personali...</h3>
+  <p>Elimina tutti gli elementi che sono selezionati nella finestra Elimina dati personali all'interno del 
+    pannello Privacy in &pref.menuPath;. Come impostazione predefinita verr&agrave; visualizzata una finestra di conferma.
+  </p>
+
+  <h3 class="win" id="options">&pref.pluralCaps;</h3>
+  <p class="win">Visualizza la <a href="prefs.xhtml">finestra &pref.pluralCaps;</a> in 
+  cui &egrave; possibile cambiare molte impostazioni di &brandShortName;.</p>
+
+<div class="mac">
+  <h2 id="window">Finestra</h2>
+
+    <h3 id="minimize">Contrai</h3>
+    <p>Contrae la finestra corrente.</p>
+
+    <h3 id="zoom">Zoom</h3>
+    <p>Allarga o ripristina la finestra corrente.</p>
+
+    <h3 id="open-windows">(apri finestre)</h3>
+    <p>Visualizza un elenco delle finestre aperte con il titolo della pagina visualizzata.</p>
+</div>
+
+<h2 id="help"><span class="win">?</span><span class="noWin">Guida</span></h2>
+
+  <h3 id="help_contents">
+   <span class="noMac">Contenuti guida</span>
+   <span class="mac">Guida di &brandShortName;</span> 
+  </h3>
+  <p>Apre la finestra della Guida di &brandShortName;, che contiene  
+  informazioni utili per la navigazione sul web.</p>
+
+  <div class="win">
+    <h3 id="for_ie_users">Per gli utenti di Internet Explorer</h3>
+    <p>Apre la finestra della Guida visualizzando le informazioni che possono aiutare 
+  		gli utenti di Internet Explorer nel passaggio a &brandShortName;.</p>
+  </div>
+ 
+  <h3 id="relnotes">Note di versione</h3>
+  <p>Fornisce informazioni sull'installazione, disinstallazione e configurazione di 
+    &brandShortName;, insieme ad altre importanti note e notizie dell'ultima ora.
+    Richiede una connessione attiva ad Internet.</p>
+
+  <h3 id="reporter">Sito non funzionante...</h3>
+  <p>Permette di segnalare agli sviluppatori di &brandShortName; un sito web che non funziona correttamente con 
+    &brandShortName;.</p>
+
+  <h3 id="web_forgery">Segnala una contraffazione web...</h3> 
+  <p>Permette di segnalare siti che rappresentano un tentativo di contraffazione o "phishing".
+	 La protezione anti-phishing di &brandShortName; utilizza un servizio offerto da Google: le informazioni raccolte  
+	 sono inviate a Google e verranno utilizzate per migliorare questa funzionalit&agrave;. 
+	 La segnalazione rimarr&agrave; anonima in accordo con le politiche di gestione dei dati personali di Google. 
+	 Il servizio richiede una connessione ad Internet attiva.</p>
+
+  <h3 id="check_for_updates">Controlla l'esistenza di aggiornamenti</h3>
+  <p>Visualizza una finestra di dialogo per la ricerca di aggiornamenti di &brandShortName;; se sono 
+	disponibili aggiornamenti verr&agrave; visualizzato un elenco in
+	cui sar&agrave; possibile selezionare gli aggiornamenti che si desidera installare.
+	Nota: questa voce di menu cambier&agrave; nel caso in cui sia in corso il download di un 
+	aggiornamento o l'aggiornamento sia disponibile per l'installazione.</p> 
+
+  <div class="noMac">
+  	<h3 id="about_mozilla_firebird">Informazioni su &brandFullName;</h3>
+  	<p>Visualizza una finestra con le informazioni su &brandShortName;,  
+  	la versione corrente ed altre note.</p>
+	</div>
+<div class="contentsBox"><em>12 Settembre 2006</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

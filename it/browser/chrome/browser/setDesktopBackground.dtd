@@ -1,0 +1,9 @@
+<!ENTITY position.label "Posizione:">
+<!ENTITY tile.label "Affiancata">
+<!ENTITY center.label "Centrata">
+<!ENTITY stretch.label "Estesa">
+<!ENTITY preview.label "Anteprima">
+<!ENTITY color.label "Colore:">
+<!ENTITY setDesktopBackground.title "Imposta sfondo del desktop">
+<!ENTITY openDesktopPrefs.label "Preferenze Open Desktop">
+<!ENTITY closeWindow.key "w">

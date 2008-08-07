@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label "Generali">
+<!ENTITY itemUpdate.label "Aggiornamenti">
+<!ENTITY itemNetworking.label "Rete e spazio su disco">
+<!ENTITY itemCertificates.label "Certificati">
+<!ENTITY showCondensedAddresses.label 'Mostra solo il "nome visualizzato" per le persone inserite nella Rubrica.'>
+<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY markAsRead.label "Attendi">
+<!ENTITY markAsRead.accesskey "n">
+<!ENTITY markAsReadEnd.label "secondi prima di marcare un messaggio 'letto'">
+<!ENTITY showFolderColumns.label "Mostra le colonne espanse nel riquadro delle cartelle.">
+<!ENTITY showFolderColumns.accesskey "l">
+<!ENTITY rememberLastMsg.label "Ricorda l'ultimo messaggio selezionato">
+<!ENTITY rememberLastMsg.accesskey "c">
+<!ENTITY openMsgIn.label "Apri messaggio in:">
+<!ENTITY reuseExpRadio0.label "in una nuova finestra">
+<!ENTITY reuseExpRadio0.accesskey "v">
+<!ENTITY reuseExpRadio1.label "sempre nella stessa finestra">
+<!ENTITY reuseExpRadio1.accesskey "s">
+<!ENTITY reuseExpRadio2.label "in una nuova scheda">
+<!ENTITY reuseExpRadio2.accesskey "i">
+<!ENTITY connectionTimeout.label "Timeout connessione:">
+<!ENTITY connectionTimeout.accesskey "C">
+<!ENTITY connectionSeconds.label "secondi">
+<!ENTITY configEditDesc.label "Impostazioni avanzate">
+<!ENTITY configEdit.label "Editor di configurazione...">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "Determina come &brandShortName; si comporta con le ricevute di ritorno">
+<!ENTITY showReturnReceipts.label "Ricevute di ritorno...">
+<!ENTITY showReturnReceipts.accesskey "R">
+<!ENTITY autoCheck.label "Controlla automaticamente gli aggiornamenti di:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "Componenti aggiuntivi installati">
+<!ENTITY enableAddonsUpdate.accesskey "t">
+<!ENTITY checkNow.label "Controlla ora...">
+<!ENTITY whenUpdatesFound.label "Quando si trovano aggiornamenti di &brandShortName;,">
+<!ENTITY modeAskMe.label "Chiedi cosa fare">
+<!ENTITY modeAskMe.accesskey "e">
+<!ENTITY modeAutomatic.label "Scarica ed installa automaticamente l'aggiornamento">
+<!ENTITY modeAutomatic.accesskey "m">
+<!ENTITY modeAutoAddonWarn.label "Avvisa se ciò disabiliterà qualche componente aggiuntivo">
+<!ENTITY modeAutoAddonWarn.accesskey "ò">
+<!ENTITY showUpdates.label "Mostra cronologia aggiornamenti">
+<!ENTITY showUpdates.accesskey "o">
+<!ENTITY showConnections.label "Connessione...">
+<!ENTITY showConnections.accesskey "n">
+<!ENTITY proxiesInfo.label "Stabilire come &brandShortName; si connette ad internet.">
+<!ENTITY connectionsInfo.caption "Connessione">
+<!ENTITY offlineInfo.caption "Non in linea">
+<!ENTITY offlineInfo.label "Configurare le impostazioni 'non in linea'">
+<!ENTITY showOffline.label "Non in linea...">
+<!ENTITY showOffline.accesskey "O">
+<!ENTITY Diskspace "Spazio su disco">
+<!ENTITY offlineCompact.label "Compatta le cartelle solo se si guadagnano più di ">
+<!ENTITY offlineCompact.accesskey "a">
+<!ENTITY kb.label "KB">
+<!ENTITY certificatesInfo2.label "Gestire certificati, liste di revoca, validazione certificati e dispositivi di sicurezza.">
+<!ENTITY viewCertificates.label "Mostra certificati">
+<!ENTITY viewCertificates.accesskey "s">
+<!ENTITY viewCRLs.label "Liste di revoca">
+<!ENTITY viewCRLs.accesskey "L">
+<!ENTITY validation.label "Validazione">
+<!ENTITY validation.accesskey "d">
+<!ENTITY viewSecurityDevices.label "Dispositivi di sicurezza">
+<!ENTITY viewSecurityDevices.accesskey "z">

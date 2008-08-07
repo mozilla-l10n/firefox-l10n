@@ -1,0 +1,4 @@
+<!ENTITY startDescription.label "Un sito web ha cercato di aprire una finestra senza permesso. &brandShortName; ha chiuso automaticamente la finestra. Ogni volta che verrà chiusa una finestra di questo tipo, apparirà l'icona apposita nella barra di stato.">
+<!ENTITY endDescription.label "È possibile fare clic su questa icona per visualizzare i siti bloccati da &brandShortName; e abilitare quelli che necessitano di aprire finestre per funzionare correttamente.">
+<!ENTITY caption.label "Informazioni sul blocco finestre pop-up">
+<!ENTITY done.label "Fatto">

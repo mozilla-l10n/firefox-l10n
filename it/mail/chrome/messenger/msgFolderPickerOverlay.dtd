@@ -1,0 +1,12 @@
+<!--null-->
+<!ENTITY subscribechoosethis.label "scegliere questo server di discussione">
+<!ENTITY subscribeclickhere.label "fare clic qui per scegliere un server di discussione">
+<!ENTITY newfolderchoosethis.label "scegliere questa come principale">
+<!ENTITY newfolderclickhere.label "fare clic qui per selezionare">
+<!ENTITY renamefolderchoosethis.label "scegli questa cartella">
+<!ENTITY renamefolderclickhere.label "fare clic qui per scegliere una cartella">
+<!ENTITY filemessageschoosethis.label "scegli questa cartella">
+<!ENTITY filemessagesclickhere.label "fare clic qui per scegliere una cartella">
+<!ENTITY chooseaccountclickhere.label "Fare clic qui per selezionare un account">
+<!ENTITY choosefolderclickhere.label "Fare clic qui per selezionare una cartella">
+<!ENTITY chooseserverToDeferTo.label "fare clic qua per scegliere un account nel quale memorizzare i messaggi">

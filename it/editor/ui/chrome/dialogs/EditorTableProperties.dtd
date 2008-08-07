@@ -1,0 +1,112 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY tableWindow.title "Proprietà tabella">
+<!ENTITY applyButton.label "Applica">
+<!ENTITY applyButton.accesskey "A">
+<!ENTITY closeButton.label "Chiudi">
+<!ENTITY tableTab.label "Tabella">
+<!ENTITY cellTab.label "Celle">
+<!ENTITY tableRows.label "Righe:">
+<!ENTITY tableRows.accessKey "R">
+<!ENTITY tableColumns.label "Colonne:">
+<!ENTITY tableColumns.accessKey "C">
+<!ENTITY tableHeight.label "Altezza:">
+<!ENTITY tableHeight.accessKey "z">
+<!ENTITY tableWidth.label "Larghezza:">
+<!ENTITY tableWidth.accessKey "L">
+<!ENTITY tableBorderSpacing.label "Bordi e spaziatura">
+<!ENTITY tableBorderWidth.label "Larghezza bordo:">
+<!ENTITY tableBorderWidth.accessKey "b">
+<!ENTITY tableSpacing.label "Spaziatura:">
+<!ENTITY tableSpacing.accessKey "S">
+<!ENTITY tablePadding.label "Margini:">
+<!ENTITY tablePadding.accessKey "M">
+<!ENTITY tablePxBetwCells.label "pixel tra le celle">
+<!ENTITY tablePxBetwBrdrCellContent.label "pixel tra i bordi e i contenuti della cella">
+<!ENTITY tableAlignment.label "Allineamento tabella:">
+<!ENTITY tableAlignment.accessKey "n">
+<!ENTITY tableCaption.label "Legenda:">
+<!ENTITY tableCaption.accessKey "e">
+<!ENTITY tableCaptionAbove.label "Sopra la tabella">
+<!ENTITY tableCaptionBelow.label "Sotto la tabella">
+<!ENTITY tableCaptionLeft.label "Prima della tabella">
+<!ENTITY tableCaptionRight.label "Dopo della tabella">
+<!ENTITY tableCaptionNone.label "Nessuna">
+<!ENTITY tableInheritColor.label "(Colore della pagina visibile in trasparenza)">
+<!ENTITY cellPercent.label "percentuale tabella">
+<!ENTITY cellSelection.label "Selezione">
+<!ENTITY cellSelectCell.label "Cella">
+<!ENTITY cellSelectRow.label "Riga">
+<!ENTITY cellSelectColumn.label "Colonna">
+<!ENTITY cellSelectNext.label "Successiva">
+<!ENTITY cellSelectNext.accessKey "S">
+<!ENTITY cellSelectPrevious.label "Precedente">
+<!ENTITY cellSelectPrevious.accessKey "P">
+<!ENTITY cellApplyBeforeMove.label "Applica le modifiche prima cambiare selezione">
+<!ENTITY cellKeepCurrentData.label "Mantiene impostazioni correnti">
+<!ENTITY applyBeforeChange1.label "Saranno applicati i cambiamenti correnti">
+<!ENTITY applyBeforeChange2.label "prima di cambiare la selezione.">
+<!ENTITY cellRowSpan.label "Spazio tra righe:">
+<!ENTITY cellColSpan.label "Spazio tra colonne:">
+<!ENTITY cellContentAlignment.label "Allineamento contenuto">
+<!ENTITY cellHorizontal.label "Orizzontale:">
+<!ENTITY cellHorizontal.accessKey "O">
+<!ENTITY cellVertical.label "Verticale:">
+<!ENTITY cellVertical.accessKey "e">
+<!ENTITY cellStyle.label "Stile cella:">
+<!ENTITY cellStyle.accessKey "t">
+<!ENTITY cellNormal.label "Normale">
+<!ENTITY cellHeader.label "Intestazione">
+<!ENTITY cellTextWrap.label "A capo testo:">
+<!ENTITY cellTextWrap.accessKey "c">
+<!ENTITY cellWrap.label "Manda a capo">
+<!ENTITY cellNoWrap.label "Mantieni in una riga">
+<!ENTITY cellAlignTop.label "In alto">
+<!ENTITY cellAlignMiddle.label "Al centro">
+<!ENTITY cellAlignBottom.label "In basso">
+<!ENTITY cellAlignJustify.label "Giustifica">
+<!ENTITY cellAlignAtChar.label "Al caratteri:">
+<!ENTITY cellInheritColor.label "(Colore della tabella visibile in trasparenza)">
+<!ENTITY cellUseCheckboxHelp.label "Utilizza le caselle di spunta per determinare quali proprietà saranno applicate alle celle selezionate.">
+<!ENTITY size.label "Dimensioni">
+<!ENTITY pixels.label "pixel">
+<!ENTITY backgroundColor.label "Colore di sfondo:">
+<!ENTITY backgroundColor.accessKey "r">
+<!ENTITY AlignLeft.label "Sinistra">
+<!ENTITY AlignCenter.label "Centro">
+<!ENTITY AlignRight.label "Destra">

@@ -1,0 +1,115 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Iacopo Benesperi
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY event.title.label "Modifica elemento">
+<!ENTITY newevent.title.label "Titolo">
+<!ENTITY newevent.title.accesskey "T">
+<!ENTITY newevent.itemType.event.label "Evento">
+<!ENTITY newevent.itemType.todo.label "Attività">
+<!ENTITY newevent.location.label "Luogo">
+<!ENTITY newevent.location.accesskey "L">
+<!ENTITY newevent.from.label "Da">
+<!ENTITY newevent.from.accesskey "D">
+<!ENTITY newevent.to.label "A">
+<!ENTITY newevent.to.accesskey "A">
+<!ENTITY newevent.alldayevent.label "Tutto il giorno">
+<!ENTITY newevent.alldayevent.accesskey "u">
+<!ENTITY newevent.date.label "Data">
+<!ENTITY newevent.date.accesskey "a">
+<!ENTITY newtodo.duedate.label "Data di scadenza">
+<!ENTITY newtodo.duedate.accesskey "z">
+<!ENTITY newevent.repeat2.label "Ripeti">
+<!ENTITY newevent.repeat2.accesskey "R">
+<!ENTITY newevent.set.label "Imposta modello">
+<!ENTITY newevent.set.accesskey "I">
+<!ENTITY newevent.server.label "Calendario">
+<!ENTITY newevent.server.accesskey "o">
+<!ENTITY newtodo.categories.label "Categoria">
+<!ENTITY newtodo.categories.accesskey "e">
+<!ENTITY newevent.description.label "Descrizione">
+<!ENTITY newevent.description.accesskey "n">
+<!ENTITY newevent.attendees.label "Partecipanti">
+<!ENTITY newevent.attendees.accesskey "c">
+<!ENTITY newevent.attendees.sendEmail.label "Invia gli inviti ai partecipanti via e-mail">
+<!ENTITY newevent.privacy.label "Privacy">
+<!ENTITY newevent.privacy.accesskey "P">
+<!ENTITY newevent.public.label "Pubblico">
+<!ENTITY newevent.private.label "Privato">
+<!ENTITY newevent.confidential.label "Confidenziale">
+<!ENTITY newtodo.priority.label "Priorità">
+<!ENTITY newtodo.priority.accesskey "à">
+<!ENTITY priority.level.none "Non specificata">
+<!ENTITY priority.level.none.accesskey "N">
+<!ENTITY priority.level.low "Bassa">
+<!ENTITY priority.level.low.accesskey "B">
+<!ENTITY priority.level.medium "Media">
+<!ENTITY priority.level.medium.accesskey "M">
+<!ENTITY priority.level.high "Alta">
+<!ENTITY priority.level.high.accesskey "A">
+<!ENTITY newevent.status.label "Stato">
+<!ENTITY newevent.status.accesskey "S">
+<!ENTITY newevent.status.none.label "Non specificato">
+<!ENTITY newevent.status.cancelled.label "Cancellato">
+<!ENTITY newevent.status.tentative.label "Provvisorio">
+<!ENTITY newevent.status.confirmed.label "Confermato">
+<!ENTITY newevent.status.needsaction.label "Richiede un'azione">
+<!ENTITY newevent.status.inprogress.label "In corso">
+<!ENTITY newevent.status.completed.label "Completato il">
+<!ENTITY newevent.alarm.label "Allarme">
+<!ENTITY newevent.alarm.accesskey "m">
+<!ENTITY newevent.none.label "nessuno">
+<!ENTITY newevent.15minutes.before.label "15 minuti prima">
+<!ENTITY newevent.30minutes.before.label "30 minuti prima">
+<!ENTITY newevent.custom.label "Personalizzato...">
+<!ENTITY newevent.uri.label "URL">
+<!ENTITY newevent.uri.accesskey "R">
+<!ENTITY newevent.uri.visit.label "Visita URL">
+<!ENTITY newevent.uri.visit.accesskey "V">
+<!ENTITY newtodo.percentcomplete.label "&#037; completato">
+<!ENTITY calendar.more.label "Più opzioni">
+<!ENTITY calendar.less.label "Meno opzioni">
+<!ENTITY alarm.units.minutes "minuti">
+<!ENTITY alarm.units.hours "ore">
+<!ENTITY alarm.units.days "giorni">
+<!ENTITY alarm.start.warning "Questo allarme richiede una data di inizio">
+<!ENTITY alarm.due.warning "Questo allarme richiede una data di scadenza">
+<!ENTITY newevent.before.label "prima">
+<!ENTITY newevent.after.label "dopo">
+<!ENTITY newevent.endtime.warning "L'orario di inizio è successivo all'orario di fine.">
+<!ENTITY newevent.readonly.item.warning "Questo elemento è di sola lettura.  Non è possibile modificarlo.">
+<!ENTITY newevent.readonly.cal.warning "Questo calendario è di sola lettura.">
+<!ENTITY newtodo.repeatstart.warning "Data di inizio necessaria per la ricorrenza.">

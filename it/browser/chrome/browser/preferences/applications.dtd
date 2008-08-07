@@ -1,0 +1,10 @@
+<!ENTITY typeColumn.label "Tipo file">
+<!ENTITY typeColumn.accesskey "T">
+<!ENTITY actionColumn2.label "Azione">
+<!ENTITY actionColumn2.accesskey "A">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.label "Cerca:">
+<!ENTITY filter.accesskey "C">
+<!ENTITY clear.label "Svuota">
+<!ENTITY clear.accesskey "S">

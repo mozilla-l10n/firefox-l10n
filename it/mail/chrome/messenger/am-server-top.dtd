@@ -1,0 +1,77 @@
+<!ENTITY securitySettings.label "Impostazioni di sicurezza">
+<!ENTITY serverSettings.label "Impostazioni server">
+<!ENTITY popServer.label "Server POP3">
+<!ENTITY imapServer.label "Server di Posta IMAP">
+<!ENTITY newsServer.label "Server News (NNTP)">
+<!ENTITY webmail.label "account di Posta Web">
+<!ENTITY serverType.label "Tipo di server:">
+<!ENTITY serverName.label "Nome server:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "Nome utente:">
+<!ENTITY userName.accesskey "o">
+<!ENTITY port.label "Porta:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Predefinito:">
+<!ENTITY savePassword.label "Salva password">
+<!ENTITY biffStart.label "Controlla nuovi messaggi ogni">
+<!ENTITY biffStart.accesskey "n">
+<!ENTITY biffEnd.label "minuti">
+<!ENTITY isSecure.label "Usa connessione cifrata (SSL)">
+<!ENTITY isSecure.accesskey "U">
+<!ENTITY socketType.label "Usare un collegamento sicuro:">
+<!ENTITY neverSecure.label "Mai">
+<!ENTITY neverSecure.accesskey "i">
+<!ENTITY sometimesSecure.label "TLS, se disponibile">
+<!ENTITY sometimesSecure.accesskey "d">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Usa autenticazione cifrata">
+<!ENTITY useSecAuth.accesskey "s">
+<!ENTITY leaveOnServer.label "Lascia i messaggi sul server">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "Preleva soltanto le intestazioni">
+<!ENTITY headersOnly.accesskey "r">
+<!ENTITY deleteByAgeFromServer.label "Cancella i messaggi dal server dopo">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "giorni">
+<!ENTITY deleteOnServer2.label "Fino alla loro cancellazione">
+<!ENTITY deleteOnServer2.accesskey "z">
+<!ENTITY downloadOnBiff.label "Scarica automaticamente nuovi messaggi">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "Nome server">
+<!ENTITY username.label "Nome di accesso">
+<!ENTITY popServerTitle.label "Informazioni sul server POP">
+<!ENTITY deleteMessagePrefix.label "Quando si elimina un messaggio:">
+<!ENTITY modelMoveToTrash.label "Spostalo in questa cartella:">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Marcalo eliminato">
+<!ENTITY modelMarkDeleted.accesskey "e">
+<!ENTITY modelDeleteImmediately.label "Rimuovilo immediatamente">
+<!ENTITY modelDeleteImmediately.accesskey "R">
+<!ENTITY expungeOnExit.label "All'uscita pulisci la Posta in Arrivo (&quot;Expunge&quot;)">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "Svuota cestino all'uscita">
+<!ENTITY emptyTrashOnExit.accesskey "u">
+<!ENTITY loginAtStartup.label "Controlla nuovi messaggi all'avvio">
+<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY maxMessagesStart.label "Chiedi prima di scaricare più di">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesEnd.label "messaggi">
+<!ENTITY alwaysAuthenticate.label "Chiedi sempre l'autenticazione alla connessione a questo server">
+<!ENTITY alwaysAuthenticate.accesskey "h">
+<!ENTITY newsrcFilePath.label "File newsrc:">
+<!ENTITY localPath.label "Cartella locale:">
+<!ENTITY abbreviate.label "Mostra nome del gruppo di discussione nel pannello della posta così:">
+<!ENTITY abbreviateOn.label "Nomi completi (Per esempio, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Nomi abbreviati (Per esempio, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Avanzate...">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY serverDefaultCharset.label "Codifica carattere predefinita:">
+<!ENTITY localFolderPicker.label "Scegliere la cartella locale">
+<!ENTITY browseFolder.label "Sfoglia...">
+<!ENTITY browseFolder.accesskey "S">
+<!ENTITY newsrcPicker.label "Seleziona il file newsrc">
+<!ENTITY browseNewsrc.label "Sfoglia...">
+<!ENTITY browseNewsrc.accesskey "o">

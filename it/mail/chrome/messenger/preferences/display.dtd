@@ -1,0 +1,45 @@
+<!ENTITY itemFormatting.label "Formattazione">
+<!ENTITY itemTags.label "Etichette">
+<!ENTITY itemFonts.label "Caratteri">
+<!ENTITY textBegin.label "Aspetto del testo normale citato">
+<!ENTITY style.label "Stile">
+<!ENTITY style.accesskey "e">
+<!ENTITY regularStyle.label "Regolare">
+<!ENTITY bold.label "Grassetto">
+<!ENTITY italic.label "Corsivo">
+<!ENTITY boldItalic.label "Grassetto corsivo">
+<!ENTITY size.label "Dimensione:">
+<!ENTITY size.accesskey "s">
+<!ENTITY regularSize.label "Regolare">
+<!ENTITY bigger.label "Più grande">
+<!ENTITY smaller.label "Più piccolo">
+<!ENTITY color.label "Colore:">
+<!ENTITY color.accesskey "l">
+<!ENTITY displayWidth.label "Messaggi di testo semplice">
+<!ENTITY plainText.label "Usa il carattere:">
+<!ENTITY displayText.label "Durante la visualizzazione delle citazioni in testo semplice:">
+<!ENTITY viewingPlainText.label "Durante la visualizzazione dei messaggi di testo:">
+<!ENTITY fixedWidth.label "Carattere a larghezza fissa">
+<!ENTITY fixedWidth.accesskey "h">
+<!ENTITY variableWidth.label "Carattere a larghezza variabile">
+<!ENTITY variableWidth.accesskey "V">
+<!ENTITY readingMessagesHeader.label "Per i messaggi in arrivo">
+<!ENTITY colors.label "Colori">
+<!ENTITY overrideColors.label "Durante la visualizzazione dei messaggi usa i seguenti colori:">
+<!ENTITY textColor.label "Colore del testo:">
+<!ENTITY textColor.accesskey "T">
+<!ENTITY backgroundColor.label "Colore dello sfondo:">
+<!ENTITY backgroundColor.accesskey "o">
+<!ENTITY convertEmoticons.label "Mostra le faccine in modo grafico">
+<!ENTITY convertEmoticons.accesskey "D">
+<!ENTITY displayTagsText.label "Le etichette possono essere usate per catalogare e dare priorità ai messaggi">
+<!ENTITY addTagButton.label "Aggiungi">
+<!ENTITY addTagButton.accesskey "A">
+<!ENTITY editTagButton.label "Modifica">
+<!ENTITY editTagButton.accesskey "M">
+<!ENTITY removeTagButton.label "Cancella">
+<!ENTITY removeTagButton.accesskey "C">
+<!ENTITY fontAndEncodingsDescription.label "Impostazione dei caratteri e della codifica usata da &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label "Caratteri e codifica">
+<!ENTITY fontOptions.accesskey "C">
+<!ENTITY fontOptions.label "Caratteri...">

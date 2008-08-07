@@ -1,0 +1,77 @@
+<!ENTITY generalTab.label "Generale">
+<!ENTITY accessibility.label "Accessibilità">
+<!ENTITY useCursorNavigation.label "Utilizza sempre i tasti direzione per navigare nelle pagine">
+<!ENTITY useCursorNavigation.accesskey "U">
+<!ENTITY searchStartTyping.label "Cerca nel testo quando si digita qualcosa">
+<!ENTITY searchStartTyping.accesskey "e">
+<!ENTITY blockAutoRefresh.label "Avvisa se un sito web cerca di redirigere o ricaricare la pagina">
+<!ENTITY blockAutoRefresh.accesskey "w">
+<!ENTITY browsing.label "Navigazione">
+<!ENTITY useAutoScroll.label "Utilizza lo scorrimento automatico">
+<!ENTITY useAutoScroll.accesskey "s">
+<!ENTITY useSmoothScrolling.label "Utilizza lo scorrimento continuo">
+<!ENTITY useSmoothScrolling.accesskey "a">
+<!ENTITY checkSpelling.label "Controllo ortografico durante la digitazione">
+<!ENTITY checkSpelling.accesskey "C">
+<!ENTITY systemDefaults.label "Impostazioni predefinite">
+<!ENTITY alwaysCheckDefault.label "Controlla sempre all'avvio se &brandShortName; è il browser predefinito">
+<!ENTITY alwaysCheckDefault.accesskey "t">
+<!ENTITY checkNow.label "Controlla ora">
+<!ENTITY checkNow.accesskey "o">
+<!ENTITY networkTab.label "Rete">
+<!ENTITY connection.label "Connessione">
+<!ENTITY connectionDesc.label "Determina come &brandShortName; si collega a Internet">
+<!ENTITY connectionSettings.label "Impostazioni…">
+<!ENTITY connectionSettings.accesskey "z">
+<!ENTITY offlineStorage.label "Memorizzazione dati non in linea">
+<!ENTITY useCacheBefore.label "Usa fino a">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB di spazio per la cache">
+<!ENTITY clearCacheNow.label "Svuota adesso">
+<!ENTITY clearCacheNow.accesskey "v">
+<!ENTITY updateTab.label "Aggiornamenti">
+<!ENTITY autoCheck.label "Controlla automaticamente la presenza di aggiornamenti per:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "Componenti aggiuntivi installati">
+<!ENTITY enableAddonsUpdate.accesskey "C">
+<!ENTITY enableSearchUpdate.label "Motori di ricerca">
+<!ENTITY enableSearchUpdate.accesskey "M">
+<!ENTITY whenUpdatesFound.label "Quando viene trovato un aggiornamento per &brandShortName;:">
+<!ENTITY askMe.label "Chiedi ogni volta cosa fare">
+<!ENTITY askMe.accesskey "h">
+<!ENTITY modeAutomatic.label "Scarica e installa automaticamente l'aggiornamento">
+<!ENTITY modeAutomatic.accesskey "S">
+<!ENTITY modeAutoAddonWarn.label "Avvisa se verranno disattivati dei componenti aggiuntivi">
+<!ENTITY modeAutoAddonWarn.accesskey "v">
+<!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
+<!ENTITY updateHistory.accesskey "n">
+<!ENTITY offlineNotify.label "Avvisa quando un sito web richiede di salvare dati per l'utilizzo non in linea">
+<!ENTITY offlineNotify.accesskey "A">
+<!ENTITY offlineNotifyExceptions.label "Eccezioni…">
+<!ENTITY offlineNotifyExceptions.accesskey "E">
+<!ENTITY offlineAppsList.label "I seguenti siti web hanno salvato dati per l'utilizzo non in linea:">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "Rimuovi…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm "Rimozione dati non in linea">
+<!ENTITY encryptionTab.label "Cifratura">
+<!ENTITY protocols.label "Protocolli">
+<!ENTITY useSSL3.label "Usa SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Usa TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Certificati">
+<!ENTITY certSelection.description "Quando un sito web richiede il mio certificato personale:">
+<!ENTITY certs.auto "Selezionane uno automaticamente">
+<!ENTITY certs.auto.accesskey "z">
+<!ENTITY certs.ask "Chiedi ogni volta">
+<!ENTITY certs.ask.accesskey "o">
+<!ENTITY viewCerts.label "Mostra certificati">
+<!ENTITY viewCerts.accesskey "M">
+<!ENTITY viewCRLs.label "Elenchi di revoca">
+<!ENTITY viewCRLs.accesskey "c">
+<!ENTITY verify2.label "Verifica">
+<!ENTITY verify2.accesskey "V">
+<!ENTITY viewSecurityDevices.label "Dispositivi di sicurezza">
+<!ENTITY viewSecurityDevices.accesskey "D">

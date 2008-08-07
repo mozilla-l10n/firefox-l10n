@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+]>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+	  <rdf:Description about="urn:root">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="firefox-help" nc:name="Benvenuti nella guida di &brandFullName;" nc:link="firefox_welcome.xhtml"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="using-firebird" nc:name="Utilizzare &brandFullName;" nc:link="using_firebird.xhtml"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="using-download-manager" nc:name="Utilizzare la Gestione download" nc:link="download_manager.xhtml"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="customize-firebird" nc:name="Personalizzare Mozilla Firefox" nc:link="customization.xhtml"/> </rdf:li>
+	        <rdf:li>
+	          <rdf:Description ID="prefs-win" nc:name="Opzioni" nc:link="prefs.xhtml" nc:platform="win os2">
+	            <nc:subheadings rdf:resource="#prefs-tree"/>
+	          </rdf:Description>
+	        </rdf:li>
+	        <rdf:li>
+	          <rdf:Description ID="prefs-unix" nc:name="Preferenze" nc:link="prefs.xhtml" nc:platform="unix mac">
+	            <nc:subheadings rdf:resource="#prefs-tree"/>
+	          </rdf:Description>
+	        </rdf:li>
+	        <rdf:li> <rdf:Description ID="popup-blocker" nc:name="Controllare le finestre pop-up" nc:link="popup.xhtml"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="cookies" nc:name="Gestione dei cookie" nc:link="cookies.xhtml"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="tabbed-browsing" nc:name="Navigazione a schede" nc:link="tabbed_browsing.xhtml"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="firebird-keyboard-shortcuts" nc:name="Scorciatoie da tastiera di &brandShortName;" nc:link="shortcuts.xhtml"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="firebird-mouse-shortcuts" nc:name="Scorciatoie da mouse di &brandShortName;" nc:link="mouse_shortcuts.xhtml"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y" nc:name="Caratteristiche di accessibilità" nc:link="accessibility.xhtml"/> </rdf:li>
+	    	<rdf:li> <rdf:Description ID="menu" nc:name="Guida ai menu" nc:link="menu_reference.xhtml"/> </rdf:li>
+	     	<rdf:li> <rdf:Description ID="ieusers" nc:name="Per gli utenti di Internet Explorer" nc:link="forieusers.xhtml"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#using-firebird">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="using-firebird-navigating-web-pages" nc:name="Navigare tra le pagine web" nc:link="using_firebird.xhtml#navigating_web_pages"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="using-firebird-searching" nc:name="Eseguire ricerche" nc:link="using_firebird.xhtml#searching"/> </rdf:li>
+			<rdf:li><rdf:Description ID="using-firebird-copying-saving-and-printing-pages" nc:name="Copiare, salvare e stampare il contenuto di una pagina" nc:link="using_firebird.xhtml#copying_saving_and_printng_pages"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="using-firebird-improving-speed-and-efficiency" nc:name="Migliorare la velocità e l'efficienza" nc:link="using_firebird.xhtml#improving_speed_and_efficiency"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#using-download-manager">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="using-download-manager-whatis" nc:name="Cosa è la Gestione download?" nc:link="download_manager.xhtml#what_is_download_manager"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="using-download-manager-can-i-do" nc:name="Cosa si può fare con la Gestione download?" nc:link="download_manager.xhtml#do_with_download_manager"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="using-download-manager-prefs-win" nc:name="Opzioni della Gestione download" nc:link="download_manager.xhtml#download_manager_options" nc:platform="win os2"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="using-download-manager-prefs-unix" nc:name="Preferenze della Gestione download" nc:link="download_manager.xhtml#download_manager_options" nc:platform="unix mac"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#using-firebird-navigating-web-pages">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li><rdf:Description ID="using-firebird-viewing-your-home-page" nc:name="Visualizzare la pagina iniziale" nc:link="using_firebird.xhtml#viewing_your_home_page"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="using-firebird-moving-to-another-page" nc:name="Spostarsi in un'altra pagina" nc:link="using_firebird.xhtml#moving_to_another_page"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="using-firebird-clicking-a-link" nc:name="Fare clic su un collegamento" nc:link="using_firebird.xhtml#clicking_a_link"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="using-firebird-retracing-your-steps" nc:name="Ripercorrere la propria navigazione" nc:link="using_firebird.xhtml#retracing_your_steps"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="using-firebird-stopping-and-reloading" nc:name="Interrompere il caricamento e ricaricare la pagina" nc:link="using_firebird.xhtml#stopping_and_reloading"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="using-firebird-tabbed-browsing" nc:name="Navigazione a schede" nc:link="tabbed_browsing.xhtml"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="using-firebird-sidebar" nc:name="Usare la barra laterale" nc:link="using_firebird.xhtml#using_the_sidebar"/> </rdf:li>        
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#using-firebird-searching">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li><rdf:Description ID="use-firebird-searching-the-web" nc:name="Cercare nel Web" nc:link="using_firebird.xhtml#searching_the_web"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="use-firebird-searching-on-selected-words-in-a-web-page" nc:name="Cercare nel Web le parole selezionate all'interno di una pagina" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="use-firebird-searching-within-a-page" nc:name="Cercare in una pagina" nc:link="using_firebird.xhtml#searching_within_a_page"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#using-firebird-copying-saving-and-printing-pages">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li><rdf:Description ID="using-firebird-copying-part-of-a-page" nc:name="Copiare parte di una pagina" nc:link="using_firebird.xhtml#copying_part_of_a_page"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="using-firebird-saving-all-or-part-of-a-page" nc:name="Salvare una pagina o una parte di essa" nc:link="using_firebird.xhtml#saving_all_or_part_of_a_page"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="using-firebird-printing-a-page" nc:name="Stampare una pagina" nc:link="using_firebird.xhtml#printing_a_page"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="using-firebird-using-print-preview" nc:name="Utilizzare l'anteprima di stampa" nc:link="using_firebird.xhtml#using_print_preview" nc:platform="win unix os2"/> </rdf:li>                
+	        <rdf:li><rdf:Description ID="using-firebird-using-page-setup" nc:name="Utilizzare Imposta pagina" nc:link="using_firebird.xhtml#using_page_setup"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#using-firebird-improving-speed-and-efficiency">
+	      <nc:subheadings>
+	        <rdf:Seq>
+	          <rdf:li> <rdf:Description ID="using-firebird-managing-different-file-types" nc:name="Gestire diversi tipi di file" nc:link="using_firebird.xhtml#managing_different_file_types"/> </rdf:li>
+	          <rdf:li> <rdf:Description ID="using-firebird-making-firebird-default-browser" nc:name="Impostare Firefox come browser predefinito" nc:link="using_firebird.xhtml#making_firebird_your_default_browser"/> </rdf:li>
+	          <rdf:li> <rdf:Description ID="using-firebird-cache-prefs-win" nc:name="Opzioni per la cache" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="win os2"/> </rdf:li>
+	          <rdf:li> <rdf:Description ID="using-firebird-cache-prefs-unix" nc:name="Cambiare le impostazioni per la cache" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="mac unix"/> </rdf:li>          
+	        </rdf:Seq>
+	      </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#customize-firebird">
+	      <nc:subheadings>
+	        <rdf:Seq>        	
+	          <rdf:li> <rdf:Description ID="customize-toolbars" nc:name="Barre degli strumenti" nc:link="customization.xhtml#toolbars"/> </rdf:li>          
+	          <rdf:li> <rdf:Description ID="add-ons" nc:name="Componenti aggiuntivi (estensioni e temi)" nc:link="customization.xhtml#add_ons"/> </rdf:li>
+	        </rdf:Seq>
+	      </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#customize-toolbars">
+	      <nc:subheadings>
+	        <rdf:Seq>
+	          <rdf:li> <rdf:Description ID="customize-toolbar-rearrange" nc:name="Riorganizzare gli oggetti contenuti in una barra" nc:link="customization.xhtml#rearranging_toolbar_items"/> </rdf:li>
+	          <rdf:li> <rdf:Description ID="customize-toolbars-adding" nc:name="Nascondere, aggiungere e rimuovere le barre degli strumenti" nc:link="customization.xhtml#adding_removing_toolbars"/> </rdf:li>
+	        </rdf:Seq>
+	      </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#add-ons">
+	      <nc:subheadings>
+	        <rdf:Seq>
+	          <rdf:li> <rdf:Description ID="add-ons-installing" nc:name="Ottenere e installare componenti aggiuntivi" nc:link="customization.xhtml#add_ons_installing"/> </rdf:li>
+			  <rdf:li> <rdf:Description ID="add-ons-manager" nc:name="Usare la finestra Componenti aggiuntivi" nc:link="customization.xhtml#add_ons_manager"/> </rdf:li>       
+	        </rdf:Seq>
+	      </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#popup-blocker">
+	      <nc:subheadings>
+	        <rdf:Seq>
+	          <rdf:li> <rdf:Description ID="popup-blocker-what-are-popups" nc:name="Cosa sono le finestre pop-up?" nc:link="popup.xhtml#what_are_popups"/> </rdf:li>
+	          <rdf:li> <rdf:Description ID="popup-blocker-prefs-win" nc:name="Opzioni per il blocco delle finestre pop-up" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="win os2"/> </rdf:li>
+	          <rdf:li> <rdf:Description ID="popup-blocker-prefs-unix" nc:name="Preferenze per il blocco delle finestre pop-up" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="unix mac"/> </rdf:li>
+	        </rdf:Seq>
+	      </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#cookies">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li><rdf:Description ID="cookies-what-is-a-cookie" nc:name="Cosa è un cookie?" nc:link="cookies.xhtml#what_is_a_cookie"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="cookies-setting-up-cookie-rules" nc:name="Impostare le regole per i cookie" nc:link="cookies.xhtml#setting_up_cookie_rules"/> </rdf:li>
+			<rdf:li><rdf:Description ID="cookies-all-the-settings" nc:name="Opzioni complete" nc:link="cookies.xhtml#all_the_settings"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="cookies-accepting-and-blocking-cookies" nc:name="Accettare e bloccare i cookie" nc:link="cookies.xhtml#accepting_and_blocking_cookies"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="cookies-exceptions" nc:name="La finestra Eccezioni - Cookie" nc:link="cookies.xhtml#cookies_exceptions"/> </rdf:li>
+	        <rdf:li><rdf:Description ID="cookies-view" nc:name="La finestra Cookie" nc:link="cookies.xhtml#view_cookies"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#tabbed-browsing">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="tabbed-browsing-creating-loading-tabs" nc:name="Creare e caricare le schede" nc:link="tabbed_browsing.xhtml#creating_loading_tabs"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="tabbed-browsing-moving-tabs" nc:name="Spostare le schede all'interno della finestra" nc:link="tabbed_browsing.xhtml#moving_tabs"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="tabbed-browsing-closing-tabs" nc:name="Chiudere e ripristinare le schede" nc:link="tabbed_browsing.xhtml#closing_tabs"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="tabbed-browsing-customizing" nc:name="Personalizzare la navigazione a schede" nc:link="tabbed_browsing.xhtml#customizing"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="tabbed-browsing-tips-tricks" nc:name="Trucchi e suggerimenti" nc:link="tabbed_browsing.xhtml#tips_tricks"/> </rdf:li>
+	       </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#a11y">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="a11y-keyboard-navigation" nc:name="Usare la tastiera" nc:link="accessibility.xhtml#using_a_keyboard"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-mouse-navigation" nc:name="Usare il mouse" nc:link="accessibility.xhtml#using_a_mouse"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-fonts-and-colors" nc:name="Caratteri e colori" nc:link="accessibility.xhtml#fonts_and_colors"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-web-content" nc:name="Controllo dei contenuti" nc:link="accessibility.xhtml#controlling_web_content"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-compatibility" nc:name="Compatibilità con le tecnologie per la disabilità e l'autonomia" nc:link="accessibility.xhtml#compatibility_with_assistive_technologies"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-online" nc:name="Ottenere aiuto on-line" nc:link="accessibility.xhtml#finding_help_online"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#a11y-keyboard-navigation">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="a11y-keyboard-shortcuts" nc:name="Scorciatoie da tastiera" nc:link="accessibility.xhtml#keyboard_shortcuts"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-caret-browsing" nc:name="Utilizza sempre i tasti direzione per navigare nelle pagine" nc:link="accessibility.xhtml#always_use_cursor_keys"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-typeahead-find" nc:name="Cerca nel testo quando si digita qualcosa" nc:link="accessibility.xhtml#find_as_you_type"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#a11y-mouse-navigation">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="a11y-mouse-shortcuts" nc:name="Scorciatoie da mouse" nc:link="accessibility.xhtml#common_mouse_shortcuts"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#a11y-fonts-and-colors">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="a11y-override-fonts" nc:name="Ignorare i caratteri della pagina" nc:link="accessibility.xhtml#overriding_page_fonts"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-minimum-font-size" nc:name="Impostare una dimensione minima per i caratteri" nc:link="accessibility.xhtml#setting_a_minimum_font_size"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-text-zoom" nc:name="Ridimensionare il testo della pagina" nc:link="accessibility.xhtml#resizing_page_text"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-override-colors" nc:name="Ignorare i colori della pagina" nc:link="accessibility.xhtml#overriding_page_colors"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-high-contrast" nc:name="Usare un tema ad alto contrasto" nc:link="accessibility.xhtml#using_a_high_contrast_theme" nc:platform="win"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#a11y-web-content">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="a11y-popup-windows" nc:name="Blocco finestre pop-up" nc:link="accessibility.xhtml#blocking_popup_windows"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-java" nc:name="Disattivare le Applet Java" nc:link="accessibility.xhtml#turning_off_java_applets"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="a11y-javascript" nc:name="Limitare le funzioni JavaScript" nc:link="accessibility.xhtml#restricting_javascript_behavior"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-firefox" nc:name="&brandShortName;" nc:link="menu_reference.xhtml#firefox" nc:platform="mac"/> </rdf:li>              
+	        <rdf:li> <rdf:Description ID="menu-file" nc:name="File" nc:link="menu_reference.xhtml#file"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-edit" nc:name="Modifica" nc:link="menu_reference.xhtml#edit"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view" nc:name="Visualizza" nc:link="menu_reference.xhtml#view"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-go" nc:name="Cronologia" nc:link="menu_reference.xhtml#go"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-bookmarks" nc:name="Segnalibri" nc:link="menu_reference.xhtml#bookmarks"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-tools" nc:name="Strumenti" nc:link="menu_reference.xhtml#tools"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-window" nc:name="Finestra" nc:link="menu_reference.xhtml#window" nc:platform="mac"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-help" nc:name="?" nc:link="menu_reference.xhtml#help"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-firefox">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-firefox-about" nc:name="Informazioni su &brandFullName;" nc:link="menu_reference.xhtml#about_mac"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-firefox-preferences" nc:name="Preferenze..." nc:link="menu_reference.xhtml#prefs_mac"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-firefox-quit" nc:name="Esci da &brandShortName;" nc:link="menu_reference.xhtml#quit_mac"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-file">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-file-new-window" nc:name="Nuova finestra" nc:link="menu_reference.xhtml#new_window"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-new-tab" nc:name="Nuova scheda" nc:link="menu_reference.xhtml#new_tab"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-open-location" nc:name="Apri indirizzo..." nc:link="menu_reference.xhtml#open_location"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-open-file" nc:name="Apri file..." nc:link="menu_reference.xhtml#open_file"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-close" nc:name="Chiudi (finestra)" nc:link="menu_reference.xhtml#close"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-close-tab" nc:name="Chiudi scheda" nc:link="menu_reference.xhtml#close_tab"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-save-page-as" nc:name="Salva pagina come..." nc:link="menu_reference.xhtml#save_page_as"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-send-page" nc:name="Invia link..." nc:link="menu_reference.xhtml#send_page"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-page-setup" nc:name="Imposta pagina..." nc:link="menu_reference.xhtml#page_setup"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-print-preview" nc:name="Anteprima di stampa" nc:link="menu_reference.xhtml#print_preview" nc:platform="win unix os2"/> </rdf:li>        
+	        <rdf:li> <rdf:Description ID="menu-file-print" nc:name="Stampa..." nc:link="menu_reference.xhtml#print"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-import" nc:name="Importa" nc:link="menu_reference.xhtml#import"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-file-work-offline" nc:name="Lavora scollegato" nc:link="menu_reference.xhtml#work_offline"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-exit-win" nc:name="Esci" nc:link="menu_reference.xhtml#exit" nc:platform="win os2"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-exit-nowin" nc:name="Esci" nc:link="menu_reference.xhtml#exit" nc:platform="unix"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-edit">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-view-undo" nc:name="Annulla" nc:link="menu_reference.xhtml#undo"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-redo" nc:name="Ripeti" nc:link="menu_reference.xhtml#redo"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-cut" nc:name="Taglia" nc:link="menu_reference.xhtml#cut"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-copy" nc:name="Copia" nc:link="menu_reference.xhtml#copy"/> </rdf:li>
+			<rdf:li> <rdf:Description ID="menu-view-paste" nc:name="Incolla" nc:link="menu_reference.xhtml#paste"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-delete" nc:name="Elimina" nc:link="menu_reference.xhtml#delete"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-select-all" nc:name="Seleziona tutto" nc:link="menu_reference.xhtml#select_all"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-find-in-this-page" nc:name="Trova in questa pagina..." nc:link="menu_reference.xhtml#find_in_this_page"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-find-again" nc:name="Trova successivo" nc:link="menu_reference.xhtml#find_again"/> </rdf:li>
+	   		<rdf:li> <rdf:Description ID="menu-view-preferences" nc:name="Preferenze" nc:link="menu_reference.xhtml#prefs" nc:platform="unix"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-view">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-view-toolbars" nc:name="Barre degli strumenti" nc:link="menu_reference.xhtml#toolbars"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-status-bar" nc:name="Barra di stato" nc:link="menu_reference.xhtml#status_bar"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-sidebar" nc:name="Barra laterale" nc:link="menu_reference.xhtml#sidebar"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-stop" nc:name="Stop" nc:link="menu_reference.xhtml#stop"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-reload" nc:name="Ricarica" nc:link="menu_reference.xhtml#reload"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-text-size" nc:name="Dimensione testo" nc:link="menu_reference.xhtml#text_size"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-page-style" nc:name="Stile pagina" nc:link="menu_reference.xhtml#page_style"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-character-encoding" nc:name="Codifica caratteri" nc:link="menu_reference.xhtml#character_encoding"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-page-source" nc:name="Sorgente pagina" nc:link="menu_reference.xhtml#page_source"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-full-screen" nc:name="A tutto schermo" nc:link="menu_reference.xhtml#full_screen" nc:platform="win unix os2"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-view-toolbars">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-view-toolbars-navigation" nc:name="Barra di navigazione" nc:link="menu_reference.xhtml#navigation_toolbar"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-toolbars-bookmarks" nc:name="Barra dei segnalibri" nc:link="menu_reference.xhtml#bookmarks_toolbar"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-toolbars-customize" nc:name="Personalizza..." nc:link="menu_reference.xhtml#customize"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-view-sidebar">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-view-sidebar-bookmarks" nc:name="Segnalibri" nc:link="menu_reference.xhtml#bookmarks_Sidebar"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-sidebar-history" nc:name="Cronologia" nc:link="menu_reference.xhtml#histoy"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-view-text-size">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-view-text-size-increase" nc:name="Aumenta" nc:link="menu_reference.xhtml#increase_text_size"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-text-size-decrease" nc:name="Diminuisci" nc:link="menu_reference.xhtml#decrease_text_size"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-text-size-reset" nc:name="Normale" nc:link="menu_reference.xhtml#reset_text_size"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-view-page-style">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-view-page-style-no-style" nc:name="Nessuno stile" nc:link="menu_reference.xhtml#no_style"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-view-page-style-basic-page-style" nc:name="Stile di pagina base" nc:link="menu_reference.xhtml#basic_page_style"/> </rdf:li>      
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-go">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-go-back" nc:name="Indietro" nc:link="menu_reference.xhtml#back"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-go-forward" nc:name="Avanti" nc:link="menu_reference.xhtml#foward"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-go-home" nc:name="Pagina iniziale" nc:link="menu_reference.xhtml#home"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-go-history" nc:name="Mostra nella barra laterale" nc:link="menu_reference.xhtml#go_history"/> </rdf:li>
+			<rdf:li> <rdf:Description ID="menu-go-closed-tabs" nc:name="Schede chiuse di recente" nc:link="menu_reference.xhtml#closed_tabs"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-bookmarks">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-bookmarks-add-to-bookmarks" nc:name="Aggiungi pagina nei segnalibri..." nc:link="menu_reference.xhtml#add_to_bookmarks"/> </rdf:li>
+			<rdf:li> <rdf:Description ID="menu-bookmarks-subscribe" nc:name="Abbonati a questa pagina..." nc:link="menu_reference.xhtml#subscribe"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-bookmarks-bookmark-all-tabs" nc:name="Tutte le schede nei segnalibri..." nc:link="menu_reference.xhtml#bookmark_all_tabs"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-bookmarks-organize-bookmarks" nc:name="Gestione segnalibri..." nc:link="menu_reference.xhtml#organize_bookmarks"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-tools">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-tools-web-search" nc:name="Cerca sul web" nc:link="menu_reference.xhtml#web_search"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-tools-downloads" nc:name="Download" nc:link="menu_reference.xhtml#downloads"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-tools-add-ons" nc:name="Componenti aggiuntivi" nc:link="menu_reference.xhtml#add_ons"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-tools-javascript-console" nc:name="Console degli errori" nc:link="menu_reference.xhtml#javascript_console"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-tools-page-info" nc:name="Informazioni pagina" nc:link="menu_reference.xhtml#page_info"/> </rdf:li>		
+			<rdf:li> <rdf:Description ID="menu-tools-clear-private-data" nc:name="Elimina i dati personali..." nc:link="menu_reference.xhtml#clear_private_data"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-tools-options" nc:name="Opzioni" nc:link="menu_reference.xhtml#options" nc:platform="win os2"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-window">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-window-minimize" nc:name="Contrai" nc:link="menu_reference.xhtml#minimize"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-window-zoom" nc:name="Zoom" nc:link="menu_reference.xhtml#zoom"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-window-open-windows" nc:name="(apri finestra)" nc:link="menu_reference.xhtml#open-windows"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#menu-help">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="menu-help-help-contents" nc:name="Contenuti" nc:link="menu_reference.xhtml#help_contents" nc:platform="win unix os2"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-help-help-contents-mac" nc:name="Guida di &brandShortName;" nc:link="menu_reference.xhtml#help_contents" nc:platform="mac"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-help-for-ie-users" nc:name="Per gli utenti di Internet Explorer" nc:link="menu_reference.xhtml#for_ie_users" nc:platform="win"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-help-relnotes" nc:name="Note di versione" nc:link="menu_reference.xhtml#relnotes"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-help-report-broken-web-site" nc:name="Sito non funzionante" nc:link="menu_reference.xhtml#reporter"/> </rdf:li>
+			<rdf:li> <rdf:Description ID="menu-help-report-web-forgery" nc:name="Segnala una contraffazione web..." nc:link="menu_reference.xhtml#web_forgery"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="menu-help-check-for-updates" nc:name="Controlla gli aggiornamenti..." nc:link="menu_reference.xhtml#check_for_updates"/> </rdf:li>
+			<rdf:li> <rdf:Description ID="menu-help-about-mozilla-firebird" nc:name="Informazioni su &brandFullName;" nc:link="menu_reference.xhtml#about_mozilla_firebird" nc:platform="win unix os2"/> </rdf:li>		  	
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+	  <rdf:Description about="#ieusers">
+	    <nc:subheadings>
+	      <rdf:Seq>
+	        <rdf:li> <rdf:Description ID="ieusers-firebird-ie-terminology-differences" nc:name="Differenze di terminologia tra &brandShortName; ed Internet Explorer" nc:link="forieusers.xhtml#firebird_and_internet_explorer_terminology_differences"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="ieusers-about-your-ie-settings" nc:name="Conservare le impostazioni personalizzate di IE" nc:link="forieusers.xhtml#about_your_ie_settings"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="ieusers-firebirds-features" nc:name="Caratteristiche di &brandShortName;" nc:link="forieusers.xhtml#firebirds_features"/> </rdf:li>
+	        <rdf:li> <rdf:Description ID="ieusers-keyboard-shortcuts" nc:name="Scorciatoie da tastiera" nc:link="forieusers.xhtml#keyboard_shortcuts"/> </rdf:li>
+	      </rdf:Seq>
+	    </nc:subheadings>
+	  </rdf:Description>
+
+  <!-- The following nodes are intentionally linkable but not displayable -->
+  <Description rdf:ID="prefs-languages" nc:name="Lingue" nc:link="prefs.xhtml#languages"/>
+  <Description rdf:ID="prefs-fonts-and-colors" nc:name="Caratteri e colori" nc:link="prefs.xhtml#fonts_and_colors"/>
+  <Description rdf:ID="prefs-connection-settings" nc:name="Impostazioni di connessione" nc:link="prefs.xhtml#connection_settings"/>
+
+  <!-- The following nodes are trees used multiple times in the hierarchy
+       (for platform-specific reasons).  To display one of these trees,
+       include an nc:subheadings element with an rdf:ID attribute set to
+       "#" plus the value of the rdf:ID for the appropriate tree within
+       the appropriate rdf:Description element. -->
+
+  <Seq rdf:ID="prefs-tree">
+    <li><Description ID="prefs-main" nc:name="Principale" nc:link="prefs.xhtml#main_options"/></li>
+    <li><Description ID="prefs-tabs" nc:name="Schede" nc:link="prefs.xhtml#tabs_options"/></li>
+    <li><Description ID="prefs-content" nc:name="Contenuti" nc:link="prefs.xhtml#content_options"/></li>
+    <li><Description ID="prefs-feeds" nc:name="Feed" nc:link="prefs.xhtml#feeds_options"/></li>
+    <li><Description ID="prefs-privacy" nc:name="Privacy" nc:link="prefs.xhtml#privacy_options"/></li>
+    <li><Description ID="prefs-security" nc:name="Sicurezza" nc:link="prefs.xhtml#security_options"/></li>
+    <li><Description ID="prefs-advanced" nc:name="Avanzate" nc:link="prefs.xhtml#advanced_options"/></li>
+  </Seq>
+
+  <!-- The following are subnodes of trees used multiple times in the hierarchy. -->
+
+  <Description rdf:about="#prefs-main">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-startup" nc:name="Avvio" nc:link="prefs.xhtml#startup"/></li>
+        <li><Description rdf:ID="prefs-downloads" nc:name="Download" nc:link="prefs.xhtml#downloads"/></li>
+        <li><Description rdf:ID="prefs-system-defaults" nc:name="Impostazioni predefinite" nc:link="prefs.xhtml#system_defaults"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-content">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-advanced-javascript" nc:name="Impostazioni avanzate Javascript" nc:link="prefs.xhtml#advanced_javascript"/></li>
+        <li><Description rdf:ID="prefs-fonts-and-colors" nc:name="Caratteri e colori" nc:link="prefs.xhtml#fonts_and_colors"/></li>
+        <li><Description rdf:ID="prefs-file-types" nc:name="Tipi di file" nc:link="prefs.xhtml#file_types"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-privacy">
+    <nc:subheadings>
+      <rdf:Seq>
+        <li><Description rdf:ID="prefs-privacy-history" nc:name="Cronologia" nc:link="prefs.xhtml#privacy_history"/></li>
+        <li><Description rdf:ID="prefs-privacy-cookies" nc:name="Cookie" nc:link="prefs.xhtml#privacy_cookies"/></li>
+        <li><Description rdf:ID="prefs-clear-private-data" nc:name="Dati personali" nc:link="prefs.xhtml#private_data"/></li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-security">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-passwords" nc:name="Password" nc:link="prefs.xhtml#security_passwords"/></li>
+        <li><Description rdf:ID="prefs-warning-messages" nc:name="Messaggi di avviso" nc:link="prefs.xhtml#warning_messages"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+  
+  <Description rdf:about="#prefs-advanced">
+    <nc:subheadings>
+      <Seq>
+        <li><Description rdf:ID="prefs-advanced-general" nc:name="Generale" nc:link="prefs.xhtml#advanced_general"/></li>
+        <li><Description rdf:ID="prefs-advanced-network" nc:name="Rete" nc:link="prefs.xhtml#advanced_network"/></li>
+        <li><Description rdf:ID="prefs-advanced-update" nc:name="Aggiornamenti" nc:link="prefs.xhtml#advanced_update"/></li>
+        <li><Description rdf:ID="prefs-advanced-encryption" nc:name="Cifratura" nc:link="prefs.xhtml#advanced_encryption"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+
+</rdf:RDF>

@@ -1,0 +1,33 @@
+<!ENTITY systemDefaults.label "Predefiniti di sistema">
+<!ENTITY alwaysCheckDefault.label "All'avvio controlla sempre che &brandShortName; sia il programma di posta predefinito.">
+<!ENTITY alwaysCheckDefault.accesskey "f">
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Controlla ora">
+<!ENTITY checkNow.accesskey "N">
+<!ENTITY messengerStartPage.label "Pagina iniziale di &brandShortName;">
+<!ENTITY enableStartPage.label "All'apertura di &brandShortName; mostra la pagina iniziale nell'area messaggi">
+<!ENTITY enableStartPage.accesskey "d">
+<!ENTITY location.label "Posizione:">
+<!ENTITY location1.accesskey "o">
+<!ENTITY useDefault.label "Ripristina predefinita">
+<!ENTITY useDefault.accesskey "R">
+<!ENTITY bounceSystemDockIcon.label "Anima l'icona nel dock">
+<!ENTITY bounceSystemDockIcon.accesskey "i">
+<!ENTITY newMessagesArrive.label "Quando arriva un messaggio:">
+<!ENTITY playSound.label "Emetti un suono">
+<!ENTITY playSound1.accesskey "E">
+<!ENTITY showAnimatedAlert.label "Mostra un avviso">
+<!ENTITY showAnimatedAlert.accesskey "M">
+<!ENTITY customizeMailAlert.label "Personalizza...">
+<!ENTITY customizeMailAlert.accesskey "z">
+<!ENTITY soundNotification1.caption "Suono">
+<!ENTITY play.label "Ascolta">
+<!ENTITY play.accesskey "A">
+<!ENTITY systemsound.label "Suono predefinito di sistema per nuova posta">
+<!ENTITY systemsoundMac.label "Suono di avviso predefinito">
+<!ENTITY systemsoundMac.accesskey "p">
+<!ENTITY systemsound.accesskey "p">
+<!ENTITY customsound.label "Usa questo file sonoro">
+<!ENTITY customsound.accesskey "U">
+<!ENTITY browse.label "Sfoglia...">
+<!ENTITY browse.accesskey "S">

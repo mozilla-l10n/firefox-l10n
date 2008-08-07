@@ -1,0 +1,17 @@
+<!ENTITY printJobOptions.title "Proprietà stampante">
+<!ENTITY paperInput.label "Dimensioni foglio:">
+<!ENTITY plexInput.label "Modalità Plex:">
+<!ENTITY resolutionInput.label "Risoluzione/Qualità:">
+<!ENTITY cmdInput.label "Comando di stampa:">
+<!ENTITY jobTitleInput.label "Nome del job:">
+<!ENTITY colorGroup.label "Colore:">
+<!ENTITY grayRadio.label "Toni di grigio">
+<!ENTITY colorRadio.label "Colore">
+<!ENTITY colorspaceInput.label "Sistema colore:">
+<!ENTITY fontsGroup.label "Font:">
+<!ENTITY downloadFonts.label "Scaricare i font sulla stampante?">
+<!ENTITY edgeMarginInput.label "Spazio fra il bordo della pagina e il margine (pollici)">
+<!ENTITY topInput.label "In alto:">
+<!ENTITY bottomInput.label "In basso:">
+<!ENTITY leftInput.label "A sinistra:">
+<!ENTITY rightInput.label "A destra:">

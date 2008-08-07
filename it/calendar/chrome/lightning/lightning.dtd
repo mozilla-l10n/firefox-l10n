@@ -1,0 +1,87 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is calendar views.
+   -
+   - The Initial Developer of the Original Code is Oracle Corporation
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Shaver <shaver@mozilla.org>
+   -   Simon Paquet <bugzilla@babylonsounds.com>
+   -   Matthew Willis <mattwillis@mac.com>
+   -   Iacopo Benesperi
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK *****
+-->
+<!ENTITY lightning.taskLabel "Lightning">
+<!ENTITY lightning.menupopup.new.event.label "Evento...">
+<!ENTITY lightning.menupopup.new.task.label "Attività...">
+<!ENTITY lightning.menupopup.new.calendar.label "Calendario...">
+<!ENTITY agenda.treeview.label "Visualizza:">
+<!ENTITY agenda.treeview.menu.label "Visualizza">
+<!ENTITY agenda.treeview.all.label "Tutto">
+<!ENTITY agenda.treeview.events.label "Eventi">
+<!ENTITY agenda.treeview.tasks.label "Attività">
+<!ENTITY agenda.treeview.reminders.label "Promemoria">
+<!ENTITY agenda.treeview.customize.label "Personalizza...">
+<!ENTITY agenda.treeview.item.label "Oggetto">
+<!ENTITY agenda.treeview.description "Personalizza le viste">
+<!ENTITY lightning.sidebar.agenda.label "Agenda">
+<!ENTITY lightning.sidebar.todo.label "Da fare">
+<!ENTITY lightning.sidebar.calendars.label "Calendari">
+<!ENTITY lightning.calendar.label "Calendario">
+<!ENTITY lightning.calendar.accesskey "C">
+<!ENTITY lightning.sidebar.showCompletedTasks.label "Visualizza attività completate">
+<!ENTITY lightning.sidebar.showCompletedTasks.accesskey "V">
+<!ENTITY lightning.toolbar.mail.label "Posta">
+<!ENTITY lightning.toolbar.mail.accesskey "P">
+<!ENTITY lightning.toolbar.calendar.label "Calendario">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.label "Attività">
+<!ENTITY lightning.toolbar.task.accesskey "A">
+<!ENTITY customize.toolbar.selector.label "Barra degli strumenti:">
+<!ENTITY customize.toolbar.selector.mode "Modalità barra degli strumenti">
+<!ENTITY customize.toolbar.selector.mail "Barra degli strumenti posta">
+<!ENTITY customize.toolbar.selector.calendar "Barra degli strumenti calendario">
+<!ENTITY customize.toolbar.location.label "Percorso:">
+<!ENTITY customize.toolbar.location.top "In cima">
+<!ENTITY customize.toolbar.location.bottom "In fondo">
+<!ENTITY lightning.toolbar.edit.calendar.label "Modifica calendario selezionato">
+<!ENTITY lightning.toolbar.edit.calendar.accesskey "M">
+<!ENTITY lightning.toolbar.delete.calendar.label "Elimina calendario selezionato">
+<!ENTITY lightning.toolbar.delete.calendar.accesskey "E">
+<!ENTITY lightning.toolbar.day.label "Giorno">
+<!ENTITY lightning.toolbar.day.accesskey "G">
+<!ENTITY lightning.toolbar.week.label "Settimana">
+<!ENTITY lightning.toolbar.week.accesskey "S">
+<!ENTITY lightning.toolbar.multiweek.label "Multi-settimana">
+<!ENTITY lightning.toolbar.multiweek.accesskey "u">
+<!ENTITY lightning.toolbar.month.label "Mese">
+<!ENTITY lightning.toolbar.month.accesskey "M">
+<!ENTITY lightning.context.deleteitem.accesskey "E">
+<!ENTITY lightning.context.newevent.accesskey "v">
+<!ENTITY lightning.imipbar.description "Questo messaggio contiene un invito ad un evento.">

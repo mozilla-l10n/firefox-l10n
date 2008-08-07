@@ -1,0 +1,7 @@
+<!ENTITY phishDlg.title "Condizioni d'uso del servizio di Protezione Phishing">
+<!ENTITY phishDlg.height "40em">
+<!ENTITY phishDlg.width "35em">
+<!ENTITY acceptToS.label "Accetto le condizioni d'uso del servizio di Protezione Phishing">
+<!ENTITY declineToS.label "Non accetto le condizioni d'uso del servizio di Protezione Phishing">
+<!ENTITY accept.label "Accetta e continua">
+<!ENTITY cancel.label "Annulla">

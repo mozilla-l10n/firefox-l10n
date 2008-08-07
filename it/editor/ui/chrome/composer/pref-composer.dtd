@@ -1,0 +1,29 @@
+<!ENTITY pref.composer.title "Compositore">
+<!ENTITY saving "Salvataggio in corso">
+<!ENTITY AutoSaveCheck "Salvare automaticamente ogni">
+<!ENTITY minText "minuti">
+<!ENTITY exterLegend.label "Editor esterni">
+<!ENTITY htmlSource "Sorgente HTML:">
+<!ENTITY imageeditor "Immagini:">
+<!ENTITY chooseButton.label "Scegliere">
+<!ENTITY recentFiles.title "Menu pagine recenti">
+<!ENTITY documentsInMenu.label "Massimo numero di pagine elencate:">
+<!ENTITY documentsInMenu.accesskey "n">
+<!ENTITY savingFiles.title "Salvando o pubblicando le pagine">
+<!ENTITY preserveExisting.label "Preservare la formattazione originale della sorgente">
+<!ENTITY preserveExisting.accesskey "P">
+<!ENTITY preserveExisting.tooltip "Preservare le interruzioni di linea e la formattazione originale della pagina">
+<!ENTITY saveAssociatedFiles.label "Salva assieme alla pagina immagini e altri file associati ">
+<!ENTITY saveAssociatedFiles.accesskey "S">
+<!ENTITY showPublishDialog.label "Visualizza sempre la finestra di dialogo quando si pubblica">
+<!ENTITY showPublishDialog.accesskey "A">
+<!ENTITY composerEditing.label "Modifica">
+<!ENTITY spellCheckInline.label "Controlla ortografia durante la digitazione">
+<!ENTITY spellCheckInline.accesskey "C">
+<!ENTITY maintainStructure.label "Mantenere lo schema della tabella durante l'inserimento o la cancellazione di celle">
+<!ENTITY maintainStructure.tooltip "Preservare la forma rettangolare della tabella aggiungendo automaticamente celle dopo l'inserimento o la cancellazione di celle">
+<!ENTITY maintainStructure.accesskey "a">
+<!ENTITY useCSS.label "Utilizza stili CSS al posto di elementi ed attributi HTML">
+<!ENTITY useCSS.accesskey "U">
+<!ENTITY crInPCreatesNewP.label "Invio in un paragrafo crea sempre un nuovo paragrafo">
+<!ENTITY crInPCreatesNewP.accesskey "R">

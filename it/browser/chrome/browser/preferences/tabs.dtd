@@ -1,0 +1,13 @@
+<!ENTITY newPagesIn.label "Le nuove pagine si dovranno aprire in:">
+<!ENTITY inNewWindow.label "una nuova finestra">
+<!ENTITY inNewWindow.accesskey "n">
+<!ENTITY inNewTab.label "una nuova scheda">
+<!ENTITY inNewTab.accesskey "o">
+<!ENTITY warnCloseMultipleTabs.label "Avvisa quando si chiudono più schede contemporaneamente">
+<!ENTITY warnCloseMultipleTabs.accesskey "v">
+<!ENTITY warnOpenManyTabs.label "Avvisa quando l'apertura di più schede potrebbe rallentare &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "d">
+<!ENTITY showTabBar.label "Mostra sempre la barra delle schede">
+<!ENTITY showTabBar.accesskey "M">
+<!ENTITY switchToNewTabs.label "Quando si apre un link in una nuova scheda, selezionarla immediatamente">
+<!ENTITY switchToNewTabs.accesskey "u">

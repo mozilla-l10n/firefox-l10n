@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Nome:">
+<!ENTITY bookmarks.name.accesskey "N">
+<!ENTITY bookmarks.location.label "Indirizzo:">
+<!ENTITY bookmarks.location.accesskey "I">
+<!ENTITY bookmarks.keyword.label "Parola chiave:">
+<!ENTITY bookmarks.keyword.accesskey "P">
+<!ENTITY bookmarks.description.label "Descrizione:">
+<!ENTITY bookmarks.description.accesskey "D">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Titoli Live">
+<!ENTITY bookmarks.createIn.label "Creato in:">
+<!ENTITY bookmarks.createIn.accesskey "C">
+<!ENTITY bookmarks.feed_location.label "Indirizzo del feed:">
+<!ENTITY bookmarks.feed_location.accesskey "f">
+<!ENTITY bookmarks.site_location.label "Indirizzo del sito:">
+<!ENTITY bookmarks.site_location.accesskey "s">
+<!ENTITY bookmarks.loadInSidebar.label "Carica questo segnalibro nella barra laterale">
+<!ENTITY bookmarks.loadInSidebar.accesskey "o">
+<!ENTITY bookmarks.expanderDown.tooltip "Visualizza tutte le cartelle dei segnalibri">
+<!ENTITY bookmarks.expanderUp.tooltip "Nascondi">
+<!ENTITY bookmarks.newFolderButton.label "Nuova cartella">
+<!ENTITY bookmarks.newFolderButton.accesskey "u">

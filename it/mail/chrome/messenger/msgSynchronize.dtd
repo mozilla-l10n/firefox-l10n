@@ -1,0 +1,17 @@
+<!ENTITY MsgSynchronize.label "Scaricamento e sincronizzazione messaggi">
+<!ENTITY MsgSelect.label "Elementi per uso non in linea">
+<!ENTITY MsgSyncDesc.label "Se sono già state scelte le cartelle da utilizzare una volta scollegati, è possibile scaricare il loro contenuto o metterle in sincrono. È in alternativa possibile usare il pulsante &quot;Seleziona&quot; per aggiungere o rimuovere cartelle da scaricare.">
+<!ENTITY MsgSyncDirections.label "Scarica e/o sincronizza i seguenti:">
+<!ENTITY syncTypeMail.label "Messaggi di posta">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "Messaggi dei gruppi di discussione">
+<!ENTITY syncTypeNews.accesskey "d">
+<!ENTITY sendMessage.label "Invia messaggi in attesa">
+<!ENTITY sendMessage.accesskey "a">
+<!ENTITY workOffline.label "Scollega una volta scaricati e/o sincronizzati i messaggi">
+<!ENTITY workOffline.accesskey "c">
+<!ENTITY selectButton.label "Seleziona...">
+<!ENTITY selectButton.accesskey "S">
+<!ENTITY MsgSelectDesc.label "Selezionare le cartelle di posta e dei gruppi di discussione che si desidera disponibili scollegati.">
+<!ENTITY MsgSelectInd.label "Da scaricare">
+<!ENTITY MsgSelectItems.label "Cartelle e gruppi di discussione">

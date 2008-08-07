@@ -1,0 +1,28 @@
+<!ENTITY find.label "Cerca:">
+<!ENTITY find.accesskey "r">
+<!ENTITY expand.label "Espandi">
+<!ENTITY expand.accesskey "E">
+<!ENTITY collapse.label "Contrai">
+<!ENTITY collapse.accesskey "C">
+<!ENTITY byDate.label "Data">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Sito">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "Visualizza">
+<!ENTITY view.accesskey "V">
+<!ENTITY byMostVisited.label "Più visitati">
+<!ENTITY byMostVisited.accesskey "P">
+<!ENTITY byLastVisited.label "Ultima visita">
+<!ENTITY byLastVisited.accesskey "U">
+<!ENTITY byDayAndSite.label "Data e sito">
+<!ENTITY byDayAndSite.accesskey "a">
+<!ENTITY openLinkInWindow.label "Apri">
+<!ENTITY openLinkInWindow.accesskey "A">
+<!ENTITY openInNewTab.label "Apri in nuova scheda">
+<!ENTITY openInNewTab.accesskey "s">
+<!ENTITY openInNewWindow.label "Apri in nuova finestra">
+<!ENTITY openInNewWindow.accesskey "f">
+<!ENTITY bookmarkLink.label "Aggiungi link nei segnalibri…">
+<!ENTITY bookmarkLink.accesskey "A">
+<!ENTITY copyLink.label "Copia indirizzo">
+<!ENTITY copyLink.accesskey "C">

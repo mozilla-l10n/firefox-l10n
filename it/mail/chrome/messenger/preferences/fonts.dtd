@@ -1,0 +1,62 @@
+<!ENTITY fontsAndEncodingsDialog.title "Caratteri e codifica">
+<!ENTITY window.width "44em">
+<!ENTITY window.macWidth "47em">
+<!ENTITY window.unixWidth "41em">
+<!ENTITY language.label "Caratteri per:">
+<!ENTITY language.accesskey "t">
+<!ENTITY typefaces.label "Carattere visualizzato">
+<!ENTITY sizes.label "Dimensione (pix)">
+<!ENTITY proportionalSize.accesskey "e">
+<!ENTITY monospaceSize.accesskey "x">
+<!ENTITY proportional.label "Proporzionale:">
+<!ENTITY proportional.accesskey "P">
+<!ENTITY serif.label "Con grazie:">
+<!ENTITY serif.accesskey "c">
+<!ENTITY sans-serif.label "Senza grazie:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "Larghezza fissa:">
+<!ENTITY monospace.accesskey "L">
+<!ENTITY fontsize.units "pixel">
+<!ENTITY font.langGroup.latin1 "Occidentale">
+<!ENTITY font.langGroup.latin2 "Centro europeo">
+<!ENTITY font.langGroup.japanese "Giapponese">
+<!ENTITY font.langGroup.trad-chinese "Cinese tradizionale (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "Cinese semplificato">
+<!ENTITY font.langGroup.trad-chinese-hk "Cinese tradizionale (HK)">
+<!ENTITY font.langGroup.korean "Coreano">
+<!ENTITY font.langGroup.cyrillic "Cirillico">
+<!ENTITY font.langGroup.baltic "Baltico">
+<!ENTITY font.langGroup.el "Greco">
+<!ENTITY font.langGroup.turkish "Turco">
+<!ENTITY font.langGroup.unicode "Altre lingue">
+<!ENTITY font.langGroup.user-def "Definito dall'utente">
+<!ENTITY font.langGroup.thai "Thai">
+<!ENTITY font.langGroup.hebrew "Ebraico">
+<!ENTITY font.langGroup.arabic "Arabo">
+<!ENTITY font.langGroup.devanagari "Devanagari">
+<!ENTITY font.langGroup.tamil "Tamil">
+<!ENTITY font.langGroup.armenian "Armeno">
+<!ENTITY font.langGroup.bengali "Bengali">
+<!ENTITY font.langGroup.canadian "Sillabario unificato canadese">
+<!ENTITY font.langGroup.ethiopic "Etiope">
+<!ENTITY font.langGroup.georgian "Georgiano">
+<!ENTITY font.langGroup.gujarati "Gujarati">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
+<!ENTITY font.langGroup.khmer "Khmer">
+<!ENTITY font.langGroup.malayalam "Malayalam">
+<!ENTITY minSize.label "Dim. minima carattere:">
+<!ENTITY minSize.accesskey "m">
+<!ENTITY minSize.none "Nessuna">
+<!ENTITY useDefaultFontSerif.label "Con grazie">
+<!ENTITY useDefaultFontSansSerif.label "Senza grazie">
+<!ENTITY newLanguages.label "Nuove lingue possono essere configurate usando il Pannello Lingue.">
+<!ENTITY useDocumentFonts.label "Consenti ai messaggi di usare altri caratteri">
+<!ENTITY useDocumentFonts.accesskey "o">
+<!ENTITY sendDefaultCharset.label "Posta in uscita:">
+<!ENTITY sendDefaultCharset.accesskey "o">
+<!ENTITY languagesTitle1.label "Codifica carattere">
+<!ENTITY composingDescription.label "Impostare la codifica carattere predefinita per l'invio e la ricezione della posta">
+<!ENTITY viewDefaultCharsetList.label "Posta in arrivo:">
+<!ENTITY viewDefaultCharsetList.accesskey "n">
+<!ENTITY replyInDefaultCharset2.label "Quando possibile utilizzare la codifica carattere predefinita nelle risposte">
+<!ENTITY replyInDefaultCharset2.accesskey "u">

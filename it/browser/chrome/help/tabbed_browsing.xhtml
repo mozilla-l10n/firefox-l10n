@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  Daniel Wang (original author)
+  Jeff Walden <jwalden+code@mit.edu> (minor editorial nits, XHTML conversion)
+  Steffen Wilberg <steffen.wilberg@web.de> (minor editorial nits)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Navigazione a schede</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Navigazione a schede</h1>
+
+<p>La navigazione a schede permette di navigare aprendo delle schede, ognuna contenente una pagina web, all'interno
+  di una singola finestra di &brandShortName;; ad esempio &egrave; possibile aprire i collegamenti in nuove schede in modo che vengano
+  caricati senza interrompere la lettura della pagina corrente.  Non &egrave; obbligatorio 
+  utilizzare la navigazione a schede, ma provando si scoprir&agrave; che &egrave; un modo migliore 
+  e pi&ugrave; veloce di navigare il web.</p>
+
+<div class="contentsBox">In questa sezione:
+  <ul>
+    <li><a href="#creating_loading_tabs">Creare e utilizzare le schede</a></li>
+    <li><a href="#moving_tabs">Spostare le schede all'interno della finestra</a></li>
+    <li><a href="#closing_tabs">Chiudere e ripristinare le schede</a></li>
+    <li><a href="#customizing">Personalizzare la navigazione a schede</a></li>
+    <li><a href="#tips_tricks">Trucchi e suggerimenti</a></li>  
+  </ul>
+</div>
+
+<h2 id="creating_loading_tabs">Creare e utilizzare le schede</h2>
+
+<p>Per aprire una nuova scheda premere &accelKey;+<kbd>T</kbd>, selezionare <span
+   class="menuPath">File &gt; Nuova scheda</span> oppure fare doppio clic in uno spazio 
+   vuoto della barra delle schede.</p>
+
+<p>Per caricare un collegamento in una scheda &egrave; possibile:</p>
+
+<ul>
+    <li>fare clic con il tasto centrale del mouse sul collegamento (se si possiede 
+	    un mouse con la rotellina fare clic con la rotellina equivale a fare clic con il tasto centrale del mouse).</li>
+    <li>trascinare e rilasciare il collegamento in un punto vuoto della barra delle schede. 
+	    Se &egrave; aperta una sola pagina, la barra delle schede potrebbe essere nascosta. Consultare la pagina <a
+      href="#customizing">Personalizzare la navigazione a schede</a> per ulteriori informazioni.</li>
+    <li>trascinare e rilasciare il collegamento su una scheda per caricare il collegamento all'interno della scheda.</li>
+    <li><span class="noMac">fare clic con il tasto destro del mouse </span><span
+      class="mac">&accelKey;+clic</span> sul collegamento e scegliere <span
+      class="menuPath">Apri in una nuova scheda</span> dal menu contestuale.</li>
+</ul>
+
+<p>Per aprire un indirizzo digitato nella barra degli indirizzi all'interno di una nuova scheda, inserire l'URL e premere
+    &altKey;+&enterKey;.</p>
+
+<h2 id="moving_tabs">Spostare le schede all'interno della finestra</h2>
+
+<p>Le schede vengono visualizzate nell'ordine in cui vengono aperte; naturalmente questo potrebbe non essere il comportamento
+    preferito. Per spostare una scheda in una posizione diversa all'interno della finestra di 
+    &brandShortName; &egrave; sufficiente trascinarla nella posizione desiderata usando il mouse.  Durante il trascinamento
+    della scheda &brandShortName; visualizzer&agrave; un piccolo indicatore per mostrare dove verr&agrave;
+	  posizionata la scheda. In alternativa &egrave; possibile utilizzare le 
+    <a href="#keyboard_shortcuts">scorciatoie da tastiera</a> per riordinare le schede all'interno della 
+	  finestra.</p>	
+
+<h2 id="closing_tabs">Chiudere e ripristinare le schede</h2>
+
+<p>Per chiudere la scheda corrente premere &accelKey;+<kbd>W</kbd>, fare clic sul pulsante 
+    Chiudi scheda, fare clic con il tasto centrale del mouse sulla scheda oppure selezionare il menu <span class="menuPath">File &gt;
+    Chiudi scheda</span>. Per chiudere tutte le schede eccetto quella corrente <span
+    class="noMac">fare clic con il tasto destro del mouse sulla scheda </span>
+	  <span class="mac">fare &accelKey;+clic sulla scheda</span> 
+	  e scegliere <span class="menuPath">Chiudi altre schede</span>.</p>  
+	
+<p>&brandShortName; mantiene un elenco delle ultime schede chiuse. &Egrave; possibile ripristinare 
+	una scheda selezionandola dal menu <span class="menuPath">Cronologia &gt; Schede chiuse di recente</span>; 
+	per ripristinare tutte le schede selezionare <span class="menuPath">Cronologia &gt; Schede chiuse di recente &gt; 
+	Apri tutte in schede</span>. Utilizzare la combinazione di tasti &accelKey;+&shiftKey;+<kbd>T</kbd> per ripristinare 
+	l'ultima scheda chiusa: le schede verranno riaperte in ordine inverso rispetto alla sequenza di chiusura.</p>	
+
+<h2 id="customizing">Personalizzare la navigazione a schede</h2>
+<p>Per personalizzare la navigazione a schede selezionare &pref.menuPath; ed attivare il pannello 
+  <a href="prefs.xhtml#tabs_options"><em>Schede</em></a>.</p>	
+	
+<h2 id="tips_tricks">Trucchi e suggerimenti</h2>
+
+<dl>
+
+  <dt id="bookmarking_tabbed_browsing">Segnalibri e navigazione a schede</dt>
+  <dd>Per inserire nei segnalibri un gruppo di schede:</dd>
+  <dd>
+   <ol>
+    <li><span class="noUnix">Premere &accelKey;+&shiftKey;+<kbd>D</kbd> o      
+      selezionare </span><span class="unix">Selezionare </span>                           
+      <span class="menuPath">Segnalibri &gt; Tutte le schede nei segnalibri...</span> per memorizzare 
+      tutte le schede della finestra corrente in una cartella di segnalibri.</li>
+    <li>Per visualizzare un gruppo di segnalibri aprire la cartella dei segnalibri e selezionare <span
+      class="menuPath">Apri tutti in schede</span>.  &Egrave; possibile fare clic con il tasto centrale del mouse
+      sulla cartella per aprire tutti i segnalibri in essa contenuti all'interno di schede. I segnalibri si apriranno nelle schede esistenti e
+      non all'interno di nuove schede.</li>
+   </ol>
+  </dd>
+
+  <dt id="home_page_as_tabs">Schede come Pagina iniziale</dt>
+  <dd>Invece di utilizzare una sola pagina web come pagina iniziale &egrave; possibile utilizzare un 
+   intero gruppo di schede. Selezionare le pagine preferite ed aprirle in schede all'interno di una singola
+   finestra. Andare in &pref.menuPath; ed aprire il pannello <a href="prefs.xhtml#main_options"><em>Principale</em></a>.
+   Nella sezione <em>Avvio</em> premere il pulsante <em>Usa pagine correnti</em>. 
+   A questo punto facendo clic sul pulsante Pagina iniziale tutte le pagine
+   web desiderate si apriranno contemporaneamente con un solo 
+   clic.</dd>
+
+  <dt>Aggiungere un pulsante nella barra degli strumenti</dt>
+  <dd>&Egrave; possibile aggiungere un pulsante nella barra degli strumenti per aprire nuove schede (vedi 
+      <a href="customization.xhtml#rearranging_toolbar_items">riorganizzare 
+	    gli oggetti delle barre</a>).</dd>
+
+  <dt id="keyboard_shortcuts">Scorciatoie da tastiera</dt>
+  <dd>&brandShortName; possiede numerose scorciatoie relative alla navigazione a schede;
+    consultare la lista completa nella pagina <a
+    href="shortcuts.xhtml#windows_tabs">Scorciatoie da tastiera</a>.</dd>
+
+</dl>
+
+<div class="contentsBox"><em>12 Settembre 2006</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!ENTITY itemGeneral.label "Generale">
+<!ENTITY itemAutoComplete.label "Indirizzi">
+<!ENTITY itemSpellCheck.label "Ortografia">
+<!ENTITY itemSendFormat.label "Opzioni di invio">
+<!ENTITY forwardReply.label "Inoltro messaggi">
+<!ENTITY forwardMsg.label "Inoltra i messaggi:">
+<!ENTITY forwardMsg.accesskey "I">
+<!ENTITY inline.label "nel corpo del messaggio">
+<!ENTITY inline.accesskey "I">
+<!ENTITY asAttachment.label "come allegati">
+<!ENTITY asAttachment.accesskey "A">
+<!ENTITY addExtension.label "aggiungere l'estensione al nome del file">
+<!ENTITY addExtension.accesskey "f">
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "Carattere:">
+<!ENTITY font.accesskey "c">
+<!ENTITY size.label "Dimensione:">
+<!ENTITY size.accesskey "s">
+<!ENTITY fontColor.label "Colore del testo:">
+<!ENTITY fontColor.accesskey "o">
+<!ENTITY bgColor.label "Colore di sfondo:">
+<!ENTITY bgColor.accesskey "l">
+<!ENTITY restoreHTMLDefaults.label "Ripristina predefiniti">
+<!ENTITY restoreHTMLDefaults.accesskey "R">
+<!ENTITY sendingMessagesHeader.label "Composizione messaggi">
+<!ENTITY spellCheck.label "Controlla ortografia prima di inviare">
+<!ENTITY spellCheck.accesskey "C">
+<!ENTITY spellCheckInline.label "Abilita il controllo ortografico durante la digitazione">
+<!ENTITY spellCheckInline1.accesskey "n">
+<!ENTITY languagePopup.label "Lingua:">
+<!ENTITY languagePopup.accessKey "g">
+<!ENTITY downloadDictionaries.label "Scarica altri dizionari">
+<!ENTITY useMIME.label "Per i messaggi che contengono caratteri ad 8 bit, usa la codifica MIME 'quoted printable'. ">
+<!ENTITY useMIME.accesskey "g">
+<!ENTITY warnOnSendAccelKey.label "Chiedi conferma quando si usa una scorciatoia da tastiera per spedire il messaggio">
+<!ENTITY warnOnSendAccelKey.accesskey "F">
+<!ENTITY autoSave.label "Salvataggio automatico ogni">
+<!ENTITY autoSave.accesskey "v">
+<!ENTITY autoSaveEnd.label "minuti">
+<!ENTITY wrapOutMsg.label "I messaggi di testo vanno a capo dopo">
+<!ENTITY wrapOutMsg.accesskey "p">
+<!ENTITY char.label "caratteri">
+<!ENTITY emailCollectionPicker.label "Aggiungi automaticamente l'indirizzo della posta in uscita a:">
+<!ENTITY emailCollectionPicker.accesskey "t">
+<!ENTITY addressingTitle.label "Completamento automatico indirizzi">
+<!ENTITY autocompleteText.label "Durante la scrittura dell'indirizzo controlla le corrispondenze in:">
+<!ENTITY addressingEnable.label "Rubriche locali">
+<!ENTITY addressingEnable.accesskey "u">
+<!ENTITY directories.label "Rubrica remota:">
+<!ENTITY directories.accesskey "R">
+<!ENTITY editDirectories.label "Modifica cartelle...">
+<!ENTITY editDirectories.accesskey "M">
+<!ENTITY matchText.label "Se c'è una corrispondenza nelle rubriche locali:">
+<!ENTITY skipDirectory.label "Non cercare nella cartella">
+<!ENTITY sendOptionsCaption.label "Opzioni di invio e HTML">
+<!ENTITY sendOptionsDescription.label "Configura la formattazione del testo:">
+<!ENTITY sendOptions.label "Opzioni di invio...">
+<!ENTITY sendOptions.accesskey "d">

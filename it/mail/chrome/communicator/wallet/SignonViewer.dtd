@@ -1,0 +1,15 @@
+<!ENTITY windowtitle.label "Gestione password">
+<!ENTITY windowalttitle.label "Gestione moduli: siti">
+<!ENTITY tab.signonsstored.label "Password salvate">
+<!ENTITY tab.signonsnotstored.label "Password da non salvare">
+<!ENTITY tab.nopreview.label "Moduli conferma automatica">
+<!ENTITY tab.nocapture.label "Moduli da non salvare">
+<!ENTITY spiel.signonsstored.label "Il programma ha salvato le informazioni di accesso per i seguenti siti:">
+<!ENTITY spiel.signonsnotstored.label "Il programma non salverà le informazioni di accesso per i seguenti siti:">
+<!ENTITY spiel.nopreview.label "Il programma non chiederà conferma per i singoli campi prima della compilazione automatica di moduli dei seguenti siti:">
+<!ENTITY spiel.nocapture.label "Il programma non chiederà di salvare moduli dai seguenti siti:">
+<!ENTITY treehead.site.label "Sito">
+<!ENTITY treehead.username.label "Nome utente">
+<!ENTITY treehead.password.label "Password">
+<!ENTITY remove.label "Elimina">
+<!ENTITY removeall.label "Rimuovi tutte">

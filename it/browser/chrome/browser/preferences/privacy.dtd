@@ -1,0 +1,32 @@
+<!ENTITY history.label "Cronologia">
+<!ENTITY rememberDaysBefore.label "Conserva la cronologia per almeno">
+<!ENTITY rememberDaysBefore.accesskey "v">
+<!ENTITY rememberDaysAfter2.label "giorni">
+<!ENTITY rememberForms.label "Salva le informazioni inserite nei moduli e nella barra di ricerca">
+<!ENTITY rememberForms.accesskey "z">
+<!ENTITY rememberDownloads.label "Ricorda i file scaricati">
+<!ENTITY rememberDownloads.accesskey "R">
+<!ENTITY cookies.label "Cookie">
+<!ENTITY acceptCookies.label "Accetta i cookie dai siti">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.label "Accetta i cookie di terze parti">
+<!ENTITY acceptThirdParty.accesskey "t">
+<!ENTITY keepUntil.label "Conservali fino:">
+<!ENTITY keepUntil.accesskey "o">
+<!ENTITY expire.label "alla loro scadenza">
+<!ENTITY close.label "alla chiusura di &brandShortName;">
+<!ENTITY askEachTime.label "chiedi ogni volta">
+<!ENTITY cookieExceptions.label "Eccezioni…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Mostra i cookie…">
+<!ENTITY showCookies.accesskey "M">
+<!ENTITY privateData.label "Dati personali">
+<!ENTITY alwaysClear.label "Elimina sempre i dati personali alla chiusura di &brandShortName;">
+<!ENTITY alwaysClear.accesskey "n">
+<!ENTITY askBeforeClear.label "Chiedi prima di eliminare i dati personali">
+<!ENTITY askBeforeClear.accesskey "C">
+<!ENTITY clearDataSettings.label "Impostazioni…">
+<!ENTITY clearDataSettings.accesskey "s">
+<!ENTITY clearDataNow.label "Svuota adesso…">
+<!ENTITY clearDataNow.label2 "Svuota adesso">
+<!ENTITY clearDataNow.accesskey "u">

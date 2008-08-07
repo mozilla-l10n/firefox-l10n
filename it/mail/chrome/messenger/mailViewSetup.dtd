@@ -1,0 +1,4 @@
+<!ENTITY mailViewSetupTitle.label "Impostazione vista messaggi">
+<!ENTITY mailViewHeading.label "Nome vista messaggio:">
+<!ENTITY mailViewHeading.accesskey "N">
+<!ENTITY searchTermCaption.label "Quando è selezionata questa vista, mostra solo i messaggi che per:">

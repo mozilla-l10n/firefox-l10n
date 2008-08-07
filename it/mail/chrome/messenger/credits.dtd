@@ -1,0 +1,29 @@
+<!ENTITY credit.title "Crediti &brandFullName;">
+<!ENTITY brandMotto "Thunderbird si è alzato in volo!">
+<!ENTITY credit.leads "Ingegnerizzazione">
+<!ENTITY credit.core "Sviluppo">
+<!ENTITY credit.gecko "Motore Gecko">
+<!ENTITY credit.thanks "Ringraziamenti a ">
+<!ENTITY credit.translation "<h3>Traduzione italiana:</h3>
+<ul><li>Roberto Principiano</li></ul>
+<h3>Controllo qualità:</h3>
+<ul><li>Associazione Italiana  Supporto e Traduzione Mozilla</li>
+<li>Francesco Lodolo</li>
+<li>Giacomo Magnini</li>
+<li>Michele Dal Corso</li></ul>">
+<!ENTITY credit.visuals "Coordinatore parte visiva">
+<!ENTITY credit.theme "Realizzazione tema">
+<!ENTITY credit.brand "Nome brand">
+<!ENTITY credit.web "Sviluppo web">
+<!ENTITY credit.update "Aggiornamento Mozilla">
+<!ENTITY credit.qalead "Gestione controllo qualità">
+<!ENTITY credit.qa "Controllo qualità">
+<!ENTITY credit.build "Realizzazione e build">
+<!ENTITY credit.infra "Infrastruttura di supporto">
+<!ENTITY credit.support "Risorse di supporto">
+<!ENTITY credit.manage "Project Management">
+<!ENTITY credit.marketleads "Controllo Marketing">
+<!ENTITY credit.market "Marketing">
+<!ENTITY credit.creators "Creato da">
+<!ENTITY credit.memory "In memoria di">
+<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

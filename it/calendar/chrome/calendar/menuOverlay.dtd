@@ -1,0 +1,252 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 Matthew Willis <mattwillis@gmail.com>
+   -                 Stefan Sitter <ssitter@googlemail.com>
+   -                 Berend Cornelius <berend.cornelius@sun.com>
+   -   Iacopo Benesperi
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY event.menu.label "Evento">
+<!ENTITY event.menu.accesskey "E">
+<!ENTITY event.new.event "Nuovo evento…">
+<!ENTITY event.new.event.key "N">
+<!ENTITY event.new.event.accesskey "u">
+<!ENTITY event.new.todo "Nuova attività…">
+<!ENTITY event.new.todo.key "T">
+<!ENTITY event.new.todo.accesskey "T">
+<!ENTITY calendar.new.server.label "Nuovo file calendario…">
+<!ENTITY calendar.new.server.key "L">
+<!ENTITY calendar.new.server.accesskey "o">
+<!ENTITY calendar.new.journal.label "Nuovo oggetto giornaliero…">
+<!ENTITY calendar.new.journal.key "G">
+<!ENTITY calendar.new.journal.accesskey "v">
+<!ENTITY calendar.open.file.label "Apri file calendario…">
+<!ENTITY calendar.open.file.key "A">
+<!ENTITY calendar.open.file.accesskey "A">
+<!ENTITY event.edit.event "Modifica selezione…">
+<!ENTITY event.edit.event.key "E">
+<!ENTITY event.edit.event.accesskey "M">
+<!ENTITY event.delete.event "Elimina eventi selezionati">
+<!ENTITY event.delete.event.accesskey "E">
+<!ENTITY event.delete.tasks "Elimina attività selezionate">
+<!ENTITY event.delete.tasks.accesskey "n">
+<!ENTITY event.mail.event "Invia selezione per e-mail…">
+<!ENTITY event.mail.event.key "M">
+<!ENTITY event.mail.event.accesskey "M">
+<!ENTITY calendar.print.label "Stampa…">
+<!ENTITY calendar.print.key "S">
+<!ENTITY calendar.print.accesskey "S">
+<!ENTITY calendar.printpreview.label "Anteprima di stampa">
+<!ENTITY calendar.printpreview.accesskey "p">
+<!ENTITY calendar.pagesetup.label "Imposta pagina…">
+<!ENTITY calendar.pagesetup.accesskey "I">
+<!ENTITY calendar.import.label "Importa…">
+<!ENTITY calendar.import.key "m">
+<!ENTITY calendar.import.accesskey "m">
+<!ENTITY calendar.wizard.label "Avvia wizard…">
+<!ENTITY calendar.wizard.accesskey "W">
+<!ENTITY calendar.export.label "Esporta selezione…">
+<!ENTITY calendar.export.accesskey "z">
+<!ENTITY calendar.export.calendar.label "Esporta calendario...">
+<!ENTITY calendar.export.calendar.accesskey "c">
+<!ENTITY calendar.export.selection.label "Esporta selezione...">
+<!ENTITY calendar.export.selection.accesskey "n">
+<!ENTITY calendar.subscribe.label "Sottoscrivi un calendario remoto…">
+<!ENTITY calendar.subscribe.accesskey "r">
+<!ENTITY calendar.reloadserver.label "Ricarica calendari remoti">
+<!ENTITY calendar.reloadserver.key "R">
+<!ENTITY calendar.reloadserver.accesskey "d">
+<!ENTITY calendar.publish.label "Pubblica…">
+<!ENTITY calendar.publish.accesskey "b">
+<!ENTITY calendar.publish.calendar.label "Pubblica calendario...">
+<!ENTITY calendar.publish.calendar.accesskey "P">
+<!ENTITY calendar.publish.selection.label "Pubblica selezione...">
+<!ENTITY calendar.publish.selection.accesskey "z">
+<!ENTITY calendar.quit.label "Esci">
+<!ENTITY calendar.quit.accesskey "E">
+<!ENTITY calendar.quit.label.mac "Chiudi &brandShortName;">
+<!ENTITY calendar.quit.key.mac "C">
+<!ENTITY calendar.quit.modifiers.mac "accel">
+<!ENTITY calendar.exit.label "Esci">
+<!ENTITY calendar.exit.accesskey "E">
+<!ENTITY calendar.about.label "Informazioni su Calendar">
+<!ENTITY calendar.about.accesskey "C">
+<!ENTITY calendar.undo.label "Annulla">
+<!ENTITY calendar.undo.key "Z">
+<!ENTITY calendar.undo.accesskey "A">
+<!ENTITY calendar.redo.label "Ripristina">
+<!ENTITY calendar.redo.key "Y">
+<!ENTITY calendar.redo.accesskey "R">
+<!ENTITY calendar.cut.label "Taglia">
+<!ENTITY calendar.cut.key "X">
+<!ENTITY calendar.cut.accesskey "T">
+<!ENTITY calendar.copy.label "Copia">
+<!ENTITY calendar.copy.key "C">
+<!ENTITY calendar.copy.accesskey "C">
+<!ENTITY calendar.paste.label "Incolla">
+<!ENTITY calendar.paste.key "V">
+<!ENTITY calendar.paste.accesskey "I">
+<!ENTITY calendar.selectall.label "Seleziona tutto">
+<!ENTITY calendar.selectall.key "A">
+<!ENTITY calendar.selectall.accesskey "S">
+<!ENTITY toolbarsMenu.label "Barre degli strumenti">
+<!ENTITY toolbarsMenu.accesskey "B">
+<!ENTITY calendar.toolbar.label "Barra degli strumenti calendario">
+<!ENTITY calendar.toolbar.accesskey "B">
+<!ENTITY mode.toolbar.label "Modalità barra degli strumenti">
+<!ENTITY mode.toolbar.accesskey "M">
+<!ENTITY calendar.menu.customize.label "Personalizza…">
+<!ENTITY calendar.menu.customize.accesskey "P">
+<!ENTITY calendar.preferences.label "Preferenze…">
+<!ENTITY calendar.preferences.accesskey "P">
+<!ENTITY showSearchToolbarCmd.label "Barra di ricerca">
+<!ENTITY showSearchToolbarCmd.accesskey "c">
+<!ENTITY showStatusBarCmd.label "Barra di stato">
+<!ENTITY showStatusBarCmd.accesskey "d">
+<!ENTITY showTaskBoxCmd.label "Lista attività">
+<!ENTITY showTaskBoxCmd.accesskey "L">
+<!ENTITY calendar.displaytodos.checkbox.label "Mostra attività nel calendario">
+<!ENTITY calendar.displaytodos.checkbox.accesskey "T">
+<!ENTITY calendar.menu.numberofweeks.label "Dimensione vista multi-settimana">
+<!ENTITY calendar.menu.numberofweeks.2 "Due settimane">
+<!ENTITY calendar.menu.numberofweeks.3 "Tre settimane">
+<!ENTITY calendar.menu.numberofweeks.4 "Quattro settimane">
+<!ENTITY calendar.menu.numberofweeks.5 "Cinque settimane">
+<!ENTITY calendar.menu.numberofweeks.6 "Sei settimane">
+<!ENTITY calendar.fullscreen.label "Schermo intero">
+<!ENTITY calendar.fullscreen.accesskey "o">
+<!ENTITY calendar.addons.label "Componenti aggiuntivi">
+<!ENTITY calendar.addons.accesskey "n">
+<!ENTITY goMenu.label "Vai">
+<!ENTITY goMenu.accesskey "a">
+<!ENTITY goTodayCmd.label "Vai a oggi">
+<!ENTITY goTodayCmd.accesskey "o">
+<!ENTITY goDateCmd.label "Vai alla data">
+<!ENTITY goDateCmd.accesskey "d">
+<!ENTITY goPreviousCmd.day.label "Giorno precedente">
+<!ENTITY goPreviousCmd.week.label "Settimana precedente">
+<!ENTITY goPreviousCmd.month.label "Mese precedente">
+<!ENTITY goPreviousCmd.accesskey "P">
+<!ENTITY goNextCmd.day.label "Giorno successivo">
+<!ENTITY goNextCmd.week.label "Settimana successiva">
+<!ENTITY goNextCmd.month.label "Mese successivo">
+<!ENTITY goNextCmd.accesskey "S">
+<!ENTITY taskMenu.label "Attività">
+<!ENTITY taskMenu.accesskey "A">
+<!ENTITY toolsMenu.label "Strumenti">
+<!ENTITY toolsMenu.accesskey "S">
+<!ENTITY errorConsoleCmd.label "Console errori">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY navigatorCmd.label "Browser">
+<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY messengerCmd.label "Posta">
+<!ENTITY messengerCmd.accesskey "P">
+<!ENTITY addressBookCmd.label "Rubrica">
+<!ENTITY addressBookCmd.accesskey "R">
+<!ENTITY helpMenu.label "?">
+<!ENTITY helpMenu.accesskey "?">
+<!ENTITY helpMenuWin.label "?">
+<!ENTITY helpMenuWin.accesskey "?">
+<!ENTITY walletPasswordManager.label "Gestione password">
+<!ENTITY walletPasswordManager.accesskey "G">
+<!ENTITY fileMenu.label "File">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY editMenu.label "Modifica">
+<!ENTITY editMenu.accesskey "M">
+<!ENTITY optionsCmd.label "Opzioni...">
+<!ENTITY optionsCmd.accesskey "O">
+<!ENTITY preferencesCmd.label "Opzioni…">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdMac.label "Preferenze...">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY viewMenu.label "Visualizza">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY releaseCmd.label "Note di rilascio">
+<!ENTITY releaseCmd.accesskey "N">
+<!ENTITY aboutCmd.label "Informazioni su &brandFullName;">
+<!ENTITY aboutCmd.accesskey "I">
+<!ENTITY updateCmd.label "Controlla gli aggiornamenti…">
+<!ENTITY updateCmd.accesskey "a">
+<!ENTITY windowMenu.label "Finestra">
+<!ENTITY minimizeWindow.label "Contrai">
+<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY minimizeWindow.key "C">
+<!ENTITY bringAllToFront.label "Porta tutto in primo piano">
+<!ENTITY servicesMenuMac.label "Servizi">
+<!ENTITY hideThisAppCmdMac.label "Nascondi &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "N">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+<!ENTITY hideOtherAppsCmdMac.label "Nascondi altri">
+<!ENTITY hideOtherAppsCmdMac.commandkey "N">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+<!ENTITY showAllAppsCmdMac.label "Mostra tutti">
+<!ENTITY calendar.importcalendar.label "Importa calendario…">
+<!ENTITY calendar.importcalendar.accesskey "I">
+<!ENTITY calendar.delete.label "Elimina">
+<!ENTITY calendar.delete.accesskey "E">
+<!ENTITY showCalendarlist.label "Lista calendario">
+<!ENTITY showCalendarlist.accesskey "L">
+<!ENTITY showCurrentView.label "Vista corrente">
+<!ENTITY showCurrentView.accesskey "V">
+<!ENTITY task.menu.label "Attività">
+<!ENTITY task.menu.accesskey "A">
+<!ENTITY day.menu.label "Giorno">
+<!ENTITY day.menu.accesskey "G">
+<!ENTITY week.menu.label "Settimana">
+<!ENTITY week.menu.accesskey "S">
+<!ENTITY month.menu.label "Mese">
+<!ENTITY month.menu.accesskey "M">
+<!ENTITY next.menu.label "Successivo">
+<!ENTITY next.menu.accesskey "S">
+<!ENTITY previous.menu.label "Precedente">
+<!ENTITY previous.menu.accesskey "P">
+<!ENTITY calendar.subscribeshort.label "Sottoscrivi…">
+<!ENTITY calendar.subscribeshort.accesskey "S">
+<!ENTITY calendar.unsubscribeshort.label "Rimuovi sottoscrizione…">
+<!ENTITY calendar.unsubscribeshort.accesskey "R">
+<!ENTITY calendar.properties.label "Proprietà calendario…">
+<!ENTITY calendar.properties.accesskey "P">
+<!ENTITY calendar.showtasks.label "Mostra attività…">
+<!ENTITY calendar.showtasks.accesskey "a">
+<!ENTITY series.selectpastevents.label "Eventi passati di questa serie">
+<!ENTITY series.selectpastevents.accesskey "a">
+<!ENTITY series.selectfutureevents.label "Eventi futuri di questa serie">
+<!ENTITY series.selectfutureevents.accesskey "u">
+<!ENTITY series.selectallevents.label "Tutti gli eventi di questa serie">
+<!ENTITY series.selectallevents.accesskey "T">
+<!ENTITY calendar.selectallevents.label "Tutti gli eventi di questo calendario">
+<!ENTITY calendar.selectallevents.accesskey "T">

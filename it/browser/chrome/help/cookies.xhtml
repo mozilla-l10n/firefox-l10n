@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;    
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>  
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Gestione dei cookie</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+<h1>Gestione dei cookie</h1>
+
+<p>Questo documento spiega cosa sono i cookie, come vengono utilizzati e come sia possibile 
+   gestire i cookie memorizzati nel proprio computer utilizzando gli strumenti disponibili  
+   in &brandFullName;.</p>
+
+<div class="contentsBox">In questa sezione:
+  <ul>
+    <li><a href="#what_is_a_cookie">Cosa &egrave; un cookie?</a></li>
+    <li><a href="#setting_up_cookie_rules">Impostare le regole per i cookie</a></li>
+    <li><a href="#accepting_and_blocking_cookies">Accettare e bloccare i cookie</a></li>
+    <li><a href="#cookies_exceptions">La finestra Eccezioni - Cookie</a></li>
+    <li><a href="#view_cookies">La finestra Cookie</a></li>        
+  </ul>
+</div>
+
+<h2 id="what_is_a_cookie">Cosa &egrave; un cookie?</h2>
+
+<p>Un cookie &egrave; un file creato da un sito web per memorizzare informazioni all'interno 
+  del proprio computer, ad esempio le preferenze relative alla navigazione all'interno del sito.  
+  Quando si visita un sito che sfrutta i cookie, questo pu&ograve; richiedere a &brandShortName; 
+  di creare uno o pi&ugrave; cookie all'interno del proprio disco fisso.</p>
+
+<p>Successivamente, quando si ritorna su un sito gi&agrave; visitato, &brandShortName; provvede a reinviare i cookie
+  che quello stesso sito aveva impostato precedentemente. Questo permette al sito di presentare informazioni personalizzate
+  in base alle esigenze del visitatore.</p>
+
+<p>I cookie possono anche memorizzare i dati identificativi dell'utente. Per dati identificativi 
+   si intendono quei dati che possono essere utilizzati per identificare o contattare l'utente, 
+   come il proprio nome, indirizzo e-mail, indirizzo di casa o dell'ufficio, o il numero di telefono. 
+   In ogni caso qualsiasi sito ha accesso solo alle informazioni personali che vengono esplicitamente fornite. 
+   Ad esempio un sito web non pu&ograve; ottenere l'indirizzo e-mail del visitatore a meno che non venga fornito
+   direttamente dall'utente e non pu&ograve; avere accesso agli altri dati presenti sul computer.</p>
+
+<p>Utilizzando le impostazioni predefinite la gestione dei cookie &egrave; invisibile 
+   per l'utente, che non vedr&agrave; quando un sito imposta un cookie o quando &brandShortName;
+   reinvia informazioni ad un sito. Se lo si desidera, &egrave; possibile impostare le &pref.plural; in modo che 
+   venga visualizzato un avviso quando un sito Internet cerca di creare un cookie o limitare
+   la validit&agrave; dei cookie alla sessione corrente di &brandShortName;.</p>
+
+<h2 id="setting_up_cookie_rules">Impostare le regole per i cookie</h2>
+
+<p>Come comportamento predefinito &brandShortName; accetta tutti i cookie, compresi quelli che permettono
+  ad un sito di identificare l'utente senza limiti temporali; per evitarlo 
+  &egrave; possibile impostare &brandShortName; in modo che elimini tutti i cookie alla
+  chiusura del browser:</p>
+
+<ol>
+  <li>Selezionare &pref.menuPath; e aprire il pannello Privacy.</li>
+  <li>Selezionare <em>alla chiusura di &brandShortName;</em> dal menu a discesa   
+  <span class="menuPath">Conservali fino:</span>.</li>
+</ol>
+
+<p>Se si desidera garantire ai siti affidabili la possibilit&agrave; di memorizzare dei cookie in modo permanente
+  (ad esempio per permettere il login automatico in un sito), fare clic sul pulsante 
+  <a href="#cookies_exceptions"><em>Eccezioni...</em></a>, digitare l'indirizzo del sito
+  e fare clic sul pulsante <em>Permetti</em>.</p>
+
+<h3 id="all_the_settings">Opzioni complete</h3>
+
+<p>Di seguito un elenco completo delle &pref.plural; che permettono di modificare la gestione dei cookie di &brandShortName; :</p>
+
+<dl>
+  <dt>Accetta i cookie dai siti</dt>
+  <dd><p>Deselezionare questa opzione per fare in modo che nessun sito possa impostare 
+    dei cookie sul proprio computer: alcuni 
+    siti potrebbero non funzionare correttamente quando i cookie sono disabilitati. Se si desidera dare il permesso 
+    di impostare dei cookie solo ad alcuni siti, aprire la finestra <a href="#cookies_exceptions">Eccezioni - Cookie</a> 
+    facendo clic sul pulsante <em>Eccezioni...</em>, inserire l'indirizzo del sito e fare clic
+    su <em>Permetti</em> o <em>Permetti per la sessione</em>.</p></dd>
+  <dt>Conservali fino:</dt>
+  <dd>
+  <ul>
+    <li><em>alla loro scadenza</em><br/>
+	  Selezionando questa opzione i cookie verranno
+      rimossi quando raggiungono la data di scadenza.</li>
+    <li><em>alla chiusura di &brandShortName;</em><br/>
+	 Selezionando questa opzione i cookie verranno rimossi al riavvio di &brandShortName;. 
+	 I siti web che necessitano dei cookie per il loro funzionamento continueranno 
+	 a funzionare correttamente ma, ogni volta che si riavvia Firefox, il sito 
+	 si comporter&agrave; come se l'utente stesse accedendo per la prima 
+	 volta.</li>
+    <li><em>chiedi ogni volta</em><br/>
+	 Visualizza un avviso ogni volta che un sito web tenta di impostare
+     un cookie e chiede all'utente se desidera che questo cookie venga salvato.</li>
+  </ul>
+  </dd>
+</dl>
+
+<h2 id="accepting_and_blocking_cookies">Accettare e bloccare i cookie</h2>
+
+<p>Se si &egrave; impostato <em>chiedi ogni volta</em> nel menu a discesa <em>Conservali fino:</em>,
+  ogni volta che un sito tenta di salvare un cookie sul proprio computer 
+  verr&agrave; visualizzata una finestra di dialogo con le seguenti opzioni:</p>
+
+<dl>
+  <dt>Permetti</dt>
+  <dd>Per concedere l'impostazione di un determinato cookie fare clic su <em>Permetti</em>. Utilizzare
+  questa opzione se si considera il sito affidabile.</dd>
+  <dt>Permetti per la sessione</dt>
+  <dd>Per permettere l'impostazione temporanea del cookie e fare in modo che venga cancellato alla
+    chiusura di &brandShortName; fare clic su <em>Permetti per la sessione</em>. Utilizzare questa opzione
+    se il sito funziona correttamente solo con i cookie attivati e, allo stesso tempo, non si desidera conservare un cookie
+    permanente sul proprio computer.</dd>
+  <dt>Nega</dt>
+  <dd>Per impedire la creazione di un cookie fare clic su <em>Nega</em>. Utilizzare questa opzione
+    se non si ha fiducia nel sito o si ritiene che possa compromettere la propria privacy.</dd>
+  <dt>Utilizza questa scelta per tutti i cookie del sito corrente</dt>
+  <dd>Selezionare questa opzione prima di fare clic su uno degli altri pulsanti per fare in modo che
+    &brandShortName; si ricordi della scelta e non chieda in futuro come comportarsi. Il sito verr&agrave;
+    aggiunto alla lista <a href="#cookies_exceptions">Eccezioni - Cookie</a>,
+    dove sar&agrave; possibile modificare la propria decisione nel caso lo si ritenga necessario.</dd>
+</dl>
+
+<h2 id="cookies_exceptions">La finestra Eccezioni - Cookie</h2>
+
+<p>La finestra di dialogo Eccezioni - Cookie &egrave; accessibile facendo clic sul pulsante <em>Eccezioni...</em> all'interno
+  delle &pref.plural; per i cookie; in questa finestra &egrave; possibile gestire delle eccezioni per uno specifico
+  sito. Sfruttando le eccezioni si pu&ograve; fare in modo che tutti i cookie di un sito vengano accettati,
+  rifiutati o cancellati all'uscita da
+  &brandShortName; ignorando le impostazioni generali per i cookie.</p>
+
+<p>Per aggiungere un sito alla lista &egrave; sufficiente digitare il nome del dominio del sito nel campo
+  <em>Indirizzo del sito</em>. Fare clic su <em>Blocca</em> per rifiutare i cookie
+  da questo sito, fare clic su <em>Permetti</em> per accettarli
+  oppure fare clic su <em>Permetti per la sessione</em> per accettare i cookie 
+  ma eliminarli alla chiusura di &brandShortName;.</p>
+
+<p>Per rimuovere un sito dalla lista selezionarlo e fare clic su <em>Rimuovi Sito</em>. Per svuotare
+  completamente la lista fare clic su <em>Rimuovi tutti i siti</em>: questo eliminerà tutti i siti dall'elenco
+  e verranno applicate le &pref.plural; generali relative ai cookie.</p>
+
+<h2 id="view_cookies">La finestra Cookie</h2>
+
+<p>Utilizzare la finestra <em>Cookie</em> per visualizzare e rimuovere i cookie esistenti: per visualizzarla 
+  fare clic sul pulsante <em>Mostra i cookie...</em> nelle &pref.plural;.</p>
+
+<p>Questa finestra elenca tutti i cookie attualmente memorizzati nel proprio
+  computer raggruppati per sito: &egrave; possibile espandere un sito e selezionare un singolo
+  cookie per visualizzare ulteriori informazioni. Per cercare un sito oppure un cookie &egrave; sufficiente 
+  digitare il nome nella barra di ricerca.</p>
+
+<p>Per rimuovere un cookie dall'elenco selezionarlo e fare clic su <em>Rimuovi cookie</em>.
+  Per rimuovere tutti i cookie di un sito, selezionare il sito e fare clic su <em>Rimuovi 
+  cookie</em>. Per eliminare tutti i cookie fare clic su <em>Rimuovi tutti i cookie</em>.</p>
+
+<div class="contentsBox"><em>12 Settembre 2005</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

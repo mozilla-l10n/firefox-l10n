@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title "Elimina i dati personali">
+<!ENTITY sanitizeItems.label "Cancella adesso i seguenti elementi:">
+<!ENTITY clearDataSettings.label "Quando si richiede a &brandShortName; di eliminare i dati personali, devono essere cancellati:">
+<!ENTITY itemHistory.label "Cronologia navigazione">
+<!ENTITY itemHistory.accesskey "r">
+<!ENTITY itemFormSearchHistory.label "Dati salvati nei moduli e cronologia ricerche">
+<!ENTITY itemFormSearchHistory.accesskey "n">
+<!ENTITY itemPasswords.label "Password salvate">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "Cookie">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "Cache">
+<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemOfflineApps.label "Dati siti web non in linea">
+<!ENTITY itemOfflineApps.accesskey "w">
+<!ENTITY itemDownloads.label "Cronologia download">
+<!ENTITY itemDownloads.accesskey "d">
+<!ENTITY itemSessions.label "Sessioni autenticate">
+<!ENTITY itemSessions.accesskey "S">
+<!ENTITY window.width "30em">

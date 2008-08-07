@@ -1,0 +1,10 @@
+<!ENTITY pref.publish.title "Pubblica">
+<!ENTITY composerHeader.label "Pubblicazione">
+<!ENTITY maintainCheckbox.label "Mantenere collegamenti">
+<!ENTITY keepCheck.label "Mantenere immagini con la pagina">
+<!ENTITY adjustDesc.label "Aggiornare i collegamenti affinché funzionino dall'ubicazione della pagina. (I collegamenti a pagine locali funzioneranno quando esistono versioni locali.)">
+<!ENTITY saveDesc.label "Salva copie delle immagini all'indirizzo della pagina. Le immagini appariranno sia nelle versione locale della pagina sia quando la pagina sarà pubblicata.">
+<!ENTITY tip.label "Consiglio: Spuntare entrambe le opzioni se si usa la pubblicazione da remoto.">
+<!ENTITY defaultHeader.label "Indirizzo predefinito di pubblicazione">
+<!ENTITY publishFtp.label "Se la pubblicazione è tramite FTP, inserire l'indirizzo HTTP da raggiungere:">
+<!ENTITY publishhtp.label "Se la pubblicazione è tramite FTP, inserire l'indirizzo HTTP da raggiungere:">

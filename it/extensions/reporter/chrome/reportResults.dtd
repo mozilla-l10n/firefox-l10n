@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Sito">
+<!ENTITY reportProblemType "Tipo di problema">
+<!ENTITY reportDecsription "Descrizione">
+<!ENTITY reportPlatform "Piattaforma">
+<!ENTITY reportProduct "Prodotto">
+<!ENTITY reportoscpu "Sistema operativo">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Configurazione build">
+<!ENTITY reportUseragent "Stringa browser">
+<!ENTITY reportLanguage "Lingua">
+<!ENTITY reportCharset "Charset">
+<!ENTITY reportEmail "E-mail">
+<!ENTITY error "Dettagli errore">
+<!ENTITY faultCode "Codice">
+<!ENTITY faultMessage "Messaggio">

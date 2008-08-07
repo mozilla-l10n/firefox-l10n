@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Rapporto filtri">
+<!ENTITY viewLogInfo.text "Il rapporto dei filtri è un file che elenca tutte le azioni svolte dai filtri. Spuntare la casella per abilitare il rapporto.">
+<!ENTITY clearLog.label "Svuota rapporto">
+<!ENTITY clearLog.accesskey "S">
+<!ENTITY enableLog.label "Abilita rapporto filtri">
+<!ENTITY enableLog.accesskey "A">
+<!ENTITY closeLog.label "Chiudi">
+<!ENTITY closeLog.accesskey "h">

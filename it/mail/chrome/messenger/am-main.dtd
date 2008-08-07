@@ -1,0 +1,28 @@
+<!ENTITY accountTitle.label "Impostazioni account">
+<!ENTITY accountName.label "Nome account:">
+<!ENTITY accountName.accesskey "m">
+<!ENTITY accountNameDesc.label "Il nome account è usato per identificare ogni account">
+<!ENTITY identityTitle.label "Identità predefinita">
+<!ENTITY identityDesc.label "Ogni account ha la propria identità cioè le informazioni che le altre persone vedono quando leggono i messaggi.">
+<!ENTITY name.label "Nome:">
+<!ENTITY name.accesskey "N">
+<!ENTITY email.label "Indirizzo email:">
+<!ENTITY email.accesskey "I">
+<!ENTITY replyTo.label "Indirizzo per risposte:">
+<!ENTITY replyTo.accesskey "s">
+<!ENTITY organization.label "Organizzazione:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "Allega questa firma:">
+<!ENTITY signature.accesskey "l">
+<!ENTITY edit.label "Modifica...">
+<!ENTITY choose.label "Scegliere...">
+<!ENTITY choose.accesskey "C">
+<!ENTITY editVCard.label "Modifica scheda...">
+<!ENTITY editVCard.accesskey "d">
+<!ENTITY attachVCard.label "Allega biglietto da visita elettronico (vCard) ai messaggi">
+<!ENTITY attachVCard.accesskey "v">
+<!ENTITY manageIdentities.label "Gestione identità...">
+<!ENTITY manageIdentities.accesskey "G">
+<!ENTITY smtpName.label "Server in uscita (SMTP)">
+<!ENTITY smtpName.accesskey "u">
+<!ENTITY smtpDefaultServer.label "Usare il server predefinito">

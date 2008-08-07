@@ -1,0 +1,6 @@
+<!ENTITY caption.label "Finestre bloccate">
+<!ENTITY intro.label "Alle seguenti pagine è stato impedito di aprire finestre pop-up non richieste:">
+<!ENTITY done.label "Fatto">
+<!ENTITY done.accesskey "F">
+<!ENTITY unblock.label "Sblocca sito">
+<!ENTITY unblock.accesskey "S">
