@@ -1,0 +1,17 @@
+<!ENTITY     windowtitle.label             "Wachtwoordenbeheerder">
+<!ENTITY     windowalttitle.label          "Formulierbeheerder: websites">
+<!ENTITY     tab.signonsstored.label       "Opgeslagen wachtwoorden">
+<!ENTITY     tab.signonsnotstored.label    "Nooit opgeslagen wachtwoorden">
+<!ENTITY     tab.nopreview.label           "Nooit bekeken formulieren">
+<!ENTITY     tab.nocapture.label           "Nooit opgeslagen formulieren">
+
+<!ENTITY     spiel.signonsstored.label     "Wachtwoordenbeheerder heeft login-informatie opgeslagen voor de volgende websites:">
+<!ENTITY     spiel.signonsnotstored.label  "Wachtwoordenbeheerder zal nooit login-informatie opslaan voor de volgende websites:">
+<!ENTITY     spiel.nopreview.label         "Formulierbeheerder zal nooit formulieren van de volgende websites vooruit bekijken alvorens ze voor u in te vullen:">
+<!ENTITY     spiel.nocapture.label         "Formulierbeheerder zal nooit vragen om formulieren van de volgende websites op te slaan:">
+
+<!ENTITY     treehead.site.label           "Website">
+<!ENTITY     treehead.username.label       "Gebruikersnaam">
+<!ENTITY     treehead.password.label       "Wachtwoord">
+<!ENTITY     remove.label                  "Verwijderen">
+<!ENTITY     removeall.label               "Alle verwijderen">

@@ -1,0 +1,55 @@
+<!ENTITY  history.label "Geschiedenis">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY  rememberDaysBefore.label      "Mijn geschiedenis voor minstens">
+<!ENTITY  rememberDaysBefore.accesskey  "e">
+<!ENTITY  rememberDaysAfter2.label      "dagen onthouden">
+
+<!ENTITY  rememberForms.label           "Informatie die ik invoer in webformulieren en de zoekbalk onthouden">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "Downloadgeschiedenis onthouden">
+<!ENTITY  rememberDownloads.accesskey   "D">
+
+
+<!ENTITY  cookies.label                 "Cookies">
+
+<!ENTITY  acceptCookies.label           "Cookies van websites accepteren">
+<!ENTITY  acceptCookies.accesskey       "C">
+
+<!ENTITY  acceptThirdParty.label        "Cookies van derden accepteren">
+<!ENTITY  acceptThirdParty.accesskey    "o">
+
+<!ENTITY  keepUntil.label               "Bewaren totdat:">
+<!ENTITY  keepUntil.accesskey           "B">
+
+<!ENTITY  expire.label                  "ze verlopen">
+<!ENTITY  close.label                   "ik &brandShortName; afsluit">
+<!ENTITY  askEachTime.label             "mij elke keer vragen">
+
+<!ENTITY  cookieExceptions.label        "Uitzonderingen…">
+<!ENTITY  cookieExceptions.accesskey    "U">
+
+<!ENTITY  showCookies.label             "Cookies tonen…">
+<!ENTITY  showCookies.accesskey         "t">
+
+
+<!ENTITY  privateData.label             "Privégegevens">
+
+<!ENTITY  alwaysClear.label              "Altijd mijn privégegevens opruimen als ik &brandShortName; afsluit">
+<!ENTITY  alwaysClear.accesskey          "a">
+
+<!ENTITY  askBeforeClear.label           "Mij vragen alvorens privégegevens op te ruimen">
+<!ENTITY  askBeforeClear.accesskey       "v">
+
+<!ENTITY  clearDataSettings.label        "Instellingen…">
+<!ENTITY  clearDataSettings.accesskey    "s">
+
+<!ENTITY  clearDataNow.label             "Nu wissen…">
+<!ENTITY  clearDataNow.label2            "Nu wissen">
+<!ENTITY  clearDataNow.accesskey         "N">

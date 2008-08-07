@@ -1,0 +1,26 @@
+<!ENTITY brandMotto        "Herontdek het web">
+<!ENTITY credit.thanks     "Speciale dank aan">
+
+<!ENTITY credit.thanks2       "Veel dank gaat uit naar onze">
+<!ENTITY credit.contributors2 "medewerkers" >
+
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Nederlandse vertaling</h3>
+           <ul>
+             <li>Gert-Paul van der Beek</li>
+             <li>Tim Maks van den Broek</li>
+             <li>Laurens Holst</li>
+             <li>Ton Kensen</li>
+             <li>Anne van Kesteren</li>
+             <li>Hendrik Maryns</li>
+             <li>Martijn Ras</li>
+             <li>leden MozBrowser-forum</li>
+           </ul>">
+<!ENTITY credit.memory      "In dierbare herinnering aan">
+<!ENTITY credit.poweredByGeckoReg "Aangedreven door Gecko&reg;">

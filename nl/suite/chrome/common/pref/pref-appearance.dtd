@@ -1,0 +1,26 @@
+<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
+<!ENTITY pref.appearance.title "Algemeen">
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY onStartLegend.label                    "Open de volgende vensters bij het starten van &brandShortName;">
+<!ENTITY navCheck.label                         "Browser">
+<!ENTITY navCheck.accesskey                     "B">
+<!ENTITY showToolsLegend.label                  "Werkbalken tonen als">
+<!ENTITY picsNtextRadio.label                   "Afbeeldingen en tekst">
+<!ENTITY picsNtextRadio.accesskey               "A">
+<!ENTITY picsOnlyRadio.label                    "Alleen afbeeldingen">
+<!ENTITY picsOnlyRadio.accesskey                "a">
+<!ENTITY textonlyRadio.label                    "Alleen teksty">
+<!ENTITY textonlyRadio.accesskey                "t">
+<!ENTITY showHideTooltips.label                 "Toon Tooltips">
+<!ENTITY showHideTooltips.accesskey             "T">
+
+<!ENTITY pref.locales.title                     "Gebruikers interfacetaal">
+<!ENTITY selectLocale.label                     "Selecteer de taal waarin uw dialoogvensters, menu's, werkbalken en knoppenlabels getoond worden:">
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLangChange.label              "De taalinstellingen krijgen effect als u &brandShortName; herstart.">
+

@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Bibliotheek">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Organiseren">
+<!ENTITY organize.accesskey    "O">
+
+<!ENTITY file.accesskey                 "B">
+<!ENTITY file.close.label               "Sluiten">
+<!ENTITY file.close.accesskey           "S">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Bewerken">
+<!ENTITY edit.accesskey                 "w">
+<!ENTITY views.label                    "Weergaven">
+<!ENTITY views.accesskey                "W">
+<!ENTITY view.toolbar.label             "Werkbalk">
+<!ENTITY view.toolbar.accesskey         "e">
+<!ENTITY view.columns.label             "Kolommen tonen">
+<!ENTITY view.columns.accesskey         "K">
+<!ENTITY view.sort.label                "Sorteren">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Ongesorteerd">
+<!ENTITY view.unsorted.accesskey        "O">
+<!ENTITY view.sortAscending.label       "Sorteervolgorde A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Sorteervolgorde Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY help.usingBookmarks.label      "Bladwijzers gebruiken">
+<!ENTITY help.usingBookmarks.accesskey  "B">
+<!ENTITY help.usingHistory.label        "Geschiedenis gebruiken">
+<!ENTITY help.usingHistory.accesskey    "G">
+<!ENTITY help.advancedTips.label        "Geavanceerde tips &amp; trucs">
+<!ENTITY help.advancedTips.accesskey    "t">
+
+<!ENTITY cmd.findInBookmarks.label      "Zoeken in bladwijzers…">
+<!ENTITY cmd.findInBookmarks.accesskey  "Z">
+<!ENTITY cmd.findCurrent.label          "Zoeken in huidige collectie…">
+<!ENTITY cmd.findCurrent.accesskey      "i">
+
+<!ENTITY cmd.exportHTML.label           "HTML exporteren…">
+<!ENTITY cmd.exportHTML.accesskey       "e">
+<!ENTITY cmd.importHTML.label           "HTML importeren…">
+<!ENTITY cmd.importHTML.accesskey       "i">
+
+<!ENTITY cmd.backup.label               "Reservekopie maken…">
+<!ENTITY cmd.backup.accesskey           "R">
+<!ENTITY cmd.restore2.label             "Herstellen">
+<!ENTITY cmd.restore2.accesskey         "H">
+<!ENTITY cmd.restoreFromFile.label      "Bestand kiezen…">
+<!ENTITY cmd.restoreFromFile.accesskey  "B">
+
+<!ENTITY cmd.select_all.label           "Alles selecteren">
+<!ENTITY cmd.select_all.accesskey       "A">
+<!ENTITY cmd.select_all.key             "a">
+
+<!ENTITY cmd.edit_cut.label             "Knippen">
+<!ENTITY cmd.edit_cut.accesskey         "n">
+<!ENTITY cmd.edit_cut.key               "x">
+<!ENTITY cmd.edit_copy.label            "Kopiëren">
+<!ENTITY cmd.edit_copy.accesskey        "K">
+<!ENTITY cmd.edit_copy.key              "c">
+<!ENTITY cmd.edit_paste.label           "Plakken">
+<!ENTITY cmd.edit_paste.accesskey       "P">
+<!ENTITY cmd.edit_paste.key             "v">
+<!ENTITY cmd.edit_delete.label          "Verwijderen">
+<!ENTITY cmd.edit_delete.accesskey      "V">
+<!ENTITY cmd.edit_undo.label            "Ongedaan maken">
+<!ENTITY cmd.edit_undo.accesskey        "O">
+<!ENTITY cmd.edit_undo.key              "z">
+<!ENTITY cmd.edit_redo.label            "Opnieuw uitvoeren">
+<!ENTITY cmd.edit_redo.accesskey        "u">
+<!ENTITY cmd.edit_redo.key              "y">
+
+<!ENTITY cmd.open.label                  "Openen">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "Openen in een nieuw venster">
+<!ENTITY cmd.open_window.accesskey       "v">
+<!ENTITY cmd.open_tab.label              "Openen in een nieuw tabblad">
+<!ENTITY cmd.open_tab.accesskey          "t">
+<!ENTITY cmd.open_all_in_tabs.label      "Alle openen in tabbladen">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "t">
+
+<!ENTITY cmd.properties.label            "Eigenschappen">
+<!ENTITY cmd.properties.accesskey        "E">
+
+<!ENTITY cmd.show_info.key               "i">
+
+<!ENTITY cmd.rename.label                "Hernoemen">
+<!ENTITY cmd.rename.accesskey            "H">
+
+<!ENTITY cmd.sortby_name.label              "Sorteren op naam">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "S">
+
+<!ENTITY cmd.new_bookmark.label            "Nieuwe bladwijzer…">
+<!ENTITY cmd.new_bookmark.accesskey        "b">
+<!ENTITY cmd.new_livemark.label            "Nieuwe livebladwijzer…">
+<!ENTITY cmd.new_livemark.accesskey        "l">
+<!ENTITY cmd.new_folder.label              "Nieuwe map…">
+<!ENTITY cmd.new_folder.accesskey          "m">
+<!ENTITY cmd.context_new_folder.accesskey  "m">
+<!ENTITY cmd.new_separator.label           "Nieuw scheidingsteken">
+<!ENTITY cmd.new_separator.accesskey       "c">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Livebladwijzer opnieuw laden">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "L">
+<!ENTITY cmd.reloadMicrosummary.label      "Livetitel opnieuw laden">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "L">
+
+<!ENTITY cmd.groupby_site.label      "Groeperen op website">
+<!ENTITY cmd.groupby_site.accesskey  "w">
+<!ENTITY cmd.groupby_page.label      "Groeperen op pagina">
+<!ENTITY cmd.groupby_page.accesskey  "p">
+<!ENTITY cmd.groupby_feed.label      "Groeperen op abonnement">
+<!ENTITY cmd.groupby_feed.accesskey  "a">
+<!ENTITY cmd.groupby_post.label      "Groeperen op post">
+<!ENTITY cmd.groupby_post.accesskey  "p">
+
+<!ENTITY cmd.moveBookmarks.label                 "Verplaatsen…">
+<!ENTITY cmd.moveBookmarks.accesskey             "V">
+
+<!ENTITY col.name.label          "Naam">
+<!ENTITY col.tags.label          "Labels">
+<!ENTITY col.url.label           "Locatie">
+<!ENTITY col.lastvisit.label     "Bezoekdatum">
+<!ENTITY col.visitcount.label    "Bezoekteller">
+<!ENTITY col.keyword.label       "Sleutelwoord">
+<!ENTITY col.description.label   "Beschrijving">
+<!ENTITY col.dateadded.label     "Toegevoegd">
+<!ENTITY col.lastmodified.label  "Laatste wijziging">
+
+<!ENTITY search.label                              "Zoeken:">
+<!ENTITY search.accesskey                          "Z">
+<!ENTITY search.collection.label                   "Alleen huidige collectie">
+<!ENTITY search.collection.accesskey               "c">
+<!ENTITY search.allBookmarks.label                 "Alle bladwijzers">
+<!ENTITY search.allBookmarks.accesskey             "A">
+<!ENTITY search.scopeFolder.label                  "Geselecteerde map">
+<!ENTITY search.scopeFolder.accesskey              "s">
+<!ENTITY search.scopeAll.label                     "Alle bladwijzers">
+<!ENTITY search.scopeAll.accesskey                 "A">
+<!ENTITY search.scopeMenu.label                    "Bladwijzermenu">
+<!ENTITY search.scopeMenu.accesskey                "m">
+<!ENTITY search.scopeToolbar.label                 "Bladwijzerwerkbalk">
+<!ENTITY search.scopeToolbar.accesskey             "w">
+<!ENTITY search.scopeDownloads.label               "Downloads">
+<!ENTITY search.scopeDownloads.accesskey           "D">
+<!ENTITY search.scopeHistory.label                 "Geschiedenis">
+<!ENTITY search.scopeHistory.accesskey             "G">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Zoekvelden tonen">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Zoekvelden verbergen">
+<!ENTITY saveSearch.label                          "Opslaan">
+<!ENTITY saveSearch.accesskey                      "p">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "Alleen bladwijzers doorzoeken">
+<!ENTITY advancedSearch.match.label                "Moet voldoen aan ">
+<!ENTITY advancedSearch.all.label                  "alle">
+<!ENTITY advancedSearch.any.label                  "één van de">
+<!ENTITY advancedSearch.rules.label                " volgende regels:">
+<!ENTITY advancedSearch.subj_keyword.label         "Bevat de tekst">
+<!ENTITY advancedSearch.subj_visited.label         "Bezocht">
+<!ENTITY advancedSearch.subj_location.label        "Locatie">
+<!ENTITY advancedSearch.location_startswith.label  "begint met">
+<!ENTITY advancedSearch.location_is.label          "is">
+<!ENTITY advancedSearch.location_onsite.label      "bevindt zich op website">
+<!ENTITY advancedSearch.time_is.label              "op">
+<!ENTITY advancedSearch.time_before.label          "voor">
+<!ENTITY advancedSearch.time_after.label           "na">
+<!ENTITY advancedSearch.time_inlast.label          "in de laatste">
+<!ENTITY advancedSearch.last_days.label            "dagen">
+<!ENTITY advancedSearch.last_weeks.label           "weken">
+<!ENTITY advancedSearch.last_months.label          "maanden">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "Groeperen op: ">
+<!ENTITY advancedSearch.groupby_host.label         "host">
+<!ENTITY advancedSearch.groupby_domain.label       "domein">
+<!ENTITY advancedSearch.groupby_folder.label       "map">
+<!ENTITY advancedSearch.sortby.label               "Sorteren op: ">
+<!ENTITY advancedSearch.sortby_title.label         "titel">
+<!ENTITY advancedSearch.sortby_date.label          "datum">
+<!ENTITY advancedSearch.sortby_visit.label         "bezoekteller">
+<!ENTITY advancedSearch.sortby_url.label           "url">
+<!ENTITY advancedSearch.sortby_asc.label           "oplopend">
+<!ENTITY advancedSearch.sortby_desc.label          "aflopend">
+<!ENTITY advancedSearch.max.label                  "Maximumaantal resultaten: ">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "Feed">
+<!ENTITY feed.subscribe.tooltip  "Abonneren">
+
+<!ENTITY view.detailsMacOSX.label  "Lijst tonen">
+<!ENTITY view.details.label        "Details">
+<!ENTITY view.details.accesskey    "D">
+
+<!ENTITY view.addons.label   "Add-ons voor weergave verkrijgen">
+
+<!ENTITY maintenance.label      "Importeren en reservekopie maken">
+<!ENTITY maintenance.accesskey  "I">
+
+<!ENTITY backCmd.label       "Terug">
+<!ENTITY backCmd.accesskey   "T">
+<!ENTITY backButton.tooltip  "Terug gaan">
+
+<!ENTITY forwardCmd.label       "Vooruit">
+<!ENTITY forwardCmd.accesskey   "V">
+<!ENTITY forwardButton.tooltip  "Vooruit gaan">
+
+<!ENTITY detailsPane.more.label "Meer">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "Minder">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "Voorbeeld">
+<!ENTITY detailsPane.selectAnItemText.description "Selecteer een item om de eigenschappen ervan te bekijken en te wijzigen">

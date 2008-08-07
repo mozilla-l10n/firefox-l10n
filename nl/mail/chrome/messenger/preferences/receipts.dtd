@@ -1,0 +1,23 @@
+<!ENTITY dialog.title "Leesbevestigingen">
+<!ENTITY receiptSettings.label "Leesbevestigingen">
+<!ENTITY requestReceipt.label "Altijd een leesbevestiging vragen bij het verzenden van berichten">
+<!ENTITY requestReceipt.accesskey "t">
+<!ENTITY receiptArrive.label "Als een leesbevestiging aankomt:">
+<!ENTITY leaveIt.label "Deze in mijn Postvak IN laten staan">
+<!ENTITY leaveIt.accesskey "l">
+<!ENTITY moveToSent.label "Deze naar mijn map &quot;Verzonden&quot; verplaatsen">
+<!ENTITY moveToSent.accesskey "v">
+<!ENTITY requestMDN.label "Als een verzoek voor een leesbevestiging aankomt:">
+<!ENTITY never.label "Nooit een leesbevestiging sturen">
+<!ENTITY never.accesskey "s">
+<!ENTITY returnSome.label "In de volgende gevallen een leesbevestiging sturen">
+<!ENTITY returnSome.accesskey "o">
+<!ENTITY notInToCc.label "Als ik niet in de Aan of CC van het bericht sta:">
+<!ENTITY notInToCc.accesskey "n">
+<!ENTITY outsideDomain.label "Als de afzender buiten mijn domein is:">
+<!ENTITY outsideDomain.accesskey "b">
+<!ENTITY otherCases.label "In alle andere gevallen:">
+<!ENTITY otherCases.accesskey "a">
+<!ENTITY askMe.label "Mij vragen">
+<!ENTITY alwaysSend.label "Altijd verzenden">
+<!ENTITY neverSend.label "Nooit verzenden">

@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label              "Standaardwaarden systeem">
+<!ENTITY alwaysCheckDefault.label          "Altijd tijdens het opstarten controleren of &brandShortName; de standaard e-mailclient is">
+<!ENTITY alwaysCheckDefault.accesskey      "c">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Nu controleren">
+<!ENTITY checkNow.accesskey         "N">
+
+<!ENTITY messengerStartPage.label         "&brandShortName;-startpagina">
+<!ENTITY enableStartPage.label            "Wanneer &brandShortName; start, de startpagina in het berichtgedeelte tonen">
+<!ENTITY enableStartPage.accesskey        "W">
+<!ENTITY location.label                   "Locatie:">
+<!ENTITY location1.accesskey              "L">
+<!ENTITY useDefault.label                 "Standaardinstelling herstellen">
+<!ENTITY useDefault.accesskey             "S">
+
+<!ENTITY bounceSystemDockIcon.label       "Het systeemvakpictogram animeren">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "Als nieuwe berichten arriveren:">
+<!ENTITY playSound.label                  "Een geluid afspelen">
+<!ENTITY playSound1.accesskey             "u">
+<!ENTITY showAnimatedAlert.label          "Een melding tonen">
+<!ENTITY showAnimatedAlert.accesskey      "t">
+<!ENTITY customizeMailAlert.label         "Aanpassen…">
+<!ENTITY customizeMailAlert.accesskey     "A">
+
+<!ENTITY soundNotification1.caption       "Geluid">
+<!ENTITY play.label                       "Afspelen">
+<!ENTITY play.accesskey                   "f">
+<!ENTITY systemsound.label                "Standaard systeemgeluid voor nieuwe e-mail">
+<!ENTITY systemsoundMac.label             "Systeemalarmgeluid">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "Het volgende geluidsbestand gebruiken">
+<!ENTITY customsound.accesskey            "v">
+<!ENTITY browse.label                     "Bladeren…">
+<!ENTITY browse.accesskey                 "B">

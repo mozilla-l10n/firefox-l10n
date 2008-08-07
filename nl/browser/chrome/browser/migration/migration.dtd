@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title          "Importeerassistent">
+
+<!ENTITY importFrom.label               "Opties, bladwijzers, geschiedenis, wachtwoorden en andere gegevens importeren uit:">
+<!ENTITY importFromUnix.label           "Voorkeuren, bladwijzers, geschiedenis, wachtwoorden en andere gegevens importeren uit:">
+<!ENTITY importFromBookmarks.label      "Bladwijzers importeren uit:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird of Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "F">
+<!ENTITY importFromNothing.label        "Niets importeren">
+<!ENTITY importFromNothing.accesskey    "t">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 of Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromHTMLFile.label       "Uit een HTML-bestand">
+<!ENTITY importFromHTMLFile.accesskey   "U">
+
+<!ENTITY noMigrationSources.label       "Er zijn geen programma’s gevonden die bladwijzers, geschiedenis of wachtwoorden bevatten.">
+
+<!ENTITY importSource.title             "Instellingen en gegevens importeren">
+<!ENTITY importItems.title              "Te importeren items">
+<!ENTITY importItems.label              "Selecteer de te importeren items:">
+
+<!ENTITY migrating.title                "Bezig met importeren…">
+<!ENTITY migrating.label                "De volgende items worden momenteel geïmporteerd…">
+
+<!ENTITY selectProfile.title            "Profiel selecteren">
+<!ENTITY selectProfile.label            "De volgende profielen zijn beschikbaar om uit te importeren:">
+
+<!ENTITY done.title                     "Importeren voltooid">
+<!ENTITY done.label                     "De volgende items zijn succesvol geïmporteerd:">
+

@@ -1,0 +1,19 @@
+<!ENTITY about.version                "versie">
+
+<!ENTITY about.copy.beforeLink        "Auteursrecht &copy; 1998-2008 bij">
+<!ENTITY about.copy.linkTitle         "medewerkers">
+<!ENTITY about.copy.afterLink         "van het Mozilla-project.">
+
+<!ENTITY about.license.beforeLink     "Lees de">
+<!ENTITY about.license.linkTitle      "licentie-informatie">
+<!ENTITY about.license.afterLink      "voor dit product.">
+
+<!ENTITY about.relnotes.beforeLink    "Lees de">
+<!ENTITY about.relnotes.linkTitle     "uitgaveopmerkingen">
+<!ENTITY about.relnotes.afterLink     "voor deze versie.">
+
+<!ENTITY about.buildconfig.beforeLink "Bekijk de gebruikte">
+<!ENTITY about.buildconfig.linkTitle  "buildconfiguratie">
+<!ENTITY about.buildconfig.afterLink  "voor deze versie.">
+
+<!ENTITY about.buildIdentifier        "Buildnaam: ">

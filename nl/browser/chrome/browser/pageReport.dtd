@@ -1,0 +1,10 @@
+<!ENTITY caption.label "Geblokkeerde pop-upvensters">
+
+<!ENTITY intro.label "Van de volgende pagina’s is voorkomen dat ze ongevraagde
+pop-upvensters toonden:">
+
+<!ENTITY done.label "Klaar">
+<!ENTITY done.accesskey "K">
+
+<!ENTITY unblock.label "Website deblokkeren">
+<!ENTITY unblock.accesskey "d">

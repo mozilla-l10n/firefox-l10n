@@ -1,0 +1,42 @@
+<!-- extracted from tasksOverlay.xul -->
+<!ENTITY navigatorCmd.label          "Browser">
+<!ENTITY navigatorCmd.accesskey      "b">
+<!ENTITY navigatorCmd.commandkey     "1">
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label             "Composer">
+<!ENTITY editorCmd.accesskey         "c">
+<!ENTITY editorCmd.commandkey        "4">
+
+<!ENTITY securityInfoCmd.label       ".Beveiligingsinformatie">
+<!ENTITY securityInfoCmd.accesskey   "b">
+<!ENTITY javaConsoleCmd.label        "Java Console">
+<!ENTITY javaConsoleCmd.accesskey    "j">
+
+<!ENTITY errorConsoleCmd.label       "Foutconsole">
+<!ENTITY errorConsoleCmd.accesskey   "F">
+
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY privacyMenu.label            "Privacy &amp; beveiliging">
+<!ENTITY privacyMenu.accesskey        "p">
+
+<!ENTITY taskNavigator.tooltip        "Browser">
+<!ENTITY taskComposer.tooltip         "Composer">
+<!ENTITY taskBar.tooltip              "Statusbalk">
+
+<!ENTITY webDevelopment.label         "Internetontwikkeling">
+<!ENTITY webDevelopment.accesskey     "I">
+
+<!ENTITY windowMenu.label             "Venster">
+<!ENTITY windowMenu.accesskey         "V">
+
+<!ENTITY tasksMenu.label              "Gereedschappen">
+<!ENTITY tasksMenu.accesskey          "G">
+
+<!ENTITY downloadManagerCmd.label     "Downloadbeheerder">
+<!ENTITY downloadManagerCmd.accesskey "D">
+
+<!ENTITY addonsManagerCmd.label       "Add-onbeheerder">
+<!ENTITY addonsManagerCmd.accesskey   "A">
+
+<!ENTITY switchProfileCmd.label       "Ander profiel kiezen…">
+<!ENTITY switchProfileCmd.accesskey   "p">

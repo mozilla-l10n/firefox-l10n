@@ -1,0 +1,112 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "Pop-upvensters van deze website weigeren">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label      "Pop-upvensters van deze website toestaan">
+<!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY openLinkCmd.label              "Koppeling openen in nieuw venster">
+<!ENTITY openLinkCmd.accesskey          "v">
+<!ENTITY openLinkCmdInTab.label         "Koppeling openen in nieuw tabblad">
+<!ENTITY openLinkCmdInTab.accesskey     "t">
+<!ENTITY openLinkInWindowCmd.label      "Openen">
+<!ENTITY openLinkInWindowCmd.accesskey  "p">
+<!ENTITY openFrameCmd.label             "Deelvenster openen in nieuw venster">
+<!ENTITY openFrameCmd.accesskey         "v">
+<!ENTITY openFrameCmdInTab.label        "Deelvenster openen in nieuw tabblad">
+<!ENTITY openFrameCmdInTab.accesskey    "t">
+<!ENTITY showOnlyThisFrameCmd.label     "Alleen dit deelvenster tonen">
+<!ENTITY showOnlyThisFrameCmd.accesskey "d">
+<!ENTITY addToBookmarksCmd.label        "Bladwijzer van deze pagina maken">
+<!ENTITY addToBookmarksCmd.accesskey    "l">
+<!ENTITY goBackCmd.label                "Terug">
+<!ENTITY goBackCmd.accesskey            "T">
+<!ENTITY goForwardCmd.label             "Vooruit">
+<!ENTITY goForwardCmd.accesskey         "V">
+<!ENTITY goUpCmd.label                  "Omhoog">
+<!ENTITY goUpCmd.accesskey              "O">
+<!ENTITY reloadCmd.label                "Vernieuwen">
+<!ENTITY reloadCmd.accesskey            "n">
+<!ENTITY reloadCmd.commandkey           "r">
+<!ENTITY stopCmd.label                  "Stoppen">
+<!ENTITY stopCmd.accesskey              "S">
+<!ENTITY reloadFrameCmd.label           "Deelvenster vernieuwen">
+<!ENTITY reloadFrameCmd.accesskey       "n">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Selectie van bron bekijken">
+<!ENTITY viewPartialSourceForMathMLCmd.label "MathML-bron bekijken">
+<!ENTITY viewPartialSourceCmd.accesskey "b">
+<!ENTITY viewPageSourceCmd.label        "Paginabron bekijken">
+<!ENTITY viewPageSourceCmd.accesskey    "b">
+<!ENTITY viewFrameSourceCmd.label       "Deelvensterbron bekijken">
+<!ENTITY viewFrameSourceCmd.accesskey   "b">
+<!ENTITY viewPageInfoCmd.label          "Pagina-info bekijken">
+<!ENTITY viewPageInfoCmd.accesskey      "i">
+<!ENTITY viewFrameInfoCmd.label         "Deelvensterinfo bekijken">
+<!ENTITY viewFrameInfoCmd.accesskey     "i">
+<!ENTITY fitImageCmd.label              "Afbeelding aanpassen aan venster">
+<!ENTITY fitImageCmd.accesskey          "a">
+<!ENTITY reloadImageCmd.label           "Afbeelding herhalen">
+<!ENTITY reloadImageCmd.accesskey       "e">
+<!ENTITY viewImageCmd.label             "Afbeelding bekijken">
+<!ENTITY viewImageCmd.accesskey         "b">
+<!ENTITY viewBGImageCmd.label           "Achtergrondafbeelding bekijken">
+<!ENTITY viewBGImageCmd.accesskey       "c">
+<!ENTITY setWallpaperCmd.label          "Als achtergrond instellen">
+<!ENTITY setWallpaperCmd.accesskey      "h">
+<!ENTITY bookmarkPageCmd.label          "Bladwijzer van deze pagina maken">
+<!ENTITY bookmarkPageCmd.accesskey      "a">
+<!ENTITY bookmarkLinkCmd.label          "Bladwijzer van deze koppeling maken">
+<!ENTITY bookmarkLinkCmd.accesskey      "l">
+<!ENTITY bookmarkFrameCmd.label         "Bladwijzer van dit deelvenster maken">
+<!ENTITY bookmarkFrameCmd.accesskey     "a">
+<!ENTITY savePageAsCmd.label            "Pagina opslaan als…">
+<!ENTITY savePageCmd.label              "Pagina opslaan">
+<!ENTITY savePageCmd.accesskey          "o">
+<!ENTITY savePageCmd.commandkey         "s">
+<!ENTITY saveFrameAsCmd.label           "Deelvenster opslaan als…">
+<!ENTITY saveFrameCmd.label             "Deelvenster opslaan">
+<!ENTITY saveFrameCmd.accesskey         "o">
+<!ENTITY saveLinkAsCmd.label            "Koppelingsdoel opslaan als…">
+<!ENTITY saveLinkCmd.label              "Koppelingsdoel opslaan">
+<!ENTITY saveLinkCmd.accesskey          "d">
+<!ENTITY saveImageAsCmd.label           "Afbeelding opslaan als…">
+<!ENTITY saveImageCmd.label             "Afbeelding opslaan">
+<!ENTITY saveImageCmd.accesskey         "p">
+<!ENTITY copyCmd.label                  "Kopiëren">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Alles selecteren">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY copyLinkCmd.label              "Koppelingslocatie kopiëren">
+<!ENTITY copyLinkCmd.accesskey          "k">
+<!ENTITY copyImageCmd.label             "Afbeeldingslocatie kopiëren">
+<!ENTITY copyImageCmd.accesskey         "o">
+<!ENTITY metadataCmd.label              "Eigenschappen">
+<!ENTITY metadataCmd.accesskey          "E">
+<!ENTITY copyEmailCmd.label             "E-mailadres kopiëren">
+<!ENTITY copyEmailCmd.accesskey         "m">
+<!ENTITY pasteCmd.label                 "Plakken">
+<!ENTITY pasteCmd.accesskey             "P">
+<!ENTITY cutCmd.label                   "Knippen">
+<!ENTITY cutCmd.accesskey               "n">
+<!ENTITY deleteCmd.label                "Verwijderen">
+<!ENTITY deleteCmd.accesskey            "d">
+<!ENTITY undoCmd.label                  "Ongedaan maken">
+<!ENTITY undoCmd.accesskey              "O">
+<!ENTITY redoCmd.label                  "Opnieuw uitvoeren">
+<!ENTITY redoCmd.accesskey              "u">
+<!ENTITY thisFrameMenu.label            "Dit deelvenster">
+<!ENTITY thisFrameMenu.accesskey        "d">
+<!ENTITY search.accesskey               "W">
+<!ENTITY bidiSwitchPageDirectionItem.label "Paginarichting omkeren">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchTextDirectionItem.label "Tekstrichting omkeren">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
+<!ENTITY spellAddToDictionary.label     "Aan woordenboek toevoegen">
+<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellIgnoreWord.label          "Woord negeren">
+<!ENTITY spellIgnoreWord.accesskey      "w">
+<!ENTITY spellCheckEnable.label         "Spelling controleren">
+<!ENTITY spellCheckEnable.accesskey     "S">
+<!ENTITY spellNoSuggestions.label       "(geen spellingsuggesties)">
+<!ENTITY spellDictionaries.label        "Talen">
+<!ENTITY spellDictionaries.accesskey    "T">
+<!ENTITY spellAddDictionaries.label     "Meer woordenboeken downloaden">
+<!ENTITY spellAddDictionaries.accesskey "D">

@@ -1,0 +1,64 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla application suite mailnews start page.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser.
+   - Portions created by the Initial Developer are Copyright (C) 2004
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at>
+   -   Mozilla-nl
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY startpage.title "Welkom bij &brandShortName; Mail &amp; Nieuwsgroepen">
+<!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
+<!ENTITY headline.label 'Welkom bij <a id="vendorURL" href="">&brandShortName;</a> Mail &amp; Nieuwsgroepen!'>
+<!ENTITY description.label "&brandShortName; Mail &amp; Nieuwsgroepen is een krachtige open-source mail en nieuws
+cli&euml;nt, die geavanceerde detectie van ongewenste berichten en andere handige mogelijkheden ondersteunt.">
+<!ENTITY features.title "Mogelijkheden">
+<!ENTITY feat_multiacc.label "Ondersteuning voor meerdere accounts">
+<!ENTITY feat_junk.label "Detectie van ongewenste berichten">
+<!ENTITY feat_filters.label "Berichtenfilters">
+<!ENTITY feat_htmlmsg.label "Ondersteuning van berichten in HTML">
+<!ENTITY feat_abook.label "Adressenboek">
+<!ENTITY feat_labels.label "Aanpasbare labels en berichtenweergaven">
+<!ENTITY feat_integration.label "Goede integratie met de toepassingssuite van &brandShortName;">
+<!ENTITY dict.title "Woordenboeken">
+<!ENTITY dict_intro.label "Woordenboeken worden gebruikt om de spelling van uw berichten te controleren.">
+<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
+<!ENTITY dict_info.label
+'Vele extra talen kunnen worden geinstalleerd via de 
+<a id="dictURL" href="">woordenboeken</a> sectie op
+<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
+<!ENTITY info.title "Meer informatie">
+<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label
+'<a href="http://www.mozilla.org/mailnews/">Wij</a> verwelkomen foutrapporten en verzoeken tot uitbreiding
+van de mogelijkheden, maar lees alstublieft de <a id="releaseNotesURL" href="">uitgave opmerkingen</a> en doorzoek
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> eerst.'>

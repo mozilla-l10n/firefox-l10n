@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Afdrukken">
+
+<!ENTITY printDialog.title "Afdrukken">
+
+<!ENTITY fpDialog.title "Bestand opslaan">
+
+<!ENTITY fileCheck.label "Afdrukken naar bestand">
+<!ENTITY propertiesButton.label "Eigenschappen…">
+<!ENTITY descText.label "Printerbeschrijving:">
+<!ENTITY printer.label "Printer">
+<!ENTITY printerInput.label "Printernaam:">
+
+<!ENTITY printrangeGroup.label "Afdrukbereik">
+<!ENTITY allpagesRadio.label "Alle pagina’s">
+<!ENTITY rangeRadio.label  "Pagina’s">
+<!ENTITY frompageInput.label  "van">
+<!ENTITY topageInput.label  "tot">
+<!ENTITY selectionRadio.label "Selectie">
+
+<!ENTITY copies.label "Aantal">
+<!ENTITY numCopies.label "Aantal afdrukken:">
+
+<!ENTITY printframeGroup.label "Deelvensters afdrukken">
+<!ENTITY aslaidoutRadio.label "Zoals getoond op het scherm">
+<!ENTITY selectedframeRadio.label  "Het geselecteerde deelvenster">
+<!ENTITY eachframesepRadio.label  "Elk deelvenster afzonderlijk">

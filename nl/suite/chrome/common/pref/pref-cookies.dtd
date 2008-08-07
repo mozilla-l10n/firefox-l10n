@@ -1,0 +1,37 @@
+<!ENTITY pref.cookies.title "Cookies">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label "Cookies accepteer beleid">
+
+<!ENTITY accAllCookiesRadio.label "Cookies toestaan">
+<!ENTITY accAllCookiesRadio.accesskey "c">
+
+<!ENTITY accOrgCookiesRadio.label "Cookies alleen toestaan voor de oorspronkelijke website">
+<!ENTITY accOrgCookiesRadio.accesskey "o">
+
+<!ENTITY disableCookies.label "Cookies blokkeren">
+<!ENTITY disableCookies.accesskey "B">
+
+<!ENTITY cookieRetentionPolicy.label "Cookie Retention Policy">
+
+<!ENTITY acceptNormally.label "Cookies standaard accepteren">
+<!ENTITY acceptNormally.accesskey "n">
+
+<!ENTITY acceptForSession.label "Acceptern voor de huidige sessie">
+<!ENTITY acceptForSession.accesskey "s">
+
+<!ENTITY acceptforNDays.label "Cookies acceptern voor:">
+<!ENTITY acceptforNDays.accesskey "f">
+<!ENTITY days.label "dagen">
+
+<!ENTITY warnAboutCookies.label "Vool elke cookie vragen">
+<!ENTITY warnAboutCookies.accesskey "A">
+<!ENTITY forCurrentSession.label "behalve coor sessiecookies">
+<!ENTITY forCurrentSession.accesskey "e">
+
+<!ENTITY manageCookies.label "Cookies en webpagina’s beheren">
+<!ENTITY manageCookiesDescription.label "Allows you to view and manage stored cookies and per-site settings for accepting and rejecting cookies. Per-site settings will override the settings above.">
+
+<!ENTITY viewCookies.label "Cookie-beheerder">
+<!ENTITY viewCookies.accesskey "M">

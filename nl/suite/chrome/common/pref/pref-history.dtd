@@ -1,0 +1,12 @@
+<!ENTITY pref.history.title "Geschiedenis">
+<!ENTITY pref.history.caption "Bladergeschiedenis">
+<!ENTITY historyPages.label "Geschiedenis is een lijst van voorheen bezochte pagina's.">
+<!ENTITY pageHis.label "Bezochte pagina’s over de laatste">
+<!ENTITY pageHis.accesskey "B">
+<!ENTITY days.label "dagen onthouden">
+<!ENTITY clearHistory.label "Geschiedenis wissen">
+<!ENTITY clearHistory.accesskey "G">
+<!ENTITY locationBarHistory.caption "Locatiebalkgeschiedenis">
+<!ENTITY clearLocationBar.label "De lijst met in het locatiebalkmenu opgeslagen stekken wissen.">
+<!ENTITY clearLocationBarButton.label "Locatiebalk wissen">
+<!ENTITY clearLocationBarButton.accesskey "L">

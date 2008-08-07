@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "Geavanceerde accountinstellingen">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "Geavanceerde IMAP-serverinstellingen">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP-servermap">
+<!ENTITY serverDirectory.accesskey "m">
+<!ENTITY usingSubscription.label "Alleen aangemelde mappen tonen">
+<!ENTITY usingSubscription.accesskey "a">
+<!ENTITY dualUseFolders.label "Server ondersteunt mappen met submappen en berichten">
+<!ENTITY dualUseFolders.accesskey "o">
+<!ENTITY useIdle.label "IDLE-commando gebruiken als de server het ondersteunt">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Maximumaantal serververbindingen in de buffer">
+<!ENTITY maximumConnectionsNumber.accesskey "n">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Deze instellingen omschrijven de namespaces op uw IMAP-server">
+<!ENTITY personalNamespace.label "Persoonlijke namespace:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Publiek (gedeeld):">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "Andere gebruikers:">
+<!ENTITY otherUsersNamespace.accesskey "d">
+<!ENTITY overrideNamespaces.label "Server toestaan om deze namespaces te negeren">
+<!ENTITY overrideNamespaces.accesskey "S">
+<!ENTITY pop3Desc.label "Bij het downloaden van e-mail van deze POP3-server, de volgende map voor nieuwe e-mail gebruiken:">
+<!ENTITY folderStorage.label "Waar e-mail op te slaan">
+<!ENTITY globalInbox.label "Globaal Postvak IN (onder Lokale mappen)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "Postvak IN van deze serveraccount">
+<!ENTITY accountDirectory.accesskey "P">
+<!ENTITY deferToServer.label "Postvak IN van een andere account">
+<!ENTITY deferToServer.accesskey "r">
+<!ENTITY deferGetNewMail.label "Deze server bij het ophalen van nieuwe berichten betrekken">
+<!ENTITY deferGetNewMail.accesskey "b">

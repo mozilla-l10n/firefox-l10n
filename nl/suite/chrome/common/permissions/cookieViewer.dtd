@@ -1,0 +1,33 @@
+<!ENTITY tab.cookiesonsystem.label      "Opgeslagen cookies">
+<!ENTITY tab.bannedservers.label        "cookie webpagina">
+<!ENTITY div.bannedservers.label        "Beheer webpagina’s die geen cookies kunnen opslaan op uw computer.">
+<!ENTITY div.cookiesonsystem.label      "Op uw computer opgeslagen cookies bekijken en verwijderen.">
+<!ENTITY treehead.cookiename.label      "Cookienaam">
+<!ENTITY treehead.cookiedomain.label    "Website">
+<!ENTITY treehead.cookieexpires.label   "Verloopt">
+<!ENTITY treehead.infoselected.label    "Informatie over de geselecteerde cookie">
+<!ENTITY button.removecookie.label      "Cookie verwijderen">
+<!ENTITY button.removeallcookies.label  "Alle cookies verwijderen">
+
+<!ENTITY props.name.label               "Naam:">
+<!ENTITY props.value.label              "Inhoud:">
+<!ENTITY props.domain.label             "Host:">
+<!ENTITY props.path.label               "Pad:">
+<!ENTITY props.secure.label             "Verzonden aan:">
+<!ENTITY props.expires.label            "Verloopt:">
+
+<!ENTITY treehead.sitename.label        "Webpagina">
+<!ENTITY treehead.status.label          "Status">
+<!ENTITY windowtitle.label              "Cookiebeheerder">
+<!ENTITY buttonaccept.label             "Sluiten">
+
+<!ENTITY blockSite.label                "Blokkeren">
+<!ENTITY allowSite.label                "Toestaan">
+<!ENTITY allowSiteSession.label         "Sessie">
+<!ENTITY removepermission.label         "Webpagina verwijderen">
+<!ENTITY removeallpermissions.label     "Alle webpagina’s verwijderen">
+
+<!ENTITY canSet.label                   "Kan cookies instellen">
+<!ENTITY cannotSet.label                "Kan geen cookies instellen">
+
+<!ENTITY checkbox.label                 "Websites waarvan cookies zijn verwijderd niet toestaan nieuwe cookies in te stellen">

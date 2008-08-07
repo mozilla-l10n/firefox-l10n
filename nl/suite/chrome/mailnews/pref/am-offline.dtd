@@ -1,0 +1,34 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Om schijfruimte te besparen, niet downloaden:">
+<!ENTITY doNotDownload.label "Om schijfruimte te besparen, de volgende berichten niet downloaden voor offlinegebruik:">
+<!ENTITY offlineNewFolder.label "Nieuwe mappen selecteren voor offlinegebruik bij het aanmaken">
+<!ENTITY offlineNewFolder.accesskey "f">
+<!ENTITY offlineNotDownload.label "Berichten groter dan">
+<!ENTITY offlineNotDownload.accesskey "r">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "dagen">
+<!ENTITY daysOld.label "dagen">
+<!ENTITY message.label "">
+<!ENTITY nntpNotDownloadRead.label "Gelezen berichten">
+<!ENTITY nntpNotDownloadRead.accesskey "G">
+<!ENTITY nntpDownloadMsg.label "Berichten ouder dan">
+<!ENTITY nntpDownloadMsg.accesskey "o">
+<!ENTITY retentionCleanup.label "Om schijfruimte vrij te maken, kunnen oude berichten permanent worden verwijderd">
+<!ENTITY retentionKeepMsg.label "Berichten verwijderen die ouder zijn dan">
+<!ENTITY retentionKeepMsg.accesskey "u">
+<!ENTITY retentionKeepAll.label "Geen berichten verwijderen">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepNew.label "Alle berichten verwijderen, behalve de laatste">
+<!ENTITY retentionKeepNew.accesskey "a">
+<!ENTITY retentionKeepUnread.label "Gelezen berichten altijd verwijderen">
+<!ENTITY retentionKeepUnread.accesskey "z">
+<!ENTITY nntpRemoveBody.label "Alleen berichtkernen verwijderen die ouder zijn dan">
+<!ENTITY nntpRemoveBody.accesskey "k">
+<!ENTITY offlineSelectNntp.label "Nieuwsgroepen voor offlinegebruik selecteren…">
+<!ENTITY offlineSelectNntp.accesskey "s">
+<!ENTITY offlineSelectImap.label "Mappen voor offlinegebruik selecteren…">
+<!ENTITY offlineSelectImap.accesskey "s">
+<!ENTITY offlineDesc.label "U kunt berichten downloaden en lokaal opslaan, zodat ze beschikbaar zijn als u offline werkt.">
+<!ENTITY makeInboxMsgsAvailable.label "Berichten in Postvak IN beschikbaar maken voor offlinegebruik">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "Offline">
+<!ENTITY diskspaceGroupTitle.label "Schijfruimte">

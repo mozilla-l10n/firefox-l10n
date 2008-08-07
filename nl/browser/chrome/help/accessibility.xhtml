@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Toegankelijkheidsmogelijkheden van &brandFullName;</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>Toegankelijkheidsmogelijkheden van &brandFullName;</h1>
+
+  <p>&brandShortName; bevat vele mogelijkheden om de browser en webinhoud
+    toegankelijk te maken voor alle gebruikers, inclusief slechtzienden, blinden
+    of mensen met een beperkte hand- of armfunctie.</p>
+
+  <div class="contentsBox">In dit hoofdstuk:
+    <ul>
+    <li><a href="#using_a_keyboard">Een toetsenbord gebruiken</a></li>
+    <li><a href="#using_a_mouse">Een muis gebruiken</a></li>
+    <li><a href="#fonts_and_colors">Lettertypen en kleuren</a></li>
+    <li><a href="#controlling_web_content">Webinhoud controleren</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">Compatibiliteit
+      met assisterende technologieën</a></li>
+    <li><a href="#finding_help_online">Online hulp vinden</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">Een toetsenbord gebruiken</h2>
+
+  <h3 id="keyboard_shortcuts">Sneltoetsen</h3>
+
+  <p>Een lijst met algemene sneltoetsen is beschikbaar onder
+    <a href="shortcuts.xhtml">Sneltoetsen in &brandShortName;</a>.
+    Online kunt u <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">een vergelijkingstabel
+    met sneltoetsen</a> vinden zoals geïmplementeerd in &brandShortName;,
+    Microsoft Internet Explorer en Opera.</p>
+
+  <h3 id="always_use_cursor_keys">Altijd de pijltoetsen gebruiken om te
+    navigeren binnen pagina’s</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Altijd de pijltoetsen gebruiken om te
+    navigeren binnen pagina’s</a> laat u door webinhoud bladeren alsof u zich
+    in een alleen-lezen-editor bevindt.
+    U kunt het toetsenbord gebruiken om webinhoud te selecteren en te
+    kopiëren naar het klembord.  U kunt deze functie inschakelen door
+    &pref.menuPath; te selecteren, het tabblad <em>Algemeen</em> in het paneel
+    <em>Geavanceerd</em> te openen en de &pref.singular; <em>Altijd de
+    pijltoetsen gebruiken om te navigeren binnen pagina’s</em> aan te vinken.</p>
+
+  <p>U kunt op elk moment op <kbd>F7</kbd> drukken om deze functie aan of
+    uit te zetten.  Als u op <kbd>F7</kbd> drukt, zal &brandShortName; vragen
+    of u deze functie echt wilt aanzetten.  U kunt deze vraag uitschakelen
+    door <em>Dit dialoogvenster niet opnieuw tonen</em> te selecteren.</p>
+
+  <h3 id="find_as_you_type">Naar tekst zoeken wanneer ik begin met typen</h3>
+
+  <p><a href="prefs.xhtml#accessibility">Naar tekst zoeken wanneer ik begin
+    met typen</a> laat u snel naar tekst of hyperkoppelingen in een
+    webpagina navigeren.  Deze functie heeft twee modi. Druk op
+    <abbr title="slash"><kbd>/</kbd></abbr> en
+    start met typen om alle tekst op de huidige pagina te doorzoeken, of druk op
+    <abbr title="apostrof"><kbd>'</kbd></abbr> voor uw zoekstring om alleen
+    in hyperkoppelingen te zoeken.  &brandShortName; zal overeenkomende tekst of
+    hyperkoppelingen markeren terwijl u typt.</p>
+
+  <p>De volgende sneltoetsen bedienen deze functie:</p>
+
+  <ul>
+    <li>Typ meerdere tekens om uw zoekopdracht te verfijnen.  &brandShortName;
+      zal de volgende overeenkomende hyperkoppeling of tekst markeren of u
+      erop attenderen dat niets overeenkwam.</li>
+    <li>Druk op &accelKey;+<kbd>G</kbd> of <kbd>F3</kbd> om het volgende
+      voorkomen van uw huidige zoekstring te vinden.</li>
+    <li>Druk op &accelKey;+&shiftKey;+<kbd>G</kbd> of &shiftKey;+<kbd>F3</kbd>
+      om het vorige voorkomen van uw huidige zoekstring te vinden.</li>
+    <li>Druk op <kbd>Backspace</kbd> om het laatst ingevoerde teken ongedaan te
+      maken. &brandShortName; zal terugspringen naar de eerder gemarkeerde tekst.</li>
+    <li>Druk op <kbd>Esc</kbd> om een zoekopdracht te annuleren.  U kunt een
+      zoekopdracht ook annuleren door te wisselen van venster, de pagina te schuiven
+      met de muis of het toetsenbord, of eenvoudig de time-out af te wachten.</li>
+  </ul>
+
+  <p>U kunt het standaardgedrag van deze functie wijzigen door &pref.menuPath;
+    te selecteren, het tabblad <em>Algemeen</em> van het paneel <em>Geavanceerd</em>
+    te openen en de &pref.singular; <em>Naar tekst zoeken wanneer ik begin met
+    typen</em> aan te vinken.  Als deze optie is geselecteerd kunt u op elk moment
+    beginnen met typen om een automatische zoekopdracht binnen de pagina te starten.
+    Standaard kijken automatisch gestarte zoekopdrachten naar alle tekst op de pagina.
+    U kunt alsnog expliciet op
+    <abbr title="apostrof"><kbd>'</kbd></abbr> of
+    <abbr title="slash"><kbd>/</kbd></abbr> drukken om met zoeken te
+    beginnen in een van beide modi.</p>
+
+  <p>U kunt deze functie gebruiken om naar knoppen, tekstvelden en andere
+    formulieropdrachten te gaan.  Zoek naar de tekst die net voorafgaat aan de
+    formulieropdracht die u wenst en druk op <kbd>Tab</kbd>. Drukken op <kbd>Tab</kbd>
+    verlaat automatisch de zoekopdracht en brengt het eerstvolgende formulierveld
+    of knop na de gemarkeerde tekst in focus.</p>
+
+  <h2 id="using_a_mouse">Een muis gebruiken</h2>
+
+  <h3 id="common_mouse_shortcuts">Algemene muissnelkoppelingen</h3>
+
+  <p>Een lijst met algemene snelkoppelingen voor de muis is beschikbaar onder
+    <a href="mouse_shortcuts.xhtml">Muissnelkoppelingen in
+    &brandShortName;</a>.</p>
+
+  <h2 id="fonts_and_colors">Lettertypen en kleuren</h2>
+
+  <h3 id="overriding_page_fonts">Paginalettertypen voorrang geven</h3>
+
+  <p>Sommige websites kunnen tekst weergeven in een lettertype dat moeilijk is te
+    lezen, en andere kunnen vertrouwen op de standaardinstellingen van de browser.
+    U kunt uw standaardlettertypen instellen door naar &pref.menuPath; te gaan,
+    het paneel <em>Inhoud</em> te selecteren en een standaardlettertype en grootte
+    te selecteren in de sectie <em>Lettertypen &amp; kleuren</em>.</p>
+
+  <p>U kunt standaardlettertypen opgeven voor verschillende stijlen, inclusief schreef,
+    schreefloos en monospace, door te klikken op de knop <em>Geavanceerd</em>.
+    Veel webpagina’s geven echter hun eigen lettertypen op, dus zullen uw keuzes
+    daarop geen effect hebben.  Vink de &pref.singular; <em>Pagina’s toestaan om hun
+    eigen lettertypen te kiezen, in plaats van mijn selecties hierboven</em> uit om de
+    lettertypen zoals gedefinieerd door zulke pagina’s niet te gebruiken.</p>
+
+  <p>Merk op dat sommige webpagina’s onjuist kunnen worden weergegeven, afhankelijk
+    van uw keuze voor een standaardlettertype.</p>
+
+  <h3 id="setting_a_minimum_font_size">Een minimale lettergrootte instellen</h3>
+
+  <p>Sommige websites kunnen tekst bevatten die te klein is om comfortabel
+    te lezen.  Om zulke pagina’s makkelijker te kunnen lezen kunt u een minimale
+    lettergrootte instellen. Op webpagina’s die proberen tekst kleiner dan deze
+    grootte weer te geven, zal &brandShortName; de tekst naar uw gekozen grootte
+    vergroten.</p>
+
+  <p>Om een minimale lettergrootte in te stellen gaat u naar &pref.menuPath;, selecteer
+    het paneel <em>Inhoud</em> en klik op de knop <em>Geavanceerd</em> in de sectie
+    <em>Lettertypen &amp; kleuren</em>.  U kunt een minimale lettergrootte opgeven
+    via het uitklapmenu.</p>
+
+  <p>Merk op dat sommige webpagina’s onjuist kunnen worden weergegeven, afhankelijk
+    van uw keuze voor een minimale lettergrootte.</p>
+
+  <h3 id="resizing_page_text">Paginatekst vergroten/verkleinen</h3>
+
+  <p>U kunt de tekstgrootte op een willekeurige pagina tijdelijk wijzigen in
+    het menu <span class="menuPath">Beeld &gt; Tekstgrootte</span>.  De nieuwe
+    grootte zal van kracht blijven totdat u uw browservenster of tabblad sluit,
+    zelfs als u naar een andere website gaat.</p>
+
+  <p>De volgende sneltoetsen bedienen de tekstgrootte:</p>
+
+  <ul>
+    <li>Druk op &accelKey;+<kbd><abbr title="plus">+</abbr></kbd> om
+      de tekst te vergroten.  Dit zoomt de tekst in tot 120% van zijn originele
+      grootte, daarna 150%, 200%, 300%, 450%, 675%, 1013% en 1519%.</li>
+    <li>Druk op &accelKey;+<kbd><abbr title="min">-</abbr></kbd> om
+      de tekst te verkleinen.  Dit zoomt de tekst uit tot 90% van zijn originele
+      grootte, daarna 50%, 33%, 22%, 15%, 10%, 7%, 4%, 3%, 2% en 1%.</li>
+    <li>Druk op &accelKey;+<kbd>0</kbd> om de tekstgrootte terug te zetten naar
+      de standaardgrootte van de pagina.</li>
+  </ul>
+
+  <p>Merk op dat sommige webpagina’s onjuist kunnen worden weergegeven als u de
+      tekst vergroot of verkleint.</p>
+
+  <h3 id="overriding_page_colors">Paginakleuren voorrang geven</h3>
+
+  <p>Sommige webpagina’s kunnen tekst- en achtergrondkleuren weergeven die
+    moeilijk te lezen zijn, en andere kunnen vertrouwen op de standaardkleuren
+    van de browser.  U kunt uw standaardkleuren instellen door naar &pref.menuPath;
+    te gaan, het paneel <em>Inhoud</em> te selecteren en op de knop <em>Kleuren</em>
+    te klikken in de sectie <em>Lettertypen &amp; kleuren</em>.  U kunt de
+    standaard tekst- en achtergrondkleuren instellen, evenals standaardkleuren
+    voor bezochte en niet-bezochte hyperkoppelingen.  U kunt ook opgeven of
+    hyperkoppelingen moeten worden onderstreept.</p>
+
+  <p>Veel webpagina’s gebruiken echter hun eigen kleuren, dus zullen uw keuzes
+    geen effect hebben.  Vink de &pref.singular; <em>Pagina’s toestaan om hun
+    eigen kleuren te kiezen, in plaats van mijn selecties hierboven</em> uit
+    om de kleuren zoals gedefinieerd door webpagina’s niet te gebruiken.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">Een thema met hoog contrast gebruiken</h3>
+
+    <p>&brandShortName; detecteert automatisch of u een thema met hoog contrast
+      gebruikt en geeft alles in uw hoogcontrast-kleurenschema weer. Dit
+      heeft voorrang boven alle andere browser- of pagina-instellingen en
+      beïnvloedt de &brandShortName;-interface zelf (alle menu’s, vensters
+      en dialoogvensters) en de inhoud van alle pagina’s die u bezoekt.</p>
+
+    <p class="win">Om een thema met hoog contrast te gebruiken gaat u naar
+      <span class="menuPath">menu Start &gt; Configuratiescherm &gt;
+      Toegankelijkheidsopties &gt; Beeldscherm</span> en vinkt u de
+      &pref.singular; <em>Hoog contrast gebruiken</em> aan.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">Webinhoud controleren </h2>
+
+  <h3 id="blocking_popup_windows">Pop-upvensters blokkeren</h3>
+
+  <p>Zie <a href="popup.xhtml">Pop-ups controleren</a> voor informatie over
+    het blokkeren van pop-upvensters.</p>
+
+  <h3 id="turning_off_java_applets">Java-applets uitzetten</h3>
+
+  <p>Sommige webpagina’s leveren een rijke interactieve ervaring met
+    Java&trade;-applets.  Gebruikers die afhankelijk zijn van toetsenbordnavigatie
+    kunnen echter problemen ondervinden met Java-applets die automatisch in
+    focus raken en geen mogelijkheid geven om uit de applet <q>uit te breken</q>
+    en naar de rest van de webpagina te navigeren.  Als dit een probleem voor
+    u is, kunt u Java uitschakelen door naar &pref.menuPath; te gaan,
+    het paneel <em>Inhoud</em> te selecteren en de &pref.singular;
+    <em>Java inschakelen</em> uit te vinken.</p>
+
+  <h3 id="restricting_javascript_behavior">JavaScript-gedrag beperken</h3>
+
+  <p>U kunt JavaScript volledig uitschakelen door naar &pref.menuPath; te gaan,
+    het paneel <em>Inhoud</em> te selecteren en <em>JavaScript inschakelen</em>
+    uit te vinken.  Sommige webpagina’s zijn afhankelijk van JavaScript en werken
+    misschien niet goed als JavaScript wordt uitgeschakeld.</p>
+
+  <p>Als u JavaScript niet volledig wenst uit te schakelen zijn er ook een aantal
+    geavanceerde JavaScript-instellingen voor het beperken van scriptgedrag.
+    Klik direct na het selectievakje <em>JavaScript inschakelen</em> op de knop
+    <em>Geavanceerd</em> om het venster <em>Geavanceerde JavaScript-instellingen</em>
+    te openen.  U kunt bepalen of het voor scripts is toegestaan om bestaande vensters
+    te verplaatsen of te vergroten/verkleinen, vensters te laten verschijnen/verdwijnen,
+    contextmenu’s uit te schakelen of te vervangen, de statusbalk te verbergen, of
+    statusbalktekst te veranderen.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">Compatibiliteit met
+    assisterende technologieën</h2>
+
+  <p>De laatste informatie over compatibiliteit met assisterende technologieën
+    van derden is online te vinden op
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: Compatibility with assistive technologies</a>.</p>
+
+  <h2 id="finding_help_online">Online hulp vinden</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific onderhoudt een aantal
+      <a target="_blank" href="http://www.freedomscientific.com/fs_support/User_Groups.asp">mailinglijsten
+      voor JAWS-gebruikers</a>.</p>
+
+    <p>GW Micro onderhoudt een aantal
+      <a target="_blank" href="http://www.gwmicro.com/Support/Email_Lists/">mailinglijsten
+      voor Window Eyes-gebruikers</a>.</p>
+  </div>
+
+  <p>U kunt <span class="win">ook</span> vragen over toegankelijkheid posten in het
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">&brandShortName;
+    Support forum</a>.</p>
+
+  <div class="contentsBox"><em>29 augustus 2006</em></div>
+
+  <p>Auteursrecht &copy; &copyright.years; Medewerkers van het Mozilla Help Viewer
+    Project.</p>
+
+</body>
+</html>

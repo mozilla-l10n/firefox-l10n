@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "Ongewenste-berichtenlogboek">
+<!ENTITY junkLogInfo.label "Activiteitsregistratie van de ongewenste-berichtenverwerking.">
+<!ENTITY clearLog.label "Logboek wissen">
+<!ENTITY clearLog.accesskey "w">
+<!ENTITY closeLog.label "Sluiten">
+<!ENTITY closeLog.accesskey "S">

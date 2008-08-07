@@ -1,0 +1,146 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&OK
+OK=OK
+CANCEL=Annuleren
+CANCEL_=&Annuleren
+NEXT_=&Volgende >
+BACK_=< Vo&rige
+IGNORE_=&Negeren
+PROXY_MESSAGE=Klik op de knop Verbinding... om een proxyserver voor het downloaden in te stellen. 
+PROXY_BUTTON=&Verbinding...
+PROXYSETTINGS=Proxyinstellingen:
+PROXYSETTINGS_=&Proxyinstellingen
+SERVER=Server:
+PORT=Poort:
+USERID=Gebruikers-ID:
+PASSWORD=Wachtwoord:
+SELECTDIRECTORY=Selecteer een map
+DIRECTORIES_=&Mappen:
+DRIVES_=&Schijven:
+STATUS=Resterend:
+FILE=Bestand:
+URL=URL:
+TO=Naar pad:
+ACCEPT_=&Accepteren
+DECLINE_=&Weigeren
+PROGRAMFOLDER_=&Programmamap:
+EXISTINGFOLDERS_=&Bestaande mappen:
+SETUPMESSAGE=De installatie is klaar met het kopiëren van bestanden naar uw computer. Voordat u $ProductNameInternal$ kunt gebruiken, dient u Windows of uw computer opnieuw te starten. Kies een van de volgende opties en klik op OK om de installatie te voltooien.
+RESTART=Opnieuw starten
+YESRESTART=Ja, ik wil mijn computer nu opnieuw starten.
+NORESTART=Nee, ik wil mijn computer later opnieuw starten.
+ADDITIONALCOMPONENTS_=&Extra onderdelen:
+DESCRIPTION=Beschrijving
+TOTALDOWNLOADSIZE=Totaal op te halen grootte:
+SPACEAVAILABLE=Beschikbare ruimte:
+COMPONENTS_=C&omponenten:
+BROWSEINFO=Kies een map om $ProductName$ in te installeren:
+DESTINATIONDIRECTORY=Installatiemap
+BROWSE_=B&laderen...
+DOWNLOADSIZE=Downloadgrootte: %u KB
+CURRENTSETTINGS=Huidige instellingen:
+INSTALLFOLDER=... naar de volgende locatie:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s, en:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Installeren
+DELETE_=&Verwijderen
+CONTINUE_=&Doorgaan
+SKIP_=Over&slaan
+README=&Lees mij
+PAUSE_=&Pauzeren
+RESUME_=He&rvatten
+CHECKED=Gemarkeerd
+UNCHECKED=Ongemarkeerd
+
+EXTRACTING=Bezig met uitpakken...
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Kon dialoogvenster %s niet creëren.
+ERROR_FAILED=%s is mislukt.
+ERROR_FILE_NOT_FOUND=Bestand niet gevonden: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=GetSystemDirectory() is mislukt.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED=GetWindowsDirectory() is mislukt.
+DLGQUITTITLE=Installatie afsluiten
+DLGQUITMSG=U hebt het installeren van $ProductName$ niet voltooid. Als u het installatieprogramma nu afsluit, zal $ProductName$ niet worden geïnstalleerd. Weet u zeker dat u de installatie wilt annuleren?
+DLG_REBOOT_TITLE=Bezig met het opnieuw starten van Windows
+ERROR_GETPROCADDRESS=GetProcAddress() van %s is mislukt.
+ERROR_WRITEPRIVATEPROFILESTRING=WritePrivateProfileString() is mislukt voor bestand %s
+MSG_RETRIEVE_CONFIGINI=Wacht even terwijl het installatieprogramma zijn configuratiescript van het web ophaalt... 
+ERROR_CREATE_TEMP_DIR=Het installatieprogramma was niet in staat om de map TEMP aan te maken: %s
+DLGBROWSETITLE=Selecteer een map
+ERROR_DETERMINING_DISK_SPACE=Kon de beschikbare schijfruimte niet bepalen voor: %s
+DLG_DISK_SPACE_CHECK_TITLE=Schijfruimtecontrole
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=Er is onvoldoende schijfruimte aangetroffen om door te gaan met de installatie op %s voor het pad %sVereist: %sBeschikbaar: %sKlik op Hervatten indien meer schijfruimte beschikbaar is gemaakt of klik op Annuleren om de installatie te annuleren.
+DLG_DISK_SPACE_CHECK_MSG=Er is onvoldoende schijfruimte aangetroffen om door te gaan met de installatie op %s voor het pad %sVereist: %sBeschikbaar: %sKlik op OK om terug te gaan en een ander doelpad te kiezen.
+ERROR_CREATE_DIRECTORY=Kon de map %s niet aanmaken. Verzeker u ervan dat u toestemming hebt om de map aan te maken.
+ERROR_MESSAGE_TITLE=$ProductNameInternal$-installatiefout
+STR_FILE_NUMBER=Aantal bestanden:
+STR_FILENAME=Bestandsnaam:
+MSG_SMARTUPDATE_START=Bezig met het voorbereiden van de installatie, even wachten...
+MSG_CONFIGURING=Bezig met het configureren van %s, even wachten...
+ERROR_XPI_INSTALL=Er is een fout opgetreden tijdens de installatie
+ERROR_SETUP_REQUIREMENT=$ProductName$ kan enkel worden uitgevoerd onder Windows 95 of hoger. Het installatieprogramma zal nu afsluiten. 
+DLG_EXTRACTING_TITLE=$ProductName$-installatie - Installatievoortgang
+STR_PROCESSINGFILE=Bezig met het voorbereiden van bestand: %s
+STR_INSTALLING=Momenteel bezig met het installeren van %s
+STR_COPYINGFILE=Bezig met het kopiëren van bestand: %s
+MB_WARNING_STR=Waarschuwing
+MB_MESSAGE_STR=Bericht
+MB_ATTENTION_STR=Attentie
+MSG_CREATE_DIRECTORY=De volgende map bestaat niet: %sWilt u deze aanmaken?
+STR_CREATE_DIRECTORY=Map aanmaken?
+ERROR_PROGRAM_FOLDER_NAME=Ongeldige programmamapnaam ingevoerd.
+CB_DEFAULT=Standaard
+ERROR_DESTINATION_PATH=Ongeldig pad ingevoerd.
+STR_SETUP_TYPE=Installatietype:
+STR_SELECTED_COMPONENTS=Geselecteerde onderdelen:
+STR_DESTINATION_DIRECTORY=Doelmap:
+STR_PROGRAM_FOLDER=Programmamap:
+STR_DELETING_DESTINATION_DIR=Bezig met het verwijderen van de doelmap om de nieuwe versie te kunnen installeren, even wachten...
+STR_SETUP=Installatie
+STR_DOWNLOAD_SITE=Downloadsite:
+STR_SAVE_INSTALLER_FILES=Gedownloade en installatiebestanden opslaan in:
+MSG_INIT_SETUP=Bezig met het voorbereiden van de installatie, even wachten...
+STR_MESSAGEBOX_TITLE=%s-installatie
+ERROR_GETVERSION=GetVersionEx() is mislukt!
+DLG_USAGE_TITLE=Gebruik
+
+STATUS_EXTRACTING=Bezig met het uitpakken van %s
+STATUS_LAUNCHING_SETUP=Bezig met het starten van de installatie...
+ERROR_FILE_WRITE=Niet in staat bestand %s weg te schrijven
+TITLE=Installatie
+ERROR_OUT_OF_MEMORY=Onvoldoende geheugen!
+
+ERROR_DLL_LOAD=Kon %s niet laden
+ERROR_STRING_LOAD=Kon string resource ID %d niet laden
+ERROR_STRING_NULL=Null-pointer tegengekomen.
+ERROR_GLOBALALLOC=Geheugentoewijzingsfout.
+MSG_FORCE_QUIT_PROCESS=De installatie heeft vastgesteld dat %s (%s) nog steeds wordt uitgevoerd. Klik op OK om %s af te sluiten en door te gaan met de installatie. U kunt ook Windows Taakbeheer gebruiken om %s af te sluiten en vervolgens op OK klikken om door te gaan met de installatie.
+MSG_FORCE_QUIT_PROCESS_FAILED=De installatie zal nu afsluiten. De installatie kon niet doorgaan omdat %s (%s) nog steeds wordt uitgevoerd. Probeer %s handmatig af te sluiten door gebruik te maken van Windows Taakbeheer en voer de installatie vervolgens opnieuw uit.
+ERROR_PATH_WITHIN_WINDIR=$ProductName$ kan niet worden geïnstalleerd in een submap van de Windows-map. Kies een andere map.

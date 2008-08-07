@@ -1,0 +1,14 @@
+<!ENTITY windowtitle.label "Uitzonderingen">
+<!ENTITY treehead.sitename.label "Webpagina">
+<!ENTITY treehead.status.label "Status">
+<!ENTITY remove.label "Webpagina verwijderen">
+<!ENTITY remove.accesskey "v">
+<!ENTITY removeall.label "Alle webpagina’s verwijderen">
+<!ENTITY removeall.accesskey "A">
+<!ENTITY address.label "Webpagina adres">
+<!ENTITY block.label "Blokkeer">
+<!ENTITY block.accesskey "B">
+<!ENTITY session.label "Sessie toestaan">
+<!ENTITY session.accesskey "S">
+<!ENTITY allow.label "Toestaan">
+<!ENTITY allow.accesskey "T">

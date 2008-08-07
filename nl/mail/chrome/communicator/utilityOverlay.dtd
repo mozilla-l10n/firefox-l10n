@@ -1,0 +1,75 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label "Bestand">
+<!ENTITY fileMenu.accesskey "B">
+<!ENTITY newMenu.label "Nieuw">
+<!ENTITY newMenu.accesskey "N">
+
+<!ENTITY editMenu.label "Bewerken">
+<!ENTITY editMenu.accesskey "w">
+<!ENTITY undoCmd.label "Ongedaan maken">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "O">
+<!ENTITY redoCmd.label "Opnieuw uitvoeren">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "u">
+<!ENTITY cutCmd.label "Knippen">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "n">
+<!ENTITY copyCmd.label "Kopiëren">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Plakken">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY deleteCmd.label "Verwijderen">
+<!ENTITY deleteCmd.key "d">
+<!ENTITY deleteCmd.accesskey "V">
+<!ENTITY selectAllCmd.label "Alles selecteren">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY preferencesCmd.label "Opties…">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Voorkeuren">
+<!ENTITY preferencesCmdUnix.accesskey "V">
+
+<!ENTITY findTypeTextCmd.label "Tekst zoeken tijdens het typen">
+<!ENTITY findTypeTextCmd.accesskey "z">
+
+<!ENTITY viewMenu.label "Beeld">
+<!ENTITY viewMenu.accesskey "L">
+<!ENTITY viewToolbarsMenu.label "Werkbalken">
+<!ENTITY viewToolbarsMenu.accesskey "W">
+<!ENTITY showTaskbarCmd.label "Statusbalk">
+<!ENTITY showTaskbarCmd.accesskey "S">
+
+<!ENTITY direct.label "Online (proxy: geen)">
+<!ENTITY direct.accesskey "n">
+<!ENTITY manual.label "Online (proxy: handmatig)">
+<!ENTITY manual.accesskey "h">
+<!ENTITY pac.label "Online (proxy: auto)">
+<!ENTITY pac.accesskey "a">
+
+<!ENTITY proxy.label "Proxyconfiguratie…">
+<!ENTITY proxy.accesskey "P">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Sluiten">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "S">
+
+<!ENTITY closeWindow.label "Venster sluiten">
+
+<!ENTITY quitApplicationCmd.label "Afsluiten">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "A">
+
+<!ENTITY quitApplicationCmdUnix.label "Afsluiten">
+<!ENTITY quitApplicationCmdUnix.accesskey "A">
+
+<!ENTITY quitApplicationCmdMac.label	"&brandShortName; afsluiten"> 
+<!ENTITY quitApplicationCmdMac.accesskey	"a">

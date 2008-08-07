@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Beveiligingswaarschuwingen">
+
+<!ENTITY security.warn_when                       "Een waarschuwingsvenster tonen als:">
+<!ENTITY security.warn_entering_secure.label      "Ik een beveiligde pagina ga bekijken.">
+<!ENTITY security.warn_entering_secure.accesskey  "b">
+<!ENTITY security.warn_entering_weak.label        "Ik een pagina ga bekijken die een lage graad van versleuteling gebruikt.">
+<!ENTITY security.warn_entering_weak.accesskey    "l">
+<!ENTITY security.warn_leaving_secure.label       "Ik een beveiligde pagina verlaat.">
+<!ENTITY security.warn_leaving_secure.accesskey   "v">
+<!ENTITY security.warn_submit_insecure.label      "Ik informatie verstuur die niet versleuteld is.">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "Ik een beveiligde pagina ga bekijken die niet-versleutelde informatie bevat.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

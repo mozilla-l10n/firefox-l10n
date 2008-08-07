@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "Opmaak">
+<!ENTITY itemTags.label                   "Labels">
+<!ENTITY itemFonts.label                  "Lettertypen">
+
+<!ENTITY textBegin.label                  "Geciteerde-platte-tekstverschijning">
+<!ENTITY style.label                      "Stijl:">
+<!ENTITY style.accesskey                  "S">
+<!ENTITY regularStyle.label               "Normaal">
+<!ENTITY bold.label                       "Vet">
+<!ENTITY italic.label                     "Cursief">
+<!ENTITY boldItalic.label                 "Vet en cursief">
+<!ENTITY size.label                       "Grootte:">
+<!ENTITY size.accesskey                   "G">
+<!ENTITY regularSize.label                "Normaal">
+<!ENTITY bigger.label                     "Groter">
+<!ENTITY smaller.label                    "Kleiner">
+<!ENTITY color.label                      "Kleur:">
+<!ENTITY color.accesskey                  "K">
+<!ENTITY displayWidth.label               "Platte-tekstberichten">
+<!ENTITY plainText.label                  "Het volgende lettertype gebruiken:">
+<!ENTITY displayText.label                "Geciteerde tekst in platte-tekstberichten weergeven als:">
+<!ENTITY viewingPlainText.label           "Bij het weergeven van platte-tekstberichten:">
+<!ENTITY fixedWidth.label                 "Vaste-breedte-lettertype">
+<!ENTITY fixedWidth.accesskey             "V">
+<!ENTITY variableWidth.label              "Variabele-breedte-lettertype">
+<!ENTITY variableWidth.accesskey          "r">
+<!ENTITY readingMessagesHeader.label      "Voor inkomende berichten">
+<!ENTITY colors.label                     "Kleuren">
+<!ENTITY overrideColors.label             "Bij het weergeven van berichten de volgende kleuren gebruiken:">
+<!ENTITY textColor.label                  "Tekstkleur:">
+<!ENTITY textColor.accesskey              "T">
+<!ENTITY backgroundColor.label            "Achtergrondkleur:">
+<!ENTITY backgroundColor.accesskey        "A">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "Emoticons weergeven als afbeeldingen">
+<!ENTITY convertEmoticons.accesskey       "m">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label            "Labels kunnen worden gebruikt voor het categoriseren van uw berichten.">
+<!ENTITY addTagButton.label               "Toevoegen">
+<!ENTITY addTagButton.accesskey           "o">
+<!ENTITY editTagButton.label              "Bewerken">
+<!ENTITY editTagButton.accesskey          "w">
+<!ENTITY removeTagButton.label            "Verwijderen">
+<!ENTITY removeTagButton.accesskey        "d">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label  "De lettertypen en tekensets configureren die worden gebruikt door &brandShortName;">
+<!ENTITY fontsAndEncodingsCaption.label      "Lettertypen &amp; tekensets">
+<!ENTITY fontOptions.accesskey            "L">
+<!ENTITY fontOptions.label                "Lettertypen…">

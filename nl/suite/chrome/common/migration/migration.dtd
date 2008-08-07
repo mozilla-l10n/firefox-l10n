@@ -1,0 +1,26 @@
+<!ENTITY migrationWizard.title           "Importeerassistent">
+
+<!ENTITY importAllFrom.label             "Importeer alle items uit:">
+<!ENTITY importBookmarksFrom.label       "Importeer bladwijzers uit:">
+
+<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey   "S">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
+<!ENTITY importFromFile.label            "Bestand">
+<!ENTITY importFromFile.accesskey        "B">
+<!ENTITY importFromNothing.label         "Niets importeren">
+<!ENTITY importFromNothing.accesskey     "N">
+
+<!ENTITY importSource.title              "Instellingen en gegevens importeren">
+<!ENTITY importItems.title               "Te importeren items">
+<!ENTITY importItems.label               "Selecteer de te importeren items:">
+
+<!ENTITY selectProfile.title             "Profiel selecteren">
+<!ENTITY selectProfile.label             "De volgende profielen zijn beschikbaar om uit te importeren:">
+
+<!ENTITY migrating.title                 "Bezig met importeren…">
+<!ENTITY migrating.label                 "De volgende items worden momenteel geïmporteerd…">
+
+<!ENTITY done.title                      "Importeren voltooid">
+<!ENTITY done.label                      "De volgende items zijn succesvol geïmporteerd:">

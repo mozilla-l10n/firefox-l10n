@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label            "Een website heeft zonder uw toestemming geprobeerd een pop-upvenster te openen. &brandShortName; heeft het pop-upvenster automatisch gesloten.  Wanneer &brandShortName; deze pop-upvensters blokkeert, zult u een pictogram zien op de statusbalk.">
+
+<!ENTITY endDescription.label              "U kunt op dit pictogram klikken om te zien welke websites &brandShortName; heeft geblokkeerd en deze websites toestaan pop-upvensters te openen als ze zijn vereist voor het correct functioneren van de website.">
+
+<!ENTITY caption.label                     "Over het blokkeren van pop-upvensters">
+
+<!ENTITY done.label "Klaar">

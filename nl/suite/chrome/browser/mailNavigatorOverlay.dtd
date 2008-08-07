@@ -1,0 +1,23 @@
+<!ENTITY newMessageCmd.label             "Bericht">
+<!ENTITY newMessageCmd.accesskey         "B">
+<!ENTITY newMessageCmd.key               "M">
+
+<!ENTITY newCardCmd.label                "Adresboekkaart…">
+<!ENTITY newCardCmd.accesskey            "A">
+
+<!ENTITY sendPage.label                  "Pagina verzenden…">
+<!ENTITY sendPage.accesskey              "z">
+
+
+<!ENTITY contextSendThisPage.label       "Deze pagina verzendenSend This Page…">
+<!ENTITY contextSendThisPage.accesskey   "d">
+<!ENTITY contextSendThisLink.label       "Deze koppeling verzendenSend This Link…">
+<!ENTITY contextSendThisLink.accesskey   "k">
+<!ENTITY contextSendImage.label          "Afbeelding verzenden…">
+<!ENTITY contextSendImage.accesskey      "n">
+<!ENTITY contextSendFrame.label          "Deelvenster verzenden…">
+<!ENTITY contextSendFrame.accesskey      "d">
+
+<!ENTITY sendLinkCmd.label               "Koppeling verzenden…"> 
+<!ENTITY sendLinkCmd.accesskey           "K">
+

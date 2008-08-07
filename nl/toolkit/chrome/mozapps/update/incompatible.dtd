@@ -1,0 +1,13 @@
+
+<!ENTITY  incompatible.title        "Incompatibele items">
+<!ENTITY  incompatible.intro        "De volgende items zijn niet compatibel met deze update voor &brandShortName; en
+                                     zullen worden uitgeschakeld als hij wordt geïnstalleerd:">
+<!ENTITY  incompatible.update       "&brandShortName; zal regelmatig op updates voor de items controleren voor het geval 
+                                     dat een compatibele versie beschikbaar komt.">
+<!ENTITY  incompatible.suffix       "&brandShortName;-updates bevatten belangrijke veiligheidsverbeteringen. Het is
+                                     zeer aan te raden dat u &brandShortName; bijwerkt, zelfs als sommige van uw extensies
+                                     en thema’s incompatibel worden.">
+                                     
+<!ENTITY  closebutton.label         "Sluiten">
+                                     
+                                     

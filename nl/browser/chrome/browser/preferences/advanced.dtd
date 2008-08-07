@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Algemeen">
+
+<!ENTITY accessibility.label             "Toegankelijkheid">
+
+<!ENTITY useCursorNavigation.label       "Altijd de pijltoetsen gebruiken om te navigeren binnen pagina’s">
+<!ENTITY useCursorNavigation.accesskey   "o">
+<!ENTITY searchStartTyping.label         "Naar tekst zoeken wanneer ik begin met typen">
+<!ENTITY searchStartTyping.accesskey     "t">
+<!ENTITY blockAutoRefresh.label          "Mij waarschuwen wanneer websites proberen de pagina door te sturen of te herladen">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+<!ENTITY browsing.label                  "Navigeren">
+
+<!ENTITY useAutoScroll.label             "Automatisch schuiven gebruiken">
+<!ENTITY useAutoScroll.accesskey         "m">
+<!ENTITY useSmoothScrolling.label        "Vloeiend schuiven gebruiken">
+<!ENTITY useSmoothScrolling.accesskey    "e">
+<!ENTITY checkSpelling.label             "Mijn spelling controleren tijdens het typen">
+<!ENTITY checkSpelling.accesskey         "s">
+
+<!ENTITY systemDefaults.label            "Standaardwaarden systeem">
+<!ENTITY alwaysCheckDefault.label        "Altijd tijdens het opstarten controleren of &brandShortName; de standaardbrowser is"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "c">
+<!ENTITY checkNow.label                  "Nu controleren">
+<!ENTITY checkNow.accesskey              "N">
+
+<!ENTITY networkTab.label                "Netwerk">
+
+<!ENTITY connection.label                "Verbinding">
+
+<!ENTITY connectionDesc.label            "Configureren hoe &brandShortName; verbinding maakt met het internet">
+<!ENTITY connectionSettings.label        "Instellingen…">
+<!ENTITY connectionSettings.accesskey    "I">
+
+<!ENTITY offlineStorage.label            "Offlineopslag">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Tot">
+<!ENTITY useCacheBefore.accesskey        "o">
+<!ENTITY useCacheAfter.label             "MB ruimte gebruiken voor de buffer">
+<!ENTITY clearCacheNow.label             "Nu wissen">
+<!ENTITY clearCacheNow.accesskey         "w">
+
+<!ENTITY updateTab.label                 "Update">
+
+<!ENTITY autoCheck.label                 "Automatisch controleren op updates voor:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "Geïnstalleerde add-ons">
+<!ENTITY enableAddonsUpdate.accesskey    "G">
+<!ENTITY enableSearchUpdate.label        "Zoekmachines">
+<!ENTITY enableSearchUpdate.accesskey    "Z">
+<!ENTITY whenUpdatesFound.label          "Als er updates voor &brandShortName; worden gevonden:">
+<!ENTITY askMe.label                     "Mij vragen wat ik wil doen">
+<!ENTITY askMe.accesskey                 "r">
+<!ENTITY modeAutomatic.label             "Automatisch de update downloaden en installeren">
+<!ENTITY modeAutomatic.accesskey         "u">
+<!ENTITY modeAutoAddonWarn.label         "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
+<!ENTITY modeAutoAddonWarn.accesskey     "w">
+<!ENTITY updateHistory.label             "Updategeschiedenis tonen">
+<!ENTITY updateHistory.accesskey         "d">
+
+<!ENTITY offlineNotify.label             "Mij vertellen wanneer een website vraagt gegevens op te slaan voor offlinegebruik">
+<!ENTITY offlineNotify.accesskey         "e">
+<!ENTITY offlineNotifyExceptions.label   "Uitzonderingen…">
+<!ENTITY offlineNotifyExceptions.accesskey "U">
+
+<!ENTITY offlineAppsList.label           "De volgende websites hebben gegevens opgeslagen voor offlinegebruik:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Verwijderen…">
+<!ENTITY offlineAppsListRemove.accesskey "V">
+<!ENTITY offlineAppRemove.confirm        "Offlinegegevens verwijderen">
+
+<!ENTITY encryptionTab.label             "Encryptie">
+
+<!ENTITY protocols.label                 "Protocollen">
+<!ENTITY useSSL3.label                   "SSL 3.0 gebruiken">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 gebruiken">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certificaten">
+<!ENTITY certSelection.description       "Wanneer een server om mijn persoonlijke certificaat verzoekt:">
+<!ENTITY certs.auto                      "Er automatisch een selecteren">
+<!ENTITY certs.auto.accesskey            "a">
+<!ENTITY certs.ask                       "Mij elke keer vragen">
+<!ENTITY certs.ask.accesskey             "e">
+<!ENTITY viewCerts.label                 "Certificaten bekijken">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewCRLs.label                  "Intrekkingslijsten">
+<!ENTITY viewCRLs.accesskey              "I">
+<!ENTITY verify2.label                   "Validatie">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Beveiligingsapparaten">
+<!ENTITY viewSecurityDevices.accesskey   "B">

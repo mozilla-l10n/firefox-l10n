@@ -1,0 +1,94 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Beveiligingsinstellingen">
+<!ENTITY serverSettings.label "Serverinstellingen">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP-mailserver">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP-mailserver">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Nieuwsserver (NNTP)">
+<!ENTITY webmail.label "Webmail-account">
+<!ENTITY serverType.label "Servertype:">
+<!ENTITY serverName.label "Servernaam:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "Gebruikersnaam:">
+<!ENTITY userName.accesskey "u">
+<!ENTITY port.label "Poort:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Standaard:">
+<!ENTITY savePassword.label "Wachtwoord bewaren">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Op nieuwe berichten controleren na elke">
+<!ENTITY biffStart.accesskey "c">
+<!ENTITY biffEnd.label "minuten">
+<!ENTITY isSecure.label "Beveiligde verbinding (SSL) gebruiken">
+<!ENTITY isSecure.accesskey "G">
+<!ENTITY socketType.label "Beveiligde verbinding gebruiken:">
+<!ENTITY neverSecure.label "Nooit">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, als beschikbaar">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Beveiligde authenticatie gebruiken">
+<!ENTITY useSecAuth.accesskey "d">
+<!ENTITY leaveOnServer.label "Berichten op de server laten">
+<!ENTITY leaveOnServer.accesskey "h">
+<!ENTITY headersOnly.label "Alleen berichtkoppen ophalen">
+<!ENTITY headersOnly.accesskey "k">
+<!ENTITY deleteByAgeFromServer.label "Voor maximaal">
+<!ENTITY deleteByAgeFromServer.accesskey "x">
+<!ENTITY daysEnd.label "dagen">
+<!ENTITY deleteOnServer2.label "Totdat ik ze verwijder">
+<!ENTITY deleteOnServer2.accesskey "i">
+<!ENTITY downloadOnBiff.label "Nieuwe berichten automatisch downloaden">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "Server-hostnaam">
+<!ENTITY username.label "Uw inlognaam">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "POP-serverinformatie">
+<!ENTITY deleteMessagePrefix.label "Als ik een bericht verwijder:">
+<!ENTITY modelMoveToTrash.label "Het naar de prullenbak verplaatsen">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Het als verwijderd markeren">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Het onmiddellijk verwijderen">
+<!ENTITY modelDeleteImmediately.accesskey "d">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Postvak IN opruimen (&quot;Expunge&quot;) bij afsluiten">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "Prullenbak leegmaken bij afsluiten">
+<!ENTITY emptyTrashOnExit.accesskey "f">
+<!ENTITY loginAtStartup.label "Op nieuwe berichten controleren bij opstarten">
+<!ENTITY loginAtStartup.accesskey "o">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+    of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Mij vragen voor het downloaden van meer dan">
+<!ENTITY maxMessagesStart.accesskey "v">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "berichten">
+<!ENTITY alwaysAuthenticate.label "Altijd verzoeken om authenticatie bij verbinden met deze server">
+<!ENTITY alwaysAuthenticate.accesskey "z">
+<!ENTITY newsrcFilePath.label "newsrc-bestand:">
+<!ENTITY localPath.label "Lokale map">
+<!ENTITY abbreviate.label "Nieuwsgroepnamen in het berichtenmapvenster tonen als:">
+<!ENTITY abbreviateOn.label "Volledige namen (bijvoorbeeld ‘netscape.public.mozilla.mail-news’)">
+<!ENTITY abbreviateOff.label "Afgekorte namen (bijvoorbeeld ‘n.p.m.mail-news’)">
+<!ENTITY advancedButton.label "Geavanceerd…">
+<!ENTITY serverDefaultCharset.label "Standaard tekenset:">
+<!ENTITY advancedButton.accesskey "G">
+<!ENTITY localFolderPicker.label "Selecteer lokale map">
+<!ENTITY browseFolder.label "Bladeren…">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "newsrc-bestand selecteren">
+<!ENTITY browseNewsrc.label "Bladeren…">
+<!ENTITY browseNewsrc.accesskey "e">

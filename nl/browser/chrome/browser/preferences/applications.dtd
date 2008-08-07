@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label        "Inhoudstype">
+<!ENTITY  typeColumn.accesskey    "I">
+
+<!ENTITY  actionColumn2.label     "Actie">
+<!ENTITY  actionColumn2.accesskey "A">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "Zoeken:">
+<!ENTITY  filter.accesskey        "Z">
+
+<!ENTITY  clear.label             "Wissen">
+<!ENTITY  clear.accesskey         "W">

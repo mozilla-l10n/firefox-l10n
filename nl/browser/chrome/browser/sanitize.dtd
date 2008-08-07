@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "Privégegevens opruimen">
+
+<!ENTITY sanitizeItems.label          "De volgende gegevens nu wissen:">
+<!ENTITY clearDataSettings.label      "Als ik &brandShortName; vraag mijn privégegevens op te ruimen, het volgende wissen:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Navigatiegeschiedenis">
+<!ENTITY itemHistory.accesskey        "N">
+<!ENTITY itemFormSearchHistory.label  "Opgeslagen formulier- en zoekgeschiedenis">
+<!ENTITY itemFormSearchHistory.accesskey "f">
+<!ENTITY itemPasswords.label          "Opgeslagen wachtwoorden">
+<!ENTITY itemPasswords.accesskey      "w">
+<!ENTITY itemCookies.label            "Cookies">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "Buffer">
+<!ENTITY itemCache.accesskey          "B">
+<!ENTITY itemOfflineApps.label        "Offlinewebsitegegevens">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloads.label          "Downloadgeschiedenis">
+<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemSessions.label           "Geauthenticeerde sessies">
+<!ENTITY itemSessions.accesskey       "s">
+<!ENTITY window.width                 "30em">

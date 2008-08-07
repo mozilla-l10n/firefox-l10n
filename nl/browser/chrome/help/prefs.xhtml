@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Ryan Flint <rflint@dslr.net>
+  Jeff Walden <jwalden+code@mit.edu>
+  Myk Melez <myk@mozilla.org>
+  Martijn Ras <Martijn.Ras@Cable4U.nl> (Vertaald op 7 november 2004) 
+  Gert-Paul van der Beek <gertpaul@gmail.com> (bijgewerkt op 8 mei 2005) 
+  Hendrik Maryns <hendrik.maryns@uni-tuebingen.de> (Bijgewerkt op 8 september 2005)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Opties van &brandFullName;</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+  
+  <h1>&pref.pluralCaps; van &brandFullName;</h1>
+  <p>Dit document beschrijft alle &pref.plural; die beschikbaar zijn in het venster
+    &pref.pluralCaps; van &brandFullName;.</p>
+  
+  <div class="contentsBox">In dit hoofdstuk:
+    <ul>
+      <li><a href="#main_options">Algemene &pref.plural;</a></li>
+      <li><a href="#tabs_options">Tabbladen&pref.plural;</a></li>
+      <li><a href="#content_options">Inhouds&pref.plural;</a></li>
+      <li><a href="#applications_options">Toepassings&pref.plural;</a></li>
+      <li><a href="#privacy_options">Privacy&pref.plural;</a></li>
+      <li><a href="#security_options">Beveiligings&pref.plural;</a></li>
+      <li><a href="#advanced_options">Geavanceerde &pref.plural;</a></li>
+    </ul>
+  </div>
+  
+  <h2 id="main_options">Algemene &pref.plural;</h2>
+  
+  <h3 id="home_page">Opstarten</h3>
+    <p>Als u &brandShortName; opstart, wordt standaard uw <a
+    href="glossary.xhtml#home_page">startpagina</a> weergegeven.  Uw startpagina
+    kan een vaak bezochte website zijn, een zoekmachine, of misschien uw e-mailaccount,
+    maar die keuze is aan u.  In deze sectie kunt u uw startpagina wijzigen, of
+    ervoor kiezen om een andere pagina of een groep pagina’s weer te geven bij
+    het opstarten.</p>
+    
+  <p><em>Als &brandShortName; start</em><br/>
+    Standaard opent &brandShortName; bij het opstarten uw startpagina (aangegeven in
+    het tekstveld direct eronder), die overeenkomt met de optie <em>Mijn startpagina
+    tonen</em>.  Als alternatief kunt u kiezen voor het weergeven van een lege pagina
+    (wellicht om de benodigde tijd te elimineren die nodig is om die pagina van het
+    internet op te halen), door de optie <em>Een lege pagina tonen</em> te selecteren.</p>
+
+  <p>Als een laatste alternatief kunt u &brandShortName; de vensters en tabbladen
+    die u de laatste keer dat u &brandShortName; uitvoerde had geopend laten heropenen,
+    wat u effectief terugbrengt naar waar u was gebleven toen u voor het laatst stopte
+    met navigeren over het internet. Dit kan een handige manier zijn om te bewaren
+    wat u aan het doen was toen u &brandShortName; afsloot, bijvoorbeeld voor het
+    installeren van een update voor het besturingssysteem.  U kunt deze optie kiezen
+    door <em>Mijn vensters en tabbladen van de vorige keer tonen</em> te selecteren.</p>
+
+  <p><em>Startpagina</em><br/>
+    Als u &brandShortName; hebt ingesteld om uw startpagina te tonen als u 
+    &brandShortName; start, geeft u de startpagina op door deze hier in te typen.
+    U kunt ook op één van de knoppen onder het tekstveld klikken om een speciale
+    startpagina te kiezen:</p>
+
+  <ul>
+    <li><em>Huidige pagina gebruiken</em> stelt de huidige weergegeven pagina
+      (of pagina’s, als u meerdere tabbladen hebt geopend) in als uw startpagina</li>
+    <li><em>Bladwijzer gebruiken</em> stelt de geselecteerde bladwijzer (of als u
+      een map selecteert, de groep bladwijzers in die map) in als uw startpagina</li>
+    <li><em>Standaard herstellen</em> zet uw startpagina terug naar de standaard
+      startpagina</li>
+  </ul>
+
+  <h3 id="downloads">Downloads</h3>
+  <p>Deze sectie bevat &pref.plural; die bepalen hoe &brandShortName;
+    bestanden downloadt.</p>
+    
+  <p><em>Downloadbeheerder tonen tijdens het downloaden van een bestand</em><br/>
+    Met deze &pref.singular; geselecteerd zal &brandShortName; het venster <a
+    href="download_manager.xhtml">Downloads</a> openen als u begint met het
+    downloaden van een bestand.</p>
+    
+  <p><em>Sluiten wanneer alle downloads zijn voltooid</em><br/>
+    Selecteer deze &pref.singular; om &brandShortName; het venster Downloads
+    te laten sluiten wanneer alle op dat moment lopende downloads zijn voltooid.</p>
+      
+  <p><em id="download_folder">Bestanden opslaan in</em><br/>
+    Standaard worden gedownloade bestanden automatisch opgeslagen op het Bureaublad,
+    wat het probleem van het specificeren van een downloadlocatie voor elk bestand dat
+    u downloadt elimineert.  U kunt een andere map kiezen door op de knop
+    <em><span class="noMac">Bladeren…</span><span class="mac">Kiezen…</span></em>
+    te klikken.</p>
+      
+  <p><em>Mij altijd vragen waar bestanden moeten worden opgeslagen</em><br/>
+    Met deze &pref.singular; geselecteerd zal &brandShortName; u vragen waar u elk
+    gedownload bestand wilt opslaan (in plaats van gebruik te maken van de opgegeven
+    standaardlocatie erboven).</p>
+  
+  <h3 id="system_defaults">Standaardwaarden systeem</h3>
+  <p><em>Altijd tijdens het opstarten controleren of &brandShortName; de standaardbrowser
+    is</em><br/>
+    Selecteer deze optie als u wilt dat &brandShortName; bij het opstarten controleert
+    of het de standaardbrowser is.  Dit zal garanderen dat &brandShortName; wordt gebruikt
+    zodra een toepassing een webpagina probeert weer te geven.  U kunt ook op de knop
+    <em>Nu controleren</em> klikken om dit meteen te controleren.</p>
+
+  <h3 id="addons">Add-ons</h3>
+  <p><em>Add-ons beheren</em><br/>
+    Voor het installeren of deïnstalleren, bijwerken of configureren van add-ons klikt u
+    op de knop <em>Add-ons beheren</em> om de add-onbeheerder te openen. Deze is ook te
+    bereiken vanuit <span class="menuPath">Extra &gt; Add-ons</span>. Een gedetailleerde
+    beschrijving van add-ons en de add-onbeheerder is <a href=
+    "customization.xhtml#add_ons">hier</a> beschikbaar.</p>
+
+<h2 id="tabs_options">Tabbladen&pref.plural;</h2>
+<p><em>Nieuwe pagina’s moeten worden geopend in:</em><br/>
+  Deze &pref.singular; bepaalt of koppelingen van andere toepassingen of van
+  webpagina’s die verzoeken om deze te openen in nieuwe vensters worden geopend in
+  <em>een nieuw venster</em> of <em>een nieuw tabblad</em> in het meest recente venster.</p>
+
+<p><strong>Noot:</strong> Als u ervoor hebt gekozen pagina’s te openen in nieuwe
+  tabbladen, zal &brandShortName; deze &pref.singular; negeren en een nieuw venster
+  openen vanaf een koppeling als de auteur van de pagina heeft opgegeven dat het
+  nieuwe venster bepaalde afmetingen heeft, omdat sommige pagina’s alleen in
+  bepaalde afmetingen juist kunnen worden weergeven.</p>
+  
+<p><em>Mij waarschuwen bij het sluiten van meerdere tabbladen</em><br/>
+  Als u een venster met meerdere tabbladen sluit, zal &brandShortName; u vragen
+  uw keuze te bevestigen. Dit voorkomt dat u per ongeluk het hele venster sluit
+  als u alleen het huidige tabblad wilde sluiten. Vink deze &pref.singular; uit
+  om deze waarschuwing uit te schakelen en &brandShortName; het hele venster te laten
+  laten sluiten.</p>
+
+<p><em>Mij waarschuwen als het openen van meerdere tabbladen &brandShortName; zou
+  kunnen vertragen</em><br/>
+  Wanneer u een groot aantal tabbladen tegelijk opent, zal &brandShortName; u vragen
+  uw keuze te bevestigen. Dit voorkomt dat u per ongeluk uw systeem vertraagt tijdens
+  het laden van de pagina’s.  Vink deze &pref.singular; uit om deze waarschuwing
+  uit te schakelen.</p>
+  
+<p><em>De tabbladenbalk altijd tonen</em><br/>
+  Als u slechts één webpagina bekijkt in een &brandShortName;-venster, wordt de
+  tabbladenbalk normaal gesproken niet getoond. Vink deze &pref.singular; aan om de
+  tabbladenbalk altijd te tonen, ook wanneer het &brandShortName;-venster maar één
+  pagina bevat.</p>
+
+<p><em>Als ik een koppeling open in een nieuw tabblad, er meteen naartoe gaan</em><br/>
+  Wanneer u met de middelste muisknop op een webkoppeling klikt (of &accelKey; indrukt
+  tijdens het klikken met de linkermuisknop), zal de pagina worden geopend in een nieuw
+  tabblad. Die pagina zal niet worden weergegeven en in een tabblad op de achtergrond
+  worden geladen. Vink deze &pref.singular; aan om de pagina in plaats daarvan in een
+  nieuw tabblad op de voorgrond te laden en weer te geven.</p>
+
+
+<h2 id="content_options">Inhouds&pref.plural;</h2>
+<p><em>Pop-upvensters blokkeren</em><br/>
+  Standaard blokkeert &brandShortName; irritante pop-upvensters van websites. Uitvinken
+  van deze &pref.singular; zal het blokkeren van pop-upvensters uitschakelen.</p>
+
+<p>Sommige websites maken legitiem gebruik van pop-upvensters. Daarom kunt u deze websites
+  toestemming geven om toch pop-upvensters te openen. Klik om dit te doen op
+  <em>Uitzonderingen…</em>, voer de naam van de website in en klik op <em>Toestaan</em>.
+  Selecteer een website uit de lijst en klik op <em>Website verwijderen</em> om deze te
+  verwijderen. Klik op <em>Alle websites verwijderen</em> om de lijst volledig te
+  wissen.</p>
+  
+<p><em>Afbeeldingen automatisch laden</em><br/>
+  Standaard geeft &brandShortName; afbeeldingen in webpagina’s weer. Vink deze
+  &pref.singular; uit om afbeeldingen in webpagina’s uit te schakelen.</p>
+
+<p>Als u automatisch laden van afbeeldingen hebt ingeschakeld, kunt u met de
+  knop <em>Uitzonderingen…</em> websites selecteren waarvan afbeeldingen niet
+  automatisch worden geladen. De knop <em>Uitzonderingen…</em> laat u websites
+  opgeven die u wilt laden (of niet laden), onafhankelijk van deze instelling van
+  deze &pref.singular;. Voer in de uitzonderingenlijst de website in waarvan u
+  afbeeldingen wilt toestaan of blokkeren en klik op <em>Toestaan</em> om
+  afbeeldingen toe te staan, of klik op <em>Blokkeren</em> om de afbeeldingen
+  te blokkeren.</p>
+
+<p><em>JavaScript inschakelen</em><br/>
+  JavaScript is een scripttaal die over het algemeen wordt gebruikt om webpagina’s
+  interactief te maken.  Het maakt het echter ook veel makkelijker om bepaalde irritante
+  acties uit te voeren.  Vink deze &pref.singular; uit om JavaScript uit te schakelen.
+  Bedenk echter dat uitschakelen van JavaScript er mogelijk voor zorgt dat sommige
+  websites niet meer juist werken.  Klik op <em>Geavanceerd…</em> voor meer
+  fijnafstemmingscontrole over wat JavaScript wel en niet kan doen.</p>
+
+  <h4 id="advanced_javascript">Geavanceerde JavaScript-instellingen</h4>
+  <dl>
+    <dt>Bestaande vensters te verplaatsen of te vergroten/verkleinen</dt>
+    <dd>Vink deze &pref.singular; uit om het verplaatsen en vergroten of verkleinen van
+      vensters met behulp van scripts uit te schakelen.</dd>
+
+    <dt>Vensters te laten verschijnen/verdwijnen</dt>
+    <dd>Vink deze &pref.singular; uit om ervoor te zorgen dat scripts geen vensters kunnen
+      laten verschijnen (naar voren brengen) of verdwijnen (naar de achtergrond brengen).</dd>
+
+    <dt>Contextmenu’s uit te schakelen of te vervangen</dt>
+    <dd>Vink deze &pref.singular; uit om te voorkomen dat webpagina’s het contextmenu
+      van &brandShortName; uitschakelen of veranderen.</dd>
+
+    <dt>De statusbalk te verbergen</dt>
+    <dd>Vink deze &pref.singular; uit om te forceren dat de statusbalk wordt weergegeven in
+      pop-upvensters.</dd>
+
+    <dt>Statusbalktekst te veranderen</dt>
+    <dd>Vink deze &pref.singular; uit om wijzigingen aan de statusbalktekst uit te schakelen
+      (zoals het weergeven van scrollende tekst of het tegengaan van het weergeven van het
+      koppelingsadres als de muis zich op een koppeling bevindt).</dd>
+  </dl>
+
+  <p><em>Java inschakelen</em><br/>
+    Java is een populaire programmeertaal voor het web.  Een enkel Java-programma kan op
+    vele verschillende soorten computers worden uitgevoerd, waardoor de noodzaak voor
+    programmeurs om een aparte versie voor elke soort computer te creëren wordt vermeden. 
+    Vink deze &pref.singular; uit om Java-applets in &brandShortName; uit te schakelen. 
+    Merk op dat u de Java-plug-in moet installeren om Java-applets te laten werken.</p>
+  
+  <h3 id="fonts_and_colors">Lettertypen &amp; kleuren</h3>
+  <p><em>Standaardlettertype</em> en <em>Grootte</em><br/>
+    Webpagina’s worden gewoonlijk weergegeven in het lettertype en de grootte die
+    hier zijn gespecificeerd.  Webpagina’s kunnen echter aan deze keuzes voorbijgaan,
+    tenzij u anders specificeert in het dialoogvenster Lettertypen.  Klik op de knop
+    <em>Geavanceerd…</em> om toegang te krijgen tot het dialoogvenster Lettertypen en
+    dit gedrag en andere lettertype&pref.plural; te wijzigen.</p>
+  
+    <h4 id="fonts_dialog">Dialoogvenster Lettertypen</h4>
+    <ol>
+      <li>Kies een schrift/talengroep uit de keuzelijst <em>Lettertypen voor</em>. Kies
+      bijvoorbeeld voor <em>Westers</em> om standaardlettertypen in te stellen voor het
+      West-Europese (Romaanse) schrift. Kies <em>Andere talen</em> voor een schrift dat
+      nog niet in de lijst voorkomt.</li>
+    <li>Kies of proportionele tekst met schreef (zoals &quot;Times New Roman&quot;) moet
+      zijn of schreefloos (zoals &quot;Arial&quot;). Specificeer vervolgens de door u
+      gewenste lettergrootte voor proportionele tekst.</li>
+    <li>Specificeer de lettertypen om te gebruiken voor schreef-, schreefloze en
+      monospace-lettertypen. U kunt tevens de grootte van <code>monospace-lettertypen</code>
+      wijzigen.</li>
+  </ol>
+  
+  <p>U kunt ook de minimumgrootte voor webpaginalettertypen instellen. Dit is handig om
+    het gebruik van zeer kleine lettertypen die amper leesbaar zijn bij sommige websites
+    tegen te gaan.</p>
+  
+  <p><em>Pagina’s toestaan om hun eigen lettertypen te kiezen, in plaats van mijn
+    selecties hierboven</em><br/>
+    Standaard gebruikt &brandShortName; de lettertypen zoals gespecificeerd door de
+    auteur van de webpagina. Uitschakelen van deze &pref.singular; zal forceren dat alle
+    websites in plaats daarvan uw standaardlettertypen gebruiken.</p>
+  
+  <p><em>Tekenset</em><br/>
+    De hier geselecteerde tekenset zal worden gebruikt om pagina’s weer te geven die
+    zelf geen te gebruiken tekenset opgeven.</p>
+  
+  <h4 id="colors_dialog">Dialoogvenster Kleuren</h4>
+  <p><strong>Tekst en achtergrond</strong><br/>
+    Hier kunt u de standaard tekst- en achtergrondkleur wijzigen om te gebruiken
+    op webpagina’s die deze informatie niet hebben gespecificeerd. Klik op de
+    kleurvoorbeelden om kleuren te selecteren.</p>
+  
+  <p><em>Systeemkleuren gebruiken</em><br/>
+    Selecteer deze &pref.singular; om de door het besturingssysteem ingestelde kleuren
+    te gebruiken in plaats van de kleuren die hierboven zijn gespecificeerd.</p>
+  
+  <p><strong>Koppelingskleuren</strong><br/>
+    Hier kunt u de standaardkleuren voor webkoppelingen wijzigen. Klik op de kleurvoorbeelden
+    om kleuren te selecteren.</p>
+  
+  <p><em>Koppelingen onderstrepen</em><br/>
+    Standaard worden koppelingen op webpagina’s onderstreept. Vink deze &pref.singular;
+    uit om dit uit te schakelen. Merk op dat veel websites hun eigen stijlregels
+    specificeren en deze &pref.singular; geen effect op deze websites heeft.</p>
+  
+  <p><em>Pagina’s toestaan om hun eigen kleuren te kiezen, in plaats van mijn selecties
+    hierboven</em><br/>
+    Standaard gebruikt &brandShortName; de kleuren zoals gespecificeerd door de
+    auteur van de webpagina. Uitschakelen van deze &pref.singular; zal forceren dat alle
+    websites in plaats daarvan uw standaardkleuren gebruiken.</p>
+
+    <h4 id="languages">Talen</h4>
+    <p>Sommige webpagina’s worden in meer dan één taal aangeboden. Klik op de knop
+      <em>Kiezen…</em> om de taal of talen van uw voorkeur te specificeren.</p>
+  
+    <p><strong>Dialoogvenster Talen</strong><br/>
+      Druk op <em>Selecteer een taal om toe te voegen…</em>, kies de taal en klik op de
+      knop <em>Toevoegen</em> om een taal toe te voegen.  Verwijder een taal door deze in
+      de lijst met actieve talen te selecteren en op de knop <em>Verwijderen</em> te klikken.
+      U kunt ook talen herschikken door de knoppen <em>Omhoog verplaatsen</em> en <em>Omlaag
+      verplaatsen</em> te gebruiken om de taal van uw voorkeur te bepalen in het geval een
+      pagina in meerdere talen wordt aangeboden.</p>
+
+<h2 id="applications_options">Toepassings&pref.plural;</h2>
+
+<p>Met het paneel <em>Toepassingen</em> kunt u toepassingen en andere verwerkers
+  kiezen voor het behandelen van verschillende bestandstypen (bv. PDF-documenten).
+  Het toont een lijst met inhoudstypen en laat u voor elk type een verwerker
+  selecteren.</p>
+
+<p>U kunt een lokale toepassing kiezen voor het behandelen van elk willekeurig type.
+  Voor het behandelen van sommige typen kunt u ook een webtoepassing kiezen, een functie
+  (zoals <a href="glossary.xhtml#live_bookmark">livebladwijzers</a> voor feeds)
+  of een <a href="glossary.xhtml#Plugin">plug-in</a> in &brandShortName; kiezen,
+  of het bestand opslaan op uw computer.</p>
+
+<p>Om een verwerker voor een type te kiezen, selecteert u het type in de lijst. De
+  huidige verwerker voor het type zal veranderen in een menu. Open het menu en
+  selecteer de verwerker die u het type wilt laten behandelen.</p>
+
+<ul>
+  <li><em>Een toepassing kiezen</em><br/>
+    Om een lokale of webtoepassing te kiezen voor het behandelen van een type
+    selecteert u de toepassing in het menu. Als u een type wilt laten behandelen
+    door een lokale toepassing die zich niet in het menu bevindt, selecteert u
+    <em>Toepassing kiezen…</em> in het menu en wijst u &brandShortName; naar de
+    locatie ervan.</li>
+
+  <li><em>Een functie of plug-in kiezen</em><br/>
+    Als u een type wilt laten behandelen door een functie of plug-in in
+    &brandShortName; en er is er een beschikbaar, selecteer deze dan in het menu.</li>
+
+  <li><em>Opslaan op uw computer</em><br/>
+    Als u het type wilt opslaan op uw computer en dit mogelijk is, selecteert u
+    <em>Bestand opslaan</em> in het menu. Als u de &pref.singular; <em>Bestanden
+    opslaan in</em> in het paneel <em>Algemeen</em> hebt geselecteerd, zal
+    &brandShortName; automatisch inhoud van het type op uw computer opslaan.
+    Zo niet, dan zal &brandShortName; u vragen naar een locatie op uw computer om
+    het op te slaan zodra u met het type in aanraking komt.</li>
+</ul>
+
+<p><strong>Noot:</strong> Wanneer een plug-in beschikbaar is voor het behandelen van
+  een type en u voor dat type een andere verwerker kiest, zal &brandShortName; uw
+  gekozen verwerker alleen gebruiken wanneer u het type direct benadert. Wanneer het type
+  is opgenomen binnen een webpagina zal &brandShortName; de plug-in voor behandeling
+  van het type blijven gebruiken.</p>
+
+
+<h2 id="privacy_options">Privacy&pref.plural;</h2>
+
+  <h3 id="privacy_history">Geschiedenis</h3>
+  <p><em>Bezochte pagina’s van de laatste … dagen onthouden</em><br/>
+    Hier kunt u opgeven hoe lang u wilt dat &brandShortName; onthoudt welke
+    pagina’s u hebt bezocht. De standaardwaarde is 9 dagen.</p>
+      
+  <p><em>Informatie die ik invoer in webformulieren en de zoekbalk onthouden</em><br/>
+    Wanneer u in &brandShortName; informatie invoert in webformulieren of de zoekbalk,
+    wordt die informatie opgeslagen zodat &brandShortName; suggesties kan geven als u
+    in de toekomst informatie invoert. Schakel deze &pref.singular; uit om dit gedrag
+    te beëindigen.</p>
+      
+  <p><em>Downloadgeschiedenis onthouden</em><br/>
+    Deze &pref.singular; bepaalt of downloads uit het verleden zichtbaar zijn in het
+    venster Downloads.  Het venster Downloads (toegankelijk via <span
+    class="menuPath">Extra</span> of door op <span
+    class="noUnix">&accelKey;+<kbd>J</kbd></span><span
+    class="unix">&accelKey;+<kbd>Y</kbd></span> te drukken) geeft een lijst met uw
+    recente downloads weer.  Download&pref.plural; zijn beschikbaar in het paneel
+    <a href="#main_options"><em>Algemeen</em></a>.</p>
+
+  <h3 id="privacy_cookies">Cookies</h3>
+  <p>Een cookie is een door een website gecreëerd bestand dat informatie op uw
+    computer opslaat, zoals websitespecifieke voorkeuren bij het bezoeken van die website.</p>
+
+  <p><em>Cookies van websites accepteren</em><br/>
+    Standaard zijn cookies ingeschakeld. Vink deze &pref.singular; uit om het gebruik
+    van cookies uit te schakelen. Merk op dat sommige websites mogelijk niet goed
+    werken wanneer cookies zijn uitgeschakeld.</p>
+      
+  <p><em>Bewaren totdat:</em></p>
+
+  <ul>
+    <li><em>ze verlopen</em><br/>
+      Dit is de standaard&pref.singular;. Wanneer ingesteld laat dit websites bepalen
+      hoe lang een cookie door &brandShortName; op uw computer zal worden bewaard.
+      Dit maakt het mogelijk voor een website om uw voorkeuren en aanmeldinformatie
+      tussen browsersessies te onthouden.</li>
+    <li><em>ik &brandShortName; afsluit</em><br/>
+      Met deze &pref.singular; geselecteerd zal &brandShortName; alle opgeslagen
+      cookies verwijderen bij het afsluiten.</li>
+    <li><em>mij elke keer vragen</em><br/>
+      Met deze &pref.singular; ingeschakeld zal &brandShortName; u telkens als een
+      webpagina een cookie probeert in te stellen vragen hoe lang u deze wilt
+      bewaren (of deze geheel wilt weigeren).</li>
+  </ul>
+
+  <p>Klik op de knop <em>Uitzonderingen…</em> om te bepalen welke websites wel of
+    niet cookies mogen opslaan.</p>
+      
+  <p>Klik op de knop <em>Cookies tonen…</em> om de cookiebeheerder weer te geven.</p>
+
+  <p>Leer meer over cookies, de individuele &pref.plural; en hoe u meer controle
+    kunt krijgen over welke websites toestemming hebben om cookies op uw computer
+    op te slaan door het lezen van <a href="cookies.xhtml">Cookies beheren</a>.</p>
+      
+  <h3 id="private_data">Privégegevens</h3>
+  <p><em>Altijd mijn privégegevens opruimen als ik &brandShortName; afsluit</em><br/>
+    U kunt ervoor kiezen &brandShortName; uw privégegevens te laten opruimen als
+    u deze afsluit. Om te configureren welke gegevens worden gewist klikt u op de
+    knop <em>Instellingen…</em>.</p>
+    
+  <p><em>Mij vragen alvorens privégegevens op te ruimen</em><br/>
+    Met deze &pref.singular; geselecteerd zal &brandShortName; u om bevestiging vragen voor
+    het wissen van de gegevens zoals opgegeven door het klikken van <em>Instellingen…</em>.</p>
+  
+  <p>Als u meteen uw privégegevens wilt wissen, kunt u dat doen door op de knop
+    <em>Nu opruimen…</em> te klikken.  Om uw privégegevens vanaf een andere plaats
+    dan in het voorkeurenvenster te wissen drukt u op &accelKey;+&shiftKey;+<kbd>Del</kbd>
+    of selecteert u <span class="menuPath">Extra &gt; Privégegevens opruimen…</span>.</p>
+
+
+<h2 id="security_options">Beveiligings&pref.plural;</h2>
+<p><em>Mij waarschuwen als websites add-ons proberen te installeren</em><br/>
+  &brandShortName; zal u altijd vragen de installaties van add-ons te bevestigen.
+  Om ongevraagde installatievragen te voorkomen die per ongeluk tot installaties
+  kunnen leiden, waarschuwt &brandShortName; u wanneer een website probeert een
+  add-on te installeren en blokkeert het de installatievraag. Klik op
+  <em>Uitzonderingen…</em>, voer de naam in van de website en klik op <em>Toestaan</em>
+  om installaties van een specifieke website toe te staan. Vink deze &pref.singular;
+  uit om de waarschuwing voor alle websites uit te schakelen.</p>
+    
+<p id="phishing"><em>Mij vertellen of de website die ik bezoek een vermoedelijke vervalsing is</em><br/>
+  Vink deze &pref.singular; aan als u &brandShortName; actief wilt laten controleren
+  of de website die u bezoekt misschien een poging is om u te misleiden tot het verstrekken
+  van persoonlijke informatie (dit wordt vaak omschreven als <em>phishing</em>).<br/>
+  Merk op dat het niet verschijnen van een melding niet garandeert dat een website betrouwbaar is.
+  Als u een "phishing"-website bezoekt die niet als zodanig is gemarkeerd, rapporteer deze dan
+  via <span class="menuPath">Help &gt; Webvervalsing rapporteren…</span>, zoals
+  uitgelegd in het <a href="menu_reference.xhtml#web_forgery">menuoverzicht</a>.</p>
+
+<p><em>Controleren met behulp van een gedownloade lijst met verdachte websites</em><br/>
+  Met deze &pref.singular; geselecteerd zal &brandShortName; de huidige website
+  controleren tegen een regelmatig bijgewerkte lijst die is opgeslagen op uw computer.
+  Tijdens normaal navigeren worden geen gegevens over de door u bezochte websites
+  verzonden naar onafhankelijke gegevensproviders.  Aangezien phishingtechnieken
+  en -websites snel evolueren is deze beschermingsmethode wellicht niet zo effectief
+  als het door een gegevensprovider laten controleren van elke website die u bezoekt.</p>
+
+<p><em>Vragen aan … om elke pagina die ik bezoek te controleren</em><br/>
+  Met deze &pref.singular; geselecteerd zal &brandShortName; het adres van de huidige
+  pagina over een beveiligde verbinding verzenden naar de geselecteerde onafhankelijke
+  gegevensprovider om de identiteit ervan te controleren. Deze methode biedt de beste
+  bescherming, maar er kan informatie zoals uw IP-adres en browserversie worden
+  verzonden naar en opgeslagen door de geselecteerde provider. U zal worden gevraagd
+  het privacybeleid van de geselecteerde gegevensprovider door te nemen en ermee in
+  te stemmen na het selecteren van deze &pref.singular;.</p>
+      
+  <h3 id="security_passwords">Wachtwoorden</h3>
+  <p><em>Wachtwoorden voor websites onthouden</em><br/>
+    &brandShortName; kan veilig wachtwoorden die u in webformulieren invoert opslaan
+    om het makkelijker te maken om u bij websites aan te melden.  Vink dit keuzevakje
+    uit om te voorkomen dat &brandShortName; uw wachtwoorden onthoudt.</p>
+    
+    <p>Echter, zelfs met deze &pref.singular; aangevinkt zal u nog steeds worden
+    gevraagd of wachtwoorden voor een website moeten worden opgeslagen als u deze
+    voor het eerst bezoekt.  Als u <em>Nooit voor deze website</em> selecteert, zal
+    die website worden toegevoegd aan een uitzonderingenlijst.  Klik op de knop
+    <em>Uitzonderingen…</em> om die lijst te benaderen of om er websites van te
+    verwijderen.</p>
+
+  <p id="set_change_master_password"><em>Een hoofdwachtwoord gebruiken</em><br/>
+    &brandShortName; kan gevoelige informatie zoals opgeslagen wachtwoorden en
+    certificaten beschermen door deze te versleutelen met gebruikmaking van een
+    <a href="glossary.xhtml#master_password">hoofdwachtwoord</a>.  Als u een
+    hoofdwachtwoord creëert, zal iedere keer dat u &brandShortName; start
+    aan u worden gevraagd het wachtwoord in te voeren als het voor het eerst
+    toegang wil hebben tot een certificaat of opgeslagen wachtwoord. U kunt het
+    hoofdwachtwoord instellen, wijzigen of verwijderen door deze &pref.singular;
+    aan- of uit te vinken of door op de knop <em>Hoofdwachtwoord wijzigen…</em>
+    te klikken.  Als reeds een hoofdwachtwoord is ingesteld, zult u dit moeten
+    invoeren om het hoofdwachtwoord te wijzigen of te verwijderen.</p>
+
+  <p><em>Opgeslagen wachtwoorden…</em><br/>
+    U kunt opgeslagen wachtwoorden beheren en individuele wachtwoorden verwijderen
+    door op de knop <em>Opgeslagen wachtwoorden…</em> te klikken.</p>
+  
+  <h3 id="warning_messages">Waarschuwingsberichten</h3>
+  <p>Klik op de knop <em>Instellingen…</em> om de beveiligingswaarschuwingen te
+    configureren die &brandShortName; weergeeft terwijl u op het net surft.</p>
+    
+    <h4>Dialoogvenster Beveiligingswaarschuwingen</h4>
+    <!--XXX massive suck!  do these provide *any* value whatsoever? -->
+    <dl>
+      <dt>Ik een beveiligde pagina ga bekijken</dt>
+      <dd>Wanneer deze &pref.singular; is ingeschakeld, zal &brandShortName; u elke keer
+        dat u een beveiligde pagina gaat bekijken waarschuwen.</dd>
+
+      <dt>Ik een pagina ga bekijken die een lage graad van versleuteling gebruikt</dt>
+      <dd>Met deze &pref.singular; ingeschakeld zal &brandShortName; u waarschuwen
+        wanneer u een pagina bezoekt die een lage graad van versleuteling gebruikt.</dd>
+
+      <dt>Ik een beveiligde pagina verlaat</dt>
+      <dd>Met deze &pref.singular; ingeschakeld zal &brandShortName; u telkens als u
+        zich van een beveiligde naar een niet-beveiligde pagina verplaatst waarschuwen,
+        ofwel door een koppeling op een pagina te selecteren, een bladwijzer te
+        selecteren of door een nieuw adres in de locatiebalk in te typen.</dd>
+
+      <dt>Ik informatie verstuur die niet versleuteld is</dt>
+      <dd>Wanneer deze &pref.singular; is ingeschakeld, zal &brandShortName; u
+        waarschuwen wanneer u informatie verstuurt via een niet-versleuteld formulier.</dd>
+  
+      <dt>Ik een beveiligde pagina ga bekijken die niet-versleutelde informatie bevat</dt>
+      <dd>Met deze &pref.singular; ingeschakeld zal &brandShortName; u waarschuwen wanneer
+        de pagina die u bekijkt zowel versleutelde als niet-versleutelde inhoud bevat. Als
+        een versleutelde pagina niet-versleutelde gegevens bevat, dient u de identiteit van de
+        pagina die u bekijkt te verifiëren alvorens gevoelige informatie in te voeren.</dd>
+    </dl>
+
+  
+  <h2 id="advanced_options">Geavanceerde &pref.plural;</h2>
+  <p>Het paneel Geavanceerd bevat vele &pref.plural; die waarschijnlijk door de meeste
+    mensen niet zullen worden gebruikt maar handige en voor sommigen zelfs onmisbare
+    &pref.plural; zijn.</p>
+  
+  <h3 id="advanced_general">Tabblad Algemeen</h3>
+    <h4 id="accessibility">Toegankelijkheid</h4>
+    <p><em>Altijd de pijltoetsen gebruiken om te navigeren binnen pagina’s</em><br/>
+      Wanneer deze &pref.singular; is ingeschakeld zal &brandShortName; een verplaatsbare
+      cursor weergeven in pagina’s, zodat u tekst met het toetsenbord kunt selecteren.
+      U kunt deze modus aan- en uitschakelen door op <kbd>F7</kbd> te drukken.</p>
+
+    <p><em>Naar tekst zoeken wanneer ik begin met typen</em><br/>
+      Wanneer deze &pref.singular; is ingeschakeld, zal &brandShortName; terwijl u typt
+      zoeken naar wat u typt binnen de huidige webpagina. Tijdens het zoeken naar getypte
+      tekst in de pagina zal automatisch de zoekwerkbalk worden weergegeven aan de
+      onderkant van het venster om informatie te tonen over wat u hebt gevonden.</p>
+  
+    <h4 id="browsing">Navigeren</h4>
+    <p><em>Automatisch schuiven gebruiken</em><br/>
+      Automatisch schuiven is een handige mogelijkheid die u in staat stelt de pagina
+      te schuiven door de middelste muisknop (doorgaans het muiswiel) in te drukken en
+      de muis naar boven of beneden te bewegen. Sommige mensen vinden dit irritant,
+      vandaar dat automatisch schuiven kan worden uitgezet met deze &pref.singular;.</p>
+  
+    <p><em>Vloeiend schuiven gebruiken</em><br/>
+      Vloeiend schuiven kan erg handig zijn als u veel lange pagina’s leest. Wanneer
+      u op de toets Page Down drukt springt de weergave normaal gesproken direct een
+      pagina naar beneden. Met Vloeiend schuiven schuift deze vloeiend naar beneden,
+      zodat u daadwerkelijk kunt zien hoeveel hij verschuift. Dit maakt het eenvoudiger
+      om verder te lezen van waar u eerder was.</p>
+
+    <p><em>Mijn spelling controleren tijdens het typen</em><br/>
+      Wanneer deze optie is ingeschakeld, zal &brandShortName; uw spelling controleren
+      en mogelijke correcties voorstellen terwijl u webformulieren invult.  Merk op dat
+      u mogelijk een woordenboek dient te downloaden;
+      <span class="noMac">klik hiervoor met de rechtermuisknop</span><span class="mac">druk
+      hiervoor op &ctrlKey; en klik</span> op een willekeurig tekstveld, schakel indien
+      nodig spellingcontrole in en gebruik vervolgens het gegeven menu
+      <span class="menuPath">Talen</span> om een woordenboek te downloaden.</p>
+
+  <h3 id="advanced_network">Tabblad Netwerk</h3>
+
+    <h4 id="connection_settings">Verbinding</h4>
+    <p>Mogelijk verplicht uw organisatie of internetprovider u een proxy te gebruiken of
+      bieden zij deze aan. Een proxy treedt op als intermediair tussen uw computer en het
+      internet. Hij onderschept ieder verzoek naar het internet om te zien of hij aan het
+      verzoek kan voldoen door gebruik te maken van zijn buffer. Proxy’s worden gebruikt
+      om prestaties te verbeteren, verzoeken te filteren en uw computer voor het internet
+      te verbergen om de veiligheid te verbeteren. Proxy’s zijn vaak onderdeel van een
+      firewall van een bedrijf.</p>
+  
+    <h4>Venster Verbindingsinstellingen:</h4>
+    <dl>
+      <dt>Geen proxy</dt>
+      <dd>Dit is de standaard&pref.singular;. Kies hiervoor als u geen proxy wilt
+        gebruiken.</dd>
+    
+      <dt>Proxyinstellingen voor dit netwerk automatisch detecteren</dt>
+      <dd>Vink deze optie aan als u wilt dat &brandShortName; automatisch de
+        proxyinstellingen voor uw netwerk detecteert.</dd>
+    
+      <dt>Handmatige proxyconfiguratie</dt>
+      <dd>Kies hiervoor als u geen proxylocatie (URL) hebt. Vraag uw systeembeheerder
+        voor iedere netwerkdienst naar de namen en poortnummers van de servers die de
+        proxyprogrammatuur uitvoeren en voer de informatie in de daarvoor bestemde velden
+        in.</dd>
+    
+      <dt>URL voor automatische proxyconfiguratie</dt>
+      <dd>Als uw werkplek een proxyconfiguratiebestand heeft, vraag dan aan de
+        systeembeheerder naar de URL ervan en voer deze hier in. Klik op
+        <em>Opnieuw laden</em> om de instellingen te laden.</dd>
+    </dl>
+
+    <h4 id="advanced_cache">Buffer</h4>
+    <p>Pagina’s die u bekijkt worden normaal gesproken in een speciale buffermap 
+      opgeslagen zodat u deze bij een volgend bezoek sneller kunt bekijken. U kunt
+      hier aangeven hoeveel schijfruimte de buffer kan gebruiken.  Ook kunt u direct
+      de inhoud van de buffer wissen.</p>
+
+    <p><em>Tot … MB ruimte gebruiken voor de buffer</em><br/>
+      Laat u de maximale grootte, in megabytes, voor de buffer op uw computer
+      specificeren.</p>
+
+    <p><em>Nu wissen</em><br/>
+      Wist onmiddellijk de huidige inhoud van de buffer, zodat de erdoor gebruikte
+      schijfruimte wordt vrijgemaakt.</p>
+
+  <h3 id="advanced_update">Tabblad Update</h3>
+    <p>&brandShortName; kan controleren of er updates voor geïnstalleerde add-ons of
+      voor &brandShortName; zelf beschikbaar zijn.</p>
+  
+    <p><em>Automatisch controleren op updates voor:</em><br/> 
+      Standaard controleert &brandShortName; automatisch op updates voor zichzelf,
+      voor add-ons en voor zoekmachines, zodat u altijd weet dat u over de meest
+      recente versie beschikt. U kunt dit gedrag wijzigen door de gepaste keuzevakjes
+      hier aan- of uit te vinken.</p>
+
+    <p><em>Als er updates voor &brandShortName; worden gevonden,</em></p>
+
+    <dl>
+      <dt>Mij vragen wat ik wil doen</dt>
+      <dd>Updates voor &brandShortName; worden standaard automatisch geïnstalleerd.
+       Selecteer deze &pref.singular; om handmatig te bepalen hoe en wanneer updates
+       worden geïnstalleerd.</dd>
+      <dt>Automatisch de update downloaden en installeren</dt>
+      <dd>Als deze &pref.singular; is geselecteerd zullen updates voor &brandShortName;
+        automatisch worden gedownload en de volgende keer dat &brandShortName; wordt gestart
+        worden geïnstalleerd. De &pref.singular; <em>Mij waarschuwen als dit een van mijn
+        add-ons zal uitschakelen</em> bepaalt of u een waarschuwing zult zien voor de
+        installatie van een update die zou vereisen dat een incompatibele add-on wordt
+        uitgeschakeld omdat er geen nieuwere, compatibele versie bestaat. De waarschuwing
+        zal u in staat stellen installatie van de update uit te stellen, hoewel dit ten
+        koste zal gaan van de verbeteringen die hij bevat.<br/><br/>
+        Als alle extensies en thema’s compatibel zijn of kunnen worden bijgewerkt zodat
+        ze compatibel zijn, zal de update voor &brandShortName; worden geïnstalleerd. Bij
+        herstarten zal u worden gevraagd de nodige updates voor add-ons te installeren
+        zodat u deze kunt blijven gebruiken.</dd>
+    </dl>
+
+    <p><em>Updategeschiedenis tonen</em><br/>
+      &brandShortName; houdt automatisch de updates bij die u hebt geïnstalleerd. U kunt
+      informatie over deze updates bekijken door op deze knop te klikken.</p>
+
+    <p><strong>Noot:</strong> U moet &brandShortName; als
+      <span class="win">administrator</span><span class="noWin">root</span> of als de
+      gebruiker die &brandShortName; oorspronkelijk heeft geïnstalleerd uitvoeren om
+      updates voor &brandShortName; te installeren.</p>
+
+  <h3 id="advanced_encryption">Tabblad Encryptie</h3>
+
+    <h4 id="protocols">Protocollen</h4>
+    <p><em>SSL 3.0 gebruiken</em><br/>
+      Specificeert of u beveiligde informatie wilt verzenden en ontvangen via SSL3
+      (Secured Sockets Layer, Level 3), een standaardprotocol voor het op een
+      veilige manier communiceren met websites. Uitschakelen hiervan zal ervoor zorgen
+      dat u bepaalde websites niet kunt bezoeken.</p>
+  
+    <p><em>TLS 1.0 gebruiken</em><br/>
+      Specificeert of u beveiligde informatie wilt verzenden en ontvangen via TLS
+      (Transport Layer Security), een open veiligheidsstandaard vergelijkbaar met
+      SSL3 (Secure Sockets Layer). Uitschakelen hiervan zal ervoor zorgen dat u bepaalde
+      websites niet kunt bezoeken.</p>
+
+    <h4 id="certificates">Certificaten</h4>
+    <p><a href="glossary.xhtml#certificate">Certificaten</a> helpen bij het versleutelen
+      en decoderen van verbindingen met <a href="glossary.xhtml#secure_site">beveiligde
+      websites</a>.</p>
+  
+    <p><em>Wanneer een server om mijn persoonlijke certificaat verzoekt:</em><br/>
+      Sommige servers vragen u zich te identificeren met behulp van een persoonlijk
+      certificaat. Om dit te kunnen doen vragen zij &brandShortName; er een voor
+      u te genereren. Wanneer u nadien de website bezoekt, zal &brandShortName;
+      het certificaat standaard selecteren zonder het u te vragen. Als u handmatig
+      een certificaat wenst te kiezen (als u bijvoorbeeld meerdere certificaten hebt
+      opgeslagen voor meerdere websites) selecteert u de &pref.singular;
+      <em>Mij elke keer vragen</em>, waarmee u volledige controle hebt over
+      welke certificaten er naar websites worden verzonden tijdens het navigeren.</p>
+
+    <p><em>Certificaten bekijken</em><br/>
+      Klik op deze knop om opgeslagen certificaten te bekijken, nieuwe certificaten
+      te importeren en reservekopieën van oude certificaten te maken of deze
+      uit &brandShortName; te verwijderen.</p>
+  
+    <p><em>Intrekkingslijsten</em><br/>
+      &brandShortName; kan Certificaatintrekkingslijsten (CRL’s) gebruiken om te
+      verzekeren dat uw certificaten altijd geldig zijn. Klik op de knop
+      <em>Intrekkingslijsten</em> om de op uw computer geïnstalleerde CRL’s
+      te beheren.</p>
+
+    <p><em>Validatie</em><br/>
+      &brandShortName; kan een OCSP-server (Online Certificate Status Protocol)
+      vragen te bevestigen of een certificaat nog geldig is. Standaard valideert
+      &brandShortName; een certificaat als het certificaat een OCSP-server specificeert.
+      Als alternatief kunt u een OCSP-server kiezen waarbij alle certificaten
+      worden gevalideerd. Klik op de knop <em>Validatie</em> om deze &pref.plural; te
+      beheren. U hoeft dit hoogstwaarschijnlijk enkel te wijzigen als uw internetomgeving
+      dit vereist.</p>
+
+    <p><em>Beveiligingsapparaten</em><br/>
+      Beveiligingsapparaten kunnen verbindingen versleutelen en decoderen en certificaten
+      en wachtwoorden opslaan. Klik op de knop <em>Beveiligingsapparaten</em> als u een
+      ander dan het beveiligingsapparaat in &brandShortName; dient te gebruiken.</p>
+  
+<div class="contentsBox"><em>9 oktober 2007</em></div>
+<p>Auteursrecht &copy; &copyright.years; Medewerkers van het Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

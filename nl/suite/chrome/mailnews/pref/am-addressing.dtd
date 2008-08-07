@@ -1,0 +1,25 @@
+<!ENTITY addressing.label "Opstellen &amp; Adressering">
+<!ENTITY addressingGroupTitle.label "Adressering">
+<!ENTITY autocompleteToMyDomain.label "Automatically append my domain to addresses">
+<!ENTITY autocompleteToMyDomain.accesskey "u">
+<!ENTITY addressingText.label "Bij het opzoeken van adressen:">
+<!ENTITY useGlobal.label "Mijn algemene LDAP-serverinstellingen gebruiken voor deze account">
+<!ENTITY useGlobal.accesskey "M">
+<!ENTITY editDirectories.label "Directory’s bewerken…">
+<!ENTITY editDirectories.accesskey "B">
+<!ENTITY directories.label "Andere LDAP-server gebruiken:">
+<!ENTITY directories.accesskey "n">
+<!ENTITY compositionGroupTitle.label "Opstellen">
+<!ENTITY useHtml.label "Berichten opstellen in HTML-formaat">
+<!ENTITY useHtml.accesskey "o">
+<!ENTITY autoQuote.label "Automatisch de originele tekst citeren bij antwoorden">
+<!ENTITY autoQuote.accesskey "A">
+<!ENTITY then.label "Dan,">
+<!ENTITY then.accesskey "D">
+<!ENTITY aboveQuote.label "mijn reactie boven de geciteerde tekst starten">
+<!ENTITY belowQuote.label "mijn reactie onder de geciteerde tekst starten">
+<!ENTITY selectAndQuote.label "de geciteerde tekst selecteren">
+<!ENTITY place.label "en mijn ondertekening plaatsen">
+<!ENTITY place.accesskey "p">
+<!ENTITY belowText.label "onder de geciteerde tekst (aanbevolen)">
+<!ENTITY aboveText.label "onder mijn antwoord (boven de geciteerde tekst)">
