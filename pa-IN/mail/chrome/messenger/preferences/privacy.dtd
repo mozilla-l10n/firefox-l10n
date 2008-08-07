@@ -1,0 +1,60 @@
+
+<!ENTITY itemJunk.label          "ਕੂੜਾ">
+<!ENTITY itemPhishing.label      "ਈ-ਮੇਲ ਘਪਲਾ">
+<!ENTITY itemPasswords.label     "ਗੁਪਤ-ਕੋਡ">
+<!ENTITY itemAntiVirus.label     "ਐਂਟੀ-ਵਾਇਰਸ">
+
+
+
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "ਖਾਸ ਖਾਤੇ ਨਾਲ ਸਬੰਧਿਤ ਕੂੜਾ ਪੱਤਰ ਸਥਾਪਨ ਲਈ ਖਾਤਾ ਸਥਾਪਨ ਉੱਤੇ ਜਾਓ।">
+<!ENTITY manualMark.label "ਜਦੋਂ ਮੈਂ ਸੁਨੇਹਿਆਂ ਨੂੰ ਕੂੜਾ ਬਣਾਵਾਂ:">
+<!ENTITY manualMark.accesskey "W">
+<!ENTITY manualMarkModeMove.label "ਉਹਨਾਂ ਨੂੰ ਖਾਤੇ ਦੇ &quot;ਕੂੜਾ&quot; ਫੋਲਡਰ 'ਚ ਭੇਜੋ">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "ਉਨ੍ਹਾਂ ਨੂੰ ਹਟਾਓ">
+<!ENTITY manualMarkModeDelete.accesskey "t">
+
+<!ENTITY markAsReadOnSpam.label "ਕੂੜਾ ਬਣੇ ਸੁਨੇਹੇ ਪੜ੍ਹੇ ਬਣਾਓ">
+
+<!ENTITY manualMarkModeDelete.label "ਉਹਨਾਂ ਨੂੰ ਹਟਾਓ">
+<!ENTITY enableJunkLogging.label "ਕੂੜਾ ਫਿਲਟਰ ਲਾਗ ਰੱਖਣਾ ਯੋਗ">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "ਲਾਗ ਵੇਖਾਓ">
+<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY resetTrainingData.label "ਟਰੇਨਿੰਗ ਡਾਟਾ ਮੁੜ-ਸੈੱਟ">
+<!ENTITY resetTrainingData.accesskey "D">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; ਸ਼ੱਕੀ ਪੱਤਰਾਂ ਵਿੱਚ ਘਪਲੇ ਵਾਸਤੇ ਸੁਨੇਹਿਆਂ ਦੀ ਤੁਹਾਨੂੰ ਧੋਖਾ ਦੇਣ ਦੇ ਆਮ ਢੰਗਾਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਜਾਂਚ ਕਰ ਸਕਦਾ ਹੈ।">
+<!ENTITY enablePhishingDetector1.label    "ਮੈਨੂੰ ਦੱਸੋ ਜੇ ਇੱਕ ਸੁਨੇਹਾ, ਜੋ ਮੈਂ ਪੜ੍ਹ ਰਿਹਾ ਹੈ, ਉਹ ਸ਼ੱਕੀ ਹੈ">
+<!ENTITY enablePhishingDetector1.accesskey  "e">
+<!ENTITY useDownloadedList.label "ਸ਼ੱਕੀ ਈ-ਮੇਲ ਘਪਲਿਆਂ ਦੀ ਡਾਊਨਲੋਡ ਕੀਤੀ ਸੂਚੀ ਵਰਤੋਂ">
+<!ENTITY useDownloadedList.accesskey "U">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "&brandShortName; ਤੁਹਾਡੇ ਸਭ ਖਾਤਿਆਂ ਲਈ ਗੁਪਤ-ਕੋਡ ਜਾਣਕਾਰੀ ਨੂੰ ਸੰਭਾਲ ਕੇ ਰੱਖ ਸਕਦਾ ਹੈ, ਜਿਸ ਕਰਕੇ ਤੁਹਾਨੂੰ ਲਾਗਿੰਨ ਹੋਣ ਲਈ ਜਾਣਕਾਰੀ ਨੂੰ ਵਾਰ ਵਾਰ ਨਹੀਂ ਦੇਣਾ ਪੈਂਦਾ ਹੈ।">
+<!ENTITY  encryptEnabled.label        "ਸੰਭਾਲੇ ਗੁਪਤ-ਕੋਡਾਂ ਨੂੰ ਹੋਰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਇੱਕ ਮਾਸਟਰ ਗੁਪਤ-ਕੋਡ ਵਰਤੋਂ">
+<!ENTITY  encryptEnabled.accesskey    "s">
+<!ENTITY  masterPassword.intro        "ਜਦੋਂ ਦਿੱਤਾ ਗਿਆ ਤਾਂ ਮਾਸਟਰ ਗੁਪਤ-ਕੋਡ ਤੁਹਾਡੇ ਸਭ ਗੁਪਤ-ਕੋਡਾਂ ਦੀ ਸੁਰੱਖਿਆ ਕਰੇਗਾ, ਪਰ ਇੱਕ ਤੁਹਾਨੂੰ ਹਰ ਅਜਲਾਸ ਵਿੱਚ ਇੱਕ ਵਾਰ ਦੇਣਾ ਪਵੇਗਾ।">
+<!ENTITY  setMasterPassword.label     "ਮਾਸਟਰ ਗੁਪਤ-ਕੋਡ">
+<!ENTITY  setMasterPassword.accesskey "M">
+<!ENTITY  removeMasterPassword.label  "ਮਾਸਟਰ ਗੁਪਤ-ਕੋਡ...">
+<!ENTITY  removeMasterPassword.accesskey "R">
+<!ENTITY  editPasswords.label         "ਸੰਭਾਲੇ ਗੁਪਤ-ਕੋਡ ਸੋਧ">
+<!ENTITY  editPasswords.accesskey     "i">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; ਨੇ ਐਂਟੀ-ਵਾਇਰਸ ਸਾਫਟਵੇਅਰ ਲਈ ਸੁਨੇਹਿਆਂ ਨੂੰ ਸੰਭਾਲਣ ਤੋਂ ਪਹਿਲਾਂ ਇਹਨਾਂ ਦੀ ਜਾਂਚ ਕਰਨ ਨੂੰ ਹੁਣ ਆਸਾਨ ਬਣਾ ਦਿੱਤਾ ਹੈ।">
+<!ENTITY antiVirus.label      "ਐਂਟੀ-ਵਾਇਰਸ ਕਲਾਂਇਟਾਂ ਨੂੰ ਆਉਣ ਵਾਲੇ ਇੱਕਲੇ ਇੱਕਲੇ ਸੁਨੇਹਿਆਂ ਦੀ ਜਾਂਚ ਕਰਨ ਦੀ ਇਜ਼ਾਜਤ ਦਿਓ">
+<!ENTITY antiVirus.accesskey  "l">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "ਐਂਟੀ-ਵਾਇਰਸ">
+<!ENTITY paswords.label         "ਗੁਪਤ-ਕੋਡ">
+<!ENTITY emailScams.label       "ਈ-ਮੇਲ ਘਪਲਾ">
+<!ENTITY junkMail.label         "ਕੂੜਾ ਪੱਤਰ">
+<!ENTITY itemIntrusions.label   "Intrusions">
+<!ENTITY itemIntrusionsAndPasswords.label  "Intrusions &amp; Passwords">
+<!ENTITY itemJunkMail.label     "ਕੂੜਾ ਪੱਤਰ">

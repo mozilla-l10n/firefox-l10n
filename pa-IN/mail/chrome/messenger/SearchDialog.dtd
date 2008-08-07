@@ -1,0 +1,75 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "ਸੁਨੇਹਿਆਂ ਵਿੱਚ ਖੋਜ:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "ਅਧੀਨ-ਫੋਲਡਰ ਵਿੱਚ ਖੋਜ।">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY resetButton.label           "ਸਾਫ਼ ਕਰੋ">
+<!ENTITY resetButton.accesskey       "C">
+<!ENTITY optionsButton.label         "ਚੋਣ">
+<!ENTITY closeButton.label           "ਬੰਦ ਕਰੋ">
+<!ENTITY openButton.label            "ਖੋਲ੍ਹੋ">
+<!ENTITY openButton.accesskey        "n">
+<!ENTITY deleteButton.label          "ਹਟਾਓ">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "ਸੁਨੇਹੇ ਖੋਜ">
+<!ENTITY conditionDesc.label         "ਇਸ ਨਾਲ ਮਿਲਦੇ ਸੁਨੇਹੇ ਲਈ ਖੋਜ:">
+<!ENTITY conditions.label            "ਸੀਮਾ">
+<!ENTITY results.label               "ਨਤੀਜਾ">
+<!ENTITY fileHereMenu.label          "ਫਾਇਲ ਇੱਥੇ">
+<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileButton.label            "ਫਾਇਲ">
+<!ENTITY fileButton.accesskey        "i">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY goToFolderButton.label      "ਸੁਨੇਹਾ ਫੋਲਡਰ ਖੋਲ੍ਹੋ">
+<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY saveAsVFButton.label      "ਖੋਜ ਫੋਲਡਰ ਵਾਂਗ ਸੰਭਾਲੋ">
+<!ENTITY saveAsVFButton.accesskey  "a">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "ਇਸ ਵਿੱਚ ਖੋਜ:">
+<!ENTITY abSearchHeading.accesskey   "S">
+<!ENTITY propertiesButton.label      "ਗੁਣ">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "ਲਿਖੋ">
+<!ENTITY composeButton.accesskey     "W">
+<!ENTITY abSearchDialogTitle.label   "ਤਕਨੀਕੀ ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਖੋਜ">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "ਮਾਮਲਾ">
+<!ENTITY senderColumn.label "ਭੇਜਣ ਵਾਲਾ">
+<!ENTITY recipientColumn.label "ਪ੍ਰਾਪਤ ਕਰਤਾ">
+<!ENTITY subjectColumn.label "ਵਿਸ਼ਾ">
+<!ENTITY dateColumn.label "ਮਿਤੀ">
+<!ENTITY priorityColumn.label "ਦਰਜਾ">
+<!ENTITY tagsColumn.label "ਟੈਗ">
+<!ENTITY accountColumn.label "ਖਾਤਾ">
+<!ENTITY statusColumn.label "ਹਾਲਤ">
+<!ENTITY sizeColumn.label "ਆਕਾਰ">
+<!ENTITY junkStatusColumn.label "ਕੂੜ ਸਥਿਤੀ">
+<!ENTITY linesColumn.label "ਸਤਰਾਂ">
+<!ENTITY unreadColumn.label "ਨਾ-ਪੜੇ">
+<!ENTITY totalColumn.label "ਕੁੱਲ">
+<!ENTITY readColumn.label "ਪੜੇ">
+<!ENTITY starredColumn.label "ਤਾਰੇ ਸਮੇਤ">
+<!ENTITY locationColumn.label "ਸਥਿਤੀ">
+<!ENTITY idColumn.label "ਪ੍ਰਾਪਤੀ ਕ੍ਰਮ">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "ਵੇਖਣ ਲਈ ਕਾਲਮ ਚੁਣਨ ਲਈ ਇੱਥੇ ਦਬਾਓ">
+<!ENTITY threadColumn.tooltip "ਸੁਨੇਹਾ ਮਾਮਲੇ ਵੇਖਣ ਲ਼ਈ ਇੱਥੇ ਦਬਾਓ"> 
+<!ENTITY senderColumn.tooltip "ਭੇਜਣ ਵਾਲੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY recipientColumn.tooltip "ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY subjectColumn.tooltip "ਵਿਸ਼ੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY dateColumn.tooltip "ਮਿਤੀ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY priorityColumn.tooltip "ਦਰਜੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY tagsColumn.tooltip "ਟੈਗ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY accountColumn.tooltip "ਖਾਤੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY statusColumn.tooltip "ਹਾਲਤ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY sizeColumn.tooltip "ਆਕਾਰ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY junkStatusColumn.tooltip "ਕੂੜ ਸਥਿਤੀ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY unreadColumn.tooltip "ਮਾਮਲੇ ਵਿੱਚ ਕੁੱਲ ਨਾ ਪੜੇ ਸੁਨੇਹੇ">
+<!ENTITY totalColumn.tooltip "ਮਾਮਲੇ ਵਿੱਚ ਕੁੱਲ ਸੁਨੇਹਿਆਂ ਦੀ ਗਿਣਤੀ">
+<!ENTITY readColumn.tooltip "ਪੜਨ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY starredColumn.tooltip "ਤਾਰੇ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY locationColumn.tooltip "ਸਥਿਤੀ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">
+<!ENTITY idColumn.tooltip "ਪ੍ਰਾਪਤ ਕ੍ਰਮ ਰਾਹੀਂ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਦਬਾਓ">

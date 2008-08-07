@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "RSS ਖਾਤਾ ਵਿਵਸਥਾ">
+
+<!ENTITY biffStart.label "ਨਵੇਂ ਲੇਖ ਦੀ ਜਾਂਚ ਹਰ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "ਮਿੰਟ ਬਾਅਦ">
+
+<!ENTITY loginAtStartup.label "ਸ਼ੁਰੂ ਹੋਣ ਸਮੇਂ ਨਵੇਂ ਲੇਖ ਦੀ ਜਾਂਚ ਕਰੋ"> 
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "ਮੂਲ ਰੂਪ ਵਿੱਚ, ਪੂਰੇ ਵੈੱਬ ਸਫੇ ਦੀ ਬਜਾਏ ਸਿਰਫ ਇੱਕ ਲੇਖ ਹੀ ਵੇਖਾਓ"> 
+<!ENTITY useQuickMode.accesskey "B">
+
+<!ENTITY manageSubscriptions.label "ਮੈਂਬਰੀ ਪ੍ਰਬੰਧਨ..."> 
+<!ENTITY manageSubscriptions.accesskey "M">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "ਖ਼ਬਰਾਂ &amp; ਬੀ-ਲਾਗ">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "RSS ਖ਼ਬਰਾਂ &amp; ਬੀ-ਲਾਗ">
+<!ENTITY rss.hostName               "ਖ਼ਬਰਾਂ &amp; ਬੀ-ਲਾਗ">

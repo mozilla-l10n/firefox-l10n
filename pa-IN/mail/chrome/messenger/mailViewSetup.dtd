@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "ਸੁਨੇਹਾ ਦਰਿਸ਼ ਵਿਵਸਥਾ">
+<!ENTITY mailViewHeading.label "ਸੁਨੇਹਾ ਦਰਿਸ਼ ਨਾਂ:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "ਜਦੋਂ ਇਹ ਦਰਿਸ਼ ਚੁਣਿਆ ਜਾਵੇ,ਸਿਰਫ ਸੁਨੇਹੇ ਵੇਖਾਓ, ਜੋ ਕਿ:">
+

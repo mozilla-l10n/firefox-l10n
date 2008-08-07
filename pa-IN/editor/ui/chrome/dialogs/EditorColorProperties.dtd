@@ -1,0 +1,46 @@
+<!--
+   - The contents of this file are subject to the Netscape Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/NPL/
+   -  
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   -  
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   - 
+   - The Initial Developer of the Original Code is Netscape
+   - Communications Corporation. Portions created by Netscape are
+   - Copyright (C) 1998-1999 Netscape Communications Corporation. All
+   - Rights Reserved.
+   - 
+   - Contributor(s): 
+  -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "ਸਫਾ ਰੰਗ ਤੇ ਪਿੱਠਭੂਮੀ">
+<!ENTITY pageColors.label "ਸਫਾ ਰੰਗ">
+<!ENTITY defaultColorsRadio.label "ਪੜਨ ਲਈ ਮੂਲ ਰੰਗ (ਸਫੇ ਵਿੱਚ ਰੰਗ ਨਾ ਚੁਣੋ)">
+<!ENTITY defaultColorsRadio.accessKey "D">
+<!ENTITY defaultColorsRadio.tooltip "ਦਰਸ਼ਕ ਝਲਕਾਰੇ ਤੋਂ ਹੀ ਰੰਗ ਵਿਵਸਥਾ ਚੁਣੋ">
+<!ENTITY customColorsRadio.label "ਪ੍ਰਚਲਿਤ ਰੰਗ ਵਰਤੋਂ:">
+<!ENTITY customColorsRadio.accessKey "C">
+<!ENTITY customColorsRadio.tooltip "ਇਹ ਰੰਗ ਵਿਵਸਥਾ ਦਰਸ਼ਕ ਝਲਕਾਰਾ ਵਿਵਸਥਾ ਨੂੰ ਤਬਦੀਲ ਕਰ ਦੇਵੇਗੀ">
+
+<!ENTITY normalText.label "ਸਧਾਰਨ ਪਾਠ">
+<!ENTITY normalText.accessKey "N">
+<!ENTITY linkText.label "ਸੰਬੰਧ ਪਾਠ">
+<!ENTITY linkText.accessKey "L">
+<!ENTITY activeLinkText.label "ਸਰਗਰਮ ਸੰਬੰਧ ਪਾਠ">
+<!ENTITY activeLinkText.accessKey "A">
+<!ENTITY visitedLinkText.label "ਖੋਲੇ ਸੰਬੰਧ ਪਾਠ">
+<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY background.label "ਪਿੱਠਭੂਮੀ:">
+<!ENTITY background.accessKey "B">
+<!ENTITY colon.character ":">
+<!ENTITY backgroundImage.label "ਪਿੱਠਭੂਮੀ ਚਿੱਤਰ:">
+<!ENTITY backgroundImage.accessKey "m">
+<!ENTITY backgroundImage.tooltip "ਆਪਣੇ  ਸਫੇ ਦੀ ਪਿੱਠਭੂਮੀ ਲਈ ਇੱਕ ਚਿੱਤਰ ਫਾਇਲ਼ ਦੀ ਵਰਤੋਂ ਕਰੋ">

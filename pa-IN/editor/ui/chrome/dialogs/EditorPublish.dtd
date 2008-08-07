@@ -1,0 +1,103 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label         "ਪੇਜ਼ ਪਬਲਿਸ਼">
+<!ENTITY windowTitleSettings.label "ਪਬਲਿਸ਼ ਸੈਟਿੰਗ">
+
+<!ENTITY publishTab.label         "ਪਬਲਿਸ਼">
+<!ENTITY settingsTab.label        "ਸੈਟਿੰਗ">
+
+<!ENTITY publishButton.label      "ਪਬਲਿਸ਼">
+
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label           "ਸਾਇਟ ਨਾਂ:">
+<!ENTITY siteList.accesskey           "e">
+<!ENTITY siteList.tooltip         "ਸਾਇਟ, ਜਿਸ ਉੱਤੇ ਤੁਸੀਂ ਪਬਲਿਸ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਦੀ ਚੋਣ ਕਰੋ">
+<!ENTITY newSiteButton.label      "ਨਵੀਂ ਸਾਇਟ">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY docDirList.label         "ਇਸ ਪੇਜ਼ ਲਈ ਸਾਇਟ ਅਧੀਨ-ਡਾਇਰੈਕਟਰੀ:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Choose or enter the name of the remote subdirectory for this page">
+<!ENTITY publishImgCheckbox.label "ਚਿੱਤਰ ਅਤੇ ਹੋਰ ਫਾਇਲਾਂ ਸ਼ਾਮਿਲ">
+<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.tooltip "ਇਸ ਪੇਜ਼ ਰਾਹੀਂ ਮੰਗੇ ਚਿੱਤਰ ਅਤੇ ਹੋਰ ਫਾਇਲਾਂ ਵੀ ਪਬਲਿਸ਼ ਕਰੋ">
+<!ENTITY sameLocationRadio.label  "ਪੇਜ਼ ਦਾ ਟਿਕਾਣਾ ਹੀ ਵਰਤੋਂ">
+<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY sameLocationRadio.tooltip "ਪੇਜ਼ ਦੇ ਟਿਕਾਣੇ ਉੱਤੇ ਹੀ ਫਾਇਲਾਂ ਪਬਲਿਸ਼ ਕਰੋ">
+<!ENTITY useSubdirRadio.label         "ਇਹ ਸਾਈਟ ਸਬ-ਡਾਇਰੈਕਟਰੀ ਵਰਤੋਂ:">
+<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.tooltip       "Publish files to the selected remote subdirectory">
+<!ENTITY otherDirList.tooltip         "Choose or enter name of remote subdirectory where files will be published">
+<!ENTITY pageTitle.label          "ਪੇਜ਼ ਟਾਈਟਲ:">
+<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.tooltip        "ਵਿੰਡੋ ਵਿੱਚ ਅਤੇ ਬੁੱਕਮਾਰਕ ਦੀ ਪਛਾਣ ਲਈ ਨਾਂ ਦਿਓ">
+<!ENTITY pageTitleExample.label   "ਜਿਵੇਂ ਕਿ: &quot;ਮੇਰਾ ਵੈਬ ਸਫ਼ਾ&quot;">
+<!ENTITY filename.label           "ਫਾਇਲ ਨਾਂ:">
+<!ENTITY filename.accesskey           "F">
+<!ENTITY filename.tooltip         "ਇਸ ਫਾਇਲ ਲਈ ਨਾਂ ਦਿਓ, ਵੈਬ ਸਫ਼ੇ ਲਈ '.html' ਸਮੇਤ">
+<!ENTITY filenameExample.label    "ਜਿਵੇਂ ਕਿ,: &quot;mypage.html&quot;">
+<!ENTITY relatedDocs.label        "ਪਬਲਿਸ਼ ਕਰਨ ਲਈ ਹੋਰ ਫਾਇਲਾਂ">
+<!ENTITY setDefaultButton.label   "ਡਿਫਾਲਟ ਦੇ ਤੌਰ 'ਤੇ ਵਰਤੋਂ">
+<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY setDefSiteAndDir.label   "ਡਿਫਾਲਟ ਸਾਇਟ ਅਤੇ ਡਾਇਰੈਕਟਰੀ ਵਾਂਗ ਦਿਓ">
+<!ENTITY removeButton.label       "ਸਾਇਟ ਹਟਾਓ">
+<!ENTITY removeButton.accesskey       "R">
+
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label   "ਸਾਇਟ ਪਬਲਿਸ਼">
+<!ENTITY serverInfo.label     "ਸਰਵਰ ਜਾਣਕਾਰੀ">
+<!ENTITY loginInfo.label      "ਲਾਗਇਨ ਜਾਣਕਾਰੀ">
+<!ENTITY siteName.label       "ਸਾਇਟ ਨਾਂ:">
+<!ENTITY siteName.accesskey           "e">
+<!ENTITY siteName.tooltip     "ਇਸ ਸਾਇਟ ਦੀ ਪਛਾਣ ਕਰਨ ਲਈ ਆਮ ਜਿਹਾ ਨਾਂ (ਜਿਵੇਂ ਕਿ: 'MySite')">
+<!ENTITY siteUrl.accesskey            "a">
+<!ENTITY siteUrl.label        "ਪਬਲਿਸ਼ਿੰਗ ਨਾਂ (e.g.: 'ftp://ftp.myisp.com/myusername'):">
+<!ENTITY siteUrl.tooltip      "ਤੁਹਾਡੇ ISP ਜਾਂ ਵੈਬ ਹੋਸਟ ਸਰਵਿਸ ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ FTP:// ਜਾਂ HTTP:// ਐਡਰੈੱਸ">
+<!ENTITY browseUrl.label      "ਆਪਣੇ ਮੇਨ ਪੇਜ਼ ਦਾ HTTP ਐਡਰੈੱਸ (ਜਿਵੇਂ ਕਿ: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.tooltip    "ਆਪਣੀ ਘਰ ਡਾਇਰੈਕਟਰੀ ਦਾ HTTP:// ਐਡਰੈੱਸ (ਫਾਇਲ ਨਾਂ ਨਾ ਦਿਓ)">
+<!ENTITY username.label       "ਯੂਜ਼ਰ ਨਾਂ:">
+<!ENTITY username.accesskey           "U">
+<!ENTITY username.tooltip     "ਆਪਣਾ ਯੂਜ਼ਰ ਨਾਂ ਦਿਓ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ISP  ਜਾਂ ਵੈਬ ਹੋਸਟਿੰਗ ਸੇਵਾ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ">
+<!ENTITY password.label       "ਪਾਸਵਰਡ:">
+<!ENTITY password.accesskey           "w">
+<!ENTITY password.tooltip     "ਤੁਹਾਡੇ ਯੂਜ਼ਰ ਨਾਂ ਨਾਲ ਸਬੰਧਿਤ ਪਾਸਵਰਡ">
+<!ENTITY savePassword.label   "ਪਾਸਵਰਡ ਸੰਭਾਲੋ">
+<!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.tooltip "ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਆਪਣੇ ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਇਸ ਦੀ ਚੋਣ ਕਰੋ">

@@ -1,0 +1,150 @@
+ <!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- LOCALIZATION NOTE This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY event.title.label                  "ਘਟਨਾ ਸੋਧ" >
+
+<!ENTITY newevent.title.label               "ਨਾਂ" >
+<!ENTITY newevent.title.accesskey           "i" >
+<!ENTITY newevent.itemType.event.label      "ਘਟਨਾ" >
+<!ENTITY newevent.itemType.todo.label       "ਕੰਮ" >
+<!ENTITY newevent.location.label            "ਟਿਕਾਣਾ" >
+<!ENTITY newevent.location.accesskey        "L" >
+
+<!-- LOCALIZATION NOTE In the following New Event/Task dialog only sections,
+   - all accesskeys MUST be different. See Bug 357027 Comment #14 for more
+   - details  -->
+<!-- The following entities are for New Event dialog only -->
+<!ENTITY newevent.from.label                "ਤੋਂ" >
+<!ENTITY newevent.from.accesskey            "F" >
+<!ENTITY newevent.to.label                  "ਤੱਕ" >
+<!ENTITY newevent.to.accesskey              "T" >
+<!ENTITY newevent.alldayevent.label         "ਸਾਰਾ ਦਿਨ" >
+<!ENTITY newevent.alldayevent.accesskey     "A" >
+
+<!-- The following entities are for New Task dialog only -->
+<!ENTITY newevent.date.label                "ਤਾਰੀਖ" >
+<!ENTITY newevent.date.accesskey            "a" >
+<!ENTITY newtodo.duedate.label              "ਨੀਯਤ ਤਾਰੀਖ">
+<!ENTITY newtodo.duedate.accesskey          "t">
+
+<!ENTITY newevent.repeat2.label             "ਦੁਹਰਾਓ" >
+<!ENTITY newevent.repeat2.accesskey         "R" >
+<!ENTITY newevent.set.label                 "ਪੈਟਰਨ ਦਿਓ…" >
+<!ENTITY newevent.set.accesskey             "n" >
+
+<!ENTITY newevent.server.label              "ਕੈਲੰਡਰ" >
+<!ENTITY newevent.server.accesskey          "C" >
+<!ENTITY newtodo.categories.label           "ਕੈਟਾਗਰੀ">
+<!ENTITY newtodo.categories.accesskey       "o">
+
+<!ENTITY newevent.description.label         "ਵੇਰਵਾ" >
+<!ENTITY newevent.description.accesskey     "D" >
+
+<!ENTITY newevent.attendees.label           "ਦਰਸ਼ਕ" >
+<!ENTITY newevent.attendees.accesskey       "e" >
+<!ENTITY newevent.attendees.sendEmail.label "ਦਰਸ਼ਕਾਂ ਨੂੰ ਸੱਦਾ ਈ-ਮੇਲ ਰਾਹੀਂ ਭੇਜੋ">
+
+<!ENTITY newevent.privacy.label             "ਰਹੱਸ" >
+<!ENTITY newevent.privacy.accesskey         "P" >
+<!ENTITY newevent.public.label              "ਪਬਲਿਕ" >
+<!ENTITY newevent.private.label             "ਪ੍ਰਾਈਵੇਟ" >
+<!ENTITY newevent.confidential.label        "ਗੁਪਤ" >
+
+<!ENTITY newtodo.priority.label             "ਤਰਜੀਹ">
+<!ENTITY newtodo.priority.accesskey         "y">
+<!ENTITY priority.level.none                "ਨਹੀਂ ਦਿੱਤੀ">
+<!ENTITY priority.level.none.accesskey      "N">
+<!ENTITY priority.level.low                 "ਘੱਟ">
+<!ENTITY priority.level.low.accesskey       "L">
+<!ENTITY priority.level.medium              "ਮੱਧਮ">
+<!ENTITY priority.level.medium.accesskey    "M">
+<!ENTITY priority.level.high                "ਉੱਚ">
+<!ENTITY priority.level.high.accesskey      "H">
+
+<!ENTITY newevent.status.label              "ਹਾਲਤ" >
+<!ENTITY newevent.status.accesskey          "S" >
+<!ENTITY newevent.status.none.label         "ਨਹੀਂ ਦਿੱਤੀ" >
+<!ENTITY newevent.status.cancelled.label    "ਰੱਦ ਕੀਤਾ" >
+
+<!-- The following entities are for New Event dialog only -->
+<!ENTITY newevent.status.tentative.label    "ਆਰਜ਼ੀ" >
+<!ENTITY newevent.status.confirmed.label    "ਪੁਸ਼ਟੀ" >
+
+<!-- The following entities are for New Task dialog only -->
+<!ENTITY newevent.status.needsaction.label  "ਕਾਰਵਾਈ ਦੀ ਲੋੜ" >
+<!ENTITY newevent.status.inprogress.label   "ਜਾਰੀ ਹੈ" >
+<!ENTITY newevent.status.completed.label    "ਪੂਰਾ ਹੋਇਆ" >
+
+<!ENTITY newevent.alarm.label               "ਅਲਾਰਮ" >
+<!ENTITY newevent.alarm.accesskey           "m" >
+<!ENTITY newevent.none.label                "ਕੋਈ ਨਹੀਂ" >
+<!ENTITY newevent.15minutes.before.label    "15 ਮਿੰਟ ਪਹਿਲਾਂ" >
+<!ENTITY newevent.30minutes.before.label    "30 ਮਿੰਟ ਪਹਿਲਾਂ" >
+<!ENTITY newevent.custom.label              "ਪਸੰਦੀਦਾ…" >
+
+<!ENTITY newevent.uri.label                 "URL" >
+<!ENTITY newevent.uri.accesskey             "U" >
+<!ENTITY newevent.uri.visit.label           "URL ਵੇਖੋ" >
+<!ENTITY newevent.uri.visit.accesskey       "V" >
+
+<!-- The following entity is for New Task dialog only -->
+<!ENTITY newtodo.percentcomplete.label      "&#37; ਮੁਕੰਮਲ">
+
+<!ENTITY calendar.more.label                "ਹੋਰ">
+<!ENTITY calendar.less.label                "ਘੱਟ">
+
+<!-- Alarm -->
+<!ENTITY alarm.units.minutes                "ਮਿੰਟ" >
+<!ENTITY alarm.units.hours                  "ਘੰਟੇ" >
+<!ENTITY alarm.units.days                   "ਦਿਨ" >
+
+<!ENTITY alarm.start.warning                "ਇਹ ਅਲਾਰਮ ਨੂੰ ਇੱਕ ਸ਼ੁਰੂ ਤਾਰੀਖ ਚਾਹੀਦੀ" >
+<!ENTITY alarm.due.warning                  "ਇਹ ਅਲਾਰਮ ਨੂੰ ਇੱਕ ਨੀਯਤ ਤਾਰੀਖ ਚਾਹੀਦੀ" >
+
+<!ENTITY newevent.before.label              "ਪਹਿਲਾਂ" >
+<!ENTITY newevent.after.label               "ਬਾਅਦ" >
+
+<!-- Information messages -->
+<!ENTITY newevent.endtime.warning           "ਤੁਹਾਡਾ ਸ਼ੁਰੂ ਸਮਾਂ ਅੰਤ ਸਮੇਂ ਤੋਂ ਪਹਿਲਾਂ ਹੈ।">
+<!ENTITY newevent.readonly.item.warning     "ਇਹ ਇਕਾਈ ਕੇਵਲ ਪੜ੍ਹਨਯੋਗ ਕੈਲੰਡਰ 'ਚ ਹੈ। ਤੁਸੀਂ ਸ਼ਾਇਦ ਸੋਧ ਨਾ ਸਕੋ।">
+<!ENTITY newevent.readonly.cal.warning      "ਇਹ ਕੈਲੰਡਰ ਕੇਵਲ ਪੜ੍ਹਨ ਲਈ ਹੈ।">
+<!ENTITY newtodo.repeatstart.warning        "ਮੁੜ-ਹੋਣ ਲਈ ਸ਼ੁਰੂ ਤਾਰੀਖ ਦੀ ਲੋੜ ਹੈ।">

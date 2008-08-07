@@ -1,0 +1,27 @@
+<!ENTITY askOnSave.label              "ਨੱਥੀ ਫੋਲਡਰ">
+<!ENTITY alwaysAsk.label              "ਹਰ ਫਾਇਲ ਲਈ ਮੈਨੂੰ ਪੁੱਛੋ ਕਿ ਕਿੱਥੇ ਸੰਭਾਲਣੀ ਹੈ">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY neverAsk.label               "ਸਭ ਨੱਥੀਆਂ ਨੂੰ ਇਸ ਫੋਲਡਰ ਵਿੱਚ ਸੰਭਾਲੋ:">
+<!ENTITY neverAsk.accesskey           "S">
+<!ENTITY desktop.label                "Desktop">
+<!ENTITY downloads.label              "ਮੇਰੇ ਡਾਊਨਲੋਡ">
+<!ENTITY chooseFolderWin.label        "ਝਲਕ...">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "ਚੋਣ...">
+<!ENTITY chooseFolderMac.accesskey    "C">
+
+
+<!ENTITY fileTypes.label              "ਡਾਊਨਲੋਡ ਕਾਰਵਾਈਆਂ">
+<!ENTITY configureActions.label       "ਕਾਰਵਾਈਆਂ ਵੇਖੋ &amp; ਸੋਧ...">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypesDescription.label   "&brandShortName; ਨੱਥੀ ਦੀਆਂ ਕੁਝ ਕਿਸਮਾਂ ਨੂੰ ਖੁਦ ਹੀ ਸੰਭਾਲ ਜਾਂ ਖੋਲ ਸਕਦਾ ਹੈ।">
+
+<!ENTITY fileTypes.label              "ਫਾਇਲ ਕਿਸਮ">
+<!-- XXX this text string could improve --> 
+<!ENTITY fileTypesDescription.label   "ਹੇਠ ਦਿੱਤੀ ਫਾਇਲ ਕਿਸਮਾਂ ਲਈ ਸਵੈ-ਚਾਲਿਤ ਹੀ ਸਬੰਧਿਤ ਕਾਰਵਾਈਆਂ ਕਰੋ:">
+<!ENTITY fileTypeColName.label        "ਫਾਇਲ ਕਿਸਮ">
+<!ENTITY fileHandlerColName.label     "ਕਾਰਜ">
+<!ENTITY editFileHandler.label        "ਕਾਰਵਾਈ ਤਬਦੀਲ...">
+<!ENTITY editFileHandler.accesskey    "a">
+<!ENTITY removeFileHandler.label      "ਹਟਾਓ">
+<!ENTITY removeFileHandler.accesskey  "r">

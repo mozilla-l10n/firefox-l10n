@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "ਸੁਨੇਹਾ ਸੁਰੱਖਿਆ">
+<!ENTITY signatureCert.label "ਦਸਤਖਤ ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">
+<!ENTITY encryptionCert.label "ਇਕ੍ਰਿਪਸ਼ਨ ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">
+
+<!ENTITY signer.name "ਦਸਤਖਤ:">
+<!ENTITY recipient.name "ਇਸ ਲ਼ਈ ਇਕ੍ਰਿਪਸ਼ਨ:">
+<!ENTITY email.address "ਈ-ਪੱਤਰ ਸਿਰਨਾਵਾਂ:">
+<!ENTITY issuer.name "ਸਰਟੀਫਿਕੇਟ ਜਾਰੀ ਕਰਤਾ:">

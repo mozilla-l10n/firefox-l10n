@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "ਫਾਰਮੈਟ">
+<!ENTITY itemTags.label                   "ਟੈਗ">
+<!ENTITY itemFonts.label                  "ਫੋਂਟ">
+
+<!ENTITY textBegin.label                  "ਕਾਮਿਆਂ ਸਮੇਤ ਸਧਾਰਨ ਪਾਠ ਦਿੱਖ">
+<!ENTITY style.label                      "ਸ਼ੈਲੀ:">
+<!ENTITY style.accesskey                  "y">
+<!ENTITY regularStyle.label               "ਨਿਯਮਿਤ">
+<!ENTITY bold.label                       "ਗੂੜੇ">
+<!ENTITY italic.label                     "ਤਿਰਛੇ">
+<!ENTITY boldItalic.label                 "ਗੂੜੇ ਤਿਰਛੇ">
+<!ENTITY size.label                       "ਅਕਾਰ:">
+<!ENTITY size.accesskey                   "s">
+<!ENTITY regularSize.label                "ਨਿਯਮਿਤ">
+<!ENTITY bigger.label                     "ਵੱਡੇ">
+<!ENTITY smaller.label                    "ਛੋਟੇ">
+<!ENTITY color.label                      "ਰੰਗ:">
+<!ENTITY color.accesskey                  "c">
+<!ENTITY displayWidth.label               "ਸਧਾਰਨ ਪਾਠ ਸੁਨੇਹੇ">
+<!ENTITY plainText.label	          "ਹੇਠ ਦਿੱਤੇ ਫੋਂਟ ਵਰਤੋਂ:">
+<!ENTITY displayText.label	       "ਜਦੋਂ ਕਾਮਿਆਂ ਸਮੇਤ ਸਧਾਰਨ ਪਾਠ ਸੁਨੇਹੇ ਵੇਖਾਏ ਜਾਣ:">
+<!ENTITY viewingPlainText.label	   "ਜਦੋਂ ਸਧਾਰਨ ਪਾਠ ਸੁਨੇਹੇ ਵੇਖਾਓ ਜਾਣ:">
+<!ENTITY fixedWidth.label                 "ਸਥਿਰ ਚੌੜਾਈ ਫੋਂਟ">
+<!ENTITY fixedWidth.accesskey             "x">
+<!ENTITY variableWidth.label              "ਅਸਥਿਰ ਚੌੜਾਈ ਫੋਂਟ">
+<!ENTITY variableWidth.accesskey          "V">
+<!ENTITY readingMessagesHeader.label      "ਆਉਣ ਵਾਲੇ ਸੁਨੇਹਿਆਂ ਲਈ">
+<!ENTITY colors.label                     "ਰੰਗ">
+<!ENTITY overrideColors.label             "ਜਦੋਂ ਸੁਨੇਹੇ ਵੇਖਾਏ ਜਾਣ ਤਾਂ ਹੇਠ ਦਿੱਤੇ ਰੰਗ ਵੇਖਾਓ:">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "ਭਾਵਨਾ-ਆਈਕਾਨ ਨੂੰ ਚਿੱਤਰਾਂ ਵਾਂਗ ਵੇਖਾਓ">
+<!ENTITY convertEmoticons.accesskey       "D">
+<!ENTITY  textColor.label                 "ਪਾਠ ਰੰਗ:">
+<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  backgroundColor.label           "ਬੈਕਗਰਾਊਂਡ ਰੰਗ:">
+<!ENTITY  backgroundColor.accesskey       "b">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label    "ਟੈਗ ਤੁਹਾਡੇ ਸੁਨੇਹਿਆਂ ਨੂੰ ਵਰਗੀਕਰਨ ਕਰਨ ਅਤੇ ਦਰਜਾਬੰਦ ਕਰਨ ਲਈ ਵਰਤੇ ਜਾ ਸਕਦੇ ਹਨ।">
+<!ENTITY addTagButton.label       "ਸ਼ਾਮਿਲ">
+<!ENTITY addTagButton.accesskey   "A">
+<!ENTITY editTagButton.label      "ਸੋਧ">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label    "ਹਟਾਓ">
+<!ENTITY removeTagButton.accesskey "l">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label  "&brandShortName; ਵਲੋਂ ਵਰਤਣ ਲਈ ਫੋਂਟ ਅਤੇ ਇੰਕੋਡਿੰਗ ਦੀ ਚੋਣ">
+<!ENTITY fontsAndEncodingsCaption.label      "ਫੋਂਟ &amp; ਇੰਕੋਡਿੰਗ">
+<!ENTITY fontOptions.accesskey   "F">
+<!ENTITY fontOptions.label       "ਫੋਂਟ...">

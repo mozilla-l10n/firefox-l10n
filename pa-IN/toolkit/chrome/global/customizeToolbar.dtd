@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "ਟੂਲਬਾਰ ਕਸਟਮਾਈਜ਼">
+<!ENTITY instructions.description "ਤੁਸੀਂ ਟੂਲਬਾਰ ਵਿੱਚ ਚੁੱਕ ਜਾਂ ਸੁੱਟ ਕੇ ਆਈਟਮਾਂ ਸ਼ਾਮਿਲ ਜਾਂ ਹਟਾ ਸਕਦੇ ਹੋ।">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY show.label               "ਵੇਖੋ:">
+<!ENTITY iconsAndText.label       "ਆਈਕਾਨ ਅਤੇ ਅੱਖਰ">
+<!ENTITY icons.label              "ਆਈਕਾਨ">
+<!ENTITY text.label               "ਅੱਖਰ">
+<!ENTITY useSmallIcons.label      "ਛੋਟੇ ਆਈਕਾਨ ਵਰਤੋਂ">
+<!ENTITY restoreDefaultSet.label  "ਡਿਫਾਲਸਟ ਹੀ ਵਰਤੋਂ">
+<!ENTITY addNewToolbar.label      "ਨਵੀਂ ਟੂਲਬਾਰ ਸ਼ਾਮਿਲ">
+<!ENTITY saveChanges.label        "ਸਮਾਪਤ">
+<!ENTITY undoChanges.label        "ਤਬਦੀਲੀਆਂ ਵਾਪਿਸ ਲਵੋ">

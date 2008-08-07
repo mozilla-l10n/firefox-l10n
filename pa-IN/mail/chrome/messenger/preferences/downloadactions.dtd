@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title         "ਡਾਊਨਲੋਡ ਕਾਰਵਾਈ">
+<!ENTITY  window.width                         "480">
+<!ENTITY  window.height                        "310">
+  
+<!ENTITY  fileTypesDescription.label          "ਹੇਠ ਦਿੱਤੀ ਫਾਇਲ ਕਿਸਮਾਂ ਨਾਲ ਸਬੰਧਿਤ ਕਾਰਵਾਈ ਸਵੈ-ਚਾਲਿਤ ਹੀ ਕਰੋ:">
+
+<!ENTITY  fileHandlerColumn.label             "ਕਾਰਵਾਈ">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "ਫਾਇਲ ਕਿਸਮ">
+<!ENTITY  fileTypeColumn.accesskey            "T">
+<!ENTITY  fileMIMETypeColumn.label            "MIME ਕਿਸਮ">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "ਸਹਿਯੋਗੀ">
+<!ENTITY  fileExtensionColumn.accesskey       "E">
+
+<!ENTITY  remove.label                        "ਕਾਰਵਾਈ ਹਟਾਓ">
+<!ENTITY  remove.accesskey                    "R">
+<!ENTITY  edit.label                          "ਕਾਰਵਾਈ ਤਬਦੀਲ...">
+<!ENTITY  edit.accesskey                      "C">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "ਖੋਜ:">
+<!ENTITY  filter.accesskey                    "S">
+<!ENTITY  clear.label                         "ਸਾਫ਼">
+<!ENTITY  clear.accesskey                     "l">
+
+<!ENTITY  button.close.label                  "ਬੰਦ ਕਰੋ">
+<!ENTITY  button.close.accesskey              "o">
+

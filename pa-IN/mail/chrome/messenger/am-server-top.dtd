@@ -1,0 +1,97 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "ਸੁਰੱਖਿਆ ਵਿਵਸਥਾ">
+<!ENTITY serverSettings.label "ਸਰਵਰ ਵਿਵਸਥਾ">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP ਪੱਤਰ ਸਰਵਰ">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP ਪੱਤਰ ਸਰਵਰ">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "ਖਬਰਸਾਰ ਸਰਵਰ (NNTP)">
+<!ENTITY webmail.label "ਵੈੱਬ-ਪੱਤਰ(WebMail) ਖਾਤਾ">
+<!ENTITY serverType.label "ਸਰਵਰ ਕਿਸਮ:">
+<!ENTITY serverName.label "ਸਰਵਰ ਨਾਂ:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "ਉਪਭੋਗੀ ਨਾਂ:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "ਪੋਰਟ:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "ਮੂਲ:">
+<!ENTITY savePassword.label "ਗੁਪਤ-ਕੋਡ ਸੰਭਾਲੋ">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "ਨਵੇਂ ਸੁਨਹਿਆਂ ਦੀ ਹਰ ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "ਮਿੰਟ ਬਾਅਦ ਜਾਂਚ ਕਰੋ">
+<!ENTITY isSecure.label "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਵਰਤੋਂ (SSL)">
+<!ENTITY isSecure.accesskey "U">
+<!ENTITY useSecAuth.label "ਸੁਰੱਖਿਅਤ ਪਰਮਾਣਕਿਤਾ ਵਰਤੋਂ">
+<!ENTITY socketType.label "ਸੁਰੱਖਿਅਟ ਕੁਨੈਕਸ਼ਨ ਵਰਤੋਂ:">
+<!ENTITY neverSecure.label "ਕਦੇ ਨਹੀਂ">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, ਜੇਕਰ ਉਪਲੱਬਧ ਹੈ">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "ਸੁਨੇਹੇ ਸਰਵਰ ਤੇ ਰਹਿਣ ਦਿਓ">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "ਸਿਰਫ ਸਿਰਲੇਖ ਹੀ ਵੇਖੋ">
+<!ENTITY headersOnly.accesskey "f">
+<!ENTITY deleteByAgeFromServer.label "ਲੱਗਭਗ">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "ਦਿਨ">
+<!ENTITY deleteOnServer2.label "Until I delete them">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "ਨਵੇਂ ਸੁਨੇਹੇ ਸਵੈ-ਚਾਲਿਤ ਹੀ ਡਾਊਨਲੋਡ ਕਰੋ">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "ਸਰਵਰ ਮੇਜ਼ਬਾਨ ਨਾਂ">
+<!ENTITY username.label "ਤੁਹਾਡਾ ਲਾੱਗਆਨ ਨਾਂ">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "POP ਸਰਵਰ ਜਾਣਕਾਰੀ">
+<!ENTITY deleteMessagePrefix.label "ਜਦੋਂ ਮੈਂ ਇੱਕ ਸੁਨੇਹਾ ਹਟਾਵਾਂ:">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelMoveToTrash.label "ਇਸ ਨੂੰ ਰੱਦੀ (Trash) ਵਿੱਚ ਭੇਜ ਦਿਓ">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "ਇਸ ਨੂੰ ਹਟਾਇਆ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ">
+<!ENTITY modelDeleteImmediately.label "ਤਰੁੰਤ ਹਟਾ ਦਿਓ">
+<!ENTITY modelDeleteImmediately.accesskey "d">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "ਬੰਦ ਕਰਨ 'ਤੇ  Inbox (&quot;Expunge&quot;) ਕਰੋ">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "ਬੰਦ ਕਰਨ ਤੇ ਰੱਦੀ ਖਾਲੀ ਕਰੋ">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "ਸ਼ੁਰੂਆਤ ਤੇ ਨਵੇਂ ਸੁਨਹਿਆਂ ਦੀ ਜਾਂਚ ਕਰੋ"> 
+<!ENTITY loginAtStartup.accesskey "C">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "ਹੋਰ ਡਾਊਨਲੋਡ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਮੈਨੂੰ ਪੁੱਛੋ">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "ਸੁਨੇਹਾ">
+<!ENTITY alwaysAuthenticate.label "ਇਸ ਸਰਵਰ ਨਾਲ ਜੁੜਨ ਸਮੇਂ ਹਮੇਸ਼ਾ ਪਰਮਾਣਕਿਤਾ ਲਈ ਬੇਨਤੀ ਕਰੋ">
+<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY newsrcFilePath.label "newsrc ਫਾਇਲ:">
+<!ENTITY newsrcFilePath.accesskey "f">
+<!ENTITY localPath.label "ਸਥਾਨਕ ਡਾਇਰੈਕਟਰੀ:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY abbreviate.label "ਪੱਤਰ ਫੋਲਡਰ ਵਿੱਚ ਖ਼ਬਰਸਾਰ ਸਮੂਹ ਦਾ ਨਾਂ ਇਸਤਰਾਂ ਵੇਖਾਓ:">
+<!ENTITY abbreviateOn.label "ਪੂਰਾ ਨਾਂ (ਉਦਾਹਰਨ ਲਈ, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "ਸੰਖੇਪ ਨਾਂ (ਉਦਾਹਰਨ ਲਈ, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "ਤਕਨੀਕੀ...">
+<!ENTITY serverDefaultCharset.label "ਮੂਲ ਅੱਖਰ ਇੰਕੋਡਿੰਗ:">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY localFolderPicker.label "ਸਥਾਨਿਕ ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ">
+<!ENTITY browseFolder.label "ਝਲਕ...">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "ਫਾਇਲ newsrc ਚੁਣੋ">
+<!ENTITY browseNewsrc.label "ਝਲਕ...">
+<!ENTITY browseNewsrc.accesskey "e">

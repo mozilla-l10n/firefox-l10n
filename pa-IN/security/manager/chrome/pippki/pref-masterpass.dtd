@@ -1,0 +1,44 @@
+<!-- 
+   - The contents of this file are subject to the Mozilla Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/MPL/
+   - 
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   - 
+   - The Original Code is mozilla.org code.
+   - 
+   - The Initial Developer of the Original Code is Netscape
+   - Communications Corp.  Portions created by Netscape are
+   - Copyright (C) 2001 Netscape Communications Corp.  All
+   - Rights Reserved.
+   - 
+   - Contributor(s):
+   -   Bob Lord <lord@netscape.com>
+   -   Terry Hayes <thayes@netscape.com>
+  -->
+
+<!ENTITY  pref.masterpass.title                  "ਮਾਸਟਰ ਪਾਸਵਰਡ">
+<!ENTITY  managepassword.caption                 "ਮਾਸਟਰ ਪਾਸਵਰਡ ਅੰਤਰਾਲ">
+<!ENTITY  managepassword.text     "&brandShortName; ਤੁਹਾਡੇ ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਾਰੇ ਪੁੱਛੇਗਾ:">
+<!ENTITY  managepassword.askfirsttime "ਪਹਿਲੀਂ ਵਾਰ ਇਸ ਦੀ ਲੋੜ ਹੈ">
+<!ENTITY  managepassword.askfirsttime.accesskey  "T">
+<!ENTITY  managepassword.askeverytime "ਹਰ ਵਾਰ ਇਸ ਦੀ ਲੋੜ ਹੈ">
+<!ENTITY  managepassword.askeverytime.accesskey  "E">
+<!ENTITY  managepassword.asktimeout   "ਜੇਕਰ ਇਸ ਨੂੰ">
+<!ENTITY  managepassword.asktimeout.accesskey    "n">
+<!ENTITY  managepassword.timeout.unit   "ਮਿੰਟ ਜਾਂ ਵਧੇਰੇ ਲਈ ਵਰਤਿਆ ਨਾ ਜਾਵੇ">
+
+<!ENTITY  changepassword.caption                 "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਦਲੋ">
+
+<!ENTITY  changepassword.text     "ਤੁਹਾਡਾ ਮਾਸਟਰ ਪਾਸਵਰਡ ਸੰਵੇਦਨਸ਼ੀਲ ਜਾਣਕਾਰੀ ਜਿਵੇਂ ਕਿ ਵੈੱਬ ਪਾਸਵਰਡ ਅਤੇ ਸਰਟੀਫਿਕੇਟ ਆਦਿ ਨੂੰ ਯਾਦ ਰੱਖਦਾ ਹੈ।">
+<!ENTITY  changepassword.button   "ਪਾਸਵਰਡ ਬਦਲੋ...">
+<!ENTITY  changepassword.accesskey  "C">
+
+<!ENTITY  resetpassword.caption                  "ਮਾਸਟਰ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ">
+<!ENTITY  resetpassword.text     "ਜੇਕਰ ਤੁਸੀਂ ਆਪਣਾ ਮਾਸਟਰ ਪਾਸਵਰਡ ਮੁੜ ਸੈੱਟ ਕੀਤਾ ਤਾਂ, ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਵੈੱਬ ਜਾਂ ਈਮੇਲ ਪਾਸਵਰਡ, ਫਾਰਮ ਡਾਟਾ, ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਨਿੱਜੀ ਕੁੰਜੀਆਂ ਸਮਾਪਤ ਹੋ ਜਾਣਗੀਆਂ">
+<!ENTITY  resetpassword.button   "ਮੁੜ-ਸੈੱਟ">
+<!ENTITY  resetpassword.accesskey   "R">

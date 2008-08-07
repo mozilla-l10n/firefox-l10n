@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "ਖਾਤਾ ਵਿਵਸਥਾ">
+<!ENTITY accountSettingsDesc.label "ਹੇਠ ਦਿੱਤਾ ਇੱਕ ਖਾਸ ਖਾਤਾ ਹੈ। ਇਸ ਨਾਲ ਸੰਬੰਧਿਤ ਕੋਈ ਵੀ ਪਛਾਣ ਨਹੀਂ ਹੈ।">
+<!ENTITY accountName.label "ਖਾਤਾ ਨਾਂ:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "ਸੁਨੇਹਾ ਸੰਭਾਲ">
+<!ENTITY emptyTrashOnExit.label "ਬੰਦ ਕਰਨ ਤੇ ਰੱਦੀ ਖਾਲੀ ਕਰੋ">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY localPath.label "ਸਥਾਨਿਕ ਡਾਇਰੈਕਟਰੀ:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY localFolderPicker.label "ਸਥਾਨਿਕ ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ">
+<!ENTITY browseFolder.label "ਝਲਕ...">
+<!ENTITY browseFolder.accesskey "B">

@@ -1,0 +1,175 @@
+<!ENTITY addons.title                     "ਐਡ-ਆਨ">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "520">
+<!ENTITY em.height                        "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "ਐਡ-ਆਨ ਲਵੋ">
+<!ENTITY extensions.label                 "ਇਕਸਟੈਨਸ਼ਨ">
+<!ENTITY themes.label                     "ਥੀਮ">
+<!ENTITY locales.label                    "ਭਾਸ਼ਾ">
+<!ENTITY plugins.label                    "ਪਲੱਗਇਨ">
+<!ENTITY update.label                     "ਅੱਪਡੇਟ">
+<!ENTITY install.label                    "ਇੰਸਟਾਲੇਸ਼ਨ">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "ਅੱਪਡੇਟ ਖੋਜ">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "ਆਪਣੇ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਖੋਜੋ">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "ਆਪਣੇ ਥੀਮ ਲਈ ਅੱਪਡੇਟ ਖੋਜੋ">
+<!ENTITY cmd.installLocalFile.label       "ਇੰਸਟਾਲ ਕਰੋ...">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.installFileAddon.tooltip     "ਇੱਕ ਐਡਆਨ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY cmd.installFileTheme.tooltip     "ਥੀਮ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY cmd.installUpdatesAll.label      "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY cmd.installUpdatesAll.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll.tooltip    "ਚੁਣੇ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY cmd.restartApp2.label            "&brandShortName; ਮੁੜ-ਸਟਾਰਟ ਕਰੋ">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਲਈ &brandShortName;  ਮੁੜ-ਸਟਾਰਟ ਕਰੋ">
+<!ENTITY cmd.skip.label                   "ਛੱਡੋ">
+<!ENTITY cmd.skip.accesskey               "S">
+<!ENTITY cmd.skip.tooltip                 "ਇਹ ਅੱਪਡੇਟ ਰਹਿਣ ਦਿਓ">
+<!ENTITY cmd.continue.label               "ਜਾਰੀ ਰੱਖੋ">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.continue.tooltip             "&brandShortName; ਲੋਡ ਕਰਨਾ ਜਾਰੀ ਰੱਖੋ">
+
+<!ENTITY cmd.enableAll.label              "ਸਭ ਯੋਗ ਕਰੋ">
+<!ENTITY cmd.enableAll.accesskey          "a">
+<!ENTITY cmd.enableAll.tooltip            "ਸਭ ਆਯੋਗ ਕੀਤੀਆਂ ਐਡ-ਆਨ ਯੋਗ ਕਰੋ">
+<!ENTITY cmd.disableAll.label             "ਸਭ ਆਯੋਗ ਕਰੋ">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "ਸਭ ਵੇਖਾਈਆਂ ਐਡ-ਆਨ ਆਯੋਗ ਕਰੋ">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "ਥੀਮ ਵਰਤੋਂ">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName; ਦਾ ਥੀਮ ਬਦਲੋ">
+<!ENTITY cmd.options.label                "ਚੋਣਾਂ">
+<!ENTITY cmd.options.accesskey            "O">
+<!ENTITY cmd.options.tooltip              "ਚੁਣੀ ਇਕਸਟੈਨਸ਼ਨ ਲਈ ਚੋਣਾਂ ਸੈੱਟ ਕਰੋ">
+<!ENTITY cmd.optionsUnix.label            "ਪਸੰਦ">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "ਚੁਣੀ ਇਕਸਟੈਨਸ਼ਨ ਲਈ ਪਸੰਦ ਸੋਧੋ">
+<!ENTITY cmd.enable.label                 "ਯੋਗ">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "ਜਦੋਂ &brandShortName; ਰੀ-ਸਟਾਰਟ ਹੋਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਯੋਗ ਕਰੋ">
+<!ENTITY cmd.disable.label                "ਆਯੋਗ">
+<!ENTITY cmd.disable.accesskey            "D">
+<!ENTITY cmd.disable.tooltip              "ਜਦੋਂ &brandShortName; ਰੀ-ਸਟਾਰਟ ਹੋਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਆਯੋਗ ਕਰੋ">
+<!ENTITY cmd.uninstall.label              "ਅਣ-ਇੰਸਟਾਲ">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "ਜਦੋਂ &brandShortName; ਰੀਸਟਾਰਟ ਹੋਵੇ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਅਣ-ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY cmd.cancelUninstall.label        "ਅਣ-ਇੰਸਟਾਲ ਰੱਦ ਕਰੋ">
+<!ENTITY cmd.cancelUninstall.accesskey    "C">
+<!ENTITY cmd.cancelUninstall.tooltip      "ਇਹ ਐਡ-ਆਨ ਦੇ ਅਣ-ਇੰਸਟਾਲ ਨੂੰ ਰੱਦ ਕਰੋ">
+<!ENTITY cmd.cancelInstall.label          "ਇੰਸਟਾਲ ਰੱਦ ਕਰੋ">
+<!ENTITY cmd.cancelInstall.accesskey      "C">
+<!ENTITY cmd.cancelInstall.tooltip        "ਇਸ ਐਡ-ਆਨ ਦੇ ਇੰਸਟਾਲ ਨੂੰ ਰੱਦ ਕਰੋ">
+<!ENTITY cmd.cancelUpgrade.label          "ਅੱਪਗਰੇਡ ਰੱਦ ਕਰੋ">
+<!ENTITY cmd.cancelUpgrade.accesskey      "C">
+<!ENTITY cmd.cancelUpgrade.tooltip        "ਇਸ ਐਡ-ਆਨ ਲਈ ਅੱਪਗਰੇਡ ਰੱਦ ਕਰੋ">
+<!ENTITY cmd.installUpdate.label          "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY cmd.installUpdate.accesskey      "I">
+<!ENTITY cmd.installUpdate.tooltip        "ਇਸ ਐਡ-ਆਨ ਲਈ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY cmd.showUpdateInfo.label         "ਜਾਣਕਾਰੀ ਵੇਖੋ">
+<!ENTITY cmd.showUpdateInfo.accesskey     "S">
+<!ENTITY cmd.showUpdateInfo.tooltip       "ਇਹਨਾਂ ਅੱਪਡੇਟਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਵੇਖੋ">
+<!ENTITY cmd.hideUpdateInfo.label         "ਜਾਣਕਾਰੀ ਓਹਲੇ">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "ਇਹਨਾਂ ਅੱਪਡੇਟਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਓਹਲੇ ਕਰੋ">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName; ਲਈ ਸ਼ਾਮਲ…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip   "ਇਹ ਐਡ-ਆਨ ਡਾਊਨਲੋਡ ਅਤੇ ਇੰਸਟਾਲ ਕਰੋ">
+
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "ਰੱਦ ਕਰੋ">
+<!ENTITY cancel.accesskey                 "C">
+<!ENTITY cancelInstall.label              "ਰੱਦ ਕਰੋ">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "ਰੱਦ ਕਰੋ">
+<!ENTITY cancelUpgrade.accesskey          "C">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "ਮੇਨ ਪੇਜ਼ ਵੇਖੋ">
+<!ENTITY cmd.homepage.accesskey           "H">
+<!ENTITY cmd.about2.label                 "ਇਸ ਐਡ-ਆਨ ਬਾਰੇ">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "ਅੱਪਡੇਟ ਖੋਜ">
+<!ENTITY cmd.checkUpdate.accesskey        "F">
+
+<!ENTITY cmd.includeUpdate.label          "ਅੱਪਡੇਟ ਸ਼ਾਮਲ">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "ਇਹ ਅੱਪਡੇਟ ਸ਼ਾਮਲ ਕਰੋ">
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY includeUpdate.tooltip            "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਇਹ ਐਡ-ਆਨ ਸ਼ਾਮਲ ਕਰੋ">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ ਨਹੀਂ ਦਿੰਦਾ ਹੈ।">
+<!ENTITY needsDependencies.label          "ਹੋਰ ਆਈਟਮਾਂ ਦੀ ਲੋੜ ਹੈ।">
+<!ENTITY blocklisted.label                "ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਆਯੋਗ ਹੈ।">
+<!ENTITY toBeDisabled.label               "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਨੂੰ ਆਯੋਗ ਕੀਤਾ ਜਾਵੇਗਾ।">
+<!ENTITY toBeEnabled.label                "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਨੂੰ ਯੋਗ ਕੀਤਾ ਜਾਵੇਗਾ।">
+<!ENTITY toBeInstalled.label              "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕੀਤੀ ਜਾਵੇਗੀ।">
+<!ENTITY toBeUninstalled.label            "ਜਦੋਂ &brandShortName; ਮੁੜ-ਚਾਲੂ ਕੀਤੀ ਜਾਵੇਗਾ ਤਾਂ ਇਹ ਐਡ-ਆਨ ਅਣ-ਇੰਸਟਾਲ ਕੀਤੀ ਜਾਵੇਗੀ।">
+<!ENTITY toBeUpdated.label                "ਇਹ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾਵੇਗੀ, ਜਦੋਂ ਕਿ &brandShortName; ਰੀ-ਸਟਾਰਟ ਕੀਤਾ ਜਾਵੇਗਾ।">
+
+<!ENTITY getExtensions.label              "ਇਕਸਟੈਨਸ਼ਨ ਲਵੋ">
+<!ENTITY getThemes.label                  "ਥੀਮ ਲਵੋ">
+<!ENTITY getPlugins.label                 "ਪਲੱਗਇਨ ਲਵੋ">
+
+<!ENTITY searchAddons.label               "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ">
+<!ENTITY browseAddons.label               "ਸਭ ਐਡ-ਆਨ ਦੀ ਝਲਕ">
+<!ENTITY searchFailed.label               "&brandShortName;  ਐਡ-ਆਨ ਲੈ ਨਹੀਂ ਸਕਿਆ">
+<!ENTITY recommendedHeader.label          "ਸਿਫਾਰਸ਼ੀ">
+<!ENTITY recommendedThrobber.label        "ਸਿਫਾਰਸ਼ੀ ਐਡ-ਆਨ ਲਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ">
+<!ENTITY searchThrobber.label             "ਐਡ-ਆਨ ਦੀ ਖੋਜ ਜਾਰੀ ਹੈ">
+<!ENTITY resetSearch.label                "ਨਤੀਜੇ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY noSearchResults.label            "ਸਭ ਨਤੀਜੇ ਪਹਿਲਾਂ ਹੀ ਇੰਸਟਾਲ ਹਨ ਜਾਂ ਗ਼ੈਰ-ਕੰਪੈਟੇਬਲ ਹਨ।">
+<!ENTITY noRecommendedResults.label       "ਸਭ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਹੀ ਇੰਸਟਾਲ ਹਨ ਜਾਂ ਗ਼ੈਰ-ਕੰਪੈਟੇਬਲ ਹਨ।">
+<!ENTITY emptySearch.label                "ਕੋਈ ਮਿਲਦੀ ਐਡ-ਆਨ ਨਹੀਂ ਲੱਭੀ">
+<!ENTITY emptySearch.button               "ਠੀਕ ਹੈ">
+<!ENTITY cancelSearch.button              "ਰੱਦ ਕਰੋ">
+<!ENTITY searchFailed.button              "ਠੀਕ ਹੈ">
+<!ENTITY searchResultHomepage.value       "ਹੋਰ ਜਾਣੋ">
+<!ENTITY searchBox.label                  "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ">
+<!ENTITY recommendedResults.label         "ਸਭ ਸਿਫਾਰਸ਼ੀ ਐਡ-ਆਨ ਵੇਖੋ">
+<!ENTITY searchResultConnecting.label     "ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…">
+<!ENTITY searchResultInstalling.label     "ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…">
+<!ENTITY searchResultFailed.label         "ਇੰਸਟਾਲ ਫੇਲ੍ਹ ਹੋਇਆ">
+<!ENTITY searchResultInstalled.label      "ਇੰਸਟਾਲ ਪੂਰਾ">
+<!ENTITY addonTypeExtension.label         "ਇਕਸਟੈਨਸ਼ਨ">
+<!ENTITY addonTypeTheme.label             "ਥੀਮ">
+<!ENTITY missingThumbnail.label           "ਝਲਕ ਨਹੀਂ">
+
+
+<!ENTITY previewNoThemeSelected.label     "ਕੋਈ ਥੀਮ ਨਹੀਂ ਚੁਣਿਆ">
+<!ENTITY previewNoPreviewImage.label      "ਇਸ ਥੀਮ ਲਈ ਇੱਕ ਝਲਕ ਚਿੱਤਰ ਨਹੀਂ ਹੈ">
+<!ENTITY moreInfo.label                   "ਹੋਰ ਜਾਣਕਾਰੀ">
+<!ENTITY infoNoAddonSelected.label        "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਚੁਣਿਆ">
+<!ENTITY infoNoUpdateInfo.label           "ਇਸ ਅੱਪਡੇਟ ਲਈ ਕੋਈ ਹੋਰ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ">
+<!ENTITY infoUpdateInfoError.label        "ਇਸ ਅੱਪਡੇਟ ਬਾਰ ਜਾਣਕਾਰੀ ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਇੱਕ ਗਲਤੀ ਆਈ ਹੈ">
+
+<!ENTITY updateSuccess.label              "ਅੱਪਡੇਟ ਠੀਕ ਤਰ੍ਹਾਂ ਪੂਰਾ ਹੋ ਗਿਆ ਹੈ।">
+<!ENTITY installSuccess.label             "ਇੰਸਟਾਲ ਠੀਕ ਤਰ੍ਹਾਂ ਪੂਰਾ ਹੋ ਗਿਆ ਹੈ।">
+<!ENTITY installSuccessRestart.label      "ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਲਈ ਰੀ-ਸਟਾਰਟ ਕਰੋ।">
+<!ENTITY updateSuccessRestart.label       "ਅੱਪਡੇਟ ਪੂਰਾ ਕਰਨ ਲਈ ਸਟਾਰਟ ਕਰੋ।">
+<!ENTITY installWaiting.label             "ਉਡੀਕ ਜਾਰੀ ਹੈ...">
+<!ENTITY installIncompatibleUpdate.label  "ਕੰਪੈਟੇਬਿਲਟੀ ਚੈੱਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...">
+<!ENTITY installFinishing.label           "ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...">
+<!ENTITY installFailure.label             "ਇੰਸਟਾਲ ਫੇਲ੍ਹ ਹੈ">
+
+<!ENTITY progressStatus.label             "ਅੱਪਡੇਟ ਲਈ ਚੈਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
+
+<!ENTITY eula.title                       "ਐਡ ਯੂਜ਼ਰ ਲਾਈਸੈਂਸ ਐਗਰੀਮੈਂਟ (EULA)">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "ਮਨਜ਼ੂਰ ਅਤੇ ਇੰਸਟਾਲ…">
+<!ENTITY installFailure.label             "ਇੰਸਟਾਲ ਫੇਲ੍ਹ ਹੈ">
+
+<!ENTITY progressStatus.label             "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">

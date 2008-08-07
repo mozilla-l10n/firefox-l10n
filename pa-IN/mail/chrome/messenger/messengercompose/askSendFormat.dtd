@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML ਪੱਤਰ ਸਵਾਲ">
+
+<!ENTITY recipient.label "ਕੁਝ ਪ੍ਰਾਪਤ ਕਰਤਾ HTML ਪੱਤਰ ਪ੍ਰਾਪਤੀ ਸੂਚੀ ਵਿੱਚ ਨਹੀਂ ਹਨ।">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "ਤੁਹਾਡਾ ਸੁਨੇਹਾ ਬਿਨਾਂ ਜਾਣਕਾਰੀ ਗੁਵਾਏ ਵੀ ਸਧਾਰਨ ਪਾਠ ਵਿੱਚ ਤਬਦੀਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।">
+<!ENTITY convertibleAltering.label "ਤੁਹਾਡਾ ਸੁਨੇਹਾ ਬਿਨਾਂ ਖਾਸ ਜਾਣਕਾਰੀ ਗੁਵਾਏ ਵੀ ਸਧਾਰਨ ਪਾਠ ਵਿੱਚ ਤਬਦੀਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਪਰ, ਸਧਾਰਨ ਪਾਠ ਨਿਰਮਾਤਾ ਵਿਚਲੇ ਦਰਿਸ਼ ਤੋਂ ਵੱਖਰਾ ਹੋਵੇਗਾ।">
+<!ENTITY convertibleNo.label "ਪਰ, ਤੁਸੀਂ ਫਾਰਮਿਟ (ਜਿਵੇਂ ਕਿ ਰੰਗ) ਇਸਤੇਮਾਲ ਕੀਤੇ ਹਨ, ਜਿਸ ਨੂੰ ਸਧਾਰਨ ਪਾਠ ਵਿੱਚ ਤਬਦੀਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।">
+
+<!ENTITY question.label "ਕੀ ਤੁਸੀਂ ਸੁਨੇਹੇ ਨੂੰ ਸਧਾਰਨ ਪਾਠ ਵਿੱਚ ਤਬਦੀਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਜਾਂ ਇਸ ਨੂੰ ਕਿਸੇ ਤਰਾਂ ਵੀ HTML ਦੇ ਰੂਪ ਵਿੱਚ ਹੀ ਭੇਜਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
+
+<!ENTITY plainTextAndHtml.label "ਸਧਾਰਨ ਪਾਠ ਤੇ HTML ਭੇਜੋ">
+<!ENTITY plainTextOnly.label "ਸਧਾਰਨ ਪਾਠ ਹੀ ਭੇਜੋ">
+<!ENTITY htmlOnly.label "ਸਿਰਫ HTML ਹੀ ਭੇਜੋ">
+
+<!ENTITY plainTextAndHtmlRecommended.label "ਸਧਾਰਨ ਪਾਠ ਤੇ HTML (ਸਿਫਾਰਸ਼ੀ)">
+<!ENTITY plainTextOnlyRecommended.label "ਸਧਾਰਨ ਪਾਠ ਵਿੱਚ ਹੀ ਭੇਜੋ (ਸਿਫਾਰਸ਼ੀ)">
+<!ENTITY htmlOnlyRecommended.label "ਸਿਰਫ HTML ਫਾਰਮਿਟ ਵਿੱਚ ਭੇਜੋ(ਸਿਫਾਰਸ਼ੀ)">
+<!ENTITY recommended.label "(ਸਿਫਾਰਸ਼ੀ)">
+
+<!ENTITY send.label "ਭੇਜੋ">
+<!ENTITY cancel.label "ਰੱਦ ਕਰੋ">
+<!ENTITY recipients.label "ਪ੍ਰਾਪਤ ਕਰਤਾ..">
+<!ENTITY help.label "ਸਹਾਇਤਾ">

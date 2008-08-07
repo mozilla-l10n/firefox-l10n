@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "ਫਿਲਟਰ ਲਾੱਗ">
+<!ENTITY viewLogInfo.text "ਫਿਲਟਰ ਲਾੱਗ ਇੱਕ ਫਾਇਲ ਹੈ, ਜੋ ਕਿ  ਫਿਲਟਰ ਚੱਲਣ ਦੀ ਜਾਣਕਾਰੀ ਰੱਖਦੀ ਹੈ। ਲਾੱਗਇਨ ਨੂੰ ਯੋਗ ਕਰਨ ਲਈ ਹੇਠ ਦਿੱਤਾ ਚੋਣ ਬਕਸਾ ਇਸਤੇਮਾਲ ਕਰੋ।">
+<!ENTITY clearLog.label "ਲਾੱਗ ਹਟਾਓ">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY enableLog.label "ਫਿਲਟਰ ਲਾੱਗ ਯੋਗ">
+<!ENTITY enableLog.accesskey "E">
+<!ENTITY closeLog.label "ਬੰਦ">
+<!ENTITY closeLog.accesskey "o">

@@ -1,0 +1,9 @@
+
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "ਸੰਪਾਦਕ">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "ਸੰਪਾਦਕ">
+<!ENTITY editing.label "ਨਵਾਂ ਸਫ਼ਾ ਸਥਾਪਨ">
+<!ENTITY toolbars.label "ਸੰਦ-ਪੱਟੀ">
+<!ENTITY publish.label "ਪ੍ਰਕਾਸ਼ਨ">

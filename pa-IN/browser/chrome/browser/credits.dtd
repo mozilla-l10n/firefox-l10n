@@ -1,0 +1,9 @@
+<!ENTITY brandMotto       "ਵੈੱਬ ਮੁੜ-ਖੋਜ">
+<!ENTITY credit.thanks    "ਖਾਸ ਧੰਨਵਾਦ">
+
+<!ENTITY credit.thanks2      "ਯੋਗਦਾਨੀਆਂ">
+<!ENTITY credit.contributors2 "ਦਾ ਬਹੁਤ ਬਹੁਤ ਧੰਨਵਾਦ ਹੈ">
+<!-- localization credits look like this: -->
+<!ENTITY credit.translation  "<h3>ਅਨੁਵਾਦਕ</h3><ul><li>ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮਵਾਲਾ [Amanpreet Singh Brar Alamwala]</li><li></li><li>PUNJABI OS Team [Moga] (http://www.satluj.org)</li></ul>">
+<!ENTITY credit.memory      "ਯਾਦ ਵਿੱਚ">
+<!ENTITY credit.poweredByGeckoReg "Gecko&trade; ਰਾਹੀਂ ਮੱਦਦ ਪਰਾਪਤ">

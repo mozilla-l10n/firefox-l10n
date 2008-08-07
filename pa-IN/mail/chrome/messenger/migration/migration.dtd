@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title          "ਆਯਾਤ ਸਹਾਇਕ">
+
+<!ENTITY importFrom.label               "ਆਯਾਤ ਚੋਣ, ਖਾਤਾ ਵਿਵਸਥਾ, ਸਿਰਨਾਵਾਂ-ਕਿਤਾਬ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋਂ:">
+<!ENTITY importFromUnix.label           "ਮੇਰੀ-ਪਸੰਦ, ਖਾਤਾ ਵਿਵਸਥਾ, ਸਿਰਨਾਵਾਂ-ਕਿਤਾਬ ਅਤੇ ਹੋਰ ਡਾਟਾ ਇੱਥੋ:">
+
+<!ENTITY importFromNothing.label        "ਕੁਝ ਵੀ ਆਯਾਤ ਨਾ ਕਰੋ">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 ਜਾਂ Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "ਵਿਵਸਥਾ ਅਤੇ ਪੱਤਰ ਇੱਥੋ ਆਯਾਤ ਕਰੋ">
+<!ENTITY importItems.title              "ਆਯਾਤ ਕਰਨ ਲ਼ਈ ਇਕਾਈਆਂ">
+<!ENTITY importItems.label              "ਚੁਣੋ ਕਿ ਕਿਹੜੀਆਂ ਇਕਾਈਆਂ ਆਯਾਤ ਕੀਤੀਆਂ ਜਾਣ:">
+
+<!ENTITY migrating.title                "ਆਯਾਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...">
+<!ENTITY migrating.label                "ਹੇਠ ਦਿੱਤੀਆਂ ਇਕਾਈਆਂ ਆਯਾਤ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ...">
+
+<!ENTITY selectProfile.title            "ਪ੍ਰੋਫਾਇਲ ਚੁਣੋ">
+<!ENTITY selectProfile.label            "ਹੇਠ ਦਿੱਤੇ ਪ੍ਰੋਫਾਇਲ ਆਯਾਤ ਕਰਨ ਲਈ ਉਪਲੱਬਧ ਹਨ:">
+
+<!ENTITY done.title                     "ਆਯਾਤ ਮੁਕੰਮਲ">
+<!ENTITY done.label                     "ਹੇਠ ਦਿੱਤੀਆਂ ਇਕਾਈਆਂ ਸਫਲਤਾਪੂਰਕ ਆਯਾਤ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ:">

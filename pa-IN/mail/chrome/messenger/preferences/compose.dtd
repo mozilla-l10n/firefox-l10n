@@ -1,0 +1,64 @@
+<!ENTITY itemGeneral.label                   "ਆਮ">
+<!ENTITY itemAutoComplete.label              "ਸਿਰਨਾਵਾਂ">
+<!ENTITY itemSpellCheck.label                "ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ">
+<!ENTITY itemSendFormat.label                "ਭੇਜਣ ਫਾਰਮੈਟ">
+
+<!ENTITY forwardReply.label                   "ਅੱਗੇ ਭੇਜੇ ਸੁਨੇਹੇ">
+<!ENTITY forwardMsg.label                     "ਅੱਗੇ ਭੇਜੇ ਸੁਨੇਹੇ:">
+<!ENTITY forwardMsg.accesskey                 "f">
+<!ENTITY inline.label                         "ਸਤਰ ਵਿੱਚ">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.label                   "ਨੱਥੀ ਵਾਂਗ">
+<!ENTITY asAttachment.accesskey               "A">
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "ਫੋਂਟ:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY size.label                           "ਆਕਾਰ:">
+<!ENTITY size.accesskey                       "z">
+<!ENTITY fontColor.label                      "ਪਾਠ ਰੰਗ:">
+<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY bgColor.label                        "ਬੈਕਗਰਾਊਂਡ ਰੰਗ:">
+<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY restoreHTMLDefaults.label            "ਮੁੱਢਲਾ ਮੁੜ-ਪ੍ਰਾਪਤ">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
+
+<!ENTITY sendingMessagesHeader.label          "ਸੁਨੇਹਾ ਲਿਖਣਾ">
+<!ENTITY spellCheck.label                     "ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ ਕਰੋ">
+<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheckInline.label               "ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਲਿਖੋ, ਨਾਲ ਹੀ ਜਾਂਚ">
+
+<!ENTITY languagePopup.label                  "ਭਾਸ਼ਾ:">
+<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY downloadDictionaries.label           "ਹੋਰ ਡਿਕਸ਼ਨਰੀਆਂ ਡਾਊਨਲੋਡ">
+
+<!ENTITY useMIME.label                        "ਸੁਨੇਹੇ, ਜਿਨਾਂ ਵਿੱਚ 8-ਬਿੱਟ ਅੱਖਰ ਹੋਣ, ਲਈ 'ਕਾਮਿਆਂ ਸਮੇਤ ਛਪਾਈ ਯੋਗ' MIME ਇੰਕੋਡਿੰਗ ਦੀ ਵਰਤੋਂ ਕਰੋ">
+<!ENTITY useMIME.accesskey                    "o">
+<!ENTITY warnOnSendAccelKey.label             "ਕੀ-ਬੋਰਡ ਸ਼ਾਰਟਕੱਟਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨ ਸਮੇਂ ਭੇਜਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ">
+<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY autoSave.label                       "ਇੰਨੇ ਅੰਤਰਾਲ ਬਾਅਦ ਸਵੈ-ਸੰਭਾਲੋ">
+<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSaveEnd.label                    "ਮਿੰਟ">
+<!ENTITY autoSaveEnd.accesskey                "m">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "ਸਧਾਰਨ ਪਾਠ ਸੁਨੇਹਿਆਂ ਨੂੰ ਸਮੇਟੋ">
+<!ENTITY wrapOutMsg.accesskey                 "l">
+<!ENTITY char.label                           "ਅੱਖਰਾਂ ਤੋਂ">
+
+<!ENTITY emailCollectionPicker.label           "ਭੇਜੇ ਜਾਣ ਵਾਲੇ ਈ-ਪੱਤਰਾਂ ਦੇ ਸਿਰਨਾਵਿਆਂ ਨੂੰ ਖੁਦ ਹੀ ਸਿਰਨਾਵਾਂ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਿਲ ਕਰੋ:">
+<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY addressingTitle.label                 "ਸਿਰਨਾਵਾਂ ਖੁਦ ਹੀ ਭਰਨਾ">
+<!ENTITY autocompleteText.label                "ਜਦੋਂ ਸੁਨੇਹੇ ਵਿੱਚ ਸਿਰਨਾਵਾਂ ਦਿੱਤਾ ਜਾ ਰਿਹਾ ਹੋਵੇ ਤਾਂ ਸਭ ਤੋਂ ਰਲਦੇ ਦੀ ਚੋਣ ਕਰੋ:">
+<!ENTITY addressingEnable.label                "ਲੋਕਲ ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਵਿੱਚ">
+<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY directories.label                     "ਡਾਇਰੈਕਟਰੀ ਸਰਵਰ:">
+<!ENTITY directories.accesskey                 "D">
+<!ENTITY editDirectories.label                 "ਡਾਇਰੈਕਟਰੀ ਸੋਧ...">
+<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY matchText.label                       "ਜੇਕਰ ਤੁਹਾਡੇ ਲੋਕਲ ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਵਿੱਚ ਮਿਲਦਾ ਹੋਵੇ:">
+<!ENTITY skipDirectory.label                   "ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਨਾ ਖੋਜੋ">
+
+<!ENTITY sendOptionsCaption.label              "ਭੇਜਣ ਅਤੇ HTML ਚੋਣ">
+<!ENTITY sendOptionsDescription.label          "ਪਾਠ ਫਾਰਮੈਟ ਰਵੱਈਆ ਸੰਰਚਨਾ">
+<!ENTITY sendOptions.label                     "ਭੇਜਣ ਚੋਣ...">
+<!ENTITY sendOptions.accesskey                 "S">

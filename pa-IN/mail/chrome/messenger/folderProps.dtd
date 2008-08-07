@@ -1,0 +1,97 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label  "ਗੁਣ">
+
+<!ENTITY generalInfo.label            "ਸਧਾਰਨ ਜਾਣਕਾਰੀ">
+
+<!ENTITY folderCharsetTab.label       "ਮੂਲ ਅੱਖਰ ਇੰਕੋਡਿੰਗ:">
+<!ENTITY folderCharsetTab.accesskey              "E">
+<!ENTITY folderCharsetOverride.label  "ਫੋਲਡਰ ਵਿੱਚ ਸਭ ਸੁਨੇਹਿਆਂ ਤੇ ਮੂਲ ਲਾਗੂ ਕਰੋ (ਵੱਖਰੀ ਸੁਨੇਹਾ ਇੰਕੋਡਿੰਗ ਵਿਵਸਥਾ ਤੇ ਸਵੈ-ਖੋਜ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ)">
+<!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderRebuildSummaryFile.label          "ਮੁੜ-ਬਣਾਓ">
+<!ENTITY folderRebuildSummaryFile.accesskey      "R">
+<!ENTITY folderRebuildSummaryFileTip.label       "ਸੰਖੇਪ ਫਾਇਲ ਮੁੜ ਬਣਾਓ">      
+<!ENTITY retention.label "ਰੋਕ ਨੀਤੀ">
+<!ENTITY retentionUseDefault.label  "ਸਰਵਰ ਮੂਲ ਹੀ ਵਰਤੋਂ">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY days.label "ਦਿਨ">
+<!ENTITY daysOld.label "ਦਿਨ ਪੁਰਾਣੇ">
+<!ENTITY message.label "ਸੁਨੇਹੇ">
+<!ENTITY retentionCleanup.label "ਡਿਸਕ ਥਾਂ ਨੂੰ ਮੁੜ-ਪਰਾਪਤ ਕਰਨ ਲਈ, ਪੁਰਾਣੇ ਸੁਨਹਿਆਂ ਨੂੰ ਹਮੇਸ਼ਾ ਲਈ ਹਟਾਇਆ ਜਾ ਸਕਦਾ ਹੈ">
+<!ENTITY retentionKeepMsg.label "ਸੁਨੇਹੇ ਹਟਾਓ">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "ਕੋਈ ਸੁਨੇਹਾ ਨਾ ਹਟਾਓ">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "ਸਭ ਹਟਾਓ, ਪਰ ਆਖਰੀ">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "ਹਮੇਸ਼ਾ ਪੜੇ ਸੁਨੇਹੇ ਹਟਾਓ">
+<!ENTITY retentionKeepUnread.accesskey "r">
+
+<!ENTITY folderOfflineTab.label                             "ਆਫਲਾਇਨ">
+<!ENTITY folderCheckForNewMessages.label                    "ਇਸ ਫੋਲਡਰ ਲਈ ਨਵੇਂ ਸੁਨੇਹਿਆਂ ਲਈ ਜਾਂਚ ਕਰੋ">
+<!ENTITY folderCheckForNewMessages.accesskey     "C">
+
+<!ENTITY offlineFolder.check.label                          "ਇਹ ਫੋਲਡਰ ਨੂੰ ਆਫਲਾਇਨ ਇਸਤੇਮਾਲ ਕਰੋ">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label                         "ਹੁਣ ਡਾਊਨਲੋਡ ਕਰੋ">
+<!ENTITY offlineFolder.button.accesskey          "D">
+
+<!ENTITY selectofflineNewsgroup.check.label                 "ਆਫਲਾਇਨ ਇਸਤੇਮਾਲ ਲਈ ਇਹ ਖ਼ਬਰ-ਸਮੂਹ ਇਸਤੇਮਾਲ ਕਰੋ">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY UseDefaultofflineNewsgroup.check.label             "ਖਾਤਾ ਸਥਾਪਨ ਵਿੱਚੋਂ ਮੂਲ ਇਸਤੇਮਾਲ ਕਰੋ ">
+<!ENTITY offlineNewsgroup.button.label                      "ਡਾਊਨਲੋਡ ਕਰੋ">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
+
+<!ENTITY folderProps.information.label  "ਜਾਣਕਾਰੀ:">
+<!ENTITY folderProps.name.label	        "ਨਾਂ:">
+<!ENTITY folderProps.name.accesskey              "N">
+
+<!ENTITY folderSharingTab.label                             "ਸਾਂਝ">
+<!ENTITY privilegesDesc.label  "ਇਹ ਅਤੇ ਹੋਰ ਫੋਲਡਰ ਨੈੱਟਵਰਕ ਉਪਭੋਗੀ ਨਾਲ ਸਾਂਝੇ ਕਰੋ ਅਤੇ ਵੇਖਾਓ ਤੇ ਅਧਿਕਾਰ ਨਿਰਧਾਰਿਤ ਕਰੋ">
+<!ENTITY privileges.button.label                      "ਅਧਿਕਾਰ...">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                            "ਤੁਹਾਡੇ ਕੋਲ ਹੇਠ ਲਿਖੇ ਅਧਿਕਾਰ ਹਨ:">
+<!ENTITY folderType.label                             "ਫੋਲਡਰ ਕਿਸਮ:">
+
+<!ENTITY folderQuotaTab.label                               "ਹਵਾਲਾ">
+<!ENTITY folderQuotaRoot.label                              "ਹਵਾਲਾ ਰੂਟ:">
+<!ENTITY folderQuotaUsage.label                             "ਵਰਤੋਂ:">
+<!ENTITY folderQuotaStatus.label                            "ਹਾਲਤ:">

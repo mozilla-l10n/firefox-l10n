@@ -1,0 +1,27 @@
+<!ENTITY  pref.editing.title        "ਨਵਾਂ ਸਫ਼ਾ ਸਥਾਪਨ">
+
+<!ENTITY  authorName.label          "ਲੇਖਕ:">
+<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  pageColorHeader           "ਮੂਲ ਸਫ਼ਾ ਦਿੱਖ">
+
+<!ENTITY defaultColorsRadio.label   "ਪੜ੍ਹਨ ਲਈ ਮੂਲ ਰੰਗ (ਸਫ਼ੇ ਵਿੱਚ ਰੰਗ ਨਾ ਦਿਓ)">
+<!ENTITY defaultColors.accesskey    "d">
+<!ENTITY customColorsRadio.label    "ਪਸੰਦੀਦਾ ਰੰਗ ਵਰਤੋਂ:">
+<!ENTITY customColors.accesskey     "c">
+
+<!ENTITY normalText.label           "ਸਧਾਰਨ ਪਾਠ">
+<!ENTITY normalText.accesskey       "N">
+<!ENTITY linkText.label             "ਸਬੰਧ ਪਾਠ">
+<!ENTITY linkText.accesskey         "L">
+<!ENTITY activeLinkText.label       "ਸਰਗਰਮ ਪਾਠ ਸਬੰਧ">
+<!ENTITY activeLinkText.accesskey   "A">
+<!ENTITY visitedLinkText.label      "ਖੋਲ੍ਹਿਆ ਸਬੰਧ">
+<!ENTITY visitedLinkText.accesskey  "V">
+<!ENTITY background.label           "ਬੈਕਗਰਾਊਂਡ:">
+<!ENTITY background.accesskey       "B">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ:">
+<!ENTITY backgroundImage.accesskey  "m">
+<!ENTITY chooseFile.label           "ਫਾਇਲ ਚੁਣੋ...">
+<!ENTITY chooseFile.accesskey       "o">

@@ -1,0 +1,103 @@
+<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
+     in the Advanced pane are: "b", "j", "q", "z" -->
+
+<!ENTITY generalTab.label                "ਆਮ">
+
+<!ENTITY accessibility.label             "ਅਸੈੱਸਬਿਲਟੀ">
+
+<!ENTITY useCursorNavigation.label       "ਪੇਜ਼ ਵਿੱਚ ਨੇਵੀਗੇਸ਼ਨ ਦੌਰਾਨ ਹਮੇਸ਼ਾਂ ਕਰਸਰ ਸਵਿੱਚਾਂ ਵੇਖੋ">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "ਜਦੋਂ ਮੈਂ ਟੈਕਸਟ ਲਿਖਦਾ ਹੋਵਾਂ ਤਾਂ ਖੋਜ ਕਰੋ">
+<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY blockAutoRefresh.label          "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜਦੋਂ ਵੈੱਬ ਸਾਇਟਾਂ ਰੀ-ਡਾਇਰੈਕਟ ਕਰਨ ਜਾਂ ਪੇਜ਼ ਰੀ-ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ">
+<!ENTITY blockAutoRefresh.accesskey      "r">
+
+<!ENTITY browsing.label                  "ਬਰਾਊਜ਼ਿੰਗ">
+
+<!ENTITY useAutoScroll.label             "ਆਟੋ-ਸਕਰੋਲਿੰਗ ਵਰਤੋਂ">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "ਸਮੂਥ ਸਕਰੋਲਿੰਗ ਵਰਤੋਂ">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkSpelling.label             "ਜਿਵੇਂ ਮੈਂ ਲਿਖਾਂ ਤਦੇ ਹੀ ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "ਸਿਸਟਮ ਡਿਫਾਲਟ">
+<!ENTITY alwaysCheckDefault.label        "ਸਟਾਰਟ ਕਰਨ ਸਮੇਂ ਹਮੇਸ਼ਾਂ ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ  &brandShortName; ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਹੈ"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "ਹੁਣੇ ਚੈੱਕ ਕਰੋ">
+<!ENTITY checkNow.accesskey              "N">
+
+<!ENTITY networkTab.label                "ਨੈੱਟਵਰਕ">
+
+<!ENTITY connection.label                "ਕੁਨੈਕਸ਼ਨ">
+
+<!ENTITY connectionDesc.label            "ਸੰਰਚਨਾ ਕਰੋ ਕਿ &brandShortName;  ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਿਵੇਂ ਕੁਨੈਕਟ ਹੋਵੇ">
+<!ENTITY connectionSettings.label        "ਸੈਟਿੰਗ...">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY offlineStorage.label            "ਆਫਲਾਇਨ ਸਟੋਰੇਜ਼">
+
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "ਕੈਸ਼ ਲਈ">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB ਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ">
+<!ENTITY clearCacheNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!ENTITY updateTab.label                 "ਅੱਪਡੇਟ">
+
+<!ENTITY autoCheck.label                 "ਅੱਪਡੇਟ ਲਈ ਆਟੋਮੈਟਿਕ ਹੀ ਚੈੱਕ ਕਰੋ:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "ਇੰਸਟਾਲ ਹੋਈਆਂ ਐਂਡ-ਆਨ">
+<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableSearchUpdate.label        "ਖੋਜ ਇੰਜਣ">
+<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY whenUpdatesFound.label          "ਜਦੋਂ &brandShortName; ਲਈ ਅੱਪਡੇਟ ਮਿਲੇ ਤਾਂ:">
+<!ENTITY askMe.label                     "ਮੈਨੂੰ ਪੁੱਛੋ ਕਿ ਮੈਂ ਕੀ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹਾ">
+<!ENTITY askMe.accesskey                 "k">
+<!ENTITY modeAutomatic.label             "ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY modeAutomatic.accesskey         "d">
+<!ENTITY modeAutoAddonWarn.label         "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜੇ ਇਹ ਮੇਰੇ ਕਿਸੇ ਐਡ-ਆਨ ਨੂੰ ਆਯੋਗ ਕਰੇਗਾ">
+<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY updateHistory.label             "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ">
+<!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY offlineNotify.label             "ਮੈਨੂੰ ਦੱਸੋ ਜਦੋਂ ਕਿ ਇੱਕ ਵੈੱਬਸਾਇਟ ਆਫਲਾਇਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸਟੋਰ ਕਰਨ ਲਈ ਪੁੱਛੋ">
+<!ENTITY offlineNotify.accesskey         "T">
+<!ENTITY offlineNotifyExceptions.label   "ਛੋਟ…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList.label           "ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਇਟਾਂ ਨੇ ਆਫਲਾਇਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਇੰਸਟਾਲ ਕੀਤਾ ਹੈ:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "ਹਟਾਓ…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "ਆਫਲਾਇਨ ਡਾਟਾ ਹਟਾਓ">
+
+<!ENTITY encryptionTab.label             "ਇੰਕ੍ਰਿਪਸ਼ਨ">
+
+<!ENTITY protocols.label                 "ਪਰੋਟੋਕਾਲ">
+<!ENTITY useSSL3.label                   "SSL 3.0 ਵਰਤੋਂ">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 ਵਰਤੋਂ">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "ਸਰਟੀਫਿਕੇਟ">
+<!ENTITY certSelection.description          "ਜਦੋਂ ਇੱਕ ਵੈੱਬ ਸਾਈਟ ਨੂੰ ਇੱਕ ਸਰਟੀਫਿਕੇਟ ਦੀ ਲੋੜ ਹੋਵੇ:">
+<!ENTITY certs.auto                      "ਇੱਕ ਆਟੋਮੈਟਿਕ ਹੀ ਚੁਣੋ">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "ਮੈਨੂੰ ਹਰ ਵਾਰ ਪੁੱਛੋ">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCRLs.label                  "ਰੈੱਵਕੇਸ਼ਨ ਲਿਸਟ">
+<!ENTITY viewCRLs.accesskey              "R">
+<!ENTITY verify2.label                   "ਵੈਧਤਾ">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "ਸਕਿਉਰ ਡਿਵਾਇਸ">
+<!ENTITY viewSecurityDevices.accesskey   "y">

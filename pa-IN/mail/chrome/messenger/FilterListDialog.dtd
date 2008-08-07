@@ -1,0 +1,29 @@
+<!ENTITY window.title "ਸੁਨੇਹੇ ਫਿਲਟਰ">
+<!ENTITY nameColumn.label "ਫਿਲਟਰ ਨਾਂ">
+<!ENTITY activeColumn.label "ਯੋਗ">
+<!ENTITY newButton.label "ਨਵਾਂ...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "ਸੋਧ...">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "ਹਟਾਓ">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderUpButton.label "ਉੱਪਰ ਭੇਜੋ">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "ਹੇਠਾਂ ਭੇਜੋ">
+<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY filterHeader.label "ਹੇਠਾਂ ਦਿੱਤੇ ਕ੍ਰਮ ਵਿੱਚ ਫਿਲਟਰ ਖੁਦ ਹੀ ਚਲਾਉਣੇ ਯੋਗ ਹਨ।">
+<!ENTITY filtersForPrefix.label "ਇਸ ਲਈ ਫਿਲਟਰ:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "ਫਿਲਟਰ ਲਾੱਗ">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "ਹੁਣੇ ਚਲਾਓ">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "ਰੋਕੋ">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "ਚੁਣੇ ਫੋਲਡਰ ਤੇ ਚਲਾਓ:">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "ਇਹ ਫੋਲਡਰ ਚੁਣੋ">
+<!ENTITY choosethisnewsserver.label "ਇਹ ਖਬਰ ਸਰਵਰ ਚੁਣੋ">
+<!ENTITY helpButton.label "ਸਹਾਇਤਾ">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W"> 

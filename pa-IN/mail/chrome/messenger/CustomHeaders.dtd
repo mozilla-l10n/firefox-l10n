@@ -1,0 +1,7 @@
+<!ENTITY window.title "ਪ੍ਰਚਲਿਤ ਸਿਰਲੇਖ">
+<!ENTITY addButton.label "ਸ਼ਾਮਿਲ">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "ਹਟਾਓ">
+<!ENTITY removeButton.accesskey "R">
+<!ENTITY newMsgHeader.label "ਨਵਾਂ ਸੁਨੇਹਾ ਸਿਰਲੇਖ:">
+<!ENTITY newMsgHeader.accesskey "N">

@@ -1,0 +1,11 @@
+
+<!ENTITY addressbookPicker.label            "ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ:">
+<!ENTITY searchInput.label                  "ਇਸ ਲਈ ਖੋਜ:">
+<!ENTITY SearchNameOrEmail.label            "ਨਾਂ ਜਾਂ ਈ-ਮੇਲ">
+
+<!ENTITY addtoToFieldMenu.label             "ਵੱਲ ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਿਲ">
+<!ENTITY addtoCcFieldMenu.label             "Cc ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਿਲ">
+<!ENTITY addtoBccFieldMenu.label            "Bcc ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਿਲ">
+
+<!ENTITY toButton.label                     "ਵੱਲ ਸ਼ਾਮਿਲ:">
+<!ENTITY ccButton.label                     "Cc ਵੱਲ ਸ਼ਾਮਿਲ:">

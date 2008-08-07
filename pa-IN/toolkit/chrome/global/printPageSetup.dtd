@@ -1,0 +1,59 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "ਪੇਜ਼ ਸੈਟਿੰਗ">
+
+<!ENTITY basic.tab           "ਫਾਰਮੈਟ &amp; ਚੋਣ">
+
+<!ENTITY formatGroup.label   "ਫਾਰਮੈਟ">
+
+<!ENTITY orientation.label   "ਸਥਿਤੀ:">
+<!ENTITY portrait            "ਪੋਰਟਰੇਟ">
+<!ENTITY landscape           "ਲੈਡਸਕੇਪ">
+
+<!ENTITY scale.label         "ਸਕੇਲ:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "ਪੇਜ਼ ਦੀ ਚੌੜਾਈ ਉੱਤੇ ਫਿੱਟ ਕਰੋ">
+
+<!ENTITY optionsGroup.label  "ਚੋਣ">
+
+<!ENTITY printBG.label       "ਬੈਕਗਰਾਊਂਡ ਪਰਿੰਟ ਕਰੋ (ਰੰਗ &amp; ਚਿੱਤਰ)">
+
+<!ENTITY advanced.tab        "ਹਾਸ਼ੀਆ &amp; ਹੈੱਡਰ/ਫੁੱਟਰ">
+
+<!ENTITY marginGroup.label   "ਹਾਸ਼ੀਆ (#1)">
+<!ENTITY marginUnits.inches  "ਇੰਚ">
+<!ENTITY marginUnits.metric  "ਮਿਲੀਮੀਟਰ">
+<!ENTITY marginTop.label     "ਉੱਤੇ:">
+<!ENTITY marginBottom.label  "ਹੇਠਾਂ:">
+<!ENTITY marginLeft.label    "ਖੱਬਾ:">
+<!ENTITY marginRight.label   "ਸੱਜਾ:">
+
+<!ENTITY headerFooter.label  "ਹੈੱਡਰ &amp; ਫੁੱਟਰ">
+
+<!ENTITY hfLeft.label        "ਖੱਬਾ:">
+<!ENTITY hfCenter.label      "ਕੇਂਦਰੀ:">
+<!ENTITY hfRight.label       "ਸੱਜਾ:">
+<!ENTITY headerLeft.tip      "ਹੈੱਡਰ ਖੱਬੇ">
+<!ENTITY headerCenter.tip    "ਹੈੱਡਰ ਕੇਂਦਰ">
+<!ENTITY headerRight.tip     "ਹੈੱਡਰ ਸੱਜੇ">
+<!ENTITY footerLeft.tip      "ਫੁੱਟਰ ਖੱਬੇ">
+<!ENTITY footerCenter.tip    "ਫੁੱਟਰ ਕੇਂਦਰ">
+<!ENTITY footerRight.tip     "ਫੁੱਟਰ ਸੱਜੇ">
+
+
+<!ENTITY hfTitle             "ਟਾਇਟਲ">
+
+<!ENTITY hfURL               "URL">
+
+<!ENTITY hfDateAndTime       "ਮਿਤੀ/ਟਾਈਮ">
+
+<!ENTITY hfPage              "ਪੇਜ਼ #">
+
+<!ENTITY hfPageAndTotal      "ਪੇਜ਼ #, # ਵਿਚੋਂ">
+
+<!ENTITY hfBlank             "--ਖਾਲੀ--">
+<!ENTITY hfCustom            "ਕਸਟਮ...">
+
+<!ENTITY customPrompt.title  "ਕਸਟਮ...">
+<!ENTITY customPrompt.prompt "ਆਪਣਾ ਕਸਟਮ ਹੈੱਡਰ/ਫੁੱਟਰ ਟੈਕਸਟ ਇੱਥੇ ਦਿਓ">

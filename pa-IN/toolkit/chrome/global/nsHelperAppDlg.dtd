@@ -1,0 +1,43 @@
+<!ENTITY caption.label         "#1 ਨੂੰ ਖੋਲਿਆ ਜਾਂਦਾ ਹੈ">
+
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+<!ENTITY intro.label           "ਫਾਇਲ  &quot;#3&quot; ਕਿਸਮ  #2 (#1) ਦੀ ਹੈ , ਅਤੇ #4 ਇਹ ਨਹੀਂ ਜਾਣਦਾ ਹੈ ਕਿ ਇਸ ਫਾਇਲ ਕਿਸਮ ਨੂੰ ਕਿਵੇਂ ਕੰਟਰੋਲ ਕਰਨਾ ਹੈ। ਇਹ ਫਾਇਲ ਇੱਥੇ ਸਥਿਤ ਹੈ:">
+<!ENTITY intro.noDesc.label    "ਫਾਇਲ &quot;#3&quot; ਕਿਸਮ  #2 ਦੀ ਹੈ, ਅਤੇ  #4 ਇਹ ਨਹੀਂ ਜਾਣਦਾ ਹੈ ਕਿ ਇਸ ਫਾਇਲ ਨੂੰ ਕਿਵੇਂ ਵਰਤਣਾ ਹੈ। ਇਹ ਫਾਇਲ ਇੱਥੇ ਸਥਿਤ ਹੈ:">
+
+<!ENTITY intro.attachment.label "ਸਾਇਟ ਸਿਫਾਰਸ਼ ਕਰਦੀ ਹੈ ਕਿ &quot;#3&quot; ਨੂੰ ਇੱਕ ਅਟੈਂਚਮੈਂਟ ਵਾਂਗ ਵੇਖੋ। ਇਸ ਦੀ ਕਿਸਮ #2 (#1) ਹੈ ਅਤੇ ਇਹ ਇੱਥੇ ਸਥਿਤ ਹੈ:">
+<!ENTITY intro.attachment.noDesc.label "ਸਾਇਟ ਸਿਫਾਰਸ਼ ਕਰਦੀ ਹੈ ਕਿ &quot;#3&quot; ਨੂੰ ਇੱਕ ਅਟੈਂਚਮੈਂਟ ਵਾਂਗ ਵੇਖੋ। ਇਸ ਦੀ ਕਿਸਮ  #2 ਹੈ ਅਤੇ ਇਹ ਇੱਥੇ ਸਥਿਤ ਹੈ:">
+
+<!ENTITY intro.sniffed.label "ਪ੍ਰੋਗਰਾਮ #4 ਨੇ ਖੋਜਿਆ ਹੈ ਕਿ ਫਾਇਲ &quot;#3&quot;   ਦੀ ਕਿਸਮ #2 (#1) ਜਾਪਦੀ ਹੈ। ਇਹ ਮੌਜੂਦ ਹੈ:">
+<!ENTITY intro.sniffed.noDesc.label "ਪ੍ਰੋਗਰਾਮ #4 ਨੇ ਖੋਜਿਆ ਹੈ ਕਿ ਫਾਇਲ &quot;#3&quot;   ਦੀ ਕਿਸਮ #2 ਜਾਪਦੀ ਹੈ। ਇਹ ਮੌਜੂਦ ਹੈ:">
+
+<!ENTITY prompt.label          "ਇਸ ਫਾਇਲ ਨਾਲ  #1 ਨੇ ਕੀ ਕਰਨਾ ਹੈ?">
+
+<!ENTITY alwaysHandle.label     "ਇਸ ਕਿਸਮ ਦੀਆਂ ਫਾਇਲਾਂ ਨੂੰ ਵਰਤਣ ਲਈ ਇਹੀ ਕਾਰਵਾਈ ਹੀ ਕਰੋ">
+<!ENTITY alwaysHandle.accesskey "a">
+
+<!ENTITY saveToDisk.label      "ਇਸ ਨੂੰ ਡਿਸਕ ਉੱਤੇ ਸੰਭਾਲੋ">
+<!ENTITY saveToDisk.accesskey  "s">
+
+<!ENTITY useSystemDefault.label        "ਇਸ ਨੂੰ ਡਿਫਾਲਟ ਐਪਲੀਕੇਸ਼ਨ ਨਾਲ ਹੀ ਖੋਲ੍ਹੋ (#1)">
+<!ENTITY useSystemDefault.noDesc.label "ਇਸ ਨੂੰ ਡਿਫਾਲਟ ਐਪਲੀਕੇਸ਼ਨ ਨਾਲ ਖੋਲ੍ਹੋ">
+<!ENTITY useSystemDefault.accesskey    "O">
+
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+<!ENTITY openUsing.label       "ਇਸ ਨਾਲ ਖੋਲ੍ਹੋ">
+<!ENTITY openUsing.accesskey   "w">
+
+<!ENTITY chooseApp.label       "ਚੁਣੋ...">
+<!ENTITY chooseApp.accesskey   "c">
+
+<!ENTITY chooseAppFilePickerTitle "ਮੱਦਦਗਾਰ ਐਪਲੀਕੇਸ਼ਨ ਚੁਣੋ">
+
+<!ENTITY badApp                 "ਐਪਲੀਕੇਸ਼ਨ, ਤੁਸੀਂ (&quot;#1&quot;) ਸੈੱਟ ਕੀਤਾ ਹੈ, ਨਹੀਂ ਲੱਭੀ ਹੈ। ਫਾਇਲ ਨਾਂ ਚੁਣੋ ਜਾਂ ਹੋਰ ਐਪਲੀਕੇਸ਼ਨ ਚੁਣੋ।">
+<!ENTITY badApp.title           "ਐਪਲੀਕੇਸ਼ਨ ਨਹੀਂ ਲੱਭੀ ਹੈ">

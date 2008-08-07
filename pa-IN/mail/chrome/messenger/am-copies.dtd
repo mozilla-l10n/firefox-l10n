@@ -1,0 +1,36 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "ਨਕਲਾਂ &amp; ਫੋਲਡਰ">
+<!ENTITY sendingPrefix.label "ਜਦੋਂ ਸੁਨੇਹੇ ਭੇਜੇ ਜਾਣ ਤਾਂ ਸਵੈ-ਚਾਲਿਤ: ">
+<!ENTITY fccMailFolder.label "ਇੱਕ ਨਕਲ ਰੱਖੋ:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY chooseFolderButton.label "ਫੋਲਡਰ ਚੁਣੋ...">
+<!ENTITY fccReplyFollowsParent.label "ਜਵਾਬ ਦੇਣ ਵਾਲੇ ਪੱਤਰਾਂ ਦੇ ਜਵਾਬ ਫੋਲਡਰ ਵਿੱਚ ਰੱਖੋ">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc ਇਹ ਸਿਰਨਾਵੀਆਂ ਨੂੰ ਪੱਤਰ ਭੇਜੋ:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "ਖਾਸ ਫੋਲਡਰ">
+<!ENTITY draftMailFolder.label "ਸੁਨੇਹੇ ਡਰਾਫਟ ਵਿੱਚ ਰੱਖੋ:">
+<!ENTITY templateMailFolder.label "ਸੁਨੇਹੇ ਨਮੂਨੇ ਵਿੱਚ ਰੱਖੋ:">
+<!ENTITY saveMessageDlg.label "ਸੁਨੇਹਾ ਭੇਜਣ ਉਪਰੰਤ ਸੰਭਾਲਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਵਾਉ">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): do not translate "Sent" in below line. see bug #64199 -->
+<!ENTITY sentFolderOn.label "&quot;Sent&quot; ਫੋਲਡਰ ਤੇ:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "ਹੋਰ:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): do not translate "Drafts" in below line. see bug #64199 -->
+<!ENTITY draftsFolderOn.label "&quot;Drafts&quot; ਫੋਲਡਰ ਤੇ:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "ਹੋਰ:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): do not translate "Templates" in below line. see bug #23625 -->
+<!ENTITY templatesFolderOn.label "&quot;Templates&quot; ਫੋਲਡਰ ਤੇ:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "ਹੋਰ:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "ਡਰਾਫਟ ਅਤੇ ਨਮੂਨੇ">
+<!ENTITY keepDrafts.label "ਸੁਨੇਹੇ ਡਰਾਫਟ(drafts) ਵਿੱਚ ਰੱਖੋ:">
+<!ENTITY keepTempltes.label "ਸੁਨੇਹੇ templates ਵਿੱਚ ਰੱਖੋ:">

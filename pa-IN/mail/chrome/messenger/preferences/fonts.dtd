@@ -1,0 +1,80 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "ਫੋਂਟ &amp; ਇੰਕੋਡਿੰਗ">
+
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "ਫੋਂਟ:">
+<!ENTITY  language.accesskey                      "t">
+
+<!ENTITY  typefaces.label                         "ਟਾਈਪਫੇਸ">
+<!ENTITY  sizes.label                             "ਆਕਾਰ (ਪਿਕਸਲ)">
+<!ENTITY  proportionalSize.accesskey              "e">
+<!ENTITY  monospaceSize.accesskey                 "x">
+
+<!ENTITY  proportional.label                      "ਅਨੁਪਾਤ:">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "m">
+
+<!ENTITY  fontsize.units                          "ਪਿਕਸਲ">
+
+<!ENTITY  font.langGroup.latin1                   "ਪੱਛਮੀ">
+<!ENTITY  font.langGroup.latin2                   "ਕੇਂਦਰੀ ਯੂਰਪ">
+<!ENTITY  font.langGroup.japanese                 "ਜਾਪਾਨੀ">
+<!ENTITY  font.langGroup.trad-chinese             "ਮੂਲ ਚੀਨੀ (ਤਾਈਵਾਨ)">
+<!ENTITY  font.langGroup.simpl-chinese            "ਸਧਾਰਨ ਚੀਨੀ">
+<!ENTITY  font.langGroup.trad-chinese-hk          "ਮੂਲ ਚੀਨੀ (ਹਾਂਗਕਾਂਗ)">
+<!ENTITY  font.langGroup.korean                   "ਕੋਰੀਅਨ">
+<!ENTITY  font.langGroup.cyrillic                 "ਕਰਲਿਕ">
+<!ENTITY  font.langGroup.baltic                   "ਬਾਲਟਿਕ">
+<!ENTITY  font.langGroup.el                       "ਗਰੀਕ">
+<!ENTITY  font.langGroup.turkish                  "ਤੁਰਕੀ">
+<!ENTITY  font.langGroup.unicode                  "ਯੂਨੀਕੋਡ">
+<!ENTITY  font.langGroup.user-def                 "ਉਪਭੋਗੀ ਪ੍ਰਭਾਸ਼ਿਤ">
+<!ENTITY  font.langGroup.thai                     "ਥਾਈ">
+<!ENTITY  font.langGroup.hebrew                   "ਹੀਬਰਿਊ">
+<!ENTITY  font.langGroup.arabic                   "ਅਰਬ">
+<!ENTITY  font.langGroup.devanagari               "ਦੇਵਨਾਗਰੀ">
+<!ENTITY  font.langGroup.tamil                    "ਤਾਮਿਲ">
+<!ENTITY  font.langGroup.armenian                 "ਅਰਮੀਨੀਅਨ">
+<!ENTITY  font.langGroup.bengali                  "ਬੰਗਾਲੀ">
+<!ENTITY  font.langGroup.canadian                 "ਯੂਨੀਫਾਇਡ ਕੈਨੇਡੀਅਨ ਸਲਾਬਰੀ">
+<!ENTITY  font.langGroup.ethiopic                 "ਈਥੋਪਿਕ">
+<!ENTITY  font.langGroup.georgian                 "ਜਾਰਜੀਅਨ">
+<!ENTITY  font.langGroup.gujarati                 "ਗੁਜਰਾਤੀ">
+<!ENTITY  font.langGroup.gurmukhi                 "ਗੁਰਮੁਖੀ">
+<!ENTITY  font.langGroup.khmer                    "ਖਮੀਰ">
+<!ENTITY  font.langGroup.malayalam                "ਮਲਿਆਲਮ">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "ਨਿਊਨਤਮ ਫੋਂਟ ਆਕਾਰ:">
+<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize.none                             "ਕੋਈ ਨਹੀਂ">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!ENTITY  newLanguages.label                      "ਨਵੀਆਂ ਭਾਸ਼ਾਵਾਂ ਭਾਸ਼ਾ ਪੈਨਲ ਰਾਹੀਂ ਸੰਰਚਿਤ ਕੀਤੀਆਂ ਜਾ ਸਕਦੀਆਂ ਹਨ।">
+
+<!ENTITY  useDocumentFonts.label                  "ਸੁਨਹਿਆਂ ਲ਼ਈ ਹੋਰ ਫੋਂਟ ਵਰਤਣ ਲ਼ਈ">
+<!ENTITY  useDocumentFonts.accesskey              "o">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "ਭੇਜਣ ਵਾਲੇ ਪੱਤਰ:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle1.label				    "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
+<!ENTITY composingDescription.label       "ਭੇਜ ਜਾਣ ਵਾਲੇ ਅਤੇ ਆਉਣ ਵਾਲੇ ਪੱਤਰਾਂ ਲਈ ਮੂਲ ਇੰਕੋਡਿੰਗ ਦਿਓ">
+
+<!ENTITY viewDefaultCharsetList.label     "ਆਉਣ ਵਾਲੇ ਪੱਤਰ:">
+<!ENTITY viewDefaultCharsetList.accesskey	"I">
+<!ENTITY forceCharsetOverride.label       "ਆਉਣ ਵਾਲੇ ਸਭ ਪੱਤਰਾਂ ਲਈ ਮੂਲ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਲਾਗੂ ਕਰੋ">
+<!ENTITY forceCharsetOverride.accesskey   "A">
+<!ENTITY replyInDefaultCharset.label      "ਜਵਾਬ ਵਿੱਚ ਮੂਲ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਵਰਤੋਂ">
+<!ENTITY replyInDefaultCharset.accesskey  "h">

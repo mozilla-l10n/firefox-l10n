@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "ਮੂਲ ਕਲਾਂਇਟ">
+<!ENTITY defaultClient.intro  "&brandShortName; ਨੂੰ ਇਸ ਲਈ ਮੂਲ ਕਲਾਂਇਟ ਵਾਂਗ ਵਰਤੋਂ:">
+
+<!ENTITY email.label "ਈ-ਮੇਲ">
+<!ENTITY newsgroups.label "ਖ਼ਬਰ-ਗਰੁੱਪ">
+<!ENTITY rss.label "RSS ਫੀਡ">
+
+<!ENTITY checkOnStartup.label " &brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਸਮੇਂ ਹਮੇਸ਼ਾ ਇਹ ਜਾਂਚ ਕਰੋ">
+<!ENTITY checkOnStartup.accesskey "A">

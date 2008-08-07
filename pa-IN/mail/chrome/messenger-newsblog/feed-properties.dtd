@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title             "ਫੀਡ ਵਿਸ਼ੇਸ਼ਤਾ">
+
+<!ENTITY feedFolder.label         "ਲੇਖ ਇੱਥੇ ਸੰਭਾਲੋ: ">
+<!ENTITY feedFolder.accesskey     "S">
+
+<!ENTITY feedLocation.label       "ਫੀਡ URL: ">
+<!ENTITY feedLocation.accesskey   "F">
+
+<!ENTITY choosethisfolder.label   "ਇਹ ਫੋਲਡਰ ਚੁਣੋ">
+ 
+<!ENTITY quickMode.label          "ਇੱਕ ਵੈੱਬ ਸਫ਼ਾ ਵੇਖਾਉਣ ਦੀ ਬਜਾਏ ਲੇਖ ਸਾਰ ਵੇਖਾਓ">
+<!ENTITY quickMode.accesskey      "h">
+ 
+<!ENTITY copyLinkCmd.label        "ਸਬੰਧ ਟਿਕਾਣਾ ਨਕਲ ਕਰੋ">
+<!ENTITY copyLinkCmd.accesskey    "C">
+ 
+<!ENTITY pasteLinkCmd.label       "ਚੇਪੋ">
+<!ENTITY pasteLinkCmd.accesskey   "P">

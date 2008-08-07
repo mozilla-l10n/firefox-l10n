@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "ਪਰਿੰਟ ਕਰੋ">
+
+<!ENTITY printDialog.title "ਪਰਿੰਟ">
+
+<!ENTITY fpDialog.title "ਫਾਇਲ ਸੰਭਾਲੋ">
+
+<!ENTITY fileCheck.label "ਫਾਇਲ ਚੈੱਕ ਕਰੋ" >
+
+<!ENTITY propertiesButton.label "ਵਿਸ਼ੇਸ਼ਤਾ...">
+<!ENTITY descText.label "ਵੇਰਵਾ ਵੇਖੋ:">
+<!ENTITY printer.label "ਪਰਿੰਟਰ">
+<!ENTITY printerInput.label "ਪਰਿੰਟਰ:">
+
+<!ENTITY printrangeGroup.label "ਪਰਿੰਟ ਰੇਜ਼">
+<!ENTITY allpagesRadio.label "ਸਭ ਪੇਜ਼">
+<!ENTITY rangeRadio.label  "ਪੇਜ਼">
+<!ENTITY frompageInput.label  "ਤੋਂ">
+<!ENTITY topageInput.label  "ਤੱਕ">
+<!ENTITY selectionRadio.label "ਚੋਣ">
+
+<!ENTITY copies.label "ਕਾਪੀਆਂ">
+<!ENTITY numCopies.label "ਕਾਪੀਆਂ ਦੀ ਗਿਣਤੀ:">
+
+<!ENTITY printframeGroup.label "ਫਰੇਮ ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY aslaidoutRadio.label "ਜਿਵੇਂ ਸਕਰੀਨ ਉੱਤੇ ਉਪਲੱਬਧ ਹੈ">
+<!ENTITY selectedframeRadio.label  "ਚੁਣਿਆ ਫਰੇਮ">
+<!ENTITY eachframesepRadio.label  "ਹਰ ਫਰੇਮ ਵੱਖਰਾ">

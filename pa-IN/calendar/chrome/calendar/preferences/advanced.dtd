@@ -1,0 +1,76 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Thunderbird Preferences System
+   -
+   - The Initial Developer of the Original Code is
+   - Scott MacGregor
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Matthew Willis <lilmatt@mozilla.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.calendar.advanced.generalTab.label "ਆਮ">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "ਪਾਸਵਰਡ">
+<!ENTITY pref.calendar.advanced.updateTab.label "ਅੱਪਡੇਟ">
+
+<!-- General -->
+<!ENTITY pref.calendar.advanced.configEdit.caption "ਤਕਨੀਕੀ ਸੰਰਚਨਾ">
+<!ENTITY pref.calendar.advanced.configEdit.button "ਐਡੀਟਰ ਸੰਰਚਨਾ…">
+<!ENTITY pref.calendar.advanced.configEdit.accesskey "g">
+
+<!-- Passwords -->
+<!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; ਤੁਹਾਡੇ ਸਭ ਕੈਲੰਡਰਾਂ ਲਈ ਪਾਸਵਰਡ ਯਾਦ ਰੱਖ ਸਕਦਾ ਹੈ ਤਾਂ ਕਿ ਤੁਹਾਨੂੰ ਆਪਣਾ ਲਾਗਇਨ ਵੇਰਵਾ ਮੁੜ ਕੇ ਦੇਣਾ ਨਾ ਪਵੇ।">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "ਇੰਕ੍ਰਿਪਟ ਕਰਕੇ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ ਇੱਕ ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "P">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "ਜਦੋਂ ਸੈੱਟ ਕੀਤਾ ਤਾਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੇਗਾ, ਪਰ ਤੁਹਾਨੂੰ ਹਰੇਕ ਸ਼ੈਸ਼ਨ ਲਈ ਇੱਕ ਵਾਰ ਦੇਣਾ ਪਵੇਗਾ।">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਦਲੋ…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "M">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਵੇਖੋ…">
+<!ENTITY pref.calendar.advanced.viewPasswords.accesskey "V">
+
+<!-- Update -->
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "ਅੱਪਡੇਟ ਲਈ ਆਟੋਮੈਟਿਕ ਹੀ ਜਾਂਚ:">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
+<!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "ਐਂਡ-ਆਨ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "n">
+<!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "ਜਦੋਂ  &brandShortName; ਲਈ ਅੱਪਡੇਟ ਮਿਲਣ ਤਾਂ:">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "ਮੈਨੂੰ ਪੁੱਛੋ ਕਿ ਕੀ ਕਰਨਾ ਹੈ">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "k">
+<!ENTITY pref.calendar.advanced.update.modeAuto.label "ਅੱਪਡੇਟ ਆਟੋਮੈਟਿਕ ਹੀ ਡਾਊਨਲੋਡ ਅਤੇ ਇੰਸਟਾਲ ਕਰੋ">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "d">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "ਮੈਨੂੰ ਚੇਤਾਵਨੀ ਦਿਓ, ਜੇ ਇਹ ਮੇਰੇ ਐਡ-ਆਨ ਨੂੰ ਆਯੋਗ ਕਰਨ ਤਾਂ">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "W">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ…">
+<!ENTITY pref.calendar.advanced.update.showHistory.accesskey "U">

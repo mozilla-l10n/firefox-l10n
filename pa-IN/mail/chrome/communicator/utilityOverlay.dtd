@@ -1,0 +1,73 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"ਫਾਇਲ਼"> 
+<!ENTITY fileMenu.accesskey				"f">
+<!ENTITY newMenu.label						"ਨਵਾਂ">
+<!ENTITY newMenu.accesskey					"N">
+
+<!-- LOCALIZATION NOTE  (newNavigatorCmd.label): Do NOT translate "Navigator" -->
+
+<!ENTITY editMenu.label					"ਸੋਧ"> 
+<!ENTITY editMenu.accesskey				"e"> 
+<!ENTITY undoCmd.label						"ਵਾਪਿਸ">  
+<!ENTITY undoCmd.key						"Z">
+<!ENTITY undoCmd.accesskey					"u">
+<!ENTITY redoCmd.label						"ਮੁੜ-ਵਾਪਿਸ">
+<!ENTITY redoCmd.key						"Y">
+<!ENTITY redoCmd.accesskey					"r">
+<!ENTITY cutCmd.label						"ਕੱਟੋ">
+<!ENTITY cutCmd.key							"X">
+<!ENTITY cutCmd.accesskey					"t"> 
+<!ENTITY copyCmd.label						"ਨਕਲ"> 
+<!ENTITY copyCmd.key						"C">
+<!ENTITY copyCmd.accesskey					"c"> 
+<!ENTITY pasteCmd.label						"ਚੇਪੋ">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY deleteCmd.label					"ਹਟਾਓ">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"d"> 
+<!ENTITY selectAllCmd.label					"ਸਭ ਚੁਣੋ">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"a"> 
+<!ENTITY preferencesCmd.label				"ਚੋਣ...">
+<!ENTITY preferencesCmd.accesskey			"O"> 
+<!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+<!ENTITY findTypeTextCmd.label "ਜਿਵੇਂ ਤੁਸੀਂ ਲਿਖੋ ਤਿਵੇਂ ਹੀ ਖੋਜੋ">
+<!ENTITY findTypeTextCmd.accesskey "x">
+
+<!ENTITY viewMenu.label					"ਵੇਖੋ"> 
+<!ENTITY viewMenu.accesskey				"v"> 
+<!ENTITY viewToolbarsMenu.label				"ਸੰਦ-ਪੱਟੀ"> 
+<!ENTITY viewToolbarsMenu.accesskey			"T"> 
+<!ENTITY showTaskbarCmd.label					"ਸਥਿਤੀ-ਪੱਟੀ">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!-- NOTE (whatNewCmd.label): This is not used in Mozilla but is used in Netscape -->
+
+<!ENTITY direct.label                                   "ਆਨਲਾਇਨ (ਪਰਾਕਸੀ: ਕੋਈ ਨਹੀਂ)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "ਆਨਲਾਇਨ (ਪਰਾਕਸੀ: ਦਸਤੀ)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "ਆਨਲਾਇਨ (ਪਰਾਕਸੀ: ਸਵੈ-ਚਾਲਿਤ)">
+<!ENTITY pac.accesskey                                  "a">
+
+<!ENTITY proxy.label                                    "ਪਰਾਕਸੀ ਸੰਰਚਨਾ...">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+<!ENTITY closeCmd.label			"ਬੰਦ ਕਰੋ">  
+<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.accesskey		"c">
+
+<!ENTITY closeWindow.label "ਝਰੋਖਾ ਬੰਦ ਕਰੋ">
+
+<!ENTITY quitApplicationCmd.label	"ਬਾਹਰ"> 
+<!ENTITY quitApplicationCmd.key		"Q"> 
+<!ENTITY quitApplicationCmd.accesskey	"x">
+
+<!ENTITY quitApplicationCmdUnix.label	"ਬਾਹਰ"> 
+<!ENTITY quitApplicationCmdUnix.accesskey	"q">

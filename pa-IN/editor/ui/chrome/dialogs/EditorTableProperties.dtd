@@ -1,0 +1,101 @@
+<!--
+   - The contents of this file are subject to the Netscape Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/NPL/
+   -  
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   -  
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   - 
+   - The Initial Developer of the Original Code is Netscape
+   - Communications Corporation. Portions created by Netscape are
+   - Copyright (C) 1998-1999 Netscape Communications Corporation. All
+   - Rights Reserved.
+   - 
+   - Contributor(s): 
+  -->
+
+<!ENTITY tableWindow.title                "ਸਾਰਣੀ ਵਿਸ਼ੇਸਤਾ">
+<!ENTITY applyButton.label                "ਲਾਗੂ ਕਰੋ">
+<!ENTITY applyButton.accesskey            "A">
+<!ENTITY closeButton.label                "ਬੰਦ ਕਰੋ">
+<!ENTITY tableTab.label                   "ਸਾਰਣੀ">
+<!ENTITY cellTab.label                    "ਸੈੱਲ">
+<!ENTITY tableRows.label                  "ਕਤਾਰਾਂ:">
+<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableColumns.label               "ਕਾਲਮ:">
+<!ENTITY tableColumns.accessKey           "C">
+<!ENTITY tableHeight.label                "ਉਚਾਈ:">
+<!ENTITY tableHeight.accessKey            "G">
+<!ENTITY tableWidth.label                 "ਚੌੜਾਈ:">
+<!ENTITY tableWidth.accessKey             "W">
+<!ENTITY tableBorderSpacing.label         "ਹਾਸ਼ੀਆ ਤੇ ਦੂਰੀ">
+<!ENTITY tableBorderWidth.label           "ਹਾਸ਼ੀਆ:">
+<!ENTITY tableBorderWidth.accessKey       "B">
+<!ENTITY tableSpacing.label               "ਖਾਲੀ ਥਾਂ:">
+<!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tablePadding.label               "ਵਿੱਚਕਾਰ ਦੂਰੀ:">
+<!ENTITY tablePadding.accessKey           "P">
+<!ENTITY tablePxBetwCells.label           "ਸੈੱਲਾਂ ਵਿੱਚ ਪਿਕਸਲ">
+<!ENTITY tablePxBetwBrdrCellContent.label "ਸੈੱਲ ਹਾਸ਼ੀਏ ਤੇ ਅੰਕਾਂ ਵਿੱਚ ਪਿਕਸਲ">
+<!ENTITY tableAlignment.label             "ਸਾਰਣੀ ਇਕਸਾਰਤਾ:">
+<!ENTITY tableAlignment.accessKey         "T">
+<!ENTITY tableCaption.label               "ਸਿਰਲੇਖ:">
+<!ENTITY tableCaption.accessKey           "N">
+<!ENTITY tableCaptionAbove.label          "ਸਾਰਣੀ ਦੇ ਉੱਪਰ">
+<!ENTITY tableCaptionBelow.label          "ਸਾਰਣੀ ਹੇਠਾਂ">
+<!ENTITY tableCaptionLeft.label           "ਸਾਰਣੀ ਦੇ ਖੱਬੇ">
+<!ENTITY tableCaptionRight.label          "ਸਾਰਣੀ ਦੇ ਸੱਜੇ">
+<!ENTITY tableCaptionNone.label           "ਕੋਈ ਨਹੀਂ">
+<!ENTITY tableInheritColor.label           "(ਸਫਾ ਰੰਗ ਨੂੰ ਆਰ-ਪਾਰ ਦਿੱਸਣ ਦਿਓ)">
+
+<!ENTITY cellPercent.label                "ਸਾਰਣੀ ਦਾ ਪ੍ਰਤੀਸ਼ਤ">
+<!ENTITY cellSelection.label              "ਚੋਣ">
+<!ENTITY cellSelectCell.label             "ਸੈੱਲ">
+<!ENTITY cellSelectRow.label              "ਕਤਾਰ">
+<!ENTITY cellSelectColumn.label           "ਕਾਲਮ">
+<!ENTITY cellSelectNext.label             "ਅੱਗੇ">
+<!ENTITY cellSelectNext.accessKey         "N">
+<!ENTITY cellSelectPrevious.label         "ਪਿੱਛੇ">
+<!ENTITY cellSelectPrevious.accessKey     "P">
+<!ENTITY cellApplyBeforeMove.label        "ਚੋਣ ਤਬਦੀਲ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰੋ">
+<!ENTITY cellKeepCurrentData.label        "ਮੌਜੂਦਾ ਵਿਵਸਥਾ ਰੱਖੋ">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label         "ਮੌਜੂਦਾ ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ">
+<!ENTITY applyBeforeChange2.label         "ਚੋਣ ਲਾਗੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ।">
+<!ENTITY cellRowSpan.label                "ਕਤਾਰ ਫਾਸਲਾ:">
+<!ENTITY cellColSpan.label                "ਕਾਲਮ ਫਾਸਲਾ:">
+<!ENTITY cellContentAlignment.label       "ਅੰਸ਼ ਇਕਸਾਰਤਾ">
+<!ENTITY cellHorizontal.label             "ਖਿਤਿਜੀ:">
+<!ENTITY cellHorizontal.accessKey         "Z">
+<!ENTITY cellVertical.label               "ਲੰਬਕਾਰੀ:">
+<!ENTITY cellVertical.accessKey           "V">
+<!ENTITY cellStyle.label                  "ਸੈੱਲ ਸ਼ੈਲੀ:">
+<!ENTITY cellStyle.accessKey              "C">
+<!ENTITY cellNormal.label                 "ਸਧਾਰਨ">
+<!ENTITY cellHeader.label                 "ਸਿਰਲੇਖ">
+<!ENTITY cellTextWrap.label               "ਪਾਠ ਲਪੇਟੋ:">
+<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellWrap.label                   "ਸਮੇਟੋ">
+<!ENTITY cellNoWrap.label                 "ਨਾ-ਸਮੇਟੋ">
+<!ENTITY cellAlignTop.label               "ਉੱਪਰ">
+<!ENTITY cellAlignMiddle.label            "ਮੱੱਧ">
+<!ENTITY cellAlignBottom.label            "ਹੇਠਾਂ">
+<!ENTITY cellAlignJustify.label           "ਇਕਸਾਰ">
+<!ENTITY cellAlignAtChar.label            "ਅੱਖਰ ਤੇ:">
+<!ENTITY cellInheritColor.label           "(ਸਾਰਣੀ ਰੰਗ ਨੂੰ ਆਰ-ਪਾਰ ਵੇਖਾਓ)">
+<!ENTITY cellUseCheckboxHelp.label        "ਚੋਣ-ਬਕਸੇ ਨੂੰ ਇਹ ਜਾਂਚ ਲਈ ਇਸਤੇਮਾਲ ਕਰੋ ਕਿ ਕਿਹੜੇ ਗੁਣ ਸਭ ਚੁਣੇ ਸੈੱਲਾਂ ਤੇ ਲਾਗੂ ਕਰਨੇ ਹਨ">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "ਆਕਾਰ">
+<!ENTITY pixels.label                     "ਪਿਕਸਲ">
+<!ENTITY backgroundColor.label            "ਪਿੱਠਭੂਮੀ ਰੰਗ:">
+<!ENTITY backgroundColor.accessKey        "B">
+<!ENTITY AlignLeft.label                  "ਖੱਬਾ">
+<!ENTITY AlignCenter.label                "ਕੇਂਦਰ">
+<!ENTITY AlignRight.label                 "ਸੱਜਾ">

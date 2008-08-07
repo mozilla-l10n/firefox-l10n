@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "ਭੇਜਣ ਵਾਲੇ ਸਰਵਰ (SMTP) ਦੀ ਵਿਵਸਥਾ">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "ਸਿਰਫ ਇੱਕ ਹੀ ਭੇਜਣ ਵਾਲਾ ਸਰਵਰ (SMTP) ਨਿਰਧਾਰਿਤ ਕਰਨ ਦੀ ਲੋੜ ਹੈ, ਭਾਵੇਂ ਕਿ ਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤੇ ਪੱਤਰ ਖਾਤੇ ਹਨ। ਪੱਤਰ ਭੇਜਣ ਲਈ ਸਰਵਰ ਦਾ ਨਾਂ ਦਿਓ।">
+
+<!ENTITY smtpListAdd.label  "ਸ਼ਾਮਿਲ...">
+<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListEdit.label "ਸੋਧ...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "ਹਟਾਉ">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "ਮੂਲ ਬਣਾਉ">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "ਵੇਰਵਾ: ">
+<!ENTITY serverName.label "ਸਰਵਰ ਨਾਂ: ">
+<!ENTITY serverPort.label "ਪੋਰਟ: ">
+<!ENTITY userName.label   "ਉਪਭੋਗੀ ਨਾਂ: ">
+<!ENTITY useSecureConnection.label   "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ: ">
+
+

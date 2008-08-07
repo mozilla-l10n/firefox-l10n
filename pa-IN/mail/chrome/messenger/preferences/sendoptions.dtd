@@ -1,0 +1,39 @@
+<!ENTITY dialog.title                 "ਭੇਜਣ ਚੋਣ">
+<!ENTITY sendMail.title               "ਪਾਠ ਫਾਰਮਿਟ">
+<!ENTITY sendMaildesc.label           "ਜਦੋਂ ਸੁਨੇਹਿਆਂ ਨੂੰ HTML ਫਾਰਮਿਟ ਵਿੱਚ ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ ਤਾਂ ਕੁਝ ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲੇ HTML ਪੱਤਰ ਨਾ ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲਿਆਂ ਦੀ ਸੂਚੀ 'ਚ ਹਨ:">
+<!ENTITY askMe.label                  "ਮੈਨੂੰ ਪੁੱਛੋ ਕਿ ਕੀ ਕੀਤਾ ਜਾਵੇ">
+<!ENTITY askMe.accesskey              "k">
+<!ENTITY convertPlain.label           "ਸੁਨੇਹੇ ਨੂੰ ਸਧਾਰਨ ਪਾਠ ਵਿੱਚ ਬਦਲੋ">
+<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY sendHTML.label               "ਸੁਨੇਹੇ ਨੂੰ ਕਿਸੇ ਵੀ ਤਰਾਂ HTML ਦੇ ਰੂਪ ਵਿੱਚ ਭੇਜੋ">
+<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendBoth.label               "ਸੁਨੇਹੇ ਨੂੰ ਦੋਵਾਂ ਪਾਠ ਅਤੇ HTML ਫਾਰਮਿਟ ਵਿੱਚ ਭੇਜੋ">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY receiveHTML.label            "ਜੇਕਰ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਇੱਕ ਖਾਸ ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲਾ HTML ਪੱਤਰ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ ਹੈ ਤਾਂ 'ਸਧਾਰਨ ਪਾਠ ਦੇ ਰੂਪ ਵਿੱਚ ਭੇਜੋ (ਕੋਈ HTML ਨਹੀਂ)'  ਚੋਣ ਬਕਸੇ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲਿਆਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਉਣ ਲਈ ਚੁਣੋ।">
+<!ENTITY override.label               "ਸੂਚਨਾ: ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲਿਆਂ ਦੇ ਪਸੰਦੀਦਾ ਫਾਰਮਿਟ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰੋ">
+
+<!ENTITY domaindesc.label             "ਜਦੋਂ ਤੁਸੀਂ ਹੇਠਾਂ ਦਿੱਤੀ ਡੋਮੇਨ ਨਾਂ ਸੂਚੀ ਵਿੱਚੋਂ ਕਿਸੇ ਨੂੰ ਸੁਨੇਹਾ ਭੇਜੋਗੇ ਤਾਂ,  &brandShortName; ਸਵੈ-ਚਾਲਿਤ ਹੀ ਠੀਕ ਫਾਰਮਿਟ ਵਿੱਚ ਸੁਨੇਹਾ ਭੇਜੇਗਾ">
+<!ENTITY HTMLTab.label                "HTML ਡੋਮੇਨ">
+<!ENTITY HTMLTab.accesskey            "h">
+<!ENTITY PlainTextTab.label           "ਸਧਾਰਨ ਪਾਠ ਡੋਮੇਨ">
+<!ENTITY PlainTextTab.accesskey       "p">
+<!ENTITY AddButton.label              "ਸ਼ਾਮਿਲ...">
+<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "ਹਟਾਓ">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!ENTITY add.htmltitle                "HTML ਡੋਮੇਨ ਨਾਂ ਸ਼ਾਮਿਲ">
+<!ENTITY add.htmldomain               "HTML ਡੋਮੇਨ ਸ਼ਾਮਿਲ:">
+<!ENTITY add.htmldomain.accesskey     "d">
+<!ENTITY add.plaintexttitle           "ਸਧਾਰਨ ਪਾਠ ਡੋਮੇਨ ਨਾਂ ਸ਼ਾਮਿਲ">
+<!ENTITY add.plaintextdomain          "ਸਧਾਰਨ ਪਾਠ ਡੋਮੇਨ ਸ਼ਾਮਿਲ:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "ਡੋਮੇਨ ਨਾਂ ਗਲਤੀ ਹੈ">
+<!ENTITY duplicationError.label       "ਡੋਮੇਨ ਨਾਂ @string@ ਸੂਚੀ ਵਿੱਚ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "ਇੱਕ ਡੋਮੇਨ ਨਾਂ HTML ਅਤੇ ਸਧਾਰਨ ਪਾਠ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਿਲ ਨਹੀਂ ਹੋ ਸਕਗਾ ਹੈ। ਡੋਮੇਨ ਨਾਂ @string@ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।">

@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "ਤਕਨੀਕੀ ਖਾਤਾ ਵਿਵਸਥਾ">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "ਤਕਨੀਕੀ IMAP ਸਰਵਰ ਵਿਵਸਥਾ">
+<!ENTITY serverDirectory.label "IMAP ਸਰਵਰ ਡਾਇਰੈਕਟਰੀ:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "ਸਵੀਕਾਰ ਫੋਲਡਰ ਹੀ ਵੇਖਾਓ">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "ਸਰਵਰ ਉਹਨਾਂ ਫੋਲਡਰਾਂ ਲਈ ਸਹਾਇਕ ਹੈ, ਜੋ ਕਿ ਸਬ-ਫੋਲਡਰ ਤੇ ਸੁਨੇਹੇ ਰੱਖਦੇ ਹਨ">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "ਜੇਕਰ ਸਰਵਰ ਸਹਾਇਕ ਹੋਵੇ ਤਾਂ IDLE ਕਮਾਂਡ ਇਸਤੇਮਾਲ ਕਰੋ">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "ਕੈਂਚੇ ਲਈ ਅਧਿਕਤਮ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨਾਂ ਦੀ ਗਿਣਤੀ">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "ਇਹ ਪਸੰਦ ਤੁਹਾਡੇ IMAP ਸਰਵਰ ਤੇ ਨਾਂ-ਥਾਂ ਨਿਰਧਾਰਿਤ ਕਰਦੀ ਹੈ">
+<!ENTITY personalNamespace.label "ਨਿੱਜੀ ਨਾਂ:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "ਸਵਰਜਨਕ (ਸਾਂਝਾ):">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "ਹੋਰ ਉਪਭੋਗਤਾ:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "ਸਰਵਰ ਨੂੰ ਇਹਨਾਂ ਨਾਂ-ਥਾਂ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰਨ ਦਿਓ">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "ਇਸ ਸਰਵਰ ਤੋਂ ਜਦੋਂ pop3 ਪੱਤਰ ਡਾਊਨਲੋਡ ਕੀਤੇ ਜਾਣ ਤਾਂ, ਤੁਸੀਂ ਇਸ ਨੂੰ ਵਿਆਪਕ Inbox (ਸਥਾਨਿਕ ਫੋਲਡਰ ਖਾਤੇ ਵਿੱਚ INBOX), ਇਸ ਖਾਤੇ ਲਈ INBOX ਵਿੱਚ, ਹੋਰ POP3 ਖਾਤੇ ਲਈ INBOX ਵਿੱਚ ਵੀ ਸੰਭਾਲ ਸਕਦੇ ਹੋ" >
+<!ENTITY folderStorage.label "ਪੱਤਰ ਕਿੱਥੇ ਸੰਭਾਲਣੇ ਹਨ">
+<!ENTITY globalInbox.label "ਵਿਆਪਕ Inbox (ਸਥਾਨਿਕ ਫੋਲਡਰ ਖਾਤਾ)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "ਇਸ ਸਰਵਰ ਦੇ ਖਾਤੇ ਲਈ Inbox">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "ਵੱਖਰੇ ਖਾਤੇ ਲਈ Inbox">
+<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferGetNewMail.label "ਨਵੇਂ ਪੱਤਰ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਇਸ ਸਰਵਰ ਨੂੰ ਸ਼ਾਮਿਲ ਕਰੋ">
+<!ENTITY deferGetNewMail.accesskey "I">

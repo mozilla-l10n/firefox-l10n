@@ -1,0 +1,49 @@
+<!ENTITY  warnAddonInstall.label        "ਮੈਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜਦੋਂ ਸਾਇਟਾਂ ਐਂਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ">
+<!ENTITY  warnAddonInstall.accesskey    "W">
+
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label):
+  The methods by which forged (phished) sites will be detected by phishing
+  providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that this string and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+<!ENTITY  tellMaybeAttackSite.label     "ਮੈਨੂੰ ਦੱਸੋ, ਜਦੋਂ ਕਿ ਸਾਇਟ, ਜੋ ਕਿ ਮੈਂ ਵੇਖ ਰਿਹਾ ਹੋਵਾਂ, ਉਹ ਇੱਕ ਸ਼ੱਕੀ ਹਮਲਾਵਰ ਸਾਇਟ ਹੋਵੇ">
+<!ENTITY  tellMaybeAttackSite.accesskey "k">
+
+<!ENTITY  tellMaybeForgery.label     "ਮੈਨੂੰ ਜਾਣਕਾਰੀ ਦਿਓ, ਜੇਕਰ ਮੇਰੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਸਾਇਟ ਇੱਕ ਸ਼ੱਕੀ ਜ਼ਾਲ੍ਹਸਾਜ਼ੀ ਹੋਵੇ">
+<!ENTITY  tellMaybeForgery.accesskey "T">
+
+<!-- LOCALIZATION NOTE (askThirdParty.label):
+  The entities askThirdParty.label and askThirdPartyAfter.label appear on a
+  single line in preferences as follows:
+
+  &askThirdParty.label  [ menulist of phishing list providers ]   &askThirdPartyAfter.label;
+-->
+
+<!ENTITY  addonExceptions.label         "ਛੋਟ...">
+<!ENTITY  addonExceptions.accesskey     "E">
+
+
+<!ENTITY  passwords.label               "ਪਾਸਵਰਡ">
+
+<!ENTITY  rememberPasswords.label       "ਸਾਇਟਾਂ ਲਈ ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
+<!ENTITY  rememberPasswords.accesskey   "R">
+<!ENTITY  passwordExceptions.label      "ਛੋਟ...">
+<!ENTITY  passwordExceptions.accesskey  "x">
+
+<!ENTITY  useMasterPassword.label        "ਇੱਕ ਮਾਸਟਰ ਪਾਸਵਰਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ">
+<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  changeMasterPassword.label     "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਦਲੋ...">
+<!ENTITY  changeMasterPassword.accesskey "M">
+
+<!ENTITY  savedPasswords.label            "ਸੰਭਾਲੇ ਪਾਸਵਰਡ…">
+<!ENTITY  savedPasswords.accesskey        "P">
+
+
+<!ENTITY  warnings.label                "ਚੇਤਾਵਨੀ ਸੁਨੇਹੇ">
+
+<!ENTITY  chooseWarnings.label          "ਚੋਣ ਕਰੋ ਕਿ ਵੈੱਬ ਦੀ ਝਲਕ ਵੇਖਣ ਦੌਰਾਨ ਤੁਸੀਂ ਕਿਹੜੇ ਚੇਤਾਵਨੀ ਸੁਨੇਹੇ ਵੇਖਣੇ ਚਾਹੁੰਦੇ ਹੋ">
+
+<!ENTITY  warningSettings.label         "ਸੈਟਿੰਗ...">
+<!ENTITY  warningSettings.accesskey     "S">

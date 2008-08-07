@@ -1,0 +1,58 @@
+<!--
+The contents of this file are subject to the Netscape Public
+License Version 1.1 (the "License"); you may not use this file
+except in compliance with the License. You may obtain a copy of
+the License at http://www.mozilla.org/NPL/
+
+Software distributed under the License is distributed on an "AS
+IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+implied. See the License for the specific language governing
+rights and limitations under the License.
+
+The Original Code is Mozilla Communicator client code, released
+March 31, 1998.
+
+The Initial Developer of the Original Code is Netscape
+Communications Corporation. Portions created by Netscape are
+ Copyright (C) 1998-1999 Netscape Communications Corporation. All
+Rights Reserved.
+--> 
+
+<!ENTITY toField.label "ਵੱਲ: ">
+<!ENTITY fromField.label "ਵੱਲੋਂ: ">
+<!ENTITY senderField.label "ਭੇਜਣ ਵਾਲਾ: ">
+<!ENTITY organizationField.label "ਸੰਸਥਾ: ">
+<!ENTITY replyToField.label "ਜਵਾਬ: ">
+
+<!ENTITY subjectField.label "ਵਿਸ਼ਾ: ">
+<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
+<!ENTITY ccField.label "Cc: ">
+<!ENTITY bccField.label "Bcc: ">
+<!ENTITY newsgroupsField.label "ਖ਼ਬਰ-ਸਮੂਹ: ">
+<!ENTITY followupToField.label "ਇੱਥੋ ਤੱਕ ਜਾਓ: ">
+<!ENTITY tagsHdr.label "ਟੈਗ: ">
+
+<!ENTITY dateField.label "ਮਿਤੀ: ">
+<!ENTITY userAgentField.label "ਉਪਭੋਗੀ-ਏਜੰਟ: ">
+<!ENTITY originalWebsite.label "ਵੈੱਬ-ਸਾਇਟ: ">
+<!ENTITY saveAll.label "ਸਭ ਸੰਭਾਲੋ..">
+
+<!ENTITY editMessage.label "ਡਰਾਫਟ ਸੋਧ...">
+
+<!ENTITY openAttachmentCmd.label    "ਖੋਲ੍ਹੋ">  
+<!ENTITY openAttachmentCmd.accesskey		"O">  
+<!ENTITY saveAsAttachmentCmd.label    "ਇੰਜ ਸੰਭਾਲੋ...">  
+<!ENTITY saveAsAttachmentCmd.accesskey		"A"> 
+<!ENTITY printAttachmentCmd.label    ".ਛਾਪੋ">  
+<!ENTITY printAttachmentCmd.accesskey		"P">  
+<!ENTITY detachAttachmentCmd.label    "ਲਾਹ ਦਿਓ...">  
+<!ENTITY deleteAttachmentCmd.label    "ਹਟਾਓ">  
+<!ENTITY saveAllAttachmentsCmd.label    "ਸਭ ਸੰਭਾਲੋ...">
+<!ENTITY saveAllAttachmentsCmd.accesskey	"S">
+<!ENTITY detachAllAttachmentsCmd.label    "ਸਭ ਲਾਹ ਦਿਓ...">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">  
+<!ENTITY deleteAllAttachmentsCmd.label    "ਸਭ ਹਟਾਓ...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
+
+<!ENTITY copyLinkCmd.label        "ਸੰਬੰਧ ਟਿਕਾਣੇ ਦੀ ਨਕਲ">  
+<!ENTITY copyLinkCmd.accesskey		"C">  

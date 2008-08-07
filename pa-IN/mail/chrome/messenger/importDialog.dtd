@@ -1,0 +1,55 @@
+<!--
+The contents of this file are subject to the Netscape Public
+License Version 1.1 (the "License"); you may not use this file
+except in compliance with the License. You may obtain a copy of
+the License at http://www.mozilla.org/NPL/
+
+Software distributed under the License is distributed on an "AS
+IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+implied. See the License for the specific language governing
+rights and limitations under the License.
+
+The Original Code is Mozilla Communicator client code, released
+March 31, 1998.
+
+The Initial Developer of the Original Code is Netscape
+Communications Corporation. Portions created by Netscape are
+Copyright (C) 2001 Netscape Communications Corporation. All
+Rights Reserved.
+
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of Netscape Communicator,
+	Please translate using the brandname in respective languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurances of the word "&brandShortName;" below.
+--> 
+
+<!ENTITY importDialog.windowTitle "ਆਯਾਤ">
+<!ENTITY importDialog.mailTitle   "ਪੱਤਰ">
+<!ENTITY importDialog.addressbookTitle "ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ">
+<!ENTITY importDialog.settingsTitle "ਵਿਵਸਥਾ">
+
+<!ENTITY importTitle.label        "&brandShortName; ਪੱਤਰ ਆਯਾਤ ਸਹਾਇਕ">
+<!ENTITY importDesc.label         "ਹੋਰ ਪ੍ਰੋਗਰਾਮਾਂ ਤੋਂ ਪੱਤਰ, ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਅਤੇ ਵਿਵਸਥਾ ਆਯਾਤ ਕਰ ਸਕਦੇ ਹੋ">
+
+<!ENTITY importDescription.label  "ਇਹ ਸਹਾਇਕ ਹੋਰ ਪੱਤਰ ਪ੍ਰੋਗਰਾਮਾਂ ਅਤੇ ਆਮ ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਫਾਰਮਿਟਾਂ ਤੋਂ ਪੱਤਰ ਸੁਨੇਹੇ, ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਇੰਦਰਾਜ਼, ਅਤੇ/ਜਾਂ ਪਸੰਦ &brandShortName; ਦੇ ਪੱਤਰ ਵਿੱਚ ਆਯਾਤ ਕਰ ਸਕਦਾ ਹੈ।">
+<!ENTITY importDescription2.label "ਇੱਕ ਵਾਰ ਆਯਾਤ ਕਰਨ ਉਪਰੰਤ, ਤੁਸੀਂ ਇਹਨਾਂ ਨੂੰ &brandShortName; ਦੀ ਪੱਤਰ ਅਤੇ/ਜਾਂ ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਵਿੱਚ ਇਸਤੇਮਾਲ ਕਰ ਸਕਦੇ ਹੋ।">
+
+<!ENTITY selectDescription.label  "ਕਿਰਪਾ ਕਰਕੇ  ਪ੍ਰੋਗਰਾਮ, ਜਿਸ ਤੋਂ ਤੁਸੀਂ ਆਯਾਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਦੀ ਚੋਣ ਕਰੋ:">
+
+<!ENTITY back.label               "&lt; ਪਿੱਛੇ">
+<!ENTITY forward.label            "ਅੱਗੇ &gt;">
+<!ENTITY finish.label             "ਮੁਕੰਮਲ">
+<!ENTITY cancel.label             "ਰੱਦ ਕਰੋ">
+
+<!ENTITY select.label             "ਆਯਾਤ ਕਰਨ ਲਈ ਇਕਾਈ ਦੀ ਕਿਸਮ ਚੁਣੋ:">
+
+<!ENTITY title.label              "ਸਿਰਲੇਖ">
+<!ENTITY processing.label         "ਆਯਾਤ ਕੀਤਾ ਜਾਦਾ ਹੈ...">
+
+<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x ਕੋਲ ਹਰ ਪੱਤਰ ਸੂਚੀ ਲਈ ਇੱਕ ਕਾਰਡ ਹੈ, ਜਦ ਕਿ &brandShortName; ਕੋਲ ਹਰੇਕ ਲਈ ਦੋ (ਘਰ ਤੇ ਕੰਮ) ਹਨ।">
+<!ENTITY FieldDiscInputText2.label  "ਆਯਾਤ ਕੀਤੇ ਪੱਤਰ ਸਿਰਨਾਵੇਂ ਸੰਭਾਲਣ ਲਈ ਵਰਗ ਦੀ ਚੋਣ ਕਰੋ:">
+<!ENTITY FieldDiscWarning.label  "ਇਸ ਵਰਗ ਨੂੰ ਚੁਣੀ ਸਿਰਨਾਵਾਂ ਕਿਤਾਬ ਦੇ ਸਭ ਇੰਦਰਾਜ਼ਾਂ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾਵੇਗਾ: ">
+<!ENTITY importDialog.homeTitle  "ਘਰ">
+<!ENTITY importDialog.workTitle  "ਕੰਮ">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">

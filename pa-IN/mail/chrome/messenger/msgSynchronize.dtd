@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "ਸੁਨੇਹੇ ਡਾਊਨਲੋਡ ਤੇ ਸਮਕਾਲੀ ਕਰੋ">
+<!ENTITY MsgSelect.label "ਆਫਲਾਇਨ ਵਰਤਨ ਲਈ ਵਿਵਸਥਾ">
+<!ENTITY MsgSyncDesc.label "ਜੇਕਰ ਤੁਸੀਂ ਆਫਲਾਇਨ ਇਸਤੇਮਾਲ ਕਰਨ ਲਈ ਪੱਤਰ ਫੋਲਡਰ ਜਾਂ ਖ਼ਬਰ-ਸਮੂਹ ਚੁਣ ਲਏ ਹਨ ਤਾਂ ਤੁਸੀਂ ਇਹਨਾਂ ਹੁਣ ਡਾਊਨਲੋਡ ਅਤੇ/ਜਾਂ ਸਮਕਾਲੀ ਕਰ ਸਕਦੇ ਹੋ। ਨਹੀਂ ਤਾਂ ਆਫਲਾਇਨ ਇਸਤੇਮਾਲ ਕਰਨ ਲਈ ਪੱਤਰ ਫੋਲਡਰ ਅਤੇ ਖ਼ਬਰ-ਸਮੂਹ ਵਿੱਚ ਫੋਲਡਰ ਚੁਣਨ ਲਈ &quot;ਚੁਣੋ&quot; ਬਟਨ ਦਬਾਉ।">
+<!ENTITY MsgSyncDirections.label "ਹੇਠ ਦਿੱਤੇ ਡਾਊਨਲੋਡ ਅਤੇ/ਜਾਂ ਸਮਕਾਲੀ ਕਰੋ:">
+<!ENTITY syncTypeMail.label "ਪੱਤਰ ਸੁਨੇਹੇ">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "ਖ਼ਬਰ-ਸਮੂਹ ਸੁਨੇਹੇ">
+<!ENTITY syncTypeNews.accesskey "N">
+<!ENTITY sendMessage.label "ਨਾ-ਭੇਜੇ ਸੁਨੇਹੇ ਭੇਜੋ">
+<!ENTITY sendMessage.accesskey "S">
+<!ENTITY workOffline.label "ਇੱਕ ਵਾਰ ਡਾਊਨਲੋਡ ਅਤੇ/ਜਾਂ ਸਮਕਾਲੀ ਹੋਣ ਉਪਰੰਤ ਆਫਲਾਇਨ ਕੰਮ ਕਰੋ">
+<!ENTITY workOffline.accesskey "W">
+<!ENTITY selectButton.label "ਚੁਣੋ...">
+<!ENTITY selectButton.accesskey "E">
+<!ENTITY MsgSelectDesc.label "ਆਫਲਾਇਨ ਇਸਤੇਮਾਲ ਕਰਨ ਲਈ ਪੱਤਰ ਫੋਲਡਰ ਤੇ ਖ਼ਬਰ-ਸਮੂਹਾਂ ਦੀ ਚੋਣ ਕਰੋ।">
+<!ENTITY MsgSelectInd.label "ਡਾਊਨਲੋਡ">
+<!ENTITY MsgSelectItems.label "ਫੋਲਡਰ ਅਤੇ ਖ਼ਬਰ-ਸਮੂਹ">

@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label   "ਕੋਈ ਗੁਣ ਸੈੱਟ ਨਹੀਂ">
+
+<!ENTITY caption.label         "ਆਈਟਮ ਗੁਣ">
+<!ENTITY image-sec.label       "ਚਿੱਤਰ ਗੁਣ">
+<!ENTITY image-url.label       "ਟਿਕਾਣਾ:">
+<!ENTITY image-type.label      "Type:">
+<!ENTITY image-desc.label      "ਵੇਰਵਾ:">
+<!ENTITY image-alt.label       "ਬਦਲਵਾਂ ਟੈਕਸਟ:">
+<!ENTITY image-size.label      "ਚਿੱਤਰ ਮਾਪ:">
+<!ENTITY image-filesize.label  "ਫਾਇਲ ਦਾ ਸਾਈਜ਼:">
+<!ENTITY insdel-sec.label      "ਗੁਣ ਸ਼ਾਮਿਲ/ਹਟਾਓ">
+<!ENTITY insdel-cite.label     "ਜਾਣਕਾਰੀ:">
+<!ENTITY insdel-date.label     "ਮਿਤੀ:">
+<!ENTITY link-sec.label        "ਲਿੰਕ ਗੁਣ">
+<!ENTITY link-url.label        "ਐਡਰੈੱਸ:">
+<!ENTITY link-target.label     "ਇਸ ਨਾਲ ਖੋਲੇਗਾ:">
+<!ENTITY link-type.label       "ਨਿਯਤ ਕਿਸਮ:">
+<!ENTITY link-lang.label       "ਨਿਯਤ ਭਾਸ਼ਾ:">
+<!ENTITY link-rel.label        "ਲਿੰਕ:">
+<!ENTITY link-rev.label        "ਰੀਵਰਸ ਲਿੰਕ:">
+<!ENTITY link-ping.label       "ਨੋਟੀਫਾਈ ਕੀਤਾ ਜਾਵੇਗਾ:">
+<!ENTITY misc-sec.label        "ਫੁਟਕਲ ਗੁਣ">
+<!ENTITY misc-lang.label       "ਟੈਕਸਟ ਭਾਸ਼ਾ:">
+<!ENTITY misc-title.label      "ਟਾਇਟਲ:">
+<!ENTITY misc-tblsummary.label "ਟੇਬਲ ਸੰਖੇਪ:">
+<!ENTITY quote-sec.label       "ਹਵਾਲਾ ਗੁਣ">
+<!ENTITY quote-cite.label      "ਜਾਣਕਾਰੀ:">

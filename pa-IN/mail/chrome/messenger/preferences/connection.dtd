@@ -1,0 +1,40 @@
+<!ENTITY  connectionsDialog.title       "ਕੁਨੈਕਸ਼ਨ ਸੈਟਿੰਗ">
+<!ENTITY  window.width                   "37em">
+
+<!ENTITY  proxyTitle.label              "ਇੰਟਰਨੈਟ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਪਰਾਕਸੀ ਦੀ ਸੰਰਚਨਾ">
+<!ENTITY  directTypeRadio.label         "ਇੰਟਰਨੈਟ ਨਾਲ ਸਿੱਧਾ ਕੁਨੈਕਸ਼ਨ">
+<!ENTITY  directTypeRadio.accesskey     "d">
+<!ENTITY  WPADTypeRadio.label           "ਇਸ ਨੈਟਵਰਕ ਲਈ ਪਰਾਕਸੀ ਸੈਟਿੰਗ ਦੀ ਸਵੈ-ਚਾਲਿਤ ਜਾਂਚ">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "ਦਸਤੀ ਪਰਾਕਲੀ ਸੈਟਿੰਗ:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "ਸਵੈ-ਚਾਲਿਤ ਪਰਾਕਸੀ ਸੰਰਚਨਾ URL:">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "ਮੁੜ-ਲੋਡ">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  ftp.label                     "FTP ਪਰਾਕਸੀ:">
+<!ENTITY  ftp.accesskey                 "f">
+<!ENTITY  gopher.label                  "Gopher ਪਰਾਕਸੀ:">
+<!ENTITY  gopher.accesskey              "g">
+<!ENTITY  http.label                    "HTTP ਪਰਾਕਸੀ:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL ਪਰਾਕਸੀ:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS ਮੇਜ਼ਬਾਨ:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "ਪੋਰਟ:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "ਕੋਈ ਪਰਾਕਸੀ ਨਹੀਂ:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "ਉਦਾਹਰਨ: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "ਸਭ ਪ੍ਰੋਟੋਕਾਲਾਂ ਲਈ ਇਹ ਪਰਾਕਸੀ ਸਰਵਰ ਹੀ ਵਰਤੋਂ">
+<!ENTITY  shareproxy.accesskey          "x">

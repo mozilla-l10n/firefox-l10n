@@ -1,0 +1,53 @@
+<!ENTITY minimizeWindow.key "m" >
+<!ENTITY minimizeWindow.label "ਨਿਊਨਤਮ" >
+<!ENTITY bringAllToFront.label "ਸਭ ਤੋਂ ਅੱਗੇ ਲਿਆਓ" >
+<!ENTITY zoomWindow.label "ਜ਼ੂਮ" >
+<!ENTITY windowMenu.label "ਵਿੰਡੋ" >
+
+<!ENTITY helpMenu.label "ਮੱਦਦ" >
+<!ENTITY helpMenu.accesskey "c" >
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label	  "ਮੱਦਦ" >
+<!ENTITY helpMenuWin.accesskey	  "c" >
+<!ENTITY aboutCmd.label           "&brandFullName; ਦੇ ਬਾਰੇ">
+<!ENTITY aboutCmd.accesskey       "m">
+<!ENTITY helpContents.label       "ਮੱਦਦ ਸਮੱਗਰੀ">
+<!ENTITY helpContents.accesskey   "p">
+<!ENTITY helpContentsMac.label    "&brandShortName; - ਮੱਦਦ">
+<!ENTITY helpForIEUsers.label     "Internet Explorer ਯੂਜ਼ਰਾਂ ਲਈ">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey      "VK_F1">
+<!ENTITY openHelpMac.commandkey   "VK_HELP">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey           "/">
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
+
+<!ENTITY helpReleaseNotes.label         "ਰੀਲਿਜ਼ ਨੋਟਿਸ">
+<!ENTITY helpReleaseNotes.accesskey     "N">
+<!ENTITY updateCmd.label                "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ...">
+<!ENTITY updateCmd.accesskey            "o">
+
+<!ENTITY preferencesCmdMac.label        "ਮੇਰੀ ਪਸੰਦ...">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+
+<!ENTITY servicesMenuMac.label          "ਸਰਵਿਸਾਂ">
+
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; ਓਹਲੇ">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label      "ਹੋਰ ਓਹਲੇ">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label        "ਸਭ ਵੇਖੋ">
+

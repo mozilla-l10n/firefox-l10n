@@ -1,0 +1,23 @@
+<!ENTITY securityTitle.label "ਸੁਰੱਖਿਆ">
+<!ENTITY securityHeading.label "ਦਸਤਖਤੀ ਤੇ ਇਕਰਿਪਟ ਸੁਨੇਹੇ ਭੇਜਣ ਤੇ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਦੋਵੇਂ ਡਿਜ਼ੀਟਲ ਦਸਤਖਤੀ ਸਰਟੀਫਿਕੇਟ ਤੇ ਇਕਰਿਪਸ਼ਨ ਸਰਟੀਫਿਕੇਟ ਨਿਰਧਾਰਿਤ ਕਰਨੇ ਪੈਣਗੇ।">
+<!ENTITY encryptionGroupTitle.label "ਇਕਰਿਪਸ਼ਨ">
+<!ENTITY encryptionChoiceLabel.label "ਜਦੋਂ ਸੁਨੇਹੇ ਭੇਜਣੇ ਹੋਣ ਤਾਂ ਮੂਲ ਇਕਰਿਪਸ਼ਨ ਵਰਤੋਂ:">
+<!ENTITY neverEncrypt.label "ਕਦੇ ਨਹੀਂ (ਇਕਰਿਪਸ਼ਨ ਨਾ ਇਸਤੇਮਾਲ ਕਰੋ)">
+<!ENTITY alwaysEncryptMessage.label "ਬੇਨਤੀ ਤੇ ਹੀ (ਸੁਨੇਹਾ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਜਦ ਤੱਕ ਕਿ ਪਰਾਪਤ ਕਰਨ ਵਾਲਿਆਂ ਕੋਲ ਸਰਟੀਫਿਕੇਟ ਨਾ ਹੋਵੇ)">
+<!ENTITY encryptionCert.message "ਇਸ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਤੁਹਾਡੇ ਰਾਹੀਂ ਭੇਜੇ ਜਾਣ ਵਾਲੇ ਸੁਨੇਹੇ ਨੂੰ ਇਕ੍ਰਿਪਸ਼ਨ &amp; ਡਿਸਕਰਪਿਟ ਕਰਨ ਲਈ ਇਸਤੇਮਾਲ ਕਰੋ:">
+<!ENTITY encryptionCert.notselected "ਕੋਈ ਸਰਟੀਫਿਕੇਟ ਸਮੂਹ ਨਹੀਂ">
+<!ENTITY certificate.button "ਚੁਣੋ...">
+<!ENTITY certificate_clear.button "ਸਾਫ ਕਰੋ">
+<!ENTITY signingGroupTitle.label "ਡਿਜ਼ੀਟਲ ਦਸਤਖਤੀ">
+<!ENTITY signMessage.label "ਡਿਜ਼ੀਟਲ ਦਸਤਖਤ ਸੁਨੇਹਾ (ਮੂਲ ਹੀ)">
+<!ENTITY signingCert.message "ਇਸ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਤੁਹਾਡੇ ਰਾਹੀਂ ਭੇਜੇ ਜਾਣ ਵਾਲੇ ਸੁਨੇਹੇ ਨੂੰ ਡਿਜ਼ੀਟਲ ਦਸਤਖਤਾਂ ਲਈ ਇਸਤੇਮਾਲ ਕਰੋ:">
+<!ENTITY signingCert.notselected "ਕੋਈ ਸਰਟੀਫਿਕੇਟ ਸਮੂਹ ਨਹੀਂ">
+
+<!-- used by overloaded pref-smime-advanced overlay --> 
+
+<!-- Certs -->
+<!ENTITY  certificates.label           "ਸਰਟੀਫਿਕੇਟ">
+<!ENTITY managecerts.label     "ਸਰਟੀਫਿਕੇਟ ਵੇਖਾਓ">
+<!ENTITY managecerts.accesskey  "V">
+<!ENTITY managedevices.label   "ਸੁਰੱਖਿਆ ਜੰਤਰ ਵੇਖਾਓ">
+<!ENTITY managedevices.accesskey "S">

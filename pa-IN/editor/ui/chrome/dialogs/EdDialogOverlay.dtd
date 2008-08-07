@@ -1,0 +1,36 @@
+<!--
+   - The contents of this file are subject to the Netscape Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/NPL/
+   -  
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   -  
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   - 
+   - The Initial Developer of the Original Code is Netscape
+   - Communications Corporation. Portions created by Netscape are
+   - Copyright (C) 1998-2000 Netscape Communications Corporation. All
+   - Rights Reserved.
+   - 
+   - Contributor(s): 
+  -->
+
+<!ENTITY AdvancedEditButton.label "ਤਕਨੀਕੀ ਸੋਧ...">
+<!ENTITY AdvancedEditButton.accessKey "E">
+<!ENTITY AdvancedEditButton.tooltip "HTML ਗੁਣ, ਸਟਾਈਲ ਅਤੇ JavaScript ਸ਼ਾਮਿਲ ਜਾਂ ਸੋਧ">
+<!ENTITY chooseFileButton.label "ਫਾਇਲ ਚੁਣੋ...">
+<!ENTITY chooseFileButton.accessKey "F">
+<!ENTITY chooseFileLinkButton.label "ਫਾਇਲ ਚੁਣੋ...">
+<!ENTITY chooseFileLinkButton.accessKey "o">
+<!ENTITY makeUrlRelative.label "URL ਸਫਾ ਸਥਿਤੀ ਦੇ ਅਨੁਸਾਰੀ ਹੈ">
+<!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.tooltip "ਅਨੁਸਾਰੀ ਤੇ ਅਸਲੀ URL ਵਿੱਚ ਤਬਦੀਲ। ਤੁਹਾਨੂੰ ਸਫੇ ਨੂੰ ਇਹ ਕਰਨ ਲਈ ਪਹਿਲਾਂ ਸੰਭਾਲਣਾ ਚਾਹੀਦਾ ਹੈ।">
+
+<!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField.label "ਇੱਕ ਵੈੱਬ ਸਫੇ ਦੀ ਸਥਿਤੀ ਦਿਓ, ਇੱਕ ਲੋਕਲ ਫਾਇਲ , ਜਾਂ ਪੋਪ-ਅੱਪ ਲਿਸਟ ਵਿੱਚੋਂ ਇੱਕ ਐਂਕਰ (Anchor) ਜਾਂ ਹੈੱਡਰ ਦਿਓ:">
+<!ENTITY LinkURLEditField.accessKey "L">

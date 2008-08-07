@@ -1,0 +1,21 @@
+<!ENTITY pluginWizard.title                                  "ਪਲੱਗਇਨ ਖੋਜ ਸਰਵਿਸ">
+<!ENTITY pluginWizard.firstPage.title                        "&pluginWizard.title; ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ਉਪਲੱਬਧ ਪਲੱਗਇਨ ਲਈ ਚੈੱਕ ਕਰ ਰਿਹਾ ਹੈ...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "ਉਪਲੱਬਧ ਪਲੱਗਇਨ ਡਾਊਨਲੋਡ">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "ਹੇਠ ਦਿੱਤੀਆਂ ਪਲੱਗਇਨ ਉਪਲੱਬਧ ਹਨ:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "ਇਹਨਾਂ ਪਲੱਗਇਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਅੱਗੇ ਬਟਨ ਦਬਾਉ">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "ਕੁਝ ਪਲੱਗਇਨ ਨੂੰ ਇੰਸਟਾਲੇਸ਼ਨ ਦੌਰਾਨ ਤੁਹਾਡੇ ਕੋਲੋਂ ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਲੋੜੀਦੀ ਹੈ।">
+
+<!ENTITY pluginWizard.licensePage.title                      "ਪਲੱਗਇਨ ਲਾਇਸੈਂਸ">
+<!ENTITY pluginWizard.licensePage.accept.label               "ਮੈਂ ਸਹਿਮਤ ਹਾਂ">
+<!ENTITY pluginWizard.licensePage.deny.label                 "ਮੈਂ ਸਹਿਮਤ ਨਹੀਂ ਹਾਂ (ਪਲੱਗਇਨ ਇੰਸਟਾਲ ਨਹੀਂ ਹੋਵੇਗੀ)।">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "ਪਲੱਗਇਨ ਇੰਸਟਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; ਪਲੱਗਇਨ ਇੰਸਟਾਲ ਕਰ ਰਿਹਾ ਹੈ...">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; ਨੇ ਗੁੰਮ ਪਲੱਗਇਨ ਦਾ ਇੰਸਟਾਲੇਸ਼ਨ ਮੁਕੰਮਲ ਕਰ ਲਈ ਹੈ:">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "ਪਲੱਗਇਨ ਬਾਰੇ ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰੋ ਜਾਂ ਗੁੰਮ ਪਲੱਗਇਨ ਖੁਦ ਖੋਜੋ।">
+<!ENTITY pluginWizard.finalPage.restart.label               "&brandShortName; ਨੂੰ ਇਸ ਪਲੱਗਇਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਮੁੜ ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।">
+<!ENTITY missingPlugin.label                                 "ਪਲੱਗਇਨ ਡਾਊਨਲੋਡ ਕਰਨ ਵਾਸਤੇ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ।">

@@ -1,0 +1,53 @@
+<!ENTITY window.title "ਫਿਲਟਰ ਨਿਯਮ">
+<!ENTITY subject.label "ਵਿਸ਼ਾ">
+<!ENTITY sender.label "ਭੇਜਣ ਵਾਲਾ">
+<!ENTITY date.label "ਮਿਤੀ">
+<!ENTITY anyText.label "ਕੋਈ ਪਾਠ">
+<!ENTITY keyword.label "ਸ਼ਬਦ">
+<!ENTITY age.label "ਦਿਨ">
+<!ENTITY to.label "ਵੱਲ">
+
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "ਹਾਲਤ">
+<!ENTITY priority.label "ਤਰਜੀਹ">
+<!ENTITY body.label "ਮੁੱਖ ਭਾਗ">
+<!ENTITY contains.label "ਸ਼ਾਮਲ">
+<!ENTITY nocontains.label "ਸ਼ਾਮਲ ਨਹੀ">
+<!ENTITY filterName.label "ਫਿਲਟਰ ਨਾਂ:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "ਕੂੜਾ">
+<!ENTITY notJunk.label "ਕੂੜਾ ਨਹੀਂ">
+
+<!ENTITY lowestPriorityCmd.label "ਨਿਊਨਤਮ">
+<!ENTITY lowPriorityCmd.label "ਘੱਟ">
+<!ENTITY normalPriorityCmd.label "ਸਧਾਰਨ">
+<!ENTITY highPriorityCmd.label "ਜਿਆਦਾ">
+<!ENTITY highestPriorityCmd.label "ਉੱਚਤਮ">
+
+<!ENTITY conditionDesc.label "ਆਉਣ ਵਾਲੇ ਸੁਨੇਹਿਆਂ ਲਈ, ਜੋ ਕਿ:">
+<!ENTITY filterActionDesc.label "ਇਹ ਕਾਰਵਾਈ ਕਰੋ:">
+<!ENTITY filterActionDesc.accesskey "P">
+
+<!ENTITY newFolderButton.label "ਨਵਾਂ ਫੋਲਡਰ...">
+<!ENTITY newFolderButton.accesskey "N">
+  
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "ਸੁਨੇਹਾ ਭੇਜੋ">
+<!ENTITY copyMessage.label "ਸੁਨੇਹਾ ਨਕਲ">
+<!ENTITY forwardTo.label "ਸੁਨੇਹਾ ਅੱਗੇ ਭੇਜੋ">
+<!ENTITY replyWithTemplate.label "ਨਮੂਨੇ ਨਾਲ ਜਵਾਬ">
+<!ENTITY markMessageRead.label "ਪੜਿਆ ਬਣਾਓ">
+<!ENTITY markMessageStarred.label "Add Star">
+<!ENTITY labelMessage.label "ਸੁਨੇਹੇ ਨੂੰ ਲੇਬਲ ਲਗਾਓ">
+<!ENTITY setPriority.label "ਤਰਜੀਹ ਦਿਓ">
+<!ENTITY addTag.label "Tag Message">
+<!ENTITY setJunkScore.label "ਕੂੜਾ ਹਾਲਤ ਦਿਓ">
+<!ENTITY deleteMessage.label "ਸੁਨੇਹਾ ਹਟਾਓ">
+<!ENTITY deleteFromPOP.label "POP ਸਰਵਰ ਤੋਂ ਹਟਾਓ">
+<!ENTITY fetchFromPOP.label "POP ਸਰਵਰ ਤੋਂ ਲਵੋ">
+<!ENTITY ignoreThread.label "ਮਾਮਲਾ ਅਣਡਿੱਠਾ">
+<!ENTITY watchThread.label "ਮਾਮਲਾ ਵੇਖੋ">
+<!ENTITY stopExecution.label "Stop Filter Execution">

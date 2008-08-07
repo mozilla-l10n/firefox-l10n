@@ -1,0 +1,56 @@
+<!--
+   - The contents of this file are subject to the Netscape Public
+   - License Version 1.1 (the "License"); you may not use this file
+   - except in compliance with the License. You may obtain a copy of
+   - the License at http://www.mozilla.org/NPL/
+   -  
+   - Software distributed under the License is distributed on an "AS
+   - IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
+   - implied. See the License for the specific language governing
+   - rights and limitations under the License.
+   -  
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   - 
+   - The Initial Developer of the Original Code is Netscape
+   - Communications Corporation. Portions created by Netscape are
+   - Copyright (C) 1998-1999 Netscape Communications Corporation. All
+   - Rights Reserved.
+   - 
+   - Contributor(s): 
+  -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ">
+
+<!ENTITY misspelledWord.label "ਗਲਤ ਸ਼ਬਦ:">
+<!ENTITY wordEditField.label "ਇਸ ਨਾਲ ਤਬਦੀਲ:">
+<!ENTITY wordEditField.accessKey "w">
+<!ENTITY checkwordButton.label "ਸ਼ਬਦ ਜਾਂਚ">
+<!ENTITY checkwordButton.accessKey "k">
+<!ENTITY suggestions.label "ਸੁਝਾਅ:">
+<!ENTITY suggestions.accessKey "u">
+<!ENTITY ignoreButton.label "ਅਣਡਿੱਠਾ">
+<!ENTITY ignoreButton.accessKey "I">
+<!ENTITY ignoreAllButton.label "ਸਭ ਅਣਡਿੱਠੇ">
+<!ENTITY ignoreAllButton.accessKey "n">
+<!ENTITY replaceButton.label "ਤਬਦੀਲ">
+<!ENTITY replaceButton.accessKey "R">
+<!ENTITY replaceAllButton.label "ਸਭ ਤਬਦੀਲ">
+<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY stopButton.label "ਰੋਕੋ">
+<!ENTITY stopButton.accessKey "t">
+<!ENTITY userDictionary.label "ਨਿੱਜੀ ਸ਼ਬਦ-ਕੋਸ਼:">
+<!ENTITY moreDictionaries.label "ਹੋਰ ਡਾਊਨਲੋਡ ਕਰੋ">
+<!ENTITY addToUserDictionaryButton.label "ਸ਼ਬਦ ਸ਼ਾਮਿਲ">
+<!ENTITY addToUserDictionaryButton.accessKey "d">
+<!ENTITY editUserDictionaryButton.label "ਸੋਧ...">
+<!ENTITY editUserDictionaryButton.accessKey "E">
+<!ENTITY recheckButton.label "ਸਫਾ ਮੁੜ-ਜਾਂਚ">
+<!ENTITY recheckButton.accessKey "P">
+<!ENTITY closeButton.label "ਬੰਦ ਕਰੋ">
+<!ENTITY closeButton.accessKey "C">
+<!ENTITY sendButton.label "ਭੇਜੋ">
+<!ENTITY sendButton.accessKey "S">
+<!ENTITY languagePopup.label "ਭਾਸ਼ਾ:">
+<!ENTITY languagePopup.accessKey "L">

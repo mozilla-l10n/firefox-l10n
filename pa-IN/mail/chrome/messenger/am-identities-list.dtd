@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "ਇਸ ਖਾਤੇ ਨਾਲ ਸੰਬੰਧਿਤ ਪਛਾਣ">
+<!ENTITY identitiesListDesc.label "ਬਹੁ-ਪਛਾਣ ਸਹਿਯੋਗ">
+<!ENTITY identitiesListAdd.label  "ਸ਼ਾਮਿਲ...">
+<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListEdit.label "ਸੋਧ...">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "ਹਟਾਓ">
+<!ENTITY identitiesListDelete.accesskey "D">

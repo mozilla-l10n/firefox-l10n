@@ -1,0 +1,56 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "ਖਰਾਬ ਵੈਬਸਾਇਟ ਬਾਰੇ ਰਿਪੋਰਟ">
+
+<!ENTITY privacyNotice.label                        "ਰਹੱਸ ਨੀਤੀ">
+<!ENTITY reportWizardPrivacy.description            "ਇਹ ਟੂਲ ਤੁਹਾਨੂੰ ਜਾਂਚ ਟੀਮ ਨੂੰ ਉਹਨਾਂ ਵੈਬ ਸਾਇਟਾਂ ਬਾਰੇ ਦੱਸਣ ਲਈ ਸਹਾਇਕ ਹੈ, ਜੋ ਕਿ ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਠੀਕ ਤਰਾਂ ਕੰਮ ਨਹੀਂ ਕਰਦੀਆਂ ਹਨ ਜਾਂ ਫਾਇਰਫਾਕਸ ਨੂੰ ਬੰਦ ਕਰ ਦਿੰਦੀਆਂ ਹਨ। ਇਸ ਢੰਗ ਨਾਤ ਤੁਸੀਂ ਫਾਇਰਫਾਕਸ ਯੂਜ਼ਰਾਂ ਲਈ ਸਭ ਤੋਂ ਸੰਭਵ ਤਜਰਬਾ ਸਾਂਝਾ ਕਰ ਸਕਦੇ ਹੋ। ਕਿਰਪਾ ਕਰਕੇ ਹੇਠ ਦਿੱਤੇ ਨੂੰ ਧਿਆਨ ਨਾਲ ਪੜੋ ਤਾਂ ਕਿ ਇਹ ਯਕੀਨੀ ਬਣਾਇਆ ਜਾ ਸਕੇ ਤੁਸੀਂ ਸਾਨੂੰ ਠੀਕ ਢੰਗ ਨਾਲ ਜਾਣਕਾਰੀ ਦੇ ਸਕੋ।">
+<!ENTITY reportWizardMustAgree.description          "ਜਾਰੀ ਰੱਖਣ ਲਈ ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਰਹੱਸ ਨੀਤੀ ਨਾਲ ਸਹਿਮਤ ਹੋਣਾ ਪਵੇਗਾ।">
+
+<!ENTITY dontShowPrivacyStatement.label             "ਮੁੜ ਪਰਾਈਵੇਸੀ ਸਟੇਟਮਿੰਟ ਨਾ ਵੇਖਾਓ">
+<!ENTITY dontShowPrivacyStatement.accesskey         "I">
+
+<!ENTITY reportForm.label                           "ਰਿਪੋਰਟ ਭਰੋ">
+
+<!ENTITY reportForm.description                     "ਜੋ ਸਮੱਸਿਆ ਤੁਹਾਨੂੰ ਆਈ ਹੈ, ਉਸ ਬਾਰੇ ਸਾਨੂੰ ਜਾਣਕਾਰੀ ਦਿਓ:">
+<!ENTITY reportForm.url.title                       "ਵੈਬ ਸਾਇਟ URL:">
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!ENTITY reportForm.behind_login.title              "ਵੈਬ ਸਾਇਟ ਪਾਸਵਰਡ ਨਾਲ ਸੁਰੱਖਿਅਤ ਹੈ"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "P">
+<!ENTITY reportForm.problem_type.title              "ਸਮੱਸਿਆ ਕਿਸਮ:">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "ਕਿਸੇ ਦੀ ਚੋਣ ਕਰੋ...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "ਬਰਾਊਜ਼ਰ ਸਹਾਇਕ ਨਹੀਂ ਹੈ">
+<!ENTITY reportForm.problem_type.item2.title        "ਲਾਗਇਨ ਨਹੀਂ ਹੋ ਸਕਦੇ">
+<!ENTITY reportForm.problem_type.item3.title        "ਪਲੱਗਇਨ ਵਿਖਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ">
+<!ENTITY reportForm.problem_type.item4.title        "ਹੋਰ ਭਾਗ ਗੁੰਮ ਹਨ">
+<!ENTITY reportForm.problem_type.item5.title        "ਰਵੱਈਆ ਗਲਤ ਹੈ">
+<!ENTITY reportForm.problem_type.item6.title        "ਦਿੱਖ ਗਲਤੀ ਹੈ">
+<!ENTITY reportForm.problem_type.item7.title        "ਹੋਰ ਸਮੱਸਿਆ ਹੈ">
+<!ENTITY reportForm.problem_type.item8.title        "ਆਯੋਗਤਾ ਅਸੈੱਸ">
+<!ENTITY reportForm.problem_type.item9.title        "ਪਰਿੰਟ ਆਉਟ ਗਲਤ ਹੈ">
+
+<!ENTITY reportForm.describe.title                  "ਸਮੱਸਿਆ ਵੇਰਵਾ:">
+<!ENTITY reportForm.describe.accesskey              "D">
+<!ENTITY reportForm.platform.title                  "ਪਲੇਟਫਾਰਮ:">
+<!ENTITY reportForm.product.title                   "ਪਰੋਡੱਕਟ:">
+<!ENTITY reportForm.gecko.title                     "ਗੀਕੋ:">
+<!ENTITY reportForm.useragent.title                 "ਯੂਜ਼ਰ ਏਜੰਟ:">
+<!ENTITY reportForm.language.title                  "ਭਾਸ਼ਾ:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "ਈ-ਮੇਲ (ਚੋਣਵਾਂ):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ">
+<!ENTITY reportForm.privacyPolicy.tooltip           "ਪਰਾਈਵੇਸੀ ਪਾਲਸੀ ਵੇਖੋ">
+
+<!ENTITY reportResults.showDetail.title             "ਵੇਰਵਾ ਵੇਖੋ">
+<!ENTITY reportResults.showDetail.accesskey         "S">
+
+<!ENTITY sendReport.label                           "ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ">
+<!ENTITY sendReport.description                     "ਸਰਵਰ ਨੂੰ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ...">
+
+<!ENTITY finish.label                               "ਰਿਪੋਰਟ ਭੇਜੋ">
