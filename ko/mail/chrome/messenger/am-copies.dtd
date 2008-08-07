@@ -1,0 +1,34 @@
+<!-- extracted from am-copies.xul -->
+<!ENTITY copyAndFolderTitle.label "사본과 폴더">
+<!ENTITY sendingPrefix.label "메시지를 보낼 때 자동으로 수행:">
+<!ENTITY fccMailFolder.label "사본 위치:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "답을 보내는 메시지 폴더에 답장 저장하기">
+<!ENTITY fccReplyFollowsParent.accesskey "c">
+<!ENTITY chooseFolderButton.label "폴더 선택…">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "숨은 참조 외 주소:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "특정 폴더">
+<!ENTITY draftMailFolder.label "임시 편지함에 보관:">
+<!ENTITY templateMailFolder.label "템플릿 편지함에 보관:">
+<!ENTITY saveMessageDlg.label "메시지 저장 시 대화 상자 보이기">
+<!ENTITY saveMessageDlg.accesskey "w">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;보낸 편지함&quot;으로:">
+<!ENTITY sentFolderOn.accesskey "S">
+<!ENTITY sentInOtherFolder.label "기타:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;임시 편지함&quot;으로:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "기타:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;템플릿 편지함&quot; 으로:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "기타:">
+<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY specialFoldersTitle.label "임시 편지함 및 템플릿 편지함">
+<!ENTITY keepDrafts.label "임시 편지함에 보관:">
+<!ENTITY keepTempltes.label "템플릿 편지함에 보관:">

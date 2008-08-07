@@ -1,0 +1,17 @@
+<!ENTITY junkSettings.label "스팸 차단 설정">
+<!ENTITY trainingWarning.label "스팸 메일 수신시에 &brandShortName; 프로그램에 스팸 메일로 인식 시키면 자동 학습을 동하여 스팸 메일의 차단 효율을 높일 수 있습니다.">
+<!ENTITY level.label "이 계정에서 지능형 스팸 메일 처리 기능 사용">
+<!ENTITY level.accesskey "E">
+<!ENTITY move.label "새 스팸 메시지 이동:">
+<!ENTITY junkFolderOn.label "&quot;스팸&quot; 폴더:">
+<!ENTITY otherFolder.label "기타:">
+<!ENTITY purge1.label "스팸 메일 자동 삭제">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "일 이전">
+<!ENTITY whitelist.label "다음 메일 주소에 대해서는 스팸 메일 표시하지 않음: ">
+<!ENTITY whitelist.accesskey "D">
+<!ENTITY ispHeaders.label "다음 스팸 메일 헤더는 신뢰함: ">
+<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.accesskey "j">
+<!ENTITY otherFolder.accesskey "o">

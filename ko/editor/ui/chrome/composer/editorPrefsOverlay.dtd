@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+<!ENTITY editorCheck.label "편집기">
+<!ENTITY editorCheck.accesskey "c">
+<!ENTITY compose.label "편집기">
+<!ENTITY editing.label "새 페이지설정">
+<!ENTITY toolbars.label "도구 모음">
+<!ENTITY publish.label "출판">

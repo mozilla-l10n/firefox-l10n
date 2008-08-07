@@ -1,0 +1,8 @@
+<!ENTITY all.label "모든 목록 받기">
+<!ENTITY all.accesskey "D">
+<!ENTITY download.label "받기">
+<!ENTITY download.accesskey "o">
+<!ENTITY headers.label "머릿말">
+<!ENTITY headers.accesskey "h">
+<!ENTITY mark.label "읽은 메시지 표시">
+<!ENTITY mark.accesskey "M">

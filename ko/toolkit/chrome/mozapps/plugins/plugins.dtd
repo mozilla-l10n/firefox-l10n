@@ -1,0 +1,16 @@
+<!ENTITY pluginWizard.title "플러그인 검색 서비스">
+<!ENTITY pluginWizard.firstPage.title "&pluginWizard.title; 사용을 환영합니다.">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName;가 사용 가능한 플러그인을 확인하고 있습니다.">
+<!ENTITY pluginWizard.availablePluginsPage.title "사용 가능한 플러그인">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "다음의 플러그인을 사용할 수 있습니다:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "이 플러그인을 설치하려면 다음을 클릭하십시오.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "일부 플러그인은 설치 중 추가 정보를 요구할 수 있습니다.">
+<!ENTITY pluginWizard.licensePage.title "플러그인 사용 저작권">
+<!ENTITY pluginWizard.licensePage.accept.label "동의함">
+<!ENTITY pluginWizard.licensePage.deny.label "동의하지 않음 (플러그인이 설치되지 않음)">
+<!ENTITY pluginWizard.installPluginsPage.title "플러그인 설치">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName;가 플러그인을 설치하고 있습니다...">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName;가 플러그인 설치를 완료하였습니다.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "연결되지 않는 플러그인 또는 플러그인에 대한 상세 정보 찾기">
+<!ENTITY pluginWizard.finalPage.restart.label "플러그인을 사용하려면 &brandShortName;를 다시 시작해야 합니다.">
+<!ENTITY missingPlugin.label "플러그인을 다운로드 하려면 여기를 선택하십시오.">

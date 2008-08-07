@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+  <!ENTITY % platformDTD SYSTEM
+    "chrome://browser/locale/help/platformStrings.dtd" >
+  %platformDTD;
+]>
+<!--
+Contributors:
+  Mark Pilgrim <pilgrim@gmail.com> (original author)
+  Mark I. Kim <magakim@gmail.com> (Korean translation)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>&brandFullName; 접근성 사양</title>
+<link rel="stylesheet" type="text/css"
+  href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+  <h1>&brandFullName; 접근성 사양</h1>
+
+  <p>&brandShortName;는 브라우저와 웹 페이지 내용이, 약시이거나 전맹 또는
+    키보드나 마우스 사용 능력이 제한적인 사용자를 비롯한, 모든 사용자에게 접근
+    가능토록 하는 많은 사양을 포함하고 있습니다.</p>
+
+  <div class="contentsBox">세부 항목:
+    <ul>
+    <li><a href="#using_a_keyboard">키보드 사용하기</a></li>
+    <li><a href="#using_a_mouse">마우스 사용하기</a></li>
+    <li><a href="#fonts_and_colors">글꼴과 색상</a></li>
+    <li><a href="#controlling_web_content">웹 페이지 내용 제어하기</a></li>
+    <li><a href="#compatibility_with_assistive_technologies">보조 기기 호환성</a></li>
+    <li><a href="#finding_help_online">온라인 도움말 찾기</a></li>
+    </ul>
+  </div>
+
+  <h2 id="using_a_keyboard">키보드 사용하기</h2>
+
+  <h3 id="keyboard_shortcuts">키보드 단축키</h3>
+
+  <p>자주 사용되는 키보드 단축키 목록은 <a href="shortcuts.xhtml">
+    &brandShortName; 키보드 단축키</a>에서 찾아 볼 수 있습니다.
+    온라인에서 &brandShortName;, Microsoft Internet Explorer, 및
+    Opera에서 실행되는 <a target="_blank"
+    href="http://www.mozilla.org/support/firefox/keyboard">키보드 단축키
+    비교 표</a>를 살펴 볼 수 있습니다.</p>
+
+  <h3 id="always_use_cursor_keys">커서 키를 항상 페이지 내에서 사용</h3>
+
+  <p><a href="prefs.xhtml#accessibility">커서 키를 항상 페이지 내에서 사용</a>을
+    통해 마치 읽기전용 편집기 내에 있는 것처럼 웹 페이지 내용 사이를 돌아 다닐
+    수 있습니다. 키보드를 이용하여 웹 페이지 내용을 선택하여 클립보드로 복사할
+    수도 있습니다. 이 기능은 &pref.menuPath; 메뉴를 선택하여, <em>고급</em>
+    설정에서 <em>일반</em> 탭을 열고 <em>커서 키를 항상 페이지 내에서 사용</em>
+    &pref.singular;을 선택하면 활성화 됩니다.</p>
+
+  <p>아무 때나 <kbd>F7</kbd>을 누르면 이 기능을 켜거나 끌 수 있습니다.
+    <kbd>F7</kbd>을 누르면, &brandShortName;는 이 기능을 정말로 켤 것인지를 물어
+    올 것입니다. <em>이 대화 상자를 더 이상 표시하지 않음</em>을 선택하여 더
+    이상 물어보지 않게 할 수도 있습니다.</p>
+
+  <h3 id="find_as_you_type">글자를 입력하면 찾기 시작</h3>
+
+  <p><a href="prefs.xhtml#accessibility">글자를 입력하면 찾기 시작</a>를 통해
+    웹 페이지 내에 있는 텍스트와 하이퍼링크를 신속하게 탐색할 수 있습니다.
+    이 기능에는 두 가지 모드가 있습니다. <abbr title="forward slash">
+    <kbd>/</kbd></abbr>를 누르고 현재 페이지에서 찾고자 하는 텍스트를 입력하기
+    시작하거나, 아니면 <abbr title="apostrophe"><kbd>'</kbd></abbr>를 먼저 누르고
+    텍스트를 입력하여 하이퍼링크만을 검색합니다. &brandShortName;는 검색된
+    텍스트나 하이퍼링크를 강조 표시할 것입니다.</p>
+
+  <p>다음 키보드 단축키로 이 기능을 제어할 수 있습니다:</p>
+
+  <ul>
+    <li>글자를 많이 입력할수록 검색 범위가 좁아집니다. &brandShortName;는
+      처음으로 검색된 하이퍼링크나 텍스트를 강조 표시하거나 검색 결과가 없음을
+      알려 줄 것입니다.</li>
+    <li>&accelKey;+<kbd>G</kbd> 또는 <kbd>F3</kbd>을 누르면 다음 검색 결과를
+      찾습니다.</li>
+    <li>&accelKey;+&shiftKey;+<kbd>G</kbd> 또는 &shiftKey;+<kbd>F3</kbd>을
+      누르면 이전 검색 결과를 찾습니다.</li>
+    <li><kbd>Backspace</kbd>를 누르면 입력한 마지막 글자를 취소합니다.
+      &brandShortName;는 이전에 강조 표시되었던 텍스트로 되돌아 갈 것입니다.</li>
+    <li><kbd>Esc</kbd>를 누르면 검색이 취소됩니다. 또한 포커스를 변경하거나,
+      마우스나 키보드로 해당 페이지를 스크롤 하거나, 또는 단순히 시간초과가
+      일어날 때까지 기다리면 검색이 취소 됩니다.</li>
+  </ul>
+
+  <p>이 기능의 기본 동작 방식을 변경하려면, &pref.menuPath; 메뉴를 선택하여
+    <em>고급</em> 설정에서 <em>일반</em> 탭을 열고 <em>글자를 입력하면 찾기 시작
+    </em> &pref.singular;을 선택합니다. 이 &pref.singular;이 선택되어 있으면, 아무때나
+    글자 입력을 시작하면 페이지 내 검색이 자동적으로 시작됩니다. 기본적으로
+    자동 시작 검색은 해당 페이지 내의 모든 텍스트에 대해 검색합니다.
+    <abbr title="apostrophe"><kbd>'</kbd></abbr> 또는
+    <abbr title="forward slash"><kbd>/</kbd></abbr> 을 눌러 둘 중 한가지
+    모드에서 검색을 시작할 수 있습니다.</p>
+
+  <p>이 기능은 단춘, 텍스트 입력 상자 및 기타 폼 컨트롤을 검색하는데 이용할 수도
+    있습니다. 폼 컨트롤 바로 앞에 있는 텍스트를 검색한 후 <kbd>Tab</kbd>을
+    누릅니다. <kbd>Tab</kbd>을 누르면 자동적으로 검색을 중단하고 검색되어 강조
+    표시되어 있는 텍스트 바로 다음에 있는 폼 필드나 단춘에 포커스가 놓이게
+    됩니다.</p>
+
+  <h2 id="using_a_mouse">마우스 사용하기</h2>
+
+  <h3 id="common_mouse_shortcuts">자주 쓰이는 마우스 단축키</h3>
+
+  <p>자주 쓰이는 마우스 단축키 목록은 <a href="mouse_shortcuts.xhtml">
+  &brandShortName; 마우스 단축키</a>에서 찾아 볼 수 있습니다.</p>
+
+  <h2 id="fonts_and_colors">글꼴과 색상</h2>
+
+  <h3 id="overriding_page_fonts">페이지 글꼴 지정하기</h3>
+
+  <p>일부 웹 사이트는 텍스트를 읽기 어려운 글꼴로 보여주기도 하고, 어떤
+    사이트는 브라우저의 기본 글꼴대로 보여주기도 합니다. 기본 글꼴은
+    &pref.menuPath; 메뉴로 가서, <em>내용</em> 설정을 열고 <em>글꼴 및 색상</em>
+    섹션에서 기본 글꼴과 크기를 선택합니다.</p>
+
+  <p>명조체, 고딕체, 고정폭 글꼴을 포함하여 다른 스타일로 기본 글꼴을 지정하려면,
+    <em>고급</em> 단춘을 클릭합니다. 하지만, 많은 웹 페이지가 각기 자기만의
+    글꼴를 지정하고 있기 때문에, 사용자가 저정한 글꼴이 이런 페이지에서는
+    적용되지 않을 것입니다. 웹 페이지에서 정의된 글꼴을 덮어 씌워 지정하려면
+    <em>웹 페이지 자체 글꼴 사용 허용</em> &pref.singular;을 선택
+    해제합니다.</p>
+
+  <p>일부 웹 페이지는 사용자가 지정한 기본 글꼴 때문에 제대로 보이지 않을
+    수도 있음을 유념해야 합니다.</p>
+
+  <h3 id="setting_a_minimum_font_size">최소 글꼴 크기 지정하기</h3>
+
+  <p>일부 웹 사이트는 텍스트가 너무 작아 잘 읽을 수 없기도 합니다. 이런 페이지를
+    좀더 읽기 쉽게 하려면, 최소 글꼴 크기를 설정합니다. 지정된 글꼴보다 작은
+    크기의 텍스트를 표시하려고 하는 웹 페이지에서, &brandShortName;는 텍스트를
+    사용자가 지정한 크기로 확대하여 표시할 것입니다.</p>
+
+  <p>최소 글끌 크기를 설정하려면, &pref.menuPath; 메뉴로 가서, <em>내용</em>
+    설정을 열고 <em>글꼴 및 색상</em> 섹션에서 <em>고급</em>을 클릭합니다.
+    최소 글꼴 크기를 드롭다운 메뉴에서 선택합니다.</p>
+
+  <p>일부 웹 페이지는 사용자가 지정한 최소 글꼴 크기 때문에 제대로 보이지
+    않을 수도 있음을 유념해야 합니다.</p>
+
+  <h3 id="resizing_page_text">페이지 텍스트 크기 변경하기</h3>
+
+  <p><span class="menuPath">보기 &gt; 텍스트 크기</span> 메뉴에서 웹 페이지에
+    있는 텍스트의 크기를 일시적으로 변경할 수 있습니다. 새로 변경된 크기는
+    사용자가 브라우저 창이나 탭을 닫을 때까지 유효합니다. 심지어 다른 웹
+    페이지로 이동할지라도 새로 변경된 크기가 적용됩니다.</p>
+
+  <p>다음 키보드 단축키로 텍스트의 크기를 변경합니다:</p>
+
+  <ul>
+    <li>&accelKey;+<kbd><abbr title="plus">+</abbr></kbd>를 누르면 텍스트 크기가
+      커집니다. 텍스트 확대는 원래 크기의 120%, 150%, 200%, 300%, 450%, 675%,
+      1013%, 그리고 1519% 순으로 이루어집니다.</li>
+    <li>&accelKey;+<kbd><abbr title="minus">-</abbr></kbd>를 누르면 텍스트 크기가
+      작아집니다. 텍스트 축소는 원래 크기의 90%, 50%, 33%, 22%, 15%, 10%, 7%,
+      4%, 3%, 2%, 그리고 1% 순으로 이루어집니다.</li>
+    <li>&accelKey;+<kbd>0</kbd>를 누르면 텍스트 크기가 초기화되어 해당
+      웹 페이지의 기본 크기가 됩니다.</li>
+  </ul>
+
+  <p>일부 웹 페이지는 사용자가 텍스트의 크기를 키우거나 줄이면 제대로 보이지
+    않을 수도 있음을 유념해야 합니다.</p>
+
+  <h3 id="overriding_page_colors">페이지 색상 지정하기</h3>
+
+  <p>일부 웹 사이트는 읽기 어려운 텍스트와 배경색으로 보여주기도 하고, 어떤
+    사이트는 브라우저의 기본 색상대로 보여주기도 합니다. 기본 색상을 설정하려면
+    &pref.menuPath; 메뉴로 가서, <em>내용</em> 설정을 선택하고,
+    <em>글꼴 및 색상</em> 섹션에서 <em>색상</em> 단춘 클릭합니다. 기본 텍스트와
+    배경색을 지정할 수 있고, 또한 방문한 링크와 방문하지 않은 링크에 대한
+    색을 지정할 수 있습니다.</p>
+
+  <p>하지만, 많은 페이지가 각기 자기만의 색상을 지정하고 있으면, 사용자가
+    지정한 색상은 이런 페이지에서는 적용되지 않을 것입니다. 웹 페이지에 의해
+    정의된 색상을 덮어 씌워 지정하려면, <em>웹 페이지 자체 색상 사용 허용</em>
+    &pref.singular;을 선택 해제합니다.</p>
+
+  <div class="noMac">
+
+    <h3 id="using_a_high_contrast_theme">고대비 테마 사용하기</h3>
+
+    <p>&brandShortName;는 자동적으로 고대비 테마를 사용하는지를 감지하여
+      모든 것을 고대비 색상으로 보여줍니다. 이 테마는 기타 모든 브라우저나
+      웹 페이지의 설정을 해제하고 &brandShortName; 인터페이스 자체(모든 메뉴,
+      창 및 대화 상자)와 방문하는 웹 페이지 내용에까지 영향을 미칩니다.</p>
+
+    <p class="win">고대비 테마를 사용하려면, 윈도우즈의
+    <span class="menuPath">시작 &gt; 제어판 &gt; 내게 필요한 옵션 &gt;
+    디스플레이</span>으로 가서 <em>고대비 사용</em> &pref.singular;을
+    선택합니다.</p>
+
+  </div>
+
+  <h2 id="controlling_web_content">웹 내용 제어하기</h2>
+
+  <h3 id="blocking_popup_windows">팝업 창 차단하기</h3>
+
+  <p>팝업 창 차단에 관한 정보는 <a href="popup.xhtml">팝업 제어하기</a>를
+    참조합니다.</p>
+
+  <h3 id="turning_off_java_applets">자바 애플릿 끄기</h3>
+
+  <p>일부 웹 페이지에서는 자바(Java&trade;) 애플릿을 통한 풍부한 상호작용 기능을
+    경험할 수 있습니다. 반면, 키보드 조작에 의존하는 사용자는 애를 먹을 수도
+    있는데 이런 애플릿은 자동적으로 포커스를 가져가 버리고는 애플릿을
+    <q>빠져 나와</q> 해당 웹 페이지의 나머지 부분을 탐색할 수 있는 방법을
+    제공하지 않기 때문입니다. 이런 문제를 겪는 사용자는 &pref.menuPath; 메뉴로
+    가서 <em>내용</em> 설정을 선택하고 <em>자바 사용</em> &pref.singular;을
+    선택 해제하여 자바 사용을 정지시킬 수 있습니다.</p>
+
+  <h3 id="restricting_javascript_behavior">자바스크립트 동작 제한하기</h3>
+
+  <p>자바스크립트를 완전히 사용 정지키려면 &pref.menuPath; 메뉴로 가서,
+    <em>내용</em> 설정을 선택하고 <em>자바스크립트 사용</em>을 선택 해제합니다.
+    일부 웹 페이지는 자바스크립트에 의존적으로 되어 있어서 자바스크립트 사용이
+    정지되어 있으면 제대로 작동하지 않을 수도 있습니다.</p>
+
+  <p>자바스크립트 사용을 완전히 정지시키는 것이 아니라면, 다양한 고급
+    자바스크립 설정 값을 통해 스크립트의 동작을 제한할 수 있습니다.
+    <em>자바스크립트 사용</em> 체크상자 바로 다음에 있는 <em>고급</em> 단추를
+    클릭하여 <em>고급 자바스크립트 설정</em>을 엽니다.  스크립트로 현재
+    창에 대해  이동 또는 크기 조절, 창 보이기 또는 내리기, 컨텍스트 메뉴 사용 불가
+    또는 대체, 상태 표시줄 감추기, 또는 상태 표시줄 문자 변경을 허용할 것인지를
+    제어할 수 있습니다.</p>
+
+  <h2 id="compatibility_with_assistive_technologies">보조 기기 호환성</h2>
+
+  <p>타사의 보조 기기 호환성에 대한 최신 정보는 온라인
+    <a target="_blank" href="http://www.mozilla.org/access/compatibility">Access
+    Mozilla: 보조 기기 호환성</a>을 참조합니다.</p>
+
+  <h2 id="finding_help_online">온라인에서 도움말 찾기</h2>
+
+  <div class="win">
+
+    <p>Freedom Scientific는 많은 양의 <a target="_blank"
+      href="http://www.freedomscientific.com/fs_support/User_Groups.asp">
+      JAWS 사용자를 위한 메일링 리스트</a>을 서비스합니다.</p>
+
+    <p>GW Micro는 <a target="_blank"
+      href="http://www.gwmicro.com/Support/Email_Lists/">
+      Window Eyes 사용자를 위한 메일링 리스트</a>을 서비스합니다.</p>
+  </div>
+
+  <p><span class="win">또한 </span>접근성과 관련한 질문을
+    <a target="_blank" href="http://forums.mozillazine.org/viewforum.php?f=38">&brandShortName;
+    Support forum</a>에 올릴 수 있습니다.</p>
+
+  <div class="contentsBox"><em>2006년 08월 9일</em></div>
+
+  <p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>
+

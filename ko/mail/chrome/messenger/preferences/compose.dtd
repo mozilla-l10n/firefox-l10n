@@ -1,0 +1,58 @@
+<!ENTITY itemGeneral.label "일반">
+<!ENTITY itemAutoComplete.label "주소">
+<!ENTITY itemSpellCheck.label "맞춤법 검사">
+<!ENTITY itemSendFormat.label "전달 양식">
+<!ENTITY forwardReply.label "메시지 전달 및 회신">
+<!ENTITY forwardMsg.label "전달 메시지:">
+<!ENTITY forwardMsg.accesskey "w">
+<!ENTITY inline.label "본문">
+<!ENTITY inline.accesskey "I">
+<!ENTITY asAttachment.label "첨부">
+<!ENTITY asAttachment.accesskey "A">
+<!ENTITY addExtension.label "파일 이름으로 확장 추가">
+<!ENTITY addExtension.accesskey "f">
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "글꼴:">
+<!ENTITY font.accesskey "n">
+<!ENTITY size.label "크기:">
+<!ENTITY size.accesskey "z">
+<!ENTITY fontColor.label "글자:">
+<!ENTITY fontColor.accesskey "x">
+<!ENTITY bgColor.label "배경:">
+<!ENTITY bgColor.accesskey "B">
+<!ENTITY restoreHTMLDefaults.label "기본 설정으로 복원">
+<!ENTITY restoreHTMLDefaults.accesskey "R">
+<!ENTITY sendingMessagesHeader.label "메시지 작성">
+<!ENTITY spellCheck.label "보내기 전에 맞춤법 검사">
+<!ENTITY spellCheck.accesskey "C">
+<!ENTITY spellCheckInline.label "맞춤법 검사">
+<!ENTITY spellCheckInline1.accesskey "k">
+<!ENTITY languagePopup.label "언어:">
+<!ENTITY languagePopup.accessKey "g">
+<!ENTITY downloadDictionaries.label "기타 사전 다운로드">
+<!ENTITY useMIME.label "8-비트 문자를 포함한 메시지는 'quoted-printable' MIME 인코딩 사용">
+<!ENTITY useMIME.accesskey "o">
+<!ENTITY warnOnSendAccelKey.label "메시지를 보낼 때 단축키 사용 확인">
+<!ENTITY warnOnSendAccelKey.accesskey "i">
+<!ENTITY autoSave.label "항상 자동 저장">
+<!ENTITY autoSave.accesskey "u">
+<!ENTITY autoSaveEnd.label "분">
+<!ENTITY wrapOutMsg.label "텍스트 문서 줄바꿈">
+<!ENTITY wrapOutMsg.accesskey "l">
+<!ENTITY char.label "문자">
+<!ENTITY emailCollectionPicker.label "보낼 메일 주소를 자동으로 추가:">
+<!ENTITY emailCollectionPicker.accesskey "t">
+<!ENTITY addressingTitle.label "메일 주소 자동 완성">
+<!ENTITY autocompleteText.label "메일 주소가 내용과 일치:">
+<!ENTITY addressingEnable.label "내부 주소록">
+<!ENTITY addressingEnable.accesskey "A">
+<!ENTITY directories.label "디렉토리 서버">
+<!ENTITY directories.accesskey "D">
+<!ENTITY editDirectories.label "디렉토리 편집…">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY matchText.label "내부 주소록과 일치하면:">
+<!ENTITY skipDirectory.label "디렉토리에서 검색하지 않음">
+<!ENTITY sendOptionsCaption.label "보내기 및 HTML 설정">
+<!ENTITY sendOptionsDescription.label "텍스트 형식 설정">
+<!ENTITY sendOptions.label "보내기 설정…">
+<!ENTITY sendOptions.accesskey "S">

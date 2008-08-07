@@ -1,0 +1,47 @@
+<!ENTITY pref.validation.title "인증서 유효성">
+<!ENTITY validation.crl.description "인증서 저장소에 저장 되어있는 인증서 폐기 목록(CRL)을 관리하려면 CRL 관리자를 이용하십시오.">
+<!ENTITY validation.managecrls.button "CRL 관리…">
+<!ENTITY validation.managecrls.accesskey "M">
+<!ENTITY validation.crlmanager.label "인증서 폐기 목록(CRL) 관리자">
+<!ENTITY validation.crlname.label "이름">
+<!ENTITY validation.crllastupdate.label "마지막 업데이트">
+<!ENTITY validation.crlnextupdate.label "다음 업데이트">
+<!ENTITY validation.crlautoupdateenabled.label "자동 업데이트">
+<!ENTITY validation.crlautoupdatestatus.label "자동 업데이트 상태">
+<!ENTITY validation.deletecrl.label "삭제">
+<!ENTITY validation.updatecrl.label "업데이트">
+<!ENTITY validation.advanced.label "설정">
+<!ENTITY validation.crl.autoupdate.title "자동 CRL 업데이트 설정">
+<!ENTITY validation.crl.autoupdate.enable.label "이 CRL에 대해 자동 업데이트 사용">
+<!ENTITY validation.crl.autoupdate.time.label1 "다음 업데이트 예정일의">
+<!ENTITY validation.crl.autoupdate.time.label2 "일 전에 업데이트">
+<!ENTITY validation.crl.autoupdate.freq.label1 "매">
+<!ENTITY validation.crl.autoupdate.freq.label2 "일마다 업데이트">
+<!ENTITY validation.crl.autoupdate.url.label "CRL 가져올 위치:">
+<!ENTITY crl.import.status.title "CRL 가져오기 상태">
+<!ENTITY crl.import.success.message "인증서 폐기 목록(CRL)을 가져왔습니다.">
+<!ENTITY crl.issuer.label "CRL 발급자:">
+<!ENTITY crl.issuer.org.label "조직: ">
+<!ENTITY crl.issuer.orgunit.label "단위: ">
+<!ENTITY crl.import.nextupdate.label "다음 업데이트 날짜: ">
+<!ENTITY crl.autoupdate.fail.cnt.label "이전 업데이트 연속 실패 횟수: ">
+<!ENTITY crl.autoupdate.fail.reason.label "마지막 업데이트 실패 내용: ">
+<!ENTITY edit.button "설정">
+<!ENTITY serviceURL.label "서비스 URL:">
+<!ENTITY serviceURL.accesskey "S">
+<!ENTITY signingCA.label "서명자 확인:">
+<!ENTITY signingCA.accesskey "R">
+<!ENTITY validation.crl.caption "CRL">
+<!ENTITY validation.deletecrl.accesskey "D">
+<!ENTITY validation.updatecrl.accesskey "U">
+<!ENTITY validation.advanced.accesskey "S">
+<!ENTITY validation.ocsp.caption "OCSP">
+<!ENTITY validation.crlmanager.description "인증서 폐기 목록(CRL)을 인증서 저장소에 보관합니다.:">
+<!ENTITY enableOCSP.label "인증서 유효성 확인을 위해 온라인 인증서 상태 프로토콜(OCSP) 사용">
+<!ENTITY enableOCSP.accesskey "U">
+<!ENTITY certOCSP2.label "인증서가 OCSP 서버를 지정하고 있는 경우 유효성 확인">
+<!ENTITY certOCSP2.accesskey "V">
+<!ENTITY proxyOCSP2.label "다음 OCSP 서버를 통해 전체 인증서 유효성 확인">
+<!ENTITY proxyOCSP2.accesskey "a">
+<!ENTITY validation.requireOCSP.description "OCSP 서버 연결 실패 시 유효하지 않은 인증서로 간주">
+<!ENTITY validation.requireOCSP.accesskey "W">

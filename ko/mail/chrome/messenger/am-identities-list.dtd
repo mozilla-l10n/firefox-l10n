@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "이 계정과 연결되는 아이디">
+<!ENTITY identitiesListDesc.label "다중 아이디 지원">
+<!ENTITY identitiesListAdd.label  "추가…">
+<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListEdit.label "편집…">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "삭제">
+<!ENTITY identitiesListDelete.accesskey "D">

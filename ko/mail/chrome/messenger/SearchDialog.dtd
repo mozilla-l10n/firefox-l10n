@@ -1,0 +1,70 @@
+<!ENTITY searchHeading.label "검색:">
+<!ENTITY searchHeading.accesskey "h">
+<!ENTITY searchSubfolders.label "하위 폴더 검색">
+<!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY resetButton.label "초기화">
+<!ENTITY resetButton.accesskey "C">
+<!ENTITY optionsButton.label "설정">
+<!ENTITY closeButton.label "닫기">
+<!ENTITY openButton.label "열기">
+<!ENTITY openButton.accesskey "n">
+<!ENTITY deleteButton.label "삭제">
+<!ENTITY deleteButton.accesskey "D">
+<!ENTITY searchDialogTitle.label "메시지 검색">
+<!ENTITY conditionDesc.label "메시지 찾기:">
+<!ENTITY conditions.label "기준">
+<!ENTITY results.label "결과">
+<!ENTITY fileHereMenu.label "현재 파일">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY fileButton.label "파일">
+<!ENTITY fileButton.accesskey "i">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "편지함 열기">
+<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY saveAsVFButton.label "검색 폴더를 새 이름으로 저장">
+<!ENTITY saveAsVFButton.accesskey "v">
+<!ENTITY abSearchHeading.label "검색:">
+<!ENTITY abSearchHeading.accesskey "h">
+<!ENTITY propertiesButton.label "속성">
+<!ENTITY propertiesButton.accesskey "P">
+<!ENTITY composeButton.label "쓰기">
+<!ENTITY composeButton.accesskey "W">
+<!ENTITY abSearchDialogTitle.label "주소록 검색">
+<!ENTITY threadColumn.label "글타래">
+<!ENTITY recipientColumn.label "받는 사람">
+<!ENTITY subjectColumn.label "제목">
+<!ENTITY dateColumn.label "날짜">
+<!ENTITY priorityColumn.label "중요도">
+<!ENTITY accountColumn.label "계정">
+<!ENTITY statusColumn.label "메일 상태">
+<!ENTITY sizeColumn.label "크기">
+<!ENTITY junkStatusColumn.label "스팸 상태">
+<!ENTITY linesColumn.label "행">
+<!ENTITY unreadColumn.label "읽지 않음">
+<!ENTITY totalColumn.label "전체">
+<!ENTITY readColumn.label "읽음">
+<!ENTITY starredColumn.label "별표">
+<!ENTITY locationColumn.label "주소">
+<!ENTITY idColumn.label "받은 순서">
+<!ENTITY columnChooser.tooltip "표시할 항목 선택">
+<!ENTITY threadColumn.tooltip "메시지 표시">
+<!ENTITY recipientColumn.tooltip "받는 사람으로 정렬">
+<!ENTITY subjectColumn.tooltip "제목으로 정렬">
+<!ENTITY dateColumn.tooltip "날짜로 정렬">
+<!ENTITY priorityColumn.tooltip "중요도로 정렬">
+<!ENTITY accountColumn.tooltip "계정별로 정렬">
+<!ENTITY statusColumn.tooltip "메일 상태로 정렬">
+<!ENTITY sizeColumn.tooltip "크기로 정렬">
+<!ENTITY junkStatusColumn.tooltip "스팸 상태로 정렬">
+<!ENTITY unreadColumn.tooltip "글타래의 읽지 않은 메일 수">
+<!ENTITY totalColumn.tooltip "메시지 전체 개수">
+<!ENTITY readColumn.tooltip "읽은 상태로 정렬">
+<!ENTITY starredColumn.tooltip "별표로 정렬">
+<!ENTITY locationColumn.tooltip "주소로 정렬">
+<!ENTITY idColumn.tooltip "받은 순서로 정렬">
+<!ENTITY tagsColumn.label "태그">
+<!ENTITY tagsColumn.tooltip "태그로 정렬하기">
+<!ENTITY fromColumn.label "보낸 사람">
+<!ENTITY receivedColumn.label "받은 편지함">
+<!ENTITY fromColumn.tooltip "보낸 사람 순으로 정렬">
+<!ENTITY receivedColumn.tooltip "받은 날짜 순으로 정렬">

@@ -1,0 +1,18 @@
+<!ENTITY addressbookPicker.label "주소록 목록:">
+<!ENTITY searchInput.label "검색:">
+<!ENTITY SearchNameOrEmail.label "이름 또는 메일">
+
+<!ENTITY deleteAddrBookCard.label "삭제">
+<!ENTITY addrBookCardProperties.label "속성">
+<!ENTITY addtoToFieldMenu.label "받는 사람에 추가">
+<!ENTITY addtoCcFieldMenu.label "참조에 추가">
+<!ENTITY addtoBccFieldMenu.label "숨은 참조에 추가">
+
+<!ENTITY toButton.label "받는 사람에 추가">
+<!ENTITY ccButton.label "참조에 추가">
+<!ENTITY addressbookPicker.accesskey "k">
+<!ENTITY searchInput.accesskey "o">
+<!ENTITY toButton.accesskey "A">
+<!ENTITY ccButton.accesskey "d">
+<!ENTITY bccButton.label "Bcc 추가:">
+<!ENTITY bccButton.accesskey "B">

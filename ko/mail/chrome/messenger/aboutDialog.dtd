@@ -1,0 +1,7 @@
+<!ENTITY aboutDialog.title "&brandFullName; 정보">
+<!ENTITY aboutVersion "버전">
+<!ENTITY copyrightText "&#169;1998-2008. 모든 저작권은 개발자에게 있습니다. 모질라 Thunderbird와 Thunderbird 로고는 모질라 재단의 상표이며 모질라 재단에 모든 권한이 있습니다.">
+<!ENTITY credits.label "프로그램 정보">
+<!ENTITY credits.accesskey "C">
+<!ENTITY aboutLink.label "&lt; &brandFullName; 정보">
+<!ENTITY aboutLink.accesskey "A">

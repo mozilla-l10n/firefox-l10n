@@ -1,0 +1,14 @@
+<!ENTITY about.version "버전">
+<!ENTITY about.copy.beforeLink "저작권  &copy; 1998-2008 by">
+<!ENTITY about.copy.linkTitle "개발자">
+<!ENTITY about.copy.afterLink "Mozilla 프로젝트에 있습니다.">
+<!ENTITY about.license.beforeLink "제품에 대한 자세한 사항은">
+<!ENTITY about.license.linkTitle "라이센스 정보">
+<!ENTITY about.license.afterLink "를 참고하시기 바랍니다.">
+<!ENTITY about.relnotes.beforeLink "현재 버전에 대해">
+<!ENTITY about.relnotes.linkTitle "제품 소개서">
+<!ENTITY about.relnotes.afterLink "를 참고하세요.">
+<!ENTITY about.buildconfig.beforeLink "현재 버전에 대한">
+<!ENTITY about.buildconfig.linkTitle "빌드 설정">
+<!ENTITY about.buildconfig.afterLink "을 참고하세요.">
+<!ENTITY about.buildIdentifier "빌드 지시자: ">

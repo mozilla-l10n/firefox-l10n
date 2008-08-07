@@ -1,0 +1,24 @@
+<!ENTITY credit.title     "&brandFullName; 개발자">
+<!ENTITY brandMotto       "Thunderbird 앞으로!">
+<!ENTITY credit.leads     "개발 리더">
+<!ENTITY credit.core      "핵심 개발자">
+<!ENTITY credit.gecko     "Gecko 레이아웃 엔진">
+<!ENTITY credit.thanks    "감사할 분">
+<!-- localization credits look like this: -->
+<!ENTITY credit.translation "<h3>한국어 번역</h3><ul><li>윤석찬, Seokchan Yun(Channy)</li><li>김정균, Joungkyun Kim(oops)</li><h3>한국어 수정</h3><li>박찬규, Chankyu Park(sushizang)</li></ul>">
+<!ENTITY credit.visuals     "비주얼 디자인 관리">
+<!ENTITY credit.theme       "테마 디자인">
+<!ENTITY credit.brand       "브랜드 제작">
+<!ENTITY credit.web         "웹디자인">
+<!ENTITY credit.update      "Mozilla 업데이트">
+<!ENTITY credit.qalead      "품질 관리 리더">
+<!ENTITY credit.qa          "품질 관리">
+<!ENTITY credit.build       "제품 출시">
+<!ENTITY credit.infra       "인프라 지원">
+<!ENTITY credit.support     "개발 지원">
+<!ENTITY credit.manage      "프로젝트 관리">
+<!ENTITY credit.marketleads "마케팅 리더">
+<!ENTITY credit.market      "마케팅">
+<!ENTITY credit.creators    "제작자">
+<!ENTITY credit.memory      "기억할 분">
+<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

@@ -1,0 +1,12 @@
+<!ENTITY prefWindow.titleWin "설정">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; 환경 설정">
+<!ENTITY panePrivacy.title "개인 정보">
+<!ENTITY paneAdvanced.title "고급">
+<!ENTITY paneContent.title "내용">
+<!ENTITY paneTabs.title "탭">
+<!ENTITY paneMain.title "일반">
+<!ENTITY paneSecurity.title "보안">
+<!ENTITY prefWin.styleWin2 "width: 42em; min-height: 42em;">
+<!ENTITY prefWin.styleMac2 "width: 47em; min-height: 43em;">
+<!ENTITY prefWin.styleGNOME2 "width: 42em; min-height: 42.5em;">
+<!ENTITY paneApplications.title "프로그램">

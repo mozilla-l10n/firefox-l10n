@@ -1,0 +1,5 @@
+<!ENTITY identityTitle.label "아이디 설정">
+<!ENTITY identityListDesc.label "아이디 설정:">
+<!ENTITY settingsTab.label       "설정">
+<!ENTITY copiesFoldersTab.label "사본과 폴더">
+<!ENTITY addressingTab.label    "쓰기 및 주소">

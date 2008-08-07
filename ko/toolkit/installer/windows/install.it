@@ -1,0 +1,147 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=확인
+OK=확인
+CANCEL=취소
+CANCEL_=취소
+NEXT_=다음 >
+BACK_=< 뒤로
+IGNORE_=무시
+PROXY_MESSAGE=프로그램 다운로드시 사용할 프록시 서버를 설정하려면 연결 설정을 이용 하십시오.   
+PROXY_BUTTON=연결 설정…
+PROXYSETTINGS=프록시 설정:
+PROXYSETTINGS_=프록시 설정
+SERVER=서버명:
+PORT=포트:
+USERID=사용자 이름:
+PASSWORD=암호:
+SELECTDIRECTORY=디렉토리 선택
+DIRECTORIES_=디렉토리:
+DRIVES_=드라이브:
+STATUS=상태:
+FILE=파일:
+URL=URL:
+TO=경로:
+ACCEPT_=예
+DECLINE_=아니오
+PROGRAMFOLDER_=프로그램 폴더:
+EXISTINGFOLDERS_=존재하는 폴더:
+SETUPMESSAGE=설치 프로그램이 파일 복사를 마쳤습니다. 프로그램을 사용하기 전에 윈도우즈나 PC를 재시작 하십시오. 선택한 후 확인을 하면 설치 프로그램이 마칩니다.
+RESTART=재시작
+YESRESTART=예. 컴퓨터를 재시작합니다.
+NORESTART=아니오. 나중에 재시작합니다.
+ADDITIONALCOMPONENTS_=프로그램 내용
+DESCRIPTION=설명
+TOTALDOWNLOADSIZE=총 다운로드 크기:
+SPACEAVAILABLE=사용 가능한 용량:
+COMPONENTS_=프로그램 내용:
+BROWSEINFO=Mozilla Firefox 설치 폴더:
+DESTINATIONDIRECTORY=설치할 디렉토리:
+BROWSE_=자세히…
+DOWNLOADSIZE=다운로드 크기: %u KB
+CURRENTSETTINGS=현재 설정:
+INSTALLFOLDER=…다음 위치에 설치:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s, 그리고:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=설치
+DELETE_=삭제
+CONTINUE_=계속
+SKIP_=건너뛰기
+README=읽어 보기
+PAUSE_=중단
+RESUME_=재시도
+CHECKED=선택
+UNCHECKED=선택안 함
+
+EXTRACTING=압축을 푸는 중…
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=%s 대화상자를 만들 수 없음.
+ERROR_FAILED=%s 실패.
+ERROR_FILE_NOT_FOUND=파일이 없습니다: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=GetSystemDirectory() 실패.
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =GetWindowsDirectory() 실패.
+DLGQUITTITLE=설치 종료
+DLGQUITMSG=설치가 완료되지 않았습니다. 설치 프로그램을 종료하시면, 프로그램이 설치되지 않습니다. 다음에 설치를 다시 하실 수 있습니다. 설치를 취소하시겠습니까?
+DLG_REBOOT_TITLE=윈도우즈 재시작
+ERROR_GETPROCADDRESS=GetProcAddress() 중 %s 실패
+ERROR_WRITEPRIVATEPROFILESTRING=WritePrivateProfileString() 실패: %s 파일
+MSG_RETRIEVE_CONFIGINI=Please wait while Setup is attempting to retrieve Config.ini, required by Setup, from the Web…
+ERROR_CREATE_TEMP_DIR=설치 프로그램이 임시 폴더를 생생할 수 없습니다: %s
+DLGBROWSETITLE=디렉토리 선택
+ERROR_DETERMINING_DISK_SPACE=남아있는 디스크 용량을 확인할 수 없음: %s
+DLG_DISK_SPACE_CHECK_TITLE=디스크 용량 확인
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=프로그램을 설치하기에 용량이 부족합니다. 경로: %s,  %s필요한 용량: %s사용가능한 용량: %s용량을 늘인 후 다시 시도하시기 바랍니다.
+DLG_DISK_SPACE_CHECK_MSG=프로그램을 설치하기에 용량이 부족합니다. 경로: %s, %s필요한 용량: %s사용가능한 용량: %s확인을 선택한 후 다른 폴더를 지정해 보세요.
+ERROR_CREATE_DIRECTORY=폴더를 만들 수 없음 %s폴더 생성 권한을 확인 하십시오.
+ERROR_MESSAGE_TITLE=Mozilla 설치 오류
+STR_FILE_NUMBER=파일 갯수:
+STR_FILENAME=파일명:
+MSG_SMARTUPDATE_START=설치 준비 중. 잠시만 기다리세요…
+MSG_CONFIGURING=설정 중: %s. 잠시만 기다리세요…
+ERROR_XPI_INSTALL=설치 중 문제가 발생하였습니다.
+ERROR_SETUP_REQUIREMENT=윈도95 이상의 OS가 필요합니다. 설치 종료…
+DLG_EXTRACTING_TITLE=설치 과정
+STR_PROCESSINGFILE=준비 중: %s
+STR_INSTALLING=설치 중: %s
+STR_COPYINGFILE=파일 복사 중: %s
+MB_WARNING_STR=경고
+MB_MESSAGE_STR=메시지
+MB_ATTENTION_STR=주의
+MSG_CREATE_DIRECTORY=다음 폴더가 존재하지 않습니다:%s새로 만드시겠습니까?
+STR_CREATE_DIRECTORY=폴더를 생성 하시겠습니까?
+ERROR_PROGRAM_FOLDER_NAME=바르지 않은 프로그램 폴더명.
+CB_DEFAULT=Default
+ERROR_DESTINATION_PATH=유효하지 않은 경로.
+STR_SETUP_TYPE=설치 형식:
+STR_SELECTED_COMPONENTS=선택된 프로그램:
+STR_DESTINATION_DIRECTORY=설치 경로:
+STR_PROGRAM_FOLDER=프로그램 폴더:
+STR_DELETING_DESTINATION_DIR=업그레이드를 위해 설치 디렉토리 삭제. 잠시만 기다리세요..
+STR_SETUP=설치
+STR_DOWNLOAD_SITE=다운로드 사이트:
+STR_SAVE_INSTALLER_FILES=설치 파일을 다음에 저장:
+MSG_INIT_SETUP=설치 준비 중. 잠시만 기다리세요…
+STR_MESSAGEBOX_TITLE=%s 설치
+ERROR_GETVERSION=GetVersionEx() 실패!
+DLG_USAGE_TITLE=사용
+
+STATUS_EXTRACTING=압축을 푸는 중 %s
+STATUS_LAUNCHING_SETUP=설치 프로그램 시작 중…
+ERROR_FILE_WRITE=파일을 쓸 수 없음 %s
+TITLE=설치 중
+ERROR_OUT_OF_MEMORY=메모리 초과!
+
+ERROR_DLL_LOAD=읽을 수 없음: %s
+ERROR_STRING_LOAD=스트링 자원을 읽을 수 없음: ID %d
+ERROR_STRING_NULL=널포인트 에러.
+ERROR_GLOBALALLOC=메모리 할당 에러.
+MSG_FORCE_QUIT_PROCESS=설치 프로그램이 %s (%s)가 실행되고 있음을 확인했습니다. %s를 종료하고 계속하려면 종료 하십시오. 또는, 윈도우즈 관리자에서 %s을 선택 후 프로세스를 중단 하십시오.
+MSG_FORCE_QUIT_PROCESS_FAILED=설치 프로그램이 종료됩니다. %s (%s)이 계속 실행중이므로 설치를 계속할 수 없습니다. %s를 종료한 후 설치를 다시 시작 하십시오.
+ERROR_PATH_WITHIN_WINDIR=프로그램이 윈도우즈 시스템 디렉토리에 설치 할 수 없습니다. 다른 폴더를 선택하십시오.
+

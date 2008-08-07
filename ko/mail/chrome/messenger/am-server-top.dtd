@@ -1,0 +1,77 @@
+<!ENTITY securitySettings.label "보안 설정">
+<!ENTITY serverSettings.label "서버 설정">
+<!ENTITY popServer.label "POP3 메일 서버">
+<!ENTITY imapServer.label "IMAP 메일 서버">
+<!ENTITY newsServer.label "뉴스 서버 (NNTP)">
+<!ENTITY webmail.label "웹메일 계정">
+<!ENTITY serverType.label "서버 종류:">
+<!ENTITY serverName.label "서버 이름:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "아이디">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "포트:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "기본:">
+<!ENTITY savePassword.label "암호 저장">
+<!ENTITY biffStart.label "새 메시지 확인">
+<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffEnd.label "분 마다">
+<!ENTITY isSecure.label "보안된 연결 사용 (SSL)">
+<!ENTITY isSecure.accesskey "U">
+<!ENTITY socketType.label "보안 연결 사용:">
+<!ENTITY neverSecure.label "사용 안 함">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS (가능한 경우)">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "안전 인증 사용">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "메시지를 서버에 보관">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "헤더만 가져오기">
+<!ENTITY headersOnly.accesskey "f">
+<!ENTITY deleteByAgeFromServer.label "모든">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "일">
+<!ENTITY deleteOnServer2.label "메세지를 삭제할 때">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "새 메시지를 자동으로 받아오기">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "서버 이름">
+<!ENTITY username.label "아이디">
+<!ENTITY popServerTitle.label "POP3 서버 정보">
+<!ENTITY deleteMessagePrefix.label "메시지 삭제 설정:">
+<!ENTITY modelMoveToTrash.label "현재 폴더로 이동:">
+<!ENTITY modelMarkDeleted.label "삭제로 표시">
+<!ENTITY modelDeleteImmediately.label "바로 삭제">
+<!ENTITY expungeOnExit.label "받은 편지함을 비우고 닫기">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "지운 편지함을 비우고 닫기">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "프로그램 시작 할때 새 메시지 확인">
+<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY maxMessagesStart.label "받아오기 전 확인">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesEnd.label "메시지">
+<!ENTITY alwaysAuthenticate.label "서버에 접속할 때 항상 인증 요청">
+<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY newsrcFilePath.label "newsrc 파일:">
+<!ENTITY localPath.label "로컬 디렉토리:">
+<!ENTITY abbreviate.label "메일 폴더에 뉴스 그룹 이름 보이기:">
+<!ENTITY abbreviateOn.label "뉴스 그룹 이름 (예: 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "약어 이름 (예: 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "고급…">
+<!ENTITY serverDefaultCharset.label "기본 문자 인코딩:">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY localFolderPicker.label "로컬 디렉토리 위치">
+<!ENTITY browseFolder.label "찾아보기…">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "newsrc 파일 위치">
+<!ENTITY browseNewsrc.label "찾아보기…">
+<!ENTITY browseNewsrc.accesskey "e">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.accesskey "d">

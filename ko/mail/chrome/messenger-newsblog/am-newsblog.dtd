@@ -1,0 +1,16 @@
+<!ENTITY newsblogTitle.label "RSS 계정 설정">
+<!ENTITY biffStart.label "매일 새로운 기사 확인">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "분">
+<!ENTITY loginAtStartup.label "프로그램을 시작할 때 새로운 기사 확인하기">
+<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY useQuickMode.label "웹 페이지를 읽지 않고 기사 요약 보기를 기본으로 설정">
+<!ENTITY useQuickMode.accesskey "B">
+<!ENTITY manageSubscriptions.label "구독 관리...">
+<!ENTITY manageSubscriptions.accesskey "M">
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "RSS 피드 구독">
+<!ENTITY rss.wizardShortName        "RSS">
+<!ENTITY rss.wizardLongName         "RSS 피드와 블로그">
+<!ENTITY rss.wizardLongName.accesskey "R">
+<!ENTITY rss.hostName               "News &amp; Blogs"><!-- Don't localize it. -->

@@ -1,0 +1,6 @@
+<!-- Error messages that are likely to be overridden by applications go in this
+     file, all messages that likely don't need to tie into app-specific UI
+     should go into netError.dtd -->
+
+<!ENTITY securityOverride.linkText "예외 사항 추가…">
+<!ENTITY securityOverride.warningText "<p>현재 인터넷 연결을 신뢰하지 않는데도 경고창이 보이지 않는 경우 예외 사항에 추가하지 않아야 합니다.</p><p>그럼에도 예외 사항에 추가하고자 한다면 고급 암호 설정에서 변경할 수 있습니다.</p>">

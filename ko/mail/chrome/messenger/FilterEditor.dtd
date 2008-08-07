@@ -1,0 +1,31 @@
+<!ENTITY window.title "필터 규칙">
+<!ENTITY filterName.label "필터 이름:">
+<!ENTITY filterName.accesskey "i">
+<!ENTITY junk.label "스팸 메일">
+<!ENTITY notJunk.label "정상 메일">
+<!ENTITY lowestPriorityCmd.label "최하위">
+<!ENTITY lowPriorityCmd.label "하위">
+<!ENTITY normalPriorityCmd.label "기본">
+<!ENTITY highPriorityCmd.label "상위">
+<!ENTITY highestPriorityCmd.label "최상위">
+<!ENTITY conditionDesc.label "받은 메시지 조건:">
+<!ENTITY filterActionDesc.label "다음 방식으로 처리:">
+<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY newFolderButton.label "새 폴더…">
+<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY moveMessage.label "폴더로 이동">
+<!ENTITY copyMessage.label "폴더로 복사">
+<!ENTITY forwardTo.label "전달하기:">
+<!ENTITY replyWithTemplate.label "템플릿으로 회신:">
+<!ENTITY markMessageRead.label "읽음으로 표시">
+<!ENTITY markMessageStarred.label "별표 추가">
+<!ENTITY setPriority.label "중요도 설정">
+<!ENTITY setJunkScore.label "스팸 상태 설정:">
+<!ENTITY deleteMessage.label "메시지 삭제">
+<!ENTITY deleteFromPOP.label "POP3 서버에서 삭제">
+<!ENTITY fetchFromPOP.label "POP3 서버에서 받아오기">
+<!ENTITY ignoreThread.label "글타래 무시">
+<!ENTITY ignoreSubthread.label "하위 글타래 무시">
+<!ENTITY watchThread.label "글타래 보기">
+<!ENTITY addTag.label "메시지 태그">
+<!ENTITY stopExecution.label "필터 실행 중단">

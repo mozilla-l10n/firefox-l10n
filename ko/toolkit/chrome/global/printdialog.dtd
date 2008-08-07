@@ -1,0 +1,20 @@
+<!ENTITY printButton.label "인쇄">
+<!ENTITY printDialog.title "인쇄">
+<!ENTITY fpDialog.title "파일 저장">
+<!ENTITY fileCheck.label "파일로 저장">
+<!ENTITY propertiesButton.label "속성...">
+<!ENTITY descText.label "프린터 설명:">
+<!ENTITY printer.label "프린터">
+<!ENTITY printerInput.label "프린터:">
+<!ENTITY printrangeGroup.label "인쇄 범위:">
+<!ENTITY allpagesRadio.label "모든 페이지">
+<!ENTITY rangeRadio.label "페이지">
+<!ENTITY frompageInput.label "부터">
+<!ENTITY topageInput.label "까지">
+<!ENTITY selectionRadio.label "선택">
+<!ENTITY copies.label "여러 장">
+<!ENTITY numCopies.label "인쇄 매수:">
+<!ENTITY printframeGroup.label "프레임 인쇄">
+<!ENTITY aslaidoutRadio.label "화면에 보이는 대로">
+<!ENTITY selectedframeRadio.label "선택한 프레임만">
+<!ENTITY eachframesepRadio.label "모든 프레임">

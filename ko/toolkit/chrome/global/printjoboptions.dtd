@@ -1,0 +1,18 @@
+<!-- extracted from printjoboptions.xul -->
+<!ENTITY printJobOptions.title "인쇄 설정">
+<!ENTITY paperInput.label "용지 크기">
+<!ENTITY plexInput.label "기본 모드:">
+<!ENTITY resolutionInput.label "해상도 및 품질:">
+<!ENTITY cmdInput.label "인쇄 명령:">
+<!ENTITY jobTitleInput.label "작업 제목:">
+<!ENTITY colorGroup.label "색:">
+<!ENTITY grayRadio.label "그레이 스케일">
+<!ENTITY colorRadio.label "색상">
+<!ENTITY colorspaceInput.label "색상:">
+<!ENTITY fontsGroup.label "글꼴:">
+<!ENTITY downloadFonts.label "인쇄를 위해 글꼴을 다운로드 하시겠습니까?">
+<!ENTITY edgeMarginInput.label "여백까지의 폭 (인치)">
+<!ENTITY topInput.label "위쪽:">
+<!ENTITY bottomInput.label "아래쪽:">
+<!ENTITY leftInput.label "왼쪽:">
+<!ENTITY rightInput.label "오른쪽:">

@@ -1,0 +1,40 @@
+<!ENTITY connectionsDialog.title "인터넷 연결 설정">
+<!ENTITY window.width "37em">
+<!ENTITY proxyTitle.label "프록시 설정">
+<!ENTITY noProxyTypeRadio.label "프락시 사용 안함">
+<!ENTITY noProxyTypeRadio.accesskey "y">
+<!ENTITY systemTypeRadio.label "시스템 프락시 설정 사용">
+<!ENTITY systemTypeRadio.accesskey "u">
+<!ENTITY WPADTypeRadio.label "자동 설정">
+<!ENTITY WPADTypeRadio.accesskey "w">
+<!ENTITY manualTypeRadio.label "수동 설정">
+<!ENTITY manualTypeRadio.accesskey "m">
+<!ENTITY autoTypeRadio.label "자동 프록시 설정 URL:">
+<!ENTITY autoTypeRadio.accesskey "A">
+<!ENTITY reload.label "새로 고침">
+<!ENTITY reload.accesskey "l">
+<!ENTITY ftp.label "FTP 프록시:">
+<!ENTITY ftp.accesskey "f">
+<!ENTITY gopher.label "Gopher 프록시">
+<!ENTITY gopher.accesskey "g">
+<!ENTITY http.label "HTTP 프록시:">
+<!ENTITY http.accesskey "h">
+<!ENTITY ssl.label "SSL 프록시:">
+<!ENTITY ssl.accesskey "s">
+<!ENTITY socks.label "SOCKS 호스트:">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "k">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY HTTPport.label "포트:">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SSLport.label  "포트:">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY SOCKSport.label "포트:">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "프록시 사용 안 함:">
+<!ENTITY noproxy.accesskey "n">
+<!ENTITY noproxyExplain.label "예: .mozilla.or.kr, .net.nz">
+<!ENTITY shareproxy.label "이 프록시 서버를 모든 프로토콜에 적용">
+<!ENTITY shareproxy.accesskey "x">

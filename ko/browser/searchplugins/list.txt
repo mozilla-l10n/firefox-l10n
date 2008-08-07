@@ -1,0 +1,7 @@
+yahoo-kr
+google
+daum-kr
+naver-kr
+wikipedia-kr
+danawa-kr
+creativecommons

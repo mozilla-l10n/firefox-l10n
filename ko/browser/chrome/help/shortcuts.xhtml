@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  R.J. Keller <rlk@trfenv.com>
+  Sean Umphlet <nosebleed@umphlet.com> (minor bugfixes)
+  Jeff Walden <jwalden+code@mit.edu>
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Mark I. Kim <magakim@gmail.com> (Korean translation)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>&brandFullName; 키보드 단축키</title>
+  <link rel="stylesheet" type="text/css"
+    href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>&brandFullName; 키보드 단축키</h1>
+
+<p>&brandFullName;에서 가장 자주 사용하는 키보드 단축키 목록입니다.
+  <span class="unix">If you have enabled Emacs-style text editing shortcuts
+  in GNOME, they will also work in &brandShortName;.  When an Emacs text
+  editing shortcut conflicts with the default shortcuts (as occurs with
+  &accelKey;+<kbd>K</kbd>), the Emacs shortcut will take preference if
+  focus is inside a textbox (which would include the location bar and search
+  bar).  In such cases you should use the alternate keyboard shortcut
+  if one is listed below.</span></p>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>실행 명령</th>
+      <th>단축키</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">탐색</th>
+    </tr>
+    <tr>
+      <td>뒤로</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>왼쪽 화살표</kbd><br/>
+          <kbd>Backspace</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>왼쪽 화살표</kbd><br/>
+          &accelKey;+<kbd>[</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>[</kbd><br/>
+          &accelKey;+<kbd>왼쪽 화살표</kbd><br/>
+          <kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>앞으로</td>
+      <td>
+        <span class="win">
+          &altKey;+<kbd>오른쪽 화살표</kbd><br/>
+          &shiftKey;+<kbd>Backspace</kbd>
+        </span>
+        <span class="unix">
+          &altKey;+<kbd>오른쪽 화살표</kbd><br/>
+          &accelKey;+<kbd>]</kbd>
+        </span>
+        <span class="mac">
+          &accelKey;+<kbd>]</kbd><br/>
+          &accelKey;+<kbd>오른쪽 화살표</kbd><br/>
+          &shiftKey;+<kbd>Delete</kbd>
+        </span>
+      </td>
+    </tr>
+    <tr>
+      <td>홈</td>
+      <td>&altKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>파일 열기</td>
+      <td>&accelKey;+<kbd>O</kbd></td>
+    </tr>
+    <tr>
+      <td>새로 고침</td>
+      <td><kbd>F5<br/></kbd>
+        &accelKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>새로 고침 (캐시 덮어 씌움)</td>
+      <td><span class="noMac">&accelKey;+<kbd>F5</kbd><br/></span>
+        &accelKey;+&shiftKey;+<kbd>R</kbd></td>
+    </tr>
+    <tr>
+      <td>중지</td>
+      <td><span class="mac">&accelKey;+<kbd>.</kbd><br/></span>
+        <kbd>Esc</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">현재 페이지</th>
+    </tr>
+    <tr>
+      <td>페이지의 끝으로 이동</td>
+      <td><kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>페이지의 처음으로 이동</td>
+      <td><kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>다음 프레임으로 이동</td>
+      <td><kbd>F6</kbd></td>
+    </tr>
+    <tr>
+      <td>이전 프레임으로이동</td>
+      <td>&shiftKey;+<kbd>F6</kbd></td>
+    </tr>
+    <tr class="noWin">
+      <td>페이지 정보</td>
+      <td>&accelKey;+<kbd>I</kbd></td>
+    </tr>
+    <tr>
+      <td>페이지 소스</td>
+      <td>&accelKey;+<kbd>U</kbd></td>
+    </tr>
+    <tr>
+      <td>인쇄</td>
+      <td>&accelKey;+<kbd>P</kbd></td>
+    </tr>
+    <tr>
+      <td>다른 이름으로 저장</td>
+      <td>&accelKey;+<kbd>S</kbd></td>
+    </tr>
+    <tr>
+      <td>텍스트 크기: 작게</td>
+      <td>&accelKey;+<kbd>-</kbd></td>
+    </tr>
+    <tr>
+      <td>텍스트 크기: 크게</td>
+      <td>&accelKey;+<kbd>+</kbd></td>
+    </tr>
+    <tr>
+      <td>텍스트 크기: 보통</td>
+      <td>&accelKey;+<kbd>0</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">편집하기</th>
+    </tr>
+    <tr>
+      <td>복사</td>
+      <td>&accelKey;+<kbd>C</kbd></td>
+    </tr>
+    <tr>
+      <td>잘라내기</td>
+      <td>&accelKey;+<kbd>X</kbd></td>
+    </tr>
+    <tr>
+      <td>삭제</td>
+      <td><kbd>Delete</kbd></td>
+    </tr>
+    <tr>
+      <td>붙여넣기</td>
+      <td>&accelKey;+<kbd>V</kbd></td>
+    </tr>
+    <tr>
+      <td>실행 반복</td>
+      <td><span class="win">&accelKey;+<kbd>Y</kbd></span>
+        <span class="noWin">&accelKey;+&shiftKey;+<kbd>Z</kbd></span></td>
+    </tr>
+    <tr>
+      <td>모두 선택</td>
+      <td>&accelKey;+<kbd>A</kbd></td>
+    </tr>
+    <tr>
+      <td>실행 취소</td>
+      <td>&accelKey;+<kbd>Z</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">검색</th>
+    </tr>
+    <tr>
+      <td>이 페이지에서 찾기</td>
+      <td>&accelKey;+<kbd>F</kbd></td>
+    </tr>
+    <tr>
+      <td>다시 찾기</td>
+      <td><kbd>F3</kbd><br/>
+        &accelKey;+<kbd>G</kbd></td>
+    </tr>
+    <tr>
+      <td>링크를 입력하면서 찾기</td>
+      <td><kbd>'</kbd></td>
+    </tr>
+    <tr>
+      <td>텍스트를 입력하면서 찾기</td>
+      <td><kbd>/</kbd></td>
+    </tr>
+    <tr>
+      <td>이전 찾기</td>
+      <td>&shiftKey;+<kbd>F3</kbd></td>
+    </tr>
+    <tr>
+      <td>웹 검색</td>
+      <td>&accelKey;+<kbd>K</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>E</kbd></span>
+        <span class="unix"><br/>&accelKey;+<kbd>J</kbd></span></td>
+    </tr>
+  </tbody>
+  <tbody id="windows_tabs">
+    <tr>
+      <th colspan="2">창 및 탭</th>
+    </tr>
+    <tr>
+      <td>탭 닫기</td>
+      <td>&accelKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&ctrlKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <tr>
+      <td>창 닫기</td>
+      <td>&accelKey;+&shiftKey;+<kbd>W</kbd>
+        <span class="noMac"><br/>&altKey;+<kbd>F4</kbd></span></td>
+    </tr>
+    <!-- LOCALIZATION NOTE:
+         "Left"/"Up" and "Right"/"Down" might need special treatment
+         for bidi locales, as used in the following two entries.
+    -->
+    <tr>
+      <td>탭을 왼쪽으로 이동 (탭 제목에 포커스가 있을 때)</td>
+      <td>&accelKey;+<kbd>왼쪽 화살표</kbd><br/>
+          &accelKey;+<kbd>위쪽 화살표</kbd></td>
+    </tr>
+    <tr>
+      <td>탭을 오른쪽으로 이동 (탭 제목에 포커스가 있을 때)</td>
+      <td>&accelKey;+<kbd>오른쪽 화살표</kbd><br/>
+          &accelKey;+<kbd>아래쪽 화살표</kbd></td>
+    </tr>
+    <tr>
+      <td>탭을 처음을 이동 (탭 제목에 포커스가 있을 때)</td>
+      <td>&accelKey;+<kbd>Home</kbd></td>
+    </tr>
+    <tr>
+      <td>탭을 끝으로 이동 (탭 제목에 포커스가 있을 때)</td>
+      <td>&accelKey;+<kbd>End</kbd></td>
+    </tr>
+    <tr>
+      <td>새 탭</td>
+      <td>&accelKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>새 창</td>
+      <td>&accelKey;+<kbd>N</kbd></td>
+    </tr>
+    <tr>
+      <td>다음 탭</td>
+      <td>&ctrlKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+오른쪽 화살표<br/></span>
+        &ctrlKey;+<kbd>Page Down</kbd></td>
+    </tr>
+    <tr>
+      <td>주소를 새 탭을 열기</td>
+      <td>&altKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>이전 탭</td>
+      <td>&ctrlKey;+&shiftKey;+<kbd>Tab</kbd><br/>
+        <span class="mac">&accelKey;+&altKey;+왼쪽 화살표<br/></span>
+        &ctrlKey;+<kbd>Page Up</kbd></td>
+    </tr>
+    <tr>
+      <td>최근에 닫은 탭 복원</td>
+      <td>&accelKey;+&shiftKey;+<kbd>T</kbd></td>
+    </tr>
+    <tr>
+      <td>탭 선택 (1 to 8)</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+(<kbd>1</kbd> to <kbd>8</kbd>)</td>
+    </tr>
+    <tr>
+      <td>마지막 탭 선택</td>
+      <td><span class="noUnix">&accelKey;</span><span
+        class="unix">&altKey;</span>+<kbd>9</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">도구</th>
+    </tr>
+    <tr class="noUnix">
+      <td>모든 탭을 북마크에 추가</td>
+      <td>&accelKey;+&shiftKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>현재 페이지를 북마크에 추가</td>
+      <td>&accelKey;+<kbd>D</kbd></td>
+    </tr>
+    <tr>
+      <td>북마크 탐색 창 열기</td>
+      <td>&accelKey;+<kbd>B</kbd>
+        <span class="win"><br/>&accelKey;+<kbd>I</kbd></span></td>
+    </tr>
+    <tr>
+      <td>캐럿 브라우징 (커서 키를 웹 페이지 내에서 사용)</td>
+      <td><kbd>F7</kbd></td>
+    </tr>
+    <tr>
+      <td>다운로드 창 열기</td>
+      <td><span class="noUnix">&accelKey;+<kbd>J</kbd></span>
+        <span class="unix">&accelKey;+<kbd>Y</kbd></span></td>
+    </tr>
+    <tr>
+      <td>열어본 페이지 목록 창 열기</td>
+      <td><span class="noMac">&accelKey;+<kbd>H</kbd></span>
+        <span class="mac">&accelKey;+&shiftKey;+<kbd>H</kbd></span></td>
+    </tr>
+    <tr>
+      <td>개인 정보 초기화</td>
+      <td>&accelKey;+&shiftKey;+<kbd>Del</kbd></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2">기타</th>
+    </tr>
+    <tr>
+      <td>.com 주소 자동 완성</td>
+      <td>&accelKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>.net 주소 자동 완성</td>
+      <td>&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>.org 주소 자동 완성</td>
+      <td>&accelKey;+&shiftKey;+&enterKey;</td>
+    </tr>
+    <tr>
+      <td>선택된 자동 완성 항목 삭제</td>
+      <td><span class="noMac"><kbd>Del</kbd></span>
+        <span class="mac">&shiftKey;+<kbd>Del</kbd></span></td>
+    </tr>
+    <tr class="noMac">
+      <td>전체 화면</td>
+      <td><kbd>F11</kbd></td>
+    </tr>
+    <tr>
+      <td>주소 표시줄 선택</td>
+      <td><span class="noMac">&altKey;+<kbd>D</kbd><br/></span>
+        <kbd>F6</kbd><br />
+        &accelKey;+<kbd>L</kbd></td>
+    </tr>
+    <tr>
+      <td>검색 에진 선택 및 관리<br/>
+        (검색 창에 포커스가 있을 때)</td>
+      <td>&altKey;+<kbd>위쪽 화살표</kbd><br/>
+        &altKey;+<kbd>아래쪽 화살표</kbd><span class="noMac"><br/>
+        <kbd>F4</kbd></span></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="contentsBox"><em>2006년 07월 26일</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS 구독">
+<!ENTITY subscriptionDesc.label "RSS 구독 관리자.">
+<!ENTITY feedTitle.label "제목:">
+<!ENTITY location.label  "주소:">
+<!ENTITY button.addFeed.label       "추가">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "수정">
+<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.removeFeed.label "제거">
+<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.importOPML.label "가져오기">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "내보내기">
+<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY cmd.close.commandKey             "w">

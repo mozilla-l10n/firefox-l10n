@@ -1,0 +1,9 @@
+<!ENTITY brandMotto "오픈웹을 향하여!">
+<!ENTITY credit.thanks "감사할 분">
+
+<!ENTITY credit.thanks2 "우리의">
+<!ENTITY credit.contributors2 "공헌자들에게 많은 감사를 표합니다.">
+
+<!ENTITY credit.translation "<h3>한국어 번역</h3><ul><li>윤석찬, Seokchan Yun(Channy)</li><li>김정균, Joungkyun Kim(oops)</li><h3>한국어 수정</h3><li>박찬규, Chankyu Park(sushizang)</li></ul>">
+<!ENTITY credit.memory "명예의 전당">
+<!ENTITY credit.poweredByGeckoReg "Powered By Gecko&reg;">

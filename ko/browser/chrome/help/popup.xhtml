@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+    %brandDTD;
+    <!ENTITY % platformDTD SYSTEM "chrome://browser/locale/help/platformStrings.dtd" >
+    %platformDTD;
+]>
+<!--
+Contributors:
+  David Tenser <david.tenser@comhem.se> (original author)
+  Steffen Wilberg <steffen.wilberg@web.de>
+  Mark I. Kim <magakim@gmail.com> (Korean translation)
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>팝업 제어 하기</title>
+	<link rel="stylesheet" type="text/css" href="chrome://help/skin/helpFileLayout.css"/>
+</head>
+
+<body>
+
+<h1>팝업 제어 하기</h1>
+<p>이 문서는 &brandFullName;에서 팝업 제어를 위해 사용하는 모든 &pref.plural;
+  에 대하여 설명합니다.</p>
+
+<div class="contentsBox">
+  세부 항목:
+  <ul>
+    <li><a href="#what_are_popups">팝업이란?</a></li>
+    <li><a href="#popup_blocker_preferences">팝업 차단 &pref.pluralCaps;</a></li>
+  </ul>
+</div>
+
+<h2 id="what_are_popups">팝업이란?</h2>
+<p>팝업 창 또는 팝업은 사용자의 허락없이 자동적으로 나타나는 창을 말합니다.
+  이 창은 크기가 다양하지만 보통 전체 화면을 덮을 정도로 크지는 않습니다.
+  현재 &brandShortName; 창 위에 열리는 것도 있고, &brandShortName; 창 아래에
+  열리는 것(팝언더)도 있습니다.</p>
+
+<p>&brandShortName;는 사용자가 팝업 및 팝언더를 <span class="menuPath">도구 >
+  &pref.pluralCaps;</span> 메뉴의 내용 설정에서
+  <a href="prefs.xhtml#content_options">팝업 창 차단</a>을 통해 관리할 수 있도록
+  합니다. 팝업 차단은 기본적으로 켜져있으므로, &brandShortName;에서 팝업을
+  차단하기 위해 이 기능 켤 것을 걱정을 할 필요는 없습니다.</p>
+
+<p>팝업이 차단되고 있으면, &brandShortName;는 정보 표시줄을 띄우고, 상태
+  표시줄에 아이콘<img src="chrome://browser/skin/Info.png" width="16" height="16"
+  alt=""/>을 표시합니다. 정보 표시줄에서 <em>&pref.pluralCaps;</em>이나
+  상태 표시줄에서 아이콘을 클릭하면, 메뉴에 다음과 같은 선택 사항이 표시됩니다:</p>
+
+<ul>
+  <li>팝업 창 허가</li>
+  <li><a href="#popup_blocker_preferences">팝업 창 차단 &pref.pluralCaps;…</a>
+    </li>
+  <li>팝업 창이 차단될 때 메시지를 표시하지 않음</li>
+  <li>(차단된 팝업 보이기)</li>
+</ul>
+
+<p><strong>팝업 차단 기능이 일부 웹 사이트와는 충돌할 수도 있습니다</strong>:
+  은행 사이트를 비롯한 일부 웹 사이트는 중요한 기능을 수행하기 위해서 팝업을
+  사용합니다. 모든 팝업을 차단하면 이러한 기능이 정지됩니다. 특정 웹 사이트에
+  대해서는 팝업을 허용하면서 그 외 사이트는 차단하기를 원한다면, 해당 사이트를
+  허용 사이트 목록에 추가할 수 있습니다.</p>
+
+<p><strong>팝업 차단 기능이 항상 작동하는 것은 아닙니다</strong>: 비록
+  &brandShortName;가 대부분의 팝업을 차단하기는 하지만, 일부 사이트는 아직
+  알려지지 않은 방법을 사용하여, 팝업이 차단되어 있음에도 불구하고, 팝업을 띄울
+  수도 있습니다.</p>
+
+<h2 id="popup_blocker_preferences">팝어 차단 &pref.pluralCaps;</h2>
+
+<p>팝업 차단 &pref.pluralCaps; 관리자는 &pref.menuPath; 메뉴의 <a
+  href="prefs.xhtml#content_options">내용 설정</a>에 있습니다.</p>
+
+<p>거기서 다음과 같은 것을 설정할 수 있습니다:</p>
+
+<ul>
+  <li><strong>팝업 창 차단</strong>: 이 &pref.singular;이 선택 해제되어 있으면
+    팝업 차단 기능이 정지됩니다.</li>
+  <li><strong>예외 목록 대화 상자</strong>: 팝업을 허용하기를 원하는 사이트
+    목록입니다. 이 대화 상자에서는 다음을 수행할 수 있습니다:
+  <ul>
+    <li><strong>허가</strong>: 클릭하면 웹 사이트가 예외 목록에 추가됩니다.</li>
+    <li><strong>제거</strong>: 클릭하면 웹 사이트가 예외 목록에서 삭제됩니다.</li>
+    <li><strong>모두 제거</strong>: 클릭하면 전체 예외 목록 리스트가 삭제됩니다.</li>
+  </ul>
+  </li>
+</ul>
+
+<p><strong>주의</strong>: 팝업 차단 기능은 항상 작동하는 것이 아니며 일부
+  웹 사이트와는 충돌할 수도 있습니다. 팝업 차단에 관한 더 자세한 정보는
+<a href="#what_are_popups">팝업이란</a>를 참조합니다.</p>
+
+<div class="contentsBox"><em>2006년 09월 12일</em></div>
+<p>Copyright &copy; &copyright.years; Contributors to the Mozilla Help Viewer Project.</p>
+
+</body>
+</html>

@@ -1,0 +1,114 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY time.midnight "자정" >
+<!ENTITY time.1 "오전 1:00" >
+<!ENTITY time.2 "오전 2:00" >
+<!ENTITY time.3 "오전 3:00" >
+<!ENTITY time.4 "오전 4:00" >
+<!ENTITY time.5 "오전 5:00" >
+<!ENTITY time.6 "오전 6:00" >
+<!ENTITY time.7 "오전 7:00" >
+<!ENTITY time.8 "오전 8:00" >
+<!ENTITY time.9 "오전 9:00" >
+<!ENTITY time.10 "오전 10:00" >
+<!ENTITY time.11 "오전 11:00" >
+<!ENTITY time.noon "정오" >
+<!ENTITY time.13 "오후 1:00" >
+<!ENTITY time.14 "오후 2:00" >
+<!ENTITY time.15 "오후 3:00" >
+<!ENTITY time.16 "오후 4:00" >
+<!ENTITY time.17 "오후 5:00" >
+<!ENTITY time.18 "오후 6:00" >
+<!ENTITY time.19 "오후 7:00" >
+<!ENTITY time.20 "오후 8:00" >
+<!ENTITY time.21 "오후 9:00" >
+<!ENTITY time.22 "오후 10:00" >
+<!ENTITY time.23 "오후 11:00" >
+
+<!-- Day Names -->
+<!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
+     only used in Preferences > Views > Workweek groupbox -->
+<!ENTITY day.1.Ddd "일" >
+<!ENTITY day.1.Ddd.accesskey "S">
+<!ENTITY day.2.Ddd "월" >
+<!ENTITY day.2.Ddd.accesskey "M">
+<!ENTITY day.3.Ddd "화" >
+<!ENTITY day.3.Ddd.accesskey "T">
+<!ENTITY day.4.Ddd "수" >
+<!ENTITY day.4.Ddd.accesskey "W">
+<!ENTITY day.5.Ddd "목" >
+<!ENTITY day.5.Ddd.accesskey "h">
+<!ENTITY day.6.Ddd "금" >
+<!ENTITY day.6.Ddd.accesskey "F">
+<!ENTITY day.7.Ddd "토" >
+<!ENTITY day.7.Ddd.accesskey "a">
+
+<!ENTITY day.1.name "일요일" >
+<!ENTITY day.2.name "월요일" >
+<!ENTITY day.3.name "화요일" >
+<!ENTITY day.4.name "수요일" >
+<!ENTITY day.5.name "목요일" >
+<!ENTITY day.6.name "금요일" >
+<!ENTITY day.7.name "토요일" >
+
+<!-- Units -->
+<!ENTITY calendar.global.units.minute   "분">
+<!ENTITY calendar.global.units.minutes  "분">
+<!ENTITY calendar.global.units.hour     "시간">
+<!ENTITY calendar.global.units.hours    "시간">
+<!ENTITY calendar.global.units.day      "일">
+<!ENTITY calendar.global.units.days     "일">
+
+<!ENTITY month.1.name "1월" >
+<!ENTITY month.2.name "2월" >
+<!ENTITY month.3.name "3월" >
+<!ENTITY month.4.name "4월" >
+<!ENTITY month.5.name "5월" >
+<!ENTITY month.6.name "6월" >
+<!ENTITY month.7.name "7월" >
+<!ENTITY month.8.name "8월" >
+<!ENTITY month.9.name "9월" >
+<!ENTITY month.10.name "10월" >
+<!ENTITY month.11.name "11월" >
+<!ENTITY month.12.name "12월" >
+
+<!ENTITY onemonthbackward.tooltip "이전 달" >
+<!ENTITY onemonthforward.tooltip "다음 달" >
+<!ENTITY showToday.tooltip "오늘">
+<!ENTITY onedayforward.tooltip "1일 후">
+<!ENTITY onedaybackward.tooltip "1일 전">
+<!ENTITY showselectedday.tooltip "선택한 날의 이벤트 보기">

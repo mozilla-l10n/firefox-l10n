@@ -1,0 +1,5 @@
+<!ENTITY messageMarkByDate.label "날짜 순으로 읽음 표시">
+<!ENTITY markByDateLower.label "보낸 사람:">
+<!ENTITY markByDateLower.accesskey "F">
+<!ENTITY markByDateUpper.accesskey "T">
+<!ENTITY markByDateUpper.label "받는 사람:">

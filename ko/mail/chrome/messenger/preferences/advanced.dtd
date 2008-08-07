@@ -1,0 +1,69 @@
+<!ENTITY itemGeneral.label "일반">
+<!ENTITY itemUpdate.label "업데이트">
+<!ENTITY itemNetworking.label "네트워크 및 디스크 공간">
+<!ENTITY itemCertificates.label "인증서">
+<!ENTITY showCondensedAddresses.label "주소록에서 사람에 대한 표시명만 보이기">
+<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY autoMarkAsRead.label "메시지에 자동으로 읽음 표시">
+<!ENTITY autoMarkAsRead.accesskey "A">
+<!ENTITY markAsReadNoDelay.label "출력 후 즉시">
+<!ENTITY markAsReadNoDelay.accesskey "d">
+<!ENTITY markAsReadDelay.label "다음 시간 경과시에 읽음 표시: ">
+<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY secondsLabel.label "초">
+<!ENTITY showFolderColumns.label "폴더의 모든 항목 보이기">
+<!ENTITY showFolderColumns.accesskey "l">
+<!ENTITY rememberLastMsg.label "선택된 메시지 기억하기">
+<!ENTITY rememberLastMsg.accesskey "b">
+<!ENTITY reuseExpRadio0.label "새 메시지 창">
+<!ENTITY reuseExpRadio0.accesskey "i">
+<!ENTITY reuseExpRadio1.label "기존 메시지 창">
+<!ENTITY reuseExpRadio1.accesskey "x">
+<!ENTITY reuseExpRadio2.label "새 메시지 탭">
+<!ENTITY reuseExpRadio2.accesskey "Z">
+<!ENTITY connectionTimeout.label "연결 시간 초과: ">
+<!ENTITY connectionTimeout.accesskey "C">
+<!ENTITY connectionSeconds.label "초">
+<!ENTITY configEditDesc.label "고급 설정">
+<!ENTITY configEdit.label "설정 편집…">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "수신 확인 메시지 설정">
+<!ENTITY showReturnReceipts.label "수신 확인…">
+<!ENTITY showReturnReceipts.accesskey "R">
+<!ENTITY autoCheck.label "자동으로 업데이트 검사:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "설치된 부가 기능">
+<!ENTITY enableAddonsUpdate.accesskey "x">
+<!ENTITY checkNow.label "지금 확인">
+<!ENTITY whenUpdatesFound.label "&brandShortName;의 업데이트를 찾으면:">
+<!ENTITY modeAskMe.label "물어 보기">
+<!ENTITY modeAskMe.accesskey "k">
+<!ENTITY modeAutomatic.label "자동으로 업데이트 설치">
+<!ENTITY modeAutomatic.accesskey "m">
+<!ENTITY modeAutoAddonWarn.label "부가 기능을 사용할 수 없을 경우 경고하기">
+<!ENTITY modeAutoAddonWarn.accesskey "-">
+<!ENTITY showUpdates.label "업데이트 기록 보기">
+<!ENTITY showUpdates.accesskey "y">
+<!ENTITY showConnections.label "연결 설정…">
+<!ENTITY showConnections.accesskey "n">
+<!ENTITY proxiesInfo.label "&brandShortName; 인터넷 연결 방식 설정">
+<!ENTITY connectionsInfo.caption "연결">
+<!ENTITY offlineInfo.caption "오프라인">
+<!ENTITY offlineInfo.label "오프라인 설정">
+<!ENTITY showOffline.label "오프라인…">
+<!ENTITY showOffline.accesskey "O">
+<!ENTITY Diskspace "디스크 공간">
+<!ENTITY offlineCompact.label "지정된 용량 이상의 저장 시에는 폴더 압축하기">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "KB">
+<!ENTITY certificatesInfo2.label "인증서, 인증서 폐기 목록, 인증서 유효성 확인 및 보안 장치를 관리합니다.">
+<!ENTITY viewCertificates.label "인증서 보기">
+<!ENTITY viewCertificates.accesskey "a">
+<!ENTITY viewCRLs.label "인증서 폐기 목록">
+<!ENTITY viewCRLs.accesskey "e">
+<!ENTITY validation.label "인증서 유효성 확인">
+<!ENTITY validation.accesskey "d">
+<!ENTITY viewSecurityDevices.label "보안 장치">
+<!ENTITY viewSecurityDevices.accesskey "u">
+<!ENTITY openMsgIn.label "Open messages in:">

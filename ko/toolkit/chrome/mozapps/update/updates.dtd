@@ -1,0 +1,51 @@
+<!ENTITY updateWizard.title "업데이트 마법사">
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+<!ENTITY checking.title "새로운 업데이트 확인">
+<!ENTITY checking.label "&brandShortName;가 새 업데이트를 확인하고 있습니다…">
+<!ENTITY cancel.label "취소">
+<!ENTITY cancel.accesskey "C">
+<!ENTITY noupdatesfound.title "새로운 업데이트 없음">
+<!ENTITY noupdatesfound.intro "새로운 업데이트가 없습니다. &brandShortName;는 주기적으로 새로운 업데이트를 검사할 수 있습니다.">
+<!ENTITY clickHere.label "이 업데이트에 대한 상세 정보 보기">
+<!ENTITY incompatible.warning "업데이트가 완료될 때까지 테마 또는 확장 기능의 일부가 동작하지 않을 수 있습니다.">
+<!ENTITY listIncompatible.label "목록 보기">
+<!ENTITY listIncompatible.accesskey "L">
+<!ENTITY upgrade.evangelism "빠른 시일 안에 &brandShortName;를 업데이트 하십시오.">
+<!ENTITY license.instructions "이 라이센스에 동의하시면 동의함을 선택하여 업데이트를 설치하십시오.">
+<!ENTITY license.titleText "소프트웨어 라이센서 계약조건">
+<!ENTITY license.introText "이 소프트웨어를 사용하기 위한 계약조건.">
+<!ENTITY license.instructionText "다음 계약조건을 읽어 보시기 바랍니다. 이 계약조건의 나머지를 보시기 위해서는 스크롤바를 이용하실 수 있습니다.">
+<!ENTITY license.accept "이 계약조건에 대하여 동의 합니다.">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "이 계약조건에 대하여 동의하지 않습니다.">
+<!ENTITY license.decline.accesskey "T">
+<!ENTITY downloading.title "업데이트 다운로드">
+<!ENTITY downloading.intro "업데이트 다운로드 중…">
+<!ENTITY connecting.label "업데이트 서버에 접속하는 중…">
+<!ENTITY verificationFailedText.label "&brandShortName;가 다운로드 된 업데이트의 통합성 여부를 확인할 수 없습니다. 전체 소프트웨어를 다운로드 하십시오.">
+<!ENTITY details.link "상세 정보">
+<!ENTITY pause.label "중지">
+<!ENTITY pause.accesskey "e">
+<!ENTITY close.label "닫기">
+<!ENTITY close.accesskey "C">
+<!ENTITY error.label "현재 업데이트를 설치하는 도중 문제가 발생했습니다. &brandShortName;가 업데이트를 설치할 수 없습니다:">
+<!ENTITY errorManual.label "사용자가 직접 다음 사이트를 방문하여 &brandShortName; 업데이트의 최신 버전을 다운로드 할 수 있습니다.">
+<!ENTITY errorpatching.title "업데이트 실패">
+<!ENTITY errorpatching.intro "부분적인 업데이트를 할 수 없습니다. &brandShortName;가 업데이트 다운로드를 재시도 합니다.">
+<!ENTITY finished.title "엄데이트 다운로드 완료">
+<!ENTITY finished.text "업데이트 다운로드가 완료되었습니다. &brandShortName;를 재시작 하면 설치가 진행이 됩니다.">
+<!ENTITY finishedBackground.title "업데이트 설치 준비 완료">
+<!ENTITY finishedBackground.text "&brandShortName;가 중요한 업데이트의 다운로드를 완료했습니다. 자세한 사항은 아래의 링크를 누르십시오.">
+<!ENTITY finishedBackground.name "업데이트:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY finishedBackground.more1 "&brandShortName; 재시작을 누르면 설치가 시작됩니다.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow "재시작을 하지 않으려면 지금 하지 않음을 클릭하십시오. 업데이트는 &brandShortName;가 다시 시작될 때 설치됩니다.">
+<!ENTITY installed.title "업데이트 설치 완료">
+<!ENTITY installed.intro "업데이트 설치가 완료되었습니다.">
+<!ENTITY whatsnew.label "새 소식…">
+<!ENTITY update.details.label "상세 정보">
+<!ENTITY update.installedOn.label "설치 위치:">
+<!ENTITY update.status.label "상태:">
+<!ENTITY incompatibleChecking.label "본 업데이트가 확장 기능 및 테마에 문제 발생 여부를 확인 중…">

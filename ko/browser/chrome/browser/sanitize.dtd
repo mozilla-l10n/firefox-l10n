@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title "개인 정보 초기화">
+<!ENTITY sanitizeItems.label "초기화 항목 선택:">
+<!ENTITY itemHistory.label "방문 페이지 목록">
+<!ENTITY itemHistory.accesskey "B">
+<!ENTITY itemPasswords.label "저장한 암호 목록">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "쿠키">
+<!ENTITY itemCookies.accesskey "C">
+<!ENTITY itemCache.label "캐시">
+<!ENTITY itemCache.accesskey "a">
+<!ENTITY itemOfflineApps.label        "오프라인 웹 사이트 자료">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloads.label "다운로드 기록">
+<!ENTITY itemDownloads.accesskey "D">
+<!ENTITY itemSessions.label "인증된 세션">
+<!ENTITY itemSessions.accesskey "S">
+<!ENTITY itemFormSearchHistory.label "저장된 폼 정보 및 검색 기록">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY clearDataSettings.label "&brandShortName;가 개인 정보 삭제 요구 시, 삭제 해야할 항목:">
+<!ENTITY window.width "30em">

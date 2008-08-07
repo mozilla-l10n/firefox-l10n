@@ -1,0 +1,8 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+<!ENTITY status.label "메시지 보안 정보">
+<!ENTITY signatureCert.label "서명된 인증서 보기">
+<!ENTITY encryptionCert.label "암호화 인증서 보기">
+<!ENTITY signer.name "서명됨:">
+<!ENTITY recipient.name "암호화:">
+<!ENTITY email.address "메일 주소:">
+<!ENTITY issuer.name "인증서 발급:">

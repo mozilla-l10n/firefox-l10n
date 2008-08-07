@@ -1,0 +1,4 @@
+<!ENTITY editPageCmd.label                "편집기에서 문서 편집">
+<!ENTITY editPageCmd.accesskey            "e">
+<!ENTITY editLinkCmd.label                "편집기에서 링크 편집">
+<!ENTITY editLinkCmd.accesskey            "E">

@@ -1,0 +1,28 @@
+<!ENTITY find.label                "찾기:">
+<!ENTITY find.accesskey            "S">
+<!ENTITY expand.label              "보이기">
+<!ENTITY expand.accesskey          "E">
+<!ENTITY collapse.label            "감추기">
+<!ENTITY collapse.accesskey        "C">
+<!ENTITY byDate.label "날짜 순서로">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "사이트 이름 순서로">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "보기">
+<!ENTITY view.accesskey "w">
+<!ENTITY byMostVisited.label "최근 방문한 날짜 순서로">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "마지막 방문한 날짜 순서로">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "날짜 및 사이트 이름 순서로">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "열기">
+<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openInNewTab.label "새 탭으로 열기">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "새 창으로 열기">
+<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY bookmarkLink.label "이 링크를 북마크에 추가…">
+<!ENTITY bookmarkLink.accesskey "B">
+<!ENTITY copyLink.label "링크 주소 복사">
+<!ENTITY copyLink.accesskey "C">

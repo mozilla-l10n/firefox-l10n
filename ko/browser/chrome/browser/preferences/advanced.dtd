@@ -1,0 +1,85 @@
+<!ENTITY generalTab.label "일반">
+<!ENTITY accessibility.label "접근성">
+<!ENTITY browsing.label "보기 기능">
+<!ENTITY useSmoothScrolling.label "부드러운 스크롤 기능 사용">
+<!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY updateTab.label "업데이트">
+<!ENTITY autoCheck.label "자동으로 업데이트할 항목:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "설치된 부가 기능">
+<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableSearchUpdate.label "검색 사이트">
+<!ENTITY enableSearchUpdate.accesskey "h">
+<!ENTITY whenUpdatesFound.label "&brandShortName; 업데이트 항목이 있는 경우:">
+<!ENTITY modeAutomatic.label "자동으로 다운로드하여 설치하기">
+<!ENTITY modeAutomatic.accesskey "d">
+<!ENTITY modeAutoAddonWarn.label "부가 기능을 사용할 수 없는 경우 알림">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!ENTITY protocols.label "프로토콜">
+<!ENTITY useSSL3.label "SSL 3.0 사용">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "TLS 1.0 사용">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "인증서">
+<!ENTITY certSelection.description "웹 사이트에서 개인 인증서를 요구할 때:">
+<!ENTITY viewCRLs.label "인증서 폐기 목록">
+<!ENTITY viewCRLs.accesskey "R">
+<!ENTITY viewSecurityDevices.label "보안 장치">
+<!ENTITY viewSecurityDevices.accesskey "y">
+<!ENTITY useCursorNavigation.label "커서 키를 항상 페이지 내에서 사용">
+<!ENTITY useCursorNavigation.accesskey "c">
+<!ENTITY searchStartTyping.label "입력을 시작하면 페이지 내용 검색하기">
+<!ENTITY searchStartTyping.accesskey "x">
+<!ENTITY useAutoScroll.label "자동 스크롤 기능 사용">
+<!ENTITY useAutoScroll.accesskey "a">
+<!ENTITY networkTab.label "네트워크">
+<!ENTITY connection.label "연결">
+<!ENTITY connectionDesc.label "&brandShortName;가 인터넷에 연결하는 방법을 선택합니다.">
+<!ENTITY connectionSettings.label "설정…">
+<!ENTITY connectionSettings.accesskey "e">
+
+<!ENTITY offlineStorage.label "오프라인 보관소">
+
+<!ENTITY useCacheBefore.label "사용 용량">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB 사용">
+<!ENTITY clearCacheNow.label "지금 삭제">
+<!ENTITY clearCacheNow.accesskey "C">
+
+<!ENTITY askMe.label "항상 물어 보기">
+<!ENTITY askMe.accesskey "k">
+<!ENTITY updateHistory.label "업데이트 기록 보기">
+<!ENTITY updateHistory.accesskey "p">
+
+<!ENTITY offlineNotify.label             "오프라인 시 이용할 자료를 저장할 때 알려주기">
+<!ENTITY offlineNotify.accesskey         "T">
+<!ENTITY offlineNotifyExceptions.label   "예외 사항…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+<!ENTITY offlineAppsList.label           "오프라인 시 이용 가능한 웹 사이트 목록:">
+
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "삭제…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "오프라인 자료 삭제">
+
+<!ENTITY encryptionTab.label "암호화">
+<!ENTITY certs.auto "자동으로 한 가지 선택">
+<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.ask "항상 물어 보기">
+<!ENTITY certs.ask.accesskey "i">
+<!ENTITY viewCerts.label "인증서 보기">
+<!ENTITY viewCerts.accesskey "s">
+<!ENTITY checkSpelling.label "맞춤법 검사 기능 사용">
+<!ENTITY checkSpelling.accesskey "t">
+
+<!ENTITY systemDefaults.label            "기본 브라우저 설정">
+<!ENTITY alwaysCheckDefault.label        "시작 시 &brandShortName;가 기본 브라우저인지 매번 확인하기">
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "지금 확인">
+<!ENTITY checkNow.accesskey              "N">
+
+<!ENTITY blockAutoRefresh.label "웹 사이트 새로 고침이나 리다이렉트할 경우 경고하기">
+<!ENTITY blockAutoRefresh.accesskey "b">
+<!ENTITY verify2.label "유효성 확인">
+<!ENTITY verify2.accesskey "V">

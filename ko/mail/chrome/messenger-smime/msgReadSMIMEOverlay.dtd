@@ -1,0 +1,3 @@
+<!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
+<!ENTITY menu_securityStatus.label "메시지 보안 정보">
+<!ENTITY menu_securityStatus.accesskey "I">

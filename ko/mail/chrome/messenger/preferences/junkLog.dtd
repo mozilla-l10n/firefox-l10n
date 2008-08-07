@@ -1,0 +1,6 @@
+<!ENTITY junkLog.title "스팸 메일 기록">
+<!ENTITY junkLogInfo.label "스팸 메일 처리 활동 기록">
+<!ENTITY clearLog.label "기록 삭제">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY closeLog.label "닫기">
+<!ENTITY closeLog.accesskey "o">

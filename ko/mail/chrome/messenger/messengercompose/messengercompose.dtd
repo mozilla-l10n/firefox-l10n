@@ -1,0 +1,241 @@
+<!ENTITY msgComposeWindow.title "쓰기: (제목 없음)">
+<!ENTITY fileMenu.label "파일">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "새로 만들기">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMessage.label "메시지">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY newCard.label "주소록 명함…">
+<!ENTITY newCard.accesskey "c">
+<!ENTITY attachMenu.label "첨부">
+<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachFileCmd.label "파일 첨부…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "웹 페이지 첨부…">
+<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachVCardCmd.label "명함 추가">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY closeCmd.label "닫기">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "c">
+<!ENTITY saveCmd.label "저장">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveAsCmd.label "다른 이름으로 저장">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsFileCmd.label "파일…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "임시 편지함">
+<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsTemplateCmd.label "템플릿 편지함">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY sendNowCmd.label "지금 보내기">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "나중에 보내기">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "인쇄 화면 설정…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printCmd.label "인쇄…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY quitApplicationCmdWin.label "닫기">
+<!ENTITY quitApplicationCmdWin.accesskey "x">
+<!ENTITY quitApplicationCmd.label "종료">
+<!ENTITY quitApplicationCmd.accesskey "Q">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY editMenu.label "편집">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "실행 취소">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "재실행">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "잘라내기">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "복사">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "붙여넣기">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY editRewrapCmd.label "재보호">
+<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY deleteCmd.label "삭제">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY selectAllCmd.label "전체 선택">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY findCmd.label "찾아 바꾸기…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "다시 찾기">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "이전 찾기">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY viewMenu.label "보기">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenuNew.label "도구 모음">
+<!ENTITY viewToolbarsMenuNew.accesskey "T">
+<!ENTITY showCompositionToolbarCmd.label "작성 도구 모음">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "형식 도구 모음">
+<!ENTITY showFormattingBarCmd.accesskey "F">
+<!ENTITY showTaskbarCmd.label "상태 표시줄">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "사용자 정의…">
+<!ENTITY customizeToolbar.accesskey "C">
+<!ENTITY addressSidebar.label "주소록 탐색창">
+<!ENTITY addressSidebar.accesskey "o">
+<!ENTITY formatMenu.label "서식">
+<!ENTITY formatMenu.accesskey "o">
+<!ENTITY optionsMenu.label "설정">
+<!ENTITY optionsMenu.accesskey "p">
+<!ENTITY checkSpellingCmd.label "맞춤법 검사…">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key2 "VK_F7">
+<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "맞춤법 검사">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY quoteCmd.label "메시지 인용">
+<!ENTITY quoteCmd.accesskey "Q">
+<!ENTITY attachVCard.label "명함 첨부">
+<!ENTITY attachVCard.accesskey "v">
+<!ENTITY returnReceiptMenu.label "수신 확인">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY outputFormatMenu.label "서식">
+<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY autoFormatCmd.label "자동 선택">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "텍스트 형식으로">
+<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY htmlFormatCmd.label "HTML 형식으로">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "텍스트와 HTML 형식으로">
+<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY priorityMenu.label "중요도">
+<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityButton.label "중요도:">
+<!ENTITY lowestPriorityCmd.label "아주 낮음">
+<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowPriorityCmd.label "낮음">
+<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY normalPriorityCmd.label "보통">
+<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY highPriorityCmd.label "높음">
+<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highestPriorityCmd.label "아주 높음">
+<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY fileCarbonCopyCmd.label "사본 보내기">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "현재 파일">
+<!ENTITY tasksMenu.label "도구">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "메일과 뉴스 그룹">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "주소록">
+<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY accountManagerCmd.label "계정…">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmdUnix.accesskey "S">
+<!ENTITY preferencesCmd.label "설정…">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "설정">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "창 최소화">
+<!ENTITY bringAllToFront.label "모두 앞으로 보내기">
+<!ENTITY zoomWindow.label "창 확대">
+<!ENTITY windowMenu.label "창">
+<!ENTITY sendButton.label "보내기">
+<!ENTITY quoteButton.label "인용">
+<!ENTITY addressButton.label "주소록">
+<!ENTITY attachButton.label "첨부">
+<!ENTITY spellingButton.label "맞춤법">
+<!ENTITY saveButton.label "저장">
+<!ENTITY throbberItem.title "활성도 지시자">
+<!ENTITY sendButton.tooltip "지금 보내기">
+<!ENTITY sendlaterButton.tooltip "나중에 보내기">
+<!ENTITY quoteButton.tooltip "이전 메시지 인용">
+<!ENTITY addressButton.tooltip "주소록에서 받는 사람 선택">
+<!ENTITY attachButton.tooltip "메시지에 파일 첨부">
+<!ENTITY saveButton.tooltip "메시지 저장">
+<!ENTITY cutButton.tooltip "잘라내기">
+<!ENTITY copyButton.tooltip "복사">
+<!ENTITY pasteButton.tooltip "붙여넣기">
+<!ENTITY fromAddr.label "보내는 사람:">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY toAddr.label "받는 사람:">
+<!ENTITY ccAddr.label "참조:">
+<!ENTITY bccAddr.label "숨은 참조:">
+<!ENTITY replyAddr.label "회신 주소:">
+<!ENTITY newsgroupsAddr.label "뉴스 그룹:">
+<!ENTITY followupAddr.label "전달:">
+<!ENTITY subject.label "제목:">
+<!ENTITY subject.accesskey "S">
+<!ENTITY attachments.label "첨부:">
+<!ENTITY attachments.accesskey "c">
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!ENTITY SmileButton.tooltip "표정 아이콘 삽입">
+<!ENTITY smiley1Cmd.label "미소">
+<!ENTITY smiley2Cmd.label "시무룩">
+<!ENTITY smiley3Cmd.label "윙크">
+<!ENTITY smiley4Cmd.label "메롱">
+<!ENTITY smiley5Cmd.label "활짝 웃음">
+<!ENTITY smiley6Cmd.label "난처">
+<!ENTITY smiley7Cmd.label "고민">
+<!ENTITY smiley8Cmd.label "놀람">
+<!ENTITY smiley9Cmd.label "키스">
+<!ENTITY smiley10Cmd.label "고함">
+<!ENTITY smiley11Cmd.label "멋짐">
+<!ENTITY smiley12Cmd.label "돈">
+<!ENTITY smiley13Cmd.label "횡설수설">
+<!ENTITY smiley14Cmd.label "순진">
+<!ENTITY smiley15Cmd.label "울음">
+<!ENTITY smiley16Cmd.label "함구">
+<!ENTITY spellCheckNoSuggestions.label "추천 단어 없음">
+<!ENTITY spellCheckIgnoreWord.label "무시하기">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "사전에 추가">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "실행 취소">
+<!ENTITY undo.accesskey "U">
+<!ENTITY cut.label "잘라내기">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "복사">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "붙여넣기">
+<!ENTITY paste.accesskey "P">
+<!ENTITY pasteQuote.label "인용 형식으로 붙여넣기">
+<!ENTITY pasteQuote.accesskey "Q">
+<!ENTITY openAttachment.label "열기">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY delete.label "삭제">
+<!ENTITY delete.accesskey "D">
+<!ENTITY renameAttachment.label "새 이름으로 저장…">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY selectAll.label "모두 선택">
+<!ENTITY selectAll.accesskey "A">
+<!ENTITY attachFile.label "파일 첨부…">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "웹 페이지 첨부…">
+<!ENTITY attachPage.accesskey "W">
+<!ENTITY addressesSidebarTitle.label "주소록 탐색창">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY dsnMenu.label "Delivery Status Notification">
+<!ENTITY dsnMenu.accesskey "N">

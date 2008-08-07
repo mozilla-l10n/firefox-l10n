@@ -1,0 +1,34 @@
+<!ENTITY serverAdvanced.label "고급 계정 설정">
+<!-- LOCALIZATION NOTE (imapAdvanced.label): Do not translate "IMAP" -->
+<!ENTITY imapAdvanced.label "고급 IMAP 서버 설정">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP 서버 디렉토리:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "구독 허가한 폴더만 보이기">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "서버가 폴더 및 메시지를 포함하는 폴더 지원">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "서버에서 지원하면 IDLE 명령 사용">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "캐시에 저장할 서버의 최대 연결수">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "설정은 IMAP 서버의 네임스페이스에 한정됩니다.">
+<!ENTITY personalNamespace.label "개인 네임스페이스:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "공공 (공용):">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "다른 사용자:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "네임스페이스를 우선하도록 서버 허가">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "이 서버를 통하여 POP3 메일을 받으면 다음 중 한 곳에 메일을 저장할 수 있습니다." >
+<!ENTITY folderStorage.label "메일 저장 위치">
+<!ENTITY globalInbox.label "전체 메일함 (로컬 폴더 계정의 받은 편지함)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "이 서버 계정에 대한 받은 편지함">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "다른 POP3 계정의 받은 편지함">
+<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferGetNewMail.label "새 메일이 도착하면 이 서버도 포함">
+<!ENTITY deferGetNewMail.accesskey "I">

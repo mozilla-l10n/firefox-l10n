@@ -1,0 +1,10 @@
+<!ENTITY notificationsDialog2.title       "새 메일 알림 설정">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "경고 알람을 사용할 필드 선택:">
+<!ENTITY previewText.label                "메시지 미리 보기">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "제목">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "보낸 사람">
+<!ENTITY sender.accesskey                 "e">

@@ -1,0 +1,97 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Window title -->
+<!ENTITY windowTitle.label         "페이지 출판">
+<!ENTITY windowTitleSettings.label "출판 설정">
+<!ENTITY publishTab.label         "출판">
+<!ENTITY settingsTab.label        "설정">
+<!ENTITY publishButton.label      "출판">
+<!-- Publish Tab Panel -->
+<!ENTITY siteList.label           "사이트명:">
+<!ENTITY siteList.accesskey       "e">
+<!ENTITY siteList.tooltip         "출판할 사이트의 이름을 선택하십시오.">
+<!ENTITY newSiteButton.label      "새 사이트">
+<!ENTITY newSiteButton.accesskey  "N">
+<!ENTITY docDirList.label         "이 페이지의 하위디렉토리:">
+<!ENTITY docDirList.accesskey     "S">
+<!ENTITY docDirList.tooltip       "이 페이지를위한 원격 하위 디렉토리의 이름을 선택하거나 입력하십시오.">
+<!ENTITY publishImgCheckbox.label "그림과 다른 파일도 포함">
+<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.tooltip "이 페이지에 참조된 그림과 다른 파일도 출판">
+<!ENTITY sameLocationRadio.label  "같은 위치사용">
+<!ENTITY sameLocationRadio.accesskey "U">
+<!ENTITY sameLocationRadio.tooltip "페이지와 같은 위치로 파일 출판">
+<!ENTITY useSubdirRadio.label     "이 하부디렉토리사용:">
+<!ENTITY useSubdirRadio.accesskey "d">
+<!ENTITY useSubdirRadio.tooltip   "선택한 원격 하위 디렉토리로 파일을 출판">
+<!ENTITY otherDirList.tooltip     "출판된 파일이 위치하는 원격 하위 디렉토리의 이름을 선택하거나 입력하십시오.">
+<!ENTITY pageTitle.label          "페이지 제목:">
+<!ENTITY pageTitle.accesskey      "T">
+<!ENTITY pageTitle.tooltip        "북마크나 창에 페이지를 확인 할 수 있는 제목 입력">
+<!ENTITY pageTitleExample.label   "예: &quot;내 웹 페이지&quot;">
+<!ENTITY filename.label           "파일 이름:">
+<!ENTITY filename.accesskey       "F">
+<!ENTITY filename.tooltip         "웹 페이지 파일 이름 입력 (.html 포함)">
+<!ENTITY filenameExample.label    "예: &quot;mypage.html&quot;">
+<!ENTITY relatedDocs.label        "출판할 다른 파일">
+<!ENTITY setDefaultButton.label   "기본 값으로 설정">
+<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY setDefSiteAndDir.label   "기본 사이트와 디렉토리로 설정">
+<!ENTITY removeButton.label       "사이트 삭제">
+<!ENTITY removeButton.accesskey   "R">
+<!-- Settings Tab Panel -->
+<!ENTITY publishSites.label   "출판할 사이트">
+<!ENTITY serverInfo.label     "서버정보">
+<!ENTITY loginInfo.label      "로그인 정보">
+<!ENTITY siteName.label       "사이트명:">
+<!ENTITY siteName.accesskey   "e">
+<!ENTITY siteName.tooltip     "출판 사이트를 알 수 있는 별칭 (예: 마이홈페이지)">
+<!ENTITY siteUrl.label        "출판할 URL (ISP나 시스템관리자에 부여.):">
+<!ENTITY siteUrl.accesskey    "a">
+<!ENTITY siteUrl.tooltip      "ISP나 웹호스팅업체에서 받은 FTP:// 또는 HTTP:// 주소">
+<!ENTITY browseUrl.label      "탐색할 HTTP 주소:">
+<!ENTITY browseUrl.accesskey  "T">
+<!ENTITY browseUrl.tooltip    "사용자의 홈 디렉토리 HTTP:// 주소 (파일명은 포함하지 않음)">
+<!ENTITY username.label       "사용자 이름:">
+<!ENTITY username.accesskey   "U">
+<!ENTITY username.tooltip     "ISP나 웹호스팅 업체에 대한 로그인 아이디">
+<!ENTITY password.label       "암호:">
+<!ENTITY password.accesskey   "w">
+<!ENTITY password.tooltip     "사용자 이름에 대한 암호">
+<!ENTITY savePassword.label   "암호 저장">
+<!ENTITY savePassword.accesskey "S">
+<!ENTITY savePassword.tooltip "암호 관리자에 이 암호를 저장함.">

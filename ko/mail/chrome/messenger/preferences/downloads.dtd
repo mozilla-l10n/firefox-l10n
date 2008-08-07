@@ -1,0 +1,21 @@
+<!ENTITY askOnSave.label              "다운로드 폴더">
+<!ENTITY alwaysAsk.label              "저장할 때마다 물어 보기">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY neverAsk.label               "이 폴더에 모두 저장">
+<!ENTITY neverAsk.accesskey           "S">
+<!ENTITY desktop.label                "바탕화면">
+<!ENTITY downloads.label              "내 다운로드">
+<!ENTITY chooseFolderWin.label        "찾아보기…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "선택…">
+<!ENTITY chooseFolderMac.accesskey    "C">
+<!ENTITY fileTypes.label              "파일 형식">
+<!ENTITY configureActions.label       "다운로드 방식 변경…">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypesDescription.label   "다음 형식인 파일은 자동으로 실행:">
+<!ENTITY fileTypeColName.label        "파일 형식">
+<!ENTITY fileHandlerColName.label     "응용 프로그램">
+<!ENTITY editFileHandler.label        "실행 방식 변경…">
+<!ENTITY editFileHandler.accesskey    "a">
+<!ENTITY removeFileHandler.label      "제거">
+<!ENTITY removeFileHandler.accesskey  "r">

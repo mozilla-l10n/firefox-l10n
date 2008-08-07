@@ -1,0 +1,40 @@
+<!ENTITY reportWizard.title "웹 사이트 문제 보고">
+<!ENTITY privacyNotice.label "개인 정보 정책">
+<!ENTITY reportWizardPrivacy.description "이 도구는 &brandShortName;에서 표시되지 않거나 호환되지 않는 기능을 제공하는 웹 사이트 정보를 웹 표준팀에 알리는 역할을 합니다. 웹 표준팀은 이 정보를 근거로 웹 사이트에 문제를 알리고 해결하기 위해 노력하는 동시에 &brandShortName;에서의 적용 가능성도 찾습니다. 아래 사항을 읽고 참가해 주십시오.">
+<!ENTITY reportWizardMustAgree.description "계속하려면 위의 개인 정보 정책에 동의해야 합니다.">
+<!ENTITY dontShowPrivacyStatement.label "개인 정보 보호 정책에 동의합니다.">
+<!ENTITY dontShowPrivacyStatement.accesskey "I">
+<!ENTITY reportForm.label "보고 내용을 입력해 주십시오.">
+<!ENTITY reportForm.description "발생한 문제를 간단하게 적어 주십시오:">
+<!ENTITY reportForm.url.title "웹 사이트 주소 (URL):">
+<!ENTITY reportForm.url.accesskey "U">
+<!ENTITY reportForm.behind_login.title "웹 사이트의 비밀 번호가 필요합니다.">
+<!ENTITY reportForm.behind_login.accesskey "P">
+<!ENTITY reportForm.problem_type.title "문제 종류:">
+<!ENTITY reportForm.problem_type.accesskey "T">
+<!ENTITY reportForm.problem_type.chooseOne.title "선택…">
+<!ENTITY reportForm.problem_type.item1.title "브라우저를 지원하지 않음">
+<!ENTITY reportForm.problem_type.item2.title "로그인 할 수 없음">
+<!ENTITY reportForm.problem_type.item3.title "플러그인이 보이지 않음">
+<!ENTITY reportForm.problem_type.item4.title "일부 컨텐트가 보이지 않음">
+<!ENTITY reportForm.problem_type.item5.title "일부 양식 문제">
+<!ENTITY reportForm.problem_type.item6.title "일부 스타일 문제">
+<!ENTITY reportForm.problem_type.item7.title "기타 문제">
+<!ENTITY reportForm.describe.title "문제 설명:">
+<!ENTITY reportForm.describe.accesskey "D">
+<!ENTITY reportForm.platform.title "플랫폼:">
+<!ENTITY reportForm.product.title "제품:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "사용자 에이전트:">
+<!ENTITY reportForm.language.title "언어:">
+<!ENTITY reportForm.email.title "메일 주소 (선택 사항):">
+<!ENTITY reportForm.email.accesskey "E">
+<!ENTITY reportForm.privacyPolicy.title "개인 정보 정책">
+<!ENTITY reportForm.privacyPolicy.tooltip "개인 정보 정책 보기">
+<!ENTITY reportResults.showDetail.title "상세 정보">
+<!ENTITY reportResults.showDetail.accesskey "S">
+<!ENTITY sendReport.label "보고서 보내기">
+<!ENTITY sendReport.description "서버에 보고서 보내는 중…">
+<!ENTITY finish.label "보내기 완료">
+<!ENTITY reportForm.problem_type.item8.title "접근 장애">
+<!ENTITY reportForm.problem_type.item9.title "인쇄물 문제">
