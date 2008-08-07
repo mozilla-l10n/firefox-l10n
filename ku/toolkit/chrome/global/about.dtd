@@ -1,0 +1,19 @@
+<!ENTITY about.version                "guhetro">
+
+<!ENTITY about.copy.beforeLink        "Mafên Kopîkirinê &copy; 1998-2007 ê">
+<!ENTITY about.copy.linkTitle         "piştgirên">
+<!ENTITY about.copy.afterLink         "ji bo Projeya Mozilla'yê.">
+
+<!ENTITY about.license.beforeLink     "Ji bo vê hilberînê">
+<!ENTITY about.license.linkTitle      "agahiyên lîsanskirinê">
+<!ENTITY about.license.afterLink      "bixwîne.">
+
+<!ENTITY about.relnotes.beforeLink    "Ji bo vê guhertoyê">
+<!ENTITY about.relnotes.linkTitle     "têbiniyên weşanê">
+<!ENTITY about.relnotes.afterLink     "bixwîne.">
+
+<!ENTITY about.buildconfig.beforeLink "Mîhengên avakirinê">
+<!ENTITY about.buildconfig.linkTitle  "yên ji bo vê guhertoyê hatine bikaranîn">
+<!ENTITY about.buildconfig.afterLink  "bibîne.">
+
+<!ENTITY about.buildIdentifier        "Danaskara avakirinê: ">

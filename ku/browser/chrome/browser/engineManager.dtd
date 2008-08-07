@@ -1,0 +1,25 @@
+<!ENTITY  engineManager.title       "Lîsteya Motorên Lêgerînê Bi Rê Ve Bibe">
+<!ENTITY  engineManager.style       "min-width: 35em;">
+<!ENTITY  engineManager.intro       "Ev motorên lêgerînê yên li jêr sazbûyî ne:">
+
+<!ENTITY  columnLabel.name          "Nav">
+<!ENTITY  columnLabel.keyword       "Peyva Kilît">
+
+<!-- Buttons -->
+<!ENTITY  up.label                  "Ber bi jor">
+<!ENTITY  up.accesskey              "o">
+<!ENTITY  dn.label                  "Ber bi jêr">
+<!ENTITY  dn.accesskey              "j">
+<!ENTITY  remove.label              "Rake">
+<!ENTITY  remove.accesskey          "R">
+<!ENTITY  edit.label                "Peyva Kilît Serrast Bike...">
+<!ENTITY  edit.accesskey            "t">
+
+<!ENTITY  addEngine.label           "Zêdetir motorên lêgerîne bistîne...">
+<!ENTITY  addEngine.accesskey       "Z">
+
+<!ENTITY  enableSuggest.label       "Pêşniyarên lêgerandinê nîşan bide">
+<!ENTITY  enableSuggest.accesskey   "P">
+
+<!ENTITY  restoreDefaults.label     "Bizivire standardan">
+<!ENTITY  restoreDefaults.accesskey "B">

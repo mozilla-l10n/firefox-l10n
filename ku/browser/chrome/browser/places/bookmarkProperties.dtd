@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                 "Nav:">
+<!ENTITY bookmarks.name.accesskey             "N">
+<!ENTITY bookmarks.location.label             "Cî:">
+<!ENTITY bookmarks.location.accesskey         "L">
+<!ENTITY bookmarks.keyword.label              "Peyva Kilît:">
+<!ENTITY bookmarks.keyword.accesskey          "K">
+<!ENTITY bookmarks.description.label          "Ravekirin:">
+<!ENTITY bookmarks.description.accesskey      "D">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "Sernavên Zindî">
+<!ENTITY bookmarks.createIn.label             "Di virê de biafirîne:">
+<!ENTITY bookmarks.createIn.accesskey         "C">
+<!ENTITY bookmarks.feed_location.label        "Ciyê Xwedîkirinê:">
+<!ENTITY bookmarks.feed_location.accesskey    "F">
+<!ENTITY bookmarks.site_location.label        "Ciyê Malperê:">
+<!ENTITY bookmarks.site_location.accesskey    "S">
+<!ENTITY bookmarks.loadInSidebar.label        "Vê bijareyê di darikê gerokê de bar bike">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "o">
+<!ENTITY bookmarks.expanderDown.tooltip       "Hemû peldankên bijareyan nîşan bide">
+<!ENTITY bookmarks.expanderUp.tooltip         "Veşêre">
+<!ENTITY bookmarks.newFolderButton.label      "Peldanka Nû">
+<!ENTITY bookmarks.newFolderButton.accesskey  "e">

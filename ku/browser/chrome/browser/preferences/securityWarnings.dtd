@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Hişyarkirinên Ewlekariyê">
+
+<!ENTITY security.warn_when                       "Hişyarkirinekê nîşan bide dema ku:">
+<!ENTITY security.warn_entering_secure.label      "Ez hewl bidim ku rûpeleke bi nasnav vekim.">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "Ez hewl bidim ku rûpeleke nasnaveke astbilind bikar tîne vekim.">
+<!ENTITY security.warn_entering_weak.accesskey    "g">
+<!ENTITY security.warn_leaving_secure.label       "Ez ji malpereke bi nasnav herim malpereke bê nasnav.">
+<!ENTITY security.warn_leaving_secure.accesskey   "l">
+<!ENTITY security.warn_submit_insecure.label      "Ez agahiyên bênasnav têkevimê.">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "Ez hewl bidim ku malpereke binasnav a ku agahiyên bênasnav dihewîne vekim.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

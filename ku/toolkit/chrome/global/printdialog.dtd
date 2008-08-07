@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Çap bike">
+
+<!ENTITY printDialog.title "Çap bike">
+
+<!ENTITY fpDialog.title "Pelê Tomar Bike">
+
+<!ENTITY fileCheck.label "Di Vê Pelê De Çap Bike">
+<!ENTITY propertiesButton.label "Taybetmendî...">
+<!ENTITY descText.label "Danasîna Çaperê:">
+<!ENTITY printer.label "Çaper">
+<!ENTITY printerInput.label "Çaper:">
+
+<!ENTITY printrangeGroup.label "Keviyan çap bike">
+<!ENTITY allpagesRadio.label "Hemû rûpel">
+<!ENTITY rangeRadio.label "Rûpel">
+<!ENTITY frompageInput.label "ji">
+<!ENTITY topageInput.label "ji bo">
+<!ENTITY selectionRadio.label "Vebijartin">
+
+<!ENTITY copies.label "Kopîkirin">
+<!ENTITY numCopies.label "Hejmara kopiyan:">
+
+<!ENTITY printframeGroup.label "Çarçoweyê çap bike">
+<!ENTITY aslaidoutRadio.label "Wekî ku di pacê de xuya dibe">
+<!ENTITY selectedframeRadio.label "Çarçoweya hatiye hilbijartin">
+<!ENTITY eachframesepRadio.label "Her çarçoweyekê cuda">
+

@@ -1,0 +1,31 @@
+<!ENTITY editMenu.label "Serast Bike">
+<!ENTITY editMenu.accesskey "s">
+<!ENTITY undoCmd.label "Şûnde bîne">
+<!ENTITY undoCmd.key "z">
+<!ENTITY undoCmd.accesskey "d">
+<!ENTITY redoCmd.label "Nû bike">
+<!ENTITY redoCmd.key "n">
+<!ENTITY redoCmd.accesskey "n">
+<!ENTITY cutCmd.label "Jê bike">
+<!ENTITY cutCmd.key "x">
+<!ENTITY cutCmd.accesskey "j">
+<!ENTITY copyCmd.label "Ji ber bigire">
+<!ENTITY copyCmd.key "c">
+<!ENTITY copyCmd.accesskey "j">
+<!ENTITY pasteCmd.label "Pê ve bike">
+<!ENTITY pasteCmd.key "v">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "Jê bibe">
+<!ENTITY deleteCmd.accesskey "b">
+<!ENTITY selectAllCmd.label "Hemûyan hilbijêre">
+<!ENTITY selectAllCmd.key "a">
+<!ENTITY selectAllCmd.accesskey "h">
+<!ENTITY findCmd.label "Bibîne û biguherîne...">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "B">
+<!ENTITY findAgainCmd.label "Ji nû ve lê bigere">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findPreviousCmd.label "Yê berê bibîne">
+<!ENTITY findPreviousCmd.accesskey "n">

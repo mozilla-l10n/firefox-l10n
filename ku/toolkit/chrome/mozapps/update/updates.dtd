@@ -1,0 +1,71 @@
+<!ENTITY updateWizard.title "Rojanekirina Nivîsbariyê">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "Li Rojanekirinan Digere">
+<!ENTITY checking.label "&brandShortName; niha rojanekirinan kontrol dike...">
+
+<!ENTITY cancel.label "Betal">
+<!ENTITY cancel.accesskey "B">
+
+<!ENTITY noupdatesfound.title "Tu Rojanekirin Nehat Dîtin">
+<!ENTITY noupdatesfound.intro "Tu rojanekirin tune. Belkî divê &brandShortName; bi awayekî periyodîk li rojanekirinên nû bigere.">
+
+
+<!ENTITY clickHere.label "Zêdetir agahî derbarê vê rojanekirinê de nîşan bide">
+
+<!ENTITY incompatible.warning "Ev rojanekirin heta rojanekirin biqede dê bibe sedema nexebitîna hin pêvek û/an temayan.">
+<!ENTITY listIncompatible.label "Lîsteyê Nîşan Bide">
+<!ENTITY listIncompatible.accesskey "L">
+
+<!ENTITY upgrade.evangelism "Di demeke gelek kin de bilindkirina &brandShortName; 'ê tê pêşniyarkirin.">
+
+<!ENTITY license.instructions "Heke şertên vê peymanê bipejirînî Dipejirînim bitikîne û sazkirinê bidomîne.">
+
+<!ENTITY license.titleText "Peymana Lîsansa Nivîsbariyê">
+<!ENTITY license.introText "Şert û rewşên bikaranîna vê nivîsbariyê.">
+<!ENTITY license.instructionText "Ji kerema xwe peymana lîsansê ya lijêr bixwîne. Ji bo xwendina hemû peymanê şiva kêlekê bi kar bîne.">
+<!ENTITY license.accept "Şertên Peymana Lîsansê dipejirînim">
+<!ENTITY license.accept.accesskey "p">
+<!ENTITY license.decline "Şertên Peymana Lîsansê NAPEJIRÎNIM">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY downloading.title "Rojanekirin Tê Daxistin">
+<!ENTITY downloading.intro "Rojanekirin tê daxistin...">
+<!ENTITY connecting.label "Digel pêşkêşkara rojanekirinê têkilî tê danîn...">
+<!ENTITY verificationFailedText.label "&brandShortName; was unable to verify the integrity of the incremental update it downloaded, so it is now downloading the complete update package.">
+
+<!ENTITY details.link "Kîtekît">
+<!ENTITY pause.label "Raweste">
+<!ENTITY pause.accesskey "r">
+<!ENTITY close.label "Bigire">
+<!ENTITY close.accesskey "B">
+
+<!ENTITY error.label "Pirsgirêk derketin ber daxistin an jî sazkirina vê rojanekirinê. &brandShortName; ji ber vê sedemê nehat rojanekirin:">
+                                           
+<!ENTITY errorManual.label "Dikarî &brandShortName; 'ê bi destan rojane bikî. Guhertoya nûtirîn ji vê girêdanê dikarî daxî::">
+                                           
+<!ENTITY errorpatching.title "Rojanekirin Bi ser Neket">
+<!ENTITY errorpatching.intro "Rojanekirina bi parçe nehat sepandin. &brandShortName; dê daxistina bi temamî biceribîne.">
+
+<!ENTITY finished.title "Rojanekirin Hat Daxistin">
+<!ENTITY finished.text "Daxistin û rastandina rojanekirinê bi ser ket û dema ku &brandShortName; careke din bê destpêkirin dê bê sazkirin.">
+
+<!ENTITY finishedBackground.title "Rojanekirin ji bo Sazbûnê Amade ye">
+<!ENTITY finishedBackground.text "&brandShortName; 'ê rojanekirineke girîng daxist û rastand. Ji bo zêdetir agahî girêdanê bitikîne.">
+<!ENTITY finishedBackground.name "Rojanekirin:">
+<!ENTITY finishedBackground.more1 "Niha ji bo sazkirina rojanekirinê Nûdestpêkirina &brandShortName;  'ê bitikîne.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Ji bo girtina vê paceyê Ne Niha bitikîne û xebata xwe bidomîne. &brandShortName; dema ku careke din hat vekirin dê rojanekirinan saz bike.">
+
+
+<!ENTITY installed.title "Rojanekirin Hat Sazkirin">
+<!ENTITY installed.intro "Rojanekirin bi temamî hat sazkirin.">
+<!ENTITY whatsnew.label "Derbarê yên nû de zêdetir bixwîne......">
+
+<!ENTITY update.details.label "Kîtekît">
+<!ENTITY update.installedOn.label "Li vir hat sazkirin:">
+<!ENTITY update.status.label "Rewş:">
+
+<!ENTITY  incompatibleChecking.label      "   Kontrol dika ka ev rojanekirin ji bo pêvek û dirbên te dê pirsgirêk derxe an na...">

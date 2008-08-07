@@ -1,0 +1,38 @@
+<!ENTITY blockPopups.label "Paceyên bixweber vedibin asteng bike">
+<!ENTITY blockPopups.accesskey "B">
+<!ENTITY popupExceptions.label "Bitaybetî...">
+<!ENTITY popupExceptions.accesskey "E">
+
+<!ENTITY loadImages.label "Wêneyê xweber bar bike">
+<!ENTITY loadImages.accesskey "I">
+<!ENTITY exceptions.label "Zêdekarî">
+<!ENTITY exceptions.accesskey "z">
+
+<!ENTITY enableJavaScript.label "JavaScriptê çalak bike">
+<!ENTITY enableJavaScript.accesskey "S">
+<!ENTITY advancedJS.label "Pêşketî...">
+<!ENTITY advancedJS.accesskey "p">
+
+<!ENTITY enableJava.label "Java çalak">
+<!ENTITY enableJava.accesskey "n">
+
+
+<!ENTITY fontsAndColors.label "Cureyên Nivîsê  &amp; Reng">
+
+<!ENTITY defaultFont.label "Cureyê nivîsê yê heyî:">
+<!ENTITY defaultFont.accesskey "S">
+<!ENTITY defaultSize.label "Mezinahî">
+<!ENTITY defaultSize.accesskey "i">
+
+<!ENTITY advancedFonts.label "Pêşketî...">
+<!ENTITY advancedFonts.accesskey "d">
+
+<!ENTITY colors.label "Reng...">
+<!ENTITY colors.accesskey "R">
+
+
+<!ENTITY languages.label              "Ziman">
+<!ENTITY chooseLanguage.label         "Ji bo nîşandana rûpelan zimanekî hilbijêre">
+<!ENTITY chooseButton.label           "Hilbijêre...">
+<!ENTITY chooseButton.accesskey       "o">
+

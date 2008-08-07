@@ -1,0 +1,28 @@
+<!ENTITY no-properties.label "Taybetmendî nehatin diyarkirin.">
+
+<!ENTITY caption.label "Taybetmendiyên Elementan">
+<!ENTITY image-sec.label "Taybetmendiyên Wêneyan">
+<!ENTITY image-url.label "Cî:">
+<!ENTITY image-type.label "Cure:">
+<!ENTITY image-desc.label "Daxuyanî:">
+<!ENTITY image-alt.label "Deqa alternatîf:">
+<!ENTITY image-size.label "Mezinahiya Wêneyê:">
+
+<!ENTITY image-filesize.label "Mezinahiya Pelgehê:">
+<!ENTITY insdel-sec.label "Taybetmendiyên Lêkirin/Jêbirinan">
+<!ENTITY insdel-cite.label "Agahî:">
+<!ENTITY insdel-date.label "Dîrok:">
+<!ENTITY link-sec.label "Taybetmendiyên Girêdanê">
+<!ENTITY link-url.label "Navnîşan:">
+<!ENTITY link-target.label "Ciyê vebûnê:">
+<!ENTITY link-ping.label "Bê Daxuyandin:">
+<!ENTITY link-type.label "Cureyê armanc:">
+<!ENTITY link-lang.label "Zimanê armanc:">
+<!ENTITY link-rel.label "Têkilî:">
+<!ENTITY link-rev.label "Girêdana ku vegeriya:">
+<!ENTITY misc-sec.label "Taybetmendiyên curbecur:">
+<!ENTITY misc-lang.label "Zimanê deqê">
+<!ENTITY misc-title.label "Sernav:">
+<!ENTITY misc-tblsummary.label "Kurtebira tabloyê">
+<!ENTITY quote-sec.label "Taybetmendiyên Jêgirtinan">
+<!ENTITY quote-cite.label "Agahî:">

@@ -1,0 +1,157 @@
+<!ENTITY loadError.label "Di Barkirina Rûpelê de Çewtî">
+<!ENTITY retry.label "Dîsa Biceribîne">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Girêdan Bi Ser Neket">
+<!ENTITY connectionFailure.longDesc "
+<p>Her çiqas malper çalak xuya dibe jî gerok nikare girêdanekê çêke.</p>
+<ul>
+ <li>Gelo weşana malperê ji bo demekê hatiye rawestandin? Dû re dîsa biceribîne.</li>
+ <li>Dikarî wan malperên din vekî? Girêdana torê ya komputera xwe kontrol bike.</li>
+ <li>Komputer an jî nivîsbariya te ji hêla Firewall an jî proxyekê ve tê parastin? Mîhengên çewt dikarin pirsgirêkan derxin pêşberî gerokê.</li>
+</ul>">
+
+<!ENTITY nssFailure2.title "Girêdana ewlekar çewt e">
+
+
+<!ENTITY malwareBlocked.title "Malpera gumanbar a êrîşkirinê!">
+
+<!ENTITY phishingBlocked.longDesc "
+<p>Heke agahiyên xwe têkevî vê malperê dibe ku nasnav an jî agahiyên te yên din bên dizîn.</p>
+<p>Ev cure dizîna nasnavan li ser webê wekî êrîşên diziyê tên naskirin û xwe wekî çavkaniyên malper an jî e-peyaman ên ewle didin xuyakirin.</p>
+">
+
+<!ENTITY deniedPortAccess.title "Portê Ji Ber Sedemên Ewlekariyê Asteng Kir">
+<!ENTITY deniedPortAccess.longDesc "
+<p>Navnîşana ku dixwazî vekî portekê destnîşan kir (e.g. <q>mozilla.org:80</q> port 80 li ser mozilla.org) ji
+ armancên <em>din</em> pirtir ji bo gerîna di webê de hatiye bikaranîn. Ji bo ewlekariya te gerok hat betalkirin.</p>">
+
+<!ENTITY dnsNotFound.title "Navnîşan Nayê Dîtin">
+<!ENTITY dnsNotFound.longDesc "
+<p>Gerokê ji bo navnîşanê pêşkêşkara hostê nedît.</p>
+<ul>
+ <li>Gelo te navnîşanê çewt nivîsandiye? (e.g. <q><strong>ww</strong>.mozilla.org</q> dêvla
+  <q><strong>www</strong>.mozilla.org</q>)</li>
+ <li>Li hebûna vê navnîşanê bawer î?  Dibe ku tomarbûna wê qediya be.</li>
+ <li>Dikarî malperên din vekî?  Girêdana xwe ya torê û mîhengên pêşkêşkara DND'ê kontrol bike.</li>
+ <li>Komputer an jî nivîsbariya te ji hêla Firewall an jî proxyekê ve tê parastin?  Mîhengên çewt dikarin pirsgirêkan derxin pêşberî gerokê.</li>
+</ul>">
+
+<!ENTITY fileNotFound.title "Pel Nehat Dîtin">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+ <li>Dibe ku navê wê hatine guherandin, an jî hatibe jêbirin an jî cihê wê hatibe guherandin?</li>
+ <li>Dibe ku di navnîşanê de çewtiya rastnivîsê an jî çewtiyên bi vî rengî hebin?</li>
+ <li>Peywira te têra vekirina wê dike?</li>
+</ul>">
+
+<!ENTITY generic.title "Daxwaz Nayê Qedandin">
+<!ENTITY generic.longDesc "<p>Agahiyên din ên derbarê vê pirsgirêkê de hê tunin.</p>">
+
+<!ENTITY malformedURI.title "Navnîşana Çewt">
+<!ENTITY malformedURI.longDesc "<p>Navnîşan ne li gorî formatên tên naskirin e. Ji kerema xwe ciyê navnîşanê
+ ji bo pirsgirêkan kontrol bike û dîsa biceribîne.</p>">
+
+<!ENTITY netInterrupt.title "Şandina Daneyan Hat Qutkirin">
+<!ENTITY netInterrupt.longDesc "<p>Gerokê girêdanê çêkir lê girêdan
+ di dema şandina agahiyan de qut bû. Ji kerema xwe re dîsa biceribîne.</p>
+<ul>
+ <li>Dikarî wan malperên din vekî? Girêdana torê ya komputera xwe kontrol bike.</li>
+ <li>Hê jî pirsgirêk heye? Ji bo alîkariyê serî li rêvebira xwe ya torê an jî peydekara xwe ya Internetê bide.</li>
+</ul>">
+
+<!ENTITY netOffline.title "Moda Negirêdayî">
+<!ENTITY netOffline.longDesc "
+<p>Ji ber ku di moda negirêdayî de yî girêdan çênabe.</p>
+<ul>
+ <li>Gelo komputer bi toreke çalak ve girêdayî ye?</li>
+ <li>Gerokê têxe moda girêdayî û dîsa biceribîne.</li>
+</ul>">
+
+
+<!ENTITY contentEncodingError.longDesc "<p>Ji ber ku malpera ku tu dikî vekî formeke jidandinê a nederbasdar an bêdestek bi kar tînî, malper nayê nîşandan.</p><ul><li>Ji kerema xwe re ji bo ragihandina vê pirsgirêkê bi xwediyê malperê re têkeve têkiliyê.</li></ul>">
+
+<!ENTITY netReset.title "Girêdan Qut Bû">
+<!ENTITY netReset.longDesc "<p>Dema girêdan baş bû girêdana torê qut bû. Ji kerema xwe re dîsa biceribîne.</p>">
+
+<!ENTITY netTimeout.title "Dem Têrê Nekir">
+<!ENTITY netTimeout.longDesc "
+<p>Malperê bersiv neda girêdanê û gerok dema li benda dûberekirinê bû hat sekinandin.</p>
+<ul>
+ <li>Dibe ku pêşkêşkarê daxwaza bilind nedîtibe an jî çewtiyeke demdemî hebe. Ji kerema xwe re Dû re dîsa biceribîne.</li>
+ <li>Dikarî wan malperên din vekî? Girêdana torê ya komputera xwe kontrol bike.</li>
+ <li>Komputer an jî nivîsbariya te ji hêla Firewall an jî proxyekê ve tê parastin? Mîhengên çewt dikarin pirsgirêkan derxin pêşberî gerokê.</li>
+ <li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li>
+</ul>">
+
+<!ENTITY protocolNotFound.title "Protokola Nayê Zanîn">
+<!ENTITY protocolNotFound.longDesc "<p>navnîşan ji bo protokolekê ye (e.g. <q>wxyz://</q>) gerok
+ wê nas nake, ji ber vê yekê gerok nikare vê malperê veke.</p>
+<ul>
+ <li>Dixwazî têkevî multimediayekê an jî servîseke din ku ne deq e? Malperê ji bo pêdiviyên wisa kontrol bike.</li>
+ <li>Hinek protokol, berî gerokê, nivîsbarî an jî pêvekên partiya çaremîn dixwazin.</li>
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Pêşkêşkara Proxyê Girêdanê Red Kir">
+<!ENTITY proxyConnectFailure.longDesc "
+<p>Gerok wekî ku proxyekê bi kar bîne hatiye mîhenkirin, lê proxyê girêdanekê red kir.</p>
+<ul>
+ <li>Mîhengên proxya gerokê rast in? Mîhengan kontrol bike û dîsa biceribîne.</li>
+ <li>Gelo servîsa proxyê destûrê dide girêdanên vê torê?</li>
+ <li>Hê jî pirsgirêk heye? Ji bo alîkariyê serî li rêvebira xwe ya torê an jî peydekara xwe ya Internetê bide.</li>
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Pêşkêşkara Proxyê Nayê Dîtin">
+<!ENTITY proxyResolveFailure.longDesc "
+<p>Gerok wekî ku proxyekê bi kar bîne hatiye mîhenkirin, lê proxyê nehat dîtin.</p>
+<ul>
+ <li>Mîhengên proxya gerokê rast in? Mîhengan kontrol bike û dîsa biceribîne.</li>
+ <li>Gelo komputer bi toreke çalak ve girêdayî ye?</li>
+ <li>Hê jî pirsgirêk heye? Ji bo alîkariyê serî li rêvebira xwe ya torê an jî peydekara xwe ya Internetê bide.</li>
+</ul>">
+
+<!ENTITY redirectLoop.title "Girêdana Nerasterast">
+<!ENTITY redirectLoop.longDesc "<p>Gerokê ceribandina şûnde anîna parçeyê sekinand. Girêdana malperê
+ bi awayekî ku dê qet neqede, nerasterast tê xwestin.</p>
+<ul>
+ <li>Gelo te çerezên ku ev malper dixwaze asteng kirine?</li>
+ <li><em>Na</em>: Heke çerezên ku ev malper dixwaze nehatibin astenkirin, nexwe ev pirsgirêk ji mîhengên pêşkêşkara te ye,
+  ne ji komputera te ye.</li>
+</ul>">
+
+<!ENTITY unknownSocketType.title "Bersiva Nerast">
+<!ENTITY unknownSocketType.longDesc "<p>Malperê da zanîn ku daxwaza torê nedihat hêvîkirin û gerok
+ nikare bidomîne.</p>">
+
+
+<!ENTITY contentEncodingError.title "Çewtiya kodkirina naverokê">
+
+<!ENTITY nssFailure2.longDesc "<p>Ji ber ku cureyê şidandinê ê nederbasdar an jî bêdestek bi kar tînî, rûpela ku dixwazî vekî, nayê nîşandan.</p><ul><li>Bi xwediyê malperê re têkeve têkiliyê an jî ji pêşeka alîkariyê zêdetir agahî bixwîne.</li></ul>">
+
+<!ENTITY malwareBlocked.longDesc "<p>
+Malperên êrîşê ew malper in ku agahiyên te yên taybet didizin, komputera te ji bo êrîşkirina ser kesên din bi kar tînin an jî malperên ku dixwazin di komputera te de bernameyên ku zirarê dide pergala te saz bikin.</p>
+<p>Divê vê malperê venekî.</p>
+">
+
+<!ENTITY nssBadCert.title "Girêdana ewlekar têk çû">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>Dibe ku ev çewtî ji ber mîhengên pêşkêşkar be an jî hin kes dikin ku pêşkêşkarê taklît bikin.</li>
+<li>Heke  di demên borî de te bi awayekî serkeftî bi vê pêşkêşkarê re girêdan çêkiribe, dibe ku ev çewtî demdemî bin û tu dikarî dû re dîsa biceribînî.</li>
+<li>Bi mîhengên pêşkeftî ên nasnavkirinê tu dikarî lîsteya rast a pêşkêşkaran bibînî û biguherînî.</li>
+</ul>
+">
+
+<!ENTITY phishingBlocked.title "Gumana Dizîna Nasnavan!">
+
+
+
+<!ENTITY unsafeContentType.title "Cureyê Pelê Ne Ewle ye.">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Ji bo çareserkirina vê pirsgirêkên malperê, ji kerema xwe re bi xwediya/ê malperê re têkeve têkiliyê.</li>
+</ul>
+">
+
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;

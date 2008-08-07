@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Jê bike">
+<!ENTITY cutCmd.accesskey "j">
+<!ENTITY copyCmd.label "Ji ber bigire">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Pêve bike">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY undoCmd.label "Şûnde bîne">
+<!ENTITY undoCmd.accesskey "Ş">
+<!ENTITY selectAllCmd.label "Hemûyan hilbijêre">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "Jê bibe">
+<!ENTITY deleteCmd.accesskey "d">
+
+<!ENTITY spellAddToDictionary.label "Têxe pelrêçê">
+<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellCheckEnable.label "Kontrola Rastnivîsê">
+<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(Tu kontrolkirinek nehat pêşniyarkirin)">
+<!ENTITY spellDictionaries.label "Ziman">
+<!ENTITY spellDictionaries.accesskey "z">

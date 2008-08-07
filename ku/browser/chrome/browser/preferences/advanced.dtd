@@ -1,0 +1,114 @@
+<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
+     in the Advanced pane are: "b", "j", "q", "z" -->
+
+<!ENTITY generalTab.label "Giştî">
+
+<!ENTITY accessibility.label "Gihînbarî">
+
+<!ENTITY useCursorNavigation.label "Ji bo veguhestina bi nava rûpelan ve, her tim peyvên ji rêzê bi kar bîne">
+<!ENTITY useCursorNavigation.accesskey "c">
+<!ENTITY searchStartTyping.label "Dema ku min dest bi nivîsandinê kir, bila lêgerîn dest pê bike">
+<!ENTITY searchStartTyping.accesskey "x">
+
+<!ENTITY blockAutoRefresh.label          "Dema ku malper rûpelan ni nû ve barbikin min hişyar bike">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
+<!ENTITY browsing.label "Digere">
+
+<!ENTITY useAutoScroll.label "Şemitandina xweber bi kar bîne">
+<!ENTITY useAutoScroll.accesskey "a">
+<!ENTITY useSmoothScrolling.label "Şemitandina nerm bikar bîne">
+<!ENTITY useSmoothScrolling.accesskey "m">
+<!ENTITY checkSpelling.label "Nivîsandina min wekî ku ez dinivîsim kontrol bike">
+<!ENTITY checkSpelling.accesskey "t">
+
+
+
+
+<!ENTITY networkTab.label "Tor">
+
+<!ENTITY connection.label "Girêdan">
+
+<!ENTITY connectionDesc.label "Wekî ku &brandShortName; xwe li Internetê girê dide mîheng bike">
+<!ENTITY connectionSettings.label "Mîheng...">
+<!ENTITY connectionSettings.accesskey "e">
+
+
+<!ENTITY offlineStorage.label            "Depoya Negirêdayî">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "Ji dîskê heya">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB'î ji bo pêşbîrê bi kar bîne">
+
+
+<!ENTITY updateTab.label "Rojanekirin">
+
+<!ENTITY autoCheck.label "Pêvekan bixweber kontrol bike:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "Pêvekên sazbûyî">
+<!ENTITY enableAddonsUpdate.accesskey "n">
+<!ENTITY enableSearchUpdate.label "Motorên lêgerînê">
+<!ENTITY enableSearchUpdate.accesskey "m">
+<!ENTITY whenUpdatesFound.label "Heke ji bo &brandShortName; 'ê rojanekirin bê dîtin,">
+<!ENTITY askMe.label "Ji min bipirse ka ez çi dixwazim">
+<!ENTITY askMe.accesskey "k">
+<!ENTITY modeAutomatic.label "Rojanekirinan bixweber daxe û saz bike">
+<!ENTITY modeAutomatic.accesskey "d">
+<!ENTITY modeAutoAddonWarn.label "Heke ev pêvekeke min jî neçalak bike, min hilyar bike">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!ENTITY updateHistory.label "Mêjûya Rojanekirinan Nîşan Bide">
+<!ENTITY updateHistory.accesskey "p">
+
+
+<!ENTITY offlineNotify.label             "Gava ku malperekê kir ku daneyên negirêdayî tomar bike min hişyar bike">
+<!ENTITY offlineNotify.accesskey         "T">
+<!ENTITY offlineNotifyExceptions.label   "Awarteyî…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+
+<!ENTITY offlineAppsList.label           "Malperên li jêrê ji bo bikaranîna negirêdayî dane saz kirine:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Rake…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "Daneyên negirêdayî rake">
+
+
+<!ENTITY encryptionTab.label "Şîfrekirin">
+
+<!ENTITY protocols.label "Zagonên Ragihandinê">
+<!ENTITY useSSL3.label "SSL 3.0 bikar bîne">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "TLS 1.0 bikar bîne">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Sertîfîka">
+<!ENTITY certs.auto "Yek ji wan bixweber hilbijêre">
+<!ENTITY certSelection.description       "Dema ku pêşkêşkarekê li sertîfîkaya min a takekesê bipirse:">
+<!ENTITY certs.auto.accesskey "l">
+<!ENTITY certs.ask "Her tim ji min bipirse">
+<!ENTITY certs.ask.accesskey "i">
+<!ENTITY viewCerts.label "Sertîfîkayan Nîşan Bide">
+<!ENTITY viewCerts.accesskey "s">
+<!ENTITY viewCRLs.label "Lîsteya Redbûyiyan">
+<!ENTITY viewCRLs.accesskey "R">
+<!ENTITY verify2.label                   "Rastandin">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label "Pergalên Ewlekariyê">
+<!ENTITY viewSecurityDevices.accesskey "e">
+
+<!ENTITY clearCacheNow.label "Niha paqij bike.">
+<!ENTITY clearCacheNow.accesskey         "M">
+
+<!ENTITY systemDefaults.label            "Ji bo pergalê ên standard">
+<!ENTITY alwaysCheckDefault.label        "Her tim kontrol bike ka &brandShortName; geroka standard e an na"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "Niha kontrol bike">
+<!ENTITY checkNow.accesskey              "D">

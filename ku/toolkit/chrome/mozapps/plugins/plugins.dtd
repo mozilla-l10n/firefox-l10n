@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title "Servîsa Dîtina Pêvekan">
+<!ENTITY pluginWizard.firstPage.title "Bi xêr hatî &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; pêvekên heyî kontrol dike...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Daxistinên Pêveka Heyî">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Pêvekên li jêr jixwe hene:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Pêşve bitikîne û vê pêvekê saz bike.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Dibe ku hinek pêvek, di dema sazbûnê de ji te zêdetir agahî bixwazin.">
+
+<!ENTITY pluginWizard.licensePage.title "Lîsansên pêvekan">
+<!ENTITY pluginWizard.licensePage.accept.label "Dipejirînim">
+<!ENTITY pluginWizard.licensePage.deny.label "Napejirînim (Pêvek dê saz nebe)">
+
+<!ENTITY pluginWizard.installPluginsPage.title "Pêvek tên sazkirin">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; pêvekê saz dike...">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; sazkirina pêvekên kêm qedand:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Ji bo pêvekan li hûragahiyan bigere an jî li pêveka kêm bigere.">
+<!ENTITY pluginWizard.finalPage.restart.label "Ji bo ku pêvek bixebitin divê &brandShortName; bê girtin û vekirin.">
+
+<!ENTITY missingPlugin.label                                 "Ji bo daxistina pêvekê bitikîne.">

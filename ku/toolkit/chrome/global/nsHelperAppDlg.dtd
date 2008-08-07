@@ -1,0 +1,43 @@
+<!ENTITY caption.label "#1 tê vekirin">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "Pela &quot;#3&quot; cureyê #2 (#1), û #4 nizane cureyê vê pelê çawa hilgire. Ev pel di vir de hat bicîkirin:">
+<!ENTITY intro.noDesc.label "Pela &quot;#3&quot; cureyê #2 , û #4 nizane cureyê vê pelê çawa hilgire. Ev pel di vir de hat bicîkirin:">
+
+<!ENTITY intro.attachment.label "Vê malperê wekî pêvek &quot;#3&quot; pêşniyar kir. Ev wekî cureyê pelê yê #2 (#1) xuya dibe û li vê heye:">
+<!ENTITY intro.attachment.noDesc.label "Vê malperê wekî pêvek &quot;#3&quot; pêşniyar kir. Ev wekî cureyê pelê yê #2  xuya dibe û li vê heye:">
+
+<!ENTITY intro.sniffed.label "#4 derxiste holê ku divê pela &quot;#3&quot; bibe ji cureyê #2 (#1) 'ê. Ev pel di vir de hat bicîkirin:">
+<!ENTITY intro.sniffed.noDesc.label "#4 derxiste holê ku divê pela &quot;#3&quot; bibe ji cureyê #2 'ê. Ev pel di vir de hat bicîkirin:">
+
+<!ENTITY prompt.label "Divê #1 bi vê pelê çi bike?">
+
+<!ENTITY alwaysHandle.label "Her tim ji bo pelên wisa vê kiryarê bisepîne">
+<!ENTITY alwaysHandle.accesskey "H">
+
+<!ENTITY saveToDisk.label "Di dîskê de tomar bike">
+<!ENTITY saveToDisk.accesskey "T">
+
+<!ENTITY useSystemDefault.label "Bi sepana standard veke (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Bi sepana standard veke">
+<!ENTITY useSystemDefault.accesskey "S">
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+
+<!ENTITY openUsing.label "Ji bo bikaranînê #1">
+<!ENTITY openUsing.accesskey "b">
+
+<!ENTITY chooseApp.label "Hilbijêre...">
+<!ENTITY chooseApp.accesskey "H">
+
+<!ENTITY chooseAppFilePickerTitle "Sepana Alîkar Hilbijêre">
+
+<!ENTITY badApp "Sepana ku te hilbijartiye [&quot;#1&quot;] nayê dîtin. Navê pelê kontrol bike an jî sepaneke din hilbijêre.">
+<!ENTITY badApp.title "Sepan nehat dîtin">

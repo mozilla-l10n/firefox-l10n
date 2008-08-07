@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Taybetmendiyên Çaperê">
+
+<!ENTITY paperInput.label "Mezinahiya Kaxizê:">
+
+<!ENTITY plexInput.label "Moda Pleksê:">
+
+<!ENTITY resolutionInput.label "Bibiryarbûn/Kalîte:">
+
+<!ENTITY cmdInput.label "Fermana Nivîsandinê:">
+
+<!ENTITY jobTitleInput.label "Sernivîsa Kar:">
+
+<!ENTITY colorGroup.label "Reng:">
+<!ENTITY grayRadio.label "GrayScale">
+<!ENTITY colorRadio.label "Reng">
+
+<!ENTITY colorspaceInput.label "Ciyêrengê:">
+
+<!ENTITY fontsGroup.label "Font:">
+<!ENTITY downloadFonts.label "Ji bo çaperê fontan daxî?">
+
+<!ENTITY edgeMarginInput.label "Sînorê dirêjahiya valahiya keviyê (inc)">
+<!ENTITY topInput.label "Ser:">
+<!ENTITY bottomInput.label "Bin:">
+<!ENTITY leftInput.label "Çep:">
+<!ENTITY rightInput.label "Rast:">

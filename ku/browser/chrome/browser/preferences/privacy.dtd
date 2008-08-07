@@ -1,0 +1,56 @@
+<!ENTITY history.label "Mêjû">
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Ji bo ya dawîn rûpelên hatine vekirin bi bîr bîne">
+<!ENTITY rememberDaysBefore.accesskey "v">
+<!ENTITY  rememberDaysAfter2.label      "roj">
+
+<!ENTITY rememberForms.label "Tiştên ku ez di form û şiva lêgerînê de binivîsim di dahatûyê de bi bîr bîne">
+<!ENTITY rememberForms.accesskey "f">
+
+<!ENTITY rememberDownloads.label "Daxistinên min bi bîr bîne">
+<!ENTITY rememberDownloads.accesskey "d">
+
+
+<!ENTITY cookies.label "Çerez">
+
+<!ENTITY acceptCookies.label "Çerezên Malperan Bipejirîne">
+<!ENTITY acceptCookies.accesskey "c">
+
+<!ENTITY  acceptThirdParty.label        "Çerezên partiya-çaremîn bipejirîne">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+
+
+<!ENTITY keepUntil.label "Dema dawî a veşartinê">
+<!ENTITY keepUntil.accesskey "V">
+
+<!ENTITY expire.label "Dema wan bihuriye">
+<!ENTITY close.label "&brandShortName; 'ê digirim">
+<!ENTITY askEachTime.label "her tim ji min bipirse">
+
+<!ENTITY cookieExceptions.label "Bitaybetmendî...">
+<!ENTITY cookieExceptions.accesskey "Y">
+
+<!ENTITY showCookies.label "Çerezan Nîşan Bide">
+<!ENTITY showCookies.accesskey "N">
+
+
+<!ENTITY privateData.label "Daneyên Taybet">
+
+<!ENTITY alwaysClear.label "Her cara ku &brandShortName; 'ê bigirim, daneyên min ên taybet jê bibe">
+<!ENTITY alwaysClear.accesskey "h">
+
+<!ENTITY askBeforeClear.label "Berî paqijkirina daneyên taybet ji min bipirse">
+<!ENTITY askBeforeClear.accesskey "P">
+
+<!ENTITY clearDataSettings.label "Mîheng...">
+<!ENTITY clearDataSettings.accesskey "h">
+
+<!ENTITY clearDataNow.label "Vêga Paqij Bike...">
+<!ENTITY clearDataNow.label2 "Vêga Paqij Bike">
+<!ENTITY clearDataNow.accesskey "V">

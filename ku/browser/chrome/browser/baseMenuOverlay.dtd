@@ -1,0 +1,48 @@
+<!ENTITY minimizeWindow.key "B">
+<!ENTITY minimizeWindow.label "Biçûk bike">
+<!ENTITY bringAllToFront.label "Hemûyan bi pêş ve bîne.">
+<!ENTITY zoomWindow.label "Nêzîk bike">
+<!ENTITY windowMenu.label "Pace">
+
+<!ENTITY helpMenu.label "Alîkarî">
+<!ENTITY helpMenu.accesskey "A">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Alîkarî">
+<!ENTITY helpMenuWin.accesskey "A">
+<!ENTITY aboutCmd.label "Derbarê &brandFullName; 'ê de">
+<!ENTITY aboutCmd.accesskey "D">
+<!ENTITY helpContents.label "Naveroka alîkariyê">
+<!ENTITY helpContents.accesskey "N">
+<!ENTITY helpContentsMac.label "Alîkariya &brandShortName; 'ê">
+<!ENTITY helpForIEUsers.label "Ji bo bikarhênerên Internet Explorerê...">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.commandkey "VK_HELP">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.modifiers "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey "?">
+<!ENTITY openHelpMac.frontendModifiers "accel">
+
+<!ENTITY helpReleaseNotes.label "Têbiniyên Guhertoyê">
+<!ENTITY helpReleaseNotes.accesskey "R">
+<!ENTITY updateCmd.label "Rojanebûnan Bişopîne...">
+<!ENTITY updateCmd.accesskey "o">
+
+<!ENTITY preferencesCmdMac.label "Vebijêrk">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+
+<!ENTITY servicesMenuMac.label "Servîs">
+
+<!ENTITY hideThisAppCmdMac.label "&brandShortName; 'ê Veşêre">
+<!ENTITY hideThisAppCmdMac.commandkey "V">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label "Yên Din Veşêre">
+<!ENTITY hideOtherAppsCmdMac.commandkey "V">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label "Hemûyan Nîşan Bide">

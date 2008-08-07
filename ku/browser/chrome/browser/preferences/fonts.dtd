@@ -1,0 +1,70 @@
+<!ENTITY fontsDialog.title "Cureyên Nivîsan">
+<!ENTITY window.width "43em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "43em">
+
+<!ENTITY language.label "Cureyên Nivîsan Ji Bo:">
+<!ENTITY language.accesskey "C">
+
+<!ENTITY size.label "Mezinahî:">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
+
+<!ENTITY proportional.label "Birêje:">
+<!ENTITY proportional.accesskey "R">
+
+<!ENTITY serif.label "Serif:">
+<!ENTITY serif.accesskey "S">
+<!ENTITY sans-serif.label "Sans-serif:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "Monospace:">
+<!ENTITY monospace.accesskey "M">
+
+
+
+<!ENTITY font.langGroup.latin1 "Ewropaya Rojava">
+<!ENTITY font.langGroup.latin2 "Ewropaya Navîn">
+<!ENTITY font.langGroup.japanese "Japonî">
+<!ENTITY font.langGroup.trad-chinese "Çîniya Dêrîn (Taywan)">
+<!ENTITY font.langGroup.simpl-chinese "Çîniya Hêsan">
+<!ENTITY font.langGroup.trad-chinese-hk "Çîniya Dêrîn Çince (Hong Kong)">
+<!ENTITY font.langGroup.korean "Koreyî">
+<!ENTITY font.langGroup.cyrillic "Slavî">
+<!ENTITY font.langGroup.baltic "Baltik">
+<!ENTITY font.langGroup.el "Yewnanî">
+<!ENTITY font.langGroup.turkish "Tirkî">
+<!ENTITY font.langGroup.unicode "Zimanên Din">
+<!ENTITY font.langGroup.user-def "Li Gorî Bikarhêner">
+<!ENTITY font.langGroup.thai "Tayî">
+<!ENTITY font.langGroup.hebrew "Îbranî">
+<!ENTITY font.langGroup.arabic "Erebî">
+<!ENTITY font.langGroup.devanagari "Devanagarî">
+<!ENTITY font.langGroup.tamil "Tamil">
+<!ENTITY font.langGroup.armenian "Ermenkî">
+<!ENTITY font.langGroup.bengali "Bengalî">
+<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
+<!ENTITY font.langGroup.ethiopic "Etiyopî">
+<!ENTITY font.langGroup.georgian "Gurcî">
+<!ENTITY font.langGroup.gujarati "Gucaratî">
+<!ENTITY font.langGroup.gurmukhi "Gurmuxî">
+<!ENTITY font.langGroup.khmer "Xmer">
+<!ENTITY font.langGroup.malayalam "Malayalam">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Mezinahiya nivîsê ya herî biçûk:">
+<!ENTITY minSize.accesskey "o">
+<!ENTITY minSize.none "Tune">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Serif">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+
+<!ENTITY allowPagesToUse.label "Ji bilî yên ku min hilbijartine, destûrê bide malperan da ku cureyên nivîsên xwe bikar bînin.">
+<!ENTITY allowPagesToUse.accesskey "S">
+
+<!ENTITY languages.customize.Charset.grouplabel "Kodkirina Karakteran">
+<!ENTITY languages.customize.DefaultCharset.label "Kodkirina karakteran a pêşsalixbûyî:">
+<!ENTITY languages.customize.DefaultCharset.accesskey "K">

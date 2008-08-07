@@ -1,0 +1,51 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "Paş">
+<!ENTITY backButton.accesskey "P">
+<!ENTITY backButton.tooltip "Rûpelek here paş">
+<!ENTITY forwardButton.label "Pêş">
+<!ENTITY forwardButton.accesskey "P">
+<!ENTITY forwardButton.tooltip "Rûpelek here pêş">
+<!ENTITY copyCmd.label "Kopîkirin">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Hemûyan Hibijêre">
+<!ENTITY selectAllCmd.accesskey "H">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "Serûpel">
+<!ENTITY homeButton.tooltip "Here Serûpela Alîkariyê">
+<!ENTITY printButton.label "Çap Bike">
+<!ENTITY printButton.tooltip "Vê rûpelê çap bike">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY searchtab.label "Bigere">
+<!ENTITY searchtab.accesskey "B">
+
+
+
+<!ENTITY searchClose.tooltip            "Encamên lêgerînê bigire">
+<!ENTITY toctab.label                   "Naverok">
+<!ENTITY toctab.accesskey               "C">
+
+<!ENTITY fullZoomReduceCmd.commandkey	"-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey	"+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "Her tim li ser">
+<!ENTITY zLevel.accesskey "S">
+
+
+<!ENTITY fullZoomReduceBtn.label        "Mezinahiya nivîsê biçûk bike">
+<!ENTITY fullZoomReduceBtn.accesskey    "B">
+<!ENTITY fullZoomEnlargeBtn.label       "Mezinahiya nivîsê mezin bike">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "U">

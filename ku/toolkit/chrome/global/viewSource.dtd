@@ -1,0 +1,63 @@
+<!-- extracted from content/viewSource.xul -->
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Çavkanî:">
+
+<!ENTITY fileMenu.label "Pel">
+<!ENTITY fileMenu.accesskey "P">
+<!ENTITY savePageCmd.label "Cuda Tomar Bike...">
+<!ENTITY savePageCmd.accesskey "C">
+<!ENTITY savePageCmd.commandkey "C">
+<!ENTITY pageSetupCmd.label "Mîhenkirina Rûpelê...">
+<!ENTITY pageSetupCmd.accesskey "m">
+<!ENTITY printPreviewCmd.label "Pêşdîtina Çaperê">
+<!ENTITY printPreviewCmd.accesskey "p">
+<!ENTITY printCmd.label "Çap Bike...">
+<!ENTITY printCmd.accesskey "Ç">
+<!ENTITY printCmd.commandkey "Ç">
+<!ENTITY closeCmd.label "Bigire">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.commandkey "w">
+
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "O">
+<!ENTITY textReset.commandkey2 "">
+
+<!ENTITY goToLineCmd.label "Here rêzikê...">
+<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.commandkey "L">
+
+<!ENTITY viewMenu.label "Nîşan Bide">
+<!ENTITY viewMenu.accesskey "N">
+<!ENTITY reloadCmd.label "Ji NûVe Bar Bike">
+<!ENTITY reloadCmd.accesskey "J">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Rêzikên Dirêj Bike Yek">
+<!ENTITY menu_wrapLongLines.accesskey "R">
+<!ENTITY menu_highlightSyntax.label "Kirpa Nîşanî">
+<!ENTITY menu_highlightSyntax.accesskey "H">
+<!ENTITY menu_textSize.label "Mezinahiya Deqê">
+<!ENTITY menu_textSize.accesskey "Z">
+<!ENTITY menu_textEnlarge.label "Deqê mezin bike">
+<!ENTITY menu_textEnlarge.accesskey "M">
+<!ENTITY menu_textReduce.label "Deqê biçûk bike">
+<!ENTITY menu_textReduce.accesskey "B">
+<!ENTITY menu_textReset.label "Normal">
+<!ENTITY menu_textReset.accesskey "N">
+
+<!ENTITY findOnCmd.label "Di vê rûpelê de bibîne...">
+<!ENTITY findOnCmd.accesskey "B">
+<!ENTITY findOnCmd.commandkey "b">
+<!ENTITY findAgainCmd.label "Dîsa bibîne">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">

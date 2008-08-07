@@ -1,0 +1,15 @@
+<!ENTITY  typeColumn.label        "Cureyê Naverokê">
+<!ENTITY  typeColumn.accesskey    "T">
+
+<!ENTITY  actionColumn2.label     "Çalakî">
+<!ENTITY  actionColumn2.accesskey "A">
+
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "Bigere:">
+<!ENTITY  filter.accesskey        "S">
+
+<!ENTITY  clear.label             "Paqij Bike">
+<!ENTITY  clear.accesskey         "l">

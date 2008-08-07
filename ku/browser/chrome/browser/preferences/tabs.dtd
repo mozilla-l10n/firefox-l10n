@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label "Paceyên nû divê di vir de vebin:">
+<!ENTITY inNewWindow.label "paceyeke nû">
+<!ENTITY inNewWindow.accesskey "p">
+<!ENTITY inNewTab.label "hilpekîneke nû">
+<!ENTITY inNewTab.accesskey "h">
+
+<!ENTITY warnCloseMultipleTabs.label "Dema ku ji yekê zêdetir hilpekîn bên girtin min hişyar bike">
+<!ENTITY warnCloseMultipleTabs.accesskey "p">
+
+<!ENTITY warnOpenManyTabs.label "Dema ku ji yekê zêdetir hilpekîn di bin &brandShortName; 'ê de vebin min hişyar bike">
+<!ENTITY warnOpenManyTabs.accesskey "v">
+
+<!ENTITY showTabBar.label "Her tim darikê hilpekînan nîşan bide">
+<!ENTITY showTabBar.accesskey "ş">
+
+<!ENTITY switchToNewTabs.label "Kengê ez girêdanekê di hilpekîneke nû de vekim, demildest veke">
+<!ENTITY switchToNewTabs.accesskey "s">

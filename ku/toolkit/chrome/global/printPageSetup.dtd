@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Mîhengên Rûpelê">
+
+<!ENTITY basic.tab "Şêwe &amp; Vebijêrk">
+
+<!ENTITY formatGroup.label "Şêwe">
+
+<!ENTITY orientation.label "Cih:">
+<!ENTITY portrait "Çik">
+<!ENTITY landscape "Paldayî">
+
+<!ENTITY scale.label "Pîvan:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Di rûpelê de bicî bike">
+
+<!ENTITY optionsGroup.label "Vebijêrk">
+
+<!ENTITY printBG.label "Rûerdê çap bike (reng û wêneyan)">
+
+<!ENTITY advanced.tab "Kevî, sernav û têbinî">
+
+<!ENTITY marginGroup.label "Kevî (#1)">
+<!ENTITY marginUnits.inches "inç">
+<!ENTITY marginUnits.metric "mîlîmetre">
+<!ENTITY marginTop.label "Ser:">
+<!ENTITY marginBottom.label "Bin:">
+<!ENTITY marginLeft.label "Çep:">
+<!ENTITY marginRight.label "Right:">
+
+<!ENTITY headerFooter.label "Sernav û Têbinî">
+
+<!ENTITY hfLeft.label "Çep:">
+<!ENTITY hfCenter.label "Navend:">
+<!ENTITY hfRight.label "Right:">
+<!ENTITY headerLeft.tip "Serê çepê">
+<!ENTITY headerCenter.tip "Serê navendê">
+<!ENTITY headerRight.tip "Serê rastê">
+<!ENTITY footerLeft.tip "Binê çepê">
+<!ENTITY footerCenter.tip "Binê navendê">
+<!ENTITY footerRight.tip "Binê rastê">
+
+<!ENTITY hfTitle "Sernivîs">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "Dîrok/Dem">
+<!ENTITY hfPage "Rûpel #">
+<!ENTITY hfPageAndTotal "Rûpel # ji #">
+<!ENTITY hfBlank "--vala--">
+<!ENTITY hfCustom "Kesane Bike...">
+
+<!ENTITY customPrompt.title "Kesane Bike...">
+<!ENTITY customPrompt.prompt "Deqa taybet a serî/binî têkevê">

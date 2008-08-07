@@ -1,0 +1,50 @@
+<!ENTITY startup.label             "Destpêk">
+
+<!ENTITY startupPage.label         "Di destpêka &brandShortName; de:">
+<!ENTITY startupPage.accesskey     "d">
+<!ENTITY startupHomePage.label     "Malpera min nîşan bide">
+<!ENTITY startupBlankPage.label    "Rûpeleke vala nîşan bide">
+<!ENTITY startupLastSession.label  "Pace û hilpekînên dawî nîşan bide">
+<!ENTITY location.label            "Malper:">
+<!ENTITY location.accesskey        "M">
+<!ENTITY useCurrentPage.label      "Rûpela derbasdar bi kar bîne">
+<!ENTITY useCurrentPage.accesskey  "d">
+<!ENTITY useMultiple.label         "Rûpelên Derbasdar Bi Kar Bîne">
+<!ENTITY useBookmark.label         "Bijare Bi Kar Bîne">
+<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY restoreDefault.label      "Vegêrîna Pêşsalixbûyî">
+<!ENTITY restoreDefault.accesskey  "V">
+
+<!ENTITY downloads.label     "Daxistin">
+
+<!ENTITY showWhenDownloading.label     "Dema ku daxistin dest pê bike, pencereya rêvebiriya daxistinê nîşan bide.">
+<!ENTITY showWhenDownloading.accesskey "p">
+<!ENTITY closeWhenDone.label "Dema ku daxistin qediya, rêvebiriya daxistinê bigire.">
+<!ENTITY closeWhenDone.accesskey "g">
+<!ENTITY saveTo.label "Pelan tomar bike li">
+<!ENTITY saveTo.accesskey "t">
+<!ENTITY chooseFolderWin.label        "Bigere...">
+<!ENTITY chooseFolderWin.accesskey    "g">
+<!ENTITY chooseFolderMac.label        "Hilbijêre...">
+<!ENTITY chooseFolderMac.accesskey    "H">
+<!ENTITY alwaysAsk.label "Di her tomarkirineke pelan de cihî ji min bipirse">
+<!ENTITY alwaysAsk.accesskey "p">
+
+
+
+
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+
+
+<!ENTITY addonsMgr.label            "Pêvek">
+
+
+<!ENTITY manageAddons.label         "Pêvekan Bi Rê Ve Bibe...">
+<!ENTITY manageAddons.accesskey     "M">
+
+<!ENTITY manageAddonsDescWin.label     "Mîhengên pêvekên xwe biguherîne.">
+<!ENTITY manageAddonsDescUnix2.label   "Vebijêrkên di derbarê mîhengên xwe de biguherîne.">

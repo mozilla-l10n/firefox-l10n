@@ -1,0 +1,9 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "Sazkirina Nivîsbariyê">
+<!ENTITY dialog.style "width: 45em">
+<!ENTITY warningSecondary.label "Nivîsbariyên xwedî armancên xêrnexwaz dikarin xesarê bidin nepeniya te a kesane û agahiyên di komputera te de.">
+<!ENTITY warningMain.label "Tenê nivîsbariyên ku baweriya te bi çavkaniya wan heye saz bike.">
+
+<!ENTITY from.label "Ji vê:">
+

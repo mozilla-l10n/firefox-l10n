@@ -1,0 +1,25 @@
+<!ENTITY sanitizeDialog.title "Paqijkirina Daneyan a Taybet">
+
+<!ENTITY sanitizeItems.label "Hêmanên li jêr jê bibe:">
+<!ENTITY clearDataSettings.label      "Dema ku ez bixwazim &brandShortName; daneyên min ên takekesî paqij bike, divê jê bibe:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "Mêjûya Gerokê">
+<!ENTITY itemHistory.accesskey "G">
+<!ENTITY itemFormSearchHistory.label "Formên Tomarbûyî û Mêjûya Lêgerînê">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "Nasnavên Tomarbûyî">
+<!ENTITY itemPasswords.accesskey "N">
+<!ENTITY itemCookies.label "Çerez">
+<!ENTITY itemCookies.accesskey "Ç">
+<!ENTITY itemCache.label "Pêşbîr">
+<!ENTITY itemCache.accesskey "p">
+<!ENTITY itemOfflineApps.label        "Daneyên Malperên Negirêdayî">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY itemDownloads.label "Mêjûya Daxistinê">
+<!ENTITY itemDownloads.accesskey "D">
+<!ENTITY itemSessions.label "Daniştinên Ku Nasnameyên Wan Rast Hatine Dîtin">
+<!ENTITY itemSessions.accesskey "K">
+<!ENTITY window.width                 "30em">

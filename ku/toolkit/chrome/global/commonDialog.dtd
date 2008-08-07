@@ -1,0 +1,10 @@
+<!ENTITY header.label "Kurtesernav">
+<!ENTITY message.label "Hinek deqên mînak li vir tên nîşandan.">
+<!ENTITY editfield0.label "Navê bikarhêner:">
+<!ENTITY editfield1.label "Nasnav:">
+<!ENTITY editfield2.label "Nasnav dubare:">
+<!ENTITY checkbox.label "kontrol">
+<!ENTITY copyCmd.label    "Ji ber bigire">
+<!ENTITY copyCmd.accesskey "J">
+<!ENTITY selectAllCmd.label "Gişî hilbijêre">
+<!ENTITY selectAllCmd.accesskey "E">

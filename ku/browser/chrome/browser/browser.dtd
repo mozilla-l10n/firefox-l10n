@@ -1,0 +1,402 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+
+
+<!ENTITY tabCmd.label "Hilpekîna Nû">
+<!ENTITY tabCmd.accesskey "H">
+<!ENTITY tabCmd.commandkey "T">
+<!ENTITY openLocationCmd.label "Cih Veke...">
+<!ENTITY openLocationCmd.accesskey "C">
+<!ENTITY openFileCmd.label "Pelê Veke...">
+<!ENTITY openFileCmd.accesskey "V">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Mîhengên Rûpelê...">
+<!ENTITY printSetupCmd.accesskey "m">
+<!ENTITY printPreviewCmd.label "Pêşdîtina Çaperê">
+<!ENTITY printPreviewCmd.accesskey "d">
+<!ENTITY printCmd.label "Çap Bike">
+<!ENTITY printCmd.accesskey "Ç">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY import.label "Bîne hundir...">
+<!ENTITY import.accesskey "V">
+
+
+
+
+<!ENTITY goOfflineCmd.label "Negirêdayî Bixebite">
+<!ENTITY goOfflineCmd.accesskey "x">
+
+<!ENTITY navbarCmd.label "Darikê Amûran a Gerê">
+<!ENTITY navbarCmd.accesskey "A">
+<!ENTITY personalbarCmd.label "Darikê Amûran a Bijareyan">
+<!ENTITY personalbarCmd.accesskey "A">
+<!ENTITY bookmarksToolbarItem.label "Nîşaneyên Bijareyan">
+<!ENTITY taskbarCmd.label "Darikê Rewşê">
+<!ENTITY taskbarCmd.accesskey "R">
+
+<!ENTITY pageSourceCmd.label "Çavkaniya Rûpelê">
+<!ENTITY pageSourceCmd.accesskey "Ç">
+<!ENTITY pageSourceCmd.commandkey "U">
+<!ENTITY pageInfoCmd.label "Agahiyên Rûpelê">
+<!ENTITY pageInfoCmd.accesskey "A">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Dîmenter Tijî">
+<!ENTITY fullScreenCmd.accesskey "T">
+
+<!ENTITY fullScreenMinimize.tooltip "Biçûk Bike">
+<!ENTITY fullScreenRestore.tooltip "Ji Nû Ve Biafirîne">
+<!ENTITY fullScreenClose.tooltip "Bigire">
+<!ENTITY fullScreenAutohide.label "Darikê Amûran Veşêre">
+<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenExit.label "Ji Moda Dîmender Tijî derkeve">
+<!ENTITY fullScreenExit.accesskey "F">
+
+<!ENTITY closeWindow.label "Paceyê Bigire">
+<!ENTITY closeWindow.accesskey "d">
+
+<!ENTITY bookmarkThisPageCmd.label "Vê Rûpelê Têxe Bijareyan">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+
+<!ENTITY bookmarksMenu.label "Bijare">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY subscribeToPageMenupopup.label "Endambûna Ji Bo Vê Rûpelê">
+<!ENTITY subscribeToPageMenuitem.label "Endambûna Ji Bo Vê Rûpelê">
+<!ENTITY addCurPagesCmd.label "Hilpekînan Têxe Nava Bijareyan">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY bookmarkAllCmd.label "Hilpekînan Têxe Nava Bijareyan">
+
+
+<!ENTITY backCmd.label "Paşve">
+<!ENTITY backCmd.accesskey "P">
+<!ENTITY backButton.tooltip "Rûpelek paşve">
+<!ENTITY forwardCmd.label "Pêşve">
+<!ENTITY forwardCmd.accesskey "ê">
+<!ENTITY forwardButton.tooltip "Rûpelek pêşve">
+<!ENTITY backForwardMenu.tooltip      "Rûpelên Dawî">
+<!ENTITY reloadCmd.label "Nû bike">
+<!ENTITY reloadCmd.accesskey "N">
+<!ENTITY reloadButton.tooltip "Rûpela derbasdar nû bike">
+<!ENTITY stopCmd.label "Bide sekinandin">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY stopButton.tooltip "Barkirina rûpelê bide sekinandin">
+<!ENTITY goEndCap.tooltip "Here navnîşana di Darikê Cihî de">
+<!ENTITY printButton.label "Çap Bike">
+<!ENTITY printButton.tooltip "Vê rûpelê çap bike">
+
+<!ENTITY locationItem.title "Cih">
+<!ENTITY searchItem.title "Bigere">
+<!ENTITY throbberItem.title "Şanîkera çalakiyan">
+<!ENTITY bookmarksItem.title "Bijare">
+
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label "Destpêk">
+
+<!ENTITY bookmarksButton.label "Bijare">
+<!ENTITY bookmarksButton.tooltip "Bijareyên xwe bibîne">
+<!ENTITY bookmarksSidebarCmd.accesskey "B">
+<!ENTITY bookmarksSidebarCmd.commandkey "B">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label "Dîrok">
+<!ENTITY historyButton.tooltip "Malperên ku di dîrokê de hatine vekirin bibîne">
+<!ENTITY historySidebarCmd.accesskey "D">
+<!ENTITY historySidebarCmd.commandKey "H">
+<!ENTITY showAllHistoryCmd2.label "Dîrokên Nîşan Bide">
+
+<!ENTITY toolsMenu.label "Amûr">
+<!ENTITY toolsMenu.accesskey "A">
+
+<!ENTITY keywordfield.label "Ji bo lêgerînê peyveke kilît lê zêde bike...">
+<!ENTITY keywordfield.accesskey "K">
+<!ENTITY search.label "Lêgerîna di webê de">
+<!ENTITY search.accesskey "L">
+<!ENTITY downloads.label "Daxistin">
+<!ENTITY downloads.tooltip "Rewşa daxistinên pelan nîşan bide">
+<!ENTITY downloads.accesskey "D">
+<!ENTITY downloads.commandkey "j">
+<!ENTITY downloadsUnix.commandkey "Y">
+<!ENTITY addons.label "Pêvek">
+<!ENTITY addons.tooltip "Nîşandan û Rêveberiya Pêvekên sazbûyî">
+<!ENTITY addons.accesskey "a">
+
+<!ENTITY errorConsoleCmd.label "Konsola Çewtiyan">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY fileMenu.label "Pel">
+<!ENTITY fileMenu.accesskey "P">
+<!ENTITY newNavigatorCmd.label "Paceya Nû">
+<!ENTITY newNavigatorCmd.key "n">
+<!ENTITY newNavigatorCmd.accesskey "Y">
+
+<!ENTITY editMenu.label "Biguherîne">
+<!ENTITY editMenu.accesskey "G">
+<!ENTITY undoCmd.label "Şûnde bîne">
+<!ENTITY undoCmd.key "z">
+<!ENTITY undoCmd.accesskey "Ş">
+<!ENTITY redoCmd.label "Dubare bike">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "D">
+<!ENTITY cutCmd.label "Jê bike">
+<!ENTITY cutCmd.key "x">
+<!ENTITY cutCmd.accesskey "j">
+<!ENTITY copyCmd.label "Ji ber bigire">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "J">
+<!ENTITY pasteCmd.label "Pê ve bike">
+<!ENTITY pasteCmd.key "v">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY deleteCmd.label "Jê bibe">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "B">
+<!ENTITY selectAllCmd.label "Hemûyan Hilbijêre">
+<!ENTITY selectAllCmd.key "a">
+<!ENTITY selectAllCmd.accesskey "H">
+<!ENTITY preferencesCmd.label "Vebijêrk">
+<!ENTITY preferencesCmd.accesskey "J">
+<!ENTITY preferencesCmdUnix.label "Vebijêrk">
+<!ENTITY preferencesCmdUnix.accesskey "j">
+
+<!ENTITY clearPrivateDataCmd.label "Daneyên Taybet Paqij Bike">
+<!ENTITY clearPrivateDataCmd.accesskey "T">
+
+<!ENTITY viewMenu.label "Bibîne">
+<!ENTITY viewMenu.accesskey "B">
+<!ENTITY viewToolbarsMenu.label "Darikê Amûran">
+<!ENTITY viewToolbarsMenu.accesskey "A">
+<!ENTITY viewSidebarMenu.label "Darikê Quncikê">
+<!ENTITY viewSidebarMenu.accesskey "q">
+<!ENTITY viewCustomizeToolbar.label "Taybet Bike">
+<!ENTITY viewCustomizeToolbar.accesskey "T">
+<!-- XXX historyMenu entities are used with or without places (bug 336058) -->
+
+<!ENTITY historyMenu.label "Dîrok">
+<!ENTITY historyMenu.accesskey "D">
+<!ENTITY historyUndoMenu.label "Hilpekînên Di Dîroka Dawî De Hatine Girtin">
+<!-- XXX places only -->
+
+<!ENTITY historyHomeCmd.label "Destpêk">
+<!-- XXX remove below if places sticks -->
+
+
+
+<!ENTITY openCmd.commandkey "L">
+<!ENTITY urlbar.emptyText             "Di Bijare û Mêjûyê de Bigere">
+<!ENTITY urlbar.accesskey "d">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+
+<!ENTITY searchFocus.commandkey "K">
+<!ENTITY searchFocus.commandkey2 "e">
+<!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY openLinkCmd.label "Girêdanê Di Paceyeke Nû De Veke">
+<!ENTITY openLinkCmd.accesskey "P">
+<!ENTITY openLinkCmdInTab.label "Girêdanê Di Hilpekîneke Nû De Veke">
+<!ENTITY openLinkCmdInTab.accesskey "H">
+<!ENTITY openFrameCmd.label "Çarçoweyê Di Paceyeke Nû De Veke">
+<!ENTITY openFrameCmd.accesskey "E">
+<!ENTITY openFrameCmdInTab.label "Çarçoveyê Di Hilpekîneke Nû De Veke">
+<!ENTITY openFrameCmdInTab.accesskey "V">
+<!ENTITY showOnlyThisFrameCmd.label "Tenê Vê Çarçoveyê Nîşan Bide">
+<!ENTITY showOnlyThisFrameCmd.accesskey "v">
+<!ENTITY reloadCmd.commandkey "R">
+<!ENTITY reloadFrameCmd.label "Çarçoveyê Nû Nîşan Bide">
+<!ENTITY reloadFrameCmd.accesskey "Ç">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Çavkaniya Hilbijartinê Nîşan Bide">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Çavkaniya MathMLê Nîşan Bide">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label "Çavkaniya Rûpelê Nîşan Bide">
+<!ENTITY viewPageSourceCmd.accesskey "A">
+<!ENTITY viewFrameSourceCmd.label "Çavkaniya Çarçoveyê Nîşan Bide">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label "Agahiyên Rûpelê Nîşan Bide">
+<!ENTITY viewPageInfoCmd.accesskey "A">
+<!ENTITY viewFrameInfoCmd.label "Agahiyên Çarçoveyê Nîşan Bide">
+<!ENTITY viewFrameInfoCmd.accesskey "a">
+<!ENTITY showImageCmd.label           "Wêneyê Nîşan Bide">
+<!ENTITY showImageCmd.accesskey       "S">
+<!ENTITY viewImageCmd.label "Wêneyê Nîşan Bide">
+<!ENTITY viewImageCmd.accesskey "W">
+<!ENTITY viewBGImageCmd.label "Wêneyê Rûerdê Nîşan Bide">
+<!ENTITY viewBGImageCmd.accesskey "w">
+<!ENTITY setDesktopBackgroundCmd.label "Wekî Rûerda Sermaseyê Mîheng Bike...">
+<!ENTITY setDesktopBackgroundCmd.accesskey "S">
+<!ENTITY bookmarkPageCmd2.label "Vê Rûpelê Têxe Nava Bijareyan...">
+<!ENTITY bookmarkPageCmd2.accesskey "x">
+<!ENTITY bookmarkThisLinkCmd.label "Vê Girêdanê Têxe Nava Bijareyan...">
+<!ENTITY bookmarkThisLinkCmd.accesskey "E">
+<!ENTITY bookmarkThisFrameCmd.label "Vê Çarçoveyê Têxe Nava Bijareyan...">
+<!ENTITY bookmarkThisFrameCmd.accesskey "Y">
+<!ENTITY sendPageCmd.label "Girêdanê Bişîne...">
+<!ENTITY sendPageCmd.accesskey "g">
+<!ENTITY savePageCmd.label "Rûpelê Cuda Tomar Bike...">
+<!ENTITY savePageCmd.accesskey "R">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2 "P">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameCmd.label "Çarçoveyê Cuda Tomar Bike...">
+<!ENTITY printFrameCmd.label          "Çarçpveyê Çap Bike...">
+<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY saveFrameCmd.accesskey "T">
+<!ENTITY saveLinkCmd.label "Cuda Tomar Bike...">
+<!ENTITY saveLinkCmd.accesskey "c">
+<!ENTITY sendLinkCmd.label "Girêdanê Bişeyîne...">
+<!ENTITY sendLinkCmd.accesskey "g">
+<!ENTITY saveImageCmd.label "Wêneyê Cuda Tomar Bike...">
+<!ENTITY saveImageCmd.accesskey "w">
+<!ENTITY sendImageCmd.label "Wêneyê Bişeyîne">
+<!ENTITY sendImageCmd.accesskey "w">
+<!ENTITY copyLinkCmd.label "Ciyê Girêdanê Ji Ber Bigire">
+<!ENTITY copyLinkCmd.accesskey "B">
+<!ENTITY copyLinkTextCmd.label        "Navnîşanê Ji Ber bigire">
+<!ENTITY copyLinkTextCmd.accesskey    "x">
+<!ENTITY copyImageCmd.label "Ciyê Wêneyê Ji Ber Bigire">
+<!ENTITY copyImageCmd.accesskey "c">
+<!ENTITY copyImageContentsCmd.label "Wêneyê Ji Ber Bigire">
+<!ENTITY copyImageContentsCmd.accesskey "y">
+<!ENTITY blockImageCmd.accesskey "g">
+<!ENTITY metadataCmd.label "Taybetmendî">
+<!ENTITY metadataCmd.accesskey "T">
+<!ENTITY copyEmailCmd.label "Navnîşana E-Peyamê Ji Ber Bigire">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY thisFrameMenu.label "Çarçoveya Derbasdar">
+<!ENTITY thisFrameMenu.accesskey "d">
+
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+
+
+<!ENTITY fullZoomEnlargeCmd.label       "Nêzîk Bike">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Dûr Bike">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Reset">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomToggleCmd.label        "Tenê Nivsê Nêzîk Bike">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "Nêzîk Bike">
+<!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+
+
+
+
+<!ENTITY newTabButton.tooltip "Hilpekîneke Nû Veke">
+<!ENTITY newWindowButton.tooltip "Paceyeke Nû Veke">
+<!ENTITY sidebarCloseButton.tooltip "Darikê quncikê bigire">
+
+<!ENTITY cutButton.tooltip "Jê Bike">
+<!ENTITY copyButton.tooltip "Ji Ber Bigire">
+<!ENTITY pasteButton.tooltip "Pê Ve Bike">
+
+<!ENTITY quitApplicationCmdWin.label "Derkeve">
+<!ENTITY quitApplicationCmdWin.accesskey "k">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label "Derkeve">
+<!ENTITY quitApplicationCmd.accesskey "K">
+<!ENTITY quitApplicationCmdMac.label "Derkeve">
+<!ENTITY quitApplicationCmdMac.key "Q">
+
+<!ENTITY closeCmd.label "Bigire">
+<!ENTITY closeCmd.key "w">
+<!ENTITY closeCmd.accesskey "G">
+
+<!ENTITY pageStyleMenu.label "Teşeyê Rûpelê">
+<!ENTITY pageStyleMenu.accesskey "t">
+<!ENTITY pageStyleNoStyle.label "Teşe Tune">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "Teşeyê Rûpelê yê Bingehîn">
+<!ENTITY pageStylePersistentOnly.accesskey "t">
+<!ENTITY organizeBookmarks.label "Rêveberiya Bijareyan">
+<!ENTITY pageReportIcon.tooltip "Ji bo vê rûpelê, mîhengên astenkirina paceyên vedibin biguherîne">
+
+<!ENTITY allowPopups.accesskey "P">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Vebijêrkên ji bo paceyên ku nayên xwestin serast bike...">
+<!ENTITY editPopupSettings.label "Vebijêrkên ji bo paceyên ku nayên xwestin serast bike...">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label "Bibore Rêveberiya Rûpelê">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "r">
+<!ENTITY bidiSwitchTextDirectionItem.label "Bibore Rêveberiya Deqan">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "q">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "x">
+
+<!ENTITY findOnCmd.label "Di Rûpelê De Bigere">
+<!ENTITY findOnCmd.accesskey "G">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Dîsa Bigere">
+<!ENTITY findAgainCmd.accesskey "d">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "Ferhengan têxê...">
+<!ENTITY spellAddDictionaries.accesskey "a">
+<!-- new bookmarks and history -->
+
+<!ENTITY identity.connectedTo "Bi vê ve hatî girêdan">
+
+
+<!ENTITY editBookmark.done.label                      "Qediya">
+<!ENTITY editBookmark.cancel.label                   "Betal">
+<!ENTITY editBookmark.removeBookmark.label           "Remove Bookmark">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.undo.label                     "Şûnde Bîne">
+<!ENTITY editBookmark.undo.accessKey                 "U">
+<!ENTITY editBookmark.edit.label                     "Serast Bike…">
+<!ENTITY editBookmark.edit.accessKey                 "E">
+
+<!ENTITY identity.unverifiedsite2 "Di vê malperê de agahiyên nasnameyê nîn in.">
+<!ENTITY identity.runBy "yê ku ji hêla vê ve tê xebitandin">
+
+<!ENTITY identity.moreInfoLinkText "Der barê vê malperê de zêdetir agahî bide min...">
+<!ENTITY downloadMonitor2.tooltip "Ji bo vekirina paceya daxistinan bitikîne">

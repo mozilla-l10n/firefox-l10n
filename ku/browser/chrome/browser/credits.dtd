@@ -1,0 +1,16 @@
+<!ENTITY brandMotto "Ji nû ve vedozandina Webê">
+<!ENTITY credit.thanks "Spasiyên Taybet ji bo">
+
+<!ENTITY credit.thanks2 "Spas ji bo me">
+<!ENTITY credit.contributors2 "pêşdebiran">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "">
+
+
+<!ENTITY credit.memory "Di pirraniya bîra">
+<!ENTITY credit.poweredByGeckoReg "Bi hêza Gecko&trade;'ê dorpêç bûye.">

@@ -1,0 +1,30 @@
+<!ENTITY window.width "36em">
+
+<!ENTITY cookiesonsystem.label "Çerezên di komputera te de tomar bûne li jêr in:">
+<!ENTITY cookiename.label "Navê Çerezê">
+<!ENTITY cookiedomain.label "Malper">
+<!ENTITY button.removecookie.label "Çerezê Jê Bibe">
+<!ENTITY button.removecookie.accesskey "R">
+<!ENTITY button.removeallcookies.label "Hemû Çerezan Jê Bibe">
+<!ENTITY button.removeallcookies.accesskey "H">
+
+<!ENTITY props.name.label "Nav::">
+<!ENTITY props.value.label "Naverok:">
+<!ENTITY props.domain.label "Host:">
+<!ENTITY props.path.label "Rê:">
+<!ENTITY props.secure.label "Bişeyîne Ji Bo:">
+<!ENTITY props.expires.label "Dema Bidawîbûnê:">
+
+<!ENTITY window.title "Çerez">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Bigere:">
+<!ENTITY filter.accesskey "B">
+<!ENTITY clear.label "Paqij Bike">
+<!ENTITY clear.accesskey "p">
+
+<!ENTITY button.close.label "Bigire">
+<!ENTITY button.close.accesskey "B">
+

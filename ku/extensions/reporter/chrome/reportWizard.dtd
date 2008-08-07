@@ -1,0 +1,60 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Malpereke Şikestî Rapor Bike">
+
+<!ENTITY privacyNotice.label "Polîçeya Nepeniyê">
+<!ENTITY reportWizardPrivacy.description "Bi vê amûrê dikarî nexebitîna malperan a di nava &brandShortName; 'ê de  bi Grûpa Nivîsbariyê bidî zanîn an jî  brandShortName 'ê bigirî. Li gorî dilê xwe dikarî ji bo &brandShortName; 'ê ji me re bibî alîkar. Ji kerema xwe dema xwe ji me re veqetîne û van bixwîne da ku hîn bibî ka em agahiyên ku me berhevkirine -yên divê ku tu jî tevlî bibî- çawa bi kar tînin.">
+<!ENTITY reportWizardMustAgree.description "Ji bo domkirinê divê polîçeyên nepeniyê yên li jor bipejirînî.">
+
+<!ENTITY dontShowPrivacyStatement.label "Min polîçeyên nepeniyê yên li jor xwend û dipejirînim.">
+<!ENTITY dontShowPrivacyStatement.accesskey "I">
+
+<!ENTITY reportForm.label "Raporê Dagire">
+
+<!ENTITY reportForm.description "Ji me re hinek qala pirsgirêkên ku rastî wan hatî bike:">
+<!ENTITY reportForm.url.title "URL'a Malperê:">
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Malper bi nasnavekê tê parastin">
+<!ENTITY reportForm.behind_login.accesskey "P">
+
+<!ENTITY reportForm.problem_type.title "Cureyê Pirsgirêkê:">
+<!ENTITY reportForm.problem_type.accesskey "C">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Yekê Hilbijêre...">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Gerok nayê destekirin">
+<!ENTITY reportForm.problem_type.item2.title "Nikare tomar bike">
+<!ENTITY reportForm.problem_type.item3.title "Pêvek nayê nîşandan">
+<!ENTITY reportForm.problem_type.item4.title "Naveroka din winda ye">
+<!ENTITY reportForm.problem_type.item5.title "Tevger çewt e">
+<!ENTITY reportForm.problem_type.item6.title "Xuyakirin çewt e">
+<!ENTITY reportForm.problem_type.item7.title "Pirsgirêkeke din">
+<!ENTITY reportForm.problem_type.item8.title "Têketina neçalak">
+<!ENTITY reportForm.problem_type.item9.title        "Derana çarerê çewt e">
+
+<!ENTITY reportForm.describe.title "Pirsgirêkê Bide Danasîn:">
+<!ENTITY reportForm.describe.accesskey "N">
+
+<!ENTITY reportForm.platform.title "Platform:">
+<!ENTITY reportForm.product.title "Berhem:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "Useragent:">
+<!ENTITY reportForm.language.title "Ziman:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "Epeyam (li gorî daxwazê):">
+<!ENTITY reportForm.email.accesskey "E">
+
+<!ENTITY reportForm.privacyPolicy.title "Polîçeya Nepeniyê">
+<!ENTITY reportForm.privacyPolicy.tooltip "Polîçeya Nepeniyê Nîşan Bide">
+
+<!ENTITY reportResults.showDetail.title "Kîtekîtan Nîşan Bide">
+<!ENTITY reportResults.showDetail.accesskey "N">
+
+<!ENTITY sendReport.label "Rapor Tê Şandin">
+<!ENTITY sendReport.description "Rapor ji pêşkêşkar re tê şandin...">
+
+<!ENTITY finish.label "Rapor hat şandin">

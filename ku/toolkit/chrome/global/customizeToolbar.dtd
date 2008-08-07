@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Darikê Amûran Kesane Bike">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY instructions.description "Ji bo ku bireserekê têxî darikê amûran, bi mişkê pê bigire û kaş bike">
+<!ENTITY show.label "Nîşan Bide:">
+<!ENTITY iconsAndText.label "Îkon û Deq">
+<!ENTITY icons.label "Îkon">
+<!ENTITY text.label "Deq">
+<!ENTITY useSmallIcons.label "Îkonên biçûk bikar bîne">
+<!ENTITY restoreDefaultSet.label "Wekî standardî bar bike">
+<!ENTITY addNewToolbar.label "Darikê Amûran a Nû Têxê">
+<!ENTITY saveChanges.label "Qediya">
+<!ENTITY undoChanges.label "Guherandinan Şûnde Bîne">

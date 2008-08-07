@@ -1,0 +1,4 @@
+<!ENTITY appManager.title     "Kîtekîtên sepanan">
+<!ENTITY appManager.style     "firehî: 30em; kêmtirîn-bilindahî: 20em;">
+<!ENTITY remove.label         "Rake">
+<!ENTITY remove.accesskey     "R">
