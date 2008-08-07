@@ -1,0 +1,32 @@
+<!ENTITY history.label "Историја">
+<!ENTITY rememberDaysBefore.label "Чувај ја историјата најмалку">
+<!ENTITY rememberDaysBefore.accesskey "и">
+<!ENTITY rememberDaysAfter2.label "денови">
+<!ENTITY rememberForms.label "Памети што внесувам во обрасци и при пребарување">
+<!ENTITY rememberForms.accesskey "в">
+<!ENTITY rememberDownloads.label "Памети што преземам">
+<!ENTITY rememberDownloads.accesskey "п">
+<!ENTITY cookies.label "Колачиња">
+<!ENTITY acceptCookies.label "Прифаќај колачиња од места">
+<!ENTITY acceptCookies.accesskey "м">
+<!ENTITY acceptThirdParty.label     "Прифаќај колачиња од трети страни">
+<!ENTITY acceptThirdParty.accesskey "т">
+<!ENTITY keepUntil.label "Колачињата се чуваат:">
+<!ENTITY keepUntil.accesskey "к">
+<!ENTITY expire.label "додека не истечат">
+<!ENTITY close.label "до излез од &brandShortName;">
+<!ENTITY askEachTime.label "прашај ме секој пат">
+<!ENTITY cookieExceptions.label "Исклучоци…">
+<!ENTITY cookieExceptions.accesskey "И">
+<!ENTITY showCookies.label "Прикажи ги колачињата…">
+<!ENTITY showCookies.accesskey "л">
+<!ENTITY privateData.label "Приватни податоци">
+<!ENTITY alwaysClear.label "Чисти ги приватните податоци при секој излез од &brandShortName;">
+<!ENTITY alwaysClear.accesskey "о">
+<!ENTITY askBeforeClear.label "Прашај ме пред чистењето на приватните податоци">
+<!ENTITY askBeforeClear.accesskey "а">
+<!ENTITY clearDataSettings.label "Поставки…">
+<!ENTITY clearDataSettings.accesskey "т">
+<!ENTITY clearDataNow.label "Исчисти сега…">
+<!ENTITY clearDataNow.label2 "Исчисти сега">
+<!ENTITY clearDataNow.accesskey "с">

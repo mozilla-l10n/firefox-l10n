@@ -1,0 +1,80 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Input Tag Properties Dialog.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY windowTitle.label "Својства на рубриките">
+<!ENTITY windowTitleImage.label "Својства на рубриките за слика">
+
+<!ENTITY InputType.label "Тип на рубрика">
+<!ENTITY InputType.accesskey "Т">
+<!ENTITY text.value "Текст">
+<!ENTITY password.value "Лозинка">
+<!ENTITY checkbox.value "Кутија за избори">
+<!ENTITY radio.value "Радио копче">
+<!ENTITY submit.value "Копче за испраќање">
+<!ENTITY reset.value "Копче за ресетирање">
+<!ENTITY file.value "Датотека">
+<!ENTITY hidden.value "Скриено">
+<!ENTITY image.value "Слика">
+<!ENTITY button.value "Копче">
+
+<!ENTITY InputSettings.label "Поставки на рубриката">
+<!ENTITY InputName.label "Име на рубриката:">
+<!ENTITY GroupName.label "Име на група:">
+<!ENTITY Name.accesskey "м">
+<!ENTITY InputValue.label "Вредност на рубрика:">
+<!ENTITY InitialValue.label "Основна вредност:">
+<!ENTITY Value.accesskey "в">
+<!ENTITY InputChecked.label "Претходно одбрано">
+<!ENTITY InputChecked.accesskey "д">
+<!ENTITY InputSelected.label "Претходно избрано">
+<!ENTITY InputSelected.accesskey "б">
+<!ENTITY InputReadOnly.label "Само читај">
+<!ENTITY InputReadOnly.accesskey "и">
+<!ENTITY InputDisabled.label "Оневозможено">
+<!ENTITY InputDisabled.accesskey "н">
+<!ENTITY tabIndex.label "Индекс на табот:">
+<!ENTITY tabIndex.accesskey "И">
+<!ENTITY TextSize.label "Големина на рубрика:">
+<!ENTITY TextSize.accesskey "Г">
+<!ENTITY TextLength.label "Максимална должина:">
+<!ENTITY TextLength.accesskey "л">
+<!ENTITY AccessKey.label "Клуч за пристап:">
+<!ENTITY AccessKey.accesskey "К">
+<!ENTITY Accept.label "Типови на пристап:">
+<!ENTITY Accept.accesskey "а">
+
+<!ENTITY ImageProperties.label "Својства на сликата…">
+<!ENTITY ImageProperties.accesskey "о">

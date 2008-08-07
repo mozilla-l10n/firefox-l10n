@@ -1,0 +1,16 @@
+<!ENTITY pluginWizard.title "Сервис за пронаоѓање додатоци">
+<!ENTITY pluginWizard.firstPage.title "Добродојдовте во &pluginWizard.title;">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; сега проверува за достапни додатоци…">
+<!ENTITY pluginWizard.availablePluginsPage.title "Преземање за достапни додатоци">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Следниве додатоци се достапни:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Кликнете Напред за да ги инсталирате овие додатоци.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Некои додатоци може од вас да бараат дополнителни информации при инсталација.">
+<!ENTITY pluginWizard.licensePage.title "Лиценца на додатокот">
+<!ENTITY pluginWizard.licensePage.accept.label "Се согласувам.">
+<!ENTITY pluginWizard.licensePage.deny.label "Не се согласувам (додатокот нема да биде инсталиран).">
+<!ENTITY pluginWizard.installPluginsPage.title "Инсталирање на додатоци">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; инсталира додатоци…">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; заврши со инсталирањето на додатоците кои недостасуваа:">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Дознајте повеќе за додатоците или рачно пронајдете ги оние кои недостасуваат.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; треба да се рестартира за додатоците да работат.">
+<!ENTITY missingPlugin.label "Кликнете овде за да го преземете приклучокот">

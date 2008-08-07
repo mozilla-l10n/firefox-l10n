@@ -1,0 +1,7 @@
+<!ENTITY phishDlg.title "Услови за заштитната услуга">
+<!ENTITY phishDlg.height "40em">
+<!ENTITY phishDlg.width "35em">
+<!ENTITY acceptToS.label "Ги прифаќам овие услови">
+<!ENTITY declineToS.label "НЕ ги прифаќам овие услови">
+<!ENTITY accept.label "Прифати и продолжи">
+<!ENTITY cancel.label "Откажи">

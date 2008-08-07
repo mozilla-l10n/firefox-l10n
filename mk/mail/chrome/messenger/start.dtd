@@ -1,0 +1,32 @@
+<!ENTITY startpage.welcome "Добродојдовте во &brandFullName;!">
+<!ENTITY startpage.intro "&brandFullName; е моќен клиент за е-пошта и дискусии, со отворен изворен код.">
+
+<!ENTITY startpage.features "Можности">
+
+<!ENTITY startpage.junkControl "Адаптивни контроли за отпадна пошта">
+<!ENTITY startpage.rssReader "RSS читач">
+<!ENTITY startpage.globalInbox "Поддршка за глобално сандаче">
+<!ENTITY startpage.searchFolders "Папки со снимени пребарувања">
+<!ENTITY startpage.messageGroups "Групирање на пораки">
+<!ENTITY startpage.privacyProtect "Заштита на приватност">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "Повеќе информации">
+
+<!ENTITY startpage.help "помош за Thunderbird">
+<!ENTITY startpage.helpInfo "За често поставувани прашања, совети и помош, посетете ја страницата за">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+
+<!ENTITY startpage.page "производот Thunderbird">
+<!ENTITY startpage.pageInfo "За информации за производот, посетете ја страницата за">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
+<!ENTITY startpage.extra '<script type="text/javascript"> <![CDATA[ function installDic(anchor) { var params = { "en-GB Dictionary": anchor.getAttribute("href") }; InstallTrigger.install(params); } ]]> </script> <h2>Правопис</h2> <p><a href="http://downloads.mozdev.org/dictionaries/spell-en-GB.xpi" onclick="installDic(this);return false">Инсталирајте го</a> речникот за правопис за британски англиски јазик. <a href="http://www.mozilla.org/products/thunderbird/dictionaries.html">Детали и други јазици</a>.</p>'>
+
+<!ENTITY startpage.poweredByGecko "Работи на Gecko.">

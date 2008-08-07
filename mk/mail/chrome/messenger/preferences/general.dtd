@@ -1,0 +1,42 @@
+<!ENTITY systemDefaults.label "Системски поставки">
+<!ENTITY alwaysCheckDefault.label "Секогаш проверувај дали &brandShortName; е основен клиент за пошта">
+<!ENTITY alwaysCheckDefault.accesskey "п">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height "3em">
+<!ENTITY checkNow.label "Провери сега">
+<!ENTITY checkNow.accesskey "с">
+
+<!ENTITY messengerStartPage.label "Почетна страница на &brandShortName;">
+<!ENTITY enableStartPage.label "При стартување на &brandShortName; покажи ја почетната страница">
+<!ENTITY enableStartPage.accesskey "р">
+<!ENTITY location.label "Локација:">
+<!ENTITY location1.accesskey "о">
+<!ENTITY useDefault.label "Врати ја основната">
+<!ENTITY useDefault.accesskey "р">
+
+<!ENTITY bounceSystemDockIcon.label "Анимирај ја вкотвената икона">
+<!ENTITY bounceSystemDockIcon.accesskey "и">
+
+<!ENTITY newMessagesArrive.label "Кога ќе пристигнат нови пораки:">
+<!ENTITY playSound.label "Свири звук">
+<!ENTITY playSound1.accesskey "к">
+<!ENTITY showAnimatedAlert.label "Покажи известување">
+<!ENTITY showAnimatedAlert.accesskey "П">
+<!ENTITY customizeMailAlert.label "Прилагоди…">
+<!ENTITY customizeMailAlert.accesskey "П">
+
+<!ENTITY soundNotification1.caption "Звук">
+<!ENTITY play.label "Пушти">
+<!ENTITY play.accesskey "П">
+<!ENTITY systemsound.label "Основен системски звук за нова пошта">
+<!ENTITY systemsoundMac.label "Системски звук">
+<!ENTITY systemsoundMac.accesskey "у">
+<!ENTITY systemsound.accesskey "у">
+<!ENTITY customsound.label "Користи ја следнава датотека">
+<!ENTITY customsound.accesskey "о">
+<!ENTITY browse.label "Разгледај…">
+<!ENTITY browse.accesskey "Р">

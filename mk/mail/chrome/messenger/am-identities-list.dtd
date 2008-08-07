@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Идентитети асоцирани со оваа сметка">
+<!ENTITY identitiesListDesc.label "Поддршка за повеќе идентитети">
+<!ENTITY identitiesListAdd.label "Додај…">
+<!ENTITY identitiesListAdd.accesskey "а">
+<!ENTITY identitiesListEdit.label "Уреди…">
+<!ENTITY identitiesListEdit.accesskey "е">
+<!ENTITY identitiesListDelete.label "Избриши">
+<!ENTITY identitiesListDelete.accesskey "з">

@@ -1,0 +1,7 @@
+<!ENTITY window.title "Уредување на заглавја">
+<!ENTITY addButton.label "Додај">
+<!ENTITY addButton.accesskey "а">
+<!ENTITY removeButton.label "Отстрани">
+<!ENTITY removeButton.accesskey "р">
+<!ENTITY newMsgHeader.label "Ново заглавје за порака:">
+<!ENTITY newMsgHeader.accesskey "Н">

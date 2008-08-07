@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "За да се зачува простор на дискот, не преземај:">
+<!ENTITY doNotDownload.label "За да се зачува простор на дискот, нема да се преземаат:">
+<!ENTITY offlineNewFolder.label "Кога креирам нови папки, истите избери ги за локална употреба">
+<!ENTITY offlineNewFolder.accesskey "К">
+<!ENTITY offlineNotDownload.label "Пораки поголеми од">
+<!ENTITY offlineNotDownload.accesskey "П">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "дена">
+<!ENTITY daysOld.label "дена">
+<!ENTITY message.label "пораки">
+<!ENTITY nntpNotDownloadRead.label "Прочитаните пораки">
+<!ENTITY nntpNotDownloadRead.accesskey "р">
+<!ENTITY nntpDownloadMsg.label "Пораките постари од">
+<!ENTITY nntpDownloadMsg.accesskey "о">
+<!ENTITY retentionCleanup.label "За да се ослободи простор на дискот, старите пораки можe да се бришат:">
+<!ENTITY retentionKeepMsg.label "Избриши ги пораките постари од">
+<!ENTITY retentionKeepMsg.accesskey "з">
+<!ENTITY retentionKeepAll.label "Никогаш (не бриши ниту една порака)">
+<!ENTITY retentionKeepAll.accesskey "а">
+<!ENTITY retentionKeepNew.label "Избриши ги сите освен последните">
+<!ENTITY retentionKeepNew.accesskey "л">
+<!ENTITY retentionKeepUnread.label "Секогаш бриши ги прочитаните пораки">
+<!ENTITY retentionKeepUnread.accesskey "р">
+<!ENTITY nntpRemoveBody.label "Отстрани ги телата на пораките постари од">
+<!ENTITY nntpRemoveBody.accesskey "О">
+<!ENTITY offlineSelectNntp.label "Дискусиони групи за локална употреба…">
+<!ENTITY offlineSelectImap.label "Изберете папки за локална употреба…">
+<!ENTITY offlineSelect.accesskey "б">
+<!ENTITY offlineDesc.label "Можете да ги преземете Вашите пораки, со што тие ќе ви бидат достапни кога работите локално.">
+<!ENTITY makeInboxMsgsAvailable.label "Направи пораките од моето сандаче да бидат достапни и кога работам локално">
+<!ENTITY makeInboxMsgsAvailable.accesskey "с">
+<!ENTITY offlineGroupTitle.label "Локално">
+<!ENTITY diskspaceGroupTitle.label "Простор на дискот">

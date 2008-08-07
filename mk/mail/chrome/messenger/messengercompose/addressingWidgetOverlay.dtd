@@ -1,0 +1,9 @@
+<!-- address labels -->
+<!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
+<!ENTITY toAddr.label "До:">
+<!ENTITY ccAddr.label "Копија:">
+<!ENTITY bccAddr.label "Слепа копија:">
+<!ENTITY replyAddr.label "Одговори на:">
+<!ENTITY newsgroupsAddr.label "Дискусиона група:">
+<!ENTITY followupAddr.label "Праќај до:">
+

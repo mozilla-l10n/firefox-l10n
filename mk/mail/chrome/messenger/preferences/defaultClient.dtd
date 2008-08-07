@@ -1,0 +1,13 @@
+<!ENTITY window.title "Основни поставки на клиентот">
+<!ENTITY window.width "400px">
+<!ENTITY checkNow.label "Провери сега">
+<!ENTITY whenStartingCheckFor.label "При стартување, &brandShortName; треба да провери дали е основна програма за">
+<!ENTITY mailApplication.label "Пошта">
+<!ENTITY mailApplication.accesskey "П">
+<!ENTITY checkMailNow.accesskey "П">
+<!ENTITY newsApplication.label "Дискусии">
+<!ENTITY newsApplication.accesskey "Д">
+<!ENTITY checkNewsNow.accesskey "Д">
+<!ENTITY rssFeeds.label "RSS текови">
+<!ENTITY rssFeeds.accesskey "R">
+<!ENTITY checkFeedAggregatorNow.accesskey "е">

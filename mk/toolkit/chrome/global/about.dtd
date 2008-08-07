@@ -1,0 +1,14 @@
+<!ENTITY about.version "верзија">
+<!ENTITY about.copy.beforeLink "Авторско право &copy; 1998-2008 на">
+<!ENTITY about.copy.linkTitle "придонесувачи">
+<!ENTITY about.copy.afterLink "на проектот Mozillla.">
+<!ENTITY about.license.beforeLink "Прочитајте ги">
+<!ENTITY about.license.linkTitle "информациите за лиценцата">
+<!ENTITY about.license.afterLink "на овој производ">
+<!ENTITY about.relnotes.beforeLink "Прочитајте ги">
+<!ENTITY about.relnotes.linkTitle "белешкте за изданието">
+<!ENTITY about.relnotes.afterLink "за оваа верзија.">
+<!ENTITY about.buildconfig.beforeLink "Прикажи ја">
+<!ENTITY about.buildconfig.linkTitle "конфигурацијата за градбата">
+<!ENTITY about.buildconfig.afterLink "искористена за оваа верзија.">
+<!ENTITY about.buildIdentifier "Идентификатор на градба:">

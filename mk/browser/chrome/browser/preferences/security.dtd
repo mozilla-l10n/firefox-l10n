@@ -1,0 +1,23 @@
+<!ENTITY warnAddonInstall.label "Предупреди ме кога местата сакаат да инсталираат додатоци">
+<!ENTITY warnAddonInstall.accesskey "а">
+<!ENTITY tellMaybeAttackSite.label "Кажи ми ако местото кое го посетувавам е осомничен напаѓач">
+<!ENTITY tellMaybeAttackSite.accesskey "К">
+<!ENTITY tellMaybeForgery.label "Кажи ми ако местото кое го посетувам е осомничен фалсификат">
+<!ENTITY tellMaybeForgery.accesskey "т">
+<!ENTITY addonExceptions.label "Исклучоци…">
+<!ENTITY addonExceptions.accesskey "И">
+<!ENTITY passwords.label "Лозинки">
+<!ENTITY rememberPasswords.label "Запамети ги лозинките за местата">
+<!ENTITY rememberPasswords.accesskey "л">
+<!ENTITY passwordExceptions.label "Исклучоци…">
+<!ENTITY passwordExceptions.accesskey "И">
+<!ENTITY useMasterPassword.label "Користи главна лозинка">
+<!ENTITY useMasterPassword.accesskey "о">
+<!ENTITY changeMasterPassword.label "Промени ја главната лозинка…">
+<!ENTITY changeMasterPassword.accesskey "л">
+<!ENTITY savedPasswords.label  "Снимени лозинки…">
+<!ENTITY savedPasswords.accesskey "н">
+<!ENTITY warnings.label "Предупредувачки пораки">
+<!ENTITY chooseWarnings.label "Поставки за прикажување на дијалогот со предупредувања">
+<!ENTITY warningSettings.label "Поставки…">
+<!ENTITY warningSettings.accesskey "с">

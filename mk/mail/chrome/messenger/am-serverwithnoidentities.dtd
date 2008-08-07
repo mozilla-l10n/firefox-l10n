@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Поставки за сметката">
+<!ENTITY accountSettingsDesc.label "Следново е специјална сметка.  Нема идентитети кои се поврзани со неа.">
+<!ENTITY accountName.label "Име на сметката:">
+<!ENTITY accountName.accesskey "И">
+<!ENTITY messageStorage.label "Чување на пораки">
+<!ENTITY emptyTrashOnExit.label "При излегување испразни го ѓубрето">
+<!ENTITY emptyTrashOnExit.accesskey "б">
+<!ENTITY localPath.label "Локален директориум:">
+<!ENTITY localPath.accesskey "Л">
+<!ENTITY localFolderPicker.label "Избор на локален директориум">
+<!ENTITY browseFolder.label "Разгледај…">
+<!ENTITY browseFolder.accesskey "Р">

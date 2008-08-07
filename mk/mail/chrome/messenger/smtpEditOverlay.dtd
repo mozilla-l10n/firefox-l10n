@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Поставки">
+<!ENTITY security.caption "Безбедност и идентификување">
+<!ENTITY serverName.label "Име на серверот:">
+<!ENTITY serverName.accesskey "с">
+<!ENTITY serverDescription.label "Опис:">
+<!ENTITY serverDescription.accesskey "О">
+<!ENTITY serverPort.label "Порта:">
+<!ENTITY serverPort.accesskey "П">
+<!ENTITY alwaysUseUsername.label "Користи име и лозинка">
+<!ENTITY alwaysUseUsername.accesskey "о">
+<!ENTITY userName.label "Корисничко име:">
+<!ENTITY userName.accesskey "м">
+<!ENTITY isSecure.label "Користи безбедна врска:">
+<!ENTITY neverSecure.label "Не">
+<!ENTITY neverSecure.accesskey "Н">
+<!ENTITY sometimesSecure.label "TLS кога е достапнa">
+<!ENTITY sometimesSecure.accesskey "а">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP сервер">
+<!ENTITY serverPortDefault.label "Основнa:">

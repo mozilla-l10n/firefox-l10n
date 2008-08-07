@@ -1,0 +1,26 @@
+<!ENTITY no-properties.label "Нема наместени својства.">
+<!ENTITY caption.label "Својства на елементот">
+<!ENTITY image-sec.label "Својства на сликата">
+<!ENTITY image-url.label "Локација:">
+<!ENTITY image-type.label "Тип:">
+<!ENTITY image-desc.label "Опис:">
+<!ENTITY image-alt.label "Постојан текст:">
+<!ENTITY image-size.label "Димензии на сликата:">
+<!ENTITY image-filesize.label "Големина на датотеката:">
+<!ENTITY insdel-sec.label "Внеси/Избриши својства">
+<!ENTITY insdel-cite.label "Информации:">
+<!ENTITY insdel-date.label "Датум:">
+<!ENTITY link-sec.label "Својства на врската">
+<!ENTITY link-url.label "Адреса:">
+<!ENTITY link-target.label "Ќе се отвори во:">
+<!ENTITY link-type.label "Тип на цел:">
+<!ENTITY link-lang.label "Јазик на цел:">
+<!ENTITY link-rel.label "Релација:">
+<!ENTITY link-rev.label "Обратна релација:">
+<!ENTITY link-ping.label "Ќе извести:">
+<!ENTITY misc-sec.label "Разни својства">
+<!ENTITY misc-lang.label "Јазик на текст:">
+<!ENTITY misc-title.label "Наслов:">
+<!ENTITY misc-tblsummary.label "Резиме на табелата:">
+<!ENTITY quote-sec.label "Својства на цитатите">
+<!ENTITY quote-cite.label "Информации:">

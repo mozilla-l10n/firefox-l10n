@@ -1,0 +1,17 @@
+<!ENTITY junkSettings.label "Поставки за отпад">
+<!ENTITY trainingWarning.label "Ако е овозможено, тренирајте го &brandShortName; да идентификува отпадна пошта. Со помош на копчето за отпадна пошта означувајте кои пораки се отпад, а кои не.">
+<!ENTITY level.label "Прилагодливи контроли за отпадна пошта за оваа сметка">
+<!ENTITY level.accesskey "о">
+
+<!ENTITY move.label "Премести го новиот отпад во:">
+<!ENTITY junkFolderOn.label "&quot;Junk&quot; папка во:">
+<!ENTITY otherFolder.label "Друго:">
+<!ENTITY purge1.label "Автоматски бриши го отпадот постар од">
+<!ENTITY purge1.accesskey "в">
+<!ENTITY purge2.label "денови">
+
+<!ENTITY whitelist.label "Поштата не е отпад ако испаќачот е во: ">
+<!ENTITY whitelist.accesskey "д">
+
+<!ENTITY ispHeaders.label "Верувај во заглавјата за отпад од:">
+<!ENTITY ispHeaders.accesskey "р">

@@ -1,0 +1,131 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY chooseAddressBook.label "Додај во: ">
+<!ENTITY chooseAddressBook.accesskey "а">
+
+<!ENTITY Contact.tab "Контакт">
+<!ENTITY Name.box "Име">
+<!-- LOCALIZATION NOTE: 
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
+<!ENTITY NameField1.id "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id "PhoneticLastName">
+
+<!ENTITY NameField1.label "Име:">
+<!ENTITY NameField1.accesskey "И">
+<!ENTITY NameField2.label "Презиме:">
+<!ENTITY NameField2.accesskey "П">
+<!ENTITY PhoneticField1.label "Фонетичко:">
+<!ENTITY PhoneticField2.label "Фонетичко:">
+<!ENTITY DisplayName.label "Вообичаено:">
+<!ENTITY DisplayName.accesskey "В">
+<!ENTITY NickName.label "Прекар:">
+<!ENTITY NickName.accesskey "е">
+
+<!ENTITY Internet.box "Интернет">
+<!ENTITY PrimaryEmail.label "Е-пошта:">
+<!ENTITY PrimaryEmail.accesskey "Е">
+<!ENTITY SecondEmail.label "Дополнителна е-пошта:">
+<!ENTITY SecondEmail.accesskey "о">
+<!ENTITY PreferMailFormat.label "Преферира да ги прима пораките форматирани како:">
+<!ENTITY PreferMailFormat.accesskey "р">
+<!ENTITY PlainText.label "Само текст">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "Непознато">
+<!ENTITY ScreenName.label "Екранско име:">
+<!ENTITY ScreenName.accesskey "с">
+
+<!ENTITY allowRemoteContent.label "Дозволи далечни слики во HTML пошта">
+<!ENTITY allowRemoteContent.accesskey "з">
+
+<!ENTITY Phones.box "Телефони">
+<!ENTITY WorkPhone.label "Телефон на работа:">
+<!ENTITY WorkPhone.accesskey "Т">
+<!ENTITY HomePhone.label "Домашен телефон:">
+<!ENTITY HomePhone.accesskey "Д">
+<!ENTITY FaxNumber.label "Факс:">
+<!ENTITY FaxNumber.accesskey "к">
+<!ENTITY PagerNumber.label "Пејџер:">
+<!ENTITY PagerNumber.accesskey "П">
+<!ENTITY CellularNumber.label "Мобилен:">
+<!ENTITY CellularNumber.accesskey "М">
+
+<!ENTITY Address.tab "Адреса">
+<!ENTITY Home.box "Дома">
+<!ENTITY HomeAddress.label "Адреса:">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeCity.label "Град:">
+<!ENTITY HomeState.label "Држава/провинција:">
+<!ENTITY HomeZipCode.label "Поштенски број:">
+<!ENTITY HomeCountry.label "Држава:">
+<!ENTITY HomeWebPage.label "Мрежна страница:">
+<!ENTITY Work.box "Работа">
+<!ENTITY JobTitle.label "Наслов:">
+<!ENTITY Department.label "Оддел:">
+<!ENTITY Company.label "Организација:">
+<!ENTITY WorkAddress.label "Адреса:">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkCity.label "Град:">
+<!ENTITY WorkState.label "Држава/провинција:">
+<!ENTITY WorkZipCode.label "Поштенски број:">
+<!ENTITY WorkCountry.label "Држава:">
+<!ENTITY WorkWebPage.label "Мрежна страница:">
+
+
+<!ENTITY Other.tab "Друго">
+<!ENTITY Custom1.label "Сопствено 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "Сопствено 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "Сопствено 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "Сопствено 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.box "Забелешки">

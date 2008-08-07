@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title "Креирање на нова етикета ">
+<!ENTITY name.label "Име на етикета:">
+<!ENTITY name.accesskey "т">

@@ -1,0 +1,22 @@
+<!ENTITY lHeader "Привезоци">
+<!ENTITY askOnSave.label "Папка за привезоци">
+<!ENTITY alwaysAsk.label "Прашувај ме каде да се снима секој привезок">
+<!ENTITY neverAsk.label "Снимај ги сите привезоци во ова папка:">
+<!ENTITY desktop.label "Работна површина">
+<!ENTITY downloads.label "Моите преземања">
+<!ENTITY choose.label "Друга…">
+<!ENTITY showFolder.label "Покажи ја папката">
+<!ENTITY downloadManagerWindow.label "Менаџер на привезоци">
+<!ENTITY showWhenStarting.label "Покажи го прозорецот на менаџерот на привезоци штом ќе почне преземањето.">
+<!ENTITY closeWhenDone.label "Затвори го прозорецот на менаџерот на привезоци штом ќе заврши преземањето.">
+<!ENTITY fileTypes.label "Типови на датотеки">
+<!-- XXX this text string could improve -->
+<!ENTITY fileTypesDescription.label "Автоматски извршија асоцираната акција со секој од следниве типови на датотеки:">
+<!ENTITY fileTypeColName.label "Тип на датотека">
+<!ENTITY fileHandlerColName.label "Програма">
+<!ENTITY editFileHandler.label "Промени акција">
+<!ENTITY editFileHandler.accesskey "а">
+<!ENTITY removeFileHandler.label "Отстрани">
+<!ENTITY removeFileHandler.accesskey "р">
+<!ENTITY plugins.label "Додатоци…">
+<!ENTITY plugins.accesskey "Д">

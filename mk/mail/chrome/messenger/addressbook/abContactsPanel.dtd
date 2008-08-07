@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label "Адресар:">
+<!ENTITY searchInput.label "Барај:">
+<!ENTITY SearchNameOrEmail.label "Име или е-пошта">
+
+<!ENTITY addtoToFieldMenu.label "Додај во полето До">
+<!ENTITY addtoCcFieldMenu.label "Додај во полето Cc">
+<!ENTITY addtoBccFieldMenu.label "Додај во полето Bcc">
+
+<!ENTITY toButton.label "Додај во До:">
+<!ENTITY ccButton.label "Додај во Cc:">
+

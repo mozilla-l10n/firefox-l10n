@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS претплати">
+<!ENTITY subscriptionDesc.label "Забелешка: Отстранувањето или менувањето на папка за некој канал нема да влијае на претходно преземените статии.">
+<!ENTITY feedTitle.label "Наслов:">
+<!ENTITY location.label "Локација:">
+
+<!ENTITY button.addFeed.label "Додај">
+<!ENTITY button.addFeed.accesskey "а">
+<!ENTITY button.editFeed.label "Уреди">
+<!ENTITY button.editFeed.accesskey "е">
+<!ENTITY button.removeFeed.label "Отстрани">
+<!ENTITY button.removeFeed.accesskey "р">
+<!ENTITY button.importOPML.label "Увези">
+<!ENTITY button.importOPML.accesskey "и">
+<!ENTITY button.exportOPML.label "Извези">
+<!ENTITY button.exportOPML.accesskey "з">
+
+<!ENTITY cmd.close.commandKey "w">

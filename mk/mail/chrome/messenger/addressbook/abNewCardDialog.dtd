@@ -1,0 +1,89 @@
+<!-- Labels -->
+<!ENTITY chooseAddressBook.label "Додај во: ">
+<!ENTITY chooseAddressBook.accesskey "а">
+<!-- Contact Tab -->
+
+<!ENTITY Contact.tab "Контакт">
+<!ENTITY Name.box "Име">
+<!-- LOCALIZATION NOTE: 
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY NameField1.label "Име:">
+<!ENTITY NameField1.accesskey "И">
+<!ENTITY NameField2.label "Презиме:">
+<!ENTITY NameField2.accesskey "П">
+<!ENTITY PhoneticField1.label "Фонетичко:">
+<!ENTITY PhoneticField2.label "Фонетичко:">
+<!ENTITY DisplayName.label "Вообичаено:">
+<!ENTITY DisplayName.accesskey "В">
+<!ENTITY NickName.label "Прекар:">
+<!ENTITY NickName.accesskey "е">
+<!ENTITY Internet.box "Интернет">
+<!ENTITY PrimaryEmail.label "Е-пошта:">
+<!ENTITY PrimaryEmail.accesskey "Е">
+<!ENTITY SecondEmail.label "Дополнителна е-пошта:">
+<!ENTITY SecondEmail.accesskey "о">
+<!ENTITY PreferMailFormat.label "Преферира да ги прима пораките форматирани како:">
+<!ENTITY PreferMailFormat.accesskey "р">
+<!ENTITY PlainText.label "Само текст">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "Непознато">
+<!ENTITY ScreenName.label "Екранско име:">
+<!ENTITY ScreenName.accesskey "с">
+<!ENTITY Phones.box "Телефони">
+<!ENTITY WorkPhone.label "Телефон на работа:">
+<!ENTITY WorkPhone.accesskey "Т">
+<!ENTITY HomePhone.label "Домашен телефон:">
+<!ENTITY HomePhone.accesskey "Д">
+<!ENTITY FaxNumber.label "Факс:">
+<!ENTITY FaxNumber.accesskey "к">
+<!ENTITY PagerNumber.label "Пејџер:">
+<!ENTITY PagerNumber.accesskey "П">
+<!ENTITY CellularNumber.label "Мобилен:">
+<!ENTITY CellularNumber.accesskey "М">
+<!-- Address Tab -->
+
+<!ENTITY Address.tab "Адреса">
+<!ENTITY Home.box "Дома">
+<!ENTITY HomeAddress.label "Адреса:">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeCity.label "Град:">
+<!ENTITY HomeState.label "Држава/провинција:">
+<!ENTITY HomeZipCode.label "Поштенски број:">
+<!ENTITY HomeCountry.label "Земја:">
+<!ENTITY HomeWebPage.label "Мрежна страница:">
+<!ENTITY Work.box "Работа">
+<!ENTITY JobTitle.label "Наслов:">
+<!ENTITY Department.label "Оддел:">
+<!ENTITY Company.label "Организација:">
+<!ENTITY WorkAddress.label "Адреса:">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkCity.label "Град:">
+<!ENTITY WorkState.label "Држава/провинција:">
+<!ENTITY WorkZipCode.label "Поштенски број:">
+<!ENTITY WorkCountry.label "Земја:">
+<!ENTITY WorkWebPage.label "Мрежна страница:">
+<!-- Other Tab -->
+
+<!ENTITY Other.tab "Друго">
+<!ENTITY Custom1.label "Сопствено 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "Сопствено 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "Сопствено 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "Сопствено 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.box "Забелешки">

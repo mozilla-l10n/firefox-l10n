@@ -1,0 +1,5 @@
+<!ENTITY aboutDialog.title "За &brandFullName;">
+<!ENTITY credits "Заслуги">
+<!ENTITY aboutLink "&lt; За &brandFullName;">
+<!ENTITY aboutVersion "верзија">
+<!ENTITY copyrightText "&#169;1998-2005 Помагачи. Сите права задржани. Mozilla Thunderbird и логоата на Thunderbird се трговски марки на фондацијата Mozilla.  Сите права задржани.">

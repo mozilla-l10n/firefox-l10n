@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Прашање за HTML пошта">
+
+<!ENTITY recipient.label "Некои од примачите не се заведени дека можат да примаат HTML пошта.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Вашата порака не може да биде конвертирана во обичен текст без да се изгубат информации.">
+<!ENTITY convertibleAltering.label "Вашата порака може да се конвертира во обичен текст без да се загубат важни информации. Сепак, текстуалната верзија може да изгледа поинаку од онаа што претходно сте ја виделе.">
+<!ENTITY convertibleNo.label "Сепак, користевте форматирање (пр. бои) кое не може да се конвертира во обичен текст.">
+
+<!ENTITY question.label "Дали сакате да ја конвертирате пораката во обичен текст или сепак сакате да ја пратите како HTML?">
+
+<!ENTITY plainTextAndHtml.label "Праќај како обичен текст и како HTML">
+<!ENTITY plainTextOnly.label "Праќај само како обичен текст">
+<!ENTITY htmlOnly.label "Праќај само во HTML формат">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Праќај како обичен текст и како HTML (препорачливо)">
+<!ENTITY plainTextOnlyRecommended.label "Праќај само како обичен текст (препорачливо)">
+<!ENTITY htmlOnlyRecommended.label "Праќај само во HTML формат (препорачливо)">
+<!ENTITY recommended.label "(препорачливо)">
+
+<!ENTITY send.label "Испрати">
+<!ENTITY cancel.label "Откажи">
+<!ENTITY recipients.label "Примачи…">
+<!ENTITY help.label "Помош">

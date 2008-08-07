@@ -1,0 +1,88 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "Објавување на страница">
+<!ENTITY windowTitleSettings.label "Објавување на поставки">
+
+<!ENTITY publishTab.label "Објави">
+<!ENTITY settingsTab.label "Поставки">
+
+<!ENTITY publishButton.label "Објави">
+<!-- Publish Tab Panel -->
+
+<!ENTITY siteList.label "Име на место:">
+<!ENTITY siteList.tooltip "Изберете го местото на кое сакате да објавувате">
+<!ENTITY newSiteButton.label "Нова место">
+<!ENTITY siteDirList.label "Изберете или внесете име на директориум во Вашето место за објавување:">
+<!ENTITY siteDirList.tooltip "Изберете го или внесете го името на поддриректориумот во кој сакате да објавувате">
+<!ENTITY docDirList.label "Поддиректориум на местото за оваа страница:">
+<!ENTITY publishImgCheckbox.label "Вклучи слики и други датотеки">
+<!ENTITY publishImgCheckbox.tooltip "Објавете слики и други датотеки реферирани од оваа страница">
+<!ENTITY sameLocationRadio.label "Користи ја истата локација како страницата">
+<!ENTITY sameLocationRadio.tooltip "Објавете ги датотеките на иста локација како и страницата">
+<!ENTITY useSubdirRadio.label "Користи го овој поддиректориум:">
+<!ENTITY useSubdir.tooltip "Изберете или внесете име на директориум во кој ќе бидат објавени датотеките">
+<!ENTITY chooseDirButton.label "Избери…">
+<!ENTITY pageTitle.label "Наслов на страницата:">
+<!ENTITY pageTitle.tooltip "Внесете наслов кој ќе ја идентификува страницата во прозорецот и обележувачите">
+<!ENTITY pageTitleExample.label "пр.: &quot;Мојата мрежна страница&quot;">
+<!ENTITY filename.label "Име на датотека:">
+<!ENTITY filename.tooltip "Внесете име за оваа датотека, вклучувајќи и „.html“ за мрежни страници">
+<!ENTITY filenameExample.label "пр.: &quot;mypage.html&quot;">
+<!ENTITY relatedDocs.label "Други датотеки за објавување">
+<!ENTITY setDefaultButton.label "Постави како основно">
+<!ENTITY setDefSiteAndDir.label "Постави како основно место и директориум">
+<!ENTITY removeButton.label "Отстрани го местото">
+<!-- Settings Tab Panel -->
+
+<!ENTITY publishSites.label "Места за објавување">
+<!ENTITY serverInfo.label "Информации за серверот">
+<!ENTITY loginInfo.label "Информации за пријавување">
+<!ENTITY siteName.label "Име на место:">
+<!ENTITY siteName.tooltip "Прекар кој го идентификува ова место за објавување (пр.: „МоеМесто“)">
+<!ENTITY siteUrl.label "Адреса за објавување (пр.: 'ftp://ftp.myisp.com/myusername'):">
+<!ENTITY siteUrl.tooltip "FTP:// или HTTP:// адресата која ви ја дал Вашиот Интернет провајдер">
+<!ENTITY browseUrl.label "HTTP на Вашата домашна страница (пр.: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.tooltip "HTTP:// адресата на Вашиот домашен директориум (не вклучувајте имиња на датотеки)">
+<!ENTITY username.label "Корисничко име:">
+<!ENTITY username.tooltip "Корисничкото име кое ви служи да се пријавите кај Вашиот Интернет провајдер">
+<!ENTITY password.label "Лозинка:">
+<!ENTITY password.tooltip "Лозинката што е поврзана со Вашето име">
+<!ENTITY savePassword.label "Сними ја лозинката">
+<!ENTITY savePassword.tooltip "Одберете го ова за безбедно да ја снимите Вашата лозинка со помош на менаџерот на лозинки">

@@ -1,0 +1,98 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label "Својства">
+
+<!ENTITY generalInfo.label "Општи информации">
+<!ENTITY folderCharsetTab.label "Основна кодна страница:">
+<!ENTITY folderCharsetTab.accesskey "к">
+<!ENTITY folderCharsetOverride.label "Применувај ја основната кодна страница на сите пораки во папката (поставките за кодна страница на индивидуалните пораки и авто-откривањето ќе бидат игнорирани)">
+<!ENTITY folderCharsetOverride.accesskey "а">
+<!ENTITY folderRebuildSummaryFile.label "Освежи ја содржината">
+<!ENTITY folderRebuildSummaryFile.accesskey "р">
+<!ENTITY folderRebuildSummaryFileTip.label "Освежи ја датотеката со сиже">
+
+
+<!ENTITY retention.label "Бришење на ѓубрето">
+<!ENTITY retentionUseDefault.label "Користи ги серверските поставки">
+<!ENTITY retentionUseDefault.accesskey "е">
+<!ENTITY days.label "денови">
+<!ENTITY daysOld.label "денови">
+<!ENTITY message.label "пораки">
+<!ENTITY retentionCleanup.label "За ослободување простор на дискот, старите пораки можат да бидат избришани засекогаш">
+<!ENTITY retentionKeepMsg.label "Избриши ги пораките постари од">
+<!ENTITY retentionKeepMsg.accesskey "р">
+<!ENTITY retentionKeepAll.label "Не бриши ниту една порака">
+<!ENTITY retentionKeepAll.accesskey "а">
+<!ENTITY retentionKeepNew.label "Избриши ги сите освен последните">
+<!ENTITY retentionKeepNew.accesskey "л">
+<!ENTITY retentionKeepUnread.label "Секогаш бриши ги прочитаните пораки">
+<!ENTITY retentionKeepUnread.accesskey "р">
+
+<!ENTITY folderOfflineTab.label "Локално">
+<!ENTITY folderCheckForNewMessages.label "Провери дали има нови пораки во оваа папка">
+<!ENTITY folderCheckForNewMessages.accesskey "о">
+
+<!ENTITY offlineFolder.check.label "Избери ја оваа папка за локална употреба">
+<!ENTITY offlineFolder.check.accesskey "з">
+<!ENTITY offlineFolder.button.label "Преземи сега">
+<!ENTITY offlineFolder.button.accesskey "р">
+
+<!ENTITY selectofflineNewsgroup.check.label "Изберија оваа дискусиона група за локална употреба">
+<!ENTITY selectofflineNewsgroup.check.accesskey "у">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Користи ги основите од поставките на сметката">
+<!ENTITY offlineNewsgroup.button.label "Преземи сега">
+<!ENTITY offlineNewsgroup.button.accesskey "р">
+
+<!ENTITY folderProps.information.label "Информации:">
+<!ENTITY folderProps.name.label "Име:">
+<!ENTITY folderProps.name.accesskey "И">
+
+<!ENTITY folderSharingTab.label "Делење">
+<!ENTITY privilegesDesc.label "Дели ја оваа и други папки со мрежни корисници и прикажи ги и постави ги привилегиите за пристап">
+<!ENTITY privileges.button.label "Привилегии…">
+<!ENTITY privileges.button.accesskey "П">
+<!ENTITY permissionsDesc.label "Ги имаш следниве дозволи:">
+<!ENTITY folderType.label "Тип на папка:">
+
+<!ENTITY folderQuotaTab.label "Квота">
+<!ENTITY folderQuotaRoot.label "Корен на квота:">
+<!ENTITY folderQuotaUsage.label "Употреба:">
+<!ENTITY folderQuotaStatus.label "Статус:">

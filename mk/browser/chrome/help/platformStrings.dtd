@@ -1,0 +1,12 @@
+<!ENTITY pref.menuPath '<span class="win menuPath">Алатки &gt; Опции</span><span                              class="unix menuPath">Уредување &gt; Преференции</span><span                              class="mac menuPath">&brandShortName; &gt; Преференции</span>'>
+<!ENTITY pref.singular '<span class="win">опција</span><span                             class="noWin">преференција</span>'>
+<!ENTITY pref.plural '<span class="win">опции</span><span                             class="noWin">преференции</span>'>
+<!ENTITY pref.singularCaps '<span class="win">Опција</span><span                             class="noWin">Преференција</span>'>
+<!ENTITY pref.pluralCaps '<span class="win">Опции</span><span                             class="noWin">Преференции</span>'>
+<!ENTITY ctrlKey "<kbd>Ctrl</kbd>">
+<!ENTITY accelKey '<kbd class="noMac">Ctrl</kbd><kbd                             class="mac">Cmd</kbd>'>
+<!ENTITY altKey '<kbd class="noMac">Alt</kbd><kbd                             class="mac">Opt</kbd>'>
+<!ENTITY shiftKey "<kbd>Shift</kbd>">
+<!ENTITY enterKey '<kbd class="noMac">Enter</kbd><kbd                             class="mac">Return</kbd>'>
+<!ENTITY images.baseURL "http://www.mozilla.org/projects/firefox/help/2.0">
+<!ENTITY copyright.years "2003-2008">

@@ -1,0 +1,5 @@
+<!ENTITY server.label "Сметка: ">
+<!ENTITY server.accesskey "а">
+<!ENTITY virtualFolderListTitle.title "Избор на папки">
+<!ENTITY virtualFolderDesc.label "Изберете ги папките во кои ќе се пребарува:">
+

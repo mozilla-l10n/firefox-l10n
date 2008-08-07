@@ -1,0 +1,65 @@
+<!ENTITY itemGeneral.label "Општо">
+<!ENTITY itemAutoComplete.label "Адресирање">
+<!ENTITY itemSpellCheck.label "Правопис">
+<!ENTITY itemSendFormat.label "Формат на испраќање">
+
+<!ENTITY forwardReply.label "Ги препраќам пораките">
+<!ENTITY forwardMsg.label "Препрати ги пораките:">
+<!ENTITY forwardMsg.accesskey "р">
+<!ENTITY inline.label "Како дел од пораката">
+<!ENTITY inline.accesskey "е">
+<!ENTITY asAttachment.label "Како прилог">
+<!ENTITY asAttachment.accesskey "а">
+
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "Фонт:">
+<!ENTITY font.accesskey "н">
+<!ENTITY size.label "Гол.:">
+<!ENTITY size.accesskey "л">
+<!ENTITY fontColor.label "Боја на текст:">
+<!ENTITY fontColor.accesskey "к">
+<!ENTITY bgColor.label "Боја на позадина:">
+<!ENTITY bgColor.accesskey "п">
+<!ENTITY restoreHTMLDefaults.label "Основни">
+<!ENTITY restoreHTMLDefaults.accesskey "О">
+
+<!ENTITY sendingMessagesHeader.label "Ги составувам пораките">
+<!ENTITY spellCheck.label "Провери го правописот пред испраќање">
+<!ENTITY spellCheck.accesskey "р">
+<!ENTITY spellCheckInline.label "Овозможи проверка на правопис за време на пишување">
+<!ENTITY spellCheckInline1.accesskey "к">
+<!ENTITY languagePopup.label "Јазик:">
+<!ENTITY languagePopup.accessKey "а">
+<!ENTITY downloadDictionaries.label "Преземи уште речници">
+
+<!ENTITY useMIME.label "За пораки со 8-битни знаци користи „quoted printable“ MIME кодна страница">
+<!ENTITY useMIME.accesskey "о">
+<!ENTITY warnOnSendAccelKey.label "Барај потврда кога користам тастатура за испраќање на пораки">
+<!ENTITY warnOnSendAccelKey.accesskey "и">
+<!ENTITY autoSave.label "Автоматско снимање секои">
+<!ENTITY autoSave.accesskey "в">
+<!ENTITY autoSaveEnd.label "минути">
+<!ENTITY autoSaveEnd.accesskey "м">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "Линиите со обичен текст имаат">
+<!ENTITY wrapOutMsg.accesskey "Л">
+<!ENTITY char.label "знаци">
+
+<!ENTITY emailCollectionPicker.label "Автоматски додавај ги адресите во мојот:">
+<!ENTITY emailCollectionPicker.accesskey "т">
+<!ENTITY addressingTitle.label "Авто-комплетирање на адреси">
+<!ENTITY autocompleteText.label "Кога адресирам пораки, барај можни резултати во:">
+<!ENTITY addressingEnable.label "Локален адресар">
+<!ENTITY addressingEnable.accesskey "а">
+<!ENTITY directories.label "Сервер на директориумот:">
+<!ENTITY directories.accesskey "д">
+<!ENTITY editDirectories.label "Уреди…">
+<!ENTITY editDirectories.accesskey "е">
+<!ENTITY matchText.label "Ако постои соодветен контакт во локалниот адресар:">
+<!ENTITY skipDirectory.label "Не го пребарувај директориумот">
+
+<!ENTITY sendOptionsCaption.label "Опции за испраќање и HTML">
+<!ENTITY sendOptionsDescription.label "Однесување на текстуалниот формат">
+<!ENTITY sendOptions.label "Опции за испраќање…">
+<!ENTITY sendOptions.accesskey "с">
+

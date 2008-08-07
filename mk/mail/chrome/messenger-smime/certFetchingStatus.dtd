@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Преземање сертификати">
+<!ENTITY info.message "Во директориумот барам сертификати за примачите. Ова може да потрае неколку минути.">
+<!ENTITY stop.label "Стопирај го пребарувањето">

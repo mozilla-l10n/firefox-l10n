@@ -1,0 +1,53 @@
+<!ENTITY window.title "Правила за филтрите">
+<!ENTITY subject.label "предмет">
+<!ENTITY sender.label "испраќач">
+<!ENTITY date.label "датум">
+<!ENTITY anyText.label "било кој текст">
+<!ENTITY keyword.label "клучен збор">
+<!ENTITY age.label "старост во денови">
+<!ENTITY to.label "до">
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "статус">
+<!ENTITY priority.label "приоритет">
+<!ENTITY body.label "тело">
+<!ENTITY contains.label "содржи">
+<!ENTITY nocontains.label "не содржи">
+<!ENTITY filterName.label "Име на филтер:">
+<!ENTITY filterName.accesskey "И">
+
+<!ENTITY junk.label "Отпад">
+<!ENTITY notJunk.label "Не е отпад">
+
+<!ENTITY lowestPriorityCmd.label "Најнизок">
+<!ENTITY lowPriorityCmd.label "Ниско">
+<!ENTITY normalPriorityCmd.label "Нормално">
+<!ENTITY highPriorityCmd.label "Високо">
+<!ENTITY highestPriorityCmd.label "Највисок">
+
+<!ENTITY conditionDesc.label "За нови пораки кои:">
+<!ENTITY filterActionDesc.label "Изврши ги следниве дејствија:">
+<!ENTITY filterActionDesc.accesskey "р">
+
+<!ENTITY newFolderButton.label "Нова папка…">
+<!ENTITY newFolderButton.accesskey "Н">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "Премести ја пораката во">
+<!ENTITY copyMessage.label "Копирај ја пораката во">
+<!ENTITY forwardTo.label "Препрати ја пораката до">
+<!ENTITY replyWithTemplate.label "Одговори со шаблон">
+<!ENTITY markMessageRead.label "Означи ја како прочитана">
+<!ENTITY markMessageStarred.label "Додај ѕвезда">
+<!ENTITY labelMessage.label "Лепенка">
+<!ENTITY setPriority.label "Постави приоритет на">
+<!ENTITY addTag.label "Етикетирај порака">
+<!ENTITY setJunkScore.label "Постави статус за отпад на">
+<!ENTITY deleteMessage.label "Избриши ја пораката">
+<!ENTITY deleteFromPOP.label "Избриши ја од POP серверот">
+<!ENTITY fetchFromPOP.label "Преземи ја од POP серверот">
+<!ENTITY ignoreThread.label "Игнорирај ја нишката">
+<!ENTITY watchThread.label "Следи ја нишката">
+

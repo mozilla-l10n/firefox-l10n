@@ -1,0 +1,119 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "Својства на сликата">
+
+<!ENTITY pixelsPopup.value "пиксели">
+<!ENTITY percentPopup.value "проценти">
+<!-- These are in the Location tab panel -->
+
+<!ENTITY locationEditField.label "Локација на сликата:">
+<!ENTITY locationEditField.accessKey "Л">
+<!ENTITY locationEditField.tooltip "Внесете го името или локацијата на сликата">
+<!ENTITY title.label "Совет:">
+<!ENTITY title.accessKey "т">
+<!ENTITY title.tooltip "HTML 'title' атрибутот кој се прикажува како совет">
+<!ENTITY altText.label "Постојан текст:">
+<!ENTITY altText.accessKey "а">
+<!ENTITY altTextEditField.tooltip "Внесете текст кој ќе се прикаже место сликата">
+<!ENTITY noAltText.label "Не користи постојан текст">
+<!ENTITY noAltText.accessKey "Н">
+
+<!ENTITY previewBox.label "Преглед на слика">
+<!ENTITY MoreFewerButton.tooltip "Прикажува повеќе или помалку својства за уредување">
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
+<!ENTITY actualSize.label "Вистинска големина:">
+<!ENTITY actualSizeRadio.label "Вистинска големина">
+<!ENTITY actualSizeRadio.accessKey "а">
+<!ENTITY actualSizeRadio.tooltip "Ја враќа вистинската големина на сликата">
+<!ENTITY customSizeRadio.label "Сопствена големина">
+<!ENTITY customSizeRadio.accessKey "С">
+<!ENTITY customSizeRadio.tooltip "Ја менува големината на сликата како што е прикажана на страницата">
+<!ENTITY heightEditField.label "Висина:">
+<!ENTITY heightEditField.accessKey "с">
+<!ENTITY widthEditField.label "Ширина:">
+<!ENTITY widthEditField.accessKey "р">
+<!ENTITY constrainCheckbox.label "Ограничување">
+<!ENTITY constrainCheckbox.accessKey "н">
+<!ENTITY constrainCheckbox.tooltip "Maintain the image's aspect ratio">
+<!-- These controls are in the Image Map box of the expanded area -->
+
+<!ENTITY imagemapBox.label "Мапа на сликата">
+<!ENTITY removeImageMapButton.label "Отстрани">
+<!ENTITY removeImageMapButton.accessKey "р">
+<!ENTITY editImageMapButton.label "Уреди…">
+<!ENTITY editImageMapButton.tooltip "Креира точки за кликање на оваа слика">
+<!-- These are the options for image alignment -->
+
+<!ENTITY alignment.label "Порамни го текстот до сликата">
+<!ENTITY bottomPopup.value "На дното">
+<!ENTITY topPopup.value "На врвот">
+<!ENTITY centerPopup.value "Во центарот">
+<!ENTITY wrapRightPopup.value "Скрати од десно">
+<!ENTITY wrapLeftPopup.value "Скрати од лево">
+<!-- These controls are in the Spacing Box -->
+
+<!ENTITY spacingBox.label "Растојание">
+<!ENTITY spacingBox.tooltip "Внесете број за количината на простор околу сликата">
+<!ENTITY leftRightEditField.label "Лево и десно:">
+<!ENTITY leftRightEditField.accessKey "Л">
+<!ENTITY topBottomEditField.label "Дно и врв:">
+<!ENTITY topBottomEditField.accessKey "Д">
+<!ENTITY borderEditField.label "Полна граница:">
+<!ENTITY borderEditField.accessKey "л">
+<!-- These controls are in the Link Box -->
+
+<!ENTITY showImageLinkBorder.label "Полна граница околу поврзаната слика">
+<!ENTITY showImageLinkBorder.accessKey "р">
+<!-- These controls may be added some day; currently not used -->
+
+<!ENTITY makePageBackgroundCheckbox.label "Направи ја странтат позадина">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Користете слика како позадина на Вашата страница">
+<!ENTITY editImageButton.label "Измени слика">
+<!ENTITY editImageButton.tooltip "Изменете ја сликата во друга програма">
+<!-- These tabs are currently used in the image input dialog -->
+
+<!ENTITY imageInputTab.label "Образец">
+<!ENTITY imageLocationTab.label "Локација">
+<!ENTITY imageDimensionsTab.label "Димензии">
+<!ENTITY imageAppearanceTab.label "Изглед">
+<!ENTITY imageLinkTab.label "Врска">

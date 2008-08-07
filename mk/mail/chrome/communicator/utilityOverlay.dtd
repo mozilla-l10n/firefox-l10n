@@ -1,0 +1,73 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+
+<!ENTITY fileMenu.label "Датотека">
+<!ENTITY fileMenu.accesskey "Д">
+<!ENTITY newMenu.label "Нова">
+<!ENTITY newMenu.accesskey "Н">
+
+<!ENTITY editMenu.label "Уредување">
+<!ENTITY editMenu.accesskey "е">
+<!ENTITY undoCmd.label "Врати">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "р">
+<!ENTITY redoCmd.label "Повтори">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "р">
+<!ENTITY cutCmd.label "Отсечи">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "с">
+<!ENTITY copyCmd.label "Копирај">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "К">
+<!ENTITY pasteCmd.label "Залепи">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "В">
+<!ENTITY deleteCmd.label "Избриши">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "з">
+<!ENTITY selectAllCmd.label "Избери сè">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "е">
+<!ENTITY preferencesCmd.label "Опции…">
+<!ENTITY preferencesCmd.accesskey "О">
+<!ENTITY preferencesCmdUnix.label "Преференции">
+<!ENTITY preferencesCmdUnix.accesskey "П">
+
+<!ENTITY findTypeTextCmd.label "Најди текст додека пишувам">
+<!ENTITY findTypeTextCmd.accesskey "к">
+
+<!ENTITY viewMenu.label "Поглед">
+<!ENTITY viewMenu.accesskey "г">
+<!ENTITY viewToolbarsMenu.label "Алатници">
+<!ENTITY viewToolbarsMenu.accesskey "т">
+<!ENTITY showTaskbarCmd.label "Статусна лента">
+<!ENTITY showTaskbarCmd.accesskey "С">
+
+<!ENTITY direct.label "На Интернет (посредник: нема)">
+<!ENTITY direct.accesskey "Н">
+<!ENTITY manual.label "На Интернет (посредник: рачно)">
+<!ENTITY manual.accesskey "р">
+<!ENTITY pac.label "На Интернет (посредник: автоматски)">
+<!ENTITY pac.accesskey "а">
+
+<!ENTITY proxy.label "Конфигурација на посредникк…">
+<!ENTITY proxy.accesskey "К">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Затвори">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "З">
+
+<!ENTITY closeWindow.label "Затвори го прозорецот">
+
+<!ENTITY quitApplicationCmd.label "Излези">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "з">
+
+<!ENTITY quitApplicationCmdUnix.label "Излези">
+<!ENTITY quitApplicationCmdUnix.accesskey "з">
+

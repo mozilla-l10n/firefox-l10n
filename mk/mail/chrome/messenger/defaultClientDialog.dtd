@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Основен клиент">
+<!ENTITY defaultClient.intro  "&brandShortName; е основен клиент за:">
+
+<!ENTITY email.label "Е-пошта">
+<!ENTITY newsgroups.label "Дискусиони групи">
+<!ENTITY rss.label "RSS канали">
+
+<!ENTITY checkOnStartup.label "Проверувај секогаш при стартување на &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "П">

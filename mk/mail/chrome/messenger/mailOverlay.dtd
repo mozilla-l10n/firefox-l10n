@@ -1,0 +1,8 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Порака">
+<!ENTITY newMessageCmd.accesskey "П">
+ 
+<!ENTITY newCardCmd.label "Карта во адресар…">
+<!ENTITY newCardCmd.accesskey "К">
+

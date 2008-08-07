@@ -1,0 +1,12 @@
+<!ENTITY securityWarnings.title "Безбедносно предупредувања">
+<!ENTITY security.warn_when "Покажи го дијалогот со предупредување кога:">
+<!ENTITY security.warn_entering_secure.label "Ќе посетам енкриптирана страница.">
+<!ENTITY security.warn_entering_secure.accesskey "п">
+<!ENTITY security.warn_entering_weak.label "Ќе посетам страница со слаба енкрипција.">
+<!ENTITY security.warn_entering_weak.accesskey "н">
+<!ENTITY security.warn_leaving_secure.label "Ќе заминам од енкриптирана страница.">
+<!ENTITY security.warn_leaving_secure.accesskey "а">
+<!ENTITY security.warn_submit_insecure.label "Ќе испратам информации кои не се енкриптирани.">
+<!ENTITY security.warn_submit_insecure.accesskey "с">
+<!ENTITY security.warn_viewing_mixed.label "Ќе гледам енкриптирана страница која содржи некои неенкриптирани информации.">
+<!ENTITY security.warn_viewing_mixed.accesskey "л">

@@ -1,0 +1,38 @@
+<!ENTITY printSetup.title "Поставување на страницата">
+<!ENTITY basic.tab "Формат и опции">
+<!ENTITY formatGroup.label "Формат">
+<!ENTITY orientation.label "Ориентација:">
+<!ENTITY portrait "Портрет">
+<!ENTITY landscape "Пејсаж">
+<!ENTITY scale.label "Големина:">
+<!ENTITY scalePercent "&#037;">
+<!ENTITY shrinkToFit.label "Собери во ширина на прозорецот">
+<!ENTITY optionsGroup.label "Опции">
+<!ENTITY printBG.label "Печати ја позадината (бои и слики)">
+<!ENTITY advanced.tab "Маргини и заглавје/подножје">
+<!ENTITY marginGroup.label "Маргини (#1)">
+<!ENTITY marginUnits.inches "инчи">
+<!ENTITY marginUnits.metric "милиметри">
+<!ENTITY marginTop.label "Врв:">
+<!ENTITY marginBottom.label "Дно:">
+<!ENTITY marginLeft.label "Лево:">
+<!ENTITY marginRight.label "Десно:">
+<!ENTITY headerFooter.label "Заглавја и подножја">
+<!ENTITY hfLeft.label "Лево:">
+<!ENTITY hfCenter.label "Централно:">
+<!ENTITY hfRight.label "Десно:">
+<!ENTITY headerLeft.tip "Лево заглавје">
+<!ENTITY headerCenter.tip "Централно заглавје">
+<!ENTITY headerRight.tip "Десно заглавје">
+<!ENTITY footerLeft.tip "Лево подножје">
+<!ENTITY footerCenter.tip "Централно подножје">
+<!ENTITY footerRight.tip "Десно подножје">
+<!ENTITY hfTitle "Наслов">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "Датум/Време">
+<!ENTITY hfPage "Страница #">
+<!ENTITY hfPageAndTotal "Страница # од #">
+<!ENTITY hfBlank "--празно--">
+<!ENTITY hfCustom "Сопствен…">
+<!ENTITY customPrompt.title "Сопствен…">
+<!ENTITY customPrompt.prompt "Внесете го Вашиот текст за заглавје/подножје">

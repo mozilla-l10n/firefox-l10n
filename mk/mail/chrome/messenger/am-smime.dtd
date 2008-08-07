@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Безбедност">
+<!ENTITY securityHeading.label "За да примате и испраќате енкриптирани пораки, треба да наведете сертификат за дигитални потписи и сертификат за енкрипција.">
+<!ENTITY encryptionGroupTitle.label "Енкрипција">
+<!ENTITY encryptionChoiceLabel.label "Основни поставки за енкрипција при праќање на пораки:">
+<!ENTITY neverEncrypt.label "Никогаш (не користи енкрипција)">
+<!ENTITY alwaysEncryptMessage.label "Потребно (испраќај само ако сите примачи имаат сертификат)">
+<!ENTITY encryptionCert.message "Сертификат за енкрипција/декрипција на пораките кои ги примам:">
+<!ENTITY encryptionCert.notselected "Нема поставен сертификат">
+<!ENTITY certificate.button "Избери…">
+<!ENTITY certificate_clear.button "Исчисти">
+<!ENTITY signingGroupTitle.label "Дигитално потпишување">
+<!ENTITY signMessage.label "Дигитално потпишувај ги пораките (вообичаено)">
+<!ENTITY signingCert.message "Сертификат за дигитално потпишување на пораките кои ги праќам:">
+<!ENTITY signingCert.notselected "Нема поставен сертификат">
+
+<!ENTITY certificates.label "Сертификати">
+<!ENTITY managecerts.label "Прикажи сертификати">
+<!ENTITY managecerts.accesskey "П">
+<!ENTITY managedevices.label "Безб. уреди">
+<!ENTITY managedevices.accesskey "Б">

@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Копии и папки">
+<!ENTITY sendingPrefix.label "При испраќање на нови пораки">
+<!ENTITY fccMailFolder.label "Направи копија во:">
+<!ENTITY fccMailFolder.accesskey "п">
+<!ENTITY fccReplyFollowsParent.label "Иста папка како пораката на која се одговара">
+<!ENTITY fccReplyFollowsParent.accesskey "т">
+<!ENTITY chooseFolderButton.label "Избери папка…">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc до овие адреси за е-пошта:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Специјални папки">
+<!ENTITY draftMailFolder.label "Чувај ги скиците во:">
+<!ENTITY templateMailFolder.label "Чувај ги шаблоните во:">
+<!ENTITY saveMessageDlg.label "Покажи дијалог за потврда при снимање на пораки">
+<!ENTITY saveMessageDlg.accesskey "с">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Папка со испратени пораки во:">
+<!ENTITY sentFolderOn.accesskey "е">
+<!ENTITY sentInOtherFolder.label "Друга:">
+<!ENTITY sentInOtherFolder.accesskey "а">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "Папка со „Скици“ на:">
+<!ENTITY draftsFolderOn.accesskey "С">
+<!ENTITY draftInOtherFolder.label "Друга:">
+<!ENTITY draftInOtherFolder.accesskey "г">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Папка со „Шаблони“ на:">
+<!ENTITY templatesFolderOn.accesskey "М">
+<!ENTITY templateInOtherFolder.label "Друга:">
+<!ENTITY templateInOtherFolder.accesskey "р">
+<!ENTITY specialFoldersTitle.label "Скици и шаблони">
+<!ENTITY keepDrafts.label "Чувај ги скиците во:">
+<!ENTITY keepTempltes.label "Чувај ги шаблони во:">

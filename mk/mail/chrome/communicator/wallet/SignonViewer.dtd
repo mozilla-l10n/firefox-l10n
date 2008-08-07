@@ -1,0 +1,17 @@
+<!ENTITY windowtitle.label "Менаџер на лозинки">
+<!ENTITY windowalttitle.label "Менаџер на обрасци: Места">
+<!ENTITY tab.signonsstored.label "Снимени лозинки">
+<!ENTITY tab.signonsnotstored.label "Неснимени лозинки">
+<!ENTITY tab.nopreview.label "Непрегледани обрасци">
+<!ENTITY tab.nocapture.label "Неснимени обрасци">
+
+<!ENTITY spiel.signonsstored.label "Менаџерот на лозинки има снимени информации за пријавување за следниве места:">
+<!ENTITY spiel.signonsnotstored.label "Менаџерот на лозинки нема да снима информации за пријавување за следниве места:">
+<!ENTITY spiel.nopreview.label "Менаџерот на обрасци нема да прегледува обрасци од овие места пред да ги пополни за вас:">
+<!ENTITY spiel.nocapture.label "Менаџерот на обрасци нема да прашува за снимање обрасци од следниве места:">
+
+<!ENTITY treehead.site.label "Место">
+<!ENTITY treehead.username.label "Корисничко име">
+<!ENTITY treehead.password.label "Лозинка">
+<!ENTITY remove.label "Отстрани">
+<!ENTITY removeall.label "Отстрани сè">

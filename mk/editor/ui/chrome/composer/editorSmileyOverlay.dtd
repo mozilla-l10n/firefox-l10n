@@ -1,0 +1,91 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Editor Smiley Overlay.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2003
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -    Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Smiley Menu items -->
+
+<!ENTITY insertSmiley.label "Смешко">
+<!ENTITY insertSmiley.accesskey "С">
+
+<!ENTITY smiley1Cmd.label "Насмевка">
+<!ENTITY smiley1Cmd.accesskey "с">
+<!ENTITY smiley1Cmd.tooltip "Внесува насмеано лице">
+<!ENTITY smiley2Cmd.label "Незадоволно">
+<!ENTITY smiley2Cmd.accesskey "е">
+<!ENTITY smiley2Cmd.tooltip "Внесува незадоволно лице">
+<!ENTITY smiley3Cmd.label "Намигни">
+<!ENTITY smiley3Cmd.accesskey "Н">
+<!ENTITY smiley3Cmd.tooltip "Внесува лице кое намига">
+<!ENTITY smiley4Cmd.label "Исплазен јазик">
+<!ENTITY smiley4Cmd.accesskey "ј">
+<!ENTITY smiley4Cmd.tooltip "Внесува лице со исплазен јазик">
+<!ENTITY smiley5Cmd.label "Се смеам">
+<!ENTITY smiley5Cmd.accesskey "м">
+<!ENTITY smiley5Cmd.tooltip "Внесува лице кое се смее">
+<!ENTITY smiley6Cmd.label "Засрамено">
+<!ENTITY smiley6Cmd.accesskey "е">
+<!ENTITY smiley6Cmd.tooltip "Внесува засрамено лице">
+<!ENTITY smiley7Cmd.label "Неодлучно">
+<!ENTITY smiley7Cmd.accesskey "у">
+<!ENTITY smiley7Cmd.tooltip "Внесува неодлучно лице">
+<!ENTITY smiley8Cmd.label "Изненадување">
+<!ENTITY smiley8Cmd.accesskey "д">
+<!ENTITY smiley8Cmd.tooltip "Внесува изненадено лице">
+<!ENTITY smiley9Cmd.label "Бакнеж">
+<!ENTITY smiley9Cmd.accesskey "к">
+<!ENTITY smiley9Cmd.tooltip "Внесува лице кое бакнува">
+<!ENTITY smiley10Cmd.label "Викај">
+<!ENTITY smiley10Cmd.accesskey "и">
+<!ENTITY smiley10Cmd.tooltip "Внесува лице кое вика">
+<!ENTITY smiley11Cmd.label "Кул">
+<!ENTITY smiley11Cmd.accesskey "у">
+<!ENTITY smiley11Cmd.tooltip "Внесува кул лице">
+<!ENTITY smiley12Cmd.label "Уста полна пари">
+<!ENTITY smiley12Cmd.accesskey "т">
+<!ENTITY smiley12Cmd.tooltip "Внесува лице со уста полна пари">
+<!ENTITY smiley13Cmd.label "Нога во уста">
+<!ENTITY smiley13Cmd.accesskey "о">
+<!ENTITY smiley13Cmd.tooltip "Внесува лице со нога во уста">
+<!ENTITY smiley14Cmd.label "Невино">
+<!ENTITY smiley14Cmd.accesskey "и">
+<!ENTITY smiley14Cmd.tooltip "Внесува невино лице">
+<!ENTITY smiley15Cmd.label "Плачи">
+<!ENTITY smiley15Cmd.accesskey "л">
+<!ENTITY smiley15Cmd.tooltip "Внесува лице кое плаче">
+<!ENTITY smiley16Cmd.label "Залепени усни">
+<!ENTITY smiley16Cmd.accesskey "а">
+<!ENTITY smiley16Cmd.tooltip "Внесува лице со залепени усни">
+<!ENTITY SmileButton.tooltip "Внесува насмеано лице">
+

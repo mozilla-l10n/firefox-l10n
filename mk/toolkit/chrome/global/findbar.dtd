@@ -1,0 +1,12 @@
+<!ENTITY next.label "Следно">
+<!ENTITY next.accesskey "н">
+<!ENTITY next.tooltip "Ја наоѓа следната појава на оваа фраза">
+<!ENTITY previous.label "Претходно">
+<!ENTITY previous.accesskey "П">
+<!ENTITY previous.tooltip "Ја наоѓа претходната појава на оваа фраза">
+<!ENTITY findCloseButton.tooltip "Ја затвора лентата за пребарување">
+<!ENTITY highlight.label "Означи сè">
+<!ENTITY highlight.accesskey "а">
+<!ENTITY highlight.tooltiptext "Ги подвлекува сите појави на фразата">
+<!ENTITY caseSensitiveCheckbox.label "Токму така">
+<!ENTITY caseSensitiveCheckbox.accesskey "к">

@@ -1,0 +1,80 @@
+<!ENTITY itemGeneral.label "Општо">
+<!ENTITY itemUpdate.label "Надградби">
+<!ENTITY itemNetworking.label "Мрежа и простор на дискот">
+<!ENTITY itemCertificates.label "Сертификати">
+<!-- General Settings -->
+
+
+<!ENTITY showCondensedAddresses.label "Покажувај само вообичаено име за луѓето од мојот адресар">
+<!ENTITY showCondensedAddresses.accesskey "л">
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+
+<!ENTITY markAsRead.label "Чекај">
+<!ENTITY markAsRead.accesskey "е">
+<!ENTITY markAsReadEnd.label "сек. пред да ја означиш пораката како прочитана">
+<!ENTITY markAsReadEnd.accesskey "с">
+<!ENTITY showFolderColumns.label "Покажувај раширени колони во панелот за папки">
+<!ENTITY showFolderColumns.accesskey "р">
+<!ENTITY rememberLastMsg.label "Памети ја последната избрана порака">
+<!ENTITY rememberLastMsg.accesskey "м">
+<!ENTITY reuseExp.label "Отворај нови пораки во:">
+<!ENTITY reuseExpRadio0.label "Нов прозорец">
+<!ENTITY reuseExpRadio0.accesskey "о">
+<!ENTITY reuseExpRadio1.label "Постоечки прозорец">
+<!ENTITY reuseExpRadio1.accesskey "т">
+<!ENTITY reuseExpRadio2.label "Ново јазиче">
+<!ENTITY reuseExpRadio2.accesskey "ј">
+<!ENTITY connectionTimeout.label "Време на чекање за врска: ">
+<!ENTITY connectionTimeout.accesskey "в">
+<!ENTITY connectionSeconds.label "секунди">
+<!ENTITY configEditDesc.label "Напредна конфигурација">
+<!ENTITY configEdit.label "Уреди…">
+<!ENTITY configEdit.accesskey "д">
+<!ENTITY returnReceiptsInfo.label "Одреди како &brandShortName; работи со повратна пошта">
+<!ENTITY showReturnReceipts.label "Повратна пошта…">
+<!ENTITY showReturnReceipts.accesskey "р">
+<!-- Update -->
+
+<!ENTITY autoCheck.label "Автоматски проверувај за надградби за:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "Инсталирани додатоци">
+<!ENTITY enableAddonsUpdate.accesskey "л">
+<!ENTITY checkNow.label "Провери сега…">
+<!ENTITY whenUpdatesFound.label "Кога ќе има надградби за  &brandShortName;">
+<!ENTITY modeAskMe.label "Прашај ме што сакам да направам">
+<!ENTITY modeAskMe.accesskey "а">
+<!ENTITY modeAutomatic.label "Автоматски преземи и инсталирај ја надградбата">
+<!ENTITY modeAutomatic.accesskey "п">
+<!ENTITY modeAutoAddonWarn.label "Извести ме ако тоа оневозможи некои додатоци">
+<!ENTITY modeAutoAddonWarn.accesskey "И">
+<!ENTITY showUpdates.label "Покажи историја на надградби">
+<!ENTITY showUpdates.accesskey "д">
+<!-- Networking and Disk Space -->
+
+<!ENTITY showConnections.label "Врска…">
+<!ENTITY showConnections.accesskey "с">
+<!ENTITY proxiesInfo.label "Одреди како &brandShortName; се поврзува на Интернет">
+<!ENTITY connectionsInfo.caption "Врска">
+<!ENTITY offlineInfo.caption "Локално">
+<!ENTITY offlineInfo.label "Поставки за локална работа">
+<!ENTITY showOffline.label "Локално…">
+<!ENTITY showOffline.accesskey "о">
+
+<!ENTITY Diskspace "Простор на дискот">
+<!ENTITY offlineCompact.label "Среди ги папките ако тоа ослободи повеќе од">
+<!ENTITY offlineCompact.accesskey "д">
+<!ENTITY kb.label "KB">
+<!-- Certificates -->
+
+<!ENTITY certificatesInfo.label "Уредување на сертификати, листи за отповикување, проверка на сертификати и безбедносни уреди.">
+<!ENTITY viewCertificates.label "Сертификати">
+<!ENTITY viewCertificates.accesskey "и">
+<!ENTITY viewCRLs.label "Листи за отповикување">
+<!ENTITY viewCRLs.accesskey "о">
+<!ENTITY viewOCSP.label "Проверка">
+<!ENTITY viewOCSP.accesskey "в">
+<!ENTITY viewSecurityDevices.label "Безбедносни уреди">
+<!ENTITY viewSecurityDevices.accesskey "у">

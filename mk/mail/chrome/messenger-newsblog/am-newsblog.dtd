@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "Поставки за RSS сметка">
+
+<!ENTITY biffStart.label "Проверувај новости секои ">
+<!ENTITY biffStart.accesskey "н">
+<!ENTITY biffEnd.label "минути">
+
+<!ENTITY loginAtStartup.label "Проверувај дали има нови вести при стартување">
+<!ENTITY loginAtStartup.accesskey "с">
+
+<!ENTITY useQuickMode.label "Покажи го резимето на веста, наместо да ја вчитуваш целата страница">
+<!ENTITY useQuickMode.accesskey "к">
+
+<!ENTITY manageSubscriptions.label "Уреди ги претплатите…">
+<!ENTITY manageSubscriptions.accesskey "р">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "Вести и блогови">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "RSS вести и блогови">
+<!ENTITY rss.hostName "Вести и блогови">

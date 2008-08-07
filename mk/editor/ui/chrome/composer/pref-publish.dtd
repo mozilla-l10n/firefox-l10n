@@ -1,0 +1,19 @@
+<!-- extracted from content/pref-publish.xul -->
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+
+<!ENTITY pref.publish.title "Објавување">
+<!ENTITY composerHeader.label "Објави">
+<!ENTITY maintainCheckbox.label "Одржувај ги врските">
+<!ENTITY keepCheck.label "Чувај ги сликите со страницата">
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+
+<!ENTITY adjustDesc.label "Прилагоди ги врските да работат од локацијата на страницата. (Врските до локалните 			      страници ќе работат кога ќе постои локална верзија.)           ">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY saveDesc.label "Снимај копии од сликите на локацијата на страницата.  Сликите				секогаш ќе се појавуват во локалните верзии на страницата и кога страницата ќе биде објавена.">
+<!ENTITY tip.label "Совет: Изберете ги двете опции ако имате намера да објавувате.">
+<!ENTITY defaultHeader.label "Основна локација за објавување">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY publishFtp.label "При објавување на FTP место, внесете ја HTTP адресата до која може да се сурфа:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY publishhtp.label "При објавување на FTP место, внесете ја HTTP адресата до која може да се сурфа:">
+

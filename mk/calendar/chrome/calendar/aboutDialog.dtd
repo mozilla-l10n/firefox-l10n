@@ -1,0 +1,69 @@
+<!-- -*- Mode: HTML; tab-width: 20; indent-tabs-mode: nil; c-basic-offset: 2 -*-
+   - ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License
+   - Version 1.1 (the "License"); you may not use this file except in
+   - compliance with the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Firefox about dialog.
+   -
+   - The Initial Developer of the Original Code is 
+   - Blake Ross (blaker@netscape.com).
+   - Portions created by the Initial Developer are Copyright (C) 2002
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Matthew Willis <mattwillis@gmail.com>
+   -                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+   -   
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY aboutDialog.title "За &brandFullName;">
+<!ENTITY copyright.label "Заслуги">
+<!ENTITY copyright.accesskey "С">
+<!ENTITY aboutLink.label "&lt; За &brandFullName;">
+<!ENTITY aboutLink.accesskey "З">
+<!ENTITY aboutVersion "верзија">
+<!ENTITY copyrightText "©1998-2008 Помагачи. Сите права задржани. Mozilla Sunbird, Sunbird, и логоата на Sunbird се заштитни знаци на фондацијата Mozilla. Сите права задржани.">
+<!ENTITY brandMotto "Крајно време е!">
+<!ENTITY credit.leads "Главни инжинери">
+<!ENTITY credit.core "Развоен тим">
+<!ENTITY credit.gecko "Гецко мотор за распоред">
+<!ENTITY credit.thanks "Специјална благодарност до">
+<!ENTITY credit.translation "<h3>Локализација</h3><ul><li>Иван Стоев</li><li>Новица Наков</li><li>Дамјан Георгиевски</li><li>Георги Станојевски</li><li>Арангел Ангов</li><li>Владимир Стефанов</li><li>Томислав Марковски</li><li>Иван Стојмиров</li><li>Игор Стаматовски</li><li>Видете http://mozilla.softver.org.mk/</li></ul>">
+<!ENTITY credit.visuals "Координатор за визуелен дизајн">
+<!ENTITY credit.theme "Дизајн на темата">
+<!ENTITY credit.brand "Идентитет на брендот">
+<!ENTITY credit.web "Веб дизајн">
+<!ENTITY credit.update "Мозила надградба">
+<!ENTITY credit.qalead "Главни за потвдра за квалитет">
+<!ENTITY credit.qa "Потвдра за квалитет">
+<!ENTITY credit.build "Градба и издание">
+<!ENTITY credit.infra "Инфраструктурна поддршка">
+<!ENTITY credit.support "Ресурси за поддршка">
+<!ENTITY credit.manage "Менаџмент на проектот">
+<!ENTITY credit.marketleads "Главни за маркетинг">
+<!ENTITY credit.market "Маркетинг">
+<!ENTITY credit.creators "Креирано од">
+<!ENTITY credit.memory "Во сеќавање на">
+<!ENTITY credit.powered "Работи на">
+<!ENTITY license.and "и">
+<!ENTITY cmdClose.macKey "W">

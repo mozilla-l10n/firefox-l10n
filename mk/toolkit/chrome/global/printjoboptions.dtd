@@ -1,0 +1,17 @@
+<!ENTITY printJobOptions.title "Својства на печатачот">
+<!ENTITY paperInput.label "Големина на хартија:">
+<!ENTITY plexInput.label "Plex режим:">
+<!ENTITY resolutionInput.label "Резолуција/квалитет:">
+<!ENTITY cmdInput.label "Команда за печатење:">
+<!ENTITY jobTitleInput.label "Име на работата:">
+<!ENTITY colorGroup.label "Боја:">
+<!ENTITY grayRadio.label "Сиви нијанси">
+<!ENTITY colorRadio.label "Боја">
+<!ENTITY colorspaceInput.label "Систем на бои:">
+<!ENTITY fontsGroup.label "Фонтови:">
+<!ENTITY downloadFonts.label "Преземи ги фонтовите до печатачот?">
+<!ENTITY edgeMarginInput.label "Простор од работ на хартијата до маргината">
+<!ENTITY topInput.label "Врв:">
+<!ENTITY bottomInput.label "Дно:">
+<!ENTITY leftInput.label "Лево:">
+<!ENTITY rightInput.label "Десно:">

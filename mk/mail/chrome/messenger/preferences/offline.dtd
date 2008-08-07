@@ -1,0 +1,25 @@
+
+<!ENTITY offlineDialog.title       "Поставки за локална работа">
+
+<!ENTITY textStartUp   "При стартување:">
+<!ENTITY radioRememberPrevState "Памети ја претходната состојба">
+<!ENTITY radioRememberPrevState.accesskey "р">
+<!ENTITY radioAskMe "Прашај ме дали да се поврзеш">
+<!ENTITY radioAskMe.accesskey "а">
+<!ENTITY radioAlwaysOnline "Стартувај и поврзи се">
+<!ENTITY radioAlwaysOnline.accesskey "ј">
+
+<!ENTITY textGoingOnline "Дали да ги испратам неиспратените пораки кога одам на Интернет?">
+<!ENTITY radioAutoSend "Да">
+<!ENTITY radioAutoSend.accesskey "Д">
+<!ENTITY radioNotSend "Не">
+<!ENTITY radioNotSend.accesskey "Н">
+<!ENTITY radioAskUnsent "Прашај ме">
+<!ENTITY radioAskUnsent.accesskey "р">
+<!ENTITY textGoingOffline "Дали да ги преземам пораките за локална употреба кога се исклучувам?">
+<!ENTITY radioAutoDownload "Да">
+<!ENTITY radioAutoDownload.accesskey "а">
+<!ENTITY radioNotDownload "Не">
+<!ENTITY radioNotDownload.accesskey "е">
+<!ENTITY radioAskDownload "Прашај ме">
+<!ENTITY radioAskDownload.accesskey "м">

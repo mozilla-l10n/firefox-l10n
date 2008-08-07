@@ -1,0 +1,75 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Барај пораки во:">
+<!ENTITY searchHeading.accesskey "р">
+<!ENTITY searchSubfolders.label "Барај во потпапките">
+<!ENTITY searchSubfolders.accesskey "Б">
+<!ENTITY resetButton.label "Исчисти">
+<!ENTITY resetButton.accesskey "И">
+<!ENTITY optionsButton.label "Опции">
+<!ENTITY closeButton.label "Затвори">
+<!ENTITY openButton.label "Отвори">
+<!ENTITY openButton.accesskey "О">
+<!ENTITY deleteButton.label "Избриши">
+<!ENTITY deleteButton.accesskey "з">
+<!ENTITY searchDialogTitle.label "Пребарување во пораки">
+<!ENTITY conditionDesc.label "Барај пораки кои се совпаѓаат со:">
+<!ENTITY conditions.label "Критериум">
+<!ENTITY results.label "Резултати">
+<!ENTITY fileHereMenu.label "Сними овде">
+<!ENTITY fileHereMenu.accesskey "С">
+<!ENTITY fileButton.label "Сними во">
+<!ENTITY fileButton.accesskey "и">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Отвори ја папката за пораки">
+<!ENTITY goToFolderButton.accesskey "р">
+<!ENTITY saveAsVFButton.label "Сними како папка со пребарување">
+<!ENTITY saveAsVFButton.accesskey "а">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "Барај во:">
+<!ENTITY abSearchHeading.accesskey "ј">
+<!ENTITY propertiesButton.label "Својства">
+<!ENTITY propertiesButton.accesskey "в">
+<!ENTITY composeButton.label "Пишувај">
+<!ENTITY composeButton.accesskey "ј">
+<!ENTITY abSearchDialogTitle.label "Напредно пребарување на адресарот">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Нишка">
+<!ENTITY senderColumn.label "Испраќач">
+<!ENTITY recipientColumn.label "Примач">
+<!ENTITY subjectColumn.label "Тема">
+<!ENTITY dateColumn.label "Датум">
+<!ENTITY priorityColumn.label "Приоритет">
+<!ENTITY tagsColumn.label "Етикети">
+<!ENTITY accountColumn.label "Сметка">
+<!ENTITY statusColumn.label "Статус">
+<!ENTITY sizeColumn.label "Големина">
+<!ENTITY junkStatusColumn.label "Статус на отпад">
+<!ENTITY linesColumn.label "Линии">
+<!ENTITY unreadColumn.label "Непрочитани">
+<!ENTITY totalColumn.label "Вкупно">
+<!ENTITY readColumn.label "Прочитани">
+<!ENTITY starredColumn.label "Набљудувани">
+<!ENTITY locationColumn.label "Локација">
+<!ENTITY idColumn.label "Ред на пристигање">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Кликнете за да изберете колони за приказ">
+<!ENTITY threadColumn.tooltip "Кликнете за да прикажете нишки со пораки">
+<!ENTITY senderColumn.tooltip "Кликнете за да подредите по испраќач">
+<!ENTITY recipientColumn.tooltip "Кликнете за да подредите по примач">
+<!ENTITY subjectColumn.tooltip "Кликнете за да подредите по тема">
+<!ENTITY dateColumn.tooltip "Кликнете за да подредите по датум">
+<!ENTITY priorityColumn.tooltip "Кликнете за да подредите по приоритет">
+<!ENTITY tagsColumn.tooltip "Кликнете за да подредите по етикети">
+<!ENTITY accountColumn.tooltip "Кликнете за да подредите по сметка">
+<!ENTITY statusColumn.tooltip "Кликнете за да подредите по статус">
+<!ENTITY sizeColumn.tooltip "Кликнете за да подредите по големина">
+<!ENTITY junkStatusColumn.tooltip "Кликнете за да подредите по статус за отпад">
+<!ENTITY unreadColumn.tooltip "Број на непрочитани пораки во оваа нишка">
+<!ENTITY totalColumn.tooltip "Вкупен број на пораки во нишката">
+<!ENTITY readColumn.tooltip "Кликнете за да подредите по прочитани">
+<!ENTITY starredColumn.tooltip "Кликнете за да подредите по набљудување">
+<!ENTITY locationColumn.tooltip "Кликнете за да подредите по локација">
+<!ENTITY idColumn.tooltip "Кликнете за да подредите по ред на пристигање">

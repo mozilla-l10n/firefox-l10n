@@ -1,0 +1,14 @@
+
+<!ENTITY prefWindow.titleWin "Опции">
+<!ENTITY prefWindow.titleGNOME "Преференции за &brandShortName;">
+<!ENTITY prefWindow.styleWin "width: 44em; height: 38em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleUnix "width: 42em;">
+
+<!ENTITY paneGeneral.title "Општо">
+<!ENTITY paneDisplay.title "Приказ">
+<!ENTITY paneTags.title "Етикети">
+<!ENTITY paneComposition.title "Пишување">
+<!ENTITY paneAttachments.title "Прилози">
+<!ENTITY panePrivacy.title "Приватност">
+<!ENTITY paneAdvanced.title "Напредно">

@@ -1,0 +1,8 @@
+<!ENTITY junkLog.title "Дневник за отпадна пошта">
+<!ENTITY junkLogInfo.text "Дневникот за отпадна пошта ја евидентира активноста на котролите за отпадна пошта за овој пристап.  Користете ја изборната кутија подолу за да овозможите запишување во дневникот.">
+<!ENTITY clearLog.label "Исчисти го дневникот">
+<!ENTITY clearLog.accesskey "с">
+<!ENTITY enableLog.label "Овозможи дневник на отпадна пошта">
+<!ENTITY enableLog.accesskey "е">
+<!ENTITY closeLog.label "Затвори">
+<!ENTITY closeLog.accesskey "в">

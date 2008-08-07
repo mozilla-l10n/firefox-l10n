@@ -1,0 +1,8 @@
+<!ENTITY printWindow.title "Печатење">
+<!ENTITY title "Наслов:">
+<!ENTITY progress "Прогрес:">
+<!ENTITY preparing "се изработува…">
+<!ENTITY printComplete "Печатењето заврши.">
+<!ENTITY dialogCancel.label "Откажи">
+<!ENTITY dialogClose.label "Затвори">
+<!ENTITY percentPrint "#1&#037;">
