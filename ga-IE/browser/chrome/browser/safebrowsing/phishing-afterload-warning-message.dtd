@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Ní falsaíocht Ghréasáin é seo…">
 <!ENTITY safeb.palm.report.label "Cén fáth ar cuireadh cosc ar an suíomh seo?">
 
-<!ENTITY safeb.urlbaricon.tooltip "D'fhéadfadh an leathanach seo bheith contúirteach; cliceáil le haghaidh eolais.">
-
 <!ENTITY safeb.blocked.malware.title "Tuairiscíodh gur Suíomh Ionsaithe é seo!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Tuairiscíodh gur suíomh ionsaithe é an suíomh Gréasáin <span id='malware_sitename'/> agus tá cosc curtha air de bharr do roghanna slándála.">

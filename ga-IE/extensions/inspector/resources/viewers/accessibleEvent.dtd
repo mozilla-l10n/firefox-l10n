@@ -35,12 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY descIsFromUserInput.label "Atá ó ionchur an úsáideora:">
+<!ENTITY descIsFromUserInput.label "Atá ó ionchur an úsáideora: ">
 <!ENTITY descState.label "Staid: ">
-<!ENTITY descIsEnabled.label "Atá ina staid chumasaithe:">
-<!ENTITY descStartOffset.label "Seach-chur tosaithe:">
+<!ENTITY descIsEnabled.label "Atá ina staid chumasaithe: ">
+<!ENTITY descStartOffset.label "Seach-chur tosaithe: ">
 <!ENTITY descLength.label "Fad: ">
-<!ENTITY descIsInserted.label "Atá ina théacs ionsáite:">
+<!ENTITY descIsInserted.label "Atá ina théacs ionsáite: ">
 <!ENTITY descModifiedText.label "Téacs mionathraithe: ">
-<!ENTITY descCaretOffset.label "Seach-chur cúrsóra:">
+<!ENTITY descCaretOffset.label "Seach-chur cúrsóra: ">
 

@@ -7,8 +7,4 @@
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 
-<!ENTITY filter.label "Cuardaigh:">
-<!ENTITY filter.accesskey "U">
-
-<!ENTITY clear.label "Bánaigh">
-<!ENTITY clear.accesskey "b">
+<!ENTITY filter.emptytext "Cuardach">

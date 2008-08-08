@@ -29,7 +29,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.goToDownloadPage.accesskey "G">
 <!ENTITY cmd.copyDownloadLink.label "Cóipeáil Nasc Íosluchtaithe">
 <!ENTITY cmd.copyDownloadLink.accesskey "N">
-<!ENTITY cmd.removeFromList.label "Bain ón Liosta">
+<!ENTITY cmd.removeFromList.label "Bain den Liosta">
 <!ENTITY cmd.removeFromList.accesskey "b">
 
 <!ENTITY cmd.close.commandKey "w">
@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip "Baineann íosluchtuithe críochnaithe, cealaithe, nó teipthe ón liosta">
 <!ENTITY cmd.clearList.accesskey "G">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 
 <!ENTITY closeWhenDone.label "Dún nuair a bhíonn íosluchtú críochnaithe">
 <!ENTITY closeWhenDone.tooltip "Dún an Bainisteoir Íosluchtaithe i ndiaidh an íosluchtaithe">

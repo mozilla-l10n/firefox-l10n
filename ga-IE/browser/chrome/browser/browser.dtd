@@ -222,7 +222,9 @@
 <!ENTITY reloadFrameCmd.accesskey "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Taispeáin Foinse Roghnaithe">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Taispeáin Foinse MathML">
-<!ENTITY viewPartialSourceCmd.accesskey "l">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label "Taispeáin Foinse an Leathanaigh">
 <!ENTITY viewPageSourceCmd.accesskey "F">
 <!ENTITY viewFrameSourceCmd.label "Taispeáin Foinse an Fhráma">

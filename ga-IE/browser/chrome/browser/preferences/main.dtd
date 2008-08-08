@@ -17,9 +17,9 @@
 
 <!ENTITY downloads.label "Íosluchtú">
 
-<!ENTITY showWhenDownloading.label "Taispeáin an fhuinneog Íosluchtaithe agus comhaid á n-íosluchtú">
+<!ENTITY showWhenDownloading.label "Taispeáin an fhuinneog íosluchtaithe agus comhaid á n-íosluchtú">
 <!ENTITY showWhenDownloading.accesskey "F">
-<!ENTITY closeWhenDone.label "Dún é i ndiaidh na n-íosluchtuithe">
+<!ENTITY closeWhenDone.label "Dún an fhuinneog nuair a bheidh na híosluchtuithe críochnaithe">
 <!ENTITY closeWhenDone.accesskey "d">
 <!ENTITY saveTo.label "Sábháil comhaid i">
 <!ENTITY saveTo.accesskey "b">

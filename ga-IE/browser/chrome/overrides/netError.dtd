@@ -59,14 +59,10 @@
 <!ENTITY unknownSocketType.title "Freagra gan súil leis ón bhfreastalaí">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Cinntigh go bhfuil an Bainisteoir Pearsanta Slándála suiteáilte ar do ríomhaire.</li> <li>D'fhéadfadh seo tarlú de dheasca cumraíocht neamhchaighdeánach an fhreastalaí.</li></ul>">
 
-<!ENTITY nssFailure2.title "Tá $BrandShortName ag rith cheana.
-
-Dún $BrandShortName sula dtosaíonn tú an leagan atá tú tar éis suiteáil, le do thoil.">
+<!ENTITY nssFailure2.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
 <!ENTITY nssFailure2.longDesc '<ul> <li>Ní féidir an leathanach atá tú ag iarraidh amharc air a thaispeáint toisc nach féidir fírinne na sonraí a fuarthas a fhíordheimhniú.</li> <li>Téigh i dteagmháil le húinéirí an tsuímh Ghréasáin leis an fhadhb seo a chur in iúl dóibh le do thoil, nó úsáid an t-ordú ar an roghchlár "Cabhair" chun tuairisc faoin suíomh briste seo a sheoladh.</li> </ul>'>
 
-<!ENTITY nssBadCert.title "Tá $BrandShortName ag rith cheana.
-
-Dún $BrandShortName sula dtosaíonn tú an leagan atá tú tar éis suiteáil, le do thoil.">
+<!ENTITY nssBadCert.title "Níorbh Fhéidir Ceangal Slán a Bhunú">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó b'fhéidir go bhfuil duine éigin ag déanamh aithris ar an bhfreastalaí.</li> <li>Má d'éirigh leat ceangal leis an bhfreastalaí seo roimhe seo, b'fhéidir gur fadhb shealadach atá ann agus is féidir leat iarracht a dhéanamh níos déanaí.</li> </ul>">
 
 <!ENTITY sharedLongDesc "<ul> <li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li> <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar cheangal líonra do ríomhaire.</li> <li>Má tá do ríomhaire nó do líonra á chosaint ag balla dóiteáin nó seachfhreastalaí, cinntigh go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li></ul>">

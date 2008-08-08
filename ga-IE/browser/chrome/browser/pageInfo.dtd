@@ -107,8 +107,8 @@
 
 <!ENTITY securityView.identity.header "Aitheantas Suímh Ghréasáin">
 <!ENTITY securityView.identity.owner "Úinéir: ">
-<!ENTITY securityView.identity.domain "Suíomh Gréasáin:">
-<!ENTITY securityView.identity.verifier "Fíoraithe ag:">
+<!ENTITY securityView.identity.domain "Suíomh Gréasáin: ">
+<!ENTITY securityView.identity.verifier "Fíoraithe ag: ">
 
 <!ENTITY securityView.privacy.header "Príobháideacht &amp; Stair">
 <!ENTITY securityView.privacy.history "An ndearna mé cuairt ar an suíomh seo roimh inniu?">
