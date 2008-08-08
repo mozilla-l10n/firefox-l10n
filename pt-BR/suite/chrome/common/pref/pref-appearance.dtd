@@ -40,3 +40,10 @@
 -->
 <!ENTITY languageList.label                     "Choose your preferred language for &brandShortName;:">
 
+
+<!ENTITY pref.locales.title                     "User Interface Language">
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLangChange.label              "Language preferences will take effect when you restart &brandShortName;.">
+<!ENTITY selectLocale.label                     "Select the language for text that appears in dialog boxes, menus, toolbars and button labels:">

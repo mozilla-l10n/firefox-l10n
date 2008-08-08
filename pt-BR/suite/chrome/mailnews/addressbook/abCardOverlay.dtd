@@ -128,3 +128,24 @@
 <!ENTITY Custom4.label                  "Custom 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.box                      "Notes">
+<!ENTITY Address.accesskey              "A">
+<!ENTITY Company.accesskey              "O">
+<!ENTITY Contact.accesskey               "C">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeWebPage.accesskey          "W">
+<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY JobTitle.accesskey             "e">
+<!ENTITY Notes.accesskey                "N">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY WorkAddress.accesskey          "r">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.accesskey             "i">
+<!ENTITY WorkCountry.accesskey          "n">
+<!ENTITY WorkState.accesskey            "v">
+<!ENTITY WorkWebPage.accesskey          "b">
+<!ENTITY WorkZipCode.accesskey          "P">

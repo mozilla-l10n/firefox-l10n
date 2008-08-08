@@ -206,3 +206,8 @@
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Switch Page Direction">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY clearPrivateDataCmd.accesskey "e">
+
+<!ENTITY clearPrivateDataCmd.label "Clear Private Data…">
+<!ENTITY feedsMenu.accesskey "S">
+<!ENTITY feedsMenu.label "Subscribe to This Page">

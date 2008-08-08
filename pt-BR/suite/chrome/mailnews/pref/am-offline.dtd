@@ -31,3 +31,5 @@
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">
 <!ENTITY offlineGroupTitle.label "Offline">
 <!ENTITY diskspaceGroupTitle.label "Disk Space">
+<!ENTITY offlineSelectImap.accesskey "S">
+<!ENTITY offlineSelectNntp.accesskey "S">

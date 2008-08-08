@@ -110,3 +110,5 @@
 <!ENTITY spellDictionaries.accesskey    "L">
 <!ENTITY spellAddDictionaries.label     "Download more dictionaries...">
 <!ENTITY spellAddDictionaries.accesskey "D">
+<!ENTITY spellCheckEnable.accesskey     "S">
+<!ENTITY spellCheckEnable.label         "Check Spelling">

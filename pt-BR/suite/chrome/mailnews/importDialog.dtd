@@ -66,3 +66,8 @@
 <!ENTITY FieldDiscWarning.label  "This category will be used for all the entries of the selected address book: ">
 <!ENTITY importDialog.homeTitle  "Home">
 <!ENTITY importDialog.workTitle  "Work">
+
+<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
+<!ENTITY importDialog.allTitle    "Import everything">
+<!ENTITY importDialog.filtersTitle "Filters">
+<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">

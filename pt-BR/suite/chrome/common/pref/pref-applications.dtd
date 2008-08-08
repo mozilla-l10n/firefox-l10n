@@ -21,3 +21,15 @@
 <!ENTITY pluginFinder.label             "Always use the Plugin Finder Service (PFS) to get plugins.">
 <!ENTITY pluginFinder.accesskey         "A">
 <!ENTITY pluginFinderDesc.label         "If this option is not checked, the PFS is used only when a plugin location is not specified by the web page that requires the plugin.">
+<!ENTITY actionColumn2.accesskey "A">
+
+<!ENTITY actionColumn2.label     "Action">
+<!ENTITY clear.accesskey         "l">
+
+<!ENTITY clear.label             "Clear">
+<!ENTITY filter.accesskey        "S">
+
+<!ENTITY filter.label            "Search:">
+<!ENTITY typeColumn.accesskey    "T">
+
+<!ENTITY typeColumn.label        "Content Type">

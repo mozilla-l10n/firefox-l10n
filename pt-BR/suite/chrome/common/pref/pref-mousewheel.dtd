@@ -25,3 +25,7 @@
 <!ENTITY textsize.accesskey              "t">
 <!ENTITY zoom.label                      "Zoom the page in or out">
 <!ENTITY zoom.accesskey                  "Z">
+<!ENTITY historyHoriz.accesskey          "b">
+<!ENTITY scrollHoriz.accesskey           "c">
+<!ENTITY useSystemDefaultHoriz.accesskey "d">
+<!ENTITY zoomHoriz.accesskey             "e">

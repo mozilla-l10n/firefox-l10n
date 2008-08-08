@@ -34,3 +34,5 @@
 <!ENTITY policies.label "Security Policies">
 <!ENTITY mousewheel.label "Mouse Wheel">
 <!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
+<!ENTITY content.label "Content">
+<!ENTITY locationBar.label "Location Bar">

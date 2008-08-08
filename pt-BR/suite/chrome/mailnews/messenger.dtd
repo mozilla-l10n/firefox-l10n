@@ -601,3 +601,10 @@
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage.label "&brandShortName; thinks this message might be an email scam.">
 <!ENTITY removePhishingBarButton.label "Not a Scam">
+
+<!---SearchBar--><!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY moveCopyMsgRecentMenu.label "Recent">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.key "p">

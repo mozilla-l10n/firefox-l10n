@@ -82,3 +82,12 @@
 <!ENTITY bidiSwitchTextDirectionItem.label        "Switch Text Direction">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey        "p">
+<!ENTITY dontShowMessage.accesskey    "D">
+<!ENTITY dontShowMessage.label        "Don't show this message when popups are blocked">
+<!ENTITY showPopupManager.accesskey   "M">
+<!ENTITY showPopupManager.label       "Manage Popups">
+<!ENTITY updateCmd.accesskey                    "C">
+<!ENTITY updateCmd.label                        "Check for Updates…">
