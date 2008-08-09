@@ -21,7 +21,7 @@
 <!ENTITY http.label "HTTP прокси:">
 <!ENTITY http.accesskey "T">
 <!ENTITY ssl.label "SSL прокси:">
-<!ENTITY ssl.accesskey "S">
+<!ENTITY ssl.accesskey "L">
 <!ENTITY socks.label "Узел SOCKS:">
 <!ENTITY socks.accesskey "O">
 <!ENTITY socks4.label "SOCKS 4">
