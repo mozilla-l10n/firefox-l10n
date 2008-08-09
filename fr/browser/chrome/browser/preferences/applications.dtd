@@ -7,8 +7,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "Rechercher :">
-<!ENTITY  filter.accesskey        "c">
-
-<!ENTITY  clear.label             "Réinitialiser">
-<!ENTITY  clear.accesskey         "l">
+<!ENTITY  filter.emptytext        "Rechercher">

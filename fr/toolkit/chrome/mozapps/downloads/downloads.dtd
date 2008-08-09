@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "Retire les téléchargements terminés, annulés ou infructueux de la liste">
 <!ENTITY cmd.clearList.accesskey          "V">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Fermer lorsque les téléchargements sont terminés">
 <!ENTITY closeWhenDone.tooltip            "Ferme la fenêtre des téléchargements lorsque tous les fichiers sont complètement téléchargés">

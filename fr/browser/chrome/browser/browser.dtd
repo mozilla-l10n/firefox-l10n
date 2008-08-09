@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey     "c">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Code source de la sélection">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Code MathML de la sélection">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Code source de la page">
 <!ENTITY viewPageSourceCmd.accesskey  "C">
