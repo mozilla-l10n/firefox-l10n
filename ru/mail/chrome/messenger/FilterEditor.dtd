@@ -8,7 +8,11 @@
 <!ENTITY normalPriorityCmd.label "обычную">
 <!ENTITY highPriorityCmd.label "высокую">
 <!ENTITY highestPriorityCmd.label "самую высокую">
-<!ENTITY conditionDesc.label "Применять фильтр к входящим сообщениям:">
+<!ENTITY contextDesc.label "Применять фильтр при:">
+<!ENTITY contextDesc.accesskey "п">
+<!ENTITY contextIncoming.label "Проверке почты">
+<!ENTITY contextManual.label "Запуске вручную">
+<!ENTITY contextBoth.label "Проверке почты или запуске вручную">
 <!ENTITY filterActionDesc.label "Выполнять следующие действия:">
 <!ENTITY filterActionDesc.accesskey "В">
 <!ENTITY newFolderButton.label "Создать папку…">

@@ -32,6 +32,7 @@
 <!ENTITY cmd.clearList.tooltip "Удаляет из списка завершённые, отменённые и неудавшиеся загрузки">
 <!ENTITY cmd.clearList.accesskey "ч">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 <!ENTITY closeWhenDone.label "Закрыть после завершения загрузок">
 <!ENTITY closeWhenDone.tooltip "Закрыть окно со списком загрузок после загрузки всех файлов">
 <!ENTITY showFolder.label "Открыть эту папку">
