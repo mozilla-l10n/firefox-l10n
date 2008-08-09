@@ -8,7 +8,7 @@
 <!ENTITY systemTypeRadio.accesskey "u">
 <!ENTITY WPADTypeRadio.label "Individua automaticamente le impostazioni proxy per questa rete">
 <!ENTITY WPADTypeRadio.accesskey "e">
-<!ENTITY manualTypeRadio.label "Configurazione manuale dei proxy">
+<!ENTITY manualTypeRadio.label "Configurazione manuale dei proxy:">
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY autoTypeRadio.label "Configurazione automatica dei proxy (URL):">
 <!ENTITY autoTypeRadio.accesskey "z">

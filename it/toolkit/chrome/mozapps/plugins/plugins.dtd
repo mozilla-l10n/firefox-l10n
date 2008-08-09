@@ -1,5 +1,5 @@
 <!ENTITY pluginWizard.title "Servizio recupero plugin">
-<!ENTITY pluginWizard.firstPage.title "Benvenuti in &pluginWizard.title;">
+<!ENTITY pluginWizard.firstPage.title "Benvenuti nel &pluginWizard.title;">
 <!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; sta controllando l'esistenza di plugin disponibili…">
 <!ENTITY pluginWizard.availablePluginsPage.title "Download plugin disponibili">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Sono disponibili i seguenti plugin:">

@@ -55,10 +55,10 @@
 <!ENTITY bookmarkAllCmd.label "Tutte le schede nei segnalibri…">
 <!ENTITY backCmd.label "Indietro">
 <!ENTITY backCmd.accesskey "I">
-<!ENTITY backButton.tooltip "Torna indietro una pagina">
+<!ENTITY backButton.tooltip "Torna indietro di una pagina">
 <!ENTITY forwardCmd.label "Avanti">
 <!ENTITY forwardCmd.accesskey "A">
-<!ENTITY forwardButton.tooltip "Vai avanti una pagina">
+<!ENTITY forwardButton.tooltip "Vai avanti di una pagina">
 <!ENTITY backForwardMenu.tooltip "Pagine recenti">
 <!ENTITY reloadCmd.label "Ricarica">
 <!ENTITY reloadCmd.accesskey "R">

@@ -40,7 +40,7 @@
 <!ENTITY errorpatching.intro "L'aggiornamento parziale non può essere applicato. 
                                            &brandShortName; ritenterà nuovamente scaricando un aggiornamento completo.">
 <!ENTITY finished.title "Aggiornamento scaricato">
-<!ENTITY finished.text "L'aggiornamento è stato scaricato e verificato correttamente. Verrà installato al prossimo avvio di &brandShortName;">
+<!ENTITY finished.text "L'aggiornamento è stato scaricato e verificato correttamente. Verrà installato al prossimo avvio di &brandShortName;.">
 <!ENTITY finishedBackground.title "Aggiornamento pronto per l'installazione">
 <!ENTITY finishedBackground.text "&brandShortName; ha scaricato e verificato un aggiornamento importante.
 Fare clic sul link sottostante per maggiori dettagli.">

@@ -20,7 +20,7 @@
    -
    - Contributor(s):
    -   David P. Drinan (ddrinan@netscape.com)
-   -   
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -63,11 +63,11 @@
 <!ENTITY crl.import.status.title "Stato importazione CRL">
 <!ENTITY crl.import.success.message "La lista di revoca dei certificati (CRL) è stata correttamente importata.">
 <!ENTITY crl.issuer.label "CRL rilasciata da:">
-<!ENTITY crl.issuer.org.label "Organizzazione:">
-<!ENTITY crl.issuer.orgunit.label "Unità:">
-<!ENTITY crl.import.nextupdate.label "Prossimo aggiornamento:">
-<!ENTITY crl.autoupdate.fail.cnt.label "Fallimenti precedenti consecutivi di aggiornamento:">
-<!ENTITY crl.autoupdate.fail.reason.label "Dettagli ultimo fallimento aggiornamento:">
+<!ENTITY crl.issuer.org.label "Organizzazione: ">
+<!ENTITY crl.issuer.orgunit.label "Unità: ">
+<!ENTITY crl.import.nextupdate.label "Prossimo aggiornamento: ">
+<!ENTITY crl.autoupdate.fail.cnt.label "Fallimenti precedenti consecutivi di aggiornamento: ">
+<!ENTITY crl.autoupdate.fail.reason.label "Dettagli ultimo fallimento aggiornamento: ">
 <!ENTITY edit.button "Impostazioni">
 <!ENTITY validation.ocsp.caption "OCSP">
 <!ENTITY enableOCSP.label "Utilizza il Protocollo per lo Stato dei Certificati Online (OCSP) per confermare la validità dei certificati. ">

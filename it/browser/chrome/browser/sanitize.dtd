@@ -11,7 +11,7 @@
 <!ENTITY itemCookies.accesskey "C">
 <!ENTITY itemCache.label "Cache">
 <!ENTITY itemCache.accesskey "a">
-<!ENTITY itemOfflineApps.label "Dati siti web non in linea">
+<!ENTITY itemOfflineApps.label "Dati non in linea dei siti web ">
 <!ENTITY itemOfflineApps.accesskey "w">
 <!ENTITY itemDownloads.label "Cronologia download">
 <!ENTITY itemDownloads.accesskey "d">

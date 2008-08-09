@@ -32,6 +32,7 @@
 <!ENTITY cmd.clearList.tooltip "Rimuovi dall'elenco i download completati, annullati e falliti.">
 <!ENTITY cmd.clearList.accesskey "v">
 <!ENTITY cmd.find.commandKey "c">
+<!ENTITY cmd.search.commandKey "k">
 <!ENTITY closeWhenDone.label "Chiudi quando i download sono terminati">
 <!ENTITY closeWhenDone.tooltip "Chiude la finestra dei download quando tutti i file sono stati scaricati">
 <!ENTITY showFolder.label "Mostra questa cartella">
