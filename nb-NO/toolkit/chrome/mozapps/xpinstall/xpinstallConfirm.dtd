@@ -2,7 +2,7 @@
 
 <!ENTITY dialog.title            "Programvareinstallasjon">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningMain.label       "Installer utvidelser bare fra utgivere du stoler på.">
+<!ENTITY warningPrimary.label    "Installer utvidelser bare fra utgivere du stoler på.">
 <!ENTITY warningSecondary.label  "Ondsinnet programvare kan skade datamaskinen din, eller krenke personvernet ditt.">
 
 <!ENTITY from.label "fra:">

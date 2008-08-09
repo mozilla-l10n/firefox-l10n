@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "Fjerner ferdige, avbrutte eller feilede nedlastinger fra listen">
 <!ENTITY cmd.clearList.accesskey          "T">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Lukk når nedlastingen fullfører">
 <!ENTITY closeWhenDone.tooltip            "Lukker nedlastingsvinduet når alle filene er ferdig nedlastet">
