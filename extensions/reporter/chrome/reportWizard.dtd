@@ -29,7 +29,7 @@
 <!ENTITY reportForm.gecko.title "Gecko:">
 <!ENTITY reportForm.useragent.title "Stringa browser:">
 <!ENTITY reportForm.language.title "Lingua:">
-<!ENTITY reportForm.email.title "E-mail (facoltativa)">
+<!ENTITY reportForm.email.title "E-mail (facoltativa):">
 <!ENTITY reportForm.email.accesskey "E">
 <!ENTITY reportForm.privacyPolicy.title "Informativa sulla privacy">
 <!ENTITY reportForm.privacyPolicy.tooltip "Visualizza informativa sulla privacy">

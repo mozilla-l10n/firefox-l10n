@@ -7,7 +7,7 @@
 <!ENTITY offline.toggleOffline.accesskey "V">
 <!ENTITY mismatch.win.title "Componenti incompatibili">
 <!ENTITY mismatch.top.label "I seguenti componenti aggiuntivi non sono compatibili con questa versione di
-                                         &brandShortName; e di conseguenza sono stati disattivati.">
+                                         &brandShortName; e di conseguenza sono stati disattivati:">
 <!ENTITY mismatch.bottom.label "&brandShortName; può controllare se esistono versioni compatibili
                                            di questi componenti aggiuntivi.">
 <!ENTITY checking.wizard.title "Ricerca di componenti compatibili">

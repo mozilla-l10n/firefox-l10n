@@ -4,10 +4,10 @@
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY backButton.label "Indietro">
 <!ENTITY backButton.accesskey "I">
-<!ENTITY backButton.tooltip "Torna indietro una pagina">
+<!ENTITY backButton.tooltip "Torna indietro di una pagina">
 <!ENTITY forwardButton.label "Avanti">
 <!ENTITY forwardButton.accesskey "A">
-<!ENTITY forwardButton.tooltip "Vai avanti una pagina">
+<!ENTITY forwardButton.tooltip "Vai avanti di una pagina">
 <!ENTITY copyCmd.label "Copia">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Seleziona tutto">

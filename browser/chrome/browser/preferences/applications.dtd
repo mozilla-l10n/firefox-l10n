@@ -4,7 +4,4 @@
 <!ENTITY actionColumn2.accesskey "A">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.label "Cerca:">
-<!ENTITY filter.accesskey "C">
-<!ENTITY clear.label "Svuota">
-<!ENTITY clear.accesskey "S">
+<!ENTITY filter.emptytext "Cerca">

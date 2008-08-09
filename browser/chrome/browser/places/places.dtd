@@ -135,7 +135,7 @@
 <!ENTITY saveSearch.accesskey "S">
 <!ENTITY moreCriteria.label "+">
 <!ENTITY advancedSearch.onlybookmarked.label "Cerca solo nei segnalibri">
-<!ENTITY advancedSearch.match.label "Soddisfa">
+<!ENTITY advancedSearch.match.label "Soddisfa ">
 <!ENTITY advancedSearch.all.label "tutte le">
 <!ENTITY advancedSearch.any.label "una qualsiasi delle">
 <!ENTITY advancedSearch.rules.label " regole che seguono:">
@@ -154,18 +154,18 @@
 <!ENTITY advancedSearch.last_months.label "mese">
 <!ENTITY advancedSearch.plus.label "+">
 <!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Raggruppa per:">
+<!ENTITY advancedSearch.groupby.label "Raggruppa per: ">
 <!ENTITY advancedSearch.groupby_host.label "host">
 <!ENTITY advancedSearch.groupby_domain.label "dominio">
 <!ENTITY advancedSearch.groupby_folder.label "cartella">
-<!ENTITY advancedSearch.sortby.label "Ordina per:">
+<!ENTITY advancedSearch.sortby.label "Ordina per: ">
 <!ENTITY advancedSearch.sortby_title.label "titolo">
 <!ENTITY advancedSearch.sortby_date.label "data">
 <!ENTITY advancedSearch.sortby_visit.label "numero visite">
 <!ENTITY advancedSearch.sortby_url.label "url">
 <!ENTITY advancedSearch.sortby_asc.label "ascendente">
 <!ENTITY advancedSearch.sortby_desc.label "discendente">
-<!ENTITY advancedSearch.max.label "Risultati massimi">
+<!ENTITY advancedSearch.max.label "Risultati massimi: ">
 <!ENTITY cmd.find.key "f">
 <!ENTITY feed.subscribe.label "Feed">
 <!ENTITY feed.subscribe.tooltip "Abbonati">

@@ -60,10 +60,10 @@
 <!ENTITY securityView.accesskey "V">
 <!ENTITY securityView.unknown "Sconosciuto">
 <!ENTITY securityView.identity.header "Identità sito web">
-<!ENTITY securityView.identity.owner "Proprietario:">
-<!ENTITY securityView.identity.domain "Sito web:">
-<!ENTITY securityView.identity.verifier "Verificata da:">
-<!ENTITY securityView.privacy.header "Privacy &amp; cronologia">
+<!ENTITY securityView.identity.owner "Proprietario: ">
+<!ENTITY securityView.identity.domain "Sito web: ">
+<!ENTITY securityView.identity.verifier "Verificata da: ">
+<!ENTITY securityView.privacy.header "Privacy e cronologia">
 <!ENTITY securityView.privacy.history "Questo sito è già stato visitato prima di oggi?">
 <!ENTITY securityView.privacy.cookies "Questo sito web sta memorizzando informazioni (cookie) sul computer?">
 <!ENTITY securityView.privacy.viewCookies "Mostra cookie">

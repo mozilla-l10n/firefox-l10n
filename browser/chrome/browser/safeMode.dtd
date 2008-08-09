@@ -20,7 +20,7 @@
    -
    - Contributor(s):
    -   Mike Connor <mconnor@steelgryphon.com>
-   -   
+   -   Francesco Lodolo (flod) - Italian (it) Localization <francesco.lodolo@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -50,5 +50,5 @@
 <!ENTITY resetUserPrefs.accesskey "t">
 <!ENTITY restoreSearch.label "Ripristina i motori di ricerca predefiniti">
 <!ENTITY restoreSearch.accesskey "n">
-<!ENTITY changeAndRestartButton.label "Applica i cambiamenti e riavvia">
+<!ENTITY changeAndRestartButton.label "Applica le modifiche e riavvia">
 <!ENTITY continueButton.label "Continua in modalità provvisoria">

@@ -1,4 +1,4 @@
-<!ENTITY newprofile.title "Autocomposizione profilo">
+<!ENTITY newprofile.title "Creazione guidata profilo">
 <!ENTITY window.size "width: 45em; height: 33em;">
 <!ENTITY profileCreationExplanation_1.text "&brandShortName; salva le informazioni personali e le opzioni nel profilo personale.">
 <!ENTITY profileCreationExplanation_2.text "Se si condivide questa copia di &brandShortName; con altri utenti è possibile utilizzare i profili per mantenere le informazioni personali separate. Per far questo ciascun utente deve creare un profilo personale.">
