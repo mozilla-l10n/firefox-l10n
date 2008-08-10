@@ -72,7 +72,7 @@
 <!ENTITY pageSourceCmd.accesskey "t">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informacija apie tinklalapį">
-<!ENTITY pageInfoCmd.accesskey "n">
+<!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Visas ekranas">
 <!ENTITY fullScreenCmd.accesskey "V">
@@ -141,7 +141,7 @@
 <!ENTITY keywordfield.label           "Įdėti šios paieškos reikšminį žodį…">
 <!ENTITY keywordfield.accesskey       "p">
 <!ENTITY search.label                 "Paieška žiniatinklyje">
-<!ENTITY search.accesskey             "i">
+<!ENTITY search.accesskey             "ž">
 <!ENTITY downloads.label              "Atsiuntimai">
 <!ENTITY downloads.tooltip            "Rodyti atsiunčiamų failų siuntimo eigą">
 <!ENTITY downloads.accesskey          "s">
