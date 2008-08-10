@@ -1,9 +1,0 @@
-<!ENTITY caption.label "Popups bloqués">
-
-<!ENTITY intro.label "Les sites suivants n'ont pas eu l'autorisation de faire apparaître des popups :">
-
-<!ENTITY done.label "Terminer">
-<!ENTITY done.accesskey "T">
-
-<!ENTITY unblock.label "Autoriser ce site à faire apparaître des popups">
-<!ENTITY unblock.accesskey "A">
