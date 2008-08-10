@@ -7,8 +7,4 @@
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
 
-<!ENTITY filter.label "Hledat:">
-<!ENTITY filter.accesskey "H">
-
-<!ENTITY clear.label "Vymazat">
-<!ENTITY clear.accesskey "m">
+<!ENTITY filter.emptytext "Hledat">
