@@ -33,7 +33,7 @@
 
 <!ENTITY dialog.title            "Programvaruinstallation">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningMain.label       "Installera endast programvara från skapare du litar på.">
+<!ENTITY warningPrimary.label    "Installera endast programvara från skapare du litar på.">
 <!ENTITY warningSecondary.label  "Elak programvara kan skada din dator eller inkräkta på din personliga integritet.">
 
 <!ENTITY from.label "från:">

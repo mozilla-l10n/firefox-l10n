@@ -253,6 +253,8 @@
 <!ENTITY reloadFrameCmd.accesskey     "U">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Visa källkoden för markering">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Visa MathML-källkod">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ä">
 <!ENTITY viewPageSourceCmd.label      "Visa källkod">
 <!ENTITY viewPageSourceCmd.accesskey  "V">

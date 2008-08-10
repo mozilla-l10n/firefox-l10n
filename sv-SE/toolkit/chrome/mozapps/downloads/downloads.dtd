@@ -70,6 +70,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "Tar bort färdiga, avbrutna och misslyckade hämtningar från listan">
 <!ENTITY cmd.clearList.accesskey          "R">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Stäng när filhämtningarna är slutförda">
 <!ENTITY closeWhenDone.tooltip            "Stänger Filhämtaren när alla filer har hämtats">

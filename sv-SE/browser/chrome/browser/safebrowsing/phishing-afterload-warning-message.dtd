@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Det här är inte en webbförfalskning…">
 <!ENTITY safeb.palm.report.label "Varför blockerades den här webbplatsen?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Den här sidan kan vara farlig; klicka här för detaljer.">
-
 <!ENTITY safeb.blocked.malware.title "Angreppsrisk!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Webbplatsen <span id='malware_sitename'/> har rapporterats göra angrepp på datorer och har därför blockerats enligt dina säkerhetsinställningar.">
