@@ -71,6 +71,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "Iš sąrašo pašalinami užbaigtų, atsisakytų ir nepavykusių atsiuntimų aprašai">
 <!ENTITY cmd.clearList.accesskey          "v">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Atsiuntus užverti šį langą">
 <!ENTITY closeWhenDone.tooltip            "Atsiuntus visus failus užverti atsiuntimų langą">
