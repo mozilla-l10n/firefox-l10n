@@ -39,8 +39,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "Ieškoti:">
-<!ENTITY  filter.accesskey        "I">
-
-<!ENTITY  clear.label             "Išvalyti">
-<!ENTITY  clear.accesskey         "v">
+<!ENTITY  filter.emptytext        "Ieškoti">
