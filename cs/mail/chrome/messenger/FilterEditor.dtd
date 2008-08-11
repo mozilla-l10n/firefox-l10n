@@ -12,7 +12,11 @@
 <!ENTITY highPriorityCmd.label "Vysoká">
 <!ENTITY highestPriorityCmd.label "Nejvyšší">
 
-<!ENTITY conditionDesc.label "Pro příchozí zprávy:">
+<!ENTITY contextDesc.label "Použít filtr při:">
+<!ENTITY contextDesc.accesskey "P">
+<!ENTITY contextIncoming.label "kontrole pošty">
+<!ENTITY contextManual.label "manuálním spuštění">
+<!ENTITY contextBoth.label "kontrole pošty a manuálním spuštění">
 <!ENTITY filterActionDesc.label "Provést akci:">
 <!ENTITY filterActionDesc.accesskey "a">
 
