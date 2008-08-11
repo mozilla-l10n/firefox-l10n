@@ -60,7 +60,7 @@
 <!ENTITY warn.viewmixed "leathanach a thaispeáint ar a bhfuil meascán d'ábhair chriptithe agus neamhchriptithe">
 <!ENTITY warn.viewmixed.accesskey "V">
 
-<!ENTITY certselect.description "Socraigh conas a roghnóidh &brandShortName; teastas slándála le tabhairt go suíomhanna Gréasáin a éilíonn ceann:">
+<!ENTITY certselect.description "Socraigh conas a roghnóidh &brandShortName; teastas slándála le tabhairt go suímh Ghréasáin a éilíonn ceann:">
 <!ENTITY certselect.auto "Roghnaigh go huathoibríoch">
 <!ENTITY certselect.auto.accesskey "W">
 <!ENTITY certselect.ask "Fiafraigh gach uair">

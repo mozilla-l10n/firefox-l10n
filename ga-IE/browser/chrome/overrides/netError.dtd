@@ -68,7 +68,7 @@
 <!ENTITY sharedLongDesc "<ul> <li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li> <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar cheangal líonra do ríomhaire.</li> <li>Má tá do ríomhaire nó do líonra á chosaint ag balla dóiteáin nó seachfhreastalaí, cinntigh go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li></ul>">
 
 <!ENTITY malwareBlocked.title "Suíomh Amhrasta Ionsaithe!">
-<!ENTITY malwareBlocked.longDesc "<p>Iarrann suíomhanna ionsaithe bogearraí a shuiteáil a ghoideann faisnéis phríobháideach, a úsáideann do ríomhaire le cinn eile a ionsaí, nó a dhéanann dochar do do ríomhaire.</p> <p>Tig le húinéirí suíomhanna Gréasáin a chreideann gur tuairiscíodh go mícheart gur suíomhanna ionsaithe iad <a href='http://www.stopbadware.org/home/reviewinfo' >athbhreithniú a iarraidh</a>.</p>">
+<!ENTITY malwareBlocked.longDesc "<p>Iarrann suímh ionsaithe bogearraí a shuiteáil a ghoideann faisnéis phríobháideach, a úsáideann do ríomhaire le cinn eile a ionsaí, nó a dhéanann dochar do do ríomhaire.</p> <p>Tig le húinéirí suíomhanna Gréasáin a chreideann gur tuairiscíodh go mícheart gur suímh ionsaithe iad <a href='http://www.stopbadware.org/home/reviewinfo' >athbhreithniú a iarraidh</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Falsaíocht Ghréasáin!">
 <!ENTITY phishingBlocked.longDesc '<p>D&apos;fhéadfadh goid aitheantais nó calaois eile teacht mar thoradh ar fhaisnéis phearsanta ar bith a chur isteach sa leathanach seo.</p> <p>Úsáidtear suímh den chineál seo i gcamscéimeanna ar a dtugtar "bréagbhrandáil", ina gcruthaíonn coirpigh leathanaigh agus ríomhphoist chalaoiseacha chun aithris a dhéanamh ar fhoinsí dlisteanacha a bhfuil muinín agat astu.</p>'>

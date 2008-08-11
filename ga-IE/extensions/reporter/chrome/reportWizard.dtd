@@ -2,7 +2,7 @@
 <!ENTITY reportWizard.title "Seol Tuairisc ar Shuíomh Briste">
 
 <!ENTITY privacyNotice.label "Polasaí Príobháideachta">
-<!ENTITY reportWizardPrivacy.description "Cuireann an uirlis seo ar do chumas insint don Fhoireann Bolscaireachta faoi shuíomhanna Gréasáin nach n-oibríonn i gceart le &brandShortName;, nó a chuireann bac air. Seo an tslí chun cabhrú linn agus muid ag déanamh cinnte de go mbainfidh úsáideoirí &brandShortName; taitneamh as. Caith bomaite le do thoil chun an méid seo a leanas a léamh agus feicfidh tú conas a úsáidfimid an t-eolas a bhaileofar má bhíonn tú toilteanach bheith páirteach.">
+<!ENTITY reportWizardPrivacy.description "Cuireann an uirlis seo ar do chumas insint don Fhoireann Bolscaireachta faoi shuímh Ghréasáin nach n-oibríonn i gceart le &brandShortName;, nó a chuireann bac air. Seo an tslí chun cabhrú linn agus muid ag déanamh cinnte de go mbainfidh úsáideoirí &brandShortName; taitneamh as. Caith bomaite le do thoil chun an méid seo a leanas a léamh agus feicfidh tú conas a úsáidfimid an t-eolas a bhaileofar má bhíonn tú toilteanach bheith páirteach.">
 <!ENTITY reportWizardMustAgree.description "Caithfidh tú glacadh leis an bpolasaí príobháideachta thuas chun leanúint.">
 
 <!ENTITY dontShowPrivacyStatement.label "Tá an polasaí príobháideachais thuasluaite léite agam, agus glacaim leis.">

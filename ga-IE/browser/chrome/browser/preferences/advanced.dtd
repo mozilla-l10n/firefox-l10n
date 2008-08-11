@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey "e">
 <!ENTITY searchStartTyping.label "Cuardaigh téacs nuair a thosóidh mé ag clóbhualadh">
 <!ENTITY searchStartTyping.accesskey "t">
-<!ENTITY blockAutoRefresh.label "Tabhair rabhadh dom nuair a dhéanann suíomhanna Gréasáin iarracht leathanach a athluchtú nó a atreorú.">
+<!ENTITY blockAutoRefresh.label "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht leathanach a athluchtú nó a atreorú.">
 <!ENTITY blockAutoRefresh.accesskey "b">
 
 <!ENTITY browsing.label "Brabhsáil">
@@ -73,7 +73,7 @@
 <!ENTITY offlineNotifyExceptions.label "Eisceachtaí…">
 <!ENTITY offlineNotifyExceptions.accesskey "s">
 
-<!ENTITY offlineAppsList.label "Tá sonraí stóráilte le haghaidh úsáide as líne ag na suíomhanna Gréasáin seo a leanas:">
+<!ENTITY offlineAppsList.label "Tá sonraí stóráilte le haghaidh úsáide as líne ag na suímh Ghréasáin seo a leanas:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Bain…">
 <!ENTITY offlineAppsListRemove.accesskey "B">

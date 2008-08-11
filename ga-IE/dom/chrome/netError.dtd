@@ -4,13 +4,13 @@
 
 
 <!ENTITY connectionFailure.title "Theip ar Cheangal">
-<!ENTITY connectionFailure.longDesc "<p>Cé go bhfuil cosúlacht bhailí ar an suíomh, níor éirigh leis an mbrabhsálaí ceangal a bhunú leis.</p><ul><li>D'fhéadfadh an suíomh bheith gan fáil go sealadach. Triail arís é níos déanaí.</li><li>Mura bhfuil tú in ann suíomhanna eile a bhrabhsáil, déan seiceáil ar cheangal líonra do ríomhaire.</li><li>An bhfuil do ríomhaire nó do líonra á chosaint ag seachfhreastalaí nó balla dóiteáin? D'fhéadfadh socruithe mícheart cur isteach ar bhrabhsáil.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Cé go bhfuil cosúlacht bhailí ar an suíomh, níor éirigh leis an mbrabhsálaí ceangal a bhunú leis.</p><ul><li>D'fhéadfadh an suíomh bheith gan fáil go sealadach. Triail arís é níos déanaí.</li><li>Mura bhfuil tú in ann suímh eile a bhrabhsáil, déan seiceáil ar cheangal líonra do ríomhaire.</li><li>An bhfuil do ríomhaire nó do líonra á chosaint ag seachfhreastalaí nó balla dóiteáin? D'fhéadfadh socruithe mícheart cur isteach ar bhrabhsáil.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Tá an port srianta de bharr slándála">
 <!ENTITY deniedPortAccess.longDesc "<p>Shonraigh an seoladh iarrtha port (m.sh. <q>mozilla.org:80</q> le haghaidh poirt 80 ar mozilla.org) a úsáidtear de ghnáth le haghaidh cúiseanna <em>seachas</em> brabhsáil. Chealaigh an brabhsálaí d'iarratas ar mhaithe le do shlándáil.</p>">
 
 <!ENTITY dnsNotFound.title "Seoladh Gan Aimsiú">
-<!ENTITY dnsNotFound.longDesc "<p>Ní féidir leis an mbrabhsálaí freastalaí an tseolta shonraithe a aimsiú.</p><ul><li>An ndearna tú botún agus an seoladh á chlóbhualadh agat (m.sh. <q><strong>ww</strong>.mozilla.org</q> in áit <q><strong>www</strong>.mozilla.org</q>)</li><li>An bhfuil tú cinnte go bhfuil an fearann sin ann? D'fhéadfadh a chlárú bheith imithe as dáta.</li><li>Mura bhfuil tú in ann suíomhanna eile a bhrabhsáil, déan seiceáil ar do cheangal líonra agus ar do shocruithe DNS.</li><li>An bhfuil do ríomhaire nó do líonra á chosaint ag seachfhreastalaí nó balla dóiteáin? D'fhéadfadh socruithe mícheart cur isteach ar bhrabhsáil.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Ní féidir leis an mbrabhsálaí freastalaí an tseolta shonraithe a aimsiú.</p><ul><li>An ndearna tú botún agus an seoladh á chlóbhualadh agat (m.sh. <q><strong>ww</strong>.mozilla.org</q> in áit <q><strong>www</strong>.mozilla.org</q>)</li><li>An bhfuil tú cinnte go bhfuil an fearann sin ann? D'fhéadfadh a chlárú bheith imithe as dáta.</li><li>Mura bhfuil tú in ann suímh eile a bhrabhsáil, déan seiceáil ar do cheangal líonra agus ar do shocruithe DNS.</li><li>An bhfuil do ríomhaire nó do líonra á chosaint ag seachfhreastalaí nó balla dóiteáin? D'fhéadfadh socruithe mícheart cur isteach ar bhrabhsáil.</li></ul>">
 
 <!ENTITY fileNotFound.title "Comhad Gan Aimsiú">
 <!ENTITY fileNotFound.longDesc "<ul><li>An féidir go bhfuil an mhír athainmnithe, bainte, nó bogtha?</li><li>An bhfuil botún litrithe, nó ceannlitir mhícheart, nó botún eile den sórt sin, sa seoladh?</li><li>An bhfuil na ceadanna rochtana cuí agat don mhír iarrtha?</li></ul>">
@@ -22,7 +22,7 @@
 <!ENTITY malformedURI.longDesc "<p>Ní aithnítear formáid an tseolta sonraithe. Féach an bhfuil botúin i mbarra na suíomhanna agus bain triail eile as.</p>">
 
 <!ENTITY netInterrupt.title "Briseadh Tarchur na Sonraí">
-<!ENTITY netInterrupt.longDesc "<p>D'éirigh leis an mbrabhsálaí ceangal a bhunú ach idirbhriseadh an ceangal le linn traschur na faisnéise. Triail arís é le do thoil.</p><ul><li>Mura bhfuil tú in ann suíomhanna eile a bhrabhsáil, déan seiceáil ar cheangal líonra do ríomhaire.</li><li>An bhfuil fadhbanna agat fós? Téigh i dteagmháil le do riarthóir líonra nó le do sholáthraí Idirlín le haghaidh cabhrach.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>D'éirigh leis an mbrabhsálaí ceangal a bhunú ach idirbhriseadh an ceangal le linn traschur na faisnéise. Triail arís é le do thoil.</p><ul><li>Mura bhfuil tú in ann suímh eile a bhrabhsáil, déan seiceáil ar cheangal líonra do ríomhaire.</li><li>An bhfuil fadhbanna agat fós? Téigh i dteagmháil le do riarthóir líonra nó le do sholáthraí Idirlín le haghaidh cabhrach.</li></ul>">
 
 <!ENTITY netOffline.title "Mód As Líne">
 <!ENTITY netOffline.longDesc "<p>Tá an brabhsálaí sa mhód as líne agus ní féidir ceangal leis an mhír iarrtha.</p><ul><li>An bhfuil an ríomhaire ceangailte le líonra gníomhach?</li><li>Cuir an brabhsálaí sa mhód ar líne agus triail arís é.</li></ul>">
@@ -37,7 +37,7 @@
 <!ENTITY netReset.longDesc "<p>Idirbhriseadh an nasc líonra agus ceangal á idirbheartú. Triail arís é le do thoil.</p>">
 
 <!ENTITY netTimeout.title "Líonra Thar Am">
-<!ENTITY netTimeout.longDesc "<p>Níor fhreagair an suíomh iarrtha iarratas ceangail agus tá an brabhsálaí éirithe as bheith ag fanacht ar fhreagra.</p><ul><li>An féidir go bhfuil éileamh mór nó fadhb shealadach ar an bhfreastalaí? Triail arís é níos déanaí.</li><li>Mura bhfuil tú in ann suíomhanna eile a bhrabhsáil, déan seiceáil ar cheangal líonra do ríomhaire.</li><li>An bhfuil do ríomhaire nó do líonra á chosaint ag seachfhreastalaí nó balla dóiteáin? D'fhéadfadh socruithe mícheart cur isteach ar bhrabhsáil.</li><li>An bhfuil fadhbanna agat fós?  Téigh i dteagmháil le do riarthóir líonra nó le do sholáthraí Idirlín le haghaidh cabhrach.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Níor fhreagair an suíomh iarrtha iarratas ceangail agus tá an brabhsálaí éirithe as bheith ag fanacht ar fhreagra.</p><ul><li>An féidir go bhfuil éileamh mór nó fadhb shealadach ar an bhfreastalaí? Triail arís é níos déanaí.</li><li>Mura bhfuil tú in ann suímh eile a bhrabhsáil, déan seiceáil ar cheangal líonra do ríomhaire.</li><li>An bhfuil do ríomhaire nó do líonra á chosaint ag seachfhreastalaí nó balla dóiteáin? D'fhéadfadh socruithe mícheart cur isteach ar bhrabhsáil.</li><li>An bhfuil fadhbanna agat fós?  Téigh i dteagmháil le do riarthóir líonra nó le do sholáthraí Idirlín le haghaidh cabhrach.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Prótacal Anaithnid">
 <!ENTITY protocolNotFound.longDesc "<p>Sonraíonn an seoladh prótacal (m.sh. <q>wxyz://</q>) nach n-aithníonn an brabhsálaí agus ní féidir leis an mbrabhsálaí ceangal leis an suíomh i gceart dá bharr.</p><ul><li>An bhfuil tú ag iarraidh seirbhísí ilmheáin, nó seirbhísí eile nach téacs iad, a rochtain? Féach an bhfuil riachtanais bhreise ag an suíomh.</li><li>D'fhéadfadh bogearraí nó forlíontáin ó sholáthraithe eile bheith ag teastáil ó phrótacail áirithe sula mbeidh an brabhsálaí in ann iad a aithint.</li></ul>">
@@ -61,7 +61,7 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó b'fhéidir go bhfuil duine éigin ag déanamh aithris ar an bhfreastalaí.</li> <li>Má d'éirigh leat ceangal leis an bhfreastalaí seo roimhe seo, b'fhéidir gur fadhb shealadach atá ann agus is féidir leat iarracht a dhéanamh níos déanaí.</li> </ul>">
 
 <!ENTITY malwareBlocked.title "Suíomh Amhrasta Ionsaithe!">
-<!ENTITY malwareBlocked.longDesc "<p>Iarrann suíomhanna ionsaithe bogearraí a shuiteáil a ghoideann faisnéis phríobháideach, a úsáideann do ríomhaire le cinn eile a ionsaí, nó a dhéanann dochar do do ríomhaire.</p> <p>Tig le húinéirí suíomhanna Gréasáin a chreideann gur tuairiscíodh go mícheart gur suíomhanna ionsaithe iad <a href='http://www.stopbadware.org/home/reviewinfo' >athbhreithniú a iarraidh</a>.</p>">
+<!ENTITY malwareBlocked.longDesc "<p>Iarrann suímh ionsaithe bogearraí a shuiteáil a ghoideann faisnéis phríobháideach, a úsáideann do ríomhaire le cinn eile a ionsaí, nó a dhéanann dochar do do ríomhaire.</p> <p>Tig le húinéirí suíomhanna Gréasáin a chreideann gur tuairiscíodh go mícheart gur suímh ionsaithe iad <a href='http://www.stopbadware.org/home/reviewinfo' >athbhreithniú a iarraidh</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Falsaíocht Ghréasáin!">
 <!ENTITY phishingBlocked.longDesc '<p>D&apos;fhéadfadh goid aitheantais nó calaois eile teacht mar thoradh ar fhaisnéis phearsanta ar bith a chur isteach sa leathanach seo.</p> <p>Úsáidtear suímh den chineál seo i gcamscéimeanna ar a dtugtar "bréagbhrandáil", ina gcruthaíonn coirpigh leathanaigh agus ríomhphoist chalaoiseacha chun aithris a dhéanamh ar fhoinsí dlisteanacha a bhfuil muinín agat astu.</p>'>
