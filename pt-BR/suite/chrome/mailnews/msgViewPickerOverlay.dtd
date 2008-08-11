@@ -14,3 +14,5 @@
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "Customize...">
 <!ENTITY viewCustomizeView.accesskey "C">
+<!ENTITY viewNotDeleted.accesskey "D">
+<!ENTITY viewNotDeleted.label "Not Deleted">

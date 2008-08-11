@@ -18,3 +18,8 @@
 <!ENTITY sendLinkCmd.label               "Send Link..."> 
 <!ENTITY sendLinkCmd.accesskey           "d">
 
+<!ENTITY contextSendThisLink.accesskey   "k">
+<!ENTITY contextSendThisLink.label       "Send This Link…">
+<!ENTITY contextSendThisPage.accesskey   "d">
+
+<!ENTITY contextSendThisPage.label       "Send This Page…">

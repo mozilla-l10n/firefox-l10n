@@ -562,7 +562,7 @@
 <!ENTITY folderContextProperties.label "Properties...">
 <!ENTITY folderContextProperties.accesskey "P">
 
-<!---SearchBar-->
+<!-- SearchBar -->
 <!-- also used by addressbook -->
 <!ENTITY SearchSubjectOrFrom.label "Subject or From contains:">
 <!ENTITY SearchSubjectOrFrom.accesskey "S">
@@ -602,9 +602,14 @@
 <!ENTITY phishingBarMessage.label "&brandShortName; thinks this message might be an email scam.">
 <!ENTITY removePhishingBarButton.label "Not a Scam">
 
-<!---SearchBar--><!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!-- SearchBar -->
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.key "p">
+
+<!---SearchBar--><!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Ignore Subthread">

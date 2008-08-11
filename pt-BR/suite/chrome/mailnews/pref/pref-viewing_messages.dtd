@@ -78,3 +78,13 @@
 <!ENTITY existingWindowRadio.accesskey    "e">
 <!ENTITY disableContent.label             "Block images and other content from remote sources">
 <!ENTITY disableContent.accesskey         "B">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
+<!ENTITY markAsReadDelay.accesskey        "e">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "After displaying for">
+<!ENTITY markAsReadNoDelay.accesskey      "d">
+<!ENTITY markAsReadNoDelay.label          "Immediately on display">
+<!ENTITY secondsLabel.label               "seconds">
