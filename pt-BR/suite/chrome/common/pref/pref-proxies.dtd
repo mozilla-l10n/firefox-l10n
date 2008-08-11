@@ -1,25 +1,22 @@
-<!-- extracted from content/pref-proxies.xul -->
-
-<!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
-<!ENTITY  pref.proxies.title            "Proxies">
-<!ENTITY  pref.proxies.desc             "A Proxy is a network service that can filter and speed up your Internet connection.">
-<!ENTITY  proxyTitle.label              "Configure Proxies to Access the Internet">
-<!ENTITY  directTypeRadio.label         "Direct connection to the Internet">
-<!ENTITY  directTypeRadio.accesskey     "D">
-<!ENTITY  manualTypeRadio.label         "Manual proxy configuration:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  wpadTypeRadio.label           "Automatically discover the proxy configuration">
-<!ENTITY  wpadTypeRadio.accesskey       "A">
-<!ENTITY  autoTypeRadio.label           "Automatic proxy configuration URL:">
-<!ENTITY  autoTypeRadio.accesskey       "c">
-<!ENTITY  reload.label                  "Reload">
-<!ENTITY  reload.accesskey              "R">
-<!ENTITY  http.label                    "Proxy:">
-<!ENTITY  http.accesskey                "P">
-<!ENTITY  port.label                    "Port:">
-<!ENTITY  HTTPport.accesskey            "o">
-<!ENTITY  advanced.label                "Advanced...">
-<!ENTITY  advanced.accesskey            "v">
-<!ENTITY  noproxy.label                 "No Proxy for:">
-<!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "Example: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY pref.proxies.title "Proxies">
+<!ENTITY pref.proxies.desc "Um Proxy é um serviço de rede que pode filtrar e acelerar a sua conexão à Internet.">
+<!ENTITY proxyTitle.label "Acesso à Internet">
+<!ENTITY directTypeRadio.label "Conectar-se diretamente">
+<!ENTITY directTypeRadio.accesskey "D">
+<!ENTITY manualTypeRadio.label "Usar um servidor proxy:">
+<!ENTITY manualTypeRadio.accesskey "X">
+<!ENTITY wpadTypeRadio.label "Descobrir automaticamente a configuração de proxy">
+<!ENTITY wpadTypeRadio.accesskey "A">
+<!ENTITY autoTypeRadio.label "Endereço para configuração automática de proxy:">
+<!ENTITY autoTypeRadio.accesskey "e">
+<!ENTITY reload.label "Recarregar">
+<!ENTITY reload.accesskey "C">
+<!ENTITY http.label "HTTP:">
+<!ENTITY http.accesskey "H">
+<!ENTITY port.label "Porta:">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY advanced.label "Avançado...">
+<!ENTITY advanced.accesskey "v">
+<!ENTITY noproxy.label "Não usar proxy para:">
+<!ENTITY noproxy.accesskey "N">
+<!ENTITY noproxyExplain.label "Exemplo: .com.br, .mozilla.org, .net.nz">

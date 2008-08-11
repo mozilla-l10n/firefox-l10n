@@ -1,33 +1,31 @@
-<!ENTITY serverAdvanced.label "Advanced Account Settings">
-<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Advanced IMAP Server Settings">
-<!ENTITY serverDirectory.label "IMAP server directory:">
-<!ENTITY serverDirectory.accesskey "d">
-<!ENTITY usingSubscription.label "Show only subscribed folders">
-<!ENTITY usingSubscription.accesskey "w">
-<!ENTITY dualUseFolders.label "Server supports folders that contain sub-folders and messages">
-<!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "Use IDLE command if the server supports it">
-<!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Maximum number of server connections to cache">
-<!ENTITY maximumConnectionsNumber.accesskey "M">
-<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
-<!ENTITY personalNamespace.label "Personal namespace:">
-<!ENTITY personalNamespace.accesskey "P">
-<!ENTITY publicNamespace.label "Public (shared):">
-<!ENTITY publicNamespace.accesskey "u">
-<!ENTITY otherUsersNamespace.label "Other Users:">
+<!ENTITY serverAdvanced.label "Opções avançadas">
+<!ENTITY imapAdvanced.label "Opções avançadas do servidor IMAP">
+<!ENTITY serverDirectory.label "Servidor de diretórios IMAP:">
+<!ENTITY serverDirectory.accesskey "i">
+<!ENTITY usingSubscription.label "Exibir apenas as pastas inscritas">
+<!ENTITY usingSubscription.accesskey "x">
+<!ENTITY dualUseFolders.label "O servidor suporta pastas que contêm subpastas e mensagens">
+<!ENTITY dualUseFolders.accesskey "e">
+<!ENTITY useIdle.label "Usar o comando IDLE caso o servidor suporte">
+<!ENTITY useIdle.accesskey "U">
+<!ENTITY maximumConnectionsNumber.label "Número máximo de conexões do servidor para fazer cache:">
+<!ENTITY maximumConnectionsNumber.accesskey "H">
+<!ENTITY namespaceDesc.label "Estas opções especificam os namespaces do servidor IMAP:">
+<!ENTITY personalNamespace.label "Namespace particular:">
+<!ENTITY personalNamespace.accesskey "N">
+<!ENTITY publicNamespace.label "Público (compartilhado):">
+<!ENTITY publicNamespace.accesskey "p">
+<!ENTITY otherUsersNamespace.label "Outros usuários:">
 <!ENTITY otherUsersNamespace.accesskey "O">
-<!ENTITY overrideNamespaces.label "Allow server to override these namespaces">
-<!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "When downloading pop mail for this server, use the following folder for new mail:" >
-<!ENTITY folderStorage.label "Where to store mail">
-<!ENTITY globalInbox.label "Global Inbox (Local Folders Account)">
+<!ENTITY overrideNamespaces.label "Permitir que o servidor sobrescreva estes namespaces">
+<!ENTITY overrideNamespaces.accesskey "M">
+<!ENTITY pop3Desc.label "Usar a seguinte pasta para armazenar as mensagens baixadas deste servidor POP:">
+<!ENTITY folderStorage.label "Onde armazenar as mensagens">
+<!ENTITY globalInbox.label "Caixa de entrada global (Pastas locais)">
 <!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "Inbox for this server's account">
-<!ENTITY accountDirectory.accesskey "S">
-<!ENTITY deferToServer.label "Inbox for different account">
+<!ENTITY accountDirectory.label "Caixa de entrada para esta conta">
+<!ENTITY accountDirectory.accesskey "E">
+<!ENTITY deferToServer.label "Caixa de entrada para uma conta diferente">
 <!ENTITY deferToServer.accesskey "D">
-<!ENTITY deferGetNewMail.label "Include this server when getting new mail">
+<!ENTITY deferGetNewMail.label "Incluir este servidor quando obtendo novas mensagens">
 <!ENTITY deferGetNewMail.accesskey "I">

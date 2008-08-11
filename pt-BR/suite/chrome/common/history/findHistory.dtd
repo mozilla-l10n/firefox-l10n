@@ -1,13 +1,11 @@
-
-<!ENTITY search.name.label              "title">
-<!ENTITY search.url.label               "location">
-<!ENTITY search.startswith.label        "starts with">
-<!ENTITY search.endswith.label          "ends with">
-<!ENTITY search.is.label                "is">
-<!ENTITY search.isnot.label             "is not">
-<!ENTITY search.contains.label          "contains">
-<!ENTITY search.doesntcontain.label     "doesn't contain">
-<!ENTITY search.for.label               "Find visited documents whose">
-<!ENTITY findHistory.title              "Find in History">
-<!ENTITY findButton.label               "Find">
-
+<!ENTITY search.name.label "Título">
+<!ENTITY search.url.label "Endereço">
+<!ENTITY search.startswith.label "começa com">
+<!ENTITY search.endswith.label "termina com">
+<!ENTITY search.is.label "é">
+<!ENTITY search.isnot.label "não é">
+<!ENTITY search.contains.label "contém">
+<!ENTITY search.doesntcontain.label "não contém">
+<!ENTITY search.for.label "Localizar documentos em que o:">
+<!ENTITY findHistory.title "Pesquisar no histórico">
+<!ENTITY findButton.label "Pesquisar">

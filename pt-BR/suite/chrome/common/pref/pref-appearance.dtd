@@ -1,49 +1,25 @@
-<!-- extracted from content/pref-appearance.xul -->
-
-<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
-<!ENTITY pref.appearance.title "Appearance">
-<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should
-	 appear
--->
-<!ENTITY onStartLegend.label                    "When &brandShortName; starts up, open">
-<!ENTITY navCheck.label                         "Browser">
-<!ENTITY navCheck.accesskey                     "B">
-<!--LOCALIZATION NOTE (compCheck.label): DONT_TRANSLATE -->
-<!ENTITY compCheck.label                        "Composer">
-<!ENTITY compCheck.accesskey                    "C">
-<!ENTITY calCheck.label                         "Calendar">
-<!ENTITY calCheck.accesskey                     "a">
-<!ENTITY showToolsLegend.label                  "Show toolbars as">
-<!ENTITY picsNtextRadio.label                   "Pictures and text">
-<!ENTITY picsNtextRadio.accesskey               "P">
-<!ENTITY picsOnlyRadio.label                    "Pictures only">
-<!ENTITY picsOnlyRadio.accesskey                "o">
-<!ENTITY textonlyRadio.label                    "Text only">
-<!ENTITY textonlyRadio.accesskey                "x">
-<!ENTITY showHideTooltips.label                 "Show Tooltips">
-<!ENTITY showHideTooltips.accesskey             "T">
-<!ENTITY useSiteIcons.label                     "Show Web Site Icons">
-<!ENTITY useSiteIcons.accesskey                 "S">
-<!ENTITY enableAutomaticImageResizing.label     "Resize large images to fit in the browser window">
-<!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label                  "Use smooth scrolling">
-<!ENTITY useSmoothScroll.accesskey              "U">
-
-<!--LOCALIZATION NOTE (languageList.txt.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY languageList.txt.label                 "Choose a language for &brandShortName;. The setting affects the language for text that appears in dialog boxes, menus, toolbars, and button labels. You must restart &brandShortName; for a new language setting to take effect.">
-
-<!--LOCALIZATION NOTE (languageList.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY languageList.label                     "Choose your preferred language for &brandShortName;:">
-
-
-<!ENTITY pref.locales.title                     "User Interface Language">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Language preferences will take effect when you restart &brandShortName;.">
-<!ENTITY selectLocale.label                     "Select the language for text that appears in dialog boxes, menus, toolbars and button labels:">
+<!ENTITY pref.appearance.title "Aparência">
+<!ENTITY onStartLegend.label "Ao iniciar o &brandShortName;, abrir o">
+<!ENTITY navCheck.label "Navigator">
+<!ENTITY navCheck.accesskey "n">
+<!ENTITY compCheck.label "Composer">
+<!ENTITY compCheck.accesskey "c">
+<!ENTITY calCheck.label "Calendário">
+<!ENTITY calCheck.accesskey "a">
+<!ENTITY showToolsLegend.label "Exibir barras de ferramentas como">
+<!ENTITY picsNtextRadio.label "Ícones e texto">
+<!ENTITY picsNtextRadio.accesskey "c">
+<!ENTITY picsOnlyRadio.label "Ícones">
+<!ENTITY picsOnlyRadio.accesskey "o">
+<!ENTITY textonlyRadio.label "Texto">
+<!ENTITY textonlyRadio.accesskey "t">
+<!ENTITY showHideTooltips.label "Exibir descrições em balões (ao apontar com o ponteiro do mouse)">
+<!ENTITY showHideTooltips.accesskey "x">
+<!ENTITY useSiteIcons.label "Exibir ícones dos sites">
+<!ENTITY useSiteIcons.accesskey "e">
+<!ENTITY enableAutomaticImageResizing.label "Redimensionar (diminuir) imagens para que caibam na janela">
+<!ENTITY enableAutomaticImageResizing.accesskey "D">
+<!ENTITY useSmoothScroll.label "Usar rolagem suave">
+<!ENTITY useSmoothScroll.accesskey "s">
+<!ENTITY languageList.txt.label "Selecione um idioma para o &brandShortName;. Esta opção afeta os textos que aparecem nas janelas, menus, barras de ferramentas e títulos dos botões. Você deve reiniciar o &brandShortName; para que a mudança de idioma tenha efeito.">
+<!ENTITY languageList.label "Selecione o idioma de sua preferência para o &brandShortName;:">

@@ -1,24 +1,19 @@
-<!-- These are added to the Advanced - Scripts & Plugins panel -->
-<!ENTITY enbJsCheckMailNews.label         "Mail &amp; Newsgroups">
-<!ENTITY enbJsCheckMailNews.accesskey     "M">
-<!ENTITY enbPluginCheckMailNews.label     "Mail &amp; Newsgroups">
+<!ENTITY enbJsCheckMailNews.label "Mail &amp; Newsgroups">
+<!ENTITY enbJsCheckMailNews.accesskey "m">
+<!ENTITY enbPluginCheckMailNews.label "Mail &amp; Newsgroups">
 <!ENTITY enbPluginCheckMailNews.accesskey "a">
-
-<!-- These are added to the Window menu -->
-<!ENTITY mail.label                       "Mail &amp; Newsgroups">
-<!ENTITY mail.accesskey                   "M">
-<!ENTITY addressbook.label                "Address Book">
-<!ENTITY addressbook.accesskey            "A">
-
-<!-- These are added to Preferences dialog -->
-<!ENTITY viewingMessages.label            "Message Display">
-<!ENTITY notifications.label              "Notifications">
-<!ENTITY address.label                    "Addressing">
-<!ENTITY composingMessages.label          "Composition">
-<!ENTITY format.label                     "Send Format">
-<!ENTITY return.label                     "Return Receipts">
-<!ENTITY disk.label                       "Disk Space">
-<!ENTITY junk.label                       "Junk Mail">
-<!ENTITY tags.label                       "Tags">
-<!ENTITY characterEncoding.label          "Character Encoding">
-<!ENTITY offline.label                    "Offline &amp; Disk Space">
+<!ENTITY mail.label "Mail &amp; Newsgroups">
+<!ENTITY mail.accesskey "m">
+<!ENTITY addressbook.label "Catálogo de endereços">
+<!ENTITY addressbook.accesskey "a">
+<!ENTITY viewingMessages.label "Aparência">
+<!ENTITY notifications.label "Notificações">
+<!ENTITY address.label "Endereçamento">
+<!ENTITY composingMessages.label "Edição">
+<!ENTITY format.label "Formato">
+<!ENTITY return.label "Confirmações">
+<!ENTITY disk.label "Espaço em disco">
+<!ENTITY junk.label "Spam">
+<!ENTITY tags.label "Rótulos">
+<!ENTITY characterEncoding.label "Codificação">
+<!ENTITY offline.label "Modo desconectado &amp; espaço em disco">

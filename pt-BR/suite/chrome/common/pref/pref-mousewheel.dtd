@@ -1,31 +1,27 @@
-<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
-
-<!ENTITY pref.mouseWheel.title           "Mouse Wheel">
-<!ENTITY mouseWheelPanel.label           "Specify mouse wheel behavior when used with this modifier key: ">
-<!ENTITY mouseWheelPanel.accesskey       "w">
-<!ENTITY usingJustTheWheel.label         "No modifier key">
-<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
-<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
-<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Vertical scrolling">
-<!ENTITY mousewheelHorizGroup.label      "Horizontal scrolling">
-<!ENTITY scroll.label                    "Scroll the document by ">
-<!ENTITY scroll.accesskey                "S">
-<!ENTITY scrollLines.label               "lines">
-<!ENTITY scrollChars.label               "characters">
-<!ENTITY useSystemDefault.label          "Use system default">
-<!ENTITY useSystemDefault.accesskey      "U">
-<!ENTITY scrollPgUpPgDn.label            "Scroll a page up or a page down">
-<!ENTITY scrollPgUpPgDn.accesskey        "p">
-<!ENTITY scrollPgLtPgRt.label            "Scroll a page left or a page right">
-<!ENTITY scrollPgLtPgRt.accesskey        "p">
-<!ENTITY history.label                   "Move back and forward in the browsing history">
-<!ENTITY history.accesskey               "M">
-<!ENTITY textsize.label                  "Make the text larger or smaller">
-<!ENTITY textsize.accesskey              "t">
-<!ENTITY zoom.label                      "Zoom the page in or out">
-<!ENTITY zoom.accesskey                  "Z">
-<!ENTITY historyHoriz.accesskey          "b">
-<!ENTITY scrollHoriz.accesskey           "c">
+<!ENTITY pref.mouseWheel.title "Roda do mouse">
+<!ENTITY mouseWheelPanel.label "Especifique como a roda do mouse deve agir ao usar esta tecla modificadora:">
+<!ENTITY mouseWheelPanel.accesskey "o">
+<!ENTITY usingJustTheWheel.label "Sem tecla modificadora">
+<!ENTITY usingWheelAndAlt.label "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label "Rolagem vertical">
+<!ENTITY mousewheelHorizGroup.label "Rolagem horizontal">
+<!ENTITY scroll.label "Rolar o documento em">
+<!ENTITY scroll.accesskey "r">
+<!ENTITY scrollHoriz.accesskey "c">
+<!ENTITY scrollLines.label "linha(s)">
+<!ENTITY scrollChars.label " caracteres. ">
+<!ENTITY useSystemDefault.label "Usar o padrão do sistema">
+<!ENTITY useSystemDefault.accesskey "u">
 <!ENTITY useSystemDefaultHoriz.accesskey "d">
-<!ENTITY zoomHoriz.accesskey             "e">
+<!ENTITY scrollPgUpPgDn.label "Rolar uma página acima ou abaixo">
+<!ENTITY scrollPgUpPgDn.accesskey "m">
+<!ENTITY scrollPgLtPgRt.label "Rolar uma página à esquerda ou à direita">
+<!ENTITY scrollPgLtPgRt.accesskey "o">
+<!ENTITY history.label "Voltar ou avançar no histórico de navegação">
+<!ENTITY history.accesskey "v">
+<!ENTITY historyHoriz.accesskey "h">
+<!ENTITY textsize.label "Tornar o texto maior ou menor">
+<!ENTITY textsize.accesskey "t">
+<!ENTITY textsizeHoriz.accesskey "e">

@@ -1,20 +1,14 @@
-<!-- extracted from content/pref-scripts.xul -->
-
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Scripts &amp; Plugins">
-
-<!ENTITY navigator.label                 "Browser">
-<!ENTITY navigator.accesskey             "B">
-
-<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
-<!ENTITY enableJavaScript.label          "Enable JavaScript for">
-<!ENTITY allowScripts.label              "Allow scripts to:">
-<!ENTITY allowScripts.accesskey          "s">
-<!ENTITY allowWindowMoveResize.label     "Move or resize existing windows">
-<!ENTITY allowWindowFlip.label           "Raise or lower windows">
-<!ENTITY allowWindowStatusChange.label   "Change status bar text">
-<!ENTITY allowWindowImageSrcChange.label "Change images">
-<!ENTITY allowContextmenuDisable.label   "Disable or replace context menus">
-<!ENTITY allowHideStatusBar.label        "Hide the status bar">
-
-<!ENTITY enablePlugin.label              "Enable Plugins for">
+<!ENTITY pref.scripts.title "Scripts &amp; Plug-ins">
+<!ENTITY navigator.label "Navigator">
+<!ENTITY navigator.accesskey "n">
+<!ENTITY enableJavaScript.label "Permitir JavaScript no">
+<!ENTITY allowScripts.label "Scripts têm permissão para:">
+<!ENTITY allowScripts.accesskey "s">
+<!ENTITY allowWindowOpen.label "Abrir popups">
+<!ENTITY allowWindowMoveResize.label "Mover ou alterar o tamanho de janelas existentes">
+<!ENTITY allowWindowFlip.label "Alterar a disposição entre as janelas">
+<!ENTITY allowWindowStatusChange.label "Alterar o texto da barra de status">
+<!ENTITY allowWindowImageSrcChange.label "Alterar imagens">
+<!ENTITY allowContextmenuDisable.label "Desativar ou substituir menus de contexto">
+<!ENTITY allowHideStatusBar.label "Ocultar a barra de status ">
+<!ENTITY enablePlugin.label "Permitir plugins no">

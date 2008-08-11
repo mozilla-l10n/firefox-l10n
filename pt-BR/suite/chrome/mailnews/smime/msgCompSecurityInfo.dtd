@@ -1,14 +1,12 @@
-<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
-
-<!ENTITY title.label "Message Security">
-<!ENTITY subject.plaintextWarning "Please note: Subject lines of email messages are never encrypted.">
-<!ENTITY status.heading "The contents of your message will be sent as follows:">
-<!ENTITY status.signed "Digitally signed:">
-<!ENTITY status.encrypted "Encrypted:">
-<!ENTITY status.certificates "Certificates:">
-<!ENTITY view.label "View">
-<!ENTITY view.accesskey "V">
-<!ENTITY tree.recipient "Recipient">
-<!ENTITY tree.status "Status">
-<!ENTITY tree.issuedDate "Issued">
-<!ENTITY tree.expiresDate "Expires">
+<!ENTITY title.label "Segurança da mensagem">
+<!ENTITY subject.plaintextWarning "Atenção: a linha de assunto não é criptografada.">
+<!ENTITY status.heading "O conteúdo de sua mensagem será enviado como segue:">
+<!ENTITY status.signed "Assinada digitalmente:">
+<!ENTITY status.encrypted "Criptografada:">
+<!ENTITY status.certificates "Certificados:">
+<!ENTITY view.label "Exibir...">
+<!ENTITY view.accesskey "X">
+<!ENTITY tree.recipient "Destinatário">
+<!ENTITY tree.status "Estado:">
+<!ENTITY tree.issuedDate "Emitido">
+<!ENTITY tree.expiresDate "Válido até">

@@ -1,35 +1,20 @@
-<!-- extracted from content/pref-applications.xul -->
-
-<!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
-<!ENTITY pref.applications.title        "Helper Applications">
-<!ENTITY pref.applications.caption      "Specify how to handle files of each file type">
-<!ENTITY fileTypes.label                "File types:">
-<!ENTITY aimLaunchSelect.label          "AOL Instant Messenger Launch">
-<!ENTITY newTypeButton.label            "New Type...">
-<!ENTITY newTypeButton.accesskey        "n">
-<!ENTITY editButton.label               "Edit...">
-<!ENTITY editButton.accesskey           "E">
-<!ENTITY removeButton.label             "Remove">
-<!ENTITY removeButton.accesskey         "R">
-<!ENTITY file                           "File Type Details">
-<!ENTITY exten                          "Extension(s):">
-<!ENTITY mimeDesc                       "Description:">
-<!ENTITY handle                         "When encountered:">
-<!ENTITY handle.accesskey               "W">
-<!ENTITY fileOpening.label              "Opening files">
-<!ENTITY plugins.label                  "Plugin Finder Service">
-<!ENTITY pluginFinder.label             "Always use the Plugin Finder Service (PFS) to get plugins.">
-<!ENTITY pluginFinder.accesskey         "A">
-<!ENTITY pluginFinderDesc.label         "If this option is not checked, the PFS is used only when a plugin location is not specified by the web page that requires the plugin.">
-<!ENTITY actionColumn2.accesskey "A">
-
-<!ENTITY actionColumn2.label     "Action">
-<!ENTITY clear.accesskey         "l">
-
-<!ENTITY clear.label             "Clear">
-<!ENTITY filter.accesskey        "S">
-
-<!ENTITY filter.label            "Search:">
-<!ENTITY typeColumn.accesskey    "T">
-
-<!ENTITY typeColumn.label        "Content Type">
+<!ENTITY pref.applications.title "Programas">
+<!ENTITY pref.applications.caption "Definir como manipular cada tipo de arquivo">
+<!ENTITY fileTypes.label "Tipos de arquivo:">
+<!ENTITY aimLaunchSelect.label "Abrir o AOL Instant Messenger">
+<!ENTITY newTypeButton.label "Novo...">
+<!ENTITY newTypeButton.accesskey "n">
+<!ENTITY editButton.label "Editar...">
+<!ENTITY editButton.accesskey "e">
+<!ENTITY removeButton.label "Excluir">
+<!ENTITY removeButton.accesskey "x">
+<!ENTITY file "Detalhes do tipo de arquivo">
+<!ENTITY exten "Extensões:">
+<!ENTITY mimeDesc "Descrição:">
+<!ENTITY handle "Ao ser encontrado:">
+<!ENTITY handle.accesskey "e">
+<!ENTITY fileOpening.label "Abrindo arquivos">
+<!ENTITY plugins.label "Plugin Finder Service">
+<!ENTITY pluginFinder.label "Sempre usar o Netscape Plugin Finder Service (PFS)">
+<!ENTITY pluginFinder.accesskey "A">
+<!ENTITY pluginFinderDesc.label "Se esta opção não estiver marcada, o PFS é usado apenas quando a localização do plugin não é especificada pela página.">

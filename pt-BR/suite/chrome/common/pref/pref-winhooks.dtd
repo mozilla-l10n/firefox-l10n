@@ -1,30 +1,20 @@
-<!-- LOCALIZATION NOTE : FILE "Windows integration" preferences -->
-
-<!ENTITY pref.winHooks.title  "System">
-
-<!-- These entities are used on the "File Types" section of the dialog. -->
-<!ENTITY files.label          "Windows should use &brandShortName; to open these file types:">
-<!ENTITY html.label           "HTML documents">
-<!ENTITY jpeg.label           "JPEG images">
-<!ENTITY gif.label            "GIF images">
-<!ENTITY png.label            "PNG images">
-<!ENTITY xbm.label            "XBM images">
-<!ENTITY bmp.label            "BMP images">
-<!ENTITY ico.label            "ICO images">
-<!ENTITY xml.label            "XML documents">
-<!ENTITY xhtml.label          "XHTML documents">
-<!ENTITY xul.label            "XUL documents">
-
-<!-- These entities are used on the "Protocols" section of the dialog. -->
-<!ENTITY protocols.label      "Windows should use &brandShortName; to handle these protocols:">
-<!ENTITY http.label           "http: (Hypertext Transfer Protocol)">
-<!ENTITY https.label          "https: (Secure HTTP)">
-<!ENTITY ftp.label            "ftp: (File Transfer Protocol)">
-<!--LOCALIZATION NOTE (chrome.label): Don't translate 'chrome' -->
-<!ENTITY chrome.label         "chrome: (Chrome Protocol)">
-<!ENTITY gopher.label         "gopher: (Gopher Protocol)">
-
-<!-- This entity is for the "show this dialog" checkbox. -->
-<!ENTITY showDialog.label     "Alert me if other applications change these settings">
+<!ENTITY pref.winHooks.title "Sistema">
+<!ENTITY files.label "Tornar o &brandShortName; o programa padrão destes tipos de arquivo:">
+<!ENTITY html.label "Documentos HTML">
+<!ENTITY jpeg.label "Imagens JPEG">
+<!ENTITY gif.label "Imagens GIF">
+<!ENTITY png.label "Imagens PNG">
+<!ENTITY xbm.label "Imagens XBM">
+<!ENTITY bmp.label "Imagens BMP">
+<!ENTITY ico.label "Imagens ICO">
+<!ENTITY xml.label "Documentos XML">
+<!ENTITY xhtml.label "Documentos XHTML">
+<!ENTITY xul.label "Documentos XUL">
+<!ENTITY protocols.label "Tornar o &brandShortName; o programa padrão destes protocolos:">
+<!ENTITY http.label "http: (Protocolo de transferência de hipertexto - Hypertext Transfer Protocol)">
+<!ENTITY https.label "https: (HTTP seguro)">
+<!ENTITY ftp.label "ftp: (Protocolo de transferência de arquivos - File Transfer Protocol)">
+<!ENTITY chrome.label "chrome: (Protocolo Chrome)">
+<!ENTITY gopher.label "gopher: (protocolo Gopher)">
+<!ENTITY showDialog.label "Avisar se outros programas alterarem estas configurações">
 <!ENTITY showDialog.accesskey "A">
-

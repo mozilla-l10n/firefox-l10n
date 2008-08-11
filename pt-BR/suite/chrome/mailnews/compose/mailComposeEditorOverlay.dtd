@@ -1,5 +1,4 @@
-<!ENTITY attachImageSource.label         "Attach this image to the message">
-<!ENTITY attachImageSource.accesskey     "s">
-
-<!ENTITY attachLinkSource.label          "Attach the source of this link to the message">
-<!ENTITY attachLinkSource.accesskey      "s">
+<!ENTITY attachImageSource.accesskey "s">
+<!ENTITY attachImageSource.label "Anexar esta imagem à mensagem">
+<!ENTITY attachLinkSource.accesskey "s">
+<!ENTITY attachLinkSource.label "Anexar o endereço deste link à mensagem">

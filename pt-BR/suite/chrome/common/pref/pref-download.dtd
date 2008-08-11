@@ -1,31 +1,31 @@
-<!ENTITY pref.download.title            "Downloads">
-<!ENTITY downloadBehavior.label         "When starting a download">
-<!ENTITY downloadLocation.label         "When saving a file">
-<!ENTITY finishedBehavior.label         "When a download completes">
-<!ENTITY openDM.label                   "Open the download manager">
-<!ENTITY openDM.accesskey               "m">
-<!ENTITY openProgressDialog.label       "Open a progress dialog">
-<!ENTITY openProgressDialog.accesskey   "O">
-<!ENTITY doNothing.label                "Don't open anything">
-<!ENTITY doNothing.accesskey            "D">
-<!ENTITY promptDownload.label           "Prompt for download location and default to">
-<!ENTITY promptDownload.accesskey       "P">
-<!ENTITY lastLocation.label             "Last download folder">
-<!ENTITY lastLocation.accesskey         "L">
-<!ENTITY specifiedLocation.label        "Specified download folder">
-<!ENTITY specifiedLocation.accesskey    "e">
-<!ENTITY autoDownload.label             "Automatically download files to specified download folder">
-<!ENTITY autoDownload.accesskey         "A">
-<!ENTITY downloadFolder.label           "Current Download Folder:">
-<!ENTITY chooseDownloadFolder.label     "Choose Folder...">
+<!ENTITY pref.download.title "Downloads">
+<!ENTITY downloadBehavior.label "Ao iniciar um download">
+<!ENTITY downloadLocation.label "Ao salvar um arquivo">
+<!ENTITY finishedBehavior.label "Quando o download for concluído">
+<!ENTITY openDM.label "Abrir o gerenciador de downloads">
+<!ENTITY openDM.accesskey "g">
+<!ENTITY openProgressDialog.label "Abrir uma janela padrão de download">
+<!ENTITY openProgressDialog.accesskey "a">
+<!ENTITY doNothing.label "Não abrir nada">
+<!ENTITY doNothing.accesskey "N">
+<!ENTITY promptDownload.label "Escolher uma pasta de download e iniciar">
+<!ENTITY promptDownload.accesskey "r">
+<!ENTITY lastLocation.label "Na última pasta utilizada">
+<!ENTITY lastLocation.accesskey "L">
+<!ENTITY specifiedLocation.label "Pasta de download">
+<!ENTITY specifiedLocation.accesskey "e">
+<!ENTITY autoDownload.label "Salvar automaticamente na pasta de download">
+<!ENTITY autoDownload.accesskey "A">
+<!ENTITY downloadFolder.label "Pasta de download:">
+<!ENTITY chooseDownloadFolder.label "Procurar...">
 <!ENTITY chooseDownloadFolder.accesskey "C">
-<!ENTITY playSound.label                "Play a sound">
-<!ENTITY playSound.accesskey            "s">
-<!ENTITY showAlert.label                "Show an alert">
-<!ENTITY showAlert.accesskey            "n">
-<!ENTITY browse.label                   "Browse...">
-<!ENTITY browse.accesskey               "B">
-<!ENTITY preview.label                  "Preview">
-<!ENTITY preview.accesskey              "v">
-<!ENTITY soundURL.label                 "Sound URL:">
-<!ENTITY soundURL.accesskey             "U">
+<!ENTITY playSound.label "Tocar um som">
+<!ENTITY playSound.accesskey "s">
+<!ENTITY showAlert.label "Exibir uma notificação">
+<!ENTITY showAlert.accesskey "x">
+<!ENTITY browse.label "Procurar...">
+<!ENTITY browse.accesskey "P">
+<!ENTITY preview.label "Visualizar">
+<!ENTITY preview.accesskey "v">
+<!ENTITY soundURL.label "URL do som:">
+<!ENTITY soundURL.accesskey "U">

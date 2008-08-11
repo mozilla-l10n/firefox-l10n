@@ -1,24 +1,19 @@
-
-<!ENTITY  editType.label                        "Edit Type">
-<!ENTITY  newType.label                         "New Type">
-<!ENTITY  extension.label                       "Extension:">
-<!ENTITY  extension.accesskey                   "E">
-<!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
-<!ENTITY  mimetype.label                        "MIME Type:">
-<!ENTITY  mimetype.accesskey                    "m">
-<!ENTITY  description.label                     "Description:">
-<!ENTITY  description.accesskey                 "d">
-
-<!ENTITY  handling.label                        "When a file of this type is encountered">
-<!ENTITY  useDefault.label                      "Open it using the default application">
-<!ENTITY  useDefault.accesskey                  "o">
-<!ENTITY  saveToDisk.label                      "Save it to Disk">
-<!ENTITY  saveToDisk.accesskey                  "s">
-<!ENTITY  application.label                     "Open it with:">
-<!ENTITY  application.accesskey                 "w">
-
-<!ENTITY  browse.label                          "Choose...">
-<!ENTITY  browse.accesskey                      "c">
-
-<!ENTITY  askBeforeOpen.label                   "Always ask me before handling files of this type">
-<!ENTITY  askBeforeOpen.accesskey               "k">
+<!ENTITY editType.label "Editar tipo">
+<!ENTITY newType.label "Novo tipo">
+<!ENTITY extension.label "Extensão:">
+<!ENTITY extension.accesskey "E">
+<!ENTITY mimetype.label "Tipo MIME:">
+<!ENTITY mimetype.accesskey "t">
+<!ENTITY description.label "Descrição:">
+<!ENTITY description.accesskey "d">
+<!ENTITY handling.label "Ao encontrar este tipo de arquivo">
+<!ENTITY useDefault.label "Abrir com o programa padrão">
+<!ENTITY useDefault.accesskey "a">
+<!ENTITY saveToDisk.label "Salvar">
+<!ENTITY saveToDisk.accesskey "v">
+<!ENTITY application.label "Abrir com:">
+<!ENTITY application.accesskey "c">
+<!ENTITY browse.label "Selecionar...">
+<!ENTITY browse.accesskey "s">
+<!ENTITY askBeforeOpen.label "Sempre perguntar ao encontrar este tipo de arquivo">
+<!ENTITY askBeforeOpen.accesskey "m">
