@@ -44,7 +44,11 @@
 <!ENTITY highPriorityCmd.label "aukštą">
 <!ENTITY highestPriorityCmd.label "aukščiausią">
 
-<!ENTITY conditionDesc.label "Jei gautas laiškas tenkina:">
+<!ENTITY contextDesc.label "Filtrą taikyti, kai:">
+<!ENTITY contextDesc.accesskey "t">
+<!ENTITY contextIncoming.label "tikrinamas paštas">
+<!ENTITY contextManual.label "nurodoma filtruoti laiškus">
+<!ENTITY contextBoth.label "tikrinamas paštas arba nurodoma filtruoti laiškus">
 <!ENTITY filterActionDesc.label "atlikti šiuos veiksmus:">
 <!ENTITY filterActionDesc.accesskey "v">
 
