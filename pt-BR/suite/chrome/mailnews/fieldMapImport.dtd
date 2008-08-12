@@ -1,21 +1,16 @@
 <!ENTITY fieldMapImport.title "Importar catálogo de endereços">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Dados importados para o registro:">
-<!ENTITY fieldMapImport.next "Avançar">
+<!ENTITY fieldMapImport.next.label "Avançar">
 <!ENTITY fieldMapImport.next.accesskey "n">
-<!ENTITY fieldMapImport.previous "Voltar">
+<!ENTITY fieldMapImport.previous.label "Voltar">
 <!ENTITY fieldMapImport.previous.accesskey "V">
 <!ENTITY fieldMapImport.text "Use Para cima e Para baixo para associar os campos do catálogo de endereços à esquerda com os dados para importar à direita. Desmarque os itens que você não quer importar.">
-<!ENTITY fieldMapImport.up "Para cima">
+<!ENTITY fieldMapImport.up.label "Para cima">
 <!ENTITY fieldMapImport.up.accesskey "c">
-<!ENTITY fieldMapImport.down "Para baixo">
+<!ENTITY fieldMapImport.down.label "Para baixo">
 <!ENTITY fieldMapImport.down.accesskey "b">
 <!ENTITY fieldMapImport.fieldListTitle "Campos do catálogo de endereços">
 <!ENTITY fieldMapImport.dataTitle "Gravar dados de importação">
-<!ENTITY fieldMapImport.skipFirstRecord "O primeiro registro contém nomes de campos">
+<!ENTITY fieldMapImport.skipFirstRecord.label "O primeiro registro contém nomes de campos">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "r">
-<!ENTITY fieldMapImport.down.label "Move Down">
-<!ENTITY fieldMapImport.next.label "Next">
-<!ENTITY fieldMapImport.previous.label "Previous">
-<!ENTITY fieldMapImport.skipFirstRecord.label "First record contains field names">
-<!ENTITY fieldMapImport.up.label "Move Up">

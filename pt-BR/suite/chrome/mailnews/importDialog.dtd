@@ -5,8 +5,7 @@
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 <!ENTITY importTitle.label "Assistente de Importação de Mail do &brandShortName; ">
-<!ENTITY importDesc.label "Importar mail, catálogos de endereços e configurações de outros programas">
-<!ENTITY importDescription.label "Este assistente importará para o &brandShortName; mensagens, nomes do catálogo de endereços e/ou opções de outros programas e formatos de catálogo de endereços mais comuns.">
+<!ENTITY importDescription1.label "Este assistente importará para o &brandShortName; mensagens, nomes do catálogo de endereços, preferências e/ou opções de filtros a partir de outros programas.">
 <!ENTITY importDescription2.label "Uma vez importados, você poderá acessá-los no &brandShortName;.">
 <!ENTITY selectDescription.label "Por favor selecione o programa do qual você deseja importar:">
 <!ENTITY back.label "&lt; Voltar">
@@ -22,7 +21,6 @@
 <!ENTITY importDialog.homeTitle "Residencial">
 <!ENTITY importDialog.workTitle "Comercial">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDialog.allTitle    "Import everything">
-<!ENTITY importDialog.filtersTitle "Filters">
-<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importDialog.allTitle    "Importar tudo">
+<!ENTITY importDialog.filtersTitle "Filtros">
+<!ENTITY importShortDesc.label    "Importar email, catálogos de endereço, configurações e filtros de outros programas">

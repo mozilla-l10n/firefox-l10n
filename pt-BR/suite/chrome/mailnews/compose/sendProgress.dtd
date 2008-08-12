@@ -1,10 +1,8 @@
 <!ENTITY sendWindow.title "Enviando mensagens">
 <!ENTITY titlePrefixSave "Salvando mensagem -">
 <!ENTITY titlePrefixSend "Enviando mensagens -">
-<!ENTITY status "Estado:">
-<!ENTITY progress "Andamento:">
 <!ENTITY percentMsg "#1&#037;">
 <!ENTITY messageSent "Sua mensagem foi enviada">
 <!ENTITY messageSaved "Sua mensagem foi salva">
-<!ENTITY progress.label "Progress:">
-<!ENTITY status.label "Status:">
+<!ENTITY progress.label "Andamento:">
+<!ENTITY status.label "Estado:">

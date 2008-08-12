@@ -42,11 +42,10 @@
 <!ENTITY fetchFromPOP.label "Baixar do servidor POP">
 <!ENTITY ignoreThread.label "Ignorar tópico">
 <!ENTITY watchThread.label "Monitorar tópico">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
-<!ENTITY contextDesc.accesskey "w">
-
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY contextDesc.label "Aplicar filtro quando:">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "Verificando novas mensagens">
+<!ENTITY contextManual.label "Executando manualmente">
+<!ENTITY contextBoth.label "Verificando novas mensagens ou executando manualmente">
+<!ENTITY ignoreSubthread.label "Ignorar sub-tópicos">
+<!ENTITY stopExecution.label "Interromper execução do filtro">

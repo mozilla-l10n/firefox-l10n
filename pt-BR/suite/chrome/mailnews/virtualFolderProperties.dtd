@@ -3,9 +3,6 @@
 <!ENTITY name.accesskey "n">
 <!ENTITY description.label "Criar como subpasta de:">
 <!ENTITY description.accesskey "C">
-<!ENTITY searchCriteriaText.label "Modificar os critérios de pesquisa usados nesta pasta de pesquisa:">
-<!ENTITY searchCriteriaButton.label "Critérios...">
-<!ENTITY searchCriteriaButton.accesskey "C">
 <!ENTITY searchTermCaption.label "Configurar os critérios de pesquisa usados nesta pasta de pesquisa:">
 <!ENTITY folderSelectionCaption.label "Selecionar em quais pastas pesquisar: ">
 <!ENTITY chooseFoldersButton.label "Selecionar...">

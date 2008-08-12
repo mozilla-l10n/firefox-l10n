@@ -20,8 +20,6 @@
 <!ENTITY viewAttachmentCmd.accesskey "b">
 <!ENTITY saveAsAttachmentCmd.label "Salvar como...">
 <!ENTITY saveAsAttachmentCmd.accesskey "c">
-<!ENTITY printAttachmentCmd.label ".Imprimir">
-<!ENTITY printAttachmentCmd.accesskey "I">
 <!ENTITY detachAttachmentCmd.label "Desanexar ...">
 <!ENTITY detachAttachmentCmd.accesskey "s">
 <!ENTITY deleteAttachmentCmd.label "Excluir">
@@ -34,4 +32,4 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey "t">
 <!ENTITY inReplyToField.label "In-Reply-To: ">
 <!ENTITY messageIdField.label "Message-ID: ">
-<!ENTITY referencesField.label "References: ">
+<!ENTITY referencesField.label "Referências: ">

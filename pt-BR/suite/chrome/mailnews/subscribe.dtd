@@ -13,5 +13,6 @@
 <!ENTITY namefield.label "Localizar item:">
 <!ENTITY namefield.accesskey "Z">
 <!-- commenting out until bug 38906 is fixed--> 
-<!ENTITY messagesHeader.label         "Messages"> <!ENTITY newGroupsTab.accesskey       "N">
-<!ENTITY newGroupsTab.label           "New Groups">
+<!ENTITY messagesHeader.label         "Mensagens">
+<!ENTITY newGroupsTab.label           "Grupos novos">
+<!ENTITY newGroupsTab.accesskey       "n">

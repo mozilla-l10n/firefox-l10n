@@ -1,5 +1,4 @@
 <!ENTITY threadColumn.label "Tópico">
-<!ENTITY senderColumn.label "Remetente">
 <!ENTITY recipientColumn.label "Destinatário">
 <!ENTITY attachmentColumn.label "Anexos">
 <!ENTITY subjectColumn.label "Assunto">
@@ -19,7 +18,6 @@
 <!ENTITY idColumn.label "Ordem de recebimento">
 <!ENTITY columnChooser.tooltip "Clique para selecionar quais colunas mostrar">
 <!ENTITY threadColumn.tooltip "Clique para agrupar pelo tópico">
-<!ENTITY senderColumn.tooltip "Clique para ordenar pelo remetente">
 <!ENTITY recipientColumn.tooltip "Clique para ordenar pelo destinatário">
 <!ENTITY attachmentColumn.tooltip "Clique para ordenar por anexos">
 <!ENTITY subjectColumn.tooltip "Clique para ordenar pelo assunto">
@@ -36,7 +34,7 @@
 <!ENTITY flagColumn.tooltip "Clique para ordenar pela sinalização">
 <!ENTITY locationColumn.tooltip "Clique para ordenar pela pasta">
 <!ENTITY idColumn.tooltip "Clique para ordenar pela ordem de recebimento">
-<!ENTITY fromColumn.label "From">
-<!ENTITY fromColumn.tooltip "Click to sort by from">
-<!ENTITY receivedColumn.label "Received">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY fromColumn.label "Remetente">
+<!ENTITY fromColumn.tooltip "Clique para ordenar pelo remetente">
+<!ENTITY receivedColumn.label "Recebida">
+<!ENTITY receivedColumn.tooltip "Clique para ordenar por data de recebimento">

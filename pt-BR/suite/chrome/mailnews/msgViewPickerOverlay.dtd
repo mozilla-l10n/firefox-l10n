@@ -16,5 +16,5 @@
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "Personalizar...">
 <!ENTITY viewCustomizeView.accesskey "z">
-<!ENTITY viewNotDeleted.accesskey "D">
-<!ENTITY viewNotDeleted.label "Not Deleted">
+<!ENTITY viewNotDeleted.accesskey "d">
+<!ENTITY viewNotDeleted.label "Não apagadas">
