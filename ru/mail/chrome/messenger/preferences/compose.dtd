@@ -30,8 +30,6 @@
 <!ENTITY languagePopup.label "Язык:">
 <!ENTITY languagePopup.accessKey "з">
 <!ENTITY downloadDictionaries.label "Загрузить дополнительные словари">
-<!ENTITY useMIME.label "Для сообщений, содержащих 8-битные символы, использовать MIME-кодирование «quoted printable»">
-<!ENTITY useMIME.accesskey "б">
 <!ENTITY warnOnSendAccelKey.label "Запрашивать подтверждение при использовании клавиатурных сокращений для отправки сообщений">
 <!ENTITY warnOnSendAccelKey.accesskey "п">
 <!ENTITY autoSave.label "Автоматически сохранять сообщение каждые">
