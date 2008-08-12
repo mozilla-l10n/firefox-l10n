@@ -41,6 +41,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip		"Usuń z listy pliki, których pobieranie zostało zakończone, anulowane lub nie powiodło się" >
 <!ENTITY cmd.clearList.accesskey		"w" >
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label 		"Zamknij okno po zakończeniu pobierania" >
 <!ENTITY closeWhenDone.tooltip 		"Zamknij okno po zakończeniu pobierania wszystkich plików" >
