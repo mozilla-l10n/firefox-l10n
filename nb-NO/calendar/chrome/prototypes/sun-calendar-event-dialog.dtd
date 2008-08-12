@@ -128,8 +128,8 @@
 
 <!ENTITY event.help.label                                 "Hjelp">
 <!ENTITY event.help.accesskey                             "H">
-<!ENTITY event.help.release.notes.label                   "Versjonsnotat">
-<!ENTITY event.help.release.notes.accesskey               "V">
+<!ENTITY event.help.release.notes.label                   "Utgivelsesmerknader">
+<!ENTITY event.help.release.notes.accesskey               "U">
 <!ENTITY event.help.help.label                            "&brandShortName; hjelp">
 <!ENTITY event.help.help.accesskey                        "h">
 <!ENTITY event.help.about.label                           "Om &brandShortName;">
@@ -167,7 +167,7 @@
 <!ENTITY task.from.label                                  "Start:" >
 <!ENTITY task.from.accesskey                              "a">
 <!ENTITY event.to.label                                   "Slutt:" >
-<!ENTITY event.to.accesskey                               "S">
+<!ENTITY event.to.accesskey                               "l">
 <!ENTITY task.to.label                                    "Forfallsdato:" >
 <!ENTITY task.to.accesskey                                "o">
 <!ENTITY task.status.label                                "Status:" >
@@ -301,9 +301,9 @@
 <!ENTITY event.recurrence.range.label                   "Varighet på gjentakelse">
 <!ENTITY event.recurrence.forever.label                 "Ingen sluttdato" >
 <!ENTITY event.recurrence.repeat.for.label              "Opprett" >
-<!ENTITY event.recurrence.appointments.label            "Avtale(r)" >
-<!ENTITY event.repeat.until.label                       "gjenta til" >
-<!ENTITY event.recurrence.preview.label                 "Forhåndsvis">
+<!ENTITY event.recurrence.appointments.label            "avtaler" >
+<!ENTITY event.repeat.until.label                       "Gjenta til" >
+<!ENTITY event.recurrence.preview.label                 "Forhåndsvisning">
 
 <!-- Reminder dialog -->
 

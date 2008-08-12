@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY migration.title "&brandFullName;: dataimport">
+<!ENTITY migration.title "&brandFullName;: Dataimport">
 <!ENTITY migration.welcome "Velkommen">
 <!ENTITY migration.importing "Importerer">
 <!ENTITY migration.list.description "&brandShortName; kan importere kalenderdata fra mange populære programmer. Data fra følgende programmer ble funnet på datamaskinen din. Velg hvilke av disse du ønsker å importere data fra.">

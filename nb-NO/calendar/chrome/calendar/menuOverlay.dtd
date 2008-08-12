@@ -87,9 +87,9 @@
 <!ENTITY calendar.subscribe.label               "Abonner på ekstern kalender …">
 <!ENTITY calendar.subscribe.accesskey           "A">
 
-<!ENTITY calendar.reloadserver.label            "Last eksterne kalendere på nytt">
+<!ENTITY calendar.reloadserver.label            "Hent eksterne kalendere på nytt">
 <!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "L">
+<!ENTITY calendar.reloadserver.accesskey        "H">
 
 <!ENTITY calendar.publish.label                 "Publiser …">
 <!ENTITY calendar.publish.accesskey             "b">
@@ -210,11 +210,11 @@
 
 <!ENTITY editMenu.label                         "Rediger">
 <!ENTITY editMenu.accesskey                     "R">
-<!ENTITY optionsCmd.label                       "Innstillinger…">
+<!ENTITY optionsCmd.label                       "Innstillinger …">
 <!ENTITY optionsCmd.accesskey                   "I">
 <!ENTITY preferencesCmd.label                   "Innstillinger">
 <!ENTITY preferencesCmd.accesskey               "I">
-<!ENTITY preferencesCmdMac.label                "Innstillinger…">
+<!ENTITY preferencesCmdMac.label                "Innstillinger …">
 <!ENTITY preferencesCmdMac.commandkey           ",">
 <!ENTITY preferencesCmdMac.modifiers            "accel">
 

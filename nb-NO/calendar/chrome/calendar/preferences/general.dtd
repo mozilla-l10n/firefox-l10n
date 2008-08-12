@@ -41,14 +41,14 @@
   -->
 
 <!ENTITY pref.mainbox.label "Generelle innstillinger" >
-<!ENTITY pref.dateformat.label "Tekstformat for datoer:" >
+<!ENTITY pref.dateformat.label "Datoformat:" >
 <!ENTITY pref.dateformat.accesskey "T">
 <!ENTITY pref.dateformat.long "Lang" >
 <!ENTITY pref.dateformat.short "Kort"  >
-<!ENTITY pref.defaultlength.label "Standard hendelseslengde:" >
+<!ENTITY pref.defaultlength.label "Standard lengde på hendelser:" >
 <!ENTITY pref.defaultlength.accesskey "n">
-<!ENTITY pref.defaultsnoozelength.label "Standard pauselengde:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "o">
-<!ENTITY pref.refreshbox.label "Oppfrisk innstillinger" >
+<!ENTITY pref.defaultsnoozelength.label "Standard lengde på pause:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "a">
+<!ENTITY pref.refreshbox.label "Oppdatering" >
 <!ENTITY pref.autorefresh.label "Oppdater kalendere hver" >
 <!ENTITY pref.autorefresh.accesskey "O" >

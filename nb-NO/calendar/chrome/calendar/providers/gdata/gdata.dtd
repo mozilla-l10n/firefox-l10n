@@ -43,6 +43,6 @@
 <!ENTITY gdata.migration.description "Leseren for Google Kalender har oppdaget at du har kalendre som bare kan få tilgang til Google Kalender i lesemodus. Dersom du ønsker å oppgradere noen av disse kalendrene, så velg de nedenfor">
 <!ENTITY gdata.migration.upgrade.label "Oppgrader">
 <!ENTITY gdata.migration.upgrade.accesskey "O">
-<!ENTITY gdata.migration.showagain.label "Alltid kontroller ">
+<!ENTITY gdata.migration.showagain.label "Alltid kontroller">
 
 <!ENTITY gdata.reminder.action.sms.label "Send en tekstmelding">

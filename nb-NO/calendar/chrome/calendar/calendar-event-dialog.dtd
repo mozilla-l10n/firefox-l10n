@@ -39,11 +39,11 @@
 
 <!ENTITY newevent.from.label                "Fra" >
 <!ENTITY newevent.to.label                  "Til" >
-<!ENTITY newevent.attendees.sendEmail.label "Send deltakerinvitasjon via e-post">
+<!ENTITY newevent.attendees.sendEmail.label "Send invitasjon til deltakere via e-post">
 
 <!ENTITY newevent.status.label              "Status" >
 <!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "Ikke angitt" >
+<!ENTITY newevent.status.none.label         "Ikke oppgitt" >
 <!ENTITY newevent.status.cancelled.label    "Avlyst" >
 <!ENTITY newevent.status.tentative.label    "Tentativ" >
 <!ENTITY newevent.status.confirmed.label    "Bekreftet" >
