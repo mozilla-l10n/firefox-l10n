@@ -5,13 +5,13 @@
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Šlamšto kontrolės nuostatos atskiroms paskyroms parenkamos paskyrų nuostatų lange.">
-<!ENTITY manualMark.label "Pažymėjus, kad laiškas yra šlamštas:">
+<!ENTITY manualMark.label "Pažymėjus, kad laiškai yra šlamštas:">
 <!ENTITY manualMark.accesskey "P">
-<!ENTITY manualMarkModeMove.label "perkelti jį į paskyros aplanką „Šlamštas“">
+<!ENTITY manualMarkModeMove.label "perkelti juos į paskyros aplanką „Šlamštas“">
 <!ENTITY manualMarkModeMove.accesskey "k">
-<!ENTITY manualMarkModeDelete.label "pašalinti jį">
+<!ENTITY manualMarkModeDelete.label "pašalinti juos">
 <!ENTITY manualMarkModeDelete.accesskey "š">
-<!ENTITY markAsReadOnSpam.label "Laiškus, turinčius šlamšto statusą, žymėti kaip skaitytus">
+<!ENTITY markAsReadOnSpam.label "Laiškus, įgijusius šlamšto statusą, žymėti kaip skaitytus">
 <!ENTITY markAsReadOnSpam.accesskey "L">
 <!ENTITY enableJunkLogging.label "Įrašyti šlamšto filtravimo veiksmus">
 <!ENTITY enableJunkLogging.accesskey "r">

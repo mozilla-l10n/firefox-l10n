@@ -37,7 +37,7 @@
 <!ENTITY convertEmoticons.accesskey    "J">
 
 <!-- tags -->
-<!ENTITY displayTagsText.label     "Parinkite laiškų gairių pavadinimus ir spalvas. Pagal gaires bus galima grupuoti laiškus ir nustatyti jų prioritetus">
+<!ENTITY displayTagsText.label     "Pagal gaires galima grupuoti laiškus ir nustatyti jų prioritetus.">
 <!ENTITY addTagButton.label        "Nauja gairė…">
 <!ENTITY addTagButton.accesskey    "N">
 <!ENTITY editTagButton.label       "Taisyti">
