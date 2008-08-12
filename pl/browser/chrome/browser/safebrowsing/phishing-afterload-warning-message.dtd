@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "To nie jest oszustwo…">
 <!ENTITY safeb.palm.report.label "Dlaczego ta witryna została zablokowana?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Ta strona może być niebezpieczna; kliknij, by uzyskać więcej informacji.">
-
 <!ENTITY safeb.blocked.malware.title "Witryna zgłoszona jako dokonująca ataków!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Witryna <span id='malware_sitename'/> została zgłoszona jako witryna stanowiąca zagrożenie i została zablokowana zgodnie z ustawieniami bezpieczeństwa.">
