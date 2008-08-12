@@ -29,3 +29,8 @@
 <!ENTITY policies.label "Políticas de segurança">
 <!ENTITY mousewheel.label "Roda do mouse">
 <!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
+<!ENTITY content.label "Content">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY images.label "Images">
+<!ENTITY locationBar.label "Location Bar">
+<!ENTITY popups.label "Popup Windows">

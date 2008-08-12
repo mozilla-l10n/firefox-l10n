@@ -12,3 +12,6 @@
 <!ENTITY subscribedHeader.label "Inscrever">
 <!ENTITY namefield.label "Localizar item:">
 <!ENTITY namefield.accesskey "Z">
+<!-- commenting out until bug 38906 is fixed--> 
+<!ENTITY messagesHeader.label         "Messages"> <!ENTITY newGroupsTab.accesskey       "N">
+<!ENTITY newGroupsTab.label           "New Groups">

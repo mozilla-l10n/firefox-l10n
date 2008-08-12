@@ -21,3 +21,8 @@
 <!ENTITY FieldDiscWarning.label "Esta categoria será usada para todos os nomes do catálogo de endereços selecionado: ">
 <!ENTITY importDialog.homeTitle "Residencial">
 <!ENTITY importDialog.workTitle "Comercial">
+
+<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
+<!ENTITY importDialog.allTitle    "Import everything">
+<!ENTITY importDialog.filtersTitle "Filters">
+<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">

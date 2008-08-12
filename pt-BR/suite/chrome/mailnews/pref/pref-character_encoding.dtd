@@ -11,3 +11,5 @@
 <!ENTITY sendDefaultCharset.accesskey "C">
 <!ENTITY replyInDefaultCharset.label "Sempre usar a codificação padrão ao responder (se desmarcado, a codificação padrão será usada somente em novas mensagens).">
 <!ENTITY replyInDefaultCharset.accesskey "r">
+<!ENTITY replyInDefaultCharset2.accesskey "W">
+<!ENTITY replyInDefaultCharset2.label    "When possible, use this default character encoding in replies. (When unchecked, only new messages use this default.)">

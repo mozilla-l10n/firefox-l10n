@@ -23,3 +23,12 @@
 <!ENTITY useSmoothScroll.accesskey "s">
 <!ENTITY languageList.txt.label "Selecione um idioma para o &brandShortName;. Esta opção afeta os textos que aparecem nas janelas, menus, barras de ferramentas e títulos dos botões. Você deve reiniciar o &brandShortName; para que a mudança de idioma tenha efeito.">
 <!ENTITY languageList.label "Selecione o idioma de sua preferência para o &brandShortName;:">
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+--><!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY pref.locales.title                     "User Interface Language">
+
+<!ENTITY restartOnLangChange.label              "Language preferences will take effect when you restart &brandShortName;.">
+<!ENTITY selectLocale.label                     "Select the language for text that appears in dialog boxes, menus, toolbars and button labels:">

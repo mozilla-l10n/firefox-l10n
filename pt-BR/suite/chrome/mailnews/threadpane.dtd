@@ -36,3 +36,7 @@
 <!ENTITY flagColumn.tooltip "Clique para ordenar pela sinalização">
 <!ENTITY locationColumn.tooltip "Clique para ordenar pela pasta">
 <!ENTITY idColumn.tooltip "Clique para ordenar pela ordem de recebimento">
+<!ENTITY fromColumn.label "From">
+<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY receivedColumn.label "Received">
+<!ENTITY receivedColumn.tooltip "Click to sort by date received">

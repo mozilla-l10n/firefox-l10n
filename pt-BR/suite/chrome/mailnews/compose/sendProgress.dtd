@@ -6,3 +6,5 @@
 <!ENTITY percentMsg "#1&#037;">
 <!ENTITY messageSent "Sua mensagem foi enviada">
 <!ENTITY messageSaved "Sua mensagem foi salva">
+<!ENTITY progress.label "Progress:">
+<!ENTITY status.label "Status:">

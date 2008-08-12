@@ -22,3 +22,10 @@
 <!ENTITY offlineState.accesskey "f">
 <!ENTITY autoSelectLastProfile.label "Sempre usar este perfil">
 <!ENTITY autoSelectLastProfile.accesskey "s">
+
+<!ENTITY availableProfiles.label "Perfis disponíveis">
+<!ENTITY introStart.label "Para acessar teu perfil, que contém tuas mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &start.label; para iniciar tua sessão.">
+<!ENTITY introSwitch.label "Para mudar para outro perfil, que contém mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &start.label; para começar a usá-lo.">
+<!ENTITY profileManager.title "&brandShortName; Gerenciador de perfis">
+<!ENTITY profileManagerText.label "&brandShortName; armazena informação acerca de tuas configurações, preferências, marcadores, mensagens armazena e outros items de usuário no teu perfil.">
+<!ENTITY windowTitle.label "Selecionar perfil de usuário">

@@ -32,3 +32,6 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "Excluir todos...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "t">
+<!ENTITY inReplyToField.label "In-Reply-To: ">
+<!ENTITY messageIdField.label "Message-ID: ">
+<!ENTITY referencesField.label "References: ">

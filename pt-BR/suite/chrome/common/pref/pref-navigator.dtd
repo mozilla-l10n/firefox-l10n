@@ -34,3 +34,10 @@
 <!ENTITY homeButton.accesskey "i">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.accesskey "c">
+<!ENTITY alreadyDefaultText             "&brandShortName; is already your default browser.">
+<!ENTITY defaultBrowserButton.accesskey "D">
+<!ENTITY defaultBrowserButton.label     "Set Default Browser">
+
+<!ENTITY defaultBrowserGroup.label      "Default Browser">
+<!ENTITY defaultPendingText             "&brandShortName; will be set as your default browser when you click OK.">
+<!ENTITY makeDefaultText                "Set &brandShortName; as your default browser.">

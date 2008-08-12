@@ -72,3 +72,12 @@
 <!ENTITY bidiSwitchTextDirectionItem.label "Alternar a direção do texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey        "p">
+<!ENTITY dontShowMessage.accesskey    "N">
+<!ENTITY dontShowMessage.label        "Não exibir esta mensagem quando popups forem bloqueados">
+<!ENTITY showPopupManager.accesskey   "G">
+<!ENTITY showPopupManager.label       "Gerenciar popups">
+<!ENTITY updateCmd.accesskey                    "B">
+<!ENTITY updateCmd.label                        "Buscar por atualizações…">

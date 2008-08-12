@@ -32,3 +32,7 @@
 <!ENTITY results.label "resultados">
 <!ENTITY offlineText.label "Você pode fazer uma cópia local deste diretório para usá-lo quando estiver em modo desconectado.">
 <!ENTITY newDirectoryWidth "36em">
+<!-- Localization note: this is here because the width of the dialog 
+     is determined by the width of the base DN box; and that is likely
+     to vary somewhat with the language.
+-->

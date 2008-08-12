@@ -11,7 +11,7 @@
 <!ENTITY selectall.accesskey "A">
 <!ENTITY closeWindow.key "w">
 <!ENTITY generalTab "Geral">
-<!ENTITY generalAccesskey "G">
+<!ENTITY generalTab.accesskey  "G">
 <!ENTITY generalTitle "Título:">
 <!ENTITY generalURL "Endereço:">
 <!ENTITY generalMode "Renderização:">
@@ -27,7 +27,7 @@
 <!ENTITY generalMetaName "Nome">
 <!ENTITY generalMetaContent "Valor">
 <!ENTITY formsTab "Formulários">
-<!ENTITY formsAccesskey "F">
+<!ENTITY formsTab.accesskey "F">
 <!ENTITY formAction "Ação">
 <!ENTITY formMethod "Método">
 <!ENTITY formName "Nome">
@@ -40,7 +40,7 @@
 <!ENTITY formType "Tipo">
 <!ENTITY formCValue "Valor atual">
 <!ENTITY linksTab "Links">
-<!ENTITY linksAccesskey "L">
+<!ENTITY linksTab.accesskey "L">
 <!ENTITY linkNo "Número">
 <!ENTITY linkName "Nome">
 <!ENTITY linkAddress "Endereço">
@@ -48,7 +48,13 @@
 <!ENTITY linkTarget "Abre em">
 <!ENTITY linkAccessKey "Tecla de acesso">
 <!ENTITY mediaTab "Mídia">
-<!ENTITY mediaAccesskey "M">
+<!ENTITY  mediaTab.accesskey    "M">
+<!-- fuzzy -->
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!-- fuzzy -->
+<!ENTITY  mediaSaveAs2.accesskey "r">
+<!ENTITY  mediaSize             "Tamanho">
+
 <!ENTITY mediaHeader "Imagens nesta página">
 <!ENTITY mediaURL "Endereço:">
 <!ENTITY mediaBase "Endereço base:">
@@ -74,3 +80,51 @@
 <!ENTITY frameName "Nome">
 <!ENTITY frameAddress "Endereço">
 <!ENTITY frameType "Tipo">
+
+<!ENTITY  feedSubscribe         "Se inscrever">
+<!ENTITY  feedSubscribe.accesskey "i">
+
+<!ENTITY  feedTab               "Feeds">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  generalSecurityMore   "Mais">
+<!ENTITY  generalSecurityMore.accesskey "a">
+
+
+<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
+<!ENTITY  permAllow             "Permitir">
+<!ENTITY  permAllowSession      "Permitir para sessão">
+<!ENTITY  permBlock             "Bloquear">
+<!ENTITY  permCookie            "Definir Cookies">
+<!ENTITY  permImage             "Carregar imagens">
+<!ENTITY  permInstall           "Instalar extensões ou temas">
+<!ENTITY  permPopup             "Abrir janelas popup">
+
+<!ENTITY  permTab               "Permissões">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Usar padrão">
+<!ENTITY  permissionsFor        "Permissões para:">
+<!ENTITY  securityHeader        "Informações de segurança para esta página">
+
+<!ENTITY  securityTab           "Segurança">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.certView "Ver certificado">
+<!ENTITY  securityView.identity.domain   "Site: ">
+
+
+<!ENTITY  securityView.identity.header   "Identidade do site">
+<!ENTITY  securityView.identity.owner    "Dono: ">
+<!ENTITY  securityView.identity.verifier "Verificado por: ">
+<!ENTITY  securityView.privacy.cookies "Este site está armazenando informações (cookies) no meu computador?">
+
+<!ENTITY  securityView.privacy.header                   "Privacidade &amp; histórico">
+<!ENTITY  securityView.privacy.history                  "Eu visitei este site hoje mais cedo?">
+<!ENTITY  securityView.privacy.passwords                "Eu tenho alguma senha salva para este site?">
+<!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.viewPasswords            "Ver senhas armazenadas">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "a">
+
+<!ENTITY  securityView.technical.header                 "Detalhes técnicos">
+<!ENTITY  securityView.unknown   "Desconhecido">

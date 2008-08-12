@@ -98,10 +98,14 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
 <!ENTITY spellAddToDictionary.label "Adicionar ao dicionário">
 <!ENTITY spellAddToDictionary.accesskey "d">
-<!ENTITY spellEnable.label "Verificar ortografia deste campo">
-<!ENTITY spellEnable.accesskey "V">
 <!ENTITY spellNoSuggestions.label "(Nenhuma sugestão)">
 <!ENTITY spellDictionaries.label "Idiomas">
 <!ENTITY spellDictionaries.accesskey "I">
 <!ENTITY spellAddDictionaries.label "Baixar mais dicionários...">
 <!ENTITY spellAddDictionaries.accesskey "x">
+<!ENTITY reloadImageCmd.label         "Recarregar imagem">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY spellCheckEnable.label         "Verificar ortografia">
+<!ENTITY spellCheckEnable.accesskey     "V">
+<!ENTITY spellIgnoreWord.label          "Ignorar palavra">
+<!ENTITY spellIgnoreWord.accesskey      "I">

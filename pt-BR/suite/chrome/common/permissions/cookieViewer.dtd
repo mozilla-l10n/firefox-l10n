@@ -31,3 +31,4 @@
 <!ENTITY canLoad.label "pode carregar imagens">
 <!ENTITY cannotLoad.label "não pode carregar imagens">
 <!ENTITY checkbox.label "Não aceitar novos cookies de sites que tiveram cookies removidos">
+<!ENTITY     buttonaccept.label             "Fechar">

@@ -8,3 +8,8 @@
 <!ENTITY searchTermListOperatorsFlexValue "4">
 <!ENTITY searchTermListValueFlexValue "4">
 <!ENTITY searchTermListButtonsFlexValue "2">
+<!-- LOCALIZATION NOTE  
+  The values below are used to control the widths of the search widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->

@@ -37,3 +37,13 @@
 <!ENTITY disableContent.accesskey "m">
 <!ENTITY useWhiteList.label "Permitir se o remetente estiver neste catálogo de endereços:">
 <!ENTITY useWhiteList.accesskey "a">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). --><!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
+<!ENTITY markAsReadDelay.accesskey        "e">
+
+<!ENTITY markAsReadDelay.label            "After displaying for">
+<!ENTITY markAsReadNoDelay.accesskey      "d">
+<!ENTITY markAsReadNoDelay.label          "Immediately on display">
+<!ENTITY secondsLabel.label               "seconds">

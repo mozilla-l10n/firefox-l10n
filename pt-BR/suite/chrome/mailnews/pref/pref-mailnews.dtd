@@ -28,3 +28,9 @@
 <!ENTITY printButton.accesskey "I">
 <!ENTITY stopButton.label "Parar">
 <!ENTITY stopButton.accesskey "P">
+
+<!ENTITY defaultMailSettings.description  "Make &brandShortName; the default application for:">
+<!ENTITY setDefaultMail.accesskey         "M">
+<!ENTITY setDefaultMail.label             "Mail">
+<!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultNews.label             "News">

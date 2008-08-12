@@ -25,3 +25,6 @@
 <!ENTITY textsize.label "Tornar o texto maior ou menor">
 <!ENTITY textsize.accesskey "t">
 <!ENTITY textsizeHoriz.accesskey "e">
+<!ENTITY zoom.accesskey                  "Z">
+<!ENTITY zoom.label                      "Zoom the page in or out">
+<!ENTITY zoomHoriz.accesskey             "e">

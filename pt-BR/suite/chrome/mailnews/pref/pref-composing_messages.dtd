@@ -30,3 +30,5 @@
 <!ENTITY fontColor.accesskey "E">
 <!ENTITY bgColor.label "Plano de fundo:">
 <!ENTITY bgColor.accesskey "P">
+<!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
+     "xxx minutes", using a number and (autoSaveEnd.label). -->

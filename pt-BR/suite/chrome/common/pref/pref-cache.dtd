@@ -22,3 +22,5 @@
 <!ENTITY prefetchTitle.label "Baixar arquivos antecipadamente">
 <!ENTITY enablePrefetch.label "Pré-carregar páginas automaticamente se a conexão não estiver sendo utilizada (links que utilizem este recurso carregarão mais rápido)">
 <!ENTITY enablePrefetch.accesskey "C">
+<!---->
+ <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> 

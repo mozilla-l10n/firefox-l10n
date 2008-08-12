@@ -500,3 +500,40 @@
 <!ENTITY loadRemoteContentButton.label "Exibir conteúdo externo">
 <!ENTITY phishingBarMessage.label "O &brandShortName; acha que esta uma mensagem pode ser um golpe.">
 <!ENTITY removePhishingBarButton.label "Não é um golpe">
+<!ENTITY SearchSubjectOrFrom.accesskey "S">
+
+<!---SearchBar-->
+<!-- also used by addressbook -->
+<!ENTITY SearchSubjectOrFrom.label "Subject or From contains:">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
+<!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
+<!ENTITY contextReplySenderAndNewsgroup.label "Reply to Sender and Newsgroup">
+<!ENTITY customizeToolbar.accesskey             "C">
+<!ENTITY customizeToolbar.label                 "Customize…">
+<!ENTITY folderContextEmptyJunk.accesskey "J">
+<!ENTITY folderContextEmptyJunk.label "Empty Junk">
+<!ENTITY goBackButton.label "Go Back">
+<!ENTITY goBackButton.tooltip "Go back one message">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goBackCmd.label "Back">
+<!ENTITY goForwardButton.label "Go Forward">
+<!ENTITY goForwardButton.tooltip "Go forward one message">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goForwardCmd.label "Forward">
+<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Ignore Subthread">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY moveCopyMsgRecentMenu.label "Recent">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY replyAllButtonNews.tooltip "Reply to sender and newsgroup">
+<!ENTITY replyToAllRecipientsCmd.accesskey "a">
+<!ENTITY replyToAllRecipientsCmd.label "Reply to All Recipients">
+<!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Reply to Sender and Newsgroup">
+<!ENTITY sortByFromCmd.accesskey "F">
+<!ENTITY sortByFromCmd.label "From">
+<!ENTITY sortByReceivedCmd.accesskey "v">
+<!ENTITY sortByReceivedCmd.label "Received">

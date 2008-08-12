@@ -15,3 +15,9 @@
 <!ENTITY openJunkLog.accesskey "b">
 <!ENTITY resetTrainingData.label "Excluir o treinamento">
 <!ENTITY resetTrainingData.accesskey "t">
+<!ENTITY autoMarkAsRead.accesskey       "u">
+<!ENTITY autoMarkAsRead.label           "When &brandShortName; determines that they are junk">
+<!ENTITY manualMarkAsRead.accesskey     "k">
+<!ENTITY manualMarkAsRead.label         "When I manually mark them as junk">
+
+<!ENTITY markAsRead.intro               "Mark messages as read:">

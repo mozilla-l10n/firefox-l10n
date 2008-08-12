@@ -31,3 +31,5 @@
 <!ENTITY makeInboxMsgsAvailable.accesskey "a">
 <!ENTITY offlineGroupTitle.label "Modo desconectado">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
+<!ENTITY offlineSelectImap.accesskey "S">
+<!ENTITY offlineSelectNntp.accesskey "S">

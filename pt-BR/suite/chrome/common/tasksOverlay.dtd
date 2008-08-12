@@ -4,3 +4,47 @@
 <!ENTITY inspectorTaskCmd.accesskey "I">
 <!ENTITY inspectPageTaskCmd.label "Inspecionar página">
 <!ENTITY inspectPageTaskCmd.accesskey "I">
+
+<!ENTITY addonsManagerCmd.label "Gerenciador de extensões">
+<!ENTITY addonsManagerCmd.accesskey "e">
+<!ENTITY downloadManagerCmd.label "Gerenciador de downloads">
+<!ENTITY downloadManagerCmd.accesskey "d">
+
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label					"Composer">
+<!ENTITY editorCmd.accesskey				"c">
+<!ENTITY editorCmd.commandkey				"4">
+
+<!ENTITY errorConsoleCmd.label                                  "Console de erros">
+<!ENTITY errorConsoleCmd.accesskey				"C">
+
+<!ENTITY javaConsoleCmd.label					"Console Java">
+<!ENTITY javaConsoleCmd.accesskey				"J">
+<!-- extracted from tasksOverlay.xul -->
+<!ENTITY navigatorCmd.label "Navegador">
+<!ENTITY navigatorCmd.accesskey "N">
+<!ENTITY navigatorCmd.commandkey "1">
+
+<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
+<!ENTITY privacyMenu.label "Privacy &amp; Security">
+<!ENTITY privacyMenu.accesskey "p">
+
+<!ENTITY securityInfoCmd.label "Informações de segurança">  
+<!ENTITY securityInfoCmd.accesskey "s">
+
+<!ENTITY switchProfileCmd.label "Alternar perfil…">
+<!ENTITY switchProfileCmd.accesskey "A">
+
+<!ENTITY taskBar.tooltip  "Barra de Status">
+<!ENTITY taskComposer.tooltip  "Composer">
+
+<!ENTITY taskNavigator.tooltip  "Navegador">
+<!ENTITY tasksMenu.label "Ferramentas">
+<!ENTITY tasksMenu.accesskey "F"> 
+
+<!ENTITY webDevelopment.label "Desenvolvimento Web">
+<!ENTITY webDevelopment.accesskey "W">
+
+<!ENTITY windowMenu.label "Janela">
+<!ENTITY windowMenu.accesskey "J">
+

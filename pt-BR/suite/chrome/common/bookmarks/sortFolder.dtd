@@ -10,7 +10,7 @@
 <!ENTITY sortBy.lastModifiedDate.label "Modificado">
 <!ENTITY sortBy.lastVisitDate.label "Última visita">
 <!ENTITY sortOrder.label "Ordem:">
-<!ENTITY sortOrder.ascending.label "Crescente">
-<!ENTITY sortOrder.descending.label "Decrescente">
 <!ENTITY sortFoldersFirst.label "Pastas primeiro">
 <!ENTITY sortRecursively.label "Incluir subpastas">
+<!ENTITY sortAscending.label "Crescente">
+<!ENTITY sortDescending.label "Decrescente">

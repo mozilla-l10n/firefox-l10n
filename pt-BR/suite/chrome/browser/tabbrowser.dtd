@@ -12,3 +12,6 @@
 <!ENTITY bookmarkGroup.label "Criar marcador para o grupo...">
 <!ENTITY bookmarkGroup.accesskey "G">
 <!ENTITY newTabButton.tooltip "Abrir uma nova aba">
+<!ENTITY  closeTabButton.tooltip   "Fechar aba atual">
+<!ENTITY  undoCloseTab.label    "Desfazer fechar aba">
+<!ENTITY  undoCloseTab.accesskey  "D">

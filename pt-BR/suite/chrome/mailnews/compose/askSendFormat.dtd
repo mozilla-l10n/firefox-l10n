@@ -14,3 +14,7 @@
 <!ENTITY recommended.label "(recomendado)">
 <!ENTITY send.label "Enviar">
 <!ENTITY recipients.label "Destinatários...">
+<!ENTITY htmlOnly.accesskey "H">
+<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY send.accesskey "S">

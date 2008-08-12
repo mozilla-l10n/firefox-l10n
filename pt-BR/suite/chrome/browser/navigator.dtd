@@ -61,7 +61,9 @@
 <!ENTITY translateMenu.accesskey "T">
 <!ENTITY translate.commandKey "t">
 <!ENTITY closeOtherTabs.label "Fechar as outras abas">
+<!ENTITY closeOtherTabs.accesskey "o">
 <!ENTITY closeWindow.label "Fechar janela">
+<!ENTITY closeWindow.accesskey "F">
 <!ENTITY minimizeButton.tooltip "Minimizar">
 <!ENTITY restoreButton.tooltip "Restaurar">
 <!ENTITY bidiMenu.label "Opções Bidi">
@@ -164,3 +166,10 @@
 <!ENTITY popupIcon.tooltiptext "Um popup foi bloqueado - clique para desbloquear este site">
 <!ENTITY bidiSwitchPageDirectionItem.label "Alternar a direção da página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY clearPrivateDataCmd.accesskey "e">
+<!ENTITY clearPrivateDataCmd.label "Limpar dados pessoais…">
+<!ENTITY feedsMenu.label "Se inscrever para esta página">
+<!ENTITY feedsMenu.accesskey "S">
+<!ENTITY recentTabs.label "Abas fechadas recentemente">
+<!ENTITY recentTabs.accesskey "r">
+<!ENTITY recentTabs.commandkey "t">

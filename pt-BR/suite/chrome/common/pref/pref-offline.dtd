@@ -23,3 +23,16 @@
 <!ENTITY offlineCompact.label "Otimizar pastas quando puder liberar pelo menos">
 <!ENTITY offlineCompact.accesskey "T">
 <!ENTITY kb.label "KB">
+<!--LOCALIZATION NOTE (textStart): Don't translate "&brandShortName;".
+    Place "&brandShortName;" in the phrase where the name of the application should
+	 appear
+--><!ENTITY boxHeader  "Offline">
+<!ENTITY rHeader  "Offline">
+<!ENTITY radioAskMode  "Ask me if I want online or offline mode">
+<!ENTITY radioUsePrev  "Use my previous online/offline state"> 
+
+<!ENTITY textStart   "When starting &brandShortName;:">
+<!-- extracted from content/pref-offline.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+<!ENTITY window.title  "Offline">

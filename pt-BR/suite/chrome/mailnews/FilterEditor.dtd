@@ -42,3 +42,11 @@
 <!ENTITY fetchFromPOP.label "Baixar do servidor POP">
 <!ENTITY ignoreThread.label "Ignorar tópico">
 <!ENTITY watchThread.label "Monitorar tópico">
+<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextDesc.accesskey "w">
+
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY ignoreSubthread.label "Ignore Subthread">
+<!ENTITY stopExecution.label "Stop Filter Execution">

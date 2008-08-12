@@ -25,9 +25,9 @@
 <!ENTITY historyWindowTitle.label "Histórico">
 <!ENTITY menuitem.view.unsorted.label "Não ordenar">
 <!ENTITY menuitem.view.unsorted.accesskey "n">
-<!ENTITY menuitem.view.ascending.label "Ordem crescente">
-<!ENTITY menuitem.view.ascending.accesskey "o">
-<!ENTITY menuitem.view.descending.label "Ordem decrescente">
-<!ENTITY menuitem.view.descending.accesskey "d">
 <!ENTITY menuitem.view.show_columns.label "Colunas">
 <!ENTITY menuitem.view.show_columns.accesskey "U">
+<!ENTITY sortAscending.label         "Crescente">
+<!ENTITY sortAscending.accesskey     "C">
+<!ENTITY sortDescending.label        "Decrescente">
+<!ENTITY sortDescending.accesskey    "D">
