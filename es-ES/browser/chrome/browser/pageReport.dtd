@@ -1,7 +1,0 @@
-<!ENTITY caption.label "Ventanas emergentes bloqueadas">
-<!ENTITY intro.label "Se ha evitado que las siguientes páginas mostraran
-ventanas emergentes no solicitadas:">
-<!ENTITY done.label "Terminado">
-<!ENTITY done.accesskey "D">
-<!ENTITY unblock.label "Desbloquear sitio">
-<!ENTITY unblock.accesskey "U">
