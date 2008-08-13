@@ -10,7 +10,8 @@
 <!ENTITY  cancel.accesskey                "A">
 
 <!ENTITY  noupdatesfound.title            "Aucune mise à jour trouvée">
-<!ENTITY  noupdatesfound.intro            "Aucune mise à jour n'est disponible. &brandShortName; peut vérifier périodiquement si de nouvelles mises à jour sont disponibles.">
+<!ENTITY  noupdatesautoenabled.intro      "Aucune mise à jour n'est disponible. &brandShortName; peut vérifier périodiquement si des mises à jour sont disponibles.">
+<!ENTITY  noupdatesautodisabled.intro     "Aucune mise à jour n'est disponible. Veuillez vérifier à nouveau plus tard ou activez la vérification de mise à jour automatique de &brandShortName;.">
 
 <!ENTITY  incompatibleChecking.label      "Vérification pour voir si cette mise à jour causera des problèmes aux extensions et thèmes installés…">
 
