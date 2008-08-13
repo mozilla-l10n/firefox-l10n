@@ -10,8 +10,10 @@
 <!ENTITY  cancel.accesskey                "Z">
 
 <!ENTITY  noupdatesfound.title            "Nenájdené žiadne aktualizácie">
-<!ENTITY  noupdatesfound.intro            "Neboli nájdené žiadne nové aktualizácie. &brandShortName; môže 
+<!ENTITY  noupdatesautoenabled.intro      "Neboli nájdené žiadne aktualizácie. &brandShortName; bude
                                            pravidelne zisťovať ich dostupnosť.">
+<!ENTITY  noupdatesautodisabled.intro     "Nie sú dostupné žiadne aktualizácie. Skúste to neskôr alebo povoľte
+                                           automatickú kontrolu aktualizácií &brandShortName;u.">
 
 <!ENTITY  incompatibleChecking.label      "Kontroluje sa, či táto aktualizácia nespôsobí problémy s vašimi rozšíreniami/témami…">
 <!ENTITY  clickHere.label                 "Zobraziť viac informácií o tejto aktualizácii">
