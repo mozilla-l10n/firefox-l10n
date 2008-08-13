@@ -36,3 +36,5 @@
 <!ENTITY closeWhenDone.tooltip "Cierra la ventana de descargas cuando todos los archivos se hayan descargado">
 <!ENTITY showFolder.label "Mostrar esta carpeta">
 <!ENTITY searchBox.label "Buscar…">
+
+<!ENTITY cmd.search.commandKey            "k">

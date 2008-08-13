@@ -11,7 +11,6 @@
 <!ENTITY safeb.palm.decline.statustext "Cerrar advertencia">
 <!ENTITY safeb.palm.notforgery.label2 "No es un sitio fraudulento…">
 <!ENTITY safeb.palm.report.label "¿Por qué ha sido bloqueado este sitio?">
-<!ENTITY safeb.urlbaricon.tooltip "Esta página puede ser peligrosa; haga clic para más detalles.">
 <!ENTITY safeb.blocked.malware.title "¡Este sitio es una web atacante!">
 <!ENTITY safeb.blocked.malware.shortDesc "Este sitio web en <span id='malware_sitename'/> ha sido reportado como una web atacante y ha sido bloqueada basándose en sus preferencias de seguridad.">
 <!ENTITY safeb.blocked.malware.longDesc "<p>Los sitios atacantes intentan instalar programas que pueden robar información privada, usar su ordenador para atacar otros o dañar su sistema.</p>
