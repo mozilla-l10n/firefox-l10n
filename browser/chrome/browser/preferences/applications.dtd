@@ -7,8 +7,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "Hľadať:">
-<!ENTITY  filter.accesskey        "H">
-
-<!ENTITY  clear.label             "Vymazať">
-<!ENTITY  clear.accesskey         "V">
+<!ENTITY  filter.emptytext        "Hľadať"> 

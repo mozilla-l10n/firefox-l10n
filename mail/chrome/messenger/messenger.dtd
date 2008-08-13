@@ -333,7 +333,7 @@
 <!ENTITY moveMsgMenu.label "Presunúť">
 <!ENTITY moveMsgMenu.accesskey "r">
 <!ENTITY moveCopyMsgRecentMenu.label "Naposledy použité">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "a">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY copyMessageLocation.label "Kopírovať adresu správy">
 <!ENTITY copyMessageLocation.accesskey "s">
 <!ENTITY copyMsgMenu.label "Skopírovať">
@@ -597,7 +597,7 @@
 <!ENTITY contextMoveMsgMenu.label "Presunúť do">
 <!ENTITY contextMoveMsgMenu.accesskey "r">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Naposledy použité">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "i">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY contextCopyMsgMenu.label "Skopírovať do">
 <!ENTITY contextCopyMsgMenu.accesskey "k">
 <!ENTITY contextSaveAs.label "Uložiť ako…">
@@ -605,7 +605,7 @@
 <!ENTITY contextPrint.label "Tlačiť…">
 <!ENTITY contextPrint.accesskey "T">
 <!ENTITY contextPrintPreview.label "Ukážka pred tlačou">
-<!ENTITY contextPrintPreview.accesskey "d">
+<!ENTITY contextPrintPreview.accesskey "e">
 <!ENTITY contextDelete.label "Odstrániť">
 <!ENTITY contextDelete.accesskey "O">
 
@@ -649,9 +649,9 @@
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY copyLinkCmd.label "Kopírovať umiestnenie odkazu">
+<!ENTITY copyLinkCmd.label "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey "K">
-<!ENTITY copyImageCmd.label "Kopírovať umiestnenie obrázka">
+<!ENTITY copyImageCmd.label "Kopírovať adresu obrázka">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Kopírovať e-mailovú adresu">
 <!ENTITY copyEmailCmd.accesskey "e">
