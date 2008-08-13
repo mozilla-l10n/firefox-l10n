@@ -374,7 +374,7 @@
 <!ENTITY copyMsgMenu.label "Skopírovať">
 <!ENTITY copyMsgMenu.accesskey "k">
 <!ENTITY moveCopyMsgRecentMenu.label "Naposledy použité">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "a">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "N">
 <!ENTITY killThreadMenu.label "Ignorovať vlákno">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
@@ -540,7 +540,7 @@
 <!ENTITY contextPrint.label "Tlačiť…">
 <!ENTITY contextPrint.accesskey "T">
 <!ENTITY contextPrintPreview.label "Ukážka pred tlačou">
-<!ENTITY contextPrintPreview.accesskey "d">
+<!ENTITY contextPrintPreview.accesskey "e">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Prijať správy">

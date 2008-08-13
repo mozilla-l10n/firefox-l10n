@@ -653,15 +653,16 @@
 <rdf:Description about="#cust">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="cust-doc" nc:name="Sidebar"  nc:link="customize_help.xhtml#sidebar"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-tabbed" nc:name="Tabbed Browsing"  nc:link="customize_help.xhtml#tabbed_browsing"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-font" nc:name="Changing Fonts, Colors, and Themes"  nc:link="customize_help.xhtml#changing_fonts_colors_and_themes"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-toolbar" nc:name="Toolbars"  nc:link="customize_help.xhtml#toolbars"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-bkmk" nc:name="Bookmarks"  nc:link="customize_help.xhtml#bookmarks"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-page" nc:name="Specifying How &brandShortName; Starts Up"  nc:link="customize_help.xhtml#specifying_how_mozilla_starts_up"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="appearance_pref" nc:name="Appearance Preferences" nc:link="cs_nav_prefs_appearance.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="navigator_pref_navigator" nc:name="Browser Preferences" nc:link="cs_nav_prefs_navigator.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="advanced_pref_advanced" nc:name="Advanced Preferences" nc:link="cs_nav_prefs_advanced.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-doc" nc:name="Bočný panel"  nc:link="customize_help.xhtml#sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-tabbed" nc:name="Prehliadanie na kartách"  nc:link="customize_help.xhtml#tabbed_browsing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-font" nc:name="Zmena písma, farieb a tém"  nc:link="customize_help.xhtml#changing_fonts_colors_and_themes"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-toolbar" nc:name="Panely s nástrojmi"  nc:link="customize_help.xhtml#toolbars"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-bkmk" nc:name="Záložky"  nc:link="customize_help.xhtml#bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-page" nc:name="Spustenie
+      &brandShortName;"  nc:link="customize_help.xhtml#specifying_how_mozilla_starts_up"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref" nc:name="Nastavenia vzhľadu" nc:link="cs_nav_prefs_appearance.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="navigator_pref_navigator" nc:name="Nastavenia prehliadača" nc:link="cs_nav_prefs_navigator.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="advanced_pref_advanced" nc:name="Rozšírené nastavenia" nc:link="cs_nav_prefs_advanced.xhtml"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -669,13 +670,13 @@
  <rdf:Description about="#cust-doc">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="cust-sidebar-define" nc:name="What is Sidebar?"  nc:link="customize_help.xhtml#what_is_sidebar"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-openclose" nc:name="Opening, Closing, and Resizing Sidebar"  nc:link="customize_help.xhtml#opening_closing_and_resizing_sidebar"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-using" nc:name="Viewing Sidebar Tabs"  nc:link="customize_help.xhtml#viewing_sidebar_tabs"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-adding" nc:name="Adding Sidebar Tabs"  nc:link="customize_help.xhtml#adding_sidebar_tabs"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-indiv" nc:name="Customizing Individual Sidebar Tabs"  nc:link="customize_help.xhtml#customizing_individual_sidebar_tabs"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-reorg" nc:name="Reorganizing Sidebar Tabs"  nc:link="customize_help.xhtml#reorganizing_sidebar_tabs"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-sidebar-removing" nc:name="Removing Sidebar Tabs"  nc:link="customize_help.xhtml#removing_sidebar_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-define" nc:name="Čo je bočný panel?"  nc:link="customize_help.xhtml#what_is_sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-openclose" nc:name="Otvorenie, zatvorenie a zmena veľkosti bočného panela"  nc:link="customize_help.xhtml#opening_closing_and_resizing_sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-using" nc:name="Zobrazenie kariet bočného panela"  nc:link="customize_help.xhtml#viewing_sidebar_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-adding" nc:name="Pridanie kariet bočného panela"  nc:link="customize_help.xhtml#adding_sidebar_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-indiv" nc:name="Prispôsobenie individuálnych kariet bočného panela"  nc:link="customize_help.xhtml#customizing_individual_sidebar_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-reorg" nc:name="Usporiadanie kariet bočného panela"  nc:link="customize_help.xhtml#reorganizing_sidebar_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-sidebar-removing" nc:name="Odstránenie kariet bočného panela"  nc:link="customize_help.xhtml#removing_sidebar_tabs"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>

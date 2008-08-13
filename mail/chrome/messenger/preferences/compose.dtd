@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey             "a">
 <!ENTITY downloadDictionaries.label          "Prevziať ďalšie slovníky">
 
-<!ENTITY useMIME.label                       "Pre správy obsahujúce 8-bitové znaky používať MIME kódovanie znakov">
-<!ENTITY useMIME.accesskey                   "M">
 <!ENTITY warnOnSendAccelKey.label            "Žiadať potvrdenie pri odosielaní správy pomocou klávesovej skratky">
 <!ENTITY warnOnSendAccelKey.accesskey        "v">
 <!ENTITY autoSave.label                      "Automaticky ukladať každých">
