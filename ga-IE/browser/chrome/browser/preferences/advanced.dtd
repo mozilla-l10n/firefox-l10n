@@ -6,7 +6,7 @@
 
 <!ENTITY useCursorNavigation.label "Úsáid eochracha cúrsóra i gcónaí chun bogadh laistigh de leathanaigh">
 <!ENTITY useCursorNavigation.accesskey "e">
-<!ENTITY searchStartTyping.label "Cuardaigh téacs nuair a thosóidh mé ag clóbhualadh">
+<!ENTITY searchStartTyping.label "Cuardaigh téacs nuair a thosóidh mé ag clóscríobh">
 <!ENTITY searchStartTyping.accesskey "t">
 <!ENTITY blockAutoRefresh.label "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht leathanach a athluchtú nó a atreorú.">
 <!ENTITY blockAutoRefresh.accesskey "b">
@@ -31,7 +31,7 @@
 
 <!ENTITY connection.label "Ceangal">
 
-<!ENTITY connectionDesc.label "Cumraigh conas a nascfar &brandShortName; leis an Idirlíon">
+<!ENTITY connectionDesc.label "Cumraigh conas a cheanglófar &brandShortName; leis an Idirlíon">
 <!ENTITY connectionSettings.label "Socruithe…">
 <!ENTITY connectionSettings.accesskey "e">
 
