@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey "y">
 <!ENTITY downloadDictionaries.label "Stáhnout další slovníky">
 
-<!ENTITY useMIME.label "Pro zprávy, které obsahují 8-bitové znaky, používat MIME kódování 'quoted printable'">
-<!ENTITY useMIME.accesskey "k">
 <!ENTITY warnOnSendAccelKey.label "Při odeslání zprávy pomocí klávesové zkratky požadovat potvrzení">
 <!ENTITY warnOnSendAccelKey.accesskey "P">
 <!ENTITY autoSave.label "Automaticky ukládat každých">
