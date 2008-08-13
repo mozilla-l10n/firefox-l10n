@@ -387,7 +387,7 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Kennzeichnung">
 <!ENTITY markStarredCmd.accesskey "k">
-<!ENTITY markStarredCmd.key "i">
+<!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Junk">
 <!ENTITY markAsJunkCmd.accesskey "J">
 <!ENTITY markAsJunkCmd.key "j">
