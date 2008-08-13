@@ -6,7 +6,8 @@
 <!ENTITY cancel.label "Cancelar">
 <!ENTITY cancel.accesskey "C">
 <!ENTITY noupdatesfound.title "No se encontraron actualizaciones">
-<!ENTITY noupdatesfound.intro "No hay nuevas actualizaciones disponibles. &brandShortName; puede comprobar                                            periódicamente si hay nuevas actualizaciones.">
+<!ENTITY  noupdatesautoenabled.intro      "No hay actualizaciones disponibles. &brandShortName; comprobará periódicamente si hay actualizaciones.">
+<!ENTITY  noupdatesautodisabled.intro     "No hay actualizaciones disponibles. Por favor, prueba de nuevo más tarde o activa la opción de actualización automática de &brandShortName;.">
 <!ENTITY incompatibleChecking.label "Comprobando si esta actualización causará problemas en sus extensiones y/o temas…">
 <!ENTITY clickHere.label "Ver más información sobre esta actualización">
 <!ENTITY incompatible.warning "Esta actualización causará que algunas de las extensiones y/o temas                                            dejen de funcionar hasta que se actualicen.">
