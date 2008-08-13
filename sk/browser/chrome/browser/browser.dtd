@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey "b">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Zobraziť zdrojový kód výberu">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Zobraziť zdrojový kód MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "r">
 <!ENTITY viewPageSourceCmd.label "Zobraziť zdrojový kód stránky">
 <!ENTITY viewPageSourceCmd.accesskey "k">

@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Toto nie je podozrivá webová stránka…">
 <!ENTITY safeb.palm.report.label "Prečo bola táto stránka zablokovaná?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Táto stránka môže byť nebezpečná; kliknutím zobrazíte podrobnosti.">
-
 <!ENTITY safeb.blocked.malware.title "Nahlásená škodlivá stránka!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Webová stránka <span id='malware_sitename'/> bola označená ako podvodná a na základe nastavení zabezpečenia bola zablokovaná.">
