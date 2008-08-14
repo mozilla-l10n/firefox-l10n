@@ -6,7 +6,8 @@
 <!ENTITY cancel.label "Отмена">
 <!ENTITY cancel.accesskey "н">
 <!ENTITY noupdatesfound.title "Обновления отсутствуют">
-<!ENTITY noupdatesfound.intro "Обновления отсутствуют. &brandShortName; может периодически проверять наличие обновлений.">
+<!ENTITY noupdatesautoenabled.intro "Обновления отсутствуют. &brandShortName; будет периодически проверять наличие обновлений.">
+<!ENTITY noupdatesautodisabled.intro "Обновления отсутствуют. Пожалуйста, проверьте позже, или включите в &brandShortName; функцию автоматической проверки наличия обновлений.">
 <!ENTITY incompatibleChecking.label "Идет проверка, не вызовет ли это обновление проблемы с установленными у вас расширениями и/или темами…">
 <!ENTITY clickHere.label "Просмотреть более подробную информацию об этом обновлении">
 <!ENTITY incompatible.warning "Это обновление приведёт к тому, что некоторые из ваших дополнений перестанут работать до тех пор, пока они не будут обновлены.">
