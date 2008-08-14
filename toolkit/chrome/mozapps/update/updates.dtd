@@ -6,7 +6,8 @@
 <!ENTITY cancel.label "Annulla">
 <!ENTITY cancel.accesskey "A">
 <!ENTITY noupdatesfound.title "Nessun aggiornamento trovato">
-<!ENTITY noupdatesfound.intro "Non vi sono nuovi aggiornamenti disponibili. &brandShortName; può controllare periodicamente la presenza di nuovi aggiornamenti.">
+<!ENTITY noupdatesautoenabled.intro "Non sono disponibili nuovi aggiornamenti. &brandShortName; controllerà periodicamente la presenza di aggiornamenti.">
+<!ENTITY noupdatesautodisabled.intro "Non sono disponibili nuovi aggiornamenti. Ricontrollare più tardi o attivare il controllo automatico degli aggiornamenti di &brandShortName;.">
 <!ENTITY incompatibleChecking.label "Verifica in corso dell'aggiornamento per compatibilità con le estensioni o i temi installati…">
 <!ENTITY clickHere.label "Visualizza altre informazioni su questo aggiornamento">
 <!ENTITY incompatible.warning "Questo aggiornamento bloccherà il funzionamento di alcuni temi o estensioni
