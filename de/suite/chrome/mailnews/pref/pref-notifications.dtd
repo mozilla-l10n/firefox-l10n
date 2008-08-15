@@ -50,7 +50,7 @@
 <!ENTITY preview.accesskey                "V">
 <!ENTITY systemsound.label                "Systemklang für &quot;Neue Nachricht&quot;">
 <!ENTITY systemsound.accesskey            "S">
-<!ENTITY customsound.label                "Benutzerdefinierte .wav-Datei">
+<!ENTITY customsound.label                "Benutzerdefinierte Klang-Datei">
 <!ENTITY customsound.accesskey            "B">
 <!ENTITY browse.label                     "Durchsuchen…">
 <!ENTITY browse.accesskey                 "D">
