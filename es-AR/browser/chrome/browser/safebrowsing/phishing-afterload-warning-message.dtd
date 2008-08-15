@@ -15,7 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Este sitio no es falso…">
 <!ENTITY safeb.palm.report.label "¿Por qué fue bloqueado este sitio?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Esta página puede ser peligrosa; haga clic para obtener detalles.">
 <!ENTITY safeb.blocked.malware.title "¡Sitio sospechoso de ataque!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Este sitio web en <span id='malware_sitename'/> ha sido informado como un sitio de ataque y ha sido bloqueado basado en sus preferencias de seguridad.">

@@ -38,6 +38,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip "Elimina descargas completas, canceladas o falladas de la lista">
 <!ENTITY cmd.clearList.accesskey "a">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label "Cerrar cuando se completen las descargas">
 <!ENTITY closeWhenDone.tooltip "Cerrar la ventana de descargas cuanto todos los archivos estén descargados">
