@@ -59,7 +59,7 @@
 <!ENTITY columnChooser.tooltip "Klicken Sie, um die anzuzeigenden Spalten auszuwählen"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "K">
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopieren">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Namen kopieren">
