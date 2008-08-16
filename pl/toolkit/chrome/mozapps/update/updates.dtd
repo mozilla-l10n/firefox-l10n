@@ -10,7 +10,9 @@
 <!ENTITY  cancel.accesskey                "A">
 
 <!ENTITY  noupdatesfound.title            "Nie znaleziono żadnych aktualizacji">
-<!ENTITY  noupdatesfound.intro            "Brak nowych aktualizacji. &brandShortName; może okresowo sprawdzać, czy dostępne są nowe aktualizacje."> 
+<!ENTITY  noupdatesautoenabled.intro      "Brak dostępnych aktualizacji. &brandShortName; okresowo sprawdza dostępność aktualizacji.">
+<!ENTITY  noupdatesautodisabled.intro     "Brak dostępnych aktualizacji. Prosimy sprawdzić później lub włączyć automatyczne sprawdzanie
+dostępności aktualizacji w programie &brandShortName;">
 
 <!ENTITY  incompatibleChecking.label      "Sprawdzanie, czy ta aktualizacja spowoduje problemy z zainstalowanymi rozszerzeniami lub motywami...">
 
