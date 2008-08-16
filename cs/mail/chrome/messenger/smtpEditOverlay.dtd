@@ -19,7 +19,7 @@
 <!ENTITY sometimesSTARTTLS.accesskey "S">
 <!ENTITY alwaysSTARTTLS.label "STARTTLS">
 <!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP pomoc� SSL">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP pomocí SSL">
 <!ENTITY alwaysSMTPOverSSL.accesskey "L">
 <!ENTITY smtpEditTitle.label "SMTP server">
 <!ENTITY serverPortDefault.label "Výchozí:">
