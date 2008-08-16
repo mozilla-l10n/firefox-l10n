@@ -10,7 +10,9 @@
 <!ENTITY cancel.accesskey "Z">
 
 <!ENTITY noupdatesfound.title "Aktualizace nenalezeny">
-<!ENTITY noupdatesfound.intro "Nebyly nalezeny žádné nové aktualizace. Aplikace &brandShortName; může pravidelně zjišťovat jejich dostupnost.">
+<!ENTITY noupdatesautoenabled.intro "Nebyly nalezeny žádné nové aktualizace. Aplikace &brandShortName; bude pravidelně zjišťovat jejich dostupnost.">
+
+<!ENTITY noupdatesautodisabled.intro "Nebyly nalezeny žádné nové aktualizace. Opakujte kontrolu později nebo povolte aplikaci &brandShortName; automatické zjišťování dostupnosti.">
 
 
 <!ENTITY incompatibleChecking.label "Zkontrolovat, zda tato aktualizace způsobí problémy s Vašimi doplňky…">
