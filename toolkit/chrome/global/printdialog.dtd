@@ -3,7 +3,7 @@
 <!ENTITY fpDialog.title "Guardar archivo">
 <!ENTITY fileCheck.label "Imprimir a fichero">
 <!ENTITY propertiesButton.label "Propiedades…">
-<!ENTITY descText.label "Descripción de la impresora">
+<!ENTITY descText.label "Descripción de la impresora:">
 <!ENTITY printer.label "Impresora">
 <!ENTITY printerInput.label "Impresora:">
 <!ENTITY printrangeGroup.label "Rango de impresión">

@@ -38,7 +38,7 @@
 <!ENTITY errorConsole.title "Consola de errores">
 <!ENTITY errFile.label "Archivo de origen:">
 <!ENTITY errLine.label "Línea:">
-<!ENTITY errColumn.label "Columna">
+<!ENTITY errColumn.label "Columna:">
 <!ENTITY all.label "Todos">
 <!ENTITY all.accesskey "T">
 <!ENTITY errors.label "Errores">

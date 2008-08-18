@@ -1,8 +1,8 @@
 <!ENTITY printJobOptions.title "Propiedades de la impresora">
 <!ENTITY paperInput.label "Tamaño del papel:">
 <!ENTITY plexInput.label "Modo plex:">
-<!ENTITY resolutionInput.label "Resolución/Calidad">
-<!ENTITY cmdInput.label "Comando de impresión">
+<!ENTITY resolutionInput.label "Resolución/calidad:">
+<!ENTITY cmdInput.label "Orden para imprimir:">
 <!ENTITY jobTitleInput.label "Título del trabajo:">
 <!ENTITY colorGroup.label "Color:">
 <!ENTITY grayRadio.label "Escala de grises">
