@@ -47,13 +47,13 @@
 <!ENTITY enable.tls.accesskey "T">
 
 <!ENTITY warn.description "&brandShortName; peut vous avertir du statut de sécurité de la page Web courante. Régler &brandShortName; pour afficher une avertissement et me demander la permission avant :">
-<!ENTITY warn.enteringsecure "d'entrer sur un site qui supporte le chiffrement">
+<!ENTITY warn.enteringsecure "d'entrer sur un site qui prend en charge le chiffrement">
 <!ENTITY warn.enteringsecure.accesskey "e">
 <!ENTITY warn.enteringweak "d'entrer sur un site qui utilise un chiffrement de bas niveau">
 <!ENTITY warn.enteringweak.accesskey "n">
 <!ENTITY warn.insecurepost "d'envoyer des données d'une page non sécurisée à une page non sécurisée">
 <!ENTITY warn.insecurepost.accesskey "v">
-<!ENTITY warn.leavingsecure "de quitter une page qui supporte le chiffrement des données.">
+<!ENTITY warn.leavingsecure "de quitter une page qui prend en charge le chiffrement des données.">
 <!ENTITY warn.leavingsecure.accesskey "q">
 <!ENTITY warn.secureredirect "la redirection d'un site sécurisé vers un autre site sécurisé">
 <!ENTITY warn.secureredirecttoinsecure "la redirection d'un site sécurisé vers un site non sécurisé">

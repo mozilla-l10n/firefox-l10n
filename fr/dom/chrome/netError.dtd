@@ -28,7 +28,7 @@
 <!ENTITY netOffline.longDesc "<p>Le navigateur est actuellement hors connexion et ne peut se connecter au site.</p><ul><li>L'ordinateur est-il connecté au réseau ?</li><li>Passez en mode connecté et réessayer.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erreur d'encodage de contenu">
-<!ENTITY contentEncodingError.longDesc "<p>La page que vous essayez de voir ne peut être affichée car elle utilise un type de compression invalide ou non supporté.</p><ul><li>Veuillez contacter le webmestre du site pour l'informer de ce problème.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>La page que vous essayez de voir ne peut être affichée car elle utilise un type de compression invalide ou non pris en charge.</p><ul><li>Veuillez contacter le webmestre du site pour l'informer de ce problème.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Type de fichier non sûr">
 <!ENTITY unsafeContentType.longDesc "
