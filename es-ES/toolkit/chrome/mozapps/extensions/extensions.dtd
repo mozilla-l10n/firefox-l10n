@@ -100,7 +100,7 @@
 <!ENTITY toBeEnabled.label "Este complemento se activará cuando se reinicie &brandShortName;.">
 <!ENTITY toBeInstalled.label "Este complemento se instalará cuando se reinicie &brandShortName;.">
 <!ENTITY toBeUninstalled.label "Este complemento se desinstalará cuando se reinicie &brandShortName;.">
-<!ENTITY toBeUpdated.label "Este complemento se actualizará cuando se reinicie &brandShortName;">
+<!ENTITY toBeUpdated.label "Este complemento se actualizará cuando se reinicie &brandShortName;.">
 <!ENTITY getExtensions.label "Obtener extensiones">
 <!ENTITY getThemes.label "Obtener temas">
 <!ENTITY getPlugins.label "Obtener plugins">

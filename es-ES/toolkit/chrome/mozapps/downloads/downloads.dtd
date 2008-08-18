@@ -32,9 +32,8 @@
 <!ENTITY cmd.clearList.tooltip "Elimina descargas completadas, canceladas y fallidas de la lista">
 <!ENTITY cmd.clearList.accesskey "L">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 <!ENTITY closeWhenDone.label "Cerrar cuando se completen las descargas">
 <!ENTITY closeWhenDone.tooltip "Cierra la ventana de descargas cuando todos los archivos se hayan descargado">
 <!ENTITY showFolder.label "Mostrar esta carpeta">
 <!ENTITY searchBox.label "Buscar…">
-
-<!ENTITY cmd.search.commandKey            "k">
