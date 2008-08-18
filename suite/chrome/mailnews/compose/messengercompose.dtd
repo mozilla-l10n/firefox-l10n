@@ -1,0 +1,261 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Laiško rašymas">
+
+<!ENTITY fromAddr.label "Kas:">
+<!ENTITY fromAddr.accesskey "K">
+<!ENTITY subject.label  "Tema:">
+<!ENTITY subject.accesskey "m">
+<!ENTITY attachments.label "Priedai:">
+<!ENTITY attachments.accesskey "e">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY newMessage.label "Laiškas">  
+<!ENTITY newMessage.accesskey "L">  
+<!ENTITY saveCmd.label "Įrašyti">
+<!ENTITY saveCmd.key "s">
+<!ENTITY saveCmd.accesskey "r">
+<!ENTITY saveAsCmd.label "Įrašyti kaip">
+<!ENTITY saveAsCmd.accesskey "k">
+<!ENTITY saveAsFileCmd.label "Failas…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Juodraštis">
+<!ENTITY saveAsDraftCmd.accesskey "J">
+<!ENTITY saveAsTemplateCmd.label "Šablonas">
+<!ENTITY saveAsTemplateCmd.accesskey "Š">
+<!ENTITY attachMenu.label "Pridėti">
+<!ENTITY attachMenu.accesskey "d">
+<!ENTITY attachFileCmd.label "failą(-us)…">
+<!ENTITY attachFileCmd.key "">
+<!ENTITY attachFileCmd.accesskey "f">
+<!ENTITY attachPageCmd.label "tinklalapį…">
+<!ENTITY attachPageCmd.accesskey "t">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "asmeninę kortelę (vCard)">
+<!ENTITY attachVCardCmd.accesskey "a">
+<!ENTITY sendNowCmd.label "Išsiųsti">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "I">
+<!ENTITY sendLaterCmd.label "Išsiųsti vėliau">
+<!ENTITY sendLaterCmd.keycode "VK_ENTER">
+<!ENTITY sendLaterCmd.accesskey "v">
+<!ENTITY printSetupCmd.label "Puslapio nuostatos…">
+<!ENTITY printSetupCmd.accesskey "P">
+<!ENTITY printCmd.label "Spausdinti…">
+<!ENTITY printCmd.key "p">
+<!ENTITY printCmd.accesskey "S">
+<!ENTITY closeCmd.label "Užverti">
+
+<!-- Edit menu items -->
+<!ENTITY editRewrapCmd.label "Laužyti iš naujo">
+<!ENTITY editRewrapCmd.accesskey  "n">
+<!ENTITY findCmd.label "Ieškoti ir pakeisti…">
+<!ENTITY findCmd.key "f">
+<!ENTITY findCmd.accesskey "I">
+<!ENTITY findAgainCmd.label "Ieškoti toliau">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.accesskey "e">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Ieškoti ankstesnio">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "o">
+<!ENTITY accountManagerCmd.label "Paskyrų nuostatos…">
+<!ENTITY accountManagerCmd.accesskey "P">
+
+<!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "Pašto mygtukų juosta">
+<!ENTITY showComposeToolbarCmd.accesskey "P">
+<!ENTITY showFormatToolbarCmd.label "Formatavimo juosta">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showParagraphMarksCmd.label ".Rodyti pastraipų ženklus">
+<!ENTITY pageSourceCmd.label ".tinklalapio pirminis tekstas">
+<!ENTITY pageSourceCmd.accesskey "r">
+<!ENTITY pageInfoCmd.label ".Informacija apie tinklalapį">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY dcharMenu.label "Koduotė">
+<!ENTITY dcharIso1Cmd.label "Vakarų Europos (ISO-8859-1)">
+<!ENTITY dcharIso2Cmd.label "Vidurio Europos (ISO-8859-2)">
+<!ENTITY dcharIso3Cmd.label "Pietų Europos (ISO-8859-3)">
+<!ENTITY dcharIso4Cmd.label "Šiaurės šalių (ISO-8859-4)">
+<!ENTITY dcharIso9Cmd.label "Turkų (ISO-8859-9)">
+<!ENTITY dcharIso10Cmd.label "Šiaurės šalių (ISO-8859-10)">
+<!ENTITY dcharIso14Cmd.label "Keltų (ISO-8859-14)">
+<!ENTITY dcharIso15Cmd.label "Vakarų Europos (ISO-8859-15)">
+<!ENTITY dcharJapanCmd.label "Japonų (ISO-2022-JP)">
+<!ENTITY dcharTradChiBigCmd.label "Kinų tardicinė (Big5)">
+<!ENTITY dcharSimpChiGbCmd.label "Kinų supaprastintoji (GB2312)">
+<!ENTITY dcharKoreanCmd.label "Korėjiečių (EUC-KR)">
+<!ENTITY dcharUtf8Cmd.label "Unikodas (UTF-8)">
+<!ENTITY dcharRusCmd.label "Kirilica (KOI8-R)">
+<!ENTITY dcharUkrCmd.label "Kirilica ukrainiečių (KOI8-U)">
+<!ENTITY dcharIsoGreekCmd.label "Graikų (ISO-8859-7)">
+<!ENTITY dcharVietViCmd.label "Vietnamiečių (VISCII)">
+<!ENTITY dcharThaiCmd.label "Tailando (TIS-620)">
+<!ENTITY dcharArmCmd.label "Armėnų (ARMSCII-8)">
+<!ENTITY dcharDEFAULT.label "Laikyti išsiunčiamų laiškų numatytąją koduote">
+
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "Formatas">
+<!ENTITY formatMenu.accesskey "F">
+
+<!-- Options menu items -->
+<!ENTITY optionsMenu.label "Parinktys">
+<!ENTITY optionsMenu.accesskey "a">
+
+<!ENTITY doNotCompleteAddrCmd.label ".Pagal surinktą pradžią adreso neužbaigti">
+<!ENTITY showMatchingAddrCmd.label ".Rodyti tekstus, kurių pradžios sutampa su surinktu tekstu">
+
+<!ENTITY addSignatureCmd.label ".Pridėti vizitinės kortelės failą">
+
+<!ENTITY quoteCmd.label "Cituoti originalų laišką">
+<!ENTITY quoteCmd.accesskey "C">
+<!ENTITY selectAddressCmd.label "Parinkti adresatus…">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "d">
+
+<!ENTITY checkSpellingCmd.label "Tikrinti rašybą…">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.accesskey "r">
+<!ENTITY enableInlineSpellChecker.label "Tikrinti rašybą renkant tekstą">
+<!ENTITY enableInlineSpellChecker.accesskey "s">
+
+<!ENTITY priorityMenu.label "Prioritetas">
+<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY lowestPriorityCmd.label "Žemiausias">
+<!ENTITY lowestPriorityCmd.accesskey "Ž">
+<!ENTITY lowPriorityCmd.label "Žemas">
+<!ENTITY lowPriorityCmd.accesskey "e">
+<!ENTITY normalPriorityCmd.label "Normalus">
+<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY highPriorityCmd.label "Aukštas">
+<!ENTITY highPriorityCmd.accesskey "u">
+<!ENTITY highestPriorityCmd.label "Aukščiausias">
+<!ENTITY highestPriorityCmd.accesskey "A">
+
+<!ENTITY returnReceiptMenu.label "Pranešimas apie pristatymą">
+<!ENTITY returnReceiptMenu.accesskey "r">
+<!ENTITY outputFormatMenu.label "Siunčiamo teksto tipas">
+<!ENTITY outputFormatMenu.accesskey  "t">
+<!ENTITY autoFormatCmd.label "Parenka programa">
+<!ENTITY autoFormatCmd.accesskey "P">
+<!ENTITY plainTextFormatCmd.label "Grynasis tekstas">
+<!ENTITY plainTextFormatCmd.accesskey "G">
+<!ENTITY htmlFormatCmd.label "Raiškusis tekstas (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "R">
+<!ENTITY bothFormatCmd.label "Abiejų tipų tekstai (grynasis ir raiškusis)">
+<!ENTITY bothFormatCmd.accesskey "A">
+
+<!ENTITY UuencodeAttachmentCmd.label "Priedus koduoti „Uuencode“ būdu">
+
+
+<!ENTITY fileCarbonCopyCmd.label "Laiško kopiją įdėti į">
+<!ENTITY fileCarbonCopyCmd.accesskey "L">
+<!ENTITY fileHereMenu.label "Perkelti į aplanką">
+
+<!--LOCALIZATION NOTE Debug Menu Don't translate anything in the Debug menu section -->
+<!-- Debug Menu, imported from editorAppShell.dtd -->
+<!ENTITY debugMenu.label "Derinimas">
+<!ENTITY outputTextCmd.label "Išvesti tekstą">
+<!ENTITY outputHTMLCmd.label "Išvesti HTML">
+<!ENTITY insertTextCmd.label "Įterpti tekstą">
+<!ENTITY testSelectionCmd.label "Tikrinti pažymėtą">
+<!ENTITY testTableLayoutCmd.label "Tikrinti lentelės maketą">
+<!ENTITY testDocumentCmd.label "Tikrinti dokumentą">
+<!ENTITY showEmbeddedCmd.label "Rodyti įdėtinius objektus">
+<!ENTITY dumpContentCmd.label "Pateikti atmintinės turinio medį">
+<!ENTITY runUnitTestsCmd.label "Vykdyti testus">
+<!ENTITY startLogCmd.label "Pradėti seansą">
+<!ENTITY stopLogCmd.label "Baigti seansą">
+<!ENTITY runLogCmd.label "Vykdyti seansą">
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!-- Toolbar items -->
+<!ENTITY sendButton.label "Išsiųsti">
+<!ENTITY quoteButton.label "Cituoti">
+<!ENTITY addressButton.label "Adresatai">
+<!ENTITY attachButton.label "Pridėti">
+<!ENTITY spellingButton.label "Tikrinti rašybą">
+<!ENTITY saveButton.label "Įrašyti">
+<!ENTITY stopButton.label "Stabdyti">
+
+<!--tooltips-->
+<!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+<!ENTITY addressBar.tooltip "Adresų juosta">
+<!ENTITY formatToolbar.tooltip "Formatavimo mygtukų juostą">
+<!ENTITY sendButton.tooltip "Išsiųsti laišką dabar"> 
+<!ENTITY sendlaterButton.tooltip "Išsiųsti laišką vėliau"> 
+<!ENTITY quoteButton.tooltip "Cituoti ankstesnį laišką"> 
+<!ENTITY addressButton.tooltip "Parinkti laiško gavėjus iš adresų knygos"> 
+<!ENTITY attachButton.tooltip "Pridėti priedą prie šio laiško"> 
+<!ENTITY saveButton.tooltip "Įrašyti šį laišką"> 
+<!ENTITY stopButton.tooltip "Stabdyti atsiuntimą"> 
+
+<!-- Toolbar items, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+
+<!-- context menu items -->
+<!ENTITY spellCheckNoSuggestions.label "(Nėra siūlymų)">
+<!ENTITY spellCheckIgnoreWord.label "Praleisti">
+<!ENTITY spellCheckIgnoreWord.accesskey "i">
+<!ENTITY spellCheckAddToDictionary.label "Įtraukti į žodyną">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "Atšaukti">
+<!ENTITY undo.accesskey "A">
+<!ENTITY cut.label "Iškirpti">
+<!ENTITY cut.accesskey "r">
+<!ENTITY copy.label "Kopijuoti">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Įdėti">
+<!ENTITY paste.accesskey "d">
+<!ENTITY pasteQuote.label "Įdėti kaip citatą">
+<!ENTITY pasteQuote.accesskey "c">
+
+<!ENTITY openAttachment.label "Atverti">
+<!ENTITY openAttachment.accesskey "A">
+<!ENTITY delete.label "Pašalinti">
+<!ENTITY delete.accesskey "š">
+<!ENTITY renameAttachment.label "Pervardinti…">
+<!ENTITY renameAttachment.accesskey "P">
+<!ENTITY selectAll.label "Pažymėti viską">
+<!ENTITY selectAll.accesskey "v">
+<!ENTITY attachFile.label "Pridėti failą">
+<!ENTITY attachFile.accesskey "d">
+<!ENTITY attachPage.label "Pridėti tinklalapį…">
+<!ENTITY attachPage.accesskey "t">

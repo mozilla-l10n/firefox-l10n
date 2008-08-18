@@ -1,0 +1,24 @@
+
+<!ENTITY  editType.label                        "Taisyti tipo aprašą">
+<!ENTITY  newType.label                         "Naujas tipas">
+<!ENTITY  extension.label                       "Prievardis:">
+<!ENTITY  extension.accesskey                   "P">
+<!--LOCALIZATION NOTE (mimeType): 'MIME' should not be translated -->
+<!ENTITY  mimetype.label                        "MIME tipas:">
+<!ENTITY  mimetype.accesskey                    "M">
+<!ENTITY  description.label                     "Aprašas:">
+<!ENTITY  description.accesskey                 "A">
+
+<!ENTITY  handling.label                        "Šio tipo failus">
+<!ENTITY  useDefault.label                      "Atverti numatytąja programa">
+<!ENTITY  useDefault.accesskey                  "n">
+<!ENTITY  saveToDisk.label                      "Įrašyti į diską">
+<!ENTITY  saveToDisk.accesskey                  "r">
+<!ENTITY  application.label                     "Atverti su programa">
+<!ENTITY  application.accesskey                 "A">
+
+<!ENTITY  browse.label                          "Parinkti…">
+<!ENTITY  browse.accesskey                      "r">
+
+<!ENTITY  askBeforeOpen.label                   "Paklausti prieš atveriant šio tipo failą">
+<!ENTITY  askBeforeOpen.accesskey               "k">

@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+<!--  HELP Glossary SECTION -->
+  <rdf:Description about="urn:root" nc:base="chrome://help/locale/glossary.html">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description nc:name="adresas" nc:link="glossary.html#bookmark"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="apsimetimas kitu" nc:link="glossary.html#misrepresentation"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="asmeninė mygtukų juosta" nc:link="glossary.html#personal_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="atšauktų liudijimų sąrašas" nc:link="glossary.html#certificate_revocation_list"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="atveriančioji programa" nc:link="glossary.html#helper_application"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="būsenos paliudijimo tinklu protokolas (OCSP)" nc:link="glossary.html#Online_Certificate_Status_Protocol"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="failų persiuntimo protokolas (FTP)" nc:link="glossary.html#File_Transfer_Protocol"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="hipertekstų kalba HTML" nc:link="glossary.html#Hypertext_Markup_Language"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="informacijos perimtis" nc:link="glossary.html#eavesdropping"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="intelektualioji kortelė" nc:link="glossary.html#smart_card"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="internetas" nc:link="glossary.html#Internet"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="IP adresas" nc:link="glossary.html#Internet_protocol_address"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="iššifravimas" nc:link="glossary.html#decryption"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="JAV informacijos apdorojim standartai (FIPS PUBS 140-1)" nc:link="glossary.html#FIPS_PUBS_140-1"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="Java" nc:link="glossary.html#Java"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="JavaScript" nc:link="glossary.html#JavaScript"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="klastotės aptikimas" nc:link="glossary.html#tamper_detection"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="klientas" nc:link="glossary.html#client"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="kliento SSL liudijimas" nc:link="glossary.html#client_SSL_certificate"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="kliento tapatumo nustatymas" nc:link="glossary.html#client_authentication"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="kontrolinis kodas" nc:link="glossary.html#fingerprint"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="kontrolinis liudijimo kodas" nc:link="glossary.html#certificate_fingerprint"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="kriptografija" nc:link="glossary.html#cryptography"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="kriptografija viešuoju raktu" nc:link="glossary.html#public-key_cryptography"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="kriptografijos viešųjų raktų standartas PKCS Nr. 11" nc:link="glossary.html#PKCS_11"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="kriptografijos viešųjų raktų standarto PKCS Nr. 11 modulis" nc:link="glossary.html#PKCS_11_module"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="kriptografinis algoritmas" nc:link="glossary.html#cryptographic_algorithm"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="LĮ" nc:link="glossary.html#CA"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="LĮ liudijimas" nc:link="glossary.html#CA_certificate"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="liudijimas" nc:link="glossary.html#certificate"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="liudijimo atsarginės kopijos slaptažodis" nc:link="glossary.html#certificate_backup_password"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="liudijimų atnaujinimas" nc:link="glossary.html#certificate_renewal"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="liudijimų grandinė" nc:link="glossary.html#certificate_chain"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="liudijimų įstaiga (LĮ)" nc:link="glossary.html#certificate_authority"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="liudijimų patikra" nc:link="glossary.html#certificate_verification"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="liudijimų tvarkytuvė" nc:link="glossary.html#Certificate_Manager"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="lizdas" nc:link="glossary.html#slot"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="negalėjimas išsižadėti" nc:link="glossary.html#nonrepudiation"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="objektų pasirašymas" nc:link="glossary.html#object_signing"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="objektų pasirašymo liudijimas" nc:link="glossary.html#object-signing_certificate"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="pagrindinis raktas" nc:link="glossary.html#master_key"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="pagrindinis slaptažodis" nc:link="glossary.html#master_password"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="ieškyklė" nc:link="glossary.html#search_engine"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="paliudijamasis tapatumo nustatymas" nc:link="glossary.html#certificate-based_authentication"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="pasaulinis žiniatinklis" nc:link="glossary.html#World_Wide_Web"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="pasirašymo liudijimas" nc:link="glossary.html#signing_certificate"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="pasirašymo raktas" nc:link="glossary.html#signing_key"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="pašto protokolas POP" nc:link="glossary.html#POP_glossary"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="pasitikėjimas" nc:link="glossary.html#trust"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="pavaldžioji LĮ" nc:link="glossary.html#subordinate_CA"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="podėlis" nc:link="glossary.html#cache"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="pradžios tinklalapis" nc:link="glossary.html#home_page"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="prieigos prie siuntų internete protokolas (IMAP)" nc:link="glossary.html#IMAP_glossary"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="privatusis raktas" nc:link="glossary.html#private_key"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="programinė saugumo piremonė" nc:link="glossary.html#software_security_device"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="programos papildinys" nc:link="glossary.html#plug-in"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="raktas" nc:link="glossary.html#key"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="saugiųjų sujungimų lygmuo (SSL)" nc:link="glossary.html#Secure_Sockets_Layer"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="saugumo liudijimas" nc:link="glossary.html#security_certificate"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="saugumo modulis" nc:link="glossary.html#security_module"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="saugumo priemonė" nc:link="glossary.html#security_device"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="serverio SSL liudijimas" nc:link="glossary.html#server_SSL_certificate"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="serverio tapatumo nustatymas" nc:link="glossary.html#server_authentication"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="serveris" nc:link="glossary.html#server"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="simetrinis šifravimas" nc:link="glossary.html#symmetric_encryption"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="skaitmeninis tapatumo liudijimas" nc:link="glossary.html#digital_ID"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="skaitmeninis parašas" nc:link="glossary.html#digital_signature"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="slaptažodinis tapatumo nustatymas" nc:link="glossary.html#password-based_authentication"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="slapukas" nc:link="glossary.html#cookie"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="SSL" nc:link="glossary.html#SSL"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="Standartas P3P" nc:link="glossary.html#p3p"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="subjektas" nc:link="glossary.html#subject"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="subjekto vardas" nc:link="glossary.html#subject_name"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="sudvejintos raktų poros" nc:link="glossary.html#dual_key_pairs"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="supaprastintos kreipties į katalogus protokolas (LDAP)" nc:link="glossary.html#LDAP_glossary"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="svetainė" nc:link="glossary.html#web_site"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="svetimas slapukas" nc:link="glossary.html#third-party_cookie"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="šifras" nc:link="glossary.html#cipher"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="tapatumo nustatymas" nc:link="glossary.html#authentication"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="tinklalapis" nc:link="glossary.html#web_page"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="tinklaviečių juosta" nc:link="glossary.html#location_bar"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="TLS" nc:link="glossary.html#TLS"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="TCP/IP protokolas" nc:link="glossary.html#Transmission_Control_Protocol_Internet_Protocol"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="unikalus vardas" nc:link="glossary.html#distinguished_name"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="universalusis adresas (URL)" nc:link="glossary.html#Uniform_Resource_Locator"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="užšifravimas" nc:link="glossary.html#encryption"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="užšifravimo liudijimas" nc:link="glossary.html#encryption_certificate"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="užšifravimo raktas" nc:link="glossary.html#encryption_key"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="viešasis raktas" nc:link="glossary.html#public_key"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="viešojo rakto infrastruktūra" nc:link="glossary.html#public-key_infrastructure"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="vyriausioji LĮ" nc:link="glossary.html#root_CA"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="visiškas sutikimas" nc:link="glossary.html#implicit_consent"/> </rdf:li>
+
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+</rdf:RDF>

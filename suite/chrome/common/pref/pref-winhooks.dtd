@@ -1,0 +1,30 @@
+<!-- LOCALIZATION NOTE : FILE "Windows integration" preferences -->
+
+<!ENTITY pref.winHooks.title  "Sistema">
+
+<!-- These entities are used on the "File Types" section of the dialog. -->
+<!ENTITY files.label          "Failų tipai">
+<!ENTITY html.label           "HTML dokumentai">
+<!ENTITY jpeg.label           "JPEG paveikslai">
+<!ENTITY gif.label            "GIF paveikslai">
+<!ENTITY png.label            "PNG paveikslai">
+<!ENTITY xbm.label            "XBM paveikslai">
+<!ENTITY bmp.label            "BMP paveikslai">
+<!ENTITY ico.label            "ICO paveikslai">
+<!ENTITY xml.label            "XML dokumentai">
+<!ENTITY xhtml.label          "XHTML dokumentai">
+<!ENTITY xul.label            "XUL dokumentai">
+
+<!-- These entities are used on the "Protocols" section of the dialog. -->
+<!ENTITY protocols.label      "Laikyti „&brandShortName;“ numatytąja programa darbui su šiais protokolais:">
+<!ENTITY http.label           "Hipertekstų persiuntimo protokolas (http:)">
+<!ENTITY https.label          "Saugusis HTTP protokolas (https:)">
+<!ENTITY ftp.label            "Failų persiuntimo protokolas (ftp:)">
+<!--LOCALIZATION NOTE (chrome.label): Don't translate 'chrome' -->
+<!ENTITY chrome.label         "„Chrome“ protokolas (chrome:)">
+<!ENTITY gopher.label         "Goferio protokolas (gopher:)">
+
+<!-- This entity is for the "show this dialog" checkbox. -->
+<!ENTITY showDialog.label     "Įspėti, kai kitos programos pakeis šias nuostatas">
+<!ENTITY showDialog.accesskey "k">
+

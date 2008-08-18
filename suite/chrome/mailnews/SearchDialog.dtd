@@ -1,0 +1,40 @@
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Kur ieškoti:">
+<!ENTITY searchHeading.accesskey     "K">
+<!ENTITY searchSubfolders.label      "Ieškoti poaplankiuose">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchLocalSystem.label     "Ieškoti šiame kompiuteryje">
+<!ENTITY searchLocalSystem.accesskey "y">
+<!ENTITY resetButton.label           "Išvalyti">
+<!ENTITY resetButton.accesskey       "v">
+<!ENTITY helpButton.label            "Žinynas">
+<!ENTITY helpButton.accesskey        "Ž">
+<!ENTITY optionsButton.label         "Parinktys">
+<!ENTITY closeButton.label           "Užverti">
+<!ENTITY openButton.label            "Atverti">
+<!ENTITY openButton.accesskey        "A">
+<!ENTITY deleteButton.label          "Pašalinti">
+<!ENTITY deleteButton.accesskey      "š">
+<!ENTITY searchDialogTitle.label     "Laiškų paieška">
+<!ENTITY conditionDesc.label         "Ieškoti laiškų, kurie:">
+<!ENTITY conditions.label            "Kriterijus">
+<!ENTITY results.label               "Paieškos rezultatai">
+<!ENTITY fileHereMenu.label          "Perkelti čia">
+<!ENTITY fileHereMenu.accesskey      "r">
+<!ENTITY fileButton.label            "Perkelti į aplanką">
+<!ENTITY fileButton.accesskey        "P">
+<!ENTITY goToFolderButton.label      "Atverti laiško aplanką">
+<!ENTITY goToFolderButton.accesskey  "t">
+<!ENTITY saveAsVFButton.label      "Įrašyti kaip radinių aplanką">
+<!ENTITY saveAsVFButton.accesskey  "a">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Kur ieškoti:">
+<!ENTITY abSearchHeading.accesskey   "K">
+<!ENTITY propertiesButton.label      "Savybės">
+<!ENTITY propertiesButton.accesskey  "S">
+<!ENTITY composeButton.label         "Rašyti laišką">
+<!ENTITY composeButton.accesskey     "l">
+<!ENTITY abSearchDialogTitle.label   "Paieška adresų knygoje">
+

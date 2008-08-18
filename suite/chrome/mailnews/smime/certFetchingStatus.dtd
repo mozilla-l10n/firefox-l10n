@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Atsiunčiami liudijimai">
+<!ENTITY info.message "Ieškoma gavėjų liudijimų kataloge. Tai gali užtrukti keletą minučių.">
+<!ENTITY stop.label "Stabdyti paiešką">

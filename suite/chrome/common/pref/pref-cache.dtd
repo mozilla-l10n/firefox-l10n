@@ -1,0 +1,29 @@
+<!-- extracted from content/pref-cache.xul -->
+
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+<!ENTITY pref.cache.title                "Podėlis">
+<!ENTITY pref.cache.caption              "Podėlio parinktys">
+<!ENTITY cachePara                       "Podėlyje laikomos dažniausiai lankomų tinklalapių kopijos. Spragtelėjus naršyklės mygtukų juostoje „Iš naujo“, visada bus atsiųsta vėliausia tinklalapio versija.">
+<!ENTITY diskCache.label                 "Podėlis:">
+<!ENTITY diskCache.accesskey             "o">
+<!ENTITY mbytes                          "MB">
+<!ENTITY diskCacheFolder.label           "Podėlio aplankas:">
+<!ENTITY clearDiskCache.label            "Išvalyti">
+<!ENTITY clearDiskCache.accesskey        "v">
+<!ENTITY chooseDiskCacheFolder.label     "Parinkti aplanką…">
+<!ENTITY chooseDiskCacheFolder.accesskey "P">
+<!ENTITY diskCacheFolderExplanation      "Podėlio failai laikomi pasirinkto aplanko poaplankyje „Cache“. Kad pakeitimai pradėtų veikti, reikia paleisti „&brandShortName;“ iš naujo.">
+<!ENTITY docCache                        "Palyginti podėlyje esantį tinklalapį su jo originalu tinkle:">
+<!ENTITY oncePsessionRadio.label         "kartą per seansą">
+<!ENTITY oncePsessionRadio.accesskey     "k">
+<!ENTITY everyTimeRadio.label            "atveriant tinklalapį">
+<!ENTITY everyTimeRadio.accesskey        "a">
+<!ENTITY neverRadio.label                "nelyginti niekada">
+<!ENTITY neverRadio.accesskey            "n">
+<!ENTITY autoRadio.label                 "pasibaigus tinklalapio galiojimo laikui">
+<!ENTITY autoRadio.accesskey             "b">
+
+<!ENTITY prefetchTitle.label             "Parengtinis saitų įkėlimas">
+<!ENTITY enablePrefetch.label            "Kai siuntimas vyksta lėtai, naudoti tinklalapio parengtinio saitų įkėlimo galimybę (jei tinklalapis ją turi).">
+<!ENTITY enablePrefetch.accesskey        "s">
+<!-- <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->

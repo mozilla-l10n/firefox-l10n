@@ -1,0 +1,30 @@
+<!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
+<!ENTITY  pref.proxies.advanced.title "Papildomos įgaliotųjų serverių nuostatos">
+<!ENTITY  protocols.caption           "Įgaliotieji serveriai skirtingiems protokolams">
+<!ENTITY  protocols.description       "Įprastiniu atveju su visais šiais protokolais gali dirbti tas pats įgaliotasis serveris.">
+<!ENTITY  ftp.label                   "FTP įgaliotasis serveris:">
+<!ENTITY  ftp.accesskey               "F">
+<!ENTITY  gopher.label                "Goferio įgaliotasis serveris:">
+<!ENTITY  gopher.accesskey            "G">
+<!ENTITY  http.label                  "HTTP įgaliotasis serveris:">
+<!ENTITY  http.accesskey              "H">
+<!ENTITY  reuseProxy.label            "Naudoti šias nuostatas SSL, FTP Gopherio protokolams">
+<!ENTITY  reuseProxy.accesskey        "š">
+<!ENTITY  ssl.label                   "SSL įgaliotasis serveris">
+<!ENTITY  ssl.accesskey               "S">
+<!ENTITY  socks.caption               "Bendrojo pobūdžio įgaliotasis serveris">
+<!ENTITY  socks.description           "SOCKS kompiuteris – tai bendrojo pobūdžio įgaliotasis serveris, kartais naudojamas įstaigose ar pan.">
+<!ENTITY  socks.label                 "SOCKS kompiuteris:">
+<!ENTITY  socks.accesskey             "O">
+<!ENTITY  socks4.label                "SOCKS v4">
+<!ENTITY  socks4.accesskey            "C">
+<!ENTITY  socks5.label                "SOCKS v5">
+<!ENTITY  socks5.accesskey            "K">
+<!ENTITY  socksRemoteDNS.label        "Naudoti vardų išrišimui (rekomenduojama, jei naudojate SOCKS v5)">
+<!ENTITY  socksRemoteDNS.accesskey    "v">
+<!ENTITY  port.label                  "Prievadas:">
+<!ENTITY  HTTPport.accesskey          "P">
+<!ENTITY  SSLport.accesskey           "r">
+<!ENTITY  FTPport.accesskey           "i">
+<!-- No accesskey for gopher (':' doesn't go well) -->
+<!ENTITY  SOCKSport.accesskey         "e">

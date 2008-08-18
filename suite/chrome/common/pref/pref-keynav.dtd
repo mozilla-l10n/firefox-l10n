@@ -1,0 +1,21 @@
+<!ENTITY pref.keyNav.title "Klaviatūra">
+<!ENTITY tabNavigationBehavior.label "Tabuliavimo klavišas (Tab)">
+<!ENTITY tabNavigationLinks.label "saitus">
+<!ENTITY tabNavigationLinks.accesskey "s">
+<!ENTITY tabNavigationForms.label "mygtukus, sąrašus, žymimąsias akutes ir langelius">
+<!ENTITY tabNavigationForms.accesskey "m">
+<!ENTITY tabNavigationTextboxes.label "Pastaba. Per teksto langelius visada galima judėti spaudžiant tabuliavimo klavišą.">
+<!ENTITY tabNavigationDesc.label "Spaudžiant klavišą Tab (vieną arba kartu su Lyg2), judėti per:">
+<!ENTITY findAsYouTypeBehavior.label "Paieška renkant tekstą">
+<!ENTITY findAsYouTypeTip.label "Patarimas. Paiešką renkant galima įjungti ir rankiniu būdu: prieš ieškomą ženklų seką surinkite / (jei norite ieškoti tekste) arba ' (jei norite ieškoti saituose).">
+<!ENTITY findAsYouTypeTimeout.label "Pašalinti ieškinį, kai kelias sekundes nieko nerenkama">
+<!ENTITY findAsYouTypeTimeout.accesskey "š">
+<!ENTITY findAsYouTypeSound.label "Signalizuoti garsu, jei surinkto teksto nerasta">
+<!ENTITY findAsYouTypeSound.accesskey "S">
+<!ENTITY findAsYouTypeEnableAuto.label "Renkamo teksto ieškoti:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
+<!ENTITY findAsYouTypeAutoText.label "visame tinklalapio tekste">
+<!ENTITY findAsYouTypeAutoText.accesskey "n">
+<!ENTITY findAsYouTypeAutoLinks.label "tik saituose">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "s">
+

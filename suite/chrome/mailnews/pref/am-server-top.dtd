@@ -1,0 +1,125 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Saugumo nuostatos">
+<!ENTITY serverSettings.label "Serverio nuostatos">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Naujienų serveris (NNTP)">
+<!ENTITY webmail.label "Žiniatinklio pašto paskyra">
+<!ENTITY serverType.label "Serverio tipas:">
+<!ENTITY serverName.label "Serverio vardas:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "Abonento vardas:">
+<!ENTITY userName.accesskey "A">
+<!ENTITY port.label "Prievadas:">
+<!ENTITY port.accesskey "r">
+<!ENTITY serverPortDefault.label "Numatytasis:">
+<!ENTITY savePassword.label "Įrašyti slaptažodį">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Tikrinti paštą kas">
+<!ENTITY biffStart.accesskey "T">
+<!ENTITY biffEnd.label "minučių">
+<!ENTITY isSecure.label "Saugus ryšys (SSL)">
+<!ENTITY isSecure.accesskey "u">
+<!ENTITY socketType.label "Saugus ryšys:">
+<!ENTITY neverSecure.label "Niekada">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS (jei įmanoma)">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Saugus tapatumo tikrinimas">
+<!ENTITY useSecAuth.accesskey "t">
+<!ENTITY leaveOnServer.label "Palikti laiškų kopijas serveryje">
+<!ENTITY leaveOnServer.accesskey "l">
+<!ENTITY headersOnly.label "Atsiųsti tik laiškų antraštes">
+<!ENTITY headersOnly.accesskey "A">
+<!ENTITY deleteByAgeFromServer.label "ne daugiau kaip">
+<!ENTITY deleteByAgeFromServer.accesskey "d">
+<!ENTITY daysEnd.label "dienas(-ų)">
+<!ENTITY deleteOnServer2.label "kol jie nėra pašalinti iš disko">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "Jei patikrinus paštą rasta laiškų, tai juos atsiųsti">
+<!ENTITY downloadOnBiff.accesskey "J">
+<!ENTITY hostname.label "Serverio vardas">
+<!ENTITY username.label "Abonento vardas:">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "Informacija apie POP serverį">
+<!ENTITY deleteMessagePrefix.label "Šalintiną laišką:">
+<!ENTITY modelMoveToTrash.label "perkelti į šiukšlinę">
+<!ENTITY modelMoveToTrash.accesskey "š">
+<!ENTITY modelMarkDeleted.label "pažymėti kaip pašalintą">
+<!ENTITY modelMarkDeleted.accesskey "ž">
+<!ENTITY modelDeleteImmediately.label "sunaikinti">
+<!ENTITY modelDeleteImmediately.accesskey "n">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Baigus darbą su pašto programa sunaikinti pašalintus laiškus">
+<!ENTITY expungeOnExit.accesskey "B">
+<!ENTITY emptyTrashOnExit.label "Baigus darbą su pašto programa išvalyti šiukšlinę">
+<!ENTITY emptyTrashOnExit.accesskey "B">
+<!ENTITY loginAtStartup.label "Paleidus pašto programą, patikrinti, ar yra naujų laiškų"> 
+<!ENTITY loginAtStartup.accesskey "P">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Paklausti prieš atsiunčiant daugiau kaip">
+<!ENTITY maxMessagesStart.accesskey "k">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "laiškų">
+<!ENTITY alwaysAuthenticate.label "Nurodyti serveriui, kad jis patikrintų abonento vardą ir slaptažodį">
+<!ENTITY alwaysAuthenticate.accesskey "N">
+<!ENTITY newsrcFilePath.label "Vieta diske, kur laikomas naujienų *.rc failas:">
+<!ENTITY localPath.label "Katalogas diske, kuriame laikomi naujienų grupių laiškai:">
+<!ENTITY abbreviate.label "Naujienų grupių vardus pašto aplankų polangyje rodyti:">
+<!ENTITY abbreviateOn.label "pilnus (pvz., „netscape.public.mozilla.mail-news“)">
+<!ENTITY abbreviateOff.label "sutrumpintus (pvz., „n.p.m.mail-news“)">
+<!ENTITY advancedButton.label "Papildomai…">
+<!ENTITY serverDefaultCharset.label "Numatytoji koduotė:">
+<!ENTITY advancedButton.accesskey "P">
+<!ENTITY localFolderPicker.label "Vietinio katalogo parinkimas">
+<!ENTITY browseFolder.label "Parinkti…">
+<!ENTITY browseFolder.accesskey "r">
+<!ENTITY newsrcPicker.label "Parinkti „newsrc“ failą">
+<!ENTITY browseNewsrc.label "Parinkti…">
+<!ENTITY browseNewsrc.accesskey "P">

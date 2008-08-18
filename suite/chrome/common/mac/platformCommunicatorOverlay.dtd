@@ -1,0 +1,85 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- mac -->
+<!-- LOCALIZATION NOTE: FILE Do not translate all the entities ending with
+  Cmd.key. -->
+
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+  application menu. Never change the modifiers unless you are 100% sure that
+  they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmd.label           "Nuostatos…">
+<!ENTITY preferencesCmd.key             ",">
+<!ENTITY preferencesCmd.modifiers       "accel">
+<!ENTITY servicesMenu.label             "Paslaugos">
+<!ENTITY hideThisAppCmd.label           "Nerodyti „&brandShortName;“">
+<!ENTITY hideThisAppCmd.key             "H">
+<!ENTITY hideThisAppCmd.modifiers       "accel">
+<!ENTITY hideOtherAppsCmd.label         "Nerodyti kitų">
+<!ENTITY hideOtherAppsCmd.key           "H">
+<!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
+<!ENTITY showAllAppsCmd.label           "Rodyti viską">
+<!ENTITY quitApplicationCmd.label       "Baigti „&brandShortName;“ darbą">
+<!ENTITY quitApplicationCmd.key         "Q">
+<!ENTITY quitApplicationCmd.modifiers   "accel">
+<!-- End of Application menu -->
+
+<!ENTITY closeCmd.label                 "Užverti">  
+<!ENTITY closeCmd.key                   "W">  
+
+<!ENTITY printSetupCmd.label            "Puslapio nuostatos…">
+<!ENTITY printSetupCmd.accesskey        "P">
+
+<!ENTITY redoCmd.label                  "Atstatyti">  
+<!ENTITY redoCmd.key                    "Z">  
+
+<!ENTITY historyCmd.key                 "H">  
+
+<!ENTITY findTypeTextCmd.key            "">
+<!ENTITY findTypeLinksCmd.key           "">
+
+<!ENTITY accel.emacs_conflict           "accel">
+
+<!ENTITY minimizeWindowCmd.label        "Suskleisti">
+<!ENTITY minimizeWindowCmd.key          "M">
+<!ENTITY zoomWindowCmd.label            "Keisti dydį">
+
+<!-- Help viewer -->
+<!ENTITY openHelpCmd.label              "„&brandShortName;“ žinynas">
+<!ENTITY openHelpCmd.accesskey          "H">
+<!ENTITY openHelpCmd.key                "/">
+<!ENTITY openHelpCmd.modifiers          "accel,shift">
+
+<!-- Key labels, for mousewheel prefs -->
+<!ENTITY ctrlKey.label                  "Ctrl">
+<!ENTITY altKey.label                   "Option">
+<!ENTITY shiftKey.label                 "Shift">

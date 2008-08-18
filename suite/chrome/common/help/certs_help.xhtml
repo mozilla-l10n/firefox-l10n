@@ -1,0 +1,421 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>Liudijimų tvarkytuvė</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+<link rel="stylesheet" href="chrome://help/locale/content_style.css" type="text/css"></head>
+<body>
+<a name="certs_first"></a>
+<div class="boilerplate">Šį žinyno skyrių pateikė bendrija „Mozilla“. Tai
+tik informacija, kuri galėtų pagelbėti tiems, kas rūpinasi duomenų saugumu
+internete. Ji neaprėpia visų saugumo aspektų dirbant tinkle, taip pat nelaikytina
+bendrija „Mozilla“ saugumo internete rekomendacijomis.</div>
+
+<hr>
+<h1>Liudijimų tvarkytuvė</h1>
+
+<p>Šiame žinyno skyriuje aprašoma, kaip naudotis liudijimų tvarkytuve. Jei
+reikia daugiau informacijos apie liudijimus, žr. <a href="using_certs_help.html">Liudijimai</a>.
+
+</p><p>Jei norite atverti liudijimų tvarkytuvės langą, atlikite šiuos veiksmus:
+
+</p><ol>
+	<li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
+   </li><li>Pažymėkite grupės <i>Privatumas ir saugumas</i>  pogrupį <i>Liudijimai</i>.
+      (Jei pogrupio <i>Liudijimai</i> nesimato, spragtelėkite ženkliuką (pliusą
+      arba trikampėlį) šalia grupės pavadinimo.) 
+   </li><li>Spragtelėkite mygtuką <i>Tvarkyti liudijimus</i>.
+</li></ol>
+
+<p>Liudijimų tvarkytuvės langas turi šias korteles:
+
+</p><p> <table summary="list of headings" cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
+<tbody><tr>
+<td class="inthissection">
+<p><a href="#My_Certificates">Jūsų liudijimai</a></p>
+<p><a href="#Other_Peoples_Certificates">Kitų asmenų</a></p>
+<p><a href="#Web_Site_Certificates">Svetainių</a></p>
+<p><a href="#CA_Certificates">Liudijimų įstaigų</a></p>
+</td>
+</tr>
+</tbody></table>
+
+
+</p><p> </p>
+<hr>
+<a name="back_up_certificatesSDX"></a>
+<a name="backup_certificatesSDX"></a>
+<a name="import_certificatesSDX"></a>
+<a name="import_certificatesIDX"></a>
+<a name="backing_up_certificatesIDX"></a>
+<a name="certificates:backups_ofIDX"></a>
+<a name="certificates:importing_your_ownIDX"></a>
+<a name="smart_card_backupsSDX"></a>
+<a name="smart_cards:backupsSDX"></a>
+<a name="My_Certificates"></a><h2>Jūsų liudijimai</h2>
+
+<p> <a href="#certs_first">Liudijimų tvarkytuvės</a> lango kortelėje <i>Jūsų
+liudijimai</i>
+rodomas sąrašas naršyklėje esančių liudijimų, paliudijančių Jūsų tapatumą.
+Liudijimai sugrupuoti pagal juos išdavusias liudijimų įstaigas (LĮ): po LĮ
+pavadinimo išvardijami jos išduoti liudijimai. </p><ul>
+	<li>Jei po LĮ pavadinimu nesimato liudijimų vardų, du kartus spragtelėkite LĮ pavadinimą. 
+	</li><li>Liudijimas pažymimas spragtelėjus jo vardą. 
+	</li><li>Jei norite pažymėti kelis liudijimus, spragsėdami jų vardus laikykite nuspaustą valdymo klavišą. 
+</li></ul>
+
+<p>Pažymėtus liudijimus galima peržiūrėti, padaryti
+jų atsargines kopijas (archyvą), pašalinti juos. Tam reikia paspausti atitinkamą
+mygtuką:
+</p><ul>
+  <li><b><i>Peržiūra.</i></b> Atveriamas langas su išsamia informacija apie
+    pažymėtus liudijimus.</li>
+  <li><b><i>Archyvuoti.</i></b>
+Paspaudus šį mygtuką pradedamas pažymėtų liudijimų archyvavimas (t. y.
+atsarginės kopijos darymas). Atveriamas langas, kuriame reikia nustatyti
+slaptažodį archyvo apsaugai. Atsarginės kopijos failas įrašomas į parinktą diską
+ir katalogą.</li>
+  <li><b><i>Pašalinti.</i></b> Šalinami pažymėti liudijimai.</li>
+</ul>
+
+<p>Šiuos veiksmus galima atlikti nežymint liudijimų:</p>
+<ul>
+
+  <li><b><i>Importuoti.</i></b> Importuojamas vieno ar kelių liudijimų
+    archyvas (atsarginės kopijos failas). Spragtelėjus mygtuką <i>Importuoti</i>,
+    liudijimų tvarkytuvė pirmiausia paprašys parinkti kelią iki archyvo: diską,
+    katalogą ir failą. Liudijimų archyvo failai paprastai turi prievardį <tt>.p12</tt>,
+    pavyzdžiui <tt>Liudijimai.p12</tt>. Kai parinksite importuojamą failą,
+    liudijimų tvarkytuvė paprašys pasirinkti slaptažodį, kuris buvo parinktas
+    archyvuojant importuojamus liudijimus.</li>
+
+  <li><b><i>Arch. viską.</i></b> Padaroma atsarginė kopija (archyvas) visų
+    liudijimų, laikomų <a href="glossary.html#software_security_device">programinėje
+    saugumo priemonėje</a>. 
+
+<p><b><i>Pastaba. Intelektualiosiose kortelėse saugomų liudijimų atsarginės
+kopijos padaryti negalima.</i></b>
+ Jei pažymėtumėte vieną ar kelis liudijimus, laikomus intelektualiojoje kortelėje
+arba kitame išoriniame saugumo įrenginyje, ir spragtelėtumėte mygtuką <i>Archyvuoti</i> arba <i>Arch</i>.
+    <span style="font-style: italic;">viską</span>, tai į atsarginių kopijų failą (archyvą) nebūtų įtrauktas nė vienas
+iš šių liudijimų. Atsargines kopijas galima padaryti tik tų liudijimų, kurie
+laikomi naršyklės vidinėje programinėje saugumo priemonėje. </p></li></ul>
+  
+
+<p> </p>
+<hr><a name="Choose_a_Certificate_Backup_Password"></a>
+<h3>Liudijimų atsarginės kopijos slaptažodis</h3>
+
+<p>Liudijimų atsarginės kopijos (archyvo) slaptažodis apsaugo vieną ar kelis
+į archyvą įtrauktus liudijimus (į archyvą galima įtraukti liudijimus, išvardytus
+liudijimų tvarkytuvės lango kortelėje <a href="#My_Certificates">Jūsų
+liudijimai</a>).</p>
+
+<p>Šį slaptažodį liudijimo tvarkytuvė paprašys pasirinkti
+sukuriant liudijimų atsarginę kopiją ir paprašys jį surinkti, kai bandysite
+importuoti padarytos atsarginės kopijos failą.</p>
+
+<ul>
+<li><b><i>Liudijimų atsarginės kopijos slaptažodis.</i></b> Šiame lauke
+  surinkite slaptažodį, kuris apsaugos archyvuojamus liudijimus.
+
+</li><li><b><i>Liudijimų atsarginės kopijos slaptažodis (pakartoti).</i></b>
+  Surinkite atsarginės kopijos slaptažodį dar kartą, lygiai tokį, kokį surinkote lauke
+  <i>Liudijimų atsarginės kopijos slaptažodis</i>. Jei bent vienas surinktas rašmuo bus kitoks, negalėsite paspausti mygtuko
+  <i> Gerai</i> (jis bus neveiksnus). Tuomet reikia surinkti slaptažodį dar kartą. 
+</li></ul>
+
+<p>Jei kas nors kitas gautų Jūsų liudijimų atsarginės kopijos failą ir sėkmingai
+importuotų jį į savo naršyklę atspėjęs slaptažodį, tai tas asmuo, apsimetęs
+Jumis, galėtų patekti į kokią nors registravimosi reikalaujančią svetainę
+arba išsiųsti laiškus Jūsų vardu. Tokie kito asmens veiksmai gali būti labai
+pavojingi, pavyzdžiui, jei jis, apsimetęs Jumis, ims atlikinėti atlikti Jūsų banko
+sąskaitų operacijas arba siųsti skaitmeniškai pasirašytus el. laiškus. Todėl labai svarbu parinkti 
+tokį slaptažodį, kurį būtų sunku atspėti.
+Slaptažodžio pasirinkimo lange yra <i> slaptažodžio kokybės matavimas</i>.
+Čia galima apytikriai sužinoti, ar parinktas slaptažodis yra patikimas.
+Slaptažodžio kokybė tikrinama remiantis pagrindiniais
+rodikliais: slaptažodžio ilgiu, mažųjų ir didžiųjų raidžių, skaitmenų
+ir specialiųjų rašmenų vartojimu. Deja, pasirinkus net geriausios kokybės
+slaptažodį, negalima būti tikram, kad jo niekas nesugebės atspėti.</p>
+<p>
+<br>
+Daugiau medžiagos apie tai, kaip pasirinkti gerą slaptažodį, galima rasti svetainėje <a href="http://home.netscape.com/security/basics/passwords.html" target="_blank">Gero
+slaptažodžio parinkimas</a> (anglų kalba). 
+</p>
+<p>Kad nepamirštumėte slaptažodžio, užsirašykite jį ir laikykite raštelį saugioje vietoje. Jei
+slaptažodį pamiršite, negalėsite importuoti į atsarginę kopiją įtrauktų
+liudijimų.</p>
+
+<p> </p>
+<hr><a name="Delete_My_Certificate"></a>
+<h3>Jūsų liudijimo šalinimas</h3>
+
+<p>Prieš šalindami kortelėje <a href="#My_Certificates">Jūsų liudijimai</a>
+esantį nebegaliojantį liudijimą, gerai pagalvokite, ar jo neprireiks ateity,
+pavyzdžiui, ar nenorėsite kada nors perskaityti senus laiškus, užšifruotus
+šį liudijimą atitinkančiu privačiuoju raktu. </p>
+
+<p> </p>
+<hr><a name="Other_Peoples_Certificates"></a>
+<h2>Kitų asmenų liudijimai</h2>
+
+<p><a href="#certs_first">Liudijimų tvarkytuvės</a> lango kortelėje <i>Kitų
+asmenų</i> rodomas kitų asmenų tapatumą patvirtinančių el. pašto liudijimų
+sąrašas.</p><p>Kai atsiunčiamas laiškas su skaitmeniniu parašu, kartu su laišku
+gaunamas ir šifravimo liudijimas. Liudijimų tvarkytuvė jį
+importuoja ir įtraukia į kitų asmenų liudijimų sąrašą. Naudojantis
+tuo kito asmens el. pašto liudijimu bus galima jam siųsti šifruotus laiškus.
+
+</p><p>Kitų asmenų liudijimai išvardyti po juos išdavusių liudijimų įstaigų (LĮ) pavadinimais. 
+
+</p><ul>
+	<li>Jei po LĮ pavadinimu nesimato liudijimų vardų,
+      du kartus spragtelėkite LĮ pavadinimą. 
+	</li><li>Liudijimas pažymimas spragtelėjus jo vardą. 
+	</li><li>Jei norite pažymėti kelis liudijimus, spragsėdami jų vardus laikykite nuspaustą valdymo klavišą. 
+</li></ul>
+
+<p>Pažymėjus vieną ar kelis liudijimus, galima atlikti šiuo veiksmus
+(paspaudus atitinkamą mygtuką):
+
+</p><ul>
+	<li><b><i>Peržiūra.</i></b> Atveriamas langas su išsamia informacija apie
+    pažymėtus liudijimus.
+
+	</li><li><b><i>Pašalinti.</i></b> Šalinami pažymėti liudijimai.
+</li></ul>
+
+<p> </p>
+<hr><a name="Delete_Email_Certificate"></a>
+<h3>El. pašto liudijimo šalinimas</h3>
+
+<p>Prieš šalindami kortelėje <a href="#Other_Peoples_Certificates">Kitų
+asmenų</a>
+esantį kito asmens liudijimą, gerai pagalvokite, ar jo neprireiks ateity,
+pavyzdžiui, ar nenorėsite kada nors išsiųsti tam asmeniui šifruotą laišką
+arba patikrinti iš to asmens gauto laiško skaitmeninį parašą.
+
+</p><p> </p>
+<hr><a name="Web_Site_Certificates"></a>
+<h2>Svetainių liudijimai</h2>
+
+<p>Svetainių tapatumą patvirtinančių liudijimų sąrašas rodomas liudijimų tvarkytuvės lango 
+kortelėje <i>Svetainių</i>.</p><p>Svetainių liudijimai išvardyti po juos išdavusių liudijimų 
+įstaigų (LĮ)  pavadinimais. </p>
+<ul>
+	<li>Jei po LĮ pavadinimu nesimato liudijimų vardų,
+      du kartus spragtelėkite LĮ pavadinimą. 
+	</li><li>Liudijimas pažymimas spragtelėjus jo vardą. 
+	</li><li>Jei norite pažymėti kelis liudijimus, spragsėdami jų vardus laikykite paspaustą valdymo klavišą. 
+</li></ul>
+
+<p>Jei reikia atlikti kurį nors iš žemiau išvardytų veiksmų, pažymėkite vieną
+ar daugiau liudijimų ir spragtelėkite atitinkamą mygtuką:
+
+</p>
+<ul>
+	<li><b><i>Peržiūra.</i></b> Atveriamas langas su išsamia informacija apie
+    pažymėtus liudijimus.</li>
+    <li><b><i>Taisa.</i></b> Paspaudus šį mygtuką galima peržiūrėti ir parinkti pasitikėjimo
+      kiekvienu pažymėtu liudijimu nuostatas. Šiose nuostatose nurodoma, ar
+      liudijimas bus laikomas patikimu, kai svetainė juo patvirtina savo
+      tapatumą.</li>
+    <li><b><i>Pašalinti.</i></b> Šalinami pažymėti liudijimai.</li>
+</ul>
+
+<p> </p>
+<hr><a name="Edit_Web_Site_Certificate_Settings"></a>
+
+<h3>Pasitikėjimo svetainės liudijimu nuostatos</h3>
+ 
+<p>Pažymėjus kortelės <a href="#Web_Site_Certificates">Svetainių</a> sąraše
+esantį liudijimą ir spragtelėjus mygtuką <i>Taisa</i>, atveriamas langas <i>Pasitikėjimo
+svetainės liudijimu nuostatos</i>. Jame nurodoma, ar naršyklė turi pasitikėti
+pažymėtu liudijimu, kai reikia patvirtinti svetainės tapatumą ir nustatyti šifruotą
+ryšį su ja.
+
+</p><p>Minėtame dialogo lange yra tokie elementai:</p>
+<ul>
+	<li><b><i>Liudijimas „liudijimo vardas“ išduotas:</i></b> Po dvitaškio
+      pateikiama informacija apie liudijimą išdavusią <a href="glossary.html#certificate_authority">liudijimų
+      įstaigą</a>.</li>
+      <li><b><i>Pasitikėjimo nuostatos:</i></b></li>
+<ul>
+	<li><b><i>Pasitikėti šio liudijimo autentiškumu.</i></b> Jei pažymėsite
+      šį langelį, liudijimų tvarkytuvė pasitikės šiuo liudijimu, kai reikės
+      patvirtinti svetainės tapatumą arba nustatyti šifruotą ryšį su ja.
+      Kai bandysite aplankyti svetainę, kurios liudijimo autentiškumu
+      pasitikima, naršyklė, prieš parodydama svetainės tinklalapį,
+      gali pateikti keletą įspėjimų.
+
+	</li><li><i><b>Nepasitikėti šio liudijimo autentiškumu.</b></i> Jei pažymėsite
+      šį langelį, liudijimų tvarkytuvė nebepasitikės šiuo liudijimu, kai
+      juo bus bandoma patvirtinti svetainės tapatumą arba nustatyti šifruotą
+      ryšį su ja. Kai bandysite aplankyti svetainę, kurios liudijimo autentiškumu
+      nepasitikima, naršyklė, prieš parodydama svetainės tinklalapį,
+      gali pateikti keletą įspėjimų.</li>
+</ul>
+<li><b><i>Taisyti pasitikėjimo LĮ nuostatas.</i></b> Spragtelėkite šį
+  mygtuką, jei norite parinkti liudijimą išdavusios LĮ (liudijimų
+  įstaigos) pasitikėjimo nuostatas. Čia galima nurodyti, kokiomis LĮ išduotų liudijimų kategorijomis
+  pasitikima. Pavyzdžiui, galima parinkti, kad naršyklė pasitikėtų visais
+  svetainių liudijimais, kuriuos išdavė ši LĮ.</li>
+</ul>
+
+<p>Parinkę nuostatas spragtelėkite mygtuką <i>Gerai</i>.</p>
+<p> </p>
+
+<hr><a name="Delete_Web_Site_Certificate"></a>
+<h3>Svetainės liudijimo šalinimas</h3>
+
+<p>Prieš šalindami kortelės <a href="#Web_Site_Certificates">Svetainių</a> sąraše
+esantį svetainės liudijimą, gerai pagalvokite, ar jo neprireiks ateity,
+pavyzdžiui, ar nenorėsite kada nors panaudoti šį liudijimą, kai reikės patvirtinti
+svetainės tapatumą arba nustatyti šifruotą ryšį su ja.
+ 
+</p><p> </p>
+<hr>
+<a name="importing_a_certificate_chainSDX"></a>
+<a name="importing_intermediate_CA certificatesSDX"></a>
+<a name="certificates:importing_chained_CAIDX"></a>
+<a name="certificates:intermediate_CAIDX"></a>
+<a name="CA_Certificates"></a>
+<h2>Liudijimų įstaigų liudijimai</h2>
+
+<p><a href="#certs_first">Liudijimų tvarkytuvės</a> kortelėje <i>Liudijimų įstaigų</i>
+rodomas naršyklėje turimas sąrašas liudijimų, patvirtinančių <a href="glossary.html#certificate_authority">liudijimų
+įstaigų (LĮ)</a> tapatumą.</p><p>Liudijimų įstaigų liudijimai išvardyti po juos išdavusių LĮ  pavadinimais.
+
+</p><ul>
+	<li>Jei po LĮ pavadinimu nesimato liudijimų vardų,
+      du kartus spragtelėkite LĮ pavadinimą. 
+	</li><li>LĮ liudijimas pažymimas spragtelėjus jo vardą. 
+	</li><li>Jei norite pažymėti kelis liudijimus, spragsėdami jų vardus laikykite paspaustą valdymo klavišą. 
+</li></ul>
+
+
+<p>Jei reikia atlikti kurį nors iš žemiau išvardytų veiksmų, pažymėkite vieną
+ar daugiau liudijimų ir spragtelėkite atitinkamą mygtuką:</p>
+<ul>
+	<li><b><i>Peržiūra.</i></b> Atveriamas langas su išsamia informacija apie
+    pažymėtus liudijimus.
+
+	</li><li><b><i>Taisa.</i></b> Paspaudus šį mygtuką galima peržiūrėti ir parinkti pasitikėjimo
+      kiekvienu pažymėtu liudijimu nuostatas. Čia nurodoma, kokiomis šios
+      liudijimų įstaigos išduotų liudijimų rūšimis naršyklė turi
+      pasitikėti.
+
+	</li><li><b><i>Pašalinti.</i></b> Šalinami pažymėti liudijimai.
+</li></ul>
+
+<p>Tam, kad būtų pasitikima visais LĮ <a href="glossary.html#certificate_chain">liudijimų
+grandinės</a> liudijimais, pakanka parinkti tik vyriausiosios LĮ liudijimo
+nuostatas.</p><p>Liudijimų grandinė importuojama spragtelėjus atitinkamą nuorodą
+LĮ svetainėje. Importavus grandinę ir pažymėjus vyriausiojo liudijimo vardą liudijimų tvarkytuvės lango kortelėje
+<i>Liudijimų įstaigų</i>, galima parinkti pasitikėjimo vyriausiuoju liudijimu nuostatas.</p>
+<p>Vyriausioji ir visos tarpinės LĮ išvardijamos žemiau tos pačios įstaigos pavadinimo. Vyriausiasis 
+liudijimas yra tos liudijimų įstaigos, kuri įvardija save kaip savo liudijimo išdavėją.</p>
+<p>Jei į naršyklę atsiųsite tarpinės LĮ liudijimą, priklausantį liudijimų
+grandinei, kurios vyriausiosios liudijimo įstaigos liudijimai pažymėti kaip
+patikimi, tai pasitikėjimo tarpinės LĮ liudijimu nuostatų iš naujo parinkti
+nereikės: jos bus paveldėtos iš vyriausiosios LĮ.</p>
+
+<p> </p>
+
+<hr><a name="Edit_CA_Certificate_Settings"></a>
+<h3>Pasitikėjimo LĮ liudijimu nuostatos</h3>
+
+<p>Pažymėjus liudijimų tvarkytuvės lango kortelės <a href="#CA_Certificates">Liudijimų
+įstaigų</a> sąraše esantį LĮ liudijimą ir paspaudus mygtuką <i>Taisa</i>,
+atveriamas langas <i>Pasitikėjimo LĮ liudijimu nuostatos</i>. Jame nurodoma,
+kokiomis LĮ išduotų liudijimų kategorijomis naršyklė turi pasitikėti. Jei pašalinsite
+visų parinkčių žymėjimą, liudijimų tvarkytuvė nebepasitikės šios LĮ išduotais
+liudijimais.</p><p>Minėtame lange galima parinkti šias nuostatas:
+</p><ul>
+<li><b><i>Šis liudijimas gali patvirtinti svetainių tapatumą.</i></b> Jei pažymėsite
+  šį langelį, liudijimų tvarkytuvė pradės pasitikėti liudijimų įstaigos
+  išduotais liudijimais, kurie patvirtina svetainių tapatumą ir naudojami
+  nustatant šifruotą ryšį su svetainėmis. Jei langelio žymėjimą pašalinsite,
+  liudijimų tvarkytuvė nebepasitikės LĮ išduotais liudijimais, patvirtinančiais
+  svetainių tapatumą.</li>
+<li><b><i>Šis liudijimas gali patvirtinti el. pašto vartotojų tapatumą.</i></b>
+  Jei šis langelis pažymėtas, liudijimų tvarkytuvė pasitikės LĮ išduotais
+  liudijimais, skirtais laiškų šifravimui arba skaitmeniniams parašams. Jei
+  langelio žymėjimą pašalinsite, liudijimų tvarkytuvė nebepasitikės šios
+  LĮ išduotais el. pašto liudijimais.</li>
+<li><i><b>Šis liudijimas gali patvirtinti programinės įrangos gamintojų
+  tapatumą.</b></i> Jei šis langelis pažymėtas, liudijimų tvarkytuvė
+  pasitikės LĮ išduotais liudijimais, skirtais programinės įrangos gamintojų
+  tapatumui patvirtinti. Jei langelio žymėjimą pašalinsite, liudijimų
+  tvarkytuvė nebepasitikės šios LĮ išduotais tokios rūšies liudijimais.</li>
+</ul>
+
+<p>Parinkę nuostatas, spragtelėkite mygtuką <i>Gerai</i>.</p>
+<p> </p>
+
+<hr><a name="Delete_CA_Certificate"></a>
+<h3>LĮ liudijimo šalinimas</h3>
+
+<p>Prieš šalindami liudijimų tvarkytuvės lango kortelės <a href="#CA_Certificates">Liudijimų
+įstaigų</a> sąraše esantį LĮ liudijimą, gerai pagalvokite, ar jo neprireiks
+ateity tikrinant LĮ išduotus liudijimus. Jei pašalinsite vienintelį turimą
+galiojantį LĮ liudijimą, liudijimų tvarkytuvė nebepasitikės jokiais
+liudijimais, išduotais šios LĮ. 
+
+</p><p> </p>
+<hr><a name="Device_Manager:options"></a>
+<a name="Security_Devices"></a>
+<h1>Saugumo priemonių tvarkytuvė</h1>
+
+<p>Čia aprašomas saugumo priemonių tvarkytuvės langas ir nuostatos, kurias
+galima jame parinkti. Daugiau informacijos apie saugumo priemonių tvarkytuvės
+naudojimą galima rasti skyriuje <a href="using_certs_help.html#using_certs_devices">Intelektualiųjų
+kortelių ir kitų saugumo priemonių tvarkymas</a>. </p>
+
+<p>Jei saugumo priemonių tvarkytuvės langas dar neatvertas, atlikite šiuos
+veiksmus:</p>
+<ol>
+	<li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
+   </li><li>Pažymėkite grupės <i>Privatumas ir saugumas</i>  pogrupį <i>Liudijimai</i>.
+      (Jei pogrupio <i>Liudijimai</i> nesimato, spragtelėkite ženkliuką (pliusą
+      arba trikampėlį) šalia grupės pavadinimo.) 
+   </li><li>Spragtelėkite mygtuką <i>Tvarkyti saugumo priemones</i>.
+</li>
+</ol>
+
+<p>Saugumo priemonių tvarkytuvės langas išskaidytas į tris dalis (du laukai sąrašams formuoti ir mygtukų rinkinys). Pirmajame lauke
+rodomas sąrašas visų turimų PKCS Nr. 11 modulių ir šių modulių valdomų saugumo priemonių
+(saugumo priemonių pavadinimai pateikiami po atitinkamų modulių pavadinimais). 
+
+</p><p>Pažymėjus saugumo priemonės arba modulio pavadinimą, lango vidurinėje
+dalyje (antrajame sąraše) atsiranda informacija apie šią priemonę arba modulį,
+o kai kurie mygtukai (dešinėje lango dalyje) tampa aktyvūs. Jei reikia atlikti
+kokį nors veiksmą su saugumo priemone arba moduliu, reikia pažymėti jo pavadinimą
+ir spragtelėti atitinkamą mygtuką:  </p><ul>
+	<li><b><i>Pradėti seansą.</i></b> Pradedamas pažymėtos saugumo priemonės
+      seansas. Seanso metu naršyklė kartkartėmis prašys surinkti
+      saugumo priemonės pagrindinį slaptažodį. Prašymų surinkti slaptažodį
+      dažnumas priklauso nuo parinktų <a href="passwords_help.html#Master_Password">pagrindinio
+      slaptažodžio tikrinimo intervalų</a> nuostatų.  
+	</li><li><b><i>Baigti seansą.</i></b> Baigiamas pažymėtos saugumo priemonės
+      seansas. Kol nebus pradėtas naujas saugumo priemonės seansas, naršyklė
+      negalės pasinaudoti liudijimais, laikomais šioje saugumo priemonėje.
+	</li><li><b><i>Pakeisti slaptažodį.</i></b> Patenkama į langą, kuriame galima pakeisti
+      pažymėtos saugumo priemonės pagrindinį slaptažodį. </li>
+<li><b><i>Įkelti.</i></b> Atveriamas dialogo langas, kuriame parenkama PKCS Nr. 11 modulio failas. 
+Prieš įkeliant naują modulį, į kompiuterį reikia įdiegti modulio programinę
+įrangą ir, jei reikia, prijungti prie kompiuterio atitinkamą aparatinę
+įrangą. Paprastai aprašymai visų veiksmų, kuriuos reikia atlikti derinant
+kompiuterį darbui su nauja saugumo priemone, pateikiami instrukcijoje, platinamoje
+kartu su priemonės įranga. </li>
+<li><b><i>Iškelti.</i></b> Iškeliamas pažymėtas saugumo modulis. Naršyklė
+      nebenaudos iškelto modulio bei jo valdomų saugumo priemonių.</li>
+  <li><b><i>FIPS veiksena.</i></b> Įjungiama arba išjungiama FIPS veiksena.
+      Apie šią veikseną žr. <a href="using_certs_help.html#using_certs_devices_fips"> FIPS
+      veiksena</a>.</li>
+</ul>
+
+<hr>
+<p>Copyright © 1994-2002 Netscape Communications Corporation.</p>
+<p>© Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2003</p>
+</body></html>

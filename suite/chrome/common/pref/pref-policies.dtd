@@ -1,0 +1,19 @@
+
+<!ENTITY  pref.policies.title "Saugumo taisyklės">
+
+<!ENTITY  zoneIntro.label     "Galima sukurti taisykles, kurios apibrėžia tam tikrų svetainių prieigą prie įvairių funkcijų (pvz., scenarijų, Javos).">
+
+<!ENTITY  policies.label      "Taisyklės">
+<!ENTITY  default.label       "Numatytosios taisyklės">
+<!ENTITY  allWebsites.label   "Visos svetainės">
+<!ENTITY  trusted.label       "Patikimos svetainės">
+<!ENTITY  annoyances.label    "Nepageidaujamos svetainės">
+<!ENTITY  restricted.label    "Ribojamos svetainės">
+
+<!ENTITY  addSite.label       "Įtraukti svetainę…">
+<!ENTITY  addSite.accesskey   "s">
+<!ENTITY  settings.label      "Nuostatos">
+<!ENTITY  settings.accesskey  "N">
+
+<!ENTITY  description.label   "Taisyklės aprašas:">
+ 

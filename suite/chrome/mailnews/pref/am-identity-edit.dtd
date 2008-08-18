@@ -1,0 +1,6 @@
+<!ENTITY identityTitle.label "Tapatumo nuostatos">
+<!ENTITY identityListDesc.label "Parinkite šios paskyros tapatumo nuostatas:">
+
+<!ENTITY settingsTab.label       "Nuostatos">
+<!ENTITY copiesFoldersTab.label "Laiškai ir aplankai">
+<!ENTITY addressingTab.label    "Laiškų rašymas ir adresavimas">

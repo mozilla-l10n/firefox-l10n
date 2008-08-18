@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Tapatumo duomenys, susieti su šia paskyra">
+<!ENTITY identitiesListDesc.label "Paskyros tapatumo duomenų tvarkymas">
+<!ENTITY identitiesListAdd.label  "Įtraukti…">
+<!ENTITY identitiesListAdd.accesskey  "a">
+<!ENTITY identitiesListEdit.label "Taisyti…">
+<!ENTITY identitiesListEdit.accesskey "T">
+<!ENTITY identitiesListDelete.label "Pašalinti">
+<!ENTITY identitiesListDelete.accesskey "P">

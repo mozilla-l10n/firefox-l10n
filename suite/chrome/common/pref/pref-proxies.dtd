@@ -1,0 +1,25 @@
+<!-- extracted from content/pref-proxies.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
+<!ENTITY  pref.proxies.title            "Įgaliotieji serveriai">
+<!ENTITY  pref.proxies.desc             "Įgaliotasis serveris atlieka filtravimo ir/arba ryšio su internetu paspasrtinimo funkciją.">
+<!ENTITY  proxyTitle.label              "Įgaliotųjų serverių sąranka">
+<!ENTITY  directTypeRadio.label         "Tiesioginis ryšys su internetu">
+<!ENTITY  directTypeRadio.accesskey     "g">
+<!ENTITY  manualTypeRadio.label         "Rankinė įgaliotojo serverio sąranka">
+<!ENTITY  manualTypeRadio.accesskey     "R">
+<!ENTITY  wpadTypeRadio.label           "Savarankiškai aptikti įgaliotuosius serverius">
+<!ENTITY  wpadTypeRadio.accesskey       "S">
+<!ENTITY  autoTypeRadio.label           "Automatinė įgaliotojo serverio sąranka. Failą imti iš URL:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Atsiųsti iš naujo">
+<!ENTITY  reload.accesskey              "n">
+<!ENTITY  http.label                    "Įgaliotasis serveris:">
+<!ENTITY  http.accesskey                "g">
+<!ENTITY  port.label                    "Prievadas:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  advanced.label                "Papildomai…">
+<!ENTITY  advanced.accesskey            "i">
+<!ENTITY  noproxy.label                 "Tiesiogiai jungtis prie šių sričių:">
+<!ENTITY  noproxy.accesskey             "T">
+<!ENTITY  noproxyExplain.label          "Nurodykite sričių sąrašą, pvz., .xxx.yyy, .xxx.yy.zz">

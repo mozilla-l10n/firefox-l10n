@@ -1,0 +1,76 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- the following is for the task menu overlay -->
+
+<!ENTITY cookieMessageTitle.label "Pakeisti slapukų leidimai">
+<!ENTITY cookieDisplayCookiesCmd.label "Tvarkyti įrašytus slapukus">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "T">
+<!ENTITY cookieAllowCookiesCmd.label "Priimti šios svetainės slapukus">
+<!ENTITY cookieAllowCookiesCmd.accesskey "P">
+<!ENTITY cookieAllowCookiesMsg.label "Bus leidžiama atsiųsti slapukus iš šios svetainės.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Priimti šios svetainės slapukus vienam seansui">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "r">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Šiai svetainei bus leidžiama įrašyti slapukus tik vienam (esamam) seansui.">
+<!ENTITY cookieCookiesDefaultCmd.label "Naudoti numatytuosius slapukų leidimus">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "N">
+<!ENTITY cookieCookiesDefaultMsg.label "Šios svetainės slapukų priėmimo arba atmetimo taisyklės bus imamos iš numatytųjų nuostatų.">
+<!ENTITY cookieBlockCookiesCmd.label "Nepriimti šios svetainės slapukų">
+<!ENTITY cookieBlockCookiesCmd.accesskey "N">
+<!ENTITY cookieBlockCookiesMsg.label "Šios svetainės slapukai bus atmetami.">
+
+<!ENTITY cookieImageMessageTitle.label "Pakeisti paveikslų atsiuntimo leidimai">
+<!ENTITY cookieDisplayImagesCmd.label "Tvarkyti leidimus atsiųsti paveikslus">
+<!ENTITY cookieDisplayImagesCmd.accesskey "T">
+<!ENTITY cookieAllowImagesCmd.label "Leisti atsiųsti šios svetainės paveikslus">
+<!ENTITY cookieAllowImagesCmd.accesskey "L">
+<!ENTITY cookieAllowImagesMsg.label "Bus atsiunčiami visi svetainės paveikslai.">
+<!ENTITY cookieImagesDefaultCmd.label "Naudoti numatytuosius paveikslų leidimus">
+<!ENTITY cookieImagesDefaultCmd.accesskey "m">
+<!ENTITY cookieImagesDefaultMsg.label "Šios svetainės paveikslai bus atsiunčiami taip, kaip nurodyta numatytosiose nuostatose.">
+<!ENTITY cookieBlockImagesCmd.label "Nesiųsti šios svetainės paveikslų">
+<!ENTITY cookieBlockImagesCmd.accesskey "N">
+<!ENTITY cookieBlockImagesMsg.label "Šios svetainės paveikslai nebus atsiunčiami.">
+
+<!ENTITY cookieAllowPopupsCmd.label                  "Leisti šios svetainės iškylančiuosius langus">
+<!ENTITY cookieAllowPopupsCmd.accesskey              "L">
+<!ENTITY cookieManagePopups.label                    "Tvarkyti iškylančiųjų langų leidimus">
+<!ENTITY cookieManagePopups.accesskey                "š">
+
+<!ENTITY cookieTutorialCmd.label "Privatumo samprata">
+<!ENTITY cookieTutorialCmd.accesskey "s">
+
+<!ENTITY cookieCookieManager.label "Slapukų tvarkytuvė">
+<!ENTITY cookieCookieManager.accesskey "S">
+<!ENTITY cookieImageManager.label "Paveikslų tvarkytuvė">
+<!ENTITY cookieImageManager.accesskey "P">
+<!ENTITY cookiePopupManager.label "Iškylančiųjų langų tvarkytuvė">
+<!ENTITY cookiePopupManager.accesskey "š">

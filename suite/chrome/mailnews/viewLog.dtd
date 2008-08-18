@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Filtrų žurnalas">
+<!ENTITY viewLogInfo.text "Į filtrų žurnalą įrašomi visi įvykdyti laiškų filtrai. Pažymėkite žemiau esantį langelį, jei norite įjungti žurnalą.">
+<!ENTITY clearLog.label "Išvalyti žurnalą">
+<!ENTITY clearLog.accesskey "v">
+<!ENTITY enableLog.label "Įjungti filtrų žurnalą">
+<!ENTITY enableLog.accesskey "ž">
+<!ENTITY closeLog.label "Užverti">
+<!ENTITY closeLog.accesskey "U">

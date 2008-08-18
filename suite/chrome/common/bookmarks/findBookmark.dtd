@@ -1,0 +1,15 @@
+
+<!ENTITY search.name.label              "pavadinimas">
+<!ENTITY search.url.label               "adresas">
+<!ENTITY search.shortcut.label          "reikšminis žodis">
+<!ENTITY search.description.label       "aprašas">
+<!ENTITY search.startswith.label        "prasideda">
+<!ENTITY search.endswith.label          "baigiasi">
+<!ENTITY search.is.label                "yra">
+<!ENTITY search.isnot.label             "nėra">
+<!ENTITY search.contains.label          "turi">
+<!ENTITY search.doesntcontain.label     "neturi">
+<!ENTITY save.query.label               "Paieškos rezultatus įrašyti į adresyną">
+<!ENTITY search.for.label               "Ieškoti adresyno įrašų, kurių ">
+<!ENTITY findBookmark.title             "Paieška adresyne">
+<!ENTITY findButton.label               "Ieškoti">

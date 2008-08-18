@@ -1,0 +1,23 @@
+<!-- extracted from content/pref-search.xul -->
+
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+<!ENTITY pref.search.title                "Paieška žiniatinklyje">
+<!ENTITY legendHeader                     "Ieškyklės">
+<!ENTITY defaultSearchEngine.label        "Numatytoji ieškyklė">
+<!ENTITY defaultSearchEngine.accesskey    "N">
+
+<!ENTITY openSidebarSearchPanel.label     "Jeigu radinių yra, atverti parankinės paieškos kortelę">
+<!ENTITY openSidebarSearchPanel.accesskey "r">
+
+<!ENTITY openContextSearchTab.label       "Žiniatinklio paieškos iš kontekstinio meniu rezultatus rodyti naujoje kortelėje, o ne lange">
+<!ENTITY openContextSearchTab.accesskey   "k">
+
+<!ENTITY searchResults.label              "Paieškos rezultatai">
+
+<!ENTITY sidebarSearchTabPref.label       "Parankinės paieškos kortelė">
+<!ENTITY searchModeBasic.label            "Ieškoti su viena ieškykle">
+<!ENTITY searchModeBasic.accesskey        "v">
+<!ENTITY searchModeAdvanced.label         "Ieškoti su ieškyklių grupe">
+<!ENTITY searchModeAdvanced.accesskey     "r">
+

@@ -1,0 +1,45 @@
+<!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
+
+<!ENTITY  languages.customize.prefLangDescript          "Yra tinklalapių, parašytų keliomis kalbomis, su galimybe automatiškai parinkti kalbą. Įtraukite kalbas į žemiau esantį sąrašą ir išdėstykite jas pageidaujama parinkimo eile.">
+<!ENTITY languages.customize.lHeader                    "Kalbos">
+<!ENTITY languages.customize.rHeader                    "Kalbos, kuriomis rodomi tinklalapiai">
+<!ENTITY langtitle.label                                "Tinklalapių kalbos">
+<!ENTITY languages.customize.prefAddLangDescript        "Pažymėkite kalbas, kurias norėtumėte įtraukti į aktyvių sąrašą.">
+<!ENTITY languages.customize.engOrder.label             "1">
+<!ENTITY languages.customize.engOption.label            "Anglų">
+<!ENTITY languages.customize.addButton.label            "Įtraukti…">
+<!ENTITY languages.customize.addButton.accesskey        "r">
+<!ENTITY languages.customize.deleteButton.label         "Pašalinti">
+<!ENTITY languages.customize.deleteButton.accesskey     "š">
+<!ENTITY languages.customize.title.label			    "Sudaryti kalbų sąrašą">
+<!ENTITY languages.customize.add.title.label		    "Kalbos įtraukimas į sąrašą">
+<!ENTITY languages.customize.left.header			    "Koduotė">
+<!ENTITY charset.customize.right.header		    "Parinkti galimas koduotes">
+<!ENTITY languages.customize.available.label            "Kalbos:">
+<!ENTITY languages.customize.active.label               "Kalbos:">
+<!ENTITY languages.customize.reorder.label              "Pertvarkyti">
+<!ENTITY languages.customize.remove.label               "Pašalinti">
+<!ENTITY languages.customize.additional.label           "Galimos koduotės">
+<!ENTITY languages.customize.add.label                  "Pridėti">
+<!ENTITY languages.customize.others.label               "Kita:">
+<!ENTITY languages.customize.others.accesskey           "K">
+<!ENTITY languages.customize.Charset.grouplabel         "Koduotė">
+<!ENTITY languages.customize.DefaultCharset.label       "Numatytoji koduotė:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "m">
+<!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
+<!ENTITY languages.customize.others.examples            "pvz., en-bz, ar-jo">
+<!ENTITY languages.customize.cancel.label		            "Atsisakyti">
+<!ENTITY languages.customize.save.label                 "Įrašyti">
+<!ENTITY languages.customize.ok.label                   "Gerai">
+<!ENTITY languages.customize.save.popup                 "Pakeitimai pradės veikti iš naujo paleidus naršyklę…">
+<!ENTITY languages.customize.moveUp.label               "Pakelti">
+<!ENTITY languages.customize.moveUp.accesskey           "P">
+<!ENTITY languages.customize.moveDown.label             "Nuleisti">
+<!ENTITY languages.customize.moveDown.accesskey         "N">
+
+<!ENTITY spelling.label                                 "Rašybos tikrinimas">
+<!ENTITY checkSpelling.label                            "Tikrinti rašybą renkant tekstą:">
+<!ENTITY checkSpelling.accesskey                        "T">
+<!ENTITY dontCheckSpelling.label                        "Niekada">
+<!ENTITY multilineCheckSpelling.label                   "Kelių eilučių laukuose">
+<!ENTITY alwaysCheckSpelling.label                      "Visuose laukuose">
