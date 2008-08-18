@@ -46,36 +46,36 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "Importas">
-<!ENTITY importDialog.allTitle    "importuoti viską">
-<!ENTITY importDialog.mailTitle   "laiškus">
-<!ENTITY importDialog.addressbookTitle "adresų knygas">
-<!ENTITY importDialog.settingsTitle "nuostatas">
-<!ENTITY importDialog.filtersTitle "filtrus">
+<!ENTITY importDialog.windowTitle        "Importas">
+<!ENTITY importDialog.allTitle           "importuoti viską">
+<!ENTITY importDialog.mailTitle          "laiškus">
+<!ENTITY importDialog.addressbookTitle   "adresų knygas">
+<!ENTITY importDialog.settingsTitle      "nuostatas">
+<!ENTITY importDialog.filtersTitle       "filtrus">
 
-<!ENTITY  window.width            "40em">
-<!ENTITY  window.macWidth         "45em">
+<!ENTITY  window.width                   "40em">
+<!ENTITY  window.macWidth                "45em">
 
-<!ENTITY importTitle.label        "„&brandShortName;“ pašto programos importo vediklis">
-<!ENTITY importShortDesc.label    "Kitų programų laiškų, adresų knygų, nuostatų ir filtrų importas">
+<!ENTITY importTitle.label               "„&brandShortName;“ pašto programos importo vediklis">
+<!ENTITY importShortDesc.label           "Kitų programų laiškų, adresų knygų, nuostatų ir filtrų importas">
 
-<!ENTITY importDescription1.label "Šis vediklis į „&brandShortName;“ importuos laiškus, adresų knygų įrašus, nuostatas ir (arba) filtrus iš kitų el. pašto programų ar įprastų adresų knygoms formatų failų.">
-<!ENTITY importDescription2.label "Importavus, prie jų bus galima prieiti iš programos „&brandShortName;“.">
+<!ENTITY importDescription1.label        "Šis vediklis į „&brandShortName;“ importuos laiškus, adresų knygų įrašus, nuostatas ir (arba) filtrus iš kitų el. pašto programų ar įprastų adresų knygoms formatų failų.">
+<!ENTITY importDescription2.label        "Importavus, prie jų bus galima prieiti iš programos „&brandShortName;“.">
 
-<!ENTITY selectDescription.label  "Iš kurios programos importuoti:">
+<!ENTITY selectDescription.label         "Iš kurios programos importuoti:">
 
-<!ENTITY back.label               "&lt; Atgal">
-<!ENTITY forward.label            "Toliau &gt;">
-<!ENTITY finish.label             "Baigti">
-<!ENTITY cancel.label             "Atsisakyti">
+<!ENTITY back.label                      "&lt; Atgal">
+<!ENTITY forward.label                   "Toliau &gt;">
+<!ENTITY finish.label                    "Baigti">
+<!ENTITY cancel.label                    "Atsisakyti">
 
-<!ENTITY select.label             "Ką importuoti:">
+<!ENTITY select.label                    "Ką importuoti:">
 
-<!ENTITY title.label              "Antraštė">
-<!ENTITY processing.label         "Importuojama…">
+<!ENTITY title.label                     "Antraštė">
+<!ENTITY processing.label                "Importuojama…">
 
-<!ENTITY FieldDiscInputText1.label  "Vienoje adresų knygos kortelėje galima turėti du (pvz., namų ir darbo) el. pašto adresus.">
-<!ENTITY FieldDiscInputText2.label	"Pasirinkite, kuriai iš šių dviejų kategorijų priskirti importuotus pašto adresus:">
-<!ENTITY FieldDiscWarning.label  "Visi pasirinktos adresų knygos įrašai bus priskirti šiai kategorijai: ">
-<!ENTITY importDialog.homeTitle   "Namų">
-<!ENTITY importDialog.workTitle "Darbo">
+<!ENTITY FieldDiscInputText1.label       "Vienoje adresų knygos kortelėje galima turėti du (pvz., namų ir darbo) el. pašto adresus.">
+<!ENTITY FieldDiscInputText2.label       "Pasirinkite, kuriai iš šių dviejų kategorijų priskirti importuotus pašto adresus:">
+<!ENTITY FieldDiscWarning.label          "Visi pasirinktos adresų knygos įrašai bus priskirti šiai kategorijai: ">
+<!ENTITY importDialog.homeTitle          "Namų">
+<!ENTITY importDialog.workTitle          "Darbo">

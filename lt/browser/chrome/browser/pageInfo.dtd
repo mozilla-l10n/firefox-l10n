@@ -113,7 +113,7 @@
 <!ENTITY  securityView.identity.verifier "Tapatumą patvirtino: ">
 
 <!ENTITY  securityView.privacy.header                   "Privatumas ir žurnalas">
-<!ENTITY  securityView.privacy.history                  "Ar jau lankiausi šioje svetainėje šiandien?">
+<!ENTITY  securityView.privacy.history                  "Ar anksčiau jau lankiausi šioje svetainėje?">
 <!ENTITY  securityView.privacy.cookies                  "Ar ši svetainė turi įrašiusi slapukų mano kompiuteryje?">
 <!ENTITY  securityView.privacy.viewCookies              "Rodyti slapukus">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "R">

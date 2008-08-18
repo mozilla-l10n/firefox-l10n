@@ -12,6 +12,7 @@
    - License.
    -
    - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
    -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
    -   Rimas Kudelis <rq@akl.lt>
    -
@@ -41,7 +42,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation  "<h3>Lokalizuotojai</h3><ul><li>Gintautas Grigas</li><li>Tatjana Jevsikova</li><li>Sigita Pedzevičienė</li><li>Rimas Kudelis</li></ul><p>Programa lokalizuota Matematikos ir informatikos institute.</p>">
+<!ENTITY credit.translation  "<h3>Lokalizuotojai</h3><ul><li>Gintautas Grigas</li><li>Tatjana Jevsikova</li><li>Rimas Kudelis</li><li>Sigita Pedzevičienė</li></ul><p>Programa lokalizuota Matematikos ir informatikos institute.</p>">
 
 <!ENTITY credit.visuals     "Dizaino koordinatorius">
 <!ENTITY credit.theme       "Grafinio apvalkalo dizainas">

@@ -70,5 +70,5 @@
 <!ENTITY fetchFromPOP.label "Atsiųsti laiško tekstą iš POP serverio">
 <!ENTITY ignoreThread.label "Nepaisyti gijos">
 <!ENTITY ignoreSubthread.label "Nepaisyti gijos atšakos">
-<!ENTITY watchThread.label "Pagal giją">
+<!ENTITY watchThread.label "Stebėti giją">
 <!ENTITY stopExecution.label "Stabdyti filtrų vykdymą">

@@ -230,7 +230,7 @@
 <!ENTITY releaseCmd.accesskey                   "L">
 <!ENTITY aboutCmd.label                         "Apie „&brandFullName;“">
 <!ENTITY aboutCmd.accesskey                     "A">
-<!ENTITY updateCmd.label                        "Tikrinti, ar yra naujinimų…">
+<!ENTITY updateCmd.label                        "Tikrinti ar yra naujinimų…">
 <!ENTITY updateCmd.accesskey                    "T">
 
 <!-- Mac OS X "Window" menu items -->
