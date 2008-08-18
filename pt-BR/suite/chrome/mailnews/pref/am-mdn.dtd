@@ -10,7 +10,7 @@
 <!ENTITY leaveIt.accesskey "E">
 <!ENTITY moveToSent.label "Mover para a pasta de mensagens enviadas">
 <!ENTITY moveToSent.accesskey "M">
-<!ENTITY requestMDN.label "Se alguém me solicitar uma confirmação de leitura:">
+<!ENTITY requestMDN.label "Se que alguém me solicitar uma confirmação de leitura:">
 <!ENTITY returnSome.label "Permitir confirmações de leitura nestas situações:">
 <!ENTITY returnSome.accesskey "f">
 <!ENTITY never.label "Não enviar">
