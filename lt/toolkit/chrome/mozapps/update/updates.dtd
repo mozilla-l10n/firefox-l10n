@@ -42,8 +42,10 @@
 <!ENTITY  cancel.accesskey                "A">
 
 <!ENTITY  noupdatesfound.title            "Naujinimų nerasta">
-<!ENTITY  noupdatesfound.intro            "Šiuo metu naujinimų nėra. „&brandShortName;“ gali periodiškai 
-                                           tikrinti, ar išleistos naujos versijos.">
+<!ENTITY  noupdatesautoenabled.intro      "Šiuo metu naujinimų nėra. „&brandShortName;“ periodiškai
+                                           tikrins, ar išleistos naujos versijos.">
+<!ENTITY  noupdatesautodisabled.intro     "Šiuo metu naujinimų nėra. Bandykite jų ieškoti vėliau arba įjunkite
+                                           automatinį naujinimų tikrinimą „&brandShortName;“ nuostatose.">
 <!ENTITY  incompatibleChecking.label      "Tikrinama, ar šis naujinimas nesukels suderinamumo su jūsų naudojamais plėtiniais ir/ar grafiniais aplankalais problemų…">
 <!ENTITY  clickHere.label                 "Peržiūrėti išsamesnę informaciją apie šį naujinimą">
 
