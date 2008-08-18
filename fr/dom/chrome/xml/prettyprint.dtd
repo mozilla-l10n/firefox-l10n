@@ -34,4 +34,4 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY xml.nostylesheet "Ce fichier XML ne semble pas avoir d'information de style associé avec lui. L'arbre du document est montré ci-dessous.">
+<!ENTITY xml.nostylesheet "Aucune information de style ne semble associée à ce fichier XML. L'arbre du document est affiché ci-dessous.">
