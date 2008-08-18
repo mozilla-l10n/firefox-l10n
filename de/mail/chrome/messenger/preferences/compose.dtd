@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "S">
 <!ENTITY downloadDictionaries.label           "Weitere Wörterbücher herunterladen">
 
-<!ENTITY useMIME.label                        "Bei Nachrichten mit 8-bit-Zeichen &quot;quoted-printable&quot; als MIME-Kodierung verwenden.">
-<!ENTITY useMIME.accesskey                    "Z">
 <!ENTITY warnOnSendAccelKey.label             "Bestätigen, wenn das Tastaturkürzel zum Senden einer Nachricht verwendet wird">
 <!ENTITY warnOnSendAccelKey.accesskey         "B">
 <!ENTITY autoSave.label                       "Alle">
