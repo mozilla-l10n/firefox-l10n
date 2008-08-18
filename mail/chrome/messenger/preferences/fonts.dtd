@@ -104,5 +104,5 @@
 
 <!ENTITY viewDefaultCharsetList.label     "Laiškų skaitymo:">
 <!ENTITY viewDefaultCharsetList.accesskey	"s">
-<!ENTITY replyInDefaultCharset2.label     "Kai tai įmanoma, atsakant į laiškus naudoti numatytąją koduotę">
+<!ENTITY replyInDefaultCharset2.label     "Kai tai įmanoma, numatytąją koduotę naudoti ir atsakant į laiškus">
 <!ENTITY replyInDefaultCharset2.accesskey "a">

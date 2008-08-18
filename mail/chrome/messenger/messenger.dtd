@@ -150,7 +150,7 @@
 <!ENTITY showMessengerToolbarCmd.label		"Pašto">
 <!ENTITY showMessengerToolbarCmd.accesskey	"P">
 <!ENTITY customizeToolbar.label "Tvarkyti…">
-<!ENTITY customizeToolbar.accesskey "v">
+<!ENTITY customizeToolbar.accesskey "T">
 
 <!ENTITY messagePaneLayoutStyle.label "Polangių išdėstymas">
 <!ENTITY messagePaneLayoutStyle.accesskey "P">

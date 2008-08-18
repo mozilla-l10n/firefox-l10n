@@ -292,7 +292,7 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Pašalinti">
 <!ENTITY delete.accesskey "š">
-<!ENTITY renameAttachment.label "Pervardyti…">
+<!ENTITY renameAttachment.label "Pervardinti…">
 <!ENTITY renameAttachment.accesskey "P">
 <!ENTITY selectAll.label "Pažymėti viską">
 <!ENTITY selectAll.accesskey "v">

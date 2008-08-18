@@ -39,7 +39,7 @@
 <!ENTITY showCondensedAddresses.label  "Jei asmens duomenys įrašyti į adresų knygą, tai rodyti tik jo asmenvardį (be adreso)">
 <!ENTITY showCondensedAddresses.accesskey "į">
 
-<!ENTITY autoMarkAsRead.label          "Atvertus laiškus pažymėti kaip skaitytus">
+<!ENTITY autoMarkAsRead.label          "Atvertą laišką pažymėti kaip skaitytą">
 <!ENTITY autoMarkAsRead.accesskey      "v">
 <!ENTITY markAsReadNoDelay.label       "iškart">
 <!ENTITY markAsReadNoDelay.accesskey   "i">
