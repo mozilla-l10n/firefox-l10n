@@ -10,7 +10,8 @@
 <!ENTITY  cancel.accesskey                "A">
 
 <!ENTITY  noupdatesfound.title            "Keine Updates verfügbar">
-<!ENTITY  noupdatesfound.intro            "Es sind keine neuen Updates verfügbar. Je nach Einstellung wird automatisch überprüft, ob Updates für &brandShortName; zur Verfügung stehen.">
+<!ENTITY  noupdatesautoenabled.intro      "Es sind keine neuen Updates verfügbar. &brandShortName; wird regelmäßig prüfen, ob Updates verfügbar sind.">
+<!ENTITY  noupdatesautodisabled.intro     "Es sind keine neuen Updates verfügbar. Bitte versuchen Sie es später erneut, oder aktivieren Sie das automatische &brandShortName;-Update.">
 
 <!ENTITY  incompatibleChecking.label      "Es wird überprüft, ob durch dieses Update Probleme mit Ihren Erweiterungen und/oder Themes entstehen…">
 <!ENTITY  clickHere.label                 "Weitere Informationen zu diesem Update ansehen">
