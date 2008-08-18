@@ -11,7 +11,11 @@
 <!ENTITY highPriorityCmd.label "Hoch">
 <!ENTITY highestPriorityCmd.label "Sehr hoch">
 
-<!ENTITY conditionDesc.label "Zu erfüllende Bedingungen:">
+<!ENTITY contextDesc.label "Filter anwenden bei:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Nachrichtenabruf">
+<!ENTITY contextManual.label "Manuellem Ausführen">
+<!ENTITY contextBoth.label "Nachrichtenabruf oder manuellem Ausführen">
 <!ENTITY filterActionDesc.label "Auszuführende Aktionen:">
 <!ENTITY filterActionDesc.accesskey "A">
 
