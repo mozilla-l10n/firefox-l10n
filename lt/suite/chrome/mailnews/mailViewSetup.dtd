@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Rodomų laiškų kategorija">
+<!ENTITY mailViewHeading.label "Laiškų kategorijos pavadinimas:">
+<!ENTITY mailViewHeading.accesskey "v">
+<!ENTITY searchTermCaption.label "Šiai kategorijai priskirti laiškus, kurie tenkina:">
+

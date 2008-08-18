@@ -1,0 +1,245 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- extracted from content/navigator.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY nothingAvailable.label "(Nėra)">
+
+<!ENTITY browserCmd.label	"Naujas naršyklės langas">
+<!ENTITY browserCmd.accesskey	"š">
+<!ENTITY tabCmd.label "Naršyklės kortelė">
+<!ENTITY tabCmd.accesskey "o">
+<!ENTITY tabCmd.commandkey "T">
+<!ENTITY openCmd.label "Atverti tinklavietę…">
+<!ENTITY openCmd.accesskey "v">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Atverti failą…">
+<!ENTITY openFileCmd.accesskey "A">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY recentTabs.label "Paskiausiai užvertos kortelės">
+<!ENTITY recentTabs.accesskey "P">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY editPageCmd.label "Taisyti tinklalapį">
+<!ENTITY editPageCmd.accesskey "T">
+<!ENTITY editPageCmd.commandkey "e">
+<!ENTITY editFrameCmd.label "Taisyti kadrą">
+<!ENTITY editFrameCmd.accesskey "r">
+<!ENTITY editFrameSetCmd.label "Taisyti kadrus">
+<!ENTITY editFrameSetCmd.accesskey "s">
+
+<!ENTITY uploadFile.label "Išsiųsti failą…">
+<!ENTITY uploadFile.accesskey "I">
+
+<!ENTITY printSetupCmd.label "Puslapio nuostatos…">
+<!ENTITY printSetupCmd.accesskey "P">
+<!ENTITY printPreviewCmd.label "Spaudinio peržiūra">
+<!ENTITY printPreviewCmd.accesskey "ž">
+<!ENTITY printCmd.label "Spausdinti…">
+<!ENTITY printCmd.accesskey "S">
+<!ENTITY printCmd.commandkey "P">
+
+<!ENTITY viewMenu.label "Rodymas">
+<!ENTITY viewMenu.accesskey "R">
+
+<!ENTITY toolbarsCmd.label "Ką rodyti:">
+<!ENTITY toolbarsCmd.accesskey "o">
+<!ENTITY navbarCmd.label "Naršymo juosta">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "Asmeninė mygtukų juosta">
+<!ENTITY personalbarCmd.accesskey "A">
+<!ENTITY tabbarCmd.label "Kortelių juosta">
+<!ENTITY tabbarCmd.accesskey "K">
+<!ENTITY taskbarCmd.label "Būsenos juosta">
+<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY componentbarCmd.label "Darbų mygtukų juosta">
+<!ENTITY componentbarCmd.accesskey "D">
+
+<!ENTITY useStyleSheetMenu.label "Pakopiniai stiliai">
+<!ENTITY useStyleSheetMenu.accesskey "s">
+<!ENTITY useStyleSheetNone.label "Nėra">
+<!ENTITY useStyleSheetNone.accesskey "N">
+<!ENTITY useStyleSheetPersistentOnly.label "Pagrindinis tinklalapio stilius">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "P">
+<!ENTITY pageSourceCmd.label "Pirminis tekstas">
+<!ENTITY pageSourceCmd.accesskey "t">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Informacija apie tinklalapį">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Visas ekranas">
+<!ENTITY fullScreenCmd.accesskey "V">
+<!ENTITY translateMenu.label "Išversti tinklalapį">
+<!ENTITY translateMenu.accesskey "v">
+<!ENTITY translate.commandKey "t">
+
+<!ENTITY closeOtherTabs.label "Užverti kitas korteles">
+<!ENTITY closeOtherTabs.accesskey "k">
+<!ENTITY closeWindow.label "Užverti langą">
+<!ENTITY closeWindow.accesskey "l">
+
+<!ENTITY minimizeButton.tooltip       "Suskleisti">
+<!ENTITY restoreButton.tooltip        "Normalioji veiksena">
+
+<!-- I'd like all this to move to an overlay or something -->
+<!ENTITY bidiMenu.label "Dvikrypčio teksto nuostatos">
+<!ENTITY directionBidiMenu.label "Numatytoji kryptis">
+<!ENTITY directionRTLBidiCmd.label "Iš dešinės į kairę">
+<!ENTITY directionLTRBidiCmd.label "Iš kairės į dešinę">
+<!ENTITY texttypeBidiMenu.label "Teksto įvedimas">
+<!ENTITY charsettexttypeBidiCmd.label "Koduotė">
+<!ENTITY logicaltexttypeBidiCmd.label "Loginis">
+<!ENTITY visualtexttypeBidiCmd.label "Vizualus">
+<!ENTITY numeralBidiMenu.label "Skaitmenų vaizdavimas">
+<!ENTITY regularcontextnumeralBidiCmd.label "Kontekstinis">
+<!ENTITY hindicontextnumeralBidiCmd.label "Hindi numeracija RTL dokumente">
+<!ENTITY arabicnumeralBidiCmd.label "Arabų">
+<!ENTITY hindinumeralBidiCmd.label "Hindi">
+<!ENTITY controlstextmodeBidiMenu.label "Tekstas valdikliuose">
+<!ENTITY logicalcontrolstextmodeBidiCmd.label "Loginis">
+<!ENTITY visiualcontrolstextmodeBidiCmd.label "Vizualus">
+<!ENTITY containercontrolstextmodeBidiCmd.label "Kaip dokumente">
+<!ENTITY charactersetBidiMenu.label "Koduotė">
+<!ENTITY doccharactersetBidiCmd.label "Naudoti dokumente nurodytą koduotę">
+<!ENTITY defaultcharactersetBidiCmd.label "Naudoti numatytąją koduotę nepaisant nurodytos dokumente">
+
+<!ENTITY webContentMenu.label "Kalbos ir lokalės">
+<!ENTITY webContentMenu.accesskey "K">
+<!ENTITY downloadMore.label "Atsiųsti…">
+<!ENTITY downloadMore.accesskey "s">
+<!ENTITY applyTheme.label	"Grafiniai apvalkalai"> 
+<!ENTITY applyTheme.accesskey	"a"> 
+<!ENTITY getNewThemesCmd.label "Atsiųsti kitus apvalkalus…">
+<!ENTITY getNewThemesCmd.accesskey "A">
+<!ENTITY searchMenu.label "Paieška">
+<!ENTITY searchMenu.accesskey "P">
+<!ENTITY findOnCmd.label "Ieškoti šiame tinklalapyje…">
+<!ENTITY findOnCmd.accesskey "I">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Ieškoti toliau">
+<!ENTITY findAgainCmd.accesskey "e">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Ieškoti ankstesnio">
+<!ENTITY findPrevCmd.accesskey "o">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
+
+<!ENTITY searchInternetCmd.label "Paieška internete">
+<!ENTITY searchInternetCmd.accesskey "n">
+<!ENTITY searchInternet.commandKey "f">
+
+<!ENTITY clearPrivateDataCmd.label "Pašalinti privačius duomenis…">
+<!ENTITY clearPrivateDataCmd.accesskey "š">
+
+<!ENTITY goMenu.label "Eiti">
+<!ENTITY goMenu.accesskey "E">
+<!ENTITY goHomeCmd.label "Į pradžios tinklalapį">
+<!ENTITY goHomeCmd.accesskey "r">
+
+<!ENTITY bookmarksMenu.label "Adresynas">
+<!ENTITY bookmarksMenu.accesskey "A">
+<!ENTITY addCurPageCmd.label "Įrašyti į adresyną">
+<!ENTITY addCurPageCmd.accesskey "r">
+<!ENTITY addCurPageAsCmd.label "Įrašyti į adresyną kaip…">
+<!ENTITY addCurPageAsCmd.accesskey "a">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Įrašyti į adresyną šią kortelių grupę…">
+<!ENTITY addCurTabsAsCmd.accesskey "k">
+<!ENTITY manBookmarksCmd.label "Tvarkyti adresyną…">
+<!ENTITY manBookmarksCmd.accesskey "T">
+<!ENTITY manBookmarksCmd.commandkey "b">
+<!ENTITY feedsMenu.label "Prenumeruoti šio tinklalapio naujienas">
+<!ENTITY feedsMenu.accesskey "P">
+<!ENTITY emptyItem.label "(Tuščias)">
+
+<!ENTITY helpMenuCmd.label "Žinynas">
+<!ENTITY helpMenuCmd.accesskey "Ž">
+<!ENTITY helpContentsCmd.label "Žinyno turinys">
+<!ENTITY softwareUpdatesCmd.label "Programinės įrangos atnaujinimai">
+<!ENTITY technicalSupportCmd.label "Techninė priežiūra">
+<!ENTITY releaseNotesCmd.label "Laidos apžvalga">
+
+<!ENTITY menuBar.tooltip                  "Meniu juosta">
+<!ENTITY personalToolbar.tooltip          "Asmeninė mygtukų juosta">
+<!ENTITY navigationToolbar.tooltip        "Naršymo mygtykų juosta">
+
+<!-- Toolbar items --> 
+<!ENTITY backButton.label             "Atgal">
+<!ENTITY backButton.tooltip           "Vienu tinklalapiu atgal">
+<!ENTITY forwardButton.label          "Pirmyn">
+<!ENTITY forwardButton.tooltip        "Vienu tinklalapiu pirmyn">
+<!ENTITY reloadButton.label           "Iš naujo">
+<!ENTITY reloadButton.tooltip         "Šį tinklalapį atsiųsti iš naujo">
+<!ENTITY stopButton.label             "Stabdyti">
+<!ENTITY stopButton.tooltip           "Stabdyti šio tinklalapio atsiuntimą">
+<!ENTITY searchButton.label           "Ieškoti">
+<!ENTITY searchButton.tooltip         "Surinkite žodį ar frazę adresų juostoje (laukelyje kairėje) ir spragtelėkite „Ieškoti“">
+<!ENTITY goButton.label               "Eiti">
+<!ENTITY goButton.tooltip             "Adresų juostoje surinkite adresą ir spragtelėkite „Eiti“">
+<!ENTITY printButton.label            "Spausdinti">
+<!ENTITY printButton.tooltip          "Spausdinti šį tinklalapį">
+
+<!ENTITY throbber.tooltip             "Eiti į &vendorShortName; tinklalapį">
+
+<!ENTITY locationBar.tooltip          "Paieškai surinkite žodį, frazę arba interneto adresą">
+<!ENTITY locationBar.accesskey        "A">
+<!ENTITY locationBar.title            "Adresas">
+
+<!ENTITY proxyIcon.tooltip            "Jei norite saitą į tinklalapį įrašyti į asmeninę mygtukų juostą, nuvilkite šį ženkliuką">
+<!ENTITY internetKeyword.tooltip      "Grįžti į prieš tai žiūrėtą tinklalapį arba parinkti reikšminį žodį">
+
+<!-- Toolbar items --> 
+<!ENTITY  bookmarksButton.label       "Adresynas">
+<!ENTITY  bookmarksButton.tooltip     "Įrašytų adresų sąrašas">
+<!ENTITY  homeButton.label            "Pradžia">
+
+<!-- Statusbar -->
+<!ENTITY  statusText.label            "Dokumentas baigtas">
+
+<!ENTITY historyCmd.label           "Į žurnalą">  
+<!ENTITY historyCmd.accesskey       "ž">
+<!ENTITY history.commandKey         "h">
+
+<!ENTITY popupIcon.tooltiptext      "Leisti šios svetainės iškylančiuosius langus">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Pakeisti puslapio kryptį">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "P">

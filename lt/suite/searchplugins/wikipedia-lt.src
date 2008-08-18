@@ -1,0 +1,44 @@
+# Mozilla search plugin for Lithuanian Wikipedia lt.wikipedia.org
+# by Edgaras Janusauskas <edgaras.janusauskas@gmail.com>.
+# http://carey.geek.nz/code/wikipedia-searchplugin/
+# Minor modifications by Rimas Kudelis <rq@akl.lt>
+# This file is released into the public domain.
+# Thanks: Michael Franz.
+#
+# Version: 1.4.4.1 (2008-08-18)
+# Minor modifications by Rimas Kudelis <rq@akl.lt>
+# Country: LT
+# Language: lt
+
+<search
+  version="7.1"
+  sourceTextEncoding="0"
+  name="Wikipedia (lt)"
+  description="Vikipedija, laisvoji enciklopedija"
+  method="GET"
+  action="http://lt.wikipedia.org/wiki/Specialus:Search"
+  queryCharset="UTF-8"
+  searchForm="http://lt.wikipedia.org/wiki/Specialus:Search"
+>
+
+<input name="search" user>
+<input name="fulltext" value="fulltext">
+<input name="sourceid" value="Mozilla-search">
+
+<interpret
+	browserResultType="result"
+	charset="UTF-8"
+	language="lt"
+	resultListStart="<div id='results'></div>"
+	resultListEnd="<hr/>"
+	resultItemStart="<li style='padding-bottom: 1em'>"
+	resultItemEnd="</li>"
+>
+</search>
+
+<browser
+	alsomatch="http://lt.wikipedia.org/w/index.php?title=Specialus:Search"
+	update="http://mycroft.mozdev.org/update.php/id0/wikipedia-lt.src"
+	updateicon="http://mycroft.mozdev.org/update.php/id0/wikipedia-lt.png"
+	updateCheckDays="7"
+>

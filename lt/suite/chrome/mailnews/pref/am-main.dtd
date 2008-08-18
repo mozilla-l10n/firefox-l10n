@@ -1,0 +1,35 @@
+<!-- extracted from am-main.xul -->
+
+<!ENTITY accountTitle.label "Paskyros nuostatos">
+<!ENTITY accountName.label "Paskyros pavadinimas:">
+<!ENTITY accountName.accesskey "P">
+<!ENTITY accountNameDesc.label "Paskyros pavadinimas identifikuoja abonentą tik šioje pašto programoje">
+<!ENTITY identityTitle.label "Tapatumo duomenys">
+<!ENTITY identityDesc.label "Paskyros nuostatose laikoma Jus identifikuojanti informacija, kurią mato laiškų gavėjai.">
+<!ENTITY name.label "Asmenvardis:">
+<!ENTITY name.accesskey "A">
+<!ENTITY email.label "El. pašto adresas:">
+<!ENTITY email.accesskey "E">
+<!ENTITY replyTo.label "Atgalinis adresas:">
+<!ENTITY replyTo.accesskey "t">
+<!ENTITY organization.label "Organizacija:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signature.label "Į laiško pabaigą įdėti šią vizitinę kortelę:">
+<!ENTITY signature.accesskey "d">
+<!ENTITY edit.label "Taisyti…">
+<!ENTITY choose.label "Parinkti failą…">
+<!ENTITY choose.accesskey "r">
+<!ENTITY editVCard.label "Taisyti kortelę…">
+<!ENTITY editVCard.accesskey "k">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Pridėti verslo kortelę (vCard)">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY manageIdentities.label "Tvarkyti tapatumo duomenis…">
+<!ENTITY manageIdentities.accesskey "m">
+
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+<!ENTITY smtpName.label "Išsiuntimo serveris (SMTP):">
+<!ENTITY smtpName.accesskey "u">
+<!ENTITY smtpDefaultServer.label "Naudoti numatytąjį serverį">
+

@@ -1,0 +1,15 @@
+<!ENTITY  pref.history.title                "Žurnalas">
+
+<!ENTITY  pref.history.caption              "Naršymo žurnalas">
+<!ENTITY  historyPages.label                "Žurnalas – tai anksčiau aplankytų tinklalapių sąrašas.">
+<!ENTITY  pageHis.label                     "Žurnale laikyti tinklalapius, aplankytus per pastarąsias">
+<!ENTITY  pageHis.accesskey                 "Ž">
+<!ENTITY  days.label                        "dienas(-ų)">
+<!ENTITY  clearHistory.label                "Išvalyti">
+<!ENTITY  clearHistory.accesskey            "v">
+
+<!ENTITY  locationBarHistory.caption        "Adresų juostos žurnalas">
+<!ENTITY  clearLocationBar.label            "Išvalyti adresų juostos išskleidžiamajame meniu esantį adresų sąrašą.">
+<!ENTITY  clearLocationBarButton.label      "Išvalyti adresų juostos žurnalą">
+<!ENTITY  clearLocationBarButton.accesskey  "a">
+  

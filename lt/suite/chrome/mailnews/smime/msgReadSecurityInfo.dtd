@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "Laiško saugumas">
+<!ENTITY signatureCert.label "Rodyti pasirašymo liudijimą">
+<!ENTITY encryptionCert.label "Rodyti užšifravimo liudijimą">
+
+<!ENTITY signer.name "Pasirašė:">
+<!ENTITY recipient.name "Kam užšifruota:">
+<!ENTITY email.address "El. pašto adresas:">
+<!ENTITY issuer.name "Liudijimą išdavė:">

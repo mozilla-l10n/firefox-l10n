@@ -1,0 +1,406 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>Laiško skaitmeninis parašas ir užšifravimas</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+<link rel="stylesheet" href="chrome://help/locale/content_style.css" type="text/css">
+</head>
+<body>
+
+<a name="secure_mail_first"></a>
+<a name="settings:signed &amp; encrypted mailIDX"></a>
+<a name="signing_email_messagesSDX"></a>
+<a name="encrypting_email_messagesSDX"></a>
+<a name="Mail_and_Newsgroups:signing_messagesIDX"></a>
+<a name="Mail_and_Newsgroups:encrypting_messagesIDX"></a>
+<a name="signing_email_messagesIDX"></a>
+<a name="encryption:of_email_messagesIDX"></a>
+<div class="boilerplate">Šį žinyno skyrių pateikė bendrovė „Netscape“. Tai
+tik informacija, kuri galėtų pagelbėti tiems, kas rūpinasi duomenų saugumu
+internete. Jis neaprėpia visų saugumo aspektų dirbant tinkle, o taip pat nelaikytinas
+bendrovės „Netscape“ saugumo internete rekomendacijomis.</div>
+
+<hr>
+<h1>Laiško skaitmeninis parašas ir šifravimas</h1>
+<p> 
+
+<table cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
+<tbody><tr>
+<td class="inthissections">
+<p><a href="#about_sigs_encrypt">Apie skaitmeninį parašą ir užšifravimą</a></p>
+<p><a href="#get_mail_certs">Kitų asmenų liudijimų gavimas</a></p>
+<p><a href="#config_account">Saugumo nuostatų sąranka</a></p>
+<p><a href="#signing">Naujo laiško skaitmeninis parašas ir užšifravimas</a></p>
+<p><a href="#reading">Skaitmeniškai pasirašyto ir užšifruoto laiško skaitymas</a></p>
+<p><a href="#compose_security">Laiško saugumas. Laiškų rašymo langas</a></p>
+<p><a href="#received_security">Laiško saugumas. Gautas laiškas</a></p></td>
+</tr>
+</tbody></table>
+
+</p><p> </p>
+<a name="about_sigs_encrypt"></a>
+<h2>Apie skaitmeninį parašą ir užšifravimą </h2>
+
+<p>Elektroninį laišką galite skaitmeniškai pasirašyti (prie jo pridėti skaitmeninį parašą).
+<a href="glossary.html#digital_signature">Skaitmeninis parašas</a> ne tik patvirtina, kad laiškas yra Jūsų, bet ir užtikrina, jog laiško turinys nebuvo pakeistas po
+to, kai laiškas buvo pasirašytas ir išsiųstas.</p><p>Laišką taip pat galima šifruoti. <a href="glossary.html#encryption">Užšifruotą</a>
+laišką, siunčiamą internetu, sudėtinga iššifruoti ir
+perskaityti tam, kuris nėra to laiško adresatas.</p><p>Pastebėsime, kad
+naujienų grupių laiškų negalima skaitmeniškai pasirašyti ir užšifruoti.</p><p>Prieš
+pasirašant arba užšifruojant laišką, reikia tam pasiruošti:
+
+</p><ol>
+	<li>Gauti vieną ar kelis <a href="glossary.html#certificate">liudijimus</a>.
+      Apie tai, kaip tai padaryti, rašoma skyriuje <a href="using_certs_help.html#using_certs_get">Liudijimo
+      gavimas</a>.</li>
+
+	<li>Suderinti el. pašto paskyros saugumo nuostatas (žr. <a href="#config_account">Saugumo
+      nuostatų sąranka</a>).</li>
+
+</ol>
+
+<p>Jei atlikote šiuos veiksmus, galite iš karto pereiti prie skyrelio <a href="#signing">Naujo
+laiško skaitmeninis parašas ir užšifravimas</a>.</p><p>Tolesniuose dviejuose
+skyreliuose trumpai aprašoma, kaip veikia skaitmeninis parašas ir užšifravimas.
+Daugiau techninio pobūdžio informacijos apie tai galima rasti
+tinklalapyje <a href="http://developer.netscape.com/docs/manuals/security/pkin/index.htm" target="_blank">Įvadas
+į kriptografiją viešuoju raktu</a> (anglų kalba).
+</p><p> </p>
+<a name="how_sigs_work"></a>
+<h3>Kaip veikia skaitmeninis parašas</h3>
+
+<p>Skaitmeninis parašas yra kiekvienam laiškui unikalus kodas, sukurtas <a href="glossary.html#public-key_cryptography">kriptografijos
+viešuoju raktu</a> priemonėmis.  
+
+</p><p>Skaitmeninis parašas neturi nieko bendra su ranka rašytu parašu, tačiau gali būti naudojamas panašiems teisiniams
+tikslams, pavyzdžiui, sutartims pasirašyti.</p><p>Norint sukurti siunčiamo
+laiško skaitmeninį parašą, reikia turėti:
+
+</p><ul>
+	<li> <a href="glossary.html#signing_certificate">Pasirašymo liudijimą</a>,
+      kuris patvirtintų laiško Jūsų tapatumą. Pasirašant laišką,
+      į jį įdedamas ir pasirašymo liudijimas. Šis liudijimas turi <a href="glossary.html#public_key">viešąjį
+      raktą</a>. Laiško gavėjas, kartu su laišku gavęs ir Jūsų pasirašymo
+      liudijimą, gali patikrinti Jūsų skaitmeninį parašą.</li> 
+    <p>Liudijimas šiek tiek panašus į įrašą apie Jus telefonų knygoje (asmenvardis ir telefono numeris): tai viešoji informacija,
+    padėsianti kitiems asmenis susisiekti su Jumis.</p> 
+	<li><a href="glossary.html#private_key">Privatųjį raktą</a>, kuris buvo
+      sukurtas pirmą kartą gavus liudijimą ir laikomas Jūsų kompiuteryje. </li>
+
+    <p>Pasirašymo liudijimo privatųjį raktą apsaugo <a href="glossary.html#master_password">pagrindinis
+    slaptažodis</a> ir niekam kitam jo neatskleidžia. Pašto
+    programa iš Jūsų privataus rakto ir pasirašomojo laiško duomenų
+    sukuria unikalų laiško skaitmeninį parašą (kodą), kurį gali atpažinti
+    laiško gavėjo programa. 
+</p></ul>
+
+<p> </p>
+<a name="how_encrypt_works"></a>
+<h3>Kaip veikia užšifravimas</h3>
+
+<p>Jei norite užšifruoti el. laišką, reikia turėti tiek <a href="glossary.html#encryption_certificate">užšifravimo
+liudijimų</a>, kiek yra laiško gavėjų. Kiekvieno liudijimo viešasis raktas
+panaudojamas užšifruojant laišką, skirtą konkrečiam gavėjui (užšifravimo
+liudijimo savininkui).</p><p>Laiškas negali būti užšifruotas, jei neturite bent
+vieno jo gavėjo užšifravimo liudijimo.</p><p>Jūsų laiško gavėjo programa
+panaudoja jo kompiuteryje esantį privatųjį raktą laiškui iššifruoti.</p><p>
+[ <a href="#secure_mail_first">Grįžti į skyriaus pradžią</a> ]
+</p>
+
+<p> </p>
+<a NAME="get_mail_certs"></a>
+<a name="LDAP:fetching_certificatesIDX"></a>
+<a name="LDAP_certificate_fetchingSDX"></a> 
+
+<h2>Kitų asmenų liudijimų gavimas</h2>
+
+<p>Kai siunčiamas laiškas su skaitmeniniu parašu, kartu su laišku išsiunčiamas
+ir užšifravimo liudijimas. Laiško gavėjas kartu su laišku gauna ir pasirašiusiojo
+asmens (siuntėjo) liudijimą, todėl gali jo savininkui siųsti užšifruotus
+laiškus.</p><p>Vienas paprasčiausių būdų gauti kieno nors liudijimą – paprašyti, kad tas asmuo atsiųstų skaitmeniškai pasirašytą laišką.</p><p>Kitų asmenų liudijimus, gaunamus kartu
+su laiškais, išsaugo <a href="certs_help.html">liudijimų
+tvarkytuvė</a> (liudijimų tvarkytuvė – tai naršyklės dalis, skirta
+liudijimams tvarkyti). Tai patogu, kadangi norint kam nors
+išsiųsti užšifruotą laišką, reikia turėti gavėjo liudijimą.</p>
+<p>Kitas būdas gauti liudijimą asmens, kuriam norite išsiųsti užšifruotą laišką, yra ieškoti
+jo viešajame kataloge, pavyzdžiui, įvairių bendrovių tvarkomuose <i>phonebook</i>
+kataloguose.</p><p>Galima nustatyti, kad liudijimų būtų ieškoma automatiškai.
+Skyriuose <a href="mail_help.xhtml#addressing_preferences">Pašto
+nuostatos. Adresavimas</a> arba <a href="mail_help.xhtml#addressing">Pašto
+ir naujienų grupių nuostatos. Adresavimas</a> aprašyta, kaip parinkti
+nuostatas, kad gavėjų el. pašto adresų būtų ieškoma pasirinktame kataloge. Tuomet
+kai tik bandysite išsiųsti užšifruotą laišką gavėjui, kurio užšifravimo
+liudijimo neturite, pašto programa ieškos reikiamo liudijimo tame pačiame
+kataloge, kur paprastai ieško el. pašto adresų.</p><p>Neturimo liudijimo bus ieškoma
+kataloge ir tada, kai laiško rašymo lango mygtukų juostoje spragtelėsite
+mygtuką <i>Saugumas</i>.</p><p>
+[ <a href="#secure_mail_first">Grįžti į skyriaus pradžią</a> ]
+</p>
+
+<p> </p>
+<a name="encryption:settings_for_emailIDX"></a>
+<a name="config_account"></a>
+<a name="mail_security_settingsSDX"></a>
+<h2>Saugumo nuostatų sąranka</h2>
+
+<p>Gavus el. pašto liudijimą(-us), reikia nurodyti, kokie
+liudijimai bus naudojami skaitmeniškai pasirašant ir užšifruojant laiškus. 
+
+</p><p>Daugiau informacijos apie tai, kaip gauti el. pašto liudijimą, galima rasti skyriuje <a href="using_certs_help.html#using_certs_get">Liudijimo
+gavimas</a>.</p><p>Jei norite nurodyti, kokius pasirašymo ir užšifravimo
+liudijimus naudoti tam tikroje pašto paskyroje, atlikite tokius veiksmus
+(pradedama iš pagrindinio pašto programos lango):
+
+</p><ol>
+	<li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Paskyrų nuostatos</i>.</li>
+   	<li>Spragtelėkite užrašą <i>Saugumas</i>, esantį žemiau pavadinimo
+      tos paskyros, kurios saugumo nuostatas norite pakeisti.</li>
+	<li>Atsivėrusio nuostatų lango dalyje <i>Skaitmeninis parašas</i>
+      spragtelėkite mygtuką <i>Parinkti liudijimą</i>. (Gali būti, kad
+      programa paprašys surinkti <a href="glossary.html#master_password">pagrindinį
+      slaptažodį</a>.)</li>
+	<p>Atsiveria dialogo langas, kuriame galima pasirinkti liudijimą iš turimų
+    pasirašymo liudijimų.</p>
+	<li>Pažymėkite pasirašymo liudijimą ir spragtelėkite mygtuką <i>Gerai</i>.</li>
+	<li>Atlikite panašius veiksmus nuostatų lango dalyje <i>Šifravimas</i>:
+      spragtelėkite mygtuką <i>Parinkti liudijimą</i>, pasirinkite užšifravimo
+      liudijimą ir spragtelėkite <i>Gerai</i>.</li>
+
+    <p>Kai kuriais atvejais užšifravimui galima nurodyti tą patį liudijimą,
+    kurį pasirinkote skaitmeniniam parašui. Tai galite sužinoti iš sistemos
+    administratoriaus.
+
+</p></ol>
+
+<p>Paskyros saugumo nuostatų lange taip pat galima pasirinkti, kad būtų
+skaitmeniškai pasirašyti ir užšifruoti visi siunčiami laiškai. Šios
+paskyros nuostatos yra numatytosios (jos naudojamos, jei laiško rašymo lange
+neparinkta kitokių nuostatų).</p>
+<p>Jei norite parinkti numatytąsias paskyros skaitmeninio parašo ir užšifravimo nuostatas, paskyros nuostatų skydelyje <i>Saugumas</i> (kaip į jį patekti – aprašyta aukščiau) parinkite šias nuostatas:
+
+</p><ul>
+
+	<li>Lango dalyje <i>Skaitmeninis parašas</i>:</li>
+	<ul><li><b><i>Išsiunčiamus laiškus pasirašyti skaitmeniškai.</i></b>
+        Jei šis langelis pažymėtas, tai visi laiškai, siunčiami iš šios
+        paskyros adreso, bus skaitmeniškai pasirašyti, nebent ši nuostata būtų
+        pakeista laiško rašymo lange prieš išsiunčiant laišką. Jei norite šią
+        numatytąją parinktį išjungti, pašalinkite langelio varnelę. </li></ul>
+	<li>Lango dalyje <i>Užšifravimas</i> pažymėkite vieną iš akučių:</li>
+	<ul><li><b><i>Niekada.</i></b> Jei pažymėta ši akutė, tai visi laiškai iš šios paskyros bus siunčiami nešifruotu
+        pavidalu, nebent ši nuostata atskiram laiškui būtų pakeista laiško rašymo lange prieš išsiunčiant laišką.</li>
+	<li><b><i>Užšifruoti (laiškas nebus išsiųstas, jei nėra bent vieno iš
+      jo gavėjų šifravimo liudijimo).</i></b>
+Jei pažymėta ši akutė, tai laiškai, siunčiami iš šios paskyros,
+bus užšifruojami, bet tik tuo atveju, jei turite visų laiško
+gavėjų galiojančius užšifravimo liudijimus. Jei liudijimų
+neturite, pašto programa negalės laiško išsiųsti šifruotu pavidalu
+(teks atsisakyti šio laiško šifravimo nuostatos). </li>
+</ul></ul>
+<p>Parinkę pašto saugumo nuostatas, spragtelėkite mygtuką <i>Gerai</i>.</p><p>
+[ <a href="#secure_mail_first">Grįžti į skyriau pradžią</a> ]
+</p>
+<p> </p>
+<a name="signing"></a>
+<h2>Naujo laiško skaitmeninis parašas ir užšifravimas</h2>
+
+<p>Prieš išsiunčiant skaitmeniškai pasirašytą arba užšifruotą laišką,
+reikia turėti bent vieną el. pašto liudijimą ir tinkamai parinkti pašto
+programos saugumo nuostatas (žr. sk. <a href="#about_sigs_encrypt">Apie
+skaitmeninį parašą ir užšifravimą</a>).</p><p>Nuostatos, parinktos lange <a href="mail_help.xhtml#security">Paskyrų
+nuostatos –&gt; Saugumas</a> laikomos numatytosiomis, kai pradedamas rašyti
+naujas laiškas. 
+
+</p><p>Laiško rašymo langas atveriamas pašto programos pagrindiniame lange
+spragtelėjus mygtuką <i>Naujas laiškas</i>. Sužinoti, kokios pašto saugumo
+nuostatos parinktos numatytosiomis, galima labai greitai. Tereikia pažvelgti į
+lango dešiniajame apatiniame kampe rodomą ženkliuką:</p>
+
+	<table><tbody><tr><td> </td><td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif" alt="digital signature icon"></td><td>Laiškas
+          bus skaitmeniškai pasirašytas (laikoma, kad turite galiojantį
+          liudijimą, patvirtinantį Jūsų tapatumą).</td></tr>
+	<tr><td> </td><td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif" alt="encryption icon"></td><td>Laiškas
+        bus užšifruotas (laikoma, kad turite visų laiško gavėjų galiojančius
+        liudijimus).</td></tr></tbody></table>
+<p>Prieš išsiųsdami atskirus laiškus galite pakeisti savo nuomonę. Laiško
+rašymo lango pašto mygtukų juostoje suraskite mygtuką su užrašu <i>Saugumas</i>
+ir spragtelėkite šalia jo esančią rodykliukę. Iš išsiskleidusio
+meniu pasirinkite norimą nuostatą:
+</p><ul>
+	<li><b><i>Nešifruoti.</i></b> Jei pažymėsite tašku šį meniu punktą,
+      laiškas bus išsiųstas nešifruotu pavidalu.</li>
+	<li><b><i>Šifruoti.</i></b> Jei pažymėsite šį punktą ir jei turite visų
+      laiško gavėjų galiojančius liudijimus, tai laiškas bus išsiųstas šifruotu
+      pavidalu.</li>
+	<li><b><i>Su skaitmeniniu parašu.</i></b> Jei turite galiojantį pasirašymo
+      liudijimą ir varnele pažymėsite šį užrašą, tai laiškas bus išsiųstas
+      su skaitmeniniu parašu.</li> 
+	<li><b><i>Informacija apie laiško saugumą.</i></b> Jei pasirinksite šį
+      meniu punktą, bus atvertas langas su išsamia informacija apie laiško
+      saugumą. Pavyzdžiui, ši informacija gali padėti sužinoti, ar turite
+      visų laiško gavėjų užšifravimo liudijimus.</li>
+</ul>
+<p>Yra ir kitas būdas pamatyti informaciją apie laiško saugumo būseną:
+reikia spragtelėti rakto arba spynos ženkliuką (žr. sk. <a href="#compose_security">Laiško
+saugumas. Laiškų rašymo langas</a>).</p><p>
+[ <a href="#secure_mail_first">Grįžti į skyriaus pradžią</a> ]
+</p>
+<p> </p>
+<a name="security:checking_for_received_messagesIDX"></a>
+<a name="checking_security_for_received_messagesSDX"></a>
+<a name="reading"></a>
+<h2>Skaitmeniškai pasirašyto ir užšifruoto laiško skaitymas</h2>
+
+<p>Peržiūrint skaitmeniškai pasirašytą arba užšifruotą laišką pašto
+programos lange, laiško antraštės lauko viršutiniame dešiniajame kampe
+atsiranda ženkliukai, informuojantys apie laiško saugumo būseną:</p>
+
+	<table><tbody><tr><td> </td><td><img src="chrome://messenger/skin/smime/icons/hdrSignOk.gif" alt="digital signature icon"></td><td>Laiškas
+          skaitmeniškai pasirašytas ir patikrintas. Jei būtų nesklandumų su
+          laiško parašu, būtų pavaizduotas sulaužytas pieštukas.</td></tr>
+	<tr><td> </td><td><img src="chrome://messenger/skin/smime/icons/hdrSignUnknown.gif" alt="unknown icon"></td><td>Laiškas
+        skaitmeniškai pasirašytas, tačiau jis turi didelį priedą, dar neatsiųstą
+        iš IMAP pašto serverio. Dėl šios priežasties laiško skaitmeninis
+        parašas negali būti patikrintas. Parsisiųsti laiško priedą ir
+        patikrinti parašą galima spragtelėjus šį ženkliuką.</td></tr>
+	<tr><td> </td><td><img src="chrome://messenger/skin/smime/icons/hdrCryptoOk.gif" alt="encryption icon"></td><td>Laiškas
+        užšifruotas. Jei būtų kokių nors nesklandumų su užšifravimu, būtų
+        pavaizduotas perbrauktas raktas.</td></tr>
+	</tbody></table>
+
+<p>Apie liudijimų patikrą žr. <a href="using_certs_help.html#using_certs_validation">Patikra</a>.</p><p>Jei
+norite išsamesnės informacijos apie laiško saugumą, spragtelėkite
+rakto arba spynos ženkliuką arba atlikite skyriuje <a href="#received_security">Laiško
+saugumas. Gautas laiškas</a> aprašytus veiksmus.</p><p>
+[ <a href="#secure_mail_first">Grįžti į skyriaus pradžią</a> ]
+</p>
+<p> </p>
+
+<hr>
+<a name="encryption:status_of_message_before sendingIDX"></a>
+<a name="security:checking_before_sending_messageIDX"></a>
+<a name="checking_security_before_sending_messageSDX"></a>
+<a name="compose_security"></a>
+<h2>Laiško saugumas. Laiškų rašymo langas</h2>
+
+<p>Čia aprašomas langas <i>Laiško saugumas</i>, kurį galima atverti rašant
+bet kurį laišką. Jei šis langas dar neatvertas, laiškų rašymo lange
+spragtelėkite mygtuką <i>Saugumas</i>.</p><p>Lange <i>Laiško saugumas</i> nurodoma su
+kokia informacija bus išsiųstas laiškas:
+
+</p><ul>
+	<li><b><i>Skaitmeninis parašas.</i></b> Šioje eilutėje rašoma, ar laiškas
+      bus skaitmeniškai pasirašytas. Yra trys variantai:</li>
+
+	<ul>
+		<li><b><i>Taip.</i></b> Tai reiškia, kad pasirinkta, jog laiškas būtų
+          išsiųstas su skaitmeniniu parašu, Jūs turite galiojantį tapatybės
+          liudijimą, ir laiškas gali būti pasirašytas.</li>
+		<li><b><i>Ne.</i></b> Buvo pasirinkta nuostata laiško skaitmeniškai
+          nepasirašyti.</li>
+		<li><b><i>Neįmanoma.</i></b> Buvo pasirinkta išsiųsti laišką su
+          skaitmeniniu parašu. Tačiau galiojančio Jūsų tapatumą
+          patvirtinančio <a href="glossary.html#certificate">liudijimo</a> negalima pasiekti arba yra kitų nesklandumų,
+          dėl kurių neįmanoma skaitmeniškai pasirašyti laiško.</li>
+
+	</ul>
+
+
+	<li><b><i>Užšifravimas.</i></b> Šioje eilutėje rašoma, ar laiškas yra
+      užšifruotas. Yra trys užrašų variantai:</li>
+	<ul>
+		<li><b><i>Taip.</i></b> Tai reiškia, kad pasirinkta, jog laiškas būtų
+          išsiųstas šifruotu pavidalu, turite visų laiško gavėjų
+          galiojančius užšifravimo liudijimus, ir laiškas gali būti užšifruotas.</li>
+		<li><b><i>Ne.</i></b> Buvo pasirinkta nuostata laiško neužšifruoti,
+          arba jo užšifruoti negalima.</li>
+		<li><b><i>Neįmanoma.</i></b> Buvo pasirinkta nuostata užšifruoti šį
+          laišką. Tačiau nėra bent vieno gavėjo galiojančio liudijimo,
+          arba laiške nenurodyta jokio gavėjo, arba yra kitų nesklandumų, dėl
+          kurių neįmanoma užšifruoti laišką.</li>
+
+	</ul>
+</ul>
+
+<p>Lange <i>Laiško saugumas</i> taip pat išvardyti turimi laiško gavėjų
+liudijimai: 
+
+</p><ul>
+	<li><b><i>Peržiūra.</i></b> Jei reikia peržiūrėti informaciją apie kurį
+      nors sąraše esantį liudijimą, pažymėkite jo vardą ir spragtelėkite
+      mygtuką <i>Rodyti</i>.</li>
+</ul>
+
+<p>Daugiau informacijos apie liudijimo gavimą ir laiško saugumo nuostatų
+parinkimą galima rasti skyriuje <a href="#secure_mail_first">Laiško
+skaitmeninis parašas ir užšifravimas</a>.</p>
+<p>Atskirų laiškų skaitmeninio parašo ir užšifravimo nuostatas galima parinkti laiškų rašymo lange. Tam reikia spragtelėti šalia mygtuko <i>Saugumas</i> esančią rodykliukę ir
+pažymėti norimą parinktį.</p><p>Apie tai, kaip parinkti visų siunčiamų laiškų
+numatytąsias skaitmeninio parašo ir užšifravimo nuostatas, žr. sk. <a href="mail_help.xhtml#security">Paskyrų nuostatos. Saugumas</a></p>
+<p>
+[ <a href="#secure_mail_first">Grįžti į skyriaus pradžią</a> ]
+</p>
+
+<p> </p>
+<hr><a name="encryption:status_of_received messageIDX"></a>
+<a name="received_security"></a>
+<h2>Laiško saugumas. Gautas laiškas</h2>
+
+<p>Šiame skyrelyje aprašoma, kokią informaciją apie gautą laišką galima
+sužinoti iš pagrindinio pašto programos lango <i>Laiško saugumas</i>.
+Jei šis langas dar neatvertas, atlikite šiuos veiksmus:
+
+</p><ol>
+	<li>Pašto programos pagrindiniame lange pažymėkite laišką, kurio
+      saugumo informaciją norite peržiūrėti.</li>
+	<li>Atverkite meniu <i>Rodinys</i> ir pasirinkite <i>Informacija apie laiško
+      saugumą</i>.</li>
+</ol>
+
+<p>Atsivėrusiame lange <i>Laiško saugumas</i> pateikiama tokia informacija
+apie pažymėtą laišką:
+
+</p><ul>
+	<li><b><i>Skaitmeninis parašas.</i></b> Lango viršutinėje dalyje
+      nurodoma, ar laiškas skaitmeniškai pasirašytas. Jei laiškas pasirašytas, tai nurodoma, ar parašas galioja. </li>
+
+    <p>Jei laiško pasirašymo liudijimo patikrinti nepavyko, o naršyklės nuostatose
+įjungtas liudijimų tikrinimas pagal būsenos paliudijimo tinklu protokolą
+OCSP, tai patikrinkite, ar gerai parinkote šio protokolo nuostatas lange
+<a href="validation_help.html#validation_first">Privatumas
+    ir saugumas –&gt; Patikra</a>. Jei apie šį protokolą žinote nepakankamai,
+    rekomenduotina, kad nuostatas patikrintų sistemos administratorius. Jei
+    nuostatos parinktos teisingai, vadinasi, galėjo būti nesklandumų su
+    naudojama protokolo OCSP tarnyba arba liudijimas, panaudotas skaitmeniškai pasirašant
+    laišką, nebegalioja.</p><p>Apie tai, kad parašas negalioja, gali būti pranešta ir
+    tuo atveju, jei
+    netinkamai parinktos pasitikėjimo liudijimu nuostatos. Tada atverkite <a href="certs_help.html">liudijimų
+    tvarkytuvę</a> ir patikrinkite arba pataisykite pasitikėjimo nuostatas.</p>
+		<li><b><i>Rodyti pasirašymo liudijimą.</i></b>  Jei laiškas buvo
+          skaitmeniškai pasirašytas, tai spragtelėjus šį mygtuką bus
+          parodyta informacija apie pasirašymui panaudotą liudijimą. </li>
+
+	<li><b><i>Užšifravimas.</i></b> Apatinėje lango dalyje būna nurodyta, ar
+      laiškas yra užšifruotas. Taip pat nurodomi iššifravimo nesklandumai
+      (jei jų yra).</li>
+
+	<ul>
+		<li>Jei pranešta, kad laiško turinys pakeistas, kol buvo siunčiamas, turėtumėte
+          paprašyti siuntėjo, kad jis atsiųstų laišką dar kartą. Laiško
+          turinys galėjo būti pakeistas ir dėl tinklo nesklandumų.</li>
+
+    		<li>Jei liudijimo, kurį siuntėjas panaudojo laiškui užšifruoti, kopijos kompiuteryje nebėra, tai programai
+              nepasiekiamas ir privatusis raktas, reikalingas laiškui iššifruoti.
+              Tokiu atveju vienintelė išeitis – importuoti to liudijimo
+              atsarginę kopiją (žr. <a href="certs_help.html#My_Certificates">Jūsų
+              liudijimai</a>). Jei neturite liudijimo atsarginės kopijos, ar
+              negalite jos importuoti (tarkime, pamiršote slaptažodį), tai
+              laiško iššifruoti nepavyks. </li>
+</ul>
+</ul>
+<p>
+[ <a href="#secure_mail_first">Grįžti į skyriaus pradžią</a> ]
+</p>
+<p> 
+</p><hr>
+<p>Copyright © 1998–2003 The Mozilla Foundation.</p>
+<p>© Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2004</p>
+</body></html>

@@ -1,0 +1,22 @@
+
+<!ENTITY  findABookmark.label               "Ieškoti adresyne…">
+<!ENTITY  findABookmark.accesskey           "š">
+<!ENTITY  newBookmark.label                 "Naujas adresas…">
+<!ENTITY  newBookmark.accesskey             "r">
+<!ENTITY  newFolder.label                   "Naujas aplankas…">
+<!ENTITY  newFolder.accesskey               "l">
+<!ENTITY  newSeparator.label                "Naujas skirtukas">
+<!ENTITY  newSeparator.accesskey            "k">
+<!ENTITY  setAsNewBookmarkFolder.label      "Naujus adresus įtraukti į šį aplanką">
+<!ENTITY  setAsNewBookmarkFolder.accesskey  "r">
+<!ENTITY  setAsNewSearchFolder.label        "Paieškos rezultatus įtraukti į šį aplanką">
+<!ENTITY  setAsNewSearchFolder.accesskey    "P">
+<!ENTITY  setAsNewToolbarFolder.label       "Įkelti į asmeninę mygtukų juostą">
+<!ENTITY  setAsNewToolbarFolder.accesskey   "a">
+<!ENTITY  exportBookmarks.label             "Eksportuoti…">
+<!ENTITY  exportBookmarks.accesskey         "E">
+<!ENTITY  importBookmarks.label             "Importuoti…">
+<!ENTITY  importBookmarks.accesskey         "I">
+
+
+

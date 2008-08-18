@@ -1,0 +1,108 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Stephen Lamm          <slamm@netscape.com>
+   -   Robert John Churchill <rjc@netscape.com>
+   -   Ben Goodger           <ben@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY bookmarks.windowtitle.label  "„**bm_title**“ savybės">
+
+<!ENTITY generalInfo.label            "Bendroji informacija">
+<!ENTITY bookmarks.name.label         "Pavadinimas:">
+<!ENTITY bookmarks.name.accesskey     "P">
+<!ENTITY bookmarks.location.label     "Adresas:">
+<!ENTITY bookmarks.location.accesskey "A">
+<!ENTITY bookmarks.shortcut.label     "Reikšminis žodis:">
+<!ENTITY bookmarks.shortcut.accesskey "e">
+<!ENTITY bookmarks.description.label  "Aprašas:">
+<!ENTITY bookmarks.description.accesskey "r">
+
+<!ENTITY checkforupdates.legend.label "Tikrinti, ar pasikeitė svetainė:">
+<!ENTITY when.label                   "kada:">
+<!ENTITY when.accesskey               "k">
+<!ENTITY from.label                   "nuo:">
+<!ENTITY from.accesskey               "n">
+<!ENTITY to.label                     "iki:">
+<!ENTITY to.accesskey                 "k">
+<!ENTITY every.label                  "kas">
+<!ENTITY every.accesskey              "a">
+<!ENTITY minutes.label                "minučių">
+<!ENTITY notifications.legend.label   "Informavimo būdas">
+
+<!ENTITY checknever.label             "netikrinti">
+<!ENTITY checkeveryday.label          "kasdien">
+<!ENTITY checkweekdays.label          "darbo dienomis">
+<!ENTITY checkweekends.label          "savaitgaliais">
+<!ENTITY checkmondays.label           "pirmadieniais">
+<!ENTITY checktuesdays.label          "antradieniais">
+<!ENTITY checkwednesdays.label        "trečiadieniais">
+<!ENTITY checkthursdays.label         "ketvirtadieniais">
+<!ENTITY checkfridays.label           "penktadieniais">
+<!ENTITY checksaturdays.label         "šeštadieniais">
+<!ENTITY checksundays.label           "sekmadieniais">
+
+<!ENTITY midnight.label               "vidurnakčio">
+<!ENTITY AMone.label                  "1 val.">
+<!ENTITY AMtwo.label                  "2 val.">
+<!ENTITY AMthree.label                "3 val.">
+<!ENTITY AMfour.label                 "4 val.">
+<!ENTITY AMfive.label                 "5 val.">
+<!ENTITY AMsix.label                  "6 val.">
+<!ENTITY AMseven.label                "7 val.">
+<!ENTITY AMeight.label                "8 val.">
+<!ENTITY AMnine.label                 "9 val.">
+<!ENTITY AMten.label                  "10 val.">
+<!ENTITY AMeleven.label               "11 val.">
+<!ENTITY noon.label                   "vidurdienio">
+<!ENTITY PMone.label                  "13 val.">
+<!ENTITY PMtwo.label                  "14 val.">
+<!ENTITY PMthree.label                "15 val.">
+<!ENTITY PMfour.label                 "16 val.">
+<!ENTITY PMfive.label                 "17 val.">
+<!ENTITY PMsix.label                  "18 val.">
+<!ENTITY PMseven.label                "19 val.">
+<!ENTITY PMeight.label                "20 val.">
+<!ENTITY PMnine.label                 "21 val.">
+<!ENTITY PMten.label                  "22 val.">
+<!ENTITY PMeleven.label               "23 val.">
+
+<!ENTITY notification.icon.label      "Pakeisti adreso piktogramą">
+<!ENTITY notification.icon.accesskey  "P">
+<!ENTITY notification.sound.label     "Įspėti garsu">
+<!ENTITY notification.sound.accesskey "a">
+<!ENTITY notification.alert.label     "Parodyti įspėjimo langą">
+<!ENTITY notification.alert.accesskey "r">
+<!ENTITY notification.window.label    "Atverti tinklalapį naujame lange">
+<!ENTITY notification.window.accesskey "t">

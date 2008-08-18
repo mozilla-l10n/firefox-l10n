@@ -1,0 +1,261 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>Patikros nuostatos</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+<link rel="stylesheet" href="chrome://help/locale/content_style.css" type="text/css"></head>
+<body>
+
+<a name="validation_settings"></a>
+<a name="validation:settingsIDX"></a>
+<a name="settings:validationIDX"></a>
+
+<hr><h1>Patikros nuostatos</h1>
+
+<p>Šiame skyriuje aprašoma, kaip parinkti liudijimų patikros ir atšauktų
+liudijimų sąrašų (CRL) nuostatas.</p><p>Įvairių darbų, susijusių su patikra
+ir CRL, aprašymus galima rasti skyrelyje <a href="using_certs_help.html#using_certs_validation">Kaip
+vyksta patikra</a>.
+</p><p> </p>
+
+<table cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
+<tbody><tr>
+<td class="inthissection">
+<p><a href="#validation_first">Privatumo ir saugumo nuostatos. Patikra</a></p>
+<p><a href="#manage_CRLs_dialog">Atšauktų liudijimų sąrašų (CRL) tvarkymas</a></p>
+<p><a href="#crl_import_status">CRL importo būsena</a></p>
+<p><a href="#auto_crl_update_prefs">Automatinio CRL atnaujinimo nuostatos</a></p>
+</td>
+</tr>
+</tbody></table>
+<p> </p>
+
+<hr>
+<a name="validation_first"></a>
+<a name="validation:OCSPIDX"></a>
+<a name="validation:CRLsIDX"></a>
+<a name="OCSP:preferencesIDX"></a>
+<a name="CRLs:preferencesIDX"></a>
+<a name="preferences:validationIDX"></a>
+
+<h2>Privatumo ir saugumo nuostatos. Patikra</h2>
+
+<p>Čia aprašoma, kaip naudotis nuostatų langu <i>Patikra</i>. Jei šis langas
+dar neatvertas, atlikite šiuos veiksmus:
+</p><ol>
+   <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
+   </li><li>Pažymėkite grupės <i> Privatumas ir saugumas</i>  pogrupį <i>Patikra</i>.
+    (Jei pogrupio <i>Patikra</i> nesimato, spragtelėkite ženkliuką (pliusą
+    arba trikampėlį) šalia grupės pavadinimo.) 
+</li></ol>
+
+<p>Atsivėręs nuostatų skydelis yra padalintas į dvi dalis: <i>Atšauktų
+liudijimų sąrašai (CRL)</i> ir <i>Būsenos paliudijimo tinklu protokolas (OCSP)</i>.
+(Daugiau bendrojo pobūdžio informacijos apie liudijimų patikrą galima rasti
+skyrelyje <a href="using_certs_help.html#using_certs_validation">Kaip vyksta
+patikra</a>).
+
+</p><p> 
+<a name="CRL"></a>
+</p><h3>Atšauktų liudijimų sąrašai (CRL)</h3>
+
+<p>Atšauktų liudijimų sąrašas (CRL) – tai nebegaliojančių liudijimų sąrašas, kurį sukuria ir pasirašo <a href="glossary.html#certificate_authority">liudijimų
+įstaiga (LĮ)</a>. Šį sąrašą naršyklė gali parsisiųsti. Tada prieš
+priimdama kieno nors liudijimą, naršyklė patikrins, ar tas liudijimas nėra
+įtrauktas į atšauktų liudijimų sąrašą.</p>
+
+<p>Spragtelėkite mygtuką <i>Tvarkyti
+sąrašus</i>. Atsivėrusiame lange bus išvardyti visi liudijimų tvarkytuvėje
+turimi atšauktų liudijimų sąrašai. 
+
+</p><p>Apie atšauktų liudijimų tvarkymą žr. <a href="using_certs_help.html#Managing_CRLs">Atšauktų
+liudijimų sąrašų (CRL) tvarkymas</a>.
+
+</p><p> 
+<a name="OCSP"></a>
+</p><h3>Būsenos paliudijimo tinklu protokolas OCSP</h3>
+
+<p>Būsenos paliudijimo tinklu protokolas (OCSP) yra liudijimų tvarkytuvės
+naudojamų taisyklių rinkinys, reikalingas liudijimo galiojimui patikrinti
+prisijungus prie tinklo. Tai daroma kiekvieną kartą, kai naudojamas liudijimas
+arba peržiūrima informacija apie jį. Patikrinama, ar liudijimas yra galiojančių
+liudijimų sąraše, laikomame tam tikroje svetainėje. OCSP veikia tik tada,
+kai kompiuteris prijungtas prie interneto.</p>
+
+<p>Nuostatų lango <i>Patikra</i> dalyje <i>Būsenos paliudijimo tinklu
+protokolas (OCSP)</i> nurodoma, kaip liudijimų tvarkytuvė turi dirbti su OCSP.
+Pažymėkite vieną iš šių akučių:</p>
+
+<ul>
+	<li><b><i>Liudijimų netikrinti su OCSP.</i></b> Pažymėkite šią parinktį,
+      jei nenorite, kad liudijimų tvarkytuvė tikrintų liudijimus OCSP
+      protokolu (t. y. netikrintų liudijimų, esančių duomenų bazėje internete). Tuomet <a href="glossary.html#certificate_verification">liudijimo
+      patikra</a> bus paprastesnė, bet mažiau patikima. Liudijimų tvarkytuvė
+      tik patikrins: 1) ar nesibaigęs liudijimo galiojimo terminas, 2) ar LĮ
+      tinkamai pasirašė liudijimą, 3) ar LĮ liudijimas yra liudijimų
+      tvarkytuvės kortelės <i>Liudijimų įstaigų</i> sąraše ir 4) pažymėtas
+      kaip patikimas išduodant tikrinamos rūšies liudijimus.</li>
+	<li><i><b>Būsenos paliudijimo tinklu protokolą (OCSP) naudoti tikrinant
+      tik tuos liudijimus, kuriuose nurodytas OCSP tarnybos URL.</b></i> Jei pažymėsite
+      šią akutę, tai liudijimo, kuriame nurodytas OCSP tarnybos adresas,
+      patikros schema būtų tokia: 1) įsitikinama, kad liudijimas galioja,
+      patikrinant tinkle esančią duomenų bazę, kurios URL nurodytas
+      liudijime, 2) atliekamas įprastas tikrinimas (tikrinama liudijimo
+      galiojimo laikotarpis ir pasitikėjimo jį išdavusia LĮ nuostatos).</li>
+	<li><b><i>Visus liudijimus tikrinti su OCSP, naudojant šios LĮ liudijimą
+      ir šį tarnybos URL.</i></b> Pažymėkite šią akutę, kad liudijimų
+      tvarkytuvė tikrintų visus liudijimus būsenos paliudijimo tinklu
+      protokolu. Pažymėjus parinktį, iš išskleidžiamojo sąrašo <i>Liudijimų
+      įstaiga</i> reikia pasirinkti liudijimą tos liudijimų įstaigos, kuri
+      pasirašė OCSP atsakiklio liudijimą.<p>Iš išskleidžiamojo sąrašo
+      pasirinkus LĮ liudijimą, į žemiau sąrašo esantį lauką atitinkamas
+      tarnybos URL įrašomas automatiškai (jei liudijimų tvarkytuvė jį
+      turi). Jei tarnybos URL savaime neatsiranda, jį reikia surinkti. Kokį
+      URL čia surinkti, galima sužinoti iš sistemos administratoriaus.
+</p></li></ul>
+
+<hr>
+<a name="manage_CRLs_dialog"></a>
+<a name="validation:managing_CRLsIDX"></a>
+<a name="CRLs:managingIDX"></a>
+<h2>Atšauktų liudijimų sąrašų (CRL) tvarkymas</h2>
+
+<p>Čia aprašoma, kaip naudotis langu <i>CRL tvarkymas</i>. Jei jis dar
+neatvertas, atlikite šiuos veiksmus:
+</p><ol>
+   <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
+   </li><li>Pažymėkite grupės <i> Privatumas ir saugumas</i>  pogrupį <i>Patikra</i>.
+    (Jei pogrupio <i>Patikra</i> nesimato, spragtelėkite ženkliuką (pliusą
+    arba trikampėlį) šalia grupės pavadinimo.) 
+   </li><li>Spragtelėkite mygtuką <i>Tvarkyti sąrašus</i>.
+</li></ol>
+
+<p>Atsivėrusiame lange išvardyti visi į naršyklę atsisiųsti <a href="glossary.html#certificate_revocation_list">atšauktų
+liudijimų sąrašai (CRL)</a>. Paprastai CRL atsiunčiamas iš LĮ svetainės
+ir tam tereikia spragtelėti atitinkamą saitą. Daugiau informacijos apie CRL
+galima rasti skyrelyje <a href="using_certs_help.html#Managing_CRLs">Atšauktų
+liudijimų sąrašų (CRL) tvarkymas</a>.</p>
+
+<p>Atšauktų liudijimų sąrašas pažymimas
+spragtelėjus jo pavadinimą. Pažymėjus sąrašą, su juo galima atlikti šiuos
+veiksmus:
+
+</p><ul>
+	<li><b><i>Pašalinti.</i></b> CRL negrįžtamai pašalinamas iš kompiuterio standžiojo disko. Prieš šalinant sąrašą, reikia gerai
+      pagalvoti, ar jo tikrai nebereikės tikrinant liudijimus. Jei abejojate,
+      ar galima pašalinti, pasitarkite su sistemos administratoriumi.
+	</li><li><b><i>Nuostatos.</i></b> Spragtelėjus šį mygtuką atveriamas nuostatų
+      langas <a href="#auto_crl_update_prefs">Automatinio CRL atnaujinimo
+      nuostatos</a>, kuriame galima įjungti automatinį pažymėto CRL
+      atnaujinimą ir nurodyti, kaip dažnai jį reikės atnaujinti.  
+	</li><li><b><i>Atnaujinti.</i></b> Pažymėtas CRL tuojau pat atnaujinamas (jei
+      įmanoma).
+</li></ul>
+<p>Dialogo lange <i>CRL tvarkymas</i> pateikiama tokia informacija apie kiekvieną
+turimą atšauktų liudijimų sąrašą:
+
+</p><ul>
+	<li><b><i>Įstaiga (Į).</i></b> Pavadinimas įstaigos, kuri sukūrė CRL.
+	</li><li><b><i>Įstaigos padalinys (ĮP).</i></b> Pavadinimas įstaigos
+      padalinio, kuriame buvo sukurtas sąrašas (panašiai, kaip tam tikros rūšies
+      liudijimo vyriausioji LĮ).
+	</li><li><b><i>Paskutinis atnaujinimas.</i></b> Data, kada paskutinį kartą į
+      naršyklę buvo atsiųsta šio sąrašo kopija.
+	</li><li><b><i>Tolesnis atnaujinimas.</i></b> Data, kada sąrašą sukūrusi LĮ
+      paskelbs atnaujintą šio sąrašo versiją.
+	</li><li><b><i>Automatinis atnaujinimas.</i></b> Parodo, ar įjungta sąrašo
+      automatinio atnaujinimo nuostata. Į automatinio sąrašo atnaujinimo
+      nuostatų langą patenkama pažymėjus sąrašą ir spragtelėjus mygtuką
+      <i>Nuostatos</i>.
+	</li><li><b><i>Automatinio atnaujinimo būsena.</i></b>
+		<ul>
+			<li>Šis laukas būna tuščias, jei automatinis atnaujinimas išjungtas
+              arba jei jis įjungtas, bet laikantis sąrašo atnaujinimo tvarkaraščio,
+              automatinis atnaujinimas dar neįvyko. 
+			</li><li>Kai įvyksta bent vienas automatinis sąrašo atnaujinimas, šiame
+              lauke rodomas vienas iš užrašų: <i>klaida</i> (jei paskutinį
+              kartą atsiunčiant atnaujintą CRL versiją įvyko klaida) arba <i>gerai</i>
+              (jei paskutinis sąrašo automatinis atnaujinimas buvo sėkmingas).
+</li></ul></li></ul>
+
+<hr>
+<a name="crl_import_status"></a>
+<a name="validation:managing_CRLsIDX"></a>
+<a name="CRLs:import_status_of"></a>
+<h2>CRL importo būsena</h2>
+
+<p>Čia aprašoma, kaip pasinaudoti dialogo langu <i>CRL importo būsena</i>. Šis
+langas bus atvertas, kai pirmą kartą bandysite importuoti atšauktų liudijimų
+sąrašą (CRL) arba kai sėkmingai atnaujinsite jį rankiniu būdu.
+
+</p><p>Šiame lange pateikiama tokia informacija: 
+</p><ul>
+	<li>ar pavyko importuoti arba atnaujinti sąrašą;
+	</li><li>kokia įstaiga sukūrė sąrašą;
+	</li><li>kada bus paskelbta tolesnė atnaujinta šio sąrašo versija;
+	</li><li>ar įjungta šio sąrašo automatinio atnaujinimo nuostata.
+</li></ul>
+
+<p>Jei sąrašo automatinis atnaujinimas išjungtas, jį galima įjungti:
+									
+</p><ul>
+	<li><b><i>Taip.</i></b> Spragtelėjus šį mygtuką, atveriamas automatinio CRL atnaujinimo nuostatų dialogo langas.
+      Kaip parinkti automatinio atnaujinimo nuostatas, rašoma kitame skyrelyje.
+	</li><li><b><i>Ne.</i></b> Spragtelėjus šį mygtuką, automatinio atnaujinimo
+      nuostata lieka išjungta ir užveriamas importo būsenos langas. 
+</li></ul>
+
+<hr>
+<a name="auto_crl_update_prefs"></a>
+<a name="validation:auto_updating_CRLsIDX"></a>
+<a name="CRLs:auto_upates_forIDX"></a>
+<h2>Automatinio CRL atnaujinimo nuostatos</h2>
+
+<p>Čia aprašoma, kaip parinkti nuostatas lange <i>Automatinio CRL atnaujinimo
+nuostatos</i>. Jei šis langas dar neatvertas, atlikite šiuos veiksmus:
+</p><ol>
+   <li>Atverkite meniu <i>Taisa</i> ir pasirinkite <i>Nuostatos</i>.
+   </li><li>Pažymėkite grupės <i> Privatumas ir saugumas</i>  pogrupį <i>Patikra</i>.
+    (Jei pogrupio <i>Patikra</i> nesimato, spragtelėkite ženkliuką (pliusą
+    arba trikampėlį) šalia grupės pavadinimo.) 
+   </li><li>Spragtelėkite mygtuką <i>Tvarkyti sąrašus</i>. 
+   </li><li>Atsivėrusiame lange spragtelėkite pavadinimą to sąrašo, kurio
+    automatinio atnaujinimo nuostatas norite peržiūrėti arba pakeisti.
+   </li><li>Paspauskite mygtuką <i>Nuostatos</i>.
+</li></ol>
+
+<p>Atsivėrusiame lange yra tokios parinktys ir informacija:
+
+</p><ul>
+	<li><b><i>Įjungti šio atšauktų liudijimų sąrašo automatinį
+      atnaujinimą.</i></b> Pažymėkite šią parinktį, jei norite, kad pažymėtas
+      CRL būtų atnaujinamas automatiškai pagal čia nustatytą tvarkaraštį. (Pastebėsime,
+      kad šios parinkties negalima pažymėti, jei atšauktų liudijimų sąraše
+      nenurodyta tolesnio atnaujinimo data.)<p>Jei įjungėte automatinį
+      atnaujinimą, turite pažymėti ir vieną iš šių akučių: 
+	</p><ul>
+		<li><b><i>Atnaujinti prieš __ dienas iki tolesnio atnaujinimo datos.</i></b>  Pažymėkite šią parinktį, jei
+          norite priderinti sąrašo atnaujinimus prie naujų CRL versijų publikavimo
+          datų.
+		</li><li><b><i>Atnaujinti kas __ dienas.</i></b> Pažymėkite šią parinktį, jei norite nurodyti laiko periodą, nepriklausomą nuo sąrašo tolesnio atnaujinimo datos.
+	</li></ul>
+	</li><li><b><i>Iš kur importuotas CRL.</i></b> URL, iš kur naršyklė importavo
+      sąrašą. Šios nuostatos pakeisti negalima. Jei vis tik reikia nurodyti
+      kitą adresą, pašalinkite CRL ir importuokite jį iš naujo, nurodę
+      naują adresą (URL).
+	</li><li><b><i>Paskutinių atnaujinimų klaidos.</i></b> Jei paskutinį kartą
+      atnaujinant sąrašą įvyko klaida, tai čia parodoma, kiek kartų iš
+      eilės nepavyko atnaujinti sąrašo, įskaitant ir paskutinį nepavykusį
+      bandymą:
+	<ul>
+		<li> Jei paskutinį kartą sąrašas buvo atnaujintas sėkmingai,
+          rodomas užrašas <i>Nėra</i>, nepaisant prieš tai buvusių nesėkmingų
+          atnaujinimo bandymų. 
+		</li><li>Jei nepavyko paskiausias atnaujinimas, tai rodoma, kiek kartų iš
+          eilės nepavyko atnaujinti sąrašo.
+</li></ul></li></ul>
+<p>Parinkę nuostatas spragtelėkite mygtuką <i>Gerai</i>.
+</p><hr>
+
+<p>Copyright © 1998-2003 The Mozilla Foudation.</p>
+<p>© Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2003</p>
+</body></html>

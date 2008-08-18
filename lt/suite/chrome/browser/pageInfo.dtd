@@ -1,0 +1,148 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code.
+   -
+   - The Initial Developer of the Original Code is Daniel Brooks.
+   - Portions created by the Initial Developer are Copyright (C) 2001-2004
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+	-   Daniel Brooks <db48x@yahoo.com>
+	-   Florian QUEZE <f.qu@queze.net>
+	-   Ehsan Akhgari <ehsan.akhgari@gmail.com>
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+<!ENTITY  pageInfoWindow.dimensions  "width: 40em; height: 30em;">
+
+<!ENTITY  copy.key              "K">
+<!ENTITY  copy.label            "Kopijuoti">
+<!ENTITY  copy.accesskey        "K">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Pažymėti viską">
+<!ENTITY  selectall.accesskey   "a">
+<!ENTITY  closeWindow.key       "n">
+
+<!ENTITY  generalTab            "Bendroji">
+<!ENTITY  generalTab.accesskey  "B">
+<!ENTITY  generalURL            "URL:">
+<!ENTITY  generalMode           "Atvaizdavimo veiksena:">
+<!ENTITY  generalType           "Tipas:">
+<!ENTITY  generalSize           "Dydis:">
+<!ENTITY  generalReferrer       "Iš kur ateina:">
+<!ENTITY  generalSource         "Šaltinis:">
+<!ENTITY  generalModified       "Atnaujintas:">
+<!ENTITY  generalEncoding       "Koduotė:">
+<!ENTITY  generalMetaName       "Vardas">
+<!ENTITY  generalMetaContent    "Reikšmė">
+<!ENTITY  generalSecurityMore   "Išsamiau">
+<!ENTITY  generalSecurityMore.accesskey "I">
+
+<!ENTITY  formsTab              "Formos">
+<!ENTITY  formsTab.accesskey    "F">
+<!ENTITY  formAction            "Programa">
+<!ENTITY  formMethod            "Metodas">
+<!ENTITY  formName              "Vardas">
+<!ENTITY  formNo                "Nr.">
+<!ENTITY  formEncoding          "Koduotė:">
+<!ENTITY  formTarget            "Paskirties objektas:">
+<!ENTITY  formFields            "Laukai">
+<!ENTITY  formLabel             "Pavadinimas">
+<!ENTITY  formFName             "Lauko vardas">
+<!ENTITY  formType              "Tipas">
+<!ENTITY  formCValue            "Dabartinė reikšmė">
+
+<!ENTITY  linksTab              "Saitai">
+<!ENTITY  linksTab.accesskey    "S">
+<!ENTITY  linkNo                "Nr.">
+<!ENTITY  linkName              "Vardas">
+<!ENTITY  linkAddress           "Adresas">
+<!ENTITY  linkType              "Tipas">
+<!ENTITY  linkTarget            "Paskirties objektas">
+<!ENTITY  linkAccessKey         "Spartusis klavišas">
+
+<!ENTITY  mediaTab              "Įvairialypė terpė">
+<!ENTITY  mediaTab.accesskey    "t">
+<!ENTITY  mediaURL              "URL:">
+<!ENTITY  mediaAlt              "Alternatyvusis tekstas:">
+<!ENTITY  mediaAltHeader        "Alternatyvus tekstas">
+<!ENTITY  mediaAddress          "Adresas">
+<!ENTITY  mediaType             "Tipas">
+<!ENTITY  mediaSize             "Dydis">
+<!ENTITY  mediaCount            "Kiekis">
+<!ENTITY  mediaDimensions       "Matmenys:">
+<!ENTITY  mediaPhysDimensions   "Fiziniai matmenys:">
+<!ENTITY  mediaTitle            "Antraštės požymis:">
+<!ENTITY  mediaLongdesc         "Ilgas aprašas:">
+<!ENTITY  mediaBlockImage.accesskey "N">
+<!ENTITY  mediaSaveAs           "Įrašyti kaip…">
+<!ENTITY  mediaSaveAs.accesskey "r">
+<!ENTITY  mediaSaveAs2.accesskey "š">
+<!ENTITY  mediaPreview          "Elemento peržiūra:">
+
+<!ENTITY  feedTab               "Sklaidos kanalai">
+<!ENTITY  feedTab.accesskey     "S">
+<!ENTITY  feedSubscribe         "Prenumeruoti">
+<!ENTITY  feedSubscribe.accesskey "P">
+
+<!ENTITY  permTab               "Leidimai">
+<!ENTITY  permTab.accesskey     "L">
+<!ENTITY  permUseDefault        "Naudoti numatytąsias nuostatas">
+<!ENTITY  permAllow             "Leisti">
+<!ENTITY  permAllowSession      "Leisti šį seansą">
+<!ENTITY  permBlock             "Neleisti">
+<!ENTITY  permissionsFor        "Leidimai:">
+<!ENTITY  permImage             "Paveikslėlių įkėlimas">
+<!ENTITY  permPopup             "Iškylančiųjų langų atvėrimas">
+<!ENTITY  permCookie            "Slapukų įrašymas">
+<!ENTITY  permInstall           "Priedų ir grafinių apvalkalų diegimas">
+
+<!ENTITY  securityTab           "Saugumas">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Informacija apie šio tinklalapio saugumą">
+<!ENTITY  securityView.certView "Rodyti liudijimą">
+<!ENTITY  securityView.accesskey "R">
+<!ENTITY  securityView.unknown   "Nežinomas">
+
+<!ENTITY  securityView.identity.header   "Svetainės tapatumas">
+<!ENTITY  securityView.identity.owner    "Savininkas: ">
+<!ENTITY  securityView.identity.domain   "Svetainė: ">
+<!ENTITY  securityView.identity.verifier "Tapatumą patvirtino: ">
+
+<!ENTITY  securityView.privacy.header                   "Privatumas ir žurnalas">
+<!ENTITY  securityView.privacy.history                  "Ar anksčiau jau lankiausi šioje svetainėje?">
+<!ENTITY  securityView.privacy.cookies                  "Ar ši svetainė turi įrašiusi slapukų mano kompiuteryje?">
+<!ENTITY  securityView.privacy.viewCookies              "Rodyti slapukus">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "R">
+<!ENTITY  securityView.privacy.passwords                "Ar turiu įsimintų šios svetainės slaptažodžių?">
+<!ENTITY  securityView.privacy.viewPasswords            "Rodyti slaptažodžius">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "o">
+
+<!ENTITY  securityView.technical.header                 "Techninė informacija">

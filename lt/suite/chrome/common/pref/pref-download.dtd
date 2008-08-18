@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title            "Atsiuntimai">
+<!ENTITY downloadBehavior.label         "Prasidėjus siuntimui">
+<!ENTITY downloadLocation.label         "Įrašant failą">
+<!ENTITY finishedBehavior.label         "Pasibaigus siuntimui">
+<!ENTITY openDM.label                   "Atverti atsiuntimo tvarkytuvę">
+<!ENTITY openDM.accesskey               "t">
+<!ENTITY openProgressDialog.label       "Atverti eigos langą">
+<!ENTITY openProgressDialog.accesskey   "e">
+<!ENTITY doNothing.label                "Nieko neatverti">
+<!ENTITY doNothing.accesskey            "N">
+<!ENTITY promptDownload.label           "Klausti, kur parsiųsti failą ir siūlyti">
+<!ENTITY promptDownload.accesskey       "K">
+<!ENTITY lastLocation.label             "aplanką, į kurį buvo paskiausiai siunčiamasi">
+<!ENTITY lastLocation.accesskey         "p">
+<!ENTITY specifiedLocation.label        "numatytąjį atsiuntimų aplanką">
+<!ENTITY specifiedLocation.accesskey    "u">
+<!ENTITY autoDownload.label             "Iškart siųsti failus į nurodytą atsiuntimų aplanką">
+<!ENTITY autoDownload.accesskey         "s">
+<!ENTITY downloadFolder.label           "Esamas atsiuntimų aplankas:">
+<!ENTITY chooseDownloadFolder.label     "Parinkti aplanką…">
+<!ENTITY chooseDownloadFolder.accesskey "r">
+<!ENTITY playSound.label                "Groti garsą">
+<!ENTITY playSound.accesskey            "G">
+<!ENTITY showAlert.label                "Rodyti pranešimą">
+<!ENTITY showAlert.accesskey            "o">
+<!ENTITY browse.label                   "Parinkti…">
+<!ENTITY browse.accesskey               "r">
+<!ENTITY preview.label                  "Peržiūra">
+<!ENTITY preview.accesskey              "ž">
+<!ENTITY soundURL.label                 "Garso failo adresas:">
+<!ENTITY soundURL.accesskey             "a">

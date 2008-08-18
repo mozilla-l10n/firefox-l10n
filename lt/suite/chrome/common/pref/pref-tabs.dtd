@@ -1,0 +1,26 @@
+<!ENTITY tabHeader.label "Kortelės">
+<!ENTITY tabDisplay.label "Kortelių juosta">
+<!ENTITY autoHide.label "Nerodyti kortelių juostos, kai atverta tik viena kortelė">
+<!ENTITY autoHide.accesskey "N">
+<!ENTITY background.label "Saistomą tinklalapį įkelti į antrąjį planą">
+<!ENTITY background.accesskey "S">
+<!ENTITY loadGroup.label "Atveriant į adresyną įrašytą tinklalapių grupę:">
+<!ENTITY loadGroupAppend.label "Sukurti naujas korteles">
+<!ENTITY loadGroupAppend.accesskey "n">
+<!ENTITY loadGroupReplace.label "Pakeisti esamas">
+<!ENTITY loadGroupReplace.accesskey "P">
+<!ENTITY openTabs.label "Vietoj naujo naršyklės lango atverti kortelę">
+
+<!ENTITY newWindow.label "Saitų atvėrimas">
+<!ENTITY newWindowDescription.label "Saitus, kurie turėtų būti atveriami naujame lange, atverti">
+<!ENTITY external.label "Saitai iš kitų programų">
+<!ENTITY externalDescription.label "Saitus, perduotus kitų programų, atverti">
+<!ENTITY openCurrent.label "Šiuo metu atvertoje kortelėje">
+<!ENTITY newWindowGroupCurrent.accesskey "–">
+<!ENTITY externalGroupCurrent.accesskey "u">
+<!ENTITY openTab.label "Naujoje kortelėje šiuo metu atvertame lange">
+<!ENTITY newWindowGroupTab.accesskey "n">
+<!ENTITY externalGroupTab.accesskey "e">
+<!ENTITY openWindow.label "naujame lange">
+<!ENTITY newWindowGroupWindow.accesskey "w">
+<!ENTITY externalGroupWindow.accesskey "o">

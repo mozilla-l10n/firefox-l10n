@@ -1,0 +1,27 @@
+<!ENTITY pref.popups.title              "Iškylantieji langai">
+
+<!ENTITY pref.popups.caption            "Iškylantieji langai">
+
+<!ENTITY popupDesc.label                "Nurodykite, kaip naršyklė turi elgtis su iškylančiais langais, kurie atsiranda virš arba po aktyvaus naršyklės lango:">
+
+<!ENTITY popupBlock.label               "Užblokuoti iškylančius langus">
+<!ENTITY popupBlock.accesskey           "U">
+
+<!ENTITY popupExceptions.label          "Tvarkyti leidimus…">
+<!ENTITY popupExceptions.accesskey      "v">
+
+<!ENTITY whenBlock.description          "Signalizuoti garsu, kai naršyklė neleido iškylančiajam langui atsirasti:">
+<!ENTITY playSound.label                "Groti garsą:">
+<!ENTITY playSound.accesskey            "G">
+
+<!ENTITY selectSound.label              "Parinkti…">
+<!ENTITY selectSound.accesskey          "P">
+<!ENTITY previewSound.label             "Perklausyti">
+<!ENTITY previewSound.accesskey         "k">
+<!ENTITY selectSound.title              "Signalo garso failo parinkimas">
+
+<!ENTITY displayIcon.label              "Rodyti įspėjamajį ženkliuką naršyklės būsenos juostoje">
+<!ENTITY displayIcon.accesskey          "R">
+
+<!ENTITY popupNote.description          "Pastaba. Jei visiškai uždrausite iškylančiuosius langus, tai gali atsitikti taip, kad neturėsite galimybės pasinaudoti kai kurių svetainių svarbiomis savybėmis (pvz., registravimosi banko arba parduotuvių svetainėse langai). Daugiau informacijos apie tai, kaip vienoms svetainėms leisti atverti tokius langus, o kitoms – ne, galima rasti elektroniniame žinyne (spragtelėkite mygtuką „Žinynas“). Taip pat reikia turėti omenyje, kad net uždraudus svetainei atverti iškylančius langus, ji gali panaudoti ir kitus būdus tokiems langams atverti.">
+

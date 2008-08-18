@@ -1,0 +1,145 @@
+==========================================================================
+
+= = = = = = = = = = = = =   Apie „SeaMonkey“   = = = = = = = = = = = = = =
+
+==========================================================================
+
+Programa „SeaMonkey“ yra platinama pagal licencinį susitarimą, pateikiamą
+kartu su ja.
+
+Šiame faile rasite informacijos apie „Linux“ sistemai skirtos „SeaMonkey“
+versijos reikalavimus bei jos įdiegimo instrukciją.
+
+Daugiau informacijos apie „SeaMonkey“ rasite svetainėje 
+http://www.seamonkey-project.org/. Jei norite pranešti apie klaidą ar 
+parašyti atsiliepimą apie programą, aplankykite tinklalapį 
+http://www.seamonkey-project.org/dev/get-involved bei „Bugzilla“ svetainę
+(https://bugzilla.mozilla.org/), kurioje galite susipažinti su 
+problemomis, apie kurias mums jau pranešta bei sužinoti, kaip geriausia 
+apie jas pranešti. Pagalbos „Bugzilla“ klausimais galite kreiptis į 
+#mozillazine IRC kanalą irc.mozilla.org serveryje.
+
+
+==========================================================================
+
+                       „SeaMonkey“ parsisiuntimas
+
+==========================================================================
+
+Tarpines „SeaMonkey“ versijas galite parsisiųsti iš mozilla.org FTP 
+serverio:
+
+  http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/
+
+Naujausias tarpines versijas visada rasite adresu:
+
+  http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/latest-trunk/
+
+Neužmirškite, jog tarpinės versijos, kurias mozilla.org komanda naudoja
+testavimui, gali veikti nestabiliai ar nekorektiškai. Jei ieškote stabiliau
+veikiančios „SeaMonkey“ versijos, siųskitės reguliariai išleidžiamas 
+oficialias laidas iš
+
+  http://www.seamonkey-project.org/releases/
+
+Būtinai perskaitykite laidos apžvalgą, kad žinotumėte, su kokiomis
+problemomis ar „SeaMonkey“ diegimo nesklandumais gali tekti susidurti.
+Laidų apžvalgas rasite aukščiau paminėtame tinklalapyje greta pačių laidų.
+
+
+==========================================================================
+
+                    Programos reikalavimai sistemai
+
+==========================================================================
+
+* „Linux“
+
+   - Programos darbui būtinos šios bibliotekos (arba jų atitikmenys):
+     glibc 2.3.2, X.org 1.x, GTK 2.x, fontconfig, pango 1.10, libstdc++ 6.
+     „Red Hat Enterprise Linux 5“, „Fedora Core 6“, „Ubuntu 6.10“ („Edgy“),
+     „Debian Lenny“ („testing“) bei „openSUSE 10.2“ (arba vėlesnės laidos)
+     turėtų tenkinti šiuos reikalavimus.
+   - „Intel Pentium“ klasės procesorius (rekomenduojamas 500 MHz ar
+	  spartesnis)
+   - 128 MB darbinės adminties
+   - 50 MB laivos vietos diske
+
+
+==========================================================================
+
+                           Diegimo procedūra
+
+==========================================================================
+
+Atkreipkite dėmesį, jog diegimo instrukcijos pritaikytos „bash“ aplinkai.
+Jei naudojate ne „bash“, adaptuokite komandas savo aplinkai.
+
+Diekite „SeaMonkey“ į tuščią aplanką. Įdiegus programą į tą patį aplanką,
+kuriame jau yra įdiegta senesnė jos laida, gali kilti nesklandumų.
+
+Pastaba: ši instrukcija neaprašo, kaip „SeaMonkey“ kompiliuojama. Jei
+norite informacijos apie „SeaMonkey“ kompiliavimą iš pradinių tekstų,
+apsilankykite tinklalapyje
+
+  http://developer.mozilla.org/en/docs/Build_Documentation
+
+
+Diegimo instrukcija
+-------------------
+  Pastaba: įdiegimo programa „Linux“ sistemai nepateikiama, tačiau tiesiog
+  išskleidus tar.bz2 paką į numatytąjį aplanką (paprastai tai būna
+  aplankas /usr/local/seamonkey), bus pasiekta to paties rezultato, kaip
+  ir naudojant įdiegimo programą.
+
+  Jei norite „SeaMonkey“ įdiegti, parsisiųsdami tar.bz failą, atlikite 
+  šiuos veiksmus:
+
+  1. Sukurkite naują aplanką, pavadintą „seamonkey“ (mkdir seamonkey) ir 
+     nukeliaukite į jį (cd seamonkey).
+
+  2. Svetainėje, iš kurios siunčiatės „SeaMonkey“, spustelėkite saitą į 
+     paką (seamonkey*.tar.bz2), kad parsiųstumėte jį į „seamonkey“
+     aplanką.
+
+  3. Išpakuokite failą šia komanda:
+
+       tar jxvf sea*.tar.bz2
+
+     Bus sukurtas „seamonkey“ aplankas Jūsų sukurtame „seamonkey“ aplanke.
+
+  4. Nukeliaukite į „seamonkey“ aplanką (cd seamonkey).
+
+  5. Paleiskite „SeaMonkey“, pasinaudodami paleidimo scenarijumi:
+
+    ./seamonkey
+
+
+  Jei norite pridėti „SeaMonkey“ leistuką į „GNOME“ skydelį, atlikite 
+  šiuos veiksmus:
+
+  1. Dešiniu pelės klavišu spustelėkite tuščioje „GNOME“ skydelio vietoje,
+     atsivėrusiame kontekstiniame meniu pasirinkite punktą „Įdėti į
+	  skydelį“, atsivėrusiame lange pasirinkite elementą „Derinamas
+	  programų leistukas“. Spustelėkite mygtuką „Pridėti“.
+
+  2. Lange, kuris bus atvertas, lauke „Tipas“ parinkite punktą „Programa“,
+     į lauką „Pavadinimas“ įrašykite „SeaMonkey“, į lauką „Komanda“ 
+	  įrašykite pilną kelią iki „SeaMonkey“ paleidimo scenarijaus:
+	    
+		 aplanko_vardas/seamonkey
+
+	  tekstą „aplanko_vardas“ pakeiskite „SeaMonkey“ įdiegimo aplanko vardu,
+	  pavyzdžiui, įrašykite /usr/local/seamonkey/seamonkey, jei programa 
+	  įdiegta į aplanką /usr/local/seamonkey.
+
+  3. Jei norite, į lauką „Komentaras“ įrašykite komentarą.
+
+  4. Spustelėkite piktogramos parinkimo mygtuką ir į piktogramos failo
+     vardo lauką įrašykite kelią iki „SeaMonkey“ piktogramos:
+
+       aplanko_vardas/chrome/icons/default/default.xpm
+
+     tekstą „aplanko_vardas“ pakeiskite „SeaMonkey“ įdiegimo aplanko vardu,
+	  pavyzdžiui, jei programa įdiegta į aplanką /usr/local/seamonkey, čia 
+	  įrašykite /usr/local/seamonkey/chrome/icons/default/default.xpm.

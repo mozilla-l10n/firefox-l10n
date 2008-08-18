@@ -1,0 +1,3072 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+
+<rdf:Description about="help-indexAZ.rdf#a">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="bookmarks"
+         nc:name="Adresynas"
+	 nc:link="customize_help.html#bookmarks:what_are_bookmarksIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#bookmarks">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="bookmarks:creating_bookmarks"
+         nc:name="adreso įrašymas"
+	 nc:link="customize_help.html#bookmarks:creating_bookmarksIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#bookmarks">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="bookmarks:visiting"
+         nc:name="adreso lankymas"
+	 nc:link="nav_help.html#bookmarks:visitingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#bookmarks">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="bookmarks:exporting_bookmarks"
+         nc:name="eksportas ir importas"
+	 nc:link="customize_help.html#bookmarks:exporting_bookmarksIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#bookmarks">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="bookmarks:changing_bookmarks"
+         nc:name="įrašo savybių keitimas"
+	 nc:link="customize_help.html#bookmarks:changing_bookmarksIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#bookmarks">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="bookmarks:what_are_bookmarks"
+         nc:name="kas yra adresynas"
+	 nc:link="customize_help.html#bookmarks:what_are_bookmarksIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#bookmarks">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="bookmarks:searching_bookmarks"
+         nc:name="paieška adresyne"
+	 nc:link="customize_help.html#bookmarks:searching_bookmarksIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#bookmarks">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="bookmarks:organizing_bookmarks"
+         nc:name="tvarkymas"
+	 nc:link="customize_help.html#bookmarks:organizing_bookmarksIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#a">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="atsiunt_tvark"
+         nc:name="Atsiuntimo tvarkytuvė"
+	 nc:link="nav_help.html#using_Download_ManagerSDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#a">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="asmen_juosta"
+         nc:name="Asmeninė mygtukų juosta"
+	 nc:link="customize_help.html#cust_personal"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#a">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="atv_progr"
+         nc:name="Atveriančioji programa"
+	 nc:link="nav_help.html#atveriancioji_programa"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#a">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="adr_knyga"
+         nc:name="Adresų knyga"
+	 nc:link="mail_help.xhtml#using_address_books"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#adr_knyga">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="adr_knyga:add"
+         nc:name="įrašo įtraukimas"
+	 nc:link="mail_help.xhtml#adding_entries_to_your_address_books"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#adr_knyga">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="adr_knyga:sarasas"
+         nc:name="adresatų sąrašas"
+	 nc:link="mail_help.xhtml#creating_a_mailing_list"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#adr_knyga">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="adr_knyga:kurimas"
+         nc:name="naujos adresų knygos kūrimas"
+	 nc:link="mail_help.xhtml#creating_a_new_address_book"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#adr_knyga">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="adr_knyga:paieska"
+         nc:name="paieška adresų knygose ir kataloguose"
+	 nc:link="mail_help.xhtml#searching_address_books_and_directories"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#adr_knyga">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="adr_knyga:importas"
+         nc:name="importas"
+	 nc:link="mail_help.xhtml#importing_address_books"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#adr_knyga">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="adr_knyga:eksportas"
+         nc:name="eksportas"
+	 nc:link="mail_help.xhtml#exporting_address_books"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#adr_knyga">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="adr_knyga:ldap"
+         nc:name="LDAP katalogų tvarkymas"
+	 nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#a">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="browsing_anonymously"
+         nc:name="Anoniminis naršymas"
+	 nc:link="privacy_help.html#browsing_anonymouslyIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#a">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="proxies"
+         nc:name="Įgaliotasis serveris"
+	 nc:link="nav_help.html#proxies:settingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#proxies">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="proxies:setting"
+         nc:name="nuostatos"
+	 nc:link="cs_nav_prefs_advanced.html#Proxies"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#b">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="busenos_juosta"
+         nc:name="Būsenos juosta"
+	 nc:link="customize_help.html#cust_statusbar"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#d">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Darbu_juosta"
+         nc:name="Darbų juosta"
+	 nc:link="customize_help.html#cust_taskbar"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#d">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Dok_publikavimas"
+         nc:name="Dokumento publikavimas"
+	 nc:link="composer_help.html#publish_top"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#d">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Offline"
+         nc:name="Darbas atsijungus nuo tinklo"
+	 nc:link="mail_help.xhtml#working_offline"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Offline">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Offline:general_preferences"
+         nc:name="bendrosios nuostatos"
+	 nc:link="mail_help.xhtml#setting_up_mozilla_mail_and_newsgroups_to_work_offline"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Offline">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Offline:Mail_and_Newsgroups"
+         nc:name="paskyrų nuostatos"
+	 nc:link="mail_help.xhtml#setting_up_your_accounts_for_working_offline"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#d">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="spartinimas"
+         nc:name="Darbo spartinimas"
+	 nc:link="nav_help.html#nav_autoload"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#e">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="emocijos"
+         nc:name="Jaustukai"
+	 nc:link="mail_help.xhtml#message_display"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#e">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="eksportas"
+         nc:name="Eksportas"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#eksportas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="eksportas:adresyno"
+         nc:name="adresyno"
+	 nc:link="customize_help.html#bookmarks:exporting_bookmarksIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#eksportas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="eksportas:adr_knygos"
+         nc:name="adresų knygų"
+	 nc:link="mail_help.xhtml#exporting_address_books"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#f">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="file_types"
+         nc:name="Failų peržiūra"
+	 nc:link="nav_help.html#file_types:managingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#g">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="themes"
+         nc:name="Grafinis apvalkalas"
+	 nc:link="cs_nav_prefs_appearance.html#preferences:themesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#themes">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="themes:changing"
+         nc:name="keitimas"
+	 nc:link="customize_help.html#themes:changingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#i">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="IMAP"
+         nc:name="IMAP"
+	 nc:link="mail_help.xhtml#IMAP_about"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#IMAP">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="IMAP:sharing_folders"
+         nc:name="bendro naudojimo aplankai"
+	 nc:link="mail_help.xhtml#sharing_folders_with_other_users"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#IMAP">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="IMAP:Mail_settings"
+         nc:name="pašto serverio nuostatos"
+	 nc:link="mail_help.xhtml#imap_server_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#IMAP">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="IMAP:working_offline"
+         nc:name="darbas atsijungus nuo tinklo"
+	 nc:link="mail_help.xhtml#offline_and_disk_space_settings_imap"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#i">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="informacija"
+         nc:name="Informacija"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#informacija">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="informacija:tinklalapis"
+         nc:name="apie tinklalapį"
+	 nc:link="page_info_help.html#page_infoIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#informacija">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="informacija:liudijimas"
+         nc:name="apie liudijimą"
+	 nc:link="cert_dialog_help.xhtml"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#informacija">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="informacija:laisko_saugumas_r"
+         nc:name="apie rašomo laiško saugumą"
+	 nc:link="mail_sec_help.html#compose_security"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#informacija">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="informacija:laisko_saugumas_g"
+         nc:name="apie gauto laiško saugumą"
+	 nc:link="mail_sec_help.html#received_security"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#i">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="importas"
+         nc:name="Importas"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#importas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="adr_knygos"
+         nc:name="adresų knygų"
+	 nc:link="mail_help.xhtml#importing_address_books"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#importas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="importas:adresyno"
+         nc:name="adresyno"
+	 nc:link="customize_help.html#bookmarks:importing_bookmarksIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#importas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="importas:laiskai"
+         nc:name="laiškų"
+	 nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#importas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="importas:nuostatos"
+         nc:name="pašto nuostatų"
+	 nc:link="mail_help.xhtml#importing_mail_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#j">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Java"
+         nc:name="Java"
+	 nc:link="cs_nav_prefs_advanced.html"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Java">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Java:enabling"
+         nc:name="nuostatos"
+	 nc:link="cs_nav_prefs_advanced.html#JavaSDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#j">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="JavaScript"
+         nc:name="JavaScript"
+	 nc:link="cs_nav_prefs_advanced.html"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#JavaScript">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="JavaScript:enabling"
+         nc:name="nuostatos"
+	 nc:link="cs_nav_prefs_advanced.html#JavaScript:preferencesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#k">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="kalbos"
+         nc:name="Kalbos"
+	 nc:link="nav_help.html#nav_language"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#kalbos">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="kalbos:kod_sriftai"
+         nc:name="koduotės ir šriftai"
+	 nc:link="nav_help.html#nav_charcode"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#kalbos">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="kalbos:nuostatos"
+         nc:name="nuostatos"
+	 nc:link="nav_help.html#nav_languagepref"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#l">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="lokale"
+         nc:name="Lokalė"
+	 nc:link="cs_nav_prefs_appearance.html#preferences:content_packsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#l">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="LDAP"
+         nc:name="LDAP"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#LDAP">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="LDAP:global_settings"
+         nc:name="bendrosios nuostatos"
+	 nc:link="mail_help.xhtml#addressing_preferences"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#LDAP">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="LDAP:tvarkymas"
+         nc:name="katalogų tvarkymas"
+	 nc:link="mail_help.xhtml#adding_and_removing_ldap_directories"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#l">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas"
+         nc:name="Liudijimas"
+	 nc:link="using_certs_help.html#certificates:usingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:gavimas"
+         nc:name="liudijimo gavimas"
+	 nc:link="using_certs_help.html#certificates:gettingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:tvarkymas"
+         nc:name="tvarkymas"
+	 nc:link="using_certs_help.html#certificates:managingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:nuostatos"
+         nc:name="nuostatos"
+	 nc:link="certs_prefs_help.xhtml"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:kopija"
+         nc:name="atsarginė kopija"
+	 nc:link="cert_dialog_help.xhtml#certificate_backup"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:kopijos_slapt"
+         nc:name="atsarginės kopijos slaptažodis"
+	 nc:link="certs_help.html#Choose_a_Certificate_Backup_Password"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:jusu"
+         nc:name="asmeninis"
+	 nc:link="certs_help.html#My_Certificates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:kitu"
+         nc:name="kito asmens"
+	 nc:link="certs_help.html#Other_Peoples_Certificates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:svetainiu"
+         nc:name="svetainės"
+	 nc:link="certs_help.html#Web_Site_Certificates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:liud_ist"
+         nc:name="liudijimų įstaigos"
+	 nc:link="certs_help.html#certificates:intermediate_CAIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:info"
+         nc:name="informacija apie liudijimą"
+	 nc:link="cert_dialog_help.xhtml"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas:info">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:info:benroji"
+         nc:name="bendroji"
+	 nc:link="cert_dialog_help.xhtml#general_tab"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas:info">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:info:details"
+         nc:name="išsamesnė"
+	 nc:link="cert_dialog_help.xhtml#details_tab"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:patikra"
+         nc:name="patikra"
+	 nc:link="using_certs_help.html#using_certs_validation"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:crl"
+         nc:name="atšauktų liudijimų sąrašai"
+	 nc:link="using_certs_help.html#Managing_CRLs"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:ocsp"
+         nc:name="tikrinimas OCSP protokolu"
+	 nc:link="validation_help.html#OCSP"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#l">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liud_tvarkykle"
+         nc:name="Liudijimų tvarkytuvė"
+	 nc:link="certs_help.html"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liud_tvarkykle">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liud_tvarkykle:jusu"
+         nc:name="kortelė „Jūsų liudijimai“"
+	 nc:link="certs_help.html#My_Certificates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liud_tvarkykle">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liud_tvarkykle:kitu"
+         nc:name="kortelė „Kitų asmenų“"
+	 nc:link="certs_help.html#Other_Peoples_Certificates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liud_tvarkykle">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liud_tvarkykle:svetainiu"
+         nc:name="kortelė „Svetainių“"
+	 nc:link="certs_help.html#Web_Site_Certificates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Liud_tvarkykle">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liud_tvarkykle:l_istaigu"
+         nc:name="kortelė „Liudijimų įstaigų“"
+	 nc:link="certs_help.html#CA_Certificates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+
+<rdf:Description about="help-indexAZ.rdf#m">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="toolbar"
+         nc:name="Mygtukų juosta"
+	 nc:link="customize_help.html#cust_toolbar"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#toolbar">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="toolbar:personal_toolbar"
+         nc:name="asmeninė"
+	 nc:link="customize_help.html#toolbar:personal_toolbarIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#toolbar">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="toolbar:statusbar"
+         nc:name="būsenos"
+	 nc:link="customize_help.html#cust_statusbar"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#toolbar">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="toolbar:taskbar"
+         nc:name="darbų"
+	 nc:link="customize_help.html#cust_taskbar"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#toolbar">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="toolbar:navigation_toolbar"
+         nc:name="naršymo"
+	 nc:link="customize_help.html#toolbar:navigation_toolbarIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#toolbar">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="toolbar:hiding_a_toolbar"
+         nc:name="juostų slėpimas"
+	 nc:link="customize_help.html#toolbar:hiding_a_toolbarIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#n">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="browser"
+         nc:name="Naršyklė"
+	 nc:link="customize_help.html#browser:start_up_componentsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#browser">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="browser:atnaujinimas"
+         nc:name="atnaujinimo nuostatos"
+	 nc:link="cs_nav_prefs_advanced.html#software_installation:preferencesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#browser">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="browser:start_up_components"
+         nc:name="atveriamų komponentų pasirinkimas"
+	 nc:link="customize_help.html#cust_start"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+
+<rdf:Description about="#browser">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="browser:changing_your_home_page"
+         nc:name="pradžios tinklalapis"
+	 nc:link="customize_help.html#Navigator:changing_your_home_pageIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#browser">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="browser:start_page"
+         nc:name="tinklalapis, atveriamas paleidus naršyklę"
+	 nc:link="customize_help.html#Navigator:start_pageIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+
+<rdf:Description about="help-indexAZ.rdf#n">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Newsgroups"
+         nc:name="Naujienų grupės"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="getting_started_with_newsgroups"
+         nc:name="darbo pradžia"
+	 nc:link="mail_help.xhtml#STARTING_NEWSGROUPS"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Newsgroups:diskusijos"
+         nc:name="diskusijos"
+	 nc:link="mail_help.xhtml#contributing_to_ongoing_discussions"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Newsgroups:grup_del"
+         nc:name="grupės šalinimas"
+	 nc:link="mail_help.xhtml#removing_a_newsgroup"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Newsgroups:lai_siunt"
+         nc:name="laiškų siuntimas"
+	 nc:link="mail_help.xhtml#posting_newsgroup_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Newsgroups:lai_skait"
+         nc:name="laiškų skaitymas"
+	 nc:link="mail_help.xhtml#reading_newsgroup_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Newsgroups:prenumerata"
+         nc:name="naujienų prenumerata"
+	 nc:link="mail_help.xhtml#subscribing_to_newsgroups"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Newsgroups:server_add"
+         nc:name="naujienų serverio įtraukimas"
+	 nc:link="mail_help.xhtml#adding_a_newsgroup_server"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Newsgroups:server_settings"
+         nc:name="naujienų serverio nuostatos"
+	 nc:link="mail_help.xhtml#news_server_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#p">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search"
+         nc:name="Paieška"
+	 nc:link="nav_help.html#web_pages:searchingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#search">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search:web_search"
+         nc:name="žiniatinklyje"
+	 nc:link="nav_help.html#web_pages:searchingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#search:web_search">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search:web_search:kelios"
+         nc:name="su keliomis ieškyklėmis"
+	 nc:link="nav_help.html#nav_smartsearch"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#search:web_search">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search:web_search:juosta"
+         nc:name="iš adresų juostos"
+	 nc:link="nav_help.html#Search_from_locationbar"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#search:web_search">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search:web_search:parankine"
+         nc:name="iš parankinės"
+	 nc:link="nav_help.html#Search_from_sidebar"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#search:web_search">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search:web_search:grupes"
+         nc:name="ieškyklių grupių sudarymas"
+	 nc:link="nav_help.html#Search_categories"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#search:web_search">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search:web_search:nuostatos"
+         nc:name="paieškos nuostatos"
+	 nc:link="nav_help.html#search:setting_preferencesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#search">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search:bookmarks"
+         nc:name="adresyne arba žurnale"
+	 nc:link="nav_help.html#search:bookmarksIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#search">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search:messages"
+         nc:name="laiškuose"
+	 nc:link="mail_help.xhtml#searching_through_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#search">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search:ab"
+         nc:name="adresų knygose ir kataloguose"
+	 nc:link="mail_help.xhtml#searching_address_books_and_directories"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#search">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="search:tinklalapyje"
+         nc:name="tinklalapyje"
+	 nc:link="nav_help.html#web_pages:finding_withinIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#p">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="a_abonentas"
+         nc:name="Paskyra"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#a_abonentas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="a_abonentas:registravimas"
+         nc:name="abonento registravimas"
+	 nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#a_abonentas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="a_abonentas:nuostatos"
+         nc:name="nuostatos"
+	 nc:link="mail_help.xhtml#mail_and_newsgroups_account_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#a_abonentas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="a_abonentas:veiksmai"
+         nc:name="veiksmai su paskyromis"
+	 nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#p">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="My_Sidebar"
+         nc:name="Parankinė"
+	 nc:link="customize_help.html#cust_sidebar"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#My_Sidebar">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="My_Sidebar:description"
+         nc:name="kas yra parankinė"
+	 nc:link="customize_help.html#My_Sidebar:descriptionIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#My_Sidebar">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="My_Sidebar:kort"
+         nc:name="kortelės"
+	 nc:link="customize_help.html#My_Sidebar:adding_tabsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+
+<rdf:Description about="#My_Sidebar:kort">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="My_Sidebar:adding_tabs"
+         nc:name="įtraukimas"
+	 nc:link="customize_help.html#My_Sidebar:adding_tabsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#My_Sidebar:kort">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="My_Sidebar:customizing_tabs"
+         nc:name="tvarkymas"
+	 nc:link="customize_help.html#My_Sidebar:customizing_tabsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#My_Sidebar:kort">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="My_Sidebar:removing_tabs"
+         nc:name="šalinimas"
+	 nc:link="customize_help.html#My_Sidebar:removing_tabsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#My_Sidebar:kort">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="My_Sidebar:reorganizing_tabs"
+         nc:name="eilės keitimas"
+	 nc:link="customize_help.html#My_Sidebar:reorganizing_tabsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#My_Sidebar">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="My_Sidebar:search_categories"
+         nc:name="ieškyklių grupių sudarymas"
+	 nc:link="nav_help.html#Search_categories"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#My_Sidebar">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="My_Sidebar:searching_from"
+         nc:name="paieška iš parankinės"
+	 nc:link="nav_help.html#Search_from_sidebar"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#My_Sidebar">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="My_Sidebar:using"
+         nc:name="naudojimas"
+	 nc:link="customize_help.html#My_Sidebar:usingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#p">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups"
+         nc:name="Paštas"
+	 nc:link="mail_help.xhtml#mail_start"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="abonentas"
+         nc:name="paskyra"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#abonentas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="abonentas:r"
+         nc:name="kūrimas"
+	 nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#abonentas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="abonentas:n"
+         nc:name="nuostatos"
+	 nc:link="mail_help.xhtml#mail_and_newsgroups_account_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#abonentas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="abonentas:n_p"
+         nc:name="nuostatų peržiūra"
+	 nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#abonentas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="abonentas:v"
+         nc:name="veiksmai su paskyromis"
+	 nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="aplankas"
+         nc:name="aplankas"
+	 nc:link="mail_help.xhtml#creating_a_folder"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#aplankas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="aplankas:kurimas"
+         nc:name="kūrimas"
+	 nc:link="mail_help.xhtml#creating_a_folder"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#aplankas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="aplankas:perkelimas"
+         nc:name="perkėlimas arba kopijavimas"
+	 nc:link="mail_help.xhtml#moving_or_copying_a_folder"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#aplankas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="aplankas:pervadinimas"
+         nc:name="vardo keitimas"
+	 nc:link="mail_help.xhtml#renaming_a_folder"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:address_autocompletion"
+         nc:name="adreso užbaigimas pagal surinktą jo pradžią"
+	 nc:link="mail_help.xhtml#address_autocompletion"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas"
+         nc:name="laiškas"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:adresavimas"
+         nc:name="adresavimas"
+	 nc:link="mail_help.xhtml#addressing_a_message"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:rasymas"
+         nc:name="rašymas"
+	 nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:labels"
+         nc:name="žymė"
+	 nc:link="mail_help.xhtml#labeling_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:HTML"
+         nc:name="raiškiojo teksto (HTML) naudojimas"
+	 nc:link="mail_help.xhtml#creating_html_mail_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:filing_messages"
+         nc:name="perkėlimas į kitą aplanką"
+	 nc:link="mail_help.xhtml#filing_messages_in_folders"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:forwarding_messages"
+         nc:name="persiuntimas"
+	 nc:link="mail_help.xhtml#forwarding_a_message"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:getting_new_messages"
+         nc:name="gavimas"
+	 nc:link="mail_help.xhtml#reading_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:replying_to_messages"
+         nc:name="atsakymas"
+	 nc:link="mail_help.xhtml#replying_to_a_message"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:saving_and_printing_messages"
+         nc:name="laikymas ir spausdinimas"
+	 nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:saving_messages_drafts"
+         nc:name="juodarščiai"
+	 nc:link="mail_help.xhtml#saving_and_editing_a_message_draft"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:sending_messages"
+         nc:name="siuntimas"
+	 nc:link="mail_help.xhtml#sending_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:sending_options"
+         nc:name="siuntimo parinktys"
+	 nc:link="mail_help.xhtml#selecting_message_sending_options"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:sorting_and_threading_messages"
+         nc:name="rikiavimas ir grupavimas"
+	 nc:link="mail_help.xhtml#sorting_and_threading_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:using_templates"
+         nc:name="šablonai"
+	 nc:link="mail_help.xhtml#creating_and_using_templates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#laiskas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="laiskas:using_attachments"
+         nc:name="priedai"
+	 nc:link="mail_help.xhtml#using_attachments"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:addressing_preferences"
+         nc:name="adresų knygų nuostatos"
+	 nc:link="mail_help.xhtml#addressing_preferences"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="serverio_nuostatos"
+         nc:name="serverio nuostatos"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#serverio_nuostatos">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="serverio_nuostatos:IMAP"
+         nc:name="IMAP"
+	 nc:link="mail_help.xhtml#imap_server_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#serverio_nuostatos">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="serverio_nuostatos:POP"
+         nc:name="POP"
+	 nc:link="mail_help.xhtml#pop_server_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#serverio_nuostatos">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="serverio_nuostatos:SMTP"
+         nc:name="SMTP"
+	 nc:link="mail_help.xhtml#outgoing_server"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:attaching_files"
+         nc:name="failo arba tinklalapio pridėjimas prie laiško"
+	 nc:link="mail_help.xhtml#attaching_a_file_or_web_page"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:Compose_window"
+         nc:name="laiškų rašymo langas"
+	 nc:link="mail_help.xhtml#composing_mail_and_newsgroup_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:copies_and_folder_settings"
+         nc:name="laiškai ir aplankai"
+	 nc:link="mail_help.xhtml#copies_and_folders"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:creating_filters"
+         nc:name="filtrai"
+	 nc:link="mail_help.xhtml#creating_message_filters"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:Disk_Space_settings"
+         nc:name="disko atmintinė"
+	 nc:link="mail_help.xhtml#disk_space_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:general_preferences"
+         nc:name="pašto programos nuostatos"
+	 nc:link="mail_help.xhtml#mail_and_newsgroup_preferences"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:HTML_mail_recipients"
+         nc:name="kurio tipo tekstų nori laiškų gavėjai"
+	 nc:link="mail_help.xhtml#specifying_recipients_for_html_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:HTML_Message_Source"
+         nc:name="pirminio raiškiojo (HTML) teksto peržiūra"
+	 nc:link="mail_help.xhtml#viewing_the_message_source_for_html_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:importing_address_books"
+         nc:name="adresų knygų importas"
+	 nc:link="mail_help.xhtml#importing_address_books"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:importing_mail_messages"
+         nc:name="laiškų importas"
+	 nc:link="mail_help.xhtml#importing_mail_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:importing_mail_messages"
+         nc:name="pašto nuostatų importas"
+	 nc:link="mail_help.xhtml#importing_mail_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:mail_window_layout"
+         nc:name="pašto pagrindinio lango išvaizda"
+	 nc:link="mail_help.xhtml#choosing_how_you_view_the_mail_window"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:message_searching"
+         nc:name="paieška laiškuose"
+	 nc:link="mail_help.xhtml#searching_through_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:saving_attachments"
+         nc:name="priedų įrašymas į diską"
+	 nc:link="mail_help.xhtml#saving_attachments"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:using_address_books"
+         nc:name="adresų knygos"
+	 nc:link="mail_help.xhtml#using_address_books"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:using_HTML_in_messages"
+         nc:name="raiškiojo teksto pasirinkimas"
+	 nc:link="mail_help.xhtml#using_html_in_your_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:using_mailing_addresses"
+         nc:name="adresatų sąrašas"
+	 nc:link="mail_help.xhtml#creating_a_mailing_list"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:viewing_attachments"
+         nc:name="priedų peržiūra"
+	 nc:link="mail_help.xhtml#viewing_and_opening_attachments"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:working_offline"
+         nc:name="darbas atsijungus nuo tinklo"
+	 nc:link="mail_help.xhtml#working_offline"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:skaitm_pararas"
+         nc:name="skaitmeninis parašas"
+	 nc:link="mail_sec_help.html#signing_email_messagesSDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:sifravimas"
+         nc:name="šifravimas"
+	 nc:link="mail_sec_help.html#about_sigs_encrypt"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:saug_nuostatos"
+         nc:name="saugumo nuostatos"
+	 nc:link="mail_sec_help.html#encryption:settings_for_emailIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Mail_and_Newsgroups">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:saug_laisko"
+         nc:name="laiško saugumas"
+	 nc:link="mail_sec_help.html#checking_security_before_sending_messageSDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#p">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="mouse_wheel"
+         nc:name="Pelės ratukas"
+	 nc:link="nav_help.html#mouse_wheel:usingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#mouse_wheel">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="mouse_wheel:using"
+         nc:name="nuostatos"
+	 nc:link="cs_nav_prefs_advanced.html#mouse_wheel:preferencesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#p">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="cache"
+         nc:name="Podėlis"
+	 nc:link="nav_help.html#cache:changing_settingsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#cache">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="cache:changing_settings"
+         nc:name="nuostatos"
+	 nc:link="nav_help.html#cache:changing_settingsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#p">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy"
+         nc:name="Privatumas"
+	 nc:link="privacy_help.html#privacy:aboutIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:cookies_and"
+         nc:name="slapukai"
+	 nc:link="privacy_help.html#privacy:cookies_andIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:slaptazodziai"
+         nc:name="slaptažodžiai"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy:slaptazodziai">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:slaptazodziai:tvarkymas"
+         nc:name="tvarkymas"
+	 nc:link="using_priv_help.html#Password_Manager:usingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy:slaptazodziai">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:slaptazodziai_n"
+         nc:name="nuostatos"
+	 nc:link="passwords_help.html#passwords:preferencesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:pagr_slaptazodziai"
+         nc:name="pagrindiniai slaptažodžiai"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy:pagr_slaptazodziai">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:pagr_slaptazodziai:keit"
+         nc:name="keitimas"
+	 nc:link="passwords_help.html#master_password:changingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy:pagr_slaptazodziai">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:pagr_slaptazodziai:atst"
+         nc:name="atšaukimas"
+	 nc:link="passwords_help.html#master_password:resettingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy:pagr_slaptazodziai">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:pagr_slaptazodziai:nuost"
+         nc:name="nuostatos"
+	 nc:link="passwords_help.html#master_password:preferencesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:formos"
+         nc:name="formos"
+	 nc:link="using_priv_help.html#Form_Manager:usingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy:formos">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:formos:duom_isiminimas"
+         nc:name="duomenų įsiminimas"
+	 nc:link="using_priv_help.html#forms:saving_dataIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy:formos">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:formos:autopildymas"
+         nc:name="automatinis pildymas"
+	 nc:link="using_priv_help.html#form_auto"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy:formos">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:formos:tvarkymas"
+         nc:name="tvarkymas"
+	 nc:link="using_priv_help.html#form_data_view_edit"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy:formos">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:formos_nuostatos"
+         nc:name="nuostatos"
+	 nc:link="using_priv_help.html#form_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:tinklalapiai_laiskuose"
+         nc:name="tinklalapių el. laiškuose valdymas"
+	 nc:link="privacy_help.html#privacy_email"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:IP_address"
+         nc:name="IP adresas"
+	 nc:link="privacy_help.html#ip"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:preferences"
+         nc:name="nuostatos"
+	 nc:link="privsec_help.html#privacy:preferencesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#privacy">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="privacy:protecting"
+         nc:name="privatumo saugumas"
+	 nc:link="privacy_help.html#privacy:protectingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#p">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="profilis"
+         nc:name="Profilis"
+	 nc:link="profiles_help.html#profiles:managingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#profilis">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="profilis:naujas"
+         nc:name="naujo profilio kūrimas"
+	 nc:link="profiles_help.html#profiles:creatingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#profilis">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="profilis:sal_pervad"
+         nc:name="šalinimas arba pervardijimas"
+	 nc:link="profiles_help.html#profiles:deletingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#r">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer"
+         nc:name="Rašyklė"
+	 nc:link="composer_help.html#comp_start"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:adding_tables"
+         nc:name="lentelių įterpimas"
+	 nc:link="composer_help.html#Composer:adding_tablesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:Advanced_Property_Editor"
+         nc:name="papildoma taisa"
+	 nc:link="composer_help.html#Composer:Advanced_Property_EditorIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:changing_text_color"
+         nc:name="teksto spalvos keitimas"
+	 nc:link="composer_help.html#Composer:changing_text_colorIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:changing_text_font"
+         nc:name="teksto šrifto keitimas"
+	 nc:link="composer_help.html#Composer:changing_text_fontIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:checking_html"
+         nc:name="HTML kalbos tikrinimas"
+	 nc:link="composer_help.html#Composer:checking_htmlIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:checking_spelling"
+         nc:name="rašybos tikrinimas"
+	 nc:link="composer_help.html#spell_check"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:creating_links"
+         nc:name="saitų kūrimas"
+	 nc:link="composer_help.html#page_link"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:creating_new_pages"
+         nc:name="tinklalapio rašymas"
+	 nc:link="composer_help.html#Composer:creating_new_pagesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:editing_image_properties"
+         nc:name="paveikslo savybių taisymas"
+	 nc:link="composer_help.html#PROPERTIES_IMAGE"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:editing_modes"
+         nc:name="rodinio parinkimas"
+	 nc:link="composer_help.html#Composer:editing_modesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:finding_replacing_text"
+         nc:name="teksto paieška ir keitimas"
+	 nc:link="composer_help.html#Composer:finding_replacing_textIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:formatting_lists"
+         nc:name="sąrašų formavimas"
+	 nc:link="composer_help.html#Composer:formatting_listsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:formatting_paragraphs"
+         nc:name="pastraipų formavimas"
+	 nc:link="composer_help.html#Composer:formatting_paragraphsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:general_preferences"
+         nc:name="nuostatos"
+	 nc:link="composer_help.html#Composer:preferencesSDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:HTML_Element_and_Attributes"
+         nc:name="HTML kalbos elementų ir požymių įterpimas"
+	 nc:link="composer_help.html#Composer:HTML_Element_and_AttributesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:inserting_horizontal_lines"
+         nc:name="horizontalės įterpimas"
+	 nc:link="composer_help.html#Composer:inserting_horizontal_linesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:inserting_images"
+         nc:name="paveikslo įterpimas"
+	 nc:link="composer_help.html#Composer:inserting_imagesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:publishing_site"
+         nc:name="publikavimas"
+	 nc:link="composer_help.html#publish_prepare"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:removing_text_styles"
+         nc:name="teksto stilių šalinimas"
+	 nc:link="composer_help.html#Composer:removing_text_stylesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:saving_pages"
+         nc:name="tinklalapio įrašymas"
+	 nc:link="composer_help.html#Composer:saving_pagesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:setting_page_colors"
+         nc:name="tinklalapio spalvos"
+	 nc:link="composer_help.html#DOCUMENT_PROPERTIES_APPEARANCE"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:setting_page_properties"
+         nc:name="tinklalapio savybės"
+	 nc:link="composer_help.html#Composer:setting_page_propertiesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:special_characters"
+         nc:name="specialiųjų rašmenų įterpimas"
+	 nc:link="composer_help.html#Composer:special_charactersIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Composer">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Composer:working_with_lists"
+         nc:name="darbas su sąrašais"
+	 nc:link="composer_help.html#Composer:working_with_listsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+
+<rdf:Description about="help-indexAZ.rdf#s">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security"
+         nc:name="Saugumas"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:preferences"
+         nc:name="nuostatos"
+	 nc:link="privsec_help.html#security:preferencesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:saug_priem_tvark"
+         nc:name="saugumo priemonių tvarkymas"
+	 nc:link="using_certs_help.html#Device_Manager:usingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:smart_card_tvark"
+         nc:name="intelektualiųjų kortelių tvarkymas"
+	 nc:link="using_certs_help.html#Device_Manager:usingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:saug_priem"
+         nc:name="saugumo priemonė"
+	 nc:link="using_certs_help.html#using_certs_devices_devices"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:saug_mod"
+         nc:name="saugumo modulis"
+	 nc:link="using_certs_help.html#using_certs_devices_modules"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:fips"
+         nc:name="FIPS veiksena"
+	 nc:link="using_certs_help.html#FIPS_modeIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:ssl"
+         nc:name="SSL"
+	 nc:link="using_certs_help.html#using_certs_ssl"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:ssl">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:ssl:ispejimai"
+         nc:name="įspėjimai"
+	 nc:link="ssl_help.html#SSL_Warnings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:ssl">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:ssl:nuostatos"
+         nc:name="nuostatos"
+	 nc:link="ssl_help.html#SSL:preferencesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:ssl">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:ssl:sifrai"
+         nc:name="šifrų nuostatos"
+	 nc:link="ssl_help.html#SSL:ciphersIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas"
+         nc:name="liudijimas"
+	 nc:link="using_certs_help.html#certificates:usingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:gavimas"
+         nc:name="liudijimo gavimas"
+	 nc:link="using_certs_help.html#certificates:gettingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:tvarkymas"
+         nc:name="tvarkymas"
+	 nc:link="using_certs_help.html#certificates:managingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:nuostatos"
+         nc:name="nuostatos"
+	 nc:link="certs_prefs_help.xhtml"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:kopija"
+         nc:name="atsarginė kopija"
+	 nc:link="cert_dialog_help.xhtml#certificate_backup"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:kopijos_slapt"
+         nc:name="atsarginės kopijos slaptažodis"
+	 nc:link="certs_help.html#Choose_a_Certificate_Backup_Password"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:jusu"
+         nc:name="asmeninis"
+	 nc:link="certs_help.html#My_Certificates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:kitu"
+         nc:name="kito asmens"
+	 nc:link="certs_help.html#Other_Peoples_Certificates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:svetainiu"
+         nc:name="svetainės"
+	 nc:link="certs_help.html#Web_Site_Certificates"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:liud_ist"
+         nc:name="liudijimų įstaigos"
+	 nc:link="certs_help.html#certificates:intermediate_CAIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:info"
+         nc:name="informacija apie liudijimą"
+	 nc:link="cert_dialog_help.xhtml"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas:info">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:info:benroji"
+         nc:name="bendroji"
+	 nc:link="cert_dialog_help.xhtml#general_tab"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas:info">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:info:details"
+         nc:name="išsamesnė"
+	 nc:link="cert_dialog_help.xhtml#details_tab"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:patikra"
+         nc:name="patikra"
+	 nc:link="using_certs_help.html#using_certs_validation"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:Liudijimas:crl"
+         nc:name="atšauktų liudijimų sąrašai"
+	 nc:link="using_certs_help.html#Managing_CRLs"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security:Liudijimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Liudijimas:ocsp"
+         nc:name="tikrinimas OCSP protokolu"
+	 nc:link="validation_help.html#OCSP"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:tinklalapio"
+         nc:name="svetainės saugumo tikrinimas"
+	 nc:link="using_certs_help.html#encryption:status_of_web_pageIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:saug_pr_pasirinkimas"
+         nc:name="saugumo priemonės pasirinkimas"
+	 nc:link="cert_dialog_help.xhtml#choose_security_device"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:rakto_kopija"
+         nc:name="užšifravimo rakto kopija"
+	 nc:link="cert_dialog_help.xhtml#encryption_key_copy"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:liud_ats_kopija"
+         nc:name="liudijimo atsarginė kopija"
+	 nc:link="cert_dialog_help.xhtml#certificate_backup"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:vart_identifikavimas"
+         nc:name="vartotojo tapatumo nustatymas"
+	 nc:link="cert_dialog_help.xhtml#user_identification_request"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:nauja_LI"
+         nc:name="nauja liudijimų įstaiga"
+	 nc:link="cert_dialog_help.xhtml#new_certificate_authority"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:nezin_stetaines_liud"
+         nc:name="svetainės liudijimą išdavė nežinoma liudijimų įstaiga"
+	 nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:nebegal_stetaines_liud"
+         nc:name="serverio liudijimas nebegalioja"
+	 nc:link="cert_dialog_help.xhtml#server_certificate_expired"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:dar_negal_stetaines_liud"
+         nc:name="serverio liudijimas dar negalioja"
+	 nc:link="cert_dialog_help.xhtml#server_certificate_not_yet_valid"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#security">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="security:sriciu_vard_nesutap"
+         nc:name="sričių vardų nesutapimas"
+	 nc:link="cert_dialog_help.xhtml#domain_name_mismatch"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#s">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="cookies"
+         nc:name="Slapukai"
+	 nc:link="privacy_help.html#cookies:aboutIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#cookies">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="cookies:about"
+         nc:name="kas yra slapukas"
+	 nc:link="privacy_help.html#cookies:aboutIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#cookies">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="cookies:foreign"
+         nc:name="svetimi"
+	 nc:link="privacy_help.html#cookies:foreignIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#cookies">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="cookies:pref"
+         nc:name="nuostatos"
+	 nc:link="using_priv_help.html#cookie_settings"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#s">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="colors"
+         nc:name="Spalvos"
+	 nc:link="customize_help.html#colors:customizing_web_pageIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#colors">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="colors:prefs"
+         nc:name="nuostatos"
+	 nc:link="cs_nav_prefs_appearance.html#colors"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#colors">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="colors:tinklalapio"
+         nc:name="tinklalapio spalvų keitimas"
+	 nc:link="composer_help.html#Composer:changing_text_colorIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#s">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Quick_Launch"
+         nc:name="Sparčioji paleistis"
+	 nc:link="nav_help.html#Quick_Launch:usingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#s">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="print"
+         nc:name="Spausdinimas"
+	 nc:link="nav_help.html#print:web_pagesIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#print">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="print:web_pages"
+         nc:name="tinklalapio"
+	 nc:link="nav_help.html#nav_print"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#print">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="print:messages"
+         nc:name="laiško"
+	 nc:link="mail_help.xhtml#saving_and_printing_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#t">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages"
+         nc:name="Tinklalapis"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:copying"
+         nc:name="kopijavimas, spausdinimas, įrašymas"
+	 nc:link="nav_help.html#web_pages:copyingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:customizing_fonts"
+         nc:name="šriftų keitimas"
+	 nc:link="customize_help.html#web_pages:customizing_fontsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:finding_within"
+         nc:name="paieška tinklalapyje"
+	 nc:link="nav_help.html#web_pages:finding_withinIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:history"
+         nc:name="žurnalai"
+	 nc:link="nav_help.html#web_pages:historyIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:navigating"
+         nc:name="naršymas"
+	 nc:link="nav_help.html#web_pages:navigatingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:searching"
+         nc:name="paieška žiniatinklyje"
+	 nc:link="nav_help.html#web_pages:searchingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:stopping"
+         nc:name="siuntimo stabdymas"
+	 nc:link="nav_help.html#web_pages:stoppingIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:informacija"
+         nc:name="informacija"
+	 nc:link="page_info_help.html#page_infoIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:kurimas"
+         nc:name="kūrimas"
+	 nc:link="composer_help.html#comp_start"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:publikavimas"
+         nc:name="publikavimas"
+	 nc:link="composer_help.html#publish_top"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:colors"
+         nc:name="spalvų nuostatos"
+	 nc:link="cs_nav_prefs_appearance.html#colors"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:reloading"
+         nc:name="atsiuntimas iš naujo"
+	 nc:link="nav_help.html#nav_reload"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:bookmarking"
+         nc:name="įrašymas į adresyną"
+	 nc:link="customize_help.html#cust_bkmk_create"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#web_pages">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="web_pages:cache"
+         nc:name="podėlis"
+	 nc:link="nav_help.html#nav_cache"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#š">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="sriftai"
+         nc:name="Šriftai"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#sriftai">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="sriftai:kod_sriftai"
+         nc:name="koduotės ir šriftai"
+	 nc:link="nav_help.html#nav_charcode"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#sriftai">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="sriftai:nuostatos"
+         nc:name="nuostatos"
+	 nc:link="cs_nav_prefs_appearance.html#preferences:fontsIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#š">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="sifravimas"
+         nc:name="Šifravimas"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#sifravimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="sifravimas:duom"
+         nc:name="neskelbtinų duomenų"
+	 nc:link="using_priv_help.html#encryption:of_stored_sensitive_informationIDX"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#sifravimas">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="sifravimas:laisko"
+         nc:name="el. laiško"
+	 nc:link="mail_sec_help.html#about_sigs_encrypt"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#v">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Vart_tap"
+         nc:name="Vartotojo tapatumo nustatymas"
+	 nc:link="cert_dialog_help.xhtml#user_identification_request"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#v">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Veiksmai_paskyros"
+         nc:name="Veiksmai su paskyromis"
+	 nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="help-indexAZ.rdf#ž">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Labels"
+         nc:name="Žymė"
+	 nc:link=""/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Labels">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Labels:general_preferences"
+         nc:name="laiško"
+	 nc:link="mail_help.xhtml#labeling_messages"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+<rdf:Description about="#Labels">
+   <nc:subheadings>
+     <rdf:Seq><rdf:li>
+       <rdf:Description ID="Labels:anchors"
+         nc:name="tinklalapyje"
+	 nc:link="composer_help.html#page_link"/>
+     </rdf:li></rdf:Seq>
+   </nc:subheadings>
+</rdf:Description>
+
+</rdf:RDF>

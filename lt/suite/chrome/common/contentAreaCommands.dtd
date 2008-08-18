@@ -1,0 +1,144 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "Neatverti iškylančiųjų langų iš šios svetainės">
+<!ENTITY popupWindowRejectCmd.accesskey "N">
+<!ENTITY popupWindowAllowCmd.label      "Leisti atverti iškylančiuosius langus iš šios svetainės">
+<!ENTITY popupWindowAllowCmd.accesskey  "L">
+<!ENTITY openLinkCmd.label            "Atverti saitą naujame lange">
+<!ENTITY openLinkCmd.accesskey        "t">
+<!ENTITY openLinkCmdInTab.label       "Atverti saitą naujoje kortelėje">
+<!ENTITY openLinkCmdInTab.accesskey   "v">
+<!ENTITY openLinkInWindowCmd.label    "Atverti">
+<!ENTITY openLinkInWindowCmd.accesskey "A">
+<!ENTITY openFrameCmd.label           "Atverti kadrą naujame lange">
+<!ENTITY openFrameCmd.accesskey       "A">
+<!ENTITY openFrameCmdInTab.label      "Atverti kadrą naujoje kortelėje">
+<!ENTITY openFrameCmdInTab.accesskey  "t">
+<!ENTITY showOnlyThisFrameCmd.label     "Rodyti tik šį kadrą">
+<!ENTITY showOnlyThisFrameCmd.accesskey "o">
+<!ENTITY addToBookmarksCmd.label      "Įrašyti į adresyną">
+<!ENTITY addToBookmarksCmd.accesskey  "d">
+<!ENTITY goBackCmd.label              "Atgal">
+<!ENTITY goBackCmd.accesskey          "A">
+<!ENTITY goForwardCmd.label           "Pirmyn">
+<!ENTITY goForwardCmd.accesskey       "P">
+<!ENTITY goUpCmd.label                "Aukštyn">
+<!ENTITY goUpCmd.accesskey            "A">
+<!ENTITY reloadCmd.label              "Atsiųsti iš naujo">
+<!ENTITY reloadCmd.accesskey          "n">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "Stabdyti">
+<!ENTITY stopCmd.accesskey            "b">
+<!ENTITY reloadFrameCmd.label         "Atsiųsti kadrą iš naujo">
+<!ENTITY reloadFrameCmd.accesskey     "n">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Rodyti atrankos pirminį tekstą">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Rodyti „MathML“ pirminį tekstą">
+<!ENTITY viewPartialSourceCmd.accesskey "M">
+<!ENTITY viewPageSourceCmd.label      "Pirminis tekstas">
+<!ENTITY viewPageSourceCmd.accesskey  "t">
+<!ENTITY viewFrameSourceCmd.label     "Kadro pirminis tekstas">
+<!ENTITY viewFrameSourceCmd.accesskey "m">
+<!ENTITY viewPageInfoCmd.label        "Informacija apie tinklalapį">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "Informacija apie kadrą">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY fitImageCmd.label            "Priderinti paveikslą prie lango">
+<!ENTITY fitImageCmd.accesskey        "d">
+<!ENTITY reloadImageCmd.label         "Atsiųsti paveikslą iš naujo">
+<!ENTITY reloadImageCmd.accesskey     "n">
+<!ENTITY viewImageCmd.label           "Rodyti paveikslą">
+<!ENTITY viewImageCmd.accesskey       "y">
+<!ENTITY viewBGImageCmd.label         "Rodyti fono piešinį">
+<!ENTITY viewBGImageCmd.accesskey     "f">
+<!ENTITY setWallpaperCmd.label        "Padaryti užsklandos piešiniu">
+<!ENTITY setWallpaperCmd.accesskey    "ž">
+<!ENTITY bookmarkPageCmd.label        "Tinklalapį įrašyti į adresyną">
+<!ENTITY bookmarkPageCmd.accesskey    "š">
+<!ENTITY bookmarkLinkCmd.label        "Saitą įrašyti į adresyną">
+<!ENTITY bookmarkLinkCmd.accesskey    "S">
+<!ENTITY bookmarkFrameCmd.label       "Kadrą įrašyti į adresyną">
+<!ENTITY bookmarkFrameCmd.accesskey   "d">
+<!ENTITY savePageAsCmd.label          "Įrašyti tinklalapį kaip…">
+<!ENTITY savePageCmd.label            "Įrašyti tinklalapį">
+<!ENTITY savePageCmd.accesskey        "r">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameAsCmd.label         "Įrašyti kadrą kaip…">
+<!ENTITY saveFrameCmd.label           "Įrašyti kadrą">
+<!ENTITY saveFrameCmd.accesskey       "r">
+<!ENTITY saveLinkAsCmd.label          "Įrašyti saistomą objektą kaip…">
+<!ENTITY saveLinkCmd.label            "Įrašyti saistomą objektą">
+<!ENTITY saveLinkCmd.accesskey        "Į">
+<!ENTITY saveImageAsCmd.label         "Įrašyti paveikslą kaip…">
+<!ENTITY saveImageCmd.label           "Įrašyti paveikslą">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY copyCmd.label                "Kopijuoti">
+<!ENTITY copyCmd.accesskey            "o">
+<!ENTITY selectAllCmd.label           "Pažymėti viską">
+<!ENTITY selectAllCmd.accesskey       "ė">
+<!ENTITY copyLinkCmd.label            "Kopijuoti saito adresą">
+<!ENTITY copyLinkCmd.accesskey        "j">
+<!ENTITY copyImageCmd.label           "Kopijuoti paveikslo adresą">
+<!ENTITY copyImageCmd.accesskey       "i">
+<!ENTITY metadataCmd.label            "Savybės">
+<!ENTITY metadataCmd.accesskey        "S">
+<!ENTITY copyEmailCmd.label           "Kopijuoti el. pašto adresą">
+<!ENTITY copyEmailCmd.accesskey       "e">
+<!ENTITY pasteCmd.label               "Įdėti">
+<!ENTITY pasteCmd.accesskey           "d">
+<!ENTITY cutCmd.label                 "Iškirpti">
+<!ENTITY cutCmd.accesskey             "r">
+<!ENTITY deleteCmd.label              "Pašalinti">
+<!ENTITY deleteCmd.accesskey          "š">
+<!ENTITY undoCmd.label                "Atšaukti">
+<!ENTITY undoCmd.accesskey            "A">
+<!ENTITY redoCmd.label                "Atstatyti">
+<!ENTITY redoCmd.accesskey            "t">
+<!ENTITY thisFrameMenu.label          "Kadras">
+<!ENTITY thisFrameMenu.accesskey      "K">
+<!ENTITY search.accesskey             "š">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Pakeisti puslapio kryptį">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "a">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Pakeisti teksto kryptį">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "k">
+<!ENTITY spellAddToDictionary.label     "Įtraukti į žodyną">
+<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellIgnoreWord.label          "Praleisti žodį">
+<!ENTITY spellIgnoreWord.accesskey      "P">
+<!ENTITY spellCheckEnable.label         "Tikrinti rašybą">
+<!ENTITY spellCheckEnable.accesskey     "r">
+<!ENTITY spellNoSuggestions.label       "(Nėra rašybos siūlymų)">
+<!ENTITY spellDictionaries.label        "Kalbos">
+<!ENTITY spellDictionaries.accesskey    "K">
+<!ENTITY spellAddDictionaries.label     "Daugiau žodynų…">
+<!ENTITY spellAddDictionaries.accesskey "D">

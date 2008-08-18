@@ -1,0 +1,24 @@
+<!-- These are added to the Advanced - Scripts & Plug-ins panel -->
+<!ENTITY enbJsCheckMailNews.label         "pašto ir naujienų grupių programoje">
+<!ENTITY enbJsCheckMailNews.accesskey     "p">
+<!ENTITY enbPluginCheckMailNews.label     "pašto ir naujienų grupių programoje">
+<!ENTITY enbPluginCheckMailNews.accesskey "p">
+
+<!-- These are added to the Window menu -->
+<!ENTITY mail.label                       "Paštas">
+<!ENTITY mail.accesskey                   "P">
+<!ENTITY addressbook.label                "Adresų knyga">
+<!ENTITY addressbook.accesskey            "A">
+
+<!-- These are added to Preferences dialog -->
+<!ENTITY viewingMessages.label            "Laiškų skaitymas">
+<!ENTITY notifications.label              "Signalai">
+<!ENTITY address.label                    "Adresavimas">
+<!ENTITY composingMessages.label          "Laiškų rašymas">
+<!ENTITY format.label                     "Siunčiamo teksto tipai">
+<!ENTITY return.label                     "Pranešimai apie išsiųstus laiškus">
+<!ENTITY disk.label                       "Disko atmintinė">
+<!ENTITY junk.label                       "Šlamštas">
+<!ENTITY tags.label                       "Gairės">
+<!ENTITY characterEncoding.label          "Koduotė">
+<!ENTITY offline.label                    "Darbas atsijungus">
