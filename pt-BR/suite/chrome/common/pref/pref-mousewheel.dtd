@@ -1,6 +1,5 @@
 <!ENTITY pref.mouseWheel.title "Roda do mouse">
 <!ENTITY mouseWheelPanel.label "Especifique como a roda do mouse deve agir ao usar esta tecla modificadora:">
-<!ENTITY mouseWheelPanel.accesskey "o">
 <!ENTITY usingJustTheWheel.label "Sem tecla modificadora">
 <!ENTITY usingWheelAndAlt.label "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
@@ -22,9 +21,6 @@
 <!ENTITY history.label "Voltar ou avançar no histórico de navegação">
 <!ENTITY history.accesskey "v">
 <!ENTITY historyHoriz.accesskey "h">
-<!ENTITY textsize.label "Tornar o texto maior ou menor">
-<!ENTITY textsize.accesskey "t">
-<!ENTITY textsizeHoriz.accesskey "e">
+<!ENTITY zoom.label                      "Aumentar ou diminuir o zoom da página">
 <!ENTITY zoom.accesskey                  "Z">
-<!ENTITY zoom.label                      "Zoom the page in or out">
 <!ENTITY zoomHoriz.accesskey             "e">

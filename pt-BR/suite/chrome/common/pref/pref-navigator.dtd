@@ -34,10 +34,10 @@
 <!ENTITY homeButton.accesskey "i">
 <!ENTITY bookmarksButton.label "Marcadores">
 <!ENTITY bookmarksButton.accesskey "c">
-<!ENTITY alreadyDefaultText             "&brandShortName; is already your default browser.">
-<!ENTITY defaultBrowserButton.accesskey "D">
-<!ENTITY defaultBrowserButton.label     "Set Default Browser">
+<!ENTITY alreadyDefaultText             "&brandShortName; já é seu navegador padrão.">
+<!ENTITY defaultBrowserButton.label     "Definir como navegador padrão">
+<!ENTITY defaultBrowserButton.accesskey "n">
 
-<!ENTITY defaultBrowserGroup.label      "Default Browser">
-<!ENTITY defaultPendingText             "&brandShortName; will be set as your default browser when you click OK.">
-<!ENTITY makeDefaultText                "Set &brandShortName; as your default browser.">
+<!ENTITY defaultBrowserGroup.label      "Navegador padrão">
+<!ENTITY defaultPendingText             "&brandShortName; será definido como seu navegador padrão quando clicar em OK.">
+<!ENTITY makeDefaultText                "Definir &brandShortName; como seu navegador padrão.">

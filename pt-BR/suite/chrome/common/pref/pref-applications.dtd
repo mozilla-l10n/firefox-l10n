@@ -18,15 +18,15 @@
 <!ENTITY pluginFinder.label "Sempre usar o Netscape Plugin Finder Service (PFS)">
 <!ENTITY pluginFinder.accesskey "A">
 <!ENTITY pluginFinderDesc.label "Se esta opção não estiver marcada, o PFS é usado apenas quando a localização do plugin não é especificada pela página.">
+<!ENTITY actionColumn2.label     "Ação">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY actionColumn2.label     "Action">
-<!ENTITY clear.accesskey         "l">
+<!ENTITY clear.label             "Limpar">
+<!ENTITY clear.accesskey         "L">
 
-<!ENTITY clear.label             "Clear">
-<!ENTITY filter.accesskey        "S">
+<!ENTITY filter.label            "Procurar:">
+<!ENTITY filter.accesskey        "P">
 
-<!ENTITY filter.label            "Search:">
+<!ENTITY typeColumn.label        "Tipo de conteúdo">
 <!ENTITY typeColumn.accesskey    "T">
 
-<!ENTITY typeColumn.label        "Content Type">

@@ -5,7 +5,7 @@
 <!ENTITY inspectPageTaskCmd.label "Inspecionar página">
 <!ENTITY inspectPageTaskCmd.accesskey "I">
 
-<!ENTITY addonsManagerCmd.label "Gerenciador de extensões">
+<!ENTITY addonsManagerCmd.label "Gerenciador de complementos">
 <!ENTITY addonsManagerCmd.accesskey "e">
 <!ENTITY downloadManagerCmd.label "Gerenciador de downloads">
 <!ENTITY downloadManagerCmd.accesskey "d">

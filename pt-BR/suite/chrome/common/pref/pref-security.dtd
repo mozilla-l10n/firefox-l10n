@@ -15,20 +15,21 @@
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.
   The same accesskey is used for both labels.
---><!ENTITY alwaysClear.accesskey            "w">
+-->
+<!ENTITY alwaysClear.label                "Sempre limpar os dados pessoais ao fechar &brandShortName;">
+<!ENTITY alwaysClear.accesskey            "S">
 
-<!ENTITY alwaysClear.label                "Always clear my private data when I close &brandShortName;">
-<!ENTITY askBeforeClear.accesskey         "A">
+<!ENTITY askBeforeClear.label             "Perguntar antes de limpar os dados pessoais">
+<!ENTITY askBeforeClear.accesskey         "P">
 
-<!ENTITY askBeforeClear.label             "Ask me before clearing private data">
-<!ENTITY clearDataDialog.accesskey        "N">
+<!ENTITY clearDataDialog.label            "Limpar Agora…">
+<!ENTITY clearDataDialog.accesskey        "L">
 
-<!ENTITY clearDataDialog.label            "Clear Now…">
 
-<!ENTITY clearDataSettings.label          "When I ask &brandShortName; to clear my private data, it should erase:">
-<!ENTITY clearDataSilent.label            "Clear Now">
+<!ENTITY clearDataSettings.label          "Sempre que solicitar que o &brandShortName; limpe meus dados pessoais, ele deve apagar:">
+<!ENTITY clearDataSilent.label            "Limpar Agora">
 
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
-<!ENTITY pref.security.title              "Privacy &amp; Security">
-<!ENTITY privateData.label                "Private Data">
+<!ENTITY pref.security.title              "Privacidade &amp; segurança">
+<!ENTITY privateData.label                "Dados pessoais">

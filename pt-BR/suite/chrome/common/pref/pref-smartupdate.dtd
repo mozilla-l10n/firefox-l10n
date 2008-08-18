@@ -18,17 +18,17 @@
 <!ENTITY weekly.accesskey "s">
 <!ENTITY monthly.label "Todo mês">
 <!ENTITY monthly.accesskey "m">
-<!ENTITY addonManagerButton.accesskey         "M">
-<!ENTITY addonManagerButton.label             "Add-on Manager">
+<!ENTITY addonManagerButton.label             "Gerenciador de complementos">
+<!ENTITY addonManagerButton.accesskey         "G">
 <!ENTITY appDaily.accesskey                   "d">
 <!ENTITY appUpdates.accesskey                 "S">
 <!ENTITY appUpdates.label                     "&brandShortName;">
 <!ENTITY appWeekly.accesskey                  "w">
-<!ENTITY autoUpdates.label                    "Automatically check for updates to:">
-<!ENTITY daily.label                          "daily">
-<!ENTITY extensionsDaily.accesskey            "i">
+<!ENTITY autoUpdates.label                    "Checar automaticamente por atualizações:">
+<!ENTITY daily.label                          "Todo dia">
+<!ENTITY extensionsDaily.accesskey            "d">
 <!ENTITY extensionsUpdates.accesskey          "n">
-<!ENTITY extensionsUpdates.label              "Installed Add-ons">
-<!ENTITY extensionsWeekly.accesskey           "k">
+<!ENTITY extensionsUpdates.label              "Complementos instalados">
+<!ENTITY extensionsWeekly.accesskey           "s">
 
-<!ENTITY verifyUpdates.caption                "Updates">
+<!ENTITY verifyUpdates.caption                "Atualizações">
