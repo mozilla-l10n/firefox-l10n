@@ -274,7 +274,7 @@
 <!ENTITY previousFlaggedMsgCmd.accesskey "z">
 <!ENTITY backCmd.label ".Voltar">
 <!ENTITY backCmd.accesskey "V">
-<!ENTITY forwardCmd.label ".Encaminhar">
+<!ENTITY forwardCmd.label "Encaminhar">
 <!ENTITY forwardCmd.accesskey "R">
 <!ENTITY startPageCmd.label "Página inicial">
 <!ENTITY startPageCmd.accesskey "C">
@@ -502,38 +502,38 @@
 <!ENTITY removePhishingBarButton.label "Não é um golpe">
 <!ENTITY SearchSubjectOrFrom.accesskey "S">
 
-<!---SearchBar-->
+<!-- SearchBar -->
 <!-- also used by addressbook -->
-<!ENTITY SearchSubjectOrFrom.label "Subject or From contains:">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
-<!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
-<!ENTITY contextReplySenderAndNewsgroup.label "Reply to Sender and Newsgroup">
-<!ENTITY customizeToolbar.accesskey             "C">
-<!ENTITY customizeToolbar.label                 "Customize…">
-<!ENTITY folderContextEmptyJunk.accesskey "J">
-<!ENTITY folderContextEmptyJunk.label "Empty Junk">
-<!ENTITY goBackButton.label "Go Back">
-<!ENTITY goBackButton.tooltip "Go back one message">
+<!ENTITY SearchSubjectOrFrom.label "Assunto ou remetente contém:">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Mais novas">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "M">
+<!ENTITY contextReplySenderAndNewsgroup.label "Responder ao remetente e ao Newsgroup">
+<!ENTITY contextReplySenderAndNewsgroup.accesskey "R">
+<!ENTITY customizeToolbar.label                 "Personalizar…">
+<!ENTITY customizeToolbar.accesskey             "P">
+<!ENTITY folderContextEmptyJunk.label "Esvaziar pasta de spam">
+<!ENTITY folderContextEmptyJunk.accesskey "E">
+<!ENTITY goBackButton.label "Voltar">
+<!ENTITY goBackButton.tooltip "Voltar uma mensagem">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goBackCmd.label "Back">
-<!ENTITY goForwardButton.label "Go Forward">
-<!ENTITY goForwardButton.tooltip "Go forward one message">
+<!ENTITY goBackCmd.label "Voltar">
+<!ENTITY goForwardButton.label "Avançar">
+<!ENTITY goForwardButton.tooltip "Avançar uma mensagem">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goForwardCmd.label "Forward">
-<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY goForwardCmd.label "Avançar">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignore Subthread">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY moveCopyMsgRecentMenu.label "Recent">
+<!ENTITY killSubthreadMenu.accesskey "I">
+<!ENTITY killSubthreadMenu.label "Ignorar sub-tópico">
+<!ENTITY moveCopyMsgRecentMenu.label "Mais novas">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY replyAllButtonNews.tooltip "Reply to sender and newsgroup">
+<!ENTITY replyToAllRecipientsCmd.label "Responder para todos">
+<!ENTITY replyAllButtonNews.tooltip "Responder ao remetente e ao newsgroup">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
-<!ENTITY replyToAllRecipientsCmd.label "Reply to All Recipients">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Responder ao remetente e ao newsgroup">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
-<!ENTITY replyToSenderAndNewsgroupCmd.label "Reply to Sender and Newsgroup">
-<!ENTITY sortByFromCmd.accesskey "F">
-<!ENTITY sortByFromCmd.label "From">
-<!ENTITY sortByReceivedCmd.accesskey "v">
-<!ENTITY sortByReceivedCmd.label "Received">
+<!ENTITY sortByFromCmd.label "De">
+<!ENTITY sortByFromCmd.accesskey "D">
+<!ENTITY sortByReceivedCmd.label "Recebido">
+<!ENTITY sortByReceivedCmd.accesskey "b">
