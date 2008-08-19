@@ -44,7 +44,6 @@
 <!ENTITY username.label "Nome de login">
 <!ENTITY popServerTitle.label "Informações do servidor POP">
 <!ENTITY deleteMessagePrefix.label "Ao excluir uma mensagem:">
-<!ENTITY deleteMessagePrefix.accesskey "X">
 <!ENTITY modelMoveToTrash.label "Mover para a lixeira">
 <!ENTITY modelMarkDeleted.label "Marcar como excluída">
 <!ENTITY modelDeleteImmediately.label "Excluir imediatamente">
@@ -62,7 +61,6 @@
 <!ENTITY newsrcFilePath.label "Arquivo newsrc:">
 <!ENTITY newsrcFilePath.accesskey "w">
 <!ENTITY localPath.label "Pasta local:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY abbreviate.label "Exibir nomes de newsgroups na área de pastas como:">
 <!ENTITY abbreviateOn.label 'Nome completo (por exemplo, "netscape.public.mozilla.mail-news")'>
 <!ENTITY abbreviateOff.label 'Nomes abreviados (por exemplo, "n.p.m.mail-news")'>
@@ -75,13 +73,7 @@
 <!ENTITY newsrcPicker.label "Selecionar arquivo newsrc">
 <!ENTITY browseNewsrc.label "Selecionar...">
 <!ENTITY browseNewsrc.accesskey "s">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
-        For example, in Japanese cases:
-                biffStart.label "every"
-                biffEnd.label   "minutes for new messages Check"
---><!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
-    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
---><!ENTITY modelDeleteImmediately.accesskey "d">
-<!ENTITY modelMarkDeleted.accesskey "k">
-<!ENTITY modelMoveToTrash.accesskey "o">
+
+<!ENTITY modelDeleteImmediately.accesskey "E">
+<!ENTITY modelMarkDeleted.accesskey "M">
+<!ENTITY modelMoveToTrash.accesskey "x">

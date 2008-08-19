@@ -7,17 +7,15 @@
 <!ENTITY manualMarkModeMove.accesskey "M">
 <!ENTITY manualMarkModeDelete.label "Excluí-la">
 <!ENTITY manualMarkModeDelete.accesskey "x">
-<!ENTITY markAsReadOnSpam.label "Marcar os spams como lidos">
-<!ENTITY markAsReadOnSpam.accesskey "r">
 <!ENTITY enableJunkLogging.label "Ativar o log do filtro anti-spam">
 <!ENTITY enableJunkLogging.accesskey "l">
 <!ENTITY openJunkLog.label "Exibir log">
 <!ENTITY openJunkLog.accesskey "b">
 <!ENTITY resetTrainingData.label "Excluir o treinamento">
 <!ENTITY resetTrainingData.accesskey "t">
-<!ENTITY autoMarkAsRead.accesskey       "u">
-<!ENTITY autoMarkAsRead.label           "When &brandShortName; determines that they are junk">
-<!ENTITY manualMarkAsRead.accesskey     "k">
-<!ENTITY manualMarkAsRead.label         "When I manually mark them as junk">
+<!ENTITY autoMarkAsRead.label           "Quando o &brandShortName; determina que elas são spam">
+<!ENTITY autoMarkAsRead.accesskey       "d">
+<!ENTITY manualMarkAsRead.label         "Quando eu, manualmente, marcá-las como spam">
+<!ENTITY manualMarkAsRead.accesskey     "m">
 
-<!ENTITY markAsRead.intro               "Mark messages as read:">
+<!ENTITY markAsRead.intro               "Marcar mensagens como lidas:">

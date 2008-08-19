@@ -25,11 +25,10 @@
 <!ENTITY nntpRemoveBody.accesskey "C">
 <!ENTITY offlineSelectNntp.label "Newsgroups para leitura em modo desconectado...">
 <!ENTITY offlineSelectImap.label "Pastas para leitura em modo desconectado...">
-<!ENTITY offlineSelect.accesskey "O">
 <!ENTITY offlineDesc.label "Você pode receber mensagens localmente para lê-las quando estiver em modo desconectado.">
 <!ENTITY makeInboxMsgsAvailable.label "Disponibilizar as mensagens na pasta Entrada ao desconectar">
 <!ENTITY makeInboxMsgsAvailable.accesskey "a">
 <!ENTITY offlineGroupTitle.label "Modo desconectado">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
-<!ENTITY offlineSelectImap.accesskey "S">
-<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineSelectImap.accesskey "w">
+<!ENTITY offlineSelectNntp.accesskey "P">

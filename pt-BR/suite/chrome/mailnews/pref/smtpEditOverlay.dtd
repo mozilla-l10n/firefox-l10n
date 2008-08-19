@@ -13,19 +13,13 @@
 <!ENTITY isSecure.label "Usar conexão segura:">
 <!ENTITY neverSecure.label "Não">
 <!ENTITY neverSecure.accesskey "O">
-<!ENTITY sometimesSecure.label "TLS, se disponível">
-<!ENTITY sometimesSecure.accesskey "e">
-<!ENTITY alwaysSecure.label "Sempre">
-<!ENTITY alwaysSecure.accesskey "R">
-<!ENTITY alwaysSmtpS.label "SSL">
-<!ENTITY alwaysSmtpS.accesskey "L">
 <!ENTITY smtpEditTitle.label "Servidor SMTP">
 <!ENTITY serverPortDefault.label "Padrão:">
+<!ENTITY alwaysSMTPOverSSL.label "SMTP-sobre-SSL">
 <!ENTITY alwaysSMTPOverSSL.accesskey "L">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
 <!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY sometimesSTARTTLS.accesskey "a">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, if available">
-<!ENTITY useSecAuth.accesskey "i">
-<!ENTITY useSecAuth.label "Use secure authentication">
+<!ENTITY alwaysSTARTTLS.accesskey "T">
+<!ENTITY sometimesSTARTTLS.label "STARTTLS, se disponível">
+<!ENTITY sometimesSTARTTLS.accesskey "e">
+<!ENTITY useSecAuth.label "Usar autenticação segura">
+<!ENTITY useSecAuth.accesskey "s">

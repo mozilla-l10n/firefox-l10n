@@ -12,6 +12,6 @@
 <!ENTITY whitelist.accesskey "m">
 <!ENTITY ispHeaders.label "Confiar em cabeçalhos de spam definidos por: ">
 <!ENTITY ispHeaders.accesskey "C">
-<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY junkFolderOn.accesskey "P">
 <!ENTITY move.accesskey "M">
 <!ENTITY otherFolder.accesskey "O">

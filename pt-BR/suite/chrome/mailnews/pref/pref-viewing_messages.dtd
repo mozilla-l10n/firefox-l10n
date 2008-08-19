@@ -25,9 +25,6 @@
 <!ENTITY convertEmoticons.label "Representar smilies com imagens">
 <!ENTITY convertEmoticons.accesskey "R">
 <!ENTITY generalMessageDisplay.caption "Geral">
-<!ENTITY markMessagesRead.label "Marcar mensagem como lida após exibir por">
-<!ENTITY markMessagesRead.accesskey "X">
-<!ENTITY seconds.label "segundos">
 <!ENTITY openingMessages.label "Ao abrir mensagens, exibi-las em:">
 <!ENTITY newWindowRadio.label "Nova janela">
 <!ENTITY newWindowRadio.accesskey "n">
@@ -35,15 +32,11 @@
 <!ENTITY existingWindowRadio.accesskey "e">
 <!ENTITY disableContent.label "Bloquear o carregamento de imagens e conteúdo externo">
 <!ENTITY disableContent.accesskey "m">
-<!ENTITY useWhiteList.label "Permitir se o remetente estiver neste catálogo de endereços:">
-<!ENTITY useWhiteList.accesskey "a">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). --><!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.label             "Marcar mensagens como lidas automaticamente">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadDelay.label            "Após exibir por">
 <!ENTITY markAsReadDelay.accesskey        "e">
 
-<!ENTITY markAsReadDelay.label            "After displaying for">
-<!ENTITY markAsReadNoDelay.accesskey      "d">
-<!ENTITY markAsReadNoDelay.label          "Immediately on display">
-<!ENTITY secondsLabel.label               "seconds">
+<!ENTITY markAsReadNoDelay.label          "Imediatamente ao exibir">
+<!ENTITY markAsReadNoDelay.accesskey      "I">
+<!ENTITY secondsLabel.label               "segundos">
