@@ -387,8 +387,12 @@
 <!ENTITY searchAddressesCmd.accesskey "а">
 <!ENTITY filtersCmd.label "Фильтры сообщений…">
 <!ENTITY filtersCmd.accesskey "Ф">
-<!ENTITY filtersApply.label "Запустить в папке фильтры">
-<!ENTITY filtersApply.accesskey "ф">
+<!ENTITY filtersApply.label "Применить фильтры к папке">
+<!ENTITY filtersApply.accesskey "п">
+<!ENTITY filtersApplyToSelection.label "Применить фильтры к выделенным сообщениям">
+<!ENTITY filtersApplyToSelection.accesskey "б">
+<!ENTITY filtersApplyToMessage.label "Применить фильтры к сообщению">
+<!ENTITY filtersApplyToMessage.accesskey "б">
 <!ENTITY runJunkControls.label "Запустить в папке анти-спам фильтры">
 <!ENTITY runJunkControls.accesskey "а">
 <!ENTITY deleteJunk.label "Удалить сообщения помеченные как спам">
