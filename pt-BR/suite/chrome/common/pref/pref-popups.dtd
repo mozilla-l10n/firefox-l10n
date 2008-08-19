@@ -1,27 +1,18 @@
-<!ENTITY pref.popups.title              "Popup Windows">
-
-<!ENTITY pref.popups.caption            "Popup Windows">
-
-<!ENTITY popupDesc.label                "Specify how to handle popup windows that appear on top of or under the current browser window:">
-
-<!ENTITY popupBlock.label               "Block unrequested popup windows">
-<!ENTITY popupBlock.accesskey           "B">
-
-<!ENTITY popupExceptions.label          "Allowed Sites...">
-<!ENTITY popupExceptions.accesskey      "A">
-
-<!ENTITY whenBlock.description          "When a popup window has been blocked:">
-<!ENTITY playSound.label                "Play a sound:">
-<!ENTITY playSound.accesskey            "s">
-
-<!ENTITY selectSound.label              "Browse...">
-<!ENTITY selectSound.accesskey          "r">
-<!ENTITY previewSound.label             "Preview">
-<!ENTITY previewSound.accesskey         "P">
-<!ENTITY selectSound.title              "Select Popup Block Sound">
-
-<!ENTITY displayIcon.label              "Display an icon in the browser status bar">
-<!ENTITY displayIcon.accesskey          "D">
-
-<!ENTITY popupNote.description          "Note: Blocking all popups may prevent important features of some websites from working, such as login windows for banks and shopping sites. For details of how to allow specific sites to use popups while blocking all others, click Help. Even if blocked, sites may use other methods to show popups.">
-
+<!ENTITY pref.popups.title "Janelas popup">
+<!ENTITY pref.popups.caption "Janelas popup">
+<!ENTITY popupDesc.label "Especifica como lidar com janelas popup abertas sobre ou sob a janela atual.">
+<!ENTITY popupBlock.label "Bloquear janelas popup">
+<!ENTITY popupBlock.accesskey "B">
+<!ENTITY popupExceptions.label "Sites desbloqueados...">
+<!ENTITY popupExceptions.accesskey "D">
+<!ENTITY whenBlock.description "Quando um popup for bloqueado:">
+<!ENTITY playSound.label "Tocar este som:">
+<!ENTITY playSound.accesskey "s">
+<!ENTITY selectSound.label "Selecionar...">
+<!ENTITY selectSound.accesskey "s">
+<!ENTITY previewSound.label "Testar">
+<!ENTITY previewSound.accesskey "t">
+<!ENTITY selectSound.title "Selecionar som de bloqueio de popups">
+<!ENTITY displayIcon.label "Exibir um ícone na barra de status">
+<!ENTITY displayIcon.accesskey "x">
+<!ENTITY popupNote.description 'NOTA: O bloqueio total de popups pode impedir o carregamento de algumas páginas - como janelas de login. Para desbloquear sites rapidamente, use o menu "Ferramentas" - "Popups". Mesmo se bloqueados, sites podem usar outros métodos para abrir janelas.'>

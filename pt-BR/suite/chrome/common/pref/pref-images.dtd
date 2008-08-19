@@ -1,26 +1,26 @@
-<!ENTITY pref.images.title              "Images">
-
-<!ENTITY imageBlocking.label            "Image Acceptance Policy">
+<!ENTITY pref.images.title "Imagens">
+<!ENTITY imageBlocking.label "Carregamento">
+<!ENTITY imageDetails "Determine como o &brandShortName; manipula imagens.">
+<!ENTITY accAllImagesRadio.label "Carregar todas as imagens">
+<!ENTITY accAllImagesRadio.accesskey "C">
+<!ENTITY accOrgImagesRadio.label "Carregar imagens localizadas no site visitado">
+<!ENTITY accOrgImagesRadio.accesskey "v">
+<!ENTITY disableImages.label "Não carregar nenhuma imagem">
+<!ENTITY disableImages.accesskey "n">
+<!ENTITY warnAboutImages.label "Perguntar antes de carregar uma imagem">
+<!ENTITY warnAboutImages.accesskey "a">
+<!ENTITY viewImagesExplanation.label "Exibir lista de sites sobre quais informações sobre a aceitação de imagens é aceita">
+<!ENTITY viewImages.label "Permissões...">
+<!ENTITY viewImages.accesskey "S">
+<!ENTITY animLoopingTitle.label "Limitar a repetição de imagens animadas">
+<!ENTITY animLoopAsSpecified.label "Determinado pela imagem">
+<!ENTITY animLoopAsSpecified.accesskey "d">
+<!ENTITY animLoopOnce.label "Repetir uma vez">
+<!ENTITY animLoopOnce.accesskey "R">
+<!ENTITY animLoopNever.label "Nunca repetir">
+<!ENTITY animLoopNever.accesskey "u">
 
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear
 -->
-<!ENTITY imageDetails                   "Specify how &brandShortName; handles images.">
-
-<!ENTITY accAllImagesRadio.label        "Accept all images">
-<!ENTITY accAllImagesRadio.accesskey    "A">
-<!ENTITY accOrgImagesRadio.label        "Accept images that come from the originating server only">
-<!ENTITY accOrgImagesRadio.accesskey    "r">
-<!ENTITY disableImages.label            "Do not load any images">
-<!ENTITY disableImages.accesskey        "n">
-<!ENTITY viewImagesExplanation.label    "View list of sites about which image acceptance information is stored">
-<!ENTITY viewImages.label               "Manage Image Permissions">
-<!ENTITY viewImages.accesskey           "P">
-<!ENTITY animLoopingTitle.label         "Animated images should loop">
-<!ENTITY animLoopAsSpecified.label      "As many times as the image specifies">
-<!ENTITY animLoopAsSpecified.accesskey  "m">
-<!ENTITY animLoopOnce.label             "Once">
-<!ENTITY animLoopOnce.accesskey         "O">
-<!ENTITY animLoopNever.label            "Never">
-<!ENTITY animLoopNever.accesskey        "v">

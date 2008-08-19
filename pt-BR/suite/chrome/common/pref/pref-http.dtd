@@ -1,19 +1,17 @@
-<!ENTITY pref.http.title                     "HTTP Networking">
-
-<!-- Network-->
-<!ENTITY prefDirect.label                    "Direct Connection Options">
-<!ENTITY prefProxy.label                     "Proxy Connection Options">
-<!ENTITY prefEnableHTTP10.label              "Use HTTP 1.0">
-<!ENTITY prefEnableHTTP10.accesskey          "U">
-<!ENTITY prefEnableHTTP10Proxy.accesskey     "S">
-<!ENTITY prefEnableHTTP11.label              "Use HTTP 1.1">
-<!ENTITY prefEnableHTTP11.accesskey          "E">
-<!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnableKeepAlive.label           "Enable Keep-Alive">
-<!ENTITY prefEnableKeepAlive.accesskey       "K">
-<!ENTITY prefEnableKeepAliveProxy.accesskey  "A">
-<!ENTITY prefEnablePipelining.label          "Enable Pipelining">
-<!ENTITY prefEnablePipelining.accesskey      "P">
-<!ENTITY prefEnablePipeliningProxy.accesskey "N">
-<!ENTITY prefPara                            "HTTP connections may be fine-tuned using these options to enhance either performance or compatibility. Some proxy servers, for example, are known to require HTTP/1.0 (see the release notes for details).">
-<!ENTITY prefPipeWarning                     "WARNING: pipelining is an experimental feature, designed to improve page-load performance, that is unfortunately not well supported by some web servers and proxies.">
+<!ENTITY pref.http.title "HTTP">
+<!ENTITY prefDirect.label "Conexão direta">
+<!ENTITY prefProxy.label "Conexão com proxy">
+<!ENTITY prefEnableHTTP10.label "Usar HTTP 1.0">
+<!ENTITY prefEnableHTTP10.accesskey "H">
+<!ENTITY prefEnableHTTP10Proxy.accesskey "U">
+<!ENTITY prefEnableHTTP11.label "Usar HTTP 1.1">
+<!ENTITY prefEnableHTTP11.accesskey "T">
+<!ENTITY prefEnableHTTP11Proxy.accesskey "s">
+<!ENTITY prefEnableKeepAlive.label "Usar Keep-Alive">
+<!ENTITY prefEnableKeepAlive.accesskey "K">
+<!ENTITY prefEnableKeepAliveProxy.accesskey "e">
+<!ENTITY prefEnablePipelining.label "Ativar Pipelining">
+<!ENTITY prefEnablePipelining.accesskey "P">
+<!ENTITY prefEnablePipeliningProxy.accesskey "n">
+<!ENTITY prefPara "Estas opções permitem aumentar o desempenho e a compatibilidade das conexões HTTP . Alguns servidores, por exemplo, são conhecidos por exigirem HTTP 1.0 (veja os detalhes em release notes)">
+<!ENTITY prefPipeWarning "NOTA: Pipelining ainda é experimental e pode diminuir o tempo de carregamento das páginas. Não é totalmente suportado por alguns servidores web e proxies.">

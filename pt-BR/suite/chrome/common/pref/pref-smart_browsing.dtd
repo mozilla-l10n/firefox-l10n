@@ -1,30 +1,21 @@
-<!-- extracted from content/pref-smart_browsing.xul -->
-
-<!--LOCALIZATION NOTE : FILE The SmartBrowsing prefs dialog -->
-<!ENTITY pref.smartBrowsing.title              "Smart Browsing">
-
-<!--LOCALIZATION NOTE (internetKeywordsHeader.label): DONT_TRANSLATE -->
-<!ENTITY internetKeywordsHeader.label          "Internet Keywords">
-<!ENTITY internetKeywordsDescription.label     "Internet Keywords enable fast access to services such as stock quotes, search and other information from the Location bar.">
-<!ENTITY moreInformation.label                 "More Information...">
-<!ENTITY moreInformation.accesskey             "M">
-<!--LOCALIZATION NOTE (enableKeyCheck.label): Do not translate 'Internet Keywords' -->
-<!ENTITY keywordsEnabled.label                 "Enable Internet Keywords">
-<!ENTITY keywordsEnabled.accesskey             "K">
-
-<!ENTITY autoCompleteHeader.label              "Location Bar Autocomplete">
-<!ENTITY autoCompleteEnabled.label             "Automatically complete text typed into the Location bar">
-<!ENTITY autoCompleteEnabled.accesskey         "L">
-
-<!ENTITY autoCompleteAdvanced.label            "Advanced...">
-<!ENTITY autoCompleteAdvanced.accesskey        "A">
-<!ENTITY autoCompleteAdvanced.title            "Autocomplete Preferences">
-<!ENTITY autoCompleteAutoFill.label            "Autocomplete best match as you type">
-<!ENTITY autoCompleteShowPopup.label           "Show list of matching results">
-<!ENTITY autoCompleteShowSearch.label          "Show internet search engine">
-<!ENTITY autoCompleteMatchOnlyTyped.label      "Match only websites you've typed previously">
-<!ENTITY autocompletePreview.label             "Preview">
-
-<!ENTITY domainGuessingHeader.label            "Domain Guessing">
-<!ENTITY domainGuessingEnabled.label           "Automatically add &quot;www.&quot; and &quot;.com&quot; to the location if a web page isn't found">
-<!ENTITY domainGuessingEnabled.accesskey       "u">
+<!ENTITY pref.smartBrowsing.title "Navegação Inteligente">
+<!ENTITY internetKeywordsHeader.label "Internet Keywords">
+<!ENTITY internetKeywordsDescription.label "Internet Keywords fornecem acesso rápido a serviços como preços de ações, pesquisas e outras informações a partir da barra de endereços.">
+<!ENTITY moreInformation.label "Mais informações...">
+<!ENTITY moreInformation.accesskey "M">
+<!ENTITY keywordsEnabled.label "Usar Internet Keywords">
+<!ENTITY keywordsEnabled.accesskey "k">
+<!ENTITY autoCompleteHeader.label "Barra de endereços">
+<!ENTITY autoCompleteEnabled.label "Autocompletar texto digitado na barra de endereços">
+<!ENTITY autoCompleteEnabled.accesskey "c">
+<!ENTITY autoCompleteAdvanced.label "Avançado...">
+<!ENTITY autoCompleteAdvanced.accesskey "O">
+<!ENTITY autoCompleteAdvanced.title "Autocompletar">
+<!ENTITY autoCompleteAutoFill.label "Completar com o endereço mais provável">
+<!ENTITY autoCompleteShowPopup.label "Listar os endereços mais prováveis">
+<!ENTITY autoCompleteShowSearch.label 'Exibir a opção "Pesquisar na web"'>
+<!ENTITY autoCompleteMatchOnlyTyped.label "Considerar apenas os endereços digitados anteriormente">
+<!ENTITY autocompletePreview.label "Visualizar">
+<!ENTITY domainGuessingHeader.label "Domínios">
+<!ENTITY domainGuessingEnabled.label "Se a página não for localizada, adicionar &quot;www.&quot; e &quot;.com&quot; ao endereço">
+<!ENTITY domainGuessingEnabled.accesskey "a">

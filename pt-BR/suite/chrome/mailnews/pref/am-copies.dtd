@@ -1,35 +1,29 @@
-<!-- extracted from am-copies.xul -->
-
-<!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
-<!ENTITY sendingPrefix.label "When sending messages, automatically: ">
-<!ENTITY fccMailFolder.label "Place a copy in:">
-<!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
-<!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Choose Folder...">
-<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc these email addresses:">
+<!ENTITY copyAndFolderTitle.label "Cópias e pastas">
+<!ENTITY sendingPrefix.label "Ao enviar mensagens, automaticamente: ">
+<!ENTITY fccMailFolder.label "Guardar uma cópia em:">
+<!ENTITY fccMailFolder.accesskey "G">
+<!ENTITY fccReplyFollowsParent.label "Guardar respostas na pasta da mensagem respondida">
+<!ENTITY fccReplyFollowsParent.accesskey "r">
+<!ENTITY chooseFolderButton.label "Selecionar pasta...">
+<!ENTITY bccAddress.label "BCC para estes endereços:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Special Folders">
-<!ENTITY draftMailFolder.label "Keep message drafts in:">
-<!ENTITY templateMailFolder.label "Keep message templates in:">
-<!ENTITY saveMessageDlg.label "Show confirmation dialog when messages are saved">
-<!ENTITY saveMessageDlg.accesskey "S">
-<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "&quot;Sent&quot; Folder on:">
+<!ENTITY specialFolderTitle.label "Pastas especiais">
+<!ENTITY draftMailFolder.label "Salvar rascunhos em:">
+<!ENTITY templateMailFolder.label "Salvar modelos em:">
+<!ENTITY saveMessageDlg.label "Notificar ao salvar mensagens">
+<!ENTITY saveMessageDlg.accesskey "N">
+<!ENTITY sentFolderOn.label "Pasta &quot;Enviados&quot; da conta:">
 <!ENTITY sentFolderOn.accesskey "e">
-<!ENTITY sentInOtherFolder.label "Other:">
+<!ENTITY sentInOtherFolder.label "Outra pasta:">
 <!ENTITY sentInOtherFolder.accesskey "O">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "&quot;Drafts&quot; Folder on:">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "Other:">
-<!ENTITY draftInOtherFolder.accesskey "t">
-<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Templates&quot; Folder on:">
+<!ENTITY draftsFolderOn.label "Pasta &quot;Rascunhos&quot; da conta:">
+<!ENTITY draftsFolderOn.accesskey "R">
+<!ENTITY draftInOtherFolder.label "Outra pasta:">
+<!ENTITY draftInOtherFolder.accesskey "u">
+<!ENTITY templatesFolderOn.label "Pasta &quot;Modelos&quot; da conta:">
 <!ENTITY templatesFolderOn.accesskey "m">
-<!ENTITY templateInOtherFolder.label "Other:">
-<!ENTITY templateInOtherFolder.accesskey "r">
-<!ENTITY specialFoldersTitle.label "Drafts and Templates">
-<!ENTITY keepDrafts.label "Keep message drafts in:">
-<!ENTITY keepTempltes.label "Keep message templates in:">
+<!ENTITY templateInOtherFolder.label "Outra pasta:">
+<!ENTITY templateInOtherFolder.accesskey "t">
+<!ENTITY specialFoldersTitle.label "Salvar mensagens">
+<!ENTITY keepDrafts.label "Salvar rascunhos em:">
+<!ENTITY keepTempltes.label "Salvar modelos em:">

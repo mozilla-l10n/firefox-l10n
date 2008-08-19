@@ -1,15 +1,12 @@
-<!ENTITY  pref.history.title                "History">
-
-<!ENTITY  pref.history.caption              "Browsing History">
-<!ENTITY  historyPages.label                "History is a list of previously visited pages.">
-<!ENTITY  pageHis.label                     "Remember visited pages for the last">
-<!ENTITY  pageHis.accesskey                 "a">
-<!ENTITY  days.label                        "days">
-<!ENTITY  clearHistory.label                "Clear History">
-<!ENTITY  clearHistory.accesskey            "r">
-
-<!ENTITY  locationBarHistory.caption        "Location Bar History">
-<!ENTITY  clearLocationBar.label            "Clear the list of sites stored in the location bar menu.">
-<!ENTITY  clearLocationBarButton.label      "Clear Location Bar">
-<!ENTITY  clearLocationBarButton.accesskey  "b">
-  
+<!ENTITY pref.history.title "Histórico">
+<!ENTITY pref.history.caption "Histórico de navegação">
+<!ENTITY historyPages.label "É a lista das páginas visitadas.">
+<!ENTITY pageHis.label "Memorizar as páginas visitadas nos últimos">
+<!ENTITY pageHis.accesskey "v">
+<!ENTITY days.label "dias">
+<!ENTITY clearHistory.label "Limpar">
+<!ENTITY clearHistory.accesskey "l">
+<!ENTITY locationBarHistory.caption "Histórico da barra de endereços">
+<!ENTITY clearLocationBar.label "Limpar a lista de sites armazenada na barra de endereços.">
+<!ENTITY clearLocationBarButton.label "Limpar">
+<!ENTITY clearLocationBarButton.accesskey "r">

@@ -1,22 +1,18 @@
-
-<!ENTITY  findABookmark.label               "Find a Bookmark...">
-<!ENTITY  findABookmark.accesskey           "f">
-<!ENTITY  newBookmark.label                 "New Bookmark...">
-<!ENTITY  newBookmark.accesskey             "n">
-<!ENTITY  newFolder.label                   "New Folder...">
-<!ENTITY  newFolder.accesskey               "e">
-<!ENTITY  newSeparator.label                "New Separator">
-<!ENTITY  newSeparator.accesskey            "s">
-<!ENTITY  setAsNewBookmarkFolder.label      "Set as new Bookmark folder">
-<!ENTITY  setAsNewBookmarkFolder.accesskey  "b">
-<!ENTITY  setAsNewSearchFolder.label        "Set as new Search Results folder">
-<!ENTITY  setAsNewSearchFolder.accesskey    "r">
-<!ENTITY  setAsNewToolbarFolder.label       "Set as new Personal Toolbar folder">
-<!ENTITY  setAsNewToolbarFolder.accesskey   "p">
-<!ENTITY  exportBookmarks.label             "Export...">
-<!ENTITY  exportBookmarks.accesskey         "x">
-<!ENTITY  importBookmarks.label             "Import...">
-<!ENTITY  importBookmarks.accesskey         "i">
-
-
-
+<!ENTITY findABookmark.label "Localizar um marcador...">
+<!ENTITY findABookmark.accesskey "z">
+<!ENTITY newBookmark.label "Novo marcador...">
+<!ENTITY newBookmark.accesskey "n">
+<!ENTITY newFolder.label "Nova pasta...">
+<!ENTITY newFolder.accesskey "n">
+<!ENTITY newSeparator.label "Novo separador">
+<!ENTITY newSeparator.accesskey "s">
+<!ENTITY setAsNewBookmarkFolder.label "Definir como pasta para novos marcadores">
+<!ENTITY setAsNewBookmarkFolder.accesskey "p">
+<!ENTITY setAsNewSearchFolder.label "Definir como pasta para pesquisas de marcadores">
+<!ENTITY setAsNewSearchFolder.accesskey "c">
+<!ENTITY setAsNewToolbarFolder.label "Exibir esta pasta na barra de marcadores">
+<!ENTITY setAsNewToolbarFolder.accesskey "x">
+<!ENTITY exportBookmarks.label "Exportar...">
+<!ENTITY exportBookmarks.accesskey "x">
+<!ENTITY importBookmarks.label "Importar...">
+<!ENTITY importBookmarks.accesskey "i">

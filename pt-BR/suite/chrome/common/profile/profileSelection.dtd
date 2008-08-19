@@ -1,52 +1,31 @@
-<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
-<!--
+﻿<!ENTITY windowtitle.label "Selecione um perfil">
+<!ENTITY welcome.label "Bem-vindo ao &brandShortName;">
+<!ENTITY profilemanager.label "Gerenciador de perfis do &brandShortName;">
+<!ENTITY profilename.label "Nome do perfil:">
+<!ENTITY password.label "Senha:">
+<!ENTITY start.label "Abrir o &brandShortName;">
+<!ENTITY exit.label "Sair">
+<!ENTITY manage.label "Organizar">
+<!ENTITY manage.accesskey "Z">
+<!ENTITY select.label "Usar perfil">
+<!ENTITY availprofiles.label "Perfis existentes">
+<!ENTITY deleteButton.label "Excluir...">
+<!ENTITY deleteButton.accesskey "X">
+<!ENTITY renameButton.label "Renomear...">
+<!ENTITY renameButton.accesskey "R">
+<!ENTITY newButton.label "Novo...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY pmTextA.label "O &brandShortName; armazena em um perfil as mensagens, opções e demais informações pessoais.">
+<!ENTITY pmTextC.label "Você deve selecionar um perfil ou criar um novo na primeira vez que usar o &brandShortName;.">
+<!ENTITY pmTextB.label "Indica um perfil criado por uma versão antiga do Netscape. Este perfis precisam ser copiados e convertidos antes de poderem ser usados pelo &brandShortName;. Este é um processo automático.">
+<!ENTITY offlineState.label "Offline">
+<!ENTITY offlineState.accesskey "f">
+<!ENTITY autoSelectLastProfile.label "Sempre usar este perfil">
+<!ENTITY autoSelectLastProfile.accesskey "s">
 
- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
-
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is mozilla.org code.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-   Ben Goodger (28/10/99)
-
- Alternatively, the contents of this file may be used under the terms of
- either of the GNU General Public License Version 2 or later (the "GPL"),
- or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY            windowTitle.label    "Select User Profile">
-<!ENTITY            profileManager.title "&brandShortName; Profile Manager">
-
-<!ENTITY            manage.label     "Manage Profiles...">
-<!ENTITY            manage.accesskey "M">
-<!ENTITY            select.label     "Use Profile">
-
-<!ENTITY            availableProfiles.label "Available Profiles">
-
-<!ENTITY            introStart.label         "To access your personal profile, which contains your stored messages, settings and other personalized information, please choose your profile from the list, and click &start.label; to begin your session.">
-<!ENTITY            introSwitch.label        "To switch to another profile, which contains stored messages, settings and other personalized information, please choose that profile from the list, and click &select.label; to begin using that profile.">
-<!ENTITY            profileManagerText.label "&brandShortName; stores information about your settings, preferences, bookmarks, stored messages and other user items in your user profile.">
+<!ENTITY availableProfiles.label "Perfis disponíveis">
+<!ENTITY introStart.label "Para acessar teu perfil, que contém tuas mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &start.label; para iniciar tua sessão.">
+<!ENTITY introSwitch.label "Para mudar para outro perfil, que contém mensagens armazenadas, configurações e outras informações personalizadas, escolha um perfil da lista e clique &start.label; para começar a usá-lo.">
+<!ENTITY profileManager.title "&brandShortName; Gerenciador de perfis">
+<!ENTITY profileManagerText.label "&brandShortName; armazena informação acerca de tuas configurações, preferências, marcadores, mensagens armazena e outros items de usuário no teu perfil.">
+<!ENTITY windowTitle.label "Selecionar perfil de usuário">

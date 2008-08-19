@@ -1,26 +1,25 @@
-<!ENTITY tabHeader.label "Tabbed Browsing">
-<!ENTITY tabDisplay.label "Tab Display">
-<!ENTITY autoHide.label "Hide the tab bar when only one tab is open">
+<!ENTITY tabHeader.label "Navegando com abas">
+<!ENTITY tabDisplay.label "Geral">
+<!ENTITY autoHide.label "Exibir a barra de abas apenas se houver mais de uma aba">
 <!ENTITY autoHide.accesskey "d">
-<!ENTITY background.label "Switch to new tabs opened from links">
+<!ENTITY background.label "Carregar links em primeiro plano">
 <!ENTITY background.accesskey "S">
-<!ENTITY loadGroup.label "When opening a bookmark group">
-<!ENTITY loadGroupAppend.label "Add tabs">
+<!ENTITY loadGroup.label "Ao abrir um grupo de marcadores">
+<!ENTITY loadGroupAppend.label "Adicionar abas">
 <!ENTITY loadGroupAppend.accesskey "A">
-<!ENTITY loadGroupReplace.label "Replace existing tabs">
-<!ENTITY loadGroupReplace.accesskey "R">
-<!ENTITY openTabs.label "Open tabs instead of windows for">
-
-<!ENTITY newWindow.label "Link open behavior">
-<!ENTITY newWindowDescription.label "Open links meant to open a new window in">
-<!ENTITY external.label "Links from other applications">
-<!ENTITY externalDescription.label "Open links passed from other applications in">
-<!ENTITY openCurrent.label "The current tab/window">
-<!ENTITY newWindowGroupCurrent.accesskey "c">
+<!ENTITY loadGroupReplace.label "Substituir as abas existentes">
+<!ENTITY loadGroupReplace.accesskey "S">
+<!ENTITY openTabs.label "Abrir em nova aba quando">
+<!ENTITY newWindow.label "Abrir links">
+<!ENTITY newWindowDescription.label "Forçar links que abrem janelas a abrir">
+<!ENTITY external.label "Links de outros programas">
+<!ENTITY externalDescription.label "Abrir links passados por outros programas">
+<!ENTITY openCurrent.label "Na aba/janela atual">
+<!ENTITY newWindowGroupCurrent.accesskey "a">
 <!ENTITY externalGroupCurrent.accesskey "u">
-<!ENTITY openTab.label "A new tab in the current window">
+<!ENTITY openTab.label "Em nova aba da janela atual">
 <!ENTITY newWindowGroupTab.accesskey "n">
 <!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "A new window">
-<!ENTITY newWindowGroupWindow.accesskey "w">
+<!ENTITY openWindow.label "Em nova janela">
+<!ENTITY newWindowGroupWindow.accesskey "j">
 <!ENTITY externalGroupWindow.accesskey "o">

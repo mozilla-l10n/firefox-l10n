@@ -1,16 +1,16 @@
-<!ENTITY tree.header.name.label               "Title">
-<!ENTITY tree.header.name.accesskey           "T">
-<!ENTITY tree.header.url.label                "Location">
-<!ENTITY tree.header.url.accesskey            "L">
-<!ENTITY tree.header.date.label               "Last Visited">
-<!ENTITY tree.header.date.accesskey           "V">
-<!ENTITY tree.header.firstvisitdate.label     "First Visited">
-<!ENTITY tree.header.firstvisitdate.accesskey "F">
-<!ENTITY tree.header.referrer.label           "Referrer">
-<!ENTITY tree.header.referrer.accesskey       "R">
-<!ENTITY tree.header.hostname.label           "Hostname">
-<!ENTITY tree.header.hostname.accesskey       "H">
-<!ENTITY tree.header.visitcount.label         "Visit Count">
-<!ENTITY tree.header.visitcount.accesskey     "C">
-<!ENTITY bookmarkLinksCmd.label               "Bookmark These Links">
-<!ENTITY bookmarkLinksCmd.accesskey           "L">
+<!ENTITY tree.header.name.label "Título">
+<!ENTITY tree.header.name.accesskey "T">
+<!ENTITY tree.header.url.label "Endereço">
+<!ENTITY tree.header.url.accesskey "E">
+<!ENTITY tree.header.date.label "Última visita">
+<!ENTITY tree.header.date.accesskey "V">
+<!ENTITY tree.header.firstvisitdate.label "Primeira visita">
+<!ENTITY tree.header.firstvisitdate.accesskey "P">
+<!ENTITY tree.header.referrer.label "Página de origem">
+<!ENTITY tree.header.referrer.accesskey "R">
+<!ENTITY tree.header.hostname.label "Servidor">
+<!ENTITY tree.header.hostname.accesskey "S">
+<!ENTITY tree.header.visitcount.label "Visitas">
+<!ENTITY tree.header.visitcount.accesskey "V">
+<!ENTITY bookmarkLinksCmd.label "Criar marcadores para estes links">
+<!ENTITY bookmarkLinksCmd.accesskey "M">

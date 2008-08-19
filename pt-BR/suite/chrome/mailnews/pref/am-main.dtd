@@ -1,35 +1,28 @@
-<!-- extracted from am-main.xul -->
-
-<!ENTITY accountTitle.label "Account Settings">
-<!ENTITY accountName.label "Account Name:">
-<!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "The account name is used to identify each account">
-<!ENTITY identityTitle.label "Default Identity">
-<!ENTITY identityDesc.label "Each account has an identity, which is the information that other people see when they read your messages.">
-<!ENTITY name.label "Your Name:">
-<!ENTITY name.accesskey "Y">
-<!ENTITY email.label "Email Address:">
+<!ENTITY accountTitle.label "Configurações da conta">
+<!ENTITY accountName.label "Nome da conta:">
+<!ENTITY accountName.accesskey "T">
+<!ENTITY accountNameDesc.label "O nome da conta é usado para identificá-la">
+<!ENTITY identityTitle.label "Identidade">
+<!ENTITY identityDesc.label "Cada conta tem sua própria identidade, que é a informação que identifica você aos destinatários das suas mensagens.">
+<!ENTITY name.label "Seu nome:">
+<!ENTITY name.accesskey "N">
+<!ENTITY email.label "Endereço de email:">
 <!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "Reply-to Address:">
-<!ENTITY replyTo.accesskey "s">
-<!ENTITY organization.label "Organization:">
-<!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Attach this signature:">
-<!ENTITY signature.accesskey "t">
-<!ENTITY edit.label "Edit...">
-<!ENTITY choose.label "Choose...">
-<!ENTITY choose.accesskey "C">
-<!ENTITY editVCard.label "Edit Card...">
-<!ENTITY editVCard.accesskey "d">
-<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Attach my vCard to messages">
-<!ENTITY attachVCard.accesskey "v">
-
-<!ENTITY manageIdentities.label "Manage Identities...">
-<!ENTITY manageIdentities.accesskey "M">
-
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Outgoing Server (SMTP):">
-<!ENTITY smtpName.accesskey "u">
-<!ENTITY smtpDefaultServer.label "Use Default Server">
-
+<!ENTITY replyTo.label "Reply-To (email p/ resposta):">
+<!ENTITY replyTo.accesskey "r">
+<!ENTITY organization.label "Empresa:">
+<!ENTITY organization.accesskey "M">
+<!ENTITY signature.label "Inserir arquivo com assinatura:">
+<!ENTITY signature.accesskey "i">
+<!ENTITY edit.label "Editar...">
+<!ENTITY choose.label "Arquivo...">
+<!ENTITY choose.accesskey "A">
+<!ENTITY editVCard.label "Editar vCard...">
+<!ENTITY editVCard.accesskey "v">
+<!ENTITY attachVCard.label "Anexar meu vCard a mensagens">
+<!ENTITY attachVCard.accesskey "a">
+<!ENTITY manageIdentities.label "Gerenciar identidades...">
+<!ENTITY manageIdentities.accesskey "G">
+<!ENTITY smtpName.label "Servidor SMTP:">
+<!ENTITY smtpName.accesskey "s">
+<!ENTITY smtpDefaultServer.label "Usar o servidor padrão">

@@ -1,18 +1,15 @@
-
-<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title        "Advanced">
-
-<!ENTITY prefEnableJava.caption     "Features that help interpret web pages">
-
-<!ENTITY enbJavaCheck.label         "Enable Java">
-<!ENTITY enbJavaCheck.accesskey     "J">
-
-<!ENTITY prefJvmConf.caption        "Select Java version (change requires restart)">
-<!ENTITY jvm.name                   "Version">
-<!ENTITY jvm.home                   "Path">
-
-<!ENTITY systemPref.caption         "System Preferences">
-<!ENTITY systemPrefCheck.label      "Use Preferences from System">
-<!ENTITY systemPrefCheck.accesskey  "U">
-<!ENTITY systemPref.desc            "Check this item to inherit preferences from the system. The system settings will override the &brandShortName; preferences">
-
+<!ENTITY pref.advanced.title "Avançado">
+<!ENTITY prefEnableJava.caption "Funcionalidades que ajudam a interpretar as páginas">
+<!ENTITY enbJavaCheck.label "Permitir Java">
+<!ENTITY enbJavaCheck.accesskey "j">
+<!ENTITY prefTurbo.caption "Iniciador Rápido">
+<!ENTITY enableTurbo.label "Manter o &brandShortName; na memória para diminuir o tempo de inicialização">
+<!ENTITY enableTurboCheck.accesskey "A">
+<!ENTITY prefTurbo.desc "Se você marcar este item, parte do &brandShortName; permanecerá na memória enquanto não estiver em uso, permitindo uma inicialização mais rápida.">
+<!ENTITY prefJvmConf.caption "Selecione a versão do Java (é necessário reiniciar para efetivar a mudança)">
+<!ENTITY jvm.name "Versão">
+<!ENTITY jvm.home "Caminho">
+<!ENTITY systemPref.caption "Preferências do Sistema">
+<!ENTITY systemPrefCheck.label "Usar preferências do sistema">
+<!ENTITY systemPrefCheck.accesskey "s">
+<!ENTITY systemPref.desc "Marque este item para herdar as preferências do sistema. As preferências do sistema sobrescreverão as preferências do &brandShortName;">

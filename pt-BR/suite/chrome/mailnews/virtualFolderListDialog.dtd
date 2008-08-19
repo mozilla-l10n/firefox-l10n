@@ -1,6 +1,4 @@
-<!ENTITY server.label "Account: ">
-<!ENTITY server.accesskey "A">
-<!ENTITY virtualFolderListTitle.title        "Select Folder(s)">
-<!ENTITY virtualFolderDesc.label       "Select the folders to search:">
-
-
+<!ENTITY server.label "Conta: ">
+<!ENTITY server.accesskey "C">
+<!ENTITY virtualFolderListTitle.title "Selecionar pasta(s)">
+<!ENTITY virtualFolderDesc.label "Selecione as pastas a pesquisar:">

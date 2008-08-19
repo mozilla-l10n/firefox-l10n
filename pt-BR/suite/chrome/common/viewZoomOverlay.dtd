@@ -1,14 +1,14 @@
-<!ENTITY zoomEnlargeCmd.label       "Larger">
-<!ENTITY zoomEnlargeCmd.accesskey   "L">
+<!ENTITY zoomEnlargeCmd.accesskey   "A">
 <!ENTITY zoomEnlargeCmd.commandkey  "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-
-<!ENTITY zoomReduceCmd.label        "Smaller">
-<!ENTITY zoomReduceCmd.accesskey    "S">
-<!ENTITY zoomReduceCmd.commandkey   "-">
-
-<!ENTITY zoomResetCmd.commandkey    "0">
+<!ENTITY zoomEnlargeCmd.label       "Aumentar">
 
 <!-- see zoomOtherLabel in viewZoomOverlay.properties -->
-<!ENTITY zoomMenu.accesskey         "z">
-<!ENTITY zoomOtherCmd.accesskey     "o">
+<!ENTITY zoomMenu.accesskey         "Z">
+<!ENTITY zoomOtherCmd.accesskey     "O">
+<!ENTITY zoomReduceCmd.accesskey    "D">
+<!ENTITY zoomReduceCmd.commandkey   "-">
+
+<!ENTITY zoomReduceCmd.label        "Diminuir">
+
+<!ENTITY zoomResetCmd.commandkey    "0">

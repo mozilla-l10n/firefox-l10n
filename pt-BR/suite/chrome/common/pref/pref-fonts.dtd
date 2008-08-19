@@ -1,80 +1,60 @@
-<!-- extracted from content/pref-fonts.xul -->
-
-<!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
-<!ENTITY  pref.fonts.title                        "Fonts">
-
-<!ENTITY  language.label                          "Fonts for:">
-<!ENTITY  language.accesskey                      "t">
-
-<!ENTITY  typefaces.label                         "Typeface">
-<!ENTITY  sizes.label                             "Size (pixels)">
-
-<!ENTITY  proportional.label                      "Proportional:">
-<!ENTITY  proportional.accesskey                  "P">
-
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "s">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "m">
-<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
-<!ENTITY  fantasy.label                           "Fantasy:">
-<!ENTITY  fantasy.accesskey                       "f">
-<!ENTITY  cursive.label                           "Cursive:">
-<!ENTITY  cursive.accesskey                       "c">
-
-<!ENTITY  fontsize.units                          "pixels">
-
-<!ENTITY  font.langGroup.latin1                   "Western">
-<!ENTITY  font.langGroup.latin2                   "Central European">
-<!ENTITY  font.langGroup.japanese                 "Japanese">
-<!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese(Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese(Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Korean">
-<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
-<!ENTITY  font.langGroup.el                       "Greek">
-<!ENTITY  font.langGroup.turkish                  "Turkish">
-<!ENTITY  font.langGroup.unicode                  "Other Languages">
-<!ENTITY  font.langGroup.user-def                 "User Defined">
-<!ENTITY  font.langGroup.thai                     "Thai">
-<!ENTITY  font.langGroup.hebrew                   "Hebrew">
-<!ENTITY  font.langGroup.arabic                   "Arabic">
-<!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
-<!ENTITY  font.langGroup.armenian                 "Armenian">
-<!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
-<!ENTITY  font.langGroup.georgian                 "Georgian">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
-<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
-<!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimum font size:">
-<!ENTITY minSize.accesskey                        "z">
-<!ENTITY minSize.none                             "None">
-
-<!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-
-<!ENTITY  newLanguages.label                      "New languages can be configured using the Languages Panel.">
-
-<!ENTITY  useDocumentFonts.label                  "Allow documents to use other fonts">
-<!ENTITY  useDocumentFonts.accesskey              "o">
-
-<!-- leaving this stuff in for now -->
-
-<!ENTITY  header2                                 "When a webpage chooses its own fonts">
-<!ENTITY  useDefaultFont.label                    "Use my default fonts, ignoring the fonts the page has chosen">
-<!ENTITY  useDefaultFont.accesskey                "u">
-<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontNonDynamic.label              "Use the fonts chosen by the page">
-<!ENTITY  useDocFontNonDynamic.accesskey          "p">
-<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
-<!ENTITY  useDocFontDynamic.label                 "Use all the fonts chosen by the page">
-<!ENTITY  useDocFontDynamic.accesskey             "a">
+<!ENTITY pref.fonts.title "Fontes">
+<!ENTITY language.label "Fontes padrão para:">
+<!ENTITY language.accesskey "f">
+<!ENTITY typefaces.label "Nome:">
+<!ENTITY sizes.label "Tam. (pontos):">
+<!ENTITY proportional.label "Proporcional:">
+<!ENTITY proportional.accesskey "P">
+<!ENTITY serif.label "Com serifa:">
+<!ENTITY serif.accesskey "c">
+<!ENTITY sans-serif.label "Sem serifa:">
+<!ENTITY sans-serif.accesskey "s">
+<!ENTITY monospace.label "Monoespaçada:">
+<!ENTITY monospace.accesskey "m">
+<!ENTITY fantasy.label "Fantasia:">
+<!ENTITY fantasy.accesskey "a">
+<!ENTITY cursive.label "Cursiva:">
+<!ENTITY cursive.accesskey "v">
+<!ENTITY fontsize.units "pontos">
+<!ENTITY font.langGroup.latin1 "Ocidental">
+<!ENTITY font.langGroup.latin2 "Europeu central">
+<!ENTITY font.langGroup.japanese "Japonês">
+<!ENTITY font.langGroup.trad-chinese "Chinês tradicional (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "Chinês simplificado">
+<!ENTITY font.langGroup.trad-chinese-hk "Traditional Chinese (Hong Kong)">
+<!ENTITY font.langGroup.korean "Coreano">
+<!ENTITY font.langGroup.cyrillic "Cirílico">
+<!ENTITY font.langGroup.baltic "Báltico">
+<!ENTITY font.langGroup.el "Grego">
+<!ENTITY font.langGroup.turkish "Turco">
+<!ENTITY font.langGroup.unicode "Outros idiomas">
+<!ENTITY font.langGroup.user-def "Definido pelo usuário">
+<!ENTITY font.langGroup.thai "Tailandês">
+<!ENTITY font.langGroup.hebrew "Hebraico">
+<!ENTITY font.langGroup.arabic "Árabe">
+<!ENTITY font.langGroup.devanagari "Devanagari">
+<!ENTITY font.langGroup.tamil "Tamil">
+<!ENTITY font.langGroup.armenian "Armenian">
+<!ENTITY font.langGroup.bengali "Bengali">
+<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
+<!ENTITY font.langGroup.ethiopic "Etíope">
+<!ENTITY font.langGroup.georgian "Georgian">
+<!ENTITY font.langGroup.gujarati "Gujarati">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
+<!ENTITY font.langGroup.khmer "Khmer">
+<!ENTITY font.langGroup.malayalam "Malayalam">
+<!ENTITY minSize.label "Tam. mínimo permitido:">
+<!ENTITY minSize.accesskey "a">
+<!ENTITY minSize.none "Nenhum">
+<!ENTITY useDefaultFontSerif.label "Com serifa">
+<!ENTITY useDefaultFontSansSerif.label "Sem serifa">
+<!ENTITY newLanguages.label "Novos idiomas podem ser configurados usando a seção Idiomas.">
+<!ENTITY useDocumentFonts.label "Permitir que os documentos usem outras fontes">
+<!ENTITY useDocumentFonts.accesskey "o">
+<!ENTITY header2 "Quando uma página especificar as próprias fontes">
+<!ENTITY useDefaultFont.label "Usar as fontes padrão e ignorar as fontes especificadas pela página">
+<!ENTITY useDefaultFont.accesskey "u">
+<!ENTITY useDocFontNonDynamic.label "Usar as fontes escolhidas pela página">
+<!ENTITY useDocFontNonDynamic.accesskey "t">
+<!ENTITY useDocFontDynamic.label "Usar as fontes especificadas pela página">
+<!ENTITY useDocFontDynamic.accesskey "f">

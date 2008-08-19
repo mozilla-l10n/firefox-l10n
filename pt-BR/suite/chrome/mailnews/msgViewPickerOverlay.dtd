@@ -1,16 +1,20 @@
-<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
-
-<!ENTITY viewPicker.label "View:">
-<!ENTITY viewPicker.accesskey "i">
-<!ENTITY viewAll.label "All">
-<!ENTITY viewAll.accesskey "A">
-<!ENTITY viewUnread.label "Unread">
-<!ENTITY viewUnread.accesskey "U">
-<!ENTITY viewTags.label "Tags">
-<!ENTITY viewTags.accesskey "T">
-<!ENTITY viewCustomViews.label "Custom Views">
-<!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "Save View as a Folder...">
+<!ENTITY viewPicker.label "Visualizar:">
+<!ENTITY viewPicker.accesskey "v">
+<!ENTITY viewPickerSaveAsVirtualFolder.label "Salvar como pasta...">
+<!ENTITY viewPickerCustomView.label "Editar...">
+<!ENTITY viewPickerAll.label "Todas">
+<!ENTITY viewPickerUnread.label "Não lidas">
+<!ENTITY viewAll.label "Todas">
+<!ENTITY viewAll.accesskey "T">
+<!ENTITY viewUnread.label "Não lidas">
+<!ENTITY viewUnread.accesskey "N">
+<!ENTITY viewTags.label "Rótulos">
+<!ENTITY viewTags.accesskey "R">
+<!ENTITY viewCustomViews.label "Personalizado">
+<!ENTITY viewCustomViews.accesskey "P">
+<!ENTITY viewVirtualFolder.label "Salvar como pasta...">
 <!ENTITY viewVirtualFolder.accesskey "S">
-<!ENTITY viewCustomizeView.label "Customize...">
-<!ENTITY viewCustomizeView.accesskey "C">
+<!ENTITY viewCustomizeView.label "Personalizar...">
+<!ENTITY viewCustomizeView.accesskey "z">
+<!ENTITY viewNotDeleted.accesskey "d">
+<!ENTITY viewNotDeleted.label "Não apagadas">

@@ -1,20 +1,16 @@
-<!ENTITY window.title "Sort Folder">
-
-<!ENTITY sortOptions.label "Sort options">
-<!ENTITY description.label "&brandShortName; can sort individual folders. Use these options to customize the sorting for this Folder.">
-
-<!ENTITY sortBy.label "Sort by:">
-<!ENTITY sortBy.name.label "Name">
-<!ENTITY sortBy.url.label "Location">
-<!ENTITY sortBy.shortcutUrl.label "Keyword">
-<!ENTITY sortBy.description.label "Description">
-<!ENTITY sortBy.bookmarkAddDate.label "Added">
-<!ENTITY sortBy.lastModifiedDate.label "Last Modified">
-<!ENTITY sortBy.lastVisitDate.label "Last Visited">
-
-<!ENTITY sortOrder.label "Sort order:">
-<!ENTITY sortAscending.label "Ascending">
-<!ENTITY sortDescending.label "Descending">
-
-<!ENTITY sortFoldersFirst.label "Sort folders first">
-<!ENTITY sortRecursively.label "Sort recursively">
+<!ENTITY window.title "Ordenar marcadores">
+<!ENTITY sortOptions.label "Geral">
+<!ENTITY description.label "O &brandShortName; pode ordenar os marcadores de várias maneiras.">
+<!ENTITY sortBy.label "Ordenar por:">
+<!ENTITY sortBy.name.label "Nome">
+<!ENTITY sortBy.url.label "Endereço">
+<!ENTITY sortBy.shortcutUrl.label "Palavra-chave">
+<!ENTITY sortBy.description.label "Descrição">
+<!ENTITY sortBy.bookmarkAddDate.label "Criado">
+<!ENTITY sortBy.lastModifiedDate.label "Modificado">
+<!ENTITY sortBy.lastVisitDate.label "Última visita">
+<!ENTITY sortOrder.label "Ordem:">
+<!ENTITY sortFoldersFirst.label "Pastas primeiro">
+<!ENTITY sortRecursively.label "Incluir subpastas">
+<!ENTITY sortAscending.label "Crescente">
+<!ENTITY sortDescending.label "Decrescente">

@@ -1,15 +1,15 @@
-<!ENTITY matchAll.label     "Match all of the following">
-<!ENTITY matchAll.accesskey "a">
-<!ENTITY matchAny.label     "Match any of the following">
-<!ENTITY matchAny.accesskey "o">
-<!ENTITY matchAllMsgs.label     "Match all messages">
+<!ENTITY matchAll.label "Todos os campos abaixo">
+<!ENTITY matchAll.accesskey "t">
+<!ENTITY matchAny.label "Pelo menos um dos campos abaixo">
+<!ENTITY matchAny.accesskey "c">
+<!ENTITY matchAllMsgs.label "Todas as mensagens">
 <!ENTITY matchAllMsgs.accesskey "m">
+<!ENTITY searchTermListAttributesFlexValue "4">
+<!ENTITY searchTermListOperatorsFlexValue "4">
+<!ENTITY searchTermListValueFlexValue "4">
+<!ENTITY searchTermListButtonsFlexValue "2">
 <!-- LOCALIZATION NOTE  
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
-<!ENTITY searchTermListAttributesFlexValue "5">
-<!ENTITY searchTermListOperatorsFlexValue "5">
-<!ENTITY searchTermListValueFlexValue "5">
-<!ENTITY searchTermListButtonsFlexValue "2">

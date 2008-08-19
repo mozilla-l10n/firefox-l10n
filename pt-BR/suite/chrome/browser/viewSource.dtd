@@ -1,27 +1,16 @@
-<!-- extracted from content/viewSource.xul -->
-
-<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
-<!ENTITY mainWindow.title "&brandShortName;"> 
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
-<!ENTITY mainWindow.titlemodifier "&brandShortName;"> 
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandShortName;">
+<!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Source of: ">
-
-<!ENTITY viewPartialSourceWindow.title "DOM Source">
-
-<!ENTITY menu_wrapLongLines.title "Wrap Long Lines"> 
-<!ENTITY menu_wrapLongLines.accesskey "W">
-
-<!ENTITY menu_highlightSyntax.label "Syntax Highlighting">
-<!ENTITY menu_highlightSyntax.accesskey "H">
-
-<!ENTITY findNextCmd.label "Find Next">
-<!ENTITY findNextCmd.accesskey "n">
-
-<!ENTITY goToLineCmd.label "Go to Line...">
-<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY mainWindow.preface "Código-fonte: ">
+<!ENTITY viewPartialSourceWindow.title "Código-fonte DOM">
+<!ENTITY menu_wrapLongLines.title "Quebrar linhas">
+<!ENTITY menu_wrapLongLines.accesskey "Q">
+<!ENTITY menu_highlightSyntax.label "Realçar sintaxe">
+<!ENTITY menu_highlightSyntax.accesskey "R">
+<!ENTITY findNextCmd.label "Localizar próxima">
+<!ENTITY findNextCmd.accesskey "l">
+<!ENTITY goToLineCmd.label "Ir para linha...">
+<!ENTITY goToLineCmd.accesskey "I">
 <!ENTITY goToLineCmd.commandkey "l">
-
-<!ENTITY printSetupCmd.label "Page Setup...">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Configurar página...">
+<!ENTITY printSetupCmd.accesskey "c">
