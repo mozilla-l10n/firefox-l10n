@@ -138,8 +138,12 @@
 <!ENTITY selectInvertCmd.accesskey "I">
 <!ENTITY filtersCmd.label "Laiškų filtrai…">
 <!ENTITY filtersCmd.accesskey "f">
-<!ENTITY filtersApply.label "Taikyti filtrus, susietus su pažymėtu aplanku">
-<!ENTITY filtersApply.accesskey "r">
+<!ENTITY filtersApply.label "Filtruoti pažymėto aplanko laiškus">
+<!ENTITY filtersApply.accesskey "t">
+<!ENTITY filtersApplyToSelection.label "Filtruoti pažymėtus laiškus">
+<!ENTITY filtersApplyToSelection.accesskey "r">
+<!ENTITY filtersApplyToMessage.label "Filtruoti pažymėtą laišką">
+<!ENTITY filtersApplyToMessage.accesskey "r">
 <!ENTITY folderPropsCmd.label "Savybės…">
 <!ENTITY folderPropsFolderCmd.label "Aplanko savybės…">
 <!ENTITY folderPropsNewsgroupCmd.label "Naujienų grupės savybės…">

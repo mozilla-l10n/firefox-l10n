@@ -453,7 +453,11 @@
 <!ENTITY filtersCmd.label "Laiškų filtrai…">
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Filtruoti pažymėto aplanko laiškus">
-<!ENTITY filtersApply.accesskey "T">
+<!ENTITY filtersApply.accesskey "t">
+<!ENTITY filtersApplyToSelection.label "Filtruoti pažymėtus laiškus">
+<!ENTITY filtersApplyToSelection.accesskey "r">
+<!ENTITY filtersApplyToMessage.label "Filtruoti pažymėtą laišką">
+<!ENTITY filtersApplyToMessage.accesskey "r">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Atsiųsti">
