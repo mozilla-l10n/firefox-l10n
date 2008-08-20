@@ -122,7 +122,7 @@
 <!ENTITY  permImage             "Paveikslėlių įkėlimas">
 <!ENTITY  permPopup             "Iškylančiųjų langų atvėrimas">
 <!ENTITY  permCookie            "Slapukų įrašymas">
-<!ENTITY  permInstall           "Priedų ir grafinių apvalkalų diegimas">
+<!ENTITY  permInstall           "Plėtinių ir grafinių apvalkalų diegimas">
 
 <!ENTITY  securityTab           "Saugumas">
 <!ENTITY  securityTab.accesskey "S">

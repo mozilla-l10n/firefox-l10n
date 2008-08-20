@@ -33,7 +33,7 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "Programinės įrangos diegimas">
 <!ENTITY smartTitle.label                     "Programinės įrangos diegimas ir atsinaujinimas">
-<!ENTITY enableSU.label                       "Leisti svetainėms įdiegti papildinius ir atnaujinimus">
+<!ENTITY enableSU.label                       "Leisti svetainėms įdiegti plėtinius ir atnaujinimus">
 <!ENTITY enableSU.accesskey                   "L">
 <!ENTITY allowedSites.label                   "Leistinos svetainės">
 <!ENTITY allowedSites.accesskey               "s">
