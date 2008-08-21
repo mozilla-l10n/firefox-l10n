@@ -50,9 +50,9 @@
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Подписаться на ленты новостей">
 <!ENTITY subscribeToPageMenuitem.label "Подписаться на ленты новостей…">
-<!ENTITY addCurPagesCmd.label "Добавить вкладки в закладки…">
+<!ENTITY addCurPagesCmd.label "Добавить все вкладки в закладки…">
 <!ENTITY organizeBookmarks.label "Управление закладками…">
-<!ENTITY bookmarkAllCmd.label "Добавить вкладки в закладки…">
+<!ENTITY bookmarkAllCmd.label "Добавить все вкладки в закладки…">
 <!ENTITY backCmd.label "Назад">
 <!ENTITY backCmd.accesskey "Н">
 <!ENTITY backButton.tooltip "На предыдущую страницу">
