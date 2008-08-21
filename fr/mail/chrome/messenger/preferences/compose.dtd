@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "g">
 <!ENTITY downloadDictionaries.label           "Télécharger d'autres dictionnaires">
 
-<!ENTITY useMIME.label                        "Utiliser l'encodage MIME « quoted printable » pour les messages contenant des caractères 8 bits">
-<!ENTITY useMIME.accesskey                    "U">
 <!ENTITY warnOnSendAccelKey.label             "Demander confirmation lors de l'utilisation d'un raccourci clavier pour envoyer un message">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "Sauvegarde automatique toutes les">
