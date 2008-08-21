@@ -10,7 +10,8 @@
 <!ENTITY cancel.accesskey "C">
 
 <!ENTITY noupdatesfound.title "Não foram encontradas actualizações">
-<!ENTITY noupdatesfound.intro "Não existem actualizações disponíveis. O &brandShortName; pode verificar periodicamente por actualizações.">
+<!ENTITY  noupdatesautoenabled.intro      "Não há actualizações disponíveis. &brandShortName; vai procurar actualizações regularmente.">
+<!ENTITY  noupdatesautodisabled.intro     "Não há actualizações disponíveis. Por favor verifique mais tarde ou ligue a verificação automática de actualizações do &brandShortName;.">
 
 <!ENTITY  incompatibleChecking.label      "Verificar se esta actualização vai causar problemas com as suas extensões e/ou temas...">
 <!ENTITY clickHere.label "Ver mais informações sobre esta actualização">
