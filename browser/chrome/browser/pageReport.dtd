@@ -1,9 +1,0 @@
-<!ENTITY caption.label "Popups bloqueados">
-
-<!ENTITY intro.label "As páginas seguintes foram proibidas de abrir janelas não solicitadas:">
-
-<!ENTITY done.label "Terminado">
-<!ENTITY done.accesskey "T">
-
-<!ENTITY unblock.label "Desbloquear o sítio">
-<!ENTITY unblock.accesskey "D">
