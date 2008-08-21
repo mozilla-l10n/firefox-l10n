@@ -424,6 +424,10 @@
 <!ENTITY filtersCmd.accesskey "t">
 <!ENTITY filtersApply.label "Appliquer les filtres sur le dossier">
 <!ENTITY filtersApply.accesskey "l">
+<!ENTITY filtersApplyToSelection.label "Appliquer les filtres sur les messages sélectionnés">
+<!ENTITY filtersApplyToSelection.accesskey "A">
+<!ENTITY filtersApplyToMessage.label "Appliquer les filtres sur le message">
+<!ENTITY filtersApplyToMessage.accesskey "m">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Relever">

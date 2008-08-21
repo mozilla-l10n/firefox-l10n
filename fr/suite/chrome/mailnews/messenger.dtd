@@ -454,6 +454,10 @@
 <!ENTITY filtersCmd.accesskey "i">
 <!ENTITY filtersApply.label "Appliquer les filtres sur ce dossier">
 <!ENTITY filtersApply.accesskey "l">
+<!ENTITY filtersApplyToSelection.label "Appliquer les filtres sur les messages sélectionnés">
+<!ENTITY filtersApplyToSelection.accesskey "A">
+<!ENTITY filtersApplyToMessage.label "Appliquer les filtres sur le message">
+<!ENTITY filtersApplyToMessage.accesskey "m">
 <!ENTITY runJunkControls.label "Traquer les indésirables dans le dossier">
 <!ENTITY runJunkControls.accesskey "q">
 <!ENTITY deleteJunk.label "Supprimer les indésirables de ce dossier">
