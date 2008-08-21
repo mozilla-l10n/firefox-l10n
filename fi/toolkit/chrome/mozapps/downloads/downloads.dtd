@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "Poistaa listasta valmiit, peruutetut tai epäonnistuneet lataukset">
 <!ENTITY cmd.clearList.accesskey          "T">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label               "Sulje tiedostojen latauduttua">
 <!ENTITY closeWhenDone.tooltip             "Sulkee latausikkunan kun kaikki tiedostot ovat latautuneet">

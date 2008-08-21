@@ -10,8 +10,10 @@
 <!ENTITY  cancel.accesskey                 "P">
 
 <!ENTITY  noupdatesfound.title             "Päivityksiä ei löytynyt">
-<!ENTITY  noupdatesfound.intro             "Uusia päivityksiä ei ole saatavilla. &brandShortName; hakee
+<!ENTITY  noupdatesautoenabled.intro      "Uusia päivityksiä ei ole saatavilla. &brandShortName; hakee
                                             päivityksiä väliajoin.">
+<!ENTITY  noupdatesautodisabled.intro     "Uusia päivityksiä ei ole saatavilla. Hae päivityksiä myöhemmin uudestaan
+                                           tai ota käyttöön &brandShortName;in automaattinen päivitysten tarkistus.">
 
 <!ENTITY  incompatibleChecking.label      "Tarkistetaan päivityksen ja asennettujen lisäosien yhteensopivuutta…">
 <!ENTITY  clickHere.label                 "Lue lisätietoja tästä päivityksestä">
