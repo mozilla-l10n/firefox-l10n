@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Tämä ei ole huijaussivu…">
 <!ENTITY safeb.palm.report.label "Miksi tämä sivusto on estetty?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Tämä sivu voi olla vaarallinen. Lue lisätietoja.">
-
 <!ENTITY safeb.blocked.malware.title "Ilmoitettu hyökkäyssivusto!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Sivuston osoitteessa <span id='malware_sitename'/> on ilmoitettu olevan hyökkäyssivusto ja sen avaaminen on turvallisuusasetuksiesi mukaisesti estetty.">
