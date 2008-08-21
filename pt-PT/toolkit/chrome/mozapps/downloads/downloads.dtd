@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "Apaga da lista as transferências completadas, canceladas e falhadas">
 <!ENTITY cmd.clearList.accesskey          "i">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label "Fechar quando as transferências terminarem">
 <!ENTITY closeWhenDone.tooltip "Fecha a janela de transferências quando todas as transferências tiverem terminado">
