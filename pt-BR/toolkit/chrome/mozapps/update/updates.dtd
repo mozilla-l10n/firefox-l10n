@@ -12,10 +12,6 @@
 <!ENTITY  noupdatesfound.title            "Nenhuma atualização encontrada">
 <!ENTITY  noupdatesfound.intro            "Não há atualizações disponíveis. O &brandShortName; pode verificar periodicamente a disponibilidade de atualizações.">
 
-<!ENTITY  noupdatesautodisabled.intro     "Não há atualizações disponíveis. Cheque novamente posteriormente ou ative a checagem por atualizações automática do &brandShortName;.">
-<!ENTITY  noupdatesautoenabled.intro      "Não há atualizações disponíveis. O &brandShortName; verificará periodicamente a disponibilidade de atualizações.">
-
-
 <!ENTITY  incompatibleChecking.label      "Verificando se esta atualização causará problemas para suas extensões ou temas…">
 <!ENTITY  clickHere.label                 "Mais informações sobre esta atualização">
 
