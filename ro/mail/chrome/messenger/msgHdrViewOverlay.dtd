@@ -50,8 +50,8 @@
 <!ENTITY tagsHdr.label "Etichete:">
 <!ENTITY dateField.label "Data:">
 <!ENTITY userAgentField.label "Agentul utilizatorului:">
-<!ENTITY referencesField.label "References: ">
-<!ENTITY messageIdField.label "Message-ID: ">
+<!ENTITY referencesField.label "Referințe: ">
+<!ENTITY messageIdField.label "ID mesaj: ">
 <!ENTITY inReplyToField.label "In-Reply-To: ">
 <!ENTITY originalWebsite.label "Sait web:">
 <!ENTITY saveAll.label "Salvează toate...">

@@ -36,7 +36,7 @@
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Conversație">
-<!ENTITY fromColumn.label "From">
+<!ENTITY fromColumn.label "Expeditor">
 <!ENTITY recipientColumn.label "Destinatar">
 <!ENTITY subjectColumn.label "Subiect">
 <!ENTITY dateColumn.label "Dată">
@@ -50,7 +50,7 @@
 <!ENTITY unreadColumn.label "Necitit">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Citit">
-<!ENTITY receivedColumn.label "Received">
+<!ENTITY receivedColumn.label "Primit">
 <!ENTITY starredColumn.label "Cu steluță">
 <!ENTITY locationColumn.label "Amplasare">
 <!ENTITY idColumn.label "Ordine de primire">
@@ -58,7 +58,7 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Clic pentru a selecta coloanele de afișat">
 <!ENTITY threadColumn.tooltip "Clic pentru a grupa mesajele în conversații"> 
-<!ENTITY fromColumn.tooltip "Click to sort by from">
+<!ENTITY fromColumn.tooltip "Clic pentru sortare după expeditor">
 <!ENTITY recipientColumn.tooltip "Clic pentru a sorta după destinatar">
 <!ENTITY subjectColumn.tooltip "Clic pentru a sorta după subiect">
 <!ENTITY dateColumn.tooltip "Clic pentru a sorta după dată">
@@ -71,7 +71,7 @@
 <!ENTITY unreadColumn.tooltip "Numărul de mesaje necitite din conversație">
 <!ENTITY totalColumn.tooltip "Numărul total de mesaje din conversație">
 <!ENTITY readColumn.tooltip "Clic pentru a sorta după citire">
-<!ENTITY receivedColumn.tooltip "Click to sort by date received">
+<!ENTITY receivedColumn.tooltip "Clic pentru sortare după data primirii">
 <!ENTITY starredColumn.tooltip "Clic pentru a sorta după steluță">
 <!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
 <!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">

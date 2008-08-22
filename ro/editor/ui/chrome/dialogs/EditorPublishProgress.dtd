@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         "URL sit:">
+<!ENTITY siteUrl.label         "Adresă sait:">
 <!ENTITY docSubdir.label       "Subdirector pagini:">
 <!ENTITY otherSubdir.label     "Subdirector imagini:">
 

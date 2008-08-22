@@ -489,7 +489,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Bară meniu">
-<!ENTITY compositionToolbar.tooltip "Bară redactare">
+<!ENTITY compositionToolbar.tooltip "Bară de redactare">
 <!ENTITY formatToolbar.tooltip "Bară formatare">
 <!ENTITY newToolbarCmd.tooltip "Creează o nouă pagină Composer">
 <!ENTITY openToolbarCmd.label "Deschide">

@@ -40,8 +40,8 @@
 <!ENTITY subscribeButton.accesskey    "A">
 <!ENTITY unsubscribeButton.label      "Dezabonează">
 <!ENTITY unsubscribeButton.accesskey  "D">
-<!ENTITY newGroupsTab.label           "New Groups">
-<!ENTITY newGroupsTab.accesskey       "N">
+<!ENTITY newGroupsTab.label           "Grupuri noi">
+<!ENTITY newGroupsTab.accesskey       "n">
 <!ENTITY refreshButton.label          "Actualizează">
 <!ENTITY refreshButton.accesskey      "u">
 <!ENTITY stopButton.label             "Oprește">

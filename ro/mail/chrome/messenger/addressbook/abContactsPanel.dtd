@@ -4,8 +4,8 @@
 <!ENTITY searchInput.accesskey              "C">
 <!ENTITY SearchNameOrEmail.label            "Nume sau email">
 
-<!ENTITY deleteAddrBookCard.label           "Delete">
-<!ENTITY addrBookCardProperties.label       "Properties">
+<!ENTITY deleteAddrBookCard.label           "Șterge">
+<!ENTITY addrBookCardProperties.label       "Proprietăți">
 <!ENTITY addtoToFieldMenu.label             "Adaugă la câmpul Către">
 <!ENTITY addtoCcFieldMenu.label             "Adaugă la câmpul Cc">
 <!ENTITY addtoBccFieldMenu.label            "Adaugă la câmpul Bcc">
@@ -14,5 +14,5 @@
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Adaugă la Cc:">
 <!ENTITY ccButton.accesskey                 "A">
-<!ENTITY bccButton.label                    "Add to Bcc:">
+<!ENTITY bccButton.label                    "Adaugă la Bcc:">
 <!ENTITY bccButton.accesskey                "B">

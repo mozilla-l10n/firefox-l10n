@@ -17,13 +17,13 @@
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Domenii cu text simplu">
 <!ENTITY PlainTextTab.accesskey       "p">
-<!ENTITY AddHtmlDomain.label          "Add…">
-<!ENTITY AddHtmlDomain.accesskey      "a">
-<!ENTITY AddPlainText.label           "Add…">
+<!ENTITY AddHtmlDomain.label          "Adaugă…">
+<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddPlainText.label           "Adaugă…">
 <!ENTITY AddPlainText.accesskey       "d">
-<!ENTITY DeleteHtmlDomain.label       "Delete">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
-<!ENTITY DeletePlainText.label        "Delete">
+<!ENTITY DeleteHtmlDomain.label       "Șterge">
+<!ENTITY DeleteHtmlDomain.accesskey   "Ș">
+<!ENTITY DeletePlainText.label        "Șterge">
 <!ENTITY DeletePlainText.accesskey    "t">
 
 <!ENTITY add.htmltitle                "Adaugă un nume de domeniu pentru HTML">

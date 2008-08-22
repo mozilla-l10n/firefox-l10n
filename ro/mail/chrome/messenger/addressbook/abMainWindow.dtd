@@ -64,9 +64,9 @@
 <!ENTITY deleteCmd.accesskey                            "Ș">
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">
 <!ENTITY deleteCardCmd.label                            "Șterge fișă">
-<!ENTITY deleteCardsCmd2.label                          "Delete Cards">
-<!ENTITY deleteListCmd.label                            "Delete List">
-<!ENTITY deleteListsCmd.label                           "Delete Lists">
+<!ENTITY deleteCardsCmd2.label                          "Șterge cardurile">
+<!ENTITY deleteListCmd.label                            "Șterge lista">
+<!ENTITY deleteListsCmd.label                           "Șterge listele">
 <!ENTITY deleteItemsCmd.label                           "Delete Items">
 <!ENTITY selectAllCmd.label                             "Selectează tot">
 <!ENTITY selectAllCmd.key                               "A">
@@ -175,10 +175,10 @@
 <!ENTITY JobTitle.accesskey                             "T">
 <!ENTITY CellularNumber.label                           "Mobil">
 <!ENTITY CellularNumber.accesskey                       "M">
-<!ENTITY PagerNumber.label                              "Pager">
-<!ENTITY PagerNumber.accesskey                          "P">
-<!ENTITY FaxNumber.label                                "Fax">
-<!ENTITY FaxNumber.accesskey                            "F">
+<!ENTITY PagerNumber.label                              "Nr. de pager">
+<!ENTITY PagerNumber.accesskey                          "p">
+<!ENTITY FaxNumber.label                                "Nr. de fax">
+<!ENTITY FaxNumber.accesskey                            "f">
 <!ENTITY HomePhone.label                                "Telefon de acasă">
 <!ENTITY HomePhone.accesskey                            "T">
 <!ENTITY WorkPhone.label                                "Telefon de serviciu">

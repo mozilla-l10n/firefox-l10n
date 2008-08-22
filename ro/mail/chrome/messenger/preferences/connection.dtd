@@ -2,9 +2,9 @@
 <!ENTITY  window.width                   "37em">
 
 <!ENTITY  proxyTitle.label              "Configurare de servere proxy pentru acces la internet">
-<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.label        "Fără proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  systemTypeRadio.label         "Folosește setările proxy ale sistemului">
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Detectează automat setările de server proxy pentru această rețea">
 <!ENTITY  WPADTypeRadio.accesskey       "D">
@@ -25,11 +25,11 @@
 <!ENTITY  socks.label                   "Gazdă SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  HTTPport.label                "Port:">
-<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.label                 "Port:">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  SOCKSport.label               "Port:">
