@@ -54,5 +54,5 @@
 
 <!ENTITY resetpassword.caption "Врати главну лозинку">
 <!ENTITY resetpassword.text "Ако укинете главну лозинку, све сачуване лозинке за мрежне и електронске адресе, подаци из формулара, лични сертификати и приватни кључеви биће изгубљени.">
-<!ENTITY resetpassword.button "Обнављање шифре">
+<!ENTITY resetpassword.button "Обнављање лозинке">
 <!ENTITY resetpassword.accesskey "R">
