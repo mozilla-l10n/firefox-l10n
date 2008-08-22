@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Ово није мрежни фалсификат…">
 <!ENTITY safeb.palm.report.label "Зашто је овај сајт блокиран?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Ова страна може да буде опасна; притисните овде за детаље.">
-
 <!ENTITY safeb.blocked.malware.title "Пријављен непријатељски настројен сајт!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Овај сајт <span id='malware_sitename'/> је пријављен као непријатељски настројен, па Ваша безбедносна подешавања не дозвољавају да му се приступи.">

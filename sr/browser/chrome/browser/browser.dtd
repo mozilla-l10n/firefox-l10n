@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey "О">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Преглед HTML кода изабраног дела">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Преглед MathML кода">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label "Преглед HTML кода">
 <!ENTITY viewPageSourceCmd.accesskey "П">

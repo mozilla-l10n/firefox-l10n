@@ -4,8 +4,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2 "485">
 <!ENTITY window.height "300">
 
-<!ENTITY starting.label "Почињем...">
-<!ENTITY scanning.label "Scanning for viruses…">
+<!ENTITY starting.label "Почетак…">
+<!ENTITY scanning.label "Претрага на вирусе…">
 
 <!ENTITY downloads.title "Пријеми">
 
@@ -17,31 +17,32 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.accesskey "О">
 <!ENTITY cmd.show.label "Прикажи">
 <!ENTITY cmd.show.accesskey "П">
-<!ENTITY cmd.showMac.label "Show in Finder">
-<!ENTITY cmd.showMac.accesskey "F">
+<!ENTITY cmd.showMac.label "Прикажи у Налазачу">
+<!ENTITY cmd.showMac.accesskey "Н">
 <!ENTITY cmd.open.label "Отвори">
 <!ENTITY cmd.open.accesskey "О">
-<!ENTITY cmd.openWith.label "Отвори помоћу...">
+<!ENTITY cmd.openWith.label "Отвори помоћу…">
 <!ENTITY cmd.openWith.accesskey "п">
 <!ENTITY cmd.retry.label "Покушај поново">
 <!ENTITY cmd.retry.accesskey "П">
-<!ENTITY cmd.goToDownloadPage.label "Go to Download Page">
-<!ENTITY cmd.goToDownloadPage.accesskey "G">
-<!ENTITY cmd.copyDownloadLink.label "Copy Download Link">
-<!ENTITY cmd.copyDownloadLink.accesskey "L">
-<!ENTITY cmd.removeFromList.label "Remove From List">
-<!ENTITY cmd.removeFromList.accesskey "e">
+<!ENTITY cmd.goToDownloadPage.label "Иди на страну са пријемима">
+<!ENTITY cmd.goToDownloadPage.accesskey "И">
+<!ENTITY cmd.copyDownloadLink.label "Умножи везу на пријем">
+<!ENTITY cmd.copyDownloadLink.accesskey "п">
+<!ENTITY cmd.removeFromList.label "Уклони са списка">
+<!ENTITY cmd.removeFromList.accesskey "к">
 
 <!ENTITY cmd.close.commandKey "w">
 <!ENTITY cmd.close2.commandKey "j">
 <!ENTITY cmd.close2Unix.commandKey "y">
-<!ENTITY cmd.clearList.label "Clear List">
-<!ENTITY cmd.clearList.tooltip "Removes completed, canceled, and failed downloads from the list">
-<!ENTITY cmd.clearList.accesskey "C">
+<!ENTITY cmd.clearList.label "Очисти списак">
+<!ENTITY cmd.clearList.tooltip "Уклања завршене, отказане и неуспеле пријеме из списка">
+<!ENTITY cmd.clearList.accesskey "О">
 <!ENTITY cmd.find.commandKey "f">
+<!ENTITY cmd.search.commandKey "k">
 
 <!ENTITY closeWhenDone.label "Затвори по завршеном пријему">
 <!ENTITY closeWhenDone.tooltip "Затвара прозор са пријемима када се заврше сви пријеми">
 
 <!ENTITY showFolder.label "Прикажи овај директоријум">
-<!ENTITY searchBox.label "Search…">
+<!ENTITY searchBox.label "Тражи…">

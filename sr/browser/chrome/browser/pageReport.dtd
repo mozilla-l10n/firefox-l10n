@@ -1,9 +1,0 @@
-<!ENTITY caption.label "Блокирани искачући прозори">
-
-<!ENTITY intro.label "Наведеним странама није дозвољен приказ нежељених искачућих прозора:">
-
-<!ENTITY done.label "Крај">
-<!ENTITY done.accesskey "К">
-
-<!ENTITY unblock.label "Одблокирај сајт">
-<!ENTITY unblock.accesskey "О">

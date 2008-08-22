@@ -51,8 +51,6 @@
 <!ENTITY formattingtb.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Трака за начин уређивања">
 <!ENTITY editmodetb.accesskey "E">
-<!ENTITY taskbarCmd.label "Статусна трака">
-<!ENTITY taskbarCmd.accesskey "С">
 <!-- Format menu items -->
 
 <!ENTITY formatMenu.label "Формат">
