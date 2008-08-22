@@ -413,15 +413,19 @@
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.commandkey "2">
 <!ENTITY runJunkControls.label "Spustit kontrolu pošty ve složce">
-<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY runJunkControls.accesskey "S">
 <!ENTITY deleteJunk.label "Smazat nevyžádanou poštu ve složce">
-<!ENTITY deleteJunk.accesskey "z">
+<!ENTITY deleteJunk.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY filtersCmd.label "Třídící filtry zpráv…">
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Spustit filtry na složce">
 <!ENTITY filtersApply.accesskey "p">
+<!ENTITY filtersApplyToSelection.label "Spustit filtry na vybraných zprávách">
+<!ENTITY filtersApplyToSelection.accesskey "u">
+<!ENTITY filtersApplyToMessage.label "Spustit filtry na zprávě">
+<!ENTITY filtersApplyToMessage.accesskey "u">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Přijmout">

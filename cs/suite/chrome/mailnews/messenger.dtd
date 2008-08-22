@@ -454,8 +454,12 @@
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Spustit filtry na složce">
 <!ENTITY filtersApply.accesskey "R">
+<!ENTITY filtersApplyToSelection.label "Spustit filtry na vybraných zprávách">
+<!ENTITY filtersApplyToSelection.accesskey "u">
+<!ENTITY filtersApplyToMessage.label "Spustit filtry na zprávě">
+<!ENTITY filtersApplyToMessage.accesskey "u">
 <!ENTITY runJunkControls.label "Spustit kontrolu pošty ve složce">
-<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY runJunkControls.accesskey "S">
 <!ENTITY deleteJunk.label "Smazat nevyžádanou poštu ve složce">
 <!ENTITY deleteJunk.accesskey "m">
 <!ENTITY importCmd.label "Importovat…">
