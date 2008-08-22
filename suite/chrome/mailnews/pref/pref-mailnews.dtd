@@ -41,37 +41,37 @@
 <!ENTITY pref.mailnews.title              "Paštas ir naujienų grupės">
 <!ENTITY generalSettings.caption          "Bendrosios">
 <!ENTITY confirmMove.label                "Įspėti prieš perkeliant aplankus į šiukšlinę">
-<!ENTITY confirmMove.accesskey            "š">
+<!ENTITY confirmMove.accesskey            "l">
 <!ENTITY useMessenger.label               "Naudoti MAPI pašto programų laiškus">
-<!ENTITY useMessenger.accesskey           "u">
+<!ENTITY useMessenger.accesskey           "o">
 <!ENTITY autounzip.label                  "Įrašant laiškų priedus, automatiškai išpakuoti pakuotus (.zip) failus">
-<!ENTITY autounzip.accesskey              "r">
+<!ENTITY autounzip.accesskey              "u">
 <!ENTITY preserveThreading.label          "Paisyti gijų, rikiuojant laiškus">
-<!ENTITY preserveThreading.accesskey      "P">
+<!ENTITY preserveThreading.accesskey      "k">
 
 <!ENTITY defaultMailSettings.description  "Skirti „&brandShortName;“ numatytąja programa:">
 <!ENTITY setDefaultMail.label             "elektroniniam paštui">
-<!ENTITY setDefaultMail.accesskey         "p">
+<!ENTITY setDefaultMail.accesskey         "e">
 <!ENTITY setDefaultNews.label             "naujienų grupėms">
-<!ENTITY setDefaultNews.accesskey         "n">
+<!ENTITY setDefaultNews.accesskey         "g">
 
 <!ENTITY messengerStartPage.caption       "Į pašto pradžios tinklalapį">
 <!ENTITY enableStartPage.label            "Paleidus pašto programą, rodyti pradžios tinklalapį">
-<!ENTITY enableStartPage.accesskey        "P">
-<!ENTITY location.label                   "Pradžios tinklalapio URL:">
-<!ENTITY location.accesskey               "U">
+<!ENTITY enableStartPage.accesskey        "r">
+<!ENTITY location.label                   "Pradžios tinklalapio adresas:">
+<!ENTITY location.accesskey               "d">
 <!ENTITY useDefault.label                 "Atstatyti numatytąjį adresą">
-<!ENTITY useDefault.accesskey             "A">
+<!ENTITY useDefault.accesskey             "n">
 <!ENTITY rememberLastMsg.label            "Įsiminti paskiausiai pažymėtą laišką">
-<!ENTITY rememberLastMsg.accesskey        "ž">
+<!ENTITY rememberLastMsg.accesskey        "m">
 <!ENTITY toolbarIntro.caption             "Pašto programos pagrindinio lango mygtukai">
 <!ENTITY fileButton.label                 "Perkelti į aplanką">
-<!ENTITY fileButton.accesskey             "e">
+<!ENTITY fileButton.accesskey             "P">
 <!ENTITY nextButton.label                 "Tolesnis">
-<!ENTITY nextButton.accesskey             "o">
+<!ENTITY nextButton.accesskey             "T">
 <!ENTITY junkMailButton.label             "Šlamštas">
 <!ENTITY junkMailButton.accesskey         "Š">
 <!ENTITY printButton.label                "Spausdinti">
 <!ENTITY printButton.accesskey            "S">
 <!ENTITY stopButton.label                 "Stabdyti">
-<!ENTITY stopButton.accesskey             "t">
+<!ENTITY stopButton.accesskey             "a">

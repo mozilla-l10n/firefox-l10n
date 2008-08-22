@@ -171,7 +171,7 @@
 <!ENTITY showSearchToolbarCmd.label		"Paieškos juosta">
 <!ENTITY showSearchToolbarCmd.accesskey	"š">
 
-<!ENTITY showLocationToolbarCmd.label ".Adresų">
+<!ENTITY showLocationToolbarCmd.label "Adresų juosta">
 <!ENTITY showLocationToolbarCmd.accesskey "A">
 
 <!ENTITY messagePaneLayoutStyle.label "Polangių išdėstymas">

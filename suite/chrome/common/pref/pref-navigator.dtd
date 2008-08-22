@@ -32,10 +32,10 @@
 
 <!ENTITY  pref.navigator.title      "Naršyklė">
 
-<!ENTITY  navRadio                  "rodyti">
-<!ENTITY  navStartPageMenu.label    "Paleidžiant naršyklę">
-<!ENTITY  newWinPageMenu.label      "Atveriant naują langą">
-<!ENTITY  newTabPageMenu.label      "Atveriant naują kortelę">
+<!ENTITY  navRadio                  "Rodyti">
+<!ENTITY  navStartPageMenu.label    "paleidžiant naršyklę:">
+<!ENTITY  newWinPageMenu.label      "atveriant naują langą:">
+<!ENTITY  newTabPageMenu.label      "atveriant naują kortelę:">
 
 <!ENTITY  blankPageRadio.label      "tuščią puslapį">
 <!ENTITY  blankPageRadio.accesskey  "š">
@@ -45,13 +45,13 @@
 <!ENTITY  lastPageRadio.accesskey   "k">
 
 <!ENTITY  header2.label             "Pradžios tinklalapis">
-<!ENTITY  homePageIntro.label       "Šis tinklalapis bus įkeliamas spragtelėjus mygtuką „Pradžia“.">
+<!ENTITY  homePageIntro.label       "Šis tinklalapis bus įkeliamas spustelėjus mygtuką „Pradžia“.">
 <!ENTITY  useCurrent.label          "Šiuo metu atvertas tinklalapis">
 <!ENTITY  useCurrent.accesskey      "v">
 <!ENTITY  useCurrentGroup.label     "Šiuo metu atverta tinklalapių grupė">
 <!ENTITY  useCurrentGroup.accesskey "g">
-<!ENTITY  browseFile.label          "Parinkti…">
-<!ENTITY  browseFile.accesskey      "r">
+<!ENTITY  browseFile.label          "Parinkti failą…">
+<!ENTITY  browseFile.accesskey      "f">
 <!ENTITY  useDefault.label          "Atstatyti numatytąjį">
 <!ENTITY  useDefault.accesskey      "n">
 
@@ -67,7 +67,7 @@
 
 <!ENTITY  persToolbarIntro.label    "Asmeninė juosta">
 <!ENTITY  homeButton.label          "Pradžia">
-<!ENTITY  homeButton.accesskey      "P">
+<!ENTITY  homeButton.accesskey      "r">
 <!ENTITY  bookmarksButton.label     "Adresynas">
 <!ENTITY  bookmarksButton.accesskey "A">
 
