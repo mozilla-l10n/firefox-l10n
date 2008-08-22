@@ -83,8 +83,8 @@
 <!ENTITY folderProps.information.label           "Informații:">
 <!ENTITY folderProps.name.label                  "Nume:">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Location:">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.location.label              "Amplasare:">
+<!ENTITY folderProps.location.accesskey          "l">
 
 <!ENTITY folderSharingTab.label                  "Partajare">
 <!ENTITY privilegesDesc.label                    "Partajează acest dosar (și altele) cu utilizatorii din rețea; afișează și ajustează privilegiile de acces">

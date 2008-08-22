@@ -1,24 +1,24 @@
 <!ENTITY offlineDialog.title "Setări pentru lucrul offline">
 
 <!ENTITY textStartUp "La pornire:">
-<!ENTITY radioRememberPrevState.label "Remember previous online state">
-<!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Ask me for online state at startup">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Always start up online">
+<!ENTITY radioRememberPrevState.label "Memorează starea online precedentă">
+<!ENTITY radioRememberPrevState.accesskey "r">
+<!ENTITY radioAskMe.label "Întreabă-mă despre starea online la pornire">
+<!ENTITY radioAskMe.accesskey "Î">
+<!ENTITY radioAlwaysOnline.label "Pornește întotdeauna online">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
 <!ENTITY textGoingOnline "Doriți să se expedieze mesajele netrimise când lucrați online?">
-<!ENTITY radioAutoSend.label "Yes">
-<!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend.label "No">
+<!ENTITY radioAutoSend.label "Da">
+<!ENTITY radioAutoSend.accesskey "D">
+<!ENTITY radioNotSend.label "Nu">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Ask me">
-<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY radioAskUnsent.label "Întreabă-mă">
+<!ENTITY radioAskUnsent.accesskey "Î">
 <!ENTITY textGoingOffline "Doriți să se descarce mesajele pentru uz offline când alegeți să lucrați offline?">
-<!ENTITY radioAutoDownload.label "Yes">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload.label "No">
-<!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload.label "Ask me">
+<!ENTITY radioAutoDownload.label "Da">
+<!ENTITY radioAutoDownload.accesskey "D">
+<!ENTITY radioNotDownload.label "Nu">
+<!ENTITY radioNotDownload.accesskey "N">
+<!ENTITY radioAskDownload.label "Întreabă-mă">
 <!ENTITY radioAskDownload.accesskey "a">

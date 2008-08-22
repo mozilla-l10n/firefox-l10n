@@ -45,7 +45,7 @@
 <!-- View menu items -->
 <!ENTITY viewMenu.label "Vizualizare">
 <!ENTITY viewmenu.accesskey "v">
-<!ENTITY compositionToolbarCmd.label "Bară redactare">
+<!ENTITY compositionToolbarCmd.label "Bară de redactare">
 <!ENTITY compositiontb.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "Bară de formatare">
 <!ENTITY formattingtb.accesskey "F">

@@ -71,5 +71,5 @@
 <!ENTITY quitApplicationCmdUnix.label  "Ieșire">
 <!ENTITY quitApplicationCmdUnix.accesskey  "e">
 
-<!ENTITY quitApplicationCmdMac.label  "Quit &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey  "q">
+<!ENTITY quitApplicationCmdMac.label  "Ieșire din &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "I">

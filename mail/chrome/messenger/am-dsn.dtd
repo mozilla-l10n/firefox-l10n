@@ -1,16 +1,16 @@
-<!ENTITY pane.title                 "Delivery Status Notification">
-<!ENTITY useGlobalPrefs.label       "Use my global Delivery Status Notification preferences for this account">
-<!ENTITY useGlobalPrefs.accesskey   "U">
-<!ENTITY useCustomPrefs.label       "Customize Delivery Status Notification for this account">
-<!ENTITY useCustomPrefs.accesskey   "C">
-<!ENTITY requestAlways.label        "When sending messages, always request a Delivery Status Notification">
-<!ENTITY requestAlways.accesskey    "W">
-<!ENTITY optionTitle.label          "Ask notification on :">
-<!ENTITY requestOnSucess.label      "Success in delivering">
-<!ENTITY requestOnSucess.accesskey  "S">
-<!ENTITY requestOnFailure.label     "Failure in delivering">
-<!ENTITY requestOnFailure.accesskey "F">
-<!ENTITY requestOnDelay.label       "Delay in delivering">
-<!ENTITY requestOnDelay.accesskey   "D">
-<!ENTITY requestNever.label         "Never receive Delivery Status Notification">
+<!ENTITY pane.title                 "Notificare asupra stadiului livrării">
+<!ENTITY useGlobalPrefs.label       "Folosește setările mele globale de notificare asupra stadiului livrării pentru acest cont">
+<!ENTITY useGlobalPrefs.accesskey   "u">
+<!ENTITY useCustomPrefs.label       "Personalizează notificările asupra stadiului livrării pentru acest cont">
+<!ENTITY useCustomPrefs.accesskey   "c">
+<!ENTITY requestAlways.label        "Cere întotdeauna notificare asupra stadiului livrării când se trimit mesaje">
+<!ENTITY requestAlways.accesskey    "C">
+<!ENTITY optionTitle.label          "Cere notificare în caz de:">
+<!ENTITY requestOnSucess.label      "Livrat cu succes">
+<!ENTITY requestOnSucess.accesskey  "s">
+<!ENTITY requestOnFailure.label     "Eroare la livrare">
+<!ENTITY requestOnFailure.accesskey "E">
+<!ENTITY requestOnDelay.label       "Întârziere la livrare">
+<!ENTITY requestOnDelay.accesskey   "Î">
+<!ENTITY requestNever.label         "Nu vreau niciodată notificare asupra stadiului livrării">
 <!ENTITY requestNever.accesskey     "N">

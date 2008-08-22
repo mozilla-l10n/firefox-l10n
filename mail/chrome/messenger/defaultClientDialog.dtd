@@ -1,7 +1,7 @@
 <!ENTITY defaultClient.title  "Client implicit">
 <!ENTITY defaultClient.intro  "Folosește &brandShortName; ca și client implicit pentru:">
 
-<!ENTITY email.label "E-Mail">
+<!ENTITY email.label "Email">
 <!ENTITY newsgroups.label "Grupuri de știri">
 <!ENTITY rss.label "Fluxuri RSS">
 

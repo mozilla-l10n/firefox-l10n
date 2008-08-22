@@ -52,10 +52,10 @@
 <!ENTITY JobTitle.accesskey                    "T">
 <!ENTITY CellularNumber.label                  "Mobil">
 <!ENTITY CellularNumber.accesskey              "M">
-<!ENTITY PagerNumber.label                     "Pager">
-<!ENTITY PagerNumber.accesskey                 "P">
-<!ENTITY FaxNumber.label                       "Fax">
-<!ENTITY FaxNumber.accesskey                   "F">
+<!ENTITY PagerNumber.label                     "Nr. de pager">
+<!ENTITY PagerNumber.accesskey                 "p">
+<!ENTITY FaxNumber.label                       "Nr. de fax">
+<!ENTITY FaxNumber.accesskey                   "f">
 <!ENTITY HomePhone.label                       "Telefon acasă">
 <!ENTITY HomePhone.accesskey                   "a">
 <!ENTITY WorkPhone.label                       "Telefon serviciu">

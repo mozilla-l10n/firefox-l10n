@@ -38,9 +38,9 @@
 <!ENTITY AdvancedEditButton.label "Editare avansată...">
 <!ENTITY AdvancedEditButton.accessKey "E">
 <!ENTITY AdvancedEditButton.tooltip "Adăugați sau modificați atribute HTML, stiluri, precum și cod JavaScript">
-<!ENTITY chooseFileButton.label "Choose File...">
+<!ENTITY chooseFileButton.label "Alegere fișier...">
 <!ENTITY chooseFileButton.accessKey "F">
-<!ENTITY chooseFileLinkButton.label "Choose File...">
+<!ENTITY chooseFileLinkButton.label "Alegere fișier...">
 <!ENTITY chooseFileLinkButton.accessKey "o">
 <!ENTITY makeUrlRelative.label "URL-ul este relativ la locația paginii">
 <!ENTITY makeUrlRelative.accessKey "R">

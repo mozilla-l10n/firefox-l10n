@@ -10,7 +10,7 @@
 <!ENTITY inline.accesskey                     "i">
 <!ENTITY asAttachment.label                   "Ca anexă">
 <!ENTITY asAttachment.accesskey               "a">
-<!ENTITY addExtension.label                   "add extension to file name">
+<!ENTITY addExtension.label                   "adaugă extensia la numele fișierului">
 <!ENTITY addExtension.accesskey               "f">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "Descarcă mai multe dicționare">
 
-<!ENTITY useMIME.label                        "Pentru mesajele care conțin caractere pe 8 biți, folosește codarea MIME „quoted printable”">
-<!ENTITY useMIME.accesskey                    "o">
 <!ENTITY warnOnSendAccelKey.label             "Confirmă trimiterea când se folosesc scurtături de taste">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "Salvează automat la fiecare">

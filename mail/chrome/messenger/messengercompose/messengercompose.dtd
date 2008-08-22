@@ -96,10 +96,10 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Bare de unelte"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
-<!ENTITY showCompositionToolbarCmd.label "Composition Toolbar">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
-<!ENTITY showFormattingBarCmd.label "Formatting Bar">
-<!ENTITY showFormattingBarCmd.accesskey "F">
+<!ENTITY showCompositionToolbarCmd.label "Bară de redactare">
+<!ENTITY showCompositionToolbarCmd.accesskey "B">
+<!ENTITY showFormattingBarCmd.label "Bară de formatare">
+<!ENTITY showFormattingBarCmd.accesskey "f">
 <!ENTITY showTaskbarCmd.label "Bară de stare">
 <!ENTITY showTaskbarCmd.accesskey "s">
 <!ENTITY customizeToolbar.label "Personalizează...">
@@ -130,7 +130,7 @@
 
 <!ENTITY returnReceiptMenu.label "Confirmare de primire">
 <!ENTITY returnReceiptMenu.accesskey "C">
-<!ENTITY dsnMenu.label "Delivery Status Notification">
+<!ENTITY dsnMenu.label "Notificare asupra stadiului livrării">
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY outputFormatMenu.label "Format trimitere">
 <!ENTITY outputFormatMenu.accesskey "F">
@@ -262,7 +262,7 @@
 <!ENTITY openAttachment.accesskey "D">
 <!ENTITY delete.label "Șterge">
 <!ENTITY delete.accesskey "Ș">
-<!ENTITY renameAttachment.label "Rename…">
+<!ENTITY renameAttachment.label "Redenumește…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selectează tot">
 <!ENTITY selectAll.accesskey "a">
