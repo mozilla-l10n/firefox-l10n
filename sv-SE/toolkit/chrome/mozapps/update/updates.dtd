@@ -10,8 +10,10 @@
 <!ENTITY  cancel.accesskey                "A">
 
 <!ENTITY  noupdatesfound.title            "Inga uppdateringar hittades">
-<!ENTITY  noupdatesfound.intro            "Det finns inga nya uppdateringar att hämta. &brandShortName; kan
-                                           regelbundet söka efter nya uppdateringar.">
+<!ENTITY  noupdatesautoenabled.intro      "Det finns inga uppdateringar att hämta. &brandShortName; kommer
+                                           regelbundet att söka efter uppdateringar.">
+<!ENTITY  noupdatesautodisabled.intro     "Det finns inga uppdateringar tillgängliga. Sök igen senare eller aktivera
+                                           den automatiska uppdateringskontrollen i &brandShortName;.">
 
 <!ENTITY  incompatibleChecking.label      "Kontrollerar om uppdateringen kommer att skapa problem för dina tillägg och/eller teman…">
 <!ENTITY  clickHere.label                 "Visa mer information om den här uppdateringen">
