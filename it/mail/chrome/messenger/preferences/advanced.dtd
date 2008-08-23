@@ -4,9 +4,13 @@
 <!ENTITY itemCertificates.label "Certificati">
 <!ENTITY showCondensedAddresses.label 'Mostra solo il "nome visualizzato" per le persone inserite nella Rubrica.'>
 <!ENTITY showCondensedAddresses.accesskey "p">
-<!ENTITY markAsRead.label "Attendi">
-<!ENTITY markAsRead.accesskey "n">
-<!ENTITY markAsReadEnd.label "secondi prima di marcare un messaggio 'letto'">
+<!ENTITY autoMarkAsRead.label "Marca automaticamente i messaggi letti">
+<!ENTITY autoMarkAsRead.accesskey "A">
+<!ENTITY markAsReadNoDelay.label "Appena mostrato">
+<!ENTITY markAsReadNoDelay.accesskey "m">
+<!ENTITY markAsReadDelay.label "Dopo averlo mostrato per">
+<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY secondsLabel.label "secondi">
 <!ENTITY showFolderColumns.label "Mostra le colonne espanse nel riquadro delle cartelle.">
 <!ENTITY showFolderColumns.accesskey "l">
 <!ENTITY rememberLastMsg.label "Ricorda l'ultimo messaggio selezionato">
