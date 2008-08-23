@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Acesta nu este un fals web…">
 <!ENTITY safeb.palm.report.label "De ce a fost acest sait blocat?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Pagina aceasta ar putea fi periculoasă; apăsați pentru detalii.">
-
 <!ENTITY safeb.blocked.malware.title "Sait de atac raportat!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Acest sait web ( <span id='malware_sitename'/> ) a fost raportat ca fiind un sait de atac și a fost blocat potrivit setărilor dumneavoastră de securitate.">

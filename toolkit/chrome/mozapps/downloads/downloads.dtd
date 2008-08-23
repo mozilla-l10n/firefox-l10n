@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "Elimină din listă descărcările terminate, anulate și eșuate">
 <!ENTITY cmd.clearList.accesskey          "u">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Închide când se termină descărcările">
 <!ENTITY closeWhenDone.tooltip            "Închide fereastra descărcărilor când toate fișierele au fost descărcate complet">
