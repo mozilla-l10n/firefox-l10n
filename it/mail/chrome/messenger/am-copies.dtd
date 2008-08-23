@@ -4,7 +4,7 @@
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Metti le risposte nella cartella dei messaggi a cui si è risposto">
 <!ENTITY fccReplyFollowsParent.accesskey "e">
-<!ENTITY chooseFolderButton.label "Scegli cartella...">
+<!ENTITY chooseFolderButton.label "Scegli cartella…">
 <!ENTITY bccAddress.label "Copia nascosta a questi indirizzi di posta:">
 <!ENTITY bccAddress.accesskey "n">
 <!ENTITY specialFolderTitle.label "Cartelle speciali">

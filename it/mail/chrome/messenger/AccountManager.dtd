@@ -1,5 +1,5 @@
 <!ENTITY accountManagerTitle.label "Impostazioni account">
-<!ENTITY addAccountButton.label "Aggiungi account...">
+<!ENTITY addAccountButton.label "Aggiungi account…">
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Imposta come predefinito">
 <!ENTITY setDefaultButton.accesskey "f">

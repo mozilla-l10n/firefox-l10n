@@ -7,5 +7,5 @@
 <!ENTITY emptyTrashOnExit.accesskey "v">
 <!ENTITY localPath.label "Cartella locale:">
 <!ENTITY localFolderPicker.label "Scegliere la cartella locale">
-<!ENTITY browseFolder.label "Sfoglia...">
+<!ENTITY browseFolder.label "Sfoglia…">
 <!ENTITY browseFolder.accesskey "S">

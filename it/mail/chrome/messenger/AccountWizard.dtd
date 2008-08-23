@@ -56,7 +56,7 @@
 <!ENTITY accnameExample.label "Ad esempio, Account lavoro, Account casa oppure Account gruppi discussione">
 <!ENTITY accnameLabel.label "Nome account:">
 <!ENTITY accnameLabel.accesskey "N">
-<!ENTITY completionTitle.label "Congratulazioni!">
+<!ENTITY completionTitle.label "Congratulazioni">
 <!ENTITY completionText.label "Verificare la correttezza delle informazioni inserite.">
 <!ENTITY serverTypePrefix.label "Tipo server in ingresso:">
 <!ENTITY serverNamePrefix.label "Nome server in ingresso:">
@@ -66,4 +66,4 @@
 <!ENTITY deferStorageDesc.label "Togliere la spunta per conservare la posta di questo account in una cartella separata. Questo sposterà l'account al primo livello. In caso contrario farà parte della cartella 'Posta in arrivo' globale delle Cartelle locali.">
 <!ENTITY deferStorage.label "Usa 'Posta in arrivo' globale (posta nelle 'Cartelle Locali')">
 <!ENTITY clickFinish.label "Premere Fine per salvare queste impostazioni ed uscire dall'autocomposizione dell'account.">
-<!ENTITY clickFinish.labelMac "Cliccare su Fatto per salvare queste impostazioni ed uscire dalla creazione guidata del nuovo account.">
+<!ENTITY clickFinish.labelMac "Clic su Fatto per salvare queste impostazioni ed uscire dalla creazione guidata del nuovo account.">

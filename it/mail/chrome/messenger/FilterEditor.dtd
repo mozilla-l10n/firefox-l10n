@@ -1,4 +1,4 @@
-<!ENTITY window.title "Regole del Filtro">
+<!ENTITY window.title "Regole del filtro">
 <!ENTITY filterName.label "Nome del filtro:">
 <!ENTITY filterName.accesskey "f">
 <!ENTITY junk.label "Indesiderata">
@@ -15,7 +15,7 @@
 <!ENTITY contextBoth.label "Durante il controllo della posta o in modalità manuale">
 <!ENTITY filterActionDesc.label "Esegui queste azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
-<!ENTITY newFolderButton.label "Nuova cartella...">
+<!ENTITY newFolderButton.label "Nuova cartella…">
 <!ENTITY newFolderButton.accesskey "N">
 <!ENTITY moveMessage.label "Sposta i messaggi in">
 <!ENTITY copyMessage.label "Copia il messaggio in">

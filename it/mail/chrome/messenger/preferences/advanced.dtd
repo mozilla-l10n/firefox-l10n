@@ -26,17 +26,17 @@
 <!ENTITY connectionTimeout.accesskey "C">
 <!ENTITY connectionSeconds.label "secondi">
 <!ENTITY configEditDesc.label "Impostazioni avanzate">
-<!ENTITY configEdit.label "Editor di configurazione...">
+<!ENTITY configEdit.label "Editor di configurazione…">
 <!ENTITY configEdit.accesskey "g">
 <!ENTITY returnReceiptsInfo.label "Determina come &brandShortName; si comporta con le ricevute di ritorno">
-<!ENTITY showReturnReceipts.label "Ricevute di ritorno...">
+<!ENTITY showReturnReceipts.label "Ricevute di ritorno…">
 <!ENTITY showReturnReceipts.accesskey "R">
 <!ENTITY autoCheck.label "Controlla automaticamente gli aggiornamenti di:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Componenti aggiuntivi installati">
 <!ENTITY enableAddonsUpdate.accesskey "t">
-<!ENTITY checkNow.label "Controlla ora...">
+<!ENTITY checkNow.label "Controlla ora…">
 <!ENTITY whenUpdatesFound.label "Quando si trovano aggiornamenti di &brandShortName;,">
 <!ENTITY modeAskMe.label "Chiedi cosa fare">
 <!ENTITY modeAskMe.accesskey "e">
@@ -46,13 +46,13 @@
 <!ENTITY modeAutoAddonWarn.accesskey "ò">
 <!ENTITY showUpdates.label "Mostra cronologia aggiornamenti">
 <!ENTITY showUpdates.accesskey "o">
-<!ENTITY showConnections.label "Connessione...">
+<!ENTITY showConnections.label "Connessione…">
 <!ENTITY showConnections.accesskey "n">
 <!ENTITY proxiesInfo.label "Stabilire come &brandShortName; si connette ad internet.">
 <!ENTITY connectionsInfo.caption "Connessione">
 <!ENTITY offlineInfo.caption "Non in linea">
 <!ENTITY offlineInfo.label "Configurare le impostazioni 'non in linea'">
-<!ENTITY showOffline.label "Non in linea...">
+<!ENTITY showOffline.label "Non in linea…">
 <!ENTITY showOffline.accesskey "O">
 <!ENTITY Diskspace "Spazio su disco">
 <!ENTITY offlineCompact.label "Compatta le cartelle solo se si guadagnano più di ">

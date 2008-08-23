@@ -28,7 +28,7 @@
 <!ENTITY masterPassword.intro "Una volta impostata, la Password principale proteggerà tutte le altre password; sarà però obbligatorio digitarla una volta per sessione.">
 <!ENTITY setMasterPassword.label "Password principale">
 <!ENTITY setMasterPassword.accesskey "P">
-<!ENTITY removeMasterPassword.label "Elimina la Password principale...">
+<!ENTITY removeMasterPassword.label "Elimina la Password principale…">
 <!ENTITY removeMasterPassword.accesskey "R">
 <!ENTITY editPasswords.label "Modifica password salvate">
 <!ENTITY editPasswords.accesskey "i">

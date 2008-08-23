@@ -6,7 +6,7 @@
 <!ENTITY alwaysEncryptMessage.label "Sempre (impedisce la spedizione se non tutti i destinatari hanno un certificato)">
 <!ENTITY encryptionCert.message "Utilizza il seguente certificato per cifrare o decifrare i messaggi ricevuti:">
 <!ENTITY encryptionCert.notselected "Nessun certificato impostato">
-<!ENTITY certificate.button "Seleziona...">
+<!ENTITY certificate.button "Seleziona…">
 <!ENTITY certificate_clear.button "Pulisci">
 <!ENTITY signingGroupTitle.label "Firma digitale">
 <!ENTITY signMessage.label "Apponi una firma digitale ai messaggi">

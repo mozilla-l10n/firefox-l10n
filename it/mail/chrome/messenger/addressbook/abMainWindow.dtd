@@ -3,14 +3,14 @@
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "Nuovo">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "Contatto in Rubrica...">
+<!ENTITY newCard.label "Contatto in Rubrica…">
 <!ENTITY newCard.accesskey "o">
 <!ENTITY newCard.key "N">
-<!ENTITY newListCmd.label "Lista di distribuzione...">
+<!ENTITY newListCmd.label "Lista di distribuzione…">
 <!ENTITY newListCmd.accesskey "L">
-<!ENTITY newAddressBookCmd.label "Rubrica...">
+<!ENTITY newAddressBookCmd.label "Rubrica…">
 <!ENTITY newAddressBookCmd.accesskey "R">
-<!ENTITY newLDAPDirectoryCmd.label "Rubrica remota LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label "Rubrica remota LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "Messaggio">
 <!ENTITY newMessageCmd.key "M">
@@ -20,16 +20,16 @@
 <!ENTITY closeCmd.label "Chiudi">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
-<!ENTITY printSetupCmd.label "Imposta pagina...">
+<!ENTITY printSetupCmd.label "Imposta pagina…">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printPreviewCardViewCmd.label "Anteprima stampa contatto">
 <!ENTITY printPreviewCardViewCmd.accesskey "A">
 <!ENTITY printPreviewAddressBook.label "Anteprima rubrica">
 <!ENTITY printPreviewAddressBook.accesskey "A">
-<!ENTITY printCardViewCmd.label "Stampa indirizzo...">
+<!ENTITY printCardViewCmd.label "Stampa indirizzo…">
 <!ENTITY printCardViewCmd.accesskey "S">
 <!ENTITY printCardViewCmd.key "P">
-<!ENTITY printAddressBook.label "Stampa rubrica indirizzi...">
+<!ENTITY printAddressBook.label "Stampa rubrica indirizzi…">
 <!ENTITY printAddressBook.accesskey "m">
 <!ENTITY quitApplicationCmdWin.label "Esci">
 <!ENTITY quitApplicationCmdWin.accesskey "E">
@@ -69,7 +69,7 @@
 <!ENTITY swapFirstNameLastNameCmd.label "Scambia Nome/Cognome">
 <!ENTITY swapFirstNameLastNameCmd.accesskey "m">
 <!ENTITY hideSwapFnLnUI "vero">
-<!ENTITY propertiesCmd.label "Proprietà...">
+<!ENTITY propertiesCmd.label "Proprietà…">
 <!ENTITY propertiesCmd.accesskey "r">
 <!ENTITY propertiesCmd.key "i">
 <!ENTITY viewMenu.label "Vista">
@@ -80,7 +80,7 @@
 <!ENTITY showAbToolbarCmd.accesskey "R">
 <!ENTITY showTaskbarCmd.label "Barra di stato">
 <!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY customizeToolbar.label "Personalizza...">
+<!ENTITY customizeToolbar.label "Personalizza…">
 <!ENTITY customizeToolbar.accesskey "P">
 <!ENTITY showCardPane.label "Vista della scheda">
 <!ENTITY showCardPane.accesskey "V">
@@ -99,13 +99,13 @@
 <!ENTITY messengerCmd.label "Posta e gruppi di discussione">
 <!ENTITY messengerCmd.accesskey "g">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY searchAddressesCmd.label "Cerca indirizzi...">
+<!ENTITY searchAddressesCmd.label "Cerca indirizzi…">
 <!ENTITY searchAddressesCmd.accesskey "C">
-<!ENTITY importCmd.label "Importa...">
+<!ENTITY importCmd.label "Importa…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY exportCmd.label "Esporta...">
+<!ENTITY exportCmd.label "Esporta…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd.label "Opzioni...">
+<!ENTITY preferencesCmd.label "Opzioni…">
 <!ENTITY preferencesCmd.key "O">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferenze">

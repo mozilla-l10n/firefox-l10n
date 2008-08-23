@@ -3,7 +3,7 @@
 <!ENTITY addressingText.label "Quando si cercano indirizzi:">
 <!ENTITY useGlobal.label "Usa le mie preferenze globali per i server LDAP per questo account">
 <!ENTITY useGlobal.accesskey "U">
-<!ENTITY editDirectories.label "Modifica cartelle...">
+<!ENTITY editDirectories.label "Modifica cartelle…">
 <!ENTITY editDirectories.accesskey "M">
 <!ENTITY directories.label "Usa un diverso server LDAP:">
 <!ENTITY directories.accesskey "d">
