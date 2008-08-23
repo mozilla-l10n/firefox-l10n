@@ -4,6 +4,8 @@
 <!ENTITY viewAll.accesskey "T">
 <!ENTITY viewUnread.label "Non letti">
 <!ENTITY viewUnread.accesskey "N">
+<!ENTITY viewNotDeleted.label "Non cancellati">
+<!ENTITY viewNotDeleted.accesskey "c">
 <!ENTITY viewTags.label "Etichette">
 <!ENTITY viewTags.accesskey "E">
 <!ENTITY viewCustomViews.label "Viste personalizzate">

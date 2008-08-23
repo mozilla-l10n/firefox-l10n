@@ -88,6 +88,8 @@
 <!ENTITY selectThreadCmd.label "Discussione">
 <!ENTITY selectThreadCmd.accesskey "D">
 <!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Messaggi speciali">
+<!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Cartella preferita">
 <!ENTITY menuFavoriteFolder.accesskey "t">
 <!ENTITY folderPropsCmd.label "Proprietà...">
@@ -326,6 +328,9 @@
 <!ENTITY killThreadMenu.label "Ignora la discussione">
 <!ENTITY killThreadMenu.accesskey "o">
 <!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Ignora sotto discussioni">
+<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Tieni d'occhio la discussione">
 <!ENTITY watchThreadMenu.accesskey "O">
 <!ENTITY watchThreadMenu.key "O">
@@ -397,6 +402,10 @@
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Esegui filtri nella cartella selezionata">
 <!ENTITY filtersApply.accesskey "E">
+<!ENTITY filtersApplyToSelection.label "Esegui i filtri sui messaggi selezionati">
+<!ENTITY filtersApplyToSelection.accesskey "S">
+<!ENTITY filtersApplyToMessage.label "Esegui i filtri sul messaggio">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY getMsgButton.label "Scarica posta">
 <!ENTITY newMsgButton.label "Scrivi">
 <!ENTITY replyButton.label "Rispondi">

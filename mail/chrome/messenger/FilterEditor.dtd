@@ -8,7 +8,11 @@
 <!ENTITY normalPriorityCmd.label "Normale">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Massima">
-<!ENTITY conditionDesc.label "Per i messaggi in entrata che:">
+<!ENTITY contextDesc.label "Applica il filtro quando:">
+<!ENTITY contextDesc.accesskey "A">
+<!ENTITY contextIncoming.label "durante il controllo della posta">
+<!ENTITY contextManual.label "manualmente">
+<!ENTITY contextBoth.label "Durante il controllo della posta o in modalità manuale">
 <!ENTITY filterActionDesc.label "Esegui queste azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
 <!ENTITY newFolderButton.label "Nuova cartella...">
@@ -26,5 +30,6 @@
 <!ENTITY deleteFromPOP.label "Cancella dal server POP">
 <!ENTITY fetchFromPOP.label "Scarica dal server POP">
 <!ENTITY ignoreThread.label "Ignora la discussione">
+<!ENTITY ignoreSubthread.label "Ignora le sotto discussioni">
 <!ENTITY watchThread.label "Tieni d'occhio la discussione">
 <!ENTITY stopExecution.label "Ferma l'esecuzione dei filtri">
