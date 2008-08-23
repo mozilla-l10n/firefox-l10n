@@ -9,7 +9,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Traducători</h3><ul><li>Alexandru Szasz</li><li>Iulian Ursache-Dogariu</li><li>Cristian Brînză</li></ul>">
+<!ENTITY credit.translation "<h3>Au tradus pentru dumneavoastră</h3><ul><li>Alexandru Szasz</li><li>Comunitatea de pe narro.i18n.ro</li></ul>">
 
 <!ENTITY credit.memory      "In memoriam">
 <!ENTITY credit.poweredByGeckoReg "Bazat pe Gecko&reg;">

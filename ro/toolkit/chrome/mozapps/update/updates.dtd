@@ -10,7 +10,8 @@
 <!ENTITY  cancel.accesskey                "R">
 
 <!ENTITY  noupdatesfound.title            "Nu s-au găsit actualizări">
-<!ENTITY  noupdatesfound.intro            "Nu sunt disponibile actualizări noi. &brandShortName; poate verifica periodic dacă sunt disponibile actualizări noi.">
+<!ENTITY  noupdatesautoenabled.intro      "Nu sunt actualizări disponibile. &brandShortName; va verifica periodic dacă există actualizări.">
+<!ENTITY  noupdatesautodisabled.intro     "Nu sunt actualizări disponibile. Încercați din nou mai târziu sau activați verificarea automată de actualizări &brandShortName;.">
 
 <!ENTITY  incompatibleChecking.label      "Se verifică dacă această actualizare are probleme cu extensiile și/sau temele dumneavoastră...">
 <!ENTITY  clickHere.label                 "Mai multe informații despre această actualizare">
