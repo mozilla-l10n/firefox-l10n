@@ -2,5 +2,5 @@
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.label "Messaggio">
 <!ENTITY newMessageCmd.accesskey "M">
-<!ENTITY newCardCmd.label "Contatto in Rubrica...">
+<!ENTITY newCardCmd.label "Contatto in Rubrica…">
 <!ENTITY newCardCmd.accesskey "o">

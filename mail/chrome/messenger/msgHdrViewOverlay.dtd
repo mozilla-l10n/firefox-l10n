@@ -17,18 +17,18 @@
 <!ENTITY inReplyToField.label "In-risposta-a:">
 <!ENTITY originalWebsite.label "Sito Web:">
 <!ENTITY saveAll.label "Salva tutti..">
-<!ENTITY editMessage.label "Modifica Bozza...">
+<!ENTITY editMessage.label "Modifica Bozza…">
 <!ENTITY openAttachmentCmd.label "Apri">
 <!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsAttachmentCmd.label "Salva come...">
+<!ENTITY saveAsAttachmentCmd.label "Salva come…">
 <!ENTITY saveAsAttachmentCmd.accesskey "v">
-<!ENTITY detachAttachmentCmd.label "Separa...">
+<!ENTITY detachAttachmentCmd.label "Separa…">
 <!ENTITY deleteAttachmentCmd.label "Elimina">
-<!ENTITY saveAllAttachmentsCmd.label "Salva tutti...">
+<!ENTITY saveAllAttachmentsCmd.label "Salva tutti…">
 <!ENTITY saveAllAttachmentsCmd.accesskey "t">
-<!ENTITY detachAllAttachmentsCmd.label "Separa tutto...">
+<!ENTITY detachAllAttachmentsCmd.label "Separa tutto…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "S">
-<!ENTITY deleteAllAttachmentsCmd.label "Elimina tutti...">
+<!ENTITY deleteAllAttachmentsCmd.label "Elimina tutti…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">
 <!ENTITY copyLinkCmd.label "Copia indirizzo">
 <!ENTITY copyLinkCmd.accesskey "C">

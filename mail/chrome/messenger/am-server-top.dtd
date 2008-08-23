@@ -66,12 +66,12 @@
 <!ENTITY abbreviate.label "Mostra nome del gruppo di discussione nel pannello della posta così:">
 <!ENTITY abbreviateOn.label "Nomi completi (Per esempio, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nomi abbreviati (Per esempio, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Avanzate...">
+<!ENTITY advancedButton.label "Avanzate…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Codifica carattere predefinita:">
 <!ENTITY localFolderPicker.label "Scegliere la cartella locale">
-<!ENTITY browseFolder.label "Sfoglia...">
+<!ENTITY browseFolder.label "Sfoglia…">
 <!ENTITY browseFolder.accesskey "S">
 <!ENTITY newsrcPicker.label "Seleziona il file newsrc">
-<!ENTITY browseNewsrc.label "Sfoglia...">
+<!ENTITY browseNewsrc.label "Sfoglia…">
 <!ENTITY browseNewsrc.accesskey "o">

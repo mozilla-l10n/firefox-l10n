@@ -14,14 +14,14 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signature.label "Allega questa firma:">
 <!ENTITY signature.accesskey "l">
-<!ENTITY edit.label "Modifica...">
-<!ENTITY choose.label "Scegliere...">
+<!ENTITY edit.label "Modifica…">
+<!ENTITY choose.label "Scegliere…">
 <!ENTITY choose.accesskey "C">
-<!ENTITY editVCard.label "Modifica scheda...">
+<!ENTITY editVCard.label "Modifica scheda…">
 <!ENTITY editVCard.accesskey "d">
 <!ENTITY attachVCard.label "Allega biglietto da visita elettronico (vCard) ai messaggi">
 <!ENTITY attachVCard.accesskey "v">
-<!ENTITY manageIdentities.label "Gestione identità...">
+<!ENTITY manageIdentities.label "Gestione identità…">
 <!ENTITY manageIdentities.accesskey "G">
 <!ENTITY smtpName.label "Server in uscita (SMTP)">
 <!ENTITY smtpName.accesskey "u">

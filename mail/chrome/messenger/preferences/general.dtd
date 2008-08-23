@@ -13,12 +13,12 @@
 <!ENTITY useDefault.accesskey "R">
 <!ENTITY bounceSystemDockIcon.label "Anima l'icona nel dock">
 <!ENTITY bounceSystemDockIcon.accesskey "i">
-<!ENTITY newMessagesArrive.label "Quando arriva un messaggio:">
-<!ENTITY playSound.label "Emetti un suono">
+<!ENTITY newMessagesArrive.label "All'arrivo di un messaggio:">
+<!ENTITY playSound.label "Riproduci un suono">
 <!ENTITY playSound1.accesskey "E">
 <!ENTITY showAnimatedAlert.label "Mostra un avviso">
 <!ENTITY showAnimatedAlert.accesskey "M">
-<!ENTITY customizeMailAlert.label "Personalizza...">
+<!ENTITY customizeMailAlert.label "Personalizza…">
 <!ENTITY customizeMailAlert.accesskey "z">
 <!ENTITY soundNotification1.caption "Suono">
 <!ENTITY play.label "Ascolta">
@@ -29,5 +29,5 @@
 <!ENTITY systemsound.accesskey "p">
 <!ENTITY customsound.label "Usa questo file sonoro">
 <!ENTITY customsound.accesskey "U">
-<!ENTITY browse.label "Sfoglia...">
+<!ENTITY browse.label "Sfoglia…">
 <!ENTITY browse.accesskey "S">

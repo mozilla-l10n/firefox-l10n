@@ -23,9 +23,9 @@
 <!ENTITY retentionKeepUnread.accesskey "w">
 <!ENTITY nntpRemoveBody.label "Solo i messaggi non più vecchi di ">
 <!ENTITY nntpRemoveBody.accesskey "o">
-<!ENTITY offlineSelectNntp.label "Selezionare i gruppi di discussione per uso non in linea...">
+<!ENTITY offlineSelectNntp.label "Selezionare i gruppi di discussione per uso non in linea…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "Selezionare le cartelle per l'uso non in linea...">
+<!ENTITY offlineSelectImap.label "Selezionare le cartelle per l'uso non in linea…">
 <!ENTITY offlineSelectImap.accesskey "S">
 <!ENTITY offlineDesc.label "È possibile scaricare localmente la posta in modo che sia ancora disponibile una volta disconnessi.">
 <!ENTITY makeInboxMsgsAvailable.label "Rendi disponibili i messaggi nella cartella &quot;Posta in arrivo&quot; anche non in linea">

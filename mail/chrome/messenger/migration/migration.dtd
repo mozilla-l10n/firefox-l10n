@@ -17,7 +17,7 @@
 <!ENTITY importItems.title "Elementi da importare">
 <!ENTITY importItems.label "Selezionare elementi da importare:">
 <!ENTITY migrating.title "Importazione in corso">
-<!ENTITY migrating.label "Importazione in corso dei seguenti oggetti...">
+<!ENTITY migrating.label "Importazione in corso dei seguenti oggetti…">
 <!ENTITY selectProfile.title "Seleziona un profilo">
 <!ENTITY selectProfile.label "Sono disponibili per l'importazione i seguenti profili: ">
 <!ENTITY done.title "Importazione completata">

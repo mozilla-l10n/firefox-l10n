@@ -10,7 +10,7 @@
 <!ENTITY sendMessage.accesskey "a">
 <!ENTITY workOffline.label "Scollega una volta scaricati e/o sincronizzati i messaggi">
 <!ENTITY workOffline.accesskey "c">
-<!ENTITY selectButton.label "Seleziona...">
+<!ENTITY selectButton.label "Seleziona…">
 <!ENTITY selectButton.accesskey "S">
 <!ENTITY MsgSelectDesc.label "Selezionare le cartelle di posta e dei gruppi di discussione che si desidera disponibili scollegati.">
 <!ENTITY MsgSelectInd.label "Da scaricare">

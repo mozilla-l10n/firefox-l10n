@@ -25,7 +25,7 @@
 <!ENTITY selectAllCmd.label "Seleziona tutto">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
-<!ENTITY preferencesCmd.label "Opzioni...">
+<!ENTITY preferencesCmd.label "Opzioni…">
 <!ENTITY preferencesCmd.accesskey "P">
 <!ENTITY preferencesCmdUnix.label "Preferenze">
 <!ENTITY preferencesCmdUnix.accesskey "p">
@@ -43,7 +43,7 @@
 <!ENTITY manual.accesskey "m">
 <!ENTITY pac.label "In linea (proxy: auto)">
 <!ENTITY pac.accesskey "a">
-<!ENTITY proxy.label "Configurazione proxy...">
+<!ENTITY proxy.label "Configurazione proxy…">
 <!ENTITY proxy.accesskey "C">
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">

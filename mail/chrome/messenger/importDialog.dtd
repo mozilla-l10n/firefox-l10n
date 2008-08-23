@@ -18,7 +18,7 @@
 <!ENTITY cancel.label "Annulla">
 <!ENTITY select.label "o seleziona il tipo di materiale da importare:">
 <!ENTITY title.label "Titolo">
-<!ENTITY processing.label "Importazione in corso...">
+<!ENTITY processing.label "Importazione in corso…">
 <!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x ha un indirizzo di posta per ogni scheda, mentre &brandShortName; ne ha due (Casa e Ufficio).">
 <!ENTITY FieldDiscInputText2.label "Selezionare la categoria nella quale immagazzinare gli indirizzi di posta importati:">
 <!ENTITY FieldDiscWarning.label "Questa sezione sarà utilizzata per tutte le voci della rubrica selezionata: ">

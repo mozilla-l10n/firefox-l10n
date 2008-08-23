@@ -16,9 +16,9 @@
 <!ENTITY HTMLTab.accesskey "h">
 <!ENTITY PlainTextTab.label "Domini testo semplice">
 <!ENTITY PlainTextTab.accesskey "D">
-<!ENTITY AddHtmlDomain.label "Aggiungere...">
+<!ENTITY AddHtmlDomain.label "Aggiungere…">
 <!ENTITY AddHtmlDomain.accesskey "a">
-<!ENTITY AddPlainText.label "Aggiungere...">
+<!ENTITY AddPlainText.label "Aggiungere…">
 <!ENTITY AddPlainText.accesskey "g">
 <!ENTITY DeleteHtmlDomain.label "Cancellare">
 <!ENTITY DeleteHtmlDomain.accesskey "l">
