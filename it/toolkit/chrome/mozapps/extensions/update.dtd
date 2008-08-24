@@ -18,7 +18,7 @@
 <!ENTITY found.disabledXPinstall.label "Questi aggiornamenti non possono essere installati poiché l'installazione di software è stata disattivata. È possibile modificare questa impostazione qui sotto.">
 <!ENTITY found.enableXPInstall.label "Permetti ai siti web di installare software">
 <!ENTITY found.enableXPInstall.accesskey "P">
-<!ENTITY installing.wizard.title "Installazione in corso di componenti aggiuntivi compatibili">
+<!ENTITY installing.wizard.title "Installazione in corso dei componenti aggiuntivi compatibili">
 <!ENTITY installing.top.label "Download e installazione degli aggiornamenti per i componenti aggiuntivi…">
 <!ENTITY noupdates.wizard.title "Nessun componente compatibile trovato">
 <!ENTITY noupdates.intro.desc "Impossibile trovare aggiornamenti per i componenti aggiuntivi incompatibili.">
