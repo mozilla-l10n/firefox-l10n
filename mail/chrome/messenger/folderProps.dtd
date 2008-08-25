@@ -23,6 +23,9 @@
    -   Mohan Bhamidipati <mohanb@netscape.com>
    -   Lorenzo Colitti   <lorenzo@colitti.com>
    -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+	-   Gintautas Grigas <grigas@ktl.mii.lt>
+	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -57,8 +60,8 @@
 <!ENTITY daysOld.label "dienų">
 <!ENTITY message.label " naujausių laiškų">
 <!ENTITY retentionCleanup.label "Taupant vietą diske nuolat šalinti senus laiškus">
-<!ENTITY retentionKeepMsg.label "palikti laiškus, gautus per pastarąsias">
-<!ENTITY retentionKeepMsg.accesskey "p">
+<!ENTITY retentionDeleteMsg.label "šalinti laiškus, gautus seniau, nei prieš">
+<!ENTITY retentionDeleteMsg.accesskey "g">
 <!ENTITY retentionKeepAll.label "palikti visus laiškus">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepNew.label "palikti">
