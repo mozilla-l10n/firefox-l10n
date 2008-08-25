@@ -7,9 +7,9 @@
 <!ENTITY rememberDownloads.label "Recordar las descargas">
 <!ENTITY rememberDownloads.accesskey "d">
 <!ENTITY cookies.label "Cookies">
-<!ENTITY acceptCookies.label "Aceptar cookies de las webs">
+<!ENTITY acceptCookies.label "Aceptar cookies">
 <!ENTITY acceptCookies.accesskey "c">
-<!ENTITY acceptThirdParty.label "Aceptar cookies de terceros">
+<!ENTITY acceptThirdParty.label "Incluso las de terceros">
 <!ENTITY acceptThirdParty.accesskey "p">
 <!ENTITY keepUntil.label "Mantener hasta que:">
 <!ENTITY keepUntil.accesskey "M">
