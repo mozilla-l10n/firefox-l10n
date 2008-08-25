@@ -63,8 +63,8 @@
 <!ENTITY retentionDownloadMsg.label "senesnius nei">
 <!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Palikti laiškus:">
-<!ENTITY retentionKeepMsg.label "gautus per pastarąsias">
-<!ENTITY retentionKeepMsg.accesskey "g">
+<!ENTITY retentionDeleteMsg.label "šalinti laiškus, gautus seniau, nei prieš">
+<!ENTITY retentionDeleteMsg.accesskey "g">
 <!ENTITY retentionKeepAll.label "visus">
 <!ENTITY retentionKeepAll.accesskey "v">
 <!ENTITY retentionKeepNew.label "tik">
