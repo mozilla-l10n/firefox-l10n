@@ -56,8 +56,8 @@
 <!ENTITY daysOld.label "jours">
 <!ENTITY message.label "derniers messages">
 <!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement">
-<!ENTITY retentionKeepMsg.label "Supprimer les messages agés de plus de">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "Supprimer les messages ayant plus de ">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ne supprimer aucun message">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepNew.label "Supprimer tous les messages sauf les">

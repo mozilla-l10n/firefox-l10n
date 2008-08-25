@@ -60,8 +60,8 @@
 <!ENTITY retentionDownloadMsg.label "Messages de plus de">
 <!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Conserver :">
-<!ENTITY retentionKeepMsg.label "Messages reçus ces ">
-<!ENTITY retentionKeepMsg.accesskey "M">
+<!ENTITY retentionDeleteMsg.label "Supprimer les messages ayant plus de ">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Tous les messages">
 <!ENTITY retentionKeepAll.accesskey "T">
 <!ENTITY retentionKeepNew.label "Les plus récents">

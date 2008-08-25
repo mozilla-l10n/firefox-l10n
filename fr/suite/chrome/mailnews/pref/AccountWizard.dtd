@@ -9,10 +9,10 @@
 <!ENTITY accountTypeTitle.label "Paramétrage du nouveau compte">
 <!ENTITY accountTypeDesc.label "Cet assistant va collecter les informations nécessaires à la création d'un compte Courrier et Groupes. Si vous êtes incapable de répondre à certaines questions, veuillez contacter votre administrateur système ou votre Fournisseur d'Accès à Internet.">
 <!ENTITY accountTypeDirections.label "Sélectionnez le type de compte que vous voulez créer :">
-<!ENTITY accountTypeMail.label "Compte Courrier">
+<!ENTITY accountTypeMail.label "Compte courrier électronique">
 <!ENTITY accountTypeMail.accesskey "C">
-<!ENTITY accountTypeNews.label "Compte Groupes">
-<!ENTITY accountTypeNews.accesskey "F">
+<!ENTITY accountTypeNews.label "Compte groupes de discussion">
+<!ENTITY accountTypeNews.accesskey "d">
 
 <!-- Entities for Identity page -->
 
