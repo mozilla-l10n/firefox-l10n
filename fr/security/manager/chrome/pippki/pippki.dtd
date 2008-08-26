@@ -131,3 +131,7 @@
 <!ENTITY protectedAuth.title "Authentification protégée par jeton">
 <!ENTITY protectedAuth.msg "Veuillez vous authentifier au jeton. La méthode d'authentification dépend du type de votre jeton.">
 <!ENTITY protectedAuth.tokenName.label "Jeton :">
+
+<!ENTITY certErrorDlg.title "La connexion sécurisée a échoué">
+<!ENTITY certErrorDlg.info1 "Ceci peut être un problème de configuration du serveur ou quelqu'un essaie d'usurper l'identité du serveur.">
+<!ENTITY certErrorDlg.info2 "Si vous vous êtes déjà connecté avec succès à ce serveur auparavant, l'erreur peut être temporaire et vous pouvez essayer de vous reconnecter plus tard.">
