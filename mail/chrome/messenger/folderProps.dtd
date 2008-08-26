@@ -54,8 +54,8 @@
 <!ENTITY daysOld.label "дней">
 <!ENTITY message.label "сообщений">
 <!ENTITY retentionCleanup.label "Для высвобождения места на диске старые сообщения могут быть удалены">
-<!ENTITY retentionKeepMsg.label "Удалять сообщения старше">
-<!ENTITY retentionKeepMsg.accesskey "с">
+<!ENTITY retentionDeleteMsg.label "Удалять сообщения старше">
+<!ENTITY retentionDeleteMsg.accesskey "с">
 <!ENTITY retentionKeepAll.label "Не удалять сообщения">
 <!ENTITY retentionKeepAll.accesskey "Н">
 <!ENTITY retentionKeepNew.label "Удалять все, кроме последних">

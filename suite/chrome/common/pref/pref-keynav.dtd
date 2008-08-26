@@ -13,7 +13,7 @@
 <!ENTITY findAsYouTypeSound.label "Подать звуковой сигнал, если набранный текст не найден">
 <!ENTITY findAsYouTypeSound.accesskey "П">
 <!ENTITY findAsYouTypeEnableAuto.label "Использовать автоматически для поиска:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "И">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "с">
 <!ENTITY findAsYouTypeAutoText.label "Любого текста на странице">
 <!ENTITY findAsYouTypeAutoText.accesskey "Л">
 <!ENTITY findAsYouTypeAutoLinks.label "Только ссылок">
