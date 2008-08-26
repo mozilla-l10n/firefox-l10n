@@ -1,7 +1,7 @@
-<!ENTITY newPagesIn.label "Las nuevas páginas deben abrirse en:">
-<!ENTITY inNewWindow.label "una nueva ventana">
+<!ENTITY newPagesIn.label "Las páginas nuevas deben abrirse en:">
+<!ENTITY inNewWindow.label "una ventana nueva">
 <!ENTITY inNewWindow.accesskey "v">
-<!ENTITY inNewTab.label "una nueva pestaña">
+<!ENTITY inNewTab.label "una pestaña nueva">
 <!ENTITY inNewTab.accesskey "n">
 <!ENTITY warnCloseMultipleTabs.label "Advertir al cerrar múltiples pestañas">
 <!ENTITY warnCloseMultipleTabs.accesskey "A">
@@ -9,5 +9,5 @@
 <!ENTITY warnOpenManyTabs.accesskey "d">
 <!ENTITY showTabBar.label "Mostrar siempre la barra de pestañas">
 <!ENTITY showTabBar.accesskey "b">
-<!ENTITY switchToNewTabs.label "Al abrir un enlace en una nueva pestaña, cambiar a ésta inmediatamente">
+<!ENTITY switchToNewTabs.label "Al abrir un enlace en una pestaña nueva, cambiar a ésta inmediatamente">
 <!ENTITY switchToNewTabs.accesskey "C">
