@@ -58,8 +58,8 @@
 <!ENTITY retentionDownloadMsg.label "Загружать сообщения только за последние">
 <!ENTITY retentionDownloadMsg.accesskey "п">
 <!ENTITY retentionCleanup.label "Хранить:">
-<!ENTITY retentionKeepMsg.label "Сообщения которые прибыли в течении последних">
-<!ENTITY retentionKeepMsg.accesskey "т">
+<!ENTITY retentionDeleteMsg.label "Удалять сообщения старше">
+<!ENTITY retentionDeleteMsg.accesskey "с">
 <!ENTITY retentionKeepAll.label "Все сообщения">
 <!ENTITY retentionKeepAll.accesskey "В">
 <!ENTITY retentionKeepNew.label "Последние">
