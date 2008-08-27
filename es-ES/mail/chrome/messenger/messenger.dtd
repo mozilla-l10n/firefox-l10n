@@ -402,9 +402,13 @@
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Ejecutar filtros en la carpeta">
 <!ENTITY filtersApply.accesskey "R">
+<!ENTITY filtersApplyToSelection.label "Ejecutar filtros en los mensajes seleccionados">
 <!ENTITY getMsgButton.label "Recibir">
+<!ENTITY filtersApplyToSelection.accesskey "S">
 <!ENTITY newMsgButton.label "Redactar">
+<!ENTITY filtersApplyToMessage.label "Ejecutar filtros en el mensaje">
 <!ENTITY replyButton.label "Responder">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY replyAllButton.label "Resp. a todos">
 <!ENTITY forwardButton.label "Reenviar">
 <!ENTITY fileButton.label "Archivo">

@@ -5,7 +5,7 @@
 <!ENTITY showCondensedAddresses.label "Mostrar sólo el atributo 'nombre mostrado' para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "s">
 <!ENTITY autoMarkAsRead.label "Marcar mensajes automáticamente como leídos">
-<!ENTITY autoMarkAsRead.accesskey "M">
+<!ENTITY autoMarkAsRead.accesskey "m">
 <!ENTITY markAsReadNoDelay.label "Inmediatamente tras mostrarlo">
 <!ENTITY markAsReadNoDelay.accesskey "d">
 <!ENTITY markAsReadDelay.label "Tras mostrarlo durante">
