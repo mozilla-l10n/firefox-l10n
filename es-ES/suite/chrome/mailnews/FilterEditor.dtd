@@ -1,7 +1,7 @@
 <!--null-->
 <!ENTITY window.title "Reglas de filtrado">
 <!ENTITY filterName.label "Nombre del filtro:">
-<!ENTITY filterName.accesskey "i">
+<!ENTITY filterName.accesskey "f">
 <!ENTITY junk.label "Basura">
 <!ENTITY notJunk.label "No es basura">
 <!ENTITY lowestPriorityCmd.label "La menor">
@@ -9,10 +9,15 @@
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "La mayor">
+<!ENTITY contextDesc.label "Aplicar filtro cuando:">
 <!ENTITY conditionDesc.label "Para mensajes nuevos que cumplan:">
+<!ENTITY contextDesc.accesskey "u">
 <!ENTITY filterActionDesc.label "Realizar estas acciones:">
+<!ENTITY contextIncoming.label "se compruebe el correo">
 <!ENTITY filterActionDesc.accesskey "R">
+<!ENTITY contextManual.label "se ejecute manualmente">
 <!ENTITY newFolderButton.label "Nueva carpeta…">
+<!ENTITY contextBoth.label "se compruebe el correo o se ejecute manualmente">
 <!ENTITY newFolderButton.accesskey "N">
 <!ENTITY moveMessage.label "Mover mensaje a">
 <!ENTITY copyMessage.label "Copiar mensaje a">
