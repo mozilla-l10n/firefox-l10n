@@ -454,6 +454,10 @@
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Spustiť filtre na priečinok">
 <!ENTITY filtersApply.accesskey "S">
+<!ENTITY filtersApplyToSelection.label "Spustiť filtre na označené správy">
+<!ENTITY filtersApplyToSelection.accesskey "z">
+<!ENTITY filtersApplyToMessage.label "Spustiť filtre na správu">
+<!ENTITY filtersApplyToMessage.accesskey "t">
 <!ENTITY runJunkControls.label "Spustiť rozpoznávanie nevyžiadanej pošty pre tento priečinok">
 <!ENTITY runJunkControls.accesskey "u">
 <!ENTITY deleteJunk.label "Odstrániť z priečinka správy označené ako nevyžiadané (Spam)">
