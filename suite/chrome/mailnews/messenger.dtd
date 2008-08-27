@@ -389,9 +389,13 @@
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Ejecutar filtros en la carpeta">
 <!ENTITY filtersApply.accesskey "R">
+<!ENTITY filtersApplyToSelection.label "Ejecutar filtros en los mensajes seleccionados">
 <!ENTITY runJunkControls.label "Ejecutar controles de correo basura en la carpeta">
+<!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY runJunkControls.accesskey "u">
+<!ENTITY filtersApplyToMessage.label "Ejecutar filtros en el mensaje">
 <!ENTITY deleteJunk.label "Eliminar mensajes marcados como basura en la carpeta">
+<!ENTITY filtersApplyToMessage.accesskey "u">
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "p">

@@ -13,7 +13,7 @@
 <!ENTITY findAsYouTypeSound.label "Reproducir un sonido cuando el texto escrito no se encuentre">
 <!ENTITY findAsYouTypeSound.accesskey "P">
 <!ENTITY findAsYouTypeEnableAuto.label "Buscar automáticamente cuando escriba dentro de una página web:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "B">
 <!ENTITY findAsYouTypeAutoText.label "Cualquier texto en la página">
 <!ENTITY findAsYouTypeAutoText.accesskey "A">
 <!ENTITY findAsYouTypeAutoLinks.label "Sólo enlaces">
