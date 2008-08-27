@@ -422,6 +422,10 @@
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Spustiť filtre na tento priečinok">
 <!ENTITY filtersApply.accesskey "S">
+<!ENTITY filtersApplyToSelection.label "Spustiť filtre na označené správy">
+<!ENTITY filtersApplyToSelection.accesskey "t">
+<!ENTITY filtersApplyToMessage.label "Spustiť filtre na správu">
+<!ENTITY filtersApplyToMessage.accesskey "t">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Prijať">

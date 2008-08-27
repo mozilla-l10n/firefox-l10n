@@ -60,8 +60,8 @@
 <!ENTITY retentionDownloadMsg.label "Správy väčšie ako">
 <!ENTITY retentionDownloadMsg.accesskey "v">
 <!ENTITY retentionCleanup.label "Automatickým odstraňovaním starých správ je možné získať miesto na disku.">
-<!ENTITY retentionKeepMsg.label "Odstrániť správy staršie ako">
-<!ENTITY retentionKeepMsg.accesskey "O">
+<!ENTITY retentionDeleteMsg.label "Odstrániť správy staršie ako">
+<!ENTITY retentionDeleteMsg.accesskey "O">
 <!ENTITY retentionKeepAll.label "Neodstraňovať žiadne správy">
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepNew.label "Odstrániť všetko okrem posledných">
