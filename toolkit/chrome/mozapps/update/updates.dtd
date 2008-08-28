@@ -1,4 +1,4 @@
-<!ENTITY  updateWizard.title              "Programm-fernijing">
+<!ENTITY  updateWizard.title              "Programma-fernijing">
 
 <!ENTITY  window.width                    "36em">
 <!ENTITY  window.macWidth                 "39em">
@@ -24,8 +24,8 @@
 <!ENTITY  upgrade.evangelism              "It wurdt oanrêt &brandShortName; sa fluch 
                                            mooglik te fernijen.">
 
-<!ENTITY  license.instructions            "Als u instemt met de voorwaarden van deze overeenkomst, klik dan hieronder 
-                                           op Ik ga akkoord om door te gaan met de installatie van deze update.">
+<!ENTITY  license.instructions            "As jo akkoard geane mei de betingsten fan dizze oerienkomst, klik dan hjirûnder 
+                                           op Ik gean akkoard om troch te gean mei de ynstallaasje fan dizze fernijing.">
 
 <!ENTITY  license.titleText               "Lisinsjeoerienkomst">
 <!ENTITY  license.introText               "Betingsten en kondysjes foar it gebrûk fan dit programma.">
@@ -37,7 +37,7 @@
 
 <!ENTITY  downloading.title               "Fernijing ynlade">
 <!ENTITY  downloading.intro               "Fernijing ynlade...">
-<!ENTITY  connecting.label                "Ferbine mei de updatetsjinner...">
+<!ENTITY  connecting.label                "Ferbine mei de fernijingstsjinner...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; wie net yn steat om de yntegriteit fan de
                                            ynkrementele fernijing dy't ynladen is te kontrolearjen en laad
                                            derom no it folsleine fernijingspakket yn.">
