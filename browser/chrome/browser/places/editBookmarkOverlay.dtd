@@ -1,4 +1,4 @@
-<!ENTITY editBookmarkOverlay.name.label "Nombre">
+<!ENTITY editBookmarkOverlay.name.label "Nombre:">
 <!ENTITY editBookmarkOverlay.name.accesskey "N">
 <!ENTITY editBookmarkOverlay.location.label "Dirección:">
 <!ENTITY editBookmarkOverlay.location.accesskey "c">
@@ -7,13 +7,13 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label "Localización del sitio:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "z">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Títulos dinámicos">
-<!ENTITY editBookmarkOverlay.folder.label "Carpeta">
+<!ENTITY editBookmarkOverlay.folder.label "Carpeta:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Mostrar todas las carpetas de marcadores">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Ocultar">
 <!ENTITY editBookmarkOverlay.tags.label "Etiquetas:">
 <!ENTITY editBookmarkOverlay.tags.accesskey "t">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label "Separe las etiquetas con comas">
-<!ENTITY editBookmarkOverlay.description.label "Descripción">
+<!ENTITY editBookmarkOverlay.description.label "Descripción:">
 <!ENTITY editBookmarkOverlay.description.accesskey "D">
 <!ENTITY editBookmarkOverlay.keyword.label "Palabra clave:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey "b">

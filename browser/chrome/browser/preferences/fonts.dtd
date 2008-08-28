@@ -1,8 +1,8 @@
-<!ENTITY fontsDialog.title "Tipografía">
+<!ENTITY fontsDialog.title "Tipos de letra">
 <!ENTITY window.width "46em">
 <!ENTITY window.macWidth "43em">
 <!ENTITY window.unixWidth "49em">
-<!ENTITY language.label "Tipografía para:">
+<!ENTITY language.label "Tipos de letra para:">
 <!ENTITY language.accesskey "T">
 <!ENTITY size.label "Tamaño:">
 <!ENTITY sizeProportional.accesskey "o">
@@ -51,8 +51,8 @@
 <!ENTITY minSize.none "Ninguno">
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
-<!ENTITY allowPagesToUse.label "Permitir a las páginas elegir su propia tipografía, en vez de mi selección anterior">
+<!ENTITY allowPagesToUse.label "Permitir a las páginas elegir sus propios tipos de letra, en vez de mi selección anterior">
 <!ENTITY allowPagesToUse.accesskey "e">
 <!ENTITY languages.customize.Charset.grouplabel "Codif. caracteres">
-<!ENTITY languages.customize.DefaultCharset.label "Codif. caracteres predet.">
+<!ENTITY languages.customize.DefaultCharset.label "Codif. caracteres predet.:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "C">

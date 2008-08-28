@@ -50,7 +50,7 @@
 <!ENTITY cmd.edit_cut.accesskey "t">
 <!ENTITY cmd.edit_cut.key "x">
 <!ENTITY cmd.edit_copy.label "Copiar">
-<!ENTITY cmd.edit_copy.accesskey "C">
+<!ENTITY cmd.edit_copy.accesskey "o">
 <!ENTITY cmd.edit_copy.key "c">
 <!ENTITY cmd.edit_paste.label "Pegar">
 <!ENTITY cmd.edit_paste.accesskey "P">
@@ -65,7 +65,7 @@
 <!ENTITY cmd.edit_redo.key "y">
 <!ENTITY cmd.open.label "Abrir">
 <!ENTITY cmd.open.accesskey "A">
-<!ENTITY cmd.open_window.label "Abrir en una ventana nueva">
+<!ENTITY cmd.open_window.label "Abrir en una nueva ventana">
 <!ENTITY cmd.open_window.accesskey "N">
 <!ENTITY cmd.open_tab.label "Abrir en una pestaña nueva">
 <!ENTITY cmd.open_tab.accesskey "t">
@@ -135,7 +135,7 @@
 <!ENTITY saveSearch.accesskey "G">
 <!ENTITY moreCriteria.label "+">
 <!ENTITY advancedSearch.onlybookmarked.label "Buscar sólo marcadores">
-<!ENTITY advancedSearch.match.label "Coincide con">
+<!ENTITY advancedSearch.match.label "Coincide con ">
 <!ENTITY advancedSearch.all.label "todo">
 <!ENTITY advancedSearch.any.label "cualquiera">
 <!ENTITY advancedSearch.rules.label " de las siguientes reglas:">
@@ -154,18 +154,18 @@
 <!ENTITY advancedSearch.last_months.label "meses">
 <!ENTITY advancedSearch.plus.label "+">
 <!ENTITY advancedSearch.minus.label "-">
-<!ENTITY advancedSearch.groupby.label "Agrupar por:">
+<!ENTITY advancedSearch.groupby.label "Agrupar por: ">
 <!ENTITY advancedSearch.groupby_host.label "host">
 <!ENTITY advancedSearch.groupby_domain.label "dominio">
 <!ENTITY advancedSearch.groupby_folder.label "carpeta">
-<!ENTITY advancedSearch.sortby.label "Ordenar por:">
+<!ENTITY advancedSearch.sortby.label "Ordenar por: ">
 <!ENTITY advancedSearch.sortby_title.label "título">
 <!ENTITY advancedSearch.sortby_date.label "fecha">
 <!ENTITY advancedSearch.sortby_visit.label "contador de visitas">
 <!ENTITY advancedSearch.sortby_url.label "url">
 <!ENTITY advancedSearch.sortby_asc.label "ascendente">
 <!ENTITY advancedSearch.sortby_desc.label "descendente">
-<!ENTITY advancedSearch.max.label "Número máximo de resultados:">
+<!ENTITY advancedSearch.max.label "Número máximo de resultados: ">
 <!ENTITY cmd.find.key "f">
 <!ENTITY feed.subscribe.label "Canal">
 <!ENTITY feed.subscribe.tooltip "Suscribirse">

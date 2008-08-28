@@ -1,7 +1,7 @@
 <!ENTITY bookmarks.name.label "Nombre:">
 <!ENTITY bookmarks.name.accesskey "N">
-<!ENTITY bookmarks.location.label "Ubicación:">
-<!ENTITY bookmarks.location.accesskey "b">
+<!ENTITY bookmarks.location.label "Localización:">
+<!ENTITY bookmarks.location.accesskey "L">
 <!ENTITY bookmarks.keyword.label "Palabra clave:">
 <!ENTITY bookmarks.keyword.accesskey "l">
 <!ENTITY bookmarks.description.label "Descripción:">
@@ -9,9 +9,9 @@
 <!ENTITY bookmarks.liveTitlesSeparator.label "Títulos dinámicos">
 <!ENTITY bookmarks.createIn.label "Crear en:">
 <!ENTITY bookmarks.createIn.accesskey "C">
-<!ENTITY bookmarks.feed_location.label "Ubicación del canal:">
+<!ENTITY bookmarks.feed_location.label "Localización del canal:">
 <!ENTITY bookmarks.feed_location.accesskey "c">
-<!ENTITY bookmarks.site_location.label "Ubicación del sitio:">
+<!ENTITY bookmarks.site_location.label "Localización del sitio:">
 <!ENTITY bookmarks.site_location.accesskey "S">
 <!ENTITY bookmarks.loadInSidebar.label "Cargar este marcador en el panel lateral">
 <!ENTITY bookmarks.loadInSidebar.accesskey "o">

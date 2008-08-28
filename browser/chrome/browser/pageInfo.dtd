@@ -31,7 +31,7 @@
 <!ENTITY mediaType "Tipo">
 <!ENTITY mediaSize "Tamaño">
 <!ENTITY mediaCount "Cuenta">
-<!ENTITY mediaDimension "Dimensiones:">
+<!ENTITY mediaDimension "Tamaño:">
 <!ENTITY mediaLongdesc "Descripción larga:">
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs "Guardar como…">
@@ -60,9 +60,9 @@
 <!ENTITY securityView.accesskey "V">
 <!ENTITY securityView.unknown "Desconocido">
 <!ENTITY securityView.identity.header "Identidad del sitio web">
-<!ENTITY securityView.identity.owner "Propietario:">
-<!ENTITY securityView.identity.domain "Sitio web:">
-<!ENTITY securityView.identity.verifier "Verificado por:">
+<!ENTITY securityView.identity.owner "Propietario: ">
+<!ENTITY securityView.identity.domain "Sitio web: ">
+<!ENTITY securityView.identity.verifier "Verificado por: ">
 <!ENTITY securityView.privacy.header "Privacidad e historial">
 <!ENTITY securityView.privacy.history "¿Se ha visitado este sitio web anteriormente?">
 <!ENTITY securityView.privacy.cookies "¿Este sitio está almacenando información (cookies) en este ordenador?">
