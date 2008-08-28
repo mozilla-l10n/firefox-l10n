@@ -359,7 +359,6 @@
 <!ENTITY markAllReadCmd.label "Все как прочитанные">
 <!ENTITY markAllReadCmd.accesskey "В">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmdUnix.key "m">
 <!ENTITY markFlaggedCmd.label "Флагом">
 <!ENTITY markFlaggedCmd.accesskey "Ф">
 <!ENTITY markFlaggedCmd.key "i">
