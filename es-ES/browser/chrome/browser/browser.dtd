@@ -52,7 +52,7 @@
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Añadir pestañas a marcadores…">
 <!ENTITY organizeBookmarks.label "Organizar marcadores…">
-<!ENTITY bookmarkAllCmd.label "Añadir a marcadores todas las pestañas…">
+<!ENTITY bookmarkAllCmd.label "Añadir todas las pestañas abiertas a marcadores…">
 <!ENTITY backCmd.label "Anterior">
 <!ENTITY backCmd.accesskey "t">
 <!ENTITY backButton.tooltip "Ir a la página anterior">
@@ -159,9 +159,9 @@
 <!ENTITY openLinkCmd.accesskey "v">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en una pestaña nueva">
 <!ENTITY openLinkCmdInTab.accesskey "T">
-<!ENTITY openFrameCmd.label "Abrir el marco en una nueva ventana">
+<!ENTITY openFrameCmd.label "Abrir el marco en una ventana nueva">
 <!ENTITY openFrameCmd.accesskey "e">
-<!ENTITY openFrameCmdInTab.label "Abrir marco en una nueva pestaña">
+<!ENTITY openFrameCmdInTab.label "Abrir el marco en una pestaña nueva">
 <!ENTITY openFrameCmdInTab.accesskey "T">
 <!ENTITY showOnlyThisFrameCmd.label "Mostrar sólo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
@@ -243,8 +243,8 @@
 <!ENTITY fullZoomToggleCmd.accesskey "p">
 <!ENTITY fullZoom.label "Tamaño">
 <!ENTITY fullZoom.accesskey "T">
-<!ENTITY newTabButton.tooltip "Abrir una nueva pestaña">
-<!ENTITY newWindowButton.tooltip "Abrir una nueva ventana">
+<!ENTITY newTabButton.tooltip "Abrir una pestaña nueva">
+<!ENTITY newWindowButton.tooltip "Abrir una ventana nueva">
 <!ENTITY sidebarCloseButton.tooltip "Cerrar panel lateral">
 <!ENTITY cutButton.tooltip "Cortar">
 <!ENTITY copyButton.tooltip "Copiar">

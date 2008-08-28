@@ -2,10 +2,10 @@
 <!ENTITY editBookmarkOverlay.name.accesskey "N">
 <!ENTITY editBookmarkOverlay.location.label "Dirección:">
 <!ENTITY editBookmarkOverlay.location.accesskey "c">
-<!ENTITY editBookmarkOverlay.feedLocation.label "Localización del canal:">
+<!ENTITY editBookmarkOverlay.feedLocation.label "Ubicación del canal:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "n">
-<!ENTITY editBookmarkOverlay.siteLocation.label "Localización del sitio:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey "z">
+<!ENTITY editBookmarkOverlay.siteLocation.label "Ubicación del sitio:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey "i">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Títulos dinámicos">
 <!ENTITY editBookmarkOverlay.folder.label "Carpeta:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Mostrar todas las carpetas de marcadores">

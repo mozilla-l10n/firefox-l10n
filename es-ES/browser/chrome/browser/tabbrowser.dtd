@@ -1,18 +1,18 @@
-<!ENTITY untitledTab "(Sin título)">
+<!ENTITY untitledTab "(Vacía)">
 <!ENTITY newTab.label "Nueva pestaña">
 <!ENTITY newTab.accesskey "N">
 <!ENTITY closeTab.label "Cerrar pestaña">
 <!ENTITY closeTab.accesskey "p">
 <!ENTITY closeOtherTabs.accesskey "o">
-<!ENTITY closeOtherTabs.label "Cerrar otras pestañas">
+<!ENTITY closeOtherTabs.label "Cerrar las demás pestañas">
 <!ENTITY reloadAllTabs.label "Recargar todas las pestañas">
 <!ENTITY reloadAllTabs.accesskey "a">
 <!ENTITY reloadTab.label "Recargar pestaña">
 <!ENTITY reloadTab.accesskey "r">
 <!ENTITY listAllTabs.label "Listar todas las pestañas">
-<!ENTITY bookmarkAllTabs.label "Añadir a marcadores todas las pestañas…">
+<!ENTITY bookmarkAllTabs.label "Añadir todas las pestañas abiertas a marcadores…">
 <!ENTITY bookmarkAllTabs.accesskey "t">
 <!ENTITY bookmarkThisTab.label "Añadir esta pestaña a marcadores">
 <!ENTITY bookmarkThisTab.accesskey "m">
-<!ENTITY undoCloseTab.label "Deshacer cerrar pestaña">
+<!ENTITY undoCloseTab.label "Deshacer el cierre de la última pestaña">
 <!ENTITY undoCloseTab.accesskey "D">
