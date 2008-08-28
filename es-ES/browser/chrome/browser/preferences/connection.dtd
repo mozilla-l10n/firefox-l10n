@@ -8,7 +8,7 @@
 <!ENTITY systemTypeRadio.accesskey "d">
 <!ENTITY WPADTypeRadio.label "Autodetectar configuración del proxy para esta red">
 <!ENTITY WPADTypeRadio.accesskey "e">
-<!ENTITY manualTypeRadio.label "Configuración manual del proxy">
+<!ENTITY manualTypeRadio.label "Configuración manual del proxy:">
 <!ENTITY manualTypeRadio.accesskey "m">
 <!ENTITY autoTypeRadio.label "URL para la configuración automática del proxy:">
 <!ENTITY autoTypeRadio.accesskey "A">
@@ -19,9 +19,9 @@
 <!ENTITY gopher.label "Proxy gopher:">
 <!ENTITY gopher.accesskey "G">
 <!ENTITY http.label "Proxy HTTP:">
-<!ENTITY http.accesskey "H">
+<!ENTITY http.accesskey "x">
 <!ENTITY ssl.label "Proxy SSL:">
-<!ENTITY ssl.accesskey "S">
+<!ENTITY ssl.accesskey "L">
 <!ENTITY socks.label "Servidor SOCKS:">
 <!ENTITY socks.accesskey "C">
 <!ENTITY socks4.label "SOCKS v4">
@@ -38,4 +38,4 @@
 <!ENTITY noproxy.accesskey "n">
 <!ENTITY noproxyExplain.label "Ejemplo: .mozilla.org, .net.nz">
 <!ENTITY shareproxy.label "Usar el mismo proxy para todo">
-<!ENTITY shareproxy.accesskey "x">
+<!ENTITY shareproxy.accesskey "s">

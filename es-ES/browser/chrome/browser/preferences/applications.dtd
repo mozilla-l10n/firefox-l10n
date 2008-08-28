@@ -4,6 +4,4 @@
 <!ENTITY actionColumn2.accesskey "A">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-
-
-<!ENTITY filter.emptytext        "Buscar">
+<!ENTITY filter.emptytext "Buscar">
