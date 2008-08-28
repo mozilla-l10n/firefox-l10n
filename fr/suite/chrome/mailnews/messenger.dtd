@@ -422,7 +422,6 @@
 <!ENTITY markAllReadCmd.label "Comme tous lus">
 <!ENTITY markAllReadCmd.accesskey "t">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmdUnix.key "m">
 <!ENTITY markFlaggedCmd.label "Comme coché">
 <!ENTITY markFlaggedCmd.accesskey "C">
 <!ENTITY markFlaggedCmd.key "i">
