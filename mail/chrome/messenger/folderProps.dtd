@@ -56,8 +56,8 @@
 <!ENTITY daysOld.label "Tage">
 <!ENTITY message.label "Nachrichten">
 <!ENTITY retentionCleanup.label "Um Speicherplatz zu sparen, können gelöscht werden:">
-<!ENTITY retentionKeepMsg.label "Nachrichten, die älter sind als">
-<!ENTITY retentionKeepMsg.accesskey "N">
+<!ENTITY retentionDeleteMsg.label "Nachrichten, die älter sind als">
+<!ENTITY retentionDeleteMsg.accesskey "N">
 <!ENTITY retentionKeepAll.label "Keine Nachrichten">
 <!ENTITY retentionKeepAll.accesskey "K">
 <!ENTITY retentionKeepNew.label "Alle außer den neuesten">
