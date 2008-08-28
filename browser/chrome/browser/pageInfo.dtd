@@ -31,7 +31,7 @@
 <!ENTITY mediaType "Tipo">
 <!ENTITY mediaSize "Tamaño">
 <!ENTITY mediaCount "Cuenta">
-<!ENTITY mediaDimension "Tamaño:">
+<!ENTITY mediaDimension "Dimensiones:">
 <!ENTITY mediaLongdesc "Descripción larga:">
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs "Guardar como…">

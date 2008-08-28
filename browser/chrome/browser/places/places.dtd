@@ -65,7 +65,7 @@
 <!ENTITY cmd.edit_redo.key "y">
 <!ENTITY cmd.open.label "Abrir">
 <!ENTITY cmd.open.accesskey "A">
-<!ENTITY cmd.open_window.label "Abrir en una nueva ventana">
+<!ENTITY cmd.open_window.label "Abrir en una ventana nueva">
 <!ENTITY cmd.open_window.accesskey "N">
 <!ENTITY cmd.open_tab.label "Abrir en una pestaña nueva">
 <!ENTITY cmd.open_tab.accesskey "t">
