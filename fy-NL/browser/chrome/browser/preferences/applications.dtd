@@ -7,8 +7,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "Sykje:">
-<!ENTITY  filter.accesskey        "S">
-
-<!ENTITY  clear.label             "Wisse">
-<!ENTITY  clear.accesskey         "i">
+<!ENTITY  filter.emptytext        "Sykje:">
