@@ -60,8 +60,8 @@
 <!ENTITY retentionDownloadMsg.label "Nachrichten, die älter sind als">
 <!ENTITY retentionDownloadMsg.accesskey "N">
 <!ENTITY retentionCleanup.label "Behalten:">
-<!ENTITY retentionKeepMsg.label "Nachrichten, die innerhalb der letzten">
-<!ENTITY retentionKeepMsg.accesskey "N">
+<!ENTITY retentionDeleteMsg.label "Nachrichten löschen, die älter sind als">
+<!ENTITY retentionDeleteMsg.accesskey "c">
 <!ENTITY retentionKeepAll.label "Alle Nachrichten">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "Die neuesten">
