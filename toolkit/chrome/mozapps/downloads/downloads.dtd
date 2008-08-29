@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip 				"Foltôge, annulearre en mislearre ynlaadsittings út de list fuortsmite">
 <!ENTITY cmd.clearList.accesskey          	"O">
 <!ENTITY cmd.find.commandKey                "f">
+<!ENTITY cmd.search.commandKey              "k">
 
 <!ENTITY closeWhenDone.label 				"Slute as it ynladen dien is">
 <!ENTITY closeWhenDone.tooltip 				"De ynlaadsitting slute as alle bestannen ynladen binne">

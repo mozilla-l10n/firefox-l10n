@@ -10,8 +10,10 @@
 <!ENTITY  cancel.accesskey                "O">
 
 <!ENTITY  noupdatesfound.title            "Gjin fernijings fûn">
-<!ENTITY  noupdatesfound.intro            "Der binne gjin nije fernijings beskikber. &brandShortName; kin
-                                           periodiek kontrolearje op nije fernijings.">
+<!ENTITY  noupdatesautoenabled.intro      "Der binne gjin fernijings beskikber. &brandShortName; sil
+                                           periodiek kontrolearje op fernijings.">
+<!ENTITY  noupdatesautodisabled.intro     "Der binne gjin fernijings beskikber. Kontrolearje it letter op 'e nij of skeakel
+                                           &brandShortName; syn automatyske fernijingskontrole yn.">
 
 <!ENTITY  incompatibleChecking.label      "Oan it kontrolearjen of dizze fernijing problemen feroarsaakje kin by jo oare útwreidings en/of tema's...">
 <!ENTITY  clickHere.label                 "Besjoch mear ynformaasje oer dizze fernijing">
