@@ -144,7 +144,7 @@
 <!ENTITY runLogCmd.label "Ejecutar registro">
 <!ENTITY sendButton.label "Enviar">
 <!ENTITY quoteButton.label "Entrecomillar">
-<!ENTITY addressButton.label "Dirección">
+<!ENTITY addressButton.label "Direcciones">
 <!ENTITY attachButton.label "Adjuntar">
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Guardar">
@@ -154,7 +154,7 @@
 <!ENTITY sendButton.tooltip "Enviar este mensaje ahora">
 <!ENTITY sendlaterButton.tooltip "Enviar este mensaje más tarde">
 <!ENTITY quoteButton.tooltip "Entrecomillar el mensaje anterior">
-<!ENTITY addressButton.tooltip "Seleccionar un destinatario de una libreta de direcciones">
+<!ENTITY addressButton.tooltip "Seleccionar uno o varios destinatarios de una libreta de direcciones">
 <!ENTITY attachButton.tooltip "Adjuntar un archivo a este mensaje">
 <!ENTITY saveButton.tooltip "Guardar este mensaje">
 <!ENTITY stopButton.tooltip "Detener la transferencia actual">
