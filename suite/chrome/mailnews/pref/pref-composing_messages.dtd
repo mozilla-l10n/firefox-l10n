@@ -21,6 +21,9 @@
 
  Contributor(s):
    Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+	Gintautas Grigas <grigas@ktl.mii.lt>
+	Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	Rimas Kudelis <rq@akl.lt>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -44,6 +47,8 @@
 <!ENTITY asAttachment.label                   "Kaip priedus">
 <!ENTITY asAttachment.accesskey               "r">
 
+<!ENTITY replyQuoteInline.label               "Atsakant cituoti tiesiogiai rodomus priedus">
+<!ENTITY replyQuoteInline.accesskey           "c">
 <!ENTITY warnOnSendAccelKey.label             "Parodyti patvirtinimą, kai laiškas siunčiamas naudojant spartųjį klavišą">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
