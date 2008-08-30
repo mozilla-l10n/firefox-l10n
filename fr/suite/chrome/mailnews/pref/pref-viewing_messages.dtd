@@ -50,12 +50,9 @@
 <!ENTITY color.label "Couleur :">
 <!ENTITY color.accesskey "C">
 <!ENTITY displayPlainText.caption "Messages en texte simple">
-<!ENTITY plainTextFont.label "Utiliser ce type de police pour afficher les messages en texte simple :">
-<!ENTITY displayQuoted.label "Paramètres d'affichage du texte simple cité :">
-<!ENTITY fixedWidth.label "Fixe">
-<!ENTITY fixedWidth.accesskey "F">
-<!ENTITY variableWidth.label "Variable">
-<!ENTITY variableWidth.accesskey "V">
+<!ENTITY fontPlainText.label "Utiliser ce type de police pour afficher les messages en texte simple :">
+<!ENTITY displayQuoted.label "Police :">
+<!ENTITY fontPlainText.accesskey "P">
 <!ENTITY readingMessagesHeader.label "Pour les messages qui arrivent">
 <!ENTITY messageWrapping.label "Message Wrapping">
 <!ENTITY wrapInMsg.label "Reformatage des messages">
@@ -82,3 +79,5 @@
 <!ENTITY existingWindowRadio.accesskey "e">
 <!ENTITY disableContent.label "Bloquer les images et autres contenus distants">
 <!ENTITY disableContent.accesskey "B">
+<!ENTITY showCondensedAddresses.label "Afficher seulement « Nom à afficher » pour les personnes dans mon carnet d'adresses">
+<!ENTITY showCondensedAddresses.accesskey "h">
