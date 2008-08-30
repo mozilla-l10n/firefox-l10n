@@ -439,7 +439,6 @@
 <!ENTITY markAllReadCmd.label "Visus kaip skaitytus">
 <!ENTITY markAllReadCmd.accesskey "V">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmdUnix.key "m">
 <!ENTITY markFlaggedCmd.label "Gairele">
 <!ENTITY markFlaggedCmd.accesskey "a">
 <!ENTITY markFlaggedCmd.key "i">

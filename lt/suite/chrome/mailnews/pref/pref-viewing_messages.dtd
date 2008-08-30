@@ -53,12 +53,9 @@
 <!ENTITY color.label                      "Spalva:">
 <!ENTITY color.accesskey                  "S">
 <!ENTITY displayPlainText.caption         "Grynojo teksto laiškai">
-<!ENTITY plainTextFont.label              "Naudoti šriftą:">
+<!ENTITY fontPlainText.label              "Šriftas:">
+<!ENTITY fontPlainText.accesskey          "r">
 <!ENTITY displayQuoted.label              "Citatų šriftas:">
-<!ENTITY fixedWidth.label                 "lygiaplotį">
-<!ENTITY fixedWidth.accesskey             "l">
-<!ENTITY variableWidth.label              "įvairiaplotį">
-<!ENTITY variableWidth.accesskey          "v">
 <!ENTITY readingMessagesHeader.label      "Gaunamiems laiškams">
 <!ENTITY messageWrapping.label            "Laužyti eilutes">
 <!ENTITY wrapInMsg.label                  "Laužyti eilutes pritaikant prie lango pločio">
@@ -85,3 +82,5 @@
 <!ENTITY existingWindowRadio.accesskey    "e">
 <!ENTITY disableContent.label             "Neįkelti paveikslėlių ir kitų elementų iš tinklo">
 <!ENTITY disableContent.accesskey         "N">
+<!ENTITY showCondensedAddresses.label     "Jei asmuo yra adresų knygoje, rodyti tik jo asmenvardį">
+<!ENTITY showCondensedAddresses.accesskey "s">
