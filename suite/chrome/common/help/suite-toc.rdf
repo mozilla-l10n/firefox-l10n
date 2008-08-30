@@ -42,7 +42,7 @@
   <rdf:li><rdf:Description ID="nav-doc-search" nc:name="Im Internet suchen" nc:link="nav_help.xhtml#searching_the_web"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-doc-printsave" nc:name="Kopieren, Speichern und Drucken von Webseiten" nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-doc-language" nc:name="Verwenden von Sprachen und internationalen Inhalten" nc:link="nav_help.xhtml#using_languages_and_international_content"/></rdf:li>
-  <rdf:li> <rdf:Description ID="nav-doc-plugins" nc:name="Plugins und Downloads" nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
+  <rdf:li> <rdf:Description ID="nav-doc-pluginsdownloads" nc:name="Plugins und Downloads" nc:link="nav_help.xhtml#plugins_and_downloads"/> </rdf:li>
   <rdf:li><rdf:Description ID="nav-doc-ses" nc:name="Geschwindigkeit und Effizienz verbessern" nc:link="nav_help.xhtml#improving_speed_and_efficiency"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-proxies" nc:name="Proxies" nc:link="nav_help.xhtml#proxies"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-page-info" nc:name="Seiteninformationen anzeigen" nc:link="page_info_help.xhtml"/></rdf:li>
@@ -71,7 +71,6 @@
   <rdf:li><rdf:Description ID="nav-doc-searchweb" nc:name="Schnelles suchen" nc:link="nav_help.xhtml#fast_searches"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-doc-smartsearch" nc:name="Fortgeschrittene Sidebar Suchmethoden" nc:link="nav_help.xhtml#advanced_sidebar_search_mode"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-doc-searchprefs" nc:name="Einstellen von Suchoptionen" nc:link="nav_help.xhtml#setting_search_preferences"/></rdf:li>
-  <rdf:li><rdf:Description ID="nav-doc-keywords" nc:name="Verwenden von Internet Keywords" nc:link="nav_help.xhtml#using_internet_keywords"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-doc-searchpage" nc:name="Innerhalb einer Seite suchen" nc:link="nav_help.xhtml#searching_within_a_page"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-doc-find_as_you_type" nc:name="Benutzen von Beim Eintippen suchen" nc:link="nav_help.xhtml#using_find_as-you-type"/></rdf:li>
   <rdf:li><rdf:Description ID="nav-doc-searchbookmark" nc:name="Durchsuchen von Lesezeichen und der Historyliste" nc:link="nav_help.xhtml#searching_the_bookmarks_or_history_list"/></rdf:li>
@@ -99,7 +98,7 @@
  </nc:subheadings>
  </rdf:Description>
  
-  <rdf:Description about="#nav-doc-plugins">
+  <rdf:Description about="#nav-doc-pluginsdownloads">
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="nav-doc-plug-ins" nc:name="Plug-ins"  nc:link="nav_help.xhtml#plug-ins"/> </rdf:li>
@@ -173,7 +172,7 @@
   <rdf:Seq>
   <rdf:li><rdf:Description ID="mail-doc-setup" nc:name="Benutzen des Setup-Assistenten f&#252;r den E-Mailempfang" nc:link="mail_help.xhtml#using_the_mail_account_setup_wizard"/></rdf:li>
   <rdf:li><rdf:Description ID="mail-doc-add" nc:name="Weitere Konten f&#252;r Mail und News einrichten" nc:link="mail_help.xhtml#setting_up_additional_mail_and_news_accounts"/></rdf:li>
-  <rdf:li> <rdf:Description ID="mail-doc-change" nc:name="&#196;nderen der Einstellungen für einen Account"  nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/> </rdf:li>
+  <rdf:li> <rdf:Description ID="mail-doc-change" nc:name="&#196;nderen der Einstellungen fï¿½r einen Account"  nc:link="mail_help.xhtml#changing_the_settings_for_an_account"/> </rdf:li>
   </rdf:Seq>
  </nc:subheadings>
  </rdf:Description>
@@ -661,7 +660,9 @@
   <rdf:li><rdf:Description ID="cust-toolbar" nc:name="Symbolleisten" nc:link="customize_help.xhtml#toolbars"/></rdf:li>
   <rdf:li><rdf:Description ID="cust-bkmk" nc:name="Lesezeichen" nc:link="customize_help.xhtml#bookmarks"/></rdf:li>
   <rdf:li><rdf:Description ID="cust-page" nc:name="Festlegen, wie &brandShortName; startet" nc:link="customize_help.xhtml#specifying_how_mozilla_starts_up"/></rdf:li>
-  <rdf:li><rdf:Description ID="nav-settings" nc:name="Navigator-Einstellungen" nc:link="cs_nav_prefs_appearance.xhtml#navigator_settings"/></rdf:li>
+  <rdf:li> <rdf:Description ID="appearance_pref" nc:name="Erscheinungsbild" nc:link="cs_nav_prefs_appearance.xhtml"/></rdf:li>
+  <rdf:li> <rdf:Description ID="navigator_pref_navigator" nc:name="Navigator" nc:link="cs_nav_prefs_navigator.xhtml"/></rdf:li>
+  <rdf:li> <rdf:Description ID="advanced_pref_advanced" nc:name="Erweitert" nc:link="cs_nav_prefs_advanced.xhtml"/></rdf:li>
   </rdf:Seq>
  </nc:subheadings>
  </rdf:Description>
@@ -739,22 +740,12 @@
  </nc:subheadings>
  </rdf:Description>
 
-<rdf:Description about="#nav-settings">
- <nc:subheadings>
-  <rdf:Seq>
-  <rdf:li><rdf:Description ID="appearance_pref" nc:name="Erscheinungsbild" nc:link="cs_nav_prefs_appearance.xhtml#appearance_preferences"/></rdf:li>
-  <rdf:li><rdf:Description ID="navigator_pref_navigator" nc:name="Navigator" nc:link="cs_nav_prefs_navigator.xhtml#navigator_preferences"/></rdf:li>
-  <rdf:li><rdf:Description ID="advanced_pref_advanced" nc:name="Erweitert" nc:link="cs_nav_prefs_advanced.xhtml"/></rdf:li>
-  </rdf:Seq>
- </nc:subheadings>
- </rdf:Description>
-
 <rdf:Description about="#appearance_pref">
  <nc:subheadings>
   <rdf:Seq>
+  <rdf:li> <rdf:Description ID="appearance_pref_content" nc:name="Inhalte" nc:link="cs_nav_prefs_appearance.xhtml#content"/> </rdf:li>
   <rdf:li><rdf:Description ID="appearance_pref_fonts" nc:name="Schriftarten" nc:link="cs_nav_prefs_appearance.xhtml#fonts"/></rdf:li>
   <rdf:li><rdf:Description ID="appearance_pref_colors" nc:name="Farben" nc:link="cs_nav_prefs_appearance.xhtml#colors"/></rdf:li>
-  <rdf:li><rdf:Description ID="appearance_pref_locales" nc:name="Sprachen" nc:link="cs_nav_prefs_appearance.xhtml#locales"/></rdf:li>
   </rdf:Seq>
  </nc:subheadings>
  </rdf:Description>
@@ -765,19 +756,10 @@
   <rdf:li><rdf:Description ID="navigator_pref_history" nc:name="History" nc:link="cs_nav_prefs_navigator.xhtml#history"/></rdf:li>
   <rdf:li><rdf:Description ID="navigator_pref_languages" nc:name="Sprachen" nc:link="cs_nav_prefs_navigator.xhtml#languages"/></rdf:li>
   <rdf:li><rdf:Description ID="navigator_pref_helper_applications" nc:name="Hilfsanwendungen" nc:link="cs_nav_prefs_navigator.xhtml#helper_applications"/></rdf:li>
-  <rdf:li><rdf:Description ID="navigator_pref_smart_browsing" nc:name="Smart Browsing" nc:link="cs_nav_prefs_navigator.xhtml#smart_browsing"/></rdf:li>
+  <rdf:li><rdf:Description ID="navigator_pref_location_bar" nc:name="Adressleiste" nc:link="cs_nav_prefs_navigator.xhtml#location_bar"/></rdf:li>
   <rdf:li><rdf:Description ID="navigator_pref_internet_searching" nc:name="Internet-Suche" nc:link="cs_nav_prefs_navigator.xhtml#internet_search"/></rdf:li>
   <rdf:li><rdf:Description ID="navigator_pref_tabbed_browsing" nc:name="Tabbed Browsing" nc:link="cs_nav_prefs_navigator.xhtml#tabbed_browsing"/></rdf:li>
-  <rdf:li><rdf:Description ID="navigator_pref_link_handling" nc:name="Link Handling" nc:link="cs_nav_prefs_navigator.xhtml#link_handling"/></rdf:li>
   <rdf:li><rdf:Description ID="navigator_pref_downloads" nc:name="Downloads" nc:link="cs_nav_prefs_navigator.xhtml#downloads"/></rdf:li>
-  </rdf:Seq>
- </nc:subheadings>
- </rdf:Description>
-
-<rdf:Description about="#navigator_pref_smart_browsing">
- <nc:subheadings>
-  <rdf:Seq>
-  <rdf:li><rdf:Description ID="navigator_pref_autocomplete-adv" nc:name="Auto-Vervollst&#228;ndigung" nc:link="cs_nav_prefs_navigator.xhtml#location_bar_autocomplete"/></rdf:li>
   </rdf:Seq>
  </nc:subheadings>
  </rdf:Description>
