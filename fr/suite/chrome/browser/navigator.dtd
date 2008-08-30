@@ -188,12 +188,12 @@
 
 <!ENTITY throbber.tooltip "Aller sur la page de &vendorShortName;">
 
-<!ENTITY locationBar.tooltip "Saisir un terme à rechercher, un mot clé ou une adresse Web">
+<!ENTITY locationBar.tooltip "Saisir un terme à rechercher, un mot-clé ou une adresse Web">
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Adresse">
 
 <!ENTITY proxyIcon.tooltip "Glisser/déposer cette icône pour créer un lien vers cette page">
-<!ENTITY internetKeyword.tooltip "Retourner aux pages précédentes ou choisir un mot clé">
+<!ENTITY internetKeyword.tooltip "Retourner aux pages précédentes ou choisir un mot-clé">
 
 <!-- Toolbar items --> 
 <!ENTITY  bookmarksButton.label "Marque-pages">
