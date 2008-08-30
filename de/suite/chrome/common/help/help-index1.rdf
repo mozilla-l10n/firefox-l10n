@@ -811,11 +811,6 @@
        <rdf:Description ID="intermediate_server_CA_certificates"
          nc:name="Subserver CA-Zertifikate"
          nc:link="cert_dialog_help.xhtml#web_site_certified_by_an_unknown_authority"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Internet_Keywords"
-         nc:name="Internet Stichworte"
-         nc:link="nav_help.xhtml#using_internet_keywords"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1004,8 +999,8 @@ nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="languages:Appearance_preferences"
-         nc:name="Anzeigeeinstellungen"
-         nc:link="cs_nav_prefs_appearance.xhtml#languages_content"/>
+         nc:name="Oberfl&#228;chen-Sprache"
+         nc:link="cs_nav_prefs_appearance.xhtml#appearance"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1517,9 +1512,9 @@ nc:link="mail_help.xhtml#importing_mail_from_other_programs"/>
          nc:link="cs_nav_prefs_appearance.xhtml#colors"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="preferences:locales"
-         nc:name="Sprache der Benutzeroberfl&#228;che - Einstellungen"
-         nc:link="cs_nav_prefs_appearance.xhtml#locales"/>
+       <rdf:Description ID="preferences:content"
+         nc:name="Inhalts-Einstellungen"
+         nc:link="cs_nav_prefs_appearance.xhtml#content"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences:cookies"
