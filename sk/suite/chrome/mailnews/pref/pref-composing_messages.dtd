@@ -44,6 +44,8 @@
 <!ENTITY asAttachment.label                   "Ako príloha">
 <!ENTITY asAttachment.accesskey               "A">
 
+<!ENTITY replyQuoteInline.label               "Pri odpovedi zahrnúť v citácii aj prílohy zobrazené v texte">
+<!ENTITY replyQuoteInline.accesskey           "r">
 <!ENTITY warnOnSendAccelKey.label             "Žiadať potvrdenie pri odoslaní správy pomocou klávesovej skratky">
 <!ENTITY warnOnSendAccelKey.accesskey         "d">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
