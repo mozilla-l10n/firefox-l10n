@@ -25,7 +25,7 @@
 <!ENTITY recipientColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
 <!ENTITY attachmentColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по наличию вложений">
 <!ENTITY subjectColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по теме">
-<!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате">
+<!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате отправки">
 <!ENTITY priorityColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по важности">
 <!ENTITY tagsColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по метке">
 <!ENTITY accountColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по учётной записи">

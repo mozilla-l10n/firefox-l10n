@@ -125,9 +125,9 @@
 <!ENTITY showFolderPaneCmd.accesskey "п">
 <!ENTITY sortMenu.label "Сортировка">
 <!ENTITY sortMenu.accesskey "р">
-<!ENTITY sortByDateCmd.label "по дате">
+<!ENTITY sortByDateCmd.label "по дате отправки">
 <!ENTITY sortByDateCmd.accesskey "д">
-<!ENTITY sortByReceivedCmd.label "Получено">
+<!ENTITY sortByReceivedCmd.label "по дате получения">
 <!ENTITY sortByReceivedCmd.accesskey "л">
 <!ENTITY sortByFlagCmd.label "по флагу">
 <!ENTITY sortByFlagCmd.accesskey "л">
