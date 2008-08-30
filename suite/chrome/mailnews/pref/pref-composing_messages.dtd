@@ -6,6 +6,8 @@
 <!ENTITY inline.accesskey "В">
 <!ENTITY asAttachment.label "Как вложение">
 <!ENTITY asAttachment.accesskey "К">
+<!ENTITY replyQuoteInline.label "Цитировать при ответе вложения, отображаемые в теле сообщения">
+<!ENTITY replyQuoteInline.accesskey "и">
 <!ENTITY warnOnSendAccelKey.label "Спрашивать подтверждение при использовании клавиатурных сокращений для отправки сообщений">
 <!ENTITY warnOnSendAccelKey.accesskey "С">
 <!ENTITY autoSave.label "Автоматически сохранять сообщение каждые">

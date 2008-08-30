@@ -492,6 +492,8 @@
 <!ENTITY folderContextProperties.accesskey "С">
 <!ENTITY folderContextFavoriteFolder.label "Избранная папка">
 <!ENTITY folderContextFavoriteFolder.accesskey "з">
+<!ENTITY folderContextSettings.label "Параметры…">
+<!ENTITY folderContextSettings.accesskey "а">
 <!ENTITY SearchNameOrEmail.label "Имя или e-mail адрес содержат:">
 <!ENTITY SearchNameOrEmail.accesskey "И">
 <!ENTITY clearButton.label "Очистить">
