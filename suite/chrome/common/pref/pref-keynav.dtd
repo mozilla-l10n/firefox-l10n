@@ -2,20 +2,20 @@
 <!ENTITY tabNavigationBehavior.label "Navigácia pomocou klávesu Tab">
 <!ENTITY tabNavigationLinks.label "Odkazmi">
 <!ENTITY tabNavigationLinks.accesskey "O">
-<!ENTITY tabNavigationForms.label "Tlačidlami, prepínačmi, začiarkovacími tlačidlami alebo zoznamami">
+<!ENTITY tabNavigationForms.label "Tlačidlami, prepínačmi, políčkami a zoznamami">
 <!ENTITY tabNavigationForms.accesskey "T">
 <!ENTITY tabNavigationTextboxes.label "Poznámka: textové polia a posuvné polia sú vždy súčasťou prepínania.">
-<!ENTITY tabNavigationDesc.label "Pri stlačení klávesu Tab alebo kombinácie Shift+Tab presunúť medzi:">
+<!ENTITY tabNavigationDesc.label "Pri stlačení klávesu Tab alebo kombinácie Shift+Tab sa presunúť medzi:">
 <!ENTITY findAsYouTypeBehavior.label "Hľadať počas písania">
 <!ENTITY findAsYouTypeTip.label "Tip: Ak chcete ručne spustiť vyhľadávanie počas písania, na vyhľadávanie v texte zadajte znak / a za ním hľadaný text. Ak chcete vyhľadávať v odkazoch, zadajte znak ' a za ním hľadaný text.">
-<!ENTITY findAsYouTypeTimeout.label "Vymazať aktuálne vyhľadívane po niekoľkých sekundách bez aktivity">
+<!ENTITY findAsYouTypeTimeout.label "Vymazať aktuálne vyhľadávanie po niekoľkých sekundách bez aktivity">
 <!ENTITY findAsYouTypeTimeout.accesskey "V">
 <!ENTITY findAsYouTypeSound.label "Prehrať zvuk, ak zadaný text nebol nájdený">
-<!ENTITY findAsYouTypeSound.accesskey "P">
+<!ENTITY findAsYouTypeSound.accesskey "r">
 <!ENTITY findAsYouTypeEnableAuto.label "Hľadať automaticky pri písaní na webovej stránke:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
-<!ENTITY findAsYouTypeAutoText.label "Ľubovoľný text na stránke">
-<!ENTITY findAsYouTypeAutoText.accesskey "v">
-<!ENTITY findAsYouTypeAutoLinks.label "Len odkazy">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "k">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "H">
+<!ENTITY findAsYouTypeAutoText.label "V ľubovoľnom texte na stránke">
+<!ENTITY findAsYouTypeAutoText.accesskey "u">
+<!ENTITY findAsYouTypeAutoLinks.label "Len v odkazoch">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "L">
 

@@ -50,24 +50,21 @@
 <!ENTITY color.label                      "Farba:">
 <!ENTITY color.accesskey                  "F">
 <!ENTITY displayPlainText.caption         "Textové správy">
-<!ENTITY plainTextFont.label              "Použiť nasledovný druh písma:">
+<!ENTITY fontPlainText.label              "Písmo:">
+<!ENTITY fontPlainText.accesskey          "m">
 <!ENTITY displayQuoted.label              "Nastavenie pre citácie v textových správach:">
-<!ENTITY fixedWidth.label                 "s pevnou dĺžkou">
-<!ENTITY fixedWidth.accesskey             "e">
-<!ENTITY variableWidth.label              "s premenlivou dĺžkou">
-<!ENTITY variableWidth.accesskey          "v">
 <!ENTITY readingMessagesHeader.label      "Pre prichádzajúce správy">
 <!ENTITY messageWrapping.label            "Zalamovanie správ">
 <!ENTITY wrapInMsg.label                  "Zalomiť text na šírku okna">
 <!ENTITY wrapInMsg.accesskey              "Z">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label           "Zobraziť emotikony ako grafiku">
-<!ENTITY convertEmoticons.accesskey       "r">
+<!ENTITY convertEmoticons.accesskey       "e">
 <!ENTITY generalMessageDisplay.caption    "Všeobecné">
 <!ENTITY autoMarkAsRead.label             "Automaticky označovať správy ako prečítané">
-<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY autoMarkAsRead.accesskey         "c">
 <!ENTITY markAsReadNoDelay.label          "Okamžite po zobrazení">
-<!ENTITY markAsReadNoDelay.accesskey      "m">
+<!ENTITY markAsReadNoDelay.accesskey      "a">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
@@ -82,3 +79,5 @@
 <!ENTITY existingWindowRadio.accesskey    "x">
 <!ENTITY disableContent.label             "Blokovať obrázky a iný obsah zo vzdialených serverov">
 <!ENTITY disableContent.accesskey         "B">
+<!ENTITY showCondensedAddresses.label     "Pri ľuďoch, ktorých mám v adresári, zobrazovať len meno">
+<!ENTITY showCondensedAddresses.accesskey "r">
