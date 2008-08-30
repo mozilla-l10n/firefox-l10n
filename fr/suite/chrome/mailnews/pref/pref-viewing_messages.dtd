@@ -50,9 +50,9 @@
 <!ENTITY color.label "Couleur :">
 <!ENTITY color.accesskey "C">
 <!ENTITY displayPlainText.caption "Messages en texte simple">
-<!ENTITY fontPlainText.label "Utiliser ce type de police pour afficher les messages en texte simple :">
-<!ENTITY displayQuoted.label "Police :">
+<!ENTITY fontPlainText.label "Police :">
 <!ENTITY fontPlainText.accesskey "P">
+<!ENTITY displayQuoted.label "Paramètres d'affichage du texte simple cité :">
 <!ENTITY readingMessagesHeader.label "Pour les messages qui arrivent">
 <!ENTITY messageWrapping.label "Message Wrapping">
 <!ENTITY wrapInMsg.label "Reformatage des messages">
