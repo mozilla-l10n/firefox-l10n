@@ -137,9 +137,9 @@
 <!ENTITY recentFolders.accesskey "о">
 <!ENTITY sortMenu.label "Сортировка">
 <!ENTITY sortMenu.accesskey "р">
-<!ENTITY sortByDateCmd.label "по дате">
+<!ENTITY sortByDateCmd.label "по дате отправки">
 <!ENTITY sortByDateCmd.accesskey "д">
-<!ENTITY sortByReceivedCmd.label "Получено">
+<!ENTITY sortByReceivedCmd.label "по дате получения">
 <!ENTITY sortByReceivedCmd.accesskey "л">
 <!ENTITY sortByStarCmd.label "по звёздочке">
 <!ENTITY sortByStarCmd.accesskey "з">
@@ -529,7 +529,7 @@
 <!ENTITY fromColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по автору">
 <!ENTITY recipientColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по адресату">
 <!ENTITY subjectColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по теме">
-<!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате">
+<!ENTITY dateColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по дате отправки">
 <!ENTITY priorityColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по важности">
 <!ENTITY tagsColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по метке">
 <!ENTITY accountColumn.tooltip "Нажмите здесь, чтобы отсортировать сообщения по учётной записи">
