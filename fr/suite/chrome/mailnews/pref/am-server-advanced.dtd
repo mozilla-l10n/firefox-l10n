@@ -12,14 +12,14 @@
 <!ENTITY maximumConnectionsNumber.label "Nombre maximum de connexions au serveur à conserver en mémoire cache">
 <!ENTITY maximumConnectionsNumber.accesskey "N">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Ces préférences spécifient les espaces de nom sur votre serveur IMAP">
-<!ENTITY personalNamespace.label "Espace de nom personnel :">
+<!ENTITY namespaceDesc.label "Ces préférences spécifient les espaces de noms sur votre serveur IMAP">
+<!ENTITY personalNamespace.label "Espace de noms personnel :">
 <!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Public (partagé) :">
 <!ENTITY publicNamespace.accesskey "u">
 <!ENTITY otherUsersNamespace.label "Autres utilisateurs :">
 <!ENTITY otherUsersNamespace.accesskey "A">
-<!ENTITY overrideNamespaces.label "Permettre au serveur d'ignorer ces espaces de nom">
+<!ENTITY overrideNamespaces.label "Permettre au serveur d'ignorer ces espaces de noms">
 <!ENTITY overrideNamespaces.accesskey "o">
 <!ENTITY pop3Desc.label "Lorsque vous téléchargez du courrier via le protocole POP3 de ce serveur, utiliser les répertoires de Courrier entrant suivant :" >
 <!ENTITY folderStorage.label "Où stocker les messages">
