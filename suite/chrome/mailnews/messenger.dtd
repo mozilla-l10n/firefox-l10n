@@ -576,6 +576,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "N">
 <!ENTITY folderContextProperties.label "Eigenschaften…">
 <!ENTITY folderContextProperties.accesskey "E">
+<!ENTITY folderContextSettings.label "Einstellungen…">
+<!ENTITY folderContextSettings.accesskey "E">
 
 <!---SearchBar-->
 <!-- also used by addressbook -->
