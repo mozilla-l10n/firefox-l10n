@@ -11,7 +11,7 @@
 
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text      "Si vous créez plusieurs profils, vous pouvez les différencier par leur nom. Vous pouvez utiliser le nom proposé ou en choisir un vous-même.">
-<!ENTITY profilePrompt.label            "Entrez le nom du nouveau profil :">
+<!ENTITY profilePrompt.label            "Saisissez le nom du nouveau profil :">
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "Vos paramètres utilisateur, préférences et toutes vos données personnelles seront enregistrés dans :">
 <!ENTITY profileDefaultName             "Utilisateur par défaut">

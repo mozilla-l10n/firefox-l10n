@@ -40,8 +40,8 @@
 <!ENTITY setPassword.title  "Définir le mot de passe principal">
 <!ENTITY setPassword.tokenName.label "Périphérique de sécurité ">
 <!ENTITY setPassword.oldPassword.label "Ancien mot de passe">
-<!ENTITY setPassword.newPassword.label "Entrez le nouveau mot de passe">
-<!ENTITY setPassword.reenterPassword.label "Entrez-le à nouveau">
+<!ENTITY setPassword.newPassword.label "Saisissez le nouveau mot de passe">
+<!ENTITY setPassword.reenterPassword.label "Saisissez-le à nouveau">
 <!ENTITY setPassword.meter.label "Mesure de la qualité du mot de passe :">
 <!ENTITY setPassword.meter.loading "Chargement">
 
@@ -51,7 +51,7 @@
 <!ENTITY resetPassword.text  "Si vous effacez votre mot de passe principal, tous vos mots de passe Web et courrier, vos données de formulaires, vos certificats personnels et vos clés privées seront oubliés. Voulez-vous vraiment supprimer le mot de passe principal ?">
 
 <!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "Entrer le mot de passe principal">
+<!ENTITY getPassword.title  "Saisie du mot de passe principal">
 <!ENTITY getPassword.tokenName.label "Périphérique de sécurité">
 <!ENTITY getPassword.password.label "Mot de passe :">
 
@@ -102,8 +102,8 @@
 <!ENTITY pkcs12.setpassword.label2 "Mot de passe de sauvegarde du certificat (encore) :">
 <!ENTITY pkcs12.setpassword.reminder "Important : si vous avez oublié votre mot de passe de sécurité, vous ne pourrez plus importer cette sauvegarde plus tard. Veuillez le conserver en un lieu sûr.">
 
-<!ENTITY pkcs12.getpassword.title  "Fenêtre d'entrée du mot de passe">
-<!ENTITY pkcs12.getpassword.message  "Veuillez entrer le mot de passe portable de sécurité protégeant ce certificat de sécurité et la clé privée.">
+<!ENTITY pkcs12.getpassword.title  "Fenêtre de saisie du mot de passe">
+<!ENTITY pkcs12.getpassword.message  "Veuillez saisir le mot de passe portable de sécurité protégeant ce certificat de sécurité et la clé privée.">
 
 <!ENTITY chooseToken.title  "Choix d'un jeton">
 <!ENTITY chooseToken.message1 "Veuillez choisir un jeton.">
@@ -125,7 +125,7 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Requête de signature de texte">
 <!ENTITY formSigning.cert "Certificat de signature">
-<!ENTITY formSigning.confirmPassword "Pour confirmer que vous acceptez de signer ce message avec le certificat sélectionné, veuillez entrer le mot de passe principal :">
+<!ENTITY formSigning.confirmPassword "Pour confirmer que vous acceptez de signer ce message avec le certificat sélectionné, veuillez saisir le mot de passe principal :">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Authentification protégée par jeton">
