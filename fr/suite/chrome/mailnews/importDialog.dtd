@@ -50,7 +50,7 @@
 <!ENTITY importShortDesc.label "Importer le courrier et les carnets d'adresses, les paramètres et les filtres d'autres programmes">
 
 <!ENTITY importDescription1.label "Cet assistant importera dans &brandShortName; le courrier, les carnets d'adresses, les préférences et/ou les filtres d'autres programmes similaires et utilisant un format commun.">
-<!ENTITY importDescription2.label "Une fois importées, vous pourrez accéder à ces données depuis le Courrier ou le carnet d'adresses de &brandShortName;.">
+<!ENTITY importDescription2.label "Une fois importées, ces données seront accessibles depuis &brandShortName;.">
 
 <!ENTITY selectDescription.label "Sélectionnez le logiciel depuis lequel vous voulez importer :">
 
