@@ -44,6 +44,8 @@
 <!ENTITY asAttachment.label                   "comme pièce jointe">
 <!ENTITY asAttachment.accesskey               "j">
 
+<!ENTITY replyQuoteInline.label               "Marquer comme citation dans les réponses les pièces jointes affichées dans le corps du courriel">
+<!ENTITY replyQuoteInline.accesskey           "M">
 <!ENTITY warnOnSendAccelKey.label             "Confirmer lors de l'utilisation d'un raccourci clavier pour envoyer un message">
 <!ENTITY warnOnSendAccelKey.accesskey         "u">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
