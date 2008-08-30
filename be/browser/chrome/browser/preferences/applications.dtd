@@ -4,7 +4,4 @@
 <!ENTITY actionColumn2.accesskey "Д">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter.label "Пошук:">
-<!ENTITY filter.accesskey "ш">
-<!ENTITY clear.label "Ачысціць">
-<!ENTITY clear.accesskey "ч">
+<!ENTITY filter.emptytext "Пошук">

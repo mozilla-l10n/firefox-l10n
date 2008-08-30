@@ -6,8 +6,10 @@
 <!ENTITY cancel.label "Скасаваць">
 <!ENTITY cancel.accesskey "С">
 <!ENTITY noupdatesfound.title "Абнаўленні не знойдзены">
-<!ENTITY noupdatesfound.intro "Няма новых абнаўленняў. &brandShortName; правярае 
-                                           час ад часу, ці існуюць новыя абнаўленні.">
+<!ENTITY noupdatesautoenabled.intro "Няма даступных абнаўленняў. &brandShortName; будзе правяраць час ад часу,
+                                           ці яны з'явіліся.">
+<!ENTITY noupdatesautodisabled.intro "Няма даступных абнаўленняў. Праверце, калі ласка, пазней ці дазвольце
+                                           &brandShortName; рабціь праверку самастойна.">
 <!ENTITY incompatibleChecking.label "Правяраць, ці гэтае абнаўленне выкліча праблемы з вашымі пашырэннямі і/ці тэмамі…">
 <!ENTITY clickHere.label "Пабачыць болей падрабязныя звесткі пра гэта абнаўленне">
 <!ENTITY incompatible.warning "Гэтае абнаўленне спыніць працу асобных вашых пашырэнняў і/або тэмаў, 

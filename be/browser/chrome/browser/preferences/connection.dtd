@@ -21,9 +21,9 @@
 <!ENTITY http.label "Пасярэднік HTTP:">
 <!ENTITY http.accesskey "H">
 <!ENTITY ssl.label "Пасярэднік SSL:">
-<!ENTITY ssl.accesskey "s">
+<!ENTITY ssl.accesskey "S">
 <!ENTITY socks.label "Трымальнік SOCKS:">
-<!ENTITY socks.accesskey "S">
+<!ENTITY socks.accesskey "C">
 <!ENTITY socks4.label "SOCKS в4">
 <!ENTITY socks4.accesskey "4">
 <!ENTITY socks5.label "SOCKS в5">
