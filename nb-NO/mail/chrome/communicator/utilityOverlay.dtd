@@ -23,15 +23,15 @@
 <!ENTITY copyCmd.accesskey          "k">
 <!ENTITY pasteCmd.label            "Lim inn">
 <!ENTITY pasteCmd.key            "V">
-<!ENTITY pasteCmd.accesskey                 "L">
-<!ENTITY deleteCmd.label                    "Slett">
-<!ENTITY deleteCmd.key                      "D">
-<!ENTITY deleteCmd.accesskey                "t">
-<!ENTITY selectAllCmd.label                 "Merk alt">
-<!ENTITY selectAllCmd.key                   "A">
-<!ENTITY selectAllCmd.accesskey             "M">
-<!ENTITY preferencesCmd.label               "Innstillinger …">
-<!ENTITY preferencesCmd.accesskey           "I">
+<!ENTITY pasteCmd.accesskey          "L">
+<!ENTITY deleteCmd.label          "Slett">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "t">
+<!ENTITY selectAllCmd.label          "Merk alt">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "M">
+<!ENTITY preferencesCmd.label        "Innstillinger …">
+<!ENTITY preferencesCmd.accesskey      "I">
 <!ENTITY preferencesCmdUnix.label       "Innstillinger">
 <!ENTITY preferencesCmdUnix.accesskey     "I">
 

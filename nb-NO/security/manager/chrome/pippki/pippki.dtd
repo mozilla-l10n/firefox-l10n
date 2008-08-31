@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "Autentisering med beskyttet tegn">
 <!ENTITY protectedAuth.msg "Vennligst autentiser tegnet. Autentiseringsmetoden er avhengig av type signeringsenhet.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
+
+<!ENTITY certErrorDlg.title "Sikker tilkobling feilet">
+<!ENTITY certErrorDlg.info1 "Dette kan være på grunn av et problem med tjenerens konfigurasjon, eller det kan være at noen forsøker å utgi seg for å være tjeneren.">
+<!ENTITY certErrorDlg.info2 "Dersom du har brukt denne tjeneren tidligere kan feilen være midlertidig, og du kan forsøke å koble til igjen senere.">

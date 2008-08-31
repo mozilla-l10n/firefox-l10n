@@ -43,12 +43,12 @@
 <!ENTITY generalInfo.label                       "Generell informasjon">
 <!ENTITY folderCharsetTab.label                  "Standard tegnkoding">
 <!ENTITY folderCharsetTab.accesskey              "S">
-<!ENTITY folderCharsetOverride.label             "Bruk standarder for alle meldinger i mappen (individuelle meldingers tegnkodinger og auto-detekterte tegnkodinger vil ikke bli rørt)">
+<!ENTITY folderCharsetOverride.label             "Bruk standarder for alle meldinger i mappen (enkeltmeldingers tegnkoding og auto-detekterte tegnkodinger vil ikke bli berørt)">
 <!ENTITY folderCharsetOverride.accesskey         "B">
 <!ENTITY folderRebuildSummaryFile.label          "Bygg opp på nytt">
 <!ENTITY folderRebuildSummaryFile.accesskey      "o">
 <!ENTITY folderRebuildSummaryFileTip.label       "Bygg opp oppsummeringsfil på nytt">
-
+     
 <!ENTITY retention.label "Bevaring av meldinger">
 <!ENTITY retentionUseDefault.label  "Bruk tjenerens forvalg">
 <!ENTITY retentionUseDefault.accesskey "B">
@@ -56,8 +56,8 @@
 <!ENTITY daysOld.label "dager">
 <!ENTITY message.label "meldingene">
 <!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldinger slettes permanent">
-<!ENTITY retentionKeepMsg.label "Slett meldinger eldre enn">
-<!ENTITY retentionKeepMsg.accesskey "e">
+<!ENTITY retentionDeleteMsg.label "Slett meldinger eldre enn">
+<!ENTITY retentionDeleteMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">
 <!ENTITY retentionKeepAll.accesskey "I">
 <!ENTITY retentionKeepNew.label "Slett alle med unntak av de siste">

@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "S">
 <!ENTITY downloadDictionaries.label           "Last ned flere ordbøker">
 
-<!ENTITY useMIME.label                        "For meldinger som inneholder 8-bit-tegn, bruk 'quoted printable' MIME-koding">
-<!ENTITY useMIME.accesskey                    "F">
 <!ENTITY warnOnSendAccelKey.label             "Bekreft når tastatursnarvei brukes for å sende meldinger">
 <!ENTITY warnOnSendAccelKey.accesskey         "B">
 <!ENTITY autoSave.label                       "Lagre meldinger automatisk hvert">

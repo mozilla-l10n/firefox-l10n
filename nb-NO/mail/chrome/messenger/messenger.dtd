@@ -422,6 +422,10 @@
 <!ENTITY filtersCmd.accesskey "M">
 <!ENTITY filtersApply.label "Utfør filtre på mappe">
 <!ENTITY filtersApply.accesskey "U">
+<!ENTITY filtersApplyToSelection.label "Utfør filtre på valgte meldinger">
+<!ENTITY filtersApplyToSelection.accesskey "f">
+<!ENTITY filtersApplyToMessage.label "Utfør filtre på melding">
+<!ENTITY filtersApplyToMessage.accesskey "ø">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Hent nye">
@@ -518,6 +522,8 @@
 <!ENTITY folderContextProperties.accesskey "I">
 <!ENTITY folderContextFavoriteFolder.label "Favorittmappe">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
+<!ENTITY folderContextSettings.label "Innstillinger …">
+<!ENTITY folderContextSettings.accesskey "n">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Navn eller e-postadresse inneholder:">

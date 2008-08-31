@@ -10,8 +10,10 @@
 <!ENTITY  cancel.accesskey                "A">
 
 <!ENTITY  noupdatesfound.title            "Ingen oppdateringer funnet">
-<!ENTITY  noupdatesfound.intro            "Det er ingen nye oppdateringer tilgjengelige. &brandShortName; kan se
+<!ENTITY  noupdatesautoenabled.intro      "Ingen oppdateringer er tilgjengelige. &brandShortName; vil se
                                            etter nye oppdateringer ved jevne mellomrom.">
+<!ENTITY  noupdatesautodisabled.intro     "Ingen oppdateringer er tilgjengelig. Prøv igjen senere, eller
+                                           slå på automatisk oppdateringssøk for &brandShortName;.">
 
 <!ENTITY  incompatibleChecking.label      "Kontrollerer om denne oppdateringen kan gi problemer med noen av utvidelsene eller temaene dine …">
 <!ENTITY  clickHere.label                 "Trykk her for mer informasjon om denne oppdateringen">
