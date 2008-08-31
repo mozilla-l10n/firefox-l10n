@@ -50,12 +50,9 @@
 <!ENTITY color.label                      "Farbe:">
 <!ENTITY color.accesskey                  "F">
 <!ENTITY displayPlainText.caption         "Reintext-Nachrichten">
-<!ENTITY plainTextFont.label              "Folgende Schriftbreite verwenden:">
+<!ENTITY fontPlainText.label              "Schrift:">
+<!ENTITY fontPlainText.accesskey          "c">
 <!ENTITY displayQuoted.label              "Einstellungen für zitierte Nachrichten:">
-<!ENTITY fixedWidth.label                 "Fest">
-<!ENTITY fixedWidth.accesskey             "F">
-<!ENTITY variableWidth.label              "Variable">
-<!ENTITY variableWidth.accesskey          "V">
 <!ENTITY readingMessagesHeader.label      "Für eingehende Nachrichten">
 <!ENTITY messageWrapping.label            "Nachrichten-Umbruch">
 <!ENTITY wrapInMsg.label                  "Textumbruch am rechten Fensterrand">
@@ -81,4 +78,6 @@
 <!ENTITY existingWindowRadio.label        "Existierendem Nachrichtenfenster">
 <!ENTITY existingWindowRadio.accesskey    "E">
 <!ENTITY disableContent.label             "Grafiken und andere Inhalte aus externen Quellen blockieren">
-<!ENTITY disableContent.accesskey         "G">
+<!ENTITY disableContent.accesskey         "k">
+<!ENTITY showCondensedAddresses.label     "Für Personen im persönlichen Adressbuch nur den Anzeigenamen anzeigen">
+<!ENTITY showCondensedAddresses.accesskey "P">

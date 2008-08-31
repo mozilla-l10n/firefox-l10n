@@ -44,6 +44,8 @@
 <!ENTITY asAttachment.label                   "Als Attachment">
 <!ENTITY asAttachment.accesskey               "A">
 
+<!ENTITY replyQuoteInline.label               "Inline angezeigte Attachments in Antworten zitieren">
+<!ENTITY replyQuoteInline.accesskey           "z">
 <!ENTITY warnOnSendAccelKey.label             "Bestätigen, wenn ein Tastaturkürzel zum Senden der Nachricht verwendet wird">
 <!ENTITY warnOnSendAccelKey.accesskey         "B">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
