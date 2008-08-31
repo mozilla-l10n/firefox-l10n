@@ -50,12 +50,9 @@
 <!ENTITY color.label                      "Farge">
 <!ENTITY color.accesskey                  "F">
 <!ENTITY displayPlainText.caption         "Ren tekst-meldinger">
-<!ENTITY plainTextFont.label              "Bruk følgende skriftbredde:">
+<!ENTITY fontPlainText.label              "Skrifttype:">
+<!ENTITY fontPlainText.accesskey          "S">
 <!ENTITY displayQuoted.label              "Innstillinger for siterte meldinger:">
-<!ENTITY fixedWidth.label                 "Fast bredde">
-<!ENTITY fixedWidth.accesskey             "F">
-<!ENTITY variableWidth.label              "Variabel bredde">
-<!ENTITY variableWidth.accesskey          "V">
 <!ENTITY readingMessagesHeader.label      "For innkommende meldinger">
 <!ENTITY messageWrapping.label            "Linjebryting">
 <!ENTITY wrapInMsg.label                  "Bryt teksten til å passe i vinduet">
@@ -82,3 +79,5 @@
 <!ENTITY existingWindowRadio.accesskey    "E">
 <!ENTITY disableContent.label             "Blokker bilder og annet innhold fra Internett">
 <!ENTITY disableContent.accesskey         "B">
+<!ENTITY showCondensedAddresses.label     "Vis bare navnet for personer i adresseboken">
+<!ENTITY showCondensedAddresses.accesskey "V">

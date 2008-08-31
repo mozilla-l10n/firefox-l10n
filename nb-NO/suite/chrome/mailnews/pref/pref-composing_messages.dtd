@@ -44,6 +44,8 @@
 <!ENTITY asAttachment.label                   "Som vedlegg">
 <!ENTITY asAttachment.accesskey               "S">
 
+<!ENTITY replyQuoteInline.label               "Siter vedlegg innbundet i svar">
+<!ENTITY replyQuoteInline.accesskey           "S">
 <!ENTITY warnOnSendAccelKey.label             "Bekreft når tastatursnarvei brukes for å sende meldinger">
 <!ENTITY warnOnSendAccelKey.accesskey         "B">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with

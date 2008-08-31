@@ -57,17 +57,17 @@
 <!ENTITY bookmarkLinkCmd.accesskey    "L">
 <!ENTITY bookmarkFrameCmd.label       "Legg rammen i bokmerker">
 <!ENTITY bookmarkFrameCmd.accesskey   "R">
-<!ENTITY savePageAsCmd.label          "Lagre siden som ...">
+<!ENTITY savePageAsCmd.label          "Lagre siden som …">
 <!ENTITY savePageCmd.label            "Lagre siden">
 <!ENTITY savePageCmd.accesskey        "a">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameAsCmd.label         "Lagre ramme som ...">
+<!ENTITY saveFrameAsCmd.label         "Lagre ramme som …">
 <!ENTITY saveFrameCmd.label           "Lagre ramme">
 <!ENTITY saveFrameCmd.accesskey       "S">
-<!ENTITY saveLinkAsCmd.label          "Lagre lenkemål som ...">
+<!ENTITY saveLinkAsCmd.label          "Lagre lenkemål som …">
 <!ENTITY saveLinkCmd.label            "Lagre lenkemål">
 <!ENTITY saveLinkCmd.accesskey        "a">
-<!ENTITY saveImageAsCmd.label         "Lagre bilde som ...">
+<!ENTITY saveImageAsCmd.label         "Lagre bilde som …">
 <!ENTITY saveImageCmd.label           "Lagre bilde">
 <!ENTITY saveImageCmd.accesskey       "L">
 <!ENTITY copyCmd.label                "Kopier">
@@ -108,5 +108,5 @@
 <!ENTITY spellNoSuggestions.label       "(Ingen forslag)">
 <!ENTITY spellDictionaries.label        "Språk">
 <!ENTITY spellDictionaries.accesskey    "r">
-<!ENTITY spellAddDictionaries.label     "Last ned flere ordbøker ...">
+<!ENTITY spellAddDictionaries.label     "Last ned flere ordbøker …">
 <!ENTITY spellAddDictionaries.accesskey "L">

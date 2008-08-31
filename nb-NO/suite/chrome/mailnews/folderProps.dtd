@@ -60,8 +60,8 @@
 <!ENTITY retentionDownloadMsg.label "Meldinger mer enn">
 <!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Behold:">
-<!ENTITY retentionKeepMsg.label "Slett meldinger eldre enn">
-<!ENTITY retentionKeepMsg.accesskey "e">
+<!ENTITY retentionDeleteMsg.label "Slett meldinger eldre enn">
+<!ENTITY retentionDeleteMsg.accesskey "e">
 <!ENTITY retentionKeepAll.label "Ikke slett noen meldinger">
 <!ENTITY retentionKeepAll.accesskey "I">
 <!ENTITY retentionKeepNew.label "Slett alle med unntak av de siste">

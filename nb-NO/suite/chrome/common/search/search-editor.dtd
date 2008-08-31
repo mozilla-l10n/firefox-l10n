@@ -46,9 +46,9 @@
 <!ENTITY remove.label                "Fjern">
 <!ENTITY remove.accesskey            "F">
 
-<!ENTITY new.category.label          "Ny ...">
+<!ENTITY new.category.label          "Ny …">
 <!ENTITY new.category.accesskey      "N">
-<!ENTITY rename.category.label       "Endre navn ...">
+<!ENTITY rename.category.label       "Endre navn …">
 <!ENTITY rename.category.accesskey   "E">
 <!ENTITY remove.category.label       "Slett">
 <!ENTITY remove.category.accesskey   "S">

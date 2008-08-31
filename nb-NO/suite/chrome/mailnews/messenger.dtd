@@ -454,6 +454,10 @@
 <!ENTITY filtersCmd.accesskey "M">
 <!ENTITY filtersApply.label "Utfør filtre på mappe">
 <!ENTITY filtersApply.accesskey "U">
+<!ENTITY filtersApplyToSelection.label "Utfør filtre på merkede meldinger">
+<!ENTITY filtersApplyToSelection.accesskey "ø">
+<!ENTITY filtersApplyToMessage.label "Utfør filtre på melding">
+<!ENTITY filtersApplyToMessage.accesskey "g">
 <!ENTITY runJunkControls.label "Utfør søppelpostkontroll på mappe">
 <!ENTITY runJunkControls.accesskey "ø">
 <!ENTITY deleteJunk.label "Slett e-post merket som søppelpost i mappen">
@@ -573,8 +577,10 @@
 <!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Innstillinger …">
 <!ENTITY folderContextProperties.accesskey "I">
+<!ENTITY folderContextSettings.label "Innstillinger …">
+<!ENTITY folderContextSettings.accesskey "e">
 
-<!-- SearchBar -->
+<!---SearchBar-->
 <!-- also used by addressbook -->
 <!ENTITY SearchSubjectOrFrom.label "Emne eller avsender inneholder:">
 <!ENTITY SearchSubjectOrFrom.accesskey "n">
