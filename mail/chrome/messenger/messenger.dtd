@@ -403,12 +403,12 @@
 <!ENTITY filtersApply.label "Ejecutar filtros en la carpeta">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Ejecutar filtros en los mensajes seleccionados">
-<!ENTITY getMsgButton.label "Recibir">
 <!ENTITY filtersApplyToSelection.accesskey "S">
-<!ENTITY newMsgButton.label "Redactar">
 <!ENTITY filtersApplyToMessage.label "Ejecutar filtros en el mensaje">
-<!ENTITY replyButton.label "Responder">
 <!ENTITY filtersApplyToMessage.accesskey "s">
+<!ENTITY getMsgButton.label "Recibir">
+<!ENTITY newMsgButton.label "Redactar">
+<!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Resp. a todos">
 <!ENTITY forwardButton.label "Reenviar">
 <!ENTITY fileButton.label "Archivo">
@@ -492,6 +492,8 @@
 <!ENTITY folderContextProperties.accesskey "o">
 <!ENTITY folderContextFavoriteFolder.label "Carpeta favorita">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings.label "Configuración…">
+<!ENTITY folderContextSettings.accesskey "C">
 <!ENTITY SearchNameOrEmail.label "El nombre o dirección contiene:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY clearButton.label "Limpiar">
@@ -499,7 +501,7 @@
 <!ENTITY searchSubjectMenu.label "Asunto">
 <!ENTITY searchFromMenu.label "Remitente">
 <!ENTITY searchSubjectOrFromMenu.label "Asunto o remitente">
-<!ENTITY searchRecipient.label "Para o Cc">
+<!ENTITY searchRecipient.label "Para o CC">
 <!ENTITY searchMessageBody.label "Cuerpo del mensaje">
 <!ENTITY saveAsVirtualFolderMenu.label "Guardar la búsqueda como una carpeta…">
 <!ENTITY threadColumn.label "Conversación">
