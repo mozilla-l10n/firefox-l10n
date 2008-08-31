@@ -57,7 +57,7 @@
 <!ENTITY message.label "messages">
 <!ENTITY retentionNotDownloadRead.label "Messages lus">
 <!ENTITY retentionNotDownloadRead.accesskey "s">
-<!ENTITY retentionDownloadMsg.label "Messages de plus de">
+<!ENTITY retentionDownloadMsg.label "Messages ayant plus de">
 <!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Conserver :">
 <!ENTITY retentionDeleteMsg.label "Supprimer les messages ayant plus de ">
@@ -78,7 +78,7 @@
 <!ENTITY offlineFolder.button.label "Télécharger maintenant">
 <!ENTITY offlineFolder.button.accesskey "m">
 
-<!ENTITY selectofflineNewsgroup.check.label     "Sélectionner ce groupe pour une utilisation hors ligne">
+<!ENTITY selectofflineNewsgroup.check.label "Sélectionner ce groupe pour une utilisation hors ligne">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
 <!ENTITY UseDefaultofflineNewsgroup.check.label "Utiliser les paramètres par défaut du compte ">
 <!ENTITY offlineNewsgroup.button.label "Télécharger maintenant">
@@ -97,8 +97,7 @@
 <!ENTITY permissionsDesc.label "Vous avez les permissions suivantes :">
 <!ENTITY folderType.label "Type de dossier :">
 
-<!ENTITY folderQuotaTab.label "Quota">
+<!ENTITY folderQuotaTab.label "Quotas">
 <!ENTITY folderQuotaRoot.label "Racine des quotas :">
 <!ENTITY folderQuotaUsage.label "Utilisation :">
 <!ENTITY folderQuotaStatus.label "Statut :">
-

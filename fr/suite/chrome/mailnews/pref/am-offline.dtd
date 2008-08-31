@@ -2,26 +2,26 @@
 <!ENTITY doNotDownload.label "Pour préserver de l'espace disque, ne pas télécharger pour le travail hors ligne :">
 <!ENTITY offlineNewFolder.label "Quand je crée un dossier, le sélectionner pour le travail hors ligne">
 <!ENTITY offlineNewFolder.accesskey "h">
-<!ENTITY offlineNotDownload.label "Les messages plus grands que">
+<!ENTITY offlineNotDownload.label "Les messages dont la taille est supérieure à">
 <!ENTITY offlineNotDownload.accesskey "g">
 <!ENTITY kb.label "Ko">
 <!ENTITY days.label "jours">
 <!ENTITY daysOld.label "jours">
-<!ENTITY message.label                 "messages les plus récents">
+<!ENTITY message.label "messages les plus récents">
 <!ENTITY nntpNotDownloadRead.label "Les messages lus">
 <!ENTITY nntpNotDownloadRead.accesskey "m">
-<!ENTITY nntpDownloadMsg.label "Les messages âgés de plus de">
+<!ENTITY nntpDownloadMsg.label "Les messages ayant plus de">
 <!ENTITY nntpDownloadMsg.accesskey "p">
 <!ENTITY retentionCleanup.label "Pour libérer de l'espace disque, les messages anciens peuvent être définitivement supprimés">
-<!ENTITY retentionKeepMsg.label "Supprimer les messages plus vieux que">
+<!ENTITY retentionKeepMsg.label "Supprimer les messages ayant plus de">
 <!ENTITY retentionKeepMsg.accesskey "v">
 <!ENTITY retentionKeepAll.label "Ne pas supprimer les messages">
 <!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepNew.label        "Supprimer tous les messages, sauf les">
-<!ENTITY retentionKeepNew.accesskey     "l">
+<!ENTITY retentionKeepNew.label "Supprimer tous les messages, sauf les">
+<!ENTITY retentionKeepNew.accesskey "l">
 <!ENTITY retentionKeepUnread.label "Toujours supprimer les messages lus">
 <!ENTITY retentionKeepUnread.accesskey "t">
-<!ENTITY nntpRemoveBody.label "Uniquement les messages plus récents que">
+<!ENTITY nntpRemoveBody.label "Uniquement les messages ayant moins de">
 <!ENTITY nntpRemoveBody.accesskey "q">
 <!ENTITY offlineSelectNntp.label "Sélectionner les groupes de discussion pour le travail hors ligne…">
 <!ENTITY offlineSelectNntp.accesskey "S">

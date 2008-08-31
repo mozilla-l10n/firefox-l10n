@@ -10,10 +10,10 @@
 <!ENTITY message.label "plus récents">
 <!ENTITY nntpNotDownloadRead.label "Les messages lus">
 <!ENTITY nntpNotDownloadRead.accesskey "L">
-<!ENTITY nntpDownloadMsg.label "Les messages agés de plus de">
+<!ENTITY nntpDownloadMsg.label "Les messages ayant plus de">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Afin de gagner de l'espace disque, les anciens messages peuvent être supprimés définitivement">
-<!ENTITY retentionKeepMsg.label "Supprimer les messages agés de plus de">
+<!ENTITY retentionKeepMsg.label "Supprimer les messages ayant plus de">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ne supprimer aucun message">
 <!ENTITY retentionKeepAll.accesskey "a">
@@ -21,7 +21,7 @@
 <!ENTITY retentionKeepNew.accesskey "s">
 <!ENTITY retentionKeepUnread.label "Toujours supprimer les messages lus">
 <!ENTITY retentionKeepUnread.accesskey "r">
-<!ENTITY nntpRemoveBody.label "Uniquement les corps de messages agés de moins de">
+<!ENTITY nntpRemoveBody.label "Uniquement les corps de messages ayant moins de">
 <!ENTITY nntpRemoveBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Sélection groupes pour utilisation hors ligne…">
 <!ENTITY offlineSelectNntp.accesskey "S">
