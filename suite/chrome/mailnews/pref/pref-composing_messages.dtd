@@ -6,6 +6,8 @@
 <!ENTITY inline.accesskey "n">
 <!ENTITY asAttachment.label "Como adjunto">
 <!ENTITY asAttachment.accesskey "A">
+<!ENTITY replyQuoteInline.label "Citar adjuntos visibles en línea en las respuestas">
+<!ENTITY replyQuoteInline.accesskey "C">
 <!ENTITY warnOnSendAccelKey.label "Confirmar al usar el atajo de teclado para enviar un mensaje">
 <!ENTITY warnOnSendAccelKey.accesskey "j">
 <!ENTITY autoSave.label "Guardar el mensaje automáticamente cada">

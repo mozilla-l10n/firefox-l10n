@@ -13,12 +13,9 @@
 <!ENTITY color.label "Color:">
 <!ENTITY color.accesskey "C">
 <!ENTITY displayPlainText.caption "Mensajes de texto sin formato">
-<!ENTITY plainTextFont.label "Usar el siguiente ancho de letra:">
+<!ENTITY fontPlainText.label "Tipo de letra:">
+<!ENTITY fontPlainText.accesskey "d">
 <!ENTITY displayQuoted.label "Configuración de mensajes citados:">
-<!ENTITY fixedWidth.label "Fijo">
-<!ENTITY fixedWidth.accesskey "F">
-<!ENTITY variableWidth.label "Variable">
-<!ENTITY variableWidth.accesskey "V">
 <!ENTITY readingMessagesHeader.label "Para los mensajes entrantes">
 <!ENTITY messageWrapping.label "Ajuste de línea en los mensajes">
 <!ENTITY wrapInMsg.label "Ajustar texto al ancho de la ventana">
@@ -29,9 +26,9 @@
 <!ENTITY autoMarkAsRead.label "Marcar automáticamente mensajes como leídos">
 <!ENTITY autoMarkAsRead.accesskey "m">
 <!ENTITY markAsReadNoDelay.label "Inmediatamente tras mostrarlo">
-<!ENTITY markAsReadNoDelay.accesskey "d">
+<!ENTITY markAsReadNoDelay.accesskey "m">
 <!ENTITY markAsReadDelay.label "Tras mostrarlo durante">
-<!ENTITY markAsReadDelay.accesskey "e">
+<!ENTITY markAsReadDelay.accesskey "T">
 <!ENTITY secondsLabel.label "segundos">
 <!ENTITY openingMessages.label "Al abrir mensajes, mostrarlos en:">
 <!ENTITY newWindowRadio.label "Una ventana mens. nueva">
@@ -40,3 +37,5 @@
 <!ENTITY existingWindowRadio.accesskey "e">
 <!ENTITY disableContent.label "Bloquear imágenes y otro contenido de orígenes remotos.">
 <!ENTITY disableContent.accesskey "B">
+<!ENTITY showCondensedAddresses.label "Mostrar sólo el atributo 'nombre mostrado' para las personas de mi libreta de direcciones">
+<!ENTITY showCondensedAddresses.accesskey "o">
