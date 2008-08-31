@@ -359,7 +359,6 @@
 <!ENTITY markAllReadCmd.label "Todos leídos">
 <!ENTITY markAllReadCmd.accesskey "t">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmdUnix.key "m">
 <!ENTITY markFlaggedCmd.label "Señalar">
 <!ENTITY markFlaggedCmd.accesskey "S">
 <!ENTITY markFlaggedCmd.key "i">
@@ -390,12 +389,12 @@
 <!ENTITY filtersApply.label "Ejecutar filtros en la carpeta">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Ejecutar filtros en los mensajes seleccionados">
-<!ENTITY runJunkControls.label "Ejecutar controles de correo basura en la carpeta">
 <!ENTITY filtersApplyToSelection.accesskey "u">
-<!ENTITY runJunkControls.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "Ejecutar filtros en el mensaje">
-<!ENTITY deleteJunk.label "Eliminar mensajes marcados como basura en la carpeta">
 <!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY runJunkControls.label "Ejecutar controles de correo basura en la carpeta">
+<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY deleteJunk.label "Eliminar mensajes marcados como basura en la carpeta">
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "p">
@@ -500,6 +499,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "s">
 <!ENTITY folderContextProperties.label "Propiedades…">
 <!ENTITY folderContextProperties.accesskey "o">
+<!ENTITY folderContextSettings.label "Configuración…">
+<!ENTITY folderContextSettings.accesskey "C">
 <!ENTITY SearchSubjectOrFrom.label "Asunto o Remitente contiene:">
 <!ENTITY SearchSubjectOrFrom.accesskey "s">
 <!ENTITY SearchNameOrEmail.label "El nombre o dirección contiene:">
