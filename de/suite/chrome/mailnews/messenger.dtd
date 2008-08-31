@@ -422,7 +422,6 @@
 <!ENTITY markAllReadCmd.label "Alles als gelesen">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmdUnix.key "m">
 <!ENTITY markFlaggedCmd.label "Kennzeichnung">
 <!ENTITY markFlaggedCmd.accesskey "k">
 <!ENTITY markFlaggedCmd.key "i">
@@ -454,6 +453,10 @@
 <!ENTITY filtersCmd.accesskey "N">
 <!ENTITY filtersApply.label "Filter auf Ordner anwenden">
 <!ENTITY filtersApply.accesskey "F">
+<!ENTITY filtersApplyToSelection.label "Filter auf ausgewählte Nachrichten anwenden">
+<!ENTITY filtersApplyToSelection.accesskey "w">
+<!ENTITY filtersApplyToMessage.label "Filter auf Nachricht anwenden">
+<!ENTITY filtersApplyToMessage.accesskey "w">
 <!ENTITY runJunkControls.label "Junk-Mail-Filter auf Ordner anwenden">
 <!ENTITY runJunkControls.accesskey "J">
 <!ENTITY deleteJunk.label "Im Ordner als Junk markierte Mail löschen">
@@ -573,6 +576,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "N">
 <!ENTITY folderContextProperties.label "Eigenschaften…">
 <!ENTITY folderContextProperties.accesskey "E">
+<!ENTITY folderContextSettings.label "Einstellungen…">
+<!ENTITY folderContextSettings.accesskey "E">
 
 <!---SearchBar-->
 <!-- also used by addressbook -->
