@@ -1,0 +1,80 @@
+<!-- extracted from content/pref-fonts.xul -->
+<!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
+
+<!ENTITY pref.fonts.title "Betűk">
+
+<!ENTITY language.label "Kódolás:">
+<!ENTITY language.accesskey "k">
+
+<!ENTITY typefaces.label "Betűkészlet">
+<!ENTITY sizes.label "Méret (képpont)">
+
+<!ENTITY proportional.label "Proporcionális:">
+<!ENTITY proportional.accesskey "P">
+
+<!ENTITY serif.label "Talpas:">
+<!ENTITY serif.accesskey "t">
+<!ENTITY sans-serif.label "Talpatlan:">
+<!ENTITY sans-serif.accesskey "a">
+<!ENTITY monospace.label "Fix szélességű:">
+<!ENTITY monospace.accesskey "f">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY fantasy.label "Díszes:">
+<!ENTITY fantasy.accesskey "d">
+<!ENTITY cursive.label "Kurzív:">
+<!ENTITY cursive.accesskey "k">
+
+<!ENTITY fontsize.units "képpont">
+
+<!ENTITY font.langGroup.latin1 "Nyugati">
+<!ENTITY font.langGroup.latin2 "Közép-európai">
+<!ENTITY font.langGroup.japanese "Japán">
+<!ENTITY font.langGroup.trad-chinese "Hagyományos kínai (Tajvan)">
+<!ENTITY font.langGroup.simpl-chinese "Egyszerűsített kínai">
+<!ENTITY font.langGroup.trad-chinese-hk "Hagyományos kínai (Hong Kong)">
+<!ENTITY font.langGroup.korean "Koreai">
+<!ENTITY font.langGroup.cyrillic "Cirill">
+<!ENTITY font.langGroup.baltic "Balti">
+<!ENTITY font.langGroup.el "Görög">
+<!ENTITY font.langGroup.turkish "Török">
+<!ENTITY font.langGroup.unicode "Más nyelvek">
+<!ENTITY font.langGroup.user-def "Felhasználó által megadott">
+<!ENTITY font.langGroup.thai "Thai">
+<!ENTITY font.langGroup.hebrew "Héber">
+<!ENTITY font.langGroup.arabic "Arab">
+<!ENTITY font.langGroup.devanagari "Devanagari">
+<!ENTITY font.langGroup.tamil "Tamil">
+<!ENTITY font.langGroup.armenian "Örmény">
+<!ENTITY font.langGroup.bengali "Bengáli">
+<!ENTITY font.langGroup.canadian "Egységes kanadai szótagírás">
+<!ENTITY font.langGroup.ethiopic "Etióp">
+<!ENTITY font.langGroup.georgian "Grúz">
+<!ENTITY font.langGroup.gujarati "Gudzsarati">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
+<!ENTITY font.langGroup.khmer "Khmer">
+<!ENTITY font.langGroup.malayalam "Malayalam">
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Legkisebb betűméret:">
+<!ENTITY minSize.accesskey "l">
+<!ENTITY minSize.none "Nincs">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Talpas">
+<!ENTITY useDefaultFontSansSerif.label "Talpatlan">
+
+<!ENTITY newLanguages.label "Új nyelveket a 'Nyelvek' menüpontban állíthat be.">
+
+<!ENTITY useDocumentFonts.label "A dokumentumok használhatják a saját maguk által megadott betűkészleteket.">
+<!ENTITY useDocumentFonts.accesskey "z">
+<!-- leaving this stuff in for now -->
+
+
+<!ENTITY header2 "Amikor a dokumentum saját maga választ betűkészletet,">
+<!ENTITY useDefaultFont.label "mindig az itt megadott betűkészleteket használja, figyelmen kívül hagyva a dokumentum beállításait.">
+<!ENTITY useDefaultFont.accesskey "m">
+<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY useDocFontNonDynamic.label "használja a dokumentumban megadott betűkészleteket, kivéve a dinamikus betűkészleteket.">
+<!ENTITY useDocFontNonDynamic.accesskey "h">
+<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY useDocFontDynamic.label "használja a dokumentumban megadott betűkészleteket, beleértve a dinamikus betűkészleteket is.">
+<!ENTITY useDocFontDynamic.accesskey "a">

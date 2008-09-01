@@ -1,0 +1,19 @@
+
+<!ENTITY pref.policies.title "Biztonsági házirend">
+
+<!ENTITY zoneIntro.label "A &brandShortName; lehetővé teszi, hogy létrehozzon elveket, amelyek meghatározzák, hogy mit érhetnek el, illetve mit tehetnek meg az egyes weboldalak különböző funkcionalitás mellett, beleértve a parancsfájlokat és a Javát.">
+
+<!ENTITY policies.label "Irányelvek:">
+<!ENTITY default.label "Alapelv">
+<!ENTITY allWebsites.label "Minden webhely">
+<!ENTITY trusted.label "Megbízható webhelyek">
+<!ENTITY annoyances.label "Zaklatások">
+<!ENTITY restricted.label "Korlátozott webhelyek">
+
+<!ENTITY addSite.label "Webhely hozzáadása...">
+<!ENTITY addSite.accesskey "w">
+<!ENTITY settings.label "Beállítások a következőhöz ">
+<!ENTITY settings.accesskey "b">
+
+<!ENTITY description.label "Elvek leírása:">
+

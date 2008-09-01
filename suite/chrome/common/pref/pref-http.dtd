@@ -1,0 +1,19 @@
+<!ENTITY pref.http.title "HTTP-beállítások">
+<!-- Network-->
+
+<!ENTITY prefDirect.label "Közvetlen kapcsolat beállításai">
+<!ENTITY prefProxy.label "Proxyn keresztüli kapcsolat beállításai">
+<!ENTITY prefEnableHTTP10.label "HTTP 1.0 használata">
+<!ENTITY prefEnableHTTP10.accesskey "H">
+<!ENTITY prefEnableHTTP10Proxy.accesskey "S">
+<!ENTITY prefEnableHTTP11.label "HTTP 1.1 használata">
+<!ENTITY prefEnableHTTP11.accesskey "P">
+<!ENTITY prefEnableHTTP11Proxy.accesskey "T">
+<!ENTITY prefEnableKeepAlive.label "Tartós kapcsolatok (keep-alive) engedélyezése">
+<!ENTITY prefEnableKeepAlive.accesskey "T">
+<!ENTITY prefEnableKeepAliveProxy.accesskey "a">
+<!ENTITY prefEnablePipelining.label "Adatcsatornák (pipelining) engedélyezése">
+<!ENTITY prefEnablePipelining.accesskey "D">
+<!ENTITY prefEnablePipeliningProxy.accesskey "d">
+<!ENTITY prefPara "A HTTP-kapcsolatok teljesítménye, illetve kompatibilitása finomhangolható ezekkel a beállításokkal. Bizonyos proxykiszolgálók például megkövetelik a HTTP/1.0-t (olvassa el a verzióinformációkat további részletekért).">
+<!ENTITY prefPipeWarning "FIGYELEM: Az adatcsatornák használata kísérleti funkció, elvileg növeli az oldalbetöltés sebességét, de sajnos bizonyos webkiszolgálók és proxyk nem támogatják megfelelően.">

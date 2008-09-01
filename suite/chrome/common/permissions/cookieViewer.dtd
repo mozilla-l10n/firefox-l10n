@@ -1,0 +1,33 @@
+<!ENTITY tab.cookiesonsystem.label "Tárolt sütik">
+<!ENTITY tab.bannedservers.label "Sütit küldő webhelyek">
+<!ENTITY div.bannedservers.label "Azon webhelyek kezelése, amelyek sütiket tudnak, illetve nem tudnak eltárolni a számítógépén.">
+<!ENTITY div.cookiesonsystem.label "A számítógépén eltárolt sütik megtekintése és törlése">
+<!ENTITY treehead.cookiename.label "Süti neve">
+<!ENTITY treehead.cookiedomain.label "Webhely">
+<!ENTITY treehead.cookieexpires.label "Lejár">
+<!ENTITY treehead.infoselected.label "A kijelölt süti adatai">
+<!ENTITY button.removecookie.label "Süti törlése">
+<!ENTITY button.removeallcookies.label "Összes süti törlése">
+
+<!ENTITY props.name.label "Név:">
+<!ENTITY props.value.label "Tartalom:">
+<!ENTITY props.domain.label "Kiszolgáló:">
+<!ENTITY props.path.label "Útvonal:">
+<!ENTITY props.secure.label "Biztonság:">
+<!ENTITY props.expires.label "Lejárat:">
+
+<!ENTITY treehead.sitename.label "Webhely">
+<!ENTITY treehead.status.label "Állapot">
+<!ENTITY windowtitle.label "Sütikezelő">
+<!ENTITY buttonaccept.label "Bezárás">
+
+<!ENTITY blockSite.label "Tiltás">
+<!ENTITY allowSite.label "Engedélyezés">
+<!ENTITY allowSiteSession.label "Munkamenet">
+<!ENTITY removepermission.label "Webhely eltávolítása">
+<!ENTITY removeallpermissions.label "Minden webhely eltávolítása">
+
+<!ENTITY canSet.label "sütik elfogadhatóak">
+<!ENTITY cannotSet.label "sütik nem fogadhatóak el">
+
+<!ENTITY checkbox.label "Az eltávolított sütiket beállító webhelyek nem állíthatnak be további sütiket.">

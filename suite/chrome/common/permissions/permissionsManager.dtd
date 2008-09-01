@@ -1,0 +1,14 @@
+<!ENTITY windowtitle.label "Engedélyezett webhelyek">
+<!ENTITY treehead.sitename.label "Webhely">
+<!ENTITY treehead.status.label "Állapot">
+<!ENTITY remove.label "Eltávolítás">
+<!ENTITY remove.accesskey "T">
+<!ENTITY removeall.label "Minden webhely eltávolítása">
+<!ENTITY removeall.accesskey "l">
+<!ENTITY address.label "Webhely:">
+<!ENTITY block.label "Tiltás">
+<!ENTITY block.accesskey "T">
+<!ENTITY session.label "Engedélyezés a munkamenetben">
+<!ENTITY session.accesskey "M">
+<!ENTITY allow.label "Engedélyezés">
+<!ENTITY allow.accesskey "E">

@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
+
+<!ENTITY pref.content.title "Tartalom">
+<!ENTITY pref.content.description "Ezek a beállítások a webhely és a szöveges tartalom megjelenését befolyásolják a &brandShortName; programban.">
+<!ENTITY siteIcons.label "Webhely ikonok">
+<!ENTITY useSiteIcons.label "Webhely ikonok megjelenítése">
+<!ENTITY useSiteIcons.accesskey "S">
+<!ENTITY useFavIcons.label "Agresszív ikonfelderítés, ha a webhelyen nincs megadva">
+<!ENTITY useFavIcons.accesskey "A">
+<!ENTITY tbIconsDescription.label "Webhely ikonok megjelenítéseDisplay website icons in bookmarks menu and toolbar:">
+<!ENTITY tbIconsNever.label "Soha ne jelenítsen meg ikonokat a könyvjelzőkhöz">
+<!ENTITY tbIconsNever.accesskey "S">
+<!ENTITY tbIconsCache.label "Ikon megjelenítése nem rég meglátogatott webhely esetén">
+<!ENTITY tbIconsCache.accesskey "I">
+<!ENTITY tbIconsAlways.label "Mindig jelenítsen meg ikonokat a könyvjelzőkhöz">
+<!ENTITY tbIconsAlways.accesskey "m">
+<!ENTITY enableAutomaticImageResizing.label "Nagy képek átméretezése, hogy elférjen a böngésző ablakban">
+<!ENTITY enableAutomaticImageResizing.accesskey "N">
+<!ENTITY useSmoothScroll.label "Finom görgetés">
+<!ENTITY useSmoothScroll.accesskey "F">
+<!ENTITY textZoomOnly.label "csak a szöveg nagyítása a teljes oldal helyett">
+<!ENTITY textZoomOnly.accesskey "C">

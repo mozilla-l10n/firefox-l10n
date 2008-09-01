@@ -1,0 +1,94 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Biztonsági beállítások">
+<!ENTITY serverSettings.label "Kiszolgáló beállításai">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP levelező-kiszolgáló">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP levelező-kiszolgáló">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Hírcsoport-kiszolgáló (NNTP)">
+<!ENTITY webmail.label "Webmail postafiók">
+<!ENTITY serverType.label "Kiszolgálótípus:">
+<!ENTITY serverName.label "Kiszolgáló:">
+<!ENTITY serverName.accesskey "K">
+<!ENTITY userName.label "Felhasználói név:">
+<!ENTITY userName.accesskey "F">
+<!ENTITY port.label "Port:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Alapértelmezett:">
+<!ENTITY savePassword.label "Jelszó mentése">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Új üzenetek ellenőrzése ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "percenként">
+<!ENTITY isSecure.label "Biztonságos kapcsolat (SSL) használata">
+<!ENTITY isSecure.accesskey "B">
+<!ENTITY socketType.label "Biztonságos kapcsolat (SSL) használata:">
+<!ENTITY neverSecure.label "Soha">
+<!ENTITY neverSecure.accesskey "S">
+<!ENTITY sometimesSecure.label "TLS, ha elérhető">
+<!ENTITY sometimesSecure.accesskey "h">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Biztonságos hitelesítés használata">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "Üzenetek megtartása a kiszolgálón">
+<!ENTITY leaveOnServer.accesskey "m">
+<!ENTITY headersOnly.label "Csak a fejlécek letöltése">
+<!ENTITY headersOnly.accesskey "f">
+<!ENTITY deleteByAgeFromServer.label "Legfeljebb">
+<!ENTITY deleteByAgeFromServer.accesskey "l">
+<!ENTITY daysEnd.label "napig">
+<!ENTITY deleteOnServer2.label "Helyben törölt üzenetek eltávolítása a kiszolgálóról">
+<!ENTITY deleteOnServer2.accesskey "t">
+<!ENTITY downloadOnBiff.label "Új üzenetek automatikus letöltése">
+<!ENTITY downloadOnBiff.accesskey "a">
+<!ENTITY hostname.label "Kiszolgáló neve">
+<!ENTITY username.label "Az Ön felhasználói neve">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "POP-kiszolgáló adatai">
+<!ENTITY deleteMessagePrefix.label "Üzenet törlésekor:">
+<!ENTITY modelMoveToTrash.label "Áthelyezés a Törölt elemek közé">
+<!ENTITY modelMoveToTrash.accesskey "e">
+<!ENTITY modelMarkDeleted.label "Megjelölés töröltként">
+<!ENTITY modelMarkDeleted.accesskey "j">
+<!ENTITY modelDeleteImmediately.label "Törlés azonnal">
+<!ENTITY modelDeleteImmediately.accesskey "T">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "A Beérkezett üzenetek mappa kitisztítása kilépéskor">
+<!ENTITY expungeOnExit.accesskey "K">
+<!ENTITY emptyTrashOnExit.label "A Törölt elemek mappa ürítése kilépéskor">
+<!ENTITY emptyTrashOnExit.accesskey "r">
+<!ENTITY loginAtStartup.label "Új üzenetek ellenőrzése indításkor">
+<!ENTITY loginAtStartup.accesskey "E">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Jóváhagyás kérése, ha">
+<!ENTITY maxMessagesStart.accesskey "j">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "üzenetnél többet kellene letölteni">
+<!ENTITY alwaysAuthenticate.label "Hitelesítés kérése mindig, amikor ehhez a kiszolgálóhoz kapcsolódik">
+<!ENTITY alwaysAuthenticate.accesskey "h">
+<!ENTITY newsrcFilePath.label "newsrc fájl:">
+<!ENTITY localPath.label "Helyi könyvtár:">
+<!ENTITY abbreviate.label "Hírcsoportnevek megjelenítése a Levelezőmappák panelen:">
+<!ENTITY abbreviateOn.label "Teljes névvel (például: 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Rövidített névvel (például: 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Haladó...">
+<!ENTITY serverDefaultCharset.label "Alapértelmezett karakterkódolás:">
+<!ENTITY advancedButton.accesskey "h">
+<!ENTITY localFolderPicker.label "Helyi könyvtár kiválasztása">
+<!ENTITY browseFolder.label "Tallózás...">
+<!ENTITY browseFolder.accesskey "T">
+<!ENTITY newsrcPicker.label "Newsrc fájl kiválasztása">
+<!ENTITY browseNewsrc.label "Tallózás...">
+<!ENTITY browseNewsrc.accesskey "a">

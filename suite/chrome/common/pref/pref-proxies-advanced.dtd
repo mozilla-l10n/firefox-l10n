@@ -1,0 +1,30 @@
+<!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
+<!ENTITY pref.proxies.advanced.title "Speciális proxybeállítások">
+<!ENTITY protocols.caption "Protokollspecifikus proxyk">
+<!ENTITY protocols.description "Általában ugyanaz a proxy képes kezelni az összes felsorolt protokollt.">
+<!ENTITY ftp.label "FTP-proxy:">
+<!ENTITY ftp.accesskey "F">
+<!ENTITY gopher.label "Gopher-proxy:">
+<!ENTITY gopher.accesskey "G">
+<!ENTITY http.label "HTTP-proxy:">
+<!ENTITY http.accesskey "T">
+<!ENTITY reuseProxy.label "A HTTP-proxy beállításainak használata minden protokollhoz">
+<!ENTITY reuseProxy.accesskey "A">
+<!ENTITY ssl.label "SSL-proxy:">
+<!ENTITY ssl.accesskey "S">
+<!ENTITY socks.caption "Általános proxy">
+<!ENTITY socks.description "A SOCKS proxy egy általános proxy, amelyet vállalati vagy hasonló környezetben szoktak használni.">
+<!ENTITY socks.label "SOCKS proxy:">
+<!ENTITY socks.accesskey "O">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "C">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "K">
+<!ENTITY socksRemoteDNS.label "Használat gépnevek feloldására (javasolt a SOCKS v5-nél)">
+<!ENTITY socksRemoteDNS.accesskey "e">
+<!ENTITY port.label "Port:">
+<!ENTITY HTTPport.accesskey "P">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY FTPport.accesskey "r">
+<!-- No accesskey for gopher (':' doesn't go well) -->
+<!ENTITY SOCKSport.accesskey "t">

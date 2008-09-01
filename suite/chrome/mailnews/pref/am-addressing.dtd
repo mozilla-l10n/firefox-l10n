@@ -1,0 +1,34 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Szerkesztés és címzés">
+<!ENTITY addressingGroupTitle.label "Címzés">
+<!ENTITY autocompleteToMyDomain.label "Saját tartomány automatikus hozzáfűzése">
+<!ENTITY autocompleteToMyDomain.accesskey "s">
+<!ENTITY addressingText.label "E-mail címek keresésekor:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "A globális LDAP-kiszolgáló beállításainak használata ennél a postafióknál">
+<!ENTITY useGlobal.accesskey "A">
+<!ENTITY editDirectories.label "Címtárak szerkesztése...">
+<!ENTITY editDirectories.accesskey "C">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Másik LDAP-kiszolgáló használata:">
+<!ENTITY directories.accesskey "m">
+<!-- am-addressing.xul -->
+
+
+<!ENTITY compositionGroupTitle.label "Szerkesztés">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Levelek írása HTML formátumban">
+<!ENTITY useHtml.accesskey "L">
+<!ENTITY autoQuote.label "Válaszoláskor az eredeti szöveg automatikus idézése">
+<!ENTITY autoQuote.accesskey "v">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "Ez után">
+<!ENTITY then.accesskey "E">
+<!ENTITY aboveQuote.label "a válasz kezdése az idézett szöveg felett">
+<!ENTITY belowQuote.label "a válasz kezdése az idézett szöveg alatt">
+<!ENTITY selectAndQuote.label "az idézett szöveg kijelölése">
+<!ENTITY place.label "Az aláírás elhelyezése">
+<!ENTITY place.accesskey "h">
+<!ENTITY belowText.label "az idézet alá (javasolt)">
+<!ENTITY aboveText.label "a válasz alá (az idézet fölé)">

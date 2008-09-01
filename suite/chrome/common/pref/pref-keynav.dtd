@@ -1,0 +1,21 @@
+<!ENTITY pref.keyNav.title "Navigálás a billentyűzettel">
+<!ENTITY tabNavigationBehavior.label "Navigálás a Tab billentyűvel">
+<!ENTITY tabNavigationLinks.label "Hivatkozások">
+<!ENTITY tabNavigationLinks.accesskey "H">
+<!ENTITY tabNavigationForms.label "Gombok, választógombok, jelölőnégyzetek és választólisták">
+<!ENTITY tabNavigationForms.accesskey "G">
+<!ENTITY tabNavigationTextboxes.label "Megjegyzés: a szövegmezők és a gördíthető régiók mindig részei a bejárási sorrendnek.">
+<!ENTITY tabNavigationDesc.label "A Tab vagy a Shift+Tab lenyomására mozogjon a következők között:">
+<!ENTITY findAsYouTypeBehavior.label "Gépelőkeresés">
+<!ENTITY findAsYouTypeTip.label "Ötlet: A gépelőkeresés kézi indításához gépeljen be egy / jelet a szöveg, illetve egy ' jelet a hivatkozások kereséséhez, majd írja be a keresendő szöveget.">
+<!ENTITY findAsYouTypeTimeout.label "Az aktuális keresés törlése néhány másodperc tétlenség után">
+<!ENTITY findAsYouTypeTimeout.accesskey "T">
+<!ENTITY findAsYouTypeSound.label "Hangjelzés, ha a szöveg nem található">
+<!ENTITY findAsYouTypeSound.accesskey "H">
+<!ENTITY findAsYouTypeEnableAuto.label "Automatikus keresés egy weboldalon gépeléskor:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "a">
+<!ENTITY findAsYouTypeAutoText.label "Az oldal teljes szövegében">
+<!ENTITY findAsYouTypeAutoText.accesskey "A">
+<!ENTITY findAsYouTypeAutoLinks.label "Csak a hivatkozásokban">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "c">
+

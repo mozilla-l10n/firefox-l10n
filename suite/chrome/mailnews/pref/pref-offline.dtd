@@ -1,0 +1,30 @@
+<!-- extracted from content/pref-offline.xul -->
+<!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+
+<!ENTITY pref.offline.title "Kapcsolat nélküli munka és lemezterület">
+<!ENTITY pref.offline.caption "Kapcsolat nélküli munka">
+<!ENTITY textStartUp "Induláskor:">
+<!ENTITY textStartUp.accesskey "I">
+<!ENTITY menuitemRememberPrevState "Előző online állapot megjegyzése">
+<!ENTITY menuitemAskMe "Rákérdezés az online állapotra indításkor">
+<!ENTITY menuitemAlwaysOnline "Mindig online indulás">
+<!ENTITY menuitemAlwaysOffline "Mindig kapcsolat nélküli indulás">
+<!ENTITY menuitemAutomatic "Automatikus érzékelés (ha lehetséges)">
+<!ENTITY textGoingOnline "Postázandó üzenetek elküldése a csatlakozáskor">
+<!ENTITY radioAutoSend "Igen">
+<!ENTITY radioAutoSend.accesskey "I">
+<!ENTITY radioNotSend "Soha">
+<!ENTITY radioNotSend.accesskey "S">
+<!ENTITY radioAskUnsent "Kérdés">
+<!ENTITY radioAskUnsent.accesskey "k">
+<!ENTITY textGoingOffline "Üzenetek letöltése kapcsolat nélküli üzemmódra váltáskor">
+<!ENTITY radioAutoDownload "Igen">
+<!ENTITY radioAutoDownload.accesskey "g">
+<!ENTITY radioNotDownload "Soha">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload "Kérdés">
+<!ENTITY radioAskDownload.accesskey "d">
+<!ENTITY Diskspace "Lemezterület">
+<!ENTITY offlineCompact.label "Mappák tömörítése, ha a megtakarított hely több lenne, mint">
+<!ENTITY offlineCompact.accesskey "T">
+<!ENTITY kb.label "KB">

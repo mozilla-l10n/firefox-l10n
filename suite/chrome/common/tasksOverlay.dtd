@@ -1,0 +1,42 @@
+<!-- extracted from tasksOverlay.xul -->
+<!ENTITY navigatorCmd.label "Böngésző">
+<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.commandkey "1">
+<!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
+<!ENTITY editorCmd.label "Composer">
+<!ENTITY editorCmd.accesskey "S">
+<!ENTITY editorCmd.commandkey "4">
+
+<!ENTITY securityInfoCmd.label ".Biztonság">
+<!ENTITY securityInfoCmd.accesskey "b">
+<!ENTITY javaConsoleCmd.label "Java konzol">
+<!ENTITY javaConsoleCmd.accesskey "j">
+
+<!ENTITY errorConsoleCmd.label "Hibakonzol">
+<!ENTITY errorConsoleCmd.accesskey "K">
+<!-- LOCALIZATION NOTE (privacyMenu.label): DONT_TRANSLATE -->
+
+<!ENTITY privacyMenu.label "Privacy &amp; Security">
+<!ENTITY privacyMenu.accesskey "p">
+
+<!ENTITY taskNavigator.tooltip "Böngésző">
+<!ENTITY taskComposer.tooltip "HTML-szerkesztő">
+<!ENTITY taskBar.tooltip "Állapotsor">
+
+<!ENTITY webDevelopment.label "Webfejlesztés">
+<!ENTITY webDevelopment.accesskey "W">
+
+<!ENTITY windowMenu.label "Ablakok">
+<!ENTITY windowMenu.accesskey "A">
+
+<!ENTITY tasksMenu.label "Eszközök">
+<!ENTITY tasksMenu.accesskey "E">
+
+<!ENTITY downloadManagerCmd.label "Letöltéskezelő">
+<!ENTITY downloadManagerCmd.accesskey "L">
+
+<!ENTITY addonsManagerCmd.label "Kiegészők">
+<!ENTITY addonsManagerCmd.accesskey "K">
+
+<!ENTITY switchProfileCmd.label "Profilváltás…">
+<!ENTITY switchProfileCmd.accesskey "p">

@@ -1,0 +1,14 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Írja be a weboldal címét (URL), vagy válasszon ki egy helyi fájlt, melyet meg szeretne nyitni:">
+<!ENTITY enter.accesskey "R">
+<!ENTITY chooseFile.label "Tallózás...">
+<!ENTITY chooseFile.accesskey "T">
+<!ENTITY newWindow.label "új böngészőablakban">
+<!ENTITY newTab.label "új böngészőlapon">
+<!ENTITY topWindow.label "aktuális böngészőablakban">
+<!ENTITY editNewWindow.label "új HTML-szerkesztő ablakban">
+<!ENTITY open.label "Megnyitás">
+<!ENTITY caption.label "Weboldal megnyitása">
+<!ENTITY openWhere.label "Megnyitás:">
+<!ENTITY openWhere.accesskey "M">
