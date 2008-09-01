@@ -487,7 +487,6 @@
 <!ENTITY mailToolbar.tooltip "Pašto mygtukų juosta">
 <!ENTITY locationToolbar.tooltip "Aplankų juosta">
 <!ENTITY advancedButton.tooltip "Ieškoti laiškų…">
-<!ENTITY clearButton.tooltip "Išvalyti ieškinį ir parodyti visus laiškus">
 <!ENTITY getMsgButton.tooltip "Atsiųsti laiškus">
 <!ENTITY newMsgButton.tooltip "Rašyti naują laišką">
 <!ENTITY replyButton.tooltip "Atsakyti į laišką">
@@ -572,6 +571,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "I">
 <!ENTITY folderContextProperties.label "Savybės…">
 <!ENTITY folderContextProperties.accesskey "S">
+<!ENTITY folderContextSettings.label "Nuostatos…">
+<!ENTITY folderContextSettings.accesskey "o">
 
 <!-- SearchBar -->
 <!-- also used by addressbook -->
@@ -581,9 +582,6 @@
 <!ENTITY SearchNameOrEmail.accesskey "I">
 <!ENTITY advancedButton.label "Papildomai…">
 <!ENTITY advancedButton.accesskey "a">
-
-<!ENTITY clearButton.label "Išvalyti">
-<!ENTITY clearButton.accesskey "v">
 
 <!ENTITY all.label "Visi">
 <!ENTITY all.accesskey "i">

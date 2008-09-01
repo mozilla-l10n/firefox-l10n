@@ -39,6 +39,3 @@
 
 <!ENTITY filter.label              "Ieškoti:">
 <!ENTITY filter.accesskey          "I">
-
-<!ENTITY clear.label               "Išvalyti">
-<!ENTITY clear.accesskey           "v">
