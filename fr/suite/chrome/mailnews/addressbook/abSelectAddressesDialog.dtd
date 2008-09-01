@@ -55,8 +55,6 @@
 <!ENTITY lookIn.accesskey "R">
 <!ENTITY for.label "pour :">
 <!ENTITY for.accesskey "o">
-<!ENTITY clearButton.label "Effacer">
-<!ENTITY clearButton.accesskey "E">
 <!ENTITY addressMessageTo.label "Adresser le message à :">
 
 <!-- Tooltips items -->  

@@ -491,7 +491,6 @@
 <!ENTITY mailToolbar.tooltip "Barre d'outils du courrier">
 <!ENTITY locationToolbar.tooltip "Barre d'adresse">
 <!ENTITY advancedButton.tooltip "Rechercher dans les messages…">
-<!ENTITY clearButton.tooltip "Effacer le critère de recherche et montrer tous les messages">
 <!ENTITY getMsgButton.tooltip "Relever les nouveaux messages">
 <!ENTITY newMsgButton.tooltip "Créer un nouveau message">
 <!ENTITY replyButton.tooltip "Répondre au message">
@@ -587,9 +586,6 @@
 <!ENTITY SearchNameOrEmail.accesskey "n">
 <!ENTITY advancedButton.label "Avancée…">
 <!ENTITY advancedButton.accesskey "v">
-
-<!ENTITY clearButton.label "Effacer">
-<!ENTITY clearButton.accesskey "c">
 
 <!ENTITY all.label "Tout">
 <!ENTITY all.accesskey "T">

@@ -9,6 +9,3 @@
 
 <!ENTITY filter.label            "Rechercher :">
 <!ENTITY filter.accesskey        "c">
-
-<!ENTITY clear.label             "Réinitialiser">
-<!ENTITY clear.accesskey         "l">
