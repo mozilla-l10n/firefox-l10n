@@ -16,8 +16,6 @@
 <!ENTITY lookIn.accesskey "в">
 <!ENTITY for.label "кого:">
 <!ENTITY for.accesskey "к">
-<!ENTITY clearButton.label "Очистить">
-<!ENTITY clearButton.accesskey "ч">
 <!ENTITY addressMessageTo.label "Адресовать сообщение:">
 <!ENTITY addressPickerNewButton.tooltip "Создание карточки адресной книги">
 <!ENTITY addressPickerEditButton.tooltip "Изменение выбранной карточки">
