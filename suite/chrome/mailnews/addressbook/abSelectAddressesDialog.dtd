@@ -55,8 +55,6 @@
 <!ENTITY lookIn.accesskey                    "S"> 
 <!ENTITY for.label                           "nach:"> 
 <!ENTITY for.accesskey                       "n"> 
-<!ENTITY clearButton.label                   "Leeren">
-<!ENTITY clearButton.accesskey               "L">
 <!ENTITY addressMessageTo.label              "Nachricht adressieren an:"> 
 
 <!-- Tooltips items -->  

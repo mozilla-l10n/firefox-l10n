@@ -491,7 +491,6 @@
 <!ENTITY mailToolbar.tooltip "Nachrichten-Symbolleiste">
 <!ENTITY locationToolbar.tooltip "Adress-Symbolleiste">
 <!ENTITY advancedButton.tooltip "Erweiterte Nachrichtensuche">
-<!ENTITY clearButton.tooltip "Suchkriterien leeren und alle Nachrichten anzeigen">
 <!ENTITY getMsgButton.tooltip "Neue Nachrichten abfragen">
 <!ENTITY newMsgButton.tooltip "Neue Nachricht verfassen">
 <!ENTITY replyButton.tooltip "Antwort auf diese Nachricht">
@@ -587,9 +586,6 @@
 <!ENTITY SearchNameOrEmail.accesskey "E">
 <!ENTITY advancedButton.label "Erweitert…">
 <!ENTITY advancedButton.accesskey "w">
-
-<!ENTITY clearButton.label "Leeren">
-<!ENTITY clearButton.accesskey "L">
 
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">
