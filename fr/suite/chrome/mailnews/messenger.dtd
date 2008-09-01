@@ -486,7 +486,7 @@
 <!ENTITY junkButton.label "Indésirable">
 <!ENTITY notJunkButton.label "Acceptable">
 
-<!--Tooltips-->
+<!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Barre de menu">
 <!ENTITY mailToolbar.tooltip "Barre d'outils du courrier">
 <!ENTITY locationToolbar.tooltip "Barre d'adresse">
@@ -579,7 +579,7 @@
 <!ENTITY folderContextSettings.label "Paramètres…">
 <!ENTITY folderContextSettings.accesskey "a">
 
-<!---SearchBar-->
+<!-- Search Bar -->
 <!-- also used by addressbook -->
 <!ENTITY SearchSubjectOrFrom.label "Le sujet ou l'expéditeur contient :">
 <!ENTITY SearchSubjectOrFrom.accesskey "s">
