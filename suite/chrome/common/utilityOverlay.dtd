@@ -68,6 +68,8 @@
 <!ENTITY pac.accesskey "п">
 <!ENTITY wpad.label "В сети (прокси найдено автоматически)">
 <!ENTITY wpad.accesskey "а">
+<!ENTITY system.label "В сети (системные настройки прокси)">
+<!ENTITY system.accesskey "т">
 <!ENTITY proxy.label "Конфигурация прокси-соединения…">
 <!ENTITY proxy.accesskey "К">
 <!ENTITY bidiSwitchTextDirectionItem.label "Переключить направление текста на странице">
