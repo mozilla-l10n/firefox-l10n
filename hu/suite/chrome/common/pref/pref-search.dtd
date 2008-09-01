@@ -1,0 +1,23 @@
+<!-- extracted from content/pref-search.xul -->
+<!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
+
+
+<!ENTITY pref.search.title "Internetes keresés">
+<!ENTITY legendHeader "Alapértelmezett keresőszolgáltatás">
+<!ENTITY defaultSearchEngine.label "Keresés ezzel:">
+<!ENTITY defaultSearchEngine.accesskey "K">
+
+<!ENTITY openSidebarSearchPanel.label "A Keresés panellap megnyitása az Oldalsávon, amikor a keresés eredménye rendelkezésre áll">
+<!ENTITY openSidebarSearchPanel.accesskey "M">
+
+<!ENTITY openContextSearchTab.label "Helyi menüből webes keresés megnyitása új lapon (új ablak helyett)">
+<!ENTITY openContextSearchTab.accesskey "l">
+
+<!ENTITY searchResults.label "Találatok">
+
+<!ENTITY sidebarSearchTabPref.label "Az Oldalsáv Keresés panellapjának tulajdonságai">
+<!ENTITY searchModeBasic.label "Egyszerű">
+<!ENTITY searchModeBasic.accesskey "E">
+<!ENTITY searchModeAdvanced.label "Haladó">
+<!ENTITY searchModeAdvanced.accesskey "H">
+

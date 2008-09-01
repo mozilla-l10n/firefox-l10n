@@ -1,0 +1,29 @@
+<!-- extracted from content/pref-colors.xul -->
+<!-- LOCALIZATION NOTE : FILE Color management prefs -->
+
+<!ENTITY pref.colors.title "színek használata minden alkalommal">
+<!ENTITY color "Szöveg és háttér">
+<!ENTITY textColor.label "Szöveg:">
+<!ENTITY textColor.accesskey "S">
+<!ENTITY backgroundColor.label "Háttér:">
+<!ENTITY backgroundColor.accesskey "H">
+<!ENTITY useSystemColors.label "Rendszerszínek használata">
+<!ENTITY useSystemColors.accesskey "r">
+
+<!ENTITY underlineLinks.label "Hivatkozások aláhúzása">
+<!ENTITY underlineLinks.accesskey "H">
+<!ENTITY links "Hivatkozás színei">
+<!ENTITY linkColor.label "Nem látogatott hivatkozások:">
+<!ENTITY linkColor.accesskey "L">
+<!ENTITY activeLinkColor.label "Aktív hivatkozások:">
+<!ENTITY activeLinkColor.accesskey "k">
+<!ENTITY visitedLinkColor.label "Látogatott hivatkozások:">
+<!ENTITY visitedLinkColor.accesskey "T">
+<!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
+<!ENTITY someProvColors "Amikor a weboldal meghatározza a hátteret és a színeket">
+<!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
+<!ENTITY alwaysUseDocumentColors.label "Mindig a weboldal színeit és háttereit használja">
+<!ENTITY alwaysUseDocumentColors.accesskey "M">
+<!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
+<!ENTITY useMyColors.label "A megadott színek használata, figyelmen kívül hagyva a weboldal által megadottakat">
+<!ENTITY useMyColors.accesskey "e">

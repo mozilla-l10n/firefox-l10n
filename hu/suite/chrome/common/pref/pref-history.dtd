@@ -1,0 +1,15 @@
+<!ENTITY pref.history.title "Előzmények">
+
+<!ENTITY pref.history.caption "A böngészés előzményei">
+<!ENTITY historyPages.label "Az előzmények mappája a felkeresett lapokra mutató hivatkozásokat tartalmazza.">
+<!ENTITY pageHis.label "Az elmúlt">
+<!ENTITY pageHis.accesskey "l">
+<!ENTITY days.label "napban látogatott weboldalak megjegyzése">
+<!ENTITY clearHistory.label "Előzmények törlése">
+<!ENTITY clearHistory.accesskey "e">
+
+<!ENTITY locationBarHistory.caption "A címmező előzményei">
+<!ENTITY clearLocationBar.label "A címmezőben tárolt oldalak listájának ürítése.">
+<!ENTITY clearLocationBarButton.label "Előzmények törlése">
+<!ENTITY clearLocationBarButton.accesskey "k">
+

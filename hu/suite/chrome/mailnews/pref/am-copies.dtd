@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Másolatok és mappák">
+<!ENTITY sendingPrefix.label "Üzenetküldéskor automatikusan: ">
+<!ENTITY fccMailFolder.label "Másolat elhelyezése:">
+<!ENTITY fccMailFolder.accesskey "M">
+<!ENTITY fccReplyFollowsParent.label "Válaszok elhelyezése a megválaszolt levél mappájába">
+<!ENTITY fccReplyFollowsParent.accesskey "v">
+<!ENTITY chooseFolderButton.label "Mappa választása...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Rejtett másolatot kap (Bcc):">
+<!ENTITY bccAddress.accesskey "R">
+<!ENTITY specialFolderTitle.label "Különleges mappák">
+<!ENTITY draftMailFolder.label "Piszkozatok tárolója:">
+<!ENTITY templateMailFolder.label "Sablonok tárolója:">
+<!ENTITY saveMessageDlg.label "Jóváhagyás kérése üzenet mentésekor">
+<!ENTITY saveMessageDlg.accesskey "j">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Elküldött elemek&quot; mappa itt:">
+<!ENTITY sentFolderOn.accesskey "E">
+<!ENTITY sentInOtherFolder.label "Máshol:">
+<!ENTITY sentInOtherFolder.accesskey "M">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Piszkozatok&quot; mappa itt:">
+<!ENTITY draftsFolderOn.accesskey "P">
+<!ENTITY draftInOtherFolder.label "Máshol:">
+<!ENTITY draftInOtherFolder.accesskey "s">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Sablonok&quot; mappa itt:">
+<!ENTITY templatesFolderOn.accesskey "s">
+<!ENTITY templateInOtherFolder.label "Máshol:">
+<!ENTITY templateInOtherFolder.accesskey "h">
+<!ENTITY specialFoldersTitle.label "Piszkozatok és sablonok">
+<!ENTITY keepDrafts.label "Piszkozatok tárolója:">
+<!ENTITY keepTempltes.label "Sablonok tárolója:">

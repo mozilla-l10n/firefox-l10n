@@ -1,0 +1,47 @@
+<!ENTITY pref.navigator.title "Böngésző">
+
+<!ENTITY navRadio "Megjelenítés:">
+<!ENTITY navStartPageMenu.label "Böngésző elindítása">
+<!ENTITY newWinPageMenu.label "Új ablak">
+<!ENTITY newTabPageMenu.label "Új lap">
+
+<!ENTITY blankPageRadio.label "Üres oldal">
+<!ENTITY blankPageRadio.accesskey "R">
+<!ENTITY homePageRadio.label "Kezdőlap">
+<!ENTITY homePageRadio.accesskey "k">
+<!ENTITY lastPageRadio.label "Az utoljára látogatott oldal">
+<!ENTITY lastPageRadio.accesskey "U">
+
+<!ENTITY header2.label "Kezdőlap">
+<!ENTITY homePageIntro.label "A 'Kezdőlap' gombra kattintva ez az oldal töltődik be.">
+<!ENTITY useCurrent.label "Aktuális oldal használata">
+<!ENTITY useCurrent.accesskey "A">
+<!ENTITY useCurrentGroup.label "Aktuális csoport használata">
+<!ENTITY useCurrentGroup.accesskey "C">
+<!ENTITY browseFile.label "Tallózás...">
+<!ENTITY browseFile.accesskey "T">
+<!ENTITY useDefault.label "Alaphelyzet">
+<!ENTITY useDefault.accesskey "A">
+
+<!ENTITY toolbarIntro.label "Válassza ki azokat a gombokat, amelyeket az eszköztáron szeretne látni:">
+
+<!ENTITY navToolbarIntro.label "Böngésző eszköztár">
+<!ENTITY goButton.label "Ugrás">
+<!ENTITY goButton.accesskey "u">
+<!ENTITY searchButton.label "Keresés">
+<!ENTITY searchButton.accesskey "E">
+<!ENTITY printButton.label "Nyomtatás">
+<!ENTITY printButton.accesskey "N">
+
+<!ENTITY persToolbarIntro.label "Személyes eszköztár">
+<!ENTITY homeButton.label "Kezdőlap">
+<!ENTITY homeButton.accesskey "k">
+<!ENTITY bookmarksButton.label "Könyvjelzők">
+<!ENTITY bookmarksButton.accesskey "v">
+
+<!ENTITY defaultBrowserGroup.label "Alapértelmezett böngésző">
+<!ENTITY defaultBrowserButton.label "Alapértelmezés">
+<!ENTITY defaultBrowserButton.accesskey "A">
+<!ENTITY alreadyDefaultText "A &brandShortName; már be van állítva alapértelmezett böngészőnek.">
+<!ENTITY defaultPendingText "A &brandShortName; lesz beállítva alapértelmezett böngészőnek, miután az OK gombra kattint.">
+<!ENTITY makeDefaultText "&brandShortName; beállítása alapértelmezett böngészőnek.">

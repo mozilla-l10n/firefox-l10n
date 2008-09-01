@@ -1,0 +1,25 @@
+<!-- extracted from content/pref-proxies.xul -->
+<!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
+
+<!ENTITY pref.proxies.title "Proxyk">
+<!ENTITY pref.proxies.desc "A proxy egy hálózati szolgáltatás, amely szűri és felgyorsítja az internetkapcsolatot.">
+<!ENTITY proxyTitle.label "Proxy beállítása az internet eléréséhez">
+<!ENTITY directTypeRadio.label "Közvetlen internetkapcsolat">
+<!ENTITY directTypeRadio.accesskey "K">
+<!ENTITY manualTypeRadio.label "Kézi proxybeállítás:">
+<!ENTITY manualTypeRadio.accesskey "Z">
+<!ENTITY wpadTypeRadio.label "Proxybeállítások automatikus felfedezése">
+<!ENTITY wpadTypeRadio.accesskey "X">
+<!ENTITY autoTypeRadio.label "Automatikus proxybeállítás URL:">
+<!ENTITY autoTypeRadio.accesskey "a">
+<!ENTITY reload.label "Frissítés">
+<!ENTITY reload.accesskey "F">
+<!ENTITY http.label "Proxy:">
+<!ENTITY http.accesskey "P">
+<!ENTITY port.label "Port:">
+<!ENTITY HTTPport.accesskey "o">
+<!ENTITY advanced.label "Haladó...">
+<!ENTITY advanced.accesskey "a">
+<!ENTITY noproxy.label "Nincs proxy a következőhöz:">
+<!ENTITY noproxy.accesskey "N">
+<!ENTITY noproxyExplain.label "Például: .mozilla.org, .net.nz, 192.168.1.0/24">

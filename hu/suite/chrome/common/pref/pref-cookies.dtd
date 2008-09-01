@@ -1,0 +1,38 @@
+<!ENTITY pref.cookies.title "Sütik">
+<!-- cookies -->
+
+
+<!ENTITY cookiePolicy.label "Sütikezelési házirend">
+
+<!ENTITY accAllCookiesRadio.label "Minden süti engedélyezése">
+<!ENTITY accAllCookiesRadio.accesskey "m">
+
+<!ENTITY accOrgCookiesRadio.label "Csak a kibocsátó webhelyről származó sütik engedélyezése">
+<!ENTITY accOrgCookiesRadio.accesskey "c">
+
+<!ENTITY disableCookies.label "Sütik blokkolása">
+<!ENTITY disableCookies.accesskey "B">
+
+<!ENTITY cookieRetentionPolicy.label "Sütitárolási házirend">
+
+<!ENTITY acceptNormally.label "Sütik normál elfogadása">
+<!ENTITY acceptNormally.accesskey "n">
+
+<!ENTITY acceptForSession.label "Elfogadás csak az aktuális munkamenetre">
+<!ENTITY acceptForSession.accesskey "e">
+
+<!ENTITY acceptforNDays.label "Sütik elfogadása">
+<!ENTITY acceptforNDays.accesskey "f">
+<!ENTITY days.label "napra">
+
+<!ENTITY warnAboutCookies.label "Kérdés minden sütinél">
+<!ENTITY warnAboutCookies.accesskey "K">
+<!ENTITY forCurrentSession.label "kivéve a munkamenethez tartozó sütiknél">
+<!ENTITY forCurrentSession.accesskey "k">
+
+<!ENTITY manageCookies.label "Sütik és webhelyek kezelése">
+<!ENTITY manageCookiesDescription.label "Lehetővé teszi a tárol sütik megtekintését ls kezelését, valamint a sütik elfogadásánal vagy visszautasításának szabályozását webhelyekre lebontva. A webhelyre megadott beállítás felülbírálja a fenti beállításokat.">
+
+<!ENTITY viewCookies.label "Sütikezelő">
+<!ENTITY viewCookies.accesskey "T">
+

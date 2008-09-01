@@ -1,0 +1,8 @@
+
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Üzenet">
+<!ENTITY newMessageCmd.accesskey "Ü">
+ 
+<!ENTITY newCardCmd.label "Névjegykártya">
+<!ENTITY newCardCmd.accesskey "n">
+

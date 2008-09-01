@@ -1,0 +1,26 @@
+<!ENTITY tabHeader.label "Böngészőlapok">
+<!ENTITY tabDisplay.label "Fülek megjelenítése">
+<!ENTITY autoHide.label "A fül elrejtése, ha csak egy ablak látható">
+<!ENTITY autoHide.accesskey "f">
+<!ENTITY background.label "Új lap aktiválása a hivatkozások megnyitásakor">
+<!ENTITY background.accesskey "H">
+<!ENTITY loadGroup.label "Könyvjelzőcsoport megnyitásakor">
+<!ENTITY loadGroupAppend.label "Új lapok hozzáadása">
+<!ENTITY loadGroupAppend.accesskey "H">
+<!ENTITY loadGroupReplace.label "Meglévő lapok lecserélése">
+<!ENTITY loadGroupReplace.accesskey "M">
+<!ENTITY openTabs.label "Megnyitás új ablak helyett új lapon, ha a felhasználó">
+
+<!ENTITY newWindow.label "Hibatkozások megnyitása">
+<!ENTITY newWindowDescription.label "Hivatkozások megnyitása új ablakban">
+<!ENTITY external.label "Más alkalmazásokból megnyitott hivatkozások">
+<!ENTITY externalDescription.label "Más alkalmazások által átadott hivatkozások megnyitása">
+<!ENTITY openCurrent.label "Az aktuális lapon/ablakban">
+<!ENTITY newWindowGroupCurrent.accesskey "a">
+<!ENTITY externalGroupCurrent.accesskey "k">
+<!ENTITY openTab.label "Új lapon az aktuális ablakban">
+<!ENTITY newWindowGroupTab.accesskey "n">
+<!ENTITY externalGroupTab.accesskey "l">
+<!ENTITY openWindow.label "Új ablakban">
+<!ENTITY newWindowGroupWindow.accesskey "a">
+<!ENTITY externalGroupWindow.accesskey "b">

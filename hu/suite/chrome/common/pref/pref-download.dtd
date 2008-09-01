@@ -1,0 +1,31 @@
+<!ENTITY pref.download.title "Letöltések">
+<!ENTITY downloadBehavior.label "A letöltés kezdetekor">
+<!ENTITY downloadLocation.label "Fájl mentésekor">
+<!ENTITY finishedBehavior.label "A letöltés befejeztekor">
+<!ENTITY openDM.label "Letöltéskezelő megnyitása">
+<!ENTITY openDM.accesskey "l">
+<!ENTITY openProgressDialog.label "Folyamatkijelző ablak megnyitása">
+<!ENTITY openProgressDialog.accesskey "F">
+<!ENTITY doNothing.label "Ne nyisson meg semmit">
+<!ENTITY doNothing.accesskey "N">
+<!ENTITY promptDownload.label "Letöltési hely megkérdezése és alapértelmezett hely">
+<!ENTITY promptDownload.accesskey "R">
+<!ENTITY lastLocation.label "Utoljára használt mappa">
+<!ENTITY lastLocation.accesskey "U">
+<!ENTITY specifiedLocation.label "Megadott letöltési mappa">
+<!ENTITY specifiedLocation.accesskey "m">
+<!ENTITY autoDownload.label "Fájlok automatikus letöltése a megadott letöltési mappába">
+<!ENTITY autoDownload.accesskey "F">
+<!ENTITY downloadFolder.label "Aktuális letöltési mappa:">
+<!ENTITY chooseDownloadFolder.label "Mappa választása...">
+<!ENTITY chooseDownloadFolder.accesskey "M">
+<!ENTITY playSound.label "Hangjelzés">
+<!ENTITY playSound.accesskey "h">
+<!ENTITY showAlert.label "Figyelmeztető ablak">
+<!ENTITY showAlert.accesskey "i">
+<!ENTITY browse.label "Tallózás...">
+<!ENTITY browse.accesskey "T">
+<!ENTITY preview.label "Előnézet">
+<!ENTITY preview.accesskey "e">
+<!ENTITY soundURL.label "Hang URL:">
+<!ENTITY soundURL.accesskey "U">

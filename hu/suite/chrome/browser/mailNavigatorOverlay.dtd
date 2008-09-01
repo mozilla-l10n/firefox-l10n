@@ -1,0 +1,22 @@
+<!ENTITY newMessageCmd.label "Üzenet">
+<!ENTITY newMessageCmd.accesskey "Ü">
+<!ENTITY newMessageCmd.key "M">
+
+<!ENTITY newCardCmd.label "Névjegykártya...">
+<!ENTITY newCardCmd.accesskey "N">
+
+<!ENTITY sendPage.label "Oldal küldése...">
+<!ENTITY sendPage.accesskey "O">
+
+<!ENTITY contextSendThisPage.label "Oldal küldése...">
+<!ENTITY contextSendThisPage.accesskey "O">
+<!ENTITY contextSendThisLink.label "Hiperhivatkozás küldése...">
+<!ENTITY contextSendThisLink.accesskey "H">
+<!ENTITY contextSendImage.label "Kép küldése...">
+<!ENTITY contextSendImage.accesskey "k">
+<!ENTITY contextSendFrame.label "Keret küldése...">
+<!ENTITY contextSendFrame.accesskey "k">
+
+<!ENTITY sendLinkCmd.label "Hivatkozás küldése...">
+<!ENTITY sendLinkCmd.accesskey "d">
+

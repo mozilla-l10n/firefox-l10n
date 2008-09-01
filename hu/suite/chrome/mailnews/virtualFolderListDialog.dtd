@@ -1,0 +1,5 @@
+<!ENTITY server.label "Kiszolgáló: ">
+<!ENTITY server.accesskey "K">
+<!ENTITY virtualFolderListTitle.title "Mappák kijelölése">
+<!ENTITY virtualFolderDesc.label "Keresés a következő mappákban:">
+

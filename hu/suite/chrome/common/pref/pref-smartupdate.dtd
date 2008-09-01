@@ -1,0 +1,22 @@
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+<!ENTITY pref.smartUpdate.title "Szoftvertelepítés">
+<!ENTITY smartTitle.label "Szoftvertelepítések és frissítések kezelése">
+<!ENTITY enableSU.label "Szoftvertelepítés engedélyezése. (Minden frissítés előtt figyelmeztető ablak jenik meg.)">
+<!ENTITY enableSU.accesskey "s">
+<!ENTITY allowedSites.label "Engedélyezett webhelyek">
+<!ENTITY allowedSites.accesskey "W">
+
+<!ENTITY verifyUpdates.caption "Frissítések">
+<!ENTITY autoUpdates.label "Frissítések automatikus keresése:">
+<!ENTITY appUpdates.label "&brandShortName;">
+<!ENTITY appUpdates.accesskey "S">
+<!ENTITY daily.label "naponta">
+<!ENTITY appDaily.accesskey "n">
+<!ENTITY weekly.label "hetente">
+<!ENTITY appWeekly.accesskey "h">
+<!ENTITY extensionsUpdates.label "Telepített kiegészítők">
+<!ENTITY extensionsUpdates.accesskey "T">
+<!ENTITY extensionsDaily.accesskey "n">
+<!ENTITY extensionsWeekly.accesskey "h">
+<!ENTITY addonManagerButton.label "Kiegészítő telepítése">
+<!ENTITY addonManagerButton.accesskey "t">

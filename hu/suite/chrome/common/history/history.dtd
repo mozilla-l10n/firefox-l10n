@@ -1,0 +1,35 @@
+<!-- extracted from ./history.xul -->
+
+<!ENTITY menuBar.tooltip "Menüsor">
+<!ENTITY fileMenu.label "Fájl">
+<!ENTITY closeCmd.label "Bezárás">
+<!ENTITY editMenu.label "Szerkesztés">
+<!ENTITY undoCmd.label "Visszavonás">
+<!ENTITY redoCmd.label "Újra">
+<!ENTITY cutCmd.label "Kivágás">
+<!ENTITY copyCmd.label "Másolás">
+<!ENTITY pasteCmd.label "Beillesztés">
+<!ENTITY deleteCmd.label "Törlés">
+<!ENTITY deleteHostnameCmd.accesskey "T">
+<!ENTITY deleteDomainCmd.accesskey "l">
+<!ENTITY selAllCmd.label "Mindet kijelöli">
+<!ENTITY findHisCmd.label "Keresés az előzmények közt...">
+<!ENTITY findHisCmd.commandkey "f">
+<!ENTITY findHisCmd.accesskey "K">
+<!ENTITY groupBy.label "Csoportosítás">
+<!ENTITY groupBy.accesskey "C">
+<!ENTITY groupByDay.label "Napok szerint">
+<!ENTITY groupByDay.accesskey "N">
+<!ENTITY groupBySite.label "Webhely szerint">
+<!ENTITY groupBySite.accesskey "W">
+<!ENTITY groupByNone.label "Nincs">
+<!ENTITY groupByNone.accesskey "I">
+<!ENTITY historyWindowTitle.label "Előzmények">
+<!ENTITY menuitem.view.unsorted.label "Rendezetlen">
+<!ENTITY menuitem.view.unsorted.accesskey "r">
+<!ENTITY sortAscending.label "Növekvő sorrendben">
+<!ENTITY sortAscending.accesskey "N">
+<!ENTITY sortDescending.label "Csökkenő sorrendben">
+<!ENTITY sortDescending.accesskey "C">
+<!ENTITY menuitem.view.show_columns.label "Oszlopok megjelenítése">
+<!ENTITY menuitem.view.show_columns.accesskey "S">

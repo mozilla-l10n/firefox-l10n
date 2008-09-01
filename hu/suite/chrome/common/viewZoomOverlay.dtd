@@ -1,0 +1,15 @@
+<!ENTITY zoomEnlargeCmd.label "Nagyobb">
+<!ENTITY zoomEnlargeCmd.accesskey "N">
+<!ENTITY zoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY zoomEnlargeCmd.commandkey2 "=">
+
+<!ENTITY zoomReduceCmd.label "Kisebb">
+<!ENTITY zoomReduceCmd.accesskey "K">
+<!ENTITY zoomReduceCmd.commandkey "-">
+
+<!ENTITY zoomResetCmd.commandkey "0">
+<!-- see zoomOtherLabel in viewZoomOverlay.properties -->
+
+<!ENTITY zoomMenu.accesskey "N">
+<!ENTITY zoomOtherCmd.accesskey "E">

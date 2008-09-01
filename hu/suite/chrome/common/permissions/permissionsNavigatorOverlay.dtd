@@ -1,0 +1,45 @@
+<!-- the following is for the task menu overlay -->
+
+<!ENTITY cookieMessageTitle.label "A sütiengedélyek megváltoztak">
+<!ENTITY cookieDisplayCookiesCmd.label "Tárolt sütik kezelése">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "T">
+<!ENTITY cookieAllowCookiesCmd.label "Sütik engedélyezése erről a webhelyről">
+<!ENTITY cookieAllowCookiesCmd.accesskey "E">
+<!ENTITY cookieAllowCookiesMsg.label "Az erről a webhelyről érkező sütik mindig engedélyezve lesznek.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Munkamenet-sütik engedélyezése erről a webhelyről">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "M">
+<!ENTITY cookieAllowSessionCookiesMsg.label "A webhely csak az aktuális munkamenet idejére állíthat be sütiket.">
+<!ENTITY cookieCookiesDefaultCmd.label "Alapértelmezett sütiengedélyek használata">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "A">
+<!ENTITY cookieCookiesDefaultMsg.label "A webhelyről érkező sütik kezelése az alapbeállításoknak megfelelően fog történni.">
+<!ENTITY cookieBlockCookiesCmd.label "Sütik blokkolása erről a webhelyről">
+<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesMsg.label "Az erről a webhelyről érkező sütik mindig vissza lesznek utasítva.">
+
+<!ENTITY cookieImageMessageTitle.label "A képengedélyek megváltoztak">
+<!ENTITY cookieDisplayImagesCmd.label "Képengedélyezés kezelése">
+<!ENTITY cookieDisplayImagesCmd.accesskey "K">
+<!ENTITY cookieAllowImagesCmd.label "Képek engedélyezése erről a webhelyről">
+<!ENTITY cookieAllowImagesCmd.accesskey "E">
+<!ENTITY cookieAllowImagesMsg.label "Az erről a webhelyről érkező képek mindig le lesznek töltve.">
+<!ENTITY cookieImagesDefaultCmd.label "Alapértelmezett képengedélyek használata">
+<!ENTITY cookieImagesDefaultCmd.accesskey "A">
+<!ENTITY cookieImagesDefaultMsg.label "A webhelyről érkező képek kezelése az alapbeállításoknak megfelelően fog történni.">
+<!ENTITY cookieBlockImagesCmd.label "Képek blokkolása erről a webhelyről">
+<!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesMsg.label "Az erről a webhelyről érkező képek soha nem lesznek letöltve.">
+
+<!ENTITY cookieAllowPopupsCmd.label "Felugró ablakok engedélyezése erről a webhelyről">
+<!ENTITY cookieAllowPopupsCmd.accesskey "F">
+<!ENTITY cookieManagePopups.label "Felugró ablakok kezelése">
+<!ENTITY cookieManagePopups.accesskey "K">
+
+<!ENTITY cookieTutorialCmd.label "Adatvédelmi tudnivalók">
+<!ENTITY cookieTutorialCmd.accesskey "a">
+
+<!ENTITY cookieCookieManager.label "Sütikezelő">
+<!ENTITY cookieCookieManager.accesskey "s">
+<!ENTITY cookieImageManager.label "Képkezelő">
+<!ENTITY cookieImageManager.accesskey "k">
+<!ENTITY cookiePopupManager.label "Felugró ablakok kezelése">
+<!ENTITY cookiePopupManager.accesskey "f">
