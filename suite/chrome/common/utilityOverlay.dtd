@@ -103,13 +103,15 @@
 <!ENTITY aboutCommPluginsCmd.accesskey              "p">
 
 <!ENTITY direct.label                               "Tinkle (be įgaliotojo serverio)">
-<!ENTITY direct.accesskey                           "T">
+<!ENTITY direct.accesskey                           "b">
 <!ENTITY manual.label                               "Tinkle (rankinė įgaliotojo serverio sąranka)">
-<!ENTITY manual.accesskey                           "i">
+<!ENTITY manual.accesskey                           "r">
 <!ENTITY pac.label                                  "Tinkle (automatinė įgaliotojo serverio sąranka)">
 <!ENTITY pac.accesskey                              "a">
 <!ENTITY wpad.label                                 "Tinkle (įgaliotieji serveriai aptinkami automatiškai)">
 <!ENTITY wpad.accesskey                             "T">
+<!ENTITY system.label                               "Tinkle (naudojamos sistemos įgaliotojo serverio nuostatos)">
+<!ENTITY system.accesskey                           "s">
 
 <!ENTITY proxy.label                                "Įgaliotojo serverio sąranka…">
 <!ENTITY proxy.accesskey                            "s">

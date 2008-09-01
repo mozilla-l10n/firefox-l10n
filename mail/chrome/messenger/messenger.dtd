@@ -554,6 +554,8 @@
 <!ENTITY folderContextProperties.accesskey "S">
 <!ENTITY folderContextFavoriteFolder.label "Parankinis aplankas">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings.label "Nuostatos…">
+<!ENTITY folderContextSettings.accesskey "o">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Ieškoti: asmenvardyje arba el. p. adrese yra:">

@@ -58,8 +58,6 @@
 <!ENTITY lookIn.accesskey                    "u"> 
 <!ENTITY for.label                           "Ko ieškoti:"> 
 <!ENTITY for.accesskey                       "e"> 
-<!ENTITY clearButton.label                   "Išvalyti">
-<!ENTITY clearButton.accesskey               "v">
 <!ENTITY addressMessageTo.label              "Laiško adresatas(-ai):"> 
 
 <!-- Tooltips items -->  

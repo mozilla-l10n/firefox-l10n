@@ -47,14 +47,14 @@
 <!ENTITY radioAutoSend.accesskey          "u">
 <!ENTITY radioNotSend                     "laiškų neišsiųsti">
 <!ENTITY radioNotSend.accesskey           "n">
-<!ENTITY radioAskUnsent                   "paklausti, ar išsiųsti laiškus">
+<!ENTITY radioAskUnsent                   "paklausti">
 <!ENTITY radioAskUnsent.accesskey         "l">
 <!ENTITY textGoingOffline                 "Atsijungiant nuo tinklo:">
 <!ENTITY radioAutoDownload                "automatiškai atsiųsti laiškus">
 <!ENTITY radioAutoDownload.accesskey      "o">
 <!ENTITY radioNotDownload                 "laiškų neatsiųsti">
 <!ENTITY radioNotDownload.accesskey       "e">
-<!ENTITY radioAskDownload                 "paklausti, ar atsiųsti laiškus darbui atsijungus">
+<!ENTITY radioAskDownload                 "paklausti">
 <!ENTITY radioAskDownload.accesskey       "s">
 <!ENTITY Diskspace                        "Disko atmintinė">
 <!ENTITY offlineCompact.label             "Suglaudinti aplankus, kai juose yra daugiau negu">
