@@ -5,21 +5,23 @@
 <!ENTITY  pref.proxies.desc             "Ein Proxy ist ein Netzwerk-Service, der Ihre Internetverbindung filtern und beschleunigen kann.">
 <!ENTITY  proxyTitle.label              "Proxies für den Zugriff auf das Internet">
 <!ENTITY  directTypeRadio.label         "Direkte Verbindung zum Internet">
-<!ENTITY  directTypeRadio.accesskey     "d">
+<!ENTITY  directTypeRadio.accesskey     "D">
+<!ENTITY  systemTypeRadio.label         "System-Proxyeinstellungen verwenden">
+<!ENTITY  systemTypeRadio.accesskey     "S">
 <!ENTITY  manualTypeRadio.label         "Manuelle Proxy-Konfiguration:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  wpadTypeRadio.label           "Proxy-Konfiguration automatisch erkennen">
-<!ENTITY  wpadTypeRadio.accesskey       "e">
-<!ENTITY  autoTypeRadio.label           "Automatische Proxy-Konfiguration">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  wpadTypeRadio.accesskey       "x">
+<!ENTITY  autoTypeRadio.label           "URL für automatische Proxy-Konfiguration:">
+<!ENTITY  autoTypeRadio.accesskey       "U">
 <!ENTITY  reload.label                  "Neu laden">
 <!ENTITY  reload.accesskey              "l">
 <!ENTITY  http.label                    "Proxy:">
 <!ENTITY  http.accesskey                "P">
 <!ENTITY  port.label                    "Port:">
-<!ENTITY  HTTPport.accesskey            "o">
+<!ENTITY  HTTPPort.accesskey            "o">
 <!ENTITY  advanced.label                "Erweitert…">
-<!ENTITY  advanced.accesskey            "w">
+<!ENTITY  advanced.accesskey            "E">
 <!ENTITY  noproxy.label                 "Kein Proxy für:">
 <!ENTITY  noproxy.accesskey             "k">
 <!ENTITY  noproxyExplain.label          "Beispiel: .mozilla.org, .net.de, .co.at, 192.168.1.0/24">

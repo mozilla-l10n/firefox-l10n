@@ -2,16 +2,22 @@
 <!ENTITY  pref.proxies.advanced.title "Erweiterte Proxy-Einstellungen">
 <!ENTITY  protocols.caption           "Protokoll-spezifische Proxies">
 <!ENTITY  protocols.description       "Normalerweise kann der gleiche Proxy alle hier aufgelisteten Protokolle verarbeiten.">
+<!ENTITY  http.label                  "HTTP-Proxy:">
+<!ENTITY  http.accesskey              "H">
+<!ENTITY  ssl.label                   "SSL-Proxy">
+<!ENTITY  ssl.accesskey               "L">
 <!ENTITY  ftp.label                   "FTP-Proxy:">
 <!ENTITY  ftp.accesskey               "F">
 <!ENTITY  gopher.label                "Gopher-Proxy:">
 <!ENTITY  gopher.accesskey            "G">
-<!ENTITY  http.label                  "HTTP-Proxy:">
-<!ENTITY  http.accesskey              "H">
 <!ENTITY  reuseProxy.label            "Gleichen Proxy für alle Protokolle verwenden">
 <!ENTITY  reuseProxy.accesskey        "v">
-<!ENTITY  ssl.label                   "SSL-Proxy">
-<!ENTITY  ssl.accesskey               "L">
+<!ENTITY  port.label                  "Port:">
+<!ENTITY  HTTPPort.accesskey          "P">
+<!ENTITY  SSLPort.accesskey           "o">
+<!ENTITY  FTPPort.accesskey           "r">
+<!ENTITY  gopherPort.accesskey        "">
+
 <!ENTITY  socks.caption               "Generischer Proxy">
 <!ENTITY  socks.description           "Ein SOKCKS-Proxy ist ein generischer Proxy, der manchmal in Firmen oder ähnlichen Umgebungen verwendet wird.">
 <!ENTITY  socks.label                 "SOCKS-Proxy:">
@@ -22,9 +28,4 @@
 <!ENTITY  socks5.accesskey            "K">
 <!ENTITY  socksRemoteDNS.label        "Zum Auflösen von Hostnamen verwenden (empfohlen für SOCKS v5)">
 <!ENTITY  socksRemoteDNS.accesskey    "A">
-<!ENTITY  port.label                  "Port:">
-<!ENTITY  HTTPport.accesskey          "P">
-<!ENTITY  SSLport.accesskey           "o">
-<!ENTITY  FTPport.accesskey           "r">
-<!-- No accesskey for gopher (':' doesn't go well) -->
 <!ENTITY  SOCKSport.accesskey         "t">
