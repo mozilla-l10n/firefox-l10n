@@ -11,6 +11,7 @@
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
 <!ENTITY showTabBar.label             "Sekme çubuğunu her zaman göster">
-<!ENTITY showTabBar.accesskey         "K">
+<!ENTITY showTabBar.accesskey         "k">
+
 <!ENTITY switchToNewTabs.label        "Bir bağlantıyı yeni bir sekmede açtığımda hemen o sekmeye geç">
-<!ENTITY switchToNewTabs.accesskey    "S">
+<!ENTITY switchToNewTabs.accesskey    "s">

@@ -1,10 +1,15 @@
-<!ENTITY brandMotto "The Browser, Reloaded">
-<!ENTITY credit.memory "Adına Adadıklarımız.">
-<!ENTITY credit.thanks "Özel Olarak Teşekkür Ettiklerimiz">
-<!ENTITY credit.thanks2      "Teşekkürlerimizi sunuyoruz:">
+<!ENTITY brandMotto       "The Browser, Reloaded">
+<!ENTITY credit.thanks    "Özel Olarak Teşekkür Ettiklerimiz">
 
-<!ENTITY credit.translation "<h3>Çevirmenler</h3><ul><li>Mozilla Türkiye</li><li>Erkan Kaplan</li><li>Ahmet Serkan Tıratacı</li></ul>">
-
-<!ENTITY credit.poweredByGeckoReg "Gücünün kaynağı Gecko&reg;.">
-
+<!ENTITY credit.thanks2       "Teşekkürlerimizi sunuyoruz:">
 <!ENTITY credit.contributors2 "Katkıda Bulunanlar">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "">
+
+<!ENTITY credit.memory      "Adına Adadıklarımız.">
+<!ENTITY credit.poweredByGeckoReg "Gücünün kaynağı Gecko&reg;.">

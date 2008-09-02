@@ -1,3 +1,5 @@
-<!ENTITY selectBookmark.title   "Başlangıç sayfası ayarla">
-<!ENTITY selectBookmark.label  "Başlangıç sayfası için bir yer imi seçin. Eğer bir dizin seçerseniz, dizin iöindeki sayfalar sekmede açılır.">
+<!ENTITY selectBookmark.title
+  "Başlangıç sayfası ayarla">
+<!ENTITY selectBookmark.label
+  "Başlangıç sayfası için bir yer imi seçin. Eğer bir dizin seçerseniz, dizin iöindeki sayfalar sekmede açılır.">
 

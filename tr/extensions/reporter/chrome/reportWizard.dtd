@@ -6,17 +6,19 @@
 <!ENTITY reportWizardMustAgree.description          "Devam etmek için yukardaki gizlilik anlaşmasını kabul etmeniz gerekiyor.">
 
 <!ENTITY dontShowPrivacyStatement.label             "Gizlilik anlaşması için bir daha sorma">
-<!ENTITY dontShowPrivacyStatement.accesskey  	"G">
+<!ENTITY dontShowPrivacyStatement.accesskey         "G">
 
 <!ENTITY reportForm.label                           "Raporu Doldurun">
 
 <!ENTITY reportForm.description                     "Karşılaştığınız sorunla ilgili bilgiler girin:">
 <!ENTITY reportForm.url.title                       "Sayfa URL'si:">
+<!ENTITY reportForm.url.accesskey                   "U">
+
 <!ENTITY reportForm.behind_login.title              "Sayfa parola korumalı"><!-- No ":" at the end -->
-<!ENTITY reportForm.behind_login.accesskey          "P">
+<!ENTITY reportForm.behind_login.accesskey          "p">
 
 <!ENTITY reportForm.problem_type.title              "Sorun türü:">
-<!ENTITY reportForm.problem_type.accesskey          "T">
+<!ENTITY reportForm.problem_type.accesskey          "t">
 
 <!ENTITY reportForm.problem_type.chooseOne.title    "Birini Seçin...">
 
@@ -28,6 +30,8 @@
 <!ENTITY reportForm.problem_type.item5.title        "Davranış hatalı">
 <!ENTITY reportForm.problem_type.item6.title        "Site doğru görüntülenmiyor">
 <!ENTITY reportForm.problem_type.item7.title        "Başka bir sorun">
+<!ENTITY reportForm.problem_type.item8.title        "Engelli erişimi">
+<!ENTITY reportForm.problem_type.item9.title        "Çıktı yanlış basıldı">
 
 <!ENTITY reportForm.describe.title                  "Sorunu Açıklayın:">
 <!ENTITY reportForm.describe.accesskey              "S">
@@ -46,15 +50,9 @@
 <!ENTITY reportForm.privacyPolicy.tooltip           "Gizlilik Anlaşmasını Göster">
 
 <!ENTITY reportResults.showDetail.title             "Ayrıntıları göster">
-<!ENTITY reportResults.showDetail.accesskey         "a">
+<!ENTITY reportResults.showDetail.accesskey         "A">
 
 <!ENTITY sendReport.label                           "Rapor Gönderiliyor">
 <!ENTITY sendReport.description                     "Rapor sunucuya gönderiliyor...">
 
 <!ENTITY finish.label                               "Rapor Gönderildi">
-
-<!ENTITY reportForm.problem_type.item8.title        "Engelli erişimi">
-<!ENTITY reportForm.url.accesskey                   "U"> 
-
- <!ENTITY reportForm.problem_type.item9.title        "Çıktı yanlış basıldı">
-

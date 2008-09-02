@@ -1,16 +1,18 @@
-<!ENTITY cancelButton.label "Vazgeç">
-<!ENTITY caseSensitiveCheckbox.accesskey "B">
-<!ENTITY caseSensitiveCheckbox.label "Büyük/küçük harfe duyarlı">
-<!ENTITY closeButton.label "Kapat">
-<!ENTITY direction.label "Arama yönü">
-<!ENTITY down.accesskey "a">
-<!ENTITY down.label "Aşağı">
-<!ENTITY findButton.accesskey "B">
-<!ENTITY findButton.label "Bul">
+<!-- extracted from finddialog.xul -->
+
 <!ENTITY findDialog.title "Bu sayfada ara">
-<!ENTITY findField.accesskey "N">
 <!ENTITY findField.label "Metni Bul:">
-<!ENTITY up.accesskey "R">
-<!ENTITY up.label "Yukarı">
-<!ENTITY wrapCheckbox.accesskey "l">
+<!ENTITY findField.accesskey "n">
+<!ENTITY caseSensitiveCheckbox.label "Büyük/küçük harfe duyarlı">
+<!ENTITY caseSensitiveCheckbox.accesskey "B">
 <!ENTITY wrapCheckbox.label "Baştan başla">
+<!ENTITY wrapCheckbox.accesskey "l">
+<!ENTITY findButton.label "Bul">
+<!ENTITY findButton.accesskey "B">
+<!ENTITY cancelButton.label "Vazgeç">
+<!ENTITY closeButton.label "Kapat">
+<!ENTITY up.label "Yukarı">
+<!ENTITY up.accesskey "r">
+<!ENTITY down.label "Aşağı">
+<!ENTITY down.accesskey "A">
+<!ENTITY direction.label "Arama yönü">

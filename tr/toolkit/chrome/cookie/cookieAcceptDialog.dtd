@@ -1,16 +1,18 @@
-<!ENTITY button.allow.accesskey "z">
-<!ENTITY button.allow.label "İzin ver">
-<!ENTITY button.deny.accesskey "d">
-<!ENTITY button.deny.label "Reddet">
-<!ENTITY button.session.accesskey "O">
-<!ENTITY button.session.label "Oturum için kabul et">
-<!ENTITY dialog.remember.accesskey "D">
-<!ENTITY dialog.remember.label "Bu sayfanın bütün çerezlerinde bu seçimi kullan">
-<!ENTITY dialog.title "Onayla">
-<!ENTITY props.domain.label "Makine:">
-<!ENTITY props.expires.label "Bitiş tarihi:">
-<!ENTITY props.name.label "İsim:">
-<!ENTITY props.path.label "Kısayol:">
-<!ENTITY props.policy.label "İlke:">
-<!ENTITY props.secure.label "Sunucu güvenlik:">
-<!ENTITY props.value.label "Bilgi:">
+<!ENTITY     props.name.label               "İsim:">
+<!ENTITY     props.value.label              "Bilgi:">
+<!ENTITY     props.domain.label             "Makine:">
+<!ENTITY     props.path.label               "Kısayol:">
+<!ENTITY     props.secure.label             "Sunucu güvenlik:">
+<!ENTITY     props.expires.label            "Bitiş tarihi:">
+<!ENTITY     props.policy.label             "İlke:"> 
+
+<!ENTITY     button.allow.label             "İzin ver">
+<!ENTITY     button.allow.accesskey         "z">
+<!ENTITY     button.session.label           "Oturum için kabul et">
+<!ENTITY     button.session.accesskey       "O">
+<!ENTITY     button.deny.label              "Reddet">
+<!ENTITY     button.deny.accesskey          "d">
+
+<!ENTITY     dialog.title                   "Onayla">
+<!ENTITY     dialog.remember.label          "Bu sayfanın bütün çerezlerinde bu seçimi kullan">
+<!ENTITY     dialog.remember.accesskey      "d">

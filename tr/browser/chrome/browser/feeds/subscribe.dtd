@@ -1,3 +1,6 @@
-<!ENTITY feedPage.title  "Besleme okuma">
-<!ENTITY feedSubscribeNow  "Hemen abone ol">
-<!ENTITY feedLiveBookmarks  "Canlı Yer İmleri">
+<!ENTITY feedPage.title
+  "Besleme okuma">
+<!ENTITY feedSubscribeNow
+  "Hemen abone ol">
+<!ENTITY feedLiveBookmarks
+  "Canlı Yer İmleri">

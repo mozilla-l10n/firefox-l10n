@@ -1,25 +1,23 @@
+<!ENTITY  updateWizard.title              "&brandShortName; Güncelleme">
+
 <!ENTITY  offline.title                   "&brandShortName; şu anda çevrim dışı çalışıyor">
 <!ENTITY  offline.description             "&brandShortName; uygulamasının güncellemeleri kontrol edebilmesi ve uyumlu eklentileri indirebilmesi için çevrim içi olması gereklidir.">
 <!ENTITY  offline.toggleOffline.label     "Çevrim içi ol.">
-<!ENTITY  offline.toggleOffline.accesskey "V">
-<!ENTITY checking.status "Bu işlem birkaç dakika sürebilir...">
-<!ENTITY mismatch.win.title "Uyumsuz Eklentiler">
-<!ENTITY updateWizard.title "&brandShortName; Güncelleme">
-<!ENTITY  found.disabledXPinstall.label   "Bu güncellemeler kurulamaz, çünkü yazılım kurulumu şu an devre dışı. Bu ayarı aşağıdan değiştirebilirsiniz.">
-<!ENTITY  found.enableXPInstall.label     "Sitelerin yazılım kurmalarına izin ver">
-<!ENTITY  found.enableXPInstall.accesskey "A">
+<!ENTITY  offline.toggleOffline.accesskey "v">
 
-
-
+<!ENTITY  mismatch.win.title              "Uyumsuz Eklentiler">
 <!ENTITY  mismatch.top.label              "Aşağıdaki eklentiler &brandShortName; tarayıcısının bu sürümüyle uyumlu değil ve bu nedenle devre dışı bırakıldılar:">
-
 <!ENTITY  mismatch.bottom.label           "&brandShortName; bu eklentilerin uyumlu sürümlerinin olup olmadığına bakabilir.">
 
 <!ENTITY  checking.wizard.title           "Uyumlu eklentilere bakılıyor">
 <!ENTITY  checking.top.label              "Uyumsuz eklentilerinizin güncellemelerinin olup olmadığına bakılıyor...">
+<!ENTITY  checking.status                 "Bu işlem birkaç dakika sürebilir...">
 
 <!ENTITY  found.wizard.title               "Uyumlu eklentiler bulundu">
 <!ENTITY  found.top.label                 "Kurmak istediğiniz eklentileri seçin:">
+<!ENTITY  found.disabledXPinstall.label   "Bu güncellemeler kurulamaz, çünkü yazılım kurulumu şu an devre dışı. Bu ayarı aşağıdan değiştirebilirsiniz.">
+<!ENTITY  found.enableXPInstall.label     "Sitelerin yazılım kurmalarına izin ver">
+<!ENTITY  found.enableXPInstall.accesskey "a">
 
 <!ENTITY  installing.wizard.title         "Uyumlu eklentiler kuruluyor">
 <!ENTITY  installing.top.label            "Eklenti güncellemeleri indirilip kuruluyor...">
@@ -44,11 +42,9 @@
 <!ENTITY  installerrors.wizard.title      "Güncellemelerin kurulmasında sorun">
 <!ENTITY  installerrors.intro.label       "&brandShortName; bazı eklentilerinizi güncellerken sorunlarla karşılaştı.">
 
-
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "&brandShortName; tarayıcısını açmaya devam etmek için Tamamlandı düğmesine basın.">
+<!ENTITY  clickFinish.labelMac            "   &brandShortName; uygulamasını başlatmak için Tamamlandı düğmesine basın.">
 <!ENTITY  enableChecking.label            "&brandShortName; tarayıcısının güncellemelere bakmasına izin ver.">
 <!ENTITY  details.label                   "Ayrıntılar...">
 <!ENTITY  details.accesskey               "A">
-
-<!ENTITY  clickFinish.labelMac            "   &brandShortName; uygulamasını başlatmak için Tamamlandı düğmesine basın.">

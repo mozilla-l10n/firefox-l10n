@@ -11,29 +11,30 @@
 <!ENTITY helpMenuWin.label        "Yardım"> 
 <!ENTITY helpMenuWin.accesskey    "Y">
 <!ENTITY aboutCmd.label           "&brandFullName; hakkında">
-<!ENTITY aboutCmd.accesskey       "H">
+<!ENTITY aboutCmd.accesskey       "h">
 <!ENTITY helpContents.label       "Yardım içeriği">
 <!ENTITY helpContents.accesskey   "m">
 <!ENTITY helpContentsMac.label    "&brandShortName; yardımı">
 <!ENTITY helpForIEUsers.label     "Internet Explorer kullanıcılarına...">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey      "VK_F1">
-<!ENTITY openHelpMac.commandkey   "VK_HELP">
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
                        are all the necessary keys to hit OS X's open-help 
                        keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey           "VK_HELP">
 <!ENTITY openHelpMac.modifiers            "accel,shift">
 <!ENTITY openHelpMac.frontendCommandkey   "?">
 <!ENTITY openHelpMac.frontendModifiers    "accel">
 
-<!ENTITY helpReleaseNotes.accesskey     "R">
 <!ENTITY helpReleaseNotes.label         "Sürüm notları">
-<!ENTITY updateCmd.accesskey            "t">
+<!ENTITY helpReleaseNotes.accesskey     "r">
 <!ENTITY updateCmd.label                "Güncellemeleri denetle...">
+<!ENTITY updateCmd.accesskey            "t">
 
 <!ENTITY preferencesCmdMac.label        "Tercihler...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
+
 <!ENTITY servicesMenuMac.label          "Servisler">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; uygulamasını gizle">

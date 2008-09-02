@@ -2,9 +2,8 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 <!-- entities split out from browser.dtd -->
-
 <!ENTITY next.label "Sonrakini bul">
-<!ENTITY next.accesskey "N">
+<!ENTITY next.accesskey "n">
 <!ENTITY next.tooltip "Bir sonraki eşleşen kelimeyi bulur">
 <!ENTITY previous.label "Öncekini bul">
 <!ENTITY previous.accesskey "b">

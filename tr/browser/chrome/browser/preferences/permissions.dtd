@@ -9,12 +9,11 @@
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Site adresi:">
 <!ENTITY block.label                  "Engelle">
-<!ENTITY block.accesskey              "G">
+<!ENTITY block.accesskey              "g">
 <!ENTITY session.label                "Oturum boyunca izin ver">
-<!ENTITY session.accesskey            "R">
+<!ENTITY session.accesskey            "r">
 <!ENTITY allow.label                  "İzin ver">
-<!ENTITY allow.accesskey              "E">
-
+<!ENTITY allow.accesskey              "e">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Kapat">

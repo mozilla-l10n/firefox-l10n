@@ -1,43 +1,34 @@
-<!ENTITY closeCmd.accesskey "K">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY closeCmd.label "Kapat">
-<!ENTITY fileMenu.accesskey "D">
-<!ENTITY fileMenu.label "Dosya">
-<!ENTITY goToLineCmd.accesskey "S">
-<!ENTITY goToLineCmd.commandkey "L">
-<!ENTITY goToLineCmd.label "Satıra git...">
-<!ENTITY mainWindow.preface "Kaynak: ">
+<!-- extracted from content/viewSource.xul -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator "  -  ">
-<!ENTITY menu_highlightSyntax.accesskey "s">
-<!ENTITY menu_highlightSyntax.label "Sözdizimi vurgusu">
-<!ENTITY menu_textEnlarge.accesskey "b">
-<!ENTITY menu_textEnlarge.label "Metin boyutunu büyüt">
-<!ENTITY menu_textReduce.accesskey "k">
-<!ENTITY menu_textReduce.label "Metin boyutunu küçült">
-<!ENTITY menu_wrapLongLines.accesskey "U">
-<!ENTITY menu_wrapLongLines.title "Uzun satırları kes">
-<!ENTITY pageSetupCmd.accesskey "f">
-<!ENTITY pageSetupCmd.label "Sayfa düzeni...">
-<!ENTITY printCmd.accesskey "Y">
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY printCmd.label "Yazdır...">
-<!ENTITY printPreviewCmd.accesskey "z">
-<!ENTITY printPreviewCmd.label "Yazdırma önizleme">
-<!ENTITY reloadCmd.label "Tazele">
-<!ENTITY reloadCmd.accesskey "Z">
-<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY mainWindow.preface "Kaynak: ">
+
+<!ENTITY fileMenu.label "Dosya">
+<!ENTITY fileMenu.accesskey "D">
+<!ENTITY savePageCmd.label "Faklı kaydet...">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "s">
-<!ENTITY savePageCmd.label "Faklı kaydet...">
+<!ENTITY pageSetupCmd.label "Sayfa düzeni...">
+<!ENTITY pageSetupCmd.accesskey "f">
+<!ENTITY printPreviewCmd.label "Yazdırma önizleme">
+<!ENTITY printPreviewCmd.accesskey "z">
+<!ENTITY printCmd.label "Yazdır...">
+<!ENTITY printCmd.accesskey "Y">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY closeCmd.label "Kapat">
+<!ENTITY closeCmd.accesskey "K">
+<!ENTITY closeCmd.commandkey "w">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be 
-empty.  -->
+you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -47,14 +38,28 @@ empty.  -->
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
+<!ENTITY goToLineCmd.label "Satıra git...">
+<!ENTITY goToLineCmd.accesskey "S">
+<!ENTITY goToLineCmd.commandkey "L">
 
-
+<!ENTITY viewMenu.label           "Görünüm">
+<!ENTITY viewMenu.accesskey       "G">
+<!ENTITY reloadCmd.label "Tazele">
+<!ENTITY reloadCmd.accesskey "z">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Uzun satırları kes"> 
+<!ENTITY menu_wrapLongLines.accesskey "U">
+<!ENTITY menu_highlightSyntax.label "Sözdizimi vurgusu">
+<!ENTITY menu_highlightSyntax.accesskey "S">
 <!ENTITY menu_textSize.label "Metin boyutu">
-<!ENTITY menu_textSize.accesskey "T">
+<!ENTITY menu_textSize.accesskey "t">
+<!ENTITY menu_textEnlarge.label "Metin boyutunu büyüt">
+<!ENTITY menu_textEnlarge.accesskey "b">
+<!ENTITY menu_textReduce.label "Metin boyutunu küçült">
+<!ENTITY menu_textReduce.accesskey "k">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
-<!ENTITY viewMenu.accesskey "G">
-<!ENTITY viewMenu.label "Görünüm">
+
 <!ENTITY findOnCmd.label     "Bu sayfada ara...">
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">

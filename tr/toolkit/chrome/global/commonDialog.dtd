@@ -1,10 +1,10 @@
-<!ENTITY checkbox.label "Kontrol">
-<!ENTITY editfield0.label "Kullanıcı adı:">
-<!ENTITY editfield1.label "Parola:">
-<!ENTITY editfield2.label "Parola tekrarı:">
-<!ENTITY header.label "Kısa başlık">
-<!ENTITY message.label "Örnek metinler burda görünsün:">
+<!ENTITY header.label     "Kısa başlık"> 
+<!ENTITY message.label    "Örnek metinler burda görünsün:">
+<!ENTITY editfield0.label "Kullanıcı adı:"> 
+<!ENTITY editfield1.label "Parola:"> 
+<!ENTITY editfield2.label "Parola tekrarı:"> 
+<!ENTITY checkbox.label   "Kontrol">
 <!ENTITY copyCmd.label    "Kopyala">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Tümünü seç">
-<!ENTITY selectAllCmd.accesskey "E">
+<!ENTITY selectAllCmd.accesskey "e">

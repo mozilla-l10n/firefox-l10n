@@ -1,8 +1,7 @@
-<!ENTITY aboutDialog.title "&brandFullName; Hakkında">
-<!ENTITY aboutLink "&lt; &brandFullName; Hakkında">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion "sürüm">
-<!ENTITY copyright "Destekleyenler">
+<!ENTITY aboutDialog.title      "&brandFullName; Hakkında">
+<!ENTITY copyright              "Destekleyenler">
 <!ENTITY copyright.accesskey    "D">
-
-<!ENTITY copyrightInfo "&#169;1998 - 2008 Katkıda bulunan herkes. Her hakkı saklıdır. Firefox ve Firefox simgesi Mozilla Vakfı'nın kayıtlı markalarıdır ve tüm hakları saklıdır. Bazı kayıtlı marka hakları Charlton Co. izniyle kullanılmaktadır.">
+<!ENTITY aboutLink              "&lt; &brandFullName; Hakkında">
+<!ENTITY aboutLink.accesskey    "a">
+<!ENTITY aboutVersion           "sürüm">
+<!ENTITY copyrightInfo          "&#169;1998 - 2008 Katkıda bulunan herkes. Her hakkı saklıdır. Firefox ve Firefox simgesi Mozilla Vakfı'nın kayıtlı markalarıdır ve tüm hakları saklıdır. Bazı kayıtlı marka hakları Charlton Co. izniyle kullanılmaktadır.">

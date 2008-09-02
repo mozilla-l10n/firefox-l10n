@@ -1,25 +1,27 @@
-<!ENTITY updateWizard.title "Uygulama Güncelleme">
-<!ENTITY checking.title "Güncelleme Denetimi">
-<!ENTITY  checking.label                  "&brandShortName; şimdi güncellenebilecek dosyalara bakıyor...">
+<!ENTITY  updateWizard.title              "Uygulama Güncelleme">
+
 <!ENTITY  window.width                    "36em">
 <!ENTITY  window.macWidth                 "48em">
 
-<!ENTITY  cancel.label                    "Vazgeç">
-<!ENTITY  cancel.accesskey                "G">
+<!ENTITY  checking.title                  "Güncelleme Denetimi">
+<!ENTITY  checking.label                  "&brandShortName; şimdi güncellenebilecek dosyalara bakıyor...">
 
+<!ENTITY  cancel.label                    "Vazgeç">
+<!ENTITY  cancel.accesskey                "g">
+
+<!ENTITY  noupdatesfound.title            "Güncelleme bulunamadı">
+<!ENTITY  noupdatesautoenabled.intro      "Hiçbir güncelleme yok. &brandShortName; belirli aralıklarla güncellemelere bakacak.">
+<!ENTITY  noupdatesautodisabled.intro     "Hiçbir güncelleme yok. Lütfen daha sonra yeniden deneyin ya da &brandShortName; uygulamasının güncelleme denetimini devreye sokun.">
+
+<!ENTITY  incompatibleChecking.label      "   Bu güncellemenin eklentileriniz veya temalarınız için bir sorun teşkil edip etmeyeceğine bakılıyor...">
 <!ENTITY  clickHere.label                 " buraya tıklayın">
+
 <!ENTITY  incompatible.warning            "Bu eklentinin kurulması bazı tema ve eklentilerin çalışmamasına neden olabilir.">
 <!ENTITY  listIncompatible.label          "Listeyi göster">
 <!ENTITY  listIncompatible.accesskey      "L">
 
 <!ENTITY  upgrade.evangelism              "İndir ve Kur düğmesine basarak &brandShortName; uygulamasını güncellemeniz şiddetle tavsiye edilir.">
-<!ENTITY  downloading.intro               "Aşağıdaki güncellemeler kuruldu:">
 
-<!ENTITY  details.link                    "Ayrıntılar">
-<!ENTITY  pause.label                     "Ara ver">
-<!ENTITY  pause.accesskey                 "R">
-<!ENTITY  close.label                     "Kapat">
-<!ENTITY  close.accesskey                 "K">
 <!ENTITY  license.instructions            "Bu şartları kabul ediyorsanız lütfen 'Kabul Ediyorum' düğmesine basın ve güncelleme işlemine devam edin.">
 
 <!ENTITY  license.titleText               "Yazılım lisans anlaşması">
@@ -30,39 +32,39 @@
 <!ENTITY  license.decline                 "Lisans Anlaşması'nın koşullarını kabul ETMİYORUM">
 <!ENTITY  license.decline.accesskey       "T">
 
+<!ENTITY  downloading.title               "Güncelleme indiriliyor">
+<!ENTITY  downloading.intro               "Aşağıdaki güncellemeler kuruldu:">
+<!ENTITY  connecting.label                "Güncelleme sunucusuna bağlanıyor...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; indirilen güncelleme dosyalarının bütünlüğünü kontrol edemiyor. Şimdi paketler tekrardan indirilecek.">
+
+<!ENTITY  details.link                    "Ayrıntılar">
+<!ENTITY  pause.label                     "Ara ver">
+<!ENTITY  pause.accesskey                 "r">
+<!ENTITY  close.label                     "Kapat">
+<!ENTITY  close.accesskey                 "K">
+
 <!ENTITY  error.label                     "Bu güncelleme sırasında bir hata oluştu. &brandShortName; bu güncellemeyi gerçekleştiremiyor. Güncelleme sırasında aşağıdaki hata iletisi alındı:">
                                            
 <!ENTITY  errorManual.label               "&brandShortName;  uygulamasını elle de güncelleyebilirsiniz. Bunun için aşağıdaki bağlantıya tıklayın ve en güncel sürümü indirerek güncellemeyi gerçekleştirin:">
+                                           
+<!ENTITY  errorpatching.title             "Güncelleme hatalı">
+<!ENTITY  errorpatching.intro             "Bazı güncellemeler uygulanamıyor. &brandShortName; şimdi dosyaları tekrar indirmeye çalışacak.">
 
-<!ENTITY  noupdatesfound.title            "Güncelleme bulunamadı">
-<!ENTITY  noupdatesfound.intro            "Güncellenebilecek dosya yok. &brandShortName; düzenli aralıklarla güncelleme olup olmadığına bakabilir.">
-
-<!ENTITY  downloading.title               "Güncelleme indiriliyor">
-<!ENTITY  connecting.label                "Güncelleme sunucusuna bağlanıyor...">
 <!ENTITY  finished.title                  "Güncelleme indirildi">
 <!ENTITY  finished.text                   "Güncelleme başarılı bir şekilde indirilip doğrulandı. &brandShortName; bir daha açıldığında kurulacak.">
 
 <!ENTITY  finishedBackground.title        "Güncelleme dosyaları kurulum için hazır">
 <!ENTITY  finishedBackground.text         "&brandShortName; önemli bir güncellemeyi indirip doğruladı. Diğer ayrıntıları öğrenmek için aşağıdaki bağlantıya tıklayın.">
 <!ENTITY  finishedBackground.name         "Güncelleme:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
 <!ENTITY  finishedBackground.more1        "Güncellemeyi şimdi kurmak için &brandShortName; uygulamasını yeniden başlatma düğmesine basın.">
-
-
-<!ENTITY  verificationFailedText.label    "&brandShortName; indirilen güncelleme dosyalarının bütünlüğünü kontrol edemiyor. Şimdi paketler tekrardan indirilecek.">
-<!ENTITY  errorpatching.title             "Güncelleme hatalı">
-<!ENTITY  errorpatching.intro             "Bazı güncellemeler uygulanamıyor. &brandShortName; şimdi dosyaları tekrar indirmeye çalışacak.">
-
-<!ENTITY  whatsnew.label                  "Yenilikleri oku...">
-<!ENTITY  update.details.label            "Ayrıntılar">
-<!ENTITY  update.installedOn.label        "Kurulduğu yer:">
-<!ENTITY  update.status.label             "Durum:">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Bu iletişim kutusunu kapatıp çalışmaya devam etmek için Şimdi Değil düğmesine basın. &brandShortName; yeniden başlatıldığında güncellemeyi kuracak.">
 
 <!ENTITY  installed.title                 "Güncelleme dosyaları kuruldu">
 <!ENTITY  installed.intro                 "Güncelleme başarılı bir şekilde kuruldu.">
+<!ENTITY  whatsnew.label                  "Yenilikleri oku...">
 
-
-<!ENTITY  incompatibleChecking.label      "   Bu güncellemenin eklentileriniz veya temalarınız için bir sorun teşkil edip etmeyeceğine bakılıyor...">
-
-
-<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
-<!ENTITY  finishedBackground.textNotNow   "Bu iletişim kutusunu kapatıp çalışmaya devam etmek için Şimdi Değil düğmesine basın. &brandShortName; yeniden başlatıldığında güncellemeyi kuracak."> 
+<!ENTITY  update.details.label            "Ayrıntılar">
+<!ENTITY  update.installedOn.label        "Kurulduğu yer:">
+<!ENTITY  update.status.label             "Durum:">

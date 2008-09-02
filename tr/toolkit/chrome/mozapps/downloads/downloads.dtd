@@ -1,47 +1,48 @@
-<!ENTITY window.height                    "300"> 
+<!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
+close to the golden ratio (1.618:1) while making sure it's wide enough for long
+file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "400">
+<!ENTITY window.height                    "300"> 
 
-<!ENTITY cmd.showMac.label                "Finder'da göster">
-<!ENTITY cmd.showMac.accesskey            "F">
-
-<!ENTITY closeWhenDone.label "İndirme bittiğinde pencereyi kapat">
-<!ENTITY closeWhenDone.tooltip "Bütün indirme dosyaları tamamlandığında pencereyi kapat">
-<!ENTITY cmd.cancel.accesskey "V">
-<!ENTITY cmd.cancel.label "Vazgeç">
-
-<!ENTITY cmd.close.commandKey "W">
-<!ENTITY cmd.close2.commandKey "J">
-<!ENTITY cmd.close2Unix.commandKey "Y">
-<!ENTITY cmd.open.accesskey "A">
-<!ENTITY cmd.open.label "Aç">
-<!ENTITY cmd.openWith.accesskey "L">
-<!ENTITY cmd.openWith.label "Birlikte aç...">
-<!ENTITY cmd.pause.accesskey "r">
-<!ENTITY cmd.pause.label "Ara ver">
-<!ENTITY cmd.resume.accesskey "t">
-<!ENTITY cmd.resume.label "Devam et">
-<!ENTITY cmd.retry.accesskey "D">
-<!ENTITY cmd.retry.label "Yeniden dene">
-<!ENTITY cmd.show.accesskey "D">
-<!ENTITY cmd.show.label "Bulunduğu dizini aç">
-<!ENTITY downloads.title "İndirilenler">
-<!ENTITY showFolder.label "Dizinleri göster">
-<!ENTITY starting.label "Başlıyor...">
-<!ENTITY searchBox.label                  "Ara...">
-
-<!-- 'Parental Controls' label should be capitalized -->
+<!ENTITY starting.label                   "Başlıyor...">
 <!ENTITY scanning.label                   "Virüs taraması yapılıyor...">
 
-<!ENTITY cmd.clearList.label              "Listeyi temizle">
-<!ENTITY cmd.clearList.tooltip            "Tamamlanan, vazgeçilen ve başarısız olan indirme işlemleri listeden kaldırılır">
-<!ENTITY cmd.clearList.accesskey          "E">
-<!ENTITY cmd.find.commandKey              "f">
+<!ENTITY downloads.title                  "İndirilenler">
 
+<!ENTITY cmd.pause.label                  "Ara ver">
+<!ENTITY cmd.pause.accesskey              "r">
+<!ENTITY cmd.resume.label                 "Devam et">
+<!ENTITY cmd.resume.accesskey             "t">
+<!ENTITY cmd.cancel.label                 "Vazgeç">
+<!ENTITY cmd.cancel.accesskey             "V">
+<!ENTITY cmd.show.label                   "Bulunduğu dizini aç">
+<!ENTITY cmd.show.accesskey               "d">
+<!ENTITY cmd.showMac.label                "Finder'da göster">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.open.label                   "Aç">
+<!ENTITY cmd.open.accesskey               "A">
+<!ENTITY cmd.openWith.label               "Birlikte aç...">
+<!ENTITY cmd.openWith.accesskey           "l">
+<!ENTITY cmd.retry.label                  "Yeniden dene">
+<!ENTITY cmd.retry.accesskey              "d">
+<!ENTITY cmd.goToDownloadPage.label       "İndirme sayfasına git">
+<!ENTITY cmd.goToDownloadPage.accesskey   "g">
+<!ENTITY cmd.copyDownloadLink.label       "İndirme bağlantısını kopyala">
+<!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromList.label         "Listeden kaldır">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
-<!ENTITY cmd.copyDownloadLink.label       "İndirme bağlantısını kopyala">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.close.commandKey             "W">
+<!ENTITY cmd.close2.commandKey            "J">
+<!ENTITY cmd.close2Unix.commandKey        "Y">
+<!ENTITY cmd.clearList.label              "Listeyi temizle">
+<!ENTITY cmd.clearList.tooltip            "Tamamlanan, vazgeçilen ve başarısız olan indirme işlemleri listeden kaldırılır">
+<!ENTITY cmd.clearList.accesskey          "e">
+<!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY cmd.goToDownloadPage.label       "İndirme sayfasına git">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY closeWhenDone.label              "İndirme bittiğinde pencereyi kapat">
+<!ENTITY closeWhenDone.tooltip            "Bütün indirme dosyaları tamamlandığında pencereyi kapat">
+
+<!ENTITY showFolder.label                 "Dizinleri göster">
+<!ENTITY searchBox.label                  "Ara...">

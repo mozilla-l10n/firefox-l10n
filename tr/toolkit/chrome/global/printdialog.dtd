@@ -1,20 +1,28 @@
-<!ENTITY allpagesRadio.label "Bütün sayfalar">
-<!ENTITY aslaidoutRadio.label "Pencerede görüldüğü gibi">
-<!ENTITY copies.label "Kopyalar">
-<!ENTITY descText.label "Yacızı açıklaması:">
-<!ENTITY eachframesepRadio.label "Bütün çerçeveyi ayrı ayrı">
-<!ENTITY fileCheck.label "Dosyaya yazdır">
-<!ENTITY fpDialog.title "Dosyayı Kaydet">
-<!ENTITY frompageInput.label "nereden">
-<!ENTITY numCopies.label "Kopya sayısı:">
+<!-- extracted from printdialog.xul -->
+
 <!ENTITY printButton.label "Yazdır">
+
 <!ENTITY printDialog.title "Yazdır">
+
+<!ENTITY fpDialog.title "Dosyayı Kaydet">
+
+<!ENTITY fileCheck.label "Dosyaya yazdır">
+<!ENTITY propertiesButton.label "Özellikler...">
+<!ENTITY descText.label "Yacızı açıklaması:">
 <!ENTITY printer.label "Yazıcı">
 <!ENTITY printerInput.label "Yazıcı:">
-<!ENTITY printframeGroup.label "Çerçeveyi yazdır">
+
 <!ENTITY printrangeGroup.label "Kenarları yazdır">
-<!ENTITY propertiesButton.label "Özellikler...">
-<!ENTITY rangeRadio.label "Sayfalar">
-<!ENTITY selectedframeRadio.label "Seçilen çerçeve">
+<!ENTITY allpagesRadio.label "Bütün sayfalar">
+<!ENTITY rangeRadio.label  "Sayfalar">
+<!ENTITY frompageInput.label  "nereden">
+<!ENTITY topageInput.label  "nereye">
 <!ENTITY selectionRadio.label "Seçim">
-<!ENTITY topageInput.label "nereye">
+
+<!ENTITY copies.label "Kopyalar">
+<!ENTITY numCopies.label "Kopya sayısı:">
+
+<!ENTITY printframeGroup.label "Çerçeveyi yazdır">
+<!ENTITY aslaidoutRadio.label "Pencerede görüldüğü gibi">
+<!ENTITY selectedframeRadio.label  "Seçilen çerçeve">
+<!ENTITY eachframesepRadio.label  "Bütün çerçeveyi ayrı ayrı">

@@ -2,7 +2,7 @@
 
 <!ENTITY about.copy.beforeLink        "Telif hakkı &copy; 1998-2006">
 <!ENTITY about.copy.linkTitle         "Katkıda Bulunanlar">
-<!ENTITY about.copy.afterLink         "">
+<!ENTITY about.copy.afterLink         "to the Mozilla Project.">
 
 <!ENTITY about.license.beforeLink     "Bu ürünün">
 <!ENTITY about.license.linkTitle      "lisans bilgilerini">

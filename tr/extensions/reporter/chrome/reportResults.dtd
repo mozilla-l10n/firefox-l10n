@@ -8,8 +8,8 @@
 <!ENTITY reportBuildConfig           "Yapılandırma Ayarları">
 <!ENTITY reportUseragent             "Useragent">
 <!ENTITY reportLanguage              "Dil">
+<!ENTITY reportCharset               "Karakter kümesi">
 <!ENTITY reportEmail                 "E-Posta">
 <!ENTITY error                       "Hata">
 <!ENTITY faultCode                   "Kod">
 <!ENTITY faultMessage                "Mesaj">
-<!ENTITY reportCharset               "Karakter kümesi">

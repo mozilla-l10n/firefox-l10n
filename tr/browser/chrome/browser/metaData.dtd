@@ -1,28 +1,27 @@
-<!ENTITY caption.label "Element Özellikleri">
-<!ENTITY image-alt.label "Alternatif metin:">
-<!ENTITY image-desc.label "Açıklama:">
-<!ENTITY image-filesize.label "Dosya boyutu:">
-<!ENTITY image-sec.label "Resim Dosyası Özellikleri">
-<!ENTITY image-url.label "Konum:">
+<!ENTITY no-properties.label   "Özellikler belirtilmedi">
 
-<!ENTITY insdel-cite.label "Bilgi:">
-<!ENTITY insdel-date.label "Tarih:">
-<!ENTITY insdel-sec.label "Ekleme/Silme özellikleri">
-<!ENTITY link-lang.label "Hedef dil:">
-<!ENTITY link-rel.label "İlişki:">
-<!ENTITY link-rev.label "Geri dönen bağlantı:">
-<!ENTITY link-sec.label "Bağlantı Özellikleri">
-<!ENTITY link-target.label "Açılacağı yer:">
-<!ENTITY link-type.label "Hedef tipi:">
-<!ENTITY link-url.label "Adres:">
-<!ENTITY misc-lang.label "Metin dili">
-<!ENTITY misc-sec.label "Çeşitli Özellikler:">
-<!ENTITY misc-tblsummary.label "Tablo özeti">
-<!ENTITY misc-title.label "Başlık:">
-<!ENTITY no-properties.label "Özellikler belirtilmedi">
-<!ENTITY quote-cite.label "Bilgi:">
-<!ENTITY quote-sec.label "Alıntı Özellikleri">
-
-<!ENTITY image-size.label      "Resmin boyutu:">
+<!ENTITY caption.label         "Element Özellikleri">
+<!ENTITY image-sec.label       "Resim Dosyası Özellikleri">
+<!ENTITY image-url.label       "Konum:">
 <!ENTITY image-type.label      "Türü:">
+<!ENTITY image-desc.label      "Açıklama:">
+<!ENTITY image-alt.label       "Alternatif metin:">
+<!ENTITY image-size.label      "Resmin boyutu:">
+<!ENTITY image-filesize.label  "Dosya boyutu:">
+<!ENTITY insdel-sec.label      "Ekleme/Silme özellikleri">
+<!ENTITY insdel-cite.label     "Bilgi:">
+<!ENTITY insdel-date.label     "Tarih:">
+<!ENTITY link-sec.label        "Bağlantı Özellikleri">
+<!ENTITY link-url.label        "Adres:">
+<!ENTITY link-target.label     "Açılacağı yer:">
+<!ENTITY link-type.label       "Hedef tipi:">
+<!ENTITY link-lang.label       "Hedef dil:">
+<!ENTITY link-rel.label        "İlişki:">
+<!ENTITY link-rev.label        "Geri dönen bağlantı:">
 <!ENTITY link-ping.label       "Uyaracak:">
+<!ENTITY misc-sec.label        "Çeşitli Özellikler:">
+<!ENTITY misc-lang.label       "Metin dili">
+<!ENTITY misc-title.label      "Başlık:">
+<!ENTITY misc-tblsummary.label "Tablo özeti">
+<!ENTITY quote-sec.label       "Alıntı Özellikleri">
+<!ENTITY quote-cite.label      "Bilgi:">

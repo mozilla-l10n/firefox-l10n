@@ -1,18 +1,37 @@
 <!ENTITY  warnAddonInstall.label        "Siteler eklenti kurmayı denediklerinde beni uyar">
 <!ENTITY  warnAddonInstall.accesskey    "u">
 
-<!-- LOCALIZATION NOTE (tellMaybeForgery.label):
-  The methods by which forged (phished) sites will be detected by phishing
-  providers will vary from human review to machine-based heuristics to a
-  combination of both, so it's important that this string and
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
+<!ENTITY  tellMaybeAttackSite.label     "Ziyaret ettiğim sitenin saldırı sitesi olduğundan şüpheleniliyorsa bana haber ver">
+<!ENTITY  tellMaybeAttackSite.accesskey "h">
+
 <!ENTITY  tellMaybeForgery.label     "Açtığım sitede sahtekârlık şüphesi olup olmadığına bak">
-<!ENTITY  tellMaybeForgery.accesskey "T">
+<!ENTITY  tellMaybeForgery.accesskey "t">
 
 <!ENTITY  addonExceptions.label         "Ayrıcalıklar...">
 <!ENTITY  addonExceptions.accesskey     "k">
+
+
+<!ENTITY  passwords.label               "Parolalar">
+
+<!ENTITY  rememberPasswords.label       "Sitelerde girilen parolaları hatırla">
+<!ENTITY  rememberPasswords.accesskey   "o">
+<!ENTITY  passwordExceptions.label      "Ayrıcalıklar...">
+<!ENTITY  passwordExceptions.accesskey  "c">
+
+<!ENTITY  useMasterPassword.label        "Ana parola kullan">
+<!ENTITY  useMasterPassword.accesskey    "u">
+<!ENTITY  changeMasterPassword.label     "Ana parolayı değiştir...">
+<!ENTITY  changeMasterPassword.accesskey "d">
+
+<!ENTITY  savedPasswords.label            "Kayıtlı parolalar...">
+<!ENTITY  savedPasswords.accesskey        "p">
 
 
 <!ENTITY  warnings.label                "Uyarı iletileri">
@@ -21,20 +40,3 @@
 
 <!ENTITY  warningSettings.label         "Ayarlar...">
 <!ENTITY  warningSettings.accesskey     "A">
-
-<!ENTITY  passwords.label               "Parolalar">
-<!ENTITY  rememberPasswords.label       "Sitelerde girilen parolaları hatırla">
-<!ENTITY  rememberPasswords.accesskey   "O">
-<!ENTITY  passwordExceptions.label      "Ayrıcalıklar...">
-<!ENTITY  passwordExceptions.accesskey  "c">
-<!ENTITY  useMasterPassword.label        "Ana parola kullan">
-<!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Ana parolayı değiştir...">
-<!ENTITY  changeMasterPassword.accesskey "d">
-
-
-<!ENTITY  savedPasswords.accesskey        "P">
-<!ENTITY  savedPasswords.label            "Kayıtlı parolalar...">
-
-<!ENTITY  tellMaybeAttackSite.label     "Ziyaret ettiğim sitenin saldırı sitesi olduğundan şüpheleniliyorsa bana haber ver">
-<!ENTITY  tellMaybeAttackSite.accesskey "H">

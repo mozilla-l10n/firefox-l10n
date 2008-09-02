@@ -1,190 +1,211 @@
-<!ENTITY file.accesskey   "D">
-<!ENTITY file.close.label "Kapat">
-<!ENTITY file.close.accesskey "K">
-<!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "Düzen">
-<!ENTITY edit.accesskey "E">
-<!ENTITY view.toolbar.label "Araç çubuğu">
-<!ENTITY view.toolbar.accesskey "u">
-<!ENTITY view.columns.label "Sütunları göster">
-<!ENTITY view.columns.accesskey "S">
-<!ENTITY view.unsorted.label "Sınıflanmamış">
-<!ENTITY view.unsorted.accesskey "f">
-<!ENTITY view.sortAscending.label "A'dan Z'ye sırala">
-<!ENTITY view.sortAscending.accesskey "A">
-<!ENTITY view.sortDescending.label "Z'den A'ya sırala">
-<!ENTITY view.sortDescending.accesskey "Z">
-<!ENTITY help.usingBookmarks.label "Yer imlerini kullanma">
-<!ENTITY help.usingBookmarks.accesskey "y">
-<!ENTITY help.usingHistory.label "Geçmişi kullanma">
-<!ENTITY help.usingHistory.accesskey "e">
-<!ENTITY help.advancedTips.label "İleri düzey ipuçları ve marifetler">
-<!ENTITY help.advancedTips.accesskey "T">
-<!ENTITY cmd.findCurrent.label "Geçerli koleksiyonda ara...">
-<!ENTITY cmd.findCurrent.accesskey "i">
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Kütüphane">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Düzenle">
+<!ENTITY organize.accesskey    "D">
+
+<!ENTITY file.accesskey                 "D">
+<!ENTITY file.close.label               "Kapat">
+<!ENTITY file.close.accesskey           "K">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "Düzen">
+<!ENTITY edit.accesskey                 "e">
+<!ENTITY views.label                    "Görünüm">
+<!ENTITY views.accesskey                "m">
+<!ENTITY view.toolbar.label             "Araç çubuğu">
+<!ENTITY view.toolbar.accesskey         "u">
+<!ENTITY view.columns.label             "Sütunları göster">
+<!ENTITY view.columns.accesskey         "S">
+<!ENTITY view.sort.label                "Sıralama">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Sınıflanmamış">
+<!ENTITY view.unsorted.accesskey        "f">
+<!ENTITY view.sortAscending.label       "A'dan Z'ye sırala">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z'den A'ya sırala">
+<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY help.usingBookmarks.label      "Yer imlerini kullanma">
+<!ENTITY help.usingBookmarks.accesskey  "Y">
+<!ENTITY help.usingHistory.label        "Geçmişi kullanma">
+<!ENTITY help.usingHistory.accesskey    "e">
+<!ENTITY help.advancedTips.label        "İleri düzey ipuçları ve marifetler">
+<!ENTITY help.advancedTips.accesskey    "t">
+
+<!ENTITY cmd.findInBookmarks.label      "Yer imlerinde bul...">
+<!ENTITY cmd.findInBookmarks.accesskey  "Y">
+<!ENTITY cmd.findCurrent.label          "Geçerli koleksiyonda ara...">
+<!ENTITY cmd.findCurrent.accesskey      "i">
+
 <!ENTITY cmd.exportHTML.label           "HTML olarak dışa aktar...">
 <!ENTITY cmd.exportHTML.accesskey       "d">
 <!ENTITY cmd.importHTML.label           "HTML olarak içe aktar...">
 <!ENTITY cmd.importHTML.accesskey       "e">
+
+<!ENTITY cmd.backup.label               "Yedekle...">
+<!ENTITY cmd.backup.accesskey           "Y">
+<!ENTITY cmd.restore2.label             "Tekrar oluştur">
+<!ENTITY cmd.restore2.accesskey         "r">
+<!ENTITY cmd.restoreFromFile.label      "Dosyayı seçin...">
+<!ENTITY cmd.restoreFromFile.accesskey  "s">
+
 <!ENTITY cmd.select_all.label "Tümünü seç">
 <!ENTITY cmd.select_all.accesskey "m">
 <!ENTITY cmd.select_all.key "a">
-<!ENTITY cmd.edit_cut.label "Kes">
-<!ENTITY cmd.edit_cut.accesskey "s">
-<!ENTITY cmd.edit_cut.key "x">
-<!ENTITY cmd.edit_copy.label "Kopyala">
-<!ENTITY cmd.edit_copy.accesskey "K">
-<!ENTITY cmd.edit_copy.key "c">
-<!ENTITY cmd.edit_paste.label "Yapıştır">
-<!ENTITY cmd.edit_paste.accesskey "P">
-<!ENTITY cmd.edit_paste.key "v">
-<!ENTITY cmd.edit_delete.label "Sil">
-<!ENTITY cmd.edit_delete.accesskey "i">
-<!ENTITY cmd.edit_undo.label "Geri al">
-<!ENTITY cmd.edit_undo.accesskey "r">
-<!ENTITY cmd.edit_undo.key "z">
-<!ENTITY cmd.edit_redo.label "Yinele">
-<!ENTITY cmd.edit_redo.accesskey "Y">
-<!ENTITY cmd.edit_redo.key  "y">
-<!ENTITY cmd.open.label  "Aç">
-<!ENTITY cmd.open.accesskey  "A">
-<!ENTITY cmd.open_window.label  "Yeni pencerede aç">
-<!ENTITY cmd.open_window.accesskey  "N">
-<!ENTITY cmd.open_tab.label  "Yeni sekmede aç">
-<!ENTITY cmd.open_tab.accesskey  "s">
+
+<!ENTITY cmd.edit_cut.label         "Kes">
+<!ENTITY cmd.edit_cut.accesskey     "s">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "Kopyala">
+<!ENTITY cmd.edit_copy.accesskey    "K">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "Yapıştır">
+<!ENTITY cmd.edit_paste.accesskey   "p">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "Sil">
+<!ENTITY cmd.edit_delete.accesskey  "i">
+<!ENTITY cmd.edit_undo.label        "Geri al">
+<!ENTITY cmd.edit_undo.accesskey    "r">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "Yinele">
+<!ENTITY cmd.edit_redo.accesskey    "Y">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.open.label                  "Aç">
+<!ENTITY cmd.open.accesskey              "A">
+<!ENTITY cmd.open_window.label           "Yeni pencerede aç">
+<!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_tab.label              "Yeni sekmede aç">
+<!ENTITY cmd.open_tab.accesskey          "s">
+<!ENTITY cmd.open_all_in_tabs.label      "Tümünü sekme içinde aç">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "m">
+
+<!ENTITY cmd.properties.label      "Özellikler">
+<!ENTITY cmd.properties.accesskey  "i">
+
 <!ENTITY cmd.show_info.key  "i">
-<!ENTITY cmd.rename.label  "Adını değiştir">
-<!ENTITY cmd.rename.accesskey  "R">
-<!ENTITY cmd.sortby_name.label  "Ada göre sırala">
-<!ENTITY cmd.sortby_name.accesskey  "S">
+
+<!ENTITY cmd.rename.label      "Adını değiştir">
+<!ENTITY cmd.rename.accesskey  "r">
+
+<!ENTITY cmd.sortby_name.label              "Ada göre sırala">
+<!ENTITY cmd.sortby_name.accesskey          "s">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
-<!ENTITY cmd.new_bookmark.label  "Yeni yer imi...">
-<!ENTITY cmd.new_bookmark.accesskey  "m">
-<!ENTITY cmd.new_folder.label  "Yeni dizin...">
-<!ENTITY cmd.new_folder.accesskey  "d">
+
+<!ENTITY cmd.new_bookmark.label            "Yeni yer imi...">
+<!ENTITY cmd.new_bookmark.accesskey        "m">
+<!ENTITY cmd.new_livemark.label            "Yeni canlı yer imi...">
+<!ENTITY cmd.new_livemark.accesskey        "l">
+<!ENTITY cmd.new_folder.label              "Yeni dizin...">
+<!ENTITY cmd.new_folder.accesskey          "d">
 <!ENTITY cmd.context_new_folder.accesskey  "z">
-<!ENTITY cmd.new_separator.label  "Yeni ayraç">
-<!ENTITY cmd.new_separator.accesskey  "y">
-<!ENTITY cmd.groupby_site.label  "Siteye göre gruplandır">
+<!ENTITY cmd.new_separator.label           "Yeni ayraç">
+<!ENTITY cmd.new_separator.accesskey       "Y">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Canlı yer imini tekrar yükle">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "r">
+<!ENTITY cmd.reloadMicrosummary.label      "Kısa özeti tekrar yükle">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "r">
+
+<!ENTITY cmd.groupby_site.label      "Siteye göre gruplandır">
 <!ENTITY cmd.groupby_site.accesskey  "S">
-<!ENTITY cmd.groupby_page.label  "Sayfaya göre gruplandır">
+<!ENTITY cmd.groupby_page.label      "Sayfaya göre gruplandır">
 <!ENTITY cmd.groupby_page.accesskey  "f">
-<!ENTITY cmd.groupby_feed.label  "Aboneliğe göre gruplandır">
+<!ENTITY cmd.groupby_feed.label      "Aboneliğe göre gruplandır">
 <!ENTITY cmd.groupby_feed.accesskey  "n">
-<!ENTITY cmd.groupby_post.label  "Gönderiye göre gruplandır">
+<!ENTITY cmd.groupby_post.label      "Gönderiye göre gruplandır">
 <!ENTITY cmd.groupby_post.accesskey  "d">
-<!ENTITY col.url.label  "Konum">
-<!ENTITY col.lastvisit.label  "Ziyaret tarihi">
-<!ENTITY col.visitcount.label  "Ziyaret sayısı">
-<!ENTITY search.label  "Ara:">
-<!ENTITY search.accesskey  "A">
-<!ENTITY search.collection.label  "Sadece geçerli koleksiyonda">
-<!ENTITY search.collection.accesskey  "C">
-<!ENTITY saveSearch.label  "Kaydet">
-<!ENTITY saveSearch.accesskey  "K">
-<!ENTITY moreCriteria.label  "+">
-<!ENTITY advancedSearch.onlybookmarked.label  "Sadece yer imlerinde ara">
 
-<!ENTITY advancedSearch.match.label  "Sonuç aşağıdaki ">
-<!ENTITY advancedSearch.all.label  "her">
-<!ENTITY advancedSearch.any.label  "herhangi bir">
-<!ENTITY advancedSearch.rules.label  " kurala uysun:">
-<!ENTITY advancedSearch.subj_visited.label  "Ziyaret">
-<!ENTITY advancedSearch.subj_location.label  "Konum">
-<!ENTITY advancedSearch.plus.label  "+">
-<!ENTITY advancedSearch.minus.label  "-">
-<!ENTITY advancedSearch.groupby.label  "Gruplandırma koşulu: ">
-<!ENTITY advancedSearch.groupby_host.label  "ana makine">
-<!ENTITY advancedSearch.groupby_domain.label  "alan adı">
-<!ENTITY advancedSearch.groupby_folder.label  "dizin">
-<!ENTITY advancedSearch.sortby.label  "Sıralama koşulu: ">
-<!ENTITY advancedSearch.sortby_title.label  "başlık">
-<!ENTITY advancedSearch.sortby_date.label  "tarih">
-<!ENTITY advancedSearch.sortby_visit.label  "ziyaret sayısı">
-<!ENTITY advancedSearch.sortby_url.label  "url">
-<!ENTITY advancedSearch.sortby_asc.label  "artarak">
-<!ENTITY advancedSearch.sortby_desc.label  "azalarak">
-<!ENTITY advancedSearch.max.label  "Sonuç üst sınırı: ">
-<!ENTITY cmd.find.key  "f">
-<!ENTITY feed.subscribe.label  "Besleme">
-<!ENTITY feed.subscribe.tooltip  "Abone olun">
+<!ENTITY cmd.moveBookmarks.label                  "Taşı...">
+<!ENTITY cmd.moveBookmarks.accesskey              "T">
 
-<!ENTITY cmd.open_all_in_tabs.label   "Tümünü sekme içinde aç">
-<!ENTITY cmd.open_all_in_tabs.accesskey   "M">
-<!ENTITY cmd.new_livemark.label   "Yeni canlı yer imi...">
-<!ENTITY cmd.new_livemark.accesskey  "L">
-<!ENTITY cmd.reloadLivebookmark.label   "Canlı yer imini tekrar yükle">
-<!ENTITY cmd.reloadLivebookmark.accesskey   "R">
-<!ENTITY cmd.moveBookmarks.label          "Taşı...">
-<!ENTITY cmd.moveBookmarks.accesskey          "T">
-
-
-<!ENTITY cmd.properties.label "Özellikler">
-<!ENTITY cmd.properties.accesskey   "i">
-<!ENTITY cmd.reloadMicrosummary.label  "Kısa özeti tekrar yükle">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
-
-<!ENTITY col.keyword.label   "Anahtar kelime">
+<!ENTITY col.name.label          "İsim">
+<!ENTITY col.tags.label          "Etiketler">
+<!ENTITY col.url.label           "Konum">
+<!ENTITY col.lastvisit.label     "Ziyaret tarihi">
+<!ENTITY col.visitcount.label    "Ziyaret sayısı">
+<!ENTITY col.keyword.label       "Anahtar kelime">
 <!ENTITY col.description.label   "Açıklama">
-<!ENTITY col.dateadded.label   "Ekleme tarihi">
-<!ENTITY col.lastmodified.label   "Son değişiklik">
-<!ENTITY col.name.label  "İsim">
-<!ENTITY col.tags.label  "Etiketler">
+<!ENTITY col.dateadded.label     "Ekleme tarihi">
+<!ENTITY col.lastmodified.label  "Son değişiklik">
 
-<!ENTITY cmd.findInBookmarks.label   "Yer imlerinde bul...">
-<!ENTITY cmd.findInBookmarks.accesskey  "Y">
-<!ENTITY cmd.backup.label  "Yedekle...">
-<!ENTITY cmd.backup.accesskey  "Y">
-<!ENTITY cmd.restore2.label  "Tekrar oluştur">
-<!ENTITY cmd.restore2.accesskey  "r">
-<!ENTITY cmd.restoreFromFile.label  "Dosyayı seçin...">
-<!ENTITY cmd.restoreFromFile.accesskey  "s">
-<!ENTITY search.allBookmarks.label  "Bütün yer imleri">
-<!ENTITY search.allBookmarks.accesskey  "e">
-
-<!ENTITY advancedSearch.subj_keyword.label  "İçerdiği metin:">
-<!ENTITY advancedSearch.time_is.label  "bu tarihte gerçekleşti:">
-<!ENTITY advancedSearch.time_before.label  "bu tarihten önce gerçekleşti:">
-<!ENTITY advancedSearch.time_after.label  "bu tarihten sonra gerçekleşti:">
-<!ENTITY advancedSearch.time_inlast.label  "son">
-<!ENTITY advancedSearch.last_days.label  "gün içinde gerçekleşti">
-<!ENTITY advancedSearch.last_weeks.label  "hafta içinde gerçekleşti">
-<!ENTITY advancedSearch.last_months.label  "ay içinde gerçekleşti">
-<!ENTITY advancedSearch.location_startswith.label  "bunla başlar:">
-<!ENTITY advancedSearch.location_is.label  "budur:">
-<!ENTITY advancedSearch.location_onsite.label  "bu sitededir:">
-
+<!ENTITY search.label                              "Ara:">
+<!ENTITY search.accesskey                          "A">
+<!ENTITY search.collection.label                   "Sadece geçerli koleksiyonda">
+<!ENTITY search.collection.accesskey               "c">
+<!ENTITY search.allBookmarks.label                 "Bütün yer imleri">
+<!ENTITY search.allBookmarks.accesskey             "e">
 <!ENTITY search.scopeFolder.label                  "Seçili dizin">
-<!ENTITY search.scopeFolder.accesskey              "D">
+<!ENTITY search.scopeFolder.accesskey              "d">
 <!ENTITY search.scopeAll.label                     "Tüm yer imleri">
 <!ENTITY search.scopeAll.accesskey                 "T">
 <!ENTITY search.scopeMenu.label                    "Yer imleri menüsü">
-<!ENTITY search.scopeMenu.accesskey                "M">
+<!ENTITY search.scopeMenu.accesskey                "m">
 <!ENTITY search.scopeToolbar.label                 "Yer imleri araç çubuğu">
 <!ENTITY search.scopeToolbar.accesskey             "Y">
 <!ENTITY search.scopeDownloads.label               "İndirilenler">
-<!ENTITY search.scopeDownloads.accesskey           "D">
+<!ENTITY search.scopeDownloads.accesskey           "d">
 <!ENTITY search.scopeHistory.label                 "Geçmiş">
-<!ENTITY search.scopeHistory.accesskey             "E">
+<!ENTITY search.scopeHistory.accesskey             "e">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "Arama yapıcıyı göster">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "Arama yapıcıyı gizle">
+<!ENTITY saveSearch.label                          "Kaydet">
+<!ENTITY saveSearch.accesskey                      "K">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "Sadece yer imlerinde ara">
+<!ENTITY advancedSearch.match.label                "Sonuç aşağıdaki ">
+<!ENTITY advancedSearch.all.label                  "her">
+<!ENTITY advancedSearch.any.label                  "herhangi bir">
+<!ENTITY advancedSearch.rules.label                " kurala uysun:">
+<!ENTITY advancedSearch.subj_keyword.label         "İçerdiği metin:">
+<!ENTITY advancedSearch.subj_visited.label         "Ziyaret">
+<!ENTITY advancedSearch.subj_location.label        "Konum">
+<!ENTITY advancedSearch.location_startswith.label  "bunla başlar:">
+<!ENTITY advancedSearch.location_is.label          "budur:">
+<!ENTITY advancedSearch.location_onsite.label      "bu sitededir:">
+<!ENTITY advancedSearch.time_is.label              "bu tarihte gerçekleşti:">
+<!ENTITY advancedSearch.time_before.label          "bu tarihten önce gerçekleşti:">
+<!ENTITY advancedSearch.time_after.label           "bu tarihten sonra gerçekleşti:">
+<!ENTITY advancedSearch.time_inlast.label          "son">
+<!ENTITY advancedSearch.last_days.label            "gün içinde gerçekleşti">
+<!ENTITY advancedSearch.last_weeks.label           "hafta içinde gerçekleşti">
+<!ENTITY advancedSearch.last_months.label          "ay içinde gerçekleşti">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "Gruplandırma koşulu: ">
+<!ENTITY advancedSearch.groupby_host.label         "ana makine">
+<!ENTITY advancedSearch.groupby_domain.label       "alan adı">
+<!ENTITY advancedSearch.groupby_folder.label       "dizin">
+<!ENTITY advancedSearch.sortby.label               "Sıralama koşulu: ">
+<!ENTITY advancedSearch.sortby_title.label         "başlık">
+<!ENTITY advancedSearch.sortby_date.label          "tarih">
+<!ENTITY advancedSearch.sortby_visit.label         "ziyaret sayısı">
+<!ENTITY advancedSearch.sortby_url.label           "url">
+<!ENTITY advancedSearch.sortby_asc.label           "artarak">
+<!ENTITY advancedSearch.sortby_desc.label          "azalarak">
+<!ENTITY advancedSearch.max.label                  "Sonuç üst sınırı: ">
 
-<!ENTITY organize.label          "Düzenle">
-<!ENTITY organize.accesskey	"d">
-<!ENTITY views.label                    "Görünüm">
-<!ENTITY views.accesskey                    "m">
-<!ENTITY view.sort.label                "Sıralama">
-<!ENTITY view.sort.accesskey            "S">
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "Besleme">
+<!ENTITY feed.subscribe.tooltip  "Abone olun">
+
 <!ENTITY view.detailsMacOSX.label  "Liste">
 <!ENTITY view.details.label        "Ayrıntılar">
 <!ENTITY view.details.accesskey    "A">
+
 <!ENTITY view.addons.label   "Görünüm eklentileri edinin">
-<!ENTITY maintenance.label   "İçe aktarma ve yedekleme">
-<!ENTITY maintenance.accesskey "y">
+
+<!ENTITY maintenance.label      "İçe aktarma ve yedekleme">
+<!ENTITY maintenance.accesskey  "y">
+
 <!ENTITY backCmd.label       "Geri">
 <!ENTITY backCmd.accesskey   "G">
 <!ENTITY backButton.tooltip  "Geriye gider">
-<!ENTITY forwardCmd.label "İleri">
-<!ENTITY forwardCmd.accesskey "e">
-<!ENTITY forwardButton.tooltip "İleriye gider">
+
+<!ENTITY forwardCmd.label       "İleri">
+<!ENTITY forwardCmd.accesskey   "e">
+<!ENTITY forwardButton.tooltip  "İleriye gider">
 
 <!ENTITY detailsPane.more.label "Daha fazla ayrıntı">
 <!ENTITY detailsPane.more.accesskey "a">
@@ -192,12 +213,3 @@
 <!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.noPreviewAvailable.label "Önizleme">
 <!ENTITY detailsPane.selectAnItemText.description "Özelliklerini görmek ve değiştirmek için bir öğe seçin">
-
-<!ENTITY places.library.title  "Kütüphane">
-
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Arama yapıcıyı göster">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Arama yapıcıyı gizle">
-
-
-<!ENTITY places.library.width  "700">
-<!ENTITY places.library.height "500"> 

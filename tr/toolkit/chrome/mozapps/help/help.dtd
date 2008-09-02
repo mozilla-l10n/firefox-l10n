@@ -21,18 +21,18 @@
 <!ENTITY printButton.label              "Yazdır">
 <!ENTITY printButton.tooltip            "Bu sayfayı yazdırır">
 <!ENTITY closeWindow.commandkey         "W">
-<!ENTITY searchtab.label    	  	"Ara">
+
+<!ENTITY searchtab.label                "Ara">
 <!ENTITY searchtab.accesskey            "A">
 <!ENTITY searchClose.tooltip            "Arama sonuçlarını kapat">
-<!ENTITY toctab.label       	  	"İçerik">
-<!ENTITY toctab.accesskey               "E">
+<!ENTITY toctab.label                   "İçerik">
+<!ENTITY toctab.accesskey               "e">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be 
-empty.  -->
+you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -42,13 +42,12 @@ empty.  -->
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-
 <!ENTITY helpSearch.commandkey          "k">
 
 <!ENTITY zLevel.label                   "Hep ön planda tut">
-<!ENTITY zLevel.accesskey               "T">
+<!ENTITY zLevel.accesskey               "t">
 
 <!ENTITY fullZoomReduceBtn.label        "Yazı boyutunu küçült">
-<!ENTITY fullZoomReduceBtn.accesskey    "B">
+<!ENTITY fullZoomReduceBtn.accesskey    "b">
 <!ENTITY fullZoomEnlargeBtn.label       "Yazı boyutunu büyüt">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "U">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "u">

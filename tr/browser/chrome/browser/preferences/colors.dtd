@@ -1,5 +1,5 @@
 <!ENTITY  colorsDialog.title              "Renkler">
-<!ENTITY window.width                     "42em">
+<!ENTITY  window.width                    "42em">
 <!ENTITY  window.macWidth                 "42em">
 
 <!ENTITY  allowPagesToUse.label           "Seçtiklerim dışında internet sayfalarının kendi renklerini kullanmasına izin ver.">
@@ -11,12 +11,12 @@
 <!ENTITY  backgroundColor.label           "Arkaplan:">
 <!ENTITY  backgroundColor.accesskey       "p">
 <!ENTITY  useSystemColors.label           "Sistem renklerini kullan">
-<!ENTITY  useSystemColors.accesskey       "s">
+<!ENTITY  useSystemColors.accesskey       "S">
 
 <!ENTITY  underlineLinks.label            "Bağlantıların altını çiz">
-<!ENTITY  underlineLinks.accesskey        "i">
+<!ENTITY  underlineLinks.accesskey        "ı">
 <!ENTITY  links                           "Bağlantı Renkleri">
 <!ENTITY  linkColor.label                 "Ziyaret edilmemiş bağlantılar:">
 <!ENTITY  linkColor.accesskey             "l">
 <!ENTITY  visitedLinkColor.label          "Ziyaret edilmiş bağlantılar:">
-<!ENTITY  visitedLinkColor.accesskey      "z">
+<!ENTITY  visitedLinkColor.accesskey      "Z">

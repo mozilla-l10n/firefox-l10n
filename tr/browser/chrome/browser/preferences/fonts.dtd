@@ -1,7 +1,7 @@
 <!ENTITY  fontsDialog.title                       "Yazıtipleri">
 <!ENTITY  window.width                            "43em">
 <!ENTITY  window.macWidth                         "43em">
-<!ENTITY window.unixWidth	"43em">
+<!ENTITY  window.unixWidth                        "43em">
 
 <!ENTITY  language.label                          "Yazıtipleri:">
 <!ENTITY  language.accesskey                      "t">
@@ -9,7 +9,6 @@
 <!ENTITY  size.label                              "Boyut:">
 <!ENTITY  sizeProportional.accesskey              "o">
 <!ENTITY  sizeMonospace.accesskey                 "u">
-
 
 <!ENTITY  proportional.label                      "Orantılı:">
 <!ENTITY  proportional.accesskey                  "O">
@@ -61,10 +60,9 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-
 <!ENTITY  allowPagesToUse.label                   "Sayfalara benim seçtiklerimin dışında kendi yazıtiplerini seçme izni ver">
-<!ENTITY  allowPagesToUse.accesskey               "s">
+<!ENTITY  allowPagesToUse.accesskey               "S">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Karakter Kodlaması">
 <!ENTITY languages.customize.DefaultCharset.label       "Öntanımlı karakter kodlaması:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "K">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "k">

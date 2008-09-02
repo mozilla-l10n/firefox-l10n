@@ -1,22 +1,24 @@
 <!ENTITY sanitizeDialog.title         "Özel Veri Temizliği">
-<!ENTITY window.width                 "23em">
+
 <!ENTITY sanitizeItems.label          "Aşağıdaki öğeleri sil:">
+<!ENTITY clearDataSettings.label      "   &brandShortName; uygulamasından özel verilerimi silmesini istediğimde şunlar silinsin:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
 <!ENTITY itemHistory.label            "Tarama geçmişi">
 <!ENTITY itemHistory.accesskey        "T">
 <!ENTITY itemFormSearchHistory.label  "Kayıtlı form ve arama geçmişi">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemFormSearchHistory.accesskey "f">
 <!ENTITY itemPasswords.label          "Kayıtlı parolalar">
-<!ENTITY itemPasswords.accesskey      "P">
+<!ENTITY itemPasswords.accesskey      "p">
 <!ENTITY itemCookies.label            "Çerezler">
-<!ENTITY itemCookies.accesskey        "Z">
+<!ENTITY itemCookies.accesskey        "z">
 <!ENTITY itemCache.label              "Önbellek">
 <!ENTITY itemCache.accesskey          "e">
+<!ENTITY itemOfflineApps.label        "Çevrim dışı sayfa verileri">
+<!ENTITY itemOfflineApps.accesskey    "e">
 <!ENTITY itemDownloads.label          "İndirme geçmişi">
-<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemDownloads.accesskey      "d">
 <!ENTITY itemSessions.label           "Kimlikleri doğrulanmış oturumlar">
 <!ENTITY itemSessions.accesskey       "K">
-
-<!ENTITY clearDataSettings.label      "   &brandShortName; uygulamasından özel verilerimi silmesini istediğimde şunlar silinsin:">
-<!ENTITY itemOfflineApps.label        "Çevrim dışı sayfa verileri">
-<!ENTITY itemOfflineApps.accesskey    "E">
-
+<!ENTITY window.width                 "23em">

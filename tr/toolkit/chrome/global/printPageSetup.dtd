@@ -1,38 +1,53 @@
-<!ENTITY advanced.tab "Kenarlar, başlıklar ve dipnotlar">
-<!ENTITY basic.tab "Biçim ve Seçenekler">
-<!ENTITY customPrompt.prompt "Özel başlık/dipnot metnini girin">
-<!ENTITY customPrompt.title "Özelleştir...">
-<!ENTITY footerLeft.tip      "Sol Dipnot">
-<!ENTITY footerCenter.tip    "Orta Dipnot ">
-<!ENTITY footerRight.tip     "Sağ Dipnot">
-<!ENTITY formatGroup.label "Biçim">
-<!ENTITY headerFooter.label "Başlıklar ve Dipnotlar">
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Sayfa düzeni">
+
+<!ENTITY basic.tab           "Biçim ve Seçenekler">
+
+<!ENTITY formatGroup.label   "Biçim">
+
+<!ENTITY orientation.label   "Konum:">
+<!ENTITY portrait            "Dikey">
+<!ENTITY landscape           "Yatay">
+
+<!ENTITY scale.label         "Ölçek:">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Sayfa boyutuna sığdır">
+
+<!ENTITY optionsGroup.label  "Seçenekler">
+
+<!ENTITY printBG.label       "Arkaplanı yazdır (renkler ve resimler)">
+
+<!ENTITY advanced.tab        "Kenarlar, başlıklar ve dipnotlar">
+
+<!ENTITY marginGroup.label   "Kenarlar (#1)">
+<!ENTITY marginUnits.inches  "inç">
+<!ENTITY marginUnits.metric  "milimetre">
+<!ENTITY marginTop.label     "Üst:">
+<!ENTITY marginBottom.label  "Alt:">
+<!ENTITY marginLeft.label    "Sol:">
+<!ENTITY marginRight.label   "Sağ:">
+
+<!ENTITY headerFooter.label  "Başlıklar ve Dipnotlar">
+
+<!ENTITY hfLeft.label        "Sol:">
+<!ENTITY hfCenter.label      "Merkez:">
+<!ENTITY hfRight.label       "Sağ">
 <!ENTITY headerLeft.tip      "Sol başlık">
 <!ENTITY headerCenter.tip    "Orta başlık">
 <!ENTITY headerRight.tip     "Sağ başlık">
-<!ENTITY hfBlank "--boş--">
-<!ENTITY hfCenter.label "Merkez:">
-<!ENTITY hfCustom "Özelleştir:">
-<!ENTITY hfDateAndTime "Tarih/Zaman">
-<!ENTITY hfLeft.label "Sol:">
-<!ENTITY hfPage "Sayfa #">
-<!ENTITY hfPageAndTotal "Sayfa #  ->  #">
-<!ENTITY hfRight.label "Sağ">
-<!ENTITY hfTitle "Başlık">
-<!ENTITY hfURL "URL">
-<!ENTITY landscape "Yatay">
-<!ENTITY marginBottom.label "Alt:">
-<!ENTITY marginGroup.label "Kenarlar (#1)">
-<!ENTITY marginLeft.label "Sol:">
-<!ENTITY marginRight.label "Sağ:">
-<!ENTITY marginTop.label "Üst:">
-<!ENTITY marginUnits.inches "inç">
-<!ENTITY marginUnits.metric "milimetre">
-<!ENTITY optionsGroup.label "Seçenekler">
-<!ENTITY orientation.label "Konum:">
-<!ENTITY portrait "Dikey">
-<!ENTITY printBG.label "Arkaplanı yazdır (renkler ve resimler)">
-<!ENTITY printSetup.title "Sayfa düzeni">
-<!ENTITY scale.label "Ölçek:">
-<!ENTITY scalePercent "&#037;">
-<!ENTITY shrinkToFit.label "Sayfa boyutuna sığdır">
+<!ENTITY footerLeft.tip      "Sol Dipnot">
+<!ENTITY footerCenter.tip    "Orta Dipnot ">
+<!ENTITY footerRight.tip     "Sağ Dipnot">
+
+<!ENTITY hfTitle             "Başlık">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Tarih/Zaman">
+<!ENTITY hfPage              "Sayfa #">
+<!ENTITY hfPageAndTotal      "Sayfa #  ->  #">
+<!ENTITY hfBlank             "--boş--">
+<!ENTITY hfCustom            "Özelleştir:">
+
+<!ENTITY customPrompt.title  "Özelleştir...">
+<!ENTITY customPrompt.prompt "Özel başlık/dipnot metnini girin">

@@ -1,43 +1,55 @@
-<!-- LOCALIZATION NOTE:
-   The entities rememberDaysBefore.label and rememberDaysAfter2.label 
-appear on a single
-   line in preferences as follows:
+<!ENTITY  history.label "Geçmiş">
 
-   &rememberDaysBefore.label  [ textbox for number of days ] 
-&rememberDaysAfter2.label;
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
 -->
 <!ENTITY  rememberDaysBefore.label      "Ziyaret kaydı tutma sınırı:">
-<!ENTITY  rememberDaysBefore.accesskey  "z">
+<!ENTITY  rememberDaysBefore.accesskey  "Z">
 <!ENTITY  rememberDaysAfter2.label      "gün">
-
 
 <!ENTITY  rememberForms.label           "Formlarda ve arama çubuğunda girdiklerimi anımsa">
 <!ENTITY  rememberForms.accesskey       "o">
+
 <!ENTITY  rememberDownloads.label       "İndirdiklerimi anımsa">
 <!ENTITY  rememberDownloads.accesskey   "d">
+
+
 <!ENTITY  cookies.label                 "Çerezler">
+
 <!ENTITY  acceptCookies.label           "Sitelerin çerez bırakmasına izin ver">
 <!ENTITY  acceptCookies.accesskey       "z">
 
-<!ENTITY  history.label "Geçmiş">
+<!ENTITY  acceptThirdParty.label        "Üçüncü kişilerin çerezlerini kabul et">
+<!ENTITY  acceptThirdParty.accesskey    "c">
+
 <!ENTITY  keepUntil.label               "Tutma sınırı:">
 <!ENTITY  keepUntil.accesskey           "T">
+
 <!ENTITY  expire.label                  "süresi dolana dek">
 <!ENTITY  close.label                   "&brandShortName; kapatılana dek">
 <!ENTITY  askEachTime.label             "her seferinde bana sor">
-<!ENTITY  privateData.label             "Özel Veri">
-<!ENTITY  clearDataNow.label             "Şimdi temizle...">
-<!ENTITY  clearDataNow.label2            "Şimdi temizle">
-<!ENTITY  clearDataNow.accesskey         "M">
+
 <!ENTITY  cookieExceptions.label        "Ayrıcalıklar...">
 <!ENTITY  cookieExceptions.accesskey    "A">
+
 <!ENTITY  showCookies.label             "Çerezleri göster...">
 <!ENTITY  showCookies.accesskey         "z">
+
+
+<!ENTITY  privateData.label             "Özel Veri">
+
 <!ENTITY  alwaysClear.label              "&brandShortName; tarayıcısını her kapatışımda özel verilerimi temizle">
 <!ENTITY  alwaysClear.accesskey          "d">
+
+<!ENTITY  askBeforeClear.label           "Özel verileri silmeden önce bana sor">
+<!ENTITY  askBeforeClear.accesskey       "a">
+
 <!ENTITY  clearDataSettings.label        "Ayarlar...">
 <!ENTITY  clearDataSettings.accesskey    "l">
-<!ENTITY  askBeforeClear.label           "Özel verileri silmeden önce bana sor">
-<!ENTITY  askBeforeClear.accesskey       "A"><!ENTITY  acceptThirdParty.label        "Üçüncü kişilerin çerezlerini kabul et">
-<!ENTITY  acceptThirdParty.accesskey    "c">
 
+<!ENTITY  clearDataNow.label             "Şimdi temizle...">
+<!ENTITY  clearDataNow.label2            "Şimdi temizle">
+<!ENTITY  clearDataNow.accesskey         "m">

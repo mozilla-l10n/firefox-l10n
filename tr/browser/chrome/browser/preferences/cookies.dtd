@@ -4,7 +4,7 @@
 <!ENTITY     cookiename.label               "Çerez ismi">
 <!ENTITY     cookiedomain.label             "Site"> 
 <!ENTITY     button.removecookie.label      "Çerezi sil">
-<!ENTITY     button.removecookie.accesskey  "R">
+<!ENTITY     button.removecookie.accesskey  "r">
 <!ENTITY     button.removeallcookies.label  "Tüm çerezleri sil">
 <!ENTITY     button.removeallcookies.accesskey "T">
 
