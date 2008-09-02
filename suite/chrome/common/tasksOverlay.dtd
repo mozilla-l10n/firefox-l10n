@@ -35,7 +35,7 @@
 <!ENTITY downloadManagerCmd.label "Letöltéskezelő">
 <!ENTITY downloadManagerCmd.accesskey "L">
 
-<!ENTITY addonsManagerCmd.label "Kiegészők">
+<!ENTITY addonsManagerCmd.label "Kiegészítők">
 <!ENTITY addonsManagerCmd.accesskey "K">
 
 <!ENTITY switchProfileCmd.label "Profilváltás…">
