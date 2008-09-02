@@ -383,7 +383,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY editBookmark.removeBookmark.label           "બુકમાર્ક દૂર કરો">
 <!ENTITY editBookmark.undo.label                     "રદ કરો">
 
-<!ENTITY urlbar.emptyText             "ઈતિહાસો અને બુકમાર્કોમાં શોધો">
+<!ENTITY urlbar.emptyText             "ઈતિહાસ અને બુકમાર્કમાં શોધો">
 
 <!ENTITY backForwardMenu.tooltip      "છેલ્લા પાનાંઓ">
 <!ENTITY organizeBookmarks.label "બુકમાર્કો આયોજીત કરો…">
