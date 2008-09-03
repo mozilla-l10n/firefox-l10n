@@ -59,7 +59,7 @@ selbst erstellt und scheinen auf der Seite http://www.mozilla.org/ports/os2
 vor der offiziellen Freigabe auf. Lesen Sie auf jeden Fall die
 Release-Notes auf welche von der Release-Seite verwiesen wird.
 In diesen stehen bekannte Probleme und Hilfestellungen
-zum Installation von SeaMonkey.
+zur Installation von SeaMonkey.
 
 ====================================================
 
