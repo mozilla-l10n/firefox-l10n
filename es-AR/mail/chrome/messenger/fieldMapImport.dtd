@@ -38,17 +38,17 @@
 <!ENTITY fieldMapImport.title "Importar libreta de direcciones">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Registro:">
-<!ENTITY fieldMapImport.next "Siguiente">
+<!ENTITY fieldMapImport.next.label "Siguiente">
 <!ENTITY fieldMapImport.next.accesskey "N">
-<!ENTITY fieldMapImport.previous "Anterior">
+<!ENTITY fieldMapImport.previous.label "Anterior">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Use subir y bajar para elegir el orden los campos de la libreta de direcciones de la izquierda para importar en la parte derecha. Desmarque los elementos que no quiera importar.">
-<!ENTITY fieldMapImport.up "Subir">
+<!ENTITY fieldMapImport.up.label "Subir">
 <!ENTITY fieldMapImport.up.accesskey "M">
-<!ENTITY fieldMapImport.down "Bajar">
+<!ENTITY fieldMapImport.down.label "Bajar">
 <!ENTITY fieldMapImport.down.accesskey "o">
 <!ENTITY fieldMapImport.fieldListTitle "Campos de la libreta de direcciones">
 <!ENTITY fieldMapImport.dataTitle "Registros de datos a importar:">
-<!ENTITY fieldMapImport.skipFirstRecord "Primer registro contiene nombres de campo">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Primer registro contiene nombres de campo">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "F"> 
 

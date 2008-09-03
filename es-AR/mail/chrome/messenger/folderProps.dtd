@@ -53,11 +53,11 @@
 <!ENTITY retentionUseDefault.label  "Usar configuración del servidor">
 <!ENTITY retentionUseDefault.accesskey "d">
 <!ENTITY days.label "días">
-<!ENTITY daysOld.label "días old">
+<!ENTITY daysOld.label "días">
 <!ENTITY message.label "mensajes">
 <!ENTITY retentionCleanup.label "Para recuperar espacio en disco, los mensajes viejos pueden ser borrados permanentemente">
-<!ENTITY retentionKeepMsg.label "Borrar mensajes más de">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "Borrar mensajes de más de">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "No borrar ningúun mensaje">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "Borrar todos menos los últimos">
