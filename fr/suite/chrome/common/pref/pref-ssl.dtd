@@ -36,9 +36,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  SSLProtocolVersions.caption          "Versions du protocole SSL">
-<!ENTITY  SSLWarnings.caption                  "Avertissements SSL">
-<!ENTITY  SSLClientAuthMethod.caption          "Sélection du certificat client">
+<!ENTITY  SSLProtocolVersions.caption "Versions du protocole SSL">
+<!ENTITY  SSLWarnings.caption "Avertissements SSL">
+<!ENTITY  SSLClientAuthMethod.caption "Sélection du certificat client">
 
 <!ENTITY pref.ssl.title "Protocole SSL">
 <!ENTITY enable.ssl3 "Autoriser SSL version 3">

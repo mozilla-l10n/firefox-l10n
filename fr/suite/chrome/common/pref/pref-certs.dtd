@@ -36,18 +36,18 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  resetsettings.label    "Remise à zéro des paramètres">
+<!ENTITY  resetsettings.label "Remise à zéro des paramètres">
 <!ENTITY  resetpreferences.label "Remise à zéro des préférences…">
-<!ENTITY  managecerts.caption    "Gestion des certificats">
-<!ENTITY  managecerts.text       "Utilisez le Gestionnaire de certificats pour vos certificats personnels ainsi que pour les autres certificats.">
-<!ENTITY  managecerts.button     "Gestion des certificats…">
-<!ENTITY  managecerts.accesskey  "G">
-<!ENTITY  managedevices.caption  "Gestion des périphériques de sécurité…">
-<!ENTITY  managedevices.text     "Utilisez le Gestionnaire de périphériques pour gérer les périphériques de sécurité, comme les cartes à puce.">
-<!ENTITY  managedevices.button   "Gestion des périphériques de sécurité…">
+<!ENTITY  managecerts.caption "Gestion des certificats">
+<!ENTITY  managecerts.text "Utilisez le Gestionnaire de certificats pour vos certificats personnels ainsi que pour les autres certificats.">
+<!ENTITY  managecerts.button "Gestion des certificats…">
+<!ENTITY  managecerts.accesskey "G">
+<!ENTITY  managedevices.caption "Gestion des périphériques de sécurité…">
+<!ENTITY  managedevices.text "Utilisez le Gestionnaire de périphériques pour gérer les périphériques de sécurité, comme les cartes à puce.">
+<!ENTITY  managedevices.button "Gestion des périphériques de sécurité…">
 <!ENTITY  managedevices.accesskey "s">
 
-<!ENTITY  ssl.label              "SSL">
+<!ENTITY  ssl.label "SSL">
 
-<!ENTITY  pref.certs.title       "Certificats">
-<!ENTITY  certs.label            "Certificats">
+<!ENTITY  pref.certs.title "Certificats">
+<!ENTITY  certs.label "Certificats">

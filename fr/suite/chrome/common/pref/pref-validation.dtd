@@ -19,8 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Bob Lord <lord@netscape.com>
-   -   Terry Hayes <thayes@netscape.com>
+   -   David P. Drinan (ddrinan@netscape.com)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,9 +35,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY  pref.validation.title "Validation">
 
-<!ENTITY  masterpass.label             "Mot de passe principal">
-<!ENTITY  security.label               "Confidentialité et Sécurité">
-<!ENTITY  ssl.label                    "SSL">
-<!ENTITY  certs.label                  "Certificats">
-<!ENTITY  validation.label             "Validation">
+<!ENTITY  validation.crl.caption "LCR">
+<!ENTITY  validation.crl.description "Utilisez le Gestionnaire de LCR pour gérer les listes de certificats révoqués (LCR) qui sont stockées dans la base de données de certificats.">
+<!ENTITY  validation.managecrls.button "Gestion des LCR…">
+<!ENTITY  validation.managecrls.accesskey "G">
+
+<!ENTITY validation.ocsp.caption "OCSP">
+<!ENTITY enableOCSP.label "Utiliser le protocole de statut de certificat en ligne (OCSP) pour confirmer la validité actuelle de vos certificats">
+<!ENTITY enableOCSP.accesskey "U">
+<!ENTITY certOCSP2.label "Valider un certificat s'il spécifie un serveur OCSP">
+<!ENTITY certOCSP2.accesskey "V">
+<!ENTITY proxyOCSP2.label "Valider tous les certificats utilisant le serveur OCSP suivant :">
+<!ENTITY proxyOCSP2.accesskey "a">
+<!ENTITY serviceURL.label "URL de service :">
+<!ENTITY serviceURL.accesskey "s">
+<!ENTITY signingCA.label "Signataire de réponse :">
+<!ENTITY signingCA.accesskey "r">
+<!ENTITY validation.requireOCSP.description "Quand la connexion à un serveur OCSP échoue, considérer le certificat comme étant invalide">
+<!ENTITY validation.requireOCSP.accesskey "n">
