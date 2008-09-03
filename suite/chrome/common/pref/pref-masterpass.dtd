@@ -50,7 +50,7 @@
 <!ENTITY  changepassword.caption                 "Master-Passwort ändern">
 <!ENTITY  changepassword.text                    "Ihr Master-Passwort schützt sensible Informationen wie Web-Passwörter und Zertifikate.">
 <!ENTITY  changepassword.button                  "Passwort ändern…">
-<!ENTITY  changepassword.accesskey               "M">
+<!ENTITY  changepassword.accesskey               "P">
 
 <!ENTITY  resetpassword.caption                  "Master-Passwort zurücksetzen">
 <!ENTITY  resetpassword.text                     "Wenn Sie Ihr Master-Passwort zurücksetzen, gehen all Ihre gespeicherten Web- und E-Mail-Passwörter, Formulardaten, persönlichen Zertifikate und privaten Schlüssel verloren.">
