@@ -10,3 +10,7 @@
 <!ENTITY systemPrefCheck.label "Utiliser les préférences du système">
 <!ENTITY systemPrefCheck.accesskey "U">
 <!ENTITY systemPref.desc "Cette option permet à &brandShortName; d'utiliser les préférences du système. Les préférences du système ont priorité sur les préférences de &brandShortName;">
+
+<!ENTITY prefCheckDefault.caption "Intégration système">
+<!ENTITY prefCheckDefaultClient.label "Vérifier les paramètres par défaut de l'application au démarrage">
+<!ENTITY prefCheckDefaultClient.accesskey "V">
