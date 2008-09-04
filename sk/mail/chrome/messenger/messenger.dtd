@@ -635,6 +635,10 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Pridať adresu do Adresára">
 <!ENTITY AddToAddressBook.accesskey "A">
+<!ENTITY EditContact.label "Upraviť kontakt…">
+<!ENTITY EditContact.accesskey "U">
+<!ENTITY ViewContact.label "Zobraziť kontakt">
+<!ENTITY ViewContact.accesskey "Z">
 <!ENTITY SendMailTo.label "Odoslať správu">
 <!ENTITY SendMailTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Kopírovať e-mailovú adresu">
