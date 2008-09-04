@@ -667,6 +667,10 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Įtraukti į adresų knygą…">
 <!ENTITY AddToAddressBook.accesskey "t">
+<!ENTITY EditContact.label "Taisyti adresatą…">
+<!ENTITY EditContact.accesskey "a">
+<!ENTITY ViewContact.label "Rodyti adresatą">
+<!ENTITY ViewContact.accesskey "o">
 <!ENTITY SendMailTo.label "Rašyti laišką">
 <!ENTITY SendMailTo.accesskey "R">
 <!ENTITY CopyEmailAddress.label "Kopijuoti el. pašto adresą">
