@@ -55,8 +55,6 @@
 <!ENTITY lookIn.accesskey                    "H">
 <!ENTITY for.label                           "pre:">
 <!ENTITY for.accesskey                       "p">
-<!ENTITY clearButton.label                   "Vymazať">
-<!ENTITY clearButton.accesskey               "V">
 <!ENTITY addressMessageTo.label              "Komu adresovať správy:">
 
 <!-- Tooltips items -->

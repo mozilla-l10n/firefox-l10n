@@ -2,16 +2,22 @@
 <!ENTITY  pref.proxies.advanced.title "Rozšírené nastavenia pre servery proxy">
 <!ENTITY  protocols.caption           "Servery proxy pre jednotlivé protokoly">
 <!ENTITY  protocols.description       "Štandardne je používaný jeden server proxy pre všetky protokoly.">
+<!ENTITY  http.label                  "Server proxy HTTP:">
+<!ENTITY  http.accesskey              "H">
+<!ENTITY  ssl.label                   "Server proxy SSL:">
+<!ENTITY  ssl.accesskey               "S">
 <!ENTITY  ftp.label                   "Server proxy pre FTP:">
 <!ENTITY  ftp.accesskey               "F">
 <!ENTITY  gopher.label                "Server proxy pre Gopher:">
 <!ENTITY  gopher.accesskey            "G">
-<!ENTITY  http.label                  "Server proxy HTTP:">
-<!ENTITY  http.accesskey              "H">
 <!ENTITY  reuseProxy.label            "Použiť tento server proxy pre všetky protokoly">
 <!ENTITY  reuseProxy.accesskey        "x">
-<!ENTITY  ssl.label                   "Server proxy SSL:">
-<!ENTITY  ssl.accesskey               "S">
+<!ENTITY  port.label                  "Port:">
+<!ENTITY  HTTPPort.accesskey          "o">
+<!ENTITY  SSLPort.accesskey           "r">
+<!ENTITY  FTPPort.accesskey           "t">
+<!ENTITY  gopherPort.accesskey        "">
+
 <!ENTITY  socks.caption               "Všeobecný server proxy">
 <!ENTITY  socks.description           "SOCKS je všeobecný server proxy používaný vo firemnom alebo podobných prostrediach.">
 <!ENTITY  socks.label                 "Server SOCKS:">
@@ -22,9 +28,4 @@
 <!ENTITY  socks5.accesskey            "v">
 <!ENTITY  socksRemoteDNS.label        "Použiť na získavanie mien počítačov (odporúčané pre SOCKS v5)">
 <!ENTITY  socksRemoteDNS.accesskey    "u">
-<!ENTITY  port.label                  "Port:">
-<!ENTITY  HTTPport.accesskey          "o">
-<!ENTITY  SSLport.accesskey           "r">
-<!ENTITY  FTPport.accesskey           "t">
-<!-- No accesskey for gopher (':' doesn't go well) -->
 <!ENTITY  SOCKSport.accesskey         "">

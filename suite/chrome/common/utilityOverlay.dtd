@@ -69,17 +69,19 @@
 <!ENTITY aboutCommPluginsCmd.label			"O zásuvných moduloch">
 <!ENTITY aboutCommPluginsCmd.accesskey			"z">
 
-<!ENTITY direct.label "Online (proxy: žiadne)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Online (proxy: ručné)">
-<!ENTITY manual.accesskey "r">
-<!ENTITY pac.label "Online (proxy: automatické)">
-<!ENTITY pac.accesskey "a">
-<!ENTITY wpad.label                                     "Režim online (Proxy: automatické)">
-<!ENTITY wpad.accesskey                                 "a">
+<!ENTITY direct.label                             "Online (proxy: žiadne)">
+<!ENTITY direct.accesskey                         "n">
+<!ENTITY manual.label                             "Online (proxy: ručné)">
+<!ENTITY manual.accesskey                         "r">
+<!ENTITY pac.label                                "Online (proxy: automatické)">
+<!ENTITY pac.accesskey                            "a">
+<!ENTITY wpad.label                               "Režim online (Proxy: automatické)">
+<!ENTITY wpad.accesskey                           "u">
+<!ENTITY system.label                             "Režim online (Proxy: systémové)">
+<!ENTITY system.accesskey                         "s">
 
-<!ENTITY proxy.label "Nastavenie proxy…">
-<!ENTITY proxy.accesskey "N">
+<!ENTITY proxy.label                              "Nastavenie proxy…">
+<!ENTITY proxy.accesskey                          "N">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Prepnúť smer textu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
