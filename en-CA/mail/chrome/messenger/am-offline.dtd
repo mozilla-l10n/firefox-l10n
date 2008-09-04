@@ -16,16 +16,17 @@
 <!ENTITY retentionKeepMsg.label "Delete messages more than">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepNew.label "Delete all but the last">
-<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepNew.accesskey "b">
 <!ENTITY retentionKeepUnread.label "Always delete read messages">
 <!ENTITY retentionKeepUnread.accesskey "r">
 <!ENTITY nntpRemoveBody.label "Only message bodies less than">
 <!ENTITY nntpRemoveBody.accesskey "O">
-<!ENTITY offlineSelectNntp.label "Select newsgroups for offline use...">
-<!ENTITY offlineSelectImap.label "Select folders for offline use...">
-<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
+<!ENTITY offlineSelectNntp.accesskey "S">
+<!ENTITY offlineSelectImap.label "Select folders for offline use…">
+<!ENTITY offlineSelectImap.accesskey "S">
 <!ENTITY offlineDesc.label "You can download your messages locally so that they are available when you are working offline.">
 <!ENTITY makeInboxMsgsAvailable.label "Make the messages in my Inbox available when I am working offline">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">

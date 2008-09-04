@@ -1,25 +1,20 @@
-<!ENTITY generalSettings.caption            "Default Settings">
-<!ENTITY generalSettings.label             "Make &brandShortName; the default application for:">
-<!ENTITY setDefaultMailClient.label        "Mail">
-<!ENTITY setDefaultMailClient.accesskey    "M">
-<!ENTITY setDefaultNewsClient.label        "News">
-<!ENTITY setDefaultNewsClient.accesskey    "N">
-<!ENTITY setDefaultFeedClient.label        "RSS Feeds">
-<!ENTITY setDefaultFeedClient.accesskey    "F">
-<!ENTITY checkDefaultMailClient.label      "&brandShortName; should check to see if it is the default mail client when starting">
-<!ENTITY checkDefaultMailClient.accesskey  "n">
-<!ENTITY defaultClientAdvanced.label       "Advanced...">
-<!ENTITY defaultClientAdvanced.accesskey   "d">
-
-<!ENTITY windowSettings.label             "Window Configuration">
-<!ENTITY selectWindowLayout.label         "Select the window layout you prefer for Mail.">
-<!ENTITY selectWindowLayout.accesskey     "S">
+<!ENTITY systemDefaults.label              "System Defaults">
+<!ENTITY alwaysCheckDefault.label          "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.accesskey      "l">
+<!-- LOCALIZATION NOTE (alwaysCheckDefault.height):
+  There's some sort of bug which makes wrapping checkboxes not properly reflow,
+  causing the bottom border of the groupbox to be cut off; set this
+  appropriately if your localization causes this checkbox to wrap.
+-->
+<!ENTITY alwaysCheckDefault.height  "3em">
+<!ENTITY checkNow.label             "Check Now">
+<!ENTITY checkNow.accesskey         "N">
 
 <!ENTITY messengerStartPage.label         "&brandShortName; Start Page">
 <!ENTITY enableStartPage.label            "When &brandShortName; launches, show the Start Page in the message area">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "Location:">
-<!ENTITY location.accesskey               "L">
+<!ENTITY location1.accesskey              "L">
 <!ENTITY useDefault.label                 "Restore Default">
 <!ENTITY useDefault.accesskey             "R">
 
@@ -28,13 +23,20 @@
 
 <!ENTITY newMessagesArrive.label          "When new messages arrive:">
 <!ENTITY playSound.label                  "Play a sound">
-<!ENTITY playSound.accesskey              "P">
+<!ENTITY playSound1.accesskey             "d">
 <!ENTITY showAnimatedAlert.label          "Show an alert">
 <!ENTITY showAnimatedAlert.accesskey      "S">
-<!ENTITY soundbutton.label                "Advanced...">
-<!ENTITY soundbutton.accesskey            "A">
+<!ENTITY customizeMailAlert.label         "Customise…">
+<!ENTITY customizeMailAlert.accesskey     "C">
 
-<!ENTITY showConnections.label         "Connection Settings...">
-<!ENTITY showConnections.accesskey     "o">
-<!ENTITY proxiesInfo.label             "Determine how &brandShortName; connects to the Internet.">
-<!ENTITY connectionsInfo.caption       "Connection">
+<!ENTITY soundNotification1.caption       "Sound">
+<!ENTITY play.label                       "Play">
+<!ENTITY play.accesskey                   "P">
+<!ENTITY systemsound.label                "Default system sound for new mail">
+<!ENTITY systemsoundMac.label             "System Alert Sound">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "Use the following sound file">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Browse…">
+<!ENTITY browse.accesskey                 "B">

@@ -40,6 +40,8 @@
 <!ENTITY subscribeButton.accesskey    "S">
 <!ENTITY unsubscribeButton.label      "Unsubscribe">
 <!ENTITY unsubscribeButton.accesskey  "U">
+<!ENTITY newGroupsTab.label           "New Groups">
+<!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Refresh">
 <!ENTITY refreshButton.accesskey      "R">
 <!ENTITY stopButton.label             "Stop">
