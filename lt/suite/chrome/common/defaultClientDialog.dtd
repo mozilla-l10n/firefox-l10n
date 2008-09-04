@@ -12,9 +12,7 @@
    - License.
    -
    - Contributor(s):
-   -   Gintautas Grigas <grigas@ktl.mii.lt>
-   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
-	-   Rimas Kudelis <rq@akl.lt>
+   -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -30,20 +28,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY defaultClient.title  "Numatytoji programa">
+<!ENTITY defaultClient.intro  "Skirti „&brandShortName;“ numatytąja:">
 
-<!-- LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title        "Kitkas">
+<!ENTITY browser.label "žiniatinklio naršykle">
+<!ENTITY email.label "el. pašto programa">
+<!ENTITY newsgroups.label "naujienų grupių programa">
 
-<!ENTITY prefEnableJava.caption     "Tinklalapių interpretavimas">
-
-<!ENTITY enbJavaCheck.label         "Leisti naudoti Javą">
-<!ENTITY enbJavaCheck.accesskey     "J">
-
-<!ENTITY systemPref.caption         "Sistemos nuostatos">
-<!ENTITY systemPrefCheck.label      "Naudoti operacinės sistemos nuostatas">
-<!ENTITY systemPrefCheck.accesskey  "N">
-<!ENTITY systemPref.desc            "Pažymėkite šią parinkti, jei norite, kad būtų naudojamos nuostatos, parinktos operacinėje sistemoje. Tokiu atveju sistemos nuostatos nustelbs „&brandShortName;“ nuostatas">
-
-<!ENTITY prefCheckDefault.caption   "Sistemos numatytosios nuostatos">
-<!ENTITY prefCheckDefaultClient.label "Paleidžiant programą tikrinti, ar ji yra numatytoji">
-<!ENTITY prefCheckDefaultClient.accesskey "P">
+<!ENTITY checkOnStartup.label "Paleidžiant „&brandShortName;“ tikrinti, ar ji yra numatytoji">
+<!ENTITY checkOnStartup.accesskey "P">
