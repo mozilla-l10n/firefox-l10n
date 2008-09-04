@@ -486,12 +486,11 @@
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Nie Spam">
 
-<!--Tooltips-->
+<!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Panel Ponuka">
 <!ENTITY mailToolbar.tooltip "Panel Pošta">
 <!ENTITY locationToolbar.tooltip "Panel s adresou">
 <!ENTITY advancedButton.tooltip "Pokročilé hľadanie v správach">
-<!ENTITY clearButton.tooltip "Vymazať vyhľadávaciu podmienku a zobraziť všetky správy">
 <!ENTITY getMsgButton.tooltip "Prijať nové správy">
 <!ENTITY newMsgButton.tooltip "Napísať novú správu">
 <!ENTITY replyButton.tooltip "Odpovedať iba odosielateľovi">
@@ -569,13 +568,15 @@
 <!ENTITY folderContextMarkMailFolderRead.label "Označiť priečinok ako prečítaný">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "z">
 <!ENTITY folderContextNew.label "Nový podpriečinok…">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextNew.accesskey "v">
 <!ENTITY folderContextSubscribe.label "Prihlásiť k odberu…">
 <!ENTITY folderContextSubscribe.accesskey "P">
 <!ENTITY folderContextSearchMessages.label "Hľadať v správach…">
 <!ENTITY folderContextSearchMessages.accesskey "H">
 <!ENTITY folderContextProperties.label "Vlastnosti…">
 <!ENTITY folderContextProperties.accesskey "l">
+<!ENTITY folderContextSettings.label "Nastavenie…">
+<!ENTITY folderContextSettings.accesskey "N">
 
 <!-- Search Bar -->
 <!-- also used by addressbook -->
@@ -585,9 +586,6 @@
 <!ENTITY SearchNameOrEmail.accesskey "M">
 <!ENTITY advancedButton.label "Rozšírené…">
 <!ENTITY advancedButton.accesskey "R">
-
-<!ENTITY clearButton.label "Vymazať">
-<!ENTITY clearButton.accesskey "V">
 
 <!ENTITY all.label "Všetky">
 <!ENTITY all.accesskey "V">

@@ -522,6 +522,8 @@
 <!ENTITY folderContextProperties.accesskey "l">
 <!ENTITY folderContextFavoriteFolder.label "Priečinok Obľúbené">
 <!ENTITY folderContextFavoriteFolder.accesskey "b">
+<!ENTITY folderContextSettings.label "Nastavenie…">
+<!ENTITY folderContextSettings.accesskey "N">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Meno alebo Email obsahuje:">
