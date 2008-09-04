@@ -37,12 +37,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  pref.validation.title          "Patikra">
-
-<!ENTITY  validation.crl.caption      "Atšauktų liudijimų sąrašai (CRL)">
-<!ENTITY  validation.crl.description "Nebegaliojančių liudijimų sąrašus, esančius kompiuterio duomenų bazėje, galima tvarkyti su sąrašų tvarkytuve.">
-<!ENTITY  validation.managecrls.button      "Tvarkyti sąrašus…">
-<!ENTITY  validation.managecrls.accesskey   "T">
 <!ENTITY  validation.crlmanager.label       "Sąrašų tvarkymas">
 <!ENTITY  validation.crlmanager.description       "Jūsų liudijimų bazėje saugomi šie liudijimų atšaukimo sąrašai (CRL):">
 <!ENTITY  validation.crlname.label          "Vardas">
@@ -73,17 +67,3 @@
 <!ENTITY  crl.autoupdate.fail.cnt.label      "Paskutinių atnaujinimų klaidos: ">
 <!ENTITY  crl.autoupdate.fail.reason.label   "Išsamiau apie paskutinio atnaujinimo klaidas: ">
 <!ENTITY  edit.button      "Nuostatos">
-
-<!ENTITY validation.ocsp.caption      "Būsenos paliudijimo tinklu protokolas (OCSP)">
-<!ENTITY enableOCSP.label             "Tikrinti liudijimų galiojimą OCSP protokolu">
-<!ENTITY enableOCSP.accesskey          "T">
-<!ENTITY certOCSP2.label                          "Tikrinti liudijimus, nurodančius OCSP serverį">
-<!ENTITY certOCSP2.accesskey                      "T">
-<!ENTITY proxyOCSP2.label                         "Visus liudijimus tikrinti naudojantis šiuo OCSP serveriu:">
-<!ENTITY proxyOCSP2.accesskey                     "V">
-<!ENTITY serviceURL.label "Tarnybos URL:">
-<!ENTITY serviceURL.accesskey "U">
-<!ENTITY signingCA.label "Liudijimų įstaiga:">
-<!ENTITY signingCA.accesskey "L">
-<!ENTITY validation.requireOCSP.description       "Nepavykus užmegzti ryšio su OCSP serveriu, laikyti liudijimą negaliojančiu">
-<!ENTITY validation.requireOCSP.accesskey         "N">
