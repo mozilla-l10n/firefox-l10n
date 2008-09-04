@@ -8,5 +8,9 @@
 
 <!ENTITY systemPref.caption         "Systemeinstellungen">
 <!ENTITY systemPrefCheck.label      "Einstellungen des Systems verwenden">
-<!ENTITY systemPrefCheck.accesskey  "S">
+<!ENTITY systemPrefCheck.accesskey  "E">
 <!ENTITY systemPref.desc            "Mit dieser Option übernimmt &brandShortName; Einstellungen vom System. Diese Systemeinstellungen werden statt der &brandShortName;-Einstellungen verwendet.">
+
+<!ENTITY prefCheckDefault.caption   "System-Integration">
+<!ENTITY prefCheckDefaultClient.label "Standardprogramm-Einstellungen beim Start prüfen">
+<!ENTITY prefCheckDefaultClient.accesskey "S">
