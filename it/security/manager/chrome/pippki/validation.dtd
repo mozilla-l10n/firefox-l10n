@@ -35,11 +35,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.validation.title "Verifica">
-<!ENTITY validation.crl.caption "CRL">
-<!ENTITY validation.crl.description "Gestione CRL permette di tenere traccia delle Liste di Revoca dei Certificati (CRL) riguardanti i certificati memorizzarti nell'archivio.">
-<!ENTITY validation.managecrls.button "Gestione CRL…">
-<!ENTITY validation.managecrls.accesskey "G">
 <!ENTITY validation.crlmanager.label "Gestione CRL">
 <!ENTITY validation.crlmanager.description "Questi elenchi di revoca dei certificati (CRL) sono memorizzati nel database dei certificati:">
 <!ENTITY validation.crlname.label "Nome">
@@ -61,24 +56,11 @@
 <!ENTITY validation.crl.autoupdate.freq.label2 "Giorni">
 <!ENTITY validation.crl.autoupdate.url.label "CRL importabile da:">
 <!ENTITY crl.import.status.title "Stato importazione CRL">
-<!ENTITY crl.import.success.message "La lista di revoca dei certificati (CRL) è stata correttamente importata.">
+<!ENTITY crl.import.success.message "La lista di revoca dei certificati (CRL) è stata importata correttamente.">
 <!ENTITY crl.issuer.label "CRL rilasciata da:">
 <!ENTITY crl.issuer.org.label "Organizzazione: ">
 <!ENTITY crl.issuer.orgunit.label "Unità: ">
 <!ENTITY crl.import.nextupdate.label "Prossimo aggiornamento: ">
-<!ENTITY crl.autoupdate.fail.cnt.label "Fallimenti precedenti consecutivi di aggiornamento: ">
-<!ENTITY crl.autoupdate.fail.reason.label "Dettagli ultimo fallimento aggiornamento: ">
+<!ENTITY crl.autoupdate.fail.cnt.label "Tentativi consecutivi di aggiornamento falliti in precedenza: ">
+<!ENTITY crl.autoupdate.fail.reason.label "Dettagli ultimo tentativo fallito di aggiornamento: ">
 <!ENTITY edit.button "Impostazioni">
-<!ENTITY validation.ocsp.caption "OCSP">
-<!ENTITY enableOCSP.label "Utilizza il Protocollo per lo Stato dei Certificati Online (OCSP) per confermare la validità dei certificati. ">
-<!ENTITY enableOCSP.accesskey "U">
-<!ENTITY certOCSP2.label "Verifica un certificato nel caso in cui specifichi un server OSCP">
-<!ENTITY certOCSP2.accesskey "V">
-<!ENTITY proxyOCSP2.label "Verifica tutti i certificati utilizzando il seguente server OCSP:">
-<!ENTITY proxyOCSP2.accesskey "t">
-<!ENTITY serviceURL.label "Indirizzo server:">
-<!ENTITY serviceURL.accesskey "s">
-<!ENTITY signingCA.label "Firmatario risposta:">
-<!ENTITY signingCA.accesskey "r">
-<!ENTITY validation.requireOCSP.description "Quando la connessione al server OCSP fallisce, considera il certificato come non valido.">
-<!ENTITY validation.requireOCSP.accesskey "W">
