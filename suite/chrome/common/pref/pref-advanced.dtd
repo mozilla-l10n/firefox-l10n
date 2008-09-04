@@ -12,3 +12,6 @@
 <!ENTITY systemPrefCheck.accesskey  "u">
 <!ENTITY systemPref.desc            "Po označení tejto možnosti &brandShortName; preberie nastavenia zo systému. Systémové nastavenia sú nadradené nad nastaveniami aplikácie &brandShortName;.">
 
+<!ENTITY prefCheckDefault.caption   "Integrácia do systému">
+<!ENTITY prefCheckDefaultClient.label "Pri štarte kontrolovať nastavenia predvolenej aplikácie">
+<!ENTITY prefCheckDefaultClient.accesskey "k">
