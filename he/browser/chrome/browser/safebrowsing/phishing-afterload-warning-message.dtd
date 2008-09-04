@@ -13,7 +13,7 @@
 <!ENTITY safeb.palm.decline.statustext "סגור הזהרה">
 <!ENTITY safeb.palm.notforgery.label2 "דף זה אינו הונאת רשת…">
 <!ENTITY safeb.palm.report.label "למה אתר זה נחסם?">
-<!ENTITY safeb.urlbaricon.tooltip "דף זה עשוי להיות מסוכן; לחץ למידע נוסף.">
+<!-- ### ENTITY safeb.urlbaricon.tooltip "דף זה עשוי להיות מסוכן; לחץ למידע נוסף." -->
 
 
 <!ENTITY safeb.blocked.malware.title "אתר תקיפה מדווח!">

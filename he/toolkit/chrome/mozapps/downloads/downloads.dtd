@@ -40,6 +40,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "הסרת ההורדות שהסתיימו, בוטלו או נכשלו מהרשימה">
 <!ENTITY cmd.clearList.accesskey          "מ">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "סגור כאשר מסתיימת ההורדה">
 <!ENTITY closeWhenDone.tooltip            "סגירת חלון ההורדות כאשר מסתיימת הורדת כל הקבצים">

@@ -5,7 +5,12 @@
 <!ENTITY checking.label "&brandShortName; בודק כעת אם קיימים עדכונים...">
 <!ENTITY cancel.label "ביטול">
 <!ENTITY cancel.accesskey "ב">
-<!ENTITY noupdatesfound.intro "אין עדכונים חדשים זמינים. &brandShortName; יכול לבדוק מדי פעם אם ישנם עדכונים חדשים.">
+<!-- ### ENTITY noupdatesfound.intro "אין עדכונים חדשים זמינים. &brandShortName; יכול לבדוק מדי פעם אם ישנם עדכונים חדשים." -->
+
+<!ENTITY  noupdatesautoenabled.intro "אין עדכונים זמינים. &brandShortName; יבדוק מידי פעם אם ישנם עדכונים חדשים.">
+
+<!ENTITY  noupdatesautodisabled.intro     "אין עדכונים זמינים. בבקשה נסה שוב מאוחר יותר או אפשר את העדכונים האוטומטיים של &brandShortName;.">
+
 <!ENTITY clickHere.label "הצג מידע נוסף אודות עדכון זה">
 <!ENTITY incompatible.warning "עדכון זה יגרום לחלק מההרחבות ו/או ערכות הנושא שלך 
                                              להפסיק לעבוד עד שיעודכנו.">

@@ -66,5 +66,8 @@
 <!ENTITY protectedAuth.msg "בבקשה הזדהה לאסימון. צורות ההזדהות תלויות בסוג האסימון שבידך.">
 <!ENTITY protectedAuth.tokenName.label "אסימון:">
 
+<!ENTITY certErrorDlg.title "חיבור מאובטח נכשל">
+<!ENTITY certErrorDlg.info1 "ייתכן וקיימת בעיה בהגדרות השרת או שמישהו מנסה ל### את השרת.">
+<!ENTITY certErrorDlg.info2 "במידה והצלחת להתחבר לשרת זה בהצלחה בעבר, ייתכן ומדובר בשגיאה זמנים ותוכל לנסות שוב במועד מאוחר יותר."> 
 
 <!ENTITY examineCert.label "הצג אישורים">
