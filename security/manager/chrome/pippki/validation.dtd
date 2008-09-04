@@ -35,12 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.validation.title                      "Overovanie platnosti">
-
-<!ENTITY validation.crl.caption                     "CRL">
-<!ENTITY validation.crl.description                 "Na správu CRL (Certificate revocation list) uložených v databáze certifikátov použite Správcu zoznamu zrušených certifikátov (CRL).">
-<!ENTITY validation.managecrls.button               "Správa CRL…">
-<!ENTITY validation.managecrls.accesskey            "S">
 <!ENTITY validation.crlmanager.label                "Správca zoznamu zrušených certifikátov (CRL)">
 <!ENTITY validation.crlmanager.description          "Tieto zoznamy zrušených certifikátov (CRL) sú uložené v databáze certifikátov:">
 <!ENTITY validation.crlname.label                   "Názov">
@@ -71,17 +65,3 @@
 <!ENTITY crl.autoupdate.fail.cnt.label              "Predchádzajúce opakované zlyhania aktualizácie:">
 <!ENTITY crl.autoupdate.fail.reason.label           "Podrobnosti o zlyhaní poslednej aktualizácie:">
 <!ENTITY edit.button                                "Nastavenie">
-
-<!ENTITY validation.ocsp.caption                    "Online overenie stavu certifikátov">
-<!ENTITY enableOCSP.label                         "Použiť Online overenie stavu certifikátov (OCSP) na potvrdenie platnosti certifikátov">
-<!ENTITY enableOCSP.accesskey                     "u">
-<!ENTITY certOCSP2.label                          "Overiť certifikát, ak určuje server OCSP">
-<!ENTITY certOCSP2.accesskey   "v">
-<!ENTITY proxyOCSP2.label                         "Overiť všetky certifikáty pomocou nasledujúceho servera OCSP:">
-<!ENTITY proxyOCSP2.accesskey  "r">
-<!ENTITY serviceURL.label     "Adresa URL služby:">
-<!ENTITY serviceURL.accesskey "U">
-<!ENTITY signingCA.label      "Podpis vydavateľa">
-<!ENTITY signingCA.accesskey  "P">
-<!ENTITY validation.requireOCSP.description       "Ak pripojenie k serveru OCSP zlyhá, označiť certifikát ako neplatný">
-<!ENTITY validation.requireOCSP.accesskey         "k">
