@@ -46,8 +46,8 @@
 <!ENTITY deleteByAgeFromServer.label "For at most">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "days">
-<!ENTITY deleteOnServer.label "Until I delete or move them from Inbox">
-<!ENTITY deleteOnServer.accesskey "d">
+<!ENTITY deleteOnServer2.label "Until I delete them">
+<!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Automatically download new messages">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY hostname.label "Server Hostname">
@@ -55,20 +55,22 @@
 <!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
 <!ENTITY popServerTitle.label "POP Server Information">
 <!ENTITY deleteMessagePrefix.label "When I delete a message:">
-<!ENTITY deleteMessagePrefix.accesskey "W">
-<!ENTITY modelMoveToTrash.label "Move it to the Deleted folder">
-<!ENTITY modelMarkDeleted.label "Mark it as deleted">
+<!ENTITY modelMoveToTrash.label "Move it to this folder:">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Just mark it as deleted">
+<!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.label "Remove it immediately">
+<!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Clean up (&quot;Expunge&quot;) Inbox on Exit">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Empty Deleted folder on Exit">
 <!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "Check for new messages at startup"> 
+<!ENTITY loginAtStartup.label "Check for new messages at startup">
 <!ENTITY loginAtStartup.accesskey "C">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
-    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+     of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Ask me before downloading more than">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -77,18 +79,16 @@
 <!ENTITY alwaysAuthenticate.label "Always request authentication when connecting to this server">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY newsrcFilePath.accesskey "f">
 <!ENTITY localPath.label "Local directory:">
-<!ENTITY localPath.accesskey "L">
 <!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
 <!ENTITY abbreviateOn.label "Full names (For example, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Advanced...">
-<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
+<!ENTITY advancedButton.label "Advanced…">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
 <!ENTITY localFolderPicker.label "Select Local Directory">
-<!ENTITY browseFolder.label "Browse...">
+<!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Select newsrc File">
-<!ENTITY browseNewsrc.label "Browse...">
+<!ENTITY browseNewsrc.label "Browse…">
 <!ENTITY browseNewsrc.accesskey "e">

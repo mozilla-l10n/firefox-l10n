@@ -1,5 +1,4 @@
-<!ENTITY server.label "Account: ">
-<!ENTITY server.accesskey "A">
+
 <!ENTITY virtualFolderListTitle.title        "Select Folder(s)">
 <!ENTITY virtualFolderDesc.label       "Select the folders to search:">
 

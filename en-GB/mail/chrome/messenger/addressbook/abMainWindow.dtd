@@ -5,35 +5,34 @@
 <!ENTITY fileMenu.accesskey                             "f">
 <!ENTITY newMenu.label                                  "New">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "Address Book Card...">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newCard.label                                  "Address Book Card…">
 <!ENTITY newCard.accesskey                              "C">
 <!ENTITY newCard.key                                    "N">
-<!ENTITY newListCmd.label                               "Mailing List...">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newListCmd.label                               "Mailing List…">
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Address Book...">
+<!ENTITY newAddressBookCmd.label                        "Address Book…">
 <!ENTITY newAddressBookCmd.accesskey                    "B">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP Directory...">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP Directory…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Message">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "m">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
+<!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Close">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "Page Setup...">
+<!ENTITY printSetupCmd.label                            "Page Setup…">
 <!ENTITY printSetupCmd.accesskey                        "u">
 <!ENTITY printPreviewCardViewCmd.label                  "Print Preview Card">
 <!ENTITY printPreviewCardViewCmd.accesskey              "v">
 <!ENTITY printPreviewAddressBook.label                  "Print Preview Address Book">
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printCardViewCmd.label                         "Print Card...">
+<!ENTITY printCardViewCmd.label                         "Print Card…">
 <!ENTITY printCardViewCmd.accesskey                     "p">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
 <!ENTITY printCardViewCmd.key                           "P">
-<!ENTITY printAddressBook.label                         "Print Address Book...">
+<!ENTITY printAddressBook.label                         "Print Address Book…">
 <!ENTITY printAddressBook.accesskey                     "A">
 
 <!ENTITY quitApplicationCmdWin.label                    "Exit"> 
@@ -65,7 +64,10 @@
 <!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "Delete Address Book">
 <!ENTITY deleteCardCmd.label                            "Delete Card">
-<!ENTITY deleteCardsCmd.label                           "Delete Selected Cards">
+<!ENTITY deleteCardsCmd2.label                          "Delete Cards">
+<!ENTITY deleteListCmd.label                            "Delete List">
+<!ENTITY deleteListsCmd.label                           "Delete Lists">
+<!ENTITY deleteItemsCmd.label                           "Delete Items">
 <!ENTITY selectAllCmd.label                             "Select All">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -75,8 +77,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "Properties...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY propertiesCmd.label                            "Properties…">
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -87,11 +88,9 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
 <!ENTITY showAbToolbarCmd.label                         "Address Book Toolbar">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
-<!ENTITY showSearchToolbarCmd.label                     "Search Bar">
-<!ENTITY showSearchToolbarCmd.accesskey                 "e">
 <!ENTITY showTaskbarCmd.label                           "Status Bar">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
-<!ENTITY customizeToolbar.label                         "Customise...">
+<!ENTITY customizeToolbar.label                         "Customise…">
 <!ENTITY customizeToolbar.accesskey                     "C">
 <!ENTITY showCardPane.label                             "Card Summary Pane">
 <!ENTITY showCardPane.accesskey                         "C">
@@ -112,28 +111,17 @@
 <!ENTITY messengerCmd.label                             "Mail &amp; Newsgroups">
 <!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Search Addresses...">
+<!ENTITY searchAddressesCmd.label                       "Search Addresses…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
-<!ENTITY importCmd.label                                "Import...">
+<!ENTITY importCmd.label                                "Import…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Export...">
+<!ENTITY exportCmd.label                                "Export…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Options...">
+<!ENTITY preferencesCmd.label                           "Options…">
 <!ENTITY preferencesCmd.key                             "O">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferences">
-<!ENTITY preferencesCmdUnix.accesskey                   "n"> 
-
-<!-- Help Menu -->
-<!ENTITY helpMenu.label                                 "Help">
-<!ENTITY helpMenu.accesskey                             "H">
-<!ENTITY releaseCmd.label                               "Release Notes">
-<!ENTITY releaseCmd.accesskey                           "R">
-<!ENTITY hintsAndTips.label                             "&brandShortName; Help">
-<!ENTITY hintsAndTips.accesskey                         "h">
-<!ENTITY hintsAndTipsMac.commandkey                     "?">
-<!ENTITY aboutCmd.label                                 "About &brandShortName;">
-<!ENTITY aboutCmd.accesskey                             "A">
+<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newcardButton.label                            "New Card">
@@ -157,7 +145,6 @@
 <!ENTITY newmsgButton.tooltip                           "Send a mail message">
 <!ENTITY newIM.tooltip                                  "Send an instant message or chat">
 <!ENTITY deleteButton.tooltip                           "Delete selected card or address book">
-<!ENTITY throbber.tooltip                               "Go to the &vendorShortName; home page">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Address Books">
@@ -165,13 +152,9 @@
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Name or Email">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY clearButton.label                              "Clear">
-<!ENTITY clearButton.accesskey                          "C">
-<!ENTITY clearButton.tooltip                            "Clear the search criteria and show all entries">
-<!ENTITY advancedButton.label                           "Advanced...">
-<!ENTITY advancedButton.accesskey                       "A">
 <!ENTITY advancedButton.tooltip                         "Advanced address search">
 <!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY searchItem.title "Quick Search">
 
 <!-- Results Pane -->
 <!ENTITY GeneratedName.label                            "Name">
@@ -207,18 +190,6 @@
 <!ENTITY _PhoneticName.label                            "Phonetic Name">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
-<!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "Compose Email To">
-<!ENTITY composeEmail.accesskey                         "C">
-<!ENTITY deleteAddrBookCard.label                       "Delete">
-<!ENTITY deleteAddrBookCard.accesskey                   "D">
-<!ENTITY newAddrBookCard.label                          "New Card...">
-<!ENTITY newAddrBookCard.accesskey                      "N">
-<!ENTITY newAddrBookMailingList.label                   "New Mailing List...">
-<!ENTITY newAddrBookMailingList.accesskey               "M">
-<!ENTITY addrBookCardProperties.label                   "Properties">
-<!ENTITY addrBookCardProperties.accesskey               "P">
-
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Contact">
@@ -238,7 +209,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Window">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimise">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Bring All to Front">
 <!ENTITY zoomWindow.label "Zoom">

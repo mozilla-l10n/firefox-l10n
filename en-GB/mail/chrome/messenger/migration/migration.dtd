@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title          "Import Wizard">
 
-<!ENTITY importFrom.label               "Import Options, Account Settings, Addressbook and other data from:">
-<!ENTITY importFromUnix.label           "Import Preferences, Account Settings, Addressbook and other data from:">
+<!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters and other data from:">
 
 <!ENTITY importFromNothing.label        "Don't import anything">
 <!ENTITY importFromNothing.accesskey    "D">
@@ -17,12 +17,12 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Import Settings and Mail Folders From">
+<!ENTITY importSource.title             "Import Settings and Mail Folders">
 <!ENTITY importItems.title              "Items to Import">
 <!ENTITY importItems.label              "Select which items to import:">
 
-<!ENTITY migrating.title                "Importing...">
-<!ENTITY migrating.label                "The following items are currently being imported...">
+<!ENTITY migrating.title                "Importing…">
+<!ENTITY migrating.label                "The following items are currently being imported…">
 
 <!ENTITY selectProfile.title            "Select Profile">
 <!ENTITY selectProfile.label            "The following profiles are available to import from:">

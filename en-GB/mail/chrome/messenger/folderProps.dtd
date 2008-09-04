@@ -45,6 +45,9 @@
 <!ENTITY folderCharsetTab.accesskey              "E">
 <!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
+<!ENTITY folderRebuildSummaryFile.label          "Rebuild Index">
+<!ENTITY folderRebuildSummaryFile.accesskey      "R">
+<!ENTITY folderRebuildSummaryFileTip.label       "Rebuild Summary File"> 
 
 <!ENTITY retention.label "Retention Policy">
 <!ENTITY retentionUseDefault.label  "Use server defaults">
@@ -53,8 +56,8 @@
 <!ENTITY daysOld.label "days old">
 <!ENTITY message.label "messages">
 <!ENTITY retentionCleanup.label "To recover disc space, old messages can be permanently deleted">
-<!ENTITY retentionKeepMsg.label "Delete messages more than">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Don't delete any messages">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "Delete all but the last">
@@ -80,10 +83,12 @@
 <!ENTITY folderProps.information.label           "Information:">
 <!ENTITY folderProps.name.label                  "Name:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Location:">
+<!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Sharing">
 <!ENTITY privilegesDesc.label                    "Share this and other folders with network users and display and set access privileges">
-<!ENTITY privileges.button.label                 "Privileges...">
+<!ENTITY privileges.button.label                 "Privileges…">
 <!ENTITY privileges.button.accesskey             "P">
 <!ENTITY permissionsDesc.label                   "You have the following permissions:">
 <!ENTITY folderType.label                        "Folder Type:">
