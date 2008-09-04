@@ -423,6 +423,10 @@
 <!ENTITY filtersCmd.accesskey "S">
 <!ENTITY filtersApply.label "Rith Scagairí ar an Fhillteán">
 <!ENTITY filtersApply.accesskey "R">
+<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
+<!ENTITY filtersApplyToSelection.accesskey "S">
+<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton.label "Faigh R-phost">
@@ -519,6 +523,8 @@
 <!ENTITY folderContextProperties.accesskey "A">
 <!ENTITY folderContextFavoriteFolder.label "Mo Rogha Fillteán">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings.label "Socruithe…">
+<!ENTITY folderContextSettings.accesskey "e">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Ainm nó Seoladh Ríomhphoist ina bhfuil:">
@@ -630,6 +636,10 @@
 
 <!ENTITY AddToAddressBook.label "Cuir leis an Leabhar Seoltaí…">
 <!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY EditContact.label "Edit Contact…">
+<!ENTITY EditContact.accesskey "E">
+<!ENTITY ViewContact.label "View Contact">
+<!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Cum Ríomhphost Chuig">
 <!ENTITY SendMailTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Cóipeáil an Seoladh Ríomhphoist">

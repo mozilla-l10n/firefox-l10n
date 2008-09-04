@@ -20,6 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -    Karsten Düsterloh <mnyromy@tprac.de>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -38,10 +39,15 @@
 
 <!ENTITY bindingContent.label "Ábhar">
 <!ENTITY bindingMethods.label "Modhanna">
+<!ENTITY bindingMethodName.label "Ainm an Mhodha">
 <!ENTITY bindingProperties.label "Airíonna">
 <!ENTITY bindingGetter.label "Faighteoir">
 <!ENTITY bindingSetter.label "Socraitheoir">
 <!ENTITY bindingProperty.label "Airí">
 <!ENTITY bindingHandlers.label "Láimhseálaithe">
+<!ENTITY bindingHandlerEvent.label "Teagmhas">
+<!ENTITY bindingHandlerPhase.label "Pas">
 <!ENTITY bindingResources.label "Acmhainní">
+<!ENTITY bindingResourceType.label "Cineál">
+<!ENTITY bindingResourceSrc.label "Foinse">
 <!ENTITY bindingSourceCode.label "Cód Foinseach">

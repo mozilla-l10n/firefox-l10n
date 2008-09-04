@@ -12,7 +12,11 @@
 <!ENTITY highPriorityCmd.label "Ard">
 <!ENTITY highestPriorityCmd.label "Is Airde">
 
-<!ENTITY conditionDesc.label "Le haghaidh teachtaireachtaí isteach:">
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextBoth.label "Checking Mail or Manually Run">
 <!ENTITY filterActionDesc.label "Déan na gníomhartha seo:">
 <!ENTITY filterActionDesc.accesskey "G">
 

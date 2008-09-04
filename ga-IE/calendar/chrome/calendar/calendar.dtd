@@ -101,7 +101,7 @@
 <!ENTITY calendar.unifinder.tree.location.label "Suíomh">
 <!ENTITY calendar.unifinder.tree.status.label "Stádas">
 <!ENTITY calendar.unifinder.tree.calendarname.label "Ainm an Fhéilire">
-<!ENTITY calendar.unifinder.tree.duration.label "Due in">
+<!ENTITY calendar.unifinder.tree.duration.label "Dlite i gceann">
 <!ENTITY calendar.unifinder.close.tooltip "Dún cuardach na n-imeachtaí agus liosta na n-imeachtaí">
 <!ENTITY calendar.find.key "F">
 
@@ -196,7 +196,7 @@
 <!ENTITY calendar.task.filter.overdue.accesskey "D">
 <!ENTITY calendar.task.filter.completed.label "Tascanna Críochnaithe">
 <!ENTITY calendar.task.filter.completed.accesskey "C">
-<!ENTITY calendar.task.filter.open.label "Incomplete Tasks">
+<!ENTITY calendar.task.filter.open.label "Tascanna Neamhiomlána">
 <!ENTITY calendar.task.filter.open.accesskey "m">
 
 <!ENTITY calendar.task.details.title.label "Teideal:">

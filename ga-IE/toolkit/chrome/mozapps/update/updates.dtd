@@ -11,7 +11,7 @@
 
 <!ENTITY noupdatesfound.title "Ní bhfuarthas nuashonruithe">
 <!ENTITY noupdatesautoenabled.intro "Níl nuashonrú ar bith le fáil. Seiceálfaidh &brandShortName; ó am go chéile an bhfuil nuashonruithe nua ann.">
-<!ENTITY noupdatesautodisabled.intro "There are no updates available. Please check again later or enable &brandShortName;'s automatic update checking.">
+<!ENTITY noupdatesautodisabled.intro "Níl nuashonruithe ar fáil. Lorg arís iad níos déanaí, nó cumasaigh seiceáil nuashonruithe uathoibríoch &brandShortName;.">
 
 <!ENTITY incompatibleChecking.label "Ag seiceáil an mbeidh fadhbanna le do chuid eisínteachtaí agus/nó téamaí de dheasca an nuashonraithe seo…">
 <!ENTITY clickHere.label "Tuilleadh eolais faoin nuashonrú seo">

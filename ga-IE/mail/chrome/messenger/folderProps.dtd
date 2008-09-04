@@ -56,8 +56,8 @@
 <!ENTITY daysOld.label "lá d'aois">
 <!ENTITY message.label "teachtaireacht is déanaí">
 <!ENTITY retentionCleanup.label "Chun spás diosca a fháil, is féidir seanteachtaireachtaí a scriosadh go buan">
-<!ENTITY retentionKeepMsg.label "Scrios teachtaireachtaí níos sine ná">
-<!ENTITY retentionKeepMsg.accesskey "s">
+<!ENTITY retentionDeleteMsg.label "Scrios teachtaireachtaí níos sine ná">
+<!ENTITY retentionDeleteMsg.accesskey "s">
 <!ENTITY retentionKeepAll.label "Ná scrios teachtaireacht ar bith">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "Scrios gach rud ach na ">

@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey "g">
 <!ENTITY downloadDictionaries.label "Íosluchtaigh Tuilleadh Foclóirí">
 
-<!ENTITY useMIME.label 'Úsáid an t-ionchódú MIME "quoted printable" le haghaidh teachtaireachtaí ina bhfuil carachtair 8 ngiotán'>
-<!ENTITY useMIME.accesskey "o">
 <!ENTITY warnOnSendAccelKey.label "Deimhnigh agus aicearra méarchláir á úsáid chun teachtaireacht a sheoladh">
 <!ENTITY warnOnSendAccelKey.accesskey "i">
 <!ENTITY autoSave.label "Sábháil go huathoibríoch gach">
