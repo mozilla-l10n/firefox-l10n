@@ -59,13 +59,13 @@
 <!ENTITY aboutCmd.accesskey "S">
 <!ENTITY aboutCommPluginsCmd.label "Sobre os plugins">
 <!ENTITY aboutCommPluginsCmd.accesskey "l">
-<!ENTITY direct.label "Online (sem proxy)">
+<!ENTITY direct.label "Conectado (sem proxy)">
 <!ENTITY direct.accesskey "S">
-<!ENTITY manual.label "Online (configuração manual de proxy)">
+<!ENTITY manual.label "Conectado (configuração manual de proxy)">
 <!ENTITY manual.accesskey "M">
 <!ENTITY pac.label "Conectado (servidor proxy automático)">
 <!ENTITY pac.accesskey "A">
-<!ENTITY wpad.label "Online (Proxy: detectar automaticamente)">
+<!ENTITY wpad.label "Conectado (Proxy: detectar automaticamente)">
 <!ENTITY wpad.accesskey "D">
 <!ENTITY proxy.label "Configurações de proxy...">
 <!ENTITY proxy.accesskey "C">

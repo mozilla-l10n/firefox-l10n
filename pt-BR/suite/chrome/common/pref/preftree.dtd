@@ -12,7 +12,7 @@
 <!ENTITY compose.label "Composer">
 <!ENTITY editing.label "Nova página">
 <!ENTITY publish.label "Publicar">
-<!ENTITY offline.label "Offline">
+<!ENTITY offline.label "Modo desconectado">
 <!ENTITY security.label "Privacidade &amp; Segurança">
 <!ENTITY advance.label "Avançado">
 <!ENTITY down.label "Download">

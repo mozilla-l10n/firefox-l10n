@@ -1,8 +1,8 @@
 <!-- Override app-specific error messages for SeaMonkey -->
 
-<!ENTITY securityOverride.linkText "Or you can add an exception...">
-<!ENTITY securityOverride.getMeOutOfHereButton "This sounds bad, take me to my home page instead">
-<!ENTITY securityOverride.exceptionButtonLabel "Add Exception">
+<!ENTITY securityOverride.linkText "Ou você pode adicionar uma exceção...">
+<!ENTITY securityOverride.getMeOutOfHereButton "Isso parece estranho, me leve para minha página inicial">
+<!ENTITY securityOverride.exceptionButtonLabel "Tenho certeza, desejo adicionar uma exceção">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -10,13 +10,8 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to SeaMonkey. -->
 
 <!ENTITY securityOverride.warningText "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely, or if you are not used to seeing a warning for this server.</p>
+<p>Você não deve adicionar uma exceção caso esteja usando uma conexão a qual não confie plenamente ou se não está acostumado a receber este aviso deste servidor.</p>
 
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
 <xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
 ">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to SeaMonkey. -->
