@@ -1,4 +1,4 @@
-<!ENTITY updateWizard.title "&brandShortName; унапређења">
+<!ENTITY updateWizard.title "Доградње за програм &brandShortName;">
 
 <!ENTITY offline.title "Програм &brandShortName; ради ван мреже">
 <!ENTITY offline.description "Програм &brandShortName; мора да се повеже са мрежом како би проверио да ли постоје доградње за ваше додатке, како би биле у складу са овим издањем програма.">
@@ -43,7 +43,7 @@
 <!ENTITY installerrors.intro.label "Програм &brandShortName; је наишао на проблеме при доградњи неких од Ваших додатака.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY clickFinish.label "Кликните на „Завршетак“ како бисте наставили покретање програма &brandShortName;.">
+<!ENTITY clickFinish.label "Кликните на „Крај“ како бисте наставили покретање програма &brandShortName;.">
 <!ENTITY clickFinish.labelMac "Притисните „Готово‟ да бисте наставили са покретањем програма &brandShortName;.">
 <!ENTITY enableChecking.label "Дозволи програму &brandShortName; да проверава доградње.">
 <!ENTITY details.label "Детаљи…">
