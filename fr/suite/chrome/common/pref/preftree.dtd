@@ -11,7 +11,7 @@
 <!ENTITY bidi.label "Options Bidi">
 <!ENTITY languages.label "Langues">
 <!ENTITY applications.label "Applications">
-<!ENTITY locationBar.label       "Barre d'adresse">
+<!ENTITY locationBar.label "Barre d'adresse">
 <!ENTITY tabWindows.label "Onglets">
 <!ENTITY compose.label "Éditeur">
 <!ENTITY editing.label "Modification">
@@ -22,7 +22,6 @@
 <!ENTITY images.label "Images">
 <!ENTITY popups.label "Fenêtres popup">
 <!ENTITY masterpass.label "Mots de passe principaux">
-<!ENTITY security.label "Confidentialité et sécurité">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificats">
 <!ENTITY validation.label "Validation">
