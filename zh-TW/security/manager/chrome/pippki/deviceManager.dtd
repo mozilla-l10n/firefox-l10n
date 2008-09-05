@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "裝置管理員">
+<!ENTITY devmgr.title                           "裝置管理員">
 
-<!ENTITY devmgr.devlist.label "安全模組與裝置">
-<!ENTITY devmgr.details.title "細節">
-<!ENTITY devmgr.details.title2 "內含值">
-<!ENTITY devmgr.status.label "狀態">
-<!ENTITY devmgr.version.label "版本">
+<!ENTITY devmgr.devlist.label                   "安全模組與裝置">
+<!ENTITY devmgr.details.title                   "細節">
+<!ENTITY devmgr.details.title2                  "內含值">
+<!ENTITY devmgr.status.label                    "狀態">
+<!ENTITY devmgr.version.label                   "版本">
 
-<!ENTITY devmgr.button.changeslotname.label "變更 Slot 名稱">
+<!ENTITY devmgr.button.changeslotname.label     "變更 Slot 名稱">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label "登入">
-<!ENTITY devmgr.button.login.accesskey "n">
-<!ENTITY devmgr.button.logout.label "登出">
-<!ENTITY devmgr.button.logout.accesskey "O">
-<!ENTITY devmgr.button.changepw.label "變更密碼">
-<!ENTITY devmgr.button.changepw.accesskey "P">
-<!ENTITY devmgr.button.load.label "載入">
-<!ENTITY devmgr.button.load.accesskey "L">
-<!ENTITY devmgr.button.unload.label "卸載">
-<!ENTITY devmgr.button.unload.accesskey "U">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.login.label              "登入">
+<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.logout.label             "登出">
+<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.changepw.label           "變更密碼">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.load.label               "載入">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "卸載">
+<!ENTITY devmgr.button.unload.accesskey         "U">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info "輸入要新增的模組資訊。">
-<!ENTITY loaddevice.modname "模組名稱:">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "新增 PKCS#11 模組">
-<!ENTITY loaddevice.filename "模組檔名:">
-<!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "瀏覽…">
-<!ENTITY loaddevice.browse.accesskey "B">
+<!ENTITY loaddevice.info                        "輸入要新增的模組資訊。">
+<!ENTITY loaddevice.modname                     "模組名稱:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "新增 PKCS#11 模組">
+<!ENTITY loaddevice.filename                    "模組檔名:">
+<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.browse                      "瀏覽…">
+<!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title "載入 PKCS#11 模組">
+<!ENTITY loaddevice.title                       "載入 PKCS#11 模組">
