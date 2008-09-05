@@ -53,3 +53,5 @@
 <!ENTITY folderQuotaStatus.label "Status:">
 <!ENTITY folderProps.location.accesskey          "E">
 <!ENTITY folderProps.location.label              "Endereço:">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.label "Delete messages more than">
