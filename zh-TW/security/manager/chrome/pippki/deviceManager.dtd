@@ -48,7 +48,7 @@
 <!ENTITY devmgr.button.login.label              "登入">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "登出">
-<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.logout.accesskey         "o">
 <!ENTITY devmgr.button.changepw.label           "變更密碼">
 <!ENTITY devmgr.button.changepw.accesskey       "P">
 <!ENTITY devmgr.button.load.label               "載入">

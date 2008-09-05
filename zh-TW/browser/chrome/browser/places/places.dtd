@@ -110,11 +110,11 @@
 <!ENTITY cmd.groupby_site.label      "依網站分組">
 <!ENTITY cmd.groupby_site.accesskey  "S">
 <!ENTITY cmd.groupby_page.label      "依頁面分組">
-<!ENTITY cmd.groupby_page.accesskey  "P">
+<!ENTITY cmd.groupby_page.accesskey  "p">
 <!ENTITY cmd.groupby_feed.label      "依訂閱分組">
 <!ENTITY cmd.groupby_feed.accesskey  "S">
 <!ENTITY cmd.groupby_post.label      "依文章分組">
-<!ENTITY cmd.groupby_post.accesskey  "P">
+<!ENTITY cmd.groupby_post.accesskey  "p">
 
 <!ENTITY cmd.moveBookmarks.label                  "移動…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -140,13 +140,13 @@
 <!ENTITY search.scopeAll.label                     "所有書籤">
 <!ENTITY search.scopeAll.accesskey                 "A">
 <!ENTITY search.scopeMenu.label                    "書籤功能表">
-<!ENTITY search.scopeMenu.accesskey                "M">
+<!ENTITY search.scopeMenu.accesskey                "m">
 <!ENTITY search.scopeToolbar.label                 "書籤工具列">
 <!ENTITY search.scopeToolbar.accesskey             "T">
 <!ENTITY search.scopeDownloads.label               "下載項目">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "瀏覽記錄">
-<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY search.scopeBarExpanderDown.tooltip       "顯示搜尋條件建立器">
 <!ENTITY search.scopeBarExpanderUp.tooltip         "隱藏搜尋條件建立器">
 <!ENTITY saveSearch.label                          "儲存">

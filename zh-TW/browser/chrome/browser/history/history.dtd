@@ -21,7 +21,7 @@
 <!ENTITY openInNewTab.label "用新分頁開啟">
 <!ENTITY openInNewTab.accesskey "T">
 <!ENTITY openInNewWindow.label "開啟至新視窗">
-<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY openInNewWindow.accesskey "w">
 <!ENTITY bookmarkLink.label "將此鏈結加入書籤…">
 <!ENTITY bookmarkLink.accesskey "B">
 <!ENTITY copyLink.label "複製鏈結網址">

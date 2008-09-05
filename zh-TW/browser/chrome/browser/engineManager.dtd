@@ -16,7 +16,7 @@
 <!ENTITY  edit.accesskey            "t">
 
 <!ENTITY  addEngine.label           "更多搜尋引擎…">
-<!ENTITY  addEngine.accesskey       "A">
+<!ENTITY  addEngine.accesskey       "a">
 
 <!ENTITY  enableSuggest.label       "顯示搜尋建議">
 <!ENTITY  enableSuggest.accesskey   "S">

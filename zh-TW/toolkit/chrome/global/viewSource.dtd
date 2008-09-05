@@ -11,7 +11,7 @@
 <!ENTITY fileMenu.label "檔案">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "另存新檔…">
-<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "頁面設定…">
 <!ENTITY pageSetupCmd.accesskey "u">
@@ -52,7 +52,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.label "語法變色">
 <!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "文字大小">
-<!ENTITY menu_textSize.accesskey "Z">
+<!ENTITY menu_textSize.accesskey "z">
 <!ENTITY menu_textEnlarge.label "放大">
 <!ENTITY menu_textEnlarge.accesskey "I">
 <!ENTITY menu_textReduce.label "縮小">

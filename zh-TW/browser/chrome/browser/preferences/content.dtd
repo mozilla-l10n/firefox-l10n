@@ -4,7 +4,7 @@
 <!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  loadImages.label            "自動載入圖片">
-<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  loadImages.accesskey        "i">
 <!ENTITY  exceptions.label            "例外網站…">
 <!ENTITY  exceptions.accesskey        "x">
 

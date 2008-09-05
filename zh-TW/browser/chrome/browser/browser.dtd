@@ -27,7 +27,7 @@
 <!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "離線模式">
-<!ENTITY goOfflineCmd.accesskey "w">
+<!ENTITY goOfflineCmd.accesskey "W">
 
 <!ENTITY navbarCmd.label "瀏覽工具列">
 <!ENTITY navbarCmd.accesskey "N">
@@ -208,11 +208,11 @@
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "用新視窗開啟鏈結">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmd.accesskey        "w">
 <!ENTITY openLinkCmdInTab.label       "用新分頁開啟鏈結">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openFrameCmd.label           "用新視窗開啟頁框">
-<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmd.accesskey       "w">
 <!ENTITY openFrameCmdInTab.label      "用新分頁開啟頁框">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY showOnlyThisFrameCmd.label     "只顯示本頁框">
@@ -230,13 +230,13 @@
 <!ENTITY viewFrameSourceCmd.label     "檢視頁框原始碼">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "檢視頁面資訊">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "檢視頁框資訊">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY showImageCmd.label           "顯示圖片">
 <!ENTITY showImageCmd.accesskey       "S">
 <!ENTITY viewImageCmd.label           "檢視圖片">
-<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "檢視背景圖片">
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "設為桌面背景…">
@@ -250,7 +250,7 @@
 <!ENTITY sendPageCmd.label            "郵寄網址…">
 <!ENTITY sendPageCmd.accesskey        "e">
 <!ENTITY savePageCmd.label            "另存新檔…">
-<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -295,7 +295,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "縮小">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.accesskey    "o">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -333,9 +333,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.label "頁面樣式">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "無樣式">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "基本頁面樣式">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "改變此網站開啟彈出 (廣告) 視窗的設定">
 

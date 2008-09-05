@@ -42,11 +42,11 @@
 <!ENTITY  actionQuestion.label        "&brandShortName; 應該如何處理此檔案？">
 
 <!ENTITY  openWith.label              "開啟方式:">
-<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "其它…">
 
 <!ENTITY  saveFile.label              "儲存檔案">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.accesskey          "S">
 
 <!ENTITY  rememberChoice.label        "對此類檔案自動採用此處理方式。">
 <!ENTITY  rememberChoice.accesskey    "a">

@@ -2,7 +2,7 @@
 <!ENTITY copyright              "感謝">
 <!ENTITY copyright.accesskey    "C">
 <!ENTITY aboutLink              "&lt; 關於 &brandFullName;">
-<!ENTITY aboutLink.accesskey    "l">
+<!ENTITY aboutLink.accesskey    "A">
 <!ENTITY aboutVersion           "版本">
 <!ENTITY copyrightInfo          "&#169;1998-2008 Contributors. All Rights Reserved. Firefox and the 
                                  Firefox logos are trademarks of the Mozilla Foundation.  All rights 

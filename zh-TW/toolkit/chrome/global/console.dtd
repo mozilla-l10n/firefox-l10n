@@ -60,9 +60,9 @@
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "排序順序: 先 > 後">
-<!ENTITY sortFirst.accesskey "f">
+<!ENTITY sortFirst.accesskey "F">
 <!ENTITY sortLast.label      "排序順序: 後 > 先">
-<!ENTITY sortLast.accesskey  "l">
+<!ENTITY sortLast.accesskey  "L">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

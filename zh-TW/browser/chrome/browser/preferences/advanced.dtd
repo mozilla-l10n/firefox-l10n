@@ -22,7 +22,7 @@
 
 <!ENTITY systemDefaults.label            "系統預設程式">
 <!ENTITY alwaysCheckDefault.label        "啟動時永遠檢查 &brandShortName; 是否為預設瀏覽器"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "b">
+<!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "立刻檢查">
 <!ENTITY checkNow.accesskey              "N">
 

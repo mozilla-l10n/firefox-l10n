@@ -124,7 +124,7 @@
 <!ENTITY certmgr.restore2.label               "匯入…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "憑證欄位">
-<!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.details.accesskey            "f">
 <!ENTITY certmgr.fields.label                 "欄位值">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "憑證層級">

@@ -42,7 +42,7 @@
 <!ENTITY  privateData.label             "隱私資料">
 
 <!ENTITY  alwaysClear.label              "結束 &brandShortName; 時清除隱私資料">
-<!ENTITY  alwaysClear.accesskey          "b">
+<!ENTITY  alwaysClear.accesskey          "w">
 
 <!ENTITY  askBeforeClear.label           "清除隱私資料時詢問我">
 <!ENTITY  askBeforeClear.accesskey       "A">

@@ -1,15 +1,15 @@
 <!ENTITY cutCmd.label "剪下">
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "複製">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "貼上">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "P">
 <!ENTITY undoCmd.label "復原">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.accesskey "U">
 <!ENTITY selectAllCmd.label "全選">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY deleteCmd.label "刪除">
-<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY deleteCmd.accesskey "D">
 
 <!ENTITY spellAddToDictionary.label "新增到字典">
 <!ENTITY spellAddToDictionary.accesskey "o">
@@ -17,4 +17,4 @@
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(無拼字建議)">
 <!ENTITY spellDictionaries.label "語言">
-<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellDictionaries.accesskey "L">
