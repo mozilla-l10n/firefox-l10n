@@ -23,4 +23,3 @@
 <!ENTITY enablePrefetch.label "Pré-carregar páginas automaticamente se a conexão não estiver sendo utilizada (links que utilizem este recurso carregarão mais rápido)">
 <!ENTITY enablePrefetch.accesskey "C">
 <!ENTITY prefetchDesc.label "Se você marcar este item, &brandShortName; seguirá diretivas especiais das páginas para baixar conteúdo antecipadamente quando o navegador não estiver em uso. Páginas projetadas para utilizar este recurso carregarão mais rápido.">
-<!---->
