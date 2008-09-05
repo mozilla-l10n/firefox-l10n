@@ -10,14 +10,13 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "La mayor">
 <!ENTITY contextDesc.label "Aplicar filtro cuando:">
-<!ENTITY conditionDesc.label "Para mensajes nuevos que cumplan:">
 <!ENTITY contextDesc.accesskey "u">
-<!ENTITY filterActionDesc.label "Realizar estas acciones:">
 <!ENTITY contextIncoming.label "se compruebe el correo">
-<!ENTITY filterActionDesc.accesskey "R">
 <!ENTITY contextManual.label "se ejecute manualmente">
-<!ENTITY newFolderButton.label "Nueva carpeta…">
 <!ENTITY contextBoth.label "se compruebe el correo o se ejecute manualmente">
+<!ENTITY filterActionDesc.label "Realizar estas acciones:">
+<!ENTITY filterActionDesc.accesskey "R">
+<!ENTITY newFolderButton.label "Nueva carpeta…">
 <!ENTITY newFolderButton.accesskey "N">
 <!ENTITY moveMessage.label "Mover mensaje a">
 <!ENTITY copyMessage.label "Copiar mensaje a">

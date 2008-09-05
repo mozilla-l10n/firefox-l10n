@@ -17,6 +17,10 @@
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Imágenes">
 <!ENTITY popups.label "Ventanas emergentes">
+<!ENTITY masterpass.label "Contraseñas maestras">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Certificados">
+<!ENTITY validation.label "Validación">
 <!ENTITY advance.label "Avanzadas">
 <!ENTITY down.label "Descargar">
 <!ENTITY cache.label "Caché">
