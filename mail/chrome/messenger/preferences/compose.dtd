@@ -30,8 +30,6 @@
 <!ENTITY languagePopup.label "Idioma:">
 <!ENTITY languagePopup.accessKey "d">
 <!ENTITY downloadDictionaries.label "Descargar más diccionarios">
-<!ENTITY useMIME.label "Para mensajes que contienen caracteres de 8 bits, usar codificación MIME 'quoted printable'">
-<!ENTITY useMIME.accesskey "P">
 <!ENTITY warnOnSendAccelKey.label "Confirmar al usar el atajo de teclado para envío de mensajes">
 <!ENTITY warnOnSendAccelKey.accesskey "C">
 <!ENTITY autoSave.label "Guardar automáticamente cada">
