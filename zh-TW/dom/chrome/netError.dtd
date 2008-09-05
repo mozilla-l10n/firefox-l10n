@@ -1,7 +1,7 @@
 <!ENTITY loadError.label "頁面載入錯誤">
 <!ENTITY retry.label "重試">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "連線失敗">
 <!ENTITY connectionFailure.longDesc "<p>連線失敗，不過網址似乎是正確的。</p><ul><li>可能是網站暫停服務？ 請稍候重試。</li><li>無法瀏覽其它網站？ 請檢查網路連線。</li><li>電腦有開防火牆或 Proxy？ 請確定這些設定是否正確。</li></ul>">
@@ -65,9 +65,9 @@
 
 <!ENTITY phishingBlocked.title "可能是偽造網站！">
 <!ENTITY phishingBlocked.longDesc "<p>在此網頁上輸入的任何個人資訊可能會導致身分被盜用或遭受其他詐騙行為。</p> <p>這些類型的偽造網頁含有常見的詐騙攻擊特徵，可能是罪犯所製作用來模仿你信任的合法來源之詐騙網頁。</p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly. -->
-
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
