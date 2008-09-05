@@ -14,9 +14,9 @@
 
 <!ENTITY printrangeGroup.label "列印範圍">
 <!ENTITY allpagesRadio.label "所有頁面">
-<!ENTITY rangeRadio.label "頁">
-<!ENTITY frompageInput.label "從">
-<!ENTITY topageInput.label "到">
+<!ENTITY rangeRadio.label  "頁">
+<!ENTITY frompageInput.label  "從">
+<!ENTITY topageInput.label  "到">
 <!ENTITY selectionRadio.label "只印選取範圍">
 
 <!ENTITY copies.label "備份">
@@ -24,5 +24,5 @@
 
 <!ENTITY printframeGroup.label "列印頁框">
 <!ENTITY aslaidoutRadio.label "如螢幕顯示">
-<!ENTITY selectedframeRadio.label "已選取的頁框">
-<!ENTITY eachframesepRadio.label "各頁框獨立列印">
+<!ENTITY selectedframeRadio.label  "已選取的頁框">
+<!ENTITY eachframesepRadio.label  "各頁框獨立列印">

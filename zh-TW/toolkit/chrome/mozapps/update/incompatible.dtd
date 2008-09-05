@@ -1,8 +1,10 @@
 
-<!ENTITY incompatible.title "不相容的項目">
-<!ENTITY incompatible.intro "下列項目無法用於更新後的 &brandShortName; 並會自動停用:">
-<!ENTITY incompatible.update "&brandShortName; 會定期檢查並在相容版本出現時通知你。">
-<!ENTITY incompatible.suffix "&brandShortName; 更新檔包含了重要的安全性更新。 我們強烈建議您馬上更新 &brandShortName; (就算有些擴充套件與佈景主題可能會在更新後失效)，以在瀏覽網路時保持最高的安全性。">
+<!ENTITY  incompatible.title        "不相容的項目">
+<!ENTITY  incompatible.intro        "The following items are not compatible with this update to &brandShortName; and
+                                     will be disabled when it is installed:">
+<!ENTITY  incompatible.update       "&brandShortName; 會定期檢查並在相容版本出現時通知你。">
+<!ENTITY  incompatible.suffix       "&brandShortName; 更新檔包含了重要的安全性更新。 我們強烈建議您馬上更新 &brandShortName; (就算有些擴充套件與佈景主題可能會在更新後失效)，以在瀏覽網路時保持最高的安全性。">
                                      
-<!ENTITY closebutton.label "關閉">
-
+<!ENTITY  closebutton.label         "關閉">
+                                     
+                                     

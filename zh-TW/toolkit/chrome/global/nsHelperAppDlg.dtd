@@ -1,4 +1,5 @@
-<!ENTITY caption.label "開啟中: #1">
+<!ENTITY caption.label         "開啟中: #1">
+
 <!-- Localization note: The default intro text has 3 "inserts":
         #1 - replaced with the descriptive text that describes the mime type
              (e.g., "MSWord Document")
@@ -8,9 +9,8 @@
      If there is no descriptive text, then the alternative text is used which
      has only insert #2.
  -->
-
-<!ENTITY intro.label " #4 不知道要如何開啟型態為 #2 (#1) 的檔案「#3」。檔案位置:">
-<!ENTITY intro.noDesc.label " #4 不知道要如何開啟型態為 #2 的檔案「#3」。檔案位置:">
+<!ENTITY intro.label           " #4 不知道要如何開啟型態為 #2 (#1) 的檔案「#3」。檔案位置:">
+<!ENTITY intro.noDesc.label    " #4 不知道要如何開啟型態為 #2 的檔案「#3」。檔案位置:">
 
 <!ENTITY intro.attachment.label "此網站建議以附加檔案的方式處理「#3」。它的型態是 #2 (#1) ，位置:">
 <!ENTITY intro.attachment.noDesc.label "此網站建議以附加檔案的方式處理「#3」。它的型態是 #2，位置:">
@@ -18,25 +18,25 @@
 <!ENTITY intro.sniffed.label "#4 偵測到檔案「#3」似乎屬於 #2 (#1) 類別。 檔案位置:">
 <!ENTITY intro.sniffed.noDesc.label "#4 偵測到檔案「#3」似乎屬於 #2 類別。 檔案位置:">
 
-<!ENTITY prompt.label "#1 要如何處理這個檔案？">
+<!ENTITY prompt.label          "#1 要如何處理這個檔案？">
 
-<!ENTITY alwaysHandle.label "永遠以這種方式開啟這類檔案">
+<!ENTITY alwaysHandle.label     "永遠以這種方式開啟這類檔案">
 <!ENTITY alwaysHandle.accesskey "A">
 
-<!ENTITY saveToDisk.label "存入磁碟">
-<!ENTITY saveToDisk.accesskey "S">
+<!ENTITY saveToDisk.label      "存入磁碟">
+<!ENTITY saveToDisk.accesskey  "S">
 
-<!ENTITY useSystemDefault.label "使用預設應用程式「#1」開啟">
+<!ENTITY useSystemDefault.label        "使用預設應用程式「#1」開啟">
 <!ENTITY useSystemDefault.noDesc.label "使用預設應用程式開啟">
-<!ENTITY useSystemDefault.accesskey "O">
+<!ENTITY useSystemDefault.accesskey    "O">
 
-<!ENTITY openUsing.label "使用此應用程式開啟:">
-<!ENTITY openUsing.accesskey "w">
+<!ENTITY openUsing.label       "使用此應用程式開啟:">
+<!ENTITY openUsing.accesskey   "w">
 
-<!ENTITY chooseApp.label "選擇…">
-<!ENTITY chooseApp.accesskey "C">
+<!ENTITY chooseApp.label       "選擇…">
+<!ENTITY chooseApp.accesskey   "C">
 
 <!ENTITY chooseAppFilePickerTitle "選擇應用程式">
 
-<!ENTITY badApp "找不到應用程式「#1」。請確定檔名正確或指定另一個程式。">
-<!ENTITY badApp.title "找不到應用程式">
+<!ENTITY badApp                 "找不到應用程式「#1」。請確定檔名正確或指定另一個程式。">
+<!ENTITY badApp.title           "找不到應用程式">
