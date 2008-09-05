@@ -585,6 +585,10 @@
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
 <!ENTITY AddToAddressBook.accesskey "Д">
+<!ENTITY EditContact.label "Изменение контакта…">
+<!ENTITY EditContact.accesskey "м">
+<!ENTITY ViewContact.label "Просмотр контакта">
+<!ENTITY ViewContact.accesskey "с">
 <!ENTITY SendMailTo.label "Составить письмо для">
 <!ENTITY SendMailTo.accesskey "а">
 <!ENTITY CopyEmailAddress.label "Копировать адрес электронной почты">

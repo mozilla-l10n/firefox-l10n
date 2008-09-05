@@ -40,4 +40,4 @@
 <!ENTITY security.label "Приватность и защита">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Сертификаты">
-<!ENTITY validation.label "Подтверждение">
+<!ENTITY validation.label "Настройки OCSP">

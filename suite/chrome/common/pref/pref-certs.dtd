@@ -36,21 +36,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.masterpass.title "Мастер-пароли">
-<!ENTITY managepassword.caption "Временной лимит мастер-пароля">
-<!ENTITY managepassword.text "&brandShortName; будет спрашивать мастер-пароль:">
-<!ENTITY managepassword.askfirsttime "В первый раз, когда он понадобится">
-<!ENTITY managepassword.askfirsttime.accesskey "е">
-<!ENTITY managepassword.askeverytime "Каждый раз, когда он понадобится">
-<!ENTITY managepassword.askeverytime.accesskey "ы">
-<!ENTITY managepassword.asktimeout "Если он не использовался более ">
-<!ENTITY managepassword.asktimeout.accesskey "с">
-<!ENTITY managepassword.timeout.unit "минут">
-<!ENTITY changepassword.caption "Смена мастер-пароля">
-<!ENTITY changepassword.text "Мастер-пароль защищает личную информацию (например, пароли для сайтов, сертификаты).">
-<!ENTITY changepassword.button "Сменить пароль…">
-<!ENTITY changepassword.accesskey "м">
-<!ENTITY resetpassword.caption "Сбросить мастер-пароль">
-<!ENTITY resetpassword.text "При сбросе мастер-пароля, все сохранённые вами почтовые и веб-пароли, данные форм, личные сертификаты и закрытые ключи будут утеряны.">
-<!ENTITY resetpassword.button "Сбросить пароль">
-<!ENTITY resetpassword.accesskey "п">
+<!ENTITY resetsettings.label "Сброс параметров">
+<!ENTITY resetpreferences.label "Сброс настроек…">
+<!ENTITY managecerts.caption "Управление сертификатами">
+<!ENTITY managecerts.text "Используйте менеджер сертификатов для управления личными сертификатами, сертификатами других пользователей и центров сертификации.">
+<!ENTITY managecerts.button "Управление сертификатами…">
+<!ENTITY managecerts.accesskey "р">
+<!ENTITY managedevices.caption "Управление устройствами защиты">
+<!ENTITY managedevices.text "Нажав на эту кнопку, вы сможете управлять вашими устройствами защиты (например, смарт-картами).">
+<!ENTITY managedevices.button "Управление устройствами…">
+<!ENTITY managedevices.accesskey "п">
+<!ENTITY ssl.label "SSL">
+<!ENTITY pref.certs.title "Сертификаты">
+<!ENTITY certs.label "Сертификаты">
