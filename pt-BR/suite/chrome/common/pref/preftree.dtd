@@ -34,3 +34,11 @@
 <!ENTITY images.label "Imagens">
 <!ENTITY locationBar.label "Barra de endereços">
 <!ENTITY popups.label "Janelas popup">
+
+
+<!-- Should be removed soon -->
+
+<!ENTITY  masterpass.label             "Senhas mestra">
+<!ENTITY  ssl.label                    "SSL">
+<!ENTITY  certs.label                  "Certificados">
+<!ENTITY  validation.label             "Validação">

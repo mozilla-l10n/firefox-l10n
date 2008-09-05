@@ -7,6 +7,8 @@
 <!ENTITY asAttachment.accesskey "X">
 <!ENTITY warnOnSendAccelKey.label "Confirmar quando usar um atalho do teclado para enviar mensagens">
 <!ENTITY warnOnSendAccelKey.accesskey "t">
+<!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
+     "xxx minutes", using a number and (autoSaveEnd.label). -->
 <!ENTITY autoSave.label "Salvar a mensagem automaticamente a cada">
 <!ENTITY autoSave.accesskey "m">
 <!ENTITY autoSaveEnd.label "minutos">
@@ -30,5 +32,5 @@
 <!ENTITY fontColor.accesskey "E">
 <!ENTITY bgColor.label "Plano de fundo:">
 <!ENTITY bgColor.accesskey "P">
-<!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
-     "xxx minutes", using a number and (autoSaveEnd.label). -->
+<!ENTITY replyQuoteInline.accesskey           "Q">
+<!ENTITY replyQuoteInline.label               "Quote attachments viewed inline in replies">

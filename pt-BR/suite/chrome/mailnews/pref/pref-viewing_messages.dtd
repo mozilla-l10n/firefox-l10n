@@ -40,3 +40,7 @@
 <!ENTITY markAsReadNoDelay.label          "Imediatamente ao exibir">
 <!ENTITY markAsReadNoDelay.accesskey      "I">
 <!ENTITY secondsLabel.label               "segundos">
+<!ENTITY fontPlainText.accesskey          "F">
+<!ENTITY fontPlainText.label              "Font:">
+<!ENTITY showCondensedAddresses.accesskey "o">
+<!ENTITY showCondensedAddresses.label     "Show only display name for people in my address book">

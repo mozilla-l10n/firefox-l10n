@@ -81,3 +81,5 @@
 <!ENTITY showPopupManager.label       "Gerenciar popups">
 <!ENTITY updateCmd.accesskey                    "B">
 <!ENTITY updateCmd.label                        "Buscar por atualizações…">
+<!ENTITY system.accesskey                               "S">
+<!ENTITY system.label                                   "Online (Proxy: System Proxy)">

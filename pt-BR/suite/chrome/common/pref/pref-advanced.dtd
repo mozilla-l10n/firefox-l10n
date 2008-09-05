@@ -13,3 +13,7 @@
 <!ENTITY systemPrefCheck.label "Usar preferências do sistema">
 <!ENTITY systemPrefCheck.accesskey "s">
 <!ENTITY systemPref.desc "Marque este item para herdar as preferências do sistema. As preferências do sistema sobrescreverão as preferências do &brandShortName;">
+
+<!ENTITY prefCheckDefault.caption   "System Integration">
+<!ENTITY prefCheckDefaultClient.accesskey "C">
+<!ENTITY prefCheckDefaultClient.label "Check default application settings on startup">

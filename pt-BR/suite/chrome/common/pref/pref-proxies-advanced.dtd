@@ -26,3 +26,7 @@
 <!ENTITY SSLport.accesskey "o">
 <!ENTITY FTPport.accesskey "r">
 <!ENTITY SOCKSport.accesskey "t">
+<!ENTITY  FTPPort.accesskey           "r">
+<!ENTITY  HTTPPort.accesskey          "P">
+<!ENTITY  SSLPort.accesskey           "o">
+<!ENTITY  gopherPort.accesskey        "">
