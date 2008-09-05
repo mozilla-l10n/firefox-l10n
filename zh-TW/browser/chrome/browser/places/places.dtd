@@ -37,11 +37,10 @@
 <!ENTITY cmd.findCurrent.label          "在目前書籤集中尋找…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "匯出為 HTML…">
+<!ENTITY cmd.exportHTML.label           "匯出為 HTML 檔案…">
 <!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "匯入為 HTML…">
+<!ENTITY cmd.importHTML.label           "匯入 HTML 檔案…">
 <!ENTITY cmd.importHTML.accesskey       "I">
-
 
 <!ENTITY cmd.backup.label               "備份…">
 <!ENTITY cmd.backup.accesskey           "B">
@@ -74,11 +73,11 @@
 
 <!ENTITY cmd.open.label                  "開啟">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "用新視窗中開啟">
-<!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_tab.label              "用新分頁中開啟">
+<!ENTITY cmd.open_window.label           "在新視窗中開啟">
+<!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_tab.label              "在新分頁中開啟">
 <!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "全部用新分頁開啟">
+<!ENTITY cmd.open_all_in_tabs.label      "全部用分頁開啟">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
 <!ENTITY cmd.properties.label      "屬性">

@@ -1,9 +1,9 @@
-<!ENTITY find.label "尋找:">
-<!ENTITY find.accesskey "S">
-<!ENTITY expand.label "展開">
-<!ENTITY expand.accesskey "E">
-<!ENTITY collapse.label "收起">
-<!ENTITY collapse.accesskey "C">
+<!ENTITY find.label                "尋找:">
+<!ENTITY find.accesskey            "S">
+<!ENTITY expand.label              "展開">
+<!ENTITY expand.accesskey          "E">
+<!ENTITY collapse.label            "收起">
+<!ENTITY collapse.accesskey        "C">
 <!ENTITY byDate.label "依日期">
 <!ENTITY byDate.accesskey "D">
 <!ENTITY bySite.label "依網站">

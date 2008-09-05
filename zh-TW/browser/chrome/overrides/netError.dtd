@@ -13,16 +13,14 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "找不到伺服器">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>請檢查網址是否有打錯？例如把
-    <strong>ww</strong>.example.com 打成
-    <strong>www</strong>.example.com</li>
-  <li>若無法載入任何網站，請檢查你的網路連線狀態。</li>
-  <li>若電腦或網路被防火牆或 Proxy 保護，請確定
-    &brandShortName; 被允許存取網路。</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc "<ul>
+   <li>請檢查網址是否有打錯？例如把
+   <strong>www</strong>.example.com 打成
+   <strong>ww</strong>.example.com</li>
+   <li>若無法載入任何網站，請檢查你的網路連線狀態。</li>
+   <li>若電腦或網路被防火牆或 Proxy 保護，請確定
+   &brandShortName; 被允許存取網路。</li> </ul>
+                    ">
 
 <!ENTITY fileNotFound.title "找不到檔案">
 <!ENTITY fileNotFound.longDesc "
@@ -39,14 +37,13 @@
 ">
 
 <!ENTITY malformedURI.title "不正確的網址">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>網址通常長的像 
-    <strong>http://www.example.com/</strong>。</li>
-  <li>請確定你用的是反斜線 (例: 
-    <strong>/</strong>)。</li>
+<!ENTITY malformedURI.longDesc "<ul>
+   <li>網址通常長的像
+      <strong>http://www.example.com/</strong>。</li>
+   <li>請確定你用的是斜線 (例:
+      <strong>/</strong>)。</li>
 </ul>
-">
+                ">
 
 <!ENTITY netInterrupt.title "資料傳輸中斷">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -146,7 +143,7 @@
 <!ENTITY malwareBlocked.title "可能是有害網站！">
 <!ENTITY malwareBlocked.longDesc "
 <p>有害網站會嘗試安裝能竊取隱私資訊、利用你的電腦攻擊他人或破壞作業系統等的惡意軟體到你的電腦上。</p>
-<p>如果你是網頁擁有者，發現你的網站被誤認為有害網站時可以 <a href='http://www.stopbadware.org/home/reviewinfo' >請求重新審核</a>。</p>
+<p>如果你是網頁擁有者，發現你的網站被誤認為有害網站時可以 <a href=\'http://www.stopbadware.org/home/reviewinfo\' >請求重新審核</a>。</p>
 ">
 
 <!ENTITY phishingBlocked.title "可能是偽造網站！">

@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "請到 &brandShortName; 的偏好設定中的「應用程式」分頁變更設定。">
-<!ENTITY settingsChangeOptions.label "請到 &brandShortName; 的選項中的「應用程式」分頁變更設定。">
+<!ENTITY  settingsChangePreferences.label  "請到 &brandShortName; 的偏好設定中的「應用程式」分頁變更設定。">
+<!ENTITY  settingsChangeOptions.label      "請到 &brandShortName; 的選項中的「應用程式」分頁變更設定。">

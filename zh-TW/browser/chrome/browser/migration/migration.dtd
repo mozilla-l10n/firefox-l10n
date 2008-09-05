@@ -1,52 +1,51 @@
 
-<!ENTITY migrationWizard.title "匯入精靈">
+<!ENTITY migrationWizard.title          "匯入精靈">
 
-<!ENTITY importFrom.label "由下列來源匯入選項、書籤、記錄、密碼等資料:">
-<!ENTITY importFromUnix.label "由下列來源匯入偏好設定、書籤、記錄、密碼等資料:">
-<!ENTITY importFromBookmarks.label "由下列來源匯入書籤:">
+<!ENTITY importFrom.label               "由下列來源匯入選項、書籤、記錄、密碼等資料:">
+<!ENTITY importFromUnix.label           "由下列來源匯入偏好設定、書籤、記錄、密碼等資料:">
+<!ENTITY importFromBookmarks.label      "由下列來源匯入書籤:">
 
-<!ENTITY importFromIE.label "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label " Firefox 0.8、Firebird 或 Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "不要匯入任何東西">
-<!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 或 Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "Safari">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        " Firefox 0.8、Firebird 或 Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "不要匯入任何東西">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 或 Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
 <!ENTITY importFromHTMLFile.label       "HTML 檔案">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 
+<!ENTITY noMigrationSources.label       "找不到包含書籤、瀏覽記錄或密碼等個人資訊的瀏覽程式。">
 
-<!ENTITY noMigrationSources.label "找不到包含書籤、瀏覽記錄或密碼等個人資訊的瀏覽程式。">
+<!ENTITY importSource.title             "匯入設定與個人資料">
+<!ENTITY importItems.title              "要匯入的項目">
+<!ENTITY importItems.label              "選取要匯入的項目:">
 
-<!ENTITY importSource.title "匯入設定與個人資料">
-<!ENTITY importItems.title "要匯入的項目">
-<!ENTITY importItems.label "選取要匯入的項目:">
+<!ENTITY migrating.title                "匯入中…">
+<!ENTITY migrating.label                "正在匯入下列項目…">
 
-<!ENTITY migrating.title "匯入中…">
-<!ENTITY migrating.label "正在匯入下列項目…">
+<!ENTITY selectProfile.title            "選取設定檔 (Profile)">
+<!ENTITY selectProfile.label            "可匯入下列設定檔的內容:">
 
-<!ENTITY selectProfile.title "選取設定檔 (Profile)">
-<!ENTITY selectProfile.label "可匯入下列設定檔的內容:">
-
-<!ENTITY done.title "匯入完成">
-<!ENTITY done.label "下列項目已成功匯入:">
+<!ENTITY done.title                     "匯入完成">
+<!ENTITY done.label                     "下列項目已成功匯入:">
 

@@ -11,11 +11,9 @@
 <!ENTITY safeb.palm.accept.label "帶我離開這裡！">
 <!ENTITY safeb.palm.accept.statustext "瀏覽至我的首頁">
 <!ENTITY safeb.palm.decline.label "忽略此警告">
-<!ENTITY safeb.palm.decline.statustext "關閉警告">
+<!ENTITY safeb.palm.decline.statustext "關閉警告" >
 <!ENTITY safeb.palm.notforgery.label2 "這不是偽造網站…">
 <!ENTITY safeb.palm.report.label "為什麼要封鎖此網站？">
-
-<!ENTITY safeb.urlbaricon.tooltip "這個網頁可能有危險性，按一下以取得詳細資料。">
 
 <!ENTITY safeb.blocked.malware.title "已知的有害網站！">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -26,4 +24,3 @@
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishing.shortDesc "這個在 <span id='phishing_sitename'/> 的網站已被回報是偽造網站，依據你所選擇的安全設定予以阻擋。">
 <!ENTITY safeb.blocked.phishing.longDesc "<p>偽造網站是特別設計成你所信任的網站，用來誘騙使用者透露其個人或財務資訊。</p><p>在這個網站輸入的任何資訊都會導致身分被盜用或遭受其他詐騙行為。</p>">
-
