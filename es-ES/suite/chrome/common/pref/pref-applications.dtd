@@ -5,5 +5,3 @@
 <!ENTITY actionColumn2.accesskey "c">
 <!ENTITY filter.label "Buscar:">
 <!ENTITY filter.accesskey "S">
-<!ENTITY clear.label "Limpiar">
-<!ENTITY clear.accesskey "l">

@@ -68,6 +68,8 @@
 <!ENTITY pac.accesskey "A">
 <!ENTITY wpad.label "Conectado (proxy: descubrimiento automático)">
 <!ENTITY wpad.accesskey "D">
+<!ENTITY system.label "Conectado (Proxy: proxy del sistema)">
+<!ENTITY system.accesskey "S">
 <!ENTITY proxy.label "Configuración proxy…">
 <!ENTITY proxy.accesskey "C">
 <!ENTITY bidiSwitchTextDirectionItem.label "Cambiar dirección del texto">
