@@ -60,8 +60,8 @@
 <!ENTITY daysOld.label                           "dagar">
 <!ENTITY message.label                           "meddelandena">
 <!ENTITY retentionCleanup.label                  "För att spara diskutrymme kan gamla meddelanden tas bort">
-<!ENTITY retentionKeepMsg.label                  "Ta bort meddelanden äldre än">
-<!ENTITY retentionKeepMsg.accesskey              "e">
+<!ENTITY retentionDeleteMsg.label                "Ta bort meddelanden äldre än">
+<!ENTITY retentionDeleteMsg.accesskey            "e">
 <!ENTITY retentionKeepAll.label                  "Ta inte bort några meddelanden">
 <!ENTITY retentionKeepAll.accesskey              "b">
 <!ENTITY retentionKeepNew.label                  "Ta bort alla utom de senaste">
