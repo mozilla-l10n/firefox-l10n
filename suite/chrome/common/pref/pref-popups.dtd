@@ -2,17 +2,22 @@
 <!ENTITY pref.popups.caption "Всплывающие окна">
 <!ENTITY popupDesc.label "Укажите, что следует делать со всплывающими окнами, которые появляются над или под текущим окном браузера:">
 <!ENTITY popupBlock.label "Блокировать всплывающие окна">
-<!ENTITY popupBlock.accesskey "Б">
+<!ENTITY popupBlock.accesskey "л">
 <!ENTITY popupExceptions.label "Разрешённые сайты…">
-<!ENTITY popupExceptions.accesskey "Р">
+<!ENTITY popupExceptions.accesskey "з">
 <!ENTITY whenBlock.description "Если всплывающее окно было заблокировано:">
 <!ENTITY playSound.label "Подать звуковой сигнал:">
-<!ENTITY playSound.accesskey "П">
+<!ENTITY playSound.accesskey "о">
+<!ENTITY systemSound.label "Системный звук">
+<!ENTITY systemSound.accesskey "и">
+<!ENTITY customSound.label "Указать звуковой файл">
+<!ENTITY customSound.accesskey "к">
 <!ENTITY selectSound.label "Обзор…">
 <!ENTITY selectSound.accesskey "б">
-<!ENTITY previewSound.label "Просмотр">
-<!ENTITY previewSound.accesskey "П">
+<!ENTITY previewSound.label "Прослушать">
+<!ENTITY previewSound.accesskey "ш">
 <!ENTITY selectSound.title "Выбор звукового сигнала о всплывающем окне">
+<!ENTITY selectSound.filter "Звуки">
 <!ENTITY displayIcon.label "Показывать значок в строке состояния браузера">
-<!ENTITY displayIcon.accesskey "П">
+<!ENTITY displayIcon.accesskey "в">
 <!ENTITY popupNote.description "Примечание: блокирование всплывающих окон может привести к тому, что важные функции некоторых сайтов будут вам недоступны, например, окна регистрации в банковских системах и онлайн-магазинах. Чтобы получить более подробную информацию о том, как разрешать некоторым сайтам открывать всплывающие окна при их общем блокировании, нажмите кнопку «Справка». Даже если вы блокируете всплывающие окна, сайты могут использовать другие способы открытия окон с рекламой.">
