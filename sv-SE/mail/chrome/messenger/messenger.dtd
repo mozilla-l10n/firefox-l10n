@@ -669,6 +669,10 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Lägg till i adressbok…">
 <!ENTITY AddToAddressBook.accesskey "L">
+<!ENTITY EditContact.label "Redigera kontakt…">
+<!ENTITY EditContact.accesskey "R">
+<!ENTITY ViewContact.label "Visa kontakt">
+<!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Skriv meddelande till">
 <!ENTITY SendMailTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Kopiera e-postadress">
