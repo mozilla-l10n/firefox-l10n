@@ -43,7 +43,7 @@
 <!ENTITY setPassword.meter.label "Вымяральнік якасці пароля">
 <!ENTITY setPassword.meter.loading "Загрузка">
 <!ENTITY resetPasswordButtonLabel "Скінуць">
-<!ENTITY resetPassword.title "Скідванне галоўнага пароля">
+<!ENTITY resetPassword.title "Скіданне галоўнага пароля">
 <!ENTITY resetPassword.text "Калі вы пазбавіцеся вашага галоўнага пароля, усе вашы захаваныя паролі сеціва і э-пошты, даныя формаў, асабістыя пасведчанні і прыватныя ключы згубяцца. Вы сапраўды хочаце скінуць ваш галоўны пароль? ">
 <!ENTITY getPassword.title "Увод галоўнага пароля">
 <!ENTITY getPassword.tokenName.label "Збудова бяспекі">
@@ -56,7 +56,7 @@
 <!ENTITY pref.security.general.level.title "Узровень бяспекі">
 <!ENTITY pref.security.general.paranoid.label "Ужываць паранойныя наладжванні бяспекі">
 <!ENTITY pref.security.general.certificates.title "Пасведчанні">
-<!ENTITY pref.security.general.manageCert.label "Кіраваць пасведчаннямі">
+<!ENTITY pref.security.general.manageCert.label "Кіраванне пасведчаннямі">
 <!ENTITY downloadCert.title "Загрузка пасведчання">
 <!ENTITY downloadCert.message1 "Вас запыталі аб даверу новай Крыніцы Пасведчанняў (КП).">
 <!ENTITY downloadCert.trustSSL "Давяраць гэтай КП апазнаваць пляцоўкі сеціва.">

@@ -402,6 +402,10 @@
 <!ENTITY filtersCmd.accesskey "С">
 <!ENTITY filtersApply.label "Ужыць сіты на папцы">
 <!ENTITY filtersApply.accesskey "У">
+<!ENTITY filtersApplyToSelection.label "Выканаць сіты на вылучаных лістах">
+<!ENTITY filtersApplyToSelection.accesskey "в">
+<!ENTITY filtersApplyToMessage.label "Выканаць сіты на лісце">
+<!ENTITY filtersApplyToMessage.accesskey "л">
 <!ENTITY getMsgButton.label "Атрымаць">
 <!ENTITY newMsgButton.label "Укласці">
 <!ENTITY replyButton.label "Адказаць">
@@ -488,6 +492,8 @@
 <!ENTITY folderContextProperties.accesskey "ц">
 <!ENTITY folderContextFavoriteFolder.label "Улюбёная папка">
 <!ENTITY folderContextFavoriteFolder.accesskey "л">
+<!ENTITY folderContextSettings.label "Наладжванні…">
+<!ENTITY folderContextSettings.accesskey "Н">
 <!ENTITY SearchNameOrEmail.label "Імя або адрас змяшчаюць:">
 <!ENTITY SearchNameOrEmail.accesskey "І">
 <!ENTITY clearButton.label "Ачысціць">
@@ -579,6 +585,10 @@
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY AddToAddressBook.label "Дадаць у адрасную кнігу…">
 <!ENTITY AddToAddressBook.accesskey "к">
+<!ENTITY EditContact.label "Правіць сувязь…">
+<!ENTITY EditContact.accesskey "П">
+<!ENTITY ViewContact.label "Прагляд сувязі">
+<!ENTITY ViewContact.accesskey "г">
 <!ENTITY SendMailTo.label "Укласці ліст да">
 <!ENTITY SendMailTo.accesskey "у">
 <!ENTITY CopyEmailAddress.label "Капіяваць адрас э-пошты">

@@ -58,8 +58,8 @@
 <!ENTITY retentionDownloadMsg.label "Лісты, якім болей, чым">
 <!ENTITY retentionDownloadMsg.accesskey "б">
 <!ENTITY retentionCleanup.label "Трымаць:">
-<!ENTITY retentionKeepMsg.label "Лісты, якія прыбылі ў апошнія">
-<!ENTITY retentionKeepMsg.accesskey "ў">
+<!ENTITY retentionDeleteMsg.label "Выдаліць лісты, якім больш за">
+<!ENTITY retentionDeleteMsg.accesskey "В">
 <!ENTITY retentionKeepAll.label "Усе лісты">
 <!ENTITY retentionKeepAll.accesskey "У">
 <!ENTITY retentionKeepNew.label "Найноўшыя">

@@ -68,6 +68,8 @@
 <!ENTITY pac.accesskey "с">
 <!ENTITY wpad.label "У сетцы (пасярэднік: самавызначэнне)">
 <!ENTITY wpad.accesskey "с">
+<!ENTITY system.label "У сетцы (пасярэднік: ужываецца сістэмны пасярэднік).">
+<!ENTITY system.accesskey "с">
 <!ENTITY proxy.label "Наладка пасярэднікаў…">
 <!ENTITY proxy.accesskey "л">
 <!ENTITY bidiSwitchTextDirectionItem.label "Пераключыць кірунак тэксту">

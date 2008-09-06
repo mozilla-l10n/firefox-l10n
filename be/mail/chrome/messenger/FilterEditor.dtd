@@ -8,7 +8,11 @@
 <!ENTITY normalPriorityCmd.label "Звычайны">
 <!ENTITY highPriorityCmd.label "Высокі">
 <!ENTITY highestPriorityCmd.label "Найвышэйшы">
-<!ENTITY conditionDesc.label "Для ўваходных лістоў, якія:">
+<!ENTITY contextDesc.label "Ужываць сіта пры:">
+<!ENTITY contextDesc.accesskey "У">
+<!ENTITY contextIncoming.label "Праверцы пошты">
+<!ENTITY contextManual.label "Ручным выкананні">
+<!ENTITY contextBoth.label "Праверцы пошты і ручным выкананні">
 <!ENTITY filterActionDesc.label "Выканаць гэтыя дзеянні:">
 <!ENTITY filterActionDesc.accesskey "В">
 <!ENTITY newFolderButton.label "Новая папка…">

@@ -30,8 +30,6 @@
 <!ENTITY languagePopup.label "Мова:">
 <!ENTITY languagePopup.accessKey "М">
 <!ENTITY downloadDictionaries.label "Загрузіць іншыя слоўнікі">
-<!ENTITY useMIME.label "Ужываць MIME кадоўку 'quoted printable' для лістоў, якія змяшчаюць 8-бітавыя знакі">
-<!ENTITY useMIME.accesskey "ж">
 <!ENTITY warnOnSendAccelKey.label "Пацвярджаць дасыланне ліста, калі яно выклікана клавіятурным выклічнікам">
 <!ENTITY warnOnSendAccelKey.accesskey "в">
 <!ENTITY autoSave.label "Самазахаванне кожныя">

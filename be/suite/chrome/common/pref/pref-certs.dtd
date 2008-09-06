@@ -19,7 +19,9 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Bob Lord <lord@netscape.com>
    -   Terry Hayes <thayes@netscape.com>
+   -   
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -35,8 +37,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pageInfo.securityTab "Бяспека">
-<!ENTITY pageInfo.securityTab.accesskey "Б">
-<!ENTITY pageInfo.securityHeader "Звесткі пра бяспечнасць гэтай старонкі">
-<!ENTITY pageInfo.view.label "Прагляд">
-<!ENTITY pageInfo.view.accesskey "П">
+<!ENTITY resetsettings.label "Скінуць наладжванні">
+<!ENTITY resetpreferences.label "Скінуць перавагі…">
+<!ENTITY managecerts.caption "Кіраванне пасведчаннямі">
+<!ENTITY managecerts.text "Скарыстайце кіраўнік пасведчаннямі, каб кіраваць як вашымі асабовымі пасведчаннямі, так і пасведчаннямі іншых людзей і крыніцамі пасведчанняў.">
+<!ENTITY managecerts.button "Кіраваць пасведчаннямі…">
+<!ENTITY managecerts.accesskey "К">
+<!ENTITY managedevices.caption "Кіраванне збудовамі бяспекі">
+<!ENTITY managedevices.text "Скарыстайце гэтую кнопку, каб кіраваць вашымі збудовамі бяспекі, такімі як кемныя карткі.">
+<!ENTITY managedevices.button "Кіраваць збудовамі бяспекі…">
+<!ENTITY managedevices.accesskey "Б">
+<!ENTITY ssl.label "SSL">
+<!ENTITY pref.certs.title "Пасведчанні">
+<!ENTITY certs.label "Пасведчанні">

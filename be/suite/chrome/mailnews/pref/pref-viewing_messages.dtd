@@ -13,12 +13,9 @@
 <!ENTITY color.label "Колер:">
 <!ENTITY color.accesskey "К">
 <!ENTITY displayPlainText.caption "Простатэкставыя лісты">
-<!ENTITY plainTextFont.label "Ужываць наступную шырыню шрыфту:">
+<!ENTITY fontPlainText.label "Шрыфт:">
+<!ENTITY fontPlainText.accesskey "Ш">
 <!ENTITY displayQuoted.label "Наладжванні лістоў-вытрымак:">
-<!ENTITY fixedWidth.label "Нязменны">
-<!ENTITY fixedWidth.accesskey "н">
-<!ENTITY variableWidth.label "Зменны">
-<!ENTITY variableWidth.accesskey "м">
 <!ENTITY readingMessagesHeader.label "Для атрыманых лістоў">
 <!ENTITY messageWrapping.label "Загінанне лістоў">
 <!ENTITY wrapInMsg.label "Загінаць тэкст, каб змяшчаўся ў шырыні акна">
@@ -40,3 +37,5 @@
 <!ENTITY existingWindowRadio.accesskey "І">
 <!ENTITY disableContent.label "Затрымліваць малюнкі і іншае змесціва з адлеглых крыніцаў">
 <!ENTITY disableContent.accesskey "З">
+<!ENTITY showCondensedAddresses.label "Паказваць толькі адлюстравальнае імя для людзей з маёй адраснай кнігі">
+<!ENTITY showCondensedAddresses.accesskey "П">

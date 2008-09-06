@@ -54,8 +54,8 @@
 <!ENTITY daysOld.label "дзён">
 <!ENTITY message.label "апошніх лістоў">
 <!ENTITY retentionCleanup.label "Каб вызваліць месца на дыску, старыя лісты можна назаўсёды выдаліць">
-<!ENTITY retentionKeepMsg.label "Лісты, якія прыбылі ў апошнія">
-<!ENTITY retentionKeepMsg.accesskey "ў">
+<!ENTITY retentionDeleteMsg.label "Выдаліць лісты, якім больш за">
+<!ENTITY retentionDeleteMsg.accesskey "В">
 <!ENTITY retentionKeepAll.label "Не выдаляць ніякіх лістоў">
 <!ENTITY retentionKeepAll.accesskey "н">
 <!ENTITY retentionKeepNew.label "Выдаліць усе, акрамя">

@@ -3,6 +3,8 @@
 <!ENTITY proxyTitle.label "Наладка пасярэднікаў дзеля доступу ў Інтэрнэт">
 <!ENTITY directTypeRadio.label "Непасрэднае злучэнне з Інтэрнэтам">
 <!ENTITY directTypeRadio.accesskey "Н">
+<!ENTITY systemTypeRadio.label "Ужываць сістэмныя наладжванні пасярэднікаў">
+<!ENTITY systemTypeRadio.accesskey "У">
 <!ENTITY manualTypeRadio.label "Ручная наладка пасярэднікаў:">
 <!ENTITY manualTypeRadio.accesskey "Р">
 <!ENTITY wpadTypeRadio.label "Самастойна выявіць наладку пасярэдніка">
@@ -14,7 +16,7 @@
 <!ENTITY http.label "Пасярэднік:">
 <!ENTITY http.accesskey "я">
 <!ENTITY port.label "Порт:">
-<!ENTITY HTTPport.accesskey "п">
+<!ENTITY HTTPPort.accesskey "о">
 <!ENTITY advanced.label "Пашыраны…">
 <!ENTITY advanced.accesskey "П">
 <!ENTITY noproxy.label "Без пасярэдніка:">

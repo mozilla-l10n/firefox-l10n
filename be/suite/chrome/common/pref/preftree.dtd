@@ -17,6 +17,10 @@
 <!ENTITY cookies.label "Біркі">
 <!ENTITY images.label "Малюнкі">
 <!ENTITY popups.label "Вокны-Вынырцы">
+<!ENTITY masterpass.label "Галоўныя паролі">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Пасведчанні">
+<!ENTITY validation.label "Пацвярджэнне">
 <!ENTITY advance.label "Пашыраны">
 <!ENTITY down.label "Загрузка">
 <!ENTITY cache.label "Запаснік">

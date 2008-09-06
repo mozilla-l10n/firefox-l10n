@@ -6,3 +6,6 @@
 <!ENTITY systemPrefCheck.label "Ужываць перавагі сістэмы">
 <!ENTITY systemPrefCheck.accesskey "У">
 <!ENTITY systemPref.desc "Калі гэтая адзінка адзначана, &brandShortName; наследуе перавагі сістэмы. Сістэмныя перавагі зменяць перавагі &brandShortName;.">
+<!ENTITY prefCheckDefault.caption "Убудаванне ў сістэму">
+<!ENTITY prefCheckDefaultClient.label "Правяраць наладжванні змоўчнага прыстасавання пры запуску">
+<!ENTITY prefCheckDefaultClient.accesskey "з">

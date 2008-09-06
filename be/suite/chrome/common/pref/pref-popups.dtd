@@ -8,11 +8,16 @@
 <!ENTITY whenBlock.description "Калі было затрымана акно-вынырац:">
 <!ENTITY playSound.label "Граць гук:">
 <!ENTITY playSound.accesskey "г">
+<!ENTITY systemSound.label "Сістэмны сігнал">
+<!ENTITY systemSound.accesskey "С">
+<!ENTITY customSound.label "Выбарачны файл .wav">
+<!ENTITY customSound.accesskey "В">
 <!ENTITY selectSound.label "Агляд…">
 <!ENTITY selectSound.accesskey "А">
 <!ENTITY previewSound.label "Перадпрагляд">
 <!ENTITY previewSound.accesskey "П">
 <!ENTITY selectSound.title "Выбраць гук затрымкі вынырца">
+<!ENTITY selectSound.filter "Гукі">
 <!ENTITY displayIcon.label "Адлюстроўваць значок на паліцы статусу азіральніка">
 <!ENTITY displayIcon.accesskey "з">
 <!ENTITY popupNote.description "Заўвага: Затрымка ўсіх вынырцаў можа перашкаджаць працы істотных асаблівасцяў асобных пляцовак, такіх як уваходных вокнаў банкаўскіх і гандлёвых пляцовак. Каб даведацца, якім чынам дазволіць пэўным пляцоўкам ужываць вынырцы, калі астатнія затрымліваюцца, пстрыкніце Даведка. Нават калі вынырцы затрымліваюцца, пляцоўкі могуць ужываць іншыя метады, каб іх паказваць.">

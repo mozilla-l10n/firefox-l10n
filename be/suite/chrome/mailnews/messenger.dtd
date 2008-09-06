@@ -359,7 +359,6 @@
 <!ENTITY markAllReadCmd.label "Усе прачытаныя">
 <!ENTITY markAllReadCmd.accesskey "У">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmdUnix.key "m">
 <!ENTITY markFlaggedCmd.label "Сцяжком">
 <!ENTITY markFlaggedCmd.accesskey "ц">
 <!ENTITY markFlaggedCmd.key "i">
@@ -389,6 +388,10 @@
 <!ENTITY filtersCmd.accesskey "С">
 <!ENTITY filtersApply.label "Ужыць сіты на папцы">
 <!ENTITY filtersApply.accesskey "У">
+<!ENTITY filtersApplyToSelection.label "Выканаць сіты на вылучаных лістах">
+<!ENTITY filtersApplyToSelection.accesskey "В">
+<!ENTITY filtersApplyToMessage.label "Выканаць сіты на лісце">
+<!ENTITY filtersApplyToMessage.accesskey "В">
 <!ENTITY runJunkControls.label "Ужыць кіроўцаў паштовай лухтой у папцы ">
 <!ENTITY runJunkControls.accesskey "х">
 <!ENTITY deleteJunk.label "Выдаліць пошту, пазначаную як лухта, з папкі ">
@@ -417,7 +420,6 @@
 <!ENTITY mailToolbar.tooltip "Паліца прыладаў пошты">
 <!ENTITY locationToolbar.tooltip "Прыладапаліца месцазнаходжання">
 <!ENTITY advancedButton.tooltip "Пашыраны пошук лістоў">
-<!ENTITY clearButton.tooltip "Ачысціць крытэры пошуку і паказаць усе лісты">
 <!ENTITY getMsgButton.tooltip "Атрымаць новыя лісты">
 <!ENTITY newMsgButton.tooltip "Стварыць новы ліст">
 <!ENTITY replyButton.tooltip "Адказаць на ліст">
@@ -496,14 +498,14 @@
 <!ENTITY folderContextSearchMessages.accesskey "ш">
 <!ENTITY folderContextProperties.label "Уласцівасці…">
 <!ENTITY folderContextProperties.accesskey "ц">
+<!ENTITY folderContextSettings.label "Наладжванні…">
+<!ENTITY folderContextSettings.accesskey "Н">
 <!ENTITY SearchSubjectOrFrom.label "Тэма або Ад змяшчаюць:">
 <!ENTITY SearchSubjectOrFrom.accesskey "Т">
 <!ENTITY SearchNameOrEmail.label "Імя або адрас змяшчаюць:">
 <!ENTITY SearchNameOrEmail.accesskey "І">
 <!ENTITY advancedButton.label "Пашыраны…">
 <!ENTITY advancedButton.accesskey "П">
-<!ENTITY clearButton.label "Ачысціць">
-<!ENTITY clearButton.accesskey "ч">
 <!ENTITY all.label "Усе">
 <!ENTITY all.accesskey "У">
 <!ENTITY junkBarMessage.label "&brandShortName; лічыць, што гэты ліст – паштовая лухта.">

@@ -6,6 +6,8 @@
 <!ENTITY inline.accesskey "У">
 <!ENTITY asAttachment.label "Як далучэнне">
 <!ENTITY asAttachment.accesskey "Д">
+<!ENTITY replyQuoteInline.label "Зрабіць вытрымку з бачных унутры далучэнняў у адказах">
+<!ENTITY replyQuoteInline.accesskey "в">
 <!ENTITY warnOnSendAccelKey.label "Сцвердзіць дасыланне ліста, калі яно выклікана клавіятурным выклічнікам ">
 <!ENTITY warnOnSendAccelKey.accesskey "С">
 <!ENTITY autoSave.label "Самастойна захоўваць ліст кожныя">
