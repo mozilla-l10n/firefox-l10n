@@ -109,13 +109,13 @@
 <!ENTITY stopSearchingCmd.label                         ".Stabdyti paiešką"> 
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newcardButton.label                            "Nauja kortelė  ">  
+<!ENTITY newcardButton.label                            "Nauja kortelė">  
 <!ENTITY newcardButton.accesskey                        "k">  
 <!ENTITY newlistButton.label                            "Naujas sąrašas">  
 <!ENTITY newlistButton.accesskey                        "r">  
 <!ENTITY editButton.label                               "Savybės">  
 <!ENTITY editButton.accesskey                           "S">  
-<!ENTITY newmsgButton.label                             "Naujas laiškas">  
+<!ENTITY newmsgButton.label                             "Rašyti">  
 <!ENTITY newmsgButton.accesskey                         "l">  
 <!ENTITY deleteButton.label                             "Pašalinti">  
 <!ENTITY deleteButton.accesskey                         "š">  
