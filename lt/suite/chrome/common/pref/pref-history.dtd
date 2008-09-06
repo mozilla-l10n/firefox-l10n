@@ -4,7 +4,7 @@
 <!ENTITY  historyPages.label                "Žurnalas – tai anksčiau aplankytų tinklalapių sąrašas.">
 <!ENTITY  pageHis.label                     "Žurnale laikyti tinklalapius, aplankytus per pastarąsias">
 <!ENTITY  pageHis.accesskey                 "Ž">
-<!ENTITY  days.label                        "dienas(-ų)">
+<!ENTITY  days.label                        "d.">
 <!ENTITY  clearHistory.label                "Išvalyti">
 <!ENTITY  clearHistory.accesskey            "v">
 
