@@ -556,6 +556,8 @@
 <!ENTITY folderContextProperties.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoritmapp">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
+<!ENTITY folderContextSettings.label "Inställningar…">
+<!ENTITY folderContextSettings.accesskey "I">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Namn eller meddelande innehåller:">

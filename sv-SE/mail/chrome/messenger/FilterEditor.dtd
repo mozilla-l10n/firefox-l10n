@@ -44,7 +44,11 @@
 <!ENTITY highPriorityCmd.label "Hög">
 <!ENTITY highestPriorityCmd.label "Högsta">
 
-<!ENTITY conditionDesc.label "För meddelanden som:">
+<!ENTITY contextDesc.label "Tillämpa filter vid:">
+<!ENTITY contextDesc.accesskey "T">
+<!ENTITY contextIncoming.label "E-posthämtning">
+<!ENTITY contextManual.label "Manuell körning">
+<!ENTITY contextBoth.label "E-posthämtning eller manuell körning">
 <!ENTITY filterActionDesc.label "Gör följande:">
 <!ENTITY filterActionDesc.accesskey "G">
 
