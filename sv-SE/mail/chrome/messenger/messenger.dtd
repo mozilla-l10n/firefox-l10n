@@ -456,6 +456,10 @@
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Kör filter på mapp">
 <!ENTITY filtersApply.accesskey "K">
+<!ENTITY filtersApplyToSelection.label "Kör filter på markerade meddelanden">
+<!ENTITY filtersApplyToSelection.accesskey "m">
+<!ENTITY filtersApplyToMessage.label "Kör filter på meddelande">
+<!ENTITY filtersApplyToMessage.accesskey "m">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Hämta">
