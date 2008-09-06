@@ -42,7 +42,7 @@
 
 <!ENTITY messengerWindow.title "Paštas ir naujienų grupės">
 <!ENTITY titleModifier.label "&brandShortName;">
-<!ENTITY titleSeparator.label " - ">
+<!ENTITY titleSeparator.label " – ">
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
@@ -467,20 +467,20 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Atsiųsti">
-<!ENTITY newMsgButton.label "Naujas laiškas">
+<!ENTITY newMsgButton.label "Rašyti">
 <!ENTITY replyButton.label "Atsakyti">
-<!ENTITY replyAllButton.label "Atsakyti visiems">
-<!ENTITY forwardButton.label " Persiųsti">
-<!ENTITY fileButton.label "Perkelti į aplanką">
-<!ENTITY nextButton.label " Tolesnis">
+<!ENTITY replyAllButton.label "Ats. visiems">
+<!ENTITY forwardButton.label "Persiųsti">
+<!ENTITY fileButton.label "Perkelti">
+<!ENTITY nextButton.label "Tolesnis">
 <!ENTITY goBackButton.label "Atgal">
 <!ENTITY goForwardButton.label "Pirmyn">
 <!ENTITY deleteButton.label "Pašalinti">
 <!ENTITY markButton.label "Pažymėti">
-<!ENTITY printButton.label " Spausdinti">
-<!ENTITY stopButton.label " Stabdyti">
-<!ENTITY junkButton.label " Šlamštas">
-<!ENTITY notJunkButton.label "Tai nėra šlamštas">
+<!ENTITY printButton.label "Spausdinti">
+<!ENTITY stopButton.label "Stabdyti">
+<!ENTITY junkButton.label "Šlamštas">
+<!ENTITY notJunkButton.label "Ne šlamštas">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Meniu juosta">
