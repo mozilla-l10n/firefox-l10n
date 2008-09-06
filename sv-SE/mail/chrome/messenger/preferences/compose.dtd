@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "S">
 <!ENTITY downloadDictionaries.label           "Hämta fler ordlistor">
 
-<!ENTITY useMIME.label                        "För meddelanden som innehåller 8-bitars tecken, använd MIME-kodningen ”quoted printable”">
-<!ENTITY useMIME.accesskey                    "F">
 <!ENTITY warnOnSendAccelKey.label             "Bekräfta när du skickar meddelanden med tangentbordskommando">
 <!ENTITY warnOnSendAccelKey.accesskey         "ä">
 <!ENTITY autoSave.label                       "Autospara var">
