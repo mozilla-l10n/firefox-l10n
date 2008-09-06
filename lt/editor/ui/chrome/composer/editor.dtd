@@ -20,6 +20,9 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+	-    Gintautas Grigas <grigas@ktl.mii.lt>
+	-    Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-    Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,7 +40,7 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Composer"> 
+<!ENTITY editorWindow.titlemodifier "Rašyklė"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
