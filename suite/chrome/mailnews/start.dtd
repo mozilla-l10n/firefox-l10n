@@ -20,6 +20,9 @@
    -
    - Contributor(s):
    -   Robert Kaiser <kairo@kairo.at>
+	-   Gintautas Grigas <grigas@ktl.mii.lt>
+	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,8 +39,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY startpage.title "Sveiki! Čia „&brandShortName;“ pašto ir naujienų grupių programa">
+<!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
 <!ENTITY headline.label
-'Sveiki! Čia „<a href="&vendorURL;">&brandShortName;</a>“ pašto ir naujienų grupių programa'>
+'Sveiki! Čia „<a id="vendorURL" href="">&brandShortName;</a>“ pašto ir naujienų grupių programa'>
 <!ENTITY description.label
 "„&brandShortName;“ pašto ir naujienų grupių programa – atvirojo kodo produktas, pasižymintis galingais šlamšto filtrais bei kitomis naudingomis savybėmis.">
 <!ENTITY features.title "Savybės">
@@ -51,8 +55,14 @@
 "glaudi integracija su „&brandShortName;“ programų paketu">
 <!ENTITY dict.title "Žodynai">
 <!ENTITY dict_intro.label "Jūsų laiškų rašybą galima patikrinti, pasinaudojant žodynais.">
+<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
 <!ENTITY dict_info.label
-'Įvairių kalbų rašybos tikrinimo žodynus galite įdiegti iš <a href="https://lt.add-ons.mozilla.org/lt/seamonkey/1.1/dictionaries/">žodynų</a> skyrelio <a href="http://addons.mozilla.org/">„Mozilla“ priedų svetainėje</a>.'>
+'Įvairių kalbų rašybos tikrinimo žodynus galite įdiegti iš 
+<a id="dictURL" href="">žodynų</a> skyrelio 
+<a href="https://addons.mozilla.org/seamonkey/">„Mozilla“ priedų svetainėje</a>.'>
 <!ENTITY info.title "Klaidos">
+<!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label
-'<a href="http://www.mozilla.org/mailnews/" hreflang="en">Mes</a> visad laukiame pranešimų apie programos klaidas bei pasiūlymų, tačiau prašome pirma paskaityti <a href="&releaseURL;">laidos apžvalgą</a> ar peržiūrėti jau įvestas „<a href="https://bugzilla.mozilla.org/query.cgi" hreflang="en">Bugzilla</a>“ užklausas.'>
+'<a href="http://www.mozilla.org/mailnews/" hreflang="en">Mes</a> visad laukiame pranešimų apie programos klaidas
+bei pasiūlymų, tačiau prašome pirma paskaityti <a id="releaseNotesURL" href="">laidos apžvalgą</a> ir
+peržiūrėti jau įvestas „<a href="https://bugzilla.mozilla.org/query.cgi" hreflang="en">Bugzilla</a>“ užklausas.'>
