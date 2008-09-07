@@ -63,17 +63,12 @@
 <!ENTITY DeleteHtmlDomain.accesskey "R">
 <!ENTITY DeletePlainText.accesskey "t">
 
-<!-- Add HTML Domain Name -->
+<!-- Add Domain Name -->
 <!ENTITY add.htmltitle "Ajouter un nom de domaine HTML">
 <!ENTITY add.htmldomain "Nom de domaine HTML :">
-<!ENTITY add.htmldomain.accesskey "d">
 <!ENTITY add.plaintexttitle "Ajouter un nom de domaine texte simple">
 <!ENTITY add.plaintextdomain "Nom de domaine texte simple :">
-<!ENTITY add.plaintext.accesskey "d">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY domainnameError.title "Erreur de nom de domaine">
-<!ENTITY duplicationError.label "Le nom de domaine @string@ existe déjà dans cette liste.">
-
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label "Un nom de domaine ne peut pas apparaître dans un domaine HTML et un domaine texte simple en même temps. Le nom de domaine @string@ existe déjà.">
+<!ENTITY invalidEntryError.label "Le nom de domaine @string@ est invalide et sera ignoré. Les noms de domaine valides doivent contenir au moins un « . » et des caractères de part et d'autre.">
