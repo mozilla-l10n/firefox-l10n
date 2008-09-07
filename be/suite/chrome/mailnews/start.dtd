@@ -51,7 +51,7 @@
 <!ENTITY dict_intro.label "Слоўнікі, якія ўжываюцца для праверкі правапісу вашых лістоў.">
 <!ENTITY dict_info.label 'Шмат якія дадатковыя мовы могуць быць усталяваны з раздзелу
 <a id="dictURL" href="">Слоўнікі</a>
-<a href="https://addons.mozilla.org/seamonkey/">Дадаткаў Мазіла</a>.'>
+<a href="https://addons.mozilla.org/seamonkey/">Дадаткаў Mozilla</a>.'>
 <!ENTITY info.title "Падрабязней">
 <!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Мы</a> вітаем паведамленні аб хібах і запыты
 асаблівасцяў, але спачатку пачытайце <a id="releaseNotesURL" href="">заўвагі аб выданнях</a> і 
