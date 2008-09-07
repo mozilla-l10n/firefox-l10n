@@ -41,8 +41,6 @@
 <!ENTITY aboutWarningCheckbox.label "Visualizza nuovamente questo avviso in futuro">
 <!ENTITY filterPrefs.label "Filtro:">
 <!ENTITY filterPrefs.accesskey "F">
-<!ENTITY showAll.label "Mostra tutto">
-<!ENTITY showAll.accesskey "t">
 <!ENTITY prefColumn.label "Nome Parametro">
 <!ENTITY lockColumn.label "Stato">
 <!ENTITY typeColumn.label "Tipo">
