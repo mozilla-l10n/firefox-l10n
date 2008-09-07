@@ -18,7 +18,5 @@
 <!ENTITY focusSearch2.key "k">
 <!ENTITY filter.label "Cerca:">
 <!ENTITY filter.accesskey "e">
-<!ENTITY clear.label "Svuota">
-<!ENTITY clear.accesskey "S">
 <!ENTITY button.close.label "Chiudi">
 <!ENTITY button.close.accesskey "C">
