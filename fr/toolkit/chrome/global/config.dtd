@@ -45,8 +45,6 @@
 
 <!ENTITY filterPrefs.label "Filtre :">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "Afficher tout">
-<!ENTITY showAll.accesskey "o">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nom de l'option">
