@@ -5,11 +5,11 @@
 <!ENTITY askMe.label "Preguntarme qué hacer (se le pedirá que escoja un formato)">
 <!ENTITY askMe.accesskey "P">
 <!ENTITY convertPlain.label "Convertir el mensaje a texto sin formato (puede perderse parte del formato)">
-<!ENTITY convertPlain.accesskey "c">
+<!ENTITY convertPlain.accesskey "C">
 <!ENTITY sendHTML.label "Enviar el mensaje con formato (HTML) de todas formas (puede que algunos programas de correo no puedan mostrarlo)">
-<!ENTITY sendHTML.accesskey "s">
+<!ENTITY sendHTML.accesskey "S">
 <!ENTITY sendBoth.label "Enviar el mensaje en ambos formatos, texto sin formato y HTML (tamaño del mensaje mayor)">
-<!ENTITY sendBoth.accesskey "e">
+<!ENTITY sendBoth.accesskey "n">
 <!ENTITY override.label "Puede invalidar estas configuraciones para mensajes individuales utilizando el menú Opciones en la ventana de redacción de correo.">
 <!ENTITY receiveHTML.label "Si sabe que un destinatario en particular puede recibir correo en HTML, desmarque la casilla 'Enviar correo electrónico como texto sin formato (sin HTML)' en la tarjeta de la libreta de direcciones del destinatario.">
 <!ENTITY domain.title "Dominios de HTML y texto sin formato">
@@ -26,10 +26,7 @@
 <!ENTITY DeletePlainText.accesskey "l">
 <!ENTITY add.htmltitle "Añadir nombre de dominio HTML">
 <!ENTITY add.htmldomain "Nombre de dominio HTML:">
-<!ENTITY add.htmldomain.accesskey "d">
 <!ENTITY add.plaintexttitle "Añadir nombre de dominio de texto sin formato">
 <!ENTITY add.plaintextdomain "Nombre de dominio de texto sin formato:">
-<!ENTITY add.plaintext.accesskey "d">
 <!ENTITY domainnameError.title "Error de nombre de dominio">
-<!ENTITY duplicationError.label "El nombre de dominio @string@ ya existe en esta lista.">
-<!ENTITY dualEntryError.label "Un nombre de dominio no puede aparecer en ambas listas, la de HTML y la de texto sin formato. El nombre de dominio @string@ ya existe.">
+<!ENTITY invalidEntryError.label "El nombre de dominio @string@ no es válido y será ignorado. Los nombres de dominio válidos deben incluir al menos un '.' y caracteres a ambos lados de éste.">
