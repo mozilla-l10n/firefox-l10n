@@ -22,9 +22,6 @@
 
 <!ENTITY     filter.label                   "Sök:">
 <!ENTITY     filter.accesskey               "S">
-<!ENTITY     clear.label                    "Rensa">
-<!ENTITY     clear.accesskey                "R">
 
 <!ENTITY     button.close.label             "Stäng">
 <!ENTITY     button.close.accesskey         "ä">
-
