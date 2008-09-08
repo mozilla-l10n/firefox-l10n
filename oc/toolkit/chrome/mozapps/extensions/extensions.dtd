@@ -1,0 +1,148 @@
+<!ENTITY addons.title "Moduls complementaris">
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY search.label "Obténer de moduls complementaris">
+<!ENTITY extensions.label "Extensions">
+<!ENTITY themes.label "Tèmas">
+<!ENTITY locales.label "Lengas">
+<!ENTITY plugins.label "Ajustons (Plugins)">
+<!ENTITY update.label "Mesas a jorn">
+<!ENTITY install.label "Installacion">
+<!ENTITY cmd.checkUpdatesAll.label "Recercar de mesas a jorn">
+<!ENTITY cmd.checkUpdatesAll.accesskey "R">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Recèrca de las mesas a jorn per vòstres moduls complementaris">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Recèrca de las mesas a jorn per vòstres tèmas">
+<!ENTITY cmd.installLocalFile.label "Installar…">
+<!ENTITY cmd.installLocalFile.accesskey "n">
+<!ENTITY cmd.installFileAddon.tooltip "Installar un modul complementari">
+<!ENTITY cmd.installFileTheme.tooltip "Installar un tèma">
+<!ENTITY cmd.installUpdatesAll.label "Installar de mesas a jorn">
+<!ENTITY cmd.installUpdatesAll.accesskey "I">
+<!ENTITY cmd.installUpdatesAll.tooltip "Installar las mesas a jorn seleccionadas">
+<!ENTITY cmd.restartApp2.label "Tornar aviar &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey "T">
+<!ENTITY cmd.restartApp2.tooltip "Tornar aviar &brandShortName; per aplicar los cambiaments">
+<!ENTITY cmd.skip.label "Ignorar">
+<!ENTITY cmd.skip.accesskey "g">
+<!ENTITY cmd.skip.tooltip "Ignorar aquestas mesas a jorn">
+<!ENTITY cmd.continue.label "Contunhar">
+<!ENTITY cmd.continue.accesskey "C">
+<!ENTITY cmd.continue.tooltip "Conunhar lo cargament de &brandShortName;">
+<!ENTITY cmd.enableAll.label "Activar tot">
+<!ENTITY cmd.enableAll.accesskey "a">
+<!ENTITY cmd.enableAll.tooltip "Activar totes los moduls visualizats">
+<!ENTITY cmd.disableAll.label "Tot desactivar">
+<!ENTITY cmd.disableAll.accesskey "s">
+<!ENTITY cmd.disableAll.tooltip "Desactivar totes los moduls visualizats">
+<!ENTITY cmd.useTheme.label "Utilizar lo tèma">
+<!ENTITY cmd.useTheme.accesskey "t">
+<!ENTITY cmd.useTheme.tooltip "Càmbia lo tèma de &brandShortName;">
+<!ENTITY cmd.options.label "Opcions">
+<!ENTITY cmd.options.accesskey "O">
+<!ENTITY cmd.options.tooltip "Gerís las opcions de l'extension seleccionada">
+<!ENTITY cmd.optionsUnix.label "Preferéncias">
+<!ENTITY cmd.optionsUnix.accesskey "r">
+<!ENTITY cmd.optionsUnix.tooltip "Gerís las preferéncias de l'extension seleccionada">
+<!ENTITY cmd.enable.label "Activar">
+<!ENTITY cmd.enable.accesskey "A">
+<!ENTITY cmd.enable.tooltip "Activa aqueste modul a l'aviada venenta de &brandShortName;">
+<!ENTITY cmd.disable.label "Desactivar">
+<!ENTITY cmd.disable.accesskey "D">
+<!ENTITY cmd.disable.tooltip "Desactiva aqueste modul a l'aviada venenta de &brandShortName;">
+<!ENTITY cmd.uninstall.label "Desinstallar">
+<!ENTITY cmd.uninstall2.accesskey "s">
+<!ENTITY cmd.uninstall2.tooltip "Desinstalla aqueste modul a l'aviada venenta de &brandShortName;">
+<!ENTITY cmd.cancelUninstall.label "Anullar la desinstallacion">
+<!ENTITY cmd.cancelUninstall.accesskey "n">
+<!ENTITY cmd.cancelUninstall.tooltip "Anulla la desinstallacion d'aqueste modul">
+<!ENTITY cmd.cancelInstall.label "Anullar l'installacion">
+<!ENTITY cmd.cancelInstall.accesskey "A">
+<!ENTITY cmd.cancelInstall.tooltip "Anulla l'installacion d'aqueste modul">
+<!ENTITY cmd.cancelUpgrade.label "Anullar la mesa a jorn">
+<!ENTITY cmd.cancelUpgrade.accesskey "A">
+<!ENTITY cmd.cancelUpgrade.tooltip "Anulla la mesa a jorn d'aqueste modul">
+<!ENTITY cmd.installUpdate.label "Installar una mesa a jorn">
+<!ENTITY cmd.installUpdate.accesskey "I">
+<!ENTITY cmd.installUpdate.tooltip "Installa una mesa a jorn per aqueste modul">
+<!ENTITY cmd.showUpdateInfo.label "Afichar las entresenhas">
+<!ENTITY cmd.showUpdateInfo.accesskey "f">
+<!ENTITY cmd.showUpdateInfo.tooltip "Aficha mai d'entresenhas a prepaus d'aquestas mesas a jorn">
+<!ENTITY cmd.hideUpdateInfo.label "Amagar las entresenhas">
+<!ENTITY cmd.hideUpdateInfo.accesskey "A">
+<!ENTITY cmd.hideUpdateInfo.tooltip "Amaga las entresenhas a prepaus d'aquestas mesas a jorn">
+<!ENTITY cmd.installSearchResult.label "Apondre a &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip "Telecargar e installar aqueste modul complementari">
+<!ENTITY cancel.label "Anullar">
+<!ENTITY cancel.accesskey "A">
+<!ENTITY cancelInstall.label "Anullar">
+<!ENTITY cancelInstall.accesskey "n">
+<!ENTITY cancelUpgrade.label "Anullar">
+<!ENTITY cancelUpgrade.accesskey "n">
+<!ENTITY cmd.homepage.label "Visitar la pagina Web">
+<!ENTITY cmd.homepage.accesskey "V">
+<!ENTITY cmd.about2.label "A prepaus d'aqueste modul">
+<!ENTITY cmd.about.accesskey "p">
+<!ENTITY cmd.checkUpdate.label "Recercar una mesa a jorn">
+<!ENTITY cmd.checkUpdate.accesskey "R">
+<!ENTITY cmd.includeUpdate.label "Enclure una mesa a jorn">
+<!ENTITY cmd.includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.label "Enclure aquesta mesa a jorn">
+<!ENTITY includeUpdate.accesskey "n">
+<!ENTITY includeUpdate.tooltip "Enclure aqueste modul al moment de l'installacion de las mesas a jorn">
+<!ENTITY insecureUpdate.label "Provesís pas de mesas a jorn securizadas.">
+<!ENTITY needsDependencies.label "Necessita d'elements suplementaris.">
+<!ENTITY blocklisted.label "Desactivat per vòstra proteccion.">
+<!ENTITY toBeDisabled.label "Aqueste modul serà desactivat a l'aviada venenta de &brandShortName;.">
+<!ENTITY toBeEnabled.label "Aqueste modul serà activat a l'aviada venenta de &brandShortName;.">
+<!ENTITY toBeInstalled.label "Aqueste modul serà installat a l'aviada venenta de &brandShortName;.">
+<!ENTITY toBeUninstalled.label "Aqueste modul serà desinstallat a l'aviada venenta de &brandShortName;.">
+<!ENTITY toBeUpdated.label "Aqueste modul serà mes a jorn a l'aviada venenta de &brandShortName;.">
+<!ENTITY getExtensions.label "Obténer d'extensions">
+<!ENTITY getThemes.label "Obténer de tèmas">
+<!ENTITY getPlugins.label "Obténer de moduls complementaris">
+<!ENTITY searchAddons.label "Recercar dins totes los moduls complementaris">
+<!ENTITY browseAddons.label "Percórrer totes los moduls complementaris">
+<!ENTITY searchFailed.label "&brandShortName; a pas pogut trobar de moduls complementaris">
+<!ENTITY recommendedHeader.label "Recomandats">
+<!ENTITY recommendedThrobber.label "Trobar los moduls complementaris recomandats">
+<!ENTITY searchThrobber.label "Recèrca de moduls">
+<!ENTITY resetSearch.label "Escafar los resultats">
+<!ENTITY noSearchResults.label "Totes los resultats ja son installats o incompatibles.">
+<!ENTITY noRecommendedResults.label "Totas las recomandacions ja son installadas o incompatiblas.">
+<!ENTITY emptySearch.label "Cap de correspondéncia pas trobada">
+<!ENTITY emptySearch.button "Validar">
+<!ENTITY cancelSearch.button "Anullar">
+<!ENTITY searchFailed.button "Validar">
+<!ENTITY searchResultHomepage.value "N'aprendre mai">
+<!ENTITY searchBox.label "Recercar dins totes los moduls complementaris">
+<!ENTITY recommendedResults.label "Veire totes los moduls complementaris recomandats">
+<!ENTITY searchResultConnecting.label "Connexion…">
+<!ENTITY searchResultInstalling.label "Installacion…">
+<!ENTITY searchResultFailed.label "L'installacion a pas capitat">
+<!ENTITY searchResultInstalled.label "L'installacion es acabada">
+<!ENTITY addonTypeExtension.label "Extension">
+<!ENTITY addonTypeTheme.label "Tèma">
+<!ENTITY missingThumbnail.label "Pas d'apercebut">
+<!ENTITY previewNoThemeSelected.label "Cap de tèma pas seleccionat">
+<!ENTITY previewNoPreviewImage.label "Cap d'imagte de previsualizacion es pas disponible per aqueste tèma.">
+<!ENTITY moreInfo.label "Mai de detalhs">
+<!ENTITY infoNoAddonSelected.label "Cap de mesa a jorn pas seleccionada">
+<!ENTITY infoNoUpdateInfo.label "Cap d'entresenhas complementària es pas disponibla per aquesta mesa a jorn">
+<!ENTITY infoUpdateInfoError.label "Una error s'es producha al cors del cargament de las entresenhas sus aquesta mesa a jorn">
+<!ENTITY updateSuccess.label "Mesa a jorn acabada amb succès.">
+<!ENTITY installSuccess.label "Installacion acabada amb succès.">
+<!ENTITY installSuccessRestart.label "Tornatz aviar per acabar l'installacion.">
+<!ENTITY updateSuccessRestart.label "Tornatz aviar per acabar la mesa a jorn.">
+<!ENTITY installWaiting.label "En espèra...">
+<!ENTITY installIncompatibleUpdate.label "Verificacion de la compatibilitat...">
+<!ENTITY installFinishing.label "Installacion...">
+<!ENTITY installFailure.label "L'installacion a pas capitat.">
+<!ENTITY progressStatus.label "Recèrca de mesas a jorn">
+<!ENTITY eula.title "Acòrdi de licéncia d'utilizaire">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Acceptar e installar...">

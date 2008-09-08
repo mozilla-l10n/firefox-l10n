@@ -1,0 +1,3 @@
+<!ENTITY securityOverride.linkText "O podètz apondre una excepcion...">
+<!ENTITY securityOverride.warningText "<p>Vos cal pas apondre d'excepcion s'utilizatz una connexion a Internet dins laquala avètz pas totalament fisança o s'avètz pas la costuma de recebre un avertiment per aqueste servidor.</p>
+<p>Se volètz encara apondre una excepcion a-n aqueste sit, lo podètz far dins vòstres paramètres de criptatge avançat.</p>">

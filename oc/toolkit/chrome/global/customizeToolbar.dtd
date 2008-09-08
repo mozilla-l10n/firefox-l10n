@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Personalizar la barra d'espleches">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY instructions.description "Apondètz o suprimissètz d'elements en los lisant cap a o en defòra de las barras d'espleches.">
+<!ENTITY show.label "Mostrar :">
+<!ENTITY iconsAndText.label "Icònas e tèxt">
+<!ENTITY icons.label "Icònas">
+<!ENTITY text.label "Tèxt">
+<!ENTITY useSmallIcons.label "Icònas pichonas">
+<!ENTITY restoreDefaultSet.label "Configuracion per defaut">
+<!ENTITY addNewToolbar.label "Barra novèla">
+<!ENTITY saveChanges.label "Acabar">
+<!ENTITY undoChanges.label "Anullar los cambiaments">

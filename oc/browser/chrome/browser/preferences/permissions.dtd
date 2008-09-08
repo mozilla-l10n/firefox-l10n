@@ -1,0 +1,18 @@
+<!ENTITY window.title "Excepcions">
+<!ENTITY window.width "36em">
+<!ENTITY treehead.sitename.label "Sit">
+<!ENTITY treehead.status.label "Estat">
+<!ENTITY removepermission.label "Suprimir lo sit">
+<!ENTITY removepermission.accesskey "S">
+<!ENTITY removeallpermissions.label "Suprimir totes los sits">
+<!ENTITY removeallpermissions.accesskey "u">
+<!ENTITY address.label "Adreça del sit web :">
+<!ENTITY block.label "Blocar">
+<!ENTITY block.accesskey "B">
+<!ENTITY session.label "Autorizar pendent la sesilha">
+<!ENTITY session.accesskey "s">
+<!ENTITY allow.label "Autorizar">
+<!ENTITY allow.accesskey "A">
+<!ENTITY windowClose.key "w">
+<!ENTITY button.close.label "Tampar">
+<!ENTITY button.close.accesskey "T">

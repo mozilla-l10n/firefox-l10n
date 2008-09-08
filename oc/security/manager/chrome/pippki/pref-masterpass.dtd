@@ -1,0 +1,18 @@
+<!ENTITY pref.masterpass.title "Senhals principals">
+<!ENTITY managepassword.caption "Expiracion del senhal principal">
+<!ENTITY managepassword.text "&brandShortName; vos demandarà vòstre senhal principal :">
+<!ENTITY managepassword.askfirsttime "Lo primièr còp qu'es necessari">
+<!ENTITY managepassword.askfirsttime.accesskey "L">
+<!ENTITY managepassword.askeverytime "Cada còp qu'es necessari">
+<!ENTITY managepassword.askeverytime.accesskey "C">
+<!ENTITY managepassword.asktimeout "S'es pas estat utilizat dempuèi">
+<!ENTITY managepassword.asktimeout.accesskey "S">
+<!ENTITY managepassword.timeout.unit "minutas o mai">
+<!ENTITY changepassword.caption "Modificar lo senhal principal">
+<!ENTITY changepassword.text "Vòstre senhal principal protegís d'entresenhas sensiblas coma los senhal Web e los certificats.">
+<!ENTITY changepassword.button "Cambiar lo senhal...">
+<!ENTITY changepassword.accesskey "C">
+<!ENTITY resetpassword.caption "Tornar inicializar lo senhal">
+<!ENTITY resetpassword.text "Se tornatz inicializar vòstre senhal principal, totes vòstres senhals Web e de corrièr, donadas de formularis, certificats personals e claus privadas seràn perduts.">
+<!ENTITY resetpassword.button "Reinicializar lo senhal">
+<!ENTITY resetpassword.accesskey "R">

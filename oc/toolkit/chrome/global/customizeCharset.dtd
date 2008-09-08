@@ -1,0 +1,11 @@
+<!ENTITY title.label "Personalizar l'encodatge dels caractèrs">
+<!ENTITY current.label "Encodatges de caractèrs actius :">
+<!ENTITY remove.label "Suprimir">
+<!ENTITY remove.accessKey "S">
+<!ENTITY additional.label "Encodatges de caractèrs disponibles :">
+<!ENTITY add.label "Apondre">
+<!ENTITY add.accessKey "A">
+<!ENTITY moveUp.label "Montar">
+<!ENTITY moveUp.accessKey "M">
+<!ENTITY moveDown.label "Davalar">
+<!ENTITY moveDown.accessKey "D">

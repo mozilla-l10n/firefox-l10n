@@ -1,0 +1,13 @@
+<!ENTITY advancedJSDialog.title "Paramètres JavaScript avançats">
+<!ENTITY window.width "37em">
+<!ENTITY allowScripts.label "Autorizar los escriptes a :">
+<!ENTITY moveResizeWindows.label "Desplaçar o redimensionar las fenèstras existentas">
+<!ENTITY moveResizeWindows.accesskey "D">
+<!ENTITY raiseLowerWindows.label "Passar las fenèstras a l'avant o al rèire plan">
+<!ENTITY raiseLowerWindows.accesskey "R">
+<!ENTITY disableContextMenus.label "Desactivar o tornar plaçar los menuts contextuals">
+<!ENTITY disableContextMenus.accesskey "D">
+<!ENTITY hideStatusBar.label "Amagar la barra d'estat">
+<!ENTITY hideStatusBar.accesskey "A">
+<!ENTITY changeStatusBar.label "Modificar lo tèxt de la barra d'estat">
+<!ENTITY changeStatusBar.accesskey "M">

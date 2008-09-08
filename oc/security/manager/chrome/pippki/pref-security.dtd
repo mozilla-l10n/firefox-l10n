@@ -1,0 +1,13 @@
+<!ENTITY resetsettings.label "Tornar inicializar los paramètres">
+<!ENTITY resetpreferences.label "Tornar inicializar las preferéncias...">
+<!ENTITY managecerts.caption "Gerir los certificats">
+<!ENTITY managecerts.text "Utilizatz lo Gestionari de certificats per vòstres certificats personals e mai pels autres certificats.">
+<!ENTITY managecerts.button "Gerir los certificats...">
+<!ENTITY managecerts.accesskey "G">
+<!ENTITY managedevices.caption "Gerir los periferics de seguretat">
+<!ENTITY managedevices.text "Utilizatz lo Gestionari de periferics per gerir los periferics de seguretat, coma las cartas de piuse.">
+<!ENTITY managedevices.button "Gerir los periferics de seguretat...">
+<!ENTITY managedevices.accesskey "s">
+<!ENTITY ssl.label "SSL">
+<!ENTITY pref.certs.title "Certificats">
+<!ENTITY certs.label "Certificats">

@@ -1,0 +1,16 @@
+<!ENTITY safeModeDialog.title "Mòde segur de &brandShortName;">
+<!ENTITY window.width "37em">
+<!ENTITY safeModeDescription.label "&brandShortName; marca ara en mòde segur, çò que desactiva per un moment vòstres paramètres, tèmas e extensions personalizats.">
+<!ENTITY safeModeDescription2.label "D'unas (o totas las) modificacions pòdon venir permanentas :">
+<!ENTITY disableAddons.label "Desactivar totes los moduls complementaris">
+<!ENTITY disableAddons.accesskey "D">
+<!ENTITY resetToolbars.label "Tornat inicializar las barras d'espleches e los contraròtles">
+<!ENTITY resetToolbars.accesskey "T">
+<!ENTITY resetBookmarks.label "Tornar inicializar los marcapaginas per defaut de &brandShortName;">
+<!ENTITY resetBookmarks.accesskey "s">
+<!ENTITY resetUserPrefs.label "Tornar inicializar las preferéncias per defaut de &brandShortName;">
+<!ENTITY resetUserPrefs.accesskey "p">
+<!ENTITY restoreSearch.label "Restablir los motors de recèrca per defaut">
+<!ENTITY restoreSearch.accesskey "m">
+<!ENTITY changeAndRestartButton.label "Aplicar las modificacions e tornar aviar">
+<!ENTITY continueButton.label "Contunhar en mòde segur">

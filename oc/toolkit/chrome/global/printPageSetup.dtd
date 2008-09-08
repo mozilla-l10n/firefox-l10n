@@ -1,0 +1,38 @@
+<!ENTITY printSetup.title "Mesa en pagina">
+<!ENTITY basic.tab "Format e opcions">
+<!ENTITY formatGroup.label "Format">
+<!ENTITY orientation.label "Orientacion :">
+<!ENTITY portrait "Retrach">
+<!ENTITY landscape "Païsatge">
+<!ENTITY scale.label "Escala :">
+<!ENTITY scalePercent "&#037;">
+<!ENTITY shrinkToFit.label "Adaptar a la talha de la pagina">
+<!ENTITY optionsGroup.label "Opcions">
+<!ENTITY printBG.label "Estampar lo fons de pagina (colors e imatges)">
+<!ENTITY advanced.tab "Marges, entèstas e pès de pagina">
+<!ENTITY marginGroup.label "Marges (#1)">
+<!ENTITY marginUnits.inches "poces">
+<!ENTITY marginUnits.metric "milimètres">
+<!ENTITY marginTop.label "Naut :">
+<!ENTITY marginBottom.label "Bas :">
+<!ENTITY marginLeft.label "Esquèrra :">
+<!ENTITY marginRight.label "Drecha :">
+<!ENTITY headerFooter.label "Entèstas e pès de pagina">
+<!ENTITY hfLeft.label "Esquèrra :">
+<!ENTITY hfCenter.label "Centre :">
+<!ENTITY hfRight.label "Drecha :">
+<!ENTITY headerLeft.tip "Entèsta d'esquèrra">
+<!ENTITY headerCenter.tip "Entèsta del centre">
+<!ENTITY headerRight.tip "Entèsta de drecha">
+<!ENTITY footerLeft.tip "Pè de pagina d'esquèrra">
+<!ENTITY footerCenter.tip "Pè de pagina del centre">
+<!ENTITY footerRight.tip "Pè de pagina de drecha">
+<!ENTITY hfTitle "Títol">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "Data/ora">
+<!ENTITY hfPage "Numèro de pagina">
+<!ENTITY hfPageAndTotal "Pagina # sus #">
+<!ENTITY hfBlank "--void--">
+<!ENTITY hfCustom "Personalizar...">
+<!ENTITY customPrompt.title "Personalizar...">
+<!ENTITY customPrompt.prompt "Picatz vòstre tèxt d'entèsta o de pè de pagina">

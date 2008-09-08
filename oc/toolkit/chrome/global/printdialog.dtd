@@ -1,0 +1,20 @@
+<!ENTITY printButton.label "Estampar">
+<!ENTITY printDialog.title "Estampar">
+<!ENTITY fpDialog.title "Enregistrar lo fichièr">
+<!ENTITY fileCheck.label "Estampar dins un fichièr">
+<!ENTITY propertiesButton.label "Proprietats...">
+<!ENTITY descText.label "Descripcion de l'estampaira :">
+<!ENTITY printer.label "Estampaira">
+<!ENTITY printerInput.label "Nom de l'estampaira :">
+<!ENTITY printrangeGroup.label "Paginas">
+<!ENTITY allpagesRadio.label "Totas las paginas">
+<!ENTITY rangeRadio.label "Paginas">
+<!ENTITY frompageInput.label "sus">
+<!ENTITY topageInput.label "a">
+<!ENTITY selectionRadio.label "Seleccion">
+<!ENTITY copies.label "Còpias">
+<!ENTITY numCopies.label "Nombre de còpias :">
+<!ENTITY printframeGroup.label "Estampar los quadres">
+<!ENTITY aslaidoutRadio.label "Tals coma son a l'ecran">
+<!ENTITY selectedframeRadio.label "Lo quadre seleccionat">
+<!ENTITY eachframesepRadio.label "Cada quadre separadament">

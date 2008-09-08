@@ -1,0 +1,16 @@
+<!ENTITY findDialog.title "Recercar dins la pagina">
+<!ENTITY findField.label "Tèxt de recercar :">
+<!ENTITY findField.accesskey "T">
+<!ENTITY caseSensitiveCheckbox.label "Respectar la cassa">
+<!ENTITY caseSensitiveCheckbox.accesskey "R">
+<!ENTITY wrapCheckbox.label "Recèrca circulara">
+<!ENTITY wrapCheckbox.accesskey "i">
+<!ENTITY findButton.label "Recercar lo seguent">
+<!ENTITY findButton.accesskey "R">
+<!ENTITY cancelButton.label "Anullar">
+<!ENTITY closeButton.label "Tampar">
+<!ENTITY up.label "Naut">
+<!ENTITY up.accesskey "N">
+<!ENTITY down.label "Bas">
+<!ENTITY down.accesskey "B">
+<!ENTITY direction.label "Direccion">

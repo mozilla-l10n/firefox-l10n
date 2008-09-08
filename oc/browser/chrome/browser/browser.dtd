@@ -1,0 +1,301 @@
+<!ENTITY mainWindow.title "&brandFullName;">
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!ENTITY mainWindow.titlemodifiermenuseparator "-">
+<!ENTITY tabCmd.label "Onglet novèl">
+<!ENTITY tabCmd.accesskey "O">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Dobrir un emplaçament...">
+<!ENTITY openLocationCmd.accesskey "e">
+<!ENTITY openFileCmd.label "Dobrir un fichièr...">
+<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Mesa en pagina...">
+<!ENTITY printSetupCmd.accesskey "M">
+<!ENTITY printPreviewCmd.label "Apercebut abans estampatge">
+<!ENTITY printPreviewCmd.accesskey "b">
+<!ENTITY printCmd.label "Estampar...">
+<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Importar…">
+<!ENTITY import.accesskey "I">
+<!ENTITY goOfflineCmd.label "Trabalhar desconnectat">
+<!ENTITY goOfflineCmd.accesskey "c">
+<!ENTITY navbarCmd.label "Barra de navigacion">
+<!ENTITY navbarCmd.accesskey "n">
+<!ENTITY personalbarCmd.label "Barra de marcapaginas">
+<!ENTITY personalbarCmd.accesskey "s">
+<!ENTITY bookmarksToolbarItem.label "Elements de la barra personala">
+<!ENTITY taskbarCmd.label "Barra d'estat">
+<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY pageSourceCmd.label "Font de la pagina">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "g">
+<!ENTITY pageInfoCmd.label "Entresenhas sus la pagina">
+<!ENTITY pageInfoCmd.accesskey "E">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Ecran complet">
+<!ENTITY fullScreenCmd.accesskey "c">
+<!ENTITY fullScreenMinimize.tooltip "Minimizar">
+<!ENTITY fullScreenRestore.tooltip "Restablir">
+<!ENTITY fullScreenClose.tooltip "Tampar">
+<!ENTITY fullScreenAutohide.label "Amagar las barras d'espleches">
+<!ENTITY fullScreenAutohide.accesskey "A">
+<!ENTITY fullScreenExit.label "Sortir del mòde ecran complet">
+<!ENTITY fullScreenExit.accesskey "c">
+<!ENTITY closeWindow.label "Tampar la fenèstra">
+<!ENTITY closeWindow.accesskey "f">
+<!ENTITY bookmarksMenu.label "Marcapaginas">
+<!ENTITY bookmarksMenu.accesskey "M">
+<!ENTITY bookmarkThisPageCmd.label "Marcar aquesta pagina">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
+<!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
+<!ENTITY addCurPagesCmd.label "Marcar totes los marcapaginas…">
+<!ENTITY organizeBookmarks.label "Organizar los marcapaginas...">
+<!ENTITY bookmarkAllCmd.label "Marcar totes los marcapaginas…">
+<!ENTITY backCmd.label "Pagina precedenta">
+<!ENTITY backCmd.accesskey "p">
+<!ENTITY backButton.tooltip "Recuolar d'una pagina">
+<!ENTITY forwardCmd.label "Pagina seguenta">
+<!ENTITY forwardCmd.accesskey "s">
+<!ENTITY forwardButton.tooltip "Avançar d'una pagina">
+<!ENTITY backForwardMenu.tooltip "Paginas recentas">
+<!ENTITY reloadCmd.label "Tornar cargar">
+<!ENTITY reloadCmd.accesskey "T">
+<!ENTITY reloadButton.tooltip "Actualizar la pagina activa">
+<!ENTITY stopCmd.label "Arrestar">
+<!ENTITY stopCmd.accesskey "s">
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY stopButton.tooltip "Arrestar de cargar la pagina">
+<!ENTITY goEndCap.tooltip "Anar a l'adreça que i a dins la barra d'emplaçament">
+<!ENTITY printButton.label "Estampar">
+<!ENTITY printButton.tooltip "Estampar la pagina">
+<!ENTITY locationItem.title "Emplaçament">
+<!ENTITY searchItem.title "Recercar">
+<!ENTITY throbberItem.title "Indicador d'activitat">
+<!ENTITY bookmarksItem.title "Marcapaginas">
+<!ENTITY homeButton.label "Acuèlh">
+<!ENTITY bookmarksButton.label "Marcapaginas">
+<!ENTITY bookmarksButton.tooltip "Visualizar los marcapaginas">
+<!ENTITY bookmarksSidebarCmd.accesskey "m">
+<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+<!ENTITY historyButton.label "Istoric">
+<!ENTITY historyButton.tooltip "Visualizar las paginas visitadas recentament">
+<!ENTITY historySidebarCmd.accesskey "s">
+<!ENTITY historySidebarCmd.commandKey "h">
+<!ENTITY toolsMenu.label "Espleches">
+<!ENTITY toolsMenu.accesskey "E">
+<!ENTITY keywordfield.label "Apondre un mot clau per aquesta recèrca...">
+<!ENTITY keywordfield.accesskey "c">
+<!ENTITY search.label "Recercar sus internet">
+<!ENTITY search.accesskey "R">
+<!ENTITY downloads.label "Telecargaments">
+<!ENTITY downloads.tooltip "Visualizar l'avançament dels telecargaments en cors">
+<!ENTITY downloads.accesskey "g">
+<!ENTITY downloads.commandkey "j">
+<!ENTITY downloadsUnix.commandkey "y">
+<!ENTITY addons.label "Moduls complementaris">
+<!ENTITY addons.tooltip "Visualizar e gerir los moduls installats">
+<!ENTITY addons.accesskey "e">
+<!ENTITY errorConsoleCmd.label "Consòla d'errors">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY fileMenu.label "Fichièr">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newNavigatorCmd.label "Fenèstra novèla">
+<!ENTITY newNavigatorCmd.key "n">
+<!ENTITY newNavigatorCmd.accesskey "n">
+<!ENTITY editMenu.label "Edicion">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "Anullar">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "Tornar far">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "T">
+<!ENTITY cutCmd.label "Copar">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "p">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Empegar">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY deleteCmd.label "Suprimir">
+<!ENTITY deleteCmd.key "S">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY selectAllCmd.label "Seleccionar tot">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY preferencesCmd.label "Opcions…">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Preferéncias">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY clearPrivateDataCmd.label "Voidar las donadas privadas">
+<!ENTITY clearPrivateDataCmd.accesskey "p">
+<!ENTITY viewMenu.label "Visualizacion">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewToolbarsMenu.label "Barras d'espleches">
+<!ENTITY viewToolbarsMenu.accesskey "p">
+<!ENTITY viewSidebarMenu.label "Panèl lateral">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label "Personalizar...">
+<!ENTITY viewCustomizeToolbar.accesskey "P">
+<!ENTITY historyMenu.label "Istoric">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "Onglets tampats recentament">
+<!ENTITY historyHomeCmd.label "Acuèlh">
+<!ENTITY showAllHistoryCmd2.label "Visualizar tot l'istoric">
+<!ENTITY showAllHistoryCmd.commandkey "i">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY urlbar.emptyText "Recercar dins los marcapaginas e l'istoric">
+<!ENTITY urlbar.accesskey "d">
+<!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
+<!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY openLinkCmd.label "Dobrir lo ligam dins una fenèstra novèla">
+<!ENTITY openLinkCmd.accesskey "f">
+<!ENTITY openLinkCmdInTab.label "Dobrir lo ligam dins un onglet novèl">
+<!ENTITY openLinkCmdInTab.accesskey "o">
+<!ENTITY openFrameCmd.label "Dobrir lo quadre dins una fenèstra novèla">
+<!ENTITY openFrameCmd.accesskey "f">
+<!ENTITY openFrameCmdInTab.label "Dobrir lo quadre dins un onglet novèl">
+<!ENTITY openFrameCmdInTab.accesskey "o">
+<!ENTITY showOnlyThisFrameCmd.label "Visualizar pas qu'aqueste quadre">
+<!ENTITY showOnlyThisFrameCmd.accesskey "V">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadFrameCmd.label "Tornar cargar lo quadre">
+<!ENTITY reloadFrameCmd.accesskey "T">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Visualizar lo còde font de la seleccion">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Visualizar la font MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "f">
+<!ENTITY viewPageSourceCmd.label "Visualizar lo còde font de la pagina">
+<!ENTITY viewPageSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.label "Visualizar lo còde font del quadre">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label "Visualizar las entresenhas de la pagina">
+<!ENTITY viewPageInfoCmd.accesskey "e">
+<!ENTITY viewFrameInfoCmd.label "Visualizar las entresenhas del quadre">
+<!ENTITY viewFrameInfoCmd.accesskey "e">
+<!ENTITY showImageCmd.label "Afichar l'imatge">
+<!ENTITY showImageCmd.accesskey "V">
+<!ENTITY viewImageCmd.label "Visualizar l'imatge">
+<!ENTITY viewImageCmd.accesskey "i">
+<!ENTITY viewBGImageCmd.label "Visualizar l'imatge de fons">
+<!ENTITY viewBGImageCmd.accesskey "v">
+<!ENTITY setDesktopBackgroundCmd.label "Definir coma fons d'ecran...">
+<!ENTITY setDesktopBackgroundCmd.accesskey "D">
+<!ENTITY bookmarkPageCmd2.label "Marcar aquesta pagina">
+<!ENTITY bookmarkPageCmd2.accesskey "M">
+<!ENTITY bookmarkThisLinkCmd.label "Marcar aqueste ligam">
+<!ENTITY bookmarkThisLinkCmd.accesskey "l">
+<!ENTITY bookmarkThisFrameCmd.label "Marcar aqueste quadre">
+<!ENTITY bookmarkThisFrameCmd.accesskey "M">
+<!ENTITY sendPageCmd.label "Mandar un ligam cap a la pagina...">
+<!ENTITY sendPageCmd.accesskey "n">
+<!ENTITY savePageCmd.label "Enregistrar la pagina jos...">
+<!ENTITY savePageCmd.accesskey "E">
+<!ENTITY savePageCmd.accesskey2 "E">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameCmd.label "Enregistrar lo quadre jos...">
+<!ENTITY saveFrameCmd.accesskey "F">
+<!ENTITY printFrameCmd.label "Estampar lo quadre...">
+<!ENTITY printFrameCmd.accesskey "E">
+<!ENTITY saveLinkCmd.label "Enregistrar la cibla del ligam jos...">
+<!ENTITY saveLinkCmd.accesskey "E">
+<!ENTITY sendLinkCmd.label "Mandar lo ligam...">
+<!ENTITY sendLinkCmd.accesskey "n">
+<!ENTITY saveImageCmd.label "Enregistrar l'imatge jos...">
+<!ENTITY saveImageCmd.accesskey "s">
+<!ENTITY sendImageCmd.label "Mandar l'imatge...">
+<!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY copyLinkCmd.label "Copiar l'adreça del ligam">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyLinkTextCmd.label "Copiar lo tèxt del ligam">
+<!ENTITY copyLinkTextCmd.accesskey "x">
+<!ENTITY copyImageCmd.label "Copiar l'adreça de l'imatge">
+<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageContentsCmd.label "Copiar l'imatge">
+<!ENTITY copyImageContentsCmd.accesskey "i">
+<!ENTITY blockImageCmd.accesskey "g">
+<!ENTITY metadataCmd.label "Proprietats">
+<!ENTITY metadataCmd.accesskey "P">
+<!ENTITY copyEmailCmd.label "Copiar l'adreça electronica">
+<!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY thisFrameMenu.label "Aqueste quadre">
+<!ENTITY thisFrameMenu.accesskey "q">
+<!ENTITY fullZoomEnlargeCmd.label "Agrandir">
+<!ENTITY fullZoomEnlargeCmd.accesskey "A">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.label "Reduire">
+<!ENTITY fullZoomReduceCmd.accesskey "R">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label "Tornar inicializar">
+<!ENTITY fullZoomResetCmd.accesskey "I">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomToggleCmd.label "Zoom tèxt solament">
+<!ENTITY fullZoomToggleCmd.accesskey "t">
+<!ENTITY fullZoom.label "Zoom">
+<!ENTITY fullZoom.accesskey "Z">
+<!ENTITY newTabButton.tooltip "Dobrir un onglet novèl">
+<!ENTITY newWindowButton.tooltip "Dobrir una fenèstra novèla">
+<!ENTITY sidebarCloseButton.tooltip "Tampar la barra laterala">
+<!ENTITY cutButton.tooltip "Copar">
+<!ENTITY copyButton.tooltip "Copiar">
+<!ENTITY pasteButton.tooltip "Empegar">
+<!ENTITY quitApplicationCmdWin.label "Sortir">
+<!ENTITY quitApplicationCmdWin.accesskey "t">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label "Sortir">
+<!ENTITY quitApplicationCmd.accesskey "t">
+<!ENTITY quitApplicationCmdMac.label "Sortir de &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key "t">
+<!ENTITY closeCmd.label "Tampar">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "a">
+<!ENTITY pageStyleMenu.label "Estil de la pagina">
+<!ENTITY pageStyleMenu.accesskey "i">
+<!ENTITY pageStyleNoStyle.label "Pas cap d'estil">
+<!ENTITY pageStyleNoStyle.accesskey "P">
+<!ENTITY pageStylePersistentOnly.label "Estil de pagina basic">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageReportIcon.tooltip "Modificar los paramètres de blocatge de las fenèstras sorgissentas d'aqueste sit">
+<!ENTITY allowPopups.accesskey "s">
+<!ENTITY editPopupSettingsUnix.label "Modificar las preferéncias de blocatge de las fenèstras sorgissentas...">
+<!ENTITY editPopupSettings.label "Modificar las opcions de blocatge de las fenèstras sorgissentas...">
+<!ENTITY editPopupSettings.accesskey "M">
+<!ENTITY dontShowMessage.accesskey "u">
+<!ENTITY bidiSwitchPageDirectionItem.label "Modificar lo sens de la pagina">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchTextDirectionItem.label "Modificar lo sens del tèxt">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "c">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY findOnCmd.label "Recercar dins la pagina...">
+<!ENTITY findOnCmd.accesskey "R">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Recercar tornamai">
+<!ENTITY findAgainCmd.accesskey "t">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY spellAddDictionaries.label "Apondre de diccionaris...">
+<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY editBookmark.done.label "Acabar">
+<!ENTITY editBookmark.cancel.label "Anullar">
+<!ENTITY editBookmark.removeBookmark.label "Suprimir lo marcapaginas">
+<!ENTITY editBookmark.removeBookmark.accessKey "S">
+<!ENTITY editBookmark.undo.label "Anullar">
+<!ENTITY editBookmark.undo.accessKey "u">
+<!ENTITY editBookmark.edit.label "Modificar...">
+<!ENTITY editBookmark.edit.accessKey "M">
+<!ENTITY identity.unverifiedsite2 "Aqueste sit balha pas d'entresenha sus son identitat">
+<!ENTITY identity.connectedTo "Sètz connectat a">
+<!ENTITY identity.runBy "que lo detentor n'es">
+<!ENTITY identity.moreInfoLinkText "Mai d'entresenhas...">
+<!ENTITY downloadMonitor2.tooltip "Clicatz per dobrir la fenèstra dels telecargaments">

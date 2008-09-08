@@ -1,0 +1,8 @@
+<!ENTITY printWindow.title "Estampatge">
+<!ENTITY title "Títol :">
+<!ENTITY progress "Progression :">
+<!ENTITY preparing "Preparacion…">
+<!ENTITY printComplete "L'estampatge es acabat.">
+<!ENTITY dialogCancel.label "Anullar">
+<!ENTITY dialogClose.label "Tampar">
+<!ENTITY percentPrint "#1&#037;">

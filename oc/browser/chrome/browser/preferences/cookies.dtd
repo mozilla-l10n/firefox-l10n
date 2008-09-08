@@ -1,0 +1,24 @@
+<!ENTITY window.width "36em">
+<!ENTITY cookiesonsystem.label "Los cookies seguents son estocats sus vòstre ordenador :">
+<!ENTITY cookiename.label "Nom del cookie">
+<!ENTITY cookiedomain.label "Sit">
+<!ENTITY button.removecookie.label "Suprimir lo Cookie">
+<!ENTITY button.removecookie.accesskey "S">
+<!ENTITY button.removeallcookies.label "Suprimir totes los Cookies">
+<!ENTITY button.removeallcookies.accesskey "T">
+<!ENTITY props.name.label "Nom :">
+<!ENTITY props.value.label "Contengut :">
+<!ENTITY props.domain.label "Òste :">
+<!ENTITY props.path.label "Camin :">
+<!ENTITY props.secure.label "Mandat per :">
+<!ENTITY props.expires.label "Expira :">
+<!ENTITY window.title "Cookies">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.label "Recercar :">
+<!ENTITY filter.accesskey "R">
+<!ENTITY clear.label "Voidar">
+<!ENTITY clear.accesskey "V">
+<!ENTITY button.close.label "Tampar">
+<!ENTITY button.close.accesskey "T">

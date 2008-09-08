@@ -1,0 +1,8 @@
+<!ENTITY history.title "Istoric de las mesas a jorn">
+<!ENTITY history.intro "Las mesas a jorn seguentas son estadas installadas :">
+<!ENTITY closebutton.label "Tampar">
+<!ENTITY noupdates.label "Cap de mesa a jorn es pas encara estada installada">
+<!ENTITY name.header "Nom de la mesa a jorn">
+<!ENTITY date.header "Data d'installacion">
+<!ENTITY type.header "Tipe">
+<!ENTITY state.header "Estat">

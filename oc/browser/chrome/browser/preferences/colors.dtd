@@ -1,0 +1,19 @@
+<!ENTITY colorsDialog.title "Colors">
+<!ENTITY window.width "38em">
+<!ENTITY window.macWidth "41em">
+<!ENTITY allowPagesToUse.label "Autorizar las paginas a causir lors pròpias colors al luòc de mas causidas çai-sus">
+<!ENTITY allowPagesToUse.accesskey "A">
+<!ENTITY color "Tèxt e fons">
+<!ENTITY textColor.label "Tèxt :">
+<!ENTITY textColor.accesskey "t">
+<!ENTITY backgroundColor.label "Fons :">
+<!ENTITY backgroundColor.accesskey "F">
+<!ENTITY useSystemColors.label "Utilizar las colors del sistèma">
+<!ENTITY useSystemColors.accesskey "S">
+<!ENTITY underlineLinks.label "Soslinhar los ligams">
+<!ENTITY underlineLinks.accesskey "o">
+<!ENTITY links "Colors dels ligams">
+<!ENTITY linkColor.label "Ligams pas visitats :">
+<!ENTITY linkColor.accesskey "l">
+<!ENTITY visitedLinkColor.label "Ligams visitats :">
+<!ENTITY visitedLinkColor.accesskey "v">

@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "A prepaus de &brandFullName;">
+<!ENTITY copyright "Contributors">
+<!ENTITY copyright.accesskey "C">
+<!ENTITY aboutLink "&lt; A prepaus de &brandFullName;">
+<!ENTITY aboutLink.accesskey "A">
+<!ENTITY aboutVersion "version">
+<!ENTITY copyrightInfo "©1998-2008 Contributors. Totes los dreches reservats. Firefox e sos lògos 
+                                 son de marcas de la fondacion Mozilla. Totes los dreches 
+                                 reservats.">

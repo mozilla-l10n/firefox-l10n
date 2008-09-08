@@ -1,0 +1,10 @@
+<!ENTITY header.label "Títol cort">
+<!ENTITY message.label "Vaquí un tèxt d'exemple">
+<!ENTITY editfield0.label "Utilizaire :">
+<!ENTITY editfield1.label "Senhal :">
+<!ENTITY editfield2.label "Confirmar lo senhal :">
+<!ENTITY checkbox.label "Verificar">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Seleccionar tot">
+<!ENTITY selectAllCmd.accesskey "T">

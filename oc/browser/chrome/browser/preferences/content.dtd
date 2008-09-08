@@ -1,0 +1,27 @@
+<!ENTITY blockPopups.label "Blocar las fenèstras sorgissentas">
+<!ENTITY blockPopups.accesskey "B">
+<!ENTITY popupExceptions.label "Excepcions…">
+<!ENTITY popupExceptions.accesskey "E">
+<!ENTITY loadImages.label "Cargar automaticament los imatges">
+<!ENTITY loadImages.accesskey "I">
+<!ENTITY exceptions.label "Excepcions…">
+<!ENTITY exceptions.accesskey "x">
+<!ENTITY enableJavaScript.label "Activar JavaScript">
+<!ENTITY enableJavaScript.accesskey "J">
+<!ENTITY advancedJS.label "Avançat…">
+<!ENTITY advancedJS.accesskey "v">
+<!ENTITY enableJava.label "Activar Java">
+<!ENTITY enableJava.accesskey "v">
+<!ENTITY fontsAndColors.label "Poliças e colors">
+<!ENTITY defaultFont.label "Poliça per defaut :">
+<!ENTITY defaultFont.accesskey "d">
+<!ENTITY defaultSize.label "Talha :">
+<!ENTITY defaultSize.accesskey "T">
+<!ENTITY advancedFonts.label "Avançat...">
+<!ENTITY advancedFonts.accesskey "A">
+<!ENTITY colors.label "Colors…">
+<!ENTITY colors.accesskey "C">
+<!ENTITY languages.label "Lengas">
+<!ENTITY chooseLanguage.label "Causissètz vòstra lenga preferida per visualizar las paginas">
+<!ENTITY chooseButton.label "Causir...">
+<!ENTITY chooseButton.accesskey "a">

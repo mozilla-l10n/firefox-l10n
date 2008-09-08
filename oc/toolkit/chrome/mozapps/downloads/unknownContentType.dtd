@@ -1,0 +1,16 @@
+<!ENTITY intro.label "Avètz causit de dobrir">
+<!ENTITY from.label "a partir de :">
+<!ENTITY actionQuestion.label "Qué deu far &brandShortName; amb aqueste fichièr ?">
+<!ENTITY openWith.label "Dobrir amb">
+<!ENTITY openWith.accesskey "D">
+<!ENTITY other.label "Autre…">
+<!ENTITY saveFile.label "Enregistrar lo fichièr">
+<!ENTITY saveFile.accesskey "e">
+<!ENTITY rememberChoice.label "Efectuar totjorn aquesta accion per aqueste tipe de fichièr.">
+<!ENTITY rememberChoice.accesskey "T">
+<!ENTITY whichIsA.label "qu'es un fichièr de tipe :">
+<!ENTITY chooseHandlerMac.label "Causir...">
+<!ENTITY chooseHandlerMac.accesskey "C">
+<!ENTITY chooseHandler.label "Percórrer...">
+<!ENTITY chooseHandler.accesskey "P">
+<!ENTITY unknownPromptText.label "Volètz enregistrar aqueste fichièr ?">

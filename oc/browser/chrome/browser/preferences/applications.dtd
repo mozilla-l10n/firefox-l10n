@@ -1,0 +1,10 @@
+<!ENTITY typeColumn.label "Mena de contengut">
+<!ENTITY typeColumn.accesskey "M">
+<!ENTITY actionColumn2.label "Accion">
+<!ENTITY actionColumn2.accesskey "A">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.label "Recercar :">
+<!ENTITY filter.accesskey "R">
+<!ENTITY clear.label "Voidar">
+<!ENTITY clear.accesskey "d">

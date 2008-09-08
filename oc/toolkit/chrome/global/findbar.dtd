@@ -1,0 +1,12 @@
+<!ENTITY next.label "Seguent">
+<!ENTITY next.accesskey "S">
+<!ENTITY next.tooltip "Tròba l'ocurréncia venenta de la frasa">
+<!ENTITY previous.label "Precedent">
+<!ENTITY previous.accesskey "P">
+<!ENTITY previous.tooltip "Tròba l'occurréncia precedenta de la frasa">
+<!ENTITY findCloseButton.tooltip "Tampar la Barra de recèrca">
+<!ENTITY highlight.label "Suslinhar tot">
+<!ENTITY highlight.accesskey "u">
+<!ENTITY highlight.tooltiptext "Suslinhar totas las occurréncias de la frasa">
+<!ENTITY caseSensitiveCheckbox.label "Respectar la cassa">
+<!ENTITY caseSensitiveCheckbox.accesskey "R">

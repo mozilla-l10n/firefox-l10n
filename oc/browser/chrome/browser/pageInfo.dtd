@@ -1,0 +1,73 @@
+<!ENTITY pageInfoWindow.width "600">
+<!ENTITY pageInfoWindow.height "500">
+<!ENTITY copy.key "C">
+<!ENTITY copy.label "Copiar">
+<!ENTITY copy.accesskey "C">
+<!ENTITY selectall.key "A">
+<!ENTITY selectall.label "Seleccionar tot">
+<!ENTITY selectall.accesskey "T">
+<!ENTITY closeWindow.key "w">
+<!ENTITY generalTab "General">
+<!ENTITY generalTab.accesskey "G">
+<!ENTITY generalURL "Adreça :">
+<!ENTITY generalType "Tipe :">
+<!ENTITY generalMode "Mòde de rendut :">
+<!ENTITY generalSize "Talha :">
+<!ENTITY generalReferrer "URL de provenença :">
+<!ENTITY generalSource "Font de l'amagatal :">
+<!ENTITY generalModified "Modificat :">
+<!ENTITY generalEncoding "Encodatge :">
+<!ENTITY generalMetaName "Nom">
+<!ENTITY generalMetaContent "Contengut">
+<!ENTITY generalSecurityMore "Mai">
+<!ENTITY generalSecurityMore.accesskey "i">
+<!ENTITY mediaTab "Mèdia">
+<!ENTITY mediaTab.accesskey "M">
+<!ENTITY mediaLocation "Emplaçament :">
+<!ENTITY mediaText "Tèxt associat :">
+<!ENTITY mediaAltHeader "Tèxt alternatiu">
+<!ENTITY mediaAddress "Adreça">
+<!ENTITY mediaType "Tipe">
+<!ENTITY mediaSize "Talha">
+<!ENTITY mediaCount "Nombre">
+<!ENTITY mediaDimension "Dimensions :">
+<!ENTITY mediaLongdesc "Descripcion longa :">
+<!ENTITY mediaBlockImage.accesskey "B">
+<!ENTITY mediaSaveAs "Enregistrar jos...">
+<!ENTITY mediaSaveAs.accesskey "c">
+<!ENTITY mediaSaveAs2.accesskey "E">
+<!ENTITY mediaPreview "Apercebut del mèdia :">
+<!ENTITY feedTab "Fluses">
+<!ENTITY feedTab.accesskey "F">
+<!ENTITY feedSubscribe "S'abonar">
+<!ENTITY feedSubscribe.accesskey "S">
+<!ENTITY permTab "Permissions">
+<!ENTITY permTab.accesskey "P">
+<!ENTITY permUseDefault "Utilizar las valors per defaut">
+<!ENTITY permAllow "Autorizar">
+<!ENTITY permAllowSession "Autorizar pendent la sesilha">
+<!ENTITY permBlock "Blocar">
+<!ENTITY permissionsFor "Permissions per :">
+<!ENTITY permImage "Cargar los imatges">
+<!ENTITY permPopup "Dobrir de fenèstras sorgissentas">
+<!ENTITY permCookie "Definir de cookies">
+<!ENTITY permInstall "Installar d'extensions o de tèmas">
+<!ENTITY securityTab "Seguretat">
+<!ENTITY securityTab.accesskey "S">
+<!ENTITY securityHeader "Entresenhas de seguretat per aquesta pagina">
+<!ENTITY securityView.certView "Visualizar lo certificat">
+<!ENTITY securityView.accesskey "V">
+<!ENTITY securityView.unknown "Desconegut">
+<!ENTITY securityView.identity.header "Identitat del sit web">
+<!ENTITY securityView.identity.owner "Proprietari :">
+<!ENTITY securityView.identity.domain "Sit web :">
+<!ENTITY securityView.identity.verifier "Verificat per :">
+<!ENTITY securityView.privacy.header "Vida privada e istoric">
+<!ENTITY securityView.privacy.history "Ai ja visitat aqueste sit ?">
+<!ENTITY securityView.privacy.cookies "Aqueste sit web estòca d'entresenhas (cookies) sus mon ordenador ?">
+<!ENTITY securityView.privacy.viewCookies "Veire los cookies">
+<!ENTITY securityView.privacy.viewCookies.accessKey "k">
+<!ENTITY securityView.privacy.passwords "Ai enregistrat un senhal per aqueste sit web ?">
+<!ENTITY securityView.privacy.viewPasswords "Visualizar los senhals enregistrats">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "V">
+<!ENTITY securityView.technical.header "Detalhs tecnics">

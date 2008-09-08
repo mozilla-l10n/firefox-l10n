@@ -1,0 +1,19 @@
+<!ENTITY cutCmd.label "Copar">
+<!ENTITY cutCmd.accesskey "p">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Empegar">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY undoCmd.label "Anullar">
+<!ENTITY undoCmd.accesskey "A">
+<!ENTITY selectAllCmd.label "Seleccionar tot">
+<!ENTITY selectAllCmd.accesskey "T">
+<!ENTITY deleteCmd.label "Suprimir">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY spellAddToDictionary.label "Apondre al diccionari">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellCheckEnable.label "Verificar l'ortografia">
+<!ENTITY spellCheckEnable.accesskey "V">
+<!ENTITY spellNoSuggestions.label "(pas de mot suggerit)">
+<!ENTITY spellDictionaries.label "Lengas">
+<!ENTITY spellDictionaries.accesskey "g">

@@ -1,0 +1,26 @@
+<!ENTITY SSLProtocolVersions.caption "Versions del protocòl SSL">
+<!ENTITY SSLWarnings.caption "Avertiments SSL">
+<!ENTITY SSLClientAuthMethod.caption "Seleccion del certificat client">
+<!ENTITY pref.ssl.title "Protocòl SSL">
+<!ENTITY enable.ssl3 "Activar SSL version 3">
+<!ENTITY enable.ssl3.accesskey "3">
+<!ENTITY enable.tls "Activar TLS">
+<!ENTITY enable.tls.accesskey "T">
+<!ENTITY warn.description "&brandShortName; vos pòt avertir de l'estatut de seguretat de la pagina Web correnta. Reglar &brandShortName; per afichar un avertiment e me demandar la permission abans :">
+<!ENTITY warn.enteringsecure "d'entrar sus un sit que supòrta lo chiframent">
+<!ENTITY warn.enteringsecure.accesskey "e">
+<!ENTITY warn.enteringweak "d'entrar sus un sit qu'utiliza un chiframent de bas nivèl">
+<!ENTITY warn.enteringweak.accesskey "n">
+<!ENTITY warn.insecurepost "de mandar de donadas d'una pagina pas securizada a una pagina pas securizada">
+<!ENTITY warn.insecurepost.accesskey "m">
+<!ENTITY warn.leavingsecure "de quitar una pagina que supòrta lo chiframent de las donadas.">
+<!ENTITY warn.leavingsecure.accesskey "q">
+<!ENTITY warn.secureredirect "la redireccion d'un sit securizat cap a un autre sit securizat">
+<!ENTITY warn.secureredirecttoinsecure "la redireccion d'un sit securizat cap a un autre sit pas securizat">
+<!ENTITY warn.viewmixed "de veire una pagina que conten un mescladís de donadas chifradat e pas chifradas">
+<!ENTITY warn.viewmixed.accesskey "v">
+<!ENTITY certselect.description "Decidissètz cossí &brandShortName; selecciona un certificat de seguretat de presentar als sits Web que ne requerisson un :">
+<!ENTITY certselect.auto "Seleccionar automaticament">
+<!ENTITY certselect.auto.accesskey "a">
+<!ENTITY certselect.ask "Demandar a cada còp">
+<!ENTITY certselect.ask.accesskey "c">

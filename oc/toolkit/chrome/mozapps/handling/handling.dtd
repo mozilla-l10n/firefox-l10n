@@ -1,0 +1,5 @@
+<!ENTITY window.emWidth "26em">
+<!ENTITY window.emHeight "26em">
+<!ENTITY ChooseApp.description "Causir una aplicacion">
+<!ENTITY ChooseApp.label "Causir...">
+<!ENTITY ChooseApp.accessKey "C">

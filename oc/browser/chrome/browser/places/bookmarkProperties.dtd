@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Nom :">
+<!ENTITY bookmarks.name.accesskey "N">
+<!ENTITY bookmarks.location.label "Emplaçament :">
+<!ENTITY bookmarks.location.accesskey "E">
+<!ENTITY bookmarks.keyword.label "Mot clau :">
+<!ENTITY bookmarks.keyword.accesskey "c">
+<!ENTITY bookmarks.description.label "Descripcion :">
+<!ENTITY bookmarks.description.accesskey "D">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Títols dinamics">
+<!ENTITY bookmarks.createIn.label "Crear dins :">
+<!ENTITY bookmarks.createIn.accesskey "C">
+<!ENTITY bookmarks.feed_location.label "Emplaçament del flus :">
+<!ENTITY bookmarks.feed_location.accesskey "F">
+<!ENTITY bookmarks.site_location.label "Emplaçament del sit :">
+<!ENTITY bookmarks.site_location.accesskey "s">
+<!ENTITY bookmarks.loadInSidebar.label "Cargar aqueste marcapaginas dins lo panèl lateral">
+<!ENTITY bookmarks.loadInSidebar.accesskey "g">
+<!ENTITY bookmarks.expanderDown.tooltip "Visualizar totes los repertòri de marcapaginas">
+<!ENTITY bookmarks.expanderUp.tooltip "Amagar">
+<!ENTITY bookmarks.newFolderButton.label "Dorsièr novèl">
+<!ENTITY bookmarks.newFolderButton.accesskey "e">

@@ -1,0 +1,17 @@
+<!ENTITY printJobOptions.title "Proprietats de l'estampaira">
+<!ENTITY paperInput.label "Talha del papièr :">
+<!ENTITY plexInput.label "Mòde de distribucion :">
+<!ENTITY resolutionInput.label "Resolucion/qualitat :">
+<!ENTITY cmdInput.label "Comanda d'estampatge :">
+<!ENTITY jobTitleInput.label "Títol del document :">
+<!ENTITY colorGroup.label "Color :">
+<!ENTITY grayRadio.label "Nivèls de gris">
+<!ENTITY colorRadio.label "Color">
+<!ENTITY colorspaceInput.label "Espaci de colors :">
+<!ENTITY fontsGroup.label "Poliças :">
+<!ENTITY downloadFonts.label "Telecargar las poliças cap a l'estampaira ?">
+<!ENTITY edgeMarginInput.label "Espaci entre lo bòrd del papièr e los marges">
+<!ENTITY topInput.label "Naut :">
+<!ENTITY bottomInput.label "Bas :">
+<!ENTITY leftInput.label "Esquèrra :">
+<!ENTITY rightInput.label "Drecha :">

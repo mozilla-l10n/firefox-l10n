@@ -1,0 +1,32 @@
+<!ENTITY history.label "Istoric">
+<!ENTITY rememberDaysBefore.label "Gardar mon istoric al mens">
+<!ENTITY rememberDaysBefore.accesskey "i">
+<!ENTITY rememberDaysAfter2.label "jorns">
+<!ENTITY rememberForms.label "Memorizar çò qu'ai picat dins los formularis e la barra de recèrca">
+<!ENTITY rememberForms.accesskey "S">
+<!ENTITY rememberDownloads.label "Memorizar çò qu'ai telecargat">
+<!ENTITY rememberDownloads.accesskey "t">
+<!ENTITY cookies.label "Cookies">
+<!ENTITY acceptCookies.label "Acceptar de cookies de sits">
+<!ENTITY acceptCookies.accesskey "c">
+<!ENTITY acceptThirdParty.label "Acceptar los cookies tèrces">
+<!ENTITY acceptThirdParty.accesskey "t">
+<!ENTITY keepUntil.label "Gardar fins :">
+<!ENTITY keepUntil.accesskey "G">
+<!ENTITY expire.label "lor expiracion">
+<!ENTITY close.label "la tampadura de &brandShortName;">
+<!ENTITY askEachTime.label "me demandar cada còp">
+<!ENTITY cookieExceptions.label "Excepcions…">
+<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY showCookies.label "Visualizar los cookies...">
+<!ENTITY showCookies.accesskey "v">
+<!ENTITY privateData.label "Donadas privadas">
+<!ENTITY alwaysClear.label "Totjorn escafar mas entresenhas personalas quand tampi &brandShortName;">
+<!ENTITY alwaysClear.accesskey "T">
+<!ENTITY askBeforeClear.label "Me demandar abans de voidar las donadas privadas">
+<!ENTITY askBeforeClear.accesskey "d">
+<!ENTITY clearDataSettings.label "Paramètres...">
+<!ENTITY clearDataSettings.accesskey "t">
+<!ENTITY clearDataNow.label "Voidar ara...">
+<!ENTITY clearDataNow.label2 "Voidar ara">
+<!ENTITY clearDataNow.accesskey "a">
