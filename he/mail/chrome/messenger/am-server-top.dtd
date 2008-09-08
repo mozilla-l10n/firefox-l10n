@@ -44,7 +44,6 @@
 <!ENTITY username.label "שם המשתמש שלך">
 <!ENTITY popServerTitle.label "מידע על שרת POP">
 <!ENTITY deleteMessagePrefix.label "כאשר אני מוחק הודעה:">
-<!-- ### ENTITY deleteMessagePrefix.accesskey "כ" -->
 <!ENTITY modelMoveToTrash.label "העבר לתיקיית אשפה">
 <!ENTITY modelMoveToTrash.accesskey "א">
 <!ENTITY modelMarkDeleted.label "סמן כמחוקה">

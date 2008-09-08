@@ -162,7 +162,7 @@
 <!ENTITY windowMenu.label "חלון">
 <!ENTITY helpMenu.label "עזרה">
 <!ENTITY helpMenu.accesskey "ז">
-<!ENTITY releaseCmd.label "הערות הפצה">
+<!ENTITY releaseCmd.label "הערות שחרור">
 <!ENTITY releaseCmd.accesskey "ה">
 <!ENTITY hintsAndTips.label "עזרה של &brandShortName;">
 <!ENTITY hintsAndTips.accesskey "ע">
