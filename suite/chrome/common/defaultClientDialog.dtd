@@ -1,0 +1,7 @@
+<!ENTITY defaultClient.title "Cliente por omisión">
+<!ENTITY defaultClient.intro "Usar &brandShortName; como cliente por omisión para:">
+<!ENTITY browser.label "Navegador">
+<!ENTITY email.label "Correo-e">
+<!ENTITY newsgroups.label "Grupos de noticias">
+<!ENTITY checkOnStartup.label "Hacer siempre esta comprobación al iniciar &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "H">
