@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName "Recherche Windows">
+<!ENTITY searchIntegration.title "&searchIntegration.engineName; intégrée">
+<!ENTITY searchIntegration.description "Voulez autoriser la &searchIntegration.engineName; à indexer et rechercher dans &brandShortName; les courriels et les messages des groupes de discussion ?">
+
+<!ENTITY searchIntegration.accept "Activer la &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Ne pas activer la &searchIntegration.engineName;">
