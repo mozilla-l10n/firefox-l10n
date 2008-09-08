@@ -538,6 +538,7 @@
 <!ENTITY searchFromMenu.label "Expéditeur">
 <!ENTITY searchSubjectOrFromMenu.label "Sujet ou Expéditeur">
 <!ENTITY searchRecipient.label "Pour ou Copie à">
+<!ENTITY searchSubjectOrRecipientMenu.label "Sujet, Pour ou Copie à">
 <!ENTITY searchMessageBody.label "Message complet">
 <!ENTITY saveAsVirtualFolderMenu.label "Sauver la recherche comme dossier…">
 
