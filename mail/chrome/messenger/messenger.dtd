@@ -502,6 +502,7 @@
 <!ENTITY searchFromMenu.label "Remitente">
 <!ENTITY searchSubjectOrFromMenu.label "Asunto o remitente">
 <!ENTITY searchRecipient.label "Para o CC">
+<!ENTITY searchSubjectOrRecipientMenu.label "Asunto, Para o Cc">
 <!ENTITY searchMessageBody.label "Cuerpo del mensaje">
 <!ENTITY saveAsVirtualFolderMenu.label "Guardar la búsqueda como una carpeta…">
 <!ENTITY threadColumn.label "Conversación">
