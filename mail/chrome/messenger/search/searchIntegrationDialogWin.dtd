@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName "Windows Search">
+<!ENTITY searchIntegration.title "Služba &searchIntegration.engineName;">
+<!ENTITY searchIntegration.description "Chcete umožnit službě &searchIntegration.engineName; indexovat a vyhledávat v poště a diskuzích aplikace &brandShortName;?">
+
+<!ENTITY searchIntegration.accept "Povolit &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Nepovolovat &searchIntegration.engineName;">

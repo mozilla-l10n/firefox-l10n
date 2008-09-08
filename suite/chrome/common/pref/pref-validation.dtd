@@ -19,7 +19,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Terry Hayes <thayes@netscape.com>
+   -   David P. Drinan (ddrinan@netscape.com)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,8 +35,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pageInfo.securityTab "Zabezpečení">
-<!ENTITY pageInfo.securityTab.accesskey "Z">
-<!ENTITY pageInfo.securityHeader "Informace o zabezpečení této stránky">
-<!ENTITY pageInfo.view.label "Zobrazit">
-<!ENTITY pageInfo.view.accesskey "b">
+<!ENTITY pref.validation.title "Ověřování platnosti">
+
+<!ENTITY validation.crl.caption "CRL">
+<!ENTITY validation.crl.description "Správce CRL (Certificate Revocation Lists) použijte pro správu seznamu zneplatněných certifikátů ve vaší databázi certifikátů.">
+<!ENTITY validation.managecrls.button "Zneplatnění…">
+<!ENTITY validation.managecrls.accesskey "Z">
+
+<!ENTITY validation.ocsp.caption "OCSP">
+<!ENTITY enableOCSP.label "Používat protokol pro online ověření certifikátů (OCSP) k ověření platnosti certifikátů">
+<!ENTITY enableOCSP.accesskey "P">
+<!ENTITY certOCSP2.label "Ověřovat certifikáty, které mají zadán OCSP server">
+<!ENTITY certOCSP2.accesskey "O">
+<!ENTITY proxyOCSP2.label "Ověřovat všechny certifikáty pomocí tohoto OCSP serveru:">
+<!ENTITY proxyOCSP2.accesskey "v">
+<!ENTITY serviceURL.label "URL služby:">
+<!ENTITY serviceURL.accesskey "U">
+<!ENTITY signingCA.label "Podpis vydavatele:">
+<!ENTITY signingCA.accesskey "d">
+<!ENTITY validation.requireOCSP.description "Pokud se připojení k OCSP serveru nezdaří, považovat certifikát za neplatný">
+<!ENTITY validation.requireOCSP.accesskey "s">

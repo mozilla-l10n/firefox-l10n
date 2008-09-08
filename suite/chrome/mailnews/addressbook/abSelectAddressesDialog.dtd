@@ -34,11 +34,11 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
+
 <!-- Title -->
-
 <!ENTITY selectAddressWindow.title "Vybrané adresy">
-<!-- Buttons -->
 
+<!-- Buttons -->
 <!ENTITY toButton.label "Komu->">
 <!ENTITY toButton.accesskey "M">
 <!ENTITY ccButton.label "Kopie->">
@@ -55,11 +55,9 @@
 <!ENTITY lookIn.accesskey "D">
 <!ENTITY for.label "pro:">
 <!ENTITY for.accesskey "p">
-<!ENTITY clearButton.label "Vyčistit">
-<!ENTITY clearButton.accesskey "v">
 <!ENTITY addressMessageTo.label "Zaslat zprávu na:">
-<!-- Tooltips items -->  
 
+<!-- Tooltips items -->  
 <!ENTITY addressPickerNewButton.tooltip "Vytvoří nový kontakt">
 <!ENTITY addressPickerEditButton.tooltip "Upraví označený kontakt">
 

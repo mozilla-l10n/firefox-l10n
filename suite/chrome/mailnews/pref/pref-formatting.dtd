@@ -48,8 +48,8 @@
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Toto nastavení lze změnit u jednotlivé zprávy pomocí nabídky Formát.">
 <!ENTITY receiveHTML.label "Pokud víte, že konkrétní příjemce je schopen přijímat zprávy ve formátu HTML, odznačte v Kontaktu políčko 'Posílát zprávy jako prostý text'.">
-<!-- Html and Plain Text Domains  -->
 
+<!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title "Domény pro zasílání ve formátu HTML a v prostém textu">
 <!ENTITY domaindesc.label "Můžete zadat e-mailové domény (například netscape.net), o kterých víte, že mohou přijímat zprávy ve formátu HTML. Stejně tak můžete zadat i domény, které mohou příjímat pouze prostý text. Když pošlete zprávu na adresu v jedné z domén uvedených níže, bude formát zprávy automaticky upraven.">
 <!ENTITY HTMLdomaintitle.label "Domény pro HTML">
@@ -62,18 +62,14 @@
 <!ENTITY DeleteButton.label "Smazat">
 <!ENTITY DeleteHtmlDomain.accesskey "s">
 <!ENTITY DeletePlainText.accesskey "t">
-<!-- Add HTML Domain Name -->
 
+<!-- Add Domain Name -->
 <!ENTITY add.htmltitle "Přidat doménu pro HTML">
 <!ENTITY add.htmldomain "Název domény pro HTML:">
-<!ENTITY add.htmldomain.accesskey "d">
 <!ENTITY add.plaintexttitle "Přidat doménu pro prostý text">
 <!ENTITY add.plaintextdomain "Název domény pro prostý text:">
-<!ENTITY add.plaintext.accesskey "d">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
 
 <!ENTITY domainnameError.title "Chyba názvu domény">
-<!ENTITY duplicationError.label "Název domény @string@ již v tomto seznamu existuje.">
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
 
-<!ENTITY dualEntryError.label "Název domény @string@ již existuje. Název domény nemůže být uveden jak v seznamu pro formát HTML, tak v seznamu pro prostý text.">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY invalidEntryError.label "Název domény @string@ je neplatný a bude ignorován. Platný název musí obsahovat alespoň jeden znak '.' a další znaky po obou stranách.">

@@ -35,12 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.validation.title "Ověřování platnosti">
-
-<!ENTITY validation.crl.caption "CRL">
-<!ENTITY validation.crl.description "Správce CRL (Certificate Revocation Lists) použijte pro správu seznamu zneplatněných certifikátů ve vaší databázi certifikátů.">
-<!ENTITY validation.managecrls.button "Zneplatnění…">
-<!ENTITY validation.managecrls.accesskey "Z">
 <!ENTITY validation.crlmanager.label "Seznam zneplatněných certifikátů">
 <!ENTITY validation.crlmanager.description "Tento seznam zneplatněných certifikátů (CRL) je uložen ve vaší databázi certifikátů:">
 <!ENTITY validation.crlname.label "Název">
@@ -71,17 +65,3 @@
 <!ENTITY crl.autoupdate.fail.cnt.label "Selhání předchozích aktualizací: ">
 <!ENTITY crl.autoupdate.fail.reason.label "Detaily posledního selhání aktualizace: ">
 <!ENTITY edit.button "Nastavení">
-
-<!ENTITY validation.ocsp.caption "OCSP">
-<!ENTITY enableOCSP.label "Používat protokol pro online ověření certifikátů (OCSP) k ověření platnosti certifikátů">
-<!ENTITY enableOCSP.accesskey "P">
-<!ENTITY certOCSP2.label "Ověřovat certifikáty, které mají zadán OCSP server">
-<!ENTITY certOCSP2.accesskey "O">
-<!ENTITY proxyOCSP2.label "Ověřovat všechny certifikáty pomocí tohoto OCSP serveru:">
-<!ENTITY proxyOCSP2.accesskey "v">
-<!ENTITY serviceURL.label "URL služby:">
-<!ENTITY serviceURL.accesskey "U">
-<!ENTITY signingCA.label "Podpis vydavatele:">
-<!ENTITY signingCA.accesskey "d">
-<!ENTITY validation.requireOCSP.description "Pokud se připojení k OCSP serveru nezdaří, považovat certifikát za neplatný">
-<!ENTITY validation.requireOCSP.accesskey "s">

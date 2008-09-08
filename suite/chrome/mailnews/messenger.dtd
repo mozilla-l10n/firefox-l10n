@@ -422,7 +422,6 @@
 <!ENTITY markAllReadCmd.label "Vše přečtené">
 <!ENTITY markAllReadCmd.accesskey "V">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmdUnix.key "m">
 <!ENTITY markFlaggedCmd.label "Flag">
 <!ENTITY markFlaggedCmd.accesskey "F">
 <!ENTITY markFlaggedCmd.key "i">
@@ -492,7 +491,6 @@
 <!ENTITY mailToolbar.tooltip "Lišta pošty">
 <!ENTITY locationToolbar.tooltip "Lišta navigace">
 <!ENTITY advancedButton.tooltip "Rozšířené vyhledávání zpráv">
-<!ENTITY clearButton.tooltip "Smaže vyhledávací podmínky a zobrazí všechny zprávy">
 <!ENTITY getMsgButton.tooltip "Přijme nové zprávy">
 <!ENTITY newMsgButton.tooltip "Vytvoří novou zprávu">
 <!ENTITY replyButton.tooltip "Odpoví na zprávu">
@@ -577,8 +575,10 @@
 <!ENTITY folderContextSearchMessages.accesskey "H">
 <!ENTITY folderContextProperties.label "Vlastnosti…">
 <!ENTITY folderContextProperties.accesskey "V">
+<!ENTITY folderContextSettings.label "Nastavení…">
+<!ENTITY folderContextSettings.accesskey "s">
 
-<!---SearchBar-->
+<!-- SearchBar-->
 <!-- also used by addressbook -->
 <!ENTITY SearchSubjectOrFrom.label "Předmět nebo odesílatel obsahuje:">
 <!ENTITY SearchSubjectOrFrom.accesskey "S">
@@ -586,9 +586,6 @@
 <!ENTITY SearchNameOrEmail.accesskey "M">
 <!ENTITY advancedButton.label "Rozšířené…">
 <!ENTITY advancedButton.accesskey "R">
-
-<!ENTITY clearButton.label "Odstranit">
-<!ENTITY clearButton.accesskey "D">
 
 <!ENTITY all.label "Vše">
 <!ENTITY all.accesskey "V">

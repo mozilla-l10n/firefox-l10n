@@ -45,16 +45,17 @@
 
 <!ENTITY filterPrefs.label "Filtr:">
 <!ENTITY filterPrefs.accesskey "F">
-<!ENTITY showAll.label "Zobrazit vše">
-<!ENTITY showAll.accesskey "v">
+
 <!-- Columns -->
 <!ENTITY prefColumn.label "Název předvolby">
 <!ENTITY lockColumn.label "Stav">
 <!ENTITY typeColumn.label "Typ">
 <!ENTITY valueColumn.label "Hodnota">
+
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Klepnutím seřadíte">
 <!ENTITY columnChooser.tooltip "Klepnutím vyberte sloupce pro zobrazení">
+
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopírovat">
