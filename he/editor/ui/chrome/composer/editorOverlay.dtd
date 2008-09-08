@@ -76,7 +76,7 @@
 <!ENTITY createlink.accesskey "k">
 <!ENTITY cut.accesskey "t">
 <!ENTITY cutCmd.label "גזור">
-<!ENTITY debugMenu.label "איתור באגים">
+<!-- ### ENTITY debugMenu.label "איתור באגים" -->
 <!ENTITY decreaseFontSize.keybinding "-">
 <!ENTITY decreaseFontSize.label "קטן יותר">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "גודל גופן קטן יותר">
@@ -86,9 +86,9 @@
 <!ENTITY decreaseindentkb "-">
 <!ENTITY delete.accesskey "d">
 <!ENTITY deleteCmd.label "מחק">
-<!ENTITY dumpContentCmd.label "השלך עץ תכולה">
-<!ENTITY dumpRedoStack.label 'השלך מחסנית "בצע שוב"'>
-<!ENTITY dumpUndoStack.label 'רוקן מחסנית "ביטול פעולה"'>
+<!-- ### ENTITY dumpContentCmd.label "השלך עץ תכולה" -->
+<!-- ### ENTITY dumpRedoStack.label 'השלך מחסנית "בצע שוב"' -->
+<!-- ### ENTITY dumpUndoStack.label 'רוקן מחסנית "ביטול פעולה"' -->
 <!ENTITY editLinkCmd.label "ערוך קישור ב־Composer חדש">
 <!ENTITY editMenu.label "עריכה">
 <!ENTITY editRewrapCmd.label "בצע מחדש גלישת שורות">
@@ -109,8 +109,8 @@
 <!ENTITY editpastelink.accesskey "l">
 <!ENTITY editpastequotation.accesskey "q">
 <!ENTITY editpastequotation.keybinding "v">
-<!ENTITY executeJSTransactionViaEditor.label "הפעל פקודת JS דרך עורך">
-<!ENTITY executeJSTransactionViaTxmgr.label "בצע העברות JS דרך מנהל העברות">
+<!-- ### ENTITY executeJSTransactionViaEditor.label "הפעל פקודת JS דרך עורך" -->
+<!-- ### ENTITY executeJSTransactionViaTxmgr.label "בצע העברות JS דרך מנהל העברות" -->
 <!ENTITY exitCmd.label "יציאה">
 <!ENTITY exportToTextCmd.label "יצוא לטקסט...">
 <!ENTITY fileMenu.label "קובץ">
@@ -228,7 +228,7 @@
 <!ENTITY insertTOC.label "הוסף">
 <!ENTITY insertTableCmd.label "טבלה...">
 <!ENTITY insertTextAreaCmd.label "איזור טקסט...">
-<!ENTITY insertTextCmd.label "הוסף טקסט">
+<!-- ### ENTITY insertTextCmd.label "הוסף טקסט" -->
 <!ENTITY insertanchor.accesskey "A">
 <!ENTITY insertbreak.accesskey "b">
 <!ENTITY insertbreakall.accesskey "k">
@@ -270,7 +270,7 @@
 <!ENTITY menuBar.tooltip "סרגל תפריטים">
 <!ENTITY newBlankPage.accesskey "P">
 <!ENTITY newBlankPageCmd.label "דף Composer">
-<!ENTITY newEditorTestPage.label "Composer עם  דף נסיון">
+<!-- ### ENTITY newEditorTestPage.label "Composer עם  דף נסיון" -->
 <!ENTITY newMenu.label "חדש">
 <!ENTITY newToolbarCmd.tooltip "צור דף Composer חדש">
 <!ENTITY none.accesskey "N">
@@ -282,8 +282,8 @@
 <!ENTITY openToolbarCmd.tooltip "פתח קובץ מקומי">
 <!ENTITY openremoteCmd.label "פתח מקום ברשת...">
 <!ENTITY outdentToolbarCmd.tooltip "הוצא טקסט (הזז שמאל)">
-<!ENTITY outputHTMLCmd.label "פלט HTML">
-<!ENTITY outputTextCmd.label "פלט טקסט">
+<!-- ### ENTITY outputHTMLCmd.label "פלט HTML" -->
+<!-- ### ENTITY outputTextCmd.label "פלט טקסט" -->
 <!ENTITY pageProperties.label "כותרת הדף ומאפיינים...">
 <!ENTITY pageproperties.accesskey "g">
 <!ENTITY paragraphAddressCmd.label "כתובת">
@@ -334,8 +334,8 @@
 <!ENTITY redoCmd.label "בצע שוב">
 <!ENTITY removeTOC.accesskey "r">
 <!ENTITY removeTOC.label "הסר">
-<!ENTITY runLogCmd.label "הרץ יומן">
-<!ENTITY runUnitTestsCmd.label "הרץ בדיקות יחידה">
+<!-- ### ENTITY runLogCmd.label "הרץ יומן" -->
+<!-- ### ENTITY runUnitTestsCmd.label "הרץ בדיקות יחידה" -->
 <!ENTITY saveAsChangeEncodingCmd.label "שמור ושנה קידוד תוים">
 <!ENTITY saveAsCmd.label "שמור בשם...">
 <!ENTITY saveCmd.label "שמור">
@@ -344,8 +344,8 @@
 <!ENTITY selectall.accesskey "a">
 <!ENTITY sendPage.accesskey "d">
 <!ENTITY sendPageCmd.label "שלח דף...">
-<!ENTITY setFocusCmd.label "קבע מיקוד">
-<!ENTITY showEmbeddedCmd.label "הצג אוביקטים מוטבעים">
+<!-- ### ENTITY setFocusCmd.label "קבע מיקוד" -->
+<!-- ### ENTITY showEmbeddedCmd.label "הצג אוביקטים מוטבעים" -->
 <!ENTITY size-large.accesskey "l">
 <!ENTITY size-largeCmd.label "גדול">
 <!ENTITY size-medium.accesskey "d">
@@ -362,8 +362,8 @@
 <!ENTITY size-xx-smallCmd.label "קטן מאוד מאוד">
 <!ENTITY spellToolbarCmd.label "איות">
 <!ENTITY spellToolbarCmd.tooltip "בדוק איות של קטע נבחר או דף שלם">
-<!ENTITY startLogCmd.label "התחל רישום">
-<!ENTITY stopLogCmd.label "הפסק יומן">
+<!-- ### ENTITY startLogCmd.label "התחל רישום" -->
+<!-- ### ENTITY stopLogCmd.label "הפסק יומן" -->
 <!ENTITY structChangeTag.accesskey "c">
 <!ENTITY structChangeTag.label "שנה תגית">
 <!ENTITY structRemoveTag.accesskey "r">
@@ -451,11 +451,11 @@
 <!ENTITY tableselectmenu.accesskey "s">
 <!ENTITY tablesplitcell.accesskey "c">
 <!ENTITY tabletable.accesskey "t">
-<!ENTITY testDocumentCmd.label "בחן מסמך">
-<!ENTITY testSelectionCmd.label "בחן קטע נבחר">
-<!ENTITY testTableLayoutCmd.label "בחן עימוד טבלה">
+<!-- ### ENTITY testDocumentCmd.label "בחן מסמך" -->
+<!-- ### ENTITY testSelectionCmd.label "בחן קטע נבחר" -->
+<!-- ### ENTITY testTableLayoutCmd.label "בחן עימוד טבלה" -->
 <!ENTITY textColorCaption.label "צבע טקסט">
-<!ENTITY textEditorCmd.label "עורך טקסט רגיל">
+<!-- ### ENTITY textEditorCmd.label "עורך טקסט רגיל" -->
 <!ENTITY throbber.tooltip "לך לעמוד הבית של &vendorShortName;">
 <!ENTITY tocMenu.accesskey "b">
 <!ENTITY tocMenu.label "תוכן עניינים...">

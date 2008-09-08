@@ -12,8 +12,8 @@
 <!ENTITY formattingtb.accesskey "f">
 <!ENTITY helpMenu.label "עזרה">
 <!ENTITY statusText.label "טעינת דף הסתיימה">
-<!ENTITY taskbarCmd.accesskey "S">
-<!ENTITY taskbarCmd.label "שורת מצב">
-<!ENTITY textEditorWindow.titlemodifier "עורך טקסט">
+<!-- ### ENTITY taskbarCmd.accesskey "S" -->
+<!-- ### ENTITY taskbarCmd.label "שורת מצב" -->
+<!-- ### ENTITY textEditorWindow.titlemodifier "עורך טקסט" -->
 <!ENTITY viewMenu.label "תצוגה">
 <!ENTITY viewmenu.accesskey "v">

@@ -9,5 +9,5 @@
 <!ENTITY status.label "מפרסם...">
 <!ENTITY statusHeader.label "מצב">
 <!ENTITY succeeded.label "הצליח">
-<!ENTITY troubleshooting.accessKey "T">
-<!ENTITY troubleshooting.label "פיתרון בעיות">
+<!-- ### ENTITY troubleshooting.accessKey "T" -->
+<!-- ### ENTITY troubleshooting.label "פיתרון בעיות" -->
