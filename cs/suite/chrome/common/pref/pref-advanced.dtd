@@ -11,3 +11,6 @@
 <!ENTITY systemPrefCheck.accesskey "U">
 <!ENTITY systemPref.desc "Zaškrtnutím této možnosti se zdědí předvolby ze systému. Tím se přepíší předvolby aplikace &brandShortName;">
 
+<!ENTITY prefCheckDefault.caption "Nastavení systému">
+<!ENTITY prefCheckDefaultClient.label "Při startu kontrolovat nastavení výchozí aplikace">
+<!ENTITY prefCheckDefaultClient.accesskey "t">

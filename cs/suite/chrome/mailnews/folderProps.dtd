@@ -60,8 +60,8 @@
 <!ENTITY retentionDownloadMsg.label "Stahovat těla zpráv starších než">
 <!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Pro získání více místa na disku lze staré zprávy automaticky mazat">
-<!ENTITY retentionKeepMsg.label "Smazat zprávy starší než">
-<!ENTITY retentionKeepMsg.accesskey "s">
+<!ENTITY retentionDeleteMsg.label "Smazat zprávy starší než">
+<!ENTITY retentionDeleteMsg.accesskey "s">
 <!ENTITY retentionKeepAll.label "Nemazat žádné zprávy">
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepNew.label "Smazat vše mimo posledních">

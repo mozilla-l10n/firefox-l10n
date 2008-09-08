@@ -522,6 +522,8 @@
 <!ENTITY folderContextProperties.accesskey "V">
 <!ENTITY folderContextFavoriteFolder.label "Složka Oblíbené">
 <!ENTITY folderContextFavoriteFolder.accesskey "O">
+<!ENTITY folderContextSettings.label "Nastavení…">
+<!ENTITY folderContextSettings.accesskey "N">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Jméno nebo e-mail obsahuje:">
@@ -633,8 +635,12 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Přidat do kontaktů…">
 <!ENTITY AddToAddressBook.accesskey "P">
+<!ENTITY EditContact.label "Upravit kontakt…">
+<!ENTITY EditContact.accesskey "U">
+<!ENTITY ViewContact.label "Zobrazit kontakt">
+<!ENTITY ViewContact.accesskey "Z">
 <!ENTITY SendMailTo.label "Vytvořit zprávu pro">
-<!ENTITY SendMailTo.accesskey "z">
+<!ENTITY SendMailTo.accesskey "V">
 <!ENTITY CopyEmailAddress.label "Kopírovat e-mailovou adresu">
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Vytvořit filtr…">

@@ -50,12 +50,9 @@
 <!ENTITY color.label "Barva:">
 <!ENTITY color.accesskey "B">
 <!ENTITY displayPlainText.caption "Při zobrazování textových zpráv">
-<!ENTITY plainTextFont.label "Použít písmo:">
+<!ENTITY fontPlainText.label "Písmo:">
+<!ENTITY fontPlainText.accesskey "P">
 <!ENTITY displayQuoted.label "Nastavení pro citované zprávy:">
-<!ENTITY fixedWidth.label "Neproporcionální písmo">
-<!ENTITY fixedWidth.accesskey "N">
-<!ENTITY variableWidth.label "Proporcionální písmo">
-<!ENTITY variableWidth.accesskey "P">
 <!ENTITY readingMessagesHeader.label "Pro příchozí zprávy">
 <!ENTITY messageWrapping.label "Zalamování zpráv">
 <!ENTITY wrapInMsg.label "Zalamovat text na šířku okna">
@@ -82,3 +79,5 @@
 <!ENTITY existingWindowRadio.accesskey "e">
 <!ENTITY disableContent.label "Blokovat ve zprávách načítání obrázků a jiného obsahu ze vzdálených serverů">
 <!ENTITY disableContent.accesskey "P">
+<!ENTITY showCondensedAddresses.label "U lidí v mém adresáři zobrazovat pouze jméno">
+<!ENTITY showCondensedAddresses.accesskey "z">

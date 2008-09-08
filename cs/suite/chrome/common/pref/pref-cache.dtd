@@ -1,6 +1,6 @@
 <!-- extracted from content/pref-cache.xul -->
-<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title "Vyrovnávací paměť">
 <!ENTITY pref.cache.caption "Nastavení vyrovnávací paměti">
 <!ENTITY cachePara "Často používané dokumenty mohou být ukládány do vyrovnávací paměti pro rychlejší přístup k webu. Při stažení dokumentu dojde k porovnání dokumentu z vyrovnávací paměti s dokumentem ze sítě, přičemž se vybere poslední verze dokumentu. (Klepnutím na tlačítko Obnovit zobrazíte vždy aktuální verzi stránky.)">
@@ -26,4 +26,3 @@
 <!ENTITY prefetchTitle.label "Načítat odkazy dopředu">
 <!ENTITY enablePrefetch.label "Načítat dopředu odkazy ze stránky v době nečinnosti. Odkazy se potom zobrazí rychleji">
 <!ENTITY enablePrefetch.accesskey "P">
-<!-- <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->

@@ -56,8 +56,8 @@
 <!ENTITY daysOld.label "dny(ů)">
 <!ENTITY message.label "zprávy"> 
 <!ENTITY retentionCleanup.label "Pro ušetření místa na disku lze staré zprávy automaticky mazat">
-<!ENTITY retentionKeepMsg.label "Smazat zprávy starší než">
-<!ENTITY retentionKeepMsg.accesskey "S">
+<!ENTITY retentionDeleteMsg.label "Smazat zprávy starší než">
+<!ENTITY retentionDeleteMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Nemazat žádné zprávy">
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepNew.label "Smazat vše mimo posledních">

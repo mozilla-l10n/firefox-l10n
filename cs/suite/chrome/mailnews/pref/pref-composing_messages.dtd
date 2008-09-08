@@ -44,6 +44,8 @@
 <!ENTITY asAttachment.label "Jako příloha">
 <!ENTITY asAttachment.accesskey "A">
 
+<!ENTITY replyQuoteInline.label "Citovat v odpovědích vložené přílohy">
+<!ENTITY replyQuoteInline.accesskey "C">
 <!ENTITY warnOnSendAccelKey.label "Při odeslání zprávy pomocí klávesové zkratky požadovat potvrzení">
 <!ENTITY warnOnSendAccelKey.accesskey "d">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with

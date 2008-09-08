@@ -70,13 +70,15 @@
 <!ENTITY aboutCommPluginsCmd.accesskey "m">
 
 <!ENTITY direct.label "Online (proxy: žádná)">
-<!ENTITY direct.accesskey "N">
+<!ENTITY direct.accesskey "d">
 <!ENTITY manual.label "Online (proxy: manuální)">
-<!ENTITY manual.accesskey "M">
+<!ENTITY manual.accesskey "m">
 <!ENTITY pac.label "Online (proxy: automatická)">
-<!ENTITY pac.accesskey "A">
-<!ENTITY wpad.label "Online (Proxy: automaticky vyhledat)">
-<!ENTITY wpad.accesskey "D">
+<!ENTITY pac.accesskey "a">
+<!ENTITY wpad.label "Online (proxy: automaticky nalezená)">
+<!ENTITY wpad.accesskey "n">
+<!ENTITY system.label "Online (proxy: systémová)">
+<!ENTITY system.accesskey "s">
 
 <!ENTITY proxy.label "Konfigurace proxy serveru…">
 <!ENTITY proxy.accesskey "C">

@@ -11,14 +11,19 @@
 <!ENTITY popupExceptions.accesskey "S">
 
 <!ENTITY whenBlock.description "Při zablokování vyskakovacího okna:">
-<!ENTITY playSound.label "Přehrát zvuk">
+<!ENTITY playSound.label "Přehrát zvuk:">
 <!ENTITY playSound.accesskey "z">
+<!ENTITY systemSound.label "Systémový zvuk">
+<!ENTITY systemSound.accesskey "S">
+<!ENTITY customSound.label "Vlastní zvukový soubor">
+<!ENTITY customSound.accesskey "V">
 
 <!ENTITY selectSound.label "Procházet…">
-<!ENTITY selectSound.accesskey "p">
+<!ENTITY selectSound.accesskey "P">
 <!ENTITY previewSound.label "Ukázka">
 <!ENTITY previewSound.accesskey "U">
 <!ENTITY selectSound.title "Výběr zvuku">
+<!ENTITY selectSound.filter "Zvuky">
 
 <!ENTITY displayIcon.label "Zobrazit ikonku ve stavovém řádku prohlížeče">
 <!ENTITY displayIcon.accesskey "D">
