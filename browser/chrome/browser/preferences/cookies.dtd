@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "Sykje:">
 <!ENTITY     filter.accesskey               "k">
-<!ENTITY     clear.label                    "Fuortsmite">
-<!ENTITY     clear.accesskey                "F">
 
 <!ENTITY     button.close.label             "Slute">
 <!ENTITY     button.close.accesskey         "S">
