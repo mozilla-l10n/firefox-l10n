@@ -15,7 +15,7 @@
 <!ENTITY systemsound.label "Sonido de nuevo mensaje de correo del sistema">
 <!ENTITY systemsound.accesskey "M">
 <!ENTITY customsound.label "Archivo de sonido personalizado">
-<!ENTITY customsound.accesskey "w">
+<!ENTITY customsound.accesskey "h">
 <!ENTITY browse.label "Examinar…">
 <!ENTITY browse.accesskey "E">
 <!ENTITY browse.title "Elegir archivo">
