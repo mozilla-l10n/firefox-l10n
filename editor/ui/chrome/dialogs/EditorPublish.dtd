@@ -1,6 +1,6 @@
 <!ENTITY browseUrl.label "כתובת HTTP של עמוד הבית שלך (לדוגמה: 'http://www.myisp.com/myusername'):">
 <!ENTITY browseUrl.tooltip "כתובת ה־//:HTTP של ספריית הבית שלך (אל תכלול שם קובץ)">
-<!ENTITY chooseDirButton.label "בחר...">
+<!-- ### ENTITY chooseDirButton.label "בחר..." -->
 <!ENTITY docDirList.label "תת־ספרייה באתר עבור דף זה:">
 <!ENTITY filename.label "שם קובץ:">
 <!ENTITY filename.tooltip "הכנס שם עבור קובץ זה, כולל 'html.' עבור דף אינטרנט">
@@ -27,15 +27,15 @@
 <!ENTITY setDefSiteAndDir.label "הגדר כאתר וספריית ברירת מחדל">
 <!ENTITY setDefaultButton.label "הגדר כברירת מחדל">
 <!ENTITY settingsTab.label "הגדרות">
-<!ENTITY siteDirList.label "בחר או הקלד שם ספרייה באתר הפרסום שלך:">
-<!ENTITY siteDirList.tooltip "בחר או הכנס את שם תת־הספרייה המרוחקת שברצונך לפרסם אליה">
+<!-- ### ENTITY siteDirList.label "בחר או הקלד שם ספרייה באתר הפרסום שלך:" -->
+<!-- ### ENTITY siteDirList.tooltip "בחר או הכנס את שם תת־הספרייה המרוחקת שברצונך לפרסם אליה" -->
 <!ENTITY siteList.label "שם האתר:">
 <!ENTITY siteList.tooltip "בחר את האתר שברצונך לפרסם אליו">
 <!ENTITY siteName.label "שם האתר:">
 <!ENTITY siteName.tooltip "כינוי שישמש כמזהה לאתר פירסום זה (לדוגמה: 'MySite')">
 <!ENTITY siteUrl.label "כתובת פירסום (לדוגמה: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.tooltip "כתובת ה־//:FTP או ה־//:HTTP המסופקת על־ידי ספק האינטרנט או שירות איחסון האתרים שלך">
-<!ENTITY useSubdir.tooltip "בחר או הכנס את שם תת־הספרייה המרוחקת שבה יפורסמו הקבצים">
+<!-- ### ENTITY useSubdir.tooltip "בחר או הכנס את שם תת־הספרייה המרוחקת שבה יפורסמו הקבצים" -->
 <!ENTITY useSubdirRadio.label "השתמש בתת־ספרייה זו של האתר:">
 <!ENTITY username.label "שם משתמש:">
 <!ENTITY username.tooltip "שם המשתמש המשמש אותך להתחברות אל ספק הגישה שלך או שירות איחסון האתרים">

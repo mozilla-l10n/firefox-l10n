@@ -3,9 +3,9 @@
 <!ENTITY AdvancedEditButton.tooltip "הוסף או שנה תכונות HTML, תכונות סגנון ו־JavaScript">
 <!ENTITY LinkURLEditField.accessKey "L">
 <!ENTITY LinkURLEditField.label "הכנס מיקום דף אינטרנט, קובץ מקומי, או בחר עוגן או כותרת מן הרשימה המופיעה:">
-<!ENTITY chooseButton.label "בחר קובץ...">
-<!ENTITY chooseFile.accessKey "F">
-<!ENTITY chooseFileLink.accessKey "o">
+<!-- ### ENTITY chooseButton.label "בחר קובץ..." -->
+<!-- ### ENTITY chooseFile.accessKey "F" -->
+<!-- ### ENTITY chooseFileLink.accessKey "o" -->
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.label "ה־URL הוא יחסי למיקום הדף">
 <!ENTITY makeUrlRelative.tooltip "החלף בין URL יחסי ומוחלט. עליך תחילה לשמור את הדף כדי להחליף זאת.">
