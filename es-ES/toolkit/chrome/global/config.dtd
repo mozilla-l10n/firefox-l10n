@@ -40,9 +40,7 @@
 <!ENTITY aboutWarningButton.label "¡Tendré cuidado, lo prometo!">
 <!ENTITY aboutWarningCheckbox.label "Mostrar esta advertencia la próxima vez">
 <!ENTITY filterPrefs.label "Filtro:">
-<!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "Mostrar todos">
-<!ENTITY showAll.accesskey "M">
+<!ENTITY filterPrefs.accesskey "F">
 <!ENTITY prefColumn.label "Nombre de la preferencia">
 <!ENTITY lockColumn.label "Estado">
 <!ENTITY typeColumn.label "Tipo">
