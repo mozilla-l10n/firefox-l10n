@@ -45,8 +45,6 @@
 
 <!ENTITY filterPrefs.label "Szűrő:">
 <!ENTITY filterPrefs.accesskey "S">
-<!ENTITY showAll.label "Mindet mutat">
-<!ENTITY showAll.accesskey "M">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Beállítás neve">

@@ -22,10 +22,6 @@
 
 <!ENTITY     filter.label                   "Keresés:">
 <!ENTITY filter.accesskey               "K">
-<!ENTITY     clear.label                    "Törlés">
-<!ENTITY clear.accesskey                "T">
 
 <!ENTITY     button.close.label             "Bezárás">
 <!ENTITY button.close.accesskey         "B">
-
-

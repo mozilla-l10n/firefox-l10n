@@ -39,6 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.clearList.tooltip            "A befejezett, félbeszakított vagy sikertelen letöltések törlése a listáról">
 <!ENTITY cmd.clearList.accesskey          "i">
 <!ENTITY cmd.find.commandKey              "f">
+<!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Bezárás a letöltések után">
 <!ENTITY closeWhenDone.tooltip            "A Letöltések ablak bezárása az összes fájl letöltése után">

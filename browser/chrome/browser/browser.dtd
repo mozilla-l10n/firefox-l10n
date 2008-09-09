@@ -222,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Kijelölés forrásának megtekintése">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML forrás megtekintése">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Oldal forrása">
 <!ENTITY viewPageSourceCmd.accesskey  "f">

@@ -1,9 +1,12 @@
-<!ENTITY aboutDialog.title      "A &brandFullName; névjegye">
-<!ENTITY copyright              "Közreműködők">
-<!ENTITY copyright.accesskey    "K">
-<!ENTITY aboutLink              "&lt; A &brandFullName; névjegye">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "verzió">
-<!ENTITY copyrightInfo          "&#169;1998-2008 A hozzájárulók. Minden jog fenntartva. A Firefox
+<!ENTITY aboutDialog.title          "A &brandFullName; névjegye">
+<!ENTITY copyright                  "Közreműködők">
+<!ENTITY copyright.accesskey        "K">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY aboutLink                  "&lt; A &brandFullName; névjegye">
+<!ENTITY aboutLink.accesskey        "A">
+<!ENTITY aboutVersion               "verzió">
+<!ENTITY closeCmdGNOME.label        "Bezárás">  
+<!ENTITY closeCmdGNOME.accesskey    "B">
+<!ENTITY copyrightInfo              "&#169;1998-2008 A hozzájárulók. Minden jog fenntartva. A Firefox
                                  és a Firefox logó a Mozilla Foundation védjegye.  Minden jog
                                  fenntartva.">

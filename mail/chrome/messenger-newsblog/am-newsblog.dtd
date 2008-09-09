@@ -17,4 +17,5 @@
 <!ENTITY rss.accountName            "Hirek es blogok">
 <!ENTITY rss.wizardShortName        "RSS">  
 <!ENTITY rss.wizardLongName         "Hírek és blogok RSS-ben">
+<!ENTITY rss.wizardLongName.accesskey "R">
 <!ENTITY rss.hostName               "Hírek és blogok">

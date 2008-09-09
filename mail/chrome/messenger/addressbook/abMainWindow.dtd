@@ -17,6 +17,9 @@
 <!ENTITY newMessageCmd.label                            "Üzenet">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "Ü">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
+<!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Bezárás">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "B">
@@ -61,7 +64,10 @@
 <!ENTITY deleteCmd.accesskey                            "T">
 <!ENTITY deleteAbCmd.label                              "Címjegyzék törlése">
 <!ENTITY deleteCardCmd.label                            "Névjegy törlése">
-<!ENTITY deleteCardsCmd.label                           "A kijelölt névjegy törlése">
+<!ENTITY deleteCardsCmd2.label                          "Delete Cards">
+<!ENTITY deleteListCmd.label                            "Lista törlése">
+<!ENTITY deleteListsCmd.label                           "Delete Lists">
+<!ENTITY deleteItemsCmd.label                           "Delete Items">
 <!ENTITY selectAllCmd.label                             "Mindent kijelöl">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -183,18 +189,6 @@
 <!ENTITY sortDescending.accesskey                       "C">
 <!ENTITY _PhoneticName.label                            "Fonetikus név">
 <!ENTITY _PhoneticName.accesskey                        "F">
-
-<!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "Levél írása">
-<!ENTITY composeEmail.accesskey                         "L">
-<!ENTITY deleteAddrBookCard.label                       "Törlés">
-<!ENTITY deleteAddrBookCard.accesskey                   "T">
-<!ENTITY newAddrBookCard.label                          "Új névjegy...">
-<!ENTITY newAddrBookCard.accesskey                      "n">
-<!ENTITY newAddrBookMailingList.label                   "Új címlista...">
-<!ENTITY newAddrBookMailingList.accesskey               "c">
-<!ENTITY addrBookCardProperties.label                   "Tulajdonságok">
-<!ENTITY addrBookCardProperties.accesskey               "T">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->

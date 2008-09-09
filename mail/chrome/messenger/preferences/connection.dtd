@@ -2,8 +2,10 @@
 <!ENTITY  window.width                   "46em">
 
 <!ENTITY  proxyTitle.label              "Proxy beállítása az internet eléréséhez">
-<!ENTITY  directTypeRadio.label         "Közvetlen internetkapcsolat">
-<!ENTITY directTypeRadio.accesskey     "K">
+<!ENTITY  noProxyTypeRadio.label        "Nincs proxy">
+<!ENTITY noProxyTypeRadio.accesskey    "N">
+<!ENTITY  systemTypeRadio.label         "Rendszerbeállítások használata">
+<!ENTITY systemTypeRadio.accesskey     "R">
 <!ENTITY  WPADTypeRadio.label           "Proxybeállítások automatikus felismerése a hálózatban">
 <!ENTITY WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "Kézi proxybeállítás:">

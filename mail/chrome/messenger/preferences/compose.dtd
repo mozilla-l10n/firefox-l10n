@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "N">
 <!ENTITY downloadDictionaries.label           "További szótárak letöltése">
 
-<!ENTITY useMIME.label                        "8 bites karaktereket tartalmazó levelek esetén idézőjeles nyomtatható MIME-kódolás használata">
-<!ENTITY useMIME.accesskey                    "b">
 <!ENTITY warnOnSendAccelKey.label             "Jóváhagyás kérése gyorsbillentyűvel végzett levélküldéskor">
 <!ENTITY warnOnSendAccelKey.accesskey         "J">
 <!ENTITY autoSave.label                       "Automatikus mentés">
