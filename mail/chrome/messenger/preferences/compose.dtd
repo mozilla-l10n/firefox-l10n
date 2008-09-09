@@ -53,6 +53,7 @@
 <!ENTITY addressingEnable.accesskey            "A">
 <!ENTITY directories.label                     "LDAP-Verzeichnisserver:">
 <!ENTITY directories.accesskey                 "V">
+<!ENTITY directoriesNone.label                 "Keine">
 <!ENTITY editDirectories.label                 "Bearbeiten…">
 <!ENTITY editDirectories.accesskey             "B">
 <!ENTITY matchText.label                       "Wenn es einen passenden Eintrag in Ihren lokalen Adressbüchern gibt:">
