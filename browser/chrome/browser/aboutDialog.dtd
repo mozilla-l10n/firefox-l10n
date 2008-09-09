@@ -1,9 +1,12 @@
 <!ENTITY aboutDialog.title      "Oer &brandFullName;">
 <!ENTITY copyright              "Meiwurkers">
 <!ENTITY copyright.accesskey    "M">
+<!ENTITY copyrightGNOME.accesskey   "r">
 <!ENTITY aboutLink              "&lt; Oer &brandFullName;">
 <!ENTITY aboutLink.accesskey    "O">
 <!ENTITY aboutVersion           "ferzje">
+<!ENTITY closeCmdGNOME.label        "Slute">  
+<!ENTITY closeCmdGNOME.accesskey    "S">
 <!ENTITY copyrightInfo          "&#169;1998-2008 Meiwurkers. Alle rjochten foarbehâlden. Firefox en de
                                  Firefox-logo's binne hannelsmerken fan de Mozilla Foundation. Alle rjochten
                                  foarbehâlden.">
