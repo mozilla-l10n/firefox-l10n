@@ -13,6 +13,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Utiliser un autre serveur LDAP :">
 <!ENTITY directories.accesskey "a">
+<!ENTITY directoriesNone.label "Aucun">
 
 <!-- am-addressing.xul -->
 

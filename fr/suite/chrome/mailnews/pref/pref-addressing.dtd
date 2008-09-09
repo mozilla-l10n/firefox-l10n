@@ -50,6 +50,7 @@
 <!ENTITY autocompleteText.label                "Quand on adresse un message, chercher les entrées correspondantes dans :">
 <!ENTITY directories.label                     "Le serveur d'annuaire :">
 <!ENTITY directories.accesskey                 "n">
+<!ENTITY directoriesNone.label                 "Aucun">
 <!ENTITY editDirectories.label                 "Modifier les annuaires…">
 <!ENTITY editDirectories.accesskey             "M">
 <!ENTITY matchText.label                       "S'il y a une correspondance dans votre carnet d'adresses local :">
