@@ -5,12 +5,13 @@
 <!ENTITY addressingText.label      "Beim Suchen von Nachrichten:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Globale LDAP-Verzeichnisserver-Einstellungen verwenden">
-<!ENTITY useGlobal.accesskey       "U">
+<!ENTITY useGlobal.accesskey       "G">
 <!ENTITY editDirectories.label     "Bearbeiten…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Einen anderen LDAP-Verzeichnisserver verwenden:">
 <!ENTITY directories.accesskey     "V">
+<!ENTITY directoriesNone.label     "Keine">
 
 <!-- am-addressing.xul -->
 
