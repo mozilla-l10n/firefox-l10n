@@ -1,7 +1,10 @@
 <!ENTITY aboutDialog.title "Informazioni su &brandFullName;">
 <!ENTITY copyright "Informazioni">
 <!ENTITY copyright.accesskey "n">
+<!ENTITY copyrightGNOME.accesskey "r">
 <!ENTITY aboutLink "&lt; Informazioni">
 <!ENTITY aboutLink.accesskey "I">
 <!ENTITY aboutVersion "versione">
+<!ENTITY closeCmdGNOME.label "Chiudi">
+<!ENTITY closeCmdGNOME.accesskey "C">
 <!ENTITY copyrightInfo "©1998-2008 dei collaboratori. Tutti i diritti riservati. Firefox e i loghi di Firefox sono marchi registrati della Mozilla Foundation. Tutti i diritti riservati.">
