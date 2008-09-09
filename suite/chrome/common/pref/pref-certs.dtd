@@ -36,18 +36,18 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY resetsettings.label "Obnoviť pôvodné nastavenia">
-<!ENTITY resetpreferences.label "Obnoviť nastavenia…">
-<!ENTITY managecerts.caption "Správa certifikátov">
-<!ENTITY managecerts.text "Použite tohto Správcu certifikátov na správu svojich vlastných certifikátov, ako aj certifikátov iných ľudí a certifikačných autorít.">
-<!ENTITY managecerts.button "Správa certifikátov…">
-<!ENTITY managecerts.accesskey "c">
-<!ENTITY managedevices.caption "Správa bezpečnostných zariadení">
-<!ENTITY managedevices.text "Použite toto tlačidlo na správu svojich bezpečnostných zariadení, napríklad Smart Cards.">
-<!ENTITY managedevices.button "Správa bezpečnostných zariadení…">
-<!ENTITY managedevices.accesskey "b">
+<!ENTITY resetsettings.label      "Obnoviť pôvodné nastavenia">
+<!ENTITY resetpreferences.label   "Obnoviť nastavenia…">
+<!ENTITY managecerts.caption      "Správa certifikátov">
+<!ENTITY managecerts.text         "Použite tohto Správcu certifikátov na správu svojich vlastných certifikátov, ako aj certifikátov iných ľudí a certifikačných autorít.">
+<!ENTITY managecerts.button       "Správa certifikátov…">
+<!ENTITY managecerts.accesskey    "c">
+<!ENTITY managedevices.caption    "Správa bezpečnostných zariadení">
+<!ENTITY managedevices.text       "Použite toto tlačidlo na správu svojich bezpečnostných zariadení, napríklad Smart Cards.">
+<!ENTITY managedevices.button     "Správa bezpečnostných zariadení…">
+<!ENTITY managedevices.accesskey  "b">
 
-<!ENTITY ssl.label "SSL">
+<!ENTITY ssl.label                "SSL">
 
-<!ENTITY pref.certs.title "Certifikáty">
-<!ENTITY certs.label "Certifikáty">
+<!ENTITY pref.certs.title         "Certifikáty">
+<!ENTITY certs.label              "Certifikáty">

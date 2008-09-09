@@ -88,8 +88,6 @@
 <!ENTITY clientAuthAsk.message1 "Tento server požaduje, aby ste sa identifikovali certifikátom:">
 <!ENTITY clientAuthAsk.message2 "Vyberte certifikát, ktorý sa použije ako identifikácia:">
 <!ENTITY clientAuthAsk.message3 "Podrobnosti vybraného certifikátu:">
-<!ENTITY examineCert.label "Zobraziť certifikát">
-<!ENTITY examineCert.accesskey "Z">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Vyberte certifikát">
@@ -112,6 +110,8 @@
 <!ENTITY escrowWarn.message1 "Dôležité: táto certifikačná autorita požiadala o vytvorenie zálohy vášho súkromného šifrovacieho kľúča.">
 <!ENTITY escrowWarn.benefit1 "Výhodou je, že ak stratíte prístup k svojmu súkromnému šifrovaciemu kľúču, môžete o jeho kópiu požiadať túto certifikačnú autoritu.">
 <!ENTITY escrowWarn.message2 "Váš súkromný šifrovací kľúč však bude uložený u certifikačnej autority a môže byť zneužitý na čítanie vašej šifrovanej pošty alebo dokumentov bez vášho súhlasu.">
+<!ENTITY examineCert.label "Zobraziť certifikát">
+<!ENTITY examineCert.accesskey "Z">
 
 <!ENTITY serverCrlNextupdate.message "Požiadajte o pomoc svojho správcu systému">
 

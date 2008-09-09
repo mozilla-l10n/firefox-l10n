@@ -50,6 +50,7 @@
 <!ENTITY autocompleteText.label                "Pri určovaní adries správ hľadať zodpovedajúce položky v:">
 <!ENTITY directories.label                     "Adresárový server:">
 <!ENTITY directories.accesskey                 "d">
+<!ENTITY directoriesNone.label                 "žiadny">
 <!ENTITY editDirectories.label                 "Upraviť adresáre…">
 <!ENTITY editDirectories.accesskey             "U">
 <!ENTITY matchText.label                       "Ak niečo v lokálnom adresári zodpovedá:">

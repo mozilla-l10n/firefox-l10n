@@ -20,11 +20,11 @@
 <!ENTITY checkSpelling.label             "Kontrolovať pravopis počas písania">
 <!ENTITY checkSpelling.accesskey         "K">
 
-<!ENTITY systemDefaults.label          "Nastavenie systému">
-<!ENTITY alwaysCheckDefault.label      "Pri štarte kontrolovať, či je &brandShortName; predvoleným prehliadačom">
-<!ENTITY alwaysCheckDefault.accesskey  "r">
-<!ENTITY checkNow.label                "Skontrolovať">
-<!ENTITY checkNow.accesskey            "t">
+<!ENTITY systemDefaults.label            "Nastavenie systému">
+<!ENTITY alwaysCheckDefault.label        "Pri štarte kontrolovať, či je &brandShortName; predvoleným prehliadačom">
+<!ENTITY alwaysCheckDefault.accesskey    "r">
+<!ENTITY checkNow.label                  "Skontrolovať">
+<!ENTITY checkNow.accesskey              "t">
 
 <!ENTITY networkTab.label                "Sieť">
 
@@ -66,6 +66,7 @@
 <!ENTITY modeAutoAddonWarn.accesskey     "U">
 <!ENTITY updateHistory.label             "Zobraziť históriu aktualizácií">
 <!ENTITY updateHistory.accesskey         "h">
+
 <!ENTITY offlineNotify.label             "Upozorniť, ak stránka ponúka možnosť uložiť údaje na použitie v režime offline">
 <!ENTITY offlineNotify.accesskey         "U">
 <!ENTITY offlineNotifyExceptions.label   "Výnimky…">

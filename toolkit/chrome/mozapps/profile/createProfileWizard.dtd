@@ -1,5 +1,6 @@
 <!ENTITY newprofile.title "Sprievodca vytvorením profilu">
 <!ENTITY window.size "width: 45em; height: 32em;">
+
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text "&brandShortName; ukladá informácie o vašich nastaveniach a predvoľbách v osobnom profile.">
 <!ENTITY profileCreationExplanation_2.text "Ak zdieľate túto kópiu aplikácie &brandShortName; s inými používateľmi, môžete používať profily, aby informácie pre každého používateľa boli oddelené. Ak tak chcete urobiť, treba každému používateľovi vytvoriť vlastný profil.">
@@ -7,7 +8,6 @@
 <!ENTITY profileCreationExplanation_4.text "Svoj profil vytvoríte kliknutím na tlačidlo Ďalej.">
 <!ENTITY profileCreationExplanation_4Mac.text "Svoj profil vytvoríte kliknutím na tlačidlo Pokračovať.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "Svoj profil vytvoríte kliknutím na tlačidlo Ďalej.">
-
 
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text "Ak vytvoríte viac profilov, môžete ich označovať podľa názvu profilu. Môžete použiť uvedený názov alebo použiť vlastný.">

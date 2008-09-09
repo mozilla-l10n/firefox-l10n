@@ -5,19 +5,19 @@
 <!ENTITY pref.cache.caption              "Nastavenia pre vyrovnávaciu pamäť">
 <!ENTITY cachePara                       "Vyrovnávacia pamäť uchováva kópie najčastejšie navštevovaných webových stránok na vašom pevnom disku. (Kliknutím na tlačidlo Obnoviť sa vždy načíta aktuálna verzia stránky)">
 <!ENTITY diskCache.label                 "Veľkosť:">
-<!ENTITY diskCache.accesskey             "V">
+<!ENTITY diskCache.accesskey             "e">
 <!ENTITY mbytes                          "MB">
 <!ENTITY diskCacheFolder.label           "Priečinok pre vyrovnávaciu pamäť:">
 <!ENTITY clearDiskCache.label            "Vymazať vyrovnávaciu pamäť">
 <!ENTITY clearDiskCache.accesskey        "m">
 <!ENTITY chooseDiskCacheFolder.label     "Vybrať priečinok…">
-<!ENTITY chooseDiskCacheFolder.accesskey "p">
+<!ENTITY chooseDiskCacheFolder.accesskey "V">
 <!ENTITY diskCacheFolderExplanation      "Súbory vyrovnávacej pamäte budú uložené ako podpriečinok s názvom &quot;Cache&quot; v priečinku, ktorý určíte. Zmeny sa prejavia až po reštartovaní &brandShortName;.">
 <!ENTITY docCache                        "Porovnať stránku vo vyrovnávacej pamäti so stránkou na webe:">
 <!ENTITY oncePsessionRadio.label         "Raz za reláciu">
-<!ENTITY oncePsessionRadio.accesskey     "R">
+<!ENTITY oncePsessionRadio.accesskey     "a">
 <!ENTITY everyTimeRadio.label            "Vždy pri zobrazení stránky">
-<!ENTITY everyTimeRadio.accesskey        "d">
+<!ENTITY everyTimeRadio.accesskey        "z">
 <!ENTITY neverRadio.label                "Nikdy">
 <!ENTITY neverRadio.accesskey            "N">
 <!ENTITY autoRadio.label                 "Keď je stránka zastaraná">
@@ -25,5 +25,4 @@
 
 <!ENTITY prefetchTitle.label             "Načítavanie odkazov dopredu">
 <!ENTITY enablePrefetch.label            "Pri nečinnosti načítavať odkazy dopredu, takže sa po kliknutí budú načítavať oveľa rýchlejšie.">
-<!ENTITY enablePrefetch.accesskey        "P">
-<!-- <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->
+<!ENTITY enablePrefetch.accesskey        "r">

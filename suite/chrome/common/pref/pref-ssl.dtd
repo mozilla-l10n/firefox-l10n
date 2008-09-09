@@ -41,29 +41,27 @@
 <!ENTITY  SSLClientAuthMethod.caption       "Výber klientskeho certifikátu">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl3                        "Povoliť SSL verzie 3">
+<!ENTITY enable.ssl3                        "Povoliť SSL 3.0">
 <!ENTITY enable.ssl3.accesskey              "3">
 <!ENTITY enable.tls                         "Povoliť TLS">
 <!ENTITY enable.tls.accesskey               "T">
 
-<!ENTITY warn.description                   "&brandShortName; vás môže upozorniť na stav zabezpečenia stránky, ktorú čítate. Nastavte si &brandShortName; tak, aby zobrazoval upozornenie a vyžadoval súhlas predtým, ako:">
+<!ENTITY warn.description                   "&brandShortName; vás môže upozorniť na stav zabezpečenia stránky, ktorú prehliadate. Nastavte si &brandShortName; tak, aby zobrazoval upozornenie a vyžadoval súhlas predtým, ako:">
 <!ENTITY warn.enteringsecure                "načíta zašifrovanú stránku">
 <!ENTITY warn.enteringsecure.accesskey      "z">
 <!ENTITY warn.enteringweak                  "načíta stránku, ktorá používa nízku úroveň šifrovania">
-<!ENTITY warn.enteringweak.accesskey        "s">
+<!ENTITY warn.enteringweak.accesskey        "n">
 <!ENTITY warn.insecurepost                  "odošle vyplnený formulár z nezašifrovanej stránky na nezašifrovanú stránku">
-<!ENTITY warn.insecurepost.accesskey        "f">
+<!ENTITY warn.insecurepost.accesskey        "o">
 <!ENTITY warn.leavingsecure                 "opustí zašifrovanú stránku">
 <!ENTITY warn.leavingsecure.accesskey       "u">
-<!ENTITY warn.secureredirect                "bude presmerovaná z jednej zašifrovanej stránky na inú">
-<!ENTITY warn.secureredirecttoinsecure      "bude presmerovaná zo zašifrovanej stránky na nezašifrovanú">
-<!ENTITY warn.viewmixed                     "zobrazí stránku s miešaným zašifrovaným/nezašifrovaným obsahom">
+<!ENTITY warn.secureredirect                "bude presmerovaný z jednej zašifrovanej stránky na inú">
+<!ENTITY warn.secureredirecttoinsecure      "bude presmerovaný zo zašifrovanej stránky na nezašifrovanú">
+<!ENTITY warn.viewmixed                     "zobrazí stránku so zmiešaným zašifrovaným/nezašifrovaným obsahom">
 <!ENTITY warn.viewmixed.accesskey           "m">
 
-<!ENTITY certselect.description             "Rozhodnite, ako má &brandShortName; vyberať certifikát pre poskytnutie serverom, ktoré ho vyžadujú:">
+<!ENTITY certselect.description             "Rozhodnite, ako má &brandShortName; vyberať certifikát, ktorý poskytne serverom, ktoré ho vyžadujú:">
 <!ENTITY certselect.auto                    "Vybrať automaticky">
-<!ENTITY certselect.auto.accesskey          "a">
+<!ENTITY certselect.auto.accesskey          "V">
 <!ENTITY certselect.ask                     "Vždy sa opýtať">
 <!ENTITY certselect.ask.accesskey           "o">
-
-

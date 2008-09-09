@@ -4,6 +4,7 @@
 <!ENTITY progress "Priebeh:">
 <!ENTITY preparing "Pripravuje sa…">
 <!ENTITY printComplete "Tlač je dokončená.">
+
 <!ENTITY dialogCancel.label "Zrušiť">
 <!ENTITY dialogClose.label "Zavrieť">
 <!-- LOCALIZATION NOTE (percentPrint):

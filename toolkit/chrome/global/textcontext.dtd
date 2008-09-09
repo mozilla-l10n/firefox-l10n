@@ -10,6 +10,7 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Odstrániť">
 <!ENTITY deleteCmd.accesskey "O">
+
 <!ENTITY spellAddToDictionary.label "Pridať do slovníka">
 <!ENTITY spellAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Skontrolovať pravopis">
@@ -17,4 +18,3 @@
 <!ENTITY spellNoSuggestions.label "(Žiadne pravopisné návrhy)">
 <!ENTITY spellDictionaries.label "Jazyky">
 <!ENTITY spellDictionaries.accesskey "J">
-

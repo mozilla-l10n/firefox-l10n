@@ -1,53 +1,58 @@
 <!-- Entities for the Sample Extension Options Dialog go here -->
-<!ENTITY reportWizard.title "Upozornenie na chybnú stránku">
+<!ENTITY reportWizard.title                         "Upozornenie na chybnú stránku">
 
-<!ENTITY privacyNotice.label "Ochrana osobných údajov">
-<!ENTITY reportWizardPrivacy.description "Tento nástroj umožňuje upozorniť Technický tím na stránky, ktoré sa v programe &brandShortName; nezobrazujú korektne alebo spôsobujú jeho zlyhanie. Týmto spôsobom nám môžete pomôcť zaistiť do budúcnosti lepší dojem z používania programu &brandShortName;. Prosím, venujte svoj čas prečítaniu nasledovného textu, z ktorého sa dozviete, ako môžete prispieť.">
-<!ENTITY reportWizardMustAgree.description "Pred pokračovaním je potrebný súhlas s hore uvedenými zásadami ochrany súkromia.">
+<!ENTITY privacyNotice.label                        "Ochrana osobných údajov">
+<!ENTITY reportWizardPrivacy.description            "Tento nástroj umožňuje upozorniť Technický tím na stránky, ktoré sa v programe &brandShortName; nezobrazujú korektne alebo spôsobujú jeho zlyhanie. Týmto spôsobom nám môžete pomôcť zaistiť do budúcnosti lepší dojem z používania programu &brandShortName;. Prosím, venujte svoj čas prečítaniu nasledovného textu, z ktorého sa dozviete, ako môžete prispieť.">
+<!ENTITY reportWizardMustAgree.description          "Pred pokračovaním je potrebný súhlas s hore uvedenými zásadami ochrany súkromia.">
 
-<!ENTITY dontShowPrivacyStatement.label "Prečítal som a súhlasím so zásadami ochrany súkromia">
+<!ENTITY dontShowPrivacyStatement.label             "Prečítal som a súhlasím so zásadami ochrany súkromia">
 <!ENTITY dontShowPrivacyStatement.accesskey         "P">
 
-<!ENTITY reportForm.label "Vyplnenie správy">
+<!ENTITY reportForm.label                           "Vyplnenie správy">
 
-<!ENTITY reportForm.description "Stručne popíšte zistený problém:">
-<!ENTITY reportForm.url.title "Adresa stránok (URL):">
-<!ENTITY reportForm.url.accesskey "A">
+<!ENTITY reportForm.description                     "Stručne popíšte zistený problém:">
+<!ENTITY reportForm.url.title                       "Adresa stránok (URL):">
+<!ENTITY reportForm.url.accesskey                   "A">
 
-<!ENTITY reportForm.behind_login.title "Stránka je chránená autorizáciou">
-<!ENTITY reportForm.behind_login.accesskey "c">
+<!ENTITY reportForm.behind_login.title              "Stránka je chránená autorizáciou">
+<!ENTITY reportForm.behind_login.accesskey          "c">
 
-<!ENTITY reportForm.problem_type.title "Druh problému:">
-<!ENTITY reportForm.problem_type.accesskey "D">
+<!ENTITY reportForm.problem_type.title              "Druh problému:">
+<!ENTITY reportForm.problem_type.accesskey          "D">
 
-<!ENTITY reportForm.problem_type.chooseOne.title "Vyberte…">
+<!ENTITY reportForm.problem_type.chooseOne.title    "Vyberte…">
 
 <!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
-<!ENTITY reportForm.problem_type.item1.title "Prehliadač nie je podporovaný">
-<!ENTITY reportForm.problem_type.item2.title "Nemožno sa prihlásiť">
-<!ENTITY reportForm.problem_type.item3.title "Nie je zobrazený zásuvný modul">
-<!ENTITY reportForm.problem_type.item4.title "Chýba časť obsahu stránky">
-<!ENTITY reportForm.problem_type.item5.title "Chybné správanie">
-<!ENTITY reportForm.problem_type.item6.title "Chybný vzhľad">
-<!ENTITY reportForm.problem_type.item7.title "Iný problém">
-<!ENTITY reportForm.problem_type.item8.title "Sťažený prístup">
-<!ENTITY reportForm.problem_type.item9.title "Výstup z tlačiarne je chybný">
+<!ENTITY reportForm.problem_type.item1.title        "Prehliadač nie je podporovaný">
+<!ENTITY reportForm.problem_type.item2.title        "Nemožno sa prihlásiť">
+<!ENTITY reportForm.problem_type.item3.title        "Nie je zobrazený zásuvný modul">
+<!ENTITY reportForm.problem_type.item4.title        "Chýba časť obsahu stránky">
+<!ENTITY reportForm.problem_type.item5.title        "Chybné správanie">
+<!ENTITY reportForm.problem_type.item6.title        "Chybný vzhľad">
+<!ENTITY reportForm.problem_type.item7.title        "Iný problém">
+<!ENTITY reportForm.problem_type.item8.title        "Sťažený prístup">
+<!ENTITY reportForm.problem_type.item9.title        "Výstup z tlačiarne je chybný">
 
-<!ENTITY reportForm.describe.title "Popis problému">
-<!ENTITY reportForm.describe.accesskey  "P">
+<!ENTITY reportForm.describe.title                  "Popis problému:">
+<!ENTITY reportForm.describe.accesskey              "P">
 
-<!ENTITY reportForm.platform.title "Platforma:">
-<!ENTITY reportForm.product.title "Prehliadač:">
-<!ENTITY reportForm.gecko.title "Gecko:">
-<!ENTITY reportForm.useragent.title "Identif. reťazec prehliadača:">
-<!ENTITY reportForm.language.title "Jazyk:">
+<!ENTITY reportForm.platform.title                  "Platforma:">
+<!ENTITY reportForm.product.title                   "Prehliadač:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "Identif. reťazec prehliadača:">
+<!ENTITY reportForm.language.title                  "Jazyk:">
 
-<!ENTITY reportForm.email.title "E-mail:">
-<!ENTITY reportForm.email.accesskey "E">
-<!ENTITY reportForm.privacyPolicy.title "Zásady ochrany súkromia">
-<!ENTITY reportForm.privacyPolicy.tooltip "Zobrazí zásady ochrany súkromia">
-<!ENTITY reportResults.showDetail.title "Zobrazit detaily">
-<!ENTITY reportResults.showDetail.accesskey "Z">
-<!ENTITY sendReport.label "Odoslať správu">
-<!ENTITY sendReport.description "Správa sa odosiela na server…">
-<!ENTITY finish.label "Správa odoslaná">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "E-mail (voliteľný):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "Zásady ochrany súkromia">
+<!ENTITY reportForm.privacyPolicy.tooltip           "Zobrazí zásady ochrany súkromia">
+
+<!ENTITY reportResults.showDetail.title             "Zobrazit detaily">
+<!ENTITY reportResults.showDetail.accesskey         "Z">
+
+<!ENTITY sendReport.label                           "Odoslať správu">
+<!ENTITY sendReport.description                     "Správa sa odosiela na server…">
+
+<!ENTITY finish.label                               "Správa odoslaná">

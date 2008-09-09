@@ -1,9 +1,12 @@
-<!ENTITY aboutDialog.title      "O programe &brandFullName;">
-<!ENTITY copyright              "Tvorcovia">
-<!ENTITY copyright.accesskey    "T">
-<!ENTITY aboutLink              "&lt; O programe &brandFullName;">
-<!ENTITY aboutLink.accesskey    "O">
-<!ENTITY aboutVersion           "verzia">
-<!ENTITY copyrightInfo          "&#169;1998 – 2008 Prispievatelia. Všetky práva vyhradené. Firefox a logá Firefox
-                                 sú ochranné známky patriace Mozilla Foundation. Všetky práva 
-                                 vyhradené.">
+<!ENTITY aboutDialog.title          "O programe &brandFullName;">
+<!ENTITY copyright                  "Tvorcovia">
+<!ENTITY copyright.accesskey        "T">
+<!ENTITY copyrightGNOME.accesskey   "T">
+<!ENTITY aboutLink                  "&lt; O programe &brandFullName;">
+<!ENTITY aboutLink.accesskey        "O">
+<!ENTITY aboutVersion               "verzia">
+<!ENTITY closeCmdGNOME.label        "Zavrieť">
+<!ENTITY closeCmdGNOME.accesskey    "Z">
+<!ENTITY copyrightInfo              "&#169;1998 – 2008 Prispievatelia. Všetky práva vyhradené. Firefox 
+                                     a logá Firefox sú ochranné známky patriace Mozilla Foundation. 
+                                     Všetky práva vyhradené.">

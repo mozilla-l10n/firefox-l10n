@@ -37,20 +37,28 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowtitle.label "&brandShortName; – Výber používateľského profilu">
+
 <!ENTITY profilename.label "Názov profilu:">
+
 <!ENTITY start.label "Spustiť &brandShortName;">
 <!ENTITY exit.label "Skončiť">
+
 <!ENTITY availprofiles.label "Dostupné profily">
+
 <!ENTITY newButton.label "Vytvoriť profil…">
 <!ENTITY newButton.accesskey "V">
 <!ENTITY renameButton.label "Premenovať profil…">
 <!ENTITY renameButton.accesskey "r">
 <!ENTITY deleteButton.label "Odstrániť profil…">
 <!ENTITY deleteButton.accesskey "d">
+
 <!-- manager entities -->
 <!ENTITY pmDescription.label "&brandShortName; ukladá informácie o nastaveniach, predvoľbách a iných používateľských položkách v používateľskom profile.">
+
 <!ENTITY offlineState.label "Pracovať offline">
 <!ENTITY offlineState.accesskey "o">
+
 <!ENTITY autoSelect.label "Nepýtať sa pri spustení">
 <!ENTITY autoSelect.accesskey "s">

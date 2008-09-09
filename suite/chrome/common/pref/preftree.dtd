@@ -20,8 +20,8 @@
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Obrázky">
 <!ENTITY popups.label "Vyskakovacie okná">
+<!ENTITY passwords.label "Heslá">
 <!ENTITY masterpass.label "Hlavné heslá">
-<!ENTITY security.label "Súkromie a bezpečnosť">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certifikáty">
 <!ENTITY validation.label "Overenie">
