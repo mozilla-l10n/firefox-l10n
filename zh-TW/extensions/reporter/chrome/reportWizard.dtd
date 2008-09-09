@@ -15,7 +15,7 @@
 <!ENTITY reportForm.url.accesskey                   "U">
 
 <!ENTITY reportForm.behind_login.title              "網站有密碼保護"><!-- No ":" at the end -->
-<!ENTITY reportForm.behind_login.accesskey          "P">
+<!ENTITY reportForm.behind_login.accesskey          "p">
 
 <!ENTITY reportForm.problem_type.title              "問題類別:">
 <!ENTITY reportForm.problem_type.accesskey          "T">

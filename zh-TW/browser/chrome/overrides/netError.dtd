@@ -141,10 +141,7 @@
 ">
 
 <!ENTITY malwareBlocked.title "可能是有害網站！">
-<!ENTITY malwareBlocked.longDesc "
-<p>有害網站會嘗試安裝能竊取隱私資訊、利用你的電腦攻擊他人或破壞作業系統等的惡意軟體到你的電腦上。</p>
-<p>如果你是網頁擁有者，發現你的網站被誤認為有害網站時可以 <a href=\'http://www.stopbadware.org/home/reviewinfo\' >請求重新審核</a>。</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p>有害網站會嘗試安裝能竊取隱私資訊、利用你的電腦攻擊他人或破壞作業系統等的惡意軟體到你的電腦上。</p> <p>如果你是網頁擁有者，發現你的網站被誤認為有害網站時可以 <a href='http://www.stopbadware.org/home/reviewinfo' >請求重新審核</a>。</p>">
 
 <!ENTITY phishingBlocked.title "可能是偽造網站！">
 <!ENTITY phishingBlocked.longDesc "

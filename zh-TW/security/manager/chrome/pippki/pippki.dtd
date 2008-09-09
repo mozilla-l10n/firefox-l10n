@@ -131,5 +131,5 @@
 <!ENTITY protectedAuth.tokenName.label "Token:">
 
 <!ENTITY certErrorDlg.title "安全連線失敗">
-<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
-<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">
+<!ENTITY certErrorDlg.info1 "這可能是伺服器設定錯誤造成的問題，也有可能是有人試圖假冒其身份。">
+<!ENTITY certErrorDlg.info2 "若您曾經成功連線到此伺服器，這個錯誤可能是暫時的，您可以稍候再試一次。">

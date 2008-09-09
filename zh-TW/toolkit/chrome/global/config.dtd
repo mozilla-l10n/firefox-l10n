@@ -44,9 +44,7 @@
 <!ENTITY aboutWarningCheckbox.label "下次顯示此警告訊息">
 
 <!ENTITY filterPrefs.label "篩選條件:">
-<!ENTITY filterPrefs.accesskey "i">
-<!ENTITY showAll.label "全部顯示">
-<!ENTITY showAll.accesskey "w">
+<!ENTITY filterPrefs.accesskey "F">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "偏好設定名稱">
