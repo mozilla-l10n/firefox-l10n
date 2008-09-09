@@ -52,6 +52,7 @@
 <!ENTITY addressingEnable.accesskey            "A">
 <!ENTITY directories.label                     "Serveur d'annuaire :">
 <!ENTITY directories.accesskey                 "S">
+<!ENTITY directoriesNone.label                 "Aucun">
 <!ENTITY editDirectories.label                 "Modifier les annuaires…">
 <!ENTITY editDirectories.accesskey             "M">
 <!ENTITY matchText.label                       "Si une correspondance est trouvée dans un carnet d'adresses local :">
