@@ -17,7 +17,7 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Beállítások és levélmappák importálása">
+<!ENTITY importSource.title             "Import Settings and Mail Folders">
 <!ENTITY importItems.title              "Importálandó elemek">
 <!ENTITY importItems.label              "Válassza ki az importálni kívánt elemeket:">
 

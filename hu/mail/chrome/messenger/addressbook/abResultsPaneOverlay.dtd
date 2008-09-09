@@ -66,15 +66,3 @@
 <!ENTITY sortAscending.accesskey               "N">
 <!ENTITY sortDescending.label                  "Csökkenő sorrendben">
 <!ENTITY sortDescending.accesskey              "C">
-
-<!-- context menu -->
-<!ENTITY composeEmail.label                    "Levél írása">
-<!ENTITY composeEmail.accesskey                "L">
-<!ENTITY deleteAddrBookCard.label              "Törlés">
-<!ENTITY deleteAddrBookCard.accesskey          "T">
-<!ENTITY newAddrBookCard.label                 "Új névjegy...">
-<!ENTITY newAddrBookCard.accesskey             "n">
-<!ENTITY newAddrBookMailingList.label          "Új címlista...">
-<!ENTITY newAddrBookMailingList.accesskey      "c">
-<!ENTITY addrBookCardProperties.label          "Tulajdonságok">
-<!ENTITY addrBookCardProperties.accesskey      "T">

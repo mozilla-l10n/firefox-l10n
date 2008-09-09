@@ -4,6 +4,8 @@
 <!ENTITY searchInput.accesskey              "K">
 <!ENTITY SearchNameOrEmail.label            "Név vagy e-mail">
 
+<!ENTITY deleteAddrBookCard.label           "Törlés">
+<!ENTITY addrBookCardProperties.label       "Tulajdonságok">
 <!ENTITY addtoToFieldMenu.label             "Hozzáadás a Címzett mezőhöz">
 <!ENTITY addtoCcFieldMenu.label             "Hozzáadás a Másolat mezőhöz">
 <!ENTITY addtoBccFieldMenu.label            "Hozzáadás a Rejtett másolat mezőhöz">

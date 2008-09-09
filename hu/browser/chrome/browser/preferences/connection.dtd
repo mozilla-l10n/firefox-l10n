@@ -21,9 +21,9 @@
 <!ENTITY  gopher.label                  "Gopher-proxy:">
 <!ENTITY gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP-proxy:">
-<!ENTITY http.accesskey                "H">
+<!ENTITY http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL-proxy:">
-<!ENTITY ssl.accesskey                 "S">
+<!ENTITY ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "SOCKS gép:">
 <!ENTITY socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">

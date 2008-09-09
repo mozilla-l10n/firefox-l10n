@@ -8,12 +8,16 @@
 <!ENTITY showCondensedAddresses.label  "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
 <!ENTITY showCondensedAddresses.accesskey "C">
 
-<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
-     "xxx seconds before marking a message as read", using a number and
-     (markAsReadEnd.label). -->
-<!ENTITY markAsRead.label              "Várakozás">
-<!ENTITY markAsRead.accesskey          "V">
-<!ENTITY markAsReadEnd.label           "másodpercig az üzenet olvasottként megjelölése előtt">
+<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey      "A">
+<!ENTITY markAsReadNoDelay.label       "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label         "After displaying for">
+<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY secondsLabel.label            "másodperc">
 <!ENTITY showFolderColumns.label       "Kibővített oszlopok megjelenítése a mappapanelon">
 <!ENTITY showFolderColumns.accesskey   "K">
 <!ENTITY rememberLastMsg.label         "Az utolsó kijelölés megjegyzése">

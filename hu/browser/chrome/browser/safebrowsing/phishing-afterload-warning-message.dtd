@@ -15,12 +15,10 @@
 <!ENTITY safeb.palm.notforgery.label2 "Ez nem hamisított weboldal...">
 <!ENTITY safeb.palm.report.label "Miért nem jelenik meg ez a webhely?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Ez az oldal veszélyes lehet, kattintson ide a részletekért.">
-
 <!ENTITY safeb.blocked.malware.title "Bejelentett támadó webhely!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "A(z) <span id='malware_sitename'/> címen működő webhelyről bejelentés érkezett, hogy támadó webhely, ezért a biztonsági beállítások alapján a böngésző a hozzáférést nem engedélyezi.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>A támadó webhelyek megpróbálnak olyan programokat telepíteni, amelyek személyes adatokat lopnak el, a számítógépet mások megtámadására használják, vagy károsítják a rendszert.</p><p>Egyes támadó webhelyek szándékosan terjesztenek ártó szoftvereket, de sok olyan van, amelyet a tulajdonosa tudta vagy engedélye nélkül használnak ilyen célra.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "A(z) <span id='malware_sitename'> címen működő webhelyről bejelentés érkezett, hogy támadó webhely, ezért a biztonsági beállítások alapján a böngésző a hozzáférést nem engedélyezi.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>A támadó webhelyek megpróbálnak olyan programokat telepíteni, amelyek személyes adatokat lopnak el, a számítógépet mások megtámadására használják, vagy károsítják a rendszert</p><p>Egyes támadó webhelyek szándékosan terjesztenek ártó szoftvereket, de sok olyan van, amelyet a tulajdonosa tudta vagy engedélye nélkül használnak ilyen célra.</p>">
 
 <!ENTITY safeb.blocked.phishing.title "Bejelentett hamisított webhely!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

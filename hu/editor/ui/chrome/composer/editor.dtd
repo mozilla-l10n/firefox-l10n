@@ -51,8 +51,6 @@
 <!ENTITY formattingtb.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Szerkesztőmód eszköztár">
 <!ENTITY editmodetb.accesskey "e">
-<!ENTITY taskbarCmd.label "Állapotsor">
-<!ENTITY taskbarCmd.accesskey "l">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formátum">

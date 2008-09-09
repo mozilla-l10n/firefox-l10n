@@ -6,6 +6,8 @@
 <!ENTITY viewAll.accesskey "s">
 <!ENTITY viewUnread.label "Olvasatlan">
 <!ENTITY viewUnread.accesskey "O">
+<!ENTITY viewNotDeleted.label "Nem törölt">
+<!ENTITY viewNotDeleted.accesskey "r">
 <!ENTITY viewTags.label "Címkék">
 <!ENTITY viewTags.accesskey "C">
 <!ENTITY viewCustomViews.label "Egyéni nézetek">

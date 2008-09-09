@@ -7,8 +7,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "Keresés:">
-<!ENTITY filter.accesskey        "K">
-
-<!ENTITY  clear.label             "Törlés">
-<!ENTITY clear.accesskey         "l">
+<!ENTITY  filter.emptytext        "Keresés">

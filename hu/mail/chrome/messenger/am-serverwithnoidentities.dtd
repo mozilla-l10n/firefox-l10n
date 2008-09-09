@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "A Törölt elemek mappa ürítése kilépéskor">
 <!ENTITY emptyTrashOnExit.accesskey "r">
 <!ENTITY localPath.label "Helyi könyvtár:">
-<!ENTITY localPath.accesskey "H">
 <!ENTITY localFolderPicker.label "Helyi könyvtár kiválasztása">
 <!ENTITY browseFolder.label "Tallózás...">
 <!ENTITY browseFolder.accesskey "T">

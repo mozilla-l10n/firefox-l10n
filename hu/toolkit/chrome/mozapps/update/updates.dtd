@@ -10,8 +10,10 @@
 <!ENTITY cancel.accesskey                "M">
 
 <!ENTITY  noupdatesfound.title            "Nincsenek frissítések">
-<!ENTITY  noupdatesfound.intro            "Nincsenek új frissítések. A &brandShortName; rendszeresen
-                                           kereshet új frissítéseket.">
+<!ENTITY  noupdatesautoenabled.intro      "Nincsenek frissítések. A &brandShortName; rendszeresen
+                                           keresi az új frissítéseket.">
+<!ENTITY  noupdatesautodisabled.intro     "Nincsenek frissítések. Ellenőrizze később, vagy engedélyezza a
+                                           &brandShortName;'s automatikus frissítés-ellenőrzőjét.">
 
 <!ENTITY  incompatibleChecking.label      "Ellenőrzése, hogy ez a frissítés okozhat-e gondot a kiterjesztéseknél és témáknál...">
 <!ENTITY  clickHere.label                 "További információk erről a frissítésről">

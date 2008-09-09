@@ -35,12 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  pref.validation.title                   "Érvényesítés">
-
-<!ENTITY  validation.crl.caption                  "CRL">
-<!ENTITY  validation.crl.description              "A CRL-kezelő segítségével kezelheti a tanúsítvány-adatbázisában tárolt visszavont tanúsítványok listáját (CRL).">
-<!ENTITY  validation.managecrls.button            "CRL-ek kezelése...">
-<!ENTITY validation.managecrls.accesskey         "C">
 <!ENTITY  validation.crlmanager.label             "CRL-ek kezelése">
 <!ENTITY  validation.crlmanager.description       "A visszavont tanúsítványok listái (CRL-ek) a tanúsítvány-adatbázisban vannak tárolva:">
 <!ENTITY  validation.crlname.label                "Név">
@@ -55,33 +49,19 @@
 <!ENTITY  validation.advanced.label               "Beállítások">
 <!ENTITY validation.advanced.accesskey           "B">
 
-<!ENTITY  validation.crl.autoupdate.title         "Automatikus CRL-frissítés beállításai">
+<!ENTITY  validation.crl.autoupdate.title         "Automatic CRL Update Preferences">
 <!ENTITY  validation.crl.autoupdate.enable.label  "A CRL automatikus frissítésének engedélyezése">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Frissítés">
 <!ENTITY  validation.crl.autoupdate.time.label2   "nappal a következő frissítés dátuma előtt">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Frissítés">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "naponként">
 <!ENTITY  validation.crl.autoupdate.url.label     "A CRL-t a következő helyről importálja:">
-<!ENTITY  crl.import.status.title                 "CRL-importálás állapota">
-<!ENTITY  crl.import.success.message              "A visszavont tanúsítványok listája (CRL) sikeresen importálva.">
-<!ENTITY  crl.issuer.label                        "CRL kibocsátója:">
-<!ENTITY  crl.issuer.org.label                    "Szervezet:">
-<!ENTITY  crl.issuer.orgunit.label                "Egység:">
+<!ENTITY  crl.import.status.title                 "CRL Import Status">
+<!ENTITY  crl.import.success.message              "The Certificate Revocation List (CRL) was successfully imported.">
+<!ENTITY  crl.issuer.label                        "CRL Issued By:">
+<!ENTITY  crl.issuer.org.label                    "Organization: ">
+<!ENTITY  crl.issuer.orgunit.label                "Unit: ">
 <!ENTITY  crl.import.nextupdate.label             "Következő frissítés: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Eddigi frissítési hibák: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Utolsó hiba részletei: ">
 <!ENTITY  edit.button                             "Beállítások">
-
-<!ENTITY validation.ocsp.caption                  "OCSP">
-<!ENTITY enableOCSP.label                         "Az Online Certificate Status Protocol (OCSP) használata a tanúsítványok érvényességének ellenőrzésére">
-<!ENTITY enableOCSP.accesskey                     "O">
-<!ENTITY certOCSP2.label                          "Tanúsítvány érvényesítése, ha megad egy OCSP-kiszolgálót">
-<!ENTITY certOCSP2.accesskey                      "T">
-<!ENTITY proxyOCSP2.label                         "Minden tanúsítvány érvényesítése a következő OCSP-kiszolgálóval:">
-<!ENTITY proxyOCSP2.accesskey                     "M">
-<!ENTITY serviceURL.label                         "Szolgáltatási URL:">
-<!ENTITY serviceURL.accesskey                     "S">
-<!ENTITY signingCA.label                          "A válasz aláírója:">
-<!ENTITY signingCA.accesskey                      "v">
-<!ENTITY validation.requireOCSP.description       "Ha a kapcsolat az OCSP-kiszolgálóval nem jön létre, akkor a tanúsítvány érvénytelenként kezelése">
-<!ENTITY validation.requireOCSP.accesskey         "H">

@@ -56,8 +56,8 @@
 <!ENTITY daysOld.label "nap">
 <!ENTITY message.label "üzenet">
 <!ENTITY retentionCleanup.label "Lemezhely felszabadítása céljából a régi üzenetek véglegesen törölhetők.">
-<!ENTITY retentionKeepMsg.label "Üzenetek törlése, ha régebbiek, mint">
-<!ENTITY retentionKeepMsg.accesskey "r">
+<!ENTITY retentionDeleteMsg.label "Üzenetek törlése, ha régebbiek, mint">
+<!ENTITY retentionDeleteMsg.accesskey "z">
 <!ENTITY retentionKeepAll.label "Minden üzenet megtartása">
 <!ENTITY retentionKeepAll.accesskey "M">
 <!ENTITY retentionKeepNew.label "Minden üzenet törlése, kivéve az utolsó">
@@ -90,7 +90,7 @@
 <!ENTITY privilegesDesc.label                    "Mappa megosztása a hálózati felhasználók számára és a jogosultságok beállítása">
 <!ENTITY privileges.button.label                 "Jogosultságok...">
 <!ENTITY privileges.button.accesskey             "J">
-<!ENTITY permissionsDesc.label                   "A következő jogosultságokkal rendelkezik:">
+<!ENTITY permissionsDesc.label                   "A következő jogosultságai vannak:">
 <!ENTITY folderType.label                        "Mappatípus:">
 
 <!ENTITY folderQuotaTab.label                    "Kvóta">

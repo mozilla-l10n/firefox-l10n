@@ -1,9 +1,0 @@
-<!ENTITY caption.label "Blokkolt felugró ablakok">
-
-<!ENTITY intro.label "Az alábbi kiszolgálóknál le van tiltva a kéretlen felugró ablakok megjelenítése:">
-
-<!ENTITY done.label "Bezárás">
-<!ENTITY done.accesskey "B">
-
-<!ENTITY unblock.label "Engedélyezés">
-<!ENTITY unblock.accesskey "E">
