@@ -1,4 +1,5 @@
 <!-- extracted from institems.xul -->
+
 <!ENTITY dialog.title            "Inštalácia softvéru">
 <!ENTITY dialog.style            "width: 45em">
 <!ENTITY warningPrimary.label    "Inštalujte doplnky len od autorov, ktorým dôverujete.">

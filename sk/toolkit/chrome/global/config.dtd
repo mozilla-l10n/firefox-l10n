@@ -18,7 +18,7 @@
    - Portions created by the Initial Developer are Copyright (C) 2002
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributors:
+   - Contributor(s):
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or 
@@ -45,22 +45,23 @@
 
 <!ENTITY filterPrefs.label "Filter:">
 <!ENTITY filterPrefs.accesskey "F">
-<!ENTITY showAll.label "Zobraziť všetky">
-<!ENTITY showAll.accesskey "b">
+
 <!-- Columns -->
 <!ENTITY prefColumn.label "Názov predvoľby">
 <!ENTITY lockColumn.label "Stav">
 <!ENTITY typeColumn.label "Typ">
 <!ENTITY valueColumn.label "Hodnota">
+
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Kliknutím zoradíte">
 <!ENTITY columnChooser.tooltip "Kliknutím vyberte stĺpce, ktoré sa majú zobraziť">
+
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopírovať">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Kopírovať názov">
-<!ENTITY copyName.accesskey "a">
+<!ENTITY copyName.accesskey "n">
 <!ENTITY copyValue.label "Kopírovať hodnotu">
 <!ENTITY copyValue.accesskey "h">
 <!ENTITY modify.label "Upraviť">
@@ -68,9 +69,9 @@
 <!ENTITY toggle.label "Prepnúť">
 <!ENTITY toggle.accesskey "P">
 <!ENTITY reset.label "Obnoviť">
-<!ENTITY reset.accesskey "v">
+<!ENTITY reset.accesskey "b">
 <!ENTITY new.label "Nové">
-<!ENTITY new.accesskey "N">
+<!ENTITY new.accesskey "o">
 <!ENTITY string.label "Reťazec">
 <!ENTITY string.accesskey "R">
 <!ENTITY integer.label "Celé číslo">

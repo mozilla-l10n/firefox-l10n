@@ -13,7 +13,7 @@
 <!ENTITY  wpadTypeRadio.label           "Automatická detekcia nastavení tejto siete">
 <!ENTITY  wpadTypeRadio.accesskey       "d">
 <!ENTITY  autoTypeRadio.label           "Adresa URL pre automatické nastavenie serverov proxy:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Obnoviť">
 <!ENTITY  reload.accesskey              "b">
 <!ENTITY  http.label                    "Server proxy:">

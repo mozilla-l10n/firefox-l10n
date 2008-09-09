@@ -1,20 +1,27 @@
 <!-- extracted from printdialog.xul -->
+
 <!ENTITY printButton.label "Tlačiť">
+
 <!ENTITY printDialog.title "Tlač">
+
 <!ENTITY fpDialog.title "Uložiť súbor">
+
 <!ENTITY fileCheck.label "Tlač do súboru">
 <!ENTITY propertiesButton.label "Vlastnosti…">
 <!ENTITY descText.label "Popis tlačiarne:">
 <!ENTITY printer.label "Tlačiareň">
 <!ENTITY printerInput.label "Tlačiareň:">
+
 <!ENTITY printrangeGroup.label "Rozsah tlače">
 <!ENTITY allpagesRadio.label "Všetky strany">
 <!ENTITY rangeRadio.label "Strany">
 <!ENTITY frompageInput.label "od">
 <!ENTITY topageInput.label "do">
 <!ENTITY selectionRadio.label "Výber">
+
 <!ENTITY copies.label "Kópie">
 <!ENTITY numCopies.label "Počet kópií:">
+
 <!ENTITY printframeGroup.label "Tlač rámcov">
 <!ENTITY aslaidoutRadio.label "Tak, ako sú rozložené na obrazovke">
 <!ENTITY selectedframeRadio.label "Iba vybraný rámec">

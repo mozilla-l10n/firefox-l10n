@@ -8,20 +8,25 @@
 <!ENTITY popupBlock.accesskey           "B">
 
 <!ENTITY popupExceptions.label          "Povolené stránky…">
-<!ENTITY popupExceptions.accesskey      "P">
+<!ENTITY popupExceptions.accesskey      "o">
 
 <!ENTITY whenBlock.description          "Pri zablokovaní vyskakovacieho okna:">
 <!ENTITY playSound.label                "Prehrať zvuk:">
-<!ENTITY playSound.accesskey            "z">
+<!ENTITY playSound.accesskey            "e">
+<!ENTITY systemSound.label              "Systémový">
+<!ENTITY systemSound.accesskey          "S">
+<!ENTITY customSound.label              "Vlastný zvukový súbor">
+<!ENTITY customSound.accesskey          "V">
 
 <!ENTITY selectSound.label              "Prehľadávať…">
 <!ENTITY selectSound.accesskey          "r">
 <!ENTITY previewSound.label             "Ukážka">
 <!ENTITY previewSound.accesskey         "U">
 <!ENTITY selectSound.title              "Výber zvuku pre blokovanie okien">
+<!ENTITY selectSound.filter             "Zvuky">
 
 <!ENTITY displayIcon.label              "Zobraziť ikonu v stavovom riadku prehliadača">
-<!ENTITY displayIcon.accesskey          "i">
+<!ENTITY displayIcon.accesskey          "Z">
 
 <!ENTITY popupNote.description          "Poznámka: Blokovanie všetkých vyskakovacích okien môže zabrániť správnej funkčnosti niektorých webových stránok, ako napr. prihlasovacie obrazovky bánk alebo obchodných centier. Viac informácií o spôsobe, ako povoliť zobrazovanie vyskakovacích okien pre určité stránky a zároveň blokovať okná z ostatných stránok, sa dozviete po kliknutí na tlačidlo Pomocník. Aj po zablokovaní však môžu stránky použiť iné metódy na zobrazovanie vyskakovacích okien.">
 

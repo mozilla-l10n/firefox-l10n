@@ -1,8 +1,10 @@
 <!ENTITY colorsDialog.title          "Farby">
 <!ENTITY window.width                "39em">
 <!ENTITY window.macWidth             "41em">
+
 <!ENTITY allowPagesToUse.label       "Povoliť stránkam používať vlastné farby namiesto mnou vyššie vybraných">
 <!ENTITY allowPagesToUse.accesskey   "o">
+
 <!ENTITY color                       "Text a pozadie">
 <!ENTITY textColor.label             "Text:">
 <!ENTITY textColor.accesskey         "T">
@@ -10,6 +12,7 @@
 <!ENTITY backgroundColor.accesskey   "z">
 <!ENTITY useSystemColors.label       "Použiť systémové farby">
 <!ENTITY useSystemColors.accesskey   "s">
+
 <!ENTITY underlineLinks.label        "Podčiarkovať odkazy">
 <!ENTITY underlineLinks.accesskey    "d">
 <!ENTITY links                       "Farby odkazov">

@@ -7,13 +7,13 @@
 <!ENTITY prefEnableHTTP10.accesskey          "o">
 <!ENTITY prefEnableHTTP10Proxy.accesskey     "u">
 <!ENTITY prefEnableHTTP11.label              "Použiť HTTP 1.1">
-<!ENTITY prefEnableHTTP11.accesskey          "P">
-<!ENTITY prefEnableHTTP11Proxy.accesskey     "i">
+<!ENTITY prefEnableHTTP11.accesskey          "H">
+<!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
 <!ENTITY prefEnableKeepAlive.label           "Povoliť trvalé spojenia (Keep-Alive)">
 <!ENTITY prefEnableKeepAlive.accesskey       "K">
 <!ENTITY prefEnableKeepAliveProxy.accesskey  "A">
 <!ENTITY prefEnablePipelining.label          "Povoliť Pipelining">
-<!ENTITY prefEnablePipelining.accesskey      "P">
-<!ENTITY prefEnablePipeliningProxy.accesskey "n">
-<!ENTITY prefPara                            "Nastavenia spojení HTTP môžu byť vylepšené týmito voľbami a tým môže byť zvýšená rýchlosť alebo kompatibilita. Napríklad niektoré servery proxy vyžadujú HTTP/1.0 (viac informácií v poznámkach k vydaniu).">
-<!ENTITY prefPipeWarning                     "UPOZORNENIA: pipelining je experimentálna funkcia navrhnutá na zlepšenie výkonu pri načítavaní stránok, nanešťastie nie je podporovaná niektorými webovými servermi a servermi proxy.">
+<!ENTITY prefEnablePipelining.accesskey      "v">
+<!ENTITY prefEnablePipeliningProxy.accesskey "e">
+<!ENTITY prefPara                            "Nastavenia spojení HTTP môžu byť zmenené pomocou týchto volieb a tým môže byť zvýšená rýchlosť alebo kompatibilita. Napríklad niektoré servery proxy vyžadujú HTTP/1.0 (viac informácií v poznámkach k vydaniu).">
+<!ENTITY prefPipeWarning                     "UPOZORNENIE: pipelining je experimentálna funkcia navrhnutá na zlepšenie výkonu pri načítavaní stránok, nanešťastie nie je podporovaná niektorými webovými servermi a servermi proxy.">

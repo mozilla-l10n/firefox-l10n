@@ -536,6 +536,7 @@
 <!ENTITY searchFromMenu.label "Od">
 <!ENTITY searchSubjectOrFromMenu.label "Predmet alebo Od">
 <!ENTITY searchRecipient.label "Komu alebo Kópia">
+<!ENTITY searchSubjectOrRecipientMenu.label "Predmet, Komu alebo Kópia">
 <!ENTITY searchMessageBody.label "Telo správy">
 <!ENTITY saveAsVirtualFolderMenu.label "Uložiť hľadanie ako priečinok…">
 

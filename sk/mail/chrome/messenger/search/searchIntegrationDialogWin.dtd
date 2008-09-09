@@ -1,0 +1,6 @@
+<!ENTITY searchIntegration.engineName "Windows Search">
+<!ENTITY searchIntegration.title "Integrácia so službou &searchIntegration.engineName;">
+<!ENTITY searchIntegration.description "Chcete povoliť službe &searchIntegration.engineName; indexovať a prehľadávať e-mailové správy a diskusné skupiny v &brandShortName;e?">
+
+<!ENTITY searchIntegration.accept "Povoliť &searchIntegration.engineName;">
+<!ENTITY searchIntegration.cancel "Nepovoliť &searchIntegration.engineName;">
