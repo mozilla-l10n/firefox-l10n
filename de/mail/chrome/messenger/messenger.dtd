@@ -535,7 +535,8 @@
 <!ENTITY searchSubjectMenu.label "Betreff">
 <!ENTITY searchFromMenu.label "Von">
 <!ENTITY searchSubjectOrFromMenu.label "Betreff oder Von">
-<!ENTITY searchRecipient.label "Empfänger (An oder CC)">
+<!ENTITY searchRecipient.label "An oder CC">
+<!ENTITY searchSubjectOrRecipientMenu.label "Betreff, An oder CC">
 <!ENTITY searchMessageBody.label "Nachrichtentext">
 <!ENTITY saveAsVirtualFolderMenu.label "Als virtuellen Ordner speichern…">
 
