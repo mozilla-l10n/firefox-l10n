@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title "Rhybuddion Diogelwch">
+
+<!ENTITY security.warn_when "Dangos deialog rhybudd pan:">
+<!ENTITY security.warn_entering_secure.label "Rwyf ar fin darllen tudalen amgryptiedig">
+<!ENTITY security.warn_entering_secure.accesskey "t">
+<!ENTITY security.warn_entering_weak.label "Rwyf ar fin darllen tudalen sy'n defnyddio amgryptiad o safon isel.">
+<!ENTITY security.warn_entering_weak.accesskey "u">
+<!ENTITY security.warn_leaving_secure.label "Rwy'n gadael tudalen amgryptiedig am un nad yw.">
+<!ENTITY security.warn_leaving_secure.accesskey "w">
+<!ENTITY security.warn_submit_insecure.label "Rwy'n cyflwyno gwybodaeth nad yw'n amgryptiedig.">
+<!ENTITY security.warn_submit_insecure.accesskey "y">
+<!ENTITY security.warn_viewing_mixed.label "Rwyf ar fin darllen tudalen amgryptiedig sy'n cynnwys gwybodaeth amgryptiedig.">
+<!ENTITY security.warn_viewing_mixed.accesskey "f">

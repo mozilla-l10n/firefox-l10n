@@ -1,0 +1,59 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Adrodd ar Gwefan Wedi Torri">
+
+<!ENTITY privacyNotice.label "Polisi Preifatrwydd">
+<!ENTITY reportWizardPrivacy.description "Mae'r offeryn yn caniatáu i chi ddweud wrth yr Evangelism Team am wefannau nad ydynt yn gweithio'n iawn gyda &brandShortName;, neu sy'n cau &brandShortName; allan. Dyma'ch ffordd chi i'n helpu ni i sicrhau'r profiad gorau i ddefnyddwyr brandShortNam">
+<!ENTITY reportWizardMustAgree.description "I barhau rhaid i chi gytuno i'r polisi preifatrwydd uchod">
+
+<!ENTITY dontShowPrivacyStatement.label "Rwyf wedi darllen a derbyn y polisi preifatrwydd uchod.">
+<!ENTITY dontShowPrivacyStatement.accesskey "R">
+
+<!ENTITY reportForm.label "Llanw Adroddiad">
+
+<!ENTITY reportForm.description "Dywedwch rywfaint wrthym am y broblem gawsoch:">
+<!ENTITY reportForm.url.title "URL gwefan:">
+<!ENTITY reportForm.url.accesskey "U">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Mae'r wefan wedi ei diogelu gan gyfrinair.">
+<!ENTITY reportForm.behind_login.accesskey "M">
+
+<!ENTITY reportForm.problem_type.title "Math o Broblem:">
+<!ENTITY reportForm.problem_type.accesskey "B">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Dewis Un...">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Dim yn cynnal y porwr">
+<!ENTITY reportForm.problem_type.item2.title "Methu allgofnodi">
+<!ENTITY reportForm.problem_type.item3.title "Heb ddangos ategyn">
+<!ENTITY reportForm.problem_type.item4.title "Cynnwys arall ar goll">
+<!ENTITY reportForm.problem_type.item5.title "Ymddygiad anghywir">
+<!ENTITY reportForm.problem_type.item6.title "Gwedd anghywir">
+<!ENTITY reportForm.problem_type.item7.title "Problem arall">
+<!ENTITY reportForm.problem_type.item8.title "Mynediad i'r anabl">
+<!ENTITY reportForm.problem_type.item9.title "Mae'r allbrint yn anghywir">
+
+<!ENTITY reportForm.describe.title "Disgrifiwch y broblem:">
+<!ENTITY reportForm.describe.accesskey "D">
+
+<!ENTITY reportForm.platform.title "Platfform:">
+<!ENTITY reportForm.product.title "Cynnyrch:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "Asiantdefnyddiwr:">
+<!ENTITY reportForm.language.title "Iaith:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "E-bost (Dewisol):">
+<!ENTITY reportForm.email.accesskey "E">
+
+<!ENTITY reportForm.privacyPolicy.title "Polisi Preifatrwydd">
+<!ENTITY reportForm.privacyPolicy.tooltip "Darllen Polisi Preifatrwydd">
+
+<!ENTITY reportResults.showDetail.title "Dangos Manylion">
+<!ENTITY reportResults.showDetail.accesskey "M">
+
+<!ENTITY sendReport.label "Anfon Adroddiad">
+<!ENTITY sendReport.description "Anfon Adroddiad i'r Gweinydd...">
+
+<!ENTITY finish.label "Anfonwyd yr Adroddiad">

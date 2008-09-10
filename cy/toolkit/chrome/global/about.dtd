@@ -1,0 +1,19 @@
+<!ENTITY about.version "fersiwn">
+
+<!ENTITY about.copy.beforeLink "Hawlfraint &copy; 1998-2008">
+<!ENTITY about.copy.linkTitle "gyfrannwyr">
+<!ENTITY about.copy.afterLink "i Broject Mozilla.">
+
+<!ENTITY about.license.beforeLink "Darllennwch y">
+<!ENTITY about.license.linkTitle "wybodaeth drwyddedu">
+<!ENTITY about.license.afterLink "ar gyfer y cynnyrch.">
+
+<!ENTITY about.relnotes.beforeLink "Darllennwch y">
+<!ENTITY about.relnotes.linkTitle "nodiadau ryddhau">
+<!ENTITY about.relnotes.afterLink "ar gyfer y fersiwn yma.">
+
+<!ENTITY about.buildconfig.beforeLink "Gweler y">
+<!ENTITY about.buildconfig.linkTitle "ffurfweddiad adeiladu">
+<!ENTITY about.buildconfig.afterLink "ddefnyddiwyd ar gyfer y fersiwn yma.">
+
+<!ENTITY about.buildIdentifier "Dynodwr:">

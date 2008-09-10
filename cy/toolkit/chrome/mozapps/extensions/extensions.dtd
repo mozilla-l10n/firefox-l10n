@@ -1,0 +1,170 @@
+<!ENTITY addons.title "Ychwanegion">
+<!-- Default window size for the addon manager in pixels -->
+
+<!ENTITY em.width "520">
+<!ENTITY em.height "380">
+
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!-- View labels -->
+
+<!ENTITY search.label "Estyn Ychwanegion">
+<!ENTITY extensions.label "Estyniadau">
+<!ENTITY themes.label "Themâu">
+<!ENTITY locales.label "Ieithoedd">
+<!ENTITY plugins.label "Ategynnau">
+<!ENTITY update.label "Diweddariadau">
+<!ENTITY install.label "Gosod">
+<!-- Command Bar items -->
+
+<!ENTITY cmd.checkUpdatesAll.label "Canfod Diweddariadau">
+<!ENTITY cmd.checkUpdatesAll.accesskey "C">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Canfod Diweddariadau i'ch Ychwanegyn">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Canfod Diweddariadau i'ch Themâu">
+<!ENTITY cmd.installLocalFile.label "Gosod">
+<!ENTITY cmd.installLocalFile.accesskey "g">
+<!ENTITY cmd.installFileAddon.tooltip "Gosod Ychwanegyn">
+<!ENTITY cmd.installFileTheme.tooltip "Gosod Thema">
+<!ENTITY cmd.installUpdatesAll.label "Gosod Diweddariadau">
+<!ENTITY cmd.installUpdatesAll.accesskey "D">
+<!ENTITY cmd.installUpdatesAll.tooltip "Gosod y diweddariad">
+<!ENTITY cmd.restartApp2.label "Ailgychwyn &brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey "A">
+<!ENTITY cmd.restartApp2.tooltip "Ail gychwynnwch &brandShortName; i wireddu'r newid">
+<!ENTITY cmd.skip.label "Hepgor">
+<!ENTITY cmd.skip.accesskey "h">
+<!ENTITY cmd.skip.tooltip "Hepgor y diweddariadau">
+<!ENTITY cmd.continue.label "Parhau">
+<!ENTITY cmd.continue.accesskey "P">
+<!ENTITY cmd.continue.tooltip "Parhau i lwytho &brandShortName;">
+
+<!ENTITY cmd.enableAll.label "Galluogi Popeth">
+<!ENTITY cmd.enableAll.accesskey "p">
+<!ENTITY cmd.enableAll.tooltip "Galluogi pob Ychwanegyn">
+<!ENTITY cmd.disableAll.label "Aalluogi Popeth">
+<!ENTITY cmd.disableAll.accesskey "a">
+<!ENTITY cmd.disableAll.tooltip "Analluogi pob Ychwanegyn">
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+
+<!ENTITY cmd.useTheme.label "Defnyddio Thema">
+<!ENTITY cmd.useTheme.accesskey "T">
+<!ENTITY cmd.useTheme.tooltip "Newid Thema &brandShortName;">
+<!ENTITY cmd.options.label "Dewisiadau">
+<!ENTITY cmd.options.accesskey "D">
+<!ENTITY cmd.options.tooltip "Gosod Dewisiadau ar gyfer yr Estyniad">
+<!ENTITY cmd.optionsUnix.label "Dewisiadau">
+<!ENTITY cmd.optionsUnix.accesskey "e">
+<!ENTITY cmd.optionsUnix.tooltip "Golygu Dewisiadau ar gyfer yr Estyniadau hyn">
+<!ENTITY cmd.enable.label "Galluogi">
+<!ENTITY cmd.enable.accesskey "G">
+<!ENTITY cmd.enable.tooltip "Galluogi'r Ychwanegyn pan fydd &brandShortName; wedi ei ailgychwyn">
+<!ENTITY cmd.disable.label "Analluogi">
+<!ENTITY cmd.disable.accesskey "A">
+<!ENTITY cmd.disable.tooltip "Analluogi yr Ychwanegyn pan fydd &brandShortName; wedi ei ailgychwyn">
+<!ENTITY cmd.uninstall.label "Dadosod">
+<!ENTITY cmd.uninstall2.accesskey "D">
+<!ENTITY cmd.uninstall2.tooltip "Dadosod yr Ychwanegyn pan fydd &brandShortName; wedi ei ailgychwyn">
+<!ENTITY cmd.cancelUninstall.label "Diddymu Dadosod">
+<!ENTITY cmd.cancelUninstall.accesskey "D">
+<!ENTITY cmd.cancelUninstall.tooltip "Diddymu dadosod yr Ychwanegyn">
+<!ENTITY cmd.cancelInstall.label "Diddymu'r Gosod">
+<!ENTITY cmd.cancelInstall.accesskey "D">
+<!ENTITY cmd.cancelInstall.tooltip "Diddymu gosod yr Ychwanegyn">
+<!ENTITY cmd.cancelUpgrade.label "Diddymu'r Diweddariad">
+<!ENTITY cmd.cancelUpgrade.accesskey "D">
+<!ENTITY cmd.cancelUpgrade.tooltip "Diddymu diweddariad yr Ychwanegyn">
+<!ENTITY cmd.installUpdate.label "Gosod Diweddariadau">
+<!ENTITY cmd.installUpdate.accesskey "D">
+<!ENTITY cmd.installUpdate.tooltip "Gosod diweddariad i'r Ychwanegyn">
+<!ENTITY cmd.showUpdateInfo.label "Dangos Gwybodaeth">
+<!ENTITY cmd.showUpdateInfo.accesskey "D">
+<!ENTITY cmd.showUpdateInfo.tooltip "Dangos rhagor o wybodaeth am y diweddariadau">
+<!ENTITY cmd.hideUpdateInfo.label "Cuddio gwybodaeth">
+<!ENTITY cmd.hideUpdateInfo.accesskey "C">
+<!ENTITY cmd.hideUpdateInfo.tooltip "Cuddio gwybodaeth am y diweddariadau">
+<!ENTITY cmd.installSearchResult.label "Ychwanegu at &brandShortName;…">
+<!ENTITY cmd.installSearchResult.accesskey "Y">
+<!ENTITY cmd.installSearchResult.tooltip "Llwytho i lawr a gosod yr ychwanegyn">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label "Diddymu">
+<!ENTITY cancel.accesskey "D">
+<!ENTITY cancelInstall.label "Diddymu">
+<!ENTITY cancelInstall.accesskey "D">
+<!ENTITY cancelUpgrade.label "Diddymu">
+<!ENTITY cancelUpgrade.accesskey "D">
+<!-- Only displayed in the selected Add-on's context menu -->
+
+<!ENTITY cmd.homepage.label "Ymweld â'r Dudalen Cartref">
+<!ENTITY cmd.homepage.accesskey "D">
+<!ENTITY cmd.about2.label "Ynghylch yr Ychwanegyn">
+<!ENTITY cmd.about.accesskey "Y">
+<!ENTITY cmd.checkUpdate.label "Canfod Diweddariad">
+<!ENTITY cmd.checkUpdate.accesskey "F">
+
+<!ENTITY cmd.includeUpdate.label "Cynnwys Diweddariad">
+<!ENTITY cmd.includeUpdate.accesskey "c">
+<!ENTITY includeUpdate.label "Cynnyws y diweddariad">
+<!ENTITY includeUpdate.accesskey "y">
+<!ENTITY includeUpdate.tooltip "Cynnwys yr Ychwanegyn wrth osod diweddariadau">
+<!-- Status Messsages -->
+
+<!ENTITY insecureUpdate.label "Nid yw'n darparu diweddariadau diogel.">
+<!ENTITY needsDependencies.label "Mae amgen eitemau ychwanegol">
+<!ENTITY blocklisted.label "Anablu eich diogelwch">
+<!ENTITY toBeDisabled.label "Bydd yr ychwanegyn yn cael ei anablu pan fydd &brandShortName; wedi ei ailgychwyn.">
+<!ENTITY toBeEnabled.label "Bydd yr ychwanegyn yn cael ei alluogi pan fydd &brandShortName; wedi ei ailgychwyn.">
+<!ENTITY toBeInstalled.label "Bydd yr ychwanegyn wedi ei osod pan fydd &brandShortName; wedi ei ailgychwyn.">
+<!ENTITY toBeUninstalled.label "Bydd yr ychwanegyn yn cael ei ddadosod pan fydd &brandShortName; wedi ei ailgychwyn.">
+<!ENTITY toBeUpdated.label "Bydd yr ychwanegyn yn cael ei ddiweddaru ar ôl i &brandShortName; gael ei ail gychwyn.">
+
+<!ENTITY getExtensions.label "Estyn Estyniadau">
+<!ENTITY getThemes.label "Estyn Themâu">
+<!ENTITY getPlugins.label "Estyn Ategynnau">
+
+<!ENTITY searchAddons.label "Chwilio Pob Ychwanegyn">
+<!ENTITY browseAddons.label "Pori Pob Ychwanegyn">
+<!ENTITY searchFailed.label "Methodd &brandShortName; ag estyn ychwanegion">
+<!ENTITY recommendedHeader.label "Argymhellir">
+<!ENTITY recommendedThrobber.label "Estyn ychwanegion argymellir">
+<!ENTITY searchThrobber.label "Chwilio'r ychwanegion">
+<!ENTITY resetSearch.label "Clirio'r Canlyniadau">
+<!ENTITY noSearchResults.label "Mae pob canlyniad wedi eu gosod neu yn anghymarus">
+<!ENTITY noRecommendedResults.label "Mae pob argymhelliad wedi eu gosod neu yn anghymarus">
+<!ENTITY emptySearch.label "Dim ychwanegion cymharus">
+<!ENTITY emptySearch.button "Iawn">
+<!ENTITY cancelSearch.button "Diddymu">
+<!ENTITY searchFailed.button "Iawn">
+<!ENTITY searchResultHomepage.value "Dysgu Mwy">
+<!ENTITY searchBox.label "Chwilio'r Holl Ychwanegion">
+<!ENTITY recommendedResults.label "Gweld yr holl Ychwanegion Argymhellir">
+<!ENTITY searchResultConnecting.label "Cysylltu...">
+<!ENTITY searchResultInstalling.label "Gosod...">
+<!ENTITY searchResultFailed.label "Methodd y Gosod">
+<!ENTITY searchResultInstalled.label "Cwblhawyd y Gosod">
+<!ENTITY addonTypeExtension.label "Estyniad">
+<!ENTITY addonTypeTheme.label "Thema">
+<!ENTITY missingThumbnail.label "Dim Rhagolwg">
+
+<!ENTITY previewNoThemeSelected.label "Heb Ddewis Thema">
+<!ENTITY previewNoPreviewImage.label "Nid oes gan y Thema Ddelwedd Rhagolwg">
+<!ENTITY moreInfo.label "Rhagor o wybodaeth">
+<!ENTITY infoNoAddonSelected.label "Heb Ddewis Diweddariad">
+<!ENTITY infoNoUpdateInfo.label "Nid oes gwybodaeth ychwanegol gan y diweddariad">
+<!ENTITY infoUpdateInfoError.label "Bu gwall wrth lwytho gwybodaeth am y diweddariad">
+
+<!ENTITY updateSuccess.label "Diweddariad llwyddiannus.">
+<!ENTITY installSuccess.label "Gosod yn llwyddiannus">
+<!ENTITY installSuccessRestart.label "Ailgychwyn i gwblhau'r gosod.">
+<!ENTITY updateSuccessRestart.label "Ailgychwyn i gwblhau'r diweddariad.">
+<!ENTITY installWaiting.label "Aros...">
+<!ENTITY installIncompatibleUpdate.label "Gwirio cydnawsedd">
+<!ENTITY installFinishing.label "Gosod...">
+<!ENTITY installFailure.label "Methodd y gosod.">
+
+<!ENTITY progressStatus.label "Gwirio am Ddiweddariadau">
+
+<!ENTITY eula.title "Cytundeb Trwyddedu'r Defnyddiwr">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Derbyn a Gosod...">

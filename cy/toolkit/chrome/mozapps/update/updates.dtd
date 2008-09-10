@@ -1,0 +1,81 @@
+<!ENTITY updateWizard.title "Diweddaru Meddalwedd">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "Gwirio am Ddiweddariadau">
+<!ENTITY checking.label "Mae &brandShortName; yn gwirio am ddiweddariadau…">
+
+<!ENTITY cancel.label "Diddymu">
+<!ENTITY cancel.accesskey "D">
+
+<!ENTITY noupdatesfound.title "Heb Ganfod Diweddariadau">
+<!ENTITY noupdatesfound.intro "Nid oes diweddariad newydd ar gael. Bydd &brandShortName; yn 
+gwirio o bryd i'w gilydd am ddiweddariadau newydd.">
+
+<!ENTITY incompatibleChecking.label "Gwirio os yw'r diweddariad yn achosi anawsterau gyda'ch estyniadau a/neu themâu...">
+<!ENTITY clickHere.label "Darllen mwy am y diweddariad">
+
+<!ENTITY incompatible.warning "Bydd y diweddariad yn achosi i rai o'ch estyniadau a/neu themâu 
+beidio gweithio nes eu bod wedi cael eu diweddaru.">
+<!ENTITY listIncompatible.label "Dangos Rhestr">
+<!ENTITY listIncompatible.accesskey "R">
+
+<!ENTITY upgrade.evangelism "Argymhellir yn gryf eich bod yn diweddaru &brandShortName; 
+gynted ag y bo modd.">
+
+<!ENTITY license.instructions "Os ydych yn cytuno ag amodau'r cytundeb, cliciwch Cytuno 
+isod i barhau i osod y diweddariad.">
+
+<!ENTITY license.titleText "Cytundeb Trwydded Meddalwedd">
+<!ENTITY license.introText "Amodau defnyddio'r feddalwedd">
+<!ENTITY license.instructionText "Darllenwch y cytundeb trwyddedu canlynol. Defnyddiwch y bar sgrolio i ddarllen gweddill y cytundeb.">
+<!ENTITY license.accept "Rwy'n Derbyn amodau’r Cytundeb Trwyddedu">
+<!ENTITY license.accept.accesskey "D">
+<!ENTITY license.decline "NID wyf yn derbyn amodau'r Cytundeb Trwyddedu">
+<!ENTITY license.decline.accesskey "N">
+
+<!ENTITY downloading.title "Llwytho'r Diweddariad">
+<!ENTITY downloading.intro "Llwytho'r diweddariad...">
+<!ENTITY connecting.label "Cysylltu á'r gweinydd diweddaru...">
+<!ENTITY verificationFailedText.label "Nid oedd &brandShortName; yn gallu gwirio integriad y 
+diweddariad cynyddol mae wedi ei lwytho, felly mae'n 
+llwytho'r pecyn diweddaru cyfan.">
+
+<!ENTITY details.link "Manylion">
+<!ENTITY pause.label "Saib">
+<!ENTITY pause.accesskey "s">
+<!ENTITY close.label "Cau">
+<!ENTITY close.accesskey "C">
+
+<!ENTITY error.label "Bu anawsterau wrth lwytho neu osod y diweddariad. Nid oedd 
+modd diweddaru &brandShortName; oherwydd:">
+                                           
+<!ENTITY errorManual.label "Gallwch ddiweddaru &brandShortName; gyda llaw drwy ymweld 
+â'r cysylltiad a llwytho'r fersiwn diweddaraf.">
+                                           
+<!ENTITY errorpatching.title "Methodd y Diweddariad">
+<!ENTITY errorpatching.intro "Nid oedd modd gosod y Diweddariad rhannol. 
+Bydd &brandShortName; yn ceisio eto drwy lwytho'r Diweddariad cyfan.">
+
+<!ENTITY finished.title "Diweddariad wedi ei Lwytho i Lawr">
+<!ENTITY finished.text "Cafodd y diweddariad ei lwytho a'i wirio'n llwyddiannus, a bydd yn 
+cael ei osod y tro nesaf fydd &brandShortName; yn cychwyn.">
+
+<!ENTITY finishedBackground.title "Diweddariad yn Barod i'w Osod">
+<!ENTITY finishedBackground.text "Mae &brandShortName; wedi llwytho a gwirio diweddariad pwysig. 
+Cliciwch y cysylltiad isod am wybodaeth bellach.">
+<!ENTITY finishedBackground.name "Diweddaru:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY finishedBackground.more1 "Cliciwch Ailgychwyn &brandShortName; Nawr i osod y diweddariad.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY finishedBackground.textNotNow "Cliciwch Nid Nawr i gau'r blwch yma a pharhau i weithio, bydd &brandShortName; 
+yn gosod y diweddariad y tro nesaf fydd yn cychwyn.">
+
+<!ENTITY installed.title "Diweddariad wedi ei Osod">
+<!ENTITY installed.intro "Cafodd y diweddariad ei osod yn llwyddiannus.">
+<!ENTITY whatsnew.label "Beth sy'n newydd...">
+
+<!ENTITY update.details.label "Manylion">
+<!ENTITY update.installedOn.label "Gosodwyd ar:">
+<!ENTITY update.status.label "Statws:">

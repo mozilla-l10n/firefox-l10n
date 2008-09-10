@@ -1,0 +1,31 @@
+<!ENTITY editMenu.label "Golygu">
+<!ENTITY editMenu.accesskey "o">
+<!ENTITY undoCmd.label "Dadwneud">
+<!ENTITY undoCmd.key "z">
+<!ENTITY undoCmd.accesskey "d">
+<!ENTITY redoCmd.label "Ail-wneud">
+<!ENTITY redoCmd.key "y">
+<!ENTITY redoCmd.accesskey "a">
+<!ENTITY cutCmd.label "Torri">
+<!ENTITY cutCmd.key "x">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copïo">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Gludo">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "g">
+<!ENTITY deleteCmd.label "Dileu">
+<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY selectAllCmd.label "Dewis y Cyfan">
+<!ENTITY selectAllCmd.key "a">
+<!ENTITY selectAllCmd.accesskey "e">
+<!ENTITY findCmd.label "Canfod">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "Canfod Eto">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "e">
+<!ENTITY findPreviousCmd.label "Canfod Blaenorol">
+<!ENTITY findPreviousCmd.accesskey "b">

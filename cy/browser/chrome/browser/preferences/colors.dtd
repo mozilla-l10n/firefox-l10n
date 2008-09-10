@@ -1,0 +1,22 @@
+<!ENTITY colorsDialog.title "Lliwiau">
+<!ENTITY window.width "38em">
+<!ENTITY window.macWidth "41em">
+
+<!ENTITY allowPagesToUse.label "Caniatáu i dudalennau ddewis eu lliw eu hun, yn lle fy newis i uchod">
+<!ENTITY allowPagesToUse.accesskey "C">
+
+<!ENTITY color "Testun a Chefndir">
+<!ENTITY textColor.label "Testun:">
+<!ENTITY textColor.accesskey "t">
+<!ENTITY backgroundColor.label "Cefndir:">
+<!ENTITY backgroundColor.accesskey "c">
+<!ENTITY useSystemColors.label "Defnyddio lliwiau'r system">
+<!ENTITY useSystemColors.accesskey "d">
+
+<!ENTITY underlineLinks.label "Tanlinellu cysylltiadau">
+<!ENTITY underlineLinks.accesskey "a">
+<!ENTITY links "Lliwiau Cysylltiadau">
+<!ENTITY linkColor.label "Cysylltiadau heb gael ymweliad:">
+<!ENTITY linkColor.accesskey "h">
+<!ENTITY visitedLinkColor.label "Cysylltiadau wedi cael ymweliad:">
+<!ENTITY visitedLinkColor.accesskey "w">

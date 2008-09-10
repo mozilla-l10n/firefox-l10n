@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title "Llyfrgell">
+<!ENTITY places.library.width "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label "Trefnu">
+<!ENTITY organize.accesskey "T">
+
+<!ENTITY file.accesskey "F">
+<!ENTITY file.close.label "Cau">
+<!ENTITY file.close.accesskey "C">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "Golygu">
+<!ENTITY edit.accesskey "G">
+<!ENTITY views.label "Golwg">
+<!ENTITY views.accesskey "G">
+<!ENTITY view.toolbar.label "Bar Offer">
+<!ENTITY view.toolbar.accesskey "b">
+<!ENTITY view.columns.label "Dangos Colofnau">
+<!ENTITY view.columns.accesskey "C">
+<!ENTITY view.sort.label "Trefnu">
+<!ENTITY view.sort.accesskey "T">
+<!ENTITY view.unsorted.label "Didrefn">
+<!ENTITY view.unsorted.accesskey "D">
+<!ENTITY view.sortAscending.label "Trefnu A > Z">
+<!ENTITY view.sortAscending.accesskey "A">
+<!ENTITY view.sortDescending.label "Trefnu Z - A">
+<!ENTITY view.sortDescending.accesskey "Z">
+<!ENTITY help.usingBookmarks.label "Defnyddio Nodau Tudalen">
+<!ENTITY help.usingBookmarks.accesskey "N">
+<!ENTITY help.usingHistory.label "Defnyddio Hanes">
+<!ENTITY help.usingHistory.accesskey "h">
+<!ENTITY help.advancedTips.label "Cyngor a Thriciau Uwch">
+<!ENTITY help.advancedTips.accesskey "C">
+
+<!ENTITY cmd.findInBookmarks.label "Canfod mewn Nodau Tudalen...">
+<!ENTITY cmd.findInBookmarks.accesskey "C">
+<!ENTITY cmd.findCurrent.label "Canfod yn y Casgliad Cyfredol...">
+<!ENTITY cmd.findCurrent.accesskey "a">
+
+<!ENTITY cmd.exportHTML.label "Allforio HTML...">
+<!ENTITY cmd.exportHTML.accesskey "A">
+<!ENTITY cmd.importHTML.label "Mewnforio HTML">
+<!ENTITY cmd.importHTML.accesskey "M">
+
+<!ENTITY cmd.backup.label "Copi wrth Gefn...">
+<!ENTITY cmd.backup.accesskey "C">
+<!ENTITY cmd.restore2.label "Adfer">
+<!ENTITY cmd.restore2.accesskey "A">
+<!ENTITY cmd.restoreFromFile.label "Dewis Ffeil...">
+<!ENTITY cmd.restoreFromFile.accesskey "D">
+
+<!ENTITY cmd.select_all.label "Dewis Popeth">
+<!ENTITY cmd.select_all.accesskey "P">
+<!ENTITY cmd.select_all.key "p">
+
+<!ENTITY cmd.edit_cut.label "Torri">
+<!ENTITY cmd.edit_cut.accesskey "t">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "Copïo">
+<!ENTITY cmd.edit_copy.accesskey "C">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "Gludo">
+<!ENTITY cmd.edit_paste.accesskey "G">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "Dileu">
+<!ENTITY cmd.edit_delete.accesskey "D">
+<!ENTITY cmd.edit_undo.label "Dadwneud">
+<!ENTITY cmd.edit_undo.accesskey "D">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "Ailwneud">
+<!ENTITY cmd.edit_redo.accesskey "A">
+<!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.open.label "Agor">
+<!ENTITY cmd.open.accesskey "A">
+<!ENTITY cmd.open_window.label "Agor mewn Ffenestr Newydd">
+<!ENTITY cmd.open_window.accesskey "F">
+<!ENTITY cmd.open_tab.label "Agor mewn Tab Newydd">
+<!ENTITY cmd.open_tab.accesskey "t">
+<!ENTITY cmd.open_all_in_tabs.label "Agor pob Tab">
+<!ENTITY cmd.open_all_in_tabs.accesskey "A">
+
+<!ENTITY cmd.properties.label "Priodweddau">
+<!ENTITY cmd.properties.accesskey "p">
+
+<!ENTITY cmd.show_info.key "p">
+
+<!ENTITY cmd.rename.label "Ailenwi">
+<!ENTITY cmd.rename.accesskey "A">
+
+<!ENTITY cmd.sortby_name.label "Trefnu yn ôl Enw">
+<!ENTITY cmd.sortby_name.accesskey "T">
+<!ENTITY cmd.context_sortby_name.accesskey "T">
+
+<!ENTITY cmd.new_bookmark.label "Nod Tudalen Newydd...">
+<!ENTITY cmd.new_bookmark.accesskey "N">
+<!ENTITY cmd.new_livemark.label "Nod Tudalen Byw Newydd...">
+<!ENTITY cmd.new_livemark.accesskey "B">
+<!ENTITY cmd.new_folder.label "Ffolder Newydd">
+<!ENTITY cmd.new_folder.accesskey "f">
+<!ENTITY cmd.context_new_folder.accesskey "F">
+<!ENTITY cmd.new_separator.label "Ymwahanydd Newydd">
+<!ENTITY cmd.new_separator.accesskey "Y">
+
+<!ENTITY cmd.reloadLivebookmark.label "Ail lwytho Nod Tudalen Byw">
+<!ENTITY cmd.reloadLivebookmark.accesskey "A">
+<!ENTITY cmd.reloadMicrosummary.label "Ail lwytho Teitl Byw">
+<!ENTITY cmd.reloadMicrosummary.accesskey "R">
+
+<!ENTITY cmd.groupby_site.label "Crynhoi yn ôl Gwefan">
+<!ENTITY cmd.groupby_site.accesskey "G">
+<!ENTITY cmd.groupby_page.label "Crynhoi yn ôl Tudalen">
+<!ENTITY cmd.groupby_page.accesskey "T">
+<!ENTITY cmd.groupby_feed.label "Crynhoi yn ôl Tanysgrifiad">
+<!ENTITY cmd.groupby_feed.accesskey "A">
+<!ENTITY cmd.groupby_post.label "Crynhoi yn ôl E-bost">
+<!ENTITY cmd.groupby_post.accesskey "E">
+
+<!ENTITY cmd.moveBookmarks.label "Symud..">
+<!ENTITY cmd.moveBookmarks.accesskey "S">
+
+<!ENTITY col.name.label "Enw">
+<!ENTITY col.tags.label "Tagiau">
+<!ENTITY col.url.label "Lleoliad">
+<!ENTITY col.lastvisit.label "Dyddiad Ymweld">
+<!ENTITY col.visitcount.label "Cyfrif Ymweliadau">
+<!ENTITY col.keyword.label "Allweddair">
+<!ENTITY col.description.label "Disgrifiad">
+<!ENTITY col.dateadded.label "Ychwanegwyd">
+<!ENTITY col.lastmodified.label "Newidwyd Ddiwethaf">
+
+<!ENTITY search.label "Chwilio:">
+<!ENTITY search.accesskey "C">
+<!ENTITY search.collection.label "Casgliad Cyfredol yn Unig">
+<!ENTITY search.collection.accesskey "C">
+<!ENTITY search.allBookmarks.label "Pob Nod Tudalen">
+<!ENTITY search.allBookmarks.accesskey "P">
+<!ENTITY search.scopeFolder.label "Ffolderi Dewiswyd">
+<!ENTITY search.scopeFolder.accesskey "D">
+<!ENTITY search.scopeAll.label "Pob Nod Tudalen">
+<!ENTITY search.scopeAll.accesskey "P">
+<!ENTITY search.scopeMenu.label "Dewislen Nod Tudalen">
+<!ENTITY search.scopeMenu.accesskey "D">
+<!ENTITY search.scopeToolbar.label "Bar Offer Nod Tudalen">
+<!ENTITY search.scopeToolbar.accesskey "B">
+<!ENTITY search.scopeDownloads.label "Llwythi">
+<!ENTITY search.scopeDownloads.accesskey "L">
+<!ENTITY search.scopeHistory.label "Hanes">
+<!ENTITY search.scopeHistory.accesskey "A">
+<!ENTITY search.scopeBarExpanderDown.tooltip "Dangos adeiladydd chwilio">
+<!ENTITY search.scopeBarExpanderUp.tooltip "Cuddio adeiladydd chwilio">
+<!ENTITY saveSearch.label "Cadw">
+<!ENTITY saveSearch.accesskey "C">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "Chwilio Nodau Tudalen yn unig">
+<!ENTITY advancedSearch.match.label "Cydweddu">
+<!ENTITY advancedSearch.all.label "pob">
+<!ENTITY advancedSearch.any.label "unrhyw">
+<!ENTITY advancedSearch.rules.label "o'r rheolau canlynol:">
+<!ENTITY advancedSearch.subj_keyword.label "Yn cynnwys y testun">
+<!ENTITY advancedSearch.subj_visited.label "Ymwelwyd">
+<!ENTITY advancedSearch.subj_location.label "Lleoliad">
+<!ENTITY advancedSearch.location_startswith.label "cychwyn gyda">
+<!ENTITY advancedSearch.location_is.label "yn">
+<!ENTITY advancedSearch.location_onsite.label "ar y wefan">
+<!ENTITY advancedSearch.time_is.label "ar">
+<!ENTITY advancedSearch.time_before.label "cyn">
+<!ENTITY advancedSearch.time_after.label "wedi">
+<!ENTITY advancedSearch.time_inlast.label "yn yr olaf">
+<!ENTITY advancedSearch.last_days.label "diwrnod">
+<!ENTITY advancedSearch.last_weeks.label "wythnos">
+<!ENTITY advancedSearch.last_months.label "mis">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "Crynhoi yn ôl:">
+<!ENTITY advancedSearch.groupby_host.label "gwesteiwr">
+<!ENTITY advancedSearch.groupby_domain.label "parth">
+<!ENTITY advancedSearch.groupby_folder.label "ffolder">
+<!ENTITY advancedSearch.sortby.label "Trefnu yn ôl:">
+<!ENTITY advancedSearch.sortby_title.label "teitl">
+<!ENTITY advancedSearch.sortby_date.label "dyddiad">
+<!ENTITY advancedSearch.sortby_visit.label "cyfrif ymweliadau">
+<!ENTITY advancedSearch.sortby_url.label "url">
+<!ENTITY advancedSearch.sortby_asc.label "codi">
+<!ENTITY advancedSearch.sortby_desc.label "gostwng">
+<!ENTITY advancedSearch.max.label "Uchafswm canlyniadau:">
+
+<!ENTITY cmd.find.key "l">
+
+<!ENTITY feed.subscribe.label "Llif">
+<!ENTITY feed.subscribe.tooltip "Tanysgrifio">
+
+<!ENTITY view.detailsMacOSX.label "Rhestr">
+<!ENTITY view.details.label "Manylion">
+<!ENTITY view.details.accesskey "M">
+
+<!ENTITY view.addons.label "Estyn Ychwanegiadau Golwg">
+
+<!ENTITY maintenance.label "Mewnforio ac Allforio">
+<!ENTITY maintenance.accesskey "M">
+
+<!ENTITY backCmd.label "Nol">
+<!ENTITY backCmd.accesskey "N">
+<!ENTITY backButton.tooltip "Mynd Nôl">
+
+<!ENTITY forwardCmd.label "Ymlaen">
+<!ENTITY forwardCmd.accesskey "Y">
+<!ENTITY forwardButton.tooltip "Mynd ymlaen">
+
+<!ENTITY detailsPane.more.label "Mwy">
+<!ENTITY detailsPane.more.accesskey "m">
+<!ENTITY detailsPane.less.label "Llai">
+<!ENTITY detailsPane.less.accesskey "l">
+<!ENTITY detailsPane.noPreviewAvailable.label "Rhagolwg">
+<!ENTITY detailsPane.selectAnItemText.description "Dewis eitem i'w gweld a golygu ei phriodweddau">

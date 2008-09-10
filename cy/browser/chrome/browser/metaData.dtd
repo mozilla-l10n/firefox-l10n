@@ -1,0 +1,27 @@
+<!ENTITY no-properties.label "Dim priodoleddau wedi eu pennu">
+
+<!ENTITY caption.label "Priodoleddau Elfennau">
+<!ENTITY image-sec.label "Priodoleddau Delwedd">
+<!ENTITY image-url.label "Lleoliad (URL):">
+<!ENTITY image-type.label "Math:">
+<!ENTITY image-desc.label "Sylwadau:">
+<!ENTITY image-alt.label "Testun eiledol:">
+<!ENTITY image-size.label "Maint Delwedd:">
+<!ENTITY image-filesize.label "Maint y Ffeil:">
+<!ENTITY insdel-sec.label "Priodoleddau Mewnosod/Dileu">
+<!ENTITY insdel-cite.label "Gwybodaeth:">
+<!ENTITY insdel-date.label "Dyddiad:">
+<!ENTITY link-sec.label "Priodoleddau Cysylltiad ">
+<!ENTITY link-url.label "Cyfeiriad:">
+<!ENTITY link-target.label "Bydd yn agor yn:">
+<!ENTITY link-type.label "Math nod:">
+<!ENTITY link-lang.label "Iaith nod:">
+<!ENTITY link-rel.label "Perthyn:">
+<!ENTITY link-rev.label "Perthynas gildro">
+<!ENTITY link-ping.label "Hysbysu:">
+<!ENTITY misc-sec.label "Priodoleddau Amrywiol">
+<!ENTITY misc-lang.label "Iaith Testun:">
+<!ENTITY misc-title.label "Teitl:">
+<!ENTITY misc-tblsummary.label "Tabl crynhoi:">
+<!ENTITY quote-sec.label "Dyfynnu Priodoleddau">
+<!ENTITY quote-cite.label "Gwybodaeth:">

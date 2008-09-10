@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title "Gwasanaeth Canfod Ategyn">
+<!ENTITY pluginWizard.firstPage.title "Croeso i &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "Mae &brandShortName; yn chwilio am ategynnau sydd ar gael...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Ategynnau ar Gael">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Mae'r ategynnau canlynol ar gael:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Cliciwch Nesaf i osod yr ategynnau">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Bydd rhai ategynnau angen gwybodaeth ychwanegol gennych wrth eu gosod.">
+
+<!ENTITY pluginWizard.licensePage.title "Trwyddedau Ategyn">
+<!ENTITY pluginWizard.licensePage.accept.label "Cytuno.">
+<!ENTITY pluginWizard.licensePage.deny.label "Anghytuno (ni fydd yr ategyn yn cael ei osod).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "Gosod Ategynnau">
+<!ENTITY pluginWizard.installPluginsPage.description.label "Mae &brandShortName; yn gosod ategynnau…">
+
+<!ENTITY pluginWizard.finalPage.description.label "Mae &brandShortName; wedi cwblhau gosod yr ategynnau coll:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Rhagor am Ategynnau neu ganfod ategynnau gyda llaw.">
+<!ENTITY pluginWizard.finalPage.restart.label "Mae &brandShortName; angen ei ailgychwyn i'r ategyn(nau) weithio.">
+  
+<!ENTITY missingPlugin.label "Cliciwch yma i lwytho ategyn i lawr.">

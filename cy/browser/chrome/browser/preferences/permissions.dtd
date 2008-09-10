@@ -1,0 +1,21 @@
+<!ENTITY window.title "Eithriadau">
+<!ENTITY window.width "36em">
+
+<!ENTITY treehead.sitename.label "Safle">
+<!ENTITY treehead.status.label "Statws">
+<!ENTITY removepermission.label "Diddymu'r wefan">
+<!ENTITY removepermission.accesskey "D">
+<!ENTITY removeallpermissions.label "Diddymu Pob Gwefan">
+<!ENTITY removeallpermissions.accesskey "p">
+<!ENTITY address.label "Cyfeiriad y wefan:">
+<!ENTITY block.label "Rhwystro">
+<!ENTITY block.accesskey "R">
+<!ENTITY session.label "Caniatáu ar gyfer y Sesiwn">
+<!ENTITY session.accesskey "S">
+<!ENTITY allow.label "Caniatáu">
+<!ENTITY allow.accesskey "C">
+<!ENTITY windowClose.key "f">
+
+<!ENTITY button.close.label "Cau">
+<!ENTITY button.close.accesskey "A">
+

@@ -1,0 +1,28 @@
+<!ENTITY find.label "Chwilio:">
+<!ENTITY find.accesskey "C">
+<!ENTITY expand.label "Ehangu">
+<!ENTITY expand.accesskey "E">
+<!ENTITY collapse.label "Lleihau">
+<!ENTITY collapse.accesskey "L">
+<!ENTITY byDate.label "Yn ôl Dyddiad">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Yn ôl Gwefan">
+<!ENTITY bySite.accesskey "G">
+<!ENTITY view.label "Golwg">
+<!ENTITY view.accesskey "g">
+<!ENTITY byMostVisited.label "Amlder Ymweliad">
+<!ENTITY byMostVisited.accesskey "A">
+<!ENTITY byLastVisited.label "Yn ôl Ymweliad">
+<!ENTITY byLastVisited.accesskey "Y">
+<!ENTITY byDayAndSite.label "Yn ôl Dyddiad a Gwefan">
+<!ENTITY byDayAndSite.accesskey "d">
+<!ENTITY openLinkInWindow.label "Agor">
+<!ENTITY openLinkInWindow.accesskey "A">
+<!ENTITY openInNewTab.label "Agor mewn Tab Newydd">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "Agor mewn Ffenestr Newydd">
+<!ENTITY openInNewWindow.accesskey "F">
+<!ENTITY bookmarkLink.label "Nod Tudalen i'r Cysylltiad...">
+<!ENTITY bookmarkLink.accesskey "N">
+<!ENTITY copyLink.label "Copïo Lleoliad Cysylltiad">
+<!ENTITY copyLink.accesskey "O">

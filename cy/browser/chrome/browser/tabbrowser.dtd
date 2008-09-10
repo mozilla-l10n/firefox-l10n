@@ -1,0 +1,18 @@
+<!ENTITY untitledTab "(Dim Teitl)">
+<!ENTITY newTab.label "Tab Newydd">
+<!ENTITY newTab.accesskey "T">
+<!ENTITY closeTab.label "Cau Tab">
+<!ENTITY closeTab.accesskey "c">
+<!ENTITY closeOtherTabs.accesskey "e">
+<!ENTITY closeOtherTabs.label "Cau Tabiau Eraill">
+<!ENTITY reloadAllTabs.label "Ail lwytho Pob Tab">
+<!ENTITY reloadAllTabs.accesskey "P">
+<!ENTITY reloadTab.label "Ail lwytho Tab">
+<!ENTITY reloadTab.accesskey "a">
+<!ENTITY listAllTabs.label "Rhestr pob tab">
+<!ENTITY bookmarkAllTabs.label "Gosod Nod Tudalen i bob Tab">
+<!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY bookmarkThisTab.label "Gosod Nod Tudalen i'r Tab">
+<!ENTITY bookmarkThisTab.accesskey "G">
+<!ENTITY undoCloseTab.label "Dadwneud Cau Tab">
+<!ENTITY undoCloseTab.accesskey "D">

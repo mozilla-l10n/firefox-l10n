@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Enw:">
+<!ENTITY bookmarks.name.accesskey "E">
+<!ENTITY bookmarks.location.label "Lleoliad:">
+<!ENTITY bookmarks.location.accesskey "L">
+<!ENTITY bookmarks.keyword.label "Allweddair:">
+<!ENTITY bookmarks.keyword.accesskey "A">
+<!ENTITY bookmarks.description.label "Disgrifiad:">
+<!ENTITY bookmarks.description.accesskey "D">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Teitlau Byw">
+<!ENTITY bookmarks.createIn.label "Creu yn:">
+<!ENTITY bookmarks.createIn.accesskey "C">
+<!ENTITY bookmarks.feed_location.label "Lleoliad Llif:">
+<!ENTITY bookmarks.feed_location.accesskey "O">
+<!ENTITY bookmarks.site_location.label "Lleoliad Gwefan:">
+<!ENTITY bookmarks.site_location.accesskey "G">
+<!ENTITY bookmarks.loadInSidebar.label "Llwytho'r nod tudalen i'r bar ochr">
+<!ENTITY bookmarks.loadInSidebar.accesskey "y">
+<!ENTITY bookmarks.expanderDown.tooltip "Dangos pob ffolder nod tudalen">
+<!ENTITY bookmarks.expanderUp.tooltip "Cuddio">
+<!ENTITY bookmarks.newFolderButton.label "Ffolder Newydd">
+<!ENTITY bookmarks.newFolderButton.accesskey "f">

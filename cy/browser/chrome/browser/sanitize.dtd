@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "Clirio Data Preifat">
+
+<!ENTITY sanitizeItems.label "Clirio'r eitemau canlynol nawr:">
+<!ENTITY clearDataSettings.label "Pan fyddai'n gofyn i &brandShortName;  glirio fy nata preifat, dylai ddileu:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "Hanes Pori">
+<!ENTITY itemHistory.accesskey "H">
+<!ENTITY itemFormSearchHistory.label "Hanes Chwilio a Ffurflen wedi ei Gadw">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "Cyfrineiriau a Gadwyd">
+<!ENTITY itemPasswords.accesskey "C">
+<!ENTITY itemCookies.label "Cwcis">
+<!ENTITY itemCookies.accesskey "W">
+<!ENTITY itemCache.label "Storfa">
+<!ENTITY itemCache.accesskey "s">
+<!ENTITY itemOfflineApps.label "Data Gwefan All-lein">
+<!ENTITY itemOfflineApps.accesskey "D">
+<!ENTITY itemDownloads.label "Hanes Llwytho i lawr">
+<!ENTITY itemDownloads.accesskey "L">
+<!ENTITY itemSessions.label "Sesiwn Dilyswyd">
+<!ENTITY itemSessions.accesskey "D">
+<!ENTITY window.width "30em">

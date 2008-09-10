@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Ail ddarganfod y We">
+<!ENTITY credit.thanks "Diolch Arbennig i">
+
+<!ENTITY credit.thanks2 "Diolch yn fawr i'n">
+<!ENTITY credit.contributors2 "cyfranwyr">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>Cyfieithiad Cymraeg</h3><ul><li>Rhoslyn Prys</li><li>Dewi Bryn Jones</li><li>David Chan</li></ul>">
+
+<!ENTITY credit.memory "Er Cof Annwyl Am">
+<!ENTITY credit.poweredByGeckoReg "Grym Gecko&reg;">

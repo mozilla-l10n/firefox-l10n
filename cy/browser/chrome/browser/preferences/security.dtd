@@ -1,0 +1,42 @@
+<!ENTITY warnAddonInstall.label "Rhybuddio pan fydd gwefan yn ceisio gosod ychwanegion">
+<!ENTITY warnAddonInstall.accesskey "R">
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label, tellMaybeAttackSite.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+
+<!ENTITY tellMaybeAttackSite.label "Dweud os yw'r wefan yma'n wefan amheuir ei fod yn un ymosodol">
+<!ENTITY tellMaybeAttackSite.accesskey "y">
+
+<!ENTITY tellMaybeForgery.label "Dweud wrthyf os yw'r wefan yn un ffug">
+<!ENTITY tellMaybeForgery.accesskey "D">
+
+<!ENTITY addonExceptions.label "Eithriadau...">
+<!ENTITY addonExceptions.accesskey "E">
+
+
+<!ENTITY passwords.label "Cyfrineiriau">
+
+<!ENTITY rememberPasswords.label "Cofio cyfrineiriau safeoedd gwe">
+<!ENTITY rememberPasswords.accesskey "C">
+<!ENTITY passwordExceptions.label "Eithriadau...">
+<!ENTITY passwordExceptions.accesskey "i">
+
+<!ENTITY useMasterPassword.label "Defnyddio prif gyfrinair">
+<!ENTITY useMasterPassword.accesskey "D">
+<!ENTITY changeMasterPassword.label "Newid y Prif Cyfrinair...">
+<!ENTITY changeMasterPassword.accesskey "P">
+
+<!ENTITY savedPasswords.label "Cyfrineiriau wedi eu Cadw...">
+<!ENTITY savedPasswords.accesskey "C">
+
+
+<!ENTITY warnings.label "Negeseuon Rhybudd">
+
+<!ENTITY chooseWarnings.label "Dewis pa neges rhybudd rydych am eu gweld wrth bori'r we.">
+
+<!ENTITY warningSettings.label "Gosodiadau...">
+<!ENTITY warningSettings.accesskey "G">

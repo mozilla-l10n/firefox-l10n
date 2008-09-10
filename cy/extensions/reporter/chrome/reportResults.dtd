@@ -1,0 +1,15 @@
+<!ENTITY reportSite "Safle">
+<!ENTITY reportProblemType "Math o Broblem">
+<!ENTITY reportDecsription "Disgrifiad">
+<!ENTITY reportPlatform "Platfform">
+<!ENTITY reportProduct "Cynnyrch">
+<!ENTITY reportoscpu "System Weithredu">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Ffurf Adeiledd">
+<!ENTITY reportUseragent "Asiant Defnyddiwr">
+<!ENTITY reportLanguage "Iaith">
+<!ENTITY reportCharset "Set Nodau">
+<!ENTITY reportEmail "E-bost">
+<!ENTITY error "Manylion Gwall">
+<!ENTITY faultCode "Cod">
+<!ENTITY faultMessage "Neges">

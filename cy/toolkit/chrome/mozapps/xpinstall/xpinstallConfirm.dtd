@@ -1,0 +1,9 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "Gosod Meddalwedd">
+<!ENTITY dialog.style "width: 45em">
+<!ENTITY warningMain.label "Gosodwch Ychwanegion gan awduron dibynadwy, yn unig.">
+<!ENTITY warningSecondary.label "Gall feddalwedd niweidiol ddifrodi eich cyfrifiadur neu dorri ar eich preifatrwydd.">
+
+<!ENTITY from.label "oddi wrth:">
+

@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Dewin Mewnforio">
+
+<!ENTITY importFrom.label "Dewisiadau Mewnforio, Nodau Tudalen, Hanes, Cyfrineiriau, a data arall o:">
+<!ENTITY importFromUnix.label "Dewisiadau Mewnforio, Nodau Tudalen, Hanes, Cyfrineiriau a data arall o:">
+<!ENTITY importFromBookmarks.label "Mewnforio Nodau Tudalen o:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird neu Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Peidio mewnforio dim">
+<!ENTITY importFromNothing.accesskey "P">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 neu Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label "O ffeil HTML">
+<!ENTITY importFromHTMLFile.accesskey "O">
+
+<!ENTITY noMigrationSources.label "Methu canfod unrhyw rhaglenni sy'n cynnwys nodau tudalen, hanes na data cyfrineiriau.">
+
+<!ENTITY importSource.title "Gosodiadau Mewnforio a Data">
+<!ENTITY importItems.title "Eitemau i'w Mewnforio">
+<!ENTITY importItems.label "Dewis eitemau i'w mewnforio:">
+
+<!ENTITY migrating.title "Mewnforio">
+<!ENTITY migrating.label "Mae'r eitemau canlynol yn cael eu mewnforio...">
+
+<!ENTITY selectProfile.title "Dewis Proffil">
+<!ENTITY selectProfile.label "Mae'r proffiliau canlynol ar gael i'w mewnforio o:">
+
+<!ENTITY done.title "Wedi Cwblhau Mewnforio">
+<!ENTITY done.label "Cafodd yr eitemau canlynol eu mewnforio'n llwyddiannus:">
+

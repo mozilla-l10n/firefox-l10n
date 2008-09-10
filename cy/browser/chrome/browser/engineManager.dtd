@@ -1,0 +1,25 @@
+<!ENTITY engineManager.title "Rheoli Rhestr y Peiriannau Chwilio">
+<!ENTITY engineManager.style "min-width: 35em;">
+<!ENTITY engineManager.intro "Mae'r peiriannau chwilio canlynol wedi eu gosod:">
+
+<!ENTITY columnLabel.name "Enw">
+<!ENTITY columnLabel.keyword "Allweddair">
+<!-- Buttons -->
+
+<!ENTITY up.label "Symud i Fyny">
+<!ENTITY up.accesskey "F">
+<!ENTITY dn.label "Symud i Lawr">
+<!ENTITY dn.accesskey "L">
+<!ENTITY remove.label "Tynnu">
+<!ENTITY remove.accesskey "T">
+<!ENTITY edit.label "Golygu'r Allweddair...">
+<!ENTITY edit.accesskey "l">
+
+<!ENTITY addEngine.label "Estyn peiriannau chwilio eraill...">
+<!ENTITY addEngine.accesskey "P">
+
+<!ENTITY enableSuggest.label "Dangos awgrymiadau chwlio">
+<!ENTITY enableSuggest.accesskey "D">
+
+<!ENTITY restoreDefaults.label "Adfer y Rhagosodiad">
+<!ENTITY restoreDefaults.accesskey "a">

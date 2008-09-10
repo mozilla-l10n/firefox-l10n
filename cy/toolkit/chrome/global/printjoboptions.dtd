@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Priodweddau Argraffu">
+
+<!ENTITY paperInput.label "Maint Papur:">
+
+<!ENTITY plexInput.label "Modd plex:">
+
+<!ENTITY resolutionInput.label "Cydraniad/Ansawdd:">
+
+<!ENTITY cmdInput.label "Gorchymyn Argraffu">
+
+<!ENTITY jobTitleInput.label "Teitl Swydd:">
+
+<!ENTITY colorGroup.label "Lliw:">
+<!ENTITY grayRadio.label "GraddLwyd">
+<!ENTITY colorRadio.label "Lliw">
+
+<!ENTITY colorspaceInput.label "Gofod lliw:">
+
+<!ENTITY fontsGroup.label "Ffontiau:">
+<!ENTITY downloadFonts.label "Llwytho ffontiau i argraffydd?">
+
+<!ENTITY edgeMarginInput.label "Bwlch rhwng ymyl papur i'r Ymyl">
+<!ENTITY topInput.label "Brig:">
+<!ENTITY bottomInput.label "Gwaelod:">
+<!ENTITY leftInput.label "Chwith:">
+<!ENTITY rightInput.label "De:">

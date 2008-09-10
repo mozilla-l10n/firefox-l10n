@@ -1,0 +1,55 @@
+<!ENTITY history.label "Hanes">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Cadw fy hanes am o leiaf">
+<!ENTITY rememberDaysBefore.accesskey "h">
+<!ENTITY rememberDaysAfter2.label "diwrnod">
+
+<!ENTITY rememberForms.label "Cadw'r hyn rwyf yn ei roi mewn ffurflenni a'r bar chwilio">
+<!ENTITY rememberForms.accesskey "c">
+
+<!ENTITY rememberDownloads.label "Cofio beth rwyf wedi eu llwytho i lawr">
+<!ENTITY rememberDownloads.accesskey "o">
+
+
+<!ENTITY cookies.label "Cwcis">
+
+<!ENTITY acceptCookies.label "Derbyn cwcis o wefannau">
+<!ENTITY acceptCookies.accesskey "c">
+
+<!ENTITY acceptThirdParty.label "Derbyn cwcis trydydd parti">
+<!ENTITY acceptThirdParty.accesskey "t">
+
+<!ENTITY keepUntil.label "Cadw tan:">
+<!ENTITY keepUntil.accesskey "C">
+
+<!ENTITY expire.label "byddant yn dod i ben">
+<!ENTITY close.label "Cau &brandShortName;">
+<!ENTITY askEachTime.label "gofyn i mi bob tro">
+
+<!ENTITY cookieExceptions.label "Eithriadau...">
+<!ENTITY cookieExceptions.accesskey "E">
+
+<!ENTITY showCookies.label "Dangos Cwcis...">
+<!ENTITY showCookies.accesskey "D">
+
+
+<!ENTITY privateData.label "Data Preifat">
+
+<!ENTITY alwaysClear.label "Clirio fy nata preifat wrth gau &brandShortName;">
+<!ENTITY alwaysClear.accesskey "l">
+
+<!ENTITY askBeforeClear.label "Gofyn cyn clirio'r data preifat">
+<!ENTITY askBeforeClear.accesskey "G">
+
+<!ENTITY clearDataSettings.label "Gosodiadau...">
+<!ENTITY clearDataSettings.accesskey "g">
+
+<!ENTITY clearDataNow.label "Clirio Nawr...">
+<!ENTITY clearDataNow.label2 "Clirio Nawr">
+<!ENTITY clearDataNow.accesskey "N">

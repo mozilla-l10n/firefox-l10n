@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Gosodiad Tudalen">
+
+<!ENTITY basic.tab "Dewisiadau a Fformatio">
+
+<!ENTITY formatGroup.label "Fformat">
+
+<!ENTITY orientation.label "Cyfeiriadaeth:">
+<!ENTITY portrait "Portread">
+<!ENTITY landscape "Tirlun">
+
+<!ENTITY scale.label "Graddfa:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Cywasgu i Led y Dudalen">
+
+<!ENTITY optionsGroup.label "Dewisiadau">
+
+<!ENTITY printBG.label "Argraffu'r Cefndir (lliwiau a delweddau)">
+
+<!ENTITY advanced.tab "Ymylon a Phennawd/Troedyn">
+
+<!ENTITY marginGroup.label "Ymylon (#1)">
+<!ENTITY marginUnits.inches "modfedd">
+<!ENTITY marginUnits.metric "milimetr">
+<!ENTITY marginTop.label "Brig:">
+<!ENTITY marginBottom.label "Gwaelod:">
+<!ENTITY marginLeft.label "Chwith:">
+<!ENTITY marginRight.label "De:">
+
+<!ENTITY headerFooter.label "Penawdau a Throedynnau">
+
+<!ENTITY hfLeft.label "Chwith:">
+<!ENTITY hfCenter.label "Canoli:">
+<!ENTITY hfRight.label "De:">
+<!ENTITY headerLeft.tip "Pennawd chwith">
+<!ENTITY headerCenter.tip "Pennawd canol">
+<!ENTITY headerRight.tip "Pennawd de">
+<!ENTITY footerLeft.tip "Troedyn chwith">
+<!ENTITY footerCenter.tip "Troedyn canol">
+<!ENTITY footerRight.tip "Troedyn de">
+
+<!ENTITY hfTitle "Teitl">
+<!ENTITY hfURL "Lleoliad (URL)">
+<!ENTITY hfDateAndTime "Dyddiad/Amser">
+<!ENTITY hfPage "Tudalen #">
+<!ENTITY hfPageAndTotal "Tudalen # o #">
+<!ENTITY hfBlank "--gwag--">
+<!ENTITY hfCustom "Addasu">
+
+<!ENTITY customPrompt.title "Addasu...">
+<!ENTITY customPrompt.prompt "Rhowch destun pennawd /troedyn">

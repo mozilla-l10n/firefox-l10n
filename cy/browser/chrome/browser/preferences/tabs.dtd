@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label "Agor tudalennau newydd mewn:">
+<!ENTITY inNewWindow.label "ffenestr newydd">
+<!ENTITY inNewWindow.accesskey "f">
+<!ENTITY inNewTab.label "tab newydd">
+<!ENTITY inNewTab.accesskey "t">
+
+<!ENTITY warnCloseMultipleTabs.label "Rhybuddio wrth gau tabiau lluosog">
+<!ENTITY warnCloseMultipleTabs.accesskey "g">
+
+<!ENTITY warnOpenManyTabs.label "Rhybuddio wrth agor tabiau lluosog y gallant arafu &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "a">
+
+<!ENTITY showTabBar.label "Dangos y bar tab">
+<!ENTITY showTabBar.accesskey "d">
+
+<!ENTITY switchToNewTabs.label "Wrth agor cysylltiad mewn tab newydd, newid yn syth iddo">
+<!ENTITY switchToNewTabs.accesskey "w">

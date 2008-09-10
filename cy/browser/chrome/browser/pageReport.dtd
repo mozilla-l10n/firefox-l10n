@@ -1,0 +1,10 @@
+<!ENTITY caption.label "Llamlenni Rwystrwyd">
+
+<!ENTITY intro.label "Cafodd y tudalennau canlynol eu rhwystro rhag dangos 
+y llamlenni diofyn:">
+
+<!ENTITY done.label "Wedi gorffen">
+<!ENTITY done.accesskey "W">
+
+<!ENTITY unblock.label "Dadrwystro'r wefan">
+<!ENTITY unblock.accesskey "D">

@@ -1,0 +1,42 @@
+<!ENTITY caption.label "Agor #1">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "Math #2 (#1) o ffeil yw ffeil &quot;#3&quot; , ac nid yw #4 yn gwybod sut i&quot;w drin. Mae'r ffeil i&quot;w gael yn:">
+<!ENTITY intro.noDesc.label "Math #2 o ffeil yw ffeil &quot;#3&quot; , ac nid yw #4 yn gwybod sut i&quot;w drin. Mae&quot;r ffeil i&quot;w gael yn:">
+
+<!ENTITY intro.attachment.label "Mae&quot;r wefan&quot;n awgrymu y dylai &quot;#3&quot; gael ei driin fel atodiad. Mae&quot;n fath #2 (#1) ac i&quot;w gael yn:">
+<!ENTITY intro.attachment.noDesc.label "Mae&quot;r wefan&quot;n awgrymu y dylai &quot;#3&quot; gael ei driin fel atodiad. Mae&quot;n fath #2 ac i&quot;w gael yn:">
+
+<!ENTITY intro.sniffed.label "Mae #4 wedi canfod fod y ffeil &quot;#3&quot; yn debygol o fod y math #2 (#1). Mae&quot;r ffeil wedi ei leoli yn:">
+<!ENTITY intro.sniffed.noDesc.label "Mae #4 wedi canfod fod y ffeil &quot;#3&quot; yn debygol o fod y math #2. Mae&quot;r ffeil wedi ei leoli yn:">
+
+<!ENTITY prompt.label "Beth ddylai #1 wneud gyda&quot;r ffeil?">
+
+<!ENTITY alwaysHandle.label "Gwneud hyn bob tro wrth drin ffeiliau o'r math yma">
+<!ENTITY alwaysHandle.accesskey "G">
+
+<!ENTITY saveToDisk.label "Cadw i ddisg">
+<!ENTITY saveToDisk.accesskey "C">
+
+<!ENTITY useSystemDefault.label "Agor gyda rhaglen rhagosodedig (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Agor gyda rhaglen rhagosodedig ">
+<!ENTITY useSystemDefault.accesskey "A">
+
+<!ENTITY openUsing.label "Agor gyda">
+<!ENTITY openUsing.accesskey "g">
+
+<!ENTITY chooseApp.label "Dewis...">
+<!ENTITY chooseApp.accesskey "D">
+
+<!ENTITY chooseAppFilePickerTitle "Dewis Rhaglen Cymorth">
+
+<!ENTITY badApp "Nid oedd modd canfod y rhaglen nodwyd (&quot;#1&quot;). Gwiriwch enw&quot;r ffeil neu ddewis rhaglen arall.">
+<!ENTITY badApp.title "Methu canfod y rhaglen">

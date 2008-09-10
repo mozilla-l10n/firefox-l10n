@@ -1,0 +1,12 @@
+
+<!ENTITY incompatible.title "Eitemau Anghydnaws">
+<!ENTITY incompatible.intro "Nid yw'r eitemau canlynol yn cyd-fynd â'r diweddariad yma o &brandShortName; a 
+byddant yn cael eu hanablu pan fydd wedi ei osod:">
+<!ENTITY incompatible.update "Bydd brandShortName yn gwirio'n achlysurol am ddiweddariadau rhag ofn bod 
+fersiwn addas yn cael ei ryddhau.">
+<!ENTITY incompatible.suffix "Mae diweddariadau &brandShortName; yn cynnwys gwelliannau diogelwch pwysig 
+Er eich lles eich hun rydym yn argymell eich bod yn diweddaru &brandShortName; hyd 
+yn oed os nad yw rhai Estyniadau neu Themâu yn parhau i weithio.">
+                                     
+<!ENTITY closebutton.label "Cau">
+

@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label "Mae'r wefan wedi ceisio agor llamlen heb eich caniatâd. Mae &brandShortName; wedi cau'r llamlen yn awtomatig. Pryd bynnag fydd  &brandShortName; yn rhwystro'r llamlenni, byddwch yn gweld eicon yn y bar statws.">
+
+<!ENTITY endDescription.label "Gallwch glicio ar yr eicon i weld pa wefan mae &brandShortName; wedi eu rhwystro a chaniatáu i'r gwefannau hynny sydd angen agor llamlenni iddynt weithio'n iawn.">
+
+<!ENTITY caption.label "Ynghylch Rhwystro Llamlenni">
+
+<!ENTITY done.label "Wedi gorffen">

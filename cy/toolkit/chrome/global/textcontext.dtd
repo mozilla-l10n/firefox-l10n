@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Torri">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copïo">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Gludo">
+<!ENTITY pasteCmd.accesskey "g">
+<!ENTITY undoCmd.label "Dadwneud">
+<!ENTITY undoCmd.accesskey "d">
+<!ENTITY selectAllCmd.label "Dewis y Cyfan">
+<!ENTITY selectAllCmd.accesskey "e">
+<!ENTITY deleteCmd.label "Dileu">
+<!ENTITY deleteCmd.accesskey "l">
+
+<!ENTITY spellAddToDictionary.label "Ychwanegu at y Geiriadur">
+<!ENTITY spellAddToDictionary.accesskey "y">
+<!ENTITY spellCheckEnable.label "Gwirio Sillafu">
+<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(Dim Awgrymiadau Sillafu)">
+<!ENTITY spellDictionaries.label "Ieithoedd">
+<!ENTITY spellDictionaries.accesskey "i">

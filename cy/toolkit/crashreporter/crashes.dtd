@@ -1,0 +1,7 @@
+<!ENTITY crashes.title "Adroddiadau Chwalfa Gyflwynwyd">
+<!ENTITY id.heading "Teitl yr Adroddiad">
+<!ENTITY date.heading "Data Gyflwynwyd">
+<!ENTITY noReports.label "Heb gyflwyno adroddiad chwalfa">
+<!ENTITY noConfig.label "Nid yw'r rhaglen wedi ei ffurfweddu i ddangos adroddiadau chwalu. Rhaid gosod y dewis <code>breakpad.reportURL</code>.">
+<!ENTITY clearReports.label "Tynnu'r Adroddiadau">
+

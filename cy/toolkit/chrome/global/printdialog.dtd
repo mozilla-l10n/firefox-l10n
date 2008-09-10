@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Argraffu">
+
+<!ENTITY printDialog.title "Argraffu">
+
+<!ENTITY fpDialog.title "Cadw Ffeil">
+
+<!ENTITY fileCheck.label "Argraffu i Ffeil">
+<!ENTITY propertiesButton.label "Priodweddau...">
+<!ENTITY descText.label "Disgrifiad Argraffydd:">
+<!ENTITY printer.label "Argraffydd">
+<!ENTITY printerInput.label "Enw Argraffydd:">
+
+<!ENTITY printrangeGroup.label "Amrediad Argraffu">
+<!ENTITY allpagesRadio.label "Amrediad Argraffu:">
+<!ENTITY rangeRadio.label "Tudalennau">
+<!ENTITY frompageInput.label "oddi wrth">
+<!ENTITY topageInput.label "at">
+<!ENTITY selectionRadio.label "Dewiswch">
+
+<!ENTITY copies.label "Copïau">
+<!ENTITY numCopies.label "Nifer o gopïau:">
+
+<!ENTITY printframeGroup.label "Argraffu Fframiau">
+<!ENTITY aslaidoutRadio.label "Yn ôl gosodiad ar y sgrin">
+<!ENTITY selectedframeRadio.label "Y ffrâm">
+<!ENTITY eachframesepRadio.label "Pob ffrâm ar wahân">

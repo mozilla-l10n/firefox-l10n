@@ -1,0 +1,393 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY tabCmd.label "Tab Newydd">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Agor Lleoliad">
+<!ENTITY openLocationCmd.accesskey "L">
+<!ENTITY openFileCmd.label "Agor Ffeil...">
+<!ENTITY openFileCmd.accesskey "A">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Gosodiad Tudalen...">
+<!ENTITY printSetupCmd.accesskey "g">
+<!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
+<!ENTITY printPreviewCmd.accesskey "r">
+<!ENTITY printCmd.label "Argraffu...">
+<!ENTITY printCmd.accesskey "A">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Mewnforio...">
+<!ENTITY import.accesskey "M">
+
+<!ENTITY goOfflineCmd.label "Gweithio All-lein">
+<!ENTITY goOfflineCmd.accesskey "w">
+
+<!ENTITY navbarCmd.label "Bar Offer Symud">
+<!ENTITY navbarCmd.accesskey "S">
+<!ENTITY personalbarCmd.label "Bar Offer Nodau Tudalen">
+<!ENTITY personalbarCmd.accesskey "N">
+<!ENTITY bookmarksToolbarItem.label "Eitemau Bar Offer Nodau Tudalen">
+<!ENTITY taskbarCmd.label "Bar Statws">
+<!ENTITY taskbarCmd.accesskey "A">
+
+<!ENTITY pageSourceCmd.label "Cod Gwreiddiol y Dudalen">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "o">
+<!ENTITY pageInfoCmd.label "Gwybodaeth am y Dudalen">
+<!ENTITY pageInfoCmd.accesskey "G">
+<!ENTITY pageInfoCmd.commandkey "G">
+<!ENTITY fullScreenCmd.label "Sgrin Lawn">
+<!ENTITY fullScreenCmd.accesskey "S">
+
+<!ENTITY fullScreenMinimize.tooltip "Lleihau">
+<!ENTITY fullScreenRestore.tooltip "Adfer">
+<!ENTITY fullScreenClose.tooltip "Cau">
+<!ENTITY fullScreenAutohide.label "Cuddio Barrau Offer">
+<!ENTITY fullScreenAutohide.accesskey "C">
+<!ENTITY fullScreenExit.label "Gadael Modd Sgrin Llawn">
+<!ENTITY fullScreenExit.accesskey "S">
+
+<!ENTITY closeWindow.label "Cau Ffenestr">
+<!ENTITY closeWindow.accesskey "f">
+
+<!ENTITY bookmarksMenu.label "Nodau Tudalen">
+<!ENTITY bookmarksMenu.accesskey "N">
+<!ENTITY bookmarkThisPageCmd.label "Gosod Nod Tudalen i'r Dudalen hon">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "Tanysgrifio i'r Dudalen">
+<!ENTITY subscribeToPageMenuitem.label "Tanysgrifo i'r Dudalen Hon...">
+<!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab...">
+<!ENTITY organizeBookmarks.label "Trefnu Nodau Tudalen...">
+<!ENTITY bookmarkAllCmd.label "Nod Tudalen i Bob Tab...">
+
+<!ENTITY backCmd.label "Nôl">
+<!ENTITY backCmd.accesskey "N">
+<!ENTITY backButton.tooltip "Nôl un tudalen">
+<!ENTITY forwardCmd.label "Ymlaen">
+<!ENTITY forwardCmd.accesskey "Y">
+<!ENTITY forwardButton.tooltip "Ymlaen un tudalen">
+<!ENTITY backForwardMenu.tooltip "Tudalennau diweddar">
+<!ENTITY reloadCmd.label "Ail-lwytho">
+<!ENTITY reloadCmd.accesskey "A">
+<!ENTITY reloadButton.tooltip "Ail-lwytho'r dudalen gyfredol">
+<!ENTITY stopCmd.label "Atal">
+<!ENTITY stopCmd.accesskey "T">
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY stopButton.tooltip "Atal llwytho'r dudalen">
+<!ENTITY goEndCap.tooltip "Mynd i'r cyfeiriad yn y Bar Lleoliad">
+<!ENTITY printButton.label "Argraffu">
+<!ENTITY printButton.tooltip "Argraffu'r dudalen">
+
+<!ENTITY locationItem.title "Lleoliad (URL)">
+<!ENTITY searchItem.title "Chwilio">
+<!ENTITY throbberItem.title "Dangosydd Gweithgaredd">
+<!ENTITY bookmarksItem.title "Nodau Tudalen">
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label "Cartref">
+
+<!ENTITY bookmarksButton.label "Nodau Tudalen">
+<!ENTITY bookmarksButton.tooltip "Dangos eich nodau tudalen">
+<!ENTITY bookmarksSidebarCmd.accesskey "n">
+<!ENTITY bookmarksSidebarCmd.commandkey "n">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label "Hanes">
+<!ENTITY historyButton.tooltip "Dangos tudalennau rydych wedi eu darllen yn ddiweddar">
+<!ENTITY historySidebarCmd.accesskey "d">
+<!ENTITY historySidebarCmd.commandKey "h">
+
+<!ENTITY toolsMenu.label "Offer">
+<!ENTITY toolsMenu.accesskey "O">
+
+<!ENTITY keywordfield.label "Ychwanegu Allweddair i'r Chwilio...">
+<!ENTITY keywordfield.accesskey "A">
+<!ENTITY search.label "Chwilio'r We">
+<!ENTITY search.accesskey "C">
+<!ENTITY downloads.label "Llwytho i Lawr">
+<!ENTITY downloads.tooltip "Dangos cynnydd y llwytho i lawr cyfredol">
+<!ENTITY downloads.accesskey "L">
+<!ENTITY downloads.commandkey "j">
+<!ENTITY downloadsUnix.commandkey "y">
+<!ENTITY addons.label "Ychwanegion">
+<!ENTITY addons.tooltip "Dangos a Rheoli Ychwanegion">
+<!ENTITY addons.accesskey "Y">
+
+<!ENTITY errorConsoleCmd.label "Consol Gwall">
+<!ENTITY errorConsoleCmd.accesskey "G">
+<!ENTITY errorConsoleCmd.commandkey "j">
+
+<!ENTITY fileMenu.label "Ffeil">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newNavigatorCmd.label "Ffenestr newydd">
+<!ENTITY newNavigatorCmd.key "n">
+<!ENTITY newNavigatorCmd.accesskey "N">
+
+<!ENTITY editMenu.label "Golygu">
+<!ENTITY editMenu.accesskey "G">
+<!ENTITY undoCmd.label "Dadwneud">
+<!ENTITY undoCmd.key "z">
+<!ENTITY undoCmd.accesskey "D">
+<!ENTITY redoCmd.label "Ail-wneud">
+<!ENTITY redoCmd.key "y">
+<!ENTITY redoCmd.accesskey "A">
+<!ENTITY cutCmd.label "Torri">
+<!ENTITY cutCmd.key "x">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copïo">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Gludo">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "G">
+<!ENTITY deleteCmd.label "Dileu">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "I">
+<!ENTITY selectAllCmd.label "Dewis y Cyfan">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "E">
+<!ENTITY preferencesCmd.label "Dewisiadau...">
+<!ENTITY preferencesCmd.accesskey "D">
+<!ENTITY preferencesCmdUnix.label "Dewisiadau">
+<!ENTITY preferencesCmdUnix.accesskey "w">
+
+<!ENTITY clearPrivateDataCmd.label "Clirio Data Preifat">
+<!ENTITY clearPrivateDataCmd.accesskey "P">
+
+<!ENTITY viewMenu.label "Golwg">
+<!ENTITY viewMenu.accesskey "O">
+<!ENTITY viewToolbarsMenu.label "Barrau Offer">
+<!ENTITY viewToolbarsMenu.accesskey "B">
+<!ENTITY viewSidebarMenu.label "Y Cwpwrdd Cornel">
+<!ENTITY viewSidebarMenu.accesskey "y">
+<!ENTITY viewCustomizeToolbar.label "Addasu...">
+<!ENTITY viewCustomizeToolbar.accesskey "A">
+
+<!ENTITY historyMenu.label "Hanes">
+<!ENTITY historyMenu.accesskey "h">
+<!ENTITY historyUndoMenu.label "Tabiau Wedi eu Cau'n Ddiweddar">
+
+<!ENTITY historyHomeCmd.label "Cartref">
+<!ENTITY showAllHistoryCmd2.label "Dangos yr Holl Hanes">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY openCmd.commandkey "L">
+<!ENTITY urlbar.emptyText "Chwilio Nodau Tudalen a Hanes">
+<!ENTITY urlbar.accesskey "o">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+
+<!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "o">
+<!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY openLinkCmd.label "Agor mewn Ffenestr Newydd">
+<!ENTITY openLinkCmd.accesskey "F">
+<!ENTITY openLinkCmdInTab.label "Agor mewn Tab Newydd">
+<!ENTITY openLinkCmdInTab.accesskey "T">
+<!ENTITY openFrameCmd.label "Agor Ffrâm mewn Ffenestr Newydd">
+<!ENTITY openFrameCmd.accesskey "F">
+<!ENTITY openFrameCmdInTab.label "Agor Ffrâm mewn Tab Newydd">
+<!ENTITY openFrameCmdInTab.accesskey "T">
+<!ENTITY showOnlyThisFrameCmd.label "Dangos y Ffrâm yma'n Unig">
+<!ENTITY showOnlyThisFrameCmd.accesskey "D">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadFrameCmd.label "Ail-lwytho'r Ffrâm">
+<!ENTITY reloadFrameCmd.accesskey "A">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Edrych ar Ffynhonnell y Dewis">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Edrych ar Ffynhonnell MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "o">
+<!ENTITY viewPageSourceCmd.label "Edrych ar God Gwreiddiol y Dudalen">
+<!ENTITY viewPageSourceCmd.accesskey "D">
+<!ENTITY viewFrameSourceCmd.label "Edrych ar God Gwreiddiol y Ffrâm">
+<!ENTITY viewFrameSourceCmd.accesskey "F">
+<!ENTITY viewPageInfoCmd.label "Edrych ar Wybodaeth am y Dudalen">
+<!ENTITY viewPageInfoCmd.accesskey "W">
+<!ENTITY viewFrameInfoCmd.label "Edrych ar Wybodaeth am y Ffrâm">
+<!ENTITY viewFrameInfoCmd.accesskey "W">
+<!ENTITY showImageCmd.label "Dangos Delwedd">
+<!ENTITY showImageCmd.accesskey "D">
+<!ENTITY viewImageCmd.label "Edrych ar Ddelwedd">
+<!ENTITY viewImageCmd.accesskey "D">
+<!ENTITY viewBGImageCmd.label "Edrych ar Ddelwedd Gefndir">
+<!ENTITY viewBGImageCmd.accesskey "g">
+<!ENTITY setDesktopBackgroundCmd.label "Gosod fel Cefndir Bwrff Gwaith">
+<!ENTITY setDesktopBackgroundCmd.accesskey "G">
+<!ENTITY bookmarkPageCmd2.label "Gosod Nod Tudalen i'r Dudalen">
+<!ENTITY bookmarkPageCmd2.accesskey "d">
+<!ENTITY bookmarkThisLinkCmd.label "Gosod Nod Tudalen i'r Cysylltiad">
+<!ENTITY bookmarkThisLinkCmd.accesskey "C">
+<!ENTITY bookmarkThisFrameCmd.label "Gosod Nod Tudalen i'r Ffrâm">
+<!ENTITY bookmarkThisFrameCmd.accesskey "f">
+<!ENTITY sendPageCmd.label "Anfon Cysylltiad...">
+<!ENTITY sendPageCmd.accesskey "a">
+<!ENTITY savePageCmd.label "Cadw Tudalen Fel...">
+<!ENTITY savePageCmd.accesskey "T">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2 "T">
+<!ENTITY savePageCmd.commandkey "d">
+<!ENTITY saveFrameCmd.label "Cadw Ffrâm Fel">
+<!ENTITY saveFrameCmd.accesskey "F">
+<!ENTITY printFrameCmd.label "Argraffu'r Ffram...">
+<!ENTITY printFrameCmd.accesskey "A">
+<!ENTITY saveLinkCmd.label "Cadw'r Cysylltiad Fel...">
+<!ENTITY saveLinkCmd.accesskey "y">
+<!ENTITY sendLinkCmd.label "Anfon Cysylltiad">
+<!ENTITY sendLinkCmd.accesskey "c">
+<!ENTITY saveImageCmd.label "Cadw Delwedd Fel...">
+<!ENTITY saveImageCmd.accesskey "d">
+<!ENTITY sendImageCmd.label "Abfodn Delwedd...">
+<!ENTITY sendImageCmd.accesskey "d">
+<!ENTITY copyLinkCmd.label "Copïo Lleoliad y Cysylltiad">
+<!ENTITY copyLinkCmd.accesskey "o">
+<!ENTITY copyLinkTextCmd.label "Copïo Testun Cysylltiad">
+<!ENTITY copyLinkTextCmd.accesskey "p">
+<!ENTITY copyImageCmd.label "Copïo Lleoliad Delwedd">
+<!ENTITY copyImageCmd.accesskey "l">
+<!ENTITY copyImageContentsCmd.label "Copïo Delwedd">
+<!ENTITY copyImageContentsCmd.accesskey "d">
+<!ENTITY blockImageCmd.accesskey "B">
+<!ENTITY metadataCmd.label "Priodoleddau">
+<!ENTITY metadataCmd.accesskey "P">
+<!ENTITY copyEmailCmd.label "Copïo Cyfeiriad E-bost">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY thisFrameMenu.label "Y Ffrâm">
+<!ENTITY thisFrameMenu.accesskey "y">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomEnlargeCmd.label "Chwyddo Mewn">
+<!ENTITY fullZoomEnlargeCmd.accesskey "M">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "_: fullZoomEnlargeCmd.commandkey3">
+
+<!ENTITY fullZoomReduceCmd.label "Chwyddo Allan">
+<!ENTITY fullZoomReduceCmd.accesskey "A">
+<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
+
+<!ENTITY fullZoomResetCmd.label "Ailosod">
+<!ENTITY fullZoomResetCmd.accesskey "A">
+<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
+
+<!ENTITY fullZoomToggleCmd.label "Chwyddo'r Testun yn Unig">
+<!ENTITY fullZoomToggleCmd.accesskey "T">
+<!ENTITY fullZoom.label "Chwyddo">
+<!ENTITY fullZoom.accesskey "C">
+
+<!ENTITY newTabButton.tooltip "Agor tab newydd">
+<!ENTITY newWindowButton.tooltip "Agor Ffenestr Newydd">
+<!ENTITY sidebarCloseButton.tooltip "Cau'r Cwpwrdd Cornel">
+
+<!ENTITY cutButton.tooltip "Torri">
+<!ENTITY copyButton.tooltip "Copïo">
+<!ENTITY pasteButton.tooltip "Gludo">
+
+<!ENTITY quitApplicationCmdWin.label "Gadael Firefox">
+<!ENTITY quitApplicationCmdWin.accesskey "g">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label "Gadael">
+<!ENTITY quitApplicationCmd.accesskey "A">
+<!ENTITY quitApplicationCmdMac.label "Gadael &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key "G">
+
+<!ENTITY closeCmd.label "Cau">
+<!ENTITY closeCmd.key "w">
+<!ENTITY closeCmd.accesskey "C">
+
+<!ENTITY pageStyleMenu.label "Arddull Tudalen">
+<!ENTITY pageStyleMenu.accesskey "t">
+<!ENTITY pageStyleNoStyle.label "Dim Arddull">
+<!ENTITY pageStyleNoStyle.accesskey "d">
+<!ENTITY pageStylePersistentOnly.label "Arddull Tudalen Sylfaenol">
+<!ENTITY pageStylePersistentOnly.accesskey "s">
+
+<!ENTITY pageReportIcon.tooltip "Newid gosodiadau rhwystro llamlenni ar gyfer y gwefan">
+
+<!ENTITY allowPopups.accesskey "ll">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Golygu Dewisiadau Rhwystro Llamlenni...">
+<!ENTITY editPopupSettings.label "Golygu Dewisiadau Rhwystro Llamlenni...">
+<!ENTITY editPopupSettings.accesskey "G">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label "Newid Cyfeiriad Tudalen">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "u">
+<!ENTITY bidiSwitchTextDirectionItem.label "Newid Cyfeiriad Testun">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "e">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "x">
+
+<!ENTITY findOnCmd.label "Canfod yn y Dudalen">
+<!ENTITY findOnCmd.accesskey "D">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Canfod Eto">
+<!ENTITY findAgainCmd.accesskey "e">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "Ychwanegu Geiriaduron...">
+<!ENTITY spellAddDictionaries.accesskey "G">
+
+<!ENTITY editBookmark.done.label "Gorffen">
+<!ENTITY editBookmark.cancel.label "Diddymu">
+<!ENTITY editBookmark.removeBookmark.label "Tynnu Nod Tudalen">
+<!ENTITY editBookmark.removeBookmark.accessKey "T">
+<!ENTITY editBookmark.undo.label "Dadwneud">
+<!ENTITY editBookmark.undo.accessKey "D">
+<!ENTITY editBookmark.edit.label "Golygu...">
+<!ENTITY editBookmark.edit.accessKey "G">
+
+<!ENTITY identity.unverifiedsite2 "Nid yw'r wefan yn darparu gwybodaeth hunaniaeth.">
+<!ENTITY identity.connectedTo "Rydych wedi cysylltu â">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "sy'n cael ei redeg gan">
+
+<!ENTITY identity.moreInfoLinkText "Rhagor o Wybodaeth...">
+
+<!ENTITY downloadMonitor2.tooltip "Cliciwch i agor ffenestr llwythi">
