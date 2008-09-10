@@ -50,19 +50,20 @@
 <!ENTITY unreadColumn.label "No leídos">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Leído">
-<!ENTITY flagColumn.label "Marca">
+<!ENTITY receivedColumn.label "Recibido">
+<!ENTITY starredColumn.label "Destacado">
 <!ENTITY locationColumn.label "Ubicación">
 <!ENTITY idColumn.label "Orden de recepción">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Pulse para seleccionar las columnas a mostrar">
 <!ENTITY threadColumn.tooltip "Pulse para mostrar los mensajes agrupados por conversaciones">
-<!ENTITY senderColumn.tooltip "Pulse para ordenar por remitente">
+<!ENTITY fromColumn.tooltip "Pulse para ordenar por remitente">
 <!ENTITY recipientColumn.tooltip "Pulse para ordenar por destinatario">
 <!ENTITY subjectColumn.tooltip "Pulse para ordenar por asunto">
 <!ENTITY dateColumn.tooltip "Pulse para ordenar por fecha">
 <!ENTITY priorityColumn.tooltip "Pulse para ordenar por prioridad">
-<!ENTITY labelColumn.tooltip "Pulse para ordenar por etiqueta">
+<!ENTITY tagsColumn.tooltip "Pulse para ordenar por etiqueta">
 <!ENTITY accountColumn.tooltip "Pulsar para ordenar por cuenta">
 <!ENTITY statusColumn.tooltip "Pulse para ordenar por estado">
 <!ENTITY sizeColumn.tooltip "Pulse para ordenar por tamaño">
@@ -70,6 +71,7 @@
 <!ENTITY unreadColumn.tooltip "Número de mensajes no leídos en la conversación">
 <!ENTITY totalColumn.tooltip "Número total de mensajes en la conversación">
 <!ENTITY readColumn.tooltip "Pulse para ordenar los mensajes leídos">
-<!ENTITY flagColumn.tooltip "Pulse para ordenar por marca">
+<!ENTITY receivedColumn.tooltip "Pulse para ordenar por fecha de recepción">
+<!ENTITY starredColumn.tooltip "Pulse para ordenar por estrella">
 <!ENTITY locationColumn.tooltip "Pulse para ordenar por ubicación">
 <!ENTITY idColumn.tooltip "Pulse para ordenar por orden de recepción">

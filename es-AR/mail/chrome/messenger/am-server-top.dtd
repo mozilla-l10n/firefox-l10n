@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
 <!ENTITY imapServer.label "Servidor de correo IMAP">
 <!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Servidor de noticias">
+<!ENTITY newsServer.label "Servidor de noticias NNTP">
 <!ENTITY webmail.label "Cuenta WebMail">
 <!ENTITY serverType.label "Tipo de servidor:">
 <!ENTITY serverName.label "Nombre del servidor:">
@@ -37,7 +37,7 @@
 <!ENTITY alwaysSecure.accesskey "T">
 <!ENTITY alwaysSSL.label "SSL">
 <!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Usar identificación segura">
+<!ENTITY useSecAuth.label "Usar autenticación segura">
 <!ENTITY useSecAuth.accesskey "i">
 <!ENTITY leaveOnServer.label "Dejar los mensajes en el servidor.">
 <!ENTITY leaveOnServer.accesskey "a">
@@ -55,14 +55,14 @@
 <!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
 <!ENTITY popServerTitle.label "Información del servidor POP">
 <!ENTITY deleteMessagePrefix.label "Cuando borre un mensaje:">
-<!ENTITY modelMoveToTrash.label "Moverlo a la papelera">
+<!ENTITY modelMoveToTrash.label "Moverlo a esta carpeta">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Marcarlo como borrado">
 <!ENTITY modelMarkDeleted.accesskey "b">
 <!ENTITY modelDeleteImmediately.label "Eliminarlo inmediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Limpiar carpeta de entrada al salir">
+<!ENTITY expungeOnExit.label "Limpiar (&quot;Borrar el contenido&quot;) carpeta de entrada al salir">
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Vaciar papelera al salir">
 <!ENTITY emptyTrashOnExit.accesskey "V">
@@ -76,21 +76,19 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mensajes">
-<!ENTITY alwaysAuthenticate.label "Siempre solicitar identificación cuando se conecte con este servidor">
+<!ENTITY alwaysAuthenticate.label "Siempre solicitar autenticación cuando se conecte con este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "p">
 <!ENTITY newsrcFilePath.label "archivo newsrc:">
-<!ENTITY newsrcFilePath.accesskey "w">
 <!ENTITY localPath.label "Directorio local:">
-<!ENTITY localPath.accesskey "l">
-<!ENTITY abbreviate.label "Mostar los nombres de los grupos de noticas en la carpeta de correo como:">
+<!ENTITY abbreviate.label "Mostrar los nombres de los grupos de noticias en la carpeta de correo como:">
 <!ENTITY abbreviateOn.label "Nombres completos (Por ejemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nombres abreviados (Por ejemplo,'n.p.m.mail-news')">
-<!ENTITY advancedButton.label "Avanzadas...">
+<!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset.label "Codificación de caracteres predeterminada:">
 <!ENTITY localFolderPicker.label "Seleccione directorio local">
-<!ENTITY browseFolder.label "Examinar...">
+<!ENTITY browseFolder.label "Examinar…">
 <!ENTITY browseFolder.accesskey "x">
 <!ENTITY newsrcPicker.label "Seleccionar archivo newsrc">
-<!ENTITY browseNewsrc.label "Examinar...">
+<!ENTITY browseNewsrc.label "Examinar…">
 <!ENTITY browseNewsrc.accesskey "E">

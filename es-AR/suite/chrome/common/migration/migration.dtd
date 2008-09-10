@@ -1,0 +1,26 @@
+<!ENTITY migrationWizard.title           "Asistente de importación">
+
+<!ENTITY importAllFrom.label             "Importar todos los ítems de:">
+<!ENTITY importBookmarksFrom.label       "Importar marcadores de:">
+
+<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey   "S">
+<!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
+<!ENTITY importFromFile.label            "Archivo">
+<!ENTITY importFromFile.accesskey        "F">
+<!ENTITY importFromNothing.label         "No importar nada">
+<!ENTITY importFromNothing.accesskey     "D">
+
+<!ENTITY importSource.title              "Importar opciones y datos">
+<!ENTITY importItems.title               "Ítems a importar">
+<!ENTITY importItems.label               "Seleccione qué ítems se importarán:">
+
+<!ENTITY selectProfile.title             "Seleccionar perfil">
+<!ENTITY selectProfile.label             "Los siguientes perfiles están disponibles para importar:">
+
+<!ENTITY migrating.title                 "Importando…">
+<!ENTITY migrating.label                 "Los siguientes ítems están siendo importados…">
+
+<!ENTITY done.title                      "Importación completa">
+<!ENTITY done.label                      "Los siguientes ítems fueron importados exitosamente:">

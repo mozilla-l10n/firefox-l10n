@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "Vaciar papelar al salir">
 <!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY localPath.label "Directorio local:">
-<!ENTITY localPath.accesskey "l">
 <!ENTITY localFolderPicker.label "Seleccione directorio local">
-<!ENTITY browseFolder.label "Examinar...">
+<!ENTITY browseFolder.label "Examinar…">
 <!ENTITY browseFolder.accesskey "x">

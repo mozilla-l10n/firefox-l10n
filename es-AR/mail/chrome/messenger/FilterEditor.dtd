@@ -1,20 +1,5 @@
 <!ENTITY window.title "Reglas de filtrado">
-<!ENTITY subject.label "Asunto">
-<!ENTITY sender.label "Remitente">
-<!ENTITY date.label "Fecha">
-<!ENTITY anyText.label "Cualquier texto">
-<!ENTITY keyword.label "Palabra clave">
-<!ENTITY age.label "antigüedad en días">
-<!ENTITY to.label "para">
 
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "Estado">
-<!ENTITY priority.label "Prioridad">
-<!ENTITY body.label "cuerpo">
-<!ENTITY contains.label "contiene">
-<!ENTITY nocontains.label "no contiene">
 <!ENTITY filterName.label "Nombre del filtro">
 <!ENTITY filterName.accesskey "i">
 
@@ -27,9 +12,13 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "La más alta">
 
-<!ENTITY conditionDesc.label "Para mensajes nuevos:">
-<!ENTITY filterActionDesc.label "Realizar estas acciones:">
-<!ENTITY filterActionDesc.accesskey "R">
+<!ENTITY contextDesc.label "Aplicar el filtro cuando:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Buscar correo">
+<!ENTITY contextManual.label "Ejecutarlo manualmente">
+<!ENTITY contextBoth.label "Buscar correo o ejecutar manualmente">
+<!ENTITY filterActionDesc.label "Ejecutar estas acciones:">
+<!ENTITY filterActionDesc.accesskey "P">
 
 <!ENTITY newFolderButton.label "Nueva carpeta...">
 <!ENTITY newFolderButton.accesskey "N">
@@ -41,7 +30,6 @@
 <!ENTITY replyWithTemplate.label "Responder con plantilla">
 <!ENTITY markMessageRead.label "Marcar como leído">
 <!ENTITY markMessageStarred.label "Agregar estrella">
-<!ENTITY labelMessage.label "Etiquetar el mensaje como">
 <!ENTITY setPriority.label "Establecer prioridad a">
 <!ENTITY addTag.label "Etiquetar mensaje">
 <!ENTITY setJunkScore.label "Establecer estado de correo basura a">
@@ -49,5 +37,6 @@
 <!ENTITY deleteFromPOP.label "Borrar del servidor POP">
 <!ENTITY fetchFromPOP.label "Traer del servidor POP">
 <!ENTITY ignoreThread.label "Ignorar conversación">
+<!ENTITY ignoreSubthread.label "Ignorar Subconversación">
 <!ENTITY watchThread.label "Observar conversación">
 <!ENTITY stopExecution.label "Detener ejecución del filtro">

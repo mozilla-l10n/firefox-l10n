@@ -1,6 +1,6 @@
 <!-- Subscription Dialog -->
 <!ENTITY newsBlogSubscriptions.label "Suscripciones RSS">
-<!ENTITY subscriptionDesc.label "Nota: Remover o cambiar la carpeta de un canal no afectará los artículos previamente descargados.">
+<!ENTITY subscriptionDesc.label "Nota: Si eliminas o cambias la carpeta de un canal, ello no afectará los artículos previamente descargados.">
 <!ENTITY feedTitle.label "Título:">
 <!ENTITY location.label  "Dirección:">
 
