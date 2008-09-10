@@ -6,8 +6,8 @@
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 <!ENTITY importTitle.label "אשף יבוא הדואר של &brandShortName;">
-<!ENTITY importDesc.label "יבוא דואר, פנקסי כתובות והגדרות מתוכניות אחרות">
-<!ENTITY importDescription.label "אשף זה ייבא הודעות דואר, כתובות מפנקסי כתובות ו/או העדפות מתוכניות דואר אחרות ותבניות פנקסי כתובות נפוצות לתוך דואר &brandShortName;.">
+<!-- ### ENTITY importDesc.label "יבוא דואר, פנקסי כתובות והגדרות מתוכניות אחרות" -->
+<!-- ### ENTITY importDescription.label "אשף זה ייבא הודעות דואר, כתובות מפנקסי כתובות ו/או העדפות מתוכניות דואר אחרות ותבניות פנקסי כתובות נפוצות לתוך דואר &brandShortName;." -->
 <!ENTITY importDescription2.label "לאחר שהם ייובאו, תוכל לגשת אליהם מתוך הדואר ו/או פנקס הכתובות של &brandShortName;.">
 <!ENTITY selectDescription.label "אנא בחר את התוכנה שמתוכה ברצונך לייבא:">
 <!ENTITY back.label "&lt; הקודם">

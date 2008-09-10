@@ -1,6 +1,6 @@
 <!--null-->
-<!ENTITY chooseAddressBook.label "הוסף אל:">
-<!ENTITY chooseAddressBook.accesskey "A">
+<!-- ### ENTITY chooseAddressBook.label "הוסף אל:" -->
+<!-- ### ENTITY chooseAddressBook.accesskey "A" -->
 <!ENTITY Contact.tab "איש קשר">
 <!ENTITY Name.box "שם">
 <!ENTITY NameField1.id "FirstName">

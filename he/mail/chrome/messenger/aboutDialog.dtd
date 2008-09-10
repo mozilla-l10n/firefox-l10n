@@ -1,5 +1,6 @@
 <!ENTITY aboutDialog.title "&brandShortName; אודות">
-<!ENTITY credits "תודות">
-<!ENTITY aboutLink "&lt; אודות &brandShortName;">
+<!-- ### ENTITY credits "תודות" -->
+<!-- ### ENTITY aboutLink "&lt; אודות &brandShortName;" -->
 <!ENTITY aboutVersion "גרסה">
+<!-- ### Should we change the years? Maybe make it hardcoded -->
 <!ENTITY copyrightText "©1998-2007 תורמים. כל הזכויות שמורות. Mozilla Thunderbird והסמלים                           של Thunderbird הם סימנים מסחריים של קרן Mozilla. כל הזכויות                           שמורות.">
