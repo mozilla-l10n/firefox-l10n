@@ -12,6 +12,7 @@
 <!ENTITY autocompleteText.label "Al escribir una dirección, buscar coincidencias en:">
 <!ENTITY directories.label "Servidor de directorio:">
 <!ENTITY directories.accesskey "D">
+<!ENTITY directoriesNone.label "Ninguno">
 <!ENTITY editDirectories.label "Editar directorios…">
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY matchText.label "Si hay una coincidencia en las libretas de direcciones locales:">
