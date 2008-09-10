@@ -37,3 +37,4 @@ The Initial Developer of the Original Code is
 
 <!-- Labels -->
 <!ENTITY name.label "Nombre de la libreta de direcciones">
+<!ENTITY name.accesskey  "A">

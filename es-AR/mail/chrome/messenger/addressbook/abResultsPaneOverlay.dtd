@@ -66,15 +66,3 @@
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "Descendente">
 <!ENTITY sortDescending.accesskey "D">
-
-<!-- context menu -->
-<!ENTITY composeEmail.label "Nuevo mensaje para">
-<!ENTITY composeEmail.accesskey "C">
-<!ENTITY deleteAddrBookCard.label "Borrar">
-<!ENTITY deleteAddrBookCard.accesskey "D">
-<!ENTITY newAddrBookCard.label "Nueva tarjeta...">
-<!ENTITY newAddrBookCard.accesskey "N">
-<!ENTITY newAddrBookMailingList.label "Nueva lista de correo">
-<!ENTITY newAddrBookMailingList.accesskey "M">
-<!ENTITY addrBookCardProperties.label "Propiedades">
-<!ENTITY addrBookCardProperties.accesskey "P">

@@ -35,10 +35,8 @@ The Initial Developer of the Original Code is
 
  ***** END LICENSE BLOCK ***** -->
  
-<!ENTITY chooseAddressBook.label "Añadir a:">
-<!ENTITY chooseAddressBook.accesskey "A">
-
 <!ENTITY Contact.tab "Contacto">
+<!ENTITY Contact.accesskey "C">
 <!ENTITY Name.box "Nombre">
 
 <!-- LOCALIZATION NOTE: 
@@ -98,28 +96,46 @@ The Initial Developer of the Original Code is
 <!ENTITY CellularNumber.accesskey "M">
 
 <!ENTITY Address.tab "Dirección">
+<!ENTITY Contact.accesskey "D">
 <!ENTITY Home.box "Casa">
 <!ENTITY HomeAddress.label "Dirección:">
+<!ENTITY HomeAddress.accesskey "d">
 <!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey "">
 <!ENTITY HomeCity.label "Ciudad:">
+<!ENTITY HomeCity.accesskey "i">
 <!ENTITY HomeState.label "Provincia/estado:">
+<!ENTITY HomeState.accesskey "s">
 <!ENTITY HomeZipCode.label "Código postal / ZIP:">
+<!ENTITY HomeZipCode.accesskey "Z">
 <!ENTITY HomeCountry.label "País:">
+<!ENTITY HomeCountry.accesskey "P">
 <!ENTITY HomeWebPage.label "Página web:">
+<!ENTITY HomeWebPage.accesskey "w">
 <!ENTITY Work.box "Trabajo">
 <!ENTITY JobTitle.label "Puesto:">
+<!ENTITY JobTitle.accesskey "e">
 <!ENTITY Department.label "Departamento:">
+<!ENTITY Department.accesskey "m">
 <!ENTITY Company.label "Organización:">
+<!ENTITY Company.accesskey "O">
 <!ENTITY WorkAddress.label "Dirección:">
+<!ENTITY WorkAddress.accesskey "r">
 <!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
 <!ENTITY WorkCity.label "Ciudad:">
+<!ENTITY WorkCity.accesskey "i">
 <!ENTITY WorkState.label "Provincia/estado:">
+<!ENTITY WorkState.accesskey "v">
 <!ENTITY WorkZipCode.label "Código postal / ZIP:">
+<!ENTITY WorkZipCode.accesskey "p">
 <!ENTITY WorkCountry.label "País:">
+<!ENTITY WorkCountry.accesskey "s">
 <!ENTITY WorkWebPage.label "Página web:">
-
+<!ENTITY WorkWebPage.accesskey "b">
 
 <!ENTITY Other.tab "Otros">
+<!ENTITY Other.accesskey "t">
 <!ENTITY Custom1.label "Personalizado 1:">
 <!ENTITY Custom1.accesskey "1">
 <!ENTITY Custom2.label "Personalizado 2:">
@@ -129,3 +145,4 @@ The Initial Developer of the Original Code is
 <!ENTITY Custom4.label "Personalizado 4:">
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.box "Notas">
+<!ENTITY Notes.accesskey "N">

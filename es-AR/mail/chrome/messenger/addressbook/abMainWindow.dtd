@@ -20,6 +20,9 @@
 <!ENTITY newMessageCmd.label "Mensaje">
 <!ENTITY newMessageCmd.key "M">
 <!ENTITY newMessageCmd.accesskey "M">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label "Utilizar Libreta de direcciones de Mac OS X">
+<!ENTITY osxAddressBook.accesskey "O">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
@@ -66,6 +69,9 @@
 <!ENTITY deleteAbCmd.label "Borrar libreta de direcciones">
 <!ENTITY deleteCardCmd.label "Eliminar tarjeta">
 <!ENTITY deleteCardsCmd.label "Borrar tarjetas selecionadas">
+<!ENTITY deleteListCmd.label "Borrar lista">
+<!ENTITY deleteListsCmd.label "Borrar listas seleccionadas">
+<!ENTITY deleteItemsCmd.label "Borrar elementos">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
@@ -122,17 +128,6 @@
 <!ENTITY preferencesCmdUnix.label "Preferencias...">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
-<!-- Help Menu -->
-<!ENTITY helpMenu.label "Ayuda">
-<!ENTITY helpMenu.accesskey "u">
-<!ENTITY releaseCmd.label "Notas de esta versión">
-<!ENTITY releaseCmd.accesskey "N">
-<!ENTITY hintsAndTips.label "Ayuda de &brandShortName;">
-<!ENTITY hintsAndTips.accesskey "u">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Acerca de &brandShortName;">
-<!ENTITY aboutCmd.accesskey "A">
-
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newcardButton.label "Nueva tarjeta">
 <!ENTITY newcardButton.accesskey "j">
@@ -154,7 +149,7 @@
 <!ENTITY editButton.tooltip "Editar la tarjeta seleccionada">
 <!ENTITY newmsgButton.tooltip "Enviar un mensaje de correo">
 <!ENTITY newIM.tooltip "Enviar un mensaje o conversación instantáneos">
-<!ENTITY deleteButton.tooltip "Borar ficha seleccionada de la libreta de direcciones">
+<!ENTITY deleteButton.tooltip "Borar tarjeta seleccionada o libreta de direcciones">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label "Libretas de direcciones">
@@ -200,18 +195,6 @@
 <!ENTITY _PhoneticName.label "Nombre fonético">
 <!ENTITY _PhoneticName.accesskey "o">
 
-<!-- Results pane context menu -->
-<!ENTITY composeEmail.label "Redactar mensaje para">
-<!ENTITY composeEmail.accesskey "R">
-<!ENTITY deleteAddrBookCard.label "Borrar">
-<!ENTITY deleteAddrBookCard.accesskey "B">
-<!ENTITY newAddrBookCard.label "Nueva tarjeta...">
-<!ENTITY newAddrBookCard.accesskey "N">
-<!ENTITY newAddrBookMailingList.label "Nueva lista de correo...">
-<!ENTITY newAddrBookMailingList.accesskey "l">
-<!ENTITY addrBookCardProperties.label "Propiedades">
-<!ENTITY addrBookCardProperties.accesskey "P">
-
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading "Contacto">
@@ -231,7 +214,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Ventana">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimizar ventana">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Traer todo al frente">
 <!ENTITY zoomWindow.label "Acercar ventana">
