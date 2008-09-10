@@ -17,6 +17,7 @@
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Изображения">
 <!ENTITY popups.label "Всплывающие окна">
+<!ENTITY passwords.label "Пароли">
 <!ENTITY masterpass.label "Мастер-пароли">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Сертификаты">

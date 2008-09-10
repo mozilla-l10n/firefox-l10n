@@ -40,9 +40,7 @@
 <!ENTITY aboutWarningButton.label "Я обещаю, что буду осторожен!">
 <!ENTITY aboutWarningCheckbox.label "Показывать это предупреждение в следующий раз">
 <!ENTITY filterPrefs.label "Фильтр:">
-<!ENTITY filterPrefs.accesskey "Ф">
-<!ENTITY showAll.label "Показать все">
-<!ENTITY showAll.accesskey "П">
+<!ENTITY filterPrefs.accesskey "л">
 <!ENTITY prefColumn.label "Имя настройки">
 <!ENTITY lockColumn.label "Состояние">
 <!ENTITY typeColumn.label "Тип">

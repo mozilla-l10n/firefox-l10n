@@ -46,6 +46,7 @@
 <!ENTITY addressingEnable.accesskey "к">
 <!ENTITY directories.label "Сервере каталогов:">
 <!ENTITY directories.accesskey "к">
+<!ENTITY directoriesNone.label "Нет">
 <!ENTITY editDirectories.label "Изменить каталоги…">
 <!ENTITY editDirectories.accesskey "з">
 <!ENTITY matchText.label "Если есть совпадение в локальных адресных книгах:">

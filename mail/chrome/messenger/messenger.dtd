@@ -501,7 +501,8 @@
 <!ENTITY searchSubjectMenu.label "Тема">
 <!ENTITY searchFromMenu.label "От">
 <!ENTITY searchSubjectOrFromMenu.label "Тема или Автор">
-<!ENTITY searchRecipient.label "Кому или Скрытая копия">
+<!ENTITY searchRecipient.label "Кому или Копия">
+<!ENTITY searchSubjectOrRecipientMenu.label "Тема, Кому или Копия">
 <!ENTITY searchMessageBody.label "Сообщение целиком">
 <!ENTITY saveAsVirtualFolderMenu.label "Сохранить результаты поиска как папку…">
 <!ENTITY threadColumn.label "Обсуждение">

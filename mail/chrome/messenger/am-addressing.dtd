@@ -7,6 +7,7 @@
 <!ENTITY editDirectories.accesskey "з">
 <!ENTITY directories.label "Использовать другой LDAP-сервер:">
 <!ENTITY directories.accesskey "д">
+<!ENTITY directoriesNone.label "Нет">
 <!ENTITY compositionGroupTitle.label "Составление сообщений">
 <!ENTITY useHtml.label "Составлять сообщения в формате HTML">
 <!ENTITY useHtml.accesskey "с">
