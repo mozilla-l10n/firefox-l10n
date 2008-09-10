@@ -600,10 +600,10 @@
 <!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "Informar de mensaje fraudulento">
 <!ENTITY reportPhishingURL.accesskey "o">
-<!ENTITY saveLinkCmd.label "Guardar destino del enlace">
-<!ENTITY saveLinkCmd.accesskey "u">
-<!ENTITY saveImageCmd.label "Guardar imagen">
-<!ENTITY saveImageCmd.accesskey "G">
+<!ENTITY saveLinkAsCmd.label "Guardar enlace como…">
+<!ENTITY saveLinkAsCmd.accesskey "e">
+<!ENTITY saveImageAsCmd.label "Guardar imagen como…">
+<!ENTITY saveImageAsCmd.accesskey "i">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
