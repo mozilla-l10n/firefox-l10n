@@ -2,18 +2,10 @@
 <!ENTITY prefEnableJava.caption "Funcionalidades que ajudam a interpretar as páginas">
 <!ENTITY enbJavaCheck.label "Permitir Java">
 <!ENTITY enbJavaCheck.accesskey "j">
-<!ENTITY prefTurbo.caption "Iniciador Rápido">
-<!ENTITY enableTurbo.label "Manter o &brandShortName; na memória para diminuir o tempo de inicialização">
-<!ENTITY enableTurboCheck.accesskey "A">
-<!ENTITY prefTurbo.desc "Se você marcar este item, parte do &brandShortName; permanecerá na memória enquanto não estiver em uso, permitindo uma inicialização mais rápida.">
-<!ENTITY prefJvmConf.caption "Selecione a versão do Java (é necessário reiniciar para efetivar a mudança)">
-<!ENTITY jvm.name "Versão">
-<!ENTITY jvm.home "Caminho">
 <!ENTITY systemPref.caption "Preferências do Sistema">
 <!ENTITY systemPrefCheck.label "Usar preferências do sistema">
 <!ENTITY systemPrefCheck.accesskey "s">
 <!ENTITY systemPref.desc "Marque este item para herdar as preferências do sistema. As preferências do sistema sobrescreverão as preferências do &brandShortName;">
-
-<!ENTITY prefCheckDefault.caption   "System Integration">
-<!ENTITY prefCheckDefaultClient.accesskey "C">
-<!ENTITY prefCheckDefaultClient.label "Check default application settings on startup">
+<!ENTITY prefCheckDefault.caption   "Integração com o sistema">
+<!ENTITY prefCheckDefaultClient.accesskey "s">
+<!ENTITY prefCheckDefaultClient.label "Verificar configurações de aplicativos padrão ao iniciar">

@@ -42,3 +42,4 @@
 <!ENTITY  ssl.label                    "SSL">
 <!ENTITY  certs.label                  "Certificados">
 <!ENTITY  validation.label             "Validação">
+<!ENTITY passwords.label "Passwords">

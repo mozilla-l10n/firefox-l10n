@@ -14,12 +14,11 @@
 <!ENTITY http.label "HTTP:">
 <!ENTITY http.accesskey "H">
 <!ENTITY port.label "Porta:">
-<!ENTITY HTTPport.accesskey "p">
+<!ENTITY HTTPPort.accesskey "p">
 <!ENTITY advanced.label "Avançado...">
 <!ENTITY advanced.accesskey "v">
 <!ENTITY noproxy.label "Não usar proxy para:">
 <!ENTITY noproxy.accesskey "N">
 <!ENTITY noproxyExplain.label "Exemplo: .com.br, .mozilla.org, .net.nz">
-<!ENTITY  HTTPPort.accesskey            "o">
-<!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY systemTypeRadio.label         "Usar configurações de proxy do sistema">
+<!ENTITY systemTypeRadio.accesskey     "U">

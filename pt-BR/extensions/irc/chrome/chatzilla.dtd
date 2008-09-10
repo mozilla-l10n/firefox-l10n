@@ -1,0 +1,106 @@
+<!ENTITY Menubar.tooltip "Menu principal">
+<!ENTITY Toolbar.tooltip "Barra de ferramentas principal">
+<!ENTITY menuBar.tooltip "Barra de menus">
+<!ENTITY header.tooltip "Cabeçalhos">
+<!ENTITY op.value "Op">
+<!ENTITY op.accesskey "o">
+<!ENTITY deop.value "Deop">
+<!ENTITY deop.accesskey "d">
+<!ENTITY voice.value "Voice">
+<!ENTITY voice.accesskey "v">
+<!ENTITY devoice.value "Devoice">
+<!ENTITY devoice.accesskey "e">
+<!ENTITY kick.value "Expulsar">
+<!ENTITY kick.accesskey "p">
+<!ENTITY kick2.value "Expulsar com justificativa">
+<!ENTITY kick2.accesskey "r">
+<!ENTITY whois.value "Quem é (Whois)">
+<!ENTITY whois.accesskey "w">
+<!ENTITY multiline-expand.tooltip "Alternar para o modo de entrada de múltiplas linhas (Ctrl+Up)">
+<!ENTITY multiline-contract.tooltip "Alternar para o modo de entrada de linha única (Ctrl+Up)">
+<!ENTITY multiline-send.tooltip "Enviar este texto (Ctrl+Enter)">
+<!ENTITY url.label "URL">
+<!ENTITY mode.label "Modo">
+<!ENTITY topic.label "Tópico">
+<!ENTITY users.label "Usuários">
+<!ENTITY lag.label "Atraso">
+<!ENTITY OptionsCmd.label "Opções">
+<!ENTITY OptionsCmd.accesskey "O">
+<!ENTITY MungerCmd.label "Munger">
+<!ENTITY MungerCmd.accesskey "M">
+<!ENTITY DisableMunger.label "Desativar todos">
+<!ENTITY DisableMunger.accesskey "D">
+<!ENTITY EnableColors.label "Código de cores">
+<!ENTITY EnableColors.accesskey "C">
+<!ENTITY DebugMsgCmd.label "Modo de depuração">
+<!ENTITY DebugMsgCmd.aKey "D">
+<!ENTITY SaveSetNowCmd.label "Salvar configurações agora">
+<!ENTITY SaveSetNowCmd.akey "g">
+<!ENTITY SaveSetExitCmd.label "Salvar configurações ao sair">
+<!ENTITY SaveSetExitCmd.akey "C">
+<!ENTITY ViewCmd.label "Exibir">
+<!ENTITY ViewCmd.aKey "E">
+<!ENTITY ShowCmd.label "Exibir/Ocultar">
+<!ENTITY ShowCmd.akey "E">
+<!ENTITY ShowTabStripCmd.label "Abas">
+<!ENTITY ShowTabStripCmd.aKey "A">
+<!ENTITY ShowUserlistCmd.label "Lista de usuários">
+<!ENTITY ShowUserlistCmd.aKey "U">
+<!ENTITY ShowHeaderCmd.label "Cabeçalho">
+<!ENTITY ShowHeaderCmd.aKey "B">
+<!ENTITY ShowStatusbarCmd.label "Barra de status">
+<!ENTITY ShowStatusbarCmd.aKey "E">
+<!ENTITY CollapseCmd.label "Agrupar mensagens consecutivas">
+<!ENTITY CollapseCmd.aKey "r">
+<!ENTITY CopyMessagesCmd.label "Copiar mensagens importantes">
+<!ENTITY CopyMessagesCmd.aKey "C">
+<!ENTITY NoneCmd.label "Nenhum tema">
+<!ENTITY NoneCmd.aKey "N">
+<!ENTITY DefaultCmd.label "Padrão">
+<!ENTITY DefaultCmd.aKey "D">
+<!ENTITY DarkCmd.label "Escuro">
+<!ENTITY DarkCmd.aKey "e">
+<!ENTITY LightCmd.label "Claro">
+<!ENTITY LightCmd.aKey "S">
+<!ENTITY HideCmd.label "Ocultar">
+<!ENTITY LeaveViewCmd.label "Sair de ``$viewname''">
+<!ENTITY LeaveViewCmd.aKey "S">
+<!ENTITY StartupVisitCmd.label "Abrir ao iniciar">
+<!ENTITY StartupVisitCmd.aKey "I">
+<!ENTITY ClearViewCmd.label "Limpar aba">
+<!ENTITY ClearViewCmd.aKey "L">
+<!ENTITY DeleteViewCmd.label "Fechar aba">
+<!ENTITY DeleteViewCmd.aKey "X">
+<!ENTITY StatusCmd.label "Estado da conexão">
+<!ENTITY StatusCmd.aKey "E">
+<!ENTITY CloseCmd.label "Fechar janela">
+<!ENTITY CloseCmd.aKey "F">
+<!ENTITY PopupQueryCmd.label "Conversa reservada com ``$nick''">
+<!ENTITY PopupQueryCmd.aKey "P">
+<!ENTITY PopupWhoisCmd.label "Quem é ``$nick''">
+<!ENTITY PopupWhoisCmd.aKey "W">
+<!ENTITY PopupPingCmd.label "Ping ``$nick''">
+<!ENTITY PopupPingCmd.aKey "I">
+<!ENTITY PopupVersionCmd.label "Versão do cliente ``$nick''">
+<!ENTITY PopupVersionCmd.aKey "V">
+<!ENTITY PopupHighlightStyle.label "Realçar mensagens de $nick">
+<!ENTITY PopupHighlightStyle.aKey "D">
+<!ENTITY PopupHighlightNoStyle.label "Sem estilo">
+<!ENTITY PopupGiveOp.label "Conceder modo de operador">
+<!ENTITY PopupGiveOp.aKey "O">
+<!ENTITY PopupTakeOp.label "Revogar modo de operador">
+<!ENTITY PopupTakeOp.aKey "O">
+<!ENTITY PopupGiveVoice.label "Conceder modo de ouvinte">
+<!ENTITY PopupGiveVoice.aKey "V">
+<!ENTITY PopupTakeVoice.label "Revogar modo de ouvinte">
+<!ENTITY PopupTakeVoice.aKey "V">
+<!ENTITY PopupKick.label "Expulsar ``$nick''">
+<!ENTITY PopupKick.aKey "E">
+<!ENTITY StatusText.label "Bem vindo ao ChatZilla!">
+<!ENTITY Underline.label "Sublinhar">
+<!ENTITY Bold.label "Negrito">
+<!ENTITY Reverse.label "Inverter cores do vídeo">
+<!ENTITY Normal.label "Normal">
+<!ENTITY Color.label "Color">
+<!ENTITY ForeBack.label "xx=Primeiro plano yy=Fundo">
+<!ENTITY server-nick.tooltip        "Change nickname or set away state. To focus the input box, press Escape.">
