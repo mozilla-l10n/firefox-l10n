@@ -536,6 +536,7 @@
 <!ENTITY searchFromMenu.label "Fra">
 <!ENTITY searchSubjectOrFromMenu.label "Emne eller fra">
 <!ENTITY searchRecipient.label "Til eller Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Emne, Til eller Cc">
 <!ENTITY searchMessageBody.label "Meldingskropp">
 <!ENTITY saveAsVirtualFolderMenu.label "Lagre søk som mappe …">
 
@@ -635,6 +636,10 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Legg til i adressebok …">
 <!ENTITY AddToAddressBook.accesskey "L">
+<!ENTITY EditContact.label "Rediger kontakt …">
+<!ENTITY EditContact.accesskey "R">
+<!ENTITY ViewContact.label "Vis kontakt">
+<!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Skriv ny e-post til">
 <!ENTITY SendMailTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Kopier e-postadresse">
