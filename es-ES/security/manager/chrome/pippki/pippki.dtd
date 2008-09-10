@@ -46,7 +46,7 @@
 <!ENTITY resetPassword.title "Restablecer la contraseña maestra">
 <!ENTITY resetPassword.text "Si restablece su contraseña maestra, todas las contraseñas web y de correo electrónico almacenados, los datos de los formularios, certificados personales y claves privadas serán olvidados. ¿Está seguro de que quiere restablecer su contraseña maestra?">
 <!ENTITY getPassword.title "Introduzca la contraseña maestra">
-<!ENTITY getPassword.tokenName.label "Dispositivo de seguridad">
+<!ENTITY getPassword.tokenName2.label "Disp. seguridad:">
 <!ENTITY getPassword.password.label "Contraseña:">
 <!ENTITY piperror.title "Error">
 <!ENTITY pipalert.title "Error no recuperable">
