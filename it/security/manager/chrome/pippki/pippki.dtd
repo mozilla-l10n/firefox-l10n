@@ -46,7 +46,7 @@
 <!ENTITY resetPassword.title "Rimozione password principale">
 <!ENTITY resetPassword.text "L'azzeramento della password principale comporterà la perdita di tutte le password di posta e dei siti web, dei dati dei moduli, dei certificati personali, e delle chiavi private memorizzate. Si è certi di voler azzerare la password generale?">
 <!ENTITY getPassword.title "Inserimento password principale">
-<!ENTITY getPassword.tokenName.label "Dispositivo di sicurezza">
+<!ENTITY getPassword.tokenName2.label "Dispositivo di sicurezza:">
 <!ENTITY getPassword.password.label "Password:">
 <!ENTITY piperror.title "Errore">
 <!ENTITY pipalert.title "Errore non recuperabile">
