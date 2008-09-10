@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Skriv inn hovedpassord">
-<!ENTITY getPassword.tokenName.label "Sikkerhetsenhet">
+<!ENTITY getPassword.tokenName2.label "Sikkerhetsenhet:">
 <!ENTITY getPassword.password.label "Passord:">
 
 <!-- These should be common -->
