@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Fier haadwachtwurd yn">
-<!ENTITY getPassword.tokenName.label "Befeiligingsapparaat">
+<!ENTITY getPassword.tokenName2.label "Befeiligingsapparaat:">
 <!ENTITY getPassword.password.label "Wachtwurd:">
 
 <!-- These should be common -->
