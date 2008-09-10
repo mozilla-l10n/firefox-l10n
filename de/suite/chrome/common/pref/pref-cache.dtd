@@ -26,4 +26,3 @@
 <!ENTITY prefetchTitle.label             "Links im Voraus laden:">
 <!ENTITY enablePrefetch.label            "Webseiten im Voraus laden, wenn nichts zu tun ist, sodass Links in Webseiten, die für das Laden in Voraus bestimmt sind, schneller geladen werden können">
 <!ENTITY enablePrefetch.accesskey        "V">
-<!-- <!ENTITY prefetchDesc.label              "If you check this item, &brandShortName; will follow special directives from websites to prefetch content while the browser is idle.  Websites designed to take advantage of this feature will appear to load quicker."> -->

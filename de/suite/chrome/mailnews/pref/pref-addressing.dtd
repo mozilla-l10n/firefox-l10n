@@ -50,6 +50,7 @@
 <!ENTITY autocompleteText.label                "Beim Adressieren von Nachrichten, passende Einträge suchen in:">
 <!ENTITY directories.label                     "Verzeichnis-Server:">
 <!ENTITY directories.accesskey                 "V">
+<!ENTITY directoriesNone.label                 "Keines">
 <!ENTITY editDirectories.label                 "Verzeichnisse bearbeiten…">
 <!ENTITY editDirectories.accesskey             "V">
 <!ENTITY matchText.label                       "Wenn eine Übereinstimmung in lokalen Adressbüchern herrscht:">

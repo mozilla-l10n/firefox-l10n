@@ -13,15 +13,20 @@
 <!ENTITY whenBlock.description          "Wenn ein Pop-up-Fenster blockiert wurde:">
 <!ENTITY playSound.label                "Einen Klang abspielen:">
 <!ENTITY playSound.accesskey            "K">
+<!ENTITY systemSound.label              "System-Piepton">
+<!ENTITY systemSound.accesskey          "S">
+<!ENTITY customSound.label              "Benutzerdefinierte Klang-Datei">
+<!ENTITY customSound.accesskey          "B">
 
 <!ENTITY selectSound.label              "Durchsuchen…">
 <!ENTITY selectSound.accesskey          "D">
 <!ENTITY previewSound.label             "Vorschau">
 <!ENTITY previewSound.accesskey         "V">
 <!ENTITY selectSound.title              "Pop-up-Blockier-Klang auswählen">
+<!ENTITY selectSound.filter             "Klänge">
 
 <!ENTITY displayIcon.label              "Ein Symbol in der Browser-Statusleiste anzeigen">
-<!ENTITY displayIcon.accesskey          "S">
+<!ENTITY displayIcon.accesskey          "E">
 
 <!ENTITY popupNote.description          "Anmerkung: Das Blockieren aller Pop-ups kann wichtige Funktionen mancher Websites unterbinden, wie Anmeldefenster bei Bank- und Einkauf-Websites. Weitere Hinweise, wie Sie trotz einer allgemeinen Blockade  bei speziellen Websites Pop-ups erlauben können, erhalten Sie per Klick auf 'Hilfe'. Selbst wenn Websites blockiert werden, können sie noch andere Methoden verwenden, um Pop-ups anzuzeigen.">
 
