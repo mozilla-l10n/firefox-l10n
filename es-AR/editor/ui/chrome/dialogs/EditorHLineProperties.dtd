@@ -37,6 +37,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Propiedades de la línea horizontal">
+
 <!ENTITY dimensionsBox.label "Dimensiones">
 <!ENTITY heightEditField.label "Altura:">
 <!ENTITY heightEditField.accessKey "l">
@@ -44,12 +45,13 @@
 <!ENTITY widthEditField.accessKey "A">
 <!ENTITY pixelsPopup.value "píxeles">
 <!ENTITY alignmentBox.label "Alineación">
-<!ENTITY leftRadio.value "Izquierda">
+<!ENTITY leftRadio.label "Izquierda">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "Centro">
+<!ENTITY centerRadio.label "Centro">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "Derecha">
+<!ENTITY rightRadio.label "Derecha">
 <!ENTITY rightRadio.accessKey "R">
+
 <!ENTITY threeDShading.label "Sombreado 3-D">
 <!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "Usar como opción predeterminada">
