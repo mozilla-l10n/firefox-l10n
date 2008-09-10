@@ -9,7 +9,7 @@
 <!ENTITY reportUseragent "Useragent">
 <!ENTITY reportLanguage "Язык">
 <!ENTITY reportCharset "Кодировка">
-<!ENTITY reportEmail "Адрес электронной почты">
+<!ENTITY reportEmail "E-mail">
 <!ENTITY error "Описание ошибки">
 <!ENTITY faultCode "Код">
 <!ENTITY faultMessage "Сообщение">
