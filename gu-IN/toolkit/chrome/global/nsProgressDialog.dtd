@@ -68,8 +68,7 @@
 <!-- Status/progress messages -->
 <!-- LOCALIZATION NOTE (pausedMsg):
     This string is used to indicate that the download is paused -->
-<!ENTITY pausedMsg "_: n
-ડાઉનલોડ અટકી ગયુ">
+<!ENTITY pausedMsg "ડાઉનલોડ અટકી ગયુ">
 <!-- LOCALIZATION NOTE (progressMsg):
 
     This string is used to generate the status message used during
@@ -78,13 +77,11 @@
     #1 will be replaced by the number of bytes downloaded thus far
     #2 will be replaced by the total number of bytes to be downloaded
     #3 will be replaced by the download rate (in KB per second) -->
-<!ENTITY progressMsg "_: n
-#2KB નું #1KB ( #3KB/sec)">
+<!ENTITY progressMsg "#2KB નું #1KB ( #3KB/sec)">
 <!-- LOCALIZATION NOTE (unknownTime):
     
     This string is used when the time remaining is unknown. -->
-<!ENTITY unknownTime "_: n
-અજાણ્યું">
+<!ENTITY unknownTime "અજાણ્યું">
 <!-- LOCALIZATION NOTE (longTimeFormat):
 
     This string is used to format elapsed/remaining times when the
@@ -93,8 +90,7 @@
     #1 will be replaced by the number of hours
     #2 will be replaced by the number of minutes
     #3 will be replaced by the number of seconds -->
-<!ENTITY longTimeFormat "_: n
-#1:#2:#3">
+<!ENTITY longTimeFormat "#1:#2:#3">
 <!-- LOCALIZATION NOTE (shortTimeFormat):
 
     This string is used to format elapsed/remaining times when the
@@ -104,8 +100,7 @@
     #1 will be replaced by the number of hours
     #2 will be replaced by the number of minutes
     #3 will be replaced by the number of seconds -->
-<!ENTITY shortTimeFormat "_: n
-#2:#3">
+<!ENTITY shortTimeFormat "#2:#3">
 <!-- LOCALIZATION NOTE (completeMsg):
 
     This string is displayed when the download is complete.  The insert
@@ -115,13 +110,11 @@
 
     #1 will be replaced by the elapsed time
     #2 will be replaced by the size of the file in Kilobytes -->
-<!ENTITY completeMsg "_: n
-પૂરુ થઈ ગયુ, #2 KB ડાઉનલોડ થઈ ગયુ (પસાર થયેલો સમય #1)">
+<!ENTITY completeMsg "પૂરુ થઈ ગયુ, #2 KB ડાઉનલોડ થઈ ગયુ (પસાર થયેલો સમય #1)">
 <!-- LOCALIZATION NOTE (percentMsg):
 
     This string is used to format the text to the right of the progress
     meter.
 
     #1 will be replaced by the percentage of the file that has been saved -->
-<!ENTITY percentMsg "_: n
-#1&#037;">
+<!ENTITY percentMsg "#1&#037;">
