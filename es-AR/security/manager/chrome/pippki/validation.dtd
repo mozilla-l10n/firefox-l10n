@@ -35,12 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  pref.validation.title          "Validación">
-
-<!ENTITY  validation.crl.caption      "CRL">
-<!ENTITY  validation.crl.description "Usar el administrador de CRL para administrar la lista de revocación de certificados (CRL) que se guarda en su base de datos de certificados.">
-<!ENTITY  validation.managecrls.button      "Administrar CRLs...">
-<!ENTITY  validation.managecrls.accesskey   "M">
 <!ENTITY  validation.crlmanager.label       "Administrar CRLs">
 <!ENTITY  validation.crlmanager.description       "Estas listas de revocación de certificados (CRL) están guardadas en su base de datos de certificados:">
 <!ENTITY  validation.crlname.label          "Nombre">
@@ -71,18 +65,4 @@
 <!ENTITY  crl.autoupdate.fail.cnt.label      "Fallas previas de actualización consecutivas: ">
 <!ENTITY  crl.autoupdate.fail.reason.label   "Detalles de la falla de la última actualización: ">
 <!ENTITY  edit.button      "Opciones">
-
-<!ENTITY validation.ocsp.caption      "OCSP">
-<!ENTITY enableOCSP.label                         "Usar el protocolo de estado de certificados online (OCSP) para confirmar la validez actual de los certificados">
-<!ENTITY enableOCSP.accesskey                     "U">
-<!ENTITY certOCSP2.label                          "Validar un certificado si especifica un servidor OCSP">
-<!ENTITY certOCSP2.accesskey                      "V">
-<!ENTITY proxyOCSP2.label                         "Validar todos los certificados usando el siguiente servidor OCSP:">
-<!ENTITY proxyOCSP2.accesskey                     "a">
-<!ENTITY serviceURL.label "URL de servicio:">
-<!ENTITY serviceURL.accesskey "S">
-<!ENTITY signingCA.label "Firmante de respuesta:">
-<!ENTITY signingCA.accesskey "R">
-<!ENTITY validation.requireOCSP.description       "Cuando una conexión a un servidor OCSP falle, tratar el certificado como no válido">
-<!ENTITY validation.requireOCSP.accesskey         "f">
 
