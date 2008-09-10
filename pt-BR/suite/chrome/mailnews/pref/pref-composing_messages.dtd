@@ -32,5 +32,5 @@
 <!ENTITY fontColor.accesskey "E">
 <!ENTITY bgColor.label "Plano de fundo:">
 <!ENTITY bgColor.accesskey "P">
-<!ENTITY replyQuoteInline.accesskey           "Q">
-<!ENTITY replyQuoteInline.label               "Quote attachments viewed inline in replies">
+<!ENTITY replyQuoteInline.label               "Ao responder, incluir os anexos exibidos na mensagem">
+<!ENTITY replyQuoteInline.accesskey           "A">

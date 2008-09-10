@@ -18,8 +18,6 @@
 <!ENTITY retentionDownloadMsg.label "Mensagens mais de">
 <!ENTITY retentionDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Manter:">
-<!ENTITY retentionKeepMsg.label "Mensagens recebidas nos últimos">
-<!ENTITY retentionKeepMsg.accesskey "r">
 <!ENTITY retentionKeepAll.label "Todas as mensagens">
 <!ENTITY retentionKeepAll.accesskey "T">
 <!ENTITY retentionKeepNew.label "As">
@@ -53,5 +51,5 @@
 <!ENTITY folderQuotaStatus.label "Status:">
 <!ENTITY folderProps.location.accesskey          "E">
 <!ENTITY folderProps.location.label              "Endereço:">
-<!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionDeleteMsg.label "Apagar mensagens recebidas há mais">
+<!ENTITY retentionDeleteMsg.accesskey "r">

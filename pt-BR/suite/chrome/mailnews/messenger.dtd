@@ -537,9 +537,9 @@
 <!ENTITY sortByFromCmd.accesskey "D">
 <!ENTITY sortByReceivedCmd.label "Recebido">
 <!ENTITY sortByReceivedCmd.accesskey "b">
-<!ENTITY filtersApplyToMessage.accesskey "g">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY filtersApplyToSelection.accesskey "g">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
-<!ENTITY folderContextSettings.accesskey "e">
-<!ENTITY folderContextSettings.label "Settings…">
+<!ENTITY filtersApplyToMessage.label "Aplicar filtros à mensagem">
+<!ENTITY filtersApplyToMessage.accesskey "A">
+<!ENTITY filtersApplyToSelection.label "Aplicar filtros às mensagens selecionadas">
+<!ENTITY filtersApplyToSelection.accesskey "m">
+<!ENTITY folderContextSettings.label "Configurações…">
+<!ENTITY folderContextSettings.accesskey "C">
