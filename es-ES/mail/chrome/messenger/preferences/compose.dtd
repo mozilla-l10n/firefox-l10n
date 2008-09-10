@@ -46,6 +46,7 @@
 <!ENTITY addressingEnable.accesskey "L">
 <!ENTITY directories.label "Servidor de directorio:">
 <!ENTITY directories.accesskey "S">
+<!ENTITY directoriesNone.label "Ninguno">
 <!ENTITY editDirectories.label "Editar directorios…">
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY matchText.label "Si hay una coincidencia en las libretas de direcciones locales:">
