@@ -18,6 +18,6 @@
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; fullfører installering av manglande tilleggsprogram:">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Finn ut meir om tilleggsprogram eller finn dei manglande tilleggsprogramma manuelt.">
-<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; må startast på nytt for at tilleggsprogrammet(/-a) skal fungera.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; må startast på nytt for at tilleggsprogrammet(/-a) skal fungere.">
   
 <!ENTITY missingPlugin.label                                 "Trykk her for å laste ned tilleggsprogrammet.">

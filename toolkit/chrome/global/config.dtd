@@ -72,7 +72,7 @@
 <!ENTITY toggle.accesskey "a">
 <!ENTITY reset.label "Standard">
 <!ENTITY reset.accesskey "S">
-<!ENTITY new.label "Ny(tt)">
+<!ENTITY new.label "Ny">
 <!ENTITY new.accesskey "N">
 <!ENTITY string.label "Streng">
 <!ENTITY string.accesskey "S">
