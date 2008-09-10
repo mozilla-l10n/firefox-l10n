@@ -25,7 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "בחר קבוצות דיון לשימוש לא־מקוון">
 <!ENTITY offlineSelectImap.label "בחר תיקיות לשימוש לא־מקוון">
-<!ENTITY offlineSelect.accesskey "S">
+<!-- ### ENTITY offlineSelect.accesskey "S" -->
 <!ENTITY offlineDesc.label "ניתן להוריד את ההודעות שלך באופן מקומי כך שתהיינה זמינות כאשר אתה  עובד במצב לא־מקוון.">
 <!ENTITY makeInboxMsgsAvailable.label "במצב עבודה לא־מקוון הודעות בתיבת דואר נכנס זמינות">
 <!ENTITY makeInboxMsgsAvailable.accesskey "b">

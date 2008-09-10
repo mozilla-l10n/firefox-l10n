@@ -31,7 +31,7 @@
 <!ENTITY composeButton.accesskey "W">
 <!ENTITY abSearchDialogTitle.label "חיפוש מתקדם בפנקס כתובות">
 <!ENTITY threadColumn.label "נושא דיון">
-<!ENTITY senderColumn.label "שולח">
+<!-- ### ENTITY senderColumn.label "שולח" -->
 <!ENTITY recipientColumn.label "נמען">
 <!ENTITY subjectColumn.label "נושא">
 <!ENTITY dateColumn.label "תאריך">
@@ -50,7 +50,7 @@
 <!ENTITY idColumn.label "סדר קבלה">
 <!ENTITY columnChooser.tooltip "לחץ לבחירת עמודות לתצוגה">
 <!ENTITY threadColumn.tooltip "לחץ להצגת נושאי דיון">
-<!ENTITY senderColumn.tooltip "לחץ למיון לפי שולח">
+<!-- ### ENTITY senderColumn.tooltip "לחץ למיון לפי שולח" -->
 <!ENTITY recipientColumn.tooltip "לחץ למיון לפי נמען">
 <!ENTITY subjectColumn.tooltip "לחץ למיון לפי נושא">
 <!ENTITY dateColumn.tooltip "לחץ למיון לפי תאריך">

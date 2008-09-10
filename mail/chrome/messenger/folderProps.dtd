@@ -54,8 +54,8 @@
 <!ENTITY daysOld.label "הימים האחרונים">
 <!ENTITY message.label "ההודעות האחרונות">
 <!ENTITY retentionCleanup.label "בכדי להשיג שטח דיסק, הודעות ישנות יכולות להמחק לצמיתות">
-<!ENTITY retentionKeepMsg.label "מחק הודעות מלפני">
-<!ENTITY retentionKeepMsg.accesskey "m">
+<!-- ### ENTITY retentionKeepMsg.label "מחק הודעות מלפני" -->
+<!-- ### ENTITY retentionKeepMsg.accesskey "m" -->
 <!ENTITY retentionKeepAll.label "אל תמחק שום הודעה">
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepNew.label "מחק הכל מלבד">

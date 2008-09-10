@@ -2,16 +2,16 @@
 <!ENTITY fieldMapImport.title "יבוא פנקס כתובות">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "נתונים מיובאים עבור רשומה:">
-<!ENTITY fieldMapImport.next "הבא">
+<!-- ### ENTITY fieldMapImport.next "הבא" -->
 <!ENTITY fieldMapImport.next.accesskey "N">
-<!ENTITY fieldMapImport.previous "הקודם">
+<!-- ### ENTITY fieldMapImport.previous "הקודם" -->
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text 'השתמש ב"הזז למעלה" ו"הזז למטה" כדי להתאים את שדות פנקס הכתובות מצד ימין לנתונים הנכונים ליבוא משמאל. בטל סימון של פריטים שאינך רוצה לייבא.'>
-<!ENTITY fieldMapImport.up "הזז למעלה">
+<!-- ### ENTITY fieldMapImport.up "הזז למעלה" -->
 <!ENTITY fieldMapImport.up.accesskey "U">
-<!ENTITY fieldMapImport.down "הזז למטה">
+<!-- ### ENTITY fieldMapImport.down "הזז למטה" -->
 <!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "שדות פנקס כתובות">
 <!ENTITY fieldMapImport.dataTitle "נתוני רשומה ליבוא">
-<!ENTITY fieldMapImport.skipFirstRecord "רשומה ראשונה כוללת שמות שדה">
+<!-- ### ENTITY fieldMapImport.skipFirstRecord "רשומה ראשונה כוללת שמות שדה" -->
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
