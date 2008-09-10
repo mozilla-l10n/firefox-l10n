@@ -30,7 +30,7 @@
 
 <!ENTITY connection.label                "Tilkopling">
 
-<!ENTITY connectionDesc.label            "Velg korleis &brandShortName; skal kople seg til nettet">
+<!ENTITY connectionDesc.label            "Vel korleis &brandShortName; skal kople seg til nettet">
 <!ENTITY connectionSettings.label        "Innstillingar …">
 <!ENTITY connectionSettings.accesskey    "I">
 
@@ -43,7 +43,7 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 <!ENTITY useCacheBefore.label            "Bruk opp til">
-<!ENTITY useCacheBefore.accesskey        "">
+<!ENTITY useCacheBefore.accesskey        "u">
 <!ENTITY useCacheAfter.label             "MB for mellomlagring">
 <!ENTITY clearCacheNow.label             "Nullstill no">
 <!ENTITY clearCacheNow.accesskey         "N">

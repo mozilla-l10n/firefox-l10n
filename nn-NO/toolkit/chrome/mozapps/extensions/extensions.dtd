@@ -124,7 +124,7 @@
 
 <!ENTITY searchAddons.label               "Søk i alle utvidingane">
 <!ENTITY browseAddons.label               "Bla i alle utvidingane">
-<!ENTITY searchFailed.label               "&brandShortName; klarte ikke å hente utvidingar">
+<!ENTITY searchFailed.label               "&brandShortName; klarte ikkje å hente utvidingar">
 <!ENTITY recommendedHeader.label          "Tilrådd">
 <!ENTITY recommendedThrobber.label        "Hentar tilrådde utvidingar">
 <!ENTITY searchThrobber.label             "Søkjer i utvidingar">
@@ -135,7 +135,7 @@
 <!ENTITY emptySearch.button               "OK">
 <!ENTITY cancelSearch.button              "Avbryt">
 <!ENTITY searchFailed.button              "OK">
-<!ENTITY searchResultHomepage.value       "Lær meir">
+<!ENTITY searchResultHomepage.value       "Finn ut meir">
 <!ENTITY searchBox.label                  "Søk i alle utvidingar">
 <!ENTITY recommendedResults.label         "Sjå alle tilrådde utvidingar">
 <!ENTITY searchResultConnecting.label     "Koplar til …">
