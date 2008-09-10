@@ -1,5 +1,5 @@
 <!ENTITY cookieMessageTitle.label "Изменились права на сохранение cookies">
-<!ENTITY cookieDisplayCookiesCmd.label "Управлять сохранёнными cookies">
+<!ENTITY cookieDisplayCookiesCmd.label "Управление сохранёнными cookies">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "У">
 <!ENTITY cookieAllowCookiesCmd.label "Разблокировать cookies с этого сайта">
 <!ENTITY cookieAllowCookiesCmd.accesskey "Р">
@@ -14,7 +14,7 @@
 <!ENTITY cookieBlockCookiesCmd.accesskey "Б">
 <!ENTITY cookieBlockCookiesMsg.label "Cookies этого сайта всегда будут отклоняться.">
 <!ENTITY cookieImageMessageTitle.label "Изменились права на загрузку изображений">
-<!ENTITY cookieDisplayImagesCmd.label "Упорядочить права на загрузку изображений">
+<!ENTITY cookieDisplayImagesCmd.label "Управление правами на загрузку изображений">
 <!ENTITY cookieDisplayImagesCmd.accesskey "У">
 <!ENTITY cookieAllowImagesCmd.label "Разблокировать изображения с этого сайта">
 <!ENTITY cookieAllowImagesCmd.accesskey "Р">
@@ -27,7 +27,7 @@
 <!ENTITY cookieBlockImagesMsg.label "Изображения этого сайта никогда не будут загружаться.">
 <!ENTITY cookieAllowPopupsCmd.label "Разрешить всплывающие окна с этого сайта">
 <!ENTITY cookieAllowPopupsCmd.accesskey "Р">
-<!ENTITY cookieManagePopups.label "Упорядочить сайты со всплывающими окнами">
+<!ENTITY cookieManagePopups.label "Управление сайтами со всплывающими окнами">
 <!ENTITY cookieManagePopups.accesskey "У">
 <!ENTITY cookieTutorialCmd.label "Понимание приватности">
 <!ENTITY cookieTutorialCmd.accesskey "П">

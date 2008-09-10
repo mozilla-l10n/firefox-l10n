@@ -46,7 +46,7 @@
 <!ENTITY resetPassword.title "Сброс мастер-пароля">
 <!ENTITY resetPassword.text "При сбросе мастер-пароля, все сохранённые пароли для веб-сайтов, электронной почты, данные форм, личные сертификаты и закрытые ключи будут утеряны. Вы действительно хотите сбросить свой мастер-пароль?">
 <!ENTITY getPassword.title "Ввод мастер-пароля">
-<!ENTITY getPassword.tokenName.label "Устройство защиты">
+<!ENTITY getPassword.tokenName2.label "Устройство защиты:">
 <!ENTITY getPassword.password.label "Пароль:">
 <!ENTITY piperror.title "Ошибка">
 <!ENTITY pipalert.title "Ошибка — восстановление не удалось">

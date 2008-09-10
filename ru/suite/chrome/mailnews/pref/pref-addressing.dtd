@@ -12,6 +12,7 @@
 <!ENTITY autocompleteText.label "При адресации сообщений искать соответствия в:">
 <!ENTITY directories.label "Каталогах на сервере:">
 <!ENTITY directories.accesskey "н">
+<!ENTITY directoriesNone.label "Нет">
 <!ENTITY editDirectories.label "Изменить каталоги…">
 <!ENTITY editDirectories.accesskey "з">
 <!ENTITY matchText.label "Если найдено совпадение в локальных адресных книгах:">
