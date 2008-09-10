@@ -103,3 +103,4 @@
 <!ENTITY Normal.label "Normal">
 <!ENTITY Color.label "Color">
 <!ENTITY ForeBack.label "xx=Primeiro plano yy=Fundo">
+<!ENTITY server-nick.tooltip        "Change nickname or set away state. To focus the input box, press Escape.">

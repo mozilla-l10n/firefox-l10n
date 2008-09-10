@@ -32,3 +32,5 @@
 <!ENTITY domainnameError.title "Erro de nome de domínio">
 <!ENTITY duplicationError.label "O domínio @string@ já está na lista.">
 <!ENTITY dualEntryError.label "Um domínio não pode ser especificado ao mesmo tempo nas listas HTML e texto sem formatação. O domínio @string@ já existe.">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY invalidEntryError.label      "The domain name @string@ is invalid and will be ignored. Valid domain names must include at least one '.' and characters on either side of it.">

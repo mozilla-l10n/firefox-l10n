@@ -39,3 +39,9 @@
 
 <!ENTITY venkmanCmd.label "Depurador de JavaScript">
 <!ENTITY venkmanCmd.akey "D">
+<!ENTITY venkmanCmd.accesskey "D">
+
+<!ENTITY vnkButton.label      "JavaScript Debugger">
+<!ENTITY vnkMenu.accesskey    "J">
+  
+<!ENTITY vnkMenu.label        "JavaScript Debugger">
