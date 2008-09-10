@@ -1,4 +1,5 @@
 <!-- extracted from am-addressing.xul -->
+
 <!ENTITY addressing.label "Vytváření zpráv a adresování">
 <!ENTITY addressingGroupTitle.label "Adresování">
 <!ENTITY addressingText.label "Při hledání adres:">
@@ -10,7 +11,10 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Použít jiný LDAP server:">
 <!ENTITY directories.accesskey "D">
+<!ENTITY directoriesNone.label "Žádný">
+
 <!-- am-addressing.xul -->
+
 <!ENTITY compositionGroupTitle.label "Vytváření zpráv">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label "Vytvářet zprávy v HTML formátu">

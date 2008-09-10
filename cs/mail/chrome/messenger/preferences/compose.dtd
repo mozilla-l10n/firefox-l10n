@@ -52,6 +52,7 @@
 <!ENTITY addressingEnable.accesskey "M">
 <!ENTITY directories.label "Adresářový server:">
 <!ENTITY directories.accesskey "s">
+<!ENTITY directoriesNone.label "Žádný">
 <!ENTITY editDirectories.label "Upravit adresáře…">
 <!ENTITY editDirectories.accesskey "U">
 <!ENTITY matchText.label "Pokud je nalezen záznam v místních kontaktech:">
