@@ -13,8 +13,9 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Použít jiný LDAP server:">
 <!ENTITY directories.accesskey "d">
-<!-- am-addressing.xul -->
+<!ENTITY directoriesNone.label "Žádný">
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label "Vytváření zpráv">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

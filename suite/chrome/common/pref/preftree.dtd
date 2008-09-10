@@ -20,6 +20,7 @@
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Obrázky">
 <!ENTITY popups.label "Vyskakovací okna">
+<!ENTITY passwords.label "Hesla">
 <!ENTITY masterpass.label "Hlavní heslo">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certifikáty">

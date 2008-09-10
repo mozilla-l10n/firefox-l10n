@@ -536,6 +536,7 @@
 <!ENTITY searchFromMenu.label "Od">
 <!ENTITY searchSubjectOrFromMenu.label "Předmět nebo Od">
 <!ENTITY searchRecipient.label "Komu nebo kopie">
+<!ENTITY searchSubjectOrRecipientMenu.label "Předmět, komu nebo kopie">
 <!ENTITY searchMessageBody.label "Tělo zprávy">
 <!ENTITY saveAsVirtualFolderMenu.label "Uložit hledání jako složku…">
 
