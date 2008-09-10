@@ -654,10 +654,10 @@
 <!ENTITY reportPhishingURL.accesskey "S">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Enregistrer le lien">
-<!ENTITY saveLinkCmd.accesskey "e">
-<!ENTITY saveImageCmd.label "Enregistrer l'image">
-<!ENTITY saveImageCmd.accesskey "a">
+<!ENTITY saveLinkAsCmd.label "Enregistrer le lien sous…">
+<!ENTITY saveLinkAsCmd.accesskey "e">
+<!ENTITY saveImageAsCmd.label "Enregistrer l'image sous…">
+<!ENTITY saveImageAsCmd.accesskey "a">
 <!ENTITY copyCmd.label "Copier">
 <!ENTITY copyCmd.accesskey "p">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
