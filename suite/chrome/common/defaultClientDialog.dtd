@@ -5,5 +5,5 @@
 <!ENTITY email.label "E-Mail">
 <!ENTITY newsgroups.label "Newsgroups">
 
-<!ENTITY checkOnStartup.label "Diese Überprüfung bei jedem Start von &bradShortName; durchführen">
+<!ENTITY checkOnStartup.label "Diese Überprüfung bei jedem Start von &brandShortName; durchführen">
 <!ENTITY checkOnStartup.accesskey "D">
