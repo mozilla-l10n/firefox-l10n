@@ -52,6 +52,7 @@
 <!ENTITY addressingEnable.accesskey "A">
 <!ENTITY directories.label "Freastalaí Eolaire:">
 <!ENTITY directories.accesskey "F">
+<!ENTITY directoriesNone.label "Gan sonrú">
 <!ENTITY editDirectories.label "Cuir Eolairí in Eagar…">
 <!ENTITY editDirectories.accesskey "E">
 <!ENTITY matchText.label "Má tá iontráil oiriúnach i do leabhair sheoltaí logánta:">

@@ -12,8 +12,8 @@
 <!ENTITY highPriorityCmd.label "Ard">
 <!ENTITY highestPriorityCmd.label "Is Airde">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextDesc.label "Cuir an scagaire seo i bhfeidhm:">
+<!ENTITY contextDesc.accesskey "f">
 <!ENTITY contextIncoming.label "Checking Mail">
 <!ENTITY contextManual.label "Manually Run">
 <!ENTITY contextBoth.label "Checking Mail or Manually Run">

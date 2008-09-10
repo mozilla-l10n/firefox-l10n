@@ -44,9 +44,7 @@
 <!ENTITY aboutWarningCheckbox.label "Taispeáin an rabhadh seo an chéad uair eile">
 
 <!ENTITY filterPrefs.label "Scagaire:">
-<!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "Taispeáin Gach">
-<!ENTITY showAll.accesskey "G">
+<!ENTITY filterPrefs.accesskey "S">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Ainm na Sainrogha">

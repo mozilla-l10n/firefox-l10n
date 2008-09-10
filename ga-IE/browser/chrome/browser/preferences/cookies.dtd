@@ -22,9 +22,6 @@
 
 <!ENTITY filter.label "Cuardaigh:">
 <!ENTITY filter.accesskey "U">
-<!ENTITY clear.label "Bánaigh">
-<!ENTITY clear.accesskey "b">
 
 <!ENTITY button.close.label "Dún">
 <!ENTITY button.close.accesskey "D">
-

@@ -423,9 +423,9 @@
 <!ENTITY filtersCmd.accesskey "S">
 <!ENTITY filtersApply.label "Rith Scagairí ar an Fhillteán">
 <!ENTITY filtersApply.accesskey "R">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
-<!ENTITY filtersApplyToSelection.accesskey "S">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
+<!ENTITY filtersApplyToSelection.label "Rith Scagairí ar na Teachtaireachtaí Roghnaithe">
+<!ENTITY filtersApplyToSelection.accesskey "R">
+<!ENTITY filtersApplyToMessage.label "Rith Scagairí ar an Teachtaireacht">
 <!ENTITY filtersApplyToMessage.accesskey "s">
 <!-- Mail Toolbar -->
 
@@ -537,6 +537,7 @@
 <!ENTITY searchFromMenu.label "Ó">
 <!ENTITY searchSubjectOrFromMenu.label "Ábhar nó Ó">
 <!ENTITY searchRecipient.label "Chuig nó Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Ábhar, Chuig nó Cc">
 <!ENTITY searchMessageBody.label "Teachtaireacht Iomlán">
 <!ENTITY saveAsVirtualFolderMenu.label "Sábháil mar Fhillteán Cuardaigh…">
 <!-- Thread Pane -->
@@ -636,10 +637,10 @@
 
 <!ENTITY AddToAddressBook.label "Cuir leis an Leabhar Seoltaí…">
 <!ENTITY AddToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "Edit Contact…">
+<!ENTITY EditContact.label "Cuir Teagmháil in Eagar…">
 <!ENTITY EditContact.accesskey "E">
-<!ENTITY ViewContact.label "View Contact">
-<!ENTITY ViewContact.accesskey "V">
+<!ENTITY ViewContact.label "Amharc ar an Teagmháil">
+<!ENTITY ViewContact.accesskey "M">
 <!ENTITY SendMailTo.label "Cum Ríomhphost Chuig">
 <!ENTITY SendMailTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Cóipeáil an Seoladh Ríomhphoist">

@@ -51,7 +51,7 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Clóscríobh an Príomhfhocal Faire">
-<!ENTITY getPassword.tokenName.label "Gléas Slándála">
+<!ENTITY getPassword.tokenName2.label "Gléas Slándála:">
 <!ENTITY getPassword.password.label "Focal Faire:">
 <!-- These should be common -->
 

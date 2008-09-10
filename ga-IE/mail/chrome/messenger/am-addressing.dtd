@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Úsáid freastalaí LDAP eile:">
 <!ENTITY directories.accesskey "d">
+<!ENTITY directoriesNone.label "Gan sonrú">
 <!-- am-addressing.xul -->
 
 
