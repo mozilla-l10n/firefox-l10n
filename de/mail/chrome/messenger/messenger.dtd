@@ -652,10 +652,10 @@
 <!ENTITY reportPhishingURL.accesskey "B">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Ziel speichern unter…">
-<!ENTITY saveLinkCmd.accesskey "Z">
-<!ENTITY saveImageCmd.label "Grafik speichern unter…">
-<!ENTITY saveImageCmd.accesskey "G">
+<!ENTITY saveLinkAsCmd.label "Ziel speichern unter…">
+<!ENTITY saveLinkAsCmd.accesskey "Z">
+<!ENTITY saveImageAsCmd.label "Grafik speichern unter…">
+<!ENTITY saveImageAsCmd.accesskey "G">
 <!ENTITY copyCmd.label "Kopieren">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Alles markieren">
