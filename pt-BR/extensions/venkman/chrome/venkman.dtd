@@ -1,0 +1,118 @@
+<!--
+   -
+   - ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is The JavaScript Debugger.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Ginda, <rginda@netscape.com>, original author
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY MainWindow.title "Depurador de JavaScript">
+<!-- floating views -->
+
+<!ENTITY ViewFloat.tooltip "Clique para fazer/desfazer flutuação nesta visão">
+<!ENTITY ViewGrippy.tooltip "Arraste a barra de título para mover esta visão">
+<!ENTITY ViewClose.tooltip "Clique aqui para fechar esta visão">
+<!-- help menu -->
+
+<!ENTITY Help.commands "Referência dos comandos">
+<!ENTITY Help.about "Sobre o Venkman">
+<!-- toolips -->
+
+<!ENTITY DebugBar.tooltip "Barra de ferramentas de depuração">
+<!ENTITY MenuBar.tooltip "Barra de menus">
+<!-- breakpoint view -->
+
+<!ENTITY Break.label "Pontos de interrupção">
+<!ENTITY BreakCol0.label "Nome">
+<!ENTITY BreakCol1.label "Linha/PC">
+<!-- locals view -->
+
+<!ENTITY Locals.label "Variáveis locais">
+<!ENTITY LocalsCol0.header "Nome">
+<!ENTITY LocalsCol1.header "Tipo">
+<!ENTITY LocalsCol2.header "Valor">
+<!ENTITY LocalsCol3.header "Bandeiras">
+<!-- session view -->
+
+<!ENTITY Session.label "Sessão interativa">
+<!-- script view -->
+
+<!ENTITY Scripts.label "Scripts carregados">
+<!ENTITY ScriptsSearch.label "Pesquisar">
+<!ENTITY ScriptsSearch.tooltip "Clique aqui para limpar o campo de pesquisa">
+<!ENTITY ScriptsCol0.header "Nome">
+<!ENTITY ScriptsCol1.header "Linha">
+<!ENTITY ScriptsCol2.header "Tamanho">
+<!-- source view -->
+
+<!ENTITY Source.label "Código-fonte">
+<!ENTITY SourceHeader.tip "Barra de ferramentas código">
+<!ENTITY SourceCol0.display "Margem">
+<!ENTITY SourceCol1.display "Número da linha">
+<!-- stack view -->
+
+<!ENTITY Stack.label "Pilha de chamadas">
+<!ENTITY StackCol0.header "Nome">
+<!ENTITY StackCol1.header "Local">
+<!-- watch view -->
+
+<!ENTITY Watch.label "Observadores">
+<!ENTITY WatchCol0.header "Nome">
+<!ENTITY WatchCol1.header "Tipo">
+<!ENTITY WatchCol2.header "Valor">
+<!ENTITY WatchCol3.header "Bandeiras">
+<!-- window view -->
+
+<!ENTITY Windows.label "Janelas abertas">
+<!ENTITY WindowsCol0.label "Arquivo">
+<!-- breakpoint properties window -->
+
+<!ENTITY BPProps.URL.label "URL">
+<!ENTITY BPProps.Line.label "Linha">
+<!ENTITY BPProps.PC.label "PC">
+<!ENTITY BPProps.FunctionName.label "Função">
+<!ENTITY BPProps.TriggerCount.label "Contagem do disparador">
+<!ENTITY BPProps.OneTime.label "Limpar ponto de interrupção após o primeiro disparador">
+<!ENTITY BPProps.Then.label "Então...">
+<!ENTITY BPProps.ConditionalCheck.label "Quando disparado, execute...">
+<!ENTITY BPProps.NeverStopRadio.label "Continuar independentemente do resultado">
+<!ENTITY BPProps.AlwaysStopRadio.label "Para independentemente do resultado">
+<!ENTITY BPProps.ConditionalBreakRadio.label "Parar se o resultado for true">
+<!ENTITY BPProps.EarlyReturnRadio.label "Retorno antecipado do chamador com resultado">
+<!ENTITY BPProps.PassExceptionsCheck.label "Passar exceções para o chamador">
+<!ENTITY BPProps.LogResultCheck.label "Resultado do log">
+<!ENTITY BPProps.Apply.label "Aplicar">
+<!ENTITY BPProps.Revert.label "Reverter">
+<!ENTITY BPProps.Close.label "Fechar">
+
