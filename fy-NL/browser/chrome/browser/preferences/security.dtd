@@ -8,10 +8,10 @@
   useDownloadedList.label convey the meaning "suspected" (and not something like
   "known").
 -->
-<!ENTITY  tellMaybeAttackSite.label     "My fertelle oft de webstee dy't ik besykje miskien in oanfalside is">
+<!ENTITY  tellMaybeAttackSite.label     "My fertelle oft it webstee dy't ik besykje miskien in oanfalside is">
 <!ENTITY  tellMaybeAttackSite.accesskey "k">
 
-<!ENTITY  tellMaybeForgery.label     "My fertelle oft de webstee dy't ik besykje miskien in ferfalsking is">
+<!ENTITY  tellMaybeForgery.label     "My fertelle oft it webstee dy't ik besykje miskien in ferfalsking is">
 <!ENTITY  tellMaybeForgery.accesskey "f">
 
 <!ENTITY  addonExceptions.label          "Utsûnderings...">

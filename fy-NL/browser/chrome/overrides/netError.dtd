@@ -29,7 +29,7 @@
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Kontrolearje de bestânsnamme op grutte/lytse letters of oare typefouten.</li>
-  <li>Kontrolearje oft it bestân ferpleatst, fuorthelle is of in nije namme krigen hat.</li>
+  <li>Kontrolearje of it bestân ferpleatst, fuorthelle is of in nije namme krigen hat.</li>
 </ul>
 ">
 
@@ -62,7 +62,7 @@
 <!ENTITY contentEncodingError.title "Ynhâld Kodearings Flater">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Nim kontakt op mei de webstee eigners om se te ynformearjen oer dit probleem.</li>
+  <li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li>
 </ul>
 ">
 
@@ -126,7 +126,7 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>De side dy't jo besjen wolle kin net toand wurde, omdat de werkomst fan de ûntfongen data net werlaad wurde kin.</li>
-  <li>Nim kontakt op mei de webstee eigners om se te ynformearjen oer dit probleem. Of brûk de keppeling yn it helpmenu om defekte websteeën te rapportearjen.</li>
+  <li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem. Of brûk de keppeling yn it helpmenu om defekte websteeën te rapportearjen.</li>
 </ul>
 ">
 

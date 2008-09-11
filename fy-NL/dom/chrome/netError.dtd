@@ -4,7 +4,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ferbiningsflater">
-<!ENTITY connectionFailure.longDesc "<p>Hoewel it der nei útsjocht dat de webstee bestiet is it de browser net slagge dermei te ferbinen.</p><ul><li>Miskien is de webstee tydlik net beskikber? Besykje it letter op 'e nij.</li><li>Kinne jo ek gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Wurdt jo kompjûter of netwurk beskerme troch in brânmuorre of proksy? Ferkearde ynstellings kinne it funksjonearjen dêrfan by it websneupjen opkeare.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Hoewel it der nei útsjocht dat it webstee bestiet is it de browser net slagge dermei te ferbinen.</p><ul><li>Miskien is it webstee tydlik net beskikber? Besykje it letter op 'e nij.</li><li>Kinne jo ek gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Wurdt jo kompjûter of netwurk beskerme troch in brânmuorre of proksy? Ferkearde ynstellings kinne it funksjonearjen dêrfan by it websneupjen opkeare.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Poarte beheind om befeiligingsredenen">
 <!ENTITY deniedPortAccess.longDesc "<p>It frege adres spesifisearret in poarte (bv. <q>mozilla.org:80</q> foar poarte 80 op mozilla.org) die normaal sprutsen brûkt wurdt foar <em>oare</em> doeleinen as websneupjen. De browser hat it fersyk annulearre omwille fan jo beskerming en feiligheid.</p>">
@@ -28,7 +28,7 @@
 <!ENTITY netOffline.longDesc "<p>De browser is op it stuit sûnder ferbining en kin net ferbine mei de opfrege webstee.</p><ul><li>Is de komputer ferbûn mei in aktief netwurk?</li><li> Set jo browser yn de online modus om it noch in kear te besykjen.</li></ul>">  
 
 <!ENTITY contentEncodingError.title "Ynhâld Kodearings Flater">
-<!ENTITY contentEncodingError.longDesc "<p>De side dy't jo probearje te besjen kin net toant wurde, want it brûkt in fout of net stipe foarm fan kompresje.</p><ul><li>Nim kontakt op mei de webstee eigners om se te ynformearjen oer dit probleem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>De side dy't jo probearje te besjen kin net toant wurde, want it brûkt in fout of net stipe foarm fan kompresje.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Unfeilich bestânstype">
 <!ENTITY unsafeContentType.longDesc "
@@ -44,7 +44,7 @@
 <!ENTITY netTimeout.longDesc "<p>De opfrege webstee antwurdde net op in ferbiningsfersyk en de browser is stoppe mei wachten op in antwurd.</p><ul><li>Wellicht ûnderfint de tsjinner in hege fraag of in tiidlike stroomûnderbrekking? Probearje it letter op'e nj.</li><li>Kin jo gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Wurdt jo kompjûter of netwurk beskerme troch in firewall of proxy? Ferkearde ynstellings kinne in goede wurking tiidens it webbrowsen tsjin gean.</li><li>Ha jo nog steeds problemen? Freegje jo netwurkbehearder of ynternetprovider foar assistinsje.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Protokol net bekend">
-<!ENTITY protocolNotFound.longDesc "<p>It adres spesifisearret in protokol (bv. <q>wxyz://</q>) dat de browser net herkent, wertroch de browser net op in goeie manier ferbine kin mei de webstee.</p><ul><li>Probearje jo tagong te krijen ta multimedia- of oare net-tekstservices? Kontrolearje de webstee op ekstra benedigdheden.</li><li>Sommige protokollen kinne programmatuer of ynstekkers fan tredden fereaske foardat de browser se herkennen kin.</li></ul>">
+<!ENTITY protocolNotFound.longDesc "<p>It adres spesifisearret in protokol (bv. <q>wxyz://</q>) dat de browser net herkent, wertroch de browser net op in goeie manier ferbine kin mei it webstee.</p><ul><li>Probearje jo tagong te krijen ta multimedia- of oare net-tekstservices? Kontrolearje it webstee op ekstra benedigdheden.</li><li>Sommige protokollen kinne programmatuer of ynstekkers fan tredden fereaske foardat de browser se herkennen kin.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxytsjinner wegere de ferbining">
 <!ENTITY proxyConnectFailure.longDesc "<p>De browser is konfigureard om in proxytsjinner te brûken, mar de proxy wegere in ferbining.</p><ul><li>Is de proxykonfiguraasje fan de browser in oarder? Kontrolearje de ynstellings en probeer it op 'e nij.</li><li>Stiet de proxyservice ferbiningen fan dit netwurk ta?</li><li>Ha jo nog steeds problemen? Freegje jo netwurkbehearder of ynternetprovider foar assistinsje.</li></ul>">
@@ -53,13 +53,13 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>De browser is konfigureard om in proxytsjinner te brûken, mar de proxy koe net fûn wurde.</p><ul><li>Is de proxykonfiguraasje fan de browser in oarder? Kontrolearje de ynstellings en probeer it op 'e nij.</li><li>Is de kompjûter ferbûn mei in aktief netwurk?</li><li>Ha jo nog steeds problemen? Freegje jo netwurkbehearder of ynternetprovider foar assistinsje.</li></ul>">
 
 <!ENTITY redirectLoop.title "Uneindige lusk">
-<!ENTITY redirectLoop.longDesc "<p>De browser is stoppe mei te probearjen it opfrege item op te heljen. De webstee ferwiist it fersyk troch op in manier die noait dien sil wêze.</p><ul><li>Ha jo cookies die nedig binne foar dizze webstee útskeakele of blokkearre?</li><li><em>NOAT</em>: as it akseptearjen fan cookies fan dizze webstee it probleem net oplost is it warskienlik in tsjinnerkonfiguraasjeprobleem en net jo kompjûter.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>De browser is stoppe mei te probearjen it opfrege item op te heljen. It webstee ferwiist it fersyk troch op in manier die noait dien sil wêze.</p><ul><li>Ha jo cookies die nedig binne foar dizze webstee útskeakele of blokkearre?</li><li><em>NOAT</em>: as it akseptearjen fan cookies fan dizze webstee it probleem net oplost is it warskienlik in tsjinnerkonfiguraasjeprobleem en net jo kompjûter.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Ferkeard antwurd">
-<!ENTITY unknownSocketType.longDesc "<p>De webstee antwurde op in ûnferwachte manier op it netwurkfersyk en de browser kin net trochgean.</p>">
+<!ENTITY unknownSocketType.longDesc "<p>It webstee antwurde op in ûnferwachte manier op it netwurkfersyk en de browser kin net trochgean.</p>">
 
 <!ENTITY nssFailure2.title "Befeilige ferbining mislearre">
-<!ENTITY nssFailure2.longDesc "<p>De side dy't jo besjen wolle kin net toand wurde, omdat de werkomst fan de ûntfongen data net werlaad wurde kin.</p><ul><li> Nim kontakt op mei de webstee eigners om se te ynformearjen oer dit probleem. Of brûk de keppeling yn it helpmenu om defekte websteeën te rapportearjen.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>De side dy't jo besjen wolle kin net toand wurde, omdat de werkomst fan de ûntfongen data net werlaad wurde kin.</p><ul><li> Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem. Of brûk de keppeling yn it helpmenu om defekte websteeën te rapportearjen.</li></ul>">
 
 <!ENTITY nssBadCert.title "Feilige Ferbining Mislearre">
 <!ENTITY nssBadCert.longDesc2 "<ul>

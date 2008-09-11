@@ -16,7 +16,7 @@
 <!ENTITY  serif.label                             "Skreef:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Skreefleas:">
-<!ENTITY  sans-serif.accesskey                    "c">
+<!ENTITY  sans-serif.accesskey                    "k">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
 
