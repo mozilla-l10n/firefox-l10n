@@ -107,7 +107,7 @@
 <!ENTITY  securityView.identity.header   "વેબ સાઈટ ઓળખ">
 <!ENTITY  securityView.identity.owner    "માલિક: ">
 <!ENTITY  securityView.identity.domain   "વેબ સાઈટ: ">
-<!ENTITY  securityView.identity.verifier "દ્વારા ચકાસાયેલ: ">
+<!ENTITY  securityView.identity.verifier "ચકાસનાર: ">
 
 <!ENTITY  securityView.privacy.header                   "ખાનગીપણું &amp; ઈતિહાસ">
 <!ENTITY  securityView.privacy.history                  "શું મેં આ વેબસાઈટની આજે પહેલાં મુલાકાત લીધી છે?">
