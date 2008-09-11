@@ -33,7 +33,7 @@
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; vil med jamne mellomrom sjekke, og informere deg når kompatible versjonar for progamtillegga vert funne.">
 
 <!ENTITY  adminDisabled.wizard.title      "Klarte ikkje å sjå etter oppdateringar">
-<!ENTITY  adminDisabled.warning.label     "Det er ikkje mogleg å sjå etter oppdateringar for ikkje-kompatible programtillegg fordi programvareinstallasjonen for &brandShortName; er slått av. Kontakt systemadministrator for hjelp.">
+<!ENTITY  adminDisabled.warning.label     "Det er ikkje mogleg å sjå etter oppdateringar for ikkje-kompatible programtillegg fordi programvareinstallasjonen for &brandShortName; er slått av. Kontakt systemansvarleg for hjelp.">
 
 <!ENTITY  versioninfo.wizard.title        "Sjekkar kompatibliteten til programtillegga">
 <!ENTITY  versioninfo.top.label           "Sjekkar kompatibliteten til programtillegga dine med denne versjonen av &brandShortName;.">

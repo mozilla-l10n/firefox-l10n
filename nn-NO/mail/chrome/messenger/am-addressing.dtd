@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Bruk ein annan LDAP-tenar:">
 <!ENTITY directories.accesskey     "K">
+<!ENTITY directoriesNone.label     "Ingen">
 
 <!-- am-addressing.xul -->
 

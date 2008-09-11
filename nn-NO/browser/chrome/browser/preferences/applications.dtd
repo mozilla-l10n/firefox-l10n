@@ -7,8 +7,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.label            "Søk:">
-<!ENTITY  filter.accesskey        "S">
-
-<!ENTITY  clear.label             "Tøm">
-<!ENTITY  clear.accesskey         "T">
+<!ENTITY  filter.emptytext        "Søk">

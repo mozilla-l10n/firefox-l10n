@@ -422,6 +422,10 @@
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Køyr filter på mappe">
 <!ENTITY filtersApply.accesskey "K">
+<!ENTITY filtersApplyToSelection.label "Køyr filter på valde meldingar">
+<!ENTITY filtersApplyToSelection.accesskey "S">
+<!ENTITY filtersApplyToMessage.label "Køyr filter på meldingar">
+<!ENTITY filtersApplyToMessage.accesskey "s">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "Hent nye">
@@ -518,6 +522,8 @@
 <!ENTITY folderContextProperties.accesskey "I">
 <!ENTITY folderContextFavoriteFolder.label "Favorittmappe">
 <!ENTITY folderContextFavoriteFolder.accesskey "F">
+<!ENTITY folderContextSettings.label "Innstillingar …">
+<!ENTITY folderContextSettings.accesskey "e">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Namn eller e-postadresse inneheld:">
@@ -530,6 +536,7 @@
 <!ENTITY searchFromMenu.label "Frå">
 <!ENTITY searchSubjectOrFromMenu.label "Emne eller Frå">
 <!ENTITY searchRecipient.label "Til eller Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
 <!ENTITY searchMessageBody.label "Meldingskropp">
 <!ENTITY saveAsVirtualFolderMenu.label "Lagre søk som mappe …">
 
@@ -629,6 +636,10 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Legg til i adressebok …">
 <!ENTITY AddToAddressBook.accesskey "L">
+<!ENTITY EditContact.label "Rediger kontakt …">
+<!ENTITY EditContact.accesskey "E">
+<!ENTITY ViewContact.label "Vis kontakt">
+<!ENTITY ViewContact.accesskey "V">
 <!ENTITY SendMailTo.label "Skriv ny e-post til">
 <!ENTITY SendMailTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Kopier e-postadresse">
