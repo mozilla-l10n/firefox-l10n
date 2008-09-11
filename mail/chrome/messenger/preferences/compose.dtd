@@ -84,6 +84,7 @@
 <!ENTITY addressingEnable.accesskey            "a">
 <!ENTITY directories.label                     "katalogų serveryje:">
 <!ENTITY directories.accesskey                 "s">
+<!ENTITY directoriesNone.label                 "Nėra">
 <!ENTITY editDirectories.label                 "Tvarkyti katalogus…">
 <!ENTITY editDirectories.accesskey             "T">
 <!ENTITY matchText.label                       "Jei adresas rastas adresų knygoje, tai:">
