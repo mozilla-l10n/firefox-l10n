@@ -1,0 +1,24 @@
+<!ENTITY offlineDialog.title       "අසම්බන්ධිත සැකසුම්">
+
+<!ENTITY textStartUp   "ආරම්භයේදී:">
+<!ENTITY radioRememberPrevState "පෙර සම්බන්ධිත තත්ත්වය මතක තබාගන්න">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe "සම්බන්ධිත තත්ත්වය සඳහා ආරම්භයේදී විමසන්න">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline "සෑමවිටම ආරම්භයේදී සම්බන්ධිතව සිටින්න">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "සම්භන්ධ වූ විට නොයැවූ ලිපි යවන්නද?">
+<!ENTITY radioAutoSend "ඔව්">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend "නැහැ">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "විමසන්න">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "අසම්බන්ධිත වීමේදී, අසම්භන්ධවී වැඩ කිරීම සඳහා ලිපි භාගත කරන්නද?">
+<!ENTITY radioAutoDownload "ඔව්">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload "නැහැ">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload "විමසන්න">
+<!ENTITY radioAskDownload.accesskey "a">

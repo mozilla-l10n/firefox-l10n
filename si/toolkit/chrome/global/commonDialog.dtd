@@ -1,0 +1,10 @@
+<!ENTITY header.label     "ලුහුඬු සිරස්තලය"> 
+<!ENTITY message.label    "මෙහි සාම්පළ පෙළක් යනු ඇත.">
+<!ENTITY editfield0.label "පරිශීලක නම:"> 
+<!ENTITY editfield1.label "රහස්පදය:"> 
+<!ENTITY editfield2.label "රහස්පදය තහවුරු කිරීම:"> 
+<!ENTITY checkbox.label   "සළකුණු කරන්න"> 
+<!ENTITY copyCmd.label    "පිටපත් කරන්න">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "සිල්ල තෝරන්න">
+<!ENTITY selectAllCmd.accesskey "A">

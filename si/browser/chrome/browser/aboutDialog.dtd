@@ -1,0 +1,8 @@
+<!ENTITY aboutDialog.title      "&brandFullName; පිළිබඳ">
+<!ENTITY copyright              "ප්‍රණාමය">
+<!ENTITY aboutLink              "&brandFullName; පිළිබඳ">
+<!ENTITY aboutVersion           "නිකුතුව">
+<!ENTITY aboutLink.accesskey    "A">
+<!ENTITY copyright.accesskey    "C">
+<!ENTITY copyrightInfo          "&#169;1998-2008 දායකයින්. සියලු හිමිකම් ඇවිරිණි. Firefox සහ 
+                                 Firefox ලාංඡනය Mozilla Foundation හි වෙළඳ සලකුණු වේ.  සියලු හිමිකම් ඇවිරිණි.">

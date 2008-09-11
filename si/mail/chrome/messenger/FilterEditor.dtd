@@ -1,0 +1,54 @@
+<!ENTITY window.title "පෙරහන සඳහා නියමයන්">
+<!ENTITY subject.label "විෂයය">
+<!ENTITY sender.label "එවන්නා">
+<!ENTITY date.label "දිනය">
+<!ENTITY anyText.label "any text">
+<!ENTITY keyword.label "keyword">
+<!ENTITY age.label "වයස (දින)">
+<!ENTITY to.label "වෙත">
+
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+<!ENTITY cc.label "පිටපත්">
+
+<!ENTITY status.label "තත්ත්වය">
+<!ENTITY priority.label "ප්‍රමුඛතාවය">
+<!ENTITY body.label "බඳ">
+<!ENTITY contains.label "අඩංගු වූ">
+<!ENTITY nocontains.label "අඩංගු නොවූ">
+<!ENTITY filterName.label "පෙරහනේ නම:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "අනවශ්‍ය">
+<!ENTITY notJunk.label "අවශ්‍ය">
+
+<!ENTITY lowestPriorityCmd.label "අඩුම">
+<!ENTITY lowPriorityCmd.label "අඩු">
+<!ENTITY normalPriorityCmd.label "සාමාන්‍ය">
+<!ENTITY highPriorityCmd.label "ඉහළ">
+<!ENTITY highestPriorityCmd.label "ඉහළම">
+
+<!ENTITY conditionDesc.label "ලැබෙන ලිපි සඳහා:">
+<!ENTITY filterActionDesc.label "මේවා ක්‍රියාත්මක කරනු:">
+<!ENTITY filterActionDesc.accesskey "P">
+
+<!ENTITY newFolderButton.label "නව ෆෝල්ඩරයක්...">
+<!ENTITY newFolderButton.accesskey "N">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "ලිපි ගෙනයන්නේ මෙතුළට">
+<!ENTITY copyMessage.label "ලිපි කොපි කරන්නේ මෙතුළට">
+<!ENTITY forwardTo.label "ලිපි යොමු කරන්නේ මෙයට">
+<!ENTITY replyWithTemplate.label "ආකෘතිය සමඟ පිළිතුරු ලිවීම">
+<!ENTITY markMessageRead.label "කියවූ ලෙස සළකුණු කරන්න">
+<!ENTITY markMessageStarred.label "Add Star">
+<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY setPriority.label "Set Priority to">
+<!ENTITY addTag.label "Tag Message">
+<!ENTITY setJunkScore.label "Set Junk Status to">
+<!ENTITY deleteMessage.label "ලිපි මකන්න">
+<!ENTITY deleteFromPOP.label "Delete From POP Server">
+<!ENTITY fetchFromPOP.label "Fetch From POP Server">
+<!ENTITY ignoreThread.label "Ignore Thread">
+<!ENTITY watchThread.label "Watch Thread">
+
+

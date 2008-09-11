@@ -1,0 +1,32 @@
+<!ENTITY  downloadactionsWindow.title         "භාගත ක්‍රියාවන්">
+<!ENTITY  window.width                         "480">
+<!ENTITY  window.height                        "310">
+
+<!ENTITY  fileTypesDescription.label          "පහත එක් එක් ගොනු ආකාරය සඳහා ආශ්‍රිත ක්‍රියාව ස්වයංක්‍රීයව කරන්න:">
+
+<!ENTITY  fileHandlerColumn.label             "ක්‍රියාව">
+<!ENTITY  fileHandlerColumn.accesskey         "A">
+<!ENTITY  fileTypeColumn.label                "ගොනු ආකාරය">
+<!ENTITY  fileTypeColumn.accesskey            "T">
+<!ENTITY  fileMIMETypeColumn.label            "MIME වර්ගය">
+<!ENTITY  fileMIMETypeColumn.accesskey        "M">
+<!ENTITY  fileExtensionColumn.label           "දිගුව">
+<!ENTITY  fileExtensionColumn.accesskey       "E">
+
+<!ENTITY  remove.label                        "ක්‍රියාව ඉවත් කරන්න">
+<!ENTITY  remove.accesskey                    "R">
+<!ENTITY  edit.label                          "ක්‍රියාව වෙනස් කරන්න...">
+<!ENTITY  edit.accesskey                      "C">
+
+<!ENTITY  windowClose.key                     "w">
+<!ENTITY  focusSearch1.key                    "f">
+<!ENTITY  focusSearch2.key                    "k">
+
+<!ENTITY  filter.label                        "සෙවීම්:">
+<!ENTITY  filter.accesskey                    "S">
+<!ENTITY  clear.label                         "හිස් කරන්න">
+<!ENTITY  clear.accesskey                     "l">
+
+<!ENTITY  button.close.label                  "වසන්න">
+<!ENTITY  button.close.accesskey              "o">
+

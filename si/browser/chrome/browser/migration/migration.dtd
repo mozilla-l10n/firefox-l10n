@@ -1,0 +1,52 @@
+
+<!ENTITY migrationWizard.title          "ආයාත විශාරද">
+
+<!ENTITY importFrom.label               "වරණ, පිටු සලකුණු, පෙරදෑ, රහස්පද සහ අනෙකුත් දත්ත ආයාත කළ යුත්තේ:">
+<!ENTITY importFromUnix.label           "මනාපයන්, පිටු සලකුණු, පෙරදෑ, රහස්පද සහ අනෙකුත් දත්ත ආයාත කළ යුත්තේ:">
+<!ENTITY importFromBookmarks.label      "පිටු සලකුණු ආයාත කිරීම:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird හෝ Phoenix">
+<!ENTITY importFromPhoenix.accesskey    "P">
+<!ENTITY importFromNothing.label        "කිසිවක් ආයාත නොකරන්න">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 හෝ Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNetscape4.label      "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromCamino.label         "Camino">
+<!ENTITY importFromCamino.accesskey     "C">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromOmniWeb.label        "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey    "W">
+<!ENTITY importFromICab.label           "iCab">
+<!ENTITY importFromICab.accesskey       "i">
+<!ENTITY importFromKonqueror.label      "Konqueror">
+<!ENTITY importFromKonqueror.accesskey  "K">
+<!ENTITY importFromEpiphany.label       "Epiphany">
+<!ENTITY importFromEpiphany.accesskey   "E">
+<!ENTITY importFromGaleon.label         "Galeon">
+<!ENTITY importFromGaleon.accesskey     "G">
+
+
+
+<!ENTITY noMigrationSources.label       "පිටු සලකුණු, අතීතය හෝ රහස්පද දත්ත අඩංගු වන කිසිදු වැඩසටහනක් සොයාගත නොහැකි විය.">
+
+<!ENTITY importSource.title             "සැකසුම් සහ දත්ත ආයාත කිරීම">
+<!ENTITY importItems.title              "ආයාත කරන අයිතමයන්">
+<!ENTITY importItems.label              "ආයාත කරන්නේ කුමක් දැයි තෝරන්න:">
+
+<!ENTITY migrating.title                "ආයාත කරමින්...">
+<!ENTITY migrating.label                "පහත අයිතමයන් ආයාත කරමින් සිටියි...">
+
+<!ENTITY selectProfile.title            "පැතිකඩ තෝරන්න">
+<!ENTITY selectProfile.label            "පහත සඳහන් පැතිකඩ ආයාත කිරිම සඳහා භාවිතයට ඇත:">
+
+<!ENTITY done.title                     "ආයාත කිරීම සම්පූර්ණයි">
+<!ENTITY done.label                     "පහත අයිතමයන් සාර්ථකව ආයාත කරන ලදී:">
+<!ENTITY importFromHTMLFile.accesskey   "F">
+<!ENTITY importFromHTMLFile.label       "HTML ගොනුවක් වෙතින්">

@@ -1,0 +1,14 @@
+<!ENTITY  typeColumn.label        "අන්තර්ගත වර්‍ගය">
+<!ENTITY  typeColumn.accesskey    "T">
+
+<!ENTITY  actionColumn2.label     "ක්‍රියාව">
+<!ENTITY  actionColumn2.accesskey "A">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.label            "සොයන්න:">
+<!ENTITY  filter.accesskey        "S">
+
+<!ENTITY  clear.label             "පැහැදිලි කරන්න">
+<!ENTITY  clear.accesskey         "l">

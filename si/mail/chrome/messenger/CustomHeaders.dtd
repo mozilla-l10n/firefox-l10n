@@ -1,0 +1,7 @@
+<!ENTITY window.title "හීර්ෂ රිසිකරණය">
+<!ENTITY addButton.label "එක් කරන්න">
+<!ENTITY addButton.accesskey "A">
+<!ENTITY removeButton.label "ඉවත් කරන්න">
+<!ENTITY removeButton.accesskey "R">
+<!ENTITY newMsgHeader.label "නව ලිපි ශීර්ෂයක්:">
+<!ENTITY newMsgHeader.accesskey "N">

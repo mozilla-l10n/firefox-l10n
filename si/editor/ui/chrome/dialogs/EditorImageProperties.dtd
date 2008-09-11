@@ -1,0 +1,119 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "අනුරූ ගුණාංග">
+
+<!ENTITY pixelsPopup.value "පික්සල">
+<!ENTITY percentPopup.value "ප්‍රතිශතය">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "අනුරූ පිහිටුම:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "අනුරුවේ ගොනු නම හෝ පිහිටුම ටයිප් කරන්න">
+<!ENTITY title.label "මෙවලම් ඉඟිය:">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip "මෙවලම් ඉඟිය ලෙස පෙන්වන html 'ශීර්ෂ' උපලක්ෂණය">
+<!ENTITY altText.label "විකල්ප පෙළ:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "අනුරුවේ ස්ථාපනය පෙන්වීමට පෙළ ටයිප් කරන්න">
+<!ENTITY noAltText.label "විකල්ප පෙළ භාවිතා කරන්න එපා">
+<!ENTITY noAltText.accessKey "D">
+
+<!ENTITY previewBox.label "අනුරූ පෙරදසුන">
+<!ENTITY MoreFewerButton.tooltip "සංස්කරණය කිරීමට ගුණාංග වැවිපුර හෝ කිහිපයක් හෝ පෙන්වන්න">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "සත්‍ය ප්‍රමාණය:">
+<!ENTITY actualSizeRadio.label "සත්‍ය ප්‍රමාණය">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "අනුරුවේ සත්‍ය පුමාණයට ආපසු එළඹෙන්න">
+<!ENTITY customSizeRadio.label "අභිරුචි ප්‍රමාණය">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "පිටුවේ පෙන්විය හැකි වන ලෙස අනුරුවේ පුමාණය වෙනස් කරන්න">
+<!ENTITY heightEditField.label "උස:">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY widthEditField.label "පළල:">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY constrainCheckbox.label "Constrain">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "අනුරුවේ පෙනුම් අනුපාතය කළමනාකරණය කරන්න">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "අනුරූ සිතියම">
+<!ENTITY removeImageMapButton.label "ඉවත් කරන්න">
+<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY editImageMapButton.label "සංස්කරණය කරන්න...">
+<!ENTITY editImageMapButton.tooltip "මෙම අනුරුව සඳහා clickable hotspots නිර්මානය කරන්න">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "අනුරුවට පෙළ පෙළ ගසන්න">
+<!ENTITY bottomPopup.value "පහළ දී">
+<!ENTITY topPopup.value "ඉහළ දී">
+<!ENTITY centerPopup.value "මැදදී">
+<!ENTITY wrapRightPopup.value "දකුණට ඔතන්න">
+<!ENTITY wrapLeftPopup.value "වමට ඔතන්න">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "පරතරය">
+<!ENTITY spacingBox.tooltip "අනුරුව වටා ඇති අවකාශය සඳහා සංඛ්‍යාවක් ටයිප් කරන්න">
+<!ENTITY leftRightEditField.label "දකුණ සහ වම:">
+<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY topBottomEditField.label "ඉහළ සහ පහළ:">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "ස්ථිර දාරය:">
+<!ENTITY borderEditField.accessKey "B">
+
+<!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "සබුඳි අනුරුව වටා දාරව පෙන්වන්න">
+<!ENTITY showImageLinkBorder.accessKey "B">
+
+<!-- These controls may be added some day; currently not used -->
+<!ENTITY makePageBackgroundCheckbox.label "පිටු පසුබිම සකසන්න">
+<!ENTITY makePageBackgroundCheckbox.tooltip "පිටු සඳහා පසුබිම ලෙස අනුරුව භාවිතා කරන්න">
+<!ENTITY editImageButton.label "අනුරුව සංස්කරණය කරන්න">
+<!ENTITY editImageButton.tooltip "අනෙක් ක්‍රමලේඛය තුළ අනුරූ ගොනුව සංස්කරණය කරන්න">
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "පෝරමය">
+<!ENTITY imageLocationTab.label "පිහිටුම">
+<!ENTITY imageDimensionsTab.label "මාන">
+<!ENTITY imageAppearanceTab.label "පෙනුව">
+<!ENTITY imageLinkTab.label "සබැඳිය">

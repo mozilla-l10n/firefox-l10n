@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY viewPicker.label "පෙන්වීම:">
+<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewAll.label "සියල්ල">
+<!ENTITY viewAll.accesskey "A">
+<!ENTITY viewUnread.label "නොකියවූ">
+<!ENTITY viewUnread.accesskey "U">
+<!ENTITY viewTags.label "Tags">
+<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewCustomViews.label "Custom Views">
+<!ENTITY viewCustomViews.accesskey "V">
+<!ENTITY viewVirtualFolder.label "Save View as a Folder...">
+<!ENTITY viewVirtualFolder.accesskey "S">
+<!ENTITY viewCustomizeView.label "රිසිකරණය...">
+<!ENTITY viewCustomizeView.accesskey "C">

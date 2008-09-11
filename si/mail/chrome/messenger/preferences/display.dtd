@@ -1,0 +1,52 @@
+<!ENTITY itemFormatting.label             "හැඩගැසුම්">
+<!ENTITY itemTags.label                   "ලේබල්">
+<!ENTITY itemFonts.label                  "අකුරු">
+
+<!ENTITY textBegin.label                  "උදෘත සාමාන්‍ය පාඨ පෙනීම">
+<!ENTITY style.label                      "විලාසය:">
+<!ENTITY style.accesskey                  "y">
+<!ENTITY regularStyle.label               "Regular">
+<!ENTITY bold.label                       "Bold">
+<!ENTITY italic.label                     "Italic">
+<!ENTITY boldItalic.label                 "Bold Italic">
+<!ENTITY size.label                       "තරම:">
+<!ENTITY size.accesskey                   "S">
+<!ENTITY regularSize.label                "Regular">
+<!ENTITY bigger.label                     "වඩා විශාල">
+<!ENTITY smaller.label                    "වඩා කුඩා">
+<!ENTITY color.label                      "වර්ණය:">
+<!ENTITY color.accesskey                  "C">
+<!ENTITY displayWidth.label               "සාමාන්‍ය පාඨ ලිපි">
+<!ENTITY plainText.label				  "පහත අකුරු භාවිතා කරන්න:">
+<!ENTITY displayText.label				  "උදෘත සාමාන්‍ය පාඨ ලිපි පෙන්වන විටදී:">
+<!ENTITY viewingPlainText.label			  "සාමාන්‍ය පාඨ ලිපි පෙන්වන විටදී:">
+<!ENTITY fixedWidth.label                 "නිශ්චිත පළල අකුරු">
+<!ENTITY fixedWidth.accesskey             "x">
+<!ENTITY variableWidth.label              "වෙනස්වන පළල අකුරු">
+<!ENTITY variableWidth.accesskey          "V">
+<!ENTITY readingMessagesHeader.label      "ලැබෙන ලිපි සඳහා">
+<!ENTITY colors.label                     "වර්ණ">
+<!ENTITY overrideColors.label             "ලිපි පෙන්වන විටදී, පහත වර්ණ භාවිතා කරන්න:">
+<!ENTITY textColor.label                  "පාඨ වර්ණය:">
+<!ENTITY textColor.accesskey              "T">
+<!ENTITY backgroundColor.label            "පසුබිම් වර්ණය:">
+<!ENTITY backgroundColor.accesskey        "b">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "චිත්‍රක ලෙස emoticons පෙන්වන්න">
+<!ENTITY convertEmoticons.accesskey       "D">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label            "ඔබගේ ලිපි ප්‍රභේද කිරීම සහ ප්‍රමුඛත්වය දීමට ලේබල භාවිතා කළ හැකිය.">
+<!ENTITY addTagButton.label               "එක් කරන්න">
+<!ENTITY addTagButton.accesskey           "A">
+<!ENTITY editTagButton.label              "සැකසුම්">
+<!ENTITY editTagButton.accesskey          "E">
+<!ENTITY removeTagButton.label            "මකන්න">
+<!ENTITY removeTagButton.accesskey        "l">
+
+<!-- Fonts -->
+<!ENTITY fontAndEncodingsDescription.label "&brandShortName; භාවිතා කරන අකුරු සහ කේතනයන් වින්‍යාස කිරීම">
+<!ENTITY fontsAndEncodingsCaption.label   "අකුරු සහ කේතනයන්">
+<!ENTITY fontOptions.accesskey            "F">
+<!ENTITY fontOptions.label                "අකුරු...">

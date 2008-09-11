@@ -1,0 +1,75 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "මෙතුළ වන ලිපි සඳහා සෙවීම් කරන්න:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "සොයන උප-ෆෝල්ඩරය">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY resetButton.label           "හිස් කරන්න">
+<!ENTITY resetButton.accesskey       "C">
+<!ENTITY optionsButton.label         "වරණ">
+<!ENTITY closeButton.label           "වසන්න">
+<!ENTITY openButton.label            "විවෘත කරන්න">
+<!ENTITY openButton.accesskey        "n">
+<!ENTITY deleteButton.label          "මකන්න">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "ලිපි සෙවීම">
+<!ENTITY conditionDesc.label         "මෙයට ගැලපෙන ලිපි සොයන්න:">
+<!ENTITY conditions.label            "නිර්ණායකය(Criteria)">
+<!ENTITY results.label               "ප්‍රතිඵල">
+<!ENTITY fileHereMenu.label          "File Here">
+<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileButton.label            "ගොනු">
+<!ENTITY fileButton.accesskey        "i">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY goToFolderButton.label      "ලිපි ෆෝල්ඩරය විවෘත ක.">
+<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY saveAsVFButton.label        "සෙවුම් ෆෝල්ඩරයක් සේ සුරකින්න">
+<!ENTITY saveAsVFButton.accesskey    "v">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "සොයන්නේ මෙතුළ:">
+<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY propertiesButton.label      "ලක්ෂණ">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "ලිපියක් ලියන්න">
+<!ENTITY composeButton.accesskey     "W">
+<!ENTITY abSearchDialogTitle.label   "ලිපින පොතේ වැඩිමනත් සවීම්">
+
+<!-- Thread Pane -->
+<!ENTITY threadColumn.label "සබැඳි">
+<!ENTITY senderColumn.label "එවන්නා">
+<!ENTITY recipientColumn.label "ලබන්නා">
+<!ENTITY subjectColumn.label "විෂයය">
+<!ENTITY dateColumn.label "දිනය">
+<!ENTITY priorityColumn.label "ප්‍රමුඛතාවය">
+<!ENTITY tagsColumn.label "Tags">
+<!ENTITY accountColumn.label "ගිණුම">
+<!ENTITY statusColumn.label "තත්ත්වය">
+<!ENTITY sizeColumn.label "විශාලත්වය">
+<!ENTITY junkStatusColumn.label "නසරු තත්ත්වය">
+<!ENTITY linesColumn.label "පේළි">
+<!ENTITY unreadColumn.label "නොකියවූ">
+<!ENTITY totalColumn.label "එකතුව">
+<!ENTITY readColumn.label "කියවූ">
+<!ENTITY starredColumn.label "Starred">
+<!ENTITY locationColumn.label "ස්ථානය">
+<!ENTITY idColumn.label "ලැබුණු පිළිටවළ">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser.tooltip "පෙන්වීම සඳහා තීරු තේරීමට ක්ලික් කරන්න">
+<!ENTITY threadColumn.tooltip "බැඳි ලිපි පෙන්වීමට ක්ලික් කරන්න"> 
+<!ENTITY senderColumn.tooltip "එවන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY recipientColumn.tooltip "ලබන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY subjectColumn.tooltip "විෂයය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY dateColumn.tooltip "දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY priorityColumn.tooltip "ප්‍රමුඛතාවය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY tagsColumn.tooltip "Click to sort by tags">
+<!ENTITY accountColumn.tooltip "ගිණුම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY statusColumn.tooltip "තත්ත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY sizeColumn.tooltip "විශාලත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY junkStatusColumn.tooltip "නිසරුබව අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY unreadColumn.tooltip "සබැඳිලිපි තුළ ඇති නොකියවූ ලිපි ගණන">
+<!ENTITY totalColumn.tooltip "සබැඳිලිපි තුළ ඇති මුළු ලිපි ගණන">
+<!ENTITY readColumn.tooltip "කියවීම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY starredColumn.tooltip "Click to sort by star">
+<!ENTITY locationColumn.tooltip "ස්ථානය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY idColumn.tooltip "ලැබුණු අනුපිළිවෙළට අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">

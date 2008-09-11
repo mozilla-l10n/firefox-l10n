@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "ගිණුමේ සැකසුම්">
+<!ENTITY accountSettingsDesc.label "පහත දැකවෙන්නේ විශේෂ ගිණුමකි.  එය ආශ්‍රිත හැඳුනුම් නැත.">
+<!ENTITY accountName.label "ගිණුමේ නම:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "ලිපි ගබඩාකිරීම">
+<!ENTITY emptyTrashOnExit.label "පිටවීමේදී මැකූ ලිපි ෆෝල්ඩරය හිස් කරන්න">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY localPath.label "පෙදෙසි ඩිරෙක්ට්‍රිය:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY localFolderPicker.label "පෙදෙසි ඩිරෙක්ට්‍රිය තෝරන්න">
+<!ENTITY browseFolder.label "පිරික්සන්න...">
+<!ENTITY browseFolder.accesskey "B">

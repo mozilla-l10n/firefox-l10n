@@ -1,0 +1,16 @@
+
+<!ENTITY addressbookPicker.label            "ලිපින පොත:">
+<!ENTITY searchInput.label                  "සොයන්න:">
+<!ENTITY SearchNameOrEmail.label            "නම හෝ වි.තැ. ලිපිනය">
+
+<!ENTITY addtoToFieldMenu.label             "ලබන්නා තීරුවට යවනු">
+<!ENTITY addtoCcFieldMenu.label             "පිටපත් තීරුවට යවනු">
+<!ENTITY addtoBccFieldMenu.label            "රහස්‍ය පිටපත් තීරුවට යවනු">
+
+<!ENTITY toButton.label                     "ලබන්නා තීරුවට යවනු:">
+<!ENTITY ccButton.label                     "පිටපත් තීරුවට යවනු:">
+
+
+
+
+

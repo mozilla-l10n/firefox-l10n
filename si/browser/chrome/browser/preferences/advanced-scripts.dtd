@@ -1,0 +1,18 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY advancedJSDialog.title         "උසස් JavaScript සැකසුම්">
+<!ENTITY window.width                   "37em">
+
+<!ENTITY allowScripts.label             "ස්ක්‍රිප්ට් අනුමත කරන්න:">
+
+<!ENTITY raiseLowerWindows.label        "කවුළු ඉහළ දැමමිම හෝ කුඩා කිරීම">
+<!ENTITY raiseLowerWindows.accesskey    "R">
+<!ENTITY disableContextMenus.label      "ප්‍රකරණ මෙනුව අක්‍රීය හෝ අදේශ කිරීම">
+<!ENTITY disableContextMenus.accesskey  "D">
+<!ENTITY hideStatusBar.label            "තත්ව තීරුව සඟවන්න">
+<!ENTITY hideStatusBar.accesskey        "H">
+<!ENTITY changeStatusBar.label          "තත්ව තීරුවේ පෙළ වෙනස් කරන්න">
+<!ENTITY changeStatusBar.accesskey      "C">
+<!ENTITY moveResizeWindows.label        "දැනට ඇති කවුළුව ගෙන යන්න හෝ ප්‍රමාණය යළි සකසන්න">
+<!ENTITY moveResizeWindows.accesskey    "M">

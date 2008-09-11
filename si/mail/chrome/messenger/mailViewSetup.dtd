@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "ලිපි පෙනුමේ සැකසුම්">
+<!ENTITY mailViewHeading.label "ලිපි පෙනුමේ නම:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "මෙම පෙනුම තේරූ විට, මෙවැනි ලිපි පමණක් පෙන්වන්න:">
+

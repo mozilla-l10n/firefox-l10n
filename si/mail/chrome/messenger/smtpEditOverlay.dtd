@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "සැකසුම්">
+<!ENTITY security.caption "ආරක්ෂාව සහ සත්‍යාපනය (Authentication)">
+<!ENTITY serverName.label "සේවාදායක නම::">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "විස්තරය:">
+<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverPort.label "විවරය (Port):">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "පරිශීලක නම සහ රහස්පදය භාවිතා කරන්න">
+<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY userName.label "පරිශීලක නම:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY isSecure.label "ආරක්ෂිත සම්බන්ධතාවය භාවිතා භාවිතා කරන්න:">
+<!ENTITY neverSecure.label "නැහැ (No)">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, තිබේනම්">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP සේවාදායකය">
+<!ENTITY serverPortDefault.label "පෙරනිමි (Default):">

@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "අඩවිය">
+<!ENTITY reportProblemType           "ගැටලු වර්‍ගය">
+<!ENTITY reportDecsription           "විස්තරය">
+<!ENTITY reportPlatform              "වේදිකාව">
+<!ENTITY reportProduct               "නිපැයුම">
+<!ENTITY reportoscpu                 "මෙහෙයුම් පද්ධතිය">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "නිෂ්පාදන සැකසුම">
+<!ENTITY reportUseragent             "පරිශීලක ">
+<!ENTITY reportLanguage              "භාෂාව">
+<!ENTITY reportEmail                 "විද්‍යුත් තැපැල">
+<!ENTITY error                       "දෝෂ විස්තරය">
+<!ENTITY faultCode                   "කේතය">
+<!ENTITY faultMessage                "පණිවිඩය">
+<!ENTITY reportCharset               "අකුරු කුලකය">

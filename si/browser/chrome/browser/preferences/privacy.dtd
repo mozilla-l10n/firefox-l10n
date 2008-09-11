@@ -1,0 +1,55 @@
+<!ENTITY  history.label "අතීතය">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+
+<!ENTITY  rememberForms.label           "පෝරම තුළ සහ සෙවුම් තීරුවේ මා ඇතුළත් කරන දැ මතක තබා ගන්න">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "මම බාගත් දැ මතක තබාගන්න">
+<!ENTITY  rememberDownloads.accesskey   "d">
+<!ENTITY  rememberDaysAfter2.label      "දින">
+
+
+<!ENTITY  cookies.label                 "කුකී">
+
+<!ENTITY  acceptCookies.label           "අඩෙවිවල කුකී පිළිගන්න">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  keepUntil.label               "තාබාගත යුත්තේ:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "කල් ඉකුත්වන තුරු">
+<!ENTITY  close.label                   "මම &brandShortName; වසන තුරු">
+<!ENTITY  askEachTime.label             "සැම විටම මගෙන් අසන්න">
+
+<!ENTITY  cookieExceptions.label        "හැරදැමීම්...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "කුකි දර්ශනය කරන්න...">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "පෞද්ගලික දත්ත">
+
+<!ENTITY  alwaysClear.label              "මා &brandShortName; වසන සෑමවිටදීම මගේ පෞද්ගලික දත්ත හිස් කරන්න">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  askBeforeClear.label           "පෞද්ගලික දත්ත හිස් කිරීමට පෙර විමසන්න">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  clearDataSettings.label        "සැකසුම්...">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "දැන් හිස් කරන්න...">
+<!ENTITY  clearDataNow.label2            "දැන් හිස් කරන්න">
+<!ENTITY  clearDataNow.accesskey         "N">
+
+<!ENTITY  rememberDaysBefore.label      "මගේ අතීත තොරතුරු අවම වශයෙන් තබා ගත යුත්තේ">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  acceptThirdParty.label        "මෙම තෙවන පාර්‍ශවික කුකිය අනුමත කරන්න">
+<!ENTITY  acceptThirdParty.accesskey    "p">

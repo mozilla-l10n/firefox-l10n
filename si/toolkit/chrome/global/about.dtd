@@ -1,0 +1,19 @@
+<!ENTITY about.version                "වෙළුම">
+
+<!ENTITY about.copy.beforeLink        "Mozilla ව්‍යපෘතිය සඳහා">
+<!ENTITY about.copy.linkTitle         "දායකයින්">
+<!ENTITY about.copy.afterLink         "කතෘහිමිකම &copy; 1998-2008.">
+
+<!ENTITY about.license.beforeLink     "මෙම නිපැයුම සඳහා">
+<!ENTITY about.license.linkTitle      "බලපත්‍ර තොරතුරු">
+<!ENTITY about.license.afterLink      "කියවන්න.">
+
+<!ENTITY about.relnotes.beforeLink    "මෙම වෙලුම සඳහා">
+<!ENTITY about.relnotes.linkTitle     "නිකුත් කළ සටහන්">
+<!ENTITY about.relnotes.afterLink     "කියවන්න.">
+
+<!ENTITY about.buildconfig.beforeLink "මෙම වෙළුම සඳහා">
+<!ENTITY about.buildconfig.linkTitle  "ගොඩනැගුම් සැකසුම">
+<!ENTITY about.buildconfig.afterLink  "බලන්න.">
+
+<!ENTITY about.buildIdentifier        "ගොඩනැගුම් හදුනුම: ">

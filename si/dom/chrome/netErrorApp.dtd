@@ -1,0 +1,8 @@
+<!-- Error messages that are likely to be overridden by applications go in this
+     file, all messages that likely don't need to tie into app-specific UI
+     should go into netError.dtd -->
+
+<!ENTITY securityOverride.linkText "හෝ ඔබට හැරදැමීමක් එක් කළ හැක…">
+<!ENTITY securityOverride.warningText "<p>ඔබ සම්පූර්ණයෙන්ම විශ්වාස නොකරන අන්තර්ජාල සම්බන්ධතාවයක් භාවිත කරයි නම් හෝ ඔබට මෙම සේවාදායකය සඳහා ආවවාදයක් දක්නට නොමැති නම් ඔබ හැරදැමීමක් එක් නොකළ යුතු වේ.</p>
+<p>ඔබට හැරදැමීමක් එක් කිරීමට අවශ්‍යම නම් උසස් සංකේතාන්කන සැකසුම් යටතේ එය සිදු කළ හැක.</p>
+">

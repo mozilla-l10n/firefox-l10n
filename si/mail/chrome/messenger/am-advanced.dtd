@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "යැවුම් සේවාදායක (SMTP) සැකසුම්">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
+
+<!ENTITY smtpListAdd.label  "එක් කරන්න...">
+<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListEdit.label "සැකසුම්...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "ඉවත් තරන්න">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "පෙරනිමි සැකසුම">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "විස්තඑය: ">
+<!ENTITY serverName.label "සේවාදායක නම: ">
+<!ENTITY serverPort.label "විවරය (Port): ">
+<!ENTITY userName.label   "පරිශීලක නම: ">
+<!ENTITY useSecureConnection.label   "ආරක්ෂක සම්බන්ධතාවය: ">

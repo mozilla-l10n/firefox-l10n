@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "රහස්පද කළමණාකරු">
+<!ENTITY      windowalttitle.label            "පෝරම කළමනාකරු: අඩවි">
+<!ENTITY      tab.signonsstored.label         "රහස්පද සුරකින ලදී">
+<!ENTITY      tab.signonsnotstored.label      "රහස්පද කිසිවට සුරකින්නේ නැත">
+<!ENTITY      tab.nopreview.label             "කිසිවිට පෙරදසුන් නොකරන පෝරම">
+<!ENTITY      tab.nocapture.label             "කිසිවිට සුරකින්නේ නැති පෝරම">
+
+<!ENTITY      spiel.signonsstored.label       "රහස්පද කළමණාකරු පහත අඩවි සඳහා පිරුම් තොරතුරු සුරකින ලදී:">
+<!ENTITY      spiel.signonsnotstored.label    "රහස්පද කළමණාකරු පහත අඩවි සඳහා පිරුම් තොරතුරු කිසිවිටෙක සුරකින්නේ නැත:">
+<!ENTITY      spiel.nopreview.label           "Form Manager will never preview forms from the following sites before pre-filling them for you:">
+<!ENTITY      spiel.nocapture.label           "පහත අඩවි සිට පෝරම සුරකීමට පෝරම කළමනාකරු නොවිමසනු ඇත:">
+
+<!ENTITY      treehead.site.label             "අඩවිය">
+<!ENTITY      treehead.username.label         "පරිශීලක">
+<!ENTITY      treehead.password.label         "රහස්පදය">
+<!ENTITY      remove.label                    "ඉවත් කරන්න">
+<!ENTITY      removeall.label                 "සියල්ල ඉවත් කරන්න">

@@ -1,0 +1,214 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "පුස්තකාලය">
+<!ENTITY organize.label        "පිළිවෙලට සකසන්න">
+<!ENTITY organize.accesskey    "O">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "වසන්න">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY edit.label                     "සකසන්න">
+<!ENTITY edit.accesskey                 "E">
+<!ENTITY views.label                    "දර්ශනය">
+<!ENTITY views.accesskey                "V">
+<!ENTITY view.toolbar.label             "මෙවලම් තීරුව">
+<!ENTITY view.toolbar.accesskey         "o">
+<!ENTITY view.columns.label             "තීරු දර්ශනය">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "අනුපිළිවෙලට සැකසු">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "අනුපිළිවෙලට නොසැකසු">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "A > Z පිළිවෙළ">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A පිළිවෙළ">
+<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY help.usingBookmarks.label      "පිටු සලකුණු භාවිතයෙන්">
+<!ENTITY help.usingBookmarks.accesskey  "B">
+<!ENTITY help.usingHistory.label        "අතීතය භාවිතයෙන්">
+<!ENTITY help.usingHistory.accesskey    "i">
+<!ENTITY help.advancedTips.label        "උසස් ක්‍රම සහ විධි">
+<!ENTITY help.advancedTips.accesskey    "T">
+
+<!ENTITY cmd.findInBookmarks.label      "පිටු සලකුණු තුළ සොයන්න…">
+<!ENTITY cmd.findInBookmarks.accesskey  "F">
+<!ENTITY cmd.findCurrent.label          "දැනට ඇති එකතුව තුළ සොයන්න…">
+<!ENTITY cmd.findCurrent.accesskey      "i">
+
+<!ENTITY cmd.exportHTML.label      "නිර්යාත…">
+<!ENTITY cmd.exportHTML.accesskey  "E">
+<!ENTITY cmd.importHTML.label      "ආයාත…">
+<!ENTITY cmd.importHTML.accesskey  "I">
+
+<!ENTITY cmd.backup.label               "රක්‍ෂිතය…">
+<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label              "යාළි පිහිටුවන්න…">
+<!ENTITY cmd.restore2.accesskey          "R">
+<!ENTITY cmd.restoreFromFile.label      "ගොනුව තෝරන්න…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+
+<!ENTITY cmd.select_all.label "සියල්ල තෝරන්න">
+<!ENTITY cmd.select_all.accesskey "A">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label         "කපන්න">
+<!ENTITY cmd.edit_cut.accesskey     "t">
+<!ENTITY cmd.edit_cut.key           "x">
+<!ENTITY cmd.edit_copy.label        "පිටපත් කරන්න">
+<!ENTITY cmd.edit_copy.accesskey    "C">
+<!ENTITY cmd.edit_copy.key          "c">
+<!ENTITY cmd.edit_paste.label       "අලවන්න">
+<!ENTITY cmd.edit_paste.accesskey   "P">
+<!ENTITY cmd.edit_paste.key         "v">
+<!ENTITY cmd.edit_delete.label      "මකන්න">
+<!ENTITY cmd.edit_delete.accesskey  "D">
+<!ENTITY cmd.edit_undo.label        "අහෝසි කරන්න">
+<!ENTITY cmd.edit_undo.accesskey    "U">
+<!ENTITY cmd.edit_undo.key          "z">
+<!ENTITY cmd.edit_redo.label        "යළි කරන්න">
+<!ENTITY cmd.edit_redo.accesskey    "R">
+<!ENTITY cmd.edit_redo.key          "y">
+
+<!ENTITY cmd.open.label                  "විවෘත කරන්න">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "නව කවුළුවක විවෘත කරන්න">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_tab.label              "නව ටැබයක විවෘත කරන්න">
+<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_all_in_tabs.label      "සියල්ල ටැබ තුළ විවෘත කරන්න">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
+
+<!ENTITY cmd.properties.label      "වත්කම්">
+<!ENTITY cmd.properties.accesskey  "i">
+
+<!ENTITY cmd.show_info.key  "i">
+
+<!ENTITY cmd.rename.label      "නම වෙනස් කරන්න">
+<!ENTITY cmd.rename.accesskey  "R">
+
+<!ENTITY cmd.sortby_name.label              "නම අනුව පෙළ ගැසු">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "නව පිටු සලකුණ…">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_livemark.label            "නව සජීවි පිටු සලකුණ…">
+<!ENTITY cmd.new_livemark.accesskey        "L">
+<!ENTITY cmd.new_folder.label              "නව බහලුම…">
+<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "නව වෙන්කරණය">
+<!ENTITY cmd.new_separator.accesskey       "S">
+
+<!ENTITY cmd.reloadLivebookmark.label      "සජීවි පිටු සලකුණ යළි පූරණය">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
+<!ENTITY cmd.reloadMicrosummary.label      "සජීවි සිරස්තල යළි පූරණය">
+<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+
+<!ENTITY cmd.groupby_site.label      "අඩවිය අනුව පෙළ ගැසු">
+<!ENTITY cmd.groupby_site.accesskey  "S">
+<!ENTITY cmd.groupby_page.label      "පිටුව අනුව පෙළ ගැසු">
+<!ENTITY cmd.groupby_page.accesskey  "P">
+<!ENTITY cmd.groupby_feed.label      "දායකත්වය අනුව පෙළ ගැසු">
+<!ENTITY cmd.groupby_feed.accesskey  "S">
+<!ENTITY cmd.groupby_post.label      "මාතෘකාව අනුව පෙළ ගැසු">
+<!ENTITY cmd.groupby_post.accesskey  "P">
+
+<!ENTITY cmd.moveBookmarks.label                  "ගෙන යන්න…">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
+<!ENTITY col.name.label          "නම">
+<!ENTITY col.tags.label          "ටැග්">
+<!ENTITY col.url.label           "පිහිටුම">
+<!ENTITY col.lastvisit.label     "පිවිසි දිනය">
+<!ENTITY col.visitcount.label    "පිවිසුම් එකතුව">
+<!ENTITY col.keyword.label       "මූල පදය">
+<!ENTITY col.description.label   "විස්තරය">
+<!ENTITY col.dateadded.label     "එක් කළා">
+<!ENTITY col.lastmodified.label  "අවසන් වෙනස්කම">
+
+<!ENTITY search.label                              "සොයන්න:">
+<!ENTITY search.accesskey                          "S">
+<!ENTITY search.collection.label                   "දැනට ඇති එකතුව පමණි">
+<!ENTITY search.collection.accesskey               "C">
+<!ENTITY search.allBookmarks.label                 "සියලු පිටු සලකුණු">
+<!ENTITY search.allBookmarks.accesskey             "A">
+<!ENTITY search.scopeFolder.label                  "තෝරාගත් බහලුම">
+<!ENTITY search.scopeFolder.accesskey              "F">
+<!ENTITY search.scopeAll.label                     "සියලු පිටු සලකුණු">
+<!ENTITY search.scopeAll.accesskey                 "A">
+<!ENTITY search.scopeMenu.label                    "පිටු සලකුණු මෙනුව">
+<!ENTITY search.scopeMenu.accesskey                "M">
+<!ENTITY search.scopeToolbar.label                 "පිටු සලකුණු මෙවලම් තීරුව">
+<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeDownloads.label               "බාගත කිරීම්">
+<!ENTITY search.scopeDownloads.accesskey           "D">
+<!ENTITY search.scopeHistory.label                 "අතීතය">
+<!ENTITY search.scopeHistory.accesskey             "A">
+<!ENTITY search.scopeBarExpanderDown.tooltip       "සෙවුම් නිර්මාණය දර්ශනය">
+<!ENTITY search.scopeBarExpanderUp.tooltip         "සෙවුම් නිර්මාණය සඟවන්න">
+<!ENTITY saveSearch.label                          "සුරකින්න">
+<!ENTITY saveSearch.accesskey                      "S">
+<!ENTITY moreCriteria.label                        "+">
+<!ENTITY advancedSearch.onlybookmarked.label       "පිටු සලකුණු එක් කරන්න">
+<!ENTITY advancedSearch.match.label                "ගැලපුම ">
+<!ENTITY advancedSearch.all.label                  "සියලු">
+<!ENTITY advancedSearch.any.label                  "ඕනැම">
+<!ENTITY advancedSearch.rules.label                "පහත රීතියේ:">
+<!ENTITY advancedSearch.subj_keyword.label         "ඇතුළත් පෙළ">
+<!ENTITY advancedSearch.subj_visited.label         "පිවිසුනු">
+<!ENTITY advancedSearch.subj_location.label        "පිහිටුම">
+<!ENTITY advancedSearch.location_startswith.label  "ආරම්භ වනුයේ">
+<!ENTITY advancedSearch.location_is.label          "එය">
+<!ENTITY advancedSearch.location_onsite.label      "අඩවිය මත">
+<!ENTITY advancedSearch.time_is.label              "දා">
+<!ENTITY advancedSearch.time_before.label          "පෙර">
+<!ENTITY advancedSearch.time_after.label           "පසු">
+<!ENTITY advancedSearch.time_inlast.label          "අවසානයේ">
+<!ENTITY advancedSearch.last_days.label            "දින">
+<!ENTITY advancedSearch.last_weeks.label           "සති">
+<!ENTITY advancedSearch.last_months.label          "මාස">
+<!ENTITY advancedSearch.plus.label                 "+">
+<!ENTITY advancedSearch.minus.label                "-">
+<!ENTITY advancedSearch.groupby.label              "සමූහගත වනුයේ: ">
+<!ENTITY advancedSearch.groupby_host.label         "ධාරකය">
+<!ENTITY advancedSearch.groupby_domain.label       "කළාපය">
+<!ENTITY advancedSearch.groupby_folder.label       "බහලුම">
+<!ENTITY advancedSearch.sortby.label               "පිළිවෙළ: ">
+<!ENTITY advancedSearch.sortby_title.label         "සිරස්තලය">
+<!ENTITY advancedSearch.sortby_date.label          "දවස">
+<!ENTITY advancedSearch.sortby_visit.label         "පිවිසුම් එකතුව">
+<!ENTITY advancedSearch.sortby_url.label           "url">
+<!ENTITY advancedSearch.sortby_asc.label           "අවරෝහන පිළිවෙළ">
+<!ENTITY advancedSearch.sortby_desc.label          "ආරෝහන පිළිවෙළ">
+<!ENTITY advancedSearch.max.label                  "උපරිම ප්‍රථිඵළ: ">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY feed.subscribe.label    "පෝෂණය">
+<!ENTITY feed.subscribe.tooltip  "දායකත්වය">
+
+<!ENTITY view.detailsMacOSX.label  "ලැයිස්තුව">
+<!ENTITY view.details.label        "විස්තරය">
+<!ENTITY view.details.accesskey    "D">
+
+<!ENTITY view.addons.label   "ඇඩෝන දසුන">
+
+<!ENTITY maintenance.label      "ආයාත සහ රක්‍ෂිත">
+<!ENTITY maintenance.accesskey  "I">
+
+<!ENTITY backCmd.label       "පසුපසට">
+<!ENTITY backCmd.accesskey   "B">
+<!ENTITY backButton.tooltip  "පසුපසට යන්න">
+
+<!ENTITY forwardCmd.label       "ඉදිරියට">
+<!ENTITY forwardCmd.accesskey   "F">
+<!ENTITY forwardButton.tooltip  "ඉදිරියට යන්න">
+
+<!ENTITY detailsPane.more.label "බොහෝ">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.less.label "අඩු">
+<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.noPreviewAvailable.label "පුර්‍ව දසුන">
+<!ENTITY detailsPane.selectAnItemText.description "වත්කම් දර්ශනයට සහ සැකසීමට අයිතමයක් තෝරන්න">

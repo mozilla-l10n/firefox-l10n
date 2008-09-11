@@ -1,0 +1,77 @@
+<!ENTITY  updateWizard.title              "මෘදුකාංග යාවත්කාල කිරීම">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "යාවත්කාල කිරීම් සඳහා පරික්ෂා කිරීම">
+<!ENTITY  checking.label                  "&brandShortName; යාවත්කාල කිරීම් සඳහා පරික්ෂා කිරීම දැන් කරනු ලබයි...">
+
+<!ENTITY  cancel.label                    "එපා">
+<!ENTITY  cancel.accesskey                "C">
+
+<!ENTITY  noupdatesfound.title            "යාවත්කාල කිරීම් හමු නොවුනි">
+<!ENTITY  noupdatesfound.intro            "මෙහි යාවත්කාල කිරීම් නොමැත. &brandShortName; කලින් කල නව යාවත්කාල කිරීම් පරික්ෂා කරයි.">
+
+
+<!ENTITY  clickHere.label                 "මෙම යාවත්කාල කිරීම පිළිබද තවත් තොරතුරු දක්වන්න">
+
+<!ENTITY  incompatible.warning            "යාවත්කාල කිරීම් සම්පූර්ණවන තුරු සමහරතක් ඔබගේ දිගු සහ/හෝ තේමාවන් ක්‍රියාත්මක වීම අත්හිටුවන්න.">
+<!ENTITY  listIncompatible.label          "ලැයිස්තුව පෙන්වන්න">
+<!ENTITY  listIncompatible.accesskey      "L">
+
+<!ENTITY  upgrade.evangelism              "එය බලවත් ලෙස නිර්දේශකරනුයේ  &brandShortName; ක්ෂණිතව යාවත්කාල කිරීම් කල යුතු බවය.">
+	
+<!ENTITY  license.instructions            "ඔබ මෙම ගිවිසුමේ කොන්දේසි හා එකග වේ නම් මෙම යාවත්කාල කිරීම ස්ථාපනය සඳහා
+                                           'මම එකග වේ' මත ක්ලික් කරන්න.">
+
+<!ENTITY  license.titleText               "මෘදුකාංග බලපත්‍ර ගිවිසුම">
+<!ENTITY  license.introText               "මෙම මෘදුකාංගය භාවිතා කිරීමට සඳහා නියම සහ කොන්දේසි.">
+<!ENTITY  license.instructionText         "පහත බලපත්‍ර ගිවිසුම කියවන්න. මෙම ගිවිසුමේ ඉතිරිටික බැලීමට රෝල් තීරුව භාවිතා කරන්න.">
+<!ENTITY  license.accept                  "බලපත්‍ර ගිවිසුමහි නියම මම අනුමත කරමි">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "බලපත්‍ර ගිවිසුමහි නියම මම අනුමත නොකරමි">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  downloading.title               "යාවත්කාල කිරීම්">
+<!ENTITY  downloading.intro               "යාවත්කාල කිරීම භාගත වේ...">
+<!ENTITY  connecting.label                "යාවත්කාල කිරීම් සේවාදායකය වෙත සම්බන්ධ වෙමින් පවතී...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; හී බාගත කල වෘද්ධි යාවත්කාල කිරීම් සම්පූර්ණත්වය ස්ථීර කරගත නොහැක, 
+                                           එනිසා සම්පූර්ණ යාවත්කාල කිරීමේ පැකේජය බාගත වේ.">
+
+<!ENTITY  details.link                    "තොරතුරු">
+<!ENTITY  pause.label                     "විරාමය">
+<!ENTITY  pause.accesskey                 "e">
+<!ENTITY  close.label                     "වසන්න">
+<!ENTITY  close.accesskey                 "C">
+
+<!ENTITY  error.label                     "මෙම යාවත්කාල කිරීම බාගත කිරීමේ හෝ ස්ථාපනයේ දෝෂ පරික්ෂාව සඳහා. 
+                                           &brandShortName; යාවත්කාල කල නොහැක මන්දයත්:">
+                                           
+<!ENTITY  errorManual.label               "හස්තීයව මෙම පුරුක වෙත්න් නවතම වෙළුම බාගත කරගැනීමේන්ඔබට &brandShortName;
+                                           යාවත්කාල කිරීම් කල හැක :">
+                                           
+<!ENTITY  errorpatching.title             "යාවත්කාල කිරීම් අසාර්ථකයි">
+<!ENTITY  errorpatching.intro             "අඩ යාවත්කාල කිරීම් යෙදවිය නොහැක. 
+                                           &brandShortName; සම්පූර්ණ වෙළුම බාගත කරගැනීමෙන් පසු නැවත උත්සහ කරන්න.">
+
+<!ENTITY  finished.title                  "යාවත්කාල කිරීම් භාගත වී ඇත">
+<!ENTITY  finished.text                   "යාවත්කාල කිරීම සාර්ථක ලෙස බාගත වී හා ස්ථීර වී අවසන්, ඊලගට &brandShortName; පටන්ගැනීමේදී  
+                                           එය ස්ථාපනය වනු ඇත.">
+
+<!ENTITY  finishedBackground.title        "යාවත්කාල කිරීම් ස්ථාපනය සඳහා සූදානම්">
+<!ENTITY  finishedBackground.text         "&brandShortName; වැදගත් යාවත්කාල කිරීම් බාගත කර හා ස්ථීර කර ඇත.
+                                           වැඩි තොරතුරු සදහා පහත පුරුක මත ක්ලික් කරන්න.">
+<!ENTITY  finishedBackground.name         "යාවත්කාල කිරීම:">
+<!ENTITY  finishedBackground.more1        "දැන් යාවත්කාල කිරීම් ස්ථාපනයට නම් &brandShortName; හී යලි අරඹන්න  මත ක්ලික් කරන්න.">
+
+
+<!ENTITY  installed.title                 "යාවත්කාල කිරීම ස්ථාපිතයි">
+<!ENTITY  installed.intro                 "යාවත්කාල කිරීම සාර්ථක ලෙස ස්ථාපිතයි.">
+<!ENTITY  whatsnew.label                  "අළුත් දෑ පිළිබද කියවන්න...">
+
+<!ENTITY  update.details.label            "තොරතුරු">
+<!ENTITY  update.installedOn.label        "ස්ථාපිත දිනය:">
+<!ENTITY  update.status.label             "තත්වය:">
+<!ENTITY  finishedBackground.textNotNow   "Click Not Now to close this dialog and continue working. &brandShortName;
+                                           will install the update the next time it starts.">
+<!ENTITY  incompatibleChecking.label      "Checking if this update will cause problems with your extensions and/or themes…">

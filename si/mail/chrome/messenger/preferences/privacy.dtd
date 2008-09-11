@@ -1,0 +1,59 @@
+<!ENTITY itemGeneral.label       "සාමාන්‍ය">
+<!ENTITY itemJunk.label          "නිසරු ලිපි">
+<!ENTITY itemPhishing.label      "Email Scams">
+<!ENTITY itemPasswords.label     "රහස්පද">
+<!ENTITY itemAntiVirus.label     "වයිරස් විරෝධී">
+
+<!ENTITY disableImageInMailNews.label  "දුරස්ථ රූප ලිපි තුළට ලබා ගැනීම (loading of remote images) අවහිර කරන්න">
+<!ENTITY disableImageInMailNews.accesskey "B">
+<!ENTITY allowRemoteImagesForFriends.label  "එවන්නා මෙතුළ සිටී නම් දුරස්ථ රූප ලිපි තුළට ලබා ගැනීමට ඉඩ දෙන්න:">
+<!ENTITY allowRemoteImagesForFriends.accesskey "A">
+<!ENTITY enbJsCheckMailNews.label      "ලිපි තුළ ඇති Block JavaScript අවහිර කරන්න">
+<!ENTITY enbJsCheckMailNews.accesskey  "J">
+
+<!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "ඔබගේ පෙරනිමි නිසරු ලිපි සැකසුම් සාදන්න. ගිණුමට විශේෂිත වූ නිසරු ලිපි සැකසුම් ගිණුමේ සැකසුම් තුළ දී වින්‍යාස කළ හැකිය.">
+<!ENTITY manualMark.label "මම ලිපි නිසරු ලෙස සළකුණු කළ විටදී:">
+<!ENTITY manualMarkModeMove.label "ඒවා ගිණුමේ &quot;නිසරු ලිපි&quot; ෆෝල්ඩරයට ගෙන යන්න">
+<!ENTITY markAsReadOnSpam.label "කියවන විට නිසරු සේ හඳුනා ගැනීම සඳහා සළකුණු කරන්න">
+<!ENTITY markAsReadOnSpam.acesskey "k">
+<!ENTITY manualMarkModeDelete.label "ඒවා මකන්න">
+<!ENTITY enableJunkLogging.label "නිසරු ලිපි පෙරණය ලොග් කිරීම බලැති කරන්න">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "ලොග් සටහන පෙන්වන්න">
+<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.accesskey "D">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; can analyse messages for suspected email scams by looking for common techniques used to deceive you.">
+<!ENTITY enablePhishingDetector1.label    "Tell me if the message I'm reading is a suspected email scam">
+<!ENTITY enablePhishingDetector1.accesskey  "e">
+<!ENTITY useDownloadedList.label "Use a downloaded list of suspected email scams">
+<!ENTITY useDownloadedList.accesskey "U">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "&brandShortName; ට ඔබගේ සියළු ගිණුම් සඳහා වන රහස්පද මතක තබාගත හැකිය, එවිට ඔබට පිරුම් විස්තර නැවත ඇතුළු කිරීම අවශ්‍ය නොවේ.">
+<!ENTITY  encryptEnabled.label        "තැන්පත් කළ රහස්පද සංකේතනය කිරීම සඳහා ප්‍රධාන රහස්පදය (master password) භාවිතා කරන්න">
+<!ENTITY  encryptEnabled.accesskey    "s">
+<!ENTITY  masterPassword.intro        "සැකසූ විට, ප්‍රධාන රහස්පදය සියළු සියළු රහස්පද ආරක්ෂා කරයි - නමුත් සැසියකට එක් වරක් ඔබ එය ඇතුළු කළ යුතුමය.">
+<!ENTITY  setMasterPassword.label     "ප්‍රධාන රහස්පදය (Master Password)">
+<!ENTITY  setMasterPassword.accesskey "M">
+<!ENTITY  removeMasterPassword.label  "ප්‍රධාන රහස්පදය ඉවත් කරන්න...">
+<!ENTITY  removeMasterPassword.accesskey "R">
+<!ENTITY  editPasswords.label         "සුරැකූ රහස්පද සැකසුම් කිරීම">
+<!ENTITY  editPasswords.accesskey     "i">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; can make it easy for anti-virus software to analyse incoming mail messages for viruses before they are stored locally.">
+<!ENTITY antiVirus.label      "Allow anti-virus clients to quarantine individual incoming messages">
+<!ENTITY antiVirus.accesskey  "l">
+
+<!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
+<!ENTITY antiVirusCaption.label "වයිරස් විරෝධී">
+<!ENTITY paswords.label         "රහස්පද">
+<!ENTITY emailScams.label       "Email Scams">
+<!ENTITY junkMail.label         "නිසරු ලිපි">
+<!ENTITY itemIntrusions.label   "අයුතු ඇතුඵ වීම්">
+<!ENTITY itemIntrusionsAndPasswords.label  "අයුතු ඇතුඵ වීම් සහ මුරපද">
+<!ENTITY itemJunkMail.label     "නිසරු ලිපි">

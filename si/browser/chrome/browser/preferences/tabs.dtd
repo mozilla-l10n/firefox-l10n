@@ -1,0 +1,19 @@
+
+
+<!ENTITY newPagesIn.label             "නව පිටු විවෘත කළ යුත්තේ:">
+<!ENTITY inNewWindow.label            "නව කවුළුවක් තුළ">
+<!ENTITY inNewWindow.accesskey        "w">
+<!ENTITY inNewTab.label               "නව ටැබ් තුළ">
+<!ENTITY inNewTab.accesskey           "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "ටැබ් කිහිපයක් වසා දැමීමේදී අනතුරු අගවන්න">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label       "වැඩි ටැබ් ගණනක් විවෘත කිරීමේදී &brandShortName; වේගය අඩුවිය හැකිනම් අනතුරු අඟවන්න">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
+
+<!ENTITY showTabBar.label             "සෑම විටම ටැබ් තීරුව පෙන්වන්න">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY switchToNewTabs.label        "මම සබැඳියක් නව් ටැබයක විවෘත කිරීමේදී ක්‍ෂණිකව එයට යොමුවන්න">
+<!ENTITY switchToNewTabs.accesskey    "s">

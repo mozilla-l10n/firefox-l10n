@@ -1,0 +1,46 @@
+<!ENTITY startpage.welcome "&brandFullName; වෙත සාදරයෙන් පිළිගනිමු!">
+<!ENTITY startpage.intro "&brandFullName; ප්‍රබල විවෘත-කේත විද්‍යුත් තැපැල් හා පුවත් සේවාලාබී සෙදුමකි.">
+
+<!ENTITY startpage.features "විශේෂාංග">
+
+<!ENTITY startpage.junkControl "Adaptive Junk Mail Controls">
+<!ENTITY startpage.rssReader "RSS Reader">
+<!ENTITY startpage.globalInbox "Global Inbox Support">
+<!ENTITY startpage.searchFolders "Saved Search Folders">
+<!ENTITY startpage.messageGroups "Message Grouping">
+<!ENTITY startpage.privacyProtect "Privacy Protection">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "වැඩි විස්තර">
+
+<!ENTITY startpage.help "තණ්ඩබර්ඩ් උදව්">
+<!ENTITY startpage.helpInfo "For frequently asked questions, tips and general help, visit">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+
+<!ENTITY startpage.page "Thunderbird Product Page">
+<!ENTITY startpage.pageInfo "For product information, visit the">
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
+<!ENTITY startpage.extra '<script type="text/javascript">
+<![CDATA[
+function installDic(anchor)
+{
+    var params = { "en-GB Dictionary": anchor.getAttribute("href") };
+    InstallTrigger.install(params);
+}
+]]>
+</script>
+<h2>Spelling</h2>
+<p><a href="http://downloads.mozdev.org/dictionaries/spell-en-GB.xpi"
+  onclick="installDic(this);return false">Install</a> the British English
+  spell-checking dictionary.
+<a href="http://www.mozilla.org/products/thunderbird/dictionaries.html">Details
+  and other languages</a>.</p>'>
+
+<!ENTITY startpage.poweredByGecko "Powered by Gecko.">

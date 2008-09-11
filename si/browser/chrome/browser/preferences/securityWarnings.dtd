@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "ආරක්‍ෂක අනතුරු ඇගවීම්">
+
+<!ENTITY security.warn_when                       "අවවාද දර්ශනය කළ යුත්තේ:">
+<!ENTITY security.warn_entering_secure.label      "මම සංකේතාංකනය කළ පිටුවක් බැලීමට සුදානම්.">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "මම අවම ලෙස සංකේතාංකනය කළ පිටුවක් බැලීමට සුදානම් .">
+<!ENTITY security.warn_entering_weak.accesskey    "g">
+<!ENTITY security.warn_leaving_secure.label       "මම සංකේතාංකනය නොකළ පිටුව වෙනුවට සංකේතාංකනය කළ පිටුවක් තැබුවෙමි.">
+<!ENTITY security.warn_leaving_secure.accesskey   "l">
+<!ENTITY security.warn_submit_insecure.label      "මා යැවු තොරතුරු සංකේතාංකනය කර නැත.">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "මම සංකේතාංකනය නොවු තොරතුරු ස්වල්ප වශයෙන් ඇති, සංකේතාංකනය කළ පිටුවක් බැලීමට සුදානම් .">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

@@ -1,0 +1,25 @@
+<!ENTITY sanitizeDialog.title         "පෞද්ගලික දත්ත පැහැදිළි කරන්න">
+
+<!ENTITY sanitizeItems.label          "පහත අයිතම දැන් පැහැදිළි කරන්න:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "සැරිසර අතීතය">
+<!ENTITY itemHistory.accesskey        "B">
+<!ENTITY itemFormSearchHistory.label  "සුරැකූ පෝරම සහ සෙවුම් අතීතය">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label          "රහස්පදය">
+<!ENTITY itemPasswords.accesskey      "P">
+<!ENTITY itemCookies.label            "කුකී">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "කැච්">
+<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemDownloads.label          "බාගත කිරීම් අතීතය">
+<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemSessions.label           "සත්‍යාපනය කළ සැසි">
+<!ENTITY itemSessions.accesskey       "S">
+
+<!ENTITY itemOfflineApps.label        "නොබැඳි වෙබ් අඩවි දත්ත">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY clearDataSettings.label      "මා විමසන විට &brandShortName; විසින් මාගේ පෞද්ගලික දත්ත මකාදමයි:">
+<!ENTITY window.width                 "30em">

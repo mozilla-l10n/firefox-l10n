@@ -1,0 +1,17 @@
+
+<!ENTITY  prefWindow.titleWin     "විකල්ප">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; අභිප්‍රේත">
+
+
+<!ENTITY  paneMain.title          "ප්‍රධාන">
+<!ENTITY  paneTabs.title          "ටැබ්">
+<!ENTITY  paneContent.title       "අන්තර්ගතය">
+<!ENTITY  panePrivacy.title       "පෞද්ගලිකත්වය">
+<!ENTITY  paneSecurity.title      "ආරක්‍ෂණය">
+<!ENTITY  paneAdvanced.title      "වැඩිමනත්">
+
+
+<!ENTITY  paneApplications.title  "යෙදුම් ">
+<!ENTITY  prefWin.styleWin2       "height: 42em; min-height: 39em;">
+<!ENTITY  prefWin.styleMac2       "height: 47em; min-height: 40em;">
+<!ENTITY  prefWin.styleGNOME2     "height: 42em; min-height: 39.5em;">

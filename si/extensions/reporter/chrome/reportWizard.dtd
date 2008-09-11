@@ -1,0 +1,58 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "බිදවැටුණු අඩවියක් පිළිබඳව දන්වන්න">
+
+<!ENTITY privacyNotice.label                        "පෞද්ගලිකත්ව ප්‍රතිපත්තිය">
+<!ENTITY reportWizardPrivacy.description            "&brandShortName; තුළ හරි හැටි ක්‍රියාත්මක නොවන හෝ  &brandShortName; විසින් වසා දැමෙන වෙබ් අඩවි පිළිබඳ ප්‍රචාරක කණ්ඩායමට දැනුම් දීමට මේ උපාංගය මගින් ඔබට ඉඩ සැලසේ. මෙය &brandShortName; භාවිත කරන්නන්ට හැකි ඉහළ ම අත්දැකීමක් ලබා දීම සඳහා ඔබට දායක විය හැකි මාර්ගයයි. ඔබෙන් එකතු කරගන්නා තොරතුරු අප යොදාගන්නේ කෙසේ දැයි දැනගැනීමට හා ඔබ සහභාගී විය යුතු දැයි තීරණය කිරීමට පහත දැක්වෙන කොටස කියවන්න.">
+<!ENTITY reportWizardMustAgree.description          "ඔබට ඉදිරියට යාම සඳහා ඉහත පෞද්ගලිකත්ව ප්‍රතිපත්තියට එකඟ විය යුතුවේ.">
+
+<!ENTITY dontShowPrivacyStatement.label             "මම ඉහත පෞද්ගලිකත්ව ප්‍රතිපත්තිය කියවා අනුමත කළෙමි.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "I">
+
+<!ENTITY reportForm.label                           "වාර්තාව සකසන්න">
+
+<!ENTITY reportForm.description                     "ඔබ හදුනාගත් ගැටළුව පිළිබඳ අපට මදක් පවසන්න:">
+<!ENTITY reportForm.url.title                       "වෙබ් අඩවියේ ලිපිනය:">
+
+<!ENTITY reportForm.behind_login.title              "වෙබ් අඩවිය රහස්පදයක් මඟින් ආරක්‍ෂිතයි"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "P">
+
+<!ENTITY reportForm.problem_type.title              "ගැටලු වර්‍ගය:">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "එකක් තෝරන්න...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "ගවේශකය සහාය නොදක්වයි">
+<!ENTITY reportForm.problem_type.item2.title        "පිවිසීමට නොහැක">
+<!ENTITY reportForm.problem_type.item3.title        "ප්ලගීනය නොපෙන්වයි">
+<!ENTITY reportForm.problem_type.item4.title        "වෙනත් අන්තර්ගතයක් නොමැත">
+<!ENTITY reportForm.problem_type.item5.title        "හැසිරීම වැරදියි">
+<!ENTITY reportForm.problem_type.item6.title        "පෙනුම වැරදියි">
+<!ENTITY reportForm.problem_type.item7.title        "වෙනත් ගැටලුවක්">
+
+<!ENTITY reportForm.describe.title                  "ගැටලුව විස්තර කරන්න:">
+<!ENTITY reportForm.describe.accesskey              "D">
+
+<!ENTITY reportForm.platform.title                  "වේදිකාව:">
+<!ENTITY reportForm.product.title                   "නිෂ්පාදනය:">
+<!ENTITY reportForm.gecko.title                     "Gecko:">
+<!ENTITY reportForm.useragent.title                 "පරිශීලක නියෝජිත:">
+<!ENTITY reportForm.language.title                  "භාෂාව:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "විද්‍යුත් ලිපිනය (වෛකල්පිත):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "පෞද්ගලිකත්ව ප්‍රතිපත්තිය">
+<!ENTITY reportForm.privacyPolicy.tooltip           "පෞද්ගලිකත්ව ප්‍රතිපත්තිය පෙන්වන්න">
+
+<!ENTITY reportResults.showDetail.title             "විස්තර දක්වන්න">
+<!ENTITY reportResults.showDetail.accesskey         "S">
+
+<!ENTITY sendReport.label                           "වාර්තාව යවමින්">
+<!ENTITY sendReport.description                     "වාර්තාව සේවාදායකයට යවමින් ...">
+
+<!ENTITY finish.label                               "වාර්තාව යවන්න">
+<!ENTITY reportForm.problem_type.item8.title        "විශේෂි ප්‍රවේශ">
+<!ENTITY reportForm.problem_type.item9.title        "මුද්‍රිත ප්‍රථිධානය වැරදියි">
+<!ENTITY reportForm.url.accesskey                   "U">

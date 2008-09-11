@@ -1,0 +1,26 @@
+<!ENTITY safeb.palm.warning.title "වෙබ් වංචාවක් ලෙස සැක කරයි">
+
+<!ENTITY safeb.palm.message.p1 "මෙම පිටුව පරිශීලකයින්ගේ පෞද්ගලික තොරතුරු හෝ මූල්‍ය තොරතුරු අනාවරණය කරගැනීමට ඔබව ප්‍රයෝගකට හසුකර ගැනීම උත්සාහ කරන අඩවියක් ලෙසට වාර්තාවී ඇත. මෙම පිටුවේදී ඕනෑම තොරතුරක් ඇතුළත් කිරීම අනන්‍යතා සොරා ගැනීමකට හෝ වෙනත් වංචාවකට හේතු විය හැක. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "තවදුරටත් කියවීමට &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "තවදුරටත් කියවීමට &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "මෙවැනි ව්‍යාජ වෙබ් phishing ආක්‍රමණ ලෙස හදුන්වන වංචාවන් තුළ ඇත, එම ව්‍යාජ වෙබ් පිටු විද්‍යුත් තැපැල් තුළ ඔබ විශ්වාස කරන මූලයක් අනුකරණය කිරීම මඟින්  තොරතුරු අනාවරණය කරගනී. ඔබට වැඩි දුරටත්  ">
+<!ENTITY safeb.palm.message.p2.linkText "&brandShortName; ඔබව phishing ආක්‍රමණයන්ගෙන් ආරක්‍ෂා කරන්නේ කෙසේද">
+<!ENTITY safeb.palm.message.p2.end " යන්න සොයා බැලිය හැක.">
+
+<!ENTITY safeb.palm.accept.label "මා මෙතනින් ඉවත් කරන්න!">
+<!ENTITY safeb.palm.accept.statustext "මගේ නිවාස පිටුවට සංචාලනය කරන්න">
+<!ENTITY safeb.palm.decline.label "මෙම අවවාදය නොසළකන්න">
+<!ENTITY safeb.palm.decline.statustext "අවවාදය වසන්න" >
+
+
+
+<!ENTITY safeb.urlbaricon.tooltip "මෙම පිටුව අනතුරුදායක විය හැක; විස්තරසඳහා ක්ලික් කරන්න.">
+<!ENTITY safeb.blocked.malware.longDesc "<p>පෞද්ගලික තොරතුරු ‍සොරකම් කිරීම, වෙනත් අයට භාදා කිරීමට ඔබගේ පරිගණකය භාවිතා කිරීමට හෝ ඔබගේ පද්ධතියට හානි කිරීමට හෝ ක්‍රමලේඛන ස්ථාපනය කිරීමට ආක්‍රමණික අඩවි උත්සාහ කරයි.</p><p>සමහරක් අක්‍රමණික අඩවිය ඔනැකමින්ම හානිකර මෘදුකංග බෙදාහරින අතර, හිමිකරුගේ අණු දැණුමකින් හෝ අවසරයකින් තොරව සිදුකරයි.</p>">
+<!ENTITY safeb.blocked.malware.shortDesc "<span id='malware_sitename'/> හි ඇති මෙම හි වෙබ් අඩවිය ආක්‍රමණික අඩවියක් ලෙස වාර්තා වී ඇති අතර ඔබගේ ආරක්‍ෂක අභිප්‍රේත අනුව අවහිර කර ඇත.">
+<!ENTITY safeb.blocked.malware.title "වාර්තාවූ ආක්‍රමණික අඩවියකි!">
+<!ENTITY safeb.blocked.phishing.longDesc "<p>ඔබ විශ්වාස කරන මූලයක් අනුකරණය කිරීම මඟින් පෞද්ගලික තොරතුරු හෝ මූල්‍ය තොරතුරු අනාවරණය කරගැනීමට ඔබව ප්‍රයෝගකට හසුකර ගැනීම සඳහා ව්‍යජා වෙබ් සැලසුම්කර ඇත.</p><p>මෙම පිටුවේදී ඕනෑම තොරතුරක් ඇතුළත් කිරීම අනන්‍යතා සොරා ගැනීමකට හෝ වෙනත් වංචාවකට හේතු විය හැක.</p>">
+<!ENTITY safeb.blocked.phishing.shortDesc "<span id='phishing_sitename'/>  හි ඇති මෙම වෙබ් අඩවිය  ව්‍යාජ අඩවියක් ලෙස වාර්තා වී ඇති අතර ඔබගේ ආරක්‍ෂක අභිප්‍රේත අනුව අවහිර කර ඇත.">
+<!ENTITY safeb.blocked.phishing.title "ව්‍යාජ වෙබ් වාර්තා කරන්න!">
+<!ENTITY safeb.palm.notforgery.label2 "මෙය ව්‍යාජ වෙබ් අඩවියක් නොවේ…">
+<!ENTITY safeb.palm.report.label "මෙම අඩවිය අවහිර කළේ ඇයි?">

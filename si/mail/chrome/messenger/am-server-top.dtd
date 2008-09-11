@@ -1,0 +1,94 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "ආරක්ෂණ සැකසුම්">
+<!ENTITY serverSettings.label "සේවාදායක සැකසුම්">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP තැපැල් සේවාදායකය">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP තැපැල් සේවාදායකය">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "පුවත් සේවාදායකය (NNTP)">
+<!ENTITY webmail.label "වෙබ්-තැපැල් ගිණුම">
+<!ENTITY serverType.label "සේවාදායක වර්ගය:">
+<!ENTITY serverName.label "සේවාදායක නම:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "පරිශීලක නම:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "විවරය:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "පෙරනිමි:">
+<!ENTITY savePassword.label "රහස් පදය සුරකින්න">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "සෑම විනාඩි  ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "වරක් අලුත් ලිපි ලබාගන්න">
+<!ENTITY isSecure.label "ආරක්ෂිත සම්බන්ධතාවය භාවිතා කරන්න. (SSL)">
+<!ENTITY isSecure.accesskey "U">
+<!ENTITY socketType.label "ආරක්ෂිත අනන්‍යතාවය භාවිතා කරන්න:">
+<!ENTITY neverSecure.label "කිසිවිටෙක එපා">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, තිබේ නම්">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "ආරක්ෂිත අනන්‍යතාවය භාවිතා කරන්න">
+<!ENTITY useSecAuth.accesskey "i">
+<!ENTITY leaveOnServer.label "සේවාදායකය තුළ ලිපි ඉතිරි කරන්න">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "ශීර්ෂයන් පමණක් ලබා ගන්න">
+<!ENTITY headersOnly.accesskey "f">
+<!ENTITY deleteByAgeFromServer.label "උපරිම වශයෙන් දින">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "">
+<!ENTITY deleteOnServer2.label "මම ලිපි මකන තුරු">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "ස්වයංක්‍රීයව අලුත් ලිපි භාගත කරන්න">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "සේවාදායක ධාරක නම">
+<!ENTITY username.label "ඔඹගේ පිරුම් නම">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "POP සේවාදායක තොරතුරු">
+<!ENTITY deleteMessagePrefix.label "මම ලිපියක් මකන විට:">
+<!ENTITY deleteMessagePrefix.accesskey "W">
+<!ENTITY modelMoveToTrash.label "එය මැකූලිපි ෆෝල්ඩරයට දමන්න">
+<!ENTITY modelMarkDeleted.label "එය මැකූ ලෙස ලකුණු කරන්න">
+<!ENTITY modelDeleteImmediately.label "එය එසැනින්ම ඉවත් කරන්න">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "පිටවීමේදී (&quot;Expunge&quot;) ලදලිපි ෆෝලඩරය හිස් කරන්න">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "පිටවීමේදී මැකූලිපි ෆෝල්ඩරය හිස් කරන්න">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "ආරම්භයේදී අලුත් ලිපි ලබාගන්න"> 
+<!ENTITY loginAtStartup.accesskey "C">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label " ">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "ට වඩා වැඩි ලිපි භාගත කිරීමට පෙර විමසන්න">
+<!ENTITY alwaysAuthenticate.label "ෙම සේවාදායකයට සම්බන්ධ වීමේදී සෑමවිටම අනන්‍යතාවය තහවුරු කරවාගන්න">
+<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY newsrcFilePath.label "newsrc ගොනුව:">
+<!ENTITY newsrcFilePath.accesskey "f">
+<!ENTITY localPath.label "සමීප ෆෝල්ඩරය:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY abbreviate.label "තැපැල් ෆෝල්ඩර කවුඵව තුළ පුවත් කණ්ඩායම් නම් පෙන්වන්න:">
+<!ENTITY abbreviateOn.label "සම්පූර්ණ නම් (නිදසුන් සඳහා, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "කෙටි නම් (නිදසුන් සඳහා, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "වැඩිමනත්...">
+<!ENTITY serverDefaultCharset.label "පෙරනිමි අකුරු කේතනයන්:">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY localFolderPicker.label "සමීප ෆෝල්ඩරය තෝරන්න">
+<!ENTITY browseFolder.label "පිරික්සන්න...">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "newsrc ගොනුව තෝරන්න">
+<!ENTITY browseNewsrc.label "පිරික්සන්න...">
+<!ENTITY browseNewsrc.accesskey "e">

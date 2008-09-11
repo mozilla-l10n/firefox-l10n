@@ -1,0 +1,8 @@
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "ලිපි">
+<!ENTITY  newMessageCmd.accesskey         "M">
+ 
+<!ENTITY  newCardCmd.label                "ලිපින පොතේ පිටුවක්...">
+<!ENTITY  newCardCmd.accesskey            "C">
+ 

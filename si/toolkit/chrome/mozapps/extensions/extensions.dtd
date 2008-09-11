@@ -1,0 +1,171 @@
+<!ENTITY addons.title                     "ඇඩෝන">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "520">
+<!ENTITY em.height                        "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY extensions.label                 "දිඟු">
+<!ENTITY themes.label                     "තේමාවන්">
+<!ENTITY locales.label                    "භාෂා">
+<!ENTITY plugins.label                    "ප්ලගින">
+<!ENTITY update.label                     "යාවත්කාල කිරීම්">
+<!ENTITY install.label                    "ස්ථාපනය">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "යාවත්කාල කිරීම් සොයන්න">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "ඔබගේ ඇඩෝන සඳහා යාවත්කාල කිරීම් සොයන්න">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "ඔබගේ තේමාවන් සඳහා යාවත්කාල කිරීම් සොයන්න">
+<!ENTITY cmd.installLocalFile.label       "ස්ථාපනය කරන්න...">
+<!ENTITY cmd.installFileAddon.tooltip     "ඇඩෝන ස්ථාපනය කරන්න">
+<!ENTITY cmd.installFileTheme.tooltip     "තේමාව ස්ථාපනය කරන්න">
+<!ENTITY cmd.installUpdatesAll.label      "යාවත්කාල කිරීම් ස්ථාපනය කරන්න">
+<!ENTITY cmd.installUpdatesAll.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll.tooltip    "තේරූ යාවත්කාල කිරීම් ස්ථාපනය කරන්න">
+<!ENTITY cmd.skip.label                   "මඟහරින්න">
+<!ENTITY cmd.skip.accesskey               "S">
+<!ENTITY cmd.skip.tooltip                 "මෙම යාවත්කාල කිරීම් මඟහරින්න">
+<!ENTITY cmd.continue.label               "පවත්වාගෙන යන්න">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.continue.tooltip             "&brandShortName; පූරණය වීම පවත්වාගෙන යන්න">
+
+<!ENTITY cmd.enableAll.label              "සියල්ල සක්‍රීය කරන්න">
+<!ENTITY cmd.enableAll.accesskey          "a">
+<!ENTITY cmd.enableAll.tooltip            "දර්ශනය වූ සියලු ඇඩෝන සක්‍රීය කරන්න">
+<!ENTITY cmd.disableAll.label             "සියල්ල අක්‍රීය කරන්න">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "දර්ශනය වූ සියලු ඇඩෝන අක්‍රීය කරන්න">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "තේමාව භාවිතා කරන්න">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName;වන තේමාවේ වෙනස්වීම්">
+<!ENTITY cmd.options.label                "විකල්ප">
+<!ENTITY cmd.options.accesskey            "O">
+<!ENTITY cmd.options.tooltip              "තේරූ දිඟු සඳහා විකල්ප සකසන්න">
+<!ENTITY cmd.optionsUnix.label            "වරණය">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "තේරූ දිඟු සඳහා විකල්ප සකසන්න">
+<!ENTITY cmd.enable.label                 "සක්‍රීය">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "&brandShortName; යළි ඇරඹුවේ නම් ඇඩෝන සක්‍රීය කරන්න">
+<!ENTITY cmd.disable.label                "අක්‍රීය">
+<!ENTITY cmd.disable.accesskey            "D">
+<!ENTITY cmd.disable.tooltip              "&brandShortName; යළි ඇරඹුවේ නම් ඇඩෝන අක්‍රීය කරන්න">
+<!ENTITY cmd.uninstall.label              "අස්ථාපනය කරන්න">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; යළි ඇරඹුවේ නම් ඇඩෝන ඉවත් කරන්න">
+<!ENTITY cmd.cancelUninstall.label        "ඉවත් කරන්න එපා">
+<!ENTITY cmd.cancelUninstall.accesskey    "C">
+<!ENTITY cmd.cancelUninstall.tooltip      "මෙම ඇඩෝන ඉවත් කරන්න එපා">
+<!ENTITY cmd.installUpdate.label          "යාවත්කාල කිරීම ස්ථාපනය කරන්න">
+<!ENTITY cmd.installUpdate.accesskey      "I">
+<!ENTITY cmd.installUpdate.tooltip        "මෙම ඇඩෝන සඳහා යාවත්කාල කිරීම ස්ථාපනය කරන්න">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "එපා">
+<!ENTITY cancel.accesskey                 "C">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "මුල් පිටුවට යන්න">
+<!ENTITY cmd.homepage.accesskey           "H">
+<!ENTITY cmd.about2.label                 "මෙම ඇඩෝන පිළිබද">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "යාවත්කාල කිරීම් සොයන්න">
+<!ENTITY cmd.checkUpdate.accesskey        "F">
+
+<!ENTITY cmd.includeUpdate.label          "යාවත්කාල කිරීම අඩංගු කරන්න">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "මෙම යාවත්කාල කිරීම අඩංගු කරන්න">
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY includeUpdate.tooltip            "යාවත්කාල කිරීම් ස්ථාපනය කරන විට මෙම ඇඩෝන ද අඩංගු කරන්න">
+
+<!-- Status Messsages -->
+<!ENTITY needsDependencies.label          "අතිරේඛ අයිතම අවෂ්‍ය වේ.">
+<!ENTITY blocklisted.label                "ඔබගේ ආරක්ෂාව සඳහා අක්‍රීය කර ඇත.">
+<!ENTITY toBeDisabled.label               "&brandShortName; යළි ඇරඹූ නිසා මෙම ඇඩෝන අක්‍රීය වනු ඇත.">
+<!ENTITY toBeEnabled.label                "&brandShortName; යළි ඇරඹූ නිසා මෙම ඇඩෝන සක්‍රීය වනු ඇත.">
+<!ENTITY toBeInstalled.label              "&brandShortName; යළි ඇරඹූ නිසා මෙම ඇඩෝන ස්ථාපනය වනු ඇත.">
+<!ENTITY toBeUninstalled.label            "&brandShortName; යළි ඇරඹූ නිසා මෙම ඇඩෝන අස්ථාපනය වනු ඇත.">
+<!ENTITY getExtensions.label              "දිගු ලබාගන්න">
+<!ENTITY getThemes.label                  "තේමාවන් ලබාගන්න">
+<!ENTITY previewNoThemeSelected.label     "තේමාව තෝරා නැත">
+<!ENTITY previewNoPreviewImage.label      "මෙම තේමාවේ පෙරහුරු පින්තූරයක් නොමැත">
+<!ENTITY moreInfo.label                   "තවත් තොරතුරු">
+
+<!ENTITY updateSuccess.label              "යාවත්කාල කිරීම සාර්ථකව සම්පූර්ණයි.">
+<!ENTITY installSuccess.label             "ස්ථාපනය කිරීම සාර්ථකව සම්පූර්ණයි.">
+<!ENTITY installSuccessRestart.label      "ස්ථාපනය කිරීම සාර්ථකව සම්පූර්ණ කිරීමට යළි අරඹන්න.">
+<!ENTITY installWaiting.label             "රැදී සිටින්න...">
+<!ENTITY installIncompatibleUpdate.label  "ගැලපුම පරික්ෂාව...">
+<!ENTITY installFinishing.label           "ස්ථාපනය වේ...">
+<!ENTITY installFailure.label             "ස්ථාපනය අසාර්ථකයි.">
+
+
+<!ENTITY addonTypeExtension.label         "දිගුව">
+<!ENTITY addonTypeTheme.label             "තේමාව">
+<!ENTITY browseAddons.label               "සියලු ඇඩෝන ගවේශනය කරන්න">
+<!ENTITY cancelSearch.button              "එපා"> 
+<!ENTITY cancelInstall.label              "එපා">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "එපා">
+<!ENTITY cancelUpgrade.accesskey          "C">
+<!ENTITY cmd.cancelInstall.label          "ස්ථාපනය අහෝසි කරන්න">
+<!ENTITY cmd.cancelInstall.accesskey      "C">
+<!ENTITY cmd.cancelInstall.tooltip        "ඇඩෝන ස්ථාපනය අහෝසි කරන්න">
+<!ENTITY cmd.cancelUpgrade.label          "යාවත්කාළීන අහෝසි කරන්න">
+<!ENTITY cmd.cancelUpgrade.accesskey      "C">
+<!ENTITY cmd.cancelUpgrade.tooltip        "මෙම ඇඩෝනය යාවත්කාළීන කිරීම අහෝසි කර්නන">
+<!ENTITY cmd.hideUpdateInfo.label         "තොරතුරු සඟවන්න">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "මෙම යාවත්කාළීන පිළිබඳ තොරතුරු සඟවන්න">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName; ට එක් කරන්න…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip   "මෙම ඇඩෝනය ලබාගෙන ස්ථාපනය කරන්න">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.restartApp2.label            "&brandShortName;">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "වෙනස්කම් යෙදවීමට &brandShortName; යළි අරඹන්න">
+<!ENTITY cmd.showUpdateInfo.label         "තොරතුරු පෙන්වන්න">
+<!ENTITY cmd.showUpdateInfo.accesskey     "S">
+<!ENTITY cmd.showUpdateInfo.tooltip       "මෙම යාවත්කාළීන පිළිබඳ බොහෝ තොරතුරු පෙවනවන්න ">
+<!ENTITY emptySearch.label                "ගැලපුණු ඇඩෝන නොමැත">
+<!ENTITY emptySearch.button               "හරි">
+<!ENTITY eula.title                       "අවසන් පරිශීලක බලපත්‍ර ගිවිසුම">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "පිළිගැනීම සහ ස්ථාපනය…">
+<!ENTITY getPlugins.label                 "ප්ලගීන ගන්න">
+<!ENTITY infoNoAddonSelected.label        "කිසිදු යාවත්කාළීනයක් තෝරා නැත">
+<!ENTITY infoNoUpdateInfo.label           "මෙම යාවත්කාළීනයේ කිසිදු අතර තොරුතුරු නැත">
+<!ENTITY infoUpdateInfoError.label        "මෙම යාවත්කාළීනය පිළිබඳ තොරතුරු පූරණයේ දෝෂයක් හට ගැනුණි">
+<!ENTITY insecureUpdate.label             "ආරක්‍ෂිත යාවත්කාළීන ලබා නොදේ.">
+<!ENTITY missingThumbnail.label           "පෙරදැක්ම නැත">
+<!ENTITY noSearchResults.label            "සියලු ප්‍රතිඵළ දැනටමත් ස්ථාපිත හෝ අස්මපූර්‍ණ වේ.">
+<!ENTITY noRecommendedResults.label       "සියලු අනුමත කිරීම් දැනටමත් ස්ථාපිත හෝ අස්මපූර්‍ණ වේ.">
+<!ENTITY progressStatus.label             "යාවත්කළීන සඳහා පරීක්‍ෂාව">
+<!ENTITY recommendedHeader.label          "අනුමත කළ">
+<!ENTITY recommendedThrobber.label        "අනුමත කළ ඇඩෝන ලබා ගැනීම">
+<!ENTITY recommendedResults.label         "සියලු අනුමත ඇඩොන බලන්න"> 
+<!ENTITY resetSearch.label                "ප්‍රතිඵළ මකන්න">
+<!ENTITY searchAddons.label               "සියලු ඇඩෝන සඳහා සොයන්න">
+<!ENTITY searchBox.label                  "සියලු ඇඩෝන සඳහා සොයන්න">
+<!ENTITY search.label                     "ඇඩෝන ගන්න">
+<!ENTITY searchFailed.button              "හරි">
+<!ENTITY searchFailed.label               "&brandShortName; හට ඇඩෝන ලබගාත නොහැකි විය">
+<!ENTITY searchResultConnecting.label     "සම්බන්ධ වෙමින්…">
+<!ENTITY searchResultInstalling.label     "ස්ථාපනය වෙමින්…">
+<!ENTITY searchResultFailed.label         "ස්ථාපනය බිදවැටින">
+<!ENTITY searchResultInstalled.label      "ස්ථාපනය නිමවිය">
+<!ENTITY searchResultHomepage.value       "තවත් දැනගන්න">
+<!ENTITY searchThrobber.label             "ඇඩෝන සඳහා සොයමින්">
+<!ENTITY toBeUpdated.label                "මෙම ඇඩෝනය &brandShortName; යළි ආරම්භ කළ විට යාවත්කාළීන වේ."> 
+<!ENTITY updateSuccessRestart.label       "යාවත්කාළීන කිරීම නිම කිරීමට යළි අරඹන්න.">
+ 
+
+
+

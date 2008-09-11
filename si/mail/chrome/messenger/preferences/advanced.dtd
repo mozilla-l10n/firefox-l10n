@@ -1,0 +1,80 @@
+<!ENTITY itemGeneral.label       "සාමාන්‍ය">
+<!ENTITY itemUpdate.label        "යාවත්කාලීන">
+<!ENTITY itemNetworking.label    "ජාල සහ ඩිස්ක ඉඩ">
+<!ENTITY itemCertificates.label  "සහතික">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "මගේ ලිපින පොතේ අඩංගු අයගේ පෙන්වන නම පමණක් ප්‍රදර්ශණය කරන්න">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+<!ENTITY markAsRead.label              "ලිපිය කියවූ සේ සළකුණු කරන තුරු තත්ත්පර කිහිපයක් ">
+<!ENTITY markAsRead.accesskey          "W">
+<!ENTITY markAsReadEnd.label           "රැදී සිටින්න">
+<!ENTITY markAsReadEnd.accesskey       "d">
+<!ENTITY showFolderColumns.label       "ෆෝල්ඩර කවුඵව තුළ විහිදුනු තීරු පෙන්වන්න">
+<!ENTITY showFolderColumns.accesskey   "l">
+<!ENTITY rememberLastMsg.label         "අවසන් වරට තේරූ ලිපිය මතක තබාගන්න">
+<!ENTITY rememberLastMsg.accesskey     "b">
+<!ENTITY reuseExp.label                "නව ලිපි විවෘත කරන්නේ:">
+<!ENTITY reuseExpRadio0.label          "නව ලිපි කවුළුවක් තුළ">
+<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio1.label          "පවතින ලිපි කවුළුවක් තුළ">
+<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY reuseExpRadio2.label          "නව ලිපි තීරයක් තුළ">
+<!ENTITY reuseExpRadio2.accesskey      "Z">
+<!ENTITY connectionTimeout.label       "සම්බන්ධතාවය කාළය ඉක්මවීය: ">
+<!ENTITY connectionTimeout.accesskey   "C">
+<!ENTITY connectionSeconds.label       "තත්ත්පර">
+<!ENTITY configEditDesc.label          "වැඩිමනත් වින්‍යාස කිරීම්">
+<!ENTITY configEdit.label              "වින්‍යාස සකසනය...">
+<!ENTITY configEdit.accesskey          "g">
+<!ENTITY returnReceiptsInfo.label      "&brandShortName; ලදුපත් හසුරුවන ආකාරය නිර්ණය කිරීම">
+<!ENTITY showReturnReceipts.label      "ලදුපත්...">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "යාවත්කාලීන කිරීම් සඳහා ස්වයංක්‍රීයව පරීක්ෂා කරන්න:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "h">
+<!ENTITY enableAddonsUpdate.label       "ස්ථාපනය කළ එක්-කිරීම්">
+<!ENTITY enableAddonsUpdate.accesskey   "t">
+<!ENTITY checkNow.label                 "දැන් පරීක්ෂා කරන්න...">
+<!ENTITY whenUpdatesFound.label         "&brandShortName; සඳහා යාවත්කාලීන කිරීම් හමු වූ විට,">
+<!ENTITY modeAskMe.label                "මට කිරීමට අවශ්‍ය කුමක්ද යන්න විමසන්න">
+<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAutomatic.label            "ස්වයංක්‍රීයව භාගත කර ස්ථාපනය කරන්න">
+<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutoAddonWarn.label        "මෙය මගේ කිසියම් එක්-කිරීමක් අබල කරන්නේ නම් අනතුරු අඟවන්න">
+<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY showUpdates.label              "යාවත්කාලීන ඉතිහාසය පෙන්වන්න">
+<!ENTITY showUpdates.accesskey          "y">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showConnections.label         "සම්බන්ධතාවය...">
+<!ENTITY showConnections.accesskey     "n">
+<!ENTITY proxiesInfo.label             "&brandShortName; අන්තර්ජාලයට සම්බන්ධ වන්නේ කෙසේදැයි නිර්ණය කරන්න.">
+<!ENTITY connectionsInfo.caption       "සම්බන්ධතාවය">
+<!ENTITY offlineInfo.caption           "අසම්බන්ධිත">
+<!ENTITY offlineInfo.label             "අසම්බන්ධිත සැකසුම් වින්‍යාස කරන්න">
+<!ENTITY showOffline.label             "අසම්බන්ධිත...">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace "ඩිස්ක ඉඩ">
+<!ENTITY offlineCompact.label "මෙම ඉඩට වඩා ඉතිරි කරන්නේ නම් ෆෝල්ඩර සංයුක්ත කරන්න">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "kB">
+
+<!-- Certificates -->
+<!ENTITY certificatesInfo.label         "සහතික කළමනාකරණය, අවලංගු කිරීම් ලැයිස්තු, සහතික තහවුරු කිරීම සහ ආරක්ෂක ආම්පන්න.">
+<!ENTITY viewCertificates.label         "සහතික පෙන්වන්න">
+<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCRLs.label                 "අවලංගු කිරීම් ලැයිස්තු">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewOCSP.label                 "තහවුරු කිරීම">
+<!ENTITY viewOCSP.accesskey             "f">
+<!ENTITY viewSecurityDevices.label      "ආරක්ෂක ආම්පන්න">
+<!ENTITY viewSecurityDevices.accesskey  "u">

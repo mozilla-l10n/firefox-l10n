@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "ඩිස්කයේ ඉඩ ඉතිරි කර ගැනීම සඳහා භාගත නොකරන්න:">
+<!ENTITY doNotDownload.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීමට, අසම්බන්ධිතව භාවාතා කිරීම සඳහා භාගත නොකරන්න:">
+<!ENTITY offlineNewFolder.label "මම නව ෆෝල්ඩර සාදන විට,ඒවා අසම්බන්ධිතව ක්‍රියාකිරීම සඳහා තෝරන්න">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "kB ට වඩා විශාල ලිපි">
+<!ENTITY days.label "දින">
+<!ENTITY daysOld.label "ට වඩා පැරණි">
+<!ENTITY message.label "ලිපි">
+<!ENTITY nntpNotDownloadRead.label "ලිපි කියවීම">
+<!ENTITY nntpNotDownloadRead.accesskey "R">
+<!ENTITY nntpDownloadMsg.label "ට වඩා වැඩි ලිපි මකන්න">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "ඩිස්කයේ ඉඩ ලබා ගැනීම සඳහා, පැරණි ලිපි සම්පූර්ණයෙන්ම මකා දැමිය හැකිය">
+<!ENTITY retentionKeepMsg.label "දින ">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "කිසිඳු ලිපියක් නොමකන්න">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepNew.label "මෙම අවසාන ලිපි ගණන හැර සියල්ල මකන්න ">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "කියවූ ලිපි සෑමවිටම මකන්න">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "ලිපියේ බඳ (ට වඩා) කුඩා">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "අසම්බන්ධිතව භාවාතා කිරීම සඳහා පුවත්සමූහ තෝරන්න...">
+<!ENTITY offlineSelectImap.label "අසම්බන්ධිතව ක්‍රියාකිරීම සඳහා ෆෝල්ඩර තෝරන්න...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "ඔබට ඔබගේ ලිපි සමීපව (locally) භාගත කළ හැකිය. එවිට ඔබ අසම්බන්ධිතව ක්‍රියාත්මක වන විට ඒවා ඔබ සඳහා පවතී.">
+<!ENTITY makeInboxMsgsAvailable.label "ලදලිපි ෆෝල්ඩරය් ඇති ලිපි අසම්බන්ධිතව ක්‍රියාත්මක වන විටද ප්‍රයොජනයට ගත හැකි සේ තබන්න">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "අසම්බන්ධිතව ක්‍රියා කරන්න">
+<!ENTITY diskspaceGroupTitle.label "ඩිස්ක ධාරිතාව">

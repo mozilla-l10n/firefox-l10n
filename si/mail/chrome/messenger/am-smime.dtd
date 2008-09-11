@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "ආරක්ෂාව">
+<!ENTITY securityHeading.label "ඩිජිටල් අත්සන සහිත ලිපි හෝ සංකේතනය කළ ලිපි ලැබීමට හා යැවීමට ඩිජිටල් අත්සන් සහතිකය හා සංකේතන සහතිකය අවශ්‍යය.">
+<!ENTITY encryptionGroupTitle.label "සංකේතන">
+<!ENTITY encryptionChoiceLabel.label "ලිපි යැවීමේදී පෙරනිමි සංකේතන සැකසීම:">
+<!ENTITY neverEncrypt.label "කිසිවිටෙක එපා (සංකේතන භාවිතා නොකරන්න)">
+<!ENTITY alwaysEncryptMessage.label "අවශ්‍යයි (සියළු ලබන්නන් සතුව සහතික නොමැතිනම් ලිපිය යැවිය නොහැකිය)">
+<!ENTITY encryptionCert.message "ඔබ වෙත එවන ලිපි සංකේතනය සහ විසංකේතනය කිරීමට මෙම සහතිකය භාවිතා කරන්න:">
+<!ENTITY encryptionCert.notselected "සහතික සකසා නැත">
+<!ENTITY certificate.button "තෝරන්න...">
+<!ENTITY certificate_clear.button "හිස් කරන්න">
+<!ENTITY signingGroupTitle.label "ඩිජිටල් අත්සන">
+<!ENTITY signMessage.label "ලිපි මත ඩිජිටල් අත්සන යොදන්න(පෙරනිමි සැකසුම)">
+<!ENTITY signingCert.message "යන ලිපි වලට ඩිජිටල් අත්සන සෙදීම සඳහා මෙම සහතිකය යොදා ගන්න:">
+<!ENTITY signingCert.notselected "සහතික සකස් කර නැත">
+
+<!ENTITY certificates.label     "සහතික">
+<!ENTITY managecerts.label      "සහතික පෙන්වන්න">
+<!ENTITY managecerts.accesskey  "V">
+<!ENTITY managedevices.label    "ආරක්ෂක උපාංග">
+<!ENTITY managedevices.accesskey "S">

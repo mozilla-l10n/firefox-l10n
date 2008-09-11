@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "පිටපත් සහ ෆෝල්ඩර">
+<!ENTITY sendingPrefix.label "ලිපි යවන විටදී, ස්වයංක්‍රීයව:: ">
+<!ENTITY fccMailFolder.label "මෙතුළ පිටපත් තබන්න:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "ෆෝල්ඩරය තෝරන්න...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "මෙම ලිපිනයන්ට රහස්‍ය පිටපත් යවන්න:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "විශේෂ ෆෝල්ඩර">
+<!ENTITY draftMailFolder.label "ලිපි කෙටුම්පත් මෙතුළ තබන්න:">
+<!ENTITY templateMailFolder.label "ලිපි ආකෘතීන් මෙතුළ තබන්න:">
+<!ENTITY saveMessageDlg.label "ලිපි සුරකින විටදී එය තහවුරු කරවා ගන්න">
+<!ENTITY saveMessageDlg.accesskey "S">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "මෙහි &quot;යැවූලිපි&quot; ෆෝල්ඩරය තුළ:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "වෙනත්:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "මෙහි &quot;කෙටුම්පත්&quot; ෆෝල්ඩරය තුළ:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "වෙනත්:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "මෙහි &quot;ආකෘතීන්&quot; ෆෝල්ඩරය තුළ:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "වෙනත්:">
+<!ENTITY templateInOtherFolder.accesskey "r">
+<!ENTITY specialFoldersTitle.label "කෙටුම්පත් සහ ආකෘතීන්">
+<!ENTITY keepDrafts.label "ලිපි කෙටුම්පත් මෙහි තබන්න:">
+<!ENTITY keepTempltes.label "ලිපි අකෘතීන් මෙහි තබන්න:">

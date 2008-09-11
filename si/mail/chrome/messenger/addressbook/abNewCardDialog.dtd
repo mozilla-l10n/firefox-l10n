@@ -1,0 +1,89 @@
+<!-- Labels -->
+<!ENTITY chooseAddressBook.label         "මෙයට එක්කරනු: ">
+<!ENTITY chooseAddressBook.accesskey     "A">
+
+<!-- Contact Tab -->
+<!ENTITY Contact.tab                     "සබඳතාවය"> 
+<!ENTITY Name.box                        "නම"> 
+<!-- LOCALIZATION NOTE: 
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "මුල් නම"> 
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "නමේ අග කොටස"> 
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY NameField1.label               "මුල:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "අග:">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "Phonetic:">
+<!ENTITY PhoneticField2.label           "Phonetic:">
+<!ENTITY DisplayName.label              "නම පෙන්වීම:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY NickName.label                 "විකල්පනාමය:">
+<!ENTITY NickName.accesskey             "N">
+<!ENTITY Internet.box                   "අන්තර්ජාලය">
+<!ENTITY PrimaryEmail.label             "වි. තැපැල් ලිපිනය:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "අතිරේක වි. තැපැල් ලිපිනය:">
+<!ENTITY SecondEmail.accesskey          "o">
+<!ENTITY PreferMailFormat.label         "වඩා කැමති මෙලෙස හැඩගැසුම් කළ ලිපි ලැබීමට:">
+<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PlainText.label                "සාමාන්‍ය පාඨ">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "නොදනී">
+<!ENTITY ScreenName.label               "තිර නම:">
+<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY Phones.box                     "දුරකතන">
+<!ENTITY WorkPhone.label                "කාර්යාලය:">
+<!ENTITY WorkPhone.accesskey            "W">
+<!ENTITY HomePhone.label                "නිවස:">
+<!ENTITY HomePhone.accesskey            "H">
+<!ENTITY FaxNumber.label                "ෆැක්ස්:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY CellularNumber.label           "ජංගම දු.ක.:">
+<!ENTITY CellularNumber.accesskey       "M">
+
+<!-- Address Tab -->
+<!ENTITY Address.tab                    "ලිපිනය"> 
+<!ENTITY Home.box                       "නිවස"> 
+<!ENTITY HomeAddress.label              "ලිපිනය:"> 
+<!ENTITY HomeAddress2.label             ""> 
+<!ENTITY HomeCity.label                 "නගරය:"> 
+<!ENTITY HomeState.label                "රට:"> 
+<!ENTITY HomeZipCode.label              "තැපැල් සංකේතය:"> 
+<!ENTITY HomeCountry.label              "රට:">
+<!ENTITY HomeWebPage.label              "වෙබ් පිටුව:"> 
+<!ENTITY Work.box                       "කාර්යාලය"> 
+<!ENTITY JobTitle.label                 "තනතුර:"> 
+<!ENTITY Department.label               "අංශය:"> 
+<!ENTITY Company.label                  "ආයතනය:"> 
+<!ENTITY WorkAddress.label              "ලිපිනය:"> 
+<!ENTITY WorkAddress2.label             ""> 
+<!ENTITY WorkCity.label                 "නගරය:"> 
+<!ENTITY WorkState.label                "රට:"> 
+<!ENTITY WorkZipCode.label              "තැපැල් සංකේතය:"> 
+<!ENTITY WorkCountry.label              "රට:">
+<!ENTITY WorkWebPage.label              "වෙබ් පිටුව:"> 
+
+<!-- Other Tab -->
+<!ENTITY Other.tab                      "වෙනත්">
+<!ENTITY Custom1.label                  "අභිරුචි 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "අභිරුචි 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "අභිරුචි 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "අභිරුචි 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.box                      "සටහන්">

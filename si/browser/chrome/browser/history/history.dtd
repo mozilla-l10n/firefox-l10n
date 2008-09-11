@@ -1,0 +1,28 @@
+<!ENTITY find.label                "සොයන්න:">
+<!ENTITY find.accesskey            "S">
+<!ENTITY expand.label              "පුළුල් කරන්න">
+<!ENTITY expand.accesskey          "E">
+<!ENTITY collapse.label            "හකුළන්න">
+<!ENTITY collapse.accesskey        "C">
+<!ENTITY byDate.label "දිනය අනුව">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "අඩවිය අනුව ">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "පෙන්වන්න">
+<!ENTITY view.accesskey "w">
+<!ENTITY byMostVisited.label "බලන ලද වාර අනුව">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "අවසානයට බැලූ කාලය අනුව">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "දිනය සහ අඩවිය අනුව">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "විවෘත කරන්න">
+<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openInNewTab.label "නව ටැබයක විවෘත කරන්න">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "නව කවුළුවක විවෘත කරන්න">
+<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY bookmarkLink.label "මෙය පිටු සලකුණු විවෘත කරන්න...">
+<!ENTITY bookmarkLink.accesskey "B">
+<!ENTITY copyLink.label "පුරුකේ ස්ථානය පිටපත් කරන්න">
+<!ENTITY copyLink.accesskey "C">

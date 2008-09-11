@@ -1,0 +1,14 @@
+
+<!ENTITY  prefWindow.titleWin     "වරණ">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; මනාපයන්">
+<!ENTITY  prefWindow.styleWin     "width: 64em; height: 38em;">
+<!ENTITY  prefWindow.styleMac     "width: 67em;">
+<!ENTITY  prefWindow.styleUnix    "width: 62em;">
+
+<!ENTITY paneGeneral.title        "සාමාන්‍ය">
+<!ENTITY paneDisplay.title        "පෙන්වීම">
+<!ENTITY paneTags.title           "ලේබල්">
+<!ENTITY paneComposition.title    "ලිපි ලිවීම">
+<!ENTITY paneAttachments.title    "ඇමුණුම්">
+<!ENTITY panePrivacy.title        "පෞද්ගලිකත්වය">
+<!ENTITY paneAdvanced.title       "වැඩිමනත්">

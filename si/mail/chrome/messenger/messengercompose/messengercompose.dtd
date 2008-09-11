@@ -1,0 +1,282 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "සකසනය: (විෂයයක් නැත)">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label "ගොනු"> 
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newMenu.label "නව">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMessage.label "ලිපි">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY newCard.label "ලිපින පොතේ පිටුවක්...">
+<!ENTITY newCard.accesskey "C">
+<!ENTITY attachMenu.label "ඇමුණුම්">
+<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachFileCmd.label "ගොනු(ව)...">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "වෙබ් පිටුවක්...">
+<!ENTITY attachPageCmd.accesskey "W">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Personal Card (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY closeCmd.label "වසන්න">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY saveCmd.label "සුරකින්න">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveAsCmd.label "සුරකින අයුර">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsFileCmd.label "ගොනු...">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "කෙටුම්පත්">
+<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsTemplateCmd.label "ආකෘතිය">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY sendNowCmd.label "දැන් යවන්න">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "පසුව යවන්න">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "පිටු සකසීම...">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printCmd.label "මුද්‍රණය...">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY quitApplicationCmdWin.label                    "පිටවීම"> 
+<!ENTITY quitApplicationCmdWin.accesskey                "x">
+<!ENTITY quitApplicationCmd.label                       "පිටවීම"> 
+<!ENTITY quitApplicationCmd.accesskey                   "Q">
+<!ENTITY quitApplicationCmd.key "Q"> 
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "සැකසුම්"> 
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "අහෝසි">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "U"> 
+<!ENTITY redoCmd.label "යළි කරන්න">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R"> 
+<!ENTITY cutCmd.label "කපන්න">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t"> 
+<!ENTITY copyCmd.label "කොපි කරන්න">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c"> 
+<!ENTITY pasteCmd.label "අලවන්න">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY editRewrapCmd.label "Rewrap">
+<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY deleteCmd.label "මකන්න">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY selectAllCmd.label "සියල්ල තෝරන්න">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "A"> 
+<!ENTITY findCmd.label "Find and Replace...">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "නැවත සොයන්න">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "පෙර ගැලපුම සොයන්න">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v"> 
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label "දැකුම්"> 
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewToolbarsMenuNew.label "මෙවලම් තීරු"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY showComposeToolbarCmd.label "ලිපි මෙවලම් තීරුව">
+<!ENTITY showComposeToolbarCmd.accesskey "o">
+<!ENTITY showFormatToolbarCmd.label "හැඩගැසුම් මෙවලම් තීරුව">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showTaskbarCmd.label "තත්ත්ව තීරුව">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "රිසිකරණය...">
+<!ENTITY customizeToolbar.accesskey "C">
+
+<!ENTITY addressSidebar.label "සබදතා පැති තීරුව"> 
+<!ENTITY addressSidebar.accesskey "o"> 
+
+<!-- Format Menu -->
+<!ENTITY formatMenu.label "හැඩකිරීම්">
+<!ENTITY formatMenu.accesskey "o">
+
+<!-- Options Menu -->
+<!ENTITY optionsMenu.label "වරණ">
+<!ENTITY optionsMenu.accesskey "p">
+<!ENTITY checkSpellingCmd.label "අක්ෂර වින්‍යාස පරීක්ෂා කරන්න...">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key2 "VK_F7">
+<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "ඔබ ටයිප් කළ දෙයහි අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY quoteCmd.label "උපුටා දක්වන්න">
+<!ENTITY quoteCmd.accesskey "Q">
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCard.label "Personal Card (vCard) සම්බන්ධ කරන්න">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY returnReceiptMenu.label "ලදුපත්">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY outputFormatMenu.label "හැඩගැසුම්">
+<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY autoFormatCmd.label "ස්ව-හැඳුනුම">
+<!ENTITY autoFormatCmd.accesskey "A">
+<!ENTITY plainTextFormatCmd.label "සාමාන්‍ය පාඨ (Plain Text) පමණි">
+<!ENTITY plainTextFormatCmd.accesskey "P">
+<!ENTITY htmlFormatCmd.label "සරු පෙළ (HTML) පමණි">
+<!ENTITY htmlFormatCmd.accesskey "R">
+<!ENTITY bothFormatCmd.label "සරල සහ සරු (HTML) පෙළ">
+<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY priorityMenu.label "ප්‍රමුඛතාවය">
+<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.label "ප්‍රමුඛතාවය:">
+<!ENTITY lowestPriorityCmd.label "අඩුම">
+<!ENTITY lowestPriorityCmd.accesskey "L">
+<!ENTITY lowPriorityCmd.label "අඩු">
+<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY normalPriorityCmd.label "සාමාන්‍ය">
+<!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY highPriorityCmd.label "ඉහල">
+<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highestPriorityCmd.label "ඉහලම">
+<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY fileCarbonCopyCmd.label "පිටපතක් යවන්න">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "File Here">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label "මෙවලම්">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "ලිපි සහ පුවත්සමූහ">
+<!ENTITY messengerCmd.accesskey "M">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "ලිපින පොත">
+<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY accountManagerCmd.label "ගිණුමේ සැකසුම්...">
+<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmdUnix.accesskey "S">
+<!ENTITY preferencesCmd.label "වරණ...">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label       "මනාපයන්">
+<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "M">
+<!ENTITY minimizeWindow.label "හකුලන්න">
+<!ENTITY bringAllToFront.label "සියල්ල මතුපිටට ගෙන එන්න">
+<!ENTITY zoomWindow.label "විශාලනය"> 
+<!ENTITY windowMenu.label "කවළු"> 
+
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "උදව්">
+<!ENTITY helpMenu.accesskey "H"> 
+<!ENTITY releaseCmd.label "Release Notes">
+<!ENTITY releaseCmd.accesskey "R"> 
+<!ENTITY hintsAndTips.label "&brandShortName; උදව්">
+<!ENTITY hintsAndTips.accesskey "H"> 
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY aboutCmd.label "&brandShortName; පිළිබඳ">
+<!ENTITY aboutCmd.accesskey "A">
+
+<!-- Mail Toolbar -->
+<!ENTITY sendButton.label "යවන්න">
+<!ENTITY quoteButton.label "උපුටා දක්වන්න">
+<!ENTITY addressButton.label "සබදතා">
+<!ENTITY attachButton.label "ඇමුණුම්">
+<!ENTITY spellingButton.label "අක්ෂර වින්‍යාස">
+<!ENTITY saveButton.label "සුරකින්න">
+<!ENTITY throbberItem.title "සක්‍රිය දර්ශකය">
+
+<!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "මෙම ලිපිය දැන් යැවීමට"> 
+<!ENTITY sendlaterButton.tooltip "මෙම ලිපිය පසුව යැවීමට"> 
+<!ENTITY quoteButton.tooltip "පෙර ලිපිය උපුටා දැක්වීමට"> 
+<!ENTITY addressButton.tooltip "ලබන්නාගේ ලිපිනය ලිපින පොතෙන් ලබා ගැනීමට"> 
+<!ENTITY attachButton.tooltip "ඇමුණුමක් ඇතුලත් කිරීමට"> 
+<!ENTITY saveButton.tooltip "මෙම ලිපිය සුරැකීමට"> 
+<!ENTITY cutButton.tooltip              "කොටස කපා ගැනීමට">
+<!ENTITY copyButton.tooltip             "කොපි කිරීමට">
+<!ENTITY pasteButton.tooltip            "අැලවීමට">
+
+<!-- Headers -->
+<!ENTITY fromAddr.label "යවන්නා:">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY toAddr.label "ලබන්නා:"> 
+<!ENTITY ccAddr.label "පිටපත්:"> 
+<!ENTITY bccAddr.label "රහස්‍ය පිටපත්:"> 
+<!ENTITY replyAddr.label "පිළිතුරු මෙයට:"> 
+<!ENTITY newsgroupsAddr.label "පුවත්සමූහ:"> 
+<!ENTITY followupAddr.label "අනුව යන්නේ:"> 
+<!ENTITY subject.label "මාතෘකාව:">
+<!ENTITY subject.accesskey "S">
+<!ENTITY attachments.label "ඇමුණුම්:">
+<!ENTITY attachments.accesskey "c">
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!ENTITY SmileButton.tooltip "Insert a smiley face">
+<!ENTITY smiley1Cmd.label "Smiling">
+<!ENTITY smiley2Cmd.label "Frowning">
+<!ENTITY smiley3Cmd.label "Winking">
+<!ENTITY smiley4Cmd.label "Tongue-out">
+<!ENTITY smiley5Cmd.label "Laughing">
+<!ENTITY smiley6Cmd.label "Embarrassed">
+<!ENTITY smiley7Cmd.label "Undecided">
+<!ENTITY smiley8Cmd.label "Surprise">
+<!ENTITY smiley9Cmd.label "Kissing">
+<!ENTITY smiley10Cmd.label "Yelling">
+<!ENTITY smiley11Cmd.label "Cool">
+<!ENTITY smiley12Cmd.label "Money-Mouth">
+<!ENTITY smiley13Cmd.label "Foot-in-Mouth">
+<!ENTITY smiley14Cmd.label "Innocent">
+<!ENTITY smiley15Cmd.label "Crying">
+<!ENTITY smiley16Cmd.label "Lips-are-Sealed">
+
+<!-- Message Pane Context Menu -->
+<!ENTITY spellCheckNoSuggestions.label "යෝජනා නැත">
+<!ENTITY spellCheckIgnoreWord.label "වචනය නොසලකා හරින්න">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "ශබ්දකෝෂයට එකතු කරන්න">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "අහෝසි">
+<!ENTITY undo.accesskey "U">
+<!ENTITY cut.label "කපන්න">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "කොපි කරන්න">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "අලවන්න">
+<!ENTITY paste.accesskey "P">
+<!ENTITY pasteQuote.label "උපුටා දැක්වීමක් සේ අලවන්න">
+<!ENTITY pasteQuote.accesskey "Q">
+
+<!ENTITY openAttachment.label "විවෘත කරන්න">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY delete.label "මකන්න">
+<!ENTITY delete.accesskey "D">
+<!ENTITY selectAll.label "සියල්ල තෝරන්න">
+<!ENTITY selectAll.accesskey "A">
+<!ENTITY attachFile.label "ගොනු(ව) අමුණන්න...">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "වෙබ් පිටුවක් අමුණන්න...">
+<!ENTITY attachPage.accesskey "W">
+
+<!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "සබඳතා">
+
