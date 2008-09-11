@@ -87,10 +87,10 @@
 <!ENTITY viewMenu.accesskey "ת">
 <!ENTITY viewToolbarsMenuNew.label "סרגלי כלים">
 <!ENTITY viewToolbarsMenuNew.accesskey "כ">
-<!ENTITY showComposeToolbarCmd.label "סרגל כלים דואר">
-<!ENTITY showComposeToolbarCmd.accesskey "ד">
-<!ENTITY showFormatToolbarCmd.label "סרגל כלים עיצוב">
-<!ENTITY showFormatToolbarCmd.accesskey "ע">
+<!-- ### ENTITY showComposeToolbarCmd.label "סרגל כלים דואר" -->
+<!-- ### ENTITY showComposeToolbarCmd.accesskey "ד" -->
+<!-- ### ENTITY showFormatToolbarCmd.label "סרגל כלים עיצוב" -->
+<!-- ### ENTITY showFormatToolbarCmd.accesskey "ע" -->
 <!ENTITY showTaskbarCmd.label "שורת מצב">
 <!ENTITY showTaskbarCmd.accesskey "ש">
 <!ENTITY customizeToolbar.label "התאמה אישית...">
@@ -160,15 +160,15 @@
 <!ENTITY bringAllToFront.label "הבא הכל לקידמה">
 <!ENTITY zoomWindow.label "הגדל">
 <!ENTITY windowMenu.label "חלון">
-<!ENTITY helpMenu.label "עזרה">
-<!ENTITY helpMenu.accesskey "ז">
-<!ENTITY releaseCmd.label "הערות שחרור">
-<!ENTITY releaseCmd.accesskey "ה">
-<!ENTITY hintsAndTips.label "עזרה של &brandShortName;">
-<!ENTITY hintsAndTips.accesskey "ע">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "אודות &brandShortName;">
-<!ENTITY aboutCmd.accesskey "א">
+<!-- ### ENTITY helpMenu.label "עזרה" -->
+<!-- ### ENTITY helpMenu.accesskey "ז" -->
+<!-- ### ENTITY releaseCmd.label "הערות שחרור" -->
+<!-- ### ENTITY releaseCmd.accesskey "ה" -->
+<!-- ### ENTITY hintsAndTips.label "עזרה של &brandShortName;" -->
+<!-- ### ENTITY hintsAndTips.accesskey "ע" -->
+<!-- ### ENTITY hintsAndTipsMac.commandkey "?" -->
+<!-- ### ENTITY aboutCmd.label "אודות &brandShortName;" -->
+<!-- ### ENTITY aboutCmd.accesskey "א" -->
 <!ENTITY sendButton.label "שלח">
 <!ENTITY quoteButton.label "צטט">
 <!ENTITY addressButton.label "אנשי קשר">

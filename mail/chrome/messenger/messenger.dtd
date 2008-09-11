@@ -23,7 +23,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "כתבנית">
 <!ENTITY saveAsTemplateCmd.accesskey "נ">
-<!ENTITY getNewMsgCmd.label "קבל הודעות חדשות">
+<!-- ### ENTITY getNewMsgCmd.label "קבל הודעות חדשות" -->
 <!-- ### ENTITY getNewMsgCmd.accesskey "ב" -->
 <!-- ### ENTITY getNewMsgCmd.key "t" -->
 <!ENTITY getNewMsgForCmd.label "קבל הודעות חדשות עבור">
@@ -408,8 +408,8 @@
 <!-- ### ENTITY hintsAndTips.label "עזרה של &brandFullName;" -->
 <!-- ### ENTITY hintsAndTipsMac.commandkey "?" -->
 <!-- ### ENTITY hintsAndTips.accesskey "ע" -->
-<!ENTITY updateCmd.accesskey "כ">
-<!ENTITY updateCmd.label "בדוק אם ישנם עדכונים...">
+<!-- ### ENTITY updateCmd.accesskey "כ" -->
+<!-- ### ENTITY updateCmd.label "בדוק אם ישנם עדכונים..." -->
 <!-- ### ENTITY aboutCmd.label "אודות &brandFullName;" -->
 <!-- ### ENTITY aboutCmd.accesskey "א" -->
 <!ENTITY getMsgButton.label "קבל דואר">
@@ -587,8 +587,8 @@
 <!ENTITY SendMailTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "העתק כתובת דוא״ל">
 <!ENTITY CopyEmailAddress.accesskey "C">
-<!ENTITY CreateFilter.label "צור מסנן מהודעה...">
-<!ENTITY CreateFilter.accesskey "F">
+<!-- ### ENTITY CreateFilter.label "צור מסנן מהודעה..." -->
+<!-- ### ENTITY CreateFilter.accesskey "F" -->
 <!ENTITY BlockAddress.label "חסום כתובת">
 <!ENTITY BlockAddress.accesskey "A">
 <!ENTITY reportPhishingURL.label "דווח על הונאת דוא״ל">
