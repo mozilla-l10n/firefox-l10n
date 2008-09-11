@@ -81,8 +81,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningText "<p>Ez zenuke salbuespen bat gehitu beharko erabiltzen ari zaren konexioaz ez bazara guztiz fidatzen edo ez baduzu zerbitzari honen errorerik ikusteko erabiltzen.</p>
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
+<!ENTITY securityOverride.warningText "<p>Ez zenuke salbuespen bat gehitu beharko erabiltzen ari zaren konexioaz ez bazara guztiz fidatzen edo ez baduzu zerbitzari honen errorerik ikusteko erabiltzen.</p> 
+ 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/> 
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>">

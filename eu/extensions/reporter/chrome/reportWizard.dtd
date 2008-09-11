@@ -13,9 +13,9 @@
 <!ENTITY reportForm.description "Esaiguzu zerbait aurkitutako arazoaren inguruan:">
 <!ENTITY reportForm.url.title "Webgunearen URLa:">
 <!ENTITY reportForm.url.accesskey "U">
+<!-- No ":" at the end -->
 
 <!ENTITY reportForm.behind_login.title "Webgunea pasahitzez babestuta dago">
-<!-- No ":" at the end -->
 <!ENTITY reportForm.behind_login.accesskey "P">
 
 <!ENTITY reportForm.problem_type.title "Arazo Mota:">

@@ -7,9 +7,9 @@
 <!ENTITY useCursorNavigation.label "Erabili beti kurtsore teklak orriak nabigatzeko">
 <!ENTITY useCursorNavigation.accesskey "k">
 <!ENTITY searchStartTyping.label "Bilatu testua idazten hasi bezain laster">
-<!ENTITY searchStartTyping.accesskey "B">
+<!ENTITY searchStartTyping.accesskey "b">
 <!ENTITY blockAutoRefresh.label "Ohar nazazu webguneek orria birkargatu edo beste norabait birbidali nahi badute">
-<!ENTITY blockAutoRefresh.accesskey "O">
+<!ENTITY blockAutoRefresh.accesskey "o">
 
 <!ENTITY browsing.label "Nabigatzea">
 
@@ -23,7 +23,7 @@
 <!ENTITY systemDefaults.label "Sistemaren lehenespenak">
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label "Egiaztatu beti &brandShortName; lehenetsiriko nabigatzailea den abiaraztean.">
-<!ENTITY alwaysCheckDefault.accesskey "E">
+<!ENTITY alwaysCheckDefault.accesskey "e">
 <!ENTITY checkNow.label "Egiaztatu orain">
 <!ENTITY checkNow.accesskey "O">
 
@@ -57,26 +57,26 @@
 <!ENTITY enableAddonsUpdate.label "Instalatutako gehigarriak">
 <!ENTITY enableAddonsUpdate.accesskey "n">
 <!ENTITY enableSearchUpdate.label "Bilaketa-motorrak">
-<!ENTITY enableSearchUpdate.accesskey "B">
+<!ENTITY enableSearchUpdate.accesskey "b">
 <!ENTITY whenUpdatesFound.label "&brandShortName;(r)en eguneraketak topatzen direnean:">
 <!ENTITY askMe.label "Galdetu zer egin nahi dudan">
-<!ENTITY askMe.accesskey "G">
+<!ENTITY askMe.accesskey "g">
 <!ENTITY modeAutomatic.label "Deskargatu eta instalatu automatikoki eguneraketa">
 <!ENTITY modeAutomatic.accesskey "d">
 <!ENTITY modeAutoAddonWarn.label "Ohar nazazu nire gehigarriren bat ezgaitzea badakar">
 <!ENTITY modeAutoAddonWarn.accesskey "O">
 <!ENTITY updateHistory.label "Erakutsi eguneraketen historia">
-<!ENTITY updateHistory.accesskey "E">
+<!ENTITY updateHistory.accesskey "e">
 
 <!ENTITY offlineNotify.label "Ohar nazazu webgune batek datuak biltegiratu nahi baditu lineaz kanpo erabiltzeko">
 <!ENTITY offlineNotify.accesskey "O">
 <!ENTITY offlineNotifyExceptions.label "Salbuespenak…">
-<!ENTITY offlineNotifyExceptions.accesskey "S">
+<!ENTITY offlineNotifyExceptions.accesskey "s">
 
 <!ENTITY offlineAppsList.label "Hurrengo webguneek datuak dituzte instalatuta lineaz kanpo erabiltzeko:">
 <!ENTITY offlineAppsList.height "8em">
 <!ENTITY offlineAppsListRemove.label "Ezabatu...">
-<!ENTITY offlineAppsListRemove.accesskey "z">
+<!ENTITY offlineAppsListRemove.accesskey "Z">
 <!ENTITY offlineAppRemove.confirm "Ezabatu lineaz kanpo erabiltzeko datuak">
 
 <!ENTITY encryptionTab.label "Zifraketa">

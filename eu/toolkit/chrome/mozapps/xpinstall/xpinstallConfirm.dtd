@@ -2,7 +2,7 @@
 
 <!ENTITY dialog.title "Software instalazioa">
 <!ENTITY dialog.style "width: 45em">
-<!ENTITY warningMain.label "Fidatzen zaren iturburuetako softwarea bakarrik instalatu beharko zenuke.">
+<!ENTITY warningPrimary.label "Install add-ons only from authors whom you trust.">
 <!ENTITY warningSecondary.label "Software maltzurrak zure ordenagailua hondatu edo zure pribatutasuna bortxa dezake.">
 
 <!ENTITY from.label "nondik:">

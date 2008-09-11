@@ -89,7 +89,6 @@
 <!ENTITY searchItem.title "Bilatu">
 <!ENTITY throbberItem.title "Jarduera adierazlea">
 <!ENTITY bookmarksItem.title "Laster-markak">
-
 <!-- Toolbar items --> 
 
 <!ENTITY homeButton.label "Etxea">
@@ -182,7 +181,6 @@
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.emptyText "Bilatu laster-markak eta historia">
 <!ENTITY urlbar.accesskey "d">
-
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -224,6 +222,8 @@
 <!ENTITY reloadFrameCmd.accesskey "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ikusi aukeraren iturburua">
 <!ENTITY viewPartialSourceForMathMLCmd.label "Ikusi MathML iturburua">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label "Ikusi orriaren iturburua">
 <!ENTITY viewPageSourceCmd.accesskey "O">
@@ -263,7 +263,7 @@
 <!ENTITY sendLinkCmd.label "Bidali lotura...">
 <!ENTITY sendLinkCmd.accesskey "d">
 <!ENTITY saveImageCmd.label "Gorde irudia honela...">
-<!ENTITY saveImageCmd.accesskey "G">
+<!ENTITY saveImageCmd.accesskey "g">
 <!ENTITY sendImageCmd.label "Bidali irudia...">
 <!ENTITY sendImageCmd.accesskey "d">
 <!ENTITY copyLinkCmd.label "Kopiatu loturaren helbidea">
@@ -273,7 +273,7 @@
 <!ENTITY copyImageCmd.label "Kopiatu irudiaren helbidea">
 <!ENTITY copyImageCmd.accesskey "o">
 <!ENTITY copyImageContentsCmd.label "Kopiatu irudia">
-<!ENTITY copyImageContentsCmd.accesskey "K">
+<!ENTITY copyImageContentsCmd.accesskey "k">
 <!ENTITY blockImageCmd.accesskey "B">
 <!ENTITY metadataCmd.label "Propietateak">
 <!ENTITY metadataCmd.accesskey "P">
@@ -281,12 +281,12 @@
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY thisFrameMenu.label "Marko hau">
 <!ENTITY thisFrameMenu.accesskey "h">
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 <!ENTITY fullZoomEnlargeCmd.label "Gerturatu">
 <!ENTITY fullZoomEnlargeCmd.accesskey "G">
@@ -298,12 +298,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.label "Urrundu">
 <!ENTITY fullZoomReduceCmd.accesskey "U">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
 
 <!ENTITY fullZoomResetCmd.label "Berrezarri">
 <!ENTITY fullZoomResetCmd.accesskey "R">
 <!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2 "">
 
 <!ENTITY fullZoomToggleCmd.label "Testua soilik">
 <!ENTITY fullZoomToggleCmd.accesskey "T">

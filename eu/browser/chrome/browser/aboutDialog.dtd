@@ -1,7 +1,10 @@
 <!ENTITY aboutDialog.title "&brandFullName;(r)i buruz">
 <!ENTITY copyright "Kredituak">
 <!ENTITY copyright.accesskey "K">
+<!ENTITY copyrightGNOME.accesskey "r">
 <!ENTITY aboutLink "&lt; &brandFullName;(r)i buruz">
 <!ENTITY aboutLink.accesskey "b">
 <!ENTITY aboutVersion "bertsioa">
+<!ENTITY closeCmdGNOME.label "Itxi">
+<!ENTITY closeCmdGNOME.accesskey "x">
 <!ENTITY copyrightInfo "&#169;1998-2008 Contributors. All Rights Reserved. Firefox and the Firefox logos are trademarks of the Mozilla Foundation.  All rights reserved.">

@@ -10,7 +10,7 @@
 <!ENTITY previous.tooltip "Bilatu esaldiaren aurreko parekatzea">
 <!ENTITY findCloseButton.tooltip "Itxi bilaketa barra">
 <!ENTITY highlight.label "Nabarmendu">
-<!ENTITY highlight.accesskey "N">
+<!ENTITY highlight.accesskey "n">
 <!ENTITY highlight.tooltiptext "Nabarmendu esaldiaren parekatze guztiak">
 <!ENTITY caseSensitiveCheckbox.label "Bereizi maiuskula/minuskulak">
 <!ENTITY caseSensitiveCheckbox.accesskey "m">

@@ -31,7 +31,7 @@
 <!ENTITY changeMasterPassword.accesskey "A">
 
 <!ENTITY savedPasswords.label "Gordetako pasahitzak…">
-<!ENTITY savedPasswords.accesskey "p">
+<!ENTITY savedPasswords.accesskey "P">
 
 
 <!ENTITY warnings.label "Ohar-mezuak">
@@ -39,4 +39,4 @@
 <!ENTITY chooseWarnings.label "Hautatu zein ohar-mezu jaso nahi dituzun webguneak nabigatzerakoan">
 
 <!ENTITY warningSettings.label "Ezarpenak...">
-<!ENTITY warningSettings.accesskey "z">
+<!ENTITY warningSettings.accesskey "Z">

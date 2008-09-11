@@ -1,14 +1,14 @@
 <!ENTITY addons.title "Gehigarriak">
-
 <!-- Default window size for the addon manager in pixels -->
+
 <!ENTITY em.width "520">
 <!ENTITY em.height "380">
 
 <!ENTITY cmd.info.commandKey "i">
 <!ENTITY cmd.options.commandKey ",">
 <!ENTITY cmd.close.commandKey "w">
-
 <!-- View labels -->
+
 <!ENTITY search.label "Eskuratu gehigarriak">
 <!ENTITY extensions.label "Hedapenak">
 <!ENTITY themes.label "Gaiak">
@@ -16,8 +16,8 @@
 <!ENTITY plugins.label "Plugin-ak">
 <!ENTITY update.label "Eguneraketak">
 <!ENTITY install.label "Instalazioa">
-
 <!-- Command Bar items -->
+
 <!ENTITY cmd.checkUpdatesAll.label "Bilatu eguneraketak">
 <!ENTITY cmd.checkUpdatesAll.accesskey "G">
 <!ENTITY cmd.checkUpdatesAllAddon.tooltip "Gehigarrien eguneraketak bilatzen ditu">
@@ -85,7 +85,7 @@
 <!ENTITY cmd.hideUpdateInfo.tooltip "Ezkutatu eguneraketa hauei buruzko informazioa">
 <!ENTITY cmd.installSearchResult.label "Gehitu &brandShortName;(e)ra…">
 <!ENTITY cmd.installSearchResult.accesskey "G">
-<!ENTITY cmd.installSearchResult.tooltip   "Deskargatu eta instalatu gehigarri hau">
+<!ENTITY cmd.installSearchResult.tooltip "Deskargatu eta instalatu gehigarri hau">
 <!-- The selected add-on's cancel action button label -->
 <!ENTITY cancel.label "Utzi">
 <!ENTITY cancel.accesskey "U">

@@ -51,7 +51,7 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Idatzi pasahitz nagusia">
-<!ENTITY getPassword.tokenName.label "Segurtasun gailua">
+<!ENTITY getPassword.tokenName2.label "Security Device:">
 <!ENTITY getPassword.password.label "Pasahitza:">
 <!-- These should be common -->
 
@@ -82,8 +82,6 @@
 
 <!ENTITY caCertExists.title "Ziurtagiria badago">
 <!ENTITY caCertExists.message "Ziurtagiria lehendik dago.">
-<!ENTITY examineCert.label "Ikusi ziurtagiria">
-<!ENTITY examineCert.accesskey "I">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Erabiltzaile identifikazioaren eskaera">
@@ -112,6 +110,8 @@
 <!ENTITY escrowWarn.message1 "Garrantzizkoa: Autoritate ziurtagiri-emaile honek zure zifratze-gako pribatuaren babeskopia egiteko eskatu du.">
 <!ENTITY escrowWarn.benefit1 "Horrela, zifratze-gako pribaturako sarbidea galtzen baduzu, autoritate ziurtagiri-emaile honi kopia bat eskatu ahal izango diozu.">
 <!ENTITY escrowWarn.message2 "Dena den, zure zifratze-gako pribatua autoritate ziurtagiri emaileak gordeko du, eta e-posta edo dokumentu zifratuak zure baimenik gabe irakurtzeko erabil liteke.">
+<!ENTITY examineCert.label "Ikusi ziurtagiria">
+<!ENTITY examineCert.accesskey "I">
 
 <!ENTITY serverCrlNextupdate.message "Eskatu laguntza zure sistema-administratzaileari">
 <!-- Strings for the CreateCertInfo dialog  -->
@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "Babesturiko token autentifikazioa">
 <!ENTITY protectedAuth.msg "Mesedez token-ean autentifikatu. Autentifikazio metodoa token moetaren arabera aldatzen da.">
 <!ENTITY protectedAuth.tokenName.label "Token-a:">
+
+<!ENTITY certErrorDlg.title "Secure Connection Failed">
+<!ENTITY certErrorDlg.info1 "This could be a problem with the server's configuration or it could be someone trying to impersonate the server.">
+<!ENTITY certErrorDlg.info2 "If you have connected to this server successfully in the past the error may be temporary and you can try again later.">

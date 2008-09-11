@@ -27,12 +27,12 @@
 <!ENTITY searchClose.tooltip "Itxi bilaketen emaitzak">
 <!ENTITY toctab.label "Edukiak">
 <!ENTITY toctab.accesskey "E">
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
+
 
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">

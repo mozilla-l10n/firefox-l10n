@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Hau ez da web iruzurra…">
 <!ENTITY safeb.palm.report.label "Zergatik blokeatu da gune hau?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Orri hau arriskutsua izan daiteke, egin klik xehetasunetarako.">
-
 <!ENTITY safeb.blocked.malware.title "Ustezko gune erasotzailea!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Webgune hau (<span id='malware_sitename'/>) gune erasotzaile bezala salatua dago eta blokeatu egin da zure segurtasun-ezarpenetan oinarrituta.">

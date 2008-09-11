@@ -22,9 +22,6 @@
 
 <!ENTITY filter.label "Bilaketa:">
 <!ENTITY filter.accesskey "B">
-<!ENTITY clear.label "Garbitu">
-<!ENTITY clear.accesskey "r">
 
 <!ENTITY button.close.label "Itxi">
 <!ENTITY button.close.accesskey "I">
-
