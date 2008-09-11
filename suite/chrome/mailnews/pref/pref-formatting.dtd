@@ -20,6 +20,10 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
+   Gintautas Grigas <grigas@ktl.mii.lt>
+   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   Rimas Kudelis <rq@akl.lt>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -51,7 +55,7 @@
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "Raiškiojo (HTML) ir grynojo teksto laiškų sritys">
-<!ENTITY domaindesc.label             "Galima nurodyti pašto sričių pavadinimus (pvz., netscape.net), kurie yra el. pašto adresuose tų gavėjų, kurių pašto programos supranta laiškus, parašytus raiškiuoju tekstu, lygiai taip ir tokius, kurių programos gali priimti tik grynojo teksto laiškus. Kai siųsite laiškus adresatams, kurių adresas yra kurioje nors iš nurodytų sričių, pašto programa pati parinks tinkamą teksto tipą.">
+<!ENTITY domaindesc.label             "Kai siunčiate laišką adresu, esančiu vienoje žemiau išvardintų sričių, programa jį automatiškai išsiųs nurodytu formatu (raiškiuoju arba grynuoju tekstu).">
 <!ENTITY HTMLdomaintitle.label        "HTML sritys">
 <!ENTITY HTMLdomaintitle.accesskey    "H">
 <!ENTITY PlainTexttitle.label         "Grynojo teksto sritys">
@@ -63,17 +67,12 @@
 <!ENTITY DeleteHtmlDomain.accesskey   "P">
 <!ENTITY DeletePlainText.accesskey    "š">
 
-<!-- Add HTML Domain Name -->
+<!-- Add Domain Name -->
 <!ENTITY add.htmltitle                "HTML srities vardo įtraukimas">
 <!ENTITY add.htmldomain               "Srities, priimančios HTML teksto laiškus, vardas:">
-<!ENTITY add.htmldomain.accesskey     "v">
 <!ENTITY add.plaintexttitle           "Grynojo teksto srities vardo įtraukimas">
 <!ENTITY add.plaintextdomain          "Srities, priimančios grynojo teksto laiškus, vardas:">
-<!ENTITY add.plaintext.accesskey      "v">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY domainnameError.title        "Netinkamas srities vardas">
-<!ENTITY duplicationError.label       "Sities vardas „@string@“ sąraše jau yra.">
-
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Srities vardas gali būti tik viename sąsaše. Vardas „@string@“ jau įtrauktas į vieną iš sąrašų.">
+<!ENTITY invalidEntryError.label      "Srities vardas „@string@“ yra netinkamas, todėl bus praleistas. Varde privalo būti bent vienas taškas, iš abiejų pusių apsuptas simboliais.">
