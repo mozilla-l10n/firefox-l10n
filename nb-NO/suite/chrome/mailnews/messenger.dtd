@@ -422,7 +422,6 @@
 <!ENTITY markAllReadCmd.label "Alle som lest">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markAllReadCmdUnix.key "m">
 <!ENTITY markFlaggedCmd.label "Flagg">
 <!ENTITY markFlaggedCmd.accesskey "F">
 <!ENTITY markFlaggedCmd.key "i">
@@ -487,12 +486,11 @@
 <!ENTITY junkButton.label "Uønsket">
 <!ENTITY notJunkButton.label "Denne er ønsket">
 
-<!--Tooltips-->
+<!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Menylinje">
 <!ENTITY mailToolbar.tooltip "E-postverktøylinje">
 <!ENTITY locationToolbar.tooltip "Adresselinje">
 <!ENTITY advancedButton.tooltip "Avansert meldingssøk">
-<!ENTITY clearButton.tooltip "Tøm søkekriteriene og vis alle meldinger">
 <!ENTITY getMsgButton.tooltip "Hent nye meldinger">
 <!ENTITY newMsgButton.tooltip "Skriv ny melding">
 <!ENTITY replyButton.tooltip "Svar til avsender">
@@ -580,7 +578,7 @@
 <!ENTITY folderContextSettings.label "Innstillinger …">
 <!ENTITY folderContextSettings.accesskey "e">
 
-<!---SearchBar-->
+<!-- Search Bar -->
 <!-- also used by addressbook -->
 <!ENTITY SearchSubjectOrFrom.label "Emne eller avsender inneholder:">
 <!ENTITY SearchSubjectOrFrom.accesskey "n">
@@ -588,9 +586,6 @@
 <!ENTITY SearchNameOrEmail.accesskey "e">
 <!ENTITY advancedButton.label "Avansert …">
 <!ENTITY advancedButton.accesskey "A">
-
-<!ENTITY clearButton.label "Tøm">
-<!ENTITY clearButton.accesskey "T">
 
 <!ENTITY all.label "Alle">
 <!ENTITY all.accesskey "A">

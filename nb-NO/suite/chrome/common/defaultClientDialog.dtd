@@ -1,0 +1,9 @@
+<!ENTITY defaultClient.title  "Standardprogrammer">
+<!ENTITY defaultClient.intro  "Bruk &brandShortName; som standard klientprogram for:">
+
+<!ENTITY browser.label "Nettleser">
+<!ENTITY email.label "E-post">
+<!ENTITY newsgroups.label "Nyhetsgrupper">
+
+<!ENTITY checkOnStartup.label "Alltid kontroller standardprogrammer når &brandShortName; starter">
+<!ENTITY checkOnStartup.accesskey "A">

@@ -50,7 +50,8 @@
 <!ENTITY autocompleteText.label                "Ved adressering av meldinger, se etter treff i:">
 <!ENTITY directories.label                     "Katalogtjener:">
 <!ENTITY directories.accesskey                 "K">
-<!ENTITY editDirectories.label                 "Rediger kataloger ...">
+<!ENTITY directoriesNone.label                 "Ingen">
+<!ENTITY editDirectories.label                 "Rediger kataloger …">
 <!ENTITY editDirectories.accesskey             "R">
 <!ENTITY matchText.label                       "Dersom det er et treff i lokale adressebøker:">
 <!ENTITY skipDirectory.label                   "Ikke søk i katalogen">

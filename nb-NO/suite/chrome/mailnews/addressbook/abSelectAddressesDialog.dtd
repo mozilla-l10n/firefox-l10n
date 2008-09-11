@@ -55,8 +55,6 @@
 <!ENTITY lookIn.accesskey                    "S"> 
 <!ENTITY for.label                           "etter:"> 
 <!ENTITY for.accesskey                       "e"> 
-<!ENTITY clearButton.label                   "Tøm">
-<!ENTITY clearButton.accesskey               "m">
 <!ENTITY addressMessageTo.label              "Adresser melding til:"> 
 
 <!-- Tooltips items -->  

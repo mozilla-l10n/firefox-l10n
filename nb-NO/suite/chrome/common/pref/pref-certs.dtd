@@ -11,19 +11,20 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Communicator.
+   - The Original Code is mozilla.org code.
    -
    - The Initial Developer of the Original Code is
    - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 1999
+   - Portions created by the Initial Developer are Copyright (C) 2001
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Ben Goodger <ben@netscape.com> (Original Author)
+   -   Bob Lord <lord@netscape.com>
+   -   Terry Hayes <thayes@netscape.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -34,18 +35,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-  
-<!ENTITY newBookmark.title          "Nytt bokmerke">
-<!ENTITY selectFolder.title         "Velg mappe">
-<!ENTITY name.label                 "Navn:">
-<!ENTITY name.accesskey             "N">
-<!ENTITY url.label                  "Adresse:">
-<!ENTITY url.accesskey              "A">
-<!ENTITY shortcutURL.label          "Nøkkelord:">
-<!ENTITY shortcutURL.accesskey      "ø">
-<!ENTITY destination.label          "Mappe:">
-<!ENTITY destination.accesskey      "M">
-<!ENTITY newFolder.label            "Ny mappe …">
-<!ENTITY newFolder.accesskey        "e">
-<!ENTITY addGroup.label             "Lagre fanegruppe">
-<!ENTITY addGroup.accesskey         "a">
+
+<!ENTITY  resetsettings.label      "Tilbakestill innstillinger">
+<!ENTITY  resetpreferences.label   "Tilbakestill innstillinger …">
+<!ENTITY  managecerts.caption      "Behandle sertifikater">
+<!ENTITY  managecerts.text         "Bruk sertifikatbehandleren for å behandle personlige sertifikater, samt andre personers sertifikater og ustederes sertifikater.">
+<!ENTITY  managecerts.button       "Behandle sertifikater …">
+<!ENTITY  managecerts.accesskey    "e">
+<!ENTITY  managedevices.caption    "Behandle sikkerhetsenheter">
+<!ENTITY  managedevices.text       "Bruk denne knappen for å behandle sikkerhetsenheter, som bl.a. smartkort.">
+<!ENTITY  managedevices.button     "Behandle sikkerhetsenheter…">
+<!ENTITY  managedevices.accesskey  "h">
+
+<!ENTITY  ssl.label                "SSL">
+
+<!ENTITY  pref.certs.title         "Sertifikater">
+<!ENTITY  certs.label              "Sertifikater">

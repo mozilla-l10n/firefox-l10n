@@ -20,6 +20,11 @@
 <!ENTITY cookies.label "Infokapsler">
 <!ENTITY images.label "Bilder">
 <!ENTITY popups.label "Sprettoppvinduer">
+<!ENTITY passwords.label "Passord">
+<!ENTITY masterpass.label "Hovedpassord">
+<!ENTITY ssl.label "SSL">
+<!ENTITY certs.label "Sertifikater">
+<!ENTITY validation.label "Validering">
 <!ENTITY advance.label "Avansert">
 <!ENTITY down.label "Nedlasting">
 <!ENTITY cache.label "Hurtiglager">

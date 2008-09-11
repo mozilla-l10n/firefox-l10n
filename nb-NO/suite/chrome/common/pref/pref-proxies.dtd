@@ -6,6 +6,8 @@
 <!ENTITY  proxyTitle.label              "Sett opp mellomtjener for tilgang til Internett">
 <!ENTITY  directTypeRadio.label         "Direkte tilkobling">
 <!ENTITY  directTypeRadio.accesskey     "D">
+<!ENTITY  systemTypeRadio.label         "Bruk systemets mellomtjener">
+<!ENTITY  systemTypeRadio.accesskey     "s">
 <!ENTITY  manualTypeRadio.label         "Manuell konfigurasjon">
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  wpadTypeRadio.label           "Automatisk oppdag mellomtjenerinnstillinger">
@@ -17,8 +19,8 @@
 <!ENTITY  http.label                    "HTTP">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  port.label                    "Port:">
-<!ENTITY  HTTPport.accesskey            "p">
-<!ENTITY  advanced.label                "Avansert ...">
+<!ENTITY  HTTPPort.accesskey            "p">
+<!ENTITY  advanced.label                "Avansert …">
 <!ENTITY  advanced.accesskey            "v">
 <!ENTITY  noproxy.label                 "Ingen mellomtjener for:">
 <!ENTITY  noproxy.accesskey             "I">

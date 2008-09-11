@@ -8,11 +8,12 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Bruk globale LDAP-tjenerinnstillinger for denne kontoen.">
 <!ENTITY useGlobal.accesskey       "G">
-<!ENTITY editDirectories.label     "Rediger kataloger ...">
+<!ENTITY editDirectories.label     "Rediger kataloger …">
 <!ENTITY editDirectories.accesskey "K">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Bruk en annen LDAP-tjener:">
 <!ENTITY directories.accesskey     "K">
+<!ENTITY directoriesNone.label     "Ingen">
 
 <!-- am-addressing.xul -->
 

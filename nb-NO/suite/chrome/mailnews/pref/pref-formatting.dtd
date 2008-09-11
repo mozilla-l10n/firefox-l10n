@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -56,24 +57,19 @@
 <!ENTITY HTMLdomaintitle.accesskey    "M">
 <!ENTITY PlainTexttitle.label         "Tekstdomener">
 <!ENTITY PlainTexttitle.accesskey     "k">
-<!ENTITY AddButton.label              "Legg til ...">
+<!ENTITY AddButton.label              "Legg til …">
 <!ENTITY AddHtmlDomain.accesskey      "a">
 <!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteButton.label           "Slett">
 <!ENTITY DeleteHtmlDomain.accesskey   "l">
 <!ENTITY DeletePlainText.accesskey    "t">
 
-<!-- Add HTML Domain Name -->
+<!-- Add Domain Name -->
 <!ENTITY add.htmltitle                "Legg til domenenavn som støtter HTML">
 <!ENTITY add.htmldomain               "HTML domenenavn:">
-<!ENTITY add.htmldomain.accesskey     "H">
 <!ENTITY add.plaintexttitle           "Legg til et domenenavn for bare tekst">
 <!ENTITY add.plaintextdomain          "Domenenavn bare for tekst:">
-<!ENTITY add.plaintext.accesskey      "d">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY domainnameError.title        "Feil i domenenavn">
-<!ENTITY duplicationError.label       "Domenenavnet @string@ fins allerede i listen.">
-
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Et domenenavn kan ikke finnes i både HTML- og tekstlistene. Domenenavnet @string@ finnes allerede.">
+<!ENTITY invalidEntryError.label      "Domenenavnet @string@ er ugyldig og vil ignoreres. Gyldige domenenavn må inneholde minst ett '.', og tegn på hvert side av det.">

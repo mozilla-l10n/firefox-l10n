@@ -7,18 +7,23 @@
 <!ENTITY popupBlock.label               "Blokker ikke-forespurte sprettoppvinduer">
 <!ENTITY popupBlock.accesskey           "B">
 
-<!ENTITY popupExceptions.label          "Tillatte nettsted ...">
+<!ENTITY popupExceptions.label          "Tillatte nettsted …">
 <!ENTITY popupExceptions.accesskey      "T">
 
 <!ENTITY whenBlock.description          "Når et sprettoppvindu blokkeres:">
 <!ENTITY playSound.label                "Spill av en lyd:">
 <!ENTITY playSound.accesskey            "s">
+<!ENTITY systemSound.label              "Systemlyd">
+<!ENTITY systemSound.accesskey          "S">
+<!ENTITY customSound.label              "Annen lydfil">
+<!ENTITY customSound.accesskey          "C">
 
-<!ENTITY selectSound.label              "Bla gjennom ...">
+<!ENTITY selectSound.label              "Bla gjennom …">
 <!ENTITY selectSound.accesskey          "B">
 <!ENTITY previewSound.label             "Spill av">
 <!ENTITY previewSound.accesskey         "S">
 <!ENTITY selectSound.title              "Velg en sprettoppvindulyd">
+<!ENTITY selectSound.filter             "Lyder">
 
 <!ENTITY displayIcon.label              "Vis et ikon i statuslinjen til nettleseren">
 <!ENTITY displayIcon.accesskey          "V">

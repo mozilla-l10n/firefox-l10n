@@ -42,7 +42,7 @@
 <!ENTITY selectAllCmd.label					"Merk alt">  
 <!ENTITY selectAllCmd.key					"A">  
 <!ENTITY selectAllCmd.accesskey				"M"> 
-<!ENTITY preferencesCmd.label				"Innstillinger ...">
+<!ENTITY preferencesCmd.label				"Innstillinger …">
 <!ENTITY preferencesCmd.key					"E">  
 <!ENTITY preferencesCmd.accesskey			"I"> 
 <!ENTITY findTypeTextCmd.label "Finn tekst mens du skriver">
@@ -62,7 +62,7 @@
 
 <!ENTITY releaseCmd.label				"Versjonsnotat">
 <!ENTITY releaseCmd.accesskey                   "V">
-<!ENTITY updateCmd.label                        "Søk etter oppdateringer ...">
+<!ENTITY updateCmd.label                        "Søk etter oppdateringer …">
 <!ENTITY updateCmd.accesskey                    "S">
 <!ENTITY aboutCmd.label					"Om &brandShortName;">
 <!ENTITY aboutCmd.accesskey				"O">
@@ -77,8 +77,10 @@
 <!ENTITY pac.accesskey                                  "a">
 <!ENTITY wpad.label                                     "Tilkoblet (automatisk oppdaging av mellomtjener)">
 <!ENTITY wpad.accesskey                                 "u">
+<!ENTITY system.label                                   "Tilkoblet (systemets mellomtjener)">
+<!ENTITY system.accesskey                               "s">
 
-<!ENTITY proxy.label                                    "Innstillinger for mellomtjener ...">
+<!ENTITY proxy.label                                    "Innstillinger for mellomtjener …">
 <!ENTITY proxy.accesskey                                "m">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Bytt tekstretning">

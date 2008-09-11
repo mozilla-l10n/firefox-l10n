@@ -36,18 +36,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  resetsettings.label      "Tilbakestill valgene">
-<!ENTITY  resetpreferences.label   "Tilbakestill innstillingene …">
-<!ENTITY  managecerts.caption      "Behandle sertifikater">
-<!ENTITY  managecerts.text         "Dette verktøyet brukes til å behandle sertifikater som tilhører deg selv, folk du kjenner og sertifikatsautoriteter (CA).">
-<!ENTITY  managecerts.button       "Behandle sertifikater …">
-<!ENTITY  managecerts.accesskey    "B">
-<!ENTITY  managedevices.caption    "Behandle sikkerhetsenheter">
-<!ENTITY  managedevices.text       "Bruk denne knappen for å behandle sikkerhetsenhetene dine, som f.eks. Smart Card.">
-<!ENTITY  managedevices.button     "Behandle sikkerhetsenheter …">
-<!ENTITY  managedevices.accesskey  "s">
+<!ENTITY  pref.masterpass.title                  "Hovedpassord">
+<!ENTITY  managepassword.caption                 "Tidsavbrudd for hovedpassord">
+<!ENTITY  managepassword.text                    "&brandShortName; vil spørre etter hovedpassordet:">
+<!ENTITY  managepassword.askfirsttime            "Første gang det trengs">
+<!ENTITY  managepassword.askfirsttime.accesskey  "F">
+<!ENTITY  managepassword.askeverytime            "Hver gang det trengs">
+<!ENTITY  managepassword.askeverytime.accesskey  "H">
+<!ENTITY  managepassword.asktimeout              "Dersom det ikke er brukt siden">
+<!ENTITY  managepassword.asktimeout.accesskey    "D">
+<!ENTITY  managepassword.timeout.unit            "minutter eller mer">
 
-<!ENTITY  ssl.label                "SSL">
+<!ENTITY  changepassword.caption                 "Endre hovedpassord">
+<!ENTITY  changepassword.text                    "Hovedpassordet beskytter sensitiv informasjon som f.eks. nettsidepassord og sertifikater.">
+<!ENTITY  changepassword.button                  "Endre passord …">
+<!ENTITY  changepassword.accesskey               "E">
 
-<!ENTITY  pref.certs.title         "Sertifikater">
-<!ENTITY  certs.label              "Sertifikater">
+<!ENTITY  resetpassword.caption                  "Tilbakestill hovedpassord">
+<!ENTITY  resetpassword.text                     "Dersom du tilbakestiller hovedpassordet vil alle lagrede nettside- og e-postpassord, skjemadata, personlige sertifikater og private nøkler gå tapt.">
+<!ENTITY  resetpassword.button                   "Tilbakestill passord">
+<!ENTITY  resetpassword.accesskey                "T">
