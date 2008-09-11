@@ -35,12 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  pref.validation.title                   "Validering">
-
-<!ENTITY  validation.crl.caption                  "CRL">
-<!ENTITY  validation.crl.description              "Bruk CRL-handsamar for å handsame listene over oppheva sertifikat (CRL) som er lagra i sertifikat-databasen din.">
-<!ENTITY  validation.managecrls.button            "Handsame CRL-ar …">
-<!ENTITY  validation.managecrls.accesskey         "B">
 <!ENTITY  validation.crlmanager.label             "Handsame CRL-ar">
 <!ENTITY  validation.crlmanager.description       "Desse tilbakekallingslistene (CRL) er lagra i sertifikatdatabasen din:">
 <!ENTITY  validation.crlname.label                "Namn">
@@ -71,17 +65,3 @@
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Førre påfølgjande oppdateringsfeil:">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Detaljar om siste oppdateringsfeil:">
 <!ENTITY  edit.button                             "Innstillingar">
-
-<!ENTITY validation.ocsp.caption                  "OCSP">
-<!ENTITY enableOCSP.label                         "Bruk Online Certificate Status Protocol (OCSP) for å stadfeste  den noverande validiteten til sertifikata.">
-<!ENTITY enableOCSP.accesskey                     "B">
-<!ENTITY certOCSP2.label                          "Valider eit sertifikat om det spesifiserer ein OCSP-tenar">
-<!ENTITY certOCSP2.accesskey                      "V">
-<!ENTITY proxyOCSP2.label                         "Valider alle sewrtifikat som brukar følgjande OCSP-tenar:">
-<!ENTITY proxyOCSP2.accesskey                     "a">
-<!ENTITY serviceURL.label                         "Sørvis-URL:">
-<!ENTITY serviceURL.accesskey                     "S">
-<!ENTITY signingCA.label                          "Respons-signerar:">
-<!ENTITY signingCA.accesskey                      "R">
-<!ENTITY validation.requireOCSP.description       "Når eit OCSP-tenarsamband feilar, handsam sertifikatet som ugyldig">
-<!ENTITY validation.requireOCSP.accesskey         "W">
