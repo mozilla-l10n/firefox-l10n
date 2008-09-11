@@ -15,7 +15,7 @@
 <!ENTITY helpContents.label "Помош за &brandShortName;">
 <!ENTITY helpContents.accesskey "П">
 <!ENTITY helpContentsMac.label "Помош за &brandShortName;">
-<!ENTITY helpForIEUsers.label "За корисници на Internet Explorer">
+<!ENTITY helpForIEUsers.label "За корисниците на Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
