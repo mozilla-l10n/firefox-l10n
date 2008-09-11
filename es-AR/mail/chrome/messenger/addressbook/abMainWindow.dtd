@@ -67,8 +67,8 @@
 <!ENTITY deleteCmd.key "B">
 <!ENTITY deleteCmd.accesskey "B">
 <!ENTITY deleteAbCmd.label "Borrar libreta de direcciones">
-<!ENTITY deleteCardCmd.label "Eliminar tarjeta">
-<!ENTITY deleteCardsCmd.label "Borrar tarjetas selecionadas">
+<!ENTITY deleteCardCmd.label "Borrar tarjeta">
+<!ENTITY deleteCardsCmd2.label                          "Borrar tarjetas">
 <!ENTITY deleteListCmd.label "Borrar lista">
 <!ENTITY deleteListsCmd.label "Borrar listas seleccionadas">
 <!ENTITY deleteItemsCmd.label "Borrar elementos">

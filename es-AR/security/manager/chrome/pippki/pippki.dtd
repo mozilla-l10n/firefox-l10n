@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Ingrese contraseña maestra">
-<!ENTITY getPassword.tokenName.label "Dispositivo de seguridad">
+<!ENTITY getPassword.tokenName2.label "Dispositivo de seguridad:">
 <!ENTITY getPassword.password.label "Contraseña:">
 
 <!-- These should be common -->

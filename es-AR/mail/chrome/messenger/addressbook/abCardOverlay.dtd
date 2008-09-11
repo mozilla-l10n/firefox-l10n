@@ -96,7 +96,7 @@ The Initial Developer of the Original Code is
 <!ENTITY CellularNumber.accesskey "M">
 
 <!ENTITY Address.tab "Dirección">
-<!ENTITY Contact.accesskey "D">
+<!ENTITY Address.accesskey              "D">
 <!ENTITY Home.box "Casa">
 <!ENTITY HomeAddress.label "Dirección:">
 <!ENTITY HomeAddress.accesskey "d">
