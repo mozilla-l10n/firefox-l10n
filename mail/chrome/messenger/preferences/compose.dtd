@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey              "S">
 <!ENTITY downloadDictionaries.label           "Last ned fleire ordbøker">
 
-<!ENTITY useMIME.label                        "For meldingar som inneheld 8-bit-teikn, bruk \'quoted printable\' MIME-koding">
-<!ENTITY useMIME.accesskey                    "o">
 <!ENTITY warnOnSendAccelKey.label             "Stadfest når tastatursnarveg vert brukt for å sende meldingar">
 <!ENTITY warnOnSendAccelKey.accesskey         "i">
 <!ENTITY autoSave.label                       "Automatisk lagring kvart">
@@ -54,6 +52,7 @@
 <!ENTITY addressingEnable.accesskey            "A">
 <!ENTITY directories.label                     "Katalogtenar:">
 <!ENTITY directories.accesskey                 "K">
+<!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Rediger katalogar …">
 <!ENTITY editDirectories.accesskey             "E">
 <!ENTITY matchText.label                       "Om det er eit treff i lokale adressebøker:">

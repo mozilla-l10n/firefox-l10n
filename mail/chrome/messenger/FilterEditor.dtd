@@ -12,7 +12,11 @@
 <!ENTITY highPriorityCmd.label "Høg">
 <!ENTITY highestPriorityCmd.label "Høgast">
 
-<!ENTITY conditionDesc.label "For innkomande meldingar, der:">
+<!ENTITY contextDesc.label "Bruk filteret når:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Hentar e-post">
+<!ENTITY contextManual.label "Ved manuell filtrering">
+<!ENTITY contextBoth.label "Hentar e-post eller manuell filtrering">
 <!ENTITY filterActionDesc.label "Gjer følgjande med meldingane:">
 <!ENTITY filterActionDesc.accesskey "G">
 

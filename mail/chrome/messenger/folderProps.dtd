@@ -56,8 +56,8 @@
 <!ENTITY daysOld.label "dagar gamle">
 <!ENTITY message.label "meldingar">
 <!ENTITY retentionCleanup.label "For å spare diskplass kan gamle meldingar slettast permanent">
-<!ENTITY retentionKeepMsg.label "Slett meldingar meir enn">
-<!ENTITY retentionKeepMsg.accesskey "l">
+<!ENTITY retentionDeleteMsg.label "Slett meldingar eldre enn">
+<!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ikkje slett nokon meldingar">
 <!ENTITY retentionKeepAll.accesskey "I">
 <!ENTITY retentionKeepNew.label "Slett alle med unntak av dei siste">
