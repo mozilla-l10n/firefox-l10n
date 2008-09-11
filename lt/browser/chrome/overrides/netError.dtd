@@ -9,7 +9,7 @@
 <!ENTITY connectionFailure.title "Nepavyko užmegzti ryšio">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Apribota prieiga prie šio adreso">
+<!ENTITY deniedPortAccess.title "Prieiga prie šio adreso apribota">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nerastas serveris">
@@ -18,8 +18,8 @@
   <li>Patikrinkite, ar rinkdami adresą nepadarėte klaidų, pavyzdžiui,
     <strong>ww</strong>.pavyzdys.lt vietoje
     <strong>www</strong>.pavyzdys.lt</li>
-  <li>Jei nepavyksta įkelti ir kitų tinklalapių, tai patikrinkite kompiuterio ryšį su tinklu.</li>
-  <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, tai įsitikinkite, kad
+  <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li>
+  <li>Jei Jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiamasi per įgaliotąjį serverį, įsitikinkite, kad
     naršyklei „&brandShortName;“ leidžiama pasiekti žiniatinklį.</li>
 </ul>
 ">
@@ -68,7 +68,7 @@
 <!ENTITY unsafeContentType.title "Nesaugus failo tipas">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Prašome pranešti apie tai svetainės savininkams.</li>
+  <li>Prašome pranešti svetainės savininkams apie šią problemą.</li>
 </ul>
 ">
 
@@ -153,7 +153,7 @@ bandykite prisijungti iš naujo.</li>
 <!ENTITY phishingBlocked.title "Svetainė įtariama apgaule!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Bet kokių asmeninių duomenų įvedimas šiame tinklalapyje gali tapti tapatybės duomenų vagystės ar kitos apgaulės priežastimi.</p>
-<p>Tokio tipo apgavystės dažniausiai pasitaiko atakose, kuriose apgaulingi tinklalapiai ir elektroniniai laiškai pasitelkiami, siekiant sudaryti patikimo šaltinio įvaizdį.</p>
+<p>Tokio tipo apgavystės dažniausiai pasitaiko atakose, kuriose, siekiant sudaryti patikimo šaltinio įvaizdį, pasitelkiami apgaulingi tinklalapiai ir elektroniniai laiškai.</p>
 ">
 
 
