@@ -13,16 +13,16 @@
 <!ENTITY views.accesskey "П">
 <!ENTITY view.toolbar.label "Алатник">
 <!ENTITY view.toolbar.accesskey "т">
-<!ENTITY view.columns.label "Прикажи ги колоните">
+<!ENTITY view.columns.label "Прикажи колони со">
 <!ENTITY view.columns.accesskey "к">
-<!ENTITY view.sort.label "Подреди">
+<!ENTITY view.sort.label "Подреди по">
 <!ENTITY view.sort.accesskey "П">
-<!ENTITY view.unsorted.label "Неподредено">
+<!ENTITY view.unsorted.label "Ништо">
 <!ENTITY view.unsorted.accesskey "Н">
-<!ENTITY view.sortAscending.label "Подреди А > Ш">
+<!ENTITY view.sortAscending.label "А > Ш">
 <!ENTITY view.sortAscending.accesskey "А">
-<!ENTITY view.sortDescending.label "Подреди Ш > А">
-<!ENTITY view.sortDescending.accesskey "е">
+<!ENTITY view.sortDescending.label "Ш > А">
+<!ENTITY view.sortDescending.accesskey "Ш">
 <!ENTITY help.usingBookmarks.label "Употреба на обележувачи">
 <!ENTITY help.usingBookmarks.accesskey "б">
 <!ENTITY help.usingHistory.label "Употреба на историја">
