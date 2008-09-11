@@ -28,14 +28,14 @@
 <!ENTITY languagePopup.label "שפה:">
 <!ENTITY languagePopup.accessKey "ש">
 <!ENTITY downloadDictionaries.label "הורד מילונים נוספים">
-<!ENTITY useMIME.label "בהודעות המכילות תוים בני 8 סיביות, השתמש בקידוד quoted printable' MIME'">
-<!ENTITY useMIME.accesskey "מ">
+<!-- ### ENTITY useMIME.label "בהודעות המכילות תוים בני 8 סיביות, השתמש בקידוד quoted printable' MIME'" -->
+<!-- ### ENTITY useMIME.accesskey "מ" -->
 <!ENTITY warnOnSendAccelKey.label "אשר בעת שימוש בקיצורי מקלדת לשליחת הודעה">
 <!ENTITY warnOnSendAccelKey.accesskey "ב">
 <!ENTITY autoSave.label "שמור אוטומטית כל">
 <!ENTITY autoSave.accesskey "ט">
 <!ENTITY autoSaveEnd.label "דקות">
-<!ENTITY autoSaveEnd.accesskey "ד">
+<!-- ### ENTITY autoSaveEnd.accesskey "ד" -->
 <!ENTITY wrapOutMsg.label "אפשר גלישת שורות בהודעות טקסט פשוט אחרי">
 <!ENTITY wrapOutMsg.accesskey "ג">
 <!ENTITY char.label "תווים">

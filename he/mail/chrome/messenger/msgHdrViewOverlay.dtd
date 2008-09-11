@@ -15,13 +15,13 @@
 <!ENTITY originalWebsite.label "אתר:">
 <!ENTITY saveAll.label "שמור הכל..">
 <!ENTITY editMessage.label "ערוך טיוטה...">
-<!ENTITY attachmentsTree.label "נספחים:">
+<!-- ### ENTITY attachmentsTree.label "נספחים:" -->
 <!ENTITY openAttachmentCmd.label "פתח">
 <!ENTITY openAttachmentCmd.accesskey "O">
 <!ENTITY saveAsAttachmentCmd.label "שמור בשם...">
 <!ENTITY saveAsAttachmentCmd.accesskey "A">
-<!ENTITY printAttachmentCmd.label ".הדפס">
-<!ENTITY printAttachmentCmd.accesskey "P">
+<!-- ### ENTITY printAttachmentCmd.label ".הדפס" -->
+<!-- ### ENTITY printAttachmentCmd.accesskey "P" -->
 <!ENTITY detachAttachmentCmd.label "נתק ...">
 <!ENTITY deleteAttachmentCmd.label "מחק">
 <!ENTITY saveAllAttachmentsCmd.label "שמור הכל..">

@@ -4,15 +4,15 @@
 <!ENTITY itemCertificates.label "אישורים">
 <!ENTITY showCondensedAddresses.label "הצג רק שמות תצוגה לאנשים שבפנקס הכתובות שלי">
 <!ENTITY showCondensedAddresses.accesskey "צ">
-<!ENTITY markAsRead.label "המתן">
-<!ENTITY markAsRead.accesskey "מ">
-<!ENTITY markAsReadEnd.label "שניות לפני סימון הודעה כנקראה">
-<!ENTITY markAsReadEnd.accesskey "ס">
+<!-- ### ENTITY markAsRead.label "המתן" -->
+<!-- ### ENTITY markAsRead.accesskey "מ" -->
+<!-- ### ENTITY markAsReadEnd.label "שניות לפני סימון הודעה כנקראה" -->
+<!-- ### ENTITY markAsReadEnd.accesskey "ס" -->
 <!ENTITY showFolderColumns.label "הצג עמודות מורחבות בחלונית התיקיות">
 <!ENTITY showFolderColumns.accesskey "ה">
 <!ENTITY rememberLastMsg.label "זכור את ההודעה האחרונה שנבחרה">
 <!ENTITY rememberLastMsg.accesskey "כ">
-<!ENTITY reuseExp.label "פתח הודעות חדשות:">
+<!-- ### ENTITY reuseExp.label "פתח הודעות חדשות:" -->
 <!ENTITY reuseExpRadio0.label "בחלון הודעה חדש">
 <!ENTITY reuseExpRadio0.accesskey "ד">
 <!ENTITY reuseExpRadio1.label "בחלון הודעה קיים">
@@ -55,12 +55,12 @@
 <!ENTITY offlineCompact.label "דחוס תיקיות כאשר זה יחסוך יותר מאשר">
 <!ENTITY offlineCompact.accesskey "ד">
 <!ENTITY kb.label 'ק"ב'>
-<!ENTITY certificatesInfo.label "נהל אישורים, רשימות ביטולים, אימות אישורים והתקני אבטחה.">
+<!-- ### ENTITY certificatesInfo.label "נהל אישורים, רשימות ביטולים, אימות אישורים והתקני אבטחה." -->
 <!ENTITY viewCertificates.label "הצג אישורים">
 <!ENTITY viewCertificates.accesskey "צ">
 <!ENTITY viewCRLs.label "רשימות ביטולים">
 <!ENTITY viewCRLs.accesskey "ר">
-<!ENTITY viewOCSP.label "אימות">
-<!ENTITY viewOCSP.accesskey "א">
+<!-- ### ENTITY viewOCSP.label "אימות" -->
+<!-- ### ENTITY viewOCSP.accesskey "א" -->
 <!ENTITY viewSecurityDevices.label "התקני אבטחה">
 <!ENTITY viewSecurityDevices.accesskey "ה">
