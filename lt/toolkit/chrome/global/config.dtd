@@ -47,8 +47,6 @@
 
 <!ENTITY filterPrefs.label "Filtras:">
 <!ENTITY filterPrefs.accesskey "F">
-<!ENTITY showAll.label "Rodyti viską">
-<!ENTITY showAll.accesskey "v">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Parametro vardas">
