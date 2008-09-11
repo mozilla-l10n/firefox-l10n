@@ -1,0 +1,81 @@
+<!ENTITY  updateWizard.title              "Actualización de software">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "Buscando actualizacións">
+<!ENTITY  checking.label                  "&brandShortName; está a buscar actualizacións…">
+
+<!ENTITY  cancel.label                    "Cancelar">
+<!ENTITY  cancel.accesskey                "C">
+
+<!ENTITY  noupdatesfound.title            "Non se encontrou ningunha actualización">
+<!ENTITY  noupdatesfound.intro            "Non existen novas actualizacións dispoñíbeis. &brandShortName; pode buscar 
+                                           periodicamente novas actualizacións.">
+
+<!ENTITY  incompatibleChecking.label      "Verificando se esta actualización pode causar problemas con extensións e/ou temas…">
+<!ENTITY  clickHere.label                 "Ver máis información sobre esta actualización">
+
+<!ENTITY  incompatible.warning            "Esta actualización provocará que algunhas extensións e/ou temas 
+                                           deixen de funcionar até seren actualizadas(os).">
+<!ENTITY  listIncompatible.label          "Mostrar lista">
+<!ENTITY  listIncompatible.accesskey      "M">
+
+<!ENTITY  upgrade.evangelism              "Recomendamos actualizar &brandShortName; 
+                                           canto antes.">
+
+<!ENTITY  license.instructions            "Se acepta os termos do contrato, prema Acepto 
+                                           para continuar coa instalación da actualización.">
+
+<!ENTITY  license.titleText               "Contrato de licenza de software">
+<!ENTITY  license.introText               "Termos e condicións de uso deste software.">
+<!ENTITY  license.instructionText         "Lea o seguinte contrato de licenza. Utilice a barra de desprazamento para ver o resto do contrato.">
+<!ENTITY  license.accept                  "Acepto os termos do contrato de licenza">
+<!ENTITY  license.accept.accesskey        "A">
+<!ENTITY  license.decline                 "Non acepto os termos do contrato de licenza">
+<!ENTITY  license.decline.accesskey       "N">
+
+<!ENTITY  downloading.title               "Descargando a actualización">
+<!ENTITY  downloading.intro               "Descargando a actualización…">
+<!ENTITY  connecting.label                "Conectando co servidor de actualizacións…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; non conseguiu verificar a integridade da 
+                                           actualización incremental descargada, visto que está a descargar
+                                           o paquete completo da actualización.">
+
+<!ENTITY  details.link                    "Detalles">
+<!ENTITY  pause.label                     "Parar">
+<!ENTITY  pause.accesskey                 "a">
+<!ENTITY  close.label                     "Pechar">
+<!ENTITY  close.accesskey                 "P">
+
+<!ENTITY  error.label                     "Houbo problemas ao buscar, descargar ou instalar esta 
+                                           actualización. Non foi posíbel actualizar &brandShortName; porque:">
+                                           
+<!ENTITY  errorManual.label               "Pode actualizar &brandShortName; manualmente visitando esta ligazón
+                                           e descargando a última versión:">
+                                           
+<!ENTITY  errorpatching.title             "Erro na actualización">
+<!ENTITY  errorpatching.intro             "Non foi posíbel aplicar a actualización parcial. 
+                                           &brandShortName; tentará de novo descargando a actualización completa.">
+
+<!ENTITY  finished.title                  "Actualización descargada">
+<!ENTITY  finished.text                   "A actualización descargouse e verificouse correctamente. Instalarase
+                                           a próxima vez que inicie  &brandShortName;.">
+
+<!ENTITY  finishedBackground.title        "Actualización pronta para instalar">
+<!ENTITY  finishedBackground.text         "&brandShortName; descargou e verificou unha actualización importante. 
+                                           Prema a seguinte ligazón para obter máis detalles.">
+<!ENTITY  finishedBackground.name         "Actualizar:">
+<!-- LOCALIZATION NOTE (finishedBackground.more1): This string describes the button label defined by restartButton in updates.properties. -->
+<!ENTITY  finishedBackground.more1        "Prema Reiniciar &brandShortName; para instalar a actualización agora.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "Prema Agora non para pechar esta caixa de diálogo e continuar coas súas tarefas. &brandShortName;
+                                           instalará a actualización a próxima vez que inicie.">
+
+<!ENTITY  installed.title                 "Actualización instalada">
+<!ENTITY  installed.intro                 "Actualización instalada correctamente.">
+<!ENTITY  whatsnew.label                  "Obteña máis información acerca das novidades…">
+
+<!ENTITY  update.details.label            "Detalles">
+<!ENTITY  update.installedOn.label        "Instalada o:">
+<!ENTITY  update.status.label             "Estado:">

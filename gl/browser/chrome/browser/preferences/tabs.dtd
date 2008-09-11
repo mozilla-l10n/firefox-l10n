@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "As novas páxinas abriranse:">
+<!ENTITY inNewWindow.label            "nunha nova xanela">
+<!ENTITY inNewWindow.accesskey        "x">
+<!ENTITY inNewTab.label               "nun novo separador">
+<!ENTITY inNewTab.accesskey           "s">
+
+<!ENTITY warnCloseMultipleTabs.label  "Avisarme ao pechar varios separadores">
+<!ENTITY warnCloseMultipleTabs.accesskey  "v">
+
+<!ENTITY warnOpenManyTabs.label       "Avisarme cando abrir varios separadores diminúa a velocidade de &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "a">
+
+<!ENTITY showTabBar.label             "Mostrar sempre a barra de separadores">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY switchToNewTabs.label        "Mostrar en primeiro plano as ligazóns abertas nun novo separador">
+<!ENTITY switchToNewTabs.accesskey    "s">

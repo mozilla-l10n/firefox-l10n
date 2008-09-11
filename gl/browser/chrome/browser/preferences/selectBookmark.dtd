@@ -1,0 +1,5 @@
+<!ENTITY selectBookmark.title
+  "Estabelecer páxina de inicio">
+<!ENTITY selectBookmark.label
+  "Escolla un marcador como páxina de inicio. Se escolle un cartafol os marcadores que conteña abrirán en separadores.">
+

@@ -1,0 +1,15 @@
+<!ENTITY brandMotto       "Redescubra a web">
+<!ENTITY credit.thanks    "Grazas en especial a">
+
+<!ENTITY credit.thanks2       "Moitas grazas aos/ás nosos/as">
+<!ENTITY credit.contributors2 "colaboradores/as">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "">
+
+<!ENTITY credit.memory      "Na memoria de">
+<!ENTITY credit.poweredByGeckoReg "Producido por Gecko&reg;">

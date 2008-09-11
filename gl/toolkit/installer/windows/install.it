@@ -1,0 +1,147 @@
+[General]
+FONTNAME=MS Sans Serif
+FONTSIZE=8
+CHARSET=0
+;Here is a partial list CHAR_SETS
+;  ANSI_CHARSET = 0
+;  DEFAULT_CHARSET = 1
+;  SYMBOL_CHARSET = 2
+;  SHIFTJIS_CHARSET = 128
+;  GB2312_CHARSET = 134
+;  HANGEUL_CHARSET = 129
+;  CHINESEBIG5_CHARSET = 136
+;  OEM_CHARSET 255
+
+WELCOMETITLEFONTNAME=Trebuchet MS Bold
+WELCOMETITLEFONTSIZE=14
+;The title text "Welcome to Mozilla Thunderbird" is too large to fit on the screen with a 14 pt
+;font. For now, use a 12 pt font to prevent the text from getting clipped because it is too big.
+WELCOMETITLEFONTSIZE_THUNDERBIRD=12
+WELCOMETITLEFONTWEIGHT=700
+;Here is a partial list font weight
+;  FW_NORMAL = 400
+;  FW_BOLD = 700
+
+OK_=&Aceptar
+OK=Aceptar
+CANCEL=Cancelar
+CANCEL_=&Cancelar
+NEXT_=&Seguinte >
+BACK_=< &Anterior
+IGNORE_=&Ignorar
+PROXY_MESSAGE=Para configurar un servidor proxy para esta descarga, prema o botón Conexión… 
+PROXY_BUTTON=&Conexión…
+PROXYSETTINGS=Configuración proxy:
+PROXYSETTINGS_=&Configuración proxy
+SERVER=Servidor:
+PORT=Porto:
+USERID=Id de usuario:
+PASSWORD=Contrasinal:
+SELECTDIRECTORY=Seleccione un directorio
+DIRECTORIES_=&Directorios:
+DRIVES_=Unida&des:
+STATUS=Restante:
+FILE=Ficheiro:
+URL=URL:
+TO=No camiño:
+ACCEPT_=&Aceptar
+DECLINE_=&Rexeitar
+PROGRAMFOLDER_=Cartafol de &programa:
+EXISTINGFOLDERS_=Cartafoles e&xistentes:
+SETUPMESSAGE=O programa de instalación finalizou a copia de ficheiros no computador. Antes de poder utilizar  $ProductNameInternal$ reinicie Windows ou o computador. Escolla unha das seguintes opcións e prema Aceptar para finalizar a instalación.
+RESTART=Reiniciar
+YESRESTART=Si, desexo reiniciar o computador agora.
+NORESTART=Non, desexo reiniciar o computador máis tarde.
+ADDITIONALCOMPONENTS_=Compoñentes &adicionais:
+DESCRIPTION=Descrición
+TOTALDOWNLOADSIZE=Tamaño total da descarga:
+SPACEAVAILABLE=Dispoñibilidade de espazo:
+COMPONENTS_=C&ompoñentes:
+BROWSEINFO=Escolla un cartafol para instalar $ProductName$ en:
+DESTINATIONDIRECTORY=Instalar cartafol
+BROWSE_=E&xplorar…
+DOWNLOADSIZE=Tamaño da descarga: %u KB
+CURRENTSETTINGS=Configuración actual:
+INSTALLFOLDER=…na seguinte localización:
+ADDTLCOMPWRAPPER=- %s
+PRIMCOMPOTHERS=%s, e:
+PRIMCOMPNOOTHERS=%s
+INSTALL_=&Instalar
+DELETE_=&Eliminar
+CONTINUE_=&Continuar
+SKIP_=&Ignorar
+README=Lé&eme
+PAUSE_=&Pausa
+RESUME_=&Retomar
+CHECKED=Marcado
+UNCHECKED=Sen marcar
+
+EXTRACTING=Extraendo…
+
+
+[Messages]
+
+ERROR_DIALOG_CREATE=Non foi posíbel crear %s caixa de diálogo.
+ERROR_FAILED=Erro de %s.
+ERROR_FILE_NOT_FOUND=Non se encontrou o ficheiro: %s
+ERROR_GET_SYSTEM_DIRECTORY_FAILED=Erro de GetSystemDirectory().
+ERROR_GET_WINDOWS_DIRECTORY_FAILED =Erro de GetWindowsDirectory().
+DLGQUITTITLE=Saír da configuración
+DLGQUITMSG=Non finalizou a instalación de $ProductName$. Se sae agora do programa de instalación, $ProductName$ non será instalado. Ten a certeza de querer cancelar a instalación?
+DLG_REBOOT_TITLE=Reiniciando Windows
+ERROR_GETPROCADDRESS=Erro de GetProcAddress() de %s.
+ERROR_WRITEPRIVATEPROFILESTRING=Erro de WritePrivateProfileString() para o ficheiro %s
+MSG_RETRIEVE_CONFIGINI=Espere mentres o programa de instalación recupera o seu script de configuración da web… 
+ERROR_CREATE_TEMP_DIR=A instalación non foi capaz de crear o directorio TEMP: %s
+DLGBROWSETITLE=Seleccione un directorio
+ERROR_DETERMINING_DISK_SPACE=Non foi posíbel determinar o espazo dispoñíbel no disco para: %s
+DLG_DISK_SPACE_CHECK_TITLE=Verificación do espazo en disco
+DLG_DISK_SPACE_CHECK_CRUTIAL_MSG=A Instalación detectou que non hai suficiente espazo no disco para continuar coa instalación en %s para o camiño: %sRequirido: %sDispoñíbel: %sPrema Tentar de novo se agora hai máis espazo dispoñíbel no disco ou Cancelar para cancelar a Instalación.
+DLG_DISK_SPACE_CHECK_MSG=A Instalación detectou que non hai suficiente espazo no disco para continuar co proceso de instalación en %s para o camiño: %sRequirido: %sDispoñíbel: %sPrema Aceptar para volver atrás e escoller outro camiño de destino.
+ERROR_CREATE_DIRECTORY=Non foi posíbel crear o cartafol: %sAsegúrese de ter acceso para crealo.
+ERROR_MESSAGE_TITLE=Erro de instalación de $ProductNameInternal$
+STR_FILE_NUMBER=Contaxe de ficheiro:
+STR_FILENAME=Nome do ficheiro:
+MSG_SMARTUPDATE_START=Preparando a instalación, espere…
+MSG_CONFIGURING=Configurando %s, espere…
+ERROR_XPI_INSTALL=Produciuse un erro durante a instalación
+ERROR_SETUP_REQUIREMENT=$ProductName$ só se pode executar en Windows 95 ou en versións máis recentes. A instalación non  continuará. 
+DLG_EXTRACTING_TITLE=Programa de instalación de $ProductName$ - Progreso da instalación
+STR_PROCESSINGFILE=Preparando ficheiro: %s
+STR_INSTALLING=Instalando %s
+STR_COPYINGFILE=Copiando ficheiro: %s
+MB_WARNING_STR=Aviso
+MB_MESSAGE_STR=Mensaxe
+MB_ATTENTION_STR=Atención
+MSG_CREATE_DIRECTORY=O seguinte directorio non existe:%sDesexa crealo?
+STR_CREATE_DIRECTORY=Crear directorio?
+ERROR_PROGRAM_FOLDER_NAME=Introduciuse un nome de cartafol de programa non válido.
+CB_DEFAULT=Predefinido
+ERROR_DESTINATION_PATH=Introduciuse un camiño non válido.
+STR_SETUP_TYPE=Tipo de configuración:
+STR_SELECTED_COMPONENTS=Compoñentes seleccionados:
+STR_DESTINATION_DIRECTORY=Directorio de destino:
+STR_PROGRAM_FOLDER=Cartafol de programa:
+STR_DELETING_DESTINATION_DIR=Eliminando o directorio de destino para poder actualizar, espere…
+STR_SETUP=Instalación
+STR_DOWNLOAD_SITE=Sitio de descarga:
+STR_SAVE_INSTALLER_FILES=Gardar os ficheiros do programa de instalación e os descargados en:
+MSG_INIT_SETUP=Iniciando a instalación, espere…
+STR_MESSAGEBOX_TITLE=Instalación de %s
+ERROR_GETVERSION=Erro de GetVersionEx()
+DLG_USAGE_TITLE=Uso
+
+STATUS_EXTRACTING=Extraendo %s
+STATUS_LAUNCHING_SETUP=Iniciando a instalación…
+ERROR_FILE_WRITE=Non foi posíbel gardar o ficheiro %s
+TITLE=Instalación
+ERROR_OUT_OF_MEMORY=Sen memoria
+
+ERROR_DLL_LOAD=Non foi posíbel cargar  %s
+ERROR_STRING_LOAD=Non foi posíbel cargar o ID %d de recurso de cadea
+ERROR_STRING_NULL=Encontrouse un punteiro non válido.
+ERROR_GLOBALALLOC=Erro de atribución de memoria.
+MSG_FORCE_QUIT_PROCESS=O programa de instalación detectou que %s (%s) continúa en execución. Prema Aceptar para saír de %s e proceder coa instalación. Tamén pode utilizar o Xestor de tarefas de Windows para saír de %s e, a seguir, premer Aceptar para continuar coa instalación.
+MSG_FORCE_QUIT_PROCESS_FAILED=A instalación vai pecharse. Non foi posíbel finalizar porque %s (%s) continúa en execución. Tente saír manualmente de  %s utilizando o Xestor de tarefas de Windows e, a seguir, execute a instalación de novo.
+ERROR_PATH_WITHIN_WINDIR=Non é posíbel instalar $ProductName$ nun cartafol que estea dentro do cartafol Windows. Escolla outro  cartafol.
+

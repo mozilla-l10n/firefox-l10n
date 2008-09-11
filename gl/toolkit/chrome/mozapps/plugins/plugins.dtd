@@ -1,0 +1,23 @@
+<!ENTITY pluginWizard.title                                  "Servizo de localizador de plugins">
+<!ENTITY pluginWizard.firstPage.title                        "Benvido(a) a &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; está a buscar plugins dispoñíbeis…">
+
+<!ENTITY pluginWizard.availablePluginsPage.title             "Descarga de plugins dispoñíbeis">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Os seguintes plugins están dispoñíbeis:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Prema Seguinte para instalar estes plugins.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Algúns plugins poden requirir que forneza información adicional durante a instalación.">
+
+<!ENTITY pluginWizard.licensePage.title                      "Licenzas dos plugins">
+<!ENTITY pluginWizard.licensePage.accept.label               "Acepto">
+<!ENTITY pluginWizard.licensePage.deny.label                 "Non acepto (o plugin non se instalará)">
+
+<!ENTITY pluginWizard.installPluginsPage.title               "Instalando plugins">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; está a instalar plugins…">
+
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; concluíu a instalación dos plugins que faltaban:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Pesquisar máis información sobre os plugins ou localizar manualmente os que faltan.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ten que reiniciar para que funcionen os plugins.">
+  
+<!ENTITY missingPlugin.label                                 "Prema aquí para descargar o plugin.">

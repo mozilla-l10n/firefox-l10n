@@ -1,0 +1,19 @@
+<!ENTITY about.version                "versión">
+
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008 por">
+<!ENTITY about.copy.linkTitle         "colaboradores(as)">
+<!ENTITY about.copy.afterLink         "para o proxecto Mozilla.">
+
+<!ENTITY about.license.beforeLink     "Lea a">
+<!ENTITY about.license.linkTitle      "información de licenza">
+<!ENTITY about.license.afterLink      "deste produto.">
+
+<!ENTITY about.relnotes.beforeLink    "Lea as">
+<!ENTITY about.relnotes.linkTitle     "notas de lanzamento">
+<!ENTITY about.relnotes.afterLink     "desta versión.">
+
+<!ENTITY about.buildconfig.beforeLink "Vexa a">
+<!ENTITY about.buildconfig.linkTitle  "configuración da compilación">
+<!ENTITY about.buildconfig.afterLink  "utilizada para esta versión.">
+
+<!ENTITY about.buildIdentifier        "Identificador da versión: ">

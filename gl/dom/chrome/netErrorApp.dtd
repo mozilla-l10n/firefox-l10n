@@ -1,0 +1,9 @@
+<!-- Error messages that are likely to be overridden by applications go in this
+     file, all messages that likely don't need to tie into app-specific UI
+     should go into netError.dtd -->
+
+<!ENTITY securityOverride.linkText "Ou pode engadir unha excepción…">
+<!ENTITY securityOverride.warningText "
+<p>Non engada unha excepción se está a utilizar unha conexión á Internet en que non confía plenamente ou se non está habituado a ver un aviso deste servidor.</p>
+<p>Se continúa a querer engadir unha excepción para este sitio, pode facelo na configuración de codificación avanzada.</p>
+">

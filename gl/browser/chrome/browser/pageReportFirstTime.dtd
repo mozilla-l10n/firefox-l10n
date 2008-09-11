@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label            "Un sitio web tentou abrir unha xanela emerxente sen permiso. &brandShortName; pechouna  automaticamente . Cada vez que &brandShortName; bloquea estas xanelas poderá observar unha icona na barra de estado.">
+
+<!ENTITY endDescription.label              "Prema esta icona para ver os sitios &brandShortName; bloqueados e para permitir abrir xanelas emerxentes se son necesarias para o funcionamento correcto do sitio.">
+
+<!ENTITY caption.label                     "Acerca do bloqueo de xanelas emerxentes">
+
+<!ENTITY done.label "Feito">

@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title         "Limpar os datos privados">
+
+<!ENTITY sanitizeItems.label          "Limpar os seguintes elementos:">
+<!ENTITY clearDataSettings.label      "Cando se solicite a &brandShortName; que limpe os datos privados, debería eliminar:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label            "Historial de navegación">
+<!ENTITY itemHistory.accesskey        "n">
+<!ENTITY itemFormSearchHistory.label  "Formularios gardados e historial de buscas">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label          "Contrasinais gardados">
+<!ENTITY itemPasswords.accesskey      "g">
+<!ENTITY itemCookies.label            "Cookies">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "Caché">
+<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemOfflineApps.label        "Datos de sitios web sen conexión">
+<!ENTITY itemOfflineApps.accesskey    "w">
+<!ENTITY itemDownloads.label          "Historial de descargas">
+<!ENTITY itemDownloads.accesskey      "H">
+<!ENTITY itemSessions.label           "Sesións autenticadas">
+<!ENTITY itemSessions.accesskey       "S">
+<!ENTITY window.width                 "30em">

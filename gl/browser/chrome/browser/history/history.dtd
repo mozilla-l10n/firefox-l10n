@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Buscar:">
+<!ENTITY find.accesskey            "B">
+<!ENTITY expand.label              "Expandir">
+<!ENTITY expand.accesskey          "E">
+<!ENTITY collapse.label            "Contraer">
+<!ENTITY collapse.accesskey        "o">
+<!ENTITY byDate.label "Por data">
+<!ENTITY byDate.accesskey "d">
+<!ENTITY bySite.label "Por sitio">
+<!ENTITY bySite.accesskey "s">
+<!ENTITY view.label "Ver">
+<!ENTITY view.accesskey "V">
+<!ENTITY byMostVisited.label "Por núm. de visitas">
+<!ENTITY byMostVisited.accesskey "n">
+<!ENTITY byLastVisited.label "Por última visita">
+<!ENTITY byLastVisited.accesskey "P">
+<!ENTITY byDayAndSite.label "Por data e sitio">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "Abrir">
+<!ENTITY openLinkInWindow.accesskey "A">
+<!ENTITY openInNewTab.label "Abrir nun novo separador">
+<!ENTITY openInNewTab.accesskey "s">
+<!ENTITY openInNewWindow.label "Abrir nunha nova xanela">
+<!ENTITY openInNewWindow.accesskey "x">
+<!ENTITY bookmarkLink.label "Marcar esta ligazón…">
+<!ENTITY bookmarkLink.accesskey "M">
+<!ENTITY copyLink.label "Copiar o enderezo da ligazón">
+<!ENTITY copyLink.accesskey "C">

@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Cortar">
+<!ENTITY cutCmd.accesskey "o">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Colar">
+<!ENTITY pasteCmd.accesskey "a">
+<!ENTITY undoCmd.label "Desfacer">
+<!ENTITY undoCmd.accesskey "D">
+<!ENTITY selectAllCmd.label "Seleccionar todo">
+<!ENTITY selectAllCmd.accesskey "S">
+<!ENTITY deleteCmd.label "Eliminar">
+<!ENTITY deleteCmd.accesskey "E">
+
+<!ENTITY spellAddToDictionary.label "Engadir ao dicionario">
+<!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellCheckEnable.label "Verificación ortográfica">
+<!ENTITY spellCheckEnable.accesskey "V">
+<!ENTITY spellNoSuggestions.label "(Non hai suxestións ortográficas)">
+<!ENTITY spellDictionaries.label "Idiomas">
+<!ENTITY spellDictionaries.accesskey "I">

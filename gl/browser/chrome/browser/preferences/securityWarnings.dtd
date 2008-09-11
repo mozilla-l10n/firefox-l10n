@@ -1,0 +1,13 @@
+<!ENTITY securityWarnings.title                   "Alertas de seguranza">
+
+<!ENTITY security.warn_when                       "Mostrar unha caixa de diálogo de alerta cando:">
+<!ENTITY security.warn_entering_secure.label      "Vou visualizar unha páxina cifrada.">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "Vou visualizar unha páxina que utiliza cifraxe de nivel baixo.">
+<!ENTITY security.warn_entering_weak.accesskey    "c">
+<!ENTITY security.warn_leaving_secure.label       "Abandono unha páxina cifrada para ir a unha non cifrada.">
+<!ENTITY security.warn_leaving_secure.accesskey   "A">
+<!ENTITY security.warn_submit_insecure.label      "Estou a enviar información non cifrada.">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "Vou visualizar unha páxina cifrada con parte da información non cifrada.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">
