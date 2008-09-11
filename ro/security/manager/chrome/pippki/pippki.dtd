@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Introduceți parola generală">
-<!ENTITY getPassword.tokenName.label "Dispozitiv de securitate">
+<!ENTITY getPassword.tokenName2.label "Dispozitiv de securitate:">
 <!ENTITY getPassword.password.label "Parolă:">
 
 <!-- These should be common -->
@@ -126,6 +126,10 @@
 <!ENTITY formSigning.confirmPassword "Pentru a confirma că sunteți de acord să semnați acest mesaj text cu certificatul selectat, vă rugăm tastați parola generală:">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Protected Token Authentication">
-<!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
-<!ENTITY protectedAuth.tokenName.label "Token:">
+<!ENTITY protectedAuth.title "Autentificare prin identificator protejat">
+<!ENTITY protectedAuth.msg "Vă rog autentificați-vă față de identificator. Metoda de autentificare depinde de tipul identificatorului dumneavoastră.">
+<!ENTITY protectedAuth.tokenName.label "Identificator:">
+
+<!ENTITY certErrorDlg.title "Conexiunea sigură a eșuat">
+<!ENTITY certErrorDlg.info1 "Aceasta ar putea fi o problemă în configurația serverului sau ar putea fi cineva care încearcă să pretindă că este acest server.">
+<!ENTITY certErrorDlg.info2 "Dacă v-ați mai conectat la acest server cu succes în trecut, eroarea ar putea fi temporară și puteți încerca din nou mai târziu.">
