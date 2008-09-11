@@ -45,8 +45,8 @@
 <!ENTITY useCacheBefore.label           "Brûk oant">
 <!ENTITY useCacheBefore.accesskey       "B">
 <!ENTITY useCacheAfter.label            "MB romte foar de buffer">
-<!ENTITY clearCacheNow.label            "No Leechmeitsje">
-<!ENTITY clearCacheNow.accesskey        "L">
+<!ENTITY clearCacheNow.label            "No leechmeitsje">
+<!ENTITY clearCacheNow.accesskey        "l">
 
 <!ENTITY updateTab.label                "Fernijing">
 

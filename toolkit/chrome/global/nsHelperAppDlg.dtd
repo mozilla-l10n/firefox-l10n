@@ -12,8 +12,8 @@
 <!ENTITY intro.label "It bestân &quot;#3&quot; is fan it type #2 (#1), en #4 wit net hoe mei dit bestânstype om te gean. Dit bestân stiet op:">
 <!ENTITY intro.noDesc.label "It bestân &quot;#3&quot; is fan it type #2, en #4 wit net hoe mei dit bestânstype om te gean. Dit bestân stiet op:">
 
-<!ENTITY intro.attachment.label "De webstee hat foarsteld om &quot;#3&quot; te behanneljen as in bylage. It is fan it type #2 (#1) en stiet op:">
-<!ENTITY intro.attachment.noDesc.label "De webstee hat foarsteld om &quot;#3&quot; te behanneljen as in bylage. It is fan it type #2 en stiet op:">
+<!ENTITY intro.attachment.label "It webstee hat foarsteld om &quot;#3&quot; te behanneljen as in bylage. It is fan it type #2 (#1) en stiet op:">
+<!ENTITY intro.attachment.noDesc.label "It webstee hat foarsteld om &quot;#3&quot; te behanneljen as in bylage. It is fan it type #2 en stiet op:">
 
 <!ENTITY intro.sniffed.label "#4 hat detekteert dat it bestân &quot;#3&quot; warskienlik fan it type #2 (#1) is. It bestân stiet op:">
 <!ENTITY intro.sniffed.noDesc.label "#4 hat detekteert dat it bestân &quot;#3&quot; warskienlik fan it type #2 is. It bestân stiet op:">

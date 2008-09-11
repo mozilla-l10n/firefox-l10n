@@ -7,7 +7,7 @@
 <!ENTITY removepermission.accesskey   "f">
 <!ENTITY removeallpermissions.label   "Alle websteeën fuortsmite">
 <!ENTITY removeallpermissions.accesskey "A">
-<!ENTITY address.label                "Adres fan de webstee:">
+<!ENTITY address.label                "Adres fan it webstee:">
 <!ENTITY block.label                  "Blokkearje">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Tastean foar sitting">
