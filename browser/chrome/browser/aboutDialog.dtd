@@ -30,12 +30,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY aboutDialog.title      "Apie „&brandFullName;“">
-<!ENTITY copyright              "Autoriai">
-<!ENTITY copyright.accesskey    "A">
-<!ENTITY aboutLink              "&lt; Apie „&brandFullName;“">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "laida">
-<!ENTITY copyrightInfo          "&#169;1998 – 2008 bendradarbiai. Visos teisės priklauso autoriams. „Firefox“ ir 
-                                 „Firefox“ logotipas yra bendrijos „Mozilla Foundation“ prekės ženklai. Visos 
-                                 teisės priklauso autoriams.">
+<!ENTITY aboutDialog.title          "Apie „&brandFullName;“">
+<!ENTITY copyright                  "Autoriai">
+<!ENTITY copyright.accesskey        "A">
+<!ENTITY copyrightGNOME.accesskey   "A">
+<!ENTITY aboutLink                  "&lt; Apie „&brandFullName;“">
+<!ENTITY aboutLink.accesskey        "A">
+<!ENTITY aboutVersion               "laida">
+<!ENTITY closeCmdGNOME.label        "Užverti">
+<!ENTITY closeCmdGNOME.accesskey    "U">
+<!ENTITY copyrightInfo              "&#169;1998 – 2008 bendradarbiai. Visos teisės priklauso autoriams. „Firefox“ ir 
+                                     „Firefox“ logotipas yra bendrijos „Mozilla Foundation“ prekės ženklai. Visos 
+                                     teisės priklauso autoriams.">
