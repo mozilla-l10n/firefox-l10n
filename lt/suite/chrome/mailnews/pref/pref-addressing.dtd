@@ -53,6 +53,7 @@
 <!ENTITY autocompleteText.label                "Adresų, kurių pradžios sutampa su surinktu tekstu, ieškoti:">
 <!ENTITY directories.label                     "katalogų serveryje:">
 <!ENTITY directories.accesskey                 "s">
+<!ENTITY directoriesNone.label                 "Nėra">
 <!ENTITY editDirectories.label                 "Tvarkyti katalogus…">
 <!ENTITY editDirectories.accesskey             "T">
 <!ENTITY matchText.label                       "Sutampantį adresą radus adresų knygoje:">
