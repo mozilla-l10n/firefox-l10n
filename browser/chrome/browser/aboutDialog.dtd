@@ -1,7 +1,10 @@
-<!ENTITY aboutDialog.title      "Despre &brandFullName;">
-<!ENTITY copyright              "Mulțumiri">
-<!ENTITY copyright.accesskey    "M">
-<!ENTITY aboutLink              "&lt; Despre &brandFullName;">
-<!ENTITY aboutLink.accesskey    "D">
-<!ENTITY aboutVersion           "versiunea">
-<!ENTITY copyrightInfo          "&#169;1998-2008. Toate drepturile sunt rezervate. Firefox și siglele Firefox sunt mărci înregistrate ale fundației Mozilla. Toate drepturile asupra lor sunt rezervate.">
+<!ENTITY aboutDialog.title          "Despre &brandFullName;">
+<!ENTITY copyright                  "Mulțumiri">
+<!ENTITY copyright.accesskey        "M">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY aboutLink                  "&lt; Despre &brandFullName;">
+<!ENTITY aboutLink.accesskey        "D">
+<!ENTITY aboutVersion               "versiunea">
+<!ENTITY closeCmdGNOME.label        "Închide">  
+<!ENTITY closeCmdGNOME.accesskey    "c">
+<!ENTITY copyrightInfo              "&#169;1998-2008. Toate drepturile sunt rezervate. Firefox și siglele Firefox sunt mărci înregistrate ale fundației Mozilla. Toate drepturile asupra lor sunt rezervate.">
