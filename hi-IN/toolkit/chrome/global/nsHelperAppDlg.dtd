@@ -1,0 +1,34 @@
+<!ENTITY caption.label "#1 खुल रहा है">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+<!ENTITY intro.label " फ़ाइल &quot;#3&quot; is of type #2 (#1), या #4 को इस प्रकार की फ़ाइल को नियंत्रण करना नहीं आता है। यह  फ़ाइल स्थित है :">
+<!ENTITY intro.noDesc.label " फ़ाइल &quot;#3&quot; is of type #2, या #4 को इस प्रकार की फ़ाइल को नियंत्रण करना नहीं आता है। यह फ़ाइल स्थित है :">
+<!ENTITY intro.attachment.label "साइट के विचार से &quot;#3&quot; एक संलग्नक की तरह नियंत्रित किया जाए. यह #2 (#1) प्रकार का है एवं इस स्थान पर हैः">
+<!ENTITY intro.attachment.noDesc.label "साइट के विचार से &quot;#3&quot; एक संलग्नक की तरह नियंत्रित किया जाए. यह #2 प्रकार का है एवं इस स्थान पर हैः">
+
+<!ENTITY intro.sniffed.label "#4 ने जांचा है कि फ़ाइल &quot;#3&quot; #2 (#1) प्रकार का होना चाहिए. फ़ाइल यहां अवस्थित है:">
+<!ENTITY intro.sniffed.noDesc.label "#4 ने जांचा है कि फ़ाइल &quot;#3&quot; #2 प्रकार का होना चाहिए. फ़ाइल यहां अवस्थित है:">
+
+<!ENTITY prompt.label "#1 इस फ़ाइल के साथ क्या करें?">
+<!ENTITY alwaysHandle.label "हमेशा इस प्रकार की फ़ाइलों को नियंत्रित करते समय यह क्रिया पूरा करें.">
+<!ENTITY alwaysHandle.accesskey "A">
+<!ENTITY saveToDisk.label "डिस्क में सहेजें">
+<!ENTITY saveToDisk.accesskey "S">
+<!ENTITY useSystemDefault.label "इस तयशुदा अनुप्रयोग (#1) के साथ खोलें">
+<!ENTITY useSystemDefault.noDesc.label "तयशुदा कार्यक्रम के साथ इसे खोलें">
+<!ENTITY useSystemDefault.accesskey "O">
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+<!ENTITY openUsing.label "इसके साथ खोलें">
+<!ENTITY openUsing.accesskey "w">
+<!ENTITY chooseApp.label "चुनें...">
+<!ENTITY chooseApp.accesskey "C">
+<!ENTITY chooseAppFilePickerTitle "सहायक कार्यक्रम चुनें">
+<!ENTITY badApp "कार्यक्रम जो आपने निर्देशित किया था  (&quot;#1&quot;) मिल नहीं सकता. फ़ाइल नाम की जांच करें या अन्य कार्यक्रम को चुनें.">
+<!ENTITY badApp.title "कार्यक्रम नहीं मिला">

@@ -1,0 +1,32 @@
+<!ENTITY startpage.welcome "&brandFullName; में आपका स्वागत है!">
+<!ENTITY startpage.intro "&brandFullName; एक ताकतवर, मुक्तश्रोत डाक व समाचार क्लाइंट है.">
+
+<!ENTITY startpage.features "विशेषता">
+
+<!ENTITY startpage.junkControl "अनुकूलित जंक मेल नियंत्रण">
+<!ENTITY startpage.rssReader "RSS पाठक">
+<!ENTITY startpage.globalInbox "वैश्विक इनबॉक्स समर्थन">
+<!ENTITY startpage.searchFolders "खोज फोल्डर सहेजा">
+<!ENTITY startpage.messageGroups "संदेश समूहन">
+<!ENTITY startpage.privacyProtect "गोपनीयता की रक्षा">
+
+<!ENTITY startpage.junkControlURL "http://www.mozilla.org/products/thunderbird/junkmail.html">
+<!ENTITY startpage.rssReaderURL "http://www.mozilla.org/products/thunderbird/rss.html">
+<!ENTITY startpage.globalInboxURL "http://www.mozilla.org/products/thunderbird/global-inbox.html">
+<!ENTITY startpage.searchFoldersURL "http://www.mozilla.org/products/thunderbird/search-folders.html">
+<!ENTITY startpage.messageGroupsURL "http://www.mozilla.org/products/thunderbird/message-grouping.html">
+<!ENTITY startpage.privacyProtectURL "http://www.mozilla.org/products/thunderbird/privacy-protection.html">
+
+<!ENTITY startpage.moreInfo "ज्यादा जानकारी">
+
+<!ENTITY startpage.help "Thunderbird मदद">
+<!ENTITY startpage.helpInfo "बार-बार पूछे जाने वाले प्रश्नों, संकेत व सामान्य मदद के लिये, जायें">
+<!ENTITY startpage.helpURL "http://www.mozilla.org/support/thunderbird/">
+
+<!ENTITY startpage.page "Thunderbird उत्पाद पृष्ठ">
+<!ENTITY startpage.pageInfo "उत्पाद सूचना के लिये, जायें>
+<!ENTITY startpage.pageURL "http://www.mozilla.org/products/thunderbird/">
+
+<!ENTITY startpage.extra "">
+
+<!ENTITY startpage.poweredByGecko "Powered by Gecko.">

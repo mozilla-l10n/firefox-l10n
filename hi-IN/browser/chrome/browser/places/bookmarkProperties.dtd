@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                 "नाम:">
+<!ENTITY bookmarks.name.accesskey             "N">
+<!ENTITY bookmarks.location.label             "स्थान:">
+<!ENTITY bookmarks.location.accesskey         "L">
+<!ENTITY bookmarks.keyword.label              "बीजशब्द:">
+<!ENTITY bookmarks.keyword.accesskey          "K">
+<!ENTITY bookmarks.description.label          "विवरण:">
+<!ENTITY bookmarks.description.accesskey      "D">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "जीवंत शीर्षक">
+<!ENTITY bookmarks.createIn.label             "इसमें बनाएँ:">
+<!ENTITY bookmarks.createIn.accesskey         "C">
+<!ENTITY bookmarks.feed_location.label        "फ़ीड स्थान:">
+<!ENTITY bookmarks.feed_location.accesskey    "F">
+<!ENTITY bookmarks.site_location.label        "साइट स्थान:">
+<!ENTITY bookmarks.site_location.accesskey    "S">
+<!ENTITY bookmarks.loadInSidebar.label        "बाज़ू पट्टी में यह पुस्तचिह्न लोड करें">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "o">
+<!ENTITY bookmarks.expanderDown.tooltip       "सभी पुस्तचिह्न फ़ोल्डर दिखाएँ">
+<!ENTITY bookmarks.expanderUp.tooltip         "छिपाएँ">
+<!ENTITY bookmarks.newFolderButton.label      "नया फ़ोल्डर">
+<!ENTITY bookmarks.newFolderButton.accesskey  "e">

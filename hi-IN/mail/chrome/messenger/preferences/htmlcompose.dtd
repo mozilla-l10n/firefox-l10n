@@ -1,0 +1,14 @@
+<!ENTITY dialog.title                 "HTML विकल्प">
+<!ENTITY defaultMessagesHeader.label          "HTML संदेश लेखन मूलभूत">
+<!ENTITY font.label                           "फंट:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY size.label                           "आकार:">
+<!ENTITY size.accesskey                       "S">
+<!ENTITY fontColor.label                      "पाठ:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "पृष्ठभूमि:">
+<!ENTITY bgColor.accesskey                    "B">
+
+<!ENTITY restoreDefaultsDescription.label    "मूलभूत बनाये रखें:">
+<!ENTITY restoreDefaults.label               "फिर भंडारित करें">
+<!ENTITY restoreDefaults.accesskey           "R">

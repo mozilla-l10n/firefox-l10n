@@ -1,0 +1,170 @@
+<!ENTITY addons.title                     "सहयुक्तियाँ">
+
+<!-- Default window size for the addon manager in pixels -->
+<!ENTITY em.width                         "520">
+<!ENTITY em.height                        "380">
+
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
+<!-- View labels -->
+<!ENTITY search.label                     "सहयुक्तियाँ पाएँ">
+<!ENTITY extensions.label                 "विस्तार">
+<!ENTITY themes.label                     "प्रसंग">
+<!ENTITY locales.label                    "भाषाएँ">
+<!ENTITY plugins.label                    "प्लगिन">
+<!ENTITY update.label                     "अद्यतन">
+<!ENTITY install.label                    "संस्थापन">
+
+<!-- Command Bar items -->
+<!ENTITY cmd.checkUpdatesAll.label        "अद्यतन पाएँ">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "अपनी सहयुक्तियों के लिए अद्यतन पाता है">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "अपने प्रसंग का अद्यतन पाता है">
+<!ENTITY cmd.installLocalFile.label       "संस्थापित करें…">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.installFileAddon.tooltip     "एक सहयुक्तियाँ संस्थापित करें">
+<!ENTITY cmd.installFileTheme.tooltip     "एक प्रसंग संस्थापित करें">
+<!ENTITY cmd.installUpdatesAll.label      "अद्यतन संस्थापित करें">
+<!ENTITY cmd.installUpdatesAll.accesskey  "I">
+<!ENTITY cmd.installUpdatesAll.tooltip    "चुने अद्यतन संस्थापित करें">
+<!ENTITY cmd.restartApp2.label            "&brandShortName; फिर आरंभ करें">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "बदलाव लागू करने के लिए &brandShortName; फिर आरंभ करें">
+<!ENTITY cmd.skip.label                   "छोड़ें">
+<!ENTITY cmd.skip.accesskey               "k">
+<!ENTITY cmd.skip.tooltip                 "यह अद्यतन छोड़ें">
+<!ENTITY cmd.continue.label               "जारी रखें">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.continue.tooltip             "&brandShortName; की लोडिंग जारी रखें">
+
+<!ENTITY cmd.enableAll.label              "सभी सक्रिय करें">
+<!ENTITY cmd.enableAll.accesskey          "a">
+<!ENTITY cmd.enableAll.tooltip            "सभी प्रदर्शित सहयुक्तियाँ सक्रिय करें">
+<!ENTITY cmd.disableAll.label             "सभी निष्क्रिय करें">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.disableAll.tooltip           "सभी प्रदर्शित सहयुक्तियाँ निष्क्रिय करें">
+
+<!-- Displayed in the selected Add-on's richlistitem and context menu -->
+<!ENTITY cmd.useTheme.label               "प्रसंग का प्रयोग करें">
+<!ENTITY cmd.useTheme.accesskey           "T">
+<!ENTITY cmd.useTheme.tooltip             "&brandShortName; का प्रसंग बदलता है">
+<!ENTITY cmd.options.label                "विकल्प">
+<!ENTITY cmd.options.accesskey            "O">
+<!ENTITY cmd.options.tooltip              "चुने विस्तार के लिए विकल्प सेट करें">
+<!ENTITY cmd.optionsUnix.label            "वरीयता">
+<!ENTITY cmd.optionsUnix.accesskey        "r">
+<!ENTITY cmd.optionsUnix.tooltip          "चुने विस्तार के लिए वरीयता संपादित करें">
+<!ENTITY cmd.enable.label                 "सक्रिय करें">
+<!ENTITY cmd.enable.accesskey             "E">
+<!ENTITY cmd.enable.tooltip               "यह सहयुक्ति सक्रिय करें जब &brandShortName; फिर आरंभ किया जाता है">
+<!ENTITY cmd.disable.label                "निष्क्रिय करें">
+<!ENTITY cmd.disable.accesskey            "D">
+<!ENTITY cmd.disable.tooltip              "यह सहयुक्ति निष्क्रिय करें जब &brandShortName; फिर आरंभ किया जाता है">
+<!ENTITY cmd.uninstall.label              "संस्थापना हटाएँ">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.uninstall2.tooltip           "इस सहयुक्ति को विसंस्थापित करें &brandShortName; फिर आरंभ किया जाता है">
+<!ENTITY cmd.cancelUninstall.label        "विसंस्थापन रद्द करें">
+<!ENTITY cmd.cancelUninstall.accesskey    "C">
+<!ENTITY cmd.cancelUninstall.tooltip      "इस सहयुक्ति का विसंस्थापन रद्द करें">
+<!ENTITY cmd.cancelInstall.label          "संस्थापना रद्द करें">
+<!ENTITY cmd.cancelInstall.accesskey      "C">
+<!ENTITY cmd.cancelInstall.tooltip        "इस सहयुक्ति की संस्थापन रद्द करें">
+<!ENTITY cmd.cancelUpgrade.label          "उन्नयन रद्द करें">
+<!ENTITY cmd.cancelUpgrade.accesskey      "C">
+<!ENTITY cmd.cancelUpgrade.tooltip        "इस सहयुक्ति का उन्नयन रद्द करें">
+<!ENTITY cmd.installUpdate.label          "अद्यतन संस्थापित करें">
+<!ENTITY cmd.installUpdate.accesskey      "I">
+<!ENTITY cmd.installUpdate.tooltip        "इस सहयुक्ति के लिए अद्यतन संस्थापित करें">
+<!ENTITY cmd.showUpdateInfo.label         "सूचना दिखाएँ">
+<!ENTITY cmd.showUpdateInfo.accesskey     "S">
+<!ENTITY cmd.showUpdateInfo.tooltip       "इन अद्यतनों के बारे में अधिक सूचना दिखाएँ">
+<!ENTITY cmd.hideUpdateInfo.label         "सूचना छुपाएँ">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "इन अद्यतनों के बारे में सूचना छुपाएँ">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName; में जोड़ें…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip   "इस सहयुक्ति को डाउनलोड व संस्थापित करें">
+<!-- The selected add-on's cancel action button label -->
+<!ENTITY cancel.label                     "रद्द करें">
+<!ENTITY cancel.accesskey                 "C">
+<!ENTITY cancelInstall.label              "रद्द करें">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "रद्द करें">
+<!ENTITY cancelUpgrade.accesskey          "C">
+
+<!-- Only displayed in the selected Add-on's context menu -->
+<!ENTITY cmd.homepage.label               "घर पृष्ठ देखें">
+<!ENTITY cmd.homepage.accesskey           "H">
+<!ENTITY cmd.about2.label                 "इस सहयुक्ति के बारे में">
+<!ENTITY cmd.about.accesskey              "A">
+<!ENTITY cmd.checkUpdate.label            "अद्यतन ढ़ूँढें">
+<!ENTITY cmd.checkUpdate.accesskey        "F">
+
+<!ENTITY cmd.includeUpdate.label          "अद्यतन शामिल करें">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+<!ENTITY includeUpdate.label              "यह अद्यतन शामिल करें">
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY includeUpdate.tooltip            "अद्यतन संस्थापित करने के लिए इस सहयुक्तियों को शामिल करें">
+
+<!-- Status Messsages -->
+<!ENTITY insecureUpdate.label             "सुरक्षित अद्यतन नहीं देता है.">
+<!ENTITY needsDependencies.label          "अतिरिक्त मद की जरूरत है.">
+<!ENTITY blocklisted.label                "आपकी सुरक्षा के लिए निष्क्रिय.">
+<!ENTITY toBeDisabled.label               "यह सहयुक्ति निष्क्रिय किया जायेगा जब &brandShortName; फिर शुरू किया जाता है.">
+<!ENTITY toBeEnabled.label                "यह सहयुक्ति सक्रिय किया जायेगा जब &brandShortName; फिर शुरू किया जाता है.">
+<!ENTITY toBeInstalled.label              "यह सहयुक्ति संस्थापित किया जायेगा जब &brandShortName; फिर शुरू किया जाता है.">
+<!ENTITY toBeUninstalled.label            "यह सहयुक्ति विसंस्थापित किया जायेगा जब &brandShortName; फिर शुरू किया जाता है.">
+<!ENTITY toBeUpdated.label                "यह सहयुक्ति उन्नत किया जायेगा जब &brandShortName; फिर शुरू किया जाता है.">
+
+<!ENTITY getExtensions.label              "विस्तार पाएं">
+<!ENTITY getThemes.label                  "प्रसंग पाएं">
+<!ENTITY getPlugins.label                 "प्लगिन पाएँ">
+
+<!ENTITY searchAddons.label               "सभी सहयुक्तियाँ खोजें">
+<!ENTITY browseAddons.label               "सभी सहयुक्तियाँ ब्राउज करें">
+<!ENTITY searchFailed.label               "&brandShortName; सहयुक्तियों को नहीं पा सका">
+<!ENTITY recommendedHeader.label          "अनुशंसित">
+<!ENTITY recommendedThrobber.label        "अनुशंसित सहयुक्तियाँ प्राप्त कर रहा है">
+<!ENTITY searchThrobber.label             "सहयुक्तियां खोज रहा है">
+<!ENTITY resetSearch.label                "परिणाम साफ करें">
+<!ENTITY noSearchResults.label            "सभी परिणाम पहले से संस्थापित हैं या असंगत हैं.">
+<!ENTITY noRecommendedResults.label       "सभी अनुशंसाएं पहले से संस्थापित या असंगत हैं.">
+<!ENTITY emptySearch.label                "कोई मिलान सहयुक्तियां नहीं">
+<!ENTITY emptySearch.button               "ठीक">
+<!ENTITY cancelSearch.button              "रद्द करें">
+<!ENTITY searchFailed.button              "ठीक">
+<!ENTITY searchResultHomepage.value       "अधिक जानें">
+<!ENTITY searchBox.label                  "सभी सहयुक्तियां खोजें">
+<!ENTITY recommendedResults.label         "सभी अनुशंसित सहयुक्तियां देखें">
+<!ENTITY searchResultConnecting.label     "कनेक्ट कर रहा है…">
+<!ENTITY searchResultInstalling.label     "संस्थापन कर रहा है…">
+<!ENTITY searchResultFailed.label         "संस्थापन विफल">
+<!ENTITY searchResultInstalled.label      "पूरा संस्थापित करें">
+<!ENTITY addonTypeExtension.label         "विस्तार">
+<!ENTITY addonTypeTheme.label             "प्रसंग">
+<!ENTITY missingThumbnail.label           "कोई पूर्वावलोकन नहीं">
+
+<!ENTITY previewNoThemeSelected.label     "कोई प्रसंग नहीं चुना गया">
+<!ENTITY previewNoPreviewImage.label      "इस प्रसंग के पास कोई पूर्वावलोकन छवि नहीं है">
+<!ENTITY moreInfo.label                   "अधिक सूचना">
+<!ENTITY infoNoAddonSelected.label        "कोई अद्यतन चुना नहीं गया">
+<!ENTITY infoNoUpdateInfo.label           "इस अद्यतन के पास कोई अतिरिक्त सूचना नहीं है">
+<!ENTITY infoUpdateInfoError.label        "इस अद्यतन के बारे में सूचना लोड करने के दौरान त्रुटि">
+
+<!ENTITY updateSuccess.label              "अद्यतन सफलतापूर्वक पूर्ण.">
+<!ENTITY installSuccess.label             "संस्थापन सफलतापूर्वक पूर्ण.">
+<!ENTITY installSuccessRestart.label      "संस्थापन पूरा करने के लिए फिर आरंभ करें.">
+<!ENTITY updateSuccessRestart.label       "अद्यतन पूर्ण करने के लिए फिर आरंभ करें.">
+<!ENTITY installWaiting.label             "प्रतीक्षारत…">
+<!ENTITY installIncompatibleUpdate.label  "सुसंगतता जाँच रहा है…">
+<!ENTITY installFinishing.label           "संस्थापित कर रहा है…">
+<!ENTITY installFailure.label             "संस्थापन विफल.">
+
+<!ENTITY progressStatus.label             "अद्यतन के लिए जाँचें">
+
+<!ENTITY eula.title                       "अंत्य उपयोक्ता लाइसेंस मसौदा">
+<!ENTITY eula.width                       "560पिक्सेल">
+<!ENTITY eula.height                      "400पिक्सेल">
+<!ENTITY eula.accept                      "स्वीकारें व संस्थापित करें…">

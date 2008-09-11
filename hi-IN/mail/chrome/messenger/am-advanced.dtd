@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "बाहर जाने वाला संख्या (SMTP) जमावट">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "हालांकि आप एक से ज्यादा outgoing server (SMTP) निर्दिष्ट कर सकते हैं, यह सिर्फ उन्नत उपयोक्ता के लिये अनुशंसित है. कई SMTP सर्वर को जमा करना गलती का कारण हो सकता है जब संदेश भेजा जा रहा हो.">
+
+<!ENTITY smtpListAdd.label  "जोड़ें...">
+<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListEdit.label "संपादित करें...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "हटायें">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "मूलभूत सेट करें">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "विवरण: ">
+<!ENTITY serverName.label "सर्वर नाम: ">
+<!ENTITY serverPort.label "पोर्ट: ">
+<!ENTITY userName.label   "उपयोक्ता नाम: ">
+<!ENTITY useSecureConnection.label   "सुरक्षित संबंधन: ">

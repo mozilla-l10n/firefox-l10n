@@ -1,0 +1,7 @@
+
+<!ENTITY editPageCmd.label                "कंपोजर में पृष्ठ संपादित करें"> 
+<!ENTITY editPageCmd.accesskey            "e">
+
+<!ENTITY editLinkCmd.label                "कंपोजर में लिंक संपादित करें">
+<!ENTITY editLinkCmd.accesskey            "E">
+

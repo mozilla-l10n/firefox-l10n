@@ -1,0 +1,23 @@
+<!ENTITY  changeAction.title                  "क्रिया बदलें">
+<!ENTITY  window.width                         "36em">
+
+<!ENTITY  whenDownloading.label               "जब इस प्रकार की फाइळ का डाउनलोड किया जा रहा हो:">
+
+<!ENTITY  openDefault.label                   "मूलभूत अनुप्रयोग के साथ उन्हें खोलें:">
+<!ENTITY  openDefault.accesskey               "O">
+<!ENTITY  openApplication.label               "इस अनुप्रयोग के साथ उन्हें खोलें:">
+<!ENTITY  openApplication.accesskey           "e">
+<!ENTITY  changeApp.label                     "ब्रॉउज करें...">
+<!ENTITY  changeApp.accesskey                 "B">
+<!ENTITY  saveToDisk.label                    "उन्हें मेरे कंप्यूटर में सहेजें">
+<!ENTITY  saveToDisk.accesskey                "S">
+<!ENTITY  saveToDefaultFolder.label           "मूलभूत डाउनलोड फोल्डर में">
+<!ENTITY  saveToDefaultFolder.accesskey       "d">
+<!ENTITY  saveToThisFolder.label              "इस फोल्डर में:">
+<!ENTITY  saveToThisFolder.accesskey          "h">
+<!ENTITY  chooseFolder.label                  "ब्रॉउज...">
+<!ENTITY  chooseFolder.accesskey              "w">
+<!ENTITY  saveToAskMe.label                   "मुझसे पूछें कि फाइल कहां सहेजी जानी है">
+<!ENTITY  saveToAskMe.accesskey               "a">
+<!ENTITY  usePlugin.label                     "इस प्लगिन का प्रयोग करें:">
+<!ENTITY  usePlugin.accesskey                 "P">

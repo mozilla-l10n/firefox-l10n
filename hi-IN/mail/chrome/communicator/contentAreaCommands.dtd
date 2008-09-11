@@ -1,0 +1,97 @@
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "इस साइट से पॉपअप विंडो अस्वीकारें">
+<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowAllowCmd.label      "इस साइट से पॉपअप विंडो स्वीकारें">
+<!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY openLinkCmd.label            "नये विमडो में लिंक खोलें">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmdInTab.label       "नये टैब में लिंक खोलें">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkInWindowCmd.label    "खोलें">
+<!ENTITY openLinkInWindowCmd.accesskey "p">
+<!ENTITY openFrameCmd.label           "नये विंडो में फ्रेम खोलें">
+<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmdInTab.label      "नये टैब में फ्रेम कोलें">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY showOnlyThisFrameCmd.label     "इस फ्रेम को सिर्फ दिखायें">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY addToBookmarksCmd.label      "इस पेज को बुकमार्क करें">
+<!ENTITY addToBookmarksCmd.accesskey  "B">
+<!ENTITY goBackCmd.label              "पीछें">
+<!ENTITY goBackCmd.accesskey          "B">
+<!ENTITY goForwardCmd.label           "अग्रसारित करें">
+<!ENTITY goForwardCmd.accesskey       "F">
+<!ENTITY reloadCmd.label              "फिर लोड करें">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "रोकें">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY reloadFrameCmd.label         "ढांचा फिर लोड करें">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "चयन श्रोत देखें">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML श्रोत देखें">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "पेज श्रोत देखें">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "फ्रेम श्रोत देखें">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "पृष्ठ ढांचा देखें">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "फ्रेम ढांचा देखें">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY fitImageCmd.label            "विंडो में चित्र फिट करें">
+<!ENTITY fitImageCmd.accesskey        "F">
+<!ENTITY viewImageCmd.label           "चित्र देखें">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.label         "पृष्ठभूमि चित्र देखें">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setWallpaperCmd.label        "बालपेपर के रूप में सेट करें">
+<!ENTITY setWallpaperCmd.accesskey    "S">
+<!ENTITY bookmarkPageCmd.label        "इस पेज को बुकमार्क करें">
+<!ENTITY bookmarkPageCmd.accesskey    "m">
+<!ENTITY bookmarkLinkCmd.label        "इस लिंक को बुकमार्क करें">
+<!ENTITY bookmarkLinkCmd.accesskey    "L">
+<!ENTITY bookmarkFrameCmd.label       "इस फ्रेम को बुकमार्क करें">
+<!ENTITY bookmarkFrameCmd.accesskey   "m">
+<!ENTITY savePageAsCmd.label          "पृष्ठ इस रूप में सहेजें...">
+<!ENTITY savePageCmd.label            "पेज सहेजें">
+<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameAsCmd.label         "ढ़ांचा इस रूप में सेहजें...">
+<!ENTITY saveFrameCmd.label           "ढाचा सहेजें">
+<!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY saveLinkAsCmd.label          "लिंक लक्ष्य इस रूप नें सहेजें...">
+<!ENTITY saveLinkCmd.label            "लिंक लक्ष्य सहेजें">
+<!ENTITY saveLinkCmd.accesskey        "r">
+<!ENTITY saveImageAsCmd.label         "चित्र इस रूप में सहेजें...">
+<!ENTITY saveImageCmd.label           "चित्र सहेजें">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY copyCmd.label                "कॉपी">
+<!ENTITY copyCmd.accesskey            "C">
+<!ENTITY selectAllCmd.label           "सबको चुनें">
+<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY copyLinkCmd.label            "लिंक स्थान कॉपी करें">
+<!ENTITY copyLinkCmd.accesskey        "C">
+<!ENTITY copyImageCmd.label           "चित्र स्थान कॉपी करें">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY metadataCmd.label            "गुण">
+<!ENTITY metadataCmd.accesskey        "P">
+<!ENTITY copyEmailCmd.label           "ईमेल पता कॉपी करें">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY pasteCmd.label               "चिपकायें">
+<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY cutCmd.label                 "काटें">
+<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY deleteCmd.label              "मिटायें">
+<!ENTITY deleteCmd.accesskey          "D">
+<!ENTITY undoCmd.label                "वापस लें">
+<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY redoCmd.label                "फिर करें">
+<!ENTITY redoCmd.accesskey            "R">
+<!ENTITY thisFrameMenu.label          "यह ढांचा">
+<!ENTITY thisFrameMenu.accesskey      "h">
+<!ENTITY search.accesskey             "W">
+<!ENTITY bidiSwitchPageDirectionItem.label        "पेज दिशा बदलें">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
+<!ENTITY bidiSwitchTextDirectionItem.label        "पाठ दिशा बदलें">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">

@@ -1,0 +1,26 @@
+<!ENTITY no-properties.label "कोई विशेषता सेट नहीं">
+<!ENTITY caption.label "पदार्थ विशेषताएँ">
+<!ENTITY image-sec.label "चित्र विशेषताएँ">
+<!ENTITY image-url.label "स्थान:">
+<!ENTITY image-desc.label "विवरण:">
+<!ENTITY image-alt.label "वैकल्पिक लेख:">
+<!ENTITY image-filesize.label "प्रपत्र परिमाण:">
+<!ENTITY insdel-sec.label "अन्तर्निवेश/विशेषताएँ मिटाएँ">
+<!ENTITY insdel-cite.label "सूचना:">
+<!ENTITY insdel-date.label "तिथि:">
+<!ENTITY link-sec.label "कड़ी विशेषताएँ">
+<!ENTITY link-url.label "पता:">
+<!ENTITY link-target.label "इसमें खुलेगी:">
+<!ENTITY link-type.label "वर्ग लक्ष्य:">
+<!ENTITY link-lang.label "भाषा लक्ष्य:">
+<!ENTITY link-rel.label "सम्बन्ध:">
+<!ENTITY link-rev.label "उलटा हुआ सम्बन्ध:">
+<!ENTITY misc-sec.label "विविध विशेषताएँ">
+<!ENTITY misc-lang.label "लेखपत्र भाषा:">
+<!ENTITY misc-title.label "शीर्षक:">
+<!ENTITY misc-tblsummary.label "सारणी सारांश:">
+<!ENTITY quote-sec.label "विशेषताएँ उद्धृत करें">
+<!ENTITY quote-cite.label "सूचना:">
+<!ENTITY link-ping.label       "सूचित करेगा:">
+<!ENTITY image-type.label      "प्रकार:">
+<!ENTITY image-size.label      "छवि आयाम:">

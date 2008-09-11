@@ -1,0 +1,24 @@
+<!ENTITY askOnSave.label              "संलग्नक फोल्डर">
+<!ENTITY alwaysAsk.label              "मुझसे पूछें कि कहां हर फाइल को सहेजना है">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY neverAsk.label               "इस फोल्डर में सारा संलग्नक सहेजें:">
+<!ENTITY neverAsk.accesskey           "S">
+<!ENTITY desktop.label                "डेस्कटॉप">
+<!ENTITY downloads.label              "मेरा डाउनलोड">
+<!ENTITY chooseFolderWin.label        "ब्रॉउज करें...">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "चुनें...">
+<!ENTITY chooseFolderMac.accesskey    "C">
+
+
+<!ENTITY fileTypes.label              "क्रिया डाउनलोड करें">
+<!ENTITY configureActions.label       "View &amp; क्रिया संपादित करें...">
+<!ENTITY configureActions.accesskey   "V">
+<!ENTITY fileTypesDescription.label   "&brandShortName; कुछ प्रकार के संलग्नक को स्वतः खोल व सहेज सकता है.">
+
+<!ENTITY fileTypeColName.label        "फाइल प्रकार">
+<!ENTITY fileHandlerColName.label     "अनुप्रयोग">
+<!ENTITY editFileHandler.label        "क्रिया बदलें...">
+<!ENTITY editFileHandler.accesskey    "a">
+<!ENTITY removeFileHandler.label      "हटायें">
+<!ENTITY removeFileHandler.accesskey  "r">

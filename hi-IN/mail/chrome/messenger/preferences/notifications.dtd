@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title        "नया मेल ध्वनि">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY soundNotification.caption        "नये मेल के लिये ध्वनि विन्यस्त करें">
+<!ENTITY preview.label                    "ध्वनि पूर्वावलोकन">
+<!ENTITY preview.accesskey                "v">
+<!ENTITY systemsound.label                "सिस्टम नया मेल ध्वनि">
+<!ENTITY systemsoundMac.label             "सिस्टम चेतावनी ध्वनि">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "पसंदीदा .wav file">
+<!ENTITY customsound.accesskey            "C">
+<!ENTITY browse.label                     "ब्रॉउज करें...">
+<!ENTITY browse.accesskey                 "B">

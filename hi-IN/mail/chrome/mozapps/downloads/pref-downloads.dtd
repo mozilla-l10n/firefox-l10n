@@ -1,0 +1,27 @@
+<!ENTITY lHeader                      "संलग्नक">
+
+<!ENTITY askOnSave.label              "संलग्नक फोल्डर">
+<!ENTITY alwaysAsk.label              "पूछें कि हर संलग्नक को कहां सहेजना है">
+<!ENTITY neverAsk.label               "सारे संलग्नक को इस फोल्डर में सहेजें:">
+<!ENTITY desktop.label                "डेस्कटॉप">
+<!ENTITY downloads.label              "मेरा डाउनलोड">
+<!ENTITY choose.label                 "अन्य...">
+<!ENTITY showFolder.label             "दिखायें फोल्डर">
+
+<!ENTITY downloadManagerWindow.label  "संलग्नक प्रबंधक">
+<!ENTITY showWhenStarting.label       "संलग्नक प्रबंधक दिखायें जब डाउनलोड शुरू होता है.">
+<!ENTITY closeWhenDone.label          "संलग्नक प्रबंधक बंद करें जब सारा संलग्नक पूरा होता है.">
+
+<!ENTITY fileTypes.label              "फाइल प्रकार">
+<!-- XXX this text string could improve --> 
+<!ENTITY fileTypesDescription.label   "निम्न हर फाइल प्रकार के साथ जुड़ा क्रिया स्वतः चलायें:">
+<!ENTITY fileTypeColName.label        "फाइल प्रकार">
+<!ENTITY fileHandlerColName.label     "अनुप्रयोग">
+<!ENTITY editFileHandler.label        "क्रिया बदलें...">
+<!ENTITY editFileHandler.accesskey    "a">
+<!ENTITY removeFileHandler.label      "हटायें">
+<!ENTITY removeFileHandler.accesskey  "r">
+
+<!ENTITY plugins.label                "प्लगिन...">
+<!ENTITY plugins.accesskey            "p">
+

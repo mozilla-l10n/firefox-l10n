@@ -1,0 +1,25 @@
+<!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+
+<!ENTITY messengerCmd.label					"Mail &amp; न्यूजग्रूप">
+<!ENTITY messengerCmd.accesskey				"m">
+<!ENTITY messengerCmd.commandkey			"1">
+<!ENTITY addressBookCmd.label				"पता पुस्तिका">  
+<!ENTITY addressBookCmd.accesskey			"a">
+<!ENTITY addressBookCmd.commandkey			"2">
+
+<!ENTITY taskMessenger.tooltip  "Mail &amp; न्यूजग्रूप">
+<!ENTITY taskAddressBook.tooltip  "पता पुस्तिका">
+
+<!-- searchAddressesCmd is also used by addressbook -->
+<!ENTITY searchAddressesCmd.label                       "पता खोजें...">
+<!ENTITY searchAddressesCmd.accesskey                   "A">
+
+<!ENTITY searchMailCmd.label "Search Messages...">
+<!ENTITY searchMailCmd.accesskey "e">
+<!ENTITY searchMailCmd.key "f">
+
+<!ENTITY javaScriptConsoleCmd.label                             "JavaScript Console">
+<!ENTITY javaScriptConsoleCmd.accesskey				"S">
+
+<!ENTITY tasksMenu.label "उपकरण">
+<!ENTITY tasksMenu.accesskey "T"> 

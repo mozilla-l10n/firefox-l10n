@@ -1,0 +1,244 @@
+<!ENTITY addressbookWindow.title                        "पता पुस्तिका">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label                                 "फाइल">
+<!ENTITY fileMenu.accesskey                             "f">
+<!ENTITY newMenu.label                                  "नया">
+<!ENTITY newMenu.accesskey                              "N">
+<!ENTITY newCard.label                                  "पता पुस्तिका कार्ड...">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newCard.accesskey                              "C">
+<!ENTITY newCard.key                                    "N">
+<!ENTITY newListCmd.label                               "डाकसूची...">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newListCmd.accesskey                           "L">
+<!ENTITY newAddressBookCmd.label                        "पता पुस्तिका...">
+<!ENTITY newAddressBookCmd.accesskey                    "B">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP निर्देशिका...">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newMessageCmd.label                            "संदेश">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "m">
+<!ENTITY closeCmd.label                                 "बंद करें">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "c">
+<!ENTITY printSetupCmd.label                            "पेज सेटअप...">
+<!ENTITY printSetupCmd.accesskey                        "u">
+<!ENTITY printPreviewCardViewCmd.label                  "छपाई पूर्वावलोकन कार्ड">
+<!ENTITY printPreviewCardViewCmd.accesskey              "v">
+<!ENTITY printPreviewAddressBook.label                  "छपाई पूर्वावलोकन पता पुस्तिका">
+<!ENTITY printPreviewAddressBook.accesskey              "B">
+<!ENTITY printCardViewCmd.label                         "कार्ड छापें...">
+<!ENTITY printCardViewCmd.accesskey                     "p">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
+<!ENTITY printCardViewCmd.key                           "P">
+<!ENTITY printAddressBook.label                         "पता पुस्तिका छापें...">
+<!ENTITY printAddressBook.accesskey                     "A">
+
+<!ENTITY quitApplicationCmdWin.label                    "निकास"> 
+<!ENTITY quitApplicationCmdWin.accesskey                "x">
+<!ENTITY quitApplicationCmd.label                       "छोड़ें"> 
+<!ENTITY quitApplicationCmd.accesskey                   "Q">
+<!ENTITY quitApplicationCmd.key "Q">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "संपादित करें">
+<!ENTITY editMenu.accesskey                             "e">
+<!ENTITY undoCmd.label                                  "वापस लें">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "u">
+<!ENTITY redoCmd.label                                  "फिर करें">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "r">
+<!ENTITY cutCmd.label                                   "काटें">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "t">
+<!ENTITY copyCmd.label                                  "कॉपी">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "c">
+<!ENTITY pasteCmd.label                                 "चिपकायें">
+<!ENTITY pasteCmd.key                                   "V">
+<!ENTITY pasteCmd.accesskey                             "p">
+<!ENTITY deleteCmd.label                                "मिटायें">
+<!ENTITY deleteCmd.key                                  "D">
+<!ENTITY deleteCmd.accesskey                            "d">
+<!ENTITY deleteAbCmd.label                              "पता पुस्तिका मिटायें">
+<!ENTITY deleteCardCmd.label                            "कार्ड मिटायें">
+<!ENTITY deleteCardsCmd.label                           "चयनित कार्ड मिटायें">
+<!ENTITY selectAllCmd.label                             "सबको चुनें">
+<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY selectAllCmd.accesskey                         "a">
+<!ENTITY swapFirstNameLastNameCmd.label                 "पहला/अंतिम नाम बदलें">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label                            "गुण...">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesCmd.key                              "i">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label                                 "देखें">
+<!ENTITY viewMenu.accesskey                             "v">
+<!ENTITY viewToolbarsMenu.label                         "टूलबार">
+<!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY showAbToolbarCmd.label                         "पता पुस्तिका टूलबार">
+<!ENTITY showAbToolbarCmd.accesskey                     "o">
+<!ENTITY showSearchToolbarCmd.label                     "खोज बार">
+<!ENTITY showSearchToolbarCmd.accesskey                 "e">
+<!ENTITY showTaskbarCmd.label                           "स्थिति बार">
+<!ENTITY showTaskbarCmd.accesskey                       "S">
+<!ENTITY customizeToolbar.label                         "पसंदीदा बनायें...">
+<!ENTITY customizeToolbar.accesskey                     "C">
+<!ENTITY showCardPane.label                             "कार्ड सार पैन">
+<!ENTITY showCardPane.accesskey                         "C">
+<!ENTITY menu_ShowNameAs.label                          "नाम ऐसे दिखायें">
+<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY firstLastCmd.label                             "पहला, अंतिम">
+<!ENTITY firstLastCmd.accesskey                         "f"> 
+<!ENTITY lastFirstCmd.label                             "अंतिम, पहला">
+<!ENTITY lastFirstCmd.accesskey                         "l">
+<!ENTITY displayNameCmd.label                           "प्रदर्शित नाम">
+<!ENTITY displayNameCmd.accesskey                       "d">
+<!ENTITY sortMenu.label                                 "इसके द्वारा छांटे">
+<!ENTITY sortMenu.accesskey                             "S">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "उपकरण">
+<!ENTITY tasksMenu.accesskey                            "T">
+<!ENTITY messengerCmd.label                             "Mail &amp; न्यूजग्रूप">
+<!ENTITY messengerCmd.accesskey                         "m">
+<!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY searchAddressesCmd.label                       "पता खोजें...">
+<!ENTITY searchAddressesCmd.accesskey                   "S">
+<!ENTITY importCmd.label                                "आयात...">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "निर्यात...">
+<!ENTITY exportCmd.accesskey                            "E">
+<!ENTITY preferencesCmd.label                           "विकल्प...">
+<!ENTITY preferencesCmd.key                             "O">
+<!ENTITY preferencesCmd.accesskey                       "O">
+<!ENTITY preferencesCmdUnix.label                       "वरीयता">
+<!ENTITY preferencesCmdUnix.accesskey                   "n"> 
+
+<!-- Help Menu -->
+<!ENTITY helpMenu.label                                 "मदद">
+<!ENTITY helpMenu.accesskey                             "H">
+<!ENTITY releaseCmd.label                               "रिलीज नोट्स">
+<!ENTITY releaseCmd.accesskey                           "R">
+<!ENTITY hintsAndTips.label                             "&brandShortName; मदद">
+<!ENTITY hintsAndTips.accesskey                         "h">
+<!ENTITY hintsAndTipsMac.commandkey                     "?">
+<!ENTITY aboutCmd.label                                 "&brandShortName; के बारे में">
+<!ENTITY aboutCmd.accesskey                             "A">
+
+<!-- Address Book Toolbar and Context Menus -->  
+<!ENTITY newcardButton.label                            "नया कार्ड">
+<!ENTITY newcardButton.accesskey                        "C">
+<!ENTITY newlistButton.label                            "नयी सूची">
+<!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY editButton.label                               "गुण">
+<!ENTITY editButton.accesskey                           "P">
+<!ENTITY newmsgButton.label                             "लिखें">
+<!ENTITY newmsgButton.accesskey                         "W">
+<!ENTITY newIM.label                                    "द्रुत संदेश">
+<!ENTITY newIM.accesskey                                "I">
+<!ENTITY deleteButton.label                             "मिटायेंं">
+<!ENTITY deleteButton.accesskey                         "D">
+<!ENTITY throbberItem.title                             "सक्रियता संकेतक">
+
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newcardButton.tooltip                          "एक नया पता पुस्तिका कार्ड बनायें">
+<!ENTITY newlistButton.tooltip                          "एक नयी सूची बनायें">
+<!ENTITY editButton.tooltip                             "चयनित कार्ड संपादित करें">
+<!ENTITY newmsgButton.tooltip                           "एक मेल संदेश भेजें">
+<!ENTITY newIM.tooltip                                  "एक द्रुत संदेश भेजें या चैट">
+<!ENTITY deleteButton.tooltip                           "चुना कार्ड निटायें या पता पुस्तिका">
+<!ENTITY throbber.tooltip                               "&vendorShortName; पर जायें होम पेज">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "पता पुस्तिका">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "नाम या ईमेल">
+<!ENTITY SearchNameOrEmail.accesskey                    "N">
+<!ENTITY clearButton.label                              "साफ करें">
+<!ENTITY clearButton.accesskey                          "C">
+<!ENTITY clearButton.tooltip                            "खोज मापदंड साफ करें और सारे प्रविष्टि को दिखायें">
+<!ENTITY advancedButton.label                           "उन्नत...">
+<!ENTITY advancedButton.accesskey                       "A">
+<!ENTITY advancedButton.tooltip                         "उन्नत पता खोज">
+<!ENTITY quickSearchCmd.key                             "k">
+
+<!-- Results Pane -->
+<!ENTITY GeneratedName.label                            "नाम">
+<!ENTITY GeneratedName.accesskey                        "N">
+<!ENTITY PrimaryEmail.label                             "ईमेल">
+<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY ScreenName.label                               "स्क्रीन नाम">
+<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY Company.label                                  "संगठन">
+<!ENTITY Company.accesskey                              "z">
+<!ENTITY NickName.label                                 "उपनाम">
+<!ENTITY NickName.accesskey                             "i">
+<!ENTITY SecondEmail.label                              "अतिरिक्त ईमेल">
+<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY Department.label                               "विभाग">
+<!ENTITY Department.accesskey                           "r">
+<!ENTITY JobTitle.label                                 "शीर्षक">
+<!ENTITY JobTitle.accesskey                             "T">
+<!ENTITY CellularNumber.label                           "मोबाइल">
+<!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY PagerNumber.label                              "पेजर">
+<!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY FaxNumber.label                                "फैक्स">
+<!ENTITY FaxNumber.accesskey                            "F">
+<!ENTITY HomePhone.label                                "फोन आवास">
+<!ENTITY HomePhone.accesskey                            "H">
+<!ENTITY WorkPhone.label                                "फोन कार्यालय">
+<!ENTITY WorkPhone.accesskey                            "W">
+<!ENTITY sortAscending.label                            "बढ़ते क्रम में">
+<!ENTITY sortAscending.accesskey                        "A">
+<!ENTITY sortDescending.label                           "घटते क्रम में">
+<!ENTITY sortDescending.accesskey                       "D">
+<!ENTITY _PhoneticName.label                            "ध्वन्यात्मक नाम">
+<!ENTITY _PhoneticName.accesskey                        "o">
+
+<!-- Results pane context menu -->
+<!ENTITY composeEmail.label                             "इसमें ईमेल लिखें">
+<!ENTITY composeEmail.accesskey                         "C">
+<!ENTITY deleteAddrBookCard.label                       "मिटायें">
+<!ENTITY deleteAddrBookCard.accesskey                   "D">
+<!ENTITY newAddrBookCard.label                          "नया कार्ड...">
+<!ENTITY newAddrBookCard.accesskey                      "N">
+<!ENTITY newAddrBookMailingList.label                   "नयी डाकसूची...">
+<!ENTITY newAddrBookMailingList.accesskey               "M">
+<!ENTITY addrBookCardProperties.label                   "गुण">
+<!ENTITY addrBookCardProperties.accesskey               "P">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "संपर्क">
+<!ENTITY home.heading                                   "घर">
+<!ENTITY other.heading                                  "अन्य">
+<!ENTITY phone.heading                                  "फोन">
+<!ENTITY work.heading                                   "कार्य">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "विवरण">
+<!ENTITY addresses.heading                              "पता">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "मानचित्र पायें">
+<!ENTITY mapIt.tooltip                                  "वेब से इस पता के लिये मानचित्र दिखायें">
+
+<!-- Status Bar -->
+<!ENTITY statusText.label "">
+
+<!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label "विंडो">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "नीचे लायें">
+<!ENTITY bringAllToFront.label "सबको सामने लायें">
+<!ENTITY zoomWindow.label "जूम">

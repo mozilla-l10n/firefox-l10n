@@ -1,0 +1,60 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                         "खंडित वेबसाइट रिपोर्ट करें">
+
+<!ENTITY privacyNotice.label                        "गोपनीयता नीति">
+<!ENTITY reportWizardPrivacy.description            "यह औज़ार विकास कार्य से जुड़ी टोली को बताती है कि कौन-सी साइटें &brandShortName; के साथ काम नहीं करती है, या फिर &brandShortName; बंद कर देती है. इस तरीके से आप हमारी मदद &brandShortName; उपयोक्ताओं के लिए यथा संभव बढ़िया अनुभव देने में कर सकते हैं. कृपया कुछ क्षण इसे पढ़ने के लिए दें ताकि आप जान सकें कि कैसे हम इन सूचनाओं का प्रयोग करते हैं ताकि आप इसमें भाग लें.">
+<!ENTITY reportWizardMustAgree.description          "जारी रखने के लिये आपको गोपनीयता नीति से सहमत होने की जरूरत है.">
+
+<!ENTITY dontShowPrivacyStatement.label             "आपने ऊपर की गोपनीयता नीति पढ़ा व स्वीकार किया है.">
+<!ENTITY dontShowPrivacyStatement.accesskey         "I">
+
+<!ENTITY reportForm.label                           "रिपोर्ट भरें">
+
+<!ENTITY reportForm.description                     "उस समस्या के बारे में बताएँ जिसका आपने सामना किया है:">
+<!ENTITY reportForm.url.title                       "वेब साइट URL:">
+
+<!ENTITY reportForm.behind_login.title              "वेब साइट शब्दकूट संरक्षित है"><!-- No ":" at the end -->
+<!ENTITY reportForm.behind_login.accesskey          "P">
+
+<!ENTITY reportForm.problem_type.title              "समस्या प्रकार:">
+<!ENTITY reportForm.problem_type.accesskey          "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title    "एक चुनें...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title        "ब्राउज़र समर्थित नहीं">
+<!ENTITY reportForm.problem_type.item2.title        "लॉगिन नहीं कर सकता">
+<!ENTITY reportForm.problem_type.item3.title        "प्लगिन नहीं दिखाया गया">
+<!ENTITY reportForm.problem_type.item4.title        "अन्य सामग्री गुम है">
+<!ENTITY reportForm.problem_type.item5.title        "व्यवहार गलत">
+<!ENTITY reportForm.problem_type.item6.title        "प्रकटन गलत">
+<!ENTITY reportForm.problem_type.item7.title        "अन्य समस्या">
+
+<!ENTITY reportForm.describe.title                  "समस्या बताएँ:">
+<!ENTITY reportForm.describe.accesskey              "D">
+
+<!ENTITY reportForm.platform.title                  "प्लेटफॉर्म:">
+<!ENTITY reportForm.product.title                   "उत्पाद:">
+<!ENTITY reportForm.gecko.title                     "गेको:">
+<!ENTITY reportForm.useragent.title                 "उपयोक्ताप्रतिनिधि:">
+<!ENTITY reportForm.language.title                  "भाषा:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                     "ईमेल (वैकल्पिक):">
+<!ENTITY reportForm.email.accesskey                 "E">
+
+<!ENTITY reportForm.privacyPolicy.title             "गोपनीयता नीति">
+<!ENTITY reportForm.privacyPolicy.tooltip           "गोपनीयता नीति देखें">
+
+<!ENTITY reportResults.showDetail.title             "विवरण दिखाएँ">
+<!ENTITY reportResults.showDetail.accesskey         "S">
+
+<!ENTITY sendReport.label                           "रिपोर्ट भेज रहा है">
+<!ENTITY sendReport.description                     "सर्वर को रिपोर्ट भेज रहा है...">
+
+<!ENTITY finish.label                               "रिपोर्ट भेजा गया">
+
+<!ENTITY reportForm.url.accesskey                   "U">
+
+<!ENTITY reportForm.problem_type.item8.title        "पहुँच निष्क्रिय कर रहा है">
+<!ENTITY reportForm.problem_type.item9.title        "छापा गया आउटपुट गलत है">

@@ -1,0 +1,16 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title             "फीड गुण">
+
+<!ENTITY feedFolder.label         "इसमें आलेख रखें: ">
+<!ENTITY feedFolder.accesskey     "S">
+
+<!ENTITY feedLocation.label       "URL फीड: ">
+<!ENTITY feedLocation.accesskey   "F">
+
+<!ENTITY choosethisfolder.label   "इस फोल्डर को चुनें">
+
+<!ENTITY quickMode.label          "वेब पेज के लोडिंग के बजाय आलेख सार दिखायें">
+<!ENTITY quickMode.accesskey      "h">
+
+<!ENTITY copyLinkCmd.label        "लिंक स्थान कॉपी करें"> 
+<!ENTITY copyLinkCmd.accesskey    "C"> 

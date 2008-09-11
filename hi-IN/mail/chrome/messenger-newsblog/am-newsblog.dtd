@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "RSS खाता जमावट">
+
+<!ENTITY biffStart.label "नये आलेख के लिये जांचें हर">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "मिनट">
+
+<!ENTITY loginAtStartup.label "आरंभ में नये आलेख के लिये जांचें"> 
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "मूलभूत रूप में आलेख सार दिखायें बजाय वेब पेज लोडिंग करने के"> 
+<!ENTITY useQuickMode.accesskey "B">
+
+<!ENTITY manageSubscriptions.label "सदस्यता प्रबंधित करें..."> 
+<!ENTITY manageSubscriptions.accesskey "M">
+
+<!-- entities from defaults/isp/rss.rdf -->
+<!ENTITY rss.accountName            "News &amp; ब्लॉग">
+<!ENTITY rss.wizardShortName        "RSS">  
+<!ENTITY rss.wizardLongName         "RSS News &amp; ब्लॉग">
+<!ENTITY rss.hostName               "News &amp; ब्लॉग">

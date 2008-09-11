@@ -1,0 +1,74 @@
+<!ENTITY  updateWizard.title              "सॉफ्टवेयर अद्यतन">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "अद्यतन के लिये जांच">
+<!ENTITY  checking.label                  "&brandShortName; अब अद्यतन के लिये जांच रहा है...">
+
+<!ENTITY  cancel.label                    "रद्द करें">
+<!ENTITY  cancel.accesskey                "C">
+
+
+<!ENTITY  noupdatesfound.intro            "अब कोई नया अद्यतन उपलब्ध नहीं है. &brandShortName; नये अद्यतन के लिये क्रमिक रूप से जांचेगा.">
+
+
+<!ENTITY  clickHere.label                 "इस अद्यतन के बारे में ज्यादा सूचना देखें">
+
+<!ENTITY  incompatible.warning            "यह अद्यतन आपके कुछ विस्तार का कारण और/या थीम को काम करने से रोकने के लिये जबतक वे अद्यतन किये जाते हैं.">
+<!ENTITY  listIncompatible.label          "सूची दिखायें">
+<!ENTITY  listIncompatible.accesskey      "L">
+
+<!ENTITY  upgrade.evangelism              "इसकी जोरदार अनुशंसा है कि आप अपना &brandShortName; यथाशीघ्र उन्नत करें.">
+<!-- LOCALIZATION NOTE (finishedBackground.textNotNow): This string describes the button label defined by notNowButton in updates.properties. -->
+<!ENTITY  finishedBackground.textNotNow   "अभी नहीं क्लिक करें इस संवाद को बंद करने के लिए और काम जारी रखने के लिए. &brandShortName;
+अद्यतन संस्थापित करेगा अगली बार जब यह आरंभ होता है.">
+<!ENTITY  incompatibleChecking.label      "जाँच रहा है यदि यह अद्यतन आपके विस्तार और/या प्रसंग के साथ समस्या का जन्म दे रहा है…">
+
+<!ENTITY  license.instructions            "अगर आप इस मसौदे से सहमत हैं, नीचे मैं सहमत हूं पर क्लिक करें इस अद्यतन के संस्थापन जारी रखने के लिये.">
+
+<!ENTITY  license.titleText               "सॉफ्टवेयर लाइसेंस मसौदा">
+<!ENTITY  license.introText               "इस सॉफ्टवेयर के प्रयोग के लिए शर्त व स्थिति.">
+<!ENTITY  license.instructionText         "कृपया निम्नलिखित लाइसेंस अनुबंध पढ़ें. स्क्रॉव बार को प्रयोग करें इस अनुबंध के शेष को देखने के लिए.">
+<!ENTITY  license.accept                  "मैं लाइसेंस अनुबंध की शर्त स्वीकार करता हूं">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "मैं लाइसेंस अनुबंध की शर्त स्वीकार नहीं करता हूं">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  downloading.title               "अद्यतन डाउनलोड कर रहा है">
+<!ENTITY  downloading.intro               "अद्यतन डाउनलोड कर रहा है...">
+<!ENTITY  connecting.label                "अद्यतन सर्वर में जोड़ रहा है...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; असमर्थ था यह जांचने के लिये डाउनलोड किया संवर्द्धित अद्यतन, इसलिये यह अब पूरा अद्यतन संकुल डाउनलोड कर रहा है.">
+
+<!ENTITY  details.link                    "विवरण">
+<!ENTITY  pause.label                     "ठहरें">
+<!ENTITY  pause.accesskey                 "e">
+<!ENTITY  close.label                     "बंद करें">
+<!ENTITY  close.accesskey                 "C">
+
+<!ENTITY  error.label                     "इस अद्यतन के जांचने, डाउनलोडिंग या संस्थापन के लिये समस्या थी. &brandShortName; को अद्यतन नहीं किया जा सका क्योंकि:">
+                                           
+<!ENTITY  errorManual.label               "आप &brandShortName; दस्ती रूप से अद्यतन कर सकते हैं लिंक पर जाकर और नवीनतम संस्करण डाुनलोड करके:">
+                                           
+<!ENTITY  errorpatching.title             "अद्यतन विफल">
+<!ENTITY  errorpatching.intro             "आंशिक अद्यतन लागू नहीं किया जा सका. 
+                                           &brandShortName; एक पूरे अद्यतन के डाउनलोड से इसे कोशिश करेगा.">
+
+<!ENTITY  finished.title                  "डाउनलोड किये को अद्यतन करें">
+
+<!ENTITY  finished.text                   "अद्यतन सफलतापूर्वक डाउनलोड व जांचा गया, और यह तब संस्थापित किया जायेगा जब अगली बार &brandShortName; आरंभ होता है.">
+
+<!ENTITY  finishedBackground.title        "अद्यतन संस्थापन के लिये तैयार है">
+<!ENTITY  finishedBackground.text         "&brandShortName; ने महत्वपूर्ण अद्यतन को डाउनलोड व जांचा. ज्यादा विवरण के लिए लिंक पर क्लिक करें.">
+<!ENTITY  finishedBackground.name         "अद्यतन:">
+<!ENTITY  finishedBackground.more1        "&brandShortName; को अब अद्यतन को फिर अधिष्टापित करने के लिए फिर आरंभ करें.">
+
+
+<!ENTITY  installed.title                 "संस्थापित किया अद्यतन करें">
+<!ENTITY  installed.intro                 "अद्यतन सफलतापूर्वक संस्थापित था.">
+<!ENTITY  whatsnew.label                  "क्या नया है इसके बारे में ज्यादा पढें...">
+
+<!ENTITY  update.details.label            "विवरण">
+<!ENTITY  update.installedOn.label        "इसपर संस्थापित:">
+<!ENTITY  update.status.label             "स्थिति:">
+<!ENTITY  noupdatesfound.title            "कोई अद्यतन नहीं मिला">

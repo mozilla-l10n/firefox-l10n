@@ -1,0 +1,6 @@
+<!ENTITY identityTitle.label "पहचान जमावट">
+<!ENTITY identityListDesc.label "इस पहचान के लिये जमावट विन्यस्त करें:">
+
+<!ENTITY settingsTab.label       "जमावट">
+<!ENTITY copiesFoldersTab.label " &amp; फोल्डर कॉपी करता है">
+<!ENTITY addressingTab.label    "संरचना &amp; पता">

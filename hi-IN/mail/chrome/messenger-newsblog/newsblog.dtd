@@ -1,0 +1,5 @@
+<!-- folder pane context menu item -->
+<!ENTITY folderContextRSSSubscribe.label    "सदस्यता प्रबंधित करें...">
+<!ENTITY folderContextRSSSubscribe.accesskey   "M">
+
+

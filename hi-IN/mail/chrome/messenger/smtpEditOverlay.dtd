@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "जमावट">
+<!ENTITY security.caption "सुरक्षा व सत्यापन">
+<!ENTITY serverName.label "सर्वर नाम:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "विवरण:">
+<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverPort.label "पोर्ट:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "उपयोक्ता नाम व शब्दकूट प्रयोग करें">
+<!ENTITY alwaysUseUsername.accesskey "U">
+<!ENTITY userName.label "उपयोक्ता नाम:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY isSecure.label "सुरक्षित संबंधन का प्रयोग करें:">
+<!ENTITY neverSecure.label "नहीं">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, अगर उपलब्ध है">
+<!ENTITY sometimesSecure.accesskey "a">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP सर्वर">
+<!ENTITY serverPortDefault.label "मूलभूत:">

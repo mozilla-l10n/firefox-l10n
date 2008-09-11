@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY viewPicker.label "देखें:">
+<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewPickerCustomView.label "मनोनुकूल करें...">
+<!ENTITY viewPickerAll.label "सभी">
+<!ENTITY viewPickerUnread.label "अपठित">

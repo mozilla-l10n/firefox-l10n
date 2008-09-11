@@ -1,0 +1,60 @@
+<!ENTITY itemGeneral.label                   "सामान्य">
+<!ENTITY itemAutoComplete.label              "संबोधन">
+<!ENTITY itemSpellCheck.label                "वर्तनी">
+<!ENTITY itemSendFormat.label                "प्रारूप भेजें">
+
+<!ENTITY forwardReply.label                   "संदेश अग्रसारण">
+<!ENTITY forwardMsg.label                     "संदेश अग्रसारित करें:">
+<!ENTITY forwardMsg.accesskey                 "f">
+<!ENTITY inline.label                         "अंतररेखीय">
+<!ENTITY inline.accesskey                     "I">
+<!ENTITY asAttachment.label                   "संलग्नक के रूप में">
+<!ENTITY asAttachment.accesskey               "A">
+
+<!ENTITY sendingMessagesHeader.label          "संदेश लिख रहा है">
+<!ENTITY spellCheck.label                     "भेजने के लिये पहले वर्तनी जांचें">
+<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheckInline.label               "वर्तनी सक्रिया करें जैसे आप टाइप करते हैं">
+<!ENTITY spellCheckInline.accesskey           "n">
+<!ENTITY languagePopup.label                  "भाषा:">
+<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY downloadDictionaries.label           "ज्यादा शब्दकोश डाउनलोड करें">
+
+<!ENTITY useMIME.label                        "संदेश जिसमें 8-bit संप्रतीक शामिल है, 'quoted printable' MIME एनकोडिंग का प्रयोग करें">
+<!ENTITY useMIME.accesskey                    "o">
+<!ENTITY warnOnSendAccelKey.label             "संपुष्ट करें जब कुंजीपटल शॉर्टकट को संदेश भेजने के लिये प्रयोग किया जा रहा हो">
+<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY autoSave.label                       "स्वतः सहेजें हर">
+<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSaveEnd.label                    "मिनट">
+<!ENTITY autoSaveEnd.accesskey                "m">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label                     "सादा पाठ संदेश को यहां पर लपेटें">
+<!ENTITY wrapOutMsg.accesskey                 "l">
+<!ENTITY char.label                           "संप्रतीक">
+
+<!ENTITY emailCollectionPicker.label           "स्वतः जोड़ें निर्गम ईमेल पता को मेरे:">
+<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY addressingTitle.label                 "पता स्वसमाप्ति">
+<!ENTITY autocompleteText.label                "जब संदेश में पता दिया जा रहा हो, मेल प्रविष्टि के लिये इसमें देखें:">
+<!ENTITY addressingEnable.label                "स्थानीय पता पुस्तिका">
+<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY directories.label                     "निर्देशिका सर्वर:">
+<!ENTITY directories.accesskey                 "D">
+<!ENTITY editDirectories.label                 "शब्दकोश संपादित करें...">
+<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY matchText.label                       "अगर आपके स्थानीय पता पुस्तिका में कोई मेल है:">
+<!ENTITY skipDirectory.label                   "निर्देशिका में मत खोजें">
+
+<!ENTITY sendOptionsCaption.label              "भेजें और HTML विकल्प">
+<!ENTITY sendOptionsDescription.label          "पाठ प्रारूप व्यवहार विन्यस्त करें">
+<!ENTITY sendOptions.label                     "प्रेषण विकल्प...">
+<!ENTITY sendOptions.accesskey                 "S">
+
+<!ENTITY htmlComposeDescription.label          "मूलभूत HTML विकल्प विन्यस्त करें">
+<!ENTITY htmlCompose.label                     "HTML विकल्प...">
+<!ENTITY htmlCompose.accesskey                 "H">
+
+<!ENTITY returnReceiptsInfo.label         "निर्धारित करें कि कैसे &brandShortName; वापसी रसीद नियंत्रित करता है">
+<!ENTITY showReturnReceipts.label         "वापसी रसीद...">
+<!ENTITY showReturnReceipts.accesskey     "R">

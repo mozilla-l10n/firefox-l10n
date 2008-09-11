@@ -1,0 +1,16 @@
+
+<!ENTITY addressbookPicker.label            "पता पुस्तिका:">
+<!ENTITY searchInput.label                  "इसके लिये खोजें:">
+<!ENTITY SearchNameOrEmail.label            "नाम या ईमेल">
+
+<!ENTITY addtoToFieldMenu.label             "प्रति क्षेत्र में जोड़ें">
+<!ENTITY addtoCcFieldMenu.label             "सीसी क्षेत्र में जोड़ें">
+<!ENTITY addtoBccFieldMenu.label            "बीसीसी क्षेत्र में जोड़ें">
+
+<!ENTITY toButton.label                     "प्रति में जोड़ें:">
+<!ENTITY ccButton.label                     "सीसी में जोड़ें:">
+
+
+
+
+

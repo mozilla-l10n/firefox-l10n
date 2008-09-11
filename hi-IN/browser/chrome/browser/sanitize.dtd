@@ -1,0 +1,21 @@
+<!ENTITY sanitizeDialog.title         "निजी आंकड़ा साफ करें">
+
+<!ENTITY sanitizeItems.label          "निम्न मद अब साफ करें:">
+<!ENTITY itemHistory.label            "ब्राउज़िग इतिहास">
+<!ENTITY itemHistory.accesskey        "B">
+<!ENTITY itemPasswords.label          "सहेजा गया शब्दकूट">
+<!ENTITY itemPasswords.accesskey      "P">
+<!ENTITY itemCookies.label            "कूकीज">
+<!ENTITY itemCookies.accesskey        "C">
+<!ENTITY itemCache.label              "कैश">
+<!ENTITY itemCache.accesskey          "a">
+<!ENTITY itemDownloads.label          "डाउनलोड इतिहास">
+<!ENTITY itemDownloads.accesskey      "D">
+<!ENTITY itemSessions.label           "सत्यापित सत्र">
+<!ENTITY itemSessions.accesskey       "S">
+<!ENTITY itemOfflineApps.label        "ऑफ़लाइन वेबसाइट आँकड़ा">
+<!ENTITY clearDataSettings.label      "जब मैं &brandShortName; से मेरा निजी आँकड़ा साफ करने के लिए पूछता हूँ, इसे मिटाना चाहिए:">
+<!ENTITY itemFormSearchHistory.label  "सहेजा प्रपत्र व खोज इतिहास">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemOfflineApps.accesskey    "O">
+<!ENTITY window.width                 "30em">

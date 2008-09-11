@@ -1,0 +1,56 @@
+<!ENTITY  history.label "इतिहास">
+
+<!-- LOCALIZATION NOTE:
+  The entities rememberBefore.label and rememberAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
+-->
+
+<!ENTITY  rememberDaysBefore.label      "मेरा इतिहास कम से कम रखें">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+
+<!ENTITY  acceptThirdParty.label        "तृतीय पक्षीय कुकी स्वीकार करें">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  rememberDaysAfter2.label      "दिन">
+
+<!ENTITY  rememberForms.label           "याद रखें जिसे मैं फॉर्म या खोज पट्टी में डालता हूँ">
+<!ENTITY  rememberForms.accesskey       "f">
+
+<!ENTITY  rememberDownloads.label       "याद रखें जिसे मैंने डाउनलोड किया है">
+<!ENTITY  rememberDownloads.accesskey   "d">
+
+
+<!ENTITY  cookies.label                 "कुकीज">
+
+<!ENTITY  acceptCookies.label           "साइट से कुकीज स्वीकारें">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  keepUntil.label               "जारी रखें जबतक:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "उनकी मियाद पूरी होती है">
+<!ENTITY  close.label                   "मैं &brandShortName; बंद करता हूँ">
+<!ENTITY  askEachTime.label             "मुझे हर बार पूछें">
+
+<!ENTITY  cookieExceptions.label        "अपवाद...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "कुकी दिखाएँ...">
+<!ENTITY  showCookies.accesskey         "S">
+
+
+<!ENTITY  privateData.label             "निजी आंकड़ा">
+
+<!ENTITY  alwaysClear.label              "हमेशा मेरे निजी आंकड़े को साफ करें जब मैं &brandShortName; को बंद करता हूँ">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  askBeforeClear.label           "मुझसे पूछें जब कभी निजी आंकड़ा साफ किया जा रहा हो">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  clearDataSettings.label        "सेटिंग...">
+<!ENTITY  clearDataSettings.accesskey    "t">
+
+<!ENTITY  clearDataNow.label             "अब साफ करें...">
+<!ENTITY  clearDataNow.label2            "अब साफ करें">
+<!ENTITY  clearDataNow.accesskey         "N">

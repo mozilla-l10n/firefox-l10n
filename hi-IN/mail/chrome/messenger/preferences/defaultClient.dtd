@@ -1,0 +1,13 @@
+<!ENTITY window.title                      "मूलभूत क्लाइंट जमावट">
+<!ENTITY window.width                      "400px">
+<!ENTITY checkNow.label                    "अब जांचें">
+<!ENTITY whenStartingCheckFor.label        "जब आरंभ किया जा रहा हो, &brandShortName; को यह देखने के लिये जांचना चाहिये कि यह इसके लिये मूलभूत अनुप्रयोग है">
+<!ENTITY mailApplication.label             "डाक">
+<!ENTITY mailApplication.accesskey         "M">
+<!ENTITY checkMailNow.accesskey            "C">
+<!ENTITY newsApplication.label             "समाचार">
+<!ENTITY newsApplication.accesskey         "N">
+<!ENTITY checkNewsNow.accesskey            "h">
+<!ENTITY rssFeeds.label                    "RSS फीड">
+<!ENTITY rssFeeds.accesskey                "R">
+<!ENTITY checkFeedAggregatorNow.accesskey  "e">

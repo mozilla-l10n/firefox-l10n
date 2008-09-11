@@ -1,0 +1,46 @@
+<!ENTITY itemGeneral.label       "सामान्य">
+<!ENTITY itemPhishing.label      "E-mail स्कैम">
+<!ENTITY itemPasswords.label     "शब्दकूट">
+<!ENTITY itemAntiVirus.label     "एंटीबायरस">
+<!ENTITY itemSecurity.label      "सुरक्षा">
+
+<!ENTITY disableImageInMailNews.label  "मेल संदेश में दूरस्थ चित्र के भारण को रोकें">
+<!ENTITY disableImageInMailNews.accesskey "B">
+<!ENTITY allowRemoteImagesForFriends.label  "दूरस्थ चित्र को अनुमति दें अगर प्रेषक है मेरे:">
+<!ENTITY allowRemoteImagesForFriends.accesskey "A">
+<!ENTITY enbJsCheckMailNews.label      "JavaScript को मेल संदेश में रोकें">
+<!ENTITY enbJsCheckMailNews.accesskey  "J">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector.intro      "&brandShortName; संदेश को संभावित ईमेल घोटाले के लिये विश्लेषित कर सकता है सामान्य तकनीक को देखते हुये आपको धोखा देने के लिये.">
+<!ENTITY enablePhishingDetector.label    "मेल संदेश को ईमेल घोटाले के लिये देखें">
+<!ENTITY enablePhishingDetector.accesskey  "C">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro         "&brandShortName; शब्दकूट सूचना आपके सारे खाता के लिये याद कर सकता है ताकि आप अपने लॉगिन विवरण को फिर डालने की जरूरत न रखें.">
+<!ENTITY  encryptEnabled.label        "एक मुख्य शब्दकूट रखें भंडारित शब्दकूट को गोपन के लिये">
+<!ENTITY  encryptEnabled.accesskey    "s">
+<!ENTITY  masterPassword.intro        "जब सेट होता है मुख्य शब्दकूट आपके सारे शब्दकूट की सुरक्षा करता है - लेकिन आप इसे एकबार प्रति व्यक्ति डालें.">
+<!ENTITY  setMasterPassword.label     "मुख्य शब्दकूट">
+<!ENTITY  setMasterPassword.accesskey "M">
+<!ENTITY  removeMasterPassword.label  "मुख्य शब्दकूट हटायें...">
+<!ENTITY  removeMasterPassword.accesskey "R">
+<!ENTITY  viewPasswords.label         "सहेजा शब्दकूट हटायें">
+<!ENTITY  viewPasswords.accesskey     "V">
+
+<!-- Security -->
+<!ENTITY certificates.label             "प्रमाणपत्र">
+<!ENTITY certificatesInfo.label         "प्रमाणपत्र प्रबंधित करें, रिवोकेशन सूची, प्रमाणपत्र जांच व सुरक्षा युक्ति.">
+<!ENTITY viewCertificates.label         "प्रमामपत्र देखें">
+<!ENTITY viewCertificates.accesskey     "i">
+<!ENTITY viewCRLs.label                 "रिवोकेशन सूची">
+<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewOCSP.label                 "जांच">
+<!ENTITY viewOCSP.accesskey             "f">
+<!ENTITY viewSecurityDevices.label      "सुरक्षा युक्ति">
+<!ENTITY viewSecurityDevices.accesskey  "u">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; एंटीबायरस के लिये आसान बनाता है आगत मेल संदेश के विश्लेषण के लिये स्थानीय रूप से रखें जाने के पहले वायरस के लिये.">
+<!ENTITY antiVirus.label      "एंटीबायरस क्लाइंट को निजी आगत संदेश को जबरदस्ती रोकने के लिये अनुमति दें">
+<!ENTITY antiVirus.accesskey  "l">

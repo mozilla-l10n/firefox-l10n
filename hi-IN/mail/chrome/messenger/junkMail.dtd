@@ -1,0 +1,44 @@
+<!ENTITY window.title "जंक मेल नियंत्रण">
+<!ENTITY mainDescription.label "&brandShortName; के पास जंक मेल जांचने के कई तरीके हैं. ये नियंत्रण आने वाले संदेश का मूल्यांकन करते हैं और उनको पहचानते हैं जो कि ज्यादा संभावना जंक मेल हों.">
+
+<!-- Tab titles -->
+<!ENTITY settingsTab.label "जमावट">
+<!ENTITY adaptiveTab.label "अनुकूलित फिल्टर">
+
+<!-- Settings tab -->
+<!ENTITY move.label "इसमें आने वाले संदेश में निर्धारित हो चुके जंक मेल को खिसकायें:">
+<!ENTITY otherFolder.label "अन्य:">
+<!ENTITY junkFolderOn.label "&quot;Junk&quot; इसपर फोल्डर:">
+<!ENTITY purge1.label "इससे पुराने जंक मेल संदेश को स्वतः मिटायें">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "इस फोल्डर से दिन">
+<!ENTITY manualMark.label "जब मैं खुद संदेश को जंक के रूप में चिह्नित करता हूं.:">
+<!ENTITY manualMarkModeMove.label "उनको &quot;Junk&quot; फोल्डर में खिसकायें">
+<!ENTITY manualMarkModeDelete.label "उनको मिटायें">
+<!ENTITY renderWithSafeHtml.label "जब HTML संदेश दिखाया जा रहा हो जो जंक के रूप में चिह्नित है, HTML स्वीकार्य बनायें">
+<!ENTITY log.label "लॉगिंग">
+<!ENTITY handling.label "नियंत्रण">
+
+<!ENTITY account.label "इसके लिये जंक स्थिति विन्यस्त करें:">
+<!ENTITY account.accesskey "C">
+<!ENTITY viewLog.label "जंक मेल लॉग">
+<!ENTITY viewLog.accesskey "j">
+
+<!ENTITY loggingDescription.label "जंक मेल लॉगिग को देखें व विन्यस्त करें.">
+
+<!-- Adaptive Filter tab -->
+
+<!ENTITY adaptiveCaption.label "अनुकूलित फिल्टर">
+<!ENTITY trainingWarning.label "अगर सक्रिय किया जाता है, आप पहले &brandShortName; को जंक मेल को पहचानने के लिये जंक टूलबार बटन को संदेश को जंक के रूप में चिह्नित करें. आपको जंक व गैर जंक दोनों को पहचानने के जरूरत है.">
+<!ENTITY level.label "अनुकूलित जंक मेल जांच सक्रिय करें">
+<!ENTITY level.accesskey "E">
+
+<!ENTITY resetTrainingDescription.label "अनुकूलित मेल फिल्टर को फिल्टर को फिर बताने के लिये फिर सेट करें:">
+<!ENTITY resetTrainingData.label "प्रशिक्षण आंकड़ा फिर सेट करें">
+<!ENTITY resetTrainingData.accesskey "R">
+
+<!ENTITY whitelist.label "संदेश को जंक के रूप में चिह्नित न करें अगर प्रेषक अंदर है: ">
+<!ENTITY whitelist.accesskey "D">
+
+<!ENTITY ispHeaders.label "इसके द्वारा सेट जंक मेल पर विश्वास करें: ">
+<!ENTITY ispHeaders.accesskey "T">

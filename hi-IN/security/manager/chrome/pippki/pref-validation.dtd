@@ -1,0 +1,88 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David P. Drinan (ddrinan@netscape.com)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY  pref.validation.title                   "वैधीकरण">
+
+<!ENTITY  validation.crl.caption                  "CRL">
+<!ENTITY  validation.crl.description              "CRL प्रबंधक का प्रयोग करें सर्टिफिकेट रिवोकेशन लिस्ट (CRL) को प्रबंधित करने के लिये जो कि आपके सर्टिफिकेट डाटाबेस में जमा है.">
+<!ENTITY  validation.managecrls.button            "CRLs का प्रबंधन करें...">
+<!ENTITY  validation.managecrls.accesskey         "M">
+<!ENTITY  validation.crlmanager.label             "CRLs का प्रबंधन करें">
+<!ENTITY  validation.crlname.label                "नाम">
+<!ENTITY  validation.crllastupdate.label          "अंतिम अद्यतन">
+<!ENTITY  validation.crlnextupdate.label          "अगला अद्यतन">
+<!ENTITY  validation.crlautoupdateenabled.label   "स्वचालित अद्यतन">
+<!ENTITY  validation.crlautoupdatestatus.label    "स्वचालित अद्यतन स्थिति">
+<!ENTITY  validation.deletecrl.label              "मिटायें">
+<!ENTITY  validation.deletecrl.accesskey          "D">
+<!ENTITY  validation.updatecrl.label              "अद्यतन करें">
+<!ENTITY  validation.updatecrl.accesskey          "U">
+<!ENTITY  validation.advanced.label               "जमावट">
+<!ENTITY  validation.advanced.accesskey           "S">
+
+<!ENTITY  validation.crl.autoupdate.title         "स्वचालित CRL अद्यतन वरीयता">
+<!ENTITY  validation.crl.autoupdate.enable.label  "इस CRL के लिये स्वचालित अद्यतन सक्रिय करें">
+<!ENTITY  validation.crl.autoupdate.time.label1   "अद्यतन करें">
+<!ENTITY  validation.crl.autoupdate.time.label2   "अगले अद्यतन तिथि के पहले दिन">
+<!ENTITY  validation.crl.autoupdate.freq.label1   "हर अद्यतन करें">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "दिन">
+<!ENTITY  validation.crl.autoupdate.url.label     "CRL इससे आयात किया जायेगा:">
+<!ENTITY  crl.import.status.title                 "CRL आयात स्थिति">
+<!ENTITY  crl.import.success.message              "सर्टिफिकेट रिवोकेशन लिस्ट (CRL) को सफलतपूर्वक आयात किया गया.">
+<!ENTITY  crl.issuer.label                        "CRL इसके द्वारा निर्गत:">
+<!ENTITY  crl.issuer.org.label                    "संगठन: ">
+<!ENTITY  crl.issuer.orgunit.label                "इकाई: ">
+<!ENTITY  crl.import.nextupdate.label             "अगला अद्यतन इसपर: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "पिछला लगातार अद्यतन विफलता: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "अंतिम अद्यतन विफलता का विवरण: ">
+<!ENTITY  edit.button                             "जमावट">
+<!ENTITY validation.ocsp.caption                  "ओसीएसपी">
+
+<!ENTITY enableOCSP.accesskey                     "U">
+<!ENTITY validation.requireOCSP.description       "जब OCSP सर्वर का कनेक्शन विफल रहता है, प्रमाणपत्र को अवैध समझें">
+<!ENTITY certOCSP2.accesskey                      "V">
+<!ENTITY proxyOCSP2.label                         "निम्नलिखित OCSP सर्वर के प्रयोग से सभी प्रमाणपत्र को वैध बनाएँ:">
+<!ENTITY validation.requireOCSP.accesskey         "W">
+<!ENTITY proxyOCSP2.accesskey                     "a">
+<!ENTITY certOCSP2.label                          "प्रमाणपत्र वैधीकृत करें यदि यह एक OCSP सर्वर निर्दिष्ट करता है">
+<!ENTITY enableOCSP.label                         "ऑनलाइन सर्टिफिकेट स्टेटस प्रोटोकॉल (OCSP) का प्रयोग करें प्रमाणपत्र की मौजूदा वैधता को संपुष्ट करने के लिए">
+<!ENTITY  validation.crlmanager.description       "ये सर्टिफिकेट रिवोकेशन लिस्ट (CRL) आपके प्रमाणपत्र डेटाबेस में जमा किया हुआ है:">
+
+<!ENTITY serviceURL.label                         "सेवा URL:">
+<!ENTITY serviceURL.accesskey                     "S">
+<!ENTITY signingCA.label                          "अनुक्रिया हस्ताक्षर:">
+<!ENTITY signingCA.accesskey                      "R">

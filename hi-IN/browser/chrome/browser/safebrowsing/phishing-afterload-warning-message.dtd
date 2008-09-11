@@ -1,0 +1,33 @@
+<!ENTITY safeb.palm.warning.title "संदेहास्पद वेब धोखाधड़ी">
+
+<!ENTITY safeb.palm.message.p1 "इस पृष्ठ को वेब धोखाधड़ी पेज के रूप में रिपोर्ट किया गया है जो उपयोक्ताओं से निजी या वित्तीय जानकारी धोखे से हासिल करता है. इस पृष्ठ पर किसी निजी सूचना को डालना पहचान चोरी या अऩ्य धोखे के रूप में परिणाम ला सकता है. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "अधिक पढ़ें &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "अधिक पढ़ें &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "इस प्रकार की वेब धोखाधड़ी फिशिंग हमले के रूप में जाने जानेवाले घोटाला में प्रयोग किया जाता है, जिसमें छद्म वेब पेज व ईमेल को प्रयोग किया जाता है जिसपर आप भरोसा करते हैं. इसके बारे में आप ज्यादा जान सकते हैं ">
+<!ENTITY safeb.palm.message.p2.linkText "कैसे &brandShortName; आपकी सुरक्षा करता है">
+<!ENTITY safeb.palm.message.p2.end " फिशिंग हमले से.">
+
+<!ENTITY safeb.palm.accept.label "यहां से मुझे निकालें!">
+<!ENTITY safeb.palm.accept.statustext "मेरे होम पेज में संचरण करें">
+<!ENTITY safeb.palm.decline.label "इस चेतावनी को अनदेखा करें">
+<!ENTITY safeb.palm.decline.statustext "चेतावनी बंद करें" >
+<!ENTITY safeb.urlbaricon.tooltip "यह पृष्ठ खतरनाक हो सकता है; विवरण के लिये क्लिक करें.">
+
+<!ENTITY safeb.blocked.malware.longDesc "<p>हमला साइट प्रोग्राम को संस्थापित करने के लिए कोशिश करता है जो निजी सूचना को चुराता है, आपके कंप्यूटर को दूसरे के हमले अथवा अपने सिस्टम को क्षति से बचाने के लिए प्रयोग करें.</p><p>कुछ हमला साइट जान बूझकर नुकसान देने वाले साफ्टवेयर को वितरित करता है, लेकिन बहुत लोगों को उनके मालिकों की अनुमति अथवा ज्ञान के क्षति पहुँचाया जाता है.</p>">
+
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malware.shortDesc "<span id='malware_sitename'/> पर स्थित वेबसाइट एक हमला साइट के रूप में रिपोट किया गया है और आपके सुरक्षा वरीयता के आधार पर रोका गया है.">
+
+<!ENTITY safeb.blocked.malware.title "रिपोर्ट की गई हमला साइट!">
+
+<!ENTITY safeb.blocked.phishing.longDesc "<p>वेब धोखाधड़ी उस स्रोतक नकल करके जिसको आप भरोसा करते हैं आपको फँसाने का तरीका है जिससे आप निजी अथवा वित्तीय सूचना खोल दें.</p><p>यह वेब पृष्ठ पर किसी सूचना को दाखिल करना पहचान की चोरी अथवा धोखा का परिणाम देता है.</p>">
+
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishing.shortDesc "<span id='phishing_sitename'/>  पर के वेबसाइट को एक वेब धोखाधड़ी के रूप में रिपोर्ट किया गया है और आपके सुरक्षा वरीयता के आधार पर रोका गया है.">
+
+<!ENTITY safeb.blocked.phishing.title "रिपोर्ट की गई वेब धोखाधड़ी!">
+
+<!ENTITY safeb.palm.notforgery.label2 "यह वेब धोखाधड़ी नहीं है…">
+
+<!ENTITY safeb.palm.report.label "यह साइट क्यों रोका हुआ था?">

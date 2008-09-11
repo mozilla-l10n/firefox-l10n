@@ -1,0 +1,101 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "सामान्य">
+
+<!ENTITY accessibility.label             "पहुँच">
+
+<!ENTITY useCursorNavigation.label       "पृष्ठ के अंदर संचरण के लिए हमेशा कर्सर का प्रयोग करें">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "टाइप करने के दौरान शुरू करते ही पाठ के लिए खोजें">
+<!ENTITY searchStartTyping.accesskey     "x">
+<!ENTITY blockAutoRefresh.label          "मुझे चेतावनी दें जब वेबसाइट पृष्ठ को पुनर्निर्देशित या पुनर्लोड करना चाहता है">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+<!ENTITY browsing.label                  "ब्राउज़िंग">
+
+<!ENTITY useAutoScroll.label             "स्वतः स्क्रॉलिंग का प्रयोग करें">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "सुगम स्क्रॉलिंग का प्रयोग करें">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkSpelling.label             "टाइप करना शुरू करने पर वर्तनी जाँचें">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "तंत्र तयशुदा">
+<!ENTITY alwaysCheckDefault.label        "हमेशा यह देखने के लिए जाँचें कि &brandShortName; आरंभन पर तयशुदा ब्राउजर है"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "अब जाँचें">
+<!ENTITY checkNow.accesskey              "N">
+
+<!ENTITY networkTab.label                "संजाल">
+
+<!ENTITY connection.label                "कनेक्शन">
+
+<!ENTITY connectionDesc.label            "विन्यस्त करें कि कैसे  &brandShortName; इंटरनेट से जुड़ता है">
+<!ENTITY connectionSettings.label        "सेटिंग…">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY offlineStorage.label            "ऑफ़लाइन भंडार">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "यहाँ तक प्रयोग करें">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "कैश के लिए MB स्थान">
+<!ENTITY clearCacheNow.label             "अब साफ करें">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!ENTITY updateTab.label                 "अद्यतन करें">
+
+<!ENTITY autoCheck.label                 "यहाँ अद्यतन के लिए स्वतः जाँचें:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate.label        "संस्थापित सहयुक्तियाँ">
+<!ENTITY enableAddonsUpdate.accesskey    "n">
+<!ENTITY enableSearchUpdate.label        "खोज इंजन">
+<!ENTITY enableSearchUpdate.accesskey    "h">
+<!ENTITY whenUpdatesFound.label          "जब &brandShortName; का अद्यतन पाया जाता है:">
+<!ENTITY askMe.label                     "मुझसे पूछें कि मैं क्या चाहता हूं">
+<!ENTITY askMe.accesskey                 "k">
+<!ENTITY modeAutomatic.label             "अद्यतन स्वतः डाउनलोड कर स्थापित करें">
+<!ENTITY modeAutomatic.accesskey         "d">
+<!ENTITY modeAutoAddonWarn.label         "मुझे चेताएँ यदि इससे मेरी कोई सहयुक्तियाँ निष्क्रिय होती हैं">
+<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY updateHistory.label             "अद्यतन इतिहास दिखाएँ">
+<!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY offlineNotify.label             "मुझे बताएँ कि कब वेबसाइट ऑफ़लाइन प्रयोग के लिए आँकड़ा जमा करने के लिए पूछता है">
+<!ENTITY offlineNotify.accesskey         "T">
+<!ENTITY offlineNotifyExceptions.label   "अपवाद…">
+<!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList.label           "निम्नलिखित वेबसाइट ने ऑफ़लाइन प्रयोग के लिए आँकड़ा जमा किया है:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "हटाएँ…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "ऑफ़लाइन आँकड़ा हटाएँ">
+
+<!ENTITY encryptionTab.label             "गोपन">
+
+<!ENTITY protocols.label                 "प्रोटोकॉल">
+<!ENTITY useSSL3.label                   "SSL 3.0 का प्रयोग करें">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 का प्रयोग करें">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "प्रमाणपत्र">
+<!ENTITY certSelection.description       "जब एक सर्वर मेरे निजी प्रमाणपत्र का आग्रह करता है:">
+<!ENTITY certs.auto                      "कोई एक स्वतः चुनें">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "मुझसे हमेशा पूछें">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "प्रमाणपत्र देखें">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCRLs.label                  "वापसी सूची">
+<!ENTITY viewCRLs.accesskey              "R">
+<!ENTITY verify2.label                   "सत्यापन">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति">
+<!ENTITY viewSecurityDevices.accesskey   "y">

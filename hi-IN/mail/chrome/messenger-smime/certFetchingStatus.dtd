@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "प्रमाणपत्र डाउनलोड कर रहा है">
+<!ENTITY info.message "प्राप्त कर्ता के प्रमाणपत्र के निर्देशिका खोज रहा है. यह कुछ समय लेगा.">
+<!ENTITY stop.label "खोज रोकें">

@@ -1,0 +1,5 @@
+#expand <!ENTITY  lang.version          "__MOZILLA_LOCALE_VERSION__">
+<!ENTITY  brandShortName        "थंडरबर्ड">
+<!ENTITY  brandFullName         "मोजिला थंडरबर्ड">
+<!ENTITY  vendorShortName       "मोजिला थंडरबर्ड">
+<!ENTITY  sidebarName           "साइडबार">

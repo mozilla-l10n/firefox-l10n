@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewListTitle.label "मनोनुकूल संदेश दृश्य">
+<!ENTITY viewName.label "नाम देखें">
+

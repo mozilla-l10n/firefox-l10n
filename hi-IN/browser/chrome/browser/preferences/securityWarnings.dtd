@@ -1,0 +1,12 @@
+<!ENTITY securityWarnings.title                   "सुरक्षा चेतावनी">
+<!ENTITY security.warn_when                       "चेतावनी संवाद दिखायें जब:">
+<!ENTITY security.warn_entering_secure.label      "मैं ऐन्कोड किया पृष्ठ देखने के करीब हूँ.">
+<!ENTITY security.warn_entering_secure.accesskey  "v">
+<!ENTITY security.warn_entering_weak.label        "मैं वह पृष्ठ देखनेवाला हूँ जिसका ऐन्कोडिंग कमजोर है.">
+<!ENTITY security.warn_entering_weak.accesskey    "g">
+<!ENTITY security.warn_leaving_secure.label       "गैर ऐन्कोडिंग पृष्ठ के लिए ऐन्कोडिंग पृष्ठ छोड़ा जाए.">
+<!ENTITY security.warn_leaving_secure.accesskey   "l">
+<!ENTITY security.warn_submit_insecure.label      "मेरे द्वारा सुपुर्द सूचना ऐन्कोडेड नहीं है.">
+<!ENTITY security.warn_submit_insecure.accesskey  "s">
+<!ENTITY security.warn_viewing_mixed.label        "मैं ऐसा ऐन्कोडेड पृष्ठ देखने वाला हूँ जिसमें गैर ऐन्कोडिंग सूचना है.">
+<!ENTITY security.warn_viewing_mixed.accesskey    "u">

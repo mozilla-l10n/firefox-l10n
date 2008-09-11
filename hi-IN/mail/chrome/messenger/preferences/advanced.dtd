@@ -1,0 +1,79 @@
+<!ENTITY itemGeneral.label       "सामान्य">
+<!ENTITY itemUpdate.label        "अद्यतन">
+<!ENTITY itemOffline.label       "ऑफलाइन &amp; डिस्क स्थान">
+
+<!-- General Settings -->
+
+<!ENTITY showCondensedAddresses.label  "मेरे पता पुस्तिका में सिर्फ प्रदर्शन नाम दिखायें">
+<!ENTITY showCondensedAddresses.accesskey "p">
+
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+<!ENTITY markAsRead.label              "प्रतीक्षा करें">
+<!ENTITY markAsRead.accesskey          "W">
+<!ENTITY markAsReadEnd.label           "पठित के रूप में संदेश को चिह्नित किये जाने के पहले दूसरा">
+<!ENTITY markAsReadEnd.accesskey       "d">
+<!ENTITY showFolderColumns.label       "फोल्डर पैन में विस्तारित कॉलम दिखायें">
+<!ENTITY showFolderColumns.accesskey   "f">
+<!ENTITY rememberLastMsg.label         "अंतिम चयनित संदेश याद करें">
+<!ENTITY rememberLastMsg.accesskey     "b">
+<!ENTITY reuseExp.label                "नये संदेश को इसमें खोलें:">
+<!ENTITY reuseExpRadio0.label          "एक नया संदेश विंडो">
+<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio1.label          "एक मौजूद संदेश विंडो">
+<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY connectionTimeout.label       "संबंधन समयसमाप्ति: ">
+<!ENTITY connectionTimeout.accesskey   "C">
+<!ENTITY connectionSeconds.label       "सेकेंड">
+<!ENTITY configEditDesc.label          "उन्नत विन्यास">
+<!ENTITY configEdit.label              "विन्यास संपादक...">
+<!ENTITY configEdit.accesskey          "g">
+
+<!-- Update -->
+<!ENTITY autoCheck.label                "इसमें अद्यतन के स्वतः जांचे:">
+<!ENTITY enableAppUpdate.label          "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey      "T">
+<!ENTITY enableExtensionUpdate.label    "संस्थापित विस्तार और थीम">
+<!ENTITY enableExtensionUpdate.accesskey "x">
+<!ENTITY checkNow.label                 "अब जांचें...">
+<!ENTITY appCheckNow.accesskey          "k">
+<!ENTITY extensionsCheckNow.accesskey   "h">
+<!ENTITY whenUpdatesFound.label         "जब अद्यतन &brandShortName; में नहीं मिला,">
+<!ENTITY modeAskMe.label                "मुझसे पूछें कि मैं क्या करना चाहता हूं">
+<!ENTITY modeAskMe.accesskey            "A">
+<!ENTITY modeAutomatic.label            "स्वतः डाउनलोड करें औऱ अद्यतन संस्थापित करें">
+<!ENTITY modeAutomatic.accesskey        "d">
+<!ENTITY modeAutoWarn.label             "चेतावनी दें अगर यह विस्तार या थीम को निष्क्रिय कर देगा">
+<!ENTITY modeAutoWarn.accesskey         "W">
+<!ENTITY showUpdates.label              "अद्यतन इतिहास दिखायें">
+<!ENTITY showUpdates.accesskey          "U">
+
+<!-- Offline and Disk Space -->
+<!ENTITY offline.label  "ऑफलाइन">
+<!ENTITY textStartUp   "जब आरंभ किया जा रहा हो:">
+<!ENTITY radioRememberPrevState "पिछला ऑनलाइन स्थिति याद करें">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe "आरंभ में ऑनलाइन स्थिति के लिये पूछें">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline "हमेशा ऑनलाइन शुरू करें">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "न भेजे गये मेल को भेजें जब ऑनलाइन हो रहे हों?">
+<!ENTITY radioAutoSend "हां">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend "नहीं">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "मुझसे पूछें">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "ऑफलाइन प्रयोग के लिये संदेश डाउनलोड करें जब ऑफलाइन हुआ जा रहा हो?">
+<!ENTITY radioAutoDownload "हां">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload "नहीं">
+<!ENTITY radioNotDownload.accesskey "o">
+<!ENTITY radioAskDownload "मुझसे पूछें">
+<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY Diskspace "डिस्क स्थान">
+<!ENTITY offlineCompact.label "संपृक्त फोल्डर जब यह सहेज लें">
+<!ENTITY offlineCompact.accesskey "v">
+<!ENTITY kb.label "KB">

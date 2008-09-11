@@ -1,0 +1,9 @@
+
+<!ENTITY  incompatible.title        "गैर सुसंगत मद">
+<!ENTITY  incompatible.intro        "निम्न मद सुसंगत नहीं है &brandShortName; में अद्यतन के साथ और निष्क्रिय किया जायेगा जब यह संस्थापित है:">
+<!ENTITY  incompatible.update       "&brandShortName; उनमें अद्यतन के लिये जांचेगा उस स्थिति में जब सुसंगत संस्करण उपलब्ध होता है.">
+<!ENTITY  incompatible.suffix       "&brandShortName; महत्वपूर्ण सुरक्षा तरक्की समाहित करता है. आपकी रक्षार्थ, यह अनुशंसित है कि आप &brandShortName; का अद्यतन करें जहांतक कि आपका विस्तार और थीम गैर सुसंगत बन जाता है.">
+                                     
+<!ENTITY  closebutton.label         "बंद करें">
+                                     
+                                     

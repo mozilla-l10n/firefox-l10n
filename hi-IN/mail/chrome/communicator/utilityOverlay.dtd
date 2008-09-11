@@ -1,0 +1,73 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY  offlineGoOfflineCmd.label                 "ऑफ़लाइन काम करें">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "w">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label					"फाइल"> 
+<!ENTITY fileMenu.accesskey				"f">
+<!ENTITY newMenu.label						"नया">
+<!ENTITY newMenu.accesskey					"N">
+
+<!ENTITY editMenu.label					"संपादित करें"> 
+<!ENTITY editMenu.accesskey				"e"> 
+<!ENTITY undoCmd.label						"वापस करें">  
+<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.accesskey					"u"> 
+<!ENTITY redoCmd.label						"फिर करें">  
+<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.accesskey					"r"> 
+<!ENTITY cutCmd.label						"काटें">  
+<!ENTITY cutCmd.key							"X">  
+<!ENTITY cutCmd.accesskey					"t"> 
+<!ENTITY copyCmd.label						"कॉपी करें">  
+<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.accesskey					"c"> 
+<!ENTITY pasteCmd.label						"चिपकायें">  
+<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.accesskey					"p"> 
+<!ENTITY deleteCmd.label					"मिटायें">  
+<!ENTITY deleteCmd.key						"D">  
+<!ENTITY deleteCmd.accesskey				"d"> 
+<!ENTITY selectAllCmd.label					"सबको चुनें">  
+<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.accesskey				"a"> 
+<!ENTITY preferencesCmd.label				"विकल्प...">
+<!ENTITY preferencesCmd.accesskey			"O"> 
+<!ENTITY preferencesCmdUnix.label       "प्राथमिकता">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+<!ENTITY findTypeTextCmd.label "पाठ पता करें जैसे आप टाइप करते हैं">
+<!ENTITY findTypeTextCmd.accesskey "x">
+
+<!ENTITY viewMenu.label					"देखें"> 
+<!ENTITY viewMenu.accesskey				"v"> 
+<!ENTITY viewToolbarsMenu.label				"टूलबार"> 
+<!ENTITY viewToolbarsMenu.accesskey			"T"> 
+<!ENTITY showTaskbarCmd.label					"प्रस्थिति बार">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!ENTITY direct.label                                   "ऑनलाइन (proxy: none)">
+<!ENTITY direct.accesskey                               "n">
+<!ENTITY manual.label                                   "ऑनलाइन (proxy: manual)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "ऑनलाइन (proxy: auto)">
+<!ENTITY pac.accesskey                                  "a">
+
+<!ENTITY proxy.label                                    "प्रॉक्सी विन्यास...">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY findTypeTextCmd.key        "/">
+<!ENTITY findTypeLinksCmd.key       "'">
+
+<!ENTITY closeCmd.label			"बंद करें">  
+<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.accesskey		"c">
+
+<!ENTITY quitApplicationCmd.label	"बाहर निकलें"> 
+<!ENTITY quitApplicationCmd.key		"Q"> 
+<!ENTITY quitApplicationCmd.accesskey	"x">
+
+<!ENTITY quitApplicationCmdUnix.label	"छोड़ें"> 
+<!ENTITY quitApplicationCmdUnix.accesskey	"q">
+

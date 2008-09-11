@@ -1,0 +1,66 @@
+<!ENTITY itemFormatting.label             "संरूपित कर रहा है">
+<!ENTITY itemLabels.label                 "लेबल">
+<!ENTITY itemFonts.label                  "फंट">
+
+<!ENTITY textBegin.label                  "उद्धृत सादा पाठ प्रकटन">
+<!ENTITY style.label                      "शैली:">
+<!ENTITY style.accesskey                  "y">
+<!ENTITY regularStyle.label               "सामान्य">
+<!ENTITY bold.label                       "बोल्ड">
+<!ENTITY italic.label                     "इटालिक">
+<!ENTITY boldItalic.label                 "बोल्ड इटालिक">
+<!ENTITY size.label                       "आकार:">
+<!ENTITY size.accesskey                   "s">
+<!ENTITY regularSize.label                "साामान्य">
+<!ENTITY bigger.label                     "बड़ा">
+<!ENTITY smaller.label                    "छोटा">
+<!ENTITY color.label                      "रंग:">
+<!ENTITY color.accesskey                  "c">
+<!ENTITY displayWidth.label               "सादा पाठ संदेश">
+<!ENTITY plainText.label				          "निम्न फंट का प्रयोग करें:">
+<!ENTITY displayText.label				        "जब उद्धृत सादा पाठ संदेश दिखाया जा रहा हो:">
+<!ENTITY viewingPlainText.label			      "जब सादा पाठ संदेश दिखाया जा रहा हो:">
+<!ENTITY fixedWidth.label                 "स्थिर चौड़ाई फंट">
+<!ENTITY fixedWidth.accesskey             "x">
+<!ENTITY variableWidth.label              "चर चौड़ाई फंट">
+<!ENTITY variableWidth.accesskey          "V">
+<!ENTITY readingMessagesHeader.label      "आनेवाले संदेश के लिये">
+<!ENTITY messageWrapping.label            "संदेश लपेटना">
+<!ENTITY wrapInMsg.label                  "विंडो चौड़ाई में फिट करने के लिये पाठ लपेटें">
+<!ENTITY wrapInMsg.accesskey              "W">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "आरेख के रूप में हाव-भाव दिखायें">
+<!ENTITY convertEmoticons.accesskey       "D">
+<!ENTITY htmlColors.label                 "HTML संदेश">
+<!ENTITY overrideSender.label             "HTML संदेश प्रदर्शन के दौरान, निम्न का प्रयोग करें:">
+<!ENTITY overrideSender.accesskey         "e"> 
+<!ENTITY  textColor.label                 "पाठ रंग:">
+<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  backgroundColor.label           "पृष्ठभूमि रंग:">
+<!ENTITY  backgroundColor.accesskey       "b">
+
+<!-- labels -->
+<!ENTITY labelsSettings.label       "लेबल">
+<!ENTITY displayLabelsText.label    "लेबल आपके संदेश को श्रेणीबद्ध व प्राथमिकता क्रम में करने में प्रयोग किया जा सकता है.">
+<!ENTITY restoreDefaults.label      "मूलभूत बनाये रखें">
+<!ENTITY restoreDefaults.accesskey  "R">
+
+<!-- Fonts -->
+<!ENTITY fontsDescription.label       "&brandShortName; के द्वारा प्रयुक्त फँट विन्यस्त करें">
+<!ENTITY fontsCaption.label      "फंट">
+<!ENTITY fontOptions.accesskey   "F">
+<!ENTITY fontOptions.label       "फंट...">
+
+<!-- Language settings -->
+
+<!ENTITY sendDefaultCharset.label         "निर्गम मेल:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle.label				  "संप्रतीक एनकोडिंग">
+<!ENTITY composingDescription.label       "मेल भेजने व पाने के लिये मूलभूत संप्रतीक एनकोडिंग सेट करें">
+
+<!ENTITY viewDefaultCharsetList.label     "आगत मेल:">
+<!ENTITY viewDefaultCharsetList.accesskey	"I">
+<!ENTITY forceCharsetOverride.label       "सारे आने वाले संदेश के लिये मूलभूत संप्रतीक एनकोडिंग लागू करें">
+<!ENTITY forceCharsetOverride.accesskey   "p">
+<!ENTITY replyInDefaultCharset.label      "जबाव में मूलभूत संप्रतीक एनकोडिंग डालें">
+<!ENTITY replyInDefaultCharset.accesskey   "h">

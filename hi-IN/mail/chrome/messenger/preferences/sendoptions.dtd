@@ -1,0 +1,39 @@
+<!ENTITY dialog.title                 "विकल्प भेजें">
+<!ENTITY sendMail.title               "पाठ प्रारूप">
+<!ENTITY sendMaildesc.label           "HTML प्रारूप में संदेश भेजने के दौरान और एक या अधिक प्राप्तकर्ता को HTML में प्राप्त करने के लिये नहीं सूचीबद्ध है:">
+<!ENTITY askMe.label                  "मुझसे पूछें कि मुझे क्या करना है">
+<!ENTITY askMe.accesskey              "k">
+<!ENTITY convertPlain.label           "सादे पाठ में संदेश को बदलें">
+<!ENTITY convertPlain.accesskey       "c">
+<!ENTITY sendHTML.label               "HTML में संदेश किसी तरह भेजें">
+<!ENTITY sendHTML.accesskey           "s">
+<!ENTITY sendBoth.label               "सादे पाठ औऱ HTML दोनों में मेल भेजें">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY receiveHTML.label            "अगर आप जानते हैं कि एक खास प्राप्तकर्ता HTML डाक प्राप्त कर सकते हैं, सादे पाठ के रूप में ईमेल भेजें ( HTML नहीं)' प्राप्तकर्ता के पता पुस्तिका कार्ड पर जांचपेटी में.">
+<!ENTITY override.label               "नोट: पता पुस्तिका को प्रयोग करें प्राप्तकर्ता के लिये वरीयतापूर्ण पाठ प्रारूप में.">
+
+<!ENTITY domaindesc.label             "नीचे सूचीबद्ध डोमेन नाम में से एक के साथ जब आप एक पता पर संदेश भेजते हैं, &brandShortName; स्वतः सही प्रारूप में संदेश भेजता है.">
+<!ENTITY HTMLTab.label                "HTML डोमेन">
+<!ENTITY HTMLTab.accesskey            "h">
+<!ENTITY PlainTextTab.label           "सादा पाठ डोमेन">
+<!ENTITY PlainTextTab.accesskey       "p">
+<!ENTITY AddButton.label              "जोड़ें...">
+<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "मिटायें">
+<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!ENTITY add.htmltitle                "HTML डोमेन नाम">
+<!ENTITY add.htmldomain               "HTML डोमेन नाम:">
+<!ENTITY add.htmldomain.accesskey     "d">
+<!ENTITY add.plaintexttitle           "सादा पाठ डोमेन नाम जोड़े">
+<!ENTITY add.plaintextdomain          "सादा पाठ डोमेन नाम:">
+<!ENTITY add.plaintext.accesskey      "d">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY domainnameError.title        "डोमेन नाम त्रुटि">
+<!ENTITY duplicationError.label       "सूची में डोमेन नाम @string@ पहले से मौजूद है.">
+
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY dualEntryError.label         "डामेन नाम HTML और सादा पाठ सूची दोनों में नहीं दिख सकता है. डोमेन नाम @string@ पहले से मौजूद है.">

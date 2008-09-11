@@ -1,0 +1,8 @@
+<!ENTITY junkLog.title "जंक मेल लॉग">
+<!ENTITY junkLogInfo.text "जंक मेल लॉग इस खाते पर जंक मेल क्रियाकलाप को दस्तावेजित करता है. लॉगिंग सक्रिय करने के लिये जांचपेटी का प्रयोग करें.">
+<!ENTITY clearLog.label "लॉग साफ करें">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY enableLog.label "जंक मेल लॉग सक्रिय करें">
+<!ENTITY enableLog.accesskey "E">
+<!ENTITY closeLog.label "बंद करें">
+<!ENTITY closeLog.accesskey "o">

@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "डिस्क स्थान सहेजने के लिये, डाउनलोड मत करें:">
+<!ENTITY doNotDownload.label "डिस्क स्थान सहेजने के लिये, ऑफलाइन प्रयोग के लिये डाउनलोड मत करें:">
+<!ENTITY offlineNewFolder.label "जब मैं नया फोल्डर बनाता हूं, उनको ऑफलाइन प्रयोग के लिये चुनें">
+<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY offlineNotDownload.label "इससे बड़ा संदेश">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "दिन">
+<!ENTITY daysOld.label "दिन पुराना">
+<!ENTITY message.label "संदेश">
+<!ENTITY nntpNotDownloadRead.label "संदेश पढ़े">
+<!ENTITY nntpNotDownloadRead.accesskey "R">
+<!ENTITY nntpDownloadMsg.label "इससे ज्यादा संदेश">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "डिस्क स्थान प्राप्त करने के लिये, पुराना संदेश को स्थायी रूप से मिटा दिया जायेगा">
+<!ENTITY retentionKeepMsg.label "इससे ज्याादा संदेश मिटायें">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "किसी संदेश को मत मिटायें">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepNew.label "अंतिम छोड़कर सभी मिटायें">
+<!ENTITY retentionKeepNew.accesskey "l">
+<!ENTITY retentionKeepUnread.label "पठित संदेश हमेशा मिटायें">
+<!ENTITY retentionKeepUnread.accesskey "r">
+<!ENTITY nntpRemoveBody.label "इससे कम संदेश शरीर">
+<!ENTITY nntpRemoveBody.accesskey "O">
+<!ENTITY offlineSelectNntp.label "ऑफलाइन प्रयोग के लिये न्यूजग्रूप चुनें...">
+<!ENTITY offlineSelectImap.label "ऑफलाइन प्रयोग के लिये चुनें...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "आप अपना संदेश स्थानीय रूप से डाउनलोड नहीं कर सकते हैं ताकि वे उपलब्ध हो सकें जब आप ऑफलाइन काम करते हैं.">
+<!ENTITY makeInboxMsgsAvailable.label "मेरे इनबॉक्स में संदेश उपलब्ध करायें जब मैं ऑफलाइन काम करूं">
+<!ENTITY makeInboxMsgsAvailable.accesskey "b">
+<!ENTITY offlineGroupTitle.label "ऑफलाइन">
+<!ENTITY diskspaceGroupTitle.label "डिस्क स्थान">

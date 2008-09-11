@@ -1,0 +1,89 @@
+<!-- Labels -->
+<!ENTITY chooseAddressBook.label         "इसमें जोड़ें: ">
+<!ENTITY chooseAddressBook.accesskey     "A">
+
+<!-- Contact Tab -->
+<!ENTITY Contact.tab                     "संपर्क"> 
+<!ENTITY Name.box                        "नाम"> 
+<!-- LOCALIZATION NOTE: 
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName"> 
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName"> 
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY NameField1.label               "पहला:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "अंतिम">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "ध्वन्यात्मक:">
+<!ENTITY PhoneticField2.label           "ध्वन्यात्मक:">
+<!ENTITY DisplayName.label              "प्रदर्शन:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY NickName.label                 "उपनाम:">
+<!ENTITY NickName.accesskey             "N">
+<!ENTITY Internet.box                   "इंटरनेट">
+<!ENTITY PrimaryEmail.label             "ईमेल:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "अतिरिक्त ईमेल:">
+<!ENTITY SecondEmail.accesskey          "o">
+<!ENTITY PreferMailFormat.label         "संदेश इस रूप में संरूपित पाना पसंद करता है:">
+<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PlainText.label                "सादा पाठ">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "अनजान">
+<!ENTITY ScreenName.label               "स्क्रीननाम:">
+<!ENTITY ScreenName.accesskey           "S">
+<!ENTITY Phones.box                     "फोन">
+<!ENTITY WorkPhone.label                "कार्यालय:">
+<!ENTITY WorkPhone.accesskey            "W">
+<!ENTITY HomePhone.label                "आवास:">
+<!ENTITY HomePhone.accesskey            "H">
+<!ENTITY FaxNumber.label                "फैक्स:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "पेजर:">
+<!ENTITY PagerNumber.accesskey          "P">
+<!ENTITY CellularNumber.label           "मोाबाइल:">
+<!ENTITY CellularNumber.accesskey       "M">
+
+<!-- Address Tab -->
+<!ENTITY Address.tab                    "पता"> 
+<!ENTITY Home.box                       "घर"> 
+<!ENTITY HomeAddress.label              "पता:"> 
+<!ENTITY HomeAddress2.label             ""> 
+<!ENTITY HomeCity.label                 "शहर:"> 
+<!ENTITY HomeState.label                "राज्य/प्रदेश:"> 
+<!ENTITY HomeZipCode.label              "ZIP/पोस्टल कोड:"> 
+<!ENTITY HomeCountry.label              "देश:">
+<!ENTITY HomeWebPage.label              "वेब पेज:"> 
+<!ENTITY Work.box                       "काम"> 
+<!ENTITY JobTitle.label                 "शीर्षक:"> 
+<!ENTITY Department.label               "विभाग:"> 
+<!ENTITY Company.label                  "संगठन:"> 
+<!ENTITY WorkAddress.label              "पता:"> 
+<!ENTITY WorkAddress2.label             ""> 
+<!ENTITY WorkCity.label                 "शहर:"> 
+<!ENTITY WorkState.label                "राज्य/प्रदेश:"> 
+<!ENTITY WorkZipCode.label              "ZIP/पोस्टल कोड:"> 
+<!ENTITY WorkCountry.label              "देश:">
+<!ENTITY WorkWebPage.label              "वेब पेज:"> 
+
+<!-- Other Tab -->
+<!ENTITY Other.tab                      "अन्य">
+<!ENTITY Custom1.label                  "पसंदीदा 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "पसंदीदा 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "पसंदीदा 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "पसंदीदा 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.box                      "नोट">

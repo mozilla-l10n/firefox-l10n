@@ -1,0 +1,19 @@
+<!ENTITY about.version                "संस्करण">
+
+<!ENTITY about.copy.beforeLink        "कॉपीराइट &copy; 1998-2008 द्वारा">
+<!ENTITY about.copy.linkTitle         "योगदानकर्ता">
+<!ENTITY about.copy.afterLink         "मोज़िला परियोजना में.">
+
+<!ENTITY about.license.beforeLink     "पढ़ें">
+<!ENTITY about.license.linkTitle      "लाइसेंसिंग सूचना">
+<!ENTITY about.license.afterLink      "इस उत्पाद के लिए.">
+
+<!ENTITY about.relnotes.beforeLink    "पढ़ें">
+<!ENTITY about.relnotes.linkTitle     "रिलीज नोट्स">
+<!ENTITY about.relnotes.afterLink     "इस संस्करण के लिए.">
+
+<!ENTITY about.buildconfig.beforeLink "देखें">
+<!ENTITY about.buildconfig.linkTitle  "बिल्ड विन्यास">
+<!ENTITY about.buildconfig.afterLink  "इस संस्करण के लिए प्रयुक्त.">
+
+<!ENTITY about.buildIdentifier        "बिल्ड पहचानकर्ता: ">

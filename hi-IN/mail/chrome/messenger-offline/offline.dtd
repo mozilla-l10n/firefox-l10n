@@ -1,0 +1,15 @@
+<!ENTITY offlineMenu.label "ऑफलाइन">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY synchronizeOfflineCmd.label "डाउनलोड/सिंक करें अब...">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd.label "ऑफलाइन जमावट...">
+<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "चयनित संदेश पायें">
+<!ENTITY downloadSelectedCmd.accesskey "M">
+<!ENTITY downloadFlaggedCmd.label "फ्लैग संदेश पायें">
+<!ENTITY downloadFlaggedCmd.accesskey "F">
+
+<!ENTITY prefOfflineConnection.label "ऑफलाइन व संबंधन जमावट">
+<!ENTITY prefOfflineDesc.label "ऑफलाइन जमावट प्रबंधित करें.">
+<!ENTITY prefOfflineButton.label "ऑफलाइन जमावट...">
+<!ENTITY prefOfflineButton.accesskey "O">

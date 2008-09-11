@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "उन्नत खाता जमावट">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "उन्नत IMAP सर्वर जमावट">
+<!ENTITY serverDirectory.label "IMAP सर्वर निर्देशिका:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "सिर्फ सदस्यता लिया फोल्डर दिखायें">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "सर्वर उन फोल्डर का समर्थन करता है जो कि उप फोल्डर और संदेश शामिल करता है">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "IDLE समादेश का प्रयोग करें अगर सर्वर इसको समर्थन करता है">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "कैश के लिये सर्वर संबंधन की अधिकतम संख्या">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "ये वरीयता आपके IMAP सर्वर पर नेमस्पेस को निर्दिष्ट करता है">
+<!ENTITY personalNamespace.label "निजी नेमस्पेस:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "सार्वजनिक (shared):">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "अन्य उपयोक्ता:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "इन नेमस्पेस के अध्यारोहन के लिये सर्वर को अनुमति दें">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "जब इस सर्वर के लिये पॉपअप मेल डाउनलोड किया जा रहा हो, नये मेल के लिये निम्न फोल्डर प्रयोग करें:" >
+<!ENTITY folderStorage.label "मेल कहां रखना है">
+<!ENTITY globalInbox.label "वैश्विक इनबॉक्स (Local Folders Account)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "इस सर्वर खाता के लिये इनबॉक्स">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "अलग खाता के लिये इनबॉक्स">
+<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferGetNewMail.label "नया मेल आने पर इस सर्वर को शामिल करें">
+<!ENTITY deferGetNewMail.accesskey "I">

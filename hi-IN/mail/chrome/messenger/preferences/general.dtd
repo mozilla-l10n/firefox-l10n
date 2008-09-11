@@ -1,0 +1,40 @@
+<!ENTITY generalSettings.caption            "मूलभूत जमावट">
+<!ENTITY generalSettings.label             "&brandShortName; को मूलभूत अनुप्रयोग इसके लिये बनायें:">
+<!ENTITY setDefaultMailClient.label        "डाक">
+<!ENTITY setDefaultMailClient.accesskey    "M">
+<!ENTITY setDefaultNewsClient.label        "समाचार">
+<!ENTITY setDefaultNewsClient.accesskey    "N">
+<!ENTITY setDefaultFeedClient.label        "RSS फीड">
+<!ENTITY setDefaultFeedClient.accesskey    "F">
+<!ENTITY checkDefaultMailClient.label      "&brandShortName; को जांचना चाहिये यह देखने के लिये कि यह मूलभूत मेल क्लाइंट है जब आरंभ किया जा रहा हो">
+<!ENTITY checkDefaultMailClient.accesskey  "n">
+<!ENTITY defaultClientAdvanced.label       "उन्नत...">
+<!ENTITY defaultClientAdvanced.accesskey   "d">
+
+<!ENTITY windowSettings.label             "विंडो विन्यास">
+<!ENTITY selectWindowLayout.label         "मेल के लिये विंडो लेआउट चुनें पसंदीदा.">
+<!ENTITY selectWindowLayout.accesskey     "S">
+
+<!ENTITY messengerStartPage.label         "&brandShortName; आरंभ पृष्ठ">
+<!ENTITY enableStartPage.label            "जब &brandShortName; आता है, संदेश क्षेत्र में आरंभ पेज दिखायें">
+<!ENTITY enableStartPage.accesskey        "W">
+<!ENTITY location.label                   "स्थान:">
+<!ENTITY location.accesskey               "L">
+<!ENTITY useDefault.label                 "मूलभूत बनायें रखें">
+<!ENTITY useDefault.accesskey             "R">
+
+<!ENTITY bounceSystemDockIcon.label       "डॉक आइकन एनीमेट करें">
+<!ENTITY bounceSystemDockIcon.accesskey   "i">
+
+<!ENTITY newMessagesArrive.label          "जब नया संदेश आता है:">
+<!ENTITY playSound.label                  "ध्वनि चलायें">
+<!ENTITY playSound.accesskey              "P">
+<!ENTITY showAnimatedAlert.label          "एक चेतावनी दिखायें">
+<!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY soundbutton.label                "उन्नत...">
+<!ENTITY soundbutton.accesskey            "A">
+
+<!ENTITY showConnections.label         "संबंधन जमावट...">
+<!ENTITY showConnections.accesskey     "o">
+<!ENTITY proxiesInfo.label             "निश्चित करें कि कैसे &brandShortName; इंटरनेट से जुड़ता है.">
+<!ENTITY connectionsInfo.caption       "संबंधन">

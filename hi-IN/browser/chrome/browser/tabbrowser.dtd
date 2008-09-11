@@ -1,0 +1,18 @@
+<!ENTITY  untitledTab            "(बेनाम)">
+<!ENTITY  newTab.label           "नया टैब">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "टैब बंद करें">
+<!ENTITY  closeTab.accesskey         "c">
+<!ENTITY  closeOtherTabs.accesskey  "o">
+<!ENTITY  closeOtherTabs.label   "दूसरे टैब बंद करें">
+<!ENTITY  reloadAllTabs.label    "सभी टैब फिर लोड करें">
+<!ENTITY  reloadAllTabs.accesskey         "A">
+<!ENTITY  reloadTab.label        "टैब फिर लोड करें">
+<!ENTITY  reloadTab.accesskey         "r">
+<!ENTITY  listAllTabs.label      "सभी टैब की सूची दें">
+<!ENTITY  bookmarkAllTabs.label       "सभी टैब पुस्तचिह्नित करें…">
+<!ENTITY  bookmarkAllTabs.accesskey   "T">
+<!ENTITY  bookmarkThisTab.label       "यह टैब पुस्तचिह्नित करें">
+<!ENTITY  bookmarkThisTab.accesskey   "B">
+<!ENTITY  undoCloseTab.label          "बंद टैब पहले जैसा करें">
+<!ENTITY  undoCloseTab.accesskey      "U">

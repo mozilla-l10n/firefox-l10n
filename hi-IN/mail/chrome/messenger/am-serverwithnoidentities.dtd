@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "खाता जमावट">
+<!ENTITY accountSettingsDesc.label "निम्नलिखित विशेष खाता है.  इसके साथ कोई पहचान जुडी नहीं है.">
+<!ENTITY accountName.label "खाता नाम:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "संदेश भंडारण">
+<!ENTITY emptyTrashOnExit.label "निकलने पर रद्दी खाली करें">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY localPath.label "स्थानीय निर्देशिका:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY localFolderPicker.label "स्थानीय निर्देशिका चुनें">
+<!ENTITY browseFolder.label "ब्रॉउज करें...">
+<!ENTITY browseFolder.accesskey "B">

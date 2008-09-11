@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML मेल प्रश्न">
+
+<!ENTITY recipient.label "कुछ प्राप्तकर्ता सूचीबद्ध नहीं है HTML मेल प्राप्त करने में समर्थ के रूप में.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "आपका संदेश सादे पाठ में बदला जायेगा बिना किसी सूचना को छोड़े हुये.">
+<!ENTITY convertibleAltering.label "आपका संदेश सादे पाठ में बदला जायेगा बिना किसी महत्वपूर्ण सूचना को छोड़े हुये. हालांकि, सादा पाठ संस्करण अलग लग सकता है जैसा आपने कंपोजर में देखा है.">
+<!ENTITY convertibleNo.label "बहरहाल, आपने संरूपण (उदा. रंग) का प्रयोग किया है जो कि सादे पाठ में बदला जायेगा.">
+
+<!ENTITY question.label "क्या आप संदेश को सादे पाठ में बदलना चाहेंगे या इसे HTML में किसी तरह भेजना चाहेंगे?">
+
+<!ENTITY plainTextAndHtml.label "सादे पाठ औऱ HTML में भेजें ">
+<!ENTITY plainTextOnly.label "सिर्फ सादे पाठ में भेजें ">
+<!ENTITY htmlOnly.label "सिर्फ HTML में भेजें">
+
+<!ENTITY plainTextAndHtmlRecommended.label "सादे पाठ औऱ HTML में भेजें (अनुशंसित)">
+<!ENTITY plainTextOnlyRecommended.label "सिर्फ सादे पाठ में भेजें (अनुशंसित)">
+<!ENTITY htmlOnlyRecommended.label "सिर्फ HTML में भेजें (अनुशंसित)">
+<!ENTITY recommended.label "(अनुशंसित)">
+
+<!ENTITY send.label "भेजें">
+<!ENTITY cancel.label "रद्द करें">
+<!ENTITY recipients.label "प्राप्तकर्ता...">
+<!ENTITY help.label "मदद">

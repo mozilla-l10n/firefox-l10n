@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "इस खाता से जुडी पहचान">
+<!ENTITY identitiesListDesc.label "बहुल पहचान समर्थन">
+<!ENTITY identitiesListAdd.label  "जोडें...">
+<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListEdit.label "संपादित करें...">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "मिटायें">
+<!ENTITY identitiesListDelete.accesskey "D">

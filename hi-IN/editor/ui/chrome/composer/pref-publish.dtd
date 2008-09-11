@@ -1,0 +1,19 @@
+<!-- extracted from content/pref-publish.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+<!ENTITY  pref.publish.title     "प्रकाशित करें">
+<!ENTITY  composerHeader.label   "प्रकाशित करें">
+<!ENTITY  maintainCheckbox.label "लिंक रखरखाव करें">
+<!ENTITY  keepCheck.label        "इस पृष्ठ के साथ चित्र रखें">
+
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  adjustDesc.label       "पेज स्थिति से काम करने के लिये लिंक को समायोजित करें. (स्थानीय पृष्ठ में लिंक तब काम करता है जब स्थानीय संस्करण मौजूद रहता है.)           ">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  saveDesc.label         "पृष्ठ अवस्थिति पर चित्र की कॉपी सहेजें.  चित्र हमेशा पेज के स्थानीय संस्करण में प्रकट होगा और जब पृष्ठ प्रकाशित होता है.">
+<!ENTITY  tip.label              "संकेत: दोनों विकल्प जांचें अगर आप दूरस्थ प्रकाशन का प्रयोग कर रहे हैं.">
+<!ENTITY  defaultHeader.label    "मूलभूत प्रकाशन अवस्थिति">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY  publishFtp.label       "अगर FTP साइट में प्रकाशित कर रहे हैं, HTTP पता दाखिल करें इसमें ब्रॉउज करने के लिये:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY  publishhtp.label       "अगर FTP साइट में प्रकाशित कर रहे हैं, HTTP पता दाखिल करें इसमें ब्रॉउज करने के लिये:">
+

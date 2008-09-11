@@ -1,0 +1,17 @@
+<!ENTITY      windowtitle.label               "शब्दकूट प्रबंधक">
+<!ENTITY      windowalttitle.label            "प्रपत्र प्रबंधक: साइट">
+<!ENTITY      tab.signonsstored.label         "शब्दकूट सहेजा गया">
+<!ENTITY      tab.signonsnotstored.label      "शब्दकूट कभी नहीं सहेजा गया">
+<!ENTITY      tab.nopreview.label             "प्रपत्र कभी नहीं पहले देखा गया">
+<!ENTITY      tab.nocapture.label             "प्रपत्र कभी नहीं सहेजा गया">
+
+<!ENTITY      spiel.signonsstored.label       "शब्दकूट प्रबंधक निम्न साइट के लिये लॉगिन सूचना सहेजा है:">
+<!ENTITY      spiel.signonsnotstored.label    "शब्दकूट प्रबंधक निम्न साइट के लिये कभी लॉगिन सूचना नहीं सहेजा है:">
+<!ENTITY      spiel.nopreview.label           "प्रपत्र प्रबंधक आपके द्वारा पहले भरे जाने के पहले कभी निम्न साइट से प्रपत्र का पूर्वावलोकन नहीं करेगा:">
+<!ENTITY      spiel.nocapture.label           "प्रपत्र प्रबंधक निम्न साइट से कभी प्रपत्र सहेजने के लिये नहीं कहेगा:">
+
+<!ENTITY      treehead.site.label             "साइट">
+<!ENTITY      treehead.username.label         "उपयोक्ता">
+<!ENTITY      treehead.password.label         "शब्दकूट">
+<!ENTITY      remove.label                    "हटायें">
+<!ENTITY      removeall.label                 "सबको हटायें">

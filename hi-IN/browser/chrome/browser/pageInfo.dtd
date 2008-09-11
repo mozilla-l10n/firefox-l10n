@@ -1,0 +1,122 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "नक़ल लें">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "सभी चुनें">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "सामान्य">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "पता:">
+<!ENTITY  generalType           "प्रकार:">
+<!ENTITY  generalMode           "रेंडर विधि:">
+<!ENTITY  generalSize           "आकार:">
+<!ENTITY  generalReferrer       "संदर्भ URL:">
+<!ENTITY  generalSource         "कैश स्रोत:">
+<!ENTITY  generalModified       "रूपांतरित:">
+<!ENTITY  generalEncoding       "ऐन्कोडिंग:">
+<!ENTITY  generalMetaName       "नाम">
+<!ENTITY  generalMetaContent    "अंतर्वस्तु">
+<!ENTITY  generalSecurityMore   "अधिक">
+<!ENTITY  generalSecurityMore.accesskey "o">
+
+<!ENTITY  mediaTab              "मीडिया">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "स्थान:">
+<!ENTITY  mediaText             "संबंधित पाठ:">
+<!ENTITY  mediaAltHeader        "वैकल्पिक पाठ">
+<!ENTITY  mediaAddress          "पता">
+<!ENTITY  mediaType             "प्रकार">
+<!ENTITY  mediaSize             "आकार">
+<!ENTITY  mediaCount            "गिनती">
+<!ENTITY  mediaDimension        "आयाम:">
+<!ENTITY  mediaLongdesc         "लंबा विवरण:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "ऐसे सहेजें…">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "मीडिया पूर्वावलोकन:">
+
+<!ENTITY  feedTab               "फ़ीड">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "सदस्यता ले">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab               "अनुमति">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "तयशुदा का प्रयोग करें">
+<!ENTITY  permAllow             "स्वीकारें">
+<!ENTITY  permAllowSession      "सत्र के लिए स्वीकारें">
+<!ENTITY  permBlock             "रोकें">
+<!ENTITY  permissionsFor        "इसके लिए अनुमति:">
+<!ENTITY  permImage             "छवि लोड करें">
+<!ENTITY  permPopup             "पॉप-अप विंडो खोलें">
+<!ENTITY  permCookie            "कुकी सेट करें">
+<!ENTITY  permInstall           "विस्तार या प्रसंग संस्थापित करें">
+
+<!ENTITY  securityTab           "सुरक्षा">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "इस पृष्ठ के लिए सुरक्षा सूचना">
+<!ENTITY  securityView.certView "प्रमाणपत्र देखें">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "अज्ञात">
+
+
+<!ENTITY  securityView.identity.header   "वेब साइट सुरक्षा">
+<!ENTITY  securityView.identity.owner    "स्वामी: ">
+<!ENTITY  securityView.identity.domain   "वेब साइट: ">
+<!ENTITY  securityView.identity.verifier "इसके द्वारा सत्यापित: ">
+
+<!ENTITY  securityView.privacy.header                   "गोपनीयता &amp; इतिहास">
+<!ENTITY  securityView.privacy.history                  "क्या मैंने यह वेब साइट आज से पहले देखा है?">
+<!ENTITY  securityView.privacy.cookies                  "क्या यह वेब साइट मेरे कंप्यूटर पर सूचना (कुकी) जमा कर रहा है?">
+<!ENTITY  securityView.privacy.viewCookies              "कुकी देखें">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "क्या मैंने कोई कूटशब्द इस वेबसाइट के लिए सहेजा है?">
+<!ENTITY  securityView.privacy.viewPasswords            "सहेजा गया कूटशब्द देखें">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "तकनीकी विवरण">

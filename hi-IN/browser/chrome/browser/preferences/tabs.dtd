@@ -1,0 +1,17 @@
+<!ENTITY newPagesIn.label             "नया पृष्ठ इसमें खुलना चाहिए:">
+<!ENTITY inNewWindow.label            "नया विंडो">
+<!ENTITY inNewWindow.accesskey        "w">
+<!ENTITY inNewTab.label               "नया टैब">
+<!ENTITY inNewTab.accesskey           "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "मुझे चेताएं जब कई टैब बंद करता हूँ">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label       "मुझे चेताएं जब कई टैब का खोला जाना &brandShortName; को धीमा करता हो">
+<!ENTITY warnOpenManyTabs.accesskey   "o">
+
+<!ENTITY showTabBar.label             "टैब पट्टी हमेशा दिखाएँ">
+<!ENTITY showTabBar.accesskey         "b">
+
+<!ENTITY switchToNewTabs.label        "जब मैं नये टैब में कड़ी खोलता हूँ, इसमें तत्काल जाएं">
+<!ENTITY switchToNewTabs.accesskey    "s">
