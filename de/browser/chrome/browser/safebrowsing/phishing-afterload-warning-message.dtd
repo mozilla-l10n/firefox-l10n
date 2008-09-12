@@ -15,8 +15,6 @@
 <!ENTITY safeb.palm.notforgery.label2 "Dies ist kein Betrugsversuch…">
 <!ENTITY safeb.palm.report.label "Warum wurde diese Seite blockiert?">
 
-<!ENTITY safeb.urlbaricon.tooltip "Diese Seite könnte gefährlich sein; Klicken Sie hier für weitere Informationen.">
-
 <!ENTITY safeb.blocked.malware.title "Als attackierend gemeldete Website!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malware.shortDesc "Die Website auf <span id='malware_sitename'/> wurde als attackierende Seite gemeldet und auf Grund Ihrer Sicherheitseinstellungen blockiert.">
