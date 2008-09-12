@@ -5,5 +5,5 @@
 <!ENTITY securityOverride.linkText "O puede agregar una excepción…">
 <!ENTITY securityOverride.warningText "
 <p>No debería agregar una excepción si está usando una conexión a internet en la que no confíe completamente o si no está acostumbrado a ver advertencias de este servidor.</p>
-<p>Si aún desea agregar una excepción para este sitio, puede hacerlo en sus opciones avanzadas de encriptado.</p>
+<p>Si aún desea agregar una excepción para este sitio, puede hacerlo en sus opciones avanzadas de cifrado.</p>
 ">

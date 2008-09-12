@@ -29,7 +29,7 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro         "&brandShortName; puede recordar las contraseñas para todas sus cuentas así no tiene que reingresarlas cada vez.">
-<!ENTITY  encryptEnabled.label        "Usar una contraseña maestra para encriptar las contraseñas guardadas">
+<!ENTITY  encryptEnabled.label        "Usar una contraseña maestra para cifrar las contraseñas guardadas">
 <!ENTITY  encryptEnabled.accesskey    "s">
 <!ENTITY  masterPassword.intro        "Al establecerla, la contraseña maestra protege todas sus contraseñas pero deberá ingresarla una vez por sesión.">
 <!ENTITY  setMasterPassword.label     "Contraseña maestra">

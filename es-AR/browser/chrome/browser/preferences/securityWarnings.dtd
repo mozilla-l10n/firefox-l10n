@@ -1,13 +1,13 @@
 <!ENTITY securityWarnings.title                   "Avisos de Seguridad">
 
 <!ENTITY security.warn_when                       "Mostrar un dialogo de aviso cuando:">
-<!ENTITY security.warn_entering_secure.label      "Estoy a punto de ver una página encriptada.">
+<!ENTITY security.warn_entering_secure.label      "Estoy a punto de ver una página cifrada.">
 <!ENTITY security.warn_entering_secure.accesskey  "v">
-<!ENTITY security.warn_entering_weak.label        "Estoy a punto de ver una página que usa encriptación de poca calidad.">
+<!ENTITY security.warn_entering_weak.label        "Estoy a punto de ver una página que usa cifrado de poca calidad.">
 <!ENTITY security.warn_entering_weak.accesskey    "g">
-<!ENTITY security.warn_leaving_secure.label       "Deja una página encriptada hacia una que no está encriptada.">
+<!ENTITY security.warn_leaving_secure.label       "Deja una página cifrada hacia una que no está cifrada.">
 <!ENTITY security.warn_leaving_secure.accesskey   "D">
-<!ENTITY security.warn_submit_insecure.label      "Envía información que no está encriptada.">
+<!ENTITY security.warn_submit_insecure.label      "Envía información que no está cifrada.">
 <!ENTITY security.warn_submit_insecure.accesskey  "s">
-<!ENTITY security.warn_viewing_mixed.label        "Está a punto de ver una página encriptada que contiene alguna información sin encriptar.">
+<!ENTITY security.warn_viewing_mixed.label        "Está a punto de ver una página cifrada que contiene alguna información sin cifrar.">
 <!ENTITY security.warn_viewing_mixed.accesskey    "u">

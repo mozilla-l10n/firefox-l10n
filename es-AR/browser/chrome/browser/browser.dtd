@@ -8,7 +8,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 
-<!ENTITY tabCmd.label "Nueva Pestaña">
+<!ENTITY tabCmd.label "Nueva pestaña">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Abrir dirección…">
@@ -330,9 +330,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "Estilo de la página">
 <!ENTITY pageStyleMenu.accesskey "g">
-<!ENTITY pageStyleNoStyle.label "Sin Estilo">
+<!ENTITY pageStyleNoStyle.label "Sin estilo">
 <!ENTITY pageStyleNoStyle.accesskey "n">
-<!ENTITY pageStylePersistentOnly.label "Estilo Básico de Página">
+<!ENTITY pageStylePersistentOnly.label "Estilo básico de página">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip "Cambiar opciones de bloqueo de ventanas emergentes para este sitio web">

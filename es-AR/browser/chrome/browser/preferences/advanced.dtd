@@ -78,7 +78,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "r">
 <!ENTITY offlineAppRemove.confirm        "Eliminar datos sin conexión">
 
-<!ENTITY encryptionTab.label             "Encriptación">
+<!ENTITY encryptionTab.label             "Cifrado">
 
 <!ENTITY protocols.label                 "Protocolos">
 <!ENTITY useSSL3.label                   "Usar SSL 3.0">

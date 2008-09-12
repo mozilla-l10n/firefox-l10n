@@ -3,13 +3,13 @@
 <!ENTITY securityMenu.label "Seguridad">
 <!ENTITY securityMenu.accesskey "e">
 
-<!ENTITY menu_securityEncryptIfPossible.label "Encriptar si es posible">
+<!ENTITY menu_securityEncryptIfPossible.label "Cifrar si es posible">
 <!ENTITY menu_securityEncryptIfPossible.accesskey "p">
 
-<!ENTITY menu_securityEncryptRequire.label "Encriptar este mensaje">
+<!ENTITY menu_securityEncryptRequire.label "Cifrar este mensaje">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-<!ENTITY menu_securityNoEncryption.label "No encriptar este mensaje">
+<!ENTITY menu_securityNoEncryption.label "No cifrar este mensaje">
 <!ENTITY menu_securityNoEncryption.accesskey "N">
 
 <!ENTITY menu_securitySign.label "Firmar digitalmente este mensaje">

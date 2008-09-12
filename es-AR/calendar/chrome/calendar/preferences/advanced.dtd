@@ -44,7 +44,7 @@
 <!ENTITY pref.calendar.advanced.generalTab.label "General">
 <!ENTITY pref.calendar.advanced.passwordsTab.label "Contraseñas">
 <!ENTITY pref.calendar.advanced.updateTab.label "Actualización">
-<!ENTITY pref.calendar.advanced.encryptionTab.label "Encriptación">
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Cifrado">
 
 <!-- General -->
 <!ENTITY pref.calendar.advanced.showConnections.label     "Opciones de conexión…">
@@ -56,7 +56,7 @@
 
 <!-- Passwords -->
 <!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; puede recordar la información de contraseñas para todos sus calendarios para que no necesite volver a ingresar su información de inicio de sesión.">
-<!ENTITY pref.calendar.advanced.useMasterPassword.label "Usar una contraseña maestra para encriptar las contraseñas guardadas">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "Usar una contraseña maestra para cifrar las contraseñas guardadas">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "P">
 <!ENTITY pref.calendar.advanced.masterPassword.intro "Al establecerse, la contraseña maestra protege todas sus contraseñas, pero deberá ingresarla una vez por sesión.">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.label "Cambiar contraseña maestra…">

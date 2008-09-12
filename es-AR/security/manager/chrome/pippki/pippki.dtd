@@ -102,15 +102,15 @@
 <!ENTITY pkcs12.setpassword.reminder "Importante: Si olvida su contraseña de resguardo del certificado, no podrá restaurar el backup posteriormente.  Guárdela en un lugar seguro.">
 
 <!ENTITY pkcs12.getpassword.title  "Diálogo de ingreso de contraseña">
-<!ENTITY pkcs12.getpassword.message "Ingrese la contraseña que fue usada para encriptar este resguardo del certificado.">
+<!ENTITY pkcs12.getpassword.message "Ingrese la contraseña que fue usada para cifrar este resguardo del certificado.">
 
 <!ENTITY chooseToken.title  "Diálogo de selección de token">
 <!ENTITY chooseToken.message1 "Seleccione un token.">
 
-<!ENTITY escrowWarn.title "Copia de clave de encriptado">
-<!ENTITY escrowWarn.message1 "Importante: Esta autoridad de certificación ha pedido que haga un resguardo de su clave privada de encriptado.">
-<!ENTITY escrowWarn.benefit1 "El beneficio es que si pierde acceso a su clave privada de encriptado, puede pedir una copia a esta autoridad de certificación.">
-<!ENTITY escrowWarn.message2 "Sin embargo, su clave privada de encriptado será guardada por la autoridad de certificación, y podría usarse para leer sus correos o documentos encriptados sin su permiso.">
+<!ENTITY escrowWarn.title "Copia de clave de cifrado">
+<!ENTITY escrowWarn.message1 "Importante: Esta autoridad de certificación ha pedido que haga un resguardo de su clave privada de cifrado.">
+<!ENTITY escrowWarn.benefit1 "El beneficio es que si pierde acceso a su clave privada de cifrado, puede pedir una copia a esta autoridad de certificación.">
+<!ENTITY escrowWarn.message2 "Sin embargo, su clave privada de cifrado será guardada por la autoridad de certificación, y podría usarse para leer sus correos o documentos cifrados sin su permiso.">
 <!ENTITY examineCert.label "Ver certificado">
 <!ENTITY examineCert.accesskey "V">
 
