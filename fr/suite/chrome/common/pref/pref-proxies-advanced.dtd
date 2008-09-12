@@ -13,10 +13,10 @@
 <!ENTITY  reuseProxy.label "Utiliser les paramètres du proxy HTTP pour tous les protocoles">
 <!ENTITY  reuseProxy.accesskey "U">
 <!ENTITY  port.label "Port :">
-<!ENTITY  HTTPport.accesskey "P">
-<!ENTITY  SSLport.accesskey "o">
-<!ENTITY  FTPport.accesskey "r">
-<!ENTITY  SOCKSport.accesskey "t">
+<!ENTITY  HTTPPort.accesskey "P">
+<!ENTITY  SSLPort.accesskey "o">
+<!ENTITY  FTPPort.accesskey "r">
+<!ENTITY  gopherPort.accesskey "">
 
 <!ENTITY  socks.caption "Proxy générique">
 <!ENTITY  socks.description  "Un proxy SOCKS est un proxy générique utilisé parfois dans les environnements corporatifs ou similaires.">
@@ -28,3 +28,4 @@
 <!ENTITY  socks5.accesskey "v">
 <!ENTITY  socksRemoteDNS.label "Utiliser aussi pour la résolution DNS (recommandé pour SOCKS v5)">
 <!ENTITY  socksRemoteDNS.accesskey "e">
+<!ENTITY  SOCKSport.accesskey "t">
