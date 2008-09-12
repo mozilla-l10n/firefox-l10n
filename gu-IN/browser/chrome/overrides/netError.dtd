@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "પાનું લાવવામાં સમસ્યા">
-<!ENTITY retry.label "ફરીથી પ્રયત્ન કરો">
+<!ENTITY retry.label "પુનઃપ્રયાસ કરો">
 
 <!-- Specific error messages -->
 
