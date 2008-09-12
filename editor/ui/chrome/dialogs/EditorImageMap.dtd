@@ -39,49 +39,43 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY windowTitle.label "Редактор карты изображения">
 <!ENTITY mapfileMenu.label "Файл">
-<!ENTITY mapfilemenu.accesskey "Ф">
+<!ENTITY mapfileMenu.accesskey "а">
 <!ENTITY clearCmd.label "Очистить">
-<!ENTITY mapfileclear.accesskey "О">
+<!ENTITY clearCmd.accesskey "ч">
 <!ENTITY closeCmd.label "Закрыть">
-<!ENTITY mapfileclose.accesskey "З">
+<!ENTITY closeCmd.accesskey "к">
 <!ENTITY mapeditMenu.label "Правка">
-<!ENTITY mapeditmenu.accesskey "П">
+<!ENTITY mapeditMenu.accesskey "р">
 <!ENTITY cutCmd.label "Вырезать">
-<!ENTITY mapeditcut.accesskey "В">
+<!ENTITY cutCmd.accesskey "ы">
 <!ENTITY copyCmd.label "Копировать">
-<!ENTITY mapeditcopy.accesskey "К">
+<!ENTITY copyCmd.accesskey "п">
 <!ENTITY pasteCmd.label "Вставить">
-<!ENTITY mapeditpaste.accesskey "с">
+<!ENTITY pasteCmd.accesskey "с">
 <!ENTITY selectallCmd.label "Выделить всё">
-<!ENTITY mapselectall.accesskey "ы">
+<!ENTITY selectallCmd.accesskey "ы">
 <!ENTITY propsCmd.label "Свойства активного участка">
-<!ENTITY mapeditprops.accesskey "а">
+<!ENTITY propsCmd.accesskey "в">
 <!ENTITY mapviewMenu.label "Вид">
-<!ENTITY mapviewmenu.accesskey "В">
+<!ENTITY mapviewMenu.accesskey "и">
 <!ENTITY showhideTbarCmd.label "Скрыть панель инструментов">
-<!ENTITY mapviewtbar.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "р">
 <!ENTITY mapviewScale.label "Масштаб">
-<!ENTITY mapviewscale.accesskey "М">
+<!ENTITY mapviewScale.accesskey "ш">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!ENTITY contrastCmd.label "Контраст">
-<!ENTITY contrast.accesskey "К">
-<!ENTITY maphelpMenu.label "Справка">
-<!ENTITY maphelpmenu.accesskey "С">
-<!ENTITY aboutCmd.label "О программе">
-<!ENTITY about.accesskey "О">
+<!ENTITY cpercentCmd.accesskey "4">
 <!ENTITY zoominCmd.label "Увеличить">
 <!ENTITY zoomoutCmd.label "Уменьшить">
 <!ENTITY delSpotCmd.label "Удалить участок">
-<!ENTITY clear.accesskey "ч">
-<!ENTITY selectall.accesskey "ы">
-<!ENTITY close.accesskey "з">
-<!ENTITY cut.accesskey "ы">
-<!ENTITY copy.accesskey "К">
-<!ENTITY paste.accesskey "c">
-<!ENTITY props.accesskey "с">
-<!ENTITY tbar.accesskey "t">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">
