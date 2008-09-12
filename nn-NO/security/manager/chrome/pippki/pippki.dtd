@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Skriv inn hovudpassord">
-<!ENTITY getPassword.tokenName.label "Sikkerheitseining">
+<!ENTITY getPassword.tokenName2.label "Sikkerheitseining:">
 <!ENTITY getPassword.password.label "Passord:">
 
 <!-- These should be common -->
@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "Verna symbolautentisering">
 <!ENTITY protectedAuth.msg "Please authenticate to the token. Authentication method depends on the type of your token.">
 <!ENTITY protectedAuth.tokenName.label "Symbol:">
+
+<!ENTITY certErrorDlg.title "Sikkert samband feila">
+<!ENTITY certErrorDlg.info1 "Dette kan vere pga. eit problem med tenarkonfigurasjonen, eller at nokon prøver å gje seg ut for å vere tenaren.">
+<!ENTITY certErrorDlg.info2 "Dersom du har brukt denne tenaren tidlegare kan feilen vere mellombels, og du kan prøve å kople til igjen seinare.">
