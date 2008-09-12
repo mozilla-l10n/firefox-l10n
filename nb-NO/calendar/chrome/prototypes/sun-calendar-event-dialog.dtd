@@ -59,7 +59,7 @@
 <!ENTITY  event.menu.file.print.label                     "Skriv ut">
 <!ENTITY  event.menu.file.print.accesskey                 "k">
 <!ENTITY  event.menu.file.exit.label                      "Avslutt">
-<!ENTITY  event.menu.file.exit.accesskey                  "A">
+<!ENTITY  event.menu.file.exit.accesskey                  "v">
 
 <!ENTITY  event.menu.edit.label                           "Rediger">
 <!ENTITY  event.menu.edit.accesskey                       "R">
@@ -100,7 +100,7 @@
 <!ENTITY  event.menu.options.link.label                       "Legg til lenke …">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
 <!ENTITY  event.menu.options.timezone.label                   "Tidssone">
-<!ENTITY  event.menu.options.timezone.accesskey               "s">
+<!ENTITY  event.menu.options.timezone.accesskey               "T">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritet">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Ikke oppgitt">
@@ -112,7 +112,7 @@
 <!ENTITY  event.menu.options.priority.high.label              "Høy">
 <!ENTITY  event.menu.options.priority.high.accesskey          "H">
 <!ENTITY  event.menu.options.privacy.label                    "Personvern">
-<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.accesskey                "e">
 <!ENTITY  event.menu.options.privacy.public.label             "Offentlig hendelse">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "O">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Vis bare tid og dato">
@@ -120,7 +120,7 @@
 <!ENTITY  event.menu.options.privacy.private.label            "Privat hendelse">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "P">
 <!ENTITY  event.menu.options.show.time.label                  "Vis tid som">
-<!ENTITY  event.menu.options.show.time.accesskey              "s">
+<!ENTITY  event.menu.options.show.time.accesskey              "V">
 <!ENTITY  event.menu.options.show.time.busy.label             "Opptatt">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "O">
 <!ENTITY  event.menu.options.show.time.free.label             "Ledig">
@@ -157,13 +157,13 @@
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "K">
 <!ENTITY event.calendar.label                             "Kalender:" >
-<!ENTITY event.calendar.accesskey                         "K">
+<!ENTITY event.calendar.accesskey                         "e">
 <!ENTITY event.attendees.label                            "Deltakere:" >
 <!ENTITY event.attendees.accesskey                        "D" >
 <!ENTITY event.alldayevent.label                          "Heldags hendelse" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Start:" >
-<!ENTITY event.from.accesskey                             "S">
+<!ENTITY event.from.accesskey                             "a">
 <!ENTITY task.from.label                                  "Start:" >
 <!ENTITY task.from.accesskey                              "a">
 <!ENTITY event.to.label                                   "Slutt:" >

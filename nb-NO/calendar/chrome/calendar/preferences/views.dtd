@@ -50,7 +50,7 @@
 <!ENTITY pref.calendar.view.workweek.caption "Arbeidsuke">
 
 <!ENTITY pref.weekstarts.label "Første dag i uken:">
-<!ENTITY pref.weekstarts.accesskey "F">
+<!ENTITY pref.weekstarts.accesskey "ø">
 <!ENTITY pref.daysoff.label "Dager i arbeidsuke:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dager starter klokken:">
@@ -62,9 +62,9 @@
 <!ENTITY pref.calendar.view.visiblehoursend.label "timer om gangen">
 
 <!ENTITY pref.numberofweeks.label "Standard ukeantall (inkludert foregående uker):">
-<!ENTITY pref.numberofweeks.accesskey "S">
+<!ENTITY pref.numberofweeks.accesskey "u">
 <!ENTITY pref.numberofpreviousweeks.label "Foregående uker som skal vises:">
-<!ENTITY pref.numberofpreviousweeks.accesskey "o">
+<!ENTITY pref.numberofpreviousweeks.accesskey "r">
 <!ENTITY pref.numberofweeks.0 "ingen">
 <!ENTITY pref.numberofweeks.1 "1 uke">
 <!ENTITY pref.numberofweeks.2 "2 uker">

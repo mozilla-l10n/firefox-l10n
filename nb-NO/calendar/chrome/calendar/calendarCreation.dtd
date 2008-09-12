@@ -37,17 +37,17 @@
 <!ENTITY wizard.label             "Opprett ny kalender" >
 <!ENTITY wizard.description       "Lokaliser kalenderen" >
 
-<!ENTITY initialpage.description    "Kalenderen kan enten lagres lokalt, eller på en server for å være tilgjengelig for andre." >
+<!ENTITY initialpage.description    "Kalenderen kan enten lagres lokalt, eller på en tjener på nettverket slik at den er tilgjengelig for andre." >
 <!ENTITY initialpage.computer.label  "På min datamaskin">
 <!ENTITY initialpage.network.label  "På nettverket">
 
-<!ENTITY locationpage.description         "Oppgi informasjon om hvor man finner kalenderen" >
+<!ENTITY locationpage.description         "Oppgi informasjon om hvor kalenderen finnes" >
 <!ENTITY locationpage.login.description   "Valgfritt: Angi brukernavn og passord" >
 <!ENTITY locationpage.username.label      "Brukernavn:" >
 <!ENTITY locationpage.password.label      "Passord:" >
 
 <!ENTITY custompage.shortdescription  "Tilpass kalenderen din" >
-<!ENTITY custompage.longdescription   "Du kan gi kalenderen et eget navn, og egen farge for hendelser fra denne" >
+<!ENTITY custompage.longdescription   "Du kan gi kalenderen et eget navn og egen farge for hendelsene i kalenderen" >
 
 <!ENTITY finishpage.shortdescription  "Kalender opprettet" >
-<!ENTITY finishpage.longdescription   "Din kalender har blitt opprettet" >
+<!ENTITY finishpage.longdescription   "Kalenderen er opprettet" >

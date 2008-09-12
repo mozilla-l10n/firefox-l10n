@@ -40,7 +40,7 @@
 <!ENTITY gdata.privacy.default.accesskey "s">
 
 <!ENTITY gdata.migration.title "Migrer kalendere bare for lesing">
-<!ENTITY gdata.migration.description "Leseren for Google Kalender har oppdaget at du har kalendre som bare kan få tilgang til Google Kalender i lesemodus. Dersom du ønsker å oppgradere noen av disse kalendrene, så velg de nedenfor">
+<!ENTITY gdata.migration.description "Leseren for Google Kalender har oppdaget at du har kalendere som bare kan få tilgang til Google Kalender i lesemodus. Dersom du ønsker å oppgradere noen av disse kalendrene, så velg de nedenfor">
 <!ENTITY gdata.migration.upgrade.label "Oppgrader">
 <!ENTITY gdata.migration.upgrade.accesskey "O">
 <!ENTITY gdata.migration.showagain.label "Alltid kontroller">
