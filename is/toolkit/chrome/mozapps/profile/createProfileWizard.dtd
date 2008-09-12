@@ -1,0 +1,19 @@
+<!ENTITY newprofile.title "Hjálp til að búa til snið">
+<!ENTITY window.size "width: 45em; height: 32em;">
+<!-- First wizard page -->
+<!ENTITY profileCreationExplanation_1.text "&brandShortName; geymir þínar stillingar í þínu eigin sniði.">
+<!ENTITY profileCreationExplanation_2.text "Ef þú ert að deila &brandShortName; með öðrum notendum, geturðu notað snið til að halda stillingum hjá hverjum notenda sér. Til að þetta sé mögulegt verður hver notandi að búa til sítt eigið snið.">
+<!ENTITY profileCreationExplanation_3.text "Ef þú ert aðeins sá eini sem notar &brandShortName;, þarftu að minnsta kosti eitt snið. Ef þú vilt geturðu búið til mörg snið fyrir þig til að geta geymt mismunandi sett af stillingum. Til dæmis, gætirðu viljað hafa mismunandi stillingar fyrir vinnuna og heima.">
+<!ENTITY profileCreationExplanation_4.text "Til að búa til þitt snið, smelltu á Áfram.">
+<!ENTITY profileCreationExplanation_4Mac.text "Til að búa til þitt snið, smelltu á Áfram.">
+<!ENTITY profileCreationExplanation_4Gnome.text "Til að búa til þitt snið, smelltu á Áfram.">
+<!-- Second wizard page -->
+<!ENTITY profileCreationIntro.text "Ef þú býrð til mörg snið geturðu þekkt þau í sundur á nafninu. Þú getur notað nafnið sem er hér fyrir eða sett inn þitt eigið.">
+<!ENTITY profilePrompt.label "Sláðu inn nafn á nýju sniði:">
+<!ENTITY profilePrompt.accesskey "S">
+<!ENTITY profileDirectoryExplanation.text "Stillingar þínar og önnur gögn tengdum þínum notanda verða geymdar í:">
+<!ENTITY profileDefaultName "Sjálfgefinn notandi">
+<!ENTITY button.choosefolder.label "Veldu möppu…">
+<!ENTITY button.choosefolder.accesskey "V">
+<!ENTITY button.usedefault.label "Nota sjálfgefna möppu">
+<!ENTITY button.usedefault.accesskey "N">

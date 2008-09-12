@@ -1,0 +1,14 @@
+<!ENTITY about.version "Útgáfa">
+<!ENTITY about.copy.beforeLink "Höfundaréttur &copy; 1998-2008 af">
+<!ENTITY about.copy.linkTitle "Þátttakendum">
+<!ENTITY about.copy.afterLink "í Mozilla verkefninu.">
+<!ENTITY about.license.beforeLink "Lestu">
+<!ENTITY about.license.linkTitle "leyfisupplýsingar">
+<!ENTITY about.license.afterLink "fyrir þetta forrit.">
+<!ENTITY about.relnotes.beforeLink "Lestu">
+<!ENTITY about.relnotes.linkTitle "Útgáfuupplýsingar">
+<!ENTITY about.relnotes.afterLink "fyrir þessa útgáfu.">
+<!ENTITY about.buildconfig.beforeLink "Sjáðu">
+<!ENTITY about.buildconfig.linkTitle "smíð stillingar">
+<!ENTITY about.buildconfig.afterLink "fyrir þessa útgáfu.">
+<!ENTITY about.buildIdentifier "Smíð auðkenni: ">

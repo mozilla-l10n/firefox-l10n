@@ -1,0 +1,18 @@
+<!ENTITY untitledTab "(Ekkert heiti)">
+<!ENTITY newTab.label "Nýr flipi">
+<!ENTITY newTab.accesskey "N">
+<!ENTITY closeTab.label "Loka flipa">
+<!ENTITY closeTab.accesskey "L">
+<!ENTITY closeOtherTabs.accesskey "o">
+<!ENTITY closeOtherTabs.label "Loka öðrum flipum">
+<!ENTITY reloadAllTabs.label "Endurnýja alla flipa">
+<!ENTITY reloadAllTabs.accesskey "A">
+<!ENTITY reloadTab.label "Endurnýja flipa">
+<!ENTITY reloadTab.accesskey "r">
+<!ENTITY listAllTabs.label "Sýna alla flipa">
+<!ENTITY bookmarkAllTabs.label "Setja flipa í bókamerki…">
+<!ENTITY bookmarkAllTabs.accesskey "f">
+<!ENTITY bookmarkThisTab.label "Setja flipa í bókamerki">
+<!ENTITY bookmarkThisTab.accesskey "M">
+<!ENTITY undoCloseTab.label "Hætta við að loka flipa">
+<!ENTITY undoCloseTab.accesskey "H">

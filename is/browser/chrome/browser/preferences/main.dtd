@@ -1,0 +1,33 @@
+<!ENTITY startup.label "Ræsing">
+<!ENTITY startupPage.label "Þegar &brandShortName; ræsist:">
+<!ENTITY startupPage.accesskey "s">
+<!ENTITY startupHomePage.label "Sýna mína heimasíðu">
+<!ENTITY startupBlankPage.label "Sýna tóma síðu">
+<!ENTITY startupLastSession.label "Sýna flipa og glugga frá seinustu keyrslu">
+<!ENTITY location.label "Heimasíða:">
+<!ENTITY location.accesskey "H">
+<!ENTITY useCurrentPage.label "Nota núverandi síðu">
+<!ENTITY useCurrentPage.accesskey "N">
+<!ENTITY useMultiple.label "Nota núverandi síður">
+<!ENTITY useBookmark.label "Nota bókamerki">
+<!ENTITY useBookmark.accesskey "B">
+<!ENTITY restoreDefault.label "Endurstilla">
+<!ENTITY restoreDefault.accesskey "R">
+<!ENTITY downloads.label "Niðurhal">
+<!ENTITY showWhenDownloading.label "Sýna niðurhalsglugga þegar verið er að niðurhala skrá">
+<!ENTITY showWhenDownloading.accesskey "n">
+<!ENTITY closeWhenDone.label "Loka glugga þegar öllu niðurhali er lokið">
+<!ENTITY closeWhenDone.accesskey "L">
+<!ENTITY saveTo.label "Vista skrár yfir á">
+<!ENTITY saveTo.accesskey "v">
+<!ENTITY chooseFolderWin.label "Fletta…">
+<!ENTITY chooseFolderWin.accesskey "F">
+<!ENTITY chooseFolderMac.label "Velja…">
+<!ENTITY chooseFolderMac.accesskey "e">
+<!ENTITY alwaysAsk.label "Alltaf spyrja mig hvar á að vista skrár">
+<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY addonsMgr.label "Viðbætur">
+<!ENTITY manageAddonsDescWin.label "Breyta stillingum fyrir viðbætur">
+<!ENTITY manageAddonsDescUnix2.label "Breyta stillingum fyrir viðbætur">
+<!ENTITY manageAddons.label "Stjórna viðbótarforritum…">
+<!ENTITY manageAddons.accesskey "S">

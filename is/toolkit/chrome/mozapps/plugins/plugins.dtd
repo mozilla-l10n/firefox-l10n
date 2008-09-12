@@ -1,0 +1,18 @@
+<!ENTITY pluginWizard.title "Þjónusta til að finna tengiforrit">
+<!ENTITY pluginWizard.firstPage.title "Velkomin í &pluginWizard.title;">
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; er að athuga hvaða tengiforrit eru til…">
+<!ENTITY pluginWizard.availablePluginsPage.title "Þessum tengiforritum er hægt að niðurhala">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Þessi tengiforrit eru til staðar:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Smelltu á Áfram til að setja inn þessi tengiforrit.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Einhver tengiforrit gætu þarfnast meiri upplýsinga frá þér þegar þau eru sett inn.">
+<!ENTITY pluginWizard.licensePage.title "Leyfiskilmálar tengiforrits">
+<!ENTITY pluginWizard.licensePage.accept.label "Ég samþykki.">
+<!ENTITY pluginWizard.licensePage.deny.label "Ég samþykki ekki (tengiforrit verður ekki sett inn).">
+<!ENTITY pluginWizard.installPluginsPage.title "Setja inn tengiforrit">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; er að setja inn tengiforrit…">
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; hefur lokið við að setja inn nauðsynleg tengiforrit:">
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Sjáðu meira um tengiforrit eða finndu handvirkt nauðsynleg tengiforrit.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; þarfnast endurræsingar til að tengiforrit byrji að virka.">
+
+  
+<!ENTITY missingPlugin.label "Smelltu hér til að niðurhala tengiforriti.">

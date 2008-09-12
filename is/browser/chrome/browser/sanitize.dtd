@@ -1,0 +1,22 @@
+<!ENTITY sanitizeDialog.title "Hreinsa persónuleg gögn">
+<!ENTITY sanitizeItems.label "Hreinsa eftirfarandi hluti núna:">
+<!ENTITY clearDataSettings.label "Þegar ég bið &brandShortName; um að hreinsa persónuleg gögn, þá ætti hann að hreinsa:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label "Ferill vafra">
+<!ENTITY itemHistory.accesskey "e">
+<!ENTITY itemFormSearchHistory.label "Vistuð eyðublöð og leitar ferill">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "Vistuð lykilorð">
+<!ENTITY itemPasswords.accesskey "V">
+<!ENTITY itemCookies.label "Smákökur">
+<!ENTITY itemCookies.accesskey "S">
+<!ENTITY itemCache.label "Flýtiminni">
+<!ENTITY itemCache.accesskey "F">
+<!ENTITY itemOfflineApps.label "Ótengd vefgögn">
+<!ENTITY itemOfflineApps.accesskey "t">
+<!ENTITY itemDownloads.label "Ferill niðurhals">
+<!ENTITY itemDownloads.accesskey "N">
+<!ENTITY itemSessions.label "Sannvottaðar lotur">
+<!ENTITY itemSessions.accesskey "S">
+<!ENTITY window.width "30em">

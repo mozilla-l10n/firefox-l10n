@@ -1,0 +1,11 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Sláðu inn vefslóðina (URL) eða gefðu upp staðbundna skrá sem þú vilt opna:">
+  
+<!ENTITY chooseFile.label "Veldu skrá…">
+<!ENTITY newWindow.label "Nýr gluggi">
+<!ENTITY newTab.label "Nýr flipi">
+<!ENTITY topWindow.label "Núverandi glugga">
+<!ENTITY caption.label "Opna staðsetningu">
+<!ENTITY openWhere.label "Opna í:">
+<!ENTITY openBtn.label "Opna">

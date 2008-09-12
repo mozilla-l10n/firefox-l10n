@@ -1,0 +1,12 @@
+<!ENTITY securityWarnings.title "Öryggisaðvaranir">
+<!ENTITY security.warn_when "Sýna aðvörunar glugga þegar:">
+<!ENTITY security.warn_entering_secure.label "Ég er að fara að skoða dulkóðaða síðu.">
+<!ENTITY security.warn_entering_secure.accesskey "e">
+<!ENTITY security.warn_entering_weak.label "Ég er að fara að skoða síðu sem notar lélega dulkóðun.">
+<!ENTITY security.warn_entering_weak.accesskey "g">
+<!ENTITY security.warn_leaving_secure.label "Fara af dulkóðaðri síðu yfir á síðu sem er ekki dulkóðuð.">
+<!ENTITY security.warn_leaving_secure.accesskey "l">
+<!ENTITY security.warn_submit_insecure.label "Ég sendi upplýsingar sem eru ekki dulkóðaðar.">
+<!ENTITY security.warn_submit_insecure.accesskey "s">
+<!ENTITY security.warn_viewing_mixed.label "Ég er að fara að skoða dulkóðaða síðu sem inniheldur efni sem er ekki dulkóðað.">
+<!ENTITY security.warn_viewing_mixed.accesskey "u">

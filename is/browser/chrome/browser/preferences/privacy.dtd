@@ -1,0 +1,38 @@
+<!ENTITY history.label "Ferill">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+<!ENTITY rememberDaysBefore.label "Geyma feril í að minnsta kosti">
+<!ENTITY rememberDaysBefore.accesskey "f">
+<!ENTITY rememberDaysAfter2.label "daga">
+<!ENTITY rememberForms.label "Muna hvað ég hef slegið inn í eyðublað og á leitarstiku">
+<!ENTITY rememberForms.accesskey "f">
+<!ENTITY rememberDownloads.label "Muna hvað ég hef niðurhalað">
+<!ENTITY rememberDownloads.accesskey "u">
+<!ENTITY cookies.label "Smákökur">
+<!ENTITY acceptCookies.label "Taka á móti smákökum frá þessum vefsvæðum">
+<!ENTITY acceptCookies.accesskey "T">
+<!ENTITY acceptThirdParty.label "Taka á móti smákökum frá þriðja aðila">
+<!ENTITY acceptThirdParty.accesskey "þ">
+<!ENTITY keepUntil.label "Eiga þangað til:">
+<!ENTITY keepUntil.accesskey "E">
+<!ENTITY expire.label "þær renna út">
+<!ENTITY close.label "þegar ég loka &brandShortName;">
+<!ENTITY askEachTime.label "spyrja mig í hvert skipti">
+<!ENTITY cookieExceptions.label "Undanþágur…">
+<!ENTITY cookieExceptions.accesskey "U">
+<!ENTITY showCookies.label "Sýna smákökur…">
+<!ENTITY showCookies.accesskey "S">
+<!ENTITY privateData.label "Persónuleg gögn">
+<!ENTITY alwaysClear.label "Í hvert skipti sem ég loka &brandShortName; hreinsa persónuleg gögn">
+<!ENTITY alwaysClear.accesskey "g">
+<!ENTITY askBeforeClear.label "Spyrja áður en persónuleg gögn eru hreinsuð">
+<!ENTITY askBeforeClear.accesskey "A">
+<!ENTITY clearDataSettings.label "Stillingar…">
+<!ENTITY clearDataSettings.accesskey "t">
+<!ENTITY clearDataNow.label "Hreinsa núna…">
+<!ENTITY clearDataNow.label2 "Hreinsa núna">
+<!ENTITY clearDataNow.accesskey "N">

@@ -1,0 +1,13 @@
+<!ENTITY newPagesIn.label "Nýjar síður eiga að opnast í:">
+<!ENTITY inNewWindow.label "nýjum glugga">
+<!ENTITY inNewWindow.accesskey "g">
+<!ENTITY inNewTab.label "nýjum flipa">
+<!ENTITY inNewTab.accesskey "f">
+<!ENTITY warnCloseMultipleTabs.label "Vara mig við þegar ég loka mörgum flipum">
+<!ENTITY warnCloseMultipleTabs.accesskey "m">
+<!ENTITY warnOpenManyTabs.label "Vara mig við ef opnun á mörgum flipum gæti hægt á &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey "o">
+<!ENTITY showTabBar.label "Sýna alltaf flipaslá">
+<!ENTITY showTabBar.accesskey "f">
+<!ENTITY switchToNewTabs.label "Þegar ég opna tengil í nýjum flipa, skipta yfir á hann strax">
+<!ENTITY switchToNewTabs.accesskey "s">

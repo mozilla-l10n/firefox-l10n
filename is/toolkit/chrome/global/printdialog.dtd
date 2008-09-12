@@ -1,0 +1,22 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Prenta">
+<!ENTITY printDialog.title "Prenta">
+<!ENTITY fpDialog.title "Vista skrá">
+<!ENTITY fileCheck.label "Prenta í skrá">
+<!ENTITY propertiesButton.label "Eiginleikar…">
+<!ENTITY descText.label "Lýsing á prentara:">
+<!ENTITY printer.label "Prentari">
+<!ENTITY printerInput.label "Heiti prentara:">
+<!ENTITY printrangeGroup.label "Prentbil">
+<!ENTITY allpagesRadio.label "Allar síður">
+<!ENTITY rangeRadio.label "Síður">
+<!ENTITY frompageInput.label "frá">
+<!ENTITY topageInput.label "til">
+<!ENTITY selectionRadio.label "Val">
+<!ENTITY copies.label "Afrit">
+<!ENTITY numCopies.label "Fjöldi afrita:">
+<!ENTITY printframeGroup.label "Prenta ramma">
+<!ENTITY aslaidoutRadio.label "Eins og sést á skjánum">
+<!ENTITY selectedframeRadio.label "Valinn rammi">
+<!ENTITY eachframesepRadio.label "Hvern ramma sérstaklega">

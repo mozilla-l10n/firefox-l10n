@@ -1,0 +1,40 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Uppsetning síðu">
+<!ENTITY basic.tab "Snið &amp; Stillingar">
+<!ENTITY formatGroup.label "Snið">
+<!ENTITY orientation.label "Stefna:">
+<!ENTITY portrait "Skammsnið">
+<!ENTITY landscape "Langsnið">
+<!ENTITY scale.label "Skali:">
+<!ENTITY scalePercent "&#037;">
+<!ENTITY shrinkToFit.label "Minnka þannig að passi á síðu">
+<!ENTITY optionsGroup.label "Valkostir">
+<!ENTITY printBG.label "Prenta bakgrunn (liti &amp; myndir)">
+<!ENTITY advanced.tab "Spássía &amp; Haus/Fótur">
+<!ENTITY marginGroup.label "Spássía (#1)">
+<!ENTITY marginUnits.inches "tommur">
+<!ENTITY marginUnits.metric "millimetrar">
+<!ENTITY marginTop.label "Efst:">
+<!ENTITY marginBottom.label "Neðst:">
+<!ENTITY marginLeft.label "Vinstri:">
+<!ENTITY marginRight.label "Hægri:">
+<!ENTITY headerFooter.label "Hausar &amp; Fætur">
+<!ENTITY hfLeft.label "Vinstri:">
+<!ENTITY hfCenter.label "Miðja:">
+<!ENTITY hfRight.label "Hægri:">
+<!ENTITY headerLeft.tip "Vinstri haus">
+<!ENTITY headerCenter.tip "Miðju haus">
+<!ENTITY headerRight.tip "Hægri haus">
+<!ENTITY footerLeft.tip "Vinstri fótur">
+<!ENTITY footerCenter.tip "Miðju fótur">
+<!ENTITY footerRight.tip "Hægri fótur">
+<!ENTITY hfTitle "Titill">
+<!ENTITY hfURL "Slóð">
+<!ENTITY hfDateAndTime "Dagsetning">
+<!ENTITY hfPage "Síða #">
+<!ENTITY hfPageAndTotal "Síða # af #">
+<!ENTITY hfBlank "--tómt--">
+<!ENTITY hfCustom "Sérsniðið…">
+<!ENTITY customPrompt.title "Sérsniðið…">
+<!ENTITY customPrompt.prompt "Sláðu inn sérsniðinn haus/fót texta">
