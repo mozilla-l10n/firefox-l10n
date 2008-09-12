@@ -600,10 +600,10 @@
 <!ENTITY BlockAddress.accesskey "р">
 <!ENTITY reportPhishingURL.label "Сообщить о мошенническом письме">
 <!ENTITY reportPhishingURL.accesskey "б">
-<!ENTITY saveLinkCmd.label "Сохранить объект">
-<!ENTITY saveLinkCmd.accesskey "С">
-<!ENTITY saveImageCmd.label "Сохранить изображение">
-<!ENTITY saveImageCmd.accesskey "х">
+<!ENTITY saveLinkAsCmd.label "Сохранить объект как…">
+<!ENTITY saveLinkAsCmd.accesskey "С">
+<!ENTITY saveImageAsCmd.label "Сохранить изображение как…">
+<!ENTITY saveImageAsCmd.accesskey "х">
 <!ENTITY copyCmd.label "Копировать">
 <!ENTITY copyCmd.accesskey "К">
 <!ENTITY selectAllCmd.label "Выделить всё">
