@@ -89,7 +89,7 @@
 
 <!ENTITY  event.menu.options.label                            "Innstillingar">
 <!ENTITY  event.menu.options.accesskey                        "I">
-<!ENTITY  event.menu.options.attachments.label                "Legg ved vevside …">
+<!ENTITY  event.menu.options.attachments.label                "Legg ved nettside …">
 <!ENTITY  event.menu.options.attachments.accesskey            "v">
 <!ENTITY  event.menu.options.attendees.label                  "Inviter deltakarar …">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
@@ -186,7 +186,7 @@
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Fjern alle" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-<!ENTITY event.attachments.popup.attachPage.label         "Legg ved vevside …" >
+<!ENTITY event.attachments.popup.attachPage.label         "Legg ved nettside …" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "v" >
 <!ENTITY event.url.label                                  "Relatert lenkje:" >
 <!ENTITY event.priority2.label                            "Prioritet:">

@@ -652,10 +652,10 @@
 <!ENTITY reportPhishingURL.accesskey "R">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Lagre lenkjemål">
-<!ENTITY saveLinkCmd.accesskey "r">
-<!ENTITY saveImageCmd.label "Lagre bilete">
-<!ENTITY saveImageCmd.accesskey "a">
+<!ENTITY saveLinkAsCmd.label "Lagre lenkje som …">
+<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveImageAsCmd.label "Lagre bilete som …">
+<!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Merk alt">
