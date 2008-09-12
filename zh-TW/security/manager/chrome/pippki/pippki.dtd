@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "輸入主控密碼">
-<!ENTITY getPassword.tokenName.label "安全裝置">
+<!ENTITY getPassword.tokenName2.label "安全裝置:">
 <!ENTITY getPassword.password.label "密碼:">
 
 <!-- These should be common -->
