@@ -79,15 +79,6 @@
 <!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
 <!ENTITY cpercentCmd.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Kontrast">
-<!ENTITY contrast.accesskey "k">
-
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "Hilfe">
-<!ENTITY maphelpmenu.accesskey "H">
-<!ENTITY aboutCmd.label "Über">
-<!ENTITY about.accesskey "b">
 
 <!ENTITY zoominCmd.label "Zoom +">
 <!ENTITY zoomoutCmd.label "Zoom -">
