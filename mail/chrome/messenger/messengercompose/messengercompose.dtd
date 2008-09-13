@@ -92,7 +92,7 @@
 <!ENTITY showCompositionToolbarCmd.accesskey "к">
 <!ENTITY showFormattingBarCmd.label "Панель форматирования">
 <!ENTITY showFormattingBarCmd.accesskey "ф">
-<!ENTITY showTaskbarCmd.label "Строку состояния">
+<!ENTITY showTaskbarCmd.label "Строка состояния">
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY customizeToolbar.label "Настроить…">
 <!ENTITY customizeToolbar.accesskey "Н">

@@ -78,7 +78,7 @@
 <!ENTITY viewToolbarsMenu.accesskey "П">
 <!ENTITY showAbToolbarCmd.label "Панель адресной книги">
 <!ENTITY showAbToolbarCmd.accesskey "а">
-<!ENTITY showTaskbarCmd.label "Строку состояния">
+<!ENTITY showTaskbarCmd.label "Строка состояния">
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY customizeToolbar.label "Настроить…">
 <!ENTITY customizeToolbar.accesskey "Н">
