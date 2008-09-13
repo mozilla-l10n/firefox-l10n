@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "Szukaj:">
 <!ENTITY     filter.accesskey               "S">
-<!ENTITY     clear.label                    "Wyczyść">
-<!ENTITY     clear.accesskey                "c">
 
 <!ENTITY     button.close.label             "Zamknij">
 <!ENTITY     button.close.accesskey         "Z">
