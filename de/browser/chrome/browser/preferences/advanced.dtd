@@ -59,7 +59,7 @@
 <!ENTITY enableAddonsUpdate.accesskey    "I">
 <!ENTITY enableSearchUpdate.label        "Suchmaschinen">
 <!ENTITY enableSearchUpdate.accesskey    "S">
-<!ENTITY whenUpdatesFound.label          "Wenn Updates für &brandShortName; gefunden werden">
+<!ENTITY whenUpdatesFound.label          "Wenn Updates für &brandShortName; gefunden werden:">
 <!ENTITY askMe.label                     "Nachfragen, was getan werden soll">
 <!ENTITY askMe.accesskey                 "N">
 <!ENTITY modeAutomatic.label             "Das Update automatisch herunterladen und installieren">
