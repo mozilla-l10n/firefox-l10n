@@ -35,7 +35,7 @@
 <!ENTITY resetPassword.title "Zresetuj główne hasło" >
 <!ENTITY resetPassword.text "Po zresetowaniu głównego hasła wszystkie przechowywane dane formularzy, hasła internetowe oraz hasła serwerów pocztowych, certyfikaty osobiste oraz prywatne klucze zostaną usunięte. Czy na pewno zresetować główne hasło?" >
 <!ENTITY getPassword.title "Wprowadź główne hasło" >
-<!ENTITY getPassword.tokenName.label "Urządzenie zabezpieczające" >
+<!ENTITY getPassword.tokenName2.label "Urządzenie zabezpieczające" >
 <!ENTITY getPassword.password.label "Hasło:" >
 <!ENTITY piperror.title "Błąd" >
 <!ENTITY pipalert.title "Błąd - nie można odzyskać" >
