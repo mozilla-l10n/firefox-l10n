@@ -45,8 +45,6 @@
 
 <!ENTITY filterPrefs.label  "Suodata:">
 <!ENTITY filterPrefs.accesskey  "S">
-<!ENTITY showAll.label  "Näytä kaikki">
-<!ENTITY showAll.accesskey  "N">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label  "Asetuksen nimi">
