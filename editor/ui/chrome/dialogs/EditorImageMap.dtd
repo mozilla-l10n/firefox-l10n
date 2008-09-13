@@ -45,40 +45,40 @@
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Datei">
-<!ENTITY mapfilemenu.accesskey "d">
+<!ENTITY mapfileMenu.accesskey "d">
 <!ENTITY clearCmd.label "Leeren">
-<!ENTITY mapfileclear.accesskey "r">
+<!ENTITY clearCmd.accesskey "r">
 <!ENTITY closeCmd.label "Schließen">
-<!ENTITY mapfileclose.accesskey "s">
+<!ENTITY closeCmd.accesskey "s">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Bearbeiten">
-<!ENTITY mapeditmenu.accesskey "b">
+<!ENTITY mapeditMenu.accesskey "b">
 <!ENTITY cutCmd.label "Ausschneiden">
-<!ENTITY mapeditcut.accesskey "h">
+<!ENTITY cutCmd.accesskey "h">
 <!ENTITY copyCmd.label "Kopieren">
-<!ENTITY mapeditcopy.accesskey "k">
+<!ENTITY copyCmd.accesskey "k">
 <!ENTITY pasteCmd.label "Einfügen">
-<!ENTITY mapeditpaste.accesskey "e">
+<!ENTITY pasteCmd.accesskey "e">
 <!ENTITY selectallCmd.label "Alles auswählen">
-<!ENTITY mapselectall.accesskey "a">
+<!ENTITY selectallCmd.accesskey "a">
 <!ENTITY propsCmd.label "Hotspot-Eigenschaften">
-<!ENTITY mapeditprops.accesskey "h">
+<!ENTITY propsCmd.accesskey "h">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Ansicht">
-<!ENTITY mapviewmenu.accesskey "a">
+<!ENTITY mapviewMenu.accesskey "a">
 <!ENTITY showhideTbarCmd.label "Symbolleiste verstecken">
-<!ENTITY mapviewtbar.accesskey "l">
+<!ENTITY showhideTbarCmd.accesskey "l">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Skalieren">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
+<!ENTITY cpercentCmd.accesskey "4">
 <!-- end scaling-->
 <!ENTITY contrastCmd.label "Kontrast">
 <!ENTITY contrast.accesskey "k">
@@ -94,11 +94,11 @@
 <!ENTITY delSpotCmd.label "Spot löschen">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey "L">
-<!ENTITY selectall.accesskey "u">
-<!ENTITY close.accesskey "c">
-<!ENTITY cut.accesskey "A">
-<!ENTITY copy.accesskey "K">
-<!ENTITY paste.accesskey "E">
-<!ENTITY props.accesskey "E">
-<!ENTITY tbar.accesskey "y">
+<!ENTITY clear.key "L">
+<!ENTITY selectall.key "u">
+<!ENTITY close.key "c">
+<!ENTITY cut.key "A">
+<!ENTITY copy.key "K">
+<!ENTITY paste.key "E">
+<!ENTITY props.key "E">
+<!ENTITY tbar.key "y">
