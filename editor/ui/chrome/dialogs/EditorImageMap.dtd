@@ -85,11 +85,11 @@
 <!ENTITY delSpotCmd.label "Spot löschen">
 
 <!-- Keys -->
-<!ENTITY clear.key "L">
-<!ENTITY selectall.key "u">
-<!ENTITY close.key "c">
-<!ENTITY cut.key "A">
-<!ENTITY copy.key "K">
-<!ENTITY paste.key "E">
-<!ENTITY props.key "E">
-<!ENTITY tbar.key "y">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">
