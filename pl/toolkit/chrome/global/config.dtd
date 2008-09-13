@@ -45,9 +45,7 @@
 <!ENTITY aboutWarningCheckbox.label "Wyświetl to ostrzeżenie następnym razem">
 
 <!ENTITY filterPrefs.label "Filtr:" >
-<!ENTITY filterPrefs.accesskey "I" >
-<!ENTITY showAll.label "Wyczyść filtr" >
-<!ENTITY showAll.accesskey "f" >
+<!ENTITY filterPrefs.accesskey "F" >
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nazwa" >
