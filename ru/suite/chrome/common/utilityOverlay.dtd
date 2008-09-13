@@ -48,7 +48,7 @@
 <!ENTITY viewMenu.accesskey "В">
 <!ENTITY viewToolbarsMenu.label "Показать/скрыть">
 <!ENTITY viewToolbarsMenu.accesskey "П">
-<!ENTITY showTaskbarCmd.label "Строку состояния">
+<!ENTITY showTaskbarCmd.label "Строка состояния">
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY helpMenu.label "Справка">
 <!ENTITY helpMenu.accesskey "С">
