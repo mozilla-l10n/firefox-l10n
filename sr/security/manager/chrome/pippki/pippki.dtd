@@ -51,7 +51,7 @@
 <!-- Values for getpassword.xul -->
 
 <!ENTITY getPassword.title "Унос главне лозинке">
-<!ENTITY getPassword.tokenName.label "Заштитни уређај">
+<!ENTITY getPassword.tokenName2.label "Безбедносни уређај:">
 <!ENTITY getPassword.password.label "Лозинка:">
 <!-- These should be common -->
 
@@ -129,3 +129,7 @@
 <!ENTITY protectedAuth.title "Аутентикација заштићеним новчићем">
 <!ENTITY protectedAuth.msg "Молимо да се пријавите знаком распознавања (token).  Врста аутентикације зависи од врсте знака распознавања.">
 <!ENTITY protectedAuth.tokenName.label "Знак:">
+
+<!ENTITY certErrorDlg.title "Безбедна веза није успостављена">
+<!ENTITY certErrorDlg.info1 "Ово може да буде проблем са подешавањем сервера или може да буде неко ко жели да се представи као сервер.">
+<!ENTITY certErrorDlg.info2 "Ако сте се у прошлости успешно повезивали на овај сервер, грешка је онда можда привремена па је могуће решење да сачекате и пробате касније.">

@@ -12,7 +12,11 @@
 <!ENTITY highPriorityCmd.label "Висок">
 <!ENTITY highestPriorityCmd.label "Највиши">
 
-<!ENTITY conditionDesc.label "За долазеће поруке чије">
+<!ENTITY contextDesc.label "Apply filter when:">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "Checking Mail">
+<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextBoth.label "Checking Mail or Manually Run">
 <!ENTITY filterActionDesc.label "Уради следеће:">
 <!ENTITY filterActionDesc.accesskey "У">
 
@@ -33,5 +37,6 @@
 <!ENTITY deleteFromPOP.label "Уклони са POP сервера">
 <!ENTITY fetchFromPOP.label "Добави са POP сервера">
 <!ENTITY ignoreThread.label "Занемари нит">
+<!ENTITY ignoreSubthread.label "Ignore Subthread">
 <!ENTITY watchThread.label "Надгледај нит">
 <!ENTITY stopExecution.label "Заустави извршење филтера">

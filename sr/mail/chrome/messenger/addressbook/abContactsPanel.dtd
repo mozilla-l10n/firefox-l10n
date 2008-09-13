@@ -4,6 +4,8 @@
 <!ENTITY searchInput.accesskey "ж">
 <!ENTITY SearchNameOrEmail.label "Име или ел. адресу">
 
+<!ENTITY deleteAddrBookCard.label "Delete">
+<!ENTITY addrBookCardProperties.label "Properties">
 <!ENTITY addtoToFieldMenu.label "Додај у поље За">
 <!ENTITY addtoCcFieldMenu.label "Додај у поље Коп">
 <!ENTITY addtoBccFieldMenu.label "Додај у поље сКоп">

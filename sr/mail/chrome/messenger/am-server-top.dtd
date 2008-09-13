@@ -79,9 +79,7 @@
 <!ENTITY alwaysAuthenticate.label "Увек тражи аутентикацију при повезивању на овај сервер">
 <!ENTITY alwaysAuthenticate.accesskey "У">
 <!ENTITY newsrcFilePath.label "newsrc датотека:">
-<!ENTITY newsrcFilePath.accesskey "д">
 <!ENTITY localPath.label "Локални директоријум:">
-<!ENTITY localPath.accesskey "Л">
 <!ENTITY abbreviate.label "Приказуј имена група у панелу Пошта као:">
 <!ENTITY abbreviateOn.label "Пуна имена (на пример: „netscape.public.mozilla.mail-news“)">
 <!ENTITY abbreviateOff.label "Скраћена имена (на пример: „n.p.m.mail-news“)">

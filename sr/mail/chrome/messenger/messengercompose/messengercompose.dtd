@@ -96,10 +96,10 @@
 <!ENTITY viewMenu.accesskey "П">
 <!ENTITY viewToolbarsMenuNew.label "Алатне траке">
 <!ENTITY viewToolbarsMenuNew.accesskey "А">
-<!ENTITY showComposeToolbarCmd.label "Алатна трака за пошту">
-<!ENTITY showComposeToolbarCmd.accesskey "п">
-<!ENTITY showFormatToolbarCmd.label "Алатна трака за форматирање">
-<!ENTITY showFormatToolbarCmd.accesskey "ф">
+<!ENTITY showCompositionToolbarCmd.label "Composition Toolbar">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "Formatting Bar">
+<!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Статусна трака">
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY customizeToolbar.label "Прилагоди…">
@@ -183,17 +183,6 @@
 <!ENTITY bringAllToFront.label "Стави све у први план">
 <!ENTITY zoomWindow.label "Увећан">
 <!ENTITY windowMenu.label "Прозор">
-<!-- Help Menu -->
-
-<!ENTITY helpMenu.label "Помоћ">
-<!ENTITY helpMenu.accesskey "П">
-<!ENTITY releaseCmd.label "Белешке уз ово издање">
-<!ENTITY releaseCmd.accesskey "Б">
-<!ENTITY hintsAndTips.label "Помоћ за &brandShortName;">
-<!ENTITY hintsAndTips.accesskey "П">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Опис програма &brandShortName;">
-<!ENTITY aboutCmd.accesskey "О">
 <!-- Mail Toolbar -->
 
 <!ENTITY sendButton.label "Шаљи">
@@ -273,6 +262,8 @@
 <!ENTITY openAttachment.accesskey "О">
 <!ENTITY delete.label "Уклони">
 <!ENTITY delete.accesskey "У">
+<!ENTITY renameAttachment.label "Rename…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Изабери све">
 <!ENTITY selectAll.accesskey "с">
 <!ENTITY attachFile.label "Закачи датотеке…">

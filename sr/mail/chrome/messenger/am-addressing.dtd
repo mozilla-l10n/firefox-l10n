@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Користи други сервер за LDAP:">
 <!ENTITY directories.accesskey "д">
+<!ENTITY directoriesNone.label "None">
 <!-- am-addressing.xul -->
 
 

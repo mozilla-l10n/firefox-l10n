@@ -17,6 +17,9 @@
 <!ENTITY newMessageCmd.label "Порука">
 <!ENTITY newMessageCmd.key "П">
 <!ENTITY newMessageCmd.accesskey "П">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label "Use Mac OS X Address Book">
+<!ENTITY osxAddressBook.accesskey "O">
 <!ENTITY closeCmd.label "Затвори">
 <!ENTITY closeCmd.key "З">
 <!ENTITY closeCmd.accesskey "З">
@@ -61,7 +64,10 @@
 <!ENTITY deleteCmd.accesskey "О">
 <!ENTITY deleteAbCmd.label "Обриши адресар">
 <!ENTITY deleteCardCmd.label "Уклони картицу">
-<!ENTITY deleteCardsCmd.label "Уклони изабране картице">
+<!ENTITY deleteCardsCmd2.label "Delete Cards">
+<!ENTITY deleteListCmd.label "Delete List">
+<!ENTITY deleteListsCmd.label "Delete Lists">
+<!ENTITY deleteItemsCmd.label "Delete Items">
 <!ENTITY selectAllCmd.label "Изабери све">
 <!ENTITY selectAllCmd.key "П">
 <!ENTITY searchAddressesCmd.key "f">
@@ -116,17 +122,6 @@
 <!ENTITY preferencesCmd.accesskey "П">
 <!ENTITY preferencesCmdUnix.label "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey "в">
-<!-- Help Menu -->
-
-<!ENTITY helpMenu.label "Помоћ">
-<!ENTITY helpMenu.accesskey "П">
-<!ENTITY releaseCmd.label "Белешке уз ово издање">
-<!ENTITY releaseCmd.accesskey "Б">
-<!ENTITY hintsAndTips.label "Помоћ за &brandShortName;">
-<!ENTITY hintsAndTips.accesskey "П">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Опис програма &brandShortName;">
-<!ENTITY aboutCmd.accesskey "О">
 <!-- Address Book Toolbar and Context Menus -->  
 
 <!ENTITY newcardButton.label "Нова картица">
@@ -194,18 +189,6 @@
 <!ENTITY sortDescending.accesskey "О">
 <!ENTITY _PhoneticName.label "Фонетско име">
 <!ENTITY _PhoneticName.accesskey "Ф">
-<!-- Results pane context menu -->
-
-<!ENTITY composeEmail.label "Састави поруку за">
-<!ENTITY composeEmail.accesskey "С">
-<!ENTITY deleteAddrBookCard.label "Обриши">
-<!ENTITY deleteAddrBookCard.accesskey "О">
-<!ENTITY newAddrBookCard.label "Нова картица...">
-<!ENTITY newAddrBookCard.accesskey "Н">
-<!ENTITY newAddrBookMailingList.label "Ново дописно друштво...">
-<!ENTITY newAddrBookMailingList.accesskey "д">
-<!ENTITY addrBookCardProperties.label "Поставке">
-<!ENTITY addrBookCardProperties.accesskey "П">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 

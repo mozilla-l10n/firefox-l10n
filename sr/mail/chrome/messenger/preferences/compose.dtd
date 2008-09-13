@@ -34,8 +34,6 @@
 <!ENTITY languagePopup.accessKey "Ј">
 <!ENTITY downloadDictionaries.label "Преузми још речника">
 
-<!ENTITY useMIME.label "За поруке које садрже 8-битне знаке, корсити МИМЕ кодирање „quoted printable‟">
-<!ENTITY useMIME.accesskey "З">
 <!ENTITY warnOnSendAccelKey.label "Тражи потврду када се порука шаље скраћеницом са тастатуре">
 <!ENTITY warnOnSendAccelKey.accesskey "Т">
 <!ENTITY autoSave.label "Аутоматски чувај на">
@@ -54,6 +52,7 @@
 <!ENTITY addressingEnable.accesskey "Л">
 <!ENTITY directories.label "Именику на серверу:">
 <!ENTITY directories.accesskey "И">
+<!ENTITY directoriesNone.label "None">
 <!ENTITY editDirectories.label "Уреди речнике…">
 <!ENTITY editDirectories.accesskey "У">
 <!ENTITY matchText.label "Ако постоји погодак у локалном адресару:">

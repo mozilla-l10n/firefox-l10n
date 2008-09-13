@@ -6,7 +6,6 @@
 <!ENTITY emptyTrashOnExit.label "Испразни смеће при крају рада">
 <!ENTITY emptyTrashOnExit.accesskey "з">
 <!ENTITY localPath.label "Локални директоријум:">
-<!ENTITY localPath.accesskey "Л">
 <!ENTITY localFolderPicker.label "Избор локалног директоријума">
 <!ENTITY browseFolder.label "Преглед…">
 <!ENTITY browseFolder.accesskey "П">

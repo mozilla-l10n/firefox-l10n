@@ -1,7 +1,10 @@
 <!ENTITY aboutDialog.title "&brandFullName;">
 <!ENTITY copyright "Заслуге">
 <!ENTITY copyright.accesskey "З">
+<!ENTITY copyrightGNOME.accesskey "З">
 <!ENTITY aboutLink "&lt; О програму">
 <!ENTITY aboutLink.accesskey "О">
 <!ENTITY aboutVersion "издање">
-<!ENTITY copyrightInfo "&#169;1998-2008 Приложници. Сва права су задржана.  Фајерфокс (Firefox) и фајерфоксови логотипови су робна марка Мозилине задужбине.  Сва права су задржана.">
+<!ENTITY closeCmdGNOME.label "Затвори">
+<!ENTITY closeCmdGNOME.accesskey "З">
+<!ENTITY copyrightInfo "&#169;1998-2008 Приложници. Сва права су задржана.  Фајерфокс (Firefox) и фајерфоксови логотипови су робне марке Мозилине задужбине.  Сва права су задржана.">

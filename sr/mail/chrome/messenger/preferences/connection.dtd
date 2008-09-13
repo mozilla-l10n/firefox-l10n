@@ -2,8 +2,10 @@
 <!ENTITY window.width "40em">
 
 <!ENTITY proxyTitle.label "Избор прокси сервера за приступ Интернету">
-<!ENTITY directTypeRadio.label "Директна веза са Интернетом">
-<!ENTITY directTypeRadio.accesskey "Д">
+<!ENTITY noProxyTypeRadio.label "No proxy">
+<!ENTITY noProxyTypeRadio.accesskey "y">
+<!ENTITY systemTypeRadio.label "Use system proxy settings">
+<!ENTITY systemTypeRadio.accesskey "u">
 <!ENTITY WPADTypeRadio.label "Самостално препознај подешавање проксија за ову мрежу">
 <!ENTITY WPADTypeRadio.accesskey "м">
 <!ENTITY manualTypeRadio.label "Ручни избор прокси сервера">

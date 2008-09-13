@@ -17,4 +17,5 @@
 <!ENTITY rss.accountName "Вести и блогови">
 <!ENTITY rss.wizardShortName "РСС (RSS)">
 <!ENTITY rss.wizardLongName "Доводи РССа и блогови">
+<!ENTITY rss.wizardLongName.accesskey "R">
 <!ENTITY rss.hostName "Вести и блогови">

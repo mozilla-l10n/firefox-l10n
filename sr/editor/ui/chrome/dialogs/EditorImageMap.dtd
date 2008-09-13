@@ -45,60 +45,51 @@
 <!-- File menu -->
 
 <!ENTITY mapfileMenu.label "Датотека">
-<!ENTITY mapfilemenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "f">
 <!ENTITY clearCmd.label "Очисти">
-<!ENTITY mapfileclear.accesskey "a">
+<!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Затвори">
-<!ENTITY mapfileclose.accesskey "З">
+<!ENTITY closeCmd.accesskey "c">
 <!-- Edit menu -->
 
 <!ENTITY mapeditMenu.label "Измени">
-<!ENTITY mapeditmenu.accesskey "e">
+<!ENTITY mapeditMenu.accesskey "e">
 <!ENTITY cutCmd.label "Исеци">
-<!ENTITY mapeditcut.accesskey "к">
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Умножи">
-<!ENTITY mapeditcopy.accesskey "З">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Убаци">
-<!ENTITY mapeditpaste.accesskey "p">
+<!ENTITY pasteCmd.accesskey "p">
 <!ENTITY selectallCmd.label "Изабери све">
-<!ENTITY mapselectall.accesskey "т">
+<!ENTITY selectallCmd.accesskey "s">
 <!ENTITY propsCmd.label "Својства жиже">
-<!ENTITY mapeditprops.accesskey "h">
+<!ENTITY propsCmd.accesskey "h">
 <!-- View menu -->
 
 <!ENTITY mapviewMenu.label "Преглед">
-<!ENTITY mapviewmenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "v">
 <!ENTITY showhideTbarCmd.label "Сакриј алатну траку">
-<!ENTITY mapviewtbar.accesskey "к">
+<!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Скалирај">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Контраст">
-<!ENTITY contrast.accesskey "n">
-<!-- Help menu -->
-
-<!ENTITY maphelpMenu.label "Помоћ">
-<!ENTITY maphelpmenu.accesskey "h">
-<!ENTITY aboutCmd.label "О">
-<!ENTITY about.accesskey "b">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "Увећај">
 <!ENTITY zoomoutCmd.label "Умањи">
 <!ENTITY delSpotCmd.label "Уклони жижу">
 <!-- Keys -->
 
-<!ENTITY clear.accesskey "d">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "l">
-<!ENTITY cut.accesskey "x">
-<!ENTITY copy.accesskey "З">
-<!ENTITY paste.accesskey "v">
-<!ENTITY props.accesskey "p">
-<!ENTITY tbar.accesskey "к">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">

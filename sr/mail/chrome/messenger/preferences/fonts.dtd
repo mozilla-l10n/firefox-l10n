@@ -73,7 +73,5 @@
 
 <!ENTITY viewDefaultCharsetList.label "Долазна пошта:">
 <!ENTITY viewDefaultCharsetList.accesskey "Д">
-<!ENTITY forceCharsetOverride.label "Примени подразумевано кодирање знакова на све долазне поруке">
-<!ENTITY forceCharsetOverride.accesskey "П">
-<!ENTITY replyInDefaultCharset.label "Користи подразумевано кодирање у одговорима">
-<!ENTITY replyInDefaultCharset.accesskey "д">
+<!ENTITY replyInDefaultCharset2.label "When possible, use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.accesskey "h">

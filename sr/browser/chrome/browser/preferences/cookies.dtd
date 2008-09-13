@@ -22,9 +22,6 @@
 
 <!ENTITY filter.label "Нађи:">
 <!ENTITY filter.accesskey "Н">
-<!ENTITY clear.label "Уклони">
-<!ENTITY clear.accesskey "к">
 
 <!ENTITY button.close.label "Затвори">
 <!ENTITY button.close.accesskey "З">
-

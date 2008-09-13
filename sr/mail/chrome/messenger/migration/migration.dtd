@@ -1,8 +1,8 @@
 
 <!ENTITY migrationWizard.title "Чаробњак за увоз">
 
-<!ENTITY importFrom.label "Увоз опција, подешавања налога, адресара, филтера и осталих података из:">
-<!ENTITY importFromUnix.label "Увоз поставки, подешавања налога, адресара и других података из:">
+<!ENTITY importFromWin.label "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromNonWin.label "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
 
 <!ENTITY importFromNothing.label "Не увози ништа">
 <!ENTITY importFromNothing.accesskey "Н">

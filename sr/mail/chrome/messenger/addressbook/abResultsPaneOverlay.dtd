@@ -66,15 +66,3 @@
 <!ENTITY sortAscending.accesskey "Р">
 <!ENTITY sortDescending.label "Опадајући">
 <!ENTITY sortDescending.accesskey "О">
-<!-- context menu -->
-
-<!ENTITY composeEmail.label "Састави поруку за">
-<!ENTITY composeEmail.accesskey "С">
-<!ENTITY deleteAddrBookCard.label "Обриши">
-<!ENTITY deleteAddrBookCard.accesskey "О">
-<!ENTITY newAddrBookCard.label "Нова картица…">
-<!ENTITY newAddrBookCard.accesskey "Н">
-<!ENTITY newAddrBookMailingList.label "Ново дописно друштво…">
-<!ENTITY newAddrBookMailingList.accesskey "Н">
-<!ENTITY addrBookCardProperties.label "Својства">
-<!ENTITY addrBookCardProperties.accesskey "С">

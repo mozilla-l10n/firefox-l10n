@@ -6,6 +6,8 @@
 <!ENTITY viewAll.accesskey "С">
 <!ENTITY viewUnread.label "Непрочитане">
 <!ENTITY viewUnread.accesskey "Н">
+<!ENTITY viewNotDeleted.label "Not Deleted">
+<!ENTITY viewNotDeleted.accesskey "D">
 <!ENTITY viewTags.label "Ознаке">
 <!ENTITY viewTags.accesskey "О">
 <!ENTITY viewCustomViews.label "Прилагођени погледи">
