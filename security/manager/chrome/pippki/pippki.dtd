@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Geben Sie das Master-Passwort ein">
-<!ENTITY getPassword.tokenName.label "Kryptographie-Modul">
+<!ENTITY getPassword.tokenName2.label "Kryptographie-Modul">
 <!ENTITY getPassword.password.label "Passwort:">
 
 <!-- These should be common -->
