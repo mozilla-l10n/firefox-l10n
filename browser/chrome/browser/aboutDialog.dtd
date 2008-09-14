@@ -1,8 +1,11 @@
-<!ENTITY aboutDialog.title      "Over &brandFullName;">
-<!ENTITY copyright              "Medewerkers">
-<!ENTITY copyright.accesskey    "M">
-<!ENTITY aboutLink              "&lt; Over &brandFullName;">
-<!ENTITY aboutLink.accesskey    "O">
-<!ENTITY aboutVersion           "versie">
-<!ENTITY copyrightInfo          "&#169;1998-2008 Medewerkers. Alle rechten voorbehouden. Firefox en de 
-                                 Firefox-logo’s zijn handelsmerken van de Mozilla Foundation.  Alle rechten voorbehouden.">
+<!ENTITY aboutDialog.title          "Over &brandFullName;">
+<!ENTITY copyright                  "Medewerkers">
+<!ENTITY copyright.accesskey        "M">
+<!ENTITY copyrightGNOME.accesskey   "r">
+<!ENTITY aboutLink                  "&lt; Over &brandFullName;">
+<!ENTITY aboutLink.accesskey        "O">
+<!ENTITY aboutVersion               "versie">
+<!ENTITY closeCmdGNOME.label        "Sluiten">  
+<!ENTITY closeCmdGNOME.accesskey    "S">
+<!ENTITY copyrightInfo              "&#169;1998-2008 Medewerkers. Alle rechten voorbehouden. Firefox en de 
+                                     Firefox-logo’s zijn handelsmerken van de Mozilla Foundation.  Alle rechten voorbehouden.">
