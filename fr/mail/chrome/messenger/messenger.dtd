@@ -441,6 +441,7 @@
 <!ENTITY backButton1.label "Reculer">
 <!ENTITY goForwardButton1.label "Avancer">
 <!ENTITY deleteButton.label "Supprimer">
+<!ENTITY undeleteButton.label "Restaurer">
 <!ENTITY markButton.label "Marquer">
 <!ENTITY printButton.label "Imprimer">
 <!ENTITY stopButton.label "Stop">
@@ -472,6 +473,7 @@
 <!ENTITY goBackButton.tooltip "Reculer d'un message">
 <!ENTITY previousButton.tooltip "Aller au précédent message non lu">
 <!ENTITY deleteButton.tooltip "Supprimer le message ou le dossier sélectionné">
+<!ENTITY undeleteButton.tooltip "Restaurer le message sélectionné">
 <!ENTITY markButton.tooltip "Marquer les messages">
 <!ENTITY printButton.tooltip "Imprimer ce message">
 <!ENTITY stopButton.tooltip "Arrêter le transfert courant">
