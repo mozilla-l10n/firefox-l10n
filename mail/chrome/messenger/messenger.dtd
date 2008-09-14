@@ -668,6 +668,8 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Įtraukti į adresų knygą…">
 <!ENTITY AddToAddressBook.accesskey "t">
+<!ENTITY AddDirectlyToAddressBook.label "Įtraukti į adresų knygą">
+<!ENTITY AddDirectlyToAddressBook.accesskey "t">
 <!ENTITY EditContact.label "Taisyti adresatą…">
 <!ENTITY EditContact.accesskey "a">
 <!ENTITY ViewContact.label "Rodyti adresatą">
