@@ -45,8 +45,6 @@
 
 <!ENTITY filterPrefs.label "Filter:">
 <!ENTITY filterPrefs.accesskey "F">
-<!ENTITY showAll.label "Alles anzeigen">
-<!ENTITY showAll.accesskey "A">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Einstellungsname">
