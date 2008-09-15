@@ -1,19 +1,19 @@
-<!ENTITY itemGeneral.label "כללי">
+<!-- ### ENTITY itemGeneral.label "כללי" -->
 <!ENTITY itemJunk.label "זבל">
 <!ENTITY itemPhishing.label "הונאות דוא״ל">
 <!ENTITY itemPasswords.label "סיסמאות">
 <!ENTITY itemAntiVirus.label "אנטי-וירוס">
-<!ENTITY disableImageInMailNews.label "חסום טעינת תמונות מרוחקות בהודעות דואר">
-<!ENTITY disableImageInMailNews.accesskey "ט">
-<!ENTITY allowRemoteImagesForFriends.label "אפשר תמונות מרוחקות אם השולח נמצא בתוך:">
-<!ENTITY allowRemoteImagesForFriends.accesskey "א">
-<!ENTITY enbJsCheckMailNews.label "חסום JavaScript בהודעות דואר">
-<!ENTITY enbJsCheckMailNews.accesskey "ח">
+<!-- ### ENTITY disableImageInMailNews.label "חסום טעינת תמונות מרוחקות בהודעות דואר" -->
+<!-- ### ENTITY disableImageInMailNews.accesskey "ט" -->
+<!-- ### ENTITY allowRemoteImagesForFriends.label "אפשר תמונות מרוחקות אם השולח נמצא בתוך:" -->
+<!-- ### ENTITY allowRemoteImagesForFriends.accesskey "א" -->
+<!-- ### ENTITY enbJsCheckMailNews.label "חסום JavaScript בהודעות דואר" -->
+<!-- ### ENTITY enbJsCheckMailNews.accesskey "ח" -->
 <!ENTITY junkMail.intro "קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל יחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.">
 <!ENTITY manualMark.label "כאשר אני מסמן הודעות כזבל:">
 <!ENTITY manualMarkModeMove.label "העבר לתיקיית &quot;דואר זבל&quot; של החשבון">
 <!ENTITY markAsReadOnSpam.label "סמן הודעות שזוהו כזבל כהודעות שנקראו">
-<!ENTITY markAsReadOnSpam.acesskey "ס">
+<!-- ### ENTITY markAsReadOnSpam.acesskey "ס" -->
 <!ENTITY manualMarkModeDelete.label "מחק אותן">
 <!ENTITY enableJunkLogging.label "אפשר רישום מסנן הזבל">
 <!ENTITY enableJunkLogging.accesskey "ר">

@@ -58,7 +58,7 @@
 <!ENTITY composingDescription.label "קבע את קידוד התווים ברירת המחדל עבור קבלת ושליחת דואר">
 <!ENTITY viewDefaultCharsetList.label "דואר נכנס:">
 <!ENTITY viewDefaultCharsetList.accesskey "נ">
-<!ENTITY forceCharsetOverride.label "החל את קידוד התווים שבברירת המחדל עבור כל ההודעות הנכנסות">
-<!ENTITY forceCharsetOverride.accesskey "ח">
-<!ENTITY replyInDefaultCharset.label "השתמש בקידוד התווים ברירת המחדל בהשבות">
-<!ENTITY replyInDefaultCharset.accesskey "ה">
+<!-- ### ENTITY forceCharsetOverride.label "החל את קידוד התווים שבברירת המחדל עבור כל ההודעות הנכנסות" -->
+<!-- ### ENTITY forceCharsetOverride.accesskey "ח" -->
+<!-- ### ENTITY replyInDefaultCharset.label "השתמש בקידוד התווים ברירת המחדל בהשבות" -->
+<!-- ### ENTITY replyInDefaultCharset.accesskey "ה" -->
