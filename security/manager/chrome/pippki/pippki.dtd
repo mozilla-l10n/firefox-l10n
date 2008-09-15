@@ -32,7 +32,7 @@
 <!ENTITY formSigning.title "בקשה לחתימה על טקסט">
 <!ENTITY getPassword.password.label "סיסמה:">
 <!ENTITY getPassword.title "הכנס סיסמה ראשית">
-<!ENTITY getPassword.tokenName.label "התקן אבטחה">
+<!ENTITY getPassword.tokenName2.label "התקן אבטחה:">
 <!ENTITY pipalert.title "שגיאה - לא יכול לשחזר">
 <!ENTITY piperror.title "שגיאה">
 <!ENTITY pkcs12.getpassword.message "אנא הכנס את הסיסמה ששימשה להצפנת גיבוי אישור זה.">
