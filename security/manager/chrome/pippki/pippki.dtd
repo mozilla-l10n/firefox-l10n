@@ -51,7 +51,7 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title "Zadejte hlavní heslo">
-<!ENTITY getPassword.tokenName.label "Bezpečnostní zařízení">
+<!ENTITY getPassword.tokenName2.label "Bezpečnostní zařízení">
 <!ENTITY getPassword.password.label "Heslo:">
 
 <!-- These should be common -->

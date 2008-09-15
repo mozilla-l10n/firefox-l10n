@@ -1,0 +1,11 @@
+<!ENTITY editContactName.label "Jméno:">
+<!ENTITY editContactName.accesskey "J">
+
+<!ENTITY editContactEmail.label "E-mail:">
+<!ENTITY editContactEmail.accesskey "E">
+
+<!ENTITY editContactPanelCancel.label "Zrušit">
+<!ENTITY editContactPanelCancel.accesskey "Z">
+
+<!ENTITY editContactPanelDone.label "Hotovo">
+<!ENTITY editContactPanelDone.accesskey "H">
