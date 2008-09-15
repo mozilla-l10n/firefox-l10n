@@ -439,6 +439,7 @@
 <!ENTITY backButton1.label "Zpět">
 <!ENTITY goForwardButton1.label "Vpřed">
 <!ENTITY deleteButton.label "Smazat">
+<!ENTITY undeleteButton.label "Obnovit">
 <!ENTITY markButton.label "Označit">
 <!ENTITY printButton.label "Tisk">
 <!ENTITY stopButton.label "Zastavit">
@@ -470,6 +471,7 @@
 <!ENTITY goForwardButton.tooltip "Přejde o jednu zprávu vpřed">
 <!ENTITY goBackButton.tooltip "Přejde o jednu zprávu vzad">
 <!ENTITY deleteButton.tooltip "Smaže označené zprávy nebo složky">
+<!ENTITY undeleteButton.tooltip "Obnoví označené zprávy">
 <!ENTITY markButton.tooltip "Označí zprávu">
 <!ENTITY printButton.tooltip "Vytiskne tuto zprávu">
 <!ENTITY stopButton.tooltip "Zastaví probíhající akci">
@@ -636,6 +638,8 @@
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Přidat do kontaktů…">
 <!ENTITY AddToAddressBook.accesskey "P">
+<!ENTITY AddDirectlyToAddressBook.label "Přidat do kontaktů">
+<!ENTITY AddDirectlyToAddressBook.accesskey "P">
 <!ENTITY EditContact.label "Upravit kontakt…">
 <!ENTITY EditContact.accesskey "U">
 <!ENTITY ViewContact.label "Zobrazit kontakt">
@@ -652,10 +656,10 @@
 <!ENTITY reportPhishingURL.accesskey "N">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Uložit cíl odkazu">
-<!ENTITY saveLinkCmd.accesskey "k">
-<!ENTITY saveImageCmd.label "Uložit obrázek">
-<!ENTITY saveImageCmd.accesskey "o">
+<!ENTITY saveLinkAsCmd.label "Uložit cíl odkazu jako…">
+<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveImageAsCmd.label "Uložit obrázek jako…">
+<!ENTITY saveImageAsCmd.accesskey "o">
 <!ENTITY copyCmd.label "Kopírovat">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Vybrat vše">
