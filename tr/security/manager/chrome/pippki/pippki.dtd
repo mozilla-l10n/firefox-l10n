@@ -51,7 +51,6 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "Ana parolanızı girin">
-<!ENTITY getPassword.tokenName.label "Güvenlik Aygıtları">
 <!ENTITY getPassword.password.label "Parola:">
 
 <!-- These should be common -->

@@ -22,8 +22,6 @@
 
 <!ENTITY     filter.label                   "Arama:">
 <!ENTITY     filter.accesskey               "A">
-<!ENTITY     clear.label                    "Temizle">
-<!ENTITY     clear.accesskey                "z">
 
 <!ENTITY     button.close.label             "Kapat">
 <!ENTITY     button.close.accesskey         "K">
