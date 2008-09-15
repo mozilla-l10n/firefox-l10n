@@ -471,6 +471,7 @@
 <!ENTITY backButton1.label "Atgal">
 <!ENTITY goForwardButton1.label "Pirmyn">
 <!ENTITY deleteButton.label "Pašalinti">
+<!ENTITY undeleteButton.label "Grąžinti">
 <!ENTITY markButton.label "Pažymėti">
 <!ENTITY printButton.label "Spausdinti">
 <!ENTITY stopButton.label "Stabdyti">
@@ -502,6 +503,7 @@
 <!ENTITY goForwardButton.tooltip "Eiti vienu laišku pirmyn">
 <!ENTITY goBackButton.tooltip "Eiti vienu laišku atgal">
 <!ENTITY deleteButton.tooltip "Pašalinti pažymėtus laiškus arba aplanką">
+<!ENTITY undeleteButton.tooltip "Atšaukti pažymėto laiško šalinimą">
 <!ENTITY markButton.tooltip "Pažymėti laiškus">
 <!ENTITY printButton.tooltip "Spausdinti šį laišką">
 <!ENTITY stopButton.tooltip "Stabdyti atsiuntimą">
