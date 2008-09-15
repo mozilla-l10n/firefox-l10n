@@ -6,3 +6,7 @@
 <!ENTITY aboutVersion "גרסה">
 <!ENTITY copyrightInfo          "&#169;1998-2008 תורמים. 
 כל הזכויות שמורות. Firefox והסמלים של Firefox הם סימנים מסחריים של קרן Mozilla. כל הזכויות שמורות.">
+
+<!ENTITY closeCmdGNOME.label        "סגירה">  
+<!ENTITY closeCmdGNOME.accesskey    "ס">
+<!ENTITY copyrightGNOME.accesskey   "ת">

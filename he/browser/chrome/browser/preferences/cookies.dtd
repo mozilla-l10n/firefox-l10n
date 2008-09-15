@@ -4,8 +4,8 @@
 <!ENTITY button.removeallcookies.label "הסר את כל העוגיות">
 <!ENTITY button.removecookie.accesskey "ע">
 <!ENTITY button.removecookie.label "הסר עוגיה">
-<!ENTITY clear.accesskey "נ">
-<!ENTITY clear.label "נקה">
+<!-- ### ENTITY clear.accesskey "נ" -->
+<!-- ### ENTITY clear.label "נקה" -->
 <!ENTITY cookiedomain.label "אתר">
 <!ENTITY cookiename.label "שם עוגיה">
 <!ENTITY cookiesonsystem.label "העוגיות הבאות מאוחסנות על המחשב שלך.">

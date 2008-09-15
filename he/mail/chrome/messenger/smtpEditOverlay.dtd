@@ -13,11 +13,11 @@
 <!ENTITY isSecure.label "השתמש בקשר מאובטח:">
 <!ENTITY neverSecure.label "לא">
 <!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSecure.label "TLS, אם זמין">
-<!ENTITY sometimesSecure.accesskey "a">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSmtpS.label "SSL">
-<!ENTITY alwaysSmtpS.accesskey "L">
+<!-- ### ENTITY sometimesSecure.label "TLS, אם זמין" -->
+<!-- ### ENTITY sometimesSecure.accesskey "a" -->
+<!-- ### ENTITY alwaysSecure.label "TLS" -->
+<!-- ### ENTITY alwaysSecure.accesskey "T" -->
+<!-- ### ENTITY alwaysSmtpS.label "SSL" -->
+<!-- ### ENTITY alwaysSmtpS.accesskey "L" -->
 <!ENTITY smtpEditTitle.label "SMTP שרת">
 <!ENTITY serverPortDefault.label "ברירת מחדל:">
