@@ -45,8 +45,6 @@
 
 <!ENTITY filterPrefs.label "Süzgeç:">
 <!ENTITY filterPrefs.accesskey "S">
-<!ENTITY showAll.label "Hepsini göster">
-<!ENTITY showAll.accesskey "H">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Ayar ismi">
