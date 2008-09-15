@@ -442,6 +442,7 @@
 <!ENTITY backButton1.label "Zurück">
 <!ENTITY goForwardButton1.label "Vor">
 <!ENTITY deleteButton.label "Löschen">
+<!ENTITY undeleteButton.label "Nicht löschen">
 <!ENTITY markButton.label "Markieren">
 <!ENTITY printButton.label "Drucken">
 <!ENTITY stopButton.label "Stopp">
@@ -470,6 +471,7 @@
 <!ENTITY goForwardButton.tooltip "Eine Nachricht vorwärts in der Chonik der angesehenen Nachrichten">
 <!ENTITY goBackButton.tooltip "Eine Nachricht zurück in der Chonik der angesehenen Nachrichten">
 <!ENTITY deleteButton.tooltip "Gewählte Nachricht(en) oder Ordner löschen">
+<!ENTITY undeleteButton.tooltip "Gewählte Nachricht(en) nicht löschen">
 <!ENTITY markButton.tooltip "Gewählte Nachricht(en) markieren">
 <!ENTITY printButton.tooltip "Gewählte Nachricht(en) drucken">
 <!ENTITY stopButton.tooltip "Aktuelle Übertragung stoppen">
