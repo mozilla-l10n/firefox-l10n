@@ -38,8 +38,6 @@
 
 <!ENTITY filterPrefs.label "පෙරහන:">
 <!ENTITY filterPrefs.accesskey "I">
-<!ENTITY showAll.label "සියල්ල පෙන්වන්න">
-<!ENTITY showAll.accesskey "W">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "මනාප නමය">

@@ -10,7 +10,6 @@
 <!ENTITY  cancel.accesskey                "C">
 
 <!ENTITY  noupdatesfound.title            "යාවත්කාල කිරීම් හමු නොවුනි">
-<!ENTITY  noupdatesfound.intro            "මෙහි යාවත්කාල කිරීම් නොමැත. &brandShortName; කලින් කල නව යාවත්කාල කිරීම් පරික්ෂා කරයි.">
 
 
 <!ENTITY  clickHere.label                 "මෙම යාවත්කාල කිරීම පිළිබද තවත් තොරතුරු දක්වන්න">

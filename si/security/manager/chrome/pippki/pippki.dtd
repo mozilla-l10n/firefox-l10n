@@ -51,7 +51,6 @@
 
 <!-- Values for getpassword.xul -->
 <!ENTITY getPassword.title  "ප්‍රධාන රහස්පදය ඇතුළත් කරන්න">
-<!ENTITY getPassword.tokenName.label "ආරක්ෂක උපාංගය">
 <!ENTITY getPassword.password.label "රහස්පදය:">
 
 <!-- These should be common -->
