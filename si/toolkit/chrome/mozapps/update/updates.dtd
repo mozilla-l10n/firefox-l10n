@@ -2,7 +2,8 @@
 
 <!ENTITY  window.width                    "36em">
 <!ENTITY  window.macWidth                 "39em">
-
+<!ENTITY  noupdatesautoenabled.intro      "යාවත් කිරීමට කිසිවක් නොමැත. &brandShortName; වරින් වර යාවත් කිරීම් ඇත් දැයි සොයනු ඇත.">
+<!ENTITY  noupdatesautodisabled.intro     "යාවත් කිරීමට කිසිවක් නොමැත. කරුණාකර පසුව පරික්‍ෂා කරන්න හෝ &brandShortName; හි ස්වයංක්‍රීය යාවත් කිරීම් පරික්‍ෂාව සක්‍රීය කරන්න.">
 <!ENTITY  checking.title                  "යාවත්කාල කිරීම් සඳහා පරික්ෂා කිරීම">
 <!ENTITY  checking.label                  "&brandShortName; යාවත්කාල කිරීම් සඳහා පරික්ෂා කිරීම දැන් කරනු ලබයි...">
 
