@@ -417,6 +417,7 @@
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Вперёд">
 <!ENTITY deleteButton.label "Удалить">
+<!ENTITY undeleteButton.label "Восстановить">
 <!ENTITY markButton.label "Отметить">
 <!ENTITY printButton.label "Печать">
 <!ENTITY stopButton.label "Стоп">
@@ -446,6 +447,7 @@
 <!ENTITY goForwardButton.tooltip "Перейти к следующему сообщению">
 <!ENTITY goBackButton.tooltip "Перейти к предыдущему сообщению">
 <!ENTITY deleteButton.tooltip "Удалить выбранное сообщение или папку">
+<!ENTITY undeleteButton.tooltip "Восстановить выбранное сообщение">
 <!ENTITY markButton.tooltip "Отметить сообщения">
 <!ENTITY printButton.tooltip "Распечатать это сообщение">
 <!ENTITY stopButton.tooltip "Остановить текущую передачу данных">
