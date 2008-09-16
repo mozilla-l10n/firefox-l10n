@@ -158,7 +158,7 @@
 <!ENTITY insertchars.accesskey "C">
 <!ENTITY insertBreakCmd.label "Salto de línea">
 <!ENTITY insertbreak.accesskey "b">
-<!ENTITY insertBreakAllCmd.label "Romper la(s) imágen(es) inferior(es)">
+<!ENTITY insertBreakAllCmd.label 'Ruptura tras imágenes (&lt;br clear="all"&gt;)'>
 <!ENTITY insertbreakall.accesskey "R">
 <!ENTITY insertFormCmd.label "Definir formulario…">
 <!ENTITY insertform.accesskey "D">
