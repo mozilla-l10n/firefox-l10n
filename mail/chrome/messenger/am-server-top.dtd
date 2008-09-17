@@ -55,7 +55,7 @@
 <!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
 <!ENTITY popServerTitle.label "POP-Server Information">
 <!ENTITY deleteMessagePrefix.label "Beim Löschen einer Nachricht:">
-<!ENTITY modelMoveToTrash.label "In den Papierkorb verschieben">
+<!ENTITY modelMoveToTrash.label "In diesen Ordner verschieben:">
 <!ENTITY modelMoveToTrash.accesskey "I">
 <!ENTITY modelMarkDeleted.label "Als gelöscht markieren">
 <!ENTITY modelMarkDeleted.accesskey "ö">
