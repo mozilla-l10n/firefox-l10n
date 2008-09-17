@@ -1,0 +1,37 @@
+<!-- extracted from content/pref-composer.xul -->
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+
+
+<!ENTITY pref.composer.title "Composer">
+
+<!ENTITY saving "E a boloka">
+<!ENTITY AutoSaveCheck "Boloka ka ho iketsa">
+<!ENTITY minText "metsotso">
+
+<!ENTITY exterLegend.label "Bahlophisi ba Kantle">
+<!ENTITY htmlSource "Mohlodi wa HTML:">
+<!ENTITY imageeditor "Ditshwantsho:">
+<!ENTITY chooseButton.label "Kgetha">
+
+<!ENTITY recentFiles.title "Menu ya Maqephe a Moraorao">
+<!ENTITY documentsInMenu.label "Palo e kahodimodimo ya maqephe a fanweng:">
+<!ENTITY documentsInMenu.accesskey "m">
+
+<!ENTITY savingFiles.title "Ha e Boloka kapa e Phatlalatsa Maqephe">
+<!ENTITY preserveExisting.label "Sireletsa mohlodi wa motheo wa ho fomata">
+<!ENTITY preserveExisting.accesskey "S">
+<!ENTITY preserveExisting.tooltip "E sireletsa mapomelo a mela le ho fomatwa ha leqephe ha motheo">
+<!ENTITY saveAssociatedFiles.label "E boloka ditshwantsho le difaele tse ding tse amanang le tsona ha e boloka maqephe">
+<!ENTITY saveAssociatedFiles.accesskey "E">
+<!ENTITY showPublishDialog.label "Kamehla bontsha Phatlalatso ya puisano ha o phatlalatsa maqephe">
+<!ENTITY showPublishDialog.accesskey "K">
+
+<!ENTITY composerEditing.label "Ho edita">
+<!ENTITY maintainStructure.label "Tsweletsa pele moralo wa tafole ha o kenya kapa o phumula disele">
+<!ENTITY maintainStructure.tooltip "Sireletsa sebopeho sa rekthenkele sa tafole ka ho eketsa disele ka tsela e iketsang kamora ho kenya kapa ho phumula disele">
+<!ENTITY maintainStructure.accesskey "T">
+<!ENTITY useCSS.label "Sebedisa ditaele tsa CSS ho fapana le dielemente tsa HTML le dipopeho">
+<!ENTITY useCSS.accesskey "S">
+<!ENTITY crInPCreatesNewP.label "Ho tobetsa konopo ya Kgutla serapeng kamehla ho etsa serapa se setjha">
+<!ENTITY crInPCreatesNewP.accesskey "H">

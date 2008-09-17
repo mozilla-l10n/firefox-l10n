@@ -1,0 +1,8 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Molaetsa">
+<!ENTITY newMessageCmd.accesskey "m">
+ 
+<!ENTITY newCardCmd.label "Karete ya Buka ya Diaterese...">
+<!ENTITY newCardCmd.accesskey "b">
+

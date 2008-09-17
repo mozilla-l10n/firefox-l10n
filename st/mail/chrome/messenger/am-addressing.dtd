@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Bohlophisi &amp; Ho ateresa">
+<!ENTITY addressingGroupTitle.label "Ho ateresa">
+<!ENTITY addressingText.label "Ha o sheba diaterese:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "Sebedisa boikgethelo ba ka bakeng sa seva ya ka ya LDAP e akaretsang bakeng sa akhaonte ena">
+<!ENTITY useGlobal.accesskey "S">
+<!ENTITY editDirectories.label "Edita didaerektri...">
+<!ENTITY editDirectories.accesskey "E">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Sebedisa seva ya LDAP e fapaneng:">
+<!ENTITY directories.accesskey "d">
+<!-- am-addressing.xul -->
+
+
+<!ENTITY compositionGroupTitle.label "Tlhophiso">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Hlophisa melaetsa ka fomate ya HTML">
+<!ENTITY useHtml.accesskey "H">
+<!ENTITY autoQuote.label "Qotsa molaetsa wa mathomo ka ho iketsa ha o araba">
+<!ENTITY autoQuote.accesskey "m">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "Ebe o,">
+<!ENTITY then.accesskey "e">
+<!ENTITY aboveQuote.label "qala karabo ya ka ka hodima qotso">
+<!ENTITY belowQuote.label "qala karabo ya ka ka tlasa qotso">
+<!ENTITY selectAndQuote.label "kgetha qotso">
+<!ENTITY place.label "ebe o kenya tshaeno ya ka">
+<!ENTITY place.accesskey "k">
+<!ENTITY belowText.label "ka tlasa qotso (e a kgothaletswa)">
+<!ENTITY aboveText.label "tlasa karabo ya ka (hodima qotso)">

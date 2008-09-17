@@ -1,0 +1,27 @@
+<!ENTITY pane.title "Kgutliso ya Rasiti">
+<!ENTITY useGlobalPrefs.label "Sebedisa boikgethelo ba kgutliso ya rasiti ya ka e akaretsang bakeng akhaonte ena">
+<!ENTITY useGlobalPrefs.accesskey "S">
+<!ENTITY useCustomPrefs.label "Khastomaesa dirasiti tsa kgutliso bakeng sa akhaonto ena">
+<!ENTITY useCustomPrefs.accesskey "K">
+<!ENTITY requestReceipt.label "Ha o romela melaetsa, kamehla kopa kgutliso ya rasiti">
+<!ENTITY requestReceipt.accesskey "H">
+<!ENTITY receiptArrive.label "Ha rasiti e fihla:">
+<!ENTITY leaveIt.label "E siye ho la Tsekenang la ka">
+<!ENTITY leaveIt.accesskey "T">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label "E ise foldareng ya ka ya &quot;Tse rometsweng&quot;">
+<!ENTITY moveToSent.accesskey "E">
+<!ENTITY requestMDN.label "Ha ke fumana kopo ya kgutliso ya rasiti:">
+<!ENTITY returnSome.label "Dumella kgutliso ya dirasiti melaetseng e meng">
+<!ENTITY returnSome.accesskey "u">
+<!ENTITY never.label "Se romele kgutliso ya rasiti le kamohla">
+<!ENTITY never.accesskey "S">
+<!ENTITY notInToCc.label "Ebang ke se ho Ho kapa Cc ya molaetsa:">
+<!ENTITY notInToCc.accesskey "H">
+<!ENTITY outsideDomain.label "Ebang moromedi a le kantle ho domeine ya ka:">
+<!ENTITY outsideDomain.accesskey "m">
+<!ENTITY otherCases.label "Maemong a mang ohle:">
+<!ENTITY otherCases.accesskey "o">
+<!ENTITY askMe.label "Mpotse">
+<!ENTITY alwaysSend.label "Romela kamehla">
+<!ENTITY neverSend.label "Se romele le kamohla">

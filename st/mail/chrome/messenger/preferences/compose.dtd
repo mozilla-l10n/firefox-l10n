@@ -1,0 +1,60 @@
+<!ENTITY itemGeneral.label "E akaretsang">
+<!ENTITY itemAutoComplete.label "Ho ateresa">
+<!ENTITY itemSpellCheck.label "Mopeleto">
+<!ENTITY itemSendFormat.label "Romela Fomate">
+
+<!ENTITY forwardReply.label "Ho fetisa Melaetsa">
+<!ENTITY forwardMsg.label "Fetisa melaetsa:">
+<!ENTITY forwardMsg.accesskey "f">
+<!ENTITY inline.label "Ho bapa">
+<!ENTITY inline.accesskey "H">
+<!ENTITY asAttachment.label "Jwalo ka Sephuthelwana">
+<!ENTITY asAttachment.accesskey "J">
+
+<!ENTITY sendingMessagesHeader.label "Ho Hlopha Molaetsa">
+<!ENTITY spellCheck.label "Hlahloba mopeleto pele o romela">
+<!ENTITY spellCheck.accesskey "H">
+<!ENTITY spellCheckInline.label "Enable spell check as you type">
+<!ENTITY spellCheckInline.accesskey "n">
+<!ENTITY languagePopup.label "Leleme:">
+<!ENTITY languagePopup.accessKey "l">
+<!ENTITY downloadDictionaries.label "Jarolla Didikshinari tse Ding">
+
+<!ENTITY useMIME.label "Bakeng sa melaetsa e nang le dilthaku tsa 8-bit, sebedisa 'qotso e printehang' Ho khoudwa ha MIME">
+<!ENTITY useMIME.accesskey "a">
+<!ENTITY warnOnSendAccelKey.label "Netefatsa ha o sebedisa khiboto e kgaoletsang ho romela molaetsa">
+<!ENTITY warnOnSendAccelKey.accesskey "t">
+<!ENTITY autoSave.label "Boloka ka Ho Iketsa">
+<!ENTITY autoSave.accesskey "t">
+<!ENTITY autoSaveEnd.label "metsotso">
+<!ENTITY autoSaveEnd.accesskey "m">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "Phuthela melaetsa e poleine ka">
+<!ENTITY wrapOutMsg.accesskey "l">
+<!ENTITY char.label "ditlhaku">
+
+<!ENTITY emailCollectionPicker.label "Eketsa melaetsa e itshebetsang e tswang ya imeile ya ka ho:">
+<!ENTITY emailCollectionPicker.accesskey "e">
+<!ENTITY addressingTitle.label "Ho Itlatsetsa Aterese">
+<!ENTITY autocompleteText.label "Ha o ateresa melaetsa sheba dikenyo tse tshwanang ho:">
+<!ENTITY addressingEnable.label "Dibuka tsa Diaterese tsa Tikoloho">
+<!ENTITY addressingEnable.accesskey "D">
+<!ENTITY directories.label "Seva ya Daerekhthri:">
+<!ENTITY directories.accesskey "S">
+<!ENTITY editDirectories.label "Edita Didaerekhthri...">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY matchText.label "Ha eba ho na le ho tshwana dibukeng tsa hao tsa diaterese tsa tikoloho:">
+<!ENTITY skipDirectory.label "Se batle daerekhthring">
+
+<!ENTITY sendOptionsCaption.label "Romela le Kgetho ya HTML">
+<!ENTITY sendOptionsDescription.label "Hlophisa boitshwaro ba fomate ya sengolwa">
+<!ENTITY sendOptions.label "Romela Kgetho...">
+<!ENTITY sendOptions.accesskey "R">
+
+<!ENTITY htmlComposeDescription.label "Hlophisa difolto tsa kgetho ya HTML">
+<!ENTITY htmlCompose.label "Kgetho ya HTML...">
+<!ENTITY htmlCompose.accesskey "H">
+
+<!ENTITY returnReceiptsInfo.label "Lekanya ka moo &brandShortName; e sebetsanang le dikgutliso tsa rasiti">
+<!ENTITY showReturnReceipts.label "Dikgutliso tsa Rasiti...">
+<!ENTITY showReturnReceipts.accesskey "D">

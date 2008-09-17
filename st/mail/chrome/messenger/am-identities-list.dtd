@@ -1,0 +1,8 @@
+<!ENTITY identitiesListTitle.label "Boitsebiso bo Amanang le Akhaonto Ena">
+<!ENTITY identitiesListDesc.label "Tshehetso ya Boitsebiso bo Hangata">
+<!ENTITY identitiesListAdd.label "Eketsa...">
+<!ENTITY identitiesListAdd.accesskey "E">
+<!ENTITY identitiesListEdit.label "Edita...">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "Phumula">
+<!ENTITY identitiesListDelete.accesskey "P">

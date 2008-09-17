@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title "Modumo wa Meile e Ntjha">
+<!ENTITY window.width "30em">
+
+<!ENTITY soundNotification.caption "Fetola Modumo bakeng sa Meile e Ntjha">
+<!ENTITY preview.label "Etsa tekolopele ya Modumo">
+<!ENTITY preview.accesskey "p">
+<!ENTITY systemsound.label "Modumo wa Meile e Ntjha ya Sistimi">
+<!ENTITY systemsoundMac.label "Modumo wa Temoso ya Sistimi">
+<!ENTITY systemsound.accesskey "d">
+<!ENTITY customsound.label "Ya tlwaelo .wav file">
+<!ENTITY customsound.accesskey "Y">
+<!ENTITY browse.label "Lekola...">
+<!ENTITY browse.accesskey "L">

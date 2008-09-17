@@ -1,0 +1,7 @@
+<!ENTITY window.title "Khastomaesa Dihlooho">
+<!ENTITY addButton.label "Eketsa">
+<!ENTITY addButton.accesskey "E">
+<!ENTITY removeButton.label "Tlosa">
+<!ENTITY removeButton.accesskey "T">
+<!ENTITY newMsgHeader.label "Sehlooho sa molaetsa o motjha:">
+<!ENTITY newMsgHeader.accesskey "S">

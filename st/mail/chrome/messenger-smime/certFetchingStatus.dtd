@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "E jarollwa Disetefikeiti">
+<!ENTITY info.message "Ho batluwa daerektri ya babamohedi ba disetefikeiti. sena se tla nka metsotswana.">
+<!ENTITY stop.label "Emisa ho Batla">

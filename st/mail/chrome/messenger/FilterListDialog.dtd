@@ -1,0 +1,29 @@
+<!ENTITY window.title "Difiltara tsa Melaetsa">
+<!ENTITY nameColumn.label "Lebitso la Filtara">
+<!ENTITY activeColumn.label "E kgonahaditswe…">
+<!ENTITY newButton.label "E ntjha...">
+<!ENTITY newButton.accesskey "E">
+<!ENTITY editButton.label "Edita...">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "Phumula">
+<!ENTITY deleteButton.accesskey "m">
+<!ENTITY reorderUpButton.label "Eya Hodimo">
+<!ENTITY reorderUpButton.accesskey "H">
+<!ENTITY reorderDownButton.label "Eya Tlase">
+<!ENTITY reorderDownButton.accesskey "T">
+<!ENTITY filterHeader.label "Difiltara tse buletsweng di itshebetsa ka tsela e bontshitsweng ka tlase mona.">
+<!ENTITY filtersForPrefix.label "Difiltara tsa:">
+<!ENTITY filtersForPrefix.accesskey "D">
+<!ENTITY viewLogButton.label "Log ya Filtara">
+<!ENTITY viewLogButton.accesskey "F">
+<!ENTITY runFilters.label "Bulela Hona Jwale">
+<!ENTITY runFilters.accesskey "B">
+<!ENTITY stopFilters.label "Emisa">
+<!ENTITY stopFilters.accesskey "E">
+<!ENTITY folderPickerPrefix.label "Bulela difiltara tse kgethilweng ho:">
+<!ENTITY folderPickerPrefix.accesskey "h">
+<!ENTITY choosethis.label "kgetha foldara ena">
+<!ENTITY choosethisnewsserver.label "kgetha seva ena ya ditaba">
+<!ENTITY helpButton.label "Thuso">
+<!ENTITY helpButton.accesskey "T">
+<!ENTITY closeCmd.key "W">

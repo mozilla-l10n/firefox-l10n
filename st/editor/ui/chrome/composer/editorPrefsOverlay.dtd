@@ -1,0 +1,9 @@
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "Sehlophisi">
+<!ENTITY editing.label "Disetiwa tsa Leqephe le Letjha">
+<!ENTITY toolbars.label "Dithulebara">
+<!ENTITY publish.label "Ho phatlalatsa">

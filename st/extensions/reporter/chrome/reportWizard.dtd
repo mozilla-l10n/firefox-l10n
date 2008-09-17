@@ -1,0 +1,56 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Tlaleha Setsha sa Inthanete se Robilweng">
+
+<!ENTITY privacyNotice.label "Leano la Boikgutso">
+<!ENTITY reportWizardPrivacy.description "Thulusi ena e o dumella ho jwetsa Sehlopha sa Boevangeli mabapi le ditsha tse sa sebetseng hantle ho &brandShortName;, kapa kwalla &brandShortName; kantle. Ena ke tsela ya hao ya ho re thusa ho netefatsa tshebediso e ntle ka ho fetisisa bakeng sa basebedisi ba &brandShortName;. Ka kopo iphe nako ho bala se latelang ho ithuta mabapi le ka moo re sebedisang tlhahisoleseding eo re e bokellang haeba o ka kgetha ho nka seabo.">
+<!ENTITY reportWizardMustAgree.description "Ho tswela pele o hloka ho dumela leano la boikgutso le hlalositsweng kahodimo mona.">
+
+<!ENTITY dontShowPrivacyStatement.label "Ke badile le ho amohela leano la boikgutso le hlalositsweng kahodimo mona.">
+<!ENTITY dontShowPrivacyStatement.accesskey "K">
+
+<!ENTITY reportForm.label "Tlatsa Raporoto">
+
+<!ENTITY reportForm.description "Re jwetse hanyane mabapi le bothata bo o thulaneng le bona:">
+<!ENTITY reportForm.url.title "URL ya Setsha sa Inthanete:">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Web site is password-protected">
+<!ENTITY reportForm.behind_login.accesskey "P">
+
+<!ENTITY reportForm.problem_type.title "Problem Type:">
+<!ENTITY reportForm.problem_type.accesskey "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Kgetha E le nngwe...">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Sebadi ha se tshehetswe">
+<!ENTITY reportForm.problem_type.item2.title "Ha e kgone ho kena">
+<!ENTITY reportForm.problem_type.item3.title "Plugin ha e a bontshwa">
+<!ENTITY reportForm.problem_type.item4.title "Dikateng tse ding ha diyo">
+<!ENTITY reportForm.problem_type.item5.title "Boitshwaro bo fosahetse">
+<!ENTITY reportForm.problem_type.item6.title "Ponahalo e fosahetse">
+<!ENTITY reportForm.problem_type.item7.title "Bothata bo bong">
+
+<!ENTITY reportForm.describe.title "Describe Problem:">
+<!ENTITY reportForm.describe.accesskey "D">
+
+<!ENTITY reportForm.platform.title "Polatefomo:">
+<!ENTITY reportForm.product.title "Sehlahiswa:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "Moemedi wa mosebedisi:">
+<!ENTITY reportForm.language.title "Leleme:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "Email (Optional):">
+<!ENTITY reportForm.email.accesskey "E">
+
+<!ENTITY reportForm.privacyPolicy.title "Leano la Boikgutso">
+<!ENTITY reportForm.privacyPolicy.tooltip "Sheba Leano la Boikgutso">
+
+<!ENTITY reportResults.showDetail.title "Show Details">
+<!ENTITY reportResults.showDetail.accesskey "S">
+
+<!ENTITY sendReport.label "E romela Raporoto">
+<!ENTITY sendReport.description "E romela Raporoto ho Seva...">
+
+<!ENTITY finish.label "Raporoto e Rometswe">

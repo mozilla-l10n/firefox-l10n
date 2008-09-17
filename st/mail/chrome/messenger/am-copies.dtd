@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Dikhopi &amp; Difoldara">
+<!ENTITY sendingPrefix.label "Ha o romela melaetsa ka ho iketsa: ">
+<!ENTITY fccMailFolder.label "Beha khopi ho:">
+<!ENTITY fccMailFolder.accesskey "B">
+<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Kgetha Foldara...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc diaterese tsena tsa imeili:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Difoldara tse kgethehileng">
+<!ENTITY draftMailFolder.label "Boloka meralo ya melaetsa ho:">
+<!ENTITY templateMailFolder.label "Boloka dithempleiti tsa melaetsa ho:">
+<!ENTITY saveMessageDlg.label "Bontsha netefatso ya puisano ha melaetsa e bolokwa">
+<!ENTITY saveMessageDlg.accesskey "B">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Rometswe&quot; Foldara ho:">
+<!ENTITY sentFolderOn.accesskey "m">
+<!ENTITY sentInOtherFolder.label "Esele:">
+<!ENTITY sentInOtherFolder.accesskey "E">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Meralo&quot; Foldara ho:">
+<!ENTITY draftsFolderOn.accesskey "M">
+<!ENTITY draftInOtherFolder.label "Esele:">
+<!ENTITY draftInOtherFolder.accesskey "s">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Dithempleiti&quot; Foldara ho:">
+<!ENTITY templatesFolderOn.accesskey "t">
+<!ENTITY templateInOtherFolder.label "Esele:">
+<!ENTITY templateInOtherFolder.accesskey "s">
+<!ENTITY specialFoldersTitle.label "Meralo le Dithempleite">
+<!ENTITY keepDrafts.label "Boloka meralo ya melaetsa ho:">
+<!ENTITY keepTempltes.label "Boloka dithempleite tsa melaetsa ho:">

@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Ho baballa sebaka sa diski, se ke wa jarolla:">
+<!ENTITY doNotDownload.label "Ho baballa sebaka sa diski, se ke wa jarolla bakeng sa tshebetso e sa hokelwang:">
+<!ENTITY offlineNewFolder.label "Ha ke etsa difoldara tse ntjha, ke di kgethela tshebediso ya ha ke sa hokela">
+<!ENTITY offlineNewFolder.accesskey "e">
+<!ENTITY offlineNotDownload.label "Melaetsa e meholo ho">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "matsatsi">
+<!ENTITY daysOld.label "e matsatsi a">
+<!ENTITY message.label "melaetsa">
+<!ENTITY nntpNotDownloadRead.label "Melaetsa e badilweng">
+<!ENTITY nntpNotDownloadRead.accesskey "M">
+<!ENTITY nntpDownloadMsg.label "Melaetsa e fetang">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Ho fumana sebaka sa diski hape, melaetsa ya kgale e ka hlakolelwa ruri">
+<!ENTITY retentionKeepMsg.label "Phumula melaetsa e fetang">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Se phumule melaetsa efe kapa efe">
+<!ENTITY retentionKeepAll.accesskey "M">
+<!ENTITY retentionKeepNew.label "Phumula yohle ntle le wa qetelo">
+<!ENTITY retentionKeepNew.accesskey "u">
+<!ENTITY retentionKeepUnread.label "Kamehla phumula melaetsa e badilweng">
+<!ENTITY retentionKeepUnread.accesskey "m">
+<!ENTITY nntpRemoveBody.label "Feela melaetsa ya boholo bo ka tlasa">
+<!ENTITY nntpRemoveBody.accesskey "F">
+<!ENTITY offlineSelectNntp.label "Kgetha dihlopha tsa ditaba bakeng sa tshebediso e sa hokelwang...">
+<!ENTITY offlineSelectImap.label "Kgetha difoldara bakeng sa tshebediso e sa hokelwang...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "O ka jarollela melaetsa ya hao sebakeng se haufi hore e fumanehe tshebetsong e sa hokelwang.">
+<!ENTITY makeInboxMsgsAvailable.label "Etsa hore melaetsa e ho Ekenang e fumanehe tshebetsong e sa hokelwang">
+<!ENTITY makeInboxMsgsAvailable.accesskey "k">
+<!ENTITY offlineGroupTitle.label "E sa hokelwang">
+<!ENTITY diskspaceGroupTitle.label "Sebaka sa Diski">

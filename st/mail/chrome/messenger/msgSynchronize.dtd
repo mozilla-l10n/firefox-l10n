@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Jarolla le ho Amahanya Melaetsa">
+<!ENTITY MsgSelect.label "Dintho tse Sebediswang Ntle Kgokelo Inthaneteng">
+<!ENTITY MsgSyncDesc.label "Haeba o se o kgethile difoldara tsa meile kapa dihlopha tsa ditaba bakeng sa tshebetso sa hokelang ho inthanete, o ka jarolla le/kapa wa e amahanya hona jwale. Ho seng jwalo, sebedisa use the &quot;Kgetha&quot; konopo ho kgetha difoldara tsa meile le dihlopha tsa ditaba bakeng sa tshebediso e sa hokelang ho inthanete.">
+<!ENTITY MsgSyncDirections.label "Jarolla le ho/kapa amahanya tse latelang:">
+<!ENTITY syncTypeMail.label "Melaetsa ya meile">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "Melaetsa ya sehlopha sa ditaba">
+<!ENTITY syncTypeNews.accesskey "M">
+<!ENTITY sendMessage.label "Romela melaetsa E sa Romelwang">
+<!ENTITY sendMessage.accesskey "R">
+<!ENTITY workOffline.label "Sebetsa o sa hokela inthaneteng hang ha ho jarolla le/kapa kamahanyo e phethilwe">
+<!ENTITY workOffline.accesskey "S">
+<!ENTITY selectButton.label "Kgetha...">
+<!ENTITY selectButton.accesskey "G">
+<!ENTITY MsgSelectDesc.label "Kgetha difoldara tsa meile le dihlopha tsa ditaba bakeng sa tshebetso e sa hokelang ho inthanete.">
+<!ENTITY MsgSelectInd.label "Jarolla">
+<!ENTITY MsgSelectItems.label "Difoldara le Dihlopha tsa ditaba">

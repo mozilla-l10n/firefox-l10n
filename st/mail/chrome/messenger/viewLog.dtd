@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Log ya Filtara">
+<!ENTITY viewLogInfo.text "Log ya Filtara e hlalosa difiltara tse sebedisitsweng bakeng sa akhaonte ena. Sebedisa lebokose la ho tshwaya ka tlase mona ho dumella ho kena.">
+<!ENTITY clearLog.label "Tlosa Log">
+<!ENTITY clearLog.accesskey "T">
+<!ENTITY enableLog.label "Sebedisa Log ya Filtara">
+<!ENTITY enableLog.accesskey "S">
+<!ENTITY closeLog.label "Kwala">
+<!ENTITY closeLog.accesskey "a">

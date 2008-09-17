@@ -1,0 +1,85 @@
+<!ENTITY updateWizard.title "Apdeite ya Software">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "E batlana le Diapdeite">
+<!ENTITY checking.label "&brandShortName; e batlana le diapdeite jwale...">
+
+<!ENTITY cancel.label "Khansela">
+<!ENTITY cancel.accesskey "K">
+
+<!ENTITY noupdatesfound.title "Ha ho diapdeite tse fumanweng">
+<!ENTITY noupdatesfound.intro "There are no new updates available. &brandShortName; may check 
+                                           periodically for new updates.">
+
+<!ENTITY updatesfound.title "Apdeite e a Fumaneha">
+
+<!ENTITY moreDetails.label "Dintlha tse Ding &#0187;">
+<!ENTITY moreDetails.accesskey "D">
+<!ENTITY clickHere.label "View more information about this update">
+
+<!ENTITY incompatible.warning "This update will cause some of your extensions and/or themes 
+                                           to stop working until they are updated.">
+<!ENTITY listIncompatible.label "Bontsha Lenane">
+<!ENTITY listIncompatible.accesskey "L">
+
+<!ENTITY upgrade.evangelism "It is strongly recommended that you upgrade &brandShortName; 
+                                           as soon as possible.">
+
+<!ENTITY license.title "Tumellano ya Laesense">
+<!ENTITY license.intro "To install this update you must agree to this license agreement. 
+                                           Please read it carefully:">
+<!ENTITY license.instructions "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
+
+<!ENTITY license.titleText "Software License Agreement">
+<!ENTITY license.introText "Terms and conditions for using this software.">
+<!ENTITY license.instructionText "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
+<!ENTITY license.accept "I accept the terms of the License Agreement">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "I do NOT accept the terms of the License Agreement">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY downloading.title "Ho Jarolla Apdeite">
+<!ENTITY downloading.intro "E jarolla apdeite...">
+<!ENTITY connecting.label "E hokela ho seva ya apdeite...">
+<!ENTITY verificationFailedText.label "&brandShortName; was unable to verify the integrity of the 
+                                           incremental update it downloaded, so it is now downloading
+                                           the complete update package.">
+
+<!ENTITY details.link "Dintlha">
+<!ENTITY pause.label "Kgefutso">
+<!ENTITY pause.accesskey "o">
+<!ENTITY close.label "Kwala">
+<!ENTITY close.accesskey "K">
+
+<!ENTITY error.label "There were problems checking for, downloading or installing this 
+                                           update. &brandShortName; could not be updated because:">
+                                           
+<!ENTITY errorManual.label "You can update &brandShortName; manually by visiting this link
+                                           and downloading the latest version:">
+                                           
+<!ENTITY errorpatching.title "Apdeite e Hlolehile">
+<!ENTITY errorpatching.intro "The partial Update could not be applied. 
+                                           &brandShortName; will try again by downloading a complete Update.">
+
+<!ENTITY finished.title "Apdeite e Jarollotswe">
+<!ENTITY finished.text "The update was successfully downloaded and verified, and it will
+                                           be installed the next time &brandShortName; starts.">
+
+<!ENTITY finishedBackground.title "Apdeite e Loketse ho Kenngwa">
+<!ENTITY finishedBackground.text "&brandShortName; has downloaded and verified an important update. 
+                                           Click the link below for more details.">
+<!ENTITY finishedBackground.name "Apdeite:">
+<!ENTITY finishedBackground.more1 "Click Restart &brandShortName; Now to install the update now.">
+<!ENTITY finishedBackground.more2 "Click Later to close this dialog and continue working. &brandShortName;
+                                           will install the update the next time it starts.">
+
+<!ENTITY installed.title "Apdeite e Kentswe">
+<!ENTITY installed.intro "Apdeite e kentswe ka katleho.">
+<!ENTITY whatsnew.label "Bala ho feta ka tse ntjha...">
+
+<!ENTITY update.details.label "Dintlha">
+<!ENTITY update.installedOn.label "E kentswe ka la:">
+<!ENTITY update.status.label "Boemo:">

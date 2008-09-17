@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Setapo ya Tjhebo ya Melaetsa">
+<!ENTITY mailViewHeading.label "Lebitso la tjhebo ya melaetsa:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Ha tjhebo ena e kgethilwe, bontsha feela melaetsa e:">
+

@@ -1,0 +1,14 @@
+<!ENTITY reportSite "Setsha">
+<!ENTITY reportProblemType "Mofuta wa Bothata">
+<!ENTITY reportDecsription "Tlhaloso">
+<!ENTITY reportPlatform "Polatefomo">
+<!ENTITY reportProduct "Sehlahiswa">
+<!ENTITY reportoscpu "OS">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Phetolo ya Kaho">
+<!ENTITY reportUseragent "Moemedi wa mosebedisi">
+<!ENTITY reportLanguage "Leleme">
+<!ENTITY reportEmail "Imeile">
+<!ENTITY error "Dintlha ka Diphoso">
+<!ENTITY faultCode "Khoutu">
+<!ENTITY faultMessage "Molaetsa">

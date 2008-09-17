@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Tshireletseho">
+<!ENTITY securityHeading.label "Ho romela melaetsa e saennweng kapa e enkriptilweng, o lokela ho hlakisa setefikeiti sa ho saena ka dijitale kapa setifikeiti sa ho ekripta.">
+<!ENTITY encryptionGroupTitle.label "Ho enkripta">
+<!ENTITY encryptionChoiceLabel.label "Disetwa tsa kamehla tsa ho ekripta ha o romela melaetsa:">
+<!ENTITY neverEncrypt.label "Le kgale (se sebedisi khoute)">
+<!ENTITY alwaysEncryptMessage.label "E a hlokeha (molaetsa o ke ke wa romelwa ntle le ha baamohedi bohle ba ena le setefikeiti)">
+<!ENTITY encryptionCert.message "Sebedisa setefikeiti sena ho enkripta &amp; ho enkriptolla melaetsa e rometsweng ho wena:">
+<!ENTITY encryptionCert.notselected "Ha ho setefikeiti se setilweng">
+<!ENTITY certificate.button "Kgetha...">
+<!ENTITY certificate_clear.button "Tlosa">
+<!ENTITY signingGroupTitle.label "Tshaeno ya Dijitale">
+<!ENTITY signMessage.label "Molaetsa o saennweng ka dijitale (kamehla)">
+<!ENTITY signingCert.message "Sebedisa setefikeiti sena ho saena ka dijitale melaetsa eo o e romelang:">
+<!ENTITY signingCert.notselected "Ha ho setifikeiti se setilweng">
+
+<!ENTITY certificates.label "Ditefikeiti">
+<!ENTITY managecerts.label "View Certificates">
+<!ENTITY managecerts.accesskey "V">
+<!ENTITY managedevices.label "Security Devices">
+<!ENTITY managedevices.accesskey "S">

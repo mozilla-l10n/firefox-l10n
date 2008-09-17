@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Boingodiso ho RSS">
+<!ENTITY subscriptionDesc.label "Temoso: Ho suthisa kapa ho fetola foldara ya phepelo ha ho no ama dingolwa tse seng di jarollotswe.">
+<!ENTITY feedTitle.label "Thaetlele:">
+<!ENTITY location.label "Tulo:">
+
+<!ENTITY button.addFeed.label "Eketsa">
+<!ENTITY button.addFeed.accesskey "E">
+<!ENTITY button.editFeed.label "Edita">
+<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.removeFeed.label "Suthisa">
+<!ENTITY button.removeFeed.accesskey "S">
+<!ENTITY button.importOPML.label "Romela-kahare">
+<!ENTITY button.importOPML.accesskey "R">
+<!ENTITY button.exportOPML.label "Romela-ntle">
+<!ENTITY button.exportOPML.accesskey "O">
+
+<!ENTITY cmd.close.commandKey "w">

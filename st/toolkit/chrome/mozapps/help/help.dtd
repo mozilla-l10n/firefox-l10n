@@ -1,0 +1,47 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "Morao">
+<!ENTITY backButton.accesskey "M">
+<!ENTITY backButton.tooltip "Kgutlela morao ka leqephe">
+<!ENTITY forwardButton.label "Pele">
+<!ENTITY forwardButton.accesskey "P">
+<!ENTITY forwardButton.tooltip "Eya pele ka leqephe">
+<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "Lapeng">
+<!ENTITY homeButton.tooltip "Eya Leqepheng le Qalang la Thuso">
+<!ENTITY printButton.label "Printa">
+<!ENTITY printButton.tooltip "Printa leqephe lena">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY throbberItem.title "Sesupatshebetso">
+<!ENTITY throbber.tooltip "Eya ho Thuso karolong ya Thuso">
+
+<!ENTITY searchtab.label "Batla">
+<!ENTITY searchtab.accesskey "B">
+<!ENTITY toctab.label "Dikateng">
+<!ENTITY toctab.accesskey "D">
+
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomResetCmd.commandkey "0">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "Kamehla Ka hodimo">
+<!ENTITY zLevel.accesskey "H">
+
+<!ENTITY textZoomReduceBtn.label "Fokotsa Saese ya Mongolo">
+<!ENTITY textZoomReduceBtn.accesskey "F">
+<!ENTITY textZoomEnlargeBtn.label "Eketsa Saese ya Mongolo">
+<!ENTITY textZoomEnlargeBtn.accesskey "E">

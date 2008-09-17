@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title "Dimelo tsa Tafole">
+<!ENTITY applyButton.label "Sebedisa">
+<!ENTITY applyButton.accesskey "S">
+<!ENTITY closeButton.label "Kwala">
+<!ENTITY tableTab.label "Tafole">
+<!ENTITY cellTab.label "Disele">
+<!ENTITY tableRows.label "Mela:">
+<!ENTITY tableRows.accessKey "M">
+<!ENTITY tableColumns.label "Dikholomo:">
+<!ENTITY tableColumns.accessKey "D">
+<!ENTITY tableHeight.label "Bophahamo:">
+<!ENTITY tableHeight.accessKey "H">
+<!ENTITY tableWidth.label "Bophara:">
+<!ENTITY tableWidth.accessKey "B">
+<!ENTITY tableBorderSpacing.label "Meedi le Karohanyo">
+<!ENTITY tableBorderWidth.label "Moedi:">
+<!ENTITY tableBorderWidth.accessKey "M">
+<!ENTITY tableSpacing.label "Karohanyo:">
+<!ENTITY tableSpacing.accessKey "K">
+<!ENTITY tablePadding.label "Kaletsa:">
+<!ENTITY tablePadding.accessKey "K">
+<!ENTITY tablePxBetwCells.label "dipiksele dipakeng tsa disele">
+<!ENTITY tablePxBetwBrdrCellContent.label "dipiksele dipakeng tsa meedi ya disele le dikateng">
+<!ENTITY tableAlignment.label "Matahanyo ya Tafole:">
+<!ENTITY tableAlignment.accessKey "M">
+<!ENTITY tableCaption.label "Sekenngwa:">
+<!ENTITY tableCaption.accessKey "A">
+<!ENTITY tableCaptionAbove.label "Hodimo ho Tafole">
+<!ENTITY tableCaptionBelow.label "Tlase ho Tafole">
+<!ENTITY tableCaptionLeft.label "Leqeleng la Tafole">
+<!ENTITY tableCaptionRight.label "Ho le letona la tafole">
+<!ENTITY tableCaptionNone.label "Ha eyo">
+<!ENTITY tableInheritColor.label "(Etsa hore mmala wa leqephe o bonaletse)">
+
+<!ENTITY cellPercent.label "peresente ya tafole">
+<!ENTITY cellSelection.label "Kgetho">
+<!ENTITY cellSelectCell.label "Sele">
+<!ENTITY cellSelectRow.label "Mola">
+<!ENTITY cellSelectColumn.label "Kholomo">
+<!ENTITY cellSelectNext.label "E latelang">
+<!ENTITY cellSelectNext.accessKey "E">
+<!ENTITY cellSelectPrevious.label "E fetileng">
+<!ENTITY cellSelectPrevious.accessKey "E">
+<!ENTITY cellApplyBeforeMove.label "Etsa diphetoho pele o fetola kgetho">
+<!ENTITY cellKeepCurrentData.label "Boloka disetwa tsa hajwale">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label "Diphetoho tsa hajwale di tla sebediswa">
+<!ENTITY applyBeforeChange2.label "pele o fetola kgetho.">
+<!ENTITY cellRowSpan.label "Sepane sa Mola:">
+<!ENTITY cellColSpan.label "Sepane sa Kholomo:">
+<!ENTITY cellContentAlignment.label "Matahanyo ya Dikateng">
+<!ENTITY cellHorizontal.label "Rapameng:">
+<!ENTITY cellHorizontal.accessKey "M">
+<!ENTITY cellVertical.label "Tsepameng:">
+<!ENTITY cellVertical.accessKey "A">
+<!ENTITY cellStyle.label "Setaele sa Sele:">
+<!ENTITY cellStyle.accessKey "S">
+<!ENTITY cellNormal.label "E tlwaelehileng">
+<!ENTITY cellHeader.label "Sehlooho">
+<!ENTITY cellTextWrap.label "Sephuthela Sengolwa:">
+<!ENTITY cellTextWrap.accessKey "S">
+<!ENTITY cellWrap.label "Phuthela">
+<!ENTITY cellNoWrap.label "Se phuthele">
+<!ENTITY cellAlignTop.label "Hodimo">
+<!ENTITY cellAlignMiddle.label "Bohareng">
+<!ENTITY cellAlignBottom.label "Tlase">
+<!ENTITY cellAlignJustify.label "Tsitsisa">
+<!ENTITY cellAlignAtChar.label "Tlhakung:">
+<!ENTITY cellInheritColor.label "(Etsa hore mmala wa tafole o bonaletse)">
+<!ENTITY cellUseCheckboxHelp.label "Sebedisa mabokose-tshwayo ho laola hore ke dimelo dife tse sebediswang diseleng tsohle tse kgethilweng">
+<!-- Used in both Table and Cell panels  -->
+
+<!ENTITY size.label "Saese">
+<!ENTITY pixels.label "dipiksele">
+<!ENTITY backgroundColor.label "Mmala wa Bokamorao:">
+<!ENTITY backgroundColor.accessKey "M">
+<!ENTITY AlignLeft.label "Leqeleng">
+<!ENTITY AlignCenter.label "Bohareng">
+<!ENTITY AlignRight.label "Le letona">

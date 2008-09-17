@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Wizate ya Thomelo-kahare">
+
+<!ENTITY importFrom.label "Dikgetho tsa Thomelo-kahare, Ditshwayabuka, Histori, Diphasewete le data e nngwe:">
+<!ENTITY importFromUnix.label "Boikgethelo ba Thomelo-kahare, Ditshwayabuka, Histori, Diphasewete le data e nngwe ho tswa ho:">
+<!ENTITY importFromBookmarks.label "Romela-kahare ditshwayabuka ho tswa ho:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird kapa Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Se ke wa romela-kahare letho">
+<!ENTITY importFromNothing.accesskey "S">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 kapa Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromFile.label "Ho tswa faeleng">
+<!ENTITY importFromFile.accesskey "H">
+
+<!ENTITY noMigrationSources.label "No programs that contain bookmarks, history or password data could be found.">
+
+<!ENTITY importSource.title "Import Settings and Data">
+<!ENTITY importItems.title "Dintho tse Romelwang-kahare">
+<!ENTITY importItems.label "Kgetha dintho tse romelwang-kahare:">
+
+<!ENTITY migrating.title "E romela-kahare...">
+<!ENTITY migrating.label "Dintho tse latelang di romelwa-kahare nakong ya hajwale...">
+
+<!ENTITY selectProfile.title "Kgetha Profaele">
+<!ENTITY selectProfile.label "Diprofaele tse latelang di a fumaneha ho ka romelwa-kahare ho tswa ho:">
+
+<!ENTITY done.title "Thomelo-kahare e Phethilwe">
+<!ENTITY done.label "Dintho tse latelang di rometswe-kahare ka katleho:">
+

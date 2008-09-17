@@ -1,0 +1,17 @@
+<!ENTITY virtualFolderProperties.title "Foldara e Ntjha e Bolokilweng ya Patlo">
+<!ENTITY name.label "Lebitso:">
+<!ENTITY name.accesskey "l">
+<!ENTITY description.label "E etse e le foldara e nyane ya:">
+<!ENTITY description.accesskey "E">
+<!ENTITY searchCriteriaText.label "Fetola mokgwa wa patlo o sebediswang bakeng sa patlo ena:">
+<!ENTITY searchCriteriaButton.label "Mokgwa wa Patlo...">
+<!ENTITY searchCriteriaButton.accesskey "M">
+
+<!ENTITY searchTermCaption.label "Fetola mokgwa wa patlo o sebediswang bakeng sa foldara ena ya patlo e bolokilweng: ">
+
+<!ENTITY folderSelectionCaption.label "Kgetha difoldara tse batlwang: ">
+<!ENTITY chooseFoldersButton.label "Kgetha...">
+<!ENTITY chooseFoldersButton.accesskey "g">
+
+<!ENTITY searchOnline.label "Batla Ho inthanete (E o fa diphetho tse kgemang le dinako bakeng sa IMAP le difoldara tsa Ditaba empa e eketsa nako ya ho bula foldara)">
+<!ENTITY searchOnline.accesskey "H">

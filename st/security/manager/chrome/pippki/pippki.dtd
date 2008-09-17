@@ -1,0 +1,133 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Terry Hayes <thayes@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Values for changepassword.xul -->
+
+<!ENTITY setPassword.title "Fetola Phasewete e Kgolo">
+<!ENTITY setPassword.tokenName.label "Sesebediswa sa Tshireletseho">
+<!ENTITY setPassword.oldPassword.label "Phasewete ya Hajwale:">
+<!ENTITY setPassword.newPassword.label "Phasewete e ntjha:">
+<!ENTITY setPassword.reenterPassword.label "Phasewete e ntjha (hape):">
+<!ENTITY setPassword.meter.label "Mitara ya boleng ba phasewete">
+<!ENTITY setPassword.meter.loading "E a jara">
+<!-- Values for resetpassword.xul -->
+
+<!ENTITY resetPasswordButtonLabel "Seta botjha">
+<!ENTITY resetPassword.title "Seta botjha Phasewete e Kgolo">
+<!ENTITY resetPassword.text "Haeba o seta botjha phasewete e kgolo ya hao, diphasewete tsohle tsa hao tsa webe le imeile, data ya foromo, disetifikeiti tsa hao, le dinotlolo tsa poraefete di tla lebalwa. Na o tiile o batla ho seta botjha phasewete e kgolo ya hao?">
+<!-- Values for getpassword.xul -->
+
+<!ENTITY getPassword.title "Kenya Phasewete e Kgolo ya hao">
+<!ENTITY getPassword.tokenName.label "Sesebediswa sa Tshireletseho">
+<!ENTITY getPassword.password.label "Phasewete:">
+<!-- These should be common -->
+
+<!ENTITY piperror.title "Phoso">
+<!ENTITY pipalert.title "Phoso - ha e kgone ho kgutlisa">
+<!-- Prefs panel strings -->
+
+<!ENTITY pref.security.general.lHeader "Tshireletseho">
+<!ENTITY pref.security.general.rHeader "Di-setting tsa tshireletseho e akaretsang">
+<!ENTITY pref.security.general.header "Di-setting tsa tshireletseho e akaretsang">
+<!ENTITY pref.security.general.level.title "Boemo ba Tshireletseho">
+<!ENTITY pref.security.general.paranoid.label "Sebedisa di-setting tsa tshireletseho ya ho ba boyi">
+<!ENTITY pref.security.general.certificates.title "Disetifikeiti">
+<!ENTITY pref.security.general.manageCert.label "Laola Disetifikeiti">
+<!-- Downloading a cert -->
+
+<!ENTITY downloadCert.title "E jarolla Disetifikeiti">
+<!ENTITY downloadCert.message1 "O kopilwe ho tshepa Taolo ya Setifikeiti (CA) e ntjha.">
+<!ENTITY downloadCert.trustSSL "Tshepa CA ena ho tsebahatsa ditsha tsa webe.">
+<!ENTITY downloadCert.trustEmail "Tshepa CA ena ho tsebahatsa basebedisi ba imeile.">
+<!ENTITY downloadCert.trustObjSign "Tshepa CA ena ho tsebahatsa baetsi ba software.">
+<!ENTITY downloadCert.message3 "Peleo tshepa CA ena bakeng sa morero ofe kapa ofe, o lokela ho sheba setifikeiti sa yona le leano le ditsela tsa tshebetso tsa yona (haeba di fumaneha).">
+<!ENTITY downloadCert.viewCert.label "Sheba">
+<!ENTITY downloadCert.viewPolicy.label "Leano">
+<!ENTITY downloadCert.viewCert.text "Hlahloba setifikeiti sa CA">
+<!ENTITY downloadCert.viewPolicy.text "Hlahloba maano le ditsela tsa tshebetso tsa CA">
+<!-- Certificate Exists in database -->
+
+<!ENTITY caCertExists.title "Setifikeiti e Teng">
+<!ENTITY caCertExists.message "Setifikeiti e se Ntse E le Teng.">
+<!-- Strings for the MismatchDomain dialog  -->
+
+<!ENTITY domainMismatch.title "Phoso ya Tshireletseho: Lebitso la Domeine ha le Tshwane">
+<!ENTITY examineCert.label "Sheba Setifikeiti">
+<!ENTITY examineCert.accesskey "S">
+<!-- Strings for the Server cert expired dialog  -->
+
+<!ENTITY serverCertExpired.continue "Na o lakatsa ho tswela pele le ha ho le jwalo?">
+<!ENTITY serverCertExpired.accept.label "Tswela pele">
+<!-- Strings for the SSL client auth ask dialog -->
+
+<!ENTITY clientAuthAsk.title "Kopo ya Boitsebiso ba Mosebedisi">
+<!ENTITY clientAuthAsk.message1 "Setsha se kopile hore o itsebahatse ka setifikeiti:">
+<!ENTITY clientAuthAsk.message2 "Kgetha setifikeiti se tla ba boitsebiso ba hao:">
+<!ENTITY clientAuthAsk.message3 "Dintlha ka setifikeiti se kgethilweng:">
+<!-- Strings for the cert picker dialog -->
+
+<!ENTITY certPicker.title "Kgetha Setifikeiti">
+<!ENTITY certPicker.info "Setifikeiti:">
+<!ENTITY certPicker.detailsLabel "Dintlha ka setifikeiti se kgethilweng:">
+
+<!ENTITY pkcs12.setpassword.title "Kgetha Backup ya Phasewete ya Setifikeiti">
+<!ENTITY pkcs12.setpassword.message "Bekapo ya phasewete ya setifikeiti eo o e setileng mona e sireletsa faele ya bekapo eo o tlo e etsa.  O lokela ho seta phasewete ho tswelapele ka bekapo.">
+<!ENTITY pkcs12.setpassword.label1 "Phasewete ya backup ya setifikeiti:">
+<!ENTITY pkcs12.setpassword.label2 "Phasewete ya backup ya setifikeiti (hape):">
+<!ENTITY pkcs12.setpassword.reminder "Sa bohlokwa: Haeba o lebetse phasewete ya backup ya setifikeiti sa hao, ha o na ho kgona ho busetsa backup hamorao.  Ka kopo e rekote tulong e bolokehileng.">
+
+<!ENTITY pkcs12.getpassword.title "Puisano ya Kenyo ya Phasewete">
+<!ENTITY pkcs12.getpassword.message "Ka kopo kenya phasewete e sebedisitsweng ho ekripta backup ena ya setifikeiti.">
+
+<!ENTITY chooseToken.title "Kgetha Puisano ya Token">
+<!ENTITY chooseToken.message1 "Ka kopo kgetha token.">
+
+<!ENTITY escrowWarn.title "Kopi ya Senotlolo sa Ho enkripta">
+<!ENTITY escrowWarn.message1 "Sa bohlokwa: Taolo ena ya setifikeiti e kopile ho etsa bakcup ya senotlolo sa ho enkripta sa hao sa poraefete.">
+<!ENTITY escrowWarn.benefit1 "Molemo ke hore haeba o lahlehelwa ke senotlolo sa hao sa poraefete sa ho enkripta, o ka kopa kopi ya sona ho tswa taolong ena ya setifikeiti.">
+<!ENTITY escrowWarn.message2 "Leha ho le jwalo, senotlolo sa hao sa poraefete sa ho ekripta se tla bolokwa ke taolo ya setifikeiti, mme se ka sebediswa ho bala imeile ya hao e enkriptilweng kapa ditokomane ntle le tumello ya hao.">
+
+<!ENTITY serverCrlNextupdate.message "Ka kopo botsa motsamaisi wa sistimi ya hao bakeng sa thuso">
+<!-- Strings for the CreateCertInfo dialog  -->
+
+<!ENTITY createCertInfo.title "E etsa Senotlolo sa Poraefete">
+<!ENTITY createCertInfo.msg1 "Ho Etswa ha Senotlolo ho tswela pele... Sena se ka nka metsotso e mmalwa...">
+<!ENTITY createCertInfo.msg2 "Ka kopo ema...">
+<!-- Form Signing confirmation prompt -->
+
+<!ENTITY formSigning.title "Kopo ya Ho saena Mongolo">
+<!ENTITY formSigning.cert "Setifikeiti sa ho Saena">
+<!ENTITY formSigning.confirmPassword "Ho netefatsa hore o dumellana le molaetsa ona wa mongolo ka ho sebedisa setifikeiti sa hao se kgethilweng, ka kopo netefatsa ka ho kenya phasewete e kgolo:">

@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label "Imeile">
+<!ENTITY readMsgsLink.label "Bala melaetsa">
+<!ENTITY composeMsgLink.label "Ngola molaetsa o motjha">
+
+<!ENTITY newsSectionHdr.label "Dihlopha tsa ditaba">
+<!ENTITY subscribeNewsLink.label "Laola ditshebeletso tsa sehlopha sa ditaba">
+
+<!ENTITY accountsSectionHdr.label "Accounts">
+<!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
+<!ENTITY settingsLink.label "Sheba disetwa tsa akhaonte ena">
+<!ENTITY newAcctLink.label "Etsa akhaonte e ntjha">
+
+<!ENTITY advFeaturesSectionHdr.label "Ditshebetso tse hatetseng pele">
+<!ENTITY searchMsgsLink.label "Batla melaetsa">
+<!ENTITY filtersLink.label "Laola difiltara tsa melaetsa">
+<!ENTITY junkSettings.label "Disetwa tsa meile e seng bohlokwa">
+<!ENTITY offlineLink.label "Disetwa tsa ha o sa hokela">
+
+
+<!ENTITY rssSectionHdr.label "Ditaba tsa RSS &amp; Blogs">
+<!ENTITY subscibeRSS.label "Laola phumano ya ditshebeletso">

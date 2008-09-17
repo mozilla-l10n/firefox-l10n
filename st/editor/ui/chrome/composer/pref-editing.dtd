@@ -1,0 +1,28 @@
+<!ENTITY pref.editing.title "Disetwa tse Ntjha tsa Leqephe">
+
+<!ENTITY authorName.label "Sengodi:">
+<!ENTITY authorName.accesskey "e">
+<!ENTITY pageColorHeader "Ponahalo ya Leqephe la Kamehla">
+
+<!ENTITY defaultColorsRadio.label "Mebala ya kamehla ya mmadi (Se ke wa seta mebala leqepheng)">
+<!ENTITY defaultColors.accesskey "d">
+<!ENTITY customColorsRadio.label "Sebedisa mebala ya khastomo:">
+<!ENTITY customColors.accesskey "c">
+
+<!ENTITY normalText.label "Mongolo o tlwaelehileng">
+<!ENTITY normalText.accesskey "M">
+<!ENTITY linkText.label "Mongolo wa lehokela">
+<!ENTITY linkText.accesskey "M">
+<!ENTITY activeLinkText.label "Mongolo wa lehokela o sebetsang">
+<!ENTITY activeLinkText.accesskey "M">
+<!ENTITY visitedLinkText.label "Mongolo wa lehokela o etetsweng">
+<!ENTITY visitedLinkText.accesskey "M">
+<!ENTITY background.label "Bokamorao:">
+<!ENTITY background.accesskey "B">
+<!ENTITY colon.character ":">
+
+<!ENTITY backgroundImage.label "Setshwantsho sa Bokamorao:">
+<!ENTITY backgroundImage.accesskey "s">
+<!ENTITY chooseFile.label "Kgetha Faele...">
+<!ENTITY chooseFile.accesskey "e">
+

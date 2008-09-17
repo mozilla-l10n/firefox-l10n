@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Disetwa tsa Seva e Tswang (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "Leha o ka hlakisa diseva tse tswang (SMTP) tse fetang bonngwe, sena se kgothaletswa bakeng sa basebedisi ba hatetseng pele. Ho seta diseva tsa SMTP tse ngata ho ka baka diphoso thomelong ya melaetsa.">
+
+<!ENTITY smtpListAdd.label "Eketsa...">
+<!ENTITY smtpListAdd.accesskey "k">
+<!ENTITY smtpListEdit.label "Edita...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Tlosa">
+<!ENTITY smtpListDelete.accesskey "o">
+<!ENTITY smtpListSetDefault.label "Hlophisa Yakamehla">
+<!ENTITY smtpListSetDefault.accesskey "p">
+
+<!ENTITY serverDescription.label "Tlhaloso: ">
+<!ENTITY serverName.label "Lebitso la seva: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label "Lebitso la Mosebedisi: ">
+<!ENTITY useSecureConnection.label "Fumana kgokelo: ">

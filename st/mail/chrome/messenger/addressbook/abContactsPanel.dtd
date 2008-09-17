@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label "Buka ya Diaterese:">
+<!ENTITY searchInput.label "Batlana Le:">
+<!ENTITY SearchNameOrEmail.label "Lebitso kapa Imeili">
+
+<!ENTITY addtoToFieldMenu.label "Eketsa Sebakeng">
+<!ENTITY addtoCcFieldMenu.label "Eketsa ho Cc">
+<!ENTITY addtoBccFieldMenu.label "Eketsa ho Bc">
+
+<!ENTITY toButton.label "Eketsa ho Ho:">
+<!ENTITY ccButton.label "Eketsa ho Cc:">
+

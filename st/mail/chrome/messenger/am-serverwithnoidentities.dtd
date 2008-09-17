@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Disetwa tsa Diakhaonte">
+<!ENTITY accountSettingsDesc.label "Se latelang ke akhaonte e kgethehileng.  Ha ho boitsebiso bo amanang le yona.">
+<!ENTITY accountName.label "Lebitso la Akhaonte:">
+<!ENTITY accountName.accesskey "A">
+<!ENTITY messageStorage.label "Setoro sa Melaetsa">
+<!ENTITY emptyTrashOnExit.label "Qhala Matlakala lebokoseng le Tswang">
+<!ENTITY emptyTrashOnExit.accesskey "w">
+<!ENTITY localPath.label "Daerektri ya lehae:">
+<!ENTITY localPath.accesskey "D">
+<!ENTITY localFolderPicker.label "Kgetha Daerektri ya Lehae">
+<!ENTITY browseFolder.label "Lekola...">
+<!ENTITY browseFolder.accesskey "L">

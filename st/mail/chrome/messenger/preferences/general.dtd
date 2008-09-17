@@ -1,0 +1,40 @@
+<!ENTITY generalSettings.caption "Disetwa tsa Kamehla">
+<!ENTITY generalSettings.label "Etsa &brandShortName; tshebediso ya kamehla bakeng sa:">
+<!ENTITY setDefaultMailClient.label "Meile">
+<!ENTITY setDefaultMailClient.accesskey "M">
+<!ENTITY setDefaultNewsClient.label "Ditaba">
+<!ENTITY setDefaultNewsClient.accesskey "D">
+<!ENTITY setDefaultFeedClient.label "RSS Diphepelo">
+<!ENTITY setDefaultFeedClient.accesskey "D">
+<!ENTITY checkDefaultMailClient.label "&brandShortName; should check to see if it is the default mail client when starting">
+<!ENTITY checkDefaultMailClient.accesskey "n">
+<!ENTITY defaultClientAdvanced.label "Advanced...">
+<!ENTITY defaultClientAdvanced.accesskey "d">
+
+<!ENTITY windowSettings.label "Phetolo ya Fenstere">
+<!ENTITY selectWindowLayout.label "Kgetha moralo wa fenstere oo o ratang bakeng sa Meile.">
+<!ENTITY selectWindowLayout.accesskey "K">
+
+<!ENTITY messengerStartPage.label "&brandShortName; Leqephe le Qalang">
+<!ENTITY enableStartPage.label "Ha &brandShortName; e thakgolwa, bontsha Leqephe le Qalang sebakeng sa melaetsa">
+<!ENTITY enableStartPage.accesskey "H">
+<!ENTITY location.label "Ditulo:">
+<!ENTITY location.accesskey "D">
+<!ENTITY useDefault.label "Kgutlisetsa ho Ya kamehla">
+<!ENTITY useDefault.accesskey "K">
+
+<!ENTITY bounceSystemDockIcon.label "Phedisa aekhone ya dock">
+<!ENTITY bounceSystemDockIcon.accesskey "e">
+
+<!ENTITY newMessagesArrive.label "Ha molaetsa o fihla:">
+<!ENTITY playSound.label "Bapala modumo">
+<!ENTITY playSound.accesskey "B">
+<!ENTITY showAnimatedAlert.label "Bontsha temoso">
+<!ENTITY showAnimatedAlert.accesskey "B">
+<!ENTITY soundbutton.label "Advanced...">
+<!ENTITY soundbutton.accesskey "A">
+
+<!ENTITY showConnections.label "Disetwa tsa Kgokelo...">
+<!ENTITY showConnections.accesskey "g">
+<!ENTITY proxiesInfo.label "Hlopha hore &brandShortName; le hokelwa jwang Inthaneteng.">
+<!ENTITY connectionsInfo.caption "Kgokelo">

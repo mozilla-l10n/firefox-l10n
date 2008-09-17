@@ -1,0 +1,73 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY offlineGoOfflineCmd.label "Sebetsa o Hakolotse Inthaneteng">
+<!ENTITY offlineGoOfflineCmd.accesskey "s">
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+
+<!ENTITY fileMenu.label "Faele">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "E ntjha">
+<!ENTITY newMenu.accesskey "E">
+
+<!ENTITY editMenu.label "Edita">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Etsolla">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "e">
+<!ENTITY redoCmd.label "Pheta">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "p">
+<!ENTITY cutCmd.label "Kgaola">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "o">
+<!ENTITY copyCmd.label "Kopitsa">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Peista">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "Phumula">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "p">
+<!ENTITY selectAllCmd.label "Kgetha Tsohle">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY preferencesCmd.label "Dikgetho...">
+<!ENTITY preferencesCmd.accesskey "D">
+<!ENTITY preferencesCmdUnix.label "Boikgethelo">
+<!ENTITY preferencesCmdUnix.accesskey "t">
+
+<!ENTITY findTypeTextCmd.label "Fumana Mongolo Ha o Thaepa">
+<!ENTITY findTypeTextCmd.accesskey "n">
+
+<!ENTITY viewMenu.label "Sheba">
+<!ENTITY viewMenu.accesskey "s">
+<!ENTITY viewToolbarsMenu.label "Dithulebara">
+<!ENTITY viewToolbarsMenu.accesskey "D">
+<!ENTITY showTaskbarCmd.label "Mola wa Boemo">
+<!ENTITY showTaskbarCmd.accesskey "M">
+
+<!ENTITY direct.label "Hoketse Inthaneteng (proksi: ha eyo)">
+<!ENTITY direct.accesskey "k">
+<!ENTITY manual.label "Hoketse Inthaneteng (proksi: e etswang)">
+<!ENTITY manual.accesskey "e">
+<!ENTITY pac.label "Hoketse Inthaneteng (proksi: e iketsang)">
+<!ENTITY pac.accesskey "e">
+
+<!ENTITY proxy.label "Proksi Phetolo...">
+<!ENTITY proxy.accesskey "P">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Kwala">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "k">
+
+<!ENTITY quitApplicationCmd.label "Etswa">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "t">
+
+<!ENTITY quitApplicationCmdUnix.label "Kgaotsa">
+<!ENTITY quitApplicationCmdUnix.accesskey "k">
+

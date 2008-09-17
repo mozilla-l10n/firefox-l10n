@@ -1,0 +1,9 @@
+<!ENTITY position.label "Maemo:">
+<!ENTITY tile.label "Thaele">
+<!ENTITY center.label "Bohareng">
+<!ENTITY stretch.label "Tsharollo">
+<!ENTITY preview.label "Tlhahlobo">
+<!ENTITY color.label "Mmala:">
+<!ENTITY setDesktopBackground.title "Seta Bokamorao ba Deskthopo">
+<!ENTITY openDesktopPrefs.label "Bula Boikgethelo ba Deskthopo">
+<!ENTITY closeWindow.key "w">

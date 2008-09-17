@@ -1,0 +1,75 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Batla melaetsa ho:">
+<!ENTITY searchHeading.accesskey "t">
+<!ENTITY searchSubfolders.label "Batla difoldara tse nyane">
+<!ENTITY searchSubfolders.accesskey "t">
+<!ENTITY resetButton.label "Tlosa">
+<!ENTITY resetButton.accesskey "T">
+<!ENTITY optionsButton.label "Dikgetho">
+<!ENTITY closeButton.label "Kwala">
+<!ENTITY openButton.label "Bula">
+<!ENTITY openButton.accesskey "l">
+<!ENTITY deleteButton.label "Phumula">
+<!ENTITY deleteButton.accesskey "P">
+<!ENTITY searchDialogTitle.label "Batla Melaetsa">
+<!ENTITY conditionDesc.label "Batla melaetsa e tshwanang:">
+<!ENTITY conditions.label "Mokgwa">
+<!ENTITY results.label "Sephetho">
+<!ENTITY fileHereMenu.label "Faela Mona">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY fileButton.label "Faele">
+<!ENTITY fileButton.accesskey "a">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Bula Foldara ya Molaetsa">
+<!ENTITY goToFolderButton.accesskey "d">
+<!ENTITY saveAsVFButton.label "Save as Search Folder">
+<!ENTITY saveAsVFButton.accesskey "v">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "Search in:">
+<!ENTITY abSearchHeading.accesskey "h">
+<!ENTITY propertiesButton.label "Dimelo">
+<!ENTITY propertiesButton.accesskey "D">
+<!ENTITY composeButton.label "Ngola">
+<!ENTITY composeButton.accesskey "N">
+<!ENTITY abSearchDialogTitle.label "Patlo ya Bukeng ya Diaterese e Hatetseng Pele">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Moharelo">
+<!ENTITY senderColumn.label "Moromelli">
+<!ENTITY recipientColumn.label "Moamohedi">
+<!ENTITY subjectColumn.label "Taba">
+<!ENTITY dateColumn.label "Letsatsi">
+<!ENTITY priorityColumn.label "Bohlokwa">
+<!ENTITY tagsColumn.label "Tags">
+<!ENTITY accountColumn.label "Akhaonte">
+<!ENTITY statusColumn.label "Boemo">
+<!ENTITY sizeColumn.label "Saese">
+<!ENTITY junkStatusColumn.label "Boemo ba Ho se be Bohlokwa">
+<!ENTITY linesColumn.label "Dilaene">
+<!ENTITY unreadColumn.label "E sa balwang">
+<!ENTITY totalColumn.label "Kakaretso">
+<!ENTITY readColumn.label "E badilweng">
+<!ENTITY starredColumn.label "Starred">
+<!ENTITY locationColumn.label "Tulo">
+<!ENTITY idColumn.label "Tlhahlamano ya Kamohelo">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Tlelika ho kgetha dikholomo tse bontshwang">
+<!ENTITY threadColumn.tooltip "Tlelika ho bontsha meharelo ya melaetsa">
+<!ENTITY senderColumn.tooltip "Tlelika ho hlopha ka moromelli">
+<!ENTITY recipientColumn.tooltip "Tlelika ho hlopha ka moamohedi">
+<!ENTITY subjectColumn.tooltip "Tlelika ho hlopha ka taba">
+<!ENTITY dateColumn.tooltip "Tlelika ho hlopha ka letsatsi">
+<!ENTITY priorityColumn.tooltip "Tlelika ho hlopha ka bohlokwa">
+<!ENTITY tagsColumn.tooltip "Click to sort by tags">
+<!ENTITY accountColumn.tooltip "Tlelika ho hlopha ka akhaonte">
+<!ENTITY statusColumn.tooltip "Tlelika ho hlopha ka boemo">
+<!ENTITY sizeColumn.tooltip "Tlelika ho hlopha ka saese">
+<!ENTITY junkStatusColumn.tooltip "Tlelika ho hlopha ka boemo ba ho se be bohlokwa">
+<!ENTITY unreadColumn.tooltip "Palo ya melaetsa eso balwe moharelong">
+<!ENTITY totalColumn.tooltip "Kakaretso ya palo ya melaetsa e moharelong">
+<!ENTITY readColumn.tooltip "Tlelika ho hlopha ka e badilweng">
+<!ENTITY starredColumn.tooltip "Click to sort by star">
+<!ENTITY locationColumn.tooltip "Tlelika ho hlopha ka tulo">
+<!ENTITY idColumn.tooltip "Tlelika ho hlopha ka tlhahlamano ya kamohelo">

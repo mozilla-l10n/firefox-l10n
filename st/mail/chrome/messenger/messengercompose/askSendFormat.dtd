@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Potso ya HTML Meile">
+
+<!ENTITY recipient.label "Ba bang ba baamohedi ha ba hlahe lenaneng la ba kgonang ho amohela meile ya HTML.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Molaetsa wa hao o ka fetolelwa mongolong o poleine ntle le ho lahlehelwa ke tlhahisoleseding.">
+<!ENTITY convertibleAltering.label "Molaetsa wa hao o ka fetolelwa mongolong o poleine ntle le ho lahlehelwa ke tlhahisoleseding ya bohlokwa. Leha ho le jwalo mongolo o poleine o ka shebahala o fapane le oo o boneng ho sehlophisi.">
+<!ENTITY convertibleNo.label "Leha ho le jwalo o sebedisitse ho fomata (mohlala, mebala) ho ke keng ha fetolelwa mongolong o tlwaelehileng.">
+
+<!ENTITY question.label "Na o lakatsa ho fetolela molaetsa ho ya mongolong o poleine kapa ho o romela ka HTML?">
+
+<!ENTITY plainTextAndHtml.label "Romela ka Mongolo o Poleine le HTML">
+<!ENTITY plainTextOnly.label "Romela ka Mongolo o Poleine Feela">
+<!ENTITY htmlOnly.label "Romela ka HTML Feela">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Romela ka Mongolo o Poleine le HTML (e a kgothaletswa)">
+<!ENTITY plainTextOnlyRecommended.label "Romela ka Mongolo o Poleine Feela (e a kgothaletswa)">
+<!ENTITY htmlOnlyRecommended.label "Romela ka HTML Feela (e a kgothaletswa)">
+<!ENTITY recommended.label "(e a kgothaletswa)">
+
+<!ENTITY send.label "Romela">
+<!ENTITY cancel.label "Khansela">
+<!ENTITY recipients.label "Baamohedi...">
+<!ENTITY help.label "Thuso">

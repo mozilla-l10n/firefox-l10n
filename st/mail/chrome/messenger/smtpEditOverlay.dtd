@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Disetwa">
+<!ENTITY security.caption "Tshireletseho le Netefatso">
+<!ENTITY serverName.label "Lebitso la Seva:">
+<!ENTITY serverName.accesskey "L">
+<!ENTITY serverDescription.label "Tlhaloso:">
+<!ENTITY serverDescription.accesskey "T">
+<!ENTITY serverPort.label "Port:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Lebitso la mosebedisi le phasewete">
+<!ENTITY alwaysUseUsername.accesskey "L">
+<!ENTITY userName.label "Lebitso la Mosebedisi:">
+<!ENTITY userName.accesskey "b">
+<!ENTITY isSecure.label "Sebedisa kgokelo e sireletsehileng:">
+<!ENTITY neverSecure.label "Tjhee">
+<!ENTITY neverSecure.accesskey "T">
+<!ENTITY sometimesSecure.label "TLS, haeba e fumaneha">
+<!ENTITY sometimesSecure.accesskey "f">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "Seva ya SMTP">
+<!ENTITY serverPortDefault.label "Ya kamehla:">

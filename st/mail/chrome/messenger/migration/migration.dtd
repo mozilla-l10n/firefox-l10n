@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title "Wizate ya Thomelo-kahare">
+
+<!ENTITY importFrom.label "Dikgetho tsa Thomelo-kahare, Ditshwayabuka, Histori, Diphasewete le data e nngwe:">
+<!ENTITY importFromUnix.label "Boikgethelo ba Thomelo-kahare, Ditshwayabuka, Histori, Diphasewete le data e nngwe ho tswa ho:">
+
+<!ENTITY importFromNothing.label "Se ke wa romela-kahare letho">
+<!ENTITY importFromNothing.accesskey "S">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 kapa Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOExpress.label "Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
+<!ENTITY importFromEudora.label "Eudora">
+<!ENTITY importFromEudora.accesskey "E">
+
+<!ENTITY importSource.title "Romela-kahare Disetwa ho Tswa Ho">
+<!ENTITY importItems.title "Dintho tse Romelwang-kahare">
+<!ENTITY importItems.label "Kgetha dintho tse romelwang-kahare:">
+
+<!ENTITY migrating.title "E romela-kahare...">
+<!ENTITY migrating.label "Dintho tse latelang di romelwa-kahare nakong ya hajwale...">
+
+<!ENTITY selectProfile.title "Kgetha Profaele">
+<!ENTITY selectProfile.label "Diprofaele tse latelang di a fumaneha ho ka romelwa-kahare ho tswa ho:">
+
+<!ENTITY done.title "Thomelo-kahare e Phethilwe">
+<!ENTITY done.label "Dintho tse latelang di rometswe-kahare ka katleho:">
