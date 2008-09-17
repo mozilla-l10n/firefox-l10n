@@ -1,0 +1,8 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Hungu">
+<!ENTITY newMessageCmd.accesskey "h">
+ 
+<!ENTITY newCardCmd.label "Khadi ra buku ya tiadirese...">
+<!ENTITY newCardCmd.accesskey "k">
+

@@ -1,0 +1,14 @@
+<!ENTITY reportSite "Sayiti">
+<!ENTITY reportProblemType "Muxaka wa xiphiqo">
+<!ENTITY reportDecsription "Nhlamuselo">
+<!ENTITY reportPlatform "Pulatifomo">
+<!ENTITY reportProduct "Phurodukti">
+<!ENTITY reportoscpu "OS">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Xiviko xa malulamisele yo aka">
+<!ENTITY reportUseragent "Ejenti ya mutirhisi">
+<!ENTITY reportLanguage "Ririmi">
+<!ENTITY reportEmail "Imeyili">
+<!ENTITY error "Vuxokoxoko bya Xihoxo">
+<!ENTITY faultCode "Khodi">
+<!ENTITY faultMessage "Hungu">

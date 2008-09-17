@@ -1,0 +1,94 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Malulamisele ya Vuhlayiseki">
+<!ENTITY serverSettings.label "Malulamisele ya Sevha">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "POP Sevha ya Mapapila">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "IMAP Sevha ya Mapapila">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Sevha yintshwa (NNTP)">
+<!ENTITY webmail.label "Akhawunti ya WebMail">
+<!ENTITY serverType.label "Muxaka wa Sevha:">
+<!ENTITY serverName.label "Vito ra Sevha:">
+<!ENTITY serverName.accesskey "V">
+<!ENTITY userName.label "Mutirhisi na Vito:">
+<!ENTITY userName.accesskey "V">
+<!ENTITY port.label "Photo:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Swi hoxekile:">
+<!ENTITY savePassword.label "Hlayisa phasiwedi">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Languta mahungu mantshwa minkarhi hinkwayo ">
+<!ENTITY biffStart.accesskey "l">
+<!ENTITY biffEnd.label "timinete">
+<!ENTITY isSecure.label "Tirhisa nhlanganiso lowu sirheleriweke (SSL)">
+<!ENTITY isSecure.accesskey "T">
+<!ENTITY socketType.label "Tirhisa nhlanganiso lowu sirheleriweke:">
+<!ENTITY neverSecure.label "A swi koteki">
+<!ENTITY neverSecure.accesskey "A">
+<!ENTITY sometimesSecure.label "TLS, loko yi kumeka">
+<!ENTITY sometimesSecure.accesskey "l">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Tirhisa leswi tiyisisiweke leswi nga sirheliwa">
+<!ENTITY useSecAuth.accesskey "s">
+<!ENTITY leaveOnServer.label "Siya mahungu eka sevha">
+<!ENTITY leaveOnServer.accesskey "a">
+<!ENTITY headersOnly.label "Tirhisa tinhlokomhaka ntsena">
+<!ENTITY headersOnly.accesskey "t">
+<!ENTITY deleteByAgeFromServer.label "Nkarhi wo ringana">
+<!ENTITY deleteByAgeFromServer.accesskey "k">
+<!ENTITY daysEnd.label "masiku">
+<!ENTITY deleteOnServer.label "Ku kondza loko ndzi ma Sula kumbe ku ma susa eka bokisi ro amukela">
+<!ENTITY deleteOnServer.accesskey "k">
+<!ENTITY downloadOnBiff.label "Hi othometheki, panga mahungu mantshwa">
+<!ENTITY downloadOnBiff.accesskey "h">
+<!ENTITY hostname.label "Vito ra Muamukeri wa sevha">
+<!ENTITY username.label "Vito ro loga ha rona">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "POP Sevhara ya mahungu">
+<!ENTITY deleteMessagePrefix.label "Loko ndzi Sula hungu:">
+<!ENTITY deleteMessagePrefix.accesskey "L">
+<!ENTITY modelMoveToTrash.label "Ri suse eka folidara ya xokhoma">
+<!ENTITY modelMarkDeleted.label "Ri marake leswaku ri dlayiwile">
+<!ENTITY modelDeleteImmediately.label "Ri suse hi ku hatlisa">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Basisa (&quot;Susa&quot;) Bokisi ro amukela loko u huma">
+<!ENTITY expungeOnExit.accesskey "S">
+<!ENTITY emptyTrashOnExit.label "Halata xokhoma loko u huma">
+<!ENTITY emptyTrashOnExit.accesskey "u">
+<!ENTITY loginAtStartup.label "Lava mahungu mantshwa loko u sungula">
+<!ENTITY loginAtStartup.accesskey "L">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Ndzi vutise ku sungula u nga si pangela swin'wana">
+<!ENTITY maxMessagesStart.accesskey "v">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "mahungu">
+<!ENTITY alwaysAuthenticate.label "Minkarhi hinkwayo kuma ntiyisiso loko u tihlanganisa na sevha">
+<!ENTITY alwaysAuthenticate.accesskey "n">
+<!ENTITY newsrcFilePath.label "newsrc Fayili:">
+<!ENTITY newsrcFilePath.accesskey "f">
+<!ENTITY localPath.label "Buku ya mavito ya le kaya:">
+<!ENTITY localPath.accesskey "B">
+<!ENTITY abbreviate.label "Kombisa mavito ya mintlawa ya mahungu eka Folidara ya Mapapila:">
+<!ENTITY abbreviateOn.label "Mavito hi ntalo (Xikombiso, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Nkomiso wa mavito (Xikombiso, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Swa xiyimo xa le henhla...">
+<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
+<!ENTITY advancedButton.accesskey "s">
+<!ENTITY localFolderPicker.label "Hlawula Buku ya mavito ya le kaya">
+<!ENTITY browseFolder.label "Secha...">
+<!ENTITY browseFolder.accesskey "S">
+<!ENTITY newsrcPicker.label "Hlawula fayili ya newsrc">
+<!ENTITY browseNewsrc.label "Secha...">
+<!ENTITY browseNewsrc.accesskey "s">

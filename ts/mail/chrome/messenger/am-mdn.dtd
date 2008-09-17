@@ -1,0 +1,27 @@
+<!ENTITY pane.title "Tirhasiti leti vuyisiweke">
+<!ENTITY useGlobalPrefs.label "Tirhisa nhlawulo wa rhasiti ra mina leri vuyisiweke ra gilobali eka akhawunti leyi">
+<!ENTITY useGlobalPrefs.accesskey "T">
+<!ENTITY useCustomPrefs.label "Hlayisa tirhasiti leti vuyisiweke eka akhawunti leyi">
+<!ENTITY useCustomPrefs.accesskey "H">
+<!ENTITY requestReceipt.label "Minkarhi hinkwayo loko u rhumela mahungu, kombela rhasiti ra ku vuyisa">
+<!ENTITY requestReceipt.accesskey "M">
+<!ENTITY receiptArrive.label "Loko rhasiti ri fika:">
+<!ENTITY leaveIt.label "Ri siye eka bokisi ra mina ro amukela">
+<!ENTITY leaveIt.accesskey "O">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label "Ri yisa eka &quot;Rhumela&quot; Folidara">
+<!ENTITY moveToSent.accesskey "R">
+<!ENTITY requestMDN.label "Loko ndzi kuma xikombelo xa rhasiti leri vuyisiweke:">
+<!ENTITY returnSome.label "Pfumelela tirhasiti leti vuyisiweke ta mahungu man'wana">
+<!ENTITY returnSome.accesskey "i">
+<!ENTITY never.label "U nga rhumeli rhasiti leri vuyisiweke">
+<!ENTITY never.accesskey "U">
+<!ENTITY notInToCc.label "Loko ndzi nga ri Eka kumbe Cc ya hungu:">
+<!ENTITY notInToCc.accesskey "E">
+<!ENTITY outsideDomain.label "Loko murhumeri a nga ri kona laha ndzi nga kona:">
+<!ENTITY outsideDomain.accesskey "l">
+<!ENTITY otherCases.label "Eka hinkwaswo na timhaka tin'wana:">
+<!ENTITY otherCases.accesskey "n">
+<!ENTITY askMe.label "Ndzi vutise">
+<!ENTITY alwaysSend.label "Rhumela minkarhi hinkwayo">
+<!ENTITY neverSend.label "U nga rhumeli">

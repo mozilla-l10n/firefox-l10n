@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Ndzulamiso wo vona mahungu">
+<!ENTITY mailViewHeading.label "Vito ro vona mahungu:">
+<!ENTITY mailViewHeading.accesskey "h">
+<!ENTITY searchTermCaption.label "Loko u hlawula ku vona, kombisa ntsena mahungu lama:">
+

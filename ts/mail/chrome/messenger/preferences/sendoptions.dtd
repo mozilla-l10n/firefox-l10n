@@ -1,0 +1,39 @@
+<!ENTITY dialog.title "Rhumela Minhlawulo">
+<!ENTITY sendMail.title "Fomete ya tsalwa">
+<!ENTITY sendMaildesc.label "Loko u rhumela mahungu hi fomete ya HTML kutani un'we kumbe ku tlula va vaamukeri va nga longoloxiwangi leswaku va ta kuma HTML:">
+<!ENTITY askMe.label "Ndzi vutise leswaku ku endliwa yini">
+<!ENTITY askMe.accesskey "n">
+<!ENTITY convertPlain.label "Cinca hungu ri va eka tsalwa ra ntolovelo">
+<!ENTITY convertPlain.accesskey "c">
+<!ENTITY sendHTML.label "Rhumela hungu hi HTML">
+<!ENTITY sendHTML.accesskey "r">
+<!ENTITY sendBoth.label "Rhumela hungu hi tsalwa ra ntolovelo naHTML">
+<!ENTITY sendBoth.accesskey "r">
+<!ENTITY receiveHTML.label "Loko u tiva leswaku muamukeri wo karhi a nga kuma mapapila ya HTML, cinca 'Rhumela hungu hi tsalwa ra ntolovelo (ku nga ri HTML)' eka bokisi ro kamba ra karata buku ya tiadirese ta vaamukeri.">
+<!ENTITY override.label "Xiya: Tirhisa Buku ya Tiadirese ku boxa tifomete ta tsalwa ta vaamukeri.">
+
+<!ENTITY domaindesc.label "Loko u rhumela hungu eka adirese leyi nga na mavito ya ndhawu lama longoloxiweke laha hansi, &brandShortName; hi othomethiki rhumela mahungu hi fomete ya kahle.">
+<!ENTITY HTMLTab.label "Tindhawu ta HTML">
+<!ENTITY HTMLTab.accesskey "t">
+<!ENTITY PlainTextTab.label "Tindhawu ta Tsalwa ra Ntolovelo">
+<!ENTITY PlainTextTab.accesskey "t">
+<!ENTITY AddButton.label "Engetela...">
+<!ENTITY AddHtmlDomain.accesskey "a">
+<!ENTITY AddPlainText.accesskey "d">
+<!ENTITY DeleteButton.label "Sula">
+<!ENTITY DeleteHtmlDomain.accesskey "l">
+<!ENTITY DeletePlainText.accesskey "t">
+
+<!ENTITY add.htmltitle "Engetela Vito ra ndhawu ra HTML">
+<!ENTITY add.htmldomain "Vito ra ndhawu ra HTML:">
+<!ENTITY add.htmldomain.accesskey "d">
+<!ENTITY add.plaintexttitle "Engetela Vito ra ndhawu ra Tsalwa ra Ntolovelo">
+<!ENTITY add.plaintextdomain "Vito ra ndhawu ra Tsalwa ra Ntolovelo:">
+<!ENTITY add.plaintext.accesskey "d">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+
+<!ENTITY domainnameError.title "Xihoxo xa vito ra ndhawu">
+<!ENTITY duplicationError.label "Vito ra ndhawu @string@ se ri kona eka nongonoko lowu.">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+
+<!ENTITY dualEntryError.label "Vito ra ndhawu ri nge vi kona eka minongonoko hamimbirhi ya HTML na Tsalwa ra Ntolovelo. Vito ra ndhawu ra @ntambhu@ se ri kona.">

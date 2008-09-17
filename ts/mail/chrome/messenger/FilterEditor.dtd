@@ -1,0 +1,53 @@
+<!ENTITY window.title "Milawu ya filithara">
+<!ENTITY subject.label "nhlokomhaka">
+<!ENTITY sender.label "murhumeri">
+<!ENTITY date.label "siku">
+<!ENTITY anyText.label "tsalwa rihi kumbe rihi">
+<!ENTITY keyword.label "ritonkulu">
+<!ENTITY age.label "malembe hi masiku">
+<!ENTITY to.label "eka">
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "xiyimo">
+<!ENTITY priority.label "vukule">
+<!ENTITY body.label "miri">
+<!ENTITY contains.label "ku na">
+<!ENTITY nocontains.label "ku hava">
+<!ENTITY filterName.label "Vito ra filithara:">
+<!ENTITY filterName.accesskey "v">
+
+<!ENTITY junk.label "Janki">
+<!ENTITY notJunk.label "Ku hava Janki">
+
+<!ENTITY lowestPriorityCmd.label "Ehansi-hansi">
+<!ENTITY lowPriorityCmd.label "Ehansi">
+<!ENTITY normalPriorityCmd.label "Swa ntolovelo">
+<!ENTITY highPriorityCmd.label "Ehenhla">
+<!ENTITY highestPriorityCmd.label "Ehenhla-henhla">
+
+<!ENTITY conditionDesc.label "Eka mahungu lama nghenaka leswaku:">
+<!ENTITY filterActionDesc.label "Endla migingiriko leyi:">
+<!ENTITY filterActionDesc.accesskey "E">
+
+<!ENTITY newFolderButton.label "Folidara yintshwa...">
+<!ENTITY newFolderButton.accesskey "F">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "Move Message to">
+<!ENTITY copyMessage.label "Copy Message to">
+<!ENTITY forwardTo.label "Forward Message to">
+<!ENTITY replyWithTemplate.label "Reply with Template">
+<!ENTITY markMessageRead.label "Mark As Read">
+<!ENTITY markMessageStarred.label "Add Star">
+<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY setPriority.label "Set Priority to">
+<!ENTITY addTag.label "Tag Message">
+<!ENTITY setJunkScore.label "Set Junk Status to">
+<!ENTITY deleteMessage.label "Delete Message">
+<!ENTITY deleteFromPOP.label "Delete From POP Server">
+<!ENTITY fetchFromPOP.label "Fetch From POP Server">
+<!ENTITY ignoreThread.label "Ignore Thread">
+<!ENTITY watchThread.label "Watch Thread">
+

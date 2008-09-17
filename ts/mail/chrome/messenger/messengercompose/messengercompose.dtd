@@ -1,0 +1,284 @@
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Khompoza: (Ku hava nhlokomhaka)">
+<!-- File Menu -->
+
+<!ENTITY fileMenu.label "Fayili">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "Yintshwa">
+<!ENTITY newMenu.accesskey "Y">
+<!ENTITY newMessage.label "Hungu">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "H">
+<!ENTITY newCard.label "Khadi ra buku ya tiadirese...">
+<!ENTITY newCard.accesskey "t">
+<!ENTITY attachMenu.label "Nembeneta">
+<!ENTITY attachMenu.accesskey "n">
+<!ENTITY attachFileCmd.label "Fayiliti...">
+<!ENTITY attachFileCmd.accesskey "A">
+<!ENTITY attachPageCmd.label "Pheji ra Web...">
+<!ENTITY attachPageCmd.accesskey "E">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Karata ra wena (vCard)">
+<!ENTITY attachVCardCmd.accesskey "R">
+<!ENTITY closeCmd.label "Pfala">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "p">
+<!ENTITY saveCmd.label "Hlayisa">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveAsCmd.label "Hlayisa tani hi">
+<!ENTITY saveAsCmd.accesskey "T">
+<!ENTITY saveAsFileCmd.label "Fayili...">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Dirafuta">
+<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsTemplateCmd.label "Thempulete">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY offlineGoOfflineCmd.label "Tirha ofolayini">
+<!ENTITY offlineGoOfflineCmd.accesskey "h">
+<!ENTITY sendNowCmd.label "Rhumela sweswi">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "w">
+<!ENTITY sendLaterCmd.label "Rhumela endzhaku">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "E">
+<!ENTITY printSetupCmd.label "Ndzulamiso wa pheji...">
+<!ENTITY printSetupCmd.accesskey "a">
+<!ENTITY printCmd.label "Pirinta...">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY quitApplicationCmdWin.label "Huma">
+<!ENTITY quitApplicationCmdWin.accesskey "u">
+<!ENTITY quitApplicationCmd.label "Tshika">
+<!ENTITY quitApplicationCmd.accesskey "S">
+<!ENTITY quitApplicationCmd.key "Q">
+<!-- Edit Menu -->
+
+<!ENTITY editMenu.label "Hlela">
+<!ENTITY editMenu.accesskey "h">
+<!ENTITY undoCmd.label "Endla nakambe">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "e">
+<!ENTITY redoCmd.label "Endla nakambe">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "e">
+<!ENTITY cutCmd.label "Tsema">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "a">
+<!ENTITY copyCmd.label "Kopa">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Damaketa">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "d">
+<!ENTITY editRewrapCmd.label "Putsela nakambe">
+<!ENTITY editRewrapCmd.accesskey "n">
+<!ENTITY deleteCmd.label "Sula">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "u">
+<!ENTITY selectAllCmd.label "Hlawula hinkwaswo">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "h">
+<!ENTITY findCmd.label "Kuma no siva...">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "K">
+<!ENTITY findAgainCmd.label "Kuma nakambe">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "b">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Kuma Swa Khale">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "k">
+<!-- View Menu -->
+
+<!ENTITY viewMenu.label "Vona">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenuNew.label "Switirhisiwa">
+<!ENTITY viewToolbarsMenuNew.accesskey "S">
+<!ENTITY showComposeToolbarCmd.label "Xisecha-switirhisiwa xa Mapapila">
+<!ENTITY showComposeToolbarCmd.accesskey "m">
+<!ENTITY showFormatToolbarCmd.label "Ku fometa xisecha-switirhisiwa">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
+<!ENTITY showTaskbarCmd.label "Bara ya Xiyimo">
+<!ENTITY showTaskbarCmd.accesskey "B">
+<!ENTITY customizeToolbar.label "Khasitamayiza...">
+<!ENTITY customizeToolbar.accesskey "K">
+
+<!ENTITY addressSidebar.label "Bra ya le thlelo ya vuhlanganisi">
+<!ENTITY addressSidebar.accesskey "r">
+<!-- Format Menu -->
+
+<!ENTITY formatMenu.label "Fomete">
+<!ENTITY formatMenu.accesskey "o">
+<!-- Options Menu -->
+
+<!ENTITY optionsMenu.label "Minhlawulo">
+<!ENTITY optionsMenu.accesskey "n">
+<!ENTITY checkSpellingCmd.label "Xiya mpeleto...">
+<!ENTITY checkSpellingCmd.key "K">
+<!ENTITY checkSpellingCmd.key2 "VK_F7">
+<!ENTITY checkSpellingCmd.accesskey "y">
+<!ENTITY enableInlineSpellChecker.label "Spell Check As You Type">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY quoteCmd.label "Tshaha hungu leri nga hundza">
+<!ENTITY quoteCmd.accesskey "S">
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
+<!ENTITY attachVCard.label "Nembeneta karata ra wena (vKarata)">
+<!ENTITY attachVCard.accesskey "v">
+
+<!ENTITY returnReceiptMenu.label "Rhisiti ro thlerisela">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY outputFormatMenu.label "Fomete">
+<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY autoFormatCmd.label "Ku kuma hi othomethiki">
+<!ENTITY autoFormatCmd.accesskey "u">
+<!ENTITY plainTextFormatCmd.label "Tsalwa leri nga tsariwangiki ntsena">
+<!ENTITY plainTextFormatCmd.accesskey "t">
+<!ENTITY htmlFormatCmd.label "Tsalwa leri nga fuwa (HTML) ntsena">
+<!ENTITY htmlFormatCmd.accesskey "w">
+<!ENTITY bothFormatCmd.label "Tsalwa leri nga tsariwangiki na leri nga fuwa (HTML)">
+<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY priorityMenu.label "Swa nkoka">
+<!ENTITY priorityMenu.accesskey "s">
+<!ENTITY priorityButton.label "Swa nkoka:">
+<!ENTITY lowestPriorityCmd.label "Ehansi-hansi">
+<!ENTITY lowestPriorityCmd.accesskey "h">
+<!ENTITY lowPriorityCmd.label "Ehansi">
+<!ENTITY lowPriorityCmd.accesskey "h">
+<!ENTITY normalPriorityCmd.label "Swa ntolovelo">
+<!ENTITY normalPriorityCmd.accesskey "t">
+<!ENTITY highPriorityCmd.label "Ehenhla">
+<!ENTITY highPriorityCmd.accesskey "n">
+<!ENTITY highestPriorityCmd.label "Henhla">
+<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY fileCarbonCopyCmd.label "Rhumela khopi eka">
+<!ENTITY fileCarbonCopyCmd.accesskey "r">
+<!ENTITY fileHereMenu.label "Fayila laha">
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label "Switirho">
+<!ENTITY tasksMenu.accesskey "S">
+<!ENTITY messengerCmd.label "Mapapila &amp; Ntlawa wa mahungu">
+<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Buku ya tiadirese">
+<!ENTITY addressBookCmd.accesskey "d">
+<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY accountManagerCmd.label "Ndzulamiso wa akhawunti...">
+<!ENTITY accountManagerCmd.accesskey "d">
+<!ENTITY accountManagerCmdUnix.accesskey "S">
+<!ENTITY preferencesCmd.label "Minhlawulo...">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Minhlawulo">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Minimayiza">
+<!ENTITY bringAllToFront.label "Tisa hinkwaswo emahlweni">
+<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY windowMenu.label "Fasitere">
+<!-- Help Menu -->
+
+<!ENTITY helpMenu.label "Pfuna">
+<!ENTITY helpMenu.accesskey "P">
+<!ENTITY releaseCmd.label "Humesa tinotsi">
+<!ENTITY releaseCmd.accesskey "H">
+<!ENTITY hintsAndTips.label "&brandShortName; Pfuna">
+<!ENTITY hintsAndTips.accesskey "p">
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY aboutCmd.label "Mayelana &brandShortName;">
+<!ENTITY aboutCmd.accesskey "M">
+<!-- Mail Toolbar -->
+
+<!ENTITY sendButton.label "Rhumela">
+<!ENTITY quoteButton.label "Tshaha">
+<!ENTITY addressButton.label "Vuhlanganisi">
+<!ENTITY attachButton.label "Nembeneta">
+<!ENTITY spellingButton.label "Mpeleto">
+<!ENTITY saveButton.label "Hlayisa">
+<!ENTITY throbberItem.title "Xikomba-nghingiriko">
+<!-- Mail Toolbar Tooltips -->
+
+<!ENTITY sendButton.tooltip "Rhumela hungu leri sweswi">
+<!ENTITY sendlaterButton.tooltip "Rhumela hungu leri endzhaku">
+<!ENTITY quoteButton.tooltip "Tshaha hungu leri nga hundza">
+<!ENTITY addressButton.tooltip "Hlawula muamukeri eka buku ya tiadirese">
+<!ENTITY attachButton.tooltip "Nghenisa xinembenetiwa">
+<!ENTITY saveButton.tooltip "Hlayisa hungu leri">
+<!ENTITY cutButton.tooltip "Tsema">
+<!ENTITY copyButton.tooltip "Kopa">
+<!ENTITY pasteButton.tooltip "Damaketa">
+<!-- Headers -->
+
+<!ENTITY fromAddr.label "Ku suka eka:">
+<!ENTITY fromAddr.accesskey "u">
+<!ENTITY toAddr.label "Ku ya eka:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Bcc:">
+<!ENTITY replyAddr.label "Hlamula eka:">
+<!ENTITY newsgroupsAddr.label "Ntlawa wa mahungu:">
+<!ENTITY followupAddr.label "Landzelerisa Eka:">
+<!ENTITY subject.label "Nhlokomhaka:">
+<!ENTITY subject.accesskey "N">
+<!ENTITY attachments.label "Swinembenetwana:">
+<!ENTITY attachments.accesskey "m">
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
+
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!ENTITY SmileButton.tooltip "Nghenisa xikandza xo n'wayitela">
+<!ENTITY smiley1Cmd.label "Nw'ayitela">
+<!ENTITY smiley2Cmd.label "Visingala">
+<!ENTITY smiley3Cmd.label "Copeta">
+<!ENTITY smiley4Cmd.label "Humesile ririmi">
+<!ENTITY smiley5Cmd.label "Hleka">
+<!ENTITY smiley6Cmd.label "Nyumile">
+<!ENTITY smiley7Cmd.label "Ku hava xiboho">
+<!ENTITY smiley8Cmd.label "Hlamala">
+<!ENTITY smiley9Cmd.label "Tswontswa">
+<!ENTITY smiley10Cmd.label "Huwelela">
+<!ENTITY smiley11Cmd.label "Miyerile">
+<!ENTITY smiley12Cmd.label "Mali-Nomo">
+<!ENTITY smiley13Cmd.label "Nenge-enon'weni">
+<!ENTITY smiley14Cmd.label "Ku hava nandzu">
+<!ENTITY smiley15Cmd.label "Rila">
+<!ENTITY smiley16Cmd.label "Milomo yi pfariwile">
+<!-- Message Pane Context Menu -->
+
+<!ENTITY spellCheckNoSuggestions.label "Ku hava ku bumabumela loku kumiweke">
+<!ENTITY spellCheckIgnoreWord.label "Tshika rito">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Engetela eka dikixnari">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "Endla nakambe">
+<!ENTITY undo.accesskey "E">
+<!ENTITY cut.label "Tsema">
+<!ENTITY cut.accesskey "e">
+<!ENTITY copy.label "Kopa">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Dameketa">
+<!ENTITY paste.accesskey "D">
+<!ENTITY pasteQuote.label "Dameketa tani hi ntshaho">
+<!ENTITY pasteQuote.accesskey "T">
+
+<!ENTITY openAttachment.label "Pfula">
+<!ENTITY openAttachment.accesskey "P">
+<!ENTITY delete.label "Sula">
+<!ENTITY delete.accesskey "S">
+<!ENTITY selectAll.label "Hlawula hinkwaswo">
+<!ENTITY selectAll.accesskey "H">
+<!ENTITY attachFile.label "Nembeneta fayiliti...">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "Nembeneta pheji ra Web...">
+<!ENTITY attachPage.accesskey "W">
+<!-- Title for the address picker panel -->
+
+<!ENTITY addressesSidebarTitle.label "Vuhlanganisi">
+

@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Tikhopi &amp; Tifolidara">
+<!ENTITY sendingPrefix.label "Loko u rhumela mahungu, hi othometiki: ">
+<!ENTITY fccMailFolder.label "Veka khopi eka:">
+<!ENTITY fccMailFolder.accesskey "V">
+<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Hlawula Folidara...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bcc tiadirese leti ta tiimeyili:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Tifolidara to hlawuleka">
+<!ENTITY draftMailFolder.label "Veka tidirafuti ta mahungu eka:">
+<!ENTITY templateMailFolder.label "Veka tithempulete ta mahungu eka:">
+<!ENTITY saveMessageDlg.label "Kombisa hungu ra ku tiyisisa leswaku mahungu ya hlayisiwile">
+<!ENTITY saveMessageDlg.accesskey "K">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Rhumerile&quot; Folidara:">
+<!ENTITY sentFolderOn.accesskey "e">
+<!ENTITY sentInOtherFolder.label "Swin'wana:">
+<!ENTITY sentInOtherFolder.accesskey "S">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Tidirafuti&quot; Folidara:">
+<!ENTITY draftsFolderOn.accesskey "T">
+<!ENTITY draftInOtherFolder.label "Swin'wana:">
+<!ENTITY draftInOtherFolder.accesskey "s">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Tithempulete&quot; Tifolidara:">
+<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templateInOtherFolder.label "Swin'wana':">
+<!ENTITY templateInOtherFolder.accesskey "a">
+<!ENTITY specialFoldersTitle.label "Tidirafu na tithempulete">
+<!ENTITY keepDrafts.label "Veka tidirafu ta mahungu eka:">
+<!ENTITY keepTempltes.label "Veka tithempulete ta mahungu eka:">

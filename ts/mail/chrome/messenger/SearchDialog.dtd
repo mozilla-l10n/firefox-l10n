@@ -1,0 +1,75 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Secha mahungu eka:">
+<!ENTITY searchHeading.accesskey "h">
+<!ENTITY searchSubfolders.label "Secha tifolidarantsongo">
+<!ENTITY searchSubfolders.accesskey "c">
+<!ENTITY resetButton.label "Basisa">
+<!ENTITY resetButton.accesskey "B">
+<!ENTITY optionsButton.label "Minhlawulo">
+<!ENTITY closeButton.label "Pfala">
+<!ENTITY openButton.label "Pfula">
+<!ENTITY openButton.accesskey "a">
+<!ENTITY deleteButton.label "Sula">
+<!ENTITY deleteButton.accesskey "S">
+<!ENTITY searchDialogTitle.label "Secha Mahungu">
+<!ENTITY conditionDesc.label "Secha Mahungu lama yelanaka:">
+<!ENTITY conditions.label "Xihlawulekisi">
+<!ENTITY results.label "Mbuyelo">
+<!ENTITY fileHereMenu.label "Fayila laha">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY fileButton.label "Fayila">
+<!ENTITY fileButton.accesskey "i">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Pfula Folidara ya Hungu">
+<!ENTITY goToFolderButton.accesskey "r">
+<!ENTITY saveAsVFButton.label "Save as Search Folder">
+<!ENTITY saveAsVFButton.accesskey "v">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "Search in:">
+<!ENTITY abSearchHeading.accesskey "h">
+<!ENTITY propertiesButton.label "Swihlawulekisi">
+<!ENTITY propertiesButton.accesskey "W">
+<!ENTITY composeButton.label "Tsala">
+<!ENTITY composeButton.accesskey "A">
+<!ENTITY abSearchDialogTitle.label "Ku secha ka xiyimo xa le henhla ka buku ya tiadirese">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Ntambhu">
+<!ENTITY senderColumn.label "Murhumeri">
+<!ENTITY recipientColumn.label "Muamukeri">
+<!ENTITY subjectColumn.label "Nhlokomhaka">
+<!ENTITY dateColumn.label "Siku">
+<!ENTITY priorityColumn.label "Nhlawulo">
+<!ENTITY tagsColumn.label "Tags">
+<!ENTITY accountColumn.label "Akhawunti">
+<!ENTITY statusColumn.label "Xiyimo">
+<!ENTITY sizeColumn.label "Sayizi">
+<!ENTITY junkStatusColumn.label "Xiyimo xa Janki">
+<!ENTITY linesColumn.label "Mintila">
+<!ENTITY unreadColumn.label "A swi hlayiwangi">
+<!ENTITY totalColumn.label "Ntsengo">
+<!ENTITY readColumn.label "Hlaya">
+<!ENTITY starredColumn.label "Starred">
+<!ENTITY locationColumn.label "Ndhawu">
+<!ENTITY idColumn.label "Xikombelo xi amukeriwile">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Tshikelela ku hlawula tikholomo to kombisa">
+<!ENTITY threadColumn.tooltip "Tshikelela ku kombisa tintambhu ta mahungu">
+<!ENTITY senderColumn.tooltip "Tshikelela ku hlawula hi murhumeri">
+<!ENTITY recipientColumn.tooltip "Tshikelela ku hlawula hi muamukeri">
+<!ENTITY subjectColumn.tooltip "Tshikelela ku hlawula hi nhlokomhaka">
+<!ENTITY dateColumn.tooltip "Tshikelela ku hlawula hi siku">
+<!ENTITY priorityColumn.tooltip "Tshikelela ku hlawula hi nhlawulo">
+<!ENTITY tagsColumn.tooltip "Click to sort by tags">
+<!ENTITY accountColumn.tooltip "Tshikelela ku hlawula hi akhawunti">
+<!ENTITY statusColumn.tooltip "Tshikelela ku hlawula hi xiyimo">
+<!ENTITY sizeColumn.tooltip "Tshikelela ku hlawula hi sayizi">
+<!ENTITY junkStatusColumn.tooltip "Tshikelela ku hlawula hi xiyimo xa janki">
+<!ENTITY unreadColumn.tooltip "Nhlayo ya mahungu lama nga hlayiwangiki eka ntambhu">
+<!ENTITY totalColumn.tooltip "Ntsengo wa nhlayo ya mahungu lama nga eka ntambhu">
+<!ENTITY readColumn.tooltip "Tshikelela ku hlawula hi leswi hlayiweke">
+<!ENTITY starredColumn.tooltip "Click to sort by star">
+<!ENTITY locationColumn.tooltip "Tshikelela ku hlawula hi ndhawu">
+<!ENTITY idColumn.tooltip "Tshikelela ku hlawula hi swikombelo leswi amukeriweke">

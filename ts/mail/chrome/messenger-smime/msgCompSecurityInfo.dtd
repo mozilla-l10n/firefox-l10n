@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Nhlayiseko wa hungu">
+<!ENTITY subject.plaintextWarning "Xiya: mintila ya nhlokomhaka ya mahungu ya imeyili a ya tsariwangi.">
+<!ENTITY status.heading "Vundzheni bya hungu ra wena byi ta rhumeriwa hi ndlela leyi:">
+<!ENTITY status.signed "Sayiniwile digithali:">
+<!ENTITY status.encrypted "Tsariwile:">
+<!ENTITY status.certificates "Switifiketi:">
+<!ENTITY view.label "Languta">
+<!ENTITY view.accesskey "L">
+<!ENTITY tree.recipient "Muamukeri">
+<!ENTITY tree.status "Xiyimo">
+<!ENTITY tree.issuedDate "Humesiwile">
+<!ENTITY tree.expiresDate "Heleriwile">

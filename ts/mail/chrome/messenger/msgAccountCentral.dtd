@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label "Imeyili">
+<!ENTITY readMsgsLink.label "Hlaya mahungu">
+<!ENTITY composeMsgLink.label "Tsala hungu rintshwa">
+
+<!ENTITY newsSectionHdr.label "Mintlawa ya mahungu">
+<!ENTITY subscribeNewsLink.label "Lawula ntsariso wa ntlawa wa mahungu">
+
+<!ENTITY accountsSectionHdr.label "Accounts">
+<!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
+<!ENTITY settingsLink.label "Languta ndzulamiso wa akhawunti leyi">
+<!ENTITY newAcctLink.label "Tumbuluxa akhawunti yintshwa">
+
+<!ENTITY advFeaturesSectionHdr.label "Swihlawulekisi swa xiyimo xa le henhla">
+<!ENTITY searchMsgsLink.label "Secha mahungu">
+<!ENTITY filtersLink.label "Lawula tifilithara ta mahungu">
+<!ENTITY junkSettings.label "Ndzulamiso wa mapapila ya janki">
+<!ENTITY offlineLink.label "Ndzulamiso wa ofolayini">
+
+
+<!ENTITY rssSectionHdr.label "RSS Mahungu &amp; Tibulogo">
+<!ENTITY subscibeRSS.label "Lawula ntsariso">

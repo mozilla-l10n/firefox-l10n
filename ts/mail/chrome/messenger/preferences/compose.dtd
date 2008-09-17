@@ -1,0 +1,60 @@
+<!ENTITY itemGeneral.label "Swin'wana na swin'wana">
+<!ENTITY itemAutoComplete.label "Maadiresele">
+<!ENTITY itemSpellCheck.label "Mapeletele">
+<!ENTITY itemSendFormat.label "Rhumela xivumbeko">
+
+<!ENTITY forwardReply.label "Hundzisela mahungu">
+<!ENTITY forwardMsg.label "Hundzisela mahungu:">
+<!ENTITY forwardMsg.accesskey "h">
+<!ENTITY inline.label "Inilayini">
+<!ENTITY inline.accesskey "I">
+<!ENTITY asAttachment.label "Tani hi ndhameketo">
+<!ENTITY asAttachment.accesskey "T">
+
+<!ENTITY sendingMessagesHeader.label "Tumbuluxa mahungu">
+<!ENTITY spellCheck.label "Kambisisa mapeletele u nga si rhumela">
+<!ENTITY spellCheck.accesskey "K">
+<!ENTITY spellCheckInline.label "Enable spell check as you type">
+<!ENTITY spellCheckInline.accesskey "n">
+<!ENTITY languagePopup.label "Ririmi:">
+<!ENTITY languagePopup.accessKey "r">
+<!ENTITY downloadDictionaries.label "Panga tidikixinari tin'wana">
+
+<!ENTITY useMIME.label "Eka swihlawulekisi leswi nga na 8-biti, tirhisa 'mapirintele lama tshahiweke' yo enikhodiwa ya MIME">
+<!ENTITY useMIME.accesskey "e">
+<!ENTITY warnOnSendAccelKey.label "Tiyisisa loko u tirhisa ntsemakanyo wa khiyibodo ku rhumela mahungu">
+<!ENTITY warnOnSendAccelKey.accesskey "t">
+<!ENTITY autoSave.label "Hlayisa hi othomethiki hi">
+<!ENTITY autoSave.accesskey "o">
+<!ENTITY autoSaveEnd.label "timinete">
+<!ENTITY autoSaveEnd.accesskey "t">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "Katsakanya mahungu ya tsalwa leri nga tsariwangiki hi">
+<!ENTITY wrapOutMsg.accesskey "y">
+<!ENTITY char.label "swihlawulekisi">
+
+<!ENTITY emailCollectionPicker.label "Hi othomethiki engetela tiadirese ta imeyili leti humaka eka:">
+<!ENTITY emailCollectionPicker.accesskey "o">
+<!ENTITY addressingTitle.label "Matsalele ya tiadirese hi othomethiki">
+<!ENTITY autocompleteText.label "Loko u adirese mahungu, lava leswi tsariweke leswi yelanaka eka:">
+<!ENTITY addressingEnable.label "Ekaya Tibuku ta tiadirese">
+<!ENTITY addressingEnable.accesskey "T">
+<!ENTITY directories.label "Sevha ya buku ya mavito:">
+<!ENTITY directories.accesskey "S">
+<!ENTITY editDirectories.label "Hlela buku ya mavito...">
+<!ENTITY editDirectories.accesskey "H">
+<!ENTITY matchText.label "Loko ku ri na ku yelana eka tibuku ta tiadirese ta le kaya:">
+<!ENTITY skipDirectory.label "U nag sechi eka buku ya mavito">
+
+<!ENTITY sendOptionsCaption.label "Rhumela no hlawula HTML">
+<!ENTITY sendOptionsDescription.label "Xiya matirhelo ya xivumbeko xa tsalwa">
+<!ENTITY sendOptions.label "Mahlawulele yo rhumela...">
+<!ENTITY sendOptions.accesskey "M">
+
+<!ENTITY htmlComposeDescription.label "Xiya swihoxo swa mahlawulele yo rhumela swa HTML">
+<!ENTITY htmlCompose.label "Mahlawulele ya HTML...">
+<!ENTITY htmlCompose.accesskey "M">
+
+<!ENTITY returnReceiptsInfo.label "Kuma vito &brandShortName; ro koma ra xitirhisiwa">
+<!ENTITY showReturnReceipts.label "Tlherisela marhasiti...">
+<!ENTITY showReturnReceipts.accesskey "T">

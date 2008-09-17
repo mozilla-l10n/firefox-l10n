@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Ku hlayisa ndhawu ya disiki, u nga pangi:">
+<!ENTITY doNotDownload.label "Ku hlayisa ndhawu ya disiki, u nga pangi ku tirhisa ofolayini:">
+<!ENTITY offlineNewFolder.label "Loko ndzi tumbuluxa tifolidara tintshwa ti hlawule ku tirha ofolayini ntsena">
+<!ENTITY offlineNewFolder.accesskey "l">
+<!ENTITY offlineNotDownload.label "Mahungu lama nga ehenhla ka">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "masiku">
+<!ENTITY daysOld.label "ku leha ka masiku">
+<!ENTITY message.label "mahungu">
+<!ENTITY nntpNotDownloadRead.label "Hlaya mahungu">
+<!ENTITY nntpNotDownloadRead.accesskey "H">
+<!ENTITY nntpDownloadMsg.label "Mahungu yo hundza">
+<!ENTITY nntpDownloadMsg.accesskey "m">
+<!ENTITY retentionCleanup.label "Ku kuma nakambe nmahungu ya khale ya nga dlayiwa">
+<!ENTITY retentionKeepMsg.label "Sula mahungu lama nga ehenhla ka">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "U nga dlayi mahungu">
+<!ENTITY retentionKeepAll.accesskey "U">
+<!ENTITY retentionKeepNew.label "Sula hinkwawo ehandle ka ro hetelela">
+<!ENTITY retentionKeepNew.accesskey "s">
+<!ENTITY retentionKeepUnread.label "Minkarhi hinkwayo Sula mahungu lama hlayiweke">
+<!ENTITY retentionKeepUnread.accesskey "m">
+<!ENTITY nntpRemoveBody.label "Rhumela mahungu lama nga ehansi ka">
+<!ENTITY nntpRemoveBody.accesskey "R">
+<!ENTITY offlineSelectNntp.label "Hlawulani Mintlawa ya mahungu yo tirhisa offline...">
+<!ENTITY offlineSelectImap.label "Hlayisa tifolidara to tirhisiwa ofolayini...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "U nga panga mahungu ya wena ekaya leswaku u ma kuma loko u tirha ofolayini.">
+<!ENTITY makeInboxMsgsAvailable.label "Kombisa mahungu ya mina eka bokisi ro amukela loko ndzi tirha ofolayini">
+<!ENTITY makeInboxMsgsAvailable.accesskey "k">
+<!ENTITY offlineGroupTitle.label "Ofolayini / Ku nga ri ku tirheni">
+<!ENTITY diskspaceGroupTitle.label "Ndhawu ya disiki">

@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title "Swihlawulekisi swa tafula">
+<!ENTITY applyButton.label "Tirhisa">
+<!ENTITY applyButton.accesskey "T">
+<!ENTITY closeButton.label "Pfala">
+<!ENTITY tableTab.label "Tafula">
+<!ENTITY cellTab.label "Tisele">
+<!ENTITY tableRows.label "Mintila:">
+<!ENTITY tableRows.accessKey "M">
+<!ENTITY tableColumns.label "Tikholomo:">
+<!ENTITY tableColumns.accessKey "T">
+<!ENTITY tableHeight.label "Vulehi:">
+<!ENTITY tableHeight.accessKey "E">
+<!ENTITY tableWidth.label "Vuanami:">
+<!ENTITY tableWidth.accessKey "V">
+<!ENTITY tableBorderSpacing.label "Mindzilikano na ndhawu">
+<!ENTITY tableBorderWidth.label "Ndzilikano:">
+<!ENTITY tableBorderWidth.accessKey "N">
+<!ENTITY tableSpacing.label "Ndhawu:">
+<!ENTITY tableSpacing.accessKey "N">
+<!ENTITY tablePadding.label "Ku peda:">
+<!ENTITY tablePadding.accessKey "K">
+<!ENTITY tablePxBetwCells.label "tipixele exikarhi ka tisele">
+<!ENTITY tablePxBetwBrdrCellContent.label "tipixele exikarhi ka ndzilikano wa sele na vundzheni">
+<!ENTITY tableAlignment.label "Lulamisa tafula:">
+<!ENTITY tableAlignment.accessKey "L">
+<!ENTITY tableCaption.label "Nhlokomhaka:">
+<!ENTITY tableCaption.accessKey "N">
+<!ENTITY tableCaptionAbove.label "Tafula ra le henhla">
+<!ENTITY tableCaptionBelow.label "Tafula ra le hansi">
+<!ENTITY tableCaptionLeft.label "Ximatsi xa tafula">
+<!ENTITY tableCaptionRight.label "Xinene xa tafula">
+<!ENTITY tableCaptionNone.label "Ku hava">
+<!ENTITY tableInheritColor.label "(Kombisa muhlovo wa pheji)">
+
+<!ENTITY cellPercent.label "phesente ya tafula">
+<!ENTITY cellSelection.label "Nhlawulo">
+<!ENTITY cellSelectCell.label "Sele">
+<!ENTITY cellSelectRow.label "Ntila">
+<!ENTITY cellSelectColumn.label "Kholomo">
+<!ENTITY cellSelectNext.label "Leswi landzelaka">
+<!ENTITY cellSelectNext.accessKey "L">
+<!ENTITY cellSelectPrevious.label "Leswi nga hundza">
+<!ENTITY cellSelectPrevious.accessKey "N">
+<!ENTITY cellApplyBeforeMove.label "Tirhisa ku cinca u nga si cinca nhlawulo">
+<!ENTITY cellKeepCurrentData.label "Hlayisa ndzulamiso wa sweswi">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label "Ku ta tirhisiwa ku cinca ka sweswi">
+<!ENTITY applyBeforeChange2.label "u nga si cinca nhlawulo.">
+<!ENTITY cellRowSpan.label "Xipene xa ntila:">
+<!ENTITY cellColSpan.label "Xipene xa kholomo:">
+<!ENTITY cellContentAlignment.label "Ku lulamisa vundzheni">
+<!ENTITY cellHorizontal.label "Horizonthali:">
+<!ENTITY cellHorizontal.accessKey "Z">
+<!ENTITY cellVertical.label "Vhetikhali:">
+<!ENTITY cellVertical.accessKey "V">
+<!ENTITY cellStyle.label "Xitayili xa sele:">
+<!ENTITY cellStyle.accessKey "X">
+<!ENTITY cellNormal.label "Swa ntolovelo">
+<!ENTITY cellHeader.label "Nhlokomhaka">
+<!ENTITY cellTextWrap.label "Phutsela tsalwa:">
+<!ENTITY cellTextWrap.accessKey "P">
+<!ENTITY cellWrap.label "Phutsela">
+<!ENTITY cellNoWrap.label "U nga putseli">
+<!ENTITY cellAlignTop.label "Ehenhla">
+<!ENTITY cellAlignMiddle.label "Exikarhi">
+<!ENTITY cellAlignBottom.label "Ehansi">
+<!ENTITY cellAlignJustify.label "Tiyisisa">
+<!ENTITY cellAlignAtChar.label "Eka xihlawulekisi:">
+<!ENTITY cellInheritColor.label "(Kombisa muhlovo wa tafula)">
+<!ENTITY cellUseCheckboxHelp.label "Tirhisa mabokisi yo secha ku kuma swihlawulekisi leswi tirhisiwaka eka tisele leti hlawuriweke">
+<!-- Used in both Table and Cell panels  -->
+
+<!ENTITY size.label "Sayizi">
+<!ENTITY pixels.label "pixele">
+<!ENTITY backgroundColor.label "Xitandzhaku xa muhlovo:">
+<!ENTITY backgroundColor.accessKey "X">
+<!ENTITY AlignLeft.label "Eximatsini">
+<!ENTITY AlignCenter.label "Exikarhi">
+<!ENTITY AlignRight.label "Exineneni">

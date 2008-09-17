@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Matumbuluxele &amp; Maadiresele">
+<!ENTITY addressingGroupTitle.label "Maadiresele">
+<!ENTITY addressingText.label "Loko u lava tiadirese:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "Tirhisa nhlawulo wa sevha ya dlilobali LDAP ya mina eka akhawunti leyi">
+<!ENTITY useGlobal.accesskey "T">
+<!ENTITY editDirectories.label "Hlela Buku ya mavito...">
+<!ENTITY editDirectories.accesskey "H">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Tirhisa sevha yin'wana ya LDAP:">
+<!ENTITY directories.accesskey "d">
+<!-- am-addressing.xul -->
+
+
+<!ENTITY compositionGroupTitle.label "Matumbuluxele">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Tumbuluxa mahungu hi xivumbeko xa HTML">
+<!ENTITY useHtml.accesskey "T">
+<!ENTITY autoQuote.label "Hi othomethiki tshaha hungu ra masungulo loko u hlamula">
+<!ENTITY autoQuote.accesskey "t">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "Kutani,">
+<!ENTITY then.accesskey "k">
+<!ENTITY aboveQuote.label "sungula nhlamulo ya mina ehenhla ka ntshaho">
+<!ENTITY belowQuote.label "sungula nhlamulo ya mina ehansi ka ntshaho">
+<!ENTITY selectAndQuote.label "hlawula ntshaho">
+<!ENTITY place.label "kutani u veka nsayino wa mina">
+<!ENTITY place.accesskey "k">
+<!ENTITY belowText.label "ehansi ka ntshaho (swa bumabumeriwa)">
+<!ENTITY aboveText.label "ehansi ka nhlamulo ya mina (ehenhla ka ntshaho)">

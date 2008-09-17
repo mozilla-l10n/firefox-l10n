@@ -1,0 +1,17 @@
+<!ENTITY virtualFolderProperties.title "Folidara yo secha yintshwa leyi hlayisiweke">
+<!ENTITY name.label "Vito:">
+<!ENTITY name.accesskey "v">
+<!ENTITY description.label "Tumbuluxa tani hi folidarantsongo ya:">
+<!ENTITY description.accesskey "T">
+<!ENTITY searchCriteriaText.label "Cinca xilaveko xa ku secha lexi tirhisiweke eka ku secha loku hlayisiweke:">
+<!ENTITY searchCriteriaButton.label "Xilaveko xa ku secha...">
+<!ENTITY searchCriteriaButton.accesskey "X">
+
+<!ENTITY searchTermCaption.label "Kambe xihlawulekisi xo secha lexi tirhisiweke eka folidara yo sech leyi hlayisiweke: ">
+
+<!ENTITY folderSelectionCaption.label "Hlawula tifolidara to ku ti secha: ">
+<!ENTITY chooseFoldersButton.label "Hlawula...">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Secha onolayini (Yi nyika mbuyelo wa sweswi wa IMAP na tifolidara ta Mahungu kambe ku engeteriwa nkarhi wa ku pfula folidara)">
+<!ENTITY searchOnline.accesskey "O">

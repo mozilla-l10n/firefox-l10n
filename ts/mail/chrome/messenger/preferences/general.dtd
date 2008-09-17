@@ -1,0 +1,40 @@
+<!ENTITY generalSettings.caption "Xihoxo xa Ndhawu">
+<!ENTITY generalSettings.label "Endla &brandShortName; xihoxo xa apulikhexini ya:">
+<!ENTITY setDefaultMailClient.label "Mapapila">
+<!ENTITY setDefaultMailClient.accesskey "M">
+<!ENTITY setDefaultNewsClient.label "Mahungu">
+<!ENTITY setDefaultNewsClient.accesskey "M">
+<!ENTITY setDefaultFeedClient.label "RSS Switirhisiwa">
+<!ENTITY setDefaultFeedClient.accesskey "S">
+<!ENTITY checkDefaultMailClient.label "&brandShortName; should check to see if it is the default mail client when starting">
+<!ENTITY checkDefaultMailClient.accesskey "n">
+<!ENTITY defaultClientAdvanced.label "Advanced...">
+<!ENTITY defaultClientAdvanced.accesskey "d">
+
+<!ENTITY windowSettings.label "Khonifigarexini ya Fasitere">
+<!ENTITY selectWindowLayout.label "Hlawula nkombiso wa fasitere leri u nga ta ri tirhisa eka Mapapila.">
+<!ENTITY selectWindowLayout.accesskey "H">
+
+<!ENTITY messengerStartPage.label "&brandShortName; Pheji ro sungula">
+<!ENTITY enableStartPage.label "Loko &brandShortName; ri sungula, kombisa Pheji ro Sungula eka ndhawu ya hungu">
+<!ENTITY enableStartPage.accesskey "L">
+<!ENTITY location.label "Tindhawu:">
+<!ENTITY location.accesskey "T">
+<!ENTITY useDefault.label "Lulamisa xihoxo">
+<!ENTITY useDefault.accesskey "L">
+
+<!ENTITY bounceSystemDockIcon.label "Kombisa ayikhoni ya doki">
+<!ENTITY bounceSystemDockIcon.accesskey "o">
+
+<!ENTITY newMessagesArrive.label "Loko mahungu mantshwa ma fika:">
+<!ENTITY playSound.label "Tlanga mpfumawulo">
+<!ENTITY playSound.accesskey "T">
+<!ENTITY showAnimatedAlert.label "Tirhisa xo kombisa">
+<!ENTITY showAnimatedAlert.accesskey "T">
+<!ENTITY soundbutton.label "Advanced...">
+<!ENTITY soundbutton.accesskey "A">
+
+<!ENTITY showConnections.label "Ndzulamiso wa vuhlanganisi...">
+<!ENTITY showConnections.accesskey "n">
+<!ENTITY proxiesInfo.label "Kuma &brandShortName; hlanganisa eka Internete.">
+<!ENTITY connectionsInfo.caption "Nhlanganiso">

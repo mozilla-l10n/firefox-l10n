@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label "Buku ya Adirese:">
+<!ENTITY searchInput.label "Secha:">
+<!ENTITY SearchNameOrEmail.label "Vito kumbe Imeyili">
+
+<!ENTITY addtoToFieldMenu.label "Engetela eka ka rivala">
+<!ENTITY addtoCcFieldMenu.label "Engetela eka ka rivala ra Cc">
+<!ENTITY addtoBccFieldMenu.label "Engetela eka ka rivala ra Bcc">
+
+<!ENTITY toButton.label "Engetela eka:">
+<!ENTITY ccButton.label "Engetela eka Cc:">
+

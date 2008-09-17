@@ -1,0 +1,7 @@
+<!ENTITY window.title "Khasitamaza tinhlokomhaka">
+<!ENTITY addButton.label "Engetela">
+<!ENTITY addButton.accesskey "E">
+<!ENTITY removeButton.label "Susa">
+<!ENTITY removeButton.accesskey "S">
+<!ENTITY newMsgHeader.label "Nhlokomhaka yintshwa ya hungu:">
+<!ENTITY newMsgHeader.accesskey "N">

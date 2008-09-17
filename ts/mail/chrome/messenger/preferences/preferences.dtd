@@ -1,0 +1,13 @@
+
+<!ENTITY prefWindow.titleWin "Minhlawulo">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Minhlawulo">
+<!ENTITY prefWindow.styleWin "width: 44em; height: 38em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleUnix "width: 42em;">
+
+<!ENTITY paneGeneral.title "Swin'wana na swin'wana">
+<!ENTITY paneDisplay.title "Nkombiso">
+<!ENTITY paneComposition.title "Mavumbele">
+<!ENTITY paneAttachments.title "Swnembenetwana">
+<!ENTITY panePrivacy.title "Swa xihundla">
+<!ENTITY paneAdvanced.title "Swa xiyimo xa le henhla">

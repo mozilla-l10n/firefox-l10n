@@ -1,0 +1,133 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Terry Hayes <thayes@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Values for changepassword.xul -->
+
+<!ENTITY setPassword.title "Cinca Phasiwedinkulu">
+<!ENTITY setPassword.tokenName.label "Xitirhisiwa xa nhlayiseko">
+<!ENTITY setPassword.oldPassword.label "Phasiwedi ya sweswi:">
+<!ENTITY setPassword.newPassword.label "Phasiwedi yintshwa:">
+<!ENTITY setPassword.reenterPassword.label "Phasiwedi yintshwa (nakambe):">
+<!ENTITY setPassword.meter.label "Mitara wa nkoka wa phasiwedi">
+<!ENTITY setPassword.meter.loading "Pangiwa">
+<!-- Values for resetpassword.xul -->
+
+<!ENTITY resetPasswordButtonLabel "Lulamisa nakambe">
+<!ENTITY resetPassword.title "Lulamisa nakambe phasiwedinkulu">
+<!ENTITY resetPassword.text "Loko u lulamisa nakambe pasiwedinkulu hinkwaswo swihlayisiwa swa webe na tiphasiwedi ya imeyili, fomo ya data, switifikheti swa wena, na makhiya ya wena ya le tlhelo ya ta rivariwa. Utiyisile leswaku u lava ku lulamisa nakambe phasiwedinkulu ya wena ke?">
+<!-- Values for getpassword.xul -->
+
+<!ENTITY getPassword.title "Nghenisa phasiwedinkulu">
+<!ENTITY getPassword.tokenName.label "Xitirhisiwa xa nhlayiseko">
+<!ENTITY getPassword.password.label "Phasiwedi:">
+<!-- These should be common -->
+
+<!ENTITY piperror.title "Xihoxo">
+<!ENTITY pipalert.title "Xihoxo - a xa ha kumeki">
+<!-- Prefs panel strings -->
+
+<!ENTITY pref.security.general.lHeader "Nhlayiseko">
+<!ENTITY pref.security.general.rHeader "Ndzulamiso wa nhlayiseko wun'wana na wun'wana">
+<!ENTITY pref.security.general.header "Ndzulamiso wa nhlayiseko wun'wana na wun'wana">
+<!ENTITY pref.security.general.level.title "Xiyimo xa Nhlayiseko">
+<!ENTITY pref.security.general.paranoid.label "Tirhisa ndzulamiso wa nhlayiseko wa pharanoyidi">
+<!ENTITY pref.security.general.certificates.title "Switifiketi">
+<!ENTITY pref.security.general.manageCert.label "Lawula switifiketi">
+<!-- Downloading a cert -->
+
+<!ENTITY downloadCert.title "Panga switifiketi">
+<!ENTITY downloadCert.message1 "U komberiwile ku tshemba Mpfumelelo wa Xitifiketi (CA).">
+<!ENTITY downloadCert.trustSSL "Tshemba mpfumelelo lowu wa CA xitifiketi ku kuma masayiti ya web.">
+<!ENTITY downloadCert.trustEmail "Tshemba mpfumelelo lowu wa CA xitifiketi ku kuma vatirhisi va imeyili.">
+<!ENTITY downloadCert.trustObjSign "Tshemba mpfumelelo lowu wa CA xitifiketi ku kuma vatumbuluxi wa switirhisiwa.">
+<!ENTITY downloadCert.message3 "U nga si tshemba mpfumelelo lowu wa CA xitifiketi, u fanele u rhanga u kambela matirhiselo na pholisi ya xitifiketi (loko swi ri kona).">
+<!ENTITY downloadCert.viewCert.label "Languta">
+<!ENTITY downloadCert.viewPolicy.label "Pholisi">
+<!ENTITY downloadCert.viewCert.text "Kambela xitifiketi xa CA">
+<!ENTITY downloadCert.viewPolicy.text "Kambela matirhiselo na pholisi ya CA">
+<!-- Certificate Exists in database -->
+
+<!ENTITY caCertExists.title "Xitifiketi xi kona">
+<!ENTITY caCertExists.message "Xitifiketi se xi kona.">
+<!-- Strings for the MismatchDomain dialog  -->
+
+<!ENTITY domainMismatch.title "Xihoxo xa Nhlayiseko: Mavito ya ndhawu a ma yelani">
+<!ENTITY examineCert.label "Languta xitifiketi">
+<!ENTITY examineCert.accesskey "L">
+<!-- Strings for the Server cert expired dialog  -->
+
+<!ENTITY serverCertExpired.continue "U lava ku ya emahlweni hambiswiritano?">
+<!ENTITY serverCertExpired.accept.label "Yana emahlweni">
+<!-- Strings for the SSL client auth ask dialog -->
+
+<!ENTITY clientAuthAsk.title "Xikombelo xo tiva mutirhisi">
+<!ENTITY clientAuthAsk.message1 "Sayiti leri ri komberile leswaku u titivisa hi xitifiketi:">
+<!ENTITY clientAuthAsk.message2 "Hlawula xitifiketi xa ku titivisa:">
+<!ENTITY clientAuthAsk.message3 "Vuxokoxoko bya xitifiketi lexi nyikiweke:">
+<!-- Strings for the cert picker dialog -->
+
+<!ENTITY certPicker.title "Hlawula xitifiketi">
+<!ENTITY certPicker.info "Xitifiketi:">
+<!ENTITY certPicker.detailsLabel "Vuxokoxoko bya xitifiketi lexi hlawuriweke:">
+
+<!ENTITY pkcs12.setpassword.title "Hlawula phasiwedi ya xitandzhaku xa xitifiketi">
+<!ENTITY pkcs12.setpassword.message "Phasiwedi ya xitandzhaku xa xitifiketi leyi tirhisiweke laha yi sirhelela fayili ya xitandzhaku leyi u lavaka ku yi tumbuluxa.  U fanele ku lulamisa phasiwedi leyi ku kota ku ya emahlweni na xitandzhaku.">
+<!ENTITY pkcs12.setpassword.label1 "Phasiwedi ya xitandzhaku xa xitifiketi:">
+<!ENTITY pkcs12.setpassword.label2 "Phasiwedi ya xitandzhaku xa xitifiketi (nakambe):">
+<!ENTITY pkcs12.setpassword.reminder "Xa nkoka: Loko u lahlekeriwa hi phasiwedi ya xitandzhaku xa xitifiketi xa wena, u nge he xi kumi xitandzhaku lexi eka nkarhi lowu taka.  Xi rhekhodi eka ndhawu yo hlayiseka.">
+
+<!ENTITY pkcs12.getpassword.title "Dayiloko ya ku nghenisa phasiwedi">
+<!ENTITY pkcs12.getpassword.message "Nghenisa phasiwedi leyi u yi tirhiseke eka ntsariso wa xitandzhaku xa xitifiketi.">
+
+<!ENTITY chooseToken.title "Hlawula dayiloko ya thokeni">
+<!ENTITY chooseToken.message1 "Hlawula thokeni.">
+
+<!ENTITY escrowWarn.title "Khopi ya khiya ra ntsariso">
+<!ENTITY escrowWarn.message1 "Swa Nkoka: Mpfumelelo lowu wa xitifiketi wu komberile ku endla xitandzhaku xa ntsariso wa khiya ra xihundla ra wena.">
+<!ENTITY escrowWarn.benefit1 "Xa nkoka hileswaku loko u lahlekeriwa hi khiya ra xihundla ra ntsariso, u nga kombela khopi eka mpfumelelo wa xitifiketi.">
+<!ENTITY escrowWarn.message2 "Kambe ntsariso wa wena wa khiya ra xihundla wu ta hlayisiwa eka mpfumelelo wa xitifiketi naswona wu nga tirhisiwa ku hlaya ntsariso wa imeyili kumbe tidokhumente ehandle ka mpfumelelo wa wena.">
+
+<!ENTITY serverCrlNextupdate.message "Kombela mulawuri wa sisiteme ya wena ku ku pfuna">
+<!-- Strings for the CreateCertInfo dialog  -->
+
+<!ENTITY createCertInfo.title "Ku jeneretiwa khiya ra xihundla">
+<!ENTITY createCertInfo.msg1 "Jenerexini ya nkoka yi ya emahlweni... Swi nga teka timinetenyana...">
+<!ENTITY createCertInfo.msg2 "Yimanyana...">
+<!-- Form Signing confirmation prompt -->
+
+<!ENTITY formSigning.title "Xikombelo xo sayina tsalwa">
+<!ENTITY formSigning.cert "Ku sayina xitifiketi">
+<!ENTITY formSigning.confirmPassword "Ku tiyisisa mpfumelelo wa wena wo sayina hungu ra tsalwa hi ku tirhisa xitifiketi lexi hlawuriweke, tiyisisa hi ku tirhisa phasiwedinkulu:">

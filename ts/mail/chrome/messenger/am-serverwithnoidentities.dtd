@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Malulamisele ya akhawunti">
+<!ENTITY accountSettingsDesc.label "Leyi landzelaka I akhawunti yo hlawuleka.  Ku hava swifaniso leswi yelanaka na yona.">
+<!ENTITY accountName.label "Akhawunti Vito:">
+<!ENTITY accountName.accesskey "V">
+<!ENTITY messageStorage.label "Vuhlayiselo bya Mahungu">
+<!ENTITY emptyTrashOnExit.label "Chulula xo khoma Huma">
+<!ENTITY emptyTrashOnExit.accesskey "h">
+<!ENTITY localPath.label "Buku ya mavito ya le kaya:">
+<!ENTITY localPath.accesskey "B">
+<!ENTITY localFolderPicker.label "Hlawula buku ya mavito ya le kaya">
+<!ENTITY browseFolder.label "Secha...">
+<!ENTITY browseFolder.accesskey "S">

@@ -1,0 +1,56 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Vika sayiti ra web leri tsemekeke">
+
+<!ENTITY privacyNotice.label "Pholisi ya Xihundla">
+<!ENTITY reportWizardPrivacy.description "Xitirhisiwa lexi xi ku pfumelela ku byela Xipano xa Vuvhangeli mayelana na masayiti ya web lama nga tirhiki kahle eka &brandShortName; kumbe pfala &brandShortName; humile. Leyi i ndlela ya wena ku hi pfuna ku kuma ntokoto wa kahle wa &brandShortName;. Tinyike nkarhi wa ku hlaya leswi landzelaka ku dyondza hilaha hi tirhisaka mahungu lama hi nga ma hlengeleta loko u lava ku va xiphemu xa kona.">
+<!ENTITY reportWizardMustAgree.description "Ku ya emahlweni u fanele u pfumelelana na pholisi ya xihundla leyi nga laha henhla.">
+
+<!ENTITY dontShowPrivacyStatement.label "Ndzi hlayile na ku amukela pholisi ya xihundla leyi ngalaha henhla.">
+<!ENTITY dontShowPrivacyStatement.accesskey "N">
+
+<!ENTITY reportForm.label "Tatisa Xiviko">
+
+<!ENTITY reportForm.description "Hi byelenyana hi xiphiqo lexi u hlanganeke na xona:">
+<!ENTITY reportForm.url.title "URL ya sayiti ra web:">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Web site is password-protected">
+<!ENTITY reportForm.behind_login.accesskey "P">
+
+<!ENTITY reportForm.problem_type.title "Problem Type:">
+<!ENTITY reportForm.problem_type.accesskey "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Hlawula xin'we...">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Xisechi a xi seketeriwangi">
+<!ENTITY reportForm.problem_type.item2.title "A ku logeki">
+<!ENTITY reportForm.problem_type.item3.title "Pulagini a yi kombisiwangi">
+<!ENTITY reportForm.problem_type.item4.title "Vundzheni byin'wana bya kayivela">
+<!ENTITY reportForm.problem_type.item5.title "Matikhomele ya hoxekile">
+<!ENTITY reportForm.problem_type.item6.title "Xivumbeko xi hoxekile">
+<!ENTITY reportForm.problem_type.item7.title "Xiphiqo xin'wana">
+
+<!ENTITY reportForm.describe.title "Describe Problem:">
+<!ENTITY reportForm.describe.accesskey "D">
+
+<!ENTITY reportForm.platform.title "Pulatifomo:">
+<!ENTITY reportForm.product.title "Phurodukti:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "Ejenti ya Mutirhisi:">
+<!ENTITY reportForm.language.title "Ririmi:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "Email (Optional):">
+<!ENTITY reportForm.email.accesskey "E">
+
+<!ENTITY reportForm.privacyPolicy.title "Pholisi ya Xihundla">
+<!ENTITY reportForm.privacyPolicy.tooltip "Languta Pholisi ya Xihundla">
+
+<!ENTITY reportResults.showDetail.title "Show Details">
+<!ENTITY reportResults.showDetail.accesskey "S">
+
+<!ENTITY sendReport.label "Ku rhumeriwa Xiviko">
+<!ENTITY sendReport.description "Ku rhumeriwa Xiviko eka sevha...">
+
+<!ENTITY finish.label "Xiviko xi rhumeriwile">

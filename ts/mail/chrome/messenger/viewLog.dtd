@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Filithara yo loga">
+<!ENTITY viewLogInfo.text "Tidokhumente ta filithara yo loga Tifilithara leti tirhisiweke eka akhawunti leyi. Tirhisa bokisi ro kambela leri nga laha hansi ku kota ku loga.">
+<!ENTITY clearLog.label "Basisa logo">
+<!ENTITY clearLog.accesskey "B">
+<!ENTITY enableLog.label "Pfumelela filithara ya logo">
+<!ENTITY enableLog.accesskey "P">
+<!ENTITY closeLog.label "Pfala">
+<!ENTITY closeLog.accesskey "p">

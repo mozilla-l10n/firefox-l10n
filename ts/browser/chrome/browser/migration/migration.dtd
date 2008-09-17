@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Wizadi yo rhumela">
+
+<!ENTITY importFrom.label "Minhlawulo yo rhumela, Timakara ta Tibuku, Matimu, Tiphasiwedi na datha yin'wana ku suka eka:">
+<!ENTITY importFromUnix.label "Minhlawulo yo rhumela, Timakara ta Tibuku, Matimu, Tiphasiwedi na datha yin'wana ku suka eka:">
+<!ENTITY importFromBookmarks.label "Rhumela timakara ta tibuku ku suka eka:">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird kumbe Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "U nga rhumeli nchumu">
+<!ENTITY importFromNothing.accesskey "U">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 kumbe Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iKhebe">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromFile.label "Ku suka eka fayili">
+<!ENTITY importFromFile.accesskey "K">
+
+<!ENTITY noMigrationSources.label "No programs that contain bookmarks, history or password data could be found.">
+
+<!ENTITY importSource.title "Import Settings and Data">
+<!ENTITY importItems.title "Tiayitheme leti faneleke ku rhumeriwa">
+<!ENTITY importItems.label "Hlawula tiayitheme leti faneleke ku rhumeriwa:">
+
+<!ENTITY migrating.title "Ku rhumela...">
+<!ENTITY migrating.label "Sweswi ku rhumeriwa tiayitheme leti landzelaka...">
+
+<!ENTITY selectProfile.title "Hlawula phurofayili">
+<!ENTITY selectProfile.label "Tiphurofayili leti landzelaka se ti kona ku rhumela ha tona:">
+
+<!ENTITY done.title "Swi herile ku rhumela">
+<!ENTITY done.label "Tiayitheme leti landzelaka ti rhumeriwile kahle:">
+

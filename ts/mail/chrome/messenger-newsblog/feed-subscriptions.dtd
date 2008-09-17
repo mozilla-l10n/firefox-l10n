@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Ntsariso wa RSS">
+<!ENTITY subscriptionDesc.label "Vona: Ku susa kumbe ku cinca folidara ku phemela swi nge khumbi tiatikili leti pangiweke eka nkarhi lowu nga hundza.">
+<!ENTITY feedTitle.label "Nhlokomhaka:">
+<!ENTITY location.label "Ndhawu:">
+
+<!ENTITY button.addFeed.label "Engetela">
+<!ENTITY button.addFeed.accesskey "E">
+<!ENTITY button.editFeed.label "Hlela">
+<!ENTITY button.editFeed.accesskey "H">
+<!ENTITY button.removeFeed.label "Susa">
+<!ENTITY button.removeFeed.accesskey "S">
+<!ENTITY button.importOPML.label "Amukela">
+<!ENTITY button.importOPML.accesskey "A">
+<!ENTITY button.exportOPML.label "Rhumela">
+<!ENTITY button.exportOPML.accesskey "R">
+
+<!ENTITY cmd.close.commandKey "w">

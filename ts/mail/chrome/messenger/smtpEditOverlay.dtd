@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Ndzulamiso">
+<!ENTITY security.caption "Nhlayiseko na Mpfumelelo">
+<!ENTITY serverName.label "Vito ra Sevha:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "Nhlamuselo:">
+<!ENTITY serverDescription.accesskey "N">
+<!ENTITY serverPort.label "Photo:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY alwaysUseUsername.label "Tirhisa vito na phasiwedi">
+<!ENTITY alwaysUseUsername.accesskey "T">
+<!ENTITY userName.label "Vito ra Mutirhisi:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY isSecure.label "Tirhisa nhlanganiso wo hlayiseka:">
+<!ENTITY neverSecure.label "E-e">
+<!ENTITY neverSecure.accesskey "E">
+<!ENTITY sometimesSecure.label "TLS, Loko yu ru kona">
+<!ENTITY sometimesSecure.accesskey "o">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "Sevha ya SMTP">
+<!ENTITY serverPortDefault.label "Xihoxo:">

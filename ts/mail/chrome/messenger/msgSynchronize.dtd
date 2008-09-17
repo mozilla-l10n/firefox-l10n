@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Panga no Sync mahungu">
+<!ENTITY MsgSelect.label "Tiayitheme to tirhisa ofolayini">
+<!ENTITY MsgSyncDesc.label "Loko se u hlawurile tifolidara ta mapapila kumbe mintlawa ya mahungu ku swi tirhisa ofolayini, u nga panga na/kumbe sync sweswi. Handle ka swona tirhisa &quot;Hlawula&quot; batheni yo hlawula tifolidara ta mapapila na mintlawa ya mahungu swo tirhisiwa ofolayini.">
+<!ENTITY MsgSyncDirections.label "Panga no/kumbe sync leswi landzelaka:">
+<!ENTITY syncTypeMail.label "Mahungu ya mapapila">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "Mahungu ya ntlawa wa mahungu">
+<!ENTITY syncTypeNews.accesskey "M">
+<!ENTITY sendMessage.label "Rhumela mahungu lama nga rhumeriwangiki">
+<!ENTITY sendMessage.accesskey "R">
+<!ENTITY workOffline.label "Tirha onolayini endzhaku kaloko ku panga no/kumbe sync swi herile">
+<!ENTITY workOffline.accesskey "T">
+<!ENTITY selectButton.label "Hlawula...">
+<!ENTITY selectButton.accesskey "H">
+<!ENTITY MsgSelectDesc.label "Hlawula tifolidara ta mapapila na mintlawa ya mahungu swo tirhisiwa ofolayini.">
+<!ENTITY MsgSelectInd.label "Panga">
+<!ENTITY MsgSelectItems.label "Tifolidara na Ntlawa wa mahungu">

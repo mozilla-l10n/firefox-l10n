@@ -1,0 +1,64 @@
+<!ENTITY fontsDialog.title "Tifonto">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "Tifonto ta:">
+<!ENTITY language.accesskey "t">
+
+<!ENTITY typefaces.label "Xifaniso xo Thayipa">
+<!ENTITY sizes.label "Sayizi (pixili)">
+
+<!ENTITY proportional.label "Mpimanyiso:">
+<!ENTITY proportional.accesskey "M">
+
+<!ENTITY serif.label "Xerifu:">
+<!ENTITY serif.accesskey "x">
+<!ENTITY sans-serif.label "Saan-xerifu:">
+<!ENTITY sans-serif.accesskey "s">
+<!ENTITY monospace.label "Ndhawu yin'we:">
+<!ENTITY monospace.accesskey "n">
+
+<!ENTITY fontsize.units "phixele">
+
+<!ENTITY font.langGroup.latin1 "Vupeladyambu">
+<!ENTITY font.langGroup.latin2 "Yuropo-xikarhi">
+<!ENTITY font.langGroup.japanese "Mujapani">
+<!ENTITY font.langGroup.trad-chinese "Muchayina wa ndhavuko (Thayiwani)">
+<!ENTITY font.langGroup.simpl-chinese "Muchayina wo olova">
+<!ENTITY font.langGroup.trad-chinese-hk "Muchayina wa ndhavuko (Hong Kong)">
+<!ENTITY font.langGroup.korean "Mukoriya">
+<!ENTITY font.langGroup.cyrillic "Siriliki">
+<!ENTITY font.langGroup.baltic "Balitiki">
+<!ENTITY font.langGroup.el "Mugiriki">
+<!ENTITY font.langGroup.turkish "Mutheki">
+<!ENTITY font.langGroup.unicode "Tin'wana tindzimi">
+<!ENTITY font.langGroup.user-def "Mutirhisi u hlamuseriwile">
+<!ENTITY font.langGroup.thai "Thayi">
+<!ENTITY font.langGroup.hebrew "Muheveru">
+<!ENTITY font.langGroup.arabic "Arabiki">
+<!ENTITY font.langGroup.devanagari "Devanagari">
+<!ENTITY font.langGroup.tamil "Tamil">
+<!ENTITY font.langGroup.armenian "Muarimeniya">
+<!ENTITY font.langGroup.bengali "Bengali">
+<!ENTITY font.langGroup.canadian "Silabari leyi hlanganisiweke ya Canada">
+<!ENTITY font.langGroup.ethiopic "Ethiopic">
+<!ENTITY font.langGroup.georgian "Xigeorgian">
+<!ENTITY font.langGroup.gujarati "Gujarati">
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
+<!ENTITY font.langGroup.khmer "Khmer">
+<!ENTITY font.langGroup.malayalam "Malayalam">
+<!-- Minimum font size -->
+
+<!ENTITY minSize.label "Sayizi ya mpimo wa le hansi wa fonto:">
+<!ENTITY minSize.accesskey "a">
+<!ENTITY minSize.none "Ku hava">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Xerifu">
+<!ENTITY useDefaultFontSansSerif.label "Sans Xerifu">
+
+<!ENTITY newLanguages.label "Tindzimi tin'wana ti nga kumeka hi ku tirhisa Phanele ya Ririmi.">
+
+<!ENTITY useDocumentFonts.label "Pfumelela mahungu ku tirhisa tifonto tin'wana">
+<!ENTITY useDocumentFonts.accesskey "p">

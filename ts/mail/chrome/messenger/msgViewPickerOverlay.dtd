@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY viewPicker.label "Languta:">
+<!ENTITY viewPicker.accesskey "l">
+<!ENTITY viewPickerCustomView.label "Khasitamayiza...">
+<!ENTITY viewPickerAll.label "Hinkwaswo">
+<!ENTITY viewPickerUnread.label "A swi hlayiwangi">

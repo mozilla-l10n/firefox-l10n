@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Malulamisele ya Sevha (SMTP) leyi Humaka">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "Hambileswi u nga kongomisaka ku tlula yin'we ya tisevha leti humaka (SMTP), leswi swi bumabumeriwa vatirhisi va xiyimo xa le henhla. Ku lulamisatisevha-nyingi ta SMTP swi nga vanga swihoxo loko.">
+
+<!ENTITY smtpListAdd.label "Engetela...">
+<!ENTITY smtpListAdd.accesskey "e">
+<!ENTITY smtpListEdit.label "Hlela...">
+<!ENTITY smtpListEdit.accesskey "H">
+<!ENTITY smtpListDelete.label "Susa">
+<!ENTITY smtpListDelete.accesskey "s">
+<!ENTITY smtpListSetDefault.label "Swihoxo swa malulamisele">
+<!ENTITY smtpListSetDefault.accesskey "s">
+
+<!ENTITY serverDescription.label "Nhlamuselo: ">
+<!ENTITY serverName.label "Vito ra Sevha: ">
+<!ENTITY serverPort.label "Porto: ">
+<!ENTITY userName.label "Vito ra mutirhisi: ">
+<!ENTITY useSecureConnection.label "Vuhlanganisi bya vuhlayiseki: ">

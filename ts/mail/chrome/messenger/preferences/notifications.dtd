@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title "Mpfumawulo wuntshwa wa mapapila">
+<!ENTITY window.width "30em">
+
+<!ENTITY soundNotification.caption "Lulamisa mpfumawulo wa mapapila mantshwa">
+<!ENTITY preview.label "Languta Mpfumawulo">
+<!ENTITY preview.accesskey "l">
+<!ENTITY systemsound.label "Kuma sissiteme ya mpfumawulo wa mapapila mantshwa">
+<!ENTITY systemsoundMac.label "Mpfumawulo wo ku tsundzuxa hi sisisteme">
+<!ENTITY systemsound.accesskey "k">
+<!ENTITY customsound.label "Khasimende fayili ya .wav">
+<!ENTITY customsound.accesskey "K">
+<!ENTITY browse.label "Secha...">
+<!ENTITY browse.accesskey "S">

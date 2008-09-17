@@ -1,0 +1,49 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Hunguta">
+<!ENTITY bringAllToFront.label "Tisa hinkwaswo emahlweni">
+<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY windowMenu.label "Lifasitera">
+
+<!ENTITY helpMenu.label "Pfuna">
+<!ENTITY helpMenu.accesskey "P">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Pfuna">
+<!ENTITY helpMenuWin.accesskey "P">
+<!ENTITY aboutCmd.label "Na &brandFullName;">
+<!ENTITY aboutCmd.accesskey "N">
+<!ENTITY helpContents.label "Vundzheni bya Swopfuna">
+<!ENTITY helpContents.accesskey "V">
+<!ENTITY helpContentsMac.label "&brandShortName; Pfuna">
+<!ENTITY helpForIEUsers.label "Swa Vatirhisi va Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "V">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.commandkey "VK_HELP">
+<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac2.commandkey "/">
+<!ENTITY openHelpMac2.modifiers "accel,shift">
+<!ENTITY openHelpMac2.frontendCommandkey "?">
+<!ENTITY openHelpMac2.frontendModifiers "engetela">
+
+<!ENTITY helpReleaseNotes.label "Humesa Tinotsi">
+<!ENTITY helpReleaseNotes.accesskey "T">
+<!ENTITY updateCmd.label "Xiya Leswintshwa...">
+<!ENTITY updateCmd.accesskey "l">
+
+<!ENTITY preferencesCmdMac.label "Preferences...">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "engetela">
+
+<!ENTITY servicesMenuMac.label "Services">
+
+<!ENTITY hideThisAppCmdMac.label "Hide &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "engetela">
+
+<!ENTITY hideOtherAppsCmdMac.label "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label "Show All">

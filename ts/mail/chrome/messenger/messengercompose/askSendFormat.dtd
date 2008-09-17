@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML Xivutiso xa Mapapila">
+
+<!ENTITY recipient.label "Van'wana va vaamukeri a va longoloxiwangi ku kuma mapapila ya HTML.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Hungu ra wena ri nga cinciwa ri va tsalwa leri nga tsariwangiki nchumu ehandle ka ku lahlekeriwa hi mahungu.">
+<!ENTITY convertibleAltering.label "Hungu ra wena ri nga cinciwa ri va tsalwa leri nga tsariwangiki nchumu ehandle ka ku lahlekeriwa hi mahungu ya nkoka. Kambe vhexini ya tsalwa leri nga hava nchumu yi nga hambana na leswi u nga swi vona eka khomphozara.">
+<!ENTITY convertibleNo.label "Kambe, u tirhisile ku fometa (xik. mihlovo) leyi nga yi ki eka tsalwa ro pfumala nchumu.">
+
+<!ENTITY question.label "U lava ku cinca hungu ri va tsalwa ro pfumala nchumu kumbe u ri rhumela hi HTML?">
+
+<!ENTITY plainTextAndHtml.label "Rhumela hi Tsalwa ro pfumala nchumu na HTML Ntsena">
+<!ENTITY plainTextOnly.label "Rhumela hi Tsalwa ro pfumala nchumu ntsena">
+<!ENTITY htmlOnly.label "Rhumela hi HTML Ntsena">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Rhumela hi Tsalwa ro pfumala nchumu na HTML Ntsena (bumabumeriwile)">
+<!ENTITY plainTextOnlyRecommended.label "Rhumela hi Tsalwa ro pfumala nchumu Ntsena (bumabumeriwile)">
+<!ENTITY htmlOnlyRecommended.label "Rhumela hi HTML Ntsena (bumabumeriwile)">
+<!ENTITY recommended.label "(bumabumeriwile)">
+
+<!ENTITY send.label "Rhumela">
+<!ENTITY cancel.label "Khansela">
+<!ENTITY recipients.label "Vaamukeri...">
+<!ENTITY help.label "Pfuna">

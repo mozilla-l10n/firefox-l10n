@@ -1,0 +1,37 @@
+<!-- extracted from content/pref-composer.xul -->
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+
+
+<!ENTITY pref.composer.title "Composer">
+
+<!ENTITY saving "Hlayisa">
+<!ENTITY AutoSaveCheck "Hlayisa hi othomethiki nchumu wun'wana na wun'wana">
+<!ENTITY minText "timinete">
+
+<!ENTITY exterLegend.label "Vahleri va le handle">
+<!ENTITY htmlSource "Masungulo ya HTML:">
+<!ENTITY imageeditor "Swifaniso:">
+<!ENTITY chooseButton.label "Hlawula">
+
+<!ENTITY recentFiles.title "Menyu ya sweswi ya mapheji">
+<!ENTITY documentsInMenu.label "Makiximamu ya mapheji lama longoloxiweke:">
+<!ENTITY documentsInMenu.accesskey "m">
+
+<!ENTITY savingFiles.title "Loko u hlayisa kumbe ku kandziyisa mapheji">
+<!ENTITY preserveExisting.label "Hlayisa xivumbeko xa masungulo">
+<!ENTITY preserveExisting.accesskey "H">
+<!ENTITY preserveExisting.tooltip "Hlayisa ku tsema mintila na xivumbeko xa masungulo xa pheji">
+<!ENTITY saveAssociatedFiles.label "Hlayisa swifaniso na tifayili tin'wana ti yelanaka loko u hlayisa mapheji">
+<!ENTITY saveAssociatedFiles.accesskey "H">
+<!ENTITY showPublishDialog.label "Minkarhi hinkwayo kombisa dayiloko ya Nkandziyiso loko u kandziyisa mapheji">
+<!ENTITY showPublishDialog.accesskey "M">
+
+<!ENTITY composerEditing.label "Hlela">
+<!ENTITY maintainStructure.label "Hlayisa xivumbeko xa tafula loko u nghenisa kumbe ku sula tisele">
+<!ENTITY maintainStructure.tooltip "Hlayisa xivumbeko xa rhekithengula xa tafula hi ku engetela tisele hi othomethiki endzhaku ka ku nghenisa kumbe ku sula tisele">
+<!ENTITY maintainStructure.accesskey "H">
+<!ENTITY useCSS.label "Tirhisa switayili swa CSS ku ri na tielemente na swihlawulekisi swa HTML">
+<!ENTITY useCSS.accesskey "T">
+<!ENTITY crInPCreatesNewP.label "Ku thlelela hi pharagirafu minkarhi hinkwayo swi tumbuluxa pharagirafu yintshwa">
+<!ENTITY crInPCreatesNewP.accesskey "K">

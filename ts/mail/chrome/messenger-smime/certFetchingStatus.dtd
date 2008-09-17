@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Switifiketi swa ku pangela">
+<!ENTITY info.message "Ku secha buku ya mavito ku lava switifiketi swa vaamukeri. Leswi swi nga teka timinetenyana.">
+<!ENTITY stop.label "Yima ku secha">

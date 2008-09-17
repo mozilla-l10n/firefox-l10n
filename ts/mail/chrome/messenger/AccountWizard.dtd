@@ -1,0 +1,122 @@
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "Wizati ya Akhawunti">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!-- Entities for Account Type page -->
+
+
+<!ENTITY accountSetupInfo.label "Ku kota ku kuma mahungu, u fanele u lulamisa akhawunti ya Mapapila kumbe Ntlawa wa Mahungu.">
+<!ENTITY accountTypeTitle.label "Malulamisele ya akhawunti yintshwa">
+<!ENTITY accountTypeDesc.label "Wizati yi ta hlengeleta mahungu lama faneleke ku lulamisa imayili kumbe Ntlawa wa akhawunti ya mahungu loko u nga tivi mahungu lama lavekaka, tihlanganise ni Mufambisi wa Systeme kumbe Vanyiki Va Vukorhokeri bya Internrte.">
+<!ENTITY accountTypeDirections.label "Hlawula muxaka wa akhawunti leyi u lavaka ku yi lulamisa:">
+<!ENTITY accountTypeMail.label "Akhawunti ya Imeyili">
+<!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeNews.label "Akhawunti ya Ntlawa wa Mahungu">
+<!ENTITY accountTypeNews.accesskey "w">
+<!-- Entities for Identity page -->
+
+
+<!ENTITY identityTitle.label "Vutitivisi">
+<!ENTITY identityDesc.label "Akhawunti yin'wana na yin'wana yi na vutitivisi, lawa ya nga mahungu lama ku tivisaka eka van'wana vaamukeri va mahungu ya wena.">
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
+<!ENTITY fullnameDesc.label "Tsala vito leri u lavaka ri va eka &quot;Ku suka eka&quot; Rivala ra mahungu ya wena lama fambaka">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+	1, do not translate two of "&quot;"
+	2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(xikombiso, &quot;Mangalani Hlungwane&quot;).">
+<!ENTITY fullnameLabel.label "Vito ra wena:">
+<!ENTITY fullnameLabel.accesskey "V">
+
+<!ENTITY emailLabel.label "Adirese ya Imeyili:">
+<!ENTITY emailLabel.accesskey "A">
+<!ENTITY emailDesc.label "Tsala adirese ya wena ya imeyili; leyi i adirese leyi van'wana va nga ta ku rhumela imeyili ha yona">
+<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
+<!ENTITY emailExample.label "(xikombiso: user@example.net).">
+<!-- Entities for Server page -->
+
+
+<!ENTITY serverTitle.label "Mahungu ya Sevha">
+<!ENTITY incomingServerTitle.label "Sevha leyi nghenaka">
+<!ENTITY incomingServerTypeDesc.label "Hlawula muxaka wa sevha leyi nghenaka leyi u yi tirhisaka.">
+<!ENTITY incomingServerTypeLabel.label "Muxaka wa Sevha:">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "Tsala vito ra sevha ya wena yo amukela (xikombiso, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServerLabel.label "Sevha leyi nghenaka:">
+<!ENTITY incomingServerLabel.accesskey "L">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Tsala vito ra sevha ya wena ya mahungu (NNTP) (xikombiso, &quot;news.example.net.quot;.)">
+<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
+<!ENTITY smtpServerTitle.label "Sevha leyi humaka(SMTP)">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "Tsala vito ra sevha ya wena leyi humaka (SMTP) (xikombiso, &quot;smtp.example net.quot;).">
+<!ENTITY smtpServerLabel.label "Sevha leyi humaka:">
+<!ENTITY smtpServerLabel.accesskey "S">
+<!ENTITY newsServerLabel.label "Sevha ya Ntlawa wa mahungu:">
+<!ENTITY newsServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Sevha ya mahungu">
+<!-- for when the user has an SMTP server pre-configured -->
+<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
+     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
+	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+-->
+
+<!ENTITY haveSmtp1.prefix "Sevha leyi humaka ya sweswi (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;, yi ta tirhisiwa. U nga lulamisa sevha leyi humaka hi ku hlawula Ndhawu ya Akhawunti eka Menyu ya Switirhisiwa.">
+<!-- Entities for Login page -->
+
+
+<!ENTITY loginTitle.label "Mavito ya vatirhisi">
+<!ENTITY usernameDesc.label "Tsala vito ro nghena ra mutirhisi leri u nyikiweke rona hi vini va sevhisi ">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(xikombiso, &quot;jsmith&quot;).">
+<!ENTITY usernameLabel.label "Vito ro nghena ra mutirhisi:">
+<!ENTITY usernameLabel.accesskey "V">
+<!ENTITY usernameSmtpDesc.label "Tsala vito ro huma ra mutirhisi leri u nyikiweke hi vini va sevhisi (leri ri fana ni leri u ri tirhiselaka ku nghena).">
+<!ENTITY usernameSmtpLabel.label "Tsala vito ro huma ra mutirhisi:">
+<!ENTITY usernameSmtpLabel.accesskey "T">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Vito ra wena ra mutirhisi (SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;, yi ta tirhisiwa. U nga lulamisa sevha yo huma hi ku hlawula Malulamisele ya Akhawunti eka.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "Sevha ya wena yo huma (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix "&quot;, yi fana na sevha ya wena yo nghena, vito ra wena ra mutirhisi ro nghena ri ta tirhisiwa. U nga lulamisa sevha leyi humaka hi ku hlawula Akhawunti ni menu yamathulusi.">
+<!-- Entities for Account name page -->
+
+
+<!ENTITY accnameTitle.label "Vito ra Akhawunti">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Tsala vito leri u ri rhandzaka ku vitana akhawunti leyi (xikombiso, &quot;Akhawunti ya Ntirho&quot;, &quot;Akhawunti ya le Ekaya&quot; &quot;Akhawuti Yintshwa&quot;).">
+<!ENTITY accnameExample.label "Xikombiso, Akhawunti ya Ntirho, Akhawunti ya le kaya kumbe Akhawunti Yintshwa">
+<!ENTITY accnameLabel.label "Vito ra Akhawunti:">
+<!ENTITY accnameLabel.accesskey "V">
+<!-- Entities for Done (Congratulations) page -->
+
+
+<!ENTITY completionTitle.label "Ha Hoyozela!">
+<!ENTITY completionText.label "Xiya loko mahungu lama nga laha hansi ya lulamile.">
+<!ENTITY serverTypePrefix.label "Muxaka wa Sevha yo nghena:">
+<!ENTITY serverNamePrefix.label "Vito ra Sevha yo nghena:">
+<!ENTITY smtpServerNamePrefix.label "Vito ra Sevha yo huma (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Vito ra Sevha ya Mahungu (NNTP):">
+<!ENTITY downloadOnLogin.label "Panga mahungu sweswi">
+<!ENTITY deferStorageDesc.label "Pfula bokisi leri ku hlayisa mapapila ya akhawunti leyi eka buku ya mavito. Leswi swi ta endla leswaku akhawunti leyi yi va ya xiyimo xa le henhla. Loko swi nga ri tano yi ta va xiphemu xa akhawunti ta Tifolidara ta Gilobali ta le Kaya.">
+<!ENTITY deferStorage.label "Tirhisa bokisi ro amukela ra dlilobali (Veka mapapila eka Tifolidara ta le kaya)">
+<!ENTITY clickFinish.label "Tshikelela Hetile ku hlayisa leswi kutani u huma eka Wizadi ya Akhawunti.">

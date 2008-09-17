@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Nhlayiseko">
+<!ENTITY securityMenu.accesskey "s">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Tsarisa loko swi koteka">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "K">
+
+<!ENTITY menu_securityEncryptRequire.label "Tsarisa hungu leri">
+<!ENTITY menu_securityEncryptRequire.accesskey "T">
+
+<!ENTITY menu_securityNoEncryption.label "U nga tsarisi hungu leri">
+<!ENTITY menu_securityNoEncryption.accesskey "N">
+
+<!ENTITY menu_securitySign.label "Sayina hungu leri digithali">
+<!ENTITY menu_securitySign.accesskey "S">
+
+<!ENTITY menu_securityStatus.label "Languta mahungu ya nhlayiseko">
+<!ENTITY menu_securityStatus.accesskey "I">
+
+<!ENTITY securityButton.label "Nhlayiseko">
+<!ENTITY securityButton.tooltip "Languta kumbe cinca ndzulamiso wa nhlayiseko">
+
+<!ENTITY menu_viewSecurityStatus.label "Mahungu ya nhlayiseko wa hungu">
+<!ENTITY menu_viewSecurityStatus.accesskey "H">

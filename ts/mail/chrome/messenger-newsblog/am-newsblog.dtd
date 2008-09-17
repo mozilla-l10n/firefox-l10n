@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "Malulamisele ya Akhawunti ya RSS">
+
+<!ENTITY biffStart.label "Lava tiatikili tintshwa ">
+<!ENTITY biffStart.accesskey "l">
+<!ENTITY biffEnd.label "timinete">
+
+<!ENTITY loginAtStartup.label "Lava tiatikili tintshwa eku sunguleni">
+<!ENTITY loginAtStartup.accesskey "L">
+
+<!ENTITY useQuickMode.label "Ku nga ri hi xikongomelo, nyika nkomiso wa tiatikili ku ri na ku panga pheji ra web">
+<!ENTITY useQuickMode.accesskey "K">
+
+<!ENTITY manageSubscriptions.label "Lawula vutitsarisi...">
+<!ENTITY manageSubscriptions.accesskey "L">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "News &amp; Blogs">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "RSS News &amp; Blogs">
+<!ENTITY rss.hostName "News &amp; Blogs">

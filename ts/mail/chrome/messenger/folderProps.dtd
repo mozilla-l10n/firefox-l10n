@@ -1,0 +1,98 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label "Xigotso">
+
+<!ENTITY generalInfo.label "Vutivi vatitivisi">
+<!ENTITY folderCharsetTab.label "Kharekta yadeault ya-enkhoda:">
+<!ENTITY folderCharsetTab.accesskey "E">
+<!ENTITY folderCharsetOverride.label "Tsala difolthi ka maka leyi laka folda (xitsarho xa muhnu xitsariwe axingetekiwi)">
+<!ENTITY folderCharsetOverride.accesskey "T">
+<!ENTITY folderRebuildSummaryFile.label "Rebuild Index">
+<!ENTITY folderRebuildSummaryFile.accesskey "R">
+<!ENTITY folderRebuildSummaryFileTip.label "Rebuild Summary File">
+
+
+<!ENTITY retention.label "Policy ya retention">
+<!ENTITY retentionUseDefault.label "Tirisa seva yadefoltha">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY days.label "siku">
+<!ENTITY daysOld.label "masiku akhale">
+<!ENTITY message.label "mahungu">
+<!ENTITY retentionCleanup.label "Ku kuma ndhawu ya disiki, mahungu ya khale ya nga suleriwa makumu">
+<!ENTITY retentionKeepMsg.label "Sula mahungu yo tlula">
+<!ENTITY retentionKeepMsg.accesskey "s">
+<!ENTITY retentionKeepAll.label "U nga suli mahungu">
+<!ENTITY retentionKeepAll.accesskey "U">
+<!ENTITY retentionKeepNew.label "Sula hinkwawo handle ka ro hetelela">
+<!ENTITY retentionKeepNew.accesskey "u">
+<!ENTITY retentionKeepUnread.label "Minkarhi hinkwayo sula mahungu lama nga hlayiwa">
+<!ENTITY retentionKeepUnread.accesskey "m">
+
+<!ENTITY folderOfflineTab.label "Ofolayini">
+<!ENTITY folderCheckForNewMessages.label "Xiya folidara leyi ku kuma mahungu mantshwa">
+<!ENTITY folderCheckForNewMessages.accesskey "X">
+
+<!ENTITY offlineFolder.check.label "Hlawula folidara leyi ku yi tirhisa ofolayini">
+<!ENTITY offlineFolder.check.accesskey "H">
+<!ENTITY offlineFolder.button.label "Panga sweswi">
+<!ENTITY offlineFolder.button.accesskey "P">
+
+<!ENTITY selectofflineNewsgroup.check.label "Hlawula ntlawa wa mahungu ku wu tirhisa ofolayini">
+<!ENTITY selectofflineNewsgroup.check.accesskey "l">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Tirhisa xihoxo xa ndzulamiso wa akhawunti ">
+<!ENTITY offlineNewsgroup.button.label "Panga sweswi">
+<!ENTITY offlineNewsgroup.button.accesskey "P">
+
+<!ENTITY folderProps.information.label "Mahungu:">
+<!ENTITY folderProps.name.label "Vito:">
+<!ENTITY folderProps.name.accesskey "V">
+
+<!ENTITY folderSharingTab.label "Ku avelana">
+<!ENTITY privilegesDesc.label "Avelana folidara leyi ni tin'wana na vatirhisi va netiweke no kombisa na ku veka timfanelo to tirhisa">
+<!ENTITY privileges.button.label "Timfanelo...">
+<!ENTITY privileges.button.accesskey "T">
+<!ENTITY permissionsDesc.label "U na mimpfumelelo leyi landzelaka:">
+<!ENTITY folderType.label "Muxaka wa folidara:">
+
+<!ENTITY folderQuotaTab.label "Khota">
+<!ENTITY folderQuotaRoot.label "Rimitsu ra Khota:">
+<!ENTITY folderQuotaUsage.label "Matirhiselo:">
+<!ENTITY folderQuotaStatus.label "Xiyimo:">

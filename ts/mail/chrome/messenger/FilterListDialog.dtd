@@ -1,0 +1,29 @@
+<!ENTITY window.title "Tifilithara ta mahungu">
+<!ENTITY nameColumn.label "Vito ra filithara">
+<!ENTITY activeColumn.label "Swi tsandzile">
+<!ENTITY newButton.label "Yintshwa...">
+<!ENTITY newButton.accesskey "Y">
+<!ENTITY editButton.label "Hlela...">
+<!ENTITY editButton.accesskey "H">
+<!ENTITY deleteButton.label "Sula">
+<!ENTITY deleteButton.accesskey "s">
+<!ENTITY reorderUpButton.label "Yisa ehenhla">
+<!ENTITY reorderUpButton.accesskey "Y">
+<!ENTITY reorderDownButton.label "Yisa ehansi">
+<!ENTITY reorderDownButton.accesskey "Y">
+<!ENTITY filterHeader.label "Tifilithara leti nga tirhiki ti rhumeriwa hi othomethiki hi ndlela leyi kombisiweke laha hansi.">
+<!ENTITY filtersForPrefix.label "Tifilithara ta:">
+<!ENTITY filtersForPrefix.accesskey "T">
+<!ENTITY viewLogButton.label "Ku loga filithara">
+<!ENTITY viewLogButton.accesskey "K">
+<!ENTITY runFilters.label "Tirhisa sweswi">
+<!ENTITY runFilters.accesskey "T">
+<!ENTITY stopFilters.label "Yima">
+<!ENTITY stopFilters.accesskey "Y">
+<!ENTITY folderPickerPrefix.label "Tirhisa tifilithara leti hlawuriweke:">
+<!ENTITY folderPickerPrefix.accesskey "t">
+<!ENTITY choosethis.label "hlawula folidara leyi">
+<!ENTITY choosethisnewsserver.label "hlawula sevha leyi ya mahungu">
+<!ENTITY helpButton.label "Pfuna">
+<!ENTITY helpButton.accesskey "P">
+<!ENTITY closeCmd.key "W">
