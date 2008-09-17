@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Presi">
+
+<!ENTITY printDialog.title "Presi">
+
+<!ENTITY fpDialog.title "Konservi dosieron">
+
+<!ENTITY fileCheck.label "Presi sur dosiero">
+<!ENTITY propertiesButton.label "Atributoj…">
+<!ENTITY descText.label "Priskribo de presilo:">
+<!ENTITY printer.label "Presilo">
+<!ENTITY printerInput.label "Nomo de presilo:">
+
+<!ENTITY printrangeGroup.label "Presa amplekso">
+<!ENTITY allpagesRadio.label "Ĉiuj paĝoj">
+<!ENTITY rangeRadio.label "Paĝoj">
+<!ENTITY frompageInput.label "ekde">
+<!ENTITY topageInput.label "ĝis">
+<!ENTITY selectionRadio.label "Elektaĵo">
+
+<!ENTITY copies.label "Kopioj">
+<!ENTITY numCopies.label "Kvanto da kopioj:">
+
+<!ENTITY printframeGroup.label "Presi kadrojn">
+<!ENTITY aslaidoutRadio.label "Kiel videblas sur la ekrano">
+<!ENTITY selectedframeRadio.label "La elektita kadro">
+<!ENTITY eachframesepRadio.label "Ĉiu kadro aparte">

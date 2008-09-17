@@ -1,0 +1,122 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY pageInfoWindow.width "600">
+<!ENTITY pageInfoWindow.height "500">
+
+<!ENTITY copy.key "K">
+<!ENTITY copy.label "Kopii">
+<!ENTITY copy.accesskey "K">
+<!ENTITY selectall.key "A">
+<!ENTITY selectall.label "Elekti ĉion">
+<!ENTITY selectall.accesskey "I">
+<!ENTITY closeWindow.key "w">
+
+<!ENTITY generalTab "Ĝenerala">
+<!ENTITY generalTab.accesskey "G">
+<!ENTITY generalURL "Adreso:">
+<!ENTITY generalType "Tipo:">
+<!ENTITY generalMode "Reĝimo de elmontrado:">
+<!ENTITY generalSize "Grando:">
+<!ENTITY generalReferrer "Referencanta URL:">
+<!ENTITY generalSource "Fonto en staplo:">
+<!ENTITY generalModified "Modifita:">
+<!ENTITY generalEncoding "Enkodigo:">
+<!ENTITY generalMetaName "Nomo">
+<!ENTITY generalMetaContent "Enhavo">
+<!ENTITY generalSecurityMore "Pli">
+<!ENTITY generalSecurityMore.accesskey "o">
+
+<!ENTITY mediaTab "Komunikrimedoj">
+<!ENTITY mediaTab.accesskey "M">
+<!ENTITY mediaLocation "Retadreso:">
+<!ENTITY mediaText "Teksto asociita:">
+<!ENTITY mediaAltHeader "Alternativa teksto">
+<!ENTITY mediaAddress "Adreso">
+<!ENTITY mediaType "Tipo">
+<!ENTITY mediaSize "Grando">
+<!ENTITY mediaCount "Nombro">
+<!ENTITY mediaDimension "Dimensioj:">
+<!ENTITY mediaLongdesc "Longa priskribo:">
+<!ENTITY mediaBlockImage.accesskey "B">
+<!ENTITY mediaSaveAs "Konservi kiel…">
+<!ENTITY mediaSaveAs.accesskey "A">
+<!ENTITY mediaSaveAs2.accesskey "e">
+<!ENTITY mediaPreview "Antaŭvidi komunikrimedon:">
+
+<!ENTITY feedTab "Informfontoj">
+<!ENTITY feedTab.accesskey "M">
+<!ENTITY feedSubscribe "Aboni">
+<!ENTITY feedSubscribe.accesskey "u">
+
+<!ENTITY permTab "Permesoj">
+<!ENTITY permTab.accesskey "P">
+<!ENTITY permUseDefault "Uzi ĉefan">
+<!ENTITY permAllow "Permesi">
+<!ENTITY permAllowSession "Permesi dum la seanco">
+<!ENTITY permBlock "Bloki">
+<!ENTITY permissionsFor "Permesoj por:">
+<!ENTITY permImage "Ŝargi bildojn">
+<!ENTITY permPopup "Malfermi ŝprucfenestrojn">
+<!ENTITY permCookie "Difini kuketojn">
+<!ENTITY permInstall "Instali etendoprogramojn aŭ temojn">
+
+<!ENTITY securityTab "Sekureco">
+<!ENTITY securityTab.accesskey "S">
+<!ENTITY securityHeader "Sekureca informo de tiu ĉi paĝo">
+<!ENTITY securityView.certView "Vidi atestilon">
+<!ENTITY securityView.accesskey "V">
+<!ENTITY securityView.unknown "Nekonata">
+
+
+<!ENTITY securityView.identity.header "Identeco de retejo">
+<!ENTITY securityView.identity.owner "Posedanto:">
+<!ENTITY securityView.identity.domain "Retejo:">
+<!ENTITY securityView.identity.verifier "Kontrolita de:">
+
+<!ENTITY securityView.privacy.header "Privateco kaj historio">
+<!ENTITY securityView.privacy.history "Ĉu mi vizitis tiun retejon antaŭ ol hodiaŭ?">
+<!ENTITY securityView.privacy.cookies "Ĉu tiu ĉi retejo konservas datumon (kuketojn) en mia komputilo?">
+<!ENTITY securityView.privacy.viewCookies "Vidi kuketojn">
+<!ENTITY securityView.privacy.viewCookies.accessKey "k">
+<!ENTITY securityView.privacy.passwords "Ĉu mi konservis pasvortojn por tiu ĉi retejo?">
+<!ENTITY securityView.privacy.viewPasswords "Vidi konservitajn pasvortojn">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "w">
+
+<!ENTITY securityView.technical.header "Teĥnikaj detaloj">

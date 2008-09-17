@@ -1,0 +1,28 @@
+<!ENTITY find.label "Serĉi:">
+<!ENTITY find.accesskey "S">
+<!ENTITY expand.label "Malfaldi">
+<!ENTITY expand.accesskey "M">
+<!ENTITY collapse.label "Faldi">
+<!ENTITY collapse.accesskey "F">
+<!ENTITY byDate.label "Laŭ dato">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Laŭ retejo">
+<!ENTITY bySite.accesskey "R">
+<!ENTITY view.label "Vidi">
+<!ENTITY view.accesskey "i">
+<!ENTITY byMostVisited.label "Laŭ vizitoj">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "Laŭ dato de vizito">
+<!ENTITY byLastVisited.accesskey "V">
+<!ENTITY byDayAndSite.label "Laŭ dato kaj retejo">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "Malfermi">
+<!ENTITY openLinkInWindow.accesskey "M">
+<!ENTITY openInNewTab.label "Malfermi en nova folio">
+<!ENTITY openInNewTab.accesskey "F">
+<!ENTITY openInNewWindow.label "Malfermi en nova fenestro">
+<!ENTITY openInNewWindow.accesskey "F">
+<!ENTITY bookmarkLink.label "Aldoni paĝosignon por tiu ĉi ligilo…">
+<!ENTITY bookmarkLink.accesskey "A">
+<!ENTITY copyLink.label "Kopii adreson de ligilo">
+<!ENTITY copyLink.accesskey "K">

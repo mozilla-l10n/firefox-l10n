@@ -1,0 +1,9 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "Programara Instalado">
+<!ENTITY dialog.style "width: 45em">
+<!ENTITY warningMain.label "Nur instali kromprogramojn de aŭtoroj je kiuj vi fidas.">
+<!ENTITY warningSecondary.label "Fia programaro povas difekti vian komputilon aŭ elmeti vian privatecon.">
+
+<!ENTITY from.label "de:">
+

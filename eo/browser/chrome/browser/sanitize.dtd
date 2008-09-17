@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "Forviŝi privatajn datumojn">
+
+<!ENTITY sanitizeItems.label "Forviŝi nun la jenajn elementojn:">
+<!ENTITY clearDataSettings.label "Kiam mi petas al &brandShortName; forviŝi miajn privatajn datumojn la jenaj datumoj devus esti forviŝitaj:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "Registro de vizititaj paĝoj">
+<!ENTITY itemHistory.accesskey "R">
+<!ENTITY itemFormSearchHistory.label "Konservita formulara kaj serĉila historio">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemPasswords.label "Konservitaj pasvortoj">
+<!ENTITY itemPasswords.accesskey "P">
+<!ENTITY itemCookies.label "Kuketoj">
+<!ENTITY itemCookies.accesskey "K">
+<!ENTITY itemCache.label "Staplo">
+<!ENTITY itemCache.accesskey "t">
+<!ENTITY itemOfflineApps.label "Datumoj de retejo por malkonektita uzado">
+<!ENTITY itemOfflineApps.accesskey "D">
+<!ENTITY itemDownloads.label "Elŝutada historio">
+<!ENTITY itemDownloads.accesskey "E">
+<!ENTITY itemSessions.label "Aŭtentigitaj seancoj">
+<!ENTITY itemSessions.accesskey "S">
+<!ENTITY window.width "30em">

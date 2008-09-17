@@ -1,0 +1,55 @@
+<!ENTITY history.label "Historio">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "Konservi mian historion dum almenaŭ">
+<!ENTITY rememberDaysBefore.accesskey "h">
+<!ENTITY rememberDaysAfter2.label "tagoj">
+
+<!ENTITY rememberForms.label "Memori kion mi tajpas en formularoj kaj en la serĉada strio">
+<!ENTITY rememberForms.accesskey "f">
+
+<!ENTITY rememberDownloads.label "Memori kion mi elŝutis">
+<!ENTITY rememberDownloads.accesskey "e">
+
+
+<!ENTITY cookies.label "Kuketoj">
+
+<!ENTITY acceptCookies.label "Akcepti kuketojn el retejoj">
+<!ENTITY acceptCookies.accesskey "e">
+
+<!ENTITY acceptThirdParty.label "Akcepti nerektajn kuketojn">
+<!ENTITY acceptThirdParty.accesskey "e">
+
+<!ENTITY keepUntil.label "Konservi ĝis:">
+<!ENTITY keepUntil.accesskey "K">
+
+<!ENTITY expire.label "ili senvalidiĝas">
+<!ENTITY close.label "mi finas &brandShortName;">
+<!ENTITY askEachTime.label "demandi al mi ĉiun fojon">
+
+<!ENTITY cookieExceptions.label "Esceptoj…">
+<!ENTITY cookieExceptions.accesskey "E">
+
+<!ENTITY showCookies.label "Montri kuketojn…">
+<!ENTITY showCookies.accesskey "M">
+
+
+<!ENTITY privateData.label "Privataj datumoj">
+
+<!ENTITY alwaysClear.label "Ĉiam forviŝi miajn privatajn datumojn kiam mi finas &brandShortName;">
+<!ENTITY alwaysClear.accesskey "p">
+
+<!ENTITY askBeforeClear.label "Demandi al mi antaŭ ol forviŝi privatajn datumojn">
+<!ENTITY askBeforeClear.accesskey "D">
+
+<!ENTITY clearDataSettings.label "Agordoj…">
+<!ENTITY clearDataSettings.accesskey "g">
+
+<!ENTITY clearDataNow.label "Forviŝi nun…">
+<!ENTITY clearDataNow.label2 "Forviŝi nun">
+<!ENTITY clearDataNow.accesskey "F">

@@ -1,0 +1,146 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Okazis problemo dum ŝargado de la paĝo">
+<!ENTITY retry.label "Klopodi denove">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Ne eblas konektiĝi">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Aliro al tiu ĉi adreso estas limigata">
+<!ENTITY deniedPortAccess.longDesc "Project-Id-Version: netError.dtd
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2008-04-22 15:54+0200
+PO-Revision-Date: 2008-05-26 03:29-0300
+Last-Translator: Eduardo Trapani
+Language-Team: Esperanto <es@li.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;
+X-Generator: KBabel 1.11.4
+X-Accelerator-Marker: 
+">
+
+<!ENTITY dnsNotFound.title "Servilo ne trovita">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Kontrolu ĉu estas eraroj en la adreso, kiel 
+<strong>ww</strong>.example.com anstataŭ<strong>www</strong>.example.com</li> 
+<li>Se vi ne sukcesas vi iun ajn paĝon, 
+kontrolu la retan konekton de via komputilo.</li> <li>Se via komputilo aŭ reto estas protektata de retbarilo aŭ
+ retperanto, certiĝu ke 
+&brandShortName; rajtas aliri la TTT.</li> </ul>">
+
+<!ENTITY fileNotFound.title "Dosiero ne trovita">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Kontrolu ĉu la dosiernomo estas ĝuste literumita (majuskloj kaj minuskloj) kaj ĉu estas tajperaroj.</li> 
+<li>Kontrolu ĉu la dosiero estis movita, renomita aŭ forviŝita.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Fuŝ'.">
+<!ENTITY generic.longDesc "<p>Pro iu kialo &brandShortName; ne povas ŝargi tiun ĉi paĝon.</p>">
+
+<!ENTITY malformedURI.title "Tiu ĉi adreso ne estas valida">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>TTTajn adresojn oni kutime skribas ĉi tiel <strong>http://www.example.com/</strong></li> 
+<li>Kontrolu ĉu vi tajpis la ĝustajn signojn (ekzemple <strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "La konekto estis ĉesigita">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Malkonektita reĝimo">
+<!ENTITY netOffline.longDesc "<ul> 
+<li>Malaktivigu &quot;Labori malkonektite&quot; en la menuo Dosiero kaj klopodu denove.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Eraro de enkodigo de enhavo">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Bonvolu kontakti la retejajn posedantojn por raporti al ili tiun ĉi problemon.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Nesekura tipo de dosiero">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Bonvolu kontakti la retejajn posedantojn por raporti al ili tiun ĉi problemon.</li> 
+</ul>">
+
+<!ENTITY netReset.title "La konekto estis haltigita">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Limtempo por konekto atingita">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "La adreso ne esti komprenita">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Vi eble bezonos instali alian programon por malfermi ĉi tiun adreson.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "La retperanto rifuzas konektojn">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Kontrolu la agordojn de la retperanto por certiĝi ke ili estas ĝustaj.</li> 
+<li>Kontaktu vian retan administranton por certiĝi ke la retperanto nuntempe funkcias.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Ne eblas trovi la retperanton">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Kontrolu la agordojn de la retperanto por certiĝi ke ili estas ĝustaj.</li> 
+<li>Kontrolu ĉu via komputilo havas funkciantan retan konekton.</li> 
+<li>Se via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto certiĝi ke  &brandShortName; rajtas aliri la TTTn.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "La paĝo ne redirektiĝas bone">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Tiu ĉi problemo povas okazi pro malaktivigo aŭ rifuzo de kuketoj.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Neatendita respondo el servilo">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Kontrolu kaj certiĝu ke via sistemo havas la Administraton de persona sekureco instalita.</li> 
+<li>Tiu povus okazi pro nenorma agordado de la servilo.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Malsukcesa sekura konekto">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>La paĝo kiun vi klopodas vidi ne povis esti montrata ĉar la aŭtenteco de la ricevitaj datumoj ne povis esti kontrolita.</li> 
+<li>Bonvolu kontakti la retejajn posedantojn por raporti al ili tiun ĉi problemon. 
+Alternative, vi uzu la menueron en la menuo Helpo por raporti tiun ĉi nefunkciantan retejon.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Malsukcesa sekura konekto">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Tio povus estis problemo en la agordo de la servilo aŭ iu kiu klopodas preni la identecon de la servilo.</li> 
+<li>Se vi iam jam sukcese konektiĝis al tiu ĉi servilo, 
+la eraro povas esti tempa kaj vi povos klopodi denove poste.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc "<ul> 
+<li>La retejo povas estis tempe ne atingebla aŭ troe okupata. Klopodu denove post kelkaj momentoj.</li> <li>Se vi ne sukcesas ŝarĝi iun ajn paĝon, kontrolu la komputilan retan konekton.</li> 
+<li>Se via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto, certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Ataka retejo suspektata!">
+<!ENTITY malwareBlocked.longDesc "<p>Atakaj retejoj klopodas instali programojn kiuj ŝtelas privatan informon, uzas vian komputilon por ataki aliajn au difektas vian sistemon.</p> 
+<p>Retejaj posedantoj kiuj pensas ke siaj retejoj estis denoncitaj malĝuste kiel atakaj retejoj povas <a href='http://www.stopbadware.org/home/reviewinfo' >peti kontrolon</a>.</p>">
+
+<!ENTITY phishingBlocked.title "Retfalsaĵo suspektata!">
+<!ENTITY phishingBlocked.longDesc '<p>Tajpado de persona informo en tiu ĉi paĝo povas okazigi ŝtelon de identeco aŭ aliajn trompojn.</p> 
+<p>Tiuj tipo de retfalsaĵoj estas uzataj en trompoj konataj kiel "phishing" atakoj, kie malhonestaj retpaĝoj kaj retmesaĝoj estas uzataj por imit retpaĝojn aŭ organizojn je kiuj vi eble fidas.</p>'>
+
+<!ENTITY securityOverride.linkText "Aŭ vi povas aldoni escepton…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Mi volas foriri de ĉi tie!">
+<!ENTITY securityOverride.exceptionButtonLabel "Aldoni escepton…">
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningText "
+<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
+<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
+">

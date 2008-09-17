@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "Nomo:">
+<!ENTITY bookmarks.name.accesskey "N">
+<!ENTITY bookmarks.location.label "Retadreso:">
+<!ENTITY bookmarks.location.accesskey "R">
+<!ENTITY bookmarks.keyword.label "Kategoria vorto:">
+<!ENTITY bookmarks.keyword.accesskey "K">
+<!ENTITY bookmarks.description.label "Priskribo:">
+<!ENTITY bookmarks.description.accesskey "P">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Aktivaj titoloj">
+<!ENTITY bookmarks.createIn.label "Krei en:">
+<!ENTITY bookmarks.createIn.accesskey "K">
+<!ENTITY bookmarks.feed_location.label "Retadreso de informfonto:">
+<!ENTITY bookmarks.feed_location.accesskey "R">
+<!ENTITY bookmarks.site_location.label "Retadreso de retejo:">
+<!ENTITY bookmarks.site_location.accesskey "R">
+<!ENTITY bookmarks.loadInSidebar.label "Ŝargi tiun ĉi paĝosignon en la flankan strion">
+<!ENTITY bookmarks.loadInSidebar.accesskey "Ŝ">
+<!ENTITY bookmarks.expanderDown.tooltip "Montri ĉiujn dosierujojn de paĝosignoj">
+<!ENTITY bookmarks.expanderUp.tooltip "Kaŝi">
+<!ENTITY bookmarks.newFolderButton.label "Nova dosierujo">
+<!ENTITY bookmarks.newFolderButton.accesskey "n">

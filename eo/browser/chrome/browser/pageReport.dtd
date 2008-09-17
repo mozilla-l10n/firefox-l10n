@@ -1,0 +1,10 @@
+<!ENTITY caption.label "Blokitaj ŝprucfenestroj">
+
+<!ENTITY intro.label "Montrado de nepetitaj ŝprucfenestroj 
+estis malpermesita por la jenaj paĝoj:">
+
+<!ENTITY done.label "Preta">
+<!ENTITY done.accesskey "P">
+
+<!ENTITY unblock.label "Malbloki retejon">
+<!ENTITY unblock.accesskey "M">
