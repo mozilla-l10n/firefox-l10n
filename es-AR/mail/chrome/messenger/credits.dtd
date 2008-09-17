@@ -10,7 +10,7 @@
 <!ENTITY credit.translation
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
-<!ENTITY credit.translation "<h3>Traductores</h3><ul><li>Marcelo Poli</li><li>Ariel Burone</li><li>Sergio Celani</li><li>Guillermo Movia</li><li>José María Torres</li></ul>">
+<!ENTITY credit.translation "<h3>Traductores</h3><ul><li>Marcelo Poli</li><li>Ariel Burone</li><li>Sergio Celani</li><li>Guillermo Movia</li><li>José María Torres</li><li>Nahuel Rebollo</li></ul>">
 
 <!ENTITY credit.visuals     "Coordinador de diseño visual">
 <!ENTITY credit.theme       "Diseño de temas">
