@@ -444,7 +444,7 @@
 <!ENTITY backButton1.label "Zurück">
 <!ENTITY goForwardButton1.label "Vor">
 <!ENTITY deleteButton.label "Löschen">
-<!ENTITY undeleteButton.label "Nicht löschen">
+<!ENTITY undeleteButton.label "Wiederherstellen">
 <!ENTITY markButton.label "Markieren">
 <!ENTITY printButton.label "Drucken">
 <!ENTITY stopButton.label "Stopp">
@@ -627,12 +627,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Das Nachladen externer Grafiken wurde blockiert, um Ihre Privatsphäre zu schützen.">
-<!ENTITY loadRemoteContentButton1.label "Grafiken laden">
+<!ENTITY loadRemoteContentButton2.label "Grafiken jetzt anzeigen">
 
 <!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Diese Nachricht könnte ein Betrugsversuch (Phishing) sein.">
+<!ENTITY phishingBarMessage2.label "Diese Nachricht könnte ein Betrugsversuch (Phishing) sein.">
 <!ENTITY removePhishingBarButton1.label "Warnung ignorieren">
-<!ENTITY reportPhishingError.label "Kein Betrugsversuch">
+<!ENTITY reportPhishingError1.label "Diese Nachricht ist scheinbar kein Betrugsversuch">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
