@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title "Modumo wa Melaetša o Moswa">
+<!ENTITY window.width "30em">
+
+<!ENTITY soundNotification.caption "Bopa Modumo wa Molaetša o Moswa">
+<!ENTITY preview.label "Tebelelo pele ya Modumo">
+<!ENTITY preview.accesskey "e">
+<!ENTITY systemsound.label "Setlabelo sa Modumo wa Molaetša o Moswa">
+<!ENTITY systemsoundMac.label "Setlabelo sa Medumo ya Temošo">
+<!ENTITY systemsound.accesskey "e">
+<!ENTITY customsound.label "Khasetamo .wav faele">
+<!ENTITY customsound.accesskey "K">
+<!ENTITY browse.label "Fetleka...">
+<!ENTITY browse.accesskey "F">

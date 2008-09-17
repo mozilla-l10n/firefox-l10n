@@ -1,0 +1,73 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurances of the word 
+"&brandShortName;" below.
+-->
+
+
+<!ENTITY importDialog.windowTitle "Ditšwantle">
+<!ENTITY importDialog.mailTitle "Molaetša">
+<!ENTITY importDialog.addressbookTitle "Dipuku tša Diaterese">
+<!ENTITY importDialog.settingsTitle "Dipeakanyo">
+
+<!ENTITY importTitle.label "&brandShortName; Wisate ya Melaetša ya go tšwa ntle">
+<!ENTITY importDesc.label "Melaetša ya go tšwa ntle, Dipuku tša Diaterese le Dipeakanyo go tšwa go mananeo a mangwe">
+
+<!ENTITY importDescription.label "Wisate ye e tla amogela melaetša ye e rometšwego go tšwa ntle, ditsenywa tša puku ya diaterese, le/goba dipharologantšho go tšwa go mananeo a mangwe a melaetša le dibopego tša puku ya diaterese tše tlwaelegilego ka gare ga &brandShortName; Melaetša.">
+<!ENTITY importDescription2.label "Morago ga gore di amogelwe go tšwa ntle, o tla kgona go di fihlelela go tšwa ka gare &brandShortName; Melaetša le/goba Puku ya Diaterese.">
+
+<!ENTITY selectDescription.label "Ka kgopelo kgetha lenaneo go tšwa go leo o nyakago go di amogela go tšwa go lona:">
+
+<!ENTITY back.label "&lt; Morago">
+<!ENTITY forward.label "Ya go latela &gt;">
+<!ENTITY finish.label "Fetša">
+<!ENTITY cancel.label "Khansela">
+
+<!ENTITY select.label "Kgetha mohuta wa sedirišwa go amogela go tšwa go sona:">
+
+<!ENTITY title.label "Thaetlele">
+<!ENTITY processing.label "Go amogela go tšwa ntle...">
+
+<!ENTITY FieldDiscInputText1.label "Sekgokagantšhi sa Netscape 4.x se na le lenaneo la diaterese go karata ye nngwe le ye nngwe, mola &brandShortName; le na le tše pedi (Lapeng le Mošomong).">
+<!ENTITY FieldDiscInputText2.label "Kgetha legoro leo o nyakago go boloka lenaneo la diaterese tšeo di amogetšwego go tšwa ntle:">
+<!ENTITY FieldDiscWarning.label "Legoro le le tla šomišetšwa ditsenywa ka moka tša puku ya diaterese yeo e kgethilwego: ">
+<!ENTITY importDialog.homeTitle "Lapeng">
+<!ENTITY importDialog.workTitle "Mošomo">

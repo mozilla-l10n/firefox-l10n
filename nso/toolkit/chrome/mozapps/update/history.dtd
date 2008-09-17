@@ -1,0 +1,15 @@
+
+<!ENTITY history.title "Kaonafatša Histori">
+<!ENTITY history.intro "Dikaonafatšo tše di latelago di loketšwe:">
+<!ENTITY closebutton.label "Tswalela">
+                                     
+<!ENTITY detailsButton.label "Tshedimošo">
+<!ENTITY detailsButton.accesskey "T">
+
+<!ENTITY noupdates.label "Ga go dikaonafatšo tše di šetšego di loketšwe">
+
+<!ENTITY name.header "Kaonafatša Leina">
+<!ENTITY date.header "Lokela Tšatšikgwedi">
+<!ENTITY type.header "Mohuta">
+<!ENTITY state.header "Seemo">
+

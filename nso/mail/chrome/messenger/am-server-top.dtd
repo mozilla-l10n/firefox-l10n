@@ -1,0 +1,94 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Dipeakanyo tša Tšhireletšo">
+<!ENTITY serverSettings.label "Dipeakanyo tša Sebara">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "Sebara ya Molaetša wa POP">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "Sebara ya Molaetša wa IMAP">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Sebara ya Ditaba (NNTP)">
+<!ENTITY webmail.label "Akhaonte ya WepePoso">
+<!ENTITY serverType.label "Mohuta wa Sebara:">
+<!ENTITY serverName.label "Leina la Sebara:">
+<!ENTITY serverName.accesskey "L">
+<!ENTITY userName.label "Modiriši Leina:">
+<!ENTITY userName.accesskey "L">
+<!ENTITY port.label "Phote:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Go se fetoge:">
+<!ENTITY savePassword.label "Boloka lentšuphetišo">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Lekola melaetša e mefsa e mengwe le e lengwe ">
+<!ENTITY biffStart.accesskey "l">
+<!ENTITY biffEnd.label "metsotso">
+<!ENTITY isSecure.label "Šomiša kgokagano yeo e šireletšegilego (SSL)">
+<!ENTITY isSecure.accesskey "Š">
+<!ENTITY socketType.label "Šomiša kgokagano yeo e šireletšegilego:">
+<!ENTITY neverSecure.label "Le gatee">
+<!ENTITY neverSecure.accesskey "L">
+<!ENTITY sometimesSecure.label "TLS, ge e le gona">
+<!ENTITY sometimesSecure.accesskey "g">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Šomiša netefatšo yeo e šireletšilego">
+<!ENTITY useSecAuth.accesskey "a">
+<!ENTITY leaveOnServer.label "Tlogela melaetša godimo ga sebara">
+<!ENTITY leaveOnServer.accesskey "t">
+<!ENTITY headersOnly.label "Nyaka dihlogo feela">
+<!ENTITY headersOnly.accesskey "n">
+<!ENTITY deleteByAgeFromServer.label "Ya ka bontši">
+<!ENTITY deleteByAgeFromServer.accesskey "a">
+<!ENTITY daysEnd.label "matšatši">
+<!ENTITY deleteOnServer.label "Go fihla ge ke phumula goba go di šuthiša go tšwa go Inpokisi">
+<!ENTITY deleteOnServer.accesskey "p">
+<!ENTITY downloadOnBiff.label "Bula melaetša e mefsa ka mokgwa wa othomethiki">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY hostname.label "Leina la Sebara ya monggae">
+<!ENTITY username.label "Leina la Gago la Lokeine">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "Tshedimošo ya Sebara ya POP">
+<!ENTITY deleteMessagePrefix.label "Ge ke phumula molaetša:">
+<!ENTITY deleteMessagePrefix.accesskey "G">
+<!ENTITY modelMoveToTrash.label "O šuthišetše ka go foltara ya Dilahlwa">
+<!ENTITY modelMarkDeleted.label "O swaye bjalo ka woo o phumutšwego">
+<!ENTITY modelDeleteImmediately.label "E tloše ka tšhoganetšo">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Hlwekiša (&quot;Fediša&quot;) Inpokisi ge o Etšwa">
+<!ENTITY expungeOnExit.accesskey "F">
+<!ENTITY emptyTrashOnExit.label "Tšholla Dilahlwa ge o Etšwa">
+<!ENTITY emptyTrashOnExit.accesskey "š">
+<!ENTITY loginAtStartup.label "Lekola melaetša e mefsa mo mathomong">
+<!ENTITY loginAtStartup.accesskey "L">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Mpotšiše pele ga ge o bula go feta">
+<!ENTITY maxMessagesStart.accesskey "m">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "melaetša">
+<!ENTITY alwaysAuthenticate.label "Phela o kgopela netefatšo ge o kgokaganya go sebara ye">
+<!ENTITY alwaysAuthenticate.accesskey "e">
+<!ENTITY newsrcFilePath.label "ditabarc faele:">
+<!ENTITY newsrcFilePath.accesskey "f">
+<!ENTITY localPath.label "Tšhupamegala ya tikologo:">
+<!ENTITY localPath.accesskey "T">
+<!ENTITY abbreviate.label "Laetša maina a ditabakgoboko go lefasetere la Foltara ya Maina bjalo ka:">
+<!ENTITY abbreviateOn.label "Maina ka botlalo (Mohlala, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Kopafatša maina (Mohlala, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Gatetšego pele...">
+<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
+<!ENTITY advancedButton.accesskey "t">
+<!ENTITY localFolderPicker.label "Kgetha Tšhupamegala ya Tikologo">
+<!ENTITY browseFolder.label "Fetleka...">
+<!ENTITY browseFolder.accesskey "F">
+<!ENTITY newsrcPicker.label "Kgetha ditabarc Faele">
+<!ENTITY browseNewsrc.label "Fetleka...">
+<!ENTITY browseNewsrc.accesskey "k">

@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title "Amogela Wisate">
+
+<!ENTITY importFrom.label "Amogela Dikgetho, Dipeakanyo tša Akhaonte, Puku ya diaterese le tshedimošo e nngwe go tšwa go:">
+<!ENTITY importFromUnix.label "Amogela Ditlhaolo, Dipeakanyo tša Akhaonte, Puku ya diatarese le tshedimošo e nngwe go tšwa go:">
+
+<!ENTITY importFromNothing.label "O seke wa amogela sengwe goba sengwe">
+<!ENTITY importFromNothing.accesskey "O">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 goba Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOExpress.label "Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
+<!ENTITY importFromEudora.label "Eudora">
+<!ENTITY importFromEudora.accesskey "E">
+
+<!ENTITY importSource.title "Amogela Dipeakanyo le Difoltara tša Tshedimošo Go tšwa go">
+<!ENTITY importItems.title "Dilo tše di tlago Amogelwa">
+<!ENTITY importItems.label "Kgetha dilo tše di tlago amogelwa:">
+
+<!ENTITY migrating.title "Ya amogela...">
+<!ENTITY migrating.label "Dilo tše di latelago di gare di a amogelwa...">
+
+<!ENTITY selectProfile.title "Kgetha Profaele">
+<!ENTITY selectProfile.label "Diprofaele tše di latelago di a hwetšagala go ka amogelwa go tšwa go:">
+
+<!ENTITY done.title "Kamogelo e Phethagetše">
+<!ENTITY done.label "Dilo tše di latelago di amogetšwe ka katlego:">

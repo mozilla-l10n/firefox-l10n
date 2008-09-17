@@ -1,0 +1,53 @@
+<!ENTITY window.title "Melao ya Filthara">
+<!ENTITY subject.label "hlogo">
+<!ENTITY sender.label "moromedi">
+<!ENTITY date.label "tšatšikgwedi">
+<!ENTITY anyText.label "sengwalwa se sengwe le se sengwe">
+<!ENTITY keyword.label "lentšu la motheo">
+<!ENTITY age.label "mengwaga ka matšatši">
+<!ENTITY to.label "go ya go">
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "boemo">
+<!ENTITY priority.label "šedi ya pele">
+<!ENTITY body.label "mmele">
+<!ENTITY contains.label "e na le">
+<!ENTITY nocontains.label "ga e na le">
+<!ENTITY filterName.label "Leina la Filthara:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Melaetša ye e sego mohola">
+<!ENTITY notJunk.label "Melaetša ya mohola">
+
+<!ENTITY lowestPriorityCmd.label "Tlasetlase">
+<!ENTITY lowPriorityCmd.label "Tlase">
+<!ENTITY normalPriorityCmd.label "Gabotse">
+<!ENTITY highPriorityCmd.label "Godimo">
+<!ENTITY highestPriorityCmd.label "Godimodimo">
+
+<!ENTITY conditionDesc.label "Go melaetša yeo e tsenago ye e:">
+<!ENTITY filterActionDesc.label "Phetha ditiro tše:">
+<!ENTITY filterActionDesc.accesskey "P">
+
+<!ENTITY newFolderButton.label "Folthara e mpsha...">
+<!ENTITY newFolderButton.accesskey "F">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "Move Message to">
+<!ENTITY copyMessage.label "Copy Message to">
+<!ENTITY forwardTo.label "Forward Message to">
+<!ENTITY replyWithTemplate.label "Reply with Template">
+<!ENTITY markMessageRead.label "Mark As Read">
+<!ENTITY markMessageStarred.label "Add Star">
+<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY setPriority.label "Set Priority to">
+<!ENTITY addTag.label "Tag Message">
+<!ENTITY setJunkScore.label "Set Junk Status to">
+<!ENTITY deleteMessage.label "Delete Message">
+<!ENTITY deleteFromPOP.label "Delete From POP Server">
+<!ENTITY fetchFromPOP.label "Fetch From POP Server">
+<!ENTITY ignoreThread.label "Ignore Thread">
+<!ENTITY watchThread.label "Watch Thread">
+

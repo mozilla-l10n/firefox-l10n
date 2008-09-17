@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label "Puku ya Diaterese:">
+<!ENTITY searchInput.label "Nyaka:">
+<!ENTITY SearchNameOrEmail.label "Leina goba Eposo">
+
+<!ENTITY addtoToFieldMenu.label "Lokela go Go lefelo">
+<!ENTITY addtoCcFieldMenu.label "Lokela go lefelo la Cc">
+<!ENTITY addtoBccFieldMenu.label "Lokela go lefelo la Bcc">
+
+<!ENTITY toButton.label "Lokela go Go ya go:">
+<!ENTITY ccButton.label "Lokela go Cc:">
+

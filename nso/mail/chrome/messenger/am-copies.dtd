@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Dikhopi &amp; Difoltara">
+<!ENTITY sendingPrefix.label "Ge o romela melaetša, ka mokgwa wa othometiki: ">
+<!ENTITY fccMailFolder.label "Bea khopi ka go:">
+<!ENTITY fccMailFolder.accesskey "B">
+<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Kgetha Foltara...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Bea diaterese tše tša eposo go Bcc:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY specialFolderTitle.label "Difoltara tše Ikgethegilego">
+<!ENTITY draftMailFolder.label "Lota dikakanywa tša melaetša ka go:">
+<!ENTITY templateMailFolder.label "Lota mehlala ya melaetša ka go:">
+<!ENTITY saveMessageDlg.label "Laetša lepokisi la go netefatša ge melaetša e bolokwa">
+<!ENTITY saveMessageDlg.accesskey "L">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Rometše&quot; Foltara go:">
+<!ENTITY sentFolderOn.accesskey "o">
+<!ENTITY sentInOtherFolder.label "Ye nngwe:">
+<!ENTITY sentInOtherFolder.accesskey "Y">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Dikakanywa&quot; Foltara go:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "Ye nngwe:">
+<!ENTITY draftInOtherFolder.accesskey "n">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Mehlala&quot; Foltara ka go:">
+<!ENTITY templatesFolderOn.accesskey "h">
+<!ENTITY templateInOtherFolder.label "Ye nngwe:">
+<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY specialFoldersTitle.label "Dikakanywa le Mehlala">
+<!ENTITY keepDrafts.label "Lota dikakanywa tša molaetša ka go:">
+<!ENTITY keepTempltes.label "Lota mehlala ya melaetša ka go:">

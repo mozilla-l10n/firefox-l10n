@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Go boloka sekgoba sa tisiki, o se ke wa laolla:">
+<!ENTITY doNotDownload.label "Go boloka sekgoba sa tisiki, o se ke wa laolla go tla go se šomišetša ge megala ya kgokagano e sa šome:">
+<!ENTITY offlineNewFolder.label "Ge ke hlama difoltara tše mpsha, di kgethe go di šomišetša ge megala ya kgokagano e sa šome">
+<!ENTITY offlineNewFolder.accesskey "h">
+<!ENTITY offlineNotDownload.label "Melaetša ye megolo go">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "matšatši">
+<!ENTITY daysOld.label "bokgale bja matšatši">
+<!ENTITY message.label "melaetša">
+<!ENTITY nntpNotDownloadRead.label "Bala melaetša">
+<!ENTITY nntpNotDownloadRead.accesskey "B">
+<!ENTITY nntpDownloadMsg.label "Melaetša ya go feta">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Go hwetša sekgoba sa tisiki gape, melaetša ya kgale e ka phumulelwa sa ruri">
+<!ENTITY retentionKeepMsg.label "Phumula melaetša ya go feta">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "O se ke wa phumula melaetša efe goba efe">
+<!ENTITY retentionKeepAll.accesskey "E">
+<!ENTITY retentionKeepNew.label "Phumula ka moka kantle le wa mafelelo">
+<!ENTITY retentionKeepNew.accesskey "m">
+<!ENTITY retentionKeepUnread.label "Ka mehla phumula melaetša yeo e badilwego">
+<!ENTITY retentionKeepUnread.accesskey "b">
+<!ENTITY nntpRemoveBody.label "Ke fela melaetša ya bogolo bja ka fase ga">
+<!ENTITY nntpRemoveBody.accesskey "K">
+<!ENTITY offlineSelectNntp.label "Kgetha ditabakgoboko go di šomišetša ge megala ya kgokagano e sa šome...">
+<!ENTITY offlineSelectImap.label "Kgetha difoltara go di šomišetša ge megala ya kgokagano e sa šome...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "O ka bula melaetša ya gago mo tikologong gore e tle e be gona ge o šoma ge megala ya kgokagano e sa šome.">
+<!ENTITY makeInboxMsgsAvailable.label "Dira gore melaetša ya ka e be gona ka gare ya Inpokisi ya ka ge ke šoma ge megala ya kgokagano e sa šome">
+<!ENTITY makeInboxMsgsAvailable.accesskey "p">
+<!ENTITY offlineGroupTitle.label "Megala ya kgokagano ga e šome">
+<!ENTITY diskspaceGroupTitle.label "Sekgoba sa Tisiki">

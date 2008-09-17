@@ -1,0 +1,11 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Tsenya lefelo la Wepe (URL), goba laetša faele ya tikologo yeo o nyakago go e bula:">
+<!ENTITY chooseFile.label "Kgetha Faele...">
+<!ENTITY newWindow.label "Lefasetere le Leswa">
+<!ENTITY newTab.label "Thepe ye Mpsha">
+<!ENTITY topWindow.label "Lefasetere la Bjale">
+<!ENTITY caption.label "Bula Lefelo la Wepe">
+<!ENTITY openWhere.label "Bula ka go:">
+<!ENTITY example.label "Mohlala: &vendorURL;">
+<!ENTITY openBtn.label "Bula">

@@ -1,0 +1,28 @@
+<!ENTITY find.label "Nyaka:">
+<!ENTITY find.accesskey "N">
+<!ENTITY expand.label "Katološa">
+<!ENTITY expand.accesskey "K">
+<!ENTITY collapse.label "Phuhlama">
+<!ENTITY collapse.accesskey "P">
+<!ENTITY byDate.label "Ka Tšatšikgwedi">
+<!ENTITY byDate.accesskey "T">
+<!ENTITY bySite.label "Ka Saete">
+<!ENTITY bySite.accesskey "S">
+<!ENTITY view.label "Lebelela">
+<!ENTITY view.accesskey "l">
+<!ENTITY byMostVisited.label "Ka tšeo di Etetšwego ka Bontši">
+<!ENTITY byMostVisited.accesskey "E">
+<!ENTITY byLastVisited.label "Ka Etetšwego la Mafelelo">
+<!ENTITY byLastVisited.accesskey "E">
+<!ENTITY byDayAndSite.label "Ka Tšatšikgwedi le Saete">
+<!ENTITY byDayAndSite.accesskey "k">
+<!ENTITY openLinkInWindow.label "Bula">
+<!ENTITY openLinkInWindow.accesskey "B">
+<!ENTITY openInNewTab.label "Bula go Thepe e Mpsha">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "Bula go Lefasetere le Lefsa">
+<!ENTITY openInNewWindow.accesskey "L">
+<!ENTITY bookmarkLink.label "Swaya Nyalantšho Ye...">
+<!ENTITY bookmarkLink.accesskey "S">
+<!ENTITY copyLink.label "Khopa Lefelo la Nyalantšho">
+<!ENTITY copyLink.accesskey "K">

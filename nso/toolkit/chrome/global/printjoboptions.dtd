@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Dipharologantšho tša Kgatišo">
+
+<!ENTITY paperInput.label "Saese ya Letlakala:">
+
+<!ENTITY plexInput.label "Moute wa Plex:">
+
+<!ENTITY resolutionInput.label "Sephetho/Khwalithi:">
+
+<!ENTITY cmdInput.label "Taolo ya Kgatišo:">
+
+<!ENTITY jobTitleInput.label "Thaetlele ya Mošomo:">
+
+<!ENTITY colorGroup.label "Mmala:">
+<!ENTITY grayRadio.label "Sekala sa Gray">
+<!ENTITY colorRadio.label "Mmala">
+
+<!ENTITY colorspaceInput.label "Sekgoba sa Mmala:">
+
+<!ENTITY fontsGroup.label "Difonte:">
+<!ENTITY downloadFonts.label "Bula difonte go kgatišo?">
+
+<!ENTITY edgeMarginInput.label "Šia sekgoba go tloga ntlheng ya pampiri go ya Mollwaneng">
+<!ENTITY topInput.label "Bogodimo:">
+<!ENTITY bottomInput.label "Botlase:">
+<!ENTITY leftInput.label "Ntsogošo:">
+<!ENTITY rightInput.label "La go ja:">

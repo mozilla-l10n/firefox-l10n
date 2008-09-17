@@ -1,0 +1,29 @@
+<!ENTITY window.title "Difilthara tša Melaetša">
+<!ENTITY nameColumn.label "Leina la Filthara">
+<!ENTITY activeColumn.label "Kgonagaditše">
+<!ENTITY newButton.label "Mpsha...">
+<!ENTITY newButton.accesskey "M">
+<!ENTITY editButton.label "Rulaganya...">
+<!ENTITY editButton.accesskey "R">
+<!ENTITY deleteButton.label "Phumula">
+<!ENTITY deleteButton.accesskey "l">
+<!ENTITY reorderUpButton.label "Šuthišetša Godimo">
+<!ENTITY reorderUpButton.accesskey "G">
+<!ENTITY reorderDownButton.label "Šuthišetša Fase">
+<!ENTITY reorderDownButton.accesskey "F">
+<!ENTITY filterHeader.label "Difilthara tše kgonagaditšwego di sepetšwa ka tsela ya othomethiki ka tatelano yeo e laetšwago ka fase.">
+<!ENTITY filtersForPrefix.label "Difilthara tša:">
+<!ENTITY filtersForPrefix.accesskey "D">
+<!ENTITY viewLogButton.label "Filthara Loko">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Sepetša Gabjale">
+<!ENTITY runFilters.accesskey "S">
+<!ENTITY stopFilters.label "Emiša">
+<!ENTITY stopFilters.accesskey "E">
+<!ENTITY folderPickerPrefix.label "Sepetša difilthara tše kgethilwego go:">
+<!ENTITY folderPickerPrefix.accesskey "l">
+<!ENTITY choosethis.label "kgetha folthara ye">
+<!ENTITY choosethisnewsserver.label "kgethat sebara ye ya ditaba">
+<!ENTITY helpButton.label "Thuša">
+<!ENTITY helpButton.accesskey "T">
+<!ENTITY closeCmd.key "W">

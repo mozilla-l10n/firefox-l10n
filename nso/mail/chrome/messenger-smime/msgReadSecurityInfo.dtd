@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "Tšhireletšo ya Molaetša">
+<!ENTITY signatureCert.label "Lebelela Setifikheiti sa Mosaeno">
+<!ENTITY encryptionCert.label "Lebelela Setifikheiti sa Enkripšene">
+
+<!ENTITY signer.name "Saennwe ke:">
+<!ENTITY recipient.name "Enkripthetšwe go:">
+<!ENTITY email.address "Aterese ya E-poso:">
+<!ENTITY issuer.name "Setifikheiti se ntšhitšwe ke:">

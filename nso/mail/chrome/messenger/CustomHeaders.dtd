@@ -1,0 +1,7 @@
+<!ENTITY window.title "Beakanya Dihlogo">
+<!ENTITY addButton.label "Lokela">
+<!ENTITY addButton.accesskey "L">
+<!ENTITY removeButton.label "Šuthiša">
+<!ENTITY removeButton.accesskey "Š">
+<!ENTITY newMsgHeader.label "Hlogo ya melaetša o mofsa:">
+<!ENTITY newMsgHeader.accesskey "H">

@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Potšišo ya Melaetša ya HTML">
+
+<!ENTITY recipient.label "Ba bangwe ba baamogedi ga ba lenaneong la go kgona go amogela melaetša ya HTML.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Molaetša wa gago o ka fetolelwa go sengwalwa sa go se kgabišwe ka ntle ga go lahlegelwa ke tshedimošo.">
+<!ENTITY convertibleAltering.label "Molaetša wa gago o ka fetolelwa go sengwalwa sa go se kgabišwe ka ntle ga go lahlegelwa ke tshedimošo e bohlokwa. Le ge go le bjalo, polelo ya sengwalwa sa go se kgabišwe e ka no lebelelega e fapana le seo o se bonego ka go sehlami.">
+<!ENTITY convertibleNo.label "Le ge go le bjalo, o šomišitše go fometa (mohl. mebala) yeo e ka se fetolelwego go sengwalwa sa go se kgabišwe.">
+
+<!ENTITY question.label "O ka rata go fetola molaetša go sengwalwa sa go se kgabišwe goba go se romela ka go HTML ka tsela efe goba efe?">
+
+<!ENTITY plainTextAndHtml.label "Romela ka Sengwalwa sa go se Kgabišwe le HTML">
+<!ENTITY plainTextOnly.label "Romela ka Sengwalwa sa go se Kgabišwe Feela">
+<!ENTITY htmlOnly.label "Romela ka HTML Feela">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Romela ka Sengwalwa sa go se Kgabišwe le HTML (go šišintšwe)">
+<!ENTITY plainTextOnlyRecommended.label "Romela ka Sengwalwa sa go se Kgabišwe Feela (go šišintšwe)">
+<!ENTITY htmlOnlyRecommended.label "Romela ka HTML Feela (go šišintšwe)">
+<!ENTITY recommended.label "(go šišintšwe)">
+
+<!ENTITY send.label "Romela">
+<!ENTITY cancel.label "Khansela">
+<!ENTITY recipients.label "Baamogedi...">
+<!ENTITY help.label "Thušo">

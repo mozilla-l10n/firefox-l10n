@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Boingwadišo bja RSS">
+<!ENTITY subscriptionDesc.label "Ela hloko: Go tloša goba go fetoša foltara go e tlabakela go ka se be le seabe go dingwalwa tšeo di bego di butšwe pele.">
+<!ENTITY feedTitle.label "Thaetlele:">
+<!ENTITY location.label "Lefelo:">
+
+<!ENTITY button.addFeed.label "Lokela">
+<!ENTITY button.addFeed.accesskey "L">
+<!ENTITY button.editFeed.label "Rulaganya">
+<!ENTITY button.editFeed.accesskey "R">
+<!ENTITY button.removeFeed.label "Tloša">
+<!ENTITY button.removeFeed.accesskey "T">
+<!ENTITY button.importOPML.label "Amogela go tšwa ntle">
+<!ENTITY button.importOPML.accesskey "A">
+<!ENTITY button.exportOPML.label "Romela go ya ntle">
+<!ENTITY button.exportOPML.accesskey "G">
+
+<!ENTITY cmd.close.commandKey "w">

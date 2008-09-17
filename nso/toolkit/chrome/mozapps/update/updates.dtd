@@ -1,0 +1,85 @@
+<!ENTITY updateWizard.title "Kaonafatšo ya Mananeo a khomphuthara">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "Go Lekola Dikaonafatšwa">
+<!ENTITY checking.label "&brandShortName; gabjale e lekola dikaonafatšwa...">
+
+<!ENTITY cancel.label "Khansela">
+<!ENTITY cancel.accesskey "K">
+
+<!ENTITY noupdatesfound.title "Ga go Dikaonafatšwa tšeo di Hweditšwego">
+<!ENTITY noupdatesfound.intro "There are no new updates available. &brandShortName; may check 
+                                           periodically for new updates.">
+
+<!ENTITY updatesfound.title "Dikaonafatšwa di Gona">
+
+<!ENTITY moreDetails.label "Tshedimošo ka Botlalo &#0187;">
+<!ENTITY moreDetails.accesskey "T">
+<!ENTITY clickHere.label "View more information about this update">
+
+<!ENTITY incompatible.warning "This update will cause some of your extensions and/or themes 
+                                           to stop working until they are updated.">
+<!ENTITY listIncompatible.label "Laetša Lenaneo">
+<!ENTITY listIncompatible.accesskey "L">
+
+<!ENTITY upgrade.evangelism "It is strongly recommended that you upgrade &brandShortName; 
+                                           as soon as possible.">
+
+<!ENTITY license.title "Tumelelano ya Laesense">
+<!ENTITY license.intro "To install this update you must agree to this license agreement. 
+                                           Please read it carefully:">
+<!ENTITY license.instructions "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
+
+<!ENTITY license.titleText "Software License Agreement">
+<!ENTITY license.introText "Terms and conditions for using this software.">
+<!ENTITY license.instructionText "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
+<!ENTITY license.accept "I accept the terms of the License Agreement">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "I do NOT accept the terms of the License Agreement">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY downloading.title "Go bula Kaonafatšo">
+<!ENTITY downloading.intro "Go bula kaonafatšo...">
+<!ENTITY connecting.label "Go kgokaganya go sebara ya kaonafatšo...">
+<!ENTITY verificationFailedText.label "&brandShortName; was unable to verify the integrity of the 
+                                           incremental update it downloaded, so it is now downloading
+                                           the complete update package.">
+
+<!ENTITY details.link "Tshedimošo">
+<!ENTITY pause.label "Khutša">
+<!ENTITY pause.accesskey "a">
+<!ENTITY close.label "Tswalela">
+<!ENTITY close.accesskey "T">
+
+<!ENTITY error.label "There were problems checking for, downloading or installing this 
+                                           update. &brandShortName; could not be updated because:">
+                                           
+<!ENTITY errorManual.label "You can update &brandShortName; manually by visiting this link
+                                           and downloading the latest version:">
+                                           
+<!ENTITY errorpatching.title "Kaonafatšo e Paletšwe">
+<!ENTITY errorpatching.intro "The partial Update could not be applied. 
+                                           &brandShortName; will try again by downloading a complete Update.">
+
+<!ENTITY finished.title "Kaonafatšo e Butšwe">
+<!ENTITY finished.text "The update was successfully downloaded and verified, and it will
+                                           be installed the next time &brandShortName; starts.">
+
+<!ENTITY finishedBackground.title "Kaonafatšo e Lokile go Tsenywa">
+<!ENTITY finishedBackground.text "&brandShortName; has downloaded and verified an important update. 
+                                           Click the link below for more details.">
+<!ENTITY finishedBackground.name "Kaonafatšo:">
+<!ENTITY finishedBackground.more1 "Click Restart &brandShortName; Now to install the update now.">
+<!ENTITY finishedBackground.more2 "Click Later to close this dialog and continue working. &brandShortName;
+                                           will install the update the next time it starts.">
+
+<!ENTITY installed.title "Kaonafatšo e Loketšwe">
+<!ENTITY installed.intro "Kaonafatšo e loketšwe ka katlego.">
+<!ENTITY whatsnew.label "Bala ka botlalo mabapi le gore ke eng se seswa...">
+
+<!ENTITY update.details.label "Tshedimošo">
+<!ENTITY update.installedOn.label "Loketšwe go:">
+<!ENTITY update.status.label "Boemo:">

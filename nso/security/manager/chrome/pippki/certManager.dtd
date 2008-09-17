@@ -1,0 +1,123 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Ian McGreer <mcgreer@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY certmgr.title "Selaola Ditifikheiti">
+
+<!ENTITY certmgr.tab.mine "Ditifikheiti tša Gago">
+<!ENTITY certmgr.tab.others "Tša Batho ba bangwe">
+<!ENTITY certmgr.tab.websites "Diwepe Saete">
+<!ENTITY certmgr.tab.ca "Ditaolo">
+
+<!ENTITY certmgr.ca.builtins "Di-CA tšeo di Agetšwego ka gare">
+<!ENTITY certmgr.ca.mycas "Di-CA tšeo di Laolwago ke Wena">
+
+<!ENTITY certmgr.mine "O na le disetifikheiti go tšwa go mekgahlo ye yeo e go tsebago:">
+<!ENTITY certmgr.others "O na le ditifikheiti mo faeleng tšeo di tsebago batho ba:">
+<!ENTITY certmgr.websites "O na le ditifikheiti mo faeleng tšeo di tsebago di wepe saete tše:">
+<!ENTITY certmgr.cas "O na le ditifikheiti mo faeleng tšeo di tsebago dilaola-setifikheiti tše:">
+
+<!ENTITY certmgr.detail.general_tab.title "Kakaretšo">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Tshedimošo">
+
+<!ENTITY certmgr.subjectinfo.label "Ntšheditšwe Go">
+<!ENTITY certmgr.issuerinfo.label "Ntšhitšwe Ke">
+<!ENTITY certmgr.validity.label "Bonnete">
+<!ENTITY certmgr.fingerprints.label "Kgatišo ya menwana">
+<!ENTITY certmgr.certdetail.title "Tshedimošo ya Setifikheiti">
+<!ENTITY certmgr.certdetail.cn "Leina la Setlwaedi (CN)">
+<!ENTITY certmgr.certdetail.o "Mokgahlo (O)">
+<!ENTITY certmgr.certdetail.ou "Lekala la Mokgahlo (OU)">
+<!ENTITY certmgr.certdetail.serialnumber "Nomoro ya Seriale">
+<!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 Kgatišomonwana">
+<!ENTITY certmgr.certdetail.md5fingerprint "MD5 Kgatišomonwana">
+
+<!ENTITY certmgr.editcert.title "Rulaganya Dipeakanyo tša Ditifikheiti tša Tšhireletšo">
+<!ENTITY certmgr.editcacert.title "Rulaganya dipeakanyo tša tshepho ya setifikheiti sa CA">
+<!ENTITY certmgr.editsslcert.title "Rulaganya dipeakanyo tša tshepho ya setifikheiti sa wepe saete">
+<!ENTITY certmgr.editcert.edittrust "Rulaganya dipeakanyo tša tshepho:">
+<!ENTITY certmgr.editcert.trustssl "Setifikheiti se se ka hlaola diwepe saete.">
+<!ENTITY certmgr.editcert.trustemail "Setifikheiti se se ka hlaola badiriši ba thomelo.">
+<!ENTITY certmgr.editcert.trustobjsign "Setifikheiti se se ka hlaola diswaya tshedimošo.">
+<!ENTITY certmgr.editsslcert.edittrust "Rulaganya dipeakanyo tša tshepho ya setifikheiti:">
+<!ENTITY certmgr.editsslcert.dotrust "Tshepha bonnete bja setifikheiti se.">
+<!ENTITY certmgr.editsslcert.donttrust "Se ke wa tshepha bonnete bja setifikheiti se.">
+<!ENTITY certmgr.editemailcert.title "Rulaganya dipeakanyo tša tshepho tša setifikheiti sa eposo">
+<!ENTITY certmgr.editemailcert.edittrust "Rulaganya dipeakanyo tša setifikheiti sa tshepho:">
+<!ENTITY certmgr.editemailcert.dotrust "Tshepha bonnete bja setifikheiti se.">
+<!ENTITY certmgr.editemailcert.donttrust "O se ke wa tshepha bonnete bja setifikheiti se.">
+
+<!ENTITY certmgr.deletecert.title "Phumula Sethifikheiti">
+<!ENTITY certmgr.deletecert.beforename "O kgopetše go phumula setifikheiti se:">
+<!ENTITY certmgr.deletecert.aftername "O na le bonnete bja gore o nyaka go phumula setifikheiti se?">
+<!ENTITY certmgr.deleteusercert.title "Phumula Setifikheiti sa Gago">
+<!ENTITY certmgr.deleteusercert.beforename "O kgopetše go phumula setifikheiti:">
+<!ENTITY certmgr.deleteusercert.aftername "Morago ga gore o phumule setifikheiti se, o ka se kgone go bala poso yeo e enkriptilwego ka yona.">
+
+<!ENTITY certmgr.certname "Leina la Setifikheiti">
+<!ENTITY certmgr.tokenname "Setlabela sa Tšhireletšo">
+<!ENTITY certmgr.purpose "Dinepo">
+<!ENTITY certmgr.issued "Ntšhitšwe Ka">
+<!ENTITY certmgr.expires "E felelwa ke nako Ka">
+<!ENTITY certmgr.email "Aterese ya E-Poso">
+<!ENTITY certmgr.serial "Nomoro ya Seriale">
+<!ENTITY certmgr.ocsp_info "Disetifikheiti ga se nke di netefatšwa ka OCSP. Kgotla Lebelela go dira bjalo.">
+
+<!ENTITY certmgr.close.label "Close">
+<!ENTITY certmgr.close.accesskey "C">
+<!ENTITY certmgr.view.label "View">
+<!ENTITY certmgr.view.accesskey "V">
+<!ENTITY certmgr.edit.label "Edit">
+<!ENTITY certmgr.edit.accesskey "E">
+<!ENTITY certmgr.editca.label "Edit CA Trust">
+<!ENTITY certmgr.editca.accesskey "d">
+<!ENTITY certmgr.add.label "Add">
+<!ENTITY certmgr.add.accesskey "A">
+<!ENTITY certmgr.delete.label "Delete">
+<!ENTITY certmgr.delete.accesskey "D">
+<!ENTITY certmgr.backup.label "Backup">
+<!ENTITY certmgr.backup.accesskey "B">
+<!ENTITY certmgr.backupall.label "Backup All">
+<!ENTITY certmgr.backupall.accesskey "k">
+<!ENTITY certmgr.restore.label "Import">
+<!ENTITY certmgr.restore.accesskey "m">
+<!ENTITY certmgr.details.label "Certificate Fields">
+<!ENTITY certmgr.details.accesskey "F">
+<!ENTITY certmgr.fields.label "Field Value">
+<!ENTITY certmgr.fields.accesskey "V">
+<!ENTITY certmgr.hierarchy.label "Certificate Hierarchy">
+<!ENTITY certmgr.hierarchy.accesskey "C">
+

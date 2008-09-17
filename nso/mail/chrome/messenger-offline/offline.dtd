@@ -1,0 +1,15 @@
+<!ENTITY offlineMenu.label "Go šoma ntle le dikgokaganyo tša megala">
+<!ENTITY offlineMenu.accesskey "n">
+<!ENTITY synchronizeOfflineCmd.label "Bula/beakanya Gonabjale...">
+<!ENTITY synchronizeOfflineCmd.accesskey "B">
+<!ENTITY settingsOfflineCmd.label "Dipeakanyo tša go šoma ntle le dikgokaganyo tša megala...">
+<!ENTITY settingsOfflineCmd.accesskey "n">
+<!ENTITY downloadSelectedCmd.label "Hwetša Melaetša yeo e Hlaotšwego">
+<!ENTITY downloadSelectedCmd.accesskey "M">
+<!ENTITY downloadStarredCmd.label "Get Starred Messages">
+<!ENTITY downloadStarredCmd.accesskey "a">
+
+<!ENTITY prefOfflineConnection.label "Dipeakanyo tša Kgokaganyo le tša go šoma ntle le dikgokaganyo tša megala">
+<!ENTITY prefOfflineDesc.label "Laola dipeakanyo tša go šoma ntle le dikgokaganyo tša megala.">
+<!ENTITY prefOfflineButton.label "Dipeakanyo tša go šoma ntle le dikgokaganyo tša megala...">
+<!ENTITY prefOfflineButton.accesskey "D">

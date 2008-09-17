@@ -1,0 +1,22 @@
+<!ENTITY pluginWizard.title "Tirelo ya Khwetšo ya go Pholakagare">
+<!ENTITY pluginWizard.firstPage.title "O amogetšwe go &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; gabjale le lekola dipholakagare tšeo di lego gona...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Dibulwa tša Pholakagare tšeo di Lego Gona">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Dipholakagare tše di latelago di gona:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Kgotla Latela go tsenya dipolakagare tše.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Dipholakagare tše dingwe di ka nyaka tshedimošo ya tlaleletšo go tšwa go wena ka nako ya go di tsenya.">
+
+<!ENTITY pluginWizard.licensePage.title "Dilaesense tša Pholakagare">
+<!ENTITY pluginWizard.licensePage.accept.label "Ke a dumela.">
+<!ENTITY pluginWizard.licensePage.deny.label "Ga ke dumele (pholakagare e ka se tsenywe).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "Tsenya Dipholakagare">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; le tsenya dipholakagare...">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; le feditše go tsenya dipholakagare tšeo di lahlegilego:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Hwetša ka botlalo ka ga Dipholakagare goba hwetša dipholakagare tše di sego gona ka diatla.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; e swanetše go thongwa leswa gore dipholakagare di šome.">
+

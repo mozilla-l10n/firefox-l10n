@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Dipeakanyo tša Akhaonte">
+<!ENTITY accountSettingsDesc.label "Akhaonte ye e latelago ke ya go ikgetha.  Ga go na boitsebišo bjo bo nyalelanago le yona.">
+<!ENTITY accountName.label "Akhaonte Leina:">
+<!ENTITY accountName.accesskey "L">
+<!ENTITY messageStorage.label "Poloko ya Molaetša">
+<!ENTITY emptyTrashOnExit.label "Tšhollela Dilahlwa ge o Etšwa">
+<!ENTITY emptyTrashOnExit.accesskey "t">
+<!ENTITY localPath.label "Tšhupamegala ya tikologo:">
+<!ENTITY localPath.accesskey "T">
+<!ENTITY localFolderPicker.label "Kgetha Tšhupamegala ya tikologo">
+<!ENTITY browseFolder.label "Fetleka...">
+<!ENTITY browseFolder.accesskey "F">

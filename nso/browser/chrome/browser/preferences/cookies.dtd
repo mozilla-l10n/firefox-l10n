@@ -1,0 +1,30 @@
+<!ENTITY window.width "36em">
+
+<!ENTITY cookiesonsystem.label "Melaetša ye e latelago e beilwe ka khomphuthareng ya gago:">
+<!ENTITY cookiename.label "Leina la Molaetša">
+<!ENTITY cookiedomain.label "Saete">
+<!ENTITY button.removecookie.label "Šuthiša Molaetša">
+<!ENTITY button.removecookie.accesskey "Š">
+<!ENTITY button.removeallcookies.label "Šuthiša Melaetša Ka moka">
+<!ENTITY button.removeallcookies.accesskey "M">
+
+<!ENTITY props.name.label "Leina:">
+<!ENTITY props.value.label "Dikagare:">
+<!ENTITY props.domain.label "Monggae:">
+<!ENTITY props.path.label "Tsela:">
+<!ENTITY props.secure.label "Romela go:">
+<!ENTITY props.expires.label "Felela:">
+
+<!ENTITY window.title "Melaetša">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Nyaka:">
+<!ENTITY filter.accesskey "N">
+<!ENTITY clear.label "Hlwekiša">
+<!ENTITY clear.accesskey "l">
+
+<!ENTITY button.close.label "Tswalela">
+<!ENTITY button.close.accesskey "T">
+

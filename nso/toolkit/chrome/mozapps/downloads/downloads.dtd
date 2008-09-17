@@ -1,0 +1,46 @@
+<!ENTITY window.width "400">
+<!ENTITY window.height "300">
+
+<!ENTITY done.label "Dirilwe">
+<!ENTITY canceled.label "Khansetšwe">
+<!ENTITY installing.label "Ya lokela...">
+
+<!ENTITY starting.label "Ya thoma...">
+<!ENTITY failed.label "Paletšwe">
+
+<!ENTITY downloads.title "Dibulwa">
+
+<!ENTITY cmd.pause.label "Khutša">
+<!ENTITY cmd.pause.accesskey "K">
+<!ENTITY cmd.resume.label "Thoma gape">
+<!ENTITY cmd.resume.accesskey "T">
+<!ENTITY cmd.cancel.label "Khansela">
+<!ENTITY cmd.cancel.accesskey "K">
+<!ENTITY cmd.show.label "Bula Foltara ya go Bolokela">
+<!ENTITY cmd.show.labelMac "Show in Finder">
+<!ENTITY cmd.show.accesskey "F">
+<!ENTITY cmd.show.accesskeyMac "F">
+<!ENTITY cmd.open.label "Bula">
+<!ENTITY cmd.open.accesskey "B">
+<!ENTITY cmd.openWith.label "Bula Ka...">
+<!ENTITY cmd.openWith.accesskey "a">
+<!ENTITY cmd.retry.label "Leka gape">
+<!ENTITY cmd.retry.accesskey "L">
+<!ENTITY cmd.remove.label "Tloša">
+<!ENTITY cmd.remove.accesskey "l">
+<!ENTITY cmd.properties.label "Diponagalo">
+<!ENTITY cmd.properties.accesskey "a">
+<!ENTITY cmd.info.commandKey "i">
+
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close2.commandKey "j">
+<!ENTITY cmd.close2Unix.commandKey "y">
+<!ENTITY cmd.cleanUp.label "Hlwekiša">
+<!ENTITY cmd.cleanUp.tooltip "Tloša dibulwa tše di feditšwego, khansetšwego le tše di paletšwego go tšwa mo lenaneong">
+<!ENTITY cmd.cleanUp.accesskey "H">
+
+<!ENTITY closeWhenDone.label "Tswalela ge dibulwa di feditše">
+<!ENTITY closeWhenDone.tooltip "Tswalela lefasetere la Dibulwa ge difaele ka moka di feditše go bulwa">
+
+<!ENTITY filesSavedTo.label "Difaele ka moka di butšwe go:">
+<!ENTITY showFolder.label "Laetša Foltara ye">

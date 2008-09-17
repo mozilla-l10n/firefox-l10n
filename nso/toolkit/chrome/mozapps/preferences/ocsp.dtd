@@ -1,0 +1,11 @@
+<!ENTITY window.width "38em">
+
+<!ENTITY ocspDialog.title "Kgonthišišo">
+<!ENTITY validation.ocsp.description "&brandShortName; e ka šomiša Prothokholo ya Seteithase ya Setifikheiti sa Kgokaganyo ya Megala ya go šoma (OCSP) go kgonthišiša disetifikheiti. Beakanya &brandShortName; go šomiša OCSP ka tsela ye e latelago:">
+<!ENTITY disableOCSP.label "O se ke wa šomiša OCSP go netefatša setifikheiti">
+<!ENTITY certOCSP.label "Šomiša OCSP go netefatša fela disetifikheiti tšeo di hlaolago tirelo ya OCSP go URL">
+<!ENTITY proxyOCSP.label "Šomiša OCSP go netefatša disetifikheiti ka moka o šomiša URL ye le mosaeni:">
+<!ENTITY serviceURL.label "Tirelo ya URL:">
+<!ENTITY serviceURL.accesskey "T">
+<!ENTITY signingCA.label "Mosaena-Phetolo:">
+<!ENTITY signingCA.accesskey "M">

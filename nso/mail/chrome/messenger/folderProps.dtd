@@ -1,0 +1,98 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY folderProps.windowtitle.label "Dipharologantšhi">
+
+<!ENTITY generalInfo.label "Tshedimošo-kakaretšo">
+<!ENTITY folderCharsetTab.label "Phetošo ya Tlhaka ya Tifolete:">
+<!ENTITY folderCharsetTab.accesskey "P">
+<!ENTITY folderCharsetOverride.label "Diriša tifolete go melaetša ka moka yeo e le go ka gare ga folthara (peakanyo le khwetšo ya othomethiki ya phetošo ya tlhaka ya melaetša e tla hlokomologa)">
+<!ENTITY folderCharsetOverride.accesskey "D">
+<!ENTITY folderRebuildSummaryFile.label "Rebuild Index">
+<!ENTITY folderRebuildSummaryFile.accesskey "R">
+<!ENTITY folderRebuildSummaryFileTip.label "Rebuild Summary File">
+
+
+<!ENTITY retention.label "Pholisi ya Tshwaro">
+<!ENTITY retentionUseDefault.label "Šomiša sebara ditifolete">
+<!ENTITY retentionUseDefault.accesskey "d">
+<!ENTITY days.label "matšatši">
+<!ENTITY daysOld.label "bokgale bja matšatši">
+<!ENTITY message.label "melaetša">
+<!ENTITY retentionCleanup.label "Go hwetša gape sekgoba sa tisiki, melaetša ya kgale e ka phumulelwa ruri">
+<!ENTITY retentionKeepMsg.label "Phumula melaetša go feta">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Se phumule melaetša efe le efe">
+<!ENTITY retentionKeepAll.accesskey "M">
+<!ENTITY retentionKeepNew.label "Phumula ka moka eupša e se go ya mafelelo">
+<!ENTITY retentionKeepNew.accesskey "m">
+<!ENTITY retentionKeepUnread.label "Ka mehla phumula melaetša yeo e badilwego">
+<!ENTITY retentionKeepUnread.accesskey "m">
+
+<!ENTITY folderOfflineTab.label "Megala ya kgokaganyo ga e šome">
+<!ENTITY folderCheckForNewMessages.label "Lekola folthara ye go e šomišetša melaetša e meswa">
+<!ENTITY folderCheckForNewMessages.accesskey "L">
+
+<!ENTITY offlineFolder.check.label "Kgetha folthara ye go e šomišetša ge magala ya kgokaganyo e sa šome">
+<!ENTITY offlineFolder.check.accesskey "K">
+<!ENTITY offlineFolder.button.label "Laolla Gabjale">
+<!ENTITY offlineFolder.button.accesskey "L">
+
+<!ENTITY selectofflineNewsgroup.check.label "Kgetha sehlophataba se go se šomišetša ge megala ya kgokaganyo e sa šome">
+<!ENTITY selectofflineNewsgroup.check.accesskey "h">
+<!ENTITY UseDefaultofflineNewsgroup.check.label "Šomiša tifolete go tšwa go dipeakanyo tša diakhaonte ">
+<!ENTITY offlineNewsgroup.button.label "Laolla Gabjale">
+<!ENTITY offlineNewsgroup.button.accesskey "L">
+
+<!ENTITY folderProps.information.label "Tshedimošo:">
+<!ENTITY folderProps.name.label "Leina:">
+<!ENTITY folderProps.name.accesskey "L">
+
+<!ENTITY folderSharingTab.label "Abelana">
+<!ENTITY privilegesDesc.label "Abelana se le difolthara tše dingwe tšeo di nago le bašomiša dikgokagano gomme o bee menyetla ya phihlelelo">
+<!ENTITY privileges.button.label "Menyetla...">
+<!ENTITY privileges.button.accesskey "M">
+<!ENTITY permissionsDesc.label "O na le ditumelelo tše latelago:">
+<!ENTITY folderType.label "Mohuta wa Folthara:">
+
+<!ENTITY folderQuotaTab.label "Lekanego">
+<!ENTITY folderQuotaRoot.label "Modu wa tše Lekanego:">
+<!ENTITY folderQuotaUsage.label "Tšhomišo:">
+<!ENTITY folderQuotaStatus.label "Boemo:">

@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Tlhamo &amp; Go romela">
+<!ENTITY addressingGroupTitle.label "Go romela">
+<!ENTITY addressingText.label "Ge o nyaka diaterese:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "Šomiša ditlhaolo tša ka tša sebara ya klobale ya LDAP go akhaonte ye">
+<!ENTITY useGlobal.accesskey "Š">
+<!ENTITY editDirectories.label "Rulaganya Ditšhupamegala...">
+<!ENTITY editDirectories.accesskey "R">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Šomiša mohuta wa go fapana wa sebara ya LDAP:">
+<!ENTITY directories.accesskey "d">
+<!-- am-addressing.xul -->
+
+
+<!ENTITY compositionGroupTitle.label "Tlhamo">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Hlama melaetša go fomete ya HTML">
+<!ENTITY useHtml.accesskey "H">
+<!ENTITY autoQuote.label "Ka mokgwa wa othomethiki tsopola molaetša wa mathomo ge o fetola">
+<!ENTITY autoQuote.accesskey "t">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "Gomme,">
+<!ENTITY then.accesskey "g">
+<!ENTITY aboveQuote.label "thoma phetolo ya ka ka godimo ga setsopolwa">
+<!ENTITY belowQuote.label "thoma phetolo ya ka ka fase ga setsopolwa">
+<!ENTITY selectAndQuote.label "kgetha setsopolwa">
+<!ENTITY place.label "gomme bea mosaeno wa ka">
+<!ENTITY place.accesskey "b">
+<!ENTITY belowText.label "ka fase ga setsopolwa (go šišintšwe)">
+<!ENTITY aboveText.label "ka fase ga phetolo ya ka (ka godimo ga setsopolwa sa ka)">

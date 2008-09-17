@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Dipeakanyo">
+<!ENTITY security.caption "Tšhireletšo le Netefatšo">
+<!ENTITY serverName.label "Leina la Sebara:">
+<!ENTITY serverName.accesskey "L">
+<!ENTITY serverDescription.label "Tlhaloso:">
+<!ENTITY serverDescription.accesskey "T">
+<!ENTITY serverPort.label "Sehlomelo:">
+<!ENTITY serverPort.accesskey "S">
+<!ENTITY alwaysUseUsername.label "Šomiša leina le lentšuphetišo">
+<!ENTITY alwaysUseUsername.accesskey "Š">
+<!ENTITY userName.label "Leina Tirišo:">
+<!ENTITY userName.accesskey "š">
+<!ENTITY isSecure.label "Šomiša kgokagano ye e šireletšegilego:">
+<!ENTITY neverSecure.label "Aowa">
+<!ENTITY neverSecure.accesskey "A">
+<!ENTITY sometimesSecure.label "TLS, ge e le gona">
+<!ENTITY sometimesSecure.accesskey "e">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "Sebara ya SMTP">
+<!ENTITY serverPortDefault.label "Tifolete:">

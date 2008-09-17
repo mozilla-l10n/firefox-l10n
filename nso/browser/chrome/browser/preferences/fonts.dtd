@@ -1,0 +1,71 @@
+<!ENTITY fontsDialog.title "Difonte">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "Fonts for:">
+<!ENTITY language.accesskey "F">
+
+<!ENTITY size.label "Saese:">
+<!ENTITY size.accesskey1 "z">
+<!ENTITY size.accesskey2 "e">
+
+<!ENTITY proportional.label "Dikamagano:">
+<!ENTITY proportional.accesskey "D">
+
+<!ENTITY serif.label "Serif:">
+<!ENTITY serif.accesskey "S">
+<!ENTITY sans-serif.label "Sans-serif:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "Sekgobatee:">
+<!ENTITY monospace.accesskey "S">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY fantasy.label "Boikgopolelo:">
+<!ENTITY fantasy.accesskey "B">
+<!ENTITY cursive.label "Thogako:">
+<!ENTITY cursive.accesskey "T">
+
+<!ENTITY fontsize.units "diphiksele">
+
+<!ENTITY font.langGroup.latin1 "Bodikela">
+<!ENTITY font.langGroup.latin2 "Bogare bja Europa">
+<!ENTITY font.langGroup.japanese "SeJapane">
+<!ENTITY font.langGroup.trad-chinese "Setšhaena sa Setšo (Sethaiwane)">
+<!ENTITY font.langGroup.simpl-chinese "Setšhaena sa go Nolofaditšwa">
+<!ENTITY font.langGroup.trad-chinese-hk "Setšhaena sa Setšo (Hong Kong)">
+<!ENTITY font.langGroup.korean "Sekorea">
+<!ENTITY font.langGroup.cyrillic "Sesiriki">
+<!ENTITY font.langGroup.baltic "Sebalthiki">
+<!ENTITY font.langGroup.el "Segerika">
+<!ENTITY font.langGroup.turkish "SeTurkish">
+<!ENTITY font.langGroup.unicode "Dipolelo tše Dingwe">
+<!ENTITY font.langGroup.user-def "Modiriši o Hlathollotšwe">
+<!ENTITY font.langGroup.thai "SeThai">
+<!ENTITY font.langGroup.hebrew "Seheberu">
+<!ENTITY font.langGroup.arabic "Searapo">
+<!ENTITY font.langGroup.devanagari "SeDevanagari">
+<!ENTITY font.langGroup.tamil "SeTamil">
+<!ENTITY font.langGroup.armenian "SeArmenia">
+<!ENTITY font.langGroup.bengali "SeBengali">
+<!ENTITY font.langGroup.canadian "Silabari ya Canada yeo e Kopantšwego">
+<!ENTITY font.langGroup.ethiopic "SeEthiopia">
+<!ENTITY font.langGroup.georgian "SeGeorgia">
+<!ENTITY font.langGroup.gujarati "SeGujarati">
+<!ENTITY font.langGroup.gurmukhi "SeGurmukhi">
+<!ENTITY font.langGroup.khmer "SeKhmer">
+<!ENTITY font.langGroup.malayalam "SeMalayalam">
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Minimum font size:">
+<!ENTITY minSize.accesskey "o">
+<!ENTITY minSize.none "Ga go selo">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Serif">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+
+<!ENTITY allowPagesToUse.label "Allow pages to choose their own fonts, instead of my selections above">
+<!ENTITY allowPagesToUse.accesskey "A">
+
+<!ENTITY languages.customize.Charset.grouplabel "Phetošo ya Tlhaka">
+<!ENTITY languages.customize.DefaultCharset.label "Phetošo ya Tlhaka ya Tifolete:">
+<!ENTITY languages.customize.DefaultCharset.accesskey "P">

@@ -1,0 +1,76 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY threadColumn.label "Garane">
+<!ENTITY senderColumn.label "Moromedi">
+<!ENTITY recipientColumn.label "Moamogedi">
+<!ENTITY subjectColumn.label "Hlogotaba">
+<!ENTITY dateColumn.label "Tšatšikgwedi">
+<!ENTITY priorityColumn.label "Ketapele">
+<!ENTITY tagsColumn.label "Tags">
+<!ENTITY accountColumn.label "Akhaonte">
+<!ENTITY statusColumn.label "Boemo">
+<!ENTITY sizeColumn.label "Saese">
+<!ENTITY junkStatusColumn.label "Boemo bja Melaetša ye e sego bohlokwa">
+<!ENTITY linesColumn.label "Methaladi">
+<!ENTITY unreadColumn.label "Sa balwago ka go Garane">
+<!ENTITY totalColumn.label "Palomoka ka go Garane">
+<!ENTITY readColumn.label "Bala">
+<!ENTITY starredColumn.label "Starred">
+<!ENTITY locationColumn.label "Lefelo">
+<!ENTITY idColumn.label "Tatelano yeo e Amogetšwego">
+<!--Tooltips-->
+
+<!ENTITY columnChooser.tooltip "Kgotla go kgetha dikholomo go di bontšha">
+<!ENTITY threadColumn.tooltip "Kgotla go bontšha digarane tša melaetša">
+<!ENTITY senderColumn.tooltip "Kgotla go beakanya ka moromedi">
+<!ENTITY recipientColumn.tooltip "Kgotla go beakanya ka moamogedi">
+<!ENTITY subjectColumn.tooltip "Kgotla go beakanya ka hlogotaba">
+<!ENTITY dateColumn.tooltip "Kgotla go beakanya ka tšatšikgwedi">
+<!ENTITY priorityColumn.tooltip "Kgotla go beakanya ka ketapele">
+<!ENTITY tagsColumn.tooltip "Click to sort by tags">
+<!ENTITY accountColumn.tooltip "Kgotla go beakanya ka akhaonte">
+<!ENTITY statusColumn.tooltip "Kgotla go beakanya ka boemo">
+<!ENTITY sizeColumn.tooltip "Kgotla go beakanya ka saese">
+<!ENTITY junkStatusColumn.tooltip "Kgotla go beakanya ka boemo bja melaetša ye e sego bohlokwa">
+<!ENTITY unreadColumn.tooltip "Palo ya melaetša yeo e sa balwago ka gare ga garane">
+<!ENTITY totalColumn.tooltip "Palomoka ya melaetša ka gare ga garane">
+<!ENTITY readColumn.tooltip "Kgotla go beakanya ka go bala">
+<!ENTITY starredColumn.tooltip "Click to sort by star">
+<!ENTITY locationColumn.tooltip "Kgotla go beakanya ka lefelo">
+<!ENTITY idColumn.tooltip "Kgotla go beakanya ka tatelano yeo e amogetšwego">
+

@@ -1,0 +1,13 @@
+
+<!ENTITY prefWindow.titleWin "Dikgetho">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Dikganyogo">
+<!ENTITY prefWindow.styleWin "width: 44em; height: 38em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleUnix "width: 42em;">
+
+<!ENTITY paneGeneral.title "Kakaretšo">
+<!ENTITY paneDisplay.title "Bontšha">
+<!ENTITY paneComposition.title "Tlhamo">
+<!ENTITY paneAttachments.title "Dikgomaretšwa">
+<!ENTITY panePrivacy.title "Sephiri">
+<!ENTITY paneAdvanced.title "Gatetšego pele">

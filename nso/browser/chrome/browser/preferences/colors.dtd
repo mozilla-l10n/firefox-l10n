@@ -1,0 +1,22 @@
+<!ENTITY colorsDialog.title "Mebala">
+<!ENTITY window.width "38em">
+<!ENTITY window.macWidth "41em">
+
+<!ENTITY allowPagesToUse.label "Allow pages to choose their own colors, instead of my selections above">
+<!ENTITY allowPagesToUse.accesskey "A">
+
+<!ENTITY color "Sengwalwa le Bokamorago">
+<!ENTITY textColor.label "Sengwalwa:">
+<!ENTITY textColor.accesskey "s">
+<!ENTITY backgroundColor.label "Bokamorago:">
+<!ENTITY backgroundColor.accesskey "b">
+<!ENTITY useSystemColors.label "Šomiša mebala ya khomphuthara">
+<!ENTITY useSystemColors.accesskey "o">
+
+<!ENTITY underlineLinks.label "Thalela dikgokaganyi">
+<!ENTITY underlineLinks.accesskey "t">
+<!ENTITY links "Mebala ya Dikgokaganyi">
+<!ENTITY linkColor.label "Dikgokaganyi tše di sa Bulwago:">
+<!ENTITY linkColor.accesskey "d">
+<!ENTITY visitedLinkColor.label "Dikgokaganyi tše di Butšwego:">
+<!ENTITY visitedLinkColor.accesskey "b">

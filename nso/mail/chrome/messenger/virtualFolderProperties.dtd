@@ -1,0 +1,17 @@
+<!ENTITY virtualFolderProperties.title "Folthara ya Nyaka yeo e Bolokilwego e Mpsha">
+<!ENTITY name.label "Leina:">
+<!ENTITY name.accesskey "l">
+<!ENTITY description.label "Hlama bjalo ka seka-folthara sa:">
+<!ENTITY description.accesskey "H">
+<!ENTITY searchCriteriaText.label "Fetola tsela ya go nyaka yeo e šomišeditšwego nyaka ye e bolokilwego:">
+<!ENTITY searchCriteriaButton.label "Tsela ya go Nyaka...">
+<!ENTITY searchCriteriaButton.accesskey "T">
+
+<!ENTITY searchTermCaption.label "Bopa tsela ya go nyaka yeo e šomišeditšwego folthara ya nyaka yeo e bolokilwego: ">
+
+<!ENTITY folderSelectionCaption.label "Kgetha difolthara tšeo o tla go di nyaka: ">
+<!ENTITY chooseFoldersButton.label "Kgetha...">
+<!ENTITY chooseFoldersButton.accesskey "g">
+
+<!ENTITY searchOnline.label "Nyaka Kgokagano ya megala (Efa dipoelo tša kaonafatšo tša IMAP le difolthara tša Ditaba eupša e oketša nako go bula folthara)">
+<!ENTITY searchOnline.accesskey "K">

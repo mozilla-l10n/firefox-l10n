@@ -1,0 +1,19 @@
+<!ENTITY cutCmd.label "Ripa">
+<!ENTITY cutCmd.accesskey "a">
+<!ENTITY copyCmd.label "Khopa">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Kgomaretša">
+<!ENTITY pasteCmd.accesskey "k">
+<!ENTITY undoCmd.label "Dirolla">
+<!ENTITY undoCmd.accesskey "d">
+<!ENTITY selectAllCmd.label "Kgetha ka Moka">
+<!ENTITY selectAllCmd.accesskey "k">
+<!ENTITY deleteCmd.label "Phumula">
+<!ENTITY deleteCmd.accesskey "p">
+<!ENTITY spellAddToDictionary.label "Add to dictionary">
+<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellEnable.label "Spell check this field">
+<!ENTITY spellEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(No spelling suggestions)">
+<!ENTITY spellDictionaries.label "Languages">
+<!ENTITY spellDictionaries.accesskey "l">

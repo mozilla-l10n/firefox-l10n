@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Dipeakanyo tša Akhaonte yeo e Gatetšego pele">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "Dipeakanyo tša Sebara ya IMAP yeo e Gatetšego pele">
+<!ENTITY serverDirectory.label "Sebara ya IMAP tšhupamegala:">
+<!ENTITY serverDirectory.accesskey "t">
+<!ENTITY usingSubscription.label "Laetša difoltara tše ngwadišitšwego feela">
+<!ENTITY usingSubscription.accesskey "a">
+<!ENTITY dualUseFolders.label "Dithekga sebara difoltara tšeo di nago le difoltara tše nnyane le melaetša">
+<!ENTITY dualUseFolders.accesskey "d">
+<!ENTITY useIdle.label "Šomiša taolo ya IDLE ge sebara e na le yona">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Palo ya godimo ya dikgokagano tša sebara go khatšhe">
+<!ENTITY maximumConnectionsNumber.accesskey "P">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY personalNamespace.label "Dikgobaina tša sephiri:">
+<!ENTITY personalNamespace.accesskey "D">
+<!ENTITY publicNamespace.label "Setšhaba (abelanwa):">
+<!ENTITY publicNamespace.accesskey "t">
+<!ENTITY otherUsersNamespace.label "Badiriši ba bangwe:">
+<!ENTITY otherUsersNamespace.accesskey "B">
+<!ENTITY overrideNamespaces.label "Dumelela sebara go laola dikgobaina tše">
+<!ENTITY overrideNamespaces.accesskey "D">
+<!ENTITY pop3Desc.label "Ge o bula molaetša wa pop ya sebara ye, šomiša foltara ye e latelago go molaetša o mofsa:">
+<!ENTITY folderStorage.label "Moo o ka bolokago molaetša">
+<!ENTITY globalInbox.label "Tše lego ka lepokising tša klobale (Akhaonte ya Difoltara tša Tikologo)">
+<!ENTITY globalInbox.accesskey "T">
+<!ENTITY accountDirectory.label "Tše lego ka lepokising tša akhaonte ya sebara ye">
+<!ENTITY accountDirectory.accesskey "E">
+<!ENTITY deferToServer.label "Tše lego ka lepokising tša akhaonte ya go fapana">
+<!ENTITY deferToServer.accesskey "F">
+<!ENTITY deferGetNewMail.label "Akaretša sebara ye ge o hwetša molaetša o mofsa">
+<!ENTITY deferGetNewMail.accesskey "A">

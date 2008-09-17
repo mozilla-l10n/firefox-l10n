@@ -1,0 +1,47 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "Morago">
+<!ENTITY backButton.accesskey "M">
+<!ENTITY backButton.tooltip "Eya morago ka letlakala le tee">
+<!ENTITY forwardButton.label "Pele">
+<!ENTITY forwardButton.accesskey "P">
+<!ENTITY forwardButton.tooltip "Eya pele ka letlakala le tee">
+<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "Gae">
+<!ENTITY homeButton.tooltip "Eya go Letlakala go Thoma Thušo">
+<!ENTITY printButton.label "Gatiša">
+<!ENTITY printButton.tooltip "Gatiša letlakala le">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY throbberItem.title "Tšhupetša Tiragalo">
+<!ENTITY throbber.tooltip "Eya go Thuša mo go karolong ya Thušo">
+
+<!ENTITY searchtab.label "Nyaka">
+<!ENTITY searchtab.accesskey "N">
+<!ENTITY toctab.label "Diteng">
+<!ENTITY toctab.accesskey "D">
+
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomResetCmd.commandkey "0">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "Ka mehla e Godimo">
+<!ENTITY zLevel.accesskey "G">
+
+<!ENTITY textZoomReduceBtn.label "Fokotša Saese ya Sengwalwa">
+<!ENTITY textZoomReduceBtn.accesskey "F">
+<!ENTITY textZoomEnlargeBtn.label "Oketša Saese ya Sengwalwa">
+<!ENTITY textZoomEnlargeBtn.accesskey "O">

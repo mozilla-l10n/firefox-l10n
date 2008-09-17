@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title "Dipharologantšho tša Tlabakelo">
+
+<!ENTITY feedFolder.label "Boloka Dingwalwa ka gare ga: ">
+<!ENTITY feedFolder.accesskey "B">
+
+<!ENTITY feedLocation.label "Tlabakela URL: ">
+<!ENTITY feedLocation.accesskey "T">
+
+<!ENTITY choosethisfolder.label "kgetha foltara ye">
+
+<!ENTITY quickMode.label "Laetša kakaretšo ya sengwalwa e sego go hlahlela letlakala la wepe">
+<!ENTITY quickMode.accesskey "a">
+
+<!ENTITY copyLinkCmd.label "Khopa Lefelo la Kgokaganyo">
+<!ENTITY copyLinkCmd.accesskey "K">
+
+<!ENTITY pasteLinkCmd.label "Paste">
+<!ENTITY pasteLinkCmd.accesskey "P">

@@ -1,0 +1,8 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "Go lokelwa ga Mananeo a khomphuthara">
+<!ENTITY warningText2.label "Mananeo a khomphuthara ao a lego kotsi kudu a ka kweša khomphuthara ya gago bohloko goba go tshela sephiri sa gago.">
+<!ENTITY warningText3.label "O swanetše go lokela fela mananeo a khomphuthara go tšwa go methopo yeo o e tshephago.">
+
+<!ENTITY from.label "go tšwa go:">
+

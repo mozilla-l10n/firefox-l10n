@@ -1,0 +1,58 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Peakanyo ya Letlakala">
+
+<!ENTITY basic.tab "Fomete &amp; Dikgetho">
+
+<!ENTITY formatGroup.label "Sebopego">
+
+<!ENTITY orientation.label "Tšhupetšo:">
+<!ENTITY portrait "Seswantšho">
+<!ENTITY landscape "Ponagalo ya naga">
+
+<!ENTITY scale.label "Sekala:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Šošobanya go Lekanya Bophara bja Letlakala">
+
+<!ENTITY optionsGroup.label "Dikgetho">
+
+<!ENTITY printBG.label "Gatiša Bokamorago (mebala, &amp;empo; diswantšho)">
+
+<!ENTITY advanced.tab "Mellwane &amp; Bokagodimo/Bokatlase">
+
+<!ENTITY marginGroup.label "Mellwane (#1)">
+<!ENTITY marginUnits.inches "dinoko">
+<!ENTITY marginUnits.metric "dimilimetara">
+<!ENTITY marginTop.label "Bogodimo:">
+<!ENTITY marginBottom.label "Botlase:">
+<!ENTITY marginLeft.label "Ntsogošo:">
+<!ENTITY marginRight.label "La go ja:">
+
+<!ENTITY headerFooter.label "Bokagodimo &amp; Bokatlase">
+
+<!ENTITY hfLeft.label "Ntsogošo:">
+<!ENTITY hfCenter.label "Gare:">
+<!ENTITY hfRight.label "La go ja:">
+<!ENTITY headerLeft.tip "Hlogo ka go ntsogošo">
+<!ENTITY headerCenter.tip "Hlogo ya gare">
+<!ENTITY headerRight.tip "Hlogo ka go la go ja">
+<!ENTITY footerLeft.tip "Bogomo go la ntsogošo">
+<!ENTITY footerCenter.tip "Bogomo bja gare">
+<!ENTITY footerRight.tip "Bogomo bja ka go la go ja">
+
+<!ENTITY hfTitle "Thaetlele">
+<!ENTITY hfTitle.code "[&amp;T]">
+<!ENTITY hfURL "URL">
+<!ENTITY hfURL.code "[&amp;U]">
+<!ENTITY hfDateAndTime "Tšatšikgwedi/Nako">
+<!ENTITY hfDateAndTime.code "&amp;D">
+<!ENTITY hfPage "Letlakala #">
+<!ENTITY hfPage.code "[&amp;P]">
+<!ENTITY hfPageAndTotal "Letlakala # of #">
+<!ENTITY hfPageAndTotal.code "[&amp;PT]">
+<!ENTITY hfBlank "--sekgala--">
+<!ENTITY hfCustom "Setlwaedi...">
+
+<!ENTITY customPrompt.title "Setlwaedi...">
+<!ENTITY customPrompt.prompt "Lokela sengwalwa sa gago sa hlogo/bogomo bja setlwaedi">

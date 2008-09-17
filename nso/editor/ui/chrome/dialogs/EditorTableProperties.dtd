@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title "Lenaneo la Dipharologantšho">
+<!ENTITY applyButton.label "Diriša">
+<!ENTITY applyButton.accesskey "D">
+<!ENTITY closeButton.label "Tswalela">
+<!ENTITY tableTab.label "Tafola">
+<!ENTITY cellTab.label "Disele">
+<!ENTITY tableRows.label "Methalo:">
+<!ENTITY tableRows.accessKey "M">
+<!ENTITY tableColumns.label "Dikholomo:">
+<!ENTITY tableColumns.accessKey "D">
+<!ENTITY tableHeight.label "Botelele:">
+<!ENTITY tableHeight.accessKey "L">
+<!ENTITY tableWidth.label "Bophara:">
+<!ENTITY tableWidth.accessKey "B">
+<!ENTITY tableBorderSpacing.label "Mellwane le Dikgoba">
+<!ENTITY tableBorderWidth.label "Mollwane:">
+<!ENTITY tableBorderWidth.accessKey "M">
+<!ENTITY tableSpacing.label "Dikgoba:">
+<!ENTITY tableSpacing.accessKey "D">
+<!ENTITY tablePadding.label "Tlatšo:">
+<!ENTITY tablePadding.accessKey "T">
+<!ENTITY tablePxBetwCells.label "diphikisele magareng ga disele">
+<!ENTITY tablePxBetwBrdrCellContent.label "diphikisele magareng ga mollwane wa sele le diteng">
+<!ENTITY tableAlignment.label "Peakanyo ya Tafola:">
+<!ENTITY tableAlignment.accessKey "P">
+<!ENTITY tableCaption.label "Khepošene:">
+<!ENTITY tableCaption.accessKey "N">
+<!ENTITY tableCaptionAbove.label "Tafola ya ka Godimo">
+<!ENTITY tableCaptionBelow.label "Tafola ya ka Fase">
+<!ENTITY tableCaptionLeft.label "Ntsogošo ya Tafola">
+<!ENTITY tableCaptionRight.label "La go ja la tafola">
+<!ENTITY tableCaptionNone.label "Ga go selo">
+<!ENTITY tableInheritColor.label "(E re mmala wa letlakala o laetše go phuleletša)">
+
+<!ENTITY cellPercent.label "phesente ya tafola">
+<!ENTITY cellSelection.label "Kgetho">
+<!ENTITY cellSelectCell.label "Sele">
+<!ENTITY cellSelectRow.label "Mothalo">
+<!ENTITY cellSelectColumn.label "Kholomo">
+<!ENTITY cellSelectNext.label "Latela">
+<!ENTITY cellSelectNext.accessKey "L">
+<!ENTITY cellSelectPrevious.label "Pele">
+<!ENTITY cellSelectPrevious.accessKey "P">
+<!ENTITY cellApplyBeforeMove.label "Diriša diphetogo pele ga go fetoša kgetho">
+<!ENTITY cellKeepCurrentData.label "Boloka dipeakanyo tša bjale">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label "Dipeakanyo tša bjale di tla dirišwa">
+<!ENTITY applyBeforeChange2.label "pele ga go fetoša kgetho.">
+<!ENTITY cellRowSpan.label "Paralatšo ya Mothalo:">
+<!ENTITY cellColSpan.label "Paralatšo ya Kholomo:">
+<!ENTITY cellContentAlignment.label "Peakanyo ya Diteng">
+<!ENTITY cellHorizontal.label "Rapamego:">
+<!ENTITY cellHorizontal.accessKey "M">
+<!ENTITY cellVertical.label "Tsepamego:">
+<!ENTITY cellVertical.accessKey "T">
+<!ENTITY cellStyle.label "Mohuta wa Sele:">
+<!ENTITY cellStyle.accessKey "M">
+<!ENTITY cellNormal.label "Tlwaelo">
+<!ENTITY cellHeader.label "Hlogo">
+<!ENTITY cellTextWrap.label "Sephuthelwana sa Sengwalwa:">
+<!ENTITY cellTextWrap.accessKey "S">
+<!ENTITY cellWrap.label "Phuthela">
+<!ENTITY cellNoWrap.label "Se ke wa phuthela">
+<!ENTITY cellAlignTop.label "Godimo">
+<!ENTITY cellAlignMiddle.label "Gare">
+<!ENTITY cellAlignBottom.label "Fase">
+<!ENTITY cellAlignJustify.label "Lokafatša">
+<!ENTITY cellAlignAtChar.label "Go Tlhaka:">
+<!ENTITY cellInheritColor.label "(E re mmala wa tafola o laetše go phuleletša)">
+<!ENTITY cellUseCheckboxHelp.label "Šomiša ditšhekepokisi go laetša gore ke dipharologantšho dife tšeo di dirišwago go disele tše kgethilwego">
+<!-- Used in both Table and Cell panels  -->
+
+<!ENTITY size.label "Saese">
+<!ENTITY pixels.label "diphikisele">
+<!ENTITY backgroundColor.label "Mmala wa Bokamorago:">
+<!ENTITY backgroundColor.accessKey "M">
+<!ENTITY AlignLeft.label "Ntsogošo">
+<!ENTITY AlignCenter.label "Gare">
+<!ENTITY AlignRight.label "La go ja">

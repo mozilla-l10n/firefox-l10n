@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Go bula le go Beakanya Melaetša">
+<!ENTITY MsgSelect.label "Dilo tšeo di Šomišwago ge Dikgokaganyo tša megala di sa šome">
+<!ENTITY MsgSyncDesc.label "Ge e ba o šetše o kgethile difolthara tša melaetša goba ditabakgoboko go di šomiša ge dikgokaganyo tša megala di sa šome, o ka di bula le/goba go di beakanya gonabjale. Go sego bjalo, šomiša konopi ya &quot;Kgetha&quot; go kgetha difolthara tša melaetša le ditabakgoboko go di šomiša ge kgokaganyo ya megala e sa šome.">
+<!ENTITY MsgSyncDirections.label "Bula le/goba beakanya tše di latelago:">
+<!ENTITY syncTypeMail.label "Romela melaetša">
+<!ENTITY syncTypeMail.accesskey "R">
+<!ENTITY syncTypeNews.label "Melaetša ya ditabakgoboko">
+<!ENTITY syncTypeNews.accesskey "M">
+<!ENTITY sendMessage.label "Romela melaetša yeo e sego ya romelwa">
+<!ENTITY sendMessage.accesskey "R">
+<!ENTITY workOffline.label "Šoma ntle le kgokaganyo ya megala ka morago ga ge go bula le/goba go beakanya go feditšwe">
+<!ENTITY workOffline.accesskey "Š">
+<!ENTITY selectButton.label "Hlaola...">
+<!ENTITY selectButton.accesskey "L">
+<!ENTITY MsgSelectDesc.label "Kgetha difolthara tša melaetša le ditabakgoboko go di šomiša ge kgokaganyo ya megala e sa šome.">
+<!ENTITY MsgSelectInd.label "Bula">
+<!ENTITY MsgSelectItems.label "Difolthara le Ditabakgoboko">

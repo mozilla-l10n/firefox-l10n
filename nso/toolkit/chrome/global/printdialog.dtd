@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Gatiša">
+
+<!ENTITY printDialog.title "Gatiša">
+
+<!ENTITY fpDialog.title "Boloka Faele">
+
+<!ENTITY fileCheck.label "Gatiša go Faele">
+<!ENTITY propertiesButton.label "Dipharologantšho...">
+<!ENTITY descText.label "Tlhaloso ya Kgatišo:">
+<!ENTITY printer.label "Kgatišo">
+<!ENTITY printerInput.label "Leina la Kgatišo:">
+
+<!ENTITY printrangeGroup.label "Bogolo bja Kgatišo">
+<!ENTITY allpagesRadio.label "Matlakala ka Moka">
+<!ENTITY rangeRadio.label "Matlakala">
+<!ENTITY frompageInput.label "go tšwa go">
+<!ENTITY topageInput.label "go ya go">
+<!ENTITY selectionRadio.label "Kgetho">
+
+<!ENTITY copies.label "Dikhopi">
+<!ENTITY numCopies.label "Palo ya dikhopi:">
+
+<!ENTITY printframeGroup.label "Gatiša Diforeimi">
+<!ENTITY aslaidoutRadio.label "Bjalo ka ge e adilwe sekirining">
+<!ENTITY selectedframeRadio.label "Foreimi ye e kgethilwego">
+<!ENTITY eachframesepRadio.label "Foreimi ye nngwe le ye nngwe ka go kgaogana">
+

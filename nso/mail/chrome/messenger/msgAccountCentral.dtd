@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label "E-poso">
+<!ENTITY readMsgsLink.label "Bala melaetša">
+<!ENTITY composeMsgLink.label "Ngwala molaetša o moswa">
+
+<!ENTITY newsSectionHdr.label "Ditabakgoboko">
+<!ENTITY subscribeNewsLink.label "Laola boingwadišo bja ditabakgoboko">
+
+<!ENTITY accountsSectionHdr.label "Accounts">
+<!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
+<!ENTITY settingsLink.label "Lebelela dipeakanyo tša akhaonte ye">
+<!ENTITY newAcctLink.label "Hlama akhaonte e mpsha">
+
+<!ENTITY advFeaturesSectionHdr.label "Dibopego tše Gatetšego pele">
+<!ENTITY searchMsgsLink.label "Nyaka melaetša">
+<!ENTITY filtersLink.label "Laola difilthara tša melaetša">
+<!ENTITY junkSettings.label "Dipeakanyo tša melaetša ye e sego bohlokwa">
+<!ENTITY offlineLink.label "Dipeakanyo tša dikgokaganyo tša megala ye e sa šomego">
+
+
+<!ENTITY rssSectionHdr.label "Ditaba tša RSS &amp;empo; Ditšhitišo">
+<!ENTITY subscibeRSS.label "Laola boingwadišo">
