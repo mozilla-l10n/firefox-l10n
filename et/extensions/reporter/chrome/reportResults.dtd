@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "Veebileht">
+<!ENTITY reportProblemType           "Probleemi tüüp">
+<!ENTITY reportDecsription           "Kirjeldus">
+<!ENTITY reportPlatform              "Platvorm">
+<!ENTITY reportProduct               "Toode">
+<!ENTITY reportoscpu                 "OS">
+<!ENTITY reportGecko                 "Gecko">
+<!ENTITY reportBuildConfig           "Build Config">
+<!ENTITY reportUseragent             "Kasutaja agent:">
+<!ENTITY reportLanguage              "Keel">
+<!ENTITY reportCharset               "Kodeering">
+<!ENTITY reportEmail                 "E-post">
+<!ENTITY error                       "Vea üksikasjad">
+<!ENTITY faultCode                   "Kood">
+<!ENTITY faultMessage                "Sõnum">

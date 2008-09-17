@@ -1,0 +1,7 @@
+<!ENTITY startDescription.label "Veebileht üritas ilma sinu loata avada hüpikakent. &brandShortName; sulges selle akna automaatselt. Kui &brandShortName; blokeerib sellised hüpikaknad, siis näed sa vastavat ikooni olekuribal.">
+
+<!ENTITY endDescription.label   "Sa võid klõpsata sellel ikoonil, et näha, millised veebilehed on &brandShortName; blokeerinud, ning lubada veebilehtedel hüpikaknaid avada, kui need on lehe korralikuks funktsioneerimiseks vajalikud.">
+
+<!ENTITY caption.label          "Hüpikakende blokeerimisest">
+
+<!ENTITY done.label             "Valmis">

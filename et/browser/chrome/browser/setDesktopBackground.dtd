@@ -1,0 +1,9 @@
+<!ENTITY position.label             "Positsioon:">
+<!ENTITY tile.label                 "Paanidena">
+<!ENTITY center.label               "Keskjoondatud">
+<!ENTITY stretch.label              "Keskjoondatud maksimeeritud">
+<!ENTITY preview.label              "Eelvaade">
+<!ENTITY color.label                "Värv:">
+<!ENTITY setDesktopBackground.title "Sea töölaua taustapildiks">
+<!ENTITY openDesktopPrefs.label     "Ava töölaua eelistused">
+<!ENTITY closeWindow.key            "W">

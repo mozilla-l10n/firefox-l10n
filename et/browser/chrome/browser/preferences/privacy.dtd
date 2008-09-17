@@ -1,0 +1,54 @@
+<!ENTITY history.label                "Ajalugu">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]   &rememberDaysAfter.label;
+-->
+<!ENTITY rememberDaysBefore.label     "Viimase">
+<!ENTITY rememberDaysBefore.accesskey "V">
+<!ENTITY rememberDaysAfter2.label     "päeva külastused peetakse meeles.">
+
+<!ENTITY rememberForms.label          "Sisestused vormidesse ja otsinguribale peetakse meeles">
+<!ENTITY rememberForms.accesskey      "S">
+
+<!ENTITY rememberDownloads.label      "Allalaadimised peetakse meeles">
+<!ENTITY rememberDownloads.accesskey  "A">
+
+
+<!ENTITY cookies.label                "Küpsised">
+
+<!ENTITY acceptCookies.label          "Küpsised lubatakse">
+<!ENTITY acceptCookies.accesskey      "K">
+
+<!ENTITY acceptThirdParty.label       "Kolmanda osapoole küpsised lubatakse">
+<!ENTITY acceptThirdParty.accesskey   "o">
+
+<!ENTITY keepUntil.label              "Säilitatakse kuni:">
+<!ENTITY keepUntil.accesskey          "i">
+
+<!ENTITY expire.label                 "nad aeguvad">
+<!ENTITY close.label                  "&brandShortName; suletakse">
+<!ENTITY askEachTime.label            "küsitakse iga kord">
+
+<!ENTITY cookieExceptions.label       "Erandid...">
+<!ENTITY cookieExceptions.accesskey   "E">
+
+<!ENTITY showCookies.label            "Näita küpsiseid...">
+<!ENTITY showCookies.accesskey        "N">
+
+
+<!ENTITY privateData.label            "Privaatsed andmed">
+
+<!ENTITY alwaysClear.label            "&brandShortName;i sulgemisel kustutatakse alati privaatsed andmed">
+<!ENTITY alwaysClear.accesskey        "u">
+
+<!ENTITY askBeforeClear.label         "Küsitakse enne privaatsete andmete kustutamist">
+<!ENTITY askBeforeClear.accesskey     "d">
+
+<!ENTITY clearDataSettings.label      "Sätted...">
+<!ENTITY clearDataSettings.accesskey  "t">
+
+<!ENTITY clearDataNow.label           "Kustuta kohe...">
+<!ENTITY clearDataNow.label2          "Kustuta kohe">
+<!ENTITY clearDataNow.accesskey       "h">

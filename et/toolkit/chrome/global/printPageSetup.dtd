@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Lehekülje sätted">
+
+<!ENTITY basic.tab "Formaat ja sätted">
+
+<!ENTITY formatGroup.label "Formaat">
+
+<!ENTITY orientation.label "Asend:">
+<!ENTITY portrait "Püstpaigutus">
+<!ENTITY landscape "Rõhtpaigutus">
+
+<!ENTITY scale.label "Mõõtkava:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Mahutatakse lehekülje laiusele">
+
+<!ENTITY optionsGroup.label "Sätted">
+
+<!ENTITY printBG.label "Tausta printimine (värvid ja pildid)">
+
+<!ENTITY advanced.tab "Veerised ja päis/jalus">
+
+<!ENTITY marginGroup.label "Veerised (#1)">
+<!ENTITY marginUnits.inches "tollides">
+<!ENTITY marginUnits.metric "millimeetrites">
+<!ENTITY marginTop.label "Ülemine:">
+<!ENTITY marginBottom.label "Alumine:">
+<!ENTITY marginLeft.label "Vasak:">
+<!ENTITY marginRight.label "Parem:">
+
+<!ENTITY headerFooter.label "Päised ja jalused">
+
+<!ENTITY hfLeft.label "Vasak:">
+<!ENTITY hfCenter.label "Keskmine:">
+<!ENTITY hfRight.label "Parem:">
+<!ENTITY headerLeft.tip "Vasak päis">
+<!ENTITY headerCenter.tip "Keskmine päis">
+<!ENTITY headerRight.tip "Parem päis">
+<!ENTITY footerLeft.tip "Vasak jalus">
+<!ENTITY footerCenter.tip "Keskmine jalus">
+<!ENTITY footerRight.tip "Parem jalus">
+
+<!ENTITY hfTitle "Pealkiri">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "Kuupäev/aeg">
+<!ENTITY hfPage "Lehekülje nr">
+<!ENTITY hfPageAndTotal "Lehekülg #/#">
+<!ENTITY hfBlank "--tühi--">
+<!ENTITY hfCustom "Kohandatud...">
+
+<!ENTITY customPrompt.title "Kohandatud...">
+<!ENTITY customPrompt.prompt "Sisesta oma päise/jaluse tekst">

@@ -1,0 +1,9 @@
+<!ENTITY caption.label     "Blokeeritud hüpikaknad">
+
+<!ENTITY intro.label       "Järgnevate veebilehtede soovimatute hüpikakende kuvamine keelati:">
+
+<!ENTITY done.label        "Valmis">
+<!ENTITY done.accesskey    "V">
+
+<!ENTITY unblock.label     "Luba see veebileht">
+<!ENTITY unblock.accesskey "L">

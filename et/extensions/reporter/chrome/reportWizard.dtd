@@ -1,0 +1,58 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title                      "Katkisest veebilehest teatamine">
+
+<!ENTITY privacyNotice.label                     "Privaatsusreeglid">
+<!ENTITY reportWizardPrivacy.description         "See tööriist lubab sul teavitada Evangelism'i tiimi veebilehtedest, mis ei tööta korralikult &brandShortName;iga, või sunnivad &brandShortName;i sulguma. See on sinu võimalus aidata meil tagada parim kogemus &brandShortName;i kasutajatele. Palun võta hetk aega ja loe, kuidas me kasutama seda infot, mille otsustasid meile saata.">
+<!ENTITY reportWizardMustAgree.description       "Jätkamiseks pead sa nõustuma privaatsusreeglitega.">
+
+<!ENTITY dontShowPrivacyStatement.label          "Olen privaatsusreeglid läbi lugenud ja nõustun nendega.">
+<!ENTITY dontShowPrivacyStatement.accesskey      "O">
+
+<!ENTITY reportForm.label                        "Täida aruanne">
+
+<!ENTITY reportForm.description                  "Kirjelda meile probleemi, millega kokku puutusid:">
+<!ENTITY reportForm.url.title                    "Veebilehe URL:">
+<!ENTITY reportForm.url.accesskey                "U">
+
+<!ENTITY reportForm.behind_login.title           "Veebileht on parooliga kaitstud">
+<!ENTITY reportForm.behind_login.accesskey       "p">
+
+<!ENTITY reportForm.problem_type.title           "Probleemi tüüp:">
+<!ENTITY reportForm.problem_type.accesskey       "t">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Vali üks...">
+
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+<!ENTITY reportForm.problem_type.item1.title     "Brauser pole toetatud">
+<!ENTITY reportForm.problem_type.item2.title     "Ei saa sisse logida">
+<!ENTITY reportForm.problem_type.item3.title     "Pluginat ei näidata">
+<!ENTITY reportForm.problem_type.item4.title     "Muu sisu puudub">
+<!ENTITY reportForm.problem_type.item5.title     "Käitumine vale">
+<!ENTITY reportForm.problem_type.item6.title     "Välimus vale">
+<!ENTITY reportForm.problem_type.item7.title     "Muu probleem">
+<!ENTITY reportForm.problem_type.item8.title     "Raskused puudega kasutajale">
+<!ENTITY reportForm.problem_type.item9.title     "Prinditud tulemus on vale">
+
+<!ENTITY reportForm.describe.title               "Kirjelda probleemi:">
+<!ENTITY reportForm.describe.accesskey           "d">
+
+<!ENTITY reportForm.platform.title               "Platvorm:">
+<!ENTITY reportForm.product.title                "Toode:">
+<!ENTITY reportForm.gecko.title                  "Gecko:">
+<!ENTITY reportForm.useragent.title              "Kasutaja agent:">
+<!ENTITY reportForm.language.title               "Keel:">
+
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+<!ENTITY reportForm.email.title                  "E-posti aadress (pole vajalik):">
+<!ENTITY reportForm.email.accesskey              "E">
+
+<!ENTITY reportForm.privacyPolicy.title          "Privaatsusreeglid">
+<!ENTITY reportForm.privacyPolicy.tooltip        "Vaata privaatsusreegleid">
+
+<!ENTITY reportResults.showDetail.title          "Kuva üksikasju">
+<!ENTITY reportResults.showDetail.accesskey      "K">
+
+<!ENTITY sendReport.label                        "Aruande saatmine">
+<!ENTITY sendReport.description                  "Aruande saatmine serverile...">
+
+<!ENTITY finish.label                            "Aruanne on saadetud">

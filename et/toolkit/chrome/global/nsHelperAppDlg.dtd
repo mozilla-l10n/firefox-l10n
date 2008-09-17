@@ -1,0 +1,43 @@
+<!ENTITY caption.label "Faili #1 avamine">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "Faili &quot;#3&quot; tüüp on #2 (#1); #4 ei tea, kuidas seda faili käsitleda. Faili asukoht:">
+<!ENTITY intro.noDesc.label "Faili #3 tüüp on #2; #4 ei tea, kuidas seda faili käsitleda. Faili asukoht:">
+
+<!ENTITY intro.attachment.label "Antud leht soovitab faili &quot;#3&quot; käsitleda kui manust. Faili tüüp on #2 (#1) ning selle asukoht on:">
+<!ENTITY intro.attachment.noDesc.label "Antud leht soovitab faili #3 käsitleda kui manust. Faili tüüp on #2 ning selle asukoht on:">
+
+<!ENTITY intro.sniffed.label "#4 tuvastas, et faili &quot;#3&quot; tüüp on tõenäoliselt #2 (#1). Faili asukoht:">
+<!ENTITY intro.sniffed.noDesc.label "#4 tuvastas, et faili &quot;#3&quot; tüüp on tõenäoliselt #2. Faili asukoht:">
+
+<!ENTITY prompt.label "Mida peaks #1 selle failiga tegema?">
+
+<!ENTITY alwaysHandle.label "Seda tüüpi failidega sooritatakse alati see toiming">
+<!ENTITY alwaysHandle.accesskey "S">
+
+<!ENTITY saveToDisk.label "Salvesta kettale">
+<!ENTITY saveToDisk.accesskey "S">
+
+<!ENTITY useSystemDefault.label "Ava vaikimisi rakendusega (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Ava see vaikimisi rakendusega">
+<!ENTITY useSystemDefault.accesskey "V">
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+
+<!ENTITY openUsing.label "Ava rakendusega">
+<!ENTITY openUsing.accesskey "r">
+
+<!ENTITY chooseApp.label "Vali...">
+<!ENTITY chooseApp.accesskey "L">
+
+<!ENTITY chooseAppFilePickerTitle "Vali abistav rakendus">
+
+<!ENTITY badApp "Rakendust (&quot;#1&quot;), mille valisid, ei leitud.  Kontrolli faili nime või vali mõni muu rakendus.">
+<!ENTITY badApp.title "Rakendust ei leitud">

@@ -1,0 +1,18 @@
+<!ENTITY  untitledTab               "(nimetu)">
+<!ENTITY  newTab.label              "Uus kaart">
+<!ENTITY  newTab.accesskey          "U">
+<!ENTITY  closeTab.label            "Sulge kaart">
+<!ENTITY  closeTab.accesskey        "S">
+<!ENTITY  closeOtherTabs.accesskey  "t">
+<!ENTITY  closeOtherTabs.label      "Sulge teised kaardid">
+<!ENTITY  reloadAllTabs.label       "Laadi kõik kaardid uuesti">
+<!ENTITY  reloadAllTabs.accesskey   "a">
+<!ENTITY  reloadTab.label           "Laadi kaart uuesti">
+<!ENTITY  reloadTab.accesskey       "i">
+<!ENTITY  listAllTabs.label         "Näita kõigi kaartide nimekirja">
+<!ENTITY  bookmarkAllTabs.label     "Lisa kõik kaardid järjehoidjatesse…">
+<!ENTITY  bookmarkAllTabs.accesskey "L">
+<!ENTITY  bookmarkThisTab.label     "Lisa see kaart järjehoidjatesse">
+<!ENTITY  bookmarkThisTab.accesskey "j">
+<!ENTITY  undoCloseTab.label        "Võta kaardi sulgemine tagasi">
+<!ENTITY  undoCloseTab.accesskey    "g">

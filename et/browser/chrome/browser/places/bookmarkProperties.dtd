@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                "Nimi:">
+<!ENTITY bookmarks.name.accesskey            "N">
+<!ENTITY bookmarks.location.label            "Asukoht:">
+<!ENTITY bookmarks.location.accesskey        "A">
+<!ENTITY bookmarks.keyword.label             "Võtmesõna:">
+<!ENTITY bookmarks.keyword.accesskey         "V">
+<!ENTITY bookmarks.description.label         "Kirjeldus:">
+<!ENTITY bookmarks.description.accesskey     "K">
+<!ENTITY bookmarks.liveTitlesSeparator.label "Uuenevad pealkirjad">
+<!ENTITY bookmarks.createIn.label            "Loo asukohta:">
+<!ENTITY bookmarks.createIn.accesskey        "L">
+<!ENTITY bookmarks.feed_location.label       "Uudisvoo asukoht:">
+<!ENTITY bookmarks.feed_location.accesskey   "U">
+<!ENTITY bookmarks.site_location.label       "Veebilehe asukoht:">
+<!ENTITY bookmarks.site_location.accesskey   "e">
+<!ENTITY bookmarks.loadInSidebar.label       "Laaditake külgribal">
+<!ENTITY bookmarks.loadInSidebar.accesskey   "d">
+<!ENTITY bookmarks.expanderDown.tooltip      "Näita kõiki järjehoidjate kaustu">
+<!ENTITY bookmarks.expanderUp.tooltip        "Peida">
+<!ENTITY bookmarks.newFolderButton.label     "Uus kaust">
+<!ENTITY bookmarks.newFolderButton.accesskey "t">

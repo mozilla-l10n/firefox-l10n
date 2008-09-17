@@ -1,0 +1,37 @@
+<!ENTITY startup.label                 "Käivitamine">
+
+<!ENTITY startupPage.label             "&brandShortName;i käivitamisel:">
+<!ENTITY startupPage.accesskey         "s">
+<!ENTITY startupHomePage.label         "Kuvatakse avalehte">
+<!ENTITY startupBlankPage.label        "Kuvatakse tühja lehte">
+<!ENTITY startupLastSession.label      "Kuvatakse viimati avatud aknaid ja kaarte">
+<!ENTITY location.label                "Avaleht:">
+<!ENTITY location.accesskey            "h">
+<!ENTITY useCurrentPage.label          "Kasuta aktiivset veebilehte">
+<!ENTITY useCurrentPage.accesskey      "K">
+<!ENTITY useMultiple.label             "Kasuta aktiivseid veebilehti">
+<!ENTITY useBookmark.label             "Kasuta järjehoidjat">
+<!ENTITY useBookmark.accesskey         "j">
+<!ENTITY restoreDefault.label          "Taasta vaikeväärtus">
+<!ENTITY restoreDefault.accesskey      "r">
+
+<!ENTITY downloads.label               "Allalaadimised">
+
+<!ENTITY showWhenDownloading.label     "Allalaadimiste akna kuvamine failide allalaadimise ajal">
+<!ENTITY showWhenDownloading.accesskey "d">
+<!ENTITY closeWhenDone.label           "Aken suletakse kui kõik allalaadimised on lõpetatud">
+<!ENTITY closeWhenDone.accesskey       "p">
+<!ENTITY saveTo.label                  "Failid salvestatakse asukohta">
+<!ENTITY saveTo.accesskey              "v">
+<!ENTITY chooseFolderWin.label         "Lehitse...">
+<!ENTITY chooseFolderWin.accesskey     "s">
+<!ENTITY chooseFolderMac.label         "Vali...">
+<!ENTITY chooseFolderMac.accesskey     "a">
+<!ENTITY alwaysAsk.label               "Seda tüüpi failide korral küsitakse alati, kuhu need salvestada">
+<!ENTITY alwaysAsk.accesskey           "S">
+
+<!ENTITY addonsMgr.label               "Laiendused">
+<!ENTITY manageAddonsDescWin.label     "Muuda laienduste sätteid">
+<!ENTITY manageAddonsDescUnix2.label   "Muuda laienduste eelistusi">
+<!ENTITY manageAddons.label            "Halda laiendusi...">
+<!ENTITY manageAddons.accesskey        "l">

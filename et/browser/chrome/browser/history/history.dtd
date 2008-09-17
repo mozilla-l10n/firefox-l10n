@@ -1,0 +1,28 @@
+<!ENTITY find.label                 "Otsi:">
+<!ENTITY find.accesskey             "O">
+<!ENTITY expand.label               "Laienda">
+<!ENTITY expand.accesskey           "L">
+<!ENTITY collapse.label             "Ahenda">
+<!ENTITY collapse.accesskey         "A">
+<!ENTITY byDate.label               "Kuupäeva järgi">
+<!ENTITY byDate.accesskey           "K">
+<!ENTITY bySite.label               "Suuruse järgi">
+<!ENTITY bySite.accesskey           "S">
+<!ENTITY view.label                 "Näita">
+<!ENTITY view.accesskey             "N">
+<!ENTITY byMostVisited.label        "Külastuste arvu järgi">
+<!ENTITY byMostVisited.accesskey    "u">
+<!ENTITY byLastVisited.label        "Viimase külastuse järgi">
+<!ENTITY byLastVisited.accesskey    "V">
+<!ENTITY byDayAndSite.label         "Kuupäeva ja veebilehe järgi">
+<!ENTITY byDayAndSite.accesskey     "e">
+<!ENTITY openLinkInWindow.label     "Ava">
+<!ENTITY openLinkInWindow.accesskey "A">
+<!ENTITY openInNewTab.label         "Ava uuel kaardil">
+<!ENTITY openInNewTab.accesskey     "k">
+<!ENTITY openInNewWindow.label      "Ava uues aknas">
+<!ENTITY openInNewWindow.accesskey  "n">
+<!ENTITY bookmarkLink.label         "Pane see link järjehoidjatesse...">
+<!ENTITY bookmarkLink.accesskey     "l">
+<!ENTITY copyLink.label             "Kopeeri lingi aadress">
+<!ENTITY copyLink.accesskey         "o">

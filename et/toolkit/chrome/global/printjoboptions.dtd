@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Printeri omadused">
+
+<!ENTITY paperInput.label "Paberi suurus:">
+
+<!ENTITY plexInput.label "Plex moodus:">
+
+<!ENTITY resolutionInput.label "Resulutsioon/kvaliteet:">
+
+<!ENTITY cmdInput.label "Printimiskäsklus:">
+
+<!ENTITY jobTitleInput.label "Töö pealkiri:">
+
+<!ENTITY colorGroup.label "Värv:">
+<!ENTITY grayRadio.label "Halltoonides">
+<!ENTITY colorRadio.label "Värviline">
+
+<!ENTITY colorspaceInput.label "Värvisügavus:">
+
+<!ENTITY fontsGroup.label "Fondid:">
+<!ENTITY downloadFonts.label "Lae fondid printerisse?">
+
+<!ENTITY edgeMarginInput.label "Vahe paberi servast veeriseni">
+<!ENTITY topInput.label "Ülemine:">
+<!ENTITY bottomInput.label "Alumine:">
+<!ENTITY leftInput.label "Vasak:">
+<!ENTITY rightInput.label "Parem:">

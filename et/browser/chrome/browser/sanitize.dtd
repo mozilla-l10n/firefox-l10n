@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title            "Privaatsete andmete kustutamine">
+
+<!ENTITY sanitizeItems.label             "Kustuta järgnevad andmed:">
+<!ENTITY clearDataSettings.label         "Kui soovitakse, et &brandShortName; kustutaks privaatsed andmed, siis kustutatakse:">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+<!ENTITY itemHistory.label               "Lehitsemise ajalugu">
+<!ENTITY itemHistory.accesskey           "s">
+<!ENTITY itemFormSearchHistory.label     "Salvestatud vormide ja otsingu ajalugu">
+<!ENTITY itemFormSearchHistory.accesskey "v">
+<!ENTITY itemPasswords.label             "Salvestatud paroolid">
+<!ENTITY itemPasswords.accesskey         "l">
+<!ENTITY itemCookies.label               "Küpsised">
+<!ENTITY itemCookies.accesskey           "K">
+<!ENTITY itemCache.label                 "Vahemälu">
+<!ENTITY itemCache.accesskey             "h">
+<!ENTITY itemOfflineApps.label           "Võrguta režiimis töötavate lehtede andmed">
+<!ENTITY itemOfflineApps.accesskey       "g">
+<!ENTITY itemDownloads.label             "Allalaadimiste ajalugu">
+<!ENTITY itemDownloads.accesskey         "A">
+<!ENTITY itemSessions.label              "Autenditud seansid">
+<!ENTITY itemSessions.accesskey          "e">
+<!ENTITY window.width                    "35em">

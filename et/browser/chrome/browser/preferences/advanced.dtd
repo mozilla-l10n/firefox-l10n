@@ -1,0 +1,100 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                  "Üldine">
+
+<!ENTITY accessibility.label               "Hõlbsustus">
+
+<!ENTITY useCursorNavigation.label         "Veebis liikumiseks kasutatakse alati kursori klahve">
+<!ENTITY useCursorNavigation.accesskey     "a">
+<!ENTITY searchStartTyping.label           "Kirjutamise alustamisel otsitakse teksti">
+<!ENTITY searchStartTyping.accesskey       "r">
+<!ENTITY blockAutoRefresh.label            "Hoiatatakse kui veebilehed üritavad mujale suunata või lehte uuesti laadida">
+<!ENTITY blockAutoRefresh.accesskey        "H">
+
+<!ENTITY browsing.label                    "Lehitsemine">
+
+<!ENTITY useAutoScroll.label               "Kasutatakse automaatset kerimist">
+<!ENTITY useAutoScroll.accesskey           "u">
+<!ENTITY useSmoothScrolling.label          "Kasutatakse sujuvat kerimist">
+<!ENTITY useSmoothScrolling.accesskey      "s">
+<!ENTITY checkSpelling.label               "Kirjutamisel kontrollitakse õigekirja">
+<!ENTITY checkSpelling.accesskey           "r">
+
+<!ENTITY systemDefaults.label              "Vaikimisi seaded">
+<!ENTITY alwaysCheckDefault.label          "Käivitamisel kontrollitakse alati kas &brandShortName; on vaikimisi brauser"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey      "v">
+<!ENTITY checkNow.label                    "Kontrolli nüüd">
+<!ENTITY checkNow.accesskey                "K">
+
+<!ENTITY networkTab.label                  "Võrk">
+
+<!ENTITY connection.label                  "Ühendus">
+
+<!ENTITY connectionDesc.label              "&brandShortName;i internetiga ühendumise häälestamine.">
+<!ENTITY connectionSettings.label          "Sätted...">
+<!ENTITY connectionSettings.accesskey      "e">
+
+<!ENTITY offlineStorage.label              "Kettakasutus võrguta">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label              "Vahemäluks kasutatakse kuni">
+<!ENTITY useCacheBefore.accesskey          "u">
+<!ENTITY useCacheAfter.label               "MB kettaruumi">
+<!ENTITY clearCacheNow.label               "Tühjenda">
+<!ENTITY clearCacheNow.accesskey           "T">
+
+<!ENTITY updateTab.label                   "Uuendamine">
+
+<!ENTITY autoCheck.label                   "Järgmisi uuendusi kontrollitakse automaatselt:">
+<!ENTITY enableAppUpdate.label             "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey         "F">
+<!ENTITY enableAddonsUpdate.label          "Paigaldatud lisad">
+<!ENTITY enableAddonsUpdate.accesskey      "P">
+<!ENTITY enableSearchUpdate.label          "Otsingumootorid">
+<!ENTITY enableSearchUpdate.accesskey      "O">
+<!ENTITY whenUpdatesFound.label            "Kui &brandShortName;ile leitakse uuendusi:">
+<!ENTITY askMe.label                       "Küsitakse, mida teha">
+<!ENTITY askMe.accesskey                   "K">
+<!ENTITY modeAutomatic.label               "Uuendus laaditakse automaatselt alla ning paigaldatakse">
+<!ENTITY modeAutomatic.accesskey           "U">
+<!ENTITY modeAutoAddonWarn.label           "Hoiatatakse, kui see keelab mõne lisa">
+<!ENTITY modeAutoAddonWarn.accesskey       "H">
+<!ENTITY updateHistory.label               "Näita uuenduste ajalugu">
+<!ENTITY updateHistory.accesskey           "j">
+
+<!ENTITY offlineNotify.label               "Hoiatatakse kui veebileht soovib salvestada andmeid võrguta režiimis kasutamiseks">
+<!ENTITY offlineNotify.accesskey           "H">
+<!ENTITY offlineNotifyExceptions.label     "Erandid">
+<!ENTITY offlineNotifyExceptions.accesskey "r">
+
+<!ENTITY offlineAppsList.label             "Järgmised lehed on salvestanud andmeid võrguta režiimis kasutamiseks:">
+<!ENTITY offlineAppsList.height            "7em">
+<!ENTITY offlineAppsListRemove.label       "Eemalda">
+<!ENTITY offlineAppsListRemove.accesskey   "E">
+<!ENTITY offlineAppRemove.confirm          "Eemalda võrguta kasutatavad andmed">
+
+<!ENTITY encryptionTab.label               "Krüptimine">
+
+<!ENTITY protocols.label                   "Protokollid">
+<!ENTITY useSSL3.label                     "Kasutatakse SSL 3.0">
+<!ENTITY useSSL3.accesskey                 "3">
+<!ENTITY useTLS1.label                     "Kasutatakse TLS 1.0">
+<!ENTITY useTLS1.accesskey                 "1">
+<!ENTITY certificates.label                "Sertifikaadid">
+<!ENTITY certSelection.description         "Kui veebileht nõuab sertifikaati:">
+<!ENTITY certs.auto                        "Valitakse üks automaatselt">
+<!ENTITY certs.auto.accesskey              "l">
+<!ENTITY certs.ask                         "Küsitakse iga kord">
+<!ENTITY certs.ask.accesskey               "i">
+<!ENTITY viewCerts.label                   "Kuva sertifikaate">
+<!ENTITY viewCerts.accesskey               "s">
+<!ENTITY viewCRLs.label                    "Tühistusnimekirjad">
+<!ENTITY viewCRLs.accesskey                "T">
+<!ENTITY verify2.label                     "Verifitseerimine">
+<!ENTITY verify2.accesskey                 "V">
+<!ENTITY viewSecurityDevices.label         "Turvaseadmed">
+<!ENTITY viewSecurityDevices.accesskey     "r">
