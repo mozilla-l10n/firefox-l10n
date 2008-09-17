@@ -44,9 +44,9 @@
 <!ENTITY LegendAlign.label "Align Legend:">
 <!ENTITY LegendAlign.accesskey "A">
 <!ENTITY AlignDefault.label "Default">
-<!ENTITY AlignLeft.label "Left">
-<!ENTITY AlignCenter.label "Center">
-<!ENTITY AlignRight.label "Right">
+<!ENTITY AlignLeft.label "Izquierda">
+<!ENTITY AlignCenter.label "Centro">
+<!ENTITY AlignRight.label "Derecha">
 
 <!ENTITY RemoveFieldSet.label "Remove Field Set">
 <!ENTITY RemoveFieldSet.accesskey "R">

@@ -34,47 +34,47 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Form Field Properties">
-<!ENTITY windowTitleImage.label "Form Image Properties">
+<!ENTITY windowTitle.label "Propiedades de campo de formulario">
+<!ENTITY windowTitleImage.label "Propiedades de imagen de formulario">
 
-<!ENTITY InputType.label "Field Type">
+<!ENTITY InputType.label "Tipo de campo">
 <!ENTITY InputType.accesskey "T">
-<!ENTITY text.value "Text">
-<!ENTITY password.value "Password">
+<!ENTITY text.value "Texto">
+<!ENTITY password.value "Contraseña">
 <!ENTITY checkbox.value "Check Box">
-<!ENTITY radio.value "Radio Button">
-<!ENTITY submit.value "Submit Button">
+<!ENTITY radio.value "Botón radio">
+<!ENTITY submit.value "Botón enviar">
 <!ENTITY reset.value "Reset Button">
-<!ENTITY file.value "File">
-<!ENTITY hidden.value "Hidden">
-<!ENTITY image.value "Image">
-<!ENTITY button.value "Button">
+<!ENTITY file.value "Archivo">
+<!ENTITY hidden.value "Oculto">
+<!ENTITY image.value "Imagen">
+<!ENTITY button.value "Botón">
 
 <!ENTITY InputSettings.label "Field Settings">
-<!ENTITY InputName.label "Field Name:">
-<!ENTITY GroupName.label "Group Name:">
+<!ENTITY InputName.label "Nombre de campo:">
+<!ENTITY GroupName.label "Nombre de grupo:">
 <!ENTITY Name.accesskey "N">
-<!ENTITY InputValue.label "Field Value:">
-<!ENTITY InitialValue.label "Initial Value:">
+<!ENTITY InputValue.label "Valor de campo:">
+<!ENTITY InitialValue.label "Valor inicial:">
 <!ENTITY Value.accesskey "V">
 <!ENTITY InputChecked.label "Initially Checked">
 <!ENTITY InputChecked.accesskey "C">
-<!ENTITY InputSelected.label "Initially Selected">
+<!ENTITY InputSelected.label "Inicialmente seleccionado">
 <!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "Read Only">
+<!ENTITY InputReadOnly.label "Sólo lectura">
 <!ENTITY InputReadOnly.accesskey "R">
-<!ENTITY InputDisabled.label "Disabled">
+<!ENTITY InputDisabled.label "Deshabilitado">
 <!ENTITY InputDisabled.accesskey "D">
-<!ENTITY tabIndex.label "Tab Index:">
+<!ENTITY tabIndex.label "Índice de tabulación:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY TextSize.label "Field Size:">
+<!ENTITY TextSize.label "Tamaño de campo:">
 <!ENTITY TextSize.accesskey "F">
-<!ENTITY TextLength.label "Maximum Length:">
+<!ENTITY TextLength.label "Longitud máxima:">
 <!ENTITY TextLength.accesskey "L">
-<!ENTITY AccessKey.label "Access Key:">
+<!ENTITY AccessKey.label "Tecla de acceso:">
 <!ENTITY AccessKey.accesskey "K">
 <!ENTITY Accept.label "Accept Types:">
 <!ENTITY Accept.accesskey "A">
 
-<!ENTITY ImageProperties.label "Image Properties...">
+<!ENTITY ImageProperties.label "Propiedades de imagen...">
 <!ENTITY ImageProperties.accesskey "E">

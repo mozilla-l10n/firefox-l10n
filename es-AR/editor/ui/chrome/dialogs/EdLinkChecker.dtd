@@ -37,10 +37,10 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label     "Check Image and Link Locations">
-<!ENTITY urlsNotFound.label    "The following image or link locations were not found:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = file not found, &quot;?&quot; = timed-out attempting to connect.)">
-<!ENTITY changeUrlButton.label "Change Location of Selected Item">
-<!ENTITY succeeded.label       "Succeeded">
-<!ENTITY failed.label          "Failed">
-<!ENTITY closeButton.label     "Close">
+<!ENTITY windowTitle.label     "Verificar ubicaciones de imágenes y enlaces">
+<!ENTITY urlsNotFound.label    "Las siguientes ubicaciones de imágenes o enlaces no pudieron encontrarse:">
+<!ENTITY notFoundKey.label     "(&quot;X&quot; = archivo no encontrado, &quot;?&quot; = timed-out intentando conectar.)">
+<!ENTITY changeUrlButton.label "Cambiar ubicación del ítem seleccionado">
+<!ENTITY succeeded.label       "Éxito">
+<!ENTITY failed.label          "Falla">
+<!ENTITY closeButton.label     "Cerrar">

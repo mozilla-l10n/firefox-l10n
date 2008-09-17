@@ -36,15 +36,15 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Page Properties">
-<!ENTITY location.label "Location:">
-<!ENTITY lastModified.label "Last Modified:">
-<!ENTITY titleInput.label "Title:">
+<!ENTITY windowTitle.label "Propiedades de página">
+<!ENTITY location.label "Dirección:">
+<!ENTITY lastModified.label "Última modificación:">
+<!ENTITY titleInput.label "Título:">
 <!ENTITY titleInput.accessKey "T">
-<!ENTITY authorInput.label "Author:">
+<!ENTITY authorInput.label "Autor:">
 <!ENTITY authorInput.accessKey "A">
-<!ENTITY descriptionInput.label "Description:">
+<!ENTITY descriptionInput.label "Descripción:">
 <!ENTITY descriptionInput.accessKey "D">
-<!ENTITY locationNewPage.label "[New page, not saved yet]">
-<!ENTITY EditHEADSource1.label "Advanced users:">
-<!ENTITY EditHEADSource2.label "To edit other contents of the &lt;head&gt; region, use &quot;HTML Source&quot; in the View Menu or Edit Mode Toolbar.">
+<!ENTITY locationNewPage.label "[Página nueva, aún no guardada]">
+<!ENTITY EditHEADSource1.label "Usuarios avanzados:">
+<!ENTITY EditHEADSource2.label "Para editar el contenido de la región &lt;head&gt;, use &quot;Fuente HTML&quot; en el menú Ver la barra de Modo de Edición.">

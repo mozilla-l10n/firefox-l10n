@@ -34,20 +34,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Form Properties">
+<!ENTITY windowTitle.label "Propiedades de formulario">
 
 <!ENTITY Settings.label "Settings">
 
-<!ENTITY FormName.label "Form Name:">
+<!ENTITY FormName.label "Nombre de formulario:">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "Action URL:">
+<!ENTITY FormAction.label "URL de acción:">
 <!ENTITY FormAction.accesskey "A">
-<!ENTITY FormMethod.label "Method:">
+<!ENTITY FormMethod.label "Método:">
 <!ENTITY FormMethod.accesskey "M">
-<!ENTITY FormEncType.label "Encoding:">
+<!ENTITY FormEncType.label "Codificación:">
 <!ENTITY FormEncType.accesskey "c">
-<!ENTITY FormTarget.label "Target Frame:">
+<!ENTITY FormTarget.label "Marco de destino:">
 <!ENTITY FormTarget.accesskey "T">
 
-<!ENTITY RemoveForm.label "Remove Form">
+<!ENTITY RemoveForm.label "Eliminar formulario">
 <!ENTITY RemoveForm.accesskey "R">
