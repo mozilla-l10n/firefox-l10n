@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label "ชื่อ :">
+<!ENTITY bookmarks.name.accesskey "ช">
+<!ENTITY bookmarks.location.label "ที่ตั้ง :">
+<!ENTITY bookmarks.location.accesskey "ท">
+<!ENTITY bookmarks.keyword.label "คำสำคัญ :">
+<!ENTITY bookmarks.keyword.accesskey "ส">
+<!ENTITY bookmarks.description.label "คำอธิบาย :">
+<!ENTITY bookmarks.description.accesskey "อ">
+<!ENTITY bookmarks.liveTitlesSeparator.label "ไลฟ์ไตเติ้ล">
+<!ENTITY bookmarks.createIn.label "สร้างใน :">
+<!ENTITY bookmarks.createIn.accesskey "ร">
+<!ENTITY bookmarks.feed_location.label "ที่ตั้งฟีด :">
+<!ENTITY bookmarks.feed_location.accesskey "ฟ">
+<!ENTITY bookmarks.site_location.label "ที่ตั้งไซต์ :">
+<!ENTITY bookmarks.site_location.accesskey "ท">
+<!ENTITY bookmarks.loadInSidebar.label "โหลดที่คั่นหน้าเว็บนี้ในแถบข้าง">
+<!ENTITY bookmarks.loadInSidebar.accesskey "ล">
+<!ENTITY bookmarks.expanderDown.tooltip "แสดงโฟลเดอร์ที่คั่นหน้าเว็บทั้งหมด">
+<!ENTITY bookmarks.expanderUp.tooltip "ซ่อน">
+<!ENTITY bookmarks.newFolderButton.label "โฟลเดอร์ใหม่">
+<!ENTITY bookmarks.newFolderButton.accesskey "ม">

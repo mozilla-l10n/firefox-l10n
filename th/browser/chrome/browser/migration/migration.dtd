@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "ตัวช่วยนำเข้า">
+
+<!ENTITY importFrom.label "นำเข้าตัวเลือก, ที่คั่นหน้าเว็บ, ประวัติ, รหัสผ่าน และข้อมูลจาก :">
+<!ENTITY importFromUnix.label "นำเข้าค่าปรับแต่ง, ที่คั่นหน้าเว็บ, ประวัติ, รหัสผ่าน และข้อมูลจาก :">
+<!ENTITY importFromBookmarks.label "นำเข้าที่คั่นหน้าเว็บจาก :">
+
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird หรือ Phoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "ไม่นำเข้าเลย">
+<!ENTITY importFromNothing.accesskey "ม">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 หรือ Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "Camino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "Konqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "Galeon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromHTMLFile.label "จากแฟ้ม HTML">
+<!ENTITY importFromHTMLFile.accesskey "จ">
+
+<!ENTITY noMigrationSources.label "ไม่พบโปรแกรมใดที่มีข้อมูลที่คั่นหน้าเว็บ, ประวัติ หรือรหัสผ่าน">
+
+<!ENTITY importSource.title "นำเข้าค่าตั้งและข้อมูล">
+<!ENTITY importItems.title "สิ่งที่จะนำเข้า">
+<!ENTITY importItems.label "เลือกสิ่งที่จะนำเข้า :">
+
+<!ENTITY migrating.title "กำลังนำเข้า…">
+<!ENTITY migrating.label "กำลังนำเข้า…">
+
+<!ENTITY selectProfile.title "เลือกโปรแฟ้ม">
+<!ENTITY selectProfile.label "โปรแฟ้มต่อไปนี้สามารถนำเข้าได้ :">
+
+<!ENTITY done.title "การนำเข้าเสร็จสมบูรณ์">
+<!ENTITY done.label "โปรแฟ้มต่อไปนี้ได้ถูกนำเข้าเป็นผลสำเร็จ :">
+

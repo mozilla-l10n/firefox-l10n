@@ -1,0 +1,59 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "รายงานเว็บที่ใช้การไม่ได้">
+
+<!ENTITY privacyNotice.label "นโยบายความเป็นส่วนตัว">
+<!ENTITY reportWizardPrivacy.description "เครื่องมือนี้ยอมให้คุณแจ้งไปยังทีมงาน เกี่ยวกับเว็บไซต์ที่ใช้การไม่ได้กับ &brandShortName; หรือทำให้ &brandShortName; หยุดทำงาน นี่เป็นช่องทางที่ช่วยให้เรามั่นใจว่า &brandShortName; จะใช้งานได้ดีกับทุกคน โปรดสละเวลาอ่านข้อความข้างล่างเพื่อศึกษาว่าเราใช้งานข้อมูลที่รายงานอย่างไร เพื่อคุณจะสามารถเลือกเข้ามามีส่วนร่วมได้">
+<!ENTITY reportWizardMustAgree.description "เพื่อดำเนินการต่อคุณจำเป็นต้องยอมรับนโยบายความเป็นส่วนตัวข้างบนนี้ก่อน">
+
+<!ENTITY dontShowPrivacyStatement.label "ฉันได้อ่านและยอมรับนโยบายความเป็นส่วนตัวด้านบนนี้แล้ว">
+<!ENTITY dontShowPrivacyStatement.accesskey "ฉ">
+
+<!ENTITY reportForm.label "กรอกข้อมูลรายงาน">
+
+<!ENTITY reportForm.description "บอกรายละเอียดปัญหาที่คุณเจอ :">
+<!ENTITY reportForm.url.title "ที่ตั้งเว็บไซต์ :">
+<!ENTITY reportForm.url.accesskey "ท">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "เว็บไซต์นี้มีการป้องกันด้วยรหัสผ่าน">
+<!ENTITY reportForm.behind_login.accesskey "ร">
+
+<!ENTITY reportForm.problem_type.title "ประเภทปัญหา :">
+<!ENTITY reportForm.problem_type.accesskey "ป">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "เลือกหนึ่งข้อ…">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "ไม่สนับสนุนเบราว์เซอร์">
+<!ENTITY reportForm.problem_type.item2.title "ไม่สามารถล็อกอินเข้าใช้">
+<!ENTITY reportForm.problem_type.item3.title "โปรแกรมเสริมไม่แสดง">
+<!ENTITY reportForm.problem_type.item4.title "ข้อผิดพลาดอื่น ๆ">
+<!ENTITY reportForm.problem_type.item5.title "มีพฤติกรรมไม่ถูกต้อง">
+<!ENTITY reportForm.problem_type.item6.title "แสดงผลไม่ถูกต้อง">
+<!ENTITY reportForm.problem_type.item7.title "ปัญหาอื่น">
+<!ENTITY reportForm.problem_type.item8.title "ไม่สามารถเข้าถึงได้โดยง่าย">
+<!ENTITY reportForm.problem_type.item9.title "พิมพ์ผลลัพธ์ไม่ถูกต้อง">
+
+<!ENTITY reportForm.describe.title "อธิบายปัญหา :">
+<!ENTITY reportForm.describe.accesskey "อ">
+
+<!ENTITY reportForm.platform.title "แพลตฟอร์ม :">
+<!ENTITY reportForm.product.title "ผลิตภัณฑ์ :">
+<!ENTITY reportForm.gecko.title "Gecko :">
+<!ENTITY reportForm.useragent.title "Useragent :">
+<!ENTITY reportForm.language.title "ภาษา :">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "อีเมล (ถ้ามี) :">
+<!ENTITY reportForm.email.accesskey "ม">
+
+<!ENTITY reportForm.privacyPolicy.title "นโยบายความเป็นส่วนตัว">
+<!ENTITY reportForm.privacyPolicy.tooltip "ดูนโยบายความเป็นส่วนตัว">
+
+<!ENTITY reportResults.showDetail.title "แสดงรายละเอียด">
+<!ENTITY reportResults.showDetail.accesskey "ส">
+
+<!ENTITY sendReport.label "ส่งรายงาน">
+<!ENTITY sendReport.description "กำลังส่งรายงานไปเซิร์ฟเวอร์…">
+
+<!ENTITY finish.label "ส่งเสร็จแล้ว">

@@ -1,0 +1,53 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "ตั้งค่าหน้ากระดาษ">
+
+<!ENTITY basic.tab "รูปแบบ และ ตัวเลือก">
+
+<!ENTITY formatGroup.label "รูปแบบ">
+
+<!ENTITY orientation.label "ทิศทาง :">
+<!ENTITY portrait "แนวตั้ง">
+<!ENTITY landscape "แนวนอน">
+
+<!ENTITY scale.label "มาตรส่วน :">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "หดให้พอดีกับความกว้างหน้ากระดาษ">
+
+<!ENTITY optionsGroup.label "ตัวเลือก">
+
+<!ENTITY printBG.label "พิมพ์พื้นหลัง (สีและรูปภาพ)">
+
+<!ENTITY advanced.tab "ขอบกระดาษ และ ส่วนหัว/ท้าย">
+
+<!ENTITY marginGroup.label "ขอบกระดาษ (#1)">
+<!ENTITY marginUnits.inches "นิ้ว">
+<!ENTITY marginUnits.metric "มิลลิเมตร">
+<!ENTITY marginTop.label "หัว :">
+<!ENTITY marginBottom.label "ท้าย :">
+<!ENTITY marginLeft.label "ซ้าย :">
+<!ENTITY marginRight.label "ขวา :">
+
+<!ENTITY headerFooter.label "ส่วนหัวและส่วนท้าย">
+
+<!ENTITY hfLeft.label "ซ้าย :">
+<!ENTITY hfCenter.label "ขวา :">
+<!ENTITY hfRight.label "ขวา :">
+<!ENTITY headerLeft.tip "ส่วนหัวด้านซ้าย">
+<!ENTITY headerCenter.tip "ส่วนหัวตรงกลาง">
+<!ENTITY headerRight.tip "ส่วนหัวด้านขวา">
+<!ENTITY footerLeft.tip "ส่วนท้ายด้านซ้าย">
+<!ENTITY footerCenter.tip "ส่วนท้ายตรงกลาง">
+<!ENTITY footerRight.tip "ส่วนท้ายด้านขวา">
+
+<!ENTITY hfTitle "หัวเรื่อง">
+<!ENTITY hfURL "URL">
+<!ENTITY hfDateAndTime "วัน/เวลา">
+<!ENTITY hfPage "หน้า #">
+<!ENTITY hfPageAndTotal "หน้า # จาก #">
+<!ENTITY hfBlank "--ว่าง--">
+<!ENTITY hfCustom "กำหนดเอง‚Ä¶">
+
+<!ENTITY customPrompt.title "กำหนดเอง‚Ä¶">
+<!ENTITY customPrompt.prompt "ป้อนข้อความส่วนหัวและส่วนท้ายตามกำหนดเอง">

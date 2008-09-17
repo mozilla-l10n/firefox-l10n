@@ -1,0 +1,19 @@
+<!ENTITY about.version "รุ่น">
+
+<!ENTITY about.copy.beforeLink "ลิขสิทธิ์ &copy; 1998-2008 โดย">
+<!ENTITY about.copy.linkTitle "ผู้ร่วมสมทบ">
+<!ENTITY about.copy.afterLink "ในโครงการ Mozilla Project">
+
+<!ENTITY about.license.beforeLink "อ่าน">
+<!ENTITY about.license.linkTitle "ข้อมูลเกี่ยวกับสัญญาอนุญาต">
+<!ENTITY about.license.afterLink "สำหรับผลิตภัณฑ์นี้">
+
+<!ENTITY about.relnotes.beforeLink "อ่าน">
+<!ENTITY about.relnotes.linkTitle "บันทึกประจำรุ่น">
+<!ENTITY about.relnotes.afterLink "สำหรับรุ่นนี้">
+
+<!ENTITY about.buildconfig.beforeLink "ดู">
+<!ENTITY about.buildconfig.linkTitle "ค่าที่ตั้งในการสร้าง">
+<!ENTITY about.buildconfig.afterLink "สำหรับรุ่นนี้">
+
+<!ENTITY about.buildIdentifier "ข้อมูลบ่งชี้การสร้าง: ">

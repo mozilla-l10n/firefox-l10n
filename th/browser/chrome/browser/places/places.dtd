@@ -1,0 +1,215 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title "ห้องสมุด">
+<!ENTITY places.library.width "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label "จัดระเบียบ">
+<!ENTITY organize.accesskey "จ">
+
+<!ENTITY file.accesskey "ฟ">
+<!ENTITY file.close.label "ปิด">
+<!ENTITY file.close.accesskey "ป">
+<!ENTITY cmd.close.key "w">
+<!ENTITY edit.label "แก้ไข">
+<!ENTITY edit.accesskey "ก">
+<!ENTITY views.label "มุมมอง">
+<!ENTITY views.accesskey "ม">
+<!ENTITY view.toolbar.label "แถบเครื่องมือ">
+<!ENTITY view.toolbar.accesskey "ค">
+<!ENTITY view.columns.label "แสดงคอลัมน์">
+<!ENTITY view.columns.accesskey "ค">
+<!ENTITY view.sort.label "เรียง">
+<!ENTITY view.sort.accesskey "ร">
+<!ENTITY view.unsorted.label "ไม่เรียง">
+<!ENTITY view.unsorted.accesskey "ง">
+<!ENTITY view.sortAscending.label "เรียงลำดับ ก > ฮ">
+<!ENTITY view.sortAscending.accesskey "ก">
+<!ENTITY view.sortDescending.label "เรียงลำดับ ฮ > ก">
+<!ENTITY view.sortDescending.accesskey "ฮ">
+<!ENTITY help.usingBookmarks.label "การใช้รายการที่คั่นหน้าเว็บ">
+<!ENTITY help.usingBookmarks.accesskey "ค">
+<!ENTITY help.usingHistory.label "ใช้ประวัติ">
+<!ENTITY help.usingHistory.accesskey "ช">
+<!ENTITY help.advancedTips.label "กลเม็ดเคล็ดลับชั้นสูง">
+<!ENTITY help.advancedTips.accesskey "ค">
+
+<!ENTITY cmd.findInBookmarks.label "หาในรายการที่คั่นหน้าเว็บ…">
+<!ENTITY cmd.findInBookmarks.accesskey "ห">
+<!ENTITY cmd.findCurrent.label "หาในชุดปัจจุบัน…">
+<!ENTITY cmd.findCurrent.accesskey "น">
+
+<!ENTITY cmd.exportHTML.label "ส่งออกเป็น HTML…">
+<!ENTITY cmd.exportHTML.accesskey "ส">
+<!ENTITY cmd.importHTML.label "นำเข้าจาก HTML…">
+<!ENTITY cmd.importHTML.accesskey "น">
+
+<!ENTITY cmd.backup.label "สำรองข้อมูล…">
+<!ENTITY cmd.backup.accesskey "ส">
+<!ENTITY cmd.restore2.label "คืนค่าเดิม">
+<!ENTITY cmd.restore2.accesskey "ด">
+<!ENTITY cmd.restoreFromFile.label "เลือกแฟ้ม…">
+<!ENTITY cmd.restoreFromFile.accesskey "ล">
+
+<!ENTITY cmd.select_all.label "เลือกทั้งหมด">
+<!ENTITY cmd.select_all.accesskey "ท">
+<!ENTITY cmd.select_all.key "a">
+
+<!ENTITY cmd.edit_cut.label "ตัด">
+<!ENTITY cmd.edit_cut.accesskey "ต">
+<!ENTITY cmd.edit_cut.key "x">
+<!ENTITY cmd.edit_copy.label "คัดลอก">
+<!ENTITY cmd.edit_copy.accesskey "ค">
+<!ENTITY cmd.edit_copy.key "c">
+<!ENTITY cmd.edit_paste.label "แปะ">
+<!ENTITY cmd.edit_paste.accesskey "แ">
+<!ENTITY cmd.edit_paste.key "v">
+<!ENTITY cmd.edit_delete.label "ลบ">
+<!ENTITY cmd.edit_delete.accesskey "ล">
+<!ENTITY cmd.edit_undo.label "เรียกคืน">
+<!ENTITY cmd.edit_undo.accesskey "ร">
+<!ENTITY cmd.edit_undo.key "z">
+<!ENTITY cmd.edit_redo.label "ทำซ้ำ">
+<!ENTITY cmd.edit_redo.accesskey "ซ">
+<!ENTITY cmd.edit_redo.key "y">
+
+<!ENTITY cmd.open.label "เปิด">
+<!ENTITY cmd.open.accesskey "เ">
+<!ENTITY cmd.open_window.label "เปิดในหน้าต่างใหม่">
+<!ENTITY cmd.open_window.accesskey "ม">
+<!ENTITY cmd.open_tab.label "เปิดในแท็บใหม่">
+<!ENTITY cmd.open_tab.accesskey "ท">
+<!ENTITY cmd.open_all_in_tabs.label "เปิดทั้งหมดในแท็บ">
+<!ENTITY cmd.open_all_in_tabs.accesskey "ป">
+
+<!ENTITY cmd.properties.label "คุณสมบัติ">
+<!ENTITY cmd.properties.accesskey "ส">
+
+<!ENTITY cmd.show_info.key "i">
+
+<!ENTITY cmd.rename.label "เปลี่ยนชื่อ">
+<!ENTITY cmd.rename.accesskey "ป">
+
+<!ENTITY cmd.sortby_name.label "เรียงตามชื่อ">
+<!ENTITY cmd.sortby_name.accesskey "ช">
+<!ENTITY cmd.context_sortby_name.accesskey "ช">
+
+<!ENTITY cmd.new_bookmark.label "ที่คั่นหน้าเว็บใหม่…">
+<!ENTITY cmd.new_bookmark.accesskey "ค">
+<!ENTITY cmd.new_livemark.label "ไลฟ์บุ๊กมาร์กใหม่…">
+<!ENTITY cmd.new_livemark.accesskey "ล">
+<!ENTITY cmd.new_folder.label "โฟลเดอร์ใหม่…">
+<!ENTITY cmd.new_folder.accesskey "ฟ">
+<!ENTITY cmd.context_new_folder.accesskey "ฟ">
+<!ENTITY cmd.new_separator.label "ตัวแบ่งใหม่">
+<!ENTITY cmd.new_separator.accesskey "บ">
+
+<!ENTITY cmd.reloadLivebookmark.label "เรียกไลฟ์บุ๊กมาร์กใหม่">
+<!ENTITY cmd.reloadLivebookmark.accesskey "ร">
+<!ENTITY cmd.reloadMicrosummary.label "เรียกไลฟ์ไตเติ้ลใหม่">
+<!ENTITY cmd.reloadMicrosummary.accesskey "ร">
+
+<!ENTITY cmd.groupby_site.label "จัดกลุ่มตามไซต์">
+<!ENTITY cmd.groupby_site.accesskey "ซ">
+<!ENTITY cmd.groupby_page.label "จัดกลุ่มตามหน้า">
+<!ENTITY cmd.groupby_page.accesskey "น">
+<!ENTITY cmd.groupby_feed.label "จัดกลุ่มตามการบอกรับ">
+<!ENTITY cmd.groupby_feed.accesskey "บ">
+<!ENTITY cmd.groupby_post.label "จัดกลุ่มตามโพสต์">
+<!ENTITY cmd.groupby_post.accesskey "พ">
+
+<!ENTITY cmd.moveBookmarks.label "ย้าย…">
+<!ENTITY cmd.moveBookmarks.accesskey "ย">
+
+<!ENTITY col.name.label "ชื่อ">
+<!ENTITY col.tags.label "ป้าย">
+<!ENTITY col.url.label "ที่ตั้ง">
+<!ENTITY col.lastvisit.label "วันที่เข้าชม">
+<!ENTITY col.visitcount.label "ครั้งที่เข้าชม">
+<!ENTITY col.keyword.label "คำสำคัญ">
+<!ENTITY col.description.label "คำอธิบาย">
+<!ENTITY col.dateadded.label "เพิ่มเมื่อ">
+<!ENTITY col.lastmodified.label "แก้ไขล่าสุดเมื่อ">
+
+<!ENTITY search.label "ค้น :">
+<!ENTITY search.accesskey "ค">
+<!ENTITY search.collection.label "ชุดปัจจุบันเท่านั้น">
+<!ENTITY search.collection.accesskey "ป">
+<!ENTITY search.allBookmarks.label "ที่คั่นหน้าเว็บทั้งหมด">
+<!ENTITY search.allBookmarks.accesskey "ท">
+<!ENTITY search.scopeFolder.label "โฟลเดอร์ที่ถูกเลือก">
+<!ENTITY search.scopeFolder.accesskey "ฟ">
+<!ENTITY search.scopeAll.label "ที่คั่นหน้าเว็บทั้งหมด">
+<!ENTITY search.scopeAll.accesskey "ท">
+<!ENTITY search.scopeMenu.label "เมนูที่คั่นหน้าเว็บ">
+<!ENTITY search.scopeMenu.accesskey "ม">
+<!ENTITY search.scopeToolbar.label "แถบเครื่องมือคั่นหน้าเว็บ">
+<!ENTITY search.scopeToolbar.accesskey "ถ">
+<!ENTITY search.scopeDownloads.label "ดาวน์โหลด">
+<!ENTITY search.scopeDownloads.accesskey "ด">
+<!ENTITY search.scopeHistory.label "ประวัติ">
+<!ENTITY search.scopeHistory.accesskey "ป">
+<!ENTITY search.scopeBarExpanderDown.tooltip "แสดงเกณฑ์ค้นหาเพิ่มเติม">
+<!ENTITY search.scopeBarExpanderUp.tooltip "ซ่อนเกณฑ์ค้นหาเพิ่มเติม">
+<!ENTITY saveSearch.label "บันทึก">
+<!ENTITY saveSearch.accesskey "บ">
+<!ENTITY moreCriteria.label "+">
+<!ENTITY advancedSearch.onlybookmarked.label "ค้นเฉพาะในรายการที่คั่นหน้าเว็บ">
+<!ENTITY advancedSearch.match.label "ตรงกับ">
+<!ENTITY advancedSearch.all.label "ทุกกฎ">
+<!ENTITY advancedSearch.any.label "กฎไหนก็ได้">
+<!ENTITY advancedSearch.rules.label "ของกฎดังต่อไปนี้ :">
+<!ENTITY advancedSearch.subj_keyword.label "มีข้อความ">
+<!ENTITY advancedSearch.subj_visited.label "เข้าชม">
+<!ENTITY advancedSearch.subj_location.label "ที่ตั้ง">
+<!ENTITY advancedSearch.location_startswith.label "เริ่มด้วย">
+<!ENTITY advancedSearch.location_is.label "คือ">
+<!ENTITY advancedSearch.location_onsite.label "อยู่ในเว็บไซต์">
+<!ENTITY advancedSearch.time_is.label "เมื่อ">
+<!ENTITY advancedSearch.time_before.label "ก่อน">
+<!ENTITY advancedSearch.time_after.label "หลัง">
+<!ENTITY advancedSearch.time_inlast.label "ที่ผ่านสุด">
+<!ENTITY advancedSearch.last_days.label "วัน">
+<!ENTITY advancedSearch.last_weeks.label "สัปดาห์">
+<!ENTITY advancedSearch.last_months.label "เดือน">
+<!ENTITY advancedSearch.plus.label "+">
+<!ENTITY advancedSearch.minus.label "-">
+<!ENTITY advancedSearch.groupby.label "จัดกลุ่มตาม :">
+<!ENTITY advancedSearch.groupby_host.label "โฮสต์">
+<!ENTITY advancedSearch.groupby_domain.label "โดเมน">
+<!ENTITY advancedSearch.groupby_folder.label "โฟลเดอร์">
+<!ENTITY advancedSearch.sortby.label "เรียงตาม :">
+<!ENTITY advancedSearch.sortby_title.label "หัวเรื่อง">
+<!ENTITY advancedSearch.sortby_date.label "วันที่">
+<!ENTITY advancedSearch.sortby_visit.label "ครั้งที่เข้าชม">
+<!ENTITY advancedSearch.sortby_url.label "url">
+<!ENTITY advancedSearch.sortby_asc.label "จากน้อยไปมาก">
+<!ENTITY advancedSearch.sortby_desc.label "จากมากไปน้อย">
+<!ENTITY advancedSearch.max.label "จำนวนผลลัพธ์สูงสุด :">
+
+<!ENTITY cmd.find.key "f">
+
+<!ENTITY feed.subscribe.label "ฟีด">
+<!ENTITY feed.subscribe.tooltip "บอกรับ">
+
+<!ENTITY view.detailsMacOSX.label "รายการ">
+<!ENTITY view.details.label "รายละเอียด">
+<!ENTITY view.details.accesskey "ล">
+
+<!ENTITY view.addons.label "ดึงส่วนเสริมมุมมอง">
+
+<!ENTITY maintenance.label "นำเข้าและสำรองข้อมูล">
+<!ENTITY maintenance.accesskey "น">
+
+<!ENTITY backCmd.label "ย้อนกลับ">
+<!ENTITY backCmd.accesskey "ก">
+<!ENTITY backButton.tooltip "ย้อนกลับ">
+
+<!ENTITY forwardCmd.label "ถัดไป">
+<!ENTITY forwardCmd.accesskey "ถ">
+<!ENTITY forwardButton.tooltip "ถัดไป">
+
+<!ENTITY detailsPane.more.label "ขยาย">
+<!ENTITY detailsPane.more.accesskey "ข">
+<!ENTITY detailsPane.less.label "ย่อ">
+<!ENTITY detailsPane.less.accesskey "ย">
+<!ENTITY detailsPane.noPreviewAvailable.label "ดูตัวอย่าง">
+<!ENTITY detailsPane.selectAnItemText.description "เลือกรายการเพื่อแสดงและแก้ไขคุณสมบัติของมัน">

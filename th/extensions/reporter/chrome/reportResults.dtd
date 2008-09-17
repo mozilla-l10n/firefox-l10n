@@ -1,0 +1,15 @@
+<!ENTITY reportSite "ไซต์">
+<!ENTITY reportProblemType "ประเภทปัญหา">
+<!ENTITY reportDecsription "คำอธิบาย">
+<!ENTITY reportPlatform "แพลตฟอร์ม">
+<!ENTITY reportProduct "ผลิตภัณฑ์">
+<!ENTITY reportoscpu "โอเอส">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "ค่าประกอบสร้าง">
+<!ENTITY reportUseragent "Useragent">
+<!ENTITY reportLanguage "ภาษา">
+<!ENTITY reportCharset "อักขระ">
+<!ENTITY reportEmail "อีเมล">
+<!ENTITY error "รายละเอียดข้อผิดพลาด">
+<!ENTITY faultCode "เลขรหัส">
+<!ENTITY faultMessage "เนื้อความ">

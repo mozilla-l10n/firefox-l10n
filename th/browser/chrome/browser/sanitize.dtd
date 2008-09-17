@@ -1,0 +1,24 @@
+<!ENTITY sanitizeDialog.title "ล้างข้อมูลส่วนตัว">
+
+<!ENTITY sanitizeItems.label "ล้างข้อมูลต่อไปนี้เดี๋ยวนี้ :">
+<!ENTITY clearDataSettings.label "เมื่อให้ &brandShortName; ล้างข้อมูลส่วนตัว ข้อมูลที่ควรถูกลบคือ :">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "ประวัติการท่องเน็ต">
+<!ENTITY itemHistory.accesskey "น">
+<!ENTITY itemFormSearchHistory.label "ข้อมูลแบบฟอร์มและประวัติการค้นหา">
+<!ENTITY itemFormSearchHistory.accesskey "ฟ">
+<!ENTITY itemPasswords.label "รหัสผ่าน">
+<!ENTITY itemPasswords.accesskey "ร">
+<!ENTITY itemCookies.label "คุกกี้">
+<!ENTITY itemCookies.accesskey "ก">
+<!ENTITY itemCache.label "แคช">
+<!ENTITY itemCache.accesskey "ค">
+<!ENTITY itemOfflineApps.label "ข้อมูลเว็บไซต์ออฟไลน์">
+<!ENTITY itemOfflineApps.accesskey "ข">
+<!ENTITY itemDownloads.label "ประวัติการดาวน์โหลด">
+<!ENTITY itemDownloads.accesskey "ป">
+<!ENTITY itemSessions.label "วาระที่ได้ยืนยันว่าใช่ตัวจริง">
+<!ENTITY itemSessions.accesskey "ว">
+<!ENTITY window.width "30em">

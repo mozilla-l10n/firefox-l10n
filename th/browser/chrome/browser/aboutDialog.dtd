@@ -1,0 +1,9 @@
+<!ENTITY aboutDialog.title "เกี่ยวกับ &brandFullName;">
+<!ENTITY copyright "ผู้จัดทำ">
+<!ENTITY copyright.accesskey "จ">
+<!ENTITY aboutLink "&lt; เกี่ยวกับ &brandFullName;">
+<!ENTITY aboutLink.accesskey "ก">
+<!ENTITY aboutVersion "รุ่น">
+<!ENTITY copyrightInfo "&#169;1998-2008 Contributors. All Rights Reserved. Firefox and the 
+Firefox logos are trademarks of the Mozilla Foundation.  All rights 
+reserved.">

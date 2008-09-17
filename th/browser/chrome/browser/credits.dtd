@@ -1,0 +1,15 @@
+<!ENTITY brandMotto "Rediscover the Web">
+<!ENTITY credit.thanks "ขอบคุณเป็นพิเศษ">
+
+<!ENTITY credit.thanks2 "ขอบคุณมาก ๆ">
+<!ENTITY credit.contributors2 "ผู้ร่วมสมทบ">
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+
+<!ENTITY credit.translation "<h3>ผู้แปล</h3><ul><li>Siriwat Aumngamsup</li><li>Chakard Chalayut</li><li>Isriya Paireepairit</li><li>Nattawat Palakawong Na Ayudhaya</li><li>Patcharaporn Pansuwan</li><li>Jittat Fakcharoenphol</li><li>Polawat Phetra</li><li>Poakpong Phongsasanongkul</li><li>Rerng-rit Rakkanittakorn</li><li>Patinya Sangiamchit</li><li>Phisit Siprasatthong</li><li>Pittaya Sroilong</li><li>Arthit Suriyawongkul</li><li>Patipat Susumpow</li></ul>">
+
+<!ENTITY credit.memory "อุทิศให้">
+<!ENTITY credit.poweredByGeckoReg "ขับเคลื่อนด้วย Gecko&reg;">

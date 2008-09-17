@@ -1,0 +1,55 @@
+<!ENTITY history.label "ประวัติ">
+<!-- LOCALIZATION NOTE:
+  The entities rememberDaysBefore.label and rememberDaysAfter2.label appear on a single
+  line in preferences as follows:
+
+  &rememberDaysBefore.label  [ textbox for number of days ]  &rememberDaysAfter2.label;
+-->
+
+<!ENTITY rememberDaysBefore.label "เก็บประวัติเอาไว้อย่างน้อย">
+<!ENTITY rememberDaysBefore.accesskey "ป">
+<!ENTITY rememberDaysAfter2.label "วัน">
+
+<!ENTITY rememberForms.label "จำข้อมูลที่พิมพ์ไว้ในแบบฟอร์มและช่องค้นหา">
+<!ENTITY rememberForms.accesskey "ฟ">
+
+<!ENTITY rememberDownloads.label "จำว่าดาวน์โหลดอะไรมาบ้าง">
+<!ENTITY rememberDownloads.accesskey "ด">
+
+
+<!ENTITY cookies.label "คุกกี้">
+
+<!ENTITY acceptCookies.label "รับคุกกี้จากเว็บไซต์">
+<!ENTITY acceptCookies.accesskey "ร">
+
+<!ENTITY acceptThirdParty.label "รับคุกกี้จากเว็บไซต์อื่น">
+<!ENTITY acceptThirdParty.accesskey "อ">
+
+<!ENTITY keepUntil.label "เก็บจนกระทั่ง :">
+<!ENTITY keepUntil.accesskey "ก">
+
+<!ENTITY expire.label "มันหมดอายุ">
+<!ENTITY close.label "ฉันปิด &brandShortName;">
+<!ENTITY askEachTime.label "ถามฉันทุกครั้ง">
+
+<!ENTITY cookieExceptions.label "ยกเว้น…">
+<!ENTITY cookieExceptions.accesskey "ย">
+
+<!ENTITY showCookies.label "แสดงคุกกี้…">
+<!ENTITY showCookies.accesskey "ส">
+
+
+<!ENTITY privateData.label "ข้อมูลส่วนตัว">
+
+<!ENTITY alwaysClear.label "ล้างข้อมูลส่วนตัวทุกครั้งที่ปิด &brandShortName;">
+<!ENTITY alwaysClear.accesskey "ท">
+
+<!ENTITY askBeforeClear.label "ถามก่อนจะล้างข้อมูลส่วนตัว">
+<!ENTITY askBeforeClear.accesskey "ถ">
+
+<!ENTITY clearDataSettings.label "ตั้งค่า…">
+<!ENTITY clearDataSettings.accesskey "ต">
+
+<!ENTITY clearDataNow.label "ล้างเดี๋ยวนี้…">
+<!ENTITY clearDataNow.label2 "ล้างเดี๋ยวนี้">
+<!ENTITY clearDataNow.accesskey "ล">

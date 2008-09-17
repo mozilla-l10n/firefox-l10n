@@ -1,0 +1,102 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label "ทั่วไป">
+
+<!ENTITY accessibility.label "สิ่งอำนวยความสะดวก">
+
+<!ENTITY useCursorNavigation.label "ใช้ปุ่มลูกศรนำทางภายในหน้าเสมอ">
+<!ENTITY useCursorNavigation.accesskey "ป">
+<!ENTITY searchStartTyping.label "ค้นหาข้อความเมื่อเริ่มต้นพิมพ์">
+<!ENTITY searchStartTyping.accesskey "ข">
+<!ENTITY blockAutoRefresh.label "เตือนทุกครั้งเมื่อเว็บไซต์จะทำการเปลี่ยนเส้นทางหรือเรียกหน้าเว็บใหม่">
+<!ENTITY blockAutoRefresh.accesskey "ว">
+
+<!ENTITY browsing.label "การดูหน้าเว็บ">
+
+<!ENTITY useAutoScroll.label "ใช้การเลื่อนหน้าอัตโนมัติ">
+<!ENTITY useAutoScroll.accesskey "อ">
+<!ENTITY useSmoothScrolling.label "ใช้การเลื่อนหน้าแบบลื่นไหล">
+<!ENTITY useSmoothScrolling.accesskey "ล">
+<!ENTITY checkSpelling.label "ตรวจสอบตัวสะกดขณะพิมพ์">
+<!ENTITY checkSpelling.accesskey "ส">
+
+<!ENTITY systemDefaults.label "ค่าปริยายของระบบ">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label "ตรวจว่า &brandShortName; เป็นเบราว์เซอร์ปริยายหรือไม่ เมื่อเริ่มโปรแกรมทุกครั้ง">
+<!ENTITY alwaysCheckDefault.accesskey "ท">
+<!ENTITY checkNow.label "ตรวจเดี๋ยวนี้">
+<!ENTITY checkNow.accesskey "ด">
+
+<!ENTITY networkTab.label "เครือข่าย">
+
+<!ENTITY connection.label "การเชื่อมต่อ">
+
+<!ENTITY connectionDesc.label "ตั้งค่าการเชื่อมต่ออินเทอร์เน็ตของ &brandShortName;">
+<!ENTITY connectionSettings.label "ตั้งค่า…">
+<!ENTITY connectionSettings.accesskey "ต">
+
+<!ENTITY offlineStorage.label "ที่เก็บข้อมูลออฟไลน์">
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+
+<!ENTITY useCacheBefore.label "ใช้เนื้อที่เก็บข้อมูลชั่วคราวไม่เกิน">
+<!ENTITY useCacheBefore.accesskey "ช">
+<!ENTITY useCacheAfter.label "MB">
+<!ENTITY clearCacheNow.label "ล้างเดี๋ยวนี้">
+<!ENTITY clearCacheNow.accesskey "ล">
+
+<!ENTITY updateTab.label "ปรับปรุง">
+
+<!ENTITY autoCheck.label "ตรวจสอบการปรับปรุงอัตโนมัติกับ :">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableAddonsUpdate.label "ส่วนเสริมที่ติดตั้งอยู่">
+<!ENTITY enableAddonsUpdate.accesskey "ต">
+<!ENTITY enableSearchUpdate.label "เครื่องมือค้นหา">
+<!ENTITY enableSearchUpdate.accesskey "ค">
+<!ENTITY whenUpdatesFound.label "เมื่อพบการปรับปรุงใด ๆ ของ &brandShortName; :">
+<!ENTITY askMe.label "ถามว่าฉันต้องการทำอะไร">
+<!ENTITY askMe.accesskey "ถ">
+<!ENTITY modeAutomatic.label "ดาวน์โหลดและติดตั้งการปรับปรุงโดยอัตโนมัติ">
+<!ENTITY modeAutomatic.accesskey "ด">
+<!ENTITY modeAutoAddonWarn.label "เตือนถ้าต้องมีการปิดใช้งานส่วนเสริมใด ๆ">
+<!ENTITY modeAutoAddonWarn.accesskey "ต">
+<!ENTITY updateHistory.label "แสดงประวัติการปรับปรุง">
+<!ENTITY updateHistory.accesskey "ป">
+
+<!ENTITY offlineNotify.label "แจ้งเมื่อเว็บไซต์ต้องการเก็บข้อมูลไว้ใช้ตอนออฟไลน์">
+<!ENTITY offlineNotify.accesskey "จ">
+<!ENTITY offlineNotifyExceptions.label "ยกเว้น…">
+<!ENTITY offlineNotifyExceptions.accesskey "ย">
+
+<!ENTITY offlineAppsList.label "เว็บไซต์เหล่านี้ได้เก็บข้อมูลไว้ใช้ตอนออฟไลน์ :">
+<!ENTITY offlineAppsList.height "7em">
+<!ENTITY offlineAppsListRemove.label "ลบ…">
+<!ENTITY offlineAppsListRemove.accesskey "ล">
+<!ENTITY offlineAppRemove.confirm "เอาข้อมูลออฟไลน์ออก">
+
+<!ENTITY encryptionTab.label "การเข้ารหัสลับ">
+
+<!ENTITY protocols.label "โพรโทคอล">
+<!ENTITY useSSL3.label "ใช้งาน SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "ใช้งาน TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "ใบรับรอง">
+<!ENTITY certSelection.description "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนตัว :">
+<!ENTITY certs.auto "เลือกอัตโนมัติ">
+<!ENTITY certs.auto.accesskey "อ">
+<!ENTITY certs.ask "ถามฉันทุกครั้ง">
+<!ENTITY certs.ask.accesskey "ถ">
+<!ENTITY viewCerts.label "ดูใบรับรอง">
+<!ENTITY viewCerts.accesskey "ด">
+<!ENTITY viewCRLs.label "รายการที่ยกเลิก">
+<!ENTITY viewCRLs.accesskey "ย">
+<!ENTITY verify2.label "ตรวจสอบความถูกต้อง">
+<!ENTITY verify2.accesskey "ต">
+<!ENTITY viewSecurityDevices.label "กลไกความปลอดภัย">
+<!ENTITY viewSecurityDevices.accesskey "ก">

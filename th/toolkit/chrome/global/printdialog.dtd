@@ -1,0 +1,28 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "พิมพ์">
+
+<!ENTITY printDialog.title "พิมพ์">
+
+<!ENTITY fpDialog.title "บันทึกแฟ้ม">
+
+<!ENTITY fileCheck.label "พิมพ์เป็นแฟ้ม">
+<!ENTITY propertiesButton.label "คุณสมบัติ…">
+<!ENTITY descText.label "คำอธิบายเครื่องพิมพ์ :">
+<!ENTITY printer.label "เครื่องพิมพ์">
+<!ENTITY printerInput.label "ชื่อเครื่องพิมพ์ :">
+
+<!ENTITY printrangeGroup.label "ช่วง">
+<!ENTITY allpagesRadio.label "ทุกหน้า">
+<!ENTITY rangeRadio.label "หน้า">
+<!ENTITY frompageInput.label "จาก">
+<!ENTITY topageInput.label "ถึง">
+<!ENTITY selectionRadio.label "ส่วนที่เลือก">
+
+<!ENTITY copies.label "สำเนา">
+<!ENTITY numCopies.label "จำนวนสำเนา :">
+
+<!ENTITY printframeGroup.label "พิมพ์กรอบ">
+<!ENTITY aslaidoutRadio.label "อย่างที่จัดวางบนหน้าจอ">
+<!ENTITY selectedframeRadio.label "กรอบที่ถูกเลือก">
+<!ENTITY eachframesepRadio.label "แยกกันแต่ละกรอบ">

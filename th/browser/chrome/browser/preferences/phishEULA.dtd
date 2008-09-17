@@ -1,0 +1,17 @@
+<!ENTITY phishDlg.title "เงื่อนไขการให้บริการป้องกันเว็บไซต์ดักเหยื่อ">
+<!-- LOCALIZATION NOTE:
+     The following entities contain sizing information for the phishing privacy
+     agreement dialog, which is opened when you select the "Check by asking"
+     option as how the browser checks for phishing attempts (if you haven't
+     already agreed with the policy for that provider; once you agree to a
+     provider's policy, you don't see it again).
+-->
+
+<!ENTITY phishDlg.height "40em">
+<!ENTITY phishDlg.width "35em">
+
+<!ENTITY acceptToS.label "ฉันยอมรับเงื่อนไขการให้บริการป้องกันเว็บไซต์ดักเหยื่อนี้">
+<!ENTITY declineToS.label "ฉันไม่ยอมรับเงื่อนไขการให้บริการป้องกันเว็บไซต์ดักเหยื่อนี้">
+
+<!ENTITY accept.label "ยอมรับและไปต่อ">
+<!ENTITY cancel.label "ยกเลิก">

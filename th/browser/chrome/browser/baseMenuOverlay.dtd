@@ -1,0 +1,48 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "ย่อหาย">
+<!ENTITY bringAllToFront.label "นำทั้งหมดมาข้างหน้า">
+<!ENTITY zoomWindow.label "ย่อ-ขยาย">
+<!ENTITY windowMenu.label "หน้าต่าง">
+
+<!ENTITY helpMenu.label "วิธีใช้">
+<!ENTITY helpMenu.accesskey "ว">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "ช่วยเหลือ">
+<!ENTITY helpMenuWin.accesskey "ช">
+<!ENTITY aboutCmd.label "เกี่ยวกับ &brandFullName;">
+<!ENTITY aboutCmd.accesskey "ก">
+<!ENTITY helpContents.label "เนื้อหาวิธีใช้">
+<!ENTITY helpContents.accesskey "ช">
+<!ENTITY helpContentsMac.label "วิธีใช้ &brandShortName;">
+<!ENTITY helpForIEUsers.label "สำหรับผู้ใช้ Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey "/">
+<!ENTITY openHelpMac.modifiers "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey "?">
+<!ENTITY openHelpMac.frontendModifiers "accel">
+
+<!ENTITY helpReleaseNotes.label "บันทึกประจำรุ่น">
+<!ENTITY helpReleaseNotes.accesskey "บ">
+<!ENTITY updateCmd.label "ตรวจหาการปรับปรุง…">
+<!ENTITY updateCmd.accesskey "ป">
+
+<!ENTITY preferencesCmdMac.label "ปรับแต่ง…">
+<!ENTITY preferencesCmdMac.commandkey ",">
+<!ENTITY preferencesCmdMac.modifiers "accel">
+
+<!ENTITY servicesMenuMac.label "บริการ">
+
+<!ENTITY hideThisAppCmdMac.label "ซ่อน &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey "H">
+<!ENTITY hideThisAppCmdMac.modifiers "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label "ซ่อนโปรแกรมอื่น">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label "แสดงทั้งหมด">
