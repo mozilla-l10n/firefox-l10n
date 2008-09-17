@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Khuphela bewuhlanganise Imilayezo">
+<!ENTITY MsgSelect.label "Iinhloko Ezisetjenziswa Ngaphandle Kwelayini">
+<!ENTITY MsgSyncDesc.label "Nakube sele ukhethe iimvilobhu zeposo namkha iinchema zeendaba ukuzisebenzisela ngaphandle kwelayini, ungakhuphela namkha uyihlanganise kwanje. Nakungasinjalo, sebenzisa &quot; Khetha&quot; ikunubhe ukukhetha imvilobhu zeposo neenchema zeendaba ukuzisebenzisela ngaphandle kwelayini.">
+<!ENTITY MsgSyncDirections.label "Khuphela namkha hlanganisa okulandelako:">
+<!ENTITY syncTypeMail.label "Imilayezo yeposo">
+<!ENTITY syncTypeMail.accesskey "I">
+<!ENTITY syncTypeNews.label "Imilayezo yeenchema zeendaba">
+<!ENTITY syncTypeNews.accesskey "I">
+<!ENTITY sendMessage.label "Thumela imilayezo engakathunyelwa">
+<!ENTITY sendMessage.accesskey "T">
+<!ENTITY workOffline.label "Sebenza ngaphandle kwelayini ukukhuphela namkha ukuhlanganisa sele kuphelile">
+<!ENTITY workOffline.accesskey "S">
+<!ENTITY selectButton.label "Khetha...">
+<!ENTITY selectButton.accesskey "K">
+<!ENTITY MsgSelectDesc.label "Khetha iimvilobhu zeposo neenchema zeendaba ukuzibenzisa ngaphandle kwelayini.">
+<!ENTITY MsgSelectInd.label "Khuphela">
+<!ENTITY MsgSelectItems.label "Iimvilobhu neenchema Zeendaba">

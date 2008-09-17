@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Izakhiwo zama-akhawundi">
+<!ENTITY accountSettingsDesc.label "Okulandelako yi-akhawundi ekhethekileko.  Akunabomazisi abasondelene nayo.">
+<!ENTITY accountName.label "I-akhawundi igama:">
+<!ENTITY accountName.accesskey "I">
+<!ENTITY messageStorage.label "Ukubulungwa komlayezo">
+<!ENTITY emptyTrashOnExit.label "Thulula indawo yokulahla nawuPhumako">
+<!ENTITY emptyTrashOnExit.accesskey "h">
+<!ENTITY localPath.label "Irherho lemininingwanayendawo:">
+<!ENTITY localPath.accesskey "I">
+<!ENTITY localFolderPicker.label "Khetha irherho lemininingwana yendawo">
+<!ENTITY browseFolder.label "Funisisa hlangana...">
+<!ENTITY browseFolder.accesskey "F">

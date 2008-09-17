@@ -1,0 +1,73 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 2001
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurances of the word 
+"&brandShortName;" below.
+-->
+
+
+<!ENTITY importDialog.windowTitle "Letha ngaphakathi">
+<!ENTITY importDialog.mailTitle "Iposo">
+<!ENTITY importDialog.addressbookTitle "Incwadi yeemphande">
+<!ENTITY importDialog.settingsTitle "Izakhiwo">
+
+<!ENTITY importTitle.label "&brandShortName; isisetjenziswa sokuletha iposo ngaphakathi">
+<!ENTITY importDesc.label "Letha Iposo Ngaphakathi, Iincwadi Zamakheli nezakhiwo zamanye amahlelo">
+
+<!ENTITY importDescription.label "Isisetjenziswesi sizakuletha imilayezo yeposo ngaphakathi, imitlolo yeencwadi zeemphande, nokukhethiweko kusukela kumahlelo amanye weposo nokwakheka kweencwadi zeemphande ezijayelekileko &brandShortName; Iposo.">
+<!ENTITY importDescription2.label "Nasele zilethwe ngaphakathi, uzakwazi ukufumana ngaphakathi kwe &brandShortName; Iposo begodu/namkha incwadi yeemphande.">
+
+<!ENTITY selectDescription.label "Sibawa ukhethe ihlelo ofuna ukuletha okumumethwe ngilo ngaphakathi:">
+
+<!ENTITY back.label "&lt; Emva">
+<!ENTITY forward.label "Okulandelako &gt;">
+<!ENTITY finish.label "Qeda">
+<!ENTITY cancel.label "Susa">
+
+<!ENTITY select.label "Khetha umhlobo wematheriyali ofuna ukuwuletha ngaphakathi:">
+
+<!ENTITY title.label "Isihloko">
+<!ENTITY processing.label "Ukuletha ngaphakathi...">
+
+<!ENTITY FieldDiscInputText1.label " I-Netscape Communicator 4.x inesiphande sinye sokuposa ekaradeni ngalinye, lokha &brandShortNname; inamabili (sekhaya neseMsebenzini).">
+<!ENTITY FieldDiscInputText2.label "Khetha ihlobo ofuna ukubulunga ngalo amakheli alethwe ngaphakathi wokuposa:">
+<!ENTITY FieldDiscWarning.label "Umhlobo lo uzakusetjenziselwa yoke imitlolo yeencwadi zamakheli ezikhethiweko: ">
+<!ENTITY importDialog.homeTitle "Ekhaya">
+<!ENTITY importDialog.workTitle "Emsebenzini">

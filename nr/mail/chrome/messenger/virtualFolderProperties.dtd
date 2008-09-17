@@ -1,0 +1,17 @@
+<!ENTITY virtualFolderProperties.title "Imvilobhu Etja Yerhubhululo Elibulungiweko">
+<!ENTITY name.label "Ibizo:">
+<!ENTITY name.accesskey "i">
+<!ENTITY description.label "Yakha imvilobhu encani ye:">
+<!ENTITY description.accesskey "Y">
+<!ENTITY searchCriteriaText.label "Tjhugulula isisetjenziswa sokurhubhulula esisetjenziselwa irhubhululo elibulungiweko:">
+<!ENTITY searchCriteriaButton.label "Indlela yokurhubhulula...">
+<!ENTITY searchCriteriaButton.accesskey "I">
+
+<!ENTITY searchTermCaption.label "Hlela indlela yokurhubhulula esetjenziselwa ukubulunga irhubhululo kumvilobhu: ">
+
+<!ENTITY folderSelectionCaption.label "Khetha iimvilobhu ukurhubhulula: ">
+<!ENTITY chooseFoldersButton.label "Khetha...">
+<!ENTITY chooseFoldersButton.accesskey "k">
+
+<!ENTITY searchOnline.label "Rhubhulula Elayinini (Uthola imiphumela yesikhatheso yeIMAP neemvilobhu zeendaba kodwana kungeza isikhathi ukuvula imvilobhu)">
+<!ENTITY searchOnline.accesskey "R">

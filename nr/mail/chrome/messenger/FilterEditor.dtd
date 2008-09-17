@@ -1,0 +1,53 @@
+<!ENTITY window.title "Imithetho Yesefo">
+<!ENTITY subject.label "isihloko">
+<!ENTITY sender.label "umthumeli">
+<!ENTITY date.label "isuku">
+<!ENTITY anyText.label "omunye nomunye umtlolo">
+<!ENTITY keyword.label "igama ekungilo">
+<!ENTITY age.label "iminyaka ngamalanga">
+<!ENTITY to.label "ku">
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "izinga">
+<!ENTITY priority.label "ikhetho-phambili">
+<!ENTITY body.label "umzimba">
+<!ENTITY contains.label "okumumethwe">
+<!ENTITY nocontains.label "akunalitho">
+<!ENTITY filterName.label "Igama Lesefo:">
+<!ENTITY filterName.accesskey "i">
+
+<!ENTITY junk.label "Okulahliweko">
+<!ENTITY notJunk.label "Okufunekako">
+
+<!ENTITY lowestPriorityCmd.label "Ngaphasi kwe">
+<!ENTITY lowPriorityCmd.label "Ngaphasi">
+<!ENTITY normalPriorityCmd.label "Okujayelekileko">
+<!ENTITY highPriorityCmd.label "Okuphezulu">
+<!ENTITY highestPriorityCmd.label "Okungaphezulu kwe">
+
+<!ENTITY conditionDesc.label "Mayelana nemilayezo engenako e:">
+<!ENTITY filterActionDesc.label "Yenza izenzwezi:">
+<!ENTITY filterActionDesc.accesskey "Y">
+
+<!ENTITY newFolderButton.label "Imvilobhu Etja...">
+<!ENTITY newFolderButton.accesskey "I">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "Move Message to">
+<!ENTITY copyMessage.label "Copy Message to">
+<!ENTITY forwardTo.label "Forward Message to">
+<!ENTITY replyWithTemplate.label "Reply with Template">
+<!ENTITY markMessageRead.label "Mark As Read">
+<!ENTITY markMessageStarred.label "Add Star">
+<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY setPriority.label "Set Priority to">
+<!ENTITY addTag.label "Tag Message">
+<!ENTITY setJunkScore.label "Set Junk Status to">
+<!ENTITY deleteMessage.label "Delete Message">
+<!ENTITY deleteFromPOP.label "Delete From POP Server">
+<!ENTITY fetchFromPOP.label "Fetch From POP Server">
+<!ENTITY ignoreThread.label "Ignore Thread">
+<!ENTITY watchThread.label "Watch Thread">
+

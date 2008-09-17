@@ -1,0 +1,60 @@
+<!ENTITY itemGeneral.label "Okuvamileko">
+<!ENTITY itemAutoComplete.label "Tlola ikheli">
+<!ENTITY itemSpellCheck.label "Isipeledo">
+<!ENTITY itemSendFormat.label "Indlela Yokuthumela">
+
+<!ENTITY forwardReply.label "Ukuthumela imilayezo">
+<!ENTITY forwardMsg.label "Thumela Imilayezo:">
+<!ENTITY forwardMsg.accesskey "t">
+<!ENTITY inline.label "Ngaphakathi kwelayini">
+<!ENTITY inline.accesskey "N">
+<!ENTITY asAttachment.label "Njengesinamathiselo">
+<!ENTITY asAttachment.accesskey "N">
+
+<!ENTITY sendingMessagesHeader.label "Ukwakha Imilayezo">
+<!ENTITY spellCheck.label "Qalisisa isipeledo ngaphambili kobana uthumele">
+<!ENTITY spellCheck.accesskey "Q">
+<!ENTITY spellCheckInline.label "Enable spell check as you type">
+<!ENTITY spellCheckInline.accesskey "n">
+<!ENTITY languagePopup.label "Ilimi:">
+<!ENTITY languagePopup.accessKey "i">
+<!ENTITY downloadDictionaries.label "Khuphela iinhlathululimezwi Ezinye">
+
+<!ENTITY useMIME.label "Mayelana nemilayezo enezakhiwo ezidlula inani elingu 8, sebenzisa 'iyagadangiseka' MIME ukuphendulela kukhowudi">
+<!ENTITY useMIME.accesskey "m">
+<!ENTITY warnOnSendAccelKey.label "Qinisekisa nawusebenzisa indlela erhunyeziweko yekhibhodi ukuthumela umlayezo">
+<!ENTITY warnOnSendAccelKey.accesskey "q">
+<!ENTITY autoSave.label "Bulunga Ngokuzenzakalela">
+<!ENTITY autoSave.accesskey "b">
+<!ENTITY autoSaveEnd.label "imizuzu">
+<!ENTITY autoSaveEnd.accesskey "m">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "Songa imilayezo etlolwe msulwa ku">
+<!ENTITY wrapOutMsg.accesskey "s">
+<!ENTITY char.label "iinhlavu">
+
+<!ENTITY emailCollectionPicker.label "Ngokuzenzakalela ngeza ama-email aphumela ngaphandle ku:">
+<!ENTITY emailCollectionPicker.accesskey "n">
+<!ENTITY addressingTitle.label "Ukuqedela amakheli okuzenzakalelako">
+<!ENTITY autocompleteText.label "Nawuthumela imilayezo, qala imitlolo efanako ku:">
+<!ENTITY addressingEnable.label "Iincwadi zeemphande zeendawo">
+<!ENTITY addressingEnable.accesskey "Z">
+<!ENTITY directories.label "Umphathi werherho:">
+<!ENTITY directories.accesskey "U">
+<!ENTITY editDirectories.label "Lungisa okutloliweko...">
+<!ENTITY editDirectories.accesskey "L">
+<!ENTITY matchText.label "Najufanako encwadini yeemphande zeendawo:">
+<!ENTITY skipDirectory.label "Ungarhubhululi irherho">
+
+<!ENTITY sendOptionsCaption.label "Thumela begodu ikhetho le-HTML">
+<!ENTITY sendOptionsDescription.label "Tjhugulula indlela yomtlolo nokuphatheka">
+<!ENTITY sendOptions.label "Ikhetho Lokuthumela...">
+<!ENTITY sendOptions.accesskey "I">
+
+<!ENTITY htmlComposeDescription.label "Tjhugulula ikhetho lokujamisa leHTML">
+<!ENTITY htmlCompose.label "Ikhetho LeHTML...">
+<!ENTITY htmlCompose.accesskey "H">
+
+<!ENTITY returnReceiptsInfo.label "Itjho bonyana I-&brandShortName; iwaphatha njani amarasidi abuyako">
+<!ENTITY showReturnReceipts.label "Amarasidi Wokubuyisa...">
+<!ENTITY showReturnReceipts.accesskey "A">

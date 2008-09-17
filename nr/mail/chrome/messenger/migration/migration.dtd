@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title "Ngenisa Isihlakaniphi Ngaphakathi">
+
+<!ENTITY importFrom.label "Ngenisa ikhetho ngaphakathi, Itshwayo leencwadi, Umlando, Iinomboro zokungena neminye imininingwane kusukela:">
+<!ENTITY importFromUnix.label "Ngenisa ngaphakathi okukhethako, Itshwayo leencwadi, Umlando, Iinomboro zokungena neminye imininingwane kusukela:">
+
+<!ENTITY importFromNothing.label "Ungangenisi litho ngaphakathi">
+<!ENTITY importFromNothing.accesskey "U">
+<!ENTITY importFromSeamonkey.label "Netscape 6, 7 namkha Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOExpress.label "Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
+<!ENTITY importFromEudora.label "I-Eudora">
+<!ENTITY importFromEudora.accesskey "E">
+
+<!ENTITY importSource.title "Ngenisa izakhiwo nemininingwane ngaphakathi kusukela ku">
+<!ENTITY importItems.title "Iinhloko ekufanele zingeniswe ngaphakathi">
+<!ENTITY importItems.label "Khetha bona kufanele kungeniswe iinhloko ziphi ngaphakathi:">
+
+<!ENTITY migrating.title "Ingenisa ngaphakathi...">
+<!ENTITY migrating.label "Iinhloko ezilandelako kwagadesi zingeniswa ngaphakathi...">
+
+<!ENTITY selectProfile.title "Khetha iphrofayili">
+<!ENTITY selectProfile.label "Amaphrofayili alandelako akhona ukungeniswa ngaphakathi kusukela ku:">
+
+<!ENTITY done.title "Ukungenisa ngaphakathi kuphelile">
+<!ENTITY done.label "Iinhloko ezilandelako kuphumelele ukuzingenisa ngaphakathi:">

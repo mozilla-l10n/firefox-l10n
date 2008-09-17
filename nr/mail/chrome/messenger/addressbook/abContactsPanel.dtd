@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label "Incwadi Yeemphande:">
+<!ENTITY searchInput.label "Funisisa I:">
+<!ENTITY SearchNameOrEmail.label "Igama namkha I-Imeyili">
+
+<!ENTITY addtoToFieldMenu.label "Ngezelela kundawo">
+<!ENTITY addtoCcFieldMenu.label "Ngezelela kundawo yokukopela (Cc)">
+<!ENTITY addtoBccFieldMenu.label "Ngezelela kundawo (Bcc)">
+
+<!ENTITY toButton.label "Ngezelela Ku:">
+<!ENTITY ccButton.label "Ngezelela Ku-Kopela (Cc):">
+

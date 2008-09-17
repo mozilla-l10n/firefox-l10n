@@ -1,0 +1,14 @@
+<!ENTITY reportSite "Indawo">
+<!ENTITY reportProblemType "Umhlobo Wekinga">
+<!ENTITY reportDecsription "Ihlathululo">
+<!ENTITY reportPlatform "Isitezi">
+<!ENTITY reportProduct "Umkhiqizo">
+<!ENTITY reportoscpu "OS">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Yakha iisetjenziswa zokurhunyeza">
+<!ENTITY reportUseragent "Ojamele umsebenzisi">
+<!ENTITY reportLanguage "Ilimi">
+<!ENTITY reportEmail "Iposo">
+<!ENTITY error "Imininingwana yeposo">
+<!ENTITY faultCode "Ikhowudi">
+<!ENTITY faultMessage "Umlayezo">

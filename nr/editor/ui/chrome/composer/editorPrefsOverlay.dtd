@@ -1,0 +1,9 @@
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "Isakhi">
+<!ENTITY editing.label "Iinsetjenziswa Zokwakha Amakhasi Amatjha">
+<!ENTITY toolbars.label "Isivalo Samathulusi">
+<!ENTITY publish.label "Ukwazisa">

@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Izakhiwo">
+<!ENTITY security.caption "Ivikelo nokuqinisekisa">
+<!ENTITY serverName.label "Ibizo lomsebenzi:">
+<!ENTITY serverName.accesskey "I">
+<!ENTITY serverDescription.label "Ihlathululo:">
+<!ENTITY serverDescription.accesskey "I">
+<!ENTITY serverPort.label "Itheku:">
+<!ENTITY serverPort.accesskey "I">
+<!ENTITY alwaysUseUsername.label "Sebenzisa ibizo nenomboro yokungena">
+<!ENTITY alwaysUseUsername.accesskey "S">
+<!ENTITY userName.label "Ibizo lomsebenzisi:">
+<!ENTITY userName.accesskey "i">
+<!ENTITY isSecure.label "Sebenzisa ihlanganiso evikelekileko:">
+<!ENTITY neverSecure.label "Awa">
+<!ENTITY neverSecure.accesskey "A">
+<!ENTITY sometimesSecure.label "TLS, nakube ikhona">
+<!ENTITY sometimesSecure.accesskey "t">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "S">
+<!ENTITY smtpEditTitle.label "Isisebenzi seSMTP">
+<!ENTITY serverPortDefault.label "Ngokuzenzakalela:">

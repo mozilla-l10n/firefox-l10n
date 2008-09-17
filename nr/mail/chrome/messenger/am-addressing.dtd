@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Ukwakheka &amp; iya ku">
+<!ENTITY addressingGroupTitle.label "Lya kubani">
+<!ENTITY addressingText.label "Ukuzuma iimphande:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "Sebenzisa ikhetho lami lokusebenzela leLDAP yephasi loke ku-akhawundi le">
+<!ENTITY useGlobal.accesskey "S">
+<!ENTITY editDirectories.label "Lungisa irherho lamahlelo...">
+<!ENTITY editDirectories.accesskey "L">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Sebenzisa isisetjenziswa esinye seLDAP:">
+<!ENTITY directories.accesskey "d">
+<!-- am-addressing.xul -->
+
+
+<!ENTITY compositionGroupTitle.label "Ukwakheka">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Yakha imilayezo ngehlobo leHTML">
+<!ENTITY useHtml.accesskey "Y">
+<!ENTITY autoQuote.label "Ngokuzenzakalela dzubhula umlayezo wokuthoma lokha uphendula">
+<!ENTITY autoQuote.accesskey "d">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "Begodu,">
+<!ENTITY then.accesskey "b">
+<!ENTITY aboveQuote.label "thoma ngependulo yami ngaphezulu kwalokho engikudzubhulileko">
+<!ENTITY belowQuote.label "thoma ngaphezulu kwalokho engikudzubhulileko">
+<!ENTITY selectAndQuote.label "khetha engikudzubhulileko">
+<!ENTITY place.label "begodu beka isayini yami">
+<!ENTITY place.accesskey "i">
+<!ENTITY belowText.label "ngaphasi kwalokho engikudzubhulileko (kuyahlongozwa)">
+<!ENTITY aboveText.label "ngaphasi kwependulo yami (ngaphezulu kwalokho engikudzubhulileko)">

@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Ukonga indawo kudiski, ungakhipheli kilo:">
+<!ENTITY doNotDownload.label "Ukonga indawo kudiski, ungakhipheli kilo uyolisebenzisa ngaphandle:">
+<!ENTITY offlineNewFolder.label "Nangakha iimvilobhu ezitja, zikhethele ukuzisebenzisa ngaphandle kwelayini">
+<!ENTITY offlineNewFolder.accesskey "n">
+<!ENTITY offlineNotDownload.label "Imilayezo emikhulu kuna">
+<!ENTITY offlineNotDownload.accesskey "I">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "amalanga">
+<!ENTITY daysOld.label "ubudala bamalanga">
+<!ENTITY message.label "imilayezo">
+<!ENTITY nntpNotDownloadRead.label "Funda imilayezo">
+<!ENTITY nntpNotDownloadRead.accesskey "F">
+<!ENTITY nntpDownloadMsg.label "Imilayezo engaphezulu kwe">
+<!ENTITY nntpDownloadMsg.accesskey "i">
+<!ENTITY retentionCleanup.label "Ukubuyisa indawo kudiski, imilayezo emidala ingasulelwa futhi">
+<!ENTITY retentionKeepMsg.label "Cima imilayezo engaphezulu kwe">
+<!ENTITY retentionKeepMsg.accesskey "i">
+<!ENTITY retentionKeepAll.label "Ungacimi milayezo">
+<!ENTITY retentionKeepAll.accesskey "M">
+<!ENTITY retentionKeepNew.label "Cimayoke kodwana ingasi yamaswaphela">
+<!ENTITY retentionKeepNew.accesskey "c">
+<!ENTITY retentionKeepUnread.label "Ngaso soke isikhathi cima imilayezo efundweko">
+<!ENTITY retentionKeepUnread.accesskey "i">
+<!ENTITY nntpRemoveBody.label "Imizimba yemilayezo kwaphela engaphasi ko">
+<!ENTITY nntpRemoveBody.accesskey "I">
+<!ENTITY offlineSelectNntp.label "Khetha iinchema zeendaba ukuyisebenzisa ngaphandle kwe...">
+<!ENTITY offlineSelectImap.label "Khetha iimvilobhu ukuzisebenzisa ngaphandle...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "Ungakhuphela imilayezo engaphakathi eduze bona ikwazi ukuba khona nawusebenza ngaphandle.">
+<!ENTITY makeInboxMsgsAvailable.label "Yenza imilayezo ebhokisini lami okukhona nangisebenza ngaphandle kwelayini">
+<!ENTITY makeInboxMsgsAvailable.accesskey "e">
+<!ENTITY offlineGroupTitle.label "Ngaphandle">
+<!ENTITY diskspaceGroupTitle.label "Indawo yediski">

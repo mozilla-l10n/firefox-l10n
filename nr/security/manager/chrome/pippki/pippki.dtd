@@ -1,0 +1,133 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Terry Hayes <thayes@netscape.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Values for changepassword.xul -->
+
+<!ENTITY setPassword.title "Tjhugulula Inomboro yokungena Elawulako">
+<!ENTITY setPassword.tokenName.label "Isisetjenziswa Sevikelo">
+<!ENTITY setPassword.oldPassword.label "Inomboro yokungena yanje:">
+<!ENTITY setPassword.newPassword.label "Inomboro yokungena etja:">
+<!ENTITY setPassword.reenterPassword.label "Inomboro yokungena etja (godu):">
+<!ENTITY setPassword.meter.label "Imitha yekhwalithi yenomboro yokungena">
+<!ENTITY setPassword.meter.loading "Ukulayitjha">
+<!-- Values for resetpassword.xul -->
+
+<!ENTITY resetPasswordButtonLabel "Hlela butjha">
+<!ENTITY resetPassword.title "Hlela butjha inomboro yokungena elawulako">
+<!ENTITY resetPassword.text "Nakube uhlela butjha inomboro yakho yokungena elawulako, zoke iinomboro zokungena zakho ze-web neze-email, ukusukela kumininingwane, iintifikhethi zakho neenkhiya zangasese zizokukhohlweka. Uqinisile bona ufuna ukuhlela godu inomboro yokungena elawulako?">
+<!-- Values for getpassword.xul -->
+
+<!ENTITY getPassword.title "Tlola Inomboro Yokungena Elawulako">
+<!ENTITY getPassword.tokenName.label "Isisetjenziswa Sevikelo">
+<!ENTITY getPassword.password.label "Inomboro yokungena:">
+<!-- These should be common -->
+
+<!ENTITY piperror.title "Iphoso">
+<!ENTITY pipalert.title "Iphoso - ayikwazi ukufumana butjha">
+<!-- Prefs panel strings -->
+
+<!ENTITY pref.security.general.lHeader "Ivikelo">
+<!ENTITY pref.security.general.rHeader "Izakhiwo zevikelo elijayelekileko">
+<!ENTITY pref.security.general.header "Izakhiwo zevikelo elijayelekileko">
+<!ENTITY pref.security.general.level.title "Izinga Levikelo">
+<!ENTITY pref.security.general.paranoid.label "Sebenzisa izakhiwo zokuvikela ezingathembiko">
+<!ENTITY pref.security.general.certificates.title "Iintifikhethi">
+<!ENTITY pref.security.general.manageCert.label "Phatha Iintifikhethi">
+<!-- Downloading a cert -->
+
+<!ENTITY downloadCert.title "Ukukhuphela Iintifikhethi">
+<!ENTITY downloadCert.message1 "Kube nesibawo sokobana uthembe Isiphathimandla esitjha Sesitifikhethi (CA).">
+<!ENTITY downloadCert.trustSSL "Themba CA le ukubona ama-web sites.">
+<!ENTITY downloadCert.trustEmail "Themba CA le ukubona abasebenzisi be-email.">
+<!ENTITY downloadCert.trustObjSign "Themba CA le ukubona abathuthukisa ihlelo lekhompyutha.">
+<!ENTITY downloadCert.message3 "Ngaphambili kokuthemba CA le mayelana nayiphi ihloso, kufanele uqalisise isitifikhethi sayo nemigomo nekambiso yayo (nakube kuyakghoneka).">
+<!ENTITY downloadCert.viewCert.label "Bona">
+<!ENTITY downloadCert.viewPolicy.label "Umgomo">
+<!ENTITY downloadCert.viewCert.text "Qalisisa Iintifikhethi zeCA">
+<!ENTITY downloadCert.viewPolicy.text "Qalisisa imigomo nekambiso yeCA">
+<!-- Certificate Exists in database -->
+
+<!ENTITY caCertExists.title "Isitifikhethi sikhona">
+<!ENTITY caCertExists.message "Isitifikhethi sele sikhona.">
+<!-- Strings for the MismatchDomain dialog  -->
+
+<!ENTITY domainMismatch.title "Iphoso Yevikelo: Igama Lendawo Alikhambelani">
+<!ENTITY examineCert.label "Bona Isitifikhethi">
+<!ENTITY examineCert.accesskey "B">
+<!-- Strings for the Server cert expired dialog  -->
+
+<!ENTITY serverCertExpired.continue "Ufuna ukuragela phambili?">
+<!ENTITY serverCertExpired.accept.label "Ragela phambili">
+<!-- Strings for the SSL client auth ask dialog -->
+
+<!ENTITY clientAuthAsk.title "Isibawo sokwazisa umsebenzisi">
+<!ENTITY clientAuthAsk.message1 "Indawo le ibawe bonyana uzazise ngesitifikeyiti:">
+<!ENTITY clientAuthAsk.message2 "Khetha isitifikhethi ozosibonisa njengomazisi:">
+<!ENTITY clientAuthAsk.message3 "Imininingwane yesitifikhethi esikhethiweko:">
+<!-- Strings for the cert picker dialog -->
+
+<!ENTITY certPicker.title "Khetha Isitifikhethi">
+<!ENTITY certPicker.info "Isitifikhethi:">
+<!ENTITY certPicker.detailsLabel "Imininingwane yesitifikhethi esikhethiweko:">
+
+<!ENTITY pkcs12.setpassword.title "Khetha inomboro yokungena yesitifikhethi esisisekelo">
+<!ENTITY pkcs12.setpassword.message "Inomboro yokungena yesitifikhethi esisisekelo oyifake la ivikela ifayili elisisekelo oseduze nokulakha.  Kufanele uhlele inomboro le yokungena ukuragela phambili nesekelo.">
+<!ENTITY pkcs12.setpassword.label1 "Inomboro yokungena yesisekelo sesitifikhethi:">
+<!ENTITY pkcs12.setpassword.label2 "Inomboro yokungena yesisekelo sesitifikhethi (godu):">
+<!ENTITY pkcs12.setpassword.reminder "Kuqakathekile: Nakube uyalibala inomboro yokungena yesisekelo sesitifikhethi, angeze ukwazi ukuvuselela isisekelwesi esikhathi esizako.  Sibawa uyitlole endaweni ebulungekileko.">
+
+<!ENTITY pkcs12.getpassword.title "Inomboro yokungena ekulumiswaneni">
+<!ENTITY pkcs12.getpassword.message "Sibawa utlole inomboro yokungena eyayisetjenziswa ukufihla isisekelo sesithifikhethi lesi.">
+
+<!ENTITY chooseToken.title "Khetha isinga-kulumiswano">
+<!ENTITY chooseToken.message1 "Sibawa ukhethe isifaniso.">
+
+<!ENTITY escrowWarn.title "Ikhophi yesikhiya sokufihla">
+<!ENTITY escrowWarn.message1 "Kuqakathekile: Isiphathimandla sesitifikhethesi sibawe ukwenza isekelo sesikhiya sakho sokufihla sangasese.">
+<!ENTITY escrowWarn.benefit1 "Okulungile kukobana nawulahlekelwa kufikela isikhiya sakho sokufihla sangasese, ungabawa ikhophi kusiphathimandla sesitifikhethi.">
+<!ENTITY escrowWarn.message2 "Kodwana isikhiya sakho sokufihla sangasese sizakubulungwa siphathimandla sesitifikhethi, begodu singasetjenziswa ukufunda iposo yakho namkha imitlolo ngaphandle kwemvume yakho.">
+
+<!ENTITY serverCrlNextupdate.message "Sibawa ubawe isizo kumphathi wehlelo lakho">
+<!-- Strings for the CreateCertInfo dialog  -->
+
+<!ENTITY createCertInfo.title "Ukwakheka isikhiya sangasese">
+<!ENTITY createCertInfo.msg1 "Ukwakheka kwesikhiya kuragela phambili... Lokhu kungathatha imizuzu embalwa...">
+<!ENTITY createCertInfo.msg2 "Sibawa ulinde...">
+<!-- Form Signing confirmation prompt -->
+
+<!ENTITY formSigning.title "Isibawo sokusayina umtlolo">
+<!ENTITY formSigning.cert "Ukusayina Isitifikhethi">
+<!ENTITY formSigning.confirmPassword "Ukuvuma uvuma ukusayina umtlolo lo ngokusebenzisa isitifikhethi esikhethiweko, sibawa uvume ngokutlola inomboro yokungena elawulako:">

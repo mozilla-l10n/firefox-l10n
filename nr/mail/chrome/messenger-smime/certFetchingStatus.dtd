@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Ikhuphela isithifikhethi">
+<!ENTITY info.message "Ukurhubhulula umtlolo weenthifikhethi zabamukeli beposo. Lokhu kungathatha imizuzu embalwa.">
+<!ENTITY stop.label "Lisa irhubhululo">

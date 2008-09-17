@@ -1,0 +1,8 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Imilayezo">
+<!ENTITY newMessageCmd.accesskey "i">
+ 
+<!ENTITY newCardCmd.label "Ikarida lencwadi yeemphande...">
+<!ENTITY newCardCmd.accesskey "i">
+

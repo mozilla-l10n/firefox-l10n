@@ -1,0 +1,69 @@
+<!ENTITY itemFormatting.label "Ukuhlela">
+<!ENTITY itemTags.label "Tags">
+<!ENTITY itemFonts.label "Ubukhulu bamagama">
+
+<!ENTITY textBegin.label "Ukuvela komtlolo omsulwa odzubhuliweko">
+<!ENTITY style.label "Isitayela:">
+<!ENTITY style.accesskey "i">
+<!ENTITY regularStyle.label "Okuvamileko">
+<!ENTITY bold.label "Okubonakalako">
+<!ENTITY italic.label "Ithaliki">
+<!ENTITY boldItalic.label "Okubonakalisiweko Kwethaliki">
+<!ENTITY size.label "Isayizi:">
+<!ENTITY size.accesskey "i">
+<!ENTITY regularSize.label "Okuvamileko">
+<!ENTITY bigger.label "Okukhudlwana">
+<!ENTITY smaller.label "Okuncani">
+<!ENTITY color.label "Umbala:">
+<!ENTITY color.accesskey "u">
+<!ENTITY displayWidth.label "Imilayezo Yomtlolo Omsulwa">
+<!ENTITY plainText.label "Sebenzisa Ubukhulu bamagama Obulandelako:">
+<!ENTITY displayText.label "Nawubonisa imilayezo etloliwekko edzubhuliweko:">
+<!ENTITY viewingPlainText.label "Nawubonisa imilayezo etloliweko:">
+<!ENTITY fixedWidth.label "Ubukhulu bamagama anobubanzi obudzimeleleko">
+<!ENTITY fixedWidth.accesskey "u">
+<!ENTITY variableWidth.label "Ububanzi obuhlukeneko bobukhulu bamagama">
+<!ENTITY variableWidth.accesskey "U">
+<!ENTITY readingMessagesHeader.label "Mayelana Nemilayezo Engenako">
+<!ENTITY messageWrapping.label "Ukubuthelelwa Kwemilayezo">
+<!ENTITY wrapInMsg.label "Buthelela umtlolo wanele ububanzi befasidere">
+<!ENTITY wrapInMsg.accesskey "B">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label "Bonisa ama-emoticon njengeenthombe">
+<!ENTITY convertEmoticons.accesskey "B">
+<!ENTITY htmlColors.label "Imilayezo yeHTML">
+<!ENTITY overrideSender.label "When displaying HTML messages, use the following:">
+<!ENTITY overrideSender.accesskey "n">
+<!ENTITY textColor.label "Umbala Womtlolo:">
+<!ENTITY textColor.accesskey "U">
+<!ENTITY backgroundColor.label "Ingemuva Lombala:">
+<!ENTITY backgroundColor.accesskey "i">
+<!-- labels -->
+
+<!ENTITY displayTagsText.label "Tags can be used to categorize and prioritize your messages.">
+<!ENTITY addTagButton.label "Add">
+<!ENTITY addTagButton.accesskey "A">
+<!ENTITY editTagButton.label "Edit">
+<!ENTITY editTagButton.accesskey "E">
+<!ENTITY removeTagButton.label "Delete">
+<!ENTITY removeTagButton.accesskey "l">
+<!-- Fonts -->
+
+<!ENTITY fontsDescription.label "Lungisa ubukhulu bamabizo asetjenziswe yi-&brandShortName;">
+<!ENTITY fontsCaption.label "Ubukhulu bamabizo">
+<!ENTITY fontOptions.accesskey "U">
+<!ENTITY fontOptions.label "Ubukhulu bamabizo...">
+<!-- Language settings -->
+
+
+<!ENTITY sendDefaultCharset.label "Iposo Ephumako:">
+<!ENTITY sendDefaultCharset.accesskey "i">
+<!ENTITY languagesTitle.label "Ukukhowuda iinhlavu">
+<!ENTITY composingDescription.label "Yakha amakhowudi weenhlavu zokudoyisa zokuthumela nokuthola iposo">
+
+<!ENTITY viewDefaultCharsetList.label "Iposo Engenako:">
+<!ENTITY viewDefaultCharsetList.accesskey "I">
+<!ENTITY forceCharsetOverride.label "Sebenzisa iinhlavu ezidoyisako ukukhowuda yoke imilayezo engenako">
+<!ENTITY forceCharsetOverride.accesskey "s">
+<!ENTITY replyInDefaultCharset.label "Sebenzisa iinhlavu ezidoyisako ukukhowuda iimpendulo">
+<!ENTITY replyInDefaultCharset.accesskey "s">

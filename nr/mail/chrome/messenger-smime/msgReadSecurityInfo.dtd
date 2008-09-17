@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
+<!ENTITY status.label "Ivikelo Lemilayezo">
+<!ENTITY signatureCert.label "Bona isayino leentifikeyiti">
+<!ENTITY encryptionCert.label "Bona ifihlakalo leentifikeyiti">
+
+<!ENTITY signer.name "Isayinwe ngu:">
+<!ENTITY recipient.name "Ifihlelwe:">
+<!ENTITY email.address "Isiphande se-imeyili:">
+<!ENTITY issuer.name "Isitifikeyiti sikhutjhwe ngu:">

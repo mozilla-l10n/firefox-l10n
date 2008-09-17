@@ -1,0 +1,391 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+
+<!ENTITY viewsourcetitle.preface "Umthombo we: ">
+
+<!ENTITY nothingAvailable.label "(Akunalitho)">
+
+<!ENTITY tabCmd.label "Okutjha Isitjhidisi">
+<!ENTITY tabCmd.accesskey "I">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Vula Indawo...">
+<!ENTITY openLocationCmd.accesskey "I">
+<!ENTITY openFileCmd.label "Vula Ifayili...">
+<!ENTITY openFileCmd.accesskey "V">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Ukwakha Ikhasi phezulu...">
+<!ENTITY printSetupCmd.accesskey "p">
+<!ENTITY printPreviewCmd.label "Bona igadangiso ngaphambili">
+<!ENTITY printPreviewCmd.accesskey "n">
+<!ENTITY printCmd.label "Gadangisa...">
+<!ENTITY printCmd.accesskey "G">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "Isa Ngaphandle...">
+<!ENTITY import.accesskey "I">
+
+<!ENTITY goOfflineCmd.label "Sebenza Ngaphandle">
+<!ENTITY goOfflineCmd.accesskey "s">
+
+<!ENTITY navbarCmd.label "Isivalo sethulusi lokukhambakhamba">
+<!ENTITY navbarCmd.accesskey "I">
+<!ENTITY personalbarCmd.label "Isivalo sethulusi lamatshwayo weencwadi">
+<!ENTITY personalbarCmd.accesskey "I">
+<!ENTITY bookmarksToolbarItem.label "Iinhlokwana zesivalo samathulusi wamatshwayo weencadi">
+<!ENTITY taskbarCmd.label "Izinga lesivalo">
+<!ENTITY taskbarCmd.accesskey "I">
+
+<!ENTITY pageSourceCmd.label "Ikhasi lomthombo">
+<!ENTITY pageSourceCmd.accesskey "i">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Ikhasi Imininingwane">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Umpheme opheleleko">
+<!ENTITY fullScreenCmd.accesskey "U">
+
+<!ENTITY fullScreenMinimize.tooltip "Nciphisa">
+<!ENTITY fullScreenRestore.tooltip "Buyisela">
+<!ENTITY fullScreenClose.tooltip "Vala">
+
+<!ENTITY closeWindow.label "Vala ifasidere">
+
+<!ENTITY bookmarksMenu.label "Amatshwayo weencwadi">
+<!ENTITY bookmarksMenu.accesskey "A">
+<!ENTITY addCurPageAsCmd.label "Bookmark This Page...">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "Subscribe to This Page">
+<!ENTITY subscribeToPageMenuitem.label "Subscribe to This Page...">
+<!ENTITY addLiveBookmarkMenupopup.label "Add Live Bookmark">
+<!ENTITY addLiveBookmarkMenuitem.label "Add Live Bookmark...">
+<!ENTITY addCurPagesCmd.label "Bookmark All Tabs...">
+<!ENTITY addCurPagesCmd.accesskey "T">
+<!ENTITY manBookmarksCmd.label "Organize Bookmarks...">
+<!ENTITY manBookmarksCmd.accesskey "M">
+<!ENTITY bookmarkAllCmd.label "Bookmark All Tabs...">
+<!ENTITY searchBookmarksCmd.label "Search in Bookmarks...">
+<!ENTITY searchBookmarksCmd.accesskey "S">
+<!ENTITY searchBookmarksCmd.commandkey "B">
+
+<!ENTITY backCmd.label "Emva">
+<!ENTITY backCmd.accesskey "E">
+<!ENTITY backButton.tooltip "Buyela emva ikhasi linye">
+<!ENTITY forwardCmd.label "Phambili">
+<!ENTITY forwardCmd.accesskey "P">
+<!ENTITY forwardButton.tooltip "Iya phambili ikhasi linye">
+<!ENTITY reloadCmd.label "Layitjha godu">
+<!ENTITY reloadCmd.accesskey "L">
+<!ENTITY reloadButton.tooltip "Layitjha godu ikhaseli">
+<!ENTITY stopCmd.label "Jama">
+<!ENTITY stopCmd.accesskey "J">
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY stopButton.tooltip "Jamisa ukulayitjha ikhaseli">
+<!ENTITY goEndCap.label "Khamba">
+<!ENTITY goEndCap.tooltip "Go to the address in the Location Bar">
+<!ENTITY printButton.label "Gadangisa">
+<!ENTITY printButton.tooltip "Gadangisa ikhaseli">
+
+<!ENTITY locationItem.title "Indawo">
+<!ENTITY searchItem.title "Rhubhulula">
+<!ENTITY throbberItem.title "Isibonisi-senzakalo">
+<!ENTITY bookmarksItem.title "Amatshwayo weencwadi">
+<!ENTITY updatesItem.title "Okuthuthukileko">
+
+<!ENTITY proxyIcon.tooltip "Dosa ubese ulise ikinobho le ukwakha isihlanganisi nekhaseli">
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label "Ikhaya">
+
+<!ENTITY bookmarksButton.label "Amatshwayo weencwadi">
+<!ENTITY bookmarksButton.tooltip "Bonisa amatshwayo weencwadi">
+<!ENTITY bookmarksSidebarCmd.accesskey "B">
+<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label "Umlando">
+<!ENTITY historyButton.tooltip "Bonisa amakhasi osanda kuwabona">
+<!ENTITY historySidebarCmd.accesskey "s">
+<!ENTITY historySidebarCmd.commandKey "h">
+
+<!ENTITY toolsMenu.label "Amathulusi">
+<!ENTITY toolsMenu.accesskey "A">
+
+<!ENTITY keywordfield.label "Ngeza ibizo elisihlokwana kurhubhululweli...">
+<!ENTITY keywordfield.accesskey "I">
+<!ENTITY search.label "Rhubhulula iWebhu">
+<!ENTITY search.accesskey "I">
+<!ENTITY downloads.label "Khuphela">
+<!ENTITY downloads.tooltip "Bonisa iragelo phambili lokukhuphela okwenzekako">
+<!ENTITY downloads.accesskey "K">
+<!ENTITY downloads.commandkey "j">
+<!ENTITY downloadsUnix.commandkey "y">
+<!ENTITY addons.label "Add-ons">
+<!ENTITY addons.tooltip "Show and Manage installed Add-ons">
+<!ENTITY addons.accesskey "A">
+
+<!ENTITY javaConsoleCmd.label "Ibhodo yeJava">
+<!ENTITY javaConsoleCmd.accesskey "J">
+<!ENTITY errorConsoleCmd.label "Error Console">
+<!ENTITY errorConsoleCmd.accesskey "C">
+
+<!ENTITY fileMenu.label "Ifayili">
+<!ENTITY fileMenu.accesskey "I">
+<!ENTITY newMenu.label "Yitja">
+<!ENTITY newMenu.accesskey "Y">
+<!ENTITY newNavigatorCmd.label "Ifasidere elitjha">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "I">
+
+<!ENTITY editMenu.label "Lungisa">
+<!ENTITY editMenu.accesskey "L">
+<!ENTITY undoCmd.label "Susa">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "S">
+<!ENTITY redoCmd.label "Susa">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "S">
+<!ENTITY cutCmd.label "Sika">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "s">
+<!ENTITY copyCmd.label "Kopa">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Namathisela">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "N">
+<!ENTITY deleteCmd.label "Susa">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY selectAllCmd.label "Khetha Koke">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "K">
+<!ENTITY preferencesCmd.label "Ikhetho...">
+<!ENTITY preferencesCmd.accesskey "I">
+<!ENTITY preferencesCmdUnix.label "Okukhethako">
+<!ENTITY preferencesCmdUnix.accesskey "o">
+
+<!ENTITY clearPrivateDataCmd.label "Clear Private Data">
+<!ENTITY clearPrivateDataCmd.accesskey "P">
+
+<!ENTITY viewMenu.label "Bona">
+<!ENTITY viewMenu.accesskey "B">
+<!ENTITY viewToolbarsMenu.label "Isivalo samathulusi">
+<!ENTITY viewToolbarsMenu.accesskey "I">
+<!ENTITY viewSidebarMenu.label "Isivalo sangecadi">
+<!ENTITY viewSidebarMenu.accesskey "i">
+<!ENTITY viewCustomizeToolbar.label "Jayeza...">
+<!ENTITY viewCustomizeToolbar.accesskey "J">
+<!-- XXX historyMenu entities are used with or without places (bug 336058) -->
+
+<!ENTITY historyMenu.label "History">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "Recently Closed Tabs">
+<!ENTITY historyUndoMenu.accesskey "R">
+<!-- XXX places only -->
+
+<!ENTITY historyHomeCmd.label "Ikhaya">
+<!ENTITY historyHomeCmd.accesskey "i">
+<!ENTITY historySearchCmd.label "Search in History...">
+<!ENTITY historySearchCmd.accesskey "s">
+<!ENTITY historyShowCmd.label "View All History...">
+<!ENTITY historyShowCmd.accesskey "v">
+<!ENTITY placesToolbarButton.label "Show Bookmarks &amp; History">
+<!ENTITY placesToolbarButton.tooltip "Show Bookmarks &amp; History">
+<!-- XXX remove below if places sticks -->
+<!ENTITY goMenu.label "Khamba">
+<!ENTITY goMenu.accesskey "k">
+<!ENTITY goHomeCmd.label "Ikhaya">
+<!ENTITY earlierHistory.label "Umlando wangaphambili">
+<!ENTITY historyShowSidebarCmd.label "Show in Sidebar">
+<!-- XXX remove above if places sticks -->
+
+<!ENTITY releaseCmd.accesskey "K">
+<!ENTITY releaseCmd.label "Khulula amanothi">
+
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY urlbar.accesskey "d">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+
+<!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
+<!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY openLinkCmd.label "Vula ihlanganiso kufasidere elitjha">
+<!ENTITY openLinkCmd.accesskey "K">
+<!ENTITY openLinkCmdInTab.label "Vula ihlanganiso kusitjhidiso esitjha">
+<!ENTITY openLinkCmdInTab.accesskey "V">
+<!ENTITY openLinkInWindowCmd.label "Vula">
+<!ENTITY openLinkInWindowCmd.accesskey "v">
+<!ENTITY openFrameCmd.label "Vula iphahla kufasidere elitjha">
+<!ENTITY openFrameCmd.accesskey "V">
+<!ENTITY openFrameCmdInTab.label "Vula iphahla kusitjhidisi esitjha">
+<!ENTITY openFrameCmdInTab.accesskey "V">
+<!ENTITY showOnlyThisFrameCmd.label "Tjengisa iphahleli kwaphela">
+<!ENTITY showOnlyThisFrameCmd.accesskey "t">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadFrameCmd.label "Layitjha iphahla godu">
+<!ENTITY reloadFrameCmd.accesskey "L">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Bona umthombo wekhetho">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Bona umthombo we-MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label "Bona ikhasi lomthombo">
+<!ENTITY viewPageSourceCmd.accesskey "B">
+<!ENTITY viewFrameSourceCmd.label "Bona iphahla lomthombo">
+<!ENTITY viewFrameSourceCmd.accesskey "B">
+<!ENTITY viewPageInfoCmd.label "Bona ikhasi lemininingwana">
+<!ENTITY viewPageInfoCmd.accesskey "B">
+<!ENTITY viewFrameInfoCmd.label "Bona iphahla lemininingwana">
+<!ENTITY viewFrameInfoCmd.accesskey "b">
+<!ENTITY viewImageCmd.label "Bona isithombe">
+<!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewBGImageCmd.label "Bona ingemuva lesithombe">
+<!ENTITY viewBGImageCmd.accesskey "b">
+<!ENTITY setDesktopBackgroundCmd.label "Yakha njengemuva le-Desktop...">
+<!ENTITY setDesktopBackgroundCmd.accesskey "Y">
+<!ENTITY bookmarkPageCmd.label "Tshwaya ikhaseli...">
+<!ENTITY bookmarkPageCmd.accesskey "t">
+<!ENTITY bookmarkLinkCmd.label "Tshwaya ihlanganiso le...">
+<!ENTITY bookmarkLinkCmd.accesskey "I">
+<!ENTITY bookmarkFrameCmd.label "Tshwaya iFremu le...">
+<!ENTITY bookmarkFrameCmd.accesskey "I">
+<!ENTITY sendPageCmd.label "Thumela ihlanganiso...">
+<!ENTITY sendPageCmd.accesskey "t">
+<!ENTITY savePageCmd.label "Yonga ikhasi njenge...">
+<!ENTITY savePageCmd.accesskey "N">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2 "P">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameCmd.label "Yonga ifremu njenge...">
+<!ENTITY saveFrameCmd.accesskey "F">
+<!ENTITY saveLinkCmd.label "Yonga ihlanganiso njenge...">
+<!ENTITY saveLinkCmd.accesskey "i">
+<!ENTITY sendLinkCmd.label "Thumela ihlanganiso...">
+<!ENTITY sendLinkCmd.accesskey "t">
+<!ENTITY saveImageCmd.label "Yonga isithombe njenge...">
+<!ENTITY saveImageCmd.accesskey "y">
+<!ENTITY sendImageCmd.label "Thumela isithombe...">
+<!ENTITY sendImageCmd.accesskey "t">
+<!ENTITY copyLinkCmd.label "Kopa indawo yehlanganiso">
+<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyImageCmd.label "Kopa indawo yesithombe">
+<!ENTITY copyImageCmd.accesskey "k">
+<!ENTITY copyImageContentsCmd.label "Kopa isithombe">
+<!ENTITY copyImageContentsCmd.accesskey "k">
+<!ENTITY blockImageCmd.accesskey "g">
+<!ENTITY metadataCmd.label "Okungaphakathi">
+<!ENTITY metadataCmd.accesskey "O">
+<!ENTITY copyEmailCmd.label "Kopa isiphande se-Imeyili">
+<!ENTITY copyEmailCmd.accesskey "I">
+<!ENTITY thisFrameMenu.label "Ifremu Le">
+<!ENTITY thisFrameMenu.accesskey "l">
+
+<!ENTITY textZoomEnlargeCmd.label "Khulisa">
+<!ENTITY textZoomEnlargeCmd.accesskey "K">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+
+<!ENTITY textZoomReduceCmd.label "Nciphisa">
+<!ENTITY textZoomReduceCmd.accesskey "N">
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY textZoomResetCmd.label "Kujayelekile">
+<!ENTITY textZoomResetCmd.accesskey "K">
+<!ENTITY textSize.label "Ubukhulu bomtlolo">
+<!ENTITY textSize.accesskey "u">
+
+<!ENTITY newTabButton.tooltip "Vula isitjhidisi esitjha">
+<!ENTITY newWindowButton.tooltip "Vula ifasidere elitjha">
+<!ENTITY sidebarCloseButton.tooltip "Vala ifasidere">
+
+<!ENTITY cutButton.tooltip "Sika">
+<!ENTITY copyButton.tooltip "Kopa">
+<!ENTITY pasteButton.tooltip "Namathisela">
+
+<!ENTITY quitApplicationCmdWin.label "Phuma">
+<!ENTITY quitApplicationCmdWin.accesskey "p">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label "Phuma">
+<!ENTITY quitApplicationCmd.accesskey "P">
+<!ENTITY quitApplicationCmdMac.label "Quit">
+<!ENTITY quitApplicationCmdMac.key "Q">
+
+<!ENTITY closeCmd.label "Vala">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "V">
+
+<!ENTITY pageStyleMenu.label "Indlela yekhasi">
+<!ENTITY pageStyleMenu.accesskey "i">
+<!ENTITY pageStyleButton.label "Iindlela zekhasi">
+<!ENTITY pageStyleNoStyle.label "Akunandlela">
+<!ENTITY pageStyleNoStyle.accesskey "a">
+<!ENTITY pageStylePersistentOnly.label "Indlela ejayelekileko">
+<!ENTITY pageStylePersistentOnly.accesskey "i">
+
+<!ENTITY pageStyleIcon.tooltip "Iya kundlela enye yekhasi">
+<!ENTITY pageReportIcon.tooltip "Tjhugulula izakhiwo ezivala ukuwela kweposo kule website">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Lungisa ukuthanda okuvala ukuwela kweposo...">
+<!ENTITY editPopupSettings.label "Lungisa ukukhetha okuvala ukuwela kweposo...">
+<!ENTITY editPopupSettings.accesskey "L">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label "Tjhugulula indlela Yekhasi">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "y">
+<!ENTITY bidiSwitchTextDirectionItem.label "Tjhugulula indlela yomtlolo">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "t">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!ENTITY findOnCmd.label "Thola kulelikhasi...">
+<!ENTITY findOnCmd.accesskey "T">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Funyana Godu">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddToDictionary.label "Add to dictionary">
+<!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellEnable.label "Spell check this field">
+<!ENTITY spellEnable.accesskey "S">
+<!ENTITY spellNoSuggestions.label "(No spelling suggestions)">
+<!ENTITY spellDictionaries.label "Languages">
+<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellAddDictionaries.label "Add dictionaries...">
+<!ENTITY spellAddDictionaries.accesskey "A">
+<!-- new bookmarks and history -->
+
+<!ENTITY location.status.not_bookmarked "Star (Off)">
+<!ENTITY location.status.bookmarked "Star (On)">
+<!ENTITY location.status.bookmark.tooltip "Add a Bookmark to this page">

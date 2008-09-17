@@ -1,0 +1,28 @@
+<!ENTITY pref.editing.title "Izakhiwo zamakhasi ezitja">
+
+<!ENTITY authorName.label "Umtloli:">
+<!ENTITY authorName.accesskey "u">
+<!ENTITY pageColorHeader "Ukuvela okuzenzakalelako kwamakhasi">
+
+<!ENTITY defaultColorsRadio.label "Imibala yomfundi ezenzakalelako (Ungahleli imibala kumakhasi)">
+<!ENTITY defaultColors.accesskey "d">
+<!ENTITY customColorsRadio.label "Sebenzisa imibala ejayelekileko:">
+<!ENTITY customColors.accesskey "c">
+
+<!ENTITY normalText.label "Umtlolo ojayelekileko">
+<!ENTITY normalText.accesskey "U">
+<!ENTITY linkText.label "Umtlolo ohlanganisako">
+<!ENTITY linkText.accesskey "U">
+<!ENTITY activeLinkText.label "Umtlolo ohlanganisako osebenzako">
+<!ENTITY activeLinkText.accesskey "U">
+<!ENTITY visitedLinkText.label "Umtlolo ohlanganisako ovakatjhelweko">
+<!ENTITY visitedLinkText.accesskey "U">
+<!ENTITY background.label "Ingemuva:">
+<!ENTITY background.accesskey "I">
+<!ENTITY colon.character ":">
+
+<!ENTITY backgroundImage.label "Isithombe sangemuva:">
+<!ENTITY backgroundImage.accesskey "i">
+<!ENTITY chooseFile.label "Khetha Ifayili...">
+<!ENTITY chooseFile.accesskey "k">
+

@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title "Umdumo Weposo Etja">
+<!ENTITY window.width "30em">
+
+<!ENTITY soundNotification.caption "Hlanganisa Umdumo Weposo Etja">
+<!ENTITY preview.label "Bona umdumo ngaphambili">
+<!ENTITY preview.accesskey "b">
+<!ENTITY systemsound.label "Ihlelo Lomdumo Weposo Etja">
+<!ENTITY systemsoundMac.label "Umdumo Wehlelo Wokuyelelisa">
+<!ENTITY systemsound.accesskey "i">
+<!ENTITY customsound.label "Jayeza.ifayili yewav">
+<!ENTITY customsound.accesskey "J">
+<!ENTITY browse.label "Funafuna...">
+<!ENTITY browse.accesskey "F">

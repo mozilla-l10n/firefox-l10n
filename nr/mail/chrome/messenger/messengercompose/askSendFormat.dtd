@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Umbuzo weposo yeHTML">
+
+<!ENTITY recipient.label "Abanye kwabamukeli abakahlelelwa ukwamukela iposo yeHTML.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Umlayezo wakho ungatjhugululelwa kumtlolo omsulwa ngaphandle kokulahlekelwa imininingwane eqakathekileko.">
+<!ENTITY convertibleAltering.label "Umlayezwakho ungatjhugululelwa emtlolweni olula ngaphendle kokulahleka kwemininingwana eqakathekileko. Namkha kunjalo, indaba yomtlolo olula ingabonakala ihlukile kunalokho okubone kukhomphoza.">
+<!ENTITY convertibleNo.label "Kodwana, usebenzise imitlolo (isibonelo imibala) engekhe yatjhugulelwa kumtlolo omsulwa.">
+
+<!ENTITY question.label "Ungathanda ukutjhugulula umlayezo uwenze omsulwa namkha uwuthumele ngendlela yeHTML?">
+
+<!ENTITY plainTextAndHtml.label "Thumela ngendlela emsulwa neHTML">
+<!ENTITY plainTextOnly.label "Thumela ngenndlela emsulwa kwaphela">
+<!ENTITY htmlOnly.label "Thumela ngeHTML kwaphela">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Thumela ngendlela emsulwa neHTML (kuhlongoziwe)">
+<!ENTITY plainTextOnlyRecommended.label "Thumela ngendlela emsulwa kwaphela (kuhlongoziwe)">
+<!ENTITY htmlOnlyRecommended.label "Thumela ngeHTML kwaphela (kuhlongoziwe)">
+<!ENTITY recommended.label "(kuhlongoziwe)">
+
+<!ENTITY send.label "Thumela">
+<!ENTITY cancel.label "Sula">
+<!ENTITY recipients.label "Abamukeli...">
+<!ENTITY help.label "Siza">

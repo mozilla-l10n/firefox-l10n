@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Ivikeleko">
+<!ENTITY securityMenu.accesskey "i">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Fihla nakukghonakalako">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "F">
+
+<!ENTITY menu_securityEncryptRequire.label "Fihla umlayezo lo">
+<!ENTITY menu_securityEncryptRequire.accesskey "F">
+
+<!ENTITY menu_securityNoEncryption.label "Ungafihli umlayezo lo">
+<!ENTITY menu_securityNoEncryption.accesskey "U">
+
+<!ENTITY menu_securitySign.label "Sayini umlayezo lo ngokwedijithi">
+<!ENTITY menu_securitySign.accesskey "S">
+
+<!ENTITY menu_securityStatus.label "Bona imininingwane yevikeleko">
+<!ENTITY menu_securityStatus.accesskey "B">
+
+<!ENTITY securityButton.label "Ivikeleko">
+<!ENTITY securityButton.tooltip "Bona namkha utjhugulule izakhiwo zevikeleko">
+
+<!ENTITY menu_viewSecurityStatus.label "Imininingwana yevikeleko lemilayezo">
+<!ENTITY menu_viewSecurityStatus.accesskey "I">

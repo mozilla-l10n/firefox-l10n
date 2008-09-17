@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Imithetho yesefo">
+<!ENTITY viewLogInfo.text "Imitlolo yemithetho yesefo, iinsefo ezisetjenziswe ku-akhawundi le. Sebenzisa ibhokisi elingaphasi ukukghonakali ukungena.">
+<!ENTITY clearLog.label "Susa Imithetho">
+<!ENTITY clearLog.accesskey "S">
+<!ENTITY enableLog.label "Kghonakalisa Imithetho yesefo">
+<!ENTITY enableLog.accesskey "K">
+<!ENTITY closeLog.label "Vala">
+<!ENTITY closeLog.accesskey "v">

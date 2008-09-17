@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Izakhiwo ze-akhawundi ezingaphezulu">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "Izakhiwo zensetjenziswa ze-IMAP ezingaphezulu">
+<!ENTITY serverDirectory.label "Irherho lesisetjenziswa se IMAP:">
+<!ENTITY serverDirectory.accesskey "i">
+<!ENTITY usingSubscription.label "Thengisa kwaphela iimvilobhu ezikhethiweko">
+<!ENTITY usingSubscription.accesskey "n">
+<!ENTITY dualUseFolders.label "Isisetjenziswa sisekela iimvilobhu ezinemvilobhu ezincani nemilayezo">
+<!ENTITY dualUseFolders.accesskey "i">
+<!ENTITY useIdle.label "Sebenzisa umlayo we IDLE nakube iinsetjenziswa ziyawuvumela">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Inomboro eKulu yesisetjenziswa esihlangene ne cache">
+<!ENTITY maximumConnectionsNumber.accesskey "E">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY personalNamespace.label "Ibizondawo lomuntu:">
+<!ENTITY personalNamespace.accesskey "L">
+<!ENTITY publicNamespace.label "Yomphakathi (yokwabelana):">
+<!ENTITY publicNamespace.accesskey "m">
+<!ENTITY otherUsersNamespace.label "Abanye abasebenzisi:">
+<!ENTITY otherUsersNamespace.accesskey "A">
+<!ENTITY overrideNamespaces.label "Vumela abanikazi batlole ngaphezukwendawo yamabizo">
+<!ENTITY overrideNamespaces.accesskey "V">
+<!ENTITY pop3Desc.label "Nakube ukhuphela iposo ezivelelako kubanikazi, sebenzisa imvilobhu elandelako mayelana nencwadi etja:">
+<!ENTITY folderStorage.label "Ungabulunga kuphi iposo">
+<!ENTITY globalInbox.label "Ibhokisi lephasi loke (I-akhawundi yeemvilobhu zekhaya)">
+<!ENTITY globalInbox.accesskey "I">
+<!ENTITY accountDirectory.label "Ibhokisi langaphakathi le-akhawundi yomnikazi">
+<!ENTITY accountDirectory.accesskey "A">
+<!ENTITY deferToServer.label "Ibhokisi langaphakathi lama-akhawundi ahlukileko">
+<!ENTITY deferToServer.accesskey "A">
+<!ENTITY deferGetNewMail.label "Faka phakathi isisetjenziswesi nakube uthola iposo etja">
+<!ENTITY deferGetNewMail.accesskey "F">

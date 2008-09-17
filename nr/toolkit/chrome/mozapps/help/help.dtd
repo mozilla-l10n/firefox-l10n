@@ -1,0 +1,47 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "Emva">
+<!ENTITY backButton.accesskey "E">
+<!ENTITY backButton.tooltip "Buyela emva ngekhasi linye">
+<!ENTITY forwardButton.label "Tjhingisa phambili">
+<!ENTITY forwardButton.accesskey "T">
+<!ENTITY forwardButton.tooltip "Iya phambili ngekhasi linye">
+<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "Ikhaya">
+<!ENTITY homeButton.tooltip "Iya Kukhasi Lesizo Elisekuthomeni">
+<!ENTITY printButton.label "Gadangisa">
+<!ENTITY printButton.tooltip "Gadangisa Ikhaseli">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY throbberItem.title "Isibonisi sesenzo">
+<!ENTITY throbber.tooltip "Iya kuSizo ehlangothini Lesizo">
+
+<!ENTITY searchtab.label "Rhubhulula">
+<!ENTITY searchtab.accesskey "R">
+<!ENTITY toctab.label "Okumumethweko">
+<!ENTITY toctab.accesskey "O">
+
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomResetCmd.commandkey "0">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "Ngaso soke isikhathi ingaphezulu">
+<!ENTITY zLevel.accesskey "N">
+
+<!ENTITY textZoomReduceBtn.label "Nciphisa isayizi yomtlolo">
+<!ENTITY textZoomReduceBtn.accesskey "N">
+<!ENTITY textZoomEnlargeBtn.label "Khulisa Isayizi Yomtlolo">
+<!ENTITY textZoomEnlargeBtn.accesskey "K">

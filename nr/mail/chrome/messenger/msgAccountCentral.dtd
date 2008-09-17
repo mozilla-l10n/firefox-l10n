@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label "iImeyili">
+<!ENTITY readMsgsLink.label "Funda imilayezo">
+<!ENTITY composeMsgLink.label "Tlola umlayezo omutjha">
+
+<!ENTITY newsSectionHdr.label "Iinchema Zeendaba">
+<!ENTITY subscribeNewsLink.label "Phatha ukubolekwa kwesichema seendaba">
+
+<!ENTITY accountsSectionHdr.label "Accounts">
+<!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
+<!ENTITY settingsLink.label "Bona izakhiwo ze-akhawundi le">
+<!ENTITY newAcctLink.label "Yakha i-akhawundi etja">
+
+<!ENTITY advFeaturesSectionHdr.label "Izimo Ezisezingeni Eliphezulu">
+<!ENTITY searchMsgsLink.label "Rhubhulula imilayezo">
+<!ENTITY filtersLink.label "Phatha iinsefo zemilayezo">
+<!ENTITY junkSettings.label "Izakhiwo zeposo elahlwako">
+<!ENTITY offlineLink.label "Izakhiwo zokuphuma elayinini">
+
+
+<!ENTITY rssSectionHdr.label "Iindaba zeRSS &amp; Amablogo">
+<!ENTITY subscibeRSS.label "Phatha Iboleko">

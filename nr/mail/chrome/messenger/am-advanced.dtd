@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Isisetjenziswa esiphumako (SMTP) sezakhiwo">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "Nanyana ungakhuluma ngeensetjenziswa ezinengi eziphumako (SMTP), lokhu kuhlongozwa kwaphela kubasebenzisi bobujamo obuphezulu. Ukwakha iinsetjenziswa ezinengi SMTP kungabanga iinkinga nakuthunyelwa imilayezo.">
+
+<!ENTITY smtpListAdd.label "Faka...">
+<!ENTITY smtpListAdd.accesskey "f">
+<!ENTITY smtpListEdit.label "Lungisa...">
+<!ENTITY smtpListEdit.accesskey "L">
+<!ENTITY smtpListDelete.label "Susa">
+<!ENTITY smtpListDelete.accesskey "s">
+<!ENTITY smtpListSetDefault.label "Yakha Ubutjhapho">
+<!ENTITY smtpListSetDefault.accesskey "y">
+
+<!ENTITY serverDescription.label "Ihlathululo: ">
+<!ENTITY serverName.label "Igama lomsebenzi: ">
+<!ENTITY serverPort.label "Itheku: ">
+<!ENTITY userName.label "Ibizo lomsebenzisi: ">
+<!ENTITY useSecureConnection.label "Vikela ukuthintanisa: ">

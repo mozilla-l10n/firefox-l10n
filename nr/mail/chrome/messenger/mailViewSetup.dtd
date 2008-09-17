@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Izakhiwo Zokubona Umlayezo">
+<!ENTITY mailViewHeading.label "Ibizo lokubona umlayezo:">
+<!ENTITY mailViewHeading.accesskey "i">
+<!ENTITY searchTermCaption.label "Lokha kukhethwe ukubonokhu, bonisa kwaphela umlayezo obonisa ukobana:">
+

@@ -1,0 +1,9 @@
+<!ENTITY position.label "Indawo:">
+<!ENTITY tile.label "Ithayela">
+<!ENTITY center.label "Phakathi">
+<!ENTITY stretch.label "Dosa">
+<!ENTITY preview.label "Bona Ngaphambili">
+<!ENTITY color.label "Umbala:">
+<!ENTITY setDesktopBackground.title "Hlela Ingemuva Lompheme Wekhomphyutha">
+<!ENTITY openDesktopPrefs.label "Vula Ukukhetha Kompheme Wekhomphyutha">
+<!ENTITY closeWindow.key "w">

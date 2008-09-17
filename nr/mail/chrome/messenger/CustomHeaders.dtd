@@ -1,0 +1,7 @@
+<!ENTITY window.title "Jayezisa Iinhloko">
+<!ENTITY addButton.label "Ngezelela">
+<!ENTITY addButton.accesskey "N">
+<!ENTITY removeButton.label "Susa">
+<!ENTITY removeButton.accesskey "S">
+<!ENTITY newMsgHeader.label "Umlayezo omutjha oyihloko:">
+<!ENTITY newMsgHeader.accesskey "U">
