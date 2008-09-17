@@ -12,11 +12,11 @@
 <!ENTITY highPriorityCmd.label "Ard">
 <!ENTITY highestPriorityCmd.label "Is Airde">
 
-<!ENTITY contextDesc.label "Cuir an scagaire seo i bhfeidhm:">
+<!ENTITY contextDesc.label "Cuir an scagaire seo i bhfeidhm agus:">
 <!ENTITY contextDesc.accesskey "f">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextBoth.label "Checking Mail or Manually Run">
+<!ENTITY contextIncoming.label "Ríomhphost á sheiceáil">
+<!ENTITY contextManual.label "Scagaire á rith de láimh">
+<!ENTITY contextBoth.label "Ríomhphost á sheiceáil nó an scagaire á rith de láimh">
 <!ENTITY filterActionDesc.label "Déan na gníomhartha seo:">
 <!ENTITY filterActionDesc.accesskey "G">
 

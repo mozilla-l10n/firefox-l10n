@@ -45,60 +45,51 @@
 <!-- File menu -->
 
 <!ENTITY mapfileMenu.label "Comhad">
-<!ENTITY mapfilemenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "c">
 <!ENTITY clearCmd.label "Bánaigh">
-<!ENTITY mapfileclear.accesskey "B">
+<!ENTITY clearCmd.accesskey "a">
 <!ENTITY closeCmd.label "Dún">
-<!ENTITY mapfileclose.accesskey "D">
+<!ENTITY closeCmd.accesskey "d">
 <!-- Edit menu -->
 
 <!ENTITY mapeditMenu.label "Eagar">
-<!ENTITY mapeditmenu.accesskey "l">
+<!ENTITY mapeditMenu.accesskey "e">
 <!ENTITY cutCmd.label "Gearr">
-<!ENTITY mapeditcut.accesskey "G">
+<!ENTITY cutCmd.accesskey "g">
 <!ENTITY copyCmd.label "Cóipeáil">
-<!ENTITY mapeditcopy.accesskey "c">
+<!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Greamaigh">
-<!ENTITY mapeditpaste.accesskey "r">
-<!ENTITY selectallCmd.label "Roghnaigh Uile">
-<!ENTITY mapselectall.accesskey "s">
+<!ENTITY pasteCmd.accesskey "r">
+<!ENTITY selectallCmd.label "Roghnaigh Gach Rud">
+<!ENTITY selectallCmd.accesskey "r">
 <!ENTITY propsCmd.label "Airíonna an Bhaill Te">
-<!ENTITY mapeditprops.accesskey "A">
+<!ENTITY propsCmd.accesskey "a">
 <!-- View menu -->
 
 <!ENTITY mapviewMenu.label "Amharc">
-<!ENTITY mapviewmenu.accesskey "v">
+<!ENTITY mapviewMenu.accesskey "a">
 <!ENTITY showhideTbarCmd.label "Folaigh an Barra Uirlisí">
-<!ENTITY mapviewtbar.accesskey "t">
+<!ENTITY showhideTbarCmd.accesskey "u">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Scála">
-<!ENTITY mapviewscale.accesskey "S">
+<!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Codarsnacht">
-<!ENTITY contrast.accesskey "n">
-<!-- Help menu -->
-
-<!ENTITY maphelpMenu.label "Cabhair">
-<!ENTITY maphelpmenu.accesskey "h">
-<!ENTITY aboutCmd.label "Maidir le">
-<!ENTITY about.accesskey "M">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "Súmáil Isteach">
 <!ENTITY zoomoutCmd.label "Súmáil Amach">
 <!ENTITY delSpotCmd.label "Scrios Ball">
 <!-- Keys -->
 
-<!ENTITY clear.accesskey "B">
-<!ENTITY selectall.accesskey "a">
-<!ENTITY close.accesskey "D">
-<!ENTITY cut.accesskey "G">
-<!ENTITY copy.accesskey "c">
-<!ENTITY paste.accesskey "r">
-<!ENTITY props.accesskey "A">
-<!ENTITY tbar.accesskey "t">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "L">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">

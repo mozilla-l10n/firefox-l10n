@@ -38,6 +38,8 @@
 <!ENTITY sendUnsentCmd.accesskey "l">
 <!ENTITY subscribeCmd.label "Liostáil…">
 <!ENTITY subscribeCmd.accesskey "s">
+<!ENTITY deleteFolder.label "Scrios an Fillteán">
+<!ENTITY deleteFolder.accesskey "c">
 <!ENTITY renameFolder.label "Athainmnigh an Fillteán…">
 <!ENTITY renameFolder.accesskey "A">
 <!ENTITY renameFolder.key "VK_F2">
@@ -440,6 +442,7 @@
 <!ENTITY backButton1.label "Siar">
 <!ENTITY goForwardButton1.label "Ar Aghaidh">
 <!ENTITY deleteButton.label "Scrios">
+<!ENTITY undeleteButton.label "Díscrios">
 <!ENTITY markButton.label "Marcáil">
 <!ENTITY printButton.label "Priontáil">
 <!ENTITY stopButton.label "Stad">
@@ -471,6 +474,7 @@
 <!ENTITY goForwardButton.tooltip "An chéad teachtaireacht eile">
 <!ENTITY goBackButton.tooltip "An teachtaireacht roimhe seo">
 <!ENTITY deleteButton.tooltip "Scrios an teachtaireacht nó fillteán roghnaithe">
+<!ENTITY undeleteButton.tooltip "Díscrios an teachtaireacht roghnaithe">
 <!ENTITY markButton.tooltip "Marcáil teachtaireachtaí">
 <!ENTITY printButton.tooltip "Priontáil an teachtaireacht seo">
 <!ENTITY stopButton.tooltip "Stop an traschur reatha">
@@ -624,12 +628,12 @@
 <!-- Remote Content Bar -->
 
 <!ENTITY remoteContentMessage1.label "Le do phríobháideachas a chosaint, cuireadh cosc ar chianíomhánna.">
-<!ENTITY loadRemoteContentButton1.label "Luchtaigh Íomhánna">
+<!ENTITY loadRemoteContentButton2.label "Taispeáin Íomhánna Anois">
 <!-- Phishing Bar -->
 
-<!ENTITY phishingBarMessage1.label "Camscéim ríomhphoist amhrasta">
+<!ENTITY phishingBarMessage2.label "Meastar gur camscéim í an teachtaireacht seo.">
 <!ENTITY removePhishingBarButton1.label "Tabhair neamhaird ar rabhadh">
-<!ENTITY reportPhishingError.label "Ní camscéim ríomhphoist é seo">
+<!ENTITY reportPhishingError1.label "Ní camscéim ríomhphoist é seo.">
 <!-- Quick Search Bar -->
 
 <!ENTITY quickSearchCmd.key "k">
@@ -637,6 +641,8 @@
 
 <!ENTITY AddToAddressBook.label "Cuir leis an Leabhar Seoltaí…">
 <!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY AddDirectlyToAddressBook.label "Cuir leis an Leabhar Seoltaí">
+<!ENTITY AddDirectlyToAddressBook.accesskey "B">
 <!ENTITY EditContact.label "Cuir Teagmháil in Eagar…">
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Amharc ar an Teagmháil">
@@ -653,10 +659,10 @@
 <!ENTITY reportPhishingURL.accesskey "o">
 <!-- Content Pane Context Menu -->
 
-<!ENTITY saveLinkCmd.label "Sábháil Sprioc an Naisc">
-<!ENTITY saveLinkCmd.accesskey "r">
-<!ENTITY saveImageCmd.label "Sábháil an Íomhá">
-<!ENTITY saveImageCmd.accesskey "b">
+<!ENTITY saveLinkAsCmd.label "Sábháil an Nasc Mar…">
+<!ENTITY saveLinkAsCmd.accesskey "n">
+<!ENTITY saveImageAsCmd.label "Sábháil an Íomhá Mar…">
+<!ENTITY saveImageAsCmd.accesskey "m">
 <!ENTITY copyCmd.label "Cóipeáil">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">

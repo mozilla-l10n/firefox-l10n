@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Ar mhaithe le spás diosca a spáráil, ná híosluchtaigh:">
 <!ENTITY doNotDownload.label "Ar mhaithe spás diosca a spáráil, ná híosluchtaigh le haghaidh úsáide as líne:">
-<!ENTITY offlineNewFolder.label "Agus fillteáin nua á gcruthú agam, roghnaigh iad le haghaidh úsáide as líne">
-<!ENTITY offlineNewFolder.accesskey "c">
+<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
+<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Teachtaireachtaí níos mó ná">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY kb.label "kB">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Roghnaigh grúpaí nuachta le haghaidh úsáide as líne…">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineSelectImap.label "Roghnaigh fillteáin le haghaidh úsáide as líne…">
-<!ENTITY offlineSelectImap.accesskey "R">
-<!ENTITY offlineDesc.label "Is féidir leat do theachtaireachtaí a íosluchtú ionas go mbeidh siad ar fáil agus tú ag obair as líne.">
-<!ENTITY makeInboxMsgsAvailable.label "Bíodh na teachtaireachtaí i mo Bhosca Isteach ar fáil agus mé ag obair as líne.">
-<!ENTITY makeInboxMsgsAvailable.accesskey "h">
-<!ENTITY offlineGroupTitle.label "As Líne">
+<!ENTITY offlineImapAdvancedOffline.label "Casta…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "C">
+<!ENTITY syncGroupTitle.label "Message Synchronizing">
 <!ENTITY diskspaceGroupTitle.label "Spás Diosca">
