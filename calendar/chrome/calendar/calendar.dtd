@@ -1,0 +1,404 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 ArentJan Banck <ajbanck@planet.nl>
+   -                 Eric Belhaire <belhaire@ief.u-psud.fr>
+   -                 Matthew Willis <mattwillis@gmail.com>
+   -                 Simon Paquet <bugzilla@babylonsounds.com>
+   -                 Stefan Sitter <ssitter@gmail.com>
+   -                 Philipp Kewisch <mozilla@kewis.ch>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- General -->
+<!ENTITY calendar.file.default.name  "Myn aginda" >
+<!ENTITY calendar.calendar.label     "Aginda">
+<!ENTITY calendar.calendar.accesskey "A">
+
+
+<!ENTITY calendar.confirm.deleteallevents  "Witte jo seker dat jo alle selektearre barres fuortsmite wolle?" >
+<!ENTITY calendar.confirm.deleteevent "Witte jo seker dat jo it folgjende barren fuortsmite wolle: " >
+<!ENTITY calendar.confirm.deleteuntitledevent "Witte jo seker dat jo it folgjende nammeleaze barren fuortsmite wolle?" >
+
+<!ENTITY calendar.flat.topbar.choosedate       "Gean nei datum" >
+<!ENTITY calendar.flat.topbar.dayview          "Dei-oersicht" >
+<!ENTITY calendar.dayview.accesskey            "D" >
+<!ENTITY calendar.flat.topbar.weekview         "Wike-oersicht" >
+<!ENTITY calendar.weekview.accesskey           "k" >
+<!ENTITY calendar.flat.topbar.monthview        "Moanne-oersicht" >
+<!ENTITY calendar.monthview.accesskey          "M" >
+<!ENTITY calendar.flat.topbar.multiweekview    "Oersicht mearere wiken" >
+<!ENTITY calendar.multiweekview.accesskey      "e" >
+<!ENTITY calendar.dayView.key                  "1" >
+<!ENTITY calendar.weekView.key                 "2" >
+<!ENTITY calendar.multiweekView.key            "3" >
+<!ENTITY calendar.monthView.key                "4" >
+
+<!ENTITY calendar.newtask.button.tooltip          "In nije taak meitsje" >
+<!ENTITY calendar.newevent.button.tooltip         "In nij agindabarren meitsje" >
+<!ENTITY calendar.delete.button.tooltip           "Selektearre barren fuortsmite" >
+<!ENTITY calendar.edit.button.tooltip             "Selektearre barren bewurkje" >
+
+<!ENTITY calendar.unifinder.todoitems.label       "Taken" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Foltôge taken toane">
+
+<!ENTITY calendar.calendartab.label "Datum">
+<!ENTITY calendar.listofcalendarstab.label "Aginda’s">
+<!ENTITY calendar.today.button.label       "Hjoed">
+<!ENTITY calendar.tomorrow.button.label       "Moarn">
+<!ENTITY calendar.soon.button.label           "Ynkoarten">
+
+<!ENTITY calendar.events.filter.all.label "Alle barrens">
+<!ENTITY calendar.events.filter.today.label "Barrens fan hjoed">
+<!ENTITY calendar.events.filter.future.label "Alle kommende barrens">
+<!ENTITY calendar.events.filter.current.label "Momenteel selektearre dei">
+<!ENTITY calendar.events.filter.next7Days.label "Barrens yn de kommende 7 dagen">
+<!ENTITY calendar.events.filter.next14Days.label "Barrens yn de kommende 14 dagen">
+<!ENTITY calendar.events.filter.next31Days.label "Barrens yn de kommende 31 dagen">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Barrens yn dizze kalindermoanne">
+
+<!ENTITY calendar.unifinder.tree.done.label          "Dien">
+<!ENTITY calendar.unifinder.tree.priority.label      "Prioriteit">
+<!ENTITY calendar.unifinder.tree.title.label         "Titel">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; foltôge">
+<!ENTITY calendar.unifinder.tree.startdate.label     "Begjin">
+<!ENTITY calendar.unifinder.tree.enddate.label       "Ein">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Ferrin">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Foltôge">
+<!ENTITY calendar.unifinder.tree.categories.label    "Kategorie">
+<!ENTITY calendar.unifinder.tree.location.label      "Lokaasje">
+<!ENTITY calendar.unifinder.tree.status.label        "Steat">
+<!ENTITY calendar.unifinder.tree.calendarname.label  "Agindanamme">
+<!ENTITY calendar.unifinder.tree.duration.label      "Ferrint nei">
+<!ENTITY calendar.unifinder.close.tooltip            "Barrens sykje en barrenslist slute">
+<!ENTITY calendar.find.key  "F">
+
+<!ENTITY calendar.today.button.tooltip            "Naei hjoed gean" >
+<!ENTITY calendar.todaypane.button.tooltip        "Finster Hjoed toanen" >
+<!ENTITY calendar.choosedate.button.tooltip       "Datum kieze om nei ta te gean" >
+<!ENTITY calendar.unifinder.button.tooltip        "Barrens sykje en toane" >
+
+<!ENTITY calendar.day.button.tooltip            "Nei dei-oersicht oerskeakelje" >
+<!ENTITY calendar.week.button.tooltip           "Nei wike-oersicht oerskeakelje" >
+<!ENTITY calendar.month.button.tooltip          "Nei moanne-oersicht oerskeakelje" >
+<!ENTITY calendar.multiweek.button.tooltip      "Nei oersicht foar mear wiken oerskeakelje" >
+
+<!ENTITY calendar.nextday.button.tooltip        "Folgjende dei" >
+<!ENTITY calendar.prevday.button.tooltip        "Foarige dei" >
+<!ENTITY calendar.nextweek.button.tooltip       "Folgjende wike" >
+<!ENTITY calendar.prevweek.button.tooltip       "Foarige wike" >
+<!ENTITY calendar.nextmonth.button.tooltip      "Folgjende moanne" >
+<!ENTITY calendar.prevmonth.button.tooltip      "Foarige moanne" >
+
+<!ENTITY calendar.newtask.button.label          "Nije taak" >
+<!ENTITY calendar.newevent.button.label         "Nij barren" >
+<!ENTITY calendar.delete.button.label           "Fuortsmite" >
+<!ENTITY calendar.edit.button.label             "Bewurkje" >
+
+<!ENTITY calendar.choosedate.button.label       "Datum kieze" >
+
+<!ENTITY calendar.cut.button.tooltip            "Knippe" >
+<!ENTITY calendar.copy.button.tooltip           "Kopiearje" >
+<!ENTITY calendar.paste.button.tooltip          "Plakke" >
+<!ENTITY calendar.print.button.tooltip          "Aginda ôfdrukke" >
+
+<!ENTITY calendar.cut.button.label              "Knippe" >
+<!ENTITY calendar.copy.button.label             "Kopiearje" >
+<!ENTITY calendar.paste.button.label            "Plakke" >
+<!ENTITY calendar.print.button.label            "Ofdrukke" >
+
+<!ENTITY calendar.import.button.tooltip            "Barrens ymportearje út in lokaal bestân" >
+<!ENTITY calendar.export.button.tooltip            "Barrens eksportearje nei in lokaal bestân" >
+<!ENTITY calendar.subscribe.button.tooltip         "Aanmelden by in agindabestân op in oare masine" >
+<!ENTITY calendar.publish.button.tooltip           "Barrens publisearje nei in oare masine" >
+
+<!ENTITY calendar.export.calendar                "Aginda eksportearje…" >
+
+<!ENTITY calendar.import.button.label              "Ymportearje" >
+<!ENTITY calendar.export.button.label              "Eksportearje" >
+<!ENTITY calendar.subscribe.button.label           "Oanmelde" >
+<!ENTITY calendar.publish.button.label             "Publisearje" >
+<!ENTITY calendar.unifinder.button.label           "Barrens sykje" >
+
+<!ENTITY calendar.remotereload.button.label   "Ferferse" >
+<!ENTITY calendar.remotereload.button.tooltip   "Alle aginda’s op ôfstân ferferse" >
+
+<!ENTITY calendar.day.button.label              "Dei" >
+<!ENTITY calendar.week.button.label             "Wike" >
+<!ENTITY calendar.month.button.label            "Moanne" >
+<!ENTITY calendar.multiweek.button.label        "Mear wiken" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Allinnich wurkdagen" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Taken yn oersicht" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "c" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Foltôge taken toane" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "F" >
+
+<!ENTITY calendar.orientation.label "Oersicht draaie" >
+<!ENTITY calendar.orientation.accesskey "o" >
+
+<!ENTITY calendar.menu.options.close.key        "W">
+
+<!ENTITY calendar.search.options.searchfor " mei">
+
+<!ENTITY calendar.menu.numberofweeks.label     "Oantal wiken" >
+<!ENTITY calendar.menu.numberofweeks.accesskey "A" >
+<!ENTITY calendar.menu.numberofweeks.2      "2 wiken" >
+<!ENTITY calendar.menu.numberofweeks.3      "3 wiken" >
+<!ENTITY calendar.menu.numberofweeks.4      "4 wiken" >
+<!ENTITY calendar.menu.numberofweeks.5      "5 wiken" >
+<!ENTITY calendar.menu.numberofweeks.6      "6 wiken" >
+
+<!ENTITY calendar.list.header.label                 "Aginda">
+
+<!ENTITY calendar.task.filter.title.label           "Toane">
+<!ENTITY calendar.task.filter.all.label             "Alles">
+<!ENTITY calendar.task.filter.all.accesskey         "A"> 
+<!ENTITY calendar.task.filter.today.label           "Hjoed">
+<!ENTITY calendar.task.filter.today.accesskey       "H">
+<!ENTITY calendar.task.filter.next7days.label       "Kommende sân dagen">
+<!ENTITY calendar.task.filter.next7days.accesskey   "s">
+<!ENTITY calendar.task.filter.notstarted.label      "Net-begûnne taken">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "e">
+<!ENTITY calendar.task.filter.overdue.label         "Efterstallige taken">
+<!ENTITY calendar.task.filter.overdue.accesskey     "f">
+<!ENTITY calendar.task.filter.completed.label       "Foltôge taken">
+<!ENTITY calendar.task.filter.completed.accesskey   "F">
+<!ENTITY calendar.task.filter.open.label            "Net foltôge taken">
+<!ENTITY calendar.task.filter.open.accesskey        "N">
+
+<!ENTITY calendar.task.details.title.label           "Titel:">
+<!ENTITY calendar.task.details.organizer.label       "Fan:">
+<!ENTITY calendar.task.details.priority2.label       "Prioriteit:">
+<!ENTITY calendar.task.details.priority.low.label    "Leech">
+<!ENTITY calendar.task.details.priority.normal.label "Normaal">
+<!ENTITY calendar.task.details.priority.high.label   "Heech">
+<!ENTITY calendar.task.details.status.label          "Steat:">
+<!ENTITY calendar.task.details.category.label        "Kategorie:">
+<!ENTITY calendar.task.details.repeat.label          "Werhelje:">
+
+<!ENTITY calendar.task.category.button.tooltip  "Taken kategorisearje">
+<!ENTITY calendar.task.complete.button.tooltip  "Selektearre taken as foltôge markearje">
+<!ENTITY calendar.task.priority.button.tooltip  "De prioriteit wizigje">
+<!ENTITY calendar.task.delete.button.tooltip    "De selektearre taak fuortsmite">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label            "Dokumint: Dien">
+
+<!-- customizable toolbars -->
+<!ENTITY calendar.context.customize.label             "Oanpasse…">
+<!ENTITY calendar.context.customize.accesskey         "O">
+<!ENTITY calendar.menu.customize.label                "Arkbalke oanpasse…">
+<!ENTITY calendar.menu.customize.accesskey            "A">
+<!ENTITY calendar.maintoolbar.name                    "Haadarkbalke">
+<!ENTITY calendar.maintoolbar.accesskey               "H">
+
+<!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label      "Iepenje">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "I">
+<!ENTITY calendar.context.modifyorviewtask.label      "Taak iepenje…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "i">
+<!ENTITY calendar.context.newevent.label              "Nij barren…">
+<!ENTITY calendar.context.newevent.accesskey          "b">
+<!ENTITY calendar.context.newtodo.label               "Nije taak…">
+<!ENTITY calendar.context.newtodo.accesskey           "t">
+<!ENTITY calendar.context.modifytask.label            "Taak bewurkje…">
+<!ENTITY calendar.context.modifytask.accesskey        "w">
+<!ENTITY calendar.context.modifyitem.label            "Item bewurkje">
+<!ENTITY calendar.context.modifyitem.accesskey        "w">
+<!ENTITY calendar.context.deletetask.label            "Taak fuortsmite">
+<!ENTITY calendar.context.deletetask.accesskey        "f">
+<!ENTITY calendar.context.deleteitem.label            "Fuortsmite">
+<!ENTITY calendar.context.deleteitem.accesskey        "F">
+<!ENTITY calendar.context.deleteevent.label           "Barren fuortsmite">
+<!ENTITY calendar.context.deleteevent.accesskey       "f">
+<!ENTITY calendar.context.deletethisevent.label       "Dit barren">
+<!ENTITY calendar.context.deletethisevent.accesskey   "D">
+<!ENTITY calendar.context.deletecompleteseries.label  "Folsleine reeks">
+<!ENTITY calendar.context.deletecompleteseries.accesskey   "r">
+<!ENTITY calendar.context.deletefutureevents.label     "Alle takomstige barren">
+<!ENTITY calendar.context.deletefutureevents.accesskey "t">
+<!ENTITY calendar.context.deletefuturetasks.label     "Alle takomstige taken">
+<!ENTITY calendar.context.deletefuturetasks.accesskey "t">
+<!ENTITY calendar.context.cutevent.label              "Knippe">
+<!ENTITY calendar.context.cutevent.accesskey          "n">
+<!ENTITY calendar.context.copyevent.label             "Kopiearje">
+<!ENTITY calendar.context.copyevent.accesskey         "K">
+<!ENTITY calendar.context.pasteevent.label            "Plakke">
+<!ENTITY calendar.context.pasteevent.accesskey        "P">
+<!ENTITY calendar.context.selectall.label             "Alles selektearje">
+<!ENTITY calendar.context.selectall.accesskey         "A">
+<!ENTITY calendar.context.button.label                "Finster Hjoed" >
+<!ENTITY calendar.context.button.accesskey            "d" >
+
+<!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "Foartgong">
+<!ENTITY calendar.context.progress.accesskey          "r">
+<!ENTITY calendar.context.priority.label              "Prioriteit">
+<!ENTITY calendar.context.priority.accesskey          "P">
+
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
+
+<!ENTITY calendar.context.markcompleted.label     "Markearje as foltôge">
+<!ENTITY calendar.context.markcompleted.accesskey "o">
+
+<!ENTITY progress.level.0             "0&percnt; foltôge">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25&percnt; foltôge">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50&percnt; foltôge">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "75&percnt; foltôge">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "100&percnt; foltôge">
+<!ENTITY progress.level.100.accesskey  "1">
+
+<!ENTITY priority.level.none                "Net spesifisearre">
+<!ENTITY priority.level.none.accesskey      "s">
+<!ENTITY priority.level.low                 "Leech">
+<!ENTITY priority.level.low.accesskey       "L">
+<!ENTITY priority.level.normal              "Normaal">
+<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.high                "Heech">
+<!ENTITY priority.level.high.accesskey      "H">
+
+<!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Nije aginda…">
+<!ENTITY calendar.context.newserver.accesskey          "N">
+<!ENTITY calendar.context.findcalendar.label           "Aginda sykje…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "s" >
+<!ENTITY calendar.context.deleteserver.label           "Aginda fuortsmite">
+<!ENTITY calendar.context.deleteserver.accesskey       "f">
+<!ENTITY calendar.context.reloadserver.label           "Aginda’s op oare kompjûter(s) ferferse">
+<!ENTITY calendar.context.reloadserver.accesskey       "o">
+<!ENTITY calendar.context.publish.label                "Aginda publisearje">
+<!ENTITY calendar.context.publish.accesskey            "p">
+<!ENTITY calendar.context.export.label                 "Aginda eksportearje…">
+<!ENTITY calendar.context.export.accesskey             "k">
+<!ENTITY calendar.context.properties.label             "Eigenskippen">
+<!ENTITY calendar.context.properties.accesskey         "E">
+
+<!ENTITY calendar.context.convertmenu.label               "Konvertearje nei">
+<!ENTITY calendar.context.convertmenu.accesskey.mail      "n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar  "K">
+<!ENTITY calendar.context.convertmenu.event.label         "Barren…">
+<!ENTITY calendar.context.convertmenu.event.accesskey     "B">
+<!ENTITY calendar.context.convertmenu.message.label       "Berjocht…">
+<!ENTITY calendar.context.convertmenu.message.accesskey   "e">
+<!ENTITY calendar.context.convertmenu.task.label          "Taak…">
+<!ENTITY calendar.context.convertmenu.task.accesskey      "T">
+
+<!ENTITY calendar.tasks.view.minimonth.label           "Minimoanne">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "n">
+
+<!ENTITY calendar.tasks.view.calendarlist.label        "Agindalist">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "A">
+
+<!ENTITY calendar.tasks.view.filtertasks.label           "Taken filterje">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "f">
+
+<!-- Calendar Alarm Dialog -->
+
+<!ENTITY calendar.alarm.location.label              "Lokaasje:" >
+<!ENTITY calendar.alarm.details.label               "Details…" >
+
+<!ENTITY calendar.alarm.snoozefor.label             "Sluimerjen foar" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Alle sluimerje foar" >
+<!ENTITY calendar.alarm.title.label                 "Aginda-alarm" >
+<!ENTITY calendar.alarm.dismiss.label               "Utskeakelje" >
+<!ENTITY calendar.alarm.dismissall.label            "Alle útskeakelje" >
+
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 minuten" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 minuten" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 minuten" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minuten" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minuten" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 oere" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 oeren" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 dei" >
+
+<!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Aginda bewurkje">
+<!ENTITY calendar.server.dialog.name.label          "Agindanamme:">
+
+<!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label    "Kleur:">
+<!ENTITY calendarproperties.webdav.label   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label   "CalDAV">
+<!ENTITY calendarproperties.wcap.label     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label   "Formaat:">
+<!ENTITY calendarproperties.location.label "Lokaasje:">
+<!ENTITY calendarproperties.name.label     "Namme:">
+<!ENTITY calendarproperties.readonly.label "Allinnich-lêze">
+<!ENTITY calendarproperties.firealarms.label "Alarmen toane">
+<!ENTITY calendarproperties.cache.label    "Buffer (EKSPERIMENTEEL, werstart nedich)">
+<!ENTITY calendarproperties.enabled.label  "Dizze aginda ynskeakelje">
+
+<!-- Sunbird Help -->
+<!ENTITY calendar.help.label               "Helpynhâld">
+<!ENTITY calendar.help.accesskey           "H">
+
+<!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Aginda publisearje">
+<!ENTITY calendar.publish.url.label                 "Publikaasje-URL">
+<!ENTITY calendar.publish.publish.button      "Publisearje">
+<!ENTITY calendar.publish.close.button      "Slute">
+
+<!ENTITY calendar.publish.example.url.description   "Lykas http://www.myserver.com/webdav/test.ics">
+
+<!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Aginda selektearje">
+
+<!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "In aginda ôfdrukke">
+<!ENTITY calendar.print.title.label "Titel:">
+<!ENTITY calendar.print.layout.label "Lay-out:">
+<!ENTITY calendar.print.range.label "Of te drukken">
+<!ENTITY calendar.print.currentview.label "Barrens yn aktuele oersicht">
+<!ENTITY calendar.print.selected.label "Selektearre barrens">
+<!ENTITY calendar.print.custom.label "Oanpast datumberyk:">
+<!ENTITY calendar.print.from.label "Fan:">
+<!ENTITY calendar.print.to.label "Oant:">
+<!ENTITY calendar.print.settingsGroup.label "Ofdrukynstellings">
+
+<!-- Error reporting -->
+<!ENTITY calendar.error.detail "Details…">
+<!ENTITY calendar.error.number "Flaternûmer:">
+<!ENTITY calendar.error.description "Beskriuwing:">
+<!ENTITY calendar.error.title "Der is in flater bart">
+
+
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
