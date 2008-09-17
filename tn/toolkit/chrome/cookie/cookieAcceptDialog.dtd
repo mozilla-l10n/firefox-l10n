@@ -1,0 +1,20 @@
+<!ENTITY props.box.label "Ka ga khoki eno">
+<!ENTITY props.name.label "Leina:">
+<!ENTITY props.value.label "Diteng:">
+<!ENTITY props.domain.label "Khomphiutarakgolo:">
+<!ENTITY props.path.label "Tsela:">
+<!ENTITY props.secure.label "Romelela:">
+<!ENTITY props.expires.label "Fetelwa ke Nako:">
+<!ENTITY props.policy.label "Pholesi:">
+
+<!ENTITY button.allow.label "Letla">
+<!ENTITY button.allow.accesskey "L">
+<!ENTITY button.session.label "Letlelela Paka">
+<!ENTITY button.session.accesskey "P">
+<!ENTITY button.deny.label "Ganela">
+<!ENTITY button.deny.accesskey "G">
+
+<!ENTITY dialog.title "Tlhomamisa boalo jwa khuki">
+<!ENTITY dialog.remember.label "Dirisa boitlhophelo jwa me nmo dikhuking tsotlhe go tswa mo setsheng seno">
+<!ENTITY dialog.remember.accesskey "D">
+

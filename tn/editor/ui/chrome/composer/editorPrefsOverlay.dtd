@@ -1,0 +1,9 @@
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
+
+<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.accesskey "c">
+
+<!ENTITY compose.label "Motlhami">
+<!ENTITY editing.label "Boalo Jwa Tsebe e Ntšhwa">
+<!ENTITY toolbars.label "Dibara tsa didiriswa">
+<!ENTITY publish.label "Go a phasaladiwa">

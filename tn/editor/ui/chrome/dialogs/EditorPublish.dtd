@@ -1,0 +1,88 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "Phasalatsa Tsebe">
+<!ENTITY windowTitleSettings.label "Phasalatsa Boalo">
+
+<!ENTITY publishTab.label "Phasalatsa">
+<!ENTITY settingsTab.label "Boalo">
+
+<!ENTITY publishButton.label "Phasalatsa">
+<!-- Publish Tab Panel -->
+
+<!ENTITY siteList.label "Leina la Setsha:">
+<!ENTITY siteList.tooltip "Tlhopha setsha se o batlang go se phasalaletsa mo">
+<!ENTITY newSiteButton.label "Setsha se se Ntšhwa">
+<!ENTITY siteDirList.label "Tlhopha kgotsa tlanya leina la lenanefaele mo setsheng sa gago sa phasalatso:">
+<!ENTITY siteDirList.tooltip "Tlhopha kgotsa tsenya leina la lenanefaelepotlana le le kgakala go phasalaletsa mo go lona">
+<!ENTITY docDirList.label "Lenanefelepotlana la setsha la tsebe e:">
+<!ENTITY publishImgCheckbox.label "Akaretsa ditshwantsho le difaele tse dingwe">
+<!ENTITY publishImgCheckbox.tooltip "Phasalatsa ditshwantsho le difaele tse dingwe tse di supiwang jaaka motswedi ke tsebe eno">
+<!ENTITY sameLocationRadio.label "Dirisa lefelo le le lengwe le tsebe">
+<!ENTITY sameLocationRadio.tooltip "Phasalaletsa difaele mo lefelong le le lengwe le tsebe">
+<!ENTITY useSubdirRadio.label "Dirisa lenanefaelepotlana la setsha se:">
+<!ENTITY useSubdir.tooltip "Tlhopha kgotsa tsenya leina la lenanefaelepotlana le le kgakala le difaele di tla phasalalediwang mo go lona">
+<!ENTITY chooseDirButton.label "Tlhopha...">
+<!ENTITY pageTitle.label "Setlhogo sa Tsebe:">
+<!ENTITY pageTitle.tooltip "Tsenya setlhogo go supa tsebe mo fensetereng le mo matshwaotsebeng">
+<!ENTITY pageTitleExample.label "e.g.: &quot;Tsebe ya Me ya Inthanete&quot;">
+<!ENTITY filename.label "Leina la faele:">
+<!ENTITY filename.tooltip "Tsenya leina la faele e, go akarediwa '.html' ya tsebe ya inthanete">
+<!ENTITY filenameExample.label "e.g,: &quot;tsebeyame.html&quot;">
+<!ENTITY relatedDocs.label "Difaele tse dingwe tse di phasaladiwang">
+<!ENTITY setDefaultButton.label "Tlhoma jaaka Serulaganyediwa ruri">
+<!ENTITY setDefSiteAndDir.label "Tlhoma jaaka Setsha se se Rulaganyeditsweng ruri le Lenanefaele">
+<!ENTITY removeButton.label "Tlosa Setsha">
+<!-- Settings Tab Panel -->
+
+<!ENTITY publishSites.label "E phasalatsa Ditsha">
+<!ENTITY serverInfo.label "Tshedimosetso ya Dikgatlhong">
+<!ENTITY loginInfo.label "Tshedimosetso ya go Tsena">
+<!ENTITY siteName.label "Leina la Setsha:">
+<!ENTITY siteName.tooltip "Leinatlhaletso le le supang setsha seno sa phasalatso (sekai: 'SetshaSaMe')">
+<!ENTITY siteUrl.label "Aterese ya Phasalatso (sekai.: 'ftp://ftp.myisp.com/leinalamelamodirisi'):">
+<!ENTITY siteUrl.tooltip "Aterese ya FTP:// kgotsa HTTP:// e e tlamelwang ke Motlamedi wa gago wa Tirelo ya Inthanete kgotsa tirelo ya go amogela inthanete">
+<!ENTITY browseUrl.label "Aterese ya HTTP ya tsebegae ya gago (sekai: 'http://www.myisp.com/leinalamelamodirisi'):">
+<!ENTITY browseUrl.tooltip "Aterese ya HTTP:// ya lenanefaele la gago la gae (se akaretsa leina la faele)">
+<!ENTITY username.label "Leina la modirisi:">
+<!ENTITY username.tooltip "Leina la modirisi le o le dirisang go tsena mo Motlameding wa gago wa Tirelo ya Inthanete kgotsa tirelo ya go amogela inthanete">
+<!ENTITY password.label "Khunololamoraba:">
+<!ENTITY password.tooltip "Khunololamoraba e e amanang le leina la gago la modirisi">
+<!ENTITY savePassword.label "Boloka Khunololamoraba">
+<!ENTITY savePassword.tooltip "Tlhopha seno go boloka khunololamoraba ya gago ka pabalesego o dirisa Motsamaisi wa Khunololamoraba">

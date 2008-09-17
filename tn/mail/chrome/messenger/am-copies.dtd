@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Dikhopi &amp; Ditsholadifaele">
+<!ENTITY sendingPrefix.label "Fa o romela melaetsa, ka boitiriso: ">
+<!ENTITY fccMailFolder.label "Baya khopi mo:">
+<!ENTITY fccMailFolder.accesskey "B">
+<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Tlhopha Setsholadifaele...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Romela ga mmogo le go diaterese tseno tsa diposo tsa eleketoroniki:">
+<!ENTITY bccAddress.accesskey "R">
+<!ENTITY specialFolderTitle.label "Ditsholadifaele tse di Kgethegileng">
+<!ENTITY draftMailFolder.label "Tshola melaetsa tlhomo mo:">
+<!ENTITY templateMailFolder.label "Tshola diforomo tsa melaetsa mo:">
+<!ENTITY saveMessageDlg.label "Bontsha puisano ya tlhomamiso fa melaetsa e bolokilwe">
+<!ENTITY saveMessageDlg.accesskey "B">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Rometswe&quot; Setsholadifaele mo:">
+<!ENTITY sentFolderOn.accesskey "o">
+<!ENTITY sentInOtherFolder.label "Tse dingwe:">
+<!ENTITY sentInOtherFolder.accesskey "T">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Ditlhomo&quot; Setsholadifaele mo:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "Tse dingwe:">
+<!ENTITY draftInOtherFolder.accesskey "t">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Foromo&quot; Setsholadifaele mo:">
+<!ENTITY templatesFolderOn.accesskey "r">
+<!ENTITY templateInOtherFolder.label "Tse dingwe:">
+<!ENTITY templateInOtherFolder.accesskey "n">
+<!ENTITY specialFoldersTitle.label "Ditlhomo le Diforomo">
+<!ENTITY keepDrafts.label "Tshola melaetsa tlhomo mo:">
+<!ENTITY keepTempltes.label "Tshola diforomo tsa melaetsa mo:">

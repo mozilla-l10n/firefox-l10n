@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Tlhamo &amp; go kwala Aterese">
+<!ENTITY addressingGroupTitle.label "Go kwala aterese">
+<!ENTITY addressingText.label "Fa go batliwa diaterese:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "Dirisa diratwabogolo tsa dikgatlhong tsa my global LDAP mo akhaontong eno">
+<!ENTITY useGlobal.accesskey "D">
+<!ENTITY editDirectories.label "Tseleganya Mananefaele...">
+<!ENTITY editDirectories.accesskey "T">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Dirisa dikgatlhong tse di farologaneng tsa LDAP:">
+<!ENTITY directories.accesskey "d">
+<!-- am-addressing.xul -->
+
+
+<!ENTITY compositionGroupTitle.label "Tlhamo">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Tlhama melaetsa ka fomete ya HTML">
+<!ENTITY useHtml.accesskey "T">
+<!ENTITY autoQuote.label "Nopola molaetsa wa tshimologo ka boitiriso fa go arabiwa">
+<!ENTITY autoQuote.accesskey "n">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "Mme morago,">
+<!ENTITY then.accesskey "m">
+<!ENTITY aboveQuote.label "simolola karabo ya me fa godimo ga nopolo">
+<!ENTITY belowQuote.label "simolola karabo ya me fa tlase ga nopolo">
+<!ENTITY selectAndQuote.label "tlhopha nopolo">
+<!ENTITY place.label "mme o beye mosaeno wa me">
+<!ENTITY place.accesskey "b">
+<!ENTITY belowText.label "ka fa tlase ga nopolo (go a atlenegisiwa)">
+<!ENTITY aboveText.label "ka fa tlase ga karabo ya me (fa godimo ga nopolo)">

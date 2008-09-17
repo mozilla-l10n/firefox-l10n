@@ -1,0 +1,64 @@
+<!ENTITY fontsDialog.title "Difonto">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "Difonto tsa:">
+<!ENTITY language.accesskey "o">
+
+<!ENTITY typefaces.label "Mofutatlhaka">
+<!ENTITY sizes.label "Bogolo (dipikisele)">
+
+<!ENTITY proportional.label "Lekalekanang:">
+<!ENTITY proportional.accesskey "L">
+
+<!ENTITY serif.label "Serif:">
+<!ENTITY serif.accesskey "s">
+<!ENTITY sans-serif.label "Sans-serif:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "Monosepeisi:">
+<!ENTITY monospace.accesskey "m">
+
+<!ENTITY fontsize.units "dipikisele">
+
+<!ENTITY font.langGroup.latin1 "Bophirima">
+<!ENTITY font.langGroup.latin2 "Yuropa Bogare">
+<!ENTITY font.langGroup.japanese "SeJapane">
+<!ENTITY font.langGroup.trad-chinese "SeTšhaena sa Setso (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "SeTšhaena se se Nolofaditsweng">
+<!ENTITY font.langGroup.trad-chinese-hk "SeTšhaena sa Setso (Hong Kong)">
+<!ENTITY font.langGroup.korean "SeKorea">
+<!ENTITY font.langGroup.cyrillic "SeCyrillic">
+<!ENTITY font.langGroup.baltic "SeBaltic">
+<!ENTITY font.langGroup.el "Segerika">
+<!ENTITY font.langGroup.turkish "SeTurk">
+<!ENTITY font.langGroup.unicode "Dipuo Tse Dingwe">
+<!ENTITY font.langGroup.user-def "Modirisi o Tlhalositswe">
+<!ENTITY font.langGroup.thai "SeThai">
+<!ENTITY font.langGroup.hebrew "Sehebera">
+<!ENTITY font.langGroup.arabic "Searabia">
+<!ENTITY font.langGroup.devanagari "SeDevanagari">
+<!ENTITY font.langGroup.tamil "SeTamil">
+<!ENTITY font.langGroup.armenian "SeArmenia">
+<!ENTITY font.langGroup.bengali "SeBengal">
+<!ENTITY font.langGroup.canadian "Tlotlontswe e e Kopantsweng ya Canada">
+<!ENTITY font.langGroup.ethiopic "SeItopia">
+<!ENTITY font.langGroup.georgian "SeGeorgia">
+<!ENTITY font.langGroup.gujarati "SeGujarati">
+<!ENTITY font.langGroup.gurmukhi "SeGurmukhi">
+<!ENTITY font.langGroup.khmer "SeKhmer">
+<!ENTITY font.langGroup.malayalam "SeMalayalam">
+<!-- Minimum font size -->
+
+<!ENTITY minSize.label "Bonnyepotlana jwa bogolo jwa fonto:">
+<!ENTITY minSize.accesskey "o">
+<!ENTITY minSize.none "Bope">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Serifi">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serifi">
+
+<!ENTITY newLanguages.label "Dipuo tse dintšhwa di ka rulaganngwa go dirisiwa Phanele ya Puo.">
+
+<!ENTITY useDocumentFonts.label "Letla melaetsa go dirisa difonto tse dingwe">
+<!ENTITY useDocumentFonts.accesskey "l">

@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Dituelelopele tsa RSS">
+<!ENTITY subscriptionDesc.label "Ela Tlhoko: Go tlosa gongwe go fetola setsholadifaele ka ntlha ya phepo go ka seke ga ama diathikele tse di kopolotsweng mo nakong e e fetileng.">
+<!ENTITY feedTitle.label "Setlhogo:">
+<!ENTITY location.label "Lefelo:">
+
+<!ENTITY button.addFeed.label "Tsenya">
+<!ENTITY button.addFeed.accesskey "T">
+<!ENTITY button.editFeed.label "Tseleganya">
+<!ENTITY button.editFeed.accesskey "T">
+<!ENTITY button.removeFeed.label "Tlosa">
+<!ENTITY button.removeFeed.accesskey "T">
+<!ENTITY button.importOPML.label "Tlisateng">
+<!ENTITY button.importOPML.accesskey "T">
+<!ENTITY button.exportOPML.label "Romelantle">
+<!ENTITY button.exportOPML.accesskey "O">
+
+<!ENTITY cmd.close.commandKey "w">

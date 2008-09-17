@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Pabalesego ya Melaetsa">
+<!ENTITY subject.plaintextWarning "Tsweetswee ela tlhoko: Mela ya ditemakgang tsa melaetsa ya poso ya elekeotoniki ga e ke e khoutololwa.">
+<!ENTITY status.heading "Diteng tsa molaetsa wa gago di tla romelwa ka tsela e e latelang:">
+<!ENTITY status.signed "Saenilwe ka tsela ya dijitale:">
+<!ENTITY status.encrypted "Khoutolotswe:">
+<!ENTITY status.certificates "Ditifikeiti:">
+<!ENTITY view.label "Leba">
+<!ENTITY view.accesskey "L">
+<!ENTITY tree.recipient "Moamogedi">
+<!ENTITY tree.status "Maemo">
+<!ENTITY tree.issuedDate "Rebotswe">
+<!ENTITY tree.expiresDate "Felelwa ke nako">

@@ -1,0 +1,29 @@
+<!ENTITY window.title "Ditlhotlhi tsa Melaetsa">
+<!ENTITY nameColumn.label "Leina la Setlhotlhi">
+<!ENTITY activeColumn.label "Kgontshitswe">
+<!ENTITY newButton.label "Ntšhwa...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Tseleganya...">
+<!ENTITY editButton.accesskey "T">
+<!ENTITY deleteButton.label "Phimola">
+<!ENTITY deleteButton.accesskey "l">
+<!ENTITY reorderUpButton.label "Sutisetsa kwa Godimo">
+<!ENTITY reorderUpButton.accesskey "G">
+<!ENTITY reorderDownButton.label "Sutisetsa kwa Tlase">
+<!ENTITY reorderDownButton.accesskey "T">
+<!ENTITY filterHeader.label "Ditlhotlhi tse di kgontshitsweng di tsamaisiwa ka go itirisa ka tatelano e e bontshitsweng fa tlase.">
+<!ENTITY filtersForPrefix.label "Ditlhotlhi tsa:">
+<!ENTITY filtersForPrefix.accesskey "D">
+<!ENTITY viewLogButton.label "Rekoto ya Setlhotlhi">
+<!ENTITY viewLogButton.accesskey "S">
+<!ENTITY runFilters.label "Tsamaisa Jaanong">
+<!ENTITY runFilters.accesskey "T">
+<!ENTITY stopFilters.label "Emisa">
+<!ENTITY stopFilters.accesskey "E">
+<!ENTITY folderPickerPrefix.label "Tsamaisa ditlhotlhi tse di tlhophilweng mo:">
+<!ENTITY folderPickerPrefix.accesskey "o">
+<!ENTITY choosethis.label "tlhopha setsholadifaele seno">
+<!ENTITY choosethisnewsserver.label "tlhopha dikgatlhong tseno tsa dikgang">
+<!ENTITY helpButton.label "Thuso">
+<!ENTITY helpButton.accesskey "T">
+<!ENTITY closeCmd.key "W">

@@ -1,0 +1,89 @@
+<!-- Labels -->
+<!ENTITY chooseAddressBook.label "Tsenya go: ">
+<!ENTITY chooseAddressBook.accesskey "T">
+<!-- Contact Tab -->
+
+<!ENTITY Contact.tab "Kgolagano">
+<!ENTITY Name.box "Leina">
+<!-- LOCALIZATION NOTE: 
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY NameField1.label "La Ntlha:">
+<!ENTITY NameField1.accesskey "L">
+<!ENTITY NameField2.label "La Bofelo:">
+<!ENTITY NameField2.accesskey "L">
+<!ENTITY PhoneticField1.label "Fonetiki:">
+<!ENTITY PhoneticField2.label "Fonetiki:">
+<!ENTITY DisplayName.label "Bontsha:">
+<!ENTITY DisplayName.accesskey "B">
+<!ENTITY NickName.label "Leina la motshameko:">
+<!ENTITY NickName.accesskey "L">
+<!ENTITY Internet.box "Inthanete">
+<!ENTITY PrimaryEmail.label "Poso ya Eleketeroniki:">
+<!ENTITY PrimaryEmail.accesskey "P">
+<!ENTITY SecondEmail.label "Poso ya Eleketeroniki ya Tlaleletso:">
+<!ENTITY SecondEmail.accesskey "l">
+<!ENTITY PreferMailFormat.label "Rata go amogela melaetsa e e fometilweng jaaka:">
+<!ENTITY PreferMailFormat.accesskey "a">
+<!ENTITY PlainText.label "Ditlhaka tsa gale Fela">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "Ga e itsiwe">
+<!ENTITY ScreenName.label "Leina la Sekereni:">
+<!ENTITY ScreenName.accesskey "L">
+<!ENTITY Phones.box "Megala">
+<!ENTITY WorkPhone.label "Tiro:">
+<!ENTITY WorkPhone.accesskey "T">
+<!ENTITY HomePhone.label "Gae:">
+<!ENTITY HomePhone.accesskey "G">
+<!ENTITY FaxNumber.label "Fekese:">
+<!ENTITY FaxNumber.accesskey "e">
+<!ENTITY PagerNumber.label "Pheijara:">
+<!ENTITY PagerNumber.accesskey "P">
+<!ENTITY CellularNumber.label "Selulara:">
+<!ENTITY CellularNumber.accesskey "S">
+<!-- Address Tab -->
+
+<!ENTITY Address.tab "Aterese">
+<!ENTITY Home.box "Gae">
+<!ENTITY HomeAddress.label "Aterse:">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeCity.label "Teropo:">
+<!ENTITY HomeState.label "Porofense:">
+<!ENTITY HomeZipCode.label "Khoutu ya Poso:">
+<!ENTITY HomeCountry.label "Naga:">
+<!ENTITY HomeWebPage.label "Tsebe ya Inthanete:">
+<!ENTITY Work.box "Tiro">
+<!ENTITY JobTitle.label "Maemo:">
+<!ENTITY Department.label "Lefapha:">
+<!ENTITY Company.label "Setlamo:">
+<!ENTITY WorkAddress.label "Aterese:">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkCity.label "Teropo:">
+<!ENTITY WorkState.label "Porofense:">
+<!ENTITY WorkZipCode.label "Khoutu ya Poso:">
+<!ENTITY WorkCountry.label "Naga:">
+<!ENTITY WorkWebPage.label "Tsebe ya Inthanete:">
+<!-- Other Tab -->
+
+<!ENTITY Other.tab "Tse dingwe">
+<!ENTITY Custom1.label "Magoro 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "Magoro 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "Magoro 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "Magoro 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.box "Dintlhana">

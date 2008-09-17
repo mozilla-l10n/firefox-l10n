@@ -1,0 +1,80 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Input Tag Properties Dialog.
+   -
+   - The Initial Developer of the Original Code is
+   - Neil Rashbrook.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Neil Rashbrook <neil@parkwaycc.co.uk>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY windowTitle.label "Ditlhagotshedimosetso tsa Lenaane la Tlhopho">
+
+<!ENTITY Select.label "Lenaane la Tlhopho">
+<!ENTITY SelectName.label "Leinala Lenaane:">
+<!ENTITY SelectName.accesskey "L">
+<!ENTITY SelectSize.label "Bogodimo:">
+<!ENTITY SelectSize.accesskey "B">
+<!ENTITY SelectMultiple.label "Ditlhopho tse Dintsi">
+<!ENTITY SelectMultiple.accesskey "D">
+<!ENTITY SelectDisabled.label "Koafaditswe">
+<!ENTITY SelectDisabled.accesskey "K">
+<!ENTITY SelectTabIndex.label "Tshupane ya Tab:">
+<!ENTITY SelectTabIndex.accesskey "T">
+
+<!ENTITY OptGroup.label "Setlhopha sa Seitlhophelwa">
+<!ENTITY OptGroupLabel.label "Leibole:">
+<!ENTITY OptGroupLabel.accesskey "L">
+<!ENTITY OptGroupDisabled.label "Koafaditswe">
+<!ENTITY OptGroupDisabled.accesskey "K">
+
+<!ENTITY Option.label "Seitlhophelwa">
+<!ENTITY OptionText.label "Mafoko:">
+<!ENTITY OptionText.accesskey "M">
+<!ENTITY OptionValue.label "Boleng:">
+<!ENTITY OptionValue.accesskey "B">
+<!ENTITY OptionSelected.label "Tlhophilweng kwa Tshimologong">
+<!ENTITY OptionSelected.accesskey "T">
+<!ENTITY OptionDisabled.label "Koafaditswe">
+<!ENTITY OptionDisabled.accesskey "K">
+
+<!ENTITY TextHeader.label "Mafoko">
+<!ENTITY ValueHeader.label "Boleng">
+<!ENTITY SelectedHeader.label "Tlhophilwe">
+
+<!ENTITY AddOption.label "Tsenya Seitlhophelwa">
+<!ENTITY AddOption.accesskey "S">
+<!ENTITY AddOptGroup.label "Tsenya Setlhopha">
+<!ENTITY AddOptGroup.accesskey "S">
+<!ENTITY RemoveElement.label "Tlosa">
+<!ENTITY RemoveElement.accesskey "T">
+<!ENTITY MoveElementUp.label "Sutisetsa kwa Godimo">
+<!ENTITY MoveElementUp.accesskey "G">
+<!ENTITY MoveElementDown.label "Sutisetsa kwa Tlase">
+<!ENTITY MoveElementDown.accesskey "T">

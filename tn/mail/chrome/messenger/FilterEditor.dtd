@@ -1,0 +1,53 @@
+<!ENTITY window.title "Melawana ya Setlhotlhi">
+<!ENTITY subject.label "temakgang">
+<!ENTITY sender.label "moromedi">
+<!ENTITY date.label "letlha">
+<!ENTITY anyText.label "mafoko ape">
+<!ENTITY keyword.label "lefoko la botlhokwa">
+<!ENTITY age.label "dingwaga ka malatsi">
+<!ENTITY to.label "go">
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "maemo">
+<!ENTITY priority.label "setlapele">
+<!ENTITY body.label "mmele">
+<!ENTITY contains.label "e na le">
+<!ENTITY nocontains.label "ga e na">
+<!ENTITY filterName.label "Tlhotlha leina:">
+<!ENTITY filterName.accesskey "l">
+
+<!ENTITY junk.label "Matlakala">
+<!ENTITY notJunk.label "Ga se Matlakala">
+
+<!ENTITY lowestPriorityCmd.label "Kwa tlase go gaisa">
+<!ENTITY lowPriorityCmd.label "Kwa tlase">
+<!ENTITY normalPriorityCmd.label "Tlwaelegileng">
+<!ENTITY highPriorityCmd.label "Kwa godimo">
+<!ENTITY highestPriorityCmd.label "Kwa godimo go gaisa tsotlhe">
+
+<!ENTITY conditionDesc.label "Ya melaetsa e e tsenang e:">
+<!ENTITY filterActionDesc.label "Diragatsa ditiragatso tseno:">
+<!ENTITY filterActionDesc.accesskey "D">
+
+<!ENTITY newFolderButton.label "Setsholadifaele se Sentšhwa...">
+<!ENTITY newFolderButton.accesskey "S">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "Move Message to">
+<!ENTITY copyMessage.label "Copy Message to">
+<!ENTITY forwardTo.label "Forward Message to">
+<!ENTITY replyWithTemplate.label "Reply with Template">
+<!ENTITY markMessageRead.label "Mark As Read">
+<!ENTITY markMessageStarred.label "Add Star">
+<!ENTITY labelMessage.label "Label Message As">
+<!ENTITY setPriority.label "Set Priority to">
+<!ENTITY addTag.label "Tag Message">
+<!ENTITY setJunkScore.label "Set Junk Status to">
+<!ENTITY deleteMessage.label "Delete Message">
+<!ENTITY deleteFromPOP.label "Delete From POP Server">
+<!ENTITY fetchFromPOP.label "Fetch From POP Server">
+<!ENTITY ignoreThread.label "Ignore Thread">
+<!ENTITY watchThread.label "Watch Thread">
+

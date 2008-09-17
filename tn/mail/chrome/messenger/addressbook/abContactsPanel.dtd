@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label "Buka ya Diaterese:">
+<!ENTITY searchInput.label "Phuruphutsa go bona:">
+<!ENTITY SearchNameOrEmail.label "Leina gongwe Poso ya Eleketoroniki">
+
+<!ENTITY addtoToFieldMenu.label "Tsenya mo lefelong la Go">
+<!ENTITY addtoCcFieldMenu.label "Tsenya mo lefelong la Le">
+<!ENTITY addtoBccFieldMenu.label "Tsenya mo lefelong la Mmogo Le">
+
+<!ENTITY toButton.label "Tsenya mo Go:">
+<!ENTITY ccButton.label "Tsenya mo Le:">
+

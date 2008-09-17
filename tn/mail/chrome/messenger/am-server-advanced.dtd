@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Boalo jwa Diakhaonto jo bo Tsweletseng">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "Boalo jwa Dikgatlhong tsa IMAP jo bo Tsweletseng">
+<!ENTITY serverDirectory.label "Lenanefaele la dikgatlhong tsa IMAP:">
+<!ENTITY serverDirectory.accesskey "l">
+<!ENTITY usingSubscription.label "Bontsha fela ditsholadifaele tse di dueletsweng pele">
+<!ENTITY usingSubscription.accesskey "n">
+<!ENTITY dualUseFolders.label "Dikgatlhong di tshegetsa ditsholadifaele tse di nang le ditsholadifaelepotlana le melaetsa">
+<!ENTITY dualUseFolders.accesskey "d">
+<!ENTITY useIdle.label "Dirisa taelo ya IDLE fa dikgatlhong di e tshegetsa">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Palogodimo ya dikgolagano tsa dikgatlhong mo khetšheng">
+<!ENTITY maximumConnectionsNumber.accesskey "P">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY personalNamespace.label "Sebaka sa maina sa Sebele:">
+<!ENTITY personalNamespace.accesskey "S">
+<!ENTITY publicNamespace.label "Botlhe (aroganwang):">
+<!ENTITY publicNamespace.accesskey "o">
+<!ENTITY otherUsersNamespace.label "Badirisi ba Bangwe:">
+<!ENTITY otherUsersNamespace.accesskey "B">
+<!ENTITY overrideNamespaces.label "Letla dikgatlhong go kgoreletsa dibaka tseno tsa maina">
+<!ENTITY overrideNamespaces.accesskey "L">
+<!ENTITY pop3Desc.label "Fa go kopololwa poso ya pop go tswa mo dikgatlhong tseno, dirisetsa setsholadifaele se se latelang poso e ntšhwa:">
+<!ENTITY folderStorage.label "Fa go ka bolokelwang poso gona">
+<!ENTITY globalInbox.label "Bokosetsenang ya Global (Akhaonto ya Ditsholadifaele tsa Selegae)">
+<!ENTITY globalInbox.accesskey "B">
+<!ENTITY accountDirectory.label "Bokosotsenang ya akhaonte ya dikgatlhong tseno">
+<!ENTITY accountDirectory.accesskey "E">
+<!ENTITY deferToServer.label "Bokosotsenang ya akhaonte e e farologaneng">
+<!ENTITY deferToServer.accesskey "F">
+<!ENTITY deferGetNewMail.label "Akaretsa dikgatlhong tseno fa go amogelwa poso e ntšhwa">
+<!ENTITY deferGetNewMail.accesskey "A">

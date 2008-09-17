@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Ditifikeiti tsa go Kopolola">
+<!ENTITY info.message "Go phuruphutswa lenanefaele go bona ditifikeiti sa baamogedi. Seno se ka tsaya metsotso e le mmalwa.">
+<!ENTITY stop.label "Emisa go Phuruphutsa">

@@ -1,0 +1,22 @@
+<!ENTITY pluginWizard.title "Tirelo ya Sebatli Polaka">
+<!ENTITY pluginWizard.firstPage.title "O amogelesegile mo &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; jaanong e batla dipolaka tse di gona...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Dikopololo tsa Dipolaka tse di Gona">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Dipolaka tse di latelang di gona:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Tobetsa Latelang go tlhoma dipolaka tseno.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Dipolaka dingwe di ka tlhoka tshedimosetso ya tlaleletso go tswa mo go wena ka nako ya go tlhoma.">
+
+<!ENTITY pluginWizard.licensePage.title "Dilaesense tsa Dipolaka">
+<!ENTITY pluginWizard.licensePage.accept.label "Ke a dumelana.">
+<!ENTITY pluginWizard.licensePage.deny.label "Ga ke dumelane (go ka seke ga tlhomiwa polaka).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "E tlhoma Dipolaka">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; e tlhoma dipolaka...">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName; e feditse go tlhoma dipolaka tse di nang di timetse:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Batla go gongwe malebana le Dipolaka gongwe o batle dipolaka tse di timetseng.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; e tlhoka go simolodisiwa sešwa gore dipolaka di dire.">
+

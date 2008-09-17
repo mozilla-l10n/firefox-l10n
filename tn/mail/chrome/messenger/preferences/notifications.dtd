@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title "Modumo wa Poso e Ntšhwa">
+<!ENTITY window.width "30em">
+
+<!ENTITY soundNotification.caption "Rulaganya Modumo wa Poso e Ntšhwa">
+<!ENTITY preview.label "Lebapele Modumo">
+<!ENTITY preview.accesskey "p">
+<!ENTITY systemsound.label "Modumo wa Poso e Ntšhwa wa Tsamaiso ya Khomphiutara">
+<!ENTITY systemsoundMac.label "Modumo wa Tsiboso wa Tsamaiso ya Khomphiutara">
+<!ENTITY systemsound.accesskey "o">
+<!ENTITY customsound.label "Faele ya .way ya magoro">
+<!ENTITY customsound.accesskey "F">
+<!ENTITY browse.label "Batla...">
+<!ENTITY browse.accesskey "B">

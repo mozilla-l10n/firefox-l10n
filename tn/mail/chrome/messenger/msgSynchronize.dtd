@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Kopolola le go Sync Melaetsa">
+<!ENTITY MsgSelect.label "Dilwana tse di tla dirisiwang fa go Kgaogilwe Nakwana">
+<!ENTITY MsgSyncDesc.label "Fa o setse o tlhophile ditsholadifaele tsa poso gongwe ditlhopha tsa dikgang go dirisiwa fa go kgaogilwe nakwana, o ka kopolola le/gongwe go di sync jaanong. Go seng jalo, dirisa konopo ya &quot;Select&quot; go tlhopha ditsholadifaele tsa poso le ditlhopha tsa dikgang go tla dirisiwa fa go kgaogilwe nakwana.">
+<!ENTITY MsgSyncDirections.label "Kopolola le/gongwe go sync tse di latelang:">
+<!ENTITY syncTypeMail.label "Melaetsa ya poso">
+<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeNews.label "Melaetsa ya ditlhopha tsa dikgang">
+<!ENTITY syncTypeNews.accesskey "M">
+<!ENTITY sendMessage.label "Romela melaetsa e e Sa romelwang">
+<!ENTITY sendMessage.accesskey "R">
+<!ENTITY workOffline.label "Dira fa go kgaogilwe nakwana fela fa kopololo le/gongwe sync e feditswe">
+<!ENTITY workOffline.accesskey "D">
+<!ENTITY selectButton.label "Thopha...">
+<!ENTITY selectButton.accesskey "H">
+<!ENTITY MsgSelectDesc.label "Tlhopha ditsholadifaele tsa poso le ditlhopha tsa dikgang go dirisiwa fa go kgaogilwe nakwana.">
+<!ENTITY MsgSelectInd.label "Kopolola">
+<!ENTITY MsgSelectItems.label "Ditsholadifaele le Ditlhopha tsa dikgang">

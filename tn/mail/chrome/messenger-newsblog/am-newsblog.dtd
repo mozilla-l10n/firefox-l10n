@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "Boalo jwa Diakhaonto jwa RSS">
+
+<!ENTITY biffStart.label "Tlhola diathikele tse dintšhwa gangwe le gape ">
+<!ENTITY biffStart.accesskey "o">
+<!ENTITY biffEnd.label "metsotso">
+
+<!ENTITY loginAtStartup.label "Tlhola diathikele tse dintšhwa kwa Masimologong">
+<!ENTITY loginAtStartup.accesskey "T">
+
+<!ENTITY useQuickMode.label "Ka Thulaganyetso Ruri, bontsha tshobokanyo athikele go na le go tsenya tsebe ya inthanete">
+<!ENTITY useQuickMode.accesskey "K">
+
+<!ENTITY manageSubscriptions.label "Tsamaisa di-subscription...">
+<!ENTITY manageSubscriptions.accesskey "T">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "News &amp; Blogs">
+<!ENTITY rss.wizardShortName "RSS">
+<!ENTITY rss.wizardLongName "RSS News &amp; Blogs">
+<!ENTITY rss.hostName "News &amp; Blogs">

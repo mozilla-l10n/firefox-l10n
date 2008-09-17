@@ -1,0 +1,61 @@
+<!ENTITY itemGeneral.label "Ka kakaretso">
+<!ENTITY itemJunk.label "Junk">
+<!ENTITY itemPhishing.label "Boferefere jwa Poso ya Eleketoroniki">
+<!ENTITY itemPasswords.label "Dikhunololamoraba">
+<!ENTITY itemAntiVirus.label "Selwantsha-Megare">
+<!ENTITY itemSecurity.label "Pabalesego">
+
+<!ENTITY disableImageInMailNews.label "Kopololo ya ditshwantsho tse di kgakala ka setlhopha mo melaetseng ya poso">
+<!ENTITY disableImageInMailNews.accesskey "K">
+<!ENTITY allowRemoteImagesForFriends.label "Letlelela ditshwantsho tse di kgakala fa moromedi a le mo:">
+<!ENTITY allowRemoteImagesForFriends.accesskey "L">
+<!ENTITY enbJsCheckMailNews.label "Kgoreletsa JavaScript mo melaetseng ya poso">
+<!ENTITY enbJsCheckMailNews.accesskey "J">
+<!-- Junk Mail Controls -->
+
+<!ENTITY junkMail.intro "Set your default junk mail settings. Account specific junk mail settings can be configured in Account Settings.">
+<!ENTITY manualMark.label "When I mark messages as junk:">
+<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.acesskey "k">
+<!ENTITY manualMarkModeDelete.label "Delete them">
+<!ENTITY enableJunkLogging.label "Enable junk filter logging">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "Show log">
+<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.accesskey "D">
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector.intro "&brandShortName; e ka sekaseka melaetsa go bona boferefere jo bo ka nnang gona jwa poso ya eleketoroniki ka go lebelela magokonyane a a tlwaelegileng a a dirisediwang go go tsietsa.">
+<!ENTITY enablePhishingDetector.label "Tlhola melaetsa ya poso go bona boferefere jwa poso ya eleketoroniki">
+<!ENTITY enablePhishingDetector.accesskey "T">
+<!-- Passwords -->
+
+<!ENTITY savedPasswords.intro "&brandShortName; e ka gakologelwa tshedimosetso ya diakhaonto tsa gago tsotlhe gore o seke wa tlhola o tlhoka go tsenya sešwa dintlha tsa gago tsa go tsena.">
+<!ENTITY encryptEnabled.label "Dirisa khunololamoraba e kgolo go sireletsa dikhunololamoraba tse di bolokilweng">
+<!ENTITY encryptEnabled.accesskey "i">
+<!ENTITY masterPassword.intro "Fa e tlhomilwe, Khunololamoraba e Kgolo e sireletsa dikhunololamoraba tsa gago tsotlhe - fela o tshwanetse go e tsenya gangwe fela mo pakeng.">
+<!ENTITY setMasterPassword.label "Khunololamoraba e Kgolo">
+<!ENTITY setMasterPassword.accesskey "K">
+<!ENTITY removeMasterPassword.label "Tlosa Khunololamoraba e Kgolo...">
+<!ENTITY removeMasterPassword.accesskey "T">
+<!ENTITY viewPasswords.label "Leba Dikhunololamoraba tse di Bolokilweng">
+<!ENTITY viewPasswords.accesskey "L">
+<!-- Security -->
+
+<!ENTITY certificates.label "Ditifikeiti">
+<!ENTITY certificatesInfo.label "Tsamaisa ditifikeiti, manane a phimolo, thurifatso ya ditifikeiti le didiriswa tsa pabalesego.">
+<!ENTITY viewCertificates.label "Leba Ditifikeiti">
+<!ENTITY viewCertificates.accesskey "e">
+<!ENTITY viewCRLs.label "Manane a Phimolo">
+<!ENTITY viewCRLs.accesskey "h">
+<!ENTITY viewOCSP.label "Thurifatso">
+<!ENTITY viewOCSP.accesskey "i">
+<!ENTITY viewSecurityDevices.label "Didiriswa tsa Pabalesego">
+<!ENTITY viewSecurityDevices.accesskey "i">
+<!-- Anti Virus -->
+
+<!ENTITY antiVirus.intro "&brandShortName; e ka dira gore go nne bonolo gore serweboleta sa selwantsha-megare se sekaseke melaetsa e e tsenang ya poso go bona megare pele ga e ka bolokiwa selegae.">
+<!ENTITY antiVirus.label "Letlelela badirelwa ba selwantsha-megare go tswalela melaetsa e e tsenang bongwe ka bongwe">
+<!ENTITY antiVirus.accesskey "e">

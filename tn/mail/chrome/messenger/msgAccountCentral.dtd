@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label "Poso ya E">
+<!ENTITY readMsgsLink.label "Melaetsa e e buisitsweng">
+<!ENTITY composeMsgLink.label "Kwala molaetsa o montšhwa">
+
+<!ENTITY newsSectionHdr.label "Ditlhopha tsa dikgang">
+<!ENTITY subscribeNewsLink.label "Tsamaisa ikwadiso ya ditlhopha tsa dikgang">
+
+<!ENTITY accountsSectionHdr.label "Accounts">
+<!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
+<!ENTITY settingsLink.label "Leba boalo jwa akhaonto eno">
+<!ENTITY newAcctLink.label "Tlhama akhaonto e ntšhwa">
+
+<!ENTITY advFeaturesSectionHdr.label "Diponagalo tse di Tsweletseng">
+<!ENTITY searchMsgsLink.label "Phuruphutsa melaetsa">
+<!ENTITY filtersLink.label "Tsamaisa ditlhotlhi tsa melaetsa">
+<!ENTITY junkSettings.label "Boalo jwa poso ya matlakala">
+<!ENTITY offlineLink.label "Boalo jwa kgago ya nakwana">
+
+
+<!ENTITY rssSectionHdr.label "Dikgang tsa RSS &amp; Blogs">
+<!ENTITY subscibeRSS.label "Tsamaisa ikwadiso">

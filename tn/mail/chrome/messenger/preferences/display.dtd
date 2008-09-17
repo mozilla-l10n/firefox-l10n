@@ -1,0 +1,69 @@
+<!ENTITY itemFormatting.label "Fometa">
+<!ENTITY itemTags.label "Tags">
+<!ENTITY itemFonts.label "Difonto">
+
+<!ENTITY textBegin.label "Tebego ya ditlhaka fela tse di nopotsweng">
+<!ENTITY style.label "Setaele:">
+<!ENTITY style.accesskey "t">
+<!ENTITY regularStyle.label "Tlwaelegileng">
+<!ENTITY bold.label "Tlhakakima">
+<!ENTITY italic.label "Tlhakatshekamo">
+<!ENTITY boldItalic.label "Tlhakatshekamo e e ntshofaditsweng">
+<!ENTITY size.label "Bogolo:">
+<!ENTITY size.accesskey "b">
+<!ENTITY regularSize.label "Tlwaelegileng">
+<!ENTITY bigger.label "Kgolwane">
+<!ENTITY smaller.label "Nnye">
+<!ENTITY color.label "Mmala:">
+<!ENTITY color.accesskey "m">
+<!ENTITY displayWidth.label "Melaetsa ya Ditlhaka tsa gale Fela">
+<!ENTITY plainText.label "Dirisa fonto e e latelang:">
+<!ENTITY displayText.label "Fa o bontsha melaetsa e e nopotsweng ya Ditlhaka tsa gale Fela:">
+<!ENTITY viewingPlainText.label "Fa o bontsha melaetsa ya Ditlhaka tsa gale Fela:">
+<!ENTITY fixedWidth.label "Fonto ya bophara jo bo tsepamisitsweng">
+<!ENTITY fixedWidth.accesskey "e">
+<!ENTITY variableWidth.label "Fonto ya bophara jo bo ka fapaanang">
+<!ENTITY variableWidth.accesskey "F">
+<!ENTITY readingMessagesHeader.label "Ya melaetsa e e tsenang">
+<!ENTITY messageWrapping.label "Phuthelo ya Melaetsa">
+<!ENTITY wrapInMsg.label "Phuthela mafoko go lekana bophara jwa fensetere">
+<!ENTITY wrapInMsg.accesskey "P">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label "Bontsha diemotikhone jaaka ditshwantsho">
+<!ENTITY convertEmoticons.accesskey "B">
+<!ENTITY htmlColors.label "Melaetsa ya HTML">
+<!ENTITY overrideSender.label "When displaying HTML messages, use the following:">
+<!ENTITY overrideSender.accesskey "n">
+<!ENTITY textColor.label "Mmala wa Mafoko:">
+<!ENTITY textColor.accesskey "M">
+<!ENTITY backgroundColor.label "Mmala wa Lemorago:">
+<!ENTITY backgroundColor.accesskey "m">
+<!-- labels -->
+
+<!ENTITY displayTagsText.label "Tags can be used to categorize and prioritize your messages.">
+<!ENTITY addTagButton.label "Add">
+<!ENTITY addTagButton.accesskey "A">
+<!ENTITY editTagButton.label "Edit">
+<!ENTITY editTagButton.accesskey "E">
+<!ENTITY removeTagButton.label "Delete">
+<!ENTITY removeTagButton.accesskey "l">
+<!-- Fonts -->
+
+<!ENTITY fontsDescription.label "Rulaganya difonto tse di dirisiwang ke &brandShortName;">
+<!ENTITY fontsCaption.label "Difonto">
+<!ENTITY fontOptions.accesskey "D">
+<!ENTITY fontOptions.label "Difonto...">
+<!-- Language settings -->
+
+
+<!ENTITY sendDefaultCharset.label "Poso e e Tswang:">
+<!ENTITY sendDefaultCharset.accesskey "s">
+<!ENTITY languagesTitle.label "Dikhoutololo tsa matshwao">
+<!ENTITY composingDescription.label "Tlhoma dikhoutololo tsa matshwao tse di rulaganyeditsweng ruri go romela le go amogela poso">
+
+<!ENTITY viewDefaultCharsetList.label "Poso e e Tsenang:">
+<!ENTITY viewDefaultCharsetList.accesskey "P">
+<!ENTITY forceCharsetOverride.label "Dirisa khoutololo ya matshwao e e rulaganyeditsweng ruri mo melaetseng yotlhe e e tsenang">
+<!ENTITY forceCharsetOverride.accesskey "i">
+<!ENTITY replyInDefaultCharset.label "Dirisa khoutololo ya matshwao e e rulaganyeditsweng ruri mo dikarabong">
+<!ENTITY replyInDefaultCharset.accesskey "h">

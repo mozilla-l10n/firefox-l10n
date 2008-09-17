@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Rekoto ya Setlhotlhi">
+<!ENTITY viewLogInfo.text "Tlhotlha Rekoto ya Ditokumente tsa ditlhotlhi tse di tsamaiseditsweng akhaonto eno. Dirisa bokosotshwao e e fa tlase go kgontsha go rekota.">
+<!ENTITY clearLog.label "Tlosa Rekoto">
+<!ENTITY clearLog.accesskey "T">
+<!ENTITY enableLog.label "Kgontsha Setlhotlhi sa Direkoto">
+<!ENTITY enableLog.accesskey "K">
+<!ENTITY closeLog.label "Tswala">
+<!ENTITY closeLog.accesskey "w">

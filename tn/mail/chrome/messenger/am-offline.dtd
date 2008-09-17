@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Go boloka sebaka mo disiking, o se ke wa kopolola:">
+<!ENTITY doNotDownload.label "Go boloka sebaka mo disiking, o se ke wa kopololela go dirisiwa fa go kgaogile nakwana:">
+<!ENTITY offlineNewFolder.label "Fa ke tlhama ditsholadifaele tse dintšhwa, di tlhophele go dirisiwa fa go sa gokelelwa mo inthaneteng">
+<!ENTITY offlineNewFolder.accesskey "t">
+<!ENTITY offlineNotDownload.label "Melaetsa e megolo go feta">
+<!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "malatsi">
+<!ENTITY daysOld.label "bogolo jwa malatsi">
+<!ENTITY message.label "melaetsa">
+<!ENTITY nntpNotDownloadRead.label "Buisa melaetsa">
+<!ENTITY nntpNotDownloadRead.accesskey "B">
+<!ENTITY nntpDownloadMsg.label "Melaetsa e feta">
+<!ENTITY nntpDownloadMsg.accesskey "e">
+<!ENTITY retentionCleanup.label "Go boelwa ke sebaka sa disiki, melaetsa ya bogologolo e ka phimolelwa ruri">
+<!ENTITY retentionKeepMsg.label "Phimola melaetsa e e fetang">
+<!ENTITY retentionKeepMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "O se ke wa phimola melaetsa epe">
+<!ENTITY retentionKeepAll.accesskey "E">
+<!ENTITY retentionKeepNew.label "Phimola yotlhe ntle le wa bofelo">
+<!ENTITY retentionKeepNew.accesskey "m">
+<!ENTITY retentionKeepUnread.label "Ka gale phimola melaetsa e e buisitsweng">
+<!ENTITY retentionKeepUnread.accesskey "b">
+<!ENTITY nntpRemoveBody.label "Melaetsa e e bonnye go na le">
+<!ENTITY nntpRemoveBody.accesskey "M">
+<!ENTITY offlineSelectNntp.label "Tlhopha ditlhopha tsa dikgang go dirisiwa fa go sa gokelelwa mo inthaneteng...">
+<!ENTITY offlineSelectImap.label "Tlhopha ditsholadifaele go dirisiwa fa go sa gokelelwa mo inthaneteng...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "O ka kopolola melaetsa ya gago selegae gore e nne gona fa o dira fa go kgaogile nakwana.">
+<!ENTITY makeInboxMsgsAvailable.label "Dira gore melaetsa e e mo Bokosotsenang ya me e nne gona fa ke dira go kgaogile nakwana">
+<!ENTITY makeInboxMsgsAvailable.accesskey "t">
+<!ENTITY offlineGroupTitle.label "Go sa gokelelwa mo inthaneteng">
+<!ENTITY diskspaceGroupTitle.label "Sebaka sa Disiki">

@@ -1,0 +1,13 @@
+
+<!ENTITY prefWindow.titleWin "Diitlhophelwa">
+<!ENTITY prefWindow.titleGNOME "Diratwabogolo tsa &brandShortName;">
+<!ENTITY prefWindow.styleWin "width: 44em; height: 38em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleUnix "width: 42em;">
+
+<!ENTITY paneGeneral.title "Ka kakaretso">
+<!ENTITY paneDisplay.title "Pontsho">
+<!ENTITY paneComposition.title "Tlhamo">
+<!ENTITY paneAttachments.title "Dimametlelelo">
+<!ENTITY panePrivacy.title "Sephiri">
+<!ENTITY paneAdvanced.title "Tsweletseng">

@@ -1,0 +1,42 @@
+<!ENTITY connectionsDialog.title "Boalo jwa Kgolagano">
+<!ENTITY window.width "37em">
+
+<!ENTITY proxyTitle.label "Rulaganya Dikemela go nna le Tetlelesego ya Inthanete">
+<!ENTITY directTypeRadio.label "Kgolagano ka tlhamalalo mo Inthaneteng">
+<!ENTITY directTypeRadio.accesskey "k">
+<!ENTITY WPADTypeRadio.label "Bona ka itiriso boalo jwa kemela jwa letloatiriso le">
+<!ENTITY WPADTypeRadio.accesskey "l">
+<!ENTITY manualTypeRadio.label "Thulaganyo ya kemela ka go dira:">
+<!ENTITY manualTypeRadio.accesskey "t">
+<!ENTITY autoTypeRadio.label "URL ya Thulaganyo ya kemela ya itiriso:">
+<!ENTITY autoTypeRadio.accesskey "t">
+<!ENTITY configAutoconfigText.label "Lefelo la Thulaganyo (URL):">
+<!ENTITY configAutoconfigText.accesskey "u">
+<!ENTITY reload.label "Laisa gape">
+<!ENTITY reload.accesskey "i">
+<!ENTITY ftp.label "Kemela ya FTP:">
+<!ENTITY ftp.accesskey "k">
+<!ENTITY gopher.label "Kemela ya Gopher:">
+<!ENTITY gopher.accesskey "k">
+<!ENTITY http.label "Kemela ya HTTP:">
+<!ENTITY http.accesskey "k">
+<!ENTITY ssl.label "Kemela ya SSL:">
+<!ENTITY ssl.accesskey "k">
+<!ENTITY socks.label "Khomphiutarakgolo ya SOCKS:">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "c">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY port.label "Setshwaraganyi:">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY FTPport.accesskey "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY gopherPort.accesskey "">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "Ga gona Kemela ya:">
+<!ENTITY noproxy.accesskey "g">
+<!ENTITY noproxyExplain.label "Sekai: .mozilla.org, .net.za, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Dirisetsa dikgatlhong tseno tsa kemela diporotokolo tsotlhe">
+<!ENTITY shareproxy.accesskey "e">

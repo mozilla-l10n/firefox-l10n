@@ -1,0 +1,73 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY offlineGoOfflineCmd.label "Dira mo Kgaogong ya Nakwana">
+<!ENTITY offlineGoOfflineCmd.accesskey "d">
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+
+<!ENTITY fileMenu.label "Faele">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "Ntšhwa">
+<!ENTITY newMenu.accesskey "N">
+
+<!ENTITY editMenu.label "Tseleganya">
+<!ENTITY editMenu.accesskey "t">
+<!ENTITY undoCmd.label "Dirolola">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "d">
+<!ENTITY redoCmd.label "Dira gape">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "d">
+<!ENTITY cutCmd.label "Sega">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "a">
+<!ENTITY copyCmd.label "Kopolola">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Manega">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "m">
+<!ENTITY deleteCmd.label "Phimola">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "p">
+<!ENTITY selectAllCmd.label "Tlhopha Gotlhe">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "g">
+<!ENTITY preferencesCmd.label "Diitlhophelwa...">
+<!ENTITY preferencesCmd.accesskey "D">
+<!ENTITY preferencesCmdUnix.label "Diratwabogolo">
+<!ENTITY preferencesCmdUnix.accesskey "b">
+
+<!ENTITY findTypeTextCmd.label "Bona Mafoko fa O ntse O Tlanya">
+<!ENTITY findTypeTextCmd.accesskey "f">
+
+<!ENTITY viewMenu.label "Leba">
+<!ENTITY viewMenu.accesskey "l">
+<!ENTITY viewToolbarsMenu.label "Dibara tsa didiriswa">
+<!ENTITY viewToolbarsMenu.accesskey "D">
+<!ENTITY showTaskbarCmd.label "Bara ya Maemo">
+<!ENTITY showTaskbarCmd.accesskey "B">
+
+<!ENTITY direct.label "Mo kgolaganong ya khomphiutara (kemela: epe)">
+<!ENTITY direct.accesskey "o">
+<!ENTITY manual.label "Mo kgolaganong ya khomphiutara (kemela: e seng ka go itirisa)">
+<!ENTITY manual.accesskey "e">
+<!ENTITY pac.label "Mo kgolaganong ya khomphiutara (kemela: ka go itirisa)">
+<!ENTITY pac.accesskey "k">
+
+<!ENTITY proxy.label "Thulaganyetso ruri ya Kemela...">
+<!ENTITY proxy.accesskey "K">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Tswala">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "t">
+
+<!ENTITY quitApplicationCmd.label "Tswa">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "s">
+
+<!ENTITY quitApplicationCmdUnix.label "Tloga">
+<!ENTITY quitApplicationCmdUnix.accesskey "t">
+

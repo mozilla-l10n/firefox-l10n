@@ -1,0 +1,40 @@
+<!ENTITY generalSettings.caption "Boalo jo bo Rulaganyeditsweng Ruri">
+<!ENTITY generalSettings.label "Dira &brandShortName; serweboleta se se rulaganyeditsweng ruri sa:">
+<!ENTITY setDefaultMailClient.label "Poso">
+<!ENTITY setDefaultMailClient.accesskey "P">
+<!ENTITY setDefaultNewsClient.label "Dikgang">
+<!ENTITY setDefaultNewsClient.accesskey "D">
+<!ENTITY setDefaultFeedClient.label "Phepo ya RSS">
+<!ENTITY setDefaultFeedClient.accesskey "P">
+<!ENTITY checkDefaultMailClient.label "&brandShortName; should check to see if it is the default mail client when starting">
+<!ENTITY checkDefaultMailClient.accesskey "n">
+<!ENTITY defaultClientAdvanced.label "Advanced...">
+<!ENTITY defaultClientAdvanced.accesskey "d">
+
+<!ENTITY windowSettings.label "Thulaganyo ya Fensetere">
+<!ENTITY selectWindowLayout.label "Tlhopha kalo ya fensetere e o e ratang ya Poso.">
+<!ENTITY selectWindowLayout.accesskey "T">
+
+<!ENTITY messengerStartPage.label "Tsebe ya Tshimololo ya &brandShortName;">
+<!ENTITY enableStartPage.label "Fa &brandShortName; e tlhoma, bontsha Tsebe ya Tshimololo mo lefelong la molaetsa">
+<!ENTITY enableStartPage.accesskey "F">
+<!ENTITY location.label "Lefelo:">
+<!ENTITY location.accesskey "L">
+<!ENTITY useDefault.label "Busetsa Thulaganyetso ruri">
+<!ENTITY useDefault.accesskey "B">
+
+<!ENTITY bounceSystemDockIcon.label "Dira aekhone ya tokumente go nna setshwantsho">
+<!ENTITY bounceSystemDockIcon.accesskey "t">
+
+<!ENTITY newMessagesArrive.label "Fa molaetsa o montšhwa o goroga:">
+<!ENTITY playSound.label "Tshameka modumo">
+<!ENTITY playSound.accesskey "T">
+<!ENTITY showAnimatedAlert.label "Bontsha modumo">
+<!ENTITY showAnimatedAlert.accesskey "B">
+<!ENTITY soundbutton.label "Advanced...">
+<!ENTITY soundbutton.accesskey "A">
+
+<!ENTITY showConnections.label "Boalo jwa Kgolagano...">
+<!ENTITY showConnections.accesskey "o">
+<!ENTITY proxiesInfo.label "Swetsa gore &brandShortName; e golagana jang mo Inthaneteng.">
+<!ENTITY connectionsInfo.caption "Kgolagano">

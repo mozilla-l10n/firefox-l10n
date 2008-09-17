@@ -1,0 +1,122 @@
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "Matwetwe wa akhaonte">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!-- Entities for Account Type page -->
+
+
+<!ENTITY accountSetupInfo.label "Gore o kgone go amogela melaetsa, o tshwanetse pele go tlhoma akhaonte ya Poso kgosa Setlhopha sa dikgang.">
+<!ENTITY accountTypeTitle.label "Boalo jwa Akhaonte e ntšhwa">
+<!ENTITY accountTypeDesc.label "Matwetwe ono o tla kgobokanya tshedimosetso e e tlhokegang go simolola akhaonte ya Poso kana ya Setlhopha sa Dikgang. Fa o sa itshe tshedimosetse e e batliwang, tsweetswee ikopanye le Motsamaisa Inthanete wa gago kgotsa Monei wa Ditirelo tsa Inthanete.">
+<!ENTITY accountTypeDirections.label "Tlhopha Mofutawa akhaonte e o batlang go e tlhoma:">
+<!ENTITY accountTypeMail.label "Akhaonte ya Poso ya Eleketroniki">
+<!ENTITY accountTypeMail.accesskey "l">
+<!ENTITY accountTypeNews.label "Akhaonte ya Setlhopa sa dikgang">
+<!ENTITY accountTypeNews.accesskey "t">
+<!-- Entities for Identity page -->
+
+
+<!ENTITY identityTitle.label "Boitshupo">
+<!ENTITY identityDesc.label "Akhaonte nngwe le nngwe e na le boitshupo, mo e leng tshedimosetso e e go supetsang ba bangwe gore o mang fa ba amogela melatsa ya gago.">
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
+<!ENTITY fullnameDesc.label "Kwala leina le o batlang le bonala mo moleng wa &quot;From&quot; wa melaetsa ya gago e e tswelang kwa ntle">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+	1, do not translate two of "&quot;"
+	2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(sekai, &quot;Sello Pooe&quot;).">
+<!ENTITY fullnameLabel.label "Leina la Gago:">
+<!ENTITY fullnameLabel.accesskey "L">
+
+<!ENTITY emailLabel.label "Aterese ya Poso ya Eleketroniki:">
+<!ENTITY emailLabel.accesskey "A">
+<!ENTITY emailDesc.label "Kwala aterese ya poso E ya gago; e ke aterese e ba bangwe ba tla e dirisang go go romelela poso ya E">
+<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
+<!ENTITY emailExample.label "(sekai modirisi@sekai.net).">
+<!-- Entities for Server page -->
+
+
+<!ENTITY serverTitle.label "Tshedimosetso ka dikgatlong">
+<!ENTITY incomingServerTitle.label "Dikgatlong tse di tsenang mo teng">
+<!ENTITY incomingServerTypeDesc.label "Tlhopha mofuta wa dikgatlhong o o o dirisang.">
+<!ENTITY incomingServerTypeLabel.label "Mofuta wa Dikgatlong:">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "Kwala leina la dikgatlhong tsa gago tse di tsenang mo (sekai, &quot;poso.sekai.net&quot;).">
+<!ENTITY incomingServerLabel.label "Dikgatlong tse di tsenang:">
+<!ENTITY incomingServerLabel.accesskey "D">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Kwala leina la dikgatlhong tsa gago tsa dikgang (NNTP) (sekai, &quot;dikgang.sekai.net&quot;).">
+<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
+<!ENTITY smtpServerTitle.label "Dikgatlong tse di tswelang ntle (SMTP)">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "Kwala leina la dikgatlong tsa gago tse di tswelang ntle (SMTP) (sekai, &quot;smtp.sekai.net&quot;).">
+<!ENTITY smtpServerLabel.label "Dikgatlong tse di Tswelang ntle:">
+<!ENTITY smtpServerLabel.accesskey "T">
+<!ENTITY newsServerLabel.label "Dikgatlong tsa Setlhopha sa Dikgang:">
+<!ENTITY newsServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Dikgatlong tsa Dikgang">
+<!-- for when the user has an SMTP server pre-configured -->
+<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
+     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
+	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+-->
+
+<!ENTITY haveSmtp1.prefix "Dikgatlong tsa gago tsa jaanong tse di tswelang ntle (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix "&quot;, e tla dirisiwa. O ka fetola boalo jwa dikgatlhong tse di tswang ka go tlhopha Boalo jwa Akhaonte go tswa mo lenanefaeleng la Didiriswa.">
+<!-- Entities for Login page -->
+
+
+<!ENTITY loginTitle.label "Maina a Badirisi">
+<!ENTITY usernameDesc.label "Kwala leina le le tsenang mo teng la modirisi le o le filweng ke monei wa gago wa ditirelo tsa poso ya eleketroniki ">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(sekai, &quot;jsmith&quot;).">
+<!ENTITY usernameLabel.label "Leina la Modirisi le le Tsenang mo teng:">
+<!ENTITY usernameLabel.accesskey "L">
+<!ENTITY usernameSmtpDesc.label "Kwala leina la modirisi lele tswelang ntle le o le filweng ke monei wa gago wa ditirelo tsa poso ya eleketroniki (tota le tshwana le leina la gago la modirisi le le tsenang).">
+<!ENTITY usernameSmtpLabel.label "Leina la Modirisi le le Tswelang ntle:">
+<!ENTITY usernameSmtpLabel.accesskey "L">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Leina la gago la modirisi le le tswelang ntle (SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix "go tla dirisiwa &quot;. O ka fetola boalo jwa dikgatlong tse di tswelang ntle ka go tlhopha Boalo jwa Akhaonte go tswa mo lenanefaeleng la Didiriswa.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "Dikgatlong tsa gago tsa (SMTP) tse di tswelang ntle, &quot;">
+<!ENTITY haveSmtp3.suffix "&quot;, e tshwana po! le dikgatlong tsa gago tse di tsenang, leina la gago la modirisi le le tsenang le tla dirisiwa go fitlhelela kwa go yona. O ka fetola boalo jwa dikgatlong tse di tswelang ntle ka go tlhopha Boalo jwa Akhaonte go tswa mo lenanefaeleng la Didiriswa.">
+<!-- Entities for Account name page -->
+
+
+<!ENTITY accnameTitle.label "Leina la Akhaonte">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Kwala leina le o batlang akhaonte e e bidiwa ka lona (sekai, &quot;Akhaonte ya Tiro&quot;, &quot;Akhaonte ya Legae&quot; kgotsa &quot;Akhaonte ya Dikgang&quot;).">
+<!ENTITY accnameExample.label "Sekai Akhaote ya Tiro, Akhaote ya Legae kgotsa Akhaote ya Dikgang">
+<!ENTITY accnameLabel.label "Leina la Akhaonte:">
+<!ENTITY accnameLabel.accesskey "A">
+<!-- Entities for Done (Congratulations) page -->
+
+
+<!ENTITY completionTitle.label "Dikakgolo">
+<!ENTITY completionText.label "Tsweetswee netefatsa gore.">
+<!ENTITY serverTypePrefix.label "Mofota wa dikgatlong o o tsenang:">
+<!ENTITY serverNamePrefix.label "Leina la Dikgatlong tse di tsenang:">
+<!ENTITY smtpServerNamePrefix.label "Leina la Dikgatlong tse di Tswelang ntle (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Leina la Dikgatlong tsa Dikgang (NNTP):">
+<!ENTITY downloadOnLogin.label "Kopolola melaetsa jaanong">
+<!ENTITY deferStorageDesc.label "Tshwaolola lebokoso leno la go tshwaya gore o tle o boloke poso ya akhaonte e mo lenanefaeleng le e leng la yona. Se se tla dira gore akhaonte eno e lebege e le ya maemo a a kwa godimo. Go sa nne jalo, e tla nna bontlha bongwe ba akhaonte ya Ditholadifaleo tsa Selegae Lebokoso la kgorogeloposo (Local Folders Global Inbox account).">
+<!ENTITY deferStorage.label "Dirisa lebokoso la kgorogeloposo la Global (boloka poso mo Ditsholafaeleng tsa mo Gae kana Local)">
+<!ENTITY clickFinish.label "Tobetsa Fetsa go boloka boalo jo le go tswa mo Matwetweng wa Akhaonte.">

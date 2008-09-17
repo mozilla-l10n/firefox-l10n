@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Boalo jwa Akhaonto">
+<!ENTITY accountSettingsDesc.label "Se se latelang ke akhaonto e e kgethegileng.  Ga gona boitshupo bope jo bo tsalanang le yona.">
+<!ENTITY accountName.label "Leina la Akhaonto:">
+<!ENTITY accountName.accesskey "L">
+<!ENTITY messageStorage.label "Bobolokelo jwa Melaetsa">
+<!ENTITY emptyTrashOnExit.label "Tsholola Matlakala fa o Tswa">
+<!ENTITY emptyTrashOnExit.accesskey "s">
+<!ENTITY localPath.label "Lenanefaele la Selegae:">
+<!ENTITY localPath.accesskey "L">
+<!ENTITY localFolderPicker.label "Tlhopha Lenanefaele la Selegae">
+<!ENTITY browseFolder.label "Batla...">
+<!ENTITY browseFolder.accesskey "B">

@@ -1,0 +1,17 @@
+<!ENTITY virtualFolderProperties.title "Setsholadifaele se Sentšhwa se se Bolokilweng sa go Phuruphutsa">
+<!ENTITY name.label "Leina:">
+<!ENTITY name.accesskey "l">
+<!ENTITY description.label "Tlhama jaaka setsholadifaelepotlana sa:">
+<!ENTITY description.accesskey "T">
+<!ENTITY searchCriteriaText.label "Fetola dielot sa go fenena tse di diriseditsweng go fenena gono go go bolokilweng:">
+<!ENTITY searchCriteriaButton.label "Dielo tsa go Phuruphutsa...">
+<!ENTITY searchCriteriaButton.accesskey "D">
+
+<!ENTITY searchTermCaption.label "Rulaganyetsa ruri dielo tsa go phuruphutsa tse di boloketsweng setsholadifaele seno sa go phuruphutsa: ">
+
+<!ENTITY folderSelectionCaption.label "Tlhopha ditsholadifaele go di phuruphutsa: ">
+<!ENTITY chooseFoldersButton.label "Tlhopha...">
+<!ENTITY chooseFoldersButton.accesskey "l">
+
+<!ENTITY searchOnline.label "Phuruphutsa Mo Kgolaganong ya Khomphiutara (Naya dipholo tse di mo dinakong tsa IMAP le ditsholadifaele tsa Dikgang fela e oketsa nako ya go bula setsholadifaele)">
+<!ENTITY searchOnline.accesskey "K">

@@ -1,0 +1,5 @@
+<!ENTITY windowClose.key "w">
+<!ENTITY preferencesDefaultTitleMac.title "Diratwabogolo">
+<!ENTITY preferencesDefaultTitleWin.title "Diitlhophelwa">
+<!ENTITY preferencesCloseButton.label "Tswala">
+<!ENTITY preferencesCloseButton.accesskey "T">

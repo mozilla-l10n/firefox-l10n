@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Isa Bara ya Didiriswa ka Magoro">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY instructions.description "O ka tsenya kana go tlosa dilwana ka go di gogela go ya kwa kana go tswa kwa dibareng tsa didiriswa.">
+<!ENTITY show.label "Bontsha:">
+<!ENTITY iconsAndText.label "Diaekhone le Mafoko">
+<!ENTITY icons.label "Diaekhone">
+<!ENTITY text.label "Mafoko">
+<!ENTITY useSmallIcons.label "Dirisa Diaekhone tse Dinnye">
+<!ENTITY restoreDefaultSet.label "Busetsa Tlhomo ya Thulaganyetso Ruri">
+<!ENTITY addNewToolbar.label "Tsenya Bara e Ntšhwa ya Didirisa">
+<!ENTITY saveChanges.label "Feditse">
+<!ENTITY undoChanges.label "Dirolola Diphetogo">

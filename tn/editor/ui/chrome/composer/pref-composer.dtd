@@ -1,0 +1,37 @@
+<!-- extracted from content/pref-composer.xul -->
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+
+
+<!ENTITY pref.composer.title "Composer">
+
+<!ENTITY saving "E a boloka">
+<!ENTITY AutoSaveCheck "Boloka ka boitiriso gangwe le gape">
+<!ENTITY minText "metsotso">
+
+<!ENTITY exterLegend.label "Batseleganyi ba kwa Ntle">
+<!ENTITY htmlSource "Motswedi wa HTML:">
+<!ENTITY imageeditor "Ditshwantsho:">
+<!ENTITY chooseButton.label "Tlhopha">
+
+<!ENTITY recentFiles.title "Lenanekhomphiutara la Ditsebe tsa fa Bošweng">
+<!ENTITY documentsInMenu.label "Palogodimo ya ditsebe tse di mo lenaneng:">
+<!ENTITY documentsInMenu.accesskey "d">
+
+<!ENTITY savingFiles.title "Fa o Boloka gongwe o Phasalatsa Ditsebe">
+<!ENTITY preserveExisting.label "Somarela fomete ya motswedi wa tshimologo">
+<!ENTITY preserveExisting.accesskey "S">
+<!ENTITY preserveExisting.tooltip "Somarela dikgaolamola le fomete ya tshimologo ya tsebe">
+<!ENTITY saveAssociatedFiles.label "Boloka ditshwantsho le difaele tse dingwe tse di amanang natso fa o boloka ditsebe">
+<!ENTITY saveAssociatedFiles.accesskey "B">
+<!ENTITY showPublishDialog.label "Ka gale bontsha puisano ya Phasalatsa fa o phasalatsa ditsebe">
+<!ENTITY showPublishDialog.accesskey "K">
+
+<!ENTITY composerEditing.label "E a tseleganya">
+<!ENTITY maintainStructure.label "Tshola boalo jwa lenanethalo fa o lokela gongwe o phimola disele">
+<!ENTITY maintainStructure.tooltip "Somarela sebopego sa lenanethalo sa khutlonnetsepa ka go tsenya disele ka go itirisa morago ga go tsenya disele mo teng gongwe go di phimola">
+<!ENTITY maintainStructure.accesskey "T">
+<!ENTITY useCSS.label "Dirisa ditaele tsa CSS go na le dielemente le matshwaopono a HTML">
+<!ENTITY useCSS.accesskey "D">
+<!ENTITY crInPCreatesNewP.label "Tiriso ya Return mo temaneng ka gale e tlhama temana e ntšhwa">
+<!ENTITY crInPCreatesNewP.accesskey "T">

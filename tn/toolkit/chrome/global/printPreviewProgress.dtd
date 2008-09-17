@@ -1,0 +1,6 @@
+<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
+<!ENTITY printWindow.title "Tebopele ya Kgatiso">
+<!ENTITY title "Leina:">
+<!ENTITY spaces "            ">
+<!ENTITY preparing "E baakanya...">
+<!ENTITY progress "Tswelelopele:">

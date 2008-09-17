@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Boalo jwa Dikgatlhong tsa Boyo (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "Le fa gona o ka kgona go totobatsa dikgatlhong tsa boyo (SMTP) di feta bongwe, seno se atlenegisiwa fela mo badirising ba ba tsweletseng. Go tlhoma dikgatlhong tse dintsi tsa SMTP go ka baka diphoso fa go romelwa melaetsa.">
+
+<!ENTITY smtpListAdd.label "Tsenya...">
+<!ENTITY smtpListAdd.accesskey "s">
+<!ENTITY smtpListEdit.label "Tseleganya...">
+<!ENTITY smtpListEdit.accesskey "T">
+<!ENTITY smtpListDelete.label "Tlosa">
+<!ENTITY smtpListDelete.accesskey "s">
+<!ENTITY smtpListSetDefault.label "Tlhoma go Rulaganyetsa ruri">
+<!ENTITY smtpListSetDefault.accesskey "h">
+
+<!ENTITY serverDescription.label "Tlhaloso: ">
+<!ENTITY serverName.label "Leina la Dikgatlhong: ">
+<!ENTITY serverPort.label "Setshwaraganyi: ">
+<!ENTITY userName.label "Leina la Modirisi: ">
+<!ENTITY useSecureConnection.label "Kgolagano e e Babalesegileng: ">

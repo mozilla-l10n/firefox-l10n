@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Pabalesego">
+<!ENTITY securityHeading.label "Go romela le go amogela melaetsa e e saenilweng gongwe e e kwadilweng ka dikhoutu o tshwanetse go totobatsa setifikeiti sa dijitale se se saenang le setifikeiti sa mekwalo ya dikhoutu.">
+<!ENTITY encryptionGroupTitle.label "Tshireletso">
+<!ENTITY encryptionChoiceLabel.label "Rulaganyetsa boalo jwa mokwalo wa khoutu ruri fa go romelwa melaetsa:">
+<!ENTITY neverEncrypt.label "Le e seng (o seke wa dirisa mokwalo wa khoutu)">
+<!ENTITY alwaysEncryptMessage.label "Tlhokega (go ka seke ga romelwa melaetsa ntle le fa fela baamogedi ba na le disetifikeiti)">
+<!ENTITY encryptionCert.message "Dirisa setifikeiti seno go kwala mokwalo wa khoutu &amp; khoutulola melaetsa e o e romeletsweng:">
+<!ENTITY encryptionCert.notselected "Ga go a tlhomiwa setifikeiti">
+<!ENTITY certificate.button "Tlhopha...">
+<!ENTITY certificate_clear.button "Tlosa">
+<!ENTITY signingGroupTitle.label "Mosaeno wa Dijitale">
+<!ENTITY signMessage.label "Saena melaetsa ka mokgwa wa dijitale (go rulaganyeditswe ruri)">
+<!ENTITY signingCert.message "Dirisa setifikeiti seno go saena melaetsa e o e romelang ka mokgwa wa dijitale:">
+<!ENTITY signingCert.notselected "Ga go a tlhomiwa setifikeiti">
+
+<!ENTITY certificates.label "Ditifikeiti">
+<!ENTITY managecerts.label "View Certificates">
+<!ENTITY managecerts.accesskey "V">
+<!ENTITY managedevices.label "Security Devices">
+<!ENTITY managedevices.accesskey "S">

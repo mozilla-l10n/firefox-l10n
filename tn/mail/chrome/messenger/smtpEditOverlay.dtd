@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Boalo">
+<!ENTITY security.caption "Pabalesego le go Rurifadiwa">
+<!ENTITY serverName.label "Leina la Dikgatlho:">
+<!ENTITY serverName.accesskey "L">
+<!ENTITY serverDescription.label "Tlhaloso:">
+<!ENTITY serverDescription.accesskey "T">
+<!ENTITY serverPort.label "Setshwaraganyi:">
+<!ENTITY serverPort.accesskey "S">
+<!ENTITY alwaysUseUsername.label "Leina la modirisi le khunololamoraba">
+<!ENTITY alwaysUseUsername.accesskey "L">
+<!ENTITY userName.label "Leina la Modirisi:">
+<!ENTITY userName.accesskey "d">
+<!ENTITY isSecure.label "Dirisa kgolagano e e babalesegileng:">
+<!ENTITY neverSecure.label "Nnyaa">
+<!ENTITY neverSecure.accesskey "N">
+<!ENTITY sometimesSecure.label "TLS, fa e le gona">
+<!ENTITY sometimesSecure.accesskey "g">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "Dikgatlhong tsa SMTP">
+<!ENTITY serverPortDefault.label "Thulaganyetso ruri:">

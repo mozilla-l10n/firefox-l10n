@@ -1,0 +1,28 @@
+<!ENTITY pref.editing.title "Boalo jwa Ditsebe tse Dintšhwa">
+
+<!ENTITY authorName.label "Mokwadi:">
+<!ENTITY authorName.accesskey "o">
+<!ENTITY pageColorHeader "Rulaganyetsa ruri Tebego ya Tsebe">
+
+<!ENTITY defaultColorsRadio.label "Mebala e e rulaganyeditsweng ruri ya mmuisi (Se tlhome mebala mo tsebeng)">
+<!ENTITY defaultColors.accesskey "d">
+<!ENTITY customColorsRadio.label "Dirisa mebala ya itlhophelo:">
+<!ENTITY customColors.accesskey "c">
+
+<!ENTITY normalText.label "Mafoko a a tlwaelesegileng">
+<!ENTITY normalText.accesskey "M">
+<!ENTITY linkText.label "Mafoko a Segoke">
+<!ENTITY linkText.accesskey "M">
+<!ENTITY activeLinkText.label "Mafoko a segoke se se dirisiwang">
+<!ENTITY activeLinkText.accesskey "M">
+<!ENTITY visitedLinkText.label "Mafoko a segoke se se etetsweng">
+<!ENTITY visitedLinkText.accesskey "M">
+<!ENTITY background.label "Lemorago:">
+<!ENTITY background.accesskey "L">
+<!ENTITY colon.character ":">
+
+<!ENTITY backgroundImage.label "Setshwantsho sa Lemorago:">
+<!ENTITY backgroundImage.accesskey "l">
+<!ENTITY chooseFile.label "Tlhopha Faele...">
+<!ENTITY chooseFile.accesskey "h">
+

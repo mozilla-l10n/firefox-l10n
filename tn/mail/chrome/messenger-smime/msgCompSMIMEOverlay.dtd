@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Pabalesego">
+<!ENTITY securityMenu.accesskey "a">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Khoutolola fa go Kgonagala">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "K">
+
+<!ENTITY menu_securityEncryptRequire.label "Khoutolola Molaetsa Ono">
+<!ENTITY menu_securityEncryptRequire.accesskey "K">
+
+<!ENTITY menu_securityNoEncryption.label "Se Khoutolole Molaetsa Ono">
+<!ENTITY menu_securityNoEncryption.accesskey "S">
+
+<!ENTITY menu_securitySign.label "Saena Molaetsa Ono ka tsela ya Dijitale">
+<!ENTITY menu_securitySign.accesskey "M">
+
+<!ENTITY menu_securityStatus.label "Leba Tshedimosetso ya Pabalesego">
+<!ENTITY menu_securityStatus.accesskey "P">
+
+<!ENTITY securityButton.label "Pabalesego">
+<!ENTITY securityButton.tooltip "Leba gongwe fetola boalo jwa pabalesego">
+
+<!ENTITY menu_viewSecurityStatus.label "Tshedimosetso ya Pabalesego ya Melaetsa">
+<!ENTITY menu_viewSecurityStatus.accesskey "M">

@@ -1,0 +1,22 @@
+<!-- extracted from finddialog.xul -->
+
+<!ENTITY findDialog.title "Batla mo Tsebeng Eno">
+<!ENTITY findDialogFrame.title "Batla mo Foreiming Eno">
+<!ENTITY findField.label "Batla eng:">
+<!ENTITY findField.accesskey "t">
+<!ENTITY caseSensitiveCheckbox.label "Tshwantshanya bogolo jwa ditlhaka">
+<!ENTITY caseSensitiveCheckbox.accesskey "w">
+<!ENTITY wrapCheckbox.label "Phuthela">
+<!ENTITY wrapCheckbox.accesskey "P">
+<!ENTITY backwardsCheckbox.label "Phuruphutsa go ya kwa morago">
+<!ENTITY backwardsCheckbox.accesskey "g">
+<!ENTITY findField.tooltip "Tlanya lefoko le le lengwe gongwe a le mantsi gore go phuruphudiwe">
+<!ENTITY findButton.label "Batla e e Latelang">
+<!ENTITY findButton.accesskey "B">
+<!ENTITY cancelButton.label "Khansela">
+<!ENTITY closeButton.label "Tswala">
+<!ENTITY up.label "Godimo">
+<!ENTITY up.accesskey "G">
+<!ENTITY down.label "Tlase">
+<!ENTITY down.accesskey "T">
+<!ENTITY direction.label "Ntlha">

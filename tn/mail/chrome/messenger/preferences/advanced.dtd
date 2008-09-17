@@ -1,0 +1,77 @@
+<!ENTITY itemGeneral.label "Ka kakaretso">
+<!ENTITY itemUpdate.label "Ntšhwafatsa">
+<!ENTITY itemOffline.label "Sebaka sa Disiki &amp; Mo kgaogong ya nakwana">
+<!-- General Settings -->
+
+
+<!ENTITY showCondensedAddresses.label "Bontsha fela leina la pontsho la batho ba ba mo bukeng ya me ya diaterese">
+<!ENTITY showCondensedAddresses.accesskey "t">
+<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
+     "xxx seconds before marking a message as read", using a number and
+     (markAsReadEnd.label). -->
+
+<!ENTITY markAsRead.label "Leta">
+<!ENTITY markAsRead.accesskey "L">
+<!ENTITY markAsReadEnd.label "metsotswana pele ga go tshwaya molaetsa jaaka o o buisitsweng">
+<!ENTITY markAsReadEnd.accesskey "n">
+<!ENTITY showFolderColumns.label "Bontsha dikholomo tse di atolositsweng mo seokomedising sa setsholadifaele">
+<!ENTITY showFolderColumns.accesskey "s">
+<!ENTITY rememberLastMsg.label "Gakologelwa molaetsa o o tlhophilweng la bofelo">
+<!ENTITY rememberLastMsg.accesskey "l">
+<!ENTITY reuseExp.label "Bula melaetsa e mentšhwa mo:">
+<!ENTITY reuseExpRadio0.label "Fensetere ya molaetsa o montšhwa">
+<!ENTITY reuseExpRadio0.accesskey "e">
+<!ENTITY reuseExpRadio1.label "Fensetere ya molaetsa o o ntseng o le gona">
+<!ENTITY reuseExpRadio1.accesskey "t">
+<!ENTITY connectionTimeout.label "Kgolagano e feletswe ke nako: ">
+<!ENTITY connectionTimeout.accesskey "K">
+<!ENTITY connectionSeconds.label "metsotswana">
+<!ENTITY configEditDesc.label "Thulaganyetso ruri e e Tsweletseng">
+<!ENTITY configEdit.label "Motseleganyi wa Thulaganyetso ruri...">
+<!ENTITY configEdit.accesskey "o">
+<!-- Update -->
+
+<!ENTITY autoCheck.label "Automatically check for updates to:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "Installed Add-ons">
+<!ENTITY enableAddonsUpdate.accesskey "t">
+<!ENTITY checkNow.label "Tlhola Jaanong...">
+<!ENTITY whenUpdatesFound.label "When updates to &brandShortName; are found,">
+<!ENTITY modeAskMe.label "Ask me what I want to do">
+<!ENTITY modeAskMe.accesskey "k">
+<!ENTITY modeAutomatic.label "Automatically download and install the update">
+<!ENTITY modeAutomatic.accesskey "m">
+<!ENTITY modeAutoAddonWarn.label "Warn me if this will disable any of my add-ons">
+<!ENTITY modeAutoAddonWarn.accesskey "W">
+<!ENTITY showUpdates.label "Bontsha Hisetori ya Ntšhwafatso">
+<!ENTITY showUpdates.accesskey "H">
+<!-- Offline and Disk Space -->
+
+<!ENTITY offline.label "Mo kgaogong ya nakwana">
+<!ENTITY textStartUp "Fa o simolola:">
+<!ENTITY radioRememberPrevState "Gakologelwa seemo se se fetileng sa mo kgolaganong ya Inthanete">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskMe "Mpotse ka seemo sa kgolagano ya Inthanete kwa tshimologong">
+<!ENTITY radioAskMe.accesskey "u">
+<!ENTITY radioAlwaysOnline "Ka gale simolola mo kgolaganong">
+<!ENTITY radioAlwaysOnline.accesskey "l">
+
+<!ENTITY textGoingOnline "Romela melaetsa e e sa romelwang fa o tsena mo kgolaganong?">
+<!ENTITY radioAutoSend "Ee">
+<!ENTITY radioAutoSend.accesskey "E">
+<!ENTITY radioNotSend "Nnyaa">
+<!ENTITY radioNotSend.accesskey "N">
+<!ENTITY radioAskUnsent "Mpotse">
+<!ENTITY radioAskUnsent.accesskey "p">
+<!ENTITY textGoingOffline "Kopolola melaetsa ya mo kgaogong ya nakwana fa o tswa mo kgolaganong ya inthanete?">
+<!ENTITY radioAutoDownload "Ee">
+<!ENTITY radioAutoDownload.accesskey "e">
+<!ENTITY radioNotDownload "Nnyaa">
+<!ENTITY radioNotDownload.accesskey "a">
+<!ENTITY radioAskDownload "Mpotse">
+<!ENTITY radioAskDownload.accesskey "o">
+<!ENTITY Diskspace "Sebaka sa Disiki">
+<!ENTITY offlineCompact.label "Kitlanya ditsholadifaele fa e le gore di tla boloka go feta">
+<!ENTITY offlineCompact.accesskey "l">
+<!ENTITY kb.label "KB">

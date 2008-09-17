@@ -1,0 +1,30 @@
+<!ENTITY window.width "36em">
+
+<!ENTITY cookiesonsystem.label "Dikhuki tse di latelang di bolokilwe mo khomphiutareng ya gago:">
+<!ENTITY cookiename.label "Leina la Khuki">
+<!ENTITY cookiedomain.label "Setsha">
+<!ENTITY button.removecookie.label "Tlosa Khuki">
+<!ENTITY button.removecookie.accesskey "T">
+<!ENTITY button.removeallcookies.label "Tlosa Dikhoki Tsotlhe">
+<!ENTITY button.removeallcookies.accesskey "T">
+
+<!ENTITY props.name.label "Leina:">
+<!ENTITY props.value.label "Diteng:">
+<!ENTITY props.domain.label "Khomphiutarakgolo:">
+<!ENTITY props.path.label "Tsela:">
+<!ENTITY props.secure.label "Romelela:">
+<!ENTITY props.expires.label "Felelwa ke Nako:">
+
+<!ENTITY window.title "Dikhuki">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Phuruphutsa:">
+<!ENTITY filter.accesskey "P">
+<!ENTITY clear.label "Tlosa">
+<!ENTITY clear.accesskey "l">
+
+<!ENTITY button.close.label "Tswala">
+<!ENTITY button.close.accesskey "T">
+
