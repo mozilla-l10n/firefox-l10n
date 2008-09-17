@@ -41,6 +41,8 @@
 <!ENTITY sendUnsentCmd.accesskey "P">
 <!ENTITY subscribeCmd.label "Abonnieren…">
 <!ENTITY subscribeCmd.accesskey "a">
+<!ENTITY deleteFolder.label "Ordner löschen">
+<!ENTITY deleteFolder.accesskey "l">
 <!ENTITY renameFolder.label "Ordner umbenennen…">
 <!ENTITY renameFolder.accesskey "u">
 <!ENTITY renameFolder.key "VK_F2"> 
