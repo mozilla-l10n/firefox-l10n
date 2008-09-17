@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Izici Zesinyathelisi">
+
+<!ENTITY paperInput.label "Ubungako Bephepha:">
+
+<!ENTITY plexInput.label "Yenza NgePlex:">
+
+<!ENTITY resolutionInput.label "Izinga/Isimo Sokucaca:">
+
+<!ENTITY cmdInput.label "Umyalo Wokunyathelisa:">
+
+<!ENTITY jobTitleInput.label "Isihloko Somsebenzi:">
+
+<!ENTITY colorGroup.label "Umbala:">
+<!ENTITY grayRadio.label "Isikali Esingwevu">
+<!ENTITY colorRadio.label "Umbala">
+
+<!ENTITY colorspaceInput.label "Isikhala sombala:">
+
+<!ENTITY fontsGroup.label "Izinhlobo Zemibhalo:">
+<!ENTITY downloadFonts.label "Zifakwe izinhlobo zombhalo esinyathelisini?">
+
+<!ENTITY edgeMarginInput.label "Igebe kusuka onqenqemeni lwekhasi kuya ekuQaleni Kombhalo">
+<!ENTITY topInput.label "Phezulu:">
+<!ENTITY bottomInput.label "Phansi:">
+<!ENTITY leftInput.label "Kwesobunxele:">
+<!ENTITY rightInput.label "Kwesokudla:">

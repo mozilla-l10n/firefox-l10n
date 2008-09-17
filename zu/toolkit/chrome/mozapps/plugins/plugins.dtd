@@ -1,0 +1,22 @@
+<!ENTITY pluginWizard.title "Okuthola Okufakwa Emapulagini">
+<!ENTITY pluginWizard.firstPage.title "Uyamukelwa e&pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "I-&brandShortName; manje ihlola okufakwe emapulagini okutholakayo...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Okutholakalayo okufakwe emapulagini okungafakwa">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Okulandelayo okufakwe emapulagini kuyatholakala:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Chofoza ethi Okulandelayo ukuze ufakele lokhu okufakwe emapulagini.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Okunye okufakwe amapulagini kungase kudinge ukwaziswa okwengeziwe ngesikhathi ukufakela.">
+
+<!ENTITY pluginWizard.licensePage.title "Izimvume Zokufakwa Emapulagini">
+<!ENTITY pluginWizard.licensePage.accept.label "Ngiyavuma.">
+<!ENTITY pluginWizard.licensePage.deny.label "Angivumi (okufakwe emapulagini ngeke kufakelwe).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "Kufakelwa okufakwe emapulagini">
+<!ENTITY pluginWizard.installPluginsPage.description.label "I-&brandShortName; ifakela okufakwa emapulagini...">
+
+<!ENTITY pluginWizard.finalPage.description.label "I-&brandShortName; iqedile ukufakela okufakwa emapulagini obekungekho:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Thola okwengeziwe Ngokufakwa Emapulagini noma uzitholele ngesandla obekungekho.">
+<!ENTITY pluginWizard.finalPage.restart.label "I-&brandShortName; idinga ukuqalwa kabusha ukuze okufakwa emapulagini kusebenze.">
+

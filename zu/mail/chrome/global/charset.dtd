@@ -1,0 +1,20 @@
+<!ENTITY charsetMenu.label "Ukubhala Uhlamvu Ngekhodi">
+<!ENTITY charsetMenu.accesskey "U">
+<!ENTITY charsetMenuAutodet.label "Zitholele">
+<!ENTITY charsetMenuAutodet.accesskey "z">
+<!ENTITY charsetMenuMore.label "Okwengeziwe">
+<!ENTITY charsetMenuMore.accesskey "o">
+<!ENTITY charsetMenuMore1.label "EsaseNtshonalanga Yurophu">
+<!ENTITY charsetMenuMore1.accesskey "e">
+<!ENTITY charsetMenuMore2.label "EsaseMpumalanga Yurophu">
+<!ENTITY charsetMenuMore2.accesskey "E">
+<!ENTITY charsetMenuMore3.label "Isi-Asiya SaseMpumalanga">
+<!ENTITY charsetMenuMore3.accesskey "S">
+<!ENTITY charsetMenuMore4.label "SaseNingizimu-Mpumalanga &amp; Isi-Asiya SaseNingizimu-Ntshonalanga">
+<!ENTITY charsetMenuMore4.accesskey "S">
+<!ENTITY charsetMenuMore5.label "EsaseMpumalanga Ephakathi">
+<!ENTITY charsetMenuMore5.accesskey "E">
+<!ENTITY charsetMenuUnicode.label "I-Unicode">
+<!ENTITY charsetMenuUnicode.accesskey "U">
+<!ENTITY charsetCustomize.label "Yenza Okujwayelekile...">
+<!ENTITY charsetCustomize.accesskey "y">

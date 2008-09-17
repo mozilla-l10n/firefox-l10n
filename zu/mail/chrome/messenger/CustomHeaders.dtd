@@ -1,0 +1,7 @@
+<!ENTITY window.title "Yenza Izihloko Zaphezulu Zifane">
+<!ENTITY addButton.label "Nezela">
+<!ENTITY addButton.accesskey "N">
+<!ENTITY removeButton.label "Susa">
+<!ENTITY removeButton.accesskey "S">
+<!ENTITY newMsgHeader.label "Isihloko saphezulu semiyalezo esisha:">
+<!ENTITY newMsgHeader.accesskey "I">

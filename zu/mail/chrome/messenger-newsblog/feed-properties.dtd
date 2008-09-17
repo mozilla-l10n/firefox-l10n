@@ -1,0 +1,19 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title "Phakela Izici">
+
+<!ENTITY feedFolder.label "Beka Izinto e: ">
+<!ENTITY feedFolder.accesskey "B">
+
+<!ENTITY feedLocation.label "Phakela I-URL: ">
+<!ENTITY feedLocation.accesskey "P">
+
+<!ENTITY choosethisfolder.label "khetha le folda">
+
+<!ENTITY quickMode.label "Bonisa ukufingqwa kwe-sihloko esikhundleni sokulayisha ikhasi le-inthaneti">
+<!ENTITY quickMode.accesskey "o">
+
+<!ENTITY copyLinkCmd.label "Kopisha Indawo Yesixhumo">
+<!ENTITY copyLinkCmd.accesskey "K">
+
+<!ENTITY pasteLinkCmd.label "Paste">
+<!ENTITY pasteLinkCmd.accesskey "P">

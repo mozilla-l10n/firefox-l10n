@@ -1,0 +1,64 @@
+<!ENTITY fontsDialog.title "Izinhlobo Zemibhalo">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "Izinhlobo zemibhalo ze:">
+<!ENTITY language.accesskey "n">
+
+<!ENTITY typefaces.label "Isitayela sombhalo">
+<!ENTITY sizes.label "Ubungakko (ama-pixel)">
+
+<!ENTITY proportional.label "Kuyavumelana Ngobukhulu:">
+<!ENTITY proportional.accesskey "K">
+
+<!ENTITY serif.label "ISerif:">
+<!ENTITY serif.accesskey "s">
+<!ENTITY sans-serif.label "ISans-serif:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "IMonospace:">
+<!ENTITY monospace.accesskey "i">
+
+<!ENTITY fontsize.units "amachashazana akha isithombe">
+
+<!ENTITY font.langGroup.latin1 "EsaseNtshonalanga">
+<!ENTITY font.langGroup.latin2 "EsaseYurophu Ephakathi">
+<!ENTITY font.langGroup.japanese "IsiJapane">
+<!ENTITY font.langGroup.trad-chinese "IsiShayina Sendabuko (saseTaiwan)">
+<!ENTITY font.langGroup.simpl-chinese "IsiShayina Esenziwe Lula">
+<!ENTITY font.langGroup.trad-chinese-hk "IsiShayina Sendabuko (saseHong Kong)">
+<!ENTITY font.langGroup.korean "IsiKhoriya">
+<!ENTITY font.langGroup.cyrillic "isiCyrillic">
+<!ENTITY font.langGroup.baltic "IsiBalthikhi">
+<!ENTITY font.langGroup.el "isiGreki">
+<!ENTITY font.langGroup.turkish "IsiThekhi">
+<!ENTITY font.langGroup.unicode "Ezinye Izilimi">
+<!ENTITY font.langGroup.user-def "Oyisebenzisayo Uyachazwa">
+<!ENTITY font.langGroup.thai "isiThai">
+<!ENTITY font.langGroup.hebrew "isiHebheru">
+<!ENTITY font.langGroup.arabic "isi-Arabhu">
+<!ENTITY font.langGroup.devanagari "isiDevanagari">
+<!ENTITY font.langGroup.tamil "isiTamil">
+<!ENTITY font.langGroup.armenian "Isi-Armenia">
+<!ENTITY font.langGroup.bengali "isiBengali">
+<!ENTITY font.langGroup.canadian "Uhlu Lwezinhlamvu Ezihlangene ZesiCanada">
+<!ENTITY font.langGroup.ethiopic "IsiTopiya">
+<!ENTITY font.langGroup.georgian "isiGeorgia">
+<!ENTITY font.langGroup.gujarati "isiGujarati">
+<!ENTITY font.langGroup.gurmukhi "isiGurmukhi">
+<!ENTITY font.langGroup.khmer "isiKhmer">
+<!ENTITY font.langGroup.malayalam "isiMalayalam">
+<!-- Minimum font size -->
+
+<!ENTITY minSize.label "Usayizi wokugcina omncane wombhalo:">
+<!ENTITY minSize.accesskey "m">
+<!ENTITY minSize.none "Akukho">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "ISerif">
+<!ENTITY useDefaultFontSansSerif.label "ISans Serif">
+
+<!ENTITY newLanguages.label "Izilimi ezintsha zingahlelwa kusetshenziswa isiThebe Sezilimi.">
+
+<!ENTITY useDocumentFonts.label "Vumela imiyalezo isebenzise ezinye izinhlobo zombhalo">
+<!ENTITY useDocumentFonts.accesskey "m">

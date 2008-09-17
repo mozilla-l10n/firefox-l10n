@@ -1,0 +1,71 @@
+<!ENTITY fontsDialog.title "Izinhlobo Zemibhalo">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "Izinhlobo zemibhalo ze-:">
+<!ENTITY language.accesskey "I">
+
+<!ENTITY size.label "Usayizi:">
+<!ENTITY size.accesskey1 "i">
+<!ENTITY size.accesskey2 "z">
+
+<!ENTITY proportional.label "Kuyavumelana Ngobukhulu:">
+<!ENTITY proportional.accesskey "K">
+
+<!ENTITY serif.label "ISerif:">
+<!ENTITY serif.accesskey "S">
+<!ENTITY sans-serif.label "ISans-serif:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "IMonospace:">
+<!ENTITY monospace.accesskey "I">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY fantasy.label "IFantasy:">
+<!ENTITY fantasy.accesskey "F">
+<!ENTITY cursive.label "Ukubhala Ngokuhlanganisa:">
+<!ENTITY cursive.accesskey "U">
+
+<!ENTITY fontsize.units "amachashazana akha isithombe">
+
+<!ENTITY font.langGroup.latin1 "EsaseNtshonalanga">
+<!ENTITY font.langGroup.latin2 "EsaseYurophu Ephakathi">
+<!ENTITY font.langGroup.japanese "IsiJapane">
+<!ENTITY font.langGroup.trad-chinese "IsiShayina Sendabuko (saseTaiwan)">
+<!ENTITY font.langGroup.simpl-chinese "IsiShayina Esenziwe Lula">
+<!ENTITY font.langGroup.trad-chinese-hk "IsiShayina Sendabuko (saseHong Kong)">
+<!ENTITY font.langGroup.korean "IsiKhoriya">
+<!ENTITY font.langGroup.cyrillic "IsiCyrillic">
+<!ENTITY font.langGroup.baltic "IsiBalthikhi">
+<!ENTITY font.langGroup.el "IsiGreki">
+<!ENTITY font.langGroup.turkish "IsiThekhi">
+<!ENTITY font.langGroup.unicode "Ezinye Izilimi">
+<!ENTITY font.langGroup.user-def "Oyisebenzisayo Uyachazwa">
+<!ENTITY font.langGroup.thai "IsiThai">
+<!ENTITY font.langGroup.hebrew "IsiHebheru">
+<!ENTITY font.langGroup.arabic "Isi-Arabhu">
+<!ENTITY font.langGroup.devanagari "IsiDevanagari">
+<!ENTITY font.langGroup.tamil "IsiTamil">
+<!ENTITY font.langGroup.armenian "Isi-Armenia">
+<!ENTITY font.langGroup.bengali "IsiBengali">
+<!ENTITY font.langGroup.canadian "Uhlu Lwezinhlamvu Ezihlangene ZesiCanada">
+<!ENTITY font.langGroup.ethiopic "IsiTopiya">
+<!ENTITY font.langGroup.georgian "IsiGeorgia">
+<!ENTITY font.langGroup.gujarati "IsiGujarati">
+<!ENTITY font.langGroup.gurmukhi "IsiGurmukhi">
+<!ENTITY font.langGroup.khmer "IsiKhmer">
+<!ENTITY font.langGroup.malayalam "IsiMalayalam">
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Usayizi wokugcina omncane wombhalo:">
+<!ENTITY minSize.accesskey "o">
+<!ENTITY minSize.none "Akukho">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "ISerif">
+<!ENTITY useDefaultFontSansSerif.label "ISans Serif">
+
+<!ENTITY allowPagesToUse.label "Vumela amakhasi ukuba azikhethele uhlobo lombhalo, esikhundleni saloku engikukhethe ngenhla">
+<!ENTITY allowPagesToUse.accesskey "V">
+
+<!ENTITY languages.customize.Charset.grouplabel "Ukubhala Uhlamvu Ngekhodi">
+<!ENTITY languages.customize.DefaultCharset.label "Ukubhala Uhlamvu Ngekhodi Kwakhona:">
+<!ENTITY languages.customize.DefaultCharset.accesskey "K">

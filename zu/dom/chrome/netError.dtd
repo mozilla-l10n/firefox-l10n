@@ -1,0 +1,49 @@
+<!ENTITY loadError.label "Iphutha Ekulayisheni Ikhasi">
+<!ENTITY retry.label "Phinda Uzame">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Ihlulekile Ukuxhuma">
+<!ENTITY connectionFailure.longDesc "<p>Nakuba le ngosi ibonakala isebenza, okokubheka akukwazanga ukuxhumanisa.</p><ul><li>Kungenzeka ukuthi le ngosi ayitholakali okwamanje? Phinda uzame kamuva.</li><li>Awukwazi ukubheka ezinye izingosi?  Hlola ukuthi ikhompyutha ixhunyiwe kunethiwekhi.</li><li>Ikhompyutha yakho noma inethiwekhi ivikelwe yini ngesivikeli noma nge-proxy? Indlela okuhleleke ngayo engaqondile ingaphazamisa ukubheka iWebhu.</li></ul>">
+
+<!ENTITY deniedPortAccess.title "Iphothi Ivinjelwe ngenxa Yezizathu Zokuvikeleka">
+<!ENTITY deniedPortAccess.longDesc "<p>Leli kheli eliceliwe lisho iphothi (e.g. <q>mozilla.org:80</q> yephothi 80 ku-mozilla.org) evame ukusetshenziselwa ezinye izinjongo <em>ngaphandle</em> kokubheka iWebhu. Okokubheka kusikhanselile lesi sicelo ngenxa yezizathu zokuphepha nokuvikeleka kwakho.</p>">
+
+<!ENTITY dnsNotFound.title "Ikheli Alitholakalanga">
+<!ENTITY dnsNotFound.longDesc "<p>Okokubheka akuyitholanga iseva yomxhumi kuleli kheli elinikeziwe.</p><ul><li>Wenze iphutha yini lapho ubhala isijobelelo somxhumi? (e.g. <q><strong>ww</strong>.mozilla.org</q> esikhundleni sokuthi <q><strong>www</strong>.mozilla.org</q>)</li><li>Uyaqiniseka ukuthi likhona ikheli elinalesi sijobelelo somxhumi?  Kungenzeka ukuthi ukubhaliswa kwalo sekwaphelelwa isikhathi.</li><li>Awukwazi yini ukubheka ezinye izingosi?  Hlola ukuxhumeka kwakho kunethiwekhi nendlela okuhleleke ngayo amaseva e-DNS.</li><li>Ikhompyutha yakho noma inethiwekhi ivikelwe yini ngesivikeli noma nge-proxy?  Indlela okuhleleke ngayo engalungile ingase iphazamise ukubheka iWebhu.</li></ul>">
+
+<!ENTITY fileNotFound.title "Ifayela Alitholakali">
+<!ENTITY fileNotFound.longDesc "<ul><li>Kungenzeka yini ukuthi le nto iqanjwe ngelinye igama, isusiwe noma ibekwe kwenye indawo?</li><li>Ingabe kukhona iphutha ekubhaleni, kosonhlamvukazi noma elinye iphutha ekhelini?</li><li>Unayo yini imvume eyanele yokungena kulokhu okucelile?</li></ul>">
+
+<!ENTITY generic.title "Ayikwazi Ukuqeda Lesi Sicelo">
+<!ENTITY generic.longDesc "<p>Ukwaziswa okwengeziwe mayelana nale nkinga noma leli phutha akukho okwamanje.</p>">
+
+<!ENTITY malformedURI.title "Ikheli Elingasebenzi">
+<!ENTITY malformedURI.longDesc "<p>Leli kheli elinikeziwe alikho esimweni esaziwayo. Sicela uhlole ukuthi alinawo yini amaphutha uphinde uzame.</p>">
+
+<!ENTITY netInterrupt.title "Ukudlulisa Ukwaziswa Kuphazamisekile">
+<!ENTITY netInterrupt.longDesc "<p>Okokubheka kuxhume ngempumelelo, kodwa ukuxhumeka kuphazamiseke ngesikhathi kudluliswa ukwaziswa.  Sicela uphinde uzame.</p><ul><li>Awukwazi yini ukubheka ezinye izingosi? Hlola ukuthi ikhompyutha yakho ixhumekile yini kunethiwekhi.</li><li>Usenenkinga namanje? Thintana nomqondisi wenethiwekhi yakho noma we-Inthanethi ukuze uthole usizo.</li></ul>">
+
+<!ENTITY netOffline.title "Ayikho Ku-Inthanethi">
+<!ENTITY netOffline.longDesc "<p>Okokubheka kusebenza ungaxhumile ku-Inthanethi futhi akukwazi ukuthola le nto oyicelile.</p><ul><li>Ikhompyutha ixhunywe kunethiwekhi esebenzayo yini?</li><li>Xhuma ku-Inthanethi ubeke okokubheka uphinde uzame.</li></ul>">
+
+<!ENTITY netReset.title "Ukuxhumeka Kuphazamisekile">
+<!ENTITY netReset.longDesc "<p>Isixhumo senethiwekhi siphazamisekile ngesikhathi sizama ukuxhuma. Sicela uphinde uzame.</p>">
+
+<!ENTITY netTimeout.title "Isikhathi Senethiwekhi siphelile">
+<!ENTITY netTimeout.longDesc "<p>Le ngosi oyicelile ayisabelanga futhi okokubheka sekuyekile ukulindela impendulo.</p><ul><li>Kungenzeka yini ukuthi le seva ifunwa kakhulu noma ayisebenzi okwesikhashana?  Phinda uzame kamuva.</li><li>Awukwazi yini ukubheka ezinye izingosi? Hlola ukuthi ikhompyutha ixhumekile yini kunethiwekhi.</li><li>Ikhompyutha yakho noma inethiwekhi ivikelwe yini ngesivikeli noma nge-proxy?  Indlela okuhleleke ngayo engalungile ingase iphazamise ukubheka iWebhu.</li><li>Usenenkinga namanje? Thintana nomqondisi wakho wenethiwekhi noma we-Inthanethi ukuze uthole usizo.</li></ul>">
+
+<!ENTITY protocolNotFound.title "Iprothokholi Engaziwa">
+<!ENTITY protocolNotFound.longDesc "<p>Ikheli lisho iprothokholi (e.g. <q>wxyz://</q>) engaziwa okokubheka, ngakho okokubheka akukwazi ukuxhuma kahle kule ngosi.</p><ul><li>Uzama ukungena kwabezindaba yini noma kwezinye izinkonzo ezingenakho okubhaliwe? Hlola ingosi ukuze uthole okunye okudingekayo.</li><li>Amanye amaprothokholi angase afune olunye uhlaka olusetshenziswayo noma okupulakwayo ngaphambi kokuba okukubheka kuwabone.</li></ul>">
+
+<!ENTITY proxyConnectFailure.title "Iseva Ye-Proxy Yenqabile Ukuxhuma">
+<!ENTITY proxyConnectFailure.longDesc "<p>Okokubheka kuhlelelwe ukusebenzisa iseva ye-proxy, kodwa i-proxy yenqabile ukuxhuma.</p><ul><li>Ukuhlelwa kwe-proxy yokokubheka kuqondile yini? Hlola indlela okuhleleke ngayo uphinde uzame.</li><li>Inkonzo ye-proxy iyakuvumela yini ukuxhuma okuvela kule nethiwekhi?</li><li>Usenenkinga namanje? Thintana nomqondisi wenethiwekhi noma we-Inthanethi ukuze uthole usizo.</li></ul>">
+
+<!ENTITY proxyResolveFailure.title "Iseva Ye-proxy ayitholakalanga">
+<!ENTITY proxyResolveFailure.longDesc "<p>Okokubheka kuhlelwe ukuba kusebenzise iseva ye-proxy, kodwa i-proxy ayitholakalanga.</p><ul><li>Ukuhlelwa kwe-proxy yokokubheka kuqondile yini? Hlola indlela okuhleleke ngayo uphinde uzame.</li><li>Ikhompyutha ixhumeke kunethiwekhi esebenzayo yini?</li><li>Usenenkinga? Thintana nomqondisi wenethiwekhi yakho noma we-Inthanethi ukuze uthole usizo.</li></ul>">
+
+<!ENTITY redirectLoop.title "Qondisa kabusha lokho okuphindekayo">
+<!ENTITY redirectLoop.longDesc "<p>Okokubheka sekuyekile ukuzama ukuthola into eceliwe. Ingosi iqondisa kabusha isicelo ngendlela engeke iphele.</p><ul><li>Uwavimbile yini noma wawenza awangasebenza amakukizi adingwa yile ngosi?</li><li><em>PHAWULA</em>: Uma ukwamukela amakukizi ale ngosi kungayixazululi inkinga, kungenzeka ukuthi inkinga ukuhleleka kweseva, akuyona ikhompyutha yakho.</li></ul>">
+
+<!ENTITY unknownSocketType.title "Ukusabela Okungeyikho">
+<!ENTITY unknownSocketType.longDesc "<p>Le ngosi isabele esicelweni senethiwekhi ngendlela engalindelekile futhi okokubheka ngeke kuqhubeke.</p>">

@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title "Iwizadi Yokwamukela">
+
+<!ENTITY importFrom.label "Okokwamukela Ongakhetha Kukho, Ukuhlelwa Kwe-akhawunti, Incwadi Yamakheli nokunye ukwaziswa okuvela:">
+<!ENTITY importFromUnix.label "Okokwamukela Okuthandwayo, Ukuhlelwa Kwe-akhawunti, Incwadi Yamakheli nokunye ukwaziswa okuvela:">
+
+<!ENTITY importFromNothing.label "Ungamukeli noma yini">
+<!ENTITY importFromNothing.accesskey "U">
+<!ENTITY importFromSeamonkey.label "INetscape 6, 7 noma iMozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "INetscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOExpress.label "I-Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "I-Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
+<!ENTITY importFromEudora.label "Eudora">
+<!ENTITY importFromEudora.accesskey "E">
+
+<!ENTITY importSource.title "Ukuhlelwa Kokwamukela Namafolda Emeyili Avela">
+<!ENTITY importItems.title "Izinto Zokwamukelwa">
+<!ENTITY importItems.label "Khetha ukuthi iziphi izinto ozozamukela:">
+
+<!ENTITY migrating.title "Iyamukela...">
+<!ENTITY migrating.label "Lokhu okulandelayo kuyamukelwa manje...">
+
+<!ENTITY selectProfile.title "Khetha Ingxenye Yohlaka">
+<!ENTITY selectProfile.label "La maprofayili alandelayo akhona ukuthi wamukele okuvela kuwo:">
+
+<!ENTITY done.title "Ukwamukela Sekuphelile">
+<!ENTITY done.label "Lezi zinto ezilandelayo zamukelwe ngempumelelo:">

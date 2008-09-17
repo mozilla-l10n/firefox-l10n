@@ -1,0 +1,11 @@
+<!ENTITY window.width "38em">
+
+<!ENTITY ocspDialog.title "Ukuqinisekisa">
+<!ENTITY validation.ocsp.description "I-&brandShortName; ingasebenzisa iProthokholi Yesimo Sesitifiketi Se-Inthanethi (OCSP) ukuze iqinisekise izitifiketi. Hlela i-&brandShortName; ukuze isebenzise i-OCSP kanje:">
+<!ENTITY disableOCSP.label "Ungayisebenzisi i-OCSP ukuqinisekisa isitifiketi">
+<!ENTITY certOCSP.label "Sebenzisa i-OCSP ukuqinisekisa kuphela izitifiketi ezisho ngqo i-OCSP ephakelwa yi-URL">
+<!ENTITY proxyOCSP.label "Sebenzisa i-OCSP ukuqinisekisa zonke izitifiketi ezisebenzisa le URL nesisayini:">
+<!ENTITY serviceURL.label "Insiza ye-URL:">
+<!ENTITY serviceURL.accesskey "I">
+<!ENTITY signingCA.label "Isisayini Esisabelayo:">
+<!ENTITY signingCA.accesskey "I">

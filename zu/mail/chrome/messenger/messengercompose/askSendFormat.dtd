@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "Umbuzo Wemeyili Ye-HTML">
+
+<!ENTITY recipient.label "Abanye abantu obathumelelayo ababaliwe njengabakwazi ukuthola imeyili ye-HTML.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Umyalezo wakho ungaguqulwa ube umbhalo ovamile ngaphandle kokulahlekelwa ukwaziswa.">
+<!ENTITY convertibleAltering.label "Umyalezo wakho ungaguqulwa ube umbhalo ovamile ngaphandle kokulahlekelwa ukwaziswa. Nokho, umbhalo ovamile ungase ubukeke uhlukile kunalokho okubone kukhompoza.">
+<!ENTITY convertibleNo.label "Nokho, usebenzise ukwakheka (ngokwesibonelo, imibala) okungeke kuguqulwe kube umbhalo ovamile.">
+
+<!ENTITY question.label "Ungathanda yini ukuguqula umyalezo ube umbhalo ovamile noma ufuna ukuwuthumela unjalo uyi-HTML?">
+
+<!ENTITY plainTextAndHtml.label "Thumela Kuwumbhalo Ovamile ne-HTML">
+<!ENTITY plainTextOnly.label "Thumela Kuwumbhalo Ovamile Kuphela">
+<!ENTITY htmlOnly.label "Thumela Kuyi-HTML Kuphela">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Thumela Kuwumbhalo Ovamile ne-HTML (okutuswayo)">
+<!ENTITY plainTextOnlyRecommended.label "Thumela Kuwumbhalo Ovamile Kuphela (okutuswayo)">
+<!ENTITY htmlOnlyRecommended.label "Thumela Kuyi-HTML Kuphela (okutuswayo)">
+<!ENTITY recommended.label "(okutuswayo)">
+
+<!ENTITY send.label "Thumela">
+<!ENTITY cancel.label "Khansela">
+<!ENTITY recipients.label "Abathunyelelwayo...">
+<!ENTITY help.label "Usizo">

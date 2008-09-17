@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Ukwaziswa Kokusefiwe">
+<!ENTITY viewLogInfo.text "Ilogi Yezisefo ibhala izisefo ebezisetshenziswa kule-akhawunti. Sebenzisa ibhokisi lokuphawula elingezansi ukuze ikwazi ukubhala okwenzakele.">
+<!ENTITY clearLog.label "Sula Umbhalo Wokwenzakele">
+<!ENTITY clearLog.accesskey "S">
+<!ENTITY enableLog.label "Yenze isebenze ilogi yokusefa">
+<!ENTITY enableLog.accesskey "Y">
+<!ENTITY closeLog.label "Vala">
+<!ENTITY closeLog.accesskey "l">

@@ -1,0 +1,22 @@
+<!ENTITY colorsDialog.title "Imibala">
+<!ENTITY window.width "38em">
+<!ENTITY window.macWidth "41em">
+
+<!ENTITY allowPagesToUse.label "Vumela amakhasi akhethe imibala yawo, kunokuba athathe le engiyikhethe ngenhla">
+<!ENTITY allowPagesToUse.accesskey "V">
+
+<!ENTITY color "Owokubhaliwe Nongemuva">
+<!ENTITY textColor.label "Umbhalo:">
+<!ENTITY textColor.accesskey "u">
+<!ENTITY backgroundColor.label "Ngemuva:">
+<!ENTITY backgroundColor.accesskey "n">
+<!ENTITY useSystemColors.label "Sebenzisa imibala ekhona">
+<!ENTITY useSystemColors.accesskey "e">
+
+<!ENTITY underlineLinks.label "Dwebela izixhumo">
+<!ENTITY underlineLinks.accesskey "d">
+<!ENTITY links "Imibala Yesixhumo">
+<!ENTITY linkColor.label "Izixhumo Ezingavakashelwa:">
+<!ENTITY linkColor.accesskey "e">
+<!ENTITY visitedLinkColor.label "Izixhumo Ezivakashelwayo:">
+<!ENTITY visitedLinkColor.accesskey "i">

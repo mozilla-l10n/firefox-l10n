@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Ukuze wonge isikhala kudiski, ungafaki ukwaziswa:">
+<!ENTITY doNotDownload.label "Ukuze wonge isikhala kudiski, ungafaki ukwaziswa okuzosetshenziswa kungaxhunyiwe ku-Inthaneti:">
+<!ENTITY offlineNewFolder.label "Lapho ngakha ama-folda amasha, wakhethe ukuba asebenze engaxhunyiwe ku-Inthaneti">
+<!ENTITY offlineNewFolder.accesskey "n">
+<!ENTITY offlineNotDownload.label "Imiyalezo engaphezu kwe-">
+<!ENTITY offlineNotDownload.accesskey "I">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "izinsuku">
+<!ENTITY daysOld.label "isinezinsuku ezingaka">
+<!ENTITY message.label "imiyalezo">
+<!ENTITY nntpNotDownloadRead.label "Funda imiyalezo">
+<!ENTITY nntpNotDownloadRead.accesskey "F">
+<!ENTITY nntpDownloadMsg.label "Imiyalezo engaphezu">
+<!ENTITY nntpDownloadMsg.accesskey "m">
+<!ENTITY retentionCleanup.label "Ukuze uthole isikhala kudiski, imiyalezo emidala ingacishwa unomphela">
+<!ENTITY retentionKeepMsg.label "Cima imiyalezo engaphezu">
+<!ENTITY retentionKeepMsg.accesskey "i">
+<!ENTITY retentionKeepAll.label "Ungayicishi noma imiphi imiyalezo">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepNew.label "Cisha konke kodwa ushiye okokugcina">
+<!ENTITY retentionKeepNew.accesskey "s">
+<!ENTITY retentionKeepUnread.label "Njalo cima funda imiyalezo">
+<!ENTITY retentionKeepUnread.accesskey "f">
+<!ENTITY nntpRemoveBody.label "Imiyalezo emumethe ngaphansi kwe-">
+<!ENTITY nntpRemoveBody.accesskey "I">
+<!ENTITY offlineSelectNntp.label "Khetha amaqembu ezindaba azosebenza engaxhunyiwe ku-Inthaneti...">
+<!ENTITY offlineSelectImap.label "Khetha ama-folda azosetshenziswa engaxhunyiywe ku-Inthaneti...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "Ungafaka imiyalezo yakho endaweni yakho ukuze uyithole lapho usebenza ingaxhunyiwe ku-Internet.">
+<!ENTITY makeInboxMsgsAvailable.label "Yenza imiyalezo Engenayo itholakale umangingaxhunyiwe ku-Inthaneti">
+<!ENTITY makeInboxMsgsAvailable.accesskey "n">
+<!ENTITY offlineGroupTitle.label "Ngaphandle Kwe-Inthanethi">
+<!ENTITY diskspaceGroupTitle.label "Isikhala Esingenalutho Kwidiski">

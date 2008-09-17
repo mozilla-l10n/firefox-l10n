@@ -1,0 +1,13 @@
+<!ENTITY notificationsDialog.title "Umsindo Omusha Weposi">
+<!ENTITY window.width "30em">
+
+<!ENTITY soundNotification.caption "Hlela Umsindo Weposi Elisha">
+<!ENTITY preview.label "Yizwa Umsindo">
+<!ENTITY preview.accesskey "z">
+<!ENTITY systemsound.label "Umsindo Wesistimu Weposi Elisha">
+<!ENTITY systemsoundMac.label "Umsindo Wesistimu Wokuqwashisa">
+<!ENTITY systemsound.accesskey "m">
+<!ENTITY customsound.label "Yenza Okuthandayo ifayela ye-.wav">
+<!ENTITY customsound.accesskey "Y">
+<!ENTITY browse.label "Bheka...">
+<!ENTITY browse.accesskey "B">

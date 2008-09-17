@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Ukuthunyelelwa kweRSS">
+<!ENTITY subscriptionDesc.label "Phawula: Ukususa noma ukushintsha ifolida ukuze uphakele ngeke kuzithinte izinto ezithathwe zafakwa esikhathini esidlule.">
+<!ENTITY feedTitle.label "Isihloko:">
+<!ENTITY location.label "Indawo:">
+
+<!ENTITY button.addFeed.label "Nezela">
+<!ENTITY button.addFeed.accesskey "N">
+<!ENTITY button.editFeed.label "Lungisa">
+<!ENTITY button.editFeed.accesskey "L">
+<!ENTITY button.removeFeed.label "Susa">
+<!ENTITY button.removeFeed.accesskey "S">
+<!ENTITY button.importOPML.label "Yamukela">
+<!ENTITY button.importOPML.accesskey "Y">
+<!ENTITY button.exportOPML.label "Khipha">
+<!ENTITY button.exportOPML.accesskey "H">
+
+<!ENTITY cmd.close.commandKey "w">

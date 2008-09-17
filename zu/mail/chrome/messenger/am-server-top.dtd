@@ -1,0 +1,94 @@
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY securitySettings.label "Izinhlelo Zokulondeka">
+<!ENTITY serverSettings.label "Ukuhlelwa Kwesiphakeli">
+<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
+<!ENTITY popServer.label "Isiphakeli Seposi Se-POP">
+<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
+<!ENTITY imapServer.label "Isiphakeli Seposi Se-IMAP">
+<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
+<!ENTITY newsServer.label "Iseva Yezindaba (NNTP)">
+<!ENTITY webmail.label "I-Akhawunti Yeposi le-Internet">
+<!ENTITY serverType.label "Uhlobo Lweseva:">
+<!ENTITY serverName.label "Igama Lesiphakeli:">
+<!ENTITY serverName.accesskey "I">
+<!ENTITY userName.label "Igama Loyisebenzisayo:">
+<!ENTITY userName.accesskey "L">
+<!ENTITY port.label "Iphothi:">
+<!ENTITY port.accesskey "I">
+<!ENTITY serverPortDefault.label "Okwakhona:">
+<!ENTITY savePassword.label "Gcina igama lokungena">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
+<!ENTITY biffStart.label "Hlola imiyalezo emisha yonke ">
+<!ENTITY biffStart.accesskey "l">
+<!ENTITY biffEnd.label "amaminithi">
+<!ENTITY isSecure.label "Sebenzisa ukuxhuma okulondekile (SSL)">
+<!ENTITY isSecure.accesskey "S">
+<!ENTITY socketType.label "Sebenzisa ukuxhuma okulondekile:">
+<!ENTITY neverSecure.label "Ungalokothi">
+<!ENTITY neverSecure.accesskey "U">
+<!ENTITY sometimesSecure.label "TLS, uma kukhona">
+<!ENTITY sometimesSecure.accesskey "k">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSSL.label "SSL">
+<!ENTITY alwaysSSL.accesskey "L">
+<!ENTITY useSecAuth.label "Sebenzisa isiqinisekiso esilondekile">
+<!ENTITY useSecAuth.accesskey "s">
+<!ENTITY leaveOnServer.label "Shiya imiyalezo kuseva">
+<!ENTITY leaveOnServer.accesskey "z">
+<!ENTITY headersOnly.label "Thatha izihloko zaphezulu kuphela">
+<!ENTITY headersOnly.accesskey "t">
+<!ENTITY deleteByAgeFromServer.label "Okungenani">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "izinsuku">
+<!ENTITY deleteOnServer.label "Kuze kube yilapho mina ngicima noma ngikususa ebhokisini leposi elingenayo">
+<!ENTITY deleteOnServer.accesskey "m">
+<!ENTITY downloadOnBiff.label "Faka ngokuzenzakalelayo imiyalezo emisha">
+<!ENTITY downloadOnBiff.accesskey "z">
+<!ENTITY hostname.label "Iseva Yegama Lokunika Indawo">
+<!ENTITY username.label "Igama Lakho Lokungena">
+<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
+<!ENTITY popServerTitle.label "Ukwaziswa Kweseva iPOP">
+<!ENTITY deleteMessagePrefix.label "Lapho ngicima umyalezo:">
+<!ENTITY deleteMessagePrefix.accesskey "L">
+<!ENTITY modelMoveToTrash.label "Kuyise ku-Folda Yokulahlwayo">
+<!ENTITY modelMarkDeleted.label "Kuphawule ngokuthi okucinyiwe">
+<!ENTITY modelDeleteImmediately.label "Kususe ngokushesha">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Susa (&quot;Cima&quot;) Ibhokisi Leposi elingenayo lapho">
+<!ENTITY expungeOnExit.accesskey "C">
+<!ENTITY emptyTrashOnExit.label "Khipha Okusemgqonyeni Lapho Uphuma">
+<!ENTITY emptyTrashOnExit.accesskey "p">
+<!ENTITY loginAtStartup.label "Hlola imiyalezo emisha lapho uqala">
+<!ENTITY loginAtStartup.accesskey "H">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+	 of messages between them
+-->
+<!ENTITY maxMessagesStart.label "Ngibuze ngaphambi kokuba ufake">
+<!ENTITY maxMessagesStart.accesskey "n">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "imiyalezo">
+<!ENTITY alwaysAuthenticate.label "Njalo cela isiqinisekiso lapho uxhuma kuleseva">
+<!ENTITY alwaysAuthenticate.accesskey "j">
+<!ENTITY newsrcFilePath.label "newsrc ifayela:">
+<!ENTITY newsrcFilePath.accesskey "i">
+<!ENTITY localPath.label "Isiqondiso sakuleyo ndawo:">
+<!ENTITY localPath.accesskey "I">
+<!ENTITY abbreviate.label "Bonisa amagama amaqembu ezindaba ku-Folda Yeposi ngokuthi:">
+<!ENTITY abbreviateOn.label "Amagama aphelele (Ngokwesibonelo, 'inetscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Fushanisa amagama (Ngokwesibonelo, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Okuthuthukile...">
+<!ENTITY serverDefaultCharset.label "Ukubhala Uhlamvu Ngekhodi Kwakhona:">
+<!ENTITY advancedButton.accesskey "u">
+<!ENTITY localFolderPicker.label "Khetha Isiqondiso Sakuleyo Ndawo">
+<!ENTITY browseFolder.label "Bheka...">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY newsrcPicker.label "Khetha Ifayela le-newsrc">
+<!ENTITY browseNewsrc.label "Bheka...">
+<!ENTITY browseNewsrc.accesskey "a">

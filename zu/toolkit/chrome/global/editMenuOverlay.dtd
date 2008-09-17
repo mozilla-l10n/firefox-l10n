@@ -1,0 +1,31 @@
+<!ENTITY editMenu.label "Lungisa">
+<!ENTITY editMenu.accesskey "l">
+<!ENTITY undoCmd.label "Susa Okwenzile">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "s">
+<!ENTITY redoCmd.label "Buyisela okususile">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "b">
+<!ENTITY cutCmd.label "Sika">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "a">
+<!ENTITY copyCmd.label "Kopisha">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Namathisela">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY deleteCmd.label "Cisha">
+<!ENTITY deleteCmd.accesskey "c">
+<!ENTITY selectAllCmd.label "Khetha Konke">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "k">
+<!ENTITY findCmd.label "Thola">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "T">
+<!ENTITY findAgainCmd.label "Phinda Uthole">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findAgainCmd.accesskey "t">
+<!ENTITY findPreviousCmd.label "Thola Okwandulelayo">
+<!ENTITY findPreviousCmd.accesskey "a">

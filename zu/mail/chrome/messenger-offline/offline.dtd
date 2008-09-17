@@ -1,0 +1,15 @@
+<!ENTITY offlineMenu.label "Ngaphandle Kwe-Inthanethi">
+<!ENTITY offlineMenu.accesskey "k">
+<!ENTITY synchronizeOfflineCmd.label "Thathufake/Uvumelanise Manje...">
+<!ENTITY synchronizeOfflineCmd.accesskey "U">
+<!ENTITY settingsOfflineCmd.label "Ukuhlelwa Kwangaphandle Kwe-Inthanethi...">
+<!ENTITY settingsOfflineCmd.accesskey "a">
+<!ENTITY downloadSelectedCmd.label "Thola Imiyalezo Ekhethiwe">
+<!ENTITY downloadSelectedCmd.accesskey "E">
+<!ENTITY downloadStarredCmd.label "Get Starred Messages">
+<!ENTITY downloadStarredCmd.accesskey "a">
+
+<!ENTITY prefOfflineConnection.label "Ukuhlelwa Nokuxhunywa Kwangaphandle Kwe-inthaneti">
+<!ENTITY prefOfflineDesc.label "Qondisa ukuhlelwa kwangaphandle kwe-inthaneti.">
+<!ENTITY prefOfflineButton.label "Ukuhlelwa Kwangaphandle Kwe-Inthanethi...">
+<!ENTITY prefOfflineButton.accesskey "U">

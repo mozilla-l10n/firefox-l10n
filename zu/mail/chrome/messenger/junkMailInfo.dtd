@@ -1,0 +1,7 @@
+<!ENTITY window.title "Iposi Elingenanzuzo">
+<!ENTITY window.width "450">
+<!ENTITY info1a.label "i&brandShortName; ngokuzenzakalelyo ibona imiyalezo engenayo ebonakala iyiposi elingenanzuzo (yaziwa nangokuthi i-spam). Imiyalezo i&brandShortName; ecabanga ukuthi ayinanzuzo izoveza i-icon yemiyalezo engenzuzo">
+<!ENTITY info1b.label ".">
+<!ENTITY info2.label "Okokuqala, kufanele uqeqeshe i&brandShortName; ukuba ikwazi ukubona umyalezo ongenanzuzo ngokusebenzisa inkinobho eku-toolbar Yomyalezo Ongenanzuzo ukuba iphawule imiyalezo ngokuthi engenanzuzo noma enenzuzo.">
+<!ENTITY info3.label "Lapho i&brandShortName; isikwazi ukubona kahle iposi elingenanzuzo; ungakwazi ukusebenzisa Izindlela Zokulawula Iposi Elingenanzuzo ukuba ngokuzenzakalelayo imiyalezo efikayo engenanzuzo ivele iye ku-folder yemiyalezo enjalo.">
+<!ENTITY info4.label "Ukuze uthole ukwaziswa okwengeziwe, chafaza elithi Siza.">

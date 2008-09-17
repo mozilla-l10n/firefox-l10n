@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Printa">
+
+<!ENTITY printDialog.title "Printa">
+
+<!ENTITY fpDialog.title "Gcina Ifayela">
+
+<!ENTITY fileCheck.label "Printela Efayeleni">
+<!ENTITY propertiesButton.label "Izici...">
+<!ENTITY descText.label "Incazelo Yesinyathelisi:">
+<!ENTITY printer.label "Isinyathelisi">
+<!ENTITY printerInput.label "Igama Lesinyathelisi:">
+
+<!ENTITY printrangeGroup.label "Ukuhluka ko Nyathelisa">
+<!ENTITY allpagesRadio.label "Wonke Amakhasi">
+<!ENTITY rangeRadio.label "Amakhasi">
+<!ENTITY frompageInput.label "kuvela">
+<!ENTITY topageInput.label "iya">
+<!ENTITY selectionRadio.label "Ukukhetha">
+
+<!ENTITY copies.label "Amakhophi">
+<!ENTITY numCopies.label "Inani lamakhophi:">
+
+<!ENTITY printframeGroup.label "Izinhlaka Zokuprinta">
+<!ENTITY aslaidoutRadio.label "Njengoba zibekwe kwisikrini">
+<!ENTITY selectedframeRadio.label "Uhlaka olukhethiwe">
+<!ENTITY eachframesepRadio.label "Izinhlaka ngokwehlukana">
+

@@ -1,0 +1,13 @@
+<!ENTITY untitledTab "(Akunasihloko)">
+<!ENTITY newTab.label "Isigqebhe Esisha">
+<!ENTITY newTab.accesskey "I">
+<!ENTITY closeTab.label "Vala Isigqebhe">
+<!ENTITY closeTab.accesskey "v">
+<!ENTITY closeOtherTabs.accesskey "e">
+<!ENTITY closeOtherTabs.label "Vala Ezinye Izigqebhe">
+<!ENTITY reloadAllTabs.label "Layisha Futhi Zonke Izigqebhe">
+<!ENTITY reloadAllTabs.accesskey "Z">
+<!ENTITY reloadTab.label "Layisha Isigqebhe Futhi">
+<!ENTITY reloadTab.accesskey "l">
+<!ENTITY newTabButton.tooltip "Vula isigqebhe esisha">
+<!ENTITY listAllTabs.label "List all tabs">

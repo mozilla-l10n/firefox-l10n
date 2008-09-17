@@ -1,0 +1,30 @@
+<!ENTITY window.width "36em">
+
+<!ENTITY cookiesonsystem.label "La makukizi alandelayo agcinwe kukhompyutha yakho:">
+<!ENTITY cookiename.label "Igama Lekukizi">
+<!ENTITY cookiedomain.label "Ingosi">
+<!ENTITY button.removecookie.label "Susa Ikukizi">
+<!ENTITY button.removecookie.accesskey "S">
+<!ENTITY button.removeallcookies.label "Susa Wonke Amakukizi">
+<!ENTITY button.removeallcookies.accesskey "W">
+
+<!ENTITY props.name.label "Igama:">
+<!ENTITY props.value.label "Okuqukethwe:">
+<!ENTITY props.domain.label "Umxhumi:">
+<!ENTITY props.path.label "Umzila:">
+<!ENTITY props.secure.label "Thumelela U-:">
+<!ENTITY props.expires.label "Iphelelwa isikhathi:">
+
+<!ENTITY window.title "Uhide Lokwaziswa">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Funa:">
+<!ENTITY filter.accesskey "F">
+<!ENTITY clear.label "Sula">
+<!ENTITY clear.accesskey "u">
+
+<!ENTITY button.close.label "Vala">
+<!ENTITY button.close.accesskey "V">
+

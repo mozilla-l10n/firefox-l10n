@@ -1,0 +1,20 @@
+<!ENTITY sanitizeDialog.title "Sula Ukwaziswa Kwangasese">
+
+<!ENTITY clearDataSettings.label "When I ask &brandShortName; to clear my private data, it should erase:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+
+
+<!ENTITY itemHistory.label "Umlando Wokubheka">
+<!ENTITY itemHistory.accesskey "U">
+<!ENTITY itemFormData.label "Ifomu Lokwaziswa Eligciniwe">
+<!ENTITY itemFormData.accesskey "L">
+<!ENTITY itemPasswords.label "Amagama Okungena Agciniwe">
+<!ENTITY itemPasswords.accesskey "O">
+<!ENTITY itemCookies.label "Uhide Lokwaziswa">
+<!ENTITY itemCookies.accesskey "U">
+<!ENTITY itemCache.label "Inqolobane">
+<!ENTITY itemCache.accesskey "n">
+<!ENTITY itemDownloads.label "Umlando Wokuthatha Ukwaziswa Ukufake">
+<!ENTITY itemDownloads.accesskey "U">
+<!ENTITY itemSessions.label "Izinkathi Eziqinisekisiwe">
+<!ENTITY itemSessions.accesskey "E">

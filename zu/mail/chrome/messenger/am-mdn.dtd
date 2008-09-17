@@ -1,0 +1,27 @@
+<!ENTITY pane.title "Isiqinisekiso Sokuthi Kwamukelwe">
+<!ENTITY useGlobalPrefs.label "Kule-akhawunti sebenzisa uhlelo engilukhethile olusebenza kuwo wonke amafayela lesiqinisekiso sokuthi kwamukelwe">
+<!ENTITY useGlobalPrefs.accesskey "K">
+<!ENTITY useCustomPrefs.label "Kule-akhawunti yenza isiqinisekiso sokuthi kuwamukelwe senze okufanayo njalo">
+<!ENTITY useCustomPrefs.accesskey "K">
+<!ENTITY requestReceipt.label "Lapho uthumela imiyalezo, njalo cela isiqinisekiso sokuthi wamukelwe">
+<!ENTITY requestReceipt.accesskey "L">
+<!ENTITY receiptArrive.label "Lapho isiqinisekiso sifika:">
+<!ENTITY leaveIt.label "Kushiye eBhokisini lami Lemiyalezo Efikayo">
+<!ENTITY leaveIt.accesskey "E">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label "Liyise kwifolda yami &quot;Yezithunyelwe&quot;">
+<!ENTITY moveToSent.accesskey "L">
+<!ENTITY requestMDN.label "Lapho ngithola isicelo sokuthumela isiqinisekiso sokuthi kwamukelwe:">
+<!ENTITY returnSome.label "Vumela iziqinisekiso zokuthi wamukelwe zeminye imiyalezo">
+<!ENTITY returnSome.accesskey "a">
+<!ENTITY never.label "Ungalokothi uthumele isiqinisekiso sokuthi kwamukelwe">
+<!ENTITY never.accesskey "U">
+<!ENTITY notInToCc.label "Uma ngingekho esikhaleni esithi Uya noma Cc somyalezo:">
+<!ENTITY notInToCc.accesskey "U">
+<!ENTITY outsideDomain.label "Uma umthumeli engaphandle kwendawo yami elawulwayo:">
+<!ENTITY outsideDomain.accesskey "u">
+<!ENTITY otherCases.label "Kuzo zonke ezinye izimo:">
+<!ENTITY otherCases.accesskey "e">
+<!ENTITY askMe.label "Ngibuze">
+<!ENTITY alwaysSend.label "Njalo thumela">
+<!ENTITY neverSend.label "Ungalokothi uthumele">

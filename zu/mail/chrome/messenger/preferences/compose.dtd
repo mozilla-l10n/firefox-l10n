@@ -1,0 +1,60 @@
+<!ENTITY itemGeneral.label "Okuvamile">
+<!ENTITY itemAutoComplete.label "Ifaka Ikheli">
+<!ENTITY itemSpellCheck.label "Ukubhalwa Kwamagama">
+<!ENTITY itemSendFormat.label "Ukwakheka KokuThumela">
+
+<!ENTITY forwardReply.label "Idlulisa imiyalezo">
+<!ENTITY forwardMsg.label "Dlulisa imiyalezo:">
+<!ENTITY forwardMsg.accesskey "d">
+<!ENTITY inline.label "Ku-Inthanethi">
+<!ENTITY inline.accesskey "K">
+<!ENTITY asAttachment.label "Njengokufakiwe">
+<!ENTITY asAttachment.accesskey "N">
+
+<!ENTITY sendingMessagesHeader.label "Yakha Imiyalezo">
+<!ENTITY spellCheck.label "Bheka ukupeletwa ngaphambi kokuthumela">
+<!ENTITY spellCheck.accesskey "B">
+<!ENTITY spellCheckInline.label "Enable spell check as you type">
+<!ENTITY spellCheckInline.accesskey "n">
+<!ENTITY languagePopup.label "Ulimi:">
+<!ENTITY languagePopup.accessKey "m">
+<!ENTITY downloadDictionaries.label "Thathufake Izichazamazwi Ezengeziwe">
+
+<!ENTITY useMIME.label "Emiyalezweni enezinhlamvu ezingu-8-bit, sebenzisa ukuguqulela emakhodini kweMIME 'eshicilela okucashuniwe'">
+<!ENTITY useMIME.accesskey "m">
+<!ENTITY warnOnSendAccelKey.label "Qinisekisa lapho usebenzisa isinqamulelo sekhibhodi ukuthumela umyalezo">
+<!ENTITY warnOnSendAccelKey.accesskey "k">
+<!ENTITY autoSave.label "Gcina konke ngokuzenzakalelayo">
+<!ENTITY autoSave.accesskey "c">
+<!ENTITY autoSaveEnd.label "amaminithi">
+<!ENTITY autoSaveEnd.accesskey "a">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "Songa imiyalezo yombhalo ovamile ngemva">
+<!ENTITY wrapOutMsg.accesskey "m">
+<!ENTITY char.label "kwezinhlamvu">
+
+<!ENTITY emailCollectionPicker.label "Zenezelele amakhali ama-email aphumayo e:">
+<!ENTITY emailCollectionPicker.accesskey "n">
+<!ENTITY addressingTitle.label "Ukuqedela Ikheli Okuzenzakalelayo">
+<!ENTITY autocompleteText.label "Uma ufaka amakheli emiyalezweni, funa afanayo e:">
+<!ENTITY addressingEnable.label "Ezincwadini Zamakheli Endawo">
+<!ENTITY addressingEnable.accesskey "Z">
+<!ENTITY directories.label "Isiphakeli Sencwadi Yohlu:">
+<!ENTITY directories.accesskey "I">
+<!ENTITY editDirectories.label "Lungisa Iziqondiso...">
+<!ENTITY editDirectories.accesskey "L">
+<!ENTITY matchText.label "Uma likhona elifanayo zakho zamakheli zendawo:">
+<!ENTITY skipDirectory.label "Ungafuni encwadini yohlu">
+
+<!ENTITY sendOptionsCaption.label "Thumela kanye nongaKhetha Kukho kweHTML">
+<!ENTITY sendOptionsDescription.label "Hlela okuzokwenziwa isimo sombhalo">
+<!ENTITY sendOptions.label "Izindlela Zokuthumela Ongakhetha Kuzo...">
+<!ENTITY sendOptions.accesskey "I">
+
+<!ENTITY htmlComposeDescription.label "Hlela ongakhetha kukho kweHTML yakhona">
+<!ENTITY htmlCompose.label "Ongakhetha Kukho KweHTML...">
+<!ENTITY htmlCompose.accesskey "O">
+
+<!ENTITY returnReceiptsInfo.label "Nquma indlela i&brandShortName; esingatha ngayo okwamukelwe okubuyile">
+<!ENTITY showReturnReceipts.label "Okwamukelwe Okubuyile...">
+<!ENTITY showReturnReceipts.accesskey "O">

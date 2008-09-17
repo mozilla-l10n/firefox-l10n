@@ -1,0 +1,26 @@
+<!ENTITY no-properties.label "Azikho izici ezihleliwe.">
+
+<!ENTITY caption.label "Izici zama-elementi">
+<!ENTITY image-sec.label "Izici Zesithombe">
+<!ENTITY image-url.label "Indawo:">
+<!ENTITY image-desc.label "Incazelo:">
+<!ENTITY image-alt.label "Umbhalo ohlukile:">
+<!ENTITY image-width.label "Ububanzi:">
+<!ENTITY image-height.label "Ukuphakama:">
+<!ENTITY image-filesize.label "Ubukhulu Befayeli:">
+<!ENTITY insdel-sec.label "Jobelela/Cima Izici">
+<!ENTITY insdel-cite.label "Ukwaziswa:">
+<!ENTITY insdel-date.label "Usuku:">
+<!ENTITY link-sec.label "Izici Zesixhumo">
+<!ENTITY link-url.label "Ikheli:">
+<!ENTITY link-target.label "Izovula e-:">
+<!ENTITY link-type.label "Uhlobo Oluhlosiwe:">
+<!ENTITY link-lang.label "Ulimi olufunwayo:">
+<!ENTITY link-rel.label "Ukuhlobana:">
+<!ENTITY link-rev.label "Ukuhlobana ngokolunye uhlangothi:">
+<!ENTITY misc-sec.label "Izici Ezixubile">
+<!ENTITY misc-lang.label "Ulimi okubhalwe ngalo:">
+<!ENTITY misc-title.label "Isihloko:">
+<!ENTITY misc-tblsummary.label "Itafula Lokufingqiwe:">
+<!ENTITY quote-sec.label "Izici Ezizosuswa">
+<!ENTITY quote-cite.label "Ukwaziswa:">

@@ -1,0 +1,85 @@
+<!ENTITY updateWizard.title "Ukufakela Okwamuva Ohlakeni Olusetshenziswayo">
+
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+
+<!ENTITY checking.title "Ihlola Okufakwe Muva">
+<!ENTITY checking.label "&brandShortName; manje lihlola ukulungiswa...">
+
+<!ENTITY cancel.label "Khansela">
+<!ENTITY cancel.accesskey "K">
+
+<!ENTITY noupdatesfound.title "Akukho Okufakelwe Muva Okutholakele">
+<!ENTITY noupdatesfound.intro "There are no new updates available. &brandShortName; may check 
+                                           periodically for new updates.">
+
+<!ENTITY updatesfound.title "Kukhona ukulungiswa">
+
+<!ENTITY moreDetails.label "Eminye imininingwane &#0187;">
+<!ENTITY moreDetails.accesskey "E">
+<!ENTITY clickHere.label "Bheka okunye ukwaziswa ngalokhu kulungiswa">
+
+<!ENTITY incompatible.warning "This update will cause some of your extensions and/or themes 
+                                           to stop working until they are updated.">
+<!ENTITY listIncompatible.label "Bonisa Uhlu">
+<!ENTITY listIncompatible.accesskey "U">
+
+<!ENTITY upgrade.evangelism "It is strongly recommended that you upgrade &brandShortName; 
+                                           as soon as possible.">
+
+<!ENTITY license.title "Isivumelwano Selayisensi">
+<!ENTITY license.intro "To install this update you must agree to this license agreement. 
+                                           Please read it carefully:">
+<!ENTITY license.instructions "If you agree to the terms of this agreement, click I Agree 
+                                           below to continue installing this update.">
+
+<!ENTITY license.titleText "Software License Agreement">
+<!ENTITY license.introText "Terms and conditions for using this software.">
+<!ENTITY license.instructionText "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
+<!ENTITY license.accept "I accept the terms of the License Agreement">
+<!ENTITY license.accept.accesskey "c">
+<!ENTITY license.decline "I do NOT accept the terms of the License Agreement">
+<!ENTITY license.decline.accesskey "T">
+
+<!ENTITY downloading.title "Ithatha ukulungiswa iyakufaka">
+<!ENTITY downloading.intro "Ithatha loku kulungiswa iyakufaka...">
+<!ENTITY connecting.label "Ixhuma kuseva yokulungiswa...">
+<!ENTITY verificationFailedText.label "&brandShortName; was unable to verify the integrity of the 
+                                           incremental update it downloaded, so it is now downloading
+                                           the complete update package.">
+
+<!ENTITY details.link "Imininingwane">
+<!ENTITY pause.label "Yima kancane">
+<!ENTITY pause.accesskey "e">
+<!ENTITY close.label "Vala">
+<!ENTITY close.accesskey "V">
+
+<!ENTITY error.label "There were problems checking for, downloading or installing this 
+                                           update. &brandShortName; could not be updated because:">
+                                           
+<!ENTITY errorManual.label "You can update &brandShortName; manually by visiting this link
+                                           and downloading the latest version:">
+                                           
+<!ENTITY errorpatching.title "Ukulungiswa Kuhlulekile">
+<!ENTITY errorpatching.intro "The partial Update could not be applied. 
+                                           &brandShortName; will try again by downloading a complete Update.">
+
+<!ENTITY finished.title "Ukulungiswa kuthathwe kwafakwa">
+<!ENTITY finished.text "The update was successfully downloaded and verified, and it will
+                                           be installed the next time &brandShortName; starts.">
+
+<!ENTITY finishedBackground.title "Ukulungiswa Sekulungele Ukufakelwa">
+<!ENTITY finishedBackground.text "&brandShortName; has downloaded and verified an important update. 
+                                           Click the link below for more details.">
+<!ENTITY finishedBackground.name "Ukulungiswa:">
+<!ENTITY finishedBackground.more1 "Click Restart &brandShortName; Now to install the update now.">
+<!ENTITY finishedBackground.more2 "Click Later to close this dialog and continue working. &brandShortName;
+                                           will install the update the next time it starts.">
+
+<!ENTITY installed.title "Ukulungiswa Kufakelwe">
+<!ENTITY installed.intro "Ukulungiswa kufakelwe ngempumelelo.">
+<!ENTITY whatsnew.label "Funda okuningi ngokusha...">
+
+<!ENTITY update.details.label "Imininingwane">
+<!ENTITY update.installedOn.label "Kufakelwe mhlaka:">
+<!ENTITY update.status.label "Isimo:">

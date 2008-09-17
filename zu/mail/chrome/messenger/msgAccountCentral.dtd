@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label "I-imeyili">
+<!ENTITY readMsgsLink.label "Funda imiyalezo">
+<!ENTITY composeMsgLink.label "Bhala umyalezo omusha">
+
+<!ENTITY newsSectionHdr.label "Amaqembu Ezindaba">
+<!ENTITY subscribeNewsLink.label "Qondisa ukukhokhelwa kweqembu lezindaba">
+
+<!ENTITY accountsSectionHdr.label "Ama-akhawunti">
+<!ENTITY subscribeImapFolders.label "Qondisa ukukhokhelwa kwe-folder">
+<!ENTITY settingsLink.label "Bheka uhlelo lwale-akhawunti">
+<!ENTITY newAcctLink.label "Vula i-akhawunti entsha">
+
+<!ENTITY advFeaturesSectionHdr.label "Izici Ezithuthukisiwe">
+<!ENTITY searchMsgsLink.label "Funa imiyalezo">
+<!ENTITY filtersLink.label "Qondisa izisefo zemiyalezo">
+<!ENTITY junkSettings.label "Uhlelo lweposi elilahlwayo">
+<!ENTITY offlineLink.label "Uhlelo Olungaxhunyiwe ku-inthaneti">
+
+
+<!ENTITY rssSectionHdr.label "Izindaba Ze-RSS &amp; ama-Blog">
+<!ENTITY subscibeRSS.label "Qondisa ukukhokhelwa">

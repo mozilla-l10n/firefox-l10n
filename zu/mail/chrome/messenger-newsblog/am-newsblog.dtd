@@ -1,0 +1,20 @@
+<!ENTITY newsblogTitle.label "Ukuhlelwa Kwe-akhawunti iRSS">
+
+<!ENTITY biffStart.label "Bheka izinto ezintsha njalo ngemva kwe ">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "amaminithi">
+
+<!ENTITY loginAtStartup.label "Bheka izinto ezintsha lapho uqala">
+<!ENTITY loginAtStartup.accesskey "B">
+
+<!ENTITY useQuickMode.label "Ngokokwakhona, veza leyonto ngamafuphi esikhundleni sokulayisha ikhasi le-internet">
+<!ENTITY useQuickMode.accesskey "N">
+
+<!ENTITY manageSubscriptions.label "Qondisa Ukuthunyelelwa...">
+<!ENTITY manageSubscriptions.accesskey "Q">
+<!-- entities from defaults/isp/rss.rdf -->
+
+<!ENTITY rss.accountName "Izindaba &amp; ama-blog">
+<!ENTITY rss.wizardShortName "I-RSS">
+<!ENTITY rss.wizardLongName "Izindaba Ze-RSS &amp; ama-Blog">
+<!ENTITY rss.hostName "Izindaba &amp; ama-blog">

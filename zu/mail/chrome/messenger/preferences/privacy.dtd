@@ -1,0 +1,61 @@
+<!ENTITY itemGeneral.label "Okuvamile">
+<!ENTITY itemJunk.label "Junk">
+<!ENTITY itemPhishing.label "Ama-Email Mbumbulu">
+<!ENTITY itemPasswords.label "Amagama Okungena">
+<!ENTITY itemAntiVirus.label "Okula Namagciwane">
+<!ENTITY itemSecurity.label "Ukulondeka">
+
+<!ENTITY disableImageInMailNews.label "Ukulayishwa nge-Block kwezithombe ezikude emiyalezweni yeposi">
+<!ENTITY disableImageInMailNews.accesskey "U">
+<!ENTITY allowRemoteImagesForFriends.label "Zivumele izithombe ezikude uma umthumeli ekuyi:">
+<!ENTITY allowRemoteImagesForFriends.accesskey "Z">
+<!ENTITY enbJsCheckMailNews.label "Vimba JavaScript emiyalezweni yeposi">
+<!ENTITY enbJsCheckMailNews.accesskey "J">
+<!-- Junk Mail Controls -->
+
+<!ENTITY junkMail.intro "Set your default junk mail settings. Account specific junk mail settings can be configured in Account Settings.">
+<!ENTITY manualMark.label "When I mark messages as junk:">
+<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
+<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
+<!ENTITY markAsReadOnSpam.acesskey "k">
+<!ENTITY manualMarkModeDelete.label "Delete them">
+<!ENTITY enableJunkLogging.label "Enable junk filter logging">
+<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY openJunkLog.label "Show log">
+<!ENTITY openJunkLog.accesskey "h">
+<!ENTITY resetTrainingData.label "Reset Training Data">
+<!ENTITY resetTrainingData.accesskey "D">
+<!-- Phishing Detector -->
+
+<!ENTITY phishingDetector.intro "I-&brandShortName; ingahlaziya imiyalezo ukuze ithole iposi mbumbulu ngokubheka izindlela ezivamile zokukukhohlisa.">
+<!ENTITY enablePhishingDetector.label "Bheka imiyalezo yeposi ufune amaposimbumbulu">
+<!ENTITY enablePhishingDetector.accesskey "B">
+<!-- Passwords -->
+
+<!ENTITY savedPasswords.intro "I-&brandShortName; ingakhumbula ukwaziswa kwegama lokungena kuwo wonke ama-akhawunti akho ukuze kungadingeki ukuba uphinde ufake imininingwane yakho yokungena.">
+<!ENTITY encryptEnabled.label "Sebenzisa igama lokungena eliyinhloko ukuze ubhale ngamakhodi amagama okungena agciniwe">
+<!ENTITY encryptEnabled.accesskey "e">
+<!ENTITY masterPassword.intro "Uma lihleliwe, Igama Lokungena Eliphethe livikela wonke amagama akho okungena - kodwa kumelwe ulifake kanye inkathi ngayinye.">
+<!ENTITY setMasterPassword.label "Igama Lokungena Eliphethe">
+<!ENTITY setMasterPassword.accesskey "I">
+<!ENTITY removeMasterPassword.label "Susa Igama Lokungena Eliphethe...">
+<!ENTITY removeMasterPassword.accesskey "S">
+<!ENTITY viewPasswords.label "Bheka Amagama Okungena Agciniwe">
+<!ENTITY viewPasswords.accesskey "B">
+<!-- Security -->
+
+<!ENTITY certificates.label "Izitifiketi">
+<!ENTITY certificatesInfo.label "Phatha izitifiketi, izinhlu zokubuyisa, ukuqinisekiswa kwezitifiketi nezinto zokulondeka.">
+<!ENTITY viewCertificates.label "Bheka Izitifiketi">
+<!ENTITY viewCertificates.accesskey "h">
+<!ENTITY viewCRLs.label "Izinhlu Zokuhoxiswa">
+<!ENTITY viewCRLs.accesskey "z">
+<!ENTITY viewOCSP.label "Ukuqinisekisa">
+<!ENTITY viewOCSP.accesskey "i">
+<!ENTITY viewSecurityDevices.label "Amathuluzi Okulondeka">
+<!ENTITY viewSecurityDevices.accesskey "t">
+<!-- Anti Virus -->
+
+<!ENTITY antiVirus.intro "I-&brandShortName; ingakwenza kube lula ngohlaka olusetshenziswayo ukuba luhlaziye imiyalezo yeposi engenayo lufune amagciwane ngaphambi kokuba igcinwe ekhomputheni yakho.">
+<!ENTITY antiVirus.label "Vumela izintatheli ezilwa namagciwane ukuba zibeke eceleni umyalezo ngamunye ongenayo">
+<!ENTITY antiVirus.accesskey "u">

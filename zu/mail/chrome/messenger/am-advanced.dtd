@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Iseva Yokuhlelwa Kwezinto Eziphumayo (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "Nakuba ungase usho iseva engaphezu kweyodwa yezinto eziphumayo (SMTP), lena kutuswa ukuba isetshenziswe abantu asebethuthuke kakhulu. Ukuhlela amaseva amaningi e-SMTP kungadala amaphutha lapho kuthunyelwa imiyalezo.">
+
+<!ENTITY smtpListAdd.label "Nezela...">
+<!ENTITY smtpListAdd.accesskey "e">
+<!ENTITY smtpListEdit.label "Lungisa...">
+<!ENTITY smtpListEdit.accesskey "L">
+<!ENTITY smtpListDelete.label "Susa">
+<!ENTITY smtpListDelete.accesskey "s">
+<!ENTITY smtpListSetDefault.label "Yenza Kwenze Izinto Ngendlela Evamile">
+<!ENTITY smtpListSetDefault.accesskey "a">
+
+<!ENTITY serverDescription.label "Incazelo: ">
+<!ENTITY serverName.label "Igama Lesiphakeli: ">
+<!ENTITY serverPort.label "Iphothi: ">
+<!ENTITY userName.label "Igama Loyisebenzisayo: ">
+<!ENTITY useSecureConnection.label "Ukuxhuma Okulondekile: ">

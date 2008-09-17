@@ -1,0 +1,47 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "Emuva">
+<!ENTITY backButton.accesskey "E">
+<!ENTITY backButton.tooltip "Hlehla ngekhasi elilodwa">
+<!ENTITY forwardButton.label "Phambili">
+<!ENTITY forwardButton.accesskey "P">
+<!ENTITY forwardButton.tooltip "Yiya phambili ngekhasi elilodwa">
+<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "Ekhaya">
+<!ENTITY homeButton.tooltip "Yana ekhasini lokukusiza ukuba uqalise">
+<!ENTITY printButton.label "Printa">
+<!ENTITY printButton.tooltip "Printa leli khasi">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY throbberItem.title "Isikhomba-msebenzi">
+<!ENTITY throbber.tooltip "Thola usizo">
+
+<!ENTITY searchtab.label "Funa">
+<!ENTITY searchtab.accesskey "F">
+<!ENTITY toctab.label "Okuqukethwe">
+<!ENTITY toctab.accesskey "O">
+
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomResetCmd.commandkey "0">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "Inkombbe Phezulu Njalo">
+<!ENTITY zLevel.accesskey "N">
+
+<!ENTITY textZoomReduceBtn.label "Nciphisa Ubukhulu Bamagama">
+<!ENTITY textZoomReduceBtn.accesskey "N">
+<!ENTITY textZoomEnlargeBtn.label "Khulisa Ubukhulu Bamagama">
+<!ENTITY textZoomEnlargeBtn.accesskey "K">

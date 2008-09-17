@@ -1,0 +1,15 @@
+
+<!ENTITY history.title "Iwindi Elithuthukisiwe">
+<!ENTITY history.intro "Ukuthuthukisa okulandelayo kufakiwe:">
+<!ENTITY closebutton.label "Vala">
+                                     
+<!ENTITY detailsButton.label "Imininingwane">
+<!ENTITY detailsButton.accesskey "I">
+
+<!ENTITY noupdates.label "Akukho ukuthuthukisa okwenziwe">
+
+<!ENTITY name.header "Igama Elithuthukisiwe">
+<!ENTITY date.header "Faka Usuku">
+<!ENTITY type.header "Uhlobo">
+<!ENTITY state.header "Izwe">
+

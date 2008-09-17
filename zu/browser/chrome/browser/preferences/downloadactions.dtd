@@ -1,0 +1,32 @@
+<!ENTITY downloadactionsWindow.title "Izenzo Zokuthatha Ufake Ukwaziswa">
+<!ENTITY window.width "480">
+<!ENTITY window.height "310">
+
+<!ENTITY fileTypesDescription.label "Vele wenze Isenzo esihambisana nohlobo ngalunye lwamafayela alandelayo:">
+
+<!ENTITY fileHandlerColumn.label "Isenzo">
+<!ENTITY fileHandlerColumn.accesskey "I">
+<!ENTITY fileTypeColumn.label "Uhlobo Lwefayela">
+<!ENTITY fileTypeColumn.accesskey "L">
+<!ENTITY fileMIMETypeColumn.label "Uhlobo Lwe-MIME">
+<!ENTITY fileMIMETypeColumn.accesskey "U">
+<!ENTITY fileExtensionColumn.label "Isithasiselo">
+<!ENTITY fileExtensionColumn.accesskey "I">
+
+<!ENTITY remove.label "Susa Isenzo">
+<!ENTITY remove.accesskey "S">
+<!ENTITY edit.label "Shintsha Isenzo...">
+<!ENTITY edit.accesskey "S">
+
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Funa:">
+<!ENTITY filter.accesskey "F">
+<!ENTITY clear.label "Sula">
+<!ENTITY clear.accesskey "u">
+
+<!ENTITY button.close.label "Vala">
+<!ENTITY button.close.accesskey "l">
+

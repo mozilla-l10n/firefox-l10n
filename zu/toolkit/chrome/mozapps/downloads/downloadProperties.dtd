@@ -1,0 +1,7 @@
+<!ENTITY dateStarted.label "Lokuqala:">
+<!ENTITY dateEnded.label "Lokuqeda:">
+<!ENTITY window.title "Izici">
+<!ENTITY downloadedFrom.label "Kuvela:">
+<!ENTITY path.label "Kuya:">
+<!ENTITY acceptButton.label "Vala">
+<!ENTITY cmd.close.commandKey "w">

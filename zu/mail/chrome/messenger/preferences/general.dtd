@@ -1,0 +1,40 @@
+<!ENTITY generalSettings.caption "Ukuhlelwa Kokwakhona">
+<!ENTITY generalSettings.label "Yenza i&brandShortName; ibe iwindi lakhona le:">
+<!ENTITY setDefaultMailClient.label "Iposi">
+<!ENTITY setDefaultMailClient.accesskey "I">
+<!ENTITY setDefaultNewsClient.label "Izindaba">
+<!ENTITY setDefaultNewsClient.accesskey "I">
+<!ENTITY setDefaultFeedClient.label "Iziphakeli ze-RSS">
+<!ENTITY setDefaultFeedClient.accesskey "R">
+<!ENTITY checkDefaultMailClient.label "I&brandShortName; kufanele ibheke ukuthi iyiyo yini intatheli yeposi yakhona lapho iqala">
+<!ENTITY checkDefaultMailClient.accesskey "t">
+<!ENTITY defaultClientAdvanced.label "Okuthuthukile...">
+<!ENTITY defaultClientAdvanced.accesskey "k">
+
+<!ENTITY windowSettings.label "Ukuhlelwa Kwefasitela">
+<!ENTITY selectWindowLayout.label "Khetha ukuhlelwa kwefasitela okuthandayo ePosini.">
+<!ENTITY selectWindowLayout.accesskey "K">
+
+<!ENTITY messengerStartPage.label "I&brandShortName; iKhasi LokuQala">
+<!ENTITY enableStartPage.label "Lapho i&brandShortName; ivuleka, bonisa iKhasi lokuQala endimeni yemiyalezo">
+<!ENTITY enableStartPage.accesskey "L">
+<!ENTITY location.label "Indawo:">
+<!ENTITY location.accesskey "I">
+<!ENTITY useDefault.label "Buyisela Okwakhona">
+<!ENTITY useDefault.accesskey "B">
+
+<!ENTITY bounceSystemDockIcon.label "Nyakazisa isithombe esiku-dock">
+<!ENTITY bounceSystemDockIcon.accesskey "k">
+
+<!ENTITY newMessagesArrive.label "Uma kufika imiyalezo emisha:">
+<!ENTITY playSound.label "Dlala umsindo">
+<!ENTITY playSound.accesskey "D">
+<!ENTITY showAnimatedAlert.label "Boniso isiqwashiso">
+<!ENTITY showAnimatedAlert.accesskey "B">
+<!ENTITY soundbutton.label "Okuthuthukile...">
+<!ENTITY soundbutton.accesskey "O">
+
+<!ENTITY showConnections.label "Ukuhlelwa Kokuxhuma...">
+<!ENTITY showConnections.accesskey "k">
+<!ENTITY proxiesInfo.label "Nquma indlela i-&brandShortName; exhumana ngayo ne-Inthanethi.">
+<!ENTITY connectionsInfo.caption "Ukuxhuma">

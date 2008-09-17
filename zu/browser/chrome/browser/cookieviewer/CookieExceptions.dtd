@@ -1,0 +1,10 @@
+<!ENTITY window.title "Okuhlukile">
+<!ENTITY treehead.sitename.label "Ingosi">
+<!ENTITY treehead.status.label "Isimo">
+<!ENTITY addpermission.label "Ingosi Entsha">
+<!ENTITY removepermission.label "Susa Ingosi">
+<!ENTITY removeallpermissions.label "Susa Zonke Izingosi">
+<!ENTITY address.label "Ikheli lengosi yewebhu:">
+<!ENTITY block.label "Vimbela">
+<!ENTITY session.label "Vumela Kule Nkathi">
+<!ENTITY allow.label "Vumela">

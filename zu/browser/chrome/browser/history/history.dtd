@@ -1,0 +1,28 @@
+<!ENTITY find.label "Funa:">
+<!ENTITY find.accesskey "F">
+<!ENTITY expand.label "Yandisa">
+<!ENTITY expand.accesskey "Y">
+<!ENTITY collapse.label "Cishile">
+<!ENTITY collapse.accesskey "C">
+<!ENTITY byDate.label "Ngalolu Suku">
+<!ENTITY byDate.accesskey "S">
+<!ENTITY bySite.label "Ngale Ngosi">
+<!ENTITY bySite.accesskey "N">
+<!ENTITY view.label "Bheka">
+<!ENTITY view.accesskey "k">
+<!ENTITY byMostVisited.label "Ngalokhu Okuvakashelwa Kakhulu">
+<!ENTITY byMostVisited.accesskey "K">
+<!ENTITY byLastVisited.label "Ngokugcine Ukuvakashelwa">
+<!ENTITY byLastVisited.accesskey "U">
+<!ENTITY byDayAndSite.label "Ngalolu Suku nangale Ngosi">
+<!ENTITY byDayAndSite.accesskey "k">
+<!ENTITY openLinkInWindow.label "Vula">
+<!ENTITY openLinkInWindow.accesskey "V">
+<!ENTITY openInNewTab.label "Vula Kuthebhu Entsha">
+<!ENTITY openInNewTab.accesskey "E">
+<!ENTITY openInNewWindow.label "Vula Efasiteleni Elisha">
+<!ENTITY openInNewWindow.accesskey "E">
+<!ENTITY bookmarkLink.label "Phawula Lesi Sixhumo...">
+<!ENTITY bookmarkLink.accesskey "P">
+<!ENTITY copyLink.label "Kopisha Indawo Yesixhumo">
+<!ENTITY copyLink.accesskey "K">

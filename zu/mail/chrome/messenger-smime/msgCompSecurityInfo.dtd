@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Ukulondeka Komyalezo">
+<!ENTITY subject.plaintextWarning "Siza uphawule: Imigqa yezihloko yemiyalezo ye-email ayilokothi ibhalwe ngamakhodi.">
+<!ENTITY status.heading "Okuqukethwe umyalezo wakho kuzothunyelwa kanje:">
+<!ENTITY status.signed "Usayinwe ngezinombolo:">
+<!ENTITY status.encrypted "Kubhalwe ngamakhodi:">
+<!ENTITY status.certificates "Izitifiketi:">
+<!ENTITY view.label "Bheka">
+<!ENTITY view.accesskey "B">
+<!ENTITY tree.recipient "Umamukeli">
+<!ENTITY tree.status "Isimo">
+<!ENTITY tree.issuedDate "Ikhishwe">
+<!ENTITY tree.expiresDate "Uphelelwa Isikhathi">

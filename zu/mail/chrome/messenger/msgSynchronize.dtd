@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Faka Imiyalezo Bese Uyiqondanisa">
+<!ENTITY MsgSelect.label "Izinto ongazisebenzisa ungaxhunyiwe ku-Inthaneti">
+<!ENTITY MsgSyncDesc.label "Uma usuwakhethile kakade amafolda okuposa noma wamaqembu ezindaba ongawasebenzisa engaxhunyiwe ku-inthaneti, ungawafaka noma uwaqondanise manje. Uma kungenjalo, sebenzisa inkinobho &quot;Khetha&quot; ukuba ukhethe amafolda okuposa namaqembu ezindaba ongawasebenzisa ungaxhunyiwe ku-inthaneti.">
+<!ENTITY MsgSyncDirections.label "Faka Ukwaziswa futhi uqondanise lokhu okulandelayo:">
+<!ENTITY syncTypeMail.label "Thumela imiyalezo">
+<!ENTITY syncTypeMail.accesskey "T">
+<!ENTITY syncTypeNews.label "Imiyalezo Yamaqembu Ezindaba">
+<!ENTITY syncTypeNews.accesskey "I">
+<!ENTITY sendMessage.label "Thumela Imiyalezo Engathunyelwanga">
+<!ENTITY sendMessage.accesskey "T">
+<!ENTITY workOffline.label "Sebenza ungaxhunyiwe ku-Inthaneti lapho ukwaziswa sekufakiwe futhi kwaqondaniswa">
+<!ENTITY workOffline.accesskey "S">
+<!ENTITY selectButton.label "Khetha...">
+<!ENTITY selectButton.accesskey "H">
+<!ENTITY MsgSelectDesc.label "Khetha ama-folda okuposa namaqembu ezindaba angasetshenziswa engaxhunyiwe ku-Inthaneti.">
+<!ENTITY MsgSelectInd.label "Thatha Ufake Ukwaziswa">
+<!ENTITY MsgSelectItems.label "Ama-folda Namaqembu Ezindaba">

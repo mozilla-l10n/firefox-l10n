@@ -1,0 +1,43 @@
+<!ENTITY caption.label "Ivula #1">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "Ifayela i-&quot;#3&quot; ingoyohlobo lwe-#2 (#1), futhi i-#4 ayikwazi ukusingatha lolu hlobo lwefayela. Le fayela itholakala e-:">
+<!ENTITY intro.noDesc.label "Ifayela i-&quot;#3&quot; ingoyohlobo lwe-#2 , futhi i-#4 ayikwazi ukusingatha lolu hlobo lwefayela. Le fayela itholakala e-:">
+
+<!ENTITY intro.attachment.label "Ingosi isikisela ukuthi i-&quot;#3&quot; isingathwe njengokufakiwe. Ingeyohlobo lwe-#2 (#1) futhi itholakala e-:">
+<!ENTITY intro.attachment.noDesc.label "Ingosi isikisela ukuthi i-&quot;#3&quot; isingathwe njengokufakiwe. Ingeyohlobo lwe-#2 futhi itholakala e-:">
+
+<!ENTITY intro.sniffed.label "I-#4 ithole ukuthi ifayela i-&quot;#3&quot; kungenzeka ukuthi kungenzeka ukuthi ingeyohlobo lwe-#2 (#1). Le fayela itholakala e-:">
+<!ENTITY intro.sniffed.noDesc.label "I-#4 ithole ukuth ifayela i-&quot;#3&quot; kungenzeka ukuthi ingeyohlobo lwe-#2. Le fayela itholakala e-:">
+
+<!ENTITY prompt.label "Yini i-#1 okufanele iyenze ngale fayela?">
+
+<!ENTITY alwaysHandle.label "Njalo yenza lesi senzo lapho usingatha amafayela alolu hlobo">
+<!ENTITY alwaysHandle.accesskey "N">
+
+<!ENTITY saveToDisk.label "Yigcine ediskini">
+<!ENTITY saveToDisk.accesskey "Y">
+
+<!ENTITY useSystemDefault.label "Yivule ngokusetshenziswa kokwakhona (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Yivule ngokusetshenziswa kokwakhona">
+<!ENTITY useSystemDefault.accesskey "Y">
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+
+<!ENTITY openUsing.label "Yivule nge">
+<!ENTITY openUsing.accesskey "n">
+
+<!ENTITY chooseApp.label "Khetha...">
+<!ENTITY chooseApp.accesskey "K">
+
+<!ENTITY chooseAppFilePickerTitle "Khetha Uhlelo Lomsizi">
+
+<!ENTITY badApp "Uhlelo olushilo (&quot;#1&quot;) alutholakalanga.  Bheka igama lefayela noma ukhethe olunye uhlelo.">
+<!ENTITY badApp.title "Uhlelo alutholakalanga">

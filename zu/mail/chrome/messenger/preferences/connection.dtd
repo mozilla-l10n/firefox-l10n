@@ -1,0 +1,42 @@
+<!ENTITY connectionsDialog.title "Ukuhlelwa Kokuxhuma">
+<!ENTITY window.width "37em">
+
+<!ENTITY proxyTitle.label "Thola Isimo Sama-proxy Ukuze Ungene Ku-Inthanethi">
+<!ENTITY directTypeRadio.label "Qondisa ukuxhuma ku-Inthanethi">
+<!ENTITY directTypeRadio.accesskey "q">
+<!ENTITY WPADTypeRadio.label "Zitholele ukuhlelwa kwe-proxy kule nethiwekhi">
+<!ENTITY WPADTypeRadio.accesskey "w">
+<!ENTITY manualTypeRadio.label "Ukuthola isimo se-proxy ngokwakho:">
+<!ENTITY manualTypeRadio.accesskey "u">
+<!ENTITY autoTypeRadio.label "Ukuvele uthole isimo se-proxy i-URL:">
+<!ENTITY autoTypeRadio.accesskey "u">
+<!ENTITY configAutoconfigText.label "Ukuthola isimo sendawo (i-URL):">
+<!ENTITY configAutoconfigText.accesskey "i">
+<!ENTITY reload.label "Phinda Ulayishe">
+<!ENTITY reload.accesskey "i">
+<!ENTITY ftp.label "I-proxy Ye-FTP:">
+<!ENTITY ftp.accesskey "f">
+<!ENTITY gopher.label "I-proxy Ye-Gopher:">
+<!ENTITY gopher.accesskey "g">
+<!ENTITY http.label "I-proxy Ye-HTTP:">
+<!ENTITY http.accesskey "h">
+<!ENTITY ssl.label "I-proxy Ye-SSL:">
+<!ENTITY ssl.accesskey "s">
+<!ENTITY socks.label "Umxhumi i-SOCKS:">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "k">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY port.label "Iphothi:">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SSLport.accesskey "o">
+<!ENTITY FTPport.accesskey "r">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY gopherPort.accesskey "">
+<!ENTITY SOCKSport.accesskey "t">
+<!ENTITY noproxy.label "Ayikho I-proxy ye-:">
+<!ENTITY noproxy.accesskey "a">
+<!ENTITY noproxyExplain.label "Isibonelo: .mozilla.org, .org.za, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Sebenzisa lesi siphakeli se-proxy kuwo wonke amaphrothokholi">
+<!ENTITY shareproxy.accesskey "p">

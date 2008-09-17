@@ -1,0 +1,14 @@
+<!ENTITY reportSite "Ingosi">
+<!ENTITY reportProblemType "Uhlobo Lwenkinga">
+<!ENTITY reportDecsription "Incazelo">
+<!ENTITY reportPlatform "Ipulatifomu">
+<!ENTITY reportProduct "Umkhiqizo">
+<!ENTITY reportoscpu "OS">
+<!ENTITY reportGecko "IGecko">
+<!ENTITY reportBuildConfig "Yakha Ukuhlelwa">
+<!ENTITY reportUseragent "Inxusa Loyisebenzisayo">
+<!ENTITY reportLanguage "Ulimi">
+<!ENTITY reportEmail "I-imeyili">
+<!ENTITY error "Imininingwane Yephutha">
+<!ENTITY faultCode "Ikhodi">
+<!ENTITY faultMessage "Umyalezo">

@@ -1,0 +1,8 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title "Ukufakelwa Kohlaka Olusetsenziswayo">
+<!ENTITY warningText2.label "Uhlaka olusetshenziswayo olulimazayo lungayibulala ikhompyutha yakho noma lwenze ungabi namfihlo.">
+<!ENTITY warningText3.label "Kufanele ufakele uhlaka olusetshenziswayo oluvela emithonjeni oyethembayo kuphela.">
+
+<!ENTITY from.label "kuvela: ">
+

@@ -1,0 +1,53 @@
+<!ENTITY window.title "Imithetho Yokusefa">
+<!ENTITY subject.label "isihloko">
+<!ENTITY sender.label "umthumeli">
+<!ENTITY date.label "usuku">
+<!ENTITY anyText.label "noma imuphi umbhalo">
+<!ENTITY keyword.label "igama eliyinhloko">
+<!ENTITY age.label "ubudala ngezinsuku">
+<!ENTITY to.label "iya">
+<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
+
+<!ENTITY cc.label "Cc">
+
+<!ENTITY status.label "isimo">
+<!ENTITY priority.label "ukubaluleka">
+<!ENTITY body.label "indikimba">
+<!ENTITY contains.label "iqukethe">
+<!ENTITY nocontains.label "ayiqukethe">
+<!ENTITY filterName.label "Igama Lesisefo:">
+<!ENTITY filterName.accesskey "e">
+
+<!ENTITY junk.label "Umyalezo ongenanzuzo">
+<!ENTITY notJunk.label "Akulona Iposi Elingenanzuzo">
+
+<!ENTITY lowestPriorityCmd.label "Kuphansi kakhulu">
+<!ENTITY lowPriorityCmd.label "Kuphansi">
+<!ENTITY normalPriorityCmd.label "Okuvamile">
+<!ENTITY highPriorityCmd.label "Kuphezulu">
+<!ENTITY highestPriorityCmd.label "Kuphezulu Kakhulu">
+
+<!ENTITY conditionDesc.label "Okwemiyalezo Efikayo:">
+<!ENTITY filterActionDesc.label "Bese wenza lemisebenzi:">
+<!ENTITY filterActionDesc.accesskey "B">
+
+<!ENTITY newFolderButton.label "Ifolda Entsha...">
+<!ENTITY newFolderButton.accesskey "I">
+<!-- New Style Filter Rule Actions -->
+
+<!ENTITY moveMessage.label "Susa Umyalezo uwuse e">
+<!ENTITY copyMessage.label "Yenza Ikhophi yalomyalezo">
+<!ENTITY forwardTo.label "Dlulisela umyalezo ku-">
+<!ENTITY replyWithTemplate.label "Phendula usebenzisa ikhophi egciniwe">
+<!ENTITY markMessageRead.label "Phawula ukuthi kufundiwe">
+<!ENTITY markMessageStarred.label "Add Star">
+<!ENTITY labelMessage.label "Faka uphawu kulomyalezo oluthi">
+<!ENTITY setPriority.label "Yisho Okufanele Kwenziwe Kuqala">
+<!ENTITY addTag.label "Tag Message">
+<!ENTITY setJunkScore.label "Bhala Isimo Somyalezo Ongazuzisi">
+<!ENTITY deleteMessage.label "Cima Umyalezo">
+<!ENTITY deleteFromPOP.label "Cima kuseva yePOP">
+<!ENTITY fetchFromPOP.label "Thatha kuseva POP">
+<!ENTITY ignoreThread.label "Ungalunaki Uhide">
+<!ENTITY watchThread.label "Buka Uhide">
+

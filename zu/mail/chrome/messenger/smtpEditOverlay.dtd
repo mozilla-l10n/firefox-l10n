@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Ukuhlelwa">
+<!ENTITY security.caption "Ukulondeka Nokuqinisekisa">
+<!ENTITY serverName.label "Igama Lesiphakeli:">
+<!ENTITY serverName.accesskey "I">
+<!ENTITY serverDescription.label "Incazelo:">
+<!ENTITY serverDescription.accesskey "I">
+<!ENTITY serverPort.label "Iphothi:">
+<!ENTITY serverPort.accesskey "I">
+<!ENTITY alwaysUseUsername.label "Sebenzisa igama negama lokungena">
+<!ENTITY alwaysUseUsername.accesskey "S">
+<!ENTITY userName.label "Igama Loyisebenzisayo:">
+<!ENTITY userName.accesskey "y">
+<!ENTITY isSecure.label "Sebenzisa ukuxhuma okulondekile:">
+<!ENTITY neverSecure.label "Cha">
+<!ENTITY neverSecure.accesskey "C">
+<!ENTITY sometimesSecure.label "TLS, uma kukhona">
+<!ENTITY sometimesSecure.accesskey "k">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "Isiphakeli seSMTP">
+<!ENTITY serverPortDefault.label "Okwakhona:">

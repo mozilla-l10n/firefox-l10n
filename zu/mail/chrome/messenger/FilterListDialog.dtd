@@ -1,0 +1,29 @@
+<!ENTITY window.title "Izisefo Zemiyalezo">
+<!ENTITY nameColumn.label "Igama Lesisefo">
+<!ENTITY activeColumn.label "Kwenziwe kwasebenza">
+<!ENTITY newButton.label "Okusha...">
+<!ENTITY newButton.accesskey "O">
+<!ENTITY editButton.label "Lungisa...">
+<!ENTITY editButton.accesskey "L">
+<!ENTITY deleteButton.label "Cisha">
+<!ENTITY deleteButton.accesskey "h">
+<!ENTITY reorderUpButton.label "Yisa Phezulu">
+<!ENTITY reorderUpButton.accesskey "P">
+<!ENTITY reorderDownButton.label "Yisa Phansi">
+<!ENTITY reorderDownButton.accesskey "P">
+<!ENTITY filterHeader.label "Izisefo ezenziwe zasebenza zisebenza ngokuzenzakaleyo ngohlelo oluboniswe ngezansi.">
+<!ENTITY filtersForPrefix.label "Izisefo ze:">
+<!ENTITY filtersForPrefix.accesskey "I">
+<!ENTITY viewLogButton.label "Ukwaziswa Kokusefiwe">
+<!ENTITY viewLogButton.accesskey "K">
+<!ENTITY runFilters.label "Sebenzisa Manje">
+<!ENTITY runFilters.accesskey "S">
+<!ENTITY stopFilters.label "Misa">
+<!ENTITY stopFilters.accesskey "M">
+<!ENTITY folderPickerPrefix.label "Sebenzisa izisefo ezikhethiwe ku:">
+<!ENTITY folderPickerPrefix.accesskey "k">
+<!ENTITY choosethis.label "khetha le folda">
+<!ENTITY choosethisnewsserver.label "khetha leseva yezindaba">
+<!ENTITY helpButton.label "Usizo">
+<!ENTITY helpButton.accesskey "U">
+<!ENTITY closeCmd.key "W">

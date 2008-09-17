@@ -1,0 +1,51 @@
+
+<!ENTITY migrationWizard.title "Iwizadi Yokwamukela">
+
+<!ENTITY importFrom.label "Yamukela Ongakhetha Kukho, Okokuphawula, Umlando, Amagama Okungena nokunye ukwaziswa kuvela:">
+<!ENTITY importFromUnix.label "Yamukela Okuthandwayo, Okokuphawula, Umlando, Amagama Okungena nokunye ukwaziswa kuvela:">
+<!ENTITY importFromBookmarks.label "Yamukela Okokuphawula kuvela:">
+
+<!ENTITY importFromIE.label "IMicrosoft Internet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromPhoenix.label "IFirefox 0.8, IFirebird noma IPhoenix">
+<!ENTITY importFromPhoenix.accesskey "P">
+<!ENTITY importFromNothing.label "Ungamukeli noma yini">
+<!ENTITY importFromNothing.accesskey "U">
+<!ENTITY importFromSeamonkey.label "INetscape 6, 7 noma iMozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "INetscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOpera.label "I-Opera">
+<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromCamino.label "ICamino">
+<!ENTITY importFromCamino.accesskey "C">
+<!ENTITY importFromSafari.label "ISafari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromOmniWeb.label "I-OmniWeb">
+<!ENTITY importFromOmniWeb.accesskey "W">
+<!ENTITY importFromICab.label "I-iCab">
+<!ENTITY importFromICab.accesskey "i">
+<!ENTITY importFromKonqueror.label "IKonqueror">
+<!ENTITY importFromKonqueror.accesskey "K">
+<!ENTITY importFromEpiphany.label "I-Epiphany">
+<!ENTITY importFromEpiphany.accesskey "E">
+<!ENTITY importFromGaleon.label "IGaleon">
+<!ENTITY importFromGaleon.accesskey "G">
+<!ENTITY importFromFile.label "Kusuka Efayeleni">
+<!ENTITY importFromFile.accesskey "K">
+
+<!ENTITY noMigrationSources.label "No programs that contain bookmarks, history or password data could be found.">
+
+<!ENTITY importSource.title "Import Settings and Data">
+<!ENTITY importItems.title "Izinto zokwamukelwa">
+<!ENTITY importItems.label "Khetha ukuthi iziphi izinto ozozamukela:">
+
+<!ENTITY migrating.title "Iyamukela...">
+<!ENTITY migrating.label "Lokhu okulandelayo kuyamukelwa manje...">
+
+<!ENTITY selectProfile.title "Khetha Ingxenye Yohlaka">
+<!ENTITY selectProfile.label "La maprofayili alandelayo akhona ukuthi wamukele okuvela kuwo:">
+
+<!ENTITY done.title "Ukwamukela Sekuphelile">
+<!ENTITY done.label "Lezi zinto ezilandelayo zamukelwe ngempumelelo:">
+

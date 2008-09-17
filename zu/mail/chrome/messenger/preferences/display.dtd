@@ -1,0 +1,69 @@
+<!ENTITY itemFormatting.label "Ukuhlelwa">
+<!ENTITY itemTags.label "Tags">
+<!ENTITY itemFonts.label "Izinhlobo Zemibhalo">
+
+<!ENTITY textBegin.label "Ukubonakala kombhalo ovamile ocashuniwe">
+<!ENTITY style.label "Isitayela:">
+<!ENTITY style.accesskey "a">
+<!ENTITY regularStyle.label "Ovamile">
+<!ENTITY bold.label "Okugqamile">
+<!ENTITY italic.label "Omalukeke">
+<!ENTITY boldItalic.label "Olukeke Ogqamile">
+<!ENTITY size.label "Usayizi:">
+<!ENTITY size.accesskey "u">
+<!ENTITY regularSize.label "Ovamile">
+<!ENTITY bigger.label "Omkhudlwana">
+<!ENTITY smaller.label "Omncane Kakhulu">
+<!ENTITY color.label "Umbala:">
+<!ENTITY color.accesskey "u">
+<!ENTITY displayWidth.label "Imiyalezo Yombhalo Ovamile">
+<!ENTITY plainText.label "Sebenzisa uhlobo olulandelayo lombhalo:">
+<!ENTITY displayText.label "Uma uveza imiyalezo ecashuniwe yombhalo ovamile:">
+<!ENTITY viewingPlainText.label "Uma uveza imiyalezo yombhalo ovamile:">
+<!ENTITY fixedWidth.label "Ububanzi bombhalo obunqunyiwe">
+<!ENTITY fixedWidth.accesskey "b">
+<!ENTITY variableWidth.label "Ububanzi bombhalo obushintshayo">
+<!ENTITY variableWidth.accesskey "U">
+<!ENTITY readingMessagesHeader.label "Kwemiyalezo engenayo">
+<!ENTITY messageWrapping.label "Ukusongwa kwemiyalezo">
+<!ENTITY wrapInMsg.label "Songa umbhalo ulingane ububanzi befasitela">
+<!ENTITY wrapInMsg.accesskey "S">
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label "Bonisa izithombemizwa zibe izimpawu">
+<!ENTITY convertEmoticons.accesskey "B">
+<!ENTITY htmlColors.label "Imiyalezo yeHTML">
+<!ENTITY overrideSender.label "When displaying HTML messages, use the following:">
+<!ENTITY overrideSender.accesskey "n">
+<!ENTITY textColor.label "Umbala Wombhalo:">
+<!ENTITY textColor.accesskey "U">
+<!ENTITY backgroundColor.label "Umbala Ongemuva:">
+<!ENTITY backgroundColor.accesskey "u">
+<!-- labels -->
+
+<!ENTITY displayTagsText.label "Tags can be used to categorize and prioritize your messages.">
+<!ENTITY addTagButton.label "Add">
+<!ENTITY addTagButton.accesskey "A">
+<!ENTITY editTagButton.label "Edit">
+<!ENTITY editTagButton.accesskey "E">
+<!ENTITY removeTagButton.label "Delete">
+<!ENTITY removeTagButton.accesskey "l">
+<!-- Fonts -->
+
+<!ENTITY fontsDescription.label "Hlela imibhalo esetshenziswa yi&brandShortName;">
+<!ENTITY fontsCaption.label "Izinhlobo Zemibhalo">
+<!ENTITY fontOptions.accesskey "I">
+<!ENTITY fontOptions.label "Izinhlobo Zombhalo...">
+<!-- Language settings -->
+
+
+<!ENTITY sendDefaultCharset.label "Iposi Eliphumayo:">
+<!ENTITY sendDefaultCharset.accesskey "l">
+<!ENTITY languagesTitle.label "Ukubhala izinhlamvu ngamakhodi">
+<!ENTITY composingDescription.label "Hlela ukubhalwa kwakhona kwezinhlamvu ngamakhodi kokuthumela nokwamukela iposi">
+
+<!ENTITY viewDefaultCharsetList.label "Iposi Elingenayo:">
+<!ENTITY viewDefaultCharsetList.accesskey "I">
+<!ENTITY forceCharsetOverride.label "Sebenzisa ukubhalwa kwakhona kwezinhlamvu ngamakhodi kuyo yonke imiyalezo engenayo">
+<!ENTITY forceCharsetOverride.accesskey "e">
+<!ENTITY replyInDefaultCharset.label "Sebenzisa ukubhalwa kwakhona kwezinhlamvu ngamakhodi ezimpendulweni">
+<!ENTITY replyInDefaultCharset.accesskey "u">

@@ -1,0 +1,17 @@
+<!ENTITY virtualFolderProperties.title "Ifolida Entsha Yofuna Olugciniwe">
+<!ENTITY name.label "Igama:">
+<!ENTITY name.accesskey "i">
+<!ENTITY description.label "Yakhe ibe ifolda engaphansi kwe:">
+<!ENTITY description.accesskey "Y">
+<!ENTITY searchCriteriaText.label "Lungisa umkhakha wofuno osetshenziselwe lolufuno olugciniwe:">
+<!ENTITY searchCriteriaButton.label "Umkhakha Wofuno...">
+<!ENTITY searchCriteriaButton.accesskey "U">
+
+<!ENTITY searchTermCaption.label "Hlela umkhakha wofuna osetshenziselwe lefolida yofuno egciniwe: ">
+
+<!ENTITY folderSelectionCaption.label "Khetha amafolda azofunwa: ">
+<!ENTITY chooseFoldersButton.label "Khetha...">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Funa kuyi-inthaneti (Iveza imiphumela enembile ye-IMAP namaFolida Ezindaba kodwa ithatha isikhathi ukuvula ifolida)">
+<!ENTITY searchOnline.accesskey "K">

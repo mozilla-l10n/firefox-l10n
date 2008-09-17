@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Ukulondeka">
+<!ENTITY securityMenu.accesskey "k">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Bhala Ngamakhodi Uma Kwenzeka">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "K">
+
+<!ENTITY menu_securityEncryptRequire.label "Bhala Lomyalezo Ngamakhodi">
+<!ENTITY menu_securityEncryptRequire.accesskey "B">
+
+<!ENTITY menu_securityNoEncryption.label "Ungawubhali Lomyalezo Ngamakhodi">
+<!ENTITY menu_securityNoEncryption.accesskey "L">
+
+<!ENTITY menu_securitySign.label "Sayina Lomyalezo Ngezinombolo">
+<!ENTITY menu_securitySign.accesskey "L">
+
+<!ENTITY menu_securityStatus.label "Bheka Ukwaziswa Kokulondeka">
+<!ENTITY menu_securityStatus.accesskey "K">
+
+<!ENTITY securityButton.label "Ukulondeka">
+<!ENTITY securityButton.tooltip "Bheka noma ushintshe ukuhlelwa kokulondeka">
+
+<!ENTITY menu_viewSecurityStatus.label "Ukwaziswa Ngokulondeka Komyalezo">
+<!ENTITY menu_viewSecurityStatus.accesskey "K">

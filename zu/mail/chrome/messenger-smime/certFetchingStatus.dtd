@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Ithathifake Izitifiketi">
+<!ENTITY info.message "Ifuna izitifiketi zabemukeli encwadini yohlu. Lokhu kungase kuthathe imizuzu ethile.">
+<!ENTITY stop.label "Yeka Ukufuna">

@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Indlela Umyalezo Ohleleke Ngayo">
+<!ENTITY mailViewHeading.label "Igama Okuvulwa Ngalo Umyalezo:">
+<!ENTITY mailViewHeading.accesskey "g">
+<!ENTITY searchTermCaption.label "Lapho kukhethwe lendlela, bonisa imiyalezo:">
+

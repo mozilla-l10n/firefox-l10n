@@ -1,0 +1,73 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY offlineGoOfflineCmd.label "Sebenza Ngaphandle Kwe-Inthanethi">
+<!ENTITY offlineGoOfflineCmd.accesskey "s">
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+
+<!ENTITY fileMenu.label "Ifayela">
+<!ENTITY fileMenu.accesskey "i">
+<!ENTITY newMenu.label "Okusha">
+<!ENTITY newMenu.accesskey "O">
+
+<!ENTITY editMenu.label "Lungisa">
+<!ENTITY editMenu.accesskey "l">
+<!ENTITY undoCmd.label "Susa Okwenzile">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "s">
+<!ENTITY redoCmd.label "Buyisela okususile">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "b">
+<!ENTITY cutCmd.label "Sika">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "k">
+<!ENTITY copyCmd.label "Kopisha">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Namathisela">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY deleteCmd.label "Cisha">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "c">
+<!ENTITY selectAllCmd.label "Khetha Konke">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "k">
+<!ENTITY preferencesCmd.label "Okukhethwa Kukho...">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Okuthandwayo">
+<!ENTITY preferencesCmdUnix.accesskey "w">
+
+<!ENTITY findTypeTextCmd.label "Thola Umbhalo Njengoba Ubhala">
+<!ENTITY findTypeTextCmd.accesskey "b">
+
+<!ENTITY viewMenu.label "Bheka">
+<!ENTITY viewMenu.accesskey "b">
+<!ENTITY viewToolbarsMenu.label "Amabha Amathuluzi">
+<!ENTITY viewToolbarsMenu.accesskey "A">
+<!ENTITY showTaskbarCmd.label "Ibha Yesimo">
+<!ENTITY showTaskbarCmd.accesskey "I">
+
+<!ENTITY direct.label "Ku-Inthanethi (i-proxy: ayikho)">
+<!ENTITY direct.accesskey "u">
+<!ENTITY manual.label "Ku-Inthanethi (i-proxy: uyazenzela)">
+<!ENTITY manual.accesskey "u">
+<!ENTITY pac.label "Ku-Inthanethi (i-proxy: iyazenzela)">
+<!ENTITY pac.accesskey "i">
+
+<!ENTITY proxy.label "Ukuthola Isimo Se-proxy...">
+<!ENTITY proxy.accesskey "I">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Vala">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "v">
+
+<!ENTITY quitApplicationCmd.label "Phuma">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "h">
+
+<!ENTITY quitApplicationCmdUnix.label "Yeka">
+<!ENTITY quitApplicationCmdUnix.accesskey "y">
+

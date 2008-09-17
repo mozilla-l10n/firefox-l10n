@@ -1,0 +1,28 @@
+<!ENTITY pref.editing.title "Ukuhlelwa Kwekhasi Elisha">
+
+<!ENTITY authorName.label "Umbhali:">
+<!ENTITY authorName.accesskey "m">
+<!ENTITY pageColorHeader "Ukubukeka Kwekhasi Kwakhona">
+
+<!ENTITY defaultColorsRadio.label "Imibala yomfundi okungeyakhona (Ungahleli imibala ekhasini)">
+<!ENTITY defaultColors.accesskey "d">
+<!ENTITY customColorsRadio.label "Sebenzisa imibala ejwayelekile:">
+<!ENTITY customColors.accesskey "c">
+
+<!ENTITY normalText.label "Umbhalo ovamile">
+<!ENTITY normalText.accesskey "U">
+<!ENTITY linkText.label "Umbhalo wesixhumo">
+<!ENTITY linkText.accesskey "U">
+<!ENTITY activeLinkText.label "Umbhalo Wesixhumo Esisebenzayo">
+<!ENTITY activeLinkText.accesskey "U">
+<!ENTITY visitedLinkText.label "Umbhalo Wesixhumo Esike Savakashelwa">
+<!ENTITY visitedLinkText.accesskey "U">
+<!ENTITY background.label "Ngemuva:">
+<!ENTITY background.accesskey "N">
+<!ENTITY colon.character ":">
+
+<!ENTITY backgroundImage.label "Isithombe Sangemuva:">
+<!ENTITY backgroundImage.accesskey "a">
+<!ENTITY chooseFile.label "Khetha Ifayela...">
+<!ENTITY chooseFile.accesskey "e">
+

@@ -1,0 +1,56 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Bika Ingosi Yewebhu Engasebenzi Kahle">
+
+<!ENTITY privacyNotice.label "Inqubo Yemfihlo">
+<!ENTITY reportWizardPrivacy.description "Leli thuluzi likuvumela ukuba utshele iQembu Labavangeli ngezingosi ezingasebenzi kahle &brandShortName;, noma uvale &brandShortName;. Lena indlela yakho yokusisiza ukuba siqiniseke ukuthi abasebenzisa &brandShortName; bathola okungcono kakhulu. Sicela uziphe isikhashana ufunde okulandelayo ukuze uthole ukuthi sikusebenzisa kanjani ukwaziswa esikuqoqayo ukuze wazi uma kwenzeka ukhetha ukuhlanganyela nathi.">
+<!ENTITY reportWizardMustAgree.description "Ukuze uqhubeke kudingeke uvumelane nenqubo yemfihlo engenhla.">
+
+<!ENTITY dontShowPrivacyStatement.label "Ngiyifundile futhi ngiyahambisana nenqubo yemfihlo engenhla.">
+<!ENTITY dontShowPrivacyStatement.accesskey "N">
+
+<!ENTITY reportForm.label "Gcwalisa Umbiko">
+
+<!ENTITY reportForm.description "Awuthi ukusithi fahla ngenkinga ohlangabezane nayo:">
+<!ENTITY reportForm.url.title "I-URL Yengosi Yewebhu:">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Le ngosi ivikelwe igama lokungena">
+<!ENTITY reportForm.behind_login.accesskey "I">
+
+<!ENTITY reportForm.problem_type.title "Uhlobo Lwenkinga:">
+<!ENTITY reportForm.problem_type.accesskey "L">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Khetha Okokudwa...">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Okokubheka akusekelwa">
+<!ENTITY reportForm.problem_type.item2.title "Ayikwazi ukungena">
+<!ENTITY reportForm.problem_type.item3.title "Okuplakwayo akubonisiwe">
+<!ENTITY reportForm.problem_type.item4.title "Kukhona okunye okuqukethwe okungekho">
+<!ENTITY reportForm.problem_type.item5.title "Ukuziphatha akulungile">
+<!ENTITY reportForm.problem_type.item6.title "Ukubukela akulungile">
+<!ENTITY reportForm.problem_type.item7.title "Enye inkinga">
+
+<!ENTITY reportForm.describe.title "Chaza Inkinga:">
+<!ENTITY reportForm.describe.accesskey "C">
+
+<!ENTITY reportForm.platform.title "Ipulatifomu:">
+<!ENTITY reportForm.product.title "Umkhiqizo:">
+<!ENTITY reportForm.gecko.title "IGecko:">
+<!ENTITY reportForm.useragent.title "Inxusa Loyisebenzisayo:">
+<!ENTITY reportForm.language.title "Ulimi:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "I-imeyili (Uma uthanda):">
+<!ENTITY reportForm.email.accesskey "I">
+
+<!ENTITY reportForm.privacyPolicy.title "Inqubo Yemfihlo">
+<!ENTITY reportForm.privacyPolicy.tooltip "Bheka Inqubo Yemfihlo">
+
+<!ENTITY reportResults.showDetail.title "Bonisa Imininingwane">
+<!ENTITY reportResults.showDetail.accesskey "B">
+
+<!ENTITY sendReport.label "Ithumela Umbiko">
+<!ENTITY sendReport.description "Ithumela Umbiko kuseva...">
+
+<!ENTITY finish.label "Umbiko Usuthunyelwe">

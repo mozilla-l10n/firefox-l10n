@@ -1,0 +1,35 @@
+<!-- extracted from am-copies.xul -->
+
+<!ENTITY copyAndFolderTitle.label "Amakhophi &amp; Ama-folda">
+<!ENTITY sendingPrefix.label "Lapho uthumela imiyalezo, ngokuzenzakalelayo: ">
+<!ENTITY fccMailFolder.label "Faka ikhophi ku:">
+<!ENTITY fccMailFolder.accesskey "F">
+<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
+<!ENTITY fccReplyFollowsParent.accesskey "l">
+<!ENTITY chooseFolderButton.label "Khetha i-folda...">
+<!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Yenza iBcc yalamakheli eposi:">
+<!ENTITY bccAddress.accesskey "Y">
+<!ENTITY specialFolderTitle.label "Ama-folda Akhethekile">
+<!ENTITY draftMailFolder.label "Gcina imiyalezo engakathunyelwa ku:">
+<!ENTITY templateMailFolder.label "Gcina indlela evamile yokubhala imiyalezo ku:">
+<!ENTITY saveMessageDlg.label "Veza umyalezo oqinisekisayo lapho imiyalezo igciniwe">
+<!ENTITY saveMessageDlg.accesskey "V">
+<!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "&quot;Thumela&quot; I-folda ye:">
+<!ENTITY sentFolderOn.accesskey "h">
+<!ENTITY sentInOtherFolder.label "Okunye:">
+<!ENTITY sentInOtherFolder.accesskey "O">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Imiyalezo engakathunyelwa&quot; I-folda ye:">
+<!ENTITY draftsFolderOn.accesskey "I">
+<!ENTITY draftInOtherFolder.label "Okunye:">
+<!ENTITY draftInOtherFolder.accesskey "k">
+<!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Indlela evamile&quot; I-Folda ye:">
+<!ENTITY templatesFolderOn.accesskey "d">
+<!ENTITY templateInOtherFolder.label "Okunye:">
+<!ENTITY templateInOtherFolder.accesskey "k">
+<!ENTITY specialFoldersTitle.label "Imiyalezo Engakathunyelwa Nendlela Evamile">
+<!ENTITY keepDrafts.label "Gcina imiyalezo engakathunyelwa ku:">
+<!ENTITY keepTempltes.label "Gcina indlela evamile yokubhala imiyalezo ku:">

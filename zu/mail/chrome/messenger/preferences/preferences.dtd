@@ -1,0 +1,13 @@
+
+<!ENTITY prefWindow.titleWin "Ongakhetha Kukho">
+<!ENTITY prefWindow.titleGNOME "I-&brandShortName; Okuthandwayo">
+<!ENTITY prefWindow.styleWin "width: 44em; height: 38em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleUnix "width: 42em;">
+
+<!ENTITY paneGeneral.title "Okuvamile">
+<!ENTITY paneDisplay.title "Veza">
+<!ENTITY paneComposition.title "Ukuhlelwa ngononina">
+<!ENTITY paneAttachments.title "Amafayela Ananyathelisiwe">
+<!ENTITY panePrivacy.title "Okwangasese">
+<!ENTITY paneAdvanced.title "Okuthuthukile">

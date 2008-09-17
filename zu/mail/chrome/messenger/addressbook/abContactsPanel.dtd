@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label "Incwadi Yamakheli:">
+<!ENTITY searchInput.label "Funa I-:">
+<!ENTITY SearchNameOrEmail.label "Igama noma I-imeyili">
+
+<!ENTITY addtoToFieldMenu.label "Nezela emkhakheni othi Iya">
+<!ENTITY addtoCcFieldMenu.label "Nezela emkhakheni othi Cc">
+<!ENTITY addtoBccFieldMenu.label "Nezela emkhakheni othi Bcc">
+
+<!ENTITY toButton.label "Nezela kokuthi Iya:">
+<!ENTITY ccButton.label "Nezela kokuthi Cc:">
+
