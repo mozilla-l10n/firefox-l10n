@@ -20,8 +20,12 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Dan Haddix (dan6992@hotmail.com)
-   -   Brian King (briano9@yahoo.com)
+   -   Dan Haddix <dan6992@hotmail.com>
+   -   Brian King <briano9@yahoo.com>
+	-   Gintautas Grigas <grigas@ktl.mii.lt>
+	-   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+	-   Rimas Kudelis <rq@akl.lt>
+	-   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -40,65 +44,56 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Paveikslo saitaviečių ir nuorodų rengyklė">
+<!ENTITY windowTitle.label "Paveikslo saitviečių rengyklė">
 
 <!-- Menu Items -->
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Failas">
-<!ENTITY mapfilemenu.accesskey "f">
+<!ENTITY mapfileMenu.accesskey "f">
 <!ENTITY clearCmd.label "Išvalyti">
-<!ENTITY mapfileclear.accesskey "v">
+<!ENTITY clearCmd.accesskey "v">
 <!ENTITY closeCmd.label "Užverti">
-<!ENTITY mapfileclose.accesskey "u">
+<!ENTITY closeCmd.accesskey "u">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Taisa">
-<!ENTITY mapeditmenu.accesskey "t">
+<!ENTITY mapeditMenu.accesskey "t">
 <!ENTITY cutCmd.label "Iškirpti">
-<!ENTITY mapeditcut.accesskey "r">
+<!ENTITY cutCmd.accesskey "r">
 <!ENTITY copyCmd.label "Kopijuoti">
-<!ENTITY mapeditcopy.accesskey "k">
+<!ENTITY copyCmd.accesskey "k">
 <!ENTITY pasteCmd.label "Įdėti">
-<!ENTITY mapeditpaste.accesskey "d">
+<!ENTITY pasteCmd.accesskey "d">
 <!ENTITY selectallCmd.label "Pažymėti viską">
-<!ENTITY mapselectall.accesskey "v">
-<!ENTITY propsCmd.label "Saitavietės savybės">
-<!ENTITY mapeditprops.accesskey "P">
+<!ENTITY selectallCmd.accesskey "v">
+<!ENTITY propsCmd.label "Saitvietės savybės">
+<!ENTITY propsCmd.accesskey "s">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Rodymas">
-<!ENTITY mapviewmenu.accesskey "r">
-<!ENTITY showhideTbarCmd.label "Mygtukų juosta">
-<!ENTITY mapviewtbar.accesskey "o">
+<!ENTITY mapviewMenu.accesskey "r">
+<!ENTITY showhideTbarCmd.label "Nerodyti priemonių juostos">
+<!ENTITY showhideTbarCmd.accesskey "p">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Mastelis">
-<!ENTITY mapviewscale.accesskey "M">
+<!ENTITY mapviewScale.accesskey "M">
 <!ENTITY apercentCmd.label "100">
-<!ENTITY zoomone.accesskey "1">
+<!ENTITY apercentCmd.accesskey "1">
 <!ENTITY bpercentCmd.label "200">
-<!ENTITY zoomtwo.accesskey "2">
+<!ENTITY bpercentCmd.accesskey "2">
 <!ENTITY cpercentCmd.label "400">
-<!ENTITY zoomthree.accesskey "4">
-<!-- end scaling-->
-<!ENTITY contrastCmd.label "Kontrastas">
-<!ENTITY contrast.accesskey "n">
-
-<!-- Help menu -->
-<!ENTITY maphelpMenu.label "Žinynas">
-<!ENTITY maphelpmenu.accesskey "ž">
-<!ENTITY aboutCmd.label "Apie">
-<!ENTITY about.accesskey "a">
+<!ENTITY cpercentCmd.accesskey "4">
 
 <!ENTITY zoominCmd.label "Padidinti">
 <!ENTITY zoomoutCmd.label "Sumažinti">
 <!ENTITY delSpotCmd.label "Pašalinti saitavietę">
 
 <!-- Keys -->
-<!ENTITY clear.accesskey "a">
-<!ENTITY selectall.accesskey "v">
-<!ENTITY close.accesskey "u">
-<!ENTITY cut.accesskey "r">
-<!ENTITY copy.accesskey "K">
-<!ENTITY paste.accesskey "ė">
-<!ENTITY props.accesskey "b">
-<!ENTITY tbar.accesskey "t">
+<!ENTITY clear.key "d">
+<!ENTITY selectall.key "a">
+<!ENTITY close.key "l">
+<!ENTITY cut.key "x">
+<!ENTITY copy.key "c">
+<!ENTITY paste.key "v">
+<!ENTITY props.key "p">
+<!ENTITY tbar.key "t">
