@@ -13,6 +13,7 @@
    -
    - Contributor(s):
    -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -30,8 +31,8 @@
 
 <!ENTITY doNotDownloadPop3Movemail.label "Taupant vietą diske:">
 <!ENTITY doNotDownload.label "Taupant vietą diske, darbui atsijungus nuo tinklo:">
-<!ENTITY offlineNewFolder.label "Kuriant aplankus, pažymėti juos darbui atsijungus">
-<!ENTITY offlineNewFolder.accesskey "K">
+<!ENTITY allFoldersOffline.label "Šios paskyros laiškus laikyti šiame kompiuteryje">
+<!ENTITY allFoldersOffline.accesskey "k">
 <!ENTITY offlineNotDownload.label "neatsiųsti laiškų, didesnių kaip">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY kb.label "KB">
@@ -55,10 +56,7 @@
 <!ENTITY nntpRemoveBody.accesskey "š">
 <!ENTITY offlineSelectNntp.label "Parinkti naujienų grupes darbui atsijungus…">
 <!ENTITY offlineSelectNntp.accesskey "P">
-<!ENTITY offlineSelectImap.label "Parinkti aplankus darbui atsijungus…">
-<!ENTITY offlineSelectImap.accesskey "P">
-<!ENTITY offlineDesc.label "Tam, kad laiškus būtų galima skaityti atsijungus nuo tinklo, juos galima atsiųsti į kompiuterį.">
-<!ENTITY makeInboxMsgsAvailable.label "Gautų laiškų aplanke esančius laiškus leisti skaityti atsijungus nuo tinklo">
-<!ENTITY makeInboxMsgsAvailable.accesskey "b">
-<!ENTITY offlineGroupTitle.label "Darbas atsijungus nuo tinklo">
+<!ENTITY offlineImapAdvancedOffline.label "Papildomai…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "P">
+<!ENTITY syncGroupTitle.label "Laiškų sinchronizavimas">
 <!ENTITY diskspaceGroupTitle.label "Disko atmintinė">
