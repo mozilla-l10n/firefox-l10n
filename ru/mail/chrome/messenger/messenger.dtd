@@ -36,6 +36,8 @@
 <!ENTITY sendUnsentCmd.accesskey "т">
 <!ENTITY subscribeCmd.label "Подписка…">
 <!ENTITY subscribeCmd.accesskey "д">
+<!ENTITY deleteFolder.label "Удалить папку">
+<!ENTITY deleteFolder.accesskey "д">
 <!ENTITY renameFolder.label "Переименовать папку…">
 <!ENTITY renameFolder.accesskey "и">
 <!ENTITY renameFolder.key "VK_F2">
@@ -581,10 +583,10 @@
 <!ENTITY junkBarButton1.label "Не спам">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage1.label "В целях безопасности, загрузка изображений из сети была заблокирована.">
-<!ENTITY loadRemoteContentButton1.label "Загрузить изображения">
-<!ENTITY phishingBarMessage1.label "Подозрительное (возможно мошенническое) письмо">
+<!ENTITY loadRemoteContentButton2.label "Показать изображения">
+<!ENTITY phishingBarMessage2.label "Это сообщение может быть мошенническим.">
 <!ENTITY removePhishingBarButton1.label "Игнорировать предупреждение">
-<!ENTITY reportPhishingError.label "Это не мошенническое письмо">
+<!ENTITY reportPhishingError1.label "Это сообщение не похоже на мошенническое.">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
 <!ENTITY AddToAddressBook.accesskey "Д">
