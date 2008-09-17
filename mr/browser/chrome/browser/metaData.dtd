@@ -1,0 +1,28 @@
+<!ENTITY no-properties.label "कुठलेही गुणधर्म मांडलेले नाही.">
+
+<!ENTITY caption.label "घटकांचे गुणधर्म">
+<!ENTITY image-sec.label "चित्राचे गुणधर्म">
+<!ENTITY image-url.label "ठिकाण:">
+<!ENTITY image-desc.label "वर्णन:">
+<!ENTITY image-alt.label "वैकल्पिक प्रबंधरचना:">
+<!ENTITY image-filesize.label "फाईलचे आकार">
+<!ENTITY insdel-sec.label "गुणधर्म समावेश करणें / काढून टाकणें">
+<!ENTITY insdel-cite.label "माहिती:">
+<!ENTITY insdel-date.label "तारीख:">
+<!ENTITY link-sec.label "गुणधर्म जोडणे">
+<!ENTITY link-url.label "पत्ता:">
+<!ENTITY link-target.label "याचा मध्ये उघडेल:">
+<!ENTITY link-type.label "लक्ष़यचे प्रकार:">
+<!ENTITY link-lang.label "लक्ष़यचे भाषा:">
+<!ENTITY link-rel.label "संबंध:">
+<!ENTITY link-rev.label "उलट संबंध:">
+<!ENTITY misc-sec.label "संकीर्ण गुणधर्म">
+<!ENTITY misc-lang.label "मूळ भाषा:">
+<!ENTITY misc-title.label "शिर्षक:">
+<!ENTITY misc-tblsummary.label "कोष्टकाचे सारांश:">
+<!ENTITY quote-sec.label "गुणधर्मांचे उल्लेखण करा">
+<!ENTITY quote-cite.label "माहिती:">
+
+<!ENTITY image-size.label      "प्रतिमा आकार:">
+<!ENTITY image-type.label      "प्रकार:">
+<!ENTITY link-ping.label       "सूचीत करू:">

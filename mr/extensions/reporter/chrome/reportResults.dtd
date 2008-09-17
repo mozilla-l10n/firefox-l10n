@@ -1,0 +1,15 @@
+<!ENTITY reportSite                  "स्थळ">
+<!ENTITY reportProblemType           "समस्येचा प्रकार">
+<!ENTITY reportDecsription           "व्याख्या">
+<!ENTITY reportPlatform              "मंच">
+<!ENTITY reportProduct               "उत्पाद">
+<!ENTITY reportoscpu                 "OS">
+<!ENTITY reportGecko                 "गिको">
+<!ENTITY reportBuildConfig           "बिल्ड रचना">
+<!ENTITY reportUseragent             "वापरकर्तासहायक">
+<!ENTITY reportLanguage              "भाषा">
+<!ENTITY reportEmail                 "ईमेल">
+<!ENTITY error                       "त्रूटी तपशील">
+<!ENTITY faultCode                   "कोड">
+<!ENTITY faultMessage                "संदेश">
+<!ENTITY reportCharset               "अक्षरसंच">

@@ -1,0 +1,36 @@
+<!ENTITY cookieExceptions.accesskey "x">
+<!ENTITY  askBeforeClear.label           "व्यक्तिगत माहिती पुसून टाकण्यापूर्वी मला विचारा">
+<!ENTITY  acceptCookies.label           "स्थळांकडून कुकीज स्विकारा">
+<!ENTITY  cookies.label                 "कुकीज">
+<!ENTITY  clearDataNow.accesskey         "N">
+<!ENTITY  keepUntil.accesskey           "K">
+<!ENTITY  alwaysClear.accesskey          "w">
+
+<!ENTITY  rememberDownloads.accesskey   "d">
+<!ENTITY  clearDataSettings.accesskey    "t">
+<!ENTITY  history.label "इतिहास">
+<!ENTITY  clearDataSettings.label        "संरचना...">
+<!ENTITY  cookieExceptions.label        "अपवाद...">
+<!ENTITY  clearDataNow.label             "आताच पुसून टाका...">
+<!ENTITY  askEachTime.label             "मला दरवेळी विचारा">
+<!ENTITY  rememberForms.label           "फॉर्म व शोध पट्टीत मी काय प्रविष्ट करतो ते लक्षात ठेवा">
+<!ENTITY  rememberDownloads.label       "मी काय डाउनलोड केले हे लक्षात ठेवा">
+<!ENTITY  rememberForms.accesskey       "f">
+<!ENTITY  showCookies.label             "कुकीज दर्शवा...">
+<!ENTITY  keepUntil.label               "तोपर्यंत ठेवा जोपर्यंत:">
+<!ENTITY  close.label                   "मी &brandShortName; बंद करतो">
+<!ENTITY  acceptCookies.accesskey       "c">
+
+<!ENTITY  privateData.label             "माहिती पुसून टाका">
+<!ENTITY  expire.label                  "ते कालबाह्य होतात">
+<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  clearDataNow.label2            "आताच पुसून टाका">
+<!ENTITY  alwaysClear.label              "&brandShortName; बंद केल्यावर नेहमी माझी व्यक्तिगत माहिती पुसून टाका">
+<!ENTITY  askBeforeClear.accesskey       "A">
+
+<!ENTITY  rememberDaysBefore.label      "इतिहासात किमान खालिल काळाकरीता समाविष्ठीत ठेवा">
+<!ENTITY  rememberDaysBefore.accesskey  "h">
+<!ENTITY  rememberDaysAfter2.label      "दिवस">
+<!ENTITY  acceptThirdParty.label        "तिसरे-पक्ष कुकीज स्वीकारा">
+<!ENTITY  acceptThirdParty.accesskey    "p">
+

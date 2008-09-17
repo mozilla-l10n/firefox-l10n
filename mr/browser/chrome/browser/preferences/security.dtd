@@ -1,0 +1,40 @@
+<!ENTITY  warnAddonInstall.label        "स्थळ ऍड-ऑन प्रतिष्ठापनचा प्रयत्न करतेवेळी">
+<!ENTITY  warnAddonInstall.accesskey    "W">
+
+<!-- LOCALIZATION NOTE (tellMaybeForgery.label):
+  The methods by which forged (phished) sites will be detected by phishing
+  providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that this string and
+  useDownloadedList.label convey the meaning "suspected" (and not something like
+  "known").
+-->
+<!ENTITY  tellMaybeForgery.label     "भेट देऊ इच्छित स्थळ संशयीत असल्यास मला सांगा">
+<!ENTITY  tellMaybeForgery.accesskey "T">
+
+<!-- LOCALIZATION NOTE (askThirdParty.label):
+  The entities askThirdParty.label and askThirdPartyAfter.label appear on a
+  single line in preferences as follows:
+
+  &askThirdParty.label  [ menulist of phishing list providers ]   &askThirdPartyAfter.label;
+-->
+
+<!ENTITY  addonExceptions.label         "अपवाद...">
+<!ENTITY  addonExceptions.accesskey     "E">
+<!ENTITY  passwords.label               "गुप्तशब्द">
+<!ENTITY  rememberPasswords.label       "स्थळांकरीता गुप्तशब्द लक्षात ठेवा">
+<!ENTITY  rememberPasswords.accesskey   "R">
+<!ENTITY  passwordExceptions.label      "अपवाद...">
+<!ENTITY  passwordExceptions.accesskey  "x">
+<!ENTITY  useMasterPassword.label        "मुख्य गुप्तशब्दचा वापर करा">
+<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  changeMasterPassword.label     "मुख्य गुप्तशब्द बदलवा...">
+<!ENTITY  changeMasterPassword.accesskey "M">
+<!ENTITY  warnings.label                "सावधानतेचे संदेश">
+<!ENTITY  chooseWarnings.label          "कुठले सावधानतेचे संदेश तुम्हाला संचार करतेवेळी पाहिचे आहे ते निवडा">
+<!ENTITY  warningSettings.label         "रचना...">
+<!ENTITY  warningSettings.accesskey     "S">
+
+<!ENTITY  savedPasswords.label            "संचयीत गुप्तशब्द…">
+<!ENTITY  savedPasswords.accesskey        "P">
+<!ENTITY  tellMaybeAttackSite.label     "भेट देण्याजोगी स्थळ सदोषीत प्रहार स्थळ आहे का">
+<!ENTITY  tellMaybeAttackSite.accesskey "k">

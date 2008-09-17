@@ -1,0 +1,167 @@
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!-- Command Bar items -->
+
+<!ENTITY cmd.uninstall.label "अप्रस्थापीत करा">
+
+
+<!ENTITY cmd.useTheme.label "सूत्र योजनेचा वापर करा">
+<!ENTITY cmd.useTheme.accesskey "T">
+<!ENTITY cmd.useTheme.tooltip "&brandShortName;च्या सूत्र योजनेत बदल होतो">
+<!-- the following command bar items are used by thunderbird only -->
+<!-- Context Menu Options: Extension -->
+
+<!ENTITY cmd.options.label "पर्याय">
+<!ENTITY cmd.options.accesskey "O">
+<!ENTITY cmd.options.tooltip "निवडलेल्या वाढीव कार्यक्रमासाठी पर्याय निश्चीत करा">
+<!ENTITY cmd.optionsUnix.label "आवडीनिवडी">
+<!ENTITY cmd.optionsUnix.accesskey "r">
+<!ENTITY cmd.optionsUnix.tooltip "निवडलेल्या वाढीव कार्यक्रमाकरीता प्राधान्यता संपादित करा">
+<!ENTITY cmd.homepage.label "आरंभ पान पहा">
+<!ENTITY cmd.homepage.accesskey "H">
+<!ENTITY cmd.about.accesskey "A">
+<!ENTITY cmd.enable.label "कार्यान्वीत करा">
+<!ENTITY cmd.enable.accesskey "E">
+<!ENTITY cmd.disable.label "अकार्यन्वीत करा">
+<!ENTITY cmd.disable.accesskey "D">
+
+<!-- Extension Items -->
+
+<!ENTITY previewNoThemeSelected.label "सूत्र योजना निवडली नाही">
+<!ENTITY previewNoPreviewImage.label "ह्या सूत्र योजनेला झलक चित्र नाही">
+
+
+<!ENTITY toBeInstalled.label              "&brandShortName; परत चालू केल्यावरच हे ऍड-ऑन स्थापित होईल.">
+<!ENTITY em.width                         "520">
+<!ENTITY cmd.enable.tooltip               "&brandShortName; परत चालू केल्यावर ह्या ऍड-ऑन ला कार्यन्वीत करा">
+<!ENTITY cmd.about2.label                 "ह्या  ऍड-ऑन विषयी">
+<!ENTITY installSuccessRestart.label      "स्थापन पूर्ण करण्याकरीता पुन्हा सुरू करा.">
+<!ENTITY cmd.installFileTheme.tooltip     "सुत्रयोजना स्थापित करा">
+<!ENTITY update.label                     "अद्ययावत">
+
+<!ENTITY locales.label                    "भाषा">
+<!ENTITY cmd.skip.label                   "दुर्लक्ष करा">
+<!ENTITY getThemes.label                  "सुत्रयोजना प्राप्त करा">
+<!ENTITY cmd.enableAll.accesskey          "a">
+<!ENTITY em.height                        "380">
+<!ENTITY cmd.continue.accesskey           "C">
+<!ENTITY cmd.installUpdatesAll.label      "अद्ययावत स्थापित करा">
+<!ENTITY installSuccess.label             "स्थापन यशस्वीरित्या पूर्ण झाले.">
+
+<!ENTITY includeUpdate.accesskey          "n">
+<!ENTITY installWaiting.label             "प्रतिक्षेत...">
+<!ENTITY cmd.includeUpdate.accesskey      "n">
+
+<!ENTITY toBeUninstalled.label            "&brandShortName; परत चालू केल्यावरच हे ऍड-ऑन स्थापित होईल.">
+<!ENTITY cmd.checkUpdatesAllAddon.tooltip "आपल्या  ऍड-ऑन करीता अद्ययावत शोधतो">
+<!ENTITY addons.title                     "ऍड-ऑन">
+<!ENTITY cmd.checkUpdate.accesskey        "F">
+<!ENTITY cmd.disable.tooltip              "&brandShortName; परत चालू केल्यावरच हे ऍड-ऑन अकार्यन्वीत होईल.">
+<!ENTITY getExtensions.label              "वाढीव कार्यक्रम प्राप्त करा">
+<!ENTITY cmd.disableAll.label             "सर्व अकार्यन्वीत करा">
+<!ENTITY moreInfo.label                   "अधिक माहिती">
+<!ENTITY needsDependencies.label          "अगाऊ घटकांची गरज.">
+<!ENTITY cmd.continue.label               "पुढे चला">
+<!ENTITY installFinishing.label           "स्थापन करीत आहे...">
+<!ENTITY cmd.checkUpdatesAll.label        "अद्ययावत शोधा">
+<!ENTITY cmd.installFileAddon.tooltip     "ऍड-ऑन स्थापित करा">
+<!ENTITY cmd.installUpdate.label          "अद्ययावत  स्थापित करा">
+<!ENTITY toBeDisabled.label               "&brandShortName; परत चालू केल्यावरच हे ऍड-ऑन अकार्यन्वीत होईल.">
+<!ENTITY cmd.enableAll.tooltip            "दर्शविलेले सर्व ऍड-ऑन कार्यन्वीत करा">
+<!ENTITY cmd.checkUpdate.label            "अद्ययावत शोधा">
+<!ENTITY cmd.cancelUninstall.label        "स्थापन न केलेले रद्द करा">
+<!ENTITY extensions.label                 "वाढीव कार्यक्रम">
+<!ENTITY cancel.label                     "रद्द करा">
+<!ENTITY cmd.installUpdatesAll.accesskey  "I">
+
+<!ENTITY installIncompatibleUpdate.label  "सहत्व तपासात आहे...">
+<!ENTITY includeUpdate.tooltip            "अद्ययावत स्थापन करतेवेळी ह्या ऍड-ऑनला समाविष्ट करा">
+<!ENTITY cmd.uninstall2.tooltip           "&brandShortName; पुन्हा सुरू करतेवेळी ह्या ऍड-ऑनला अस्थापित करा">
+
+<!ENTITY cmd.cancelUninstall.accesskey    "C">
+<!ENTITY cmd.skip.accesskey               "S">
+<!ENTITY cmd.installLocalFile.label       "स्थापन करा...">
+<!ENTITY cmd.cancelUninstall.tooltip      "ह्या ऍड-ऑनचे अप्रस्थापन रद्द करा">
+<!ENTITY blocklisted.label                "आपल्या सुरक्षेकरीता अकार्यन्वीत केले.">
+<!ENTITY cmd.installUpdatesAll.tooltip    "निवडलेले अद्ययावत स्थापित करा">
+<!ENTITY cmd.checkUpdatesAllTheme.tooltip "आपल्या सुत्रयोजनेकरीता अद्ययावत शोधा">
+<!ENTITY themes.label                     "सुत्रयोजना">
+<!ENTITY cmd.includeUpdate.label          "अद्ययावत समाविष्ट करा">
+<!ENTITY cmd.disableAll.tooltip           "दर्शविलेले सर्व ऍड-ऑन अकार्यान्वीत करा">
+<!ENTITY updateSuccess.label              "अद्ययावत यशस्वीरित्या पूर्ण झाले.">
+<!ENTITY cmd.installUpdate.accesskey      "I">
+<!ENTITY toBeEnabled.label                "&brandShortName; परत चालू केल्यावरच हे ऍड-ऑन कार्यन्वीत होईल.">
+<!ENTITY plugins.label                    "प्लगईन">
+<!ENTITY install.label                    "प्रतिष्ठापना">
+<!ENTITY installFailure.label             "स्थापन अपयशी.">
+<!ENTITY cmd.skip.tooltip                 "ह्या अद्ययावतास दुर्लक्ष करा ">
+<!ENTITY cmd.disableAll.accesskey         "s">
+<!ENTITY cmd.checkUpdatesAll.accesskey    "F">
+<!ENTITY cmd.uninstall2.accesskey         "U">
+<!ENTITY cmd.continue.tooltip             "&brandShortName; ला दाखल करणे चालू राहू द्या">
+<!ENTITY cancel.accesskey                 "C">
+<!ENTITY includeUpdate.label              "ह्या अद्ययावतास समाविष्ट करा">
+<!ENTITY cmd.installUpdate.tooltip        "ह्या ऍड-ऑन करीता अद्ययावत स्थापित करा">
+<!ENTITY cmd.enableAll.label              "सर्व कार्यान्वीत करा">
+
+
+<!ENTITY search.label                     "ऍड-ऑन प्राप्त करा">
+<!ENTITY cmd.installLocalFile.accesskey   "n">
+<!ENTITY cmd.restartApp2.label            "&brandShortName; पुन्ह सुरू करा">
+<!ENTITY cmd.restartApp2.accesskey        "R">
+<!ENTITY cmd.restartApp2.tooltip          "बदल लागू करण्याकरीता &brandShortName; पुन्हा सुरू करा">
+<!ENTITY cmd.cancelInstall.label          "प्रतिष्ठापन रद्द करा">
+<!ENTITY cmd.cancelInstall.accesskey      "C">
+<!ENTITY cmd.cancelInstall.tooltip        "या ऍड-ऑनचे प्रतिष्ठापन रद्द करा">
+<!ENTITY cmd.cancelUpgrade.label          "अद्ययावत रद्द करा">
+<!ENTITY cmd.cancelUpgrade.accesskey      "C">
+<!ENTITY cmd.cancelUpgrade.tooltip        "या ऍड-ऑनचे अद्ययावत रद्द करा">
+<!ENTITY cmd.showUpdateInfo.label         "माहिती दर्शवा">
+<!ENTITY cmd.showUpdateInfo.accesskey     "S">
+<!ENTITY cmd.showUpdateInfo.tooltip       "या अद्ययावत विषयी अधिक माहिती दर्शवा">
+<!ENTITY cmd.hideUpdateInfo.label         "माहिती लपवा">
+<!ENTITY cmd.hideUpdateInfo.accesskey     "H">
+<!ENTITY cmd.hideUpdateInfo.tooltip       "अद्ययावत विषयी माहिती लपवा">
+<!ENTITY cmd.installSearchResult.label     "&brandShortName; ला जोडा…">
+<!ENTITY cmd.installSearchResult.accesskey "A">
+<!ENTITY cmd.installSearchResult.tooltip   "हे ऍड-ऑन डाऊनलोड करा व प्रतिष्ठापीत करा">
+<!ENTITY cancelInstall.label              "रद्द करा">
+<!ENTITY cancelInstall.accesskey          "C">
+<!ENTITY cancelUpgrade.label              "रद्द करा">
+<!ENTITY cancelUpgrade.accesskey          "C">
+<!ENTITY insecureUpdate.label             "सुरक्षीत अद्ययावत पुरवित नाही.">
+<!ENTITY toBeUpdated.label                "&brandShortName; पुन्हा सुरू केल्यावर हे ऍड-ऑन अद्ययावत केले जाईल.">
+<!ENTITY getPlugins.label                 "प्लगइन प्राप्त करा">
+<!ENTITY searchAddons.label               "सर्व ऍड-ऑन शोधा">
+<!ENTITY browseAddons.label               "सर्व ऍड-ऑनचे संचारन करा">
+<!ENTITY searchFailed.label               "&brandShortName; ऍड-ऑन प्राप्त करू शकले नाही">
+<!ENTITY recommendedHeader.label          "सूचविलेले">
+<!ENTITY recommendedThrobber.label        "सूचविलेले ऍड-ऑन प्राप्त करीत आहे">
+<!ENTITY searchThrobber.label             "ऍड-ऑन शोधत आहे">
+<!ENTITY resetSearch.label                "परिणाम पुसून टाका">
+<!ENTITY noSearchResults.label            "सर्व परिणाम आधिपासूनच प्रतिष्ठापीत किंवा असहत्व आहेत.">
+<!ENTITY noRecommendedResults.label       "सर्व उपदेश आधिपासून प्रतिष्ठापीत किंवा असहत्व आहे.">
+<!ENTITY emptySearch.label                "जुळविण्याजोगी ऍड-ऑन आढळले नाही">
+<!ENTITY emptySearch.button               "ठिक आहे">
+<!ENTITY cancelSearch.button              "रद्द करा">
+<!ENTITY searchFailed.button              "ठिक आहे">
+<!ENTITY searchResultHomepage.value       "आणखी शिका">
+<!ENTITY searchBox.label                  "सर्व ऍड-ऑन शोधा">
+<!ENTITY recommendedResults.label         "सर्व सूचविलेले ऍड-ऑन पहा">
+<!ENTITY searchResultConnecting.label     "जुळवणी स्थपीत करीत आहे…">
+<!ENTITY searchResultInstalling.label     "प्रतिष्ठापन करीत आहे…">
+<!ENTITY searchResultFailed.label         "प्रतिष्ठापन अपयशी">
+<!ENTITY searchResultInstalled.label      "प्रतिष्ठापन पूर्ण झाले">
+<!ENTITY addonTypeExtension.label         "विस्तार">
+<!ENTITY addonTypeTheme.label             "सुत्रयोजना">
+<!ENTITY missingThumbnail.label           "पूर्वदृश्य नाही">
+<!ENTITY infoNoAddonSelected.label        "अद्ययावत निवडले नाही">
+<!ENTITY infoNoUpdateInfo.label           "या अद्ययावत मध्ये अगाऊ माहिती समाविष्ठीत नाही">
+<!ENTITY infoUpdateInfoError.label        "या अद्ययावत विषयी माहिती दाखल करतेवेळी त्रुटी आढळली">
+<!ENTITY updateSuccessRestart.label       "अद्ययावत पूर्ण करीता पुन्हा सुरू करा.">
+<!ENTITY progressStatus.label             "अद्ययावत करीता तपास करीत आहे">
+<!ENTITY eula.title                       "वापरकर्ता परवाना करार">
+<!ENTITY eula.width                       "560px">
+<!ENTITY eula.height                      "400px">
+<!ENTITY eula.accept                      "स्वीकारा व प्रतिष्ठापीत करा…">

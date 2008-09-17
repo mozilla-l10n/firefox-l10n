@@ -1,0 +1,84 @@
+<!ENTITY  updateWizard.title              "सॉफ्टवेअर अद्ययावत">
+
+<!ENTITY  window.width                    "36em">
+<!ENTITY  window.macWidth                 "39em">
+
+<!ENTITY  checking.title                  "अद्ययावताकरीता तपासत आहे">
+<!ENTITY  checking.label                  "&brandShortName; आता अद्ययावत तपासत आहे...">
+
+<!ENTITY  cancel.label                    "रद्द करा">
+<!ENTITY  cancel.accesskey                "C">
+
+<!ENTITY  noupdatesfound.title            "अद्ययावत आढळले नाही">
+<!ENTITY  noupdatesfound.intro            "नविन अद्ययावत उपलब्ध नाही. &brandShortName; 
+नियतकालिक 
+                                                                                    नव्या अद्ययावताकरीता तपास करेल.">
+
+<!ENTITY  clickHere.label                 "ह्या अद्ययावताविषयी अधिक माहिती पहा">
+<!ENTITY  incompatible.warning            "ह्या अद्ययावतामुळे काहीक वाढीव कार्यक्रम व/किंवा सुत्रयोजना 
+जोपर्यंत अद्ययावतीत
+                                                                                     होत नाही तोपर्यंत ते कार्यान्वीत होणार नाही.">
+<!ENTITY  listIncompatible.label          "यादी दर्शवा">
+<!ENTITY  listIncompatible.accesskey      "L">
+
+
+<!ENTITY  upgrade.evangelism              "&brandShortName; चा सुधार तुम्ही 
+त्वरीत करावा
+                                                                                     असे ठामपणे सुचविले जाते.">
+
+<!ENTITY  license.instructions            "ह्या कराराच्या अटी मान्य असल्यास, ह्या अद्ययावताचे प्रतिष्ठापन पुढे चालु ठेवण्याकरीता खालिल 
+                                                                                      मला मान्य आहे वर क्लिक करा.">
+<!ENTITY  downloading.title               "अद्ययावत डाउनलोड करीत आहे">
+<!ENTITY  downloading.intro               "अद्ययावत डाउनलोड करीत आहे...">
+<!ENTITY  connecting.label                "अद्ययावत सर्वरशी जुळवणी होत आहे...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; डाउनलोड केलेल्या
+वाढीव अद्ययावताची
+                                                                                      एकाग्रता तपासू शकला नाही, त्यामुळे
+आता पूर्ण
+                                                                                      अद्ययावत संकुलाचे डाउनलोड करीत आहे.">
+
+<!ENTITY  details.link                    "तपशील">
+<!ENTITY  pause.label                     "स्तब्ध">
+<!ENTITY  pause.accesskey                 "e">
+<!ENTITY  close.label                     "बंद करा">
+<!ENTITY  close.accesskey                 "C">
+
+<!ENTITY  error.label                     "ह्या अद्ययावताकरीता तपास करतेवेळी, डाउनलोड करतेवेळी किंवा प्रतिष्ठापनेवेळी अडचणी आढळले. &brandShortName; अद्ययावत करू शकले नाही कारण:">
+                                           
+<!ENTITY  errorManual.label               "ह्या लिंक वर भेट देऊन व अलिकडील आवृत्ती डाउनलोड करुन तुम्ही &brandShortName; स्वतः अद्ययावत करू शकता:">
+                                           
+<!ENTITY  errorpatching.title             "अद्ययावत अपयशी">
+<!ENTITY  errorpatching.intro             "अशंतः अद्ययावत  कार्यान्वात केल्या जाऊ शकले नाही. 
+                                                                                     पूर्ण अद्ययावत डाउनलोड करून &brandShortName; पुन्हा प्रयत्न करेल.">
+
+<!ENTITY  finished.title                  "अद्ययावत डाउनलोड केले">
+
+
+<!ENTITY  finishedBackground.title        "अद्ययावत प्रतिष्ठापनास सज्ज आहे">
+<!ENTITY  finishedBackground.name         "अद्ययावत :">
+
+<!ENTITY  installed.title                 "अद्ययावत  प्रतिष्ठापीत">
+<!ENTITY  installed.intro                 "अद्ययावत  यशस्वीरित्या पूर्ण झाले.">
+<!ENTITY  whatsnew.label                  "नवीन काही असल्यास अधिक वाचा...">
+
+<!ENTITY  update.details.label            "तपशील">
+<!ENTITY  update.installedOn.label        "यावेळी प्रतिष्ठापित केले:">
+<!ENTITY  update.status.label             "स्थिती:">
+
+<!ENTITY  license.instructionText         "कृपया खालिल परवाना करार वाचा. कराराचे उर्वरीत भाग पाहण्याकरीता वर खाली पट्टीचा वापर करा.">
+<!ENTITY  finished.text                   "अद्ययावत यशस्वीरित्या डाउनलोड झाले व तपासल्या सुद्धा गेले, व त्याचे 
+प्रतिष्ठापन पुढच्यावेळी
+                                           &brandShortName; सुरूकरतेवेळी होईल.">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  finishedBackground.more1        "अद्ययावत आता प्रतिष्ठापन करण्याकरीता &brandShortName; पुन्हा सुरू करावर क्लिक करा.">
+<!ENTITY  license.titleText               "सॉफ्टवेअर परवाना करार">
+<!ENTITY  finishedBackground.text         "&brandShortName; ने महत्वाचे अद्ययावत डाउनलोड केले व तपासले. 
+                                                                                     अधिक माहिती करीता खालिल लिंकवर क्लिक करा.">
+<!ENTITY  license.introText               "हे सॉफ्टवेअर वापरण्याकरीता अटी व नियम.">
+<!ENTITY  license.decline                 "परवाना करारातील अटी मी स्विकारत नाही">
+<!ENTITY  license.decline.accesskey       "T">
+<!ENTITY  license.accept                  "परवाना करारातील अटी मी स्विकारतो">
+
+<!ENTITY  finishedBackground.textNotNow   "हे संवाद बंद करण्याकरीता आता नाही या बटणावर क्लिक करून पुढे चला. &brandShortName;
+                                           पुढच्यावेळी सुरू होतेवेळी अद्ययावत प्रतिष्ठापीत करेल.">
+<!ENTITY  incompatibleChecking.label      "हे अद्ययावत विस्तार व/किंवा सुत्रयोजनासह अडचण निर्माण करेल याची तपासणी करीत आहे…">

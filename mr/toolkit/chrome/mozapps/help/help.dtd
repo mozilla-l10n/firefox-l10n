@@ -1,0 +1,41 @@
+<!ENTITY printCmd.commandkey            "p">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+<!ENTITY backButton.label               "मागे">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "एक पान मागे जा">
+<!ENTITY forwardButton.label            "पुढे">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "एक पान पुढे जा">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "मुख्य">
+<!ENTITY homeButton.tooltip             "मदतीच्या पहिल्या पानावर जा">
+<!ENTITY printButton.label              "छपाई">
+<!ENTITY printButton.tooltip            "हे पान छापा">
+<!ENTITY closeWindow.commandkey         "W">
+<!ENTITY searchtab.label    	  	"शोधा">
+<!ENTITY searchtab.accesskey            "S">
+<!ENTITY toctab.label       	  	"मजकूर">
+<!ENTITY toctab.accesskey               "C">
+<!ENTITY helpSearch.commandkey          "k">
+<!ENTITY zLevel.label                   "नेहमी वर">
+<!ENTITY zLevel.accesskey               "T">
+<!ENTITY selectAllCmd.label             "सर्वे निवडा">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY copyCmd.label                  "प्रत बनवा">
+<!ENTITY selectAllCmd.accesskey         "A">
+
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeBtn.label       "मोठे करा">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceBtn.label        "लहान करा">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY searchClose.tooltip            "शोध परिणाम बंद करा">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">

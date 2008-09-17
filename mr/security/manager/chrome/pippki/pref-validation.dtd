@@ -1,0 +1,86 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David P. Drinan (ddrinan@netscape.com)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY  validation.crl.description "प्रमाणपत्र डाटाबेस मध्ये संचयीत केलेले प्रमाणपत्र रिवोकेशन यादी  (CRL) नियंत्रीत करण्याकरीता CRL व्यवस्थापकाचे वापर करा.">
+<!ENTITY  validation.managecrls.button      "CRL नियंत्रीत करा...">
+<!ENTITY  validation.managecrls.accesskey   "M">
+<!ENTITY  validation.crlmanager.label       "CRL नियंत्रीत करा ">
+<!ENTITY  validation.crlname.label          "नाव">
+<!ENTITY  validation.crllastupdate.label    "मागील अद्ययावत">
+<!ENTITY  validation.crlnextupdate.label    "पुढील अद्ययावत">
+<!ENTITY  validation.crlautoupdateenabled.label   "स्व अद्ययावत">
+<!ENTITY  validation.crlautoupdatestatus.label    "स्व अद्ययावत स्थिती">
+<!ENTITY  validation.deletecrl.label        "काढून टाका">
+<!ENTITY  validation.updatecrl.label        "अद्ययावत">
+<!ENTITY  validation.advanced.label         "रचना">
+
+<!ENTITY  validation.crl.autoupdate.title            "स्व CRL अद्ययावत प्राधान्यता">
+<!ENTITY  validation.crl.autoupdate.enable.label     "ह्या CRL करीता स्व अद्ययावत कार्यन्वीत करा ">
+<!ENTITY  validation.crl.autoupdate.time.label1      "अद्ययावत">
+<!ENTITY  validation.crl.autoupdate.time.label2      "दिवस पुढिल अद्ययावत दिनांककरीता">
+<!ENTITY  validation.crl.autoupdate.freq.label1      "दर अद्ययावत">
+<!ENTITY  validation.crl.autoupdate.freq.label2      "दिवस">
+<!ENTITY  validation.crl.autoupdate.url.label        "CRL येथुन आयात केले जाईल:">
+<!ENTITY  crl.import.status.title         "CRL आयात स्थिती">
+<!ENTITY  crl.import.success.message      "प्रमाणपत्र रिवोकेशन यादी (CRL) यशस्वीरित्या आयात झाले.">
+<!ENTITY  crl.issuer.label                "CRL वितरक:">
+<!ENTITY  crl.issuer.org.label            "संघटना: ">
+<!ENTITY  crl.issuer.orgunit.label        "गुणांक: ">
+<!ENTITY  crl.import.nextupdate.label     "पुढचे अद्ययावत यानुसारे: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label      "पूर्वीचे लागोपाट अद्ययावत अपयश: ">
+<!ENTITY  crl.autoupdate.fail.reason.label   "शेवटच्या अद्ययावत अपयशाचे तपशील: ">
+<!ENTITY  edit.button      "रचना">
+<!ENTITY serviceURL.label "सेवा URL:">
+<!ENTITY serviceURL.accesskey "S">
+<!ENTITY signingCA.label "प्रतिसाद स्वाक्षरी:">
+<!ENTITY signingCA.accesskey "R">
+<!ENTITY  validation.advanced.accesskey           "S">
+<!ENTITY  pref.validation.title                   "वैधता">
+<!ENTITY  validation.updatecrl.accesskey          "U">
+<!ENTITY validation.ocsp.caption                  "OCSP">
+<!ENTITY  validation.deletecrl.accesskey          "D">
+<!ENTITY  validation.crl.caption                  "CRL">
+
+<!ENTITY  validation.crlmanager.description       "Certificate Revocation Lists (CRL) प्रमाणपत्र माहितीकोष मध्ये संचयीत असतात:">
+<!ENTITY enableOCSP.label                         "प्रमाणपत्राची वैधता  निश्चित करण्याकरीता Online Certificate Status Protocol (OCSP) वापरा">
+<!ENTITY enableOCSP.accesskey                     "U">
+<!ENTITY certOCSP2.label                          "OCSP सर्वर निर्देशीत करत असल्यास प्रमाणपत्रांची वैधता तपासा">
+<!ENTITY certOCSP2.accesskey                      "V">
+<!ENTITY proxyOCSP2.label                         "OCSP सर्वरचा वापर करून सर्व प्रमाणपत्रांची वैधता तपासा:">
+<!ENTITY proxyOCSP2.accesskey                     "a">
+<!ENTITY validation.requireOCSP.description       "OCSP सर्वर जुळवणी अपयशी झाल्यास, प्रमाणपत्रास अवैध म्हणून घोषीत करा">
+<!ENTITY validation.requireOCSP.accesskey         "W">

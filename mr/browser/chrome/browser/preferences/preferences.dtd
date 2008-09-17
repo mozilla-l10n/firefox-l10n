@@ -1,0 +1,12 @@
+<!ENTITY prefWindow.titleWin "पर्याय">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; आवडी">
+<!ENTITY panePrivacy.title "एकांत">
+<!ENTITY paneAdvanced.title "प्रगत">
+<!ENTITY paneContent.title "मजकूर">
+<!ENTITY paneTabs.title "कप्पे, (टॅब्स)">
+<!ENTITY  paneSecurity.title      "सुरक्षा">
+<!ENTITY  paneMain.title          "मुळ">
+<!ENTITY  prefWin.styleWin2       "width: 42em; min-height: 39em;">
+<!ENTITY  prefWin.styleMac2       "width: 47em; min-height: 40em;">
+<!ENTITY  prefWin.styleGNOME2     "width: 42em; min-height: 39.5em;">
+<!ENTITY  paneApplications.title  "अनुप्रयोग">

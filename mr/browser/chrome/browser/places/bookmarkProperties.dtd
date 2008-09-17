@@ -1,0 +1,21 @@
+<!ENTITY bookmarks.name.label                 "नाव:">
+<!ENTITY bookmarks.name.accesskey             "N">
+<!ENTITY bookmarks.location.label             "स्थान:">
+<!ENTITY bookmarks.location.accesskey         "L">
+<!ENTITY bookmarks.keyword.label              "मुख्यशब्द:">
+<!ENTITY bookmarks.keyword.accesskey          "K">
+<!ENTITY bookmarks.description.label          "वर्णन:">
+<!ENTITY bookmarks.description.accesskey      "D">
+<!ENTITY bookmarks.liveTitlesSeparator.label  "वर्तमान शिर्षक">
+<!ENTITY bookmarks.createIn.label             "यात निर्मान करा:">
+<!ENTITY bookmarks.createIn.accesskey         "C">
+<!ENTITY bookmarks.feed_location.label        "फीड स्थान:">
+<!ENTITY bookmarks.feed_location.accesskey    "F">
+<!ENTITY bookmarks.site_location.label        "स्थळ स्थान:">
+<!ENTITY bookmarks.site_location.accesskey    "S">
+<!ENTITY bookmarks.loadInSidebar.label        "बाजूच्यपट्टीत हे ओळखचिन्ह दाखल करा">
+<!ENTITY bookmarks.loadInSidebar.accesskey    "o">
+<!ENTITY bookmarks.expanderDown.tooltip       "सर्व ओळखचिन्ह संचयीका दर्शवा">
+<!ENTITY bookmarks.expanderUp.tooltip         "लपवा">
+<!ENTITY bookmarks.newFolderButton.label      "नविन संचयीका">
+<!ENTITY bookmarks.newFolderButton.accesskey  "e">

@@ -1,0 +1,45 @@
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "लहान करा">
+<!ENTITY bringAllToFront.label "सर्व समोर आणा">
+<!ENTITY zoomWindow.label "झूम">
+<!ENTITY windowMenu.label "विंडो">
+
+<!ENTITY helpMenu.label "मदत">
+<!ENTITY helpMenu.accesskey "H">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "मदत">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutCmd.label "&brandFullName; विषयी">
+<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY helpContents.label "मदत">
+<!ENTITY helpContents.accesskey "H">
+<!ENTITY helpContentsMac.label "&brandShortName; मदत">
+<!ENTITY helpForIEUsers.label "Internet Explorer वापरकर्त्यांसाठी">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.commandkey "VK_HELP">
+<!-- LOCALIZATION NOTE   and openHelpMac2.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+
+<!ENTITY helpReleaseNotes.label "टिप">
+<!ENTITY helpReleaseNotes.accesskey "N">
+<!ENTITY updateCmd.label "अद्ययावताकरता तपासा...">
+<!ENTITY updateCmd.accesskey "o">
+
+<!ENTITY preferencesCmdMac.label        "प्राधान्यता...">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "सर्व दर्शवा">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "इतरांना लपवा">
+<!ENTITY hideThisAppCmdMac.label        "&brandShortName; ला लपवा">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY servicesMenuMac.label          "सेवा">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">

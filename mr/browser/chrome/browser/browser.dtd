@@ -1,0 +1,378 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey -->
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!ENTITY tabCmd.label "नविन टॅब">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "स्थळ उघडा...">
+<!ENTITY openLocationCmd.accesskey "L">
+<!ENTITY openFileCmd.label "फाइल उघडा...">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "पान संरचना...">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "छपाई पूर्व दर्शन">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "छापा...">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY import.label "आयात...">
+<!ENTITY import.accesskey "I">
+
+<!ENTITY goOfflineCmd.label "ऑफलाईन काम करा">
+<!ENTITY goOfflineCmd.accesskey "w">
+
+<!ENTITY navbarCmd.label "दिशादर्शक ठूलबार">
+<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY personalbarCmd.label "ओळखचिन्हांचा  ठूलबार">
+<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "साधनपट्टीतील घटकांना ओळखचिन्ह लावा">
+<!ENTITY taskbarCmd.label "स्थिती पट्टी">
+<!ENTITY taskbarCmd.accesskey "B">
+
+<!ENTITY pageSourceCmd.label "पानाचे उगमस्थान">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "पानाची माहिती">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "पुर्ण पडदा">
+<!ENTITY fullScreenCmd.accesskey "F">
+
+<!ENTITY fullScreenMinimize.tooltip "छोटे करा">
+<!ENTITY fullScreenRestore.tooltip "पूर्वस्थितीत आणा">
+<!ENTITY fullScreenClose.tooltip "बंद करा">
+
+<!ENTITY closeWindow.label "दृश्यचौकट बंद करा">
+
+<!ENTITY bookmarksMenu.label "ओळखचिन्हे">
+<!ENTITY bookmarksMenu.accesskey "B">
+
+<!ENTITY bookmarkAllCmd.label "सर्व टॅब्सला ओळखचिन्ह लावा...">
+<!ENTITY backCmd.label "मागे जा ">
+<!ENTITY backCmd.accesskey "B">
+<!ENTITY backButton.tooltip "ऐक पाऩ मागे जा">
+<!ENTITY forwardCmd.label "पुढे जा ">
+<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY forwardButton.tooltip "ऐक पान पुढे जा">
+<!ENTITY reloadCmd.label "परत दाखल करा">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadButton.tooltip "चालू पान परत दाखल करा">
+<!ENTITY stopCmd.label "थांबा">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY stopButton.tooltip "हे पान दाखल करणे थांबवा">
+
+
+<!ENTITY printButton.label "छापा">
+<!ENTITY printButton.tooltip "हे पान छापा">
+
+<!ENTITY locationItem.title "स्थळ">
+<!ENTITY searchItem.title "शोधा">
+<!ENTITY throbberItem.title "कृती निदर्शक">
+<!ENTITY bookmarksItem.title "ओळखचिन्ह">
+ 
+
+<!-- Toolbar items -->
+
+<!-- Toolbar items --> 
+<!ENTITY homeButton.label "घर, आरंभस्थळ">
+
+<!ENTITY bookmarksButton.label "">
+<!ENTITY bookmarksButton.tooltip "आपले ओळखचिन्ह दर्शवा">
+<!ENTITY bookmarksSidebarCmd.accesskey "B">
+<!ENTITY bookmarksSidebarCmd.commandkey "b">
+<!ENTITY bookmarksSidebarWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label "मागोवा">
+<!ENTITY historyButton.tooltip "तुम्ही नुकतेच पाहिलेले पाने दर्शवा">
+<!ENTITY historySidebarCmd.accesskey "s">
+<!ENTITY historySidebarCmd.commandKey "h">
+
+<!ENTITY toolsMenu.label "साधन">
+<!ENTITY toolsMenu.accesskey "T">
+
+<!ENTITY keywordfield.label "ह्या शोधासाठी एक ठळक शब्द जोडा...">
+<!ENTITY keywordfield.accesskey "K">
+<!ENTITY search.label "वेब शोध">
+<!ENTITY search.accesskey "S">
+<!ENTITY downloads.label "डाउनलोड">
+<!ENTITY downloads.tooltip "चालू डाऊनलोडची प्रगती दर्शवा">
+<!ENTITY downloads.accesskey "D">
+<!ENTITY downloads.commandkey "j">
+<!ENTITY downloadsUnix.commandkey "y">
+<!ENTITY fileMenu.label "फाइल">
+<!ENTITY fileMenu.accesskey "F">
+
+<!ENTITY newNavigatorCmd.label "नविन दृश्यचौकट">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "N">
+
+<!ENTITY editMenu.label "संपादन">
+<!ENTITY editMenu.accesskey "E">
+<!ENTITY undoCmd.label "काढून टाका">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "U">
+<!ENTITY redoCmd.label "पुनः करा">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY cutCmd.label "कापा">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "प्रत बनवा">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "चिकटवा">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "P">
+<!ENTITY deleteCmd.label "काढून टाका">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "D">
+<!ENTITY selectAllCmd.label "सर्व निवडा  ">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY preferencesCmd.label "पर्याय...">
+<!ENTITY preferencesCmd.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "प्राधान्यता">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+
+<!ENTITY clearPrivateDataCmd.label "वैयक्तिगत माहिती पुसून टाका">
+<!ENTITY clearPrivateDataCmd.accesskey "P">
+
+<!ENTITY viewMenu.label "दृश्य">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewToolbarsMenu.label "टूलबार">
+<!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY viewSidebarMenu.label "बाजुची पट्टी">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label "इच्छिक बदल करा.">
+<!ENTITY viewCustomizeToolbar.accesskey "C">
+
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY urlbar.accesskey "d">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+  
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Ctrl+K (cross platform binding)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat) 
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+  Do *not* tamper with these values without talking to ben@mozilla.org
+  
+ -->
+
+<!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2 "e">
+<!ENTITY searchFocusUnix.commandkey "j">
+
+<!ENTITY openLinkCmd.label "दुवा नविन दृश्यचौकटी मधे  उघडा  ">
+<!ENTITY openLinkCmd.accesskey "W">
+<!ENTITY openLinkCmdInTab.label "लिंक नव्या टॅबमध्ये उघडा">
+<!ENTITY openLinkCmdInTab.accesskey "T">
+
+<!ENTITY openFrameCmd.label "चौकट नव्या विंडोत उघडा">
+<!ENTITY openFrameCmd.accesskey "W">
+<!ENTITY openFrameCmdInTab.label "चौकट नव्या टॅबमध्ये उघडा">
+<!ENTITY openFrameCmdInTab.accesskey "T">
+<!ENTITY showOnlyThisFrameCmd.label "फक्त ही चौकट दाखवा">
+<!ENTITY showOnlyThisFrameCmd.accesskey "w">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadFrameCmd.label "फ्रेम परत दाखल करा">
+<!ENTITY reloadFrameCmd.accesskey "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "निवडलेल्या भागाचा स्त्रोत पहा">
+<!ENTITY viewPartialSourceForMathMLCmd.label "MathMLचे स्त्रोत पहा">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label "पानाचे स्त्रोत पहा">
+<!ENTITY viewPageSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.label "चौकटीचा स्त्रोत पहा">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label "पानाविषयी माहिती पहा">
+<!ENTITY viewPageInfoCmd.accesskey "I">
+<!ENTITY viewFrameInfoCmd.label "चौकटविषयी माहिती पहा">
+<!ENTITY viewFrameInfoCmd.accesskey "i">
+<!ENTITY viewImageCmd.label "चित्र पहा">
+<!ENTITY viewImageCmd.accesskey "I">
+<!ENTITY viewBGImageCmd.label "पार्श्वभूमीतील चित्र पहा">
+<!ENTITY viewBGImageCmd.accesskey "w">
+<!ENTITY setDesktopBackgroundCmd.label "डेस्कटॉपच्या पार्श्वभूमीच्या स्वरूपात निश्चित करा...">
+<!ENTITY setDesktopBackgroundCmd.accesskey "S">
+
+<!ENTITY sendPageCmd.label "जोडणी पाठवा...">
+<!ENTITY sendPageCmd.accesskey "e">
+<!ENTITY savePageCmd.label "पान ह्या रूपात साठवा...">
+<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.commandkey "s">
+<!ENTITY saveFrameCmd.label "चौकट रूपात साठवा...">
+<!ENTITY saveFrameCmd.accesskey "F">
+<!ENTITY saveLinkCmd.label "लिंक ह्या रूपात साठवा...">
+<!ENTITY saveLinkCmd.accesskey "k">
+<!ENTITY sendLinkCmd.label "लिंक पाठवा...">
+<!ENTITY sendLinkCmd.accesskey "d">
+<!ENTITY saveImageCmd.label "चित्र ह्या रूपात साठवा...">
+<!ENTITY saveImageCmd.accesskey "v">
+<!ENTITY sendImageCmd.label "चित्र पाठवा...">
+<!ENTITY sendImageCmd.accesskey "n">
+<!ENTITY copyLinkCmd.label "लिंक स्थळाची प्रत बनवा">
+<!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyImageCmd.label "चित्र स्थळाची प्रत बनवा">
+<!ENTITY copyImageCmd.accesskey "o">
+<!ENTITY copyImageContentsCmd.label "चित्राची प्रत बनवा">
+<!ENTITY copyImageContentsCmd.accesskey "y">
+<!ENTITY blockImageCmd.accesskey "g">
+<!ENTITY metadataCmd.label "गुणधर्म">
+<!ENTITY metadataCmd.accesskey "P">
+<!ENTITY copyEmailCmd.label "इ-मेल पत्त्याची प्रत बनवा">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY thisFrameMenu.label "हि फ्रेम">
+<!ENTITY thisFrameMenu.accesskey "h">
+<!-- + is above this key on many keyboards -->
+
+<!ENTITY newTabButton.tooltip "नविन टॅब उघडा">
+<!ENTITY newWindowButton.tooltip " नविन दृश्यचौकट उघडा ">
+<!ENTITY sidebarCloseButton.tooltip "बाजुचीपट्टी बंद करा">
+
+<!ENTITY cutButton.tooltip "कापा">
+<!ENTITY copyButton.tooltip "प्रत बनवा">
+<!ENTITY pasteButton.tooltip "चिकटवा">
+
+<!ENTITY quitApplicationCmdWin.label "बाहेर पडा">
+<!ENTITY quitApplicationCmdWin.accesskey "x">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label "टाळा/सोडून द्या">
+<!ENTITY quitApplicationCmd.accesskey "Q">
+
+<!ENTITY closeCmd.label "बंद करा">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
+
+<!ENTITY pageStyleMenu.label "पान शैली">
+<!ENTITY pageStyleMenu.accesskey "y">
+
+<!ENTITY pageStyleNoStyle.label "No Style">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "मूलभूत पान शैली">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
+
+
+<!ENTITY pageReportIcon.tooltip "ह्या संकेतस्थळाकरता पॉपअप अडवून ठेवणारी रचना बदला">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "पॉपअप अडवूनरी प्राधान्यता संपादित करा...">
+<!ENTITY editPopupSettings.label "पॉपअप अडवूनक पर्याय संपादित करा...">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label "पानाची दिशा बदला">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY bidiSwitchTextDirectionItem.label "मजकुराची दिशा बदला">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
+<!ENTITY findOnCmd.label "या पानात शोधा ">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "परत शोधा">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY spellAddDictionaries.label "शब्दकोश जोडा...">
+
+
+<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY goEndCap.tooltip             "स्थान पट्टीतील पत्त्यावर जा">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY addons.accesskey             "A">
+<!ENTITY quitApplicationCmdMac.key      "Q">
+<!ENTITY subscribeToPageMenupopup.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या">
+<!ENTITY addons.label                 "ऍडऑन">
+
+<!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या...">
+<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY historyUndoMenu.label "अलिकडील बंद केलेले टॅब्स">
+<!ENTITY historyHomeCmd.label "मुळ">
+<!ENTITY addCurPagesCmd.label "सर्व टॅब्सला ओळखचिन्ह लावा...">
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY errorConsoleCmd.label        "त्रूटी कंसोल">
+<!ENTITY addons.tooltip               "प्रतिष्ठापीत  ऍडऑन दर्शवा व नियंत्रीत करा">
+<!ENTITY quitApplicationCmdMac.label    "बाहेर पडा">
+
+<!ENTITY historyMenu.label "इतिहास">
+
+<!--July 24-->
+<!ENTITY backForwardMenu.tooltip      "अलिकडील पाने">
+<!ENTITY bookmarkPageCmd2.label       "या पानास ओळखचिन्ह लावा">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisFrameCmd.label      "या पटलास ओळखचिन्ह लावा">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY bookmarkThisLinkCmd.label      "या लिंकला ओळखचिन्ह लावा">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisPageCmd.label "या पानास ओळखचिन्ह लावा">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY closeWindow.accesskey "d">
+<!ENTITY copyLinkTextCmd.label        "लिंक पाठ्य प्रतिकृत करा">
+<!ENTITY copyLinkTextCmd.accesskey    "x">
+<!ENTITY downloadMonitor2.tooltip "डाऊनलोड चौकट उघडण्याकरीता क्लिक करा">
+<!ENTITY urlbar.emptyText             "ओळखचिन्ह व इतिहास">
+<!ENTITY showImageCmd.label           "प्रतिमा दर्शवा">
+<!ENTITY showImageCmd.accesskey       "S">
+<!ENTITY showAllHistoryCmd2.label "सर्व इतिहास दर्शवा">
+<!ENTITY showAllHistoryCmd.commandkey "H">
+<!ENTITY printFrameCmd.label          "पटलची छपाई करा...">
+<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY organizeBookmarks.label "ओळखचिन्ह नियोजीत करा...">
+<!ENTITY identity.unverifiedsite2 "हे संकेत स्थळ ओळखविषयक माहिती पुरवित नाही.">
+<!ENTITY identity.connectedTo "तुम्ही याच्यासह जुळलेले आहात">
+<!ENTITY identity.runBy "जे यासह चालविले जाते">
+<!ENTITY identity.moreInfoLinkText "अधिक माहिती...">
+<!ENTITY fullZoomEnlargeCmd.label       "मोठे करा">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomReduceCmd.label        "लहान करा">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomResetCmd.label         "पुन्हस्थापन">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomToggleCmd.label        "फक्त पाठ्य मोठे करा">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "विशाल करा">
+<!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY fullScreenAutohide.label "साधनपट्टी लपवा">
+<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenExit.label "पूर्णतया पडदा पद्धती पासून बाहेर पडा">
+<!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY editBookmark.done.label                     "झाले">
+<!ENTITY editBookmark.cancel.label                   "रद्द करा">
+<!ENTITY editBookmark.removeBookmark.label           "ओळखचिन्ह काढूण टाका">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.undo.label                     "पुन्हा करा">
+<!ENTITY editBookmark.undo.accessKey                 "U">
+<!ENTITY editBookmark.edit.label                     "संपादन...">
+<!ENTITY editBookmark.edit.accessKey                 "E">
+<!ENTITY errorConsoleCmd.commandkey   "j">
