@@ -1,37 +1,55 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - Contributor(s):
+   -   Gintautas Grigas <grigas@ktl.mii.lt>
+   -   Tatjana Jevsikova <tatjanaj@julius.ktl.mii.lt>
+   -   Rimas Kudelis <rq@akl.lt>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
 <!ENTITY  languages.customize.prefLangDescript          "Yra tinklalapių, parašytų keliomis kalbomis, su galimybe automatiškai parinkti kalbą. Įtraukite kalbas į žemiau esantį sąrašą ir išdėstykite jas pageidaujama parinkimo eile.">
-<!ENTITY languages.customize.lHeader                    "Kalbos">
-<!ENTITY languages.customize.rHeader                    "Kalbos, kuriomis rodomi tinklalapiai">
+<!ENTITY languages.customize.title                      "Kalbos">
 <!ENTITY langtitle.label                                "Tinklalapių kalbos">
 <!ENTITY languages.customize.prefAddLangDescript        "Pažymėkite kalbas, kurias norėtumėte įtraukti į aktyvių sąrašą.">
-<!ENTITY languages.customize.engOrder.label             "1">
-<!ENTITY languages.customize.engOption.label            "Anglų">
 <!ENTITY languages.customize.addButton.label            "Įtraukti…">
 <!ENTITY languages.customize.addButton.accesskey        "r">
 <!ENTITY languages.customize.deleteButton.label         "Pašalinti">
 <!ENTITY languages.customize.deleteButton.accesskey     "š">
-<!ENTITY languages.customize.title.label			    "Sudaryti kalbų sąrašą">
-<!ENTITY languages.customize.add.title.label		    "Kalbos įtraukimas į sąrašą">
-<!ENTITY languages.customize.left.header			    "Koduotė">
-<!ENTITY charset.customize.right.header		    "Parinkti galimas koduotes">
+<!ENTITY languages.customize.add.title.label            "Kalbos įtraukimas į sąrašą">
 <!ENTITY languages.customize.available.label            "Kalbos:">
 <!ENTITY languages.customize.active.label               "Kalbos:">
-<!ENTITY languages.customize.reorder.label              "Pertvarkyti">
-<!ENTITY languages.customize.remove.label               "Pašalinti">
-<!ENTITY languages.customize.additional.label           "Galimos koduotės">
-<!ENTITY languages.customize.add.label                  "Pridėti">
 <!ENTITY languages.customize.others.label               "Kita:">
 <!ENTITY languages.customize.others.accesskey           "K">
-<!ENTITY languages.customize.Charset.grouplabel         "Koduotė">
-<!ENTITY languages.customize.DefaultCharset.label       "Numatytoji koduotė:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "m">
+<!ENTITY languages.customize.Charset.grouplabel         "Numatytoji koduotė">
+<!ENTITY languages.customize.DefaultCharset.label       "Koduotė:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "d">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "pvz., en-bz, ar-jo">
-<!ENTITY languages.customize.cancel.label		            "Atsisakyti">
-<!ENTITY languages.customize.save.label                 "Įrašyti">
-<!ENTITY languages.customize.ok.label                   "Gerai">
-<!ENTITY languages.customize.save.popup                 "Pakeitimai pradės veikti iš naujo paleidus naršyklę…">
 <!ENTITY languages.customize.moveUp.label               "Pakelti">
 <!ENTITY languages.customize.moveUp.accesskey           "P">
 <!ENTITY languages.customize.moveDown.label             "Nuleisti">

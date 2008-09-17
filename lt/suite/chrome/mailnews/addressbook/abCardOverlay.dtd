@@ -139,13 +139,18 @@
 
 <!ENTITY Other.tab                      "Kita informacija">
 <!ENTITY Other.accesskey                "u">
-<!ENTITY Custom1.label                  " 1: ">
+<!ENTITY Birthday.label                 "Gimtadienis:">
+<!ENTITY Birthday.accesskey             "G">
+<!ENTITY Year.emptytext                 "Metai">
+<!ENTITY Or.value                       "arba">
+<!ENTITY Age.emptytext                  "Amžius">
+<!ENTITY Custom1.label                  "Papildoma 1: ">
 <!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  " 2: ">
+<!ENTITY Custom2.label                  "Papildoma 2: ">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  " 3: ">
+<!ENTITY Custom3.label                  "Papildoma 3: ">
 <!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  " 4: ">
+<!ENTITY Custom4.label                  "Papildoma 4: ">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.box                      "Pastabos">
 <!ENTITY Notes.accesskey                "b">
