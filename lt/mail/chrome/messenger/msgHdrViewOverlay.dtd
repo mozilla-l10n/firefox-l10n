@@ -37,28 +37,41 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Kam: ">
-<!ENTITY fromField.label "Kas: ">
-<!ENTITY senderField.label "Siuntėjas: ">
-<!ENTITY organizationField.label "Organizacija: ">
-<!ENTITY replyToField.label "Atgalinis adresas: ">
+<!ENTITY toField2.label "gavėjas ">
+<!ENTITY fromField2.label "kas ">
+<!ENTITY senderField2.label "siuntėjas ">
+<!ENTITY organizationField2.label "organizacija ">
+<!ENTITY replyToField2.label "atsakymą gaus ">
 
-<!ENTITY subjectField.label "Tema: ">
+<!ENTITY subjectField2.label "tema ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Kopija: ">
-<!ENTITY bccField.label "Nematomoji kopija: ">
-<!ENTITY newsgroupsField.label "Naujienų grupė: ">
-<!ENTITY followupToField.label "Nukreipti į grupę: ">
-<!ENTITY tagsHdr.label "Gairės: ">
-<!ENTITY dateField.label "Data: ">
-<!ENTITY userAgentField.label "Pašto programa: ">
-<!ENTITY referencesField.label "Nuorodos: ">
-<!ENTITY messageIdField.label "Laiško ID: ">
-<!ENTITY inReplyToField.label "Atsakymas į: ">
-<!ENTITY originalWebsite.label "Svetainė: ">
+<!ENTITY ccField2.label "kopija ">
+<!ENTITY bccField2.label "nematomoji kopija ">
+<!ENTITY newsgroupsField2.label "naujienų grupės ">
+<!ENTITY followupToField2.label "atsakymą nukreipti į grupę ">
+<!ENTITY tagsHdr2.label "gairės ">
+<!ENTITY dateField2.label "data ">
+<!ENTITY userAgentField2.label "pašto programa ">
+<!ENTITY referencesField2.label "nuorodos ">
+<!ENTITY messageIdField2.label "laiško ID ">
+<!ENTITY inReplyToField2.label "atsakymas į ">
+<!ENTITY originalWebsite2.label "svetainė ">
 <!ENTITY saveAll.label "Įrašyti visus…">
 
-<!ENTITY editMessage.label "Taisyti juodraštį…">
+<!ENTITY editMessageDescription.label "Tai – laiško juodraštis">
+<!ENTITY editMessageButton.label "Taisyti…">
+<!ENTITY replyButton.label "atsakyti…">
+<!ENTITY forwardButton.label "persiųsti…">
+<!ENTITY junkButton.label "pažymėti kaip šlamštą">
+<!ENTITY trashButton.tooltiptext "pašalinti">
+
+<!ENTITY otherActionsButton.label "kiti veiksmai">
+<!ENTITY saveAsMenuItem.label "įrašyti kaip…">
+<!ENTITY saveAsMenuItem.accesskey "r">
+<!ENTITY viewSourceMenuItem.label "pirminis tekstas…">
+<!ENTITY viewSourceMenuItem.accesskey "p">
+
+<!ENTITY hideDetailsButton.label "rodyti glausčiau">
 
 <!ENTITY openAttachmentCmd.label    "Atverti">
 <!ENTITY openAttachmentCmd.accesskey		"A">

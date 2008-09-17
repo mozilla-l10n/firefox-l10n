@@ -138,6 +138,11 @@
 
 <!ENTITY Other.tab                      "Kiti duomenys">
 <!ENTITY Other.accesskey                "u">
+<!ENTITY Birthday.label                 "Gimtadienis:">
+<!ENTITY Birthday.accesskey             "G">
+<!ENTITY Year.emptytext                 "Metai">
+<!ENTITY Or.value                       "arba">
+<!ENTITY Age.emptytext                  "Amžius">
 <!ENTITY Custom1.label                  "Papildoma 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Papildoma 2:">

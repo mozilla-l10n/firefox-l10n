@@ -67,14 +67,16 @@
 <!ENTITY getNextNMsgCmd.label "Atsiųsti kitus 500 naujienų laiškų">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Išsiųsti laiškus">
-<!ENTITY sendUnsentCmd.accesskey "š">
+<!ENTITY sendUnsentCmd.accesskey "s">
 <!ENTITY subscribeCmd.label "Prenumeruoti…">
 <!ENTITY subscribeCmd.accesskey "m">
+<!ENTITY deleteFolder.label "Pašalinti aplanką">
+<!ENTITY deleteFolder.accesskey "š">
 <!ENTITY renameFolder.label "Pervardyti aplanką…">
 <!ENTITY renameFolder.accesskey "e">
 <!ENTITY renameFolder.key "VK_F2"> 
 <!ENTITY compactFolders.label "Suglaudinti aplankus">
-<!ENTITY compactFolder.accesskey		"d">
+<!ENTITY compactFolder.accesskey	"d">
 <!ENTITY emptyTrashCmd.label "Išvalyti šiukšlinę">
 <!ENTITY emptyTrashCmd.accesskey		"v">
 <!ENTITY importCmd.label "Importuoti…">
@@ -657,12 +659,12 @@
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage1.label "Siekiant apsaugoti Jūsų privatumą, paveikslai iš tinklo blokuojami." >
-<!ENTITY loadRemoteContentButton1.label "Įkelti paveikslus">
+<!ENTITY loadRemoteContentButton2.label "Parodyti paveikslus">
 
 <!-- Phshing bar Bar -->
-<!ENTITY phishingBarMessage1.label "Įtariama, jog laiškas apgaulingas">
+<!ENTITY phishingBarMessage2.label "Šis laiškas gali būti apgaulingas.">
 <!ENTITY removePhishingBarButton1.label "Nepaisyti įspėjimo">
-<!ENTITY reportPhishingError.label "Šiame laiške nėra apgaulės">
+<!ENTITY reportPhishingError1.label "Nepanašu, kad šiame laiške slypėtų apgaulė.">
 
 <!-- Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
