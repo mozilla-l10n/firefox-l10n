@@ -1,0 +1,22 @@
+<!ENTITY colorsDialog.title "Imibala">
+<!ENTITY window.width "38em">
+<!ENTITY window.macWidth "41em">
+
+<!ENTITY allowPagesToUse.label "Allow pages to choose their own colors, instead of my selections above">
+<!ENTITY allowPagesToUse.accesskey "A">
+
+<!ENTITY color "Umbhalo Neliphasi lawo">
+<!ENTITY textColor.label "Umbhalo:">
+<!ENTITY textColor.accesskey "u">
+<!ENTITY backgroundColor.label "Likamuva:">
+<!ENTITY backgroundColor.accesskey "l">
+<!ENTITY useSystemColors.label "Sebentisa imibala yenchubo">
+<!ENTITY useSystemColors.accesskey "e">
+
+<!ENTITY underlineLinks.label "Dvwebela tihlanganisi">
+<!ENTITY underlineLinks.accesskey "d">
+<!ENTITY links "Hlanganisa imibala">
+<!ENTITY linkColor.label "Tihlanganisi letingakavakashelwa:">
+<!ENTITY linkColor.accesskey "t">
+<!ENTITY visitedLinkColor.label "Tihlanganisi lesetivakashelwe:">
+<!ENTITY visitedLinkColor.accesskey "t">

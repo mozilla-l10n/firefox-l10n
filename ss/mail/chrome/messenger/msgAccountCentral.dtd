@@ -1,0 +1,21 @@
+<!ENTITY emailSectionHdr.label "Imeyili">
+<!ENTITY readMsgsLink.label "Fundza imilayeto">
+<!ENTITY composeMsgLink.label "Bhala umlayeto lomusha">
+
+<!ENTITY newsSectionHdr.label "Emacembu etindzaba">
+<!ENTITY subscribeNewsLink.label "Lawula timalingena temacembutindzaba">
+
+<!ENTITY accountsSectionHdr.label "Accounts">
+<!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
+<!ENTITY settingsLink.label "Buka lokuhleliwe lokukule-akhawunti">
+<!ENTITY newAcctLink.label "Yakha I-akhawunti lensha">
+
+<!ENTITY advFeaturesSectionHdr.label "Timphawu letisembili">
+<!ENTITY searchMsgsLink.label "Kusesha imilayeto">
+<!ENTITY filtersLink.label "Kulawula emahluto lekumafiltha">
+<!ENTITY junkSettings.label "Liposi lelicangene lelihleliwe">
+<!ENTITY offlineLink.label "Akunaluchumano kulokuhleliwe">
+
+
+<!ENTITY rssSectionHdr.label "RSS Tindzaba &amp; Blogs">
+<!ENTITY subscibeRSS.label "Lawula timalingena tebulunga">

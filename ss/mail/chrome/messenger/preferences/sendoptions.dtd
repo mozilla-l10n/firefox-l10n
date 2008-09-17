@@ -1,0 +1,39 @@
+<!ENTITY dialog.title "Tfumela lokukhetsako">
+<!ENTITY sendMail.title "Kuhlelwa kwembhalo">
+<!ENTITY sendMaildesc.label "Nawutfumela umlayeto ngefomethi yeHTML kantsi munye nome banyenti bantfu labafanele bawutfole abekho eluhlwini njengalabafanele kutfola iHTML:">
+<!ENTITY askMe.label "Ngibute lekufanele ngikwente">
+<!ENTITY askMe.accesskey "u">
+<!ENTITY convertPlain.label "Gucula lomlayeto ube ngumbhalo lotayelekile">
+<!ENTITY convertPlain.accesskey "g">
+<!ENTITY sendHTML.label "Tfumela lomlayeto ku HTML lokungenani">
+<!ENTITY sendHTML.accesskey "t">
+<!ENTITY sendBoth.label "Tfumela lomlayeto kulombhalo lotayelekile naku HTML">
+<!ENTITY sendBoth.accesskey "u">
+<!ENTITY receiveHTML.label "Nawati lowati angatfola liposi HTML, ungahlola 'I-imeyili letfunyelwe njengembhalo lotayelekile (e seng HTML)' hlola libhokisi ekhadini lelibhuku lemakheli lalowamumukelako.">
+<!ENTITY override.label "Caphela: Sebentisa libhuku lemakheli kukhombisatindlela tembhalo lowunconotako kulowamukelako.">
+
+<!ENTITY domaindesc.label "Nawufuna umlayeto, likheli nalinye lemabito edomeyini labhalwe ngentasi, &brandShortName; ngekutentela tfumela umlayeto ngendlela lengiyo.">
+<!ENTITY HTMLTab.label "Emadomeyini HTML">
+<!ENTITY HTMLTab.accesskey "h">
+<!ENTITY PlainTextTab.label "Emadomeyini embhalo lotayelekile">
+<!ENTITY PlainTextTab.accesskey "e">
+<!ENTITY AddButton.label "Yengeta...">
+<!ENTITY AddHtmlDomain.accesskey "a">
+<!ENTITY AddPlainText.accesskey "d">
+<!ENTITY DeleteButton.label "Cisha">
+<!ENTITY DeleteHtmlDomain.accesskey "l">
+<!ENTITY DeletePlainText.accesskey "t">
+
+<!ENTITY add.htmltitle "Yengeta libito ledomeyini HTML">
+<!ENTITY add.htmldomain "Libito ledomeyini HTML:">
+<!ENTITY add.htmldomain.accesskey "d">
+<!ENTITY add.plaintexttitle "Ngeta libito ledomeyini lonembhalo lotayelekile">
+<!ENTITY add.plaintextdomain "Libito ledomeyini lembhalo lotayelekile:">
+<!ENTITY add.plaintext.accesskey "d">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+
+<!ENTITY domainnameError.title "Liphutsa lelibito ledomeyini">
+<!ENTITY duplicationError.label "Libito ledomeyini @string@ sesivele sikhona eluhleni.">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+
+<!ENTITY dualEntryError.label "Libito ledomeyini aliveli ku HTML naseluhlwini lwembhalo lowetayelekile. Libito ledomeyini @string@ ikhona.">

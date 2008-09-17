@@ -1,0 +1,22 @@
+<!-- extracted from am-advanced.xul -->
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpServer.label "Tinhlelo Teseva Lephumako (SMTP)">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpDesc.label "Nome ungabalula emaseva lamanyenti laphumako (SMTP), loku kunconywa kuphela kubasebentisi lababochwephesha. Kumisa emaseva labomphacanyenti kungahle kubange tingoti nawutfumela imilayeto.">
+
+<!ENTITY smtpListAdd.label "Yengeta...">
+<!ENTITY smtpListAdd.accesskey "n">
+<!ENTITY smtpListEdit.label "Editha...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Susa">
+<!ENTITY smtpListDelete.accesskey "s">
+<!ENTITY smtpListSetDefault.label "Setha idifolthi">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "Inchazelo: ">
+<!ENTITY serverName.label "Libito Lekuseva: ">
+<!ENTITY serverPort.label "Sikhumulo: ">
+<!ENTITY userName.label "Libitosebenta: ">
+<!ENTITY useSecureConnection.label "Simisa Kutsintsana: ">

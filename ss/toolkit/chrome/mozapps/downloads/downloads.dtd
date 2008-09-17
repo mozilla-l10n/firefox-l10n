@@ -1,0 +1,46 @@
+<!ENTITY window.width "400">
+<!ENTITY window.height "300">
+
+<!ENTITY done.label "Kwentiwe">
+<!ENTITY canceled.label "Kwesuliwe">
+<!ENTITY installing.label "Kufaka...">
+
+<!ENTITY starting.label "Kucala...">
+<!ENTITY failed.label "Kwehlulekekile">
+
+<!ENTITY downloads.title "Lokulayishelwe">
+
+<!ENTITY cmd.pause.label "Phumula">
+<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.resume.label "Phindzucale">
+<!ENTITY cmd.resume.accesskey "P">
+<!ENTITY cmd.cancel.label "Yesula">
+<!ENTITY cmd.cancel.accesskey "Y">
+<!ENTITY cmd.show.label "Vula lokucuketse ifolda">
+<!ENTITY cmd.show.labelMac "Show in Finder">
+<!ENTITY cmd.show.accesskey "V">
+<!ENTITY cmd.show.accesskeyMac "F">
+<!ENTITY cmd.open.label "Vula">
+<!ENTITY cmd.open.accesskey "V">
+<!ENTITY cmd.openWith.label "Vula nge...">
+<!ENTITY cmd.openWith.accesskey "v">
+<!ENTITY cmd.retry.label "Phuindza wetame">
+<!ENTITY cmd.retry.accesskey "P">
+<!ENTITY cmd.remove.label "Susa">
+<!ENTITY cmd.remove.accesskey "s">
+<!ENTITY cmd.properties.label "Timphahla">
+<!ENTITY cmd.properties.accesskey "t">
+<!ENTITY cmd.info.commandKey "i">
+
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close2.commandKey "j">
+<!ENTITY cmd.close2Unix.commandKey "y">
+<!ENTITY cmd.cleanUp.label "Khanyisa">
+<!ENTITY cmd.cleanUp.tooltip "Kususa lokucedzile, lokwesuliwe nalokwekhulekile kulayisheleka eluhlwini">
+<!ENTITY cmd.cleanUp.accesskey "K">
+
+<!ENTITY closeWhenDone.label "Vala nasewucedzile kulayishela">
+<!ENTITY closeWhenDone.tooltip "Kuvala lokuLayishelwe nasacedze onkhe emafayela kulayishela">
+
+<!ENTITY filesSavedTo.label "Onkhe emafayela lalayishelwe ku:">
+<!ENTITY showFolder.label "Khombisa lefolda">

@@ -1,0 +1,122 @@
+<!-- Entities for AccountWizard -->
+
+<!ENTITY windowTitle.label "Iwizadi Akhawunti">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
+<!-- Entities for Account Type page -->
+
+
+<!ENTITY accountSetupInfo.label "Kuze utewutfola imilayeto kutadzingeka ucale umise ikheli nome I-akhawunti yelicembu.">
+<!ENTITY accountTypeTitle.label "Kumiswa kwe-akhawunti lensha">
+<!ENTITY accountTypeDesc.label "LeWizadi itawubutsa lwati loludzingekile ekubutseni liposi nome I-akhawunti yeNewsgroup. Nangabe ute lolo lwati loludzingekako, uyacelwa utsintsane nemphatsi wakho walenchubo nome lokusitako nge-inthanethi yakho.">
+<!ENTITY accountTypeDirections.label "Phawula inhlobo ye-akhawunti lotawufuna kuyisebentisa:">
+<!ENTITY accountTypeMail.label "I-imeyili akhawunti">
+<!ENTITY accountTypeMail.accesskey "i">
+<!ENTITY accountTypeNews.label "I-akhawunti yeNewsgroup">
+<!ENTITY accountTypeNews.accesskey "e">
+<!-- Entities for Identity page -->
+
+
+<!ENTITY identityTitle.label "Umatisi">
+<!ENTITY identityDesc.label "I-akhawunti ngayinye inematisi, lokulwati lolukwehlukisa kulabanye nabatfola imibiko levela kuwe.">
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
+<!ENTITY fullnameDesc.label "Faka libito lotsandza kutsi livele ku&quot;Kusuka&quot; indzawo lapho kuphuma khona imilayeto yakho">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+	1, do not translate two of "&quot;"
+	2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(sibonelo, &quot;John Smith&quot;).">
+<!ENTITY fullnameLabel.label "Libito lakho:">
+<!ENTITY fullnameLabel.accesskey "L">
+
+<!ENTITY emailLabel.label "I-imeyili Yemakheli:">
+<!ENTITY emailLabel.accesskey "I">
+<!ENTITY emailDesc.label "Faka likheli lakho le-imeyili; lelo likheli lakho labatabokutfumelela ngalo imilayeto yakho">
+<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
+<!ENTITY emailExample.label "(sibonelo: user@example.net)">
+<!-- Entities for Server page -->
+
+
+<!ENTITY serverTitle.label "Silondvolota Lwati">
+<!ENTITY incomingServerTitle.label "Silondvolotangena">
+<!ENTITY incomingServerTypeDesc.label "Phawula inhlobo yasilondlolotangena lomsebentisako.">
+<!ENTITY incomingServerTypeLabel.label "Inhlobo yesilondvoloti:">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServerNameDesc.label "Faka libito lasilondvolotangena wakho (sibonelo, &quot;mail.example.net &quot;).">
+<!ENTITY incomingServerLabel.label "Silondvoloti salokungenako:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Faka libito lakho lesilondvoloti tindzaba (NNTP) (sibonelo, &quot; tindzaba.sibonelo.net &quot;).">
+<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
+<!ENTITY smtpServerTitle.label "Silondvolotaphuma (SMTP)">
+<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY smtpServerDesc.label "Faka libito lakho lesilondvoloti sekuphuma (SMTP) (sibonelo, &quot;smtp.sibonelo.net&quot;)">
+<!ENTITY smtpServerLabel.label "Silondvolotaphuma:">
+<!ENTITY smtpServerLabel.accesskey "S">
+<!ENTITY newsServerLabel.label "Silondvolotandzaba selicembu:">
+<!ENTITY newsServerLabel.accesskey "S">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY nntpType.label "Silondvolotandzaba">
+<!-- for when the user has an SMTP server pre-configured -->
+<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
+     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
+	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+-->
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+-->
+
+<!ENTITY haveSmtp1.prefix "Silondvolot sakho sekuphuma (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix "&quot; itawusetjentiswa. Ungakulungisa kahle kumiswa kwetilondvolotiphuma ngekuphawula kumiswa kwema-akhawunti kumenyu yemathulusi.">
+<!-- Entities for Login page -->
+
+
+<!ENTITY loginTitle.label "Emabitomsebenti">
+<!ENTITY usernameDesc.label "Faka libitomsebenti lelingenako lolinikwe ngulona lokunike I-imeyili ">
+<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY usernameExample.label "(sibonelo; &quot;jsmith&quot;).">
+<!ENTITY usernameLabel.label "Libitomsebenti lelingenako:">
+<!ENTITY usernameLabel.accesskey "L">
+<!ENTITY usernameSmtpDesc.label "Faka libitomsebenti leliphumako lolinikwe ngulona lokunike I-imeyili (lona lifana ngco nelibitomsebenti lelingenako).">
+<!ENTITY usernameSmtpLabel.label "Libitomsebenti leliphumako:">
+<!ENTITY usernameSmtpLabel.accesskey "L">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Silondvoloti sakho sekuphuma (SMTP) libitomsebenti, &quot;">
+<!ENTITY haveSmtp2.suffix "&quot;, itawusetjentiswa. Ungakulungisa kahle kumiswa kwelibitomsebenti ngekukhetsa kumiswa kwema-akhawunti kumenyu yemathulusi.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "Silondvolotaphuma sakho (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix "&quot; ifana ngco neskilondvolotangena sakhe, libitomsebenti lakho lelingenako litawusetjentiswa kungenakulo. Ungakulungisa kahle kumiswa kwelibitomsebenti ngekukhetsa kumiswa kwema-akhawunti kumenyu yemathulusi.">
+<!-- Entities for Account name page -->
+
+
+<!ENTITY accnameTitle.label "Libito Le-akhawunti">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Faka libito lotawutsandza kutsi ubitwe ngalo kule-akhawunti (sibonelo, &quot;Umsebenti akhawunti&quot;, &quot;Ekhaya akhawunti&quot; nobe &quot;Emacembu akhawunti&quot;).">
+<!ENTITY accnameExample.label "Sibonelo, I-akhawunti yemsebenti, I-akhawunti yasekhaya nome I-akhawunti yetindzaba">
+<!ENTITY accnameLabel.label "Libito Le-akhawunti:">
+<!ENTITY accnameLabel.accesskey "L">
+<!-- Entities for Done (Congratulations) page -->
+
+
+<!ENTITY completionTitle.label "Siyakubongela!">
+<!ENTITY completionText.label "Uyacelwa kutsi ucaphelisise kutsi lolwati lolunikwe ngentasi lungilo yini.">
+<!ENTITY serverTypePrefix.label "Inhlobo yesilondvolotingena:">
+<!ENTITY serverNamePrefix.label "Silondvolotabito lesingenako:">
+<!ENTITY smtpServerNamePrefix.label "Silondvoloti bito lesiphumako (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Libito lesilondvoloti setindzaba (NNTP):">
+<!ENTITY downloadOnLogin.label "Layishela imilayeto-ke nyalo">
+<!ENTITY deferStorageDesc.label "Ungalihloli lelibhokisi lekuhlolwa kutewufakwa khona liposi lale-akhawunti eluhlwini lwayo. Loku kutakwenta kutsi le-akhawunti ivele isezingeni lelisetulu. Ngaphandle kwaloko itaba yincenye yemafolda asekhaya I-akhawunti ye-Global Inbox.">
+<!ENTITY deferStorage.label "Sebentisa I-Global Inbox (gcina I-meyili yakho kumafolda asekhaya)">
+<!ENTITY clickFinish.label "Chofota cedza kuze ulondvolote letimiso bese uyaphuma kuleyo Wizadi akhawunti.">

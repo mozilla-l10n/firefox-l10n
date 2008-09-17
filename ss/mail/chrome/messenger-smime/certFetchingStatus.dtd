@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Layishela Titifiketi">
+<!ENTITY info.message "Isaphenya luhla lwemabito netinombolo talabatfola titifiketi. Loku kungahle kutsatse imizuswana nje.">
+<!ENTITY stop.label "Mani Kuphenya">

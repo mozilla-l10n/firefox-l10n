@@ -1,0 +1,19 @@
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
+<!ENTITY MsgSynchronize.label "Layisha nemilayeto yesinkha">
+<!ENTITY MsgSelect.label "Akunaluchumano kutinhlelo">
+<!ENTITY MsgSyncDesc.label "Nangabe sewuwakhetsile emafolda eliposi nome iNewsgroups ekusebenta ngaphandle kwelilayini, ungawalayishela nome uwakhombise kanyekanye nyalo. Ngaphandle kwaloko, sebentisa likinobho &quot;Khetsa&quot; kukhetsa emafolda eliposi leNewsgroups nawusebenta ngaphandle kwelilayini.">
+<!ENTITY MsgSyncDirections.label "Layisha noma Sinkha lokulandzelako:">
+<!ENTITY syncTypeMail.label "Imilayeto yeliposi">
+<!ENTITY syncTypeMail.accesskey "I">
+<!ENTITY syncTypeNews.label "Imilayeto yeNewsgroup">
+<!ENTITY syncTypeNews.accesskey "I">
+<!ENTITY sendMessage.label "Tfumela imilayeto lengakatfunyelwa">
+<!ENTITY sendMessage.accesskey "T">
+<!ENTITY workOffline.label "Sebenta ngaphandle kwelilayini ungaze ucale kulayishela ne/ nome kukhombisa kanyekanye sekuphelile">
+<!ENTITY workOffline.accesskey "S">
+<!ENTITY selectButton.label "Khetsa...">
+<!ENTITY selectButton.accesskey "T">
+<!ENTITY MsgSelectDesc.label "Khetsa emafolda eliposi nemacembu etindzaba.">
+<!ENTITY MsgSelectInd.label "Layisha">
+<!ENTITY MsgSelectItems.label "Emafolda netindzaba temacembu">

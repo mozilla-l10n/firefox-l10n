@@ -1,0 +1,30 @@
+<!ENTITY window.width "36em">
+
+<!ENTITY cookiesonsystem.label "Lamakukisi lalandzelako agcinwe kukhompyutha yakho:">
+<!ENTITY cookiename.label "Libito Lelikuku">
+<!ENTITY cookiedomain.label "Isayithi">
+<!ENTITY button.removecookie.label "Sus likuku">
+<!ENTITY button.removecookie.accesskey "S">
+<!ENTITY button.removeallcookies.label "Susa Onkhe Emakuku">
+<!ENTITY button.removeallcookies.accesskey "E">
+
+<!ENTITY props.name.label "Libito:">
+<!ENTITY props.value.label "Lokucuketfwe:">
+<!ENTITY props.domain.label "Umvakashelwa:">
+<!ENTITY props.path.label "Indlela:">
+<!ENTITY props.secure.label "Tfumelela:">
+<!ENTITY props.expires.label "Lisipayile:">
+
+<!ENTITY window.title "Emakuku">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.label "Phenya:">
+<!ENTITY filter.accesskey "P">
+<!ENTITY clear.label "Hlobisa">
+<!ENTITY clear.accesskey "h">
+
+<!ENTITY button.close.label "Vala">
+<!ENTITY button.close.accesskey "V">
+

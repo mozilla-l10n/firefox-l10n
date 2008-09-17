@@ -1,0 +1,23 @@
+<!ENTITY settings.caption "Tinhlelo">
+<!ENTITY security.caption "Kuvikeleka nekuciniseka">
+<!ENTITY serverName.label "Libito lesilondvoloti:">
+<!ENTITY serverName.accesskey "L">
+<!ENTITY serverDescription.label "Inchazelo:">
+<!ENTITY serverDescription.accesskey "I">
+<!ENTITY serverPort.label "Sikhumulo:">
+<!ENTITY serverPort.accesskey "S">
+<!ENTITY alwaysUseUsername.label "Sebentisa libito nelibitophawu">
+<!ENTITY alwaysUseUsername.accesskey "S">
+<!ENTITY userName.label "Libitomsebenti:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY isSecure.label "Sebentisa kuchumana lokuvikelekile:">
+<!ENTITY neverSecure.label "Cha">
+<!ENTITY neverSecure.accesskey "C">
+<!ENTITY sometimesSecure.label "TLS, nakutfolakala">
+<!ENTITY sometimesSecure.accesskey "k">
+<!ENTITY alwaysSecure.label "TLS">
+<!ENTITY alwaysSecure.accesskey "T">
+<!ENTITY alwaysSmtpS.label "SSL">
+<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY smtpEditTitle.label "SMTP silulu">
+<!ENTITY serverPortDefault.label "Liphutsa:">

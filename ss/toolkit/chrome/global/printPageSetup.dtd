@@ -1,0 +1,58 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title "Kuhlela likhasi">
+
+<!ENTITY basic.tab "Ifomethi &amp; Kutikhetsela">
+
+<!ENTITY formatGroup.label "Luhlaka">
+
+<!ENTITY orientation.label "Kuboniswa:">
+<!ENTITY portrait "Lokumile">
+<!ENTITY landscape "Lokuvundlile">
+
+<!ENTITY scale.label "Sikeyili:">
+<!ENTITY scalePercent "&#037;">
+
+<!ENTITY shrinkToFit.label "Nciphisa kulinganisa bubanti belikhasi">
+
+<!ENTITY optionsGroup.label "Lokukhetsekile">
+
+<!ENTITY printBG.label "Phrinta Lingemuvalwati (imibala &amp; titfombe)">
+
+<!ENTITY advanced.tab "Malayini &amp; Sihloko/Siphetfo">
+
+<!ENTITY marginGroup.label "Emamajini (#1)">
+<!ENTITY marginUnits.inches "ema-inshi">
+<!ENTITY marginUnits.metric "milimitha">
+<!ENTITY marginTop.label "Etulu:">
+<!ENTITY marginBottom.label "Phasi:">
+<!ENTITY marginLeft.label "Sekuncele:">
+<!ENTITY marginRight.label "Sekudla:">
+
+<!ENTITY headerFooter.label "Sihloko &amp; Siphetfo">
+
+<!ENTITY hfLeft.label "Sekuncele:">
+<!ENTITY hfCenter.label "Umkhatsi:">
+<!ENTITY hfRight.label "Sekudla:">
+<!ENTITY headerLeft.tip "Ngetulu kwelikhasi kusekuncele">
+<!ENTITY headerCenter.tip "Ngetulu kwelikhasi emkhatsini">
+<!ENTITY headerRight.tip "Ngetulu kwelikhasi kusekudla">
+<!ENTITY footerLeft.tip "Ngaphasi kwelikhasi kusekuncele">
+<!ENTITY footerCenter.tip "Ngaphasi kwelikhasi emkhatsini">
+<!ENTITY footerRight.tip "Ngaphasi kwelikhasi kusekudla">
+
+<!ENTITY hfTitle "Sikhundla">
+<!ENTITY hfTitle.code "[&amp;T]">
+<!ENTITY hfURL "URL">
+<!ENTITY hfURL.code "[&amp;U]">
+<!ENTITY hfDateAndTime "Lusuku/sikhatsi">
+<!ENTITY hfDateAndTime.code "[&amp;D]">
+<!ENTITY hfPage "Likhasi #">
+<!ENTITY hfPage.code "[&amp;P]">
+<!ENTITY hfPageAndTotal "Likhasi # ye #">
+<!ENTITY hfPageAndTotal.code "[&amp;PT]">
+<!ENTITY hfBlank "--akunalutfo--">
+<!ENTITY hfCustom "Hlela...">
+
+<!ENTITY customPrompt.title "Hlela...">
+<!ENTITY customPrompt.prompt "Ngenisa kuhlela ngetulu kwelikhasi/umbhalo wangaphasi kwelikhasi">

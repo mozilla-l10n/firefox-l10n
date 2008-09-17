@@ -1,0 +1,17 @@
+<!ENTITY virtualFolderProperties.title "Ifolda lensha leseshwe yalondvolotwa">
+<!ENTITY name.label "Libito:">
+<!ENTITY name.accesskey "l">
+<!ENTITY description.label "Yakha njengesafolda ye:">
+<!ENTITY description.accesskey "Y">
+<!ENTITY searchCriteriaText.label "Lungisa indlela yekusesha lesetjentiswe kulokusesha lokulondvolotiwe:">
+<!ENTITY searchCriteriaButton.label "Phenya libanga...">
+<!ENTITY searchCriteriaButton.accesskey "P">
+
+<!ENTITY searchTermCaption.label "Lungisa lendlela yekusesha lesetjentisiwe yalefold leseshwe yalondvolotwa: ">
+
+<!ENTITY folderSelectionCaption.label "Khetsa emafolda lotowasesha: ">
+<!ENTITY chooseFoldersButton.label "Khetsa...">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Phenya uselayinini (Inika imiphumela lebujyeketiwe ya IMAP nemafolda etindzaba kodvwa khulisa sikhatsi sekuvula ifolda)">
+<!ENTITY searchOnline.accesskey "U">

@@ -1,0 +1,40 @@
+<!ENTITY generalSettings.caption "Tinhlelo tedifolthi">
+<!ENTITY generalSettings.label "Yenta &brandShortName; libe kusetjentiswa lokuyidifolthi ye:">
+<!ENTITY setDefaultMailClient.label "Liposi">
+<!ENTITY setDefaultMailClient.accesskey "L">
+<!ENTITY setDefaultNewsClient.label "Tindzaba">
+<!ENTITY setDefaultNewsClient.accesskey "T">
+<!ENTITY setDefaultFeedClient.label "RSS Tihlanganiso">
+<!ENTITY setDefaultFeedClient.accesskey "T">
+<!ENTITY checkDefaultMailClient.label "&brandShortName; should check to see if it is the default mail client when starting">
+<!ENTITY checkDefaultMailClient.accesskey "n">
+<!ENTITY defaultClientAdvanced.label "Advanced...">
+<!ENTITY defaultClientAdvanced.accesskey "d">
+
+<!ENTITY windowSettings.label "Kuhlelwa kweLiwindo">
+<!ENTITY selectWindowLayout.label "Khetsa indlela yekubukeka kwelifasitelo leLiposi longayitsandza.">
+<!ENTITY selectWindowLayout.accesskey "K">
+
+<!ENTITY messengerStartPage.label "&brandShortName; Cala Likhasi">
+<!ENTITY enableStartPage.label "Nangabe &brandShortName; etfulwa, khombisa Likhasi Lekucala endzaweni yemlayeto">
+<!ENTITY enableStartPage.accesskey "N">
+<!ENTITY location.label "Indzawo:">
+<!ENTITY location.accesskey "I">
+<!ENTITY useDefault.label "Buyisela idifolthi">
+<!ENTITY useDefault.accesskey "B">
+
+<!ENTITY bounceSystemDockIcon.label "Dalisa i-ayikhoni lesikhumulo">
+<!ENTITY bounceSystemDockIcon.accesskey "a">
+
+<!ENTITY newMessagesArrive.label "Uma kufika umlayeto lomusha:">
+<!ENTITY playSound.label "Dlala umsindvo">
+<!ENTITY playSound.accesskey "D">
+<!ENTITY showAnimatedAlert.label "Khombisa ngekuphaphamisa">
+<!ENTITY showAnimatedAlert.accesskey "K">
+<!ENTITY soundbutton.label "Advanced...">
+<!ENTITY soundbutton.accesskey "A">
+
+<!ENTITY showConnections.label "Timiso Tekechuma...">
+<!ENTITY showConnections.accesskey "i">
+<!ENTITY proxiesInfo.label "Tfola kutsi &brandShortName; lichumana njani ne-Inthanethi.">
+<!ENTITY connectionsInfo.caption "Kuhlangana">

@@ -1,0 +1,47 @@
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY findOnCmd.commandkey "F">
+<!ENTITY findAgainCmd.commandkey "G">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY backButton.label "Emuva">
+<!ENTITY backButton.accesskey "E">
+<!ENTITY backButton.tooltip "Buyela emuva lipheji linye">
+<!ENTITY forwardButton.label "Embili">
+<!ENTITY forwardButton.accesskey "E">
+<!ENTITY forwardButton.tooltip "Yani embili lipheji linye">
+<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY goBackCmd.commandkey "[">
+<!ENTITY goForwardCmd.commandkey "]">
+<!ENTITY homeButton.label "Likhaya">
+<!ENTITY homeButton.tooltip "Yani ephejini lekusita kucala">
+<!ENTITY printButton.label "Phrinta">
+<!ENTITY printButton.tooltip "Phrinta lelipheji">
+<!ENTITY closeWindow.commandkey "W">
+
+<!ENTITY throbberItem.title "Sikhombisi semnyakato">
+<!ENTITY throbber.tooltip "Yani kusita kusekshini yekusita">
+
+<!ENTITY searchtab.label "Phenya">
+<!ENTITY searchtab.accesskey "P">
+<!ENTITY toctab.label "Lokucuketfwe">
+<!ENTITY toctab.accesskey "L">
+
+<!ENTITY textZoomReduceCmd.commandkey "-">
+<!ENTITY textZoomEnlargeCmd.commandkey "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY textZoomResetCmd.commandkey "0">
+
+<!ENTITY helpSearch.commandkey "k">
+
+<!ENTITY zLevel.label "Uhlala asetulu">
+<!ENTITY zLevel.accesskey "A">
+
+<!ENTITY textZoomReduceBtn.label "Nciphisa Isayizi Yembhalo">
+<!ENTITY textZoomReduceBtn.accesskey "N">
+<!ENTITY textZoomEnlargeBtn.label "Yandzisa Isayizi Yembhalo">
+<!ENTITY textZoomEnlargeBtn.accesskey "Y">

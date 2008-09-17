@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "Kuvikeleka kwemlayeto">
+<!ENTITY subject.plaintextWarning "Caphela: Imigca yesihloko semilayeto yema-imeyili ayiguculwa.">
+<!ENTITY status.heading "Lokucuketsiwe kwalomlayeto kutotfunyelwa ngalendlela:">
+<!ENTITY status.signed "Sayina ngendlela yedijithali:">
+<!ENTITY status.encrypted "Gucula ngenhloso yekukhoda:">
+<!ENTITY status.certificates "Titifiketi:">
+<!ENTITY view.label "Lunguta">
+<!ENTITY view.accesskey "L">
+<!ENTITY tree.recipient "Lowamukelako">
+<!ENTITY tree.status "Simo">
+<!ENTITY tree.issuedDate "Kuniketiwe">
+<!ENTITY tree.expiresDate "Kuphelelwe sikhatsi">

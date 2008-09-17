@@ -1,0 +1,13 @@
+
+<!ENTITY prefWindow.titleWin "Longakhetsakuko">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; Lelinconotwako">
+<!ENTITY prefWindow.styleWin "width: 44em; height: 38em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleUnix "width: 42em;">
+
+<!ENTITY paneGeneral.title "Lokuvamile">
+<!ENTITY paneDisplay.title "Khombisa">
+<!ENTITY paneComposition.title "Indzaba">
+<!ENTITY paneAttachments.title "Lokuncikisiwe">
+<!ENTITY panePrivacy.title "Imfihlo">
+<!ENTITY paneAdvanced.title "Kwalabaceceshiwe">

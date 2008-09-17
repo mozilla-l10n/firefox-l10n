@@ -1,0 +1,43 @@
+<!ENTITY caption.label "Vula #1">
+<!-- Localization note: The default intro text has 3 "inserts":
+        #1 - replaced with the descriptive text that describes the mime type
+             (e.g., "MSWord Document")
+        #2 - replaced with the mime type (e.g., "application/ms-word")
+        #3 - replaced with the filename (e.g., "manual.doc")
+        #4 - will be replaced by the brand name (e.g., "Mozilla")
+     If there is no descriptive text, then the alternative text is used which
+     has only insert #2.
+ -->
+
+<!ENTITY intro.label "Lefayela &quot;#3&quot; iluhlobo #2 (#1), ne #4 akakwati kuphatsa loluhlobo lefayela. Lefayela itfolakala e:">
+<!ENTITY intro.noDesc.label "Lefayela &quot;#3&quot; iluhlobo #2, ne #4 akakwatikuphatsa loluhlobo lefayela. Lefayela itfolakala e:">
+
+<!ENTITY intro.attachment.label "Lisayithi licabanga kutsi &quot;#3&quot; aphatfwe njengalokuhlanganisiwe. Iluhlobo #2 (#1) futsi itfolakala e:">
+<!ENTITY intro.attachment.noDesc.label "Lisayithi licabanga kutsi &quot;#3&quot; aphatfwe njengalokuhlanganisiwe. Iluhlobo #2 futsi itfolakala e:">
+
+<!ENTITY intro.sniffed.label "#4 utfungatse watfola kutsi fayela &quot;#3&quot; angaba luhlobo la #2 (#1). Lefayela itfolakala e:">
+<!ENTITY intro.sniffed.noDesc.label "#4 utfungatse watfola kutsi fayela &quot;#3&quot; angaba luhlobo la #2. Lefayela itfolakala e:">
+
+<!ENTITY prompt.label "Kufanele enteni #1 ngalefayela?">
+
+<!ENTITY alwaysHandle.label "Sebentisa lendlela nawuphetse emafayela aloluhlobo">
+<!ENTITY alwaysHandle.accesskey "S">
+
+<!ENTITY saveToDisk.label "Yisevele kudiski">
+<!ENTITY saveToDisk.accesskey "Y">
+
+<!ENTITY useSystemDefault.label "Yivule ngedifolthi lesebentisa (#1)">
+<!ENTITY useSystemDefault.noDesc.label "Yivule ngedefault yekusebentisa">
+<!ENTITY useSystemDefault.accesskey "Y">
+<!-- LOCALIZATION NOTE:  do not localize "#1" -->
+
+<!ENTITY openUsing.label "Yivule nge">
+<!ENTITY openUsing.accesskey "n">
+
+<!ENTITY chooseApp.label "Khetsa...">
+<!ENTITY chooseApp.accesskey "K">
+
+<!ENTITY chooseAppFilePickerTitle "Khetsa Kusebentisa Kuncedza">
+
+<!ENTITY badApp "Kusebentisa lokuchazile (&quot;#1&quot;) akutfolakali.  Hlola libito lefayela oma khetsa lesinye sicelo.">
+<!ENTITY badApp.title "Kusebentisa akutfolakali">

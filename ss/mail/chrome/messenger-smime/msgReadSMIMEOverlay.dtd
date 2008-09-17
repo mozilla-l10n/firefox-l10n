@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
+
+<!ENTITY menu_securityStatus.label "Kuvikeleka kwembiko nelwati">
+<!ENTITY menu_securityStatus.accesskey "L">

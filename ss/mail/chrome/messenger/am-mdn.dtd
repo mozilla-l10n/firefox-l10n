@@ -1,0 +1,27 @@
+<!ENTITY pane.title "Buyisela Emarisithi">
+<!ENTITY useGlobalPrefs.label "Sebentisa kuncomeka kwemarisithi ami labuyile emhlaba kule-akhawunti">
+<!ENTITY useGlobalPrefs.accesskey "S">
+<!ENTITY useCustomPrefs.label "Yetayeta labuyile emarisithi kule-akhawunti">
+<!ENTITY useCustomPrefs.accesskey "Y">
+<!ENTITY requestReceipt.label "Nawutfumela imilayeto, uboyicela njalo nje irisithi lebuyako">
+<!ENTITY requestReceipt.accesskey "N">
+<!ENTITY receiptArrive.label "Nakufika irisithi:">
+<!ENTITY leaveIt.label "Yiyekele ekhatsi ku-inbhoksi yami">
+<!ENTITY leaveIt.accesskey "K">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label "Yihambise iye kuFolda yami &quot;Tfumela&quot;">
+<!ENTITY moveToSent.accesskey "Y">
+<!ENTITY requestMDN.label "Nangitfola sicelo serisithi lebuyako:">
+<!ENTITY returnSome.label "Vumela emarisithi labuyako kuleminye imilayeto">
+<!ENTITY returnSome.accesskey "b">
+<!ENTITY never.label "Ungaze uyitfumele irisithi lebuyako">
+<!ENTITY never.accesskey "U">
+<!ENTITY notInToCc.label "Nangingekho ekhatsi Ku nomeCc wemlayeto:">
+<!ENTITY notInToCc.accesskey "K">
+<!ENTITY outsideDomain.label "Nangabelona loyitfumele angephandle kwendzawo yami:">
+<!ENTITY outsideDomain.accesskey "l">
+<!ENTITY otherCases.label "Kuto tonkhe letinye tindzaba:">
+<!ENTITY otherCases.accesskey "t">
+<!ENTITY askMe.label "Ngibute">
+<!ENTITY alwaysSend.label "Tfumela njalo nje">
+<!ENTITY neverSend.label "Ungacali utfumele">

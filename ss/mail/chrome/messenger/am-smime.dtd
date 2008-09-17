@@ -1,0 +1,20 @@
+<!ENTITY securityTitle.label "Kuphepha">
+<!ENTITY securityHeading.label "Kutfumela nekutfola imilayeto lephawuliwe, kufanele uphawule titifiketi letisayinwe ngedijithi naletiphawuliwe.">
+<!ENTITY encryptionGroupTitle.label "Timphawumbhalo">
+<!ENTITY encryptionChoiceLabel.label "Ciniseka ngetinhlelo tetimphawumbhalo nawutfumela imilayeto:">
+<!ENTITY neverEncrypt.label "Ungacali (ungasebentisi timphawu)">
+<!ENTITY alwaysEncryptMessage.label "Lokudzingekile (awukwati kutfumela imilayeto ngaphandle nangabe bonkhe lobatfumelelako banetitifiketi)">
+<!ENTITY encryptionCert.message "Sebentisa sitifiketi lesiphawulwe &amp; ususe timphawu kumlayeto lotfunyelwe kuwe:">
+<!ENTITY encryptionCert.notselected "Kute sitifiketi lesisetguwe">
+<!ENTITY certificate.button "Khetsa...">
+<!ENTITY certificate_clear.button "Yesula">
+<!ENTITY signingGroupTitle.label "Kusayina ngedijithi">
+<!ENTITY signMessage.label "Imilayeto lesayinwe ngedijithi (ngedifolthi)">
+<!ENTITY signingCert.message "Sebentisa lesitifiketi kusayina ngadijithi imilayeto loyitfumelako:">
+<!ENTITY signingCert.notselected "Kute sitifiketi letibekiwe">
+
+<!ENTITY certificates.label "Titifiketi">
+<!ENTITY managecerts.label "View Certificates">
+<!ENTITY managecerts.accesskey "V">
+<!ENTITY managedevices.label "Security Devices">
+<!ENTITY managedevices.accesskey "S">

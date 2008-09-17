@@ -1,0 +1,11 @@
+<!ENTITY window.width "38em">
+
+<!ENTITY ocspDialog.title "Kucinisekisa">
+<!ENTITY validation.ocsp.description "&brandShortName; angasebentisa Online Certificate Status Protocol (OCSP) kuze ahlatiye titifiketi. Setha &brandShortName; utewusebentisa OCSP njengalokulandzelakos:">
+<!ENTITY disableOCSP.label "Ungasebentisi OCSP kucinisekisa sitifiketi">
+<!ENTITY certOCSP.label "Sebentisa OCSP kucinisekisa kuphela titifike letichaza OCSP letisebentisa URL">
+<!ENTITY proxyOCSP.label "Sebentisa OCSP kucinisekisa tonkhe titifiketi letisebentisale URL nesayina:">
+<!ENTITY serviceURL.label "Letisebentisa URL:">
+<!ENTITY serviceURL.accesskey "L">
+<!ENTITY signingCA.label "Kusayina kwemphendvulo:">
+<!ENTITY signingCA.accesskey "K">

@@ -1,0 +1,75 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label "Phenya imilayeto ku:">
+<!ENTITY searchHeading.accesskey "i">
+<!ENTITY searchSubfolders.label "Phenya kumasafolda">
+<!ENTITY searchSubfolders.accesskey "h">
+<!ENTITY resetButton.label "Hlobisa">
+<!ENTITY resetButton.accesskey "H">
+<!ENTITY optionsButton.label "Khetsa">
+<!ENTITY closeButton.label "Vala">
+<!ENTITY openButton.label "Vula">
+<!ENTITY openButton.accesskey "a">
+<!ENTITY deleteButton.label "Cisha">
+<!ENTITY deleteButton.accesskey "C">
+<!ENTITY searchDialogTitle.label "Sesha imilayeto">
+<!ENTITY conditionDesc.label "Sesha imilayeto lefanako:">
+<!ENTITY conditions.label "Indlela yekubuka">
+<!ENTITY results.label "Imiphumela">
+<!ENTITY fileHereMenu.label "Fayela lapha">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY fileButton.label "Lifayela">
+<!ENTITY fileButton.accesskey "a">
+<!ENTITY closeCmd.key "W">
+<!ENTITY goToFolderButton.label "Vula ifolda yemlayeto">
+<!ENTITY goToFolderButton.accesskey "a">
+<!ENTITY saveAsVFButton.label "Save as Search Folder">
+<!ENTITY saveAsVFButton.accesskey "v">
+<!-- for ABSearchDialog.xul -->
+
+<!ENTITY abSearchHeading.label "Search in:">
+<!ENTITY abSearchHeading.accesskey "h">
+<!ENTITY propertiesButton.label "Timphahla">
+<!ENTITY propertiesButton.accesskey "T">
+<!ENTITY composeButton.label "Bhala">
+<!ENTITY composeButton.accesskey "B">
+<!ENTITY abSearchDialogTitle.label "Kusesha kwelibhuku lemakheli lokutfutfukile">
+<!-- Thread Pane -->
+
+<!ENTITY threadColumn.label "Lokucangene">
+<!ENTITY senderColumn.label "Umtfumeli">
+<!ENTITY recipientColumn.label "Lowamukelako">
+<!ENTITY subjectColumn.label "Sihloko">
+<!ENTITY dateColumn.label "Lusuku">
+<!ENTITY priorityColumn.label "Lokusembili">
+<!ENTITY tagsColumn.label "Tags">
+<!ENTITY accountColumn.label "Akhawunti">
+<!ENTITY statusColumn.label "Simo">
+<!ENTITY sizeColumn.label "Bungako">
+<!ENTITY junkStatusColumn.label "Simo salokuhlangene">
+<!ENTITY linesColumn.label "Imigca">
+<!ENTITY unreadColumn.label "Akukafundvwa">
+<!ENTITY totalColumn.label "Samba">
+<!ENTITY readColumn.label "Fundza">
+<!ENTITY starredColumn.label "Starred">
+<!ENTITY locationColumn.label "Indzawo">
+<!ENTITY idColumn.label "Umtsetfo lotfolakele">
+<!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser.tooltip "Chofota kukhetsa ikholomu yekukhombisa">
+<!ENTITY threadColumn.tooltip "Chofota kukhombisa umlayeto locangene">
+<!ENTITY senderColumn.tooltip "Chofota kuhlela ngemtfumeli">
+<!ENTITY recipientColumn.tooltip "Chofota kuhlela ngalowamukelako">
+<!ENTITY subjectColumn.tooltip "Chofota kuhlela ngesihloko">
+<!ENTITY dateColumn.tooltip "Chofota kuhlela ngelusuku">
+<!ENTITY priorityColumn.tooltip "Chofota kuhlela ngalokusembili">
+<!ENTITY tagsColumn.tooltip "Click to sort by tags">
+<!ENTITY accountColumn.tooltip "Chofota kuhlela nge-akhawunti">
+<!ENTITY statusColumn.tooltip "Chofota kuhlela ngesimo">
+<!ENTITY sizeColumn.tooltip "Chofota kuhlela ngebungako">
+<!ENTITY junkStatusColumn.tooltip "Chofota kuhlela ngesimo salokuhlangene">
+<!ENTITY unreadColumn.tooltip "Inamba yemilayeto lengakafundvwa kulokucangene">
+<!ENTITY totalColumn.tooltip "Samba selinani lemilayeto kulokucangene">
+<!ENTITY readColumn.tooltip "Chofota kuhlela ngalokufundziwe">
+<!ENTITY starredColumn.tooltip "Click to sort by star">
+<!ENTITY locationColumn.tooltip "Chofota kuhlela ngekwendzawo">
+<!ENTITY idColumn.tooltip "Chofota kuhlela ngemtsetfolotfolakele">

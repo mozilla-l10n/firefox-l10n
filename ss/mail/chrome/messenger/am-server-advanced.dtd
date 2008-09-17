@@ -1,0 +1,33 @@
+<!ENTITY serverAdvanced.label "Tinhlelo Te-akhawunti Letichubekile">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY imapAdvanced.label "Tilondvolotanhlelo letichubekile IMAP">
+<!ENTITY serverDirectory.label "IMAP Silondvoloti inkhomba:">
+<!ENTITY serverDirectory.accesskey "i">
+<!ENTITY usingSubscription.label "Khombisa emafolda lakhokhelwe">
+<!ENTITY usingSubscription.accesskey "m">
+<!ENTITY dualUseFolders.label "Silondvoloti sisekela emafolda lanemasabufolda nemilayeto">
+<!ENTITY dualUseFolders.accesskey "e">
+<!ENTITY useIdle.label "Sebentisa IDLE umyalo nangabe silondvoloti siwusekela">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Inombolo leyimekzimamu lehlanganisa tilondvoloti engungwini">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY personalNamespace.label "Emabitotikhala emuntfu:">
+<!ENTITY personalNamespace.accesskey "E">
+<!ENTITY publicNamespace.label "Luntfu (kuhlanganyelwe):">
+<!ENTITY publicNamespace.accesskey "l">
+<!ENTITY otherUsersNamespace.label "Labanye basebentisi:">
+<!ENTITY otherUsersNamespace.accesskey "L">
+<!ENTITY overrideNamespaces.label "Vumela silondvoloti siwengamele lamabitosikhala">
+<!ENTITY overrideNamespaces.accesskey "V">
+<!ENTITY pop3Desc.label "Nawulayishela emapopmeyili kulesilondvoloti, sebentisa lamafolda lalandzelako eposini lelisha:">
+<!ENTITY folderStorage.label "Uligcinaphi liposi">
+<!ENTITY globalInbox.label "I-inboksi yemhlaba (emafoda e-akhawunti yendzawo yakho)">
+<!ENTITY globalInbox.accesskey "I">
+<!ENTITY accountDirectory.label "I-inboksi ye-akhawunti yalesilondvoloti">
+<!ENTITY accountDirectory.accesskey "Y">
+<!ENTITY deferToServer.label "I-inboksi yema-akhawunti lehlukene">
+<!ENTITY deferToServer.accesskey "I">
+<!ENTITY deferGetNewMail.label "Sifake lesilondvoloti nawutfola liposi lelisha">
+<!ENTITY deferGetNewMail.accesskey "S">

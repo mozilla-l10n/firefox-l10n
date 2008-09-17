@@ -1,0 +1,14 @@
+
+<!ENTITY prefWindow.titleWin "Lokukhetsako">
+<!ENTITY prefWindow.titleGNOME "&brandShortName; lelinconotwako">
+<!ENTITY prefWindow.styleWin "width: 42em; height: 40em;">
+<!ENTITY prefWindow.styleMac "width: 47em;">
+<!ENTITY prefWindow.styleGNOME "width: 42em; height: 38.5em;">
+
+<!ENTITY paneMain.title "Main">
+<!ENTITY paneTabs.title "Emathebhu">
+<!ENTITY paneContent.title "Lokucuketfwe">
+<!ENTITY paneFeeds.title "Feeds">
+<!ENTITY panePrivacy.title "Imfihlo">
+<!ENTITY paneSecurity.title "Security">
+<!ENTITY paneAdvanced.title "Lechubekile">

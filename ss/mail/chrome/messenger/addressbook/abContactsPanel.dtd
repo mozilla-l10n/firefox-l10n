@@ -1,0 +1,12 @@
+
+<!ENTITY addressbookPicker.label "Incwadzi yemakheli:">
+<!ENTITY searchInput.label "Phenya I-:">
+<!ENTITY SearchNameOrEmail.label "Libito nome I-imeyili">
+
+<!ENTITY addtoToFieldMenu.label "Yengeta efilidini">
+<!ENTITY addtoCcFieldMenu.label "Yengeta ku Cc filidi">
+<!ENTITY addtoBccFieldMenu.label "Yengeta ku Bcc filidi">
+
+<!ENTITY toButton.label "Yengeta ku Ku:">
+<!ENTITY ccButton.label "Yengeta ku Cc:">
+

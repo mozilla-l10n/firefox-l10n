@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML Umbuto Weliposi">
+
+<!ENTITY recipient.label "Labanye balabtfunyelelwako abakafkwa eluhlwini njengalabafanele kutfola liposi le-HTML.">
+
+<!ENTITY convertibleDefault.label "">
+<!ENTITY convertibleYes.label "Umlayeto wakho ungaguculelwa embhalweni lolula ngaphandle kwekulahlekelwa yinshokutsini.">
+<!ENTITY convertibleAltering.label "Umlayeto wakho ungaguculelwa embhalweni lolula ngaphandle kwekulahlekelwa yinshokutsini. Noko lomlayeto lolula ungabukeka wehlukile kuloko lokubonakele kumcambi.">
+<!ENTITY convertibleNo.label "Kodvwa, usebentise simo (sibonelo, imibala) lokungeke kuguculelwe embhalweni lolula.">
+
+<!ENTITY question.label "Ungatsandza yini kuguculela umlayeto wakho kumbhalo lolula nome uwutfumele nge-HTML lokungenani?">
+
+<!ENTITY plainTextAndHtml.label "Tfumela ngembhalo lolula nange-HTML">
+<!ENTITY plainTextOnly.label "Tfumela ngembhalo lolula kuphela">
+<!ENTITY htmlOnly.label "Tfumela nge-HTML kuphela">
+
+<!ENTITY plainTextAndHtmlRecommended.label "Tfumela ngembhalo lolula nange-HTML (sincomo)">
+<!ENTITY plainTextOnlyRecommended.label "Tfumela ngembhalo lolula kuphela (sincomo)">
+<!ENTITY htmlOnlyRecommended.label "Tfumela ngeHTML Kuphela (sincomo)">
+<!ENTITY recommended.label "(sincomo)">
+
+<!ENTITY send.label "Tfumela">
+<!ENTITY cancel.label "Cosha">
+<!ENTITY recipients.label "Labatfunyelelwako...">
+<!ENTITY help.label "Sita">

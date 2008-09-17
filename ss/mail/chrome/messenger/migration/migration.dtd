@@ -1,0 +1,31 @@
+
+<!ENTITY migrationWizard.title "Iwizadi yekungenisa">
+
+<!ENTITY importFrom.label "Kutikhetsela kwekungenisa, Tinhlelo te-akhawunti, Incwadzi yemakheli nalenye idatha lesuka ku:">
+<!ENTITY importFromUnix.label "Lokunconotwako kwekungenisa, Tinhlelo te-akhawunti, Incwadzi yemakheli nalenye idatha lesuka ku:">
+
+<!ENTITY importFromNothing.label "Ungangenisi lutfo">
+<!ENTITY importFromNothing.accesskey "U">
+<!ENTITY importFromSeamonkey.label "INetscape 6, 7 nome iMozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey "N">
+<!ENTITY importFromNetscape4.label "Netscape 4.x">
+<!ENTITY importFromNetscape4.accesskey "4">
+<!ENTITY importFromOExpress.label "Outlook Express">
+<!ENTITY importFromOExpress.accesskey "u">
+<!ENTITY importFromOutlook.label "Outlook">
+<!ENTITY importFromOutlook.accesskey "O">
+<!ENTITY importFromEudora.label "Eudora">
+<!ENTITY importFromEudora.accesskey "E">
+
+<!ENTITY importSource.title "Ngenisa tinhlelo nemaFolda eLiposi lesuka ku">
+<!ENTITY importItems.title "Emaphuzu lafanele kungeniswa">
+<!ENTITY importItems.label "Khetsa kutsi ngumaphi emaphuzu latawungeniswe:">
+
+<!ENTITY migrating.title "Kungenisa...">
+<!ENTITY migrating.label "Lamaphuzu lalandzelako kwanyalo ayangeniswa...">
+
+<!ENTITY selectProfile.title "Khetsa iphrofayili">
+<!ENTITY selectProfile.label "Lamaphrofayili lalandzelako akhona kuze angeniswe kusuka ku:">
+
+<!ENTITY done.title "Kungenisa kuphelele">
+<!ENTITY done.label "Lamaphuzu lalandzelako angeniswe ngemphumelelo:">

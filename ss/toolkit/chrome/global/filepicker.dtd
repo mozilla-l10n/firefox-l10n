@@ -1,0 +1,18 @@
+<!ENTITY lookInMenuList.label "Buka ku:">
+<!ENTITY lookInMenuList.accesskey "B">
+<!ENTITY textInput.label "Libitogcwele:">
+<!ENTITY textInput.accesskey "g">
+<!ENTITY filterMenuList.label "Emafayela eluhlobo:">
+<!ENTITY filterMenuList.accesskey "e">
+<!ENTITY name.label "Libito">
+<!ENTITY size.label "Isayizi">
+<!ENTITY lastModified.label "Yagcina kujikiswa">
+<!ENTITY permissions.label "Timvume">
+<!ENTITY showHiddenFiles.label "Khombisa emafayela lafihlakele netinkhomba">
+<!ENTITY showHiddenFiles.accesskey "K">
+
+<!ENTITY noPermissionError.label "Ute imvume ledzingekile yekubuka lenkhomba le.">
+
+<!ENTITY folderUp.tooltiptext "Yenyukela ngenhla libanga linye">
+<!ENTITY folderHome.tooltiptext "Yani ekhaya">
+<!ENTITY folderNew.tooltiptext "Yakha inkhomba lensha">

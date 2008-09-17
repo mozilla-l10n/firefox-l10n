@@ -1,0 +1,8 @@
+<!ENTITY viewLog.title "Kungena Kwekucenga">
+<!ENTITY viewLogInfo.text "Emadokhumeni ekungena kwekucenga kucenga lokusetjentisiwe kule -akhawunti. Sebentisa lelibhokisi lekusesha kukhona kuvula.">
+<!ENTITY clearLog.label "Susa ilogi">
+<!ENTITY clearLog.accesskey "S">
+<!ENTITY enableLog.label "Vumela ilogi yelihluto">
+<!ENTITY enableLog.accesskey "V">
+<!ENTITY closeLog.label "Vala">
+<!ENTITY closeLog.accesskey "v">

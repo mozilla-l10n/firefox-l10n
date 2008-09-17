@@ -1,0 +1,22 @@
+<!ENTITY pluginWizard.title "Indlela yekutfola likinibho lekungena">
+<!ENTITY pluginWizard.firstPage.title "Wamukelekile ku &pluginWizard.title;">
+
+<!ENTITY pluginWizard.checkingForPlugins.description.label "&brandShortName; nyalo lihlola emakinobho ekungena lakhona...">
+
+<!ENTITY pluginWizard.availablePluginsPage.title "Likinobho lekungena lelikhona lilayisha">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Lelikinobho lekungena lelilandzelako likhona:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Cindzetela chubeka kufaka likinobho lekungena.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI "Lamanye emakinobho ekungena angadzinga lwatilolungetiwe lolubuya kuwe ngesikhatsi sekufaka.">
+
+<!ENTITY pluginWizard.licensePage.title "Timvumo telikinobho lekungena">
+<!ENTITY pluginWizard.licensePage.accept.label "Ngiyavuma.">
+<!ENTITY pluginWizard.licensePage.deny.label "Angivumi (likinobho lekungena angeke lifakwe).">
+
+<!ENTITY pluginWizard.installPluginsPage.title "Kufaka likinobho lekungena">
+<!ENTITY pluginWizard.installPluginsPage.description.label "&brandShortName; lifaka emakinobho ekungena...">
+
+<!ENTITY pluginWizard.finalPage.description.label "&brandShortName;licedze kufaka emakinoho ekungena lalahlekile:">
+
+<!ENTITY pluginWizard.finalPage.moreInfo.label "Tfola kabanti mayelana nemakinobho ekungena;tfola emakinobho ekungena lalahlekile.">
+<!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; lidzinga kucalwa kabusha kuze emakinobho ekungena asebente.">
+

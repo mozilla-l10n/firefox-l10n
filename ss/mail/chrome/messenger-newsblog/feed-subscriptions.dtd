@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "Inkhokhelo yebulunga RSS">
+<!ENTITY subscriptionDesc.label "Caphela: Kususa nome kujikisa ifolda yekukondla ngeke ititsintse tindzaba letilayishelwe ngaphambili.">
+<!ENTITY feedTitle.label "Sihloko:">
+<!ENTITY location.label "Indzawo:">
+
+<!ENTITY button.addFeed.label "Yengeta">
+<!ENTITY button.addFeed.accesskey "Y">
+<!ENTITY button.editFeed.label "Editha">
+<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.removeFeed.label "Susa">
+<!ENTITY button.removeFeed.accesskey "S">
+<!ENTITY button.importOPML.label "Ngenisa">
+<!ENTITY button.importOPML.accesskey "N">
+<!ENTITY button.exportOPML.label "Tfumela kulelinye live">
+<!ENTITY button.exportOPML.accesskey "M">
+
+<!ENTITY cmd.close.commandKey "w">

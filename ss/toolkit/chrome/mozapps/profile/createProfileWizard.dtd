@@ -1,0 +1,20 @@
+<!ENTITY newprofile.title "Yakha iprofayili yewizadi">
+<!ENTITY window.size "width: 45em; height: 32em;">
+<!-- First wizard page -->
+
+<!ENTITY profileCreationExplanation_1.text "&brandShortName; lilondvolota lwati ngetinhlelo takho nangalokuncono kweprofayili yakho.">
+<!ENTITY profileCreationExplanation_2.text "Nanihlanganyela kulekhophi ye&brandShortName; nalabanye basebentisi ungasebentisa iprofayili kugcina lwati lwalowo nalowo ngekwehlukana. Kuze ukwente loku kufuneka ngulowo nalowo atakhele yakhe iprofayili.">
+<!ENTITY profileCreationExplanation_3.text "Nakunguwe wedvwa losebentisa ikhophi ye&brandShortName;, lokungenani kufanele ube nayinye iprofayili. Nawutsandza, ungatakhela emaprofayili lamanyenti ekuyigcina emasethini lehlukile etinhlelo nalokuncono. Sibonelo: ungatsandza kuba nemaprofayili lehlukene ebhizinisi nalacondzene nawe.">
+<!ENTITY profileCreationExplanation_4.text "Nawfuna kucala kwakha iprofayili yakho, chafata lokulandzelako.">
+<!ENTITY profileCreationExplanation_4Mac.text "To begin creating your profile, click Continue.">
+<!-- Second wizard page -->
+
+<!ENTITY profileCreationIntro.text "Nawakha emaprofayili lamanyenti ungawetsa ngekwehlukana kwemaprofayili emabito awo. Ungalisebentisa lelibito lolinikiwe nome usebentisa lakho.">
+<!ENTITY profilePrompt.label "Faka libito lelisha leprofayili:">
+<!ENTITY profilePrompt.accesskey "F">
+<!ENTITY profileDirExplanation.text "Tinhlelo takho tekusebenta, lokuncono, tibekiso neliposi kutawulondvolotwa ku:">
+<!ENTITY profileDefaultName "Umsebentisi defolthi">
+<!ENTITY button.choosefolder.label "Khetsa ifolda...">
+<!ENTITY button.choosefolder.accesskey "K">
+<!ENTITY button.usedefault.label "Sebentisa ifolda yedifolthi">
+<!ENTITY button.usedefault.accesskey "S">

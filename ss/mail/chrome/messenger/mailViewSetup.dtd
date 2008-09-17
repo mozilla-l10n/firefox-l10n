@@ -1,0 +1,7 @@
+<!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
+
+<!ENTITY mailViewSetupTitle.label "Kumiswa kwekulungutwa kwemlayeto">
+<!ENTITY mailViewHeading.label "Libito lekukulungutwa kwemlayeto:">
+<!ENTITY mailViewHeading.accesskey "k">
+<!ENTITY searchTermCaption.label "Nanagabe lombono uphawuliwe, khombisa kuphela imilayeto le:">
+

@@ -1,0 +1,12 @@
+<!ENTITY accountTitle.label "Tinhlelo te-akhawunti">
+<!ENTITY accountSettingsDesc.label "Lena lelandzelako yi-akhawunti lesipeshali.  Kute bomatisi labaphatselene nayo.">
+<!ENTITY accountName.label "Libito le-Akhawunti:">
+<!ENTITY accountName.accesskey "L">
+<!ENTITY messageStorage.label "Ingungu yemilayeto">
+<!ENTITY emptyTrashOnExit.label "Citsa tibi nawuphumako">
+<!ENTITY emptyTrashOnExit.accesskey "p">
+<!ENTITY localPath.label "Inkhomba yasekhaya:">
+<!ENTITY localPath.accesskey "I">
+<!ENTITY localFolderPicker.label "Phawula inkhomba yasekhaya">
+<!ENTITY browseFolder.label "Tfunguluta...">
+<!ENTITY browseFolder.accesskey "T">

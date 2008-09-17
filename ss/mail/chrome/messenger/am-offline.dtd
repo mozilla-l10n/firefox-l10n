@@ -1,0 +1,33 @@
+<!ENTITY doNotDownloadPop3Movemail.label "Kuzo wonge sikhala kudiski, ungalayisheli:">
+<!ENTITY doNotDownload.label "Kuzo wonge sikhala kudiski, ungakulayisheleli kukusebentisa nakute lilayini:">
+<!ENTITY offlineNewFolder.label "Nangakha emafolda lamasha, wakhetsele kuwasebentisa ngaphandle kwelilayini">
+<!ENTITY offlineNewFolder.accesskey "k">
+<!ENTITY offlineNotDownload.label "Imilayeto lemikhulu kuna">
+<!ENTITY offlineNotDownload.accesskey "I">
+<!ENTITY kb.label "KB">
+<!ENTITY days.label "emalanga">
+<!ENTITY daysOld.label "emalanga budzala">
+<!ENTITY message.label "imilayeto">
+<!ENTITY nntpNotDownloadRead.label "Fundza imilayeto">
+<!ENTITY nntpNotDownloadRead.accesskey "F">
+<!ENTITY nntpDownloadMsg.label "Imilayeto lengetulu kwa…">
+<!ENTITY nntpDownloadMsg.accesskey "i">
+<!ENTITY retentionCleanup.label "Kubuyisa sikhala kudiski, imilayeto lemidzala ingacisheka kokuphela">
+<!ENTITY retentionKeepMsg.label "Cisha imilayeto lengetulu kwa…">
+<!ENTITY retentionKeepMsg.accesskey "i">
+<!ENTITY retentionKeepAll.label "Ungacishi namunye umlayeto">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepNew.label "Cisha konkhe ushiye kwekugcina">
+<!ENTITY retentionKeepNew.accesskey "c">
+<!ENTITY retentionKeepUnread.label "Cisha imilayeto lefundziwe njalo nje">
+<!ENTITY retentionKeepUnread.accesskey "l">
+<!ENTITY nntpRemoveBody.label "Kuphela imilayeto lebukhulu bayo bungephansi kwa">
+<!ENTITY nntpRemoveBody.accesskey "K">
+<!ENTITY offlineSelectNntp.label "Phawula emacembu etindzaba kuze asebente nakute lilayini...">
+<!ENTITY offlineSelectImap.label "Phawula emafolda kuze asbente nakute lilayini...">
+<!ENTITY offlineSelect.accesskey "S">
+<!ENTITY offlineDesc.label "Ungayilayisha imilayeto yakho kakho kuze akwati kutfolakala ngaphandle kwelilayini.">
+<!ENTITY makeInboxMsgsAvailable.label "Yenta imilayeto ebhokisini lami ibe khona nangisebenta ngaphandle kwelilayini">
+<!ENTITY makeInboxMsgsAvailable.accesskey "k">
+<!ENTITY offlineGroupTitle.label "Ngaphandle kwelilayini">
+<!ENTITY diskspaceGroupTitle.label "Sikhala sediski">

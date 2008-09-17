@@ -1,0 +1,64 @@
+<!ENTITY fontsDialog.title "Emafonti">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "Emafonti e:">
+<!ENTITY language.accesskey "n">
+
+<!ENTITY typefaces.label "Inhlobobuso">
+<!ENTITY sizes.label "Isayizi (yemaphikseli)">
+
+<!ENTITY proportional.label "Lokulinganiselwe:">
+<!ENTITY proportional.accesskey "L">
+
+<!ENTITY serif.label "Iserifu:">
+<!ENTITY serif.accesskey "i">
+<!ENTITY sans-serif.label "Isanserifu:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "Khalasinye:">
+<!ENTITY monospace.accesskey "k">
+
+<!ENTITY fontsize.units "emaphikseli">
+
+<!ENTITY font.langGroup.latin1 "Kwenshonalanga">
+<!ENTITY font.langGroup.latin2 "Ekhatsi Neyurophu">
+<!ENTITY font.langGroup.japanese "Sijaphani">
+<!ENTITY font.langGroup.trad-chinese "Sishayina semdzabu (Taiwan)">
+<!ENTITY font.langGroup.simpl-chinese "Sishayina lesentiwe lula">
+<!ENTITY font.langGroup.trad-chinese-hk "Sishayina semdzabu (Hong Kong)">
+<!ENTITY font.langGroup.korean "Sikhoriya">
+<!ENTITY font.langGroup.cyrillic "Sisiriliki">
+<!ENTITY font.langGroup.baltic "Sibalthiki">
+<!ENTITY font.langGroup.el "Sigrikhi">
+<!ENTITY font.langGroup.turkish "Sithekhi">
+<!ENTITY font.langGroup.unicode "Letinye Tilwimi">
+<!ENTITY font.langGroup.user-def "Umsebentisi uchaziwe">
+<!ENTITY font.langGroup.thai "Sithayi">
+<!ENTITY font.langGroup.hebrew "Sihebheru">
+<!ENTITY font.langGroup.arabic "Si-Arabu">
+<!ENTITY font.langGroup.devanagari "Sidivanagari">
+<!ENTITY font.langGroup.tamil "Sithamili">
+<!ENTITY font.langGroup.armenian "Si-Ameniya">
+<!ENTITY font.langGroup.bengali "Sibengali">
+<!ENTITY font.langGroup.canadian "Isilabari lehlangene yaseKhanada">
+<!ENTITY font.langGroup.ethiopic "Sitopiya">
+<!ENTITY font.langGroup.georgian "Sijoji">
+<!ENTITY font.langGroup.gujarati "Sigujarati">
+<!ENTITY font.langGroup.gurmukhi "Sigumukhi">
+<!ENTITY font.langGroup.khmer "Sikhama">
+<!ENTITY font.langGroup.malayalam "Simalayalamu">
+<!-- Minimum font size -->
+
+<!ENTITY minSize.label "Isayizi leyiminimamu yefonti:">
+<!ENTITY minSize.accesskey "i">
+<!ENTITY minSize.none "Kute">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Iserifu">
+<!ENTITY useDefaultFontSansSerif.label "Isanserifu">
+
+<!ENTITY newLanguages.label "Tilwimi letinsha tingalungiswa kusetjentiswa iphaneli yetilwimi.">
+
+<!ENTITY useDocumentFonts.label "Vumela imilayeto isebentise lamanye emafonti">
+<!ENTITY useDocumentFonts.accesskey "e">

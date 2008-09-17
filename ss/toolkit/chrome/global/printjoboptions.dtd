@@ -1,0 +1,28 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Imininingwane yesishicilelo">
+
+<!ENTITY paperInput.label "Bungako beliphepha:">
+
+<!ENTITY plexInput.label "Indlela yeplex:">
+
+<!ENTITY resolutionInput.label "Sincumo/bunjalo:">
+
+<!ENTITY cmdInput.label "Umtsetfo wesishicilelo:">
+
+<!ENTITY jobTitleInput.label "Sikhundla semsebenti:">
+
+<!ENTITY colorGroup.label "Umbala:">
+<!ENTITY grayRadio.label "Sikali lesigray">
+<!ENTITY colorRadio.label "Umbala">
+
+<!ENTITY colorspaceInput.label "Indzawo yembala:">
+
+<!ENTITY fontsGroup.label "Emafonti:">
+<!ENTITY downloadFonts.label "Layisha emafonti kusishicileli?">
+
+<!ENTITY edgeMarginInput.label "Sikhala ekugcineni kweliphepha emgceni">
+<!ENTITY topInput.label "Etulu:">
+<!ENTITY bottomInput.label "Phasi:">
+<!ENTITY leftInput.label "Sekuncele:">
+<!ENTITY rightInput.label "Sekudla:">

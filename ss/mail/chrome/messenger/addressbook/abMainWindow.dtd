@@ -1,0 +1,237 @@
+<!ENTITY addressbookWindow.title "Incwadzi Yemakheli">
+<!-- File Menu -->
+
+<!ENTITY fileMenu.label "Lifayela">
+<!ENTITY fileMenu.accesskey "l">
+<!ENTITY newMenu.label "Lokusha">
+<!ENTITY newMenu.accesskey "L">
+<!ENTITY newCard.label "Likhadi Lencwadzi Yemakheli...">
+<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newCard.accesskey "C">
+<!ENTITY newCard.key "N">
+<!ENTITY newListCmd.label "Luhlu Lwekuposa...">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newListCmd.accesskey "L">
+<!ENTITY newAddressBookCmd.label "Incwadzi yemakheli...">
+<!ENTITY newAddressBookCmd.accesskey "I">
+<!ENTITY newLDAPDirectoryCmd.label "LDAP Inkhomba...">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey "D">
+<!ENTITY newMessageCmd.label "Umlayeto">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.accesskey "u">
+<!ENTITY closeCmd.label "Vala">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "v">
+<!ENTITY printSetupCmd.label "Kuma Lipheji...">
+<!ENTITY printSetupCmd.accesskey "m">
+<!ENTITY printPreviewCardViewCmd.label "Likhadi Lekulunguta iphrinti">
+<!ENTITY printPreviewCardViewCmd.accesskey "l">
+<!ENTITY printPreviewAddressBook.label "Lunguta iphrinti Yencwadzi Yemakheli">
+<!ENTITY printPreviewAddressBook.accesskey "Y">
+<!ENTITY printCardViewCmd.label "Phrinta likhadi...">
+<!ENTITY printCardViewCmd.accesskey "p">
+<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
+<!ENTITY printCardViewCmd.key "P">
+<!ENTITY printAddressBook.label "Printa Incwadzi Yemakheli...">
+<!ENTITY printAddressBook.accesskey "N">
+
+<!ENTITY quitApplicationCmdWin.label "Umnyango Wekuphuma">
+<!ENTITY quitApplicationCmdWin.accesskey "e">
+<!ENTITY quitApplicationCmd.label "Phuma">
+<!ENTITY quitApplicationCmd.accesskey "H">
+<!ENTITY quitApplicationCmd.key "Q">
+<!-- Edit Menu -->
+
+<!ENTITY editMenu.label "Editha">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Yesula">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "y">
+<!ENTITY redoCmd.label "Phinza wente">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "p">
+<!ENTITY cutCmd.label "Juba">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "b">
+<!ENTITY copyCmd.label "Kopa">
+<!ENTITY copyCmd.key "Cisha">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Namatsisela">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY deleteCmd.label "Cisha">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "c">
+<!ENTITY deleteAbCmd.label "Cisha incwadzi yekheli">
+<!ENTITY deleteCardCmd.label "Cisha Likhadi">
+<!ENTITY deleteCardsCmd.label "Cisha Emakhadi Laphawuliwe">
+<!ENTITY selectAllCmd.label "Phawula Konkhe">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY searchAddressesCmd.key "f">
+<!ENTITY selectAllCmd.accesskey "k">
+<!ENTITY swapFirstNameLastNameCmd.label "Ntjintjanisa libito Nesibongo">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "t">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label "Timphahla...">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.key "i">
+<!-- View Menu -->
+
+<!ENTITY viewMenu.label "Lunguta">
+<!ENTITY viewMenu.accesskey "l">
+<!ENTITY viewToolbarsMenu.label "Emathulu-bha">
+<!ENTITY viewToolbarsMenu.accesskey "E">
+<!ENTITY showAbToolbarCmd.label "Incwadzi Yemakheli Elithulusi">
+<!ENTITY showAbToolbarCmd.accesskey "c">
+<!ENTITY showTaskbarCmd.label "Sigaba Bha">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "Yetayeta...">
+<!ENTITY customizeToolbar.accesskey "Y">
+<!ENTITY showCardPane.label "Ingilazi Yesifinyeto Selikhadi">
+<!ENTITY showCardPane.accesskey "N">
+<!ENTITY menu_ShowNameAs.label "Khombisa Libito njenge">
+<!ENTITY menu_ShowNameAs.accesskey "l">
+<!ENTITY firstLastCmd.label "Kwekucala, Kwekugcina">
+<!ENTITY firstLastCmd.accesskey "k">
+<!ENTITY lastFirstCmd.label "Kwekugcina, Kwekucala">
+<!ENTITY lastFirstCmd.accesskey "k">
+<!ENTITY displayNameCmd.label "Khombisa Libito">
+<!ENTITY displayNameCmd.accesskey "k">
+<!ENTITY sortMenu.label "Hlela nge-">
+<!ENTITY sortMenu.accesskey "H">
+<!-- Tools Menu -->
+
+<!ENTITY tasksMenu.label "Emathulusi">
+<!ENTITY tasksMenu.accesskey "E">
+<!ENTITY messengerCmd.label "Liposi &amp; Licembutindzaba">
+<!ENTITY messengerCmd.accesskey "l">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY searchAddressesCmd.label "Emakheli Kuphenya...">
+<!ENTITY searchAddressesCmd.accesskey "E">
+<!ENTITY importCmd.label "Ngenisa...">
+<!ENTITY importCmd.accesskey "N">
+<!ENTITY exportCmd.label "Tfumela kulelinye live...">
+<!ENTITY exportCmd.accesskey "T">
+<!ENTITY preferencesCmd.label "Ema-Obshini...">
+<!ENTITY preferencesCmd.key "O">
+<!ENTITY preferencesCmd.accesskey "E">
+<!ENTITY preferencesCmdUnix.label "Lokutsndvwako">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+<!-- Help Menu -->
+
+<!ENTITY helpMenu.label "Lusito">
+<!ENTITY helpMenu.accesskey "L">
+<!ENTITY releaseCmd.label "Khulula Emanotsi">
+<!ENTITY releaseCmd.accesskey "K">
+<!ENTITY hintsAndTips.label "&brandShortName; Sita">
+<!ENTITY hintsAndTips.accesskey "s">
+<!ENTITY hintsAndTipsMac.commandkey "?">
+<!ENTITY aboutCmd.label "Nge &brandShortName;">
+<!ENTITY aboutCmd.accesskey "N">
+<!-- Address Book Toolbar and Context Menus -->  
+
+<!ENTITY newcardButton.label "Likhadi Lelisha">
+<!ENTITY newcardButton.accesskey "L">
+<!ENTITY newlistButton.label "Luhlu Lolusha">
+<!ENTITY newlistButton.accesskey "L">
+<!ENTITY editButton.label "Timphahla">
+<!ENTITY editButton.accesskey "T">
+<!ENTITY newmsgButton.label "Bhala">
+<!ENTITY newmsgButton.accesskey "B">
+<!ENTITY newIM.label "Imilayeto Lephutfumako">
+<!ENTITY newIM.accesskey "I">
+<!ENTITY deleteButton.label "Cisha">
+<!ENTITY deleteButton.accesskey "C">
+<!ENTITY throbberItem.title "Inkhomba Yenshukumo">
+<!-- Address Book Toolbar Tooltips -->
+
+<!ENTITY newcardButton.tooltip "Yakha Likhadi Lencwadzi Yemakheli Lensha">
+<!ENTITY newlistButton.tooltip "Yakha Luhlu Lolusha">
+<!ENTITY editButton.tooltip "Editha Likhadi Leliphawuliwe">
+<!ENTITY newmsgButton.tooltip "Tfumela umlayeto ngeliposi">
+<!ENTITY newIM.tooltip "Tfumela umlayeto Lophutfumako welishati">
+<!ENTITY deleteButton.tooltip "Cisha likhadi leliphawuliwe nome Incwadzi Yemakheli">
+<!-- Dir Tree header -->
+
+<!ENTITY dirTreeHeader.label "Tincwadzi Temakheli">
+<!-- Search Bar -->
+
+<!ENTITY SearchNameOrEmail.label "Libito nome I-imeyili">
+<!ENTITY SearchNameOrEmail.accesskey "L">
+<!ENTITY advancedButton.tooltip "Luphenyo Lwemakheli Lachubekile">
+<!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchItem.title "Quick Search">
+<!-- Results Pane -->
+
+<!ENTITY GeneratedName.label "Libito">
+<!ENTITY GeneratedName.accesskey "L">
+<!ENTITY PrimaryEmail.label "I-imeyili">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY ScreenName.label "Libito Lesikrini">
+<!ENTITY ScreenName.accesskey "L">
+<!ENTITY Company.label "Inhlangano">
+<!ENTITY Company.accesskey "n">
+<!ENTITY NickName.label "Libitombumbulu">
+<!ENTITY NickName.accesskey "i">
+<!ENTITY SecondEmail.label "Leyengetiwe I-imeyili">
+<!ENTITY SecondEmail.accesskey "i">
+<!ENTITY Department.label "Litiko">
+<!ENTITY Department.accesskey "i">
+<!ENTITY JobTitle.label "Sihloko">
+<!ENTITY JobTitle.accesskey "S">
+<!ENTITY CellularNumber.label "Lokuhambako">
+<!ENTITY CellularNumber.accesskey "L">
+<!ENTITY PagerNumber.label "Sitfungatsi">
+<!ENTITY PagerNumber.accesskey "S">
+<!ENTITY FaxNumber.label "Sikhahlameti">
+<!ENTITY FaxNumber.accesskey "S">
+<!ENTITY HomePhone.label "Lucingo Lwasekhaya">
+<!ENTITY HomePhone.accesskey "L">
+<!ENTITY WorkPhone.label "Lucingo Lwasemsebentini">
+<!ENTITY WorkPhone.accesskey "L">
+<!ENTITY sortAscending.label "Kuwenyukela">
+<!ENTITY sortAscending.accesskey "K">
+<!ENTITY sortDescending.label "Kwehlela">
+<!ENTITY sortDescending.accesskey "K">
+<!ENTITY _PhoneticName.label "Libitomsindvo">
+<!ENTITY _PhoneticName.accesskey "m">
+<!-- Results pane context menu -->
+
+<!ENTITY composeEmail.label "Khompoza I-imeyil ku">
+<!ENTITY composeEmail.accesskey "K">
+<!ENTITY deleteAddrBookCard.label "Cisha">
+<!ENTITY deleteAddrBookCard.accesskey "C">
+<!ENTITY newAddrBookCard.label "Likhadi Lelisha...">
+<!ENTITY newAddrBookCard.accesskey "L">
+<!ENTITY newAddrBookMailingList.label "Luhlu Lolusha Lweliposi...">
+<!ENTITY newAddrBookMailingList.accesskey "L">
+<!ENTITY addrBookCardProperties.label "Timphahla">
+<!ENTITY addrBookCardProperties.accesskey "T">
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+
+<!ENTITY contact.heading "Kutsintsana">
+<!ENTITY home.heading "Likhaya">
+<!ENTITY other.heading "Lokunye">
+<!ENTITY phone.heading "Lucingo">
+<!ENTITY work.heading "Umsebenti">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading "Inchazelo">
+<!ENTITY addresses.heading "Emakheli">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label "Tfola Libalave">
+<!ENTITY mapIt.tooltip "Khombisa libalave lalelikheli lelisuka kuWebu">
+<!-- Status Bar -->
+
+<!ENTITY statusText.label "">
+<!--  Mac OS X Window Menu -->
+
+<!ENTITY windowMenu.label "Liwindo">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Nciphisa">
+<!ENTITY bringAllToFront.label "Buyisa Konkhe Ngembili">
+<!ENTITY zoomWindow.label "Zumu">

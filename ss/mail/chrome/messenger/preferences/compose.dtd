@@ -1,0 +1,60 @@
+<!ENTITY itemGeneral.label "Imvamisa">
+<!ENTITY itemAutoComplete.label "Kubeka inkhulumo">
+<!ENTITY itemSpellCheck.label "Sipelingi">
+<!ENTITY itemSendFormat.label "Tfumela ifomethi">
+
+<!ENTITY forwardReply.label "Kuchuba Imilayeto">
+<!ENTITY forwardMsg.label "Chuba imilayeto:">
+<!ENTITY forwardMsg.accesskey "c">
+<!ENTITY inline.label "Selayinini">
+<!ENTITY inline.accesskey "S">
+<!ENTITY asAttachment.label "Njengesitsekeleto">
+<!ENTITY asAttachment.accesskey "N">
+
+<!ENTITY sendingMessagesHeader.label "Khompoza Imilayeto">
+<!ENTITY spellCheck.label "Hlola sipelingi ungakatfumeli">
+<!ENTITY spellCheck.accesskey "H">
+<!ENTITY spellCheckInline.label "Enable spell check as you type">
+<!ENTITY spellCheckInline.accesskey "n">
+<!ENTITY languagePopup.label "Lulwimi:">
+<!ENTITY languagePopup.accessKey "l">
+<!ENTITY downloadDictionaries.label "Layishela Emadikshinali Ngetulu">
+
+<!ENTITY useMIME.label "Kwemilayeto lenetinhlavu letingu-8, Sebentisa 'bakaki labaprintekako' luphawu MIME">
+<!ENTITY useMIME.accesskey "m">
+<!ENTITY warnOnSendAccelKey.label "Cinisekisa nawusebentisa ikhibhodi lefinyetiwe kutfumela umlayeto">
+<!ENTITY warnOnSendAccelKey.accesskey "s">
+<!ENTITY autoSave.label "Latisevekelako njalo nje">
+<!ENTITY autoSave.accesskey "l">
+<!ENTITY autoSaveEnd.label "ngemaminithi">
+<!ENTITY autoSaveEnd.accesskey "n">
+<!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY wrapOutMsg.label "Gocotela imilayeto lelula ku">
+<!ENTITY wrapOutMsg.accesskey "g">
+<!ENTITY char.label "emakharektha">
+
+<!ENTITY emailCollectionPicker.label "Yengeta othomathikhali emakheli e-imeyili lephumako kuyami:">
+<!ENTITY emailCollectionPicker.accesskey "o">
+<!ENTITY addressingTitle.label "Emakheli Laticedzekelako">
+<!ENTITY autocompleteText.label "Nawufaka emakheli kumilayeto, ubobuka lokungenile lokufananako:">
+<!ENTITY addressingEnable.label "Incwadzi Yemakheli Yasekhaya">
+<!ENTITY addressingEnable.accesskey "Y">
+<!ENTITY directories.label "Silondvoloti Senkhomba:">
+<!ENTITY directories.accesskey "S">
+<!ENTITY editDirectories.label "Editha Tinkhomba...">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY matchText.label "Nakunalokufananako etincwadzini temakheli asekhaya:">
+<!ENTITY skipDirectory.label "Ungaphenyi ekhatsi kunkhomba">
+
+<!ENTITY sendOptionsCaption.label "Tfumela ne Kwekutikhetsela iHTML">
+<!ENTITY sendOptionsDescription.label "Linganisa kahle kujikajika kwefomethi yembhalo">
+<!ENTITY sendOptions.label "Tfumela Kwekutikhetsela...">
+<!ENTITY sendOptions.accesskey "T">
+
+<!ENTITY htmlComposeDescription.label "Lungisa idifolthi kwekutikhetsela iHTML">
+<!ENTITY htmlCompose.label "Kwekutikhetsela iHTML...">
+<!ENTITY htmlCompose.accesskey "H">
+
+<!ENTITY returnReceiptsInfo.label "Ncuma kutsi &brandShortName; iwaphatsa njani emarisithi labuyako">
+<!ENTITY showReturnReceipts.label "Emarisithi Labuyako...">
+<!ENTITY showReturnReceipts.accesskey "E">

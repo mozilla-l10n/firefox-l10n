@@ -1,0 +1,14 @@
+<!ENTITY reportSite "Lisayithi">
+<!ENTITY reportProblemType "Inhlobo yenkinga">
+<!ENTITY reportDecsription "Inchazelo">
+<!ENTITY reportPlatform "Iplathifomu">
+<!ENTITY reportProduct "Umkhicito">
+<!ENTITY reportoscpu "OS">
+<!ENTITY reportGecko "Gecko">
+<!ENTITY reportBuildConfig "Sakhiwo lesilungisiwe">
+<!ENTITY reportUseragent "Galajane losebentako">
+<!ENTITY reportLanguage "Lulwimi">
+<!ENTITY reportEmail "I-imeyili">
+<!ENTITY error "Imininingwane yengoti">
+<!ENTITY faultCode "Ikhodi">
+<!ENTITY faultMessage "Umlayeto">

@@ -1,0 +1,56 @@
+<!-- Entities for the Sample Extension Options Dialog go here -->
+<!ENTITY reportWizard.title "Bika iweb-sayithi leyonakele">
+
+<!ENTITY privacyNotice.label "Umgomo lofihlakele">
+<!ENTITY reportWizardPrivacy.description "Lelithulusi likuvumela kutsi utjele ithimu yelibuvangeli ngemawebusayithi langasebenti kahle ne&brandShortName; nome lavalela i&brandShortName;, ngaphandle. Lena yindlela yakho yekusisita siciniseke kuba nelwatinchati lolungeteka lwebasebentisi be&brandShortName;. Uyacelwa kutsi uke utsatse imizuzwana lembalwa ufundze loku lokulandzelako utewufundza kutsi silusebentisa njani lolwati lesilubutsako nawungahle ube ngulomunye longatsandza kuhlanganyela natsi.">
+<!ENTITY reportWizardMustAgree.description "Kuchubeka udzinga kuvuma kolomgomo lofihlakele ngetulu.">
+
+<!ENTITY dontShowPrivacyStatement.label "Ngifundzile, futsi ngiyayemukela lenchubomgomo yebumfihlo.">
+<!ENTITY dontShowPrivacyStatement.accesskey "N">
+
+<!ENTITY reportForm.label "Ungagcwalisi umbiko">
+
+<!ENTITY reportForm.description "Sitjele kancane lenkinga lohlangabetane nayo:">
+<!ENTITY reportForm.url.title "Iwebusayithi URL:">
+<!-- No ":" at the end -->
+
+<!ENTITY reportForm.behind_login.title "Web site is password-protected">
+<!ENTITY reportForm.behind_login.accesskey "P">
+
+<!ENTITY reportForm.problem_type.title "Problem Type:">
+<!ENTITY reportForm.problem_type.accesskey "T">
+
+<!ENTITY reportForm.problem_type.chooseOne.title "Khetsa kunye...">
+<!-- DO *NOT* Add/change/modify (except localization) without consulting with r.m.o server admin first! -->
+
+<!ENTITY reportForm.problem_type.item1.title "Sitfunguluti asikasekelwa">
+<!ENTITY reportForm.problem_type.item2.title "Akuvuleki">
+<!ENTITY reportForm.problem_type.item3.title "Tinkinobho tekungena atikakhonjiswa">
+<!ENTITY reportForm.problem_type.item4.title "Lokunye lokucuketsiwe kulahlekile">
+<!ENTITY reportForm.problem_type.item5.title "Kusetjentiswa akusingikho">
+<!ENTITY reportForm.problem_type.item6.title "Kubonakala akusingikho">
+<!ENTITY reportForm.problem_type.item7.title "Letinye tinkinga">
+
+<!ENTITY reportForm.describe.title "Describe Problem:">
+<!ENTITY reportForm.describe.accesskey "D">
+
+<!ENTITY reportForm.platform.title "Indzawo yekwenta:">
+<!ENTITY reportForm.product.title "Umkhicito:">
+<!ENTITY reportForm.gecko.title "Gecko:">
+<!ENTITY reportForm.useragent.title "Umsebenti Losetjentiswako:">
+<!ENTITY reportForm.language.title "Lulwimi:">
+<!--  Make sure this has "(Optional)" at the end.  This is important for the user to know -->
+
+<!ENTITY reportForm.email.title "Email (Optional):">
+<!ENTITY reportForm.email.accesskey "E">
+
+<!ENTITY reportForm.privacyPolicy.title "Umgomo lofihlakele">
+<!ENTITY reportForm.privacyPolicy.tooltip "Buka umgomo lofihlakele">
+
+<!ENTITY reportResults.showDetail.title "Show Details">
+<!ENTITY reportResults.showDetail.accesskey "S">
+
+<!ENTITY sendReport.label "Tfumela umbiko">
+<!ENTITY sendReport.description "Tfumela umbiko esilulwini...">
+
+<!ENTITY finish.label "Umbiko utfunyelwe">

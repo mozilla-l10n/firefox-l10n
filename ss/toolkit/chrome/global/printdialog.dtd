@@ -1,0 +1,29 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Shicilela">
+
+<!ENTITY printDialog.title "Shicilela">
+
+<!ENTITY fpDialog.title "Londvolota ifayela">
+
+<!ENTITY fileCheck.label "Shicilela kufayela">
+<!ENTITY propertiesButton.label "Imininingwane...">
+<!ENTITY descText.label "Kuchazwa kwesishicilelo:">
+<!ENTITY printer.label "Sishicilelo">
+<!ENTITY printerInput.label "Libito lesishicilelo:">
+
+<!ENTITY printrangeGroup.label "Shicilela libanga">
+<!ENTITY allpagesRadio.label "Onkhe emakhasi">
+<!ENTITY rangeRadio.label "Emakhasi">
+<!ENTITY frompageInput.label "ibuya ku">
+<!ENTITY topageInput.label "iya ku">
+<!ENTITY selectionRadio.label "Kukhetsa">
+
+<!ENTITY copies.label "Emakhophi">
+<!ENTITY numCopies.label "Inamba yemakhophi:">
+
+<!ENTITY printframeGroup.label "Shicilela emafulemu">
+<!ENTITY aslaidoutRadio.label "Njengoba kubhaliwe kuskrini">
+<!ENTITY selectedframeRadio.label "Ifulemu lekhetsiwe">
+<!ENTITY eachframesepRadio.label "Ifulemu ngayinye ngekwehlukana">
+

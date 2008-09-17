@@ -1,0 +1,60 @@
+<!-- extracted from content/viewSource.xul -->
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Umtfombo we: ">
+
+<!ENTITY fileMenu.label "Ifayela">
+<!ENTITY fileMenu.accesskey "I">
+<!ENTITY savePageCmd.label "Londvolota Lipheji njenga...">
+<!ENTITY savePageCmd.accesskey "L">
+<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY pageSetupCmd.label "Kusethwa Kwelipheji...">
+<!ENTITY pageSetupCmd.accesskey "e">
+<!ENTITY printPreviewCmd.label "Lunguta iphrinti">
+<!ENTITY printPreviewCmd.accesskey "g">
+<!ENTITY printCmd.label "Phrinta...">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY closeCmd.label "Vala">
+<!ENTITY closeCmd.accesskey "V">
+<!ENTITY closeCmd.commandkey "W">
+
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReset.commandkey "0">
+
+<!ENTITY goToLineCmd.label "Ngena elayinini...">
+<!ENTITY goToLineCmd.accesskey "N">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY viewMenu.label "Lunguta">
+<!ENTITY viewMenu.accesskey "L">
+<!ENTITY reloadCmd.label "Layisha kabusha">
+<!ENTITY reloadCmd.accesskey "L">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Wrap Long Lines">
+<!ENTITY menu_wrapLongLines.accesskey "W">
+<!ENTITY menu_highlightSyntax.label "Kwakheka kwemisho nekukhanyisa">
+<!ENTITY menu_highlightSyntax.accesskey "K">
+<!ENTITY menu_textSize.label "Isayizi yembhalo">
+<!ENTITY menu_textSize.accesskey "A">
+<!ENTITY menu_textEnlarge.label "Yandzisa">
+<!ENTITY menu_textEnlarge.accesskey "Y">
+<!ENTITY menu_textReduce.label "Nciphisa">
+<!ENTITY menu_textReduce.accesskey "N">
+<!ENTITY menu_textReset.label "Vamile">
+<!ENTITY menu_textReset.accesskey "V">
+
+<!ENTITY findOnCmd.label "Tfola kulelipheji...">
+<!ENTITY findOnCmd.accesskey "T">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Tfola utsi">
+<!ENTITY findAgainCmd.accesskey "u">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">

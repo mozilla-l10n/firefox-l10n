@@ -1,0 +1,8 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Umlayeto">
+<!ENTITY newMessageCmd.accesskey "u">
+ 
+<!ENTITY newCardCmd.label "Likhadi lencwadzi yemakheli...">
+<!ENTITY newCardCmd.accesskey "l">
+

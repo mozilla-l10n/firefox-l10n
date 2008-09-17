@@ -1,0 +1,13 @@
+<!ENTITY untitledTab "(Akunasihloko)">
+<!ENTITY newTab.label "Ithebhu Lensha">
+<!ENTITY newTab.accesskey "I">
+<!ENTITY closeTab.label "Vala ithebhu">
+<!ENTITY closeTab.accesskey "v">
+<!ENTITY closeOtherTabs.accesskey "l">
+<!ENTITY closeOtherTabs.label "Vala lamanye emathebhu">
+<!ENTITY reloadAllTabs.label "Phindza ulayishele onkhe emathebhu">
+<!ENTITY reloadAllTabs.accesskey "O">
+<!ENTITY reloadTab.label "Phindza ulayishele ithebhu">
+<!ENTITY reloadTab.accesskey "p">
+<!ENTITY newTabButton.tooltip "Vula ithebhu lensha">
+<!ENTITY listAllTabs.label "List all tabs">

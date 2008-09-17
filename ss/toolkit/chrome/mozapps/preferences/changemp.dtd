@@ -1,0 +1,9 @@
+<!ENTITY setPassword.title "Gucula Libitophawu Lelikhulu">
+<!ENTITY setPassword.tokenName.label "Idivayisi Yekuphepha">
+<!ENTITY setPassword.oldPassword.label "Libitophawu Lanyalo:">
+<!ENTITY setPassword.newPassword.label "Faka Libitophawu lelisha:">
+<!ENTITY setPassword.reenterPassword.label "Phindza ulifake Libitophawu:">
+<!ENTITY setPassword.meter.label "Ikhwalithimitha Yelibitophawu">
+<!ENTITY setPassword.meter.loading "Kulayishela">
+<!ENTITY masterPasswordDescription.label "Libitophawu Lelikhulu lisebenta kuvikela lwati lolubucayi njengemabitophawu esayithi.  Nawenta Libitophawu Lelikhulu utawutjelwa kutsi lifake kanye ngesikhatsi &brandShortName; lilandza lwati loluseviwe lwavikelwa ngulelobitophawu.">
+<!ENTITY masterPasswordWarning.label "Uyacelwa kutsi uciniseke kutsi uyalikhumbula Lelibitophawu Lelikhulu lolibekile.  Nawulikhohlwa lelibitophawu Lelikhulu, ungeke ukwati kuvula nome nguluphi lwati loluvikelwe ngilo.">

@@ -1,0 +1,73 @@
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY offlineGoOfflineCmd.label "Sebenta ngaphandle kwelilayini">
+<!ENTITY offlineGoOfflineCmd.accesskey "s">
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+
+<!ENTITY fileMenu.label "Ifayela">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "Kusha">
+<!ENTITY newMenu.accesskey "K">
+
+<!ENTITY editMenu.label "Editha">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Ungenti">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "u">
+<!ENTITY redoCmd.label "Phindza">
+<!ENTITY redoCmd.key "Yenta">
+<!ENTITY redoCmd.accesskey "p">
+<!ENTITY cutCmd.label "Juba">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "b">
+<!ENTITY copyCmd.label "Kopa">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "k">
+<!ENTITY pasteCmd.label "Namatsisela">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "n">
+<!ENTITY deleteCmd.label "Cisha">
+<!ENTITY deleteCmd.key "D">
+<!ENTITY deleteCmd.accesskey "c">
+<!ENTITY selectAllCmd.label "Khetsa konkhe">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "k">
+<!ENTITY preferencesCmd.label "Kwekukhetsa...">
+<!ENTITY preferencesCmd.accesskey "K">
+<!ENTITY preferencesCmdUnix.label "Lokunconotwako">
+<!ENTITY preferencesCmdUnix.accesskey "t">
+
+<!ENTITY findTypeTextCmd.label "Tfola umbhalo njengoba usathayipha">
+<!ENTITY findTypeTextCmd.accesskey "a">
+
+<!ENTITY viewMenu.label "Lunguta">
+<!ENTITY viewMenu.accesskey "l">
+<!ENTITY viewToolbarsMenu.label "Emathulubha">
+<!ENTITY viewToolbarsMenu.accesskey "E">
+<!ENTITY showTaskbarCmd.label "Sigaba sebha">
+<!ENTITY showTaskbarCmd.accesskey "S">
+
+<!ENTITY direct.label "Kubaselayinini (iproksi: kute)">
+<!ENTITY direct.accesskey "l">
+<!ENTITY manual.label "Kubaselayinini (iproksi: ngesandla)">
+<!ENTITY manual.accesskey "n">
+<!ENTITY pac.label "Kubaselayinini (iproksi: tentekela)">
+<!ENTITY pac.accesskey "t">
+
+<!ENTITY proxy.label "Iproksi nekugucula...">
+<!ENTITY proxy.accesskey "N">
+
+<!ENTITY findTypeTextCmd.key "/">
+<!ENTITY findTypeLinksCmd.key "'">
+
+<!ENTITY closeCmd.label "Vala">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "v">
+
+<!ENTITY quitApplicationCmd.label "Phuma">
+<!ENTITY quitApplicationCmd.key "Q">
+<!ENTITY quitApplicationCmd.accesskey "u">
+
+<!ENTITY quitApplicationCmdUnix.label "Phuma">
+<!ENTITY quitApplicationCmdUnix.accesskey "p">
+

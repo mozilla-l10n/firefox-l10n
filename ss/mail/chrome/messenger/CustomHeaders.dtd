@@ -1,0 +1,7 @@
+<!ENTITY window.title "Yetayeta lesihloko">
+<!ENTITY addButton.label "Yengeta">
+<!ENTITY addButton.accesskey "Y">
+<!ENTITY removeButton.label "Susa">
+<!ENTITY removeButton.accesskey "S">
+<!ENTITY newMsgHeader.label "Lesisha sihloko semilayeto:">
+<!ENTITY newMsgHeader.accesskey "L">

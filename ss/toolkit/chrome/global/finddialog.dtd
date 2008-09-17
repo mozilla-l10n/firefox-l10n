@@ -1,0 +1,22 @@
+<!-- extracted from finddialog.xul -->
+
+<!ENTITY findDialog.title "Funa kulelipheji">
+<!ENTITY findDialogFrame.title "Funa kuleflemu">
+<!ENTITY findField.label "Funa ini:">
+<!ENTITY findField.accesskey "n">
+<!ENTITY caseSensitiveCheckbox.label "Likasi lekulinganisa">
+<!ENTITY caseSensitiveCheckbox.accesskey "k">
+<!ENTITY wrapCheckbox.label "Songa">
+<!ENTITY wrapCheckbox.accesskey "S">
+<!ENTITY backwardsCheckbox.label "Phenya zinyova">
+<!ENTITY backwardsCheckbox.accesskey "z">
+<!ENTITY findField.tooltip "Thayipha linye nome mabili emagama utewuphenya i">
+<!ENTITY findButton.label "Funa Lokulandzelako">
+<!ENTITY findButton.accesskey "L">
+<!ENTITY cancelButton.label "Yesula">
+<!ENTITY closeButton.label "Vala">
+<!ENTITY up.label "Etulu">
+<!ENTITY up.accesskey "E">
+<!ENTITY down.label "Phansi">
+<!ENTITY down.accesskey "P">
+<!ENTITY direction.label "Indlela">

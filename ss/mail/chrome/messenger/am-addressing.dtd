@@ -1,0 +1,32 @@
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label "Kwakheka &amp; Kubeka Inkhulumo">
+<!ENTITY addressingGroupTitle.label "Kubeka Inkhulumo">
+<!ENTITY addressingText.label "Nawubuka emakheli:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label "Sebentisa silondvoloti sami lesincono semhlaba I-LDAP kule-akhawunti">
+<!ENTITY useGlobal.accesskey "S">
+<!ENTITY editDirectories.label "Editha tinkhomba...">
+<!ENTITY editDirectories.accesskey "E">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label "Sebentisa lesehlukile silondvoloti I-LDAP:">
+<!ENTITY directories.accesskey "d">
+<!-- am-addressing.xul -->
+
+
+<!ENTITY compositionGroupTitle.label "Kwakheka">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label "Yakha imilayeto ngefomethi ye-HTML">
+<!ENTITY useHtml.accesskey "Y">
+<!ENTITY autoQuote.label "Caphuna othomathikhali umlayeto wekucala nawuphendvulako">
+<!ENTITY autoQuote.accesskey "c">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label "Emvakwaloko,">
+<!ENTITY then.accesskey "e">
+<!ENTITY aboveQuote.label "cala imphendvulo yami ngetulu kwemcaphuno">
+<!ENTITY belowQuote.label "cala imphendvulo yami ngaphansi kwemcaphuno">
+<!ENTITY selectAndQuote.label "phawula umcaphuno">
+<!ENTITY place.label "bese ubeka isayini">
+<!ENTITY place.accesskey "u">
+<!ENTITY belowText.label "ngaphansi kwemcaphuno (lokudvunyisiwe)">
+<!ENTITY aboveText.label "ngaphansi kwemphendvulo yami (ngetulu kwalokucashuniwe)">

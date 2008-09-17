@@ -1,0 +1,25 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY securityMenu.label "Kuvikeleka">
+<!ENTITY securityMenu.accesskey "v">
+
+<!ENTITY menu_securityEncryptIfPossible.label "Phawula emagama nakunekwenteka">
+<!ENTITY menu_securityEncryptIfPossible.accesskey "N">
+
+<!ENTITY menu_securityEncryptRequire.label "Phawula emagama alomlayeto">
+<!ENTITY menu_securityEncryptRequire.accesskey "P">
+
+<!ENTITY menu_securityNoEncryption.label "Ungawaphawuli emagama alomlayeto">
+<!ENTITY menu_securityNoEncryption.accesskey "W">
+
+<!ENTITY menu_securitySign.label "Sayina lomlayeto ngekwedijithali">
+<!ENTITY menu_securitySign.accesskey "A">
+
+<!ENTITY menu_securityStatus.label "Lunguta kuvikeleka nelwati">
+<!ENTITY menu_securityStatus.accesskey "L">
+
+<!ENTITY securityButton.label "Kuvikeleka">
+<!ENTITY securityButton.tooltip "Buka noma gucula tinhlelo talokuvikelekile">
+
+<!ENTITY menu_viewSecurityStatus.label "Kuvikeleka kwembiko nelwati">
+<!ENTITY menu_viewSecurityStatus.accesskey "L">

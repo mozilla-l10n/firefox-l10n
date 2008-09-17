@@ -1,0 +1,29 @@
+<!ENTITY window.title "Emahluto emlayeto">
+<!ENTITY nameColumn.label "Libito lekuhluta">
+<!ENTITY activeColumn.label "Vunyelwe">
+<!ENTITY newButton.label "Lensha...">
+<!ENTITY newButton.accesskey "L">
+<!ENTITY editButton.label "Editha...">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "Cisha">
+<!ENTITY deleteButton.accesskey "a">
+<!ENTITY reorderUpButton.label "Yenyuka">
+<!ENTITY reorderUpButton.accesskey "K">
+<!ENTITY reorderDownButton.label "Yewuka">
+<!ENTITY reorderDownButton.accesskey "K">
+<!ENTITY filterHeader.label "Emahluto lavunyelwe atichubekela othomathikhali ngalendlela lekhonjiswe ngentasi.">
+<!ENTITY filtersForPrefix.label "Emahluto e:">
+<!ENTITY filtersForPrefix.accesskey "E">
+<!ENTITY viewLogButton.label "Ilogi yelihluto">
+<!ENTITY viewLogButton.accesskey "Y">
+<!ENTITY runFilters.label "Sebentisa nyalo">
+<!ENTITY runFilters.accesskey "N">
+<!ENTITY stopFilters.label "Mani">
+<!ENTITY stopFilters.accesskey "M">
+<!ENTITY folderPickerPrefix.label "Sebentisa emahluto lakhetsiwe:">
+<!ENTITY folderPickerPrefix.accesskey "t">
+<!ENTITY choosethis.label "khetsa lefolda">
+<!ENTITY choosethisnewsserver.label "khetsa leseva yetindzaba">
+<!ENTITY helpButton.label "Lusito">
+<!ENTITY helpButton.accesskey "L">
+<!ENTITY closeCmd.key "W">

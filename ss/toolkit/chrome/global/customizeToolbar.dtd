@@ -1,0 +1,12 @@
+<!ENTITY dialog.title "Yetayeta Ithulu-bha">
+<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY instructions.description "Ungengeta nome ukhweshise tintfo ngekutidvonsa utise nome utisuse kuyithulu-bha.">
+<!ENTITY show.label "Khombisa:">
+<!ENTITY iconsAndText.label "Umbhalo nema-ayikhoni">
+<!ENTITY icons.label "Ema-ayikhoni">
+<!ENTITY text.label "Umbhalo">
+<!ENTITY useSmallIcons.label "Sebentisa ema-ayikhoni Lamancane">
+<!ENTITY restoreDefaultSet.label "Buyisela Isethi Yedifolthi">
+<!ENTITY addNewToolbar.label "Yengeta Ithulu-bha Lensha">
+<!ENTITY saveChanges.label "Kwentekile">
+<!ENTITY undoChanges.label "Cima Tingucuko">
