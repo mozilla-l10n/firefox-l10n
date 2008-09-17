@@ -1,0 +1,103 @@
+<!-- ******* BEGIN LICENSE BLOCK **********
+    Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   
+    The contents of this file are subject to the Mozilla Public License Version
+    1.1 (the "License"); you may not use this file except in compliance with
+    the License. You may obtain a copy of the License at
+    http://www.mozilla.org/MPL/
+   
+    Software distributed under the License is distributed on an "AS IS" basis,
+    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+    for the specific language governing rights and limitations under the
+    License.
+   
+    The Original Code is Mozilla Progress Dialog.
+   
+    The Initial Developer of the Original Code is
+    Netscape Communications Corp.
+    Portions created by the Initial Developer are Copyright (C) 2002
+    the Initial Developer. All Rights Reserved.
+   
+    Contributor(s):
+      Vahe Khachikyan       <vahe@khachikyan.de>
+   
+    Alternatively, the contents of this file may be used under the terms of
+    either the GNU General Public License Version 2 or later (the "GPL"), or
+    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+    in which case the provisions of the GPL or the LGPL are applicable instead
+    of those above. If you wish to allow use of your version of this file only
+    under the terms of either the GPL or the LGPL, and not to allow others to
+    use your version of this file under the terms of the MPL, indicate your
+    decision by deleting the provisions above and replace them with the notice
+    and other provisions required by the LGPL or the GPL. If you do not delete
+    the provisions above, a recipient may use your version of this file under
+    the terms of any one of the MPL, the GPL or the LGPL.
+
+******* END LICENSE BLOCK ********** -->
+<!ENTITY privacy.intro "Նավարկման ընթացքում Ձեր այցելած հանգույցների, կատարած գործողությունների և այլնի մասին ինֆորմացիան &brandShortName;-ը պահպանվում է հետեվյալ տեղերում:">
+<!ENTITY clear.label "Մաքրել">
+<!ENTITY view.label "Դիտել">
+<!ENTITY privacy.label "Գաղտնիություն">
+<!ENTITY itemHistory.label "Մատյան">
+<!ENTITY rememberPages.label "Այցելված էջերի մասին արձանագրությունը պահպանել վերջին">
+<!ENTITY rememberPages.accesskey "պ">
+<!ENTITY rememberDays.label "օրվա համար">
+<!ENTITY clearHistory.label "Ջնջել Նավարկման Մատյանը Հենց Հիմա">
+<!ENTITY clearHistory.accesskey "Ջ">
+<!ENTITY itemFormData.label "Պահպանված Ձեվերը">
+<!ENTITY savedFormData.intro "Էջերի եւ Փնտրավահանակի Ձեվերում մուտքագրված տեղեկությունը պահպանվում է հետագա մուտքագրումը կամ փնտրտուքն արագացնելու համար:">
+<!ENTITY enableFormFill.label "Պահպանել Փնտրավահանակում եվ վեբ ձեվերում իմ մուտքագրած տվյալները">
+<!ENTITY enableFormFill.accesskey "փ">
+<!ENTITY clearFormData.label "Ձեվերի Պահպանված Տվյալներ Հիմա Մաքրել">
+<!ENTITY clearFormData.accesskey "ձ">
+<!ENTITY itemPasswords.label "Գաղտնաբառեր">
+<!ENTITY savedPasswords.intro "&brandShortName; կարող է Վեբ էջերի համար գրանցման տվյալները հիշել, որպեսզի դուք ամեն անգամ այցելելիս չմուտքագրեք:">
+<!ENTITY enablePasswords.label "Հիշել Գաղտնաբառերը">
+<!ENTITY enablePasswords.accesskey "Գ">
+<!ENTITY masterPassword.intro "Եթե նշված է, ապա հիմնական գաղտնաբառը պաշտպանում է բոլոր գաղտնաբառերը. Այնուամենայնիվ դուք պիտի նիստի ընթացքում մեկ անգամ այն մուտքագրեք:">
+<!ENTITY setMasterPassword.label "Հիմնական Գաղտնաբառը">
+<!ENTITY setMasterPassword.accesskey "Հ">
+<!ENTITY removeMasterPassword.label "Ջնջել Հիմնական Գաղտնաբառը…">
+<!ENTITY removeMasterPassword.accesskey "R">
+<!ENTITY viewPasswords.label "Զննել Պահված Գաղտնաբառերը">
+<!ENTITY viewPasswords.accesskey "V">
+<!ENTITY itemDownloads.label "Բեռնավորման Մատյան">
+<!ENTITY downloadManager.intro "Բեռնավորման պատուհանը նշում է նոր բեռնավորված ֆայլերը:">
+<!ENTITY downloadsRetentionPolicy.label "Հեռացնել ֆայլերը Բեռնավորման Կառավարչից.">
+<!ENTITY downloadsRetentionPolicy.accesskey "e">
+<!ENTITY downloadsRemoveImmediately.label "Հաջող բեռնավորելուն պես">
+<!ENTITY downloadsRemoveExit.label "&brandShortName;­ը փակելիս">
+<!ENTITY downloadsRemoveManually.label "Ձեռքով">
+<!ENTITY viewDownloads.label "Դիտել Բեռնավորման Մատյանը">
+<!ENTITY viewDownloads.accesskey "y">
+<!ENTITY clearDownloads.label "Բեռնավորման Մատյանը Հիմա Մաքրել">
+<!ENTITY clearDownloads.accesskey "Բ">
+<!ENTITY itemCookies.label "Պատրաստուքներ">
+<!ENTITY cookies.intro "Պատրաստուքը դա հանգույցի կողմից Ձեր համակարգչում պահվող մի փոքր ինֆորմացիա է: Այն օգտագործվում է գրանցման և այլ ինֆորմացիա հիշելու համար:">
+<!ENTITY enableCookies.label "Թույլատրել պատրաստուքների տեղադրումը">
+<!ENTITY enableCookies.accesskey "պ">
+<!ENTITY exceptions.label "Բացառումներ">
+<!ENTITY cookieExceptions.accesskey "x">
+<!ENTITY enableCookiesForOriginating.label "միայն բուն հանգույցից">
+<!ENTITY enableCookiesForOriginating.accesskey "g">
+<!ENTITY enableCookiesNotRemoved.label "մինչև ես կհեռացնեմ հանգույցի տեղադրած պատրաստուքը">
+<!ENTITY enableCookiesNotRemoved.accesskey "մ">
+<!ENTITY keepCookies.label "Պահել Պատրաստուքները.">
+<!ENTITY keepCookies.accesskey "Պ">
+<!ENTITY acceptNormally.label "մինչ ժամկետանց լինելը">
+<!ENTITY acceptForSession.label "մինչ ես կփակեմ &brandShortName;­ը">
+<!ENTITY askAboutCookies.label "հարցնել ինձ ամեն անգամ">
+<!ENTITY viewCookies.label "Զննել Պատրաստուքները">
+<!ENTITY viewCookies.accesskey "w">
+<!ENTITY clearCookies.label "Պատրաստուքները Հիմա Մաքրել">
+<!ENTITY clearCookies.accesskey "ա">
+<!ENTITY itemCache.label "Պահոց">
+<!ENTITY cache.intro "Ձեր կողմից դիտված էջերը տեղադրվում են պահոցում հետագայում ավելի արագ դիտելու համար:">
+<!ENTITY cacheUseUpTo.label "Պահոցի համար գործածել մինչև.">
+<!ENTITY cacheUseUpTo.accesskey "p">
+<!ENTITY cacheSize.label "ՄԲ սկավառակի տարածք:">
+<!ENTITY clearCache.label "Պահոցը Հիմա Մաքրել">
+<!ENTITY clearCache.accesskey "Պ">
+<!ENTITY sanitizeSettings.label "Դրույթները…">
+<!ENTITY sanitizeSettings.accesskey "դ">
+<!ENTITY sanitize.intro "Մաքրել Անձնական Տվյալները հեռացնում է անձնական ինֆորմացիան &brandShortName;-ը փակելիս կամ համապատասխան ստեղնակցումն օգտագործելիս:">

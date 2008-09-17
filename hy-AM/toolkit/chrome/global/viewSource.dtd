@@ -1,0 +1,86 @@
+<!-- ******* BEGIN LICENSE BLOCK **********
+    Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   
+    The contents of this file are subject to the Mozilla Public License Version
+    1.1 (the "License"); you may not use this file except in compliance with
+    the License. You may obtain a copy of the License at
+    http://www.mozilla.org/MPL/
+   
+    Software distributed under the License is distributed on an "AS IS" basis,
+    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+    for the specific language governing rights and limitations under the
+    License.
+   
+    The Original Code is Mozilla Progress Dialog.
+   
+    The Initial Developer of the Original Code is
+    Netscape Communications Corp.
+    Portions created by the Initial Developer are Copyright (C) 2002
+    the Initial Developer. All Rights Reserved.
+   
+    Contributor(s):
+      Vahe Khachikyan       <vahe@khachikyan.de>
+   
+    Alternatively, the contents of this file may be used under the terms of
+    either the GNU General Public License Version 2 or later (the "GPL"), or
+    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+    in which case the provisions of the GPL or the LGPL are applicable instead
+    of those above. If you wish to allow use of your version of this file only
+    under the terms of either the GPL or the LGPL, and not to allow others to
+    use your version of this file under the terms of the MPL, indicate your
+    decision by deleting the provisions above and replace them with the notice
+    and other provisions required by the LGPL or the GPL. If you do not delete
+    the provisions above, a recipient may use your version of this file under
+    the terms of any one of the MPL, the GPL or the LGPL.
+
+******* END LICENSE BLOCK ********** -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Ակնագիրն ի.">
+<!ENTITY fileMenu.label "Ֆայլ">
+<!ENTITY fileMenu.accesskey "Ֆ">
+<!ENTITY savePageCmd.label "Էջը Պահպանել Որպես…">
+<!ENTITY savePageCmd.accesskey "Ո">
+<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY pageSetupCmd.label "Տպելու Կազմաձեվում…">
+<!ENTITY pageSetupCmd.accesskey "զ">
+<!ENTITY printPreviewCmd.label "Տպելու Նախատեսք">
+<!ENTITY printPreviewCmd.accesskey "տ">
+<!ENTITY printCmd.label "Տպել…">
+<!ENTITY printCmd.accesskey "Տ">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY closeCmd.label "Փակել">
+<!ENTITY closeCmd.accesskey "Փ">
+<!ENTITY closeCmd.commandkey "W">
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY goToLineCmd.label "Գնալ տող համար...">
+<!ENTITY goToLineCmd.accesskey "Գ">
+<!ENTITY goToLineCmd.commandkey "l">
+<!ENTITY viewMenu.label "Նայել">
+<!ENTITY viewMenu.accesskey "Ն">
+<!ENTITY reloadCmd.label "Վերաբեռնավորել">
+<!ENTITY reloadCmd.accesskey "Վ">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Տողադարձել Երկար Տողերը">
+<!ENTITY menu_wrapLongLines.accesskey "դ">
+<!ENTITY menu_highlightSyntax.label "Ընդգծել Ուղղագրությունը">
+<!ENTITY menu_highlightSyntax.accesskey "ղ">
+<!ENTITY menu_textSize.label "Տեքստի Չափը">
+<!ENTITY menu_textSize.accesskey "Չ">
+<!ENTITY menu_textEnlarge.label "Ավելացնել Տեքստի Չափը">
+<!ENTITY menu_textEnlarge.accesskey "Ա">
+<!ENTITY menu_textReduce.label "Նվազացնել Տեքստի Չափը">
+<!ENTITY menu_textReduce.accesskey "Ն">
+<!ENTITY menu_textReset.label "Սովորական">
+<!ENTITY menu_textReset.accesskey "Ս">
+<!ENTITY findOnCmd.label "Գտնել Այս Էջում…">
+<!ENTITY findOnCmd.accesskey "Է">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label "Նորից Գտնել">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">

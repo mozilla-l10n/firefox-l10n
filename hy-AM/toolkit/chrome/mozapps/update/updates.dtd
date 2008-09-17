@@ -1,0 +1,97 @@
+<!-- ******* BEGIN LICENSE BLOCK **********
+    Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   
+    The contents of this file are subject to the Mozilla Public License Version
+    1.1 (the "License"); you may not use this file except in compliance with
+    the License. You may obtain a copy of the License at
+    http://www.mozilla.org/MPL/
+   
+    Software distributed under the License is distributed on an "AS IS" basis,
+    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+    for the specific language governing rights and limitations under the
+    License.
+   
+    The Original Code is Mozilla Progress Dialog.
+   
+    The Initial Developer of the Original Code is
+    Netscape Communications Corp.
+    Portions created by the Initial Developer are Copyright (C) 2002
+    the Initial Developer. All Rights Reserved.
+   
+    Contributor(s):
+      Vahe Khachikyan       <vahe@khachikyan.de>
+   
+    Alternatively, the contents of this file may be used under the terms of
+    either the GNU General Public License Version 2 or later (the "GPL"), or
+    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+    in which case the provisions of the GPL or the LGPL are applicable instead
+    of those above. If you wish to allow use of your version of this file only
+    under the terms of either the GPL or the LGPL, and not to allow others to
+    use your version of this file under the terms of the MPL, indicate your
+    decision by deleting the provisions above and replace them with the notice
+    and other provisions required by the LGPL or the GPL. If you do not delete
+    the provisions above, a recipient may use your version of this file under
+    the terms of any one of the MPL, the GPL or the LGPL.
+
+******* END LICENSE BLOCK ********** -->
+<!ENTITY updateWizard.title "Ծրագրի Թարմացում">
+<!ENTITY window.width "36em">
+<!ENTITY window.macWidth "39em">
+<!ENTITY checking.title "Ստուգում եմ Թարմացումները">
+<!ENTITY checking.label "&brandShortName;-ն այժմ ստուգում է թարմացումների առկայությունը…">
+<!ENTITY cancel.label "Դադարեցնել">
+<!ENTITY cancel.accesskey "Դ">
+<!ENTITY noupdatesfound.title "Թարմացումներ Առկա Չեն">
+<!ENTITY noupdatesfound.intro "Նոր թարմացումներ առկա չեն: &brandShortName;-ը կարող է 
+	պարբերաբար ստուգել նոր թարմացումների առկայությունը:">
+<!ENTITY updatesfound.title "Թարմացում Առկա է">
+<!ENTITY moreDetails.label "Հավելյալ Մանրամասներ">
+<!ENTITY moreDetails.accesskey "Հ">
+<!ENTITY clickHere.label "Այս թարմացման մասին ավելի ընդհանուր տվյալների համար՝ Կտտացրեք Այստեղ">
+<!ENTITY incompatible.warning "Այս թարմացումը կհանգեցնի նրան որ Ձեր տեղադրած որոշ հավելումներ և ձեվավորումներ կդադարեն աշխատել մինչև չթարմացվեն:">
+<!ENTITY listIncompatible.label "Դիտել Ցուցակը">
+<!ENTITY listIncompatible.accesskey "Լ">
+<!ENTITY later.label "Ավելի Ուշ">
+<!ENTITY later.accesskey "շ">
+<!ENTITY download.label "Բեռնավորել և Տեղադրել Հիմա">
+<!ENTITY download.accesskey "Մ">
+<!ENTITY upgrade.evangelism "Խստորեն խորհուրդ է տրվում &brandShortName;-ը անհապաղ  
+		թարմացնել:">
+<!ENTITY license.title "Լիցենզավորման Պայմանագիր">
+<!ENTITY license.intro "Այս թարմացումը տեղադրելու համար պիտի համաձայնվեք լիցենզավորման պայմանագրին. Խնդրում եմ այն ուշադիր կարդաք.">
+<!ENTITY license.instructions "Եթե համաձայն եք այս պայմանագրի կետերին, ստորև սեղմեք Ես Համաձայն եմ թարմացումների տեղադրումը շարունակելու համար:">
+<!ENTITY downloading.title "Բեչնավորում եմ Թարմացումը">
+<!ENTITY downloading.intro "Բեռնավորում եմ թարմացումը…">
+<!ENTITY connecting.label "Միանում եմ թարմացման սպասարկչին…">
+<!ENTITY verificationFailedText.label "&brandShortName; չկարողացավ հավաստել բեռնավորված ըստ աճման թարմացման 
+	           ամբողջականությունը, ուստի հիմա բեռնավորում է ամբողջական
+	           թարմացման փաթեթը:">
+<!ENTITY details.link "Մանրամասներ">
+<!ENTITY pause.label "Ընդմիջել">
+<!ENTITY pause.accesskey "Ը">
+<!ENTITY close.label "Փակել">
+<!ENTITY close.accesskey "Ս">
+<!ENTITY error.label "Խնդիրներ առաջացան այս թարմացուման առկայությունը ստուգելիս, այն 
+	բեռնավորելիս կամ տեղադրելիս: &brandShortName;-ն անհնար է 
+  	թարմացնել, որովհետև. ">
+<!ENTITY errorManual.label "Դուք կարող եք &brandShortName;-ը ինքնուրույն թարմացնել եթե այցելեք այս հղումը և բեռնավորեք առկա ամենաթարմ տարբերակը.">
+<!ENTITY errorpatching.title "Թարմացումը Խափանվեց">
+<!ENTITY errorpatching.intro "Անհնար է կիրառել մասնակի Թարմացումը:
+	&brandShortName;-ն այժմ կփորձի բեռնավորել ամբողջական Թարմացումը:">
+<!ENTITY finished.title "Թարմացումը Բեռնավորվեց">
+<!ENTITY finished.intro "Թարմացումը հաջող կերպով բեռնավորվեց և ստուգվեց:Հիմա պիտի վերագործարկեք
+                                           &brandShortName;-ը, որ թարմացումը տեղադրվի:">
+<!ENTITY finishedBackground.title "Թարմացումը Պատրաստ է Տեղադրման">
+<!ENTITY finishedBackground.intro "&brandShortName;-ը հենց նոր ավարտեց կարեվոր թարմացման բեռնավորումը 
+	                և թարմացումը տեղադրելու համար պիտի վերսկսվի:">
+<!ENTITY finishedBackground.name "Թարմացնել.">
+<!ENTITY finishedBackground.instruction1 "Սեղմեք «Հիմա Վերագործարկել» &brandShortName;-ի բոլոր պատուհաններա 
+ փակելու  և թարմացումը տեղադրելու համար:">
+<!ENTITY finishedBackground.instruction2 "Սեղմեք «Ավելի Ուշ» առանձ վերագործարկման շարունակելու համար. Թարմացումը 
+         կտեղադրվի  &brandShortName;-ը հաջորդ անգամ գործարկելիս:">
+<!ENTITY installed.title "Թարմացումը Տեղադրվեց">
+<!ENTITY installed.intro "Թարմացումը հաջողությամբ տեղադրվեց:">
+<!ENTITY whatsnew.label "Կարդալ մանրամասն թե ինչն է նոր…">
+<!ENTITY update.details.label "Մանրամասներ">
+<!ENTITY update.installedOn.label "Տեղադրված է.">
+<!ENTITY update.status.label "Վիճակը.">

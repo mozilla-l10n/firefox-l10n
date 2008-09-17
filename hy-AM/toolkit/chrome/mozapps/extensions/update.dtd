@@ -1,0 +1,109 @@
+<!-- ******* BEGIN LICENSE BLOCK **********
+    Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   
+    The contents of this file are subject to the Mozilla Public License Version
+    1.1 (the "License"); you may not use this file except in compliance with
+    the License. You may obtain a copy of the License at
+    http://www.mozilla.org/MPL/
+   
+    Software distributed under the License is distributed on an "AS IS" basis,
+    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+    for the specific language governing rights and limitations under the
+    License.
+   
+    The Original Code is Mozilla Progress Dialog.
+   
+    The Initial Developer of the Original Code is
+    Netscape Communications Corp.
+    Portions created by the Initial Developer are Copyright (C) 2002
+    the Initial Developer. All Rights Reserved.
+   
+    Contributor(s):
+      Vahe Khachikyan       <vahe@khachikyan.de>
+   
+    Alternatively, the contents of this file may be used under the terms of
+    either the GNU General Public License Version 2 or later (the "GPL"), or
+    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+    in which case the provisions of the GPL or the LGPL are applicable instead
+    of those above. If you wish to allow use of your version of this file only
+    under the terms of either the GPL or the LGPL, and not to allow others to
+    use your version of this file under the terms of the MPL, indicate your
+    decision by deleting the provisions above and replace them with the notice
+    and other provisions required by the LGPL or the GPL. If you do not delete
+    the provisions above, a recipient may use your version of this file under
+    the terms of any one of the MPL, the GPL or the LGPL.
+
+******* END LICENSE BLOCK ********** -->
+<!ENTITY updateWizard.title "&brandShortName;-ի Թարմացում">
+<!ENTITY mismatch.title "Անհամատեղելի Բաղադրիչներ">
+<!ENTITY mismatch.intro1.label "Հետեվյալ բաղադրիչներն անհամատեղելի են Ձեր կողմից հենց նոր տեղադրված 
+	&brandShortName;-ի տարբերակի հետ:">
+<!ENTITY mismatch.intro2.label "Նրանք անջատվել են մինչև համատեղելի տարբերակների տեղադրումը:">
+<!ENTITY mismatch.intro3.label "&brandShortName;-ը կարող է ստուգել և տեղադրել այս բաղադրիչների նոր համատեղելի տարբերակները:">
+<!ENTITY checking.title "Ստուգում եմ Թարմացումների առկայությունը">
+<!ENTITY checking.intro.label "&brandShortName;-ն այժմ ստուգում է առկա թարմացումները…">
+<!ENTITY checking.status "Սա կարող է մի որոշ ժամանակ տևել…">
+<!ENTITY version.title "Ստուգում եմ Համատեղելիության Թարմացումներ">
+<!ENTITY version.intro.label "&brandShortName;­ը ստուգում է համատեղելիության թարմացումներ  ձեր հավելումների և ձեվավորումների համար…">
+<!ENTITY version.status "Սա կարող է մի որոշ ժամանակ տևել…">
+<!ENTITY found.title "Թարմացումներ Գտնվել են">
+<!ENTITY found.intro.label "&brandShortName;­ը գտավ հետեվյալ առկա թարմացումները.">
+<!ENTITY from.label "սկզբնաղբյուրը.">
+<!ENTITY found.updatetype.patches.accesskey "Ղ">
+<!ENTITY found.updatetype.components.accesskey "Բ">
+<!ENTITY found.updatetype.addons.accesskey "Ա">
+<!ENTITY found.updatetype.languages.accesskey "Լ">
+<!ENTITY found.criticalUpdates.label "&brandShortName;­ի համար Հետեվյալ Կարեվոր Թարմացումներն են առկա.">
+<!ENTITY found.criticalUpdates.info "Դուք պիտի անմիջապես տեղադրեք այս թարմացումները Ձեր համակարգիչը հարձակումներից պաշտպանելու համար:">
+<!ENTITY found.app.infoLink "Հավելյալ Ինֆորմացիա…">
+<!ENTITY found.components.label "Հետվյալ բաղադիրներն ու խից­բաղադիրներն առկա են տեղադրման համար.">
+<!ENTITY found.components.info "Այս բաղադիրների տեղադրումը կարող է նավարկումն առավել հաճելի դարձնել:">
+<!ENTITY found.addons.label "Ձեր կողմից արդեն իսկ տեղադրված հավելումների եվ ձեվավորումների համար առկա են հետեվյալ թարմացումները">
+<!ENTITY found.languages.label "Հետվյալ լեզվական փաթեթներն առկա են.">
+<!ENTITY installing.title "Տեղադրում եմ Թարմացումները">
+<!ENTITY installing.intro.label "Այժմ բեռնավորում և տեղադրում եմ թարմացումները…">
+<!ENTITY installing.disclaimer.label "XXXben.­ Սա չի աշխատի քանի դեռ մենք XPInstall­ի համար սկրիպտների API չունենք:">
+<!ENTITY noupdates.title "Թարմացումներ Առկա Չեն">
+<!ENTITY noupdates.intro.user.label "&brandShortName;­ը չհաջողեց գտնել որևէ առկա թարմացումներ:">
+<!ENTITY noupdates.intro.mismatch.label "&brandShortName;­ը չհաջողեց գտնել որևէ առկա թարմացումներ՝
+                                      հնարավոր է, որ համատեղելի տարբերակներ այժմ առկա չեն:">
+<!ENTITY noupdates.intro2.mismatch.label "&brandShortName;­ը պարբերաբար կստուգի և կտեղեկացնի Ձեզ
+                                           հենց որ համատեղելի տարբերակներ առկա լինեն:">
+<!ENTITY noupdates.intro3.mismatch.label "&brandShortName;­ը կարող է պարբերաբար ստուգել և տեղեկացնել Ձեզ
+                                           հենց որ համատեղելի տարբերակներ առկա լինեն:">
+<!ENTITY noupdates.enableChecking.label "Թույլ տալ &brandShortName;­ին ստուգել թարմացումների առկայությունը:">
+<!ENTITY finished.title "Թարմացումը Եզրափակվեց">
+<!ENTITY finished.updated.label "&brandShortName;­ը տեղադրեց առկա թարմացումները: Որոշ թարմացումների ազդեցության համար պիտի վերագործարկեք &brandShortName;­ը:">
+<!ENTITY finished.remaining.label "Անհնար էր թարմացնել որոշ անհամատեղելի բաղադիրներ,
+                                           գուցե և համատեղելի տարբերակների 
+                                           բացակայության պատճառով: 
+                                           &brandShortName;­ը պարբերաբար կստուգի
+                                           և կտեղեկացնի Ձեզ թարմացված տարբերակների
+                                           առկայության դեպքում:">
+<!ENTITY finished.remaining2.label "Անհնար էր թարմացնել որոշ անհամատեղելի բաղադիրներ,
+                                           գուցե և համատեղելի տարբերակների 
+                                           բացակայության պատճառով: 
+                                           &brandShortName;­ը կարող էպարբերաբար ստուգել
+                                           և կտեղեկացնել Ձեզ թարմացված տարբերակների
+                                           առկայության դեպքում:">
+<!ENTITY finished.error.label "&brandShortName;­ը չհաջողեց որոշ թարմացումների 
+                                           բեռնավորման և տեղադրման
+                                           հարցում:">
+<!ENTITY finished.enableChecking.label "Թույլ տալ &brandShortName;­ին ստուգելթարմացումներ:">
+<!ENTITY finished.mismatch.label "Սեղմեք Եզրափակել &brandShortName;­ը գործարկելու համար:">
+<!ENTITY optional.title "Անպարտադիր Բաղադրամասեր">
+<!ENTITY optional.intro.label "Ընտրեք հավելյալ բաղադիրները, որոնք ցանկանում եք տեղադրել, այնուհետեվ սեղմեք Հիմա Տեղադրել:">
+<!ENTITY errors.title "Խնդիրներ Թարմացման Ընթացքում">
+<!ENTITY errors.intro.label "&brandShortName;­ը թարմացման ընթացքում խնդիրների 
+                                            առաջ է կանգնել որպես հետեվանք 
+                                            ոչ բոլոր բաղադիրներն են թարմացվել:">
+<!ENTITY errors.details.label "Մանրամասներ">
+<!ENTITY errors.details.accesskey "Մ">
+<!ENTITY updateCheckError.description "Որոշ բաների թարմացումները փնտրելիս &brandShortName;­ը
+                                           խնդիրների առաջ է կանգնել:">
+<!ENTITY updateCheckError.label "Մանրամասներ">
+<!ENTITY updateCheckError.accesskey "Մ">
+<!ENTITY resolveMaxVersion.title "Ստուգում եմ համատեղելի հավելումների ու ձեվավորումների առկայությունը…">
+<!ENTITY resolveMaxVersion.intro1.label "&brandShortName;­ը ստուգում է համատեղելիության թարմացումներ  ձեր հավելումների և ձեվավորումների համար…">
+<!ENTITY versioninfo.title "Compatibility Updates">
+<!ENTITY versioninfo.intro "Checking for compatibility updates to your Extensions...">

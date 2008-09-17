@@ -1,0 +1,87 @@
+<!-- ******* BEGIN LICENSE BLOCK **********
+    Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   
+    The contents of this file are subject to the Mozilla Public License Version
+    1.1 (the "License"); you may not use this file except in compliance with
+    the License. You may obtain a copy of the License at
+    http://www.mozilla.org/MPL/
+   
+    Software distributed under the License is distributed on an "AS IS" basis,
+    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+    for the specific language governing rights and limitations under the
+    License.
+   
+    The Original Code is Mozilla Progress Dialog.
+   
+    The Initial Developer of the Original Code is
+    Netscape Communications Corp.
+    Portions created by the Initial Developer are Copyright (C) 2002
+    the Initial Developer. All Rights Reserved.
+   
+    Contributor(s):
+      Vahe Khachikyan       <vahe@khachikyan.de>
+   
+    Alternatively, the contents of this file may be used under the terms of
+    either the GNU General Public License Version 2 or later (the "GPL"), or
+    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+    in which case the provisions of the GPL or the LGPL are applicable instead
+    of those above. If you wish to allow use of your version of this file only
+    under the terms of either the GPL or the LGPL, and not to allow others to
+    use your version of this file under the terms of the MPL, indicate your
+    decision by deleting the provisions above and replace them with the notice
+    and other provisions required by the LGPL or the GPL. If you do not delete
+    the provisions above, a recipient may use your version of this file under
+    the terms of any one of the MPL, the GPL or the LGPL.
+
+******* END LICENSE BLOCK ********** -->
+<!ENTITY extensions.title "Հավելումներ">
+<!ENTITY cmd.info.commandKey "i">
+<!ENTITY cmd.options.commandKey ",">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.uninstall.label "Հեռացնել">
+<!ENTITY cmd.uninstall.tooltip "Հեռացնում է ընտրված հավելումները">
+<!ENTITY cmd.uninstall.accesskey "ռ">
+<!ENTITY cmd.update.label "Թարմացնել">
+<!ENTITY cmd.update.accesskey "թ">
+<!ENTITY cmd.update.tooltip "Ստուգում է Ձեր հավելումների թարմացումները">
+<!ENTITY cmd.useTheme.label "Օգտագործել ձևավորումը">
+<!ENTITY cmd.useTheme.accesskey "օ">
+<!ENTITY cmd.useTheme.tooltip "Փոխում է &brandShortName;­ի ձևավորումը">
+<!ENTITY cmd.install.label "Տեղադրել">
+<!ENTITY cmd.install.tooltip "Տեղադրել հավելում">
+<!ENTITY cmd.install.accesskey "տ">
+<!ENTITY cmd.options.label "Հատկանիշներ">
+<!ENTITY cmd.options.accesskey "հ">
+<!ENTITY cmd.options.tooltip "Զետեղել ընտրված հավելումների հատկանիշները">
+<!ENTITY cmd.optionsUnix.label "Նախըտրանքներ">
+<!ENTITY cmd.optionsUnix.accesskey "ն">
+<!ENTITY cmd.optionsUnix.tooltip "Խմբագրել Ընտրված Հավելման Հատկանիշները">
+<!ENTITY cmd.homepage.label "Այցելել Տնային Էջը">
+<!ENTITY cmd.homepage.accesskey "է">
+<!ENTITY cmd.about.label "Այս հավելման մասին">
+<!ENTITY cmd.about.accesskey "ա">
+<!ENTITY cmd.updateAddon.label "Find Update">
+<!ENTITY cmd.updateAddon.accesskey "F">
+<!ENTITY cmd.enable.label "Միացնել">
+<!ENTITY cmd.enable.accesskey "մ">
+<!ENTITY cmd.disable.label "Անջատել">
+<!ENTITY cmd.disable.accesskey "Ա">
+<!ENTITY cmd.moveToTop.label "Տեղաշարժել Վերեվ">
+<!ENTITY cmd.moveToTop.accesskey "ե">
+<!ENTITY cmd.moveUp.label "Վեր">
+<!ENTITY cmd.moveUp.accesskey "վ">
+<!ENTITY cmd.moveDn.label "Վար">
+<!ENTITY cmd.moveDn.accesskey "ա">
+<!ENTITY cmd.showFolder.label "Ցուցադրել Բաղադրությունը…">
+<!ENTITY cmd.showFolder.accesskey "Բ">
+<!ENTITY options.tooltip "Հատկանիշներ">
+<!ENTITY optionsUnix.tooltip "Նախըտրանքներ">
+<!ENTITY about.tooltip "Մասին">
+<!ENTITY homepage.tooltip "Սկզբնաէջ">
+<!ENTITY installNow.label "Update Now">
+<!ENTITY getMoreExtensions.label "Գտնել այլ հավելումներ">
+<!ENTITY getMoreExtensions.tooltip "Գտնել այլ հավելումներ addons.mozilla.org­ից">
+<!ENTITY getMoreThemes.label "Հավելյալ ձեվավորումներ">
+<!ENTITY getMoreThemes.tooltip "Հավելյալ ձեվավորումներ addons.mozilla.org հանգույցից">
+<!ENTITY previewNoThemeSelected.label "Ոչ մի ձեվավորում ընտրված չե">
+<!ENTITY previewNoPreviewImage.label "Այս ձեվավորումը ցուցադրական էջ չունի">

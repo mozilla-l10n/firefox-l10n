@@ -1,0 +1,94 @@
+<!-- ******* BEGIN LICENSE BLOCK **********
+    Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   
+    The contents of this file are subject to the Mozilla Public License Version
+    1.1 (the "License"); you may not use this file except in compliance with
+    the License. You may obtain a copy of the License at
+    http://www.mozilla.org/MPL/
+   
+    Software distributed under the License is distributed on an "AS IS" basis,
+    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+    for the specific language governing rights and limitations under the
+    License.
+   
+    The Original Code is Mozilla Progress Dialog.
+   
+    The Initial Developer of the Original Code is
+    Netscape Communications Corp.
+    Portions created by the Initial Developer are Copyright (C) 2002
+    the Initial Developer. All Rights Reserved.
+   
+    Contributor(s):
+      Vahe Khachikyan       <vahe@khachikyan.de>
+   
+    Alternatively, the contents of this file may be used under the terms of
+    either the GNU General Public License Version 2 or later (the "GPL"), or
+    the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+    in which case the provisions of the GPL or the LGPL are applicable instead
+    of those above. If you wish to allow use of your version of this file only
+    under the terms of either the GPL or the LGPL, and not to allow others to
+    use your version of this file under the terms of the MPL, indicate your
+    decision by deleting the provisions above and replace them with the notice
+    and other provisions required by the LGPL or the GPL. If you do not delete
+    the provisions above, a recipient may use your version of this file under
+    the terms of any one of the MPL, the GPL or the LGPL.
+
+******* END LICENSE BLOCK ********** -->
+<!ENTITY generalTab.label "Հիմնական">
+<!ENTITY accessibility.label "Մատչելիություն">
+<!ENTITY moveSystemCaret.label "Թույլ տալ ստեղնաշարի օգնությամբ տեքստի ընտրությունը">
+<!ENTITY moveSystemCaret.accesskey "ս">
+<!ENTITY useTypeAheadFind.label "Սկսել փնտրել Ձեր տպելուն զուգահեռ">
+<!ENTITY useTypeAheadFind.accesskey "փ">
+<!ENTITY browsing.label "Նավարկում">
+<!ENTITY enableAutoImageResizing.label "Մեծ նկարները փոքրացնել այնպես, որ տեղավորվեն զննիչի պատուհանում">
+<!ENTITY enableAutoImageResizing.accesskey "փ">
+<!ENTITY useAutoScrolling.label "Օգտագործել ինքնասահքաթերթումը">
+<!ENTITY useAutoScrolling.accesskey "ի">
+<!ENTITY useSmoothScrolling.label "Օգտագործել կոկիկ սահքաթերթումը">
+<!ENTITY useSmoothScrolling.accesskey "կ">
+<!ENTITY updateTab.label "Թարմացնել">
+<!ENTITY autoCheck.label "Ինքնաբար ստուգել թարմացումներ.">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "F">
+<!ENTITY enableExtensionUpdate.label "Իմ հավելումներն ու ձեվավորումները">
+<!ENTITY enableExtensionUpdate.accesskey "ի">
+<!ENTITY enableSearchUpdate.label "Փնտրամեքենաներ">
+<!ENTITY enableSearchUpdate.accesskey "h">
+<!ENTITY checkNow.label "Հիմա Ստուգել">
+<!ENTITY appCheckNow.accesskey "Ս">
+<!ENTITY whenUpdatesFound.label "Երբ որ &brandShortName;­ի համար թարմացումներ են առկա.">
+<!ENTITY modeAskMe.label "Ինձ հարցնել">
+<!ENTITY modeAskMe.accesskey "հ">
+<!ENTITY modeAutomatic.label "Ինքնաբար բեռնավորել և տեղադրել թարմացումը">
+<!ENTITY modeAutomatic.accesskey "ի">
+<!ENTITY modeAutoWarn.label "Զգուշացնել եթե հավելումներ կամ ձեվավորումներ եմ անջատելու">
+<!ENTITY modeAutoWarn.accesskey "Զ">
+<!ENTITY showUpdates.label "Ցուցադրել Թարմացումների Մատյանը">
+<!ENTITY showUpdates.accesskey "Թ">
+<!ENTITY securityTab.label "Անվտանգություն">
+<!ENTITY protocols.label "Աշխատակարգեր">
+<!ENTITY useSSL2.label "Օգտագործել SSL 2.0">
+<!ENTITY useSSL2.accesskey "2">
+<!ENTITY useSSL3.label "Օգտագործել SSL 3.0">
+<!ENTITY useSSL3.accesskey "3">
+<!ENTITY useTLS1.label "Օգտագործել TLS 1.0">
+<!ENTITY useTLS1.accesskey "1">
+<!ENTITY certificates.label "Արտոնաթղթեր">
+<!ENTITY certselect.description "Նշեք թե ինչպես է &brandShortName;­ը արտոնաթղթեր պահանջող հանգույցներին ներկայացնելու համար արտոնաթղթեր ընտրելու:">
+<!ENTITY certselect.auto "Ընտրել Ինքնաբար">
+<!ENTITY certselect.auto.accesskey "Ի">
+<!ENTITY certselect.ask "Ամեն անգամ հարցնել">
+<!ENTITY certselect.ask.accesskey "հ">
+<!ENTITY viewCertificates.label "Դիտել Արտոնաթղթերը">
+<!ENTITY viewCertificates.accesskey "Ա">
+<!ENTITY viewCRLs.label "Վավերազրկման Ցուցակներ">
+<!ENTITY viewCRLs.accesskey "Ց">
+<!ENTITY viewOCSP.label "Հավաստում">
+<!ENTITY viewOCSP.accesskey "Հ">
+<!ENTITY viewSecurityDevices.label "Անվտանգության Սարքեր">
+<!ENTITY viewSecurityDevices.accesskey "Ա">
+<!ENTITY languages.caption "Լեզուներ">
+<!ENTITY languagesInfo.label "Ընտրել վեբ էջերի ցուցադրման Լեզուները:">
+<!ENTITY showLanguages.label "Խմբագրել Լեզուները…">
+<!ENTITY showLanguages.accesskey "Լ">
