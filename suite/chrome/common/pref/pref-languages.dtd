@@ -1,36 +1,22 @@
 <!ENTITY languages.customize.prefLangDescript "Некоторые веб-страницы доступны более чем на одном языке. Укажите порядок выбора языка веб-страницы.">
-<!ENTITY languages.customize.lHeader "Языки">
-<!ENTITY languages.customize.rHeader "Языки, отображаемые на веб-страницах">
+<!ENTITY languages.customize.title "Языки">
 <!ENTITY langtitle.label "Языки для веб-страниц">
 <!ENTITY languages.customize.prefAddLangDescript "Выберите язык(и), которые хотели бы добавить.">
-<!ENTITY languages.customize.engOrder.label "1">
-<!ENTITY languages.customize.engOption.label "Английский">
 <!ENTITY languages.customize.addButton.label "Добавить…">
 <!ENTITY languages.customize.addButton.accesskey "Д">
 <!ENTITY languages.customize.deleteButton.label "Удалить">
 <!ENTITY languages.customize.deleteButton.accesskey "У">
-<!ENTITY languages.customize.title.label "Настройка языков">
 <!ENTITY languages.customize.add.title.label "Добавление языков">
-<!ENTITY languages.customize.left.header "Кодировка">
-<!ENTITY charset.customize.right.header "Выбор поддерживаемых кодировок">
 <!ENTITY languages.customize.available.label "Языки:">
 <!ENTITY languages.customize.active.label "Языки в порядке предпочтения:">
-<!ENTITY languages.customize.reorder.label "Пересортировать">
-<!ENTITY languages.customize.remove.label "Удалить">
-<!ENTITY languages.customize.additional.label "Доступные кодировки">
-<!ENTITY languages.customize.add.label "Добавить">
 <!ENTITY languages.customize.others.label "Другие:">
 <!ENTITY languages.customize.others.accesskey "р">
-<!ENTITY languages.customize.Charset.grouplabel "Кодировка">
-<!ENTITY languages.customize.DefaultCharset.label "Кодировка по умолчанию:">
+<!ENTITY languages.customize.Charset.grouplabel "Кодировка по умолчанию">
+<!ENTITY languages.customize.DefaultCharset.label "Кодировка:">
 <!ENTITY languages.customize.DefaultCharset.accesskey "К">
 <!ENTITY languages.customize.others.examples "например: en-bz, ru-ru">
-<!ENTITY languages.customize.cancel.label "Отмена">
-<!ENTITY languages.customize.save.label "Сохранить">
-<!ENTITY languages.customize.ok.label "ОК">
-<!ENTITY languages.customize.save.popup "Перезапустите браузер, чтобы изменения вступили в силу…">
 <!ENTITY languages.customize.moveUp.label "Вверх">
-<!ENTITY languages.customize.moveUp.accesskey "В">
+<!ENTITY languages.customize.moveUp.accesskey "в">
 <!ENTITY languages.customize.moveDown.label "Вниз">
 <!ENTITY languages.customize.moveDown.accesskey "н">
 <!ENTITY spelling.label "Орфография">

@@ -1,7 +1,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Чтобы сэкономить дисковое пространство, не загружать:">
 <!ENTITY doNotDownload.label "Чтобы сэкономить дисковое пространство, не загружать для работы в автономном режиме:">
-<!ENTITY offlineNewFolder.label "При создании новых папок выбирать их для работы в автономном режиме">
-<!ENTITY offlineNewFolder.accesskey "П">
+<!ENTITY allFoldersOffline.label "Хранить сообщения для этой учётной записи на этом компьютере">
+<!ENTITY allFoldersOffline.accesskey "р">
 <!ENTITY offlineNotDownload.label "Сообщения размером более">
 <!ENTITY offlineNotDownload.accesskey "б">
 <!ENTITY kb.label "КБ">
@@ -25,10 +25,7 @@
 <!ENTITY nntpRemoveBody.accesskey "У">
 <!ENTITY offlineSelectNntp.label "Выбрать группы новостей, доступные в автономном режиме…">
 <!ENTITY offlineSelectNntp.accesskey "ы">
-<!ENTITY offlineSelectImap.label "Выбрать папки, доступные в автономном режиме…">
-<!ENTITY offlineSelectImap.accesskey "ы">
-<!ENTITY offlineDesc.label "Вы можете загрузить сообщения для работы в автономном режиме.">
-<!ENTITY makeInboxMsgsAvailable.label "Сделать сообщения в папке «Входящие» доступными для автономной работы.">
-<!ENTITY makeInboxMsgsAvailable.accesskey "л">
-<!ENTITY offlineGroupTitle.label "Автономная работа">
+<!ENTITY offlineImapAdvancedOffline.label "Дополнительно…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "о">
+<!ENTITY syncGroupTitle.label "Синхронизация сообщений">
 <!ENTITY diskspaceGroupTitle.label "Дисковое пространство">
